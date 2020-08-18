@@ -1,0 +1,79 @@
+Maritime Operations
+Marine VHF 1A-88A
+Channels listed here are the US recognized 25kHz spaced channels from 1A to 88A, and are the most widely used. Some channels are not available in all areas or regions and are noted as such in the description field.
+
+As of September 2018, channels with the A suffix now have newly designated 10xx channel numbers; Channel 01A is now Channel 1001, Channel 05A is now Channel 1005 and so on.
+
+https://www.navcen.uscg.gov/?pageName=mtvhf
+
+ 
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+156.05000 	 	BM		Marine 01A/1001	01A - Port Operations and Commercial - New Orleans / Lower Mississippi 	FM 	Transportation 
+156.25000 	 	BM		Marine 05A/1005	05A - Port Operations - Houston / New Orleans / Seattle 	FM 	Transportation 
+156.30000 	 	BM		Marine 06	06 - Intership Safety 	FM 	Transportation 
+156.35000 	 	BM		Marine 07A/1007	07A - Commercial 	FM 	Transportation 
+156.40000 	 	BM		Marine 08	08 - Commercial Intership 	FM 	Transportation 
+156.45000 	 	BM		Marine 09	09 - Boater Calling 	FM 	Transportation 
+156.50000 	 	BM		Marine 10	11 - Commercial 	FM 	Transportation 
+156.55000 	 	BM		Marine 11	11 - Commerical 	FM 	Transportation 
+156.60000 	 	BM		Marine 12	12 - Port Operations 	FM 	Transportation 
+156.65000 	 	BM		Marine 13	13 - Intership Navigation Safety (Bridges) 	FM 	Transportation 
+156.70000 	 	BM		Marine 14	14 - Port Operations 	FM 	Transportation 
+156.75000 	 	M		Marine 15	15 - Environmental / Class C EPIRB 	FM 	Transportation 
+156.80000 	 	BM		Marine 16	16 - Hailing / Calling / Distress 	FM 	Transportation 
+156.85000 	 	BM		Marine 17	17 - State/local government maritime 	FM 	Transportation 
+156.90000 	 	BM		Marine 18A/1018	18A - Commercial 	FM 	Transportation 
+156.95000 	 	BM		Marine 19A/1019	19A - Commercial 	FM 	Transportation 
+157.00000 	 	BM		Marine 20A/1020	20A - Port Operations 	FM 	Transportation 
+157.00000 	 	M		Marine 20 TX	20TX - Port Operations 	FM 	Transportation 
+161.60000 	 	B		Marine 20 RX	20RX - Port Operations 	FM 	Transportation 
+157.05000 	 	BM		Marine 21A/1021	21A - Coast Guard 	FM 	Transportation 
+157.10000 	 	BM		Marine 22A/1022	22A - Coast Guard Liaison/Maritime Safety Information Broadcasts 	FM 	Transportation 
+157.15000 	 	BM		Marine 23A/1023	23A - Coast Guard 	FM 	Transportation 
+157.20000 	 	M		Marine 24 TX	24TX - Marine Operator 	FM 	Transportation 
+161.80000 	 	B		Marine 24 RX	24RX - Marine Operator 	FM 	Transportation 
+157.25000 	 	M		Marine 25 TX	25TX - Marine Operator 	FM 	Transportation 
+161.85000 	 	B		Marine 25 RX	25RX - Marine Operator 	FM 	Transportation 
+157.30000 	 	M		Marine 26 TX	26TX - Marine Operator 	FM 	Transportation 
+161.90000 	 	B		Marine 26 RX	26RX - Marine Operator 	FM 	Transportation 
+157.35000 	 	M		Marine 27 TX	27TX - Marine Operator 	FM 	Transportation 
+161.95000 	 	B		Marine 27 RX	27RX - Marine Operator 	FM 	Transportation 
+157.40000 	 	M		Marine 28 TX	28TX - Marine Operator 	FM 	Transportation 
+162.00000 	 	B		Marine 28 RX	28RX - Marine Operator 	FM 	Transportation 
+156.17500 	 	BM		Marine 63A/1063	63A - Port Operations / Commercial - New Orleans / Lower Mississippi 	FM 	Transportation 
+156.27500 	 	BM		Marine 65A/1065	65A - Port Operations 	FM 	Transportation 
+156.32500 	 	BM		Marine 66A/1066	66A - Port Operations 	FM 	Transportation 
+156.37500 	 	M		Marine 67	67 - Commercial intership (bridge-to-bridge) 	FM 	Transportation 
+156.42500 	 	BM		Marine 68	68 - Non-Commercial 	FM 	Transportation 
+156.47500 	 	BM		Marine 69	69 - Non-Commercial 	FM 	Transportation 
+156.52500 	 	BM		Marine 70	70 - Digital Selective Calling (no voice) 	FM 	Data 
+156.57500 	 	BM		Marine 71	71 - Non-Commercial 	FM 	Transportation 
+156.62500 	 	M		Marine 72	72 - Non-Commercial (Intership only) 	FM 	Transportation 
+156.67500 	 	BM		Marine 73	73 - Port Operations 	FM 	Transportation 
+156.72500 	 	BM		Marine 74	74 - Port Operations 	FM 	Transportation 
+156.87500 	 	M		Marine 77	77 - Port Operations (Intership only) 	FM 	Transportation 
+156.92500 	 	BM		Marine 78A/1078	78A - Non-Commercial 	FM 	Transportation 
+156.97500 	 	BM		Marine 79A/1079	79A - Commercial (Non-Commercial in Great Lakes only) 	FM 	Transportation 
+157.02500 	 	BM		Marine 80A/1080	80A - Commercial (Non-Commercial in Great Lakes only) 	FM 	Transportation 
+157.07500 	 	BM		Marine 81A/1081	81A - U.S. Government environmental protection 	FM 	Federal 
+157.12500 	 	BM		Marine 82A/1082	82A - U.S. Government only 	FM 	Federal 
+157.17500 	 	BM		Marine 83A/1083	83A - U.S. Coast Guard only 	FM 	Federal 
+157.22500 	 	M		Marine 84 TX	84TX - Ship/shore (telephone) 	FM 	Other 
+161.82500 	 	B		Marine 84 RX	84RX - Ship/shore (telephone) 	FM 	Other 
+157.27500 	 	M		Marine 85 TX	85TX - Ship/shore (telephone) 	FM 	Other 
+161.87500 	 	B		Marine 85 RX	85RX - Ship/shore (telephone) 	FM 	Other 
+157.32500 	 	M		Marine 86 TX	86TX - Ship/shore (telephone) 	FM 	Other 
+161.92500 	 	B		Marine 86 RX	86RX - Ship/shore (telephone) 	FM 	Other 
+157.37500 	 	BM		Marine 87	87 - Ship/shore (telephone) 	FM 	Other 
+157.42500 	 	M		Marine 88	88 - Commercial intership (bridge-to-bridge) 	FM 	Other 
+
+Marine VHF 201-287
+Channels 201-287 are 12.5kHz spaced channels that are interleaved between the 01A-88A plan and are limited in operation
+Marine Data
+AIS and other data technologies are listed here. AIS 1/2 are 25 wide and AIS 3/4 are 12.5 narrow
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+161.97500 	 	M		Marine-AIS 1	Automatic Identification System 1 	Telm 	Data 
+162.02500 	 	M		Marine-AIS 2	Automatic Identification System 2 	Telm 	Data 
+157.41250 	 	M		Marine-AIS 3	Automatic Identification System 3 - Ship 	Telm 	Data 
+162.01250 	 	B		Marine-AIS 4	Automatic Identification System 4 - Shore 	Telm 	Data 
