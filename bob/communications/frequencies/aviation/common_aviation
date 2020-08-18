@@ -1,0 +1,47 @@
+Aviation
+Aviation
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+121.50000 	 	M		VHF Guard	Aircraft Emergency and Distress (VHF Guard) 	AM 	Aircraft 
+121.77500 	 	M		ELT Training	Emergency Locator Transmitter (ELT) Training Beacons 	AM 	Aircraft 
+121.95000 	 	M		AvSup 121.95	Aviation Support 	AM 	Business 
+122.20000 	 	M		Flt Watch Wx	Flight Watch Weather 	AM 	Aircraft 
+122.70000 	 	M		FAA 122.700	Unicom 	AM 	Aircraft 
+122.72500 	 	M		FAA 122.725	Unicom 	AM 	Aircraft 
+122.75000 	 	M		Fixed Air-Air	Fixed wing aircraft air-to-air 	AM 	Aircraft 
+122.77500 	 	M		AvSup 122.775	Aviation Support 	AM 	Business 
+122.80000 	 	M		FAA 122.8	Unicom 	AM 	Aircraft 
+122.85000 	 	M		Multi 122.85	Multicom, Aviation Support 	AM 	Aircraft 
+122.90000 	 	M		Multi 122.9	Multicom, Search and Rescue Training 	AM 	Aircraft 
+122.92500 	 	M		Multi 122.925	Multicom - Special Use, Natural resource management 	AM 	Aircraft 
+122.95000 	 	BM	CSQ	Unicom 122.95	Unicom - Controlled Airports 	AM 	Aircraft 
+122.97500 	 	M		FAA 122.975	Unicom 	AM 	Aircraft 
+123.00000 	 	M		FAA 123.000	Unicom 	AM 	Aircraft 
+123.02500 	 	M		Helo Air-Air	Helicopter Air-to-Air 	AM 	Aircraft 
+123.05000 	 	M		FAA 123.05	Unicom 	AM 	Aircraft 
+123.07500 	 	M		FAA 123.075	Unicom 	AM 	Aircraft 
+123.10000 	 	M		SAR Primary	Search and Rescue primary, ATC for special events secondary 	AM 	Aircraft 
+123.12500 	 	M		FlightTest123.12	Flight Test itinerant 	AM 	Business 
+123.15000 	 	M		FlightTest123.15	Flight Test itinerant 	AM 	Business 
+123.17500 	 	M		FlightTest123.17	Flight Test itinerant 	AM 	Business 
+123.20000 	 	M		FlightTest123.2	Flight Test 	AM 	Business 
+123.22500 	 	M		FlightTest123.22	Flight Test 	AM 	Business 
+123.25000 	 	M		FlightTest123.25	Flight Test 	AM 	Business 
+123.27500 	 	M		FlightTest123.27	Flight Test 	AM 	Business 
+123.30000 	 	M		AvSup 123.3	Aviation Support 	AM 	Business 
+123.32500 	 	M		FlightTest123.32	Flight Test 	AM 	Business 
+123.35000 	 	M		FlightTest123.35	Flight Test 	AM 	Business 
+123.37500 	 	M		FlightTest123.37	Flight Test 	AM 	Business 
+123.40000 	 	M		FlightTest123.4	Flight Test itinerant 	AM 	Business 
+123.42500 	 	M		FlightTest123.42	Flight Test itinerant 	AM 	Business 
+123.45000 	 	M		FlightTest123.45	Flight Test/Unofficial Air-to-Air 	AM 	Business 
+123.47500 	 	M		FlightTest123.47	Flight Test 	AM 	Business 
+123.50000 	 	M		AvSup 123.5	Aviation Support 	AM 	Business 
+123.52500 	 	M		FlightTest123.52	Flight Test 	AM 	Business 
+123.55000 	 	M		FlightTest123.55	Flight Test 	AM 	Business 
+123.57500 	 	M		FlightTest123.57	Flight Test 	AM 	Business 
+126.20000 	 	M		MilCom 126.2	Military Common (advisory) 	AM 	Aircraft 
+129.52500 	 	M		Deicing Comm	Deicing Common 	AM 	Business 
+134.10000 	 	M		MilCom 134.1	Military Common (advisory) 	AM 	Aircraft 
+135.85000 	 	M		FltIns135.85	FAA Flight Inspection 	AM 	Federal 
+135.95000 	 	M		FltIns135.95	FAA Flight Inspection 	AM 	Federal 
