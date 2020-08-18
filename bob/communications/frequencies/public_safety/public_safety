@@ -1,0 +1,15 @@
+Common Public Safety
+Law Enforcement
+
+Frequency 	Input    	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+155.37000 	   	 	BM		LERN	Law Enforcement Intersystem in some areas 	FMN 	Law Tac 
+173.07500 	   	 	BM		LoJack	LoJack Stolen Vehicle Recovery System 	Telm 	Data 
+
+Search and Rescue
+Typical rescue beacon radios transmit a 5 watt signal for 0.5 second once every 50 seconds. Most of these terminals sold since 1997 include a GPS receiver so they can report precise GPS lat-lon location. Aircraft distress radiobeacons (ELTs) are automatically activated by g-force switches that detect sudden deceleration during a crash, while maritime radiobeacons (EPIRBs) are normally activated by contact with sea water. The "406 MHz" distress radiobeacon band is 100 kHz wide and centered at 406.05 MHz. Individual beacons transmit in assigned 3 kHz channels
+Frequency 	Input    	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+406.05000 	   	 	M		C-S Beacon A	Cospas-Sarsat Rescue Beacons A 	Telm 	Data 
+406.02500 	   	 	M		C-S Beacon B	Cospas-Sarsat Rescue Beacons Ch. B 	Telm 	Data 
+406.02800 	   	 	M		C-S Beacon C	Cospas-Sarsat Rescue Beacons Ch. C 	Telm 	Data 
+406.03700 	   	 	M		C-S Beacon F	Cospas-Sarsat Rescue Beacons Ch. F 	Telm 	Data 
+406.04000 	   	 	M		C-S Beacon G	Cospas-Sarsat Rescue Beacons Ch. G 	Telm 	Data 
