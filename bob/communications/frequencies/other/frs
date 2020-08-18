@@ -1,0 +1,29 @@
+Family Radio Service (FRS)
+Family Radio Service (FRS)
+The Family Radio Service is a license-free, private, two-way, very short-distance voice and data communications service for facilitating family and group activities. These frequencies are shared with the General Mobile Radio Service (GMRS).
+
+Note: A discrepancy has been noted with Federal documents as well as some FRS/GMRS radios, which list Channel 8 as 467.5675 MHz. Research with the FCC has shown that the correct frequency is 467.5625 in keeping with the 25kHz spacing of these and the GMRS frequencies (see Wiki for details).
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+462.56250 	 	M		FRS 01	Channel 1 	FMN 	Other 
+462.58750 	 	M		FRS 02	Channel 2 	FMN 	Other 
+462.61250 	 	M		FRS 03	Channel 3 	FMN 	Other 
+462.63750 	 	M		FRS 04	Channel 4 	FMN 	Other 
+462.66250 	 	M		FRS 05	Channel 5 	FMN 	Other 
+462.68750 	 	M		FRS 06	Channel 6 	FMN 	Other 
+462.71250 	 	M		FRS 07	Channel 7 	FMN 	Other 
+467.56250 	 	M		FRS 08	Channel 8 	FMN 	Other 
+467.58750 	 	M		FRS 09	Channel 9 	FMN 	Other 
+467.61250 	 	M		FRS 10	Channel 10 	FMN 	Other 
+467.63750 	 	M		FRS 11	Channel 11 	FMN 	Other 
+467.66250 	 	M		FRS 12	Channel 12 	FMN 	Other 
+467.68750 	 	M		FRS 13	Channel 13 	FMN 	Other 
+467.71250 	 	M		FRS 14	Channel 14 	FMN 	Other 
+462.55000 	 	M		FRS 15	Channel 15 	FMN 	Other 
+462.57500 	 	M		FRS 16	Channel 16 	FMN 	Other 
+462.60000 	 	M		FRS 17	Channel 17 	FMN 	Other 
+462.62500 	 	M		FRS 18	Channel 18 	FMN 	Other 
+462.65000 	 	M		FRS 19	Channel 19 	FMN 	Other 
+462.67500 	 	M		FRS 20	Channel 20 	FMN 	Other 
+462.70000 	 	M		FRS 21	Channel 21 	FMN 	Other 
+462.72500 	 	M		FRS 22	Channel 22 	FMN 	Other 
