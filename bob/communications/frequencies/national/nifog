@@ -1,0 +1,239 @@
+This listing is comprised of the nationally recognized "National Interoperability Field Operations Guide (NIFOG)" frequencies for the United States, as well as the legacy frequencies that have been given new universal nomenclatures.
+
+Many public safety agencies have some or all of these channels available to them. Their use and availability will depend on each agency. These channels may be used for small or wide area incidents and should be monitored during such multiagency incidents. As such, these channels will NOT be in the normal local database listings unless a different squelch tone is in use for the local area.
+
+Many legacy law enforcement, fire and EMS freq's are known by different names throughout the country, but their use is fairly consistent. The channel names listed here, are listed by their new nationally recognized nomenclature, and are not officially part of the NIFOG. For example, a common law enforcement mutual aid frequency of 155.475 has been known as: National, NLEEF, NLER, LERN, LEEN, LEN, etc. It is now known as VLAW31. Even with the new naming, the older names may still persist when monitoring such channels.
+
+Many channels are also setup for repeater operation. Each of those channels have a corresponding direct channel which is the same as the repeater output. Therefore if you hear a mention of 8TAC91D, it is the same output frequency of 8TAC91. Since the output frequency is the same, the channels with the "D" suffix will not be listed separately.
+
+VTAC17 is the same as Marine Channel 25 and may only be used in areas at least 100 miles from a navigable waterway, and by ground stations only.
+
+Please refer to the wiki article for notes regarding the use of CTCSS tones on Low Band, VHF, UHF, and 800 Public Safety Common frequencies.
+
+Frequencies used commonly are also listed in the "public safety" categories. Although they are listed in the official NIFOG documentation, they are not nationwide interoperable frequencies.
+
+As of April 2019, the current NIFOG revision is 1.6.1A. The database is broken down into its NIFOG format for easier readability.
+
+(In the event of a discrepancy in nomenclature or usage, the current NIFOG found at the US Department of Homeland Security, Cybersecurity and Infrastructure Security Agency web page will take precedence).
+
+NIFOG
+VHF Low Band
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+39.46000 	 	RM	156.7 PL	LLAW1/1D	LLAW 1 - Law Enforcement 	FM 	Interop 
+39.48000 	 	RM	156.7 PL	LFIRE2/2D	LFIRE 2 - Fire 	FM 	Interop 
+45.86000 	 	RM	156.7 PL	LLAW3/3D	LLAW 3 - Law Enforcement 	FM 	Interop 
+45.88000 	 	RM	156.7 PL	LFIRE4/4D	LFIRE 4 - Fire 	FM 	Interop 
+
+VHF National Interoperability
+136.5 PL is used on the transmit frequencies for mobile repeaters
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+155.75250 	 	BM	156.7 PL	VCALL10	VCALL10 - Calling 	FMN 	Interop 
+151.13750 	 	RM	156.7 PL	VTAC11/36	VTAC11/36 - Tactical/Repeater 	FMN 	Interop 
+154.45250 	 	RM	156.7 PL	VTAC12/37	VTAC12/37 - Tactical/Repeater 	FMN 	Interop 
+158.73750 	 	RM	156.7 PL	VTAC13/38	VTAC13/38 - Tactical/Repeater 	FMN 	Interop 
+159.47250 	 	RM	156.7 PL	VTAC14/33	VTAC14/33 - Tactical/Repeater 	FMN 	Interop 
+161.85000 	 	RM	156.7 PL	VTAC17/17D	VTAC17 - Tactical 	FMN 	Interop 
+158.73750 	 	RM	156.7 PL	VTAC34/34D	VTAC34 - Tactical/Repeater 	FMN 	Interop 
+159.47250 	 	RM	156.7 PL	VTAC35/35D	VTAC35 - Tactical/Repeater 	FMN 	Interop 
+
+VHF Federal Incident Response Interoperability
+IR 6 to IR 9 are the direct channels for 1-5
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+169.53750 	 	RM	167.9 PL	NC 1/IR 5	NC 1/IR 5 Incident Calling 	FMN 	Interop 
+170.01250 	 	RM	167.9 PL	IR 1/IR 6	IR 1/IR 6 Incident Command 	FMN 	Interop 
+170.41250 	 	RM	167.9 PL	IR 2/IR 7	IR 2/IR 7 Medical Evacuation Control 	FMN 	Interop 
+170.68750 	 	RM	167.9 PL	IR 3/IR 8	IR 3/IR 8 Logistics Control 	FMN 	Interop 
+173.03750 	 	RM	167.9 PL	IR 4/IR 9	IR 4/IR 9 Interagency Convoy 	FMN 	Interop 
+
+VHF Federal Law Enforcement Interoperability
+LE A and LE 6 - LE 9 are direct channels for LE 1-5
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+167.08750 	 	RM	167.9 PL	LE 1/LE A	LE 1/LE A Tactical/Calling 	FMN 	Interop 
+167.25000 	 	RM	68F NAC	LE 2/LE 6	LE 2/LE 6 Tactical 	P25 	Interop 
+167.75000 	 	RM	68F NAC	LE 3/LE 7	LE 3/LE 7 Tactical 	P25 	Interop 
+168.11250 	 	RM	68F NAC	LE 4/LE 8	LE 4/LE 8 Tactical 	P25 	Interop 
+168.46250 	 	RM	68F NAC	LE 5/LE 9	LE 5/LE 9 Tactical 	P25 	Interop 
+
+UHF National Interoperability
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+453.21250 	 	RM	156.7 PL	UCALL40/40D	UCALL40 - Calling 	FMN 	Interop 
+453.46250 	 	RM	156.7 PL	UTAC41/41D	UTAC41 - Tactical 	FMN 	Interop 
+453.71250 	 	RM	156.7 PL	UTAC42/42D	UTAC42 - Tactical 	FMN 	Interop 
+453.86250 	 	RM	156.7 PL	UTAC43/43D	UTAC43 - Tactical 	FMN 	Interop 
+
+UHF Federal Incident Response Interoperability
+IR 15 is direct for NC 2, IR16-18 are direct for IR 10-12
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+410.23750 	 	RM	167.9 PL	NC-2/IR-15	NC2/IR15 - Calling 	FMN 	Interop 
+410.43750 	 	RM	167.9 PL	IR-10/IR-16	IR10/IR16 - Ad hoc assignment 	FMN 	Interop 
+410.63750 	 	RM	167.9 PL	IR-11/IR-17	IR11/IR17 - Ad hoc assignment 	FMN 	Interop 
+410.83750 	 	RM	167.9 PL	IR-12/IR-18	IR12/IR18 - SAR Incident Command 	FMN 	Interop 
+413.18750 	 	BM	167.9 PL	IR13	IR13 - Ad hoc assignment 	FMN 	Interop 
+413.21250 	 	BM	167.9 PL	IR14	IR14 - Interagency Convoy 	FMN 	Interop 
+
+UHF Federal Law Enforcement Interoperability
+LE 16-18 is direct for LE 10-12
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+414.03750 	 	BM	167.9 PL	LE B	LE B - Calling 	FMN 	Interop 
+409.98750 	 	RM	167.9 PL	LE 10/LE 16	LE10/LE16 - Tactical 	FMN 	Interop 
+410.18750 	 	RM	68F NAC	LE 11/LE 17	LE11/LE17 - Tactical 	P25 	Interop 
+410.61250 	 	RM	68F NAC	LE 12/LE 18	LE12/LR18 - Tactical 	P25 	Interop 
+414.06250 	 	BM	68F NAC	LE 13	LE13 - Tactical 	P25 	Interop 
+414.31250 	 	BM	68F NAC	LE 14	LE14 - Tactical 	P25 	Interop 
+414.33750 	 	BM	68F NAC	LE 15	LE15 - Tactical 	P25 	Interop 
+
+700 MHz National Interoperability
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+769.24375 	 	RM	293 NAC	7CALL50/50D	7CALL50 - Primary Calling 	P25 	Interop 
+769.14375 	 	RM	293 NAC	7TAC51/51D	7TAC51 - General Public Safety 	P25 	Interop 
+769.64375 	 	RM	293 NAC	7TAC52/52D	7TAC52 - General Public Safety 	P25 	Interop 
+770.14375 	 	RM	293 NAC	7TAC53/53D	7TAC53 - General Public Safety 	P25 	Interop 
+770.64375 	 	RM	293 NAC	7TAC54/54D	7TAC54 - General Public Safety 	P25 	Interop 
+769.74375 	 	RM	293 NAC	7TAC55/55D	7TAC55 - General Public Safety 	P25 	Interop 
+770.24375 	 	RM	293 NAC	7TAC56/56D	7TAC56 - General Public Safety 	P25 	Interop 
+770.99375 	 	RM	293 NAC	7GTAC57/57D	7GTAC57 - Other Public Service 	P25 	Interop 
+770.89375 	 	RM	293 NAC	7MOB59/59D	7MOB59 - Mobile Repeater 	P25 	Interop 
+770.39375 	 	RM	293 NAC	7LAW61/61D	7LAW61 - Law Enforcement 	P25 	Interop 
+770.49375 	 	RM	293 NAC	7LAW62/62D	7LAW62 - Law Enforcement 	P25 	Interop 
+769.89375 	 	RM	293 NAC	7FIRE63/63D	7FIRE63 - Fire 	P25 	Interop 
+769.99375 	 	RM	293 NAC	7FIRE64/64D	7FIRE64 - Fire 	P25 	Interop 
+769.39375 	 	RM	293 NAC	7MED65/65D	7MED65 - EMS 	P25 	Interop 
+769.49375 	 	RM	293 NAC	7MED66/66D	7MED66 - EMS 	P25 	Interop 
+770.74375 	 	RM	293 NAC	7DATA69/69D	7DATA69 - Mobile Data 	P25 	Interop 
+773.25625 	 	RM	293 NAC	7CALL70/70D	7CALL70 - Secondary Calling 	P25 	Interop 
+773.10625 	 	RM	293 NAC	7TAC71/71D	7TAC71 - General Public Safety 	P25 	Interop 
+773.60625 	 	RM	293 NAC	7TAC72/72D	7TAC72 - General Public Safety 	P25 	Interop 
+774.10625 	 	RM	293 NAC	7TAC73/73D	7TAC73 - General Public Safety 	P25 	Interop 
+774.60625 	 	RM	293 NAC	7TAC74/74D	7TAC74 - General Public Safety 	P25 	Interop 
+773.75625 	 	RM	293 NAC	7TAC75/75D	7TAC75 - General Public Safety 	P25 	Interop 
+774.25625 	 	RM	293 NAC	7TAC76/76D	7TAC76 - General Public Safety 	P25 	Interop 
+774.85625 	 	RM	293 NAC	7GTAC77/77D	7GTAC77 - Other Public Service 	P25 	Interop 
+774.50625 	 	RM	293 NAC	7MOB79/79D	7MOB79 - Mobile Repeater 	P25 	Interop 
+774.00625 	 	RM	293 NAC	7LAW81/81D	7LAW81 - Law Enforcement 	P25 	Interop 
+774.35625 	 	RM	293 NAC	7LAW82/82D	7LAW82 - Law Enforcement 	P25 	Interop 
+773.50625 	 	RM	293 NAC	7FIRE83/83D	7FIRE83 - Fire 	P25 	Interop 
+773.85625 	 	RM	293 NAC	7FIRE84/84D	7FIRE84 - Fire 	P25 	Interop 
+773.00625 	 	RM	293 NAC	7MED86/86D	7MED86 - EMS 	P25 	Interop 
+773.35625 	 	RM	293 NAC	7MED87/87D	7MED87 - EMS 	P25 	Interop 
+774.75625 	 	RM	293 NAC	7DATA89/89D	7DATA89 - Mobile Data 	P25 	Interop 
+
+800 MHz National Mutual Aid
+These channels replaced the ICALL/ITAC channels nationwide. ICALL/ITAC is found in a limited area in Southern California and is listed for those regions in the California database
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+851.01250 	 	RM	156.7 PL	8CALL90/90D	8CALL90 - Calling 	FM 	Interop 
+851.51250 	 	RM	156.7 PL	8TAC91/91D	8TAC91 - Tactical 	FM 	Interop 
+852.01250 	 	RM	156.7 PL	8TAC92/92D	8TAC92 - Tactical 	FM 	Interop 
+852.51250 	 	RM	156.7 PL	8TAC93/93D	8TAC93 - Tactical 	FM 	Interop 
+853.01250 	 	RM	156.7 PL	8TAC94/94D	8TAC94 - Tactical 	FM 	Interop 
+
+
+Public Safety Common
+VHF Public Safety Mutual Aid Common
+These frequencies are not covered by the blanket authorization for nationwide interoperability channels, and a valid FCC license is required for them. Availability is subject to other licensed users in the same area which may be using these frequencies for other purposes (see explanation at the top of the page). CTCSS tone 156.7 is the recommended standard tone, but tones may vary based on local usage.
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+155.16000 	 	BM	127.3 PL	VSAR16	VSAR16 - Search/Rescue 	FMN 	Interop 
+154.28000 	 	BM	156.7 PL	VFIRE21	VFIRE21 - Fire 	FMN 	Interop 
+154.26500 	 	BM	156.7 PL	VFIRE22	VFIRE22 - Fire 	FMN 	Interop 
+154.29500 	 	BM	156.7 PL	VFIRE23	VFIRE23 - Fire 	FMN 	Interop 
+154.27250 	 	BM	156.7 PL	VFIRE24	VFIRE24 - Fire 	FMN 	Interop 
+154.28750 	 	BM	156.7 PL	VFIRE25	VFIRE25 - Fire 	FMN 	Interop 
+154.30250 	 	BM	156.7 PL	VFIRE26	VFIRE26 - Fire 	FMN 	Interop 
+155.34000 	 	BM	156.7 PL	VMED28	VMED28 - EMS 	FMN 	Interop 
+155.34750 	 	BM	156.7 PL	VMED29	VMED29 - EMS 	FMN 	Interop 
+155.47500 	 	BM	156.7 PL	VLAW31	VLAW31 - Law Enforcement 	FMN 	Interop 
+155.48250 	 	BM	156.7 PL	VLAW32	VLAW32 - Law Enforcement 	FMN 	Interop 
+
+UHF MED Channels
+These frequencies are not covered by the blanket authorization for nationwide interoperability channels, and a valid FCC license is required for them. These are common channels for EMS and hospitals to use for communications. They have also been known to be used for mass casualty incidents. In some areas, organized EMS dispatch centers will use this plan for dispatching and coordinating EMS and hospital resources. PL tone(s) vary by agency and location. Frequencies ending in .xxx5 (12.5 kHz channel centers) must not exceed 11.25 kHz bandwidth (narrowband). Frequencies ending in .xxxx5 (6.25 kHz channel centers) must not exceed 6 kHz bandwidth (ultra-narrowband). Med channels 9/91/92/93, 10/101/102/103 are typically used for dispatching and/or mutual aid. Med 1-10 are the original med channels prior to adding in the 6.25 spaced channels.
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+463.00000 	 	RM		Med-1	Med-1 	FMN 	EMS-Tac 
+463.02500 	 	RM		Med-2	Med-2 	FMN 	EMS-Tac 
+463.05000 	 	RM		Med-3	Med-3 	FMN 	EMS-Tac 
+463.07500 	 	RM		Med-4	Med-4 	FMN 	EMS-Tac 
+463.10000 	 	RM		Med-5	Med-5 	FMN 	EMS-Tac 
+463.12500 	 	RM		Med-6	Med-6 	FMN 	EMS-Tac 
+463.15000 	 	RM		Med-7	Med-7 	FMN 	EMS-Tac 
+463.17500 	 	RM		Med-8	Med-8 	FMN 	EMS-Tac 
+462.95000 	 	RM		Med-9	Med-9 	FMN 	EMS Dispatch 
+462.97500 	 	RM		Med-10	Med-10 	FMN 	EMS Dispatch 
+463.00625 	 	RM		Med-11	Med-11 	FMN 	EMS-Tac 
+463.01250 	 	RM		Med-12	Med-12 	FMN 	EMS-Tac 
+463.01875 	 	RM		Med-13	Med-13 	FMN 	EMS-Tac 
+463.03125 	 	RM		Med-21	Med-21 	FMN 	EMS-Tac 
+463.03750 	 	RM		Med-22	Med-22 	FMN 	EMS-Tac 
+463.04375 	 	RM		Med-23	Med-23 	FMN 	EMS-Tac 
+463.05625 	 	RM		Med-31	Med-31 	FMN 	EMS-Tac 
+463.06250 	 	RM		Med-32	Med-32 	FMN 	EMS-Tac 
+463.06875 	 	RM		Med-33	Med-33 	FMN 	EMS-Tac 
+463.08125 	 	RM		Med-41	Med-41 	FMN 	EMS-Tac 
+463.08750 	 	RM		Med-42	Med-42 	FMN 	EMS-Tac 
+463.09375 	 	RM		Med-43	Med-43 	FMN 	EMS-Tac 
+463.10625 	 	RM		Med-51	Med-51 	FMN 	EMS-Tac 
+463.11250 	 	RM		Med-52	Med-52 	FMN 	EMS-Tac 
+463.11875 	 	RM		Med-53	Med-53 	FMN 	EMS-Tac 
+463.13125 	 	RM		Med-61	Med-61 	FMN 	EMS-Tac 
+463.13750 	 	RM		Med-62	Med-62 	FMN 	EMS-Tac 
+463.14375 	 	RM		Med-63	Med-63 	FMN 	EMS-Tac 
+463.15625 	 	RM		Med-71	Med-71 	FMN 	EMS-Tac 
+463.16250 	 	RM		Med-72	Med-72 	FMN 	EMS-Tac 
+463.16875 	 	RM		Med-73	Med-73 	FMN 	EMS-Tac 
+463.18125 	 	RM		Med-81	Med-81 	FMN 	EMS-Tac 
+463.18750 	 	RM		Med-82	Med-82 	FMN 	EMS-Tac 
+463.19375 	 	RM		Med-83	Med-83 	FMN 	EMS-Tac 
+462.95625 	 	RM		Med-91	Med-91 	FMN 	EMS Dispatch 
+462.96250 	 	RM		Med-92	Med-92 	FMN 	EMS Dispatch 
+462.96875 	 	BM		Med-93	Med-93 	FMN 	EMS Dispatch 
+462.98125 	 	RM		Med-101	Med-101 	FMN 	EMS Dispatch 
+462.98750 	 	RM		Med-102	Med-102 	FMN 	EMS Dispatch 
+462.99375 	 	RM		Med-103	Med-103 	FMN 	EMS Dispatch 
+
+700 MHz Deployable Trunked Systems
+These channels have been allocated to be used for a field deployed trunked radio system. As listed, the radio/scanner will not track these channels in a normal (trunked) manner and must be scanned conventionally as system ID's and talkgroups will vary on ownership. Channels 5 and 6 are recommended for control channels.
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+769.23125 	 	RM		700 DTS 1	Deployable Trunked System 1 	P25 	Interop 
+769.38125 	 	RM		700 DTS 2	Deployable Trunked System 2 	P25 	Interop 
+769.73125 	 	RM		700 DTS 3	Deployable Trunked System 3 	P25 	Interop 
+769.88125 	 	RM		700 DTS 4	Deployable Trunked System 4 	P25 	Interop 
+774.51875 	 	RM		700 DTS 5	Deployable Trunked System 5 	P25 	Interop 
+774.86875 	 	RM		700 DTS 6	Deployable Trunked System 6 	P25 	Interop 
+
+700 MHz Itinerant
+These narrowband low power itinerant channels are designated for low power, on-scene incident response purposes using mobiles and portables by agencies traveling outside their normal coverage area.
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+769.05625 	 	RM		769.05625	Itinerant/National 	P25 	Multi-Tac 
+769.06875 	 	RM		769.06875	Itinerant/National 	P25 	Multi-Tac 
+774.99375 	 	RM		774.99375	Itinerant/National 	P25 	Multi-Tac 
+
+700 MHz Low Power
+These narrowband low power channels are subject to regional planning, and may be used for purposes such as on-scene tactical channels or vehicular repeaters.
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+769.00625 	 	M		769.00625	Regional Low power use 	P25 	Multi-Tac 
+769.01875 	 	M		769.01875	Regional Low power use 	P25 	Multi-Tac 
+769.03125 	 	M		769.03125	Regional Low power use 	P25 	Multi-Tac 
+769.04375 	 	M		769.04375	Regional Low power use 	P25 	Multi-Tac 
+774.93125 	 	M		774.93125	Regional Low power use 	P25 	Multi-Tac 
+774.94375 	 	M		774.94375	Regional Low power use 	P25 	Multi-Tac 
+774.95625 	 	M		774.95625	Regional Low power use 	P25 	Multi-Tac 
+774.96875 	 	M		774.96875	Regional Low power use 	P25 	Multi-Tac 
+774.98125 	 	M		774.98125	Regional Low power use 	P25 	Multi-Tac 
+
+700 MHz Nationwide Air-Ground
+These channels are reserved for air-ground communications to be used by low-altitude aircraft and ground based stations
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+769.13125 	 	RM	293 NAC	7AG58/58D	Air - Ground 58/58D 	P25 	Interop 
+769.63125 	 	RM	293 NAC	7AG60/60D	Air - Ground 60/60D 	P25 	Interop 
+770.13125 	 	RM	293 NAC	7AG67/67D	Air - Ground 67/67D 	P25 	Interop 
+770.63125 	 	RM	293 NAC	7AG68/68D	Air - Ground 68/68D 	P25 	Interop 
+773.11875 	 	RM	293 NAC	7AG78/78D	Air - Ground 78/78D 	P25 	Interop 
+773.61875 	 	RM	293 NAC	7AG80/80D	Air - Ground 80/80D 	P25 	Interop 
+774.11875 	 	RM	293 NAC	7AG85/85D	Air - Ground 85/85D 	P25 	Interop 
+774.61875 	 	RM	293 NAC	7AG88/88D	Air - Ground 88/88D (Landing Zone) 	P25 	Interop 
