@@ -1,0 +1,60 @@
+Aeronautical
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+126.20000 	 	BM		MilTwrCommon	Military Tower 	AM 	Aircraft 
+242.40000 	 	BM		ArmyHeli2424	Army Helo Common (Two Four-Two Four) 	AM 	Military 
+242.50000 	 	BM		ArmyHeli2425	Army Helo Common 	AM 	Military 
+243.00000 	 	BM		MilAir Emerg	Emergency/Guard UHF 	AM 	Aircraft 
+252.10000 	 	BM		AFRS CP Comm	Air Force Reserves (AFRS) Command Post Common 	AM 	Military 
+252.52500 	 	BM		USAFCommT25	USAF Common [Triple 25] 	AM 	Military 
+255.40000 	 	BM		Mil Flt Svc	Military Flight Service Station 	AM 	Aircraft 
+257.80000 	 	BM		MilTwrComCiv	Military Tower Common at Civilian Airports 	AM 	Aircraft 
+282.80000 	 	M		Military SAR	Military Search and Rescue 	AM 	Military 
+299.50000 	 	BM		USAF Comm	USAF Common [Cheap Suit] 	AM 	Military 
+300.60000 	 	BM		USAFComm	USAF Common [Thirty O Six] 	AM 	Military 
+300.65000 	 	BM		USAFCommAA	USAF Common Air to Air 	AM 	Military 
+303.00000 	 	BM		USAFComm3030	USAF Common (Thirty-Thirty) [Winchester] 	AM 	Military 
+303.05000 	 	BM		USAFComm	USAF Common Air to Air 	AM 	Military 
+311.00000 	 	BM		ACC CP Pri	Air Combat Command (ACC) Command Post Primary 	AM 	Military 
+319.40000 	 	BM		AMC CP	Air Mobility Command (AMC) Command Post 	AM 	Military 
+321.00000 	 	BM		ACC CP Sec	Air Combat Command (ACC) Command Post Secondary 	AM 	Military 
+323.80000 	 	M		Airborne CP	Airborne Command Post 	AM 	Military 
+333.00000 	 	BM		USAFComm333	USAF Common [Triple Three] 	AM 	Military 
+333.30000 	 	BM		USAFComm	USAF Common [Quad Three} 	AM 	Military 
+333.55000 	 	BM		USAFCommFH	USAF Common [Full House] 	AM 	Military 
+335.55000 	 	BM		USAFCommFH2	USAF Common {Full House II] 	AM 	Military 
+341.75000 	 	BM		USAF A/A	USAF Air to Air 	AM 	Military 
+345.60000 	 	BM		USAFComm	USAF Common [Straight] 	AM 	Military 
+349.40000 	 	BM		AMC CP	Air Mobility Command CP Common 	AM 	Military 
+351.00000 	 	BM		USAFComm	USAF Common [Haircut] 	AM 	Military 
+357.00000 	 	BM		USAFComm	USAF Common [Magnum] 	AM 	Military 
+364.20000 	 	BM		NORAD AICC	NORAD Air Intercept Control Common 	AM 	Military 
+383.55000 	 	M		TACAMO Data	Take Charge and Move Out (TACAMO) Data 	Telm 	Data 
+384.50000 	 	BM		USAFComm	USAF Common [Pistol] 	AM 	Military 
+384.55000 	 	BM		USAFComm	USAF Common [Pistol 5] 	AM 	Military 
+
+Intra-Squad Radios (ISR)
+For Federal/Military Users, small 0.5W FM radios.
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+396.87500 	 	M		ISR 01	ISR Channel 1 	FM 	Military 
+397.12500 	 	M		ISR 02	ISR Channel 2 	FM 	Military 
+397.17500 	 	M		ISR 03	ISR Channel 3 	FM 	Military 
+397.37500 	 	M		ISR 04	ISR Channel 4 	FM 	Military 
+397.42500 	 	M		ISR 05	ISR Channel 5 	FM 	Military 
+397.47500 	 	M		ISR 06	ISR Channel 6 	FM 	Military 
+397.55000 	 	M		ISR 07	ISR Channel 7 	FM 	Military 
+397.95000 	 	M		ISR 08	ISR Channel 8 	FM 	Military 
+398.05000 	 	M		ISR 09	ISR Channel 9 	FM 	Military 
+399.42500 	 	M		ISR 10	ISR Channel 10 	FM 	Military 
+399.47500 	 	M		ISR 11	ISR Channel 11 	FM 	Military 
+399.72500 	 	M		ISR 12	ISR Channel 12 	FM 	Military 
+399.92500 	 	M		ISR 13	ISR Channel 13 	FM 	Military 
+399.97500 	 	M		ISR 14	ISR Channel 14 	FM 	Military 
+
+Search and Rescue
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+40.50000 	 	M		Mil SAR 40.5	Military Search and Rescue 	FM 	Military 
+138.45000 	 	M		AF SAR 138.4	Air Force Search and Rescue 	AM 	Military 
+138.75000 	 	M		AF SAR 138.7	Air Force Search and Rescue 	AM 	Military 
