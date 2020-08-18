@@ -1,0 +1,57 @@
+154.78500 	KAI745 	RM	103.5 PL	StF SD Law 1 	Police: Dispatch - Countywide [Law 1] 	FMN 	Law Dispatch 
+155.61000 	KAI745 	RM	103.5 PL	StF SD Law 2 	Police: Tactical / Information Checks [Law 2] 	FMN 	Law Dispatch 
+156.15000 	 	M	103.5 PL	StFr SD Jail 	Sheriff: Jail [Ch 5] (No license) 	FMN 	Corrections 
+156.18000 	WPCY409 	RM	103.5 PL	StFr CivDfns 	Civil Defense [Ch. 11] 	FMN 	Emergency Ops 
+155.76750 	WPBX463 	RM	141.3 PL	StFran Fire C/W 	Fire: Dispatch - Countywide - New 	FMN 	Fire Dispatch 
+154.20500 	WPBX463 	BM	123.0 PL	StFran FD Calls 	Fire: Dispatch - Calls [Ch 2] 	FMN 	Fire-Tac 
+154.34000 	KBY448 	BM	103.5 PL	StFran FD Trafc 	Fire: Apparatus Traffic [Ch 1] 	FMN 	Fire-Tac 
+153.95000 	WPBX463 	M	103.5 PL	SFC FireCmd0 	Fire: Command 0 [Tac / Ch. 3] 	FMN 	Fire-Tac 
+154.26500 	 	BM		SFC FireCmd1 	Fire: Command 1 [Tac] 	FMN 	Fire-Tac 
+156.12000 	WNJC995 	RM	114.8 PL	StFr Highway 	Highway Department [Ch 1] 	FMN 	Public Works 
+151.49000 	WPNZ849 	RM	67.0 PL	PHC Mnt/Sec 	Maintenance / Security 	FMN 	Security 
+453.27500 	KNGW931 	RM		SEMH Securit 	Security 	FMN 	Security 
+453.37500 	WPVW216 	RM	173.8 PL	SEMH Mental 	Mental Hospital Ops 	FMN 	Business 
+451.45000 	WQIX395 	RM		SEMH Maint 	Mental Health Center: Maintenance 	FMN 	Business 
+155.98500 	WRBK207 	RM	156.7 PL	StFr EMS 1 	EMS: Main (Dispatch, Apparatus Traffic) [Ch 10] 	FMN 	EMS Dispatch 
+453.32500 	KON266 	RM	156.7 PL	StFr EMS MX 	EMS: Remote Links 	FMN 	EMS Dispatch 
+154.40000 	WXF961 	BM		Bismark Fire 	Fireground 	FMN 	Fire Dispatch 
+155.78250 	WQVI324 	BM		Bismark City 	City Workers (was 155.925) 	FMN 	Public Works 
+155.49000 	WRDB265 	RM	71.9 PL	BnTer Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.16000 	WPQF846 	BM	123.0 PL	BigRivr Fire 	Fire: Admin 	FMN 	Fire Dispatch 
+155.11500 	WNJI258 	BM		LkTim FD Adm 	Fire: Administration 	FMN 	Fire-Tac 
+154.23500 	KYS962 	BM		BnTe FD Admn 	Fire: Admin 	FMN 	Fire-Tac 
+154.43000 	 	M	123.0 PL	BigRiver FG 	Fireground 	FMN 	Fire-Tac 
+155.86500 	WRDB265 	RM	131.8 PL	BnTe PbWrks1 	Public Works 	FMN 	Public Works 
+155.43750 	WQCQ960 	RM		BnTe PbWrks2 	Public Works  	FMN 	Public Works 
+155.85000 	 	M		Desloge Police 	Police: Private (also Fire?) 	FMN 	Law Tac 
+155.92500 	KNFL985 	BM	103.5 PL	Desloge PubWrks 	Public Works / Police: Private 	FMN 	Public Works 
+153.72500 	WQGM902 	F		Desloge WDD  	Water Distribution Data  	Telm 	Data 
+155.04000 	KFP709 	RM	103.5 PL	Farm Police1 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+154.77000 	KYU421 	M	103.5 PL	Farm Police c2c 	Police: Car-to-Car/Emergency [Ch 2] 	FMN 	Law Tac 
+453.08750 	WQJZ623 	M		Farm Police MX 	Police: Mobile Extenders  	FMN 	Law Dispatch 
+152.37500 	WPPU593 	BM		WCFPA Admin 	Fire: Admin  	FMN 	Fire-Tac 
+155.94000 	KNCC952 	BM	103.5 PL	Farm Maint 	Public Works: Department of Maintenance 	FMN 	Public Works 
+155.88000 	 	BM	103.5 PL	Farm Streets 	Street Department [no license] 	FMN 	Public Works 
+173.23750 	WQJF576 	F	632 DPL	Farm WDD A 	Water Distribution Data (Telemetry) 	FMN 	Data 
+173.33750 	WQIK518 	F		Farm WDD B 	Water Distribution Data  	Telm 	Data 
+154.60000 	 	M	103.5 PL	Farm CivicCenter 	Civic Center / Water Park 	FMN 	Public Works 
+154.07000 	KNEF665 	M		GsCreek Fire 	Fireground 	FMN 	Fire-Tac 
+460.61250 	KNEF665 	M		GsCrk Fire MX  	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+155.77500 	WPCE445 	BM		Leadington Fire  	Fire: Local 	FMN 	Fire-Tac 
+155.07000 	WPKF745 	BM		Leadwood Police 	Police 	FMN 	Law Dispatch 
+154.34000 	WQTQ772 	RM		Leadwood Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.88000 	KCQ230 	RM	186.2 PL	ParkHills PW 	Public Works / Police: Private (?) 	FMN 	Public Works 
+173.20375 	WPQC537 	F		ParkHills WDD  	Water Distribution Data (CSQ) 	Telm 	Data 
+157.68000 	 	M	103.5 PL	TDL Private3 	Private 3 	FMN 	Law Tac 
+452.62500 	WPSK526 	RM		CentralR3 SchBus 	Buses (Licensee: Bell, Hal D) 	FMN 	Schools 
+152.87000 	WPTN283 	RM	CC 10TG 900SL 2	Farm SchoolBus A 	Buses (was 156.7) 	DMR 	Schools 
+159.82500 	WPTN283 	M		Farm SchoolBus C 	Buses 	FMN 	Schools 
+155.40750 	WNRX712 	RM	CC 4TG 3SL 1	NStF School A 	Buses (Bonne Terre) 	DMR 	Schools 
+155.28000 	WNRX712 	M	CC 10TG 1SL 1	NStF School B 	Operations (New 6/18) 	DMR 	Schools 
+155.28000 	WNRX712 	M	131.8 PL	NStF SchBus Old 	Buses ? (Bonne Terre, Desloge) 	FMN 	Schools 
+153.21500 	WNQQ334 	RM	179.9 PL	WStF School Bus 	Buses (Park Hills, Leadwood) 	FMN 	Schools 
+153.23000 	WQBK865 	M		MAC Security 	Department of Public Safety (Security) 	FMN 	Security 
+153.24500 	WQBK865 	M		MAC Admin 	Admin 	FMN 	Schools 
+153.50000 	WQBK865 	M		MAC Gen Svc 	General Service 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Dittronics - UHF (DMR)	 DMR Hytera XPT	 SEMO	Warner Communications-BJC Hospitals (NXDN)	 NXDN NEXEDGE 4800
+ St Louis	

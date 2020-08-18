@@ -1,0 +1,59 @@
+156.01500 	WYR515 	RM	CSQ	Col FireDisp 	County Fire Dispatch 	FMN 	Fire Dispatch 
+151.42250 	KGD704 	BM	351 DPL	Col Ops1  	County Ops 1 	FMN 	Multi-Tac 
+159.30000 	KGD704 	BM	351 DPL	Col Ops2 	County Ops 2 	FMN 	Multi-Tac 
+151.35500 	KGD704 	BM	351 DPL	Col EMS Disp 	County EMS Disp 	FMN 	EMS Dispatch 
+156.15000 	 	M	351 DPL	Col MobOps1 	Mobile Ops 1 	FMN 	Fire-Tac 
+158.91000 	 	M	351 DPL	Col MobOps2 	Mobile Ops 2 	FMN 	Fire-Tac 
+151.13750 	 	M	CSQ	Col MobOps3 	Mobile Ops 3 	FMN 	Fire-Tac 
+154.45250 	 	M	CSQ	Col MobOps4 	Mobile Ops 4 	FMN 	Fire-Tac 
+155.75250 	 	M	CSQ	Col MobOps5 	Mobile Ops 5 	FMN 	Fire-Tac 
+158.73750 	 	M	CSQ	Col MobOps6 	Mobile Ops 6 	FMN 	Fire-Tac 
+159.45750 	 	M	CSQ	Col MobOps7 	Mobile Ops 7 	FMN 	Fire-Tac 
+46.12000 	KGD704 	BM	CSQ	Col Fire 1Lo 	County Fire 1 Low-Band (Interop) 	FM 	Interop 
+153.84500 	WQHB477 	BM	CSQ	Espy FD 	Espy FD 	FMN 	Fire-Tac 
+154.17500 	WPCP860 	BM	CSQ	Bloom FP  	Bloomsburg Fire Police 	FMN 	Fire-Talk 
+154.20500 	WPCP860 	BM	141.3 PL	Bloom FireOp 	Bloomsburg Fire Ops 	FMN 	Fire-Tac 
+155.35500 	WPNX613 	BM	141.3 PL	Bloom EMS 	Bloomsburg EMS 	FMN 	EMS-Talk 
+156.06750 	WQLL217 	M	CSQ	Berwick FG 	Berwick Fireground 	FMN 	Fire-Tac 
+159.02250 	WQLS485 	M	351 DPL	Lime Ridg FD 	Lime Ridge VFD Fireground 	FMN 	Fire-Tac 
+159.39750 	WQJR344 	M	CSQ	Buckhorn FD 	Buckhorn FD 	FMN 	Fire-Tac 
+462.95000 	WYZ234 	RM	210.7 PL	Col Med 9 	EMS Med-9 	FMN 	EMS-Talk 
+462.97500 	WYZ234 	RM	210.7 PL	Col Med 10 	EMS Med-10 	FMN 	EMS-Talk 
+463.00000 	WYZ234 	RM	210.7 PL	Col Med 1 	EMS Med-1 	FMN 	EMS-Talk 
+154.89000 	WYR516 	RM		Col P1 Disp  	County P1 - Police Dispatch 	FMN 	Law Dispatch 
+155.49000 	WYR516 	BM		Col P2 Reg  	County P2 - Police  Regional 	FMN 	Law Talk 
+155.47500 	WYR516 	BM		Col P4 MA  	County P4 - Police  Mutual Aid 	FMN 	Interop 
+154.05500 	WNBM852 	BM	141.3 PL	Col P5 EMA 	County P5 - Police / EMA 	FMN 	Law Talk 
+154.34000 	WQIK265 	RM	141.3 PL	Col Co Jail 	County Prison 	FMN 	Corrections 
+159.18000 	KGB318 	RM	141.3 PL	Berwick PD 	Berwick PD 	FMN 	Law Dispatch 
+155.55000 	WGC442 	BM	141.3 PL	BloomsburgPD 	Bloomsburg Town Police 	FMN 	Law Talk 
+152.87750 	 	M	179.9 PL	Berwick PW 	Berwick Public Works 	FMN 	Public Works 
+159.09000 	WPPH370 	BM	141.3 PL	Briar Cr DPW 	Briar Creek Township - DPW 	FMN 	Public Works 
+158.74500 	WNMQ808 	BM		Greenwood 	Greenwood Township - Services / EMA 	FMN 	Emergency Ops 
+151.06250 	WPXE462 	BM	141.3 PL	Hemlock Twp 	Hemlock Twp - DPW 	FMN 	Public Works 
+453.35000 	PQD957 	RM	141.3 PL	Jackson DPW 	Jackson Township - DPW 	FMN 	Public Works 
+154.81500 	KNNF914 	BM	141.3 PL	N Centre Twp 	North Centre Township - Services 	FMN 	Public Works 
+155.10000 	KNNS448 	BM	141.3 PL	Scott Twp PW 	Scott Township - DPW 	FMN 	Public Works 
+155.83500 	WNUH658 	BM	141.3 PL	S Centre Twp 	South Centre Township - Services 	FMN 	Public Works 
+154.05500 	WNBM852 	BM	CSQ	Col EMA Page 	Paging 	FMN 	Emergency Ops 
+451.70000 	WNUX262 	RM	103.5 PL	Columbia EMA 	Columbia EMA 	FMN 	Emergency Ops 
+155.04000 	WNMJ734 	BM	123.0 PL	Bloom U Sec2 	Bloomsburg Univ Police Ch2 	FMN 	Schools 
+158.86500 	KNCS267 	RM	123.0 PL	Bloom U Mtc 	Bloomsburg Univ Maintenance 	FMN 	Schools 
+452.30000 	WPLT521 	RM	CSQ	D-ville SBus 	Danville/Bloomsburg/Catawissa area school buses 	FM 	Schools 
+461.05000 	WPLY521 	RM	127.3 PL	Berwick SBus 	Catawissa/Berwick/Bloomsburg area school buses 	FM 	Schools 
+122.80000 	 	BM		N13 CTAF 	CTAF/Unicom 	AM 	Aircraft 
+126.30000 	 	BM		AC/DC 	Approach/Departure 	AM 	Aircraft 
+151.52000 	 	BM	114.8 PL	B Fair Foods 	Foods 	FM 	Business 
+151.62500 	 	BM	67.0 PL	B Fair Vendr 	Vendors - Games "?" 	FM 	Business 
+151.95500 	 	BM	CSQ	B Fair Tickt 	Fair Parking & Ticket Booths 	FM 	Business 
+152.88500 	 	BM	131.8 PL	B Fair Ofc 	Office 	FM 	Business 
+154.20500 	WPCP860 	BM	141.3 PL	B Fair FD 	Fire Department - Track Area 	FM 	Business 
+154.54000 	 	BM	CSQ	B Fair Prkg 	Fair Parking 	FM 	Business 
+154.57000 	 	BM	100.0 PL	B Fair Vend4 	Vendors Ch.4 	FM 	Business 
+154.60000 	 	BM	CSQ	B Fair Sec 3 	Security & Gates Ch.3 	FM 	Business 
+158.40000 	 	BM	CSQ	B Fair Games 	Fair Ch.1 - Games 	FM 	Business 
+462.52500 	 	BM		B Fair Ops 	Fair Operations 	FM 	Business 
+469.01250 	 	BM		B Fair Ops 5 	Fair Operations 5 	FM 	Business 
+Bloomsburg University DMR	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Bloomsburg	Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Industrial Electronics (Catawissa)	 LTR Standard
+ Catawissa	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)
+ OpenSky 9600 baud	 Statewide	

@@ -1,0 +1,52 @@
+155.65500 	KTR528 	RM	218 NAC	CC SO Disp 	Sheriff Dispatch (Talkgroup 1) 	P25 	Law Dispatch 
+155.94000 	KTR528 	RM		CC SO Tac 	Sheriff Secondary 	FMN 	Law Talk 
+158.85000 	WQCT621 	RM	127.3 PL	CC SO Jail 	Sheriff Jail 	FM 	Corrections 
+158.74500 	WNMN460 	RM	146 NAC	CC Fire-D 	County Fire Dispatch 	P25 	Fire Dispatch 
+158.74500 	WNMN460 	RM	146.2 PL	CC Fire-A 	County Fire Dispatch 	FMN 	Fire Dispatch 
+154.16000 	WPKL290 	BM		Berlin VFD 	Berlin Volunteer Fire Department 	FMN 	Fire-Talk 
+155.25000 	WQUD810 	RM	110.9 PL	BethsediaVFD 	Bethsedia Volunteer Fire Department 	FMN 	Fire-Talk 
+157.63500 	WPGU470 	M	146.2 PL	GoldridgeVFD 	Gold Ridge Volunteer Fire Department 	FMN 	Fire-Talk 
+155.89500 	WPUN794 	BM	146 NAC	JohnCrossVFD 	Johnsons Crossing Volunteer Fire Department 	P25 	Fire-Talk 
+159.36750 	WQRJ746 	RM		Loretto VFD 	Loretto Volunteer Fire Department 	FMN 	Fire-Talk 
+157.71000 	WQON234 	M	131.8 PL	Trimble VFD 	Trimble Volunteer Fire Department 	FMN 	Fire-Talk 
+155.29500 	WPAF841 	RM	127.3 PL	WestPntVFD-A 	West Point Volunteer Fire Department 	FMN 	Fire Dispatch 
+155.29500 	WPAF841 	RM	130 NAC	WestPntVFD-D 	West Point Volunteer Fire Department 	P25 	Fire Dispatch 
+155.82750 	WQOQ931 	RM	203.5 PL	Logan Fire 	Logan Fire and Rescue Telemetry 	FMN 	Data 
+155.78250 	WPNW785 	RM	196.6 PL	CC Rescue N 	Rescue North 	FMN 	EMS Dispatch 
+154.18250 	WPNW785 	RM	196.6 PL	CC Rescue S 	Rescue South 	FMN 	EMS Dispatch 
+154.72500 	KUP254 	RM	420 NAC	CRMC Disp 	EMS Dispatch 	P25 	EMS Dispatch 
+155.38500 	KUP254 	BM	179.9 PL	CRMC EMS 2 	EMS Secondary 	FMN 	EMS-Tac 
+155.34000 	WQOV200 	BM	179.9 PL	CRMC HEAR 	Cullman Regional Medical Center 	FMN 	Interop 
+159.18750 	WPNV859 	RM	107.2 PL	Interop East 	Interop East 	FMN 	Interop 
+151.29500 	WPNV859 	RM	107.2 PL	Interop West 	Interop West 	FMN 	Interop 
+453.87500 	WPNV859 	RM	110.9 PL	Cullman EMA 	Emergency Managment 	FMN 	Data 
+461.95000 	KDP579 	RM	331 DPL	Comm of Edu 	Commission on Education Bus Operations 	FMN 	Schools 
+45.48000 	KNJB860 	RM	131.8 PL	CARTS 	Cullman Area Rural Transportation System 	FMN 	Transportation 
+155.70750 	WQJQ456 	RM	331 DPL	Parks 	County Parks 	FMN 	Public Works 
+451.26250 	WQAQ365 	B		Water Telem 	County Water Authority Telemetry 	FMN 	Data 
+453.55000 	WQGJ467 	RM	100.0 PL	Highway Dept 	Highway Dept. 	FMN 	Public Works 
+453.95000 	WPGR307 	RM	100.0 PL	Sanitation 	Sanitation 	FMN 	Public Works 
+458.22500 	WQVB578 	F	100.0 PL	CulCoWtrTelm 	Water Department Telemetry 	FMN 	Data 
+155.19000 	KQQ996 	RM	219 NAC	CPD Dispatch 	Police Dispatch 	P25 	Law Dispatch 
+154.69500 	KQQ996 	M	221 NAC	CPD Tac 	Police Tactical 	P25 	Law Tac 
+159.44250 	KAP958 	RM	500 NAC	CFD Disp 	Fire Dispatch 	P25 	Fire Dispatch 
+154.26500 	WPFQ663 	M	156.7 PL	CFD Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
+154.28000 	WPFQ663 	BM	156.7 PL	CFD Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
+154.29500 	WPFQ663 	M	156.7 PL	CFD Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
+153.53000 	WQYN468 	RM	141.3 PL	Water Dept.  	Water Dept.  	FMN 	Utilities 
+155.52000 	WPLQ419 	RM		Housing Auth 	Housing Authority 	FMN 	Public Works 
+156.19500 	WNYI536 	RM	565 DPL	Public Works 	Public Works 	FMN 	Public Works 
+457.27500 	WPML976 	F		Cull WS Telm 	Water and Sewer Telemetry 	Telm 	Data 
+151.94000 	 	M	162 DPL	East Elem School 	East Elementary School 	FMN 	Schools 
+152.30000 	WQVK642 	RM	127.3 PL	Cullman HS 	Cullman High School 	FMN 	Schools 
+159.63000 	WQUI592 	M	103.5 PL	Cullman MS 	Cullman Middle School 	FMN 	Schools 
+159.52500 	WPLQ421 	BM		DC CMN/FD 	Town Common / Fire 	FMN 	Multi-Talk 
+155.95500 	WZM908 	RM	220 NAC	HPD Disp 	Police Dispatch 	P25 	Law Dispatch 
+154.73250 	WZM908 	BM	127.3 PL	HPD Cars 	Police Car-to-Car 	FMN 	Law Talk 
+151.44500 	WRBP355 	RM	156 NAC	HFD Disp D 	Fire Dispatch 	P25 	Fire Dispatch 
+151.44500 	WRBP355 	RM	156.7 PL	HFD Disp A 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.49000 	WPUX896 	RM	82.5 PL	HP Town Gov 	Town Government - Public Safety 	FMN 	Multi-Talk 
+154.37000 	WNIA968 	RM	146.2 PL	VP FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.51500 	WNCC659 	RM	110.9 PL	WallaceState 	Campus Operations 	FMN 	Schools 
+ Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	AllComm Wireless (LTR)	 LTR Standard	 Various	SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)
+ Various	

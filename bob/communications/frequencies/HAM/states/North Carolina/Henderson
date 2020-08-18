@@ -1,0 +1,63 @@
+155.26500 	KKC947 	RM	173.8 PL	HC-EMS-DSP 	Henderson EMS/Rescue Dispatch 	FMN 	Multi-Dispatch 
+154.43000 	WFR324 	RM	173.8 PL	HC-FIR-DSP 	Henderson Fire Dispatch 	FMN 	Fire Dispatch 
+154.25000 	WFR324 	BM	173.8 PL	HC-FG-1 	Henderson Fireground 1 	FMN 	Fire-Tac 
+154.19000 	WFR324 	BM	173.8 PL	HC-FG-2 	Henderson Fireground 2 	FMN 	Fire-Tac 
+154.37000 	WFR324 	BM	173.8 PL	HC-FG-3 	Henderson Fireground 3 	FMN 	Fire-Tac 
+156.24000 	WYZ385 	BM	173.8 PL	HC-FG-4-LZ 	Henderson Fireground 4 (LZ Command) 	FMN 	Fire-Tac 
+154.28000 	WYZ385 	BM	173.8 PL	STATE-FIRE 	State Fire 	FM 	Fire-Talk 
+155.28000 	WPGH683 	BM	173.8 PL	STATE-EMS 	State EMS/Rescue 	FM 	EMS-Talk 
+155.34000 	WPGH683 	BM	173.8 PL	EMS-HSP-HEAR 	EMS to Hospital - HEAR 	FM 	Hospital 
+463.15000 	WGT571 	BM	173.8 PL	EMS-HSP-MED7 	EMS to Hospital - MED-7 	FM 	Hospital 
+155.59500 	 	RM	151.4 PL	HCSO-DSP-BR 	Henderson Sheriff Dispatch - Bearwallow 	FMN 	Law Dispatch 
+156.21750 	 	RM	151.4 PL	HCSO-DSP-JMP 	Henderson Sheriff Dispatch - Jump Off 	FMN 	Law Dispatch 
+151.49000 	 	RM	151.4 PL	HCSO-DSP-COR 	Henderson Sheriff Dispatch - Corbin 	FMN 	Law Dispatch 
+154.71000 	 	BM	67.0 PL	HCSO-TAC-1 	Henderson Sheriff Tactical 1 	FMN 	Law Tac 
+155.40000 	 	BM	151.4 PL	HCSO-TAC-2 	Henderson Sheriff Tactical 2 	FMN 	Law Tac 
+154.87500 	KIB891 	BM	151.4 PL	LAW-MUT-AID 	Henderson Sheriff Mutual Aid 	FM 	Law Talk 
+151.07000 	WPJK773 	RM	151.4 PL	HCSO-COURT 	Henderson Sheriff Court House 	FM 	Law Tac 
+155.07000 	 	RM	151.4 PL	HCSO-TAC-10 	Henderson Sheriff Tactical 10 	FM 	Law Tac 
+151.15250 	WPML717 	RM	85.4 PL	HCSO-JAIL 	Henderson Sheriff Jail Operations 	FM 	Law Tac 
+155.49750 	WPML717 	M		HCSO-JAIL-TC 	Henderson Sheriff Jail Tactical 	FM 	Law Tac 
+151.40000 	 	RM	632 DPL	HCSO-JAIL-TC 	Henderson Sheriff Jail Tactical 	FM 	Law Tac 
+150.83000 	KIB284 	RM	173.8 PL	VHFD-PVT 	Valley Hill FD Private 	FM 	Fire-Talk 
+151.83500 	WPEC964 	M	173.8 PL	VHFD-TAC-12 	Valley Hill FD Tactical  	FM 	Fire-Tac 
+152.40500 	WQDH810 	RM	118.8 PL	GRFD-PVT 	Green River FD Private 	FM 	Fire-Talk 
+157.50000 	WPNT943 	M	118.8 PL	GRFD-TAC-13 	Green River FD Tactical 	FM 	Fire-Tac 
+151.10000 	WPUP280 	RM	114 DPL	BRFD-PVT 	Blue Ridge FD Private 	FM 	Fire-Talk 
+152.42000 	WPJM428 	M	151.4 PL	BRFD-TAC-14 	Blue Ridge FD Tactical 	FM 	Fire-Tac 
+153.56000 	WQFQ887 	RM	173.8 PL	EFD-PVT 	Edneyville FD Private 	FM 	Fire-Talk 
+151.77500 	WQFQ887 	M	173.8 PL	EFD-TAC-15 	Edneyville FD Tactical 	FM 	Fire-Tac 
+152.31500 	WPGB388 	RM	173.8 PL	EHSFD-PVT 	Etowah-Horse Shoe FD Private 	FM 	Fire-Talk 
+151.95500 	WPGB388 	M	173.8 PL	EHSFD-TAC-16 	Etowah-Horse Shoe FD Tactical 	FM 	Fire-Tac 
+150.99500 	KYA75 	RM	173.8 PL	MHFD-PVT 	Mountain Home FD Private 	FM 	Fire-Talk 
+156.01500 	WQKA924 	M	103.5 PL	MHFD-TAC-17 	Mountain Home FD Tactical 	FM 	Fire-Tac 
+152.99000 	WQFZ538 	RM	97.4 PL	MRFD-PVT 	Mills River FD Private 	FM 	Fire-Talk 
+154.31000 	KQB31 	M	118.8 PL	MRFD-TAC-18 	Mills River FD Tactical 	FM 	Fire-Tac 
+152.91500 	WPJG596 	RM	127.3 PL	DFD-PVT 	Dana FD Private 	FM 	Fire-Talk 
+151.71500 	WPJG596 	M	97.4 PL	DFD-TAC-19 	Dana FD Tactical 	FM 	Fire-Tac 
+152.33000 	WQCC979 	RM	173.8 PL	BCFD-PVT 	Bat Cave FD Private 	FM 	Fire-Talk 
+152.28500 	WQBQ263 	RM	703 DPL	GFD-PVT 	Gerton FD Private 	FM 	Fire-Talk 
+152.34500 	WPJI634 	RM	107.2 PL	SFD-PVT 	Saluda FD Private 	FM 	Fire-Talk 
+151.89500 	WPJI634 	M	77.0 PL	SFD-TAC-23 	Saluda FD Tactical 	FM 	Fire-Tac 
+155.20500 	WPGH683 	RM	173.8 PL	HCRS-PVT 	Henderson Rescue Private 	FM 	EMS-Talk 
+151.58000 	WPYN656 	RM	146.2 PL	Pardee Hosp 	Pardee Hospital 	FM 	EMS-Tac 
+453.75000 	 	RM	431 DPL	Government 	Government 	FM 	Public Works 
+37.10000 	KVD593 	RM		HendersnGovt 	Henderson County Building Inspections and Animal control 	FM 	Public Works 
+153.41000 	KU5366 	BM	110.9 PL	HendWater 	County Water Department 	FM 	Public Works 
+158.79000 	WPDV414 	RM	023 DPL	Animal Contr 	Animal Control 	FM 	Law Talk 
+158.79000 	WPDV414 	RM	025 DPL	School Maint 	School Maintenance 	FM 	Public Works 
+158.79000 	WPDV414 	RM	606 DPL	County Insp. 	Inpections 	FM 	Public Works 
+154.40000 	WPJZ641 	RM	203.5 PL	Fire Private 	Fire Private 	FM 	Fire-Talk 
+155.41500 	WPRF532 	RM	151.4 PL	14 	Police 	FM 	Law Dispatch 
+153.78500 	KNNH992 	BM	151.4 PL	16 	Police Private 	FM 	Law Talk 
+154.22000 	KDG253 	RM	192.8 PL	1 	Fire 	FMN 	Fire Dispatch 
+155.10750 	KDG253 	BM	192.8 PL	Henderson FD 	Fire Private 	FM 	Fire-Talk 
+155.79000 	KIB891 	RM	151.4 PL	1 	Police (Sheriff Ch. 3) 	FM 	Law Dispatch 
+155.80500 	WPRF532 	BM	91.5 PL	2 	Police 	FM 	Law Tac 
+155.82000 	WPRF532 	M	173.8 PL	3 	Police 	FM 	Law Tac 
+154.95000 	KIB891 	BM	173.8 PL	4 	Police 	FM 	Law Tac 
+156.92500 	 	RM	151.4 PL	5 	Police 	FM 	Law Tac 
+156.19500 	WNSG946 	RM	151.4 PL	LaPrk PD/DPW 	Police / Town Maintenance (136.5 PL on input) 	FM 	Multi-Talk 
+Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Duke Energy	 OpenSky 4800 baud	 Various	Henderson County	 NXDN NEXEDGE 9600
+ Hendersonville	North Carolina VIPER	 Project 25 Phase I	 Varies	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	Whitley's Communication Service
+ LTR Standard	 Gerton	

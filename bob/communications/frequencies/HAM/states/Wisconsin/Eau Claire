@@ -1,0 +1,71 @@
+151.38500 	WQTB619 	RM	162.2 PL	ECPAGE 	Paging 	FMN 	Fire Dispatch 
+155.88000 	WNVT863 	RM	210.7 PL	ECFIR 	EMS/Fire 	FMN 	Fire Dispatch 
+155.28000 	KNNI812 	BM	141.3 PL	Gold Cross 2 	Gold Cross Ambulance Dispatch 	FMN 	EMS Dispatch 
+151.89500 	WPII961 	M	167.9 PL	Gold Cross 4 	Gold Cross Ambulance 	FMN 	EMS-Talk 
+154.87500 	KCZ495 	RM	162.2 PL	ECSO 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.95000 	KCZ495 	M	192.8 PL	ECSOTAC 	Sheriff Tactical 	FMN 	Law Tac 
+154.78500 	KCZ495 	RM	192.8 PL	ECCOURT 	Bailiffs/Jail Operations 	FMN 	Corrections 
+154.80000 	KCZ495 	RM	69.3 PL	ECJAIL 	Jail 	FMN 	Corrections 
+155.19000 	KCZ495 	RM		ECMDT 	MDT 	Telm 	Data 
+151.10000 	KCZ495 	RM		ECEM 	Emergency Management 	FMN 	Emergency Ops 
+155.00250 	WPHF964 	RM		ECPARKS 	Parks 	FMN 	Public Works 
+155.16000 	WQFT571 	M		EC Health 	Health Department 	FMN 	Public Works 
+155.17500 	WQFT571 	M		EC Health 	Health Department 	FMN 	Public Works 
+155.20500 	WQFT571 	M		EC Health 	Health Department 	FMN 	Public Works 
+155.22000 	WQFT571 	M		EC Health 	Health Department 	FMN 	Public Works 
+155.26500 	WQFT571 	M		EC Health 	Health Department 	FMN 	Public Works 
+453.95000 	KBW773 	RM	88.5 PL	ECHWY 	Highways 	FMN 	Public Works 
+154.83000 	WQDX899 	M	167.9 PL	Altoona PD 2 	Police 	FMN 	Law Talk 
+154.22000 	WRW394 	RM	167.9 PL	Altoona FD 1 	Fire 1 Dispatch 	FMN 	Fire Dispatch 
+156.13500 	WRW394 	M		Altoona FD 3 	Fire 3 	FMN 	Fire-Talk 
+155.71500 	WQDX899 	BM	244 DPL	Altoona DPW 	Public Works 	FMN 	Public Works 
+464.97500 	 	RM	CC 9TG 10SL 1	Altoona Schl 	Altoona Public Schools 	DMR 	Schools 
+155.94000 	WZC524 	BM	162.2 PL	Augusta DPW 	DPW / Fire 	FMN 	Public Works 
+155.64000 	KFE32 	RM	162.2 PL	ECECPD1 	Police Dispatch 	FMN 	Law Dispatch 
+155.64000 	KFE32 	RM	911 NAC	ECECPD1 	Police Dispatch 	P25 	Law Talk 
+155.53500 	WQI960 	RM	97.4 PL	ECPD2 	Police Secondary 	FMN 	Law Talk 
+155.02500 	WQI960 	M	85.4 PL	ECPD3 	Law 3 	FMN 	Law Tac 
+154.11500 	WQI960 	M	162.2 PL	ECPD 	Police 	FMN 	Law Talk 
+158.88000 	WQI960 	M	100.0 PL	ECPD10 	Police Car to Car 	FMN 	Law Talk 
+158.89500 	WQI960 	RM		ECPD11 	Police (UW-EC PD input) 	FMN 	Law Talk 
+154.31000 	WSW818 	BM	210.7 PL	ECFD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.31000 	WSW818 	BM	186.2 PL	ECFD2 	Fire 	FMN 	Fire-Talk 
+154.35500 	WSW818 	RM	186.2 PL	ECFD3 	Fireground 	FMN 	Fire-Tac 
+151.17500 	WNNG899 	RM	162.2 PL	EC Parks 	Parks Dept 	FMN 	Public Works 
+154.24250 	WNNG937 	RM	103.5 PL	ECECSIREN 	Siren Control 	FMN 	Public Works 
+154.98000 	WQI960 	M	162.2 PL	EC Streets 	Street Dept 	FMN 	Public Works 
+156.24000 	WNNG937 	RM	162.2 PL	EC Local Gov 	Local Govt 	FMN 	Public Works 
+453.27500 	KXV519 	RM	179.9 PL	EC Transit 	Transit 	FMN 	Transportation 
+155.40000 	WQEE252 	RM	210.7 PL	ECEMS 	County EMS to Hospital 	FMN 	EMS-Talk 
+155.23500 	WPGT999 	BM	179.9 PL	Mayo Helicop 	Mayo 1 Helicopter 	FMN 	EMS Dispatch 
+155.34000 	KUV610 	BM	110.9 PL	LutherHospBL 	Luther Hospital BLS Hospital Reports 	FMN 	Hospital 
+155.40000 	KUV610 	BM	210.7 PL	LutherHospAL 	Luther Hospital ALS Hospital Reports 	FMN 	Hospital 
+155.34000 	KUV531 	BM	110.9 PL	SacredHeartB 	Sacred Heart Hospital BLS Hospital Reports 	FMN 	Hospital 
+155.71500 	WNSW677 	BM		LincolnDPW 	Public Works 	FMN 	Public Works 
+155.94000 	KNIT860 	BM	123.0 PL	PleasantValy 	Public Works 	FMN 	Public Works 
+155.82000 	WPGZ829 	BM	162.2 PL	TnSeymourDPW 	Public Works 	FMN 	Public Works 
+46.42000 	KSF588 	BM	CSQ	Township FD 	Fire 	FM 	Fire-Talk 
+154.44500 	KSF588 	BM	445 DPL	Township FD2 	Fire Tac 2 	FMN 	Fire-Talk 
+155.92500 	KSF588 	RM	77.0 PL	Township FD3 	Fire Tac 3 	FMN 	Fire Dispatch 
+453.85000 	WNCN668 	RM	67.0 PL	TnWashington 	Public Works 	FMN 	Public Works 
+464.82500 	WNSZ662 	RM		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+464.62500 	WQAE330 	BM		CVTC Power 	Chippewa Valley Technical Power Training 	FMN 	Schools 
+464.37500 	WNMH883 	BM		CVTC 	Chippewa Valley Technical College 	FMN 	Schools 
+151.86500 	WQGF870 	M		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+152.30000 	WQGF870 	M		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+152.43500 	WQGF870 	M		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+152.96000 	WPEW296 	M		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+157.69500 	WQGF870 	M		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+157.72500 	WQGF870 	M		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+159.78000 	WPEW296 	M		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+461.02500 	WPEW296 	M		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+461.07500 	WPEW296 	M		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+461.32500 	 	RM	CC 13TG *SL *	CVTC 	Ops 	DMR 	Schools 
+463.62500 	WPEW296 	M		CVTC 	Chippewa Valley Technical College 	FM 	Schools 
+155.08500 	KA53431 	BM	131.8 PL	UWEC PD 	Police 	FMN 	Law Dispatch 
+461.37500 	WQSC229 	RM	CC 5TG *SL *	UWEC Housing 	Housing/Residence Life 	DMR 	Schools 
+463.82500 	KNHE323 	RM		UWEC Ops 	Ops 	FMN 	Schools 
+464.50000 	KNHE323 	M		UWEC Itin 	Itinerant 	FMN 	Schools 
+464.52500 	KNHE323 	RM		UWEC Ops 	Ops 	FMN 	Schools 
+Air Communications of Wisconsin (Eau Claire)	 LTR Standard	 Eau Claire	Dairyland Power Cooperative	 DMR Tier 3	 Various	Rassbach Communications	 DMR Conventional Networked
+ Eau Claire	University of Wisconsin - Eau Claire	 DMR Hytera XPT	 Eau Claire	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	

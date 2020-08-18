@@ -1,0 +1,45 @@
+154.87500 	KUE472 	RM	565 DPL	McLennan SO1 	Sheriff 1 / Small PD Dispatch (dispatcher simulcast on Waco TRS) 	FM 	Law Dispatch 
+155.73000 	KUE471 	RM	100.0 PL	McLennan SO2 	Sheriff 2 / Municipal Police 	FM 	Law Dispatch 
+154.95000 	KNJJ267 	M	CSQ	Texas Law 1 	Sheriff 3 Intercity Mobile 	FM 	Interop 
+155.37000 	KUE472 	B	CSQ	Texas Law 2 	Sheriff 4 Intercity Base 	FM 	Interop 
+154.84500 	KEM658 	BM	100.0 PL	WacoTRSpatch 	Constables / Sheriff Dispatch Patch to Waco TRS 	FM 	Law Tac 
+460.55000 	KNHZ810 	M	100.0 PL	MC Jail SH6 	Jail Ops - Hwy 6 Jail 	FM 	Security 
+465.55000 	KNHZ810 	M	100.0 PL	MC Jail Main 	Jail Ops - Main Jail 	FM 	Security 
+461.30000 	WPDE852 	RM	71.9 PL	McLenn JC PD 	McLennan County Junior College Police/Call Boxes 	FM 	Law Dispatch 
+154.41500 	WQAU346 	RM	100.0 PL	McLennanFire 	Fire Dispatch 	FM 	Fire Dispatch 
+453.90000 	WPHM640 	RM	100.0 PL	McLennan DA 	District Attorney's Office Investigators 	FM 	Law Tac 
+156.16500 	KVG829 	RM	127.3 PL	McLenn Roads 	Public Works (Equipment Maintenance) 	FM 	Public Works 
+856.26250 	WPNQ883 	BM		Waco PD Tac 	Police Talk Around (SWAT/Detectives/Surveillance) 	FM 	Law Tac 
+155.58000 	KNEF602 	RM	125 DPL	Waco Zoo 1 	Zoo Primary 	FM 	Public Works 
+155.58000 	KNEF602 	M	CSQ	Waco Zoo 2 	Zoo Talkaround 	FM 	Public Works 
+155.67000 	KUE470 	RM	100.0 PL	Bellmead PD1 	Police Dispatch 	FMN 	Law Dispatch 
+155.61000 	WNRW560 	BM	100.0 PL	Bellmead PD6 	Police CID/Car to Car 	FMN 	Law Tac 
+155.67000 	KUE470 	M	CSQ	BellmeadPD10 	Police Car-to-Car 	FMN 	Law Talk 
+155.97750 	WPZK956 	RM	118.8 PL	Bellmead FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.73250 	WQAV392 	RM	100.0 PL	Crwfrd PD/FD 	Police & Fire (some encryption) 	FM 	Multi-Dispatch 
+155.58750 	WPTY389 	M	100.0 PL	Crawford PD2 	Police Talk (occasional encryption) 	FM 	Law Talk 
+154.44500 	WPLU337 	BM		ElmMott Fire 	Fire Ops 	FM 	Fire-Tac 
+154.11500 	KNAA643 	RM	123.0 PL	Hewitt PD1 	Police Dispatch 	FM 	Law Dispatch 
+155.94000 	KNAA643 	BM	123.0 PL	Hewitt PD2 	Police Talk/Investigators 	FM 	Law Tac 
+155.37000 	KNJJ267 	B	CSQ	Texas Law 2 	Intercity Base 	FM 	Interop 
+159.32250 	KNIJ980 	RM	100.0 PL	LLV FD Disp 	Fire Tone Out/Backup 	FMN 	Fire Dispatch 
+158.81250 	KUE474 	RM	146.2 PL	McGregor PD 	Police Dispatch 	FM 	Law Dispatch 
+154.25000 	WPNV881 	RM	136.5 PL	McGregor FD 	Fire Repeater 	FM 	Fire Dispatch 
+154.87500 	KUE472 	RM	100.0 PL	McLennan SO1 	Police Dispatch 	FM 	Law Dispatch 
+153.81500 	KNIV224 	BM	123.0 PL	Moody Police 	Police Talkaround 	FM 	Law Tac 
+463.12500 	KNCE317 	BM	123.0 PL	ProvidenceER 	EMS to Providence Hospital 	FM 	Hospital 
+155.77500 	KEM658 	RM	100.0 PL	Robinson PD1 	Police Dispatch 	FM 	Law Dispatch 
+155.13000 	KEM658 	BM	131.8 PL	Robinson PD2 	Police Secondary 	FM 	Law Tac 
+155.29500 	WPCA268 	BM	100.0 PL	West Vol EMS 	West Volunteer Ambulance Dispatch (also covers Elm Mott, Leroy, Ross, Gholson) 	FM 	EMS Dispatch 
+155.88000 	KBJ926 	B	100.0 PL	Woodway PD2 	Paging (patched with trunked system) 	FMN 	Law Tac 
+154.17500 	KNAT723 	BM		Woodway Fire 	Fire Talk-Around 	FMN 	Fire-Talk 
+463.60000 	WPVM514 	RM	118.8 PL	Baylor PD 1 	Police Primary 	FM 	Law Dispatch 
+461.60000 	KJH866 	RM	118.8 PL	Baylor PD 2 	Police Alternate 	FM 	Law Tac 
+152.30000 	WQEC239 	RM	100.0 PL	TSTC PD 	Texas State Technical College Police 	FMN 	Law Dispatch 
+155.16000 	KNDD844 	RM	365 NAC	Midway Bus R 	Midway ISD Transportation Repeater 	P25 	Schools 
+158.86500 	KNDD844 	M	265 NAC	Midway Bus M 	Midway ISD Transportation Bus to Bus 	P25 	Schools 
+461.87500 	 		134 DPL	WacoISD St 1 	Stadium Ops/Parking 	FM 	Schools 
+467.76250 	 		134 DPL	WacoISD St 2 	Stadium 	FM 	Schools 
+All Points Communications of Austin (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Austin	BearCom (Central Texas NexEdge)	 NXDN NEXEDGE 4800	 Various	Department of Veterans Affairs Central Texas	 Project 25 Phase II
+ Various	Lacy-Lakeview Public Services System	 Project 25 Phase I	 Lacy-Lakeview	Oncor Energy	 EDACS Narrowband Networked	 Various	Waco / McLennan County
+ Motorola Type II Smartnet	 Waco	Wear Radio Service (Waco Motorola)	 Motorola Type II	 Waco	Woodway	 Project 25 Phase I	 Woodway, Hewitt, Lorena

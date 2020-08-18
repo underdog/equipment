@@ -1,0 +1,45 @@
+154.71000 	KKD614 	BM	173.8 PL	1 	Sheriff - Jail in Covington 	FMN 	Corrections 
+155.02500 	KNDN851 	RM	173.8 PL	3 	OEP/Sheriff 	FMN 	Emergency Ops 
+158.95500 	KNDN851 	M	173.8 PL	5 	OEP/Sheriff 	FMN 	Emergency Ops 
+152.06000 	 	B		UNIFIRE 	Fire dispatch patch for  D 2 3 4 5 6 7 8 9 10 12 13 	FMN 	Emergency Ops 
+155.86500 	KRC622 	RM	173.8 PL	PMC 	Mosquito Control 	FMN 	Public Works 
+857.26250 	KNER508 	RM		DPW/AC 	Public Works/Animal Control 	FMN 	Public Works 
+152.66000 	WPZF665 	RM	91.5 PL	UNIFIRE 1 	UniFire Dispatch (FD 2-FD 12; multicast with LWIN talkgroup 34575) 	FMN 	Fire Dispatch 
+152.54000 	WPZF664 	RM	141.3 PL	UNIFIRE 2 	UniFire Fireground 1  	FMN 	Fire-Tac 
+152.06000 	WPZF663 	RM	85.4 PL	UNIFIRE 3 	UniFire Fireground 2 (FD 4 Backup) 	FMN 	Fire-Tac 
+154.17500 	KNAQ890 	BM	173.8 PL	FD1-SLIDELL 	Fire Protection District #1 Slidell (Tones only) 	FMN 	Fire Dispatch 
+154.41500 	WPAY795 	RM	107.2 PL	FD2-MADSNVIL 	Fire Protection District #2 Madisonville 	FMN 	Fire Dispatch 
+154.23500 	WPKJ359 	RM	173.8 PL	FD3-LACOMBE 	Fire Protection District #3 Lacombe 	FMN 	Fire Dispatch 
+154.25000 	KNBY593 	RM	173.8 PL	FD4-MANDVLrp 	Fire Protection District #4 Mandeville Fire 	FMN 	Fire Dispatch 
+153.83000 	KNBY593 	M	156.7 PL	FD4-MANDVLm 	Fire Protection District #4 Mandeville Fire 	FMN 	Fire-Tac 
+155.32500 	WPLR908 	RM		FD4-MAND EMS 	Fire Protection District #4 Mandeville EMS 	FMN 	EMS-Tac 
+159.46500 	WNGZ637 	RM	173.8 PL	FD5-FOLSOM 	Fire Protection District #5 Folsom 	FMN 	Fire Dispatch 
+154.14500 	WNRR360 	RM	156.7 PL	FD6-LEE ROAD 	Fire Protection District #6 Lee Road 	FMN 	Fire Dispatch 
+154.31000 	KRY958 	RM	67.0 PL	FD7-TALISHEK 	Fire Protection District #7 Talisheek 	FMN 	Fire Dispatch 
+154.44500 	WNXU396 	RM	136.5 PL	FD8-ABITA rp 	Fire Protection District #8 Abita Springs 	FMN 	Fire Dispatch 
+154.95500 	 	M	67.0 PL	FD8-ABITA m 	Fire Protection District #8 Abita Springs 	FMN 	Fire-Tac 
+154.20500 	KRX458 	RM	136.5 PL	FD9-BUSH 	Fire Protection District #9 Bush 	FMN 	Fire Dispatch 
+155.95500 	WPNT644 	RM	173.8 PL	FD10-SUN rp 	Fire Protection District #10 Sun 	FMN 	Fire Dispatch 
+154.60000 	 	RM	173.8 PL	FD10-SUN m 	Fire Protection District #10 Sun 	FMN 	Fire-Tac 
+154.32500 	KRX463 	RM	173.8 PL	FD11-PR rp-E 	Fire Protection District #11 Pearl River 	FMN 	Fire Dispatch 
+154.60000 	 	M	173.8 PL	FD11-PR m 	Fire Protection District #11 Pearl River 	FMN 	Fire-Tac 
+154.40000 	WNNA577 	RM	173.8 PL	FD12-COVING 	Fire Protection District #12 Covington 	FMN 	Fire Dispatch 
+154.38500 	WPZT891 	RM	118.8 PL	FD13-GOODBEE 	Fire Protection District #13 Goodbee 	FMN 	Fire Dispatch 
+154.19000 	KEL475 	BM	173.8 PL	TAM-FR M/A 	Fire Mutual Aid 	FMN 	Interop 
+155.23500 	WPIV931 	BM	186.2 PL	ACADIAN VHF 	Dispatch 	FMN 	EMS Dispatch 
+453.42500 	WQVA560 	RM	136.5 PL	CausewayPD B 	Police Back-up 	FMN 	Law Dispatch 
+453.95000 	KKR461 	RM	136.5 PL	Causeway PD 	Police 	FMN 	Law Dispatch 
+154.35500 	KEL475 	RM	192.8 PL	CFD-1 	Fire 	FMN 	Fire Dispatch 
+154.07000 	KEL475 	RM	192.8 PL	CFD-2  	Fire 	FMN 	Fire-Talk 
+154.07000 	KEL475 	M	192.8 PL	CFD-FG 1 	Fireground 1 	FMN 	Fire-Tac 
+151.04000 	KEL475 	RM	192.8 PL	CFD-FG 2 	Fireground 2 	FMN 	Fire-Tac 
+154.57000 	 	BM	173.8 PL	CFD-FG  	Fireground  	FM 	Fire-Tac 
+153.27500 	 	BM	146.2 PL	CFD-FG 	Fireground  	FM 	Fire-Tac 
+153.09500 	 	BM	192.8 PL	CFD-FG 	Fireground  	FM 	Fire-Tac 
+151.10000 	WPGT987 	RM	162.2 PL	CDPW-OPS 	Public Works 	FMN 	Public Works 
+154.44500 	WNXU396 	RM	94.8 PL	ASPD-OPS 	Police 	FMN 	Interop 
+154.74000 	WPMK573 	RM	173.8 PL	MNDVL PD 	Police 	FMN 	Law Dispatch 
+856.01250 	WPEG214 	RM		SLIDELL 800 	800 MHz Conventional Talkaround 	FM 	Law Talk 
+CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	CLECO Power (P25)	 Project 25 Phase II	 Pineville	Commuications Center SMR	 LTR Standard
+ Abita Springs	Entergy 	 Project 25 Phase II	 Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	Slidell
+ Motorola Type II SmartZone	 Slidell	Smartcomm-D	 DMR Motorola Connect Plus (TRBO)	 Various	

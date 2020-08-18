@@ -1,0 +1,99 @@
+852.30000 	WPLR948 	RM	723 DPL	SCFD DISPATCH 	Fire Vocal Alarm & Station Alerting 	FM 	Fire Dispatch 
+154.23500 	WNQR390 	RM	192.8 PL	SCFD EMS PAGE 	Fire Primary Battalion & Ambulance Paging 	FMN 	Fire Dispatch 
+155.89500 	KZJ931 	RM	156.7 PL	M-SC EMA D-1 	Memphis / Shelby County Emergency Management Primary Dispatch 	FMN 	Emergency Ops 
+154.99500 	KZJ931 	RM	156.7 PL	M-SC EMA D-2 	Memphis / Shelby County Emergency Management Secondary Dispatch 	FMN 	Emergency Ops 
+855.23750 	WNRM943 	RM	179.9 PL	MFD PAGE 	Fire - Vocal Alarm 	FM 	Fire Dispatch 
+858.26250 	WNRM943 	RM	CSQ	MFD FG A 	Backup Fireground A 	FM 	Fire-Tac 
+859.26250 	WNRM943 	RM	CSQ	MFD FG B 	Backup Fireground B 	FM 	Fire-Tac 
+860.26250 	WNRM943 	RM	CSQ	MFD FG C 	Backup Fireground C 	FM 	Fire-Tac 
+453.40000 	KNIF769 	RM		MCSO JUV CRT 	Juvenile Courts 	FMN 	Corrections 
+453.05000 	KWL257 	RM		MCS SEC UHF 	Memphis City Schools - Security 	FMN 	Security 
+453.97500 	WNXK674 	RM	131.8 PL	Cannon Center 	City Services - Performing Arts Center 	FMN 	Public Works 
+153.75500 	WNAB960 	BM		AFD BACKUP 	Fire Department Backup 	FMN 	Fire Dispatch 
+154.34000 	KWQ554 	BM	141.3 PL	BART FD DSP 	Fire Dispatch Vocal Alarm & Station Alerting 	FMN 	Fire Dispatch 
+854.01250 	WQLF808 	RM	205 DPL	BFD-BACKUP 	Fire Backup Repeater 	FM 	Fire-Tac 
+856.58750 	WQLF808 	RM	205 DPL	BFD-BACKUP 	Fire Backup Repeater 	FM 	Fire-Tac 
+854.43750 	WQLC743 	BM	205 DPL	BPD-BACKUP 	Police Backup Repeater 	FM 	Law Dispatch 
+771.98125 	WQTN810 	BM	901 NAC	COLLIERVILLE OPS 	City Emergency Operations 	P25 	Emergency Ops 
+154.41500 	WPYP827 	BM	156.7 PL	CVL FD DSP 	Fire Dispatch Vocal Alarm & Station Alerting 	FMN 	Fire Dispatch 
+460.12500 	KKC879 	M	023 DPL	CFD BU FG 	Backup Fireground 	FMN 	Fire-Tac 
+460.05000 	KKC879 	BM	114.8 PL	CPD BU OPS 	Police Backup Repeater 	FMN 	Law Tac 
+460.12500 	KKC879 	BM	114.8 PL	CFD BU OPS 	Fire Backup Repeater 	FMN 	Fire-Tac 
+460.35000 	KKC879 	BM	114.8 PL	CPW BU OPS 	Public Works Backup Repeater 	FMN 	Public Works 
+852.21250 	WQOG812 	RM	293 NAC	GPD Dispatch 	Police Dispatch 	P25 	Law Dispatch 
+852.93750 	WQOG812 	RM	293 NAC	GPD Info 	Police Info 	P25 	Law Tac 
+853.41250 	WQOG812 	RM	293 NAC	GFD Dispatch 	Fire Dispatch 	P25 	Fire Dispatch 
+853.66250 	WQOG812 	RM	293 NAC	GFD Firegrd 	Fireground 	P25 	Fire-Tac 
+154.31000 	KVR964 	B	167.9 PL	GFD VHF Dsp 	Fire Dispatch Simulcast 	FMN 	Fire Dispatch 
+453.45000 	WPEH832 	B		GFD Vocal 	Fire Vocal Alarm 	FMN 	Fire Dispatch 
+853.91250 	WQOG812 	RM	293 NAC	Gtown Event 	Special Event 	P25 	Multi-Talk 
+852.05000 	WQOG812 	RM	293 NAC	Gtown Bkup 	Backup Channel 	P25 	Multi-Dispatch 
+453.12500 	WQBP463 	RM		Gtown Parks 	Parks 	FMN 	Public Works 
+453.77500 	WQBP463 	RM		Gtwn Develop 	Development 	FMN 	Public Works 
+453.92500 	WQBP463 	RM		Gtwn Pub Ser 	Public Services 	FMN 	Public Works 
+158.80500 	WNUY310 	BM		Lakeland Gov 	Lakeland Government Services 	FMN 	Public Works 
+154.87500 	KIG726 	RM	167.9 PL	MLTN PD DSP 	Millington Police Dispatch 	FMN 	Law Dispatch 
+154.25000 	WNXV679 	RM	167.9 PL	MLTN PD CH 2 	Millington Police Secondary (Formerly used by FD) 	FMN 	Law Tac 
+154.77000 	KIG726 	M	167.9 PL	MLTN PD C2C 	Millington Police Car to Car 	FMN 	Law Talk 
+154.26500 	WNXV679 	M	156.7 PL	MLTN FD FGRD 	Millington Fire Fireground 	FMN 	Fire-Tac 
+158.82000 	KNJM513 	RM		MLTN GVT SRV 	Millington Government Services 	FMN 	Public Works 
+152.90000 	 	BM	225.7 PL	WingHospAir 	Wing Hospital Air EMS (Nesbit) 	FMN 	EMS-Tac 
+155.40000 	KLO226 	BM		UTMEDCNTR 	University of Tennessee Med Center 	FMN 	Hospital 
+155.16000 	KAZ871 	BM		BMCHEMSRV 	Baptist Memorial Health Care 	FMN 	Hospital 
+155.17500 	KVT780 	BM		LEBONEMSRV1 	Le Bonheur Childrens Hospital 	FMN 	Hospital 
+155.26500 	KVT780 	BM		LEBONEMSRV2 	Le Bonheur Childrens Hospital 	FMN 	Hospital 
+155.22000 	WQFP673 	BM		MEDCARE 	Medcare Ambulance 	FMN 	Hospital 
+155.20500 	 	BM		TNHSPNET1 	TN Hospital Net 	FMN 	Hospital 
+155.28000 	 	BM		TNHSPNET2 	TN Hospital Net 	FMN 	Hospital 
+155.34000 	KYB783 	BM		TNHSPNET3 	TN Hospital Net 	FMN 	Hospital 
+462.95000 	 	RM		TNHSPNET4 	TN Hospital Net 	FMN 	Hospital 
+462.97500 	 	RM		TNHSPNET5 	TN Hospital Net 	FMN 	Hospital 
+463.00000 	 	RM		TNHSPNET6 	TN Hospital Net 	FMN 	Hospital 
+463.02500 	 	RM		TNHSPNET7 	TN Hospital Net 	FMN 	Hospital 
+463.05000 	 	RM		TNHSPNET8 	TN Hospital Net 	FMN 	Hospital 
+463.07500 	 	RM		TNHSPNET9 	TN Hospital Net 	FMN 	Hospital 
+463.10000 	 	RM		TNHSPNET10 	TN Hospital Net 	FMN 	Hospital 
+463.12500 	 	RM		TNHSPNET11 	TN Hospital Net 	FMN 	Hospital 
+463.15000 	 	RM		TNHSPNET12 	TN Hospital Net 	FMN 	Hospital 
+463.17500 	 	RM		TNHSPNET13 	TN Hospital Net 	FMN 	Hospital 
+163.25000 	KGR216 	BM		BapMemHosp PG 	Baptist Memorial Health Care - Paging 	FMN 	Data 
+451.62500 	WPRK839 	RM		BapMemHosp 1 	Baptist Memorial Health Care 	FMN 	Business 
+453.02500 	KAZ871 	BM		BapMemHosp 2 	Baptist Memorial Health Care 	FMN 	Business 
+462.15000 	WNPB850 	RM		BapMemHosp 3 	Baptist Memorial Health Care 	FMN 	Business 
+462.77500 	WSG307 	RM		BapMemHosp 4 	Baptist Memorial Health Care 	FMN 	Business 
+462.85000 	WPZZ840 	RM		BapMemHosp 5 	Baptist Memorial Health Care 	FMN 	Business 
+463.75000 	WNPO858 	RM		BapMemHosp 6 	Baptist Memorial Health Care 	FMN 	Business 
+152.40500 	WQAF269 	BM		BaxHealthcarePG 	Baxter Healthcare - Paging 	FMN 	Data 
+153.00500 	WQAF269 	BM		BaxterHealthcare 	Baxter Healthcare 	FMN 	Business 
+453.07500 	WNCM662 	BM		LeBonHospital 1  	Le Bonheur Childrens Hospital - Paging 	FMN 	Business 
+451.75000 	WPRM635 	RM		Meth Hospital 1 	Methodist Hospital of Memphis 	FMN 	Business 
+461.30000 	WNVQ527 	RM		Meth Hospital 2 	Methodist Hospital of Memphis 	FMN 	Business 
+461.42500 	KNJQ294 	RM		Meth Hospital 3 	Methodist Hospital of Memphis 	FMN 	Business 
+461.95000 	WPRM635 	RM		Meth Hospital 4 	Methodist Hospital of Memphis 	FMN 	Business 
+462.22500 	WPRM635 	RM		Meth Hospital 5 	Methodist Hospital of Memphis 	FMN 	Business 
+462.30000 	WPRM635 	RM		Meth Hospital 6 	Methodist Hospital of Memphis 	FMN 	Business 
+462.35000 	WPRM635 	RM		Meth Hospital 7 	Methodist Hospital of Memphis 	FMN 	Business 
+462.52500 	WPRM635 	RM		Meth Hospital 8 	Methodist Hospital of Memphis 	FMN 	Business 
+462.82500 	KDJ893 	RM		Meth Hospital 9 	Methodist Hospital of Memphis 	FMN 	Business 
+452.27500 	WPRM499 	RM		StFrancis Hosp 1 	St Francis Hospital 	FMN 	Business 
+464.52500 	WPRB668 	RM		StFrancis Hosp 2 	St Francis Hospital 	FMN 	Business 
+464.87500 	WPRB668 	RM		StFrancis Hosp 3 	St Francis Hospital 	FMN 	Business 
+452.85000 	WNUM416 	RM		StJudeHospital 1 	St Jude Childrens Research Hospital 	FMN 	Business 
+461.15000 	WNUM416 	RM	CC 1TG 1SL 1	StJudeHospital 2 	St Jude Childrens Research Hospital - Security 	DMR 	Business 
+462.07500 	WNUM416 	RM	174 DPL	StJudeHospital 3 	St Jude Childrens Research Hospital - Shuttle 	FMN 	Business 
+464.27500 	WNUM416 	RM		StJudeHospital 4 	St Jude Childrens Research Hospital 	FMN 	Business 
+406.66250 	 	RM	546 DPL	US FED RSV PD 	Operations 	FMN 	Law Dispatch 
+ARINC (Memphis International Airport)	 iDEN Standard	 Memphis	Baptist Memorial Health Care (Collierville)	 LTR Standard	 Collierville	Baptist Memorial Health Care (Memphis 1)	 LTR Standard
+ Memphis	Baptist Memorial Health Care (Memphis 2)	 LTR Standard	 Memphis	Bartlett (P25)	 Project 25 Phase II	 Bartlett	Collierville Public Safety
+ Project 25 Phase II	 Collierville	ComServ Services (LTR)	 LTR Standard	 Memphis	Coors Brewing Company (Memphis)	 Motorola Type II Smartnet	 Memphis
+Delta Airlines - Memphis International Airport (MEM)	 Motorola Type II	 Memphis	Entergy 	 Project 25 Phase II	 Various	Federal Correctional Institution Memphis	 Motorola Type II
+ Memphis	Federal Correctional Institution Memphis Satellite Camp	 Motorola Type II	 Millington	FedEx / Memphis Shelby County Airport Authority	 Motorola Type IIi Hybrid	 Memphis	FedEx Memphis (1319)
+ Motorola Type II Smartnet	 Memphis	FedEx Memphis Primary Sort (The Matrix)	 Motorola Type II Smartnet	 Memphis	FedEx World Tech Center Collierville	 Motorola Type II Smartnet	 Collierville
+Hershey Chocolate USA	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Memphis	Integrated Communications of Tennessee (Memphis 1)	 LTR Standard	 Memphis	Integrated Communications of Tennessee (Memphis 2)	 LTR Standard
+ Memphis	Integrated Wireless (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Memphis	Integrated Wireless 1 (LTR)	 LTR Standard	 Memphis	Integrated Wireless 2 (DMR)
+ DMR Motorola Capacity Plus Multi Site (TRBO)	 Memphis	Integrated Wireless 2 (LTR)	 LTR Standard	 Memphis	Le Bonheur Childrens Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Memphis
+Leading Edge Communications 1	 LTR Standard	 Memphis	Leading Edge Communications 2	 LTR Standard	 Memphis	Memphis and Shelby County Public Safety	 Motorola Type II SmartZone
+ Memphis	Memphis Light Gas and Water	 Motorola Type II SmartZone	 Memphis	Methodist Hospital of Memphis	 LTR Standard	 Memphis	Railcom of Memphis
+ LTR Standard	 Memphis	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various
+Tennessee Fleet Talk	 NXDN NEXEDGE 4800	 Memphis	Tennessee Valley Authority	 Project 25 Phase I	 Various	United Parcel Service (Memphis International Airport)	 Motorola Type II Smartnet
+ Memphis	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	

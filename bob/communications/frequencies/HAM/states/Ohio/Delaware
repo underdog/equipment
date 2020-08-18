@@ -1,0 +1,36 @@
+154.19000 	WNSU703 	RM	136.5 PL	FIRE DISP 	County Fire Dispatch 	FMN 	Fire Dispatch 
+155.38500 	KUG723 	RM		PK FIRE 	Porter-Kingston Twp. Local Fire/EMS Tactical 	FMN 	Fire-Talk 
+159.09000 	WQEB980 	RM	156.7 PL	BERLIN FD 	Berlin Twp. Fire 	FMN 	Fire-Talk 
+453.45000 	WNSU703 	F		Link 	link to 154.190 Tx 	FMN 	Data 
+458.45000 	WNSU703 	F		Link 	link from Sunbury Rx 	FMN 	Data 
+458.80000 	WNSU703 	F		Link 	link from Powell Rx 	FMN 	Data 
+458.85000 	WNSU703 	F		Link 	link from Radnor Rx 	FMN 	Data 
+458.90000 	WNSU703 	F		Link 	link from Sunbury Rx 	FMN 	Data 
+154.81500 	KNJC283 	RM	136.5 PL	DELCO POLICE 	County Sheriff F5 (local police) 	FMN 	Law Dispatch 
+154.86000 	KNJC283 	BM	136.5 PL	DELCO SO C-C 	County Sheriff car to car 	FMN 	Law Talk 
+154.89000 	 	BM	136.5 PL	SUNBURY PD 	Sunbury Police 	FMN 	Law Talk 
+155.01000 	KNJC283 	RM	136.5 PL	DELCO SO 	County Sheriff Dispatch 	FMN 	Law Dispatch 
+155.31000 	KFO837 	RM	203.5 PL	GENOA TWP PD 	Genoa Twp 	FMN 	Law Talk 
+158.85000 	KFO837 	RM	136.5 PL	GENOA MRE 	Genoa Twp walkie extender to SO 	FMN 	Law Talk 
+460.40000 	WPIU981 	RM	136.5 PL	SHPD 	Shawnee Hills PD 	FMN 	Law Talk 
+852.03750 	WPGR356 	RM	146.2 PL	POWELL PD 	Powell Police 	FM 	Law Dispatch 
+151.08500 	WNNV400 	RM	136.5 PL	CONCORD RDS 	Concord Twp road maintenance 	FMN 	Public Works 
+151.08500 	WNNV400 	RM	203.5 PL	LIBERTY ZON 	Liberty Twp (zoning) 	FMN 	Public Works 
+151.08500 	WNNV400 	RM	233.6 PL	LIBERTY RDS 	Liberty Twp (roads & parks) 	FMN 	Public Works 
+155.10000 	WNPC745 	BM	141.3 PL	POWELL ROAD 	Powell road maintenance 	FMN 	Public Works 
+155.76000 	KNGJ512 	RM	82.5 PL	DELCITY RDS 	Delaware streets 	FMN 	Public Works 
+158.80500 	WNNQ283 	BM	136.5 PL	GENOA RDS 	Genoa Twp road maintenance 	FMN 	Public Works 
+159.12000 	WQOX238 	RM		DELCO ENG 	County Engineer (also some townships) 	DMR 	Public Works 
+453.23750 	WQDF802 	RM	162.2 PL	TRANSIT 	Delaware County Transit Board 	FMN 	Public Works 
+153.02000 	WPVV746 	RM	177.3 PL	DCS BUS 	Delaware City Schools Transportation 	FMN 	Schools 
+453.15000 	WQBC940 	RM	110.9 PL	DELCO MRDD 	Delaware County Board of MRDD 	FMN 	Schools 
+461.07500 	WPRA292 		110.9 PL	BIG WLNT 	Big Walnut Local Schools 	FMN 	Schools 
+461.65000 	WPPT940 	RM	251 DPL	OLEN SCH 1 	Olentangy Local Schools Maintainance 	FMN 	Schools 
+461.82500 	WNQC832 		74.4 PL	OLEN SCH 1 	Olentangy Local Schools 	FMN 	Schools 
+464.65000 	WPWD253 		043 DPL	BUCK VAL 	Buckeye Valley Schools 	FMN 	Schools 
+153.50000 	WNLX703 			AEP Backup 1 	American Electric Power backup 	FMN 	Utilities 
+153.50000 	WPCX808 			AEP Backup 2 	American Electric Power backup 	FMN 	Utilities 
+451.05000 	WPPZ297 	RM		Columbia Gas 	Columbia Gas of Ohio 	P25 	Utilities 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	B and C Communications 3	 LTR Standard	 Westerville	Central Ohio Interoperable Radio System (COIRS)	 Project 25 Phase I
+ Delaware	Columbus Zoo and Aquarium	 DMR Motorola Capacity Plus Single Site (TRBO)	 Powell	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649
+ Project 25 Phase I	 Statewide	Polaris Fashion Place	 DMR Conventional Networked	 Columbus	

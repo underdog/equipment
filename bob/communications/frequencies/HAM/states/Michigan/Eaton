@@ -1,0 +1,57 @@
+460.62500 	WNLG500 	RM	162.2 PL	County Fire 1 	Countywide Fire Dispatch / Operations 	FMN 	Fire Dispatch 
+453.75000 	WPEX646 	RM	546 DPL	TriCounty Fire 2 	Tri-County Fire Mutual Aid System 	FMN 	Interop 
+460.42500 	KSW965 	RM	162.2 PL	Eaton Police 	Countywide Police Dispatch / Operations 	FMN 	Law Dispatch 
+453.77500 	WNUE984 	RM	162.2 PL	Eaton LEIN 	Countywide Police L.E.I.N. 	FMN 	Law Tac 
+460.05000 	KSW964 	RM	162.2 PL	Tri-County. PD 	Tri-County Police Mutual Aid System 	FMN 	Interop 
+453.52500 	WQIE371 	RM	82.5 PL	Eaton Jail 	County Sheriff - Jail Security Operations 	FMN 	Corrections 
+158.91000 	KSW965 	M		Eaton DOC 	County Sheriff - Corrections (Low Power) 	FMN 	Corrections 
+453.22500 	WQIE371 	M	82.5 PL	Eaton Courts 	County Sheriff - Court Officers 	FMN 	Corrections 
+453.15000 	WNUN452 	RM	162.2 PL	Eaton Admin 	County Administrative / Animal Control / Emergency Management 	FMN 	Multi-Talk 
+453.70000 	KNDZ873 	RM	CC 3TG 12210000SL 1	Eaton Roads 	County Road Commission Operations 	DMR 	Public Works 
+451.30000 	WQUB488 	RM	023 DPL	Eaton Buses 	County Transportation Services - Bus Operations 	FMN 	Transportation 
+773.75625 	WREM275 	RM		Eaton Failsoft1 	Countywide Fallback 1 [Future Use] 	P25 	Interop 
+774.25625 	WREM275 	RM		Eaton Failsoft2 	Countywide Fallback 2 [Future Use] 	P25 	Interop 
+453.42500 	WNNN517 	RM		Bellevue Fire 	Bellevue Fire Dispatch / Operations 	FMN 	Fire Dispatch 
+453.40000 	WNQB911 	RM	192.8 PL	Charlotte Fire 	Fire Dispatch / Operations 	FMN 	Fire Dispatch 
+460.45000 	KNFS808 	RM	192.8 PL	Charlotte Police 	Police Dispatch / Operations 	FMN 	Law Dispatch 
+453.82500 	KSV705 	RM		Charlotte DPW 	Public Works / Fire Secondary 	DMR 	Multi-Talk 
+460.57500 	KNHY346 	RM	654 DPL	Delta Twp Fire 1 	Fire Dispatch / Operations 	FMN 	Fire Dispatch 
+460.52500 	KNHY346 	RM	343 DPL	Delta Twp.Fire 2 	Fire Tactical Operations 	FMN 	Fire-Tac 
+453.75000 	WPEX646 	RM	654 DPL	Delta Twp.Fire 3 	Fire Tactical Operations 	FMN 	Fire-Tac 
+453.08750 	KNHY346 	M		Delta Fireground 	Delta Township Fireground 	FMN 	Fire-Tac 
+453.92500 	KNNQ893 	RM	411 DPL	Delta Twp. Admin 	Township Administrative 	FMN 	Multi-Talk 
+153.90500 	KJR294 	BM		Delta Twp DPW 1 	Public Works Operations 1 	FMN 	Public Works 
+155.98500 	KJR294 	BM		Delta Twp DPW 2 	Public Works Operations 2 	FMN 	Public Works 
+460.55000 	KNBY359 	RM	162.2 PL	EatonRapids PD 2 	Police Secondary (Car-to-Car) 	FMN 	Law Talk 
+155.89500 	WQYB520 	BM	82.5 PL	Eaton Rapids DPW 	Public Works Operations / Tornado Sirens 	FMN 	Public Works 
+453.55000 	WNVN834 	RM	192.8 PL	EatonRapids FD 2 	Fireground Operations (Shared with City of Eaton Rapids) 	FMN 	Fire-Tac 
+460.15000 	WPYA827 	RM	223 DPL	Grand Ledge FD 1 	Fire Dispatch / Operations 	FMN 	Fire Dispatch 
+453.17500 	WPYA827 	M		Grand Ledge FD 2 	Fireground - Simplex 	FMN 	Fire-Tac 
+453.17500 	WPYA827 	RM	223 DPL	GrLedge3 Fground 	Grand Ledge Fire department 3 Fireground 	FMN 	Fire-Tac 
+460.47500 	WPPY230 	RM	162.2 PL	Grand Ledge PD 	Police Secondary 	FMN 	Law Talk 
+453.62500 	WNSV398 	RM		Olivet Fire 	Fire Dispatch / Operations 	FMN 	Fire Dispatch 
+460.33750 	WRKF811 	BM		Potterville DPW 	Potterville Public Works 	FMN 	Public Works 
+453.45000 	WNUU817 	RM	162.2 PL	Sunfield Fire 	Sunfield Fire Dispatch / Operations 	FMN 	Fire Dispatch 
+453.90000 	WNUJ800 	RM		Vermontville DPW 	Public Works 	FMN 	Public Works 
+460.22500 	WPLV911 	RM	162.2 PL	Windsor Twp FG 	Fireground [Ch -3/4 TA] 	FMN 	Fire-Tac 
+155.34000 	WPZA318 	BM	118.8 PL	Hayes GrB HEARN 	Ambulance-to-Hospital Notifications (VHF Radio Plan) 	FMN 	Hospital 
+463.02500 	WPKP371 	RM		Tri-County MD2 	Ambulance-to-Hospital Notifications (MED-2) 	FMN 	Hospital 
+463.17500 	WPKP371 	RM		Tri-County MD8 	Ambulance-to-Hospital Notifications (MED-8) 	FMN 	Hospital 
+461.63750 	WQLB787 	RM		Hayes GB Ops. 1 	Hospital Operations 1 	FMN 	Business 
+461.66250 	WQLB787 	RM		Hayes GB Ops. 2 	Hospital Operations 2 	FMN 	Business 
+464.40000 	WQBT399 	RM	155 DPL	Hayes GB Admin 	Hospital Administrative 	FMN 	Business 
+464.42500 	WNJA568 	RM		Charlote Sch Bus 	Transportation 	FMN 	Schools 
+153.17000 	WQBN731 	RM		DeanTransit Char 	School Bus Operations Charlotte 	NXDN 	Transportation 
+159.81000 	WQBN731 	RM		DeanTransit Verm 	School Bus Operations Vermontville 	NXDN 	Transportation 
+464.85000 	WXL635 	RM	79.7 PL	EatonRap Schools 	Interdistrict - Emergency Communications 	FMN 	Schools 
+464.85000 	WXL635 	RM	110.9 PL	EatonRap Sch Bus 	Transportation - Primary 	FMN 	Schools 
+464.25000 	WPZL450 	RM		MapleValey Schol 	Transportation 	DMR 	Schools 
+464.37500 	KCR827 	RM	206.5 PL	Waverly Sch Bus1 	Transportation - Primary 	FMN 	Schools 
+464.77500 	KCR827 	RM		Waverly Sch Bus2 	Transportation - Secondary 	FMN 	Schools 
+451.97500 	WQEQ402 	M		Waverly Schools1 	Operations 	FMN 	Schools 
+461.67500 	WQEQ402 	M		Waverly Schools2 	Operations 	FMN 	Schools 
+461.72500 	WQEQ402 	M		Waverly Schools3 	Operations 	FMN 	Schools 
+461.97500 	WQEQ402 	M		Waverly Schools4 	Operations 	FMN 	Schools 
+463.65000 	WQEQ402 	M		Waverly Schools5 	Operations 	FMN 	Schools 
+461.43750 	WQOJ942 	RM	71.9 PL	Olivet Coll. Ops 	Operations 	FMN 	Schools 
+Consumers Energy	 EDACS Networked Standard	 Various	

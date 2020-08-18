@@ -1,0 +1,33 @@
+460.22500 	KZF952 	RM	210.7 PL	Sutter Co SO1 	Dispatch 	FMN 	Law Dispatch 
+460.22500 	KZF952 	RM	83B NAC	SUTTER CO SO1E 	Dispatch (Secure) 	P25E 	Law Dispatch 
+460.07500 	WPVY862 	RM	210.7 PL	SUTTER CO SO2 	Secondary  	FMN 	Law Talk 
+460.07500 	WPVY862 	RM	83B NAC	SUTTER CO SO2E 	Secondary (Secure) 	P25E 	Law Talk 
+460.50000 	WNCT274 	RM	118.8 PL	SUUTER CO SO3 	Alternate (Code-9) 	FMN 	Law Talk 
+460.17500 	WPNQ597 	RM	118.8 PL	Sutter Co SO4 	Talk Around 	FMN 	Law Talk 
+460.55000 	WPVY862 	M	118.8 PL	Sutter Co SO T1 	Tac 1 	FMN 	Law Tac 
+460.15000 	WPVY862 	M	118.8 PL	Sutter Co SO T2 	Tac 2 	FMN 	Law Tac 
+460.12500 	WNSU585 	BM	118.8 PL	SUTTER CO COURTS 	Court Security 	FMN 	Law Talk 
+460.42500 	 	RM	118.8 PL	Sutter Co Jail 	Jail 	FMN 	Corrections 
+153.93500 	WNCC702 	RM	100.0 PL	Sutter Co FD Dsp 	Dispatch 	FMN 	Fire Dispatch 
+153.77000 	WPSH359 	BM	100.0 PL	Sutter Co FD T1 	Tac 1 	FMN 	Fire-Tac 
+154.08500 	WPZP784 	BM	131.8 PL	Sutter Co FD T2 	Tac 2 	FMN 	Fire-Tac 
+158.89500 	KIW212 	BM	100.0 PL	Sutter Co FD T3 	Tac 3 	FMN 	Fire-Tac 
+463.12500 	 	BM		RideoutMH 	Rideout Memorial Hospital 	FMN 	Hospital 
+155.25000 	WPKZ702 	RM	127.3 PL	Bi-Co Amb 1 	Bi-County Ambulance Dispatch 	FMN 	EMS Dispatch 
+154.38500 	WPKZ702 	BM	127.3 PL	Bi-Co Amb 2 	Bi-County Ambulance Secondary 	FMN 	EMS-Tac 
+155.22000 	WPCE700 		127.3 PL	Bi-Co Amb Admin 	Bi-County Ambulance Admin/Backup Dispatch 	FMN 	EMS-Tac 
+156.22500 	KNDV396 	RM	263 DPL	Sutter Co AC/PW 	Animal Control/Public Works 	FMN 	Public Works 
+156.13500 	KB89813 	M	263 DPL	Sutter Co PW 	Public Works Tactical 	FM 	Public Works 
+460.35000 	WNSH519 	RM	155 DPL	Yuba City PD1 A 	Police Dispatch (Analog) 	FMN 	Law Dispatch 
+460.35000 	WNSH519 	RM	293 NAC	Yuba City PD1 D 	Police Dispatch (Digital) 	P25 	Law Dispatch 
+460.62500 	WNSH519 	RM		Yuba City PD2 	Police Tactical 	P25 	Law Tac 
+154.17500 	WNST865 	RM	100.0 PL	Yuba City FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.34000 	WNST865 	BM	103.5 PL	Yuba City FD2 	Fire Tactical 	FMN 	Fire-Tac 
+155.89500 	WPXM856 	RM	100.0 PL	Yuba City PW1 	Public Works 1 	FMN 	Public Works 
+158.78250 	WPXM856 	BM	100.0 PL	Yuba City PW2 	Public Works 2 	FMN 	Public Works 
+155.17500 	KUN464 	RM	156 DPL	YCUSD 1 	District Ops 1 	FM 	Schools 
+155.92500 	KUN464 	RM	263 DPL	YCUSD 2 	District Ops 2 	FM 	Schools 
+California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	La Rue Communications (Sutter Buttes)	 LTR Standard	 Sutter Buttes	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard
+ Various	Placer Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Multiple	Silke Communications	 NXDN NEXEDGE 4800	 Northern California	Sutter Buttes Communications (800Mhz)
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Yuba City	Sutter Buttes Communications UHF	 LTR Standard	 Sacramento	The Radio Guys	 NXDN NEXEDGE 4800	 Various
+Unidentified Federal Project 25 BEE00-4D5	 Project 25 Phase II	 Various	

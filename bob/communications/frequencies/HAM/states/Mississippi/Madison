@@ -1,0 +1,29 @@
+159.35250 	KKL201 	RM	17 RAN	MCSO DISP 1 	Sheriff Primary  Group 650 	NXDN 	Law Dispatch 
+155.77500 	KKL201 	RM	47 RAN	MCSO DISP 2 	Sheriff Secondary Group 40 	NXDN 	Law Dispatch 
+154.99500 	WQG813 	RM	114.8 PL	MC COMLAW 	County Common Law 	FMN 	Law Tac 
+155.08500 	KKL201 	BM	306 DPL	MCSO Court 	Sheriff Chancery Court Security Detail 	FMN 	Law Tac 
+159.12000 	KKL201 	M	55 RAN	MCSO Car-Car 	Sheriff Car-to-Car (Group 70) 	NXDN 	Law Talk 
+45.10000 	KKL201 	BM	85.4 PL	MCSO L1 	Sheriff back-up to NXDN  *Low Band Dispatch* 	FM 	Law Dispatch 
+45.22000 	KKL201 	BM	85.4 PL	MCSO 45.22 	Sheriff back-up to NXDN  *Statewide Low Band* 	FM 	Law Tac 
+45.34000 	KKL201 	BM	85.4 PL	MCSO 45.34 	Sheriff back-up to NXDN   *Low Band Car-to-Car* 	FM 	Law Talk 
+151.12250 	WPLX285 	RM	114.8 PL	EMA FLORA 	Emergency Management Dispatch Flora 	FMN 	Emergency Ops 
+159.09000 	WPLX285 	RM	114.8 PL	EMA CANTON 	Emergency Management Dispatch Canton 	FMN 	Emergency Ops 
+159.91500 	WNSI465 	RM	52 RAN	EMA ADMIN 	Emergency Management Administration (Group 450 and 520) 	NXDN 	Emergency Ops 
+154.41500 	WQCW472 	BM	114.8 PL	EMA FG 1 	Emergency Management Fireground 1 	FMN 	Fire-Tac 
+154.34750 	WQCW472 	BM	192.8 PL	EMA FG 2 	Emergency Management Fireground 2  	FMN 	Fire-Tac 
+151.04000 	WNAZ367 	RM	114.8 PL	MC Roads 	County Road Department 	FMN 	Public Works 
+159.14250 	WPKV890 	RM	46 RAN	Canton PD 1 	Police 1 Dispatch (Group 1) 	NXDN 	Law Dispatch 
+154.78500 	WPKV890 	RM		CANTON PD 2 	Police  INFO 	FMN 	Law Talk 
+154.32500 	WPRS233 	RM	136.5 PL	CANTON FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.04000 	KBF942 	RM		CANTON UTIL 	Canton Utilities Dispatch 	FMN 	Utilities 
+155.82000 	KBF942 	BM		CANTON UT 2 	Canton Utilities 2 	FMN 	Utilities 
+460.48750 	WQBU591 	F		AWOS 	AWOS For Airport/EOC 	Telm 	Data 
+155.71500 	WNQY766 	RM	27 RAN	Flora PD Dsp 	Police Dispatch Group 153 	NXDN 	Law Dispatch 
+453.97500 	WPZK951 	RM	186.2 PL	MAD EOC 	Madison EOC - Fire Dispatch/Siren Activation/Water Tower Alerts (Fire Operations on MSWIN) 	FMN 	Emergency Ops 
+154.38500 	WQQC898 	RM	343 DPL	RIDG FD VHF 	Fire Dispatch. Operations on MSWIN 	FMN 	Fire Dispatch 
+155.70000 	KNCG481 	RM	343 DPL	RIDG PD BU 	Police Backup to MSWIN 	FMN 	Law Dispatch 
+154.95000 	KNCG481 	BM	343 DPL	RIDG PD TBU 	Police Tactical Backup to MSWIN 	FMN 	Law Tac 
+173.23750 	WPBQ258 	F		Rdgelnd Traf 	DPW Traffic Monitoring 	Telm 	Data 
+ComSouth DMR - COMNET Mississippi	 DMR Motorola Connect Plus (TRBO)	 Multiple	Entergy 	 Project 25 Phase II	 Various	Mississippi Wireless Integrated Network (MSWIN)	 Project 25 Phase II
+ Jackson	Nissan Manufacturing Canton Plant	 Motorola Type II Smartnet	 Canton	Ozborn Communications (IDAS)	 NXDN Icom IDAS Type D	 Canton	Ozborn Communications (LTR)
+ LTR Standard	 Canton	

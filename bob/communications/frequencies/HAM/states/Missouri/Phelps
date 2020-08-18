@@ -1,0 +1,62 @@
+155.77500 	WPSQ632 	RM	123.0 PL	Phelps Sheriff  	Sheriff: Dispatch / Rural Dispatch -- includes St. James, Newburg, Edgar Springs Police 	FMN 	Law Dispatch 
+156.15000 	 	M		Phelps Shrf C2C  	Sheriff: Car-to-Car 	FMN 	Law Tac 
+153.93500 	WQAY753 	M		Phelps Jail Ops 	Sheriff: Jail  	FMN 	Corrections 
+151.62500 	 	M	91.5 PL	Phelps ShrfJail  	Sheriff: Jail  	FMN 	Corrections 
+151.24250 	WQAY753 	M		Phlp Jail MX 	Sheriff: Jail - Mobile Extenders  	FMN 	Corrections 
+155.06250 	WQHL830 	BM		Phelps Rolla  	Public Safety (Rolla)  	FMN 	Multi-Dispatch 
+155.22000 	KDU231 	RM	91.5 PL	Phelps Fire 	Fire: Dispatch - Countywide 	FMN 	Fire Dispatch 
+154.41500 	KDU231 	BM	233.6 PL	Phlp FD OLD 	Fire: Dispatch - Old 	FMN 	Fire Dispatch 
+460.57500 	KDU231 	M		Phlp FD MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+453.30000 	WQAU923 	F	CSQ	Phlp 911 RF1 	Remote Link - Lecoma 	FMN 	Multi-Tac 
+453.60000 	WQAU923 	F	CSQ	Phlp 911 RF2 	Remote Link - Edgar Springs 	FMN 	Multi-Tac 
+453.75000 	WQAU923 	F	CSQ	Phlp 911 RF3 	Remote Link - St. James 	FMN 	Multi-Tac 
+453.82500 	WQAU923 	F	CSQ	Phlp 911 RF4 	Remote Link - Doolittle 	FMN 	Multi-Tac 
+458.25000 	WQAU923 	F	CSQ	Phlp 911 RF5 	Remote Link - Lecoma 	FMN 	Multi-Tac 
+458.30000 	WQAU923 	F	CSQ	Phlp 911 RF6 	Remote Link - Doolittle [Deleted 12/09] 	FMN 	Multi-Tac 
+458.37500 	WQAU923 	F	CSQ	Phlp 911 RF7 	Remote Link - Edgar Springs 	FMN 	Multi-Tac 
+458.50000 	WQAU923 	F	CSQ	Phlp 911 RF8 	Remote Link - St. James 	FMN 	Multi-Tac 
+458.57500 	WQAU923 	F	CSQ	Phlp 911 RF9 	Remote Link - Lecoma 	FMN 	Multi-Tac 
+458.62500 	WQAU923 	F	CSQ	Phlp 911 R10 	Remote Link - Edgar Springs 	FMN 	Multi-Tac 
+458.92500 	WQAU923 	F	CSQ	Phlp 911 R11 	Remote Link - Doolittle 	FMN 	Multi-Tac 
+458.95000 	WQAU923 	F	CSQ	Phlp 911 R12 	Remote Link - St. James 	FMN 	Multi-Tac 
+458.08750 	WQAU923 	F		Phlp911 RF13 	Remote Link - (was 468.3) 	FMN 	Multi-Dispatch 
+155.17500 	WPSQ629 	BM	162.2 PL	Phlp EMSMain 	EMS: Dispatch - Main 	FMN 	EMS Dispatch 
+154.84500 	WPSQ629 	RM	91.5 PL	Phelps EMS A 	EMS: Dispatch  	FMN 	EMS Dispatch 
+154.84500 	WPSQ629 	RM	162.2 PL	Phelps EMS B 	EMS: Dispatch 	FMN 	EMS Dispatch 
+156.10500 	KNAX237 	BM		Phlp Highway 	Highway Department 	FMN 	Public Works 
+451.56250 	WPTF230 	F		Phelps WDD 	Water: Distribution Data (CSQ) 	Telm 	Public Works 
+462.71250 	FRS 7 	BM		PCRMC Admin 	Administrative 	FMN 	Business 
+464.95000 	WPUC547 	RM		PCRMC Ops 	Operations 	FMN 	Business 
+461.65000 	WPUC544 	RM		PCRMC Eng 	Engineering 	FMN 	Business 
+155.34000 	KNDE700 	BM	162.2 PL	HEAR340 1622 	Patient Reports 	FMN 	Hospital 
+152.00750 	KNDE700 	B		PCRMC PG 	Paging 	Telm 	Business 
+464.65000 	WQGJ646 	F		PCRMC Data 	Time Clocks  	Telm 	Data 
+155.76000 	KQO240 	BM	79.7 PL	Newb Police 	Police: Local 	FMN 	Law Tac 
+155.25000 	WPSQ632 	BM	91.5 PL	Roll Police1 	Police: Dispatch (voice inversion capable) [Ch 1] 	FMN 	Law Dispatch 
+155.31000 	WPSQ632 	RM		Roll PD Tac2 	Police: Tactical (voice inversion capable) [Ch 2] 	FMN 	Law Tac 
+156.23250 	WQVS692 	RM		Rolla Fire 	FIre 	FMN 	Fire Dispatch 
+153.83000 	KDU231 	M		RollaFireI/C 	Fire: Incident Command 	FMN 	Fire-Tac 
+154.32500 	KDU231 	BM		RollaFirgrnd 	Fireground 	FMN 	Fire-Tac 
+460.57500 	KDU231 	M		Roll Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+154.32500 	WPMJ492 	RM		Roll PubWrks 	Public Works 	FMN 	Public Works 
+158.81250 	WRBL652 	BM		Roll Sanitation 	Environmental Services (Sanitation) 	FMN 	Public Works 
+154.45625 	KNFL527 	F		Rolla WDD 	Water Data  	Telm 	Data 
+451.12500 	KAI206 	RM		Roll Utili 1 	Municipal Utilities  	FMN 	Public Works 
+464.35000 	WPOA495 	M		Roll Utili 2 	Municipal Utilities  	FMN 	Public Works 
+453.78750 	WQCX578 	F		Roll Utili 3 	Municipal Utilities: Data 	FMN 	Data 
+154.20500 	WNIT504 	BM		StJames Fire 	Fire 	FMN 	Fire Dispatch 
+155.82000 	KAN792 	BM	CSQ	StJam PubWrk 	Public Works 	FMN 	Public Works 
+155.77500 	KAN792 	BM		StJam Local2 	Local Government 	FMN 	Multi-Dispatch 
+155.53500 	KIZ657 	BM	91.5 PL	UofM Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.04000 	WPDU480 	BM		UofM Ops 	Operations 	FMN 	Schools 
+155.14500 	KXG891 	BM		UofM Maint  	Maintenance 	FMN 	Schools 
+462.05000 	WPQA366 	RM	100.0 PL	NewR2 Buses 	School Buses 	FMN 	Schools 
+462.51250 	 	M	100.0 PL	NewR2 Maint 	Maintenance 	FMN 	Schools 
+153.44000 	WPMV971 	RM		RollSD Buses 	Buses 	FMN 	Schools 
+154.57000 	 	M		RollSD MidSc 	Middle School Admin 	FMN 	Schools 
+154.60000 	 	M		RollSD HS 	High School Admin 	FMN 	Schools 
+463.21250 	 	M		RollSD Ftbl 	Football Coaches Headsets 	FMN 	Schools 
+463.25000 	WQKJ484 	RM		StJms School 	Operations  	FMN 	Schools 
+154.60000 	 	M		StJR1 Admin 	Admin 	FMN 	Schools 
+155.28000 	 	BM		StJR1 Buses 	Buses 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	

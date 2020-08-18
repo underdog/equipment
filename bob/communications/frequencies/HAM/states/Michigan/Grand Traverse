@@ -1,0 +1,43 @@
+155.92500 	WNJM789 	RM	162.2 PL	GT Adam 2 	Police - Secondary backup to MPSCS 	FMN 	Law Talk 
+155.05500 	WNPV423 	BM		GT EMA BM 	Emergency Management / EOC 	FMN 	Emergency Ops 
+153.86000 	WNSG804 	RM	162.2 PL	GT EMA R 	Emergency Management 	FMN 	Emergency Ops 
+158.81250 	WQJJ873 	RM		GT EOC 	Emergency Management / EOC 	FMN 	Emergency Ops 
+154.35500 	WNPZ494 	RM	162.2 PL	GT Fire Adam 6 	Fire - Rural Dispatch [Adam 6] Backup to MPSCS 	FMN 	Fire Dispatch 
+155.52000 	WPPU590 	RM	173.8 PL	GrndTr FireMetro 	Fire - Metro Dispatch 	FMN 	Fire Dispatch 
+460.57500 	WNAN908 	M		GT ELBeacon1 	Fire - Emergency locator beacons 	NXDN 	Data 
+460.60000 	WNAN908 	M		GT ELBeacon2 	Fire - Emergency locator beacons 	NXDN 	Data 
+460.62500 	WNAN908 	RM		GT ELBeacon3 	Fire - Emergency locator beacons 	NXDN 	Data 
+155.16000 	WNDJ348 	BM	71.9 PL	GrndTrvrs Adam 5 	EMS - North Flight [Adam 5] 	FMN 	EMS Dispatch 
+151.02500 	WPDJ817 	RM	CC 5TG 100SL 1	Road Commission1 	Road Commission Channel 1 	DMR 	Public Works 
+151.02500 	WPDJ817 	RM	CC 5TG 1000SL 2	Road Commission2 	Road Commission Channel 2 	DMR 	Public Works 
+155.83500 	KNDE603 	RM		Grnd Travrse DPW 	Public Works 	NXDN 	Public Works 
+854.78750 	WPGY456 	RM		Munson Sec/Ops 	Security/Operations 	NXDN 	Business 
+155.34000 	WPPX840 	BM	173.8 PL	MunsnHEARN 173.8 	Ambulance-to-Emergency Room 	FMN 	Hospital 
+155.34000 	WPPX840 	B	97.4 PL	MunsonHEARN 97.4 	Hospital-to-Ambulance 	FMN 	Hospital 
+155.38500 	WPPX840 	BM	173.8 PL	MMS Telemtry 	Telemetry/back up H.E.A.R.N.  	FMN 	Hospital 
+152.00750 	WPPX840 	B		MMS TAS Data 	Telephone Answering System 	FMN 	Business 
+155.40000 	WNXE410 	BM	100.0 PL	N. Flight Admin 	Talkaround/Admin. 	FMN 	EMS-Talk 
+153.01250 	WRFD674 	RM		BATA Main 	Bay Area Transportation Authority 	DMR 	Transportation 
+155.80500 	WPPG986 	RM	162.2 PL	Fife Lake DPW 	Public Works 	FMN 	Public Works 
+453.25000 	WPHK648 	RM	162.2 PL	Kingsley DPW/PD 	DPW/Police - Tac 	FMN 	Multi-Tac 
+154.19000 	WNZL784 	RM	071 DPL	Peninsula Twp FG 	Fireground 	FMN 	Fire-Talk 
+154.32500 	KXX329 	RM	162.2 PL	TrCity Fire Disp 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.07000 	KXX329 	M	162.2 PL	TC Fireground 2 	Fire - Fireground 2 (HAZMAT) 	FMN 	Fire-Tac 
+153.80000 	KDX406 	RM	162.2 PL	TC DPW 	Public Works 	FMN 	Public Works 
+155.98500 	WNWA392 	BM	127.3 PL	City Marina-Zoo 	City Marina / Zoo Security 	FMN 	Security 
+158.74500 	WPEX615 	BM	162.2 PL	WhiteWatr DPW/FD 	Public Works / Fire 	FMN 	Multi-Talk 
+464.67500 	WRAV460 	RM		Kingsley Schools 	Kingsley Area Schools 	DMR 	Schools 
+151.46000 	WPYF654 	RM		TrvrsCty SchBus1 	Transportation - Bus Dispatch [Ch 1] 	NXDN 	Schools 
+151.25000 	WPYF654 	M		TrvrsCtySch Bus2 	Transportation 	NXDN 	Schools 
+156.18000 	WPYF654 	M		Trvrse Sch Bus 3 	Transportation 	NXDN 	Schools 
+155.17500 	WPYF654 	BM		Trvrse Sch Ops 1 	In-School Ops (Multiple PL & DPL Tones Used) 	NXDN 	Schools 
+159.22500 	WPYF654 	M		Trvrse Sch Ops 2 	In-School Ops (Multiple PL & DPL Tones Used) 	NXDN 	Schools 
+461.07500 	WPCT495 	RM	77.0 PL	IntrlICFTA Ops 1 	Operations 	FMN 	Business 
+461.37500 	WPCT495 	RM	125 DPL	IntrlICFTA Ops 3 	Operations 	FMN 	Business 
+461.37500 	WPCT495 	RM	315 DPL	IntrlICFTA Ops 2 	Operations 	FMN 	Business 
+463.36250 	WPCT495 	RM		IntrlICFTA Ops 4 	Operations 	FMN 	Business 
+463.86250 	WPCT495 	RM		IntrlcCFTA Ops 5 	Operations 	FMN 	Business 
+151.80500 	KVU530 	RM	91.5 PL	N.W. MColSecMain 	Security / Maintenance 	FMN 	Schools 
+151.80500 	KVU530 	RM	146.2 PL	N.W. MColl Emerg 	Emergency 	FMN 	Schools 
+Consumers Energy	 EDACS Networked Standard	 Various	Grand Traverse Resort and Casinos	 NXDN Icom IDAS Type C	 Traverse City	Radio North (Grand Traverse)	 LTR Standard
+ Traverse City	TRT Partners (LTR)	 LTR Standard	 Holland	

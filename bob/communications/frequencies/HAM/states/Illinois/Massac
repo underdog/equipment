@@ -1,0 +1,33 @@
+155.19000 	WPTS787 	RM	155 DPL	Massac Shrf/Law 	Sheriff: Dispatch / Rural Law: Dispatch 	FMN 	Law Dispatch 
+451.42500 	 	F	072 DPL	Massac Shrf RF1 	Sheriff: Receive Link (to 155.19) 	FMN 	Law Dispatch 
+451.47500 	 	F	114 DPL	Massac Shrf RF2 	Sheriff: Receive Link (to 155.19) 	FMN 	Law Dispatch 
+452.28750 	 	F	155 DPL	Massac Shrf RF3 	Sheriff: Receive Link (to 155.19) 	FMN 	Law Dispatch 
+460.53750 	WPTS787 	M	151.4 PL	Massac Shrf MX1 	Sheriff: Mobile Extender 	FMN 	Law Tac 
+465.53750 	WPTS787 	M		Massac Shrf MX2 	Sheriff: Mobile Extender  	FMN 	Law Tac 
+155.13000 	KNBS829 	BM		Massac Sheriff 	Sheriff: Operations 	FMN 	Law Tac 
+155.04000 	WNLB910 	BM	123.0 PL	Massac ESDA 2 	ESDA 2 	FMN 	Emergency Ops 
+154.81500 	WNLB910 	RM	132 DPL	Massac 911/ESDA1 	Fire: Dispatch - Brookport, Joppa  / ESDA 1 	FMN 	Emergency Ops 
+154.34000 	WPBE241 	RM	031 DPL	Massac Co Fire 1 	Fire: Countywide Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+153.83000 	WPBE241 	M	91.5 PL	Massac Co Fire 3 	Fire: Countywide Talk-Around [Ch 3] 	FMN 	Fire-Talk 
+460.62500 	WPBE241 	F		Massac Fire RF  	Fire: Remote Link (Metropolis) 	FMN 	Fire Dispatch 
+155.22000 	WQCE455 	BM	132 DPL	Massac Co EMS 	EMS: Dispatch [Ch 1] 	FMN 	EMS Dispatch 
+151.11500 	WNMM406 	BM	131.8 PL	Massac Co Roads 	Road Maintenance 	FMN 	Public Works 
+154.79250 	WQUW880 	RM		MassacCo HwyDept 	Highway Department 	FMN 	Public Works 
+463.47500 	WNPZ862 	RM		MMH Ops 	Operations 	FMN 	Business 
+155.22000 	WQCE455 	BM	132 DPL	MMH EMS PG 	EMS: Massac Paging/Dispatch 	FMN 	EMS Dispatch 
+155.34000 	WQCE455 	BM	210.7 PL	MERCI1 210.7 	Patient Reports (was 162.2) 	FMN 	Hospital 
+152.00750 	WQCE455 	B		MMH Paging 	Paging 	Telm 	Data 
+155.19000 	KDY424 	BM	167.9 PL	Massac Law 1 	Police: Dispatch (DB: Sheriff Repeater) 	FMN 	Law Dispatch 
+155.13000 	 		CSQ	Brkprt Local 	Local Government [No License] 	FMN 	Public Works 
+154.14500 	WPKA461 	BM	118.8 PL	Brkprt/Joppa FG 	Fireground [County Ch 4] 	FMN 	Fire-Tac 
+451.07500 	WNLP810 	RM		FMWD Ops 1 	Operations 	FMN 	Public Works 
+451.52500 	WPFS610 	BM		FMWD WaterData 	Water Distribution Data (CSQ) 	Telm 	Data 
+155.68500 	WNSK339 	RM	152 DPL	MetropolisPolice 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+154.25000 	WQOK869 	RM	223 DPL	Metropolis Fire1 	Fire: Dispatch [Ch 1]  	FMN 	Fire Dispatch 
+453.22500 	KNJH287 	RM		Mtrpls PubWrks1 	Public Works  	FMN 	Public Works 
+453.73750 	KNJH287 	RM		Mtrpls PubWrks2 	Public Works  	FMN 	Public Works 
+159.55500 	WPSZ458 	F		Metropolis WDD 	Water Distribution Data  	Telm 	Data 
+122.80000 	 	BM	CSQ	M30 CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+124.17500 	 	BM		M30 AWOS 1 	Weather AWOS-3 (CSQ) 	Telm 	Data 
+453.93750 	WPZR239 	F		M30 AWOS 2 	Weather Data 	Telm 	Data 
+Roy Walker Communications (DMR)	 DMR Conventional Networked	 Makanda	

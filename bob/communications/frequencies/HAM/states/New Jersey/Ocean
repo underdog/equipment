@@ -1,0 +1,370 @@
+506.63750 	WIL552 	RM	192.8 PL	OC LE I/O 	Law Enforcement Interoperability (Countywide Broadcast Messages) 	FMN 	Law Talk 
+506.63750 	WIL552 	RM	3F4 NAC	OC Probation 	County Probation Department 	P25 	Law Talk 
+151.28000 	WPMJ510 	RM	343 DPL	OCJ 1 	County Jail Ch 1 Operations 	FMN 	Corrections 
+155.91000 	KEB431 	BM	152 DPL	OCJ 2 	County Jail 2 	FMN 	Corrections 
+155.61000 	WPMJ510 	BM	114.8 PL	OCJ 3 	County Jail 3 	FMN 	Corrections 
+155.08500 	WPMJ510 	BM	127.3 PL	OCJ 4  	County Jail 4 	FMN 	Corrections 
+155.61000 	WPMJ510 	BM	186.2 PL	OC JDC 	Juvenile Detention Center  	FMN 	Corrections 
+460.03750 	KB74848 	M	712 DPL	OCSD Direct 	Sheriff "Direct" (Interops) 	FMN 	Law Talk 
+37.18000 	KEB431 	BM	156.7 PL	OC Police 1 	Law Enforcement Interoperability (Police-1) 	FM 	Law Talk 
+453.50000 	WPVA524 	RM	107.2 PL	OCSD Courts 	County Courts 	FMN 	Law Talk 
+508.18750 	WPXC650 	RM	71.9 PL	OC-ALERT 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+511.18750 	WIL552 	M	127.3 PL	OC FGRND 1 	Fireground 1 	FMN 	Fire-Tac 
+465.58750 	KEJ451 	M	192.8 PL	OC FGRND 2 	Fireground 2 	FMN 	Fire-Tac 
+458.38750 	KD40754 	M	162.2 PL	OC FGRND 3 	Fireground 3 	FMN 	Fire-Tac 
+506.71250 	WIL552 	RM	445 DPL	OC Tuck Rep 	Tuckerton Repeater Tower 	FMN 	Fire-Talk 
+506.73750 	WIL552 	RM	223 DPL	OC Barn Rep 	Barnegat Repeater Tower 	FMN 	Fire-Talk 
+506.76250 	WIL552 	RM	445 DPL	OC TR Rep 	Toms River Repeater Tower 	FMN 	Fire-Talk 
+506.73750 	WIL552 	RM	445 DPL	OC NE Rep 	New Egypt Repeater Tower 	FMN 	Fire-Talk 
+506.71250 	WIL552 	RM	223 DPL	OC Lkwd Rep 	Lakewood Repeater Tower 	FMN 	Fire-Talk 
+154.26500 	KEJ451 	BM	CSQ	SoJerFireNet 	Fire Mutual Aid / Helicopter Landing Zones (South Jersey Fire-Net) 	FMN 	Interop 
+154.96500 	KYL775 	RM	127.3 PL	FM/EOC 1/2 	Fire Marshal's Office Ch.1/2 / EOC 	FMN 	Emergency Ops 
+155.88000 	WPBR242 	BM	127.3 PL	FireMarsh 3 	Fire Marshal's Office Ch. 3 	FMN 	Fire-Talk 
+155.20500 	KMK200 	RM	186.2 PL	EMS 1 	EMS 1 Dispatch 	FMN 	EMS Dispatch 
+155.34000 	KMK200 	BM	CSQ	EMS 2 	EMS 2 H.E.A.R. 	FMN 	EMS-Tac 
+155.28000 	KMK200 	BM	CSQ	EMS 3 	EMS 3 Statewide  	FMN 	EMS-Tac 
+155.40000 	WNAZ613 	BM	331 DPL	EMS 5 	EMS 5 EMS Coordinator (TRS Simulcast) 	FMN 	EMS-Tac 
+458.06250 	KD40754 	M	172 DPL	EMS 6 	EMS 6 Direct 	FMN 	EMS-Tac 
+453.38750 	KD40754 	M	107.2 PL	OC MEDEVAC 	MedEvac 	FMN 	EMS-Tac 
+476.31250 	WIL552 	RM	223 DPL	OCPS-1 	OCPS-1 (Toms River) 	FMN 	Fire-Tac 
+476.38750 	WIL552 	RM	223 DPL	OCPS-2 	OCPS-2 (Lacey) 	FMN 	Fire-Tac 
+476.43750 	WIL552 	RM	223 DPL	OCPS-3 	OCPS-3 (Lakewood) 	FMN 	Fire-Tac 
+476.48750 	WIL552 	RM	223 DPL	OCPS-4 	OCPS-4 (Plumsted) 	FMN 	Fire-Tac 
+476.53750 	WIL552 	RM	223 DPL	OCPS-5 	OCPS-5 (Pasadena) 	FMN 	Fire-Tac 
+476.58750 	WIL552 	RM	223 DPL	OCPS-6 	OCPS-6 (Jackson) 	FMN 	Fire-Tac 
+476.71250 	WIL552 	RM	223 DPL	OCPS-7 	OCPS-7 (Berkeley) 	FMN 	Fire-Tac 
+476.73750 	WIL552 	RM	165 DPL	OCPS-8 	OCPS-8 (Toms River 2) 	FMN 	Fire-Tac 
+476.93750 	WIL552 	RM	223 DPL	OCPS-9 	OCPS-9 (Manahawkin) 	FMN 	Fire-Tac 
+477.26250 	WIL552 	RM	165 DPL	OCPS-10 	OCPS-10 (Barnegat East) 	FMN 	Fire-Tac 
+478.46250 	WIL552 	RM	223 DPL	OCPS-11 	OCPS-11 (Manchester) 	FMN 	Fire-Tac 
+478.61250 	WIL552 	RM	223 DPL	OCPS-12 	OCPS-12 (Tuckerton) 	FMN 	Fire-Tac 
+460.03750 	KB74848 	M		OCPS-A 	OCPS-A (Interop - Tac) 	FMN 	Interop 
+460.06250 	KB74848 	M	703 DPL	OCPS-B 	OCPS-B (Interop - Tac) 	FMN 	Interop 
+460.08750 	KB74848 	M		OCPS-C 	OCPS-C (Interop - Tac) 	FMN 	Interop 
+460.11250 	KB74848 	M	94.8 PL	OCPS-D 	OCPS-D (Interop - Tac) 	FMN 	Interop 
+460.13750 	KB74848 	M		OCPS-E 	OCPS-E (Interop - Tac) 	FMN 	Interop 
+460.16250 	KB74848 	M	143 DPL	OCPS-F 	OCPS-F (Mantoloking/Bay Head) 	FMN 	Interop 
+465.03750 	KB74848 	M		OCPS-G 	OCPS-G (Interop - Tac) 	FMN 	Interop 
+465.06250 	KB74848 	M		OCPS-H 	OCPS-H (Interop - Tac) 	FMN 	Interop 
+465.08750 	KB74848 	M		OCPS-I 	OCPS-I (Interop - Tac) 	FMN 	Interop 
+465.11250 	KB74848 	M	79.7 PL	OCPS-J 	OCPS-J (Interop - Tac) 	FMN 	Interop 
+465.13750 	KB74848 	M		OCPS-K 	OCPS-K (Interop - Tac) 	FMN 	Interop 
+465.16250 	KB74848 	M		OCPS-L 	OCPS-L (Interop - Tac) 	FMN 	Interop 
+153.80000 	WNGA667 	M	156.7 PL	HW-Flag VHF 	Highway Department - Roadway Flagger (VHF) 	FMN 	Public Works 
+453.08750 	WNGA667 	M	156.7 PL	HW-Flag UHF 	Highway Department - Roadway Flagger (UHF) 	FMN 	Public Works 
+453.10000 	WPMS694 	RM	100.0 PL	FD/EMS Acad 	Fire/EMS Academy 	FMN 	Public Works 
+453.87500 	WPMS694 	RM	136.5 PL	FD/EMS Acad 	Fire/EMS Academy 	FMN 	Public Works 
+453.92500 	WPMS694 	RM	159.8 PL	FD/EMS Acad 	Fire/EMS Academy 	FMN 	Public Works 
+453.97500 	WPMS694 	RM	177.3 PL	FD/EMS Acad 	Fire/EMS Academy 	FMN 	Public Works 
+45.48000 	WNGA667 	BM	156.7 PL	OcCoUtilAuth 	Ocean County Utilities Authority 	FM 	Public Works 
+151.31000 	KNFP297 	RM	127.3 PL	OcCo Msqto 	Mosquito Commission 	FMN 	Public Works 
+453.98750 	WPIR336 	M		OcCoSocSvc 	Ocean County Board of Social Services 	FMN 	Public Works 
+855.68750 	WNVN642 	RM	103.5 PL	OES 2 	Office of Emergency Services 	FMN 	Emergency Ops 
+855.68750 	WNVN642 	RM	156.7 PL	OES 1 	Office of Emergency Services 	FMN 	Emergency Ops 
+460.45000 	WNDD487 	RM	123.0 PL	PD 1 Disp 	Police 1 Dispatch 	FMN 	Law Dispatch 
+460.02500 	WNDD487 	RM	026 DPL	PD 2 (Ch 9) 	Police (Channel 9) 	FMN 	Law Tac 
+151.58000 	WQXT693  	RM	516 DPL	EMS 6 	EMS 6 	FMN 	EMS-Talk 
+155.95500 	KNBL883 	BM	114.8 PL	Utilites/DPW 	DPW, Water & Sewer Depts (EXPIRED LICENSE) 	FMN 	Public Works 
+158.89500 	 	BM	503 DPL	Beach Patrol 	Beach Patrol 	FM 	Law Tac 
+451.48750 	WPUW422 	M		Utilities 	Township Utilities (Portables) 	FMN 	Public Works 
+477.82500 	WPTF856 	RM	293 NAC	BayHead PD 	Police Disptach (Pt Plesant Beach Common) 	P25 	Law Dispatch 
+460.37500 	WPYJ364 	RM	503 DPL	PD 1 Disp 	Police Dispatch 	FM 	Law Dispatch 
+453.23750 	 	BM	503 DPL	PD 3 	Police 	FM 	Law Talk 
+460.12500 	KBB200 	RM	192.8 PL	BP 1 	Beach Patrol 	FM 	EMS-Talk 
+155.16000 	KTK629 	BM	186.2 PL	BP 3 	Beach Patrol 	FM 	EMS-Talk 
+153.96500 	WNHR618 	M	127.3 PL	PD 1 T/A Pvt 	Police Talk-Around (Private Ch) 	FMN 	Law Talk 
+501.73750 	WPKI730 	RM	143 DPL	PD Backup 	Police backup to County Trunk Radio System. (Beachwood, Pine Beach, South Toms River) 	FMN 	Law Talk 
+155.02500 	WNHR618 	BM	156.7 PL	OEM 	Office of Emergency Management 	FMN 	Emergency Ops 
+453.55000 	WQDJ851 	RM	503 DPL	DPW 	Public Works 	FMN 	Public Works 
+854.51250 	KEJ877 	RM	442 NAC	Berkly PD 1 	Police 1 - Dispatch 	P25 	Law Dispatch 
+854.38750 	WXE798 	RM	221 NAC	Berkly PD 2 	Police 2 	P25 	Law Tac 
+854.11250 	KEJ877 	RM	331 NAC	Berkly PD 3 	Police 3 (EMS Squad 55)  	P25 	Multi-Talk 
+854.21250 	KEJ877 	RM		Berkly PD 4 	Police 4 	P25 	Law Talk 
+153.81500 	 	BM	245 DPL	Bay EMS 	Bayville EMS 	FMN 	EMS-Talk 
+45.76000 	KLP978 	BM	CSQ	Berkly DPW 	Public Works 	FM 	Public Works 
+155.77500 	WNBY446 	RM	203.5 PL	Berkly Sewer 	Sewer Authority 	FMN 	Public Works 
+453.25000 	KUQ731 	RM	127.3 PL	FD 1 	Fire 1 Dispatch 	FMN 	Fire Dispatch 
+453.37500 	WPVZ352 	RM	127.3 PL	FD 2 	Fire 2 Fireground 	FMN 	Fire-Talk 
+460.01250 	WPAM421 	M	464 DPL	FD 3 	Fire 3 Fireground 	FMN 	Fire-Talk 
+460.53750 	WPAM421 	M	464 DPL	FD 4 	Fire 4 Fireground 	FMN 	Fire-Talk 
+465.53750 	WPAM421 	M	464 DPL	FD 5 	Fire 5 Fireground 	FMN 	Fire-Talk 
+460.52500 	WNRM841 	RM	127.3 PL	EMS Disp 	EMS 	FMN 	EMS Dispatch 
+453.77500 	WQVS630 	BM	127.3 PL	PD/EMS 	Police EMS Division 	FMN 	EMS-Talk 
+453.05000 	KUQ731 	RM	111 NAC	PD 1 	Police   	P25E 	Law Dispatch 
+453.75000 	KUQ731 	M	411 NAC	PD 3 	Police   	P25E 	Law Talk 
+453.15000 	KUQ731 	RM	222 NAC	PD 4 	Police  	P25E 	Law Talk 
+453.18750 	 	M		PD 5 	Police   	P25E 	Law Talk 
+453.86250 	WPAM421 	RM	127.3 PL	CMD - OEM 	Command (Police, Fire, EMS, Public Works interoperability) 	FMN 	Interop 
+453.82500 	WYC831 	RM	127.3 PL	DPW 	Public Works (Police Ch. 9) 	FMN 	Public Works 
+158.77500 	KUL795 	BM		MUA  	MUA 	FMN 	Public Works 
+151.82000 	 	M	351 DPL	EVFD Ch 1 	Eagleswood VFD Company Ch. 1 	FMN 	Fire-Talk 
+151.88000 	 	M	351 DPL	EVFD Ch 2 	Eagleswood VFD Company Ch. 2 	FMN 	Fire-Talk 
+151.94000 	 	M	351 DPL	EVFD Ch 3 	Eagleswood VFD Company Ch. 3 	FMN 	Fire-Talk 
+154.57000 	 	M	351 DPL	EVFD Ch 4 	Eagleswood VFD Company Ch. 4 	FM 	Fire-Talk 
+154.60000 	 	M	351 DPL	EVFD Ch 5 	Eagleswood VFD Company Ch. 5 	FM 	Fire-Talk 
+39.06000 	WNNA648 	BM		DPW 	Public Works 	FM 	Public Works 
+453.65000 	WQNN676 	RM		HarvCdrs PD 	Police 	DMR 	Law Tac 
+453.77500 	WPTP977 	RM		BP/OEM 	Beach Patrol / Emergency Management 	DMR 	Emergency Ops 
+151.02500 	WNUE266 	RM	754 DPL	DPW 	DPW 	FMN 	Public Works 
+154.99500 	WNFW555 	BM	127.3 PL	OEM Vhf 	Office of Emergency Management 	FM 	Emergency Ops 
+453.03750 	WQDD230 	M		OEM Uhf 	Office of Emergency Management 	FMN 	Emergency Ops 
+507.33750 	WPQZ737 	RM	432 DPL	Fire Tac 1  	Fire "Tac 1" Operations 	FM 	Fire-Tac 
+506.58750 	WPQZ737 	RM	243 DPL	Fire Tac 2 	Fire "Tac 2" Operations 	FM 	Fire-Tac 
+510.58750 	WPQZ737 	M	143 DPL	Fireground A 	Fireground A 	FM 	Fire-Tac 
+511.58750 	WPQZ737 	M	152 DPL	Fireground B 	Fireground B 	FM 	Fire-Tac 
+511.83750 	WPQZ737 	M	155 DPL	Fireground C 	Fireground C 	FM 	Fire-Tac 
+507.08750 	WPQZ737 	RM	343 DPL	EMS Tac 1 	EMS Dispatch/Quality Medical Transport comms/MONOC ALS comms 	FM 	EMS Dispatch 
+155.23500 	WPYT240 	BM	186.2 PL	EMS 5 	Jackson Township EMS Private Channel 	FMN 	EMS-Talk 
+458.43750 	WPRS495 	M		Emerg Mgmt 	Emergency Management 	FM 	Emergency Ops 
+500.91250 	KNP856 	RM		Police 1 BU 	Police 1 (Backup to TRS - using varying NAC codes) 	P25 	Law Tac 
+501.28750 	KNP856 	RM		Police 2 BU 	Police 2 (Backup to TRS - using varying NAC codes) 	P25 	Law Tac 
+460.23750 	WPAJ314 	RM		Police 3 BU 	Police 3 (Backup to TRS) 	FM 	Law Tac 
+460.46250 	WPAJ314 	RM		Police 4 BU 	Police 4 (Backup to TRS) 	FM 	Law Tac 
+158.74500 	WNML266 	BM		Public Works 	Public Works 	FM 	Public Works 
+453.47500 	KVP802 	RM		MUA 	MUA 	FM 	Public Works 
+504.67500 	 	BM	156.7 PL	Township 1 	Township-Wide 1 (Backup to TRS) 	FM 	Interop 
+503.67500 	 	BM	156.7 PL	Township 2 	Township-Wide 2 (Backup to TRS) 	FM 	Interop 
+500.91250 	KNP856 	RM	156.7 PL	Township 3 	Township-Wide 3 (Backup to TRS) 	FM 	Interop 
+501.28750 	KNP856 	RM	156.7 PL	Township 4 	Township-Wide 4 (Backup to TRS) 	FM 	Interop 
+460.57500 	WQFG965 	RM	261 DPL	EMS Tac 4 	EMS Tactical 4 	FM 	EMS-Tac 
+500.42500 	WQAJ681 	RM	051 DPL	EMS Tac 6 	EMS Tactical 6 	FMN 	EMS-Tac 
+460.40000 	WNUZ667 	RM	100.0 PL	Police 1Disp 	Police Primary/Dispatch 	FM 	Law Dispatch 
+453.42500 	WPJI677 	RM	664 DPL	Police 2 Sec 	Police Secondary 	FM 	Law Tac 
+453.42500 	WPJI677 	RM	293 NAC	PD 2 (PVT) 	Police 2   	P25E 	Law Tac 
+471.41250 	 	BM	100.0 PL	Police 6Talk 	Police Talk-Around 	FM 	Law Talk 
+39.90000 	KNNU385 	BM	127.3 PL	Public Works 	Public Works 	FM 	Public Works 
+153.68750 	WQHC711 	BM		MUA 	Municapal Utilities Authority 	FMN 	Public Works 
+460.07500 	WPQF819 	RM	732 DPL	DPW 3 	DPW 3 (Local) 	FM 	Public Works 
+462.50000 	WQBM281 	RM	151.4 PL	FD Pvt Co 	FD Private Co (Forked River Fire Co) 	FM 	Fire-Talk 
+460.31250 	KD49299  	RM	657 NAC	PD Dispatch 	Police Dispatch  	P25E 	Law Dispatch 
+507.03750 	WIK848 	RM	343 DPL	PD Backup 	Police Back Up (Rarely Used) 	FMN 	Law Tac 
+45.72000 	WPBF862 	BM		DPW 	Public Works 	FM 	Public Works 
+453.32500 	WPAC577 	RM	398 NAC	LkwdT PD 1 	Police Ch. 1 Dispatch  	P25E 	Law Dispatch 
+453.60000 	KAR824 	RM	398 NAC	LkwdT PD 2 	Police Ch. 2 	P25 	Law Tac 
+453.20000 	WPLX241 	RM	398 NAC	LkwdT PD 3 	Police Ch. 3  	P25E 	Law Talk 
+453.80000 	WPGW539 	RM	398 NAC	LkwdT PD 4D 	Police Ch. 4D / Emergency Management (Digital) 	P25 	Multi-Talk 
+453.80000 	WPGW539 	RM	127.3 PL	LkwdT PD 4A 	Police Ch. 4A / Emergency Management (Analog) 	FMN 	Multi-Talk 
+453.12500 	WPMA452 	RM	210.7 PL	LkwdT FD 1/2 	Fire Dispatch ( Fire 2 Talk Around) 	FMN 	Fire Dispatch 
+453.65000 	WPAC577 	RM	754 DPL	LkwdT EMS 	Lakewood EMS 	FMN 	EMS Dispatch 
+155.05500 	WPAC577 	BM		LkwdT EM 	Emergency Management 	FMN 	Emergency Ops 
+45.12000 	WPAC577 	BM	664 DPL	LkwdT DPW 	Public Works 	FM 	Public Works 
+453.40000 	 	RM	107.2 PL	LkwdT HA 	Housing Authority 	FMN 	Public Works 
+471.73750 	WQV867 	RM		LkwdT MUA 	Municipal Utilities Authority (Water, Sewer) 	FMN 	Public Works 
+158.85000 	WNKN565 	RM	245 DPL	Police 1   	Police Ch. 1 Local 	FMN 	Law Talk 
+151.25750 	WQTQ368 	RM	229.1 PL	BP 1  	Beach Patrol 1 	FMN 	EMS-Talk 
+772.21875 	WRBR582 	RM	296 NAC	LEH PD 1 	Police 1 - Dispatch 	P25e 	Law Dispatch 
+774.69375 	WRBR582 	RM	299 NAC	LEH PD Dect 	Police Detectives  	P25e 	Law Tac 
+155.84250 	WQXZ528 	BM		GB EMS Disp 	Grat Bay EMS  	FMN 	EMS-Tac 
+152.91500 	WPTN715 	RM	136.5 PL	LEHMUA 1 	Utilties Authority  Ch 1 (Water - Sewer)  	FMN 	Public Works 
+154.04000 	KNBD956  	RM	88.5 PL	LEHMUA 2 	DPW and Water Utilites  Ch 2 (Tuckerton) 	FMN 	Public Works 
+153.53750 	WQAM766 	BM		LEHT Water 	Water Distrbution 	FMN 	Public Works 
+453.45000 	WPRH590 	RM	CC 8TG 7200SL 1	PD Disp 	Police Ch. 1 Dispatch Multicast   	DMRE 	Law Dispatch 
+460.30000 	KNCK627 	RM	CC 3TG 7200SL 1	PD 1 Disp 	Police Ch. 1 Dispatch   	DMRE 	Law Dispatch 
+453.85000 	KNCK627 	RM	306 DPL	PD Disp S 	Police Ch. 1 Dispatch Multicast ("South Tower") 	FMN 	Law Dispatch 
+458.63750 	 	M	123.0 PL	PD 3 LB/HC 	Police Ch. 3 Long Beach/Harvey Cedars  	FMN 	Law Tac 
+460.12500 	KBB200 	RM	151.4 PL	PD 3 SB 	Police Ch. 3 Ship Bottom 	FMN 	Law Tac 
+460.63750 	 	M		PD 10  	Police Ch. 10 Common 	FMN 	Law Tac 
+460.33750 	 	M		PD 11 	Police Ch. 11 Common 	FMN 	Law Tac 
+46.00000 	WNIK219 	BM	114.8 PL	Beach Patrol 	Beach Patrol 	FM 	EMS-Talk 
+151.11500 	 	BM	664 DPL	Life Guards 	Life Guards Spray Beach 	FM 	EMS-Talk 
+453.26250 	WPXJ735 	RM	CC 1TG 17800SL 1	Beach LG 	Lifeguards 	DMR 	EMS-Talk 
+453.26250 	WPXJ735 	RM	CC 1TG 3500SL 2	Buses 	Island Buses 	DMR 	Transportation 
+453.30000 	WNYY419 	RM		Police 3 	Police Ch 3   	P25E 	Law Tac 
+151.24250 	WQBD343 	RM	134 DPL	Squad 29 EMS 	Squad 29 Manchester EMS Ops 	FMN 	EMS-Talk 
+507.26250 	WPLV593 	RM	223 DPL	FD FG  2ndry 	Fireground Secondary (includes Bay Head) 	FM 	Fire-Tac 
+477.82500 	WPTF856 	RM	293 NAC	PD Disp 	Police Disptach (Pt Plesant Beach Common)  	P25 	Law Dispatch 
+460.47500 	WNXK957 	RM	156.7 PL	PD 1 Disp 	Police Dispatch 	FMN 	Law Dispatch 
+453.83750 	WNXK957 	M	CSQ	PD 2 	Police Secondary 	FMN 	Law Talk 
+151.06250 	WNKG581 	RM	156 DPL	EMS 5 	EMS Ops 5 	FMN 	EMS-Tac 
+155.35500 	 	M	156.7 PL	EMS 6 	EMS Ops 6 	FM 	EMS-Tac 
+155.74500 	KFE366 	BM	503 DPL	OT DPW 3 	Public Works Operations (Waretown) - Channel 3 	FMN 	Public Works 
+453.17500 	WPKT919 	RM	127.3 PL	OG OEM 	OEM/Police back up to County Trunk Radio System 	FM 	Emergency Ops 
+155.85000 	WNEB846 	M	127.3 PL	PD Local/OEM 	Police Local / OEM Ops (Expired Lic) 	FMN 	Multi-Talk 
+158.76000 	WPLR559 	BM		OEM/DPW 	Emergency Management/Public Works 	FMN 	Multi-Talk 
+460.42500 	KVR715 	RM	892 NAC	PD Disp 	Police  	P25E 	Law Dispatch 
+460.60000 	WPYN951  	RM	151.4 PL	FD 1/2 Disp 	Fire 1 Dispatch/Fire 2 (Simplex) Fireground 	FM 	Fire Dispatch 
+460.28750 	WPYN951  	RM	156.7 PL	FD 3/4 	Fire 3 Fireground/Fire 4 (Simplex) Fireground 	FM 	Fire-Tac 
+453.02500 	WPIP519 	RM	503 DPL	EMS Disp 	EMS Dispatch 	FM 	EMS Dispatch 
+45.20000 	KNHS488 	BM	103.5 PL	DPW 	Services 	FM 	Public Works 
+453.90000 	WQVM593  	RM		OEM 	Emergency Management 	FMN 	Emergency Ops 
+155.82000 	WNAV332 	BM	94.8 PL	PPBch FD VHF 	Fire/EMS Dispatch (Simulcast of 476.35 MHz) 	FMN 	Fire Dispatch 
+476.35000 	WPTF856 	RM	155 DPL	PPBch FD/EMS 	Fire / EMS Dispatch 	FMN 	Fire Dispatch 
+477.02500 	WPTF856 	RM	155 DPL	PPBch EMS Ops 	EMS Operations 	FMN 	EMS-Talk 
+453.52500 	WQKB485 	RM	155 DPL	PPBch FD/FG 	Fire - Fireground 	FMN 	Fire-Tac 
+476.80000 	WPTF856 	RM	28B NAC	PPBch PD 1 	Police Ch. 1   	P25E 	Law Dispatch 
+477.32500 	WPTF856 	RM	25A NAC	PPBch PD 2 	Police Ch. 2   	P25E 	Law Talk 
+477.82500 	WPTF856 	RM	051 DPL	PP Bch PS A 	Borough Common PD/FD/EMS/OEM 	FMN 	Multi-Talk 
+477.82500 	WPTF856 	RM	293 NAC	PP Bch PS D 	Borough Common PD/FD/EMS/OEM 	P25 	Multi-Talk 
+476.62500 	WPTF856 	RM	125 DPL	PPBch PubWrk 	Public Works 	FMN 	Public Works 
+460.35000 	KEB403 	RM	116 DPL	Police 1/2 	Police Ch. 1 / 2 Talk Around 	FM 	Law Dispatch 
+460.17500 	KEB403 	RM	054 DPL	Police 3 	Police Ch. 3 (Parking Enforcement) 	FM 	Law Talk 
+460.17500 	KEB403 	RM	116 DPL	Police 5 	Police Channel 5 	FM 	Law Talk 
+460.02500 	 	RM	116 DPL	Police  	Police  	FM 	Law Talk 
+465.57500 	 	M	712 DPL	BeachPatrol1 	Beach Patrol Ch. 1 	FM 	EMS-Talk 
+453.01250 	 	M	712 DPL	BeachPatrol2 	Beach Patrol Ch. 2 (S Life Guard Sta) 	FM 	EMS-Talk 
+453.21250 	 	M	712 DPL	BeachPatrol3 	Beach Patrol Ch. 3 	FM 	EMS-Talk 
+453.77500 	 	M	CSQ	BeachPatrol4 	Beach Patrol Ch. 4 	FM 	EMS-Talk 
+469.10000 	 	M	67.0 PL	SHBIA Firewk 	Seaside Heights Business Improvement Authority - Fireworks Coordination 	FM 	Business 
+151.29500 	WQXE420  	RM	143 DPL	SHBP South 	Seaside Heights Beach Patrol - South 	FMN 	EMS-Talk 
+154.07750 	WQXE420 	M	223 DPL	SHBP 	Seaside Heights Beach Patrol - BP Units 	FMN 	EMS-Talk 
+155.11500 	WQXE420  	RM		SHBP 	Seaside Heights Beach Patrol 	FMN 	EMS-Talk 
+158.90250 	WQXE420 	M	036 DPL	SHBP North 	Seaside Heights Beach Patrol - North 	FMN 	EMS-Talk 
+159.12750 	WQXE420  	RM	032 DPL	SHBP Sp Evts 	Seaside Heights Beach Patrol - Special Events 	FMN 	EMS-Talk 
+159.12750 	WQXE420 	RM	074 DPL	SHBP Attn 	Seaside Heights Beach Patrol - Attendants 	FMN 	EMS-Talk 
+151.80500 	WPLF894 	M	065 DPL	BeachPatrol 	Beach Patrol VHF (N Life Guard Sta) 	FM 	EMS-Talk 
+151.92500 	WPLF894 	M	179.9 PL	DPW 	DPW (Snow Removal) 	FM 	Public Works 
+460.18750 	WQUH761 	BM	CSQ	BdwkBch PA 	Beach and Boardwalk Public Address System 	FMN 	Public Works 
+460.22500 	WPHN547 	RM	664 DPL	SsP PD Disp 	Police Ch. 1 Dispatch 	FMN 	Law Dispatch 
+458.43750 	 	M	664 DPL	SsP PD Ch 2 	Police Ch. 2 	FMN 	Law Talk 
+460.17500 	KEB403 	RM	664 DPL	SsP PD Ch 3 	Police Ch. 3 	FMN 	Law Talk 
+155.93250 	WQZP613  	BM	223 DPL	SsP Beach Ops 	Beach Operations 	FMN 	Public Works 
+150.80500 	WQZP613  	RM	223 DPL	SsP Beach Cntrl 	Beach Control 	FMN 	Public Works 
+150.77500 	KB94184 	M	107.2 PL	SsP Beach Maint 	Beach Matainence (Expired Lic) 	FMN 	Public Works 
+155.17500 	KB94184 	M	107.2 PL	SsP Beach Patrol 	Beach Patrol (Expired Lic) 	FMN 	EMS-Talk 
+39.90000 	WNDC551 	BM	127.3 PL	SsP Services 	Services 	FM 	Public Works 
+460.12500 	KBB200 	RM	192.8 PL	PD / BP 	Police / Beach Patrol 	FM 	Law Talk 
+453.72500 	WNST440 	RM	123.0 PL	BP/LG 	Beach Patrol - Lifeguards 	FM 	Public Works 
+453.75000 	WPVQ904 	RM	503 DPL	BP / OEM 	Beach Patrol / Emergency Management 	FM 	Emergency Ops 
+159.51000 	 	M	186.2 PL	EMS 5 	EMS Ch 5 	FM 	EMS-Tac 
+467.63750 	 	M		EMS PVT 	EMS Private portable channel 	FM 	EMS-Tac 
+460.27500 	KFK647 	RM	123 NAC	PD 1 P25 	Police Disp   	P25E 	Law Dispatch 
+460.05000 	KFK647 	RM	223 NAC	PD 2 P25 	Police  2 Alt   	P25E 	Law Talk 
+463.73750 	WQFC966 	RM	205 DPL	PD Tac 	Police TAC 	FMN 	Law Tac 
+153.18500 	WPMF303 	RM	186.2 PL	EMS /FAS 	EMS First Aid Squad 	FMN 	EMS-Talk 
+453.22500 	WQET394 	RM	503 DPL	Local 3 	Township Local 3 (DPW) 	FMN 	Public Works 
+453.22500 	WQET394 	RM		Local 3D 	Township Local 3 Digital (DPW)   	P25E 	Public Works 
+453.07500 	KFK647 	RM	125 DPL	Local 4 	Township Local 4 (BOE/ITS) 	FMN 	Multi-Talk 
+451.06250 	 	RM	503 DPL	Local 5 	Township Local 5  	FMN 	Multi-Talk 
+151.61000 	 	M	023 DPL	Maint/Sec 	Maint & Security (VHF) 	FM 	Security 
+153.86000 	 	M		MUA 	Utilities Authority (Water/Sewer) 	FM 	Utilities 
+155.88000 	 	BM	127.3 PL	FD Pvt Srv 	FIRE Private Service 	FM 	Fire-Talk 
+462.62500 	 	M	162 DPL	Sec/Maint  	Security/Maint (UHF) 	FM 	Security 
+460.25000 	WPDD336 	RM	503 DPL	Police Disp 	Police Dispatch 	FMN 	Law Dispatch 
+458.01250 	 	M	503 DPL	Police Ch 3 	Police Ch 3 	FMN 	Law Tac 
+462.95000 	WNRW253 	RM	516 DPL	OEM Ops 	Emergency Management 	FM 	Emergency Ops 
+462.95000 	WNRW253 	RM	123.0 PL	Lifeguards 	Lifeguards 	FM 	EMS-Talk 
+45.64000 	WPJQ620 	BM	503 DPL	SurfCity DPW 	DPW 	FM 	Public Works 
+154.14500 	WNCP530 	RM	245 DPL	FD 1 Disp 	Fire 1 Dispatch/Fire 5 Fireground (Simplex) 	FMN 	Fire Dispatch 
+154.44500 	WNCP530 	BM	074 DPL	FD 2 FG 	Fire 2 Fireground/Fire Inspections 	FMN 	Fire-Tac 
+154.19000 	WNCP530 	BM	136.5 PL	FD 3 FG/FPol 	Fire 3 Fireground/Fire Police 	FM 	Fire-Tac 
+154.26500 	WPFZ792 	BM	CSQ	FD 4 SJ Net 	Fire 4 South Jersey Fire Net 	FM 	Fire-Talk 
+151.01000 	WRDN754 	RM	114.8 PL	FD 6 FG 	Fire 6 Fireground 	FM 	Fire-Talk 
+154.81500 	KDT377 	M	365 DPL	FD 7 FG 	Fire 7 Fireground 	FM 	Fire-Tac 
+159.21000 	KJ7095 	M	152 DPL	FD 8 FG 	Fire 8 Fireground 	FM 	Fire-Tac 
+460.62500 	WNZW394 	RM	412 DPL	EMS 1 Disp 	EMS Dispatch/Operations 	FM 	EMS Dispatch 
+460.62500 	WNZW394 	M	412 DPL	EMS 2 T/A 	EMS Talk-Around 	FM 	EMS-Talk 
+460.56250 	WNCP530 	M	245 DPL	EMS 3 Tac 	EMS (portable radios only) 	FM 	EMS-Tac 
+460.58750 	WNCP530 	M	245 DPL	EMS 4 Tac 	EMS (portable radios only) 	FM 	EMS-Tac 
+460.63750 	WNCP530 	M	245 DPL	EMS 5 Tac 	EMS (portable radios only) 	FM 	EMS-Tac 
+155.22000 	WNGX557  	M	186.2 PL	EMS R to R 	EMS VHF Rig-to-Rig 	FM 	EMS-Talk 
+471.87500 	WPSS243 	RM	293 NAC	TomsRiv PD 1 	Police Primary/Dispatch   	P25E 	Law Dispatch 
+471.47500 	WPSS243 	RM	303 NAC	TomsRiv PD 2 	Police Secondary/Information  	P25E 	Law Tac 
+471.95000 	WPSS243 	RM	303 NAC	TomsRiv PD 3 	Police Park Rangers, Animal Control, Auxiliary Police  	P25E 	Law Talk 
+472.67500 	WPSS243 	RM	303 NAC	TomsRiv PD 4 	Police Major Incidents 	P25 	Law Tac 
+471.67500 	WPSS243 	RM		TomsRiv PD 5 	Police Emergency Services Unit (ESU) Suitcase Repeater (APCO-25 and Analog Capable) 	P25 	Emergency Ops 
+453.71250 	KA60630 	BM		PD Tac 1 	Police Tactical 1 	P25 	Law Tac 
+453.91250 	KA60630 	M		PD Tac 2 	Police Tactical 2 	P25 	Law Tac 
+453.88750 	KA60630 	M		PD Tac 3 	Police Tactical 3 	P25 	Law Tac 
+453.96250 	KA60630 	M		PD Tac 4 	Police Tactical 4 	P25 	Law Tac 
+458.71250 	KA60630 	M		PD Tac 5 	Police Tactical 5 	P25 	Law Tac 
+458.91250 	KA60630 	M		PD Tac 6 	Police Tactical 6 	P25 	Law Tac 
+458.88750 	KA60630 	M		PD Tac 7 	Police Tactical 7 	P25 	Law Tac 
+458.96250 	KA60630 	M	103.5 PL	PD Tac 8  	Police Tactical 8 	FMN 	Law Tac 
+460.55000 	WNMJ873 	RM	114.8 PL	OEM 	Office of Emergency Management - Dispatch/Operations 	FMN 	Emergency Ops 
+156.16500 	KNCC804 	RM	114.8 PL	DPW 1 	Roads 	FMN 	Public Works 
+151.13000 	KNCC804 	RM	179.9 PL	DPW 2 Spvrs 	Roads (Foremen Only) 	FMN 	Public Works 
+151.01000 	KNCC804 	RM	712 DPL	DPW Recyc 	Recycling 	FMN 	Public Works 
+453.35000 	WQO413 	RM	110.9 PL	MUA 	Municipal Utilities Authority 	FMN 	Utilities 
+470.65000 	WPSS243 	BM	265 DPL	DPW Sani 	Public Works - Roads/Sanitation 	FMN 	Public Works 
+471.92500 	WPSS243 	BM	265 DPL	DPW UHF Rycy 	Public Works - Recycling 	FMN 	Public Works 
+472.25000 	WPSS243 	BM	265 DPL	Parks UHF 	Parks and Recreation 	FMN 	Public Works 
+151.41500 	WPBG522 	RM	114.8 PL	Parks VHF 	Parks and Recreation 	FMN 	Public Works 
+453.96250 	KA60630 	M	CSQ	Golf Course 	Golf Course 	FMN 	Public Works 
+154.54000 	 	BM	167.9 PL	TomRivBchUnt 	Ocean Beach Unit I (lifeguards, beach patrol and security patrol) 	FMN 	Multi-Tac 
+453.68750 	WNGX557 	RM		SILVEMS 5 	Silverton EMS Ch 5 (Private) 	FMN 	EMS-Tac 
+471.67500 	WPSS243 	RM	265 DPL	Senior Trspt 	Senior Citizens Transport 	FMN 	Public Works 
+472.67500 	WPSS243 	RM	265 DPL	Twn Hall UHF 	Town Hall 	FMN 	Public Works 
+154.04000 	KNBD956 	BM	88.5 PL	TUK MUA 1 	Municipal Utilities Authority 1 	FMN 	Public Works 
+150.99500 	KNBD956 	BM	88.5 PL	TUK MUA 2 	Municipal Utilities Authority 2 	FMN 	Public Works 
+463.06250 	WRBQ747 	RM	203.5 PL	HatzEMS CNJ 	Hatz EMS CNJ Disp 	FMN 	EMS Dispatch 
+452.07500 	WQFP374 	RM	203.5 PL	Hatz EMS 1/2 	EMS Ch. 1 Dispatch (Ch 2 Talk-Around)  	FMN 	EMS Dispatch 
+464.37500 	WNVF627 	RM	203.5 PL	Hatz EMS 3/4 	EMS Ch. 3 Alt Dispatch (Ch 4 Talk-Around)  	FMN 	EMS Dispatch 
+472.01250 	WPYQ590 	RM	203.5 PL	HatzEMS Wide 	EMS Wide Area Operations 	FM 	EMS-Talk 
+461.45000 	WQWV938 	RM	CC 11TG *SL *	Hatz JC Dig 	Hatzolah EMS of Jersey Shore (Digital) 	DMR 	EMS Dispatch 
+462.15000 	WQLZ776 	RM	CC 9TG *SL *	Hatz Mi Dig 	Hatzolah of Miami Fl (Lakewood NJ Branch - Digital) 	DMR 	EMS Dispatch 
+158.75250 	WPYG829 	RM	031 DPL	LB Island 1 	Fire & EMS Dispatch 	FMN 	Fire Dispatch 
+158.83500 	WPYG829 	RM	243 DPL	LB Island 2 	Fire & EMS Primary Operations/Comms with Ocean County 	FMN 	Fire-Tac 
+158.73000 	WPGA472 	RM	503 DPL	LB Island 3 	Fire & EMS Secondary Operations 	FMN 	Fire-Tac 
+159.76500 	WPMU914 	BM	243 DPL	LB Island 4 	Fireground Primary 	FMN 	Fire-Tac 
+155.16000 	KTK629 	BM	243 DPL	LB Island 5 	Fireground Secondary 	FMN 	Fire-Tac 
+155.23500 	KNEN728 	BM	243 DPL	LB Island 6 	Fireground Tertiary/Water Operations 	FMN 	Fire-Tac 
+151.39250 	WQMC295 	RM	CC 12TG 18001SL 1	LB Island 7 	Island Wide 7  	DMR 	EMS-Tac 
+155.35500 	WPKU821 	RM	CC 12TG 12001SL 2	LB Island 8 	Island Wide 8 	DMR 	EMS-Tac 
+155.38500 	WPGD912 	RM	CC 14TG 14001SL 2	LB Island 9  	Island Wide 9 	DMR 	EMS-Tac 
+155.35500 	WPKU821 	RM	CC 12TG 12001SL 1	Squad 12 Ops 	Squad 12 Operations 	DMR 	EMS-Tac 
+155.38500 	WPGD912 	RM	CC 14TG 14001SL 1	Squad 14aOps 	Squad 14a Operations 	DMR 	EMS-Tac 
+151.39250 	WQMC295 	RM		Squad 14bOps 	Squad 14b Operations 	FMN 	EMS-Tac 
+151.10000 	WPYG829 	RM	516 DPL	Squad 49 Ops 	Squad 49 Operations 	FMN 	EMS-Tac 
+153.78500 	KB25126 	BM	503 DPL	LBI FP Ops 	Fire Police 	FMN 	Fire-Tac 
+453.66250 	WPRH591 	RM	503 DPL	LBI xBand 2 	Island-Wide 2 Crossband 	FMN 	Interop 
+155.20500 	KMK200 	BM	186.2 PL	EMS Ops 	EMS Operations (Old Dispatch) 	FMN 	EMS-Tac 
+155.32500 	KNNT920 	RM	205 DPL	EMS 5 Ops 	EMS Operations 	FMN 	EMS-Tac 
+155.32500 	KNNT920 	BM	351 DPL	EMS 6 Ops 	EMS Operations 	FMN 	EMS-Tac 
+467.46250 	WQNE909 	M		BarnBOE HS 1 	Barnegat BOE - High School Ch. 1 	FMN 	Schools 
+467.51250 	WQNE909 	M		BarnBOE HS 2 	Barnegat BOE - High School Ch. 2 	FMN 	Schools 
+152.99750 	WPWS799 	RM	210.7 PL	BarnBOE Bus 	Barnegat BOE School Buses 	FMN 	Schools 
+461.35000 	WNRM532 	RM	412 DPL	BerkBOE Bus 	Berkeley BOE - Buses 	FMN 	Schools 
+451.28750 	WRDZ578 	M	025 DPL	BerkTwsp ES-1 	Berkeley Township Elementary School  	FMN 	Schools 
+451.46250 	WRDZ578 	M	047 DPL	BerkTwsp ES-2 	Berkeley Township Elementary School  	FMN 	Schools 
+155.29500 	KTV914 	BM	162.2 PL	BrckBOE Bus 	Brick BOE - Buses 	FMN 	Schools 
+463.40000 	WNKJ892 	RM	351 DPL	CRSD Buses 	Central Regional School District - Buses 	FMN 	Schools 
+464.86250 	WQKS298 	M	023 DPL	CRSD Sec 	Central Regional School District - Maintenance 	FMN 	Schools 
+461.87500 	WQKS298 	RM	023 DPL	CRSD Ops 	Central Regional School District - Operations 	FMN 	Schools 
+469.86250 	WQKS298 	M		CRSDSchOffic 	Central Regional School District - School Officials 	FMN 	Schools 
+462.75000 	WQMR502 	BM		FRES 	Forked River Elementry School 	FMN 	Schools 
+155.16000 	KNEJ677 	BM	100.0 PL	JackBOE Bus 	Jackson BOE - Buses 	FMN 	Schools 
+855.68750 	WNVN642 	RM	151.4 PL	LacyBOE Bud 	Lacey Township Schools - Buses 	FMN 	Schools 
+451.98750 	WQFC699 	RM	172 DPL	LBI BOE Bus 	Long Beach Island BOE - Buses 	FMN 	Schools 
+151.49000 	WPST656 	RM		MancBOE Bus 	Manchester BOE - Buses 	FMN 	Schools 
+160.11000 	WPST656 	BM		MancBOE Ops 	Manchester BOE - Operations 	FMN 	Schools 
+453.90000 	WPPD851 	RM	445 DPL	PntPlBOE Bus 	Point Pleasant BOE - Buses 	FMN 	Schools 
+451.58750 	WQKT586 	M		SRSD HS 1 	Southern Regional School District - High School 1 	FMN 	Schools 
+452.78750 	WQKT586 	M		SRSD HS 2 	Southern Regional School District - High School 2 	FMN 	Schools 
+456.58750 	WQK2586 	M		SRSD HS 3 	Southern Regional School District - High School 3 	FMN 	Schools 
+457.78750 	WQKT586 	M		SRSD HS 4 	Southern Regional School District - High School 4 	FMN 	Schools 
+152.97500 	 	RM	155 DPL	SRSD HS Sec 	Southern Regional School District - High School Secuirty 	FMN 	Security 
+451.66250 	WQGY363 	RM	265 DPL	TRRS IS East 	Toms River Regional School - Intermediate School East 	FMN 	Schools 
+464.77500 	WNKT395 	BM	265 DPL	TRRS Bus/Sec 	Toms River Regional Schools - Buses/Security 	FMN 	Schools 
+463.20000 	WNKT395 	RM	265 DPL	TRRS HS East 	Toms River Regional Schools - High School East 	FMN 	Schools 
+451.50000 	WQDZ814 	RM	265 DPL	TRRS HS Nrth 	Toms River Regional Schools - High School North 	FMN 	Schools 
+463.70000 	WNKT395 	RM	265 DPL	TRRS HS Sec 	Toms River Regional Schools - High School Security 	FMN 	Security 
+451.76250 	WQGY363 	RM	265 DPL	TRRS HS Sth 	Toms River Regional Schools - High School South 	FMN 	Schools 
+451.71250 	WQGY363 	RM	265 DPL	TRRS IS Nrth 	Toms River Regional Schools - Intermediate School North 	FMN 	Schools 
+464.35000 	WNKT395 	BM	265 DPL	TRRS Schools 	Toms River Regional Schools - Operations 	FMN 	Schools 
+152.32250 	WQBV680 	RM	244 DPL	OcCoColl Mnt 	Ocean County College - Maintenance 	FMN 	Schools 
+152.97500 	WQBV680 	RM		OcCoColl Sec 	Ocean County College - Security 	DMR 	Security 
+152.97500 	WQBV680 	BM	145 DPL	OcCoColl SOP 	Ocean County College - Southern Education Center Ops 	FMN 	Schools 
+159.55500 	WPUJ263 	BM	445 DPL	OcCoColl Cbx 	Ocean County College - Call Boxes & SEC Ch 2 	FMN 	Schools 
+452.88750 	WQHC925 	M		TI Lkwd A 	Torah Institute of Lakewood  (Expired Lic) 	FMN 	Schools 
+453.01250 	WQHC925 	M		TI Lkwd B 	Torah Institute of Lakewood  (Expired Lic) 	FMN 	Schools 
+457.63750 	WQHC925 	M		TI Lkwd C 	Torah Institute of Lakewood   (Expired Lic) 	FMN 	Schools 
+457.88750 	WQHC925 	M		TI Lkwd D 	Torah Institute of Lakewood   (Expired Lic) 	FMN 	Schools 
+458.01250 	WQHC925 	M		TI Lkwd E 	Torah Institute of Lakewood   (Expired Lic) 	FMN 	Schools 
+462.22500 	WQFX692 	RM	CC 1TG *SL *	Beth MG   	Beth Medrash Govoha  (Lakewood) 	DMR 	Schools 
+464.68750 	 	RM	074 DPL	Yesh Rav 	Yeshiva Rabbi (Lakewood) 	FMN 	Schools 
+464.95000 	WQZN942 	RM	CC 0TG *SL *	B'Yakov 	Bnos Yakov (Lakewood) 	DMR 	Schools 
+151.19000 	KNGP473 	RM	179.9 PL	DEP 1 	Park Police Main 	FMN 	Law Dispatch 
+159.30000 	KA4765 	M	179.9 PL	DEP 2 	Park Police Unit to Unit 	FMN 	Law Talk 
+159.40500 	KA4765 	M	123.0 PL	DEP 9A 	Lifeguards 	FMN 	EMS Dispatch 
+159.46500 	KA4765 	M	179.9 PL	DEP5 	Maintenance 	FMN 	Public Works 
+A and R Communications	 LTR Standard	 Lakewood	A.R. Communications	 DMR Hytera XPT	 Lakewood	Berkeley Township	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Berkeley	Brick Township Board of Education	 DMR Motorola Capacity Plus Single Site (TRBO)	 Brick	Cingular Interactive LP	 Motorola Type II Smartnet	 Barnegat	Delmarva Power / Atlantic City Electric
+ Motorola Type II SmartZone	 Various	Digitech Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	First Energy	 Project 25 Phase I	 Various
+Frequency Plus Corporation	 LTR Standard	 Lakewood	Jackson Township	 Motorola Type II SmartZone	 Jackson Township	Lakewood Township Public Works	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Lakewood	Lavallette Borough	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lavallette	Manchester Township	 Project 25 Phase I	 Manchester Township	MIC Talk, Inc.
+ LTR Standard	 Barnaget	Mobile Radio	 LTR Standard	 Lakewood	New Jersey Interoperability Communications System (NJICS)	 Project 25 Phase II	 Statewide
+New Jersey Natural Gas	 DMR Conventional Networked	 Lincroft	New Jersey State Police	 Motorola Type II SmartZone Omnilink	 Statewide	New Jersey Transit	 TETRA Standard
+ Statewide	New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide	NJ-TRBO Linked Amateur Radio Network	 DMR Conventional Networked	 Various	NY Metro DMR Repeater Network
+ DMR Conventional Networked	 Regional	Ocean County	 Motorola Type II SmartZone	 Ocean County	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various
+Public Service Electric and Gas Company	 Project 25 Phase II	 Various	TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various	United States Air Force (57C)	 Project 25 Phase I
+ Multiple	

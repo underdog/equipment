@@ -1,0 +1,27 @@
+155.82000 	KYW874 	B	162.2 PL	CCFD Disp 	Fire/EMS Dispatch (dispatcher-only simulcast from TRS) 	FM 	Fire Dispatch 
+153.95000 	KYW874 	B	CSQ	CCFR MedCntl 	Medic Control Re-broadcast 	FM 	EMS Dispatch 
+463.15000 	WQFW651 	RM	192.8 PL	CC EMS Med-7 	Medical Control Med-7 	FM 	EMS-Tac 
+463.01250 	WQFW651 	RM	192.8 PL	CC EMS-CCFHN 	EMS-to-Cleveland Clinic Florida Hospital Naples 	FM 	Hospital 
+463.03750 	WQFW651 	RM	192.8 PL	CC EMS-Naple 	EMS-to-Naples Community Hospital 	FM 	Hospital 
+463.06250 	WQFW651 	RM	192.8 PL	CC EMS-NColl 	EMS-to-North Collier Hospital 	FM 	Hospital 
+460.47500 	WQJE460 	RM	CSQ	CCSO BombRbt 	Sheriff- Bomb Robot 	FM 	Law Tac 
+2462.00000 	WQJD234 	M	CSQ	CCSO BombVid 	Sheriff- Link for Bomb Robot Video 	FM 	Data 
+2470.00000 	WQCI594 	M	CSQ	CCSO Video 	Sheriff- Video 	FM 	Data 
+158.80500 	WQIS292 	RM		CC EOC 	Emergency Operations Center 	FM 	Emergency Ops 
+460.46250 	WQQG488 	RM	156.7 PL	NCWRF 	North County Water Reclamation Facility (NCWRF) 	FMN 	Utilities 
+453.32500 	WQAE494 	RM	CSQ	CC WaterData 	Water Data 	FM 	Data 
+453.68750 	KB69419 	BM	CSQ	CC WaterData 	Water Data 	FM 	Data 
+452.07500 	WQBL838 	RM	465 DPL	Gulf CoastHS 	Gulf Coast High 	FMN 	Schools 
+453.36250 	WQJB250 	RM	155 DPL	Sea Gate ES 	Sea Gate Elementary 	FMN 	Schools 
+453.73750 	WQJB252 	RM	143 DPL	Lely ES 	Lely Elementary 	FM 	Schools 
+464.67500 	WQIJ252 	RM	143 DPL	Pine RidgeMS 	Pine Ridge Middle 	FMN 	Schools 
+154.17500 	WPBZ562 	BM	CSQ	BigCorkScrew 	Fire - Operations 	FM 	Fire-Tac 
+153.95000 	KYW874 	BM	162.2 PL	Collier FR 	County EMS Dispatch and Response  	FM 	Fire Dispatch 
+158.83500 	WNJX709 	RM	162.2 PL	GGate FR 	Fire  - Tactical 	FM 	Fire-Tac 
+158.75250 	WQKY465 	B	162.2 PL	CCFD South 	Fire-Rescue Dispatch (patch w/South County Fire/EMS Control) 	FMN 	Fire Dispatch 
+451.82500 	WQBL312 	RM	031 DPL	Seminole Cas 	Seminole Casino - Immokalee (Security/ TAD Ops) 	FM 	Security 
+452.10000 	WQBL312 	RM	CSQ	SeminoleCasino 	Casino Operations 	FMN 	Business 
+Chrysler Florida Evaluation Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Naples	Collier County (EDACS)	 EDACS Networked Standard	 Collier County	Collier County (P25)	 Project 25 Phase II
+ Naples	Florida Power and Light (P25)	 Project 25 Phase II	 Varies	Pelican Bay Foundation	 DMR Motorola Capacity Plus Single Site (TRBO)	 Naples	Ritz-Carlton Beach Club
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Naples	Ritz-Carlton Golf Resort	 DMR Motorola Capacity Plus Single Site (TRBO)	 Naples	Spectrum Wireless (Naples)	 LTR Standard	 Naples
+Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	

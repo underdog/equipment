@@ -1,0 +1,29 @@
+155.73000 	KAK547 	RM		Lewis Sheriff R 	Sheriff: Dispatch / Sheriff's Net 	FMN 	Law Dispatch 
+151.18250 	KAK547 	M		Lewis Sheriff MX 	Sheriff: Mobile Extenders (to 155.73) 	FMN 	Law Tac 
+155.95500 	WPXT987 	BM		Lewis Sheriff BM 	Sheriff 	FMN 	Law Dispatch 
+154.37000 	WPXT987 	BM	192.8 PL	Lewis Fire/EMS 	Fire/EMS: Countywide Dispatch 	FMN 	Law Talk 
+159.39000 	WPYE580 	RM	123.0 PL	Lewis 911 	911 (EMS Simulcast?) (Canton, LaGrange, Labelle) "LaBelle Repeater" (153.74 was input???) 	FMN 	Multi-Dispatch 
+453.28750 	WPYE580 	F		Lewis 911 RF-1 	911 to Remote - Ewing 159.39R tower (Monticello) 	FMN 	Law Dispatch 
+458.28750 	WPYE580 	F		Lewis 911 RF-2 	911 Remote Receive Link - Ewing 	FMN 	Law Dispatch 
+453.61250 	WPYE580 	F		Lewis 911 RF-3 	911 to Remote - Canton 159.39R tower (Monticello) (Canton Fire Dispatch) 	FMN 	Law Dispatch 
+458.61250 	WPYE580 	F	162.2 PL	Lewis 911 RF-6 	911 Remote Receive Link - Canton (repeats all 154.37) 	FMN 	Law Dispatch 
+453.63750 	WPYE580 	F	162.2 PL	Lewis 911 RF-7 	911 to Remote - LaGrange 159.39R tower (Monticello) (LaGrange Fire Dispatch) 	FMN 	Law Dispatch 
+458.63750 	WPYE580 	F	162.2 PL	Lewis 911 RF-8 	911 Remote Receive Link - LaGrange 	FMN 	Law Dispatch 
+159.15000 	WPCV703 	RM	94.8 PL	Lewis Roads 	Roads Department 	FMN 	Public Works 
+155.94000 	WPWD881 	BM	162.2 PL	Lewis Co EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+458.58750 	WPYE580 	F	131.8 PL	Lewis EMS RF1  	911 Remote Receive Link - Canton (to 154.37) 	FMN 	Law Dispatch 
+453.58750 	WPYE580 	F	131.8 PL	Lewis EMS RF2  	911 to Remote - Canton 159.39R tower (Monticello) (to 154.37) 	FMN 	Law Dispatch 
+151.46000 	WPWD881 	M		Lewis EMS MX  	EMS: Mobile Extenders 	FMN 	EMS Dispatch 
+154.47125 	WQBP716 	F		MCPWSD WDD 	Marion County PWSD#1 (Lewis) 	Telm 	Data 
+154.47875 	WPKD710 	F		CWPSD1 WDD 	CPWSD#1 (5 locations) (CSQ) 	Telm 	Data 
+451.02500 	WPJP689 	RM	141.3 PL	PWSD Ops 	Public Water Supply District (Ewing) 	FMN 	Public Works 
+452.30000 	WQEX357 	F		PWSD#1 WDD 	Public Water Supply District #1 of Lewis County: Water Distribution Data (452/457.025) 	Telm 	Data 
+453.15000 	WPDY392 	RM		LCSWC WDD 	Lewis County Soil And Water Conservation District  	FMN 	Public Works 
+154.98000 	KXX400 	BM		Cant Police 	Police/Fire ? (PD Disp 911) 	FMN 	Law Dispatch 
+159.40500 	KNIR486 	M		CR5 Fire MX 	Fire: Mobile Extenders (to 154.37) 	FMN 	Fire-Tac 
+155.83500 	WNYW323 	BM		Cant PubWrks 	Public Works [Canceled] 	FMN 	Public Works 
+155.95500 	KVF806 	BM	203.5 PL	LaGrange Police 	Police: Dispatch (DB: 911) 	FMN 	Law Dispatch 
+153.98000 	WPWX914 	BM		LaGrange CityOps 	City Operations 	FMN 	Public Works 
+463.32500 	WQLX624 	RM		CantonSchool 	Operations  	FMN 	Schools 
+462.00000 	KNCQ972 	RM	261 DPL	LCC1 Schools 	Operations / Buses 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	

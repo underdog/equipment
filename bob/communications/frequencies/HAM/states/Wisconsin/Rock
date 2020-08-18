@@ -1,0 +1,86 @@
+159.09000 	KSB423 	RM	540 NAC	ROSO1 	Sheriff Dispatch 	P25 	Law Dispatch 
+158.73000 	KSB423 	RM	540 NAC	ROSO3 	Sheriff Countywide 	P25 	Law Dispatch 
+154.80000 	KSB423 	RM	540 NAC	ROSO4 	Sheriff-Beloit Interop 	P25 	Law Talk 
+155.67000 	KSB423 	BM	540 NAC	ROSO5 	Sheriff Special Events 	P25 	Law Talk 
+155.67000 	KSB423 	BM	186.2 PL	ROSO5 	Sheriff Special Events 	FMN 	Law Talk 
+155.49750 	WQZT432 	RM	540 NAC	ROSOTAC3 	Countywide Tac 3 	P25 	Law Talk 
+154.31000 	WXL609 	RM	79.7 PL	ROPAG 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+151.26500 	KXE800 	F	79.7 PL	ROPAGLINK 	County Paging Link 	FMN 	Fire Dispatch 
+155.71500 	KXE800 	RM	540 NAC	ROFIR 	Fire Main 	P25 	Fire Dispatch 
+155.43000 	WQAF227 	RM	540 NAC	ROFIRC 	Fire Central 	P25 	Fire-Talk 
+155.07750 	WQZT432 	RM	127.3 PL	ROFIRS 	Fire South 	FMN 	Fire-Talk 
+155.61750 	WQZT432 	RM	127.3 PL	ROFIRN 	Fire North 	FMN 	Fire-Talk 
+460.46250 	KD21375 	RM	71.9 PL	ROJAIL1 	Sheriff Jail 1 	FMN 	Corrections 
+460.26250 	KD21375 	RM	71.9 PL	ROJAIL2 	Sheriff Jail 2 	FMN 	Corrections 
+458.70000 	WPGZ525 	M	146.2 PL	ROJUVDET 	Juvenile Detention Center 	FMN 	Corrections 
+155.55000 	KSB423 	RM	131.8 PL	ROCTSEC 	Courthouse Security 	FMN 	Law Talk 
+154.04000 	WPXR697 	BM	CSQ	ROEM 	Emergency Management Siren Control 	FMN 	Emergency Ops 
+453.40000 	WPMP554 	RM	245 DPL	ROGS 	General Services 	FMN 	Public Works 
+453.50000 	WPMP554 	RM	245 DPL	ROGS 	General Services 	FMN 	Public Works 
+453.70000 	WNWWV241 	M	103.5 PL	ROHEALTH 	Health Care Center 	FMN 	Public Works 
+453.90000 	WPGS452 	RM	74.4 PL	ROHEALTH 	Health Care Center 	FMN 	Public Works 
+464.36250 	WQYN563 	RM	5 RAN	ROHWY1 	Highways 1 	NXDN 	Public Works 
+463.31250 	WQYN563 	RM	5 RAN	ROHWY2 	Highways 2 	NXDN 	Public Works 
+460.07500 	WQAC748 	RM	540 NAC	BEPD1 	Police 1 Dispatch 	P25 	Law Dispatch 
+460.20000 	WQAC748 	RM	540 NAC	BEPD2 	Police 2 Tactical 	P25 	Law Tac 
+460.25000 	WQAC748 	RM	540 NAC	BEPD3 	Police 3 Special Events/SWAT 	P25 	Law Talk 
+460.45000 	WQAC748 	RM	540 NAC	BEPD4 	Police 4 Drug & Gang/SWAT 	P25E 	Law Talk 
+460.35000 	WQAC748 	RM	540 NAC	BEPD5 ROSO 	Police 5 Link to ROSO 	P25 	Law Talk 
+460.47500 	WQAC748 	RM	540 NAC	BEPD6 	Police 6 Link to RO Law Tac 	P25 	Law Talk 
+460.02500 	WQAC748 	RM	156.7 PL	BEPD7 WNSO 	Police 7 Link to Winnebago Co IL 	FMN 	Law Talk 
+460.05000 	WQAC748 	RM	540 NAC	BEPD JVPD 	Police - Link to Janesville PD 	P25 	Law Talk 
+460.27500 	WQAC748 	RM	107.2 PL	BEPD Alt 	Police - Citywide/Schools 	FMN 	Multi-Talk 
+460.31250 	WQAC748 	RM	123.0 PL	BEBMH 	Police - Beloit Memorial Hospital 	FMN 	Law Talk 
+452.90000 	WNRU366 	B	CSQ	BEPAG 	Fire Station Paging 	FM 	Fire Dispatch 
+453.36250 	KVQ607 	RM	540 NAC	BEDPW2 	Public Works 2 	P25 	Public Works 
+453.73750 	KVQ607 	RM	540 NAC	BEDPW1 	Public Works 1 	P25 	Public Works 
+452.62500 	WNAW626 	RM	162.2 PL	BEBUS 	Transit 	FMN 	Transportation 
+154.04000 	KB71192 	BM	131.8 PL	ClintonPD/PW 	Police / Public Works 	FMN 	Public Works 
+151.04000 	WPYU541 	BM	82.5 PL	Clinton DPW 	Public Works 	FMN 	Public Works 
+155.88000 	KQO200 	BM	173.8 PL	Edgerton 	Public Works 	FMN 	Public Works 
+155.58000 	KAY873 	RM	540 NAC	ROJVPD 	Police Dispatch 	P25 	Law Dispatch 
+155.68500 	WPWR205 	RM	540 NAC	ROJVPDTAC 	Police Tactical 	P25e 	Law Talk 
+155.73750 	WPWR205 	M	540 NAC	ROJVPDTAC 	Police Tactical 	P25 	Law Tac 
+151.47500 	WQZT432 	RM	540 NAC	ROJVPDTAC3 	Police Tactical 3 	P25 	Law Talk 
+154.34000 	WXL609 	M	118.8 PL	ROJVFDFG 	Fireground 	FMN 	Fire-Tac 
+453.53750 	KSG890 	RM	20 RAN	ROJVDPW1 	Public Works 1 	NXDN 	Public Works 
+453.83750 	KSG890 	RM		ROJVDPW2 	Public Works 2 	FMN 	Public Works 
+452.75000 	WNNA383 	RM	540 NAC	ROJVTRANS 	Transit 	P25 	Transportation 
+151.04000 	KB76630 	M	110.9 PL	Tn Beloit PW 	Town of Beloit DPW 	FMN 	Public Works 
+151.04000 	WPKB711 	M	82.5 PL	Footville PW 	Town of Footville DPW 	FMN 	Public Works 
+154.04000 	WPQF295 	BM	71.9 PL	Evansville PW 	Evansville DPW 	FMN 	Public Works 
+155.95500 	KJW565 	BM	131.8 PL	Evansville LW 	Evansville Light  	FMN 	Utilities 
+159.12000 	WPMK997 	RM	74.4 PL	Milton DPW 	Milton DPW 	FMN 	Public Works 
+155.83500 	KDL961 	BM	131.8 PL	Orfordville 	Fire / Police / Public Works 	FMN 	Public Works 
+145.45000 	WB9SHS 	RM	123.0 PL	Janesville 	RCRA Janesville 	FM 	Ham 
+146.71500 	WB9SHS 	RM	123.0 PL	Clinton 	RCRA Clinton 	FM 	Ham 
+147.07500 	K9FRY 	RM	123.0 PL	Janesville 	Janesville 	FM 	Ham 
+147.12000 	K9GJN 	RM	123.0 PL	Beloit 	Beloit 	FM 	Ham 
+442.30000 	WI9WIN 	RM	123.0 PL	Edgerton 	Edgerton 	FM 	Ham 
+443.17500 	WB9SHS 	RM	123.0 PL	Clinton 	RCRA Clinton 	FM 	Ham 
+444.75000 	WB9SHS 	RM	123.0 PL	Janesville 	RCRA Janesville Skywarn 	FM 	Ham 
+464.02500 	WNJP933 	RM		Beloit Colle 	Beloit College 	FMN 	Schools 
+464.10000 	WNJP933 	RM		Beloit Colle 	Beloit College 	FMN 	Schools 
+461.35000 	WNJP933 	M		Beloit Colle 	Beloit College 	FMN 	Schools 
+157.53000 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+159.55500 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+159.66000 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+159.69000 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+159.82500 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+159.84000 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+159.84750 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+159.96000 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+160.08000 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+160.17000 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+451.53750 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+456.38750 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+456.56250 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+457.11250 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+457.66250 	WQPZ725 	M		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+463.95000 	WQPZ725 	BM		Blackhawk TC 	Blackhawk TC 	FMN 	Schools 
+452.25000 	WPPV387 	RM	754 DPL	UW RC Ops 	Ops 	FMN 	Schools 
+461.36250 	WPPV387 	M		UW RC Ops 	Ops 	FMN 	Schools 
+466.36250 	WPPV387 	M		UW RC Ops 	Ops 	FMN 	Schools 
+Alliant Energy	 DMR Tier 3	 Various	Bandt Communications	 LTR Standard	 Janesville	General Communications (Janesville)	 LTR Standard
+ Janesville	General Communications NexWave	 NXDN NEXEDGE 4800	 Madison	Milton Schools	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Milton	Wisconsin Interoperable System for Communications (WISCOM)
+ Project 25 Phase I	 Statewide	

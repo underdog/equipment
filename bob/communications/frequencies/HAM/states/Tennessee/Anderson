@@ -1,0 +1,37 @@
+460.22500 	KXL325 	RM	100.0 PL	AndrsnSDDspN 	Sheriff's Department - Dispatch (North) 	FMN 	Law Dispatch 
+460.22500 	KXL325 	RM	127.3 PL	AndrsnSDDspS 	Sheriff's Department - Dispatch (South) 	FMN 	Law Dispatch 
+460.40000 	KXL325 	RM	127.3 PL	AndrsnSD M/A 	Sheriff's Department - Mutual Aid 	FMN 	Interop 
+460.27500 	KXL325 	RM	127.3 PL	AndrsnSDJail 	Sheriff's Department - Jail 	FMN 	Law Tac 
+460.30000 	KXL325 	RM		AndrsnSD Xpt 	Sheriff's Department - Jail Transport 	FMN 	Law Tac 
+39.34000 	KXL325 	RM	423 DPL	AndrsnSD 	Sheriff's Department 	FM 	Law Tac 
+453.02500 	WPHP510 	RM	100.0 PL	ACF/R-North 	Fire/Rescue Dispatch - North 	FMN 	Fire Dispatch 
+453.02500 	WPHP510 	RM	127.3 PL	ACF/R-South 	Fire/Rescue Dispatch - South 	FMN 	Fire Dispatch 
+453.02500 	WPHP510 	M	100.0 PL	ACF/R-TA 	Fire/Rescue - Talkaround 	FMN 	Fire-Talk 
+453.60000 	WPHP510 	M		ACVFD Ch 74 	Volunteer Fire Departments / Rescue Squads - Channel 74 (Fireground) 	FMN 	Fire-Tac 
+154.34000 	WQBH339 	RM	127.3 PL	Claxton VFD 	Claxton Volunteer Fire Department 	FM 	Fire Dispatch 
+460.63750 	KVN550 	RM	100.0 PL	Andrsn EMS N 	EMS North Repeater 	FMN 	EMS Dispatch 
+460.63750 	KVN550 	RM	127.3 PL	Andrsn EMS S 	EMS South Repeater 	FMN 	EMS Dispatch 
+460.63750 	KVN550 	BM	100.0 PL	ACEMS-TA 	EMS Talkaround 	FMN 	EMS-Talk 
+453.52500 	WPHP510 	RM		Andrsn EMA 	Emergency Management 	FMN 	Emergency Ops 
+453.83750 	WPHP510 	RM		Andrsn EMA R 	Emergency Management Vehicular Repeaters/HT's 	FMN 	Emergency Ops 
+451.06250 	WQSH608 	RM	85.4 PL	AndrsnUtlDsN 	Utility District North 	FM 	Public Works 
+462.85000 	 	B		ACPAGING 	Couny Alpha Paging (POSCAG) 	FM 	Other 
+460.32500 	WNIJ799 	RM	127.3 PL	ClintnPD Dsp 	Police Department - Dispatch 	FMN 	Law Dispatch 
+460.40000 	WNIJ799 	RM		ClintnPD M/A 	Police Department - Mutual Aid 	FMN 	Interop 
+460.42500 	WNIJ799 	RM		Clinton FD 	Fire/EMS 	FMN 	Fire Dispatch 
+453.22500 	WNPU641 	RM		Clintn P Wks 	Public Works 	FMN 	Public Works 
+460.16250 	KNBT947 	RM		Norris PD 	Police Department 	FMN 	Law Dispatch 
+45.28000 	KNBT947 	F		Norris PD LB 	Police Low Band 	FM 	Multi-Talk 
+45.36000 	KNBT947 	M		NorrisPD LBM 	Police Low Band Mobile 	FM 	Law Talk 
+463.13750 	KNHE672 	RM	162 DPL	MMC EMS Patch 	Methodist Medical Center EMS Patch 	FMN 	EMS Dispatch 
+855.73750 	KNNL581 	RM		OakRidge T/A 	Trunked Radio System Talkaround 	FMN 	Multi-Talk 
+453.15000 	WPXI243 	RM	127.3 PL	OlvrSpg PD 	Police Department 	FMN 	Law Dispatch 
+154.98000 	WPXK565 	RM	94.8 PL	OlvrSpgFD 1 	Fire/EMS - Dispatch 	FMN 	Fire Dispatch 
+154.37000 	WPXK565 	M		OlvrSpgFD TA 	Fire/EMS - Talkaround 	FMN 	Fire-Tac 
+453.76250 	WPUY925 	RM		RockyTopCS 	City Services 	FMN 	Other 
+460.13750 	WPUY925 	RM		RockyTopCS 	City Services 	FMN 	Other 
+Cartwright Communication Technology (Oliver Springs)	 LTR Standard	 Oliver Springs	CEI MotoTRBO	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Briceville	Central Communications and Electronics (Briceville)	 Motorola Type I
+ Briceville	Central Communications and Electronics (LTR)	 LTR Standard	 Oliver Springs	Methodist Medical Center	 LTR Standard	 Oak Ridge	Oak Ridge National Laboratory
+ Project 25 Phase II	 Oak Ridge	Oak Ridge Public Safety	 Motorola Type II SmartZone	 Oak Ridge	Plateau Electric Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	Tennessee Valley Authority	 Project 25 Phase I
+ Various	

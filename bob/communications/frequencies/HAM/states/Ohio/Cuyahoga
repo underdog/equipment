@@ -1,0 +1,321 @@
+423.05000 	KDE701 	RM	110.9 PL	CCSO Disp 	CCSO Ch 1 Dispatch/Ch 4 simplex 	FM 	Law Dispatch 
+423.17500 	KDE701 	RM	110.9 PL	CCSO Patrol 	CCSO Ch 2 Patrol/Ch 5 simplex 	FM 	Law Talk 
+423.30000 	KDE701 	RM	110.9 PL	CCSO Tac 	CCSO Ch 3 tactical/Ch 6 simplex 	FM 	Law Tac 
+453.25000 	WYQ901 	RM	141.3 PL	CC Jail Security 	County Jail Security 	FM 	Corrections 
+453.87500 	KLU943 	RM	110.9 PL	CC Jail Ops 	County Jail Operations 	FM 	Corrections 
+453.55000 	KQY764 	RM	131.8 PL	CCENG SEWER 	Countywide Sewer Maintenance Ops 	FM 	Public Works 
+453.60000 	KQY763 	RM	118.8 PL	CCENG WEST 2 	County Engineer - West 	FM 	Public Works 
+453.35000 	KQY764 	RM	71.9 PL	CCENG CONST 	Countywide Construction & Admin Ops 	FM 	Public Works 
+453.70000 	KQY763 	RM	71.9 PL	CCENG WEST 4 	County Engineer - West 	FM 	Public Works 
+154.47125 	WPEF638 	B		CCENG Telemetry 	Telemetry 	Telm 	Data 
+852.06250 	WQEX762 	RM	205 DPL	CCBDD OPS 1 	Cuyahoga Co Board of Developmental Disabilities - Operations 	FM 	Public Works 
+853.06250 	WQEX762 	RM		CCBDD OPS 2 	Cuyahoga Co Board of Developmental Disabilities - Operations 	FM 	Public Works 
+860.98750 	WNSC877 	RM	67.0 PL	DIRECT 15 	Fire Direct 15 	FM 	Fire-Talk 
+452.10000 	WQUH756 	RM	CC 10TG *SL 1	StIgn Sec 	St. Ignatius High School - Security 	DMR 	Schools 
+453.27500 	WXF842 	RM	13 RAN	CollegeNow GC  	College Now Greater Cleveland 	NXDN 	Schools 
+453.52500 	WXF842 	RM	19 RAN	CMSD Bus Trans 	Cleveland MSD - Transportation 	NXDN 	Schools 
+453.60000 	WXF842 	RM	118.8 PL	CMSD Bus Securty 	Cleveland MSD - Security 	FM 	Security 
+453.67500 	 	RM	186.2 PL	CMSD Police 1  	Cleveland MSD - Police Dispatch 	FM 	Law Dispatch 
+423.32500 	WPBR619 	RM	110.9 PL	BRATENAHL Police 	Bratenahl Police Dispatch 	FM 	Law Dispatch 
+423.42500 	WPBY648 	RM	88.5 PL	BRATENAHL Srvcs 	Service Department 	FMN 	Public Works 
+423.52500 	WPZF499 	RM	110.9 PL	OkwdWlHlsPD 	Oakwood / Walton Hills PD Dispatch 	FM 	Law Dispatch 
+423.87500 	 	RM	110.9 PL	Warr-NRan PD 	Warrensville Heights / North Randall PD Dispatch 	FM 	Law Dispatch 
+424.15000 	WPFZ374 	RM	110.9 PL	ChagrinPDs 1 	Chagrin Falls / Bentleyville / Hunting Valley / Moreland Hills / Woodmere PD Dispatch 	FM 	Law Dispatch 
+423.80000 	WPFZ374 	RM	110.9 PL	ChagrinPDs 2 	Chagrin Falls / Bentleyville / Hunting Valley / Moreland Hills / Woodmere PD Ch.2 	FM 	Law Talk 
+424.22500 	various 	RM	110.9 PL	Hillcrest Fire 1 	Oakwood Village Dispatch 	FM 	Fire Dispatch 
+424.07500 	various 	RM	110.9 PL	Hillcrest Fire 2 	Highland Hills/North Randall/Warrensville Heights Dispatch 	FM 	Fire Dispatch 
+425.27500 	various 	BM	131.8 PL	Hillcrest Fire 3 	Bedford/Bedford Heights Fireground 	FM 	Fire-Tac 
+851.26250 	 	M	411 DPL	Hillcrest Fire13 	Orange Village/Woodmere Fireground 	FM 	Fire-Tac 
+423.77500 	various 	RM	110.9 PL	Hillcrest Fire16 	Chagrin Falls/Orange Village/Solon/Woodmere Dispatch 	FM 	Fire Dispatch 
+851.07500 	 	M	411 DPL	HHNR Fireground 	Highland Hills/North Randall Fireground 	FM 	Fire-Tac 
+425.30000 	 	BM	123.0 PL	Haz-Mat CMD 	Haz-Mat Command 	FM 	Emergency Ops 
+425.35000 	 	BM	123.0 PL	Haz-Mat Entr 	Haz-Mat Entry Team 	FM 	Emergency Ops 
+424.20000 	 	RM	110.9 PL	Bedford Police 	Police Dispatch 	FMN 	Law Dispatch 
+425.37500 	WPZF499 	BM	110.9 PL	Bedford PD 3 	Police TAC 	FM 	Law Talk 
+428.13750 	WPYL698 	M		Bedford Courts  	Bedford Courts 	FM 	Law Talk 
+155.11500 	KTZ314 	BM	CSQ	Bedford PubWrks  	Public Works 	FM 	Public Works 
+155.22000 	WQAY252 	BM	162.2 PL	Bdfrd CSD Sec  	School Security 	FM 	Security 
+155.28000 	WQAY252 	BM	162.2 PL	Bdfrd CSD Bus  	School Buses 	FM 	Schools 
+424.30000 	KGJ684 	RM	110.9 PL	BdfrdHtsPolice 1 	Police Dispatch 	FM 	Law Dispatch 
+424.00000 	KGJ684 	RM	110.9 PL	BdfrdHtsPolice 2 	Police Ch.2 	FM 	Law Talk 
+423.70000 	WQBL486 	RM	110.9 PL	BdfrdHtsPolice 3 	Police Ch.3 (jail ops) 	FM 	Corrections 
+46.58000 	WQBL486 	BM	110.9 PL	BdfrdHts PubWrks 	Public Works 	FM 	Public Works 
+428.35000 	 	M	411 DPL	HLCRST FD15 	Fireground 	FM 	Fire-Tac 
+159.10500 	KNHY350 	RM	192.8 PL	Chrgn PubWorks 	Public Works 	FM 	Public Works 
+851.36250 	 	M	411 DPL	ChagrinFD851 	Fireground 	FM 	Fire-Tac 
+464.35000 	WNYM978 	RM	445 DPL	ChgrnFll Sch Bus 	School Buses 	FM 	Schools 
+424.05000 	KQA854 	RM	110.9 PL	GrfldHtsPD 1 	PD Dispatch 	FM 	Law Dispatch 
+423.40000 	WQFU306 	M		Grfld Courts 	Court Baliffs 	FM 	Law Talk 
+423.57500 	WPNV956 	RM	110.9 PL	HLCRST FD11 	Fire Station Alert 	FM 	Fire Dispatch 
+424.12500 	various 	BM	127.3 PL	HLCRST FD6 	Fireground 	FM 	Fire-Tac 
+37.02000 	WPRI571 	BM	141.3 PL	Grfld Bldg 	Building Department 	FM 	Public Works 
+37.22000 	WPRI571 	BM	151.4 PL	Grfld Svc 	Service Department 	FM 	Public Works 
+453.11250 	WPRI571 	M	CSQ	Grfld PW Ext 	HT Extender 	FM 	Public Works 
+423.32500 	WPAG202 	RM	466 DPL	HghHills PD 	Highland Hils PD Dispatch 	FMN 	Law Dispatch 
+423.30000 	KDE701 	RM		HghHills SRT 	Highland Hills SRT TAC 	FMN 	Law Tac 
+423.42500 	WPGN395 	RM	223 DPL	HUNTVL SVC 	Service Department 	FM 	Public Works 
+424.32500 	KQA935 	RM	110.9 PL	MapleHgts PD 	PD Dispatch 	FM 	Law Dispatch 
+425.31250 	 	M	110.9 PL	MplHtsPD Prt 	PD portables 	FM 	Law Talk 
+429.10000 	various 	BM	127.3 PL	HLCRST FD4 	Fireground 	FM 	Fire-Tac 
+37.26000 	WPVT970 	BM	CSQ	MplHts Svc 	Service Department 	FM 	Public Works 
+423.42500 	WPVT970 	RM	114.8 PL	MplHts Bldg 	Senior Center/Building Department 	FM 	Public Works 
+425.03750 	WQDX707 	BM	205 DPL	MHHS SEC 	Maple Heights High School Security 	FM 	Schools 
+425.08750 	WQDX707 	BM	223 DPL	MMS SEC 	Milkovich Middle School Security 	FM 	Schools 
+424.00000 	 	RM	110.9 PL	NRandallPD 2 	North Randall PD Ch.2 	FM 	Law Talk 
+424.10000 	various 	BM	127.3 PL	HLCRST FD5 	Fireground 	FM 	Fire-Tac 
+37.26000 	KVI671 	BM	107.2 PL	Oakwood PW 	Public Works 	FM 	Public Works 
+155.29500 	WPQW699 	BM	77.0 PL	OrngCity Sch Bus 	School Buses 	FM 	Schools 
+423.27500 	KQE340 	RM	127.3 PL	Solon Police 1 	PD Dispatch (P25 Simulcast) 	FM 	Law Dispatch 
+424.00000 	WNRK519 	RM	127.3 PL	Solon Police 2 	PD Ch.2 	FM 	Law Talk 
+851.45000 	 	M	411 DPL	HLCRST FD14 	Solon Fireground 	FM 	Fire-Tac 
+154.02500 	KDS658 	BM	114.8 PL	Solon PW 025 	Solon Public Works 	FM 	Public Works 
+154.99500 	KDS658 	BM	110.9 PL	Solon PW 995 	Solon Public Works 	FM 	Public Works 
+46.58000 	KYU952 	BM	CSQ	WltnHlls PW 	Public Works 	FM 	Public Works 
+423.47500 	KQD618 	RM	110.9 PL	WrrnsvllPD 2 	PD Ch.2 	FM 	Law Talk 
+46.58000 	expired 	BM	CSQ	WvlHts PW 	Public Works 	FM 	Public Works 
+151.83500 	WQS624 	BM	91.5 PL	WvlHts CSD 	School Buses 	FM 	Transportation 
+151.34000 	various 	RM	110.9 PL	CUYVALPD 1 	Brooklyn Heights/Cuyahoga Heights/Newburgh Heights/Valley View PD Dispatch 	FM 	Law Dispatch 
+151.26500 	WPDM218 	RM	110.9 PL	CUYVALPD 14 	Regional Police Chan 14 	FM 	Law Talk 
+154.38500 	KDL890 	RM	110.9 PL	CUYVAL FDSP  	Fire Dispatch (Brecksville, Brooklyn Hts, Cuyahoga Hts, Independence, Newburgh Hts, Seven Hills, Valley View) 	FMN 	Fire Dispatch 
+154.22000 	 	BM	110.9 PL	CUYVAL FGND  	Regional Fireground 	FM 	Fire-Tac 
+151.37000 	WPVP570 	RM	91.5 PL	BRECKPD DISP 	PD Dispatch 	FM 	Law Dispatch 
+151.28000 	WNPB240 	BM	110.9 PL	BRECKSVL PW 	Service Department / Tornado Sirens 	FM 	Public Works 
+464.17500 	WPLE266 	RM	118.8 PL	BKVBH CSD 	School Buses 	FM 	Schools 
+158.76000 	WPLP378 	RM	110.9 PL	BRKHTS DPW 	Service Department 	FM 	Public Works 
+155.74500 	WNDK598 	BM	110.9 PL	CUYHTS PD 5 	PD Ch. 5 	FM 	Law Talk 
+452.38750 	WQDI509 	RM	411 DPL	CVCC-1 	 	FM 	Schools 
+452.03750 	WQDI509 	BM		CVCC-2 	 	FM 	Schools 
+452.11250 	WQDI509 	BM		CVCC-3 	 	FM 	Schools 
+452.13750 	WQDI509 	BM		CVCC-4 	 	FM 	Schools 
+452.21250 	WQDI509 	BM		CVCC-5 	 	FM 	Schools 
+155.77500 	KEO311 	RM	110.9 PL	INDPD 1 	PD Dispatch 	FMN 	Law Dispatch 
+151.43000 	WNUG274 	RM	88.5 PL	INDPD 2 	PD Ch. 2 	FM 	Law Talk 
+151.29500 	WNXX553 	RM	88.5 PL	INDPD 3 	PD Ch. 3 	FM 	Law Talk 
+153.80000 	KJY899 	RM	110.9 PL	INDP PW/PD 	Service Department/PD Ch. 5 	FM 	Public Works 
+155.23500 	WQF242 	BM	131.8 PL	INDP CSD 	School Buses 	FM 	Schools 
+159.22500 	WPEP705 	BM	110.9 PL	NEWBHTS PD 5 	PD Ch. 5 	FM 	Law Talk 
+159.21000 	KJD941 	RM	110.9 PL	7Hills PD 1 	PD Dispatch 	FM 	Law Dispatch 
+158.97000 	KJD941 	BM	110.9 PL	7Hills PD 2 	PD Ch. 2 	FM 	Law Talk 
+151.40000 	WPBZ621 	RM	110.9 PL	VVPD 5 	PD Ch. 5 	FM 	Law Talk 
+153.83000 	WPXZ504 	BM	110.9 PL	VALVIEW FG 	Fireground 	FM 	Fire-Tac 
+154.96500 	WPPV763 	RM	127.3 PL	VALVIEW DPW 	Public Works 	FM 	Public Works 
+423.50000 	WNKH660 	RM	110.9 PL	HPD DISPATCH 	Dispatch 	FM 	Law Dispatch 
+423.00000 	WNKH660 	RM	110.9 PL	HPD 2 	Channel 2 	FM 	Law Talk 
+423.25000 	WNKH660 	RM	110.9 PL	HPD 3 	Channel 3 	FM 	Law Talk 
+423.72500 	WNKH660 	RM	110.9 PL	HPD 4 	Channel 4 	FM 	Law Talk 
+425.37500 	 	BM	110.9 PL	HPD 5 	Channel 5 	FM 	Law Talk 
+425.35000 	 	BM	110.9 PL	HPD 6 	Channel 6 	FM 	Law Talk 
+460.03750 	WNKH660 	F		HPD LINK 	Transmitter Link 	FM 	Law Talk 
+460.18750 	WNKH660 	F		HPD LINK 	Transmitter Link 	FM 	Law Talk 
+460.31250 	WNKH660 	F		HPD LINK 	Transmitter Link 	FM 	Law Talk 
+465.03750 	WNKH660 	F	CSQ	HPD LINK 	Transmitter Link 	FM 	Law Talk 
+465.18750 	WNKH660 	F	632 DPL	HPD LINK 	Transmitter Link 	FM 	Law Talk 
+465.31250 	WNKH660 	F	CSQ	HPD LINK 	Transmitter Link 	FM 	Law Talk 
+465.61250 	WNVH992 	F	CSQ	HPD LINK 	Transmitter Link to 423.5000 	FM 	Law Talk 
+154.04000 	WPYX947 	RM	245 DPL	HHCC FD  	Dispatch (Simulcast of MARCS-IP TG 13562) 	FM 	Fire Dispatch 
+453.50000 	KBU407 	RM	156.7 PL	HHCC ALRT 	Backup Fire Station Alerting 	FM 	Fire Dispatch 
+857.31250 	WQUK306 	M	411 DPL	HHCC FG 	Fireground 	FM 	Fire-Tac 
+424.35000 	WNVH992 	RM	110.9 PL	HFD DISPATCH 	Dispatch 	FM 	Fire Dispatch 
+424.02500 	WNVH992 	RM	110.9 PL	HFD 2 	Channel 2 	FM 	Fire-Tac 
+460.58750 	WNVH992 	F	CSQ	HFD LINK 	Transmitter Link 	FM 	Fire-Talk 
+460.61250 	WNVH992 	F	051 DPL	HFD LINK 35 	Transmitter Link to 424.3500 	FM 	Fire-Talk 
+460.63750 	WNVH992 	F	054 DPL	HFD LINK 35 	Transmitter Link to 424.3500 	FM 	Fire-Talk 
+465.58750 	WNVH992 	F		HFD LINK 	Transmitter Link 	FM 	Fire-Talk 
+465.63750 	WNVH992 	F	CSQ	HFD LINK 	Transmitter Link 	FM 	Fire-Talk 
+773.33125 	 	M	114.8 PL	HFD FGND-5 	Fireground 5 	FM 	Fire-Tac 
+857.31250 	WQUK306  	M	411 DPL	HFD FIRE-2 	Fire 2 	FM 	Fire-Tac 
+857.76250 	WQUK306  	M	411 DPL	HFD FIRE-3 	Fire 3 	FM 	Fire-Tac 
+857.98750 	WQUK306  	M	411 DPL	HFD ALT-OPS 	Alt Ops 	FM 	Fire-Tac 
+858.36250 	WQUK306  	M	411 DPL	HFD FIRE-5 	Fire 5 	FM 	Fire-Tac 
+859.26250 	WQUK306  	M	411 DPL	HFD FIRE-6 	Fire 6 	FM 	Fire-Tac 
+423.90000 	KJE337 	RM	612 DPL	BW/PP PD 1 	Police Dispatch 	FMN 	Law Dispatch 
+423.10000 	KTL698 	RM	412 DPL	PEPPIKE PD 2 	Pepper Pike PD Ch. 2 	FMN 	Law Talk 
+460.47500 	WPRJ278 	BM	CSQ	BWPD MDTs 	Beachwood PD MDTs 	FM 	Data 
+423.35000 	WNVH992 	RM	110.9 PL	BW/PP FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+424.02500 	 	RM	110.9 PL	BW/PP FD2 	FD Ch. 2 	FMN 	Fire-Tac 
+425.30000 	 	M	110.9 PL	BW/PP FD5 	FD Ch. 5 Fireground 	FMN 	Fire-Tac 
+425.32500 	WNVH992 	BM		BW/PP FD3 	FD Ch. 3 Fireground 	FM 	Fire-Tac 
+851.17500 	 	M	411 DPL	PEPPIKE FGND 	Pepper Pike Fireground 	FMN 	Fire-Tac 
+46.54000 	WQBK642 	BM	114.8 PL	PEPPIKE PW 	Pepper Pike Public Works 	FM 	Public Works 
+46.58000 	KJB963 	BM	110.9 PL	BEACHWD PW 	Beachwood Public Works 	FM 	Public Works 
+155.26500 	KIL501 	BM	151.4 PL	BEACHWD CSD 	Beachwood CSD School Buses 	FM 	Schools 
+453.47500 	WQDK386 	RM	67.0 PL	CHPD-2 	Police Dispatch 	FMN 	Law Dispatch 
+453.16250 	WQDK386 	RM	110.9 PL	CHPD-3 	Police Ch. 3 	FMN 	Law Talk 
+460.36250 	WQDK386 	RM	88.5 PL	CHPD-4 	Police Ch. 4 	FMN 	Law Talk 
+453.28750 	WQDK386 	RM	123.0 PL	CHPD-5 SIGN 	Police - Signs and Signals 	FMN 	Law Talk 
+453.68750 	WQDK386 	RM	156.7 PL	CHPD-6 SIB 	Police - SIB 	FMN 	Law Talk 
+458.68750 	WQDK386 	M	203.5 PL	CHPD-7 SWAT 	Police - SWAT 	FMN 	Law Tac 
+460.06250 	WQDK386 	RM	141.3 PL	CHPD-8 DET 	Police - Detectives 	FMN 	Law Tac 
+460.08750 	WQDK386 	BM	606 DPL	CHPD CALLBX 	Police - city callboxes (DTMF) 	FMN 	Data 
+774.55625 	 	M	110.9 PL	CleHts VehRp 	Fire Vehicle Repeater 	FM 	Fire-Tac 
+45.52000 	KDB535 	BM		CLEVHTS PW 	Public Works 	FM 	Public Works 
+460.08750 	WQDK386 	RM	173.8 PL	CLEVHTS PW 	Public Works 	FM 	Public Works 
+424.06250 	KQA214 	RM	13 RAN	E CLEV PD 	Police Dispatch (encypted) 	NXDN 	Law Dispatch 
+155.13000 	KQA214 	RM	110.9 PL	EAST CLEV PD 	Police Dispatch 	FM 	Law Dispatch 
+155.85000 	 	BM	110.9 PL	E CLEV PD 2 	Police Ch. 2 	FMN 	Law Talk 
+154.19000 	KBW834 	BM	110.9 PL	EASTCLEV FD1 	Fire Dispatch 	FM 	Fire Dispatch 
+453.42500 	WPZS710 	RM		EASTCLEV PW 	Public Works 	FM 	Public Works 
+464.40000 	KWT205 	RM	173.8 PL	EASTCLEV CSD 	School Buses 	FM 	Schools 
+423.37500 	KDK785 	RM	110.9 PL	EUCLID PD 1 	Police Dispatch 	FM 	Law Dispatch 
+423.60000 	KDK785 	RM	110.9 PL	EUCLID PD 2 	Police Ch. 2 	FM 	Law Talk 
+423.85000 	KDK785 	RM	110.9 PL	EUCLID PD 3 	Police Ch. 3 Special Ops 	FM 	Law Tac 
+424.27500 	KDK785 	RM	110.9 PL	EUCLID FIRE 	Fire Dispatch 	FM 	Fire Dispatch 
+424.02500 	KDK785 	RM	110.9 PL	EUCLID FD 2 	Fire Ch. 2 Fireground 	FM 	Fire-Tac 
+425.30000 	 	BM	110.9 PL	EUCLID FD 3 	Fire Ch. 3 Fireground 	FM 	Fire-Tac 
+423.15000 	KDK785 	RM	151.4 PL	EUCLID PW 	Public Works 	FM 	Public Works 
+462.15000 	WPKG938 	RM	186.2 PL	EUCLID CSD 	Schools 	FM 	Schools 
+464.10000 	WPFA820 	RM	151.4 PL	EUCLID SD SC 	School Security 	FM 	Schools 
+464.85000 	KEA700 	RM	151.4 PL	EUCLID SD MT 	Schools Buses 	FM 	Schools 
+464.92500 	WNUK220 	RM	141.3 PL	EUCLID CSD 	Schools 	FM 	Schools 
+45.60000 	KNCR263 	BM		HIGHLDHTS PW 	Public Works 	FM 	Public Works 
+45.60000 	KDQ284 	BM		LYNDHURST PW 	Public Works 	FM 	Public Works 
+464.67500 	WPWN987 	RM	179.9 PL	MAYFIELD SCH 	School Buses 	FM 	Schools 
+154.09250 	KNEC652 	RM		MAYFDHTS PW 	Mayfield Heights Public Works 	FM 	Public Works 
+155.71500 	KNEC652 	BM		MAYFDHTS PW 	Mayfield Heights Public Works 	FM 	Public Works 
+451.97500 	WPPG439 	RM	315 DPL	RH LSD SEC 	Richmond Heights Local Schools - School Security 	FM 	Security 
+423.97500 	WPGS291 	RM	167.9 PL	SHPD DISP 	Dispatch 	FM 	Law Dispatch 
+423.92500 	WPGS291 	RM	110.9 PL	SHPD 2 	Channel 2 	FM 	Law Talk 
+425.37500 	WPGS291 	BM	110.9 PL	SHPD 3 	Channel 3 	FM 	Law Talk 
+453.92500 	KUQ736 	RM	107.2 PL	SHKRHTS PW 	Public Works 	FM 	Public Works 
+151.71500 	KNBD240 	BM	167.9 PL	SHKRHTS CSD 	School Buses 	FM 	Schools 
+424.17500 	WPIB538 	RM	151.4 PL	SE/UH PD 1 	Police Dispatch 	FM 	Law Dispatch 
+423.92500 	WPIB538 	RM	110.9 PL	SE/UH PD 2 	Police Ch. 2 	FM 	Law Tac 
+46.54000 	WNQT265 	BM	100.0 PL	UNIVHTS PW 	University Heights Service Department 	FM 	Public Works 
+423.42500 	WPGH274 	RM	743 DPL	UNIVHTS BD 	University Heights Building Department 	FM 	Public Works 
+159.22500 	KQB393 	RM	206.5 PL	BEREA SVC 	Berea Service Department 	FM 	Public Works 
+852.55000 	 	RM	071 DPL	BEREA PD RPT 	Berea Police backup repeater 	FM 	Law Tac 
+154.31000 	KAT244 	RM	110.9 PL	BFD/MHFD 1 	Fire Dispatch 	FM 	Fire Dispatch 
+770.15625 	 	M	88.5 PL	BEREAFD RPT 	Berea Fire Repeater 	FMN 	Fire-Tac 
+853.55000 	 	RM	051 DPL	BEREA RPT 	Berea Fire - backup repeater 	FM 	Fire-Tac 
+774.80625 	 	M	88.5 PL	MbHts FD Rpt 	Middleburg Heights FD Repeater 	FMN 	Fire-Tac 
+451.67500 	WPPX587 	RM	71.9 PL	BEREA CSD MN 	Berea School Maintenance 	FM 	Schools 
+452.42500 	WPPX587 	RM	306 DPL	Berea Bus 	Berea School Buses 	FMN 	Schools 
+463.70000 	WPJK432 	RM	136.5 PL	BEREA CSD TP 	Berea School Buses 	FM 	Schools 
+774.55625 	 	M	174 DPL	BkPrk FD Rpt 	Fire Repeater 	FMN 	Fire-Tac 
+46.10000 	KSM940 	BM		NRFD PAGERS 	Fire Department Pagers 	FM 	Fire Dispatch 
+770.15625 	 	M	065 DPL	NRltn FD Rpt 	Fire Repeater 	FMN 	Fire-Tac 
+39.58000 	KRJ864 	BM		NROYALTON PW 	Public Works 	FM 	Public Works 
+452.65000 	KKB913 	RM	CC 5TG 99SL 1	NRoylatonBus 	School Buses 	DMR 	Schools 
+464.87500 	KKB913 	RM	131.8 PL	NROYALTON SD 	School Buses 	FM 	Schools 
+854.36250 	 	BM	293 NAC	PFD FGN-1 	Fireground 1 	P25 	Fire-Tac 
+855.38750 	 	BM	293 NAC	PFD FGN-2 	Fireground 2 	P25 	Fire-Tac 
+773.33125 	 	M	043 DPL	PHts FD Rpt 	Fire Repeater 	FMN 	Fire-Tac 
+155.88000 	KDU554 	BM	179.9 PL	PARMHTS REC 	Recreation Department/Swimming Pool 	FM 	Public Works 
+461.87500 	KZF403 	RM	173.8 PL	PARMHTS CSD 	School Buses 	FM 	Schools 
+774.55625 	 	M	074 DPL	Stvl FD Rpt 	Fire Repeater 	FMN 	Fire-Tac 
+463.60000 	WZN852 	RM	123.0 PL	STNGSVL CSD 	School Security/School Buses 	FM 	Schools 
+460.12500 	WQBT610 	RM	186.2 PL	SEB RPTR 	Repeater 	FM 	Law Tac 
+460.22500 	WQBT610 	M	131.8 PL	SEB TAC1 	Tac-1 	FM 	Law Tac 
+460.27500 	WQBT610 	M	141.3 PL	SEB TAC2 	Tac-2 	FM 	Law Tac 
+460.50000 	WQBT610 	M	151.4 PL	SEB TAC3 	Tac-3 	FM 	Law Tac 
+465.22500 	WQBT610 	M	110.9 PL	SEB TAC4 	Tac-4 	FM 	Law Tac 
+465.27500 	WQBT610 	M	127.3 PL	SEB TAC5 	Tac-5 	FM 	Law Tac 
+465.50000 	WQBT610 	M	123.0 PL	SEB TAC6 	Tac-6 	FM 	Law Tac 
+453.90000 	 	M	CSQ	SEB BOTCTL 	Robot Control 	FM 	Law Tac 
+938.13750 	WPVB760 	RM	244 DPL	UnivCir Police A 	Police 	FM 	Law Dispatch 
+936.48750 	WPWC720 	BM		UnivCir Police B 	Police 	FM 	Law Talk 
+937.75000 	WPWC720 	BM		UnivCir Police C 	Police 	FM 	Law Talk 
+155.61000 	 	RM	110.9 PL	Westshore Law 1 	Dispatch 	FM 	Law Dispatch 
+155.85000 	 	BM	110.9 PL	Westshore Law 3 	Car to Car 	FM 	Law Talk 
+155.53500 	 	BM	110.9 PL	Westshore Law 4 	Channel 4 	FM 	Law Tac 
+458.26250 	 	M	94.8 PL	Westshore LawMRE 	HT Extender 	FM 	Law Talk 
+453.30000 	KNEE654 	RM	192.8 PL	WCDC BU ALERT 	Westshore Central Dispatch Center - Station Alert Back-up (including North Ridgeville FD in Lorain Co) 	FM 	Fire Dispatch 
+154.25000 	WQFN655 	RM	110.9 PL	WESTCOM 1 	Westshore Central Dispatch Center (Westcom) 	FM 	Fire Dispatch 
+154.25000 	WPTF366 	RM	110.9 PL	N/OLMSTED FD 	North Olmsted / Olmsted Township Dispatch 	FM 	Fire Dispatch 
+156.21000 	WQAN462 	RM	151.4 PL	WCFireChat 	N Olmsted Station Alert / Westshore Fire Chat 	FMN 	Fire Dispatch 
+851.07500 	 	M	263 DPL	Westshore FG1  	Westshore Fireground 1 	FM 	Fire-Tac 
+851.17500 	 	M	263 DPL	Westshore FG2  	Westshore Fireground 2 	FM 	Fire-Tac 
+851.26250 	 	M	263 DPL	Westshore FG3  	Westshore Fireground 3 	FM 	Fire-Tac 
+851.36250 	 	M	263 DPL	Westshore FG4  	Westshore Fireground 4 	FM 	Fire-Tac 
+851.45000 	 	M	263 DPL	Westshore FG5  	Westshore Fireground 5 	FM 	Fire-Tac 
+154.20500 	 	M	110.9 PL	NOlmFD TAC 	N. Olmsted Fire TAC 	FM 	Fire-Tac 
+460.10000 	WQFI4709 	RM		WSFD MDT 	Mobile Data Terminals (MDTs) 	Telm 	Data 
+154.98000 	KFI573 	BM	110.9 PL	BAYVIL PW 	Public Works 	FM 	Public Works 
+156.16500 	WQOQ859 	BM	118.8 PL	FAIRVIEW SVC 	Service Department 	FMN 	Public Works 
+158.94000 	 	BM	118.8 PL	FAIRVIEW PW 	Public Works 	FM 	Public Works 
+155.10000 	KLY204 	BM		Lakewood San 	Sanitation and Senior Transportation 	FM 	Public Works 
+155.89500 	KLY204 	RM		Lakewood SVC 	Service Department 	FM 	Public Works 
+155.89500 	KLY204 	RM	82.5 PL	Lakewood PS 	PD-Service Department Interop 	FM 	Interop 
+154.51500 	WQPY452 	M	67.0 PL	LkwdCSDEvt 	School Events 	FMN 	Schools 
+155.23500 	WXT529 	BM	123.0 PL	LAKEWD BUS 	School Buses 	FMN 	Schools 
+451.53750 	WQVJ293 	M	114 DPL	GrantElem 	Grant Elementary School Ops 	FMN 	Schools 
+461.12500 	WQPY452 	M	146.2 PL	EmersonElem 	Emerson Elementary School Operations 	FMN 	Schools 
+461.12500 	WQPY452 	RM	167.9 PL	LkwdCSDSec 	School Security 	FMN 	Schools 
+461.12500 	WQPY452 	RM	173.8 PL	LakewoodGrnd 	School District-Wide Grounds Maintenance 	FMN 	Schools 
+461.12500 	WQPY452 	M	97.4 PL	LakewoodAcad 	Lakewood City Academy Operations 	FMN 	Schools 
+463.48750 	 	BM	073 DPL	LkwdCathOps 	Operations 	FMN 	Schools 
+158.94000 	WPXJ886 	RM	127.3 PL	NOLMSTED PW 	Public Works 	FM 	Public Works 
+47.54000 	 	BM		NOCSD BUS 	School Buses 	FM 	Schools 
+154.05500 	WQRC466 	RM	110.9 PL	OlmFls Svc 	Olmsted Falls Service Department 	FMN 	Public Works 
+155.49000 	KQB731 	RM	110.9 PL	OLMSTED PD 1 	PD Dispatch 	FM 	Law Dispatch 
+457.98750 	 	F	CSQ	OPD RF LINK 	PD RF Link 	FM 	Law Talk 
+773.08125 	 	M	226 DPL	OlmTwp FDRpt 	Olmsted Twp FD Repeater 	FM 	Fire-Tac 
+773.33125 	 	M	132 DPL	OlmFls FDRpt 	Olmsted Falls FD Repeater 	FM 	Fire-Tac 
+462.55000 	 	RM	156.7 PL	OLMFALLS CSD 	Olmsted Falls CSD School Buses 	FM 	Schools 
+156.00000 	KEL438 	BM	110.9 PL	ROCKYRIVR PW 	Public Works 	FM 	Public Works 
+151.85000 	WPQZ419 	RM	413 DPL	RkyRvrCSDBus 	School Buses 	FMN 	Schools 
+151.98500 	WPQZ419 	RM	516 DPL	RkyRvrCSDSec 	School Security 	FMN 	Schools 
+159.12000 	WQAE992 	RM	186.2 PL	WESTLAKE PW 	Public Works 	FM 	Public Works 
+463.23750 	WPZI694 	RM	233.6 PL	WstLkCSDBus 	School Buses 	FMN 	Schools 
+151.46000 	KBV983 	RM	192.8 PL	MP RANGERS W 	Metroparks - Rangers (West Repeater) 	FM 	Law Dispatch 
+152.31500 	WPSQ757 	RM	192.8 PL	MP RANGERS S 	Metroparks - Rangers (South Repeater) 	FM 	Law Dispatch 
+160.05000 	WPSQ757 	RM	192.8 PL	MP RANGERS H 	Metroparks - Rangers (Hinckley Repeater) 	FM 	Law Dispatch 
+152.40500 	WPSQ757 	RM	192.8 PL	MP RANGERS E 	Metroparks - Rangers (East Repeater) 	FM 	Law Dispatch 
+160.17000 	WPSQ757 	BM	173.8 PL	MP Talk-Around 	Metroparks - Talk-around 	FM 	Law Talk 
+151.31000 	KBV983 	RM	192.8 PL	MP Maintenance 	Metroparks - Maintenance 	FM 	Public Works 
+157.57500 	WPSQ757 	BM	162.2 PL	MP TAC T-A 	Metroparks - TAC Talk-around 	FM 	Public Works 
+154.57000 	 	BM	412 DPL	MP ZOO GUEST 	Metroparks - Zoo Guest Services 	FM 	Public Works 
+151.16000 	WNVJ377 	RM	110.9 PL	MP ZOO MAIN 	Metroparks - Zoo Main 	FM 	Public Works 
+151.19000 	WNVJ377 	RM	136.5 PL	MP ZOOKEEPER 	Metroparks - Zoo Zookeepers 	FM 	Public Works 
+160.02000 	WPSQ757 	BM	141.3 PL	MP TRAF-DET 	Metroparks - Traffic & Detectives 	FM 	Law Tac 
+160.08000 	WPSQ757 	BM	151.4 PL	MP CHIEF PVT 	Metroparks - Chief (private) 	FM 	Law Tac 
+461.52500 	WPZZ796 	M	032 DPL	CCPL  SEC 	Security 	FM 	Public Works 
+463.60000 	WPKV306 	RM	115 DPL	CCPL OPS 	Operations 	FM 	Public Works 
+463.81250 	 	BM		CCPL 	Cleveland Public Library 	FMN 	Public Works 
+453.77500 	KTG731 	RM	131.8 PL	CMHA PD DISP 	CMHA Police - Dispatch 	FM 	Law Dispatch 
+453.82500 	KTG731 	RM	131.8 PL	CMHA ADMIN 	CMHA Police - Admin 	FM 	Law Talk 
+453.97500 	KTG731 	RM	131.8 PL	CMHA TAC 	CMHA Police - TAC 	FM 	Law Tac 
+452.47500 	WSM203 	RM	100.0 PL	GCRTA RTRAIL 	Railyard (Patched to GCTRA Trunked System) 	FM 	Public Works 
+452.87500 	WQC252 	RM	100.0 PL	GCRTA RT OPS 	Ops (Patched to GCRTA Trunked System) 	FM 	Public Works 
+453.05000 	KJP331 	RM	100.0 PL	GCRTA ADMIN 	Supervisors/Maintenance (Patched to GCRTA Trunked System) 	FM 	Public Works 
+463.45000 	 	BM	100.0 PL	GRTA Para 	Paratransit 	FMN 	Transportation 
+453.07500 	WQDI558 	RM	186.2 PL	NEORSD PLNT 	Plant Operations 	FMN 	Public Works 
+453.47500 	KYI889 	RM	192.8 PL	NEORSD OPS 	Operations 	FM 	Public Works 
+858.36250 	WQUK306 	M		SERT-5 	Ch 5 	FMN 	Law Tac 
+859.26250 	WQUK306 	M		SERT-6 	Ch 6 	FMN 	Law Tac 
+155.67000 	WPCI476 	RM	94.8 PL	BWU PD 	BWU Police 	FM 	Law Dispatch 
+462.06250 	WPUQ377 	RM	94.8 PL	BWU SVC 	BWU Service Department 	FM 	Public Works 
+422.62500 	WPIC773 	RM		CWRU WSM 	Weatherhead School of Management 	FM 	Schools 
+452.05000 	WQDW601 	RM	152 DPL	CSUPD DISP 	CSU Police - Dispatch 	FMN 	Law Dispatch 
+463.22500 	WQDW601 	M	152 DPL	CSUPD TAC-1 	CSU Police - TAC-1 	FMN 	Law Tac 
+452.20000 	WQDW601 	M	152 DPL	CSUPD TAC-2 	CSU Police - TAC-2 	FMN 	Law Tac 
+461.50000 	WQDW601 	M	152 DPL	CSUPD TAC-3 	CSU Police - TAC-3 	FMN 	Law Tac 
+464.22500 	WQDW601 	M	152 DPL	CSUPD TAC-4 	CSU Police - TAC-4 	FMN 	Law Tac 
+151.74500 	KNCL912 	BM	88.5 PL	CSU SVCS 	CSU Physical Plant - Operations 	FM 	Public Works 
+461.53750 	WQKM910 	RM		CSU OPS BU 	CSU Ops backup repeater 	FMN 	Law Tac 
+159.09000 	KNFY450 	RM	51 RAN	TRI-C SEC 	Campus Security (Metro Campus) 	NXDN 	Law Dispatch 
+159.09000 	KNFY450 	RM	54 RAN	TRI-C W SEC 	Campus Security (Western Campus) 	NXDN 	Law Dispatch 
+464.20000 	WPYI640 	M	072 DPL	TRI-C FTA 	Fire Training Academy 	FM 	Schools 
+427.97500 	WPKC348 	RM	173.8 PL	NDCO PD 1 	Police Ch. 1 Dispatch 	FM 	Law Dispatch 
+422.97500 	WPKC348 	M	173.8 PL	NDCO PD TA 	Police Ch. 2 Talkaround 	FM 	Law Tac 
+461.87500 	 	BM	173.8 PL	NDCO PD 3 	Police Ch. 3 Operations 	FM 	Law Talk 
+Alcoa	 LTR Standard	 Cleveland	ArcelorMittal Steel	 EDACS Standard	 Cleveland	ArcelorMittal Steel (P25)	 Project 25 Phase I
+ Cleveland	ARINC (Cleveland Hopkins)	 iDEN Standard	 Cleveland	B and C Communications Connect Plus (Cleveland)	 DMR Motorola Connect Plus (TRBO)	 Various	B and C Communications LTR
+ LTR Standard	 Various	Bedford School District	 NXDN NEXEDGE 9600	 Bedford	Cleveland Clinic Foundation	 LTR Standard	 Cleveland
+Cleveland Communications (420)	 LTR Standard	 Cleveland	Cleveland Communications (High Band)	 LTR Standard	 Parma	Cleveland Indians Baseball Company	 NXDN NEXEDGE 4800
+ Cleveland	Cleveland Mobile Radio Sales	 LTR Standard	 Cleveland	Cleveland State University	 LTR Standard	 Cleveland	Continental Airlines
+ Motorola Type II Smartnet	 Cleveland	Cuyahoga Community College	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Cleveland	Cuyahoga County Public Library	 EDACS SCAT	 Warrensville Heights
+Domer Communications	 LTR Standard	 Cleveland	Domer Communications NE Ohio	 NXDN NEXEDGE 9600	 Various	Electrocomm (Cleveland 1)	 LTR Standard
+ Beachwood	Electrocomm (Cleveland 2)	 LTR Standard	 Cleveland	Electrocomm (Maple Heights)	 LTR Standard	 Maple Heights	Electrocomm UHF NEOH (NXDN)
+ NXDN NEXEDGE 9600	 Various	FirstEnergy Stadium	 DMR Motorola Capacity Plus Single Site (TRBO)	 Cleveland	Ford Plant (Brookpark)	 Motorola Type II Smartnet	 Brookpark
+Ford Plant (Walton Hills)	 Motorola Type II Smartnet	 Walton Hills	Fred Luxenberg	 LTR Standard	 Parma, OH	Garfield Heights City Schools	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Garfield Heights	Greater Cleveland Regional Transit Authority	 EDACS Networked Standard	 Cleveland	Hamercheck Communications Inc	 LTR Standard	 Cleveland	Hilton Cleveland Downtown
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Cleveland	Independence Communications (Cleveland 1)	 LTR Standard	 Cleveland	Independence Communications (Cleveland 3)	 LTR Standard	 Cleveland
+Jack Casino	 DMR Motorola Capacity Plus Single Site (TRBO)	 Cleveland	Jack Thistledown Racino	 DMR Motorola Capacity Plus Single Site (TRBO)	 North Randall, OH	John Carroll University	 DMR Motorola Capacity Plus Single Site (TRBO)
+ University Heights	NASA John Glenn Research Center	 Project 25 Phase I	 Brookpark	North Coast Two Way DMR (Cleveland)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Cleveland	North Coast Two Way DMR (Warrensville Hgts)
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Warrensviille Heights	Northcoast Two-Way Radio Inc (1)	 LTR Standard	 Warrensville Heights	Northcoast Two-Way Radio Inc (2)	 LTR Standard	 Cleveland
+Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	Parma	 EDACS Standard
+ Parma	Parma / Medina County / Ottawa County	 Project 25 Phase II	 Parma	Progressive Casualty Insurance Company	 LTR Standard	 Mayfield Village	Radio Link Communications 1
+ LTR Standard	 Various	Rock and Roll Hall of Fame	 DMR Motorola Capacity Plus Single Site (TRBO)	 Cleveland	Rocket Mortgage FieldHouse	 DMR Motorola Capacity Plus Single Site (TRBO)	 Cleveland
+University Circle, Inc	 Motorola Type II Smartnet	 Cleveland	University Hospitals of Cleveland	 DMR Motorola Capacity Plus Multi Site (TRBO)	 	Vincent Bak	 LTR Standard
+ Cleveland	Western Reserve Communications	 LTR Standard	 Cleveland	

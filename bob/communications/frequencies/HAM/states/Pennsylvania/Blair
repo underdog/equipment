@@ -1,0 +1,95 @@
+460.60000 	WQKE776 	RM	82.5 PL	BC FIRE DISP 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.72500 	WQKE776 	RM	725 NAC	BC REG FIRE 	Regional Fire Ops 	P25 	Fire-Tac 
+460.50000 	WQKE776 	RM	500 NAC	BC CTL FIRE 	Central Fire Ops 	P25 	Fire-Tac 
+460.05000 	WQKE776 	RM	050 NAC	BC STH FIRE 	South Fire Ops 	P25 	Fire-Tac 
+453.95000 	WQKE776 	RM	950 NAC	BC EAST FIRE 	East Fire Ops 	P25 	Fire-Tac 
+460.10000 	WQKE776 	RM	100 NAC	BC NTHFIRE 	North Fire Ops 	P25 	Fire-Tac 
+453.95000 	WQKE776 	RM	951 NAC	BC WEST FIRE 	West Fire Ops 	P25 	Fire-Tac 
+460.57500 	WQKE776 	RM	575 NAC	BC METRO FIR 	Metro Fire Ops (Altoona) 	P25 	Fire-Tac 
+460.18750 	WPKN664 	M	192.8 PL	BC Fir Pol 1 	Fire Police 1 	FM 	Fire-Talk 
+460.28750 	WPKN664 	M	192.8 PL	BC Fir Pol 2 	Fire Police 2 	FM 	Fire-Talk 
+460.38750 	WPKN664 	M	192.8 PL	BC Fir Pol 3 	Fire Police 3 	FM 	Fire-Talk 
+460.62500 	WQKE776 	RM	625 NAC	BC EMS DISP 	EMS Dispatch 	P25 	EMS Dispatch 
+463.05000 	KXZ436 	BM	192.8 PL	BC EMS/Hosp 	EMS-to-Hospital 	FM 	EMS-Talk 
+460.02500 	WPKN664 	RM	025 NAC	BC North PD 	North Police Dispatch (New) 	P25 	Law Dispatch 
+460.18750 	 	M	192.8 PL	BC North Tac 	North Police Tac 	FMN 	Law Tac 
+453.35000 	 	RM	350 NAC	BC Cent PD 	Central Police Dispatch (New) 	P25 	Law Dispatch 
+460.28750 	 	M	192.8 PL	BC Cent Tac 	Central Police Tac 	FMN 	Law Tac 
+460.32500 	 	RM	192.8 PL	BC Cent Ops 	Central Police Ops 	FMN 	Law Tac 
+460.42500 	KNGG920 	RM	425 NAC	BC Metro PD 	Metro Police Dispatch (New) 	P25 	Law Dispatch 
+460.22500 	 	M	192.8 PL	BC Metro M/M 	Metro Police Mobile-to-Mobile 	FMN 	Law Tac 
+460.15000 	KNGG920 	RM	192.8 PL	BC Metro Ops 	Metro Police Ops 	FMN 	Law Tac 
+460.12500 	WPKN664 	RM	125 NAC	BC South PD 	South Police Dispatch (New) 	P25 	Law Dispatch 
+460.38750 	 	M	192.8 PL	BC South Tac 	South Police Tac 	FMN 	Law Tac 
+460.30000 	WPKN664 	RM	300 NAC	BC Sheriff 1 	Sheriff's Dept. Ops 	P25 	Law Dispatch 
+460.47500 	WNRO684 	RM		BC Sheriff 	Sheriff 	FM 	Law Dispatch 
+460.55000 	WPTR685 	RM	141.3 PL	BC Prison 	County Prison 	FM 	Corrections 
+460.27500 	WPKN664 	RM	275 NAC	BC Ops 1 	County Ops 1 (Public Safety Interop) 	P25 	Interop 
+460.40000 	 	RM	023 DPL	BC South Ops 	South Public Safety Ops 	FMN 	Interop 
+462.95000 	KXZ436 	BM	192.8 PL	Altoona EMS 	Altoona EMS - Dispatch 	FM 	EMS Dispatch 
+463.05000 	KNDR541 	RM	192.8 PL	Alt EMS-Hosp 	Altoona EMS - Altoona Regional Trauma Patch 	FM 	EMS-Talk 
+461.92500 	WPLG503 	RM	CSQ	AMED EMS 	Altoona Mobile Emergency Department (AMED) 	FM 	EMS-Talk 
+460.15000 	KNGG920 	RM		Alt PD Event 	Altoona PD - Special Events 	FM 	Law Talk 
+453.05000 	WPEA872 	RM	74.4 PL	Altoona DPW 	Altoona Highway Department 	FM 	Public Works 
+453.16250 	WPQG962 	RM	127.3 PL	AltoonaWater 	Altoona City Authority (Water & Wastewater) 	FM 	Public Works 
+453.20000 	KNCD557 	RM		Altoona Code 	Altoona Code Enforcement 	FM 	Public Works 
+453.61250 	KNCD557 	RM	94.8 PL	Altoona Code 	Altoona Code Enforcement 	FM 	Public Works 
+453.82500 	KB92767 	RM	203.5 PL	AltoonaHouse 	Altoona Housing Authority 	FM 	Public Works 
+462.01250 	 	BM	CSQ	AmTran Buses 	AMTRAN - Altoona Metro Transit 	FM 	Transportation 
+453.45000 	 	BM	CSQ	Allghny Twp 	Allegheny Township 	FM 	Public Works 
+453.45000 	 	BM	CSQ	Blair Twp 	Blair Township 	FM 	Public Works 
+453.95000 	WPDT644 	RM		CBSA Ops 	Central Blair Sewer Authority 	FM 	Public Works 
+155.83500 	WNVC213 	BM	CSQ	Dncnsville 	Duncansville Borough 	FM 	Public Works 
+463.70000 	WPCS508 	RM	CSQ	Frankstown 	Frankstown Township 	FM 	Public Works 
+460.52500 	WPMF572 	RM	203.5 PL	Freedom Twp 	Freedom Township 	FM 	Public Works 
+453.76250 	 	RM	CSQ	Hollidays PW 	Hollidaysburg Borough Public Works 	FM 	Public Works 
+453.42500 	WNXN963 	RM	192.8 PL	Martinsburg 	Martinsburg Borough Services 	FM 	Public Works 
+453.73750 	WNXN963 	M		Martinsburg 	Martinsburg Borough Services 	FM 	Public Works 
+453.75000 	 	RM		Martinsburg 	Martinsburg Borough Services 	FM 	Public Works 
+453.90000 	KNAQ917 	RM	203.5 PL	Antis Twp 	Antis Township 	FMN 	Public Works 
+463.52500 	 	BM	67.0 PL	Bellwood 	Bellwood Borough 	FMN 	Public Works 
+453.02500 	WQAV790 	RM	192.8 PL	GeeseytownFC 	Geeseytown Fire Company (Frankstown Township) 	FM 	Fire-Tac 
+150.01000 	 	BM	151.4 PL	Hollidays PD 	Hollidaysburg Borough PD 	FM 	Law Talk 
+155.10000 	KFZ725 	BM		Hollidays 	Hollidaysburg Borough PD 	FM 	Law Talk 
+155.49000 	KNFC523 	BM	173.8 PL	Hollidays PD 	Hollidaysburg Borough PD 	FM 	Interop 
+453.12500 	WPNZ329 	RM	123.0 PL	Phoenix FC 	Phoenix Fire Company (Hollidaysburg) 	FM 	Fire-Tac 
+461.70000 	 	BM	192.8 PL	HollidaysEMS 	Hollidaysburg EMS Tac 	FM 	EMS-Tac 
+453.72500 	WQKE776 	RM	192.8 PL	Blue Knob FD 	Blue Knob Fire Department 	FM 	Fire-Tac 
+460.07500 	WNCH569 	RM	075 NAC	Logan PD Dsp 	Police Dispatch 	P25 	Law Dispatch 
+460.32500 	WNCH569 	RM	192.8 PL	Logan PD Tac 	Police Tac 	FMN 	Law Tac 
+460.17500 	WNCH569 	M	192.8 PL	Logan PD M/M 	Police Mobile-Mobile 	FMN 	Law Talk 
+453.27500 	WNML988 	RM	026 DPL	Logan PW/PD 	Public Works/Police Tac 	FMN 	Public Works 
+453.97500 	 	BM	192.8 PL	Logan PD/PW 	Public Works/Police Tac 	FMN 	Multi-Tac 
+460.01250 	WNCH569 	M		Logan PD 	Police Tac  	FM 	Law Tac 
+453.77500 	WPVW639 	RM	CSQ	FriendshipFC 	Roaring Spring - Friendship Fire Company 	FM 	Fire-Tac 
+460.40000 	WNXR489 	RM	CSQ	Roar Sprg PD 	Roaring Springs Borough PD 	FM 	Law Talk 
+155.49000 	KNFC523 	BM		Tyrone PD 	Tyrone Borough PD 	FM 	Interop 
+156.10500 	KNBY205 	BM		Tyrone PW 	Tyrone Borough Highways 	FM 	Public Works 
+460.02500 	KNFC523 	BM		Tyrone PD 	Tyrone Borough PD 	FM 	Law Talk 
+464.87500 	WPPS496 	RM		Alt SD Maint 	Altoona Area School District - Maintenence 	FM 	Public Works 
+463.57500 	WPUQ886 	RM	110.9 PL	Alt SD Sec 	Altoona Area School District - Security 	FM 	Schools 
+463.87500 	 	BM	82.5 PL	ClaysKimm SD 	Claysburg-Kimmel School District - Buses 	FM 	Transportation 
+463.77500 	WPRA451 	RM	186.2 PL	SpringCoveSD 	Spring Cove School District 	FM 	Schools 
+460.25000 	WNKR206 	RM	192.8 PL	PSU Alt PD 	Pennsylvania State University Altoona PD 	FM 	Law Tac 
+35.76000 	KGH283 	BM	151.4 PL	Grannas Bros 	Grannas Brothers Stone & Asphalt Co. 	FM 	Business 
+47.44000 	KSV565 	BM	118.8 PL	NE Stone 1 	New Enterprise Stone & Lime Co - Ch. 1 	FM 	Business 
+47.48000 	KSV565 	BM	118.8 PL	NE Stone 2 	New Enterprise Stone & Lime Co - Ch. 2 	FM 	Business 
+451.92500 	WPWB779 	RM	203.5 PL	BL May Excav 	Ben L May Excavation 	FM 	Business 
+152.36000 	WQDU495 	RM	179.9 PL	ARHS Altoona 	Altoona Regional Health System - Altoona Campus 	FM 	Hospital 
+158.73000 	 	BM	167.9 PL	Alt Hosp Sec 	Altoona Regional Health System - Altoona Hospital Security 	FM 	Hospital 
+151.99500 	KNCB340 	RM	110.9 PL	ARHS Bon Sec 	Altoona Regional Health System - Bon Secours Campus 	FM 	Hospital 
+157.50000 	KNCB340 	M	110.9 PL	ARHS Bon Sec 	Altoona Regional Health System - Bon Secours Campus 	FM 	Hospital 
+460.90000 	WQGY316 	B	CSQ	ARHS Paging 	Altoona Regional Health System - Paging 	FM 	Hospital 
+154.11500 	KIZ632 	BM	203.5 PL	Hldysbrg Vet 	Pennsylvania DMVA - Hollidaysburg Veterans Home 	FM 	Hospital 
+460.27500 	 	RM	294 NAC	UPMC Altoona PD 	UPMC Altoona Police 	P25 	Law Dispatch 
+464.92500 	 	BM	CSQ	Logan Mall 	Logan Valley Mall 	FM 	Business 
+461.52500 	WSE807 	RM	110.9 PL	Blair Senior 	Blair Senior Services Transportation 	FM 	Transportation 
+153.72500 	KOK488 	BM	103.5 PL	Peoples Gas 	Dominion People's Gas 	FM 	Utilities 
+451.67500 	 	RM		DuncansvleMA 	Duncansville Municipal Authority 	FM 	Public Works 
+451.02500 	WNUX961 	RM	136.5 PL	PenelecMeter 	Penelec Meter Readers 	FM 	Utilities 
+48.40000 	 	BM	225.7 PL	VR Elec Ch 1 	Valley Rural Electric Cooperative - Ch 1 	FM 	Utilities 
+47.72000 	 	BM	192.8 PL	VR Elec Ch 2 	Valley Rural Electric Cooperative - Ch 2 	FM 	Utilities 
+48.62000 	 	BM	179.9 PL	VR Elec Ch 3 	Valley Rural Electric Cooperative - Ch 3 	FM 	Utilities 
+151.98500 	KKH964 	BM	107.2 PL	Verizon 	Verizon 	FM 	Utilities 
+Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud
+ Statewide	

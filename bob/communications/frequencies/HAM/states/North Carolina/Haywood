@@ -1,0 +1,44 @@
+453.20000 	KNFE705 	RM	118.8 PL	HC FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+462.95000 	WPUV847 	RM	186.2 PL	HC EMS Disp 	EMS/Rescue Dispatch 	FMN 	EMS Dispatch 
+155.28000 	WPUM863 	BM	136.5 PL	State Rescue 	State Rescue 	FMN 	EMS-Tac 
+155.34000 	WPUM863 	BM	136.5 PL	HC EMS HMC 	Haywood Medical Center 	FMN 	Hospital 
+155.16000 	KB82187 	BM		NC S&R Dogs 	NC Search & Rescue Dogs 	FMN 	Multi-Talk 
+463.00000 	WPUV847 	RM	186.2 PL	HC EMS 2 Hos 	Med 1 (EMS to Hospital) 	FMN 	Hospital 
+463.07500 	WPUV847 	RM	156.7 PL	HC EMS Med 4 	Med 4 (large incidents, drills and incidents near Tennessee line) 	FMN 	EMS-Tac 
+463.15000 	WPUV847 	RM	186.2 PL	HC EMS Med 7 	Med 7 	FMN 	Hospital 
+462.97500 	WPUV847 	RM		HC EMS Med10 	Med 10 (rarely used) 	FMN 	Hospital 
+451.65000 	WNWZ880 	RM		BlueRidge FD 	Blue Ridge Industrial Fire Brigade Dispatch/Fireground 	FMN 	Fire-Tac 
+453.75000 	WNUG276 	RM		C Pidgeon FD 	Central Pigeon Fireground 	DMR 	Fire-Tac 
+453.52500 	WQFV600 	RM	173.8 PL	Crabtree FD 	Crabtree Ironduff Fire 	FMN 	Fire-Tac 
+453.07500 	WPKX379 	RM	118.8 PL	Cruso FD FG 	Cruso Fireground 	FMN 	Fire-Tac 
+453.36250 	WPTT918 	M	94.8 PL	JonCrk FD FG 	Jonathan Creek Fireground 	FMN 	Fire-Tac 
+453.68750 	WPMM294 	RM	118.8 PL	Junaluska FG 	Junaluska Fireground 	FMN 	Fire-Tac 
+460.62500 	WPLW538 	RM		LakeLogan FD 	Lake Logan Fire 	DMR 	Fire-Tac 
+460.57500 	WPLT673 	RM		N Canton FG 	North Canton Fireground (also used by Canton) 	DMR 	Fire-Tac 
+453.05000 	KNNS443 	BM	118.8 PL	Saunook FG 	Saunook Fireground 	FMN 	Fire-Tac 
+151.05500 	WPUQ436 	RM	77.0 PL	HC Sheriff 1 	Sheriff Dispatch-Crabtree Bald site (Western Part County) 	FM 	Law Dispatch 
+154.72500 	WPKT477 	RM	151.4 PL	HC Sheriff 2 	Sheriff Dispatch-Chambers Mountain site  (Eastern Part County) 	FM 	Law Dispatch 
+154.87500 	WPUQ436 	BM	151.4 PL	HCSheriff MA 	Area Wide Mutual Aid simplex 	FM 	Interop 
+155.55000 	WPUQ436 	M	151.4 PL	HC Sheriff 	Sheriff 	FM 	Law Tac 
+155.91000 	WPUQ436 	M	151.4 PL	HC Sheriff 	Sheriff 	FM 	Law Tac 
+155.97000 	WPUQ436 	M	151.4 PL	HC Sheriff 	Sheriff 	FM 	Law Tac 
+158.74500 	KNCA728 	BM		HC Schools 	School Board 	FM 	Schools 
+452.65000 	 	RM	5 RAN	HAYW TRANSIT 	Haywood Public Transit 	NXDN 	Transportation 
+453.32500 	WNIR304 	RM		HC Services 	Services 	FM 	Public Works 
+155.85000 	WIQ84 	BM	151.4 PL	Canton PD 	Police 	FM 	Law Dispatch 
+155.14500 	WNSO620 	RM	151.4 PL	Cant/ClydePD 	Services / Police / Clyde Police 	FM 	Multi-Talk 
+465.62500 	WNWS418 	BM		Clyde FD Tac 	Fireground/Tactical 	DMR 	Fire-Tac 
+460.18750 	WQAQ892 	RM	118.8 PL	Clyde FD FG 	Fireground 	FM 	Fire-Tac 
+154.77000 	WCA964 	BM	151.4 PL	Clyde PD 	Police 	FM 	Law Dispatch 
+460.60000 	WPIS459 	RM	118.8 PL	MaggieVlyFD 	Fireground 	FM 	Fire-Tac 
+158.78250 	WQHP751 	M		MaggieVlyPD 	Police 	FM 	Law Dispatch 
+155.74500 	WNKB380 	BM	116 DPL	MaggieVlyPD 	Maggie Valley PD simplex channel 	FM 	Law Talk 
+453.30000 	WPXV561 	RM	306 DPL	Waynsvill FD 	Fire 	FM 	Fire Dispatch 
+460.18750 	WQAQ892 	RM	CC 1TG *SL 1	Waynsvill FD 	Fire 	DMR 	Fire-Tac 
+155.65500 	KTI749 	RM	88.5 PL	Waynsvill PD 	Police 	FM 	Law Tac 
+155.67750 	WQAP353 	RM		Waynsvill PD 	Police Dispatch (future) 	FM 	Law Dispatch 
+173.26250 	WPPY694 	M		WaynsvlPD WM 	Police Patrol Car Wireless Microphones 	FM 	Law Talk 
+37.10000 	KIC241 	BM		Wnsvl Water 	Waynesville and Canton Street and Water Departments 	FM 	Public Works 
+37.18000 	WPUT433 	BM		Wnsvl Servcs 	Services 	FM 	Public Works 
+Blue Ridge Paper Products	 Motorola Type II	 Canton	North Carolina VIPER	 Project 25 Phase I	 Varies	Progress Energy	 Motorola Type II SmartZone Omnilink
+ Various	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	

@@ -1,0 +1,65 @@
+151.11500 	WQQA758 	BM		SO 1 Analog 	Sheriff Dispatch (simulcast of 154.725 over analog) 	FMN 	Law Dispatch 
+154.72500 	KET263 	RM	CC 8TG 8700SL 1	Wood SO 1 	Sheriff - Dispatch 	DMR 	Law Dispatch 
+155.07000 	KET263 	RM	CC 8TG 8702SL 1	Wood SO 2 	Sheriff - Rural Towns Dispatch 	DMR 	Law Dispatch 
+155.07000 	KET263 	RM	CC 8TG 8703SL 2	Wood SO 3 	Sheriff - Countywide 	DMR 	Interop 
+155.82000 	KJW781 	RM	156.7 PL	Wood SO 4 	Sheriff - Information 	FMN 	Law Talk 
+154.86750 	KET263 	RM	CC 8TG 8705SL 1	Wood Jail 	Sheriff - Corrections 	DMR 	Corrections 
+155.66250 	KET263 	RM		Wood SO B 	Sheriff - Operations 	FMN 	Law Talk 
+154.67250 	KET263 	RM		Wood SO C 	Sheriff - Operations 	FMN 	Law Talk 
+155.47500 	KET263 	BM	CSQ	Wood SO 12 	Sheriff - Nationwide 	FMN 	Law Talk 
+154.81500 	WNQA344 	BM	156.7 PL	Events 1 	Sheriff - Events 1 	FMN 	Law Talk 
+155.66250 	KET263 	RM	CC 1TG 8787SL 1	Events 2 	Sheriff - Events 2 	DMR 	Law Talk 
+151.37750 	WPYX973 	RM		Wood Court 	Sheriff - Court Security 	FMN 	Law Talk 
+155.25000 	KXF638 	RM	CC 1TG 6691SL 1	BGrn Police 	Bowling Green Police - Dispatch 	DMR 	Law Dispatch 
+155.47500 	KXF638 	BM	CSQ	BGPD CAR 	Bowling Green Police - Car to Car 	FMN 	Law Talk 
+458.11250 	 	RM		Haskins PD 	Haskins Police 	FMN 	Law Talk 
+159.09000 	WNBV919 	BM	156.7 PL	NBalt Police 	North Baltimore Police - Local 	FMN 	Law Talk 
+155.13000 	KUS490 	RM		PTPD Disp 	Perrysburg Twp PD - patch to 800 MHz 	FMN 	Law Dispatch 
+153.89000 	KQH447 	BM	CSQ	Wood Co Page 	County Fire/EMS/Outdoor Siren paging 	FMN 	Fire Dispatch 
+151.06250 	WQQG285 	RM	065 DPL	Wood FireCom 	County Fire/EMS Single Department/Vehicle Response 	FMN 	Fire Dispatch 
+154.22000 	WPQY958 	RM	065 DPL	Wood FireOps 	County Fire Incident Command (Multiple Departments) 	FMN 	Fire-Tac 
+154.41500 	WPAD560 	BM	CSQ	Wood FTac 1 	County Incident Tactical/Air Ambulance Coordination 	FMN 	Fire-Tac 
+154.28000 	 	BM	CSQ	Wood FTac2 	County Fire Tac 2 Incident Tactical Operations 	FMN 	Fire-Tac 
+153.83000 	 	BM	CSQ	Wood FTac3 	County Fire Tac 3 Incident Tactical Operations 	FMN 	Fire-Tac 
+155.25000 	KXF638 	RM	CC 1TG 6692SL 2	BGFD Disp 	Bowling Green Fire - Dispatch 	DMR 	Fire Dispatch 
+151.31000 	KQH427 	BM	156.7 PL	CJFD TAC 5 	Central Joint Fire District - Tactical 	FMN 	Fire-Tac 
+151.88000 	 	BM		JHFD Tac 1 	Jackson Township-Hoytville Fire Department Tactical 	FMN 	Fire-Tac 
+154.34000 	WPZJ609 	RM	107.2 PL	PTFD Patch 	Perrysburg Township Fire (patched with talkgroup 10532 on NWORSS) 	FMN 	Fire Dispatch 
+154.17500 	WPKC410 	RM	186.2 PL	PFD 1 Disp 	Perrysburg Fire - Dispatch (patched with talkgroup 10587 on NWORSS) 	FMN 	Fire Dispatch 
+154.22000 	 	BM	CSQ	PFD 3 CW 	Perrysburg Fire - Countywide 	FMN 	Fire-Tac 
+151.01000 	WNJP879 	BM		WallbridgeFD 	Wallbridge Fire 	FMN 	Fire-Tac 
+155.28000 	WXF797 	BM	110.9 PL	NBALT EMS 	North Baltimore EMS 	FMN 	EMS Dispatch 
+155.34000 	KBR613 	BM	186.2 PL	PerryTwp EMS 	Perrysburg Township EMS 	FMN 	EMS Dispatch 
+37.90000 	KQF514 	BM	CSQ	Wood ENG 	County Engineers 	FM 	Public Works 
+151.01000 	KED309 	BM	156.7 PL	NW DPW 	Northwood Public Works 	FMN 	Public Works 
+151.01000 	WNJP879 	BM		Wallbrge PW 	Walbridge DPW 	FMN 	Public Works 
+154.10000 	KNIT760 	BM	156.7 PL	NBALT DPW 	North Baltimore DPW 	FMN 	Public Works 
+155.02500 	KLO385 	RM	156.7 PL	BG Water 	Bowling Green Water Department 	FMN 	Public Works 
+155.10000 	KXD210 	BM	156.7 PL	Rossford DPW 	Rossford DPW 	FMN 	Public Works 
+155.14500 	KQM691 	BM		Wood LG 	County Government 	FMN 	Public Works 
+156.00000 	WNUG236 	BM		Bradner DPW 	Bradner DPW 	FMN 	Public Works 
+158.26500 	KQG203 	RM	127.3 PL	BG Utilities 	Bowling Green Utilities Department 	FMN 	Public Works 
+158.82000 	KDS638 	BM	115 DPL	Perrybrg DPW 	Perrysburg DPW / Warning Sirens 	FMN 	Public Works 
+173.30000 	KQG203 	BM	85.4 PL	BG ELECTRIC 	Bowling Green Electric 	FMN 	Utilities 
+460.32500 	KSQ806 	RM	127.3 PL	Rossford STR 	Rossford Street Department 	FMN 	Public Works 
+155.20500 	WXP302 	BM	88.5 PL	Roosford LSD 	Rossford Schools 	FMN 	Schools 
+155.22000 	WPUY647 	BM		BG CSD 	Bowling Green City School District Buses 	FMN 	Schools 
+155.23500 	KNEJ543 	BM		Penta VOCS 	Penta Vocational Schools - Buses 	FMN 	Schools 
+155.74500 	KWI821 	BM	565 DPL	WoodCo LSD 	Wood County School Buses 	FMN 	Schools 
+452.30000 	WPMD885 	RM	CC 8TG 13SL 2	Penta CC 	Penta Career Center operations 	DMR 	Schools 
+461.87500 	WNFT532 	RM	CC 8TG 11SL *	Elmwood LSD 	Elmwood Local School District - Buses and Maintenance 	DMR 	Schools 
+462.02500 	WNDA703 	RM	136.5 PL	Perry CSD M 	Perrysburg Schools - Maintenance 	FMN 	Schools 
+464.67500 	WPVL406 	RM	136.5 PL	Perry CSD Op 	Perrysburg Schools - Operations 	FMN 	Schools 
+464.95000 	WNDK979 	RM	136.5 PL	Perry CSD 	Perrysburg Schools - Buses 	FMN 	Schools 
+461.50000 	WQNE465 	RM	CC 1TG 16000000SL *	HWEC RSUN 	Hancock Wood Electric Cooperative - Rising Sun Operations 	DMR 	Utilities 
+463.45000 	WQMP749 	RM	CC 1TG 16000000SL *	PRISM RS 	Prism Propane [Rising Sun] 	DMR 	Utilities 
+151.20500 	KBD554 	RM	CC 1TG 16776415SL 1	BGSU PD Disp 	Bowling Green University Police - Dispatch 	DMR 	Law Dispatch 
+155.13000 	KBD554 	BM	156.7 PL	BGSU PD Sec 	Police - Secondary 	FMN 	Law Talk 
+151.20500 	KBD554 	RM	CC 1TG 6666SL 2	BGSU EVENTS 	Bowling Green State University - Events 	DMR 	Multi-Talk 
+151.20500 	KBD554 	RM	CC 1TG 6667SL 2	BGSU BUSES 	Bowling Green State University - Shuttle Buses 	DMR 	Transportation 
+453.65000 	WPBR536 	BM		BGSU Maint 	Maintenance 	FMN 	Public Works 
+451.97500 	KNJV981 	RM		OCC 1 	Owens Community College 	DMR 	Business 
+463.87500 	KNJV981 	RM		OCC 2 	Owens Community College 	DMR 	Business 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I
+ Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	Smart Link Systems	 LTR Standard	 Various	United Telephone of Ohio
+ Motorola Type II Smartnet	 Various	

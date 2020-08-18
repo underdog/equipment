@@ -1,0 +1,66 @@
+155.59500 	KYS824 	RM	500 NAC	PTSO1 	Sheriff Dispatch 	P25E 	Law Dispatch 
+155.79000 	KYS824 	RM	501 NAC	PTSO2 	Sheriff Tac 2 	P25 	Law Tac 
+154.71000 	KYS824 	M	50A NAC	PTSOTAC1 	Sheriff Tac 1 	P25 	Law Tac 
+154.45250 	 	M	50F NAC	PTCARS 	Sheriff Car to Car 	P25 	Law Talk 
+158.89500 	KYS824 	M	507 NAC	PTJAIL 	Sheriff Jail 	P25 	Corrections 
+154.38500 	KNCK278 	RM	206.5 PL	PTPAGE 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+154.74000 	KNCK278 	RM	100.0 PL	PTPS1 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+151.22000 	WPME950 	RM	218.1 PL	PTPS2 	Public Safety 2 	FMN 	Multi-Talk 
+155.95500 	WPKU924 	RM	210.7 PL	PTPARK 	County Parks 	FMN 	Public Works 
+155.34000 	KWT787 	BM	206.5 PL	EMS B SMH 	St Michaels Hospital 	FMN 	Hospital 
+151.01000 	KJK666 	RM	127.3 PL	PTHWY 	Highways 	FMN 	Public Works 
+155.11500 	KNGE382 	RM	156 DPL	PTAGING 	Dept of Aging 	FMN 	Public Works 
+453.71250 	WPMQ817 	RM	141.3 PL	PTMAINT 	Building Maintenance 	FMN 	Public Works 
+45.40000 	KZG209 	BM	CSQ	PTEM 	Emergency Management Alert Receivers 	FM 	Emergency Ops 
+154.98000 	KUS481 	BM	107.2 PL	Almond DPW 	Public Works 	FMN 	Public Works 
+155.74500 	 	M	206.5 PL	Amherst FD 	Fire 	FMN 	Fire-Tac 
+155.02500 	WNSG301 	RM	025 DPL	DPW 	DPW 	FM 	Public Works 
+155.08500 	KVX811 	RM	136.5 PL	Buena Vista 	Public Works 	FMN 	Public Works 
+155.02500 	KNGU734 	M	206.5 PL	Carson 	Public Works 	FMN 	Public Works 
+155.14500 	KNGE455 	BM	179.9 PL	DPW 	DPW 	FMN 	Public Works 
+155.02500 	KNFQ951 	BM	67.0 PL	Hull 	Public Works 	FMN 	Public Works 
+154.43000 	KNEE645 	BM	206.5 PL	JunctionCity 	Fire 	FM 	Fire-Tac 
+154.08500 	KZF989 	BM	114 DPL	DPW 	DPW 	FMN 	Public Works 
+158.80500 	KXQ784 	BM	192.8 PL	DPW 	DPW 	FMN 	Public Works 
+155.63250 	WQTV741 	M		Plover PD 	Police Car-to-Car 	P25 	Law Talk 
+154.04000 	KNEF387 	RM	85.4 PL	Plover 	DPW/Fire 	FMN 	Multi-Talk 
+154.08500 	KNEF387 	M		Plover DPW 	DPW 	FMN 	Public Works 
+155.49000 	KNEF387 	M	606 DPL	Plover DPW 	DPW 	FMN 	Public Works 
+453.06250 	WRAL803 	M		Water Data 	Water Data 	Telm 	Data 
+155.67000 	KB20510 	RM	505 NAC	PTSPPD1D 	Police Dispatch 	P25e 	Law Dispatch 
+154.78500 	KB20510 	RM	186.2 PL	PTSPPDTACA 	Police Tac 	FMN 	Law Tac 
+154.78500 	KB20510 	RM	506 NAC	PTSPPDTACD 	Police Tac 	P25 	Law Tac 
+150.99500 	 	M	504 NAC	PTSPFDMVR 	Fire Vehicular Repeater 	P25 	Fire-Tac 
+153.95000 	WNVR401 	M	206.5 PL	PTSPFDFG 	Fireground 	FMN 	Fire-Tac 
+156.22500 	WPSI931 	RM	114 DPL	PTSPDPW 	Public Works 	FMN 	Public Works 
+151.17500 	WNKV645 	RM	023 DPL	PTSPPARK1 	Parks Dept 	FMN 	Public Works 
+154.98000 	WNKV645 	BM	100.0 PL	PTSPPARK2 	Parks 	FMN 	Public Works 
+153.44000 	KQV620 	RM	131.8 PL	PTSPWATER 	Water Dept 	FMN 	Public Works 
+453.27500 	WNLZ722 	RM	71.9 PL	PTSPHOUS 	Housing Authority 	FMN 	Public Works 
+155.92500 	KNBY209 	RM	065 DPL	PTSPTRANS 	Transit 	FMN 	Transportation 
+453.23750 	WPTE247 	BM		PTSPRTK 	Survey Data 	Telm 	Data 
+453.36230 	WQPM985 	RM		Water Data 	Water Data 	Telm 	Data 
+154.98000 	WQEP216 	BM		DPW 	DPW 	FMN 	Public Works 
+458.38750 	WQKA415 	BM		Water Data 	Water Data 	Telm 	Data 
+152.34500 	WQTX557 	RM		St Pt Buses 	Stevens Point School Buses 	DMR 	Transportation 
+152.34500 	 	BM	218.1 PL	Lamers Bus 	Lamers Bus 	FMN 	Transportation 
+451.60000 	WNPK990 	RM	CC 9TG 9SL 1	St Pt School 	Stevens Point School District 	DMR 	Schools 
+457.81250 	WNPK990 	M		St Pt School 	Stevens Point School District 	FMN 	Schools 
+461.60000 	WNPK990 	RM	136.5 PL	St Pt School 	Stevens Point School District 	FMN 	Schools 
+462.17500 	WNPK990 	RM	073 DPL	St Pt School 	Stevens Point School District 	FMN 	Schools 
+464.55000 	WNPK990 	M		St Pt School 	Stevens Point School District 	FMN 	Schools 
+467.76250 	WNPK990 	M		St Pt School 	Stevens Point School District 	FMN 	Schools 
+467.85000 	WNPK990 	M		St Pt School 	Stevens Point School District 	FMN 	Schools 
+155.89500 	WQH466 	RM	478 NAC	UWSP Sec 	Police/Security 	P25 	Law Dispatch 
+155.77500 	WQH466 	RM	172 DPL	UWSP Parking 	Parking 	FMN 	Schools 
+155.05500 	WQH466 	B		UWSP Paging 	Paging 	FMN 	Schools 
+453.20000 	WQH466 	RM	156.7 PL	UWSP Grounds 	Grounds 	FMN 	Schools 
+453.20000 	WQH466 	RM	173.8 PL	UWSP Maint 	Custodial 	FMN 	Schools 
+453.62500 	WQH466 	RM	131.8 PL	UWSP Ops 	Ops 	FMN 	Schools 
+453.73750 	WQH466 	M		UWSP Ops 	Ops 	FMN 	Schools 
+461.32500 	WPAL766 	RM		UWSP Ops 	Ops 	FMN 	Schools 
+461.61250 	WQBJ990 	BM		UWSP B 	Buildings  	FMN 	Schools 
+463.55000 	WNLN382 	RM	118.8 PL	UWSP Center 	University Center 	FMN 	Schools 
+Air Communications of Central WI (Arnott)	 LTR Standard	 Arnott	Alliant Energy	 DMR Tier 3	 Various	Central Wisconsin Electric Cooperative	 DMR Motorola Connect Plus (TRBO)
+ Iola	Northway Communications (Stevens Point)	 LTR Standard	 Stevens Point	Vital Communications	 DMR Hytera XPT	 Various	Wisconsin Interoperable System for Communications (WISCOM)
+ Project 25 Phase I	 Statewide	

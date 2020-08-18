@@ -1,0 +1,344 @@
+170.22500 	WPMP252 	RM		HCFloodHuffm 	Flood Alert System Gauge Data - Huffman 	Telm 	Data 
+171.82500 	WPZA693 	RM		HCFloodClodi 	Flood Alert System Gauge Data - Clodine 	Telm 	Data 
+463.21250 	 	RM	107.2 PL	HC Jail/CourtMnt 	Jail/Courts Maintenance (Downtown) 	FMN 	Public Works 
+859.48750 	WQFL409 	RM	156.7 PL	HC Juve Det Ctr 	Juvenile Detention Center 	FMN 	Corrections 
+460.22500 	KKD490 	M	123.0 PL	HPD8 Car-Car 	Ch. A8/B8 Car-to-Car - Criminal Intelligence Division (CID) 	FM 	Law Tac 
+460.37500 	KDC956 	M	123.0 PL	HPD Tac 1 	Ch. B2 Tactical 1 - City Jail 	FM 	Corrections 
+465.37500 	KKD490 	M	123.0 PL	HPD Tac 2 	Ch. B6 Tactical 2 	FM 	Law Tac 
+852.13750 	WPLU785 	M	061 NAC	HPD Simplex1 	Simplex 1 	P25E 	Law Tac 
+851.88750 	WPLU785 	M	061 NAC	HPD Simplex2 	Simplex 2 	P25E 	Law Tac 
+852.03750 	WPDA690 	M	061 NAC	HPD Simplex3 	Simplex 3 	P25E 	Law Tac 
+851.21250 	WPDA690 	M	061 NAC	HPD Simplex4 	Simplex 4 	P25E 	Law Tac 
+851.71250 	WPDA690 	M	061 NAC	HPD Simplex5 	Simplex 5 	P25E 	Law Tac 
+462.95000 	WRB364 	B	127.3 PL	HFD Alert462 	Station Alerting 	FMN 	Fire Dispatch 
+460.57500 	KKE498 	B	127.3 PL	HFD Alert460 	Station Alerting 	FMN 	Fire Dispatch 
+852.48750 	WPDA690 	M	167.9 PL	HFD AC10 Spx 	Ch. AC10 Simplex 	FMN 	Fire-Tac 
+171.92500 	WQVA751 	F		HouFloodData 	Flood Alert System Gauge Data 	Telm 	Data 
+461.16250 	 	M	023 DPL	MemPark Golf 	Memorial Park Golf Course 	FMN 	Public Works 
+461.03750 	 	M	205 DPL	MOSE 1 Sec 	Ch. 1 Security/Information 	FMN 	Public Works 
+461.06250 	 	M	223 DPL	MOSE 2 Ops 	Ch. 2 Operations/Headquarters 	FMN 	Public Works 
+461.08750 	 	M	226 DPL	MOSE 3 Disp 	Ch. 3 Dispatch/Maintenance 	FMN 	Public Works 
+461.11250 	 	M	243 DPL	MOSE 4 Food 	Ch. 4 Food/Beverage/Propane/Electric 	FMN 	Public Works 
+461.13750 	 	M	244 DPL	MOSE 5 Mrkts 	Ch. 5 Markets 	FMN 	Public Works 
+461.16250 	 	M	245 DPL	MOSE 6 Spons 	Ch. 6 Sponsorship 	FMN 	Public Works 
+461.18750 	 	M	251 DPL	MOSE 7 Enter 	Ch. 7 Entertainment 	FMN 	Public Works 
+461.21250 	 	M	261 DPL	MOSE 8 Finan 	Ch. 8 Finance 	FMN 	Public Works 
+461.23750 	 	M	263 DPL	MOSE 9 Volun 	Ch. 9 Volunteers 	FMN 	Public Works 
+461.26250 	 	M	265 DPL	MOSE10 Admin 	Ch. 10 Site Administration 	FMN 	Public Works 
+461.28750 	 	M	271 DPL	MOSE11 Staff 	Ch. 11 Organizer's Staff 	FMN 	Public Works 
+461.31250 	 	M	179.9 PL	MOSE 12 	Ch. 12 	FMN 	Public Works 
+119.57500 	WQIQ214 	B	CSQ	Hermann AWOS 	Heliport - Automated Weather Observing System (AWOS) 	AM 	Aircraft 
+128.85000 	KHM9 	BM	CSQ	Hermann CTAF 	Heliport - Common Traffic Advisory Frequency and Third Party Helicopter Patient Reports 	AM 	Aircraft 
+155.34000 	KUU399 	BM	CSQ	MH PxReports 	Third Party Helicopter Patient Reports to Memorial Hermann 	FMN 	Hospital 
+151.23500 	WNRN507 	RM	241.8 PL	HCAD Ofc Sec 	Office Security 	FMN 	Security 
+461.72500 	WQSX277 	RM	CC 4TG 101SL 1	Downtown Safety 	Public Safety Guides 	DMR 	Public Works 
+461.72500 	WQSX277 	RM	CC 4TG 101SL 2	Downtown Alt 	Alternate 	DMR 	Public Works 
+462.42500 	WPUH294 	RM	229.1 PL	Dwntwn Emerg 	Downtown Emergency Radio System 	FMN 	Emergency Ops 
+488.40000 	WQEN771 	RM	CC 12TG 1SL 1	MetroAdmBldg 	Metro Administration Building - Maintenance 	DMR 	Public Works 
+154.25000 	WPUG532 	BM	503 DPL	BaytwnFDDisp 	Fire Dispatch Simulcast/Paging 	FM 	Fire Dispatch 
+460.17500 	KKD827 	RM	167.9 PL	Bell PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+460.22500 	KNID477 	BM	167.9 PL	Bell PD3 Sec 	Police Ch. 3 Secondary 	FMN 	Law Tac 
+460.60000 	KKE519 	RM	167.9 PL	Bell F/EDisp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.10000 	KCU340 	BM	CSQ	Bell Pub Wrk 	Public Works 	FM 	Public Works 
+154.79250 	KKT848 	RM		DP PD Disp 	Police (simulcast from trunked system) 	FM 	Law Dispatch 
+154.22000 	KBG773 	RM	103.5 PL	DP Fire Disp 	Fire (simulcast from trunked system) 	FMN 	Fire Dispatch 
+453.82500 	WNHK566 	RM	146.2 PL	Lakeview PD 	Lakeview Police (covers El Lago and Taylor Lake Village; back-up to TxWARN) 	FM 	Law Dispatch 
+154.43000 	KKJ340 	B	146.2 PL	GP Fire Disp 	Fire Dispatch (simulcast of trunked system talkgroup 9200) 	FMN 	Fire Dispatch 
+154.41500 	WNAC222 	BM	118.8 PL	HumbFireDisp 	Fire (simulcast of trunked system talkgroup 10736) 	FMN 	Fire Dispatch 
+453.25000 	KWF845 	RM	156.7 PL	JC Police 	Police Dispatch 	FM 	Law Dispatch 
+453.55000 	KWF845 	RM	732 DPL	JC Fire/EMS 	Fire/EMS 	FMN 	Fire Dispatch 
+453.80000 	KWF845 	RM	732 DPL	JC Anml Ctrl 	Animal Control 	FM 	Public Works 
+453.78750 	KNFS842 	RM	146.2 PL	JVFire DispU 	Fire Dispatch (Cy-Fair VFD Ch. 16) 	FMN 	Fire Dispatch 
+452.40000 	 	RM	186.2 PL	JV EmSvcTac1 	Emergency Services Tactical 1 	FMN 	Fire-Tac 
+151.11500 	WPJZ350 	RM	127.3 PL	Katy Fire 	Fire 	FM 	Fire Dispatch 
+156.09000 	KWF847 	BM	734 DPL	Katy PublicWorks 	Public Works 	FMN 	Public Works 
+154.13000 	KKS972 	RM	146.2 PL	LP Fire Disp 	Fire Dispatch (includes Morgans Point) 	FM 	Fire Dispatch 
+155.62500 	KS6226 	B		LP EMS 	EMS 	FM 	EMS-Tac 
+154.65000 	KKS972 	B	127.3 PL	La Porte PD 	Police Dispatch (patch from TxWARN P25 talkgroup 43010) 	FMN 	Law Dispatch 
+453.15000 	KDC635 	RM	146.2 PL	HedwigPolice 	Hedwig Village Police 	FM 	Law Dispatch 
+453.27500 	KWF852 	RM	146.2 PL	SprValPolice 	Spring Valley Police - Primary 	FM 	Law Dispatch 
+453.55000 	KWF852 	BM	146.2 PL	SprValPolSec 	Spring Valley Police - Secondary 	FM 	Law Tac 
+453.32500 	WPUT855 	RM	127.3 PL	MV Fire/EMS 	Fire/EMS (All Villages) 	FM 	Fire Dispatch 
+153.47000 	KUA993 	RM	107.2 PL	MemVillWater 	Water Authority (Hedwig, Hunter's Creek, Piney Point) 	FM 	Public Works 
+154.38500 	KKY617 	RM	179.9 PL	SeabFireDisp 	Fire Dispatch 	FM 	Fire Dispatch 
+155.94000 	KLA367 	RM	146.2 PL	SH VFD/EMS 	Volunteer Fire Department and EMS (dispatch only, operatons on trunked system) 	FM 	Fire Dispatch 
+488.53750 	WIL641 	RM	110.9 PL	SH Pub Wrks 	Public Works 	FM 	Public Works 
+154.98000 	WQN924 	B	114.8 PL	SSPVFD Paging 	Volunteer Fire Department Paging 	FMN 	Fire Dispatch 
+453.52500 	KWF853 	RM	146.2 PL	Tom PD Disp 	Police Dispatch 	FM 	Law Dispatch 
+453.55000 	KWF853 	M	146.2 PL	Tom PD Tac 	Police Tactical 	FM 	Law Tac 
+154.95000 	 	M	CSQ	Tom PD 3 C-C 	Police Ch. 3 Car-to-Car 	FM 	Law Talk 
+158.80500 	KDK796 	RM	205 DPL	TomFire1Disp 	Fire/EMS Disp. Tombal & Northwest (simulcast TxWarn 1114) 	FM 	Fire Dispatch 
+154.28000 	KDK796 	BM	CSQ	TomFire 2 MA 	Fire Mutual Aid 	FM 	Interop 
+155.29500 	KNDF345 	RM	192.8 PL	TomFire3 Tac 	Fire Tactical 3 (Northwest Rural EMS Ch. 2) 	FM 	Fire-Tac 
+158.80500 	WPRF990 	M	CSQ	TomFire4 Tac 	Fire Tactical 4 	FM 	Fire-Tac 
+158.82000 	WPRF990 	M	192.8 PL	TomFire5 Tac 	Fire Tactical 5 	FM 	Fire-Tac 
+158.85000 	WPRF990 	M	025 DPL	TomFire6 Tac 	Fire Tactical 6 	FM 	Fire-Tac 
+158.81250 	WPRF990 	M	192.8 PL	TomFire7 Tac 	Fire Tactical 7 Officers 	FM 	Fire-Tac 
+153.95000 	KDK796 	RM	631 DPL	TomFire8 Tac 	Fire Tactical 8 	FM 	Fire-Tac 
+154.23500 	KGT464 	BM	114.8 PL	WebsFire/Res 	Fire/Rescue 	FM 	Fire Dispatch 
+453.18750 	WPWI473 	B	127.3 PL	Community VFDUHF 	Fire (simulcast of tone outs only TxWARN P25 TG 38620) 	FMN 	Fire Dispatch 
+157.45000 	KD46605 	B		CFVFD Paging 	Paging (Dispatch Simulcast) 	FMN 	Fire Dispatch 
+453.60000 	WPTK356 	RM	143 DPL	CFVFD 1 Disp 	Ch. 1 Primary Dispatch 	FMN 	Fire Dispatch 
+463.32500 	WPSG870 	RM	143 DPL	CFVFD 2 U-D 	Ch. 2 Unit to Dispatch 	FMN 	Fire-Talk 
+453.35000 	WPTK356 	RM	143 DPL	CFVFD 3 Tac 	Ch. 3 District 3/4 Tactical/Fireground 	FMN 	Fire-Tac 
+453.22500 	WPVU769 	RM	143 DPL	CFVFD 4 Tac 	Ch. 4 District 1 Tactical/Fireground 	FMN 	Fire-Tac 
+453.97500 	WPVU769 	RM	143 DPL	CFVFD 5 Tac 	Ch. 5 District 2 Tactical/Fireground 	FMN 	Fire-Tac 
+458.55000 	WPVU769 	M	143 DPL	CFVFD 6 Tac 	Ch. 6 Tactical/Fireground 	FMN 	Fire-Tac 
+458.93750 	WPVU769 	M	143 DPL	CFVFD 7 Tac 	Ch. 7 Tactical/Fireground 	FMN 	Fire-Tac 
+458.06250 	WPVU769 	M	143 DPL	CFVFD 8 Tac 	Ch. 8 Tactical/Fireground 	FMN 	Fire-Tac 
+461.95000 	WPGS870 	RM	143 DPL	CFVFD 9 U-U 	Ch. 9 Unit to Unit 	FMN 	Fire-Tac 
+458.07500 	WPVU769 	M	192.8 PL	CFVFD10 1960 	Ch. 10 FM 1960 Fireground (Life Flight) 	FMN 	Fire-Tac 
+458.55000 	WPVU769 	M	432 DPL	CFVFD11 Trn1 	Ch. 11 District 1 Training 	FMN 	Fire-Talk 
+458.93750 	WPVU769 	M	432 DPL	CFVFD12 Trn2 	Ch. 12 District 2 Training 	FMN 	Fire-Talk 
+458.06250 	WPVU769 	M	432 DPL	CFVFD13 Trn3 	Ch. 13 District 3/4 Training 	FMN 	Fire-Tac 
+458.07500 	WPVU769 	M	432 DPL	CFVFD14 Spec 	Ch. 14 Special Operations Tactical 	FMN 	Fire-Tac 
+453.97500 	WPVU769 	RM	114 NAC	CFVFD P25 	Digital Repeater (testing use only; encryption used) 	P25 	Fire-Talk 
+461.32500 	WPGS870 	RM	662 DPL	CFVFD 461.32 	Not in use at this time 	FMN 	Fire-Talk 
+462.05000 	WPGS870 	RM	210.7 PL	CFVFD 462.05 	Not in use at this time 	FMN 	Fire-Talk 
+453.12500 	WPGZ339 	RM	192.8 PL	COM 1 Response 	COM 1 EMS Response 	FMN 	EMS-Tac 
+453.42500 	 	RM	031 DPL	COM 2 Dispatch 	COM 2 Dispatch 	FMN 	Fire Dispatch 
+460.62500 	 	RM	032 DPL	COM 3 SW Ops 	COM 3 SW Operations 	FMN 	Fire-Tac 
+453.43750 	 	RM	047 DPL	COM 4 NE Ops 	COM 4 NE Operations 	FMN 	Fire-Tac 
+460.36250 	 	RM	043 DPL	COM 5 LY 	COM 5 Little York 	FMN 	Fire-Tac 
+453.82500 	 	RM	606 DPL	COM 6 PVFD 	COM 6 PVFD 	FMN 	Fire-Tac 
+453.75000 	WQCB984 	RM	88.5 PL	COM 7 KVFD 	COM 7 KVFD 	FMN 	Fire-Tac 
+453.80000 	KUY422 	RM	311 DPL	COM 8 Champi 	COM 8 Champions 	FMN 	Fire-Tac 
+453.02500 	WQWZ977 	RM	432 DPL	COM 9 CCVFD 	COM 9 CCVFD 	FMN 	Fire-Tac 
+453.52500 	 	RM	703 DPL	COM 10 SFD T 	COM 10 Spring FD Tactical 	FMN 	Fire-Tac 
+460.12500 	 	RM	346 DPL	COM 11 CCVFD 	COM 11 CCVFD 	FMN 	Fire-Tac 
+453.37500 	WPPG950 	RM	192.8 PL	COM 12 KVFD 	COM 12 KVFD 	FMN 	Fire-Tac 
+453.67500 	 	RM	351 DPL	COM 13 CCVFD 	COM 13 CCVFD 	FMN 	Fire-Tac 
+453.36250 	 	RM	226 DPL	COM 14 LYVFD 	COM 14 LYVFD Tactical 	FMN 	Fire-Tac 
+453.30000 	WQWZ977 	RM	141.3 PL	COM 15 CCVFD 	COM 15 CCVFD 	FMN 	Fire-Tac 
+453.10000 	WPGZ339 	RM	114.8 PL	COM 16 Stafford 	COM 16 Stafford Dispatch 	FMN 	EMS-Tac 
+453.48750 	 	RM	516 DPL	COM 17 PVFD 	COM 17 PVFD 	FMN 	Fire-Tac 
+453.66250 	 	RM	343 DPL	COM 18 SFD T 	COM 18 Spring FD Tactical 	FMN 	Fire-Tac 
+453.12500 	WPGZ339 	RM	1 RAN	COM 1 Response 	COM 1 EMS Response (Digital) 	NXDN 	EMS-Tac 
+460.62500 	 	RM	63 RAN	COM 3 SW Ops 	COM 3 SW Operations (Digital) 	NXDN 	Fire-Tac 
+453.43750 	 	RM	52 RAN	COM 4 NE Ops 	COM 4 NE Operations (Digital) 	NXDN 	Fire-Tac 
+460.36250 	 	RM	5 RAN	COM 5 LY 	COM 5 Little York (Digital) 	NXDN 	Fire-Tac 
+453.82500 	 	RM	6 RAN	COM 6 PVFD 	COM 6 PVFD (Digital) 	NXDN 	Fire-Tac 
+453.75000 	WQCB984 	RM	7 RAN	COM 7 KVFD 	COM 7 KVFD (Digital) 	NXDN 	Fire-Tac 
+453.80000 	KUY422 	RM	8 RAN	COM 8 Champi 	COM 8 Champions (Digital) 	NXDN 	Fire-Tac 
+453.02500 	WQWZ977 	RM	9 RAN	COM 9 CCVFD 	COM  9 CCVFD (Digital) 	NXDN 	Fire-Tac 
+453.52500 	 	RM	56 RAN	COM 10 SFD T 	COM 10 Spring FD Tactical (Digital) 	NXDN 	Fire-Tac 
+460.12500 	 	RM	60 RAN	COM 11 CCVFD 	COM 11 CCVFD (Digital) 	NXDN 	Fire-Tac 
+453.37500 	WPPG950 	RM	2 RAN	COM 12 KVFD 	COM 12 KVFD (Digital) 	NXDN 	Fire-Tac 
+453.67500 	 	RM	59 RAN	COM 13 CCVFD 	COM 13 CCVFD (Digital) 	NXDN 	Fire-Tac 
+453.36250 	 	RM	58 RAN	COM 14 LYVFD 	COM 14 LYVFD Tactical (Digital) 	NXDN 	Fire-Tac 
+453.30000 	WQWZ977 	RM	3 RAN	COM 15 CCVFD 	COM 15 CCVFD (Digital) 	NXDN 	Fire-Tac 
+453.10000 	WPGZ339 	RM	57 RAN	COM 16 Tac 	COM 16 Tactical, EMS East (Digital) 	NXDN 	EMS-Tac 
+453.48750 	 	RM	62 RAN	COM 17 PVFD 	COM 17 PVFD (Digital) 	NXDN 	Fire-Tac 
+453.66250 	 	RM	61 RAN	COM 18 SFD T 	COM 18 Spring FD Tactical (Digital) 	NXDN 	Fire-Tac 
+460.25000 	WQFC321 	RM	023 DPL	COM 20 ESD48 	COM 20 HCESD 48 Fire Dispatch 	FMN 	Fire Dispatch 
+453.16250 	WQHM246 	RM	025 DPL	COM 21 ESD48 	COM 21 HCESD 48 Fire Tactical 1 	FMN 	Fire-Tac 
+453.28750 	 	RM	026 DPL	COM 22 ESD48 	COM 22 HCESD 48 Fire Tactical 2 	FMN 	Fire-Tac 
+453.47500 	WPZQ439 	RM		COM 25 West Ops1 	COM 25 West Fire Operations 1 (ESD 48 and Westlake) 	NXDN 	Fire Dispatch 
+453.66250 	 	RM	343 DPL	COM 26 WFD 2 	COM 26 Westlake Fire Department 2 	FMN 	Fire-Tac 
+451.42500 	WPPW540 	RM	036 DPL	CC Interop A 	Interoperability A 	FMN 	EMS-Talk 
+452.20000 	 	RM	365 DPL	CC Interop B 	Interoperability B 	FMN 	EMS-Talk 
+452.35000 	 	RM	051 DPL	CC Interop C 	Interoperability C 	FMN 	EMS-Talk 
+452.22500 	WPEE211 	RM	371 DPL	CC Interop D 	Interoperability D/CCEMS Event 	FMN 	EMS-Talk 
+451.42500 	WPPW540 	RM	55 RAN	CC Digital A 	Digital A - Business/OTAP 	NXDN 	EMS-Talk 
+452.20000 	 	RM	54 RAN	CC Digital B 	Digital B - Business/OTAP 	NXDN 	EMS-Talk 
+452.35000 	 	RM	53 RAN	CC Digital C 	Digital C - Business/OTAP 	NXDN 	EMS-Talk 
+452.22500 	WPEE211 	RM	51 RAN	CC Digital D 	Digital D - CCEMS Event/OTAP 	NXDN 	EMS-Talk 
+155.71500 	WQBV485 	RM	203.5 PL	COM 30 Clov 	Cloverleaf VFD and North Channel EMS 	FM 	Fire Dispatch 
+458.07500 	KUY422 	M	192.8 PL	FM 1960 FG 1 	FM 1960 Fireground 1/Mutual Aid 1 	FMN 	Interop 
+458.06250 	KUY422 	M	192.8 PL	FM 1960 FG 2 	FM 1960 Fireground 2/Mutual Aid 2/CCEMS Administration 	FMN 	Interop 
+453.50000 	 	M	192.8 PL	FM 1960 FG 3 	FM 1960 Fireground 3/Mutual Aid 3 	FMN 	Interop 
+453.47500 	WPZQ439 	RM	432 DPL	WFD 453 D432 	Westlake Fire Department 	FMN 	Fire-Tac 
+453.55000 	KWF853  	RM	192.8 PL	Pch MCFD T13 	Patch to Montgomery County Fire Tactical 13 	FMN 	Fire-Tac 
+461.51250 	 	RM		W I-10 Talk 	West I-10 Fire/EMS - Talk-Around 	FM 	Fire-Talk 
+461.57500 	 	M	703 DPL	SpringVFDAdm 	Spring VFD - Administration 	FMN 	Fire-Talk 
+464.50000 	 	RM	192.8 PL	CCEMS CmdVeh 	Cypress Creek EMS - Command Vehicle 	FMN 	EMS-Tac 
+460.02500 	WRBV541 	RM	1 RAN	CCEMS 460.025 	EMS Dispatch 	NXDN 	EMS Dispatch 
+151.10000 	WPTQ810 	RM	156.7 PL	ECOM East 	ECOM East - Fire/EMS Dispatch (Crosby and Highlands) 	FMN 	Fire Dispatch 
+155.31000 	WQWK433 	RM	156.7 PL	EHCJPB FD Disp 	Fire Dispatch (Sheldon) 	FMN 	Fire Dispatch 
+155.38500 	KFB875 	BM	192.8 PL	HCESD1 NWEMS 	Northwest EMS Dispatch/Tone Out 	FMN 	EMS Dispatch 
+154.37000 	KKR453 	RM	167.9 PL	HCESD1 Tac 2 	TAC 2 (Channelview VFD Primary) 	FMN 	Fire-Tac 
+156.22500 	KJE227 	M	173.8 PL	HCESD1 Tac 4 	TAC 4 (Highlands VFD / ESD #14 Primary) 	FMN 	Fire-Tac 
+154.44500 	WPLR238 	M	051 DPL	HCESD1 Tac 6 	TAC 6 (Huffman VFD Primary) 	FMN 	Fire-Tac 
+154.28000 	WZY438 	BM	CSQ	HCESD1 Tac 8 	TAC 8 (Fire Mutual Aid) 	FMN 	Interop 
+154.37000 	KKR453 	RM	167.9 PL	HCESD1 Fire9 	Fire 9 (Channelview Fire) 	FMN 	Fire Dispatch 
+154.31000 	KJE227 	RM	156.7 PL	HCESD1Fire11 	Fire 11 (Highlands VFD / ESD #14) 	FMN 	Fire Dispatch 
+154.44500 	WPLR238 	RM	051 DPL	HCESD1Fire13 	Fire 13 (Huffman VFD) 	FMN 	Fire Dispatch 
+152.30750 	WQNS339 	RM	156.7 PL	HCESD1Fire14 	Fire 14 (Sheldon VFD Primary/Southlake EMS Paging) 	FMN 	Fire Dispatch 
+155.13750 	WQJH282 	RM	103.5 PL	HCESD1Fire19 	Fire 19 Atascocita VFD (linked with regional trunked system talkgroup 20944) 	FMN 	Fire Dispatch 
+155.20500 	WSX367 	BM		ESD 5 BackCh 	ESD 5 Back Channel 	FM 	Fire-Talk 
+461.80000 	 	RM	88.5 PL	HCESD1EMS3/4 	EMS 3/EMS 4 	FMN 	EMS-Tac 
+453.62500 	WPAG689 	RM	043 DPL	HCESD1 Fire6 	Fire 6 (Aldine, Eastex, Northeast, Westfield) Dispatch 	FMN 	Fire Dispatch 
+453.77500 	WPWR261 	RM	210.7 PL	HCESD1 Fire7 	Fire 7 	FMN 	Fire-Tac 
+453.68750 	WPWR261 	RM	114.8 PL	HCESD1 Fire8 	Fire 8 	FMN 	Fire-Tac 
+453.77500 	WPWR261 	M	210.7 PL	HCESD1 FG1 	Fireground 1 	FMN 	Fire-Tac 
+453.68750 	WPWR261 	M	114.8 PL	HCESD1 FG2 	Fireground 2 	FMN 	Fire-Tac 
+453.31250 	WPWR261 	RM	127.3 PL	HCESD1 Int-1 	Ch. 4/Interior 1 	FMN 	Fire-Tac 
+458.31250 	 	M	141.3 PL	HCESD1 Int-2 	Interior 2 	FMN 	Fire-Tac 
+151.65500 	WNPD802 	M	156.7 PL	AtasVFD Talk 	Atascocita VFD - Non-Critical Operations 	FM 	Fire-Talk 
+154.34000 	KSQ912 	BM	167.9 PL	SheldonVFD 2 	Sheldon VFD Ch. 2 	FM 	Fire-Tac 
+154.07000 	WQFP361 	M	167.9 PL	ChnlvwVFD 14 	Channelview VFD Ch. 14 	FM 	Fire-Tac 
+154.26500 	WQFP361 	BM	167.9 PL	ChnlvwVFD 15 	Channelview VFD Ch. 15 	FM 	Fire-Tac 
+452.25000 	 	RM	432 DPL	NEFR Admin 	Northeast Fire/Rescue - Administration 	FMN 	Fire-Talk 
+464.90000 	WRCH302 	RM	CC 5TG 1SL 1	Hatzalah EMS 1 	Ch. 1 	DMRe 	EMS Dispatch 
+464.90000 	WRCH302 	RM	CC 5TG 2SL 2	Hatzalah EMS 2 	Ch. 2 	DMRe 	EMS-Tac 
+453.57500 	WPTJ342 	RM	192.8 PL	NWVFD 1 Disp 	Ch. 1 Dispatch 	FMN 	Fire Dispatch 
+461.80000 	 	RM	432 DPL	NWVFD 2 	Ch. 2 	FMN 	Fire-Tac 
+453.86250 	 	RM	432 DPL	NWVFD 3 	Ch. 3 	FMN 	Fire-Tac 
+458.93750 	WPTJ342 	M	192.8 PL	NWVFD 4 	Ch. 4 	FMN 	Fire-Tac 
+458.06250 	WPTJ342 	M	192.8 PL	NWVFD 5 	Ch. 5 	FMN 	Fire-Tac 
+159.39000 	WNNP211 	RM	146.2 PL	RHVFD 1 Disp 	Ch. 1 Dispatch 	FM 	Fire Dispatch 
+154.14500 	WNNP211 	BM	146.2 PL	RHVFD 3 	Ch. 3  	FM 	Fire-Tac 
+154.44500 	KUB786 	RM	141.3 PL	SoutheastVFD 	Fire/EMS Dispatch 	FM 	Fire Dispatch 
+151.89500 	 	BM	023 DPL	Aldine HS 	Aldine High School 	FM 	Schools 
+151.89500 	 		114.8 PL	Teague MS 	Teauge Middle School 	FM 	Schools 
+451.33750 	WPNP722 	RM	167.9 PL	Eisenhower HS 	Eisenhower Senior High School 	FM 	Schools 
+451.38750 	WQFN319 	RM	CC 11TG 7SL 1	AldISD Bus North 	Transportation North 	DMR 	Schools 
+461.67500 	WQFN319 	RM	CC 6TG 3SL 2	AldISD Bus West2 	Transportation West 2 (patched with West 1) 	DMR 	Schools 
+461.67500 	WQFN319 	RM	CC 8TG 4SL 1	AldISD Bus West1 	Transportation West 1 (patched with East 1) 	DMR 	Schools 
+463.67500 	WQFN319 	RM	CC 6TG 3SL 2	AldISD Bus East2 	Transportation East 2 (patched with East 1) 	DMR 	Schools 
+463.67500 	WQFN319 	RM	CC 7TG 4SL 1	AldISD Bus East1 	Transportation East 1 (patched with West 1) 	DMR 	Schools 
+464.81250 	 	RM	CC 7TG 4SL 1	Davis HS  	Davis High School 	DMR 	Schools 
+151.71500 	WNWD346 	M	97.4 PL	Albright MS 	Albright Middle School 	FM 	Schools 
+154.57000 	WNVS336 	M	67.0 PL	Elsik HS 	Elsik High School 	FM 	Schools 
+461.11250 	 		94.8 PL	Olle MS 	Olle Middle School 	FM 	Schools 
+462.18750 	 		103.5 PL	Killough MS 	Killough Middle School 	FM 	Schools 
+462.58750 	 	M	94.8 PL	CrumpStadium 	Crump Stadium Operations/Groundskeeper 	FM 	Schools 
+462.66250 	 	M	67.0 PL	Boone ES 	Boone Elementary School? 	FM 	Schools 
+464.06250 	 		192.8 PL	Holub MS 	Holub Middle School 	FM 	Schools 
+463.97500 	WPAE829 	M	731 DPL	BryCtr Admin 	Berry Center - Administration 	FMN 	Schools 
+457.08750 	WPZV590 	M	703 DPL	BryCtr Athle 	Berry Center - Athletics 	FMN 	Schools 
+463.42500 	WPAE829 	M	754 DPL	BryCtr AV 1 	Berry Center - Audio Visual 1 	FMN 	Schools 
+451.31250 	WPZV590 	M	503 DPL	BryCtr AV 2 	Berry Center - Audio Visual 2 	FMN 	Schools 
+464.96250 	WQSL451 	M	631 DPL	BryCtr Conce 	Berry Center - Concessions 	FMN 	Schools 
+464.11250 	WQSL451 	M	606 DPL	BryCtr Custo 	Berry Center - Custodians 	FMN 	Schools 
+451.33750 	WPZV590 	M	631 DPL	BryCtrEvents 	Berry Center - Events 	FMN 	Schools 
+463.77500 	WQSZ605 	M	731 DPL	BryCtrGstSvc 	Berry Center - Guest Services 	FMN 	Schools 
+457.06250 	WPZV590 	M	654 DPL	BryCtr SpEv1 	Berry Center - Special Events 1 	FMN 	Schools 
+452.11250 	WPZV590 	M	606 DPL	BryCtr SpEv2 	Berry Center - Special Events 2 	FMN 	Schools 
+452.08750 	WPZV590 	M	532 DPL	BryCtr SpEv3 	Berry Center - Special Events 3 	FMN 	Schools 
+463.60000 	WPAE829 	RM	107.2 PL	CFISD BusBar 	Buses - Barker Base 	FMN 	Schools 
+464.35000 	WPAE829 	RM	123.0 PL	CFISD BusEld 	Buses - Eldridge Base 	FMN 	Schools 
+461.70000 	WPAE829 	RM	71.9 PL	CFISD BusFal 	Buses - Falcon Base 	FMN 	Schools 
+463.27500 	WPAE829 	RM	94.8 PL	CFISD BusTel 	Buses - Telge Base 	FMN 	Schools 
+463.95000 	WQND255 	RM	94.8 PL	CFISD CyLkHS 	Cypress Lakes High School Campus Operations 	FMN 	Schools 
+463.90000 	WPAE829 	RM	131.8 PL	CFISD Emrgnc 	Emergency 	FMN 	Schools 
+461.50000 	 	RM	71.9 PL	CFISD Food? 	Food Service? 	FM 	Schools 
+463.53750 	WQND255 	RM	82.5 PL	CFISD LCrkHS 	Langham Creek High School Campus Operations 	FMN 	Schools 
+461.45000 	WPAE829 	RM	71.9 PL	CFISD Maint 	Maintenance 	FMN 	Schools 
+463.90000 	WPAE829 	RM	71.9 PL	CFISD Princi 	School Principals (High Schools)/Campus Operations 	FMN 	Schools 
+452.05000 	WNZX819 	RM	351 DPL	HISDPDCampus 	Police On-Campus Operations (Linked to talkgroup 02-023) 	FM 	Law Tac 
+856.03750 	WQGL578 	B	131 DPL	HISD EmrgInf 	Emergency Information System 	FM 	Emergency Ops 
+451.72500 	WQZP712 	RM	CC 12TG 1SL 1	HISD Milby HS 	Milby High School 	DMR 	Schools 
+461.57500 	WPXT995 	RM	97.4 PL	HMW ESC 	Hattie Mae White Educational Support Center 	FMN 	Schools 
+461.66250 	WPXR264 	M	159.8 PL	Fondren MS 	Fondren Middle School 	FM 	Schools 
+462.01250 	 	RM	225.7 PL	Austin HS 	Austin High School 	FM 	Schools 
+462.66250 	 	M	210.7 PL	CarnegieVaHS 	Carnegie Vanguard High School 	FMN 	Schools 
+463.67500 	 	RM	631 DPL	Pershing MS 	Pershing Middle School 	FM 	Schools 
+464.65000 	 	RM	146.2 PL	Jackson MS 	Jackson Middle School 	FM 	Schools 
+466.06250 	WPXR264 	M	127.3 PL	WhartonES466 	Wharton Elementary School 	FMN 	Schools 
+466.83750 	WPXR264 	M	127.3 PL	Hogg MS 	Hogg Middle School 	FM 	Schools 
+467.06250 	WPXR264 	M	127.3 PL	WhartonES467 	Wharton Elementary School 	FMN 	Schools 
+469.55000 	 	M	315 DPL	GregLincolEC 	Gregory-Lincoln Education Center 	FM 	Schools 
+469.81250 	WPXR264 	M	127.3 PL	GregLincolEC 	Gregory-Lincoln Education Center 	FMN 	Schools 
+151.65500 	KKY605 	BM	141.3 PL	HumISD Maint 	Maintenance 	FM 	Schools 
+151.74500 	WQAE516 	BM	141.3 PL	HumISD Buses 	Buses 	FM 	Schools 
+461.53750 	WQAE516 	RM	CC 3TG 101SL 1	HumISD Buses 	Buses 	DMR 	Schools 
+151.89500 	WNGU479 	BM	5 RAN	KatyISD Bus East 	Buses - East 	NXDN 	Schools 
+154.51500 	WNGU479 	BM	2 RAN	KatyISD Bus 154 	Buses 	NXDN 	Schools 
+154.54000 	 	BM	8 RAN	KatyISD Bus West 	Buses - West 	NXDN 	Schools 
+451.13750 	 	RM	CC 7TG 1SL 1	Mayde Creek HS 1 	Mayde Creek High School 	DMR 	Schools 
+451.13750 	 	RM	CC 7TG 2SL 2	Mayde Creek HS 2 	Mayde Creek High School 	DMR 	Schools 
+151.71500 	KNFW622 	BM	051 DPL	Klein ISD Bus C 	Buses - Central Base 	FMN 	Schools 
+159.89250 	WQJX882 	BM	051 DPL	Klein ISD Bus S 	Buses - South Base 	FMN 	Schools 
+451.73750 	 	RM	115 DPL	Klein Forest HS 	Klien Forest High School 	FMN 	Schools 
+461.85000 	WPQB260 	RM	123.0 PL	NFISD Buses 	Buses 	FM 	Schools 
+460.28750 	WQOS777  	RM	114.8 PL	PasISD Buses 	Buses (multicast from DMR trunked system) 	FMN 	Schools 
+452.35000 	WQFS573 	RM	632 DPL	SheldISD Bus 	Buses 	FM 	Schools 
+464.10000 	WPTY736 	RM	118.8 PL	SBISDSchToPD 	Schools to SBISD Police 	FM 	Law Tac 
+152.93000 	WPTD989 	RM	118.8 PL	SBISD BusPri 	Buses - Primary 	FM 	Schools 
+152.87000 	WPTD989 	RM	131.8 PL	SBISD BusSec 	Buses - Secondary 	FM 	Schools 
+151.68500 	KJU564 	RM	073 DPL	SBISD Maint 	Maintenance 	FM 	Schools 
+464.35000 	WQAV920 	RM	CC 1TG 101SL 1	Westfield HS 	Westfield High School 	DMR 	Schools 
+151.83500 	KNBA967 	BM		TomISD Data 	Data Only 	DMR 	Data 
+152.42000 	KNBA967 	RM	CC 7TG 16777215SL 1	TomISD Buses 	Transportation 	DMR 	Schools 
+451.78750 	KNBA967 	RM	CC 3TG 1SL 1	Tomball Mem HS 	Memorial High School 	DMR 	Schools 
+461.20000 	WPWT218 	RM	125 DPL	BCM Sec Old 	Security (old) 	FM 	Security 
+461.81250 	WQNE573 	RM	CC 1TG 16777215SL 1	BCM Security 	Security 	DMR 	Security 
+463.97500 	WRY870 	RM	CC 1TG 1SL 1	BCM Facility 	Facility Services  	DMR 	Schools 
+451.78750 	 	RM	503 DPL	HBU Security 	Security 	FM 	Security 
+464.70000 	 	RM	606 DPL	HCC Dntn Mnt 	Maintenance (Downtown Campus) 	FM 	Schools 
+464.96250 	WPWR393 	RM	69.3 PL	HCC Dntn HK 	Housekeeping/Office Services (Downtown Campus) 	FM 	Schools 
+462.00000 	WQBU291 	RM	CC 1TG *SL *	LSCS Tomball 	Tomball Campus (Slot 1, Group 1) 	DMR 	Schools 
+463.86250 	 	RM	023 DPL	PVAMU Parkng 	Parking 	FMN 	Schools 
+464.23750 	WQEL584 	RM	146.2 PL	RUPD/EMS Pri 	Police (primarily on TxWARN P25 talkgroup 33590) 	FMN 	Multi-Tac 
+461.63750 	WQEL584 	RM	146.2 PL	RUPD/EMS2Evt 	Police Ch. 2 Parking Enforcement / Special Events (Patched with TxWARN P25 talkgroup 33594) 	FMN 	Multi-Tac 
+463.21250 	WQEL584 	M	146.2 PL	RUPD/EMS Sta 	Police/EMS Special Events - Rice Stadium 	FMN 	Multi-Tac 
+463.67500 	WQS623 	RM	162.2 PL	RUPD/EMS4Bus 	Police/EMS Ch. 4 Shuttle Buses/Escorts 	FMN 	Schools 
+461.66250 	 	RM	167.9 PL	RiceFE1WkCtl 	Facilities and Engineering - Ch. 1 Work Control (Maintenance Dispatch/Supervisors) 	FMN 	Schools 
+463.92500 	WPHU890 	RM	654 DPL	RiceFE2Maint 	Facilities and Engineering - Ch. 2 Maintenance (Plumbing/Elevators/Mechanical/Roofing) 	FMN 	Schools 
+464.22500 	WPHU890 	RM	654 DPL	RiceFE3Maint 	Facilities and Engineering - Ch. 3 Maintenance (Electrical/Carpentry/Painting) 	FMN 	Schools 
+463.52500 	WPHU890 	RM	654 DPL	RiceFE4Maint 	Facilities and Engineering - Ch. 4 Maintenance (HVAC/Controls) 	FMN 	Schools 
+462.10000 	WPHU890 	RM	654 DPL	RiceFE5CntPl 	Facilities and Engineering - Ch. 5 Central Plant 	FMN 	Schools 
+463.87500 	WPHU890 	RM	654 DPL	RiceFE6Cu/Gr 	Facilities and Engineering - Ch. 6 Custodial and Grounds 	FMN 	Schools 
+464.35000 	WPRS926 	RM	254.1 PL	Rice HsngMnt 	Housing Maintenance 	FMN 	Schools 
+461.33750 	WPLP213 	M		Rice SSM 461 	Shepherd School of Music 	FMN 	Schools 
+466.33750 	WPLP213 	M	315 DPL	Rice SSM 466 	Shepherd School of Music 	FMN 	Schools 
+464.32500 	 	M	141.3 PL	STCLSecurity 	Security 	FM 	Security 
+460.50000 	KEC613 	RM	192.8 PL	TSUPD Pri 	Police Primary 	FM 	Law Dispatch 
+463.87500 	WQQM577 	RM	162.2 PL	TSUPD 4 2nd 	Police Ch. 4 Secondary 	FMN 	Law Tac 
+452.46250 	WQUX263 	RM	CC 1TG 1SL 2	TSU Maint 	Maintenance 	DMR 	Schools 
+469.55000 	 	M	073 DPL	TSU TigerExp 	Tiger Express Shuttle 	FM 	Schools 
+451.71250 	WQNR973 	RM	712 DPL	UH Maint 451 	Maintenance 	FMN 	Schools 
+453.72500 	WQEJ522 	RM	173.8 PL	UH Maint 453 	Maintenance 	FM 	Schools 
+462.62500 	 	M	127.3 PL	UH Rec Ctr 	Recreation Center 	FMN 	Schools 
+463.37500 	 	RM	CC 5TG 1SL 1	UH Rec Ctr 1 	Recreation Center Primary 	DMR 	Schools 
+463.37500 	 	RM	CC 5TG 1SL 2	UH Rec Ctr 2 	Recreation Center Ch. 2 	DMR 	Schools 
+463.60000 	 	RM	205 DPL	UH Parking 	Parking Enforcement 	FM 	Schools 
+463.71250 	 	RM	CC 10TG 10SL 1	UH Univ Ctr 1 	University Center Primary 	DMR 	Schools 
+463.71250 	 	RM	CC 10TG 20SL 2	UH Univ Ctr 2 	University Center Ch. 2 Alternate 	DMR 	Schools 
+463.78750 	 	RM	654 DPL	UH PostalSvc 	Printing and Postal Services Department 	FMN 	Schools 
+464.32500 	 	RM	151.4 PL	UH Trash 	Trash Collection 	FMN 	Schools 
+464.86250 	WQUV225 	RM	CC 4TG 1001SL 2	UH Aramark 	Aramark Facility Services (Athletics Venues and Cullen Performance Hall) 	DMR 	Schools 
+461.13750 	 	RM	205 DPL	UST Maint 	Maintenance/Housekeeping 	FMN 	Schools 
+453.52500 	WNZN455 	RM	315 DPL	MDACC Fire 	MD Anderson Cancer Center - Fire Safety 	FM 	Schools 
+453.35000 	WNZN455 	RM	CSQ	MDACC Mnt350 	MD Anderson Cancer Center - Maintenance 	FM 	Schools 
+453.22500 	WNZN455 	RM	271 DPL	MDACC MaintN 	MD Anderson Cancer Center - North Campus Maintenance/Housekeeping 	FM 	Schools 
+453.97500 	WNZN455 	RM	132 DPL	MDACC MaintS 	MD Anderson Cancer Center - South Campus Maintenance 	FM 	Schools 
+461.93750 	WQGT355 	RM	77.0 PL	MDACC ValPrk 	MD Anderson Cancer Center - Valet Parking 	FM 	Schools 
+461.61250 	WQGT355 	RM	632 DPL	MDACCShuttle 	MD Anderson Cancer Center - Shuttle 	FM 	Schools 
+451.35000 	WQZS454 	RM	CC 10TG 1SL 1	UT EH/Safety 	Environmental Health and Safety 	DMR 	Schools 
+451.77500 	WQCC517 	RM	CSQ	MDACC Hosptl 	MD Anderson Cancer Center - Hospital 	FM 	Schools 
+452.25000 	WQCC517 	RM	131 DPL	MDACC Monitr 	MD Anderson Cancer Center - Monitoring Services 	FM 	Schools 
+461.57500 	WQLX421 	RM	023 DPL	UT Prof Bldg 	UT Professional Building - Maintenance 	FM 	Schools 
+463.03750 	 	M	031 DPL	UTHSCShuttle 	UT Health Science Center - Shuttle 	FMN 	Schools 
+47.42000 	WPIZ785 	BM	146.2 PL	RedCross Pri 	Greater Houston Area Red Cross - Primary (radio checks on Wednesdays 9:00-9:30 AM) 	FM 	Emergency Ops 
+47.50000 	KGB223 	BM	146.2 PL	RedCross Sec 	Greater Houston Area Red Cross - Secondary 	FM 	Emergency Ops 
+609 Main	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston	Academy Sports and Outdoors Distribution Center	 LTR Standard	 Katy	Alief Independent School District	 DMR Tier 3
+ Houston	Amoco Chemical Company (Pasadena)	 LTR Standard	 Pasadena	Anheuser-Busch Brewery (Houston)	 Motorola Type II Smartnet	 Houston	Atascocita Volunteer Fire Department
+ NXDN NEXEDGE 4800	 Atascocita	Atofina Petrochemicals	 LTR Standard	 La Porte	Avis/Budget (Hobby Airport)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston
+Baytown Communications (Baytown)	 LTR Standard	 Baytown	Baytown Communications (Katy)	 LTR Standard	 Katy	Baytown Communications (NXDN 413)	 NXDN NEXEDGE 9600
+ Baytown	Baytown Communications (NXDN 53)	 NXDN NEXEDGE 9600	 Houston	BBVA Compass Stadium	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston	CenterPoint Energy Houston Electric
+ OpenSky 9600 baud	 Houston	Channel Industries Mutual Aid (CIMA)	 DMR Motorola Connect Plus (TRBO)	 Houston	Chevron Phillips Chemical Company (Pasadena)	 Motorola Type II	 Pasadena
+Chevron Phillips Chemical Company Cedar Bayou Plant	 Motorola Type II Smartnet	 Baytown	CityWestPlace	 LTR Standard	 Houston	Crosby Independent School District	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Crosby	Cypress Fairbanks Independent School District	 NXDN NEXEDGE 4800	 Various	Deer Park Independent School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Deer Park	Deerbrook Mall
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Humble	Equistar Chemical (Channelview)	 Motorola Type II	 Channelview	Equistar Chemical (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various
+Exxon Mobil	 Project 25 Phase II	 Various	Exxon Mobil Baytown Complex 1	 Motorola Type II Smartnet	 Baytown	Exxon Mobil Baytown Complex 2	 Motorola Type II Smartnet
+ Baytown	Federal Detention Center Houston	 Motorola Type II	 Houston	FleetTalk (Downtown Houston 1)	 LTR Standard	 Houston	FleetTalk (Downtown Houston 2)
+ LTR Standard	 Houston	FleetTalk (Downtown Houston 3)	 LTR Standard	 Houston	FleetTalk (Houston Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston
+FleetTalk (Houston Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Houston	Galena Park Independent School District	 NXDN Icom IDAS Type C	 Galena Park	Harris County DMR-MARC	 DMR Conventional Networked
+ Houston	Houston Center	 LTR Standard	 Houston	Houston Independent School District (Project 25)	 Project 25 Phase II	 Houston	Houston Livestock Show and Rodeo (NRG Center)
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Houston	Houston Livestock Show and Rodeo (NRG Stadium)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston	Houston Texans	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston
+Jacinto City	 DMR Motorola Capacity Plus Single Site (TRBO)	 Jacinto City	Johnson Space Center	 Motorola Type II SmartZone	 Houston	La Porte Fire/EMS	 DMR Motorola Capacity Plus Single Site (TRBO)
+ La Porte	La Porte Independent School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 La Porte	Lubrizol	 DMR Motorola Connect Plus (TRBO)	 Various	Lyondell Chemical Company (Channelview)
+ Motorola Type II Smartnet	 Channelview	Lyondell Citgo Refining Company	 Motorola Type II Smartnet	 Houston	Memorial City Mall	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston
+Methodist Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston	Michael DeBakey Veterans Affairs Medical Center	 Project 25 Phase I	 Houston	Minute Maid Park	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Houston	NRG Park	 DMR Tier 3	 Houston	NW Radio (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Houston	NW Radio (LTR Northwest Houston)
+ LTR Standard	 Houston	NW Radio (NXDN)	 NXDN NEXEDGE 4800	 Various	Pasadena Independent School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pasadena
+Pennzoil Place	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston	Phillips 66 Refineries	 Project 25 Phase II	 Various	Post Oak Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Houston	PPG Industries (La Porte)	 LTR Standard	 La Porte	Rohm and Haas (Motorola)	 Motorola Type II Smartnet	 Deer Park	Rohm and Haas (Project 25)
+ Project 25 Phase I	 Deer Park	ServQuip (El Lago)	 LTR Standard	 El Lago	Shell Deer Park	 Motorola Type II Smartnet	 Deer Park
+Solvay Polymers Corporation	 LTR Standard	 Deer Park	Southwest Airlines (Hobby Airport)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston	Spring Branch Independent School District	 LTR Standard
+ Houston	Spring Independent School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Spring	Sprint Safety	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baytown	TeamConnect
+ DMR Motorola Connect Plus (TRBO)	 Various	Texas Bigfoot Communications (Houston LTR)	 LTR Standard	 Houston	Texas Bigfoot Communications (Passport)	 LTR Passport	 Houston
+Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	Texas Wide Area Radio Network (TxWARN)	 Project 25 Phase II	 Various	Toyota Center	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Houston	United Airlines (Bush Intercontinental Airport)	 OpenSky 9600 baud	 Houston	Westin Memorial City	 DMR Motorola Capacity Plus Single Site (TRBO)	 Houston	

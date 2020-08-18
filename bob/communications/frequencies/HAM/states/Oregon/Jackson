@@ -1,0 +1,52 @@
+154.13000 	KCQ625 	BM	162.2 PL	JackCoFire N 	Fire Dispatch North 	FMN 	Fire Dispatch 
+154.31000 	KCQ625 	BM	141.3 PL	JackCoFire S 	Fire Dispatch South 	FMN 	Fire Dispatch 
+153.89000 	 	RM	167.9 PL	Applegate FD 	Applegate Valley Fire 	FMN 	Fire Dispatch 
+155.61000 	KDA674 	RM	131.8 PL	JackCoSO 1 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.43000 	KDA674 	BM	118.8 PL	JackCoSO 2 	Sheriff Secondary 	FMN 	Law Tac 
+45.20000 	KTV708 	BM		Vector Cntr 	Vector Control 	FM 	Public Works 
+150.99500 	KNFU637 	RM		Roads 	Roads Department 	FMN 	Public Works 
+154.08500 	WNYY225 	BM		ComJustice 	Community Justice 	FMN 	Law Tac 
+155.11500 	KDX397 	BM		Animal Ctrl 	Animal Control 	FMN 	Public Works 
+156.12000 	KNFU637 	BM		Roads 	Roads Department 	FMN 	Public Works 
+155.01000 	KOA560 	BM	136.5 PL	ASHL PD Dsp 	Police Dispatch 	FMN 	Law Dispatch 
+154.85250 	KOA560 	BM	146.2 PL	ASHL PD Tac 	Police Tactical 	FMN 	Law Tac 
+159.15750 	KOA560 	RM		ASHL PD Info 	Police Records 	FMN 	Law Tac 
+158.83500 	KJE997 	BM		ASHL Fire 1 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.22000 	WPMA635 	BM		ASHL Fire 2 	Fire Secondary 	FMN 	Fire-Tac 
+155.76000 	WNKE562 	BM		ASHL PW 	Public Works 	FMN 	Public Works 
+856.96250 	WPSU459 	BM		 ASHL Telm 	Telemetry 	Telm 	Data 
+155.29500 	WNJY405 	BM		ASD 	School Buses 	FMN 	Schools 
+155.25000 	KOG567 	BM		CntrlPtPDTAC 	Police Tactical 	FMN 	Law Tac 
+155.64000 	WNKG797 	BM		CentralPoint 	City Services 	FMN 	Public Works 
+158.86500 	WNKG797 	BM		City Service 	City Services 	FMN 	Public Works 
+154.23500 	WNPF902 	BM		ColestinFire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.95500 	WQDF970 	RM		GFD Ops 	Operations 	FMN 	Fire-Tac 
+156.21000 	KYQ323 	RM	123.0 PL	Mdfrd PD 1A 	Police 1 Analog 	FMN 	Law Dispatch 
+156.21000 	KYQ323 	BM	293 NAC	Mdfrd PD 1D 	Police 1 Digital 	P25 	Law Dispatch 
+156.09000 	WPBM598 	BM	031 DPL	Mdfrd PD 2A 	Police 2 Analog 	FMN 	Law Dispatch 
+156.09000 	WPBM598 	RM	293 NAC	Mdfrd PD 2D 	Police 2 Digital 	P25 	Law Dispatch 
+155.07750 	 	RM	125 DPL	Mdfrd PD 3A 	Police 3 Tac 	FMN 	Law Tac 
+155.07750 	 	RM	293 NAC	Mdfrd PD 3D 	Police 3 Tac 	P25 	Law Tac 
+154.44500 	KCX396 	RM	146.2 PL	MDFRDFD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.16000 	KCX396 	BM	131.8 PL	MDFRDFD2 	Fire Command 	FMN 	Fire-Tac 
+858.23750 	WQCK337 	RM		MDFD Rep 	Fire Repeater 	FM 	Fire-Talk 
+154.05500 	KYN674 	BM		MFR Airport 	Airport Ops 	FMN 	Public Works 
+155.91000 	KYN674 	BM		MFR Airport 	Airport Ops 	FMN 	Public Works 
+155.28000 	KAW251 	BM	162.2 PL	Mercy Amb 1 	Ambulance 1 	FMN 	EMS Dispatch 
+155.20500 	KAW251 	BM		Mercy Amb 2 	Ambulance 2 	FMN 	EMS-Tac 
+150.87500 	KNIR766 	BM		Mt.AshlndSki 	Portables 	FMN 	Business 
+150.90500 	KNIR766 	BM		Mt. Ashland 	Portables 	FMN 	Business 
+154.54000 	KNIR766 	BM		Operations 	Operations 	FMN 	Business 
+155.17500 	WXQ923 	BM		Ski Patrol 	Ski Patrol 	FMN 	Business 
+154.28000 	KJE997 	BM		RVFR Tac 1 	Tac 1 Firecom 	FMN 	Fire-Tac 
+159.24000 	 	BM		RVFR Tac 2 	Tac 2 NIFC 	FMN 	Fire-Tac 
+153.83000 	KCQ625 	M		RVFR Tac 3 	Tac 3 	FMN 	Fire-Tac 
+154.22000 	KCX396 	BM		RVFR Tac 4 	Tac 4 	FMN 	Fire-Tac 
+154.25000 	KCQ625 	M		RVFR Tac 5 	Tac 5 	FMN 	Fire-Tac 
+154.07000 	 	M		RVFR Tac 6 	Tac 6 	FMN 	Fire-Tac 
+153.74000 	KNDX488 	BM		SOU 	Operations 	FMN 	Schools 
+156.01500 	KNDX488 	BM		SOU 	Mobiles 	FMN 	Schools 
+167.48750 	 	RM		FBI Medford 	Federal Bureau of Investigation - Medford 	FMN 	Federal 
+Avista Utilities	 MPT-1327 Standard	 Various	FleetNet / Silke Communications	 NXDN NEXEDGE 4800	 Various	Rogue Valley Manor	 Motorola Type II Smartnet
+ Medford	Rogue Valley Transportation District	 Project 25 Phase II	 Medford	Sis-Q Communications	 LTR Standard	 Wimer	TRBOWEST (WA-OR-ID-CA)
+ DMR Motorola Connect Plus (TRBO)	 Various	

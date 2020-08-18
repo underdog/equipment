@@ -1,0 +1,123 @@
+478.55000 	WPNS204 	RM	205 DPL	HCSD 1 	Sheriff 1 	FMN 	Law Dispatch 
+478.55000 	WPNS204 	RM	205 NAC	HCSD 1-D 	Sheriff 1 Digital 	P25 	Law Dispatch 
+478.52500 	WPNS204 	RM	065 DPL	HCSD 2 	Sheriff 2 	FMN 	Law Dispatch 
+151.38500 	KNGC323 	RM	023 DPL	HCSD J1 	Sheriff - Jail 1 	FMN 	Corrections 
+155.11500 	KNGC323 	M	179.9 PL	HCSD J2 	Sheriff - Jail 2 	FMN 	Corrections 
+155.53500 	WNVR976 	M	179.9 PL	HCSD J3 	Sheriff - Jail Tactical 	FM 	Corrections 
+158.92500 	 	M	023 DPL	HCSD YDC 	Sheriff - Youth Detention Center 	FM 	Corrections 
+155.19000 	 	M	025 DPL	HCSD JDC 	Sheriff - Juvenile Detention 	FM 	Corrections 
+855.71250 	KNCD521 	RM	141 NAC	HC PROC 1 	Prosecutor's Office 1   	P25E 	Law Tac 
+852.26250 	 	RM	141 NAC	HC PROC 2 	Prosecutor's Office 2  	P25E 	Law Tac 
+854.51250 	KNCD521 	RM	141 NAC	HC PROC 3 	Prosecutor's Office 3   	P25E 	Law Tac 
+155.23500 	WPUN580 	RM	146.2 PL	HUDCEN 	HUDCEN / JEMS 1 MICU Dispatch 1 	FMN 	EMS Dispatch 
+155.34000 	WPUN580 	BM	CSQ	JEMS 2 	JEMS 2 Ambulance to Hospital ER 	FMN 	EMS-Talk 
+155.28000 	WPUN580 	BM	CSQ	JEMS 3 	JEMS 3 Statewide EMS Coordination 	FMN 	Emergency Ops 
+155.16750 	WNGK988 	RM	526 DPL	HUDOPS 	Ch 5 EMS Operations 	FMN 	EMS-Talk 
+453.85000 	KSU373 	RM	023 DPL	OEM 	Emergency Management 	FMN 	Emergency Ops 
+460.05000 	KRF537 	RM	146.2 PL	TRS CW BkUp 	Citywide Backup 	FMN 	Law Dispatch 
+460.37500 	KRF537 	RM	146.2 PL	TRS N/E BkUp 	North/Eastt District Backup 	FMN 	Law Dispatch 
+460.02500 	KRF537 	RM	146.2 PL	TRS S/W BkUp 	South/West District Backup 	FMN 	Law Dispatch 
+853.87500 	WNVR746 	RM		Police MDTs B/U 	Police MDTs - Backup 	Telm 	Data 
+460.55000 	KRM915 	RM	192.8 PL	JCFD FG 2 	Fireground 2 	FMN 	Fire-Tac 
+460.60000 	KRM915 	RM	192.8 PL	JCFD FG 3 	Fireground 3 	FMN 	Fire-Tac 
+155.23500 	WPUN580 	RM	146.2 PL	EMS 1 Disp 	EMS Main Dispatch 	FMN 	EMS Dispatch 
+155.16750 	WNGK988 	RM	526 DPL	EMS 5 Ops 	EMS Operations 5 (Backup Dispatch/Events) 	FMN 	EMS-Tac 
+48.20000 	KNBP406 	BM		JC Water PLM 	Jersey City Water Supply (Pipe Line Maint - Little Falls, NJ) 	FM 	Utilities 
+154.02500 	KLY233 	BM	192.8 PL	Sewage  	Sewage Authority  	FM 	Public Works 
+155.02500 	KFI539 	BM	192.8 PL	Public Works 	Public Works 	FMN 	Public Works 
+155.08500 	KFI539 	RM	114.8 PL	Incinerator 	Incinerator Authority (garbage pick-up, snow plowing, etc.) 	FMN 	Public Works 
+453.42500 	WPSE204 	RM	712 DPL	Parking  	Parking Authority 	FMN 	Public Works 
+460.42500 	WPMN263 	RM	71.9 PL	BayonHousing 	Housing Authority 	FMN 	Public Works 
+470.15000 	WQBL378 	RM	192.8 PL	Fire Talk 4 	Fire Talk 4 	FMN 	Fire-Tac 
+473.15000 	WQBL378 	M	192.8 PL	Fire Talk 5 	Fire Talk 5 	FMN 	Fire-Tac 
+154.38500 	WPRV348 	RM	411 DPL	PD/FD 1 Disp 	PD/FD/DPW All Services 	FMN 	Multi-Dispatch 
+155.31750 	WQAF253 	BM	411 DPL	PD/FD 2 	Police / Fire  2 	FMN 	Multi-Tac 
+155.79000 	KFN674 	BM	71.9 PL	PD Old 	Police 1 (Old - Rarely Used) 	FM 	Law Dispatch 
+471.92500 	WPPX670 	RM	110.9 PL	1 	Police Dispatch 	FMN 	Law Dispatch 
+151.05500 	WQQ6821 	M	110.9 PL	Twnshp Ops 	Township Operations 	FMN 	Public Works 
+472.07500 	WPUE228 	RM	115 DPL	FD/EMS Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.79000 	WPWE790 	RM	71.9 PL	PD 1 	Police 1 	FMN 	Law Dispatch 
+154.71000 	WPWE790 	M	71.9 PL	PD 2 	Police 2 	FMN 	Law Tac 
+154.11500 	 	RM	025 DPL	PD 3 	Police 3 	FMN 	Law Talk 
+453.66250 	WQSR992 	RM	179.9 PL	DPW 	Public Works 	FMN 	Public Works 
+471.55000 	WPWT487 	RM	445 DPL	HOB FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+471.52500 	WPSI608 	BM	311 DPL	HVAC D1 	Hoboken EMS D1 	FMN 	EMS-Tac 
+851.65000 	WNNM893 	RM	025 DPL	HPD CH 1 	Police Channel 1 (Local/Back Up) 	FM 	Law Tac 
+853.27500 	WNNM893 	RM	025 DPL	HPD CH 2 	Police Channel 2 (Local/Back Up) 	FM 	Law Tac 
+155.04000 	KQY723 	BM		HDWater 	Water Dept 	FMN 	Public Works 
+157.67250 	WRAH507  	RM	145 DPL	HDPW 	DPW 	FMN 	Public Works 
+159.57750 	WQPX730 	RM	293 NAC	PKG AUTH 	Parking Authority 	P25 	Public Works 
+46.18000 	KCW343 	BM	162.2 PL	FD Disp 	Fire Dispatch  	FMN 	Fire Dispatch 
+502.46250 	WIL676 	RM	023 DPL	Kearny Fire 	Kearny Fire 	FMN 	Fire-Talk 
+502.76250 	WIL676 	RM	023 DPL	Kearny EMS 	Kearny Ambulance 	FMN 	Fire-Talk 
+460.27500 	KEA245 	BM	179.9 PL	Kearny PVO 	Kearny PVO Channel 	FMN 	EMS-Talk 
+501.46250 	KEA245 	RM	293 NAC	Kearny PD 1 	Police 1 Dispatch   	P25E 	Law Dispatch 
+501.88750 	KEA245 	RM	305 NAC	Kearny PD 2 	Police 2   	P25E 	Law Talk 
+502.11250 	WIL676 	RM	315 NAC	Kearny PD 3 	Police 3   	P25E 	Law Talk 
+158.88000 	KEA245 	BM		PD 880 	Police 	FMN 	Law Talk 
+153.75500 	WNDD436 	BM	CSQ	DPW 	Public Works 	FMN 	Public Works 
+501.28750 	WIL676 	RM	173.8 PL	DPW Spvsr 	Public Works Supervisor 	FMN 	Public Works 
+472.98750 	KXN442 	RM	141.3 PL	Water Dept 	Water Department 	FMN 	Utilities 
+855.73750 	WPLW579 	RM	162.2 PL	1 	Police Dispatch 	FMN 	Law Dispatch 
+855.73750 	WPLW579 	M	162.2 PL	2 	Police 2 	FMN 	Law Tac 
+156.04500 	WQLV378 	RM		DPW 	DPW/Roads (New) 	FMN 	Public Works 
+453.08750 	KD47737 	M	136.5 PL	Public Works 	Public Works/Services 	FMN 	Public Works 
+156.16500 	WPPZ306 	RM	162 DPL	Fire 1 Disp 	Fire Dispatch (624 DPL on input) 	FMN 	Fire Dispatch 
+170.15000 	WPPF378  	BM	71.9 PL	Fire 2   	Fire 2 / High Rise Opps 	FMN 	Fire-Tac 
+471.95000 	WPSM774 	RM	123 NAC	PD Dispatch 	Police Dispatch 	P25 	Law Dispatch 
+155.04000 	KBM919 	BM	71.9 PL	DPW 	Public Works 	FMN 	Public Works 
+453.67500 	WPVU785 	RM	156 NAC	OEM 	Emergency Management 	P25 	Emergency Ops 
+159.09000 	WPUU365 	RM	631 DPL	PD 1 	Police Dispatch 	FMN 	Law Dispatch 
+159.21000 	WPUU365 	M	631 DPL	PD 2 	Police 	FMN 	Law Talk 
+154.74000 	WPUU635 	RM	131 DPL	EMS 	EMS Operations 	FMN 	EMS-Talk 
+155.04000 	KBM919 	BM	114.8 PL	DPW 	DPW 	FMN 	Public Works 
+470.36250 	WIK345 	RM	82.5 PL	Police 1 	Police Dispatch Operations 	FMN 	Law Dispatch 
+470.31250 	WIK345 	RM	82.5 PL	Police 2  	Police Ch 2 (Analog) 	FMN 	Law Tac 
+470.31250 	WIK345 	RM	293 NAC	Police 6 	Police Tactical Operations 	P25E 	Law Talk 
+471.32500 	WPLP816 	RM	654 DPL	Housing 	Housing Authority 	FMN 	Public Works 
+152.95250 	WQLN548 	RM	263 DPL	HatzUC EMS 	Dispatch / Operations 	FMN 	EMS Dispatch 
+463.45000 	WQNN746 	RM		McCabes Hobk 	McCabes Ambulance Service   	DMRE 	EMS Dispatch 
+464.15000 	WPKD521 	RM		McCabes Bayn 	McCabes Ambulance Service  	DMRE 	EMS Dispatch 
+154.32500 	KNBY464 	BM	173.8 PL	Fire 1 Disp 	Fire Primary Dispatch 	FMN 	Fire-Tac 
+154.29500 	KNBY464 	BM	123.0 PL	Fire 2 Ops 	Fire Secondary Dispatch/Operations 	FMN 	Fire Dispatch 
+154.14500 	WNNJ547 	RM	123.0 PL	Fire 3 FG 	Fireground Operations 	FMN 	Fire-Talk 
+166.25000 	KNBY464 	RM	612 DPL	Fire 5 FBTF  	NJ Marine Fire Boat Task Force - Operations 	FMN 	Fire-Tac 
+170.15000 	KNBY464 	BM	371 DPL	Fire Assign 	Run and Assignments 	FMN 	Fire Dispatch 
+463.92500 	WQUK445 	RM	CC 1TG 1SL 1	MEMS Ops 	Meadowlands EMS Operations 	DMR 	EMS-Talk 
+154.05500 	KXE551 	BM	110.9 PL	BayoBOEBuses 	Board of Education Buses 	FM 	Schools 
+154.60000 	 	M	88.5 PL	BayonSchools 	Schools (all) 	FM 	Schools 
+461.01250 	 	RM	173.8 PL	Bayonne HS 	Bayonne High School 	FM 	Schools 
+46.18000 	KCW343 	BM	162.2 PL	Schools 1 	Public School District (1) 	FM 	Schools 
+46.48000 	KCW343 	BM	162.2 PL	Schools 2 	Public School District (2) 	FM 	Schools 
+501.48750 	WPLV668 	RM	734 DPL	Security 	Security 	FMN 	Security 
+501.83750 	WPLV668 	RM		Maint 	Maint Dept 	FMN 	Public Works 
+502.73750 	WPLV668 	RM	065 DPL	Public Works 	Public Works 	FMN 	Public Works 
+463.36250 	WQUK451 	RM	073 DPL	Sec/Trans 	Security / Transport Vans 	FMN 	Security 
+462.45000 	WQUK451 	RM	261 DPL	Maint Dept 	Maintenance Department 	FMN 	Schools 
+461.81250 	WQUK451 	RM		Admin 	Administration Services 	FMN 	Schools 
+453.01250 	WPRS942 	RM		HS Opps 	High School Operations 	FMN 	Schools 
+451.82500 	WPRS942 	M		HS 3 	High School Ch 3 	FMN 	Schools 
+461.85000 	WPRS942 	M		HS 4 	High School Ch 4 	FMN 	Schools 
+464.47500 	WRAE486 	RM	CC 8TG *SL 1	PD Disp 	Police  	DMR 	Law Dispatch 
+462.35000 	WRAE486 	RM		PD 2 	Police 2 	DMR 	Law Tac 
+464.32500 	WRAE486 	M		PD Mobile 	 Police Mobile 	DMR 	Law Tac 
+462.13750 	WQKQ637 	RM		UBOE Ops 	Operations 	NXDN 	Schools 
+463.76250 	WQKC543 	RM		HS Opps 	High School Operations 	FMN 	Schools 
+461.67500 	WQFV593 	RM		UACHS Ops 	Operations 	FMN 	Schools 
+406.13750 	 	RM	CC 1TG 1SL 1	USPS IMC 1 	International Mail Center Ops (Jersey City) 	DMR 	Federal 
+406.13750 	 	RM	CC 1TG 2SL 2	USPS IMC 2 	International Mail Center Ops (Jersey City) 	DMR 	Federal 
+406.53750 	 	RM	CC 1TG 5SL 2	USPS IMC 3 	International Mail Center Ops (Jersey City) 	DMR 	Federal 
+406.93750 	 	RM	CC 1TG 6SL 1	USPS IMC 4 	International Mail Center Ops (Jersey City) 	DMR 	Federal 
+406.93750 	 	RM	CC 1TG 7SL 2	USPS IMC 5 	International Mail Center Ops (Jersey City) 	DMR 	Federal 
+407.25000 	 	RM	CC 1TG 9SL 1	USPS IMC 6 	International Mail Center Ops (Jersey City) 	DMR 	Federal 
+407.25000 	 	RM	CC 1TG 10SL 2	USPS IMC 7 	International Mail Center Ops (Jersey City) 	DMR 	Federal 
+407.33750 	 	RM	CC 1TG 2SL 2	USPS DMPC 1 	DVD Mail Processing Center Ops (Kearny) 	DMR 	Federal 
+407.53750 	 	RM	CC 1TG 3SL 1	USPS DMPC 2 	DVD Mail Processing Center Ops (Kearny) 	DMR 	Federal 
+414.46250 	 	BM	CSQ	USPS PMPC 1 	Priority Mail Processing Center Ops (Kearny) 	FMN 	Federal 
+414.77500 	 	BM	103.5 PL	USPS PMPC 2 	Priority Mail Processing Center Ops (Kearny) 	FMN 	Federal 
+Atlantic Telecommunications	 LTR Net	 Various	Bayonne City	 Project 25 Phase I	 Bayonne	Hudson County	 Project 25 Phase II
+ Jersey City	International Matex Tank Terminal	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bayonne	Jersey City	 Project 25 Phase I	 Jersey City	New Jersey Interoperability Communications System (NJICS)
+ Project 25 Phase II	 Statewide	New Jersey State Police	 Motorola Type II SmartZone Omnilink	 Statewide	New Jersey Transit	 TETRA Standard	 Statewide
+New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Port Authority of New York and New Jersey	 Project 25 Phase II
+ Regional	Public Service Electric and Gas Company	 Project 25 Phase II	 Various	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Union City
+ Project 25 Phase II	 Union City	

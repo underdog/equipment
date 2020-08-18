@@ -1,0 +1,81 @@
+460.32500 	KNFB444 	RM	123.0 PL	Can SO Pri 	Law Fallback Use 	FMN 	Law Dispatch 
+460.60000 	WPIV373 	RM	123.0 PL	Can SO F2 	Law Fallback Use 	FMN 	Law Talk 
+453.40000 	WQGK380 	M	77.0 PL	Can SO Tac 	Law Fallback Use 	FMN 	Law Tac 
+458.40000 	WQGK380 	M		Can SO tac 	Law Fallback Use 	FMN 	Law Tac 
+858.98750 	WQJN983 	M	156.7 PL	Can SO SWAT 	Law Fallback Use 	FMN 	Law Tac 
+460.01250 	WPAN376 	M		Can SO JuDet 	Law Fallback Use 	FMN 	Corrections 
+460.25000 	KNFB443 	RM		Can SO Jail 	Law Fallback Use 	FMN 	Corrections 
+453.40000 	WQGK380 	M		Can SO 	Law Fallback Use 	FMN 	Law Talk 
+458.40000 	WQGK380 	M		Can SO 	Law Fallback Use 	FMN 	Law Talk 
+453.92500 	WQBN879 	RM		Can Pub Saft 	Law Fallback Use 	FMN 	Law Talk 
+154.85250 	WQAW884 	BM		Can Pub Saft 	Law Fallback Use 	FMN 	Multi-Tac 
+154.01000 	WNCZ419 	BM	88.5 PL	Can FD Dsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
+153.89000 	WNCZ419 	BM	88.5 PL	Can FD SCDsp 	Fire Fallback Use 	FMN 	Fire Dispatch 
+154.11500 	WPNV924 	RM	88.5 PL	Can FD Resp 	Fire Fallback Use 	FMN 	Fire Dispatch 
+154.96500 	KNBU333 	BM		Can FD Tac 	Fire Fallback Use 	FMN 	Fire-Tac 
+462.50000 	WNCZ419 	F	192.8 PL	Can FDVHFLnk 	Fire Fallback Use 	FMN 	Fire Dispatch 
+151.11500 	WPKA887 	RM	88.5 PL	Can EMS Resp 	Fire Fallback Use 	FMN 	EMS Dispatch 
+155.20500 	WNKB279 	BM	118.8 PL	Can EMS Dsp 	Fire Fallback Use 	FMN 	EMS Dispatch 
+151.01000 	WPGY205 	RM	023 DPL	Can  Hwy 	Highway Dept. 	FMN 	Public Works 
+154.05500 	WPXC796 	RM		Can Pub Wks 	Rodent & Weed Control 	FMN 	Public Works 
+856.73750 	WQJN983 	M	156.7 PL	Can Bravo 7d Ops 	Bravo 7D Ops 	FMN 	Multi-Talk 
+856.98750 	WQJN983 	M	156.7 PL	Can Bravo 8D Ops 	Bravo 8D Ops 	FMN 	Multi-Talk 
+857.21250 	WQJN983 	M	156.7 PL	Can Bravo 9D Ops 	Bravo 9D Ops 	FMN 	Multi-Talk 
+857.98750 	WQJN983 	M	156.7 PL	Can Bravo10D Ops 	Bravo 10 D Ops 	FMN 	Multi-Talk 
+857.73750 	WQJN983 	M	CSQ	Can Charl10R Ops 	Charles 10R Ops 	FMN 	Multi-Talk 
+855.73750 	WQJN983 	M	156.7 PL	Can Char 15D Ops 	Charles 15D Ops 	FMN 	Multi-Talk 
+460.17500 	KTL623 	RM	203.5 PL	CaldPDF-1 	Police - Fallback Use 	FMN 	Law Dispatch 
+458.65000 	WPUB413 	BM		CaldPDF-2 	Police - Fallback Use 	FMN 	Law Talk 
+154.43000 	KOG688 	BM	88.5 PL	CaldFireDsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.31000 	KOG688 	BM	88.5 PL	CalFDTAC 4 	Fire - Tactical 	FMN 	Fire-Tac 
+158.76000 	WNNU868 	BM		Cald Com 	DPW/HLS/Fire - Common 	FMN 	Multi-Talk 
+453.03750 	WQDG715 	M		Cald City 	City Services 	FMN 	Public Works 
+458.03750 	WQDG715 	M		Cald City 	City Services 	FMN 	Public Works 
+460.05000 	WPHN973 	RM		NampPDPrim 	Police - Primary 	P25 	Law Dispatch 
+460.57500 	WPHN973 	RM	107.2 PL	NampPDSec 	Police - Secondary 	FMN 	Law Talk 
+460.42500 	WPHN973 	M	146.2 PL	NampLawTac 	Police - Countywide Tactical 	FMN 	Law Tac 
+465.27500 	KTL623 	M	167.9 PL	NampPDF4 	Police - Car to Car 	FMN 	Law Tac 
+453.52500 	WPHN973 	M		NamPDTac 	Police - Tactical 	FMN 	Law Tac 
+458.58750 	WQJF560 	M		NampPD F6 	Police - Tactical 	FMN 	Law Tac 
+154.19000 	KNJQ333 	RM	114.8 PL	NampFirDsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
+155.92500 	KNJQ333 	RM	114.8 PL	NampFirREs 	Fire - Response 	FMN 	Fire Dispatch 
+154.44500 	KNJQ333 	BM	114.8 PL	NampFirTac 	Fire - Tactical 	FMN 	Fire-Tac 
+154.76250 	WQJF560 	M		NampFirTac 	Fire - Tactical 	FMN 	Fire-Tac 
+154.28000 	KNJQ333 	BM	CSQ	NampFireTac6 	Fire - Statewide Mutual Aid 	FMN 	Fire-Talk 
+150.79750 	KNJQ333 	M		NampFirTac 	Fire - Tactical 	FMN 	Fire-Tac 
+160.15500 	KNJQ333 	M		NampFirMR 	Fire - Vehicular Repeaters 	FMN 	Fire-Tac 
+4940.00000 	WQGQ674 	BM		NampFirMDD 	Fire - MDCs 	FMN 	Data 
+156.18000 	KBP753 	RM		Namp Hwy 	Highway Dept. 	FMN 	Public Works 
+158.80500 	KNAS943 	BM		Namp Com 	DPW/HLS/Fire - Common 	FMN 	Multi-Talk 
+158.94000 	KNAS943 	BM		Namp Com 	DPW/HLS/Fire - Common 	FMN 	Multi-Talk 
+462.81250 	WNWF655 	M		Namp CivCtr 	Civic Center 	FMN 	Public Works 
+463.73750 	WPEW482 	M		Namp Parks 	Parks & Recreation 	FMN 	Public Works 
+155.55000 	WZC534	 	RM	88.5 PL	Parm FD Dsp 	Dispatch 	FMN 	Fire Dispatch 
+154.07000 	WZC534 	BM	88.5 PL	Parm F TAC 5 	Tac 5 	FMN 	Fire-Tac 
+157.51500 	WQBZ933 	RM		UDFl FireDsp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.35500 	KNBR757 	BM		UDFl FireTac 	Fire Tactical 	FMN 	Fire-Tac 
+155.73000 	KNGT973 	RM		WRFPD Disp 	Dispatch 	FMN 	Fire Dispatch 
+154.72500 	WQEU880 	RM	136.5 PL	WRFPD Tac 	Tactical 	FMN 	Fire-Tac 
+452.02500 	WPTI272 	M		 AlbColOps 	Operations/Maintenance 	FMN 	Security 
+452.02500 	WPTI272 	RM		 AlbColSec 	Security/Operations 	FMN 	Security 
+452.80000 	WPTI272 	RM		 AlbColSec 	Security/Operations 	FMN 	Security 
+461.30000 	WPTI272 			 AlbColSec 	Operations/Maintenance 	FMN 	Security 
+464.52500 	WPTI272 	RM		 AlbColSec 	Security/Operations 	FMN 	Security 
+452.06250 	WQJG908 	M		 NWNSec 	Security/Maintenance 	FMN 	Schools 
+452.08750 	WQJG908 	M		 NWNSec 	Security/Maintenance 	FMN 	Schools 
+452.11250 	WQJG908 	M		 NWN Sec 	Security/Maintenance 	FMN 	Schools 
+461.25000 	WQHU696 	RM		VTA Data A 	Data Only 	FMN 	Data 
+462.15000 	WQHU696 	RM		VTA Data B 	Data Only 	FMN 	Data 
+151.74500 	WPXB404 	BM		Brown Bus A  	Transportation 	FMN 	Schools 
+151.83500 	WPXB404 	BM		Brown Bus B 	Transportation 	FMN 	Schools 
+451.32500 	WPTV345 	BM		MelbaSchool 	Ops 	FMN 	Schools 
+451.40000 	WPWJ667 	M		 D131 OPs 	Security/Operations 	FMN 	Schools 
+452.45000 	WPWJ667 	M		 D131 Ops 	Security/Operations 	FMN 	Schools 
+452.62500 	WPWJ667 	M		 D131 Ops 	Security/Operations 	FMN 	Schools 
+452.70000 	WPWJ667 	M		 D131 Ops 	Security/Operations 	FMN 	Schools 
+453.00000 	WPWJ667 	M		 D131 Ops 	Security/Operations 	FMN 	Schools 
+461.56250 	WPGT903 	M		 GreEl Ops 	Greenhurst Elementary - Operations 	FMN 	Schools 
+461.83750 	WPIV515 	M		 SunRigElOps 	Sunnyridge Elementary - Operations 	FMN 	Schools 
+152.34500 	WPDS735 	BM		Notus School 	Transportation 	FMN 	Schools 
+Intermountain Communications	 Motorola Type II	 Silver City	White Cloud Communications	 Motorola Type II	 Boise	White Cloud Communications, Inc.	 LTR Standard
+ Various	

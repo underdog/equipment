@@ -1,0 +1,103 @@
+154.44500 	WPVI793 	B	82.5 PL	StChCo Fire Page 	Fire: Tone-Outs / Paging (no mobiles) 	FMN 	Fire Dispatch 
+154.28000 	WNXQ438 	BM	CSQ	StChCo VFIRE 21 	Fire Mutual Aid (out-of-County units) [VFIRE 21] 	FMN 	Fire-Tac 
+773.85625 	 	M		SCCDA 7FIRE84D 	Fireground - Simplex [Ch 16 7FIRED84D] 	FMN 	Fire-Tac 
+158.86500 	WPVI793 	BM	141.3 PL	SCC WarningSiren 	Emergency Warning Sirens 	FMN 	Emergency Ops 
+460.30000 	WPDF274 	F		StChCo Fire RF 	Fire: Remote Link?) (5168 put your house on standyby) 	FMN 	Law Tac 
+155.49000 	WPDF274 	RM	293 NAC	StCC Police 	Police: Dispatch - Main [Ch 1 / 4 Direct] [Phase 1] 	P25 	Law Dispatch 
+155.73000 	WPDF274 	BM	141.3 PL	MO Shrf Net* 	Police: Statewide Net (Tx Only) [Ch 2] 	FMN 	Law Dispatch 
+155.73000 	WPDF274 	M	CSQ	MO Shrf Net 	Police: Statewide Net (Rx Only) [Ch 2] 	FMN 	Law Tac 
+155.83500 	KNFR268 	RM	141.3 PL	StCC SD EM3S 	Police: Emergency Management 3 [Ch 3/10]  	FMN 	Law Tac 
+155.47500 	KA5824 	M	156.7 PL	MO LE M/A B 	Missouri Law Enforcement Mutual Aid (Tx Only) [Ch 5] 	FMN 	Law Dispatch 
+156.00000 	WPDF274 	M	293 NAC	StCC Police6 	Police: Patrol [Ch 6]  	P25 	Law Tac 
+156.33000 	 	M	293 NAC	StCC PD SWAT 	Police: Metro SWAT [Ch 7] [No license; Marine?] 	P25 	Law Tac 
+153.90500 	WPDF274 	M	293 NAC	StCC PD CID 	Police: Criminal Investigation Division (CID) [Ch 8] 	P25 	Law Tac 
+155.83500 	KNFR268 	RM	293 NAC	StCC PD EM3D 	Police: Emergency Management 3 [Ch 9]  	P25 	Law Tac 
+155.37000 	WPDF274 	B	CSQ	MO S/W P2P 	Statewide Point-to-Point (141.3 TX) [Ch 11] 	FMN 	Law Talk 
+154.72500 	KA96529 	BM	103.5 PL	STL RIOT A 	Police: RIOT A [Ch 12] [St L Co License] 	FMN 	Law Tac 
+154.68000 	KA5824 	M	156.7 PL	MO MTAC 	Police: TAC [Ch 13] [State License] 	FMN 	Law Tac 
+155.31000 	WQCC612 	RM	506 DPL	SCC FamArena 	Police: Family Arena Law [Ch 15] 	FMN 	Law Dispatch 
+156.15000 	WPDF274 	M	293 NAC	SCC PD SE16 	Police: Special Events [Ch 16] 	P25 	Law Tac 
+154.77000 	KF8233 	M	293 NAC	StCC PD15477 	Police: Operations (Reported use in O'fallon) 	P25 	Law Tac 
+156.15000 	WPDF274 	RM	293 NAC	SCC Courts14 	Sheriff: Courts [Ch 14] 	P25 	Law Tac 
+155.83500 	KNFR268 	RM	141.3 PL	SCCDEM 3 	EMA: Operations / Siren Data [Ch 3] 	FMN 	Emergency Ops 
+155.83500 	KNFR268 	RM	293 NAC	SCCDEM 3D 	EMA: Operations [Ch 3D] 	P25E 	Emergency Ops 
+154.95000 	KNFR268 	M	293 NAC	SCCDEM Work 	EMA: Work Ops 	P25E 	Emergency Ops 
+156.00000 	KNFR268 	M		SCCDEM 6.00 	EMA 	FMN 	Emergency Ops 
+460.28750 	WPQA797 	RM	423 DPL	StCC Correct 	Jail / Correctional Facility 	FMN 	Corrections 
+158.74500 	KEC748 	RM	100.0 PL	SCCHE Health 	DOCHE: Community Health 	FMN 	Public Works 
+158.74500 	KEC748 	M	100.0 PL	SCCHE Health 	DOCHE: Animal Shelter Ops / Community Health Portables 	FMN 	Public Works 
+158.74500 	KEC748 	RM	162.2 PL	SCCHE AnCntl 	DOCHE: Animal Control 	FMN 	Public Works 
+159.10500 	KCR227 	BM	CSQ	SCCo Hiway 	Highway Department [with NexTel] 	FMN 	Public Works 
+458.96250 	WPLX256 	F		SCC UtilData 	Utility Distribution Data 	Telm 	Data 
+460.18750 	WQIG963 	RM		SCCFM Justic 	Facilities Maintenance: Justice Building 	FMN 	Public Works 
+45.24000 	 	BM	151.4 PL	SCCFM Main 	Facilities Maintenance: Main [No License] 	FMN 	Public Works 
+45.12000 	 	M	151.4 PL	SCCFM Scndry 	Facilities Maintenance: Secondary [No License] 	FM 	Public Works 
+463.18750 	WPRX348 	RM	116 DPL	BJH St Peters 	Security / Engineering (in use 3/17) 	FMN 	Business 
+155.34000 	WQPK439 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+151.65500 	WQHI502 	BM		CPH M/Sec 1 	Maintenance/Security 	FMN 	Business 
+151.71500 	WQHI502 	M		CPH M/Sec 2 	Maintenance/Security 	FMN 	Business 
+158.17500 	WQHI502 	BM		CPH M/Sec 3 	Maintenance/Security 	FMN 	Business 
+151.92500 	WQHI502 	M		CPH M/Sec 4 	Maintenance/Security 	FMN 	Business 
+155.34000 	WQXZ592 	B		HEAR340 	Patient Reports (with 155.22) 	FMN 	Hospital 
+451.87500 	WQJF403 	RM	516 DPL	PWHC Security 	Security 	FMN 	Security 
+451.87500 	WQJF403 	RM	365 DPL	PWHC UHF-1 	Operations 	FMN 	Business 
+155.34000 	WQPW201 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+461.63750 	WQMY432 	RM	606 DPL	SJHC Ops A 	Operations 	FMN 	Business 
+155.34000 	WQPN803 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+452.07500 	WQMN731 	RM	172 DPL	SJHC Security 	Security 	FMN 	Security 
+452.12500 	WQMN731 	RM	431 DPL	SJHC Engineering 	Engineering / Maintenance 	FMN 	Business 
+155.34000 	WQPV991 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+152.00750 	KFO217 	B		SJHC Paging 	Paging (CSQ) 	Telm 	Data 
+456.23750 	WPUX652 	M		SJHW BioMed 	Biomedical Operations (CSQ) 	Telm 	Data 
+463.78750 	WNZA531 	M		SJHW Ops1 	Data (CSQ) 	Telm 	Data 
+452.07500 	WQMN860 	RM	261 DPL	SJHCW Sec 	Security 	FMN 	Security 
+452.12500 	WQMN860 	RM		SJHCW Maint 	Maintenance 	FMN 	Business 
+155.34000 	 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+47.84000 	WNNH225 	BM	100.0 PL	SCC PWD Ops 	St. Charles County Public Water District: Business Office/Maintenance Crews 	FM 	Public Works 
+451.11250 	WQAK408 	M		PWSD#2 WDD 	Water Distribution Data (CSQ) [also WQAQ382, KS21555, WQAK414] 	Telm 	Data 
+453.42500 	WNIA930 	RM		LStL EcDvlpm 	Local: Economic Development 	FMN 	Public Works 
+156.03000 	WPKH797 	RM		NMellePolice 	Police: Dispatch (was 155.085 input) 	FMN 	Law Dispatch 
+854.66250 	WNXR878 	RM	026 DPL	Ofln PD B/U1 	Police: Back-Up to P25 [Ch 1] 	FM 	Law Tac 
+855.71250 	WNXF782 	RM	026 DPL	Ofln PD B/U3 	Police: Back-Up to P25 [Ch 2] 	FM 	Law Tac 
+155.89500 	KUI581 	BM	141.3 PL	Ofln PubWrks 	Public Works  	FMN 	Public Works 
+154.35500 	WPKR407 	BM		SCC FireTac1 	Fire 	FMN 	Fire-Tac 
+153.95000 	WPKR407 	M		SCC FireTac2 	Fire 	FMN 	Fire-Tac 
+453.95000 	WPIN963 	RM	114.8 PL	SCC Parks1 	Parks and Recreation  	FMN 	Public Works 
+453.63750 	WQEY788 	RM	412 DPL	SCC Parks2 	Park Rangers (Parks and Recreation) 	FMN 	Public Works 
+173.26250 	WQJY425 	F		SCC WDD 	Water Distribution Data 	Telm 	Data 
+453.31250 	WQDN911 	RM	023 DPL	SCC CC Ops1 	Convention Center: Security/Maintenance/Safety [Expired 10/15] 	FMN 	Business 
+460.36250 	WQDN911 	M		SCC CC Ops2 	Convention Center: Security/Maintenance/Safety [Expired 10/15] 	FMN 	Business 
+465.36250 	WQDN911 	M		SCC CC Ops3 	Convention Center: Security/Maintenance/Safety [Expired 10/15] 	FMN 	Security 
+155.71500 	KXX522 	RM		SPeters EMA 	Emergency Management 	FMN 	Emergency Ops 
+155.92500 	KXX522 	BM		SPeters MRSN 	Emergency Management (103.5 MRS N StL) 	FMN 	Emergency Ops 
+173.21000 	WGJ507 	F		StPeter WDD2 	Water Distribution Data (CSQ) 	Telm 	Data 
+453.01250 	KD20527 	M		StPeter WDD1 	Water Distribution Data (CSQ) 	Telm 	Data 
+457.81250 	WQXE695 	F		StP GolfCrs Data 	St Peters Golf Course: Data (CSQ) 	Telm 	Data 
+154.86000 	KUQ880 	RM	141.3 PL	Wntz Police 	Police: Dispatch - Primary (w/Foristell & New Melle) [Ch 1] 	FM 	Law Dispatch 
+156.03000 	KUQ880 	M	151.4 PL	Wntz PD C2C 	Police: Car-to-Car (repeater input) 	FMN 	Law Tac 
+155.07000 	KUS658 	BM		Wntz PD c2c2 	Police: Unit-to-Unit [Ch 2] (151.4 is Warren Sheriff) 	FMN 	Law Tac 
+154.11500 	WQG926 	BM		Wntz PWrks 	Public Works: Water/Trash  	FMN 	Public Works 
+159.60000 	WPWM321 	F		Wntz WDD 	Water Distibution Data (CSQ) 	Telm 	Data 
+462.35000 	WQBR254 	RM	210.7 PL	FS StCharles 	Buses (St Charles) 	FMN 	Schools 
+464.60000 	WQIY662 	RM	065 DPL	FrHwl SDBus1 	First Student Buses (New Melle)  	FMN 	Schools 
+464.97500 	WNXH767 	RM	141.3 PL	FrHwl SD Op2 	Operations (possible tone) 	FMN 	Schools 
+461.38750 	WQIY662 	RM	503 DPL	FH IndElmSch 	Independence Elementary School 	FMN 	Schools 
+462.48750 	WQIY662 	RM	162 DPL	FrHwl Ops A 	Admin Ops 	FMN 	Schools 
+464.55000 	 	M	67.0 PL	LHS Ops A 	Operations 	FMN 	Schools 
+155.26500 	WYV375 	BM	141.3 PL	OFarm SchBus 	Buses 	FMN 	Schools 
+452.72500 	WRBX816 	RM	CC 1TG 1SL 1	StChar Sch Bus 	Buses 	DMR 	Schools 
+463.92500 	KNJR663 	RM	025 DPL	WR4 Sch Bus 	Buses 	FMN 	Schools 
+463.92500 	KNJR663 	RM	114.8 PL	WR4 Frontier 	Ops (at Frontier Middle School) 	FMN 	Schools 
+452.18750 	WQCW652 	M	100.0 PL	WR4 Sch Ops7 	Operations 	FMN 	Schools 
+461.82500 	WPMZ518 	RM	CC 1TG 111SL 1	LU Ops 111 	Operations 	DMR 	Security 
+461.82500 	WPMZ518 	RM	CC 1TG 112SL 2	LU Ops 112 	Operations 	DMR 	Schools 
+462.02500 	WPMZ518 	RM		LwdU Ops 13 	Operations (D043?) (Defiance) 	FMN 	Schools 
+452.75000 	WPPY974 	RM	464 DPL	SCCC PubSfty 	Public Safety (w/Phone Patch) 	FMN 	Security 
+462.41250 	WQFG306 	RM		SCCC Library 	Library Operations 	FMN 	Schools 
+461.75000 	WQJZ639 	RM	88.5 PL	SCCC SecMnt1 	Security/Maintenance (Cottleville) 	FMN 	Schools 
+464.67500 	WQJZ639 	RM	88.5 PL	SCCC SecMnt2 	Security/Maintenance 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Ameristar Casino St. Charles	 DMR Hytera XPT	 St Charles	Boeing Company (Hazelwood)	 Motorola Type II Smartnet
+ Hazelwood	Fort Zumwalt School District (O'Fallon MO)	 LTR Standard	 O'Fallon	Francis Howell School District (St Charles MO)	 DMR Hytera XPT	 St Charles MO	General Motors (USA)
+ DMR Motorola Connect Plus (TRBO)	 Various	St. Louis Area Trunked Emergency Radio (SLATER)	 Project 25 Phase II	 St Louis Metro Area	True Manufacturing - O'Fallon MO 	 DMR Conventional Networked	 O' Fallon
+Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro	Warner Communications - UHF (St Charles B)	 LTR Standard	 St Charles	Warner Communications-BJC Hospitals (NXDN)	 NXDN NEXEDGE 4800
+ St Louis	Wentzville R-4 School District (MO)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Wentzville	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	

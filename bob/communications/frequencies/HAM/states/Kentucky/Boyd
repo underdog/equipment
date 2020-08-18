@@ -1,0 +1,46 @@
+154.96500 	WPWD536 	RM	107 NAC	Boyd Law F1 	Law Enforcement Dispatch 	P25 	Law Dispatch 
+155.67000 	WQU505 	RM	107 NAC	Boyd Law F2 	Law Enforcement 2 	P25 	Law Talk 
+155.71500 	WPJY719 	RM	107 NAC	Boyd Law F3 	Law Enforcement 3 	P25 	Law Talk 
+155.85000 	 	RM	107.2 PL	Boyd Law F4 	Law Enforcement 4 (Inactive) 	FM 	Law Talk 
+154.72500 	WQU505 	RM	107.2 PL	Boyd Law F5 	Law Enforcement Simplex/Tac 	FM 	Law Tac 
+155.58000 	WQU505 	RM	107.2 PL	Boyd Law F6 	Ashland PD Use Only 	FM 	Law Talk 
+151.03250 	WNVK362 	RM		BCDC 1 	Detention Center 1 	FMN 	Law Talk 
+155.55000 	WNVK362 	BM		BCDC 2 	Detention Center 2 	FM 	Law Talk 
+155.96250 	WNVK362 	RM		BCDC 3 	Detention Center 3 	FMN 	Law Talk 
+453.73750 	WQAN578 	BM		BCJuvDC 1 	Regional Juvenile Detention Center 1 	FMN 	Law Talk 
+453.82500 	WQAN578 	BM		BCJuvDC 2 	 Regional Juvenile Detention Center 2 	FMN 	Law Talk 
+465.26250 	WPWD536 	F	141.3 PL	BOYD LAW 	 Law Enforcement (Low Power Link) 	FM 	Law Talk 
+154.28000 	KIH564 	RM	88.5 PL	BoydFDPageF1 	Dispatch F1: Station 40/96/95/Emergency Management 	FMN 	Fire Dispatch 
+155.76750 	KIH564 	RM	88.5 PL	BoydFDPageF3 	Dispatch F3: Station 97/98/93 	FMN 	Fire Dispatch 
+154.25000 	KIH564 	RM	88.5 PL	BoydFDPageF5 	Dispatch F5: Station 83/94/98 	FMN 	Fire Dispatch 
+151.07000 	KIH564 	RM	911 NAC	BoydFire F1 	Fire F1- Ashland: Sta. 40/96/95 	P25 	Fire-Talk 
+151.47500 	WQOK256 	RM	911 NAC	BoydFire F3 	Fire F3-Bowling Drive, Rush: Sta. 97/98/93/83 	P25 	Fire-Talk 
+159.13500 	KIH564 	RM	911 NAC	BoydFire F5 	Fire F5-Tarpin Ridge, Cannonsburg: Sta. 94/98/83 	P25 	Fire-Talk 
+151.34750 	WQOJ626 	RM	911 NAC	BoydFire F7 	Fire F7-Burnaugh: Station 93/ 83 	P25 	Fire-Talk 
+154.82250 	WQNA890 	RM	411 DPL	BoydFire F9 	Fire F9-Westwood Primary Station 96 	FMN 	Fire-Talk 
+155.94000 	KCZ479 	RM	131.8 PL	BoydFire F11 	Fire F11-Catlettsburg Fire Station 42 	FMN 	Fire-Talk 
+155.94000 	KCZ479 	RM	911 NAC	BoydFire F11 	Fire F11-Catlettsburg Fire Station 42 	P25 	Fire-Talk 
+156.21000 	WPBW580 	RM	911 NAC	BoydFire F11 	Fire F11-Summit/Ironville Primary Station 96 	P25 	Fire-Talk 
+154.35500 	WNFH723 	RM	127.3 PL	BoydFire F19 	Fire F19-Station 98 Norton Branch (Carter County Fire F3) 	FMN 	Fire-Talk 
+159.43500 	 	M	911 NAC	BoydFD Fgrd 	Fire Fireground 	P25 	Fire-Tac 
+158.74500 	WPPD229 	RM	911 NAC	BOYD EMS  	EMS Dispatch 	P25 	EMS-Talk 
+155.34000 	KNAR497 	BM	88.5 PL	BoydEMS/Hosp 	EMS To Kings Daughters Hospital 	FMN 	Hospital 
+460.57500 	KIH564 	RM	156.7 PL	BOYD FD 1 	Fire (Old System) 	FM 	Fire-Talk 
+465.57500 	KIH564 	M		BOYD FD 2 	Fire (Old System)) 	FM 	Fire-Talk 
+460.60000 	KIH564 	RM		BOYD FD 3 	Fire (Old System) 	FM 	Fire-Talk 
+465.60000 	KIH564 	M		BOYD FD 4 	Fire (Old System) 	FM 	Fire-Talk 
+452.05000 	KIH564 	RM	131.8 PL	BOYD FD 5 	Fire (Old System) 	FM 	Fire-Talk 
+457.05000 	KIH564 	RM		BOYD FD 6 	Fire (Old System) 	FM 	Fire-Talk 
+460.52500 	WPBW580 	RM	94.8 PL	BOYD FD 7 	Fire (Old System) 	FM 	Fire-Talk 
+465.52500 	WPBW580 	M		BOYD FD 8 	Fire (Old System) 	FM 	Fire-Talk 
+453.20000 	WNWN537 	RM	156.7 PL	BOYD FD 9 	Fire (Old System) 	FM 	Fire-Talk 
+458.20000 	WNWN537 	M		BOYD FD 10 	Fire (Old System) 	FM 	Fire-Talk 
+154.25000 	KIH564 	RM	88.5 PL	BOYD FD  	Fire (Old System) 	FM 	Fire-Talk 
+453.42500 	WPUW497 	RM	192.8 PL	BOYD FD  	Fire (Old System) 	FM 	Fire-Talk 
+155.04000 	WSL862 	RM	118.8 PL	Ash Pub Wrks 	Public Works 	FMN 	Public Works 
+156.16500 	KTH551 	RM	265 DPL	Ash Pub Wrks 	Public Works 	FMN 	Public Works 
+155.01000 	WSL862 	RM	732 DPL	Ashland Bus 	Public Transportation 	FMN 	Transportation 
+154.10000 	KCZ479 	RM		CatletPD 	Police Dept (Encrypted) 	DMRE 	Law Dispatch 
+461.62500 	WPKY278 	RM	203.5 PL	BydSklBus 	School Buses 	FMN 	Schools 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	F L Electronics	 LTR Standard	 Ashland	Labtronics	 LTR Standard
+ Various	Marathon Petroleum Catlettsburg Refinery	 DMR Motorola Capacity Plus Single Site (TRBO)	 Catlettsburg	

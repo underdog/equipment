@@ -1,0 +1,70 @@
+155.95500 	KNDT265 	RM	270 NAC	KESO1 	Sheriff Dispatch 	P25 	Law Dispatch 
+155.62500 	KNDT266 	BM	270 NAC	KESO2 	Sheriff 	P25 	Law Tac 
+155.49000 	KNDT266 	BM	107.2 PL	KESO3 	Sheriff Countywide/Siren Control 	FMN 	Law Dispatch 
+156.15000 	KSA296 	M	107.2 PL	KESOTAC 	Sheriff TRT/SWAT 	FMN 	Law Tac 
+453.53750 	 	M	141.3 PL	KEJAIL1 	County Jail 	FMN 	Corrections 
+453.08750 	WPMB614 	RM	CC 1TG 80101SL 1	KEJAIL 	Detention Center 	DMR 	Corrections 
+458.98750 	WPMB614 	M	210.7 PL	KEJAIL3 	Detention Center 	FMN 	Corrections 
+154.57000 	 	M	186.2 PL	KEFAIRPD 	County Fair Police 	FMN 	Law Tac 
+151.23500 	KNGQ586 	BM	162.2 PL	KEFD DISP 	County Fire Dispatch 	FMN 	Fire Dispatch 
+154.25000 	KDL904 	BM	118.8 PL	KEFD FG 	County Fireground 	FMN 	Fire-Tac 
+151.05500 	KNJN832 	RM	131.8 PL	KEHWY 	Highway Dept 1 	FMN 	Public Works 
+155.10000 	KNJN832 	RM		KEHWY2 	Highway Dept 2 	FMN 	Public Works 
+155.20500 	KNDX311 	BM	136.5 PL	KESVCS 	County Services 	FMN 	Public Works 
+851.82500 	WPEX890 	BM		KEMDT 	MDCs 	Telm 	Data 
+852.18750 	WPEX890 	BM		KEMDT 	MDCs 	Telm 	Data 
+155.34000 	WNDL353 	BM	107.2 PL	EMS B - KE 	Kenosha Area Hospitals - EMS Reports 	FMN 	EMS-Talk 
+155.40000 	WNDL353 	BM	107.2 PL	EMS A - KE 	Kenosha Area Hospitals - EMS Reports 	FMN 	EMS-Talk 
+154.02500 	 	BM	118.8 PL	Bristol DPW 	Public Works, Police Special Events, Fireground 	FMN 	Multi-Tac 
+155.52750 	KB41872 	RM	260 NAC	KEPD1 	Police Dispatch 	P25 	Law Dispatch 
+155.58000 	KB41872 	RM	260 NAC	KEPD2 	Police Records 2nd Shift/Car-Car 	P25 	Law Talk 
+155.41500 	KB41872 	RM	260 NAC	KEPD3/4 	Special Events/Car-Car 	P25 	Law Tac 
+155.49000 	KB41872 	M	107.2 PL	KESO3 	Countywide Police interop 	FMN 	Law Talk 
+154.19000 	KNJM512 	RM	071 DPL	KEFIR1 	Fire Main 	FMN 	Fire Dispatch 
+154.14500 	KNJM512 	BM	210.7 PL	KEFIR2 	Fire Tactical 2 	FMN 	Fire-Tac 
+156.00000 	KGT483 	M	210.7 PL	KEFIR3 	Fire Tactical 3 	FMN 	Fire-Tac 
+154.31000 	KNJM512 	M	210.7 PL	KEFIR4 	Fire Tactical 4 	FMN 	Fire-Tac 
+465.03750 	WPQK591 	M	210.7 PL	KEFIR HM 	Fire Hazmat 	FMN 	Fire-Tac 
+458.98750 	WPMB614 	M	210.7 PL	KEFIR HM2 	Fire Hazmat 2 	FMN 	Fire-Tac 
+155.38500 	KNNR303 	RM	210.7 PL	KEEMS 	Fire Medical 	FMN 	Hospital 
+154.11500 	KFM389 	BM	118.8 PL	KEDPW 	Public Works 	FMN 	Public Works 
+464.42500 	 	RM	174 DPL	KEUSD 	Kenosha Unified School District 	FMN 	Schools 
+453.25000 	WQDH525 	RM	156.7 PL	KEBUS 	Transit 	FMN 	Transportation 
+155.86500 	KUQ545 	BM	107.2 PL	Paddock Lake 	Services 	FMN 	Public Works 
+152.36000 	WPVA666 	RM	205 DPL	Paris Fire 	Fire 	FMN 	Fire-Talk 
+154.04000 	WNHQ511 	BM	205 DPL	Tn of Paris 	Services 	FMN 	Public Works 
+154.87500 	WPFZ700 	RM	97.4 PL	PPPD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+154.34750 	WPCQ970 	RM	165 DPL	KEPPFD 	Fire 	FMN 	Fire Dispatch 
+154.08500 	KXM358 	BM	107.2 PL	PPDPW 	Public Works 	FMN 	Public Works 
+155.94000 	 	BM	127.3 PL	PPUTL 	Utilities 	FMN 	Utilities 
+155.77500 	 	BM	107.2 PL	Randall DPW 	DPW 	FMN 	Public Works 
+155.77500 	KNBI644 	BM	100.0 PL	Tn of Salem 	Services 	FMN 	Public Works 
+155.14500 	WQBN877 	BM	107.2 PL	Silver Lake 	Services 	FMN 	Public Works 
+155.14500 	WNLE367 	BM	110.9 PL	Tn of Somers 	Services 	FMN 	Public Works 
+159.19500 	KDX464 	RM	77.0 PL	KETLPD 	Police Dispatch 	FMN 	Law Dispatch 
+151.91000 	WPVA666 	RM	1 RAN	Wheatland FD 	Fire Dept 	NXDN 	Fire-Talk 
+464.57500 	WNVU959 	RM		Security 	Carthage College - Security 	NXDN 	Schools 
+464.77500 	WNVU959 	RM	91.5 PL	Ops 	Carthage College 	FMN 	Schools 
+451.30000 	WNVU959 	M		Ops 	Carthage College 	FMN 	Schools 
+456.30000 	WNVU959 	M		Ops 	Carthage College 	FMN 	Schools 
+464.15000 	WPHK203 	M		Ops 	Gateway Technical College 	FMN 	Schools 
+464.17500 	WPHK203 	M		Ops 	Gateway Technical College 	FMN 	Schools 
+464.25000 	WPHK203 	M		Ops 	Gateway Technical College 	FMN 	Schools 
+464.27500 	WPHK203 	M		Ops 	Gateway Technical College 	FMN 	Schools 
+464.30000 	WPHK203 	M		Ops 	Gateway Technical College 	FMN 	Schools 
+464.37500 	WPHK203 	M		Ops 	Gateway Technical College 	FMN 	Schools 
+464.40000 	WPHK203 	M		Ops 	Gateway Technical College 	FMN 	Schools 
+464.47500 	WPHK203 	M		Ops 	Gateway Technical College 	FMN 	Schools 
+158.83500 	WHL64 	RM	244 DPL	UWP PD 	Police 	FMN 	Law Dispatch 
+155.19000 	WHL64 	M		UWP PD C2C 	Police Car to Car 	FMN 	Law Talk 
+453.62500 	WHL64 	RM	244 DPL	UWP Maint 	Maintenance 	FMN 	Schools 
+453.20000 	WHL64 	M		UWP Ops 	Ops 	FMN 	Schools 
+456.45000 	WQNJ531 	M		UWP Ops 	Ops 	FMN 	Schools 
+456.85000 	WQNJ531 	M		UWP Ops 	Ops 	FMN 	Schools 
+462.08750 	WQNJ531 	RM		UWP Ops 	Ops 	FMN 	Schools 
+463.51250 	WQDX266 	RM		UWP Ops 	Ops 	FMN 	Schools 
+463.96250 	WQNJ531 	RM		UWP Ops 	Ops 	FMN 	Schools 
+466.81250 	WQNJ531 	M		UWP Ops 	Ops 	FMN 	Schools 
+468.66250 	WQNJ531 	M		UWP Ops 	Ops 	FMN 	Schools 
+RC Electronics (Brighton)	 LTR Standard	 Brighton	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	WE Energies (900)	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ Milwaukee	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	

@@ -1,0 +1,53 @@
+154.41500 	KQO239 	RM	141.3 PL	SBFIR 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+155.34000 	KTX586 	BM	186.2 PL	Mem Hosp B 	EMS to Memorial Hospital (BLS) 	FMN 	Hospital 
+155.40000 	WQCI544 	BM	186.2 PL	Mem Hosp A 	EMS to Memorial Hospital (ALS) 	FMN 	Hospital 
+155.34000 	WQCI544 	BM	146.2 PL	St Nic HospB 	EMS to St. Nicholas Hospital (BLS) 	FMN 	Hospital 
+155.40000 	WQCI544 	BM	146.2 PL	St Nic HospA 	EMS to St. Nicholas Hospital (ALS) 	FMN 	Hospital 
+155.34000 	KTX586 	BM	151.4 PL	VlyViewHospB 	EMS to Valley View Hospital (BLS) 	FMN 	Hospital 
+155.40000 	WQCI544 	BM	151.4 PL	VlyViewHospA 	EMS to Valley View Hospital (ALS) 	FMN 	Hospital 
+155.22000 	WRI207 	RM	043 DPL	Orange Cross 	Orange Cross Ambulance 	FMN 	EMS Dispatch 
+155.68500 	KSA999 	RM	186.2 PL	SBSO 	Sheriff (back-up to TRS) 	FMN 	Law Talk 
+854.98750 	WPMU962 	RM	186.2 PL	SBJAIL1 	Jails 	FM 	Corrections 
+855.98750 	WPMU962 	RM	186.2 PL	SBJAIL2 	Jails 	FM 	Corrections 
+856.26250 	WPTS436 	M	186.2 PL	SBTAC 	Law/Fire On Scene 	FM 	Multi-Tac 
+860.26250 	WPTS436 	M	186.2 PL	SBTAC 	Law/Fire On Scene 	FM 	Multi-Tac 
+857.26250 	WPTP791 	BM		SBMDT West 	County Mobile Data 	Telm 	Data 
+857.43750 	WPTS436 	BM		SBMDT East 	County Mobile Data 	Telm 	Data 
+853.62500 	WPTS436 	RM	293 NAC	MEG 1 	MEG 1 Random Lake 	P25 	Multi-Talk 
+852.71250 	WPTS436 	RM	293 NAC	MEG 2 	MEG 2 Plymouth North 	P25 	Multi-Talk 
+852.15000 	WPTS436 	RM	293 NAC	MEG 3 	MEG 3 Plymouth West 	P25 	Multi-Talk 
+851.06250 	WPTS436 	RM	293 NAC	MEG 4 	MEG 4 Sheboygan  	P25 	Law Talk 
+851.06250 	WPTS436 	RM	156.7 PL	Backup East 	Backup Ch. 1 Sheboygan  	FM 	Multi-Talk 
+852.15000 	WPTS436 	RM	156.7 PL	Backup West 	Backup Ch. 2 Plymouth West 	FM 	Multi-Talk 
+852.71250 	WPTS436 	RM	156.7 PL	Backup North 	Backup Ch. 3 Plymouth North  	FM 	Multi-Talk 
+853.62500 	WPTS436 	RM	156.7 PL	Backup South 	Backup Ch. 4 Random Lake 	FM 	Multi-Talk 
+151.62500 	 	M		SBFAIR1 	Fairgrounds 	FMN 	Public Works 
+154.57000 	 	M		SBFAIR2 	Fairgrounds 	FMN 	Public Works 
+154.60000 	 	M		SBFAIR3 	Fairgrounds 	FMN 	Public Works 
+154.72500 	KRW218 	BM	186.2 PL	Sheb Siren 	Siren Control 	FMN 	Multi-Talk 
+854.96250 	WNPJ423 	BM		SBSBMDT 	Police / Fire MDTs 	Telm 	Data 
+453.95000 	WPMA667 	RM	74.4 PL	Sheboygan WW 	Sheboygan Regional Wastewater Treatment Plant 	FMN 	Utilities 
+453.55000 	WPMA667 	M	74.4 PL	Sheboygan WW 	Sheboygan Regional Wastewater Treatment Plant 	FMN 	Utilities 
+453.20000 	KXV769 	RM	127.3 PL	Sheb Tran BU 	Sheboygan Area Transit Backup 	FMN 	Transportation 
+453.43750 	KD50781 	F		Sheb Water 	Water Utility - Data 	Telm 	Data 
+155.95500 	KLO465 	RM	365 DPL	Sheboygan Tn 	Public Works 	FMN 	Public Works 
+452.01250 	WQDE425 	F		ShebFalsData 	Water Data 	Telm 	Public Works 
+464.97500 	WPIS426 	RM	114.8 PL	Kohler Sch 	Kohler School District 	FMN 	Schools 
+464.41250 	WNXV302 	M	203.5 PL	Lakeland Col 	Lakeland College 	FMN 	Schools 
+463.50000 	WPXU631 	BM		Farnsworth M 	Farnsworth Middle School 	FMN 	Schools 
+463.50000 	WPFK641 	BM	103.5 PL	Sheb S High 	Sheboygan South High School - Security/Operations 	FMN 	Security 
+463.50000 	WQAN963 	RM	82.5 PL	Sheb N High 	Sheboygan North High School - Security/Operations 	FMN 	Security 
+464.57500 	 			Sheb Schools 	Sheboygan Area School District 	FMN 	Schools 
+464.82500 	WPUY242 	RM	203.5 PL	Sheb Mid Sch 	Farnsworth, Horace Mann, Urban Middle Schools - Maintenance 	FMN 	Schools 
+464.82500 	WPUY242 	RM	114.8 PL	Sheb Hi Sch 	North/South High Schools - Maintenance 	FMN 	Schools 
+464.82500 	WPUY242 	RM	127.3 PL	Sheb Sch Mnt 	Districtwide Maintenance 	FMN 	Schools 
+464.82500 	WPUY242 	RM	173.8 PL	Sheb ElemSch 	Cooper, Grant, Jackson, Jefferson, Lincoln-Erdman, Longfellow, Madison, Pigeon River, Sheridan, Washington, Wilson Elem. Schools 	FMN 	Schools 
+464.87500 	WQLT714 	RM	123.0 PL	ShebFallsSch 	Ops 	FMN 	Schools 
+464.60000 	WQGK551 	RM	565 DPL	UW-Sheboygan 	Security/Maintenance 	FMN 	Security 
+147.06000 	 	RM	107.2 PL	Sheboygan 	Sheboygan 	FM 	Ham 
+443.22500 	 	RM		Sheboygan 	Sheboygan 	D-STAR 	Ham 
+462.67500 	WQNX906 	RM	107.2 PL	Sheb GMRS 	Sheboygan Storm Spotters 	FM 	Other 
+Alliant Energy	 DMR Tier 3	 Various	Bertram Communications	 DMR Tier 3	 Varies	Blue Harbor Resort	 LTR Standard
+ Sheboygan	Franks Radio Service (Waldo)	 LTR Standard	 Waldo	JSM Systems (Plymouth)	 LTR Standard	 Plymouth	JSM Systems (Sheboygan)
+ LTR Standard	 Sheboygan	Sheboygan County	 Project 25 Phase I	 Various	Sigma-Aldrich Chemical Company	 LTR Standard	 Sheboygan Falls
+Wisconsin Dept of Corrections - Kettle Moraine Correctional Institution	 Motorola Type II Smartnet	 Greenbush	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	

@@ -1,0 +1,39 @@
+154.01000 	KGD479 	BM	114.8 PL	AAFD 1 Disp 	1 Station Alert (patched to 1A) 	FMN 	Fire Dispatch 
+154.34000 	KGD479 	BM	114.8 PL	AAFD 2 Patch 	2 Patch to trunked system as needed 	FMN 	Fire-Tac 
+854.58750 	WNIF748 	M	141.3 PL	AAFD 3O 	3O Fire Talkaround 	FM 	Fire-Talk 
+854.73750 	WNIF748 	M	141.3 PL	AAPD 10P 	10P Police Talkaround 	FM 	Law Talk 
+153.93500 	WPCQ540 	M	114.8 PL	MillrsvlLndf 	Millersville Landfill 	FMN 	Public Works 
+851.76250 	WPBW266 	RM	731 DPL	JennRdDetCen 	1C Jennifer Road Detention Center (JRDC) 	FM 	Corrections 
+853.83750 	WPBW266 	M	731 DPL	JRDC TA/Mnt 	2C JRDC Talkaround/Maintenance 	FM 	Corrections 
+851.46250 	WPBW266 	RM	731 DPL	OrdRdCorrCen 	3C Ordnance Road Correctional Center (ORCC) 	FM 	Corrections 
+853.32500 	WPBW266 	M	731 DPL	ORCC TA/Mnt 	4C ORCC Talkaround/Maintenance 	FM 	Corrections 
+158.83500 	KDO300 	BM		Annap PubWrk 	Public Works 	FM 	Public Works 
+464.55000 	 	M		AACPS Ops 1 	Operations Ch. 1 	FM 	Schools 
+461.31250 	 	M		AACPS Ops 2 	Operations Ch. 2 	FM 	Schools 
+465.81250 	 	M		AACPS Ops 3 	Operations Ch. 3 	FM 	Schools 
+462.71250 	 	M		AACPS Ops 4 	Operations Ch. 4 	FM 	Schools 
+458.00000 	WQAQ385 	M		Chesapke HS 	Chesapeake High Schools 	FM 	Schools 
+461.56250 	WQAQ385 	RM	CC 4TG *SL *	Meade HS 	Meade High School 	DMR 	Schools 
+151.85000 	WQCI919 	RM	CC 10TG *SL *	Gibson Is PD 	Police 	DMR 	Law Dispatch 
+456.80000 	WQWE777 	RM	CC 9TG *SL *	AACERT A UHF 	Alpha - IC/Ops (Slot 1) 	DMR 	Emergency Ops 
+456.81250 	WQWE777 	RM	CC 9TG *SL *	AACERT B UHF 	Bravo - IC/Ops (Slot 1) 	DMR 	Emergency Ops 
+464.50000 	WQWE777 	M	CC 1TG *SL *	AACERT C UHF 	Charlie - Ops 	DMR 	Emergency Ops 
+464.55000 	WQWE777 	M	CC 1TG *SL *	AACERT D UHF 	Delta - Ops 	DMR 	Emergency Ops 
+456.80000 	WQWE777 	M	CC 1TG *SL *	AACERT E UHF 	Echo - Emergency Use Only 	DMR 	Emergency Ops 
+151.51250 	WQWE777 	RM	141.3 PL	AACERT A VHF 	Alpha 	FMN 	Emergency Ops 
+151.62500 	WQWE777 	M	141.3 PL	AACERT B VHF 	Bravo 	FMN 	Emergency Ops 
+151.76000 	WQWE777 	M	141.3 PL	AACERT C VHF 	Charlie 	FMN 	Emergency Ops 
+154.52750 	WQWE777 	M	141.3 PL	AACERT D VHF 	Delta 	FMN 	Emergency Ops 
+151.51250 	WQWE777 	M	123.0 PL	AACERT E VHF 	Echo 	FMN 	Emergency Ops 
+411.83750 	 		CSQ	CG CB FD Dsp 	Fire CDO/Dispatch 	FMN 	Fire Dispatch 
+411.86250 	 		CSQ	CG CB FD/EMS 	Fire/EMS 	FMN 	Fire-Tac 
+419.90000 	 	RM	023 DPL	CGY CB Sec 	Security 	FMN 	Security 
+408.65000 	 	RM	82.5 PL	NSA Police 	Police (Encrypted) 	FMNE 	Law Dispatch 
+410.02500 	 	RM	82.5 PL	NSA Contrctr 	Contractors (Simulcast with 409.375 MHz) 	FMN 	Federal 
+409.37500 	 		82.5 PL	NSASysEng409 	Systems Engineering (Simulcast with 410.025 MHz) 	FMN 	Federal 
+417.60000 	 		82.5 PL	NSASysEng417 	Systems Engineering 	FMN 	Federal 
+Anne Arundel County	 Motorola Type II SmartZone	 Various	ARINC (BWI)	 iDEN Standard	 BWI Airport	Baltimore Gas and Electric	 iDEN Harmony
+ Various	Central Maryland Area Regional Communications Committee (CMARC)	 Project 25 Phase I	 Various	Live! Casino and Hotel	 DMR Motorola Connect Plus (TRBO)	 Hanover	Maryland Aviation Administration
+ Project 25 Phase I	 BWI Airport	Maryland Transit Administration	 Motorola Type II Smartnet	 Baltimore	R.E. Michel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Glen Burnie
+Rockwell Collins-ARINC	 TETRA Standard	 	Southwest Airlines (BWI)	 DMR Motorola Capacity Plus Single Site (TRBO)	 BWI Airport	United States Department of Defense (1B5C8-001)	 Project 25 Phase I
+ Various	

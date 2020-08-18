@@ -1,0 +1,579 @@
+857.36250 	KBJ863 	RM	205 DPL	DPSO Ch 1 800 	Old Channel 1 	FM 	Law Tac 
+854.96250 	KNBG939 	RM	205 DPL	DPSO Ch 2 800 	Old Channel 2 	FM 	Law Tac 
+856.21250 	WNRB606 	RM	023 DPL	DPSO Ch 3 800 	Former Courts (Low Power) [Ch 3/7] 	FM 	Law Talk 
+859.78750 	WNRB606 	RM	026 DPL	DPSO Ch 4 800 	Jail (Low Power) [Ch 4/8] 	FM 	Corrections 
+156.15000 	KSA436 	M		DPSO V3 SpcSrv 	Special Services (SWAT/MEG) 	FMN 	Law Tac 
+465.28750 	WQLX472 	M		DPSO Robot Vc 	Bomb Robot - Digital Voice 	P25 	Law Tac 
+460.28750 	WQLX472 	M		DPSO Robot Dt 	Bomb Robot - Data 	FMN 	Data 
+158.79000 	KSA436 	BM	131.8 PL	DIRS VHF 	Patch - DIRS VHF  	FMN 	Interop 
+158.79000 	KSA436 	BM	293 NAC	DIRS VHF P25 	Patch - DIRS VHF 	P25 	Interop 
+470.26250 	WPTK582 	RM	146.2 PL	DIRS UHF 	Patch - DIRS UHF 	FMN 	Interop 
+470.26250 	WPTK582 	RM	293 NAC	DIRS UHF P25 	Patch - DIRS UHF  	P25 	Interop 
+855.63750 	WNNO865 	RM	100.0 PL	DIRS 800 PL 	Patch - DIRS 800 MHz 	FM 	Interop 
+855.63750 	WNNO865 	RM	293 NAC	DIRS 800 NAC 	Patch - Investigations [ASTRO] 	P25 	Interop 
+769.00625 	 	M	156.7 PL	FG Orange 	Fireground Orange (FTAC1D) 	FMN 	Fire-Tac 
+453.28750 	WQBK702 	RM	271 DPL	DuP Health R 	Health Department: Security, Ops [DMR also] 	FMN 	Public Works 
+453.86250 	WPIG777 	RM	74.4 PL	DuP Wtr Com1 	Water Commission Plant Ops 1 (LP R at HQ-Elmhurst) 	FMN 	Public Works 
+453.86250 	WPIG777 	M	88.5 PL	DuP WC PacRT 	Water Commission Mobile Extenders 	FMN 	Public Works 
+453.08750 	WPXQ447 	F		DuP StrmWtr1 	Stormwater Data  	Telm 	Data 
+453.56250 	WPXQ447 	F		DuP StrmWtr2 	Stormwater Data  	Telm 	Data 
+453.66250 	WPXQ447 	F		DuP StrmWtr3 	Stormwater Data  	Telm 	Data 
+453.73750 	WPXQ447 	F		DuP StrmWtr4 	Stormwater Data (Wheaton, Elmhurst) 	Telm 	Data 
+471.25000 	WQOG306 	RM	131.8 PL	DuP Security 	County Complex Security Operations 	FMN 	Emergency Ops 
+154.96500 	KZF591 	BM	131.8 PL	DCOEM Main 	Primary Incident Command [DCOEM Main] 	FMN 	Emergency Ops 
+37.94000 	KNIW808 	BM	136.5 PL	DuP DCERN 	DuPage County Emergency Radio Network (DCERN) - some encryption 	FM 	Emergency Ops 
+155.02500 	WNQF709 	BM	123.0 PL	ESMARN 123.0 	Severe Weather Alerts, etc. (PL on base transmit only?) 	FMN 	Emergency Ops 
+154.77000 	KSA436 	M	131.8 PL	DuP EMTAC 1 	EMTAC 1 	FM 	Emergency Ops 
+155.23500 	WNXS677 	BM	131.8 PL	DuP EMTAC 2 	EMTAC 2 	FMN 	Emergency Ops 
+155.43000 	KZA229 	M	131.8 PL	DuP EMTAC 3 	EMTAC 3 	FMN 	Emergency Ops 
+45.40000 	KAV739 	BM	107.2 PL	DuP DMERS 	DuPage Medical Emergency Radio System (DMERS) 	FM 	Emergency Ops 
+45.36000 	WNQF709 	B	103.5 PL	DuP WxNet 	IEMA Weather Net 	FMN 	Emergency Ops 
+45.44000 	WPES847 	BM	103.5 PL	IEMA Tac-2 	IEMA Tac-2 	FM 	Emergency Ops 
+45.56000 	WNQF709 	B	103.5 PL	IEMA LESERN 	IEMA / LESERN  	FMN 	Emergency Ops 
+151.32500 	KNED362 	RM	210.7 PL	DuP FPD Ops1 	Operations / Police Alternate [Ch 1/2] 	FMN 	Public Works 
+159.42000 	KNED362 	M	210.7 PL	DuP FPD SE 	Special Events  	FMN 	Public Works 
+151.25000 	KNED362 	M		DuP FPD MX-O 	Police Mobile Extenders - Mobiles-to-Portables 	FMN 	Law Tac 
+151.25000 	KNED362 	M	94.8 PL	DuP FPD MX-I 	Police Mobile Extenders - Portables-to-Mobiles 	FMN 	Law Tac 
+151.70000 	 	M	67.0 PL	Wlbrk WlfHvn 	Willowbrook Wildlife Haven (Glen Ellyn) 	FMN 	Public Works 
+31.62000 	 	BM	97.4 PL	DuP FPD Ops2 	Operations 	FM 	Public Works 
+31.78000 	KNED362 	BM	97.4 PL	Dup FPD Mnt1 	Maintenance 	FM 	Public Works 
+31.82000 	KNED362 	BM	97.4 PL	Dup FPD Mnt2 	Maintenance 	FM 	Public Works 
+31.86000 	KNED362 	BM	97.4 PL	Dup FPD Mnt3 	Maintenance (Mobiles) 	FM 	Public Works 
+151.27250 	WQYQ464 	RM	71.9 PL	ACDC Fire 1 	Pleasantview, Tri-State FPDs, Westmont FD - w/SC21 TG 2712 	FMN 	Fire Dispatch 
+151.08500 	WQQQ227 	RM	77.0 PL	ACDC Fire 2 	Addison, Bensenville, Itasca and Wood Dale FPDs - w/SC21 TG 2713 	FMN 	Fire Dispatch 
+155.01000 	WRCU496 	RM	91.5 PL	ACDC Fire 3 	Future Use 	FMN 	Fire-Talk 
+854.93750 	WRAT773 	RM	722 NAC	ACDC Police 1 BU 	Back-Up for STARCOM21 ACDC Police 1 	P25 	Law Dispatch 
+855.13750 	WRAT773 	RM	722 NAC	ACDC Police 2 BU 	Back-Up for STARCOM21 ACDC Police 2 	P25 	Law Dispatch 
+471.21250 	KKN849 	RM	146.2 PL	ACDC PD Ch 7 	Itasca and Wood Dale SC21 Back-up? 	FMN 	Law Dispatch 
+154.17500 	KNGG680 	RM	151.4 PL	DUCOMM Fire N 	Bloomingdale, Carol Stream, Glen Ellyn, Glenside, Roselle, W. Chicago, Wheaton, Winfield - w/SC21 TG 2701 	FMN 	Fire Dispatch 
+154.41500 	KJD387 	RM	192.8 PL	DUCOMM Fire E 	Clarendon Hills, Elmhurst, Hinsdale, Lombard, Oak Brook, Oakbrook Terrace, Villa Park, York Center - w/SC21 TG 2704 	FMN 	Fire Dispatch 
+151.38500 	WPNU382 	RM	146.2 PL	DUCOMM Fire S 	Darien-Woodridge, Downers Grove, Lisle-Woodridge, Warrenville - w SC21 TG 2702 	FMN 	Fire Dispatch 
+154.14500 	WQOL999 	RM	118.8 PL	DUCOMM Fire W 	Bartlett and Hanover Park - w/SC21 TG 2703 	FMN 	Fire Dispatch 
+470.36250 	KZA347 	RM	146.2 PL	IFERN Patch 	Patch to IFERN Fire Mutual Aid 	FMN 	Fire-Talk 
+859.16250 	WQVV334 	RM	293 NAC	DU-COMM 8N 	Back-up to 1 North and 1 West 	P25 	Law Dispatch 
+857.68750 	WQVU619 	RM	293 NAC	DU-COMM 8E 	Back-up to 1 East and 3 East 	P25 	Law Dispatch 
+859.51250 	WQVU626 	RM	293 NAC	DU-COMM 8SE 	Back-up to 3 South 	P25 	Law Dispatch 
+858.68750 	WQVV335 	RM	293 NAC	DU-COMM 8S 	Back-up to 1 South and 7 South 	P25 	Law Dispatch 
+859.68750 	WQVV335 	RM	293 NAC	DU-COMM 8W 	Back-up to 3 West and 7 West 	P25 	Law Dispatch 
+470.31250 	KZA347 	RM	146.2 PL	DU-COMM 7 W 	Back-up for SC21 TG 2611 	FMN 	Law Dispatch 
+471.01250 	KZA347 	RM	146.2 PL	DU-COMM Ch 5 	Back-up for SC21 TG 2631 	FMN 	Law Talk 
+857.66250 	WQVU620 	RM	170 NAC	DU-COMM ENC 	Techs, others (ENC) 	P25 	Emergency Ops 
+220.81750 	WPWG466 	RM	146.2 PL	DU-COMM FSA-N 	Fire Station Alerting: North (154.175) 	FMN 	Fire Dispatch 
+220.80250 	WPWG466 	RM	107.2 PL	DU-COMM FSA-E 	Fire Station Alerting: East (154.415) 	FMN 	Fire Dispatch 
+220.83250 	WPWG466 	RM	146.2 PL	DU-COMM FSA-W 	Fire Station Alerting: West (154.145) 	FMN 	Fire Dispatch 
+220.84750 	WPWG466 	RM	146.2 PL	DU-COMM FSA-S 	Fire Station Alerting: South (151.385) 	FMN 	Fire Dispatch 
+220.91250 	WPWG466 	RM	CSQ	DU-COMM SCADA 	SCADA / Technicians Car-to-car 	FMN 	Fire-Tac 
+470.03750 	WPTK582 	RM	146.2 PL	DU-COMM ElmTac 	(Old) Elmhurst Police Tac Channel  	FMN 	Law Tac 
+470.28750 	WPTK582 	RM	146.2 PL	DU-COMM WtnTac 	(Old) Wheaton Police Tac  	FMN 	Law Tac 
+476.41250 	KZA347 	RM	146.2 PL	DU-COMM Ch 9 	Areawide Alternate (OOS?) 	FMN 	Law Tac 
+857.98750 	WNKE235 	RM		DU-COMM MDT 1 	Police Mobile Data Terminals 	Telm 	Data 
+859.48750 	WNKE235 	RM		DU-COMM MDT 2 	Police Mobile Data Terminals 	Telm 	Data 
+476.86250 	WPPW990 	RM	110.9 PL	Air Med 1 	Superior Air Med Helo SAM 1 Dispatch (Oakbrook Terrace) 	FMN 	EMS Dispatch 
+153.50000 	WPEK951 	RM	103.5 PL	MABAS Div 20 	Norcomm Fire Dispatch - MABAS Division 20 "Divisionwide" Channel 	FMN 	Fire-Tac 
+155.22000 	KEP561 	BM	94.8 PL	Superior 1 	Superior Ambulance 	FMN 	EMS-Tac 
+155.32500 	WPEK951 	BM		Superior 2 	Superior Ambulance 	FMN 	EMS-Tac 
+461.76250 	WNUP631 	RM	CC 5TG 1SL 2	CDH Security 	Security 	DMR 	Security 
+461.76250 	WNUP631 	RM	CC 5TG 21SL 1	CDH InfTech 	Information Technology? 	DMR 	Business 
+155.34000 	WNKH981 	B	141.3 PL	CDH MERCI 	Patient Reports 	FMN 	Hospital 
+464.77500 	WNUP631 	RM	CC 1TG 3SL 1	CDH Engrng 	Engineering 	DMR 	Security 
+464.77500 	WNUP631 	RM	CC 1TG 4SL 2	CDH Facilty 	Facilities? 	DMR 	Business 
+464.96250 	WNUP631 	RM	CC 2TG 5SL 1	CDH ValetPkg 	Valet Parking 	DMR 	Business 
+464.96250 	WNUP631 	RM	CC 2TG 6SL 2	CDH Shuttles 	Shuttle Busses 	DMR 	Business 
+461.75000 	WNUP631 	RM	CC 3TG 7SL 1	CDH 461750 	Operations 	DMR 	Business 
+461.95000 	WNUP631 	RM	CC 6TG 2SL 2	CDH 461950 	Operations 	DMR 	Business 
+463.76250 	WNUP631 	RM	423 DPL	CDH EVS 	Environmental Services 	FMN 	Business 
+463.25000 	WQKN458 	RM	CC 5TG 3SL 2	EDW Security 	Security 	DMRe 	Security 
+464.00000 	WQKN458 	RM	CC 3TG 3SL 2	EDW Security 	Security  	DMRe 	Security 
+464.00000 	WQKN458 	RM	CC 3TG 1SL 1	EDW Ops 	Facilities 	DMRe 	Business 
+464.05000 	WQKN458 	RM	565 DPL	EDW Facility 	Facilities  	FMN 	Business 
+464.47500 	WQKN458 	BM	85.4 PL	EDW ISSS 	ISSS / Construction 	FMN 	Business 
+155.34000 	WQLE304 	B	127.3 PL	EDW MERCI 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+462.75000 	WQGH398 	B		EDW Paging 	Paging (CSQ, Digital) 	Telm 	Data 
+461.10000 	WQBF205 	RM	CC 1TG 1000SL 1	EMH PS1 	Public Safety 	DMRe 	Security 
+451.78750 	WQKR758 	RM	CC 3TG 1000SL 1	EMH PS2 EHC 	Public Safety - simulcast w/461.100 (Edward-EHC-Hinsdale) 	DMRe 	Security 
+461.25000 	WQBF205 	RM		EMH Ops1 	Operations 	DMR 	Business 
+462.00000 	WQKR758 	M		EMH Simplex 1 	Operations - Simplex 	DMR 	Business 
+467.00000 	WQKR758 	M		EMH Simplex 2 	Operations - Simplex 	DMR 	Business 
+461.37500 	WQNM504 	RM	CC 6TG 1004SL 1	EMH Valet 	Valet Parking 	DMRe 	Business 
+461.37500 	WQNM504 	RM	CC 6TG 1005SL 2	EMH Engrs? 	Building Engineers? 	DMRe 	Business 
+463.71250 	WQBF205 	RM	CC 5TG 1000SL 1	EMH AHC PS 1 	Addison Health Center Public Safety - simulcast w/461.100 	DMRe 	Security 
+461.30000 	WQKM465 	RM		EMH LHC1 	Lombard Health Center 	DMR 	Business 
+461.87500 	WQKM465 	RM	CC 4TG 1000SL 1	EMH LHC2 PS 	Lombard Health Center Public Safety - simulcast w/461.100 	DMRe 	Security 
+452.20000 	WQKM466 	RM	CC 2TG 1000SL 1	EMH BOC1 PS 	Public Safety (Business Ops Ctr, north Elmhurst) 	DMRe 	Business 
+466.90000 	WQKM466 	M		EMH BOC2 	Business Ops Center 	DMR 	Business 
+155.34000 	KNIC339 	B	192.8 PL	EMH MERCI 	Patient Reports 	FMN 	Hospital 
+157.45000 	WQDF678 	B		EMH Paging 	Paging (Expired 2015) 	Telm 	Data 
+72.68000 	WQMA796 	B		EMH Clock 	Wireless Clock System (Elmhurst Campus) 	FM 	Data 
+461.25000 	WQBF205 	RM	85.4 PL	EMH Maint 	Maintenance - Old 	FMN 	Business 
+461.47500 	WQKQ752 	RM	CC 1TG 100SL 2	GOH Sec/Ops 	Security and operations  	DMR 	Security 
+461.47500 	WQKQ752 	RM	CC 1TG 100SL 1	GOH Engineering 	Engineering [Channel 1?] 	DMR 	Business 
+155.34000 	WQBQ646 	B	218.1 PL	GOH MERCI 	Patient Reports 	FMN 	Hospital 
+155.34000 	WQTP738 	B	107.2 PL	GSH MERCI 	Patient Reports 	FMN 	Hospital 
+464.82500 	WNAP857 	RM	162 DPL	GSH Maint/En 	Maintenance / Engineering 	FMN 	Business 
+462.13750 	WNAP857 	RM	12 RAN	GSH*PtTransp 	Patient Transportation 	NXDN 	Transportation 
+461.77500 	WNAP857 	RM	162.2 PL	GSH Maintnce 	Business/Maintenance  	FMN 	Business 
+461.77500 	WNAP857 	RM	210.7 PL	GSH Grounds 	Grounds 	FMN 	Business 
+464.65000 	WQGP779 	BM		GSH HWC Ops 	Health and Wellness Center: Paging/Ops 	FMN 	Business 
+152.00750 	WPSF609 	B		GSH Paging 	Paging 	Telm 	Data 
+464.82500 	WPPB789 	RM	156.7 PL	HHosp Security 	Security 	FMN 	Security 
+451.46250 	WPPB789 	M		HHosp Ops 1 	Operations 	FMN 	Business 
+456.46250 	WPPB789 	M		HHosp Ops 2 	Operations 	FMN 	Business 
+461.38750 	WPPB789 	RM		HHosp Ops 3 	Operations 	FMN 	Business 
+461.88750 	WPPB789 	M		HHosp Ops 4 	Operations 	FMN 	Business 
+466.88750 	WPPB789 	M		HHosp Ops 5 	Operations 	FMN 	Business 
+464.70000 	WPPB789 	RM	156 DPL	HHosp Ops 6 	Operations 	FMN 	Business 
+464.86250 	WPPB789 	RM	116 DPL	HHosp EVS 	Environmental Services (EVS) / Housekeeping 	FMN 	Business 
+155.34000 	KZU880 	B	85.4 PL	HHosp MERCI 	Patient Reports 	FMN 	Hospital 
+464.97500 	WNIN562 	M		HHosp Maint 	Maintenance (reported) 	FMN 	Business 
+462.75000 	WQNV318 	B		HHosp Paging 	Paging 	Telm 	Business 
+464.17500 	 	RM	043 DPL	MRH Security 	Security (reported) 	FMN 	Security 
+462.68750 	FRS06 	RM	072 DPL	MRH Mnt/Eng 	Maintenance / Engineering  [No License?] 	FMN 	Business 
+463.25000 	WQFW779 	RM		MRH Ops 1 	Operations 	FMN 	Business 
+464.50000 	KB72043 	M		MRH Ops 2 	Operations - Statewide Itenerant 	FMN 	Business 
+469.50000 	KB72043 	M		MRH Ops 3 	Operations - Statewide Itenerant 	FMN 	Business 
+463.35000 	WQAJ396 	RM		RML Hosp 1 	Hospital Ops 1 	FMN 	Business 
+463.81250 	WQAJ396 	RM		RML Hosp 2 	Hospital Ops 2 	FMN 	Business 
+155.84250 	WQQF637 	RM	306 DPL	BlmngdaleTwp Hwy 	Bloomingdale Township Highway Department 	FMN 	Public Works 
+151.02500 	WQQF637 	BM	115 DPL	Blmngdale TwpRds 	Bloomingdale Township Highway Department (Old) 	FMN 	Public Works 
+151.02500 	KGK645 	BM	173.8 PL	DGroveTwp Roads 	Downers Grove Township 	FMN 	Public Works 
+151.02500 	 	BM	136.5 PL	LisleTwp Roads 	Lisle Township 	FMN 	Public Works 
+45.68000 	KCK298 	BM	156.7 PL	MiltonTwp Roads 	Milton Township (Out of Service?) 	FMN 	Public Works 
+151.02500 	WNUH254 	BM	131.8 PL	NprvllTwp Roads1 	Naperville Township Roads 	FMN 	Public Works 
+151.05500 	WNUH254 	M		NprvllTwp Roads2 	Naperville Township Road Maintenance 	FMN 	Public Works 
+156.10500 	KNAZ336 	BM	151.4 PL	WayneTwp Road 	Wayne Township 	FMN 	Public Works 
+151.02500 	KFN647 	BM	114.8 PL	WinfieldTwp Road 	Winfield Township 	FMN 	Public Works 
+151.02500 	WNZL347 	BM	192.8 PL	YorkTwp Roads 	York Township 	FMN 	Public Works 
+151.17500 	KTH822 	BM		CB Mosquito 	Clarendon Blackhawk Mosquito Abatement Dist 	FMN 	Public Works 
+154.95500 	 	M		DrnWdrg FG 	Fireground [Ch 13] 	FMN 	Fire-Tac 
+460.51250 	KO4553 	M		Glsd FPD MX1 	Mobile Extenders/Portables 	FMN 	Fire-Tac 
+465.51250 	KO4553 	M		Glsd FPD MX2 	Mobile Extenders/Portables 	FMN 	Fire-Tac 
+151.32500 	 	BM		LWFPD 12 	Fire [Ch 12] (Forest Preserve District?) 	FMN 	Fire-Tac 
+151.74500 	 	BM		LWFPD 13 	Fire [Ch 13] 	FMN 	Fire-Tac 
+156.19500 	KNIF963 	BM	136.5 PL	Lisle PW 	Fire [Ch 14] (Lisle PW) 	FMN 	Fire-Tac 
+155.04000 	KNAB902 	BM		Wdrg PW 	Fire [Ch 15] (Woodridge PW) 	FMN 	Fire-Tac 
+155.92500 	 	BM		LWFPD 16 	Fire [Ch 16]  	FMN 	Fire-Tac 
+154.33250 	KSD739 	BM	156.7 PL	TriSt FDTac2 	Tac 2  	FMN 	Fire-Tac 
+155.05500 	 	M	131.8 PL	Add Police Tac-6 	Police: Tac 6 (IREACH) 	FMN 	Law Tac 
+859.66250 	WRBM329 	RM	611 NAC	Add FPD Ch. 8 	Fire Protection District [Channel 8] 	P25 	Fire-Tac 
+159.63000 	WPLV779 	BM	131.8 PL	Add PW1/PD3 	Public Works [Ch. 1] /Police [Ch. 3] 	FMN 	Public Works 
+159.63000 	WPLV779 	BM	223 DPL	Add PW Plows 	Public Works: Snow Plows 	FMN 	Public Works 
+155.10000 	KEL343 	BM		Add PubWrks2 	Public Works [Ch. 2] 	FMN 	Public Works 
+453.83750 	WNUS400 	M		Add PW Data1 	Public Works: Data 	Telm 	Data 
+458.83750 	WNUS400 	M		Add PW Data2 	Public Works: Data 	Telm 	Data 
+452.82500 	WQTV407 	F		Add PW Data 	Public Works: Wastewater Treatment Data 	FMN 	Data 
+151.23500 	KNFZ479 	BM		Addison Parks 	Park District 	FMN 	Public Works 
+155.67000 	KTD767 	M		Bart Police C2C  	Police: Car-to-Car 	NXDN 	Law Tac 
+151.29500 	WNAA359 	BM	146.2 PL	Bart PubWrks 	Public Works / Fire [Ch 5] / Park District (Villa Olivia) 	FMN 	Public Works 
+151.68500 	KB76908 	M		Bart PkDist 	Park District / Villa Olivia Ops 	FMN 	Public Works 
+151.71500 	 	M	71.9 PL	VOCC F1 	Villa Olivia Country Club (Ch 1) 	FMN 	Business 
+151.80500 	 	M	71.9 PL	VOCC F2 	Villa Olivia Country Club (Ch 2) 	FMN 	Business 
+155.16000 	 	M	71.9 PL	VOCC SkiPtrl 	Villa Olivia Ski Patrol 	FMN 	EMS-Tac 
+155.01000 	 	M		Bens Police Alt 	Police: Car-to-Car/Alternate 	FMN 	Law Tac 
+154.37000 	KDS610 	BM	103.5 PL	Bens Fire Old 	Fire: Former Dispatch (Stations/units 107-109) 	FMN 	Fire-Talk 
+158.16000 	KDX538 	RM	225.7 PL	Bens PubWrks 	Public Works / EMA / Police: Car-to-Car [Ch 3] 	FMN 	Public Works 
+453.01250 	WPFA962 	M		Bens EMA Op1 	EMA: Operations 	FMN 	Emergency Ops 
+458.01250 	WPFA962 	M		Bens EMA Op2 	EMA: Operations  	FMN 	Emergency Ops 
+155.94000 	KDX538 	BM		Bens EMA Old 	EMA: Old Channel 	FMN 	Emergency Ops 
+159.22500 	WNCA851 	BM		Bens Parks 	Park District 	FMN 	Public Works 
+462.38750 	WQNH948 	M		Bens Alarms 	Burglar and Fire Alarm Monitoring 	Telm 	Data 
+155.52000 	KDG325 	M	134 DPL	Blmd Polce c2c  	Police: Car-to-Car 	FMN 	Law Tac 
+465.20000 	 	F		Blmd Police RF  	Police: Reported link for 155.52 receive - OOS? 	FMN 	Law Tac 
+155.08500 	WNIA307 	BM	134 DPL	Blmd PubWrks/PD 	Public Works (NEXTEL also?)/ Police: Alternate 	FMN 	Public Works 
+467.92500 	 	M	226 DPL	Blmd Parks 2 	Park District - Bloomingdale Golf Club 	FMN 	Public Works 
+159.76500 	WQTV572 	F		Blmd Water Data  	Public Works - Water Collection / Treatment Data 	Telm 	Data 
+155.14500 	KXO672 	BM	CSQ	Burr Police Alt2 	Police: Alternate [Ch 2] 	FMN 	Law Talk 
+155.14500 	KXO672 	BM	141.3 PL	Burr PublicWrks  	Public Works / Police: Alternate [Ch 2] 	FMN 	Public Works 
+154.11500 	KZZ435 	BM	107.2 PL	CS Police/DPW  	Police: Secondary / Public Works 	FMN 	Multi-Talk 
+151.19750 	KZZ435 	RM	411 DPL	CS Public Works 	Public Works: Operations 	FMN 	Public Works 
+159.40500 	 	M	226 DPL	CS Park District 	Park District: Operations 	FMN 	Public Works 
+154.72500 	KSG480 	BM	146.2 PL	CH PD Alt1 	Police: Alternate 	FMN 	Law Talk 
+153.63500 	WNMG301 	RM	146.2 PL	CH PD/FD Tac 	Police and Fire: Tactical Operations 	FMN 	Multi-Tac 
+154.25000 	WNMG301 	BM	CSQ	CH Fire 250 	Fire: Coordination with Pleasantview, others 	FMN 	Fire-Talk 
+155.83500 	WQLQ950 	RM	146.2 PL	ClarHls PW/13 	Public Works, Police Alternate [Signal 13] 	FMN 	Public Works 
+154.98000 	 	M		Darien PW 1 	Public Works 	FMN 	Public Works 
+453.80000 	KSK343 	M	156.7 PL	Darien PW 2 	Public Works / Police: Car-to-Car 	FMN 	Public Works 
+470.66250 	WIM395 	RM	146.2 PL	DG Police5 	Police: Backup/Tactical/Special Ops [Ch 5] (for Downers Grove, Lisle, and Darien) 	FMN 	Law Tac 
+154.72500 	 	RM	146.2 PL	Law 154.725 	Police: Link to Westmont, Hindsdale, Oak Brook 	FMN 	Law Tac 
+156.15000 	KB52406 	M		DG PoliceTac 	Police: Car-to-Car/Tac 	FMN 	Law Tac 
+155.70750 	WQAE907 	RM	67.0 PL	DG FD Disp 	Fire: Former Dispatch (was patched to STARCOM21 TG2710) 	FMN 	Fire-Talk 
+155.23750 	 	M		DG FD Trng 	Fire: Training  	FMN 	Fire-Tac 
+472.88750 	WPQG455 	RM	146.2 PL	DG PubWrks1 	Public Works (former Police Tac 7) 	FMN 	Public Works 
+173.31250 	WQJP320 	F		DG WaterData 	Water Distribution Data  	Telm 	Data 
+462.28750 	WPYP424 	M		DG SntryDat1 	Sanitary District Data 	Telm 	Data 
+467.28750 	WPYP424 	M		DG SntryDat2 	Sanitary District Data 	Telm 	Data 
+151.22000 	 	BM	91.5 PL	DG Parks 1 	Park District (also 118.8?) 	FM 	Public Works 
+151.85000 	WQQH512 	RM	411 DPL	DG Parks 2 	Park District Ops 	FMN 	Public Works 
+159.91500 	WQQH512 	M		DG Parks 3 	Park District Ops 	FMN 	Public Works 
+160.00500 	WQQH512 	M		DG Parks 4 	Park District Ops 	FMN 	Public Works 
+160.02000 	WQQH512 	M		DG Parks 5 	Park District Ops 	FMN 	Public Works 
+160.03500 	WQQH512 	M		DG Parks 6 	Park District Ops 	FMN 	Public Works 
+160.06500 	WQQH512 	M		DG Parks 7 	Park District Ops 	FMN 	Public Works 
+457.57500 	WPGX205 	F		DG Prk WDD 1 	Water Distribution Data (Park District) 	Telm 	Data 
+457.60000 	WPGX205 	F		DG Prk WDD 2 	Water Distribution Data (Park District) 	Telm 	Data 
+458.08750 	WQEY250 	M		DG Parks LDS 	Park District: Lightning Detection System 	Telm 	Data 
+470.03750 	KZA347 	RM	146.2 PL	Elmh PD Ch.1 	Police Explorer Scout Post (noted 2012) 	FMN 	Law Tac 
+154.04000 	KSI453 	BM	146.2 PL	Elmh PW/ESDA 	Public Works / Emergency Management Agency 	FMN 	Multi-Dispatch 
+458.55000 	WGI862 	M		Elmh 458.550 	use by Cottage Hill Operating Company? (Villa Park school bus company) 	FMN 	Transportation 
+453.38750 	WNXS942 	M	CSQ	Elmh Sewer 	Sewer Operations 	FMN 	Public Works 
+465.53750 	WQDM821 	M		Elm Alarms 	Fire and Security Alarms (Digital) 	Telm 	Data 
+160.13250 	WRCH200 	M		Elmh PW WDD 	Storm Water Data (Digital) 	Telm 	Data 
+152.94500 	WQWV214 	M		Elmh PW Data 	Unknown Data (Digital) 	Telm 	Data 
+456.23750 	WQZX337 	M		Elm WaterMeter 1 	Water Meter Data (Digital) 	Telm 	Data 
+467.28750 	WQZX337 	M		Elm WaterMeter 2 	Water Meter Data (Digital) 	Telm 	Data 
+27.25500 	 	F		Elmh PkData2 	Park District Lightning Detection System (Data) 	Telm 	Data 
+460.01250 	WQGN497 	F		Elmh PkData1 	Park District Lightning Detection System (Data) 	Telm 	Data 
+159.10500 	WNNL724 	RM	100.0 PL	GE PD c2c 	Police Car-to-Car (Ch. 4?) 	FMN 	Law Tac 
+155.10000 	KCV383 	BM		GE PD c2c2 	Police Car-to-Car 	FMN 	Law Talk 
+159.10500 	WNNL724 	RM	146.2 PL	GE PubWrks 	Water/Sewer Department 	FMN 	Public Works 
+451.51250 	WPXU361 	F		GE WDD 1 	Water Distribution Data 	Telm 	Data 
+451.68750 	WPXU361 	F		GE WDD 2 	Water Distribution Data 	Telm 	Data 
+456.43750 	WPXU361 	F		GE WDD 3 	Water Distribution Data 	Telm 	Data 
+457.38750 	WPXU361 	F		GE WDD 4 	Water Distribution Data 	Telm 	Data 
+173.39625 	WQLJ275 	F		GE WDD 5 	Water Distribution Data 	Telm 	Data 
+151.47500 	WPBR393 	RM	100.0 PL	GE Park Dist 	Park District 	FM 	Public Works 
+458.08750 	 	M		GE Vlg Lnks1 	Village Links Golf Course [No License] 	FMN 	Business 
+458.66250 	 	M		GE Vlg Lnks2 	Village Links Golf Course [No License] 	FMN 	Business 
+858.21250 	WNQU865 	RM	023 DPL	GdHts Police 	Police: Former dispatch, now on STARCOM21 	FM 	Law Dispatch 
+155.14500 	KNIN328 	BM	88.5 PL	GDH PubWrks 	Public Works / Police: Alternate [Channel 3] 	FMN 	Public Works 
+451.63750 	WPPV841 	M		GDH WDD 1 	Water Distribution Data - Golf Course? 	Telm 	Data 
+456.63750 	WPPV841 	M		GDH WDD 2 	Water Distribution Data - Golf Course? 	Telm 	Data 
+155.52000 	KNJG559 	BM	134 DPL	HnPk PD c2c 	Police Car-to-Car/Alternate [Ch 5] 	FMN 	Law Tac 
+453.91250 	 	M	103.5 PL	HnPk Fire MX 	Fire Mobile Extenders [No License]  	FMN 	Fire-Tac 
+155.89500 	KLK463 	BM	146.2 PL	HnPk PubWrks 	Public Works 	FMN 	Public Works 
+151.65500 	WPLP856 	BM		HnPk Parks 	Park District: Maintenance/Security 	FMN 	Public Works 
+155.68500 	WPEY973 	RM	167.9 PL	Hins PD L17 	Police Car-to-Car [Lincoln 17] 	FMN 	Law Tac 
+154.72500 	KSA668 	BM	146.2 PL	Hins Police 	Police Dispatch - Old 	FMN 	Law Talk 
+154.08500 	KBV882 	BM	118.8 PL	Hins Sanit/P 	Sanitary District / Police Tac [Lincoln 16] 	FMN 	Public Works 
+154.98000 	WQB813 	BM	118.8 PL	Hins PubWrks 	Public Works [Expired, still in use?] 	FMN 	Public Works 
+153.01250 	WQJR859 	F		Hinsdale WDD 	Water Distribution Data 	Telm 	Data 
+471.21250 	WIG734 	RM	146.2 PL	ItascaPD Alt 	Police Alternate, can be patched to STARCOM21 TG2634 (WdDl-Itasca 2)  	FM 	Law Talk 
+155.80500 	KNES303 	BM	732 DPL	Itasca PubWk 	Public Works / Police: Alternate 	FMN 	Public Works 
+453.76250 	WQTD835 	F		Itasca WDD 	Water Distribution Data 	Telm 	Data 
+453.51250 	WQKR469 	RM	146.2 PL	Lisle EMA 	Emergency Management 	FMN 	Emergency Ops 
+156.19500 	KNIF963 	RM	136.5 PL	Lisle PubWrk 	Public Works [Ch 14] 	FMN 	Public Works 
+156.19500 	KNIF963 	RM	146.2 PL	Lisle PW Plows 	Public Works: Snow Plowing 	FMN 	Public Works 
+151.14500 	WPMP985 	BM		Lisle Parks 	Park District [Expired 2003] 	FMN 	Public Works 
+155.10000 	WNUJ407 	BM	146.2 PL	Lombard PD/FD 4 	Police: Car-to-Car / Fire [Ch 4] 	FMN 	Public Works 
+476.71250 	WIJ440 	RM	146.2 PL	Lombard Police 7 	Police: Tac [Ch 7] 	FMN 	Law Tac 
+155.10000 	WNUJ407 	BM	146.2 PL	Lombard PubWrks 	Public Works 	FMN 	Public Works 
+156.60000 	 	M		Marine 12 	Park District Water Park Ops 	FM 	Public Works 
+451.03750 	WPZF536 	F		Lombard WDD 1 	Water Distribution Data 	Telm 	Data 
+956.25625 	WQHD245 	F		Lombard WDD 2 	Water Distribution Data 	Telm 	Data 
+151.26500 	WNWR520 	RM	146.2 PL	Lom Park/OEM/PW 	Park District, PW. OEM Ops [LESTAC] 	FMN 	Multi-Dispatch 
+857.26250 	WNDN290 	RM		Nap Police Local 	Police (OpenSky/NFM) 	FMN 	Public Works 
+774.48750 	WQNI411 	RM		Nap Police MX 1 	Police: Mobile Extenders 	FMN 	Multi-Tac 
+774.73750 	WQNI411 	RM		Nap Police MX 2 	Police: Mobile Extenders 	FMN 	Multi-Tac 
+154.96500 	KDL980 	BM		Naper EMA 	EMA Operations 	FMN 	Emergency Ops 
+154.10000 	KDL908 	BM		Naper EMA Tac 	EMA Tac / Snow Plows 	FMN 	Emergency Ops 
+155.76000 	WPGA221 	RM		Naper EMA R 	EMA / Link To Will County OEM 	FMN 	Emergency Ops 
+451.53750 	WQKM364 	M		Naper Utility 1 	Utility Crews 	FMN 	Public Works 
+452.31250 	WQKM364 	M		Naper Utility 2 	Utility Crews 	FMN 	Public Works 
+155.61000 	KQS779 	RM		Naper Parks 	Naperville Park District - 114.8 PL? 	FMN 	Public Works 
+464.90000 	WPYN407 	M		Naper Library 1 	Naperville Public Library 	FMN 	Public Works 
+469.90000 	WPYN407 	M		Naper Library 2 	Naperville Public Library 	FMN 	Public Works 
+155.80500 	KSS828 	M	107.2 PL	OB Police 4 	Altenate [Code 4] 	FMN 	Law Tac 
+158.73000 	WPLH456 	BM	146.2 PL	OB Police 5 	Car-to-Car/Alternate [Code 5] 	FMN 	Law Tac 
+155.80500 	KSS828 	RM	162.2 PL	OB PubWrks 	Public Works 	FMN 	Public Works 
+456.33750 	WQRY625 	F		OkBrk WDD 	Water Distribution Data  	Telm 	Data 
+159.28500 	 	M		OB Parks 	Park District  	FMN 	Public Works 
+472.81250 	WII608 	RM	146.2 PL	OBT Police 6 	Police Alternate [Ch 6] 	FMN 	Law Tac 
+154.11500 	KGL362 	RM	146.2 PL	OBT PW/Fire 	Public Works / Fire: Alternate [F-2] 	FMN 	Public Works 
+159.25500 	WPBC281 	RM		OBT Parks 	Park District [licensed cancelled] 	FM 	Public Works 
+477.60000 	KAY934 	RM		Rosl PD Tac 	Police Tactical 	FMN 	Law Tac 
+155.52000 	WPWF432 	M	134 DPL	Rosl PD Alt 	Police Alternate 	FMN 	Law Tac 
+471.18750 	KAY934 	RM	146.2 PL	Rosl PD Locl 	Police Alternate, can be patched to STARCOM21 TG2684 (Roselle Local) 	FMN 	Law Talk 
+155.71500 	KRV360 	BM	134 DPL	Rosl PubWrks 	Public Works 	FMN 	Public Works 
+151.37000 	KNEZ578 	BM	82.5 PL	Rosl Park/PD 	Park District / Police Car-to-Car [Ch 5] 	FM 	Multi-Tac 
+453.63750 	WPAI921 	M		Rosell WDD 	Water Distribution Data 	Telm 	Data 
+154.04000 	WNVD902 	BM	110.9 PL	VPark PubWrk 	Public Works / Police Alternate 	FMN 	Public Works 
+956.31875 	WPOQ945 	M		VillaPrk WDD 	Water Distribution Data 	Telm 	Data 
+154.00250 	WPWX243 	BM	97.4 PL	Wnvl PW/c2c 	Public Works / Police Car-to-Car 	FMN 	Public Works 
+155.74500 	 	M	97.4 PL	Wnvl PW OLD 	Public Works / Police Car-to-Car (Old) 	FM 	Public Works 
+452.52500 	WPQE585 	M		Wnvl WDD 2 	Water Distribution Data 	Telm 	Data 
+155.01000 	KSE459 	BM	107.2 PL	WC PoliceAlt 	Police Alternate 	FMN 	Law Tac 
+155.88000 	KDG299 	RM	107.2 PL	WC PW/ESDA 	Publc Works / ESDA (131.8 in) 	FMN 	Multi-Dispatch 
+451.21250 	WPMJ211 	M		WChicago WDD 	Water Distribution Data 	Telm 	Data 
+154.81500 	KA7241 	M	100.0 PL	Wstm PD Tac5 	Police Tac 5 (Fiat 2 - Task Force) 	FMN 	Law Tac 
+154.65000 	 	M		Wstm PD TacA 	Police Tac 	FMN 	Law Tac 
+155.68500 	KBJ838 	M		Wstm PD TacB 	Police Tac 	FMN 	Law Tac 
+154.72500 	KBJ838 	RM	192.8 PL	Wstm V PW/EMA 	Public Works / Emergency Management [aka Tac 5?] 	FMN 	Multi-Tac 
+451.40000 	 	M		Wstm EMA Tac 	EMA Tac 	FMN 	Emergency Ops 
+158.74500 	KRX374 	BM	192.8 PL	Wstm EMA/PD2 	EMA / Police Tac 2 "Adam" 	FMN 	Emergency Ops 
+158.83500 	 	M		Wstm EMA Tac 	EMA / Police Tac 	FMN 	Emergency Ops 
+855.63750 	WNNO865 	RM	722 NAC	Wstm 8 PW/EMA 	Public Works / Emergency Management 	P25 	Emergency Ops 
+155.14500 	KRX374 	F	192.8 PL	Wstm PD Tac1 	Public Works / Police Tac 1 	FMN 	Public Works 
+453.21250 	WPAU934 	BM		Westmont WDD  	Water Distribution Data 	FMN 	Data 
+151.41500 	WNLI532 	BM		Westmont Parks  	Park District 	FMN 	Public Works 
+153.92000 	KDP453 	BM	118.8 PL	Whtn PublicWorks 	Public Works 	FMN 	Public Works 
+159.22500 	 	M	134 DPL	Whtn CosleyFarm 	Cosley Animal Farm 	FMN 	Public Works 
+151.22000 	KJP469 	BM	91.5 PL	WhtnPark Maint 	Maintenance 	FMN 	Public Works 
+151.23500 	KJP469 	M	131.8 PL	Whtn Park CC 	Community Center / Rice Pool 	FMN 	Public Works 
+151.49000 	 	M	131.8 PL	Whtn AqatCtr 	Aquatic Center - Rice Pool 	FMN 	Public Works 
+475.12500 	WQLC220 	M		Wbrk Police Tac  	Police: Side Band / Tac 	FMN 	Law Tac 
+472.12500 	WQLC220 	RM		Wbrk Police P2P  	Police: Point-to-Point 	FMN 	Law Talk 
+155.43000 	 	BM	107.2 PL	Wbrk Police Alt  	Police Alternate 	FMN 	Law Tac 
+154.87500 	 	BM	103.5 PL	Wbrk Police c2c  	Police Car-to-car 	FMN 	Fire-Tac 
+155.14500 	 	BM		Wbrk PublicWorks 	Public Works 	FMN 	Public Works 
+154.04000 	KNP547 	BM	74.4 PL	Wnfld PubWrk 	Public Works / Police Alternate 	FMN 	Public Works 
+471.07500 	WQNN818 	RM		Wnfld EMA 	Emergency Management 	FMN 	Emergency Ops 
+471.21250 	WIG734 	RM	146.2 PL	WdDl PD Alt 	Police Alternate, can be patched to STARCOM21 TG2634 (WdDl-Itasca 2) 	FMN 	Law Talk 
+46.58000 	WPCY401 	BM	110.9 PL	WdDl PubWrks 	Public Works 	FMN 	Public Works 
+451.12500 	WPRX560 	M		WdDale WDD 	Water Distribution Data 	Telm 	Data 
+856.46250 	WNCD989 	RM	103.5 PL	Wdrg PW 1 	Public Works / Building - Primary 	FMN 	Public Works 
+857.46250 	WNCD989 	RM	103.5 PL	Wdrg PW 2 	Public Works / Building - Alternate? 	FMN 	Public Works 
+155.04000 	KNAB902 	BM	127.3 PL	Wdrg PW/PD 	Public Works, Police Alternate [Signal 3] 	FMN 	Public Works 
+159.71250 	WQGY703 	M		Wdrg PW WDD 	Water Distribution Data  	Telm 	Public Works 
+151.92500 	WQEW719 	M		7 Bridges 1 	Woodridge Park District - Seven Bridges Golf Club Ops 	FMN 	Public Works 
+154.54000 	WQIW719 	M		7 Bridges 2 	Woodridge Park District - Seven Bridges Golf Club Ops 	FMN 	Public Works 
+462.62500 	FRS/GMRS 	M	127.3 PL	ARC 18 	Woordridge Park District - Athletic Recreation Center (ARC) Ops 	FMN 	Public Works 
+462.66250 	FRS/GMRS 	M	136.5 PL	ARC 5 	Woordridge Park District - Athletic Recreation Center (ARC) Ops 	FMN 	Public Works 
+461.68750 	WQNX650 	RM		Cook IL 2 	Cook Illinois School Bus (Carol Stream) 	FMN 	Business 
+453.45000 	WPMP527 	RM	243 DPL	Ctg Hl Bus 	Cottage Hill Operating Co. (using Elmhurst D205 license) 	FMN 	Business 
+458.55000 	WGI862 	F		Ctg Hl Bus 2 	Cottage Hill Operating Co. (using City of Elmhurst license) 	FMN 	Business 
+451.32500 	WPUC550 	RM	CC 6TG *SL *	FS Bus Wstmt 	First Student - Westmont Yard 	DMR 	Business 
+451.93750 	WPUA366 	RM	306 DPL	FS Bus GE 1 	First Student - Glen Ellyn [Ch 1 Big Busses] 	FMN 	Business 
+452.00000 	WPUC550 	RM	CC 1TG 22SL 1	FS Bus Wstmt 2 	First Student - Westmont Yard (Ch. 2 - Special Ed Buses) 	DMR 	Business 
+452.00000 	WPUC550 	RM	CC 1TG 21SL 2	FS Bus Wstmt 1 	First Student - Westmont Yard (Ch. 1 - Big Buses) 	DMR 	Business 
+453.00000 	WPUC550 	RM	CC 14TG 142SL 2	FS Wstmnt 142 	First Student - Westmont Yard / PACE Contracts 	DMR 	Business 
+453.00000 	WPUC550 	RM	CC 14TG 141SL 1	FS Wstmnt 141 	First Student - Westmont Yard / "Southeast Base" 	DMR 	Business 
+464.25000 	WPUP635 	RM	306 DPL	FS Bus Btva 	First Student - Batavia Yard (West Chicago D33)  	FMN 	Business 
+477.33750 	WPWK635 	RM		FS Bus DPag1 	First Student 	FMN 	Business 
+477.82500 	WPWK635 	RM		FS Bus DPag2 	First Student 	FMN 	Business 
+477.88750 	WPWK635 	RM	156.7 PL	FS Bus Npvl 	First Student - Naperville Yard / PACE Contracts 	FMN 	Business 
+477.91250 	WPWK635 	RM	173.8 PL	FS Bus Ykvl 	First Student - Yorkville Yard? 	FMN 	Business 
+478.58750 	WPWK635 	RM		FS Bus DPag3 	First Student  	FMN 	Business 
+854.41250 	WPIT844 	RM	162.2 PL	FS Bus VlPk1 	First Student - Villa Park [Ch 1 Big Buses] 	FM 	Business 
+855.31250 	KNGL509 	RM	156.7 PL	FS Bus VlPk2 	First Student - Villa Park (Ch 2? Special Ed Buses) 	FM 	Business 
+463.26250 	WQMG699 	RM	074 DPL	ICSB CarStr1 	Illinois Central School Bus (Carol Stream Yard) 	FMN 	Business 
+859.83750 	KNHY629 	RM		SeptranBus 	Lombard and Naperville bases - single ch LTR 	FM 	Business 
+452.75000 	WQBL555 	RM		Westway 2 	Westway Coach 	FMN 	Business 
+461.55000 	WQBL555 	RM	156 DPL	Westway 3 	Westway Coach (Richlee Vans?) 	FMN 	Business 
+461.17500 	WPOC481 	RM	CC 11TG 115SL 1	Addison Dist 4 	Maintenance Operations 	DMR 	Schools 
+452.06250 	WQQZ355 	M		BensElem 1 	Blackhawk Middle School Ch. 1 	FMN 	Schools 
+452.38750 	WQQZ355 	M		BensElem 2 	Blackhawk Middle School Ch. 2 	FMN 	Schools 
+451.48750 	WQQZ355 	M		BensElem 3 	Mohawk/Johnson Schools Ch. 1 	FMN 	Schools 
+452.78750 	WQQZ355 	M		BensElem 4 	Mohawk/Johnson Schools Ch. 2 	FMN 	Schools 
+451.58750 	WQQZ355 	M		BensElem 5 	Tioga School Ch. 1 	FMN 	Schools 
+452.81250 	WQQZ355 	M		BensElem 6 	Tioga School Ch. 2 	FMN 	Schools 
+155.29500 	WPQF648 	BM	311 DPL	BensElem Bus 	Buses (200s), same tone as Fenton District 100 	FMN 	Schools 
+155.29500 	KXL240 	BM		BrRdg SchBus 	Buses [expired 5/14] 	FMN 	Schools 
+452.71250 	WQHT566 	RM		BrRdgSchOps1 	Operations [expired 11/17] 	FMN 	Schools 
+464.88750 	WQHT566 	RM		BrRdgSchOps2 	Operations [expired 11/17] 	FMN 	Schools 
+463.52500 	WPLJ266 	BM		Cass Schools 	Prairieview Elementary (Downers Grove) 	FMN 	Schools 
+466.07500 	WQTU835 	M	065 DPL	ParkView School 	Park View Elementary School (Glen Ellyn) 	FMN 	Schools 
+464.11250 	WQTU835 	RM	CC 4TG *SL *	CCSD89 BGES 	Briar Glen Elementary School (Wheaton) 	DMR 	Schools 
+464.13750 	WQTU835 	RM	CC 5TG *SL *	CCSD89 PVES 	Park View Elementary School (Glen Ellyn) 	DMR 	Schools 
+464.16250 	WQTU835 	RM	CC 2TG *SL *	CCSD89 GCMS 	Glen Crest Middle School (Glen Ellyn) 	DMR 	Schools 
+464.23750 	WQTU835 	RM	CC 3TG *SL *	CCSD89 HQ 	District Headquarters (Glen Ellyn) 	DMR 	Schools 
+461.78750 	WPRU206 	RM	712 DPL	DG N HS Security 	Downers Grove N HS: Security/Administration 	FMN 	Schools 
+464.97500 	WPRU206 	RM	136.5 PL	DG N HS Main't 	Downers Grove N HS: Maintenance 	FMN 	Schools 
+452.67500 	WPRU206 	RM	565 DPL	DG N HiSch 3 	Downers Grove N HS 	FMN 	Schools 
+464.31250 	WRDU445 	RM	351 DPL	DGS Security 	Downers Grove S HS: Security/Administration 	FMN 	Schools 
+464.92500 	KXV793 	RM	271 DPL	DG S HiSch 7 	Downers Grove S HS: Maintenance 	FMN 	Schools 
+466.27500 	WQQU623 	M	115 DPL	C.Stream ES 	Carol Stream Elementary School (Carol Stream) 	FMN 	Schools 
+466.35000 	WQQU623 	M	054 DPL	CloverdaleES 	Cloverdale Elementary School (Carol Stream) 	FMN 	Schools 
+466.27500 	WQQU623 	M	043 DPL	HrtgLks ES 	Heritage Lakes Elementary School (Carol Stream) 	FMN 	Schools 
+466.17500 	WQQU623 	M	023 DPL	JayStream MS 	Jay Stream Middle School (Carol Stream) 	FMN 	Schools 
+466.22500 	WQQU623 	M	031 DPL	Statford MS 	Stratford Middle School (Bloomingdale) 	FMN 	Schools 
+466.32500 	WQQU623 	M	125 DPL	DeShane ES 	Roy DeShane Elementary School (Carol Stream) 	FMN 	Schools 
+466.30000 	WQQU623 	M		Johnson MS 	Elsie C. Johnson Middle School (Hanover Park) 	FMN 	Schools 
+157.47000 	WQPD802 	BM		CCSD 93 page 	Paging? @ district offices 	Telm 	Data 
+151.83500 	KNDK264 	BM	223 DPL	DSD61 Bus 	Bus Operations 	FMN 	Schools 
+464.42500 	 	RM		DGrove SD 58 	Downers Grove School District 58 (unlicensed) 	FM 	Schools 
+461.97500 	WQFR980 	RM	251 DPL	WlwbkHSadmin 	Willowbrook High School: Admin/Security (Villa Park) 	FMN 	Schools 
+461.97500 	WQFR980 	RM	261 DPL	WllwbkHSmnt 	Willowbrook High School: Maintenance (Villa Park) 	FMN 	Schools 
+461.45000 	WQFR980 	RM	261 DPL	ATHS Admin 	Addison Trail High School: Admin/Maintenance (Addison) 	FMN 	Schools 
+461.80000 	WPWB765 	RM	411 DPL	York HiSch 1 	York High School [Ch 1] 	FMN 	Schools 
+462.05000 	WNGM763 	RM	186.2 PL	York HiSch 2 	York High School [Ch 2] (Expired 2001) 	FMN 	Schools 
+462.05000 	WPTN671 	RM	186.2 PL	D205 Maintenance 	Elmhurst School District 205: Maintenance (Expired 2011) 	FMN 	Schools 
+466.30000 	WPWB765 	M	023 DPL	D205 Bryan MS 	Bryan Middle School 	FMN 	Schools 
+466.12500 	WPWB765 	M	132 DPL	D205 Churchville 	Churchville Middle School (and Jefferson School?) 	FMN 	Schools 
+466.20000 	WPWB765 	M	047 DPL	D205 Sandburg MS 	Sandburg Middle School 	FMN 	Schools 
+466.35000 	WPWB765 	M	025 DPL	D205 Madison EC 	Madison Early Childhood Education Center 	FMN 	Schools 
+466.15000 	WPWB765 	M	071 DPL	D205 Edison 	Edison Elementary School 	FMN 	Schools 
+466.25000 	WPWB765 	M	032 DPL	D205 Emerson 	Emerson Elementary School 	FMN 	Schools 
+466.22500 	WPWB765 	M	043 DPL	D205 FieldJacksn 	Field and Jackson Elementary Schools 	FMN 	Schools 
+466.32500 	WPWB765 	M	026 DPL	D205 Hawthorne 	Hawthorne Elementary School 	FMN 	Schools 
+466.17500 	WPWB765 	M	051 DPL	D205 Lincoln 	Lincoln Elementary School 	FMN 	Schools 
+461.90000 	WQTN615 	RM	351 DPL	Fenton HS 1 	Security and Administration 	FMN 	Security 
+464.42500 	WQTN615 	RM	431 DPL	Fenton HS 2 	Operations 	FMN 	Schools 
+155.29500 	KNJW983 	BM	311 DPL	FentonHS Bus 	Buses (100s), same tone as Bensenville District 2 	FMN 	Schools 
+464.01250 	WQLF754 	RM	CC 10TG 1SL 2	GEDist41 HJHS 	Glen Ellyn School District 41 - Hadley Junior High School 	DMRE 	Schools 
+464.21250 	WQLF754 	RM	CC 12TG 1SL 2	GEDist41 BFES 	Glen Ellyn School District 41 - Benjamin Franklin Elementary School 	DMRE 	Schools 
+464.66250 	WQLF754 	RM	CC 14TG 1SL 2	GEDist41 ALES 	Glen Ellyn School District 41 - Abraham Lincoln Elementary School 	DMRE 	Schools 
+464.76250 	WQLF754 	RM	CC 8TG 1SL 2	GEDist41 FGES 	Glen Ellyn School District 41 - Forest Glen Elementary School and/or District Office 	DMRE 	Schools 
+451.83750 	WPWL640 	RM	365 DPL	GBN 1 	Glenbard North HS 	FMN 	Schools 
+452.43750 	WPWL640 	RM	624 DPL	GBN 2 	Glenbard North HS - Security, Admin 	FMN 	Schools 
+452.35000 	WPWL640 	RM	1 RAN	GBS Admin/Maint 	Glenbard South HS - Admin / Maintenance 	NXDN 	Schools 
+451.90000 	WPWL640 	RM	2 RAN	GBS Athletics 	Glenbard South HS - Athletics 	NXDN 	Schools 
+463.23750 	WPWL640 	RM	CC 4TG 1SL 2	GBE Admin 	Glenbard East HS - Administration? 	DMRE 	Schools 
+461.53750 	WPWL640 	RM	CC 2TG 1SL 1	GBE Ops 	Glenbard East HS - Operations 	DMRE 	Schools 
+461.53750 	WPWL640 	RM	CC 2TG 1SL 2	GBE Maint 	Glenbard East HS - Maintenance? 	DMRE 	Schools 
+452.50000 	WPTS788 	RM	CC 5TG 1SL 1	GBW Admin 	Glenbard West HS - Administration 	DMR 	Schools 
+464.90000 	WPRK916 	RM	CC 3TG 1SL 1	GBW Maint 	Glenbard West HS - Maintenance 	DMR 	Schools 
+159.65250 	WQPX464 	BM	226 DPL	Gower Sch 1 	Gower School District - Buses 	FMN 	Schools 
+152.29250 	WQIH834 	RM	CC 1TG 1100SL 1	Hins C HS 1 	Central High School: Safety/Admin (Hinsdale) 	DMR 	Schools 
+152.99750 	WQIH834 	RM		Hins C HS 2 	Central High School (Hinsdale)  	FMN 	Schools 
+152.46500 	WPMJ767 	RM	466 DPL	Hins C HS 3 	Central High School (Hinsdale): Maintenance 	FMN 	Schools 
+154.49000 	WQFT726 	RM	155 DPL	Hins C HS 1 	Central High School: Security (OOS?) 	FMN 	Schools 
+152.40500 	WQPU750 	RM	072 DPL	Hins S HS 1 	South High School: Safety/Maintenance (Darien) 	FMN 	Schools 
+152.37500 	WPOX778 	RM		Hins S HS 2 	South High School (Darien) 	FMN 	Schools 
+463.96250 	 	RM	110.9 PL	Hins S HS4 	South High School? (unlicensed) 	FMN 	Schools 
+462.07500 	WPRX231 	BM		IPSD Ops Au1 	Operations (Aurora-Kane) 	FMN 	Schools 
+462.40000 	WPRX231 	BM		IPSD Ops Au2 	Operations (Aurora-Kane) 	FMN 	Schools 
+461.90000 	WPRX231 	BM		IPSD Ops Np1 	Operations (Naperville-DuPage) 	FMN 	Schools 
+464.60000 	WPRX231 	BM		IPSD Ops Np2 	Operations (Naperville-DuPage) 	FMN 	Schools 
+464.01250 	WQKM844 	RM	411 DPL	MVHS Ops A 	Metea Valley High School: Ops / Hall Monitors (Aurora) 	FMN 	Schools 
+464.65000 	WQKL542 	BM		MVHS Ops B 	Metea Valley High School 	FMN 	Schools 
+466.06250 	 	M	031 DPL	Benson Sch 	Benson Primary School (9/2015) 	FMN 	Schools 
+462.48750 	 	M	311 DPL	Franzen Sch 	Franzen Intermediate School (9/2015) 	FMN 	Schools 
+462.56250 	 	M	225.7 PL	Peacock Sch 	Peacock Middle School (9/2015) 	FMN 	Schools 
+451.38750 	WPZT531 	RM	445 DPL	LkPrk E HS 1 	Lake Park East High School: Hall Monitors, Admin 	FMN 	Schools 
+451.73750 	WPTZ531 	RM	306 DPL	LkPrk E HS 2 	Lake Park East High School: Operations 	FMN 	Schools 
+451.31250 	WPZT531 	RM	732 DPL	LkPrk W HS 1 	Lake Park West High School: Hall Monitors, Admin 	FMN 	Schools 
+451.76250 	WPTZ531 	RM	712 DPL	LkPrk W HS 2 	Lake Park West High School: Operations 	FMN 	Schools 
+464.52500 	WPZT531 	M		LkPrkHS Op1  	High School Operations 	FMN 	Schools 
+468.80000 	WPTZ531 	M		LkPrkHS Op2 	High School Operations 	FMN 	Schools 
+468.85000 	WPZT531 	M		LkPrkHS Op3 	High School Operations 	FMN 	Schools 
+468.90000 	WPZT531 	M		LkPrkHS Op4 	High School Operations 	FMN 	Schools 
+469.05000 	WPZT531 	M		LkPkHS Op5 	High School Operations 	FMN 	Schools 
+451.72500 	WRDB312 	RM	CC 5TG *SL 1	Lomb 44 D-Wide 	District Wide [Channel 1] 	DMR 	Schools 
+451.72500 	WRDB312 	RM	CC 5TG *SL 2	Lomb 44 B and G 	Buildings and Grounds [Channel 2} 	DMR 	Schools 
+152.98250 	WQMX984 	RM		MaercSchOps 	Operations 	NXDN 	Schools 
+155.17500 	WQXE418 	BM	60 RAN	MaercSchBus 	Buses (NXDN9600) 	NXDN 	Schools 
+464.67500 	WQKJ607 	RM	97.4 PL	MarqSchMaint 	Maintenance 	FMN 	Schools 
+463.31250 	WQKJ607 	M		MarqSch BG2 	Buildings and Grounds 	FMN 	Schools 
+463.36250 	WQKJ607 	RM		MarqSch BG3 	Buildings and Grounds 	FMN 	Schools 
+463.46250 	WQKJ607 	M		MarqSch BG4 	Buildings and Grounds 	FMN 	Schools 
+463.66250 	WQKJ607 	M		MarqSch BG6 	Buildings and Grounds 	FMN 	Schools 
+463.76250 	WQKJ607 	M		MarqSch BG7 	Buildings and Grounds 	FMN 	Schools 
+463.48750 	WQKJ607 	M	77.0 PL	BlkhwkElmntr 	Blackhawk Elementary School (Glendale Heights) 	FMN 	Schools 
+463.91250 	 	M	91.5 PL	WinnebagoSch 	Winnebago Elementary School [No License] 	FM 	Schools 
+467.76250 	WQOL259 	M		D203 Ops 1 	Operations (Portables) 	FMN 	Schools 
+467.81250 	WQOL259 	M		D203 Ops 2 	Operations (Portables) 	FMN 	Schools 
+467.82500 	WQOL259 	M		D203 Ops 3 	Operations (Portables) 	FMN 	Schools 
+467.87500 	WQOL259 	M		D203 Ops 4 	Operations (Portables) 	FMN 	Schools 
+464.21250 	WNVH251 	RM		QBeeSch Ops1 	Operations  	FMN 	Schools 
+452.31250 	WQSC675 	M	174 DPL	GlenHillSchool 	Glen Hill Elementary School 	FMN 	Schools 
+464.31250 	 	M	311 DPL	Glenside MS 	Glenside Middle School 	FMN 	Schools 
+468.66250 	WNVH251 	M		QBeeSch Ops2 	Portables 	FMN 	Schools 
+151.52000 	WQJP887 	M	411 DPL	SaltCrk Sch  	Salt Creek School? (Elmhurst) 	FMN 	Schools 
+151.74500 	WQJP887 	M	156 DPL	Albright MS 	Albright Middle School (Villa Park) 	FMN 	Schools 
+151.86500 	WQJP887 	RM	445 DPL	AlbrightMS R 	Albright Middle School (Villa Park) 	FMN 	Schools 
+151.98500 	WQJP887 	M	411 DPL	Swartz School 	Stella May Swartz School (Oakbrook Terrace) 	FMN 	Schools 
+152.87000 	WQJP887 	M	051 DPL	SaltCreek School 	Salt Creek School (Elmhurst) 	FMN 	Schools 
+154.49000 	WQJP887 	M		SCrk Sch Op5 	Operations 	FMN 	Schools 
+451.50000 	WPXB358 	RM	CC 12TG 104SL 2	Bartlett HS Ops 	Bartlett High School: Operations 	DMR 	Schools 
+452.72500 	WPXB358 	RM	CC 6TG 12SL 1	Bartlett HS Admn 	Bartlett High School: Channel 1 - Administration 	DMR 	Schools 
+452.72500 	WPXB385 	RM	CC 6TG 22SL 2	Bartlett HS Mntc 	Bartlett High School: Channel 2 - Maintenance 	DMR 	Schools 
+461.17500 	WQXB358 	RM	CC 6TG 32SL 1	Bartlett HS TG32 	Bartlett High School: Operations (Athletics?) 	DMR 	Schools 
+47.46000 	KUV670 	BM	127.3 PL	U-46 Bus 47.46 	Buses [Ch 1?] 	FM 	Schools 
+47.62000 	KUV670 	BM	127.3 PL	U-46 Bus 47.62 	Buses [Ch 2?] 	FM 	Schools 
+463.85000 	WPKP672 	RM	165 DPL	VP Dist 45 	Villa Park School Dist 45 - Administrative Channel 	FMN 	Schools 
+464.55000 	 	M	67.0 PL	D45 Jackson MS 	Jackson Middle School 	FMN 	Schools 
+151.80500 	WPWF932 	RM	67.0 PL	WCHSD Sec 	High School: Security 	FMN 	Schools 
+152.30000 	WPWF932 	RM	365 DPL	WCHSD Maint 	High School: Maintenance 	FMN 	Schools 
+152.87000 	WPWF932 	RM		WCHSD Ops1 	High School (corrected) 	FMN 	Schools 
+151.83500 	 	M	67.0 PL	WCHSD Ops2 	High School  	FMN 	Schools 
+464.25000 	WPUP635 	RM	306 DPL	WCDist33Bus 	First Student Bus (Batavia Yard?) 	FMN 	Schools 
+464.58750 	WQLH526 	RM		WCDist33 1 	West Chicago Dist. 33 repeater 	DMR 	Schools 
+452.71250 	WQLH526 	M		WCDist33 2 	West Chicago Dist. 33 simplex 	FMN 	Schools 
+462.18750 	WQLH526 	M		WCDist33 3 	West Chicago Dist. 33 simplex 	FMN 	Schools 
+467.51250 	WQLH526 	M		WCDist33 4 	West Chicago Dist. 33 simplex 	FMN 	Schools 
+467.81250 	WQLH526 	M		WCDist33 5 	West Chicago Dist. 33 simplex 	FMN 	Schools 
+471.68750 	WIK614 	RM	107.2 PL	WWSD Crisis 	Crisis Channel - Emergency Incidents/Notifications 	FMN 	Schools 
+463.27500 	WPRJ471 	BM		WWHMS Crisis 	Hubble Middle School: Crisis Management [Terminated] 	FMN 	Schools 
+451.73750 	WPPU960 	RM	532 DPL	WWSHS Ops 1 	South High School  	FMN 	Schools 
+456.33750 	WPPU960 	M		WWSHS Ops 2 	South High School  	FMN 	Schools 
+456.41250 	WPPU960 	M		WWSHS Ops3 	South High School 	FMN 	Schools 
+456.48750 	WPPU960 	M		WWSHS Ops 5 	South High School  	FMN 	Schools 
+456.31250 	WPPU960 	M		WWSHS Ops 5 	South High School 	FMN 	Schools 
+151.89500 	WNQW203 	BM		WWSHS Ops 6 	South High School 	FMN 	Schools 
+151.68500 	WNQW203 	M		WWSHS Ops 7 	South High School: Buses/Security 	FMN 	Schools 
+451.82500 	WPPW272 	RM	351 DPL	WWNHS Ops 1 	North High School: Maintenance/Safety 	FMN 	Schools 
+452.50000 	 	RM	174 DPL	WWNHS Ops 2 	North High School (licensed to Indian Prairie SD 204) WPPA707 	FMN 	Schools 
+451.68750 	 	M	172 DPL	WWSD Franklin MS 	Franklin Middle School: Operations 	FMN 	Schools 
+469.45000 	 	M	173.8 PL	PleasantHill 	Pleasant Hill Elementary School 	FMN 	Schools 
+155.26500 	KUL503 	BM		WdDal SchBus 	Buses 	FMN 	Schools 
+467.96250 	 	M	123.0 PL	Montini HS 	Montini Catholic High School: Operations (unlicensed) 	FMN 	Schools 
+462.60000 	FRS 17 	M	77.0 PL	SoaringEagleAcad 	Soaring Eagle Academy: Operations 	FMN 	Schools 
+457.03750 	 	M	343 DPL	TimChrSch 1 	Operations [Ch 1?] 	FMN 	Schools 
+463.85000 	 	M	152 DPL	TimChrSch 2 	Buses/Bulding Ops 	FMN 	Schools 
+464.63750 	WPTZ262 	RM	97.4 PL	BU PubSfty 1 	Public Safety Dispatch 	FMN 	Security 
+464.06250 	WPTZ262 	RM	97.4 PL	BU PhysPlant 	Physical Plant / Maintenance 	FMN 	Schools 
+469.41250 	WPTZ262 	M	315 DPL	BU Athletics 	Athletics Department Ops 	FMN 	Schools 
+467.76250 	WQCN814 	M	315 DPL	BU Field Ops 	Field Operations (reported as D317) 	FMN 	Schools 
+464.53750 	WPTZ262 	M		BU Ops 1 	Operations (former 97.4) 	FMN 	Schools 
+464.78750 	WPTZ262 	M		BU PubSfty 2 	Public Safety Tactical? w/97.4 PL? 	FMN 	Security 
+469.53750 	WPTZ262 	M		BU Ops 2 	Operations (former 97.4) 	FMN 	Schools 
+452.45000 	WPTZ262 	M		BU Ops 3 	Operations 	FMN 	Schools 
+457.45000 	WPTZ262 	M		BU Ops 4 	Operations 	FMN 	Schools 
+464.93750 	WPTZ262 	M		BU Ops 5 	Operations 	FMN 	Schools 
+466.36250 	WPTZ262 	M	565 DPL	BU Grounds 	Grounds 	FMN 	Schools 
+466.18750 	WPTZ262 	M	365 DPL	BU Food Srvc 	Food Services 	FMN 	Schools 
+462.87500 	WQHX406 	B		BU Paging 	Paging 	Telm 	Data 
+462.03750 	 	M		BU Ops 6 	Operations? [No License] 	FMN 	Schools 
+464.17500 	 	M		BU Ops 7 	Operations? [No License] 	FMN 	Schools 
+466.11250 	 	M	754 DPL	BU Sports 	Sports/Stadium Ops [No License] 	FMN 	Schools 
+453.90000 	KLA524 	RM	88.5 PL	COD Com 1 	Tone Paging / Back-up Repeater 'Com 1' (OOS?) 	FMN 	Law Dispatch 
+453.60000 	WNKR405 	RM	88.5 PL	COD Com 2 	Police Department 'Com 2' 	FMN 	Law Dispatch 
+463.72500 	WPGE359 	RM	88.5 PL	COD Com 3 	Engineering / Trades & Grounds / Custodial 'Com 3' 	FMN 	Schools 
+464.62500 	WPGE359 	RM	88.5 PL	COD Com 4 	Student Activities / Call Boxes 'Com 4' 	FMN 	Schools 
+469.62500 	WPGE359 	M		COD CallBox 	Parking Lot Call Boxes (*not 88.5 PL) 	FMN 	Schools 
+457.31250 	WQIX480 	M	031 DPL	COD ArtsC 1 	McAninch Arts Center - Main 	FMN 	Schools 
+456.51250 	WQIX480 	M	346 DPL	COD ArtsC 2 	McAninch Arts Center - Ushers, Front of House 	FMN 	Schools 
+457.41250 	WQIX480 	M	226 DPL	COD ArtsC 3 	McAninch Arts Center 	FMN 	Schools 
+457.78750 	WQIX480 	M	606 DPL	COD ArtsC 4 	McAninch Arts Center 	FMN 	Schools 
+452.83750 	WQIX480 	M	146.2 PL	COD ArtsC 5 	McAninch Arts Center 	FMN 	Schools 
+457.73750 	 	M	103.5 PL	COD ArtsC 6 	McAninch Arts Center 	FMN 	Schools 
+457.83750 	WXIQ480 	M		COD ArtsC  	McAninch Arts Center 	FMN 	Schools 
+461.86250 	WRDR892 	RM	CC 8TG 501SL 1	COD Athletics 1 	Athletics (Ch. 1) 	DMR 	Schools 
+461.86250 	WRDR892 	RM	CC 8TG 502SL 2	COD Athletics 2 	Athletics (Ch. 2) 	DMR 	Schools 
+461.86250 	WRDR892 	M	CC 5TG 503SL 1	COD Athletics 3 	Athletics (Ch. 3) 	DMR 	Schools 
+461.86250 	WRDR892 	M	CC 6TG 504SL 1	COD Athletics 4 	Athletics (Ch. 4) 	DMR 	Schools 
+462.20000 	WRDR892 	RM	CC 9TG 505SL 1	COD Events 5 	Special Events (Ch. 5) 	DMR 	Schools 
+462.20000 	WRDR892 	RM	CC 9TG 506SL 2	COD Events 6 	Special Events (Ch. 6) 	DMR 	Schools 
+462.20000 	WRDR892 	M	CC 4TG 507SL 1	COD Events 7 	Special Events (Ch. 7) 	DMR 	Schools 
+462.20000 	WRDR892 	M	CC 3TG 508SL 1	COD Events 8 	Special Events (Ch. 8) 	DMR 	Schools 
+451.58750 	WQAD508 	RM	CC 1TG 1SL 1	EC Security 	Campus Security 	DMR 	Security 
+452.51250 	WQAD508 	RM	CC 2TG 2SL 2	EC TG 2 	Operations 	DMR 	Schools 
+451.58750 	WQAD508 	RM	CC 1TG 4SL 2	EC Shuttles 	Shuttle Buses 	DMR 	Schools 
+452.51250 	WQAD508 	RM	CC 2TG 5SL 2	EC TG 5 	Operations 	DMR 	Schools 
+452.51250 	WQAD508 	RM	CC 2TG 6SL 1	EC TG 6 	Operations 	DMR 	Schools 
+451.58750 	WQAD508 	RM	CC 1TG 7SL 2	EC Facilities 	Facilities / Grounds / Mechanical Ops 	DMR 	Schools 
+452.71250 	WQAD508 	RM	CC 4TG 8SL 1	EC TG 8 	Operations 	DMR 	Schools 
+451.58750 	WQAD508 	RM	CC 1TG 9SL 1	EC TG 9 	Operations 	DMR 	Schools 
+452.51250 	WQAD508 	RM	CC 2TG 10SL 1	EC TG 10 	Operations 	DMR 	Security 
+452.51250 	WQAD508 	RM	CC 2TG 11SL 2	EC TG 11 	Operations 	DMR 	Schools 
+451.58750 	WQAD508 	RM	CC 1TG 12SL 2	EC TG 12 	Operations 	DMR 	Schools 
+151.97000 	WQAD508 	RM	114 DPL	Elmh Col VHF 1 	Maintenance / Operations 	FMN 	Schools 
+451.35000 	WPPD638 	RM	192.8 PL	MU Security 	Security/Admin Ops 	FMN 	Security 
+451.47500 	WPPD638 	RM	179.9 PL	MU Engineers 	Building Engineers 	FMN 	Schools 
+452.81250 	 	RM	043 DPL	MU A/V IT 	A/V or Computer Services 	FMN 	Schools 
+452.98750 	 	RM	627 DPL	MU Copy Cntr 	Copy Center 	FMN 	Schools 
+464.47500 	WNIV358 	BM		MU Ops 	Operations  (D043?) 	FMN 	Schools 
+463.61250 	KD39379 	M	192.8 PL	NUHS 1 	Operations [Ch 1] [Expired 2/14] 	FMN 	Schools 
+468.61250 	KD39379 	M	192.8 PL	NUHS 2 	Operations [Ch 2] [Expired 2/14] 	FMN 	Schools 
+464.18750 	WQJK742 	RM	CC 5TG 500SL 1	NCC Security 	Campus Safety Ops 	DMR 	Security 
+464.91250 	WQJK742 	RM	CC 6TG 700SL 1	NCC Ops 2 	Facilities Ops 	DMR 	Schools 
+464.91250 	WQJK742 	RM	CC 6TG 800SL 2	NCC Ops 3 	Facilities Ops 	DMR 	Schools 
+452.66250 	WQJK742 	RM	065 DPL	NCC Ops 4 	Facilities Ops 	FMN 	Schools 
+464.38750 	WQJK742 	RM		NCC New-1 	Security, Engineering, Admin 	DMR 	Schools 
+464.68750 	WQJK742 	RM		NCC New-2 	Security, Engineering, Admin 	DMR 	Schools 
+467.85000 	 	M	74.4 PL	NCC BldgOps 	Building Operations [No License] 	FMN 	Schools 
+462.93750 	WQJK742 	M	365 DPL	NCC IT Dept 	IT Department Ops 	FMN 	Schools 
+461.60000 	WQIC857 	RM	CC 6TG 500SL 1	UTI Lisle Ops 1 	Facility Operations 	DMR 	Schools 
+461.93750 	WQIC857 	RM	CC 8TG 500SL 1	UTI Lisle Ops 2 	Operations 	DMR 	Schools 
+461.93750 	WQIC857 	RM	CC 8TG 500SL 2	UTI Lisle Ops 3 	Operations 	DMR 	Schools 
+464.67500 	WPLV391 	RM	503 DPL	WC Security 	Public Safety 	FMN 	Security 
+451.85000 	WPXH912 	RM	173.8 PL	WC Maint 1 	Maintenance 	FMN 	Schools 
+151.68500 	KGI919 	BM	94.8 PL	WC Maint 2 	Maintenance 	FMN 	Schools 
+159.72000 	KGI919 	M		WC Maint 3 	Maintenance 	FMN 	Schools 
+464.65000 	WQGW722 	BM		WC Paging 	Paging Operations 	Telm 	Data 
+A-Beep Chicago-area LTR	 LTR Standard	 Chicago	Advocate Good Samaritan Hospital	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Downers Grove	Aurora / Naperville Public Safety (OpenSky)	 OpenSky 9600 baud
+ Aurora	BP Amoco Corporation	 Project 25 Phase II	 Whiting IN, Naperville IL	Comlink Wireless (Metro Chicago Passport) 	 LTR Standard and Passport	 Chicago	Comlink Wireless (NXDN-61)
+ NXDN NEXEDGE 4800	 Various	Comlink Wireless/Chicago Equipment Company (Metro Chicago)	 LTR Standard	 Metro Chicago	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL
+ESP Wireless 3 - 900 MHz (Chicago)	 LTR Standard	 Chicago	Nokia Solutions and Networks US (Naperville)	 LTR Standard	 Naperville	Pepperidge Farm	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Downers Grove	Prairie Material Sales (Metro Chicago)	 LTR Standard	 Various	Radi-Link (Capacity Plus Multi Site)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Chicago	Radi-Link Oakbrook Terrace
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Oakbrook Terrace	RadiLink (Oak Brook/Chicago)	 LTR Standard	 Oak Brook/Chicago	United Parcel Service	 DMR Motorola Capacity Plus Single Site (TRBO)	 Addison
+VCNA Prairie Illinois (MetroChicago)	 Motorola Type II Smartnet	 Chicago Metro Area	Ventronics (Metro Chicago)	 LTR Standard	 Metro Chicago	

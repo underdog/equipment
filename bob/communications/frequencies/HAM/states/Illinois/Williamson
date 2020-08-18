@@ -1,0 +1,102 @@
+154.87500 	WPKV708 	RM	203.5 PL	Wmsn Sheriff W 	Sheriff: Dispatch - West (Cambria; 203.5 in) 	FMN 	Law Dispatch 
+154.87500 	WPKV708 	RM	203.5 PL	Wmsn Sheriff E 	Sheriff: Dispatch - East (Pittsburg 225.7 in) 	FMN 	Law Dispatch 
+468.26250 	 	F	141.3 PL	Wlmsn Shrf RF A 	Sheriff: Cross-Band Mobile Repeater (154.785) 	FMN 	Law Dispatch 
+464.50000 	 	F	151.4 PL	Wlmsn Shrf RF B 	Sheriff: Cross-Band Mobile Repeater (154.785) 	FMN 	Law Dispatch 
+456.81250 	 	F	454 DPL	Wlmsn Shrf RF C 	Sheriff: Cross-Band Mobile Repeater (154.785) 	FMN 	Law Dispatch 
+462.57500 	GMRS 	F	351 DPL	Wlmsn Shrf RF D 	Sheriff: Cross-Band Mobile Repeater (154.785) 	FMN 	Law Dispatch 
+172.37500 	 	M	123.0 PL	Wlmsn Shrf MX123 	Sheriff: Mobile Extenders (HT-to-Car) 	FMN 	Law Dispatch 
+172.37500 	 	M	CSQ	Wlmsn Shrf MX  	Sheriff: Mobile Extenders (Car-to-HT) 	FMN 	Law Dispatch 
+155.61000 	WNXC784 	RM	179.9 PL	Wllmson MAPS 	Law: Rural Dispatch - MAPS (Marion-203.5 in) 	FMN 	Law Dispatch 
+156.19500 	WQPH481 	RM	311 DPL	Wmsn Shrf Jail 	Jail (Marion) 	FMN 	Corrections 
+159.25500 	WPYL619 	RM	186.2 PL	Wmsn MCSquad 	Major Case Squad (156.7 in) (scrambled) 	FMN 	Law Tac 
+857.76250 	WPKM918 	RM	151.4 PL	Wmsn ShrfMX 	Sheriff: Mobile Extenders / Remote Link ? 	FMN 	Law Dispatch 
+155.08500 	WQFD417 	RM	179.9 PL	Wmsn EMA Wx 	EMA: Storm Spotters (151.4 Iin) [Ch 1] 	FMN 	Emergency Ops 
+153.90500 	WQFD417 	M	179.9 PL	Wmsn EMA 2 	EMA: Simplex [Ch 2] 	FMN 	Emergency Ops 
+453.10000 	KNBV945 	RM	173.8 PL	Wmsn Highway 	Highway Department 	FMN 	Public Works 
+462.62500 	KAB3047 	BM		Wmsn P/Aging 	Williamson County Programs in Aging (GMRS) 	FMN 	Transportation 
+155.80500 	KNAB307 	BM	186.2 PL	WilliamsonCoAmb 	EMS: Dispatch (Herrin/Marion) 	FMN 	EMS Dispatch 
+152.31500 	WPNU632 	RM	77.0 PL	Lifeline EMS 	EMS: Dispatch [Ch 1 Repeater] 	FMN 	EMS Dispatch 
+155.23500 	WPGM832 	BM	114.8 PL	LL EMS C2C 	EMS: Direct/Detail 	FMN 	EMS-Tac 
+153.23750 	WQDN946 	RM	250.3 PL	Heartland RMC Op 	Operations 	FMN 	Business 
+155.34000 	WNZI231 	B	CSQ	MERCI1 CSQ 	Patient Reports (may see 131.8, 210.7) 	FMN 	Hospital 
+152.38250 	WQBR685 	RM	032 DPL	Herrin Hospital 	Security (Inverted DPL) 	FMN 	Business 
+155.34000 	WNZP288 	B	CSQ	MERCI1 CSQ 	Patient Reports (may see 151.4 PL) 	FMN 	Hospital 
+153.31250 	WPPE276 	RM	91.5 PL	United MR D4 EMS 	EMS: Dispatch (w/ Marion PD) 	FMN 	EMS Dispatch 
+154.45625 	WNVZ662 	F		Burn WDD 1 	Burnside Water District: Water Distribution Data 	Telm 	Data 
+154.47875 	WNVZ662 	F		Burn WDD 2 	Burnside Water District: Water Distribution Data 	Telm 	Data 
+72.84000 	WQAG311 	F		CVWD WDD 	Coal Valley Water District (Paulton) 	Telm 	Data 
+451.26250 	WQUY654 	F		DevKitchen WDD 	Devils Kitchen Water District (CSQ) 	Telm 	Data 
+151.98500 	WPRL560 	RM		LkEgpt Water 	Lake Egypt Water Distict (Marion) 	FMN 	Public Works 
+456.40000 	WQCI357 	F		LkEgpt WDD 1 	Lake Egypt Water Distict (Marion) 	Telm 	Data 
+456.40000 	WQCI358 	F		LkEgpt WDD 2 	Lake Egypt Water Distict (Goreville) 	Telm 	Data 
+451.11250 	WQHU366 	F		RLCD WDD A 	Rend Lake Conservancy District (area wide) 	Telm 	Data 
+173.39625 	WPPU538 	F		RLIWS WDD 	Rend Lake Intercity Water System (Carterville) 	Telm 	Data 
+154.37000 	WNWH898 	RM	100.0 PL	WCFPD Disp1 	Fire: Dispatch [Ch 1] (Pittsburgh) 	FMN 	Fire Dispatch 
+154.07000 	WNWH898 	BM	CSQ	Coal Belt Fire 	Fire: Air-Evac Landing Zones 	FMN 	EMS-Tac 
+154.80000 	KQF680  	RM	411 DPL	WWlmsonCoFD 	Fire: West Williamson County Fire (Bush, Cambria, Hurst) 	FMN 	Fire Dispatch 
+154.44500 	WNWH898 	BM	CSQ	WCFPD Local 	Fire: Local 	FMN 	Fire-Tac 
+154.60000 	MURS5 	RM	103.5 PL	WCFPD F-6 	Fire: Local Use "Go to 6" 	FMN 	Fire-Tac 
+155.31000 	WNHU933 	RM		Cambria PW 	Public Works 	FMN 	Public Works 
+155.19000 	WNLB677 	BM	100.0 PL	Crtrv Police 	Police: Dispatch 	FMN 	Law Dispatch 
+159.18750 	WPAP363 	RM	411 DPL	Crtrvll Fire/EMS 	Fire/EMS: Tone-Outs / Dispatch / On-Scene 	FMN 	Fire Dispatch 
+458.76250 	WNVM375 	M		Crainvll WDD 	Water/Sewer Data 	Telm 	Data 
+154.72500 	KNBV972 	BM	88.5 PL	Energy PW/PD 	Police / Village Ops / Police: Local (prev. reported as 186.2) 	FMN 	Public Works 
+154.25000 	KNAL423 	RM	CC 1TG 1879SL 1	H/E Police North 	Police: Dispatch - North (Herrin Simulcast) 	DMRE 	Law Dispatch 
+154.25000 	KNAL423 	RM	CC 1TG 2079SL 2	H/E PD Tac North 	Police: Tac - North (Herrin Simulcast) 	DMRE 	Law Tac 
+156.10500 	KNAL423 	RM	CC 1TG 1879SL 1	H/E Police South 	Police: Dispatch - South (Energy Simulcast) 	DMRE 	Law Dispatch 
+156.10500 	KNAL423 	RM	CC 1TG 2079SL 2	H/E PD Tac South 	Police: Tac - South (Energy Simulcast) 	DMRE 	Law Tac 
+151.16000 	KNAL423 	RM	151.4 PL	Hrn/EngyPolice A 	Police: Dispatch w/Energy (Simulcast at Herrin) 	FMN 	Law Dispatch 
+155.41500 	KNAL423 	RM	151.4 PL	Hrn/EngyPolice B 	Police: Dispatch w/Energy (Simulcast at Energy) 	FMN 	Law Dispatch 
+453.38750 	KNAL423 	M		Herrin Police MX 	Police: Mobile Extenders to 155.415R 	FMN 	Law Dispatch 
+151.00250 	WQGZ685 	RM	351 DPL	Herrn Fire 1 	Fire: Tone-Outs / Dispatch (D454 in) 	FMN 	Fire Dispatch 
+151.12250 	KRI752 	RM		Herrn Fire Local 	Fire: Local 	FMN 	Fire Dispatch 
+154.44500 	KRI752 	BM	151.4 PL	Herrin Old Fire 	Fire: Backup (Old) 	FMN 	Fire-Tac 
+158.82000 	WPAD619 	BM	151.4 PL	Herrin PublicWrk 	Public Works 	FMN 	Public Works 
+453.72500 	WPCY397 	F	151.4 PL	Herrin WDD 	Water Distribution Data  	FMN 	Data 
+151.62500 	MURS 	M		Hurst Police 	Police: Local Use 	FMN 	Law Tac 
+154.60000 	MURS 5 	M	CSQ	Hurst PD Wx 	Police: Local (Weather Spotting) 	FMN 	Law Tac 
+151.46750 	WQLW852 	RM	151.4 PL	JCty Police 	Police: Dispatch 	FMN 	Law Dispatch 
+151.46750 	WQLW852 	RM	203.5 PL	JCty Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.44500 	KSU562 	BM		JCtyFD Local 	Fire: Local ? (Herrin 151.4 PL) 	FMN 	Fire-Tac 
+155.76000 	WPTN984 	BM		JCty Wat/Sew 	Water / Sewer 	FMN 	Public Works 
+151.04000 	WQKS282 	RM	67.0 PL	LkEgypt Fire 	Fire/EMS: Dispatch 	FMN 	Fire-Tac 
+453.03750 	KIA909 	M		LkEgyptFD MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+151.43000 	WQZS514 	RM	CC 1TG 411SL 1	Marion Police E 	Police: Dispatch - East Simulcast 	DMRE 	Law Dispatch 
+151.43000 	WQZS514 	RM	CC 1TG 111SL 2	Marion PD Narc E 	Police: Narcotics Tac - East Simulcast 	DMRE 	Law Tac 
+151.43000 	WQZS514 	RM	CC 1TG 9999SL 2	Marion PD Data E 	Police: Data - East Simulcast 	DMRE 	Law Tac 
+151.41500 	KJB824 	RM	CC 1TG 411SL 1	Marion Police W 	Police: Dispatch - West Simulcast 	DMRE 	Law Dispatch 
+151.41500 	KJB824 	RM	CC 1TG 111SL 2	Marion PD Narc W 	Police: Narcotics Tac - WEst Simulcast 	DMRE 	Law Tac 
+151.41500 	WQZS514 	RM	CC 1TG 9999SL 2	Marion PD Data W 	Police: Data - West Simulcast 	DMRE 	Law Dispatch 
+154.17500 	KSP325 	RM	136.5 PL	Marion Fire 	Fire: Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+155.71500 	KNIE523 	BM		Marn Wat/Sew 	Water/Sewer 	FMN 	Public Works 
+173.27500 	WPVV796 	F		Marion WDD1 	Water Data (CSQ) 	Telm 	Data 
+72.54000 	WCB454 	F		Marion WDD2 	Water Data 	Telm 	Data 
+453.71250 	KD22058 	RM		Marion WDD3 	Water Data 	Telm 	Data 
+451.13750 	WQKJ695 	F		Marion WDD 4 	Water Data (CSQ) 	Telm 	Data 
+154.37000 	WNWH898  	RM	136.5 PL	Pittsburg Fire 	Fire: Paging / Dispatch / Ops (100.0 in) 	FMN 	Fire Dispatch 
+461.62500 	WQHL508 	RM	136.5 PL	CrtrvlSchool 	Operations  	FMN 	Schools 
+154.54000 	 	M	179.9 PL	HerinSchool 	Operations  	FMN 	Schools 
+152.33750 	WQLF947 	RM		JC Schools 	Operations 	FMN 	Schools 
+463.26250 	WQKM894 	RM	047 DPL	ICSB Marion 	Illinois Central School Bus (Marion) 	FMN 	Schools 
+153.64250 	WRCF891 	RM	411 DPL	Marion School A 	Ops 	FMN 	Schools 
+157.62000 	WNZE809 	BM	179.9 PL	WlmnsnSchool 	Operations  	FMN 	Schools 
+153.38750 	WQKJ314 	RM	251 DPL	JALCC Scrty 	Security / Safety (w/ Phone Patch) [Expired 6/19] 	FMN 	Security 
+154.84500 	KJI659 	RM	631 DPL	JALCC Maint 	Maintenance (w/ Phone Patch) 	FMN 	Schools 
+170.02500 	 	M		FP Marion 1 	Prison Ops 	FMN 	Federal 
+170.87500 	 	M		FP Marion 2 	Prison Ops 	FMN 	Federal 
+170.92500 	 	M		FP Marion 3 	Prison Ops 	FMN 	Federal 
+408.82500 	 	F		FP Marion Data 	Data (CSQ) 	DMR 	Data 
+163.53750 	 	RM	103.5 PL	USACE CrOrch 	Operations 	FMN 	Federal 
+164.57500 	 	RM	123.0 PL	USFW Police 	Law Enforcement [Ch 1] 	FMN 	Federal 
+171.75000 	 	RM	123.0 PL	USFW Ops 2 	Refuge Operations [Ch 2] 	FMN 	Federal 
+34.83000 	 	BM		USFW Refuge 	Refuge Operations 	FM 	Federal 
+163.37500 	 	F		Marion VA PG 	VA Medical Center Paging (CSQ) 	Telm 	Federal 
+155.94000 	KQX905 	BM		MWA Authorit 	Airport Authority 	FMN 	Public Works 
+453.98750 	WPLX402 	M		MWA AWOS RF 	RF Link to AWOS Data 	FMN 	Data 
+119.67500 	WQBA262 	B		MWA AWOS 	Weather AWOS-3 	AM 	Aircraft 
+121.70000 	 	BM	CSQ	MWA Ground 	Marion Ground 	AM 	Aircraft 
+122.95000 	WQKE549 	BM	CSQ	MWA UNICOM 	UNICOM 	AM 	Aircraft 
+125.30000 	 	BM	CSQ	Marion RCAG 	Approach/Departure (KC ARTCC) 	AM 	Aircraft 
+128.40000 	 	BM	CSQ	MWA CTAF 	Marion Tower / CTAF  	AM 	Aircraft 
+Egyptian Electric Cooperative (S IL)	 DMR Conventional Networked	 Steeleville	Federal Bureau of Prisons - Marion	 Motorola Type II	 Marion	Roy Walker Communications (DMR)	 DMR Conventional Networked
+ Makanda	

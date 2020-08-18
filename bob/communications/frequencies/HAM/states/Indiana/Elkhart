@@ -1,0 +1,63 @@
+155.65500 	KTI634 	RM	85.4 PL	ElkhartShrf 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.95000 	KTI634 	M		ElkhartShrf 	Sheriff 	FMN 	Law Tac 
+154.78500 	KTI634 	BM		ElkhartShrf 	Sheriff - Channel 3 	FMN 	Law Tac 
+155.82000 	KNHQ583 	BM		ElkhartShrf 	Sheriff - Channel 4 Warrants Division 	FMN 	Law Tac 
+153.77000 	KSE904 	RM	114.8 PL	ElkhartFireD 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.14500 	WNAN786 	BM		ElkhartFire1 	Fireground 1 	FMN 	Fire-Tac 
+154.44500 	KSE904 	M		ElkhartFire2 	Fireground 2 	FMN 	Fire-Tac 
+154.07000 	KSE904 	M		ElkhartFire3 	Fireground 3 	FMN 	Fire-Tac 
+159.12000 	KSH392 	RM		ELKHART ROAD VHF 	County Highway Department VHF 	DMR 	Public Works 
+453.66250 	KSH392 	RM	CC 4TG 100SL 1	ELKHART ROAD UHF 	County Highway Department UHF 	DMR 	Public Works 
+453.15000 	WQDT667	 	RM		ELKHART WX SIREN 	County Weather Siren Activation 	FMN 	Data 
+854.98750 	WPMF835 	RM		ECPDBckUp 	Police Back-Up 	FM 	Law Tac 
+856.98750 	WPNY613 	RM		ECPDBckUp 	Police Back-Up 	FM 	Law Tac 
+153.83000 	KSE904 	M	114.8 PL	ECFDDisp 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.58000 	KSA915 	BM	85.4 PL	Elkhart EMA 	EMA 	FMN 	Law Tac 
+867.98750 	 	M	071 DPL	ECFDTalk 	Fire Talkaround (back-up) 	FM 	Fire-Tac 
+453.31250 	WPWF661 	RM		ElkhartCtyUt 	City Utilities/Street Department 	DMR 	Public Works 
+453.37500 	WPWF661 	RM		ElkhartCtyUt 	City Utilities/Street Department 	DMR 	Public Works 
+453.51250 	WPWF661 	RM		ElkhartCtyUt 	City Utilities/Street Department 	DMR 	Public Works 
+154.32500 	WQCU747 	BM	114.8 PL	BristolFire 	Fire - County Dispatch 	FMN 	Fire Dispatch 
+151.43000 	WQCU747 	RM	114.8 PL	BristolFire 	Fire - Fireground 	FMN 	Fire-Tac 
+155.43000 	WQYF396  	RM	206.5 PL	Foraker Fire 	Fire - Fireground 	FMN 	Fire-Tac 
+155.61000 	KTI634 	BM	127.3 PL	GoshenPD 	Police 	FMN 	Law Dispatch 
+155.19000 	WPNY297 	BM	265 DPL	GFD Disp 	Dispatch 	FMN 	Fire Dispatch 
+155.23500 	WPNY297 	BM	265 DPL	GFD FG1 	Fireground 1 	FMN 	Fire-Tac 
+155.02500 	WPUD582 	BM	265 DPL	GFD FG 2 	Fireground 2 	FMN 	Fire-Tac 
+153.74000 	 	BM	265 DPL	GFD Talk 	Talk Around 	FMN 	Fire-Talk 
+153.77000 	WQAJ416 	BM		JffrsonFireTac 	Jefferson Township Fire (Tactical?) 	FMN 	Fire-Tac 
+154.28000 	WQAJ416 	BM		JffrsonFireDisp 	Jefferson Township Fire (Dispatch?) 	FMN 	Fire Dispatch 
+155.16000 	WNCQ257 	BM		JffrsonFire 	Fire/EMS 	FMN 	Fire Dispatch 
+154.08500 	KWS423 	RM	136.5 PL	Mdlbury PD 	Police 	FMN 	Law Dispatch 
+154.41500 	KSU544 	RM	229.1 PL	MdlbryFD/EMS 	Fire/EMS 	FMN 	Fire Dispatch 
+151.04000 	KWS423 	RM		Mdlbury Gov 	Local Government 	FMN 	Public Works 
+155.95500 	WNIU330 	M		MillsburgPD 	Police 	FMN 	Law Dispatch 
+151.07000 	WPMW772 	RM		NPD DISP 	Police Base 	FMN 	Law Dispatch 
+158.89500 	WPMW772 	M		NPD TALK 	Police Mobile 	FMN 	Law Talk 
+153.80000 	KEY849 	BM		NFD TAC 	Fire/EMS Tactical 	FMN 	Fire-Tac 
+154.65750 	KEY849 	RM	167.9 PL	NFD DISP 	Fire/EMS Dispatch (New) 	FMN 	Fire Dispatch 
+159.06000 	KSG502 	M	343 DPL	OsoloFire 	Fire Talkaround 	FMN 	Fire-Talk 
+154.38500 	KSG502 	RM		OsoloFire 	Fire Repeater 	FMN 	Fire Dispatch 
+154.01000 	KSG502 	M		OsoloFire 	Fireground 	FMN 	Fire-Tac 
+155.26500 	WPLX426 	BM		OsoloCh2 	"Channel 2" 	FMN 	Fire-Tac 
+154.28000 	WPIV292 	BM		WakarusaFire 	Fire Dispatch 	FMN 	Fire Dispatch 
+463.57500 	WNUV663 	RM		GoshenSchls 	Goshen Community Schools 	FMN 	Schools 
+463.85000 	WNUV663 	RM		GoshenSchls 	Goshen Community Schools 	FMN 	Schools 
+464.77500 	WNUV663 	RM		GoshenSchls 	Goshen Community Schools 	FMN 	Schools 
+464.50000 	WNUV663 	M		GoshenSchls 	Goshen Community Schools 	FMN 	Schools 
+464.47500 	WPWI477 	RM	146.2 PL	MdlburyBus 	School Operations 	FMN 	Schools 
+451.18750 	WPWI477 	M		MdlburyScl 1 	School Operations 	FMN 	Schools 
+451.28750 	WPWI477 	M		MdlburyScl 2 	School Operations 	FMN 	Schools 
+451.43750 	WPWI477 	M		MdlburyScl 3 	School Operations 	FMN 	Schools 
+452.31250 	WPWI477 	M		MdlburyScl 4 	School Operations 	FMN 	Schools 
+452.86250 	WPWI477 	M		MdlburyScl 5 	School Operations 	FMN 	Schools 
+456.18750 	WPWI477 	M		MdlburyScl 6 	School Operations 	FMN 	Schools 
+456.28750 	WPWI477 	M		MdlburyScl 7 	School Operations 	FMN 	Schools 
+456.43750 	WPWI477 	M		MdlburyScl 8 	School Operations 	FMN 	Schools 
+457.31250 	WPWI477 	M		MdlburyScl 9 	School Operations 	FMN 	Schools 
+457.86250 	WPWI477 	M		MdlburyScl10 	School Operations 	FMN 	Schools 
+463.73750 	KD48906 	M		MdlburyScl11 	School Operations 	FMN 	Schools 
+463.22500 	WPIA994 	RM	100.0 PL	Wa-NeeSchl 	School Operations 	FMN 	Schools 
+American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	Elkhart County Corrections	 DMR Motorola Capacity Plus Single Site (TRBO)	 Elkhart	Elkhart General Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Elkhart	Emergency Radio Service 800 Mhz	 Motorola Type IIi Hybrid	 Multiple	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Hayes Limmerz
+ LTR Standard	 Bristol	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple

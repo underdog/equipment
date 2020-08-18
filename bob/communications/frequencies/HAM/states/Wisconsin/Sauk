@@ -1,0 +1,59 @@
+155.77500 	KNGE418 	RM	82.5 PL	SAPAG 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+151.25000 	KNGE418 	RM	97.4 PL	SAFIR 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.37000 	WQP827 	BM	82.5 PL	SAFG 	Fireground "High Fire" 	FMN 	Fire-Tac 
+155.20500 	WPKC831 	M	82.5 PL	SAEMS 	County EMS 	FMN 	EMS-Talk 
+155.70000 	KSB482 	RM	82.5 PL	SASO 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.64000 	KSB482 	RM	351 DPL	SASODATA 	Sheriff Data 	FMN 	Law Talk 
+155.31000 	KVU503 	RM	0CF NAC	SACMD 	Sheriff Command 	P25e 	Law Tac 
+155.31000 	KVU503 	RM	125 DPL	SASOTAC1/2 	Sheriff Tactical 1/2 	FMN 	Law Tac 
+155.82000 	KVU503 	RM	226 DPL	SAJAIL 	Jail 	FMN 	Corrections 
+154.80000 	KSB482 	M		SAJAIL 	Jail 	FMN 	Corrections 
+155.82000 	KVU503 	RM	88.5 PL	SACOURT 	Court Security 	FMN 	Law Tac 
+155.93250 	WPJK348 	RM	271 DPL	SAMAINT 	Buildings  	FMN 	Public Works 
+159.18000 	KQP630 	RM	146.2 PL	SAHWY 	Highways 	FMN 	Public Works 
+154.31000 	KBC427 	RM	205 DPL	Baraboo FD 	Fire Tactical 	FMN 	Fire-Talk 
+155.01000 	WNVA931 	RM	261 DPL	Baraboo EMS 	EMS Response 	FMN 	EMS-Talk 
+158.76000 	WNAU927 	RM	132 DPL	Baraboo PD 	Police 	FMN 	Law Talk 
+150.99500 	WPUK356 	RM	245 DPL	Baraboo DPW 	DPW 	FMN 	Public Works 
+453.47500 	WNAU927 	RM	110.9 PL	Baraboo Park 	Parks/Special Events 	FMN 	Public Works 
+123.05000 	WJX9 	BM	CSQ	Baraboo Airp 	Airport 	AM 	Aircraft 
+155.03250 	WQVI333 	RM	503 DPL	Hillpoint FD 	Fire 	FMN 	Fire-Talk 
+460.07500 	WQYZ363 	RM	125 DPL	Honey Creek 	Town of Honey Creek DPW 	FMN 	Public Works 
+155.25000 	WPYB991 	RM	351 DPL	La Valle PD 	Police 	FMN 	Law Talk 
+155.25000 	WPYB991 	RM	94.8 PL	La Valle FD 	Fire 	FMN 	Fire-Talk 
+155.25000 	WPYB991 	RM	411 DPL	La Valle DPW 	DPW 	FMN 	Public Works 
+155.11500 	KNFU686 	BM		La Valle DPW 	DPW 	FMN 	Public Works 
+155.14500 	KNCC845 	RM	271 DPL	LakeDeltonPD 	Police 	FMN 	Law Talk 
+155.14500 	KNCC845 	RM	88C NAC	LakeDeltonPD 	Police 	P25E 	Law Tac 
+154.96500 		WPCB560  	RM	156.7 PL	LakeDeltonFD 	Fire 	FMN 	Fire-Talk 
+155.67000 	KNCC845 	RM	143 DPL	LakeDeltonPW 	DPW 	FMN 	Public Works 
+153.09500 	 	RM	94.8 PL	SAMEFD 	Fire 	FMN 	Fire-Talk 
+464.12500 	 	BM	365 DPL	N Freedom 	Public Works 	FMN 	Public Works 
+154.10750 	WQUN738 	RM		PrairieduSac DPW 	Public Works 	FMN 	Public Works 
+156.18000 	 	M	146.2 PL	Tn PdS DPW 	Town of Prairie du Sac DPW 	FMN 	Public Works 
+154.16000 	KDL791 	RM	88.5 PL	Reedsburg FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.53500 	KNIR641 	RM	82.5 PL	Reedsburg PD 	Police Dispatch 	FMN 	Law Dispatch 
+155.64000 	KNIR641 	BM	88.5 PL	ReedsburgEMS 	EMS 	FMN 	EMS-Talk 
+154.02500 	WQSR468 	RM	69.3 PL	Reedsburg Am 	Reedsburg Ambulance Service 	FMN 	EMS Dispatch 
+155.77500 	WNNU943 	BM	82.5 PL	ReedsburgPag 	Paging 	FMN 	Fire Dispatch 
+155.11500 	WPFK488 	BM	432 DPL	Reedsburg PW 	DPW 	FMN 	Public Works 
+155.80500 	KFG611 	RM	165 DPL	Reedsburg WL 	Water & Light 	FMN 	Public Works 
+122.80000 	WQKB971 	BM	CSQ	Reedsburg Ap 	Airport 	AM 	Aircraft 
+155.07000 	WQWX942 	RM	F76 NAC	Police 	Police 	P25E 	Law Talk 
+155.07000 	WQWX942 	RM	82.5 PL	Police 	Police 	FMN 	Law Talk 
+155.55000 	WPNT589 	RM	114.8 PL	Fire/EMS 	Fire/EMS 	FMN 	Multi-Talk 
+155.11500 	KUV220 	BM	82.5 PL	DPW 	DPW 	FMN 	Public Works 
+152.29250 	WQKM839 	RM		SPMH 	Sauk-Prairie Memorial Hospital 	DMR 	Hospital 
+155.34000 	WPDH873 	BM	141.3 PL	SPMH EMS-B 	Sauk-Prairie Memorial Hospital EMS-B 	FMN 	Hospital 
+151.11500 	WQQG963 	RM	712 DPL	SpringGrn FD 	Fire/EMS 	FMN 	Fire-Talk 
+151.08500 	WQQG953 	RM	624 DPL	SpringGrn PD 	Police/Emergency Mgt 	FMN 	Law Talk 
+155.34000 	KRZ814 	BM	100.0 PL	St Clare BLS 	BLS Ambulance to Hospital 	FMN 	Hospital 
+155.38500 	KRZ814 	RM	261 DPL	St Clare ALS 	MED 2 Paramedic Intercepts 	FMN 	Hospital 
+464.72500 	WQFL742  	RM	131 DPL	St. Clare 	St Clare Hospital Repeater 	FMN 	Hospital 
+154.11500 	WNWV660 	RM	94.8 PL	W Baraboo 	DPW 	FMN 	Public Works 
+45.24000 	WQLM674 	BM	127.3 PL	Woodland 	Public Works 	FM 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Baycom (Baraboo)	 LTR Standard	 Baraboo	Bertram Communications	 DMR Tier 3
+ Varies	Croell Redi-Mix	 NXDN Conventional Networked	 Various	Flipco	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	General Communications (Baraboo)
+ LTR Standard	 Baraboo	General Communications NexWave	 NXDN NEXEDGE 4800	 Madison	Great Wolf Lodge	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lake Delton
+Ho-Chunk Casino	 NXDN Icom IDAS Type D	 Baraboo	Mt. Olympus Hotel Resort	 DMR Motorola Capacity Plus Single Site (TRBO)	 Wisconsin Dells/Lake Delt	Wilderness Resort	 DMR Hytera XPT
+ Various	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	

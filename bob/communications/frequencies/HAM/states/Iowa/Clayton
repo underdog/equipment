@@ -1,0 +1,28 @@
+151.13000 	WQPZ502 	RM	173.8 PL	ClaytonLaw 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.01000 	KAF578 	BM	141.3 PL	ClaytonInfo 	Sheriff Information 	FMN 	Law Talk 
+155.53500 	KAF578 	B		Claytn In-B 	Sheriff Information - Base  	FM 	Law Talk 
+155.91000 	KAF578 	M		Claytn In-M 	Sheriff Information - Mobiles 	FM 	Law Talk 
+152.00750 	WQOM476 	B		Clytn Page 	Fire and EMS Paging 	FM 	Multi-Dispatch 
+154.32500 	WQEC234 	BM	032 DPL	Claytn Fire 	Fire/EMS Response - linked with 156.2175 	FMN 	Multi-Dispatch 
+156.21750 	WQPZ502 	RM	179.9 PL	ClytnInterop 	Interop - linked with 154.325 	FMN 	Interop 
+151.17500 	WQEC234 	RM	103.5 PL	EM Ops CKRDG 	EM Ops - Chicken Ridge Tower 	FMN 	Emergency Ops 
+151.17500 	WQEC234 	RM	110.9 PL	EM Ops STPT 	EM Ops - Strawberry Point Tower 	FMN 	Emergency Ops 
+151.17500 	WQEC234 	RM	241.8 PL	EM Ops CMD 	EM Ops CMD 	FMN 	Emergency Ops 
+151.17500 	WQEC234 	RM	79.7 PL	EM Ops MON 	EM Ops - Monona Tower 	FMN 	Emergency Ops 
+151.17500 	WQEC234 	RM	85.4 PL	EM Ops MCG 	EM Ops - McGregor Tower 	FMN 	Emergency Ops 
+151.17500 	WQEC234 	RM	97.4 PL	EM Ops GUT 	EM Ops - Guttenburg Tower 	FMN 	Emergency Ops 
+155.23500 	WQEC234 	BM	110.9 PL	Clytn OldEMS 	Old EMS 	FM 	EMS Dispatch 
+151.80500 	WQTA315 	RM	CC 1TG 6000SL 1	Clayton Road 	Road Department - Guttenburg Tower 	DMR 	Public Works 
+154.02500 	KNAO443 	RM	CC 1TG 6000SL 1	Clayton Road 	Road Department - Chicken Ridge tower 	DMR 	Public Works 
+156.23250 	WQSX584 	RM	CC 1TG 6000SL 1	Clayton Road 	Road Department - Monona tower 	DMR 	Public Works 
+154.43750 	WQSX584 	RM	CC 1TG 6000SL 1	Clayton Road 	Road Department - Guttenburg tower 	DMR 	Public Works 
+155.41500 	WNMS896 	BM		Gbrg PD Tac 	Police Tactical 	FM 	Law Tac 
+155.80500 	WPWF487 	BM		Gbrg PD c2c 	Police Car-to-Car 	FM 	Law Talk 
+155.94000 	WNNX263 	BM		Gttnbrg Fire 	Fire Tactical 	FM 	Fire-Tac 
+154.08500 	WNHE350 	BM	192.8 PL	SPoint EMS 	EMS/Fire Paging - Police Operations 	FM 	Multi-Dispatch 
+37.10000 	WPXL954 			SP CityCrews 	City Crews - Truck to Truck 	FM 	Public Works 
+156.00000 	WPMK918 	BM		SP Water Dat 	Water Tower pumps paging 	Telm 	Data 
+453.37500 	WPYN414 	M		SPnt PD MX1 	Vehicle Repeater 	FM 	Multi-Tac 
+458.37500 	WPYN414 	M		SPnt PD MX2 	Vehicle Repeater 	FM 	Multi-Tac 
+Alliant Energy	 DMR Tier 3	 Various	Dairyland Power Cooperative	 DMR Tier 3	 Various	Iowa DMR Users Group	 DMR Conventional Networked
+ Various	RACOM Network	 EDACS Networked Standard	 Various	

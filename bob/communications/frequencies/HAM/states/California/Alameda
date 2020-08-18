@@ -1,0 +1,50 @@
+154.07000 	KME911 	M	156.7 PL	ACFD Tac 4 West 	Fire Tac 4 "Red" (West) 	FMN 	Fire-Tac 
+154.23500 	KME911 	M	156.7 PL	ACFD Tac 5 East 	Fire Tac 5 (East) 	FMN 	Fire-Tac 
+155.40000 	 	BM	127.3 PL	Children MedHelo 	Childrens to Medic Helicopters 	FMN 	Hospital 
+851.16250 	WPQE507 	M	156.7 PL	AC MA LAW 1 	Law Conventional 1 	FM 	Law Talk 
+851.43750 	WPQE507 	M	156.7 PL	AC MA LAW 2 	Law Conventional 2 	FM 	Law Talk 
+851.80000 	WPQE507 	M	156.7 PL	AC MA LAW 3 	Law Conventional 3 	FM 	Law Talk 
+851.67500 	WPQE507 	M	156.7 PL	AC MA FIRE 1 	Fire Conventional 1 	FM 	Fire-Talk 
+851.85000 	WPQE507 	M	156.7 PL	AC MA FIRE 2 	Fire Conventional 2 	FM 	Fire-Talk 
+851.11250 	WPQE507 	M	156.7 PL	AC MA FIRE 3 	Fire Conventional 3 	FM 	Fire-Talk 
+851.07500 	WPQE507 	M	156.7 PL	AC MA EMS 1 	EMS Conventional 1 	FM 	EMS-Talk 
+853.87500 	WPQE507 	M	156.7 PL	AC MA EMS 2 	EMS Conventional 2 	FM 	EMS-Talk 
+156.16500 	 	RM	162.2 PL	Berkeley SD 	Street Department 	FMN 	Public Works 
+453.52500 	 	RM	162.2 PL	Berkeley PW1 	Public Works 	FMN 	Public Works 
+453.33750 	 	M	162.2 PL	Berkeley PW2 	Public Works Tactical 	FMN 	Public Works 
+154.19000 	KMA704 	B	131.8 PL	Berkeley FD 	Fire Dispatch (Simulcast of EBRCS Dispatches Only) 	FMN 	Fire Dispatch 
+460.16250 	WQGH869 	RM	114 DPL	Hayward AC 	Animal Control 	FMN 	Public Works 
+153.00500 	WQIM784 	RM		Pleasanton PR 	Parks & Rec Operations 	FMN 	Public Works 
+44.76000 	KBB840 	RM	114.8 PL	EBRP PD1 	Police Dispatch 	FMN 	Law Dispatch 
+150.80500 	KBB840 	M	114.8 PL	EBRP PD Extender 	Police Extender 	FMN 	Law Dispatch 
+44.64000 	WQGW919 	BM	114.8 PL	EBRP FD1 	Fire Dispatch / Maint & Admin 	FMN 	Fire Dispatch 
+45.00000 	WNVK857 	M	114.8 PL	EBRP FD5 	Fire Tac 5 	FMN 	Fire-Tac 
+44.96000 	KBB840 	BM	114.8 PL	EBRP Tac 	Fire/Law Tac 	FMN 	Multi-Tac 
+461.65000 	WNVB875 	RM	123.0 PL	BUSD Bus 	Bus Operations 	FMN 	Schools 
+453.45000 	WQWA745 	RM	CC 1TG 40SL 1	CSUEB PD 	Police Dispatch 	DMR 	Law Dispatch 
+463.72500 	WPWC852 	RM		CSUEB 	CSUEB 	DMR 	Schools 
+464.07500 	WPWC852 	RM		CSUEB 	CSUEB 	DMR 	Schools 
+151.68500 	WQR993 	BM	627 DPL	LJVUSD SE 	Sunset Elementary 	FMN 	Schools 
+852.87500 	 	BM		UCB Conv BU1 	Conventional Backup 	FM 	Schools 
+853.21250 	 	BM		UCB Conv BU2 	Conventional Backup 	FM 	Schools 
+151.62500 	WPEW701 	M	CSQ	EBAYRFS 	East Bay Regional Fire Support 	FMN 	Emergency Ops 
+490.46250 	WPNT785 	RM	CSQ	ACT 1 	Voice 1 	FMN 	Transportation 
+488.36250 	WPNT785 	RM	CSQ	ACT 2 	Voice 2 	FMN 	Transportation 
+490.66250 	WPNT785 	RM	CSQ	ACT 3 	Voice 3 	FMN 	Transportation 
+490.61250 	WPNT785 	RM	CSQ	ACT 4 	Voice 4 	FMN 	Transportation 
+490.76250 	WIE816 	RM	CSQ	ACT PM SUPER 	PM Supervisors 	FMN 	Transportation 
+484.58750 	WPJM767 	RM	CSQ	ACT SUPER 	Supervisors 	FMN 	Transportation 
+490.56250 	WPNT785 	M		ACT DATA 1 	Data 	Telm 	Data 
+488.76250 	WPNT785 	M		ACT DATA 2 	Data 	Telm 	Data 
+853.53750 	WPSH605 	RM	CSQ	BART Conv BU 	Conventional Backup 	FM 	Transportation 
+Alameda County Water District	 LTR Standard	 South Alameda County	ATT (LTR)	 LTR Standard	 Various	Bay Area Rapid Transit (BART)	 EDACS Standard
+ Bay Area	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	CALTrans (District 04 - North)	 Motorola Type II Smartnet	 None	CALTrans (District 04 - South)
+ Motorola Type II Smartnet	 None	Crystal Communications (Monument/Mission Peak)	 LTR Standard	 Fremont	East Bay Regional Communications System (EBRCS)	 Project 25 Phase I	 Multiple
+Eden Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Castro Valley	Federal Correctional Institution Dublin	 Project 25 Phase I	 Dublin	FedEx - Oakland International	 DMR Motorola Connect Plus (TRBO)
+ Oakland	Kaiser Permanente Oakland Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oakland	KOAK People Mover	 DMR Conventional Networked	 Oakland	Lawrence Livermore National Laboratory
+ Project 25 Phase I	 Livermore	Metro Mobile Communications, Inc	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Oakland EDACS	 EDACS Standard	 Oakland
+Oakland P25	 Project 25 Phase I	 Oakland	Oracle Arena and O.Co Coliseum	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oakland	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard
+ Various	Parks Reserve Forces Training Area	 Project 25 Phase I	 Dublin	RFC Wireless (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various (Bay Area)	RFC Wireless (Grizzly Peak)
+ LTR Standard	 Oakland	Signature Wireless Group iDAS Multitrunk (Bay Area)	 NXDN Icom IDAS Type D	 San Rafael	Silke Communications	 NXDN NEXEDGE 4800	 Northern California
+Stanford Health Care	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	Tesla Motors	 DMR Tier 3
+ Fremont	University of California (Berkeley)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Berkeley	

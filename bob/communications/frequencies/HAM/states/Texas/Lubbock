@@ -1,0 +1,48 @@
+155.53500 	KVV882 	RM	85.4 PL	Lub SO 1 	Sheriff Primary 	FM 	Law Dispatch 
+155.58000 	KDK746 	BM	85.4 PL	Lub SO 2 	Sheriff Secondary 	FM 	Law Tac 
+154.95000 	KVV882 	M	CSQ	TX LAW 1 	Statewide Intercity Mobile 	FM 	Interop 
+155.37000 	KVV882 	B		TX LAW 2 	Statewide Intercity Base 	FM 	Interop 
+156.21000 	KVV882 	RM	85.4 PL	Lub SO Tac1 	Sheriff Tactical 1 	FM 	Law Tac 
+453.27500 	WPAA875 	RM		BufSpngs PD 	Buffalo Springs Lake Police (All Call) 	FM 	Law Tac 
+453.25000 	WPAV479 	RM	054 DPL	Lub SO Jail 	Sheriff Jail Transport 	FM 	Law Tac 
+154.44500 	WNAV469 	RM	85.4 PL	LubCo FD 1 	Fire 1 Dispatch/Tactical 1 	FMN 	Fire Dispatch 
+156.21000 	 	RM	85.4 PL	LubCo FD 2 	Fire 2/Tactical 2 	FMN 	Fire-Tac 
+155.80500 	WQEW632 	RM	127.3 PL	Lub Co EC 	Lubbock EC, County EC 	FMN 	Emergency Ops 
+154.32500 	KNNH621 	BM		Woodrow VFD 	Woodrow Volunteer Fire Department - Direct 	FM 	Fire Dispatch 
+462.95000 	KXZ672 	RM	173.8 PL	Lub EMS Disp 	Med-9 Lubbock EMS Dispatch/Paging 	FM 	EMS Dispatch 
+463.00000 	KXZ672 	RM		Med 1 	Med-1 	FM 	EMS-Tac 
+463.02500 	KXZ672 	RM	173.8 PL	Med 2 	Med-2 UMC ER Report 	FM 	Hospital 
+463.05000 	KXZ672 	RM		Med 3 	Med-3 	FM 	EMS-Tac 
+463.07500 	KXZ672 	RM	173.8 PL	Med 4 CMC 	Med-4 CMC ER Report 	FM 	Hospital 
+463.10000 	KXZ672 	RM		Med 5 	Med-5 	FM 	EMS-Tac 
+463.12500 	KXZ672 	RM	173.8 PL	Med 6 CWCH 	Med-6 Covenant Women's and Childrens Hospital 	FM 	EMS-Tac 
+463.15000 	KXZ672 	RM		Med 7 	Med-7 	FM 	EMS-Tac 
+463.17500 	KXZ672 	RM		Med 8 HMC 	Med-8 HMC ER Report 	FM 	Hospital 
+462.97500 	KXZ672 	RM	173.8 PL	Lub EMS ComC 	Med-10 Lubbock EMS Communications Center 	FM 	EMS-Tac 
+463.77500 	KMD374 	RM		Med 12 	Med-12 Aerocare (also uses Med-10) 	FM 	EMS-Tac 
+47.42000 	KSW954 	BM		AmRedCross 	American Red Cross, Nationwide Disaster Channel 	FM 	Emergency Ops 
+854.66250 	 	B		F/R Alerting 	Fire Rescue Station Alerting (Voice and Data to Zetron) 	FM 	Fire Dispatch 
+156.00000 	KCW731 	RM	85.4 PL	Abernthy PD 	Police Dispatch 	FM 	Law Dispatch 
+155.13000 	KDK746 	RM	146.2 PL	Shallowater FD 1 	Fire Dispatch 	FM 	Fire Dispatch 
+154.35500 	KNHB533 	BM		Shallowater FD 2 	Fire Direct 	FM 	Fire-Talk 
+154.44500 	KDK746 	RM	85.4 PL	ShalVFD to LCFD1 	Fire Link to County Fire 1 (179.9 PL Input) 	FMN 	Fire Dispatch 
+155.65500 	WPFE417 	RM	74.4 PL	Slaton PD 	Slaton Police Dispatch 	FM 	Law Dispatch 
+453.80000 	WQV975 	RM		Slaton FD 	Slaton Fire Department 	FM 	Fire Dispatch 
+154.75500 	WPXC672 	RM		Wlfrth PD 	Wolfforth Police 	FM 	Law Dispatch 
+155.49000 	WPZR530 	RM		Wlfrth Fire 	Wolfforth Fire Dispatch (linked to 154.445 MHz) 	FM 	Fire Dispatch 
+156.01500 	KNHV807 	RM	85.4 PL	Wlfrth Servs 	Wolfforth City Services 	FM 	Public Works 
+452.15000 	WPPV471 	RM	205 DPL	UMC Sec 	University Medical Center - Security 	FMN 	Security 
+857.21250 	KNNJ875 	RM	88.5 PL	TT MutAidBU 	Back-up to TRS / Mutual Aid with Lubbock 	FM 	Interop 
+464.77500 	KB82461 	RM		UMC Opns 	University Medical Center - Operations 	DMR 	Schools 
+154.02500 	WPAE675 	RM	025 DPL	TT HouMaint 	Housing Maintenance 	FM 	Schools 
+461.33750 	KB70407 	M	71.9 PL	TT StuRecCtr 	Student Recreation Center 	FM 	Schools 
+464.57500 	WQFJ895 	RM	245 DPL	TT Hsptlty 	Hospitality Services 	FM 	Schools 
+451.45000 	WPJM209 	RM	311 DPL	Cooper Buses 	Cooper ISD Buses 	FM 	Transportation 
+461.20000 	WPDY242 	RM	179.9 PL	Frenship Bus 	Frenship ISD Buses (Durham Trans.) 	FM 	Transportation 
+463.45000 	WPSA218 	RM	110.9 PL	Lubb ISD Bus 	Lubbock ISD Buses (Durham Trans.) 	FM 	Transportation 
+461.47500 	WNMD650 	RM	703 DPL	LCU Repeater 1 	LCU Operations 	FMN 	Schools 
+461.65000 	WNMD650 	RM	703 DPL	LCU Repeater 2 	LCU Operations 	FMN 	Schools 
+Connect Plus 231 Texas	 DMR Motorola Connect Plus (TRBO)	 Various	J. P. Jenkins SMR	 LTR Standard	 Lubbock	Lubbock City-County Mutual Radio System	 Project 25 Phase II
+ Lubbock	Lubbock Radio Paging Service	 LTR Standard	 Lubbock	South Plains Communications (460 MHz LTR)	 LTR Standard	 Lubbock	South Plains Communications (850 MHz LTR)
+ LTR Standard	 Lubbock	South Plains Electric Cooperative (LTR)	 LTR Standard	 Lubbock	Texas Tech University	 Project 25 Phase II	 Lubbock
+Xcel Energy	 Project 25 Phase I	 Various	

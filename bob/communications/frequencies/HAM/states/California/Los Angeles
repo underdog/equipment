@@ -1,0 +1,1622 @@
+483.98750 	WII799 	RM	CSQ	CVS-ALTD1 	Disp 1 - Crescenta Valley / Altadena [L-TAC 8] 	FM 	Law Dispatch 
+483.36250 	WII795 	RM	CSQ	WHLYD-D2 	Disp 2 - West Hollywood [L-TAC 1] 	FM 	Law Dispatch 
+483.21250 	WII789 	RM	CSQ	ELA-D3 	Disp 3 - East Los Angeles [L-TAC 6] 	FM 	Law Dispatch 
+483.26250 	WII792 	RM	CSQ	CENTRY-D4 	Disp 4 - Century [L-TAC 9] 	FM 	Law Dispatch 
+482.86250 	WII801 	RM	CSQ	SCV-D5 	Disp 5 - Santa Clarita [L-TAC 8] 	FM 	Law Dispatch 
+482.93750 	WII791 	RM	CSQ	WAL-SDMD6 	Disp 6 - Walnut / San Dimas / Diamond Bar [L-TAC 7] 	FM 	Law Dispatch 
+484.03750 	WII792 	RM	CSQ	LMT-AVAD7 	Disp 7 - Lomita / Avalon [L-TAC 2] 	FM 	Law Dispatch 
+483.68750 	WQAF451 	RM	CSQ	INDSTRYD8 	Disp 8 - Industry [L-TAC 4] 	FM 	Law Dispatch 
+484.16250 	WII792 	RM	CSQ	CARS-CPT9 	Disp 9 - Carson / Compton / METROLINK [L-TAC 5] 	FM 	Law Dispatch 
+482.91250 	WII794 	RM	CSQ	LHS-D10 	Disp 10 - Malibu / Lost Hills [L-TAC 1] 	FM 	Law Dispatch 
+482.98750 	WII789 	RM	CSQ	TEM-D11 	Disp 11 - Temple City [L-TAC 12] 	FM 	Law Dispatch 
+483.43750 	WII795 	RM	CSQ	SLAMDR12 	Disp 12 - South Los Angeles / Marina Del Rey [L-TAC 2] 	FM 	Law Dispatch 
+483.76250 	WII789 	RM	CSQ	NWKPRV13 	Disp 13 - Norwalk / Pico Rivera [L-TAC 10] 	FM 	Law Dispatch 
+483.13750 	WII789 	RM	CSQ	LKDCER14 	Disp 14 - Lakewood / Cerritos [L-TAC 3] 	FM 	Law Dispatch 
+483.03750 	WII798 	RM	CSQ	LANPLM15 	Disp 15 - Lancaster / Palmdale [L-TAC 11] 	FM 	Law Dispatch 
+484.11250 	WIM685 	RM	100.0 PL	LAKE DISP 	Lake Los Angeles / Bluerock / Antelope Valley [LAKE LTAC] 	FM 	Law Dispatch 
+483.31250 	WIJ605 	RM	CSQ	TSB DISP 	Transit Services Bureau (TSB) / College Safety Bureau [TSB L-TAC] 	FM 	Law Dispatch 
+453.62500 	KRW246 	RM	136.5 PL	TUNL DISP 	MTA Tunnel Dispatch (underground usage) [TUNL LTAC] 	FM 	Law Dispatch 
+483.63750 	WIJ605 	RM	CSQ	AERO 	Aero Bureau Dispatch 	FM 	Law Dispatch 
+483.53750 	WIJ605 	RM	CSQ	SUD 	Special Units Dispatch 	FM 	Law Dispatch 
+483.91250 	KB94197 	RM	CSQ	L-TAC 1 	Malibu / Lost Hills / West Hollywood 	FM 	Law Tac 
+482.88750 	KB94197 	RM	CSQ	L-TAC 2 	South LA / Lomita / Avalon / Marina Del Rey 	FM 	Law Tac 
+483.38750 	KB94197 	RM	CSQ	L-TAC 3 	Lakewood / Cerritos 	FM 	Law Tac 
+483.96250 	KB94197 	RM	CSQ	L-TAC 4 	Industry 	FM 	Law Tac 
+483.46250 	KB94197 	RM	CSQ	L-TAC 5 	Carson / Compton 	FM 	Law Tac 
+483.48750 	KB94197 	RM	CSQ	L-TAC 6 	East Los Angeles 	FM 	Law Tac 
+483.23750 	KB94197 	RM	CSQ	L-TAC 7 	Walnut / San Dimas 	FM 	Law Tac 
+483.11250 	KB94197 	RM	CSQ	L-TAC 8 	Crescenta Valley / Altadena / Santa Clarita 	FM 	Law Tac 
+483.86250 	KB94197 	RM	CSQ	L-TAC 9 	Century 	FM 	Law Tac 
+484.01250 	KB94197 	RM	CSQ	L-TAC 10 	Norwalk / Pico Rivera 	FM 	Law Tac 
+483.18750 	KB94197 	RM	CSQ	L-TAC 11 	Palmdale / Lancaster (aka AV L-TAC) 	FM 	Law Tac 
+483.41250 	KB94197 	RM	CSQ	L-TAC 12 	Temple City 	FM 	Law Tac 
+476.06250 	WQJX521 	RM	162.2 PL	CPTMETRO 	Compton Metro Supplemental Tac 	FMN 	Law Tac 
+476.18750 	WQJX539 	RM	162.2 PL	PLMMETRO 	Palmdale Metro Supplemental Tac 	FMN 	Law Tac 
+453.47500 	KRW246 	RM	136.5 PL	TUNL LTAC 	TSB Tunnels 	FM 	Law Tac 
+476.10000 	WQJX521 	RM	162.2 PL	PARKS TAC 	Parks Bureau Tac 	FM 	Law Tac 
+476.11250 	WQJX544 	RM	CSQ	CIVCEN L-TAC 	County Services Bureau (CSB) Civic Center 	FM 	Law Tac 
+476.12500 	WQJX523 	RM	127.3 PL	HIDESERTHOSP 	County Services Bureau (CSB) High Desert Regional Health Center 	FMN 	Law Tac 
+476.12500 	WQJX536 	RM	162.2 PL	MLKMAC L-TAC 	County Services Bureau (CSB) MLK Multi-Service Ambulatory Care Center 	FMN 	Law Tac 
+476.13750 	WQJX538 	RM	162.2 PL	HRBRMC L-TAC 	County Services Bureau (CSB) Harbor-UCLA Medical Center 	FMN 	Law Tac 
+476.15000 	WQJX549 	RM	CSQ	RLANRC L-TAC 	County Services Bureau (CSB) Rancho Los Amigos Nat'l Rehab Ctr 	FM 	Law Tac 
+476.16250 	WQJX552 	RM	162.2 PL	OVUCLA L-TAC 	County Services Bureau (CSB) Olive View-UCLA Medical Center 	FMN 	Law Tac 
+483.06250 	WIJ605 	RM	CSQ	TSB L-TAC 	Transit Services Bureau (TSB) / College Safety Bureau 	FM 	Law Tac 
+483.73750 	 	RM	110.9 PL	LAKE LTAC 	Lake Los Angeles (Bluerock / Antelope Valley) 	FM 	Law Tac 
+483.88750 	WII825 	RM	186.2 PL	LACUSC L-TAC 	County Services Bureau (CSB) LAC+USC Medical Center 	FM 	Law Tac 
+483.08750 	KB94197 	RM	CSQ	A-TAC 1 	North County Tactical 	FM 	Law Tac 
+483.16250 	KB94197 	RM	CSQ	A-TAC 2 	West County Tactical 	FM 	Law Tac 
+483.01250 	KB94197 	RM	CSQ	A-TAC 3 	East County Tactical 	FM 	Law Tac 
+484.11250 	KB94197 	RM	CSQ	A-TAC 4 	South County Tactical 	FM 	Law Tac 
+482.81250 	WIJ605 	RM	CSQ	CW C-TAC 1 	Countywide C-Tac 1 	FM 	Law Tac 
+482.83750 	WIJ605 	RM	CSQ	CW L-TAC  	Countywide L-Tac  	FM 	Law Tac 
+476.05000 	WQJX549 	M	162.2 PL	S-TAC 1D 	Clear Voice Simplex Tac 	FMN 	Law Tac 
+483.33750 	WII798 	RM	CSQ	S-TAC 2R 	Metro / SGV  Repeater 	FM 	Law Tac 
+483.81250 	WII794 	RM	CSQ	S-TAC 3R 	West Repeater 	FM 	Law Tac 
+483.61250 	WII792 	RM	CSQ	S-TAC 4R 	South Repeater 	FM 	Law Tac 
+483.61250 	 	M	107.2 PL	S-TAC 5 	Clear Voice Tac 	FM 	Law Tac 
+483.61250 	 	M	141.3 PL	S-TAC 6 	Clear Voice Tac 	FM 	Law Tac 
+486.61250 	 	M	151.4 PL	S-TAC 7 	Clear Voice Tac 	FM 	Law Tac 
+486.61250 	 	M	192.8 PL	S-TAC 8 	Clear Voice Tac 	FM 	Law Tac 
+483.73750 	WII793 	RM	CSQ	S-TAC 9R 	Southeast Area Repeater 	FM 	Law Tac 
+483.73750 	 	M	107.2 PL	S-TAC 10 	Clear Voice Tac 	FM 	Law Tac 
+483.73750 	 	M	141.3 PL	S-TAC 11 	 Clear Voice Tac 	FM 	Law Tac 
+486.73750 	 	M	151.4 PL	S-TAC 12 	Clear Voice Tac 	FM 	Law Tac 
+486.73750 	 	M	192.8 PL	S-TAC 13 	Clear Voice Tac 	FM 	Law Tac 
+483.66250 	WII789 	RM	CSQ	S-TAC 14R 	Central Area Repeater 	FM 	Law Tac 
+483.66250 	 	M	107.2 PL	S-TAC 15 	Clear Voice Tac 	FM 	Law Tac 
+483.66250 	 	M	141.3 PL	S-TAC 16 	Clear Voice Tac 	FM 	Law Tac 
+486.66250 	 	M	151.4 PL	S-TAC 17 	Clear Voice Tac 	FM 	Law Tac 
+486.66250 	 	M	192.8 PL	S-TAC 18 	Clear Voice Tac 	FM 	Law Tac 
+483.51250 	WQAF451 	RM	CSQ	S-TAC 19R 	Eastern Area Repeater 	FM 	Law Tac 
+483.51250 	 	M	107.2 PL	S-TAC 20 	Clear Voice Tac 	FM 	Law Tac 
+483.51250 	 	M	141.3 PL	S-TAC 21 	Clear Voice Tac 	FM 	Law Tac 
+486.51250 	 	M	151.4 PL	S-TAC 22 	Clear Voice Tac 	FM 	Law Tac 
+486.51250 	 	M	192.8 PL	S-TAC 23 	Clear Voice Tac 	FM 	Law Tac 
+479.05000 	 	M	162.2 PL	S-TAC 24D 	Clear Voice Tac 	FMN 	Law Tac 
+476.20000 	 	M	162.2 PL	S-TAC 25D 	Clear Voice Tac 	FMN 	Law Tac 
+479.20000 	 	M	162.2 PL	S-TAC 26D 	Clear Voice Tac 	FMN 	Law Tac 
+478.47500 	WQJX549 	RM	162.2 PL	S-TAC 27R 	Local Area Special Repeater 	FMN 	Law Tac 
+478.61250 	WQJX549 	RM	162.2 PL	S-TAC 28R 	Local Area Special Repeater 	FMN 	Law Tac 
+478.62500 	WQJX549 	RM	162.2 PL	S-TAC 29R 	Local Area Special Repeater 	FMN 	Law Tac 
+478.63750 	WQJX549 	RM	162.2 PL	S-TAC 30R 	Local Area Special Repeater 	FMN 	Law Tac 
+483.58750 	WII798 	RM	CSQ	MAID-1 	Mutual Aid 1 - North 	FM 	Interop 
+484.08750 	WII794 	RM	CSQ	MAID-2 	Mutual Aid 2 - West 	FM 	Interop 
+483.78750 	WQAF451 	RM	CSQ	MAID-3 	Mutual Aid 3 - East 	FM 	Interop 
+484.13750 	WQAF451 	RM	CSQ	MAID-4 	Mutual Aid 4 - San Gabriel Valley 	FM 	Interop 
+484.06250 	WII789 	RM	CSQ	MAID-5 	Mutual Aid 5 - Central 	FM 	Interop 
+483.56250 	WIJ605 	RM	CSQ	SCC ACC 	Sheriffs Communication Center Access (Outside agencies to LASD) 	FM 	Interop 
+484.21250 	WIJ645 	RM	156.7 PL	SCMA 	Small Cities Mutual Aid 	FM 	Interop 
+484.23750 	WIJ645 	BM	156.7 PL	GOLD-22 	CLEMARS Gold-22 (see CalEMA) 	FM 	Interop 
+483.28750 	WIJ605 	RM	CSQ	LASD EMER 	Emergency Trigger 	FM 	Emergency Ops 
+478.57500 	WQJX549 	RM	162.2 PL	EOB 1 	Portable Repeater 	FMN 	Emergency Ops 
+476.03750 	 	M	162.2 PL	EOB 2 	Simplex 	FMN 	Emergency Ops 
+479.03750 	 	M	162.2 PL	EOB 3 	Simplex 	FMN 	Emergency Ops 
+478.88750 	 	M	110.9 PL	EOB  	Simplex  	FM 	Emergency Ops 
+481.88750 	 	M	131.8 PL	EOB  	Simplex 2 	FM 	Emergency Ops 
+483.93750 	KB94197 	RM	186.2 PL	CTS-RPT-1A 	Court Services Division  	FMN 	Law Tac 
+483.93750 	KB94197 	RM	127.3 PL	CTS-RPT-1B 	Court Services Division  	FMN 	Law Tac 
+483.62500 	KB94197 	RM	162.2 PL	CTS-RPT-2A 	Court Services Division  	FMN 	Law Tac 
+483.62500 	KB94197 	RM	107.2 PL	CTS-RPT-2B 	Court Services Division  	FMN 	Law Tac 
+483.93750 	WII844 	M	146.2 PL	CTS-3A 	Court Services Division 	FMN 	Law Tac 
+483.93750 	WII844 	M	103.5 PL	CTS-3B 	Court Services Division 	FMN 	Law Tac 
+486.93750 	KB94197 	M	131.8 PL	CTS-4A 	Court Services Division 	FMN 	Law Tac 
+486.93750 	KB94197 	M	110.9 PL	CTS-4B 	Court Services Division 	FMN 	Law Tac 
+476.21250 	WQJX549 	M	162.2 PL	CTS-5A 	Court Services Division 	FMN 	Law Tac 
+476.22500 	WQJX549 	M	162.2 PL	CTS-6A 	Court Services Division 	FMN 	Law Tac 
+476.23750 	WQJX549 	M	162.2 PL	CTS-7A 	Court Services Division 	FMN 	Law Tac 
+476.25000 	WQJX549 	M	162.2 PL	CTS-8A 	Court Services Division 	FMN 	Law Tac 
+476.26250 	WQJX549 	M	162.2 PL	CTS-9A 	Court Services Division 	FMN 	Law Tac 
+479.21250 	WQJX549 	M	127.3 PL	CTS-5B 	Court Services Division 	FMN 	Law Tac 
+479.22500 	WQJX549 	M	127.3 PL	CTS-6B 	Court Services Division 	FMN 	Law Tac 
+479.23750 	WQJX549 	M	127.3 PL	CTS-7B 	Court Services Division 	FMN 	Law Tac 
+479.25000 	WQJX549 	M	127.3 PL	CTS-8B 	Court Services Division 	FMN 	Law Tac 
+479.26250 	WQJX549 	M	127.3 PL	CTS-9B 	Court Services Division 	FMN 	Law Tac 
+483.70000 	WPLU233 	RM	162.2 PL	CTS CSFCJC 	Court Services Division - Clara Shortridge Foltz Criminal Justice Center 	FM 	Law Tac 
+483.71250 	WII844 	RM	186.2 PL	CTS LAX  	Court Services Division - LAX Airport Courthouse 	FMN 	Law Tac 
+486.62500 	WPLU233 	M	162.2 PL	CTS StlyMosk 	Court Services Division - Stanley Mosk Superior Court 	FM 	Law Tac 
+483.18750 	KB94197 	M	131.8 PL	TST DIR 	Transportation Services Simplex 	FMN 	Law Tac 
+483.93750 	WII833 	RM	127.3 PL	CTS PASADENA 	Court Services Division - Pasadena Courthouse 	FMN 	Law Tac 
+483.93750 	 	M	146.2 PL	CTS GLN 	Court Services Division - Glendale Courthouse 	FMN 	Law Tac 
+483.93750 	 	M	146.2 PL	CTS BUR 	Court Services Division - Burbank Superior Court 	FMN 	Law Tac 
+483.70000 	WPLU232 	RM	162.2 PL	CUSTODY 1A 	Custody Division 	FMN 	Law Tac 
+483.70000 	WPLU233 	RM	136.5 PL	CUSTODY 1B 	Custody Division 	FMN 	Law Tac 
+483.71250 	KB94197 	RM	186.2 PL	CUSTODY 2A 	Custody Division 	FMN 	Law Tac 
+483.71250 	KB94197 	RM	114.8 PL	CUSTODY 2B 	Custody Division 	FMN 	Law Tac 
+483.18750 	 	M	123.0 PL	LASD LCMC 	LCMC Medical Center Jail 	FM 	Corrections 
+483.18750 	WII831 	RM	131.8 PL	LASD Sybil 	Sybil Brand Institute - CLOSED 	FM 	Corrections 
+483.41250 	WII837 	RM	131.8 PL	LASD PDCN 	Pitchess Detention Center - North 	FM 	Corrections 
+483.51250 	WII837 	RM	186.2 PL	LASD NCCF 	North County Corrections Facility Ops 	FM 	Corrections 
+483.71250 	WIM803 	M	186.2 PL	LASD  CRDF 	Century Regional Detention Facility 	FM 	Corrections 
+483.71250 	WII825 	M	186.2 PL	LASD MCJ 	Men's Central Jail / Twin Towers 	FM 	Corrections 
+483.73750 	WII837 	RM	186.2 PL	LASD NCCFT 	North County Corrections Facility Tac 	FM 	Corrections 
+483.83750 	WII825 	M	131.8 PL	LASD MCJ 	Men's Central Jail 	FM 	Corrections 
+483.93750 	WII825 	M	131.8 PL	LASD MCJ 	Men's Central Jail / Twin Towers 	FM 	Corrections 
+483.93750 	WII825 	M	146.2 PL	LASD MCJ 	Men's Central Jail / Twin Towers 	FM 	Corrections 
+483.93750 	WII837 	RM	186.2 PL	RNCH TAC 	Wayside Ranch 	FM 	Corrections 
+483.96250 	WII837 	RM	156.7 PL	LASD PDCS 	Pitchess Detention Center - South 	FM 	Corrections 
+484.01250 	WII837 	RM	186.2 PL	LASD PDCE 	Pitchess Detention Center - East 	FM 	Corrections 
+486.71250 	WIM803 	M	186.2 PL	LASD  CRDF 	Century Regional Detention Facility 	FM 	Corrections 
+486.71250 	WII825 	M	186.2 PL	LASD MCJ 	Men's Central Jail / Twin Towers 	FM 	Corrections 
+486.83750 	WII825 	M	131.8 PL	LASD MCJ 	Men's Central Jail 	FM 	Corrections 
+486.93750 	WII825 	M	131.8 PL	LASD MCJ 	Men's Central Jail / Twin Towers 	FM 	Corrections 
+470.78750 	WIM803 	M	118.8 PL	CAMPUS 	College Bureau (Simplex)  	FM 	Law Tac 
+476.01250 	WQJX527	 	RM	100.0 PL	MISSION 	Los Angeles Mission College Repeater 	FMN 	Law Tac 
+476.01250 	 	RM	110.9 PL	SOUTHWEST 	Los Angeles Southwest College Repeater 	FMN 	Law Tac 
+476.03750 	 	RM	131.8 PL	EAST LA 	East Los Angeles College Repeater 	FMN 	Law Tac 
+476.03750 	WQJX508 	RM	136.5 PL	WEST LA 	West Los Angeles College Repeater 	FMN 	Law Tac 
+476.27500 	WQJX551 	RM	162.2 PL	ANTELOPE 	Antelope Valley College 	FMN 	Law Tac 
+476.28750 	 	RM		PIERCE 	Pierce College Repeater 	FMN 	Law Tac 
+476.30000 	 	RM		VALLEY 	Valley College Repeater 	FMN 	Law Tac 
+476.31250 	WQJX544 	RM		TRADETECH 	Los Angeles Trade Technical College 	FMN 	Law Tac 
+476.33750 	 	RM		LACC 	Los Angeles City Community College Repeater 	FMN 	Law Tac 
+476.35000 	 	RM		HARBOR 	Los Angeles Harbor College Repeater 	FMN 	Law Tac 
+483.83750 	KB94197 	M	186.2 PL	CLEAR-1 	Special Enforcement Bureau - Tactical - "Clear Channel" 	FM 	Law Tac 
+486.83750 	KB94197 	M	186.2 PL	CLEAR-2 	Special Enforcement Bureau - Tactical - "Clear Channel" 	FM 	Law Tac 
+482.92500 	 	RM	127.3 PL	PR-3 	Parking Control - Sheriff HQ 	FMN 	Law Tac 
+476.05000 	WQJX521 	RM	162.2 PL	SAR-1U 	Search and Rescue (Portable Repeater) 	FMN 	Law Tac 
+476.38750 	WII810 	RM	162.2 PL	SAR 4 	SAR Tac and Portable Repeater 	FMN 	Law Tac 
+478.68750 	 	RM	162.2 PL	SAR  	Search and Rescue Tac / Portable Repeater 1 	FM 	Law Tac 
+470.78750 	 	M	136.5 PL	SAR SMPLX 	SAR Simplex Tac 	FM 	Law Dispatch 
+480.00000 	WQJX500 	M		SAR 	Search and Rescue  	FM 	Law Tac 
+479.00000 	 	RM	88.5 PL	SARWINCH 	Search and Rescue for Winch ops only 	FM 	Law Tac 
+476.01250 	WQJX549 	M		ICIB 1 	 Internal Criminal Investigations Bureau - 1 	FMN 	Law Tac 
+479.01250 	WQJX549 	M		ICIB 2 	 Internal Criminal Investigations Bureau - 2 	FMN 	Law Tac 
+482.96250 	 	RM	333 NAC	LASD P25 	P25 Testing 	P25 	Law Dispatch 
+482.96250 	WII844 	RM	376 NAC	LASD P25 	P25 Testing 	P25 	Law Tac 
+473.78750 	WIJ515 	M	100.0 PL	Simplex 1 	Countywide Simplex 1 	FM 	Law Tac 
+476.02500 	WQJX521 	M	162.2 PL	Simplex 4 	Special Use Simplex 4  	FMN 	Law Tac 
+479.02500 	WQJX500 	M	162.2 PL	Simplex 5 	Special Use Simplex 5 	FMN 	Law Tac 
+122.72500 	 	M	CSQ	Company 	Air-to-Air 	AM 	Aircraft 
+122.97500 	KHJ9 	BM	CSQ	AERO EastLA 	Special Enforcement Bureau East LA Heliport 	AM 	Aircraft 
+122.97500 	WAG8 	BM	CSQ	AERO LGB 	Aero Bureau Long Beach Airport Heliport 	AM 	Aircraft 
+482.96250 	WII830 	RM	162.2 PL	SUD RPT 1 	Special Unit Portable Repeater 1 	FM 	Law Tac 
+476.08750 	WQJX544 	RM	162.2 PL	SUD RPT 2 	Special Unit Portable Repeater 2 	FM 	Law Tac 
+478.88750 	WQJX521 	RM	156.7 PL	SUD RPT 3 	Special Unit Portable Repeater 3 	FM 	Law Tac 
+476.41250 	WQJX521 	M		FCILITY 1 	Facilities Simplex -1  	FMN 	Public Works 
+476.07500 	WQJX521 	M		ENCTYPT-A 	Encrypted Voice - A 	FMNE 	Law Tac 
+478.40000 	WQJX521 	M		COMMON1 	Encrypted Voice - Common 1 	FMNE 	Law Tac 
+478.70000 	 	RM		E REPEAT1 	Encrypted Voice - Repeater 1 	FMNE 	Law Tac 
+478.77500 	WQJX521 	M		ENCRYP-C 	Encrypted Voice - C 	FMNE 	Law Tac 
+478.87500 	 	RM		E REPEAT 2 	Encrypted Voice Repeater -2  	FMNE 	Law Tac 
+478.90000 	WQJX521 	M		COMMON 3 	Encrypted Voice - Common 3 	FMNE 	Law Tac 
+478.96250 	WQJX521 	M		ENCRYP-E 	Encrypted Voice - E 	FMNE 	Law Tac 
+470.68750 	WIJ739 	RM	CSQ	LASD MDT2 	LASD MDT'S 	FM 	Data 
+470.73750 	WIJ739 	RM	CSQ	LASD MDT3 	LASD MDT'S 	FM 	Data 
+470.76250 	WIJ739 	RM	CSQ	LASD MDT7 	LASD MDT'S 	FM 	Data 
+470.81250 	WQCJ804 	RM	CSQ	LASD MDT8 	LASD MDT'S - North County Only 	FMN 	Data 
+470.83750 	WIJ739 	RM	CSQ	LASD MDT5 	LASD MDT'S 	FM 	Data 
+470.86250 	WIJ739 	RM	CSQ	LASD MDT4 	LASD MDT'S 	FM 	Data 
+470.88750 	WIJ739 	RM	CSQ	LASD MDT6 	LASD MDT'S 	FM 	Data 
+470.91250 	WIJ739 	RM	CSQ	LASD MDT10 	LASD MDT'S 	FM 	Data 
+470.93750 	WIJ739 	RM	CSQ	LASD MDT1 	LASD MDT'S 	FM 	Data 
+145.38000 	 	M	CSQ	LACo DCS 	Avalon Simplex 	FM 	Emergency Ops 
+146.92000 	 	M	CSQ	LACo DCS 	Carson Simplex 	FM 	Emergency Ops 
+147.22500 	K6DCS 	RM	94.8 PL	LACo DCS  	Castro Peak Repeater 	FM 	Emergency Ops 
+145.51000 	 	M	CSQ	LACo DCS 	Century Simplex 	FM 	Emergency Ops 
+145.30000 	K6CTS 	RM	156.7 PL	LACo DCS 	East LA (EOB) Repeater 	FM 	Emergency Ops 
+147.00000 	 	M	CSQ	LACo DCS 	East LA Simplex 	FM 	Emergency Ops 
+147.64500 	KI6BKN 	RM	100.0 PL	LACo DCS 	Grass Mountain Repeater (Antelope Valley) 	FM 	Emergency Ops 
+146.84000 	 	M	CSQ	LACo DCS 	Industry Simplex 	FM 	Emergency Ops 
+224.30000 	 	RM	100.0 PL	LACo DCS 	LACo DCS CIC Repeater 	FM 	Emergency Ops 
+1285.30000 	 	RM	100.0 PL	LACo DCS  	LACo DCS CIC Repeater 	FM 	Emergency Ops 
+223.46000 	 	M	CSQ	LACo DCS 	La Crecsenta Simplex 	FM 	Emergency Ops 
+145.54000 	 	M	CSQ	LACo DCS 	La Crescenta Simplex 	FM 	Emergency Ops 
+146.46000 	 	M	CSQ	LACo DCS 	Lakewood Simplex 	FM 	Emergency Ops 
+145.38000 	 	RM	100.0 PL	LACo DCS 	Lancaster Repeater 	FM 	Emergency Ops 
+145.26000 	N6FDR 	RM	100.0 PL	LACo DCS 	Malibu Repeater 	FM 	Emergency Ops 
+145.42000 	 	M	CSQ	LACo DCS 	Marina Del Rey Simplex 	FM 	Emergency Ops 
+147.27000 	WA6ZTR 	RM	100.0 PL	LACo DCS 	Mt Disappointment Repeater 	FM 	Emergency Ops 
+145.30000 	K6CTS 	RM	100.0 PL	LACo DCS 	Mt. Disappointment Repeater 	FM 	Emergency Ops 
+145.50000 	 	M	CSQ	LACo DCS 	Norwalk Simplex 	FM 	Emergency Ops 
+147.12000 	 	M	CSQ	LACo DCS 	Norwalk Simplex 	FM 	Emergency Ops 
+145.38000 	N6RBR 	RM	100.0 PL	LACo DCS 	Palos Verdes Repeater 	FM 	Emergency Ops 
+223.78000 	WA6TMJ 	RM	100.0 PL	LACo DCS 	Palos Verdes Repeater 	FM 	Emergency Ops 
+145.50000 	 	M	CSQ	LACo DCS 	Pico Rivera Simplex 	FM 	Emergency Ops 
+146.79000 	W6JW 	RM	CSQ	LACo DCS 	Santa Clarita Repeater 	FM 	Emergency Ops 
+222.18000 	 	RM	107.2 PL	LACo DCS 	Santa Clarita Repeater 	FM 	Emergency Ops 
+445.90000 	 	RM	123.0 PL	LACo DCS 	Santa Clarita Repeater 	FM 	Emergency Ops 
+147.08000 	 	M	CSQ	LACo DCS 	South LA Simplex 	FM 	Emergency Ops 
+145.46000 	 	M	CSQ	LACo DCS 	Walnut Simplex 	FM 	Emergency Ops 
+145.58000 	 	M	CSQ	LACo DCS 	West Hollywood Simplex 	FM 	Emergency Ops 
+470.56250 	KNP331 	RM	CSQ	LAC BLUE 1 	CMD LA Basin - Bn 7, 8, 9, 14, 18, 21 (South County and Catalina) 	FM 	Fire Dispatch 
+470.43750 	KNP331 	RM	CSQ	LAC BLUE 2 	Alt CMD/Tac - LA Basin 	FM 	Fire-Tac 
+470.61250 	KNP331 	RM	CSQ	LAC BLUE 3 	CMD LA Basin - Bn 1, 3, 5, 13, 20 (West County) 	FM 	Fire Dispatch 
+470.51250 	KNP331 	RM	CSQ	LAC BLUE 4 	Countywide Admin / Alt CMD 	FM 	Fire-Tac 
+470.66250 	WII225 	RM	CSQ	LAC BLUE 5 	CMD San Gabriel Valley - Bn 2, 4, 10, 12, 15, 16, 19 (East County) 	FM 	Fire-Tac 
+470.41250 	WII225 	RM	CSQ	LAC BLUE 6 	Alt CMD/Tac - San Gabriel Valley 	FM 	Fire Dispatch 
+470.46250 	KNP331 	RM	CSQ	LAC BLUE 7 	Alt CMD/Tac - San Gabriel Valley 	FM 	Fire-Tac 
+470.53750 	KNP331 	RM	CSQ	LAC BLUE 8 	Countywide Dispatch 	FM 	Fire Dispatch 
+470.63750 	KNP331 	RM	151.4 PL	LAC BLUE 9 	Alt CMD/Tac - Antelope Valley ONLY 	FM 	Fire-Tac 
+470.36250 	KNP331 	RM	151.4 PL	LAC BLUE 10 	Alt CMD/Tac - Antelope Valley ONLY 	FM 	Fire-Tac 
+470.58750 	KNP331 	RM	CSQ	LAC BLUE 11 	Alt CMD - Santa Clarita and Antelope Valleys 	FM 	Fire-Tac 
+470.48750 	KNP331 	RM	CSQ	LAC BLUE 12 	CMD North - Bn 6, 11, 17, 22 (North County) 	FM 	Fire Dispatch 
+453.67500 	KBZ726 	RM	151.4 PL	LAC U-13 	CMD - La Habra (Puente Hills Repeater) 	FMN 	Fire-Tac 
+453.72500 	KRM765 	M	151.4 PL	LAC U-14D 	Crew / Dozer Net 	FMN 	Fire-Tac 
+453.77500 	KMG240 	M	151.4 PL	LAC U-15D 	Alt Crew / Dozer Net 	FMN 	Fire-Tac 
+453.82500 	KBZ725 	M	151.4 PL	LAC U-16D 	CMD/Tac 	FMN 	Fire-Tac 
+453.97500 	KM6542 	M	151.4 PL	LAC U-17D 	CMD/Tac 	FMN 	Fire-Tac 
+453.90000 	KBN492 	M	151.4 PL	LAC U-18D 	Tac (North County) 	FMN 	Fire-Tac 
+478.55000 	WQJX513 	RM	151.4 PL	LAC U-19 	Command / Tactical  (Verdugo Peak repeater) 	FMN 	Fire-Tac 
+478.65000 	WQJX521 	RM	151.4 PL	LAC U-20 	Command / Tactical / Portable Repeater 	FMN 	Fire-Tac 
+478.75000 	WQJX521 	RM	151.4 PL	LAC U-21 	Command / Tactical / Portable Repeater 	FMN 	Fire-Tac 
+478.85000 	WQJX521 	RM	151.4 PL	LAC U-22 	Command / Tactical / Portable Repeater 	FMN 	Fire-Tac 
+478.95000 	WQJX521 	RM	151.4 PL	LAC U-23 	Command / Tactical / Portable Repeater 	FMN 	Fire-Tac 
+478.98750 	WQJX521 	RM	151.4 PL	LAC U-24 	Command / Tactical / Portable Repeater 	FMN 	Fire-Tac 
+487.23750 	WIJ645 	M	156.7 PL	FDUMA 	FD UHF Mutual Air 	FMN 	Interop 
+123.97500 	 	BM	CSQ	Fox Field 	Air Ops - Fox Field ATB 	AM 	Aircraft 
+122.92500 	 	M	CSQ	Air Ops Fixe 	Air Ops - Fixed Wing Coordination 	AM 	Aircraft 
+128.55000 	 	M	CSQ	Air SFRA 	Air-Air SFRA 	AM 	Aircraft 
+130.70000 	 	M	CSQ	Air to Air 	Air-Air 	AM 	Aircraft 
+482.66250 	WIJ547 	B	CSQ	LAC MDTs 	MDT Data 	FM 	Data 
+482.68750 	WIJ547 	B	CSQ	LAC MDTs 	MDT Data 	FM 	Data 
+482.71250 	WIJ547 	B	CSQ	LAC MDTs 	MDT Data 	FM 	Data 
+482.73750 	WIJ547 	B	CSQ	LAC MDTs 	MDT Data 	FM 	Data 
+482.76250 	WIJ547 	B	CSQ	LAC MDTs 	MDT Data 	FM 	Data 
+37.06000 	KD20816 	BM	88.5 PL	LAC L-1 	Boats - South 	FM 	EMS-Talk 
+37.08000 	KD20816 	BM	88.5 PL	LAC L-3 	Boats - North 	FM 	EMS-Talk 
+37.20000 	KD20816 	BM	88.5 PL	ALPHA 4 	Boats - Central and Avalon 	FM 	EMS-Talk 
+37.36000 	KD20816 	BM	88.5 PL	LAC L-2 	Boats 	FM 	EMS-Talk 
+159.63000 	KMC219 	BM	151.4 PL	LAC V-14D 	Lifeguard - Southern Section 	FMN 	Fire-Tac 
+159.52500 	KMF295 	BM	151.4 PL	LAC  V-15D 	Lifeguard - Central Section 	FMN 	Fire-Tac 
+161.37000 	WXF746 	BM	151.4 PL	LAC  V-16D 	Lifeguard - Northern Section 	FMN 	Fire-Tac 
+852.31250 	KFO689 	BM	203.5 PL	CastaicLifeG 	Los Angeles County Lake Lifeguard (Castaic) 	FM 	EMS-Talk 
+152.15000 	 	RM	151.4 PL	LAC V-1 	Command 1 	FMN 	Fire-Tac 
+152.24000 	WQMJ896 	RM	151.4 PL	LAC V-2 	Command 2 	FMN 	Fire-Tac 
+152.54000 	 	RM	151.4 PL	LAC V-3 	Command 3 	FMN 	Fire-Tac 
+152.57000 	 	RM	151.4 PL	LAC V-4 	Command 4 	FMN 	Fire-Tac 
+152.78000 	 	RM	151.4 PL	LAC V-5 	Command 5 	FMN 	Fire-Tac 
+153.83000 	KA7010 	BM	151.4 PL	LAC V-6D 	Tactical 	FMN 	Fire-Tac 
+153.89000 	KA7010 	BM	151.4 PL	LAC V-7D 	Tactical 	FMN 	Fire-Tac 
+154.07000 	 	BM	151.4 PL	LAC V-8D 	Tactical 	FMN 	Fire-Tac 
+154.34000 	 	BM	CSQ	LAC  V-9D 	Tactical 	FMN 	Fire-Tac 
+154.41500 	KA7010 	BM	151.4 PL	LAC V-10D 	Tactical 	FMN 	Fire-Tac 
+154.43000 	KA7010 	BM	CSQ	LAC  V-11D 	Tactical 	FMN 	Fire-Tac 
+158.97000 	KA4306 	BM	151.4 PL	LAC V-12D 	Tactical 	FMN 	Fire-Tac 
+159.09000 	WPNU305 	BM	151.4 PL	LAC V-13D 	Tactical 	FMN 	Fire-Tac 
+161.47500 	WNUS602 	BM	151.4 PL	LAC V-17D 	 Tactical Coastal Battalions - Catalina 	FMN 	Fire-Tac 
+161.50500 	WNUS602 	RM	151.4 PL	LAC V-18 	Command - Coastal Battalions - Catalina  	FMN 	Fire-Tac 
+161.52000 	KD20816 	RM	151.4 PL	LAC V-19 	Command - Coastal Battalions  	FMN 	Fire-Tac 
+154.39250 	WPME990 	M	152 DPL	LAC RIC 	RIC 	FMN 	Fire-Tac 
+154.40000 	KA7010 	BM	151.4 PL	LAC A/G 	Air Ops 	FMN 	Fire-Tac 
+155.28000 	KQP480 	BM		LACo HEAR 	Hospital Emergency Administrative Radio 	FM 	EMS-Talk 
+463.00000 	KQV935 	RM	203.5 PL	MEDIC 1-A 	Northridge Hospital 	FM 	Hospital 
+463.00000 	KQV935 	RM	141.3 PL	MEDIC 1-B 	Cedars-Sinai Hospital 	FM 	Hospital 
+463.00000 	KQV935 	RM	146.2 PL	MEDIC 1-C 	 	FM 	Hospital 
+463.00000 	KQV935 	RM	151.4 PL	MEDIC 1-D 	LCM Beach Cities 	FM 	Hospital 
+463.00000 	KQV935 	RM	156.7 PL	MEDIC 1-E 	St. Francis Hospital 	FM 	Hospital 
+463.00000 	KQV935 	RM	162.2 PL	MEDIC 1-F 	Long Beach Memorial 	FM 	Hospital 
+462.97500 	KQV935 	RM	203.5 PL	MEDIC 10-A 	Harbor/UCLA 	FM 	Hospital 
+462.97500 	KQV935 	RM	146.2 PL	MEDIC 10-C 	Primary 	FM 	Hospital 
+462.97500 	KQV935 	RM	151.4 PL	MEDIC 10-D 	Hailing 	FM 	Hospital 
+463.02500 	KQV935 	RM	203.5 PL	MEDIC 2-A 	Huntington Memorial 	FM 	Hospital 
+463.02500 	KQV935 	RM	141.3 PL	MEDIC 2-B 	Harbor UCLA Hospital 	FM 	Hospital 
+463.02500 	KQV935 	RM	146.2 PL	MEDIC 2-C 	California (Back up) 	FM 	Hospital 
+463.02500 	KQV935 	RM	151.4 PL	MEDIC 2-D 	Long Beach Memorial  	FM 	Hospital 
+463.02500 	KQV935 	RM	156.7 PL	MEDIC 2-E 	St. Francis Hospital  	FM 	Hospital 
+463.02500 	KQV935 	RM	162.2 PL	MEDIC 2-F 	Pomona Valley 	FM 	Hospital 
+463.05000 	KQV935 	RM	203.5 PL	MEDIC 3-A 	St. Joseph Med Ctr. 	FM 	Hospital 
+463.05000 	KQV935 	RM	141.3 PL	MEDIC 3-B 	Baldwin Hills 	FM 	Hospital 
+463.05000 	KQV935 	RM	146.2 PL	MEDIC 3-C 	LAC USC Hospital 	FM 	Hospital 
+463.05000 	KQV935 	RM	151.4 PL	MEDIC 3-D 	Torrance Memorial  	FM 	Hospital 
+463.05000 	KQV935 	RM	156.7 PL	MEDIC 3-E 	Presbyterian  	FM 	Hospital 
+463.05000 	KQV935 	RM	162.2 PL	MEDIC 3-F 	Arcadia Methodist  	FM 	Hospital 
+463.07500 	KQV935 	RM	203.5 PL	MEDIC 4-A 	Henry Mayo Hospital 	FM 	Hospital 
+463.07500 	KQV935 	RM	141.3 PL	MEDIC 4-B 	 	FM 	Hospital 
+463.07500 	KQV935 	RM	146.2 PL	MEDIC 4-C 	LAC USC Hospital  	FM 	Hospital 
+463.07500 	KQV935 	RM	151.4 PL	MEDIC 4-D 	Harbor/UCLA (Primary) 	FM 	Hospital 
+463.07500 	KQV935 	RM	156.7 PL	MEDIC 4-E 	St Marys LCM (Back up) 	FM 	Hospital 
+463.07500 	KQV935 	RM	162.2 PL	MEDIC 4-F 	Queen of the Valley 	FM 	Hospital 
+463.10000 	KQV935 	RM	203.5 PL	MEDIC 5-A 	St Joseph Hospital  	FM 	Hospital 
+463.10000 	KQV935 	RM	141.3 PL	MEDIC 5-B 	UCLA Santa Monica  	FM 	Hospital 
+463.10000 	KQV935 	RM	146.2 PL	MEDIC 5-C 	California (Primary) 	FM 	Hospital 
+463.10000 	KQV935 	RM	151.4 PL	MEDIC 5-D 	Long Beach Memorial  	FM 	Hospital 
+463.10000 	KQV935 	RM	156.7 PL	MEDIC 5-E 	 	FM 	Hospital 
+463.10000 	KQV935 	RM	162.2 PL	MEDIC 5-F 	Huntington  	FM 	Hospital 
+463.12500 	KQV935 	RM	203.5 PL	MEDIC 6-A 	Holy Cross Hospital 	FM 	Hospital 
+463.12500 	KQV935 	RM	141.3 PL	MEDIC 6-B 	Cedars-Sinai (Back up) 	FM 	Hospital 
+463.12500 	KQV935 	RM	146.2 PL	MEDIC 6-C 	Glendale Adventist  	FM 	Hospital 
+463.12500 	KQV935 	RM	151.4 PL	MEDIC 6-D 	LCM Hospital  	FM 	Hospital 
+463.12500 	KQV935 	RM	156.7 PL	MEDIC 6-E 	 	FM 	Hospital 
+463.12500 	KQV935 	RM	162.2 PL	MEDIC 6-F 	 	FM 	Hospital 
+463.15000 	KQV935 	RM	203.5 PL	MEDIC 7-A 	Antelope Valley  	FM 	Hospital 
+463.15000 	KQV935 	RM	141.3 PL	MEDIC 7-B 	Harbor/UCLA (Back up) 	FM 	Hospital 
+463.15000 	KQV935 	RM	146.2 PL	MEDIC 7-C 	LAC USC (Back up) 	FM 	Hospital 
+463.15000 	KQV935 	RM	151.4 PL	MEDIC 7-D 	California MLK (Back up) 	FM 	Hospital 
+463.15000 	KQV935 	RM	156.7 PL	MEDIC 7-E 	St Mary's Hospital 	FM 	Hospital 
+463.15000 	KQV935 	RM	162.2 PL	MEDIC 7-F 	Pomona Valley Hospital  	FM 	Hospital 
+463.17500 	KQV935 	RM	203.5 PL	MEDIC 8-A 	Northridge (Back up) 	FM 	Hospital 
+463.17500 	KQV935 	RM	141.3 PL	MEDIC 8-B 	 	FM 	Hospital 
+463.17500 	KQV935 	RM	146.2 PL	MEDIC 8-C 	 	FM 	Hospital 
+463.17500 	KQV935 	BM	151.4 PL	MEDIC 8-D 	California MLK 	FM 	Hospital 
+463.17500 	KQV935 	RM	156.7 PL	MEDIC 8-E 	LCM Hospital 	FM 	Hospital 
+463.17500 	KQV935 	RM	162.2 PL	MEDIC 8-F 	Arcadia Methodist 	FM 	Hospital 
+462.97500 	KQV935 	RM	141.3 PL	MEDIC 9-C 	 	FM 	Hospital 
+462.97500 	KQV935 	RM	156.7 PL	MEDIC 9-E 	 	FM 	Hospital 
+462.97500 	KQV935 	RM	162.2 PL	MEDIC 9-F 	 	FM 	Hospital 
+968.00000 	 	RM		ReddiNet 	LACo - ReddiNet - Disaster Tactical 	FM 	Emergency Ops 
+155.34000 	KQP480 	BM		VMED28 	LA Co.  Medical Alert Center 	FM 	EMS-Talk 
+858.26250 	WPDV636 	RM	293 NAC	STAC-01 	Special Tactical 	P25 	Multi-Tac 
+860.11250 	 	RM	293 NAC	STAC-02 	Special Tactical 	P25 	Multi-Tac 
+860.26250 	WPDV636 	RM	293 NAC	STAC-03 	Special Tactical 	P25 	Multi-Tac 
+851.95000 	 	RM	293 NAC	STAC-11 	Special Tactical 	P25 	Multi-Tac 
+852.07500 	 	RM	293 NAC	STAC-12 	Special Tactical 	P25 	Multi-Tac 
+852.95000 	 	RM	293 NAC	STAC-13 	Special Tactical 	P25 	Multi-Tac 
+853.07500 	 	RM	293 NAC	STAC-14 	Special Tactical 	P25 	Multi-Tac 
+851.93750 	 	RM		VDOC-1 	Interop 	P25 	Interop 
+853.61250 	 	RM		VDOC-2 	Interop 	P25 	Interop 
+853.91250 	 	RM		VDOC-3 	Interop 	P25 	Interop 
+150.99500 	 	RM	141.3 PL	LACo PW 	Public Works - District 4 - Hollydale/Downey 	FM 	Public Works 
+151.04000 	KNAE729 	RM	131.8 PL	LACo PW 	Public Works - Road Maintenance Division - Agoura / Malibu 	FM 	Public Works 
+151.04000 	 	RM	107.2 PL	LACo PW 	Public Works 	FM 	Public Works 
+151.04000 	 	RM	136.5 PL	LACo PW 	Public Works 	FM 	Public Works 
+151.37000 	 	RM	146.2 PL	LACo PW 	Public Works 	FM 	Public Works 
+506.38750 	WIK379 	RM	146.2 PL	LADPWHQSec 	LACoDPW Headquarters - Security 	FM 	Security 
+159.40500 	 	M	127.3 PL	LACo PW 	Public Works - unit to unit handhelds 	FMN 	Public Works 
+159.40500 	 	M	146.2 PL	LACo PW  	Public Works - unit to unit handhelds 	FMN 	Public Works 
+45.98000 	 	BM	88.5 PL	DACC Aguoura 	Agoura Animal Care Center 	FM 	Public Works 
+453.67500 	KMG240 	RM	100.0 PL	Orange 	Mt Disappointment - CWIRS patch to ACC1 	FM 	Public Works 
+478.52500 	WQJX549 	M		SIMPLEX A 	LADA Simplex-A 	FMN 	Law Tac 
+478.43750 	 	M		LADA 	LADA - Metro West / San Dimas / Pomona / SFV / SCV 	FMN 	Law Tac 
+478.81250 	 	M		LADA 	LADA - Antelope Vly / Pasadena / South LA / SGV 	FMN 	Law Tac 
+453.82500 	KBZ725 	RM	186.2 PL	Blue 	Verdugo Peak - Radio Microwave Techs 	FM 	Public Works 
+453.97500 	 	RM	CC 1TG 1SL 1	CivCtr Park 	LA Downtown Civic Center Parking Services 	DMR 	Public Works 
+453.97500 	KQW559 	RM	162.2 PL	Gray 	Hauser Peak - Antelope Valley radio shop 	FM 	Public Works 
+464.06250 	WQPP439 	M	223 DPL	LA Law Lib 	Security 	FMN 	Security 
+453.57500 	KMG240 	RM	107.2 PL	Red 	Oat Mtn - Patch to CWIRS - Sanitation 12 	FM 	Public Works 
+453.97500 	KMG240 	RM	100.0 PL	Gray 	Rolling Hills - Patch to CWIRS - Sanitation 11 	FM 	Public Works 
+36.50000 	 	BM		LARTCS 	National Guard 	FM 	Interop 
+150.79000 	WPNS792 	M	156.7 PL	LARTCS 2V 	Mobile 	FM 	Interop 
+159.18000 	WPXS920 	RM	100.0 PL	LARTCS 3V 	Mt Lee 	FMN 	Interop 
+159.18000 	WQAL793 	RM	156.7 PL	LARTCS 3V 	Castro Peak 	FMN 	Interop 
+159.03000 	WPXS920 	RM	100.0 PL	LARTCS 4V 	Mt Lee 	FMN 	Interop 
+159.15000 	WRL685 	RM	100.0 PL	LARTCS 5V 	Oat Mountain 	FMN 	Interop 
+406.80000 	 	RM	103.5 PL	LARTCS 	Federal Agencies UHF 	FM 	Interop 
+155.32500 	WPQF693 	BM	156.7 PL	FCA V-1D 	Fire Mutual Aid  - Tac-1 	FMN 	Fire-Tac 
+155.40000 	WPQF693 	BM	156.7 PL	FCA V-2D 	Fire Mutual Aid - Tac 2 	FMN 	Fire-Tac 
+150.77500 	WPQF693 	BM	156.7 PL	FCA V-3D 	Fire Mutual Aid - Tac 3 	FMN 	Fire-Tac 
+155.35500 	WPQF693 	BM	156.7 PL	FCA V-4D 	Fire Mutual Aid - Tac 4 	FMN 	Fire-Tac 
+506.73750 	KJC625 	RM	466 NAC	1 CENTRAL 	Central (1) 	P25 	Law Dispatch 
+506.93750 	KJC625 	RM	466 NAC	2 RAMPART 	Rampart (2) 	P25 	Law Dispatch 
+506.98750 	KJC625 	RM	466 NAC	3 SOUTHWEST 	Southwest (3) 	P25 	Law Dispatch 
+507.18750 	KJC625 	RM	466 NAC	4 HOLLENBECK 	Hollenbeck (4) 	P25 	Law Dispatch 
+484.28750 	WIJ799 	RM	466 NAC	5 HARBOR 	Harbor (5) 	P25 	Law Dispatch 
+507.21250 	KJC625 	RM	466 NAC	6 HOLLYWOOD 	Hollywood (6) 	P25 	Law Dispatch 
+506.96250 	KJC625 	RM	466 NAC	7 WILSHIRE  	Wilshire (7) 	P25 	Law Dispatch 
+506.76250 	KJC625 	RM	466 NAC	8 WEST LA 	West LA (8) 	P25 	Law Dispatch 
+506.71250 	KJC625 	RM	466 NAC	9 VAN NUYS 	Van Nuys (9) 	P25 	Law Dispatch 
+484.93750 	WIJ797 	RM	466 NAC	10 WEST VAL 	West Valley (10) 	P25 	Law Dispatch 
+484.83750 	WIL882 	RM	466 NAC	11 NORTHEAST 	Northeast (11) 	P25 	Law Dispatch 
+507.23750 	WIL886 	RM	466 NAC	12 77TH 	77th Street (12) 	P25 	Law Dispatch 
+484.86250 	WIL882 	RM	466 NAC	13 NEWTON 	Newton (13) 	P25 	Law Dispatch 
+484.38750 	WIJ803 	RM	466 NAC	14 PACIFIC 	Pacific (14) 	P25 	Law Dispatch 
+484.96250 	WIJ797 	RM	466 NAC	15 NORTH HWD 	North Hollywood (15) 	P25 	Law Dispatch 
+507.16250 	KJC625 	RM	466 NAC	16 FOOTHILL 	Foothill (16) 	P25 	Law Dispatch 
+506.88750 	KJC625 	RM	466 NAC	17 DEVONSHRE 	Devonshire (17) 	P25 	Law Dispatch 
+506.78750 	KJC625 	RM	466 NAC	18 SOUTHEAST 	Southeast (18) 	P25 	Law Dispatch 
+484.88750 	WIJ797 	RM	466 NAC	19 MISSION 	Mission (19) 	P25 	Law Dispatch 
+484.65000 	WPWJ856 	RM	466 NAC	20 OLYMPIC 	Olympic (20) 	P25 	Law Dispatch 
+484.85000 	WPLQ342 	RM	466 NAC	21 TOPANGA 	Topanga (21) 	P25 	Law Dispatch 
+484.36250 	WIJ803 	RM	466 NAC	22 WTD 	West Traffic (22) 	P25 	Law Dispatch 
+484.91250 	WIJ797 	RM	466 NAC	23 VTD 	Valley Traffic (23) 	P25 	Law Dispatch 
+484.81250 	WIL882 	RM	466 NAC	24 CTD 	Central Traffic (24) 	P25 	Law Dispatch 
+484.33750 	WIJ799 	RM	466 NAC	25 STD 	South Traffic (25) 	P25 	Law Dispatch 
+484.48750 	WPRJ338 	RM	466 NAC	29 SECSD 	Security Services Division (36) 	P25 	Law Dispatch 
+506.58750 	WPLT625 	RM	466 NAC	48 TSD CW 6 	Transit Division (31) 	P25 	Law Dispatch 
+506.70000 	WPLQ343 	RM	466 NAC	101 CENT FBK 	Central (1) 	P25 	Law Talk 
+484.67500 	WPLQ343 	RM	466 NAC	102 RAMP FBK 	Rampart (2) 	P25 	Law Talk 
+507.17500 	WPLQ343 	RM	466 NAC	103 SWD FBK 	Southwest (3) 	P25 	Law Talk 
+484.62500 	WPLQ343 	RM	466 NAC	104 HOBK FBK 	Hollenbeck (4) 	P25 	Law Talk 
+484.87500 	WPLQ343 	RM	466 NAC	105 HARB FBK 	Harbor (5) 	P25 	Law Talk 
+506.60000 	WPLQ343 	RM	466 NAC	106 HWD FBK 	Hollywood (6) 	P25 	Law Talk 
+484.55000 	WPLQ343 	RM	466 NAC	107 WIL FBK 	Wilshire (7) 	P25 	Law Talk 
+484.97500 	WPLQ343 	RM	466 NAC	108 WLA FBK 	West LA (8) 	P25 	Law Talk 
+506.97500 	WPLQ343 	RM	466 NAC	109 VNYS FBK 	Van Nuys (9) 	P25 	Law Talk 
+507.20000 	WPLQ343 	RM	466 NAC	110 WVAL FBK 	West Valley (10) 	P25 	Law Talk 
+484.57500 	WPLQ343 	RM	466 NAC	111 NOE FBK 	Northeast (11) 	P25 	Law Talk 
+484.95000 	WPLQ343 	RM	466 NAC	112 77TH FBK 	77th Street (12) 	P25 	Law Talk 
+506.82500 	WPLQ343 	RM	466 NAC	113 NEWT FBK 	Newton (13) 	P25 	Law Talk 
+484.50000 	WPLQ343 	RM	466 NAC	114 PAC FBK 	Pacific (14) 	P25 	Law Talk 
+484.80000 	WPLQ343 	RM	466 NAC	115 NHWD FBK 	North Hollywood (15) 	P25 	Law Talk 
+506.80000 	WPLQ343 	RM	466 NAC	116 FTHL FBK 	Foothill (16) 	P25 	Law Talk 
+484.30000 	WPLQ343 	RM	466 NAC	117 DEV FBK 	Devonshire (17) 	P25 	Law Talk 
+506.72500 	WPLQ343 	RM	466 NAC	118 SOE FBK 	Southeast (18) 	P25 	Law Talk 
+484.82500 	WPLQ343 	RM	466 NAC	119 MSN FBK 	Mission (19) 	P25 	Law Talk 
+484.70000 	WQJN987 	RM	466 NAC	120 OLYM FBK 	Olympic (20) 	P25 	Law Talk 
+484.37500 	WQJN987 	RM	466 NAC	121 TOP FBK 	Topanga (21) 	P25 	Law Talk 
+484.60000 	WPLQ343 	RM	466 NAC	122 WTD FBK 	West Traffic (27) 	P25 	Law Talk 
+506.75000 	WPLQ343 	RM	466 NAC	123 VTD FBK 	Valley Traffic (26) 	P25 	Law Talk 
+484.52500 	WPLQ343 	RM	466 NAC	124 CTD FBK 	Central Traffic (24) 	P25 	Law Talk 
+506.95000 	WPLQ343 	RM	466 NAC	125 STD FBK 	South Traffic (25) 	P25 	Law Talk 
+507.11250 	WIL868 	RM	466 NAC	35 OCB TAC1 	Central Bureau Tac 1 	P25 	Law Tac 
+484.78750 	WIL882 	RM	466 NAC	36 OCB TAC2 	Central Bureau Tac 2 	P25 	Law Tac 
+507.03750 	KJC625 	RM	466 NAC	37 OSB TAC1 	South Bureau Tac 1 	P25 	Law Tac 
+484.31250 	WIJ799 	RM	466 NAC	38 OSB TAC2 	South Bureau Tac 2 	P25 	Law Tac 
+506.81250 	WIL886 	RM	466 NAC	39 OWB TAC1 	West Bureau Tac 1 	P25 	Law Tac 
+484.41250 	WIJ803 	RM	466 NAC	40 OWB TAC2 	West Bureau Tac 2 	P25 	Law Tac 
+507.01250 	WIL868 	RM	466 NAC	41 OVB TAC1 	Valley Bureau Tac 1 	P25 	Law Tac 
+507.22500 	WIJ797 	RM	466 NAC	42 OVB TAC2 	Valley Bureau Tac 2 	P25 	Law Tac 
+507.08750 	KJC625 	RM	466 NAC	43 CW TAC1 	Citywide Tac 1 	P25 	Law Tac 
+484.66250 	WIL868 	RM	466 NAC	44 CW TAC2 	Citywide Tac 2 	P25 	Law Tac 
+484.76250 	WIL868 	RM	466 NAC	45 CW TAC3 	Citywide Tac 3 	P25 	Law Tac 
+484.46250 	WIL868 	RM	466 NAC	46 CW TAC4 	Citywide Tac 4 	P25 	Law Tac 
+484.63750 	WIL868 	RM	466 NAC	47 CW TAC5 	Citywide Tac 5 	P25 	Law Tac 
+484.98750 	WIL868 	RM	466 NAC	49 CW TAC7 	Citywide Tac 7 	P25 	Law Tac 
+506.86250 	WPRJ338 	RM	466 NAC	30 JUVENILE 	Juvenile Division 	P25 	Law Tac 
+506.36250 	WPRJ338 	RM	466 NAC	32 TID ADMIN 	Technical Investigation Division 	P25 	Law Tac 
+484.56250 	WPRJ338 	RM	466 NAC	52 CCD 	Commercial Crimes 	P25e 	Law Tac 
+484.73750 	WPRJ338 	RM	466 NAC	53 RHD 	Robbery Homicide Division 	P25 	Law Tac 
+506.68750 	WPRJ338 	RM	466 NAC	54 GND 	Gang and Narcotics Division  	P25 	Law Tac 
+506.61250 	WPRJ338 	RM	466 NAC	55 DSVD 1 	Detective Support / Vice Division 1 	P25 	Law Tac 
+484.51250 	WPRJ338 	RM	466 NAC	56 DSVD 2  	Detective Support / Vice Division 2 	P25e 	Law Tac 
+484.53750 	WPRJ338 	RM	466 NAC	57 GND 1 RED 	Gang and Narcotics Division Field Enforcement - Red 	P25e 	Law Tac 
+484.68750 	WPRJ338 	RM	466 NAC	58 GND 2  BLU 	Gang and Narcotics Division - Blue 	P25e 	Law Tac 
+484.61250 	WPRJ338 	RM	466 NAC	59 GND 3 GRN 	Gang and Narcotics Division - Green 	P25e 	Law Tac 
+484.32500 	WPWJ856 	RM	466 NAC	60 NARC TEAM 	Narcotics Team Channel 	P25e 	Law Tac 
+453.87500 	KTV832 	RM	466 NAC	61 GND ONT 	Gang and Narcotics Division - Johnstone Peak local repeater 	P25 	Law Tac 
+453.87500 	WPRI681 	RM	466 NAC	62 GND SPL 	Gang and Narcotics Division - Special 	P25e 	Law Tac 
+506.43750 	WPRJ338 	RM	466 NAC	63 MCD 	Major Crimes Division 	P25 	Law Tac 
+152.88500 	 	M	74.4 PL	Surv / Special 	Surveillance / Specialized units / Bombsquad - "Ch.11" 	FMN 	Law Tac 
+154.77000 	KMA367 	M	100.0 PL	Surveillance 	Surveillance 	FMN 	Law Tac 
+154.77000 	KMA367 	M	131.8 PL	Surveillance 	Surveillance 	FMN 	Law Tac 
+154.99500 	WNBE338 	M	100.0 PL	90 - SIS 3 	Special Investigation Section - Tac 3 	FM 	Law Tac 
+484.71250 	WPRJ338 	RM	466 NAC	26 AIR/K9 	Hotshot/K-9/Air Hailing 	P25 	Law Dispatch 
+484.90000 	WPWJ856 	RM	466 NAC	27 ASD 	Air Support Division  	P25E 	Law Talk 
+506.46250 	WPRJ338 	RM	466 NAC	31 IAG 	Internal Affairs Group 	P25E 	Law Tac 
+507.26250 	KJC625 	RM	466 NAC	50 EMERGENCY 	Emergency Trigger 	P25 	Emergency Ops 
+484.43750 	WPRJ338 	RM	110.9 PL	51 LAPD ACC 	Outside Agency Access to LAPD (Analog) 	FM 	Law Talk 
+506.53750 	WPRJ338 	RM	466 NAC	64 STAFF CMD 	Staff / Command 	P25e 	Law Tac 
+506.83750 	KJC625 	RM	466 NAC	65 METRO  	Metro Division Base 	P25 	Law Tac 
+484.58750 	WPRJ338 	RM	466 NAC	66 SWAT 	Metro Division SWAT 	P25 	Law Tac 
+506.77500 	WPWJ856 	RM	466 NAC	67 METRO FBK 	Metro Division  Talkaround 	P25 	Law Tac 
+506.53750 	WPRJ338 	M	293 NAC	68 METRO SX 	Metro Division Simplex 	P25E 	Law Tac 
+507.10000 	WPLQ343 	RM	466 NAC	127 PAC LAX 	LAX Substation (14) 	P25 	Law Tac 
+506.87500 	WQLB240 	RM	466 NAC	248 JAIL DIV 	Jail Division - Metropolitan Detention Center  	P25 	Corrections 
+484.23750 	 	M	103.5 PL	249 JAIL SX 	Jail Division - Simplex 	FMN 	Corrections 
+488.96250 	 	M	293 NAC	250 ISU 70 S 	 Investigative Support Unit 1 	P25E 	Law Tac 
+491.96250 	 	M	293 NAC	251 ISU 80 S 	 Investigative Support Unit 2 	P25E 	Law Tac 
+484.75000 	WPLQ343 	M	293 NAC	252 EES 1 	Ethics Enforcement Section 1 	P25E 	Law Tac 
+487.75000 	WPLQ343 	M	293 NAC	253 EES 2 	Ethics Enforcement Section 2 	P25E 	Law Tac 
+484.35000 	WPRJ428 	RM	466 NAC	Hotshot OAT 	Hotshot (rebroadcast 484.7125) Oat Mt. 	P25 	Interop 
+484.40000 	WPLQ341 	RM	466 NAC	Hotshot Harb 	Hotshot (rebroadcast 484.7125) Rolling Hills 	P25 	Interop 
+484.92500 	WPLQ341 	RM	466 NAC	HBR5 Rebro 	Rebroadcast 484.2875 - Harbor Division (5) 	P25 	Interop 
+484.47500 	WPVM496 	B	445 DPL	LAPD Telem 	Telemetry -  Diagnostic system  	FM 	Data 
+484.77500 	WPLQ343 	RM	466 NAC	FUTURE 	Future Use 	P25 	Law Tac 
+506.85000 	WPLQ343 	RM	466 NAC	FUTURE 	Future Use 	P25 	Law Tac 
+507.25000 	WPLQ343 	RM	466 NAC	FUTURE 	Future Use 	P25 	Law Tac 
+851.18750 	WXZ989 	BM	CSQ	LAPD MDT 	LAPD MDTs 	FM 	Data 
+851.26250 	KGE571 	BM	CSQ	LAPD MDT 	LAPD MDTs 	FM 	Data 
+851.31250 	WXZ989 	BM	CSQ	LAPD MDT 	LAPD MDTs 	FM 	Data 
+852.01250 	WXZ989 	BM	CSQ	LAPD MDT 	LAPD MDTs 	FM 	Data 
+853.11250 	WXZ989 	BM	CSQ	LAPD MDT 	LAPD MDTs 	FM 	Data 
+853.88750 	KGE571 	BM	CSQ	LAPD MDT 	LAPD MDTs 	FM 	Data 
+854.08750 	KGE571 	BM	CSQ	LAPD MDT 	LAPD MDTs 	FM 	Data 
+855.13750 	WXZ989 	BM	CSQ	LAPD MDT 	LAPD MDTs 	FM 	Data 
+857.91250 	KGE571 	BM	CSQ	LAPD MDT 	LAPD MDT 	FM 	Data 
+123.02500 	 	M	CSQ	LAPD AirSup1 	LA Basin Helicopter air-air 	AM 	Aircraft 
+123.07500 	KMB7 	BM	CSQ	LAPD AirSup2 	LAPD Hooper Heliport 	AM 	Aircraft 
+122.75000 	 	BM	CSQ	LAPD AirSup3 	Company 1 	AM 	Aircraft 
+122.85000 	KAW8 	BM	CSQ	LAPD AirSup4 	Company 2 	AM 	Aircraft 
+506.70000 	WQCN437 	M	466 NAC	101 CENT SMPLX 	Central (1) Simplex 	P25 	Law Tac 
+484.67500 	WPLQ343 	M	466 NAC	102 RAMP SMPLX 	Rampart (2) Simplex 	P25 	Law Tac 
+507.17500 	WQCN437 	M	466 NAC	103 SOW SMPLX 	Southwest (3) Simplex 	P25 	Law Tac 
+484.62500 	WQCN437 	M	466 NAC	104 HOBK SMPLX 	Hollenbeck (4) Simplex 	P25 	Law Tac 
+484.87500 	WQCP647 	M	466 NAC	105 HARB SMPLX 	Harbor (5) Simplex 	P25 	Law Tac 
+506.60000 	WQCP647 	M	466 NAC	106 HWD SMPLX 	Hollywood (6) Simplex 	P25 	Law Tac 
+484.55000 	WQCP647 	M	466 NAC	107 WIL SMPLX 	Wilshire (7) Simplex 	P25 	Law Tac 
+484.97500 	WQCU323 	M	466 NAC	108 WLA SMPLX 	West LA (8) Simplex 	P25 	Law Tac 
+506.97500 	WQCU323 	M	466 NAC	109 VNY SMPLX 	Van Nuys (9) Simplex 	P25 	Law Tac 
+507.20000 	WQCU323 	M	466 NAC	110 WVAL SMPLX 	West Valley (10) Simplex 	P25 	Law Tac 
+484.57500 	WQCN437 	M	466 NAC	111 NOE SMPLX 	Northeast (11) Simplex 	P25 	Law Tac 
+484.95000 	WPLQ343 	M	466 NAC	112 77TH SMPLX 	77th St.(12) Simplex 	P25 	Law Tac 
+506.82500 	WPLQ343 	M	466 NAC	113 NWT SMPLX 	Newton (13) Simplex 	P25 	Law Tac 
+484.50000 	WQCU323 	M	466 NAC	114 PAC SMPLX 	Pacific (14) Simplex 	P25 	Law Tac 
+484.80000 	WQCU323 	M	466 NAC	115 NHD SMPLX 	North Hollywood (15) Simplex 	P25 	Law Tac 
+506.80000 	WQCU323 	M	466 NAC	116 FTL SMPLX 	Foothill (16) Simplex 	P25 	Law Tac 
+484.30000 	WQCU325 	M	466 NAC	117 DEV SMPLX 	Devonshire (17) Simplex 	P25 	Law Tac 
+506.72500 	WQCP647 	M	466 NAC	118 SOE SMPLX 	Southeast (18) Simplex 	P25 	Law Tac 
+484.82500 	WQCU325 	M	466 NAC	119 MSN SIMPLX 	Mission (19) Simplex 	P25 	Law Tac 
+484.70000 	WQJS379 	M	466 NAC	120 OLY SMPLX 	Olympic (20) Simplex 	P25 	Law Tac 
+484.37500 	WQJS378 	M	466 NAC	121 TOP SMPLX 	Topanga (21) Simplex 	P25 	Law Tac 
+484.60000 	WQCU323 	M	466 NAC	122 WTD SMPLX 	West Traffic (27) Simplex 	P25 	Law Tac 
+506.75000 	WQCU323 	M	466 NAC	123 VTD SMPLX 	Valley Traffic (26) Simplex 	P25 	Law Tac 
+484.52500 	WPLQ343 	M	466 NAC	124 CTD SMPLX 	Central Traffic (24) Simplex 	P25 	Law Tac 
+506.95000 	WQCN437 	M	466 NAC	125 STD SMPLX 	South Traffic (25) Simplex 	P25 	Law Tac 
+506.70000 	WPWJ856 	RM	466 NAC	301 CENT FBK 	Central (1) Fallback Repeater 	P25 	Law Tac 
+484.67500 	WPWJ856 	RM	466 NAC	302 RAMP FBK  	Rampart (2) Fallback Repeater 	P25 	Law Tac 
+507.17500 	WPWJ856 	RM	466 NAC	303 SOW FBK 	Southwest (3) Fallback Repeater 	P25 	Law Tac 
+484.62500 	WPWJ856 	RM	466 NAC	304 HOBK FBK 	Hollenbeck (4) Fallback Repeater 	P25 	Law Tac 
+484.87500 	WPLQ341 	RM	466 NAC	305 HARB FBK 	Harbor (5) Fallback Repeater 	P25 	Law Tac 
+506.60000 	WPWJ856 	RM	466 NAC	306 HWD FBK 	Hollywood (6) Fallback Repeater 	P25 	Law Tac 
+484.55000 	WPWJ856 	RM	466 NAC	307 WIL FBK 	Wilshire (7) Fallback Repeater 	P25 	Law Tac 
+484.97500 	WPWJ856 	RM	466 NAC	308 WLA FBK 	West LA (8) Fallback Repeater 	P25 	Law Tac 
+506.97500 	WPWJ856 	RM	466 NAC	309 VNYS FBK 	Ban Nuys (9) Fallback Repeater 	P25 	Law Tac 
+507.20000 	WPWJ856 	RM	466 NAC	310 WVAL FBK 	West Valley (10) Fallback Repeater 	P25 	Law Tac 
+484.57500 	WPWJ856 	RM	466 NAC	311 NOE FBK 	Northeast (11) Fallback Repeater 	P25 	Law Tac 
+484.95000 	WPWJ856 	RM	466 NAC	312 77TH FBK 	77th Street (12) Fallback Repeater 	P25 	Law Tac 
+506.82500 	WPWJ856 	RM	466 NAC	313 NEWT FBK 	Newton (13) Fallback Repeater 	P25 	Law Tac 
+484.50000 	WPWJ856 	RM	466 NAC	314 PAC FBK 	Pacific (14) Fallback Repeater 	P25 	Law Tac 
+484.80000 	WPWJ856 	RM	466 NAC	315 NHWD FBK 	North Hollywood (15) Fallback Repeater 	P25 	Law Tac 
+506.80000 	WPWJ856 	RM	466 NAC	316 FTHL FBK 	Foothill (16) Fallback Repeater 	P25 	Law Tac 
+484.30000 	WPWJ856 	RM	466 NAC	317 DEV FBK 	Devonshire (17) Fallback Repeater 	P25 	Law Tac 
+506.72500 	WPWJ856 	RM	466 NAC	318 SOE FBK 	Southeast (18) Fallback Repeater 	P25 	Law Tac 
+484.82500 	WPWJ856 	RM	466 NAC	319 MISN FBK 	Mission (19) Fallback Repeater 	P25 	Law Tac 
+484.70000 	WPWJ856 	RM	466 NAC	320 OLY FBK 	Olympic (20 ) Fallback Repeater 	P25 	Law Tac 
+484.37500 	WPWJ856 	RM	466 NAC	321 TOP FBK 	Topanga (21) Fallback Repeater 	P25 	Law Tac 
+484.60000 	WPWJ856 	RM	466 NAC	322 WTD FBK 	West Traffic (27) Fallback Repeater 	P25 	Law Tac 
+506.75000 	WPWJ856 	RM	466 NAC	323 VTD FBK 	Valley Traffic (26) Fallback Repeater 	P25 	Law Tac 
+484.52500 	WPWJ856 	RM	466 NAC	324 CTD FBK 	Central Traffic (24) Fallback Repeater 	P25 	Law Tac 
+506.95000 	WPWJ856 	RM	466 NAC	325 STD FBK 	South Traffic (25) Fallback Repeater 	P25 	Law Tac 
+860.93750 	WNXI689 	RM	85.4 PL	LAFD 1 	Operations Central Bureau  	FM 	Fire-Talk 
+859.93750 	WNXI697 	RM	88.5 PL	LAFD 2 	Operations South Bureau 	FM 	Fire-Talk 
+858.93750 	WNXI694 	RM	91.5 PL	LAFD 3 	Operations Valley Bureau 	FM 	Fire-Talk 
+857.93750 	WNXI690 	RM	94.8 PL	LAFD 4 	Dispatch - EMS (South of Mulholland) 	FM 	Fire Dispatch 
+856.93750 	WNXI689 	RM	97.4 PL	LAFD 5 	Alternate Control - Brush / River Rescue Incidents 	FM 	Fire-Tac 
+858.23750 	KNFV977 	RM	131.8 PL	LAFD 6 	ALERT 6 / EMERGENCY TRIGGER 	FM 	Fire-Tac 
+859.43750 	WNXI690 	RM	192.8 PL	LAFD 7 	Dispatch - Fire (South of Mulholland) 	FM 	Fire Dispatch 
+858.43750 	KNFV977 	RM	103.5 PL	LAFD 8 	Dispatch - Fire/EMS (North of Mulholland) 	FM 	Fire Dispatch 
+857.23750 	WNPS352 	RM	107.2 PL	LAFD 9 	Alternate Control - Structure Fire Incidents 	FM 	Fire-Tac 
+856.23750 	WNXI689 	RM	123.0 PL	LAFD 10 	Operations - EMS (Citywide) 	FM 	Fire-Talk 
+860.76250 	WNPS352 	RM	127.3 PL	LAFD 11 	Command 	FM 	Fire-Talk 
+860.43750 	WNXI689 	RM	186.2 PL	LAFD 12 	Tactical 	FM 	Fire-Tac 
+857.43750 	WNXI689 	RM	141.3 PL	LAFD 13 	Tactical / Operations West Bureau Earthquake Mode 	FM 	Fire-Tac 
+856.43750 	WNXI697 	RM	146.2 PL	LAFD 14 	Tactical 	FM 	Fire-Tac 
+859.76250 	WNXI691 	RM	151.4 PL	LAFD 15 	Tactical 	FM 	Fire-Tac 
+858.76250 	WNXI692 	RM	162.2 PL	LAFD 16 	Tactical 	FM 	Fire-Tac 
+857.76250 	WNXI693 	RM	167.9 PL	LAFD 17 	Tactical 	FM 	Fire-Tac 
+856.76250 	WNXI695 	RM	173.8 PL	LAFD 18 	Tactical 	FM 	Fire-Tac 
+769.05625 	WQEF289 	M	156.7 PL	LAFD 7NAT01D 	Tactical 	FMN 	Fire-Tac 
+769.06875 	WQEF289 	M	156.7 PL	LAFD 7NAT02D 	Tactical 	FMN 	Fire-Tac 
+774.99375 	WQEF289 	M	156.7 PL	LAFD 7NAT03D 	Tactical 	FMN 	Fire-Tac 
+851.01250 	 	RM	156.7 PL	8TAC90 	Calling 	FM 	Fire-Tac 
+851.51250 	 	RM	156.7 PL	8TAC91 	Tactical 	FM 	Fire-Tac 
+852.01250 	 	RM	156.7 PL	8TAC92 	Tactical 	FM 	Fire-Tac 
+852.51250 	 	RM	156.7 PL	8TAC93 	Tactical 	FM 	Fire-Tac 
+853.01250 	 	RM	156.7 PL	8TAC94 	Tactical 	FM 	Fire-Tac 
+853.98750 	 	RM	156.7 PL	CA FIRE 1 	Tactical - LAX Crash Crews Primary (Simplex) 	FM 	Fire-Tac 
+119.97500 	 	M	CSQ	LAFD Air Ops 	Helicopters 	AM 	Fire-Tac 
+154.83000 	KMD579 	M	100.0 PL	LAFD A/G 	Air to Ground 	FMN 	Fire-Tac 
+506.31250 	KVV961 	RM	CSQ	LAFD MDT 	LAFD MDTs 	FM 	Data 
+506.63750 	KVV961 	RM	165.5 PL	LAFD MDT 	LAFD MDTs 	FM 	Data 
+506.91250 	KVV961 	RM	165.5 PL	LAFD MDT 	LAFD MDTs 	FM 	Data 
+507.13750 	KVV961 	RM	162.2 PL	LAFD MDT 	LAFD MDTs 	FM 	Data 
+144.31000 	 	M	110.9 PL	LA CERT 1 	Battalion 1 	FM 	Emergency Ops 
+145.58500 	 	M	110.9 PL	LA CERT 2 	Battalion 2 	FM 	Emergency Ops 
+146.53500 	 	M	110.9 PL	LA CERT 3 	Unassigned (formerly Bat 3) 	FM 	Emergency Ops 
+144.40500 	 	M	110.9 PL	LA CERT 4 	Battalion 4 	FM 	Emergency Ops 
+144.33000 	 	M	110.9 PL	LA CERT 5 	Battalion 5 	FM 	Emergency Ops 
+146.46000 	 	M	110.9 PL	LA CERT 6 	Battalion 6 	FM 	Emergency Ops 
+144.59500 	 	M	110.9 PL	LA CERT 7 	Unassigned (formerly Bat 7) 	FM 	Emergency Ops 
+144.50500 	N6ACS 	RM	162.2 PL	LA CERT 8 	LAFD ACS Primary Repeater (Coldwater) 	FM 	Emergency Ops 
+144.47500 	 	M	110.9 PL	LA CERT 9 	Battalion 9 	FM 	Emergency Ops 
+144.35000 	 	M	110.9 PL	LA CERT 10 	Battalion 10 	FM 	Emergency Ops 
+145.52500 	 	M	110.9 PL	LA CERT 11 	Battalion 11 	FM 	Emergency Ops 
+144.43500 	 	M	110.9 PL	LA CERT 12 	Battalion 12 	FM 	Emergency Ops 
+145.54000 	 	M	110.9 PL	LA CERT 13 	Battalion 13 	FM 	Emergency Ops 
+144.37000 	 	M	110.9 PL	LA CERT 14 	Battalion 14 	FM 	Emergency Ops 
+144.34000 	 	M	110.9 PL	LA CERT 15 	Battalion 15 	FM 	Emergency Ops 
+445.62000 	W6HA 	RM	127.3 PL	LA CERT 16 	LA Basin / South - Hughes Radio Club Repeater 	FM 	Emergency Ops 
+144.36000 	 	M	110.9 PL	LA CERT 17 	Battalion 17 	FM 	Emergency Ops 
+147.51000 	 	M	110.9 PL	LA CERT 18 	Battalion 18 	FM 	Emergency Ops 
+146.44500 	 	M	110.9 PL	LA CERT 19 	Alternate 1 	FM 	Emergency Ops 
+147.52500 	 	M	110.9 PL	LA CERT 20 	Alternate 2 	FM 	Emergency Ops 
+145.63000 	 	M	110.9 PL	LA CERT 21 	Central Bureau 	FM 	Emergency Ops 
+144.46500 	 	M	110.9 PL	LA CERT 22 	Valley Bureau 	FM 	Emergency Ops 
+144.32500 	 	M	110.9 PL	LA CERT 23 	West Bureau 	FM 	Emergency Ops 
+146.55000 	 	M	110.9 PL	LA CERT 24 	South Bureau 	FM 	Emergency Ops 
+447.82000 	KJ6TQ 	RM	67.0 PL	LA CERT 25 	Valley - SoCal Mutual Aid Repeater 	FM 	Emergency Ops 
+853.16250 	 	M	173.8 PL	LA BSS TA 	Bureau of Street Services Talk-Around Direct 	FMN 	Public Works 
+853.16250 	 	M	203.5 PL	LA DBS TA 	Department of Building and Safety Talk-Around Direct 	FMN 	Public Works 
+853.16250 	 	M	118.8 PL	LA DOT TA 	Department of Transportation Talk-Around Direct 	FMN 	Public Works 
+853.16250 	 	M	114.8 PL	LA DRP TA 	Recreation and Parks Talk-Around Direct 	FMN 	Public Works 
+853.16250 	 	M	151.4 PL	LA EPD TA 	Emergency Preparedness Division Talk-Around Direct 	FMN 	Public Works 
+853.16250 	 	M	91.5 PL	LA GSD TA 	General Services Division Talk-Around Direct 	FMN 	Public Works 
+853.16250 	 	M	162.2 PL	LA ITA TA1 	Information Technology Agency Talk-Around Direct 1 	FMN 	Public Works 
+853.16250 	 	M	97.4 PL	LA ITA TA2 	Information Technology Agency Talk-Around Direct 2 	FMN 	Public Works 
+853.16250 	 	M	186.2 PL	LA ZOO TA 	Zoo Talk-Around Direct 	FMN 	Public Works 
+853.16250 	 	M	192.8 PL	LAAS TA 	Animal Services Talk-Around Direct 	FMN 	Public Works 
+158.91000 	WRL685 	BM	203.5 PL	ITA Radio 	Information Technology Agency - Mt. Lee Radio Techs 	FMN 	Public Works 
+453.11250 	KD26702 	M	115 DPL	Rancho Park 	Recreation and Parks Dept - Rancho Park Golf Course 	FMN 	Public Works 
+467.81250 	WPOC654 	M	110.9 PL	DWP Simplex 	Dept of Water and Power - field work simplex 	FMN 	Utilities 
+469.55000 	 	M	432 DPL	BOE Simplex 	Bureau of Engineering - field work simplex 	FMN 	Public Works 
+469.90000 	 	M	432 DPL	BOE Simplex 	Bureau of Engineering - field work simplex 	FMN 	Public Works 
+460.52500 	WZG297 	RM	118.8 PL	LAX PD 1 	LAX Police Access Channel 	FMN 	Law Dispatch 
+453.37500 	KTU271 	RM	118.8 PL	LAX FMG 	Facilities Management Group 	FM 	Public Works 
+464.18750 	WQUB722 	RM	131.8 PL	LAX Parking 	Terminal Parking Lot Ops 	FMN 	Business 
+461.72500 	WQHE943 	M	664 DPL	LAX Parking 	Terminal Parking Lot Ops 	FM 	Business 
+464.28750 	WQHE943 	M	343 DPL	LAX Parking 	Terminal Parking Lot Ops 	FM 	Business 
+464.88750 	WQHE943 	M	023 DPL	LAX Parking 	Terminal Parking Lot Ops 	FM 	Business 
+460.52500 	WZG297 	RM	156.7 PL	VNY 7  PD 1 	VNY Police Access Channel  	FMN 	Law Dispatch 
+453.37500 	KTU271 	RM	156.7 PL	VNY 8 PD 2 	Police Tactical 	FM 	Law Tac 
+460.10000 	WNKX789	 	RM	192.8 PL	VNY 9 Maint 	Maintenance 	FM 	Public Works 
+460.55000 	WNLB660 	RM	192.8 PL	VNY 10 Ops 	Operations 	FM 	Public Works 
+156.65000 	 	M	CSQ	BRIDGE 13 	Bridge-to-Bridge In-Port (Marine 13)  	FM 	Business 
+156.80000 	 	BM	CSQ	HAIL 16 	Hailing and Distress Calling (Marine 16) 	FM 	Business 
+156.30000 	 	M	CSQ	INTERSHIP 6 	Intership Safety (Marine Ch. 6) 	FM 	Business 
+156.70000 	 	BM	CSQ	LALB VTS 14 	San Pedro Vessel Traf. Svs. (Marine 14) 	FM 	Business 
+157.17500 	 	BM	CSQ	USCG 83A 	Sector LA/LB Ops Primary (Marine 83A) 	FM 	Federal 
+157.07500 	 	RM	CSQ	USCG 81A 	Sector LA/LB Ops Secondary (Marine 81A) 	FM 	Federal 
+157.10000 	 	BM	CSQ	USCG 22A 	USCG Public Liaison (Marine 22A) 	FM 	Federal 
+453.22500 	KTP996 	RM	156 DPL	LOB HBR 1 	Harbor Maintenance 	FMN 	Public Works 
+460.27500 	KTP996 	RM	131 DPL	LOB HBR 3 	Harbor Security 	FMN 	Security 
+156.72500 	 	BM	CSQ	PORT Pilot 2 	Pilots - Secondary (Marine Ch. 74) 	FM 	Business 
+156.60000 	 	BM	CSQ	PORT 12 	Port Ops. & Local Rescue (Marine 12) 	FM 	Business 
+156.25000 	 	BM	CSQ	PORT Tugs 	Tugs (Marine Ch. 5A) 	FM 	Business 
+453.25000 	WNXM203 	RM	3E8 NAC	LAPORT PD 	Police Dispatch 	P25 	Law Dispatch 
+472.18750 	WQIX277 	RM	3E8 NAC	LAPORT T1 	Police Tac 1 	P25 	Law Tac 
+472.21250 	WQOU581 	RM	3E8 NAC	LAPORT T2 	Police Tac 2 	P25 	Law Tac 
+508.03750 	WQOU581 	RM	3E8 NAC	LAPORT T3 	Police Tac 3 	P25 	Law Tac 
+156.67500 	KEB260 	BM	CSQ	PtLA Pilot 1 	Pilot Primary (Marine Ch. 73) 	FM 	Business 
+156.17500 	 	BM	CSQ	PtLA Pilot 2 	Pilot Secondary (Marine Ch. 63A) 	FM 	Business 
+156.87500 	 	BM	CSQ	PtLA Tugs 	Tugs (Marine Ch. 77) 	FM 	Business 
+854.96250 	WNSS857 	B	CSQ	PtLA MDTs 	MDT Data 	FM 	Data 
+460.12500 	KMA651 	RM	031 DPL	LOB PD U1 SW 	Dispatch Southwest / Outside Access 	FMN 	Law Dispatch 
+460.22500 	KMA651 	RM	032 DPL	LOB PD U2 E 	Dispatch East 	FMN 	Law Dispatch 
+460.35000 	KMA651 	RM	043 DPL	LOB PD U3 N 	Dispatch North 	FMN 	Law Dispatch 
+460.20000 	KMA651 	RM	054 DPL	LOB PD U4 ALT 	Dispatch Alternate Dispatch 	FMN 	Law Dispatch 
+453.10000 	WNMQ357 	RM	065 DPL	LOB PD U5 	Car to Car 	FMN 	Law Tac 
+453.35000 	WNMQ356 	RM	071 DPL	LOB PD U6 	Detective 	FMN 	Law Tac 
+460.50000 	KMA651 	RM	047 DPL	LOB PD U7 	Special Ops 	FMN 	Law Tac 
+482.35000 	WPNT516 	M	114 DPL	LOB PD TAC1 	Tactical  	FMN 	Law Tac 
+485.35000 	WPNT516 	M	114 DPL	LOB PD TAC2 	Tactical  	FMN 	Law Tac 
+453.18750 	 	M	114 DPL	LOB PD TAC3 	Tactical 	FMN 	Law Tac 
+453.26250 	 	M	114 DPL	LOB PD TAC4 	Tactical 	FMN 	Law Tac 
+453.30000 	 	M	114 DPL	LOB PD TAC5 	Tactical 	FMN 	Law Tac 
+453.41250 	 	M	114 DPL	LOB PD TAC6 	Tactical 	FMN 	Law Tac 
+453.91250 	 	M	114 DPL	LOB PD TAC7 	Tactical 	FMN 	Law Tac 
+460.06250 	 	M	114 DPL	LOB PD TAC8 	Tactical 	FMN 	Law Tac 
+460.57500 	 	M	114 DPL	LOB PD TAC9 	Tactical 	FMN 	Law Tac 
+460.60000 	 	M	114 DPL	LOB PD CTC1 	Car to Car  	FMN 	Law Tac 
+460.60000 	 	M	866 NAC	LOB PD CTC1 DIG 	Car to Car Digital 	P25 	Fire-Tac 
+460.62500 	KMA651 	M	114 DPL	LOB PD CTC2 	Car to Car  	FMN 	Law Tac 
+460.62500 	KMA651  	M	866 NAC	LOB PD CTC2 DIG 	Car to Car Digital 	P25 	Law Tac 
+482.35000 	WPNT516 	M	866 NAC	LOB PD SWAT 	SWAT 	P25 	Law Tac 
+460.21250 	KMA651 	RM	114 DPL	LOB PD  	Tactical 	FMN 	Law Tac 
+853.66250 	WNXZ996 	RM	CSQ	LOB PD MDT 	MDT Data 	FM 	Data 
+860.23750 	KNCR530 	RM	CSQ	LOB PD MDT 	MDT Data 	FM 	Data 
+868.66250 	WNXZ996 	RM	CSQ	LOB PD MDT 	MDT Data 	FM 	Data 
+153.95000 	KMA715 	RM	132 DPL	LOB FD V-1 	Fire Dispatch  	FMN 	Fire Dispatch 
+153.92000 	KMA715 	RM	155 DPL	LOB FD V-2 	Fire Tactical 	FMN 	Fire-Tac 
+151.16000 	KMA715 	RM	134 DPL	LOB FD V-3 	Fire Tactical 	FMN 	Fire-Tac 
+153.77000 	KMA715 	RM	143 DPL	LOB FD V-4 	Lifeguards / Marine Tactical 	FMN 	EMS Dispatch 
+150.77500 	WPNS792 	M	152 DPL	LOB FD V-5D 	Fire Tactical Ch. 5 Direct 	FMN 	Fire-Tac 
+153.83000 	WNYC796 	M	131.8 PL	LOB FD V-6D 	Fire Tactical Ch. 6 Direct 	FMN 	Fire-Tac 
+151.23500 	KMA715 	M	226 DPL	LOB FD V-7D 	Fire Tactical Ch. 7 Direct 	FMN 	Fire-Tac 
+153.80000 	KMA715 	M	243 DPL	LOB FD V-8D 	Fire Tactical Ch. 8 Direct 	FMN 	Fire-Tac 
+153.81500 	KMA715 	M	244 DPL	LOB FD V-9D 	Fire Tactical Ch. 9 Direct 	FMN 	Fire-Tac 
+155.16000 	KYU541 	BM	131.8 PL	LOB SAR 	Search and Rescue 	FM 	Emergency Ops 
+153.23000 	KMB593 	BM	100.0 PL	LOB FD MDT 	MDT Data 	FM 	Data 
+453.85000 	KMK324 	RM	072 DPL	LOB LG 1 	Local Govt 1 - Refuse / Parking 	FMN 	Public Works 
+453.70000 	KDF372 	RM	073 DPL	LOB LG 2 	Local Govt 2 - Street Services 	FMN 	Public Works 
+453.55000 	KMF644 	RM	074 DPL	LOB LG 3 	Local Govt 3 - Animal Care Services 	FMN 	Public Works 
+153.80000 	KMA715 	RM	123.0 PL	LOB Trash 	Refuse Collection Division 	FM 	Public Works 
+451.15000 	KME993 	RM	866 NAC	LOB Gas / Oil 	Gas and Oil Department 	P25 	Utilities 
+155.04000 	KDO236 	RM	116 DPL	LOB Water 1 	Water Department Ch 1 	FMN 	Utilities 
+153.98000 	KMA715 	RM	116 DPL	LOB Water 2 	Water Department Ch 2 	FMN 	Utilities 
+145.52000 	 	BM		LB RACES 	 	FM 	Ham 
+146.14500 	K6CHE 	RM	156.7 PL	K6CHE 2M 	K6CHE RACES 	FM 	Ham 
+223.80000 	 	BM	156.7 PL	K6CHE 223 	K6CHE 0.7 LB CD & DR O 220SMA 	FM 	Ham 
+449.78000 	 	BM	131.8 PL	 K6CHE 449 	K6CHE 0.7 O JPL 	FM 	Ham 
+471.13750 	KWT671 	RM	025 NAC	ALH PD1 	Police Dispatch 	P25 	Law Dispatch 
+471.01250 	KWT671 	RM	031 NAC	ALH PD2 	Police Tactical 2 	P25 	Law Tac 
+471.10000 	KWT671 	RM	043 NAC	ALH PD3 	Police Detectives 	P25 	Law Tac 
+453.45000 	KML741 	RM	127.3 PL	ALH PW 	Public Works 	FM 	Public Works 
+453.16250 	WQNT498 	RM	110.9 PL	ALH PW2 	Public Works 2 	FMN 	Public Works 
+453.16250 	WQNT498 	RM	173.8 PL	ALH CE 	Code Enforccement 	FMN 	Public Works 
+453.26250 	KME405 	RM	162.2 PL	ALH EOC 	EOC 	FM 	Emergency Ops 
+507.06250 	KMA769 	RM	110.9 PL	ARC ACC 	Police Access 	FMN 	Interop 
+506.56250 	KMA769 	RM	110.9 PL	ARC PD 2 	Police Fallback 	FMN 	Law Tac 
+506.67500 	KMA769 	RM	123.0 PL	ARC PD 3 	Police Fallback 	FMN 	Law Tac 
+460.16250 	KMA769 	RM	250 NAC	ARC PD 4 	Police Fallback 	P25 	Law Tac 
+509.40000 	KMA769 	M	97.4 PL	ARC PD 5 	Police Tactical 	FMN 	Law Tac 
+506.40000 	KMA769 	M	77.0 PL	ARC PD 6 	Police Tactical 	FMN 	Law Tac 
+155.11500 	KMK951 	BM	131.8 PL	ARC PW 	Public Works 	FM 	Public Works 
+46.54000 	KDU512 	BM	136.5 PL	AVA 1 	Mutual Aid "City 1" 	FM 	Fire-Tac 
+46.36000 	KDU512 	BM	136.5 PL	AVA 2 	Fire Dispatch "City 2"  	FM 	Fire Dispatch 
+45.54000 	KDU512 	BM	136.5 PL	AVA 3 	Harbor Department "City 3" 	FM 	Public Works 
+152.33000 	WQPR502 	RM	CC 1TG 4SL 1	Two Harbors 	Two Harbors Harbor Department  	DMR 	Public Works 
+151.14500 	WNNY641 	RM	107.2 PL	Cat Consrv 	Santa Catalina Island Conservancy 	FM 	Public Works 
+155.94000 	KMA238 	RM	123.0 PL	AZU PD D-1 	Police Dispatch 	FMN 	Law Dispatch 
+154.84500 	KMA238 	M	131.8 PL	AZU PD3 	Police Mutual Aid - Glendora PD 	FM 	Law Tac 
+155.31000 	KMH354 	RM	127.3 PL	AZU PD T-2 	Police Mutual Aid - Glendora PD 	FMN 	Law Tac 
+155.43000 	KNFU805 	M	CSQ	AZU PD5 	Police Special Operations 	FM 	Law Tac 
+451.10000 	WPJV852 	RM	054 DPL	AZU PW 	Public Works - Light and Water 	FM 	Public Works 
+451.16250 	WQIZ338 	RM	CC 1TG 1SL 1	AZU DialARide 	Dial-a-Ride 	DMR 	Public Works 
+506.17500 	WPYY749 	RM	131.8 PL	BPK PD1 	Police Dispatch 	FMN 	Law Dispatch 
+506.27500 	WPYY749 	RM	131.8 PL	BPK PD2 	Police Tactical 	FMN 	Law Tac 
+453.55000 	KVR825 	RM	251 DPL	BPK PW 	Public Works 	FM 	Public Works 
+155.95500 	KNGT891 	RM	107.2 PL	BEL PD1 	Police Dispatch 	FMN 	Law Dispatch 
+154.04000 	KDB449 	BM	107.2 PL	BEL PD3 	Police Tactical 	FMN 	Law Tac 
+453.92500 	KRS304 	RM	293 NAC	BLG PD 	Police Dispatch 	P25 	Law Dispatch 
+156.10500 	KNGL838 	BM		BLG PW 	Public Works 	FM 	Public Works 
+453.52500 	WNFT622 	RM	131.8 PL	BHL PD1 	Police Tactical 	FMN 	Law Dispatch 
+453.65000 	WNFT622 	RM	466 NAC	BHL PD3 	Police Dispatch/Primary 	P25E 	Law Dispatch 
+485.35000 	WQGT381 	M	466 NAC	BHL PD7 	Police Detectives 	P25E 	Law Talk 
+453.22500 	WNFT622 	RM	114.8 PL	BHL PD11 	Police  	FMN 	Law Talk 
+853.83750 	WNVF964 	BM	CSQ	BHL PD MDT 	Police MDT Data 	FM 	Data 
+451.20000 	WPMP407 	RM	210.7 PL	BHL PD EOC 	EOC (Telephone Interconnect Capable) 	FMN 	Law Tac 
+460.62500 	KUX244 	RM	156.7 PL	BHL FD DISP 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.68750 	WPLG718 	M	79.7 PL	BHL FD RED 9D 	Fire Tac Direct 	FMN 	Fire-Tac 
+458.68750 	WPLG718 	M	79.7 PL	BHL FD RED 10D 	Fire Tac Direct 	FMN 	Fire-Tac 
+460.57500 	KUX244 	RM	173.8 PL	BHL FD ALERT16 	Emergency Trigger 	FMN 	Fire-Talk 
+153.59000 	KMG655 	B	CSQ	BHL FD ToneOut 	Fire Dispatch Station Tone Outs 	FM 	Fire Dispatch 
+453.96250 	WQDC872 	B	118.8 PL	BHL Water 	Water Dept - Pumps Telemetry 	FM 	Data 
+464.65000 	 	RM	506 DPL	BHL CBD AMB 	Central Business District Ambassadors  	FMN 	Public Works 
+470.00000 	 	M	293 NAC	BHL NW 	Neighborhood Watch (Digital) 	P25 	Other 
+470.00000 	 	M	77.0 PL	BHL NW 	Neighborhood Watch (Analog) 	FMN 	Other 
+156.21000 	WNNU912 	BM	136.5 PL	BUR PD9 	Police Air-to-Ground 	FM 	Law Tac 
+470.18750 	WIK334 	RM	203.5 PL	BUR COMMON 	Citywide 	FM 	Interop 
+451.05000 	KMJ941 	RM	192.8 PL	BUR ORANGE 3 	PSD Steam Plant 	FM 	Public Works 
+482.02500 	WIK334 	RM	85.4 PL	BUR ACC 	Outside Agency Access  	FMN 	Interop 
+155.76000 	KMJ767 	RM	136.5 PL	BUR EMER 	Burbank Emergency Service Net 	FM 	Interop 
+118.57500 	 	BM	CSQ	BUR PD AIR 	Helicopter Base 	AM 	Aircraft 
+446.86000 	KC6LOL 	RM	123.0 PL	BUR FD ACS A 	Burbank Fire Auxiliary Communications Service 	FM 	Emergency Ops 
+448.54000 	N6MQS 	RM	123.0 PL	BUR FD ACS B 	Burbank Fire Auxiliary Communications Service 	FM 	Emergency Ops 
+855.73750 	KNNM483 	RM	CSQ	BUR MDT 	Burbank MDTs 	FM 	Data 
+453.10000 	KNNI814 	RM	127.3 PL	Calabasas PW 	Public Works 	FMN 	Public Works 
+453.45000 	KTP895 	RM	82.5 PL	CAR PW 	Public Works 	FM 	Public Works 
+470.71250 	WPNT598 	RM	114.8 PL	CAR Sanitation 	Public Works - Code Enforcement 	FM 	Public Works 
+453.60000 	KJE339 	RM	173.8 PL	Cerritos PW 	Public Works 	FM 	Public Works 
+463.46250 	WQBX795 	RM	431 DPL	Cerritos Ctr 	Cerritos Center for Performing Arts 	FMN 	Public Works 
+463.86250 	WQBX795 	RM	432 DPL	Cerritos CTR 	Cerritos Center for Performing Arts 	FMN 	Public Works 
+506.15000 	KXC905 	RM	131.8 PL	CLA PD1 	Police Dispatch 	FMN 	Law Dispatch 
+506.30000 	KXC905 	RM	293 NAC	CLA PD2 	Police Tactical 	P25E 	Law Tac 
+506.25000 	KXC905 	RM	141.3 PL	CLA EOC1 	Local EOC Channel 1 	FMN 	Law Tac 
+507.07500 	KXC905 	RM	293 NAC	CLA EOC2 	Local EOC Channel 2 	P25 	Emergency Ops 
+506.38750 	KXC905 	RM	103.5 PL	CLA PW 	Public Works 	FM 	Public Works 
+155.74500 	KMK404 	RM	103.5 PL	CMP PW 	Public Works 	FM 	Public Works 
+463.57500 	 	RM	CC 2TG 1SL 1	CMP PARK/CODE 	Parking / Code Enforcement 	DMR 	Public Works 
+154.72500 	KMA507 	RM	167.9 PL	COV PD D-1 	Police Dispatch 	FMN 	Law Dispatch 
+155.49000 	KMA507 	BM	173.8 PL	COV PD T-2 	Police Tactical 	FMN 	Law Tac 
+153.86000 	KBD699 	BM	156.7 PL	COV PD4 	Police Car-to-Car 1 	FM 	Law Talk 
+155.37000 	 	M	CSQ	COV PD5 	Police Car-to-Car 2 	FM 	Law Talk 
+153.86000 	KBD699 	BM		COV PW 	Public Works 	FM 	Public Works 
+144.33000 	 	M	CSQ	CCARES FD1 	Fire District 1 - Simplex 	FM 	Emergency Ops 
+146.44500 	 	M	CSQ	CCARES FD2 	Fire District 2 - Simplex 	FM 	Emergency Ops 
+147.57000 	 	M	CSQ	CCARES FD3 	Fire District 3 - Simplex  	FM 	Emergency Ops 
+445.60000 	K6CCR 	RM	100.0 PL	CCARES EOC 	ARES / EOC 	FM 	Emergency Ops 
+453.16250 	 	RM	114.8 PL	CUL LG-12 	Local Government LG-12 Direct 	FM 	Public Works 
+453.46250 	 	RM	173.8 PL	CUL LG Vets 	Local Government Vet's Simplex 	FM 	Public Works 
+853.96250 	WQFT346 	BM	CSQ	CUL MDT 	MDT Data 	FM 	Data 
+461.46250 	WNUQ288 	RM	466 DPL	DBCE Sec 	Diamond Bar Country Estates (Security) 	FM 	Security 
+155.89500 	WNDX988 	RM	156.7 PL	DNY PD1 	Police Dispatch 	FMN 	Law Dispatch 
+155.64000 	KMH797 	BM	156.7 PL	DNY PD2 	Police Tactical 	FMN 	Law Tac 
+155.89500 	WNDX988 	M	156.7 PL	DNY PD3 	Police Talkaround 	FMN 	Law Talk 
+154.20500 	WQN827 	RM	127.3 PL	DNY XLE V-1 	Fire VHF Dispatch Backup (Simulcast) / Station Alerting 	FMN 	Fire Dispatch 
+154.25000 	WQN827 	RM	127.3 PL	DNY  XLE V-2 	Fire VHF Backup Command 	FMN 	Fire-Tac 
+482.45000 	WIM839 	RM	127.3 PL	DNY  XLE U-1 	Fire UHF Dispatch  	FMN 	Fire Dispatch 
+482.25000 	WIM839 	RM	127.3 PL	DNY XLE U-2 	Fire Admin 	FMN 	Fire-Tac 
+453.38750 	WPFX818 	RM	131 DPL	DNY XLE U-3 	Fire UHF Command  	FMN 	Fire-Tac 
+458.91250 	WQEL688 	M	118.8 PL	DNY XLE U-4D 	Fire Ground Command 	FMN 	Fire-Tac 
+482.05000 	WIM839 	M	127.3 PL	DNY XLE U-5D 	Fire Ground Tactical 	FMN 	Fire-Tac 
+471.02500 	WIM839 	M	127.3 PL	DNY XLE U-6D 	Fire Ground Command 	FMN 	Fire-Tac 
+471.15000 	WIM839 	M	127.3 PL	DNY XLE U-7D 	Fire Ground Tactical 	FMN 	Fire-Tac 
+474.02500 	WIM839 	M	127.3 PL	DNY XLE U-8D 	Fire Ground Tactical 	FMN 	Fire-Tac 
+470.30000 	WIM839 	M	127.3 PL	DNY XLE RIC 	Area XLE - RIC 	FMN 	Fire-Tac 
+453.91250 	WQEL688 	M	118.8 PL	DNY XLE Trigger 	Area XLE Emergency Trigger 	FMN 	Fire-Tac 
+44.50000 	WNCK315 	BM	074 DPL	DNY Dial-A-Ride 	Dial-A-Ride 	FM 	Transportation 
+151.49000 	KWE380 	RM	146.2 PL	DUR PW 	Public Works 	FM 	Public Works 
+470.96250 	KBY750 	RM	4F9 NAC	ELM PD DISP 	Police Dispatch 	P25 	Law Dispatch 
+470.71250 	KBY750 	RM	4F9 NAC	ELM PD TAC 	Police Tactical 	P25 	Law Tac 
+45.36000 	WNCY441 	BM		ELM PW 	Public Works 	FM 	Public Works 
+451.05000 	WQMD655 	RM	167.9 PL	ELM DIAL A RIDE 	Dial-a-Ride 	FM 	Public Works 
+155.05500 	KNCJ394 	BM	131.8 PL	ELS PW 	Public Works 	FM 	Public Works 
+464.43750 	WPKV333 	M	734 DPL	ELS PR 	Parks and Recreation 	FM 	Public Works 
+464.83750 	WPKV333 	M	743 DPL	ELS PR 	Parks and Recreation 	FM 	Public Works 
+457.62500 	 	M	CC 15TG 7777SL 1	GDA TAC 1 	Gardena Disaster Communications Service 	DMR 	Emergency Ops 
+461.70000 	WQUK631 	RM	CC 8TG 14623SL 2	CITYWIDE 	Gardena Disaster Communications Service 	DMR 	Emergency Ops 
+463.96250 	WQUK631 	RM	CC 14TG 8888SL 1	GDA DCS 	Gardena Disaster Communications Service 	DMR 	Emergency Ops 
+463.96250 	WQUK631 	RM	331 DPL	Portable Event 	Gardena Disaster Communications Service 	FMN 	Emergency Ops 
+466.07500 	 	M	043 DPL	CERT 1 	Gardena Disaster Communications Service 	FMN 	Emergency Ops 
+466.42500 	 	M	054 DPL	CERT 2 	Gardena Disaster Communications Service 	FMN 	Emergency Ops 
+855.23750 	KNCD500 	RM	203.5 PL	GDA PW 	Public Works (shared with Hawthorne) 	FM 	Public Works 
+482.05000 	WPWW702 	RM	123.0 PL	GLN ACCESS 	Outside Access 	FMN 	Interop 
+458.88750 		WPNT784	 	M	613 NAC	GLN PD SURV 	Police - Survelillance 	P25 	Law Tac 
+859.23750 	KNFU724 	BM	CSQ	GLN MDT 	MDT Data - Verdugo Fire 	FM 	Data 
+146.02500 	WB6ZTY 	RM	136.5 PL	GLN GEARS 2M 	Emergency Auxiliary Radio Service 	FM 	Ham 
+445.38000 	 K6CCC 	RM	100.0 PL	GLN GEARS 440 	Emergency Auxiliary Radio Service 	FM 	Ham 
+445.68000 	N6JLY 	RM	136.5 PL	GLN GEARS 440 	Emergency Auxiliary Radio Service 	FM 	Ham 
+451.18750 	 	M	445 DPL	GLN GTV DIR 2 	Management Services - GTV 6 	FMN 	Media 
+451.28750 	 	M	351 DPL	GLN GTV DIR 3 	Management Services - GTV 6 	FMN 	Media 
+451.31250 	 	M	032 DPL	GLN Library 	Main Central Library 	FMN 	Public Works 
+451.33750 	 	M	445 DPL	GLN Scholl 	Water Power Scholl Canyon Landfill 	FMN 	Public Works 
+452.03750 	 	M	445 DPL	GLN CIVIC CTR 	Parks and Recreation - Civic Center Direct 	FMN 	Public Works 
+452.06250 	 	M	445 DPL	GLN Sports 	Parks and Rec Sports Complex 	FMN 	Public Works 
+470.63750 	WIL473 	M	186.2 PL	GLN WP DIR 1 	Water and Power - Direct Ch1 	FMN 	Utilities 
+470.81250 	WIL473 	M	186.2 PL	GLN WP DIR 2 	Water and Power - Direct Ch2 	FMN 	Utilities 
+154.84500 	KMH354 	RM	131.8 PL	GDR PD D-1 	Police Dispatch 	FMN 	Law Dispatch 
+155.31000 	KMH354 	RM	127.3 PL	GDR PD T-2 	Police Tactical 	FMN 	Law Tac 
+155.94000 	WNYA360 	BM	123.0 PL	GDR PD3 	Police Mutual Aid - Azusa PD 	FM 	Interop 
+153.96500 	WNXZ545 	BM	CSQ	GDR PW1 	Public Works 1 	FM 	Public Works 
+153.86000 	KAY232 	BM		GDR PW2 	Public Works 2 	FM 	Public Works 
+855.23750 	KNCD500 	RM	203.5 PL	HAW PW 	Public Works (shared with Gardena) 	FM 	Public Works 
+158.80500 	KTV887 	BM	103.5 PL	HAW PW 	Public Works 	FM 	Public Works 
+154.35500 	WNMG920 	RM	174 DPL	HMB PE 	Parking Enforcement 	FMN 	Public Works 
+448.80000 	 	RM		HMB HBARA 	Hermosa Beach Amateur Radio Association / DCS EOC 	FM 	Ham 
+463.80000 	 	RM	110.9 PL	HMB DCS 	Hermosa Beach DCS EOC 	FMN 	Public Works 
+453.20000 	WPFM463 	RM	100.0 PL	HH SVCS 	City Services 	FMN 	Public Works 
+155.79000 	KNGV851 	RM	110.9 PL	HPK PD D-1 	Police Dispatch 	FMN 	Law Dispatch 
+155.86500 	KNGV851 	RM	107.2 PL	HPK PD T-2 	Police Tactical 	FMN 	Law Tac 
+154.04000 	KML951 	BM	110.9 PL	HPK City Yard 	City Yard 	FM 	Public Works 
+155.43000 	KCS74 	F		HPK Intercity 	Inter-City Net 	FM 	Interop 
+453.20000 	KWX530 	RM	100.0 PL	IND PW 	Public Works 	FM 	Public Works 
+460.15000 	KMA309 	RM	192.8 PL	ING PD1 	Police Dispatch 	FMN 	Law Dispatch 
+460.27500 	KC9038 	M	192.8 PL	ING PD3 	Police Tactical 3 "Blue" 	FMN 	Law Tac 
+460.25000 	KNHR792 	RM	192.8 PL	ING PD4 	Police Tactical 4 "Green" 	FMN 	Law Tac 
+460.17500 	KNHR792 	M	192.8 PL	ING PD6 	Police Tactical 6 	FMN 	Law Tac 
+460.32500 	KNHR792 	RM	192.8 PL	ING PD7 	Police Tactical 7 "NARC" 	FMN 	Law Tac 
+460.05000 	KNHR792 	M	192.8 PL	ING PD9 	Police Tactical 9 "SWAT" 	FMN 	Law Talk 
+155.82000 	KML730 	BM	103.5 PL	ING TrafficCntrl 	Traffic Control Officers 	FM 	Law Tac 
+153.86000 	KML730 	BM	103.5 PL	ING PW 	Public Works 	FM 	Public Works 
+153.05750 	WQUT595 	RM	CC 9TG 1020SL 1	ING Para Transit 	Para-Transit 	DMR 	Public Works 
+855.98750 	WNMA484 	RM	165.5 PL	ING MDT 	MDT Data 	FM 	Data 
+471.11250 	KDL483 	RM	203.5 PL	BLUE 	Operations BLUE 	FM 	Law Tac 
+470.31250 	KDL483 	RM	203.5 PL	BROWN 	Operations BROWN 	FM 	Law Tac 
+460.26250 	WPFJ724 	M	94.8 PL	NORTH 1 	Surveillance NORTH 1 	FM 	Law Tac 
+471.11250 	KDL483 	BM	203.5 PL	BROWN 	Operations BROWN 	FM 	Law Tac 
+460.28750 	WPFJ724 	M	94.8 PL	NORTH 2 	Surveillance NORTH 2 	FM 	Law Tac 
+473.31250 	KVR760 	M	CSQ	BLACK 	Operations BLACK 	FM 	Law Tac 
+460.31250 	WPFJ724 	M	94.8 PL	NORTH 3 	Surveillance NORTH 3 	FM 	Law Tac 
+470.31250 	KDL483 	M	203.5 PL	GREEN 	Operations GREEN 	FM 	Law Tac 
+460.05000 	KNHR792 	M	192.8 PL	GREY 	Operations GREY 	FM 	Law Tac 
+460.51250 	WPFJ724 	M	94.8 PL	NORTH 4 	Surveillance NORTH 4 	FM 	Law Tac 
+470.22500 	WIL790 	M	94.8 PL	SOUTH 1 	Surveillance SOUTH 1 	FM 	Law Tac 
+471.08750 	KVJ951 	M	110.9 PL	ORANGE 	Operations ORANGE 	FM 	Law Tac 
+460.01250 	 	M	203.5 PL	WHITE 	Operations WHITE 	FM 	Law Tac 
+470.97500 	WIL790 	M	94.8 PL	SOUTH 2 	Surveillance SOUTH 2 	FM 	Law Tac 
+470.25000 	WIL790 	M	94.8 PL	SOUTHEAST 	Surveillance SOUTHEAST 	FM 	Law Tac 
+471.01250 	KVJ951 	M	110.9 PL	YELLOW 	Operations YELLOW 	FM 	Law Tac 
+470.20000 	WIL790 	M	94.8 PL	EAST 2 	Surveillance EAST 2 	FM 	Law Tac 
+482.17500 	WIL790 	M	94.8 PL	EAST 3 	Surveillance EAST 3 	FM 	Law Tac 
+482.10000 	WIL790 	M	94.8 PL	WEST 1 	Surveillance WEST 1 	FM 	Law Tac 
+482.12500 	WIL790 	M	94.8 PL	WEST 2 	Surveillance WEST 2 	FM 	Law Tac 
+482.20000 	WIL790 	M	94.8 PL	WEST 3 	Surveillance WEST 3 	FM 	Law Tac 
+482.30000 	WIL790 	M	94.8 PL	WEST 4 	Surveillance WEST 4 	FM 	Law Tac 
+482.35000 	WPNT516 	M	94.8 PL	SURV 	Surveillance 	FMN 	Law Tac 
+460.25000 	WZG911 	RM	179.9 PL	IRW PD1 	Police Fallback 	FMN 	Law Tac 
+460.15000 	WZG911 	M	179.9 PL	IRW PD2 	Police Fallback 	FMN 	Law Tac 
+453.38750 	WPFX818 	RM	131 DPL	LHH FD DISP 	Fire Dispatch/Tactical (patch to 33.74) 	FMN 	Fire-Tac 
+33.74000 	KDN945 	RM	79.7 PL	LHH FD 1 	Fire Dispatch/Tactical 	FM 	Fire Dispatch 
+461.88750 	WQGC348 	RM	151.4 PL	EH VFD 2 	East Heights Volunteer FD 2 	FMN 	Fire-Tac 
+461.88750 	WQGC348 	RM	516 DPL	EH VFD 1 	East Heights Volunteer FD 1 - Primary 	FMN 	Fire-Tac 
+462.38750 	WQIF691 	RM	703 DPL	EH VFD 4 	East Heights Volunteer FD 4- Santiago / Lukens 	FMN 	Fire-Tac 
+47.88000 	WNAK215 	BM		LHH Water 	Water District 	FM 	Public Works 
+462.38750 	WQIF691 	RM	331 DPL	LHH Fire Watch 	La Habra Heights Fire Watch 	FMN 	Public Works 
+506.21250 	WIL702 	RM	A7D NAC	LVN PD1 	Police Dispatch (secondary/backup) 	P25 	Law Dispatch 
+482.25000 	WQEX879 	RM	146.2 PL	LVN PD/FD Tac 	Police and Fire Tac 	FM 	Multi-Tac 
+482.57500 	WIL293 	RM	131.8 PL	LVN FD1 	Fire Dispatch 	FM 	Fire Dispatch 
+482.07500 	WIL702 	RM	131.8 PL	LVN FD2 	Fire Tactical 	FM 	Fire-Tac 
+154.07000 	WNQJ896 	BM	156.7 PL	LVN FD V1D 	Fire Tactical - Red 	FMN 	Fire-Tac 
+482.25000 	WQEX879 	RM	146.2 PL	LVN PW 	Public Works 	FMN 	Public Works 
+153.86000 	KML641 	BM	114.8 PL	LKW PW 	Public Works 	FM 	Public Works 
+158.77500 	WQGQ241 	RM	12 RAN	Lawndale PW 	Public Works 	NXDN 	Public Works 
+158.77500 	KTY926 	BM	151.4 PL	LOM PW 	Public Works 	FM 	Public Works 
+155.16000 	WPYQ982 	BM	179.9 PL	MAL SAREOC 	Malibu Mountain Rescue Team / EOC 	FM 	Emergency Ops 
+453.56250 	WPTD929 	B	311 DPL	MAL CITY SVCS 	City Services - Traffic advisory rebroadcast of 1620AM 	FM 	Public Works 
+462.67500 	 	RM	79.7 PL	MAL ARSON WATCH 	Malibu Arson Watch 	FM 	Public Works 
+151.48250 	WPQI409 	RM	412 DPL	MHB PW 	Public Works 	FM 	Public Works 
+154.35500 	KMF434 	RM	174 DPL	MHB PACS 	Parking and Animal Control Section 	FMN 	Law Tac 
+158.73000 	KNFP459 	RM	131.8 PL	MRV PD1 	Police Dispatch 	FMN 	Law Dispatch 
+155.88000 	KBM676 	BM	131.8 PL	MRV PD2 	Police Tac1 	FMN 	Law Tac 
+154.11500 	WNGI435 	BM	CSQ	MRV PD3 	Police Tac2 	FM 	Law Tac 
+155.97000 	KNFP459 	M	CSQ	MRV PD4 	Police Tac3 	FM 	Law Tac 
+482.37500 	WPLW595 	RM	123.0 PL	MTB ACCESS 	Police Access 	FMN 	Interop 
+458.91250 	WQEL688 	M	118.8 PL	MTB FD XLE T-5D 	Fireground Tac 	FMN 	Fire-Tac 
+859.26250 	KNGD850 	RM	CSQ	MTB MDT 	MDT Data 	FM 	Data 
+155.56500 	KNAK313 	RM	444 NAC	MPK PD1 	Police Dispatch  	P25 	Law Dispatch 
+155.41500 	KNAK313 	RM	555 NAC	MPK PD2 	Police Tactical  	P25 	Law Tac 
+154.89000 	KNAK313 	M	555 NAC	MPK PD3 	Police Talkaround 	P25 	Law Talk 
+46.58000 	KIZ348 	BM	114.8 PL	MPK PW 	Public Works 	FM 	Public Works 
+46.08000 	KFO844 	BM	131.8 PL	NOR PW 	Public Works 	FM 	Public Works 
+853.48750 	WNXE677 	M	281 NAC	NOR Civic Center 	Civic Center Ops / Parking 	P25 	Public Works 
+470.33750 	WIG515 	RM	186.2 PL	PLM PW 	Public Works 	FM 	Public Works 
+451.10000 	KNAY345 	RM	136.5 PL	PLM Water 	Water Department 	FM 	Public Works 
+453.06250 	WPME773 	B	CSQ	PLM Telm 	Telemetry 	FM 	Data 
+453.88750 	WPME773 	B	CSQ	PLM Telm 	Telemetry 	FM 	Data 
+453.98750 	WPME773 	B	CSQ	PLM Telm 	Telemetry 	FM 	Data 
+506.37500 	WPXB573 	RM	293 NAC	PVE PD 	Police Dispatch 	P25E 	Law Dispatch 
+506.20000 	WIL549 	RM	162.2 PL	PAS PD 	Special Event Tac 	FMN 	Law Tac 
+453.95000 	KMF241 	RM	162.2 PL	PAS ACCESS 	Police Access  	FM 	Law Tac 
+153.65000 	KMA767 	BM	162.2 PL	PAS PW 	Water and Power 	FM 	Public Works 
+158.82000 	KMM517 	BM	162.2 PL	PAS Trash 	Trash and Recycling 	FM 	Public Works 
+118.57500 	CSQ 	BM		PAS PDA 	Police Helicopter Base 	AM 	Aircraft 
+460.11250 	WQPX829 	B	CSQ	Mirador Res Telm 	Mirador Reservoir Telemtry 	FMN 	Data 
+153.86000 	KAY838 	BM	141.3 PL	POM PW 	Public Works ("Park Control") 	FM 	Public Works 
+451.25000 	KTM930 	RM	131.8 PL	POM WATER 	Water Department 	FM 	Public Works 
+447.12000 	 	RM		PVAN 1 	Peninsula Volunteer Alert Network - DCS/EOC 	FM 	Emergency Ops 
+449.98000 	K6IUM 	RM		PVAN 2 	Peninsula Volunteer Alert Network - DCS/EOC 	FM 	Emergency Ops 
+460.60000 	KLR373 	RM	192.8 PL	RDB PD5 	Police Tactical 5 	FMN 	Law Talk 
+453.20000 	KMM563 	RM	118.8 PL	RDB FD1 	Fire & Harbor Patrol Dispatch 	FMN 	Fire Dispatch 
+506.25000 	WQFL711 	RM	245 DPL	RDB PW 	Public Works 	FM 	Public Works 
+855.73750 	KNCD499 	M	162 DPL	RDB FD TAC 7D 	Fire Tac 	FM 	Fire-Tac 
+855.96250 	KNCD499 	RM	156.7 PL	RDB Svcs 	Services 	FM 	Public Works 
+456.03750 	WPTV377 	M	162 DPL	RDB FD TAC 4D 	Fire Tac 	FMN 	Fire-Tac 
+460.07500 	KLR373 	RM	71.9 PL	RDB PD ACCESS 	Police Access 	FMN 	Interop 
+460.47500 	KLR373 	RM	203.5 PL	RDB PD FBK 	Police Fallback / Tac 	FMN 	Law Tac 
+506.33750 	WQFL711 	RM	174 DPL	RDB FD ACCESS 	Fire Access 	FMN 	Interop 
+858.33750 	WPNW552 	RM	CSQ	RDB MDT 	MDT Data 	FM 	Data 
+158.77500 	KBG262 	BM	026 DPL	RHS PW 	Public Works 	FM 	Public Works 
+158.77500 	KNFM390 	BM	131.8 PL	RHE PW 	Public Works 	FM 	Public Works 
+158.89500 	KFX343 	BM	466 DPL	ROS PS 	Public Safety Department 	FM 	Public Works 
+45.16000 	KIZ665 	RM		SDM PW1 	Public Works 	FM 	Public Works 
+45.08000 	KIZ665 	M		SDM PW2 	Public Works 	FM 	Public Works 
+460.35000 	WPUK670 	RM	131.8 PL	SFR PD1 	Police Dispatch 	FMN 	Law Dispatch 
+460.22500 	WPUK670 	RM	131.8 PL	SFR PD2 	Police Records 	FMN 	Law Tac 
+460.12500 	WPUK670 	RM	131.8 PL	SFR PD3 	Police Tactical 	FMN 	Law Tac 
+453.55000 	KMK918 	RM	100.0 PL	SFR PW1 	Public Works 1 	FM 	Public Works 
+453.85000 	KMK918 	BM	100.0 PL	SFR PW2 	Public Works 2 	FM 	Public Works 
+460.17500 	KMA440 	RM	A7D NAC	SGB PD 	Police Dispatch  	P25 	Law Dispatch 
+460.07500 	KMA440 	RM	A7D NAC	SGB PD-T 	Police Tactical  	P25 	Law Tac 
+453.36250 	WQAW471 	RM	115 DPL	SGB PW 	Public Works 	FM 	Public Works 
+460.47500 	WPKU757 	RM	146.2 PL	SMR EOC 	EOC 	FMN 	Public Works 
+471.02500 	WIL591 	RM	118.8 PL	SCV EM 	Emergency Managment 	FM 	Emergency Ops 
+471.00000 	WIL591 	RM	CSQ	SCV Irrigation 	Irrigation Telemetry 	FM 	Data 
+45.24000 	KLK698 	BM	162.2 PL	SFS PW 	Public Works 	FM 	Public Works 
+471.01250 	KVJ951 	RM	D61 NAC	SMA PD 	Police Tactical 	P25E 	Law Tac 
+487.23750 	WIJ645 	M	156.7 PL	SMA FD4 	Fire Mutual Aid 	FMN 	Interop 
+453.03750 	WPKZ593 	BM	CSQ	SMA FD Tone Out 	Fire Tone Out 	FMN 	Data 
+453.06250 	WQKY241 	RM	CC 10TG 10000SL 1	SMA Library 1 	Public Libraries 	DMR 	Public Works 
+453.06250 	WQKY241 	RM	CC 10TG 10000SL 2	SMA Library 2 	Public Libraries 	DMR 	Public Works 
+451.53750 	WQGC241 	RM	132 DPL	SMA DowntownPark 	Downtown Parking Lot Ops 	FM 	Public Works 
+451.56250 	WQGC241 	RM	132 DPL	SMA Parking 	City Parking Structure Lots 	FM 	Public Works 
+145.28000 	K6QN 	RM	127.3 PL	SMA DCS EOC 	DCS EOC 	FM 	Emergency Ops 
+465.53750 	WQJR229 	RM	179.9 PL	SMA Woodlawn 	Woodlawn Cemetery 	FMN 	Public Works 
+471.03750 	WIL258 	RM	C73 NAC	SMA ACCESS 	Santa Monica Access Channel 	P25 	Interop 
+853.88750 	WNVF968 	RM	CSQ	SMA MDT 	MDT Data 	FM 	Data 
+153.84500 	KMA302 	RM	351 DPL	SMD PD 	Police Dispatch 	FMN 	Law Dispatch 
+155.16000 	KSV856 	BM	151.4 PL	SMD SAR 	Search and Rescue 	FM 	Emergency Ops 
+484.25000 	WPRS450 	RM	123.0 PL	CUL ACCESS 	Culver City Access 	FMN 	Interop 
+487.23750 	 	M	156.7 PL	CUL FD FG 	Fire Mutual Aid FDUMA 	FM 	Fire-Talk 
+453.36250 	 	M	156.7 PL	CUL FD T10 	Fire Tac 10 	FMN 	Fire-Tac 
+462.30000 	WPNX959 	M	156.7 PL	CUL FD T11 	Fire Tac 11 	FMN 	Fire-Tac 
+467.30000 	WPNX959 	M	156.7 PL	CUL FD T12 	Fire Tac 12 	FMN 	Fire-Tac 
+453.26250 	 	M	141.3 PL	CUL PD T-10 	Police Tac 10 	FMN 	Law Tac 
+484.21250 	 	RM	C80 NAC	CUL PD T-11 DIG 	Police Tac 11 "Digital"  	P25 	Law Tac 
+506.67500 	WQJV829 	RM	703 DPL	ELS ACCESS 	El Segundo Access 	FMN 	Interop 
+506.52500 	KDL483 	RM	712 DPL	GDA ACCESS 	Gardena Access 	FMN 	Interop 
+470.38750 	KDL483 	RM	723 DPL	HAW ACCESS 	Hawthorne Access 	FMN 	Interop 
+470.18750 	KDA240 	RM	731 DPL	HMB ACCESS 	Hermosa Beach Access 	FMN 	Interop 
+470.63750 	KDL483 	RM	732 DPL	MHB ACCESS 	Manhattan Beach Access 	FMN 	Interop 
+506.55000 	KDL483 	RM	743 DPL	SBAY ACCESS EAST 	South Bay Access - East Cities 	FMN 	Interop 
+453.20000 	KMM563 	RM	723 DPL	SBAY ACCESS WEST 	South Bay Access - West Cities 	FMN 	Interop 
+472.53750 	WQCV954 	RM	754 DPL	SBAY FIRE ACCESS 	South Bay Fire Access 	FMN 	Interop 
+482.42500 	WIK591 	M	79.7 PL	SBAY RIC 16 	South Bay 16 - Fire RIC (shared with Torrance) 	FMN 	Fire-Tac 
+158.80500 	KTV887 	M	703 DPL	TAC 4D ELS FD 	El Segundo Fireground Direct 	FMN 	Fire-Tac 
+154.35500 	KMF434 	M	703 DPL	TAC 4D MHB FD 	Manhattan Beach Fireground Direct 	FMN 	Fire-Tac 
+154.13000 	KMF391 	M	703 DPL	TAC 7D ELS FD 	El Segundo Fireground Direct 	FMN 	Fire-Tac 
+155.61000 	KEC406 	M	703 DPL	TAC 7D MHB FD 	Manhattan Beach Fireground Direct 	FMN 	Fire-Tac 
+155.67000 	KMA966 	RM	110.9 PL	SOG PD D-1 	Police Dispatch 	FMN 	Law Dispatch 
+470.98750 	KVF692 	RM	97.4 PL	SPS PD ACCESS 	Police Access 	FMN 	Law Dispatch 
+482.42500 	WIK591 	RM	79.7 PL	TOR FD3 	Fire Prevention Division  	FM 	Fire-Tac 
+506.18750 	WIK591 	RM	136.5 PL	TOR PW 	Public Works /  Park Ranger 	FM 	Public Works 
+506.23750 	WIK591 	RM	156.7 PL	TOR WTRPWR 	Public Works - Water and Power 	FM 	Public Works 
+223.88000 	W6TPD 	RM		TARA DCS 	TARA - Torrance Amateur Radio Association EOC/DCS 	FM 	Emergency Ops 
+224.38000 	W6SBA 	RM		SBARC 	South Bay Amateur Radio  	FM 	Emergency Ops 
+506.13750 	WIK591 	RM	118.8 PL	TOR PD FBK 	Police Fallback / Tac 	FMN 	Law Tac 
+506.15000 	 	B	192.8 PL	TOR FD DISP 	Fire - Automated voice dispatch backup (analog) 	FMN 	Fire Dispatch 
+506.21250 	WIK591 	RM	146.2 PL	TOR PD ACCESS 	Police Access 	FMN 	Interop 
+506.26250 	WIK591 	RM	167.9 PL	TOR FD ACCESS 	Fire Access 	FMN 	Interop 
+506.28750 	WIK591 	RM	179.9 PL	TOR FD TAC 3 	Fire Tactical 	FMN 	Fire-Tac 
+154.23500 	WPNV882 	M	74.4 PL	XLC V-1 	Fire Tactical (Sierra Madre) 	FMN 	Fire-Tac 
+154.38500 	WPNZ549 	M	79.7 PL	XLC V-2 	Fire Tactical (Monrovia) 	FMN 	Fire-Tac 
+153.89000 	WNQE913 	M	136.5 PL	XLC V-3 	Fire Tactical (Arcadia) 	FMN 	Fire-Tac 
+154.17500 	WSX361 	M	123.0 PL	XLC V-4 	Fire Tactical (San Marino) 	FMN 	Fire-Tac 
+155.29500 	WPNZ549 	M	97.4 PL	XLC V-5 	Fire Command 	FMN 	Fire-Tac 
+153.99500 	KME405 	M	136.5 PL	XLC V-6 	Fire Tactical (Alhambra) 	FMN 	Fire Dispatch 
+154.37000 	WPPV283 	RM	CSQ	XLC V-7 	Fire Dispatch (patch to RED 1) 	FMN 	Fire Dispatch 
+154.05500 	KDB518 	M	94.8 PL	XLC V-8 	Fire Ground 	FMN 	Fire-Tac 
+154.14500 	KAY727 	M	103.5 PL	XLC V-9 	Fire Ground 	FMN 	Fire-Tac 
+154.44500 	WPLZ906 	BM	136.5 PL	XLC V-10 	Fire Tactical (Monterey Park) 	FMN 	Fire-Tac 
+460.48750 	WPIZ333 	M	167.9 PL	RED 9D 	Fire Tactical Direct  	FMN 	Fire-Tac 
+460.56250 	WPIZ333 	M	146.2 PL	RED 10D 	Fire Tactical Direct  	FMN 	Fire-Tac 
+460.58750 	WPPW605 	RM	107.2 PL	RED 11 	Conventional Repeater - S. Pasadena 	FMN 	Fire-Tac 
+484.27500 	WPPV641 	RM	156.7 PL	RED 12 	Conventional Repeater - Monrovia 	FMN 	Fire-Tac 
+487.23750 	 	M	156.7 PL	RED 13 	FDUMA 	FMN 	Interop 
+473.36250 	WPZU953 	RM	162 DPL	RED 14 	 Verdugo Access Reverse - E-Trigger 	FMN 	Interop 
+470.36250 	WPZU953 	RM	146.2 PL	RED 16  	Fire Verdugo Mutual Aid (XLC-Access) 	FM 	Interop 
+156.33000 	KMA235	 	M	156.7 PL	XLC A/G 	Air to Ground 	FMN 	Fire-Tac 
+158.74500 	WPXJ319 	RM	179.9 PL	VER PD1 	Police Dispatch 	FMN 	Law Dispatch 
+158.37000 	 	RM	179.9 PL	VER PD2 	Police  	FMN 	Law Tac 
+154.13000 	KMC214 	RM	107.2 PL	VER FD1 	Fire Dispatch Backup 	FMN 	Fire Dispatch 
+154.25000 	KMC214 	BM	CSQ	VER FD2 	Fire Tac 2 	FM 	Fire-Tac 
+153.71000 	WNSD377 	BM	CSQ	VER PW 	Public Works 	FM 	Public Works 
+506.33750 	KYO871 	RM	103.5 PL	WCV PD1 	Police Dispatch 	FMN 	Law Dispatch 
+506.51250 	KYO871 	RM	103.5 PL	WCV PD2 	Police Tactical  	FMN 	Law Tac 
+506.48750 	KYO872 	RM	073 DPL	WCV ACC 	Outside Agency Access 	FMN 	Interop 
+460.33750 	WQLB971 	M	074 DPL	WCV FD CMD 	Fire Command 	FMN 	Fire-Tac 
+506.48750 	KYO872 	M	FD1 NAC	WCV FD U-1 	Fire (Portables) 	P25 	Fire Dispatch 
+155.71500 	KAZ313 	M	156.7 PL	WCV FD V-1D 	Fire VHF Tactical 1 	FMN 	Fire-Tac 
+154.31000 	KAZ313 	M	156.7 PL	WCV FD V-2D 	Fire VHF Tactical 2 	FMN 	Fire-Tac 
+156.16500 	KAZ313 	M	156.7 PL	WCV FD V-3D 	Fire VHF Tactical 3 	FMN 	Fire-Tac 
+159.01500 	KAZ313 	M	156.7 PL	WCV RIC 	Fire RIC 	FMN 	Fire-Tac 
+465.33750 	WQLB971 	M	156.7 PL	WCV FD TRIG 	Emergency Trigger 	FMN 	Emergency Ops 
+460.06250 	WPRH532 	RM	203.5 PL	WHD PW 	Public Works 	FM 	Public Works 
+460.18750 	WPRH532 	RM	141.3 PL	WHD SVC 	Community Services / Parking Services 	FM 	Public Works 
+461.57500 	WPXE413 	RM	565 DPL	WHD SECUR 	Entertainment Policing Teams 	FM 	Law Talk 
+470.11250 	KBQ770 	RM	162.2 PL	WHT ACC 	Police Access 	FMN 	Interop 
+471.11250 	KBQ770 	M	162.2 PL	WHT PD5 	Police Tac 2 	FMN 	Law Talk 
+453.30000 	KMM610 	RM	346 DPL	WHT PW1 	City Yard/Public Works 	FMN 	Public Works 
+458.03750 	 	M	346 DPL	WHT PW2 	Public Works Tac 	FMN 	Public Works 
+451.25000 	WQHG500 	RM	346 DPL	WHT PW3 	Public Works EOC 	FMN 	Public Works 
+463.52500 	 		71.9 PL	WHT Transit 	Transit (bus service 5am-10pm) 	FM 	Transportation 
+451.55000 	KJ7241 	RM	114.8 PL	CHEV FD ES 	Fire Dept - Interop with El Segundo FD 	FMN 	Interop 
+506.30000 	WQDL486 	RM		AVTA Paratst 	Paratransit 	NXDN 	Transportation 
+507.07500 	WQDL486 	RM		AVTA BusOps 	Bus Operations 	NXDN 	Transportation 
+452.22500 	 	M	346 DPL	AVALON TRANS 	Bus and Dial-a-Ride 	FMN 	Transportation 
+471.43750 	KCQ805 	RM	156.7 PL	GardenaBus 	Gardena Municipal Bus Lines 	FM 	Transportation 
+508.53750 	WIJ537 	RM	CC 1TG 1SL 1	LBT BUS 1 	Bus Ops 1 	DMR 	Transportation 
+508.53750 	WIJ537 	RM	CC 1TG 2SL 2	LBT BUS 2 	Bus Ops 2 	DMR 	Transportation 
+508.53750 	WIJ537 	RM	CC 1TG 4SL 2	LBT MGR 	Ops Managers 	DMR 	Transportation 
+508.53750 	WIJ537 	RM	CC 1TG 5SL 2	LBT SUP 	Supervisors 	DMR 	Transportation 
+508.53750 	WIJ537 	RM	CC 1TG 6SL 2	LBT MAINT 	Maintenance 	DMR 	Transportation 
+508.53750 	WIJ537 	RM	CC 1TG 7SL 2	LBT S-Z 	Stops and Zones 	DMR 	Transportation 
+506.41250 	KWM931 	BM	CSQ	LB TransData 	MDTs 	FM 	Data 
+160.58250 	WQMR978 	RM	050 RAN	MTA Blue Ops 	Blue Line Rail Operations 	NXDN 	Transportation 
+161.56500 	WQMR978 	RM	050 RAN	MTA Blue Ops 	Blue Line Rail Operations 	NXDN 	Transportation 
+160.78500 	WQGH863 	M	055 RAN	MTA Blue Yard 	Blue Line Yard 	NXDN 	Transportation 
+43.78000 	KMA454 	BM	114.8 PL	MTA Fallback 	Bus / Facilities Maint Back Up 	FM 	Transportation 
+151.85000 	WQME499 	RM	045 RAN	MTA Downtown 	Downtown LA Rail Operations (Blue & Expo Lines) 	NXDN 	Transportation 
+151.67000 	WQME499 	RM	060 RAN	MTA Expo Ops 	Expo Line Rail Operations 	NXDN 	Transportation 
+161.03250 	WQMR978 	RM	060 RAN	MTA Expo Ops 	Expo Line Rail Operations 	NXDN 	Transportation 
+153.81500 	WQEV690 	M	035 RAN	MTA Expo Yard 	Expo Line Yard 	NXDN 	Transportation 
+453.27500 	KRW246 	RM	136.5 PL	MTA Facility Sec 	Facilities-Security 	FM 	Security 
+453.47500 	KRW246 	RM	136.5 PL	MTA Facility Sec 	Facilities-Security 	FM 	Security 
+453.62500 	KRW246 	RM	136.5 PL	MTA Facility Sec 	Facilities-Security 	FM 	Security 
+460.40000 	WNXJ405 	RM	173.8 PL	MTA Facility Sec 	Facilities-Security 	FM 	Security 
+460.41250 	WNXJ405 	RM	110.9 PL	MTA Facility Sec 	Facilities-Security 	FM 	Security 
+460.42500 	WNXJ405 	RM	141.3 PL	MTA Facility Sec 	Facilities-Security 	FM 	Security 
+453.05000 	WQDB916 	RM	103.5 PL	MTA Facil Sec 	Facilities-Security (phone-patch capable) 	FM 	Security 
+939.45000 	WPXP659 	RM	023 DPL	FSP N County 	Freeway Service Patrol North LA County 	FM 	Transportation 
+152.91500 	WQJZ495 	RM	014 RAN	MTA Future Use 	Future Use 	NXDN 	Transportation 
+161.26500 	WQMR978 	RM	040 RAN	MTA Gold Ops 	Gold Line Rail Operations (East LA-Pasadena) 	NXDN 	Transportation 
+161.46750 	WQMR978 	RM	040 RAN	MTA Gold Ops 	Gold Line Rail Operations (East LA-Pasadena) 	NXDN 	Transportation 
+160.76250 	WQMR978 	RM	006 RAN	MTA Foothill 	Gold Line Rail Operations (Pasadena-Azusa) 	NXDN 	Transportation 
+155.80500 	WPXM799 	M	055 RAN	MTA Gold Yard 	Gold Line Yard  	NXDN 	Transportation 
+161.12250 	WQMR978 	RM	030 RAN	MTA Green Ops 	Green Line Rail Operations 	NXDN 	Transportation 
+161.48250 	WQMR978 	RM	030 RAN	MTA Green Ops 	Green Line Rail Operations 	NXDN 	Transportation 
+155.85000 	WQFX628 	M	055 RAN	MTA Green Yard 	Green Line Yard 	NXDN 	Transportation 
+453.32500 	KRW246 	RM	136.5 PL	MTA HQ Staff/Mgt 	HQ Staff / Management 	FM 	Transportation 
+507.31250 	WPYV367 	BM	CSQ	MTA MDTs 	MDT Data 	FM 	Data 
+507.36250 	WPZN310 	BM	CSQ	MTA MDTs 	MDT Data 	FM 	Data 
+507.48750 	WPZV808 	BM	CSQ	MTA MDTs 	MDT Data 	FM 	Data 
+507.66250 	WPYV367 	BM	CSQ	MTA MDTs 	MDT Data 	FM 	Data 
+507.86250 	WPYV367 	BM	CSQ	MTA MDTs 	MDT Data 	FM 	Data 
+508.41250 	WIK300 	BM	CSQ	MTA MDTs 	MDT Data 	FM 	Data 
+508.48750 	WPYV367 	BM	CSQ	MTA MDTs 	MDT Data 	FM 	Data 
+937.17500 	WPHM999 	RM	171.3 PL	MTA MDTs 	MDT Data 	FM 	Data 
+938.15000 	WNIZ682 	BM	CSQ	MTA MDTs 	MDT Data 	FM 	Data 
+160.42500 	WQMR978 	RM	010 RAN	MTA Maintenance 	Rail Facilities Maintenance 	NXDN 	Transportation 
+160.85250 	WQMR978 	RM	010 RAN	MTA Maintenance 	Rail Facilities Maintenance 	NXDN 	Transportation 
+160.88250 	WQMR978 	RM	010 RAN	MTA Maintenance 	Rail Facilities Maintenance 	NXDN 	Transportation 
+161.34750 	WQMR978 	RM	010 RAN	MTA Maintenance 	Rail Facilities Maintenance 	NXDN 	Transportation 
+161.52750 	WQMR978 	RM	010 RAN	MTA Maintenance 	Rail Facilities Maintenance 	NXDN 	Transportation 
+160.49250 	WQMR978 	RM	010 RAN	MTA Maintenance 	Rail Facilities Maintenance Underground 	NXDN 	Transportation 
+161.14500 	WQMR978 	RM	010 RAN	MTA Maintenance 	Rail Facilities Maintenance Underground 	NXDN 	Transportation 
+161.24250 	WQMR978 	RM	015 RAN	MTA Red Tac 2 UG 	Red Line Emergency Tac 2 Underground 	NXDN 	Transportation 
+161.46750 	WQMR978 	RM	015 RAN	MTA Red Tac 2 UG 	Red Line Emergency Tac 2 Underground 	NXDN 	Transportation 
+160.58250 	WQMR978 	RM	005 RAN	MTA Red Tac UG 	Red Line Emergency Tac Underground 	NXDN 	Transportation 
+161.48250 	WQMR978 	RM	005 RAN	MTA Red Tac UG 	Red Line Emergency Tac Underground 	NXDN 	Transportation 
+160.38750 	WQMR978 	RM	020 RAN	MTA Red Ops 	Red Line Rail Operations 	NXDN 	Transportation 
+160.47000 	WQMR978 	RM	020 RAN	MTA Red Ops 	Red Line Rail Operations 	NXDN 	Transportation 
+160.86750 	WQMR978 	RM	020 RAN	MTA Red Ops 	Red Line Rail Operations 	NXDN 	Transportation 
+161.16750 	WQMR978 	RM	020 RAN	MTA Red Ops 	Red Line Rail Operations 	NXDN 	Transportation 
+161.24250 	WQMR978 	RM	020 RAN	MTA Red Ops 	Red Line Rail Operations 	NXDN 	Transportation 
+161.50500 	WQMR978 	RM	020 RAN	MTA Red Ops 	Red Line Rail Operations 	NXDN 	Transportation 
+160.69500 	WQMR978 	RM	020 RAN	MTA Red Ops UG 	Red Line Rail Operations Underground 	NXDN 	Transportation 
+161.12250 	WQMR978 	RM	020 RAN	MTA Red Ops UG 	Red Line Rail Operations Underground 	NXDN 	Transportation 
+153.81500 	WQEV690 	M	055 RAN	MTA Red Yard 	Red Line Yard 	NXDN 	Transportation 
+154.02500 	WQAC619 	M	055 RAN	MTA Events Tac 	Special Events Tac 	NXDN 	Transportation 
+471.10000 	WIL591 	RM	010 RAN	SClaritaTran 	Santa Clarita Transit Bus Operations 	NXDN 	Transportation 
+471.12500 	WIL591 	RM	012 RAN	SClarita DAR 	Dial-A-Ride 	NXDN 	Transportation 
+506.66250 	KZD414 	RM	110.9 PL	BIGBLUE OPS 	Operations 	FMN 	Transportation 
+508.33750 	WIL205 	RM	364 DPL	BIGBLUE ADMN 	Road Maint/Admin 	FMN 	Transportation 
+506.06250 		WPRR368  	RM	CSQ	BIGBLUE MDT 	MDT data 	FMN 	Data 
+855.96250 	WXD691 	RM		TOR TRANSIT 	Torrance Transit 	FM 	Transportation 
+858.13750 	WXD691 	RM	032 DPL	TOR TRANS BUS 	Bus Dispatch 	FM 	Transportation 
+858.13750 	WXD691 	RM	072 DPL	TOR TRANS ALL 	All Call 	FM 	Transportation 
+461.40000 	WQCK757 	RM	331 DPL	APU SAFETY 	Department of Campus Safety 	FMN 	Law Dispatch 
+463.56250 	WQEC734 	RM	CC 12TG 10001SL 1	Biola Safety 	Campus Safety 	DMR 	Security 
+464.91250 	WQPX399 	RM	AAA NAC	CSPUP PD 1 	Police and Parking Enforcement Dispatch 	P25 	Law Dispatch 
+155.68500 	WQP808 	M		PolyPomOps1 	Operations 1 	FM 	Schools 
+156.09000 	KNCB738 	BM		PolyPomOps2 	Operations 2 	FM 	Schools 
+151.49000 	WNVG823 	BM	173.8 PL	PolyPomOps3 	Operations 3 	FM 	Schools 
+153.63500 	WPRL597 	RM	173.8 PL	PolyPomOps 	Operations 	FMN 	Schools 
+508.18750 	 	RM	127.3 PL	CIT Security 	California Institute of Technology (Security) 	FM 	Security 
+464.52500 	WRY407 	RM	82.5 PL	CAInstArtOps 	Campus Operations   	FM 	Schools 
+153.74000 	KQS541 	RM	141.3 PL	CSU DH PD 	Police Dispatch 	FM 	Law Dispatch 
+464.72500 	WQHF965 	RM	CC 4TG 1000SL 1	CSUDh Facil 	Facilities 	DMR 	Schools 
+464.72500 	WQHF965 	RM	CC 4TG 5000SL 1	CSUDh Custd 	Custodial 	DMR 	Schools 
+464.72500 	WQHF965 	RM	CC 4TG 3000SL 1	CSUDH 	CSUDH 	DMR 	Schools 
+464.72500 	WQHF965 	RM	CC 4TG 2000SL 1	CSUDH 	CSUDH 	DMR 	Schools 
+470.71250 	WPLV289 	RM	203.5 PL	CSULB PD 1 	Police Dispatch 	FM 	Law Dispatch 
+464.92500 	WPAJ290 	RM	503 DPL	CSULB PD 2 	Police Channel 2 	FM 	Law Tac 
+464.52500 	WNYJ906 	RM	203.5 PL	CSULB PD 3 	Police Channel 3/Events 	FM 	Law Tac 
+464.77500 	WPLW648 	RM	503 DPL	CSULB Op 1 	Operations 1 	FM 	Schools 
+462.01250 	WPLW648 	M	114 DPL	CSULB Op 2 	Operations 2 	FM 	Schools 
+469.83750 	WPKR589 	M		CSULB Op 3 	Operations 3 	FM 	Schools 
+469.96250 	WPKR589 	M		CSULB Op 4 	Operations 4 	FM 	Schools 
+151.59500 	WPOX819 	RM	226 DPL	CSULB 	CSULB 	FMN 	Schools 
+153.74000 	KET292 	RM	156.7 PL	CSU LA PD 	Police Dispatch 	FM 	Law Dispatch 
+155.04000 	 	RM		CSU LA Ops 1 	Campus Operations 	FM 	Schools 
+464.22500 	 	RM		CSU LA Ops 2 	Campus Operations 	FM 	Schools 
+464.47500 	 	RM		CSULA Maint1 	Maintenance 1 	FM 	Schools 
+464.97500 	WPOE406 	RM	025 DPL	CSULA Maint2 	Maintenance 2 	FM 	Schools 
+464.53650 	 	RM		CSU LA S/U 	Student Union 	FM 	Schools 
+464.36250 	 	RM		CSU LA Mus 1 	Music Department 1 	FM 	Schools 
+464.38750 	 	RM		CSU LA Mus 2 	Music Department 2 	FM 	Schools 
+464.41250 	 	RM		CSU LA Mus 3 	Music Department 3 	FM 	Schools 
+464.43750 	 	RM		CSU LA Mus 4 	Music Department 4 	FM 	Schools 
+507.05000 	WPWR316 	RM	293 NAC	CSU NR PD1 	Police Dispatch 	P25 	Law Dispatch 
+153.74000 	KBA859 	BM	186.2 PL	CSU NR PD2 	Police Secondary / Legacy / Mutual Aid 	FM 	Law Tac 
+452.73750 	WQAZ695 	RM	703 DPL	CSU NR Park 	Parking Enforcement 	FM 	Law Talk 
+153.09500 	WPMZ657 	RM	162.2 PL	CSU NR HSec 	Housing Security / Community Service Officers 	FM 	Security 
+151.77500 	WQEU920 	BM	465 DPL	CSUNAtheltic 	Athletics Department 	FM 	Schools 
+154.54500 	WQEU920 	BM	186.2 PL	CSUN IT 	Information Technology Dept 	FM 	Schools 
+451.78750 	WPKQ932 	RM	97.4 PL	CSUN Common 	Campus Common 	FM 	Schools 
+451.83750 	WPKQ932 	RM	67.0 PL	CSUN Craft 	Maintenance Crafts 	FM 	Public Works 
+451.93750 	WPKQ932 	RM	100.0 PL	CSUN Receive 	Admin Svc / Receiving 	FM 	Schools 
+461.16250 	WPKQ932 	RM	047 DPL	CSUN Maint 	Maintenance 	FM 	Public Works 
+464.97500 	WNCS712 	RM	100.0 PL	FullSemSec 	Security & Phone Patch 	FM 	Security 
+464.43750 	WQHR297 	RM	CC 1TG 101SL 1	MSMULA 	Doheny Campus 	DMR 	Schools 
+464.43750 	WQHR297 	RM	CC 1TG 101SL 2	MSMULA 	MSMULA 	DMR 	Schools 
+464.11250 	WPKP929  	RM	123.0 PL	Ch 1 PP1 	Campus Safety Ch 1 - Line 1 Phone Patch  	FM 	Security 
+464.16250 	WPKP929  	RM	173.8 PL	Ch 2 PP 2 	Campus Safety Ch 2 - Line 2 Phone Patch  	FM 	Security 
+464.88750 	WPKP929  	RM	203.5 PL	Ch 5 EOC 	Campus Safety Ch 5 - Administration Personnel  	FM 	Security 
+464.03750 	WPKP929  	M	173.8 PL	Ch 6 M to M 	Campus Safety Ch 6 - Mobile to Mobile 	FM 	Security 
+464.08750 	WPKP929  	M	173.8 PL	Ch 7 M to M 	Campus Safety Ch 7 - Mobile to Mobile 	FM 	Security 
+464.88750 	WPKP929  	M	173.8 PL	Ch 9 M to M 	Campus Safety Ch 9 - Mobile to Mobile 	FM 	Security 
+469.51250 	 	M	173.8 PL	Ch 10 M to M 	Campus Safety Ch 10 - Mobile to Mobile 	FM 	Security 
+469.88750 	WPKP929  	M	173.8 PL	Ch 12 M to M 	Campus Safety Ch 12 - Mobile to Mobile 	FM 	Security 
+462.13750 	WPKP929  	RM	203.5 PL	Fac MGMT 	Facilities Management  	FM 	Schools 
+464.15000 	WPKP929 	RM	CC 9TG 6102SL 2	OXY SAFETY 	Campus Safety 	DMR 	Law Dispatch 
+464.15000 	WPKP929 	RM	CC 9TG 6101SL 1	OXY 	Occidental College 	DMR 	Schools 
+151.52000 	KB84278 	RM	074 DPL	Pepp Facil 	Facilities Ch3 	FM 	Schools 
+151.58000 	KB84278 	RM	115 DPL	Pepp Facil 	Facilities Ch4 	FM 	Schools 
+152.87000 	KB84278 	RM	445 DPL	Pepp Facil 	Facilities 	FM 	Schools 
+451.23750 	KB84278 	RM	36 RAN	Pepp Custodial 	Custodial 	NXDN 	Schools 
+451.53750 	KB84278 	RM	38 RAN	Pepp Landscaping 	Landscaping 	NXDN 	Schools 
+451.56250 	KB84278 	RM	40 RAN	Pepp Facil 	Facilities 	NXDN 	Schools 
+452.16250 	KB84278 	RM	42 RAN	Pepp Elec Plumb 	Electricians and Plumbers 	NXDN 	Schools 
+452.63750 	KB84278 	RM	44 RAN	Pepp Plumbing 	Pepperdine 	NXDN 	Schools 
+452.66250 	KB84278 	RM	331 DPL	Seaver Housing 	Seaver College Housing 	FMN 	Schools 
+452.66250 	KB84278 	RM	46 RAN	Pepp Facilities 	Facilities 	NXDN 	Schools 
+461.51250 	KB84278 	RM	031 DPL	Campus Safety 	Department of Public Safety 	FMN 	Law Dispatch 
+464.11250 		WQRD681 	RM	CC 6TG 1000SL 1	Wilshire Center 	Wilshire Center 	DMR 	Schools 
+464.11250 	WQRD681 	RM	CC 6TG 2000SL 2	Wilshire Center 	Wilshire Center 	DMR 	Schools 
+464.11250 	WQRD681 	RM	CC 5TG 1000SL 2	Wilshire Glendon 	Wilshire Glendon Museum Building 	DMR 	Schools 
+464.11250 	WQRD681 	RM	CC 5TG 1000SL 1	Wilshire Glendon 	Wilshire Glendon Museum Building 	DMR 	Schools 
+464.11250 	WQRD681 	RM	CC 6TG 3000SL 1	Wilshire Center 	Wilshire Center 	DMR 	Schools 
+464.11250 	WQRD681 	RM	CC 6TG 2000SL 1	Wilshire Center 	Wilshire Center 	DMR 	Schools 
+452.38750 	WQKS316 	RM	CC 12TG 211SL 1	USCSecurAmb1 	Campus Security Ambassadors - Dispatch 	DMR 	Security 
+452.38750 	WQKS316 	RM	CC 12TG 212SL 2	USCSecurAmb2 	Campus Security Ambassadors - Tac 	DMR 	Security 
+451.91250 	WQEW964 	RM	065 DPL	USC Rec 	Recreational Sports Center Ops 	FM 	Schools 
+452.36250 	WQUM457 	RM	432 DPL	USC Anenberg 	USC - Annenberg School for Communication  	FMN 	Schools 
+461.43750 	WPZH590 	RM	466 DPL	USC Music 	USC-Thornton School of Music 	FM 	Schools 
+461.80000 	WRFT502 	RM	CC 8TG 1000SL 1	USC CURRIE HALL 	Health Sciences Campus - Currie Hall Residences  	DMR 	Schools 
+461.80000 	WRFT502 	RM	CC 8TG 1010SL 2	USC CURRIE HALL 	Health Sciences Campus - Currie Hall Residences  	DMR 	Schools 
+461.91250 	WQUD411 	RM	114 DPL	USC Special 	USC Program Board - Special Events 	FMN 	Schools 
+462.07500 	WPXH620 	RM	271 DPL	USCCaterConf 	USC Catering and Conference Services 	FM 	Schools 
+464.36250 	WPZH590 	RM	244 DPL	USC Thorton 	USC-Thornton School of Music Operations 	FMN 	Schools 
+464.37500 	WPWD921	 	M	192.8 PL	DPS Access 	Department of Public Safety - Access 	FMN 	Security 
+464.72500 	 	RM	91.5 PL	USCAthletics 	Athletics Department 	FM 	Schools 
+451.12500 	 	BM	251 DPL	WC Security 	Security 	FM 	Security 
+464.82500 	WPTZ368 	RM	346 DPL	WC Security 	Security - Transportation 	FM 	Security 
+464.87500 	 	BM	88.5 PL	Whittier Col 	Whittier College 	FMN 	Schools 
+460.47500 	WPJG490 	RM	100.0 PL	AntVlyColPD 	Campus Safety and Security  	FM 	Security 
+462.13750 	WPBA817 	RM	CC 6TG 1SL 1	Security 	Security 	DMR 	Security 
+462.13750 	WPBA817 	RM	CC 6TG 2SL 2	Facilities 	Facilities 	DMR 	Schools 
+451.43750 	WPBA817 	RM	CC 6TG 1SL 1	Secur South 	Security - South Campus 	DMR 	Security 
+464.47500 	WPBX85 	RM	051 DPL	Cerritos Col 	Campus Police 	FMN 	Law Dispatch 
+461.16250 	 	RM	703 DPL	Cit Col Sec1 	Security and Phone Patch 	FM 	Security 
+461.18750 	 	RM	723 DPL	Cit Col Sec2 	Security  	FM 	Security 
+461.32500 	WPTM744 	RM	315 DPL	CitrusCol 	Campus Safety - Phone patch 	FMN 	Security 
+464.86250 	WQSD911 	RM	CC 15TG 3333SL 1	CampusSafety 1 	Campus Safety 	DMR 	Schools 
+464.86250 	WQSD911 	RM	CC 15TG 2949SL 2	CampusSafety 2 	CampusSafety 	DMR 	Schools 
+462.08750 	WQJL288 	M		CDPD 2 	Police Direct / Talk Around 	FMN 	Law Tac 
+462.08750 	WQJL288 	RM	94.8 PL	CDPD 1 	Police Dispatch 	FMN 	Law Dispatch 
+153.03500 	WPNU389 	RM	141.3 PL	EastLA Coll 	Facilities 	FM 	Schools 
+460.30000 	KZI216 	RM	85.4 PL	ECC PD 1 	Police Primary Ch 1 	FMN 	Law Dispatch 
+465.30000 	KZI216 	M	85.4 PL	ECC PD Tac 	Police Tactical  	FM 	Law Tac 
+463.31250 	WQNF812 	RM	174 NAC	ECC PD  	Police Tactical - Ch 3 	P25 	Law Tac 
+463.70000 	WPHJ999 	RM	177 NAC	ECC PD  	Police Tactical  	P25 	Law Tac 
+469.50000 	WPHJ999 	M	103.5 PL	CAMPUS 4 	Campus - Itinerant 4 	FMN 	Schools 
+469.55000 	WPHJ999 	M	110.9 PL	CAMPUS 5 	Campus - Itinerant 5 	FMN 	Schools 
+463.46250 	WPHJ999 	RM	CC 7TG 91021SL 1	FPS 6D MAIN 	Facilities 1 - Main 	DMR 	Schools 
+451.93750 	WPHJ999 	RM	CC 9TG 91022SL 2	FPS 7D WORK 	Facilities 2 - Work 	DMR 	Schools 
+464.38750 	WPHJ999	 	M	CC 9TG 91023SL 1	FPS 8D WORK 	Facilities 3- Work 	DMR 	Schools 
+464.32500 	WPHJ999	 	M	162.2 PL	CAMPUS 9 	Campus - Itinerant 9 	FMN 	Schools 
+464.62500 	WPHJ999	 	RM	CC 9TG 91011SL 1	ITS 10D MAIN 	ITS - Tech Services 1 	DMR 	Schools 
+464.22500 	WPHJ999 	RM	CC 9TG 90122SL 2	ITS 11D WORK 	ITS - Tech Services 2 	DMR 	Schools 
+464.28750 	WPHJ999	 	M	CC 9TG 90123SL 1	ITS 12D WORK 	ITS Tech Services 3 	DMR 	Schools 
+451.93750 	WPHJ999 	RM	CC 9TG 91031SL 1	ARTS 13D MAIN 	Center for the Arts 2 	DMR 	Schools 
+464.55000 	WPHJ999	 	M	CC 9TG 91032SL 1	ARTS 14D WORK 	Center for the Arts 2  	DMR 	Schools 
+464.22500 	WPHJ999 	RM	CC 9TG 91041SL 1	HSA 15D MAIN 	Health Science Athletics  	DMR 	Schools 
+467.92500 	WPHJ999 	M	CC 9TG 91042SL 1	HSA 15D WORK 	Health Sciences Athletics 2 	DMR 	Schools 
+464.48750 	 	RM	114 DPL	FPS 1 	Facilities Repeater 1 	FMN 	Schools 
+464.28750 	WPHJ999	 	M	114 DPL	FPS 2 	Facilities - Work 2 	FMN 	Schools 
+469.18750 	WPHJ999	 	M	732 DPL	Tech 2 	ITS Tech Services 2 	FMN 	Schools 
+467.92500 	WPHJ999 	M	100.0 PL	Arts 3 	Center for the Arts 3 - Theater Crew 	FMN 	Schools 
+463.46250 	WPHJ999 	RM	CC 6TG 90700SL 1	ECC FAC 	Facilities 	DMR 	Schools 
+463.70000 	WPHJ999 	RM	100.0 PL	ECC 1 	Campus / Emergency ECC 1 	FMN 	Schools 
+464.22500 	WPHJ999 	RM	CC 15TG 92200SL 1	ECC 	El Camino College 	DMR 	Schools 
+464.50000 	WPHJ999 	M	114.8 PL	ECC 2 	Campus - Itinerant 2 	FMN 	Schools 
+463.47500 	WPLU442 	RM	343 DPL	LBCC 1 	Facilities 	FMN 	Schools 
+453.93750 	WNUD833 	RM	131 DPL	LBCC 2 	Channel 2 	FMN 	Schools 
+462.18750 	WPLU442 	RM	223 DPL	LBCC 4 	Channel 4 	FMN 	Schools 
+461.92500 	WPLU442 	M	223 DPL	LBCC 6 	Channel 6 	FMN 	Schools 
+462.02500 	WPLU442 	M	223 DPL	LBCC 7 	Channel 7 	FMN 	Schools 
+464.65000 	WPRW940	 	M	174 DPL	LBCC 9 	Channel 9 	FMN 	Schools 
+464.00000 	WQBE703 	RM	423 DPL	LACC Facilities 	Facilities 	FMN 	Schools 
+461.97500 	WQMY953 	RM	127.3 PL	HBRColl Fac 	Facilities Maintenance 	FM 	Public Works 
+461.15000 	WQVS208 	RM	223 DPL	LATTC 	Facilities 	FMN 	Schools 
+462.05000 	WPTE969 	RM	131.8 PL	LAVC Maint 	Maintenance 	FMN 	Schools 
+461.48750 	 	RM	072 DPL	MC Security 	Security 	FMN 	Security 
+462.13750 	WPMB866 	RM	516 DPL	MC Admin 	Administration 	FMN 	Schools 
+467.76250 	WPMB866 	M	103.5 PL	MC Maint 	Maintenance 	FMN 	Schools 
+463.90000 	KE6175 	RM	110.9 PL	MtSac Safety 	Public Safety 	FMN 	Security 
+464.82500 	KE6175 	RM	107.2 PL	MtSAC Campus 	Campus Operations 	FMN 	Schools 
+452.36250 	WPTK327 	RM	CC 4TG 100SL 1	PCC Rose PD 	Rosemead Campus - Police 	DMR 	Law Dispatch 
+462.07500 	WPTK327 	RM	CC 4TG 100SL 1	PCC Main PD 	Main Campus - Police   	DMR 	Law Dispatch 
+462.20000 	WPTK327 	RM	CC 3TG 1SL 1	PCC Main Eng 	Main Campus - Engineering 	DMR 	Schools 
+463.91250 	WPTK327 	RM	CC 4TG 100SL 1	PCC CEC PD 	 Community Education Center - Police 	DMR 	Law Dispatch 
+452.08750 	KNFX832 	RM	CC 7TG 2104SL 2	RIO HONDO 	Campus Operations 	DMR 	Schools 
+464.37500 	KNFX832 	RM	123.0 PL	Security 1 	Security 1 	FM 	Security 
+464.58750 	 	RM	411 DPL	Secur 2Phone 	Security 2 Phone Patch  	FM 	Security 
+464.60000 	 	RM	466 DPL	Secur 3 Park 	Security 3 Parking Enforcement    	FM 	Security 
+152.96000 	WQHJ354 	RM	167.9 PL	1 CoC Sec 	Ch.1 - Security and Campus Ops 	FM 	Security 
+152.43750 	WQHJ354 	RM	107.2 PL	2 CoC IT 	Ch.2 - IT Department 	FMN 	Schools 
+152.33750 	WQHJ354 	RM		3CoC Sec Tac 	Ch.3 - Security Tac 	FMN 	Security 
+152.91500 	WQHJ354 	RM	114.8 PL	4 CoC Maint 	Ch.4 - Maintenance 	FMN 	Schools 
+461.40000 	WRBM596 	RM	CC 3TG 125SL 1	COC SEC ADM 	Security / Administration 	DMR 	Schools 
+461.40000 	WRBM596 	RM	CC 3TG 125SL 2	COC FAC ENG 	Facilities / Engineering 	DMR 	Schools 
+464.35000 	 	RM	CC 6TG 100SL 1	SMC PD MAIN 	Police - Main Campus 	DMR 	Law Dispatch 
+451.75000 	WQWG376 	RM	CC 6TG 100SL 1	SMC PD BUNDY 	Police - Bundy Campus 	DMR 	Law Dispatch 
+451.75000 	WQWG376 	RM	CC 6TG 200SL 2	SMC Facil 	Facilities 	DMR 	Schools 
+461.52500 	 	RM	CC 7TG 100SL 1	SMC EMERG 	Emergency Net 	DMR 	Schools 
+464.35000 	 	RM	CC 6TG 200SL 1	SMC Facil 	Facilities 	DMR 	Schools 
+464.35000 	 	RM	CC 6TG 200SL 2	SMC Facil 	Facilities - Main Campus 	DMR 	Schools 
+464.97500 	WPXL531 	RM	346 DPL	WestLA Coll 	Campus Operations 	FM 	Schools 
+451.20000 	WQBU751 	RM	159.8 PL	Artesia HS 	Artesia High School  	FMN 	Schools 
+854.96250 	WNQZ386 	RM	110.9 PL	ActonUSD 	District Operations  	FM 	Schools 
+461.07500 	WNAR449 	RM	114.8 PL	Alhmbra Bus 	Bus Operations 	FM 	Schools 
+461.07500 	WNAR449 	RM	210.7 PL	Alhambra HSD 	Maintenance 	FM 	Schools 
+854.98750 	WQEQ889 	RM	100.0 PL	AntVlySchls 	Transportation 	FM 	Schools 
+860.71250 	WQEQ889 	RM	100.0 PL	AntVlySchls 	Transportation 	FM 	Schools 
+152.33750 	WPUC610 	RM		AntVlyHigh 	On Campus Use - Antelope Valley, Palmdale &  Quartz Hill High Schools 	FM 	Schools 
+152.91500 	WPSS294 	RM		AntVlyHigh 	On Campus Use - Highland, Lancaster & Littlerock High Schools  	FM 	Schools 
+153.31250 	WPZE300 	RM	100.0 PL	WKinghtHS 	On Campus Use - William Knight High School 	FM 	Schools 
+463.36250 	 	RM	054 DPL	Arc USD Mnt 	Maintenance 	FM 	Schools 
+462.16250 	WPVV980 	RM	146.2 PL	Azusa USD CMD 	District Emergency Command Net 	FMN 	Schools 
+464.36250 	WPVV980 	RM	91.5 PL	Azusa USB 	School Buses  	FM 	Transportation 
+464.60000 	WNHT738 	RM	054 DPL	Azusa USB 	School Buses  	FM 	Transportation 
+460.55000 	WNPC757 	RM	CC 8TG 214SL 1	BPUSD Trans 	Transportation 	DMR 	Schools 
+464.42500 	WNPC757 	RM	CC 1TG 201SL 1	BPUSD Police 	School Police  	DMR 	Law Dispatch 
+462.00000 	WQRI579 	RM	664 DPL	Bellflower HS 	Bellflower High School 	FMN 	Business 
+452.35000 	KEO874 	RM	411 DPL	BHUSD HM 	Horace Mann School 	FM 	Schools 
+452.35000 	KEO874 	RM	423 DPL	BHUSD HS 	Beverly Hills High School 	FM 	Schools 
+461.95000 	KEO874 	RM	411 DPL	BHUSD HW 	Hawthorne School 	FM 	Schools 
+462.20000 	KEO874 	RM	411 DPL	BHUSD ER 	El Rodeo School 	FM 	Schools 
+462.41250 	KEO874 	RM	411 DPL	BHUSD BV 	Beverly Vista School 	FM 	Schools 
+464.70000 	WRCN326 	RM	131.8 PL	BHUSD EOC 	District Emergency Net / Access Channel 	FMN 	Security 
+464.87500 	KEO874 	RM	CC 9TG 100SL 1	BHUSD EOC 	District Emergency Net- Digital 	DMR 	Schools 
+464.87500 	KEO874 	RM	173.8 PL	BHUSD 1 	Ch.1 - Maintenance  	FM 	Schools 
+463.38750 	WPDS690 	RM	125 DPL	BurbankUSD 	Burbank USD 	FM 	Schools 
+35.96000 	KNIA702 	BM	88.5 PL	CUSD 	Busses 	FM 	Schools 
+461.85000 	 	RM	CC 3TG 300SL 1	Leuzinger HS 	Leuzinger High School 	DMR 	Schools 
+463.50000 	 	RM	CC 1TG 100SL 1	Lawndale HS 	Lawndale High School 	DMR 	Schools 
+464.37500 	 	RM	CC 2TG 200SL 1	Hawthorne HS 	Hawthorne High School 	DMR 	Schools 
+462.01250 	WQQJ650 	RM	CC 4TG 1SL 1	CHADWICK SCHL 	On campus use 	DMR 	Schools 
+462.01250 	WQQJ650 	RM	CC 4TG 1SL 2	CHADWICK SCHL 	On campus use 	DMR 	Schools 
+462.16250 	WQQJ650 	RM	CC 5TG 1SL 1	CHADWICK SCHL 		 On campus use 	DMR 	Schools 
+462.16250 	WQQJ650 	RM	CC 5TG 1SL 2	CHADWICK SCHL 	On campus use 	DMR 	Business 
+470.16250 	WIL353 	RM	186.2 PL	ComptonUSD PD1 	Police Ch 1 	FM 	Law Dispatch 
+471.07500 	WIL353 	M	186.2 PL	ComptonUSD PD2 	Police Ch 2 	FM 	Law Tac 
+470.07500 	 	M	186.2 PL	ComptonUSD PD Ta 	Police Tac 	FM 	Law Tac 
+464.37500 	WPOB491 	RM	71.9 PL	ComptonUSD FM 	Facilities Maintenance 	FM 	Schools 
+451.83750 	WPSL964 	RM	712 DPL	CVUSD 	Transportation 	FM 	Transportation 
+451.86250 	WPSL964 	RM	703 DPL	COVINA HS 	Covina High School on campus 	FMN 	Schools 
+451.96250 	WPSL964 	RM	131 DPL	CVUSD 	Transportation 	FMN 	Transportation 
+452.07500 	WQGG533 	RM	CC 10TG 325107SL 2	CCUSD 	On Campus Use 	DMR 	Schools 
+463.21250 	WQYU589 	RM	CC 5TG 325107SL 2	CCUSD 	On Campus Use 	DMR 	Schools 
+463.26250 	WQYU589 	RM	CC 6TG 325107SL 2	CCUSD 	On Campus Use 	DMR 	Schools 
+463.26250 	WQYU589 	RM	CC 6TG 325107SL 1	CCUSD 	On Campus Use 	DMR 	Schools 
+463.31250 	WQYU589 	RM	CC 7TG 325107SL 1	CCUSD 	On Campus Use 	DMR 	Schools 
+463.31250 	WQYU589 	RM	CC 7TG 325107SL 2	CCUSD 	On Campus Use 	DMR 	Schools 
+464.16250 	WQGG533 	RM	CC 3TG 325107SL 2	CCUSD MOT 	Maintenance, Operations, Transportation 	DMR 	Schools 
+464.16250 	WQGG533 	RM	CC 3TG 325107SL 1	CCUSD Safety 	Safety 	DMR 	Schools 
+464.77500 	 	RM	CC 2TG 325107SL 2	CCUSD Maint 	Maintenance 	DMR 	Schools 
+464.77500 	 	RM	CC 2TG 325107SL 1	CCUSD 	On Campus Use 	DMR 	Schools 
+469.71250 	WQGG533 	M	114 DPL	CCUSD Campus 	On Campus use 	FM 	Schools 
+462.13750 		WQAY580 	RM	071 DPL	Downey HS 	Downey HS 	FMN 	Schools 
+463.13750 	 	RM	071 DPL	Downey HS 	Downey High School 	FMN 	Schools 
+463.21250 	WQAY580 	RM	071 DPL	Downey USD 	On Campus Use 	FMN 	Schools 
+464.06250 	WQAY580 	RM	218.1 PL	DUSD Trans 	Transportation 	FMN 	Schools 
+155.26500 	WQHM721 	BM	100.0 PL	EastUnionSD 	District Operations 	FM 	Schools 
+464.46250 	WQIA567 	RM	CC 14TG 1SL 1	ElRanchoUSD PD 	School Police 	DMR 	Law Dispatch 
+152.90000 	WQBH488 	M	85.4 PL	ElSegundoSD1 	On Campus Use 	FM 	Schools 
+152.94500 	WQBH488 	M	141.3 PL	ElSegundoSD2 	On Campus Use 	FM 	Schools 
+159.88500 	WQBH488 	M	141.3 PL	ElSegundoSD3 	On Campus Use 	FM 	Schools 
+464.87500 	WPMS598 	RM	CC 0TG 1SL 1	Garvey SD 	Facilities 	DMR 	Schools 
+451.37500 	WQCW423 	RM	754 DPL	HLPUSD PD D 	School Police Daytime Dispatch 	FM 	Law Dispatch 
+461.48750 	WNXA741 	RM	167.9 PL	HLPUSD Buses 	School Buses  Ch. 3 	FM 	Transportation 
+464.37500 	 	RM	94.8 PL	HLPUSD PD N 	School Police - Night Dispatch & Special Events 	FM 	Law Dispatch 
+451.66250 	 	RM	CC 6TG 151SL 1	HV Security 	Security Primary 	DMR 	Security 
+451.66250 	 	RM	CC 6TG 152SL 2	HV Campus 	On Campus use 	DMR 	Schools 
+464.82500 	WQMD429 	RM	141.3 PL	IUSD Police 	School Police Dispatch 	FM 	Law Dispatch 
+461.35000 	WQMD429 	RM	162.2 PL	IUSD PD Tac 	School Police Tac 	FM 	Law Tac 
+461.35000 	WQMD429 	RM	110.9 PL	IUSD  Transp 	Transportation / Facilities 	FMN 	Schools 
+464.95000 	WQMD429 	M	110.9 PL	IUSD Campus 	On campus use 	FMN 	Schools 
+469.26250 	WQMD429 	M	110.9 PL	IUSD Campus 	On campus use 	FMN 	Schools 
+152.37500 	KWH299 	RM	023 DPL	Keppel USD 	Transortation 	FMN 	Schools 
+155.38500 	WNKA980 	BM	110.9 PL	LANTERMAN 	Lanterman Developmental Center 	FM 	Schools 
+151.80500 	WPMQ695 	M	174 DPL	LV School 	On Campus Use 	FM 	Schools 
+151.89250 	WPMQ695 	RM	123.0 PL	LV School Op 	District Operations 	FM 	Schools 
+152.30000 	WPMQ695 	RM	134 DPL	LV School OC 	On Campus Use 	FM 	Schools 
+463.53750 	WQTI326 	RM	343 DPL	LENNOX SD 	District Operations 	FMN 	Schools 
+935.22500 	WNIT941 	RM	023 DPL	LBUSD SECRT 	Security/Emergency Radio Net 	FM 	Security 
+935.22500 	WNIT941 	RM	026 DPL	LBUSD PD 	School District Police  	FM 	Law Dispatch 
+462.17500 	WPAM875 	RM		LBUSD Poly 	Polytechnic High School 	FM 	Schools 
+463.43750 	WPAM875 	M		LBUSD LK/ML 	Lakewood/RA Millikan High Schools 	FM 	Schools 
+154.54000 	WPJM450 	BM		LBUSD Jor HS 	Jordan High School 	FM 	Schools 
+154.51500 	WPJM450 	BM		LBUSD Jor HS 	Jordan High School 	FM 	Schools 
+464.43750 	WPAM875 	M		LBUSD HS ops 	High School Ops (secondary) 	FM 	Schools 
+462.13750 	KB88725 	M		LBUSD Mid Sc 	Middle School Ops 	FM 	Schools 
+467.13750 	KB88725 	M		LBUSD Mid Sc 	Middle School Ops 	FM 	Schools 
+154.60000 	WPJM450 	M		LBUSD Elem S 	Elementary School Ops 	FM 	Schools 
+151.95500 	WPJM450 	M		LBUSD Elem S 	Elementary School Ops 	FM 	Schools 
+154.60000 	 	M	023 DPL	Avalon K-12 	Avalon Schools 	FMN 	Schools 
+462.17500 	WPAM875 	RM	CC 1TG 8SL 2	LBUSD Campus 	On Campus Use 	DMR 	Schools 
+462.17500 	WPAM875 	RM	CC 1TG 9SL 1	LBUSD Campus 	On Campus Use 	DMR 	Schools 
+462.17500 	WPAM875 	RM	CC 1TG 9SL 2	LBUSD Campus 	On Campus Use 	DMR 	Schools 
+462.17500 	WPAM875 	RM	CC 8TG 6581SL 1	LBUSD MILIK1 	Millikan High School - Ch.1 	DMR 	Schools 
+462.17500 	WPAM875 	RM	CC 1TG 8SL 1	LBUSD Campus 	On Campus Use 	DMR 	Schools 
+462.17500 	WPAM875 	RM	CC 8TG 6582SL 2	LBUSD MILIK2 	Millikan High School - Ch.2 	DMR 	Schools 
+462.35000 	WPAM875 	RM	CC 3TG 6531SL 1	LBUSD WW HS1 	Woodrow Wilson High School - Ch.1 	DMR 	Schools 
+462.35000 	WPAM875 	RM	CC 3TG 6532SL 2	LBUSD WW HS2 	Woodrow Wilson High School - Ch.2 	DMR 	Schools 
+463.40000 	KKH92 	RM	136.5 PL	LBUSD Ops 	Maintenance/Operations/Transportation 	FM 	Schools 
+463.40000 	KKH92 	RM	146.2 PL	LBUSD Bus 	Bus Operations 	FM 	Schools 
+463.40000 	KKH92 	RM	162.2 PL	LBUSD Secur 	Security 	FM 	Security 
+463.40000 	KKH92 	RM	192.8 PL	LBUSD Maint 	Maintenance 	FM 	Schools 
+463.83750 	WPAM875 	M		LBUSD  	Campus Security  	FM 	Schools 
+464.40000 	WPAM875 	RM		LBUSD WW 2 	Woodrow Wilson High School 2 	FM 	Schools 
+464.43750 	WPAM875 	M		LBUSD  	Campus Security  	FM 	Schools 
+464.83750 	WPAM875 	RM		LBUSD Milik1 	Millikan High School 	FM 	Schools 
+464.88750 	WPAM875 	RM		LBUSD SavHS 	Savannah High School 	FM 	Schools 
+464.88750 	WPAM875 	RM	CC 7TG 6575SL 1	LBUSD CBRL 1 	Cabrillo High School - Ch.1 	DMR 	Schools 
+464.88750 	WPAM875 	RM	CC 7TG 6576SL 2	LBUSD CBRL 2 	Cabrillo High School - Ch.2 	DMR 	Schools 
+467.17500 	WPAM875 	M		LBUSD  	Campus Security  	FM 	Schools 
+467.35000 	WPAM875 	M		LBUSD  	Campus Security  	FM 	Schools 
+451.91250 	WQMY878 	RM	179.9 PL	LACoEdu 	Christa McAuliffe High School - Lancaster 	FM 	Schools 
+851.68750 	WZA814 	RM	245 DPL	LACoEduBus 	Transportation 	FMN 	Schools 
+861.31250 	WZA814 	RM	245 DPL	LACoEduBus 	LACoEduBus 	FMN 	Schools 
+464.25000 	WQEB829	 	RM	131.8 PL	1 OEHS  	Ch. 1 - Office of Environmental Health and Safety 	FMN 	Schools 
+457.52500 	KS2458 	M	107.2 PL	2 LCRS S 1 	Ch. 2 - Secondary School on Campus 1 	FMN 	Schools 
+457.52500 	KS2458 	M	131.8 PL	3 LCRS S 2 	Ch. 3 - Secondary School on Campus 2 	FMN 	Schools 
+457.52500 	KS2458 	M	146.2 PL	4 LCRS S 3 	Ch. 4 - Secondary School on Campus 3 	FMN 	Schools 
+457.52500 	KS2458 	M	162.2 PL	5 LCRS S 4 	Ch. 5 - Secondary School on Campus 4 	FMN 	Schools 
+457.52500 	KS2458 	M	179.9 PL	6 LCRS S 5 	Ch. 6 - Secondary School on Campus 5 	FMN 	Schools 
+457.52500 	KS2458 	M	664 DPL	7 LCRS S 6 	Ch. 7 - Secondary School on Campus 6 	FMN 	Schools 
+457.52500 	KS2458 	M	712 DPL	8 LCRS S 7 	Ch. 8 - Secondary School on Campus 7 	FMN 	Schools 
+457.52500 	KS2458 	M	731 DPL	9 LCRS S 8 	Ch. 9 - Secondary School on Campus 8 	FMN 	Schools 
+457.52500 	KS2458 	M	734 DPL	10 LCRS S 9 	Ch. 10 - Secondary School on Campus 9 	FMN 	Schools 
+457.52500 	KS2458 	M	754 DPL	11 LCRS S 10 	Ch. 11 - Secondary School on Campus 10 	FMN 	Schools 
+457.53750 	KB50499 	M	107.2 PL	12 LCRS E 1 	Ch. 12 - Elementary School on Campus 1 	FMN 	Schools 
+457.53750 	KB50499 	M	131.8 PL	13 LCRS E 2 	Ch. 13 - Elementary School on Campus 2 	FMN 	Schools 
+457.53750 	KB50499 	M	146.2 PL	14 LCRS E 3 	Ch. 14 - Elementary School on Campus 3 	FMN 	Schools 
+457.53750 	KB50499 	M	162.2 PL	15 LCRS E 4 	Ch. 15 - Elementary School on Campus 4 	FMN 	Schools 
+457.53750 	KB50499 	M	179.9 PL	16 LCRS E 5 	Ch. 16 - Elementary School on Campus 5 	FMN 	Schools 
+457.53750 	KB50499 	M	664 DPL	17 LCRS E 6 	Ch. 17 - Elementary School on Campus 6 	FMN 	Schools 
+457.53750 	KB50499 	M	712 DPL	18 LCRS E 7 	Ch. 18 - Elementary School on Campus 7 	FMN 	Schools 
+457.53750 	KB50499 	M	731 DPL	19 LCRS E 8 	Ch. 19 - Elementary School on Campus 8 	FMN 	Schools 
+457.53750 	KB50499 	M	734 DPL	20 LCRS E 9 	Ch. 20 - Elementary School on Campus 9 	FMN 	Schools 
+457.53750 	KB50499 	M	754 DPL	21 LCRS E 10 	Ch. 21 - Elementary School on Campus 10 	FMN 	Schools 
+464.25000 	WQEB829 	RM	107.2 PL	22 KLCS  	Ch. 22 - KLCS TV Station 	FMN 	Schools 
+461.98750 	WQPE706 	RM	754 DPL	23 RFK 	Ch. 23 - Robert F. Kennedy Community Schools Complex 	FMN 	Schools 
+464.25000 	WQEB829 	RM	146.2 PL	24 MAINT 	Ch. 24 - Maintenance / Technology Support 	FMN 	Schools 
+464.25000 	WQEB829 	RM	146.2 PL	25 INSPECT 	Ch. 25 - Inspection 	FMN 	Schools 
+464.25000 	WQEB829 	RM	179.9 PL	26 FOOD/TRK 	Ch. 26 - Food Service / Truck Operations  	FMN 	Schools 
+464.42500 	WPOC237 	RM	047 DPL	27 BDRY SEC 	Ch. 27 - Beaudry District Administrative Headquarters - Security 	FMN 	Security 
+464.87500 	WPOC237 	RM	047 DPL	28 BDRY ENG 	Ch. 28 - Beaudry District Administrative Headquarters - Engineering 	FMN 	Schools 
+462.15000 	WPKY742 	RM	047 DPL	29 BDRY WD 	Ch. 29 - Beaudry District Administrative Headquarters - Floor Wardens 	FMN 	Schools 
+452.68750 	WQQL759 	RM	712 DPL	30 CHAVEZ 	Ch. 30 - Cesar Chavez Learning Academy 	FMN 	Schools 
+452.68750 	WQQL759 	RM	664 DPL	31 LINCOLN 	Ch. 31 - Lincoln Math/Science/Technology Magnet 	FMN 	Schools 
+452.68750 	WQQL759 	RM	734 DPL	32 WSTCHSTR 	Ch. 32 - Westchester Enriched Sciences Magnet 	FMN 	Schools 
+452.01250 	WQEB715 	RM	662 DPL	Animo Locke 	Animo Locke High School  	FMN 	Schools 
+463.23750 	WQEB715 	RM	156 DPL	Animo Locke 	Animo Locke High School  	FMN 	Schools 
+451.80000 	 	RM	114 DPL	Luskin Aca 	Alliance Renee Meyer Luskin Academy 	FMN 	Schools 
+457.53750 	KB50499 	M	131.8 PL	BDRY CUST 	Beaudry District Administrative  Headquarters Custodial 	FMN 	Schools 
+451.80000 	 	RM	311 DPL	ALMA 	Alliance Leadership Middle Academy  	FMN 	Schools 
+857.66250 	KXD939 	RM	131.8 PL	LAUSD Bus-1 	Bus Operations-1 	FMN 	Schools 
+857.68750 	KXD939 	RM	131.8 PL	LAUSD Bus-2 	Bus Operations-2 	FMN 	Schools 
+859.51250 	KXD939 	RM	131.8 PL	LAUSD Bus-3 	Bus Operations-3 	FMN 	Schools 
+859.61250 	KXD939 	RM	131.8 PL	LAUSD Bus-4 	Bus Operations-4 	FMN 	Schools 
+860.56250 	KXD939 	RM	131.8 PL	LAUSD Bus-5 	Bus Operations-5 	FMN 	Schools 
+453.40000 	WNXZ591 	RM	162 NAC	LAUSD PD-2 	Police - Valley and West (Districts 1-3) 	P25 	Law Dispatch 
+453.80000 	KMK876 	RM	131 NAC	LAUSD PD-1 	Police - Central, South and East (Districts 4-7)  	P25 	Law Dispatch 
+461.63750 	WPZQ260 	RM	CC 7TG 469821SL 1	LUSD Campus 	On Campus Use 	DMR 	Schools 
+461.66250 	WPZQ260	 	RM	CC 13TG 469821SL 1	LUSD Campus 	On Campus Use 	DMR 	Schools 
+461.70000 	WPZQ260 	RM	94.8 PL	LUSD Safety 	Campus safety 	FM 	Law Dispatch 
+461.86250 	WPZQ260 	RM	CC 7TG 469821SL 1	LUSD 	On Campus Use 	DMR 	Schools 
+462.20000 	WPZQ260 	RM	CC 8TG 469821SL 1	LUSD SAFETY 	District Safety 	DMR 	Law Dispatch 
+462.20000 	WPZQ260 	RM	CC 8TG 469821SL 2	LUSD Campus 	On Campus Use 	DMR 	Schools 
+464.71250 	WPZQ260 	RM	CC 9TG 469821SL 1	LUSD Safety 	District Safety 	DMR 	Law Dispatch 
+464.71250 	WPZQ260 	RM	CC 9TG 469821SL 2	LUSD Campus 	On Campus Use 	DMR 	Schools 
+464.82500 	WPZQ260 	RM	CC 10TG 469821SL 1	Ops 	Operations 	DMR 	Schools 
+463.55000 	WPJL727 	M	074 DPL	MnhttnBchOC1 	On Campus Use 	FM 	Schools 
+464.97500 	WPJL727 	M	074 DPL	MnhttnBchOC2 	On Campus Use 	FM 	Schools 
+461.40000 	WPPS554 	RM	131.8 PL	MUSD PD 	Police 	FMN 	Law Dispatch 
+461.40000 	WPPS554 	RM	114.8 PL	MUSD BUS 	Transportation 	FMN 	Transportation 
+461.27500 	WPSN607 	RM	186.2 PL	MUSD MAINT1 	Maintenance Ch. 1 	FM 	Schools 
+463.22500 	WPGI937 	RM	346 DPL	MUSD MAINT2 	Maintenance Ch. 2 	FM 	Schools 
+462.10000 	WPSN607 	RM	413 DPL	MUSD MHS 	Montebello High School 	FMN 	Schools 
+463.22500 	WPSN607 	RM	118.8 PL	MUSH BGHS 	Bell Gardens High School 	FMN 	Schools 
+463.45000 	WPSN607 	RM	413 DPL	MUSD 	District Maintenance 	FMN 	Schools 
+464.42500 	WPSN607 	RM	88.5 PL	MUSD SHURR 	Schurr High School 	FMN 	Schools 
+451.35000 	WNRL245 	M	115 DPL	NSD Campus 	On Campus 	FMN 	Schools 
+452.17500 	WNRL245 	RM	423 DPL	NSD Maint 	Facilities Maintenance  	FMN 	Schools 
+461.40000 	WNRL245 	M		NSD Campus 	On Campus 	FMN 	Schools 
+463.30000 	WNRL245 	M		NSD Campus 	On Campus 	FMN 	Schools 
+463.32500 	WNRL245 	M		NSD Campus 	On Campus 	FMN 	Schools 
+463.70000 	WNRL245 	RM	624 DPL	NSD Ops 	District Operations 	FM 	Schools 
+464.68750 	WNRL245 	M		NSD Campus 	On Campus 	FMN 	Schools 
+466.40000 	WNRL245 	M	662 DPL	NSD Campus 	Stevenson Ranch Elementary School 	FMN 	Schools 
+468.30000 	WNRL245 	M	423 DPL	NSD Campus 	On Campus 	FMN 	Schools 
+468.32500 	WNRL245 	M		NSD Campus 	On Campus 	FMN 	Schools 
+469.68750 	WNRL245 	M		NSD Campus 	On Campus 	FMN 	Schools 
+453.95000 	WQPV314 	RM	131.8 PL	NorwalkUSDPD 	School Safety Department 	FM 	Law Dispatch 
+154.54000 	WPAL833 	M		NLMUSDCampus 	On campus usage (various DPLs) 	FM 	Schools 
+461.42500 	WPNQ702 	RM	025 DPL	NLMUSD Facil 	Facilities Maintenance 	FM 	Schools 
+461.96250 	WPAL833 	RM	CC 10TG 43115SL 1	NLMUSD Food 	Food Services Central Kitchen - Delivery Trucks 	DMR 	Schools 
+935.15000 	WNIT940 	RM	CC 9TG 425896SL 1	NLMUSD Bus 	Transportation 	DMR 	Schools 
+151.89500 	WPUN706 	RM	141.3 PL	PalmdaleSD 	District Operations 	FM 	Schools 
+855.21250 	WNSK604 	RM	100.0 PL	PalmdlSDBus 	Transportation 	FM 	Schools 
+461.20000 	 	RM	CC 10TG 1SL 1	PVPUSD Campus 	Campus use 	DMR 	Schools 
+461.20000 	 	RM	CC 10TG 2SL 1	PVPUSD Campus 	Campus use 	DMR 	Schools 
+461.20000 	 	RM	CC 10TG 3SL 1	PVPUSD Campus 	Campus use 	DMR 	Schools 
+461.20000 	 	RM	CC 10TG 3SL 2	PVPUSD Campus 	Campus use 	DMR 	Schools 
+463.47500 	WPOD876 	RM	411 DPL	PVPHS 	Palos Verdes Peninsula High School - On campus 	FMN 	Schools 
+461.76250 	WQTA807 	RM	CC 4TG 8556SL 1	Paramount USD 	District Ops 	DMR 	Schools 
+464.75000 	WQTA807 	RM	CC 13TG 2501SL 1	Paramont HS 1 	Paramount High - Ch1 	DMR 	Schools 
+464.75000 	WQTA807 	RM	CC 13TG 2502SL 2	Paramont HS 2 	Paramount High - Ch2 	DMR 	Schools 
+460.05000 	WNRL778 	RM	151.4 PL	PUSD Police 	Police 	FM 	Law Dispatch 
+463.42500 	WNFM296 	RM	141.3 PL	PUSD SB 	School Buses (Embree Buses) 	FM 	Transportation 
+456.76250 	WQIE536 	M		PUSD Campus 	On Campus Use 	FM 	Schools 
+464.43750 	WQIF482 	M		PUSD Campus 	On Campus Use 	FM 	Schools 
+464.58750 	WQIE556 	M		PUSB Campus 	On Campus Use 	FM 	Schools 
+464.68750 	WQIF281 	M		PUSB Campus 	On Campus Use 	FM 	Schools 
+464.88750 	WQIE568 	M		PUSD Campus 	On Campus Use 	FM 	Schools 
+466.68750 	WQIE554 	M		PUSD Campus 	On Campus Use 	FM 	Schools 
+453.35000 	WPGN792 	RM	67.0 PL	 PUSD Ops 	Security Services 	FM 	Schools 
+461.83750 	WQGW877 	RM	445 DPL	PUSD Maint 	District Maintenance 	FMN 	Schools 
+463.53750 	WQGW877 	RM	245 DPL	PomonaUSD 	On campus usage 	FM 	Schools 
+462.38750 	 	M	192.8 PL	PUC 	Academy For Liberal Studies Charter Middle School - Eagle Rock 	FMN 	Schools 
+464.63750 	WQGS430 	RM	CC 15TG 113SL 1	RBUSD 1 	Facilities Maintenance 1 	DMR 	Schools 
+464.63750 	WQGS430 	RM	CC 15TG 114SL 2	RBUSD 2 	Facilities Maintenance 2 	DMR 	Schools 
+451.87500 	WPMW618 	RM	CC 15TG 25SL 1	ROWLAND USD 	Rowland USD 	DMR 	Schools 
+451.87500 	WPMW618 	RM	CC 15TG 25SL 2	RUSD TRANSPO 	Transportation 	DMR 	Schools 
+462.02500 	WNMV859 	RM	311 DPL	SGUSD 	District Operations 	FM 	Schools 
+461.25000 	WPOC377 	RM	734 DPL	SanMarino HS 	San Marino High School On Campus 	FMN 	Schools 
+461.45000 	WPOC377 	RM	734 DPL	SanMar Ops 	District Operations  	FM 	Schools 
+461.12500 	WPOE634 	RM	047 DPL	SMMUSDCampus 	On-Campus (various locations) 	FM 	Schools 
+461.41250 	WQKU548 	RM	047 DPL	SMMUSD SMHS 	Santa Monica High School 	FM 	Schools 
+461.81250 	WQKU547 	RM	631 DPL	SMMUSDMalibu 	Malibu High School 	FMN 	Schools 
+463.60000 	WNMQ851 	RM	245 DPL	SMMUSD Trans 	Transportation 	FM 	Schools 
+461.30000 	WNUL897 	RM	431 DPL	SaugusBus 	Transportation 	FM 	Schools 
+461.30000 	WNUL897 	RM	624 DPL	SugusDistOp 	District Operations 	FM 	Schools 
+155.26500 	KEF986 	BM	732 DPL	SS USD SB 	School Busses 	FM 	Transportation 
+463.95000 	WQFS540 	RM	107.2 PL	SS USD Ops 	District Operations  	FM 	Schools 
+463.56250 	WPYX548 	RM	155 DPL	WestCov SB 	School Buses 	FM 	Transportation 
+451.83750 	WPVK621 	RM	532 DPL	Whittier SD 	District Ops 	FMN 	Schools 
+33.10000 	KBV365 	BM	186.2 PL	WSH USD SB 	School Busses 	FM 	Transportation 
+151.58000 	WQPN235 	RM	266 DPL	Saugus HS 	Saugus High 	FMN 	Schools 
+151.65500 	WQHQ293	 	RM	CC 10TG 100SL 1	WHUSD BUS 	Transportation 	DMR 	Transportation 
+151.67000 	WQRA628 	RM	411 DPL	Hart HS 	Hart High 	FMN 	Schools 
+151.73000 	WQRA628 	RM	411 DPL	West Ranch HS 	West Ranch High 	FMN 	Schools 
+152.28500 	WQRA628 	RM	411 DPL	Golden Valley HS 	Golden Valley High 	FMN 	Schools 
+152.42000 	WQRA628 	RM	411 DPL	Canyon HS 	Canyon High 	FMN 	Schools 
+153.70500 	 	M	411 DPL	RanchoPico Jr 	Rancho Pico Junior High  	FMN 	Schools 
+154.57000 	 	BM	94.8 PL	Saugus HS 	Saugus High 	FM 	Schools 
+463.63750 	WNHD794 	RM	051 DPL	WSD F1 	Main Repeater - District Office/Maintenance/Groundskeepers 	FM 	Schools 
+463.63750 	WNHD794 	M	051 DPL	WSD F2 	Simplex - District Office/Maintenance/Groundskeepers 	FM 	Schools 
+469.28570 	WNHD794 	M	072 DPL	WSD F3 	Anza School 	FM 	Schools 
+469.41250 	WNHD794 	M	114 DPL	WSD F4 	Burnett School 	FM 	Schools 
+469.28750 	WNHD794 	M	114 DPL	WSD F5 	Cabrillo School 	FM 	Schools 
+469.41250 	WNHD794 	M	072 DPL	WSD F6 	Dana School 	FM 	Schools 
+469.28750 	WNHD794 	M	143 DPL	WSD F7 	Da Vinci School 	FM 	Schools 
+469.41250 	WNHD794 	M	143 DPL	WSD F8 	Groundskeepers 	FM 	Schools 
+464.87500 	WNHD794 	RM	351 DPL	WSD F9 	Back Up Repeater 1 	FM 	Schools 
+464.87500 	WNHD794 	RM	351 DPL	WSD F10 	Channel 10 	FM 	Schools 
+464.87500 	WNHD794 	RM	91.5 PL	WSD F11 	Back Up Repeater 2 	FM 	Schools 
+464.87500 	WNHD794 	RM	91.5 PL	WSD F12 	Channel 12 	FM 	Schools 
+453.76250 	WQKX262 	RM	114 DPL	RC U-1A 	Rio Hondo Peak 	FMN 	Emergency Ops 
+453.76250 	WQKX262  	RM	114 DPL	RC U-1B 	Johnstone 	FMN 	Emergency Ops 
+453.76250 	WQOR831 	RM	114 DPL	RC U-1C 	Onyx Peak 	FMN 	Emergency Ops 
+453.76250 	 	M	114 DPL	RC U-1D 	Simplex 	FMN 	Emergency Ops 
+453.76250 	WQRG940 	RM	114 DPL	RC U-1E 	Santa Ynez/Silver Peak 	FMN 	Emergency Ops 
+453.76250 	WQOM771 	RM	114 DPL	RC U-1G 	Pleasants Peak 	FMN 	Emergency Ops 
+453.76250 	WQOM771 	RM	114 DPL	RC U-1H 	Temple Hills 	FMN 	Emergency Ops 
+453.76250 	 	RM	114 DPL	RC U-1J 	Portable Repeater 	FMN 	Emergency Ops 
+453.76250 	WQKX262 	RM	114 NAC	RC U1A P25 	Ch U1A - "Comm51 base" 	P25 	Emergency Ops 
+460.23750 	 	RM	136.5 PL	RC LA1 	American Red Cross 	FM 	Emergency Ops 
+453.76250 	WQKX262 	RM	123.0 PL	RC LA2 	LA Metro Ch2 	FM 	Emergency Ops 
+460.23750 	 	RM	123.0 PL	RC LA3 	LA Metro Ch3 	FM 	Emergency Ops 
+463.11250 	WXK772 	RM	131 DPL	RC LA 	LA Metro  	FM 	Emergency Ops 
+464.55000 	WNUN935 	RM	125 DPL	RC LA 	Portable Repeater 	FM 	Emergency Ops 
+461.12500 	 	RM	132 NAC	CEMP 	California Emergency Mobile Patrol 	P25 	Emergency Ops 
+461.37500 	WNQO322 	RM	173.8 PL	CEMP  	California Emergency Mobile Patrol 	FMN 	Emergency Ops 
+461.80000 	 	RM	466 NAC	CEMP 	California Emergency Mobile Patrol 	P25 	Emergency Ops 
+463.80000 	WNQO322 	RM	788 NAC	CEMP 	California Emergency Mobile Patrol 	P25 	Emergency Ops 
+464.12500 	WNQO322 	RM	114.8 PL	CEMP 	California Emergency Mobile Patrol 	FM 	Emergency Ops 
+464.12500 	WNQO322 	RM	788 NAC	CEMP  	California Emergency Mobile Patrol 	P25 	Emergency Ops 
+463.53750 	WQHJ658 	RM	612 DPL	FRIENDS SGV 	Rangers / Firewatch  	FMN 	Public Works 
+155.16000 	WPKT343 	RM	179.9 PL	MRCA DISP 	Rangers "Park Net" - San Vincente Peak 	FMN 	Multi-Tac 
+155.08500 	WPKT343 	M	110.9 PL	MRCA 1D 	Ch.1 - Direct 	FMN 	Multi-Tac 
+155.08500 	WPKT343 	RM	110.9 PL	MRCA 3 	Ch.3 - San Vincente Peak 	FMN 	Multi-Tac 
+155.08500 	WPKT343 	RM	110.9 PL	MRCA 6 	Ch.6 - Santa Clarita Valley 	FMN 	Multi-Tac 
+155.08500 	WPKT343 	M	167.9 PL	MRCA 7 	Ch.7 - Fire Tac Direct 	FMN 	Multi-Tac 
+451.11250 	WQIF387 	RM	654 DPL	SEAACA 	Animal Control 	FM 	Public Works 
+Acumen Communication (Mt. Wilson)	 LTR Standard	 Pasadena	Acumen Communication (Oat Mountain) VHF	 LTR Standard	 Los Angeles	Acumen Communication (Oat Mountain/Hollywood)	 LTR Standard
+ Oat Mountain/Hollywood	Acumen Communications (Hollywood UHF)	 LTR Standard	 Los Angeles	Acumen Communications (Hollywood VHF)	 LTR Standard	 Los Angeles	Air Communication Services Inc. (Mt. Lukens)
+ LTR Standard	 Los Angeles	Alliance Communications	 LTR Standard	 Montrose	Alliance Communications Group (Lukens)	 LTR Standard	 Montrose
+AM Communications	 NXDN Icom IDAS Type D	 Los Angeles	American Airlines - Los Angeles International Airport	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Anderson Communications (Mount Lukens)	 LTR Standard
+ Los Angeles	Anderson Communications (Santiago)	 LTR Standard	 Los Angeles	Anheuser-Busch (Van Nuys)	 Motorola Type II Smartnet	 Van Nuys	ARINC - Los Angeles International Airport
+ TETRA Standard	 Los Angeles	ATT (LTR)	 LTR Standard	 Various	BearCom Group (Mt. Wilson)	 LTR Standard	 Mt. Wilson
+BearCom Group (Palos Verdes)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Palos Verdes	Bellflower City Services	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bellflower	Bicycle Casino	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Bell Gardens	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	California Science Center (Exposition Park)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	California State Prison, Los Angeles County
+ Motorola Type II Smartnet	 Lancaster	CALTrans (District 07 08 12)	 Project 25 Phase I	 Santiago Peak	Cedars-Sinai Medical Center 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles
+ChevronTexaco (El Segundo Refinery)	 Motorola Type II Smartnet	 El Segundo	City of Hope Hospital	 LTR Standard	 Duarte	Comm Enterprises (Hacienda Heights)	 LTR Standard
+ Hacienda Heights	Comm Enterprises (Hollywood)	 LTR Standard	 Los Angeles	Comm Enterprises (Mount Lukens)	 LTR Standard	 Los Angeles	Comm Enterprises (Oat Mountain)
+ LTR Standard	 Oat Mountain 	Comm Enterprises (Sierra Peak)	 LTR Standard	 Corona	Commerce City Services	 DMR Motorola Capacity Plus Single Site (TRBO)	 Commerce
+COMMLine (LA Convention Center)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Communication Innovations	 LTR Standard	 Oat Mountain	Communications Innovations (NXDN)	 NXDN Icom IDAS Type D
+ Multiple	Crowne Plaza Los Angeles Airport	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Culver City Transit	 Motorola Type II VOC	 Culver City	Delta Airlines - Los Angeles International Airport
+ DMR Motorola Capacity Plus Multi Site (TRBO)	 Los Angeles	Dignity Health Sports Park (former StubHub Center)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Carson	Dodger Stadium	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles
+El Monte City Services	 DMR Motorola Capacity Plus Single Site (TRBO)	 El Monte	ESPN at LA Live	 NXDN NEXEDGE 4800	 Los Angeles	Everport Terminal Services / Seaside Transportation Services	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Terminal Island	FCI 900, Inc. (Sunset Ridge)	 Motorola Type II Smartnet	 Claremont	Federal Correctional Institution Terminal Island	 Motorola Type II Smartnet	 Los Angeles	FedEx - Los Angeles International Airport
+ DMR Motorola Connect Plus (TRBO)	 Los Angeles	Fenix Marine Services	 DMR Motorola Capacity Plus Single Site (TRBO)	 San Pedro	FleetTalk Partners (Oat Mountain)	 Motorola Type II Smartnet	 Oat Mountain
+Garden Inn / Homewood Suites / Residence Inn Redondo Beach	 DMR Motorola Capacity Plus Single Site (TRBO)	 Redondo Beach	Grand Central Recycling and Transfer Station, Inc.	 LTR Standard	 Industry	Greyhound Exposition Service (LA Convention Center) 	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Los Angeles	Hawaiian Airlines (LAX)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Hemet Unified School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Hertz Car Rental
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Hillcrest Country Club	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	J. Paul Getty Trust (P25)	 Project 25 Phase II	 
+JetBlue Airways (LGB)	 DMR Hytera XPT	 Long Beach	JW Marriott - Ritz Carlton LA Live	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	KABC-TV	 NXDN NEXEDGE 4800
+ Los Angeles	Kaiser Permanente Downey Medical Center	 LTR Standard	 Downey	Kaiser Permanente South Bay Medical Center (Harbor City)	 LTR Standard	 Los Angeles	L.A.Live - Staples Center
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Lockheed Martin	 Project 25 Phase II	 Palmdale & Helendale	Long Beach Container Terminal	 DMR Motorola Capacity Plus Single Site (TRBO)	 Long Beach
+Long Beach Convention Center 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Long Beach	Long Beach Memorial Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Long Beach	Los Angeles City (STRS - Simulcast Trunked Radio System) Project 25	 Project 25 Phase I
+ Los Angeles	Los Angeles City - Convention Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Los Angeles City Department of Water and Power	 Project 25 Phase I	 Los Angeles	Los Angeles County Metropolitan Transportation Authority - 900Mhz
+ Motorola Type II Smartnet	 Los Angeles	Los Angeles County Metropolitan Transportation Authority - Union Station	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Los Angeles County Office Of Education	 Motorola Type II Smartnet	 Los Angeles
+Los Angeles County REACT	 Motorola Type II SmartZone	 Glendale	Los Angeles Memorial Coliseum	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Los Angeles Regional Interoperable Communications System (LA-RICS)	 Project 25 Phase II
+ Los Angeles County	Los Angeles World Airports (LAWA)	 Project 25 Phase I	 Los Angeles	Loyola Marymount University	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Maersk Pacific LTD
+ LTR Standard	 Terminal Island	Manhattan Beach Unified School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Manhattan Beach 	Marine Terminals Corporation	 DMR Motorola Capacity Plus Single Site (TRBO)	 San Pedro
+Maritime Communications/Land Mobile (Palmdale)	 SmarTrunk Standard	 Palmdale	Marriott Courtyard / Residence Inn LA Live 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Mattel Toys	 DMR Motorola Capacity Plus Single Site (TRBO)
+ El Segundo	McDermott Communications 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Mt Wilson, Santiago Peak	Metropolitan Detention Center Los Angeles	 Motorola Type II Smartnet	 Los Angeles	Metropolitan Water District of Southern California
+ DMR Motorola Connect Plus (TRBO)	 Various	Michael Kors Distribution Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Whittier	Mobile Relay Associates (Los Angeles)	 LTR Standard	 Los Angeles
+Mobile Relay Associates (Mount Lukens)	 LTR Standard	 Mount Lukens	Mobile Relay Associates (Mount Wilson)	 LTR Standard	 Mount Wilson	Mobile Relay Associates (Rancho Palos Verdes)	 LTR Standard
+ Rancho Palos Verdes	Mobile Relay Associates (Rancho Palos Verdes, Burbank, Corona, La Crescenta)	 LTR Standard	 Various	Mobile Relay Associates (Saddle Peak)	 LTR Standard	 Malibu	Mobile Relay Associates (Santiago Peak 1)
+ LTR Standard	 Santiago Peak	Mobile Relay Associates (Santiago Peak 2)	 LTR Standard	 Corona	Mobile Relay Associates (Sierra Peak)	 LTR Standard	 Corona
+Mobile Relay Associates (Sunset Ridge)	 LTR Standard	 Sunset Ridge		Mobile Relay Associates SoCal NEXEDGE Digital Network	 NXDN NEXEDGE 4800	 Multiple	Montage Hotel Beverly Hills	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Beverly Hills	MonteCedro - Retirement Homes	 DMR Motorola Capacity Plus Single Site (TRBO)	 Altadena	Mount San Antonio College	 DMR Motorola Capacity Plus Single Site (TRBO)	 Walnut	MS Airwaves
+ LTR Standard	 Johnstone Peak	National Science and Technology Network (Los Angeles)	 LTR Standard	 Los Angeles	National Science and Technology Network (Mount Lukens 1)	 LTR Standard	 Mount Lukens
+National Science and Technology Network (Mount Lukens 2)	 LTR Standard	 Mount Lukens	National Science and Technology Network (Mt. Lukens, Oat, Sierra)	 LTR Standard	 Los Angeles	National Science and Technology Network (Oat Mountain)	 LTR Standard
+ Oat Mountain	National Science and Technology Network (Rancho Palos Verdes 1) 	 LTR Standard	 Rancho Palos Verdes	National Science and Technology Network (Rancho Palos Verdes 2) 	 LTR Standard	 Rancho Palos Verdes	National Science and Technology Network (Sierra Peak 2)
+ LTR Standard	 Sierra Peak	National Science and Technology Network (Sunset Peak)	 LTR Standard	 Sunset Peak	Nextel (Oat Mountain)	 LTR Standard	 Oat Mountain
+Nextel (Santiago)	 LTR Standard	 Corona	Nextel (WIL681 2)	 LTR Standard	 	Norwalk City Services	 LTR Standard
+ Norwalk	Pacific Maritime Services	 DMR Motorola Capacity Plus Single Site (TRBO)	 Long Beach	Paging Systems (Los Angeles)	 LTR Standard	 Los Angeles	Paramount Studios
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Phillips 66 Refineries	 Project 25 Phase II	 Various	Pomona College	 DMR Motorola Capacity Plus Single Site (TRBO)	 Claremont
+Port of Long Beach	 Project 25 Phase I	 Long Beach / Signal Hill	Port of Los Angeles	 Project 25 Phase I	 San Pedro	Prospect Studios	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Hollywood	Queen Mary	 DMR Motorola Capacity Plus Single Site (TRBO)	 Long Beach	Ramirez Electronics	 LTR Standard	 Los Angeles	Shell (Carson)
+ Motorola Type II Smartnet	 Carson	Shore Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Santa Monica	Signal Hill 	 Motorola Type IIi Hybrid	 Signal Hill
+SJM Industrial Radio (LAX)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Snapchat (Brentwood)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Snapchat (Santa Monica)	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Santa Monica	Snapchat (Venice)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Southern California Edison	 Project 25 Phase II	 Various	Southern California Gas Company
+ DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Southwest Airlines - Los Angeles International Airport	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	SSA Marine Terminals - Pier A	 DMR Motorola Capacity Plus Single Site (TRBO)	 Long Beach
+SSA Marine Terminals - Pier C	 DMR Motorola Capacity Plus Single Site (TRBO)	 Long Beach	Sunset Bronson Studios	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hollywood	Sunset Marquis Hotel 	 DMR Motorola Capacity Plus Single Site (TRBO)
+ West Hollywood	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	Ten Thousand (10000 Santa Monica Blvd)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Tesoro Oil Pipeline Marine Terminal (Long Beach)
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Long Beach	Tesoro Refinery (Carson)	 DMR Motorola Connect Plus (TRBO)	 Carson	The Beverly Hilton Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Beverly Hills
+The Gardens Casino (Hawaiian Gardens)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hawaiian Gardens	Total Terminals International	 DMR Motorola Capacity Plus Single Site (TRBO)	 Long Beach	Touch Tel Mobile (217 MHz LTR 2)	 LTR Standard
+ Los Angeles	Touch Tel Mobile (217 Mhz Santiago Peak)	 LTR Standard	 Los Angeles	Touch Tel Mobile (Orange County)	 LTR Standard	 El Toro	Touch Tel Mobile (Palos Verdes)
+ LTR Standard	 Palos Verdes	Trans Pacific Container Service	 LTR Standard	 Wilmington	Tropicana Products Distribution Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Industry
+Unidentified Dock Company Port of LA/LB	 DMR Motorola Capacity Plus Single Site (TRBO)	 LA / LB Ports	Unidentified Federal P25 00001-001	 Project 25 Phase I	 Unknown	Unidentified Media Production #1	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Unknown	Unidentified Media Production #2	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Unidentified Media Production #3	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Unidentified Media Production #4
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Unidentified Radio Rental 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	United Airlines -  Los Angeles International Airport	 DMR Tier 3	 Los Angeles
+United Parcel Service (Compton)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Compton	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	Universal Studios Hollywood	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ Universal City	University of California (Los Angeles)	 Motorola Type II Smartnet	 Los Angeles	University of California (Los Angeles) - Housing Services	 NXDN NEXEDGE 9600	 Los Angeles	University of California - Los Angeles: Residence Suites
+ LTR Standard	 Los Angeles	University of Southern California (DMR)	 DMR Hytera XPT	 Los Angeles	University of Southern California (P25)	 Project 25 Phase II	 Los Angeles
+University of Southern California - IT Services 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Los Angeles	Villas at Playa Vista	 DMR Motorola Capacity Plus Single Site (TRBO)	 Playa Vista	Waldorf Astoria Hotel Beverly Hills	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Beverly Hills	Walt Disney Studios (Burbank / Glendale)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Various	West Basin Container Terminal (WBCT)	 DMR Motorola Capacity Plus Single Site (TRBO)	 San Pedro	Whittier College
+ NXDN NEXEDGE 4800	 Whittier	Yusen Terminals	 DMR Motorola Capacity Plus Single Site (TRBO)	 San Pedro	

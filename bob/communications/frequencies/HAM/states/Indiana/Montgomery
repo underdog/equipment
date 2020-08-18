@@ -1,0 +1,50 @@
+453.05000 	WPVR333 	RM	051 DPL	54-SO-JAIL-1 	Montgomery County Detention Center 	FMN 	Law Tac 
+155.13000 	KNDQ871 	BM	CSQ	54-SO-PLAN-A 	Montgomery County Sheriff - Plan A (Backup) 	FMN 	Law Tac 
+154.89000 	 	M		54-SO-PLAN-A 	Montgomery County Sheriff - Plan A (Car to Base) 	FMN 	Law Tac 
+155.37000 	KNDQ871 	BM	CSQ	54-SO-POINT 	Montgomery County Sheriff - Point to Point 	FMN 	Interop 
+460.40000 	WPBX260 	BM		CRAWFORDVL PD 	Crawfordsville Police Department (Informal use) 	FMN 	Law Talk 
+151.33250 	KNDQ871 	BM		MONT POLICE 	Montgomery County (Unknown Law Enforcement) 	FMN 	Law Talk 
+151.48750 	KNDQ871 	BM		MONT POLICE 	Montgomery County (Unknown Law Enforcement) 	FMN 	Law Talk 
+155.72250 	WPCA497 	RM		54-MEMA-VHF1 	Montgomery County EMA - VHF Primary 	FMN 	Emergency Ops 
+453.37500 	WPCA497 	RM		54-MEMA-UHF 	Montgomery County EMA - UHF Backup 	FMN 	Emergency Ops 
+154.05500 	KNCG393 	BM		54-CERT-TEAM 	Montgomery County CERT Team 	FMN 	Emergency Ops 
+154.31000 	KBR502 	BM	CSQ	54-MCFD-DISP 	County Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.87250 	KNDQ871 	RM	162 DPL	54-MCFD-WHIT 	County Fire - Whitesville Repeater 	FMN 	Fire-Tac 
+158.84250 	KNDQ871 	RM	174 DPL	54-MCFD-CHRY 	County Fire - Cherry Grove Repeater 	FMN 	Fire-Tac 
+154.16000 	KBR502 	BM	173.8 PL	54-CFD-DISP 	Crawfordsville Fire - Dispatch 	FMN 	Fire Dispatch 
+154.01000 	KBR502 	BM		54-CFD-FG-1 	Crawfordsville Fire - Fireground 	FMN 	Fire-Tac 
+154.32500 	KEY956 	BM		54-MCFD-DFD 	Darlington Fire - Fireground 	FMN 	Fire-Tac 
+154.34000 	WQHI909 	BM		54-NWFT-CCFD 	NW Montgomery Fire Territory - Coal Creek Fireground 	FMN 	Fire-Tac 
+154.17500 	WNAE325 	BM		54-NWFT-MTFD 	NW Montgomery Fire Territory - Madison Township Fireground 	FMN 	Fire-Tac 
+154.35500 	KCY565 	BM		54-MCFD-WTFD 	Walnut Township Fire - Fireground 	FMN 	Fire-Tac 
+151.62500 	 	M		54-MCFD-WFG1 	Waynetown Fire - Fireground 1 	FMN 	Fire-Tac 
+154.31000 	KSF732 	BM		54-MCFD-WFG 	Waynetown Fire - Fireground 2 	FMN 	Fire-Tac 
+464.05000 	WPHC215 	RM	146.2 PL	54-STAR-EMS1 	STAR EMS - Dispatch 	FMN 	EMS Dispatch 
+155.23500 	WPWY910 	BM	162.2 PL	54-STAR EMS2 	STAR EMS - Secondary Operations 	FMN 	EMS-Tac 
+453.66250 	WPWY910  	RM		STAR EMS Events 	STAR EMS - Events 	FMN 	EMS-Tac 
+466.57500 	 	BM		54-STAR-UNK 	STAR EMS - Unknown Operations 	FMN 	EMS-Tac 
+453.80000 	WQHG684 	RM		54-HWY-MAIN 	Montgomery County Highway Department 	DMR 	Public Works 
+453.80000 	WQHG684 	RM	146.2 PL	54-HWY-MAIN 	Montgomery County Highway Department 	FMN 	Public Works 
+151.13000 	WQBJ806 	RM		54-CO-GOVT 	Montgomery County Government Services 	FMN 	Public Works 
+153.71000 	WNSI336 	BM		54-CELP-OPS1 	Crawfordsville Electric Light & Power 	DMR 	Utilities 
+152.43500 	KSA488 	BM		54-CELP-OPS2 	Crawfordsville Electric Light & Power 	FMN 	Utilities 
+154.08500 	KRI695 	BM		54-CPW-WATER 	Crawfordsville Water Works 	FMN 	Public Works 
+453.22500 	WPLX295 	RM		54-CPW-STRT 	Crawfordsville Street Department 	DMR 	Public Works 
+453.73750 	WPEJ806 	M		54-CPW-DATA 	Crawfordsville Water Works Telemetry 	Telm 	Public Works 
+154.10000 	KNCU985 	BM	110.9 PL	54-CTA 	Crawfordsville Transit Authority Van Service 	FMN 	Public Works 
+155.01000 	WQRB659 	BM		54LAPW-UTIL 	Ladoga Utility Department 	FMN 	Utilities 
+453.45000 	WPQG490 	RM		54-LIPW-STRT 	Linden Street Department 	FMN 	Public Works 
+453.56250 	WPLX295 	M		54-CPW-STRT 	Crawfordsville Street Department 	FMN 	Public Works 
+119.05000 	WQBG496 	BM		KCGJ APP/DEP 	Indianapolis Center ATC 	AM 	Aircraft 
+122.80000 	WQBG496 	BM		KCFJ UNICOM 	UNICOM 	AM 	Aircraft 
+125.65000 	WQNU350 	BM		KCFJ AWOS 	AWOS Weather 	AM 	Aircraft 
+463.56250 	WQJZ528 	RM		CSC-Schools 	Crawfordsville School Corporation 	DMR 	Schools 
+464.67500 	WNKR899 	RM		NMSC-School 	North Montgomery School Corporation 	DMR 	Schools 
+452.50000 	WQV731 	RM		SMSC-School1 	South Montgomery School Corporation 	FMN 	Schools 
+461.45000 	WPCF261 	RM		SMSC-School2 	South Montgomery School Corporation 	FMN 	Schools 
+463.62500 	WQUZ314 	RM	114 DPL	WC-SECURITY 	Wabash College Security 	FMN 	Schools 
+463.35000 	WQUZ314 	RM	114 DPL	WC-MAINTNCE 	Wabash College Grounds Maintenance 	FMN 	Schools 
+451.63750 	 	BM		Fr Hosp Maint 	Maintenance Operations 	FMN 	Hospital 
+462.76250 	WRCI958 	RM		Fr Hosp Maint 	Maintenance Operations 	FMN 	Hospital 
+Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Nucor Steel	 LTR Standard	 Crawfordsville	Tipmont REMC	 NXDN NEXEDGE 9600
+ Multiple	

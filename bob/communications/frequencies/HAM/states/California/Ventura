@@ -1,0 +1,142 @@
+151.13000 	WPMA238 	RM	151.4 PL	VCSD 1 West 	Ch 1 Dispatch West 	FMN 	Law Dispatch 
+155.53500 	WPMA238 	RM	107.2 PL	VCSD 2 Tac 	Ch 2 Tactical 	FMN 	Law Tac 
+156.15000 	WPMA238 	RM	123.0 PL	VCSD 3 East 	Ch 3 Dispatch East 	FMN 	Law Dispatch 
+159.21000 	KMH693 	BM	110.9 PL	VCSD 4 CMD 	Ch 4 Command 4 	FMN 	Law Tac 
+158.73000 	KC3010 	M	100.0 PL	VCSD 5 CC 	Ch 5 Car-to-Car 	FM 	Law Talk 
+156.01500 	KNNN385 	BM	100.0 PL	VCSD 6 CWide 	Ch 6 Countywide Mutual Aid (used for interop with all municipal PDs) 	FM 	Interop 
+155.16000 	KNBZ695 	M	CSQ	VCSD 10 SAR DIR 	Ch 10 Search & Rescue Direct 	FM 	Emergency Ops 
+151.07000 	WPLX529 	RM	79.7 PL	VCSD SAR RPT 	Search and Rescue Repeaters 	FMN 	Law Tac 
+151.05500 	KME545 	RM	206.5 PL	VCSD 1 FRZR 	"Station 1 Frazier" - Lockwood Valley deputies to VCSD dispatch 	FMN 	Law Dispatch 
+158.73000 	KME545 	RM	173.8 PL	VCSD LCWD 11 	Lockwood 11 - Lockwood Valley Car-to-Car/Resident Dispatcher 	FMN 	Law Tac 
+158.85000 	WPLP441 	M	100.0 PL	VCSD Det 1 	Detectives - Surveillance 	FM 	Law Tac 
+154.72500 	KC3010 	M	100.0 PL	VCSD Det 2 	Detectives - Surveillance 	FM 	Law Tac 
+155.14500 	WZX526 	RM	100.0 PL	VCSD Jail A7 	Jail (CUSTODY A7) 	FM 	Corrections 
+860.96250 	WPHY525 	RM	100.0 PL	VCSD CrtMain 	Main Court Bailiffs 	FM 	Law Tac 
+860.96250 	WPHY525 	RM	141.3 PL	VCSD CrtEscr 	Main Court Custody Escort 	FM 	Law Tac 
+860.96250 	WPHY525 	RM	77.0 PL	VCSD CrtJuv 	Juvenile Court Bailiffs 	FM 	Law Tac 
+155.41500 	KC3010 	BM	103.5 PL	VCSD ME 	Medical Examiner Office 	FM 	Law Tac 
+129.95000 	 	M	CSQ	VCSD Helo 	Helicopter "Company" Channel 	AM 	Aircraft 
+851.70000 	WSPR266    	RM	103.5 PL	VCSD JJC  	Juvenile Justice Center Oxnard 	FMN 	Corrections 
+856.46250 	WPGV544    	RM	67.0 PL	VCSD ToddRD 	Todd Road Jail 	FMN 	Corrections 
+155.05500 	KMB552 	BM	82.5 PL	VNC DISP 1 	Dispatch 1 	FMN 	Fire Dispatch 
+154.32500 	KMB552 	RM	79.7 PL	VNC CMD 2 	Command 2 	FMN 	Fire-Tac 
+153.95000 	KMB552 	M	167.9 PL	VNC TAC 3 	Tac 3 	FMN 	Fire-Tac 
+153.87500 	KMB552 	RM	85.4 PL	VNC CMD 5 	Command 5 	FMN 	Fire-Tac 
+154.02500 	KMB552 	M	167.9 PL	VNC TAC 6 	Tac 6 	FMN 	Fire-Tac 
+155.98500 	KMB552 	RM	186.2 PL	VNC CMD 8 	Command 8  	FMN 	Fire-Tac 
+153.83000 	KMB552 	M	167.9 PL	VNC TAC 9 	Tac 9  	FMN 	Fire-Tac 
+154.23500 	KMB552 	M	167.9 PL	VNC 11 A/G 	Air-to-Ground 	FMN 	Fire-Tac 
+154.41500 	KMB552 	RM	100.0 PL	VNC CMD 12 	Command 12 (Multi-site) 	FMN 	Fire-Tac 
+156.03000 	KC3010 	M	123.0 PL	VNC TAC 13 	Tac 13 	FMN 	Fire-Tac 
+154.41500 	 	RM	100.0 PL	VNC CMD 14 	Command 14 - Oxnard Plains 	FMN 	Fire-Tac 
+153.89000 	KC5485 	M	107.2 PL	VNC TAC 15 	Tac 15 	FMN 	Fire-Tac 
+154.07000 	KC5485 	M	123.0 PL	VNC TAC 16 	Tac 16 	FMN 	Fire-Tac 
+154.01000 	KMB552 	RM	100.0 PL	VNC CMD 17  	Command 17  - North County East 	FMN 	Fire-Tac 
+151.01000 	WRAG496 	RM	192.8 PL	VNC CMD 18 	Command 18  - North County West 	FMN 	Fire-Tac 
+154.20500 	KMB552 	BM	100.0 PL	VNC TAC 19 	Tac 19 - Fillmore 	FMN 	Fire-Tac 
+155.20500 	KP4705 	BM	103.5 PL	VNC MedNet 1 	MedNet 1 	FMN 	EMS Dispatch 
+155.35500 	KP4705 	BM	103.5 PL	VNC MedNet 2 	MedNet 2 - EMS to Hospital (Ventura & Santa Paula) 	FMN 	Hospital 
+155.38500 	KP4705 	BM	103.5 PL	VNC MedNet 3 	MedNet 3 - EMS to Hospital (Simi Valley) 	FMN 	Hospital 
+155.17500 	KP4705 	BM	103.5 PL	VNC MedNet 4 	Mednet 4 	FMN 	EMS-Tac 
+155.02500 	KSZ304 	BM	103.5 PL	VNC MedNet 5 	Mednet 5 	FMN 	EMS-Tac 
+153.81500 	KMM468 	RM	123.0 PL	VNC Ag Comm 	Agriculture Commission 	FM 	Public Works 
+153.78500 	KXQ695 	RM	107.2 PL	VNC Airport 	Airport Operations 	FM 	Public Works 
+153.84500 	KMM468 	RM	127.3 PL	VNC Animal 1 	Animal Control - Ch 1 	FM 	Public Works 
+153.78500 	KHQ28 	BM	141.3 PL	VNC Animal 2 	Animal Control - Ch 2 	FM 	Public Works 
+453.55000 	KNBT456 	M	74.4 PL	VNC Bldg Sec 	County Building Security 	FM 	Security 
+453.55000 	KNBT456 	BM	123.0 PL	VNC Govt Sec 	Government Center / Court House Security 	FM 	Security 
+155.14500 	WQCE640 	BM	136.5 PL	VNC Harbor 	Harbor Patrol and Lifeguards 	FMN 	Multi-Tac 
+154.38500 	KMM468 	RM	162.2 PL	VNC Parks 	Parks Department 	FMN 	Public Works 
+153.78500 	KXQ695 	RM	127.3 PL	VNC Probatn 	Probation 	FM 	Law Talk 
+153.81500 	KME545 	BM	162.2 PL	VNC PW 	Public Works 	FM 	Public Works 
+151.02500 	KMJ497 	RM	141.3 PL	VNC Roads 	Public Works - Roads/Flood Control/Garage 	FM 	Public Works 
+151.01000 	KD6185 	M	71.9 PL	VNC RoadCrw 	Public Works Road Crews 	FMN 	Public Works 
+151.08500 	KD6185 	M	74.4 PL	VNC RoadCrw 	Public Works Road Crews 	FM 	Public Works 
+155.14500 	KHQ28 	M	141.3 PL	VNC RoadCrw 	Public Works Road Crews 	FMN 	Public Works 
+153.81500 	KMM468 	RM	141.3 PL	VNC Water 	Water Department 	FM 	Public Works 
+47.78000 	KMH373 	BM		Camarillo PW 	Public Works - Streets 	FM 	Public Works 
+154.96500 	WNDP431 	RM	100.0 PL	Camarillo PW 	Public Works 	FM 	Public Works 
+451.11250 	KB79555 	M	100.0 PL	Camarillo PW 	Public Works 	FM 	Public Works 
+453.03750 	WPRH904 	M	100.0 PL	Camarillo CH 	City Hall 	FM 	Public Works 
+456.11250 	KB79555 	M		Camarillo PW 	Public Works 	FMN 	Public Works 
+458.03750 	WPRH904 	M		Camarillo PW 	Public Works 	FMN 	Public Works 
+159.10500 	KXM710 	BM		FILL PW 	Public Works 	FM 	Public Works 
+155.74500 	KKD497 	RM	100.0 PL	Oxnard PD1 	Police Dispatch (Band 1) 	FMN 	Law Dispatch 
+154.78500 	WPVU576 	BM	100.0 PL	Oxnard PD2 	Police Records (Band 2) 	FMN 	Law Talk 
+155.65500 	WNRU881 	RM	118.8 PL	Oxnard PD3 	Police Car-to-Car (Band 3) 	FMN 	Law Talk 
+156.01500 	KNNN385 	BM	100.0 PL	Oxnard PD5 	Police Car-to-Car Countywide (Band 5) 	FMN 	Interop 
+153.89000 	KC5485 	M	107.2 PL	Oxnard FD5 	Fire/EMS Training/Admin 	FM 	Fire-Talk 
+153.96500 	KNIB560 	RM	100.0 PL	Oxnard PW 	Public Works 	FM 	Public Works 
+154.81500 	WPVU576 	BM	100.0 PL	Oxnard Streets 	Public Works - Streets 	FM 	Public Works 
+453.95000 	WPPC438 	RM	103.5 PL	Oxnard Housing 	Housing Department 	FM 	Public Works 
+158.88000 	KJU975 	RM	175 NAC	PortHueneme PD1 	Police  	P25 	Law Dispatch 
+159.23250 	KJU975 	RM	654 DPL	PortHueneme PD2 	Police Records/Info 	FMN 	Law Talk 
+155.14500 	WZX527 	BM	136.5 PL	PortHueneme LG 	Lifeguards 	FM 	EMS-Talk 
+153.78500 	WSR209 	BM	67.0 PL	PortHueneme PW 	Public Works 	FM 	Public Works 
+158.83500 	KTE678 	RM	100.0 PL	SantaPaula PD1 	Police Dispatch 	FMN 	Law Dispatch 
+159.03000 	KTE678 	M	167.9 PL	SantaPaula PD3 	Police Ch 3 	FMN 	Law Tac 
+158.91000 	WPVJ709 	RM	203.5 PL	SantaPaula PD4 	Police Ch 4 	FMN 	Law Tac 
+453.92500 	WQCL798 	RM	465 NAC	SVPD1 	Police Dispatch 	P25 	Law Dispatch 
+482.41250 	WQDH479 	RM	465 NAC	SVPD2 	Police Tac 2 	P25 	Law Tac 
+482.61250 	WQDH479 	RM	465 NAC	SVPD3 	Police Tac 3 	P25 	Law Tac 
+453.35000 	KNFB476 	RM		SVPD5 	Police Tac 5 	P25 	Law Tac 
+458.35000 	KNFB476 	M		SVPD6 	Police Tac 6 	P25 	Law Tac 
+482.21250 	WQDH479 	RM		LG Inter 	Local Government Interop 	P25 	Interop 
+453.05000 	WQCL798  	RM	465 NAC	SV WATER 	Water Works 	P25 	Public Works 
+453.52500 	WQCL798 	RM	465 NAC	Xing Guards 	Crossing Guards 	P25 	Schools 
+470.31250 	WQDH479 	RM	465 NAC	SV SEWERS 	Sewer System  	P25 	Public Works 
+471.13750 	WQDH479 	RM	465 NAC	SV STREETS 	 Parks - Streets 	P25 	Public Works 
+151.46000 	KSN318 	RM	123.0 PL	Conejo Park 	Conejo Park Rangers 	FM 	Law Dispatch 
+154.11500 	WPMH750 	RM	CC 1TG *SL *	ThousandOaks LG 	Local Government  	DMR 	Public Works 
+155.31000 	WPNZ729 	RM	100.0 PL	Ventura PD1 	Police Dispatch (Band 1) 	FMN 	Law Dispatch 
+154.17500 	WPNZ729 	RM	100.0 PL	Ventura PD2 	Police Records (Band 2) 	FMN 	Law Talk 
+155.95500 	WPNZ729 	RM	162.2 PL	Ventura PD3 	Police Tactical (Band 3) 	FMN 	Law Talk 
+156.01500 	KNNN385 	BM	100.0 PL	Ventura PD5 	Police Car-to-Car Countywide (Band 5)  	FM 	Law Tac 
+155.17500 	 	BM	123.0 PL	Briggs SD Ops 	District Operations 	FMN 	Schools 
+155.92500 	WQRQ902 	BM	123.0 PL	Briggs SD Trans 	Transportation 	FMN 	Schools 
+154.74000 	WPSX443 	RM	71.9 PL	CSUCI PD1 	Campus Police 1 	FMN 	Law Dispatch 
+155.59500 	WQIS827 	RM	71.9 PL	CSUCI PD2 	Campus Police 2 	FMN 	Law Tac 
+154.51500 	WNXH456 	M	88.5 PL	Conejo USD 1 	Operations 1 	FM 	Schools 
+154.54000 	WNXH456 	M	74.4 PL	Conejo USD 2 	Operations 2 	FM 	Schools 
+463.43750 	WQRD798  	RM	431 DPL	MUSD Trans 	Transportation 	FMN 	Schools 
+463.93750 	WQRD798 	RM	723 DPL	MUSD Ops 	District Operations 	FMN 	Schools 
+463.32500 	WNVM518 	RM	431 DPL	OVE SD 	District Operations / Transportation 	FMN 	Schools 
+155.28000 	WNMI459 	M	141.3 PL	OJAI USD BUS 	Ojai USD Bus/Operations 	FMN 	Schools 
+151.73000 	WQZH368 	RM	023 DPL	Haydock Academy 	Haydock Academy of Arts and Sciences 	FMN 	Schools 
+151.91000 	WQZH368 	RM	432 DPL	Robert Frank MS  	Robert Frank Middle School 	FMN 	Schools 
+152.34500 	WQZH368  	RM	054 DPL	Cesar Chavez ES  	Cesar Chavez Elementary 	FMN 	Schools 
+152.99000 	WPXF991 	RM	115 DPL	Lemonwood ES 	Lemonwood Elementary School 	FMN 	Schools 
+153.00500 	WQZH368 	RM	143 DPL	Driffill ES 	Driffill Elementary School 	FMN 	Schools 
+154.51500 	WPLS493 	RM	CC 5TG *SL 1	OSD Trans 	Transportation - Future use 	DMR 	Transportation 
+452.11250 	WPXF991 	RM	116 DPL	Kamala ES  	Kamala Elementary School 	FMN 	Schools 
+452.28750 	WPXF991 	RM	072 DPL	Fremont ES  	Fremont Elementary 	FMN 	Schools 
+462.47500 	WPXF991 	RM	125 DPL	Harrington ES 	Harrington Elementary School 	FMN 	Schools 
+464.27500 	 	RM		OSD TRANS 	Transportation 	FMN 	Schools 
+453.22500 	WQCE435 	RM	151.4 PL	OUHSD OPS  	Operations and Transportation 	FM 	Schools 
+464.36250 	WPKH649 	RM	192.8 PL	OUHSD Campus 	On Campus Use 	FMN 	Schools 
+464.50000 	 	M	432 DPL	OUHSD Campus 	Rio Mesa High School 	FMN 	Schools 
+464.52500 	WPKH649 	RM	100.0 PL	Oxnard UHSD 	Security / Staff 	FM 	Schools 
+469.52500 	WPKH649 	M	100.0 PL	Oxnard UHSD 	Security / Staff Direct 	FM 	Schools 
+151.83500 	KNEY865 	M	127.3 PL	PlesVal USDV 	Pleasant Valley School Dist Ops 	FM 	Schools 
+461.52500 	KNEY865 	RM	271 DPL	PlesVal USD 	Buses/Operations 	FM 	Schools 
+464.43750 	KIM499 	RM	CC 1TG *SL 1	RSD TRANS 	Transportation 	DMR 	Schools 
+464.43750 	KIM499 	M	127.3 PL	RSD Campus 	On Campus Use 	FMN 	Schools 
+462.82500 	WQTU515 	M	162.2 PL	ST AUGUSTINE 	St Augustine 	FMN 	Schools 
+151.66500 	 	M		RHS Maint 	Royal High School - Maintenance 	FMN 	Schools 
+152.42750 	WQWM844 	RM	CC 7TG 1000SL 2	SVUSD TRANSPORT 	Transportation 	DMR 	Schools 
+154.61500 	 	M		RHS Staff 	Royal High School - Staff 	FMN 	Schools 
+155.68500 	KNNN385 	RM	94.8 PL	VCCD PD 1 	Police Dispatch 	FM 	Law Dispatch 
+155.56500 	KNNN385 	M	127.3 PL	VCCD OXNARD 	Oxnard College PD  	FM 	Law Tac 
+155.56500 	KNNN385 	M	167.9 PL	VCCD VENTURA 	Ventura College PD 	FMN 	Law Tac 
+155.56500 	KNNN385 	M	192.8 PL	VCCD MOORPARK 	Moorpark College PD 	FMN 	Law Tac 
+464.91250 	WQEQ537 	M	065 DPL	Ventura COE 	Operations 1 	FM 	Schools 
+464.96250 	WQEQ537 	M	88.5 PL	Ventura COE 	Operations 2 	FM 	Schools 
+152.32250 	WNPG348 	RM	CC 3TG *SL 1	VUSD Transp 	Transportation 	DMR 	Schools 
+464.11250 	WQTT772 	M	179.9 PL	Citrus Glenn ES 	Glenn Elementary School 	FMN 	Schools 
+453.70000 	WQCL798 	RM	465 NAC	SVTD BusOps 	Bus Operations 	P25 	Transportation 
+453.00000 	 	RM	123.0 PL	Bus Ops 	Bus Operations 	FM 	Transportation 
+453.42500 	KBJ919 	RM	123.0 PL	Gold Coast 	Gold Coast Transit 	FM 	Transportation 
+154.11500 	WPMH750 	RM	127.3 PL	ThousOakTran 	Bus Operations 	FM 	Transportation 
+California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	Mobile Relay Associates (Saddle Peak)	 LTR Standard	 Malibu	Mobile Relay Associates SoCal NEXEDGE Digital Network	 NXDN NEXEDGE 4800
+ Multiple	Southern California Edison	 Project 25 Phase II	 Various	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	Ventura County
+ Project 25 Phase II	 Various	

@@ -1,0 +1,171 @@
+460.32500 	KKB364 	RM	173.8 PL	Dal PD1 Cent 	Central Patrol Dispatch (CBD and Deep Ellum) 	FMN 	Law Dispatch 
+460.37500 	KKB364 	RM	173.8 PL	Dal PD2 NE 	Northeast Patrol Dispatch 	FMN 	Law Dispatch 
+460.50000 	KKB364 	RM	173.8 PL	Dal PD3 SE 	Southeast Patrol Dispatch 	FMN 	Law Dispatch 
+460.42500 	KKB364 	RM	173.8 PL	Dal PD4 SW 	Southwest Patrol Dispatch 	FMN 	Law Dispatch 
+460.07500 	WNLG265 	RM	173.8 PL	Dal PD5 NW 	Northwest Patrol Dispatch 	FMN 	Law Dispatch 
+460.17500 	KKB364 	RM	173.8 PL	Dal PD6 NC 	North Central Patrol Dispatch 	FMN 	Law Dispatch 
+460.27500 	KKB364 	RM	173.8 PL	Dal PD7 SC 	South Central Patrol Dispatch 	FMN 	Law Dispatch 
+460.12500 	KKB364 	RM	173.8 PL	Dal PD8 Tac 	SWAT / Tactical 	FMN 	Law Tac 
+460.02500 	KKB364 	RM	173.8 PL	Dal PD9 Traf 	Traffic / ANI Dispatch 	FMN 	Law Dispatch 
+460.22500 	KKB364 	RM	173.8 PL	Dal PD10 CW 	Citywide Car to Car / Special Ops 	FMN 	Law Talk 
+460.47500 	KKB364 	RM	173.8 PL	Dal PD11 CID 	CID / Gangs / Narcotics 	FMN 	Law Tac 
+460.40000 	KKB364 	RM	173.8 PL	Dal PD12 Spc 	Special Ops, DPS Ops in City 	FMN 	Law Tac 
+458.97500 	 	M	173.8 PL	Dal PD SWAT 	SWAT Tactical Simplex 	FMN 	Law Tac 
+460.57500 	KKN377 	RM	173.8 PL	Dal FD Disp 	Dispatch 	FMN 	Fire Dispatch 
+453.87500 	KTQ245 	RM	131 DPL	Dal FD1 Fire 	Fire Response 	FMN 	Fire Dispatch 
+453.90000 	WPDY802 	RM	131 DPL	Dal FD2 EMS 	Rescue Response 	FMN 	EMS Dispatch 
+451.15000 	KKO224 	RM	131 DPL	Dal FD3 Shop 	Units to Shop and Major Incidents 	FMN 	Fire-Tac 
+453.67500 	WPDY802 	RM	131 DPL	Dal FD4 FG 	Repeated Fireground / Admin 	FMN 	Fire-Tac 
+463.00000 	KS8879 	RM	173.8 PL	Dal FD5/Med1 	Rescue Ambulance to Hospital 	FMN 	Hospital 
+463.02500 	KS8879 	RM	173.8 PL	Dal FD6/Med2 	MICU Ambulance to Hospital 	FMN 	Hospital 
+463.07500 	KS8879 	RM	173.8 PL	Dal FD7/Med4 	MICU Ambulance to Hospital 	FMN 	Hospital 
+463.12500 	KS8879 	RM	173.8 PL	Dal FD8/Med6 	MICU Ambulance to Hospital 	FMN 	Hospital 
+460.61250 	WPLX264 	M	173.8 PL	Dal FD9 Trng 	Simplex Training 	FMN 	Fire-Tac 
+460.63750 	WPLX264 	M	173.8 PL	Dal FD10 Haz 	Simplex Specialty Teams/Hazmat 	FMN 	Fire-Tac 
+465.61250 	WPLX264 	M	173.8 PL	Dal FD11 Stg 	Simplex Fireground Staging 	FMN 	Fire-Tac 
+465.63750 	WPLX264 	M	173.8 PL	Dal FD12 FG 	Simplex Fireground Operations 	FMN 	Fire-Tac 
+154.28000 	 	BM		Dal FD MA 	Mutual Aid 	FMN 	Fire-Talk 
+453.65000 	WNAE384 	RM	173.8 PL	Dal FD B/U 1 	Backup Repeater - Forest x Preston 	FMN 	Fire-Tac 
+453.70000 	KJV288 	RM	173.8 PL	Dal FD B/U 2 	Backup Repeater - Garland x NW 	FMN 	Fire-Tac 
+453.85000 	KJV288 	RM	173.8 PL	Dal FD B/U 3 	Backup Repeater - DPD SW Substation 	FMN 	Fire-Tac 
+453.11250 	WNXW908 	RM	127.3 PL	Dal Service1 	Services 	FM 	Public Works 
+453.91250 	KB84732 	RM	127.3 PL	Dal Service2 	Services 	FM 	Public Works 
+451.07500 	KKO224 	RM	173.8 PL	Dal WaterUt1 	Dallas Water Utilities 	FM 	Public Works 
+451.12500 	KKO224 	RM	173.8 PL	Dal WaterUt2 	Dallas Water Utilities 	FM 	Public Works 
+451.20000 	KKO224 	RM	173.8 PL	Dal WaterUt3 	Dallas Water Utilities 	FM 	Public Works 
+453.42500 	WQN833 	RM	173.8 PL	Dal WaterUt4 	Dallas Water Utilities 	FM 	Public Works 
+453.55000 	WQN832 	BM	173.8 PL	Dal WaterUt5 	Dallas Water Utilities Ch 5 	FM 	Public Works 
+769.29375 	WQWI460 	RM	293 NAC	Dal SWTP 	Dallas Southside Water Treatment Plant 	P25 	Utilities 
+155.71500 	KZE571 	RM	151.4 PL	DCSO 1 Con N 	Constable 1 Repeater (PCTs 1-4, N of I-30) 	FMN 	Law Dispatch 
+155.98500 	KZE571 	RM	151.4 PL	DCSO 2 Info 	Warrants Repeater 	FMN 	Law Tac 
+155.67000 	KKE891 	RM	151.4 PL	DCSO 5 Disp 	Patrol Repeater 	FMN 	Law Dispatch 
+155.67000 	KKE891 	M	151.4 PL	DCSO 6 Talk 	Patrol Simplex/Talkaround 	FMN 	Law Talk 
+155.98500 	KZE571 	M	151.4 PL	DCSO 7 Talk 	Warrant Simplex/Talkaround 	FMN 	Law Talk 
+155.97000 	KA6729 	M		DCSO 8 Talk 	Car to Car Simplex 	FMN 	Law Talk 
+154.23500 	WNFG227 	BM	151.4 PL	DCSO 9 CF Sx 	County Fire Simplex 	FMN 	Fire-Talk 
+153.75500 	KAQ663 	RM	151.4 PL	DCSO10 CF 	County Fire Repeater 	FMN 	Fire Dispatch 
+155.02500 	KAQ663 	RM	423 DPL	DCSO11 Traf 	Traffic & Courtesy Patrol Repeater 	FMN 	Law Dispatch 
+155.02500 	KAQ663 	M	423 DPL	DCSO12 Talk 	Traffic Simplex/Talkaround 	FMN 	Law Talk 
+155.74500 	KYG584 	BM	151.4 PL	DCSO Ops 	Sheriff 	FMN 	Law Tac 
+154.65000 	KFR411 	RM	151.4 PL	DCSO Con S 	Constable Precinct 5-8 (Units S of I-30) 	FMN 	Law Dispatch 
+154.99500 	KZE571 	M		DC Con N Tlk 	Constable Car-to-Car North Simplex 	FMN 	Law Talk 
+155.25000 	KA6729 	M		DC Con S Tlk 	Constable Car-to-Car South Simplex 	FMN 	Law Talk 
+155.67000 	 	M	423 DPL	DCSO Con Tlk 	Contables Talk 	FMN 	Law Talk 
+852.13750 	WNXM618 	RM	151.4 PL	DCSO Jail 1 	Dallas County Jail 	FM 	Corrections 
+852.63750 	WNXM618 	RM	151.4 PL	DCSO Jail 2 	Dallas County Jail 	FM 	Corrections 
+853.88750 	KNEC757 	RM	151.4 PL	DCSO Jail 3 	Dallas County Jail 	FM 	Corrections 
+153.75500 	KAQ663 	RM	151.4 PL	Dal Co Fire 	Dallas County Fire Rescue Dispatch 	FMN 	Fire Dispatch 
+154.23500 	WNFG227 	RM	151.4 PL	DCFR FG 6 	Fire Ground (Channel 6) 	FMN 	Fire-Tac 
+150.99500 	WNVH537 	BM		Dal Co ME/PW 	Medical Examiner/Public Works 	FMN 	Public Works 
+156.22500 	KSZ699 	RM	88.5 PL	Dal Co Roads 	Roads and Bridges 	FMN 	Public Works 
+155.25000 	WNMX356 	RM	174 DPL	Ads Events 	Addison Event Support 	FMN 	Public Works 
+854.53750 	 	RM	057 NAC	BS Police Disp 	Police Dispatch 	P25 	Law Dispatch 
+854.51250 	 	M	057 NAC	BS Police Ops 	Police Operations 	P25 	Law Tac 
+154.40000 	KYJ301 	RM	151.4 PL	BS Fire Disp VHF 	Fire Dispatch "Firecom" (multicast with 800 MHz) 	FMN 	Fire Dispatch 
+854.63750 	 	RM	057 NAC	BS Fire Dispatch 	Fire Dispatch 	P25 	Fire Dispatch 
+854.68750 	 	M	057 NAC	BS Fire Ops 	Fire Operations 	P25 	Fire-Tac 
+152.43500 	 	RM	162.2 PL	BSpr PubWrks 	Public Works 	FMN 	Public Works 
+155.59500 	KZC615 	RM	123.0 PL	Desoto PD V 	Police Dispatch VHF 	FM 	Law Dispatch 
+482.43750 	WIJ747 	RM	127.3 PL	Desoto PubWk 	Public Works, Streets & Sanding Crews 	FM 	Public Works 
+158.79000 	KJS704 	RM	114.8 PL	Dunc PD VHF1 	Duncanville Police Disp VHF 	FM 	Law Dispatch 
+158.85000 	KJS704 	BM	114.8 PL	Dunc PD VHF2 	Duncanville Police 2 VHF 	FM 	Law Tac 
+154.95000 	KJS704 	M		Texas Law 1 	Intercity Mobile 	FM 	Law Talk 
+155.37000 	KJS704 	B		Texas Law 2 	Intercity Base 	FM 	Law Talk 
+154.35500 	KBD927 	RM	114.8 PL	Dunc FD VHF 	Duncanville Fire Disp VHF 	FM 	Fire Dispatch 
+154.28000 	KDB927 	BM		Dal FD MA 	Dallas Mutual Aid 	FM 	Fire-Talk 
+151.04000 	KDB927 	M		Dun Fire 3 	Duncanville Fire 	FM 	Fire-Tac 
+154.17500 	KDB927 	BM		Dun Fire 4 	Duncanville Fire 	FM 	Fire-Tac 
+482.96250 	KNS502 	R		GrndPra Fire 	Grand Prairie Fire Dispatch (Simulcast) 	FM 	Fire Dispatch 
+859.93750 	WPLY445  	RM		HP FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+154.28000 	WNBP875 	B		Dal FD MA 	Dallas FD MA Dispatch 	FMN 	Fire-Talk 
+154.81500 	WPTD934 	RM	F18 NAC	Hutch PD 	Police Dispatch 	P25 	Law Dispatch 
+154.81500 	WPTD934 	RM	192.8 PL	Hutch PD Ana 	Police Analog 	FMN 	Law Dispatch 
+151.48250 	KZE535 	RM	167.9 PL	Hutch FD DIs 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.99500 	KZE535 	BM	114.8 PL	Hutch FD 	Fire Dispatch (old) 	FMN 	Fire Dispatch 
+866.65000 	 	M		Irving FG 	Irving Fire Simplex 	FM 	Fire-Tac 
+853.71250 	WQEE937 	RM		Rich FD Sta 	Fire Dispatch Station Alerting 	Telm 	Fire Dispatch 
+154.05500 	WPZI491 	RM	123.0 PL	Rowlett Siren 	Siren Activation 	FMN 	Data 
+157.47000 	WPKZ292 	RM	110.9 PL	Rowlett CERT 	CERT 	FMN 	Emergency Ops 
+159.39000 	WNQX217 	RM	162.2 PL	Rowlett Pub Work 	Public Works 	FMN 	Public Works 
+153.78500 	WPJK926 	RM	167.9 PL	Seagv Police 	Dispatch 	FMN 	Law Dispatch 
+154.99500 	WNXJ635 	BM		Dal SO 6 MA 	Dallas Sheriff-Southern Mutual Aid (DSO-6) 	FMN 	Law Talk 
+155.49000 	WNXJ635 	RM	167.9 PL	Seagov Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.28000 	KNIR482 	BM		Dal FD MA 	Dallas Area Mutual Aid 	FMN 	Fire-Talk 
+154.20500 	WPMZ916 	RM	100.0 PL	Sea PubWrks 	Public Works 	FMN 	Public Works 
+155.92500 	WPCY338 	R	205 DPL	SDal FD 1 	CH-1 Dispatch  	FM 	Fire Dispatch 
+159.06000 	 	R	151.4 PL	SDal FD 2 	CH-2  	FM 	Fire Dispatch 
+154.35500 	 	R	114.8 PL	SDal FD 3 	CH-3 	FM 	Fire-Tac 
+154.28000 	WPCY338 	BM		Texas Fire 1 	Dallas Mutual Aid 	FM 	Fire-Talk 
+154.26500 	WPCY338 	BM		Texas Fire 2 	Texas Fire 2 	FM 	Fire-Tac 
+460.23750 	WQHI703 	RM	131.8 PL	SWRCC FD Dis 	SWRCC Fire Dispatch 	FM 	Fire Dispatch 
+460.11250 	WQHI705 	RM	131.8 PL	SWRCC FD 2 	SWRCC Fire Response 	FM 	Fire-Tac 
+154.10000 	KUZ728 	BM	203.5 PL	SunnyvalFire 	Fire 	FMN 	Fire Dispatch 
+851.11250 	WPHA780 	RM	051 DPL	UP PD Disp 	Police Dispatch 	FM 	Law Dispatch 
+852.08750 	WPHA780 	RM	051 DPL	UP FD Disp 	Fire/EMS 	FM 	Fire Dispatch 
+852.61250 	WPHA780 	BM	051 DPL	UP PW 	Public Works 	FM 	Public Works 
+155.91000 	WXF985 	BM	203.5 PL	Wil PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+154.25000 	WNIT483 	RM	88.5 PL	Wil FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+451.78750 	WQDI424 	RM	115 DPL	MATA 	McKinney Avenue Transit Authority (M-Line) 	FMN 	Transportation 
+155.53500 	KQP523 	RM	CC 4TG *SL *	DCCCD 155.53 	Police 	DMR 	Law Dispatch 
+152.14250 	WQUL450 	RM	CC 1TG *SL *	DCCCD 152.14 	Police 	DMR 	Law Dispatch 
+152.18750 	WQKI781 	RM	CC 10TG *SL *	DCCCD 152.18 	Police 	DMR 	Law Dispatch 
+155.13000 	WQPK966 	RM	CC 8TG *SL *	DCCCD N Lake 	Police - North Lake Campus (Irving) 	DMR 	Law Dispatch 
+464.37500 	WNLP436  	RM	CC 8TG *SL *	CNI Security 	Security 	DMR 	Security 
+854.71250 	WNCD961 	R	051 DPL	SMU PD Disp 	Police 	FM 	Law Dispatch 
+860.93750 	WNCD961 	R	051 DPL	SMU PD Disp 	Police Dispatch (possibly deprecated) 	FM 	Law Dispatch 
+464.17500 	WQTK867 	RM		SMU Catering 	Catering 	DMR 	Schools 
+463.23750 	KD22250 	RM	245 DPL	SeminaryFAC 	Facilities 	FM 	Schools 
+453.62500 	WQOI779 	RM	025 DPL	DCHD PD 1 	Police Dispatch 	FMN 	Law Dispatch 
+453.57500 	WQOI779 	RM	025 DPL	DCHD PD 2 	Police Alternate 	FMN 	Law Tac 
+453.26250 	WPQA377 	RM	025 DPL	Parkland PD 	Parkland Police, Psych ER (New) 	FMN 	Law Tac 
+463.22500 	WQBD830 	RM		Methodist PD 	Methodist Hospitals Police Dispatch 	DMR 	Law Dispatch 
+464.47500 	WNWT734 	RM	100.0 PL	RichMedCtr 	Facilities 	FM 	Hospital 
+453.72500 	KVX650 	RM	CC 5TG *SL *	UTSWMC Maint 	Maintenance 	DMR 	Schools 
+453.23750 	WPNY235 	RM	CC 5TG 1103SL 1	UTSWMC Police 	Police Dispatch 	DMR 	Law Dispatch 
+453.35000 	KVX650 	RM	123.0 PL	UTSWMC Sec 	Security 	FMN 	Security 
+464.92500 	WNZN723 	RM	173.8 PL	Coppell ISD Bus 	Buses/Maintenance 	FM 	Schools 
+451.78125 	 	M	CC 5TG 201SL 1	Coppell HS CH 1 	Coppell HS Ch. 1 	DMR 	Schools 
+451.78125 	 	M	CC 5TG 201SL 2	Coppell HS CH 2 	Coppell HS Ch. 2 	DMR 	Schools 
+451.18125 	 	M	CC 6TG 201SL 1	Coppell HS CH 3 	Coppell HS Ch. 3 	DMR 	Schools 
+451.19375 	 	M	CC 6TG 201SL 1	Coppell HS CH 4 	Coppell HS Ch. 4 	DMR 	Schools 
+451.23125 	 	M	CC 6TG 201SL 1	Coppell HS CH 5 	Coppell HS Ch. 5 	DMR 	Schools 
+451.43125 	 	M	CC 6TG 201SL 1	Coppell HS CH 6 	Coppell HS Ch. 6 	DMR 	Schools 
+451.68125 	 	M	CC 6TG 201SL 1	Coppell HS CH 7 	Coppell HS Ch. 7 	DMR 	Schools 
+462.17500 	 	M	192.8 PL	Coppell HS CH 8 	Coppell HS Ch. 8 	FMN 	Schools 
+482.01250 	WQNW963 	RM	67.0 PL	DISD Buses 	DISD Transportation 	FMN 	Transportation 
+482.02500 	WQNW963 	RM	71.9 PL	DISD Buses 	DISD Transportation 	FMN 	Transportation 
+482.03750 	WQNW963 	RM	74.4 PL	DISD Buses 	DISD Transportation 	FMN 	Transportation 
+482.06250 	WQNW963 	RM	82.5 PL	DISD Buses 	DISD Transportation 	FMN 	Transportation 
+482.15000 	WQNW963 	RM	88.5 PL	DISD Buses 	DISD Transportation 	FMN 	Transportation 
+482.16250 	WQNW963 	RM	94.8 PL	DISD Buses 	DISD Transportation 	FMN 	Transportation 
+482.17500 	WQNW963 	RM	103.5 PL	DISD Buses 	DISD Transportation 	FMN 	Transportation 
+482.18750 	WQNW963 	RM	91.5 PL	DISD Buses 	DISD Transporation 	FMN 	Transportation 
+482.21250 	WQNW963 	RM	107.2 PL	DISD Buses 	DISD Transportation 	FMN 	Transportation 
+482.22500 	WQNW963 	RM	97.4 PL	DISD Buses 	DISD Transportation 	FMN 	Transportation 
+484.23750 	KYR965 	BM	156.7 PL	Dal ISD PD 	Dallas ISD Police 	FMN 	Law Dispatch 
+461.76250 	WQBY606 	RM	071 DPL	DeSotoHigh 	DeSoto High School 	FM 	Schools 
+155.26500 	KUX493 	BM		Dun ISD 	Schools 	FM 	Schools 
+482.98750 	WIE305 	RM	132 DPL	GarISD Bus 	Garland ISD Busses 	FMN 	Schools 
+482.20000 	WQNW961 	RM	118.8 PL	RISD Buses 	Buses 	FMN 	Transportation 
+464.83750 	WQJD259 	RM	CC 1TG 101SL 1	RichardsonHS Adm 	Richardson High School - Administration 	DMR 	Schools 
+Adolphus Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dallas	Aerowave Technologies	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Lewisville	Ambassador Cab	 LTR Standard
+ Dallas	American Airlines DFW	 LTR Passport	 DFW Airport	ARINC (Dallas/Fort Worth International Airport)	 Motorola Type II	 DFW Airport	Azle Communications NXDN
+ NXDN NEXEDGE 4800	 Weatherford	Baylor Hospital Networked	 LTR Passport	 Dallas	Baylor Medical Center Dallas	 Motorola Type II Smartnet	 Dallas
+Blair Communications (Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dallas	Blair Communications (Dallas 1)	 LTR Standard	 Dallas	Blair Communications (Dallas 2)	 LTR Standard
+ Dallas	Children's Medical Center of Dallas	 LTR Standard	 Dallas	Coserv Electric Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Crosspoint Communications Tier 3
+ DMR Tier 3	 Dallas	Dallas Area Rapid Transit (DART) Project 25	 Project 25 Phase I	 Dallas	Dallas Area Rapid Transit OpenSky	 OpenSky 4800 baud	 Dallas
+Dallas City Local Government	 Motorola Type II	 Dallas	Dallas P25 / NCTCOG	 Project 25 Phase II	 Dallas, Fort Worth Area	Dallas Veterans Affairs Medical Center	 Motorola Type II Smartnet
+ Dallas	Dallas-Fort Worth International Airport	 Project 25 Phase II	 DFW Airport	DFW Communications (Cedar Hill)	 LTR Standard	 Cedar Hill	DFW Communications (old Teletouch-Dallas 1)
+ LTR Standard	 Dallas	DFW Communications (old Teletouch-Dallas 2)	 LTR Standard	 Dallas	DFW Communications (old Teletouch-Dallas-Fort Worth Passport)	 LTR Passport	 Dallas-Fort Worth Area
+Everest Dallas Channels (Dallas)	 DMR Motorola Connect Plus (TRBO)	 Dallas	Fairmont Dallas	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dallas	Federal Correctional Institution Seagoville	 Project 25 Phase I
+ Seagoville	FedEx (DFW Airport)	 Motorola Type II	 DFW Airport	FedEx Ground	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hutchins	Fort Worth Regional Radio System
+ Project 25 Phase II	 Tarrant, Johnson Counties	Garland, Mesquite, Rowlett, Sachse (GMRS)	 Project 25 Phase II	 Garland/Mesquite	Highland Park	 DMR Motorola Capacity Plus Single Site (TRBO)	 Highland Park
+Hilton Dallas Lincoln Centre Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dallas	Hyatt Regency Dallas	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dallas	Lancaster Public Safety	 NXDN NEXEDGE 4800
+ Lancaster	Megahertz DMR Tier 3	 DMR Tier 3	 Dallas	Megahertz Technology	 DMR Motorola Connect Plus (TRBO)	 Dallas/Fort Worth	Mesquite Public Safety
+ Motorola Type II Smartnet	 Mesquite	Methodist Charlton Medical Center	 LTR Standard	 Dallas	Methodist Dallas Medical Center	 LTR Standard	 Dallas
+Methodist Hospital District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Metrocrest Quad Cities Public Safety Radio System	 Project 25 Phase II	 Carrollton	Netwave (Cedar Hill)	 LTR Standard
+ Cedar Hill	Oncor Energy	 EDACS Narrowband Networked	 Various	Parkland Hospital	 LTR Standard	 Dallas	Richardson P25
+ Project 25 Phase I	 Richardson	Self Radio (Dallas)	 LTR Standard	 Dallas	Self Radio Nexedge	 NXDN NEXEDGE 4800	 Fort Worth
+Southwest Airlines (Dallas Love Field)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dallas	Southwest Regional Communications Center	 NXDN NEXEDGE 9600	 Cedar Hill, Desoto, Dunca	Star Cab	 LTR Standard
+ Dallas	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Telecommunication Properties - Dallas (468)	 DMR Motorola Connect Plus (TRBO)	 Various	TPI P25
+ Project 25 Phase I	 Dallas	United Parcel Service (DFW Airport)	 DMR Motorola Connect Plus (TRBO)	 DFW Airport	University of Texas Southwestern Medical Center	 LTR Standard	 Dallas

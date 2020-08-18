@@ -1,0 +1,103 @@
+154.74000 	KSA930 	RM	103.5 PL	Whts Sheriff 	Sheriff: Operations / Rural Law Dispatch [Ch ] 	FMN 	Law Dispatch 
+154.89000 	KSA930 	M	103.5 PL	Whts Sheriff c2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+158.97000 	KSA930 	M	103.5 PL	Whts Sheriff MX  	Sheriff: Mobile Extenders (to 155.73) 	FMN 	Law Tac 
+151.23500 	KXV893 	BM	311 DPL	Whts ETSB / 911 	911 	FMN 	Fire Dispatch 
+460.62500 	WNHT357 	B	146.2 PL	Whts Fire West 	Fire: Dispatch - West (except Morrison, Sterling, Rock Falls) 	FMN 	Fire Dispatch 
+154.19000 	KJE219 	BM	CSQ	Whts Fire Ops 1 	Fire: Operations [Ch 1] 	FMN 	Fire-Tac 
+154.35500 	KJE219 	BM	CSQ	Whts Fireground  	Fireground [Ch 2] 	FMN 	Fire-Tac 
+154.19000 	WPWA349 	BM	CSQ	TwinCom Fire  	Fire: Paging (Sterling, Rock Falls, Coleta, Tampico) 	FMN 	Fire Dispatch 
+151.23500 	WQOP950 	F	311 DPL	Whts Fire Rem A 	Link to Remote 154.19 Paging Towers 	FMN 	Fire Dispatch 
+151.23500 	WQOP950 	F	411 DPL	Whts Fire Rem B  	Link to Remote 154.19 Paging Towers 	FMN 	Fire Dispatch 
+155.02500 	KNDC799 	BM	103.5 PL	ESMARN 1035 	EMA: Statewide Highband  	FMN 	Emergency Ops 
+155.10000 	KNDC799 	BM	103.5 PL	Whts CD/EMS 	Civil Defense / Ambulances / Township Roads? 	FMN 	Emergency Ops 
+152.88500 	WQEG219 	BM		Whts Health Dept 	Health Department: Maintenance (Rock Falls) 	FMN 	Public Works 
+453.75000 	WNMQ562 	RM		Whts Highway Dpt 	Highway Department 	FMN 	Public Works 
+458.57500 	WPPH405 	M		Whts Highway c2c 	Highway Department: Car-to-Car 	FMN 	Public Works 
+154.11500 	WNCX980 	BM	146.2 PL	Whts HouseAuth  	Housing Authority Maintenance 	FMN 	Public Works 
+163.25000 	KNCF652 	B		Whts EMS Paging 	EMS: Paging (Morrison) 	FMN 	Data 
+155.34000 	 	M	141.3 PL	MERCI-1 1413 	Patient Reports (Trauma inbound)  	FMN 	Hospital 
+453.77500 	WPGJ206 	RM		CGH Sc/Mnt 1 	Security/Maintenance (Helo Arr/Dep, Triage when needed) 	FMN 	Business 
+463.42500 	WPWH708 	RM		CGH Sc/Mnt 2 	Security/Maintenance  	FMN 	Business 
+463.45000 	WPWH708 	RM		CGH Sc/Mnt 3 	Security/Maintenance  	FMN 	Business 
+154.19000 	WPWA349 	BM	CSQ	WhitsideFire 	Fire: Countywide Operations 	FMN 	Fire Dispatch 
+154.35500 	WPWA349 	BM	CSQ	WhtsFiregrnd 	Countywide Fireground 	FMN 	Fire-Tac 
+153.86000 	WPWA349 	RM		CGH 153.86 	Operations 	FMN 	EMS Dispatch 
+155.22000 	WPWA349 	BM	91.5 PL	MERCI2 91.5 	TwinCom [Ch 1]  	FMN 	EMS Dispatch 
+155.40000 	WPWA349 	BM	91.5 PL	MERCI4 91.5 	Patient Reports - TwinCom [Ch 2] 	FMN 	Hospital 
+155.34000 	WPWA349 	BM	141.3 PL	MERCI1 141.3 	Patient Reports (Sterling) 	FMN 	Hospital 
+152.00750 	KJZ422 	B		CGH Paging 	Paging 	Telm 	Data 
+154.35500 	WPWA349 	RM	136.5 PL	WhtsFDMobX 	Fire: Mobile Extender 	FMN 	Fire-Tac 
+155.34000 	 	B	88.5 PL	MERCI1 88.5 	Patient Reports 	FMN 	Hospital 
+151.17500 	KNGE617 	BM		Coloma Twp Parks 	Coloma Township: Parks 	FMN 	Public Works 
+151.41500 	WQKZ375 	BM		Coloma Twp Roads 	Coloma Township: Roads and Bridges (Rock Falls) 	FMN 	Public Works 
+155.10000 	 	BM	103.5 PL	Fulton Twp Roads 	Fulton Township: Road Maintenance 	FMN 	Public Works 
+156.19500 	KR8810 	BM		SterlingTwp Road 	Sterling Township: Road Maintenance 	FMN 	Public Works 
+45.76000 	KNAN807 	BM		U Grove Twp Road 	Union Grove Township: Roads 	FM 	Public Works 
+154.04000 	WPMG919 	BM		Ustick Twp Roads 	Ustick Township: Roads 	FMN 	Public Works 
+151.09250 	WQVL549 	RM	136.5 PL	Albany Police 	Police: Dispatch (in use) 	FMN 	Law Dispatch 
+158.77500 	WNBK742 	BM		Albany PublicWrk 	Public Works 	FMN 	Public Works 
+154.19000 	 	BM	CSQ	Whitside Fire  	Fire: Dispatch  	FMN 	Fire Dispatch 
+154.17500 	KVU352 	BM		Erie FireAlt 	Fire: Alternate (DB: 460.625) 	FMN 	Fire-Tac 
+155.73000 	WPES860 	RM	103.5 PL	Whts Sheriff 	Police: Dispatch (DB: Sheriff) (Local Repeater?) 	FMN 	Law Dispatch 
+155.70000 	WPES860 	M		Fultn PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
+155.70000 	WPES860  	RM	88.5 PL	WhtsdShfRpt 	Police: (repeats Whiteside Co Sheriff 154.74) 	FMN 	Law Tac 
+156.01500 	WNWK738 	M		Fultn PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
+154.35500 	 	M	CSQ	WhtsFiregrnd 	Fire: Alternate (DB: 460.625) 	FMN 	Fire-Tac 
+155.55750 	KGK651 	RM	151.4 PL	Fulton EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+154.43000 	KAO462 	BM	110.9 PL	ClntnIA EMS 	{Link to} Clinton Fire Dispatch (Clinton County IA) 	FMN 	Fire-Tac 
+453.90000 	WPMH629 	RM	151.4 PL	Fulton PW 	Public Works 	FMN 	Public Works 
+154.25000 	KSI417 	BM		Morr FireAlt 	Fire: Alternate (DB: 460.625) 	FMN 	Fire-Tac 
+151.05500 	WNFI478 	BM		WhtsTS Roads 	Highway Department / Township Roads 	FMN 	Public Works 
+153.66500 	 	BM		Mrsn Electrc 	Electric Department [No license] 	FMN 	Public Works 
+155.65500 	WNBK712 	BM		Prpht PD Alt 	Police: Alternate 	FMN 	Law Tac 
+154.44500 	KXO722 	BM		Prphtsn Fire 	Fire: Alternate [Expired 5/14] 	FMN 	Fire-Tac 
+453.72500 	WQMI748 	RM		Prphtstwn PW 	Public Works  	FMN 	Public Works 
+151.46000 	KSA875 	BM	162.2 PL	RkFl Police c2c2 	Police: Car-to-Car [Ch 2] 	FMN 	Law Tac 
+155.01000 	KSA875 	BM	103.5 PL	RkFl Police15501 	Police 	FMN 	Law Tac 
+151.01000 	WQIS836 	RM		RkFl FireNew 	Fire/EMS: Dispatch/Operations  	FMN 	Multi-Dispatch 
+154.35500 	 	M	CSQ	WhtsFiregrnd 	Fire: Alternate 	FMN 	Fire-Tac 
+155.89500 	KGO801 	BM	103.5 PL	RkFl PublicWork1 	Public Works 	FMN 	Public Works 
+156.16500 	WQFE890 	RM		RkFl PublicWork2 	Public Works 	FMN 	Public Works 
+173.33750 	WNYX877 	F		RkFl PW WDD 	Water Distribution Data 	Telm 	Data 
+160.15500 	WQCE412 	BM	162.2 PL	RkFl Water/Sewer 	Water / Sewer Monitoring  	FMN 	Public Works 
+159.57000 	WQCE412 	M		RkFl PWdata1 	Water / Sewer Monitoring  	FMN 	Data 
+159.66000 	WQCE412 	M		RkFl PWdata2 	Water / Sewer Monitoring  	FMN 	Data 
+151.37000 	WQFM774 	RM	103.5 PL	Ster Police1 	Police: Dispatch [Ch 1]  (Sterling and Rock Falls PD) 	FMN 	Law Dispatch 
+151.31000 	WQFM774 	BM	103.5 PL	Ster Police2 	Police: Simplex [Ch 2] 	FMN 	Law Tac 
+154.80000 	KSA930 	M		Ster Police3 	Police: Car-to-Car 	FMN 	Law Tac 
+154.72500 	WQFM774 	M		Ster Police4 	Police: Car-to-Car 	FMN 	Law Tac 
+153.76250 	WQFM774 	M		Ster Police5 	Police 	FMN 	Law Tac 
+153.94250 	WQFM774 	M		Ster Police6 	Police 	FMN 	Law Tac 
+153.97250 	WQFM774 	M		Ster Police7 	Police  	FMN 	Law Tac 
+154.82250 	WQFM774 	M		Ster Police8 	Police  	FMN 	Law Tac 
+154.86750 	WQFM774 	M		Ster Police9 	Police  	FMN 	Law Tac 
+155.10000 	KTR761 	F	103.5 PL	Sterl EmergSiren 	Emergency Alert Siren (DTMF) 	FMN 	Data 
+154.19000 	WPDB704 	BM	CSQ	WhitsideFire 	Fire: Countywide Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+154.35500 	WPDB704 	M	CSQ	WhtsFiregrnd 	Fireground [Ch 2] 	FMN 	Fire-Tac 
+460.57500 	WPDB704 	M		SterlingFDMX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+155.22000 	WPWA349 	BM	91.5 PL	TwinCity EMS 	Twin City EMS 	FMN 	EMS Dispatch 
+155.14500 	KWB773 	BM		Ster PW/CS 	Public Works (Community Services) 	FMN 	Public Works 
+155.89500 	KGO801 	BM	103.5 PL	Sterling PW 	Public Works [Expired 8/05*] 	FMN 	Public Works 
+154.44500 	WQEY374 	BM		Tampico EMS 	Ambulance Service 	FMN 	EMS Dispatch 
+155.76000 	WNNM519 	BM		Tampico PW 	Public Works 	FMN 	Public Works 
+47.66000 	WPKZ323 	BM		UC School Buses  	Unity Christian School: Buses (Fulton) 	FM 	Schools 
+155.23500 	WNSW211 	BM		Erie Schools 	School Ops 	FMN 	Schools 
+461.85000 	WPQJ387 	BM		Mrsn School1 	Operations 	FMN 	Schools 
+462.52500 	WPQJ387 	BM		Mrsn School2 	Operations 	FMN 	Schools 
+463.75000 	WPQJ387 	BM		Mrsn School1 	Operations 	FMN 	Schools 
+463.87500 	WPQJ387 	BM		Mrsn School2 	Operations 	FMN 	Schools 
+154.51500 	WPFZ257 	BM		Prphtsn Schl 	School Ops 	FMN 	Schools 
+151.53500 	WQEP547 	RM	127.3 PL	Riverbend School 	Buses / Ops 	FMN 	Schools 
+155.29500 	WPQB833 	BM		FS Bus RkFls 	First Student: Buses (Rock Falls) 	FMN 	Schools 
+452.80000 	WPPE801 	BM		D13 Schools1 	District 13 School  	FMN 	Schools 
+451.52500 	WPPE801 	BM		D13 Schools2 	District 13 School  	FMN 	Schools 
+452.32500 	WPPE801 	BM		D13 Schools3 	District 13 School  	FMN 	Schools 
+452.45000 	WPPE801 	BM		D13 Schools4 	District 13 School  	FMN 	Schools 
+452.62500 	WPPE801 	BM		D13 Schools5 	District 13 School  	FMN 	Schools 
+452.65000 	WPPD361 	RM		RkFl School 	District 301 School  	FMN 	Schools 
+452.05000 	WPPA270 	BM		EColm School 	East Coloma School District 12 	FMN 	Schools 
+452.67500 	WPPC230 	BM		Monm School 	Montmorency CCDD 145 	FMN 	Schools 
+452.87500 	WPQI515 	BM		Rvrdl School 	Riverdale School District 14 	FMN 	Schools 
+463.80000 	KNNU250 	BM		RkFlTS Schl 	Township High School 	FMN 	Schools 
+Alliant Energy	 DMR Tier 3	 Various	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL	Sterling Community Unit School District 5	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Sterling	

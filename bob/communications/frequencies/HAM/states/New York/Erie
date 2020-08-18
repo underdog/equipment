@@ -1,0 +1,301 @@
+460.07500 	WQKT622 	RM	F86 NAC	EC Shrf Patrol 	Sheriff Patrol Dispatch 	P25 	Law Dispatch 
+460.45000 	KEB501 	RM	151.4 PL	EC Shrf Ch 2 	Sheriff Ch. 2 	FMN 	Law Tac 
+465.05000 	 	M	114.8 PL	EC Shrf Ch 6 	Sheriff Ch. 6 	FMN 	Law Tac 
+453.21250 	 	BM	114.8 PL	EC Shrf Ch 7 	Sheriff Ch. 7 	FMN 	Law Tac 
+853.82500 	 	M		EC Shrf SWAT 	Sheriff SWAT 	FM 	Law Tac 
+155.58000 	KEB501 	RM	074 DPL	EC CW Police VHF 	Countywide Police VHF 	FMN 	Law Dispatch 
+460.27500 	KEB501 	RM	074 DPL	EC CW Police UHF 	Countywide Police UHF 	FMN 	Law Dispatch 
+155.73000 	KFP618 	BM	156.7 PL	EC LAW730  	Police Agencies 	FMN 	Law Tac 
+465.53750 	KB77475 	M	151.4 PL	EC Shrf Jail 	Sheriff Jail 	FMN 	Corrections 
+460.05000 	WNDE794 	BM	151.4 PL	EC Holding Cntr 	Holding Center 	FMN 	Corrections 
+453.10000 	WQH336 	RM	79.7 PL	EC Probation 	Probation 	FMN 	Corrections 
+460.40000 	KEB501 	RM	97.4 PL	EC CW Fire 	Countywide Fire 	FMN 	Fire-Tac 
+458.05000 	WQLJ251 	BM	156 DPL	EC FG 21 	Fireground 21 	FMN 	Fire-Tac 
+458.66250 	WQLJ251 	BM	162 DPL	EC FG 22 	Fireground 22 	FMN 	Fire-Tac 
+453.61250 	WQLJ251 	BM	723 DPL	EC FG 23 	Fireground 23 	FMN 	Fire-Tac 
+458.91250 	WQKE546 	M	192.8 PL	EC FG 24 	Fireground 24 	FMN 	Fire-Talk 
+154.37000 	KC5785 	M	156.7 PL	EC FD VHF Ops 2 	VHF Ops 2 	FMN 	Fire-Tac 
+463.10000 	WQS972 	RM	054 DPL	EC CW EMS 	Countywide EMS Simulcast 	FMN 	EMS Dispatch 
+155.32500 	KVZ744 	BM	156.7 PL	EC EMS MERS 	EMS MERS 	FMN 	EMS-Tac 
+458.17500 	KB23869 	M	172 DPL	EC Med Tac 	Medical Tactical 	FMN 	EMS-Tac 
+463.08750 	WQUA866 	RM	346 DPL	EC EMS N Hosp 	Northern Erie County EMS to Hospital 	FMN 	Hospital 
+463.11250 	WQUA866 	RM	371 DPL	EC EMS SE Hosp 	Southeastern Erie County EMS to Hospital 	FMN 	Hospital 
+463.12500 	WQS972 	RM	412 DPL	EC EMS SW Hosp 	Southwestern Erie County EMS to Hospital 	FMN 	Hospital 
+463.06250 	WQUA866 	RM	156.7 PL	NC EMS Hosp 	Niagara County EMS to Hospital 	FMN 	Hospital 
+460.55000 	WNMV744 	RM	1 RAN	TCA Dispatch 	Twin City Ambulance Dispatch 	NXDN 	EMS Dispatch 
+425.27500 	WPRG455 	BM	047 DPL	EC Interop 1 	Interop 1  	FMN 	Interop 
+425.32500 	WPRG455 	BM	065 DPL	EC Interop 2 	Interop 2  	FMN 	Interop 
+425.35000 	WPRG455 	BM	131 DPL	EC Interop 3 	Interop 3  	FMN 	Interop 
+424.15000 	WQKP779 	RM	E17 NAC	ErieCo ESU 4 	ESU Ch. 4 	P25 	Interop 
+453.20000 	KRA527 	RM	94.8 PL	ErieCo Hwy 	Highway Department 	FMN 	Public Works 
+453.85000 	KSV793 	RM	103.5 PL	ErieCo Sewer 	Sewer Authority 	FMN 	Public Works 
+424.40000 	WPNV204 	RM	074 DPL	ErieCo Parks 	Parks Department 	FMN 	Public Works 
+453.15000 	KLO216 	RM	151.4 PL	ErieCo Aging 	Office for the Aging Vans 	FMN 	Transportation 
+453.37500 	WQMN591 	RM	186.2 PL	ErieCo Bldg/Grnd 	Buildings and Grounds 	FMN 	Public Works 
+453.37500 	WQMN591 	RM	E95 NAC	ErieCo BldgSecty 	Buildings Security 	P25 	Security 
+460.32500 	KSO552 	RM	293 NAC	BPD Ch1 Car 	Police Ch. 1 - Car to Car 	P25 	Law Talk 
+460.35000 	KSO552 	RM	59 NAC	BPD Ch.2 D/W 	Police Ch. 2 - Downtown/West Side B,D 	P25 	Law Dispatch 
+460.42500 	KSO552 	RM	144 NAC	BPD Ch.3 E/N 	Police Ch. 3 - East/North Side C,E 	P25 	Law Dispatch 
+460.47500 	KSO552 	RM	350 NAC	BPD Ch4  S 	Police Ch. 4 - South Buffalo 	P25 	Law Dispatch 
+460.02500 	KSO552 	RM	511 NAC	BPD Ch5 Wrnt 	Police Ch. 5 - Information and Warrant Checks 	P25 	Law Talk 
+423.87500 	WNMF545 	RM	293 NAC	BPD TAC 1 	Police TAC 1 - Detectives 	P25E 	Law Tac 
+425.37500 	WNMF545 	M		BPD TAC 2 	Police TAC 2 	FMN 	Law Tac 
+423.65000 	 	M		BPD TAC 3 	Police TAC 3 	FMN 	Law Tac 
+423.70000 	 	M		BPD TAC 4 	Police TAC 4 	FMN 	Law Tac 
+423.92500 	WNMF545 	RM	82.5 PL	BPD 	Police 	FMN 	Law Tac 
+423.92500 	WNMF545 	RM	100.0 PL	BPDSecureNet 	Police - Secure Net 	FMN 	Law Tac 
+452.55000 	 	BM	043 DPL	BPD Analog 	Police Analog Simulcast 	FMN 	Law Dispatch 
+453.55000 	 	B	723 DPL	BPD Analog 	Police Analog All Channel Multicast 	FMN 	Law Dispatch 
+851.78750 	WPLT983 	BM		BPD MDT 1 	Police  - MDT 	Telm 	Data 
+853.13750 	WPLT983 	BM		BPD MDT 2 	Police -  MDT 	Telm 	Data 
+424.22500 	WNMF545 	RM	565 DPL	BFD Ch1 Disp 	Fire Ch. 1 Dispatch 	FMN 	Fire Dispatch 
+424.35000 	WNMF545 	RM	251 DPL	BFD Ch. 2 FG 	Fire Ch. 2 Fireground 	FMN 	Fire-Tac 
+423.90000 	WNMF545 	RM	114 DPL	BFD Ch.3 HAZ 	Fire Ch. 3 HAZMAT 	FMN 	Fire-Tac 
+453.77500 	KNDU695 	B	155 DPL	BFD Ch. 4 MR 	Fire Ch. 4 Metro Rail 	FMN 	Fire-Tac 
+425.25000 	WNKN751 	BM	703 DPL	BFD Service 	Fire - Service 	FMN 	Fire-Talk 
+423.82500 	WNKN751 	RM	411 DPL	Alarm Mntnce 	Fire Alarm Maintenance 	FMN 	Fire-Talk 
+453.96250 	KCI572 	M		BFD Air 	Fire - Air Back Up 	FMN 	Fire-Talk 
+424.37500 	WNKN751 	RM	141.3 PL	ADI Ch. 1 	EMS Ch. 1 Primary 	FMN 	EMS Dispatch 
+424.37500 	WNKN751 	RM	156.7 PL	ADI Ch. 2 	EMS Ch. 2 Secondary 	FMN 	EMS-Talk 
+460.32500 	KSO552 	RM	151.4 PL	Buffalo Disaster 	Disaster Channel 	FMN 	Emergency Ops 
+153.89000 	KEC890 	BM	116 DPL	CityEngineer 	City Hall Engineer 	FMN 	Public Works 
+156.12000 	KNAH344 	RM	82.5 PL	Park Rangers 	Park Rangers 	FMN 	Law Talk 
+424.05000 	WNMF545 	RM	143 DPL	DPW Engrng 	Public Works Engineering 	FMN 	Public Works 
+453.60000 	KTO352 	RM	151.4 PL	Parking Enfc 	Parking Enforcement 	FMN 	Law Talk 
+453.70000 	KGV22 	RM	88.5 PL	Parks/Sewers 	Parks / Sewers 	FMN 	Public Works 
+453.75000 	KEF789 	RM	131.8 PL	Sts/SolWaste 	Streets / Solid Waste 	FMN 	Public Works 
+453.92500 	WPYU927 	RM	11 RAN	MHA 453.925 	Municipal Housing Authority 	NXDN 	Public Works 
+453.22500 	 	RM	11 RAN	MHA 453.225 	Municipal Housing Authority 	NXDN 	Public Works 
+453.30000 	 	RM	11 RAN	MHA 453.3 	Municipal Housing Authority 	NXDN 	Public Works 
+454.28750 	WPVE468 	RM	11 RAN	MHA 454.2875 	Municipal Housing Authority 	NXDN 	Public Works 
+452.70000 	WQJL534 	BM	365 DPL	Alden FD 	Fire 	FMN 	Fire-Tac 
+453.22500 	WQHX692 	BM		AVFD 	Fire 	FMN 	Fire Dispatch 
+460.13750 	WQHX692 	BM		AVFD 	Fire 	FMN 	Fire-Talk 
+156.22500 	KNIB354 	BM		Alden Hwy 	Highway Department 	FMN 	Public Works 
+424.30000 	WNKN564 	RM	29A NAC	Amherst PD 	Police 	P25 	Law Dispatch 
+424.12500 	KEA536 	RM	127.3 PL	Amherst Ch.1 	Fire Ch. 1 - Dispatch 	FMN 	Fire Dispatch 
+425.45000 	WPMF670 	BM	162.2 PL	Amherst Ch.2 	Fire Ch. 2 	FMN 	Fire-Tac 
+425.47500 	WPMF670 	BM	173.8 PL	Amherst Ch.3 	Fire Ch. 3 	FMN 	Fire-Tac 
+425.15000 	WPMF670 	BM	107.2 PL	Amherst Ch.4 	Fire Ch. 4 	FMN 	Fire-Tac 
+425.22500 	WPMF670 	BM	118.8 PL	Amherst Ch.5 	Fire Ch. 5 	FMN 	Fire-Tac 
+425.40000 	WPMF670 	BM	82.5 PL	Amherst Ch.6 	Fire Ch. 6  	FMN 	Fire-Tac 
+451.72500 	 	BM	464 DPL	E Amherst V 	East Amherst Fire 	FMN 	Fire-Talk 
+425.01250 	WQPX599 	M	023 DPL	Eggrtvile FD 	Eggertsville FD Tac 	FMN 	Fire-Tac 
+458.98750 	WQLC914 	M	606 DPL	M-T FD 458 	Main-Transit Fire Department 	FMN 	Fire-Talk 
+460.63750 	WQUZ922 	RM	125 DPL	Getzville FD 	Getzville FD Tactical 	FMN 	Fire-Tac 
+461.41250 	WQOZ421 	RM	172 DPL	M-T FD 461 	Main-Transit Fire Department 	FMN 	Fire-Tac 
+465.56250 	WNVB440 	M	146.2 PL	Snyder FD 	Snyder Fire Dept. 	FMN 	Fire-Talk 
+465.61250 	WNVB440 	M	146.2 PL	Snyder FD 	Snyder Fire Dept. 	FMN 	Fire-Talk 
+153.98000 	WXK602 	RM	141.3 PL	Amherst Hwy 	Highway Department 	FMN 	Public Works 
+453.80000 	WPYL710 	RM	123.0 PL	Cheektwga PD 	Police 	FMN 	Law Dispatch 
+453.62500 	WPXX582 	RM	662 DPL	CFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.47500 	WPXX582 	RM	364 DPL	CFD Ch.2 FG 	Ch. 2 Fireground 	FMN 	Fire-Tac 
+453.25000 	WPXX582 	RM	047 DPL	CFD Ch.3 FG 	Ch. 3 Fireground  	FMN 	Fire-Tac 
+453.17500 	WPYB965 	RM	073 DPL	Sloan FD TAC 	Sloan FD Tac 	FMN 	Fire-Tac 
+461.05000 	WPKN999 	RM	565 DPL	Doyle TAC 	Doyle FD Tac 	FMN 	Fire-Tac 
+461.50000 	WPGH203 	RM	271 DPL	CleveHillTAC 	Cleveland Hill FD Tac 	FMN 	Fire-Tac 
+461.90000 	 	M	371 DPL	PineHill TAC 	Pine Hill FD Tac 	FMN 	Fire-Tac 
+462.02500 	WPGH203 	RM	125 DPL	Rescue TAC 	Rescue FD Tac 	FMN 	Fire-Tac 
+462.71250 	 	M	712 DPL	Hyview TAC 	Hy-view FD Tac 	FMN 	Fire-Tac 
+463.32500 	WQBS679 	RM	251 DPL	Bellevue TAC 	Bellevue FD Tac 	FMN 	Fire-Tac 
+464.90000 	WPRU503 	RM	306 DPL	U-Crest TAC 	U-Crest FD Tac 	FMN 	Fire-Tac 
+151.08500 	WPYU759 	BM	151.4 PL	Chk HwyDept. 	Highway Dept. 	FMN 	Public Works 
+159.06000 	WPYU759 	BM	151.4 PL	Chk HwyDept. 	Highway Dept. 	FMN 	Public Works 
+453.67500 	KQT985 	RM	88.5 PL	Sewer Dept. 	Sewers Department 	FMN 	Public Works 
+460.62500 	WPQX995 	RM	411 DPL	ClarCtr V FC 	Clarence Center FD 	FMN 	Fire-Tac 
+156.13500 	WXJ765 	RM	82.5 PL	Clarence Hwy 	Highway Department 	FMN 	Public Works 
+158.94750 	WQEU360 	RM		Clarence Parks 	Parks Department 	FMN 	Public Works 
+460.18750 	WQLD322 	RM	223 DPL	Depew PD 1 	Police 	FMN 	Law Dispatch 
+424.18750 	WQHZ937 	RM	411 DPL	Depew Fire 1 	Fire Dispatch and Fireground 1 	FMN 	Fire Dispatch 
+425.33750 	WQON839 	BM	632 DPL	Depew F/G 2 	Fire Ground 2 	FMN 	Fire-Tac 
+428.93750 	WQON839 	M	732 DPL	Depew F/G 3 	Fire Ground 3 	FMN 	Fire-Tac 
+428.98750 	WQON839 	M	023 DPL	Depew F/G 4 	Fire Ground 4 	FMN 	Fire-Tac 
+460.56250 	 	M	306 DPL	Depew FDFAST 	FAST 	FMN 	Fire-Tac 
+460.51250 	WQHZ937 	M	074 DPL	Depew Tac 1 	TAC 1 	FMN 	Fire-Tac 
+465.51250 	WQHZ937 	M	331 DPL	Depew Tac 2 	TAC 2 	FMN 	Fire-Tac 
+465.56250 	WQHZ937 	M	071 DPL	Depew Tac 3 	TAC 3 	FMN 	Fire-Tac 
+462.56250 	 	M	071 DPL	Depew FirePD 	Fire Police 	FMN 	Fire-Talk 
+155.10000 	KNFU845 	B	103.5 PL	Depew PW 103 	Public Works 	FMN 	Law Dispatch 
+155.10000 	KNFU845 	BM	125 DPL	Depew PW 125 	Public Works 	FMN 	Fire Dispatch 
+155.64000 	KNEC914 	BM	74.4 PL	E Aurora PD1 	Police Ch. 1 	FMN 	Law Dispatch 
+155.62500 	KEA620 	M	162.2 PL	E Aurora PD2 	Police Ch. 2 	FMN 	Law Talk 
+453.87500 	WQFX520 	RM	065 DPL	EAFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
+424.17500 	WQZP360 	RM	072 DPL	EAFD Ch. 2 	Fire Ch. 2  	FMN 	Fire-Tac 
+458.06250 	WQFX520 	M	115 DPL	EAFD Ch 3 	Fire Ch. 3 	FMN 	Fire-Tac 
+458.60000 	WQFX520 	M	125 DPL	EAFD Ch 4 	Fire Ch. 4 	FMN 	Fire-Tac 
+458.98750 	WQJI228 	M	632 DPL	EAFD Ch 5 	Fire Ch. 5 	FMN 	Fire-Tac 
+458.92500 	WQJV613 	M	125 DPL	EAFD Ch 6 	Fire Ch. 6 	FMN 	Fire-Tac 
+460.36250 	WQKM262 	RM	051 DPL	EAFD Ch 7 	Fire Ch. 7 	FMN 	Fire-Tac 
+458.22500 	WQJV613 	M		BlossomFDTac 	Blossom FD Tac 	FMN 	Fire-Tac 
+453.52500 	 	M	125 DPL	BlossomFDTac 	Blossom FD Tac 	FMN 	Fire-Tac 
+465.03750 	WQKM262 	M		Marilla Vol 	Marilla Vol Fire Co. 	FMN 	Fire-Tac 
+151.68500 	WPWW976 	BM	411 DPL	WalesCtrVol 	Wales Centre Vol Fire Co. 	FMN 	Fire-Tac 
+453.30000 	KFK535 	RM		E Aurora DPW 	Public Works 	FMN 	Public Works 
+154.04000 	WPJU523 	RM	179.9 PL	Eden PD/FD 	Police, Fire and EMS 	FMN 	Multi-Dispatch 
+465.17500 	WQPN691 	M	503 DPL	Eden FD FAST 	Volunteer Fire Department FAST 	FMN 	Fire-Tac 
+151.68500 	WPRV838 	BM	100.0 PL	Elma FG 	Fireground 	FMN 	Fire-Tac 
+460.03750 	KGY305 	RM		Elma Hwy/Wtr 	Highway and Water Depts 	DMR 	Public Works 
+155.79000 	KEB596 	BM	173.8 PL	Evans PD 1 	Police Ch. 1 	FMN 	Law Dispatch 
+157.15000 	 	M	CSQ	Evans PD 6 	Police Ch. 6 Boats 	FMN 	Law Talk 
+453.12500 	KB23869 	RM	031 DPL	Evans FD Dsp 	Fire Dispatch 	FMN 	Fire Dispatch 
+423.97500 	WPJG495 	BM	423 DPL	AVFD F-2 	Fire F-2 Control 	FMN 	Fire Dispatch 
+428.97500 	WPJG495 	BM	071 DPL	AVF F3 HFD15 	Fire F-3  Secondary / Command (Hamburg Ch.15) 	FMN 	Fire-Tac 
+458.45000 	WQML302 	M	731 DPL	ECVFD FAST 	Evans Center Volunteer Fire Department FAST 	FMN 	Fire-Tac 
+460.52500 	WQML302 	M		ECVFD Talk 	Evans Center Volunteer Fire Department Talk 	FMN 	Fire-Talk 
+158.80500 	WQKY892 	RM		Evans Highway 	Highway Department 	FMN 	Public Works 
+460.20000 	KNID397 	RM	043 DPL	S/E FD Disp 	Fire - Springville and Evans 	FMN 	Fire Dispatch 
+424.28750 	KNID397 	RM	074 DPL	S/E FD F2 	Fire - Springville and Evans F2 	FMN 	Fire-Tac 
+158.82000 	WQRY426 	RM	131 DPL	Sprngvll DPW 	Highway/Electric/Water 	FMN 	Public Works 
+453.51250 	KNFF811 	RM	155 DPL	GIFC Ch1Dsp 	Fire Ch. 1 - Dispatch 	FMN 	Fire Dispatch 
+460.95000 	KNFF811 	RM	251 DPL	GIFC Ch2 OPS 	Fire Ch. 2 - Operations 	FMN 	Fire-Tac 
+453.81250 	KNFF811 	RM	351 DPL	GIFC Ch3 OPS 	Fire Ch. 3 - Operations 	FMN 	Fire-Tac 
+453.81250 	KNFF811 	M	411 DPL	GIFC Ch4 OPS 	Fire Ch. 4 - Operations 	FMN 	Fire-Tac 
+467.65000 	 	M	503 DPL	GIFC Ch5 Pol 	Fire Ch. 5 - Fire Police 	FMN 	Fire-Tac 
+155.94000 	 	M	155 DPL	GIFC Ch6 	Fire Ch. 6 	FMN 	Fire-Tac 
+451.26250 	 	RM	244 DPL	GI Local Gvt 	Local Government 	FMN 	Public Works 
+460.33750 	WQNM290 	RM	343 DPL	T/Hamburg PD Dsp 	Police Dispatch 	FMN 	Law Dispatch 
+460.41250 	WQOT425 	RM	2 RAN	T/Hamburg PD Ptr 	Police Patrol 2 	NXDNe 	Law Tac 
+454.08750 	WPVW659 	RM	306 DPL	T/Hamburg FD Dsp 	Fire 1 - Dispatch 	FMN 	Fire Dispatch 
+454.41250 	WPVW659 	RM	631 DPL	T/Hamburg FD Cmd 	Fire 2 - Command 	FMN 	Fire-Tac 
+458.91250 	WQKE546 	BM	192.8 PL	T/Hamburg FD FP 	Fire Police 	FMN 	Fire-Tac 
+150.95000 	WQGI696 	RM	167.9 PL	Big Tree FD 	Big Tree FD 	FMN 	Fire-Talk 
+154.31000 	WPHS316 	BM	506 DPL	Armor FD 	Armor FD 	FMN 	Fire-Talk 
+453.02500 	WQPM606 	BM	306 DPL	NAFC Tac 2 	Newton Abbott FD Tac 2 	FMN 	Fire-Tac 
+453.07500 	WQPM606 	BM	516 DPL	NAFC FAST Ops 	Newton Abbott FD FAST Ops 	FMN 	Fire-Tac 
+453.12500 	WQPM606 	BM	072 DPL	NAFC Tac 1 	Newton Abbott FD Tac 1 	FMN 	Fire-Tac 
+453.22500 	WQKP476 	BM	031 DPL	LSFD Tac 3 	Lake Shore FD Tac 3 	FMN 	Fire-Tac 
+460.13750 	WQKP476 	BM	026 DPL	LSFD Fire Police 	Lake Shore FD Fire Police 	FMN 	Fire-Tac 
+461.41250 	WQNK564 	RM	351 DPL	WoodlawnFD Tac 1 	Woodlawn FD Tac 1 	FMN 	Fire-Tac 
+461.68750 	WQPG772 	RM	351 DPL	Scranton FD 	Scranton FD 	FMN 	Fire Dispatch 
+463.53750 	WQLI921 	RM	606 DPL	LSFD Tac 1 	Lake Shore FD Tac 1 	FMN 	Fire-Tac 
+463.66250 	WQLI921 	BM	243 DPL	LSFD Tac 2 	Lake Shore FD Tac 2 	FMN 	Fire-Tac 
+155.88000 	KEJ766 	RM	136.5 PL	Boston EMS 	Boston EMS 	FMN 	EMS Dispatch 
+154.02500 	KNFE698 	RM	103.5 PL	T/Hamburg DPW 	DPW 	FMN 	Public Works 
+453.38750 	WQOT425 	RM	047 DPL	T/Hamburg LocGov 	Local Government 	FMN 	Interop 
+453.38750 	WQOT425 	RM	5 RAN	T/Hamburg DogCtl 	Dog Control 	NXDN 	Public Works 
+460.43750 	WQOT425 	RM	627 DPL	T/Hamburg PubSaf 	Public Safety Ch 3 	FMN 	Interop 
+151.16000 	WQJA570 	RM	532 DPL	V/Hamburg FD Ops 	FD Ops 	FMN 	Fire-Talk 
+155.05500 	KNGK743 	RM	071 DPL	V/Hamburg DPW 	DPW 	FMN 	Public Works 
+460.50000 	WNJK361 	RM	173.8 PL	Kenmore PD 	Police Ch. 1 	FMN 	Law Dispatch 
+460.15000 	WQGS723 	RM	23 RAN	Lackawanna PD 	Police 	NXDN 	Law Dispatch 
+424.02500 	WQLP378 	RM	632 DPL	Lackawanna FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+425.41250 	WQLP378 	B	051 DPL	Lackawanna FD 	Fire 	FMN 	Fire Dispatch 
+453.27250 	WQAI213 	RM	141.3 PL	Lackawanna DPW 	Public Works 	FMN 	Public Works 
+453.16250 	WQUU903 	RM	CC 10TG 1SL 1	Lanc PD DMR 	Police 	DMRE 	Law Dispatch 
+154.21250 	WPXJ984 	BM		LancPD SWAT 	PD SWAT 	FMN 	Law Tac 
+154.46375 	 	M		LancPD SWAT 	PD SWAT 	FMN 	Law Tac 
+454.57500 	 	RM	172 DPL	Lancstr FC 	Fire Control 	FMN 	Fire Dispatch 
+453.50000 	WPYR850 	RM	243 DPL	LncstrFD D1 	Fire - Ch. 1 Dispatch 	FMN 	Fire Dispatch 
+460.28750 	WQIK782 	RM	306 DPL	LncstrFD Cd2 	Fire - Ch.2 Command 	FMN 	Fire-Tac 
+453.88750 	WQEY898 	M	132 DPL	LncstrFD FG3 	Fire - Ch.  3 Fireground 	FMN 	Fire-Tac 
+453.91250 	 	M	205 DPL	LncstrFD FG4 	Fire - Ch. 4 Fireground 	FMN 	Fire-Tac 
+460.53750 	 	M	225 DPL	LncstrFD FG5 	Fire - Ch. 5 Fireground 	FMN 	Fire-Tac 
+453.00000 	 	RM	065 DPL	LncstrFD 10 	Fire - Ch. 10 - ops with American Medical Response 	FMN 	Fire-Tac 
+462.02500 	 	M	071 DPL	Lncstr FD 16 	Fire - Ch. 16 Fire Police 	FMN 	Fire-Tac 
+454.11250 	 	BM	205 DPL	BCFC Ctrl 10 	Bowmansville Volunteer Fire Company Control Ch. 10 	FMN 	Fire-Talk 
+460.16250 	WQBJ216 	RM	503 DPL	Crittdn VFD 	Crittenden Vol Fire Dept. 	FMN 	Fire-Tac 
+460.16250 	WQBJ216 	RM	174 DPL	LncstrFD LV 	Village of Lacaster Fire TAC 	FMN 	Fire-Tac 
+453.33750 	WQFP629 	RM	271 DPL	MillgroveVFD 	Millgrove Vol Fire Dept. 	FMN 	Fire-Tac 
+453.90000 	WQBD607 	RM	546 DPL	TwinDist Vol 	Twin District Vol Fire Co. 	FMN 	Fire-Talk 
+155.30250 	WPYE862 	RM	152 DPL	Lanc EMS 	EMS 	FMN 	EMS Dispatch 
+151.00250 	 	M		LancVolAmb 2 	EMS Ch. 2 	FMN 	EMS-Talk 
+155.80500 	KNIH305 	BM	243 DPL	Lanc HwyDept 	Highway Dept. 	FMN 	Emergency Ops 
+458.26250 	WQFA813 	RM		Lanc OEM 	Emergency Management 	FMN 	Emergency Ops 
+453.18750 	WQFA813 	M		Lanc OEM 	Emergency Management 	FMN 	Emergency Ops 
+453.26250 	WQFA813 	M		Lanc OEM 	Emergency Management 	FMN 	Emergency Ops 
+460.51250 	 	M	632 DPL	Townline FD 	Townline Fire Tactical 	FMN 	Fire-Tac 
+453.35000 	WNKU799 	RM	031 DPL	NCollinsEMS 	EMS (dispatched by Evans Fire Control) 	FMN 	EMS Dispatch 
+453.36250 	WQEQ204 	RM	CC 1TG 3000SL *	OrchardPk PD 	Police 	DMRE 	Law Dispatch 
+154.14500 	 	B		OPFD Simul 	Fire (simulcast from UHF Ch. 1) 	FMN 	Fire Dispatch 
+424.08750 	WQKL440 	RM	632 DPL	OPFD 1 Disp 	Fire Ch. 1 Dispatch 	FMN 	Fire Dispatch 
+425.30000 	WQKL440 	BM	506 DPL	OPFD 2 FG 	Fire Ch. 2 Fireground 	FMN 	Fire-Tac 
+428.91250 	WQKL440 	M	432 DPL	OPFD F-3 	Fire Ch. 3 EMS Operations/Alternate Fireground 	FMN 	Fire-Tac 
+429.20000 	WQKL440 	M	351 DPL	OPFD F-4 	Fire Ch. 4 Fire Police 	FMN 	Fire-Talk 
+151.14500 	WQFB676 	RM	134 DPL	OrchPk Hwy 	Highway Department 	FMN 	Public Works 
+460.22500 	WNXY765 	RM	173.8 PL	TPD  1 Disp 	City Police Dispatch 	FMN 	Law Dispatch 
+460.01250 	WNXY765 	M		TPD 2 Sp Ops 	Police Special Operations 	FMN 	Law Tac 
+460.13750 	WNXY765 	M	173.8 PL	TPD 3 	City Police Ch. 3 	FMN 	Law Talk 
+461.95000 	 	BM	114.8 PL	TPD 4 SpEvnt 	City Police Ch. 4  Special Events 	FMN 	Law Talk 
+460.60000 	WPJP303 	RM	100.0 PL	TonwndaFDisp 	City Fire Dispatch 	FMN 	Fire Dispatch 
+460.08750 	WPYF508 	RM	413 DPL	TonawandaCh2 	City Fire Ch. 2 	FMN 	Fire-Tac 
+460.10000 	KNBX208 	RM	173.8 PL	Tonawanda PD 	Police Dispatch 	FMN 	Law Dispatch 
+460.97500 	WQCY617 	RM	115 DPL	Tonawnda FD1 	Fire Ch 1 	FMN 	Fire Dispatch 
+460.90000 	WQCY617 	RM	047 DPL	Tonawnda FD2 	Fire Ch 2 	FMN 	Fire-Tac 
+458.12750 	 	M	411 DPL	Tonawnda FD3 	Fire Ch 3 - training/fireground 	FMN 	Fire-Tac 
+458.18750 	WQFA813 	M	503 DPL	Tonawnda FD4 	Fire Ch 4 - Training 	FMN 	Fire-Tac 
+155.89500 	KFF365 	BM		Tnwnda Parks 	Parks and Recreation Department 	FMN 	Public Works 
+423.85000 	WNPM873 	RM	141.3 PL	Tnwnda Water 	Water and Sewer Departments 	FMN 	Public Works 
+453.32500 	KNAB741 	RM	151.4 PL	Tnwnda Hwy 	Highway Department 	FMN 	Public Works 
+455.46250 	 	M	205 DPL	SPFD4 FAST 	Sheridan Park FD FAST/RIT 	FMN 	Fire-Tac 
+460.21250 	 	BM	054 DPL	BrightonFD 	Brighton Co Fire 	FMN 	Fire Dispatch 
+155.25000 	KEA620 	RM	162.2 PL	WS PD Rptr 	Police 	FMN 	Law Dispatch 
+155.62500 	 	BM		WSPD 155.625 	Police 	FMN 	Law Tac 
+424.15000 	WQKP779 	BM		WSPD  424.15 	Police 	P25 	Law Talk 
+424.17500 	WNWV932 	B		WSPD 424.175 	Police 	P25 	Law Talk 
+423.98750 	WPYD492 	RM	631 DPL	W Seneca Ch1 	Fire Ch. 1 	FMN 	Fire Dispatch 
+424.38750 	WPYD492 	RM	331 DPL	W Seneca Ch2 	Fire Ch. 2 	FMN 	Fire-Tac 
+424.11250 	WPYD492 	RM	072 DPL	W Seneca Ch3 	Fire Ch. 3 	FMN 	Fire-Tac 
+424.03750 	WPYD492 	M		W Seneca TAC 	Fire Tac 	FMN 	Fire-Tac 
+453.95000 	KEE511 	RM	743 DPL	W Seneca PW 	Public Works 	FMN 	Public Works 
+153.81500 	KEJ801 	BM	141.3 PL	Willmsvl DPW 	Public Works 	FMN 	Public Works 
+155.28000 	KFR571 	B	82.5 PL	EMS Control 	EMS Control 	FMN 	EMS Dispatch 
+469.63750 	 	BM	065 DPL	AMR Scene 	Scene Repeater 	FMN 	EMS-Tac 
+453.00000 	WPCM217 	RM	065 DPL	AMR Interop1 	Interoperability Ch. 1 	FMN 	Interop 
+452.15000 	WPGH203 	RM	065 DPL	AMR Interop2 	Interoperability Ch. 2 	FMN 	Interop 
+466.63750 	 	M	065 DPL	AMR SpEvnt 1 	Special Events  Ch. 1 	FMN 	EMS-Talk 
+467.13750 	 	M	065 DPL	AMR SpEvnt 2 	Special Events Ch. 2 	FMN 	EMS-Talk 
+468.83750 	 	M	065 DPL	AMR SpEvnt 3 	Special Events Ch. 3 	FMN 	EMS-Talk 
+423.86250 	WQLH303 	RM	162 DPL	CIRVFD Tact 	Cattaraugus Indian Reservation FD Tactical 	FMN 	Fire-Tac 
+154.34000 	KD51267 	M		SouthtwnHAZ1 	Fire/Hazmat Ch. 1  	FMN 	Fire-Tac 
+153.95000 	KD51267 	M		SouthtwnHAZ2 	Fire/Hazmat Ch. 2 	FMN 	Fire-Tac 
+460.62500 	WQJL888 	RM	263 DPL	Erie Court Sec 1 	Erie County Courts Security 	FMN 	Law Tac 
+465.38750 	WQJL263 	M		Erie Court Sec 2 	Erie County Courts Security (rarely used) 	FMN 	Law Tac 
+462.20000 	WQIU431 	RM	CC 1TG 1SL 1	Peace Bridge 	Toll Booth Operations 	DMRE 	Public Works 
+155.04000 	KNDN820 	BM	107.2 PL	UatB Facilities 	University Facilities 	FMN 	Schools 
+453.05000 	KVT826 	BM	127.3 PL	UatB Campus PD 	Campus Police 	FMN 	Law Dispatch 
+462.22500 	WPUT942 	RM	125 DPL	UB Shuttles 	FirstTransit - UB Shuttles  	FMN 	Schools 
+424.32500 	WPQF338 	RM	14 RAN	BSC Cleaning Stf 	Cleaning Staff 	NXDN 	Schools 
+424.27500 	WPQF338 	RM	13 RAN	BSC Maintenance 	Maintenance 	NXDN 	Schools 
+424.65000 	WPYQ452 	RM	115 DPL	BSC Maintenance 	Maintenance 	FMN 	Schools 
+469.73750 	WPMW759 	M		BSC Maintenance 	Maintenance 	FMN 	Schools 
+453.72500 	KNJC293 	RM	28 RAN	BSC Police 	Police 	NXDN 	Law Dispatch 
+461.67500 	WPOY233 	RM	107.2 PL	CanCol PD 	Police 	FMN 	Law Dispatch 
+461.78750 	WPOY233 	BM	464 DPL	Maintenance 	Maintenance 	FMN 	Schools 
+461.27500 	WQUU957 	RM	CC 1TG 5699SL 1	D'Youville Scrty 	Security 	DMR 	Security 
+461.65000 	WNPR845 	RM	210.7 PL	AkronCentral 	Akron Central School District 	FMN 	Schools 
+155.16000 	KDO277 	BM	172 DPL	Alden Ctr SD 	Alden Central School District 	FMN 	Schools 
+453.65000 	KLD671 	RM	88.5 PL	Buffalo/City 	City of Buffalo School District 	FMN 	Schools 
+462.00000 	 	BM	107.2 PL	ClarenceCtrl 	Clarence Central School District 	FMN 	Schools 
+462.15000 	 	BM		DepewPublic 	Depew School District (Public) 	FMN 	Schools 
+424.77500 	WNBQ576 	RM	100.0 PL	Eden Central 	Eden Central School District 	FMN 	Schools 
+154.74000 	KEA536 	B	254.1 PL	ECS- paging 	Enterprise Charter School - Paging System 	FMN 	Schools 
+461.53750 	 	RM	1 RAN	EC Sch Bus 	Erie County School Buses 	NXDN 	Schools 
+461.47500 	WPNY335 	BM		FirstStudent 	First Student - Buffalo 	FMN 	Schools 
+462.12500 	KNBZ910 	RM	110.9 PL	FirstStudent 	First Student - Buffalo 	FMN 	Schools 
+463.27500 	WPNY334 	BM	162.2 PL	FirstStudent 	First Student - Tonawanda 	FMN 	Schools 
+452.67500 	WNXS918 	BM		Fisher Bus 	Fisher Bus Service 	FMN 	Schools 
+47.58000 	KEE878 	BM		FrontierCtrl 	Frontier Central School District 	FM 	Schools 
+463.50000 	 	RM	88.5 PL	GI Central 	Grand Island Central School District 	FMN 	Schools 
+464.00000 	 	BM		Holland 	Holland School District 	FMN 	Schools 
+461.68750 	 	RM	2 RAN	IC SD Buses 	Iroquois Central School District Buses 	NXDN 	Schools 
+462.40000 	WPTR723 	RM		IC SD Sfty 	Iroquois Central School District Safety and Maintenance 	NXDN 	Schools 
+463.77500 	KNBU985 	RM	131.8 PL	KTUFSD 	Kenmore/ Town of Tonawanda Union Free School District 	FMN 	Schools 
+452.62500 	WQTE506 	RM	2 RAN	LCSD Buses 	Lancaster Central Schools - Buses 	NXDN 	Schools 
+155.22000 	KNCR989 	BM	423 DPL	OP Cntrl 	Orchard Park Central School District 	FMN 	Schools 
+461.47500 	 	RM	165 DPL	OPCSD Buses 	Orchard Park Central School District Buses 	FMN 	Schools 
+468.91250 	WQQF894 	M	26 RAN	OPCSD Ops 	Orchard Park Central School District Operations 	NXDN 	Schools 
+464.71250 	 	RM	1 RAN	SchBs464.712 	School Buses 	NXDN 	Schools 
+424.82500 	WPMG484 	RM	14 RAN	SchBus424.82 	School Buses (Tonawanda area) 	NXDN 	Schools 
+453.78750 	KEV438 	RM	CC 1TG 1100SL 1	SGCSD Buses 	Springville Griffith CSD Buses 	DMR 	Schools 
+464.97500 	KVY998 	BM	179.9 PL	Sweet Home 	Sweet Home Central School District 	FMN 	Schools 
+464.76250 	WQEX768 	BM		Tonawanda C 	Tonawanda City School District 	FMN 	Schools 
+462.42500 	WPVS401 	BM	411 DPL	TUFS Maint 	Tonawanda Union Free School - Maintenance 	FMN 	Schools 
+424.25000 	WNPS446 	RM	88.5 PL	W Seneca 	West Seneca School District 	FMN 	Schools 
+464.82500 	KNDU512 	RM	306 DPL	WCSD Buses 	Williamsville Central School District Buses 	FMN 	Schools 
+BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	Erie Community College	 DMR Conventional Networked	 Erie County	FM Communications (420 MHz)	 LTR Standard
+ Tonawanda	FM Communications (Buffalo 1)	 LTR Standard	 Buffalo	FM Communications (Buffalo 2)	 LTR Standard	 Buffalo	FM Communications (NEXEDGE)
+ NXDN NEXEDGE 9600	 Various	FM Communications (Tonawanda)	 LTR Standard	 Tonawanda	Ford Communications	 Motorola Type II Smartnet	 Buffalo
+General Motors (USA)	 DMR Motorola Connect Plus (TRBO)	 Various	Mobiletech Communications	 LTR Net	 Various	Niagara Frontier Transit Authority	 EDACS Standard
+ Buffalo	Roswell Park Cancer Institute	 NXDN Icom IDAS Type D	 Buffalo	Saia Communications (Buffalo)	 Motorola Type II Smartnet	 Buffalo	Saia Communications (Passport)
+ LTR Passport	 Various	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various	Seneca Nation of Indians	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Regional
+Seneca Resorts and Casinos	 NXDN NEXEDGE 9600	 Various	SolarCity (Tesla)	 DMR Tier 3	 Buffalo	

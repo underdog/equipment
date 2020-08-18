@@ -1,0 +1,105 @@
+484.48750 	 	BM	114.8 PL	SMCO SO SIMP 	Simplex Channel 	FM 	Law Talk 
+153.89000 	WQND954 	RM	114.8 PL	SMCFD Control 1A 	South Dispatch 	FMN 	Fire Dispatch 
+154.37000 	WQND954 	RM	114.8 PL	SMCFD Command 11 	South Command 	FMN 	Fire-Tac 
+154.04000 	 	M	118.8 PL	SMCFD Tac 15 	South Tactical 	FMN 	Fire-Tac 
+154.01000 	 	M	110.9 PL	SMCFD Tac 16 	South Tactical 	FMN 	Fire-Tac 
+155.40000 	 	M	141.3 PL	SMCFD Tac 17 	South Tactical 	FMN 	Fire-Tac 
+153.78500 	WQGU325 	RM	156.7 PL	SMCFD Control 2 	Central Dispatch 	FMN 	Fire Dispatch 
+153.95000 	WQGU325 	RM	114.8 PL	SMCFD Command 21 	Central Command 	FMN 	Fire-Tac 
+154.14500 	 	M	118.8 PL	SMCFD Tac 25 	Central Tactical 	FMN 	Fire-Tac 
+153.83000 	 	M	110.9 PL	SMCFD Tac 26 	Central Tactical 	FMN 	Fire-Tac 
+155.74500 	 	M	162.2 PL	SMCFD Tac 27 	Central Tactical 	FMN 	Fire-Tac 
+154.10000 	WQGS319 	RM	114.8 PL	SMCFD Control 3 	North Dispatch 	FMN 	Fire Dispatch 
+151.08500 	WQGS319 	RM	123.0 PL	SMCFD Command 31 	North Command 	FMN 	Fire-Tac 
+154.01000 	 	M	118.8 PL	SMCFD Tac 35 	North Tactical 	FMN 	Fire-Tac 
+154.04000 	 	M	162.2 PL	SMCFD Tac 36 	North Tactical 	FMN 	Fire-Tac 
+155.40000 	 	M	107.2 PL	SMCFD Tac 37 	North Tactical 	FMN 	Fire-Tac 
+154.34000 	WQHJ488 	RM	114.8 PL	SMCFD Control 1B 	Coast Dispatch (Half Moon Bay) 	FMN 	Fire Dispatch 
+154.14500 	WQHJ488 	RM	114.8 PL	SMCFD Control 1C 	Coast Dispatch (Pigeon Point) 	FMN 	Fire Dispatch 
+154.23500 	WQND954 	RM	114.8 PL	SMCFD Control 1D 	Coast Dispatch (La Honda) 	FMN 	Fire Dispatch 
+151.08500 	WQHJ488 	RM	114.8 PL	SMCFD Control 1E 	Coast Dispatch (Pescadero) 	FMN 	Fire Dispatch 
+155.89500 	WQHJ488 	RM	114.8 PL	SMCFD Command 41 	Coast Command 	FMN 	Fire-Tac 
+153.83000 	 	M	141.3 PL	SMCFD Tac 45 	Coast Tactical 	FMN 	Fire-Tac 
+154.44500 	 	M	146.2 PL	SMCFD Tac 46 	Coast Tactical 	FMN 	Fire-Tac 
+155.74500 	 	M	123.0 PL	SMCFD Tac 47 	Coast Tactical 	FMN 	Fire-Tac 
+151.47500 	 	RM	167.9 PL	SMCFD Command 51 	County Command 	FMN 	Fire-Tac 
+155.32500 	 	BM		SMCFD MDT 	MDT Countywide 	Telm 	Data 
+488.88750 	 	RM	114.8 PL	SMC Green 	Green County Wide 	FM 	Law Tac 
+488.86250 	WIG276 	RM	114.8 PL	SMC Tac 1 North 	Tac 1 North 	FM 	Law Tac 
+488.71250 	WIG279 	RM	114.8 PL	SMC Tac 2 Cent 	Tac 2 Central 	FM 	Law Tac 
+488.53750 	WIG281 	RM	114.8 PL	SMC Tac 3 South 	Tac 3 South 	FM 	Law Tac 
+151.01000 	KMK297 	RM	114.8 PL	SM VTac North 	San Mateo VTac North 	FMN 	Interop 
+151.01000 	KMK297 	RM	118.8 PL	SM VTac South 	San Mateo VTac South 	FMN 	Interop 
+489.08750 	KIA892 	RM	162.2 PL	Atherton PD 	Police Dispatch 	FM 	Law Dispatch 
+488.48750 	WII969 	RM	162.2 PL	Belmont PD1 	Police Dispatch 	FM 	Law Dispatch 
+483.08750 	WII969 	RM	162.2 PL	Belmont PD2 	Police Ch 2 	FM 	Law Tac 
+488.38750 	WII970 	RM	162.2 PL	Brisbane PD 	Police Dispatch 	FM 	Law Dispatch 
+490.87500 	WQCP497 	RM		Brisbane PW 	Public Works 	FM 	Public Works 
+482.56250 	WIJ914 	RM	114.8 PL	Broadmoor PD1 	Police Dispatch 	FM 	Law Dispatch 
+488.48750 	 	RM	114.8 PL	Broadmoor PD2 	Police Secondary 	FM 	Law Tac 
+489.08750 	WIK265 	RM	114.8 PL	Burlingame PD1 	Police Dispatch 	FM 	Law Dispatch 
+489.56250 	WPLS285 	RM	114.8 PL	Burlingame PD2 	Police Tactical 	FM 	Law Tac 
+151.11500 	WNQM897 	BM	100.0 PL	Burlingame PW 	Public Works 	FMN 	Public Works 
+490.91250 	WIM441 	RM	167.9 PL	Colma PD 	Police Dispatch 	FM 	Law Dispatch 
+488.93750 	WIJ213 	RM	162.2 PL	Daly City PD1 	Police Dispatch 	FM 	Law Dispatch 
+489.61250 	WIJ213 	RM	162.2 PL	Daly City PD2 	Police Tactical 	FM 	Law Tac 
+156.13500 	KNEC877 	RM	114.8 PL	Daly City PW 	Public Works 	FMN 	Public Works 
+453.55000 	WNUT423 	RM	118.8 PL	Daly City W/S 	Water and Sanitation 	FM 	Public Works 
+488.38750 	WIG280 	RM	114.8 PL	E Palo Alto PD 	Police Dispatch 	FM 	Law Dispatch 
+488.61250 	WIK320 	RM	162.2 PL	Foster City PD1 	Police Dispatch 	FM 	Law Dispatch 
+488.93750 	 	RM	114.8 PL	Foster City PD2 	Police Secondary 	FM 	Law Talk 
+488.33750 	WIM373 	RM	114.8 PL	Hillsborough PD1 	Police Dispatch 	FM 	Law Dispatch 
+484.86250 	WIM373 	RM	114.8 PL	Hillsborough PD2 	Police Secondary 	FM 	Law Tac 
+156.22500 	WPGA290 	RM	114.8 PL	Hillsborough PW 	Public Works 	FM 	Public Works 
+488.33750 	WIJ254 	RM	162.2 PL	Menlo Park PD 	Police Dispatch 	FM 	Law Dispatch 
+156.10500 	WNQN266 	BM	173.8 PL	Millbrae PW 	Public Works 	FMN 	Public Works 
+488.73750 	WIK372 	RM	162.2 PL	Pacifica PD 	Police Dispatch 	FM 	Law Dispatch 
+483.41250 	WII974 	RM	186.2 PL	Redwood City PD1 	Police Dispatch 	FM 	Law Dispatch 
+488.78750 	WII974 	RM	162.2 PL	Redwood City PD2 	Police Secondary 	FM 	Law Tac 
+484.48750 	WII974 	RM	173.8 PL	Redwood City PD3 	Police Tactical 	FM 	Law Tac 
+490.53750 	WIM449 	RM	167.9 PL	San Bruno PD 1 	Police 1 Dispatch 	FM 	Law Dispatch 
+488.78750 	WII975 	RM	114.8 PL	San Bruno PD 2 	Police 2 Secondary 	FM 	Law Tac 
+159.88500 	KNNG320 	BM	162.2 PL	San Bruno PW 	Public Works 	FM 	Public Works 
+488.31250 	KIA900 	RM	114.8 PL	San Mateo PD1 	Police Dispatch 	FM 	Law Dispatch 
+482.98750 	KIA900 	RM	114.8 PL	San Mateo PD2 	Police Tactical 	FM 	Law Tac 
+482.91250 	KIA900 	M	114.8 PL	San Mateo PD3 	Police Channel 3 	FM 	Law Talk 
+153.92000 	KMK564 	RM	114.8 PL	San Mateo PW 	Public Works 	FM 	Public Works 
+488.46250 	WII972 	RM	114.8 PL	S San Fran PD1 	Police Dispatch 	FM 	Law Dispatch 
+490.58750 	WIM762 	RM	114.8 PL	S San Fran PD2 	Police Secondary 	FM 	Law Tac 
+489.33750 	WPKA816 	RM	114.8 PL	S San Fran PD3 	Police Tac 	FM 	Law Tac 
+859.93750 	WNEE794 	RM	114.8 PL	S San Fran PW1 	Public Works 1 	FM 	Public Works 
+857.21250 	WPED554 	RM	114.8 PL	S San Fran PW2 	Public Works 2 	FM 	Public Works 
+464.37500 	KNEB804 	RM	100.0 PL	CSM SAFETY 	Public Safety 	FMN 	Law Dispatch 
+464.66250 	WPQB934 	RM	131.8 PL	Taylor MS 	Taylor Middle 	FM 	Schools 
+456.35000 	WNYH609 	M	210.7 PL	Aragon HS 	Aragon High - Operations 	FM 	Schools 
+466.98750 	WNYH609 	M	205 DPL	Mills HS 	Mills High - Security 	FM 	Schools 
+467.13750 	WNYH609 	M	205 DPL	Capuchino HS 	Capuchino High - Security 	FM 	Schools 
+469.85000 	WNYH609 	M		SMHS Ops/Sec 	San Mateo High School - Operations/Security 	FMN 	Security 
+464.70000 	WPXD675 	RM	432 DPL	SSFUSD Ops 	District Operations 	FM 	Schools 
+462.23750 	WPUE258 	RM	114 DPL	Westboro MS 	Westborough Middle 	FM 	Schools 
+462.33750 	WPUE258 	RM	94.8 PL	Parkway MS 	Parkway Heights Middle 	FM 	Schools 
+462.93750 	WPUE258 	RM	94.8 PL	Alta Loma MS 	Alta Loma Middle - Security 	FM 	Schools 
+464.03750 	WPUE258 	RM	146.2 PL	El Camino HS 	El Camino High - Security 	FM 	Schools 
+464.23750 	WPUE258 	RM	146.2 PL	SSF HS 	South San Francisco High - Security 	FM 	Schools 
+451.32500 	WQDS825 	RM	743 DPL	KDC Security 	Security 	FM 	Security 
+451.40000 	WQDS825 	RM	251 DPL	KDC Engineering 	Engineering 	FM 	Business 
+451.77500 	WQDS825 	RM	432 DPL	KDC ES 	Enviromental Services Buildings Ops 	FM 	Business 
+452.27500 	WQDS825 	RM	732 DPL	KDC Courier 	Courier Services 	FM 	Business 
+464.87500 	WNIN793 	RM	023 DPL	KSSF/SB Sec 	Security 	FM 	Security 
+461.80000 	WQDS825 		612 DPL	KSSF Courier 	Courier Services 	FM 	Business 
+462.30000 	WPPZ537 	RM	464 DPL	KSSF Engineering 	Engineering 	FM 	Business 
+464.52500 	 	RM	516 DPL	KSSF ES 	Enviromental Services Buildings Ops 	FM 	Business 
+453.55000 	WNPI545 	RM	123.0 PL	CHOPE Sec 	Security 	FM 	Security 
+453.72500 	WPGY268 	RM	114.8 PL	CHOPE Ops 	Facility Operations 	FM 	Business 
+853.53750 	WPSH605 	RM	CSQ	BART Conv BU 	Conventional Backup 	FM 	Transportation 
+483.18750 	KYC941 	RM	151.4 PL	Bus Ops N 	Bus Operations North 	FM 	Transportation 
+483.23750 	KYC941 	RM	023 DPL	Bus Ops S 	Bus Operations South 	FM 	Transportation 
+483.26250 	KYC941 	RM	151.4 PL	RediWheels 	Redi-Wheels (Paratransit) 	FM 	Transportation 
+483.28750 	KYC941 	RM	CSQ	Bus Data 	Bus Data 	FM 	Transportation 
+American Airlines (SFO)	 DMR Motorola Capacity Plus Single Site (TRBO)	 San Bruno	Bay Area Rapid Transit (BART)	 EDACS Standard	 Bay Area	California Radio Interoperable System (CRIS)	 Project 25 Phase I
+ Multiple	CALTrans (District 04 - South)	 Motorola Type II Smartnet	 None	Facebook	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Fisher Wireless (San Bruno Mtn.)
+ LTR Standard	 None	Lawrence Livermore National Laboratory	 Project 25 Phase I	 Livermore	Oracle Corporation	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	San Francisco County/City P25	 Project 25 Phase I	 San Francisco	San Mateo County	 Project 25 Phase I
+ Redwood City	Signature Flight Support	 LTR Standard	 San Mateo	Signature Wireless Group (Montara Ridge)	 LTR Standard	 Bay Area	Signature Wireless Group iDAS Multitrunk (Bay Area)
+ NXDN Icom IDAS Type D	 San Rafael	Silke Communications	 NXDN NEXEDGE 4800	 Northern California	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various
+United Airlines	 DMR Motorola Connect Plus (TRBO)	 Various	

@@ -1,0 +1,45 @@
+154.89000 	KUZ778 	RM	064 NAC	AngelinaSO D 	Sheriff Digital 	P25 	Law Dispatch 
+154.89000 	KUZ778 	RM	192.8 PL	AngelinaSO A 	Sheriff Analog 	FM 	Law Dispatch 
+156.03000 	KUZ778 	RM	064 NAC	AngelinaSO 2 	Sheriff Ch. 2 Secondary 	P25 	Law Tac 
+155.98000 	 	M	192.8 PL	ANGLNA SOTAC 	Sheriff Tactical 	FM 	Law Tac 
+155.01750 	WPXD268 	RM	192.8 PL	ANGLNA JAIL1 	Jail Primary 	FM 	Security 
+153.98750 	WPXD268 	M		ANGLNA JAIL2 	Jail Talkaround 	FM 	Security 
+154.01000 	WSL804 	RM	186.2 PL	ACFD PRIMARY 	County Fire Primary 	FMN 	Fire Dispatch 
+154.25000 	WSL804 	M		ACFD TACTICL 	County Fire Tactical 	FMN 	Fire-Tac 
+154.28000 	WSL804 	BM		TEXAS FIRE 1 	Statewide Mutual Aid 	FMN 	Interop 
+154.35500 	WQCT543 	BM	192.8 PL	Ora VFD/EMS 	Ora Volunteer Fire/EMS 	FMN 	Fire Dispatch 
+154.71000 	KUZ780 	RM	064 NAC	Luf PD Disp 	Lufkin Police Ch 1 Dispatch 	P25 	Law Dispatch 
+154.71000 	KUZ780 	RM	218.1 PL	Luf PD Ana 	Lufkin Police Ch 1 Dispatch (old) 	FM 	Law Dispatch 
+155.56500 	KUZ780 	M		LUFKIN PD 2 	Lufkin Police Ch. 2 Tactical 	FM 	Law Tac 
+154.95000 	KUZ780 	M	CSQ	TEXAS LAW 1 	Lufkin Police Ch. 3 Interoperability 	FM 	Interop 
+158.91000 	KUZ780 	RM	192.8 PL	LUFKIN PD 4 	Lufkin Police Ch. 4 Tactical 	FM 	Law Tac 
+155.88000 	KUZ780 	RM	192.8 PL	LUFKIN PD 5 	Lufkin Police Ch. 5 Talkaround 	FM 	Law Talk 
+155.42250 	KUZ780 	M		LUFK PD OPS 	Lufkin Police 	FM 	Law Tac 
+154.05500 	WQAH379 	RM	192.8 PL	LUFK PD CAR 	Lufkin Police Car to Car 	FM 	Law Talk 
+159.03000 	WQAH379 	M	CSQ	LPD TAC STAD 	Lufkin Police Stadium Security 	FM 	Law Tac 
+453.31250 	WQIA595 	BM		LPD Extender 	Lufkin Police Portable Extenders (many PLs/NACs) 	P25 	Other 
+154.44500 	WQT987 	RM	064 NAC	Lufkin FD Pr 	Lufkin Fire/EMS Primary 	P25 	Fire Dispatch 
+155.11500 	WPBV659 	RM	192.8 PL	LFKN STREETS 	Lufkin Streets Department 	FM 	Public Works 
+158.77500 	WPBV659 	RM	192.8 PL	LFKN PUBWRKS 	Lufkin Public Works 	FM 	Public Works 
+451.05000 	WPWL334 	RM		LUFK DATA 	Lufkin Public Works Data 	Telm 	Data 
+451.11250 	WPTE731 	RM		LUFK WAT DAT 	Lufkin Public Works Water Monitoring 	Telm 	Data 
+154.74000 	KUZ779 	RM	064 NAC	Dib PD Disp 	Diboll Police Dispatch 	P25 	Law Dispatch 
+154.74000 	KUZ779 	RM	203.5 PL	Dib PD Ana 	Diboll Police Dispatch (old) 	FM 	Law Dispatch 
+154.13000 	WPFC529 	RM	162.2 PL	Dib FD Prim 	Diboll Fire Primary 	FM 	Fire Dispatch 
+156.21000 	WNCA845 	RM	192.8 PL	HUNTINGTN PD 	Police Primary 	FM 	Law Dispatch 
+154.19000 	WPLG556 	BM		HUNTINGTN FD 	Fire Tactical 	FM 	Fire-Tac 
+151.79000 	WQEE428 	BM	167.9 PL	PHI MED 11 	PHI Air Med 11 Dispatch 	FM 	EMS Dispatch 
+155.28000 	KRS399 	BM		MEM MED CTR 	Lufkin EMS Calling 	FM 	Hospital 
+155.34000 	KRS399 	BM	CSQ	TEXAS MED 1 	EMS Interoperability 	FM 	Interop 
+155.40000 	WQBR924 	BM		WOODHGTS MED 	Hospital Security 	FM 	Hospital 
+155.26500 	KNCV370 	BM		DIBOLL ISD 	Diboll Middle/High School Radios 	FM 	Schools 
+461.25000 	WPFC935 	RM		DIBOLL ISD 	Diboll ISD Operations 	FM 	Schools 
+452.67500 	WPWX502 	RM	134 DPL	HUDSON ISD 	Hudson ISD Maintenance, Administration 	FM 	Schools 
+152.36000 	WPWJ673 	RM	203.5 PL	LUFKINISD PD 	Police Dispatch 	FM 	Law Dispatch 
+461.47500 	WPUW552 	RM	71.9 PL	LISD OPS 1 	Lufkin ISD 	FM 	Schools 
+463.47500 	WPUW552 	RM	71.9 PL	LISD OPS 2 	Lufkin ISD 	FM 	Schools 
+154.04000 	KNEQ269 	RM		DIBL HOUSING 	Diboll Housing Primary 	FM 	Other 
+451.27500 	WPMC533 	RM	311 DPL	HUDSON WATER 	Hudson Water Works 	FM 	Public Works 
+Angelina County Sheriff	 Project 25 Phase I	 Lufkin	Clear Call Communications	 LTR Standard	 Lufkin	DFW Communications	 LTR Standard
+ Various	DFW Communications (Lufkin)	 LTR Standard	 Lufkin	Entergy 	 Project 25 Phase II	 Various	Oncor Energy
+ EDACS Narrowband Networked	 Various	Sam Houston Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	

@@ -1,0 +1,70 @@
+154.08500 	WPEQ740 	RM	107.2 PL	SUMNER FIRE 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
+462.98750 	WQLF700 	RM	141.3 PL	SUMNER EMS 	EMS Dispatch -  	FMN 	EMS Dispatch 
+155.26500 	WPSE798 	BM	107.2 PL	SUMNER EMS PVT 	EMS - Private 	FMN 	EMS-Talk 
+453.85000 	KNGQ599 	RM	151.4 PL	SUMNER EMA 	EMA - Operations 	FMN 	Emergency Ops 
+460.30000 	WZX668 	RM	136.5 PL	SUMNER SO 1 	Sheriff's Department - Dispatch 	FMN 	Law Dispatch 
+460.07500 	WZX668 	RM	136.5 PL	SUMNER SO 2 	Sheriff's Department - Countywide Net 	FMN 	Law Tac 
+464.55000 	 	M	136.5 PL	SUMNER SO CRT 	Court Security 	FMN 	Security 
+460.40000 	WZX668 	RM		SUMNER UTNMA 	Sheriff's Department - Mutual Aid Net 	FMN 	Interop 
+453.52500 	KIM774 	RM	110.9 PL	SUMNER SO OPS 	Sheriff's Department - Operations 	FMN 	Law Tac 
+460.56250 	WZX668 	M		SUMNER SO EXT 	Sheriff's Department Extenders 	FMN 	Law Tac 
+462.73750 	 	RM	306 DPL	D-5 INTERCITY 	District 5 Intercity 	FMN 	Interop 
+467.76250 	 	M	136.5 PL	SCDC 1 	Sumner County Jail # 1 *Unlicensed* 	FMN 	Corrections 
+467.90000 	 	M	100.0 PL	SCDC 2 	Sumner County Jail # 2 *Unlicensed* 	FMN 	Corrections 
+453.95000 	WQFQ606 	RM	146.2 PL	SHACKLE ISLE FD 	Shackle Island Fire 	FMN 	Fire Dispatch 
+458.62500 	WQFQ606 	M	146.2 PL	SIFD-TAC 	Shackle Island Fire Tactical 	FMN 	Fire-Tac 
+154.86000 	WQBH652 	RM	107.2 PL	SCFD-DISP 	Southeast Community Fire Department 	FMN 	Fire Dispatch 
+155.20500 	KNEJ989 	BM	CSQ	State EMS 	State EMS / LifeFlight Coordination 	FMN 	Interop 
+155.34000 	KNEJ989 	M		H.E.A.R. 	H.E.A.R. (Ambulance to Hospital / Patient Reports) 	FMN 	Hospital 
+461.60000 	 	RM	162.2 PL	MEDIC ONE EMS 	Medic One EMS - Operations *Unlicensed* 	FMN 	EMS Dispatch 
+453.52500 	KIM774 	RM	110.9 PL	Sumner Roads 	Road Department 	FMN 	Public Works 
+453.57500 	KNJL924 	RM	110.9 PL	SUMNER SCHOOLS 	Schools - Buses 	FMN 	Schools 
+461.98750 	WQOG410 	RM	703 DPL	Gallatin HS 	Schools - Gallatin High School (Administration and Staff) 	FMN 	Schools 
+464.03750 	WQJX276 	RM	627 DPL	BEECH HS 	Beech High School 	FMN 	Schools 
+464.12500 	WPJM725 	RM	131.8 PL	SRMC SECURITY 	Sumner County Regional Medical Center - Security  	FMN 	Hospital 
+460.47500 	WQY297 	RM	293 NAC	GPD DISP 1 	Police - Dispatch 	P25 	Law Dispatch 
+453.47500 	WPEY675 	RM	295 NAC	GPD OPS 2 	Police - Operations 	P25E 	Law Tac 
+460.27500 	KD21277 	RM		GPD SWAT 	Police - SWAT 	P25E 	Law Tac 
+460.03750 	WQY297 	RM	283 NAC	GFD DISP 1 	Fire 1 - Dispatch 	P25 	Fire Dispatch 
+453.15000 	WQY297 	RM	285 NAC	GFD OPS 2 	Fire 2 - Operations 	P25 	Fire-Tac 
+453.78750 	WPNU570 	RM	CC 1TG *SL 1	GHA-OPS 	Housing Authority Primary 	DMR 	Other 
+463.36250 	 	BM	331 DPL	SCHS OPS 	Station Camp High School 	FMN 	Schools 
+151.10000 	WPEU869 	RM	103.5 PL	GALLATIN PW 	Public Works 	FMN 	Public Works 
+153.69500 	KJQ369 	RM	CC 7TG 1SL 2	GLTN-ELECT 	Electric Department 	DMR 	Utilities 
+453.67500 	KYU718 	RM	136.5 PL	HPD ANALOG 	Police - Analog Operations 	FMN 	Law Tac 
+460.02500 	KYU718 	RM	CC 7TG 1SL 1	HPD OPS 1A 	Police - Ops 1A 	DMR 	Law Dispatch 
+460.02500 	KYU718 	RM	CC 7TG 1SL 2	HPD OPS 1B 	Police - Ops 1B 	DMR 	Law Dispatch 
+453.67500 	KYU718 	RM	CC 7TG 1SL 1	HPD OPS 2A 	Police - Ops 2A 	DMR 	Law Tac 
+453.67500 	KYU718 	RM	CC 7TG 1SL 2	HPD OPS 2B 	Police - Ops 2B 	DMR 	Law Tac 
+460.25000 	KYU718 	M	CC 7TG 1SL 1	HPD OPS 3 	Police - Ops 3 	DMR 	Law Tac 
+462.73750 	 	RM	306 DPL	HVL D5-IC 	Hendersonville access to District 5 Intercity 	FMN 	Interop 
+855.98750 	WQHP836 	RM	186.2 PL	HFD-DISP 	Fire and EMS - Dispatch 	FMN 	Fire Dispatch 
+853.43750 	WPQA307 	RM	186.2 PL	HFD-TA/FG 1N 	Fire - Talkaround/Fireground 1 - North 	FMN 	Fire-Tac 
+854.51250 	WPQA307 	RM	107.2 PL	HFD-TA/FG 2S 	Fire - Talkaround/Fireground 2 - South 	FMN 	Fire-Tac 
+461.65000 	WPEM789 	RM	186.2 PL	NUMBER 1 VFD 	Number One Volunteer Fire Department 	FMN 	Fire Dispatch 
+463.86250 	WQNN882 	RM	271 DPL	HVL HOPS SEC 	Hendersonville Hospital - Security 	FMN 	Hospital 
+461.71250 	 	RM	110.9 PL	HHS ADMIN 	Hendersonville High School Administration 	FMN 	Schools 
+453.82500 	WPMJ275 	RM	136.5 PL	MllrsvlPD1 	Police Department - Dispatch 	FMN 	Law Dispatch 
+452.65000 	WPMJ275 	RM	100.0 PL	MllrsvlFDUHF 	Fire Department 	FMN 	Fire Dispatch 
+453.75000 	KNIV993 	RM	606 DPL	Portland PD 	Portland Police Department 	FMN 	Law Dispatch 
+460.12500 	KNIV993 	RM	136.5 PL	PORTLAND PD 1 	Police Department - Dispatch 	FMN 	Law Dispatch 
+453.28750 	 	M	186.2 PL	PORTLAND PD 24 	Portland PD - Channel 24 	FMN 	Law Dispatch 
+154.20500 	WQYX223 	RM	107.2 PL	PORTLAND FD 	Fire Department - Dispatch 	FMN 	Fire Dispatch 
+463.36250 	 	BM	306 DPL	PHS OPS 	Portland High School 	FMN 	Schools 
+155.81250 	WPWC754 	BM		WATER 	Water Department Data  	Telm 	Data 
+460.45000 	WQPK719 	RM	167.9 PL	WstmlndPD1Ds 	Police Department - Dispatch 	FMN 	Law Dispatch 
+462.55000 	 	RM	156.7 PL	WstmlndPD7Ta 	Police Department - Tactical *Unlicensed* 	FM 	Law Tac 
+155.76750 	WQBS602 	RM	226 DPL	WstmlndFD1 	Fire Department / EMA 	FMN 	Fire Dispatch 
+462.10000 	 	RM	136.5 PL	WstmlndPWks 	Public Works *Unlicensed* 	FM 	Public Works 
+461.02500 	 	BM	306 DPL	WHS OPS 	Westmoreland High School 	FMN 	Schools 
+461.70000 	WQOY553 	RM	110.9 PL	VSCC PD  	Campus Police  	FMN 	Law Dispatch 
+154.96500 	KNCN360 	RM	141.3 PL	VSCC SEC 	Security 	FMN 	Security 
+462.32500 	WQOY553 	RM	141.3 PL	VSCC OPS  	Campus Operations  	FMN 	Schools 
+452.12500 	WQOY553 	M		VSCC HT 1 	Campus Operations HT's 	FMN 	Schools 
+461.66250 	WQOY553 	M		VSCC HT 2 	Campus Operations HT's 	FMN 	Schools 
+461.76250 	WQOY553 	M		VSCC HT 3 	Campus Operations HT's 	FMN 	Schools 
+463.33750 	WQOY553 	M		VSCC HT 4 	Campus Operations HT's 	FMN 	Schools 
+464.77500 	WQOY553 	M		VSCC HT 5 	Campus Operations HT's 	FMN 	Schools 
+123.05000 	 	BM		CTAF/UNICOM 	CTAF/UNICOM 	AM 	Aircraft 
+GAP Inc - Gallatin RDC	 LTR Standard	 Gallatin	Sumner County Public Safety	 Project 25 Phase II	 Gallatin	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II
+ Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	Tennessee Valley Authority	 Project 25 Phase I	 Various	

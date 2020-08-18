@@ -1,0 +1,64 @@
+851.40000 	WQCI900 	M		Tulsa  Co SO TAC 	Sheriff Tactical (Encrypted) 	P25E 	Law Tac 
+155.07000 	KKE586 	RM	026 DPL	Tulsa Co SO Cars 	Sheriff Car to Car (Low Band) 	FM 	Law Tac 
+153.75500 	KOM498 	RM	88.5 PL	Tulsa Co EM 	TAEMA Dispatch 	FMN 	Emergency Ops 
+146.83500 	WT5EOC 	RM	103.5 PL	TAEMA 146.835 	TAEMA Amateur Repeater -- Analog 	FM 	Ham 
+146.83500 	WT5EOC 	RM		TAEMA 146.835 Dg 	TAEMA Amateur Repeater -- Digital 	YSF 	Ham 
+854.96250 	WPIZ622 	M	143 DPL	Tulsa PD Car-Car 	Police Car-to-Car 	FM 	Law Tac 
+856.73750 	WPRI776 	RM	143 DPL	TulsaPD Tactical 	Police -- Encrypted  (Digital and Analog) 	FME 	Law Tac 
+460.07500 	WQBD649 	M		Tulsa PD Robot 	Police -- Bomb Robot 	FM 	Data 
+857.73750 	WPRI776 	B		Tulsa Fire DROP 	DROP Data to Fire Stations 	Telm 	Data 
+453.67500 	KNGE465 	RM	173.8 PL	TulsaWarning 	Tornado/Flash Flood sirens 	FMN 	Emergency Ops 
+452.15000 	WQBZ960 	RM	CC 10TG 1SL 1	Tulsa City Buses 	City Bus Dispatch 	DMR 	Transportation 
+452.30000 	WQBZ960 	RM		Tulsa Buses  	City Buses 	DMR 	Transportation 
+452.80000 	WQBZ960 	RM		Tulsa Buses 	City Buses 	DMR 	Transportation 
+470.05000 	 	M	CSQ	Tulsa ArtsCenter 	Chapman Music Hall backstage communications 	FM 	Public Works 
+463.10000 	WYZ245 	RM	162.2 PL	EMSA Disptch 	EMSA Ch 5 (Dispatch before OKWIN) 	FMN 	EMS-Tac 
+463.00000 	WYZ245 	RM	162.2 PL	EMSA 1 	EMSA Ch 1 	FMN 	EMS-Tac 
+463.02500 	WYZ245 	RM	162.2 PL	EMSA 2 	EMSA Ch 2 	FMN 	EMS-Tac 
+463.05000 	WYZ245 	RM	162.2 PL	EMSA 3 	EMSA Ch 3 	FMN 	EMS-Tac 
+463.07500 	WYZ245 	RM	162.2 PL	EMSA 4 	EMSA Ch 4 	FMN 	EMS-Tac 
+463.12500 	WYZ245 	RM	162.2 PL	EMSA 6 	EMSA Ch 6 	FMN 	EMS-Tac 
+463.15000 	WYZ245 	RM	162.2 PL	EMSA 7 	EMSA Ch 7 	FMN 	EMS-Tac 
+463.17500 	WYZ245 	RM	162.2 PL	EMSA 8 	EMSA Ch 8 	FMN 	EMS-Tac 
+855.73750 	WPRW880 	BM		EMSA MDT's 	Ambulance Mobile Data Terminals 	Telm 	Data 
+151.44500 	WPIV231 	RM	123.0 PL	Glenpool EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+462.95000 	WZY371 	RM	162.2 PL	Life Flight 	Medical Helicopters 	FMN 	EMS Dispatch 
+123.02500 	 	BM	CSQ	MedHelicoptr 	Medical Helicopters -- Air to Air 	AM 	Aircraft 
+159.50250 	WPYQ819 	BM	032 DPL	AirEvac-Tuls 	Air Evac -- Tulsa Tower 	FMN 	EMS Dispatch 
+123.02500 	 	BM	CSQ	MedHelicoptr 	Medical Helicopters -- air to air 	AM 	Aircraft 
+453.52500 	WNJJ368 	BM	131.8 PL	Broken Arrow EM 	Emergency Management 	FMN 	Emergency Ops 
+146.91000 	W5BBS 	RM	88.5 PL	BA SkyWarn VHF 	Severe Weather Spotters 	FM 	Ham 
+453.95000 	WZX392 	RM	162.2 PL	BrokenArrowSiren 	Storm Siren Activation 	FMN 	Emergency Ops 
+154.71000 	KTB256 	RM	218.1 PL	Collinsville PD 	Police (Dispatch before OKWIN) 	FMN 	Law Dispatch 
+155.58000 	 	M	CSQ	Collinsville PD2 	Police Car to Car 	FMN 	Law Tac 
+155.05500 	WQGQ680 	RM	131.8 PL	CollinsvilleFire 	Fire and EMS (Dispatch before OKWIN) 	FMN 	Fire Dispatch 
+154.23500 	WNDP694 	RM	167.9 PL	Collinsville VFD 	Rural Fire Dispatch 	FMN 	Fire Dispatch 
+155.20500 	KNCH632 	BM		Collinsville EM 	Emergency Management 	FMN 	Emergency Ops 
+158.79000 	WPKP998 	RM	192.8 PL	Glenpool Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+151.44500 	WPIV231 	RM	123.0 PL	Mercy EMS 	Mercy EMS Dispatch 	FMN 	EMS Dispatch 
+460.30000 	WNQE895 	RM	192.8 PL	Jenks Aquarium 	Oklahoma Aquarium / Storm Siren Control 	FMN 	Emergency Ops 
+460.17500 	WNQE895 	RM	192.8 PL	Jenks Public Wks 	Public Works 	FMN 	Public Works 
+155.77500 	KRE253 	BM		Owasso Police 	Police Car to Car 	FMN 	Law Dispatch 
+857.23750 	WQHY216 	RM	143 DPL	Sand Springs PD 	Police Dispatch A -- Linked to OKWIN 	FM 	Law Dispatch 
+856.23750 	WQHY216 	RM	143 DPL	Sand Springs FD 	Fire Dispatch A -- Linked to OKWIN 	FM 	Fire Dispatch 
+854.96250 	WPIZ622 	RM	143 DPL	Sand Springs  FD 	Fire Fireground 	FM 	Fire-Tac 
+154.07000 	KB73900 	B		SSprings FD DROP 	Fire -- DROP link to Fire Stations 	Telm 	Data 
+155.88000 	KNAK484 	RM	074 DPL	Sand Springs  PW 	Public Works 	FMN 	Public Works 
+155.25000 	KLV994 	RM	141.3 PL	Skiatook Police 	Police Dispatch 	FMN 	Law Dispatch 
+154.32500 	WPMB579 	RM	141.3 PL	Skiatook Fire 	Fire Tone Out 	FMN 	Fire Dispatch 
+155.71500 	KAQ454 	BM	CSQ	Skiatook Pub Wks 	Public Works 	FMN 	Public Works 
+153.93500 	WPWE812 	BM	CSQ	Sperry Fire 	Fire Dispatch 	FM 	Fire Dispatch 
+166.27500 	 	RM	127.3 PL	Creek Tribal PD 	Lighthorse Tribal Police 	FM 	Law Dispatch 
+155.29500 	KSJ286 	RM	205 DPL	Keystone Fire 	Keystone Fire (Linked to OKWIN) 	FMN 	Fire Dispatch 
+154.31000 	WNPU585 	RM		Liberty Fire 	Liberty Fire 	DMR 	Fire Dispatch 
+154.28000 	WXY398 	BM	CSQ	Turley Fire 	Turley Fire Dispatch (Page Out) 	FMN 	Fire Dispatch 
+Action Communications	 NXDN NEXEDGE 9600	 Various	American Electric Power (AEP)	 EDACS Networked Standard	 Various	Bank of Oklahoma Center	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Tulsa	Bixby Public Schools	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Bixby	Chickasaw Personal Communications	 DMR Motorola Connect Plus (TRBO)	 Oklahoma	Commercial Electronics Consulting
+ LTR Standard	 Tulsa	Hard Rock Hotel and Casino	 DMR Motorola Capacity Plus Single Site (TRBO)	 Catoosa	HollyFrontier -- Tulsa Refinery	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Tulsa
+KAMO Power	 NXDN NEXEDGE 4800	 Various	Kimberly Clark Paper	 DMR Motorola Capacity Plus Single Site (TRBO)	 Jenks	Mid-Continent Concrete	 LTR Standard
+ Tulsa	Oklahoma Wireless Interoperability Network (OKWIN) (Motorola)	 Motorola Type II SmartZone	 Various	River Spirit Casino	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tulsa	Saint Francis Hospital
+ DMR Motorola Capacity Plus Multi Site (TRBO)	 Tulsa	Saint John Medical System	 DMR Conventional Networked	 Tulsa	TalkRadio -- Tulsa Downtown	 LTR Standard	 Tulsa
+TalkRadio -- Tulsa South	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tulsa	TalkRadio --Tulsa	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tulsa	TalkRadio Oklahoma	 DMR Motorola Connect Plus (TRBO)
+ Oklahoma City	The Gathering Place	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tulsa	Total Radio -- South Tulsa	 LTR Standard	 Tulsa	Total Radio -- Tulsa DMR
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Tulsa	Tulsa Public Schools	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tulsa	Tulsa Technology Center	 DMR Motorola Connect Plus (TRBO)	 Tulsa
+Union Public Schools	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Tulsa	

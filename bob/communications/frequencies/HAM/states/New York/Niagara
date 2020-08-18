@@ -1,0 +1,37 @@
+425.46250 	WQCC455 	BM	179.9 PL	NC FD Dispatch 	Dispatch 	FMN 	Fire Dispatch 
+425.31250 	WQCB737 	M	152 DPL	NC FD Ops 1 	Operations 1 Mutual Aid 	FMN 	Fire-Tac 
+425.33750 	WQCB737 	M	174 DPL	NC FD Ops 2 	Operations 2 Mutual Aid 	FMN 	Fire-Tac 
+425.36250 	WQCB737 	M	223 DPL	NC FD Ops 3 	Operations 3 Mutual Aid 	FMN 	Fire-Tac 
+425.38750 	WQCB737 	M	343 DPL	NC FD Ops 4 	Operations 4 Mutual Aid 	FMN 	Fire-Tac 
+425.28750 	WQCB737 	M	051 DPL	NC FD Ops 5 	Operations 5 Mutual Aid 	FMN 	Fire-Tac 
+425.26250 	WQCB737 	M	051 DPL	NC FD EMS/AIR 	EMS/AIR Operations 	FMN 	EMS-Tac 
+425.43750 	WQCB737 	M	465 DPL	NC FD FirePolice 	Fire Police Backup 	FMN 	Fire-Talk 
+423.83750 	WQCC455 	RM	125 DPL	NC FDTraining 	Fire Training Backup 	FMN 	Fire-Talk 
+423.86250 	WQCC454 	RM	662 DPL	NC VFD 	Volunteer Fire Department Backup 	FMN 	Fire-Tac 
+463.16250 	WNMV744 	RM	5 RAN	TCA Dispatch 	Twin City Ambulance Dispatch 	NXDN 	EMS Dispatch 
+423.88750 	WQCC455 	RM	CC 1TG 1SL 1	Niagara PH 	Public Health 	DMR 	Public Works 
+156.16500 	KEJ701 	RM	141.3 PL	Hartland Hwy 	Highway Department 	FMN 	Public Works 
+33.02000 	KFT467 	B	151.4 PL	Lewiston Hwy 	Highway Dept. 	FM 	Public Works 
+155.14500 	KBP606 	B		Lockport DPW 	Public Works 	FMN 	Public Works 
+154.10000 	WPSH528 	B	CSQ	NiagTwn DPW 	Public Works 	FMN 	Public Works 
+460.37500 	KEB331 	RM	151.4 PL	NFPD Disp 	City Police - Dispatch 	FMN 	Law Dispatch 
+460.12500 	KEB331 	RM	151.4 PL	NFPD 2 	City Police - Ch. 2 	FMN 	Law Tac 
+460.57500 	KEB637 	RM	151.4 PL	NFFD Dsp 	City Fire - Dispatch 	FMN 	Fire Dispatch 
+460.52500 	KEB637 	RM	151.4 PL	NFFD FG 	City Fire - Fireground 	FMN 	Fire Dispatch 
+155.82000 	KEI606 	B	151.4 PL	NiagaraFalls 	City of Niagara Falls 	FMN 	Public Works 
+158.76000 	KEJ587 	B	151.4 PL	NF DPW 	Public Works 	FMN 	Public Works 
+424.00000 	WNYT350 	RM	192.8 PL	Royalton DPW 	Public Works 	FMN 	Public Works 
+424.33750 	WQCC455 	RM	125 DPL	Tusc Ntn FD 	Fire Department 	FMN 	Fire Dispatch 
+154.10000 	WPSH528 	B		Wheatfield DPW 	Public Works 	FMN 	Public Works 
+463.35000 	WQTY742 	RM	12 RAN	LPCSD Buses 	Lewiston-Porter CSD Buses 	NXDN 	Schools 
+154.51500 	KVG398 	BM	85.4 PL	NCC  	Niagara Community College 	FMN 	Schools 
+461.02500 	WPGY566 	RM	123.0 PL	Niag University 	Niagara University 	FMN 	Schools 
+164.60000 	 			US Marshals 	US Marshals - Niagara Falls 	P25 	Federal 
+165.23750 	 	RM		CBP D-Net 47 	Customs and Border Protection - D-Net 47 	P25 	Federal 
+165.43750 	 	RM	301 NAC	CBP Lewiston 	Customs and Border Protection - Lewiston Bridge 	P25 	Federal 
+BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	FM Communications (NEXEDGE)	 NXDN NEXEDGE 9600	 Various	FM Communications (Niagara Falls 420 MHz)	 LTR Standard
+ Niagara Falls	FM Communications (Niagara Falls 450 MHz)	 LTR Standard	 Niagara Falls	Mobiletech Communications	 LTR Net	 Various	New York Power Authority
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Lewiston	Niagara County Public Safety System	 Project 25 Phase I	 Niagara County	Niagara Frontier Transit Authority	 EDACS Standard	 Buffalo
+Niagara University	 LTR Standard	 Lewiston	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various	Seneca Nation of Indians	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ Regional	Seneca Niagara Casino and Hotel	 NXDN NEXEDGE 9600	 Niagara Falls	Seneca Resorts and Casinos	 NXDN NEXEDGE 9600	 Various	United States Air Force (3D6)
+ Project 25 Phase I	 Various	

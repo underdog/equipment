@@ -1,0 +1,50 @@
+154.23500 	WPFZ375 	RM	94.8 PL	POPE FIRE 1 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.28000 	WNJE671 	BM		POPE FD MA 	Fire - Mutual Aid 	FMN 	Interop 
+154.41500 	WNJE671 	RM		POPE FD HTLY 	Fire - Hatley Rural Fire Department 	FMN 	Fire-Tac 
+154.44500 	WQPK249 	BM		POPE CRW FD 	Fire - Crow Mountain Rural Fire Department *Analog* 	FMN 	Fire-Tac 
+154.44500 	WQPK249 	BM		PC-CRWFD NX 	Fire - Crow Mountain Rural Fire Department *Digital* 	NXDN 	Fire-Tac 
+453.31250 	WQCB296 	RM	023 DPL	POPE--JFD 	Fire - Jerusalem Fire Department 	FMN 	Fire-Tac 
+158.81250 	WQCC0965 	RM	074 DPL	Appleton RFD 	Fire - Appleton Rural Fire Department 	FMN 	Fire-Tac 
+154.02500 	KNIK636 	RM	94.8 PL	POPE EMS 	EMS Main (Also on 462.97500 MED 10, and  AWIN 42860 ) 	FMN 	EMS Dispatch 
+153.78500 	WPHK535 	M		POPE EMS 20 	EMS Signal 20 	FMN 	EMS Dispatch 
+158.74500 	WPHK535 	BM		POPE EMS 30 	EMS Signal 30 	FMN 	EMS Dispatch 
+155.82000 	 	BM	94.8 PL	POPE EMS MTR 	EMS Metro 	FMN 	EMS Dispatch 
+155.34000 	WPQX817 	BM		EMS-SMRMC 	EMS to St. Mary's Regional Medical Center (HEAR) 	FMN 	Hospital 
+154.86000 	WPYK404 	RM	94.8 PL	POPE SO MT 	Sheriff - Dispatch: Mt. Nebo 	FMN 	Law Talk 
+155.70000 	WPKY404 	RM	107.2 PL	POPE SO WHT 	Sheriff - Dispatch: White Oak 	FMN 	Law Talk 
+155.79000 	WPYK404 	M	186.2 PL	POPE SO CAR 	Sheriff - Car to Car 	FMN 	Law Talk 
+458.92500 	WPKY404 	M		PCSO-EXTNDR 	Sheriff - Mobile Repeaters 	FMN 	Law Talk 
+155.37000 	 	M		POPE SO 12 	Sheriff - Private 	FMN 	Law Talk 
+159.21000 	 	M		POPE SO 13 	Sheriff - Private 	FMN 	Law Talk 
+153.38500 	 	M		POPE SO PVT 	Sheriff - Private 	FMN 	Law Talk 
+154.98000 	WPMS256 	M	CC 1TG *SL 1	PopeCo911OEM 	911/Office of Emergency Management 	DMR 	Emergency Ops 
+158.83500 	 	M		POPE SO TAC 	Sheriff - Tactical 	FMN 	Law Talk 
+452.45000 	WPRK282 	RM	107.2 PL	POPE DET CTR 	Detention Center 	FMN 	Law Talk 
+153.54000 	 	M		POPE TALK 	Pope County Talk-Around 	FMN 	Law Talk 
+453.95000 	WQFK888 	BM	107.2 PL	PC Det Ctr 	Detention Center 	FMN 	Corrections 
+158.82750 	WNUA997 	RM	85.4 PL	ATKINS VFD MTON 	Volunteer Fire Department - Morrilton Repeater 	FMN 	Fire Dispatch 
+154.38500 	WNUA997 	RM	CC 1TG 2201SL 1	ATKINS VFD ATKN 	Volunteer Fire Department - Atkins Repeater 	DMR 	Fire Dispatch 
+151.53500 	 	BM	CC 3TG *SL *	Atkins SD Buses 	Atkins School District - Buses 	DMR 	Schools 
+153.96500 	KNAS842 	BM		9 	Police  	FMN 	Law Talk 
+155.11500 	 			LONDON FD 	Rural Fire Department (Unliscensed) 	FM 	Fire Dispatch 
+155.54500 	 			LONDON PD 1 	Police (Unliscensed) 	FM 	Law Talk 
+155.53500 	WNFG746 	BM		LONDON PD 6 	Police 	FMN 	Law Talk 
+155.55750 	WQMB701 	RM	025 DPL	PVFD OPS 	Volunteer Fire Department 	FMN 	Fire Dispatch 
+452.02500 	WPSS920 	BM	127.3 PL	PTTSVLLE SCH 	Pottsville School District - Buses 	FM 	Schools 
+153.94250 	WQMB701 	BM		PTTSVL 2 	Services *New System* 	FMN 	Multi-Dispatch 
+154.76250 	WQMB701 	BM		PTTSVL 3 	Services *New System* 	FMN 	Multi-Dispatch 
+155.57250 	WQMB701 	BM		PTTSVL 4 	Services *New System* 	FMN 	Multi-Dispatch 
+154.31000 	WQL500 	BM	107.2 PL	RSSLVLL FD 	Fire Main 	FM 	Fire Dispatch 
+460.35000 	WPKF752 	RM	023 DPL	RSSLVLL STS 	Street Department 	FM 	Public Works 
+464.95000 	KME287 	RM	110.9 PL	RSSLVLL SCH1 	Russellville School Bus 	FM 	Schools 
+451.25000 	KME287 	BM	662 DPL	RSSLVLL SCH2 	Jr. High School 	FM 	Schools 
+452.75000 	KME287 	RM		RSSLVLL SCH3 	Russellville School District 	FM 	Schools 
+460.45000 	WPME801 	RM	662 DPL	RSSLVLL DATA 	Digital Data / SRT T/A 	FM 	Data 
+866.01250 	 	RM	156.7 PL	RSSLVLL EMGC 	Emergency Calling  	FM 	Interop 
+866.51250 	 	RM	156.7 PL	RSSLVLL MA 1 	Mutual Aid Tactical Ops 1  	FM 	Interop 
+867.01250 	 	RM	156.7 PL	RSSLVLL MA 2 	Mutual Aid Tactical Ops 2 	FM 	Interop 
+867.51250 	 	RM	156.7 PL	RSSLVLL MA 3 	Mutual Aid Tactical Ops 3 	FM 	Interop 
+868.01250 	 	RM	156.7 PL	RSSLVLL MA 4 	Mutual Aid Tactical Ops 4 	FM 	Interop 
+461.35000 	 	BM	712 DPL	Hector Schools 	Schools 	FMN 	Schools 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
+ Various	

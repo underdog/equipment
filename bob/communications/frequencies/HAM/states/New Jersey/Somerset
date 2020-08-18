@@ -1,0 +1,79 @@
+453.38750 	WPED312 	RM	131.8 PL	SC Jail 	Somerset Co Jail Operations 	FMN 	Corrections 
+453.48750 	WPED312 	RM	293 NAC	SC Courts 	Somerset Co Courthouse Security 	P25 	Security 
+470.13750 	WQBL360 	BM	167.9 PL	CW Alerting 	Countywide Fire/EMS Alerting 	FMN 	Fire Dispatch 
+506.98750 	WIL894 	RM	100.0 PL	FD Disp N 	North County Dispatch 	FMN 	Fire Dispatch 
+154.31000 	KRW393 	BM	100.0 PL	FD Disp S 	South County Dispatch 	FMN 	Fire Dispatch 
+155.23500 	WPUE516  	BM	100.0 PL	SC JEMS 1 	County EMS Dispatch 	FMN 	EMS Dispatch 
+155.29500 	 	BM	100.0 PL	EMSMob 	EMS Mobilization 	FMN 	EMS-Tac 
+155.31000 	KCQ249  	BM	100.0 PL	SCMunEMSDisp 	Municipal EMS Dispatch 	FMN 	EMS-Tac 
+472.38750 	WIK392 	RM	167.9 PL	PS Backup 1 	Public Safety Backup 1 	FMN 	Multi-Tac 
+472.41250 	WIK392 	RM	167.9 PL	PS Backup 2 	Public Safety Backup 2 	FMN 	Multi-Tac 
+477.45000 	WIK392 	RM	167.9 PL	PS Backup 3 	Public Safety Backup 3 	FMN 	Multi-Tac 
+477.77500 	WIK392 	RM	167.9 PL	PS Backup 4 	Public Safety Backup 4 	FMN 	Multi-Tac 
+500.32500 	WPVM588 	RM	167.9 PL	PS Backup 5 	Public Safety Backup 5 	FMN 	Multi-Tac 
+473.02500 	WQBL367 	M	131.8 PL	PS Tactical 1 	Public Safety Tactical 1 	FMN 	Multi-Tac 
+473.20000 	WQBL367 	M	131.8 PL	PS Tactical 2 	Public Safety Tactical 2 	FMN 	Multi-Tac 
+473.22500 	WQBL367 	M	131.8 PL	PS Tactical 3 	Public Safety Tactical 3 	FMN 	Multi-Tac 
+479.11250 	WQBL367 	M	131.8 PL	PS Tactical 4 	Public Safety Tactical 4 	FMN 	Multi-Tac 
+479.23750 	WQBL367 	M	131.8 PL	PS Tactical 5 	Public Safety Tactical 5 	FMN 	Multi-Tac 
+479.28750 	WQBL367 	M	131.8 PL	PS Tactical 6 	Public Safety Tactical 6 	FMN 	Multi-Tac 
+45.72000 	KEF500 	BM	127.3 PL	Co Garage 	County Garage 	FM 	Public Works 
+506.31250 	WIL894 	RM	100.0 PL	PD Disp 	Simulcast - PD Region 1 Somerset P25 System 	FMN 	Law Dispatch 
+154.41500 	WPQG836 	RM	203.5 PL	FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.59500 	 	M	118.8 PL	FD 2 FG 	Basking Ridge Fireground 	FMN 	Fire-Tac 
+154.01000 	WPQG836 	M	162.2 PL	FD FG / S40 	Liberty Corner Fireground 	FMN 	Fire-Tac 
+46.54000 	KIZ342 	BM	118.8 PL	DPW 	Public Works 	FM 	Public Works 
+39.64000 	KNGB789 	BM	114.8 PL	Ch 1 	Police Dispatch 	FM 	Law Dispatch 
+39.94000 	KNGB789 	BM	114.8 PL	Ch 2 	Police Tactical 	FM 	Law Tac 
+151.28000 	WPKT631 	RM	732 DPL	PD 1   	Police (Local/Backup) 	FMN 	Law Tac 
+155.31000 	KEB685 	BM	162.2 PL	PD 2 TAC 	Police Tactical 	FMN 	Law Tac 
+155.11500 	 	RM	115 DPL	PD 3/FD/DPW 	Police 3, Fire Operations, and DPW 	FMN 	Multi-Tac 
+156.20250 	WQGY372 	RM	365 DPL	OEM  Ops 	Emergency Management (shared with South Bound Brook) 	FMN 	Emergency Ops 
+507.23750 	WPWH972 	RM	114.8 PL	FD N Disp  	FD Disp North / Central Operations 	FMN 	Fire Dispatch 
+465.61250 	WNMQ534 	BM	192.8 PL	FD CH 3 FG 	Country Hills FD Fireground 	FMN 	Fire-Tac 
+465.58750 	WNMQ534 	BM	192.8 PL	FD Ch 4 FG 	North Branch FD Fireground  	FMN 	Fire-Tac 
+159.16500 	WPJJ850 	RM	192.8 PL	DPW 	Public Works 	FMN 	Public Works 
+507.23750 	WPWH972 	RM	114.8 PL	FD Disp D3 	Fire District 3 Operations 	FMN 	Fire Dispatch 
+460.61250 	WQTV715 	BM	192.8 PL	FD CH 2 	Green Knoll FD Fireground 	FMN 	Fire-Tac 
+465.58750 	WQTV715 	BM	192.8 PL	FD CH 4 	North Branch FD Fireground 	FMN 	Fire-Tac 
+465.61250 	WQTV715 	BM	192.8 PL	FD CH 3 	Country Hills FD Fireground 	FMN 	Fire-Tac 
+476.96250 	WIE749 	RM		Police Conv. 	Police Conventional (Backup to TRS) 	FM 	Law Talk 
+154.16000 	WNWK927 	RM	047 DPL	Dist 1 	Fire District 1 TRS Simulcast 	FM 	Fire-Tac 
+154.14500 	WNMX676 	BM		Dist 2 	Fire District 2 TRS Simulcast 	FM 	Fire-Tac 
+166.25000 	KSZ507 	RM	192.8 PL	Dist 3 	Fire District 3 TRS Simulcast 	FM 	Fire-Tac 
+151.08500 	WPPB812 	RM	203.5 PL	FD/EMS Disp 	Fire/EMS Dispatch 	FM 	Multi-Dispatch 
+154.41500 	WNMB659 	RM	110.9 PL	HillsbFD 2 	Fire Region 6 TRS Simulcast 	FM 	Fire-Talk 
+155.92500 	WPCP809 	BM	107.2 PL	DPW 	Public Works 	FM 	Public Works 
+155.92500 	KIZ482 	BM	047 DPL	Smrville PW 	Public Works 	FM 	Public Works 
+156.20250 	WQGY372 	RM	365 DPL	OEM Ops 	Emergency Management (shared with Bound Brook) 	FMN 	Emergency Ops 
+453.68750 	WQGY372 	RM	365 DPL	OEM BoroWide 	OEM Operations (Borough Wide Coordination) 	FMN 	Emergency Ops 
+500.41250 	WIK841 	RM	186.2 PL	Police Disp. 	Police Dispatch 	FMN 	Law Dispatch 
+470.62500 	WPLP827 	RM	167.9 PL	Fire Disp. 	Fire Dispatch 	FMN 	Fire Dispatch 
+470.92500 	WPLP827 	BM	167.9 PL	Fire Ops. 	Fire Operations 	FMN 	Fire-Tac 
+460.08750 	WQVC250  	RM	CC 6TG 100SL 1	Fire Ops DMR 	Fire Operations (Digital) 	DMR 	Fire-Talk 
+471.07500 	WPLP834 	RM	167.9 PL	EMS Disp. 	EMS Dispatch 	FMN 	EMS Dispatch 
+473.92500 	WPLP834 	BM	167.9 PL	EMS Ops. 	EMS Operations 	FMN 	EMS-Tac 
+460.62500 	WNQJ272 	RM	107.2 PL	FD Disp 	Watchung & North Plainfield Fire Dispatch 	FMN 	Fire Dispatch 
+460.63750 	WNQJ272 	RM	CC 10TG *SL 1	FD Ops 	Fire Operations 	DMR 	Fire-Tac 
+460.63750 	WNQJ272 	RM	CC 10TG *SL 2	OEM Ops 	OEM Operations 	DMR 	Emergency Ops 
+460.63750 	WNQJ272 	RM	606 DPL	FD/OEM Tac 3 	Fire / OEM Tac 3 	FMN 	Multi-Tac 
+460.63750 	WNQJ272 	M	107.2 PL	FD Tac 4 	Fireground TAC-4 	FMN 	Fire-Tac 
+472.12500 	WQBU765 	RM	107.2 PL	PD/EMS Disp 	Police & EMS Dispatch 	FMN 	Multi-Dispatch 
+463.27500 	 	BM	546 DPL	RVCC Sec. 	Campus Security 	FMN 	Schools 
+151.65500 	KYZ415 	BM	306 DPL	Brch BOE 	Operations 	FMN 	Schools 
+452.36250 	WQCL712 	RM		HS Ops 	High School - Ops 	FMN 	Schools 
+464.93750 	WQCL712 	RM		BOE Ops 	BOE Operations 	FMN 	Schools 
+464.97500 	WQCL712 	M		BOE Vehicles 	Board of Education Vehicles  	FMN 	Schools 
+451.96250 	WQWP673 	RM	CC 6TG 1SL 1	MSMA Ops/Maint 	Operations/Maint 	DMR 	Schools 
+451.96250 	WQWP673 	RM	CC 6TG 2SL 2	MSMA Ops 	Operations  	DMR 	Schools 
+152.31500 	WPZQ491 	RM	CC 3TG 911SL 1	WHRHS Ops 	Building Operations 	DMR 	Schools 
+152.31500 	WPZQ491 	RM	CC 3TG 911SL 2	WHRHS Admin 	Administration 	DMR 	Schools 
+152.36000 	WPZQ491 	BM	CC 3TG 911SL 1	WHRHS Security 	Security 	DMR 	Security 
+152.36000 	WPZQ491 	BM	CC 3TG 911SL 2	WHRHS PAC 	Performing Arts Center 	DMR 	Schools 
+155.29500 	WPZQ491 	BM	250.3 PL	WHRHS Bus 	Buses 	FMN 	Schools 
+155.23500 	WPZQ491 	BM	250.3 PL	WHRHS Spare 	Spare 	FMN 	Schools 
+First Energy	 Project 25 Phase I	 Various	Franklin Township	 Motorola Type II SmartZone	 Franklin	Interstate Repeater System	 DMR Conventional Networked
+ Various	Janssen Pharmaceuticals	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Raritan	New Jersey Interoperability Communications System (NJICS)	 Project 25 Phase II	 Statewide	New Jersey State Police
+ Motorola Type II SmartZone Omnilink	 Statewide	New Jersey Transit	 TETRA Standard	 Statewide	NJ-TRBO Linked Amateur Radio Network	 DMR Conventional Networked	 Various
+OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Ortho Clinical Diagnostics	 DMR Motorola Capacity Plus Single Site (TRBO)	 Raritan	Public Service Electric and Gas Company	 Project 25 Phase II
+ Various	Somerset County	 Project 25 Phase II	 Somerset County	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	

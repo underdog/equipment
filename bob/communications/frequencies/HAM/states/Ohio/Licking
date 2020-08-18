@@ -1,0 +1,104 @@
+151.01750 	 	BM	88.5 PL	LC FIRE ALRT 	County Fire paging/alerting 	FMN 	Fire Dispatch 
+33.86000 	KQH904 	BM	82.5 PL	LICK FIRE 1 	County Fire F1 (main) 	FM 	Fire Dispatch 
+33.88000 	KQH904 	BM	CSQ	LICK FIRE 2 	County Fire F2 (fireground) 	FM 	Fire-Tac 
+33.80000 	KQH904 	BM	CSQ	LICK FIRE 3 	County Fire F3 (fireground) 	FM 	Fire-Tac 
+33.92000 	KQH904 	BM	151.4 PL	LICK FIRE 4 	County Fire F4 (fireground) 	FM 	Fire-Tac 
+154.91250 	KQH904 	RM	88.5 PL	LC FIRE DISP 	County Fire - dispatch (repeats 33.86) 	FMN 	Fire Dispatch 
+155.13000 	WQDK522 	RM	151.4 PL	LC FIRE EAST 	County Fire - east operations 	FMN 	Fire Dispatch 
+154.22000 	 	M	77.0 PL	LC FT-1 	County Fire tactical 	FMN 	Fire-Tac 
+154.28000 	 	M	225.7 PL	LC FT-2 	County Fire tactical 	FMN 	Fire-Tac 
+154.32500 	 	M	103.5 PL	LC FT-3 	County Fire tactical 	FMN 	Fire-Tac 
+154.44500 	 	M	162.2 PL	LC FT-4 	County Fire tactical 	FMN 	Fire-Tac 
+155.80500 	 	BM	94.8 PL	LC FT-5 	County Fire tactical 	FMN 	Fire-Tac 
+153.95000 	 	M	241.8 PL	LC FT-6 	County Fire tactical 	FMN 	Fire-Tac 
+154.14500 	KQH903 	M	123.0 PL	LC FT-7 	County Fire tactical 	FMN 	Fire-Tac 
+153.83000 	KQH903 	M	100.0 PL	LC FT-8 	County Fire tactical 	FMN 	Fire-Tac 
+154.37000 	KQH903 	RM	151.4 PL	Newark FD Disp 	Newark Dispatch/Ops 	FMN 	Fire Dispatch 
+153.83000 	KQH903 	M	151.4 PL	Newark Fgnd 	Newark Fire fireground/car to car 	FMN 	Fire-Tac 
+151.29500 	KCZ887 	RM	118.8 PL	Monroe Fire 	Monroe Twp-Alexandria Dispatch 	FMN 	Fire Dispatch 
+154.01000 	KQH903 	M	151.4 PL	NFD EMS 	Newark EMS alternate 	FMN 	EMS-Talk 
+154.22000 	KSV604 	M	203.5 PL	Monroe FTac1 	Monroe Twp-Alexandria Tac 1 	FMN 	Fire-Tac 
+153.83000 	KSV604 	M	203.5 PL	Monroe Ftac2 	Monroe Twp-Alexandria Tac 2 	FMN 	Fire-Tac 
+154.43000 	WPMJ506 	RM	118.8 PL	W Licking Disp 	West Licking FD dispatch/ops 	FMN 	Fire Dispatch 
+155.08500 	WPMJ506 	RM	91.5 PL	W Licking FD  	W Licking Fire (multicast of 154.430)  	FMN 	Fire Dispatch 
+151.12250 	WQBT418 	RM	162.2 PL	Hartford FD 	Hartford Fire dispatch/operations 	FMN 	Fire Dispatch 
+453.60000 	KQH904 	RM	210.7 PL	Hartford FD 	Hartford Fire (repeats 151.1225) 	FMN 	Fire Dispatch 
+158.76000 	WPIS312 	RM	118.8 PL	LTFD 33.86 	Licking Township Fire (repeats 33.860) 	FMN 	Fire Dispatch 
+453.61250 	 	RM	103.5 PL	LTFD 33.86 	Licking Township Fire (repeats 33.860) 	FMN 	Fire Dispatch 
+154.03250 	KNHZ390 	RM	91.5 PL	NTFD 33.86 	Newton Twp FD - North (repeats 33.86) 	FMN 	Fire Dispatch 
+154.19750 	KNHZ390 	RM	91.5 PL	NTFD OPS 	Newton Twp FD - South (repeats 33.86) 	FMN 	Fire Dispatch 
+154.71000 	KTB304 	BM	82.5 PL	NTVFD Disp 	National Trails FD (Repeats 33.86) 	FMN 	Fire Dispatch 
+151.23500 	KLR398 	BM	123.0 PL	Heath FD  	Heath FD (repeats 33.86) 	FMN 	Fire Dispatch 
+154.17500 	WNNK357 	BM	136.5 PL	Hebron FG 	Hebron fireground (repeats 33.86) 	FMN 	Fire-Tac 
+153.95000 	KTA875 	M	151.4 PL	MTFD PAC-RT 	Madison Twp Fire PAC/RT 	FMN 	Fire-Tac 
+154.32500 	none 	M	167.9 PL	GFD PAC-RT 	Granville Fire PAC/RT 	FMN 	Fire-Tac 
+155.08500 	WNHK745 	M	173.8 PL	HFD PAC-RT 	Hartford Fire PAC/RT 	FMN 	Fire-Tac 
+155.70000 	WNVQ920 	M	173.8 PL	BLFD PAC-RT 	Buckeye Lake Fire PAC/RT 	FMN 	Fire-Tac 
+151.07750 	KDE298 	RM	91.5 PL	Utica Fire 	Utica Fire (Repeats 33.860) 	FMN 	Fire Dispatch 
+153.51500 	WPPG846 	RM	218.1 PL	Courtesy Amb 	Courtesy Ambulance 	FMN 	EMS Dispatch 
+155.04000 	KNEK477 	RM	91.5 PL	Homer FD 	Homer FD (repeats other agencies as needed) 	FMN 	Fire Dispatch 
+155.77500 	WNAH536 	RM	103.5 PL	Licking EMA 	Licking County EMA 	FMN 	Emergency Ops 
+156.19500 	KLR398 	BM	123.0 PL	Heath FG2 	Heath FD fireground 	FMN 	Fire-Tac 
+159.46500 	KBW856 	RM	151.4 PL	GFD TAC 	Granville Fire TAC 	FMN 	Fire-Tac 
+453.90000 	KQH904 	F	192.8 PL	FD Heath Link  	Link to Heath 33.86 transmitter site 	FMN 	Other 
+857.21250 	WNYK520 	RM	064 NAC	Heath FD Ops 	Heath FD operations 	P25 	Fire-Talk 
+155.41500 	KBG751 	RM	118.8 PL	Licking SO1 	County Sheriff main 	FM 	Law Dispatch 
+155.53500 	KBG751 	RM	118.8 PL	Licking SO2 	County Sheriff secondary 	FM 	Law Tac 
+154.57000 	 	M	67.0 PL	LCSO Tac 	County Sheriff tactical 	FM 	Law Tac 
+158.85000 	KBG751 	BM	91.5 PL	LCSO Tac 	County Sheriff tactical 	FM 	Law Tac 
+453.60000 	WPGZ528 	RM		Licking Jail 	County Jail 	FM 	Corrections 
+155.19000 	KGS44 	RM	151.4 PL	Newark PD 	Newark PD 	FM 	Law Dispatch 
+155.97000 	KGS44 	M	127.3 PL	NPD TAC 	Newark PD tactical 	FM 	Law Tac 
+154.80000 	WPFB908 	RM	82.5 PL	Granville PD 	Granville PD 	FM 	Law Dispatch 
+154.74000 	WQEX447 	RM	127.3 PL	Johnstown PD 	Johnstown PD 	FM 	Law Dispatch 
+158.79000 	WQGX975 	BM	118.8 PL	Utica PD 	Utica PD 	FM 	Law Dispatch 
+453.26250 	WQBJ716 	RM	250.3 PL	PataskalaPD1 	Pataskala PD 	FM 	Law Talk 
+453.77500 	WQBJ716 	RM	223 DPL	PataskalaPD2 	Pataskala PD (link to County Sheriff) 	FM 	Law Talk 
+453.92500 	WPUN339 	RM		PataskalaPD3 	Pataskala PD 	FM 	Law Talk 
+156.87500 	None 	BM	CSQ	GPD 10 	Granville PD Tactical 1 (Ch 10) 	FM 	Law Talk 
+856.21250 	WNYK520 	RM	064 NAC	Heath PD 	Heath PD operations 	P25 	Law Dispatch 
+155.49000 	WQBK403 	R	315 DPL	LICK ENG 	County Engineer 	FM 	Public Works 
+33.06000 	WNGF591 	BM		WASH PW 	Washington Twp 	FM 	Public Works 
+151.10000 	WPMQ302 	BM	100.0 PL	STALB PW 	St. Albans Twp 	FM 	Public Works 
+151.37000 	WPPY223 	BM		LICKTWP PW 	Licking Twp 	FM 	Public Works 
+154.08500 	WNJP928 	BM		PATSK PW 	Pataskala 	FM 	Public Works 
+154.10000 	KQI400 	R	151.4 PL	NEWARK RDS 	Newark Roads 	FM 	Public Works 
+155.08500 	WNHK745 	BM	167.9 PL	GRANVL TWP 	Granville Twp 	FM 	Public Works 
+155.71500 	KDT265 	R	71.9 PL	HEATH RDS 2 	Heath Roads (secondary) 	FM 	Public Works 
+155.83500 	 		82.5 PL	GRANVL SVC 	Granville Service Dept 	FM 	Public Works 
+155.89500 	WPQJ521 	BM		MADISON RDS 	Madison Twp Roads 	FM 	Public Works 
+156.24000 	KZR539 	BM		NEWTWP PW 	Newark Twp 	FM 	Public Works 
+158.83500 	WNID930 	BM		BUCKLK PW 	Buckeye Lake 	FM 	Public Works 
+159.10500 	WNAE485 	BM		UTICA PW 	Utica 	FM 	Public Works 
+453.20000 	KBJ900 	R		NEWARK 	Newark 	FM 	Public Works 
+453.35000 	KIB492 	R	82.5 PL	Newark Wtr 	Newark Water 	FM 	Public Works 
+453.55000 	WPTT354 	R		HARRISON PW 	Harrison Twp (Pataskala) 	FM 	Public Works 
+453.97500 	WQLE464 	RM	223 DPL	HANTWP PW 	Hanover Township Public Works 	FM 	Public Works 
+461.37500 	WNKT578 	R	245 DPL	Licking Cty 	Licking County Board of MR/DD 	FM 	Public Works 
+858.21250 	WNYK520 	R	67.0 PL	HEATH SVC 	Heath Services 	FM 	Public Works 
+152.93000 	WPSH526 	RM	306 DPL	LV LSD 	Licking Valley Schools 	FM 	Schools 
+155.20500 	WZN347 	BM	186.2 PL	LAKEWOOD LSD 	Lakewood Schools (Hebron) 	FM 	Schools 
+155.23500 	KNJM932 	BM		J-M LSD 	Johnstown-Monroe Schools 	FM 	Schools 
+155.23500 	KNBY366 	BM		LICKVAL LSD 	Licking Valley Schools 	FM 	Schools 
+155.23500 	KNJM932 	BM		NORTHRDG LSD 	Northridge Local Schools 	FM 	Schools 
+155.23500 	WNBR384 	BM	143 DPL	HEATH LSD 	Heath Schools 	FM 	Schools 
+451.85000 	WPMY228 	RM		LICKHTS LSD 	Licking Heights Schools Transportation 	FM 	Schools 
+452.12500 	WPNR616 	RM	023 DPL	GRNVLE EVSD 	Granville Exempted Village School District 	FM 	Schools 
+461.82500 	WQDH340 	RM	205 DPL	Newark Bus 1 	Newark School Buses  	FM 	Schools 
+462.17500 	WNYH687 	RM	125 DPL	Newark HS 	Newark High School  	FM 	Schools 
+463.76250 	WQFS247 	RM	103.5 PL	LickHts Bus 	Licking Heights Local Schools - Buses 	FM 	Schools 
+464.50000 	 	M	205 DPL	Newark Bus 2 	Newark School Buses  	FM 	Schools 
+464.93750 	WQRD441 	RM	151.4 PL	Heath SchBus 	Heath City Schools transportation  	FMN 	Schools 
+155.34000 	WPUG546 	BM	CSQ	LMH ER 	EMS to Licking Memorial Hospital (IDs as KXB318)  	FM 	Hospital 
+453.65000 	WNLZ339 	RM	107.2 PL	LMH Sec 	Licking Memorial Hospital Security 	FM 	Law Dispatch 
+462.37500 	KKZ369 	RM	123.0 PL	LMH Mtx 	Licking Memorial Hospital Maintenance 	FM 	Hospital 
+451.22500 	WPSN600 	RM		COTC OPS 	Operations 	FM 	Schools 
+153.50000 	WNLX703 	BM		AEP ALT 	American Electric Power backup 	FM 	Utilities 
+451.10000 	KB66990 	M		AEP ALT 	American Electric Power backup 	FM 	Utilities 
+451.11250 	WPNZ764 	RM		COLB GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+451.21250 	WQKC678 	RM	67.0 PL	Energy CO-OP 	The Energy Cooperative (National Gas) 	FM 	Utilities 
+456.10000 	KB66990 	M		AEP ALT 	American Electric Power backup 	FM 	Utilities 
+462.52500 	KQA395 		67.0 PL	Licking RE 	Licking Rural Electric 	FM 	Utilities 
+Amazon Fulfillment Center Etna	 DMR Conventional Networked	 Etna	American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Comtech Jersey UHF	 LTR Standard
+ Jersey	Comtech Jersey VHF	 LTR Standard	 Jersey	Denison University	 LTR Standard	 Granville	Ohio MARCS-IP: Mobile Site 5A1
+ Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	United Telephone of Ohio	 Motorola Type II Smartnet	 Various

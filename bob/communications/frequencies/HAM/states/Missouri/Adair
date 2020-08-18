@@ -1,0 +1,42 @@
+155.58000 	WNHY211 	RM	431 NAC	Adair Sheriff  	Sheriff: Dispatch 	P25 	Law Dispatch 
+154.88750 	WNHY211 	BM		Adair Shrf Tac  	Sheriff: Tac 	FMN 	Law Tac 
+159.21750 	WNHY211 	BM		Adair Shrf Jail  	Jail Operations (Low Power) 	FMN 	Corrections 
+154.12250 	WQKV957 	M		NMO DTaskFrc 	Northern Missouri Drug Task Force 	FMN 	Law Tac 
+154.96500 	WNCD569 	RM	162.2 PL	AdairCo EMS 	EMS: Dispatch (Kirksville) 	FMN 	EMS Dispatch 
+153.21500 	WQCD342 	BM	032 DPL	AirEvac Kirk 	Air Evac (Kirksville) 	FMN 	EMS Dispatch 
+158.80500 	KNAR883 	RM	263 DPL	Adair PWSD#1 	Public Water Supply District #1: Ops 	FMN 	Public Works 
+159.12000 	WNCD570 	BM	103.5 PL	Adair Roads 	Roads and Bridges (Kirksville) 	FMN 	Public Works 
+155.28000 	KTK775 	RM	127.3 PL	NRMC Ops 	Security / Maintenance / Ops  	FMN 	Business 
+155.34000 	KTK775 	B	CSQ	HEAR340 CSQ 	Patient Reports 	FMN 	Hospital 
+155.34000 	KTK775 	M	88.5 PL	HEAR340 1622 	Patient Reports (was 162.2?) 	FMN 	Hospital 
+155.13000 	KAB825 	RM	431 NAC	Kirk Police1 	Police: Dispatch 	P25 	Law Dispatch 
+155.65500 	KAB825 	BM		Kirk Police2 	Police 	FMN 	Law Tac 
+154.40000 	KAO723 	RM	141.3 PL	Kirk Fire R 	Fire: Dispatch (was 431 NAC Testing?) 	FMN 	Fire Dispatch 
+154.14500 	WPHT670 	BM		Kirk Fire L1 	Fire 	FMN 	Fire-Tac 
+155.20500 	WQAY416 	BM		Kirk Fire L2 	Fire 	FMN 	Fire-Tac 
+158.74500 	KUZ888 	RM	141.3 PL	Kirk Water 	Water Department 	FMN 	Public Works 
+153.99500 	KUZ888 	BM		Kirk Local 2 	Local Government  	FMN 	Public Works 
+154.32500 	WQAJ207 	RM	141.3 PL	Novinger Fire  	Fire: Dispatch 	FMN 	Fire-Tac 
+156.18000 	WPZQ248 	M		NovingerUtility  	City Maintenance/Utilities Department 	FMN 	Public Works 
+152.36000 	WPIT341 	BM	043 DPL	ATSU Ops 1 	Operations 	FMN 	Schools 
+461.57500 	WPLL302 	RM		Adair School 1  	Operations (Novinger) 	FMN 	Schools 
+151.89500 	WPJU677 	RM	245 DPL	Kirk School Bus  	Buses 	FMN 	Schools 
+152.46500 	WPJU677 	RM	245 DPL	Kirk Sch Admin  	Administration 	FMN 	Schools 
+451.86250 	WPJU677 	M		Kirk Sch Ops A  	Schools - Internal Use (different tones each school) 	FMN 	Schools 
+457.33750 	WPJU677 	M		KirkSchCustodial 	Custodial (different tones each school) 	FMN 	Schools 
+151.65500 	WPJU677 	M		Kirk Sch Events 	Field Trips / Sports (Portables-itinerant) 	FMN 	Schools 
+155.13000 	KGW684 	RM	431 NAC	TSU Police 	Police: Dispatch (DB: Kirksville Police) 	P25 	Law Dispatch 
+155.55000 	KGW684 	BM	141.3 PL	TSU Security 	Security  	FMN 	Security 
+155.05500 	KTY967 	RM	223 DPL	TSU PhysPlnt 	Physical Plant/Grounds Crew (w/ Phone Patch) 	FMN 	Schools 
+151.92500 	WPGB769 	BM	141.3 PL	TSU StdnUn-1 	Student Union 	FMN 	Schools 
+151.59500 	WPGB769 	M		TSU StdnUn-2 	Student Union 	FMN 	Schools 
+151.74500 	WPEJ874 	BM		TSU Ops 1 	Operations 	FMN 	Schools 
+152.28500 	WPMR377 	M	146.2 PL	TSU RecCntr1 	Recreation Center 	FMN 	Schools 
+150.84500 	WPMR377 	M		TSU RecCntr2 	Recreation Center 	FMN 	Schools 
+153.17000 	WPMR377 	M		TSU RecCntr3 	Recreation Center 	FMN 	Schools 
+122.80000 	WHB5 	BM	CSQ	IRK Unicom 	CTAF/Unicom/Lights 	AM 	Aircraft 
+132.60000 	 	BM	CSQ	IRK Approach 	Approach 	AM 	Aircraft 
+114.60000 	 	BM	CSQ	IRK HIWAS 	HIWAS 	AM 	Aircraft 
+121.12500 	 	F		IRK Wx AWOS 	Weather AWOS 	Telm 	Data 
+129.62500 	WQMR917 	F	CSQ	IRK ASR 	Aviation Spectrum Resources 	AM 	Aircraft 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	

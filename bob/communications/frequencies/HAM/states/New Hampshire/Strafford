@@ -1,0 +1,45 @@
+154.72500 	KCD839 	RM	527 NAC	StrfdCo PDN1 	North Police Departments 	P25 	Law Dispatch 
+155.79750 	KCD839 	RM	ABE NAC	StrfdCo PDS1 	South Police Departments 	P25 	Law Dispatch 
+156.10500 	KNJL459 	BM	131 DPL	Fire/EMS 	Fire/EMS Dispatch (Dispatched by UNH Fire Alarm) 	FMN 	Fire Dispatch 
+153.93500 	KNJL459 	BM	136.5 PL	FIRE/EMSFG 	FIRE/EMS Fire Ground 	FMN 	Fire-Talk 
+155.82000 	KNFS475 	BM	136.5 PL	Highway/LCL 	Highway Department and Local Channel 	FMN 	Law Dispatch 
+154.65750 	KNJL459 	BM	131 DPL	BLM FireTac1 	Fire Tactical 1 	FMN 	Fire-Tac 
+156.10500 	KNJL459 	BM	131 DPL	BLM FireTac2 	Fire Tactical 2 	FMN 	Fire-Tac 
+154.29500 	KCA769 	RM	117 NAC	Dover Fire 	Fire Dispatch (includes Rollinsford) 	P25 	Fire Dispatch 
+151.06250 	KCA352 	RM	117 NAC	Dover Police 	Police Ch. 1 Dispatch  	P25 	Law Dispatch 
+150.99500 	WQAS434 	RM	CC 1TG 244SL 1	Dover CommSvc 	Community Services Road Maintenance 	DMR 	Public Works 
+154.41500 	KCF395 	RM	229.1 PL	Durham Fire 	Fire Dispatch (Dispatched by Strafford County) 	FMN 	Fire Dispatch 
+152.00750 	WQPM577 	B	229.1 PL	DFD Paging 	Fire Department Paging/Simulcast 	FMN 	Fire Dispatch 
+155.52750 	WQIV901 	RM	1A7 NAC	Durham PD 	Police Dispatch (Dispatched by Strafford County) 	P25 	Law Dispatch 
+158.74500 	KNCJ393 	B	118.8 PL	Durham HW 	Highway Department 	FMN 	Public Works 
+154.37000 	WPBY236 	RM	723 DPL	Farmngtn FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+156.11250 	WQAZ291 	BM	047 DPL	FarmingtonPW 	DPW 	FMN 	Public Works 
+461.46250 	 	BM	565 DPL	School Buses 	School Buses  	FMN 	Transportation 
+159.90000 	WPUN983 	B	210.7 PL	LRMFA 1 	Fire  (Strafford) 	FMN 	Fire Dispatch 
+156.13500 	WNGG641 	B	71.9 PL	Lee Fire 	Fire 	FMN 	Fire-Talk 
+154.87500 	KNHY322 	BM		Lee Police 	Police (mixed analog/digital) 	P25 	Law Talk 
+154.02500 	WNGG641 	BM	71.9 PL	LEE DPW 	DPW 	FMN 	Public Works 
+155.97750 	KNJL459 	B	131 DPL	Madby FD/EMS 	Fire 	FMN 	Fire-Talk 
+154.37000 	WPBY236 	BM	723 DPL	Middleton FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+156.24000 	KNFS476 	B	136.5 PL	MiddlePW 	Highway 	FMN 	Public Works 
+154.32500 	KZM812 	BM	136.5 PL	Milton Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+151.41500 	 	BM	325 NAC	Milton DPW 	DPW 	P25 	Public Works 
+154.37000 	WPBY236 	BM	723 DPL	NewDurFD 	Fire (Shared w Middleton) 	FMN 	Fire Dispatch 
+151.11500 	WNGD511 	B	632 DPL	NewDurhamPW 	Public Works/Police Local Channel 	FMN 	Multi-Dispatch 
+154.98000 	WNVV305 	BM	103.5 PL	Rochtr Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+159.40500 	KCA804 	BM	117 NAC	Roctr PDisp 	Police Dispatch 	P25 	Law Dispatch 
+154.89000 	 	RM	136.5 PL	RchtrPDBakUp 	Police Back Up 	FMN 	Law Talk 
+151.23500 	KNCX342 	BM	103.5 PL	Roctr EMS 	EMS DIspatch 	FMN 	EMS Dispatch 
+151.10000 	WQDL968 	RM	107.2 PL	Rochtr DPW 	DPW 	FMN 	Public Works 
+463.55000 	WQLU391 	BM	110.9 PL	SpauldingHS 	Spaulding High School 	FMN 	Schools 
+155.06250 	WRAM428 	RM	156.7 PL	RollinsfordFD 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.10750 	WRCJ221 	RM	156.7 PL	Rolfd PD/FD2 	PD/FD CH-2 and DPW 	FMN 	Interop 
+154.38500 	KGJ769 	RM	732 DPL	Smswrth Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.88000 	KNFS839 	RM	007 NAC	Smswrth PD 	Police Dispatch 	P25 	Law Dispatch 
+155.95500 	KRJ899 	B	127.3 PL	Smswrth DPW 	DPW 	FMN 	Public Works 
+155.67000 	KNIM754 	BM	136.5 PL	UNH Security 	University of New Hampshire - Security 	FMN 	Security 
+155.77500 	KQS749 	RM	293 NAC	UNH PD OPS 	University of New Hampshire - Police (Dispatched by UNH Comm Center) 	P25 	Law Dispatch 
+158.89500 	WPDQ324 	RM	445 DPL	UNH WC TRANS 	University of New Hampshire - Wildcat Transportation (university buses) 	FMN 	Transportation 
+462.00000 	 	RM	116 DPL	Whittemore  	Whittemore Center Arena Ops 	FMN 	Public Works 
+2 Way Communications Service	 DMR Motorola Capacity Plus Single Site (TRBO)	 Rochester	Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)	 Regional	New Hampshire Department of Natural and Cultural Resources	 DMR Tier 3
+ Varies	

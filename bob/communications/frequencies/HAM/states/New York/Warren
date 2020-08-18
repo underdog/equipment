@@ -1,0 +1,45 @@
+154.72500 	KNED338 	RM	127.3 PL	WCSO HQ 	Sheriff F1 Headquarters 	FMN 	Law Dispatch 
+154.79250 	KNED338 	RM	503 NAC	WCSO HQ 	Sheriff F1 Headquarters (Patch from 154.725) 	P25 	Law Dispatch 
+150.85250 	WQYH627 	RM	127.3 PL	WCSO Dispatch 	Sheriff F2 Dispatch 	FMN 	Law Dispatch 
+154.95000 	WNYN760 	M	110.9 PL	WCSO Car-Car 	Sheriff F3 Car-Car 	FMN 	Law Talk 
+154.86000 	WNYN760 	M	110.9 PL	WCSO Tac F4 	Sheriff F4 Tac 	FMN 	Law Tac 
+155.62500 	WNYN760 	M	110.9 PL	WCSO Tac F5 	Sheriff F5 Tac 	FMN 	Law Tac 
+155.78250 	WQAW576 	RM	141.3 PL	WCSO Jail Rp 	Corrections 	FMN 	Corrections 
+155.05500 	WQAW585 	BM		WCSO Jail 	Corrections 	FMN 	Corrections 
+154.17500 	WNVU964 	BM	127.3 PL	WC Fire Alrt 	Fire Alert 	FMN 	Fire Dispatch 
+151.02500 	WQCK301 	RM	110.9 PL	WC Fire Cntr 	Fire Control 	FMN 	Fire Dispatch 
+154.07000 	KA91096 	M	110.9 PL	WC Fireground 	Fireground 	FMN 	Fire-Tac 
+153.42500 	WQYH627 	RM	110.9 PL	WC EMS Cntrl 	EMS Control 	FMN 	EMS Dispatch 
+159.20250 	WXK670 	RM	110.9 PL	WC EMS Cntrl 	EMS Control 	FMN 	EMS Dispatch 
+154.98000 	KCZ460 	RM	173.8 PL	WC EMS Rptr 	EMS Repeater 	FMN 	EMS-Talk 
+155.05500 	WQAW585 	M	110.9 PL	WC HazMat 	HazMat 	FMN 	Emergency Ops 
+154.98000 	KCZ460 	RM	162.2 PL	WC DPW 	DPW 	FMN 	Public Works 
+155.66250 	WQJY643 	RM	110.9 PL	GFPD 801 	Police Dispatch 	FMN 	Law Dispatch 
+159.24000 	KXZ607 	RM	218.1 PL	GFFD Ops 	Fire Operations 	FMN 	Fire-Tac 
+155.88000 	WPJH212 	BM		GF DPW 	Public Works 	FMN 	Public Works 
+155.83500 	WNLX447 	BM		GF Water 	Water Department 	FMN 	Public Works 
+155.01000 	KEC801 	BM		GFPD MDT 	Police MDTs 	Telm 	Data 
+155.31000 	KEC801 	M		GFPD AVL 	Automatic Vehicle Location (AVL) Data 	Telm 	Data 
+156.19500 	WNUA848 	BM	151.4 PL	Lk Geo EMS 	EMS 	FMN 	EMS Dispatch 
+154.32500 	WQAI265 	RM	151.4 PL	LGFD FG 	Fireground 	FMN 	Fire-Tac 
+155.16000 	WPCG959 	BM	110.9 PL	Qbry EMS Ops 	EMS Operations (BRRS/WGFES) 	FMN 	EMS-Tac 
+153.98000 	WNQJ629 	BM	206.5 PL	Qbry Codes 	Code Enforcement / Fire Marshal 	FMN 	Multi-Tac 
+156.04500 	WPBP675 	RM	103.5 PL	Qbry DPW 	Highway Department 	FMN 	Public Works 
+156.22500 	WPVU783 	RM	127.3 PL	Qbry Water 	Water Department 	FMN 	Public Works 
+154.13000 	KTI541 	RM	110.9 PL	Bay Ridge FG 	Fireground 	FMN 	Fire-Tac 
+159.60000 	WPOZ886 	RM	624 DPL	BRRS Rptr 	F3 Repeater 	FMN 	EMS-Tac 
+155.16000 	WPCG959 	BM	624 DPL	BRRS Ops 	F4 Operations 	FMN 	EMS-Tac 
+154.44500 	KNDV868 	BM	151.4 PL	BFD FG 	Fireground 	FMN 	Fire-Tac 
+155.02500 	KNDV868 	BM	151.4 PL	BFD Officers 	Fire Officers 	FMN 	Fire-Talk 
+154.43000 	KXZ607 	BM	110.9 PL	ChestertwnFG 	Fireground 	FMN 	Fire-Tac 
+154.31000 	WNWS303 	BM	110.9 PL	Horicon FG 	Fireground 	FMN 	Fire-Tac 
+154.28000 	KNNI801 	M	203.5 PL	Luzerne FG 	Fireground 	FMN 	Fire-Tac 
+154.26500 	WNUB966 	RM	110.9 PL	N Qby FG 	Fireground 	FMN 	Fire-Tac 
+154.20500 	WRW785 	RM	110.9 PL	QCFD FG 	Fireground 	FMN 	Fire-Tac 
+156.01500 	WRW785 	M		QCFD FD 	Fire 	FMN 	Fire-Tac 
+151.30250 	WQFZ736 	RM	91.5 PL	SQFD 1 	Operations Repeater 	FMN 	Fire-Tac 
+154.37750 	WQFZ736 	BM	91.5 PL	SQFD 2 	Fireground 	FMN 	Fire-Tac 
+159.18750 	WQEZ564 	RM	346 DPL	WGF EMS Ops 	Operations 	FMN 	EMS-Tac 
+153.95000 	KWQ728 	BM	110.9 PL	WGF FG 	Fireground 	FMN 	Fire-Tac 
+Adirondack 2-Way Radio	 NXDN Icom IDAS Type D	 Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	UpstateNY Linked Amateur Radio Network	 DMR Conventional Networked
+ Regional	

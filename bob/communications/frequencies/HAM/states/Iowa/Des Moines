@@ -1,0 +1,41 @@
+460.35000 	KQT250 	RM	065 NAC|TG 1002	DMCo Sheriff W2 	Sheriff/West Burlington Dispatch (simulcast with 453.85 MHz) 	P25 	Law Dispatch 
+460.35000 	KQT250 	RM	065 NAC|TG 1003	DMCo Sheriff W3 	Sheriff/West Burlington Dispatch (simulcast with 453.85 MHz) 	P25 	Law Dispatch 
+155.74500 	KQT250 	RM	103.5 PL	DMCo Skywarn 	Skywarn 	FMN 	Emergency Ops 
+154.19000 	KQT250 	BM	141.3 PL	DesMoCo Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+151.10000 	KXC777 	RM	CC 1TG 100SL 1	DMCo Highway 	Road Department (also ARS/LRRP Data) 	DMR 	Data 
+155.86500 	KXC777 	M		DMCo Roads 	Road Department 	DMR 	Public Works 
+463.46250 	WPAD420 	RM	532 DPL	DMC RSWC 	Operations 	FMN 	Public Works 
+460.07500 	KTE529 	RM	065 NAC|TG 1003	Burlngtn Police1 	Police: Dispatch 	P25 	Law Dispatch 
+460.50000 	KQT250 	M	146.2 PL	Burlngtn Police3 	Police: Car-to-Car 	FMN 	Law Tac 
+154.43000 	KTE529 	RM	141.3 PL	Burlington Fire  	Fire: Dispatch / Talk Around 	FMN 	Fire Dispatch 
+154.07000 	KTE529 	M	141.3 PL	Burl Fire Tac 3  	Fire: Tactical 3 	FMN 	Fire-Tac 
+154.26500 	KTE529 	M	141.3 PL	Burl Fire Tac 4  	Fire: Tactical 4 	FMN 	Fire-Tac 
+156.01500 	KTE529 	M	CSQ	Burl Fire Tac 5  	Fire: Tactical 5 	FMN 	Fire-Tac 
+155.07000 	KTE529 	BM		Burl Fire Indoor 	Fire: Indoor Alerting 	FMN 	Fire Dispatch 
+153.53000 	KAL522 	BM	103.5 PL	Burl Waterworks 	Municipal Waterworks 	FMN 	Public Works 
+155.82000 	KTE529 	RM	532 DPL	Burlngton TrashA 	Trash Pick-Up  / Solid Waste Management 	FMN 	Public Works 
+156.19500 	KTE529 	RM	141.3 PL	Burlngton TrashB 	Trash Pick-Up  / Solid Waste Management 	FMN 	Public Works 
+453.27500 	WPBQ327 	RM	365 DPL	Burlngton PW 1  	Sewage Treatment Plant: Ops / Alarms 	FMN 	Public Works 
+453.50000 	WPBQ327 	RM	343 DPL	Burlngton PW 2  	Waste Water Plant: Ops / Alarms / Phone Patach 	FMN 	Public Works 
+453.72500 	WPBQ327 	RM		Burlngton PW 3  	Public Works 	FMN 	Public Works 
+460.32500 	WPBQ327 	RM	532 DPL	BurlngtonPW Data 	Public Works: Data Bursts 	FMN 	Public Works 
+465.32500 	WPWW845 	F	532 DPL	BurlingtonPW Dat 	Public Works: Data Bursts  	FMN 	Public Works 
+460.02500 	WPXJ655 	RM	74.4 PL	BurlngotnHousing 	Low Rent Housing Agency 	FMN 	Public Works 
+452.67500 	KTE529 	RM	162.2 PL	Burlington BUS 	Urban Service (transit buses) 	FMN 	Transportation 
+463.12500 	KTE529 	RM	125 DPL	Flint Hills Golf 	Flint Hills Golf Course 	FMN 	Business 
+151.04750 	WQOK536 	M	94.8 PL	DanvilleFD T1 	Fire: Tactical 1 	FMN 	Fire-Tac 
+151.06250 	WQOK536 	M	127.3 PL	Mediapolis FD T1 	Fire: Tactical 1 	FMN 	Fire-Tac 
+155.11500 	KRZ297 	BM	732 DPL	WBur Police c2c 	Police - Car to Car 	FMN 	Law Talk 
+151.40750 	WQOK536 	RM	156.7 PL	West Burl Fire  	Fire: Repeater / Talk Around 	FMN 	Fire-Tac 
+154.11500 	KRZ297  	M	141.3 PL	WestBurl FireTac 	Fire: Tactical 1 	FMN 	Fire-Tac 
+461.83750 	WPOE442 	RM	CC 1TG 100SL 1	GRMC Security  	Security / Operations 	DMR 	Business 
+461.83750 	WPOE442 	RM	CC 1TG 300SL 2	GRMC Maintenance 	Maintenance 	DMR 	Business 
+463.07500 	KTE529 	BM	192.8 PL	EMS Med-4 	EMS to Great River Medical Center (Med-4) 	FMN 	Hospital 
+464.77500 	WQCR538 	RM	151.4 PL	Med Force 	Helicopter at Great River Medical Center 	FMN 	EMS Dispatch 
+451.50000 	WQDK233 	M	107.2 PL	DanvilleSchools 	Danville School District 	FMN 	Schools 
+463.92500 	WPAU238 	RM	072 DPL	463.925 D072 	school buses (Electronic Applications) 	FMN 	Schools 
+461.70000 	WSA243 	RM	107.2 PL	Bur School Buses 	Buses 	FMN 	Schools 
+461.70000 	WSA243 	RM	100.0 PL	Bur School Maint 	Maintenance 	FMN 	Schools 
+ Eastern Iowa Power Cooperative	 DMR Conventional Networked	 Various	Alliant Energy	 DMR Tier 3	 Various	Case Corporation	 LTR Standard
+ Burlington	Electronic Applications	 LTR Standard	 Burlington	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	RACOM Network
+ EDACS Networked Standard	 Various	

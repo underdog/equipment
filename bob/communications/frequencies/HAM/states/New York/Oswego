@@ -1,0 +1,62 @@
+460.11250 	WQLR900 	BM		OswegoFD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+453.08750 	WQNX964 	M	100.0 PL	Fire Talk 3 	Fire Talkaround 3 	FMN 	Fire-Talk 
+453.96250 	WQNX964 	M	100.0 PL	Fire Talk 4 	Fire Talkaround 4 	FMN 	Fire-Talk 
+453.98750 	WQNX964 	M	100.0 PL	Fire Talk 5 	Fire Talkaround 5 	FMN 	Fire-Talk 
+458.11250 	WQNX964 	M	100.0 PL	Fire Talk 6 	Fire Talkaround 6 	FMN 	Fire-Talk 
+465.48750 	WQNX964 	M	100.0 PL	EMS Talk 6 	EMS Talkaround 6 	FMN 	EMS-Talk 
+465.51250 	WQNX964 	M	100.0 PL	EMS Talk 7 	EMS Talkaround 7 	FMN 	EMS-Talk 
+153.99500 	WQWQ537 	RM	131.8 PL	Pioneer SAR 	Pioneer Search and Rescue 	FMN 	EMS-Tac 
+453.75000 	WQNX964 	RM	127.3 PL	OC Jail/PSB 	Jail and Public Safety Building 	FMN 	Corrections 
+453.65000 	WNHR793 	RM	151.4 PL	EOC Ch 1 	Emergency Operations Coordination 	FMN 	Emergency Ops 
+453.45000 	WNHR793 	RM	151.4 PL	EOF Ch 2 	Emergency Operations Field 	FMN 	Emergency Ops 
+451.57500 	WPTP617 	RM	151.4 PL	EOF Ch 13 	EOF - 9 Mile Point 	FMN 	Emergency Ops 
+452.75000 	WPTP617 	RM	151.4 PL	EOC Ch 14 	EOC - 9 Mile Point 	FMN 	Emergency Ops 
+460.56250 	WQNX964 	M	100.0 PL	OC Highway 	Highway Department Simplex 	FMN 	Public Works 
+156.12000 	WQVM931 	RM	632 DPL	Albion Highway 	Highway Department 	FMN 	Public Works 
+151.02500 	KNIW929 	BM	123.0 PL	Amboy DPW 	Highway Department 	FMN 	Public Works 
+156.06000 	WPDV942 	BM	110.9 PL	Boylston Highway 	Highway Department 	FMN 	Public Works 
+154.44500 	WPLQ825 	BM	110.9 PL	Cleveland FG 	Fireground 	FMN 	Fire-Tac 
+158.98500 	KNAA588 	BM	131.8 PL	ConstantiaHw 	Highway Department 	FMN 	Public Works 
+453.22500 	WRG865 	RM	123.0 PL	GranbyHwy 	Highway Department 	FMN 	Public Works 
+153.76250 	WQLR864 	BM	132 DPL	Mexico Highway 	Highway Department 	FMN 	Public Works 
+453.55000 	WNPK433 	BM	151.4 PL	Minetto Hwy 	Highway Department 	FMN 	Public Works 
+159.19500 	KNJD741 	BM	261 DPL	New Haven Hwy 	Highway Department 	FMN 	Public Works 
+151.07000 	WRA286 	BM	82.5 PL	Orwell Highway 	Highway Department 	FMN 	Public Works 
+45.72000 	WQCG664 	BM		Oswego Hwy 	Highway Department 	FM 	Public Works 
+153.48500 	WQHS809 	BM	131.8 PL	Oswego WWT 	Waste Water Treatment 	FMN 	Public Works 
+154.04000 	KGR321 	B	141.3 PL	T/Oswego Hwy 	Highway Department 	FMN 	Public Works 
+155.76000 	KNJV211 	BM	94.8 PL	Palermo Hwy 	Highway Department 	FMN 	Public Works 
+151.05500 	WQEQ282 	BM	103.5 PL	SandyCrk Hwy 	Highway Department 	FMN 	Public Works 
+156.10500 	KRZ235 	RM	100.0 PL	Schrppl Hwy 	Highway Department 	FMN 	Public Works 
+155.77500 	WPMC828 	BM	151.4 PL	Scriba Town 	Town Officials 	FMN 	Public Works 
+159.19500 	KGT532 	BM	151.4 PL	Scriba Hwy 	Highway Department 	FMN 	Public Works 
+154.08500 	KTK675 	BM	94.8 PL	Volney Hwy 	Highway Department 	FMN 	Public Works 
+151.82000 	 	BM	110.9 PL	WMonroe FG 	Fireground 	FMN 	Fire-Tac 
+158.98500 	KBR370 	BM	110.9 PL	WMonroeHwy 	Highway Department 	FMN 	Public Works 
+151.94000 	 	BM	110.9 PL	W-Town FG 	Fireground 	FMN 	Fire-Tac 
+155.05500 	WNKJ971 	BM	CSQ	W-Town DPW 	DPW 	FMN 	Public Works 
+453.16250 	WQQB396 	BM	100.0 PL	Operations 	Operations 	FMN 	Public Works 
+458.10000 	KD26821 	BM	100.0 PL	Operations 	Operations 	FMN 	Public Works 
+464.55000 	 	BM	67.0 PL	Rail Loading 	Rail Car Loading 	FMN 	Public Works 
+462.63750 	 	BM	100.0 PL	PortSecurity 	Security 	FMN 	Security 
+453.48750 	 	M	CC 1TG 1SL *	Port Sec TA 	Security Talk-Around 	DMR 	Security 
+151.17500 	 	M		OCCS 	Oswego County Court Security 	FMN 	Law Tac 
+153.14000 	WQJY217 	RM	203.5 PL	A-P-W CSD Buses 	A-P-W CSD Buses "Channel 3 Repeat" 	FMN 	Schools 
+158.82000 	WNAK269 	RM	71.9 PL	CSCS Buses 	Central Square Central School Buses 	FMN 	Schools 
+156.00000 	WQLK292 	RM	CC 1TG 1SL 1	Oswego Buses 	City School District of Oswego Buses 	DMR 	Schools 
+461.10000 	WQAA671 	RM	123.0 PL	Durham Buses 	Durham School Services (buses) 	FMN 	Schools 
+454.37500 	 	RM	CC 1TG *SL 1	Golden Sun Buses 	Golden Sun School Buses (Fulton) 	DMR 	Schools 
+155.17500 	KKR629 	BM	162 DPL	Mexico CSD Buses 	Mexico CSD Buses 	FMN 	Schools 
+462.50000 	 	RM	CC 1TG 1SL 1	Phoenix CSD Bus 	Phoenix CSD Buses 	DMR 	Schools 
+153.84500 	WNAE358 	BM	141.3 PL	Pulaski CSD Bus 	Pulaski CSD Buses 	FMN 	Schools 
+154.11500 	WNNT770 	RM	141.3 PL	SUNY Parking Enf 	Parking Enforcement 	FMN 	Law Dispatch 
+155.95500 	WNUH523 	BM	141.3 PL	SUNY PD 3 	Police Ch. 3 	FMN 	Law Talk 
+155.08500 	KXI905 	RM		SUNY EMS 	EMS 	FMN 	EMS Dispatch 
+151.35500 	KXI905 	M	167.9 PL	SUNY EMS 	EMS 	FMN 	EMS-Tac 
+453.37500 	WPYA542 	RM	100.0 PL	SUNY StockRm 	Stock Room 	FMN 	Schools 
+463.42500 	WNKS884 	RM	371 DPL	SUNY Buildng 	Building Trades 	FMN 	Schools 
+464.12500 	WNJK784 	RM	371 DPL	SUNY Grounds 	Grounds 	FMN 	Schools 
+453.37500 	WPYA542 	RM	731 DPL	SUNY Cust 	Custodians 	FMN 	Schools 
+461.85000 	WQDI865 	RM	054 DPL	SUNY Faculty 	Faculty Staff 	FMN 	Schools 
+Mobiletech Communications	 LTR Net	 Various	Novelis	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oswego	SaiaNet	 DMR Motorola Connect Plus (TRBO)
+ Various	

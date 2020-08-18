@@ -1,0 +1,43 @@
+155.53500 	KAI991 	RM	110.9 PL	DunklinSheriff N 	Sheriff: Dispatch - North 	FMN 	Law Dispatch 
+154.38500 	WPLT681 	RM	136.5 PL	DunklinSheriff S 	Sheriff: Dispatch - South 	FMN 	Law Dispatch 
+155.79000 	 	BM	700 NAC 	Bootheel DTF 	Bootheel Drug Task Force (BDTF) 	P25E 	Law Tac 
+451.88750 	 	M	88.5 PL	Dunklin Co Jail 	Dunklin County Jail:  Jailers / Ops 	FMN 	Corrections 
+155.14500 	WRB492 	BM		Dunklin CivDefen 	Civil Defense 	FMN 	Emergency Ops 
+156.07500 	WPLT681 	BM		Dunklin 911 MX A 	911/Fire: Mobile Extenders 	FMN 	Multi-Dispatch 
+153.86000 	WPLT681 	M		Dunklin 911 MX B 	911/Fire: Mobile Extenders 	FMN 	Fire-Tac 
+453.56250 	WPLT681 	F		Dunklin 911 RF1 	Remote Receive Links (Kennett) 	FMN 	Fire-Tac 
+453.73750 	WPLT681 	F		Dunklin 911 RF2 	Remote Receive Links (Kennett) 	FMN 	Fire-Tac 
+173.21000 	WPBM224 	F		Dunklin PWD#1 	Public Water District 1: Telemetry 	Telm 	Data 
+464.26250 	WQUD313 	RM	CC 5TG 1050SL 1	Medic 1 AK Cmpbl 	Medic One: Dispatch -  Arkansas (Campbell) 	DMR 	EMS Dispatch 
+464.26250 	WQUD313 	RM	CC 5TG 2050SL 2	Medic 1 MO Cmbpl 	Medic One: Dispatch - Missouri (Campbell) 	DMR 	EMS Dispatch 
+155.08500 	WNQY442 	RM	754 DPL	CampellFire/DPW 	Fire /Public Works / Police - Local 	FMN 	Multi-Dispatch 
+150.99500 	WQZE832 	RM	754 DPL	Cardwell Fire 	Fire: Local (Paged on County) 	FMN 	Fire-Tac 
+154.31000 	WPFI262 	BM		Clarktn Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.10000 	WNYW327 	BM		Horn Local 	Police/DPW  	FMN 	Multi-Dispatch 
+154.40000 	WNVJ418 	BM		Hornrsv Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.10000 	KAB739 	RM	900 NAC	Kenn Police P25 	Police: Dispatch - Primary 	P25 	Law Dispatch 
+154.10000 	KAB739 	RM	82.5 PL	Kenn Police A 	Police 	FMN 	Law Dispatch 
+155.13000 	KAB739 	M	293 NAC	Kenn Police DTac 	Police: D-TAC 	P25 	Law Tac 
+154.68000 	 	BM	156.7 PL	Kenn Police B/U  	Police: Backup [no license] 	FMN 	Law Dispatch 
+460.30000 	KAB739 	RM	CSQ	Kenn AnimalCtrl  	Animal Control  	FMN 	Law Dispatch 
+155.14500 	WZU264 	BM		Kennett CivDef 	Civil Defense 	FMN 	Emergency Ops 
+155.82000 	WZU264 	RM	131.8 PL	Kennett Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.82000 	WQMI799 	RM		Kennett Fire P25 	Fire: Dispatch  	P25 	Fire Dispatch 
+155.82000 	WZU264 	M	293 NAC	Kennett Fire DTa 	Fire: D-TAC 	P25 	Fire-Tac 
+154.02500 	KTZ444 	RM	110.9 PL	Kennett CLGW 	Public Works 	FMN 	Public Works 
+152.39000 	 	RM	162.2 PL	Kennett Street  	Street Department [No CIty License] 	FMN 	Public Works 
+151.95500 	WNLM537 	BM	167.9 PL	Kennett HsAuth 	Kennett Housing Authority 	FMN 	Public Works 
+156.20250 	WQJJ599 	BM	465 DPL	IndpndcTwp Roads 	Independence Township Road Maintenance  	FMN 	Public Works 
+155.56500 	KAI480 	RM	001 NAC	Malden Police 	Police: Dispatch  	P25 	Law Dispatch 
+155.76000 	KNIE914 	RM	754 DPL	Malden EMA  	Emergency Management 	FMN 	Emergency Ops 
+151.04750 	WQQQ885 	RM	754 DPL	Malden Fire 	Fire/EMS: Dispatch  	FMN 	Fire Dispatch 
+453.70000 	KNIJ339 	RM	77.0 PL	Malden PubWorks 	Public Works 	FMN 	Public Works 
+173.20375 	WPKS456 	F		Malden WDD  	Water Department Telemetry 	Telm 	Data 
+154.25000 	WNQS206 	BM		Senath Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+152.27000 	WPSH420 	RM	CC 1TG 4957SL 1	Campbell School  	Campbell Schools  	DMR 	Schools 
+152.36000 	WNQJ678 	RM	CC 1TG 1953SL 1	Kenett School1  	Kennett Public Schools  	DMR 	Schools 
+152.37500 	WQCI405 	RM	306 DPL	MaldenSchool 	Malden School District R1 	FMN 	Schools 
+122.80000 	 	B	CSQ	KMA Runway 	Runway 	AM 	Aircraft 
+Battles Communications (NXDN-173)	 NXDN NEXEDGE 9600	 SEMO / NE AR	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard	 Various	Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport
+ SouthEast MO	Challenger Construction Company (Buchanan)	 LTR Standard	 Quinlin	G and D Communications (SEMO)	 LTR MultiNet	 Bloomfield	Mo-Ark Communications and Electronics - 800 MHz
+ LTR Standard	 Various	Mo-Ark Communications and Electronics - UHF (SEMO)	 LTR Standard	 Various	Warner Communications - UHF 12 (Dunklin County)	 LTR Standard	 Campbell

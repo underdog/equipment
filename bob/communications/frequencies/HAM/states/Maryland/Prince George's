@@ -1,0 +1,34 @@
+155.68500 	WQGV455 	B	156.7 PL	PGFD Disp 	Dispatch (simulcast from TRS) 	FMN 	Fire Dispatch 
+155.79000 	WQGV455 	B	CSQ	PGFD StatAlt 	Station Alerting 	FMN 	Fire Dispatch 
+155.88000 	KNET487 	B	CSQ	PGFD EMS Pag 	EMS Paging (POCSAG) 	FMN 	Data 
+769.03125 	 	M	156.7 PL	FD T/A 	Fire / EMS Talk-around - Talkgroup 15 (i.e. 8A15, 8B15, 8C15) 	FMN 	Fire-Talk 
+159.39000 	KJH201 	RM	141.3 PL	MNCPPC 4 	Park Operations/Maintenence 	FM 	Public Works 
+151.49000 	KJH201 	M		MNCPPC Event 	Special Events 	FM 	Other 
+855.73750 	WNBN439 	RM	210.7 PL	HyattJustice 	Hyattsville Justice Center 	FM 	Law Talk 
+855.73750 	WNBN439 	RM	192.8 PL	UppM Courths 	Upper Marlboro Courthouse 	FM 	Law Talk 
+854.68750 	WNBR219 	RM	192.8 PL	PG Det Cntr 	Detention Center 	FM 	Corrections 
+155.88000 	KNET487 	B		PG Paging 	Countywide Paging 	FM 	Public Works 
+494.50000 	WPYL537 	RM	127.3 PL	Bldnsbrg VFD 	Volunteer Fire Department 	FM 	Fire-Tac 
+155.95500 	KNJE359 	RM	162.2 PL	Bowie PW 	City Hall / Services 	FM 	Public Works 
+453.37500 	WPNP853 	RM	1 RAN	Laurel Parks 	Parks and Recreation 	NXDN 	Public Works 
+33.02000 	KGD400 	BM		Laurel VRS 	Laurel Volunteer Rescue Squad 	FM 	EMS-Tac 
+453.14688 	WPNP853 	RM	1 RAN|TG 100	Laurel Sanit 	Sanitation 	NXDN 	Public Works 
+155.56500 	WPUJ893 	RM	100.0 PL	Riverdale PD 	Police 	FM 	Law Dispatch 
+453.66250 	WQFY307 	RM	114.8 PL	University Park 	University Park 	FMN 	Public Works 
+461.37500 	WPUV404 	RM	311 DPL	BowSt461.375 	Bowie State University 	FMN 	Schools 
+463.70000 	WPUV404 	RM	311 DPL	BowSt 463.7 	Bowie State University 	FMN 	Schools 
+496.03750 	KNM794 	RM	162.2 PL	PGCC 1 Sec 	Safety and Security 	FM 	Security 
+464.97500 	KNDJ702 	RM	CC 1TG *SL *	PGCC PhysPlt 	Physical Plant 	DMR 	Schools 
+155.22000 	WNQR912 	BM	192.8 PL	PG Sch Buses 	Transportation (Buses) 	FM 	Schools 
+122.97500 	 	BM		CGS Unicom 	College Park Airport Unicom / CTAF 	AM 	Aircraft 
+121.22500 	 	BM		CGS AWOS 	College Park Airport AWOS / ASOS 	AM 	Aircraft 
+123.07500 	 	BM		W00 Unicom 	Freeway Airport Unicom / CTAF 	AM 	Aircraft 
+122.80000 	 	BM		VKX Unicom 	Potomac Airfield (Friendly) Unicom / CTAF 	AM 	Aircraft 
+122.80000 	 	BM		W32 Unicom 	Washington Executive /Hyde Field Unicom / CTAF 	AM 	Aircraft 
+Baltimore Gas and Electric	 iDEN Harmony	 Various	Champion Communication (Upper Marlboro)	 LTR Standard	 Upper Marlboro	DMR-MARC Amateur Radio Network (MD)	 DMR Conventional Networked
+ Various	FedExField	 LTR Standard	 Landover	FleetTalk (DC-Area Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	FleetTalk (Silver Spring LTR)
+ LTR Standard and Passport	 Silver Spring	Gaylord National Resort and Convention Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 National Harbor	Goddard Space Flight Center	 EDACS Standard	 Greenbelt
+Integrated Wireless Network (IWN) National Capital Region	 Project 25 Phase I	 Various	Interstate Repeater System	 DMR Conventional Networked	 Various	James J. Rowley Training Center	 Motorola Type II SmartZone
+ Laurel	MGM National Harbor	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oxon Hill	NASA Goddard Space Flight Center	 Project 25 Phase II	 Various	Prince George's County
+ Project 25 Phase II	 Various	United States Department of Defense (1B5C8-001)	 Project 25 Phase I	 Various	University of Maryland, College Park	 Motorola Type II Smartnet	 College Park
+Washington Metropolitan Area Transit Authority	 Motorola Type II Smartnet	 Various	

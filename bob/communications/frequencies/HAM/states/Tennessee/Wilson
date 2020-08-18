@@ -1,0 +1,47 @@
+155.79000 	WNMY259 	RM	192.8 PL	WCSO DISP 	Sheriff's Office - Dispatch 	FMN 	Law Dispatch 
+155.64000 	WPYP851 	RM	167.9 PL	WCSO TAC 	Sheriff's Office - Secondary/Tactical 	FMN 	Law Tac 
+154.73250 	WPUP336 	RM	624 DPL	WCSO-3 EVENT 	Sheriffs Office - Special Events (CH 3) 	FMN 	Law Tac 
+154.84500 	WNMY259 	M	192.8 PL	WCSO COURT 	Sheriff's Office - Court Operations 	FMN 	Law Tac 
+154.86750 	WQVI255 	RM	293 NAC	WCSO EAST D 	Sheriff's Office - East Digital 	P25e 	Law Talk 
+453.02500 	WQES411 	RM	127.3 PL	WCSO-JAIL 	Sheriff's Office - Jail Operations 	FMN 	Corrections 
+155.37000 	WNJB201 	B	CSQ	WC-IC VHF 	County Intercity VHF - Can be linked with UHF 	FMN 	Interop 
+453.36250 	WQIE541 	RM	205 DPL	WC-IC UHF 	County Intercity UHF - Can be linked with VHF 	FMN 	Interop 
+155.93250 	WQIT622 	RM	179.9 PL	WC CWPS VHF 	Countywide Public Safety VHF - Linked with UHF 	FMN 	Interop 
+453.13750 	WQIE541 	RM	606 DPL	WC CWPS UHF 	Countywide Public Safety UHF - Linked with VHF 	FMN 	Interop 
+154.31000 	WQBR281 	BM	023 DPL	WEMA-SUMMIT 	WEMA - Medics to Summit Medical Center 	FMN 	Hospital 
+154.32500 	WQBR281 	RM	754 DPL	WEMA ALPHA 	WEMA Alpha - Dispatch 	FMN 	Fire Dispatch 
+154.05500 	WQBR281 	RM	203.5 PL	WEMA BRAVO 	WEMA Bravo - Southern Response 	FMN 	Emergency Ops 
+155.11500 	WQIT622 	RM	97.4 PL	WEMA CHARLIE 	WEMA Charlie - Central Response 	FMN 	Emergency Ops 
+155.53500 	WQIT622 	RM	156.7 PL	WEMA DELTA 	WEMA Delta - Western Response 	FMN 	Emergency Ops 
+154.17500 	WQBR281 	M	003 NAC	WEMA HMATD 	WEMA HazMat Digital 	P25 	Fire-Tac 
+154.17500 	WQBR281 	M	606 DPL	WEMA HMATA 	WEMA HazMat Analog 	FMN 	Fire-Tac 
+155.17500 	WQBR281 	M	002 NAC	WEMA FCOMD 	WEMA Fire Com Digital 	P25 	Fire-Tac 
+155.17500 	WQBR281 	M	192.8 PL	WEMA FCOMA 	WEMA Fire Com Analog 	FMN 	Fire-Tac 
+154.31000 	WQBR281 	BM	001 NAC	WEMA ADMIND 	WEMA Admin (VHF Digital) 	P25 	Fire-Tac 
+154.31000 	WQBR281 	BM	100.0 PL	WEMA ADMINA 	WEMA Admin (VHF Analog) 	FMN 	Fire-Tac 
+37.50000 	WQBR281 	BM	162.2 PL	WEMA VNET 1 	WEMA Volunteer Net F-1 	FM 	Fire-Tac 
+37.26000 	WQBR281 	BM	162.2 PL	WEMA VNET 2 	WEMA Volunteer Net F-2 	FM 	Fire-Tac 
+45.48000 	WQBR281 	BM	162.2 PL	WEMA COMMAND 	WEMA Command Net 	FM 	Fire-Tac 
+154.80750 	WQIT622 	RM	293 NAC	WEMA EASTD 	WEMA East Digital 	P25e 	Emergency Ops 
+155.70750 	WQIT622 	RM	293 NAC	WEMA WESTD 	WEMA West Digital 	P25e 	Emergency Ops 
+159.12000 	WQIE541 	RM	110.9 PL	WEMA SIRENS 	WEMA Warning Sirens (Linked with 45.480) 	FMN 	Emergency Ops 
+453.63750 	WQBR281 	RM	110.9 PL	WEMA SIRENS 	WEMA Warning Sirens (Linked with 45.480) 	FMN 	Emergency Ops 
+151.05500 	WNSL352 	RM	146.2 PL	WC ROADS 	Road Department 	FMN 	Public Works 
+160.11000 	WPDQ321 	RM	45 RAN	WC EAST OPS 	Schools East Operations 	NXDN 	Schools 
+160.14000 	WQIW269 	RM	45 RAN	WC WEST OPS 	Schools West Operations 	NXDN 	Schools 
+453.60000 	WPPX251 	RM		LPD-BACKUP 	Police Department - Conventional Backup 	DMR 	Law Dispatch 
+159.37500 	KNHS475 	RM		LFD-DISP  GR 	Fire Department - Gladeville Repeater 	DMR 	Fire Dispatch 
+154.41500 	KNHS475 	RM		LFD-DISP WR 	Fire Department - Waterton Repeater 	DMR 	Fire Dispatch 
+154.25000 	KNHS475 	BM		LFD Secondry 	Fire Department - Secondary 	DMR 	Fire-Tac 
+158.88750 	KNHS475 	M		LFD Firegrnd 	Fire Department - Fireground / Mobile Repeaters 	DMR 	Fire-Tac 
+158.26500 	WNXP256 	RM	CC 1TG 2001SL 1	Lebanon DPW 	Lebanon Public Works - Sanitation 	DMR 	Public Works 
+152.93000 	WQFY602 	RM	100.0 PL	LSSD BUS 	Lebanon Special Schools District - Buses 	FMN 	Schools 
+155.82000 	WNUB261 	RM	141.3 PL	MJPD-JNC 	Analog Police Junction to 800Mhz Digital System 	FMN 	Law Dispatch 
+155.00250 	WNUB261 	RM	565 DPL	MJFD-JNC 	Analog Fire Junction to 800Mhz Digital System 	FMN 	Fire Dispatch 
+453.97500 	KNIT718 	RM	100.0 PL	Watertown PD 	Police Department 	FMN 	Law Dispatch 
+154.16000 	WNRL496 	RM	77.0 PL	Watertown FD 	Fire Department 	FMN 	Fire Dispatch 
+45.32000 	KRD985 	BM	162.2 PL	WFD-TAC 	Fire Department Tactical 	FM 	Fire-Tac 
+45.36000 	KRD984 	BM		WPD-LB 	Police Low Band 	FM 	Law Tac 
+Lebanon Fire	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lebanon	Lebanon Police	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lebanon 	Mid Tennessee 3rd Mobile	 Motorola Type II
+ Lebanon	Middle Tennessee Utility District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network
+ DMR Conventional Networked	 Various	

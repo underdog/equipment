@@ -1,0 +1,70 @@
+155.67000 	WZZ284 	RM	173.8 PL	Lincoln Sheriff 	Sheriff: Dispatch [LCSD PRI] 	FMN 	Law Dispatch 
+153.29000 	WZZ284 	RM	141.3 PL	Lincoln Law East 	Municipal Law Dispatch: East - Winfield, Old Monroe, Foley [EAST MUN] 	FMN 	Law Dispatch 
+155.60250 	WZZ284 	RM	136.5 PL	Lincoln Law West 	Municipal Law Dispatch: West - Moscow Mills, Silex  [WEST MUN] 	FMN 	Law Dispatch 
+155.60250 	WZZ284 	RM	CSQ	HkPt Police 	Hawk Point Police: Dispatch (123.0 in) 	FMN 	Law Dispatch 
+159.45750 	WZZ284 	M	CSQ	Lincoln Law Pri 	Sheriff: Private (100.0 TX) [LCSO PRV] 	FMN 	Law Tac 
+159.45750 	WZZ284 	M	192.8 PL	Lincoln ShrfSWAT 	Sheriff: SWAT Tactical [SWAT TAC] 	FMN 	Law Tac 
+453.23750 	WZZ284 	F	110.9 PL	Lincoln Law RF1 	Sheriff: Remote Link 	FMN 	Law Dispatch 
+453.38750 	WZZ284 	F		Lincoln Law RF2 	Sheriff: Remote Link 	FMN 	Law Dispatch 
+453.68750 	WZZ284 	F		Lincoln Law RF3 	Sheriff: Remote Link 	FMN 	Law Dispatch 
+460.15000 	WZZ284 	F	114.8 PL	Lincoln Law RF4 	Sheriff: Remote Link - Lincoln 	FMN 	Law Dispatch 
+460.20000 	WZZ284 	F		Lincoln Law RF5 	Sheriff: Remote Link - Wright City 	FMN 	Law Dispatch 
+465.15000 	WZZ284 	F	162.2 PL	Lincoln Law RF6 	Sheriff: Remote Link - Troy 	FMN 	Law Dispatch 
+465.20000 	WZZ284 	M	100.0 PL	Lincoln Law RF7 	Sheriff: Remote Link 	FMN 	Law Dispatch 
+460.03750 	WQCT672 	F		Lincoln Law RF8 	Sheriff: Remote Link - Hawk Point 	FMN 	Law Dispatch 
+460.06250 	WQCT672 	F		Lincoln Law RF9 	Sheriff: Remote Link - Ellsberry 	FMN 	Law Dispatch 
+460.36250 	WQCT672 	F	151.4 PL	Lincoln LawRF10 	Sheriff: Remote Link - Olney (also 173.8?) 	FMN 	Law Dispatch 
+460.43750 	WQCT672 	F		Lincoln LawRF11 	Sheriff: Remote Link - Silex 	FMN 	Law Dispatch 
+154.77000 	 	M	173.8 PL	Lincoln ShrfJail 	Sheriff: Jail [No License] [JAIL] 	FMN 	Corrections 
+155.20500 	WPQK821 	BM	141.3 PL	Lincoln EMA 	Emergency Management 	FMN 	Emergency Ops 
+155.20500 	WPQK821 	RM	173.8 PL	Lincoln Fire 	Fire: Dispatch (AirEvac contact channel) / EMA (Troy) 	FMN 	Fire Dispatch 
+154.34000 	WZZ284 	RM	141.3 PL	PikeCo Fire 	{Link to} Pike County Fire Dispatch (Troy) 	FMN 	Fire Dispatch 
+156.22500 	KLV973 	RM	173.8 PL	Lincoln Highway 	Highway Department (Troy) 	FMN 	Public Works 
+154.68000 	 	M	156.7 PL	Lincoln Co Fair 	County Fair Ops (Sheriff/County Fire and Ambulance) 	FMN 	Multi-Tac 
+451.00000 	WGP750 	RM	023 DPL	LCPWD Ops A 	Operations 	FMN 	Public Works 
+451.57500 	WGP750 	RM	026 DPL	LCPWD Ops B 	Operations 	FMN 	Public Works 
+159.28500 	KYO285 	RM	173.8 PL	Lincoln Co EMS A 	EMS: Paging / Dispatch (8/19) 	FMN 	EMS Dispatch 
+159.28500 	KYO285 	RM	127.3 PL	Lincoln Co EMS B 	EMS: Lincoln County Ambulance/Troy Ambulance 	FMN 	EMS Dispatch 
+453.93750 	KYO285 	F	151.4 PL	Linc EMS MX1 	EMS: Mobile Extenders 	FMN 	EMS Dispatch 
+458.93750 	KYO285 	F		Linc EMS MX2 	EMS: Mobile Extenders 	FMN 	EMS Dispatch 
+453.33750 	KYO284 	F		Linc EMS RF3 	EMS: Remote Link to 159.285R 	FMN 	EMS Dispatch 
+458.76250 	KYO285 	F		Linc EMS RF1 	EMS: Remote Link to 159.285R (Winfield) 	FMN 	EMS Dispatch 
+458.76250 	KYO285 	F		Linc EMS RF2 	EMS: Remote Link to 159.285R (Elsburry, Winfield, Troy) 	FMN 	EMS Dispatch 
+460.11250 	KYO284 	F	131.8 PL	Linc EMS RF4 	EMS: Remote Link to 159.285R 	FMN 	EMS Dispatch 
+456.18750 	WQUA697 	M	100.0 PL	LCMC Ops 1 	Operations [Ch 1] 	FMN 	Business 
+456.28750 	WQUA697 	M	107.2 PL	LCMC Sec 2 	Security [Ch 2] 	FMN 	Security 
+456.41250 	WQUA697 	M	114.8 PL	LCMC Hspk 3 	Housekeeping [Ch 3] 	FMN 	Business 
+456.46250 	WQUA697 	M	123.0 PL	LCMC Ops 4 	Operations [Ch 4] 	FMN 	Business 
+457.06250 	WQUA697 	M	131.8 PL	LCMC Ops 5 	Operations [Ch 5] 	FMN 	Business 
+151.83500 	WPBN899 	M		LCMH VHF-1 	Portables 	FMN 	Business 
+158.80500 	KZR643 	RM	444 NAC	LincCo Fire Ops  	Fire/EMS: Paging / Dispatch 	P25 	Fire Dispatch 
+151.43000 	KZR643 	RM	444 NAC	LCFPD Fire R 	Fire 	P25 	Fire-Tac 
+154.14500 	KZR643 	BM	441 NAC	LincCo Fire Ops1 	Fire: Ops [LC OPS 1] 	P25 	Fire-Tac 
+154.96500 	WNIS943 	RM	85.4 PL	Elsberry PD Muni 	Police 	FMN 	Law Dispatch 
+155.77500 	WNIS943 	RM	85.4 PL	Elsberry Police 	Police: Dispatch (Repeats Sheriff) 	FMN 	Law Dispatch 
+155.58750 	WQPN788 	RM	141.3 PL	Elsb Fire ? 	Fire 	FMN 	Fire Dispatch 
+155.58750 	WQPN788 	RM	151.4 PL	Elsberry Fire 	Fire 	FMN 	Fire Dispatch 
+159.19500 	WPBM261 	BM	141.3 PL	Elsberry Roads 	Special Road District 	FMN 	Public Works 
+155.77500 	WNIS943 	BM		Elsberry Water 	Water Telemtry 	Telm 	Data 
+453.81250 	WQDK746 	F		Elsberry WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+154.31750 	WPVU600 	RM	141.3 PL	HawkPoint Fire  	Fire: Dispatch (CSQ in) 	FMN 	Fire Dispatch 
+154.14500 	WPVU600 	BM	141.3 PL	HkPt Fire Old 	Fire: Dispatch / Operations 	FMN 	Fire Dispatch 
+155.02500 	KSJ416 	BM	173.8 PL	Lincoln EMA 	Fire: Dispatch  	FMN 	Fire Dispatch 
+154.82250 	WQJH589 	RM	173.8 PL	OldMonroe Fire  	Fire/EMS: Paging / Dispatch 	FMN 	Fire Dispatch 
+151.21250 	WPVG952 	RM	203.5 PL	Northwest FirePD 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.69250 	WPJQ565 	RM	173.8 PL	Troy Police 	Police: Dispatch 	FMN 	Law Dispatch 
+153.90500 	 	M		Troy Fire/EMS  	Fire / Ambulance (reported, no license) 	FMN 	Fire Dispatch 
+155.77500 	KVF646 	BM		Troy Water 	Water Department 	FMN 	Public Works 
+173.36250 	KVF646 	F		Troy WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+154.13000 	WQWH624 	RM	141.3 PL	Winfield PD Muni 	Police 	FMN 	Law Dispatch 
+154.13000 	WQWH624 	RM	173.8 PL	Winfld PubWrks  	Public Works (was 151.5125?) 	FMN 	Public Works 
+154.14500 	WPVN484 	RM	173.8 PL	WinfldFoley Fire 	Fire: Tone-Outs / Dispatch 	FMN 	Fire Dispatch 
+155.41500 	WQIS499 	M		WinfldFoley MX 	Fire: Mobile Extenders (to 45.1)  	FMN 	Fire-Tac 
+456.18750 	WQBG379 	F	88.5 PL	WinfldFoley RF A 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+451.58750 	WQBG379 	F	210.7 PL	WinfldFoley RF B 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+456.58750 	WQBG379 	F	192.8 PL	WinfldFoley RF C 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+461.40000 	WPHC373 	RM	173.8 PL	LinCo3 Sch A 	Lincoln County R3 Schools 	FMN 	Schools 
+452.32500 	WPMN507 	RM	173.8 PL	LinCo3 Sch B 	Lincoln County R3 Schools 	FMN 	Schools 
+461.15000 	WQBG379 	RM	162.2 PL	WnfldSchoolA 	Winfield R4 School 	FMN 	Schools 
+461.15000 	WQBG379 	RM	167.9 PL	WnfldSchoolB 	Winfield R4 School 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Bodine Aluminum - Troy MO	 DMR Hytera XPT	 Troy	

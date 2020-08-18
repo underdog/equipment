@@ -1,0 +1,46 @@
+155.53500 	KSC766 	RM	162.2 PL	Clark Sheriff 	Sheriff: Primary/Rural Dispatch [Ch 1] 	FMN 	Law Dispatch 
+453.23750 	WPKU884 	F	196 NAC	ClarkSheriff RFA 	Sheriff/Law: Remote Link  	P25 	Law Dispatch 
+159.21000 	KSC766 	RM		ClarkSheriff Tac 	Sheriff: Tac (or input 155.13 or 155.19) 	FMN 	Law Dispatch 
+155.19000 	KSC766 	M	162.2 PL	ClarkSheriff c2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+153.90500 	 	M		ClarkSheriff P1 	Sheriff: Portables 	FMN 	Law Tac 
+158.97000 	 	M		ClarkSheriff P2 	Sheriff: Portables  	FMN 	Law Tac 
+173.23750 	KSC766 	M		ClarkSheriff MX 	Sheriff: Mobile Extenders 	FMN 	Law Tac 
+155.80500 	WQEJ355 	BM		Clark EMA 1 	EMA 	FMN 	Emergency Ops 
+159.25500 	WQJS232 	RM	162.2 PL	Clark EMA 2 	EMA: Operations 	FMN 	Emergency Ops 
+151.38500 	WPKU884 	BM	162.2 PL	Clark Fire/EMS 	Fire/EMS: Dispatch 	FMN 	Fire Dispatch 
+453.03750 	WPKU884 	M		Clark 911 RF1 	Fire/EMS: Remote Receive Links 	P25 	Fire Dispatch 
+453.83750 	WPKU884 	M		Clark 911 RF3 	Fire/EMS: Remote Receive Links 	P25 	Fire Dispatch 
+453.91250 	WPKU884 	M		Clark 911 RF4 	Fire/EMS: Remote Receive Links 	P25 	Fire Dispatch 
+458.23750 	WPKU884 	M		Clark 911 RF2 	Fire/EMS: Remote Receive Links 	P25 	Fire Dispatch 
+153.96500 	WQEJ355 	RM	100.0 PL	Clark 911 TA-A 	Fire/EMS: Talk-Around (site A) 	FMN 	Fire-Tac 
+153.96500 	WQEJ355 	RM	151.4 PL	Clark 911 TA-B 	Fire/EMS: Talk-Around (site B-Simulcasts 151.385) 	FMN 	Fire-Tac 
+154.32500 	WPKU884 	M		Clark Fireground 	Fireground  	FMN 	Fire-Tac 
+155.22000 	KZ8762 	RM	162.2 PL	Clark Co EMS  	EMS: Dispatch (MERCI-2) 	FMN 	EMS Dispatch 
+151.01000 	KNHZ263 	RM	100.0 PL	Clark Highway 	Highway Department  	FMN 	Public Works 
+151.08500 	WPXR657 	RM	85.4 PL	Clark Parks 1 	Park District (Marshall)  	FMN 	Public Works 
+453.22500 	WPWD531 	RM		C-E RWaterD1 	Clark-Edgar Rural Water District 	FMN 	Public Works 
+453.57500 	WPWD531 	RM		C-E RWaterD2 	Clark-Edgar Rural Water District 	FMN 	Public Works 
+154.47125 	WQKE724 	F		CERWD WDD1 	Clark-Edgar Rural Water District-Data (CSQ) 	Telm 	Data 
+173.20375 	WQKE712 	F		CERWD WDD2 	Clark-Edgar Rural Water District-Data (CSQ) 	Telm 	Data 
+155.49000 	KBM663 	BM	151.4 PL	Casey Police 	Police: Dispatch (possible tone) 	FMN 	Law Dispatch 
+154.77000 	KBM663 	M		Casey PD u2U 	Police: Unit-to-Unit / Coles County Sheriff 	FMN 	Law Tac 
+154.80000 	WPSE974 	RM	162.2 PL	CaseyFireEMS 	Fire/EMS: Chit-Chat / En-Route 	FMN 	Fire-Tac 
+153.69500 	KNJG570 	B	151.4 PL	CaseyUtility 	Public Utility Departments  	FMN 	Public Works 
+451.26250 	WQAJ685 	F		Casey WDD 	Water Distribution Data 	Telm 	Data 
+154.87500 	WNRS287 	RM		Marshall Police 	Police: Dispatch (110.9/162.2?) 	FMN 	Law Dispatch 
+159.33000 	WPYN668 	RM		Marshall Fire 	Fire / EMS: Dispatch 	FMN 	Fire Dispatch 
+151.86500 	 	M		Marshall FG 	Fireground 	FMN 	Fire-Tac 
+453.45000 	KAB570 	RM	162.2 PL	Marshall PbWks 	Public Works 	FMN 	Public Works 
+173.20375 	WNNA503 	F		Marshall WDD  	Water Distribution Data (CSQ) 	Telm 	Data 
+154.96500 	WNBL287 	BM		Martinsvl Police 	Police: Local (rare use, possible 151.4 PL) 	FMN 	Law Tac 
+154.43000 	 	M	100.0 PL	Martinsville FG 	Fireground 	FMN 	Fire-Tac 
+462.10000 	WQQF881 	F		Martisville WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+154.20500 	KBJ422 	BM	156.7 PL	CrawfordFire 	Fire (Aid with Crawford County) 	FMN 	Fire-Tac 
+173.39000 	KDT38 	F		Westfield WDD  	Water Distribution Data 	Telm 	Data 
+154.49000 	WPBX681 	BM		WestfieldUtility 	Utilities 	FMN 	Public Works 
+151.68500 	WPYE562 	BM	110.9 PL	C-W Sch Bus 	Casey Westfield Community Schools: Buses 	FMN 	Schools 
+155.20500 	KTM822 	BM	723 DPL	CUSD2 Buses 	Marshall Community Unit District 2: Buses 	FMN 	Schools 
+122.80000 	 	BM	CSQ	1H8 CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+125.45000 	 	BM	CSQ	Hulman Ap/Dp 	Hulman Approach/Departure 	AM 	Aircraft 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Norris Electric Cooperative (IL)	 DMR Conventional Networked
+ Newton	

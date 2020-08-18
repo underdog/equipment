@@ -1,0 +1,59 @@
+453.78750 	WQKV470 	M	114.8 PL	79-JAIL-1 	Jail Operations 1 	FMN 	Corrections 
+453.73750 	WQKV470 	M	179.9 PL	79-JAIL-2 	Jail Operations 2 	FMN 	Corrections 
+155.05500 	KWE758 	BM	CSQ	79-EMA-VHF 	County EMA Paging/Tone Outs 	FMN 	Emergency Ops 
+155.02500 	KWE758 	BM	91.5 PL	79-EMA-WX 	County EMA Weather Alert Radios 	FMN 	Emergency Ops 
+154.37000 	KVQ682 	B	156.7 PL	79-FD-DISP 	Fire Dispatch / Tone-Outs 	FMN 	Fire Dispatch 
+153.01250 	WQNE532 	RM	131.8 PL	PHI DV FLT 1 CH1 	PHI Medical Helicopter Dove Flight 1 West Lafayette Ch.1 	FMN 	EMS Dispatch 
+153.08750 	WQDJ528 	RM	131.8 PL	PHI DV FLT 1 CH2 	PHI Medical Helicopter Dove Flight 1 West Lafayette Ch.2 	FMN 	EMS Dispatch 
+159.73500 	WQBC847 	BM		PHI DV FLT 1 CH3 	PHI Medical Helicopter Dove Flight 1 West Lafayette Ch.3 	FMN 	EMS Dispatch 
+153.06500 	WQFR305 	BM	203.5 PL	LIFELINE-LAF 	IU Health LifeLine VHF Lafayette 	FMN 	EMS Dispatch 
+462.17500 	WQKC977 	RM	743 DPL	PROMPT-EMS-BLS 	PROMPT EMS Basic Life Support Dispatch  	FMN 	EMS Dispatch 
+464.40000 	WQKC977 	RM	192.8 PL	PROMPT-EMS-WC 	PROMPT EMS Wheelchair Transport 	FMN 	EMS-Tac 
+47.42000 	KSW959 	BM		RED-CROSS 	Red Cross - Lafayette Chapter 	FMN 	Emergency Ops 
+151.01000 	KSI993 	RM	146.2 PL	79-HWY-MAIN 	County Highway Department 	FMN 	Public Works 
+154.05500 	KZF712 	BM		79-BGPW-OPS 	Battleground Government Services 	FMN 	Public Works 
+158.77500 	KNAJ260 	BM		79-LWW-OPS 	Lafayette Water Pollution Control 	FMN 	Public Works 
+453.60000 	WPHU812 	F		79-LWW-DATA 	Lafayette Wastewater Control Data 	Telm 	Public Works 
+155.89500 	KQS652 	BM	186.2 PL	79-WL-STRT 	West Lafayette Street Department 	FMN 	Public Works 
+159.25500 	KXO652 	BM		79-WL-PARK 	West Lafayette Parks Department 	FMN 	Public Works 
+453.35000 	KWB613 	RM	82.5 PL	79-GLPT-DISP 	Greater Lafayette Public Transportation 	FMN 	Transportation 
+452.42500 	WPLV363 	RM	192.8 PL	79-GLPT-OPS1 	Greater Lafayette Public Transportation 	FMN 	Transportation 
+463.38750 	WQJL517 	RM		IU-Arnett-1 	IU Health Arnett Hospital 	DMR 	Hospital 
+463.51250 	WQJL517 	RM		IU-Arnett-2 	IU Health Arnett Hospital 	DMR 	Hospital 
+451.83750 	WQLN769 	RM		StE-East-1 	St. Elizabeth East Hospital 	DMR 	Hospital 
+463.27500 	WQLN769 	RM		StE-Cent-1 	St. Elizabeth Central Hospital 	DMR 	Hospital 
+464.22500 	WQLN769 	RM		StE-Cent-2 	St. Elizabeth Central Hospital 	DMR 	Hospital 
+461.61250 	WQLN769 	RM		StE-Cent-3 	St. Elizabeth Central Hospital 	DMR 	Hospital 
+463.60000 	WPEP429 	RM	77.0 PL	VH-Hospital 	Indiana Veterans Home 	FMN 	Hospital 
+461.43750 	WQLK213 	RM		Westminster 	Westminster Village Retirement Home 	DMR 	Hospital 
+156.21000 	KSB412 	RM	156.7 PL	79-PUPD-SP 	Purdue - Police Student Patrol (SP-XXX units) 	FMN 	Law Dispatch 
+453.82500 	WNQF898 	RM		79-PU-OPS-1 	Purdue - Operations 1 	FMN 	Schools 
+453.92500 	WPGR200 	RM		79-PU-OPS-2 	Purdue - Operations 2 	FMN 	Schools 
+461.57500 	WNCQ663 	RM		79-PU-OPS-3 	Purdue - Operations 3 	FMN 	Schools 
+462.05000 	WQAT877 	RM	146.2 PL	79-PU-ENG 	Purdue - Engineering Department 	FMN 	Schools 
+155.28000 	KCI754 	BM		79-PU-ANIMAL 	Purdue - Large Animal Hospital 	FMN 	Schools 
+155.92500 	KSQ484 	RM	218.1 PL	79-PU-MAINT 	Purdue - Maintenance 	FMN 	Schools 
+453.52500 	KKH397 	RM	114.8 PL	79-PU-GROUND 	Purdue - Groudscrew, Dorms and Co-Rec 	FMN 	Schools 
+151.95500 	KSI770 	BM	254.1 PL	79-PU-TAXI 	Purdue - Taxi Service & Paging 	FMN 	Schools 
+151.62500 	KQC937 	M		79-PU-FOREST 	Purdue - Itinerant & Forestry 	FMN 	Schools 
+464.76250 	WQGS730 	M	141.3 PL	79-PU-GARAGE 	Purdue - Parking Garage Operations 	FMN 	Schools 
+154.51500 	WNSL991 	M		EDU-LJHS 	Lafayette Jefferson High School 	FMN 	Schools 
+451.22500 	WPLV659 	M		EDU-HERSHEY 	Hershey Elementary 	FMN 	Schools 
+451.32500 	WPOY381 	M		EDU-MIAMI 	Miami Public Schools 	FMN 	Schools 
+451.47500 	WPMG357 	M		EDU-EARHART 	Amelia Earhart Elementary 	FMN 	Schools 
+451.55000 	WPKZ290 	RM	023 DPL	EDU-MCCUTCH 	McCutcheon High School 	FMN 	Schools 
+451.96250 	WQJV558 	RM		EDU-BGMS 	Battleground Middle School 	DMR 	Schools 
+452.22500 	WPLY838 	M		EDU-GLENACRE 	Glen Acres 	FMN 	Schools 
+452.32500 	WPME277 	M		EDU-EDGELEA 	Edgelea Elementary 	FMN 	Schools 
+452.40000 	WPMZ700 	M		EDU-SUNNY 	Sunnyside Middle School 	FMN 	Schools 
+460.65000 	WPHJ966 	RM		LafaySchool1 	Lafayette School Corporation 	FMN 	Schools 
+460.80000 	WPIW769 	M	365 DPL	EDU-VINTON 	Vinton Elementary 	FMN 	Schools 
+462.22500 	WPQC631 	M		Linnwd Elem 	Linnwood Elementary 	FMN 	Schools 
+462.50000 	WPTN421 	RM		Tippec Schoo 	Tippecanoe School Corporation 	FMN 	Schools 
+463.55000 	WNLF870 	RM	315 DPL	LafaySchool2 	Lafayette School Corporation 	FMN 	Schools 
+463.56250 	WQJV344 	RM		BtlfldSchool 	Battleground Elementary School 	DMR 	Schools 
+464.95000 	WPLG843 	M		LafaySchool3 	Lafayette School Corporation 	FMN 	Schools 
+469.00000 	WPRX214 	M		WnwrtMidSch 	Wainwright Middle School 	FMN 	Schools 
+Caterpillar Lafayette	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lafayette	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Evonik Industries	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Shadeland	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	RA-COMM Lafayette	 Motorola Type IIi Hybrid	 West Lafayette	Subaru Indiana America
+ NXDN NEXEDGE 9600	 Lafayette	Tipmont REMC	 NXDN NEXEDGE 9600	 Multiple	Tippecanoe County (P25)	 Project 25 Phase I	 Lafayette

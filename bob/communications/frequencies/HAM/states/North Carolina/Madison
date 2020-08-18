@@ -1,0 +1,29 @@
+155.10000 	KNIM279 	RM	151.4 PL	MADISON-DISP 	EMS/Fire/Rescue Dispatch 	FM 	Fire Dispatch 
+158.94000 	KNIM279 	BM		MADISON-T/A 	EMS/Fire/Rescue Talkaround (Input) 	FM 	Fire-Tac 
+153.95000 	WQGT668 	BM	023 DPL	MADISON-TAC1 	Tactical 1 	FM 	Fire-Tac 
+153.98750 	WQGT668 	BM	432 DPL	MADISON-TAC2 	Tactical 2 	FM 	Fire-Tac 
+154.84500 	WQGT668 	BM	465 DPL	MADISON-TAC3 	Tactical 3 	FM 	Fire-Tac 
+158.96250 	WQGT668 	BM	606 DPL	MADISON-TAC4 	Tactical 4 	FM 	Fire-Tac 
+158.97750 	WQGT668 	BM	723 DPL	MADISON-TAC5 	Tactical 5 	FM 	Fire-Tac 
+153.02000 	WPKC603 	RM	67.0 PL	EMS-HOSP 	Mission Communication (EMS to Hospital) 	FM 	Hospital 
+155.34000 	KNIM468 	BM	151.4 PL	EMS-HOSP 	EMS to Hospital 	FM 	Hospital 
+154.28000 	 	BM	CSQ	ST-FIRE 	State Fire (Tx 151.4 PL) 	FM 	Fire-Tac 
+155.28000 	KNIM468 	BM	CSQ	ST-RESCUE 	State EMS/Rescue (Tx 151.4 PL) 	FM 	EMS-Tac 
+155.86500 	WPMW778 	RM	136.5 PL	BARN/JUP-FD 	Barnardsville/Jupiter Fire Repeater 	FM 	Fire-Talk 
+155.49000 	WNUQ305 	RM	77.0 PL	MCSO-DISP 	Dispatch 	FM 	Law Dispatch 
+154.87500 	WNUQ305 	BM	77.0 PL	MCSO-TAC1 	Tactical 1 (Mutual Aid [Rx CSQ]) 	FM 	Law Tac 
+158.97000 	WNUQ305 	BM		MCSO-TAC2 	Tactical 2 (Talk-around/Input) 	FM 	Law Tac 
+155.14500 	WQGT668 	RM	114 DPL	MADISON-EM 	Emergency Management 	FM 	Emergency Ops 
+155.56500 	 	RM	115 DPL	MADISON-EM 	Emergency Management 	FMN 	Emergency Ops 
+158.76000 	WNSN639 	RM	047 DPL	MADISON-PW1 	Public Works 1 	FM 	Public Works 
+153.93500 	WNSN639 	BM		MADISON-PW2 	Public Works 2 (Talkaround/Input) 	FM 	Public Works 
+155.88000 	KFQ904 	RM		HOT-SPNGS-FD 	Hot Springs Fire Repeater (Shared w/ MHFD) 	FM 	Fire-Talk 
+155.58750 	KDF535 	RM	125 DPL	MHFD-DISP 	Fire/Rescue Dispatch 1 	FM 	Fire Dispatch 
+155.25750 	KDF535 	BM		MHFD-TAC1 	Fire/Rescue Tactical 1 	FM 	Fire-Tac 
+154.37000 	KDF535 	RM	151.4 PL	MHFD-TAC2 	Fire/Rescue Tactical 2 	FM 	Fire-Tac 
+154.01000 	KDF535 	BM		MHFD-TAC3 	Fire/Rescue Tactical 3 (Input) 	FM 	Fire-Tac 
+453.90000 	WNQI810 	RM		MarshalServc 	Services 	FM 	Public Works 
+154.65000 	WNUI475 	BM	206.5 PL	Mars Hill PD 	Police 	FM 	Law Dispatch 
+158.73000 	WNUI475 	BM	206.5 PL	Mars Hill PD 	Police 	FM 	Law Tac 
+North Carolina VIPER	 Project 25 Phase I	 Varies	Progress Energy	 Motorola Type II SmartZone Omnilink	 Various	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ Statesville	

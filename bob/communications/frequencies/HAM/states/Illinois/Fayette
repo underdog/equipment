@@ -1,0 +1,39 @@
+155.68500 	WQVJ340 	RM	D8A NAC|TG 65535	Fay Sheriff Disp 	Sheriff: Dispatcher 	P25 	Law Dispatch 
+155.68500 	WQVJ340 	RM	D8A NAC|TG 1	Fay Sheriff Unit 	Sheriff: Units-to-Dispatch (in the clear) 	P25 	Law Dispatch 
+173.28750 	WQVJ340 	M	CSQ	Fayt Sheriff MX  	Sheriff: Mobile Extenders (CSQ Analog Narrow) 	FMN 	Law Dispatch 
+45.48000 	 	BM	CSQ	FayCo EMA LB 	Emergency Management: Local 	FM 	Emergency Ops 
+151.94000 	MURS3 	M		FayCoEMA Sec 	Security Detail 	FMN 	Emergency Ops 
+155.02500 	KZJ995 	BM	186.2 PL	ESMARN 	ESDA: Statewide High Band (PL on TX only) 	FMN 	Emergency Ops 
+151.10750 	WQRD200 	BM	743 DPL	Fay Fire/EMS 	Fire/EMS: Tone-Outs / Dispatch 	FMN 	EMS Dispatch 
+453.15000 	WPIG932 	RM		Fayt Highway 	Highway Department (Vandalia) 	FMN 	Public Works 
+155.92500 	WQDY515 	BM		Fayet Health 	Health Department Ops (Vandalia) 	FMN 	Public Works 
+173.39625 	WPMG887 	F		FWC WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+153.16250 	WQOZ516 	RM	351 DPL	FC Hospital A 	Operations 	FMN 	Business 
+153.16250 	WQOZ516 	RM	047 DPL	FC Hospital B 	Operations 	FMN 	Business 
+155.34000 	WPWR236 	BM	123.0 PL	MERCI1 123.0 	Patient Reports 	FMN 	Hospital 
+163.25000 	WPWR236 	B		FCH Paging 	Paging 	Telm 	Data 
+156.01500 	WPMF405 	M		Loudon Twp 	Loudon Township Road Maintenance (Beecher City) 	FMN 	Public Works 
+156.12000 	WPEV317 	BM		Vandalia Twp 	Vandalia Township Road Maintenance [Expired] 	FMN 	Public Works 
+154.32500 	KRV338 	BM		Eff Fire4325 	Fire 	FMN 	Fire-Tac 
+453.92500 	WPGI935 	F		Brwnstwn WDD 	Water Distribution Data 	Telm 	Data 
+153.92750 	WQHL971 	M		Farina PD MX 	Police: Mobile Extenders  	FMN 	Law Dispatch 
+154.43000 	 	BM		Farina Fire 	Fire/EMS: Dispatch (DB: Phone Patch) 	FMN 	Fire Dispatch 
+451.05000 	WPTY394 	F		Farina Water 	Farina Water Company: Water Distribution Data 	Telm 	Data 
+151.47500 	WRAG838 	RM	D8A NAC|TG 65535	Fay Sheriff Disp 	Sheriff: Dispatcher 	P25 	Law Dispatch 
+151.47500 	WRAG838 	RM	D8A NAC|TG 1	Fay Sheriff Unit 	Sheriff: Units-to-Dispatch 	P25 	Law Dispatch 
+154.41500 	WPPZ892 	RM	186.2 PL	Ramsey Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.05500 	KNGL842 	BM	351 DPL	Ramsey Local 	Street / Water / Police: Alternate 	FMN 	Multi-Dispatch 
+154.47875 	WPJQ532 	F		Ramsey WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+460.02500 	KNIB610 	BM		St Elmo Police 	Police 	FMN 	Law Tac 
+154.32500 	KFX224 	BM		Eff Fire4325 	Fire 	FMN 	Fire-Tac 
+155.77500 	WNPK887 	BM		St Elmo PubWrks 	City Operations 	FMN 	Public Works 
+154.32500 	WQFP676 	BM		Eff Fire4325 	Fire (St. Peter, Vandalia) 	FMN 	Fire Dispatch 
+158.80500 	WQEI498 	RM	D88 NAC|TG 1	Vandalia Police  	Police: Dispatch 	P25 	Law Dispatch 
+154.31000 	KFR773 	RM	94.8 PL	Vandalia Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+39.18000 	WQY600 	BM	CSQ	Vandalia PW 	Water / Street  	FM 	Public Works 
+122.80000 	WDZ8 	B		Vandalia Airport 	Vandalia Airport (Park District) 	AM 	Aircraft 
+154.54000 	WNVM516 	BM		StElmo School  	Operations 	FMN 	Schools 
+464.92500 	WRCY240 	RM	74.4 PL	Vandalia Schools 	Operations  	FMN 	Schools 
+122.80000 	 	B	CSQ	VLA CTAF 	CTAF/UNICOM / WX AWOS-A 	AM 	Aircraft 
+124.30000 	 	B	CSQ	Decatur RCAG 	Approach/Departure (by Kansas City AARTCC) 	AM 	Aircraft 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Southwestern Electric Cooperative (IL)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greenville IL	

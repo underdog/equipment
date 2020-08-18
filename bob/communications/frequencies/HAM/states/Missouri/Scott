@@ -1,0 +1,45 @@
+155.12250 	WRBQ335 	RM	023 DPL	Scott Sheriff N 	Sheriff: Dispatch - North (Simulcast 155.565) 	FMN 	Law Dispatch 
+155.49000 	KAK611 	RM	100.0 PL	Scott Sheriff 	Sheriff:  	FMN 	Law Dispatch 
+155.56500 	KAK611 	RM	293 NAC	Scott SheriffTac 	Sheriff: Tactical 	P25e 	Law Tac 
+460.16250 	WQIJ728 	F		Scott Shrf RF1 	Sheriff: Remote Receive Link (Morley) 	FMN 	Law Dispatch 
+465.16250 	WQIJ728 	F		Scott Shrf RF2 	Sheriff: Remote Receive Link (Scott City) 	FMN 	Law Dispatch 
+155.62500 	KAK611 	BM		Scott Shrf Old 	Sheriff: Private 	FMN 	Law Dispatch 
+155.65500 	WPKV453 	RM	100.0 PL	Scott Rural Fire 	Fire: Rural Dispatch 	FMN 	Fire Dispatch 
+155.56500 	KAK611 	RM	100.0 PL	Scott 911/Law 	Fire/EMS/Law: Countywide Dispatch (except S Scott EMS) 	FMN 	Multi-Dispatch 
+151.43000 	WPPA450 	RM		South Scott Fire 	South Scott County Fire  	FMN 	Fire-Tac 
+155.22000 	KWV613 	BM		MDMC Ops 	Operations 	FMN 	Hospital 
+155.34000 	KWV613 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+155.23500 	KYO295 	RM	71.9 PL	NScott EMS 1 	(OLD) North Scott County EMS 	FMN 	EMS Dispatch 
+155.16000 	WNNC434 	BM		NScott EMS 3 	(OLD) North Scott County EMS 	FMN 	EMS Dispatch 
+155.10000 	KNCE587 	RM		Chaffee Police  	Police: Dispatch - Future 	FMN 	Law Dispatch 
+155.10000 	KNCE587 	BM	146.2 PL	Chaffee Police1  	Police: Dispatch 	FMN 	Law Dispatch 
+155.68500 	WPNW809 	BM		Chaffee Police2  	Police 	FMN 	Law Tac 
+154.08500 	WNUU423 	BM		Chaffee Housing  	Housing Authority 	FMN 	Public Works 
+155.41500 	KNFA361 	RM	100.0 PL	Miner Police R  	Police 	FMN 	Law Dispatch 
+155.70000 	WPGS845 	BM	107.2 PL	Miner Police 	Police 	FMN 	Law Tac 
+154.44500 	WPFJ951 	BM		Miner Fire 	Fire 	FMN 	Fire Dispatch 
+154.04000 	KDN592 	BM	100.0 PL	Sikeston Fire 2  	Fire: Dispatch [Ch 2] (DB: Sikeston) 	FMN 	Fire Dispatch 
+154.23500 	WNVG965 	BM		NBC Fire 	Fire 	FMN 	Fire-Talk 
+173.28750 	WPML568 	F		PWSD2 WDD  	Water Telemetry 	Telm 	Data 
+956.38125 	WQLQ557 	F		PWSD4 WDD  	Water Telemetry  	Telm 	Data 
+154.98000 	WPPU682 	RM	107.2 PL	ScottCity Police 	Police: Local (some use) 	FMN 	Law Dispatch 
+154.74000 	KNJK558 	BM	107.2 PL	SctCty Police A 	Police (possibly P25) 	FMN 	Law Tac 
+155.77500 	WNKE649 	BM	192.8 PL	SctCty Police B 	Police 	FMN 	Law Tac 
+154.20500 	WNGV452 	RM	107.2 PL	ScottCty Fire 	Fire 	FMN 	Fire Dispatch 
+155.31750 	WQAX914 	RM		ScottCity Fire 	Fire (with Mutual Aid to surrounding area) 	FMN 	Fire Dispatch 
+154.38500 	WPXR670 	BM	100.0 PL	SctCty FireLocal 	Fire 	FMN 	Fire-Tac 
+155.77500 	WNKE649 	BM	107.2 PL	ScottCty PubWrks 	Public Works 	FMN 	Public Works 
+155.49000 	KNDD883 	RM	100.0 PL	Sikeston Police1 	Police: Dispatch - Old 	FMN 	Law Dispatch 
+159.01500 	WPKX683 	M	100.0 PL	Sikeston Police3 	Police: Channel 3 - Old 	FMN 	Law Tac 
+159.15000 	WPKX683 	RM	253 NAC	Sikeston Polic10 	Police: P25 [Ch 10] 	P25 	Law Dispatch 
+154.11500 	KNJX356 	M	179.9 PL	Sikeston Police3 	Police: Alternate (still in use?) 	FMN 	Law Tac 
+154.04000 	KDN592 	BM	100.0 PL	Sikeston Fire 2 	Fire: Tone-Outs / Dispatch [Ch 2] (also Morehouse) 	FMN 	Fire Dispatch 
+155.14500 	KDN592 	BM		Sikeston Fire C 	Fire 	FMN 	Fire-Tac 
+154.36250 	WQGL560 	M		Sikeston Fire D 	Fire 	FMN 	Fire-Tac 
+158.75250 	WQGL560 	M		Sikeston Fire E 	Fire 	FMN 	Fire-Tac 
+153.80000 	 	BM	127.3 PL	Sikeston Utility 	Utilities 	FMN 	Public Works 
+463.50000 	WQLJ317 	RM		StDenCathSch 	St Denis Catholic School (Benton) 	FMN 	Schools 
+451.92500 	WQFL818 	RM		Sikeston Sch Bus 	Bus Routing/Dispatch 	FMN 	Schools 
+461.37500 	WNVG893 	RM		Sikeston Schools 	Operations 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Dittronics - UHF (Benton-SEMO)	 LTR Standard	 Benton	Dittronics - UHF (DMR)	 DMR Hytera XPT
+ SEMO	G and D Communications (SEMO)	 LTR MultiNet	 Bloomfield	G and D Communications - UHF (SEMO)	 LTR Standard	 Various	

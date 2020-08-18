@@ -1,0 +1,76 @@
+453.87500 	KNCB825 	RM	67.0 PL	Penn SWAT 	Sheriff/Rapid City SWAT 	FMN 	Law Tac 
+155.55000 	WNAV778 	RM	192.8 PL	Penn SO RC 	Rapid City/Skyline Backup 	FMN 	Law Dispatch 
+155.55000 	WNAV778 	RM	293 NAC	Penn SO RC D 	Rapid City/Skyline Digital Backup 	P25 	Law Dispatch 
+155.61000 	WNAV778 	RM	293 NAC	Penn SO Keys 	Keystone Digital Backup  	P25 	Law Dispatch 
+155.41500 	WPTF942 	RM	293 NAC	Penn SO HCty 	Hill City Digital Backup  	P25 	Law Dispatch 
+155.67000 	WNAV778 	RM	100.0 PL	Penn SO Br 	Rapid City/Elk Vale Backup 	FMN 	Law Dispatch 
+155.67000 	WNAV778 	RM	293 NAC	Penn SO Br D 	Rapid City/Elk Vale Digital Backup 	P25 	Law Dispatch 
+158.79000 	WNAV778 	RM	141.3 PL	Penn SO Wall 	Wall Backup  	FMN 	Law Dispatch 
+158.79000 	WNAV778 	RM	293 NAC	Penn SO Wl D 	Wall Digital Backup  	P25 	Law Dispatch 
+155.31000 	WNAV778 	M	100.0 PL	Penn MobExt 	Mobile Extender 	FMN 	Law Talk 
+453.15000 	KNIK271 	RM	123.0 PL	Penn Deten 1 	Detention Center 1 	FMN 	Corrections 
+453.80000 	WPBE770 	RM	179.9 PL	Penn Deten 2 	Detention Center 2 	FMN 	Corrections 
+154.38500 	WNNX309 	RM	162.2 PL	Penn FD 1W 	Zone 1 West 	FMN 	Fire-Tac 
+154.38500 	WNNX309 	RM	293 NAC	Penn FD 1W-D 	Zone 1 West Digital 	P25 	Fire-Tac 
+154.34000 	WNNX309 	RM	77.0 PL	Penn FD 2E 	Zone 2 East Dispatch 	FMN 	Fire-Tac 
+154.34000 	WNNX309 	RM	293 NAC	Penn FD 2E-D 	Zone 2 East Dispatch Digital 	P25 	Fire-Tac 
+154.23500 	WNNX309 	RM	118.8 PL	Penn FD 3RC 	Zone 3 Rapid Dispatch - Backup 	FMN 	Fire-Tac 
+154.23500 	WNNX309 	RM	293 NAC	Penn FD 3RCD 	Zone 3 Rapid Dispatch Digital - Backup 	P25 	Fire-Tac 
+154.26500 	WNNX309 	BM	156.7 PL	VFire 21 	VFire 21 	FMN 	Fire-Tac 
+154.28000 	WNNX309 	BM	156.7 PL	VFire 22 	VFire 22 	FMN 	Fire-Tac 
+154.29500 	WNNX309 	BM	156.7 PL	VFire 23 	VFire 23 	FMN 	Fire-Tac 
+154.17500 	WNNX309 	M	CSQ	Penn FD Tac1 	Fireground 1 	FMN 	Fire-Tac 
+154.20500 	WNNX309 	M	CSQ	Penn FD Tac2 	Fireground 2 	FMN 	Fire-Tac 
+154.37000 	WNNX309 	M	CSQ	Penn FD Tac3 	Fireground 3 	FMN 	Fire-Tac 
+154.40000 	WNNX309 	M	CSQ	Penn FD Tac4 	FIreground 4 	FMN 	Fire-Tac 
+154.13000 	 	BM	CSQ	Wall Fire 	Wall Volunteer Fire Dept Tactical 	FMN 	Fire-Tac 
+155.20500 	KNBS868 	BM	CSQ	Wall EMS Tac 	Wall EMS Tactical 	FMN 	EMS-Tac 
+155.40750 	WPTL517 	RM	146.2 PL	LifeFlt Wall 	Rapid City Regional Hospital / Lifeflight 	FMN 	EMS Dispatch 
+154.96500 	WNNU820 	RM	179.9 PL	Penn SAR Seth 	Penn SAR Seth Bullock Lookout 	FMN 	Emergency Ops 
+154.96500 	WNNU820 	RM	131.8 PL	Penn SAR Port 	Penn SAR Portable Scene Repeater 	FMN 	Emergency Ops 
+154.98000 	KDX557 	RM	141.3 PL	Penn EM Seth 	Emergency Management Seth Bullock 	FM 	Emergency Ops 
+47.42000 	WQGP661 	BM	146.2 PL	Red Cross A 	American Red Cross A - Primary 	FM 	Emergency Ops 
+47.50000 	WQGP661 	BM	146.2 PL	Red Cross B 	American Red Cross B - Secondary 	FM 	Emergency Ops 
+151.62500 	WQDV402 	BM	100.0 PL	Red Cross E 	American Red Cross E 	FMN 	Emergency Ops 
+464.50000 	 	BM	110.9 PL	Red Cross F 	American Red Cross F 	FMN 	Emergency Ops 
+464.55000 	 	BM	110.9 PL	Red Cross G 	American Red Cross G 	FMN 	Emergency Ops 
+47.42000 	WQGP661 	RM	146.2 PL	Red Cross 	American Red Cross Repeater 	FM 	Emergency Ops 
+154.43000 	WNNX309 	RM	CSQ	Penn Paging 	Digital Paging 	FMN 	Data 
+151.88000 	 	BM	CSQ	Bear Mtn Fire 	Bear Mountion Fire Hand Crew Tactical 	FMN 	Fire-Tac 
+151.04000 	WPTY410 	RM	192.8 PL	Penn JuvJail 	Juvenile Authority 	FMN 	Corrections 
+156.10500 	KAM687 	RM	156.7 PL	Penn Roads E 	Highways East Wall 	FMN 	Public Works 
+156.18000 	KAM687 	RM	123.0 PL	Penn Roads W 	Highways West Hill City 	FMN 	Public Works 
+153.92000 	KAM687 	M	67.0 PL	Penn Roads T 	Highways Tactical 	FMN 	Public Works 
+453.52500 	WPEE991 	RM		Penn Housing 	Housing Commission 	FMN 	Public Works 
+460.60000 	WNKS203 	RM	CC 1TG 16776415SL 1	Penn Detox 	Detox Center 	DMR 	Public Works 
+453.76250 	WQHG308 	RM		Douglas Sch1 	Douglas School District 51-1 1 	DMR 	Schools 
+453.28750 	WQHG308 	RM		Douglas Sch2 	Douglas School District 51-1 2 	DMR 	Schools 
+453.26250 	WQHG308 	RM		Douglas Sch3 	Douglas School District 51-1 3 	DMR 	Schools 
+154.14500 	WPQY391 	BM	CSQ	Hill City Fire 	Fire 	FMN 	Fire-Tac 
+155.70000 	WPSN624 	RM		Hill City PubWrk 	Public Works 	FMN 	Public Works 
+151.11500 	WPKN865 	RM	100.0 PL	RapCity Police1 	Police backup repeater 	FMN 	Law Dispatch 
+453.70000 	KB85848 	RM	103.5 PL	RapCity Police5 	Police - Animal Control 5 	FMN 	Law Tac 
+154.54000 	WPGM777 	BM	179.9 PL	RapCity Hosp 2 	Regional Hospital - Plant Ops 2 	FMN 	Business 
+154.51500 	WPGM777 	BM	179.9 PL	RapCity Hosp 3 	Regional Hospital - Plant Ops 3 	FMN 	Business 
+152.00750 	WNHL728 	B	254.1 PL	RapCity Hosp 4 	Regional Hospital - Pagers 	FMN 	Business 
+409.00000 	 	BM		SiouxSanHosp 	Sioux San Hospital 	FMN 	Hospital 
+453.85000 	KNNR736 	RM		RapCity Civic 1 	Rapid City Civic Center 1 	FMN 	Public Works 
+453.92500 	KNNR736 	RM		RapCity Civic 2 	Rapid City Civic Center 2 	FMN 	Public Works 
+453.10000 	KCE521 	RM	141.3 PL	RapCity Park 	Parks & Recreation 	FMN 	Public Works 
+155.76000 	WPFX474 	RM	71.9 PL	RapCity DPW 	Public Works 	FMN 	Public Works 
+154.10000 	WPFX474 	RM	71.9 PL	RapCity Watr 	Water 	FMN 	Public Works 
+453.23750 	WQQX668 	BM	67.0 PL	RapCity Waste 1 	Solid Waste Operations 1 	FMN 	Public Works 
+453.73750 	WQQX668 	BM	127.3 PL	RapCity Waste 2 	Solid Waste Operations 2 	FMN 	Public Works 
+453.97500 	WQQX668 	M	110.9 PL	RapCity Landfill 	Landfill 	FMN 	Public Works 
+152.43500 	WPTF937 	RM	CC 10TG 99SL 1	RC Schools 99 	Public Schools 99 	DMR 	Schools 
+152.43500 	WPTF937 	RM	CC 10TG 200SL 1	RC Schools 200 	Public Schools 200 Buses/Maint 	DMR 	Schools 
+152.46500 	WPGC962 	RM	CC 10TG 1110SL 1	RC High School 	Rapid City High Schools 	DMR 	Schools 
+152.36000 	WPTF937 	RM		Central High 	Central High School 	DMR 	Schools 
+152.28500 	WPTF937 	RM		Stevens High 	Stevens High School 	DMR 	Schools 
+461.10000 	WPHW789 	RM	107.2 PL	Stevens Athl 	Stevens High School - Athletics 	FMN 	Schools 
+460.65000 	WPHW789 	RM	82.5 PL	RC N Mid Sch 	North Middle School 	FMN 	Schools 
+453.16250 	WQWW682 	RM	CC 7TG 7SL 1	SDSMT 7  	South Dakota School of Mines & Technology 7 	DMR 	Schools 
+453.16250 	WQWW682 	RM	CC 7TG 8SL 2	SDSMT 8  	South Dakota School of Mines & Technology 8 	DMR 	Schools 
+453.16250 	WQWW682 	RM	CC 7TG 9SL 1	SDSMT 9  	South Dakota School of Mines & Technology 9 	DMR 	Schools 
+Black Hills Energy	 MPT-1327 Standard	 Various	South Dakota State Radio System	 Motorola Type II SmartZone	 Statewide	Western Comm LTR (Rapid City)	 LTR Standard
+ Rapid City	Western Communications (Rapid City)	 Motorola Type IIi Hybrid	 Rapid City	Western Communications (Rapid City)	 DMR Motorola Connect Plus (TRBO)	 Rapid City	

@@ -1,0 +1,67 @@
+453.60000 	WQBI560 	RM	156.7 PL	WCS0 Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+453.92500 	WQBB992 	RM	351 DPL	WCSO F2 	Sheriff Ch.2 	FMN 	Law Tac 
+465.36250 	WPBW704 	M	100.0 PL	WCSO F3 	Sheriff Ch.3 	FMN 	Law Talk 
+460.03750 	KQH450 	M	100.0 PL	WCSO MRE 	Sheriff MRE 	FM 	Law Talk 
+39.58000 	KQH450 	B	CSQ	WCSO Lo 58 	Sheriff interagency 	FM 	Law Talk 
+453.85000 	WNKX571 	RM	031 DPL	Belpre PD 	Belpre PD dispatch 	FM 	Law Dispatch 
+159.15000 	 	M		BelprePD Car 	Belpre PD Car to Car 	FM 	Law Talk 
+465.07500 	WPLD313 	M		LowellPD TAC 	Lowell PD 	FM 	Law Talk 
+460.30000 	KQB389 	RM	025 DPL	MariettaPD 1 	Marietta PD Dispatch 	FM 	Law Dispatch 
+460.02500 	KQB389 	M	025 DPL	MariettaPD 2 	Marietta PD secondary 	FM 	Law Talk 
+151.86500 	KVB968 	BM	88.5 PL	MCPD VHF 	Marietta College PD 	FM 	Law Talk 
+46.14000 	Varies 	BM	CSQ	WCF Disp 	County Fire/EMS dispatch 	FM 	Fire Dispatch 
+46.22000 	Varies 	BM	CSQ	WCF 2 	County Fire/EMS operations 	FM 	Fire-Tac 
+465.41250 	WQBQ320 	M	031 DPL	WCF Fgnd 	County Fireground simplex 	FMN 	Fire-Tac 
+453.78750 	WQBQ320 	RM	031 DPL	WCF Cornes 	Operations - Little Hocking area 	FMN 	Fire-Tac 
+460.15000 	WQBQ320 	RM	031 DPL	WCF Glendale 	Operations - central area 	FMN 	Fire Dispatch 
+453.48750 	WQBQ320 	RM	031 DPL	WCF Belmont 	Operations - southeast area 	FMN 	Fire-Tac 
+453.52500 	WQBQ320 	RM	031 DPL	WCF Glass 	Operations - east area 	FMN 	Fire-Tac 
+453.82500 	WPVS258 	RM	192.8 PL	WCF Beebe 	Operations - northwest area 	FMN 	Fire-Tac 
+453.70000 	KVX736 	RM	151.4 PL	WCF Tick Rdg 	Operations - west area 	FMN 	Fire-Tac 
+460.21250 	WQBQ320 	RM		WCF Waterfrd 	Operations - Waterford area 	FM 	Fire-Tac 
+453.95000 	WNMA928 	RM	031 DPL	MariettaFD 1 	Marietta FD Dispatch (F1) /  talkaround (F2) 	FMN 	Fire Dispatch 
+453.22500 	WNMA928 	BM	031 DPL	MariettaFD 3 	Marietta FD Fireground F3 	FMN 	Fire-Tac 
+458.22500 	WNMA928 	BM	031 DPL	MariettaFD 4 	Marietta FD Fireground F4 	FMN 	Fire-Tac 
+453.02500 	KTH459 	RM	210.7 PL	Reno VFD 	Reno link to 46.14 	FM 	Fire Dispatch 
+453.12500 	KCP425 	RM	82.5 PL	LwrSalem FD 	Lower Salem link to 46.14 	FM 	Fire-Tac 
+453.17500 	WNNO467 	RM	100.0 PL	Fearing FD 	Fearing operations 	FM 	Fire-Tac 
+453.35000 	notlicensed 	RM	CSQ	Warren FD 	Warren link to 46.14 	FM 	Fire-Tac 
+453.45000 	WPLR597 	RM	82.5 PL	Newport VFD 	Newport Twp operations 	FM 	Fire-Tac 
+453.47500 	WQFZ642 	RM	82.5 PL	Belpre FD 	Belpre Fire Dispatch 	FMN 	Fire Dispatch 
+453.51250 	WPOX491 	M	151.4 PL	Barlow Fgnd 	Barlow Twp Fireground 	FM 	Fire-Tac 
+453.70000 	KVX736 	RM	151.4 PL	Barlow FD 	Barlow Twp Fire 	FM 	Fire-Tac 
+453.82500 	WPVS258 	RM	192.8 PL	Beverly FD 	Beverly Dispatch 	FMN 	Fire Dispatch 
+460.05000 	WQYU557 	RM	CC 1TG 1000SL 1	Bev-Wat EMS 	Beverly-Waterford EMS (basic privacy) 	DMR 	EMS-Talk 
+460.46250 	WQAS783 	RM	77.0 PL	Warren FD 	Warren Twp FD 	FM 	Fire-Tac 
+460.51250 	KVX736 	M	151.4 PL	Barlow Fgnd 	Barlow Fireground 	FM 	Fire-Tac 
+460.57500 	WNPF983 	RM	123.0 PL	LittleMuskFD 	Little Muskingum link to 46.14 	FM 	Fire Dispatch 
+460.62500 	KNDV382 	RM	127.3 PL	Lowell VFD 	Lowell link to 46.14 	FM 	Fire Dispatch 
+462.00000 	notlicensed 	M	023 DPL	Beverly VFD 	Beverly Fireground 	FMN 	Fire-Tac 
+465.62500 	KNDV382 	M	123.0 PL	LowellVFD FG 	Lowell Fireground 	FMN 	Fire-Tac 
+467.85000 	notlicensed 	M	192.8 PL	Wtrtown Fgnd 	Watertown Fireground 	FMN 	Fire-Tac 
+155.17500 	KNHL964 	BM	173.8 PL	Selby Hosp 	Selby Hospital 	FM 	Hospital 
+155.29500 	KNHM977 	BM	173.8 PL	MMH ER 	Marietta Memorial Hospital ER 	FM 	Hospital 
+163.25000 	KMK964 	B	CSQ	MMH Pager 	Marietta Memorial Hospital pagers 	FM 	Data 
+37.98000 	KDK696 	BM		WC Engineer 	County Engineer 	FM 	Public Works 
+45.80000 	WNQY581 	BM		WtrfrdTwp PW 	Waterford Township 	FM 	Public Works 
+154.02500 	WNSD952 	BM		MarttaTwp PW 	Marietta Township 	FM 	Public Works 
+155.08500 	WPDZ297 	BM		WarrenTwp PW 	Warren Township 	FM 	Public Works 
+155.74500 	WNMY254 	BM		Matamoras PW 	Matamoras Village 	FM 	Public Works 
+173.21000 	KNNJ358 	BM		Tri-Co Water 	Tri-County Rural Water & Sewer District 	FM 	Public Works 
+173.21000 	KNNJ651 	BM		Tri-Co Water 	Tri-County Rural Water & Sewer District 	FM 	Public Works 
+453.15000 	WNLZ688 	RM	025 DPL	Marietta Svc 	Marietta services 	FM 	Public Works 
+453.43750 	WQEG666 	RM	151.4 PL	BelpreTwp PW 	Belpre Twp Road Dept 	FM 	Public Works 
+453.51250 	WPOX491 	RM	223 DPL	WC Engineer 	County Engineer 	FM 	Public Works 
+453.70000 	KVX736 	RM		BarlowTwp PW 	Barlow Township 	FM 	Public Works 
+155.11500 	KNBA763 	BM	107.2 PL	WASCO 	WASCO Handicap School 	FM 	Schools 
+461.02500 	WPEY856 	RM	114 DPL	FortFrye LSD 	Fort Frye Local School District 	FMN 	Schools 
+461.56250 	WNWV592 	RM	205 DPL	Belpre CSD 	Belpre City Schools 	FMN 	Schools 
+462.12500 	WPNW580 	RM	127.3 PL	Frontier LSD 	Frontier Local School District 	FM 	Schools 
+463.40000 	WNUX694 	RM		Warren LSD 	Warren Local School District 	FM 	Schools 
+464.25000 	WNHM514 	RM	466 DPL	Warren LSD 	Warren Local School District 	FM 	Schools 
+464.77500 	WQCR370 	RM	131 DPL	Marietta CSD 	Marietta City Schools 	FM 	Schools 
+153.68000 	KQ8208 	BM		AEP Alt 	American Electric Power backup 	FM 	Utilities 
+451.05000 	WPUU577 	RM	073 DPL	Duke Energy 	Duke Energy 	FM 	Utilities 
+451.70000 	WQDJ928 	RM	107.2 PL	AEP Alt 	American Electric Power backup 	FM 	Utilities 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Miller Communications	 LTR Standard	 Marietta	Miller Communications (Vienna)	 LTR Standard
+ Vienna	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	

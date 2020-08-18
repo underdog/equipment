@@ -1,0 +1,46 @@
+39.92000 	KQH858 	BM		MrcrCoSO Dp 	Mercer County Sheriff - Dispatch 	FMN 	Law Dispatch 
+39.98000 	 	BM	103.5 PL	MrcrCoSOADp 	Mercer County Sheriff - Alternate 	FMN 	Law Tac 
+460.17500 	KQH858 	RM	103.5 PL	MrcrCoSO Lk 	Mercer County Sheriff - Link 	FMN 	Law Dispatch 
+453.80000 	KQH858 	M	103.5 PL	MrcrCoSO VRp 	Mercer County Sheriff - Vehicular Repeater 	FMN 	Law Tac 
+452.50000 	 		103.5 PL	MrcrCoSO UHF 	Mercer County Sheriff 	FMN 	Law Talk 
+155.31000 	KRB499 	RM		BluefldPD Dp 	Bluefield PD Dispatch 	FMN 	Law Dispatch 
+453.32500 	WQTY558 	RM		BluefldPD 	Bluefield PD 	DMR 	Law Dispatch 
+153.75500 	KRB499 	BM		BluefldPD Tc 	Bluefield PD - Tactical 	FMN 	Law Tac 
+453.50000 	WNUV404 	RM	203.5 PL	Princeton PD 	Princeton PD 	FMN 	Law Dispatch 
+154.44500 	WNDM912 	RM	032 DPL	MrcrCoFD Dp1 	Mercer County Fire - Dispatch 	FMN 	Fire Dispatch 
+154.44500 	WNDM912 	RM	100.0 PL	MrcrCoFD Dp2 	Mercer County Fire - Dispatch 	FMN 	Fire Dispatch 
+154.44500 	WNDM912 	BM	CSQ	MrcrCoFD T/A 	Mercer County Fire - Talkaround 	FMN 	Fire-Talk 
+460.43750 	WQCJ752 	RM	D30 NAC	MrcrCoFD PTw 	Mercer County Fire - P25 Princeton Tower (D30 NAC Input) 	P25 	Fire Dispatch 
+460.43750 	WQCJ752 	RM	D30 NAC	MrcrCoFD ATw 	Mercer County Fire - P25 Arista Tower (D31 NAC Input) 	P25 	Fire Dispatch 
+460.43750 	WQCJ752 	RM	D30 NAC	MrcrCoFDERTw 	Mercer County Fire - P25 East River Mtn Tower (D32 NAC Input) 	P25 	Fire Dispatch 
+154.96500 	KWE332 	BM	94.8 PL	Athens VFD 	Athens VFD Tactical 	FMN 	Fire Dispatch 
+155.10000 	 	RM	94.8 PL	BluefldFD Dp 	Bluefield FD - Dispatch 	FMN 	Fire Dispatch 
+158.79000 	 	M		BluefldFDADp 	Bluefield FD - Alternate 	FMN 	Fire-Tac 
+154.38500 	WPCP864 	BM	043 DPL	BlustVly VFD 	Bluestone Valley VFD Tactical 	FMN 	Fire Dispatch 
+154.37000 	WNMY605 	BM	94.8 PL	BluewellVFDp 	Bluewell VFD Tactical 	FMN 	Fire Dispatch 
+154.10000 	KNCT742 	BM	94.8 PL	BramwellVFDp 	Bramwell VFD Tactical 	FMN 	Fire Dispatch 
+154.98000 	WQEB639 	RM	94.8 PL	EastRver VFD 	East River VFD Tactical 	FMN 	Fire-Tac 
+151.10000 	KFT484 	RM	94.8 PL	GreenVllyVFD 	Green Valley VFD Tactical 	FMN 	Fire Dispatch 
+154.02500 	WZX465 	RM	94.8 PL	Matoaka VFD 	Matoaka VFD Tactical 	FM 	Fire Dispatch 
+154.11500 	 		94.8 PL	Montcalm VFD 	Montcalm VFD Tactical 	FMN 	Fire Dispatch 
+154.96500 	KWE332 	BM	CSQ	Oakvale VFD 	Oakvale VFD Tactical 	FMN 	Fire Dispatch 
+150.99500 	WPGZ736 	RM	203.5 PL	Princeton FD 	Princeton FD - Dispatch 	FMN 	Fire Dispatch 
+151.04000 	WPXS569 	RM	100.0 PL	MrcrCo EMSDp 	Mercer County EMS - Dispatch 	FMN 	EMS Dispatch 
+155.26500 	WPTU627 	BM	114.8 PL	MrcrCo CWMuA 	Mercer County Mutual Aid - Countywide 	FMN 	Interop 
+155.34000 	KTR787 	BM		MrcrCo Hosps 	Mercer County Hospitals 	FMN 	Hospital 
+151.92500 	WPVB291 	BM		Prnctn Hosp 	Princeton Hospital - Intercom 	FMN 	Hospital 
+155.16000 	KVT617 	BM	114.8 PL	BluefldRscSq 	Bluefield Rescue Squad 	FMN 	EMS Dispatch 
+453.95000 	KVT617 	F	186.2 PL	BluefldRscSq 	Bluefield Rescue Squad - Link 	FMN 	EMS-Talk 
+152.30750 	WQCN832 	RM	229.1 PL	PrnctnRscSqR 	Princeton Rescue Squad - Repeater 	FMN 	EMS Dispatch 
+155.22000 	WSY258 	BM		PrnctnRscSq 	Princeton Rescue Squad 	FMN 	EMS-Tac 
+155.20500 	KNBA670 	BM		BFRH Securty 	Bluefield Regional Hospital - Security 	FM 	Security 
+462.02500 	WPAJ626 			STAT Amblnce 	STAT Ambulance 	FMN 	EMS-Tac 
+460.36250 	WQRU343  	BM		BluefldStrDp 	Bluefield Street Department 	DMR 	Public Works 
+453.90000 	WPNZ845 	M		Princeton Ut 	Princeton Utilities 	FMN 	Public Works 
+152.99750 	WQFR560 	RM		BluefldSCSec 	Bluefield State College Security 	FMN 	Security 
+158.83500 	KNJG793 	RM	110.9 PL	MrcrCoBOEbus 	Mercer County Board of Education - Buses 	FMN 	Schools 
+451.92500 	WNLL535 	RM		CncrdCoScrty 	Concord College Security 	FMN 	Security 
+461.02500 	WNLL535 	RM	025 DPL	CncrdCoScrty 	Concord College Security 	FMN 	Security 
+464.05000 	WNLL535 	RM		CncrdCoScrty 	Concord College Security 	FMN 	Security 
+464.27500 	WNLL535 	RM		CncrdCoScrty 	Concord College Security 	FMN 	Security 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	West Virginia Statewide Interoperability Radio Network (SIRN) 	 Project 25 Phase I	 Statewide	

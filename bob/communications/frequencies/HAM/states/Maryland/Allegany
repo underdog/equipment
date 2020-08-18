@@ -1,0 +1,61 @@
+33.78000 	KTG669 	BM	82.5 PL	AC Fire/EMS 	Fire/EMS Dispatch 	FM 	EMS Dispatch 
+460.55000 	WNJM820 	RM	151.4 PL	AC F/E Alerting 	Fire/EMS Alerting 	FMN 	Fire Dispatch 
+33.68000 	KTG669 	BM	82.5 PL	AC FD F/G 2 	Fireground 	FM 	Fire-Tac 
+33.98000 	KTG669 	BM	82.5 PL	AC FD F/G 3 	Fireground 	FM 	Fire-Tac 
+33.60000 	KTG669 	BM	82.5 PL	AC FD F/G 4 	Fireground 	FM 	Fire-Tac 
+453.03750 	WQRD909 	M	054 DPL	ACFD ATac 1A 	Fire ATac 1 A 	FMN 	Fire-Tac 
+453.06250 	WQRD909 	M	054 DPL	ACFD ATac 2A 	Fire ATac 2 A 	FMN 	Fire-Tac 
+453.13750 	WQRD909 	M	054 DPL	ACFD ATac 3A 	Fire ATac 3 A 	FMN 	Fire-Tac 
+458.03750 	WQRD909 	M	054 DPL	ACFD ATac 4A 	Fire ATac 4 A 	FMN 	Fire-Tac 
+458.06250 	WQRD909 	M	054 DPL	ACFD ATac 5A 	Fire ATac 5 A 	FMN 	Fire-Tac 
+458.13750 	WQRD909 	M	054 DPL	ACFD ATac 6A 	Fire ATac 6 A 	FMN 	Fire-Tac 
+453.56250 	WPPV765 	M	054 DPL	ACFD ATac 7A 	Fire ATac 7 A 	FMN 	Fire-Tac 
+458.56250 	WPPV765 	M	054 DPL	ACFD ATac 8A 	Fire ATac 8 A 	FMN 	Fire-Tac 
+453.36250 	WQCI629 	M	054 DPL	ACFD ATac 9A 	Fire ATac 9 A 	FMN 	Fire-Tac 
+453.51250 	WQCI629 	M	054 DPL	ACFD ATac10A 	Fire ATac 10 A 	FMN 	Fire-Tac 
+155.28000 	KAB226 	BM	186.2 PL	AC EMS B/U 	EMS Back-up (used to call dispatch or hospital) 	FM 	EMS-Tac 
+462.95000 	KAB226 	BM	127.3 PL	AC EMS Call1 	EMS Response (Call-1 / Med-9) 	FM 	Hospital 
+463.00000 	KAB226 	BM	127.3 PL	AC EMS Med-1 	EMS Hospital Consult (Med-1) 	FM 	Hospital 
+463.05000 	KAB226 	BM	127.3 PL	AC EMS Med-3 	EMS Hospital Consult (Med-3) 	FM 	Hospital 
+463.12500 	KAB226 	BM	127.3 PL	AC EMS Med-6 	EMS Hospital Consult (Med-6) 	FM 	Hospital 
+460.22500 	WQFI398 	M	67.0 PL	BG VFD Ch 1 	Bowling Green VFD 	FM 	Fire-Tac 
+460.22500 	WQFI398 	RM	85.4 PL	BG VFD Ch 2 	Bowling Green VFD 	FM 	Fire-Tac 
+461.61250 	WQBY878 	RM	82.5 PL	FD Co12 Main 	Company 12 	FM 	Fire-Tac 
+461.61250 	WQBY878 	M	CSQ	FD Co12 Tac1 	Company 12 - Tac 1 	FM 	Fire-Tac 
+458.43750 	KUB997 	M	179.9 PL	CVFD 2 Relay 	Cresaptown VFD - Mobile Extender (Input) 	FM 	Fire-Tac 
+453.43750 	KUB997 	M	123.0 PL	CVFD 1 Relay 	Cresaptown VFD - Mobile Extender (RX) 	FM 	Fire-Tac 
+464.62500 	 	M	464 DPL	CVFD Tac 1 	Cresaptown VFD - Tactical 1 	FM 	Fire-Tac 
+467.85000 	 	M	464 DPL	CVFD Tac 2 	Cresaptown VFD - Tactical 2 	FM 	Fire-Tac 
+458.61250 	WQCP411 	M	167.9 PL	Dist16 EMS 	District 16 Volunteer Ambulance EMS 	FM 	Fire-Tac 
+453.61250 	WQCP411 	M	131.8 PL	Dist16 Relay 	District 16 Volunteer Ambulance EMS - Mobile Extender 	FM 	Fire-Tac 
+467.92500 	 	M	464 DPL	Dist16 Tac 1 	District 16 Volunteer Ambulance EMS - Tactical 	FM 	Fire-Tac 
+461.22500 	 	RM	186.2 PL	Ellerslie FD 	Ellerslie Fire/EMS 	FM 	Fire-Tac 
+154.41500 	WPTL759 	RM	203.5 PL	Frost EMS 3 	Frostburg Area Ambulance Service 	FM 	Fire-Tac 
+155.16000 	WPTL759 	BM	203.5 PL	Frost EMS 1 	Frostburg Area Ambulance Service - Admin 1 	FM 	Fire-Tac 
+150.77500 	WPTL759 	M	210.7 PL	Frost EMS 2 	Frostburg Area Ambulance Service - Admin 2 	FM 	Fire-Tac 
+155.17500 	WQBB872 	BM	186.2 PL	GeorgeCr EMS 	Georges Creek Ambulance Service 	FM 	Fire-Tac 
+453.66250 	KGJ642 	RM	179.9 PL	LVFD Co 2 	LaVale Volunteer Fire Department - Co. 2 	FM 	Fire-Tac 
+458.90000 	KGJ642 	M	179.9 PL	LaVale VFD 1 	LaVale Volunteer Fire Department - Co. 2 Ch. 1 	FM 	Fire-Tac 
+453.66250 	KGJ642 	M	464 DPL	LaValeVFD Tr 	LaVale Volunteer Fire Department - Co. 2 Traffic Control 	FM 	Fire-Tac 
+464.32500 	 	M		LVFD Tac 1 	LaVale Volunteer Fire Department - Tactical 1 	FM 	Fire-Tac 
+467.90000 	 	M		LVFD Tac 2 	LaVale Volunteer Fire Department - Tactical 2 	FM 	Fire-Tac 
+155.20500 	KNFJ222 	BM		LVRS 	LaVale Volunteer Rescue Squad 	FM 	Fire-Tac 
+453.26250 	KNFJ222 	RM	100.0 PL	LVRS Tac 1 	LaVale Volunteer Rescue Squad - Tactical 	FM 	Fire-Tac 
+453.26250 	KNFJ222 	RM	141.3 PL	LVRS Rescue 	Lavale Volunteer Rescue Squad - Rescue 	FM 	Fire-Tac 
+155.20500 	WNFP251 	BM		Tri-Town EMS 	Tri-Towns EMS 	FM 	Fire-Tac 
+453.10000 	KSE713 	RM	464 DPL	F/E Alerting 	Fire/EMS Alerting 	FM 	Fire Dispatch 
+460.35000 	WPPV765 	M	464 DPL	F/E Ops 	Fire/EMS Daily Operations 	FM 	Fire-Tac 
+460.08750 	WPPV765 	M	464 DPL	F/E Direct 1 	Fire/EMS Direct 1 	FM 	Fire-Tac 
+465.08750 	WPPV765 	M	464 DPL	F/E Direct 2 	Fire/EMS Direct 2 	FM 	Fire-Tac 
+465.35000 	WPPV765 	M	464 DPL	F/E Training 	Fire/EMS Training 	FM 	Fire-Tac 
+33.88000 	KGD446 	BM	CSQ	Fire Spare 	Fire (Backup) 	FM 	Fire-Tac 
+158.82000 	KAW513 	BM	107.2 PL	Public Works 	Public Works 	FM 	Public Works 
+154.02500 	WQA760 	RM	151.4 PL	Housing Auth 	Housing Authority - JFK Towers Maintenance 	FM 	Public Works 
+122.80000 	 	BM		CBE CTAF 	Greater Cumberland Regional Airport Unicom / CTAF 	AM 	Aircraft 
+122.80000 	 	BM		1W3 Unicom 	Mexico Farms Airport Unicom / CTAF 	AM 	Aircraft 
+128.62500 	 	BM		1W3 AWOS 	Mexico Farms Airport AWOS 	AM 	Aircraft 
+150.99500 	WPYY580 	RM	123.0 PL	Frostburg PW 	Street and Water Department (output/input are correct) 	FM 	Public Works 
+453.85000 	WNYV803 	RM	146.2 PL	FSU Maint 	Maintenance 	FM 	Public Works 
+151.71500 	WNLR406 	BM		LV Pub Works 	Water/Sewage 	FM 	Public Works 
+Federal Correctional Institution Cumberland	 Motorola Type II SmartZone	 Cumberland	First Energy	 Project 25 Phase I	 Various	Rocky Gap Casino Resort	 NXDN NEXEDGE 9600
+ Flintstone	TWR Comms (Passport)	 LTR Passport	 Various	

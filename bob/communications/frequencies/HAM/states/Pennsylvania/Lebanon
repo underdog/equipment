@@ -1,0 +1,65 @@
+453.05000 	WQBV764 	M	203.5 PL	LebCo T/A 1 	EDACS Talk-Around Ch 1 	FM 	Emergency Ops 
+453.17500 	WQBV764 	M	203.5 PL	LebCo T/A 2 	EDACS Talk-Around Ch 2 	FM 	Emergency Ops 
+453.26250 	WQBV764 	M	203.5 PL	LebCo T/A 3 	EDACS Talk-Around Ch 3 	FM 	Emergency Ops 
+453.66250 	WQBV764 	M	203.5 PL	LebCo T/A 4 	EDACS Talk-Around Ch 4 	FM 	Emergency Ops 
+460.06250 	WQBV764 	M	203.5 PL	LebCo T/A 5 	EDACS Talk-Around Ch 5 	FM 	Emergency Ops 
+460.08750 	WQBV764 	M	203.5 PL	LebCo T/A 6 	EDACS Talk-Around Ch 6 	FM 	Emergency Ops 
+460.21250 	WQBV764 	M	203.5 PL	LebCo T/A 7 	EDACS Talk-Around Ch 7 	FM 	Emergency Ops 
+460.33750 	WQBV764 	M	203.5 PL	LebCo T/A 8 	EDACS Talk-Around Ch 8 	FM 	Emergency Ops 
+460.41250 	WQBV764 	M	203.5 PL	LebCo T/A 9 	EDACS Talk-Around Ch 9 	FM 	Emergency Ops 
+453.21250 	WQBV764 	M	203.5 PL	LebCo T/A 10 	EDACS Talk-Around Ch 10 	FM 	Emergency Ops 
+453.46250 	WQBV764 	M	203.5 PL	LebCo T/A 11 	EDACS Talk-Around Ch 11 	FM 	Emergency Ops 
+453.86250 	WQBV764 	M	203.5 PL	LebCo T/A 12 	EDACS Talk-Around Ch 12 	FM 	Emergency Ops 
+453.95000 	KCK291 	BM		Leb Paging 	County & City Alpha Paging & Dispatch System 	FM 	Data 
+453.33750 	KCK291 	RM	CSQ	LebCo EMA F5 	Lebanon County Emergency Management - Portables 	FM 	Emergency Ops 
+45.08000 	KCK291 	BM		LebCo EMA F7 	Lebanon County Emergency Management - Sheriff Interops 	FM 	Emergency Ops 
+451.11250 	WPVS228 	B		TMI Siren 	Three Mile Island Siren Control 	FMN 	Emergency Ops 
+453.95000 	KCK291 	BM	192.8 PL	LebCty Water 	Lebanon City Water Department 	FM 	Multi-Talk 
+460.43750 	 	RM	151.4 PL	Mt Gretna PW 	Mt Gretna Public Works 	FM 	Public Works 
+155.40000 	WQVW892 	RM	156.7 PL	LBF South 	Lebanon City Fire - South 	FMN 	Fire-Tac 
+159.45000 	WQVW892 	RM	047 DPL	LBF North 	Lebanon City Fire - North 	FMN 	Fire-Tac 
+159.45000 	WQVW892 	RM	043 DPL	CityCodeEnf 	City Code Enforcement 	FMN 	Fire-Tac 
+156.23250 	KGF919 	RM	146.2 PL	LebCity PW 	Lebanon City Public Works 	FMN 	Public Works 
+162.21250 	 	RM	123.0 PL	VAMC Sec 1 	Lebanon VA Medical Center - Security 	FME 	Federal 
+40.90000 	 	BM		PAARNG FltFlw  	Muir AAF Flight Following 	FM 	Military 
+41.50000 	 	BM		PAARNG Ops 	Muir AAF ARNG Ops 	FM 	Military 
+49.95000 	 	BM		PAARNG Ops 	Muir AAF ARNG Ops 	FM 	Military 
+36.07500 	 	BM		PAARNG Ops 	Muir AAF ARNG Ops 	FM 	Military 
+126.20000 	 	BM		KMUI Tower 	Muir AAF Tower/CTAF 	AM 	Aircraft 
+121.62500 	 	BM		KMUI Ground 	Muir AAF Ground 	AM 	Aircraft 
+124.17500 	 	BM		KMUI AAF ATIS 	Muir AAF ATIS 	AM 	Aircraft 
+290.50000 	 	BM		KMUITower UHF  	Muir AAF Tower UHF 	AM 	Military 
+265.60000 	 	BM		KMUI Ground 	Muir AAF Ground UHF 	AM 	Military 
+269.52500 	 	BM		KMUI Gound 	Muir AAF Gound UHF (new?) 	AM 	Military 
+142.22500 	 	BM		Muir GCA 1 	Muir AAF GCA Primary 	AM 	Military 
+139.42500 	 	BM		Muir GCA 2 	Muir AAF GCA Secondary 	AM 	Military 
+233.45000 	 	BM		Bollen Pri 	Bollen Range Ops (R-5802) Primary, callsign "Balky" 	AM 	Military 
+239.15000 	 	BM		Bollen Alt 	Bollen Range Ops (R-5802) Alternate, callsign "Balky" 	AM 	Military 
+139.62500 	 	BM		NJ ANG Air 	NJ ANG Air-to-Air 	AM 	Military 
+142.30000 	 	BM		Air-to-Air 	Air-to-Air 	AM 	Military 
+40.25000 	 	RM	156.7 PL	FTIG Secrty 	Security 	FM 	Military 
+41.40000 	 	BM	156.7 PL	FTIG Rng Pri 	Range Control Primary 	FM 	Military 
+38.10000 	 	BM		FTIG Rng Alt 	Range Control Alternate 	FM 	Military 
+412.85000 	 	BM	156.7 PL	FTIG Rng UHF 	Range Safety Net 	FM 	Military 
+163.46250 	 	RM	100.0 PL	FTIG Maint 	Fire/Maintenance 	FM 	Military 
+154.02500 	 	M	127.3 PL	FTIG Secrty 	Security / "Control" 	FM 	Security 
+153.11000 	WQDX325 	RM	023 DPL	Supreme Trk 	Supreme Mid Atlantic Truck Bodies 	FMN 	Business 
+153.24500 	WPFS418   	RM	047 DPL	WSM F-1 	Weaber Sawmill F-1 	FMN 	Business 
+152.34500 	WPFS418   	RM	047 DPL	WSM F-2 	Weaber Sawmill F-2 	FMN 	Business 
+160.53000 	WPFS418   	RM	632 DPL	WSM F-4 	Weaber Sawmill F-4 	FMN 	Business 
+154.57000 	 	M	047 DPL	WSM F-5 	Weaber Sawmill F-5 	FMN 	Business 
+154.60000 	 	M	047 DPL	WSM F-6 	Weaber Sawmill F-6 	FMN 	Business 
+461.72500 	WQOQ412 	RM	203.5 PL	MH Farms 	Mark Hershey Farms Quentin 	FMN 	Business 
+452.45000 	WQSZ262 	RM	114 DPL	PennsySupply 	Pennsy Supply (Palmyra) 	FMN 	Business 
+154.60000 	 	M	67.0 PL	Walmart Palm 	Walmart Palmyra 	FM 	Business 
+464.55000 	 	M	413 DPL	Sheetz LEB 	Sheetz and MTO store Operations Lebanon 	FM 	Business 
+464.55000 	 	M	67.0 PL	Plaza Apt. 	Plaza Apartments Operations / Maint. 	FM 	Business 
+466.33750 	 	M	612 DPL	KOHL's OPS1 	Kohl's Department Store Operations 	FM 	Business 
+467.85000 	 	M	532 DPL	Michaels 	Michaels Arts and Crafts Lebanon 	FM 	Business 
+467.87500 	 	M	100.0 PL	TJMAX Leb 	TJ MAX Lebanon Store Operations 	FM 	Business 
+152.39000 	KGG686 	BM	123.0 PL	Disp-Cab 	Supercab of Lebanon County - Dispatcher 	FM 	Business 
+157.65000 	KGG686 	BM	123.0 PL	Car-Disp 	Supercab of Lebanon County - Cabs 	FM 	Business 
+464.65000 	WXW361 	RM	CC 1TG 100SL 1	DB Fisher 	DB Fisher School Buses / Vans 	DMR 	Business 
+Cornwall Highway	 LTR Standard	 Cornwall	FBN Wireless (Penn)	 LTR Standard	 Penn Township	Jackson Twp. Public Safety Private	 LTR Standard
+ Newmanstown	Lebanon County	 EDACS Standard	 Lebanon County	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)
+ OpenSky 9600 baud	 Statewide	Schaefferstown FD Private	 LTR Standard	 Schaefferstown	WellSpan Health Radio Network	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various

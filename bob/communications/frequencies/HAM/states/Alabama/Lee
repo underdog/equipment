@@ -1,0 +1,69 @@
+155.71500 	WPLS543 	RM	186.2 PL	Lee SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.71000 	KN6938 	M	107.2 PL	Lee SO C2C 	Sheriff Car-to-Car 	FMN 	Law Talk 
+152.40500 	WPLS543 	RM	162.2 PL	Lee SO Tac W 	Sheriff Tac - West 	FMN 	Law Tac 
+155.10750 	WRAB465 	BM	97.4 PL	Lee SO Jail 	Detention Center 	FMN 	Corrections 
+155.14500 	KCE437 	RM	123.0 PL	Lee FD East 	Fire Dispatch - East 	FMN 	Fire Dispatch 
+159.16500 	WPFT729 	RM	173.8 PL	Lee FD West 	Fire Dispatch - West 	FMN 	Fire Dispatch 
+151.11500 	WPKI384 	RM	167.9 PL	Lee CMN 	Public Works / Emergency Alert System 	FMN 	Multi-Dispatch 
+159.51750 	WQKM498 	RM	146.2 PL	Lee Sch Bus 	Lee County School Bus 	FMN 	Schools 
+159.73500 	WQZE780 	RM	432 DPL	East Smith Schls 	East Smith Station Elementary School 	FMN 	Schools 
+156.00000 	KDA407 	BM		Auburn CMN 	Public Works (Police Ch.9 Tac) 	FMN 	Public Works 
+155.02500 	WPBP907 	BM		Auburn DPW 	Public Works 	FMN 	Public Works 
+463.25000 	WQZR661 	RM	CC 12TG 7000SL *	Auburn HS 	Auburn High School 	DMR 	Schools 
+463.76250 	WQYF366 	RM	CC 5TG 155SL *	Opelika BED 	Opelika Board of Education Busses 	DMR 	Schools 
+154.02500 	WNRX757 	RM	167.9 PL	EAMC EMS 1 	EMS Dispatch 1 (Salem Site) 	FMN 	EMS Dispatch 
+155.89500 	WNRX757 	BM	107.2 PL	EAMC EMS 2 	EMS Dispatch 2 (Opelika Site) 	FMN 	EMS Dispatch 
+155.34000 	WQOL214 	BM	123.0 PL	EAMC HEAR 	East Alabama Medical Center HEAR Network 	FMN 	Hospital 
+453.90000 	WQTR229 	RM	CC 1TG 1SL 1	EAMC Security 	East Alabama Medical Center Security 	DMR 	Security 
+152.43500 	WQLB227 	RM		AU SecPatrol 	Security Patrol 	DMR 	Security 
+154.03250 	KB64357 	RM	CC 12TG 10003SL *	AU Security 	Security 	DMR 	Law Talk 
+154.76250 	WQNX559 	RM		AU Pub Saf 	Public Safety Ops 	FMN 	Law Talk 
+155.28000 	KSU561 	M	107.2 PL	AU Med Ops 	Jordan-Hare Stadium - Medical Ops 	FMN 	EMS-Tac 
+155.74500 	KWX600 	RM		AU EMA1 	Emergency Management 	FMN 	Emergency Ops 
+155.83500 	WQJJ594 	RM	703 DPL	AU EMA2 	Emergency Management 	FMN 	Emergency Ops 
+154.51500 	KD37632 	M		AU EAVES 	EAVES Coliseum 	FMN 	Schools 
+451.77500 	WNDU539 	RM		AU Ag 	Agricultural Research 	FMN 	Schools 
+453.16250 	WQBL815 	RM		AU Log 1 	Facilities Dept. - Logistics 1 	FMN 	Schools 
+453.32500 	WPOZ281 	RM	151.4 PL	AU Athletics 	Athletics Operations 	FMN 	Schools 
+453.35000 	KYY881 	RM		AU Facil 1D 	Facilities Dept 	DMR 	Schools 
+453.38750 	WQBL815 	RM		AU Facil 2D 	Facilities Dept 	DMR 	Schools 
+453.43750 	WQBL815 	RM		AU Log 2 	Facilities Dept. - Logistics 2 	FMN 	Schools 
+453.68750 	WQBL815 	RM		AU Log 3 	Facilities Dept. - Logistics 3 	FMN 	Schools 
+460.03750 	WQBL815 	RM	CC 2TG *SL *	AU Log 4 	Facilities Dept. - Logistics 4 	DMR 	Schools 
+460.10000 	WQBL815 	RM		AU Log 5 	Facilities Dept. - Logistics 5 	FMN 	Schools 
+460.27500 	WQBL815 	RM	CC 3TG *SL *	AU Log 6 	Facilities Dept. - Logistics 6 	DMR 	Schools 
+460.63750 	WQBL815 	RM		AU Log 7 	Facilities Dept. - Logistics 7 	FMN 	Schools 
+461.02500 	WQNR902 	BM		AU Elec Eng 	Electrical Engineering 	FMN 	Schools 
+461.95000 	WNKS281 	RM	156.7 PL	AU Airport 	Airport Operations 	FMN 	Schools 
+462.02500 	WQST241 	RM	632 DPL	AU Tiger Transit 	Campus Transportation  	FMN 	Schools 
+463.87500 	WNNG437 	RM		AU Ops 1 	Operations 1 	FMN 	Schools 
+464.42500 	WXH257 	RM		AU Ops 2 	Operations 2 	FMN 	Schools 
+464.67500 	KNGZ381 	BM		AU Ops 3 	Operations 3 	FMN 	Schools 
+461.02500 	WQAM419 	M		AU Eng 1 	AU Biosystems Eng 	FMN 	Schools 
+461.07500 	WQAM419 	M		AU Eng 2 	AU Biosystems Eng 	FMN 	Schools 
+461.10000 	WQAM419 	M		AU Eng 3 	AU Biosystems Eng 	FMN 	Schools 
+462.12500 	WQAM419 	M		AU Eng 4 	AU Biosystems Eng 	FMN 	Schools 
+462.37500 	WQAM419 	M	054 DPL	AU Eng 5 	AU Biosystems Eng 	FMN 	Schools 
+462.40000 	WQAM419 	M		AU Eng 6 	AU Biosystems Eng 	FMN 	Schools 
+462.41250 	WQNZ449 	M		AU Facil 1 	AU Facilities 	FMN 	Schools 
+464.60000 	WQAM419 	M		AU Eng 7 	AU Biosystems Eng 	FMN 	Schools 
+464.62500 	WQAM419 	M		AU Eng 8 	AU Biosystems Eng 	FMN 	Schools 
+464.65000 	WQAM419 	M		AU Eng 9 	AU Biosystems Eng 	FMN 	Schools 
+464.70000 	WQAM419 	M		AU Eng 10 	AU Biosystems Eng 	FMN 	Schools 
+464.72500 	WQAM419 	M		AU Eng 11 	AU Biosystems Eng 	FMN 	Schools 
+464.75000 	WQAM419 	M		AU Eng 12 	AU Biosystems Eng 	FMN 	Schools 
+464.97500 	KB25030 	M		AU Rec Svc 	AU Rec Services 	FMN 	Schools 
+465.03750 	WQBL815 	M		AU Facil 2 	AU Facilities 	FMN 	Schools 
+465.10000 	WQBL815 	M		AU Facil 3 	AU Facilities/EMS Stadium First Aid 	FMN 	Schools 
+465.27500 	WQBL815 	M		AU Facil 4 	AU Facilities 	FMN 	Schools 
+465.27500 	WQBL815 	M		AU Facil 5 	AU Facilities 	FMN 	Schools 
+466.63750 	WQOA742 	M		AU Athletic1 	AU Athletics 	DMR 	Schools 
+466.71250 	WQOA742 	M		AU Athletic2 	AU Athletics 	DMR 	Schools 
+467.03750 	WQOA742 	M		AU Athletic3 	AU Athletics 	FMN 	Schools 
+467.11250 	WQOA742 	M		AU Athletic4 	AU Athletics 	FMN 	Schools 
+467.41250 	WQOE438 	M		AU Facil 6 	AU Facilities 	FMN 	Schools 
+468.78750 	WQOA742 	M		AU Athletic5 	AU Athletics 	FMN 	Schools 
+469.76250 	WQOA742 	M		AU Athletic6 	AU Athletics 	FMN 	Schools 
+469.77500 	WQOA742 	M		AU Athletic7 	AU Athletics 	FMN 	Schools 
+ Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Darden Communications	 LTR Standard	 Various	First Communications (Opelika)	 LTR Standard
+ Opelika	Montgomery Metro Communications Cooperative District	 Project 25 Phase II	 Various	

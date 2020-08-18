@@ -1,0 +1,76 @@
+155.31000 	KAB278 	RM	94.8 PL	Boone Sheriff 	Sheriff: Dispatch / Rural Police [Ch 1] 	FMN 	Law Dispatch 
+155.19000 	KAB278 	RM	94.8 PL	Boone Sheriff F2 	Sheriff: Channel 2 [Ch 2] 	FMN 	Law Tac 
+154.09250 	WNFX946 	M	94.8 PL	Boone Shrf RADAR 	Sheriff: Highway RADAR 	FMN 	Law Tac 
+155.04000 	WRCV512 	BM		Boone Law MOSWIN 	Law (Backup to MOSWIN) w/ WRCU883 	FMN 	Law Dispatch 
+154.71000 	WNFX946 	BM	94.8 PL	Boone Shrf Jail 	Sheriff: Jail Management 	FMN 	Corrections 
+155.26500 	KJY848 	RM	94.8 PL	Boone Co EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+158.77500 	KIL287 	RM	94.8 PL	Boone Health 	Health Department 	FMN 	Hospital 
+156.18000 	WNHQ332 	RM	107.2 PL	Boone PubWrks 	Public Works 	FMN 	Public Works 
+173.36250 	WQCE558 	F		Boone PWSD#4 	Public Water Supply District 4: Data (Columbia, Hallsville) 	Telm 	Data 
+154.43000 	KLK578 	RM	94.8 PL	BCFPD Disp1 	Fire: Dispatch - South [Ch 1] 	FMN 	Fire Dispatch 
+452.42500 	KLK578 	F	072 DPL	BCFPD RF 1 	Remote Link - Columbia to 154.43R (South County) 	FMN 	Fire Dispatch 
+452.42500 	KLK578 	F	156.7 PL	BCFPD RF 2 	Remote Link 	FMN 	Fire Dispatch 
+452.42500 	KLK578 	F	94.8 PL	BCFPD RF 3 	Remote Link (FX2 Sturgeon, Ashland)  	FMN 	Fire Dispatch 
+457.42500 	KLK578 	F	94.8 PL	BCFPD RF 4 	Remote Link (FX2 Columiba)  	FMN 	Fire Dispatch 
+154.28000 	KNJM308 	BM	CSQ	S/W Fire MA 	Fire: Statewide Mutual Aid [Ch 2] 	FMN 	Fire-Talk 
+153.83000 	WPRY340 	M	94.8 PL	BCFPD FG-3 	Fireground Yellow/Tac-3 [Ch 3] 	FMN 	Fire-Tac 
+154.11500 	WNBY433 	BM	94.8 PL	BCFPD FG-4 	Fireground/Tac 4 Gold [Ch 4] 	FMN 	Fire-Tac 
+154.17500 	WPRY340 	M	94.8 PL	BCFPD FG-5 	Fireground Gray/Tac-5 [Ch 5] 	FMN 	Fire-Tac 
+154.38500 	WPRY340 	M	94.8 PL	BCFPD FG-6 	Fireground Brown [Ch 6] (Columbia Tac-2) 	FMN 	Fire-Tac 
+155.55000 	WQJA541 	RM	91.5 PL	SoBoone Fire 	Fire: Dispatch/Paging/Ops 	FMN 	Fire Dispatch 
+159.04500 	WQJA541 	M		SoBoone FG 	Fireground 	FMN 	Fire-Tac 
+155.04000 	WPGX499 	BM		Ashld Police 	Police (freq used on MOSWIN 1-013) 	FMN 	Law Tac 
+173.32500 	WQKJ505 	F		Ashland WDD 	Water Data 	Telm 	Data 
+155.11550 	WPBH443 	RM		Centralia Police 	Police: Dispatch (was 155.535 141.3) 	FMN 	Law Dispatch 
+159.11250 	WPBH443 	BM		Cent PD MX 	Police: Mobile Extenders 	FMN 	Law Dispatch 
+155.88000 	KDK628 	RM		Cent Fire Ops  	Fire: Operations 	FMN 	Fire-Tac 
+156.19500 	WPRW491 	RM	073 DPL	Centralia Roads  	Centralia Special Road District of Boone County 	FMN 	Public Works 
+155.11500 	KNEN301 	BM		Cntrl School 	Schools 	FMN 	Schools 
+154.75500 	WXP405 	BM	94.8 PL	Col Police 2 	Police: Traffic Stops [Ch 2] 	FMN 	Law Tac 
+156.15000 	KAB278 	M	94.8 PL	Col Police 3 	Police: Car-to-Car / Detectives [Ch 3] 	FMN 	Law Tac 
+155.74500 	WNBF553 	RM	94.8 PL	Col JCIC2 F6 	Police: Interoperability (JCIC 2) [Ch 6] 	FMN 	Law Talk 
+453.42500 	WQDU239 	F		Col PD RF-1 	Remote Link - Columbia (for 155.745R) 	FMN 	Law Talk 
+453.92500 	WQDU239 	F		Col PD RF-2 	Remote Link - Columbia (for 155.745R) 	FMN 	Law Talk 
+460.12500 	WQDU239 	F		Col PD RF-3 	Remote Link - Columbia (for 155.745R) 	FMN 	Law Talk 
+460.52500 	WQDU239 	F		Col PD RF-4 	Remote Link - Columbia (for 155.745R) 	FMN 	Law Talk 
+159.09000 	WPJM695 	RM	186.2 PL	Col Courthse 	Court Marshals [Ch 5]  (Low Power Repeater) 	FMN 	Corrections 
+154.19000 	KDJ485 	RM	94.8 PL	ColumbiaFire 	Fire: Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+453.87500 	WNUX994 	RM		Col PL Watr1 	Power and Light - Water (Store Room) 	FMN 	Public Works 
+153.81500 	WPOY898 	B		Col PL Watr2 	Power and Light - Water Dept 	FMN 	Public Works 
+158.82000 	KDB530 	RM	94.8 PL	Col Transit 	Transit System: Buses 	FMN 	Transportation 
+155.62500 	WPCP681 	BM		Col Airport 	Airport 	FMN 	Public Works 
+453.57500 	WPHG664 	RM	026 DPL	BHMC Hskpng 	Housekeeping 	FMN 	Business 
+155.26500 	KJY848 	RM	94.8 PL	BooneCo EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+154.23500 	KJY848 	M		BHMC EMS 2 	EMS 	FMN 	EMS Dispatch 
+155.34000 	KJY848 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+156.22500 	WPJZ726 	BM		BHMC Paging 	Hospital Paging 	Telm 	Data 
+453.40000 	WQFV716 	RM	88.5 PL	BHMC Disastr 	Disaster Response 	FMN 	Emergency Ops 
+453.30000 	WPYL378 	RM	023 DPL	BHMC ER Ops 	Emergency Room Operations 	FMN 	Business 
+408.23750 	 	RM	293 NAC	HSTMVH Police 	Police 	FMNE 	Law Dispatch 
+408.00000 	 	RM	293 NAC	HSTMVH EM 	Emergency Management 	FMN 	Emergency Ops 
+407.83750 	 	RM	293 NAC	HSTMVH FcMgt 	Facilities Management 	FMN 	Federal 
+164.06250 	 	B	254.1 PL	HSTMVH Paging  	Paging (POCSAG) 	FMN 	Data 
+153.96500 	KNGS417 	M		UMC Hosp 1 	Operations 	FMN 	Business 
+155.23500 	WXK693 	BM	141.3 PL	UMC Hosp ER 	Emergency Room 	FMN 	Business 
+155.26500 	WXK693 	BM	94.8 PL	UMC EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+154.96500 	KNGS417 	BM	192.8 PL	Staff 4 Life 	Staff-for-Life Helicopter (ARCH) 	FMN 	EMS Dispatch 
+155.22000 	WPLP245 	BM		FS BooneCo 	School Bus 	FMN 	Schools 
+152.39750 	WQPE235 	RM		FS Bus Col A 	First Student: Buses [In use 10/13] 	FMN 	Schools 
+151.92500 	WQUE673 	RM	223 DPL	RkBrdg HiSch 	Rock Bridge High School 	FMN 	Schools 
+452.72500 	WRDU891 	RM		Columb Sch D93 	District 93 Ops 	FMN 	Schools 
+452.36250 	WRDH746 	RM		Columb Sch 23625 	Ops 	FMN 	Schools 
+461.17500 	WQAF663 	RM	311 DPL	Hckmn HS Ops 	David H. Hickman High School [Expired 3/13] 	FMN 	Schools 
+462.15000 	WPBW774 	RM	114 DPL	West MS Ops 	West Middle School: Ops 	FMN 	Schools 
+451.16250 	WRAQ784 	RM	606 DPL	CD ES Bus/Studnt 	Cedar Ridge Elementary: Buses, Student Movement 	FMN 	Schools 
+935.67500 	WQTE807 	RM	CC 1|TG 2|SL 1	Battle HiSc Ops 	Battle High School: Ops 	FMN 	Schools 
+152.39000 	WQHR345 	RM		HnsvleSchool 	Transportation / Maintenance / Security 	FMN 	Schools 
+463.77500 	WPQA473 	RM		StephColl Maint 	Maintenance (in use 1/20; Expired 4/05) 	FMN 	Business 
+155.17500 	WNBX967 	BM		SturgnSchool 	Operations 	FMN 	Schools 
+159.76500 	WQWD911 	BM	244 DPL	Col Cl Sec/Maint 	Security / Maintenance 	FMN 	Schools 
+855.71250 	KNNR259 	RM		UMC Sec BUC1 	UMC  Security Back Up, Conventional 	FM 	Security 
+856.26250 	KNNR259 	RM		UMC Sec BUC2 	UMC  Security Back Up, Conventional 	FM 	Security 
+467.90000 	WQDA498 	M	131 DPL	UMC Events 5 	Event Management (Docks) 	FMN 	Schools 
+151.31000 	KAD775 	BM		FingerLakeSP 	DNR: Finger Lakes Base 	FMN 	Law Tac 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	KC Wireless (Kansas City)	 LTR Standard and Passport	 Kansas City	Mo-Comm Electronics - 800 MHz (Columbia)	 Motorola Type II
+ Columbia	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	University of Missouri (DMR-Columbia)	 DMR Motorola Connect Plus (TRBO)	 Columbia	WirelessUSA (Columbia) 
+ Motorola Type II Smartnet	 Columbia	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	

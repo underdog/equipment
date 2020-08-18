@@ -1,0 +1,88 @@
+154.19000 	KKC521 	BM	136.5 PL	StphnsonFire 	Fire: Countywide Dispatch/Net 	FMN 	Fire Dispatch 
+154.19000 	KKC521 	BM	123.0 PL	StphnsnFireB 	Fire: Old ? 	FMN 	Fire Dispatch 
+464.02500 	WPBH433 	F		Stph 911 RF1 	911: Remote Link to Freeport Police/Fire 	FMN 	Fire Dispatch 
+464.72500 	WPBH433 	F		Stph 911 RF2 	911: Remote Link to Freeport Police/Fire 	FMN 	Fire Dispatch 
+469.02500 	WPBH433 	F		Stph 911 RF3 	911: Remote Link to Freeport Police/Fire 	FMN 	Fire Dispatch 
+469.72500 	WPBH433 	F		Stph 911 RF4 	911: Remote Link to Freeport Police/Fire 	FMN 	Fire Dispatch 
+154.71000 	KSA467 	M	156.7 PL	StphShrfc2c8 	Sheriff: Extender to Vehicle SC21 	FMN 	Law Tac 
+770.89375 	WQLP920 	RM		Stph Shrf MX 	Sheriff: Mobile Extenders to SC21 	FMN 	Law Dispatch 
+154.87500 	KSA467 	RM	131.8 PL	Stph Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
+453.13750 	WPCG855 	M		StphShrfRF 1 	Sheriff: Receive Link for 154.875 	FMN 	Law Dispatch 
+453.16250 	WPCG855 	M		StphShrfRF 2 	Sheriff: Receive Link for 154.875 	FMN 	Law Dispatch 
+453.58750 	WPCG855 	M		StphShrfRF 3 	Sheriff: Receive Link for 154.875 	FMN 	Law Dispatch 
+453.93750 	WPCG855 	M		StphShrfRF 4 	Sheriff: Receive Link for 154.875 	FMN 	Law Dispatch 
+453.98750 	WPCG855 	M		StphShrfRF 6 	Sheriff: Receive Link for 154.875 	FMN 	Law Dispatch 
+156.15000 	KSA467 	M		StphShrfPort 	Sheriff: Portables 	FMN 	Law Tac 
+465.38750 	KSA467 	M	123.0 PL	StphShrfMX1 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
+465.38750 	KSA467 	M	97.4 PL	StphShrfMX2 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
+155.64000 	WPPC862 	RM	131.8 PL	StphShrJail  	Sheriff: Jail 	FMN 	Corrections 
+158.91000 	 	RM	94.8 PL	StphShrfERT 	Sheriff: ERT [NO LICENSE] 	FMN 	Law Tac 
+154.74000 	WQKU260 	RM	82.5 PL	StphSD RsrvN 	Sheriff: Reserves 	FMN 	Law Tac 
+158.91000 	 	M	94.8 PL	StphShrfBalf 	Sheriff: Courthouse Baliff [NO LICENSE] 	FMN 	Law Tac 
+155.92500 	WNGA345 	RM	131.8 PL	StphSD RsrvO 	Sheriff: Reserve - Old (Parks ?) 	FMN 	Law Tac 
+460.32500 	WNWU447 	RM	532 DPL	StphShrfMDTs 	Sheriff: Mobile Data Terminals [Canceled 12/05; Reported in use 8/13] 	FMN 	Data 
+151.02500 	KFG534 	BM	118.8 PL	Stph Highway 	Highway Department 	FMN 	Public Works 
+854.96250 	WPWH676 	RM		Stph Hway800 	Highway Department 	FMN 	Public Works 
+158.80500 	WNIN531 	RM		StphnsnSrCtr 	Senior Citizens Center 	FMN 	Public Works 
+463.42500 	WPGR480 	RM	411 DPL	LeamonsEMS 	EMS: Dispatch/Operations 	FMN 	EMS Dispatch 
+151.32500 	WQDN463 	RM	94.8 PL	TriDstrctEMS 	EMS: Dispatch (Orangeville) 	FMN 	EMS Dispatch 
+152.36000 	WPYX499 	RM		FMH Security 	Security 	FMN 	Security 
+461.22500 	WNST225 	RM		FMH CommCntr 	Freeport Communications Center [Expired] 	FMN 	Business 
+461.26250 	WPCH850 	M		FMH Ops 1 	Operations 	FMN 	Business 
+463.48750 	WPCH850 	M		FMH Ops 2 	Operations 	FMN 	Business 
+463.66250 	WPCH850 	M		FMH Ops 3 	Operations 	FMN 	Business 
+464.28750 	WPCH850 	M		FMH Ops 4 	Operations 	FMN 	Business 
+155.34000 	KRP871 	BM	136.5 PL	MERCI1 136.5 	Patient Reports 	FMN 	Hospital 
+451.40000 	WQRQ512 	RM	186.2 PL	Star Ambulance 	EMS: Dispatch 	FMN 	EMS Dispatch 
+151.02500 	KXH663 	BM		StphTS RoadA 	Township Road Maintenance A (Multiple Twp) 	FMN 	Public Works 
+151.11500 	KNBW236 	BM		StphTS RoadB 	Township Road Maintenance B (Multiple Twp) 	FMN 	Public Works 
+151.13000 	KNDN547 	BM		StphTS RoadC 	Township Road Maintenance C (Multiple Twp) 	FMN 	Public Works 
+155.07000 	WQVQ494 	RM	103.5 PL	Cdrvl-McCnl FPD 	Fire 	FMN 	Fire-Tac 
+154.32500 	 	M		Dakota FG 	Fireground 	FMN 	Fire-Tac 
+461.97500 	WPWZ268 	F		OCLUD WDD 	Otter Creek Lake Utility District 	Telm 	Data 
+154.81500 	KNCX766 	RM	156.7 PL	Frprt Police 	Police: Dispatch [Simulcast SC21] 	FMN 	Law Dispatch 
+151.47500 	WPNR587 	RM	162.2 PL	Frprt PD ERT 	Police: ERT (input 151.4) 	FMN 	Law Tac 
+154.65000 	KNCX766 	M	156.7 PL	Frpt PD C2C5 	Police: Car-to-Car [Ch 5] 	FMN 	Law Talk 
+770.89375 	 	M		Frprt PD MX 	Police: Mobile Extenders to 800 MHz TRS 	FMN 	Law Dispatch 
+151.19000 	 	M	023 DPL	Frprt PD C2C 	Police: Car-to-Car [Ch 11] 	FMN 	Law Talk 
+158.91000 	 	M		Freeport ERT 	Freeport ERT [No License] 	FMN 	Law Tac 
+155.31000 	WQNH918 	RM	85.4 PL	FreeportFire 	Fire: Dispatch / Ops 	FMN 	Fire Dispatch 
+155.31000 	WQNH918 	RM	85.4 PL	Frpt RurFire 	Fire: Rural 	FMN 	Fire Dispatch 
+154.19000 	 	BM	179.9 PL	154.19 179.9 	Fire (County Freq/Diff PL) 	FMN 	Fire Dispatch 
+154.41500 	KDV389 	RM	179.9 PL	Freeprt Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.22000 	 	M	136.5 PL	Freeport FG1 	Fireground (Rural) 	FMN 	Fire-Tac 
+155.79000 	KDV389 	M	179.9 PL	Freeport FG2 	Fireground (City) 	FMN 	Fire-Tac 
+465.53750 	WPAR302 	M		Frprt FD MX1 	Fire: Mobile Extenders  	FMN 	Fire-Tac 
+465.58750 	WPAR302 	M		Frprt FD MX2 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+453.95000 	WQTD700 	RM		Frport PW 1 	Public Works 	FMN 	Public Works 
+453.97500 	WPNR587 	RM		Frport PW 2 	Public Works 	FMN 	Public Works 
+154.10000 	WPMT870 	RM		Freeport PW1 	Public Works: Water Department 	FMN 	Public Works 
+151.29500 	WPMT870 	M		Freeport PW2 	Public Works: Water Department 	FMN 	Public Works 
+453.38750 	WPJK628 	M		Frprt HsAuth 	Freeport Housing Authority 	FMN 	Public Works 
+453.45000 	KXC628 	RM		Frprt Parks 	Freeport Park District 	FMN 	Public Works 
+151.19000 	 	M	88.5 PL	Frpt Parks 2 	Freeport Park District [No License] 	FMN 	Public Works 
+154.13000 	KCZ486 	BM	123.0 PL	GValRidot FG 	Fireground (118.8 PL?) 	FMN 	Fire-Tac 
+154.87500 	KDA739 	M		Lena Police 	Police: Mobiles 	FMN 	Law Talk 
+154.14500 	WPIN406 	RM	071 DPL	Lena Fire 	Fire: Dispatch (also D172 ?) 	FMN 	Fire Dispatch 
+155.94000 	WNJZ376 	RM	103.5 PL	Lena Village 	Village Operations 	FMN 	Public Works 
+155.74500 	WQJK794 	RM	103.5 PL	Orngvl FPD1 	Fire: Dispatch 	FMN 	Fire-Tac 
+155.00250 	WRCL650 	RM		Pearl City Fire 	Fire 	FMN 	Fire Dispatch 
+155.70000 	WQPM981 	BM	136.5 PL	RockCityFire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.32500 	KKC521 	BM		Rock City FG 	Fire: Local 	FMN 	Fire-Tac 
+158.83500 	WNZL342 	BM		Winslow Fire 	Fire: Local 	FMN 	Fire-Tac 
+154.45625 	WQHG876 	F		Winslow WDD 	Winslow Water System: Data  	Telm 	Data 
+462.35000 	WQEL205 	RM		FSD145 Ops 1 	High School 	FMN 	Schools 
+464.02500 	WPFZ209 	RM		FSD145 Ops 2 	HQ/Admin (w/Phone Patch) 	FMN 	Schools 
+155.26500 	WQQF967 	BM		FSD145 Buses 	Buses 	FMN 	Schools 
+463.75000 	WPWY657 	RM		LenaWin Bus 	Buses 	FMN 	Schools 
+155.20500 	WNAL588 	BM		Orngv SchBus 	Buses 	FMN 	Schools 
+150.83000 	WNWV922 	BM		PCity SchBus 	Buses 	FMN 	Schools 
+464.82500 	WPZN667 	RM		PrlCity Sch1 	Maintenance 	FMN 	Schools 
+464.92500 	KNFH514 	RM		HCC Maintnce 	Maintenance 	FMN 	Schools 
+463.72500 	WQKP238 	RM		HCC CallBox1 	Emergency Call Boxes [Canceled 6/10] (CSQ) 	Telm 	Data 
+464.81250 	WQKF479 	RM		HCC CallBox2 	Emergency Call Boxes 	DMR 	Emergency Ops 
+120.52500 	KCX2 	BM		FEP AWOS 	Weather AWOS-3 	AM 	Aircraft 
+122.80000 	KQJ7 	BM	CSQ	FEP CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+126.00000 	 	BM	CSQ	Rockford A/D 	Approach/Departure (Rockford) 	AM 	Aircraft 
+122.80000 	KQJ7 	BM	CSQ	C86 CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL	

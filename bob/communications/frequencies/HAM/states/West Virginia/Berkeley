@@ -1,0 +1,25 @@
+453.52500 	WNHN661 	RM	734 DPL	BrklyCo FRDp 	Berkeley County Fire/Rescue Dispatch (Patched to 400 MHz TRS) 	FMN 	Fire Dispatch 
+154.28000 	WNGG419 	BM	CSQ	BrklyCo FMuA 	Berkeley County Fire Mutual Aid 	FMN 	Interop 
+468.00000 	WPSE394  	M	151.4 PL	Helo 1  	Helo 1 - Helicopter to Ground Units 	FMN 	Interop 
+468.02500 	WPSE394  	M	151.4 PL	Helo 2  	Helo 2 - Helicopter to Ground Units 	FMN 	Interop 
+464.80000 	WQOP798 	RM	167.9 PL	BrklyCo PSD 	Berkeley County Public Service District - Water Department 	FMN 	Public Works 
+453.21250 	WNHN661 	RM	156.7 PL	U-Call 	U-Call Interoperability 	FMN 	Interop 
+464.57500 	WPRH370 	RM	703 DPL	Mrtbg BldIsp 	Martinsburg Building Inspectors 	FM 	Public Works 
+155.16000 	WNZF389 	BM	192.8 PL	SBerk FDTac1 	South Berkeley Fire and Rescue -Tactical 1 	FMN 	Fire-Tac 
+155.17500 	WNZF389 	BM	110.9 PL	SBerk FDTac2 	South Berkeley Fire and Rescue -Tactical 2 	FMN 	Fire-Tac 
+460.40000 	WNNP658 	RM	118.8 PL	Est Reg Jail 	Eastern Regional Jail Complex 	FMN 	Corrections 
+165.28750 	 	RM		BATF Net 5 	Bureau of Alcohol, Tobacco and Firearms - Martinsburg Repeater 	P25 	Federal 
+408.20000 	 	RM	201 NAC	VAMC PoliceE 	Martinsburg VA Medical Center - Police ( Encrypted ) 	P25E 	Security 
+409.43750 	 	BM	100.0 PL	VAMC PoliceN 	Martinsburg VA Medical Center - Police Patrols (Not Encrypted) 	FMN 	Security 
+409.32500 	 	RM	156.7 PL	VAMC Fire 	Martinsburg VA Medical Center - Fire/Rescue 	FM 	Fire Dispatch 
+409.40000 	 	RM	156.7 PL	VMAC Engnrs 	Martinsburg VA Medical Center - Engineering 	FMN 	Hospital 
+409.88750 	 	BM	156.7 PL	VAMC Fire Dp 	Martinsburg VA Medical Center - Fire/Rescue Main Dispatch 	FMN 	Fire Dispatch 
+408.00000 	 	BM	156.7 PL	VAMC Build Maint 	Martinsburg VA Medical Center - Building Maintenance 	FM 	Hospital 
+168.52500 	 	B	CSQ	VAMC Paging 	Martinsburg VA Medical Center - Voice Paging 	FM 	Hospital 
+464.30000 	WPYP640 	RM	123.0 PL	School Buses 	Berkeley County Board of Education Transportation (School Buses) 	FMN 	Schools 
+456.23750 	WPYP640 	BM	91.5 PL	Musselman HS 	Musselman High School 	FMN 	Schools 
+461.25000 	WQRB340 	BM		SprMills HS 	Spring Mills High School 	FMN 	Schools 
+462.15000 	WQJE683 	RM	91.5 PL	Musselman HS 	Musselman High School (voice inversion scrambling) 	FMN 	Schools 
+First Energy	 Project 25 Phase I	 Various	Proctor and Gamble	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Martinsburg	TWR Comms (Passport)	 LTR Passport
+ Various	Valley Two Way	 DMR Motorola Capacity Plus Single Site (TRBO)	 Martinsburg	Valley Two Way (LTR)	 LTR Standard	 Martinsburg	West Virginia Statewide Interoperability Radio Network (SIRN) 
+ Project 25 Phase I	 Statewide	

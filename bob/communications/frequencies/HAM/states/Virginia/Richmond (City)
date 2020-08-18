@@ -1,0 +1,56 @@
+854.01250 	WQKH505 	RM	156.7 PL	Rich T/A 1 FD 	Talkaround 1 (Fire) 	FMN 	Fire-Talk 
+854.23750 	WQKH505 	RM	156.7 PL	Rich T/A 2 PD 	Talkaround 2 (Police) 	FMN 	Law Talk 
+854.51250 	WQKH505 	RM	156.7 PL	Rich T/A 3 	Talkaround 3 	FMN 	Multi-Talk 
+453.97500 	WNYZ969 	RM	67.0 PL	RAA 453.975 	Ambulance Authority Alerts (back-up to TRS) 	FMN 	EMS Dispatch 
+155.20500 	WNHV662 	BM	CSQ	Statewd EMS 	Statewide EMS with Patch to TRS 	FMN 	Interop 
+155.34000 	WNXP268 	BM	CSQ	RAA Amb/Hosp 	Ambulance Authority EMS Ambulance to Hospital (various tones used) 	FMN 	Hospital 
+461.97500 	KTE217 	RM	127.3 PL	Rich Redevlp 	Richmond Redevelopment and Housing Authority 	FMN 	Public Works 
+151.10000 	KNBH903 	RM		Rich RMTA 	Downtown Expressway Maintenance/Motorist Assistance 	DMR 	Transportation 
+453.68750 	WQXF203 	RM	192.8 PL	Rich Juv Det 	Juvenile Detention Center 	FMN 	Security 
+152.87750 	WREN337 	RM	743 DPL	RPS 152.8775 	Schools 	FMN 	Schools 
+152.90750 	WREM805 	RM	074 DPL	Armstrong HS 	Armstrong High School 	FMN 	Schools 
+152.90750 	WQPV490 	RM	172 DPL	RPS 152.9075 	Schools 	FMN 	Schools 
+152.90750 	WREN337 	RM	743 DPL	George Wythe HS 	George Wythe High School 	FMN 	Schools 
+152.98250 	WREM805 	RM	074 DPL	John Marshall HS 	John Marshall High School 	FMN 	Schools 
+152.98250 	WREN337 	RM	156 DPL	Boushall MS 	Boushall Middle School 	FMN 	Schools 
+153.00500 	WQPV490 	RM	743 DPL	RPS 153.005 	Schools 	FMN 	Schools 
+153.01250 	WQPV490 	RM	743 DPL	RPS 153.0125 	Schools 	FMN 	Schools 
+159.50250 	WREN337 	RM	156 DPL	MLK Jr MS 	Martin Luther King Jr. Middle School 	FMN 	Schools 
+159.60750 	WREN337 	M	156 DPL	RPS 159.6075 	Schools Talkaround 	FMN 	Schools 
+159.75000 	WREN337 	M	265 DPL	RPS 159.75 	Schools Talkaround 	FMN 	Schools 
+159.84750 	WREN337 	M	114 DPL	RPS 159.8475 	Schools Talkaround 	FMN 	Schools 
+159.91500 	WQFL482 	M	265 DPL	RPS 159.915 	Schools Talkaround 	FMN 	Schools 
+160.08000 	WREN337 	M	174 DPL	RPS 160.08 	Schools Talkaround 	FMN 	Schools 
+152.90000 	WQMI947 	RM	205 DPL	MLWGS Mnt 	Maggie L. Walker Governor's School - Maintenance 	FMN 	Schools 
+458.47500 	WQLP628 	M	165 DPL	Port of Rich 	Port of Richmond 	FMN 	Business 
+155.13000 	KJE262 	RM	114.8 PL	1 	Capitol Police Primary Dispatch 	FM 	Law Dispatch 
+155.49000 	KJE262 	BM	114.8 PL	2 	Capitol Police Secondary Dispatch (Capitol Square Units) 	FM 	Law Dispatch 
+47.42000 	WQGP307 	BM	146.2 PL	RedCross VHF 	Operations 	FM 	Emergency Ops 
+453.18750 	WQHE429 	RM	114.8 PL	RedCross UHF 	Operations 	FM 	Emergency Ops 
+453.85000 	WQHE429 	RM	114.8 PL	RedCross UHF 	Operations 	FM 	Emergency Ops 
+464.67500 	WPFK609 	RM	612 DPL	UnionTheoEng 	Engineering 	FM 	Other 
+452.42500 	WPMF356 	RM	110.9 PL	UofR Ops 	Operations 	FMN 	Schools 
+461.56250 	WPMF356 	RM	114 DPL	UofR Grnds 	Grounds/Maintenance 	FMN 	Schools 
+462.75000 	WPMF356 	B	CSQ	UofR Paging 	Paging 	FM 	Schools 
+464.27500 	KRP553 	RM	110.9 PL	UofR Ops Sec 	Operations (Secondary) 	FMN 	Schools 
+464.32500 	KRP553 	BM	110.9 PL	UofR Stadium 	Stadium 	FMN 	Schools 
+151.62500 	WPDN759 	M	67.0 PL	VCU Film Sch 1 	Film School 1 	FMN 	Schools 
+151.95500 	 	M	94.8 PL	VCU Film Sch 2 	Film School 2 	FMN 	Schools 
+154.57000 	 	M	210.7 PL	VCU Siegel 	Siegel Center 	FM 	Schools 
+458.45000 	 	M	151.4 PL	VCU Commons 	Student Commons 	FM 	Schools 
+461.58750 	WQKZ235 	M	411 DPL	VCU Gym 1 	Cary Street Gym Primary Operations/Security (Ch. 1) 	FMN 	Schools 
+462.03750 	WQKZ235 	M		VCU Gym 2 	Cary Street Gym Indoor Pool Lifeguards (Ch. 2) 	FMN 	Schools 
+463.22500 	WQNY989 	RM		VCU 463.225 	Virginia Commonwealth University 	DMR 	Schools 
+463.78750 	WQKZ235 	M	411 DPL	VCU Gym 3 	Cary Street Gym Operations (Ch. 3) 	FMN 	Schools 
+464.43750 	WQKZ235 	M	411 DPL	VCU Gym 4 	Cary Street Gym Operations (Ch. 4) 	FMN 	Schools 
+464.96250 	WQKZ235 	M	411 DPL	VCU Gym 5 	Cary Street Gym Housekeeping (Ch. 5) 	FMN 	Schools 
+407.83750 	 	RM	293 NAC	HHMMC Sec 	Hunter Holmes McGuire Medical Center - Security 	P25 	Security 
+408.23750 	 	RM	293 NAC	HHMMC Grnds 	Hunter Holmes McGuire Medical Center - Grounds 	P25 	Federal 
+409.47500 	 	RM	293 NAC	HHMMC Mnt/HK 	Hunter Holmes McGuire Medical Center - Maintenance/Housekeeping 	P25 	Federal 
+410.31250 	 	RM	293 NAC	HHMMC PtMove 	Hunter Holmes McGuire Medical Center - Patient Movement 	P25 	Federal 
+462.82500 	WQMC281 	B	CSQ	HHMMC Paging 	Hunter Holmes McGuire Medical Center - Paging 	FMN 	Federal 
+C.F. Sauer	 DMR Motorola Capacity Plus Single Site (TRBO)	 Richmond	DMRVA Amateur Radio Network	 DMR Conventional Networked	 Various	Federal Reserve Bank of Richmond	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Richmond	Greater Richmond Convention Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Richmond	Greater Richmond Transit Company	 DMR Motorola Capacity Plus Single Site (TRBO)	 Richmond	Jefferson Hotel
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Richmond	Omni Richmond Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Richmond	Radio Communications of Virginia (Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Richmond
+Radio Communications of Virginia (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	Radio Communications of Virginia (Type II)	 Motorola Type II	 Richmond	Richmond / Henrico / Chesterfield	 Motorola Type II SmartZone
+ Various	Richmond Area Hospitals	 DMR Conventional Networked	 Various	Westminster Canterbury Richmond	 DMR Motorola Capacity Plus Single Site (TRBO)	 Richmond	

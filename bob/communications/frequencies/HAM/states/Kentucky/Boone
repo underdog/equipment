@@ -1,0 +1,24 @@
+453.70000 	KCN200 	RM	192.8 PL	Boone 1 DISP 	 CH-1 	FM 	Law Dispatch 
+461.00000 	KBB628 	RM	192.8 PL	Boone 2 RCRD 	Law CH-2 (Records) 	FM 	Law Tac 
+460.97500 	KBB628 	RM	192.8 PL	Boone 3 TAC1 	Law CH-3 (Animal Control) 	FM 	Law Tac 
+453.15000 	KBB628 	RM	192.8 PL	Boone 4 TAC2 	CH-4 	FM 	Law Tac 
+460.16250 	WQCN422 	RM		Boone Jail 	 Jail 	FM 	Corrections 
+453.36250 	KB78299 	M		Boone Jail 	Jail 	FM 	Corrections 
+155.86500 	KVV804 	RM	192.8 PL	Boone FD Dsp 	Fire Dispatch(also Talk Around) 	FM 	Fire Dispatch 
+155.86500 	KVV804 	RM	100.0 PL	BFD Dsp BU 	Boone FD Dispatch Back-up 	FM 	Fire Dispatch 
+154.20500 	KVV804 	M	192.8 PL	Boone FD FG 	Fire  Fireground 	FM 	Fire-Talk 
+154.28000 	KVV804 	M	CSQ	Boone FD MA 	Fire Mutual Aid 	FM 	Interop 
+151.40000 	KVV804 	RM	192.8 PL	BFD TA (R) 	Fire  TA (Repeater) 	FM 	Fire-Talk 
+151.40000 	KVV804 	M	192.8 PL	BFD TA (S) 	Fire TA (Simplex) 	FM 	Fire-Talk 
+158.19000 	KIM411 	RM	411 DPL	Walton IO 	Walton FD Interop 	FM 	Interop 
+158.19000 	KIM411 	RM	412 DPL	FrnscFD IO 	Francisville FD Interop 	FM 	Interop 
+158.19000 	KIM411 	RM	432 DPL	Flrnc FD IO 	Florence FD Interop 	FM 	Interop 
+158.19000 	KIM411 	RM	465 DPL	BvrLk FD IO 	Beaver Lick FD Interop 	FM 	Interop 
+155.43750 	WQMM332 	M	025 DPL	BooneWatrRsq 	Water Rescue 	FMN 	Emergency Ops 
+453.86250 	KD51241 	M	192.8 PL	FlorencePDTA 	Police Dept Talk Around 	FM 	Law Talk 
+155.49000 	 	RM	192.8 PL	Walton FD TA 	Fire TA  	FM 	Fire-Talk 
+463.85000 	KNCG355 	RM	110.9 PL	StElzScrty 	St. Elizabeth Healthcare Florence Security 	FM 	Hospital 
+Advanced Radio Technology	 LTR Standard	 Various	Boone County Board of Education	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bellview	Cincinnati/Northern Kentucky International Airport (CVG)	 EDACS Standard
+ Hebron	Cincinnati/Northern Kentucky International Airport (CVG) P25	 Project 25 Phase II	 Hebron	Delta Air Lines (CVG Airport)	 Motorola Type II Smartnet	 Florence	DHL Airways Express Hub Cincinnati
+ NXDN NEXEDGE 9600	 Erlanger	Duke Energy	 DMR Motorola Capacity Plus Single Site (TRBO)	 Rabbit Hash	Northern Kentucky P25	 Project 25 Phase II	 Various
+Owen Electric Cooperative	 DMR Conventional Networked	 Various	

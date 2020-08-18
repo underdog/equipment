@@ -1,0 +1,45 @@
+154.07000 	KNCH647 	B		KC F Sim TRS 	Fire Dispatch (south county, simulcast from Valley TRS) 	FMN 	Fire Dispatch 
+155.19000 	KBS332 	BM	123.0 PL	MARS 	Mutual Aid Radio System (MARS) 	FMN 	Interop 
+867.70000 	 	BM	CSQ	MutAid Tac10 	Countywide Tac-10 	FM 	Interop 
+154.96500 	 	RM	123.0 PL	SAR F-2 	SAR F-2 	FMN 	Emergency Ops 
+153.75500 	 	BM	CSQ	SAR F-3 	SAR F-3 	FMN 	Emergency Ops 
+451.51250 	WQWW649 	BM	CC 1TG 1SL 1	KCMT 1 	Metro Transit - Atlantic Base 	DMR 	Transportation 
+451.66250 	WQWW649 	BM	CC 1TG 1SL 1	KCMT 2 	Metro Transit 	DMR 	Transportation 
+451.73750 	WQWW649 	BM	CC 1TG 1SL 1	KCMT 3 	Metro Transit - Central Base 	DMR 	Transportation 
+452.08750 	WQWW649 	BM	CC 1TG 1SL 1	KMCT 4 	Metro Transit - Ryerson Base 	DMR 	Transportation 
+452.18750 	WQWW649 	BM	CC 1TG 1SL 1	KCMT 5 	Metro Transit 	DMR 	Transportation 
+456.51250 	WQWW649 	BM	CC 1TG 1SL 1	KCMT 6 	Metro Transit 	DMR 	Transportation 
+456.66250 	WQWW649 	BM	CC 1TG 1SL 1	KCMT 7 	Metro Transit 	DMR 	Transportation 
+457.73700 	WQWW649 	BM	CC 1TG 1SL 1	KCMT 8 	Metro Transit 	DMR 	Transportation 
+458.08750 	WQWW649 	BM	CC 1TG 1SL 1	KCMT 9 	Metro Transit 	DMR 	Transportation 
+458.18750 	WQWW649 	BM	CC 1TG 1SL 1	KCMT 10 	Metro Transit 	DMR 	Transportation 
+155.22000 	KWH567 	BM	103.5 PL	AMR Seattle 	American Medical Response (Seattle) 	FMN 	EMS-Talk 
+158.83500 	WQSF795 	RM	103.5 PL	AMR Seattle 	American Medical Response 	FMN 	EMS Dispatch 
+851.28750 	WNNR525 	RM	032 DPL	Seattle Light 	Seattle City Light 	FMN 	Utilities 
+851.58750 	WNNR525 	RM	032 DPL	Seattle Light 	Seattle City Light 	FMN 	Utilities 
+851.86250 	WNNR525 	RM		Seattle Light 	Seattle City Light 	FMN 	Utilities 
+852.36250 	WNNR525 	RM		Seattle Light 	Seattle City Light 	FMN 	Utilities 
+154.77500 	KNAA587 	BM		Muck Police 	Tribal Police 	FMN 	Law Dispatch 
+155.60250 	WQIZ327 	RM		SNOQ Pd 	Public Safety Ops 	FMN 	Multi-Dispatch 
+453.27500 	KXP589 	RM	85.4 PL	Bellevue CC 	Bellevue College Primary 	FMN 	Schools 
+151.52000 	 	BM	162.2 PL	GRCC Mainten 	Maintenance Repeater 	FMN 	Schools 
+159.88500 	 	BM	162.2 PL	GRCC Sec 	Security Repeater 	FMN 	Security 
+151.83500 	 	BM	146.2 PL	AuburnSD408 	Auburn District 408 	FMN 	Schools 
+155.26500 	 	BM	261 DPL	Enumclaw216 	Enumclaw District 216 	FMN 	Schools 
+154.51500 	 	BM	114.8 PL	FedWaySD210 	Federal Way District 210 	FMN 	Security 
+159.97500 	 	BM		Mt View HS 	Mountainview High School 	FMN 	Schools 
+467.92500 	 	BM		P Arts T Ops 	Performing Arts Center/Theater Operations 	FMN 	Schools 
+151.95500 	 	BM	346 DPL	RentonSD403 	Renton District 403 	FMN 	Schools 
+151.77500 	 	BM	261 DPL	TahomaSD409 	Tahoma District 409 	FMN 	Schools 
+159.49500 	 	BM	246 DPL	TukwilaSD406 	Tukwila District 406 	FMN 	Security 
+ Centurylink Field  (Seahawks And Sounders)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Seattle	Amazon Headquarters	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Seattle	Bellevue Collection	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ Bellevue	Bill & Melinda Gates Foundation	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Seattle	Boeing P25	 Project 25 Phase I	 Varies	Boeing Wide Area
+ Motorola Type II SmartZone	 Various	City of Kent	 NXDN NEXEDGE 4800	 Kent	Delta Airlines (SeaTac)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Seattle
+Doppler Building	 DMR Motorola Capacity Plus Single Site (TRBO)	 Seattle	Federal Detention Center SeaTac	 Motorola Type II	 Sea Tac	FleetNet / Silke Communications	 NXDN NEXEDGE 4800
+ Various	King County Metro Transit	 Project 25 Phase II	 Seattle	Microsoft Headquarters	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Redmond	Muckleshoot Casino
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Auburn	Pacific NorthWest DMR	 DMR Conventional Networked	 Various	Port of Seattle Public Safety	 Motorola Type II SmartZone	 Seattle
+Providence Medical Centers	 DMR Conventional Networked	 Various	Puget Sound Energy	 MPT-1327 Standard	 Various	Seattle-King County Public Safety (KCERS)	 Motorola Type II SmartZone
+ Seattle	Snohomish County Public Transit	 OpenSky 9600 baud	 Everett	Snoqualmie Entertainment 	 LTR Standard	 Snoqualmie	South Sound 911
+ Project 25 Phase II	 Lakewood	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide
+WA State Patrol	 Project 25 Phase II	 Various	Washington Department of Transportation (P25)	 Project 25 Phase II	 Various	Washington State Convention Center	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Seattle	Washington State Department of Transportation	 LTR MultiNet	 Various	Wiztronics Inc	 NXDN NEXEDGE 4800	 Various	

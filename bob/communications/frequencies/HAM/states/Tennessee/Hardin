@@ -1,0 +1,33 @@
+155.67750 	WQHG532 	RM	CC 9TG 16770000SL 2	HCSO DISP DMR 1 	Sheriff Dispatch 	DMR 	Law Dispatch 
+154.81500 	WQHG532 	RM	CC 10TG 16770000SL 2	HCSO DISP DMR 2 	Sheriff Dispatch 	DMR 	Law Dispatch 
+155.92500 	WQHG532 	RM	CC 9TG 16770000SL 2	HCSO DISP DMR 3 	Sheriff Dispatch 	DMR 	Law Dispatch 
+460.37500 	WQM216 	RM	186.2 PL	HCSO DISP ANALOG 	Sheriff Dispatch (Analog) 	FMN 	Law Dispatch 
+154.35500 	WPKG756 	RM	127.3 PL	HCFD-DISP 	Fire Department - Dispatch 	FMN 	Fire Dispatch 
+154.38500 	WPPY989 	RM		HCFD-DISP 	Fire Department - Dispatch 	FMN 	Fire Dispatch 
+47.62000 	WPPY989 	RM		HC FD LB RPTR 	Fire Department - Low Band Repeater 	FM 	Fire-Tac 
+46.22000 	WPPY989 	M		HC FD LB TAC 	Fire Department - Low Band Tactical 	FM 	Fire-Tac 
+154.81500 	WQHG532 	RM	CC 10TG 16770005SL 1	HMC-EMS DISP1 	EMS Dispatch 1 	DMR 	EMS Dispatch 
+155.92500 	WQHG532 	RM	CC 9TG 16770005SL 1	HMC-EMS DISP2 	EMS Dispatch 2 	DMR 	EMS Dispatch 
+155.67750 	WQHG532 	RM	CC 9TG 16770005SL 1	HMC-EMS DISP3 	EMS Dispatch 3 	DMR 	EMS Dispatch 
+155.23500 	KZE644 	BM		HCGH-EMS 	Hardin County General Hospital - EMS Operations 	FMN 	Hospital 
+453.36250 	WQSU623 	RM	CC 9TG *SL *	HCEMS-ER 	County EMS - Hospital ER 	DMR 	Hospital 
+453.31250 	WQSU623 	RM	CC 9TG *SL *	HCEMS-OPS 	County EMS - Operations 	DMR 	EMS-Tac 
+154.73250 	WPUD580 	RM		HC-ROADS 	Highway Department - Main 	FMN 	Public Works 
+155.05500 	WPUZ236 	BM		HC-GARBAGE 	Sanitation 	FMN 	Public Works 
+154.12250 	WQAF511 	RM		HC SCHOOLS 	Schools (Repeaters in Savannah, and Counce) 	FMN 	Schools 
+460.28750 	WQQP755 	RM	CC 9TG *SL *	HCES-COUNCE 	Emergency Services - Counce Repeater 	DMR 	Emergency Ops 
+460.06250 	WQQP755 	RM	CC 9TG *SL *	HCES-SATILLO 	Emergency Services - Satillo Repeater 	DMR 	Emergency Ops 
+453.31250 	WQSU623 	RM	CC 9TG *SL *	HCES-PRIMARY 	Emergency Services - Savannah Repeater 	DMR 	Emergency Ops 
+460.23750 	WQQP755 	RM	CC 9TG *SL *	HCES-SAV 1 	Emergency Services - Savannah Repeater 	DMR 	Emergency Ops 
+460.33750 	WQQP755 	RM	CC 9TG *SL *	HCES-SAV 2 	Emergency Services - Savannah Repeater 	DMR 	Emergency Ops 
+460.16250 	WQQP755 	RM	CC 9TG *SL *	HCES-SAV 3 	Emergency Services - Savannah Repeater 	DMR 	Emergency Ops 
+453.72500 	WNVD469 	RM	CC 9TG *SL *	CRUMP PD DMR 	Police Department - DMR 	DMR 	Law Dispatch 
+453.75000 	 	RM	100.0 PL	CRUMP PD ANALOG 	Police Department Analog 	FM 	Law Dispatch 
+158.74500 	WQJH829 	RM		CRUMP FIRE 	Fire Department 	FMN 	Fire Dispatch 
+453.85000 	WQM216 	RM	127.3 PL	SPD DISPATCH 	Police Department - Dispatch 	FMN 	Law Dispatch 
+453.90000 	WQM216 	BM		SPD TACTCIAL 	Police Department Tactical 	FMN 	Law Tac 
+154.38500 	WPKG756 	RM	136.5 PL	SFD DISPATCH 	Fire Department - Dispatch 	FM 	Fire Dispatch 
+153.95000 	WRX733 	BM		SFD FIRE 2 	Fire Department 2 	FMN 	Fire-Tac 
+154.25000 	WRX733 	BM	115 DPL	SFD FIRE 3 	Fire Department 3 	FMN 	Fire Dispatch 
+155.80500 	KNIF201 	BM		SDPW OPS 	Public Works 	FMN 	Public Works 
+Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

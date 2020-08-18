@@ -1,0 +1,88 @@
+155.43000 	KAK312 	RM	293 NAC	CGCo Sheriff 	Sheriff: Dispatch/Operations [TG 1] 	P25e 	Law Dispatch 
+155.89500 	WPQC681 	BM		CGCo EMA1 	EMA: Operations 	FMN 	Emergency Ops 
+155.98500 	KTV822 	M		CGCo EMA2 	EMA: Operations 	FMN 	Emergency Ops 
+37.10000 	KTV822 	BM	136.5 PL	CGCo EMA3 	EMA: Operations 	FM 	Emergency Ops 
+453.20000 	KTV822 	RM	82.5 PL	CGCo EMA4 	EMA: Operations 	FMN 	Emergency Ops 
+154.05500 	KTV822 	RM	141.3 PL	CGCo Fire1 	Fire: Dispatch/Paging (EMA?) 	FMN 	Fire Dispatch 
+154.19000 	WPPZ276 	RM	141.3 PL	CGCo Fire2 	Fire: Response/Operations 	FMN 	Fire-Tac 
+153.83000 	KNHM554 	M	CSQ	CGCo Fire3 	Fireground / Mutual Aid 	FMN 	Fire-Tac 
+153.89000 	KNHM554 	BM		CGCo Fire4 	Fire 	FMN 	Fire-Tac 
+153.95000 	KNHM554 	M		CGCo Fire5 	Fireground 	FMN 	Fire-Tac 
+151.02500 	WQGN775 	RM		CGCoHealth 	Public Health Department 	FMN 	Public Works 
+156.16500 	KNFE807 	RM	141.3 PL	CGCo HD 1 	Highway Department  	FMN 	Public Works 
+155.89500 	WPQC681 	BM		CGCo HD 2 	Highway Department 	FMN 	Public Works 
+45.76000 	KNFE807 	BM		CGCo HD 3 	Highway Department 	FM 	Public Works 
+453.20000 	KTV822 	BM	82.5 PL	CGCo HD 4 	Highway Department 	FMN 	Public Works 
+464.72500 	WNQB981 	RM	192.8 PL	CGCo Roads 	Special Road District 	FMN 	Public Works 
+173.39625 	WPLT237 	F		PWSD4*Data 	Public Water Supply District 4: Data 	Telm 	Data 
+151.46000 	KNEE655 	BM	141.3 PL	CGCo R&P 1 	Recreation and Parks 	FMN 	Public Works 
+155.08500 	KNIE858 	BM	179.9 PL	CGCo R&P 2 	Recreation and Parks  	FMN 	Public Works 
+119.00000 	 	BM	CSQ	CGA Tower 	Tower 	AM 	Aircraft 
+121.60000 	 	BM	CSQ	CGA Ground 	Ground 	AM 	Aircraft 
+122.95000 	 	BM	CSQ	CGA UNICOM 	UNICOM 	AM 	Aircraft 
+155.20500 	KNHN228 	BM	141.3 PL	CpGirard EMS 	EMS: Dispatch [Encrypted] 	FMNE 	EMS Dispatch 
+467.93750 	KNHN228 	M	141.3 PL	CGEMS MX1 	EMS: Mobile Extenders [Encrypted] 	FMNE 	EMS-Tac 
+467.98750 	KNHN228 	M		CGEMS MX2 	EMS: Mobile Extenders [Encrypted] 	FMNE 	EMS-Tac 
+468.11250 	KNHN228 	M	94.8 PL	CGEMS MX3 	EMS: Mobile Extenders [Encrypted] 	FMNE 	EMS-Tac 
+468.18750 	KNHN228 	M	192.8 PL	CGEMS MX4 	EMS: Mobile Extenders [Encrypted] 	FMNE 	EMS-Tac 
+155.34000 	KNHN228 	BM		HEAR1 	Patient Reports 	FMN 	Hospital 
+464.47500 	 	RM	754 DPL	SEMH Securty 	Security 	FMN 	Security 
+464.65000 	WQGC337 	BM	331 DPL	SEMH CG PD2 	Security: Link to Cape Girardeau Police VHF 	FMN 	Law Dispatch 
+155.34000 	WQNE810 	BM	CSQ	HEAR 	Patient Reports 	FMN 	Hospital 
+462.85000 	WQIY940 	B		SEMH Paging 	Paging Data (CSQ) 	Telm 	Data 
+464.65000 	WQGC337 	F		SMH TimClock 	Time Clocks - Data (CSQ) 	Telm 	Data 
+152.44250 	WQNW849 	RM		SMH Ops MT 	Operations (in use) 	DMR 	Business 
+464.81250 	WQGC33 	RM		SMH Admin 	Admin 	FMN 	Business 
+464.82500 	WPIR896 	RM	CC 1TG *SL *	SFMC Securty 	Security (was D364) 	DMR 	Security 
+451.45000 	WPIR896 	RM		SFMC Ops 2 	Operations 	FMN 	Business 
+452.47500 	WPIR896 	RM		SFMC Ops 3 	Operations 	FMN 	Business 
+155.22000 	KOB487 	BM	141.3 PL	SFMC Ops 4 	Operations 	FMN 	Hospital 
+155.34000 	KOB487 	B		HEAR340 	Patient Reports 	FMN 	Hospital 
+152.00750 	WNDD305 	B		SFMC Paging 	Paging 	Telm 	Data 
+153.89000 	KNJD729 	BM		NCCRFPD Loc 	Fire 	FMN 	Fire-Tac 
+155.25000 	KEC586 	RM	141.3 PL	CG Police F1 	Police: Dispatch 	FMN 	Law Dispatch 
+155.79000 	KEC586 	BM	CSQ	CG PoliceTac 	Police: Tactical (some units D412) 	FMN 	Law Tac 
+155.97000 	KEC586 	M	123.0 PL	CG PoliceAdm 	Police: Admininstrative  	FMN 	Law Tac 
+154.65000 	KEC586 	M	88.5 PL	CG Police B 	Police: Car-to-Base 	FMN 	Law Tac 
+155.25000 	KEC586 	M	CSQ	CG Police C 	Police: Tac 	FMN 	Law Tac 
+155.79000 	KEC586 	BM		CG Police C 	Police: Tac / Car-to-Car / Dispatch: Alternative 	FMN 	Law Tac 
+154.31000 	KCP586 	RM	624 DPL	CG Fire Disp 	Fire: Dispatch  	FMN 	Fire Dispatch 
+154.13000 	WQAE565 	BM	506 DPL	CG City FG1 	Fireground (City)  	FMN 	Fire-Tac 
+155.53500 	WQAE565 	BM	565 DPL	CG Fire Ops 	Fire: Ops (Back-up to Repeater) 	FMN 	Fire Dispatch 
+153.83000 	KCP586 	M		CG Co FG/MA 	Fireground / Mutual Aid 	FMN 	Fire-Tac 
+153.72500 	WNZE850 	RM	141.3 PL	CG Utilities 	Public Works: Street/Water 	FMN 	Public Works 
+37.92000 	WPPX930 	BM	131.8 PL	CG PW 37.92 	Public Works 	FM 	Public Works 
+158.19000 	WNZE850 	M		CG PubWrks  	Public Works  	FMN 	Public Works 
+158.14500 	WQDF998 	F	306 DPL	CG PW Sewer 	Public Works: Sewers  	FMN 	Public Works 
+154.47875 	WQBQ383 	F		CG PW WDD 1 	Water Data (CSQ) 	Telm 	Data 
+158.14500 	WQDF998 	F		CG PW WDD 2 	Waste Water Telemetry (CSQ) 	Telm 	Data 
+460.55000 	WPNY781 	F		CG PW WDD 3 	Public Works Telemetry 	Telm 	Data 
+462.23750 	WQKR221 	F		CG PW WDD 4 	Water Data (CSQ) 	Telm 	Data 
+462.38750 	WQKR221 	F		CG PW WDD 5 	Water Data (CSQ) 	Telm 	Data 
+467.38750 	WQKR221 	F		CG PW WDD 6 	Water Data (CSQ) 	Telm 	Data 
+159.63000 	WQJX395 	F		CG StormData 	Storm Water Telemetry  	Telm 	Data 
+159.16500 	WPUA492 	RM	CC 1TG *SL *	CG FltMaint 	Fleet Maintenance (w/ APRS) 	DMR 	Public Works 
+155.28750 	WPDZ513 	RM	205 DPL	ECFPD Local 	Fire: Local 	FMN 	Fire-Tac 
+154.35500 	WPDZ513 	BM	205 DPL	ECFPD FG 	Fireground 	FMN 	Fire-Tac 
+153.89000 	KNJT306 	BM		Frtlnd Fire 	Fire 	FMN 	Fire-Tac 
+155.67000 	KFO729 	RM	118.8 PL	Jksn Police1 	Police: Dispatch 	FMN 	Law Dispatch 
+154.80000 	WNKS903 	BM	118.8 PL	Jksn Police2 	Police 	FMN 	Law Tac 
+158.74500 	KAP257 	BM		Jksn Police3 	Police 	FMN 	Law Tac 
+158.88000 	KAP257 	BM		Jksn Police4 	Police 	FMN 	Law Tac 
+154.32500 	WNKX232 	RM	127.3 PL	Jackson Fire 	Fire: Dispatch 	FMN 	Fire-Tac 
+154.10000 	KAP257 	RM	364 DPL	Jksn PubWrks 	Public Works 	FMN 	Public Works 
+173.33750 	WNVB921 	F		Jackson WDD 	Water Distribution Data 	Telm 	Data 
+151.05500 	WQKA378 	RM		Mllrsvl Fire 	Fire: Operations 	FMN 	Fire Dispatch 
+152.28500 	WPPW698 	RM	306 DPL	SEMU Police 	Police: Dispatch 	FMN 	Law Dispatch 
+153.98000 	WPGV265 	BM	203.5 PL	SEMU PD Evnt 	Sporting Events - Parking/Crowd Control 	FMN 	Law Tac 
+152.33000 	WPPG919 	RM		SEMU Maint 	Maintenance / Security 	FMN 	Schools 
+155.14500 	KJY915 	BM	141.3 PL	SEMU CUSEC 	Central U.S. Earthquake Consortium (C.U.S.E.C.) 	FMN 	Schools 
+452.82500 	KJY915 	F		SEMU EqukRF1 	Remote Links to 155.145 	FMN 	Schools 
+457.82500 	KJY915 	F		SEMU EqukRF2 	Remote Links to 155.145 	FMN 	Schools 
+159.19500 	WPWF902 	RM	88.5 PL	SMH FacMgt1 	Facilities Management (also WPVZ510) 	FMN 	Business 
+152.48000 	KYH412 	B		SEMU Paging 	Paging (CSQ) 	FMN 	Data 
+152.91500 	WPPW698 	RM	306 DPL	SEMU Shuttle 	Campus Shuttle Bus Service 	FMN 	Transportation 
+461.32500 	WQCF508 	RM		CG School 	Maintenance / Security / Admin 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport	 SouthEast MO	Dittronics - UHF (DMR)	 DMR Hytera XPT
+ SEMO	G and D Communications (SEMO)	 LTR MultiNet	 Bloomfield	G and D Communications - UHF (SEMO)	 LTR Standard	 Various	Isle of Capri Casino (Cape Girardeau)
+ DMR Motorola Connect Plus (TRBO)	 Cape Girardeau	Mo-Ark Communications and Electronics - 800 MHz	 LTR Standard	 Various	Proctor and Gamble Paper Products (Cape Girardeau)	 LTR Standard	 Cape Girardeau

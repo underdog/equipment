@@ -1,0 +1,81 @@
+151.46000 	WQEM374 	RM	162 DPL	Montgmry FireEMS 	Fire/EMS: Dispatch - Countywide 	FMN 	Fire Dispatch 
+453.26250 	WQEM374 	F	97.4 PL	Mont Fire/EMS RF 	Fire/EMS: Remote Link - Hillsboro  	FMN 	Fire Dispatch 
+151.52000 	WQDM689 	M	343 DPL	Mont 911 151.52 	Fire/EMS: Tac [Expired 10/15] 	FMN 	Fire-Tac 
+151.32500 	KNIA485 	RM	351 DPL	Montgmry Sheriff 	Sheriff: Dispatch (Simulcast on 452.0125) 	FMN 	Law Dispatch 
+452.01250 	WPSQ252 	RM	123.0 PL	Mont SheriffCffn 	Sheriff: Dispatch (Simulcast of 151.325) (Coffeen) 	FMN 	Law Dispatch 
+460.58750 	 	F	565 DPL	Mont Sheriff 460 	Sheriff: Dispatch [No License] 	FMN 	Law Dispatch 
+151.32500 	KNIA485 	M	047 DPL	Mont Sheriff c2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+173.25500 	 	F	100.0 PL	Mont Sheriff MX 	Sheriff: Mobile Extenders (or Remote Tx at Litchfield) 	FMN 	Law Dispatch 
+155.91000 	WPIG428 	M	173.8 PL	Mont Sheriff MX1 	Sheriff: Mobile Extenders (PL on TX only) 	FMN 	Law Dispatch 
+154.89000 	WPIG428 	M		Mont Sheriff MX2 	Sheriff: Mobile Extenders  	FMN 	Law Dispatch 
+154.99500 	WQEG925 	BM	CSQ	Mont ESDA 	ESDA: Countywide [Expired 1/16] 	FMN 	Emergency Ops 
+150.99500 	KGK961 	RM	156.7 PL	Mont Highway 	Highway Department 	FMN 	Public Works 
+155.34000 	WPXN413 	BM	118.8 PL	MERCI1 118.8 	Patient Reports 	FMN 	Hospital 
+152.00750 	WPXN413 	B		HH Paging 	Paging (CSQ) 	Telm 	Data 
+151.73000 	WQKD641 	RM	103.5 PL	SFHL Maint 	Security / Maintenance (also D462, D516?) 	FMN 	Business 
+155.34000 	WPMU226 	BM	85.4 PL	MERCI-1 85.4 	Patient Reports 	FMN 	Hospital 
+451.21250 	WQOF443 	F		Mont Co WDD 	Montgomery County Water Company (CSQ-in use) 	FMN 	Data 
+150.99500 	WPAW963 	BM		Hill TS Road 	Hillsboro Township: Road Maintenance 	FMN 	Public Works 
+151.10000 	WNRD902 	BM	156.7 PL	AudTS Roads 	Audubon Township Highway Department (Nokomis) [Expired 2/05] 	FMN 	Public Works 
+151.10000 	WNCB593 	BM	156.7 PL	SF TS Roads 	South Fillmore Township: Roads (Van Burensburg) [Expired 3/05] 	FMN 	Public Works 
+151.39250 	WQRD480 	BM	162 DPL	Panhnd Roads 	Panhandle Township Roads / Snow Plows (Raymond, Waggoner, Harvel) 	FMN 	Public Works 
+173.31250 	WNDD917 	F		Coffeen WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+160.17750 	WQFE421 	RM	071 DPL	Mont911 Frmrsv 	Fire/EMS: Paging/Dispatch (Simulcast at Farmersville) 	FMN 	Fire Dispatch 
+154.32500 	WPHP582 	B	047 DPL	Mont Fire D047 	Fire/EMS: Paging/Dispatch (Farmersville) [Expired 3/12/Active 4/18] 	FMN 	Fire Dispatch 
+159.76500 	WQTP231 	BM	654 DPL	Farmersvil Water 	Village Ops / Water Department 	FMN 	Public Works 
+173.39000 	WFE690 	F	88.5 PL	Farmersville WDD 	Water Department Data [Expired - in use 12/13; also CSQ) 	FMN 	Data 
+154.32500 	WPHP582 	B	223 DPL	MontFireD223 	Fillmore Fire (rpts other tones on 154.325, then repeats 154.325 CSQ) [Expired 3/12] 	FMN 	Fire Dispatch 
+154.32500 	WPHP582 	B	047 DPL	MontFireD047 	Fire/EMS: Paging/Dispatch - Fillmore Fire [Expired 3/12] 	FMN 	Fire Dispatch 
+160.13250 	WQFE421 	RM	162 DPL	Mont 911 Fil 	911 Simulcast (Fillmore)  	FMN 	Fire Dispatch 
+458.06250 	WPNZ256 	M		Filmore WDD 	Water Distribution Data 	Telm 	Data 
+155.08500 	WPYY616 	RM	110.9 PL	Hillsboro Police 	Police: Events (2018, was 210.7) 	FMN 	Law Tac 
+155.08500 	WPYY616 	RM	351 DPL	Hillsboro Tones 	Paging Tones (unknown use) 	FMN 	Multi-Tac 
+154.44500 	WQXS705 	BM	118.8 PL	Hillsboro Fire  	Fire: Paging / Dispatch 	FMN 	Fire-Tac 
+155.10000 	WQXS705 	RM	384 NAC	Hillsboro FD P25 	Fire 	P25E 	Fire Dispatch 
+155.10000 	WQXS705 	RM	351 DPL	Hillsboro FG 	Fireground (CSQ Paging?) 	FMN 	Fire-Tac 
+158.83500 	WPYS411 	F		Hilsboro WDD 	Water Data (CSQ) 	Telm 	Data 
+155.82000 	KSD393 	RM	94.8 PL	Litchfld Police  	Police: Dispatch  	FMN 	Law Dispatch 
+156.16500 	KSD393 	BM	94.8 PL	Ltchfld Police 2 	Police: Operations 	FMN 	Law Tac 
+465.32500 	KSD393 	M	CSQ	Ltchfld PoliceMX 	Police: Mobile Extenders (still in use?) 	FMN 	Law Tac 
+159.71250 	WQFE421 	RM	411 DPL	Litchfield Fire 	Fire: Dispatch (6:30 PM test) 	FMN 	Fire Dispatch 
+154.32500 	KCN968 	BM	162 DPL	Mont Fire D162 	Fire/EMS: Paging/Dispatch - Litchfield, Hillsboro, Irving 	FMN 	Fire Dispatch 
+154.32500 	KCN968 	BM	67.0 PL	Ltchfld Fire325 	Fire: Dispatch - Old (6:30 Test Page, in use) 	FMN 	Fire Dispatch 
+465.61250 	KCN968 	F	631 DPL	Ltchfld Fire RF 	Fire: Remote Link 	FMN 	Fire Dispatch 
+154.86750 	WQNC605 	RM		Lfld Fire Future 	Fire: Local (possibly D365) 	FMN 	Fire-Tac 
+453.55000 	WRCU875 	RM	127.3 PL	Lfld Street/Watr 	Street / Water 	FMN 	Public Works 
+453.75000 	WRCU875 	RM	127.3 PL	Lfld Lake Maint 	Lake Maintenance / Security 	FMN 	Security 
+155.07000 	KNDX329 	RM	351 DPL	Nokomis Police  	Police: Dispatch (DB: Montgomery County?) 	FMN 	Law Dispatch 
+154.96500 	WNYW856 	RM	123.0 PL	Nokomis PD/EMS  	Police / Ambulance [Ch 1] 	FMN 	Law Dispatch 
+159.84750 	WQFE421 	RM	223 DPL	Mont 911Nok1 	Fire/EMS: Countywide Dispatch Nokomis/Witt (rpts 154.325 D023) 	FMN 	Fire Dispatch 
+154.32500 	WPHP582 	B	023 DPL	MontFireD023 	Fire/EMS: Paging/Dispatch (Nokomis, Raymond?) [Expired 3/12; Active 4/18] 	FMN 	Fire Dispatch 
+151.67000 	WQDM689 	RM	67.0 PL	Mont 911Nok2 	911 Repeater (w/ Phone Patch) [Expired 10/15] 	FMN 	Fire Dispatch 
+173.39000 	WQRX723 	F		Panama WDD 	Water Distribution Data (CSQ, 67.0?) 	Telm 	Data 
+173.25000 	 	M	210.7 PL	Raymond PoliceMX 	Police: Mobile Extenders (or County Sheriff) 	FMN 	Law Dispatch 
+173.28750 	KTY953 	M		Raymond Fire MX 	Fire: Mobile Extenders  	FMN 	Fire-Tac 
+155.14500 	WNFE726 	BM	162 DPL	Raymond Village 	Village Operations 	FMN 	Public Works 
+154.32500 	KTY953 	B	85.4 PL	Mont FD 85.4 	Fire/EMS: Paging/Dispatch - Raymond-Harvel 	FMN 	Fire Dispatch 
+159.63750 	WQFE421 	RM	266 DPL	Mont 911 Ray 	911 Simulcast - Raymond (Hillsboro) 	FMN 	Fire Dispatch 
+173.28750 	KTY953 	M	CSQ	RayHar Fire MX 	Fire/EMS: Mobile Extenders 	FMN 	Fire Dispatch 
+159.83250 	WQFE421 	RM	162 DPL	ShlCrk/TSpr Fire 	Fire: Paging/Dispatch - Shoal Creek/Taylor Springs 	FMN 	Fire Dispatch 
+154.32500 	WPJX755 	BM	065 DPL	Montg Fire D065 	Fire/EMS: Paging/Dispatch - Old [Expired 3/12] 	FMN 	Fire Dispatch 
+154.13000 	WPJX755 	RM	162.2 PL	Bond Co Fire PL 	Fire: Dispatch (DB: Bond Co 911) (on store/forward repeats 154.325 D065) 	FMN 	Fire Dispatch 
+154.13000 	WPJX755 	RM	065 DPL	Bond Co Fire DPL 	Fire/Rescue: Paging/Dispatch - Shoal Creek/Taylor Springs/Hazmat SW (store and repeats on Bond Co Fire 154.13) 	FMN 	Fire Dispatch 
+154.45625 	WNFK404 	F		Waggoner WDD  	Water Department Data (CSQ) 	Telm 	Data 
+153.13250 	WPPX824 	RM	351 DPL	Hillsboro School 	Operations  	FMN 	Schools 
+159.75000 	WPPX824 	BM	047 DPL	Hillsboro SchBus 	Transportation / Buses 	FMN 	Schools 
+152.35250 	KWR327 	RM	325 DPL	Lfld School Bus 	Transportation 	FMN 	Schools 
+157.68000 	KWR327 	BM	127.3 PL	Lfld SchBuses/Op 	Buses/Ops (OLD) 	FMN 	Schools 
+154.57000 	 	M	432 DPL	Lfld Sch/Plygrnd 	Playground Aides 	FMN 	Schools 
+152.43500 	WPZS806 	RM	88.5 PL	NokomisSchool 	Security/Activities  	FMN 	Schools 
+155.17500 	WXT623 	BM	203.5 PL	Nok School Bus  	Buses 	FMN 	Schools 
+152.46500 	WRCH611 	RM	325 DPL	Panhandle School 	Buses / Ops 	FMN 	Schools 
+155.23500 	WXP465 	BM	251 DPL	Panhandle Bus  	Buses 	FMN 	Schools 
+118.17500 	 	BM	CSQ	3K4 AWOS-3 	AWOS-3 	AM 	Aircraft 
+122.80000 	 	BM	CSQ	3K4 AWOS-A 	AWOS-A at VLA 	AM 	Aircraft 
+122.90000 	 	BM	CSQ	3K4 CTAF 	CTAF 	AM 	Aircraft 
+124.20000 	 	BM	CSQ	StL Appr/Dep 	Saint Louis Approach/Departure 	AM 	Aircraft 
+122.80000 	KEO6 	B		3LF UNICOM 	CTAF/UNICOM 	AM 	Aircraft 
+118.17500 	WPZP584 	B	CSQ	3LF AWOS 	AWOS: Time, Temperature, etc 	AM 	Aircraft 
+453.13750 	WQAC885 	F		3LF AWOS*D 	AWOS: Automated Weather Observing System (CSQ) 	FMN 	Data 
+CK Communications / MJM Electric Cooperative (DMR)	 DMR Conventional Networked	 Carlinville	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Warner Communications (DMR 13)	 DMR Tier 3
+ St Louis Metro	

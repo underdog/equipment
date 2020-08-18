@@ -1,0 +1,46 @@
+452.20000 	WPIE797 	RM	123.0 PL	MCOEM-DISP A 	Emergency Management Analog 	FMN 	Emergency Ops 
+452.20000 	WPIE797 	BM		MCOEM-DISP D 	Emergency Management Digital 	DMR 	Emergency Ops 
+453.50000 	 	RM		AMOREL VFD 	Amorel VFD Primary 	FMN 	Fire Dispatch 
+460.58750 	 	RM		Dell VFD 	Dell VFD  Primary 	FMN 	Fire Dispatch 
+460.45000 	 	RM	CC 12TG 1001SL *	MCSO-1 D 	Sheriff - Dispatch 	DMR 	Law Dispatch 
+453.45000 	WNLF745 	RM	CC 12TG *SL *	MCSO-1 D 	Sheriff - AVL/GPS Location Data 	DMR 	Data 
+460.45000 	KKH481 	RM	CC 12TG *SL *	MCSO-4 D 	Sheriff - AVL/GPS Location Data 	DMR 	Data 
+453.45000 	WNLF745 	RM	CC 12TG 1009SL 1	MCSO-JAIL 	Sheriff - Jail Operations 	DMR 	Corrections 
+154.83000 	KKH481 	M		MCGOV-D 	County Government Services Digital 	DMR 	Public Works 
+154.83000 	KKH481 	M		Miss Co Gov 	County Government Services 	FMN 	Public Works 
+453.60000 	WPKZ321 	RM		Miss Co Coop 	Cooperative Extension (Expired) 	FMN 	Public Works 
+453.05000 	WNXH641 	RM	123.0 PL	Miss Co Snr 	Senior Citizens Center 	FMN 	Public Works 
+460.15000 	WQHU442 	RM	88.5 PL	Blytheville PD2  	Police - Operations Analog 	FMN 	Law Talk 
+460.47500 	WQHU442 	RM		Blytheville PD3  	Police - Operations Analog 	FMN 	Law Talk 
+453.15000 	WQQI287 	RM		Blytheville Fire 	Fire Department 	FMN 	Fire-Tac 
+453.12500 	WQAY453 	RM		BRS-DISP D 	Rescue Squad Dispatch Digital 	DMR 	EMS Dispatch 
+453.12500 	WQAY453 	RM	123.0 PL	Blyth Rescue 	Rescue Squad - Dispatch Analog 	FMN 	EMS Dispatch 
+155.17500 	KTP931 	BM	156.7 PL	Blythvll EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.20500 	EXPIRED 	BM		Pro EMS 	Pro EMS Ambulance Service 	FMN 	EMS Dispatch 
+453.10000 	WPKE744 	RM		Medic One 	Medic One Ambulance *Also licensed for P-25,  NexEDGE, & MotoTRBO operations* 	FMN 	EMS Dispatch 
+452.60000 	 	RM	103.5 PL	Blythvll Sewer A 	Water Department 	FMN 	Public Works 
+453.97500 	EXPIRED 	RM		Blythvll Sewer B 	Water Department 	FMN 	Public Works 
+155.02500 	KNGH294 	RM	107.2 PL	Blythvll PubWrks 	Public Works Department 	FMN 	Public Works 
+453.67500 	EXPIRED 	RM		Blythvll Sewer 	Sewer Department 	FMN 	Public Works 
+155.92500 	 	BM	141.3 PL	Miss Co Gov 	Government Services 	FMN 	Public Works 
+155.02500 	KNGH294 	RM	107.2 PL	Blyth Gov 	Government Services 	FMN 	Public Works 
+453.80000 	WPFU442 	RM		Blyth HousAuth 	Housing Authority 	DMR 	Public Works 
+453.07500 	WPMS269 	RM		Leachville Fire 	Leachville Fire & Rescue 	FMN 	Fire Dispatch 
+460.17500 	WNHR518 	RM	123.0 PL	LeachvillePolice 	Leachville Police - Dispatch 	FMN 	Law Dispatch 
+453.85000 	WPKX838 	RM	103.5 PL	LUXORA PD ANALOG 	Luxora Police Analog 	FMN 	Law Dispatch 
+453.85000 	WPKX838 	RM		LUXORA PD P-25 	Luxora Police P-25 	P25 	Law Dispatch 
+460.15000 	WPFJ956 	RM		LUORA PD-TAC 	Luxora Police Secondary 	FMN 	Law Tac 
+460.02500 	EXPIRED 	RM	123.0 PL	Manila Police 	Police - Operations 	FMN 	Law Dispatch 
+460.62500 	WPCG683 	RM		Manila Fire D  	Fire Disaptch Digital 	NXDN 	Fire Dispatch 
+460.62500 	WPCG683 	RM	123.0 PL	Manila Fire A  	Fire - Dispatch Analog 	FMN 	Fire Dispatch 
+154.43000 	KNAJ284 	BM	151.4 PL	Osceola Fire 	Fire - Paging 	FMN 	Fire Dispatch 
+453.57500 	WNCP941 	RM	123.0 PL	Osceola Police 	Police 	FMN 	Law Dispatch 
+453.62500 	WNCP941 	M	123.0 PL	Osceola Police 2 	Police Car to Car/Tactical 	FMN 	Law Talk 
+151.74500 	WQCT982 	RM		Osceola Govt Srv 	Government Services 	FMN 	Public Works 
+453.70000 	WPJP457 	RM		Osceola HousAuth 	Housing Authority 	FMN 	Public Works 
+460.80000 	WQED347 	RM		AR NE Sec/Maint 	Security/Maintenance 	FMN 	Security 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Atlas Tube	 NXDN NEXEDGE 9600
+ Blytheville	Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport	 SouthEast MO	Blytheville	 DMR Motorola Capacity Plus Single Site (TRBO)	 Blytheville	Entergy 
+ Project 25 Phase II	 Various	Mo-Ark Communications and Electronics - UHF (SEMO)	 LTR Standard	 Various	Nucor Steel - Arkansas	 Motorola Type II	 Hickman
+Nucor Yamato Steel	 DMR Motorola Connect Plus (TRBO)	 Blytheville	Pargould Communications (Blytheville)	 LTR Standard	 Blytheville	West Tennessee Communications	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Steele	West Tennessee Communications (Blytheville)	 Motorola Type II	 Blytheville	

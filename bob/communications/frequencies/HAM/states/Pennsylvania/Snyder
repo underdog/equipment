@@ -1,0 +1,40 @@
+46.06000 	KGD743 	BM		Snyder Fire1 	Fire (Low band Dispatch) 	FM 	Fire Dispatch 
+46.10000 	KGD743 	BM		Snyder Fire2 	Fire (Low band Fireground) 	FM 	Fire-Tac 
+44.72000 	WPAH652 	BM		Snyder Fire3 	Fire (Low band Fireground) 	FM 	Fire-Tac 
+45.52000 	WPAH652 	M		Snyder Fire4 	Fire (Low band Fire-Police) 	FM 	Fire-Tac 
+151.04000 	WXT525 	RM	156.7 PL	Snyder Fire1 	Fire and EMS Dispatch 	FMN 	Fire Dispatch 
+156.12000 	WPTG348 	RM	156.7 PL	Sny Fire2/EMS 	Fire 2 / EMS ops 	FMN 	Fire-Tac 
+154.22000 	WPQC621 	BM	167.9 PL	Snyder Fire3 	Fire 3 	FMN 	Fire-Tac 
+154.26500 	WPQC621 	BM	156.7 PL	Snyder Fire4 	Fire 4 	FMN 	Fire-Tac 
+154.31000 	WPQC621 	BM	331 DPL	Snyder Fire5 	Fire 5 	FMN 	Fire-Tac 
+154.35500 	WPQC621 	BM	167.9 PL	Snyder Fire6 	Fire 6 	FMN 	Fire-Tac 
+159.46500 	WPUI777 	BM	241.8 PL	Snyder Fire7 	Fire 7 (Fire Police) 	FMN 	Fire-Tac 
+155.82000 	KGH652 	BM	156.7 PL	Snyder Fire8 	Fire 8 (EMA) 	FMN 	Multi-Talk 
+151.08500 	WXT525 	BM	156.7 PL	Snyder FG 	Fireground 	FMN 	Fire-Tac 
+151.43000 	WPQC621 	RM	141.3 PL	Snyder FG 	Fireground 	FMN 	Fire-Tac 
+154.38500 	WPQC621 	BM		Snyder FG 	Fireground 	FMN 	Fire-Tac 
+462.97500 	WYD909 	RM	156.7 PL	EMS Med-10 	EMS Dispatch (Dispatched on 151.040) 	FMN 	EMS Dispatch 
+462.95000 	WYD909 	RM	156.7 PL	EMS Med-9 	EMS Comms with Juniata Co. units 	FMN 	EMS-Talk 
+156.22500 	 	RM	114.8 PL	Countywide 	Countywide 	FMN 	Emergency Ops 
+155.37000 	KBF626 	RM	156.7 PL	Snyder P1 	County Police Ch. 1 - Dispatch 	FMN 	Law Dispatch 
+155.49000 	KBF626 	BM		Snyder P2 	County Police Ch. 2 - Regional 	FMN 	Interop 
+155.82000 	KGH652 	BM		Snyder P3 	County Police Ch. 3 - Government/EMA 	FMN 	Multi-Talk 
+155.53500 	KTN329 	B		Union P1 	County Police Ch. 4 - Union County Police Ch. 1 	FMN 	Interop 
+155.41500 	KBF626 	BM		Sunbury PD 1 	County Police Ch. 5 - Sunbury Area Police Ch. 1 	FMN 	Interop 
+155.47500 	WXT525 	B		Police Nat 	County Police Ch. 6 - National 	FMN 	Interop 
+154.38500 	WPQC621 	BM		Snyder PD W 	County Police West Ops 	FMN 	Law Tac 
+159.00000 	WPTG348 	BM	156.7 PL	Snyder PD E 	County Police East ops 	FMN 	Law Tac 
+158.88000 	WPEJ883 	BM		Snyder Jail 	County Prison (Prison Operations) 	FMN 	Law Talk 
+156.12000 	WPTG348 	BM		SnyderCoSvcs 	Services 	FM 	Multi-Talk 
+159.00000 	WPTG348 	BM		SnyderCoSvcs 	Services 	FM 	Multi-Talk 
+154.10000 	KGH652 	BM		SelinsgrvSvc 	Selinsgrove Boro Services 	FM 	Multi-Talk 
+155.04000 	WPTL617 	BM		W Perry Svcs 	West Perry Twp Services 	FM 	Multi-Talk 
+155.77500 	WYR563 	BM		WashTwp Svcs 	Washington Twp Services 	FM 	Multi-Talk 
+155.77500 	WYR563 	BM		PennTwp Svcs 	Penn Twp  Services 	FM 	Multi-Talk 
+155.89500 	WPDR203 	BM		Chapman Svcs 	Chapman Twp Services 	FM 	Multi-Talk 
+156.04500 	 	RM		Jackson Svcs 	Jackson Twp Services 	FM 	Multi-Talk 
+156.04500 	 	RM		MiddlecrkSvc 	Middlecreek Twp Services 	FM 	Multi-Talk 
+156.06000 	KD24673 	M		Monroe Svcs 	Monroe Twp Services (Highway Maintenance) 	FM 	Public Works 
+158.94000 	WPAL226 	BM		UnionTwpSvcs 	Union Twp Services 	FM 	Multi-Talk 
+159.09000 	WPDE462 	BM		PennTwp Svcs 	Penn Twp  Services 	FM 	Multi-Talk 
+Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	

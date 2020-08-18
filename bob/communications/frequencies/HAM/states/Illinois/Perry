@@ -1,0 +1,49 @@
+154.86000 	WPKU833 	RM	118.8 PL	PerrySheriff 	Sheriff: Dispatch [Ch 1]  	FMN 	Law Dispatch 
+453.62500 	WPRH418 	F	103.5 PL	Per911 RF 2 Law 	Law: Remote Link - Coulterville FX0 	FMN 	Law Dispatch 
+453.85000 	WPRH418 	F	136.5 PL	Per911 RF 3 	911 Remote Link - Pinckneyville FX0 	FMN 	Fire Dispatch 
+155.43000 	WPKU833 	BM	94.8 PL	DuQ Police 1 	Police: Dispatch 	FMN 	Law Dispatch 
+159.33000 	WPQJ331 	RM		Perry 911 	911: Future  	FMN 	Fire Dispatch 
+154.07000 	WPRS328 	RM		Per911 Fire2 	Fire: Local [Ch 2]  	FMN 	Fire-Tac 
+153.77000 	WPKJ493 	BM		Per911 Fire3 	911: Fire 	FMN 	Fire-Tac 
+154.74000 	WPMV707 	RM	85.4 PL	PerryCo ESDA 	ESDA: Operations/Storm Spotters 	FMN 	Emergency Ops 
+155.92500 	WPLS271 	B		DuQoin ESDA 	911: DuQuoin ESDA  	FMN 	Emergency Ops 
+151.38500 	WPLS721 	RM	85.4 PL	Perry 911 R 	911 [Former DuQ Police Dispatch] 	FMN 	Law Dispatch 
+154.13000 	WPKJ493 	BM	85.4 PL	DuQ FireMain 	911: DuQuoin Fire [Ch 1] 	FMN 	Fire Dispatch 
+154.22000 	WPNR261 	BM	85.4 PL	Wllsvl Fire 	Fire: Dispatch - Willisville  	FMN 	Fire Dispatch 
+154.35500 	WPRS328 	BM	107.2 PL	Pnknyvl Fire 	Fire: Dispatch - Pinckneyville 	FMN 	Fire Dispatch 
+453.42500 	WPRH418 	F		Per911 RF 1 	911 Remote Link - Pinckneyville FX2 	FMN 	Fire Dispatch 
+458.42500 	WPRH418 	F		Per911 RF 4 	911 Remote Link - Cutler FX1 	FMN 	Fire Dispatch 
+458.62500 	WPRH418 	F		Per911 RF 5 	911 Remote Link - Cutler FX0 	FMN 	Fire Dispatch 
+458.85000 	WPRH418 	F	CSQ	Per911 RF 6 	911 Remote Link - Tamaroa FX0 	FMN 	Fire Dispatch 
+155.40000 	WPRS328 	B	85.4 PL	PerryIL EMS 	911: EMS Paging [WPLT252] 	FMN 	EMS Dispatch 
+152.00750 	WPRS328 	B		PerI EMS PG 	911 / Hospital Paging [WPQJ78] 	Telm 	Data 
+151.05500 	KNBJ268 	RM	179.9 PL	PerI HD DuQ 	Highway Department  	FMN 	Public Works 
+151.10000 	KNCS20 	BM		PerI HD RD#4 	Highway - Road District #4 - Coulterville 	FMN 	Public Works 
+155.34000 	WQIQ943 	BM		MERCI1 	Patient Reports 	FMN 	Hospital 
+151.89500 	WPKR729 	BM		PCH Ops 1 	Operations 	FMN 	Business 
+155.34000 	KNBW727 	BM	100.0 PL	MERCI1 100.0 	Patient Reports 	FMN 	Hospital 
+159.24750 	WQSX587 	RM	032 DPL	DuQuoin Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.92500 	WPLX430 	BM		DuQ ESDA 1 	ESDA 	FMN 	Emergency Ops 
+45.12000 	WPPU988 	BM		DuQ ESDA 2 	ESDA 	FM 	Emergency Ops 
+45.32000 	WPPU988 	BM		DuQ ESDA 3 	ESDA 	FM 	Emergency Ops 
+154.13000 	WPJT870 	BM	85.4 PL	DuQ FireMain 	Fire: Main Operations [Ch 1] 	FMN 	Fire Dispatch 
+154.07000 	WPJT870 	BM		Per911 15407 	Fire: Local [Ch 2] 	FMN 	Fire-Tac 
+155.40000 	 	BM	85.4 PL	PerryIL EMS 	Ambulance Service "EMT's" 	FMN 	EMS Dispatch 
+155.11500 	WPVC493 	BM		DuQ PubWrks 	Public Works (may be 114.8 PL?) 	FMN 	Public Works 
+956.43750 	WQLK212 	F		DuQ MAS Data 	Multiple Address System - Data 	Telm 	Data 
+150.99500 	WQJN536 	M		Percy PD MX 	Police: Mobile Extenders (to Randolph Co Sheriff 154.785R/158.91) 	FMN 	Law Dispatch 
+159.10500 	WPJM707 	RM	131.8 PL	Pnck Police1 	Police: Dispatch (ARCH LZ) 	FMN 	Law Dispatch 
+155.55000 	WPJM707 	BM	131.8 PL	Pnck Police2 	Police: Alternate 	FMN 	Law Tac 
+154.35500 	KVP520 	BM	107.2 PL	Pnknyvl Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.07000 	KVP520 	BM	CSQ	CoalbeltFIre 	Fire; Local / Coalbelt [Ch 2] 	FMN 	Fire Dispatch 
+151.19750 	WQJJ579 	RM	627 DPL	Pincneyville EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.40000 	WQJJ579 	BM	85.4 PL	PerryIL EMS 	EMS: Dispatch (Pinckneyville Ambulance Service) 	FMN 	EMS Dispatch 
+155.83500 	KNAU404 	BM		Pnck Water 	Water Department 	FMN 	Public Works 
+173.28750 	WPEM327 	F		Pnck WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+154.07000 	WPKH463 	BM		Per911 15407 	Fire: Local [Ch 2] 	FMN 	Fire Dispatch 
+153.77000 	WPKH463 	BM		Per911 153.7 	Fireground 	FMN 	Fire-Tac 
+154.22000 	WNSB375 	BM	85.4 PL	Wllsvl Fire 	Fire (DB: County 911) 	FMN 	Fire Dispatch 
+157.68000 	WPJK796 	BM		WEECDC Buses 	Buses (Tamaroa; Steeleville, Sparta-Randolph) 	FMN 	Schools 
+122.80000 	WQMI658 	BM	CSQ	PJY UNICOM 	UNICOM 	AM 	Aircraft 
+125.30000 	 	BM	CSQ	Marion RCAG 	Approach/Departure (Kansas City) 	AM 	Aircraft 
+Egyptian Electric Cooperative (S IL)	 DMR Conventional Networked	 Steeleville	

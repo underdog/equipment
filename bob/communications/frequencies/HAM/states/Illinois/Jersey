@@ -1,0 +1,36 @@
+156.21750 	WNPF660 	RM	218.1 PL	JerseySheriff FM 	Sheriff: Dispatch 	FM 	Law Dispatch 
+156.21750 	WNPF660 	RM	218.1 PL	JerseySheriff NB 	Sheriff: Dispatch 	FMN 	Multi-Dispatch 
+934.83750 	WQBM731 	F	CSQ	Jers Sheriff MW1 	Link: Jerseyville to Grafton (Carrier) 	FMN 	Multi-Dispatch 
+943.83750 	WQBM730 	F	CSQ	Jers Sheriff MW2 	Link: Grafton to Jerseyville (Carrier) 	FMN 	Multi-Dispatch 
+173.22500 	 	F	CSQ	JerseySheriff MX 	Sheriff: Mobile Extender 	FMN 	Law Dispatch 
+159.47250 	WNPF660 	M		Jers Sheriff MX  	Sheriff: Mobile Extenders 	FMN 	Law Tac 
+155.88750 	WQND451 	RM		Jers SheriffJail 	Sheriff: Jail Operations 	FMN 	Corrections 
+155.80500 	WNPF660 	RM	179.9 PL	Jersey**Fire/EMS 	911 Fire / EMS: Tone-outs / Dispatch 	FM 	Law Dispatch 
+155.80500 	WNPF660 	RM	179.9 PL	Jersey Fire/EMS 	911 Fire / EMS: Tone-outs / Dispatch 	FMN 	Fire Dispatch 
+458.78750 	WQAA720 	F	754 DPL	Brighton Fire TX 	*Remote Tx Link from Jersey/Mac911 to Brighton Rptr 	FMN 	Fire Dispatch 
+453.78750 	WQAA720 	F	754 DPL	Brighton Fire RX 	*Brighton Rptr Rx Link to Jersey/Mac911 	FMN 	Fire Dispatch 
+159.70500 	WQAB847 	BM		JCRWS Ops 	Operations / Data 	FMN 	Public Works 
+956.41875 	WPOT767 	F		JCRWS WDD3 	Mobile Meter Reading (MAS) (CSQ) 	Telm 	Data 
+152.42750 	WQKD685 	RM	114 DPL	JCH EMS/Ops 	EMS: Tone-Outs / Dispatch / Reports 	FMN 	EMS Dispatch 
+155.22000 	WPLZ993 	BM	114.8 PL	JCH EMS Net 	(former) Patient Reports 	FMN 	Hospital 
+155.34000 	 	B	114.8 PL	MERCI1 114.8 	Patient Reports (Rare use) 	FMN 	Hospital 
+153.96500 	KD49608 	M		Grafton PD Tac2  	Police: Tac  	FMN 	Law Tac 
+154.47125 	WQLI590 	F		Grafton WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+155.77500 	KNIS253 	RM	125 DPL	Jerseyville PD 1 	Police: Dispatch (Securenet Available) 	FMN 	Law Dispatch 
+155.43000 	KTT874 	BM	179.9 PL	Jerseyville PD 2 	Police: Old  	FMN 	Law Tac 
+155.80500 	KTT873 	BM	179.9 PL	Jersey Co Fire 	Fire: Paging (Simplex Base) 	FMN 	Fire Dispatch 
+173.39000 	WPCR913 	F		Jerseyville WDD  	Water Treatment Data (CSQ) 	Telm 	Data 
+151.31000 	WPJM817 	RM	88.5 PL	QEM Fire/Rescue 	Fire: Dispatch / Fireground (DB: Jersey Co 911/Sheriff) 	FMN 	Fire Dispatch 
+160.15500 	WPJM817 	M		QEM Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+453.16250 	WPWJ228 	RM	115 DPL	Jersey Schools A 	Admin / Security / Buses  	FMN 	Schools 
+453.16250 	WPWJ228 	M	423 DPL	Jersey Schools B 	High School: Admin  	FMN 	Schools 
+464.00000 	WPLE233 	RM	134 DPL	Principia FT  	Security / Maintenance (Farm Tower) 	FMN 	Schools 
+462.16250 	WPLE233 	RM		Principia HC1  	Security / Maintenance (Howard Center) 	FMN 	Schools 
+463.27500 	WPLE233 	RM		Principia HC2  	Security / Maintenance (Howard Center) 	FMN 	Schools 
+461.51250 	WPLE233 	RM	203.5 PL	Principia MB1  	Security / Maintenance (Joseph McNabb Bldg) 	FMN 	Schools 
+463.78750 	WPLE233 	RM		Principia MB2  	Security / Maintenance (Joseph McNabb Bldg) 	FMN 	Schools 
+464.38750 	WPLE233 	RM		Principia MB3  	Security / Maintenance (Joseph McNabb Bldg) 	FMN 	Schools 
+462.48750 	WQFP953 	RM		Principia SM7  	Security / Admin 	FMN 	Schools 
+462.51250 	WQFP953 	RM		Principia SM8  	Maintenance / Admin  	FMN 	Schools 
+462.80000 	WQBD845 	B		Principia Paging 	Paging Security / Admin [Expired 9/14] 	Telm 	Data 
+CK Communications / MJM Electric Cooperative (DMR)	 DMR Conventional Networked	 Carlinville	Illinois Rural Electric Cooperative	 NXDN NEXEDGE 4800	 Winchester	

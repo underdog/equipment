@@ -1,0 +1,32 @@
+154.86000 	WRBP788 	RM	107.2 PL	Wash Sheriff 1  	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+155.55000 	WPWR986 	RM	162.2 PL	Wash Sheriff 2  	Sheriff: Rural Law Dispatch [Ch 2] 	FMN 	Law Dispatch 
+154.07000 	WPWR986 	RM	151.4 PL	Wash Co Fire  	Fire: ??? 	FMN 	Fire Dispatch 
+154.07000 	WPWR986 	RM	162.2 PL	Wash Co EMA  	Emergency Management 	FMN 	Multi-Dispatch 
+154.35500 	WPWR986 	BM	141.3 PL	WashCo FireMain  	Fire/EMS: Main 	FMN 	Fire-Tac 
+154.41500 	WPWR986 	B	162.2 PL	Wash Fire/EMS 1  	Fire/EMS: Dispatch 	FMN 	EMS Dispatch 
+155.10000 	WPWR986 	BM	151.4 PL	Wash Co EMS 2  	EMS: Main/Dispatch  	FMN 	EMS Dispatch 
+453.12500 	WQDP518 	RM		Wash Co AVL*D  	AVL Data 	Telm 	Data 
+154.86000 	 	RM	CC 0TG 9003SL *	Wash Co EMS DMR 	EMS: Dispatch / Ops (CC is not verified) 	DMR 	EMS Dispatch 
+156.22500 	WPVA678 	RM	192.8 PL	Wash Roads/Brdg  	Roads and Bridges [Ch 1] 	FMN 	Public Works 
+155.81250 	 	RM		Wash Roads  	County Road District (Potosi) 	FMN 	Public Works 
+155.16000 	KJH2261 	BM	162.2 PL	WashCo EMS2 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.16000 	KSX325 	BM	123.0 PL	WashCo EMS3 	EMS: Dispatch 	FMN 	EMS Dispatch 
+463.11250 	KJH261 	M		WashCo EMS4 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+155.16000 	KJH261 	BM	162.2 PL	WCMH EMS-V 	EMS 	FMN 	EMS Dispatch 
+463.11250 	KJH261 	M		WCMH EMS-U 	EMS 	FMN 	EMS-Tac 
+155.34000 	KJH261 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+154.35500 	WNYM688 	RM		Belgrade Fire  	Fire 	FMN 	Fire Dispatch 
+155.92500 	WNYU763 	BM		Bunker Local 	City Operations 	FMN 	Public Works 
+158.82000 	WPNV249 	BM		Irondale DPW 	Water / Sewer / Street 	FMN 	Public Works 
+155.55000 	KGP719 	BM	141.3 PL	Potosi Police  	Police: Dispatch 	FMN 	Law Dispatch 
+154.41500 	 	BM		Potosi Fire1 	Fire 	FMN 	Fire-Tac 
+154.38500 	KYS994 	RM		Potosi Fire2 	Fireground 	FMN 	Fire Dispatch 
+150.79000 	 	M		Potosi Fire3 	Fireground 	FMN 	Fire-Tac 
+155.74500 	KNFX411 	RM		Potosi Village  	Village Operations (127.3 ?) 	FMN 	Public Works 
+451.02500 	WPPZ703 	F		Potosi WDD 	Water Distribution Data  	Telm 	Data 
+154.96500 	KNNJ978 	BM		Potosi HsAuth  	Potosi Housing Authority [Expired] 	FMN 	Public Works 
+154.41500 	WPJL526 	BM		Richwds Fire 	Fire 	FMN 	Fire-Tac 
+155.23500 	WNIN582 	BM		KngstnSchBus 	Buses 	FMN 	Schools 
+155.17500 	WNWA273 	BM		SD7 Buses 	Buses 	FMN 	Schools 
+154.11500 	WNMG226 	BM	136.5 PL	Potosi CC 	Potosi Correctional Center 	FMN 	Law Tac 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Crawford County Electric Coop (MO)	 DMR Conventional Networked	 Bourbon	

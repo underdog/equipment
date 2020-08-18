@@ -1,0 +1,50 @@
+855.61250 	WPAJ434 	RM	127.3 PL	N Repeater 	North Repeater 	FMN 	Interop 
+855.61250 	WPAJ434 	RM	114.8 PL	C Repeater 	Central Repeater 	FMN 	Interop 
+854.28750 	WQNV668 	RM	103.5 PL	W Reptr 	West Repeater 	FMN 	Interop 
+854.28750 	WPAJ434 	RM	114.8 PL	S Reptr 	South Repeater 	FMN 	Interop 
+854.28750 	WPAJ434 	M	CSQ	T/A 1 	Talkaround 1 	FMN 	Interop 
+855.61250 	WPAJ434 	M	CSQ	T/A 2 	Talkaround 2 	FMN 	Interop 
+155.17500 	WPCI702 	BM	107.2 PL	SomCo ES Page 	County Fire/EMS Paging 	FM 	Fire Dispatch 
+460.21250 	WQQA573 	M	043 DPL	SoCoHazmat1 	Hazmat Operations 1 	FMN 	Emergency Ops 
+460.38750 	WQQA573 	M	043 DPL	SoCoHazmat2 	Hazmat Operations 2 	FMN 	Emergency Ops 
+458.63750 	KD34400 	M	186.2 PL	R13 Hazmat 1 	Region 13 Hazmat Ops 1 	FMN 	Emergency Ops 
+458.53750 	KD34400 	M	186.2 PL	R13 Hazmat 2 	Region 13 Hazmat Ops 2 	FMN 	Emergency Ops 
+33.16000 	 	BM	CSQ	NewCtr PVT 	New Centerville Station 622 	FM 	Fire-Tac 
+154.37000 	KGD848 	BM	88.5 PL	Windber Fire 	Windber Fire Co 1 	FM 	Fire-Tac 
+460.58750 	KNIQ288 	RM		SVFD 	Somerset VFD  	FM 	Fire-Talk 
+155.34000 	WPCI702 	BM	107.2 PL	SomCo EMS 2 	EMS Ops / Helicopter Comms 	FM 	EMS-Tac 
+155.38500 	WPCI702 	BM	107.2 PL	SomCo EMS 3 	Hospital Call-In (Meyersdale and Windber Hospitals) 	FM 	EMS-Talk 
+155.38500 	WPCI702 	BM	88.5 PL	SomCo EMS 3 	Hospital Call-In (Somerset Hospital) 	FM 	EMS-Talk 
+451.32500 	WQFB309 	RM	466 DPL	SomersetHosp 	Somerset Hospital - Internal Communications 	FM 	Hospital 
+464.35000 	WNNK515 	RM	506 DPL	SomersetHosp 	Somerset Hospital 	FM 	Hospital 
+153.75500 	WNWK429 	M	162.2 PL	SomCo Jail 	County Jail 	FM 	Corrections 
+155.95500 	WNMX693 	BM	88.5 PL	SomCo MutAid 	Mutual Aid  (EMA, SAR, PSP contact) 	FM 	Interop 
+155.95500 	WNMX693 	BM	88.5 PL	SCEMA/SAR 	County Emergency Management / Search & Rescue 	FM 	Emergency Ops 
+453.32500 	WNMK748 	RM	047 DPL	SomCo Transp 	County Transportation (Vans for disabled) 	FM 	Transportation 
+39.90000 	WNNQ379 	BM	162.2 PL	Jefferson PW 	Jefferson Township - Road Maintanence 	FM 	Public Works 
+154.04000 	KNGZ898 	RM	167.9 PL	Somer Bor PW 	Somerset Borough - Street and water dept 	FM 	Public Works 
+33.06000 	WNHT911 	BM	131.8 PL	Somer Twp PW 	Somerset Township - Road Maintenance 	FM 	Public Works 
+122.80000 	 	BM		Smrst Unicom 	Unicom 	AM 	Aircraft 
+133.80000 	 	BM		Smrst ATIS 	Automated Weather 	AM 	Aircraft 
+33.08000 	WQBD624 	BM	127.3 PL	Vetinary Svc 	Animal veterinary service 	FM 	Business 
+152.97500 	WQJI757 	RM	132 DPL	HiddenValley 	Hidden Valley Resort 	FM 	Business 
+461.82500 	WNUN891 	RM	127.3 PL	Somerset SD 	Somerset Area School District 	FM 	Schools 
+463.87500 	WPNW394 	RM	167.9 PL	7S Hskp/Mnt  	Seven Springs Ski Resort - Housekeeping & Maintenance 	FMN 	Business 
+460.43750 	WPTW292 	RM	136.5 PL	7S Security 	Seven Springs Ski Resort - Security 	FMN 	Security 
+452.15000 	WPNW394 	RM	186.2 PL	7S Shuttles  	Seven Springs Ski Resort - Shuttle & Parking Services 	FMN 	Business 
+463.32500 	WPNW394 	RM	167.9 PL	7S Ski Patrl 	Seven Springs Ski Resort - Ski Patrol 	FMN 	Business 
+461.97500 	WPNW394 	RM	103.5 PL	7S Slope Mnt 	Seven Springs Ski Resort - Grounds / Slope Maintenance 	FMN 	Business 
+463.40000 	WPNW394 	RM	167.9 PL	7Spr Maint 	Seven Springs Ski Resort - Maintenance 	FMN 	Business 
+151.80500 	WPNW394 	BM		7Spring Fire 	Seven Springs Ski Resort - Fire Pagers (Internal) 	FMN 	Fire Dispatch 
+152.97500 	 	RM	132 DPL	HV Ops 	Hidden Valley Ski Resort Operations 	FMN 	Business 
+464.36250 	WQVB261 	RM	141.3 PL	HV Ops 	Hidden Valley Operations 	FMN 	Business 
+464.36250 	WQVB261 	RM	151.4 PL	HV Shuttle a 	Hidden Valley Shuttle and Parking 	FMN 	Business 
+464.36250 	WQVB261 	RM	114.8 PL	HV Ski Ptrl/Lift 	Hidden Valley Ski Patrol and Lift Ops 	FMN 	Business 
+464.36250 	WQVB261 	RM	131.8 PL	HV Ski Schoo 	Hidden Valley Ski School 	FMN 	Business 
+464.36250 	WQVB261 	RM	123.0 PL	HV Slope Maint 	Hidden Valley Slope Maintenance 	FMN 	Security 
+464.61250 	WQVB261  	RM	71.9 PL	Laurel Maint 	Laurel Mountain Maintenance/Lifts 	FMN 	Business 
+464.61250 	WQVB261  	RM	179.9 PL	Laurel Ops 	Laurel Mountain Operations 	FMN 	Business 
+464.61250 	WQVB261  	RM	114.8 PL	Laurel Patrol 	Laurel Mountain Ski Patrol/Ski School 	FMN 	Business 
+451.16250 	WPOZ869 	RM		Columbia Gas 	Columbia Gas of Pennsylvania 	P25 	Utilities 
+Garrett County	 LTR Standard	 Oakland	ICORRS (Inter County Regional Radio System)	 Project 25 Phase II	 Multiple	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)
+ Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	

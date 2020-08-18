@@ -1,0 +1,55 @@
+156.06000 	KNDX336 	RM	600 NAC	Pettis Sheriff  	Sheriff: Dispatch  	P25 	Law Dispatch 
+159.15000 	KNDX336 	M	CSQ	Pettis Shrfc2c2 	Sheriff: Car-to-Car 2 	FMN 	Law Tac 
+153.93500 	 	M	CSQ	Pet Shrf Exp 	Sheriff: Explorer Post [NO LICENSE] 	FMN 	Law Tac 
+155.08500 	WRE510 	BM		Pettis Courthse 	Courthouse 	FMN 	Law Tac 
+155.83500 	KNDX336 	RM	141.3 PL	Pet Loc Govt 	Sheriff: Local Government / Fire: Dispatch 	FMN 	Multi-Dispatch 
+154.10000 	WNKN466 	RM		Pettis EMA DMR 	Emergency Management (in use) 	DMR 	Emergency Ops 
+154.10000 	WNKN466 	RM	731 DPL	Pettis EMA 	Emergency Management  	FMN 	Emergency Ops 
+158.89500 	WNKN466 	M	331 DPL	Pettis EMA-2 	Emergency Management: Tac 2 (was 85.4) 	FMN 	Emergency Ops 
+154.31000 	WNXN457 	RM	100.0 PL	Pettis Fire 	Pettis County Fire Protection District #1 	FMN 	Fire Dispatch 
+154.72500 	KNBY559 	BM		Pettis SWCD 	Pettis County Soil and Water Conservation District 	FMN 	Public Works 
+173.31250 	WQGQ389 	F		Pettis PWSD#1 	PWWSD#1: Water Data 	Telm 	Data 
+156.24000 	KNGE717 	BM		Pettis Highway  	Highway Department 	FMN 	Public Works 
+154.31000 	WNXN457 	RM	315 DPL	Pettis Fire 	Fire: Dispatch (Sedalia) [D263 in] 	FMN 	Fire Dispatch 
+159.00750 	WNXN457 	M		Pettis FDFG1 	Fireground 	FMN 	Fire-Tac 
+159.06750 	WNXN457 	M		Pettis FDFG2 	Fireground 	FMN 	Fire-Tac 
+453.51250 	WNXN457 	F		Pettis Fire RF 	Fire: Remote Links  	FMN 	Fire-Tac 
+151.37750 	WQRK829 	RM		PettisCo EMS 	EMS: Dispatch (in use) 	DMR 	EMS Dispatch 
+151.37750 	WQRK829 	RM	431 DPL	PettisCo*EMS 	EMS: Operations (Back-up) 	FMN 	EMS Dispatch 
+151.49750 	WQRK829 	RM		Pettis EMS  	EMS 	FMN 	EMS Dispatch 
+155.69250 	KAG246 	RM		BRHC Ops 	Operations 	FMN 	Business 
+155.34000 	KAG246 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+163.25000 	KAG246 	B		BRHC Paging 	Paging 	Telm 	Data 
+154.07000 	WPKP984 	M		Hughesville FG  	Fireground 	FMN 	Fire Dispatch 
+154.13000 	WNKX224 	BM		LakeCreek FG 	Fireground 	FMN 	Fire Dispatch 
+154.78500 	WSQ978 	RM	293 NAC	Sedalia Police 	Police: Dispatch [TG 1; Dispatch clear] 	P25e 	Law Dispatch 
+154.95000 	WSQ978 	M	1C7 NAC	Sed Police Tac 1 	Police: Car-to-Car 	P25 	Law Tac 
+154.89000 	WSQ978 	M	1C7 NAC	Sed Police Tac 2 	Police: Car-to-Car 	P25 	Law Tac 
+153.84500 	WSQ978 	M		Sed Police Tac 3 	Police: Car-to-Car 	FMN 	Law Tac 
+156.15000 	WSQ978 	M		Sed Police Tac 4 	Police: Car-to-Car 	FMN 	Law Tac 
+158.86500 	WSQ978 	M	1CF NAC	Sed Police Tac 5 	Police: Car-to-Car 	P25 	Law Tac 
+158.92500 	WSQ978 	M		Sed Police Tac 6 	Police: Car-to-Car 	FMN 	Law Tac 
+151.20500 	WPXQ840 	RM	146.2 PL	Sedalia Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+159.33000 	 	M		Sedalia Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+154.44500 	KNCL524 	BM	146.2 PL	Sedalia Firegrnd 	Fireground 	FMN 	Fire-Tac 
+155.04000 	WPXE750 	RM	77.0 PL	Sedalia Trash 	Trash Hauiling 	FMN 	Public Works 
+153.68000 	KAO559 	RM		Sedalia Water 	Water Department (input ?) 	FMN 	Public Works 
+173.25000 	KG9432 	F		Sedalia WDD 1 	Water Data (CSQ) 	Telm 	Data 
+173.39000 	WPZH892 	F		Sedalia WDD 2 	Water Data (CSQ) 	Telm 	Data 
+453.11250 	WQGM712 	M		Sedalia ParkRec1 	Parks and Recreation 	FMN 	Public Works 
+458.11250 	WQGM712 	M		Sedalia ParkRec2 	Parks and Recreation 	FMN 	Public Works 
+453.75000 	WQFZ976 	RM		Sedalia Convntn 	Convention Hall 	FMN 	Public Works 
+155.17500 	WPTB404 	BM		FS Buses 1 	First Student Buses (also at Booneville-Pettis) 	FMN 	Schools 
+155.28000 	KNCB591 	BM		FS Buses 2 	First Student Buses  	FMN 	Schools 
+155.23500 	WNWJ974 	BM		LaMont Sch Bus 	Buses 	FMN 	Schools 
+155.26500 	WNSS751 	BM		PettisR5 Bus 	Buses 	FMN 	Schools 
+153.01250 	WQQN756 	RM	114 DPL	FirstStudent Sed 	First Student Buses 	FMN 	Schools 
+152.27000 	WPZZ785 	RM		Sedalia School 1 	Operations 	FMN 	Schools 
+151.65500 	WPZZ785 	M		Sedalia School 2 	Operations 	FMN 	Schools 
+151.71500 	WPZZ785 	M		Sedalia School 3 	Operations 	FMN 	Schools 
+151.83500 	WPZZ785 	M		Sedalia School 4 	Operations 	FMN 	Schools 
+151.92500 	WPZZ785 	M		Sedalia School 5 	Operations 	FMN 	Schools 
+151.95500 	WPZZ785 	M		Sedalia School 6 	Operations 	FMN 	Schools 
+159.78000 	WPZZ785 	M		Sedalia School 7 	Operations 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Central Communications Service Company	 LTR Standard	 Dayton	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)
+ Various	Nucor Steel - Sedalia MO	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sedalia	

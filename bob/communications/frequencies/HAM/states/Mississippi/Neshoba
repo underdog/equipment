@@ -1,0 +1,38 @@
+155.76000 	WNWP373 	RM	CC 1TG 1500011SL 1	NCSO-DISP D 	Sheriff - Dispatch Digital 	DMR 	Law Dispatch 
+155.76000 	WNWP373 	RM	023 DPL	NCSO-DISP A 	Sheriff - Dispatch Analog 	FMN 	Law Dispatch 
+155.88000 	WNWP373 	RM	023 DPL	NCSO-OPS A 	Sheriff - Operations Analog 	FMN 	Law Tac 
+155.88000 	WNWP373 	RM		NCSO-OPS D 	Sheriff - Operations Digital 	DMR 	Law Tac 
+155.89500 	WNWP373 	BM		NCSO-ADMIN D 	Sheriff - Administrative Digital 	DMR 	Law Talk 
+155.98500 	WNWP373 	BM		NCSO-ADMIN A 	Sheriff - Administrative Analog 	FMN 	Law Talk 
+158.79000 	WNWP373 	RM	023 DPL	NCSO-TAC A 	Sheriff - Tactical Analog 	FMN 	Law Tac 
+158.79000 	WNWP373 	RM		NCSO-TAC D 	Sheriff - Tactical Digital 	DMR 	Law Tac 
+154.04000 	WNWP373 	RM	CC 1TG 1500010SL 1	NESHOBA FD 1 	Neshoba County Fire 1 	DMR 	Fire Dispatch 
+154.04000 	WNWP373 	RM	CC 1TG 1500012SL 2	NESHOBA FD 2 	Neshoba County Fire 2 	DMR 	Fire-Talk 
+154.04000 	WNWP373 	RM		NCEMA-A 	Emergency Management Agency/Fire - Analog 	FMN 	Emergency Ops 
+155.88000 	WNWP373 	RM	CC 7TG 1500014SL 1	NESHOBA EMS 	Neshoba EMS - Dispatch 	DMR 	EMS Dispatch 
+155.16000 	WPNT451 	BM		NESHOBA EMS 	EMS (Neshoba County Hospital) 	FMN 	EMS-Talk 
+151.49750 	WQKE618 	RM		Philly PD N 	Police New 	FMN 	Law Tac 
+155.68500 	WPKL476 	RM		PHILLY PD 1D 	Police - Primary Digital 	DMR 	Law Dispatch 
+155.68500 	WPKL476 	RM	100.0 PL	PHILLY PD 1A 	Police - Primary Analog 	FMN 	Law Dispatch 
+154.40000 	WNYJ347 	RM		Philly FD 1 	Fire - Analog 	FMN 	Fire Dispatch 
+154.31000 	WNYJ347 	BM		Philly FD 2 	Fire - Analog 	FMN 	Fire-Tac 
+151.49750 	WQKE618 	RM	CC 1TG *SL 1	PHILLY FD 1 	Philadelphia Fire 1 	DMR 	Fire-Tac 
+154.40000 	WNYJ347 	RM	CC 1TG *SL 1	Philly FD 2 	Philadelphia Fire 2 	DMR 	Fire-Tac 
+155.94000 	KNHW290 	BM	85.4 PL	Philly Util 	Utilities 	FMN 	Utilities 
+453.06250 	WPYX823 	F		Philly WXDat 	EOC Weather Observation Station 	FMN 	Data 
+155.32500 	WPVT249 	RM	192.8 PL	MBCI-EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.43750 	WPPB843 	RM	131.8 PL	MBCI PD 1 	Tribal Police Dispatch 	FMN 	Law Dispatch 
+154.79250 	WPPB843 	RM		MBCI PD 2 	Tribal Police Operations 	FMN 	Law Tac 
+45.46000 	WPPB843 	BM		MBCI PD Low 	Tribal Police Old City Net 	FM 	Interop 
+453.42500 	WQAP402 	RM	250.3 PL	MBCI Jail 	Tribal Detention Center 	FMN 	Corrections 
+154.25000 	WPLG367 	RM	241.8 PL	MBCI FD 1 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.17500 	WPUR783 	RM		MBCI FD 2 	Fire/EMS Tactical 	FMN 	Fire-Tac 
+155.04750 	WPPY387 	RM		MBCI Sec 	Tribal Administration Security 	FMN 	Security 
+453.88750 	WPQE781 	M	023 DPL	MBCI DPW 1 	Public Works 	FMN 	Public Works 
+458.88750 	WPQE781 	M	023 DPL	MBCI DPW 2 	Public Works 	FMN 	Public Works 
+155.81250 	WQKG504 	F		MBCI-SIREN 1 	Emergency Management Warning Sirens 1 	FMN 	Emergency Ops 
+151.24250 	WQKG504 	F		MBCI-SIREN 2 	Emergency Management Warning Sirens 2 	FMN 	Emergency Ops 
+155.84250 	WPWC499 	RM		MBCI Sch Bus 	School Buses 	FMN 	Schools 
+155.96250 	WPQI684 	RM	79.7 PL	MBCI Trans 	Tribal Special Transportation 	FMN 	Transportation 
+Entergy 	 Project 25 Phase II	 Various	Mississippi Wireless Integrated Network (MSWIN)	 Project 25 Phase II	 Jackson	Teletec Communications (Philadelphia)	 LTR Standard
+ Philadelphia	

@@ -1,0 +1,66 @@
+160.54500 	WNPZ854 	RM	131.8 PL	PCSO West 	Dispatch West (Simulcast with CIRN PCSO W Disp) 	FM 	Law Dispatch 
+161.50500 	WNPZ854 	RM	136.5 PL	PCSO East 	Dispatch East 	FM 	Law Dispatch 
+160.66500 	WNVZ343 	BM	136.5 PL	PCSO Adm East 	Admin East 	FM 	Law Talk 
+160.66500 	WNVZ343 	M		PCSO Courts 	Court Services (various DCS tones) 	FMN 	Law Tac 
+155.19000 	KNJZ354 	RM	167.9 PL	PCSO Jail 	Jail (Auburn) 	FMN 	Corrections 
+154.35500 	KJR202 	RM	107.2 PL	PlacerCo FD DISP 	Fire Dispatch (West) 	FMN 	Fire Dispatch 
+156.24000 	WPIS457 	RM	110.9 PL	PlacerCo FD CMD 	Fire Command 	FMN 	Fire-Talk 
+154.17500 	KTS763 	RM	118.8 PL	PlacerCo FD T1 	Fire Tac 1 [146.2 PL Input] 	FMN 	Fire-Tac 
+155.02500 	WQHC490 	RM	107.2 PL	PlacerCo FD T2 	Fire Tac 2 	FMN 	Fire-Tac 
+154.01000 	WPMB620 	M	107.2 PL	PlacerCo FD T3 	Fire Tac 3 	FMN 	Fire-Tac 
+158.80500 	WNEB547 	M	162.2 PL	PlacerCo FD T4 	Fire Tac 4 	FMN 	Fire-Tac 
+154.23500 	WPDB675 	M	107.2 PL	PlacerCo FD T5 	Fire Tac 5 	FMN 	Fire-Tac 
+155.40000 	WNQN942 	M	146.2 PL	PlacerCo FD T6 	Fire Tac 6 	FMN 	Fire-Tac 
+154.13000 	WPNP952 	M	146.2 PL	PlacerCo FD T7 	Fire Tac 7 	FMN 	Fire-Tac 
+154.07000 	WPGB795 	M	123.0 PL	PlacerCo FD T8 	Fire Tac 8 	FMN 	Fire-Tac 
+153.89000 	WPGB795 	M	107.2 PL	PlacerCo FD T9 	Fire Tac 9 	FMN 	Fire-Tac 
+154.20500 	WPGB795 	M	146.2 PL	PlacerCo FD T10 	Fire Tac 10 	FMN 	Fire-Tac 
+154.40000 	WPMF967 	RM	94.8 PL	PlacerCo S J-TAC 	Joint Powers Authority Tac (Truckee/Tahoe) 	FMN 	Fire-Tac 
+154.41500 	WPPC477 	RM	103.5 PL	N Tahoe FD Tac 6 	North Tahoe Fire District Tac 6 	FMN 	Fire-Talk 
+152.32250 	WQII599 	RM	131.8 PL	AMR Placer 	AMR Placer County Primary Operations 	FMN 	EMS Dispatch 
+463.07500 	 	RM	186.2 PL	PLACER CO MED4 	Sutter Roseville Reports 	FMN 	Hospital 
+155.16000 	KB25082 	M	156.7 PL	Placer SAR Simp 	Ch 4 - SAR Simplex 	FMN 	Multi-Tac 
+155.16000 	KB25082 	RM	CSQ	Placer SAR RPT 	Ch 5 thru 12 - SAR Repeaters 	FMN 	Multi-Talk 
+154.60000 	 	M	156.7 PL	Placer SAR Trng 	Training (MURS 5) 	FM 	Multi-Talk 
+146.74500 	 	RM	CSQ	Placer SAR Forst 	Ch 15 - Foresthill 	FM 	Ham 
+146.64000 	W6SAR 	RM	CSQ	Placer SAR Donnr 	Ch 16 - Nordic SAR - Donner Peak [131.8 CT Input] 	FM 	Ham 
+39.98000 	WYZ320 	RM	127.3 PL	PlacerCo Roads E 	Roads - Tahoe/East County 	FM 	Public Works 
+39.68000 	WPLX450 	RM	131.8 PL	PlacerCo AC 	Animal Control  - Tahoe 	FM 	Public Works 
+155.01000 	WPLX450 	M		PlacerCo AC Ext 	Animal Control - Tahoe Extenders 	FMN 	Public Works 
+453.42500 	WQY273 	RM	167.9 PL	TART Buses 	Tahoe Area Regional Transit - North Shore 	FMN 	Transportation 
+154.65000 	WPRG521 	RM	107.2 PL	Auburn PD1 	Police Dispatch 	FMN 	Law Dispatch 
+153.81500 	WPNQ932 	RM	91.5 PL	Auburn PD2 	Police Channel 2/Public Works 	FMN 	Multi-Tac 
+156.09000 	KWV772 	RM	466 DPL	Lincoln PD 	Police Dispatch 	FMN 	Law Dispatch 
+155.02500 	 	RM	107.2 PL	Lincoln PD3 	Police Tac 3 (Shared as Placer Co Fire Tac 2) 	FMN 	Law Tac 
+151.01000 	KDT354 	RM	151.4 PL	Lincoln FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+156.03000 	WDB324 	RM	107.2 PL	Rocklin PD1 	Police Dispatch 	FMN 	Law Dispatch 
+154.62500 	 		107.2 PL	Rocklin PD3 	Police Tactical (patched on Roseville TRS as needed) 	FMN 	Law Tac 
+155.62500 	WDB324 	M		Rocklin PD4 	Police Tactical 	FMN 	Law Tac 
+155.11500 	WNWF721 	BM	103.5 PL	Rocklin PD6 	Police Tac/Public Works 	FMN 	Multi-Tac 
+154.14500 	WPBE306 	RM	162.2 PL	Rocklin FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.04000 	WNEB547 	RM	107.2 PL	Roseville FD1 	Fire Dispatch VHF 	FMN 	Fire Dispatch 
+152.88500 	WPYM805 	RM	151.4 PL	Sutter AF Ops 	Operations 	FMN 	Business 
+464.32500 	 	RM	100.0 PL	KP Rosevle Ops 	Operations 	FMN 	Business 
+463.25000 	WPHQ242 	RM	CC 7TG 6601SL 1	KP Rosevle Sec 	Security 	DMR 	Security 
+153.23000 	WPPD328 	RM	67.0 PL	EUSD 	District Ops 	FM 	Schools 
+463.28750 	WQFG894 	RM		FUSD 	District Ops 	FM 	Schools 
+155.20500 	KKR562 	RM	162 DPL	MPUSD  	District Ops 	FM 	Schools 
+47.54000 	KNDD628 	BM		PUHSD Buses 	Buses 	FM 	Schools 
+452.97500 	WQGW537 	RM	026 DPL	RUSD 	District Ops 	FM 	Schools 
+452.62500 	WQGW537 	RM	025 DPL	RUSD Bus 	Transportation Department (School Buses) 	FMN 	Schools 
+852.42500 	WPIE754 	RM	CC 1TG 1SL 1	SC PD 	Police Dispatch 	DMR 	Law Dispatch 
+151.55000 	WPPE397 	RM	192.8 PL	TTUSD BUS 	Buses 	FM 	Schools 
+159.60000 	WPRZ842 	BM	67.0 PL	WPUSD Buses 	Distirct Buses/Transportation 	FMN 	Schools 
+151.83500 	WPRZ842 	BM	192.8 PL	WPUSD LHS 	Lincoln High 	FMN 	Schools 
+159.99000 	WPRZ842 	BM	94.8 PL	WPUSD GEMS 	Glen Edwards Middle 	FMN 	Schools 
+159.70500 	WPRZ842 	BM	173.8 PL	WPUSD TBMS 	Twelve Bridges Middle 	FMN 	Schools 
+151.95500 	WPRZ842 	BM	141.3 PL	WPUSD COE 	Creekside Oaks Elementary 	FMN 	Schools 
+154.54000 	WPRZ842 	BM	131.8 PL	WPUSD FRES 	Foskett Ranch Elementary 	FMN 	Schools 
+159.85500 	WPRZ842 	BM	94.8 PL	WPUSD LCES 	Lincoln Crossing Elementary 	FMN 	Schools 
+158.34000 	WPRZ842 	BM	91.5 PL	WPUSD FSES 	First Street Elementary 	FMN 	Schools 
+California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	NEC Roseville	 LTR Standard	 Roseville	Nevada Shared Radio System	 EDACS Networked Standard
+ Various	Northstar at Tahoe	 LTR Passport	 Truckee	Northstar at Tahoe (Village)	 LTR Passport	 Truckee	Pacific Gas and Electric (PG&E)
+ MPT-1327 Standard	 Various	Placer Countywide Interoperable Radio Network (CIRN)	 Project 25 Phase I	 Auburn	Roseville	 Project 25 Phase I	 Roseville
+Sierra Electronics	 LTR Standard	 Truckee	Silke Communications	 NXDN NEXEDGE 4800	 Northern California	SMR Tadlock and Associates	 LTR Standard
+ Sacramento	Squaw Valley Resort	 DMR Motorola Capacity Plus Single Site (TRBO)	 Squaw Valley	Thunder Valley Casino	 DMR Motorola Connect Plus (TRBO)	 Lincoln	Truckee Communications
+ LTR Standard	 Truckee	

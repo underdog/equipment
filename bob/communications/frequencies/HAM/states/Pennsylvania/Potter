@@ -1,0 +1,43 @@
+154.25000 	KNNP411 	BM	CSQ	PC Fire Disp 	County Fire - F1 Dispatch 	FM 	Fire Dispatch 
+154.19000 	WPPW383 	BM		PC Fire Cmd 	County Fire - F2 Command 	FM 	Fire-Tac 
+155.34000 	KNCS879 	BM		PC Fire Ops1 	County Fire - F3 Operations 1 	FM 	Fire-Tac 
+154.13000 	WPPW383 	BM		PC Fire Ops2 	County Fire - F4 Operations 2 	FM 	Fire-Tac 
+154.41500 	WPPW383 	BM		PC Fire Ops3 	County Fire - F5 Operations 3 	FM 	Fire-Tac 
+155.38500 	WPPW383 	RM		PC Fire Lyns 	County Fire - F6 Lyons Repeater 	FM 	Fire-Tac 
+154.38500 	KNNP411 	RM	173.8 PL	PC Fire OpsR 	County Fire - F7 thru F11 Operations Repeaters 	FM 	Fire-Tac 
+155.28000 	KNCS879 	BM		PC Fire FPol 	County Fire - F12 Fire Police 	FM 	Fire-Tac 
+154.10750 	WPYU581 	BM		PC Fire Page 	County Fire - F15 County Paging 	FMN 	Multi-Dispatch 
+154.28000 	WPPW383 	BM		PC Fire Emer 	County Fire - F16 Emergency 	FM 	Fire-Tac 
+158.83500 	 	M		PC Fire MRpt 	County Fire - F17 Mobile Repeater 	FM 	Fire-Tac 
+154.34000 	WPPW383 	BM		PC Fire Whit 	County Fire - F18 Whites Crossband 	FM 	Fire-Tac 
+158.84250 	WPQK785 	RM		Gale Hose Co 	Gale Hose Company 1 Repeater 	FMN 	Fire-Tac 
+151.33250 	WQIT804 	RM		Harrison VFD 	Harrison Township Volunteer Fire Company 	FM 	Fire-Tac 
+33.78000 	WNQJ569 	BM		PC Fire Tac 	Fire - Tactical (OOS?) 	FM 	Fire-Tac 
+33.98000 	WNQJ569 	BM		PC Fire Tac 	Fire - Tactical (OOS?) 	FM 	Fire-Tac 
+46.14000 	WNWK394 	BM		PC Fire Tac 	Fire - Tactical (OOS?) 	FM 	Fire-Tac 
+46.36000 	WNQJ569 	BM		PC Fire Tac 	Fire - Mutual Aid (OOS?) 	FM 	Interop 
+462.97500 	KNDS654 	RM		EMS Dispatch 	County EMS - Primary Dispatch 	FM 	EMS Dispatch 
+462.95000 	KNDS654 	RM		EMS Alt Disp 	County EMS - Alternate Dispatch 	FM 	EMS Dispatch 
+463.00000 	KNDS654 	RM		EMS Med-1 	EMS-to-Hospital 	FM 	Hospital 
+463.02500 	KNDS654 	RM		EMS Med-2 	EMS-to-Hospital 	FM 	Hospital 
+463.05000 	KNDS654 	RM		EMS Med-3 	EMS-to-Hospital 	FM 	Hospital 
+463.07500 	KNDS654 	RM		EMS Med-4 	EMS-to-Hospital 	FM 	Hospital 
+463.10000 	KNDS654 	RM		EMS Med-5 	EMS-to-Hospital 	FM 	Hospital 
+463.12500 	KNDS654 	RM		EMS Med-6 	EMS-to-Hospital 	FM 	Hospital 
+463.15000 	KNDS654 	RM		EMS Med-7 	EMS-to-Hospital 	FM 	Hospital 
+463.17500 	KNDS654 	RM		EMS Med-8 	EMS-to-Hospital 	FM 	Hospital 
+154.81500 	WNMZ586 	RM		PotterPolice 	Police Dispatch 	FM 	Law Dispatch 
+155.79750 	WPYD544 	BM		Sheriff Ops 	Sheriff Ops and Correctional Facility 	FMN 	Law Dispatch 
+155.47500 	WNMZ586 	M		National PD 	Police National 	FM 	Interop 
+155.49000 	 	M		Regional PD 	Police Regional (NC PA) 	FM 	Interop 
+155.19000 	WPST622 	RM		Cdrsprt PD 	Coudersport Police - Dispatch 	FM 	Law Dispatch 
+156.00000 	 	M		ShinglPD Tac 	Shinglehouse Police - Tac 	FMN 	Law Tac 
+37.04000 	KNFD526 	BM		Sheriff Alt 	Sheriff - Alternate Dispatch (OOS?) 	FM 	Law Dispatch 
+37.40000 	KNFD526 	BM		Sheriff Tac 	Sheriff - Tactical (OOS?) 	FM 	Law Tac 
+154.98000 	KNFG829 	BM	173.8 PL	PC EMA 	Potter Co Emergency Management 	FM 	Emergency Ops 
+958.35000 	WNWK394 	BM		PC EMA Data 	EMA - Data 	Telm 	Data 
+155.08500 	KNJX270 	BM		Shinglehouse 	Shinglehouse Borough 	FM 	Multi-Talk 
+155.83500 	WQBE506 	BM		Genesee Twp 	Genesee Township 	FM 	Multi-Talk 
+45.40000 	WNSG944 	BM		Trans Auth 1 	Dispatch 	FM 	Transportation 
+45.44000 	WNSG944 	BM		Trans Auth 2 	Secondary 	FM 	Transportation 
+Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	

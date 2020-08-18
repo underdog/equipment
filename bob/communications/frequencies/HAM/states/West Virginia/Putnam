@@ -1,0 +1,33 @@
+151.15250 	WRAC535 	RM	3 RAN	PutCo LE Hrrcn 	Putnam Co Law Dispatch - Hurricane (patched to SIRN) 	NXDN 	Law Dispatch 
+151.39250 	WQKG988 	RM	33 RAN	PutCo LE CoalMtn 	Putnam Co Law Dispatch - Coal Mtn (patched to SIRN) 	NXDN 	Law Dispatch 
+151.44500 	WRAA990 	RM	23 RAN	PutCo LE Wnfld 	Putnam Co Law Dispatch - Winfield (patched to SIRN) 	NXDN 	Law Dispatch 
+151.48250 	WRAA990 	RM	13 RAN	PutCo LE Buffalo 	Putnam Co Law Dispatch - Buffalo (patched to SIRN) 	NXDN 	Law Dispatch 
+154.81500 	WNAQ432 	RM	103.5 PL	PutCo SO Dp 	Putnam Co Sheriff - Dispatch 	FMN 	Law Dispatch 
+155.55750 	WQEJ547 	RM	065 DPL	PutCo SO Pv 	Putnam Co Sheriff - Private 	FMN 	Law Tac 
+460.27500 	WNAQ432 	RM	179.9 PL	PutCo SO Uhf 	Putnam Co Sheriff - Countywide UHF Link 	FMN 	Law Talk 
+151.07750 	WPRG563 	RM	131.8 PL	Hurrcn PD Dp 	Hurricane Police - Private 	FMN 	Law Tac 
+155.11500 	WXK663 	BM	131.8 PL	Putco Fire F1 P 	Putnam Co Fire-EMS Dispatch (Primary) 	FMN 	Fire Dispatch 
+155.89500 	WQBP733 	RM	229.1 PL	PutCo Fire F1 B 	Putnam Co Fire-EMS Dispatch (Buffalo) 	FMN 	Fire Dispatch 
+159.16500 	WPMF627 	RM	229.1 PL	PutCo Fire F1 H 	Putnam Co Fire-EMS Dispatch (Hurricane) 	FMN 	Fire Dispatch 
+154.08500 	WXJ754 	RM	131 DPL	PutCo Fire Wnfld 	Putnam Co Fire - Winfield 	FMN 	Fire-Tac 
+155.76000 	WPPX959 	RM	131 DPL	PutCo Fire Coal 	Putnam Co Fire - Coal Mountain 	FMN 	Fire-Tac 
+155.20500 	KXP213 	M	143 DPL	PutCo Fire FTac 	Putnam Co Fireground Tactical 	FMN 	Fire-Tac 
+155.89500 	WQBP733 	RM	173.8 PL	Buffalo VFD Pvt 	Buffalo VFD (Station 100) Private 	FMN 	Fire-Talk 
+155.04000 	WXK663 	BM	131.8 PL	Eleanor VFD Pvt 	Eleanor VFD (Station 200) Private 	FMN 	Fire-Talk 
+154.17500 	WQGI290 	M	131 DPL	Winfield VFD Pvt 	Winfield VFD (Station 300) Private 	FMN 	Fire-Talk 
+154.32500 	WQNR345 	M	131.8 PL	Route34 VFD Pvt 	Route 34 VFD (Station 400) Private 	FMN 	Fire-Talk 
+155.05500 	WQXY382 	M	131.8 PL	Poca VFD Pvt 	Poca VFD (Station 600) Private 	FMN 	Fire-Talk 
+154.25000 	KRZ910 	BM	131.8 PL	TeaysVly VFD Pvt 	Teays Valley VFD (Station 700) Private 	FMN 	Fire-Talk 
+159.16500 	WPMF627 	RM	131.8 PL	Hurricane VFDPvt 	Hurricane VFD (Station 800) Private 	FMN 	Fire-Talk 
+154.60000 	WQBP733 	BM	131.8 PL	Buffalo VFD TA 	Buffalo VFD - Talk Around 	FMN 	Fire-Talk 
+453.97500 	WXJ754 	RM	131.8 PL	PutCo FD1 UHF 	Putnam County Fire - Ch. 1 UHF Link  	FMN 	Fire-Talk 
+460.10000 	WNAQ432 	RM	054 DPL	PutCo FD1Lnk 	Putnam County Fire - Ch. 1 UHF Link 	FMN 	Fire-Talk 
+460.55000 	KXP213 	RM	131.8 PL	PutCo FD2Lnk 	Putnam County Fire - Ch. 2 UHF Link 	FMN 	Fire-Talk 
+462.27500 	WXJ754 	RM	CSQ	PutCo EMSLnk 	Putnam County EMS - UHF Link 	FMN 	EMS-Talk 
+451.43750 	WQGH500 	RM	205 DPL	CAMCTeaysVly 	CAMC Teays Valley Hospital - Security and Housekeeping 	FMN 	Hospital 
+464.75000 	WNDJ874 	RM	173.8 PL	PutCo OES 	Putnam County Office of Emergency Services 	FMN 	Emergency Ops 
+453.06250 	WNRX996 	RM		SoPut LocGov 	South Putnam Local Government 	Telm 	Public Works 
+151.11500 	WQRP304 	RM	218.1 PL	HurrcaneUtil 	Hurricane Utility Department 	FMN 	Public Works 
+464.75000 	WNDJ874 	BM	192.8 PL	PutCo AnmCon 	Putnam County Humane Society - Animal Control 	FMN 	Public Works 
+463.95000 	WNRD834 	RM	156.7 PL	PutCoBOEbus 	Putnam County BOE (School Buses) 	FMN 	Schools 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	West Virginia Statewide Interoperability Radio Network (SIRN) 	 Project 25 Phase I	 Statewide	

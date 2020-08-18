@@ -1,0 +1,162 @@
+156.21000 	KCW420 	B	94.8 PL	METC Fire PG 	Fire/EMS: Countywide Paging (no reciever) (except Bloomington, Normal FD) 	FMN 	Fire Dispatch 
+460.20000 	WQBJ611 	F	91.5 PL	METC FD RFA 	Fire/EMS: Link (to 156.21 West Tower - Bloomington) 	FMN 	Fire Dispatch 
+460.20000 	WQBJ611 	F	82.5 PL	METC FD RFB 	Fire/EMS: Link (to 156.21 South Tower - Downs) 	FMN 	Fire Dispatch 
+460.20000 	WQBJ611 	F	67.0 PL	METC FD RFC 	Fire/EMS: Link (to 156.21 South-East Tower - Arrowsmith) 	FMN 	Fire Dispatch 
+460.20000 	WQBJ611 	F	74.4 PL	METC FD RFD 	Fire/EMS: Link (to 156.21 North Tower - Lexington) 	FMN 	Fire Dispatch 
+154.19000 	KDQ349 	BM	173.8 PL	METCOM Fire 	Fire/EMS: Countywide Dispatch (En Route, etc) (except Bloomington and Normal FDs) [Ch 1] 	FMN 	Fire Dispatch 
+154.23500 	KDQ349 	BM	CSQ	METC FD FG-S 	Fireground: South County Rural (South of Route 9) 	FMN 	Fire-Tac 
+155.20500 	KSB744 	BM	CSQ	EMCAA EMS 	EMCAA Ambulance Paging (Old) [Expired] 	FMN 	EMS Dispatch 
+154.81500 	KCW420 	RM	173.8 PL	METCOM EMS 	EMS: Countywide Dispatch (en route, etc) (except Bloomington FD)  	FMN 	EMS Dispatch 
+155.16000 	KLS630 	BM	173.8 PL	McLn Rescue 	McLean County Rescue Squad [Expired] 	FMN 	Fire-Tac 
+856.48750 	WQGC851 	RM	CSQ	METC Sirens 	Outdoor Warning Sirens (*see notes) 	FMN 	Data 
+453.67500 	WQCE547 	RM	CC 12TG 1SL 1	McLn Co Jail 	Sheriff: Jail 	DMR 	Corrections 
+453.72500 	KVC886 	M		McL Shrf Mob 	Sheriff: Mobiles (in use?) 	FMN 	Law Tac 
+453.33750 	 	RM	103.5 PL	McLn JailOps 	Sheriff: Jail Operations (Low Power) [Unlicensed*] 	FMN 	Corrections 
+453.57500 	KNJC767 	RM	103.5 PL	LJC Maint 	Law and Justice Center: Maintenance 	FMN 	Public Works 
+453.70000 	KWB763 	RM	103.5 PL	McLean EMA 1 	EMA: Main Operations (Normal) 	FMN 	Emergency Ops 
+153.86000 	KNFR854 	BM	CSQ	McLN EMA 	EMA: ESDA 	FMN 	Emergency Ops 
+157.62000 	 	BM	103.5 PL	McL EMA Mnt 	EMA: Maintenance [No License?] 	FMN 	Emergency Ops 
+154.08500 	KSO911 	BM	CSQ	Clk/Dnv ESDA 	Carlock, Danvers ESDA 	FMN 	Emergency Ops 
+154.96500 	WPRR691 	BM	CSQ	McL ESDA 	ESDA: Colfax, Anchor, Cooksville 	FMN 	Emergency Ops 
+154.05500 	KFK864 	BM	131.8 PL	Eureka ESDA 	Eureka ESDA (West Township) 	FMN 	Emergency Ops 
+153.24500 	WPMH871 	BM	173.8 PL	GridleyESDA1 	Gridley ESDA 	FMN 	Emergency Ops 
+159.10500 	WPCR931 	BM	186.2 PL	GridleyESDA2 	Gridley ESDA 	FMN 	Emergency Ops 
+155.10000 	 	BM	CSQ	Hudson ESDA 	Hudson ESDA [No License?] 	FMN 	Emergency Ops 
+155.79000 	WQOT809 	RM	306 DPL	Leroy ESDA 	Leroy ESDA  	FMN 	Emergency Ops 
+453.45000 	KZV881 	BM	103.5 PL	Lexngtn ESDA 	Lexington ESDA 	FMN 	Emergency Ops 
+155.70000 	WNMF611 	BM	CSQ	Stnfrd ESDA 	Stanford ESDA [Expired] 	FMN 	Emergency Ops 
+453.57500 	KNJC767 	RM	103.5 PL	McLn CntyWid 	ESDA (also used by Building Services; Sheriff: Mutual Aid) 	FMN 	Multi-Tac 
+151.01000 	KKE915 	RM	141.3 PL	McLn Highway 	Highway Department / Townships 	FMN 	Public Works 
+151.47500 	KKS554 	BM	CSQ	Comlara Park 	Comlara Park (Hudson) [Expired] 	FMN 	Public Works 
+453.15000 	WPTR821 	RM	331 DPL	Blmn PW A 	Public Works / Trash Pickup / Snow Plows  	FMN 	Public Works 
+453.92500 	WPTR821 	RM	331 DPL	Blmn PW B 	Public Works 	FMN 	Public Works 
+460.12500 	WPTR821 	RM	331 DPL	Blmn PW C 	Public Works: Trash Collection (Garbage/Recyling?) 	FMN 	Public Works 
+453.10000 	KUL769 	RM	136.5 PL	Blmn Zone1 	Building Inspectors 	FMN 	Public Works 
+453.85000 	WPBK497 	RM	136.5 PL	Blmn Zone2 	Building Inspectors (also Parks?) 	FMN 	Public Works 
+453.40000 	WPJJ874 	RM	110.9 PL	Blmn HsAuth 	Housing Authority 	FMN 	Public Works 
+453.10000 	KUL769 	RM	071 DPL	MillerPrkZoo 	Miller Park Zoo 	FMN 	Public Works 
+453.10000 	KUL769 	RM	118.8 PL	Blmn Parks 	Parks / Recreaction 	FMN 	Public Works 
+453.62500 	WQHD838 	M	233.6 PL	PVGC Data 	Prairie Vista Golf Course - DTMF Data 	FMN 	Data 
+453.97500 	WQHD838 	RM	77.0 PL	HPark Golf 	Highland Park Golf Course (w/ Automated Voice) 	FMN 	Public Works 
+466.08750 	 	M	205 DPL	Blm CPA 	Center for the Performing Arts 	FMN 	Business 
+458.22500 	WQNH752 	M	162.2 PL	EvMem Cmtry 	Evergreen Memorial Cemetery: Ops 	FMN 	Public Works 
+154.16000 	KSD332 	RM	97.4 PL	Blmngtn Fire 	Fire: Paging Only (ops on Starcom21) 	FMN 	Fire Dispatch 
+153.83000 	KD4839 	M	69.3 PL	MABAS Red 	Fireground MABAS Red  	FMN 	Fire-Tac 
+159.43500 	KD4839 	RM	156.7 PL	Blm Fire MX 	Fire: Mobile Extenders (to SC21 TG-4995) 	FMN 	Fire Dispatch 
+159.43500 	KD4839 	M	CSQ	BlmngtnFD MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+159.43500 	KD4839 	M	293 NAC	Blm Fire P25 	Fire: Data Bursts (Phase 1) 	P25 	Fire-Tac 
+156.24000 	KSD332 	RM	100.0 PL	BlmngtnFDtac 	Fire: Tac  	FMN 	Fire-Tac 
+154.19000 	KSD332 	B	173.8 PL	METCOM Fire 	Fire: Countywide Dispatch 	FMN 	Fire Dispatch 
+463.35000 	WPTX400 	RM	107.2 PL	BPD MetroEx 	Metro Explorers [*Expired, correct freq?/license?] 	FMN 	Law Tac 
+154.22000 	 	M	94.8 PL	BTFD/Hwth FG 	Fire: Tac (with Heyworth & Downs) 	FMN 	Fire-Tac 
+153.96500 	KDQ349 	M	051 DPL	BlmTS FD FG 	Fireground / Weather Spotters 	FMN 	Fire-Tac 
+153.24500 	WPMH871 	RM	141.3 PL	BlmTwp ESDA 	Weather Spotters (also Highway Department - Tucci Rentals) 	FMN 	Emergency Ops 
+453.52500 	KVT384 	RM	100.0 PL	BNWRD Ops 	Bloomington-Normal Sanitation District 	FMN 	Public Works 
+462.23750 	WQBS255 	F		BNWRD Data 1 	Waste Water Data (CSQ) 	Telm 	Data 
+467.23750 	WQBS255 	F		BNWRD Data 2 	Waste Water Data (CSQ) 	Telm 	Data 
+460.02500 	WNRT543 	RM	103.5 PL	NormalPolice 	Police: Dispatch (Old, still on air) 	FMN 	Law Tac 
+453.95000 	KNBY449 	BM	103.5 PL	NormBikePtrl 	Local Citizen Bike Patrol [Ch 2] [Expired 3/12] 	FMN 	Security 
+462.43750 	WQHN696 	M	100.0 PL	Ironwood GC1 	Ironwood Golf Course: Water Sprinkler Control? (carrier) 	FMN 	Business 
+468.61250 	WPWI656 	M	71.9 PL	Ironwood GC2 	Ironwood Golf Course [Expired 5/03] 	FMN 	Business 
+159.05250 	WQCY462 	M	100.0 PL	Norm Fire MX 	Fire: Mobile Extender (Repeats SC21 TG 30372) 	FMN 	Fire Dispatch 
+45.32000 	 	BM	CSQ	Alln Twp Hwy 	Allen Township Highway Department 	FM 	Public Works 
+157.62000 	 	BM	203.5 PL	Arrwsmth TS 	Arrowsmith Township 	FMN 	Public Works 
+153.24500 	WPMH871 	RM	141.3 PL	BlmnTS Roads 	Bloomington Township Highway Department (Tucci Rentals)/Storm spotting 	FMN 	Public Works 
+154.04000 	KTO388 	BM	CSQ	BMndTS Roads 	Blue Mound Township Highway Department [Expired] 	FMN 	Public Works 
+155.98500 	 	BM	CSQ	ChGrove TS1 	Cheney's Grove Township 	FMN 	Public Works 
+158.88000 	KNNV685 	BM	CSQ	ChGrovfe TS2 	Cheney's Grove Township 	FMN 	Public Works 
+156.13500 	WPVC468 	M		Cropsey TS 	Cropsey Township Road Maintenance 	FMN 	Public Works 
+151.08500 	WNBU776 	BM	110.9 PL	DaleTS Roads 	Dale Township Highway Department 	FMN 	Public Works 
+158.94000 	WPEQ674 	M	151.4 PL	Danvers TS1 	Danvers Township 	FMN 	Public Works 
+154.51500 	 	BM	CSQ	Danvers TS2 	Danvers Township 	FMN 	Public Works 
+151.01000 	KKE915 	RM	CSQ	DownRS Roads 	Downs Township 	FMN 	Public Works 
+463.35000 	 	RM	156.7 PL	DryGrove TS1 	Dry Grove Township 	FMN 	Public Works 
+155.94000 	KNDQ282 	BM	CSQ	DryGrove TS2 	Dry Grove Township 	FMN 	Public Works 
+155.95500 	KVW835 	BM	173.8 PL	Empire TS 	Empire Township Highway Department 	FMN 	Public Works 
+151.13000 	WNQU290 	BM	179.9 PL	GrdlyTS Road 	Gridley Township Highway Department 	FMN 	Public Works 
+151.13000 	WQRA438 	BM	CSQ	HdsnTS Roads 	Hudson Township Highway Department 	FMN 	Public Works 
+461.55000 	 	RM	413 DPL	Lex Twp Hwy 	Lexington Township Highway Department 	FMN 	Public Works 
+151.13000 	WNDH652 	BM	CSQ	MrtnTS Roads 	Martin Township Highway Department 	FMN 	Public Works 
+155.38500 	WQEK977 	RM		MtHpTS Roads 	Mt. Hope Township Road Maintenance/Snow Plows (McLean) (71.9?) 	FMN 	Public Works 
+151.01000 	WQU339 	BM	CSQ	OldTS Roads1 	Old Town Township (Downs) 	FMN 	Public Works 
+158.74500 	WPGI341 	BM		OldTS Roads2 	Old Town Township Highway Maintenance 	FMN 	Public Works 
+453.30000 	WPWE530 	RM	107.2 PL	RndlTS Road1 	Randolph Township Highway Department 	FMN 	Public Works 
+151.52000 	 	BM	151.4 PL	RndlTS Road2 	Randolph Township Highway Department 	FMN 	Public Works 
+461.97500 	 	BM	107.2 PL	RndlTS Road3 	Randolph Township Highway Department 	FMN 	Public Works 
+151.08500 	WNBU776 	BM	192.8 PL	WaldoTS Road 	Waldo Township Highway Department 	FMN 	Public Works 
+151.02500 	 	BM	CSQ	WaplTS Roads 	Wapella Township Highway Department 	FMN 	Public Works 
+154.05500 	KFK864 	BM	CSQ	WestTS Roads 	West Township Highway Department 	FMN 	Public Works 
+453.77500 	 	M	100.0 PL	WG/Knox TS 	Knox Township 	FMN 	Public Works 
+453.77500 	 	M	100.0 PL	WG/Knox TS 	Walnut Grove Township 	FMN 	Public Works 
+153.92000 	WQRB833 	BM	CSQ	WOakTS Roads 	White Oak Township Road Maintenance (Carlock) 	FMN 	Public Works 
+154.08500 	KSO911 	BM	CSQ	Carlock WX 	Fireground/Weather Spotters/Training (with Danvers) 	FMN 	Fire-Tac 
+457.65000 	 	M	100.0 PL	Crlk FD MX-1 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+458.60000 	 	BM	123.0 PL	Crlk FD MX-2 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+459.65000 	 	M	141.3 PL	Crlk FD MX-3 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+458.65000 	KSO911 	M	226 DPL	 Crlk Amb MX 	Carlock Ambulance - Mobile Extenders 	FMN 	EMS-Tac 
+158.89500 	WPAZ464 	M	127.3 PL	Chenoa PD MX 	Police: Mobile Extenders 	FMN 	Law Tac 
+453.45000 	KZV881 	BM		Lexngtn ESDA 	Lexington ESDA (103.5 Police?) 	FMN 	Emergency Ops 
+155.29500 	KKS570 	BM		Chen EMS Old 	EMS: Ops [Expired] 	FMN 	EMS-Tac 
+452.71250 	WQLT279 	F		Chenoa WDD 	Water Data (CSQ) 	Telm 	Data 
+154.96500 	WPRR691 	BM	CSQ	Clfx Police 	Police  	FMN 	Law Dispatch 
+458.11250 	KB63010 	M		Clfx PD UHF 	Police: Car-to-Car [Expired] 	FMN 	Law Tac 
+155.20500 	 	B	CSQ	EMCAA EMS 	EMCAA Ambulance Paging 	FMN 	EMS Dispatch 
+159.16500 	WNJF516 	RM	100.0 PL	DaleTwp Fire 	Fire: Ops (1400 units) [Ops Channel] 	FMN 	Law Dispatch 
+154.08500 	KSO911 	M	CSQ	Danvers WX 	Fireground/Weather Spotters/Training (with Carlock) 	FMN 	Fire-Tac 
+154.22000 	WNLV656 	BM	94.8 PL	BTFD/Hwth FG 	Fire: Tac w/ Blmngtn Twp/Heyworth 	FMN 	Fire-Tac 
+458.03750 	KB82374 	M	103.5 PL	Grdly PD Tac 	Police: Tactical 	FMN 	Law Tac 
+154.60000 	 	M	210.7 PL	Gridley FG 	Fireground 	FMN 	Fire-Tac 
+159.10500 	WPCR931 	RM	118.8 PL	Grdly PubWrk 	Public Works: Street / EMS Dispatch (also 186.2?) 	FMN 	Public Works 
+158.81250 	KAS548 	BM		RTFPD MX 	Fire: Mobile Extenders (also 154.7775) 	FMN 	Fire-Tac 
+151.19000 	KAS548 	BM	173.8 PL	RTFPD Storm 	Fire: Storm Watch/Training (2 bases)  	FMN 	Fire-Tac 
+453.68750 	WQVH650 	RM	CC 10TG 100SL 1	Hwth PubWks 	Public Works  	DMR 	Public Works 
+159.22500 	KUJ600 	BM	74.4 PL	Hudson Fire 	Fire: Local [Expired 9/15 App 0008974176) 	FMN 	Fire Dispatch 
+155.10000 	KNIS255 	BM		Hudson Village 	Village Ops [Expired] 	FMN 	Public Works 
+155.79000 	WQOT809 	RM	306 DPL	Leroy Local 	Police / Public Works / EMA 	FMN 	Multi-Dispatch 
+155.08500 	KSA572 	RM	94.8 PL	LeroyAmbulnc 	Ambulance 	FMN 	EMS Dispatch 
+453.45000 	KBI329 	BM	103.5 PL	Lexn PD/ESDA 	Police: Local/Car-to-Car / ESDA 	FMN 	Multi-Dispatch 
+160.05750 	WQMR957 	F		LexingtonWDD 	 	Telm 	Data 
+153.86000 	KNFR854 	BM		Mcln Village 	Village Ops [Expired] 	FMN 	Public Works 
+154.96500 	WPRR691 	BM	CSQ	Octv FG/Wx 	Fireground / Storm Spotting / Training (Colfax PD License) 	FMN 	Fire-Tac 
+158.79000 	WQIR568 	BM		Octavia Fire 	Fire 	FMN 	Fire-Tac 
+154.10000 	KWH782 	BM	CSQ	SAFPD EMA 	Storm Spotting / Traning 	FMN 	Emergency Ops 
+151.46750 	KWH782 	RM	69.3 PL	SaybrkArwFPD 	Fire: Paging / Dispatch / Ops (Repeats 154.19) 	FMN 	Fire-Tac 
+154.79250 	WQEG510 	RM	131.8 PL	Stnf Police 	Police: Dispatch / ESDA [Ch 1/TalkAround Ch 2] 	FMN 	Law Dispatch 
+153.80750 	WQEG510 	M		Stnf PD C2C1 	Police: Car-to-Car 	FMN 	Law Tac 
+153.79250 	WQEG510 	M		Stnf PD C2C2 	Police: Car-to-Car (97.4 PL?) 	FMN 	Law Tac 
+45.48000 	KNCS876 	BM	CSQ	TowndaESDA 	ESDA 	FM 	Emergency Ops 
+463.77500 	WNRE390 	RM	88.5 PL	ChenoaSchool 	Chenoa School District 	FMN 	Schools 
+461.17500 	WQSD381 	RM	114.8 PL	Gridley Sch1 	Gridley School District 	FMN 	Schools 
+463.52500 	WNIP845 	RM	88.5 PL	Gridley Sch2 	Gridley School District [Expired 4/02] 	FMN 	Schools 
+453.30000 	WPWE530 	RM	71.9 PL	Hwth Sch Bus 	Heyworth School Buses 	FMN 	Schools 
+151.31750 	WQGS715 	RM	141.3 PL	Leroy School 	Leroy School District: Ops 	FMN 	Schools 
+155.26500 	KYT939 	BM	CSQ	Leroy*School 	Leroy School District 	FMN 	Schools 
+460.92500 	 	RM	103.5 PL	LxngtnSchool 	Lexington School District 	FMN 	Schools 
+155.17500 	WPKV577 	BM	123.0 PL	PrCntlSchBus 	Prairie Central School District: Buses (Chenoa) 	FMN 	Schools 
+464.32500 	KNGV388 	RM	100.0 PL	Rdgvw School 	Ridgeview School District 19 (Colfax) 	FMN 	Schools 
+464.95000 	WQOS765 	RM	88.5 PL	TriValleySch 	Tri-Valley School District (assumed lic.) 	FMN 	Schools 
+463.26250 	WQKM894 	RM	051 DPL	IC SchoolBus 	Illinois Central School Bus  	FMN 	Schools 
+464.32500 	WPKE365 	RM	131.8 PL	BlmD87 Maint 	Teachers / Maintenance 	FMN 	Schools 
+460.90000 	KNFA554 	RM	100.0 PL	BlmD87 Admin 	Administrative Office 	FMN 	Schools 
+152.39000 	WQKI719 	RM	CC 3TG *SL 1	BJHS Maint 	Maintenance - BJHS 	DMR 	Schools 
+152.39000 	WQKI719 	RM	CC 3TG *SL 2	BJHS Admin 	Admin - BJHS 	DMR 	Schools 
+152.97500 	WQKI719 	M		BlmD87  2975 	Operations (in use) 	DMR 	Schools 
+152.88500 	WQKI719 	M		BlmD87 2885 	Operations (in use) 	DMR 	Schools 
+462.58750 	 	M	67.0 PL	PRidge Sch 	Pepper Ridge Elementary School (Fox Creek) 	FMN 	Schools 
+469.41250 	KNFA554 	M	88.5 PL	BlmD87 A 	Playground Ops (unid location) 	FMN 	Schools 
+155.23500 	KNDS656 	RM	432 DPL	McLnCo Sch 	Buses (Ch 1/Ch 2) 	FMN 	Schools 
+151.38500 	KYT939 	RM	151.4 PL	Olym SchBus  	Buses 	FMN 	Schools 
+153.29000 	WQMY366 	RM	151.4 PL	Olym School1 	Operations / Paging 	FMN 	Schools 
+159.39750 	KYT939 	RM	151.4 PL	Olym School2 	Operations (correct input ?) 	FMN 	Schools 
+453.00000 	WPNY807  	RM	9 RAN	IWU Security 	Security [TG0] 	NXDN 	Security 
+461.70000 	 	RM	167.9 PL	IWU Housing 	Residence Halls [No License] 	FMN 	Schools 
+152.33000 	WPNY807 	RM	151.4 PL	IWU Maint 1 	Maintenance 	FMN 	Schools 
+154.54000 	WPNY807 	RM	151.4 PL	IWU Maint 2 	Maintenance 	FMN 	Schools 
+453.65000 	KWB766 	RM	103.5 PL	ISU G4s Sec 	G4s Wackenhut Security 	FMN 	Security 
+169.45000 	 	M	CSQ	ISU WrlsMic 	Wireless Mic 	FMN 	Schools 
+453.90000 	KSQ528 	RM	103.5 PL	ISU AthTrainers 	Athletic Trainers 	FMN 	Schools 
+464.33750 	 	M	413 DPL	Sodexo Conc A 	Sodexo Concessions 	FMN 	Business 
+464.33750 	 	M	67.0 PL	Sodexo Conc B 	Sodexo Concessions 	FMN 	Business 
+Cargill - Bloomington, IL (DMR)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bloomington	Carle BroMenn Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Normal	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)
+ Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Nestle USA (Bloomington IL)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bloomington 	Supreme Radio Communications (DMR)
+ DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois	Twin City Communications (Bloomington)	 LTR Standard	 Bloomington	

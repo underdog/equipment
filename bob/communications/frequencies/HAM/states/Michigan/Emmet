@@ -1,0 +1,39 @@
+154.96500 	KTO297 	BM		Emmet EMA 	EMA - Operations 	FMN 	Emergency Ops 
+154.40000 	WQPB857 	RM	203.5 PL	Emmet Fire 	Fire - Dispatch 	FMN 	Fire Dispatch 
+150.99500 	KQJ726 	RM	146.2 PL	Emmet Roads1 	Road Commission 	FMN 	Public Works 
+159.32000 	KQJ726 	M		Emmet Roads2 	Road Commission 2 	FMN 	Public Works 
+155.68500 	WPAX836 	RM	203.5 PL	Emmet Co 911 	Emmet County 911 Dispatch 	FMN 	Multi-Dispatch 
+155.52000 	WPKL483 	RM	123.0 PL	CCE Law 1 	Police: Emmett Law 1 - Echo Units (Patch TG 4172 24LAW1) 	FMN 	Law Dispatch 
+155.01000 	WPAX836 	BM	203.5 PL	CCE Law Wide 	Police: Wide Area Dispatch 	FMN 	Law Talk 
+151.47500 	WPAX836 	RM	118.8 PL	CCE 151.475 	Police 	FMN 	Law Talk 
+155.56500 	WPKL483 	RM	131.8 PL	C.C.E. Police 	C.C.E. Police 	FMN 	Law Dispatch 
+154.95000 	WPKL483 	M	210.7 PL	CCE 154.95 	(unidentified repeater input) 	FMN 	Law Talk 
+155.97000 	WPKL483 	M	127.3 PL	CCE 155.97 	(unidentified repeater input) 	FMN 	Law Talk 
+154.31000 	WPKL483 	BM	167.9 PL	CCE Fire 31 	Fire: Dispatch (Petoskey) 	FMN 	Fire Dispatch 
+154.98000 	WPKL483 	RM	162.2 PL	BvrIsle Fire 	Fire: Dispatch: Beaver Island (Charlevoix Coutny) 	FMN 	Fire Dispatch 
+451.35000 	WPAX836 	F	CSQ	CCE RF 1 	Remote Receive Link - Data (154.4 FX2 Petosky) 	FMN 	Data 
+453.10000 	WQEM481 	F		CCE RF 2 	Remote Link/Data - Harbor Springs  	Telm 	Interop 
+453.15000 	WPAX836 	F	156.7 PL	CCE RF 3 	Remote Receive Link - Data (FX2 Harbor Springs) (same as 460.55) 	FMN 	Data 
+453.27500 	WPAX836 	F		CCE RF 4 	Remote Receive Link (154.4 FX2 Petoskey) 	FMN 	Interop 
+453.32500 	WPAX836 	F		CCE RF 5 	Remote Receive Link (FX2 Harbor Springs) 	FMN 	Data 
+458.15000 	WPAX836 	F		CCE RF 6 	Remote Receive Link (154.4 FX2 Levering) 	FMN 	Interop 
+458.27500 	WPAX836 	F		CCE RF 7 	Remote Receive Link (154.74? FX2 Petoskey) 	FMN 	Interop 
+458.32500 	WPAX836 	F		CCE RF 8 	Remote Receive Link (154.4 FX2 Good Hart) 	FMN 	Interop 
+458.50000 	WPAX836 	F	CSQ	CCE RF 9 	Remote Receive Link - Tone Carrier (Good Hart) 	FMN 	Interop 
+460.55000 	WPAX836 	F	156.7 PL	CCE RF 10 	Remote Receive Link (154.4 FX2 Levering) (same as 453.15) 	FMN 	Data 
+464.57500 	WPXF977 	RM	123.0 PL	McLarnNMHosp 	McLaren Northern Michigan Hospital / Phone Patch 	FMN 	Business 
+155.16000 	KXC991 	BM	123.0 PL	NMHosp EMS1 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.32500 	KXC991 	BM	123.0 PL	MEDCOM 	EMS: Dispatch [MEDCOM] 	FMN 	EMS Dispatch 
+155.34000 	KXC991 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+155.22000 	WNIX736 	BM		Operations 	Operations 	FMN 	EMS-Tac 
+155.29500 	WNIX736 	BM		Secondary 	Secondary 	FMN 	EMS-Tac 
+155.34000 	WNIX736 	BM		HEARN 	155.535 127.3 PL EMS Dispatch, very close tx; 155.415 127.3 PL 	FMN 	Hospital 
+151.02500 	WPWF576 	RM		BC TS FD/DPW 	Fire / Public Works 	FMN 	Multi-Talk 
+453.70000 	WNYX957 	RM		GrnwdCemetry 	Operations 	FMN 	Public Works 
+155.04000 	KDG353 	BM		HSprings DPW 	Public Works 	FMN 	Public Works 
+158.73000 	WQDI817 	RM	156.7 PL	LTBB Police 	Police: Secondary 	FMN 	Law Talk 
+155.43000 	WPZI233 	RM		LTBBOdawa Police 	LTBB Police 	FMN 	Law Talk 
+154.74000 	WPJT470 	RM	127.3 PL	Peto Police 	Police: Dispatch 	FMN 	Law Dispatch 
+158.25000 	KQF375 	RM		Ptsk WatSPResort 	Petoskey Winter Sports Park Resort  	FMN 	Business 
+461.11250 	WPWD255 	RM		HrbrSprings Schs 	Harbor Springs Public Schools 	FMN 	Schools 
+Consumers Energy	 EDACS Networked Standard	 Various	Odawa Casino Resort	 DMR Hytera XPT	 Petoskey	

@@ -1,0 +1,158 @@
+156.21000 	KMA376 	RM	179.9 PL	SCCSO Control 1 	Primary 	FM 	Law Dispatch 
+155.70000 	KMA376 	RM	173 NAC	SCCSO Control 2 	West (0700-0130 hours) 	P25 	Law Dispatch 
+156.15000 	KMA376 	RM	173 NAC	SCCSO Control 3 	Tac 	P25 	Law Tac 
+154.65000 	KMA376 	RM	179.9 PL	SCCSO Tac 4 	Tac 	FM 	Law Tac 
+154.80000 	KEX309 	RM	173.8 PL	SCCSO Tac 5 	West Tac 	FM 	Law Tac 
+155.37000 	KMA376 	RM	186.2 PL	SCCSO Tac 6 	South Tac 	FM 	Law Tac 
+155.07000 	KMA376 	BM	162.2 PL	SCCSO Dect 	Detectives 	FM 	Law Tac 
+453.36250 	 	RM	186.2 PL	SCC ECC Ops 	Elmwood Correctional Complex Ops 	FM 	Corrections 
+453.33750 	 	RM		SCC ECC Alarms 	Elmwood Correctional Complex Alarms 	FM 	Corrections 
+453.51250 	 	RM		SCC EWF Ops 	Elmwood Women's Facility Ops 	FM 	Corrections 
+453.48750 	 	RM		SCC EWF Alarm 	Elmwood Women's Facility Alarms 	FM 	Corrections 
+453.63750 	 	RM	186.2 PL	SCC WDF COMN 	Common 	FM 	Corrections 
+154.74000 	KMA376 	RM	162.2 PL	SCC Control 7 	Probation Dept/DOC Jail Transport 	FM 	Corrections 
+155.79000 	WPTB860 	RM	293 NAC	SCCSO Courts 	Court Security 	P25 	Law Dispatch 
+156.09000 	WPHJ886 	BM	156.7 PL	SCCSO Courts 	Court Security 	FM 	Law Dispatch 
+460.12500 	 		141.3 PL	SC NORTAC 	North County Tac 	FMN 	Law Tac 
+153.84500 	KMF786 	BM	CSQ	XSC Command 30 	Command 30 	FMN 	Fire-Tac 
+153.83000 	KMF786 	BM	CSQ	XSC Tac 40 	Tactical 40 	FMN 	Fire-Tac 
+769.00625 	WQXV710 	M	156.7 PL	XSC LPTAC1 	Low Power Tactical 1 	FMN 	Fire-Tac 
+769.01875 	WQXV710 	M	156.7 PL	XSC LPTAC2 	Low Power Tactical 2 	FMN 	Fire-Tac 
+769.03125 	WQXV710 	M	156.7 PL	XSC LPTAC3 	Low Power Tactical 3 	FMN 	Fire-Tac 
+769.04375 	WQXV710 	M	156.7 PL	XSC LPTAC4 	Low Power Tactical 4 	FMN 	Fire-Tac 
+774.93125 	WQXV710 	M	156.7 PL	XSC LPTAC5 	Low Power Tactical 5 	FMN 	Fire-Tac 
+774.94375 	WQXV710 	M	156.7 PL	XSC LPTAC6 	Low Power Tactical 6 	FMN 	Fire-Tac 
+774.95625 	WQXV710 	M	156.7 PL	XSC LPTAC7 	Low Power Tactical 7 	FMN 	Fire-Tac 
+774.96875 	WQXV710 	M	156.7 PL	XSC LPTAC8 	Low Power Tactical 8 	FMN 	Fire-Tac 
+774.98125 	WQXV710 	M	156.7 PL	XSC LPTAC9 	Low Power Tactical 9 	FMN 	Fire-Tac 
+769.05625 	WQXV710 	M	156.7 PL	XSC LPTAC10 	Low Power Tactical 10 	FMN 	Fire-Tac 
+769.06875 	WQXV710 	M	156.7 PL	XSC LPTAC11 	Low Power Tactical 11 	FMN 	Fire-Tac 
+774.99375 	WQXV710 	M	156.7 PL	XSC LPTAC12 	Low Power Tactical 12 	FMN 	Fire-Tac 
+39.92000 	KNNK382 	RM	162.2 PL	LAWNET 	Law Dispatch Interop Net 	FM 	Interop 
+37.08000 	Various 	B	85.4 PL	EOC LoBand 	EOC-to-EOC 	FM 	Interop 
+482.33750 	KWM757 	RM	114.8 PL	BAYMACS-480 	Law Mutual Aid (BAYMACS) 	FM 	Interop 
+154.25000 	KMB884 	RM	162.2 PL	SCCFD VHF 	Fire VHF 	FMN 	Fire-Talk 
+154.17500 	KMF786 	M	162.2 PL	SCCFD Tac 41 	Tactical 41 	FMN 	Fire-Tac 
+154.20500 	KMF786 	M	179.9 PL	SCCFD Tac 42 	Tactical 42 	FMN 	Fire-Tac 
+154.14500 	KMB884 	BM	192.8 PL	SCCFD Tac 43 	Tactical 43 	FMN 	Fire-Tac 
+154.40000 	KMB884 	BM	110.9 PL	SCCFD Tac 44 	Tactical 44 	FMN 	Fire-Tac 
+153.90500 	WPFJ804 	BM	192.8 PL	SCCFD Tac 45 	Tactical 45 	FMN 	Fire-Tac 
+155.98500 	KMK915 	RM	179.9 PL	SCCFD CMD 72 	Command 72 	FMN 	Fire-Tac 
+33.96000 	WNZF381 	RM	156.7 PL	SCC Red Net 	Countywide (Interagency Coord) 	FM 	Interop 
+151.62500 	 	M	173.8 PL	SpringValleyVFD1 	Channel 1 	FMN 	Business 
+151.92500 	 	M	173.8 PL	SpringValleyVFD2 	Channel 2  	FMN 	Business 
+152.94500 	WQIM861 	RM	173.8 PL	SpringValleyVFD4 	Channel 4 - Primary 	FMN 	Fire-Tac 
+153.15500 	WPMR925 	RM	162.2 PL	Uvas Tone 15 	Fire Support 	FMN 	Fire-Tac 
+453.10000 	KMK915 	RM	156.7 PL	SCC EMS Paging 	Paging (Med 91) - Simulcast 	FMN 	EMS Dispatch 
+856.43750 	WNQQ764 	RM	192.8 PL	SCC EMS Dispatch 	Dispatch 	FMN 	EMS Dispatch 
+857.43750 	WNQQ764 	RM	225.7 PL	SCC EMS Cmd 81 	Command 81 	FMN 	EMS-Tac 
+852.66250 	WNQQ764 	RM	192.8 PL	SCC EMS Cmd 82 	Command 82 	FMN 	EMS-Tac 
+853.66250 	WNQQ764 	RM	192.8 PL	SCC EMS Cmd 83 	Command 83 	FMN 	EMS-Tac 
+858.43750 	WNQQ764 	RM	179.9 PL	SCC EMS Cmd 84 	Command 84 	FMN 	EMS-Tac 
+852.66250 	 	M	CSQ	SCC EMS Tac96 	Tac 96 	FMN 	EMS-Tac 
+853.66250 	 	M	CSQ	SCC EMS Tac97 	Tac 97 	FMN 	EMS-Tac 
+151.14500 	KMJ890 	RM	107.2 PL	SCC Parks Dsp 	Dispatch "Control 12" 	FMN 	Law Dispatch 
+151.49000 	WPEQ748 	BM	107.2 PL	SCC Parks Tac 	Tactical 	FMN 	Law Tac 
+155.76000 	KMK915 	RM	103.5 PL	SCC Control 10 	Comm Techs/GSA Parking Patrol 	FM 	Multi-Dispatch 
+453.25000 	 		107.2 PL	SCC AC 	Animal Services 	FM 	Multi-Dispatch 
+453.92500 	KMK915 	RM	107.2 PL	SCC Control 15 	Animal Control/School Buses 	FM 	Multi-Dispatch 
+151.05500 	KML736 	RM	107.2 PL	SCC Roads/Airprt 	Roads/Airport "Control 4" 	FM 	Public Works 
+156.19500 	KML736 	M	107.2 PL	SCC Roads Tac 	Roads Tactical 	FM 	Public Works 
+156.18000 	WPIR619 	BM	203.5 PL	Campbell PW 	Public Works 	FM 	Public Works 
+482.56250 	WPXK765 	RM	127.3 PL	Cupertino PW1 	Public Works 	FMN 	Public Works 
+484.35000 	WPXK765 	RM	127.3 PL	Cupertino PW2 	OES inter facility- shared w/ DPW 	FMN 	Multi-Talk 
+154.34000 	WNLF820 	RM	162.2 PL	Gilroy FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.90000 	WQBB250 	RM	162.2 PL	Gilroy PW 	Public Works 	FM 	Public Works 
+460.12500 	WQJX242 	RM	162.2 PL	Los Altos PW 	Public Works 	FM 	Public Works 
+482.98750 	NA 	BM	162.2 PL	LosAltosHills PW 	Public Works 	FM 	Public Works 
+173.30000 	KLT674 	RM		LosAltosHills PW 	Purissima Hills Water 1 and 2 	FM 	Public Works 
+155.23500 	WNWA488 	BM	127.3 PL	LosGatos PD DART 	Police SAR (DART) 	FM 	Emergency Ops 
+155.14500 	KNJC649 	BM	127.3 PL	LosGatos PW 	Public Works 	FM 	Public Works 
+460.62500 	WNJP888 	RM	179.9 PL	Milpitas FD UHF 	Fire UHF 	FMN 	Fire-Talk 
+460.57500 	WPRW817 	RM	179.9 PL	MilpitasFD Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
+859.46250 	WNHG608 	RM	162.2 PL	MilpitasFD Cmd88 	Fire Command 88 	FM 	Fire-Tac 
+155.14500 	WNBF794 	BM	156.7 PL	Milpitas C/G 	School Crossing Guards 	FM 	Schools 
+856.21250 	WNCE530 	RM	114.8 PL	Milpitas PW 	Public Works 	FM 	Public Works 
+155.14500 	KNCG395 	BM	127.3 PL	Monte Sereno PW 	Public Works 	FM 	Public Works 
+45.60000 	 	BM	146.2 PL	Morgan Hill PW 	Public Works 	FM 	Public Works 
+154.02500 	KKC877 	RM	110.9 PL	MVFD VHF 	Fire VHF 	FMN 	Fire-Talk 
+154.83000 	KKC877 	RM	141.3 PL	MVFD Command 53 	Fire Command 53 	FMN 	Fire-Tac 
+158.86500 	WNFF918 	BM	110.9 PL	MVFD Tactical 38 	Fire Tactical 38 	FMN 	Fire-Tac 
+453.05000 	KFI602 	RM	110.9 PL	MountainViewPW 	Public Works 	FM 	Public Works 
+153.77000 	KNCZ416 	RM	110.9 PL	PAFD VHF 	Fire VHF 	FMN 	Fire-Talk 
+154.05500 	KNCZ416 	RM	110.9 PL	PAFD Command 65 	Fire Command 65 	FMN 	Fire-Tac 
+453.70000 	KAY725 	RM	110.9 PL	Palo Alto PW 	Public Works 	FM 	Public Works 
+451.10000 	KNBE280 	M	110.9 PL	Palo Alto PW Tac 	Public Works Tac 	FM 	Public Works 
+451.12500 	KNBE280 	RM	110.9 PL	Palo Alto Util 	Utilities - Water/Gas/Sewer 	FM 	Utilities 
+453.75000 	WPIC817 	RM	110.9 PL	Palo Alto Elec 	Utilities - Electric 	FM 	Utilities 
+860.71250 	WNFI750 	RM	110.9 PL	Palo Alto T/A 	Police/Fire/EMS C & C / Phone Patch 	FM 	Interop 
+155.02500 	KMH603 	RM	173.8 PL	San Jose FD VHF 	Fire VHF 	FMN 	Fire-Talk 
+155.92500 	KMH603 	RM	123.0 PL	SanJoseFD Cmd 11 	Fire Command 11 Citywide 	FMN 	Fire-Talk 
+153.98000 	KYW990 	RM	151.4 PL	SanJoseFD Cmd 12 	Fire Command 12 North of SR280 	FMN 	Fire-Talk 
+154.11500 	KYW990 	RM	136.5 PL	SanJoseFD Cmd 13 	Fire Command 13 South of SR280 	FMN 	Fire-Talk 
+154.43000 	KYW990 	M	118.8 PL	SanJoseFD Tac 31 	Fire Tactical 31 	FMN 	Fire-Tac 
+154.31000 	KYW990 	M	127.3 PL	SanJoseFD Tac 32 	Fire Tactical 32 	FMN 	Fire-Tac 
+151.04000 	KYW990 	M	103.5 PL	SanJoseFD Tac 33 	Fire Tactical 33 	FMN 	Fire-Tac 
+150.77500 	KYW990 	M	192.8 PL	SanJoseFD Tac 34 	Fire Tactical 34 	FMN 	Fire-Tac 
+155.13000 	KYW990 	M	229.1 PL	SanJoseFD Tac 35 	Fire Tactical 35 	FMN 	Fire-Tac 
+150.80500 	KYW990 	M	225.7 PL	SanJoseFD Tac 36 	Fire Tactical 36 	FMN 	Fire-Tac 
+770.60625 	 	M	293 NAC	SanJoseFD Tac 37 	Fire Tactical 37 	P25 	Fire-Tac 
+772.80625 	 	M	293 NAC	SanJoseFD Tac 38 	Fire Tactical 38 	P25 	Fire-Tac 
+773.23125 	 	M	293 NAC	SanJoseFD Tac 39 	Fire Tactical 39 	P25 	Fire-Tac 
+453.25000 	KMK323 	RM	107.2 PL	San Jose PW 	Public Works 1 	FMN 	Public Works 
+453.30000 	KMK323 	RM	107.2 PL	San Jose 20 Park 	Ch. 20 Park Rangers 	FMN 	Public Works 
+453.53750 	KD45606 	M		San Jose PW Tac 	Public Works Tactical 	FMN 	Public Works 
+453.61250 	KD45606 	M		San Jose PW Tac 	Public Works Tactical 	FMN 	Public Works 
+453.57500 	KTK700 	RM	156.7 PL	San Jose Svcs 	Services 	FMN 	Public Works 
+453.67500 	KTK700 	RM	156.7 PL	San Jose Svcs 	Services 	FMN 	Public Works 
+453.50000 	WNMM557 	RM	114.8 PL	San Jose CC 	Convention Center 	FMN 	Business 
+453.72500 	WXK676 	RM	107.2 PL	WaterPollutionCP 	Water Pollution Control Plant 	FMN 	Utilities 
+153.96500 	WQHX876 	F	CSQ	SantaClara FD 	Fire Dispatch Simulcast from TRS 	FM 	Deprecated 
+851.36250 	WPRS440 	M	CSQ	SantaClara PD BU 	Police Conventional Backup 	FMN 	Law Tac 
+851.66250 	WPRS440 	M	146.2 PL	SantaClara FD BU 	Fire Conventional Backup 	FMN 	Fire-Tac 
+155.90250 	WQGK582 	RM	131.8 PL	Saratoga PW 	Public Works (53) 	FMN 	Public Works 
+851.65000 	 	M	141.3 PL	SVPD Direct 	Sunnyvale Patrol Direct 	FMN 	Law Talk 
+859.71250 	 	M	141.3 PL	SNY FD Direct 	Sunnyvale Fire Direct 	FMN 	Fire-Talk 
+152.09000 	WQML377 	RM	146.2 PL	MROSD Disp 	Dispatch 	FMN 	Law Dispatch 
+151.23500 	WNVC239 	M	203.5 PL	MROSD 7 	Secondary 	FM 	Multi-Tac 
+150.77500 	WPKE752 	M	203.5 PL	MROSD Tac 	Tactical 	FM 	Multi-Tac 
+151.23500 	WNVC239 	RM	123.0 PL	MROSD Admin 	Admin 	FM 	Multi-Talk 
+173.25000 	WQLR438 	M		MROSD Trancs 	Los Trancos 	FMN 	Multi-Tac 
+464.67500 	WPCA689 	RM	156.7 PL	STAN1 	Housing/Athletics 	FM 	Multi-Dispatch 
+464.87500 	WPMQ382 	RM	411 DPL	STAN2 	Facilities/Events 	FM 	Public Works 
+464.55000 	WPWF956 	M	167.9 PL	STAN4 	Facilities Talkaround 	FM 	Public Works 
+464.73750 	WPCA231 	M	156.7 PL	SPL EVENT 	Football Medical/Special Events 	FM 	Emergency Ops 
+469.50000 	WPFG899 	M	411 DPL	ATHL OPS 	Athletics Ops 	FM 	Public Works 
+464.42500 	WPMA968 	RM	023 DPL	STANIT 	IT Support (seldom used) 	FM 	Utilities 
+935.13750 	WNRM506 	RM	114.8 PL	SUH Security 	Security 	FM 	Security 
+130.05000 	 	BM	CSQ	Life Flight 	LifeFlight Helo Operations 	AM 	Aircraft 
+462.90000 	WQIZ869 	BM		MITTY HS 	Archbishop Mitty Operations 	FM 	Business 
+451.28750 	WQJK921 	M		Bellarmine 	Bellarmine College Preparatory 	FM 	Schools 
+456.28750 	WQJK921 	M		Bellarmine 	Bellarmine College Preparatory 	FM 	Schools 
+451.38750 	WQJK921 	M		Bellarmine 	Bellarmine College Prep Tac 	FM 	Schools 
+860.13750 	KWK820 	RM	141.3 PL	SJUSD Police 	Police/Transportation shared 	FM 	Law Dispatch 
+860.56250 	KWK820 	RM		SJUSD Admin 	Administration 	FM 	Schools 
+860.66250 	KWK820 	RM	136.5 PL	SJUSD 	San Jose Unified School District 	FM 	Schools 
+463.20000 	 	RM	103.5 PL	SCU PubSafet 	Public Safety 	FM 	Multi-Dispatch 
+464.77500 	 	RM	241.8 PL	WVMCCD PD 	Police 	FM 	Law Talk 
+488.63750 	WPSE913 	RM	114.8 PL	SCVTA 1 	Bus Ops Ch 1 	FM 	Transportation 
+488.83750 	WPSE913 	RM	114.8 PL	SCVTA 2 	Bus Ops Ch 2 	FM 	Transportation 
+488.73750 	WPSP534 	RM	114.8 PL	SCVTA 3 	Bus Ops Ch 3 	FM 	Transportation 
+489.01250 	WPSP534 	RM	114.8 PL	SCVTA 4 	Light Rail - Vasona 	FM 	Transportation 
+482.58750 	WPSE913 	RM	114.8 PL	SCVTA 5 	Maintenance/Security/Road Supervisors 	FM 	Security 
+489.17500 	WPRW624 	RM	114.8 PL	SCVTA 7 	Light Rail - Tasman 	FM 	Transportation 
+488.66250 	WPSP534 	RM	114.8 PL	SCVTA 8 	Light Rail - Guadalupe 	FM 	Transportation 
+488.68750 	WPSE913 	RM		SCVTA Data 	Data 	Telm 	Data 
+489.03750 	Various 	RM		SCVTA Data 	Data 	Telm 	Data 
+453.01250 	WNSD894 	RM		RC UHF 	RED CROSS SC/ALCO 	FM 	Emergency Ops 
+151.19000 	WPNZ857 	RM	162.2 PL	SAR 1 	SAR Repeater 	FM 	Emergency Ops 
+150.80500 	WPNZ857 	BM	162.2 PL	SAR 2 	SAR Tactical 	FM 	Emergency Ops 
+155.16000 	 	M	CSQ	SAR COMMON 	SAR Common (NASAR) 	FM 	Interop 
+ATT (LTR)	 LTR Standard	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	CALTrans (District 04 - South)	 Motorola Type II Smartnet
+ None	Crystal Communications (Loma Prieta)	 LTR Standard	 Loma Prieta	Fisher Wireless Services, Inc	 DMR Motorola Capacity Plus Multi Site (TRBO)	 	Hewlett Packard
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Palo Alto	Levi's Stadium	 DMR Motorola Capacity Plus Single Site (TRBO)	 Santa Clara	Lockheed Martin	 Motorola Type II Smartnet	 Milpitas
+Metro Mobile Communications MetroNet (Black Mountain)	 LTR Standard	 Monte Vista	NASA Ames Research Center	 Project 25 Phase I	 Moffett Field	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard
+ Various	RFC Wireless (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various (Bay Area)	RFC Wireless (Mt Presson)	 LTR Standard	 Presson	Santa Clara
+ Motorola Type II Smartnet	 Santa Clara	Signature Wireless Group iDAS Multitrunk (Bay Area)	 NXDN Icom IDAS Type D	 San Rafael	Silicon Valley Regional Communications System (SVRCS)	 Project 25 Phase II	 Various
+Silke Communications	 NXDN NEXEDGE 4800	 Northern California	Stanford Health Care	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)
+ Various	The Radio Guys	 NXDN NEXEDGE 4800	 Various	Unidentified Federal Project 25 BEE00-4D5	 Project 25 Phase II	 Various	

@@ -1,0 +1,61 @@
+155.03250 	 	RM	91.5 PL	LVF Main 	Lower Valley Dispatch 	FMN 	Fire Dispatch 
+155.88000 	WPSF250 	RM	173.8 PL	LVF OPS 	Lower Valley Operations 	FMN 	Fire-Tac 
+154.14500 	KNEQ242 	BM		LVF Tac3 	Lower Valley Tac 3 	FMN 	Fire-Tac 
+154.37750 	 	BM	162.2 PL	LVF White 	Lower Valley White Tac  	FMN 	Fire-Tac 
+154.39250 	 	BM	162.2 PL	LVF Green 	Lower Valley Green Tac 	FMN 	Fire-Tac 
+154.40000 	 	BM	162.2 PL	LVF Yellow 	Lower Valley Yellow Tac  	FMN 	Fire-Tac 
+154.40750 	 	BM	162.2 PL	LVF Brown 	Lower Valley Brown Tac  	FMN 	Fire-Tac 
+154.96500 	 	BM	162.2 PL	LVF Orange 	Lower Valley Orange Tac  	FMN 	Fire-Tac 
+154.25750 	WQFU635 	RM	91.5 PL	UVF Main 	Upper Valley Dispatch 	FMN 	Fire Dispatch 
+154.19000 	WPAQ563 	RM	136.5 PL	UVF Clemans 	Upper Valley Clemans 	FMN 	Fire Dispatch 
+155.22000 	 	BM	85.4 PL	EMS AMR 	AMR Ambulance 	FMN 	EMS Dispatch 
+153.62000 	WQUS904 	RM	114.8 PL	EMS ALS 	ALS Dispatch 	FMN 	EMS Dispatch 
+155.40000 	WPJH352 	RM	114.8 PL	EMS ALS 	ALS Ambulance 	FMN 	EMS Dispatch 
+155.80500 	WPAQ563 	RM	103.5 PL	UVF Rattle 	Upper Valley Rattlesnake 	FMN 	Fire Dispatch 
+153.87500 	WNPQ683 	BM		UVF Gold 	Upper Valley Gold Tac 	FMN 	Fire-Tac 
+154.28000 	WPXA256 	BM		UVF Silver 	Upper Valley Silver Tac 	FMN 	Fire-Tac 
+155.80500 	WPAQ563 	RM	118.8 PL	UVF Sedge 	Sedge Dispatch 	FMN 	Fire Dispatch 
+155.05500 	WPWL754 	M		MOPS 	Mobile Ops Command Van 	FMN 	Interop 
+154.38500 	KOK411 	RM	91.5 PL	YCFD 5 Disp 	Dispatch District 5 	FMN 	Fire Dispatch 
+155.04750 	 	RM	91.5 PL	LVF Status 	Status 	FMN 	Fire Dispatch 
+155.08500 	 	RM	91.5 PL	LVF Mabton 	Mabton 	FMN 	Fire Dispatch 
+155.53500 	KOA973 	RM	054 DPL	YCSO Eagle 	Sheriff Upper Valley - Eagle 	FMN 	Law Dispatch 
+155.76000 	KOA973 	RM	054 DPL	YCSO Lookout 	Sheriff Lower Valley 	FMN 	Law Dispatch 
+155.73000 	KOA973 	RM	100.0 PL	YCSO Bethel 	Sheriff Bethel 	FMN 	Law Dispatch 
+154.13750 	 	RM	100.0 PL	YCSO Little Bld 	Sheriff Little Bald 	FMN 	Law Dispatch 
+155.01000 	KNCZ356 	RM		YCSO C2C 	Sheriff Car to Car 	FMN 	Law Tac 
+156.00000 	WQWP397 	RM	054 DPL	YCSO Elephant 	Sheriff Lower Valley - Elephant 	FMN 	Law Dispatch 
+173.31250 	 	M	CSQ	YCSO MobExt 	Sheriff Mobile Extender 	FMN 	Law Talk 
+453.33750 	WQXJ813 	RM	100.0 PL	YCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+159.12000 	KUV642 	RM	146.2 PL	Yak Co Roads 	Roads 	FMN 	Public Works 
+153.98000 	 	BM	146.2 PL	YC Landfills 	Landfill Operations 	FMN 	Public Works 
+453.77500 	WQFD729 	RM	047 DPL	Yakima Fair 	Fairgrounds 	FMN 	Public Works 
+154.31000 	KOG621 	RM	103.5 PL	YFD Main 	Dispatch Main 	FMN 	Fire Dispatch 
+154.43000 	KOG621 	RM	103.5 PL	YFD Ops 	Operations 	FMN 	Fire-Tac 
+453.05000 	KOK935 	B	107.2 PL	YFD Alerts 	Station Voice Alerts 	FMN 	Fire Dispatch 
+154.23500 	KOG621 	BM	103.5 PL	YFD Copper 	Tactical 	FMN 	Fire-Tac 
+156.01500 	KJS956 	RM	103.5 PL	YPD F1 	Police Dispatch 	FMN 	Law Dispatch 
+156.21000 	KJS956 	RM	103.5 PL	YPD F2 	Police Dispatch Backup F2 	FMN 	Law Dispatch 
+154.74000 	KJS956 	BM	103.5 PL	YPD F3 	Police Tactical / Jail Operations 	FMN 	Law Tac 
+155.71500 	WNMZ641 	BM		Grandv PD Tac 	Grandview Police Tac 	FMN 	Law Tac 
+155.79000 	WNMZ641 	RM	173.8 PL	Grandv PD 	Grandview Police Dispatch 	FMN 	Law Dispatch 
+153.77500 	 	BM		Police 	Police 	FMN 	Law Dispatch 
+153.86000 	 	BM		Police 	Police 	FMN 	Law Dispatch 
+155.62500 	 	M	107.2 PL	GrangePolice C2C 	Police Car/Car 	FMN 	Law Talk 
+155.13000 	KOA409 	RM	141.3 PL	Sunnyside PD 2 	Sunnyside Police Channel 2 	FMN 	Law Tac 
+156.18000 	KOA409 	RM	85.4 PL	Sunnyside PD 	Sunnyside Police Dispatch 	FMN 	Law Dispatch 
+159.03000 	 	BM	141.3 PL	Sunnyside PD Tal 	Sunnyside Police Talk 	FMN 	Law Talk 
+155.68500 	KOF472 	BM		Toppenish PD 	Police Dispatch 	FMN 	Law Dispatch 
+156.09000 	KOF472 	BM	08 RAN	Toppenish PD 2 	Toppenish Police 	NXDN 	Law Dispatch 
+153.80000 	KJW435 	BM	127.3 PL	Toppenish PW 	Toppenish Public Works 	FMN 	Public Works 
+153.86000 	 	M	CSQ	TPD Tac 1 	Police Tac 1 	FMN 	Law Tac 
+159.21000 	 	M	CSQ	TPD Tac 2 	Police Tac 2 	FMN 	Law Tac 
+158.95500 	WNYD455 	RM		YN PD Ahtam 	Yakama Nation Tribal Police Ahtanum Ridge 	FMN 	Law Dispatch 
+159.17250 	 	RM		YN  PD satus 	Yakama Nation Tribal Police Satus Peak 	NXDN 	Law Dispatch 
+152.28500 	WPTP962 	RM		WVSD Buses 	West Valley School District - Buses 	FMN 	Schools 
+155.20500 	WRU836 	BM		WVSD Buses 	West Valley School District - Buses 	FMN 	Schools 
+451.87500 	WPUG847 	RM		WVSD Maint 	West Valley School District - Maintenance 	FMN 	Schools 
+464.50000 	 	BM	88.5 PL	HiltonGarden 	Hilton Garden Inn 	FMN 	Business 
+463.80000 	 	RM	141.3 PL	CWI Security 	CWI Security Patrol 	FMN 	Security 
+Pacific NorthWest DMR	 DMR Conventional Networked	 Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	United States Department of Defense (14C)	 Project 25 Phase II
+ Nationwide	Washington State Department of Transportation	 LTR MultiNet	 Various	Yakima City Services	 Motorola Type IIi Hybrid	 Yakima	

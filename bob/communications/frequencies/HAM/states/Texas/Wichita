@@ -1,0 +1,70 @@
+152.15000 	WRDT829 	RM	720 NAC	WCSO Disp 	Sheriff - Dispatch 	P25 	Law Dispatch 
+154.10000 	WSW675 	RM	763 NAC	WCSO Tac 1 D 	Sheriff - Secondary (Digital Encrypted) 	P25E 	Law Tac 
+154.10000 	WSW675 	RM	632 DPL	WCSO Tac 1 A 	Sheriff - Secondary (Analog, rarely used) 	FMN 	Law Tac 
+155.49000 	 	M	763 NAC	WCSO Tac 2 D 	Sheriff - Talk-around (Digital Encrypted) 	P25E 	Law Talk 
+155.49000 	 	M	123.0 PL	WCSO Tac 2 A 	Sheriff - Talk-around (Analog, rarely used) 	FMN 	Law Talk 
+155.69250 	WQMZ858 	RM	123.0 PL	WCSO Jail 1 	Sheriff - Jail (Downtown) 	FMN 	Corrections 
+155.52000 	WPTF685 	RM	127.3 PL	WCSO Jail 2 	Sheriff - Jail (Sprague Annex) 	FMN 	Corrections 
+155.31750 	WQHT434 	RM	632 DPL	Nortex Rgn 1 	Nortex Regional Repeater System (Region 1 Wichita Co.) 	FMN 	Emergency Ops 
+155.23500 	WNQN333 	BM	173.8 PL	AMR EMS DISP 	American Medical Response EMS - Dispatch 	FMN 	EMS Dispatch 
+155.34000 	WQYY894 	M	131.8 PL	AMR to URHC PtRp 	AMR EMS ambulances to United Regional HC ER 	FMN 	Hospital 
+155.34000 	WQYY894 	BM	156.7 PL	VMED28 URHC-AMR 	VMED28 United Regional HC to AMR EMS Ambulances 	FMN 	Hospital 
+155.17500 	WPVT261 	RM	141.3 PL	TransStarEMS 	Trans Star Ambulance (inversion scrambling) 	FMN 	EMS Dispatch 
+460.50000 	WPNR313 	RM	192.8 PL	WC EOC UHF 	Emergency Management/EOC UHF 	FMN 	Emergency Ops 
+154.75500 	WSW675 	RM	321 NAC	WC EOC VHF 	Emergency Management/EOC VHF 	P25 	Emergency Ops 
+155.10000 	WQH456 	RM	123.0 PL	WichCo Roads 	Road Maintenance 	FMN 	Public Works 
+155.59500 	WQVR840 	RM	173.8 PL	WC CtHSe Sec 	Courthouse Security 	FMN 	Security 
+151.39250 	WQPY828 	RM	265 DPL	WC Fire WF 	County Fire - Wichita Falls (Southeast) 	FMN 	Fire Dispatch 
+151.49750 	WQMJ642 	RM	265 DPL	WC Fire Burk 	County Fire - Burkburnett (Northeast) 	FMN 	Fire Dispatch 
+155.82000 	WQMJ642 	RM	265 DPL	WC Fire Elec 	County Fire - Electra (West) 	FMN 	Fire Dispatch 
+155.56500 	WQMJ642 	RM	371 DPL	WC Fire IPrk 	County Fire - Iowa Park (Southeast) 	FMN 	Fire Dispatch 
+154.88250 	WQFW475 	BM	265 DPL	Burk/FC Fire 	Burkburnett/Friberg-Cooper VFDs Simplex 	FMN 	Fire-Tac 
+153.77000 	KNBP443 	BM	265 DPL	Elec/PC Fire 	Electra/Punkin Center VFDs Simplex 	FMN 	Fire-Tac 
+154.34000 	KNBP443 	BM	265 DPL	WichWestFire 	Wichita West VFD Simplex 	FMN 	Fire-Tac 
+153.74000 	WPXQ411 	BM	265 DPL	IowaParkFire 	Iowa Park VFD Simplex 	FMN 	Fire-Tac 
+155.20500 	WPXQ411 	BM	265 DPL	WichEastFire 	Wichita East VFD Simplex 	FMN 	Fire-Tac 
+154.40000 	WSW675 	BM	265 DPL	CamGardnFire 	Cameron Gardens VFD Simplex 	FMN 	Fire-Tac 
+158.98500 	WSW675 	BM	265 DPL	Kamay Fire 	Kamay VFD Simplex 	FMN 	Fire-Tac 
+155.07000 	KCQ305 	M	127.3 PL	Burkburnett PD 1 	Police Ch. 1 Car-to-Car 1 	FMN 	Law Talk 
+154.86000 	KCQ305 	RM	569 NAC	BurkburnettPD 2D 	Police Ch. 2 Dispatch (digital) 	P25 	Law Dispatch 
+154.86000 	KCQ305 	RM	127.3 PL	BurkburnettPD 2A 	Police Ch. 2 Dispatch (analog) 	FMN 	Law Dispatch 
+151.19750 	WQEW870 	RM	114.8 PL	Burkbrnt PD SWAT 	Police Ch. 5 SWAT 	FMN 	Law Tac 
+154.07000 	 	M	127.3 PL	Burkburnett PD 8 	Police Ch. 8 Car-to-Car 2 	FMN 	Law Talk 
+154.16000 	WPJI603 	RM	114.8 PL	BurkbunettFD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.94000 	KKZ861 	BM	CSQ	Burkburnett PW 	Public Works 	FMN 	Public Works 
+159.15000 	WPWZ468 	RM	110.9 PL	Elect PD Dsp 	Electra Police Dispatch 	FMN 	Law Dispatch 
+155.13000 	KKD524 	BM	495 NAC	Elect PD Tlk 	Electra Police Talkaround (Encrypted) 	P25E 	Law Tac 
+154.31000 	KQY734 	BM	265 DPL	Electra EMS 	Electra EMS Dispatch 	FMN 	EMS Dispatch 
+155.19000 	KXU324 	RM	127.3 PL	Iowa Pk PD 	Police Dispatch 	FMN 	Law Dispatch 
+158.95500 	WSL441 	BM	141.3 PL	IowaPark PW 	Public Works 	FMN 	Public Works 
+453.16250 	KXU322 	RM	43 RAN	WFPW Parks 	Public Works - Parks & Rec/Facilities Maint. 	NXDN 	Public Works 
+453.90000 	KXU322 	RM	33 RAN	WFPW AnimCtl 	Public Works - Animal Control 	NXDN 	Public Works 
+460.27500 	KXU322 	RM	13 RAN	WFPW UtilCol 	Public Works - Utility Collections 	NXDN 	Utilities 
+460.35000 	KKD665 	RM	53 RAN	WFPW Sanit 	Public Works - Sanitation 	NXDN 	Public Works 
+460.60000 	WQAW511 	RM	63 RAN	WFPW Streets 	Public Works - Engineering/Streets 	NXDN 	Public Works 
+460.62500 	WQAW511 	RM	23 RAN	WFPW Water 	Public Works - Water/Sewer/Distribution/Maintenance 	NXDN 	Utilities 
+453.53750 	WQJC859 	RM	464 DPL	WFalls Trans 	Public Works - Transit Buses 	FMN 	Transportation 
+153.59000 	KDL470 	BM	CSQ	WFPW Cyp WTP 	Public Works - Cypress Water Treatment Plant 	FMN 	Public Works 
+155.86500 	KNJT993 	RM	127.3 PL	WFalls OWS 	Outdoor Warning Sirens - DTMF Data 	FMN 	Data 
+453.28750 	WRAL807 	RM	CC 6TG 50SL 1	WFHA CH 1 	Housing Authority Ch. 1 Maintenance/Ops 	DMR 	Public Works 
+453.28750 	WRAL807 	RM	CC 6TG 51SL 2	WFHA Ch. 2 	Housing Authority Ch. 2 Maintenance/Ops 	DMR 	Public Works 
+453.82500 	WPYH488 	B		WFallsGPSDat 	GPS RTK Data 	Telm 	Data 
+151.80500 	WNLK700 	BM	CSQ	BISD  	Maintenance, Buses  	FMN 	Schools 
+153.30500 	WPRM474 	RM	107.2 PL	IPISD 	Buses/Maintenance/Operations 	FMN 	Schools 
+451.86250 	WQZR336 	RM	CC 11TG 601SL 1	IPISD 1 	IPISD 1 	DMR 	Schools 
+451.86250 	WQZR336 	RM	CC 11TG 602SL 2	IPISD 2 	IPISD 2 	DMR 	Schools 
+451.86250 	WQZR336 	RM	CC 11TG 255SL 1	IPISD ALL 	IPISD All Call 	DMR 	Schools 
+155.29500 	WPSL426 	BM	118.8 PL	WFISD Buses1 	Buses 1 	FMN 	Schools 
+152.36000 	KOP341  	RM	146.2 PL	WFISD Buses2 	Buses 2 	FMN 	Schools 
+151.83500 	KOP341 	BM	186.2 PL	WFISD Maint1 	Maintenance 1 	FMN 	Schools 
+152.30000 	KOP341 	RM	167.9 PL	WFISD Maint2 	Maintenance 2 	FMN 	Schools 
+155.25000 	KQP546 	RM	127.3 PL	MSU PD VHF1 	MSU Police VHF Ch 1 (Analog) 	FMN 	Law Dispatch 
+155.25000 	KQP546 	RM	397 NAC	MSU PD VHF2 	MSU Police VHF Ch 2 (Digital) 	P25 	Law Dispatch 
+453.85000 	WPSY925 	RM	156.7 PL	MSU PD UHF 	MSU Police UHF 	FMN 	Law Dispatch 
+452.38750 	WPSJ734 	RM	CC 9TG *SL 1	MSU Data 	MSU ARS Data 	DMR 	Schools 
+452.38750 	WPSJ734 	RM	CC 9TG 16777215SL 2	MSU Maint 	MSU Facility Maintenance/Ops 	DMR 	Schools 
+453.13750 	WQDY330 	BM		SCADA 	MSU SCADA 	FM 	Data 
+Ancell (Wichita Falls)	 LTR Standard	 Wichita Falls	City View Independent School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Wichita Falls	Mobile Phone of Texas (Wichita Falls)	 LTR Standard
+ Wichita Falls	Oncor Energy	 EDACS Narrowband Networked	 Various	Self Radio (Wichita Falls)	 LTR Standard	 Wichita Falls	Self Radio 450
+ LTR Standard	 Wichita Falls	United States Air Force (3D6)	 Project 25 Phase I	 Various	United States Air Force (BC31)	 Motorola Type II SmartZone	 Various
+Wichita Falls (P25)	 Project 25 Phase II	 Wichita Falls	

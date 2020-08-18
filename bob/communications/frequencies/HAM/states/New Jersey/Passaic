@@ -1,0 +1,167 @@
+151.07000 	KNFR247 	RM	88.5 PL	PC FMA 	Fire Mutual Aid & Coordinators 	 	FMN 	Interop 
+458.43750 	KB76670 	M	88.5 PL	PC FMA CWFG 	Fire Mutual Aid - Coordinators - Co Wide FG 	FMN 	Fire-Tac 
+155.68500 	WYK384 	RM	136.5 PL	Pros 1  	Prosecutor 1 Dispatch  	FM 	Law Dispatch 
+155.68500 	WYK384 	RM	393 NAC	Pros 1D 	Prosecutors Digital 1 	P25e 	Law Dispatch 
+155.79000 	WYK384 	M	136.5 PL	Pros 2 	Prosecutor 2  	FMN 	Law Tac 
+169.62500 	 	BM	167 NAC	Pros 2D 	Prosecutors Digital 2 (FBI A-7 Newark) 	P25 	Law Tac 
+460.63750 	WQAB590 	RM	141.3 PL	PCSD Court 	Sheriff - Court House 	FMN 	Law Tac 
+460.33750 	WQAB590 	RM	114.8 PL	PCSD Jail 	Sheriff - Jail  	FMN 	Corrections 
+851.67500 	WPAB807 	RM	203.5 PL	PCSD 1 800 	Tactical - Backup 	FMN 	Law Tac 
+852.35000 	WPAB807 	RM	203.5 PL	PCSD 2  800 	Tactical - Backup 	FMN 	Law Tac 
+155.77500 	WPHZ479 	RM	88.5 PL	Rds/Prks/Prob 	Roads, Parks, Probation Depts. 	FMN 	Public Works 
+158.80500 	WPHZ479 	BM	88.5 PL	FreeHolder 	County Freeholders 	FMN 	Public Works 
+44.98000 	WPBC504 	RM	192.8 PL	Para Trans 	Para Transport (Expired Lic) 	FM 	Transportation 
+37.30000 	 	BM	CSQ	Police 1 	Police 1 (Interop / Backup) 	FM 	Interop 
+37.32000 	 	BM	CSQ	Police 2 	Police 2 (Interop / Backup) 	FM 	Interop 
+46.42000 	WPEY525 	BM	110.9 PL	FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+453.93750 	WPEY525 	M	054 DPL	FD FG Ops 	Fireground 	FMN 	Fire-Tac 
+460.43750 	KNEX234 	M	CC 8TG 2SL 1	FD FG Ops Dig 	Fireground/Response 	DMR 	EMS-Tac 
+460.43750 	KNEX234 	M	CC 8TG 2SL 2	FD Search 	Search and Rescue 	DMR 	Fire-Tac 
+471.80000 	WPSL377 	RM	115 DPL	PD UHF Disp 	Police Dispatch/EMS Response 	FM 	Law Dispatch 
+460.43750 	KNEX234 	RM	CC 8TG 1SL 1	BOE Ops 	Board of Education Ops 	DMR 	Schools 
+154.41500 	KEE968 	RM	131.8 PL	FD/EMS 1 	Fire/EMS Dispatch Ch. 1 	FMN 	Fire Dispatch 
+151.14500 	WPOY776 	RM	203.5 PL	FD/EMS 2 	Fire/EMS Dispatch Ch. 2 	FMN 	Fire Dispatch 
+154.34000 	KEE968 	BM	131.8 PL	FD FG 1 	Fireground 1   	FMN 	Fire-Tac 
+154.26500 	KEE968 	M	131.8 PL	FD FG 2 	Fireground 2   	FMN 	Fire-Tac 
+159.33000 	KEE968 	M	131.8 PL	FD FG 3 	Fireground 3  	FMN 	Fire-Tac 
+155.91000 	KEB328 	RM	192.8 PL	OEM PD-1  	OEM -PD1 Events (Local /Fallback) 	FMN 	Multi-Tac 
+155.62500 	KEB328 	RM	192.8 PL	OEM PD-2  	OEM -PD2 (Local /Fallback) 	FMN 	Multi-Tac 
+151.01000 	WNRM842 	RM	210.7 PL	OEM VHF 	OEM VHF 	FMN 	Emergency Ops 
+151.01000 	WNRM842 	RM	114 DPL	OEM VHF Tac    	OEM VHF Tactical  	FMN 	Emergency Ops 
+453.73750 	WQWB636   	RM	172 DPL	OEM 1A 	OEM 1A Command Post PD/FD/OEM 	FMN 	Emergency Ops 
+464.55000 	WQXR739 	RM	172 DPL	OEM 2A 	OEM/EMCT/CERT Special Events 	FMN 	Emergency Ops 
+464.55000 	WQXR739 	RM	413 DPL	OEM Interops 	OEM/CERT Special Events (Shared with Passaic) 	FMN 	Interop 
+151.01000 	WNRM842 	RM	173.8 PL	DPW 	Road and Building Departments 	FMN 	Public Works 
+156.18000 	WQG809 	RM	114.8 PL	FD Disp 	Fire Dispatch VHF 	FMN 	Fire Dispatch 
+460.03750 	WQBH836 	RM		FD UHF Ops 	Fire & Rescue UHF Ops 	FMN 	Fire-Tac 
+155.65500 	WQIW740  	RM	250.3 PL	PD 	Police 	FMN 	Law Dispatch 
+154.99500 	KNDL324 	RM	107.2 PL	OEM 	OEM Operations 	FMN 	Emergency Ops 
+453.85000 	WPDI590 	RM	110.9 PL	FD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.17500 	WPDI590 	RM	110.9 PL	FD Ops 	Fire Operations 	FMN 	Fire-Tac 
+460.11250 	WPRG489 	RM	131.8 PL	Police/EMS 	Police/EMS Dispatch 	FMN 	Multi-Dispatch 
+155.38500 	WPZK726 	BM	136.5 PL	EMS Talk 	EMS Rig to Rig 	FMN 	EMS-Talk 
+478.25000 	WQYC419 	RM	156.7 PL	LitFalFD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+477.15000 	WQDM676 	RM	162.2 PL	LittleFallPD 	Police Dispatch (HQ only Side of patch from NJICS) 	FMN 	Law Dispatch 
+46.52000 	KFN513 	BM		LittlFallDPW 	DPW / Roads 	FM 	Public Works 
+46.30000 	KEF202 	M		LitFalFDLB 3 	Backup / Mutual Aid / Fireground  	FM 	Fire-Tac 
+45.14000 	KEA377 	RM	141.3 PL	LitFaPDLB  1 	Backup   	FM 	Law Tac 
+45.70000 	KEA377 	BM	CSQ	LitFalPDLB 2 	Backup  	FM 	Law Tac 
+45.94000 	KEA377 	M	CSQ	LitFalPDLB 3 	Backup   	FM 	Law Tac 
+46.38000 	KEF202 	BM	CSQ	LitFal OEM 	OEM/CERT 	FM 	Emergency Ops 
+45.48000 	KNFJ314 	BM	88.5 PL	NorthHalFD 	Fire Dispatch 	FM 	Fire Dispatch 
+155.07000 	KQP669 	RM	268 NAC	NorthHalPD 	Police   	P25e 	Law Dispatch 
+156.22500 	WQHR395 	RM	445 DPL	NorthHaEMS Disp 	Ambulance Dispatch  	FMN 	EMS Dispatch 
+154.99500 	KNDL324 	RM	110.9 PL	NorthHalEMS Alt 	EMS Operations (Alt) 	FMN 	EMS-Tac 
+453.26250 	WQEN833 	RM		NorthHalOEM 	OEM UHF Operations 	FMN 	Emergency Ops 
+45.04000 	KQP669 	BM	CSQ	NHalOEM 	Emergency Management / DPW-2  	FM 	Emergency Ops 
+44.76000 	WPTD777 	BM	CSQ	NHal DPW 	DPW-Road Dept. 	FM 	Public Works 
+858.66250 	WNDV619 	RM	110.9 PL	FD 1 Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+857.26250 	WNDV619 	RM	110.9 PL	PD/EMS 1 Disp 	Police / EMS Dispatch 	FM 	Multi-Dispatch 
+856.26250 	WNDV619 	RM	110.9 PL	PD/FD 2 	Fire / Police Common 	FM 	Multi-Talk 
+464.55000 	WQXR739 	RM	413 DPL	OEM Spc Evts  	OEM/CERT Special Events (Shared with Clifton) 	FMN 	Interop 
+453.42500 	KYF283 	RM	82.5 PL	DPW 	Public Works 	FMN 	Public Works 
+154.16000 	 	BM	131.8 PL	FD / MA 	FD Mutual Aid (Bergen Co Towns) 	FMN 	Fire-Tac 
+460.30000 	KVF808 	RM	82.5 PL	PD 1 Disp 	Police 1 Dispatch 	FMN 	Law Dispatch 
+460.25000 	KVF808 	RM	82.5 PL	PD 2  	Police 2 (Alternate Dispatch & Info) 	FMN 	Law Tac 
+460.22500 	KVF808 	RM	293 NAC	PD 3 Dctv 	Police 3 Detectives   	P25E 	Law Tac 
+460.27500 	KVF808 	RM	82.5 PL	PD 4 Dctv 	Police 4 Detectives  	FMN 	Law Tac 
+453.10000 	WQQA466  	RM	192.8 PL	PD 5 HPD 	Police 5 Housing Police Division 	FMN 	Law Talk 
+453.10000 	WQQA466 	BM	703 DPL	PD 6 	Police 6 Special Events / Details 	FMN 	Law Talk 
+478.95000 	WPPH419 	BM		PD MDTs 	Police MDTs 	Telm 	Data 
+500.38750 	WIL636 	RM	192.8 PL	FD 1 	Fire Dispatch 	FM 	Fire Dispatch 
+500.56250 	WIL636 	RM	192.8 PL	FD 2 	Fire 2 	FM 	Fire-Tac 
+505.13750 	 	BM	025 DPL	FG13 	Fireground 	FM 	Fire-Tac 
+505.93750 	 	BM	025 DPL	FG93 	Fireground 	FM 	Fire-Tac 
+502.08750 	WIL636 	RM	192.8 PL	EMS Disp 	EMS Dispatch 	FM 	EMS Dispatch 
+154.96500 	KDE224 	RM	82.5 PL	DPW 	DPW / Auxillary Police / Animal Control  (Expired Lic)  	FM 	Public Works 
+45.48000 	KNDK505 	B	162.2 PL	FD/EMS Alerting 	Fire/EMS Alerting 	FM 	Fire Dispatch 
+506.32500 	WPRR352 	RM	431 DPL	FD 1 Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+506.95000 	WPRR352 	RM	627 DPL	FD 2 	Alt Dispatch/Fire Ground 	FMN 	Fire-Tac 
+464.71250 	WQVM375  	RM	141.3 PL	EMS Disp 	Pompton Lakes-Riverdale First Aid Squad 	FMN 	EMS Dispatch 
+471.80000 	WPSL377 	RM	115 DPL	PD 1 Disp 	Police 1 Dispatch/EMS Response 	FMN 	Law Dispatch 
+471.65000 	WPSL377 	BM	115 DPL	PD 2 	Police 2 (also Bloomingdale) 	FMN 	Law Tac 
+471.50000 	WPSK589 	RM	043 DPL	OEM 	Emergency Management  	FMN 	Emergency Ops 
+45.76000 	KQU226 	BM	82.5 PL	DPW 	DPW/Road Dept 	FM 	Public Works 
+155.37750 	WPSH256 	RM	127.3 PL	FD Disp 	Fire Disp 	FMN 	Fire Dispatch 
+154.92000 	WPLT258 	RM	103.5 PL	PD Disp 	Police Disp 	FMN 	Law Dispatch 
+156.16500 	KNEN312 	BM	103.5 PL	PD 2 	Police 2 	FMN 	Law Tac 
+154.99500 	KNDL324 	RM	107.2 PL	EMS   	EMS Disp 	FMN 	EMS Dispatch 
+159.11250 	WQCW589 	RM	125 DPL	DPW 	Road Dept/DPW 	FMN 	Public Works 
+154.74750 	KNEK636 	RM	131.8 PL	FD/EMS 1 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.79750 	KNEK636 	RM	162.2 PL	FD/EMS 2/DPW 	Fire/EMS Secondary/DPW 	FMN 	Multi-Tac 
+153.98750 	 	M	631 DPL	Fireground 1 	Fireground 1 	FMN 	Fire-Tac 
+155.00250 	 	M	631 DPL	Fireground 2 	Fireground 2 	FMN 	Fire-Tac 
+158.75250 	 	M	631 DPL	Fireground 3 	Fireground 3 	FMN 	Fire-Tac 
+151.16750 	KNEK636 	RM	100.0 PL	PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+460.36250 	WNXK678 	RM	516 DPL	PD Disp UHF 	Police Dispatch UHF (Multicast of 151.1675) 	FMN 	Law Dispatch 
+151.16750 	KNEK636 	BM	30 RAN	PD Tac 	Police Tactical 	NXDNe 	Law Tac 
+37.16000 	KNEK636 	BM	CSQ	PD 1 Low 	Old Dispatch (Back Up) 	FM 	Law Talk 
+37.90000 	KVN796 	BM	CSQ	EMS Ops 	Ambulance Operations 	FM 	EMS-Talk 
+476.37500 	WPWI830 	RM	206.5 PL	Totowa Fire 	Fire  Disptch 	FMN 	Fire Dispatch 
+477.57500 	WPWI830 	RM	162.2 PL	Totowa PD 	Police Dispatch 	FMN 	Law Dispatch 
+46.52000 	KDK803 	BM	107.2 PL	Totowa EMS 	EMS Dispatch  	FM 	EMS Dispatch 
+45.70000 	KGK666 	BM	151.4 PL	Totowa DPW  	DPW  	FM 	Public Works 
+453.66250 	WQWS765 	RM	155 DPL	Wanaq FD/EMS 	FD/EMS Dispatch 	FMN 	Fire Dispatch 
+453.56250 	WQWS765 	RM	664 DPL	Wanaq PD1 	Police 1 Dispatch/EMS Response 	FMN 	Law Dispatch 
+453.96250 	WQWS765 	M	664 DPL	Wanaq PD 2  	Police 2 (Portables) 	FMN 	Law Tac 
+453.96250 	WQWS765 	M	205 DPL	Wanaq PD Tac 	Police Tactical 	FMN 	Law Tac 
+45.48000 	WQWS765 	BM	CSQ	Wanaq DPW 	Public Works 	FM 	Public Works 
+500.81250 	WQMH982  	RM	192.8 PL	Wayne Fire 1 	Fire Ch. 1 Dispatch 	FMN 	Fire Dispatch 
+501.06250 	WQMH982  	RM	192.8 PL	Wayne Fire 2 	Fire Ch. 2 	FMN 	Fire-Talk 
+453.61250 	WQYR417 	M	192.8 PL	Wayne FG 	Fireground 	FMN 	Fire-Tac 
+155.73750 	WQFJ478 	RM		WMilford FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+46.38000 	WPCQ551 	BM	156.7 PL	WMilford FD 	Fire Dispatch  	FM 	Fire Dispatch 
+46.28000 	WPCQ551 	BM	CSQ	WMilfordFSFG 	Fireground  	FM 	Fire-Tac 
+155.66250 	WQFJ478 	RM	85.4 PL	WMilford PD1 	Police Channel 1  	FMN 	Law Dispatch 
+37.02000 	KZM737 	RM	146.2 PL	WMilford PD1 	PD 1 Dispatch/EMS response 	FM 	Law Dispatch 
+45.96000 	  	BM	CSQ	WMilford EMS 	EMS 	FM 	EMS Dispatch 
+477.75000 	WPSJ357 	RM	606 DPL	WP Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+471.25000 	WPRG725 	RM	606 DPL	WP Police 1  	Police 	FMN 	Law Dispatch 
+472.82500 	WPRG725 	RM	606 DPL	WP EMS/PD 2 	EMS Dispatch (Police/Fire Ch. 2) 	FMN 	EMS Dispatch 
+46.52000 	KDK803 	BM	CSQ	WP EMS LB  	EMS Low Band Tac 	FM 	EMS-Tac 
+470.51250 	KZR874 	RM	82.5 PL	EC FMA 	Essex Countywide Fire Mutual Aid 	FMN 	Interop 
+46.40000 	WQHB946 	BM	CSQ	PCMAA 1  	Operations Ch 1 	FM 	Fire-Talk 
+46.38000 	 	BM	CSQ	PCMAA 2  	Fireground Ch 2 	FM 	Fire-Tac 
+46.44000 	KEF202 	BM	CSQ	PCMAA 3 	Fireground Ch 3 	FM 	Fire-Tac 
+46.40000 	WQHB946 	M	131.8 PL	PCMAA/SUX 	Mutual Aid to Sussex County 	FM 	Fire-Talk 
+45.48000 	 	BM	CSQ	FD-EMS 1 	Fire & EMS Dispatch 	FM 	Fire Dispatch 
+46.38000 	 	BM	CSQ	FD Mutual 	Fire Mutual Aid 	FM 	Fire-Tac 
+46.44000 	 	BM	CSQ	CW Firegrnd 	Fireground Operations 	FM 	Fire-Tac 
+155.17500 	WPCC879 	BM	100.0 PL	ALS Disp 	ALS Dispatch (Bergen, Passaic, Eastern Morris) 	FMN 	EMS Dispatch 
+155.34000 	WPCC879 	BM		JEMS-2 	EMS to Hospital 	FMN 	Interop 
+155.28000 	WPCC879 	BM	100.0 PL	JEMS-3 	Statewide Disaster 	FMN 	Interop 
+155.38500 	WPCC879 	BM	162.2 PL	JEMS-5 	Operations Alternate 	FMN 	EMS-Tac 
+462.95000 	WPCC879 	RM	192.8 PL	Med-9 	MED-9 	FMN 	EMS-Talk 
+462.97500 	WPCC879 	RM	192.8 PL	Med-10 	MED-10 	FMN 	EMS-Talk 
+452.30000 	WQOK928 	RM		Hatz 3000 	Hatzolah 3000 	DMRE 	EMS-Tac 
+452.36250 	WQOK928 	RM		Hatz 3625 	Hatzolah 3625 	DMRE 	EMS-Tac 
+451.45000 	WQOK928 	RM		Hatz 4500 	Hatzolah 4500 	DMRE 	EMS-Tac 
+152.99750 	WQNF590 	RM	151.4 PL	Buses 	BOE/School Buses 	FMN 	Schools 
+464.75000 	WQBI225 	RM	165 DPL	BOE Ops WW 	BOE Operations and Administration (WWMS) 	FMN 	Schools 
+464.38750 	WQBI225 	RM	123.0 PL	BOE Ops CC 	BOE Operations and Administration (CCMS) 	FMN 	Schools 
+463.91250 	WQBI225 	RM		Clftn HS Mnt 	BOE Maint High School 	FMN 	Schools 
+464.57500 	WQBI225 	RM		Clftn HS Sec 	BOE Secuirty High School 	FMN 	Schools 
+452.18750 	WQBI225 	M		Maint 	BOE Maint 	FMN 	Schools 
+451.41250 	WQBI225 	M		Admin 	BOE Admin Services 	FMN 	Schools 
+462.82500 	WRAF816 	B		BOE Paging 	BOE Paging 	Telm 	Data 
+465.00000 	WRAX342 	B		CCMS Paging 	Christopher Columbus MS Paging 	Telm 	Data 
+453.76250 	WPLT985 	RM	025 DPL	PCVHS Sec 	PC Vocational High School   	FMN 	Security 
+471.00000 	WPRG293 	RM		PCVHS Maint 	PC Vocational High School - Maintanence 	FMN 	Schools 
+464.50000 	 	RM	162.2 PL	PCCC  Sec 	Passaic County College - Security 	FM 	Security 
+464.83750 	WQOL205 	BM	606 DPL	PCCC Maint 	Passaic County Community College (Maint)  	FMN 	Schools 
+463.87500 	WPXY749 	RM	CC 1TG *SL *	Hawthrn BOE 	Operations 	DMR 	Schools 
+464.90000 	WPAM930 	RM	364 DPL	BOE OPS 	School Admin & Maintenance 	FMN 	Schools 
+451.40000 	WQBV613 	RM		PS 1 	School Security 1 	FMN 	Security 
+452.35000 	WQBV613 	RM		PS 2 	School Security 2 	FMN 	Security 
+461.57500 	WQBV613 	RM		PS 3 	School Security 3 	FMN 	Security 
+463.27500 	WQBV613 	RM		PS 4 	School Security 4 	FMN 	Security 
+46.04000 	WPKF833 	BM		BOE/Buses 	Board of Education / Buses 	FM 	Schools 
+45.92000 	KNNM528 	BM		Rgwd SchBus 	School Buses 	FM 	Schools 
+152.32250 	WQMJ462 	RM	CC 0TG *SL *	BOE Bus 	School Bus Operations 	DMR 	Schools 
+153.08750 	WQMJ462 	RM	CC 0TG *SL *	BOE Ops 	Operations 	DMR 	Schools 
+Atlantic Telecommunications	 LTR Net	 Various	Atlantic Telecommunications 1	 LTR Standard	 Various	Bloomingdale Borough	 DMR Conventional Networked
+ Bloomingdale	County Wide Emergency Services	 DMR Conventional Networked	 Passaic	First Energy	 Project 25 Phase I	 Various	New Jersey Interoperability Communications System (NJICS)
+ Project 25 Phase II	 Statewide	New Jersey State Police	 Motorola Type II SmartZone Omnilink	 Statewide	New Jersey Transit	 TETRA Standard	 Statewide
+New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide	NJ-TRBO Linked Amateur Radio Network	 DMR Conventional Networked	 Various	NY Metro DMR Repeater Network	 DMR Conventional Networked
+ Regional	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Public Service Electric and Gas Company	 Project 25 Phase II	 Various	Spectrum Communications
+ DMR Conventional Networked	 Randolph	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Wayne Township	 Project 25 Phase I	 Wayne Township

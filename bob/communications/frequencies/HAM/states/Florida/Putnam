@@ -1,0 +1,50 @@
+154.87500 	KIC805 	RM	155 DPL	PCSO1 Pri 	Sheriff Primary 	FM 	Law Dispatch 
+158.88000 	KIC805 	RM	155 DPL	PCSO2 Tac 	Sheriff Tactical 	FM 	Law Tac 
+150.99500 	KIC805 	RM	155 DPL	PCSO3 Ops 	Sheriff Operations 	FM 	Law Tac 
+158.73000 	KD2179 	RM	173.8 PL	PCSO4 	Sheriff 	FM 	Law Tac 
+155.13000 	KIC805 	RM	173.8 PL	PCSO5  	Sheriff 	FM 	Interop 
+151.62500 	 	M	162.2 PL	PCSO Court 	Courthouse Security 	FM 	Security 
+155.97000 	 	M	162.2 PL	PCSO Bailiff 	Bailiffs 	FM 	Security 
+151.40000 	KWH431 	RM	131 DPL	Putnam ES1 	Central Operations 	FM 	Fire Dispatch 
+153.99500 	KWH431 	RM	065 DPL	Putnam ES2 	East Operations 	FM 	Fire Dispatch 
+156.12000 	KWH431 	RM	516 DPL	Putnam ES3 	Primary Operations 	FM 	Fire Dispatch 
+154.35500 	KIS622 	BM	94.8 PL	Putnam ES4 	Tactical 4 	FM 	Fire-Tac 
+154.21250 	KWH431 	BM	82.5 PL	Putnam ES5 	Tactical 5 	FM 	Fire-Tac 
+154.39250 	KWH431 	BM	82.5 PL	Putnam ES6 	Tactical 6 	FM 	Fire-Tac 
+154.01000 	KIC805 	BM	82.5 PL	Putnam ES7 	Tactical 7 	FM 	Fire-Tac 
+155.61750 	KWH431 	BM	82.5 PL	Putnam ES8 	Tactical  8 	FM 	Fire-Tac 
+151.37000 	KWH431 	BM	82.5 PL	Putnam ES9 	Air Units 	FM 	Fire-Tac 
+154.19000 	KIS622 	BM	CSQ	Putnam ES10 	Paging 	FM 	Fire Dispatch 
+155.82750 	KWH431 	RM	243 DPL	Putnam ES11 	West Operations 	FM 	Fire-Tac 
+154.45250 	KWH431 	RM	032 DPL	Putnam ES12 	Tactical 12 	FM 	Fire-Tac 
+155.16000 	KWH431 	RM	162.2 PL	Putnam ES16 	Incident Coordination 	FM 	Fire-Tac 
+463.00000 	WPBV660 	BM		MED1 	EMS 	FM 	EMS-Tac 
+463.02500 	WPBV660 	BM		MED2 	EMS 	FM 	EMS-Tac 
+463.05000 	WPBV660 	BM		MED3 	EMS to AGH ER 	FM 	Hospital 
+463.07500 	WPBV660 	BM	167.9 PL	MED4 	EMS to Putnam Community Medical Center 	FM 	Hospital 
+463.10000 	WPBV660 	BM		MED5 	EMS 	FM 	Hospital 
+463.12500 	WPBV660 	BM		MED6 	EMS to NFRMC ER and Jacksonville ERs 	FM 	Hospital 
+463.15000 	WPBV660 	BM		MED7 	EMS to Jacksonville ERs 	FM 	Hospital 
+463.17500 	WPBV660 	BM		MED8 	EMS Statewide Mutual Aid/ EMS to Gainesville Va Medical Center 	FM 	Interop 
+460.12500 	WPUC522 	RM		PC EOC 	Emergency Management 	FM 	Interop 
+151.04000 	KBY375 	RM	94.8 PL	Road Dept. 	Road Department 	FM 	Public Works 
+151.10000 	KBY375 	RM	94.8 PL	Road Dept. 	Road Department 	FM 	Public Works 
+453.72500 	KNFF700 	RM	141.3 PL	Housing Auth 	Housing Authority 	FM 	Other 
+46.52000 	KNGV847 	RM	114.8 PL	PCSD Disp 	School Buses 	FM 	Schools 
+151.65500 	 	M	85.4 PL	EH Miller 	EH Miller School 	FM 	Schools 
+151.80500 	WPDR557 	M		InterlachnHS 	Interlachen High School 	FM 	Schools 
+151.80500 	 	M	77.0 PL	Beasley Midd 	Beasley Middle School 	FM 	Schools 
+154.51500 	WQFR937 	BM	67.0 PL	Mellon Elem 	Mellon Elementary 	FM 	Schools 
+154.57000 	 	M	123.0 PL	J.A Long Ele 	J.A Long Elementary 	FM 	Schools 
+155.02500 	WPPU843 	BM		C City W&S 	Water and Sewer Department 	FM 	Utilities 
+155.10000 	KKV618 	BM		Interlachen 	Services 	FM 	Public Works 
+154.75500 	KVR873 	RM	173.8 PL	PalatkaPD1 	Police Primary 	FM 	Law Dispatch 
+154.04000 	KVR873 	M	156.7 PL	PalatkaPDDET 	Police Detectives 	FM 	Law Tac 
+158.88000 	KVR873 	RM	94.8 PL	PalatkaPDTac 	Police Tactical 	FM 	Law Tac 
+155.43000 	KVR873 	M	CSQ	PalatkaPDTA 	Police Talkaround 	FM 	Law Talk 
+151.40000 	KWH431 	RM	141.3 PL	PalatkaFD1 	Fire Dispatch 	FM 	Fire Dispatch 
+154.35500 	KIS622 	BM	94.8 PL	PalatkaFDTA 	Fireground 	FM 	Fire-Tac 
+153.80000 	KIY385 	RM	156.7 PL	Palatka PW 	Public Works 	FM 	Public Works 
+158.83500 	KFF304 	RM	146.2 PL	Bldg & Zonin 	Building and Zoning 	FM 	Public Works 
+Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various	Florida Power and Light (P25)	 Project 25 Phase II	 Varies	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I
+ Statewide	

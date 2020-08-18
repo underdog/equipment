@@ -1,0 +1,63 @@
+155.10000 	KXB489 	RM	141.3 PL	SO Central 	Sheriff - Central Tower 	FMN 	Law Dispatch 
+155.87250 	KXB489 	RM	136.5 PL	SO South 	Sheriff - South Tower 	FMN 	Law Dispatch 
+155.90250 	KXB489 	RM	146.2 PL	SO North 	Sheriff - North Tower 	FMN 	Law Dispatch 
+155.01000 	KXB489 	BM	CSQ	SO Car-Car 	Sheriff - car to car 	FMN 	Law Talk 
+153.98000 	 			Sheriff1 	Sheriff 	FMN 	Law Talk 
+153.98750 	KXB489 			Sheriff5 	Sheriff 	FMN 	Law Talk 
+154.05500 	KDL877 	B		Sheriff2 	Sheriff 	FMN 	Law Talk 
+155.86500 	 			Sheriff3 	Sheriff 	FMN 	Law Talk 
+155.89500 	 			Sheriff4 	Sheriff 	FMN 	Law Talk 
+460.25000 	KXB489 	RM		SheriffUHF 	Sheriff 	FMN 	Law Talk 
+154.05500 	KDL877 	B	136.5 PL	EMA Central 	EMA Central Tower 	FM 	Emergency Ops 
+154.35500 	 	BM	146.2 PL	EMA South 	EMA South Tower 	FM 	Emergency Ops 
+155.31000 	 	BM	141.3 PL	EMA North 	EMA North Tower 	FM 	Emergency Ops 
+154.05500 	KDL877 	B	CSQ	EMA T/A 	EMA Talk Around 	FM 	Emergency Ops 
+154.51500 	KNBP267 	B		TAMC Paging 	The Aroostook Medical Center Paging System Presque Isle(includes hospital based ems) 	FM 	Hospital 
+155.17500 	WNBN878 	R		Crown Amb 	Crown Ambulance (Dispatched by TAMC) 	FM 	EMS Dispatch 
+154.40000 	KNBA692 	B	CSQ	Allagash FD 	Allagash Fire 	FMN 	Fire Dispatch 
+155.08500 	WPSP797 	RM		Ashland PD 	Ashland Police Department 	FM 	Law Dispatch 
+154.34000 	KNIS939 	B	114.8 PL	Caribou Fire 	Caribou Fire Department 	FMN 	Fire-Talk 
+453.25000 	KNIS939 	F	CSQ	CFD Link 	Caribou Fire link 	FMN 	Fire Dispatch 
+155.59500 	KNAU533 	BM	192.8 PL	Caribou PD 	Caribou Police 	FMN 	Law Dispatch 
+155.20500 	WPKJ817 	M	CSQ	CL Schools 	RSU #39 Caribou Limestone Schools 	FMN 	Schools 
+158.74500 	WNYA367 	BF	CSQ	Eagle Lk FD 	Eagle Lake Fire 	FMN 	Fire Dispatch 
+154.01000 	WNUZ480 	BM	192.8 PL	MH Fire 	Mars Hill Fire 	FMN 	Fire Dispatch 
+154.17500 	WNPM699 	BM	CSQ	N Lakes Fire 	North Lakes Fire & Rescue (Madawaska Lake, Sinclair, Cross Lake) 	FMN 	Fire Dispatch 
+155.77500 	WQJA894 	F	179.9 PL	Stockholm FD 	Stockholm Fire 	FMN 	Fire Dispatch 
+154.19000 	WNLQ544 	B	192.8 PL	FF FD 	Fort Fairfield Fire Department 	FMN 	Fire-Talk 
+460.57500 	WNLQ544 	F	192.8 PL	FFFD Link 	Fort Fairfield FD link 	FMN 	Fire Dispatch 
+155.59500 	KCB574 	B	141.3 PL	FFPD Car 	Fort Fairfield Police Car 2 Car 	FMN 	Law Talk 
+158.74500 	WNYA367 	BF	192.8 PL	FF Gov 	Fort Fairfield Local Government 	FMN 	Public Works 
+153.96500 	WPZS645 	R	192.8 PL	FF DPW 	Fort Fairfield DPW 	FMN 	Public Works 
+155.16000 	 	BM	146.2 PL	FF Schools 	MSAD #20 Fort Fairfield Schools 	FMN 	Schools 
+152.90000 	WQCG495 	BM	100.0 PL	FK Water 	Fort Kent Water Department 	FMN 	Public Works 
+155.14500 	WNSL527 	BM	179.9 PL	Fort Kent FD 	Fort Kent Fire Department 	FM 	Fire-Talk 
+155.25000 	WQO431 	B	179.9 PL	Ft Kent PD 	Fort Kent Police Department 	FMN 	Law Dispatch 
+156.11250 	WNSL527 	RM	210.7 PL	FortKentF 	Fort Kent Fire and Rescue 	FMN 	Fire-Tac 
+154.13000 	WNLF719 	BM	CSQ	FrenchvileFD 	Frenchville Fire Department 	FM 	Fire-Talk 
+154.44500 	WNPH476 	BM	192.8 PL	GrandIsleFD 	Grand Isle Fire Department 	FM 	Fire-Talk 
+154.23500 	WPEB992 	B	192.8 PL	Hodgdon FD 	Hodgdon Fire local 	FMN 	Fire-Talk 
+154.20500 	WNKB217 	B	192.8 PL	Houlton FD 	Houlton Fire 	FMN 	Fire Dispatch 
+155.25000 	WQO431 	B	192.8 PL	Houlton PD 	Houlton Police 	FMN 	Law Dispatch 
+155.38500 	KSM989 	BMF	103.5 PL	Houlton Amb 	Houlton Ambulance 	FMN 	EMS Dispatch 
+154.11500 	 	B	CSQ	IF FD/Amb 	Island Falls Fire  	FMN 	Fire Dispatch 
+155.31750 	WQXQ381 	F	100.0 PL	Limestone FD 	Limestone Fire Department 	FMN 	Fire Dispatch 
+154.11500 	KBI787 	B	192.8 PL	Limestone PW 	Limestone Public Works 	FMN 	Public Works 
+154.40000 	KNBA692 	B	CSQ	Linneus FD 	Linneus Fire local 	FMN 	Fire-Talk 
+154.96500 	WPXM284 	B	CSQ	Littleton PW 	Littleton Public Works / Fire 	FMN 	Public Works 
+154.04000 	KNAT207 	RM	123.0 PL	MadawaskaPD 	Madawaska Police Department 	FM 	Law Talk 
+154.10000 	KNAK582 	BM	192.8 PL	MadawaskaFD 	Madawaska Fire Department 	FM 	Fire-Talk 
+155.07000 	WQHU512 	R	127.3 PL	Madswska EMS 	Madawaska Ambulance Service 	FM 	EMS-Talk 
+154.16000 	WNGZ688 	R	192.8 PL	Mapleton FD 	Mapleton Fire Department 	FM 	Fire-Talk 
+154.02500 	KNGH375 	B	CSQ	MonticelloPW 	Monticello Public Works / Fire 	FMN 	Public Works 
+155.95500 	KNHY347 	RM	413 DPL	Portage FD 	Portage Fire 	FMN 	Fire Dispatch 
+154.38500 	KCA288 	BM	192.8 PL	PIFD 	Presque Isle Fire Department 	FM 	Fire Dispatch 
+156.19500 	KCB365 	BM	100.0 PL	PIPD 	Presque Isle Police Department 	FMN 	Law Dispatch 
+154.22000 	WQKL751 	BM	114.8 PL	Sherman FD 	Sherman Fire Department 	FMN 	Fire-Talk 
+154.40000 	KNBA692 	B	CSQ	Sherman FD 	Sherman Fire Department 	FMN 	Fire-Talk 
+154.38500 	KCA288 	B	192.8 PL	StAgatha FD 	St. Agatha Fire Department 	FM 	Fire-Talk 
+154.14500 	KNNU603 	B	192.8 PL	StFrancisFD  	St. Francis Fire 	FMN 	Fire Dispatch 
+154.02500 	KNGH375 	B	192.8 PL	VanBuren FD 	Van Buren Fire  	FM 	Fire-Talk 
+156.21000 	KDY356 	R	151.4 PL	Washburn FD 	Washburn Fire Department 	FM 	Fire-Talk 
+Atlantic Communications	 LTR Standard	 Various	Atlantic Communications	 DMR Conventional Networked	 Various	Central Maine Power	 LTR Standard
+ Various	Maine State Communications Network (MSCommNet)	 Project 25 Phase I	 Statewide	

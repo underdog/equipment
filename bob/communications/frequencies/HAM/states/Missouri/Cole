@@ -1,0 +1,53 @@
+851.93750 	WQQI366 	RM		Cole Sheriff MX 	Mobile Extenders (to MOSWIN?) 	P25 	Law Dispatch 
+155.58000 	KNIL603 	RM	192.8 PL	Cole Sheriff 1  	Sheriff: Dispatch [See MOSWIN*] 	FMN 	Law Dispatch 
+155.97000 	KNIL603 	M		Cole Sheriff c2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+153.89000 	KUQ903 	RM	88.5 PL	Cole Fire 	Fire/First Responders: Dispatch 	FMN 	Fire Dispatch 
+155.40000 	KXL292 	BM	88.5 PL	Cole EMS 	EMS: Dispatch - Main  	FMN 	EMS Dispatch 
+159.12000 	WPWT943 	RM	136.5 PL	Cole Highway 	Highway Department 	FMN 	Public Works 
+453.17500 	WPRF498 	F		Cole Co Fire1  	Fire: Remote Link - Jeff City 	FMN 	Fire Dispatch 
+453.50000 	WPRF498 	F		Cole Co Fire 2 	Fire: Remote Link - Osage Bend 	FMN 	Fire Dispatch 
+453.95000 	WPMP735 	F		Cole Co Fire3  	Fire: Remote Link 	FMN 	Fire Dispatch 
+151.68500 	WNW521 	RM		CRMG Ops 	Operations 	FMN 	Business 
+155.40000 	KXL292 	BM	88.5 PL	HEAR400 88.5 	Patient Reports 	FMN 	Hospital 
+155.34000 	KXL292 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+152.33000 	WPNR776 	RM		SMHC Ops-1 	Maintenance/Housekeeping/Security/Admin (was 452.075) 	FMN 	Business 
+152.93000 	WPNR776 	RM		SMHC Ops-2 	Maintenance/Housekeeping/Security/Admin 	FMN 	Business 
+155.34000 	WQPC962 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+173.26250 	WQGR335 	F		PWSD1 Cole 	Public Water Supply District #1 of Cole County: Water Data  	Telm 	Data 
+154.86000 	WPFE756 	RM	192.8 PL	JffC Police1 	Police [Ch 1] 	FMN 	Law Dispatch 
+156.21000 	KAA552 	RM	192.8 PL	JffC Police3 	Police: Dispatch [Ch 3] 	FMN 	Law Dispatch 
+453.27500 	KUB844 	RM		JffC Parking 	Parking Division 	FMN 	Public Works 
+158.83500 	KNDE685 	BM		JeffCity EMA 	Emergency Management 	FMN 	Emergency Ops 
+855.73750 	WQZY637 	M	NAC 659	JC Fireground 1 	Fireground #1 	FMN 	Fire-Tac 
+855.96250 	WQZY637 	M	NAC 659	JC Fireground 2 	Fireground #2 	FMN 	Fire-Tac 
+154.40000 	KRF431 	RM	192.8 PL	JffC Fire 1 	Fire [Ch 1] 	FMN 	Fire Dispatch 
+155.83500 	WQDI470 	RM		JffC FireNew 	Fire: Future 	FMN 	Fire Dispatch 
+153.95000 	KRF431 	M		JffC FD FG 1 	Fire 	FMN 	Fire-Tac 
+155.11500 	WPQG833 	M		JffC FD FG 2 	Fire 	FMN 	Fire-Tac 
+458.91250 	WPQG833 	M		JffC Fire RF 	Fire (Extender or Remote Link) 	FMN 	Fire-Tac 
+460.51250 	KRF431 	M		JffC FD RF2 	Fire: Remote Links or Mobile Extender 	FMN 	Fire-Tac 
+153.89000 	KXL292 	RM	88.5 PL	Cole EMS  	EMS: Dispatch 	FMN 	EMS Dispatch 
+154.10000 	KDL859 	RM	192.8 PL	JffC PubWrk1 	Public Works 	FMN 	Public Works 
+153.78500 	WPIG986 	M		JffC PubWrk2 	Public Works 	FMN 	Public Works 
+452.62500 	WZY340 	RM	192.8 PL	JeffTran Transit 	JeffTran - Handi-Wheels Paratransit Service 	FMN 	Transportation 
+460.58750 	WQCU448 	RM		JffC Prk/Rec 	Parks and Recreation 	FMN 	Public Works 
+453.80000 	WPMP734 	F		OsageFire RF 	Fire: Remote Link (FX2) 	FMN 	Fire Dispatch 
+154.78500 	WQFA910 	RM		OCAD EMS 1 	EMS: Dispatch (Bland - Gasgonade Co) 	FMN 	EMS Dispatch 
+460.55000 	WQFA910 	F		OCAD RF 	EMS: Remote Link to 154.785R (JeffCity) 	FMN 	EMS Dispatch 
+155.20500 	WQFA910 	BM		OCAD EMS 2 	EMS (JeffCity) 	FMN 	EMS Dispatch 
+154.20500 	WPBY313 	BM		RegW FireTac 	Fire: Tac (Saint Martins) 	FMN 	Fire-Tac 
+453.60000 	WPMR399 	RM		RegWest Fire U 	Fire: Remote Link? 	FMN 	Fire-Tac 
+453.85000 	WPMP733 	F		Rsslvil Fire 	Fire: Remote Link 	FMN 	Fire-Tac 
+155.23500 	WQDY482 	BM	141.3 PL	FS Buses JC 	First Student: School Buses (JeffCity) 	FMN 	Schools 
+152.41250 	WQIX753 	RM		JCity School 	Operations 	FMN 	Schools 
+453.32500 	WNQK547 	RM	146.2 PL	LUniv Ops 	Operations 	FMN 	Schools 
+460.41250 	WNQK547 	M		LUniv Ops 2 	Operations 	FMN 	Schools 
+453.77500 	WQAS237 	RM		MDHSS JC 1 	Health and Senior Services 	FMN 	Public Works 
+458.15000 	WPZR877 	M		MDHSS JC 2 	Health and Senior Services 	FMN 	Public Works 
+458.42500 	WPUJ904 	M		MDHSS JC 3 	Health and Senior Services 	FMN 	Public Works 
+153.85250 	WQIB213 	M		DMHJeffCity1 	Department of Mental Health (1706 E Elm Street) 	FMN 	Public Works 
+453.96250 	WQAS433 	M		DMHJeffCity2 	Maintenenance (1706 E Elm Street) 	FMN 	Public Works 
+154.74000 	WZJ462 	RM	146.2 PL	 MSC Police 	Police (State Capitol Complex-Jeff City) 	FMN 	Law Dispatch 
+155.05500 	WPKR957 	BM		MO Senate 	Senate 	FMN 	Public Works 
+KC Wireless (Kansas City)	 LTR Standard and Passport	 Kansas City	Missouri State Capitol Office Complex (Jefferson City)	 LTR Standard	 Jefferson City	Three Rivers Electric Cooperative (MO)	 DMR Tier 3
+ East Central MO	WirelessUSA (Columbia) 	 Motorola Type II Smartnet	 Columbia	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	

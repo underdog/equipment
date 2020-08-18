@@ -1,0 +1,134 @@
+453.36250 	WQLU403 	RM		Taz Shrf Pk1 	Sheriff: Operations (TazComm-Pekin) 	FMN 	Law Talk 
+453.53750 	WQLU403 	RM	186.2 PL	Taz Shrf Pk2 	Sheriff: Operations (Jail-Pekin) 	FMN 	Law Talk 
+453.51250 	WQLU403 	RM		Taz Shrf Grv 	Sheriff: Operations (JamesMoyer-Groveland) 	FMN 	Law Talk 
+154.25000 	 	BM	186.2 PL	TazC FD 1862 	Fire: Countywide Dispatch 	FMN 	Fire Dispatch 
+154.25000 	 	BM		TazC 154.25F 	Fire: Hopedale, Minier, Tremont, Mackinaw, North Pekin (CTCSS tones vary by agency) 	FMN 	Fire-Tac 
+154.34000 	 	BM	CSQ	TazFD 34 CSQ 	Fire: Tone-Outs  	FMN 	Fire Dispatch 
+154.20500 	 	BM		TazC 154205 	Fire: Washington, South Pekin, Cincinatti, Deer Creek (CTCSS tones vary by agency) 	FMN 	Fire-Tac 
+154.34000 	 	RM	151.4 PL	Taz Fire434B 	Fire/EMS: Dispatch (heard "on 129, crew en route") 	FMN 	Fire Dispatch 
+154.34000 	 	BM	77.0 PL	Taz Fire 434 	Fire: Forman, Green Valley, Delavan 	FMN 	Fire-Tac 
+154.99500 	KLD838 	BM	179.9 PL	Morton Fire 	Fire: Morton 	FMN 	Fire Dispatch 
+457.35000 	 	F	151.4 PL	Taz RF 151.4 	Fire: Remote Transmit Link (to ?? tower) (for N Taz Fire?) 	FMN 	Fire Dispatch 
+465.57500 	KWS473 	F	118.8 PL	Taz RF 118.8 	Fire: Dispatcher (Remote Link TzCm/911 to ?, Minier) 	FMN 	Fire Dispatch 
+453.05000 	WNUX718 	RM	100.0 PL	Taze Highway 	Highway Department (Tremont) 	FMN 	Public Works 
+453.42500 	WPYS230 	B		Taze HD GPS 	Highway Department: GPS/RTK (Temporary Digital Base) 	Telm 	Data 
+155.07000 	WPZQ758 	RM	131.8 PL	Tazw EMA-N 	EMA: North Tower (East Peoria) 	FMN 	Emergency Ops 
+155.07000 	WPZQ758 	RM	123.0 PL	Tazw EMA-S 	EMA: South Tower (Tremont) 	FMN 	Emergency Ops 
+155.64000 	WPZQ758 	BM	100.0 PL	Tazw SAR/Dis 	Search and Rescue/Disaster: Field Ops 	FMN 	Emergency Ops 
+152.28500 	WQBB433 	M	88.5 PL	I-WARN 1 	Illinois Weather Alert Radio Network 	FMN 	Emergency Ops 
+155.20500 	WQCI585 	BM	210.7 PL	SARMA 	Search and Rescue Mutual Aid (I-WARN) 	FMN 	Emergency Ops 
+152.00750 	WPVW318 	B		AMT EMS PG 	EMS: Digital/Text Paging (CSQ) 	Telm 	Data 
+152.37500 	WPIK273 	RM	136.5 PL	HMC Maint 	Maintenance 	FMN 	Business 
+155.22000 	WQCM764 	BM		HMC EMS 522 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.34000 	WQCM764 	B	85.4 PL	MERCI1 85.4 	 	FMN 	Hospital 
+155.34000 	WQAW319 	B	97.4 PL	MERCI1 97.4 	Patient Reports 	FMN 	Hospital 
+155.10000 	KLI328 	BM		NTaz Water 	North Tazewell Public Water District 	FMN 	Public Works 
+158.80500 	WNLB885 	BM		GrvldTwp Road  	Groveland Township Roads 	FMN 	Public Works 
+453.82500 	WNFB523 	RM	127.3 PL	CinTwp Roads  	Cincinatti Township Roads (Pekin) 	FMN 	Public Works 
+452.22500 	WPNS334 	F		GrlndTwp Road  	Groveland Township: Water Data (N Pekin, Groveland) 	Telm 	Data 
+453.38750 	KLI328 	F		NTaz WtrData 	North Tazewell Public Water District 	Telm 	Data 
+154.31000 	KSE592 	BM	CSQ	Arm*Fire/Rsq 	Fire: Paging (By Phone; Mon 5pm Test) 	FMN 	Fire Dispatch 
+154.31000 	WQEV548 	RM	103.5 PL	Arm Fire/Rsq 	Fire / Rescue: Dispatch 	FMN 	Fire Dispatch 
+155.62500 	WPNQ495 	BM		ArmingtonOps 	Village Operations 	FMN 	Public Works 
+154.20500 	KNDK523 	BM	103.5 PL	Cincinati FPD  	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.86500 	KDZ313 	BM	167.9 PL	CrCo Fire/Rsq  	Fire/Rescue: Paging / Dispatch 	FMN 	Fire Dispatch 
+155.43000 	KDZ313 	BM	167.9 PL	CrCo Maintenance 	Maintenance 	FMN 	Public Works 
+453.55000 	KCN993 	RM	100.0 PL	DrCrk Police 	Police: Dispatch (DB: WOODCOM) 	FMN 	Law Dispatch 
+153.87500 	WQGH690 	M	156.7 PL	DCrk Police MX  	Police: Mobile Extender (to Tazcom EDACS TG 02-021) (was listed as CSQ) 	FMN 	Law Dispatch 
+153.90500 	WQGH690 	M		DCrk PD c2c 	Police: Mobiles 	FMN 	Law Tac 
+154.84500 	WPEC590 	RM	123.0 PL	DeerCrk Fire 	Fire/Rescue: Dispatch 	FMN 	Fire Dispatch 
+154.20500 	WPEC590 	BM	179.9 PL	DrCreek Fire 	Fire (RF Linked to Morton Dispatch) 	FMN 	Fire-Tac 
+460.61250 	WPEC590 	M		DrCrkFireRF1 	Remote Recieve Link - Morton 	FMN 	Fire Dispatch 
+465.61250 	WPEC590 	M		DrCrkFireRF2 	Remote Recieve Link - Fire Station to Morton 	FMN 	Fire Dispatch 
+154.20500 	WPEC590 	BM	CSQ	Tazcomm Fire 	Fire (non-RF Linked) 	FMN 	Fire Dispatch 
+154.34000 	WQUX220 	BM	77.0 PL	Taz Fire 434 	Fire: Dispatch 	FMN 	Fire Dispatch 
+452.35000 	WQUX220 	F		Del Fire RF1 	Remote Receive Link (from 154.34 Delavan to TAZCOM) 	FMN 	Fire Dispatch 
+457.35000 	WQUX220 	F	151.4 PL	Del Fire RF2 	Remote Receive Link (from TAZCOM to 154.34 out) 	FMN 	Fire Dispatch 
+453.77500 	WPIT785 	RM		Del Util/Srv 	Utilities / Services 	FMN 	Public Works 
+460.42500 	KTA864 	RM	127.3 PL	EPeo Police1 	Police: Events/Alternate [Ch 1] 	FMN 	Law Tac 
+460.07500 	KTA864 	RM	127.3 PL	EPeo Police2 	Police: Primary [Ch 2] (simulcast on Peoria Co TRS TG 421) 	FMN 	Law Dispatch 
+460.22500 	WQOR240 	RM	100.0 PL	EPeoPDsmlcst 	Police: Dispatch (simulcast of 460.075) 	FMN 	Law Dispatch 
+151.43000 	KLP540 	RM	151.4 PL	EPeoria Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+460.58750 	KLP540 	M		EPeo Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+154.02500 	KCT644 	RM	100.0 PL	EPeo PW/Str 	Public Works / Street Department 	FMN 	Public Works 
+453.66250 	KCT644 	F	165.5 PL	EPeo 4536625 	Mobile Data Terminals/Water Data? 	FMN 	Data 
+458.66250 	KCT644 	F		EPeo 4586625 	Data (CSQ) 	Telm 	Data 
+159.25500 	WPKZ954 	BM		FondulacPark 	Park Maintenance 	FMN 	Public Works 
+154.34000 	KNCC806 	BM	77.0 PL	Taz Fire 434 	Fire: Dispatch 	FMN 	Fire Dispatch 
+452.35000 	KNCC806 	F	85.4 PL	GV Fire RF 1 	Remote Receive Link (from 154.34 Green Valley to TAZCOM) 	FMN 	Fire Dispatch 
+457.35000 	KNCC806 	F	85.4 PL	GV Fire RF2A 	Remote Transmit Link (from TAZCOM to Green Valley) 	FMN 	Fire Dispatch 
+457.35000 	KNCC806 	F	173.8 PL	GV Fire RF2B 	Remote Transmit Link (from TAZCOM to Green Valley) 	FMN 	Fire Dispatch 
+154.25000 	WQBI987 	BM	186.2 PL	TazC FD 1862 	Fire: Dispatch (see wiki) 	FMN 	Fire Dispatch 
+158.82000 	WPMJ642 	RM	123.0 PL	Macknw Fire 	Mackinaw Fire: Tone-Outs / Dispatch 	FMN 	Fire Dispatch 
+159.31500 	KWS473 	RM		LMack Fire* 	Little Mackinaw Fire: New 	FMN 	Fire Dispatch 
+460.57500 	KWS473 	F		LMac FireRF1 	Fire: Remote Link to Peoria (Minier) 	FMN 	Fire Dispatch 
+465.57500 	KWS473 	F	85.4 PL	LMac FireRF2 	Fire: Remote Link to Dispatch (from TazComm Peoria) 	FMN 	Fire Dispatch 
+154.25000 	WPMJ642 	BM	85.4 PL	TazC FD 85.4 	Fire: to TAZCOM (via 452.35 85.4 PL RF Link) (MFPD) 	FMN 	Fire Dispatch 
+452.35000 	 	F	85.4 PL	Mack FireRF1 	Fire: Remote Receive Link (154.25 receive at Mackinaw to TAZCOM) (MFPD) 	FMN 	Fire Dispatch 
+457.35000 	 	F	85.4 PL	Mack FireRF2 	Fire: Remote Receive Link (from TAZCOM to Mackinaw 154.25) (MFPD) 	FMN 	Fire Dispatch 
+154.04000 	KAK450 	BM		Minier Villg 	Village Operations 	FMN 	Multi-Dispatch 
+154.98000 	KRX408 	RM	82.5 PL	MqtHts Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+460.30000 	KNCS323 	RM	162.2 PL	Mortn Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.99500 	KLD838 	BM	179.9 PL	Morton Fire 	Fire 	FMN 	Fire Dispatch 
+154.96500 	KLD838 	BM	97.4 PL	Morton PWks 	Public Works (Water / Snow Plows) 	FMN 	Public Works 
+458.05000 	WQNE846 	F		Morton WDD 	Water Data (CSQ) 	Telm 	Data 
+155.61000 	WPRI233 	M		NPkn PD c2c 	Police: Car to Car (North Pekin/Marquette Heights) 	FMN 	Law Tac 
+154.25000 	WPIU623 	BM	162.2 PL	TazC FD 1626 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.37000 	KSE300 	BM	110.9 PL	Taz Fire 437 	Fire: Dispatch (was 123.0 PL) 	FMN 	Fire Dispatch 
+154.29500 	 	M		NTFPD Local 	Fire: Alternate 	FMN 	Fire-Tac 
+453.95000 	KW8742 	M		NTaz Rsq MX 	Rescue: Mobile Extenders 	FMN 	Fire-Tac 
+153.83000 	 	M	69.3 PL	MABAS Red 	Fireground Operations 1 	FMN 	Fire-Tac 
+460.50000 	KSE300 	F	173.8 PL	NTFPD *RF2 	Remote Recieve Link (FX2-E Peoria) 	FMN 	Fire Dispatch 
+465.50000 	KSE300 	F		NTFPD *RF1 	Remote Recieve Link (FX1-Washington) 	FMN 	Fire Dispatch 
+155.55000 	KSB202 	BM	203.5 PL	TAZCOMM Net  	Police: County Alternate / Mutual Aid with TAZCOMM 	FMN 	Law Dispatch 
+460.40000 	WPPC743 	RM	146.2 PL	Pekin HiSch 	Police/TAZCOMM (at Pekin High School) 	FMN 	Law Dispatch 
+154.25000 	KBQ389 	B	103.5 PL	Pekin FirePG 	Fire: Paging /. Station Alerting (Ops on TRS) 	FMN 	Fire Dispatch 
+463.70000 	WPMA549 	RM		Pekin Parks 	Pekin Park District (w/PhonePatch) 	FMN 	Public Works 
+151.33250 	WQPP227 	RM	97.4 PL	Shaefvl Fire 	Fire: Dispatch (simulcast of 154.205) (69.3 in?) 	FMN 	Fire Dispatch 
+155.19000 	WPZL268 	BM		SPekin Polic 	Police: Local (206.5?) 	FMN 	Law Tac 
+154.20500 	WPVL866 	BM	103.5 PL	S Pekin FD 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.37000 	KGP621 	BM	123.0 PL	Taz Fire 437 	Fire: Dispatch (127.3 Woodford?) 	FMN 	Fire Dispatch 
+453.45000 	KGP621 	F	CSQ	SBay FireRF1 	FIre: Remote Transmit Link (FX2-open carrier) 	FMN 	Fire Dispatch 
+458.45000 	KGP621 	F		SBay FireRF2 	FIre: Remote Receive Link (FX1) 	FMN 	Fire Dispatch 
+154.25000 	KFV773 	BM	74.4 PL	Tremont Fire 	Fire: Tone-Outs (Response on 154.37) 	FMN 	Fire Dispatch 
+460.47500 	KFV773 	F	97.4 PL	Trem FD RF1 	Fire: Receive Link - Tremont (also 451.55?) 	FMN 	Fire Dispatch 
+465.47500 	KFV773 	F	97.4 PL	Trem FD RF2 	Fire: Transmitter Link - Pekin (From 911) (FX1) 	FMN 	Fire Dispatch 
+460.17500 	KSD409 	RM	127.3 PL	Wash Police 	Police: Dispatch [also Base/Mobiles] 	FMN 	Law Dispatch 
+453.15000 	KDC323 	RM	186.2 PL	Wshngtn ESDA 	ESDA 	FMN 	Emergency Ops 
+154.20500 	KFZ733 	BM	141.3 PL	Wash Fire 	Fire/ESDA: Tone-Outs / Ops 	FMN 	Fire Dispatch 
+155.74500 	KDC323 	RM	151.4 PL	Wash PubWrks 	Public Works 	FMN 	Public Works 
+458.28750 	WQMY331 	M		Washington WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+463.35000 	WQFD338 	RM	203.5 PL	FS Bus EPeo1 	First Student Buses (E Peo-SRC) 	FMN 	Schools 
+463.60000 	WNNC379 	RM	054 DPL	FS Bus EPeo2 	First Student Buses (E Peo-SRC) 	FMN 	Schools 
+464.45000 	WNLF696 	RM	146.2 PL	FS Bus Wash 	First Student Buses (Washington-Ragan) 	FMN 	Schools 
+155.29500 	KTW212 	BM		St Patrick 	St Patrick School: Ops (Washington) 	FMN 	Schools 
+155.28000 	WNMU357 	BM	100.0 PL	CrvCourSchl 	Buses / Operations 	FMN 	Schools 
+155.84250 	WQGQ681 	M		DeeMackHiSch 	Dee-Mack High School  	FMN 	Schools 
+151.68500 	WPLD896 	M	127.3 PL	DelavanSch 1 	Operations 	FMN 	Schools 
+151.83500 	WPLD896 	M		DelavanSch 2 	Operations 	FMN 	Schools 
+154.57000 	WPLD896 	M		DelavanSch 3 	Operations [*MURS] 	FMN 	Schools 
+154.60000 	WPLD896 	M		DelavanSch 4 	Operations [*MURS] 	FMN 	Schools 
+854.76250 	WPBB689 	RM	343 DPL	EPeo Laidlaw 	Laidlaw Transit: Buses 	FMN 	Schools 
+151.86500 	WPIV902 	M		Rvrvw School 	Riverview School 	FMN 	Schools 
+462.03750 	WPUF337 	RM	CC 3TG 60000SL 1	MrtnSchool1B 	Operations  	DMRE 	Schools 
+151.83500 	KNBS982 	BM		Pekin HiSch 	Pekin Community High School District 	FMN 	Schools 
+460.15000 	KSB202 	RM	100.0 PL	Pekin Bus 	School Buses 	FMN 	Schools 
+463.87500 	WPUA971  	RM	123.0 PL	PekinHSMaint 	Pekin High School Maintenance 	FMN 	Schools 
+451.96250 	WPNT356	 	RM	CC 1TG 53SL 2	Wash 50 Schl Bus 	Buses 	DMR 	Schools 
+155.17500 	WNWP515 	BM		Wash Schools 	Buses/Operations 	FMN 	Schools 
+155.17500 	WNAP637 	BM		Wash Schools 	Buses/Ops (Central Grade School District #51) 	FMN 	Schools 
+155.17500 	WPYN973 	BM	127.3 PL	Wash Schools 	Buses/Ops (Grade School District 52) 	FMN 	Schools 
+155.17500 	KNBT929 	BM	151.4 PL	Wash Schools 	Buses/Ops (High School District 30) 	FMN 	Schools 
+154.57000 	KB38886 	M		Wash School2 	Operations [Expired 10/03] 	FMN 	Schools 
+453.47500 	WNAP637 	RM	74.4 PL	Wash CGrdSch 	Central Grade School: Ops 	FMN 	Schools 
+453.22500 	KUU388 	RM	CC 2TG 21SL 1	ICC Security 	Security 	DMR 	Security 
+453.22500 	KUU388 	RM	CC 2TG 20SL 2	ICC Maintenance 	Maitenance 	DMR 	Schools 
+452.07500 	WQFJ893 	M	136.5 PL	ICC Ops 3 	Ops  	FMN 	Schools 
+452.38750 	WQFJ893 	M		ICC Ops 4 	Ops  	FMN 	Schools 
+122.80000 	 	BM	CSQ	C15 CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+124.67500 	 	BM	CSQ	Peo App/Dep 	Peoria Approach/Departure 	AM 	Aircraft 
+Caterpillar Corporation (DMR)	 DMR Motorola Connect Plus (TRBO)	 Decatur	Caterpillar of Delaware (Peoria IL LTR)	 LTR Standard	 East Peoria	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)
+ Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	E and S Communications (Tazewell)	 NXDN Icom IDAS Type D	 Pekin	Federal Correctional Institution Pekin
+ Motorola Type II Smartnet	 Pekin	Illinois Central College	 DMR Hytera XPT	 Various	Par-a-Dice Casino and Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 East Peoria
+Peoria Disposal Company	 LTR Standard	 Groveland	Ragan Communications (Washington)	 LTR Standard	 Washington	Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ Central Illinois	Supreme Radio Communications (East Peoria)	 Motorola Type IIi Hybrid	 East Peoria	Tazewell County Public Safety (TazComm) 	 EDACS Networked Standard	 Pekin	

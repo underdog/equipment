@@ -1,0 +1,39 @@
+159.15000 	WQCS491 	RM	203.5 PL	Washington Co SO 	Sheriff Dispatch 	FMN 	Law Dispatch 
+159.21000 	 	RM	127.3 PL	WashingtonCoJail 	County Correctional Facility 	FMN 	Corrections 
+155.80000 	 	RM	123.0 PL	WashingtnCoJail2 	County Correctional Facility -- Backup 	FMN 	Corrections 
+453.26250 	WQAQ798 	RM	263 DPL	WashingtonCoFire 	Fire UHF Side -- Linked to 154.130 MHz 	FMN 	Fire Dispatch 
+154.35500 	WNAZ440 	RM	107.2 PL	WashingtonCoFire 	County Fire 	FMN 	Fire Dispatch 
+155.92500 	WPPB912 	RM	107.2 PL	WashtnCoFD South 	County Fire -- South Repeater 	FMN 	Fire Dispatch 
+158.74500 	WPPB912 	RM	141.3 PL	Washington Co EM 	Emergency Management 	FMN 	Emergency Ops 
+154.40000 	WPPB912 	RM	151.4 PL	WashingtonCoEM-A 	Emergency Management -- TAC A 	FMN 	Emergency Ops 
+462.60000 	KAE8662 	RM	107.2 PL	WashCo EOC GMRS 	GMRS  -- EOC Officers and  Weather Alert 	FM 	Emergency Ops 
+155.17500 	WPPB912 	BM	107.2 PL	WashtnCoRedCross 	Red Cross Dispatch 	FMN 	Emergency Ops 
+156.19500 	WPYN331 	BM	151.4 PL	WashingtonCo Rd1 	Highway Maintenance -- District 1 (Copan) 	FMN 	Public Works 
+153.93500 	KNFX500 	RM	165 DPL	WashingtonCo Rd2 	Highway Maintenance -- District 2 Dewey) 	FMN 	Public Works 
+151.46750 	WQTJ918 	RM	152 DPL	WashingtonCo Rd3 	Highway Maintenance -- District-3  (Ramona) 	FMN 	Public Works 
+155.41500 	KKA867 	RM	67.0 PL	Bartlesville PD 	Police Dispatch 	FMN 	Law Dispatch 
+155.10750 	KNGG519 	BM	159.8 PL	BartlsvilePD Tac 	Police -- Car to Car 	FMN 	Law Tac 
+154.74000 	KKA867 	BM	67.0 PL	BartlsvilePD Det 	Police -- Detectives 	FMN 	Law Tac 
+152.45000 	WPYN681 	RM	179.9 PL	BartlsvilePD Rsv 	Police -- Reserves 	FMN 	Law Tac 
+154.95000 	KKA867 	BM	67.0 PL	BartlsvilePD Rsv 	Police -- Reserves 	FMN 	Law Tac 
+154.87500 	WQBB670 	RM	67.0 PL	BartlesvilleFire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.22000 	WQAQ798 	BM	67.0 PL	Bartlesville FD2 	Fireground 	FMN 	Fire-Tac 
+155.29500 	WPYN399 	RM	107.2 PL	Bartlesville EMS 	Ambulance Dispatch 	FMN 	EMS Dispatch 
+463.02500 	WQGV332 	RM		Bartlesville EMS 	Ambulance to Jane Phillips Hospital ER for patient reports 	FMN 	Hospital 
+453.87500 	 	RM	315 DPL	BartlesvilePubWk 	Public Works 	FMN 	Public Works 
+453.75000 	WQDA259 	RM	315 DPL	BartlesvileWater 	Water Department 	FMN 	Public Works 
+453.00000 	WQDA259 	F		BartlesvileWater 	Water Department -- data 	Telm 	Public Works 
+463.75000 	WPLQ485 	RM	127.3 PL	BartlesvilleSchl 	Public Schools -- School Buses 	FMN 	Schools 
+154.32500 	WQQG537   	BM	107.2 PL	Copan Fire 	Fireground 	FMN 	Fire-Tac 
+158.94000 	WNZU761 	BM		CopanPublicWorks 	Public Works 	FMN 	Public Works 
+33.08000 	KNJP579 	BM		Copan Schools 	Public Schools 	FM 	Schools 
+155.58000 	WQUQ804 	RM	123.0 PL	Dewey Police 	Police Dispatch 	FMN 	Law Dispatch 
+154.98000 	WYG354 	RM	107.2 PL	Dewey Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.89000 	WYG354 	BM	107.2 PL	Dewey Fire Tac 	Fireground 	FMN 	Fire-Tac 
+155.73000 	WPIC814 	BM		DeweyPublicWorks 	Public Works 	FMN 	Public Works 
+464.92500 	WNKT537 	RM		Dewey Schools 	Public Schools 	FMN 	Schools 
+154.19000 	KNJX320 	BM	107.2 PL	Ochelata Fire 	Fireground 	FMN 	Fire-Tac 
+154.43000 	WNPB236 	RM	141.3 PL	Oglesby Fire 	Fireground 	FMN 	Fire-Tac 
+154.37000 	WPAE324 	BM	107.2 PL	Vera Fire 	Fireground 	FMN 	Fire-Tac 
+Action Communications	 NXDN NEXEDGE 9600	 Various	American Electric Power (AEP)	 EDACS Networked Standard	 Various	KAMO Power	 NXDN NEXEDGE 4800
+ Various	Phillips 66 Refineries	 Project 25 Phase II	 Various	Saint John Medical System	 DMR Conventional Networked	 Tulsa	

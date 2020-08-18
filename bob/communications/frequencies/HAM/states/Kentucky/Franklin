@@ -1,0 +1,30 @@
+155.88750 	WQFR340 	BM	14 RAN	Frnkln EMA 	Emergency Management Operations 	NXDN 	Emergency Ops 
+155.80500 	WNLF459 	BM	156.7 PL	Frnkln Jail 	Detention Center 	FMN 	Corrections 
+154.43000 	WNUN939 	RM	21 RAN	FrnklnFD Disp 	Fire Dispatch 	NXDNE 	Multi-Dispatch 
+154.07000 	WNUN939 	RM		FrnklnFD Frgnd 	Fireground 	FMN 	Fire-Tac 
+154.13000 	WQCS330 	RM	156.7 PL	FFTEMStoFRMC 	EMS to Frankfort Regional Medical Center 	FMN 	Hospital 
+159.42000 	WQBM797 	M	203.5 PL	FFT EMS TA 	EMS - Talk Around 	FMN 	EMS-Talk 
+154.13000 	WQCS330 	RM	32 RAN	FFTEMStoFRMC 	EMS to Frankfort Regional Medical Center 	NXDNE 	Hospital 
+155.34000 	WQRD895 	BM	156.7 PL	FRMC 	Neighboring County EMS to FFT Regional Medical 	FMN 	Hospital 
+151.19750 	WQVK714 	RM	801 NAC	FCMA 	Franklin County Mutual AId 	P25 	Interop 
+154.38500 	KM9325 	RM	31 RAN	FFT FD/EMS DISP1 	Fire/EMS - Dispatch 1 	NXDNE 	Multi-Dispatch 
+154.01000 	KM9325 	M		FFT FD Frgnd 	Fireground 	NXDN 	Fire-Tac 
+158.85750 	WQLV930 	RM	11 RAN 	FFT PD DISP 	Police Dispatch 	NXDNE 	Law Dispatch 
+155.62500 	KLP892 	RM	12 RAN	FFT PD  	Police  Interop 	NXDNE 	Interop 
+155.83500 	KLI208 	RM	156.7 PL	FFT PW 1 	Public Works 1 	FMN 	Public Works 
+154.96500 	WNAQ490 	RM	047 DPL	FFT HSNG AUTH 	Housing Authority 	FMN 	Public Works 
+155.83500 	KLI208 	BM		FFT TRANSIT AUTH 	Frankfort Transit Authority 	FMN 	Transportation 
+453.36250 	WQEL426 	RM	732 DPL	FFT E-911 	E-911 Center (simulcast of KSU Public Safety) 	FMN 	Multi-Talk 
+156.16500 	WNWV542 	RM	167.9 PL	Frkln Roads 	Road Department 	FMN 	Public Works 
+463.42500 	WQZH381 	RM	343 DPL	Frkln Plant Brd1 	Utility Board Department 	FMN 	Utilities 
+463.97500 	WRQ327 	RM	365 DPL	Frnkln Skls 	Schools - Operations 	FMN 	Schools 
+460.52500 	WNQZ504 	RM	293 NAC	KY FacSecrty 	Facilities Security 	P25 	Security 
+453.72500 	WQBC212 	RM	127.3 PL	KYFacMainten 	Facilities Maintenance 	FMN 	Public Works 
+453.67500 	WQMX993 	RM	754 DPL	FFTCnvCntr 	Operations 	FMN 	Public Works 
+155.70000 	WQWI310 	RM	11 RAN	KSU PD Dsp 	Police - Dispatch 	NXDN 	Security 
+155.08500 	KRP845 	RM	156.7 PL	KSU Staff/PD 	Admimistration and Secondary Police 	FMN 	Schools 
+155.08500 	KRP845 	BM	156.7 PL	KSU Ch 3 	KSU Ch 3 	FMN 	Security 
+154.60000 	 	BM	156.7 PL	KSU Ch 3 	KSU Ch 4 	FMN 	Security 
+460.36250 	 	RM	365 DPL	KSU Maint. 	KSU Maint. 	FMN 	Schools 
+453.67500 	WQMX993 	RM	754 DPL	KSU UHF 	KSU UHF 	FMN 	Schools 
+Frankfort Public Utilities	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Frankfort	Stewart Home School	 DMR Motorola Capacity Plus Single Site (TRBO)	 Frankfort	

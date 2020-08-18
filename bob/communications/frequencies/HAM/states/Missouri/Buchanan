@@ -1,0 +1,54 @@
+154.75500 	KAB461 	RM	315 DPL	Buch Sheriff 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+155.98500 	KAB461 	M		Buch Shrf C2C  	Sheriff: Car-to-Car (Main) 	FMN 	Law Tac 
+155.79000 	KAB461 	M		Buch Shrf Jail  	Sheriff: Jail Ops 	FMN 	Corrections 
+458.28750 	WPBB584 	M		Buchanan EMA 	Emergency Management: Portables 	FMN 	Emergency Ops 
+158.82000 	KAM919 	BM		Buch Highway 	Highway Department [Terminated] 	FMN 	Public Works 
+461.55000 	WNJS663 	RM		HRMC Ops 1 	Operations 	FMN 	Business 
+464.72500 	WPBX588 	RM		HRMC Ops 2 	Operations 	FMN 	Business 
+462.97500 	WPMB408 	RM		BuchCo EMS 1 	EMS: Dispatch 	FMN 	EMS Dispatch 
+463.12500 	WPMB408 	RM		BuchCo EMS 2 	EMS 	FMN 	EMS Dispatch 
+155.22000 	WPMB408 	BM		BuchCo EMS 4 	EMS 	FMN 	EMS-Tac 
+155.34000 	KLP882 	B		HEAR340 	Patient Reports 	FMN 	Hospital 
+152.00750 	KLP882 	B		HRMC Paging1 	Medical Paging 	Telm 	Data 
+462.80000 	WNJS663 	RM		HRMC Paging2 	Paging 	Telm 	Data 
+151.25000 	WPJR467 	RM		BuchananFire 	Fire: County Dispatch 	FMN 	Fire Dispatch 
+158.82000 	KAM919 	BM		Buch FireTac 	Fire: Tactical 	FMN 	Fire-Tac 
+154.16000 	WPJR467 	M		Buchanan FG 	Fireground 	FMN 	Fire-Tac 
+151.25000 	WPJR467 	RM		StJosephFire 	St. Jospeph Fire 	FMN 	Fire Dispatch 
+151.25000 	WPJR467 	RM		RushvillFire 	Rushville Fire 	FMN 	Fire Dispatch 
+460.57500 	WNFD731 	RM		DoniphanFD4 	Fire: Dispatch (St. Joseph) 	FMN 	Fire Dispatch 
+460.15000 	KBF450 	RM	179.9 PL	StJo PD Dsp1 	Police: Dispatch/Operations [Ch 1] 	FMN 	Law Dispatch 
+866.55000 	WPOZ590 	RM		StJo PD 800R 	Police: Rebroadcast of 460.15 	FMN 	Law Dispatch 
+460.60000 	KAH380 	RM	114.8 PL	StJo FD Dsp1 	Fire: Dispatch/Operations [Ch 1] 	FMN 	Fire Dispatch 
+460.62500 	KAH380 	RM		StJo FD Scn2 	Fire: Secondary [Ch 2] [Deleted 2007] 	FMN 	Fire-Tac 
+460.05000 	KAH380 	BM		StJo FD FG3 	Fire: Fireground [Ch 3] 	FMN 	Fire-Tac 
+460.27500 	WPPB392 	M		StJo CvArena 	Civic Arena (Portables 100 N. 4th) 	FMN 	Public Works 
+453.65000 	WPLX427 	RM	186.2 PL	StJo PubWrks 	Public Works - Automated Voice (Water/Sewer) 	FMN 	Public Works 
+453.57500 	WPCB746 	BM		FrvwGolfCrs 	Fairview Golf Course [Canceled 10/11] 	FMN 	Business 
+461.95000 	WZA233 	RM		FS Bus StJos 	Buses (St Joseph, Savannah) 	FMN 	Schools 
+151.89500 	WQAY351 	BM		MBR5 School 	Mid-Buchanan R5 School District (Faucett) 	FMN 	Schools 
+467.85000 	WPKN874 	M		StJoSC Neely 	St Joseph School District - Neely 	FMN 	Schools 
+451.92500 	WPSA217 	M		BCR4SD Ops1 	Operations 	FMN 	Schools 
+451.97500 	WPSA217 	M		BCR4SD Ops2 	Operations 	FMN 	Schools 
+452.00000 	WPSA217 	M		BCR4SD Ops3 	Operations 	FMN 	Schools 
+452.10000 	WPSA217 	M		BCR4SD Ops4 	Operations 	FMN 	Schools 
+452.15000 	WPSA217 	M		BCR4SD Ops5 	Operations 	FMN 	Schools 
+452.72500 	WPSA217 	M		BCR4SD Ops6 	Operations 	FMN 	Schools 
+453.22500 	WNRB877 	RM		MWSU Police1 	Police/Security [Ch 1] 	FMN 	Security 
+453.82500 	WNRB877 	RM	155 DPL	MWSU Maint2 	Maintenance [Ch 2] 	FMN 	Schools 
+453.60000 	WNRB877 	BM		MWSU Engnrng 	Engineering Tech  	FMN 	Schools 
+154.60000 	WPGW504 	M		MWSU Roof 	Roof to Master Control [Expired 3/05] 	FM 	Schools 
+461.27500 	WPOE265 	M		MWSU AdSpec1 	Ad Spec (Instructional media center) 	FMN 	Schools 
+464.32500 	WPOE265 	M		MWSU AdSpec2 	Ad Spec (Instructional media center) 	FMN 	Schools 
+464.82500 	WPOE265 	M		MWSU AdSpec3 	Ad Spec (Instructional media center) 	FMN 	Schools 
+219.01250 	WPPH950 	M		MWSU IMC H/H 	Audience response handheld keypads at IMC 	FM 	Data 
+463.32500 	WPUL472 	M		MWSU Ararmrk 	Aramark Food Service [Expired 3/12] 	FMN 	Business 
+120.35000 	 	BM	CSQ	RMA Approach 	Approach 	AM 	Aircraft 
+121.90000 	 	BM	CSQ	RMA Ground 	Ground 	AM 	Aircraft 
+125.05000 	 	BM	CSQ	RMA ATIS 	ATIS 	AM 	Aircraft 
+126.90000 	 	BM	CSQ	RMA Tower 	Tower 	AM 	Aircraft 
+133.35000 	 	BM	CSQ	RMA PAR 	PAR 	AM 	Aircraft 
+239.00000 	 	BM	CSQ	RMA Mil Towr 	Tower (Military) 	AM 	Aircraft 
+360.80000 	 	BM	CSQ	RMA Mil Appr 	Approach (Military) 	AM 	Aircraft 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Buchanan County MO Public Safety	 Project 25 Phase I	 St. Joseph	Miller Communications	 Motorola Type II
+ St. Joseph	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	St. Joseph City Services - 800 MHz	 Motorola Type I	 St Joseph	

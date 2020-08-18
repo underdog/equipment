@@ -1,0 +1,70 @@
+453.47500 	KWQ585 	RM	131.8 PL	Tulare Co SD1 	Dispatch South 	FM 	Law Dispatch 
+453.65000 	WPVC877 	RM	131.8 PL	Tulare Co SD2 	Dispatch North 	FM 	Law Dispatch 
+453.85000 	WQAP777 	RM	131.8 PL	Tulare Co SD3 	Mutual Aid 	FM 	Interop 
+453.97500 	KWQ585 	RM	131.8 PL	Tulare Co SD4 	Tac/Admin 	FM 	Law Tac 
+154.01000 	KYI983 	RM	131.8 PL	Tulare Co FD1 	Dispatch "Fire Com" 	FM 	Fire Dispatch 
+153.90500 	WPTT600 	RM	131.8 PL	Tulare Co FD2 	Secondary 	FM 	Fire-Tac 
+153.83000 	 	RM		Tulare Co FD3 	Channel 3 	FM 	Fire-Tac 
+462.96250 	 	RM	141.3 PL	Tulare Co Med92 	TCCAD Dispatch 	FMN 	EMS Dispatch 
+462.97500 	 	RM	141.3 PL	Tulare Co Med10 	TCCAD Response 	FMN 	EMS-Tac 
+463.03750 	 	RM	141.3 PL	Tulare Co Med22 	TCCAD High Level 	FMN 	EMS-Tac 
+463.07500 	 	RM	141.3 PL	Tulare Co Med4 	Tulare Regional Med Center 	FMN 	Hospital 
+463.10000 	 	RM	141.3 PL	Tulare Co Med5 	Kaweah Delta Med Center 	FMN 	Hospital 
+463.15000 	 	RM	141.3 PL	Tulare Co Med7 	Sierra View 	FMN 	Hospital 
+151.05500 	WPTT600 	RM		Tulare Co RMA 	Resource Management Agency 	FM 	Public Works 
+453.42500 	KIL421 	RM		Tulare Co HA 	Housing Authority 	FM 	Public Works 
+855.98750 	WPEP250 	RM	156.7 PL	Tulare Co COE 	Office of Education 	FM 	Schools 
+453.22500 	WPNQ401 	RM	152 DPL	Dinuba PD1 	Police Dispatch 	FM 	Law Dispatch 
+453.25000 	WPNQ401 	RM	152 DPL	Dinuba PD2 	Police Secondary 	FM 	Law Dispatch 
+154.08500 	WPPX775 	RM	146.2 PL	Dinuba FD 	Fire/EMS Dispatch 	FM 	Fire-Tac 
+155.71500 	KDG834 	BM		Dinuba PW 	Public Works 	FM 	Public Works 
+453.15000 	WPCH390 	RM	131.8 PL	Exeter PD 	Police Dispatch 	FM 	Law Dispatch 
+155.82000 	WPCD406 	BM		Exeter PW 	Public Works 	FM 	Public Works 
+453.72500 	KNNG573 	RM	131.8 PL	Farmersville PD 	Police Dispatch 	FM 	Law Dispatch 
+453.82500 	KNGV846 	RM		Farmersville PW 	Public Works 	FM 	Public Works 
+453.87500 	WNHE275 	RM	131.8 PL	Lindsay PD 	Police Dispatch 	FM 	Law Dispatch 
+158.88000 	KMK255 	BM		Lindsay PW 	Public Works 	FM 	Public Works 
+453.20000 	KQP609 	RM	131.8 PL	Porterville PD1 	Police Dispatch 	FM 	Law Dispatch 
+453.67500 	KQP609 	M	131.8 PL	Porterville PD2 	Police Secondary 	FM 	Law Tac 
+453.95000 	KQP609 	RM	131.8 PL	Porterville PD3 	Police Tactical 	FM 	Law Tac 
+156.00000 	KML202 	RM	123.0 PL	Porterville FD1 	Fire Dispatch 	FM 	Fire Dispatch 
+156.00000 	 	M	123.0 PL	Porterville FDT2 	Fire Tac 2 	FMN 	Fire-Talk 
+155.86500 	KML202 	M	123.0 PL	Porterville FDT3 	Fire Tac 3 	FMN 	Fire-Talk 
+154.19000 	KML202 	M	123.0 PL	Porterville FDT4 	Fire Tac 4 	FMN 	Fire-Talk 
+152.33000 	 	RM		Porterville Tran 	Dial-A-Colt (Transit Buses) 	FM 	Transportation 
+155.11500 	KGU272 	BM		Porterville PW 	Public Works 	FM 	Public Works 
+155.80500 	 	RM		Porterville PW 	Public Works 	FM 	Public Works 
+453.28750 	WPSJ747 	RM	125 DPL	Tulare PD1 	Police Dispatch 	FM 	Law Dispatch 
+453.36250 	WPSJ747 	RM	125 DPL	Tulare PD2 	Police Secondary 	FM 	Law Dispatch 
+154.25750 	WQIV428 	RM	162.2 PL	Tulare FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.35500 	KNGC648 	RM	162.2 PL	Tulare FD2 	Fire Tac 2 	FMN 	Fire-Tac 
+156.18000 	WQIV428 	BM	162.2 PL	Tulare FD3 	Fire Tac 3 	FM 	Fire-Tac 
+453.57500 	WPSM986 	RM	131.8 PL	Visalia PD1 Disp 	Police Dispatch 	FM 	Law Dispatch 
+453.77500 	WPSM986 	RM	131.8 PL	Visalia PD2 	Police Ch 2 	FM 	Law Dispatch 
+453.12500 	WPSM986 	RM	131 DPL	Visalia PD3 	Police Ch 3 	FM 	Law Tac 
+154.32500 	KCA286 	RM	131.8 PL	Visalia FD1 Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.13000 	 	M	131.8 PL	Visalia FD 2 Tac 	Fire Ch. 2 Tactical 	FMN 	Fire-Tac 
+153.86000 	KMM537 	RM		Visalia LG1 	General Services (Building Inspectors) 	FM 	Public Works 
+154.96500 	KMM537 	RM		Visalia LG2 	General Services (Solid Waste, Streets, Parks) 	FM 	Public Works 
+453.55000 	WPKV539 	RM		Visalia CC 	Convention Center 	FM 	Public Works 
+453.10000 	WNBE492 	BM	131.8 PL	Woodlake PD 	Police Dispatch 	FM 	Law Dispatch 
+453.62500 	WPEJ402 	RM		Woodlake PW 	Public Works 	FM 	Public Works 
+454.13750 	 	M	110.9 PL	COS PD 	Police Dispatch 	FM 	Law Dispatch 
+155.20500 	 	RM		PUSD Buses 	Buses 	FM 	Schools 
+463.72500 	WPLE626 	RM	203.5 PL	VUSD ADMIN 	Administration 	FMN 	Schools 
+464.22500 	WPLE626 	RM	203.5 PL	VUSD ALL CALL 	Emergency 	FMN 	Schools 
+461.61250 	WPLE626 	BM	CSQ	VUSD SIMPLEX 1 	Maintenance 1 	FMN 	Schools 
+466.61250 	WPLE626 	BM	CSQ	VUSD SIMPLEX 2 	Maintenance 2 	FMN 	Schools 
+855.98750 	WPEP250 	RM	141.3 PL	VUSD TRANS 	Transportation 	FMN 	Schools 
+153.63500 	WPLE626 	RM	131.8 PL	VUSD MITCHELL 	Annie Mitchell 	FMN 	Schools 
+463.88750 	WPLE626 	RM	203.5 PL	VUSD RWHS 	Redwood High 	FMN 	Schools 
+464.07500 	WPLE626 	RM	412 DPL	VUSD EDHS 	El Diamante High 	FMN 	Schools 
+464.32500 	WPAE267 	RM	203.5 PL	VUSD GWHS 	Golden West High 	FMN 	Schools 
+464.68750 	WPLE626 	RM	203.5 PL	VUSD MWHS 	Mt Whitney High 	FMN 	Schools 
+154.10000 	WXQ996 	RM	192.8 PL	TCAT Ops 	Operatrions 	FM 	Transportation 
+153.93500 	WQY349 	BM	136.5 PL	Visalia Transit 	Operations 	FM 	Transportation 
+460.27500 	WQHC633 	RM		TRT PD 	Police Dispatch 	P25 	Law Dispatch 
+155.01000 	WQHX823 	RM	186.2 PL	TRT PD CSO 	Police Community Service Officers 	FM 	Law Tac 
+AirCall Communications	 DMR Motorola Connect Plus (TRBO)	 	ATT (LTR)	 LTR Standard	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I
+ Multiple	Cook's Communications ValleyNet	 NXDN NEXEDGE 4800	 Various	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Southern California Edison
+ Project 25 Phase II	 Various	

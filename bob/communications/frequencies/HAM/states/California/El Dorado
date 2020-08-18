@@ -1,0 +1,47 @@
+159.55500 	WPJH204 	RM	136.5 PL	El Do SO W 	Dispatch West Slope 	FM 	Law Dispatch 
+159.60000 	WPEE203 	RM	136.5 PL	El Do SO E 	Dispatch East Slope 	FM 	Law Dispatch 
+160.69500 	WPJH204 	M	136.5 PL	El Do SO Tac3 	Tactical 3 	FM 	Law Tac 
+159.82500 	WPEE203 	M	136.5 PL	El Do SO Tac4 	Tactical 4 	FM 	Law Tac 
+159.69000 	WPEE203 	RM	136.5 PL	El Do SO SAR 	Tactical/SAR 	FM 	Law Tac 
+155.79000 	KMA912 	M	115 DPL	El Do SO Invest 	Investigators/Surveilance 	FMN 	Law Tac 
+460.21250 	KD27135 	RM	100.0 PL	El Do SO Jail 	Jail Operations 	FMN 	Law Talk 
+155.90250 	WPWF450 	RM	186.2 PL	El Do FD Cmd W 	Command West Slope (Response and Command Net) 	FMN 	Fire-Talk 
+463.07500 	 	RM	167.9 PL	Marshall MC 	Marshall Medical Center 	FMN 	Hospital 
+463.15000 	KNJB626 	RM	131.8 PL	Barton Memorial 	Barton Memorial 	FM 	Hospital 
+151.10000 	KUQ789 	RM	131.8 PL	El Do Co Roads 	Roads 	FM 	Public Works 
+158.92500 	KWH417 	RM	146.2 PL	El Do Co AC 	Animal Control 	FM 	Public Works 
+453.42500 	WQY273 	RM	167.9 PL	TART 	Tahoe Area Regional Transit 	FM 	Transportation 
+154.96500 	WNKQ400 	RM	167.9 PL	Placerville PD1 	Police Dispatch 	FM 	Law Dispatch 
+154.75500 	KNHR979 	M	167.9 PL	Placerville PD3 	Police Tac 3 	FM 	Law Tac 
+156.03000 	WCP351 	RM	192.8 PL	SLT PD 	Police Dispatch 	FMN 	Law Dispatch 
+154.65000 	WNJP885 	BM	114.8 PL	SLT PD2 	Police Channel 2 	FMN 	Law Tac 
+155.86500 	WNJP885 	M	192.8 PL	SLT PD3 	Police Channel 3 	FMN 	Law Tac 
+156.15750 	WNJP885 	M	123.0 PL	SLT PD4 	Police Tac 4 	FMN 	Law Tac 
+153.95000 	KJD298 	RM	100.0 PL	SLT FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.99500 	WPRG476 	RM	162.2 PL	SLT FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+156.00000 	WPFZ260 	BM		SLT PR 	Parks and Recreation 	FMN 	Public Works 
+158.76000 	WQS996 	BM	167.9 PL	SLT PW 	Public Works 	FMN 	Public Works 
+47.50000 	KGJ331 	BM		EDUHSD Buses 	Buses 	FM 	Schools 
+464.50000 	 	M	206.5 PL	EDUHSD PH Admin 	Ponderosa High Ch.1 - Admin and Campus Monitors  	FMN 	Schools 
+464.86500 	 	M	206.5 PL	EDUHSD PH Maint 	Ponderosa High Maintenance 	FMN 	Schools 
+47.46000 	 			GOUSD Buses 	Buses 	FM 	Schools 
+159.85500 	WPXU428 	BM	103.5 PL	LTUSD Admin 	Operations / Administration 	FM 	Schools 
+155.26500 	KNJT237 	BM	151.4 PL	LTUSD Buses 	School Buses 	FM 	Schools 
+154.51500 	KNJS884 	BM	151.4 PL	LTUSD Maint 	Maintenance Operations 	FM 	Schools 
+47.66000 	 			MLUSD Buses 	Buses 	FM 	Schools 
+461.55000 	WPTG492 	RM	203.5 PL	PPESD Ops 	Operations 	FMN 	Schools 
+154.51500 	KNJS884 	BM	151.4 PL	SLTUSD Maint 	Bus Mechanics / Building Maintenance 	FM 	Schools 
+154.38500 	WPQI742 	BM	100.0 PL	FLCSD FD 	Fire District Ops 	FM 	Fire-Talk 
+154.34000 	WNFI481 	RM	100.0 PL	LVFPD Dispatch 	Dispatch East Slope 	FMN 	Fire Dispatch 
+155.36250 	WNFI481 	RM	100.0 PL	LVFPD Angora 	Angora Repeater - Simulcast with 154.340 	FMN 	Fire Dispatch 
+154.36250 	WNFI481 	BM	100.0 PL	LVFPD CommCenter 	Comm Center 	FMN 	Fire-Talk 
+156.05250 	WNFI481 	BM	100.0 PL	LVFPD Station 5 	Station 5 	FMN 	Fire-Talk 
+155.55750 	WNFI481 	BM	100.0 PL	LVFPD Station 6 	Station 6 	FMN 	Fire-Talk 
+158.92500 	KWH417 	RM	123.0 PL	EDT Ops 	Operations 	FM 	Transportation 
+451.41250 	WQUU948 	RM	CC 1TG 3185598SL 2	BluGo 	Operations 	DMR 	Transportation 
+AirCall Communications	 DMR Motorola Connect Plus (TRBO)	 	ATT (LTR)	 LTR Standard	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I
+ Multiple	Crystal Communications (El Dorado)	 LTR Standard	 	La Rue Communications (Rescue)	 Motorola Type II Smartnet	 Rescue	Nevada Shared Radio System
+ EDACS Networked Standard	 Various	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Red Hawk Casino	 DMR Motorola Capacity Plus Single Site (TRBO)	 Placerville
+Signature Wireless	 LTR Standard	 Placerville	Signature Wireless Group iDAS Multitrunk (Bay Area)	 NXDN Icom IDAS Type D	 San Rafael	Silke Communications	 NXDN NEXEDGE 4800
+ Northern California	SMR Tadlock and Associates	 LTR Standard	 Sacramento	Telecomm Engineering (Bass Lake)	 LTR Standard	 Sacramento	TelePath Corporation
+ DMR Motorola Connect Plus (TRBO)	 Various	The Radio Guys	 NXDN NEXEDGE 4800	 Various	

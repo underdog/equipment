@@ -1,0 +1,35 @@
+154.40000 	WPRX861 	BM	103.5 PL	Piatt Fire North 	Fire/EMS: Northern Piatt Fire 	FMN 	Fire Dispatch 
+154.13000 	WPRX861 	BM	CSQ	Piatt LovFD/HAmb 	911 Disptach/Paging: Iovington Fire/Hammond Ambulance 	FMN 	Fire Dispatch 
+154.25000 	WPRX861 	BM	131.8 PL	Ivesdale Fire 	911: Fire - Ivesdale FPD (Champaign County 911) 	FMN 	Fire Dispatch 
+453.27500 	WPRX861 	F		Piatt 911 RF 1  	911: Remote Receive Links to 911 (to Macon County Dispatch) 	FMN 	Fire Dispatch 
+453.66250 	WPRX861 	F	67.0 PL	Piatt 911 RF 2C 	911: Remote Link (Carrier) [4/13] 	FMN 	Fire Dispatch 
+453.66250 	WPRX861 	F	71.9 PL	Piatt 911 RF 2A  	911: Remote Link (Carrier) [4/13] 	FMN 	Fire Dispatch 
+453.66250 	WPRX861 	F	CSQ	Piatt 911 RF 2B  	911: Remote Receive Links to 911 (Carrier) 	FMN 	Fire Dispatch 
+458.66250 	WPRX861 	F	CSQ	Piatt 911 RF 3  	911: Remote Receive Links  to 911 (for Fire/EMS Network) 	FMN 	Fire Dispatch 
+155.32500 	WPRX861 	RM	127.3 PL	Piatt Co EMS 	EMS: County Net (See Kirby Hospital) 	FMN 	EMS Dispatch 
+464.55000 	 	RM	103.5 PL	Piatt 911 RF 	Fire/EMS: Remote Link (*) 	FMN 	Fire Dispatch 
+151.19750 	WRAF921 	RM		Piatt 151.1975 	Public Safety 	FMN 	Fire Dispatch 
+153.86750 	WRAF921 	M		Piatt 153.8675 	Public Safety (w/ 154.1675) 	FMN 	Multi-Tac 
+154.04750 	KCO839 	RM	10 RAN	Piatt Sheriff A 	Sheriff: Dispatch (Bement) [TG 0] 	NXDN 	Law Dispatch 
+155.59500 	KCO839 	RM	10 RAN	Piatt Sheriff B 	Sheriff: Dispatch (Monticello) [TG 0] 	NXDN 	Law Dispatch 
+156.11250 	KCO839 	RM	10 RAN	Piatt Sheriff C 	Sheriff: Dispatch (Mansfield) [TG 0] 	NXDN 	Law Dispatch 
+453.68750 	WQAT765 	RM	225 DPL	Piat SheriffJail 	Sheriff: Corrections / Jail 	FMN 	Corrections 
+453.50000 	KWY260 	RM	151.4 PL	Piat HW/ESDA 	Highway Department / ESDA 	FMN 	Multi-Dispatch 
+155.32500 	KGT951 	RM	127.3 PL	KirbyHospitalEMS 	EMS: Dispatch (Paged 155.595 131.8) 	FMN 	EMS Dispatch 
+453.43750 	KDN350 	RM	CC 8TG 5626SL 1	DAS Bement 5626 	EMS: Dispatch 	DMR 	EMS Dispatch 
+453.43750 	KDN350 	RM	CC 8TG 6375SL 2	DAS Bement 6375 	EMS: Dispatch 	DMR 	EMS Dispatch 
+154.72500 	WQPJ964 	RM	031 DPL	BRdgTwpRoads 	Blue Ridge Township: Roads/Snow Plows (Mansfield) 	FMN 	Public Works 
+154.72500 	WQPJ964 	RM	271 DPL	Sangmon Twp Road 	Sangamon Township: Roads 	FMN 	Public Works 
+154.72500 	WQPJ964 	RM	411 DPL	WBr Twp Road 	Willow Branch Township: Roads (Deland) 	FMN 	Public Works 
+156.22500 	KLA532 	RM		MontTwp Road 	Monticello Township Roads (in use 3/13) 	NXDN 	Public Works 
+173.36250 	WPAM524 	M		NPCFPD MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+154.13000 	WQYC608 	RM	146.2 PL	Atwood Fire 	Fire 	FMN 	Fire Dispatch 
+153.98000 	KB32636 	M		CGor PD MX 	Police: Mobile Extenders to 155.595R 	FMN 	Law Tac 
+154.20500 	WQKR547 	RM		CerroGordo Fire 	Fire: Local 	FMN 	Fire-Tac 
+155.80500 	KNHK411 	BM	114.8 PL	Mansfld ESDA 	ESDA / Public Works 	FMN 	Multi-Dispatch 
+159.19500 	KRM878 	RM	91.5 PL	Mont PW/PD 	Public Works / Police: Local 	FMN 	Multi-Tac 
+461.57500 	WPMV272 	RM	074 DPL	461.525.bus 	schools buses (heard Monticello) (Larry Craig at Cerro Gordo) 	FMN 	Schools 
+464.10000 	WQZI961 	RM	051 DPL	ICSB Monticello 	Illinois Central School Bus: Monticelloe 	FMN 	Transportation 
+152.34500 	WQFM606 	RM	131.8 PL	Mont Schools 	Monticello Community Unit School District 25 	FMN 	Schools 
+154.54000 	KD24973 	M		CerGo School 	Cerro Gordo Community Unit District #100: Ops 	FMN 	Schools 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	

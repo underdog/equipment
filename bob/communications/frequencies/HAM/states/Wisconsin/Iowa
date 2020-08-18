@@ -1,0 +1,20 @@
+154.38500 	KDP358 	RM	77.0 PL	IOPAG 	Fire Paging 	FMN 	Fire Dispatch 
+154.41500 	KDP358 	RM	B0C NAC	IOPS2FIRE1 	Fire Repeaters 	P25 	Fire-Talk 
+154.41500 	KDP358 	RM	243 DPL	IOPS2FIRE2 	Fire Repeaters 	FMN 	Fire-Talk 
+154.43000 	KDP358 	M	123.0 PL	IOFG 	Fireground 	FMN 	Fire-Tac 
+155.34000 	 	BM	206.5 PL	Mem Hosp B 	EMS to Memorial Hospital 	FMN 	Hospital 
+155.72250 	KDP358 	RM	B0C NAC	IOPS1LAW1 	Law Repeaters 	P25 	Law Dispatch 
+155.72250 	KDP358 	RM	123.0 PL	IOPS1LAW2 	Law Repeaters 	FMN 	Law Dispatch 
+154.80000 	WQLC672 	BM		IOJAIL 	Jail 	FMN 	Corrections 
+155.59500 	KSB447 	RM	100.0 PL	IOHWY 	Highway 	FMN 	Public Works 
+154.00250 	WQYC527 	M	116 DPL	IOHWYMO 	Highway Mobile 	FMN 	Public Works 
+154.98000 	WNIV695 	RM	167.9 PL	DodgevillePW 	Public Works 	FMN 	Public Works 
+155.02500 		WPQF980  	RM	125 DPL	Dodgevil EMS 	EMS 	FMN 	EMS-Talk 
+159.19500 	WPQF980 	M		Dodgevil EMS 	EMS 	FMN 	EMS-Talk 
+151.11500 	WQHX830 	RM	156 DPL	IOMPFD 	Mineral Point FD 	FMN 	Fire-Talk 
+155.08500 	WPIA665 	BM	146.2 PL	IOBADPW 	Barneveld DPW 	FMN 	Public Works 
+155.08500 	WNNS220 	BM	100.0 PL	IOMPDPW 	Mineral Point DPW 	FMN 	Public Works 
+155.08500 	KNGV891 	BM	127.3 PL	IODODPW 	Town of Dodgeville DPW 	FMN 	Public Works 
+155.11500 	WPYF768 	RM	413 DPL	IOMPEMS 	Mineral Point EMS 	FMN 	EMS-Talk 
+Alliant Energy	 DMR Tier 3	 Various	Lands End	 NXDN Icom IDAS Type D	 Dodgeville	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I
+ Statewide	

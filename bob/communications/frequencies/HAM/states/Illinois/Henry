@@ -1,0 +1,65 @@
+154.72500 	WPTY655 	B	156 DPL	Henry Shrf Rural 	Sheriff: Rural Dispatch - Base 	FMN 	Law Dispatch 
+154.72500 	WPTY655 	M	CSQ	Henry Shrf Rural 	Sheriff: Rural Dispatch - Mobiles 	FMN 	Law Dispatch 
+156.15000 	WPTY655 	M		Henry Sheriff c2 	Sheriff: Car to Car 	FMN 	Law Tac 
+155.86500 	KNHY678 	BM		Henry ESDA 1 	ESDA 	FMN 	Emergency Ops 
+155.88000 	KNCW983 	BM		Henry ESDA 2 	ESDA 	FMN 	Emergency Ops 
+154.19000 	WPAT672 	BM	67.0 PL	Henry Fire B 	Fire: Countywide Dispatch/Operations - Base 	FMN 	Fire Dispatch 
+154.19000 	WPAT672 	BM	CSQ	Henry Fire/EMS  	Fire: Countywide Dispatch/Operations - Mobiles 	FMN 	Fire Dispatch 
+453.65000 	WPRR858 	RM		Henry AVLS 	AVLS Data (Cambridge) 	Telm 	Data 
+156.18000 	KSJ389 	RM	CC 1TG 1SL 1	Hnry Highway 	Highway Department (was 203.5 PL) 	DMR 	Public Works 
+453.72500 	WPJM698 	RM		Hnry HouseAuth  	Housing Authority Maintenance 	FMN 	Public Works 
+155.11500 	KEW938 	BM	210.7 PL	TriCountyEMS Alt 	EMS: Alternate 	FMN 	EMS Dispatch 
+155.23500 	KEW938 	RM	210.7 PL	TriCounty EMS 	EMS: Dispatch (Alpha) 	FMN 	EMS-Tac 
+452.43750 	WQHH232 	RM		HHDHosp Ops U1 	Operations ? 	FMN 	Business 
+154.54000 	 	BM		HHDHosp Ops V1 	Operations 	FMN 	Business 
+155.34000 	WQBU703 	B	229.1 PL	MERCI1 229.1 	Patient Reports 	FMN 	Hospital 
+155.34000 	KWE724 	BM	136.5 PL	MERCI1 136.5 	Patient Reports 	FMN 	Hospital 
+163.25000 	WNAP635 	B		KHosp Paging  	Paging 	FMN 	Data 
+151.02500 	WNJK709 	BM		Hnry Twp Roads A 	Township Roads (Clover, Osco, Lynn) 	FMN 	Public Works 
+153.96500 	WPLU464 	M	206.5 PL	Galva Twp Roads  	Galva Township: Roads 	FMN 	Public Works 
+154.05500 	KFG419 	BM		Kewanee TwpRoads 	Kewanee Township: Roads 	FMN 	Public Works 
+156.22500 	WNYY680 	BM		Hnry Twp Roads B 	Township Roads (Genesseo, Munson, Cornwall, Oxford, Phenix) 	FMN 	Public Works 
+156.22500 	WQOX778 	BM	123.0 PL	Wthrsfld Twp 	Wethersfield Township: Roads / Snow Plows 	FMN 	Public Works 
+159.45750 	WQAA846 	M		OxfdTwp FG/MX 	Fireground / Mobile Extenders 	FMN 	Fire-Tac 
+159.21750 	WQCY605 	M		Alpha Police MX  	Police: Mobile Extenders 	FMN 	Law Tac 
+151.34000 	WPPZ777 	BM		Cmbrdg ESDA  	Emergency Services and Disaster Agency 	FMN 	Emergency Ops 
+154.78500 	WPHH642 	BM		Cmbrdg Water  	Village/Water Department 	FMN 	Public Works 
+151.10000 	KB63362 	BM	210.7 PL	Colona Police 	Police: Dispatch (Repeats 154.725 CSQ) 	FMN 	Law Dispatch 
+155.19000 	KB63362 	BM		Colona Police B 	Police: Local ? 	FMN 	Law Tac 
+158.82000 	WNRW271 	BM	225.7 PL	Colona Fire Loc  	Fire: Local - Countywide Dispatch (Repeats 154.19 CSQ) 	FMN 	Fire Dispatch 
+155.56500 	WQBS724 	BM		Colona PublicWrk 	Public Works 	FMN 	Public Works 
+453.40000 	WPAE674 	M		Colona Water  	Water Department 	FMN 	Public Works 
+451.26250 	WQBN350 	F		Colona WDD  	Water Distribution Data 	Telm 	Data 
+159.28500 	WPZC427 	M	179.9 PL	Galva Police  	Police Mobile Extenders 	FMN 	Law Dispatch 
+159.34500 	WQCR404 	BM		Galva ESDA 	ESDA 	FMN 	Emergency Ops 
+152.28500 	WQBB433 	M	88.5 PL	I-WARN 1 	Illinois Weather Alert Radio Network 	FMN 	Emergency Ops 
+155.10000 	WPXN397 	BM	CSQ	Galva Events 1 	Special Events 	FMN 	Multi-Tac 
+155.70000 	WPXN397 	BM	CSQ	Galva Events 2 	Special Events 	FMN 	Multi-Tac 
+155.00250 	KSD595 	RM	151.4 PL	Geneseo Police 	Police Dispatch / EMS: Response 	FMN 	Law Tac 
+151.12250 	KB72866 	RM	CC 1TG 200SL 1	Geneseo PD c2c 	Police Car- Car/ BU Disp / Snow Plows 	DMR 	Law Tac 
+158.25000 	KAV686 	BM		Geneseo PW 	Public Works 	FMN 	Public Works 
+154.75500 	KSA964 	RM	123.0 PL	Kewanee Police 	Police: Operations 	FMN 	Law Dispatch 
+151.47500 	KSA964 	BM		Kewnanee PD Fut 	Police 	FMN 	Law Tac 
+154.83000 	KD38625 	M		Kewnanee PD Tac 	Police Tac 	FMN 	Law Tac 
+154.19000 	KAT798 	BM	136.5 PL	Kewanee Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+158.96250 	KAT798 	M		Kewanee Fire MX 	Fire: Mobile Extenders  	FMN 	Fire-Tac 
+155.94000 	KSJ489 	BM	123.0 PL	Kewnanee PW 	Public Works / Street Department 	FMN 	Public Works 
+451.02500 	WPYL215 	BM		Kewanee WDD 	Water Distribution Data 	Telm 	Data 
+154.19000 	WNFU209 	BM	192.8 PL	Orion Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+159.31500 	WPZC609 	M		Orio FG/MX 	Fireground / Mobile Extenders 	FMN 	Fire Dispatch 
+154.38500 	WPEH964 	RM	179.9 PL	Mercer Fire 	Fire (to Mercer County 911 - Sherrard tower) 	FMN 	Fire Dispatch 
+158.74500 	WNKT517 	BM		Orion  VH/CD 	Village Hall/Civil Defense 	FMN 	Multi-Dispatch 
+158.76750 	WQXY384 	RM	156 DPL	Woodhull Police 	Police: Dispatch (w/ Alpha) 	FMN 	Law Dispatch 
+463.47500 	WNDX743 	RM		Alwood Schools 1 	Alwood Community Unit School District (Mila-Rock Island) 	FMN 	Schools 
+464.52500 	WNDX743 	BM		Alwood Schools 2 	Alwood Community Unit School District (Woodhill) 	FMN 	Schools 
+155.29500 	WNUE366 	BM		Cambridge SchBus 	Cambridge Community Unit Schools District 227: Buses 	FMN 	Schools 
+155.17500 	KAQ877 	BM		Galva School Bus 	Galva Community Unit School District 224: Buses 	FMN 	Schools 
+155.18250 	WPMU748 	BM		Kawn SchBus 	Kewanee School District: Buses 	FMN 	Schools 
+155.16000 	KXM381 	BM	127.3 PL	Orion School Bus 	Orion School District: Buses 	FMN 	Schools 
+154.51500 	WNYX246 	M		Orion Middle Sch 	Orion School District: Middle School 	FMN 	Schools 
+151.80500 	WNKN945 	BM		Wthrsv School  	Wethersfield School District 230 (Kewanee) 	FMN 	Schools 
+151.17500 	WQBS754 	RM	114.8 PL	BlkHwkCol Police 	Police: Dispatch 	FMN 	Law Dispatch 
+152.36750 	WPLI856 	RM	CC 3TG 480SL 2	BlkHwkCol PDTac 	Police: Tac 	DMR 	Law Tac 
+152.36750 	WPLI856 	RM	CC 3TG 940SL 1	BH College Ops 	Campus Ops 	DMR 	Public Works 
+Big River Resources (Galva IL)	 DMR Hytera XPT	 Galva	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3
+ Multiple	Dairyland Power Cooperative	 DMR Tier 3	 Various	Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois	

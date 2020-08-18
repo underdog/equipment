@@ -1,0 +1,53 @@
+154.37000 	WQQH304 	BM	179.9 PL	BRPAGE 	Fire Paging 	FMN 	Fire Dispatch 
+154.04000 	WQQI392 	RM	179.9 PL	BRFIRE 	Fire Patch to Trunking 	FM 	Fire Dispatch 
+453.67500 	WQQH841 	RM	179.9 PL	BRPAGELINK 	County Paging Link 	FMN 	Multi-Talk 
+153.11000 	WPPV653 	RM	365 DPL	CountyRescue 	County Rescue Service - Admin 	FMN 	EMS Dispatch 
+155.34000 	 	BM	107.2 PL	Bellin Hosp 	Bellin Memorial Hospital 	FMN 	EMS-Talk 
+155.34000 	 	BM	131.8 PL	BayCare Hosp 	Aurora Bay Care Medical Center 	FMN 	EMS-Talk 
+155.34000 	KTX620 	BM	151.4 PL	St Marys Hos 	Saint Mary's Hospital Medical Center 	FMN 	EMS-Talk 
+155.34000 	KUB775 	BM	173.8 PL	St Vincent H 	Saint Vincent Hospital 	FMN 	EMS-Talk 
+859.73750 	WNMI560 	RM	203.5 PL	BR Inc Comm 	Incident Command Trailer 	FMN 	Emergency Ops 
+151.11500 	KBE501 	RM	131.8 PL	BRHWY 	Highway Department 	FMN 	Public Works 
+159.12000 	WPCE461 	M	131.8 PL	BRHWYFLAG 	Highway Department - Flaggers 	FMN 	Public Works 
+453.56250 	WQKX629 	RM		NEW Zoo 	NEW Zoo 	DMR 	Public Works 
+460.08750 	WQKX629 	BM		NEW Zoo 	NEW Zoo 	FMN 	Public Works 
+453.13750 	WQOR949 	M		BR Health 	Health Department 	DMR 	Public Works 
+453.91250 	WQOR949 	M		BR Health 	Health Department 	DMR 	Public Works 
+458.13750 	WQOR949 	M		BR Health 	Health Department 	DMR 	Public Works 
+458.88750 	WQOR949 	M		BR Health 	Health Department 	DMR 	Public Works 
+458.91250 	WQOR949 	M		BR Health 	Health Department 	DMR 	Public Works 
+453.87500 	WPGP475 	BM		Survey Data 	Surveyors (Data) 	Telm 	Public Works 
+453.91250 	KB61164 	M		Neville Msm 	Neville Public Museum (Green Bay) 	FM 	Public Works 
+851.17500 	WQQR712 	RM		BR 	County 	FM 	Multi-Talk 
+852.07500 	WQQR712 	RM		BR 	County 	FM 	Multi-Talk 
+852.72500 	WQQR712 	RM	151.4 PL	BRBACKUP 	County Backup 	FM 	Multi-Talk 
+154.19000 	WNPD493 	RM	712 DPL	Allouez Fire 	Fire 	FM 	Fire-Talk 
+453.40000 	KAQ603 	RM	CC 2TG 1001SL 1	Allouez DPW 	Public Works 	DMR 	Public Works 
+154.10000 	KNGQ681 	RM	156.7 PL	Ashw DPW 	Public Works 	FM 	Public Works 
+154.07750 	WQGS313 	RM	CC 14TG 1001SL 1	Bellevue DPW 1 	Public Works 1 	DMR 	Public Works 
+154.07750 	WQGS313 	RM	CC 14TG 1002SL 2	Bellevue DPW 2 	Public Works 2 	DMR 	Public Works 
+159.12000 	WQGS313 	M		Bellevue DPW 3 	Public Works 3 	DMR 	Public Works 
+155.88000 	KEM598 	RM	107.2 PL	De Pere DPW 	Street Department 	FMN 	Public Works 
+159.12000 	WNFJ765 	BM	146.2 PL	Denmark DPW 	Police / Public Works 	FM 	Public Works 
+855.21250 	WNMI560 	RM	203.5 PL	GrnBayPD BU 	Police - Street Crimes Unit & Gang Suppression Unit - P25 ENC 	FM 	Law Tac 
+855.73750 	WPHY856 	RM	203.5 PL	GrnBayFD BU 	Fire Backup (Rarely Used) 	FM 	Fire-Talk 
+153.71000 	WQBU490 	RM	141.3 PL	Grn Bay Wtr 	Water Department 	FMN 	Public Works 
+154.96500 	WQDH931 	RM	114.8 PL	GB Parks/Rec 	Parks/Recreation/Inspection 	FMN 	Public Works 
+158.82000 	KEO222 	RM	141.3 PL	Grn Bay DPW 	Street Department 	FMN 	Public Works 
+173.39625 	WPAI912 	F	CSQ	GB Wtr Data 	Water Pump/Pressure Data 	Telm 	Data 
+453.42500 	 	RM	151.4 PL	GBM Sewage 	Green Bay Metro Sewage District 	FM 	Public Works 
+854.98750 	WPUK865 	RM	365 DPL	GBM Sewage 	Green Bay Metro Sewage District 	FM 	Public Works 
+155.05500 	KVQ637 	RM	125 DPL	Howard FD 	Fire 	FMN 	Fire-Talk 
+154.34000 	KVQ637 	M		Howard FG 	Fireground 	FMN 	Fire-Tac 
+158.74500 	KVQ571 	RM	CC 14TG 500SL 1	Howard DPW 	Public Works 	DMR 	Public Works 
+155.38500 	WPUH780 	RM	173.8 PL	NewFrankenFD 	Fire 	FMN 	Fire-Talk 
+153.56000 	WQGJ866 	RM	371 DPL	NEW Rescue 	NEW Rescue (Gold Cross) Tac/Intercepts 	FMN 	EMS-Tac 
+154.84500 	KNCE275 	BM	146.2 PL	Pulaski PD 	Police 	FMN 	Law Talk 
+154.98000 	WPPD237 	BM	156.7 PL	Pulaski DPW 	DPW/Fire 	FMN 	Multi-Talk 
+151.22000 	WPWH499 	RM	371 DPL	Suamico Fire 	Fire/DPW 	FMN 	Multi-Talk 
+155.74500 	WPMH677 	BM	210.7 PL	WrightstwnPW 	Public Works 	FMN 	Public Works 
+Baycom (De Pere)	 LTR Standard	 De Pere	Bertram Communications	 DMR Tier 3	 Varies	Georgia Pacific	 DMR Motorola Connect Plus (TRBO)
+ Green Bay	Green Bay Dept of Public Works	 DMR Hytera XPT	 Green Bay	Green Bay Packers	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Green Bay	Nielson Communications (De Pere)
+ LTR Standard	 De Pere	Oneida Indian Nation	 DMR Motorola Connect Plus (TRBO)	 Oneida	Proctor and Gamble (Green Bay)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Green Bay
+Sustained Interoperable Radio for Emergency Notification (SIREN)	 Project 25 Phase I	 Green Bay	TRBOconnection-TRBOnexus	 DMR Motorola Connect Plus (TRBO)	 Various	Wisconsin Dept. of Corrections (P25)	 Project 25 Phase I
+ Winnebago	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	Wisconsin Public Service Corp	 LTR Standard	 Green Bay	

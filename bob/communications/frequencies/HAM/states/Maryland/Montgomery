@@ -1,0 +1,73 @@
+853.51250 	WPBH837 	M	156.7 PL	75E MCDR1 	Ch. 75E Montgomery County Direct 1 	FM 	Fire-Talk 
+851.83750 	WPWB302 	M	156.7 PL	75F MCDR2 	Ch. 75F Montgomery County Direct 2 	FM 	Fire-Talk 
+855.73750 	WQEK860 	RM	156.7 PL	7N VRS 	Ch. 7N Vehicle Repeater System (also Ch. 71N and 72N) 	FM 	Fire-Tac 
+852.23750 	WPWB302 	M	156.7 PL	7O FDTA 	Ch. 7O Fire Department Talk-Around (also Ch. 71O and 72O) 	FMN 	Fire-Talk 
+154.16000 	KCP599 	RM	156.7 PL	MoCo FD V7A Disp 	Ch. V7A Dispatch (Patched with TRS Talkgroup 3344) 	FMN 	Fire Dispatch 
+153.95000 	KCP600 	RM	CSQ	MoCo FD V7B Ops 	Ch. V7B Operations (Normally Patched with TRS Talkgroup 3376) 	FMN 	Fire-Tac 
+155.52000 	 	BM		MoCo FD V7C 	Ch. V7C Back-up to TRS 	FMN 	Fire-Tac 
+155.10000 	 	BM		MoCo FD V7D 	Ch. V7D Back-up to TRS 	FMN 	Fire-Tac 
+155.34000 	 	BM		MoCo FD V7E 	Ch. V7E Back-up to TRS 	FMN 	Fire-Tac 
+154.35500 	 	BM		MoCo FD V7F 	Ch. V7F Back-up to TRS 	FMN 	Fire-Tac 
+155.98500 	 	BM		MoCo FD V7G 	Ch. V7G Back-up to TRS 	FMN 	Fire-Tac 
+155.28000 	 	BM		MoCo FD V7H 	Ch. V7H Back-up to TRS 	FMN 	Fire-Tac 
+155.80500 	 	BM		MoCo FD V7I 	Ch. V7I Back-up to TRS 	FMN 	Fire-Tac 
+150.99500 	 	RM		MoCo FD V7J 	Ch. V7J Back-up to TRS 	FMN 	Fire-Tac 
+488.66250 	WQCD453 	RM	136.5 PL	BCCRS 	Bethesda-Chevy Chase Rescue Squad 	FM 	EMS-Tac 
+851.51250 	WPBD309 	M	67.0 PL	G11 MCDR1 	Montgomery County Direct 1 	FM 	Law Talk 
+851.83750 	WPWB302 	M	156.7 PL	G12 MCDR2 	Montgomery County Direct 2 	FM 	Law Talk 
+852.48750 	WPWB302 	M	293 NAC	A16 PDIR1 	Police Direct 1 (also channels F14 and G10) 	P25 	Law Talk 
+851.86250 	WPWB302 	RM	210.7 PL	G13 XP-1 	XP-1 	FM 	Interop 
+852.76250 	WPWB302 	RM	210.7 PL	G14 XP-2 	XP-2 	FM 	Interop 
+151.28000 	KIF677 	RM	118.8 PL	M-NCPPC C1/3 	Police Dispatch/Operations (Simulcast from Montgomery County TRS) 	FM 	Law Dispatch 
+151.34000 	KJD929 	BM	118.8 PL	M-NCPPC CH2 	Park Operations/Maintenence 	FM 	Public Works 
+155.47500 	 	M	CSQ	M-NCPPC CH4 	Nationwide Police Channel 	FM 	Law Tac 
+464.32500 	WPUW727 	RM	CC 7TG 103SL 2	MontCollRckH/K 	Rockville Campus - Housekeeping 	DMR 	Schools 
+464.32500 	WPUW727 	RM	CC 7TG 102SL 1	MontCollRckMnt 	Rockville Campus - Maintenance 	DMR 	Schools 
+452.25000 	WPUW727 	RM	CC 7TG 101SL 1	MontCollRckSec 	Rockville Campus - Security 	DMR 	Security 
+467.81250 	 	M	205 DPL	PWT GburgDep 	Gaithersburg Depot 	FM 	Public Works 
+453.40000 	 	RM	114.8 PL	RideOn 1 	1 	FM 	Transportation 
+452.77500 	WQF598 	RM	203.5 PL	RideOn 2 Gth 	2 Gaithersburg Area - North 	FM 	Transportation 
+452.82500 	WNAL289 	RM	156.7 PL	RideOn 3 SS 	3 Silver Spring Area - South 	FM 	Transportation 
+461.25000 	WPHD628 	M	546 DPL	ShadyGrvXfer 	Shady Grove Transfer Station 	FM 	Public Works 
+464.67500 	WPHD628 	RM	054 DPL	Covanta Mont 	Covanta Montgomery (trash incinerator/power generating plant) 	FM 	Public Works 
+45.74000 	WPKC708 	RM	94.8 PL	WSSC 45.74 	Washington Suburban Sanitary Commission 	FM 	Public Works 
+495.33750 	KSE564 	RM	114.8 PL	MCPSBus2Clrk 	Ch. 2 Clarksburg Depot 	FM 	Schools 
+495.36250 	KCU652 	RM	136.5 PL	MCPSBus3Rand 	Ch. 3 Randolph Depot 	FM 	Schools 
+495.38750 	KCU652 	RM	CC 5TG 14SL 1	MCPSBus4SGNo 	Ch. 4 Shady Grove North Depot 	DMR 	Schools 
+494.71250 	KCU652 	RM	131.8 PL	MCPSBus5SGSo 	Ch. 5 Shady Grove South Depot 	FM 	Schools 
+495.31250 	KCU652 	RM	131.8 PL	MCPSBus6WFrm 	Ch. 6 West Farm Depot 	FM 	Schools 
+494.46250 	WIK391 	RM	162.2 PL	MCPSBus7Admn 	Ch. 7 Administrative 	FM 	Schools 
+494.46250 	WIK391 	M	411 DPL	MCPSBus8Drct 	Ch. 8 Direct 	FM 	Schools 
+155.10000 	KBE466 	BM	156.7 PL	MCPS Maint1N 	Maintenance Ch. 1 North (Clarksburg, Shady Grove Depots) 	FM 	Schools 
+155.80500 	KBQ802 	BM	156.7 PL	MCPS Maint2S 	Maintenance Ch. 2 South (Bethesda, Randolph, West Farm Depots) 	FM 	Schools 
+452.31250 	WQOR362 	M	CSQ	Candlewd 452 	Candlewood Elementary School 	FMN 	Schools 
+467.51250 	 	M	351 DPL	Candlewd 467 	Candlewood Elementary School 	FMN 	Schools 
+464.37500 	WQOR362 	M	265 DPL	Carver ESC 	Carver Educational Services Center 	FM 	Schools 
+451.77500 	WQXH455 	RM	CC 13TG 13SL 1	HaddieWells MS 1 	Haddie Wells Middle School 1 	DMR 	Schools 
+451.77500 	WQXH455 	RM	CC 13TG 14SL 2	HaddieWells MS 2 	Haddie Wells Middle School 2 	DMR 	Schools 
+451.40000 	WPOY341 	RM	743 DPL	Kennedy HS 	Kennedy High School 	FM 	Schools 
+451.52500 	WPMV440 	RM	226 DPL	Magruder HS 	Magruder High School 	FM 	Schools 
+464.37500 	WQOR362 		136.5 PL	Mont Vill HS 	Montgomery Village Middle School 	FM 	Schools 
+461.32500 	WPVU681 	RM	136.5 PL	Northwest HS 	Northwest High School 	FM 	Schools 
+451.83750 	WQJR459 	RM		QuincOrchHS1 	Quince Orchard High School 	FMN 	Schools 
+452.75000 	WQJR459 	RM	465 DPL	QuincOrchHS2 	Quince Orchard High School 	FMN 	Schools 
+464.37500 	WQOR362 	M		RMHS 1 	Richard Montgomery High School Ch. 1 	FM 	Schools 
+464.55000 	 	M		RMHS 2 	Richard Montgomery High School Ch. 2 	FM 	Schools 
+461.12500 	WPVU684 	RM	526 DPL	SenecaVly461 	Seneca Valley High School 	FM 	Schools 
+462.12500 	WPVU684 	RM	703 DPL	SenecaVly462 	Seneca Valley High School 	FM 	Schools 
+464.72500 	WPRT848 	RM	025 DPL	WatkinsMilHS 	Watkins Mill High School 	FM 	Schools 
+451.52500 	WPMV440 	RM	CC 11TG 41SL 1	Wheaton HS 	Wheaton High School 	DMR 	Schools 
+461.65000 	WPWC936 	RM	155 DPL	Churchill HS 	Winston Churchill High School 	FM 	Schools 
+154.06250 	WPWJ586 	RM	243 DPL	GaithPW.0625 	Public Works 	FMN 	Public Works 
+156.17250 	WPRG711 	RM	051 DPL	GaithPW.1725 	Public Works 	FMN 	Public Works 
+170.12500 	 	RM	293 NAC	DOE HQ Sec 	Headquarters (Germantown) - Security 	P25 	Federal 
+164.02500 	 	BM	631 DPL	NIST Shuttle 	Shuttle Buses 	FM 	Federal 
+171.23750 	 	B		NIH Paging 	Paging 	Telm 	Data 
+168.52500 	 	BM	CSQ	USPS SMP&DC 	Suburban Maryland Processing & Distribution Center 	FM 	Federal 
+172.12500 	 	BM	131.8 PL	WRAMCFGAFire 	Fire (Station 54, engine only) 	FM 	Federal 
+Baltimore Gas and Electric	 iDEN Harmony	 Various	DMR-MARC Amateur Radio Network (MD)	 DMR Conventional Networked	 Various	First Energy	 Project 25 Phase I
+ Various	FleetCall	 NXDN NEXEDGE 4800	 Various	FleetTalk (DC-Area Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	FleetTalk (Silver Spring LTR)
+ LTR Standard and Passport	 Silver Spring	Integrated Wireless Network (IWN) National Capital Region	 Project 25 Phase I	 Various	Montgomery County, MD	 Motorola Type II SmartZone	 Montgomery County
+Montgomery County, MD Schools	 DMR Motorola Capacity Plus Single Site (TRBO)	 Various	National Institutes of Health	 Project 25 Phase II	 Various	Strathmore	 LTR Standard
+ North Bethesda	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Unidentified Federal P25 (680)	 Project 25 Phase I	 	Washington Metropolitan Area Transit Authority
+ Motorola Type II Smartnet	 Various	

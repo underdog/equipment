@@ -1,0 +1,29 @@
+460.35000 	KFH514 	RM	15 RAN	MontCoSDBkDi 	Sheriff Department - Backup Dispatch ("F3") 	NXDN 	Law Dispatch 
+460.12500 	KFH514 	M	125 DPL	MontCoSDTA2 	Sheriff Department - Talk-Around 	FMN 	Law Tac 
+462.68750 	 	M	047 DPL	MontCoSDTA3 	Sheriff Department - Talk-Around 	FMN 	Law Tac 
+460.40000 	KFH514 	RM	151.4 PL	MontCoSDMAid 	Sheriff Department - Mutual Aid ("F8") 	FMN 	Law Talk 
+155.37000 	KFH514 	B	CSQ	Intercity 	Sheriff Department - Intercity 	FMN 	Law Talk 
+460.20000 	KFH514 	M	20 RAN	MontCoPSC 	County Public Safety Complex 	NXDN 	Multi-Tac 
+460.23750 	 	RM	54 RAN	MontCoSDJail 	Sheriff Department - Jail 	NXDN 	Corrections 
+453.26250 	 	M	30 RAN	MontCoSDWork 	Sheriff Department - Workhouse 	NXDN 	Corrections 
+460.28750 	 	M	25 RAN	MontCoSDCourts 	Sheriff Department - Court Bailiffs 	NXDN 	Corrections 
+453.28750 	 	RM	45 RAN	MontCoFDPagr 	Fire Department - Paging / Backup ("F1") 	NXDN 	Fire Dispatch 
+463.06250 	 	RM	32 RAN	MontCoEMSPage 	EMS - Paging/Dispatch Backup 	NXDN 	EMS Dispatch 
+453.02500 	KWL484 	RM	151.4 PL	MontCoEMSRur 	EMS - Rural Repeater 	FMN 	EMS-Tac 
+155.34000 	KWL484 	BM		H.E.A.R. 	EMS - Patient Reports (H.E.A.R.) 	FMN 	Hospital 
+453.62500 	WPUN413 	RM	100.0 PL	MedTranspSvc 	Medical Transport Service 	FMN 	EMS Dispatch 
+155.89500 	 	BM	162.2 PL	Bi County Waste 	Bi County Waste Disposal 	FMN 	Public Works 
+465.28750 	 	M	18 RAN	MontCoCHMaint 	County Courthouse Maintenance 	NXDN 	Public Works 
+453.82500 	WNAL771 	RM	179.9 PL	ClrkvlPDSpec 	Police Department - Special Use 	FM 	Law Tac 
+453.75000 	WNAV319 	RM		ClrkvlFD750 	Fire Department - Backup Repeater / Interoperability With County Fire 	FM 	Fire-Tac 
+460.58750 	WNAV319 	RM		ClrkvlFD5875 	Fire Department - Backup Repeater / Interoperability With County Fire 	FM 	Fire-Tac 
+460.63750 	WNAV319 	RM		ClrkvlFD6375 	Fire Department - Backup Repeater / Interoperability With County Fire 	FM 	Fire-Tac 
+154.43000 	WNPE971 	RM	179.9 PL	ClrkvlPubWks 	Public Works / Street Department 	FM 	Fire-Tac 
+158.76000 	KBC443 	RM	179.9 PL	ClrkvlCodes 	Codes Department 	FM 	Public Works 
+451.52500 	KNNJ560 	F	CSQ	ClrkvlTelem 	Water Department - Telemetry 	FM 	Data 
+451.52500 	KNNJ983 	F	CSQ	ClrkvlTelem 	Water Department - Telemetry 	FM 	Data 
+154.96500 	WNKK738 	RM	179.9 PL	ClrkvlParks 	Parks & Recreation 	FM 	Public Works 
+462.05000 	 	M		Clkrvl Schls 	Clarksville School System Talkaround 	FM 	Schools 
+Bridgestone Metalpha USA	 LTR Passport	 Clarksville	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked
+ Various	Tennessee Homeland Security District 7	 NXDN NEXEDGE 4800	 Various	US Army Fort Campbell	 Project 25 Phase I	 Fort Campbell	Wireless Plus (DMR)
+ DMR Motorola Capacity Plus Multi Site (TRBO)	 Varies	

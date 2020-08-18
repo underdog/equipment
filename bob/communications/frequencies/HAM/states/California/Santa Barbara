@@ -1,0 +1,96 @@
+460.27500 	KEF787 	RM	110.9 PL	SBCoSO 1 	Dispatch 	FM 	Law Dispatch 
+460.32500 	KEF787 	RM	110.9 PL	SBCoSO 2 	Secondary/Records 	FM 	Law Tac 
+460.17500 	KZT394 	RM	110.9 PL	SBCoSO S Tac 	South County Tac - Carpinteria, Isla Vista 	FM 	Law Tac 
+460.22500 	KEG512 	RM	110.9 PL	SBCoSO N Tac 	North County Tac - Lompoc, Santa Maria 	FM 	Law Tac 
+460.27500 	KEF787 	M	110.9 PL	SBCoSO Ops 1D 	Ops 1 Direct 	FM 	Law Tac 
+460.32500 	KEF787 	M	110.9 PL	SBCoSO Ops 2D 	Ops 2 Direct 	FM 	Law Tac 
+460.30000 	WPBW713 	RM	110.9 PL	SBCoSO Ynez T 	Santa Ynez Tac 	FM 	Law Tac 
+460.05000 	KEF787 	RM	82.5 PL	SBCoSO Red 	Emergency All Agencies (repeated in SLO, SB, and Ventura counties) 	FM 	Law Tac 
+453.60000 	WNDN333 	RM	110.9 PL	SBCoSO Jail/Bus 	Jail Bus 	FM 	Corrections 
+858.96250 	WPKW390 	RM	023 DPL	SBCoSO Jail 	Main Jail (Santa Barbara) 	FM 	Corrections 
+154.92000 	 	M	110.9 PL	SBCoSO SAR1 	Search and Rescue Ch1 	FM 	Law Tac 
+154.92000 	 	M	82.5 PL	SBCoSO SAR2 	Search and Rescue Ch2 	FM 	Law Tac 
+155.16000 	WPWT285 	RM	131.8 PL	SBCoSO SAR 	Search & Rescue 	FM 	Law Tac 
+153.77000 	KMF953 	RM	110.9 PL	SBCoFD Cmd 1 	Command 1 	FMN 	Fire Dispatch 
+153.90500 	WPBZ745 	RM	110.9 PL	SBCoFD Cmd 2 	Command 2 	FMN 	Fire-Tac 
+153.98000 	WPBZ745 	RM	110.9 PL	SBCoFD Cmd 3 	Command 3 	FMN 	Fire-Tac 
+156.13500 	WQLW914  	RM	100.0 PL	SBCoFD Cmd 4 	Command 4 	FMN 	Fire-Tac 
+154.87500 	WQLW914 	RM	100.0 PL	SBCoFD Cmd 5 	Command 5 	FMN 	Fire-Tac 
+150.99500 	WQLW914 	RM	100.0 PL	SBCoFD Cmd 6 	Command 6 	FMN 	Fire-Tac 
+155.59500 	WQLS857 	M	100.0 PL	SBCoFD Tac 7 	Tac 7 	FMN 	Fire-Tac 
+154.84500 	WQLS857 	M	100.0 PL	SBCoFD Tac 8 	Tac 8 	FMN 	Fire-Tac 
+154.65000 	 	M	100.0 PL	SBCoFD Tac 9 	Tac 9 	FMN 	Fire-Tac 
+155.64000 	WQLS857 	M	100.0 PL	SBCoFD Tac10 	Tac 10 	FMN 	Fire-Tac 
+159.07500 	 	M	100.0 PL	SBCoFD Tac12 	Tac 12 	FMN 	Fire-Tac 
+154.19000 	KCT622 	M	100.0 PL	SBCoFD Tac13 	Tac 13 	FMN 	Fire-Tac 
+155.97000 	 	M	100.0 PL	SBCoFD Tac15 	Tac 15 	FMN 	Fire-Tac 
+154.35500 	WPUD994 	RM	100.0 PL	MFPD Cmd 11 	Fire Command 11 	FMN 	Fire Dispatch 
+151.37750 	WPUD994 	RM	100.0 PL	MFPD Cmd 12 	Fire Command 12 	FMN 	Fire-Tac 
+151.49000 	WPUD994 	RM	123.0 PL	MFPD Cmd 13 	Fire Command 13 	FMN 	Fire-Tac 
+153.83000 	WPUD994 	M	123.0 PL	MFPD Tac 3 	Fire Tac 3 	FMN 	Fire-Tac 
+155.08500 	WPUD994 	M	100.0 PL	MFPD Tac 4 	Fire Tac 4 	FMN 	Fire-Tac 
+154.19000 	WPUD994 	M	100.0 PL	MFPD Tac 5 	Fire Tac 5 	FMN 	Fire-Tac 
+151.49750 	 	BM		SYBMI FD 	Chumash Fire 	FMN 	Fire-Tac 
+154.41500 	WNQO260 	RM	127.3 PL	WRA FD Disp 	Dispatch Primary 	FMN 	Fire Dispatch 
+154.13000 	WNQO260 	BM	127.3 PL	WRA FD Tac 	Tactical 	FMN 	Fire-Tac 
+460.51250 	WNQO260 	F		WRA Remote 	Remote Link 	FMN 	Other 
+462.97500 	KSI842 	RM	110.9 PL	SBCo EMS 	Dispatch 	FM 	EMS Dispatch 
+462.95000 	 	M	CSQ	SBCo EMS Tac 	EMS Tactical 	FMN 	EMS-Tac 
+463.10000 	 	RM	110.9 PL	SBCo Med5 	Cottage Santa Barbara 	FM 	Hospital 
+463.12500 	 	RM	110.9 PL	SBCo Med6 	Cottage Santa Ynez 	FM 	Hospital 
+463.12500 	 	RM	114.8 PL	SBCo Med6 	Cottage Goleta 	FM 	Hospital 
+463.15000 	 	RM	110.9 PL	SBCo Med7 	Lompoc Community 	FM 	Hospital 
+463.17500 	 	RM	110.9 PL	SBCo Med8 	Marian Medical Center 	FM 	Hospital 
+463.17500 	KSI842 	RM	114.8 PL	SBCo EMS STac 	South County Tactical 	FMN 	EMS-Tac 
+851.21250 	WPIT744 	RM	127.3 PL	SBCo LG1 N 	Animal Control/Cachuma Lake Park (LG-1 North) 	FMN 	Law Dispatch 
+853.21250 	WPIT744 	RM	127.3 PL	SBCo LG1 S 	Flood Control/Parks/Facilities (LG-1 South) 	FMN 	Public Works 
+853.78750 	WPIT744 	RM	127.3 PL	SBCo LG2 N 	Countywide (LG-2 North) 	FMN 	Public Works 
+852.21250 	WPIT744 	RM	127.3 PL	SBCo LG2 S 	Road Department (LG-2 South) 	FMN 	Public Works 
+45.08000 	KML444 	BM	82.5 PL	SBCo AC 	Animal Control 	FM 	Public Works 
+453.32500 	KTS620 	RM		SBCo Tajiqus 	Tajiquas Landfill 	FM 	Public Works 
+453.60000 	 	RM		SBCo OES 	Office of Emergency Services 	FM 	Emergency Ops 
+460.61250 	WQQA842 	RM	82.5 PL	SBCo XferStn 	Santa Barbara Transfer Station (Landfill) 	FMN 	Public Works 
+462.50000 	 			SBCo CAER 	Community Awareness Emergency Response 	FM 	Emergency Ops 
+866.21250 	WPIT750 	RM	127.3 PL	SBCo HD 	Health Department - Hospital Coordination 	FM 	Hospital 
+154.22000 	WNNI952 	BM	127.3 PL	Guadalupe FD 	Fire Tactical 	FM 	Fire-Tac 
+453.05000 	 	RM	82.5 PL	Guadalupe PW 	Public Works 	FM 	Public Works 
+460.12500 	KZT390 	RM	97.4 PL	Lompoc PD1 	Police Dispatch 	FM 	Law Dispatch 
+460.42500 	KZT390 	RM	88.5 PL	Lompoc PD2 	Police Tactical 	FM 	Law Tac 
+154.43000 	KNIF944 	RM	127.3 PL	Lompoc FD1 	Fire Dispatch 	FM 	Fire Dispatch 
+154.07000 	KNIF944 	RM	85.4 PL	Lompoc FD2 	Fire Command 	FM 	Fire-Tac 
+155.88000 	KNIF944 	BM	85.4 PL	Lompoc FD3 	Fire Tac 	FMN 	Fire-Tac 
+453.82500 	WPDR893 	RM	107.2 PL	Lompoc PW1 	Public Works Channel 1 	FM 	Public Works 
+453.97500 	WPDR893 	RM	146.2 PL	Lompoc PW2 	Public Works Channel 2 	FM 	Public Works 
+453.37500 	WPDR893 	RM	118.8 PL	Lompoc Elec Ops 	Electric Operations 	FM 	Public Works 
+453.47500 	WPDR893 	RM	103.5 PL	Lompoc Elec Dist 	Electric Distribution 	FM 	Public Works 
+453.57500 	WPDR893 	RM	110.9 PL	Lompoc Transit 	Lompoc Transit 	FM 	Transportation 
+460.10000 	KZT401 	RM	82.5 PL	SantaBarbaraPD1 	Police Dispatch 	FM 	Law Dispatch 
+460.40000 	KZT401 	RM	82.5 PL	SantaBarbaraPD2 	Police Secondary 	FM 	Law Tac 
+460.55000 	KZT401 	RM	82.5 PL	SantaBarbaraPD3 	Police Airport Patrol 	FM 	Law Tac 
+154.44500 	KMA216 	RM	82.5 PL	SantaBarbaraFD1 	Fire Dispatch  	FM 	Fire Dispatch 
+154.31000 	WNWU323 	RM	82.5 PL	SantaBarbaraFD2 	Fire Command 2 	FM 	Fire-Tac 
+154.04000 	WNDM670 	RM	82.5 PL	SantaBarbaraFD3 	Fire Command 3 	FM 	Fire-Tac 
+155.61000 	 	BM	82.5 PL	SantaBarbaraFD4 	Fire Tactical 4 	FMN 	Fire-Tac 
+155.19000 	 	BM	100.0 PL	SantaBarbaraFD5 	Fire Tactical 5 	FMN 	Fire-Tac 
+151.10000 	WPQD203 	RM	82.5 PL	SantaBarbaraPW 	Public Works 	FM 	Public Works 
+154.08500 	KMJ851 	RM	82.5 PL	SantaBarbaraPrks 	Parks 	FM 	Public Works 
+453.05000 	WNDV208 	RM	82.5 PL	SantaBarbaraWF 	Waterfront Department / Harbor Patrol 	FM 	Public Works 
+453.90000 	WPUB433 	RM	88.5 PL	SantaBarbaraPrkg 	Downtown Parking Lots 	FM 	Public Works 
+154.35500 	WPYS352 	RM	127.3 PL	SantaMaria FD1 	Fire Dispatch (For mutual aid cover engines) 	FM 	Fire Dispatch 
+154.72500 	WPYS352 	RM	127.3 PL	SantaMaria FD2 	Fire Command 2 (Patched as needed to TRS FD2) 	FM 	Fire-Talk 
+154.40000 	WPYS352 	RM	127.3 PL	SantaMaria FD3 	Fire Command 3 (Backup to TRS) 	FM 	Fire-Talk 
+155.10000 	KOQ893 	RM	127.3 PL	SantaMaria FD4 	Fire Command 4 (Backup to TRS) 	FM 	Fire-Talk 
+150.79000 	WPYS352 	M	CSQ	SantaMaria FD5 	Fire Tac 5 (Used during mutual aid) 	FM 	Fire-Tac 
+453.95000 	WPZU982 	RM	411 DPL	SantaMaria Trans 	Santa Maria Area Transit 	FM 	Transportation 
+461.92500 	WPLQ610 	RM	CC 4TG 301SL 1	AHCSecurity 	Campus Security Santa Maria & Lompoc 	DMR 	Security 
+463.85000 	WPLQ610 	RM	244 DPL	AHC Maint 	Maintenance  	FMN 	Schools 
+451.27500 	WPYI275 	RM	205 DPL	OUSD Busses 	Buses 	FMN 	Schools 
+452.97500 	WPYI275 	RM	205 DPL	OUSD Ops 	Operations 	FMN 	Schools 
+461.25000 	WPKW576 	RM	82.5 PL	SB CC Security 1 	Security Ch 1 	FM 	Security 
+466.25000 	WPKW576 	M	82.5 PL	SB CC Security 2 	Security Ch 2 	FM 	Security 
+463.65000 	WNGN439 	RM	107.2 PL	SMJUHS Bus 	Transportation (Busses) 	FMN 	Schools 
+464.17500 	WNKN946 	RM	107.2 PL	SMJUHS Maint 	Maintenance/Custodial 	FMN 	Schools 
+California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	Central Regional Interoperability Communication System (Central RICS)	 Project 25 Phase II	 Santa Maria	Federal Correctional Complex Lompoc	 Motorola Type II SmartZone
+ Lompoc	Mobile Relay Associates SoCal NEXEDGE Digital Network	 NXDN NEXEDGE 4800	 Multiple	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Silke Communications
+ NXDN NEXEDGE 4800	 Northern California	Southern California Edison	 Project 25 Phase II	 Various	Sterling Communications	 LTR Standard	 Arroyo Grande
+University of California (Santa Barbara)	 Project 25 Phase II	 Santa Barbarba	

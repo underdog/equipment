@@ -1,0 +1,42 @@
+154.86000 	KWM710 	RM	203.5 PL	UtahCo SherN 	Sheriff North (linked to UCAN 46112) 	FMN 	Law Dispatch 
+156.13500 	WNDZ927 	RM	162.2 PL	UtahCo SherS 	Sheriff South (linked to UCAN 46144) 	FMN 	Law Dispatch 
+154.10750 	KWM710 	BM	123.0 PL	UtahCo Serv 	Sheriff Service (linked to UCAN 42848) 	FMN 	Law Talk 
+153.95000 	KVR805 	RM	192.8 PL	UtahCo Fire1 	Fire/EMS Paging 1 (linked to UCAN 46304) 	FMN 	Fire Dispatch 
+154.74000 	KVR805 	RM	131.8 PL	UtahCo Fire2 	Fire/EMS Dispatch 2 (linked to UCAN 46272) 	FMN 	Fire Dispatch 
+155.19000 	KOA559 	RM	203.5 PL	UtahCo Fire3 	Fire/EMS Dispatch 3 (linked to UCAN 41440) 	FMN 	Fire Dispatch 
+155.23500 	WNLB454 	RM	151.4 PL	UtahCo SAR 1 	Search and Rescue (linked to UCAN 46336) 	FMN 	Emergency Ops 
+155.29500 	WNLB454 	BM	CSQ	UtahCo SAR 2 	Search and Rescue Tactical 	FMN 	Emergency Ops 
+857.73750 	WPZV887 	BM	143 DPL	UtahCo Jail 	County Jail 	FMN 	Corrections 
+158.80500 	KZE732 	BM	CSQ	UtahCo Buses 	Buses 	FMN 	Transportation 
+458.57500 	WPEH759 	BM	114.8 PL	UtahCo Waste 	Solid Waste 	FMN 	Public Works 
+464.26250 	 	BM	CC 1TG 16776415SL 1	Buses East 	School Bus East Talk 	DMR 	Schools 
+464.26250 	 	BM	CC 1TG 16776415SL 2	Buses West 	School Bus West Talk 	DMR 	Schools 
+464.97500 	 	BM	CC 1TG 16776415SL *	Bus Mechanic 	School Bus Mechanic Shop 	DMR 	Schools 
+452.60000 	 	BM	CC 4TG 16776415SL *	Bus Garage 	School Bus Garage Service 	DMR 	Schools 
+154.84500 	KNIK640 	BM	162.2 PL	AmerFork Pol 	Police 	FM 	Law Dispatch 
+154.10000 	KAZ438 	BM	162.2 PL	AmerFork Srv 	Services 	FM 	Public Works 
+154.16000 	WNWX628 	B		Mapleton FD 	Fire paging 	FM 	Fire Dispatch 
+154.14500 	KRI705 	BM		Orem Fire 	Fire Paging 	FM 	Fire Dispatch 
+155.26500 	WSL444 	B	CSQ	Payson Hosp 	Mountain View Hospital paging 	FM 	Hospital 
+154.51500 	WQJN658 	RM		Nebo School 	Nebo School District Buses 	FM 	Schools 
+460.47500 	KEG445 	RM	192.8 PL	PlGrove Pol 	Police Dispatch 	FM 	Law Dispatch 
+154.01000 	WPFQ854 	RM	192.8 PL	PlGrove Fire 	Fire (linked to UCAN 44256) 	FM 	Fire Dispatch 
+453.07500 	WPDR892 	RM	192.8 PL	PlGrove EMS 	EMS 	FM 	EMS-Talk 
+158.94000 	WNHR417 	RM	110.9 PL	PlGrove Serv 	Services 	FM 	Public Works 
+461.20000 	WNXV895 	RM	82.5 PL	UtahValMed 1 	Utah Valley Medical Regional Center 	FM 	Hospital 
+463.55000 	WNXV895 	RM	131.8 PL	UtahValMed 2 	Utah Valley Medical Regional Center 	FM 	Hospital 
+155.14500 	WXR227 	BM		Santaquin 	Services 	FM 	Multi-Talk 
+154.41500 	WPWL609 	BM		SpringvlFire 	Fire Paging 	FM 	Fire Dispatch 
+155.94000 	KOM510 	BM	CSQ	SpringvlCity 	Services 	FM 	Public Works 
+158.78250 	WQGB495 	RM	CSQ	WoodHill VHF 	Woodland Hills Backup VHF Repeater 	FM 	Fire-Talk 
+857.66250 	WQTD851 	RM		WoodHill 800 	Woodland Hills Backup 800Mhz Repeater 	FM 	Fire-Talk 
+451.58750 	WQMA203 	BM		WoodHill PW1 	Woodland Hills Public Works 1 	FM 	Public Works 
+456.58750 	WQMA203 	BM		WoodHill PW2 	Woodland Hills Public Works 2 	FM 	Public Works 
+Brigham Young University	 DMR Motorola Connect Plus (TRBO)	 Provo	Church of Jesus Christ of Latter Day Saints	 Project 25 Phase I	 Salt Lake City	DMR-Utah Amateur Radio Network	 DMR Conventional Networked
+ Multiple	Intermountain Health Care Hospital	 NXDN NEXEDGE 4800	 Various	Kilgore Companies	 NXDN Icom IDAS Type C	 Various	Lake Side Power Station
+ DMR Tier 3	 Lindon	McIntosh Communications (Lake Mountain)	 LTR Standard	 Salt Lake City	Micron Technology Inc	 DMR Motorola Connect Plus (TRBO)	 Lehi
+National Security Agency Data Centers	 Project 25 Phase I	 Multiple	Nestle/Stouffers Food	 DMR Motorola Capacity Plus Single Site (TRBO)	 Springville	Novell, Inc. (Provo)	 LTR Standard
+ Provo	Peak Wireless Services	 NXDN NEXEDGE 9600	 Multiple	Questar-Dominion DT3	 DMR Tier 3	 Multiple	Radio Communications
+ Motorola Type II	 Orem	Stouffers/Nestle	 LTR Passport	 Springville	Sundance Ski Resort	 LTR Standard	 Sundance
+Thanksgiving Point Institute, Inc.	 LTR Standard	 Lehi	Unified Fire Authority	 Project 25 Phase I	 Salt Lake City	Utah Transit Authority	 MPT-1327 Standard
+ Salt Lake City	

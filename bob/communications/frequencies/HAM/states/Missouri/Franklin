@@ -1,0 +1,82 @@
+151.34000 	KAL291 	RM	79.7 PL	Franklin Sheriff 	Sheriff/Rural Law: Dispatch 	FMN 	Law Dispatch 
+151.34000 	KAL291 	M	CSQ	FranklinSheriff2 	Sheriff: Car to Car [Ch 2] 	FMN 	Law Tac 
+154.34000 	KAL291 	BM	103.5 PL	FranklnShrf TacO 	Sheriff: Tac/SWAT (Old Ch 3) 	FMN 	Law Tac 
+154.34000 	KAL291 	BM	79.7 PL	FranklnShrf Tac3 	Sheriff: Tac/ERT [Ch 3] 	FMN 	Law Tac 
+453.21250 	WPQA992 	F	79.7 PL	FranklnShrf RF1 	Sheriff: Remote Link - Gray Summit 	FMN 	Law Tac 
+453.36250 	WPQA992 	F	79.7 PL	FranklnShrf RF2 	Sheriff: Remote Link - Sullivan 	FMN 	Law Tac 
+453.61250 	WPQA992 	F		FranklnShrf RF3 	Sheriff: Remote Link - New Haven 	FMN 	Law Tac 
+453.83750 	WPQA992 	F	79.7 PL	FranklnShrf RF4 	Sheriff: Remote Link - Gerald 	FMN 	Law Tac 
+453.86250 	WPQA992 	F	79.7 PL	FranklnShrf RF5 	Sheriff: Remote Link - Robertsville to 151.34R 	FMN 	Law Tac 
+155.73000 	KAL291 	M	79.7 PL	MO Sheriff Net 	Sheriff: Statewide Net / Channel 11 	FMN 	Law Tac 
+154.88250 	WREI358 	RM		Frkn Fire CW Op1 	Fire: Coutnywide Ops 1 [FC Ops 1] (in use) 	FMN 	Fire-Tac 
+155.57250 	WREI358 	RM		Frkn Fire CW Op2 	Fire: Coutnywide Ops 2 [FC Ops 2] (in use) 	FMN 	Fire-Tac 
+158.77500 	WPBE867 	BM		Franklin EMA 1 	Emergency Management Dispatch 	FMN 	Emergency Ops 
+154.43000 	WREI358 	BM	100.0 PL	FranklinFire/EMS 	Fire/EMS: Countywide Dispatch (Gerald) 	FMN 	Fire Dispatch 
+151.01000 	KNEL321 	BM	79.7 PL	FranklinFireMain 	Fire: Main 	FMN 	Fire Dispatch 
+154.38500 	KAL291 	BM	79.7 PL	Frnkln FireOps1 	Fire: Ops 1 	FMN 	Fire-Tac 
+155.28000 	WPBI646 	BM	151.4 PL	CCE Pacific Fire 	CCE 911 Pacific Main 	FMN 	Fire Dispatch 
+155.16000 	KSX325 	BM	123.0 PL	Franklin EMS 	EMS: Dispatch (OLD) 	FMN 	EMS Dispatch 
+460.23750 	WPWR986 	F	173.8 PL	Frnkln EMS RF1 	EMS: Remote Link 	FMN 	EMS Dispatch 
+154.22000 	KAF919 	BM	114.8 PL	CCE Fire Central 	Pacific Fire / Meramec EMS: Paging 	FMN 	Fire Dispatch 
+151.08500 	KOV408 	RM	192.8 PL	Franklin Roads 	Roads: Dispatch [Ch 1/Direct Ch 2] 	FMN 	Public Works 
+159.88500 	WQEV571 	BM		FCPWSD#3 	Franklin County Public Water Supply District #3 	FMN 	Public Works 
+155.28000 	 	BM		Meramec EMS 	EMS: Operations (Toned on 154.22) 	FMN 	EMS Dispatch 
+463.42500 	WYA926 	RM	12 RAN	SJMH Security 1 	Security [TG 1] 	NXDN 	Security 
+464.90000 	WYA926 	RM	192.8 PL	SJMH Ops 	Operations 	FMN 	Business 
+155.22000 	WSW697 	BM		SJMH EMS 	EMS 	FMN 	Hospital 
+155.34000 	WSW697 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+152.00750 	KLU318 	B		SJMH Paging1 	Paging (CSQ) 	Telm 	Data 
+462.85000 	WZT333 	B		SJMH Paging2 	Paging (CSQ) 	Telm 	Data 
+154.35500 	KVA310 	M		Boles FPD FG 	Fire 	FMN 	Fire-Tac 
+453.11250 	KVA310 	M		Boles FPD RF1 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+453.71250 	KVA310 	M	79.7 PL	Boles FPD RF2 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+453.91250 	KVA310 	M		Boles FPD RF3 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+458.11250 	KVA310 	M		Boles FPD RF4 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+458.71250 	KVA310 	M		Boles FPD RF5 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+458.91250 	KVA310 	M	CSQ	Boles FPD RF6 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+154.07000 	KTG524 	M		Ger-Ros Fire 	Fire 	FMN 	Fire Dispatch 
+154.80750 	WQPJ636 	BM		New Haven Police 	Police 	FMN 	Law Tac 
+154.20500 	KSW974 	BM	CSQ	Warr Fire 	Fire (Warrenton FPD) 	FMN 	Fire-Tac 
+154.07000 	KNBP442 	BM		NewHaven EMS 	EMS 	FMN 	EMS Dispatch 
+458.01250 	KNBP442 	M		NHvn EMS RF 	EMS: Remote Receive Link  	FMN 	EMS Dispatch 
+956.35625 	WQKJ602 	F		NHaven WDD 	Water Data (Multiple Address System) 	FMN 	Data 
+154.07000 	WNWW823 	BM		NH-B Fire 	Fire 	FMN 	Fire Dispatch 
+155.31000 	KWO561 	RM	131.8 PL	Pacific Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.05500 	KWQ507 	BM	131.8 PL	Pacific Services 	Services / Police 	FMN 	Public Works 
+452.86250 	WPRX914 	F		Pacific WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+155.76000 	WPRR852 	RM	79.7 PL	St Clair Police  	Police: Dispatch 	FMN 	Law Dispatch 
+154.01000 	KNGD415 	BM		St Clair Fire  	Fire 	FMN 	Fire Dispatch 
+155.70000 	KWV526 	BM	114.8 PL	Sullivan Police  	Police: Dispatch 	FMN 	Law Dispatch 
+159.42000 	KWV526 	M		Sull Police c2c  	Police: Car-to-Car 	FMN 	Law Tac 
+154.10000 	WNLV995 	BM		Sullivan Fire  	Fire: 	FMN 	Fire-Tac 
+154.74000 	KNGQ577 	RM	79.7 PL	Union Police 	Police: Dispatch (Repeats 155.73 79.7 PL?) 	FMN 	Law Dispatch 
+151.73000 	WQGH972 	F		Union WDD 	Sewer Data 	Telm 	Data 
+156.69000 	KAA415 	RM	412 DPL	WashingtonPolice 	Police: Dispatch  	FMN 	Law Dispatch 
+155.97000 	 	M		Wash Police c2c 	Police: Car-to-Car [No License] 	FMN 	Law Tac 
+158.89500 	WPVJ578 	BM	100.0 PL	Wash Fire/EMS 	Fire/EMS: Dispatch 	FMN 	Fire Dispatch 
+159.00000 	WPVJ578 	BM		Wash Fire Local 	Fire 	FMN 	Fire-Tac 
+153.83000 	KAK624 	BM		Washington FG 	Fireground 	FMN 	Fire-Tac 
+155.80500 	KXM859 	BM	123.0 PL	Wash PubWrks 	Public Works 	FMN 	Public Works 
+154.47875 	WPGA629 	F		Wash WDD1 	Water Distribution Data 	Telm 	Data 
+173.31250 	WPGA627 	F		Wash WDD2 	Water Distribution Data 	FMN 	Data 
+458.06250 	WQHV673 	F		Wash AP AWOS 	AWOS Data Link (Airport) 	FMN 	Data 
+152.44250 	WQLT276 	RM		Wash Ch/Cmrc 	Washington Chamber of Commerce 	FMN 	Public Works 
+461.20000 	WQKV303 	RM	114.8 PL	WC Bus 461.2 	School Vans (Warner Comm) 	FMN 	Schools 
+155.23500 	KNAT821 	BM	123.0 PL	MVR3 Buses 1 	Buses (Catiwassa) 	FMN 	Schools 
+151.19750 	KNAT821 	RM	466 DPL	MVR3 Buses 2 	Buses (Pacific) 	FMN 	Schools 
+451.30000 	WPRK817 	RM		NHvn School1 	Operations 	FMN 	Schools 
+463.32500 	WPRK817 	RM		NHvn School2 	Operations 	FMN 	Schools 
+154.54000 	WNMF734 	RM	146.2 PL	RSCR3 Potosi Bus 	Buses 	FMN 	Schools 
+152.27000 	WQFQ539 	RM		StClair School  	Operations 	FMN 	Schools 
+155.26500 	WNAZ371 	BM		StClair Buses  	Buses (not 162.2, JeffCo) 	FMN 	Schools 
+151.92500 	WQDL466 	BM		SJ School/Buses 	Ops / Buses (possibly 123.0 PL) 	FMN 	Schools 
+153.05750 	WQXF474 	RM	233.6 PL	Sull Sch Buses  	Buses 	FMN 	Schools 
+463.97500 	WQON221 	RM	210.7 PL	Union Schools 	Buses / Ops 	FMN 	Schools 
+151.65500 	WQEV518 	M		U R6 HS Ops1 	High School Ops [Expired 4/16] 	FMN 	Schools 
+151.83500 	WQEV518 	M	371 DPL	U R6 HS Ops2 	High School Ops [Expired 4/16] 	FMN 	Schools 
+461.15000 	WPTZ541 	RM	179.9 PL	FS Bus GrSmt 	First Student - Buses (Washington School District) 	FMN 	Schools 
+155.71500 	WPFX437 	M		Wash Schools 	Operations  	FMN 	Schools 
+463.20000 	WQBE905 	RM		JCECM Maint 	Buildings / Maintenance 	FMN 	Schools 
+151.77500 	WNMH884 	BM		JCECM Ops 	Operations 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Crawford County Electric Coop (MO)	 DMR Conventional Networked	 Bourbon	Nestle Purina Company - St Louis MO	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ St. Louis	Three Rivers Electric Cooperative (MO)	 DMR Tier 3	 East Central MO	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	

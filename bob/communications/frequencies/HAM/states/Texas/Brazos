@@ -1,0 +1,52 @@
+155.41500 	WPMM727 	BM	141.3 PL	Brazos SO 1 BU 	Sheriff Backup (on air but not monitored) 	FMN 	Law Dispatch 
+155.67000 	WNIM962 	RM	141.3 PL	Brazos SO 2 BU 	Sheriff Backup (on air but not monitored) 	FMN 	Law Dispatch 
+155.13000 	WPUE502 	M	141.3 PL	Brazos Co DC 	Sheriff Jail (BCDC) 	FMN 	Security 
+453.68750 	WPLU315 	RM	CC 12TG 101SL 1	BCJJC Ops 	Juvenile Justice Center 	DMR 	Corrections 
+155.94000 	WQAB533 	RM	141.3 PL	Brazos Fire 	Fire Dispatch (linked to TG 3861 P25) 	FMN 	Fire Dispatch 
+851.62500 	WPJK435 	M	CSQ	Brazos Co FG 	Fireground 	FMN 	Fire-Tac 
+151.49750 	WQPA545 	RM	134 DPL	StJoseph EMS 	St. Joseph Hospital Ambulance Service 	FMN 	EMS Dispatch 
+155.80500 	WPNZ950 	RM	141.3 PL	Brazos OEM 	Emergency Management 	FMN 	Emergency Ops 
+453.37500 	WNNV508 	RM	151.4 PL	Brazos Roads 	Road and Bridge 	FMN 	Public Works 
+866.05000 	none 	M	CSQ	BryanPD Dir 	Police Direct Talk-Around 	FM 	Law Talk 
+154.41500 	KMK604 	RM	141.3 PL	BryanFD VHF1 	Fire VHF Backup to Bryan TRS 1 	FM 	Fire-Tac 
+154.25000 	KMK604 	M	141.3 PL	BryanFD VHF2 	Fire VHF Backup to Bryan TRS 2 	FM 	Fire-Tac 
+853.35000 	 	M	156.7 PL	Bryan FD FG 	Fireground 	FMN 	Fire-Tac 
+453.05000 	 	RM	CC 5TG 11SL 1	BTU Dis453.0 	Utilities Dispatch/Operations - Sandy Point Road 	DMR 	Utilities 
+453.05000 	 	RM	CC 5TG 12SL 2	BTU SPR 2 	Utilities Dispatch/Operations Ch. 2 - Sandy Point Road 	DMR 	Utilities 
+453.18750 	 	RM	CC 5TG 11SL 1	BTU SR 1 	Utilities Operations Ch. 1 - Steephollow Road 	DMR 	Utilities 
+453.18750 	 	RM	CC 5TG 12SL 2	BTU SR 2 	Utilities Operations Ch. 2 - Steephollow Road 	DMR 	Utilities 
+453.41250 	 	RM	CC 5TG 11SL 1	BTU Ops 1 Millic 	Utilities Operations 1 - Millican 	DMR 	Utilities 
+453.41250 	 	RM	CC 5TG 12SL 2	BTU Ops 2 Millic 	Utilities Operations 2 - Millican 	DMR 	Utilities 
+453.43750 	 	RM	CC 5TG 11SL 1	BTU Ops 1 JackCr 	Utilities Operations 1 - Jack Creek Road 	DMR 	Utilities 
+453.43750 	 	RM	CC 5TG 12SL 2	BTU Ops 2 JackCr 	Utilities Operations 2 - Jack Creek Road 	DMR 	Utilities 
+453.48750 	 	RM	CC 5TG 11SL 1	BTU Ops 1 CS 	Utilities Operations 1 - College Station 	DMR 	Utilities 
+453.48750 	 	RM	CC 5TG 12SL 2	BTU Ops 2 CS 	Utilities Operations 2 - College Station 	DMR 	Utilities 
+460.37500 	 	RM	CC 5TG 11SL 1	BTU 460.375 	Utilities 	DMR 	Utilities 
+453.78750 	 	RM	CC 5TG 11SL 1	BTU Disp Luza 	Utilities Dispatch/Operations - Luza Street Water Tower 	DMR 	Utilities 
+453.23750 	 	RM	CC 10TG 60SL 1	BTU Solid Waste 	Utilities Solid Waste 	DMR 	Utilities 
+453.23750 	 	RM	CC 10TG 61SL 2	BTU Env Svcs 	Utilities Environmental Services 	DMR 	Utilities 
+153.45500 	WQAN949 	RM		BTU Data 	Utilities Data, System Monitors 	Telm 	Data 
+868.75000 	WPJK435 	M	CSQ	CS PD Direct 	Police Talkaround 	FM 	Law Talk 
+154.34000 	KNEM382 	RM		CS FD Telem 	Fire Station Alerting from County 911 Dispatch 	Telm 	Data 
+851.55000 	 	M	156.7 PL	CS FD Frgrnd 	Fireground 	FMN 	Fire-Tac 
+152.87000 	WNFL344 	RM	CC 1TG 2000SL 1	BryanISD Bus 	Buses 	DMR 	Schools 
+460.82500 	WPBQ795 	RM	654 DPL	BryanISD Mnt 	Maintenance/Operations 	FM 	Schools 
+451.85000 	WPQH333 	RM	723 DPL	Bryan High 	Bryan High School 	FM 	Schools 
+464.90000 	WPQH333 	RM	251 DPL	Rudder HS 	Rudder High School 	FM 	Schools 
+154.51500 	KNAU935 	RM	CC 5TG 1SL 1	CSISD Bus Main 	Buses Primary 	DMR 	Schools 
+155.24000 	 	M	631 DPL	CSISD Bus155 	Buses 	FMN 	Schools 
+461.07500 	 	RM	CC 0TG 101SL 1	A&MCHS 1 	A&M Consolidated High School Ch. 1 	DMR 	Schools 
+461.07500 	 	RM	CC 0TG 102SL 2	A&MCHS 2 	A&M Consolidated High School Ch. 2 	DMR 	Schools 
+152.27000 	 	RM	CC 1TG 1SL 1	TAM HSC Mnt 	Health Science Center - Maintenance 	DMR 	Schools 
+467.58750 	 	M	91.5 PL	TAMU Rec Ctr 	Student Recreation Center 	FMN 	Schools 
+467.87500 	 	M	67.0 PL	TAMU Riversi 	Riverside Campus 	FMN 	Schools 
+466.38750 	WPMA278 	M	712 DPL	TAM MSC OPAS 	Memorial Student Center - MSC OPAS (Theatre Productions) 	FMN 	Schools 
+466.43750 	WPMA278 	M	712 DPL	TAM MSC OPAS 	Memorial Student Center - MSC OPAS (Theatre Productions) 	FMN 	Schools 
+451.30000 	KNHA717 	RM	CC 1TG 1SL 1	Rudder Theater 	Rudder Tower Theatre 	DMR 	Schools 
+152.28500 	WQBZ245 	RM		TEEX LE Acad 	TEEX LE Training - Central Texas Police Academy 	FMN 	Schools 
+152.31500 	WQBZ245 	RM		TEEX LE Acad 	TEEX LE Training - Central Texas Police Academy 	FMN 	Schools 
+Blinn College	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bryan	Bryan Texas Utilities	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bryan	Federal Prison Camp Bryan	 Project 25 Phase I
+ Bryan	Rudder Theater	 DMR Motorola Capacity Plus Single Site (TRBO)	 College Station	Skyline Communications (460 MHz)	 LTR Standard	 Bryan	Skyline Communications (850 MHz)
+ LTR Standard	 Bryan	Texas A&M University	 DMR Tier 3	 College Station	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston
+Texas Communications (Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bryan	Texas Communications (LTR)	 LTR Standard	 College Station	Texas Wide Area Radio Network (TxWARN)	 Project 25 Phase II
+ Various	

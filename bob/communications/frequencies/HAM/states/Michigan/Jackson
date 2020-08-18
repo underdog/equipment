@@ -1,0 +1,91 @@
+155.75250 	WQLV301 	M	CSQ	Jackson V-CALL 	Emergency Calling 	FMN 	Interop 
+151.13750 	WQLV301 	M	CSQ	Jackson V-TAC1 	Tactical Operations 1 	FMN 	Interop 
+154.45250 	WQLV301 	M	CSQ	Jackson V-TAC2 	Tactical Operations 2 	FMN 	Interop 
+158.73750 	WQLV301 	M	CSQ	Jackson V-TAC3 	Tactical Operations 3 	FMN 	Interop 
+159.47250 	WQLV301 	M	CSQ	Jackson V-TAC4 	Tactical Operations 4 	FMN 	Interop 
+155.11500 	KNJL494 	BM	114.8 PL	Jackson EMD  	Emergency Management Division 	FMN 	Emergency Ops 
+154.13000 	KNJC264 	RM	192.8 PL	Jackson Fire 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
+155.31000 	KQD836 	BM	114.8 PL	Jckson Cnty PD 2 	Countywide Police Tactical 	FMN 	Law Tac 
+154.89000 	KQD836 	BM	114.8 PL	Jcksn County PD3 	Countywide Police Tactical (S.W.A.T.) 	FMN 	Law Tac 
+155.95500 	KNJL494 	BM	114.8 PL	JckCnty Anml Cnt 	County Sheriff: Animal Control Operations 	FMN 	Law Tac 
+151.41500 	WQGF206 	RM	051 DPL	JckCnty CourtHSc 	County Sheriff: Courthouse Security Operations 	FMN 	Law Tac 
+159.22500 	WQGF206 	RM	612 DPL	Jackson Cnty DOC 	County Sheriff: Jail Operations 	FMN 	Corrections 
+159.16500 	KNJC264 	RM	156.7 PL	Road Commission 	County Road Commission 	FMN 	Public Works 
+453.50000 	WNLQ316 	RM	315 DPL	Jackson EMA 	E.M.A. / Resource Recovery Facility 	FMN 	Emergency Ops 
+453.98750 	WQEY851 	M		Jackson Golf 1 	Golf Course - Channel 1 	FMN 	Public Works 
+458.98750 	WQEY851 	M		Jackson Golf 2 	Golf Course - Channel 2 	FMN 	Public Works 
+151.13000 	KNNV352 	RM	203.5 PL	Blckmn LeoniPS 1 	Public Safety Dispatch 	FMN 	Multi-Dispatch 
+155.71500 	KNNV352 	BM	114.8 PL	BlckmnLeoni PS 2 	Public Safety Tactical 	FMN 	Multi-Tac 
+453.53750 	WPXH858 	RM		 BlkmnLeon Water 	Water Department 	FMN 	Public Works 
+155.77500 	WNJD917 	BM	114.8 PL	Columbia PD-FD 	Public Works/Police/Fire [Ch 5] 	FMN 	Multi-Talk 
+156.10500 	WNJF604 	M	85.4 PL	Lenawee Fire 	{Link to } Lenawee County Fire [Ch 6] 	FMN 	Fire-Talk 
+154.43000 	WNJF604 	BM	85.4 PL	Len Fire Tac 7 	Fire: Lenawee County Tactical [Ch 7] 	FMN 	Fire-Tac 
+153.89000 	WQAU894 	BM	192.8 PL	Grass Lake Fire2 	Firegound Operations 	FMN 	Fire-Tac 
+158.86500 	WNPN253 	BM		Henrietta DPW/FD 	Public Works / Fire Operations 	FMN 	Multi-Tac 
+460.50000 	KQA927 	M	136.5 PL	Jackson PD Car 	Police Car-to-Car 	FMN 	Law Tac 
+154.07000 	KAP964 	BM	167.9 PL	Jaksn FD FGround 	Fireground Operations 	FMN 	Fire-Tac 
+158.74500 	KNET683 	BM	167.9 PL	Jackson DPW 	Public Works 	FMN 	Public Works 
+158.82000 	KQI459 	RM	167.9 PL	Jackson Water 2 	Water Departtment 	FMN 	Public Works 
+453.66250 	WPYV360 	BM		Jackson Water 3 	Water Treatment Plant 	FMN 	Public Works 
+453.18750 	WPPC234 	RM		Jackson Water 4 	Watewater Treatment Plant 	FMN 	Public Works 
+33.78000 	KNDR750 	BM	CSQ	Liberty WX 	Severe Weather Alerting 	FM 	Emergency Ops 
+155.77500 	WSI988 	BM		Napoleon PD/FD 	Police / Fire Operations 	FMN 	Multi-Talk 
+151.46000 	WPYM962 	RM		Napoleon PD Tac 	Police Tactical 	FMN 	Law Tac 
+154.35500 	KFF315 	BM	192.8 PL	Summit Fire 2 	Summit Township Fireground 1 	FMN 	Fire-Tac 
+153.75500 	KFF315 	BM	192.8 PL	Summit Fire 3 	Summit Township Fireground 2 	FMN 	Fire-Tac 
+154.29500 	KFF315 	BM	CSQ	Summit Fire 4 	Summit Township Fireground 3 (M.A.B.A.S.) 	FMN 	Fire-Tac 
+155.88000 	KFP354 	RM	192.8 PL	Summit Water 	Summit Township Water Department 	FMN 	Multi-Talk 
+451.20000 	WPJK663 	RM		Brooklyn PubWork 	Public Works 	FMN 	Public Works 
+453.61250 	WQGF404 	BM		Brooklyn Water 	Water Department 	FMN 	Public Works 
+153.78500 	KNIE603 	BM		Concord DPW/FD 	Public Works / Fire 	FMN 	Multi-Talk 
+155.01000 	WPJV971 	BM		SprngPort PubSaf 	Police / Fire Operations 	FMN 	Multi-Talk 
+453.08750 	WQCB324 	RM		SpringPort DPW 	Public Works Operations 	FMN 	Public Works 
+153.81500 	WNJL686 	RM	250.3 PL	Parnell DOC 	Parnall Correctional Facility 	FMN 	Corrections 
+155.07000 	WPNP727 	RM	223 DPL	Cooper DOC 1 	Cooper Street Correctional Facility 	FMN 	Corrections 
+154.05500 	WPYR898 	RM	466 DPL	Cooper DOC 2 	Cooper Street Correctional Facility 	FMN 	Corrections 
+154.02500 	KGN500 	RM	167.9 PL	Cooper DOC 3 	Cooper Street Correctional Facility 	FMN 	Corrections 
+159.42000 	WPQG443 	BM	82.5 PL	Waterloo DOC 	Waterloo Correctional Facility 	FMN 	Corrections 
+155.08500 	WNFC816 	RM	131.8 PL	Cotton DOC 	Cotton Correctional Facility 	FMN 	Corrections 
+857.16250 	WPJY630 	RM		Jackson EMS West 	EMS: Dispatch-West [WEST OPS] 	FMN 	EMS Dispatch 
+150.77500 	KQZ814 	M		Hurn VllyAmb Tac 	EMS: Tactical 	FMN 	EMS-Tac 
+155.16000 	KQZ814 	BM	97.4 PL	HVA EMS Dispatch 	EMS: Primary Dispatch 	FMN 	EMS Dispatch 
+155.17500 	KQZ814 	BM	97.4 PL	HVA EMS Alternte 	EMS: Alternate Dispatch 	FMN 	EMS Dispatch 
+155.23500 	KQZ814 	BM		HVA Spdway/Races 	EMS: Speedway Races 	FMN 	EMS-Tac 
+458.02500 	KZE629 	M		HVA MobExt 1 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+458.07500 	KZE629 	M		HVA MobExt 2 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+458.12500 	KZE629 	M		HVA MobExt 3 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+458.17500 	KZE629 	M		HVA MobExt 4 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+452.40000 	WQCE243 	RM	662 DPL	Allegiance OpSec 	Operations/Security 	FMN 	Security 
+452.75000 	WQCE243 	RM		AllegianceOpSec2 	Operations/Security 	FMN 	Security 
+453.00000 	WQCE243 	RM		AllegianceOpSec3 	Operations/Security 	FMN 	Security 
+461.72500 	WQCE242 	RM	627 DPL	Housekeeping 	Allegiance Housekeeping 	FMN 	Hospital 
+461.87500 	WQCE243 	RM	627 DPL	Allegianc Mntnce 	Maintenance Channel 1 	FMN 	Security 
+464.92500 	WQCE242 	BM	023 DPL	Allegn Security  	Security  	FMN 	Hospital 
+155.34000 	WQFX737 	BM	192.8 PL	Algnce Hsp HEARN 	EMS to Hospital Notification (VHF Radio Plan - Hospital Base Station Transmits: 97.4 PL) 	FMN 	Hospital 
+463.05000 	WQFX737 	RM	192.8 PL	Allegiance MED 3 	EMS to Hospital Notification 	FMN 	Hospital 
+463.07500 	WQFX737 	RM	192.8 PL	Allegiance MED 4 	EMS to Hospital Notification 	FMN 	Hospital 
+462.10000 	WQVB878 	RM	CC 5TG 11000SL 1	Columbia School 	Columbia Schools 	DMR 	Schools 
+151.74500 	WPXK998 	RM	146.2 PL	Concord Sch Bus 	Concord Community School Buses 	FMN 	Schools 
+151.65500 	WNBF759 	BM	146.2 PL	EJackson Sch Bus 	East Jackson Community School Buses 	FMN 	Schools 
+151.83500 	WNZA555 	RM	654 DPL	GrassLake SchOps 	Operations / Transportation 	FMN 	Schools 
+152.28500 	WNCK730 	RM	261 DPL	Hanvr-Hortn Sch1 	Transportation - Primary [Ch 1] 	FMN 	Schools 
+151.80500 	WNCK730 	BM		Hanvr-Hortn Sch2 	Transportation - Secondary [Ch 2] 	FMN 	Schools 
+461.37500 	WQXR862 	RM	CC 4TG 100SL 1	JCC Maintenance 	Security/Maintenance 	DMR 	Public Works 
+462.52500 	WQXR862 	M		JCC Sp. Event 1 	Special Events 	FMN 	Schools 
+151.71500 	WNFX480 	BM	146.2 PL	MI Center Schl 	Transportation 	FMN 	Schools 
+464.25000 	WPGX882 	RM	CC 8TG 1881003SL 1	Transportation 1 	Transportation 1 	DMR 	Schools 
+464.25000 	WPGX882 	RM	CC 8TG 1881004SL 1	Transportation 2 	Transportation 2 	DMR 	Schools 
+461.97500 	WQXR923 	RM	141.3 PL	NW PubSchl Trans 	Transporation 	FMN 	Schools 
+151.92500 	KTZ632 	BM		SpringArbor Col. 	Spring Arbor College 	FMN 	Schools 
+154.51500 	KTZ632 	RM	100.0 PL	SpArbor SecMaint 	Security/Maintenance 	FMN 	Schools 
+151.83500 	KZQ979 	RM	103.5 PL	Springport Schll 	Transportation 	FMN 	Schools 
+451.37500 	WPSU405 	RM	192.8 PL	Vanderck Sch Bus 	Transportation [Ch 1] 	FM 	Schools 
+461.55000 	WNSR462 	RM	141.3 PL	Vandrck Sch M/Sc 	Maintenance/Security [Ch 2] 	FM 	Schools 
+152.93000 	WQMC630 	RM	411 DPL	Western School 1 	Transportation - Primary 	FMN 	Schools 
+151.68500 	WQMC630 	BM	146.2 PL	JCWest School 2 	Transportation - Secondary 	FMN 	Schools 
+158.34000 	WQMC630 	M		Western School 3 	Maintenance  	FMN 	Schools 
+159.88500 	WQMC630 	M		Western School 4 	Security 	FMN 	Schools 
+160.06500 	WQMC630 	M		Western School 5 	Maintenance 	FMN 	Schools 
+Adrian and Blissfield Railroad Company	 NXDN Icom IDAS Type D	 Blissfield	Calhoun-Jackson Counties Road Department	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Marshall	City of Jackson Act 196 Transportation Authority	 LTR Standard
+ Jackson	ComSource Michigan DMR	 DMR Motorola Connect Plus (TRBO)	 Various	Consumers Energy	 EDACS Networked Standard	 Various	Telacom Corporation
+ LTR Standard	 Jackson	

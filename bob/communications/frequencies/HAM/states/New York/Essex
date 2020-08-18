@@ -1,0 +1,76 @@
+161.85000 	WQQH430 	RM	281 NAC	EssexCo SO D 	Sheriff Angier/Pisgah 	P25 	Law Dispatch 
+156.21000 	WQLI541 	RM	281 NAC	EssexCo SO D 	Sheriff Belfry 	P25 	Law Dispatch 
+151.30250 	WQLI541 	RM	281 NAC	EssexCo SO D 	Sheriff Defiance/Whiteface 	P25 	Law Dispatch 
+161.82500 	WQQH430 	RM	281 NAC	EssexCo SO D 	Sheriff Gore 	P25 	Law Dispatch 
+453.22500 	WQFV904 	RM		EssexCo Corr 	Correctional Facility 	FMN 	Corrections 
+46.46000 	WNXK687 	B	CSQ	EssxCo Alert 	Fire/EMS Alerting 	FM 	Fire Dispatch 
+156.22500 	WQLI541 	RM	282 NAC	EssexCoFD D 	Fire Control Angier/Pisgah 	P25 	Fire Dispatch 
+154.14500 	WQLI541 	RM	282 NAC	EssexCoFD D 	Fire Control Belfry 	P25 	Fire Dispatch 
+159.04500 	WQLI541 	RM	282 NAC	EssexCoFD D 	Fire Control Defiance 	P25 	Fire Dispatch 
+161.83750 	WQQH430 	RM	282 NAC	EssexCoFD D 	Fire Control Gore 	P25 	Fire Dispatch 
+159.04500 	WQLI541 	RM	282 NAC	EssexCoFD D 	Fire Control Whiteface 	P25 	Fire Dispatch 
+46.32000 	WNXK687 	BM	CSQ	Essex Co FD1 	Fire Dispatch 	FM 	Fire Dispatch 
+46.22000 	WNXK687 	BM	CSQ	Essex Co FD2 	Fireground 	FM 	Fire-Tac 
+46.20000 	WPDV986 	M	CSQ	EssexCoSct 1 	Fireground - Sector 1 	FM 	Fire-Tac 
+46.28000 	WPDV986 	M	CSQ	EssxCoSct2/3 	Fireground - Sectors 2/3 	FM 	Fire-Tac 
+46.14000 	WPDV986 	M	CSQ	Essex CoSct4 	Fireground - Sector 4 	FM 	Fire-Tac 
+46.12000 	WPDV986 	M	CSQ	Essex Co-Ord 	Fire Coordinators 	FM 	Fire-Tac 
+46.16000 	WPDV986 	M	CSQ	Essex Co Inv 	Fire Investigation 	FM 	Fire-Tac 
+46.30000 	WPDV986 	M	CSQ	EssexFirePol 	Fire Police 	FM 	Fire-Tac 
+453.92500 	WQGK545 	F	167.9 PL	EssexUHFLink 	UHF to Low Band Link from Belfry to Gore 	FMN 	Fire Dispatch 
+161.92500 	WQQH430 	BM	283 NAC	EssexCoEMSD 	EMS Dispatch Angier/Pisgah 	P25 	EMS Dispatch 
+156.13500 	WQLI541  	RM	283 NAC	EssexCoEMSD 	EMS Dispatch Belfry 	P25 	EMS Dispatch 
+151.10000 	WQLI541  	RM	283 NAC	EssexCoEMSD 	EMS Dispatch Defiance 	P25 	EMS Dispatch 
+153.84500 	WQLI541  	RM	283 NAC	EssexCoEMSD 	EMS Dispatch Gore 	P25 	EMS Dispatch 
+154.10000 	WQLI541  	RM	283 NAC	EssexCoEMSD 	EMS Dispatch Whiteface 	P25 	EMS Dispatch 
+155.26500 	WNXK672 	BM	131.8 PL	Etown-Lewis 	EMS - Elizabethtown-Lewis 	FMN 	EMS-Talk 
+155.29500 	WNXK672 	BM		EssexCo EMS 	EMS to Champlain Valley Physician's Hospital (Plattsburgh) 	FMN 	Hospital 
+158.91000 	WQLI541  	RM	284 NAC	EssexCoHwy D 	Highway Department Angier/Pisgah 	P25 	Public Works 
+151.08500 	WQLI541 	RM	284 NAC	EssexCoHwy D 	Highway Department Belfry 	P25 	Public Works 
+151.35500 	WQLI541  	RM	284 NAC	EssexCoHwy D 	Highway Department Defiance/Whiteface 	P25 	Public Works 
+151.34000 	WQLI541  	RM	284 NAC	EssexCoHwy D 	Highway Department Gore 	P25 	Public Works 
+151.08500 	WPCK833 	RM		EssexCoHwy A 	Highway Department 	FMN 	Public Works 
+45.68000 	WZC682 	BM	114.8 PL	EssexCo Hwy 	Highway Department 	FM 	Public Works 
+45.72000 	WZC682 	M	114.8 PL	EssexCo Hwy 	Highway Department 	FM 	Public Works 
+45.48000 	WNJZ528 	BM		EssexCo Bldg 	Buildings and Grounds Maintenance 	FM 	Public Works 
+153.75500 	WPJK658 	M		EssexCo Comp 	County Complex Security 	FMN 	Security 
+156.12000 	KNBF252 	BM	100.0 PL	Jay Highway 	Highway Department 	FMN 	Public Works 
+159.36750 	WQJW378 	RM	CC 1TG *SL 1	Lk Placid PD 	Police 	DMR 	Law Dispatch 
+155.01000 	KBE482 	BM	123.0 PL	Lk Placid PD 	Police 	FMN 	Law Talk 
+154.43000 	WQEH970 	RM	311 DPL	Placid Alert 	Fire/EMS Alert 	FMN 	Fire Dispatch 
+154.14500 	WNXK687 	BM	110.9 PL	Lk Placid FG 	Fireground/Ops 	FMN 	Fire-Tac 
+158.77500 	WNUH533 	BM	110.9 PL	Lk Placid FD 	Fire Tac 	FMN 	Fire-Tac 
+453.26250 	WQEI739 	M	CSQ	Lk Placid FD 	Fire - Vehicular Repeater 	FMN 	Fire-Tac 
+458.26250 	WQEI739 	M	151.4 PL	Lk Placid FD 	Fire - Vehicular Repeater 	FMN 	Fire-Tac 
+46.50000 	KNIZ666 	BM	CSQ	Lk Placid FD 	Fire 	FM 	Fire-Talk 
+155.22000 	KQF648 	BM	151.4 PL	LkPlacid EMS 	EMS 	FMN 	EMS-Talk 
+151.01750 	WQEY461 	RM	110.9 PL	LkPlacid Hwy 	Highway Department 	FMN 	Public Works 
+154.00250 	WQEH970 	RM	023 DPL	LkPlacidTrly 	Trolleys 	FMN 	Public Works 
+47.46000 	 	BM		Moriah FD 	Fire Officers 	FM 	Fire-Tac 
+45.56000 	WQDS597 	BM		Moriah FDPol 	Fire Police 	FM 	Fire-Tac 
+45.96000 	 	BM		Moriah EMS 	EMS 	FM 	EMS-Tac 
+155.03250 	WQWX938 	BM	151.4 PL	Moriah Hwy 	Highway Department 	FMN 	Public Works 
+155.03250 	WQWX938 	BM	233.6 PL	Moriah W/S 	Moriah Water and Sewer 	FMN 	Public Works 
+453.88750 	WQBD587 	F		Moriah Water 	Water Department 	Telm 	Data 
+155.64000 	WQRM405 	BM	025 DPL	PortHen DPW 	DPW 	FMN 	Public Works 
+155.64000 	WQRM405 	BM	210.7 PL	PortHen C-C 	DPW Car to Car 	FMN 	Public Works 
+155.64000 	WQRM405 	BM	606 DPL	PortHen W/S 	Water and Sewer 	FMN 	Public Works 
+156.19500 	KNDL897 	BM		Schroon DPW 	Public Works 	FMN 	Public Works 
+155.26500 	WNXK672 	BM	173.8 PL	TicondrgaEMS 	EMS 	FMN 	EMS-Talk 
+155.65500 	WPXK762 	BM	110.9 PL	Ticondrga PD 	Police Dispatch 	FMN 	Law Dispatch 
+151.13000 	KKC929 	BM	110.9 PL	Wilmgton Hwy 	Highway Department 	FMN 	Public Works 
+155.10000 	WQAY295 	RM		Chilson Fire 	Fire Department 	FMN 	Fire-Tac 
+155.28000 	KED218 	BM		Eliztwn Hosp 	EMS to Elizabethtown Hospital 	FMN 	Hospital 
+46.18000 	WNGZ992 	BM		Jay Fire 	Jay Fire Department 	FM 	Fire-Tac 
+46.44000 	KNIP351 	BM	CSQ	KeeneVal FD 	Keene Valley Fire District 	FM 	Fire Dispatch 
+155.17500 	KUV750 	BM		MosesLudHosp 	Moses Ludington Hospital 	FMN 	Hospital 
+151.53500 	WPPZ811  	RM	82.5 PL	Ski Jumps Rp 	ORDA Ski Jumps 	FMN 	Public Works 
+153.80000 	WQCQ671 	RM	162.2 PL	WhitefaceRpt 	Whiteface Mountain Ski Center  	FMN 	Public Works 
+153.92000 	WQCQ671 	BM		Whiteface 	Whiteface Mountain Ski Center  	FMN 	Public Works 
+153.96500 	WQCQ671 	BM		Whiteface 	Whiteface Mountain Ski Center  	FMN 	Public Works 
+153.98000 	WQCQ671 	BM		Whiteface 	Whiteface Mountain Ski Center  	FMN 	Public Works 
+154.27250 	WNLY874 	M		ORDA Mob 	ORDA Mobiles 	FMN 	Public Works 
+155.06250 	WNLY874 	M		ORDA Mob 	ORDA Mobiles 	FMN 	Public Works 
+155.77500 	WNLY874 	BM		Ski Jumps 	Ski Jumps 	FMN 	Public Works 
+158.74500 	WNLY874 	RM	67.0 PL	Arenas 	Olympic Arena 	FMN 	Public Works 
+Adirondack 2-Way Radio	 NXDN Icom IDAS Type D	 Various	Federal Correctional Institution Ray Brook	 Motorola Type II Smartnet	 Ray Brook	

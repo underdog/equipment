@@ -1,0 +1,61 @@
+155.58000 	KSB298 	RM	110.9 PL	Jeff Sheriff 1 	Sheriff: Dispatch / Rural Dispatch [Ch 1] 	FMN 	Law Dispatch 
+156.22500 	KSB298 	BM		Jeff Sheriff B 	Sheriff: Operations 	FMN 	Law Tac 
+154.77000 	KSB298 	M		Jeff Sheriff C 	Sheriff: Operations 	FMN 	Law Tac 
+159.01500 	WPZS260 	M		Jeff C/HsSec 	Sheriff: Courthouse Security 	FMN 	Corrections 
+151.13000 	WQGF613 	RM	244 DPL	Jeff Shrf/Jail1 	Sheriff: Jail Ops  	FMN 	Corrections 
+159.04500 	KSB298 	M		Jeff Shrf/Jail2  	Sheriff: Jail (old) 	FMN 	Corrections 
+854.96250 	WPKN518 	RM	662 DPL	Jeff Shrf MDTs  	Sheriff: Mobile Data Terminals 	FMN 	Data 
+154.43000 	KSG319 	BM	032 DPL	JeffersonCo Fire 	Fire: Countywide Dispatch (except Mt Vernon) 	FMN 	Fire Dispatch 
+453.26250 	WQGE860 	F	071 DPL	JeffFire RF Wltn 	Fire: RF Link to Waltonville 154.43 Tower 	FMN 	Fire Dispatch 
+453.26250 	WQGE860 	F	732 DPL	JeffFire RF Wbbr 	Fire: RF Link to Webber - Bluford Tower 	FMN 	Fire Dispatch 
+154.07000 	KSK413 	M	CSQ	JeffersonCo FG3 	Fireground [Ch 3] 	FMN 	Fire-Tac 
+159.01500 	WPZS260 	M		Jeff 911/FG 	911/Emergency Services: On Scene Comms 	FMN 	Fire-Tac 
+156.16500 	WPKT549 	BM	155 DPL	Jeff AnimCntrl  	Animal Control (not currently in use) 	FMN 	Public Works 
+151.62500 	 	BM	155 DPL	Jeff AnimalCntrl 	Animal Control 	FMN 	Public Works 
+151.02500 	KET261 	RM	110.9 PL	Jeff Highway 	Highway Department 	FMN 	Public Works 
+155.89500 	KNIH901 	BM		Jeff HouseAuth 	Housing Authority 	FMN 	Public Works 
+155.81250 	WQHX454   	BM	CSQ	Jeff EMA Command 	EMA: Command Channel 	FMN 	Emergency Ops 
+155.26500 	WQH725 	BM	032 DPL	Litton EMS  	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.22000 	WQH725 	BM		MERCI-2 	EMS 	FMN 	Hospital 
+158.40000 	 	BM	226 DPL	Air-Evac Jeff 	Air-Evac Lifeteam: Dispatch 	FMN 	EMS Dispatch 
+173.37500 	WQBD500 	BM		Air-Evac Ops 2 	Operations [Ch 2] 	FMN 	EMS Dispatch 
+155.34000 	KNJZ418 	B	114.8 PL	MERCI1 114.8 	Patient Reports 	FMN 	Hospital 
+463.27500 	 	RM	173.8 PL	GSH Security 	Security [Ch 3] [No License] 	FMN 	Security 
+451.86250 	WQML657 	RM	032 DPL	GSH Maintenance 	Maintenance (Voice Inv capable) [Ch 1] [Terminated 9/11] 	FMN 	Business 
+451.91250 	WQML657 	RM	032 DPL	GSH Shuttles 	Parking Lot Shuttles [Ch 2] [Terminated 9/11] 	FMN 	Transportation 
+155.34000 	KUU458 	B	118.8 PL	MERCI1 118.8 	Patient Reports 	FMN 	Hospital 
+453.00000 	WPNY503 	F		NE Water Data 	Northeast Water (CSQ Data) 	Telm 	Data 
+153.47750 	WQXQ848 	F		DKWSC WDD 	Dix Kell Water/Sewer Commission: Data (CSQ) 	Telm 	Data 
+158.19000 	WPLQ321 	BM		DKWSC Ops 	Dix Kell Water/Sewer Commission: Operations 	FMN 	Public Works 
+453.45000 	KNEC946 	RM	186.2 PL	MtVernnTwp Roads 	Mt. Vernon Township Roads 	FMN 	Public Works 
+154.43000 	 	BM	CSQ	WebberTwp Fire 	Fire: Tone-Outs (via RF Link) 	FMN 	Fire Dispatch 
+155.71500 	WNXI854 	BM		Blfd Utility 	Utility Department 	FMN 	Public Works 
+155.65500 	KZH928 	RM	110.9 PL	MtVernon Police1 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+458.20000 	WQYA984 	F	445 DPL	MtVernon PD RF-1 	Police: Receive Link {Fire Station 4) 	FMN 	Law Dispatch 
+458.56250 	WQYA984 	F	115 DPL	MtVernon PD RF-2 	Police: Receive Link {Municipal Building Potomac Blvd) 	FMN 	Law Dispatch 
+155.01000 	KZH928 	BM	023 DPL	MtVernon Police2 	Police: Local 	FMN 	Law Dispatch 
+155.68500 	KZH928 	M	CSQ	MtV Police Det  	Police: Detectives (in use?) 	FMNe 	Law Tac 
+159.24000 	WQQD977 	RM	023 DPL	Mt Vernon Fire  	Fire: Dispatch / Operations  	FMN 	Fire Dispatch 
+453.20000 	WQYA984 	F	315 DPL	MtVernonFire RF1 	Fire: Receive Link {Fire Station 4) 	FMN 	Fire Dispatch 
+453.56250 	WQYA984 	F	225 DPL	MtVernonFire RF2 	Fire: Receive Link {Municipal Building Potomac Blvd) 	FMN 	Fire Dispatch 
+154.34000 	KSK413 	BM	023 DPL	MtVernEMA Sirens 	EMA: Sirens 	FMN 	Emergency Ops 
+458.25000 	WPME265 	M		MtVrn HsngAuth  	Housing Authority 	FMN 	Public Works 
+39.82000 	KGT473 	BM	CSQ	MtV PublicWorks  	Public Works  	FM 	Public Works 
+453.62500 	WNNW500 	RM		MtV Government  	Government Services 	FMN 	Public Works 
+458.81250 	WRBQ233 	F		MtV WaterData A 	Water Data (CSQ) 	Telm 	Data 
+154.43000 	WRAR603 	BM	023 DPL	Waltonville Fire 	Fire: Tone-Outs (via RF link from 911) 	FMN 	Fire Dispatch 
+158.80500 	WNVD557 	BM		Wdlwn Water 	Water Department 	FMN 	Public Works 
+155.20500 	KGI736 	BM	167.9 PL	Durham Bus 1 	Durham School Services: Buses Ch1 	FMN 	Schools 
+151.85000 	WQUQ387 	BM	125 DPL	Durham Bus 2 	Durham School Services: Buses Ch2 	FMN 	Schools 
+154.11500 	WQRJ307 	BM	073 DPL	Bluford GradeSch 	Grade School: Ops 	FMN 	Schools 
+159.51000 	WQYF655 	RM	073 DPL	Bluford SchBuses 	Buses 	FMN 	Schools 
+152.31500 	WQRS577 	RM	071 DPL	MVern Twp HiSch 	High School (New) 	FMN 	Schools 
+154.57000 	MURS4 	BM	127.3 PL	MtVTwp HSOps  	Mt Vernon Township High School: Ops 	FMN 	Schools 
+154.60000 	MURS5 	BM	261 DPL	Casey MidlSchool 	Casey Middle School: Ops 	FMN 	Schools 
+153.02750 	WQLN428 	BM	365 DPL	Bethel SchoolBus 	Bethel Grade School: Buses 	FMN 	Schools 
+463.20000 	WQYM442 	RM	110.9 PL	OBR School Ops 	Operations 	FMN 	Schools 
+158.76000 	KSR917 	BM	734 DPL	MVN Airport 	Airport Authority Operations 	FMN 	Public Works 
+118.20000 	 	B		MVN AWOS 	WX AWOS-3 (was 113.8) 	AM 	Aircraft 
+123.00000 	 	B		MVN UNICOM 	CTAF/UNICOM 	AM 	Aircraft 
+127.70000 	 	B		MVN Appr/Dep 	Approach/Departure 	AM 	Aircraft 
+Roy Walker Communications (DMR)	 DMR Conventional Networked	 Makanda	

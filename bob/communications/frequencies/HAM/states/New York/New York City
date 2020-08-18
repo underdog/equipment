@@ -1,0 +1,295 @@
+470.68750 	WIK936 	RM	100.0 PL	NYPD CW 1 	Citywide 1 	FM 	Law Dispatch 
+482.66250 	WIM487 	RM	100.0 PL	NYPD SI  CW 1 	Staten Island Citywide 1 	FM 	Law Dispatch 
+470.71250 	WIK929 	RM	110.9 PL	NYPD CW 2 	Citywide 2 	FM 	Law Dispatch 
+482.63750 	WIM654 	RM	110.9 PL	NYPD SI  CW 2 	Staten Island Citywide 2 	FM 	Law Dispatch 
+470.86250 	WIF562 	RM	151.4 PL	NYPD CW 3 	Citywide 3 	FM 	Law Dispatch 
+482.43750 	WIM523 	RM	151.4 PL	NYPD SI  CW 3 	Staten Island Citywide 3 	FM 	Law Dispatch 
+470.88750 	WIF560 	RM	123.0 PL	NYPD CW 4 	Citywide 4 	FM 	Law Dispatch 
+470.88750 	WIF560 	RM	EF0 NAC	NYPD CW 4 P25 	Citywide 4 (P25) 	P25E 	Law Dispatch 
+470.83750 	WIF567 	RM	136.5 PL	NYPD SOD 	Special Operations Division 	FM 	Law Dispatch 
+470.81250 	WIF559 	RM	123.0 PL	NYPD Traffic 	Traffic Division (Highway Units) 	FM 	Law Dispatch 
+482.46250 	WIM527 	RM	123.0 PL	NYPD SI Traffic 	Staten Island Traffic Division (Highway Units) 	FM 	Law Dispatch 
+470.73750 	WIF565 	RM	186.2 PL	NYPD DET CW 	Detective Citywide (Detective 1) 	FM 	Law Tac 
+470.63750 	WIF561 	RM	EF1 NAC	NYPD VIP Escort 	VIP Escort (Detective 2) 	P25E 	Law Tac 
+470.66250 	WQON439 	RM	167.9 PL	NYPD WTC 	World Trade Center Patrols 	FM 	Law Tac 
+470.78750 	WIK934 	RM	100.0 PL	NYPD OCCB 1 	Organized Crime Control Bur. 1 	FM 	Law Tac 
+471.01250 	WIF569 	RM	EF3 NAC	NYPD OCCB 2 	Organized Crime Control Bur. 2 	P25E 	Law Tac 
+471.11250 	WIF536 	RM	110.9 PL	NYPD CDCW 	Communications Div., Fleet Services 	FM 	Law Tac 
+471.13750 	WIF566 	RM	EF4 NAC	NYPD Command 	Command 	P25E 	Law Tac 
+470.76250 	WIF563 	RM	EF2 NAC	NYPD IAB 	Internal Affairs Bureau 	P25E 	Law Tac 
+123.10000 	 	BM		NYPD Aviation 	Aviation Unit 	AM 	Aircraft 
+485.61250 	WIM658 	M	203.5 PL	NYPD Tac A 	Tac A - Patrol 	FM 	Law Tac 
+485.48750 	WIM511 	M	225.7 PL	NYPD Tac D 	Tac D - Patrol 	FM 	Law Tac 
+485.46250 	WIM527 	M	233.6 PL	NYPD Tac E 	Tac E - Patrol 	FM 	Law Tac 
+485.43750 	WIM515 	M	203.5 PL	NYPD Tac F 	Tac F - Housing/Yankee Stadium/SRG 	FM 	Law Tac 
+473.68750 	WIK936 	M	210.7 PL	NYPD Tac G 	Tac G - SOD Primary 	FM 	Law Tac 
+473.71250 	WIK929 	M	218.1 PL	NYPD Tac H 	Tac H - SOD Secondary 	FM 	Law Tac 
+465.11250 	WPBQ332 	M	203.5 PL	NYPD Tac J 	Tac J - Narcotics 	FMN 	Law Tac 
+465.18750 	WPBQ332 	M	210.7 PL	NYPD Tac K 	Tac K - Narcotics 	FMN 	Law Tac 
+465.23750 	WPBQ332 	M	218.1 PL	NYPD Tac L 	Tac L - Narcotics 	FMN 	Law Tac 
+465.31250 	WPBQ332 	M	225.7 PL	NYPD Tac M 	Tac M - Narcotics 	FMN 	Law Tac 
+465.46250 	WPBQ332 	M	233.6 PL	NYPD Tac N 	Tac N - Narcotics 	FMN 	Law Tac 
+465.48750 	WPBQ332 	M	241.8 PL	NYPD Tac O 	Tac O - Narcotics 	FMN 	Law Tac 
+460.11250 	WPBQ332 	M	203.5 PL	NYPD Tac P 	Tac P - Narcotics 	FMN 	Law Tac 
+460.18750 	WPBQ332 	M	210.7 PL	NYPD Tac Q 	Tac Q 	FMN 	Law Tac 
+460.23750 	WPBQ332 	M	218.1 PL	NYPD Tac R 	Tac R 	FMN 	Law Tac 
+460.31250 	WPBQ332 	M	225.7 PL	NYPD Tac S 	Tac S 	FMN 	Law Tac 
+460.46250 	WPBQ332 	M	233.6 PL	NYPD Tac T 	Tac T 	FMN 	Law Tac 
+460.48750 	WPBQ332 	M	241.8 PL	NYPD Tac U 	Tac U - NYPD/FDNY Interop 	FMN 	Law Tac 
+485.53750 	WIM507 	M	233.6 PL	NYPD Tac V 	Tac V - Communications/Fleet Services 	FM 	Law Tac 
+458.82500 	KSI296 	M	225.7 PL	NYPD Tac W 	Tac W - Detectives/HQ Security 	FMN 	Law Tac 
+476.53750 	WIF571 	RM	123.0 PL	NYPD BX 40/41 	Precincts 40, 41 	FM 	Law Dispatch 
+476.83750 	WIF570 	RM	136.5 PL	NYPD BX 42/44 	Precincts 42, 44 	FM 	Law Dispatch 
+476.91250 	WIF543 	RM	151.4 PL	NYPD BX 43/45 	Precincts 43, 45 	FM 	Law Dispatch 
+476.48750 	WIF579 	RM	167.9 PL	NYPD BX 46/48  	Precincts 46, 48 	FM 	Law Dispatch 
+476.96250 	WIF545 	RM	186.2 PL	NYPD BX 47/49  	Precincts 47, 49 	FM 	Law Dispatch 
+476.66250 	WIF544 	RM	100.0 PL	NYPD BX 50/52  	Precincts 50, 52 	FM 	Law Dispatch 
+471.03750 	WIK935 	RM	123.0 PL	NYPD BX PBBX  	Patrol Boro Bronx 	FM 	Law Dispatch 
+476.46250 	WIF557 	RM	110.9 PL	NYPD BK 60/61  	Precincts 60, 61 	FM 	Law Dispatch 
+476.51250 	WIF580 	RM	123.0 PL	NYPD BK 62/68  	Precincts 62, 68 	FM 	Law Dispatch 
+476.93750 	WIF574 	RM	136.5 PL	NYPD BK 63/69  	Precincts 63, 69 	FM 	Law Dispatch 
+476.86250 	WIF551 	RM	151.4 PL	NYPD BK 66/70  	Precincts 66, 70 	FM 	Law Dispatch 
+477.01250 	WIF581 	RM	167.9 PL	NYPD BK 67/71  	Precincts 67, 71 	FM 	Law Dispatch 
+476.41250 	WIF555 	RM	186.2 PL	NYPD BK 72/76/78 	Precincts 72, 76, 78 	FM 	Law Dispatch 
+476.98750 	WIF553 	RM	100.0 PL	NYPD BK 73/75  	Precincts 73, 75 	FM 	Law Dispatch 
+476.73750 	WIF540 	RM	110.9 PL	NYPD BK 77/79  	Precincts 77, 79 	FM 	Law Dispatch 
+476.78750 	WIF554 	RM	123.0 PL	NYPD BK 81/83  	Precincts 81, 83 	FM 	Law Dispatch 
+476.76250 	WIF556 	RM	136.5 PL	NYPD BK 84/88  	Precincts 84,88 	FM 	Law Dispatch 
+476.68750 	WIF546 	RM	151.4 PL	NYPD BK 90/94  	Precincts 90, 94 	FM 	Law Dispatch 
+470.98750 	WIK933 	RM	136.5 PL	NYPD BK PBBK  	Patrol Boro Brooklyn 	FM 	Law Dispatch 
+476.56250 	WIF549 	RM	100.0 PL	NYPD MN 1/5/7  	Precincts 1, 5, 7 	FM 	Law Dispatch 
+476.43750 	WIF575 	RM	110.9 PL	NYPD MN 6/9  	Precincts 6, 9 	FM 	Law Dispatch 
+476.33750 	WIF548 	RM	123.0 PL	NYPD MN 10/13  	Precincts 10, 13 	FM 	Law Dispatch 
+476.58750 	WIF542 	RM	136.5 PL	NYPD MN 17/MTx  	Precincts MTS, 17, MTN 	FM 	Law Dispatch 
+476.38750 	WIF576 	RM	151.4 PL	NYPD MN 19/23  	Precincts 19, 23 	FM 	Law Dispatch 
+476.31250 	WIF539 	RM	167.9 PL	NYPD MN 20/24/CP 	Precincts 20, CPk, 24 	FM 	Law Dispatch 
+476.63750 	WIF537 	RM	186.2 PL	NYPD MN 25/28/32 	Precincts 25, 28, 32 	FM 	Law Dispatch 
+476.36250 	WIF538 	RM	100.0 PL	NYPD MN 26/30  	Precincts 26, 30 	FM 	Law Dispatch 
+476.88750 	WIF541 	RM	110.9 PL	NYPD MN 33/34 	Precincts 33, 34 	FM 	Law Dispatch 
+471.06250 	WIF568 	RM	110.9 PL	NYPD MN PBMN  	Patrol Boro Manhattan 	FM 	Law Dispatch 
+477.13750 	WIF552 	RM	167.9 PL	NYPD QN 100/101  	Precincts 100, 101 	FM 	Law Dispatch 
+477.08750 	WIF550 	RM	186.2 PL	NYPD QN 102/106  	Precincts 102, 106 	FM 	Law Dispatch 
+477.03750 	WIF558 	RM	100.0 PL	NYPD QN 103/107  	Precincts 103, 107 	FM 	Law Dispatch 
+477.11250 	WIF572 	RM	110.9 PL	NYPD QN 105/113  	Precincts 105, 113 	FM 	Law Dispatch 
+476.71250 	WIF578 	RM	123.0 PL	NYPD QN 104/112  	Precincts 104, 112 	FM 	Law Dispatch 
+476.61250 	WIF577 	RM	136.5 PL	NYPD QN 108/114  	Precincts 108, 114 	FM 	Law Dispatch 
+477.06250 	WIF547 	RM	151.4 PL	NYPD QN 109  	Precinct 109 	FM 	Law Dispatch 
+482.61250 	WIM658 	RM	151.4 PL	NYPD QN 111  	Precinct 111 	FM 	Law Dispatch 
+476.81250 	WIF573 	RM	167.9 PL	NYPD QN 110/115  	Precincts 110, 115 	FM 	Law Dispatch 
+470.93750 	WIK932 	RM	167.9 PL	NYPD QN PBQN  	Patrol Boro Queens 	FM 	Law Dispatch 
+482.88750 	WIM576 	RM	186.2 PL	NYPD SI 120/121  	Precincts 120, 121 	FM 	Law Dispatch 
+482.58750 	WIM660 	RM	186.2 PL	NYPD SI 122/123  	Precincts 122, 123 	FM 	Law Dispatch 
+482.41250 	WIM519 	RM	100.0 PL	NYPD SI PBSI  	Patrol Boro Staten Island 	FM 	Law Dispatch 
+471.16250 	KWV660 	BM	151.4 PL	Parking CW 	Intersection Ctrl/Tfc Intell/Nighthawks 	FM 	Law Dispatch 
+472.61250 	KWV660 	BM	151.4 PL	Parking MN/SI 	Manhattan/S.I. Summons Enforcement 	FM 	Law Dispatch 
+453.25000 	KWV660 	BM	151.4 PL	Parking BX 	Bronx Summons Enforcement 	FMN 	Law Dispatch 
+471.21250 	KWV660 	BM	151.4 PL	Parking BK 	Brooklyn Summons Enforcement 	FM 	Law Dispatch 
+471.18750 	KWV660 	BM	151.4 PL	Parking QN 	Queens Summons Enforcement 	FM 	Law Dispatch 
+453.82500 	KSI296 	RM	151.4 PL	Parking 3A 	Enforcement 3A 	FMN 	Law Dispatch 
+453.95000 	KQP434 	RM	151.4 PL	Parking 3B 	Enforcement 3B 	FMN 	Law Dispatch 
+458.95000 	KQP434 	M	203.5 PL	Parking Tac 	District Tac 	FMN 	Law Tac 
+471.08750 	WIH585 	RM	025 DPL	Transit Div 1 	Division 1 - Manhattan South 	FM 	Law Dispatch 
+482.86250 	WIM584 	RM	047 DPL	Transit Div 2 	Division 2 - Manhattan North/Bronx 	FM 	Law Dispatch 
+470.91250 	WIK930 	RM	032 DPL	Transit Div 3 	Division 3 - Queens/Brooklyn East 	FM 	Law Dispatch 
+470.96250 	WIK928 	RM	047 DPL	Transit Div 4 	Division 4 - Brooklyn West and South 	FM 	Law Dispatch 
+471.41250 	KWF680 	RM	141.3 PL	SSD 1 CW 	Citywide 	FM 	Law Dispatch 
+471.81250 	KUE800 	RM	91.5 PL	SSD 2 CW 	Citywide 	FM 	Law Dispatch 
+458.11250 	 	M	71.9 PL	SSD Tac 1A 	Tactical 1A 	FMN 	Law Tac 
+458.11250 	 	M	79.7 PL	SSD Tac 1B 	Tactical 1B 	FMN 	Law Tac 
+458.11250 	 	M	203.5 PL	SSD Tac 1C 	Tactical 1C 	FMN 	Law Tac 
+458.16250 	 	M	71.9 PL	SSD Tac 2A 	Tactical 2A 	FMN 	Law Tac 
+458.16250 	 	M	79.7 PL	SSD Tac 2B 	Tactical 2B 	FMN 	Law Tac 
+458.16250 	 	M	203.5 PL	SSD Tac 2C 	Tactical 2C 	FMN 	Law Tac 
+482.00625 	WQFH239 	B	131.8 PL	FDNY BX Dispatch 	Bronx Dispatch 	FMN 	Fire Dispatch 
+485.00625 	WQFH239 	M		FDNY BX Mobiles 	Bronx Mobiles 	FMN 	Fire Dispatch 
+482.01875 	WQFH239 	B	136.5 PL	FDNY BK Dispatch 	Brooklyn Dispatch 	FMN 	Fire Dispatch 
+485.01875 	WQFH239 	M		FDNY BK Mobiles 	Brooklyn Mobiles 	FMN 	Fire Dispatch 
+482.10625 	WQFH238 	B	146.2 PL	FDNY MN Dispatch 	Manhattan Dispatch 	FMN 	Fire Dispatch 
+485.10625 	WQFH239 	M		FDNY MN Mobiles 	Manhattan Mobiles 	FMN 	Fire Dispatch 
+482.03125 	WQFH239 	B	141.3 PL	FDNY QN Dispatch 	Queens Dispatch 	FMN 	Fire Dispatch 
+485.03125 	WQFH239 	M		FDNY QN Mobiles 	Queens Mobiles 	FMN 	Fire Dispatch 
+482.04375 	WQFH238 	B	151.4 PL	FDNY SI Dispatch 	Staten Island Dispatch 	FMN 	Fire Dispatch 
+485.04375 	WQFH239 	M		FDNY SI Mobiles 	Staten Island Mobiles 	FMN 	Fire Dispatch 
+482.23125 	WQFH238 	B	131.8 PL	FDNY CW1 Disptch 	Citywide 1 Dispatch 	FMN 	Fire Dispatch 
+485.23125 	WQFH239 	M		FDNY CW1 Mobiles 	Citywide 1 Mobiles 	FMN 	Fire Dispatch 
+483.38125 	WQFH238 	B	167.9 PL	FDNY CW2 Disptch 	Citywide 2 Dispatch 	FMN 	Fire Dispatch 
+486.38125 	WQFH239 	M		FDNY CW2 Mobiles 	Citywide 2 Mobiles 	FMN 	Fire Dispatch 
+486.11250 	WQHX483 	M	CSQ	FDNY FG Tac 1 	TAC 1 	FMN 	Fire-Tac 
+485.18750 	WQHX483 	M	CSQ	FDNY FG Cmd 1 	CMD 1 - Command 1 	FMN 	Fire-Tac 
+486.26250 	WQHX483 	M	CSQ	FDNY FG Tac 2 	TAC 2 	FMN 	Fire-Tac 
+487.26250 	WQHX483 	M	CSQ	FDNY FG HT 4  	HT4 - Fireground 	FMN 	Fire-Tac 
+487.13750 	WQHX483 	M	CSQ	FDNY FG HT 5 	HT5 - Fireground 	FMN 	Fire-Tac 
+485.26250 	WQHX483 	M	CSQ	FDNY FG HT 6 	HT6 - Fireground 	FMN 	Fire-Tac 
+486.13750 	WQHX483 	M	CSQ	FDNY FG HT 7 	HT7 - Fireground 	FMN 	Fire-Tac 
+485.06250 	WQHX483 	M	CSQ	FDNY FG HT 8 	HT8 - Fireground 	FMN 	Fire-Tac 
+486.01875 	WPPU560 	M		FDNY FG HT 9  	HT9 - Fireground 	P25 	Fire-Tac 
+483.01250 	WQHX483 	RM	173.8 PL	FDNY Hi-Rise Rpt 	High-Rise In-Building Repeater 	FMN 	Fire-Tac 
+484.76250 	WQHX483 	RM	173.8 PL	FDNY BattChf Rpt 	Battalion Chief Vehicle Repeater 	FMN 	Fire-Tac 
+460.57500 	WQAZ844 	RM	127.3 PL	FDNY Subway Rpt1 	Subway Repeater 1 	FMN 	Fire-Tac 
+460.62500 	WQAZ844 	RM	91.5 PL	FDNY Subway Rpt2 	Subway Repeater 2 	FMN 	Fire-Tac 
+486.73750 	WQHX483 	M	CSQ	FDNY Emergency 	Emergency 	FMN 	Fire-Tac 
+153.83000 	WPFS461 	M		FDNY VRS 	Vehicular Repeater System 	FMN 	Fire-Tac 
+478.01250 	WIF518 	B	85.4 PL	EMS Subway 	EMS Subway 	FMN 	EMS-Tac 
+483.20625 	WQFH239 	RM	167.9 PL	EMS BX N Disp 	Bronx North Dispatch 	FMN 	EMS Dispatch 
+482.76875 	WQFH239 	RM	173.8 PL	EMS BX S Disp 	Bronx South Dispatch 	FMN 	EMS Dispatch 
+482.50625 	WQFH239 	RM	186.2 PL	EMS BK C Disp 	Brooklyn Central Dispatch 	FMN 	EMS Dispatch 
+483.28125 	WQFH239 	RM	173.8 PL	EMS BK N Disp 	Brooklyn North Dispatch 	FMN 	EMS Dispatch 
+483.29375 	WQFH239 	RM	192.8 PL	EMS BK S Disp 	Brooklyn South Dispatch 	FMN 	EMS Dispatch 
+482.98125 	WQFH238 	RM	156.7 PL	EMS MN C Disp 	Manhattan Central Dispatch 	FMN 	EMS Dispatch 
+482.75625 	WQFH238 	RM	151.4 PL	EMS MN N Disp 	Manhattan North Dispatch 	FMN 	EMS Dispatch 
+483.21875 	WQFH238 	RM	162.2 PL	EMS MN S Disp 	Manhattan South Dispatch 	FMN 	EMS Dispatch 
+483.03125 	WQFH239 	RM	141.3 PL	EMS QN E Disp 	Queens East Dispatch 	FMN 	EMS Dispatch 
+482.51875 	WQFH239 	RM	146.2 PL	EMS QN W Disp 	Queens West Dispatch 	FMN 	EMS Dispatch 
+482.24375 	WQFH239 	RM	136.5 PL	EMS SI Disp 	Staten Island Dispatch 	FMN 	EMS Dispatch 
+482.16875 	WQFH238 	RM	156.7 PL	EMS CW 1 Disp 	Citywide 1 Dispatch 	FMN 	EMS Dispatch 
+482.21875 	WQFH238 	RM	162.2 PL	EMS CW 2 Disp 	Citywide 2 Dispatch 	FMN 	EMS Dispatch 
+482.98125 	WQFH239 	M	167.9 PL	EMS BX N Tac  	Bronx North Tactical 	FMN 	EMS-Tac 
+483.21875 	WQFH239 	M	167.9 PL	EMS BX S Tac 	Bronx South Tactical 	FMN 	EMS-Tac 
+482.51875 	WQFH239 	M	167.9 PL	EMS BK C Tac  	Brooklyn Central Tactical 	FMN 	EMS-Tac 
+483.20625 	WQFH239 	M	167.9 PL	EMS BK N Tac  	Brooklyn North Tactical 	FMN 	EMS-Tac 
+482.76875 	WQFH239 	M	167.9 PL	EMS BK S Tac  	Brooklyn South Tactical 	FMN 	EMS-Tac 
+483.28125 	WQFH239 	M	167.9 PL	EMS MN C Tac  	Manhattan Central Tactical 	FMN 	EMS-Tac 
+483.03125 	WQFH239 	M	167.9 PL	EMS MN N Tac  	Manhattan North Tactical 	FMN 	EMS-Tac 
+483.29375 	WQFH239 	M	167.9 PL	EMS MN S Tac  	Manhattan South Tactical 	FMN 	EMS-Tac 
+482.75625 	WQFH239 	M	167.9 PL	EMS QN E Tac  	Queens East Tactical 	FMN 	EMS-Tac 
+482.50625 	WQFH239 	M	167.9 PL	EMS QN W Tac  	Queens West Tactical 	FMN 	EMS-Tac 
+482.76875 	WQFH239 	M	167.9 PL	EMS SI Tac 	Staten Island Tactical 	FMN 	EMS-Tac 
+482.50625 	WQFH239 	M	85.4 PL	EMS CW Tac 1 	Citywide Tactical 1 	FMN 	EMS-Tac 
+487.48750 	WQHX483 	M	85.4 PL	EMS CFR Tac 	EMS CFR Tactical 	FMN 	EMS-Tac 
+461.50000 	WQCI921 	RM	226 DPL	Bayside EMS 	Bayside Volunteer Ambulance 	FMN 	EMS Dispatch 
+155.35500 	WPLW539 	RM	506 DPL	CPMU Main 	Central Park Medical Unit - Main 	FMN 	EMS Dispatch 
+461.50000 	WQCI921 	RM	723 DPL	Douglastown EMS 	Douglastown Community Ambulance 	FMN 	EMS Dispatch 
+471.72500 	WPMB372 	BM	CC 10TG *SL *	1stResponder EMS 	First Responder Ambulance 	DMR 	EMS Dispatch 
+477.81250 	WIJ591 	BM	CC 1TG *SL *	1stResponder EMS 	First Responder Ambulance 	DMR 	EMS Dispatch 
+461.50000 	WQCI921 	BM	125 DPL	Flushing EMS 	Flushing Volunteer Ambulance 	FMN 	EMS Dispatch 
+462.95000 	WNBT230 	RM	151.4 PL	Glen Oaks EMS 	Glen Oaks Volunteer Ambulance 	FMN 	EMS Dispatch 
+461.92500 	WPUI822 	RM	023 DPL	NYP EMS 	New York Presbyterian EMS 	FMN 	EMS Dispatch 
+452.80000 	WQOS955 	RM	88.5 PL	North Shore EMS 	North Shore Rescue Squad 	FMN 	EMS Dispatch 
+155.28000 	WRL477 	BM	110.9 PL	Throggs Neck EMS 	Throggs Neck Volunteer Ambulance 	FMN 	EMS Dispatch 
+463.38750 	WQES599 	RM	107.2 PL	VHRU North 	Volunteer Heart Ambulance (Staten Island) - North 	FMN 	EMS Dispatch 
+451.30000 	WQES599 	RM	127.3 PL	VHRU South 	Volunteer Heart Ambulance (Staten Island) - South 	FMN 	EMS Dispatch 
+463.38750 	WQES599 	M	156.7 PL	VHRU Tac 	Volunteer Heart Ambulance (Staten Island) - Tac 	FMN 	EMS-Tac 
+461.50000 	WQCI921 	BM	306 DPL	Whitestone EMS 	Whitestone Volunteer Ambulance 	FMN 	EMS Dispatch 
+160.28000 	KFM561 	BM	167.9 PL	Hatzolah EMS 	Hatzolah EMS Dispatch (Simulcast) 	FMN 	EMS Dispatch 
+152.45000 	WRBX544 	RM	167.9 PL	Hatzolah EMS SI 	Hatzolah EMS Staten Island 	FMN 	EMS Dispatch 
+160.20000 	WNKK898 	BM	167.9 PL	Hatzolah EMS Ch2 	Hatzolah EMS Ch 2 (Alt Dispatch) 	FMN 	EMS-Tac 
+153.21000 	 	BM	167.9 PL	Hatzolah EMS CW 	Hatzolah EMS Citywide 	FMN 	EMS-Tac 
+152.87750 	WQJJ612 	RM	413 DPL	Hatzolah EMS QN 	Queens Hatzolah Aid 	FMN 	EMS-Tac 
+464.21250 	WQKK660 	RM	118.8 PL	RISAR 	Search and Rescue Ch. 1 	FMN 	EMS Dispatch 
+464.21250 	WQKK660 	RM	74.4 PL	RI PS 1 Disp 	Public Safety Ch. 1 Dispatch 	FMN 	Security 
+464.15000 	WQJV687 	RM	167.9 PL	RI PS 2 	Public Safety Ch. 2 	FMN 	Security 
+460.27500 	KJN880 	RM	192.8 PL	BCVFD Dispatch 	Broad Channel FD Dispatch 	FMN 	Fire Dispatch 
+463.18125 	 	M	192.8 PL	BCVFD FG 	Broad Channel FD Fireground 	FMN 	Fire-Tac 
+154.22000 	WQRU862  	BM	627 DPL	Edgewater Pk FD 	Edgewater Park FD 	FMN 	Fire Dispatch 
+460.38750 	KNAA929 	RM	123.0 PL	GBVFD Disp/FG 	Gerrittsen Beach FD Dispatch/Fireground 	FMN 	Fire Dispatch 
+47.50000 	KLG642 	BM	192.8 PL	RPFD Dispatch 	Rockaway Point FD Dispatch 	FM 	Fire Dispatch 
+460.56250 	KLG642 	BM	192.8 PL	RPFD Dispatch 	Rockaway Point FD Dispatch 	FMN 	Fire Dispatch 
+465.56250 	KLG642 	M	192.8 PL	RPFD FG 	Rockaway Point Fireground 	FMN 	Fire-Tac 
+453.83750 	WQXJ817 	RM	136.5 PL	WHBVFD Dispatch 	W Hamilton Beach FD Dispatch 	FMN 	Fire Dispatch 
+453.73750 	 	M	91.5 PL	WHBVFD FG 	W Hamilton Beach Fireground 	FMN 	Fire-Tac 
+482.68750 	WIM483 	RM	110.9 PL	NYMAC 1 	NYMAC 1 	FM 	Interop 
+482.71250 	WIM479 	RM	123.0 PL	NYMAC 2 	NYMAC 2 	FM 	Interop 
+482.81250 	WIM676 	RM	167.9 PL	NYMAC 3 	NYMAC 3 	FM 	Interop 
+482.73750 	WIM475 	RM	136.5 PL	NYMAC 4 	NYMAC 4 	FM 	Interop 
+482.78750 	WIM471 	RM	151.4 PL	NYMAC 5 	NYMAC 5 	FM 	Interop 
+482.83750 	WIM580 	RM	186.2 PL	NYMAC 6 	NYMAC 6 	FM 	Interop 
+453.75000 	 	RM	123.0 PL	DOC Bronx 	Bronx Facilities - Bronx Detention Complex and Courts 	FMN 	Corrections 
+460.01250 	WNYF842 	M	114.8 PL	DOC Bronx 	Bronx Facilities - Vernon C. Baine Center (VCBC) 	FMN 	Corrections 
+460.01250 	WNYF842 	RM	047 DPL	DOC Brklyn 	Brooklyn Detention Complex and Courts 	FMN 	Corrections 
+471.26250 	KWV665 	RM	114.8 PL	DOC Citywide 	Citywide and Transportation 	FM 	Corrections 
+453.75000 	 	RM	162.2 PL	DOC Manhtn 	Manhattan Facilities - Bellevue Hospital Prison Ward 	FMN 	Corrections 
+453.10000 	 	RM	156.7 PL	DOC Manhtn 	Manhattan Facilities - Man Courts 	FMN 	Corrections 
+453.41250 	 	RM	023 DPL	DOC Manhtn 	Manhattan Facilities - Manhattan Detention Complex 	FMN 	Corrections 
+453.10000 	 	RM	127.3 PL	DOC Queens 	Queens Facilities - Elmhurst Hospital Prison Ward 	FMN 	Corrections 
+453.75000 	KJV301 	RM	127.3 PL	DOC Queens 	Queens Facilities - Queens Detention Complex and Courts 	FMN 	Corrections 
+458.51250 	KD31197 	M	054 DPL	DOC Rikers 	Rikers Bus (on Island) 	FMN 	Corrections 
+482.03750 	WQHX483 	M	023 DPL	DOC Rikers 	Rikers ESU (on Island) 	FM 	Corrections 
+460.26250 	 	RM	072 DPL	DOC Rikers 	Rikers Facilities - Anna M. Koss Center (C-95) 	FMN 	Corrections 
+453.51250 	KD31197 	M	047 DPL	DOC Rikers 	Rikers Facilities - Eric M. Taylor Center (C-76) 	FMN 	Corrections 
+460.23750 	WPKY646 	M	072 DPL	DOC Rikers 	Rikers Facilities - George Motchan Detention Center (C-73) 	FMN 	Corrections 
+484.90625 	WQOJ552 	RM	331 DPL	DOC Rikers 	Rikers Facilities - George R Vierno Center 	FM 	Corrections 
+453.36250 	WPKY646 	M	026 DPL	DOC Rikers 	Rikers Facilities - North Infirmary Command 	FMN 	Corrections 
+453.53750 	WPWT925 	RM	023 DPL	DOC Rikers 	Rikers Facilities - Otis Bantum Correctional Center 	FMN 	Corrections 
+453.16250 	WQHR374 	RM	206.5 PL	DOC Rikers 	Rikers Facilities - Robert N. Davoren Complex (C-74) 	FMN 	Corrections 
+453.41250 	WPKY646 	RM	031 DPL	DOC Rikers 	Rikers Facilities - Rose M. Singer Center 	FMN 	Corrections 
+453.31250 	WPKY646 	M	072 DPL	DOC Rikers 	Rikers Facilities - West Facility 	FMN 	Corrections 
+460.03750 	WNYI446 	RM	047 DPL	DOC Rikers 	Rikers SOD/Security (on Island) 	FMN 	Corrections 
+460.36250 	WPKY646 	M	114.8 PL	DOC TSO 1 	Tactical Search Operations (TSO 1) 	FMN 	Corrections 
+460.18750 	WPBQ332 	M	072 DPL	DOC TSO 2 	Tactical Search Operations (TSO 2) 	FMN 	Corrections 
+453.20000 	KNBA923 	RM	107.2 PL	Homeless Srv 	Homeless Services (MnN/Bklyn) 	FMN 	Public Works 
+453.30000 	KNBA923 	RM		Homeless Srv 	Homeless Services (MnS/Bx) 	FMN 	Public Works 
+453.35000 	KNBA923 	RM		Homeless Srv 	Homeless Services (Qns/S.I.) 	FMN 	Public Works 
+463.00000 	WNBS209 	RM	167.9 PL	MED 1 	MED 1 	FMN 	Hospital 
+463.02500 	WNBS209 	RM	167.9 PL	MED 2 	MED 2 	FMN 	Hospital 
+463.05000 	WNBS209 	RM	167.9 PL	MED 3 	MED 3 	FMN 	Hospital 
+463.07500 	WNBS209 	RM	167.9 PL	MED 4 	MED 4 	FMN 	Hospital 
+463.10000 	WNBS209 	RM	167.9 PL	MED 5 	MED 5 	FMN 	Hospital 
+463.12500 	WNBS209 	RM	167.9 PL	MED 6 	MED 6 	FMN 	Hospital 
+463.15000 	WNBS209 	RM	167.9 PL	MED 7 	MED 7 	FMN 	Hospital 
+463.17500 	WNBS209 	RM	167.9 PL	MED 8 	MED 8 	FMN 	Hospital 
+462.95000 	WNBS209 	RM	167.9 PL	MED 9 	MED 9 	FMN 	Hospital 
+462.97500 	WNBS209 	RM	167.9 PL	MED 10 	MED 10 	FMN 	Hospital 
+463.20000 	WQTE909 	BM		Bx Hospital 	Bronx Municipal Hospital 	FMN 	Public Works 
+463.22500 	KTP507 	B		BirdColerHsp 	Bird S. Coler Hospital 	FMN 	Public Works 
+463.22500 	KNFS392 	B		Harlem Hosp 	Harlem Hospital 	FMN 	Public Works 
+463.22500 	WQHT879 	B		BellevueHosp 	Bellevue Hospital 	FMN 	Public Works 
+463.22500 	WNUR820 	RM	503 DPL	Lincoln Hosp PD 	Lincoln Hospital Police 	FMN 	Law Dispatch 
+156.10500 	KRB407 	M	67.0 PL	Signals 	Signal Department 	FMN 	Transportation 
+160.84500 	 	M	127.3 PL	Yard 	Yard 	FMN 	Transportation 
+161.19000 	WNGX516 	BM	127.3 PL	IRT Subway 	IRT Subway 	FMN 	Transportation 
+161.50500 	KTA927 	BM	127.3 PL	BMT Subway 	BMT Subway 	FMN 	Transportation 
+161.56500 	KTA927 	BM	127.3 PL	IND Subway 	IND Subway 	FMN 	Transportation 
+470.38750 	KGK700 	RM		Power Sectn 	Power Section 	FMN 	Transportation 
+470.43750 	 	RM	141.3 PL	SI Railway 	Staten Island Railway 	FMN 	Transportation 
+470.48750 	WPVS838 	RM	123.0 PL	MOW 	Maintenance of Way 	FMN 	Transportation 
+153.92000 	WXP373 	RM		CP Zoo 	Central Park Zoo 	FMN 	Public Works 
+156.62500 	 	BM	CSQ	NYC Ferry 	NYC Ferry 	FM 	Transportation 
+156.95000 	KEJ237 	RM	CSQ	SI Ferry Ops 	Staten Island Ferry 	FM 	Transportation 
+458.86250 	WQLE877 	M	662 DPL	City Council 	City Council Sergeant-at-Arms (City Hall) 	FMN 	Public Works 
+478.03750 	WPKK782 	RM	103.5 PL	OTB Security 	Off-Track Betting Security 	FM 	Security 
+155.07000 	KVH287 	BM		South Bch Psyc  	South Beach Psychiatric 	FMN 	Public Works 
+156.13500 	WPAU882 	RM		Institute for BR 	Institute for Basic Research 	FMN 	Public Works 
+159.00000 	WPZK416 	M		SI Develop Cntr 	Staten Island Developmental Center 	FMN 	Public Works 
+153.96500 	 	M		CrimnlCrtNYC 	Criminal Court 	FMN 	Law Tac 
+154.01000 	 	M		SuprmCrtNYC 	Supreme Court - Panic Button Voice Alarm 	FMN 	Law Tac 
+154.78500 	 	M		SuprmCrtNYC 	Supreme Court - Court Officers for Lower Courts 	FMN 	Law Tac 
+154.87000 	 	M		SuprmCrtNYC 	Supreme Court - Court Officers for Supreme Court 	FMN 	Law Tac 
+464.92500 	WQIX626 	RM	155 DPL	Barnard Srty 	Security 	FMN 	Security 
+464.42500 	KWW250 	B		CUNYQueens 	CUNY - Queens Campus 	FMN 	Schools 
+463.70000 	 		205 DPL	CU Mv Sec 	Manhattanville Security 	FMN 	Security 
+452.22500 	WQLX950 	RM	CC 5TG 70000SL 2	CU MH PS 	Morningside Heights Public Safety 	DMR 	Security 
+464.02500 	WPTV311 	RM	CC 10TG 1000SL 1	Fordham Sec 	Security 	DMR 	Security 
+462.37500 	WNNG369 	RM	CC 3TG 1691787SL 1	NYU Sec 	Security 	DMR 	Security 
+463.58750 	WNNG369 	BM		NYU 	New York University 	DMR 	Schools 
+464.20000 	WQVQ656 	BM	271 DPL	NYU SecPatrl 	Security Patrols 	FMN 	Security 
+463.71250 	WQJC219 	RM	CC 1TG 1SL *	SJU Security 	Security 	DMR 	Security 
+452.86250 	WQJC219 	RM	CC 12TG 1SL *	SJU Maintnce 	IT and Maintenance 	DMR 	Business 
+464.50000 	 	M	67.0 PL	SHS Tech 1 	Technology Department Ch. 1 	FMN 	Schools 
+465.50000 	 	M	77.0 PL	SHS Tech 2 	Technology Department Ch. 2 	FMN 	Schools 
+464.50000 	 	M	88.5 PL	SHS Tech 3 	Technology Department Ch. 3 	FMN 	Schools 
+464.50000 	 	M	179.9 PL	SHS Tech 4 	Technology Department Ch. 4 	FMN 	Schools 
+464.50000 	 	M	CSQ	SHS Tech 5 	Technology Department Ch. 5 	FMN 	Schools 
+464.55000 	 	M	67.0 PL	SHS Tech 6 	Technology Department Ch. 6 	FMN 	Schools 
+464.55000 	 	M	82.5 PL	SHS Tech 7 	Technology Department Ch. 7 	FMN 	Schools 
+464.55000 	 	M	94.8 PL	SHS Tech 8 	Technology Department Ch. 8 	FMN 	Schools 
+464.55000 	 	M	179.9 PL	SHS Tech 9 	Technology Department Ch. 9 	FMN 	Schools 
+464.55000 	 	M	CSQ	SHS Tech 10 	Technology Department Ch. 10 	FMN 	Schools 
+461.36250 	 	M	74.4 PL	SHS Tech 11 	Technology Department Ch. 11 Primary 	FMN 	Schools 
+464.48750 	 	M	79.7 PL	SHS Tech 12 	Technology Department Ch. 12 	FMN 	Schools 
+464.53750 	 	M	85.4 PL	SHS Tech 13 	Technology Department Ch. 13 	FMN 	Schools 
+466.03750 	WPAW683 	M	91.5 PL	SHS Tech 14 	Technology Department Ch. 14 	FMN 	Schools 
+466.08750 	WPAW683 	M	97.4 PL	SHS Tech 15 	Technology Department Ch. 15 	FMN 	Schools 
+452.41250 	 	M	103.5 PL	SHS Tech 16 	Technology Department Ch. 16 	FMN 	Schools 
+American Airlines (LGA)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Queens	ARINC (JFK)	 TETRA Standard	 Queens	Atlantic Telecommunications	 LTR Net
+ Various	British Airways (JFK)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Queens	Clarendon Holding	 DMR Motorola Capacity Plus Multi Site (TRBO)	 New York	Delta Airlines (JFK)
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Queens	Hudson Yards	 DMR Motorola Capacity Plus Single Site (TRBO)	 New York	Javits Center	 Motorola Type II Smartnet	 New York
+JetBlue Airways (JFK)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Queens	Kirby Forensic Psychiatric Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Wards Island	Metro-25/MTA MRRS	 Project 25 Phase II
+ Regional	Metropolitan Correctional Center New York	 Motorola Type II Smartnet	 New York	Metropolitan Detention Center Brooklyn	 Motorola Type II Smartnet	 Brooklyn	MTA Regional Bus
+ Motorola Type II SmartZone	 New York	Nassau Suffolk Communications (NEXEDGE)	 NXDN NEXEDGE 4800	 Regional	National Grid	 Motorola Type II Smartnet	 Brooklyn
+New Jersey Interoperability Communications System (NJICS)	 Project 25 Phase II	 Statewide	New Jersey Transit	 TETRA Standard	 Statewide	New York City DoITT (800 MHz)	 Motorola Type II SmartZone
+ New York City	New York City Transit Authority	 Motorola Type II Smartnet	 New York	NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional	OneVoice Network
+ DMR Motorola Connect Plus (TRBO)	 Various	Port Authority of New York and New Jersey	 Project 25 Phase II	 Regional	Resorts World Casino NYC	 NXDN Icom IDAS Type D	 Jamaica
+RF Design Consultants	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Regional	Rockefeller Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 New York City	Shomayah Services	 DMR Motorola Capacity Plus Single Site (TRBO)
+ New York	SI 2way	 LTR Standard	 Staten Island	Specialized Mobile Radio	 LTR Standard	 New York	Statcom Communications
+ LTR Standard	 Staten Island	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	USPS Morgan Processing and Distribution Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 New York
+USTA National Tennis Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Flushing	

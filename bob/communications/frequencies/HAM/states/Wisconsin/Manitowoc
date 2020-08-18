@@ -1,0 +1,48 @@
+156.24000 	WQOH255 	RM	151.4 PL	MTFIR1 	Fire Dispatch 	FMN 	Fire Dispatch 
+152.09000 	WQON629 	RM	167.9 PL	MTFIR2 	Fire Operations 	FMN 	Fire Dispatch 
+154.01000 	WPTX953 	M	192.8 PL	MTFIR3 	Fireground 	FMN 	Fire-Tac 
+154.11500 	 	M		MTHAZMAT 	Fire Hazmat 	FMN 	Fire-Tac 
+155.02500 	WNMH977 	RM	123.0 PL	MTEM 	Emergency Management 	FMN 	Emergency Ops 
+155.34000 	WNZI239 	BM	118.8 PL	Aurora MC B 	EMS to Aurora Medical Center 	FMN 	Hospital 
+155.40000 	WNZI239 	BM	118.8 PL	Aurora MC A 	Aurora Medical Center EMS A 	FMN 	Hospital 
+155.34000 	KUS421 	BM	179.9 PL	Holy FamilyB 	EMS to Holy Family Memorial Medical Center 	FMN 	Hospital 
+155.34000 	KUS421 	BM	94.8 PL	2RiversHospB 	EMS to Two Rivers Community Hospital 	FMN 	Hospital 
+155.28000 	KUS421 	BM	192.8 PL	Holy FamilyC 	Holy Family Medical Center 	FMN 	Hospital 
+154.02500 	KFM490 	RM	205 DPL	Kiel DPW/FD 	Fire / Public Works 	FMN 	Public Works 
+155.58000 	KGJ717 	RM	315 DPL	Kiel Paging 	EMS Paging 	FMN 	EMS Dispatch 
+155.91000 	None 	M		Kiel PD Car 	Police Car-to-Car 	FMN 	Law Talk 
+154.43000 	KSE334 	RM	131.8 PL	Manitowoc FD 	Fire Dispatch/Paging 	FMN 	Fire Dispatch 
+154.23500 	KSE334 	RM	174 DPL	Manitowoc FG 	Fire Operations/Fireground 	FMN 	Fire-Tac 
+155.61000 	KSA693 	RM	131.8 PL	ManitowocEMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+453.72500 	WNXD346 	RM	156 DPL	ManitowocPW1 	Public Works - 1 Main 	FMN 	Public Works 
+453.37500 	WNXD346 	M	156 DPL	ManitowocPW2 	Public Works - 2 Unit-to-Unit 	FMN 	Public Works 
+453.05000 	WNXD346 	RM	156 DPL	ManitowocBus 	Public Works - 3 Transit 	FMN 	Transportation 
+153.41000 	KSC583 	RM	162.2 PL	ManitowocUtl 	Utilities 	FMN 	Utilities 
+153.66500 	KSC583 	M		ManitowocUtl 	Utilities Unit-to-Unit 	FMN 	Utilities 
+155.86500 	WQNA222 	RM	94.8 PL	ManitowocPrk 	Parks 	FMN 	Public Works 
+155.94000 	WPEQ671 	M	156 DPL	Manitowoc BI 	Building Inspectors 	FMN 	Public Works 
+157.47000 	KSC583 	RM	CC 4TG *SL *	Utilities 	Utilities 	DMR 	Utilities 
+158.22000 	KSC583 	RM	CC 4TG *SL *	Utilities 	Utilities 	DMR 	Utilities 
+453.85000 	WPSI584 	RM	612 DPL	ManitowocWW 	Wastewater Treatment Plant 	FMN 	Public Works 
+453.90000 	WNXI375 	RM	203.5 PL	ManitowocUtl 	Utilities 	FMN 	Utilities 
+458.10000 	 	M	210.7 PL	Utilities VR 	Utilities Vehicular Repeater 	FMN 	Public Works 
+458.37500 	WNXI375 	M		ManitowocUtl 	Utilities Unit to Unit 	FMN 	Utilities 
+158.80500 	WRI206 	RM	192.8 PL	Mishicot EMS 	EMS 	FMN 	EMS-Talk 
+158.80500 	WRI206 	RM	203.5 PL	Mishicot DPW 	DPW 	FMN 	Public Works 
+453.45000 	WNXJ433 	RM	243 DPL	Reedsville DPW 	Public Works/Fire/EMS 	FMN 	Public Works 
+155.17500 	KFZ964 	BM		Mishicot Bus 	Buses 	FMN 	Schools 
+151.02500 	WQPW263 	RM	371 DPL	Cato DPW 	Town of Cato / Town DPW 	FMN 	Public Works 
+154.09250 	WQLZ713 	RM	413 DPL	Newton DPW 	Town of Newton DPW 	FMN 	Public Works 
+154.98000 	WPCB734 	BM		Two CreekDPW 	Town of Two Creeks DPW 	FMN 	Public Works 
+154.98000 	WQQL514 	BM		Liberty DPW 	Town of Liberty DPW 	FMN 	Public Works 
+154.98000 	WQSD544 	BM	100.0 PL	Rockland DPW 	Town of Rockland DPW 	FMN 	Public Works 
+154.98000 	WQBK410 	BM	141.3 PL	ManitowocDPW 	Town of Manitowoc Rapids DPW 	FMN 	Public Works 
+155.89500 	WPUJ891 	RM	423 DPL	ClevelandDPW 	Village of Cleveland DPW 	FMN 	Public Works 
+155.10000 	KNHP910 	RM	114.8 PL	Two RiversPD 	Police Dispatch 	FMN 	Law Dispatch 
+155.10000 	KNHP910 	RM	362 NAC	Two RiversPD 	Police Dispatch 	P25 	Law Dispatch 
+154.38500 	KNHT823 	RM	431 DPL	Two RiversFD 	Fire/Rescue Dispatch 	FMN 	Fire Dispatch 
+453.50000 	KJP517 	RM	146.2 PL	Two RiversPW 	Public Works 	FMN 	Public Works 
+155.80500 	WPET531 	RM	631 DPL	Valders 	Public Works / Fire / EMS 	FMN 	Multi-Talk 
+Franks Radio Service	 Motorola Type I	 Manitowoc	Franks Radio Service (Manitowoc)	 LTR Standard	 Manitowoc	JSM Systems (Cato)	 LTR Standard
+ Cato	Manitowoc County	 Project 25 Phase I	 Manitowoc	Point Beach Nuclear Power Plant	 Motorola Type II Smartnet	 Two Creeks	Wisconsin Interoperable System for Communications (WISCOM)
+ Project 25 Phase I	 Statewide	

@@ -1,0 +1,56 @@
+155.62500 	WQJZ768 	RM	186.2 PL	FDSO 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.01000 	WQJZ768 	RM	71.9 PL	FDEVENT 	Sheriff Event 	FMN 	Law Dispatch 
+158.82000 	WQJZ768 	RM	186.2 PL	FDJAIL 	Jail 	FMN 	Corrections 
+155.67000 	WQJZ768 	RM	186.2 PL	FDFIR 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.07000 	WQCD948 	M	186.2 PL	FDFG1 	Fireground 1 	FMN 	Fire-Tac 
+154.01000 	WQCD948 	M	186.2 PL	FDFG2 	Fireground 2 	FMN 	Fire-Tac 
+154.35500 	WQJZ768 	BM	186.2 PL	FDPAG 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+155.34000 	WQEP990 	BM	85.4 PL	Ripon Hosp 	EMS to Ripon Medical Center 	FMN 	Hospital 
+155.34000 	KWX967 	BM	97.4 PL	St Agnes Hsp 	EMS to St. Agnes Hospital (BLS) 	FMN 	Hospital 
+155.40000 	KWX967 	BM	97.4 PL	St Agnes ALS 	EMS to St. Agnes Hospital (ALS) 	FMN 	Hospital 
+151.05500 	WQJZ768 	RM	127.3 PL	FDHWY1 	Highway 	FMN 	Public Works 
+156.13500 	KSH769 	M	127.3 PL	FDHWY2 	Highway - Portables 	FMN 	Public Works 
+154.12250 	WPTQ383 	BM	156 DPL	FDTRANS 	Senior Transportation 	FMN 	Transportation 
+155.94000 	WNHF306 	BM	186.2 PL	FDEM 	Emergency Management 	FMN 	Emergency Ops 
+155.94000 	WQTW346 	M		FDL CO Healt 	Health Department 	FMN 	Emergency Ops 
+120.40000 	 	BM	CSQ	FDL ATC EAA 	EAA Temporary Air Traffic Control 	AM 	Aircraft 
+121.85000 	 	BM	CSQ	FDL GND EAA 	EAA Temporary Ground Control 	AM 	Aircraft 
+123.05000 	WDI7 	BM	CSQ	FDL Unicom 	Common Traffic Advisory Frequency (CTAF)/Unicom 	AM 	Aircraft 
+154.08500 	KRD582 	BM	186.2 PL	Brandon DPW 	Public Works / Fireground 	FMN 	Multi-Tac 
+855.23750 	WPFF634 	RM	141.3 PL	CmpblsprtDPW 	DPW 	FM 	Public Works 
+155.73000 	KSD919 	B	201 NAC	FDL Police 1 	Police 1 (Patch of 20101) 	P25 	Law Dispatch 
+154.42250 	KSD919 	RM	B0C NAC	FDL Police 1 	Police 1 	P25 	Law Dispatch 
+154.85250 	KSD919 	RM	B0C NAC	FDL Police 1 	Police 1 	P25 	Law Dispatch 
+154.10750 	KSD919 	RM	B0C NAC	FDL Fire 1 	Fire 1 	P25 	Fire-Talk 
+463.00000 	KNIZ775 	BM	97.4 PL	St Agnes 481 	Fire Ambulance 481 to St Agnes Hospital 	FMN 	Hospital 
+463.02500 	KNIZ775 	BM	97.4 PL	St Agnes 482 	Fire Ambulance 482 to St Agnes Hospital 	FMN 	Hospital 
+463.05000 	KNIZ775 	BM	97.4 PL	St Agnes 483 	Fire Ambulance 483 to St Agnes Hospital 	FMN 	Hospital 
+155.05500 	KAU306 	RM	306 DPL	FDL DPW 	Public Works 	FMN 	Public Works 
+453.18750 	WPUG393 	RM	743 DPL	FDL Housing 	Housing Authority 	FMN 	Public Works 
+453.42500 	WNQM907 	RM	110.9 PL	FDL Schools 	Schools 	FMN 	Schools 
+152.37500 	WPOD587 	RM	734 DPL	FDL Schools 	Schools 	FMN 	Schools 
+151.91000 	WPOD587 	M		FDL Schools 	Schools 	FMN 	Schools 
+154.17500 	WPZT292 	BM	186.2 PL	Mt CalvaryFD 	Fire Local 	FMN 	Fire-Talk 
+154.04000 	WNJM774 	BM	186.2 PL	NFDL EM 	Emergency Management 	FMN 	Emergency Ops 
+155.83500 	WXJ717 	BM	186.2 PL	NFDL DPW 	Public Works 	FMN 	Public Works 
+155.94000 	WNJM774 	BM	186.2 PL	NFDL/Co EM 	Village/County Emergency Management 	FMN 	Emergency Ops 
+154.08500 	WPXI234 	BM	743 DPL	Oakfield DPW 	Police / Fire / Public Works 	FMN 	Multi-Tac 
+154.23500 	KSF536 	RM	371 DPL	Ripon FD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.81500 	KSF536 	RM	127.3 PL	Ripon PD 	Police Dispatch 	FMN 	Law Dispatch 
+154.81500 	KSF536 	RM	293 NAC	Ripon PD 	Police Dispatch 	P25 	Law Dispatch 
+155.77500 	KSF536 	B	136.5 PL	Ripon Paging 	City Paging 	FMN 	Fire Dispatch 
+453.40000 	KNJP415 	RM	CC 1TG 1SL 1	Ripon DPW 	Public Works 	DMR 	Public Works 
+453.85000 	KNJP415 	RM	114.8 PL	Ripon DPW 	Public Works 	FMN 	Public Works 
+154.98000 	WPEJ403 	RM	186.2 PL	Tn Ripon PD 	Police Dispatch 	FMN 	Law Dispatch 
+156.18000 	KNBL326 	BM	186.2 PL	Tn Ripon DPW 	Public Works 	FMN 	Public Works 
+155.83500 	WPHV987 	BM	047 DPL	Eldorado DPW 	Town of Eldorado DPW 	FMN 	Public Works 
+155.94000 	KNEN231 	BM	173.8 PL	Empire DPW 	Town of Empire DPW 	FMN 	Public Works 
+155.94000 	KNDN859 	BM	173.8 PL	MarshfieldPW 	Town of Marshfield DPW 	FMN 	Public Works 
+155.94000 	KNCB588 	BM	173.8 PL	TaycheedahPW 	Town of Taycheedah DPW 	FMN 	Public Works 
+155.94000 	KD27719 	M	186.2 PL	Alto DPW 	Town of Alto DPW 	FMN 	Public Works 
+461.52500 	WPGE500 	RM		Ops 	Marian University 	FMN 	Schools 
+461.78750 	WPGE500 	RM		Ops 	Marian University 	NXDN 	Schools 
+466.55000 	WPGE500 	M		Ops 	Marian University 	FMN 	Schools 
+464.97500 	WNYC848 	BM		Ops 	Ripon College 	FMN 	Schools 
+Alliant Energy	 DMR Tier 3	 Various	Bertram Communications	 DMR Tier 3	 Varies	Nielson Communications	 LTR Standard
+ Various	Wisconsin Dept of Corrections - Taycheedah Correctional Institution	 Motorola Type II Smartnet	 Taycheedah	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	

@@ -1,0 +1,179 @@
+851.66250 	WNSS341 	RM	131 DPL	LAW-A 	Sheriff  (Forest Falls, Afton Canyon, Iron Mtn) 	FMN 	Law Dispatch 
+852.18750 	WPJN804 	RM	131 DPL	LAW-B 	Sheriff (Wrightwood) 	FMN 	Law Dispatch 
+851.13750 	WNSS342 	RM	131 DPL	LAW-C 	Sheriff (Havasu Landing) 	FMN 	Law Dispatch 
+851.63750 	WPIB950 	RM	131 DPL	LAW-D 	Sheriff (Big River) 	FMN 	Law Dispatch 
+851.83750 	WQEE773 	RM	131 DPL	LAW-E 	Sheriff 	FMN 	Law Dispatch 
+851.63750 	WPXE869 	RM	156.7 PL	LAW-F 	Sheriff 	FMN 	Law Dispatch 
+859.81250 	WQJC259 	RM	131 DPL	LAW-G 	Sheriff 	FMN 	Law Dispatch 
+859.81250 	WQKH498 	RM	156.7 PL	LAW-H 	Sheriff 	FMN 	Law Dispatch 
+858.83750 	WPSQ414 	RM	131 DPL	LAW-I 	Sheriff 	FMN 	Law Dispatch 
+851.33750 	WQKY832 	RM		LAW-J 	Sheriff 	FMN 	Law Dispatch 
+853.93750 	WNSS341 	RM	131 DPL	FIR-A 	Fire (Forest Falls, Afton Canyon, Iron Mtn, linked to 3-CMD-6) 	FMN 	Fire Dispatch 
+852.86250 	WPJN804 	RM	131 DPL	FIR-B 	Fire (Wrightwood, linked to 3-CMD-6) 	FMN 	Fire Dispatch 
+853.13750 	WNSS342 	RM	131 DPL	FIR-C 	Fire (Havasu Landing, linked to 3-CMD-9) 	FMN 	Fire Dispatch 
+853.41250 	WPIB950 	RM	131 DPL	FIR-D 	Fire (Big River, linked to 3-CMD-9) 	FMN 	Fire Dispatch 
+852.70000 	WQEE773 	RM	131 DPL	FIR-E 	Fire (Forest Falls Primary Tac - Direct) 	FMN 	Fire Dispatch 
+853.41250 	WPXE869 	RM	156.7 PL	FIR-F 	Fire 	FMN 	Fire Dispatch 
+857.36250 	WQJC259 	RM	131 DPL	FIR-G 	Fire 	FMN 	Fire Dispatch 
+857.36250 	WQKH498 	RM	156.7 PL	FIR-H 	Fire 	FMN 	Fire Dispatch 
+859.91250 	WPSQ414 	RM	131 DPL	FIR-I 	Victoria Gardens link to 6-Fire-1 (Old) 	FMN 	Fire Dispatch 
+852.16250 	WQKY832 	RM		FIR-J 	Fire 	FMN 	Fire Dispatch 
+852.91250 	WNSS341 	RM	131 DPL	GOV-A 	Services (Forest Falls, Afton Canyon, Iron Mtn) 	FMN 	Public Works 
+852.61250 	WPJN804 	RM	131 DPL	GOV-B 	Services (Wrightwood) 	FMN 	Public Works 
+852.13750 	WNSS342 	RM	131 DPL	GOV-C 	Services (Havasu Landing, Govt Peak) 	FMN 	Public Works 
+852.41250 	WPIB950 	RM	131 DPL	GOV-D 	Services (Big River) 	FMN 	Public Works 
+851.40000 	WQEE773 	RM	131 DPL	GOV-E 	Services 	FMN 	Public Works 
+852.41250 	WPXE869 	RM	156.7 PL	GOV-F 	Services 	FMN 	Public Works 
+859.38750 	WQJC259 	RM	131 DPL	GOV-G 	Services 	FMN 	Public Works 
+859.38750 	WQKH498 	RM	156.7 PL	GOV-H 	Services 	FMN 	Public Works 
+855.37500 	WPSQ414 	RM	131 DPL	GOV-I 	Services 	FMN 	Public Works 
+853.16250 	WQKY832 	RM		GOV-J 	Services 	FMN 	Public Works 
+769.00625 	 	M	156.7 PL	LPTAC 1 	Low Power Law Tac 	FMN 	Law Tac 
+769.01875 	 	M	156.7 PL	LPTAC 2 	Low Power Tac 	FMN 	Interop 
+769.03125 	 	M	156.7 PL	LPTAC 3 	Low Power Fireground Tac 	FMN 	Fire-Tac 
+769.04375 	 	M	156.7 PL	LPTAC 4 	Low Power Law Tac 	FMN 	Law Tac 
+774.93125 	 	M	156.7 PL	LPTAC 5 	Low Power Tac 	FMN 	Interop 
+774.94375 	 	M	156.7 PL	LPTAC 6 	Low Power Fireground Tac 	FMN 	Fire-Tac 
+774.95625 	 	M	156.7 PL	LPTAC 7 	Low Power Law Tac 	FMN 	Law Tac 
+774.96875 	 	M	156.7 PL	LPTAC 8 	Low Power Tac 	FMN 	Interop 
+774.98125 	 	M	156.7 PL	LPTAC 9 	Low Power Fireground Tac 	FMN 	Fire-Tac 
+771.83125 	 	M		SBLAW-A 	Law Enforcement Tac 	P25 	Law Tac 
+772.33125 	 	M		SBLAW-B 	Law Enforcement Tac 	P25 	Law Tac 
+465.00000 	KMJ455 	B	CSQ	ARMC Paging 	Voice Paging 	FMN 	Public Works 
+453.20000 	KNFW535 	BM	156.7 PL	SBPrk Calico 	Calico Ghost Town Park Operations 	FM 	Public Works 
+453.20000 	WCB565 	BM	167.9 PL	SBPrk Guasti 	Cucamonga-Guasti Regional Park Operations 	FM 	Public Works 
+453.20000 	WCB567 	BM	179.9 PL	SBPrk GH 	Glen Helen Regional Park Operations 	FMN 	Public Works 
+151.14500 	WQHF750 	RM	156.7 PL	BDC V-1 	West Valley (patch to 2-CMD-1 ) 	FMN 	Fire Dispatch 
+159.12000 	WQGZ459 	RM	167.9 PL	BDC V2 	Mountain Region and Cajon Pass VHF Access (patch to 2-CMD-5) 	FMN 	Fire Dispatch 
+151.15250 	WQIJ233 	RM	167.9 PL	BDC V3 	North Desert (patch to 3-CMD-6) 	FMN 	Fire Dispatch 
+155.10000 	WQHF750 	RM	167.9 PL	BDC V4 	South Desert (patch to 3-CMD-9) 	FMN 	Fire Dispatch 
+155.11500 	WQRR499 	RM	167.9 PL	BDC V5 	Colorado River (patch to 3-CMD-9) 	FMN 	Fire Dispatch 
+154.38500 	KMB886 	RM	167.9 PL	BDC V6 	East Valley (patch to 2-CMD-3) 	FMN 	Fire Dispatch 
+154.19000 	WZZ246 	RM	167.9 PL	BDC V7 	Mountain (patch to 2-CMD-5) 	FMN 	Fire Dispatch 
+153.83000 	KA7008 	M	167.9 PL	BDC V-15 	Countywide Tactical 	FMN 	Fire-Tac 
+154.73250 	KA7008 	M	167.9 PL	BDC V-16 	Countywide Tactical 	FMN 	Fire-Tac 
+154.07000 	KA7008 	M	167.9 PL	BDC V-17 	Countywide Tactical 	FMN 	Fire-Tac 
+155.40750 	KA7008 	M	167.9 PL	BDC V-18 	Countywide Tactical 	FMN 	Fire-Tac 
+154.32500 	KA7008 	M	167.9 PL	BDC V-19 	Countywide Tactical 	FMN 	Fire-Tac 
+155.40000 	KTH477 	M	167.9 PL	BDC V-20 	Countywide Tactical 	FMN 	Fire-Tac 
+153.96500 	KJ4438 	M	167.9 PL	BDC A/G 	Air-Ground Tactical 	FMN 	Fire-Tac 
+155.11500 	KJ4438 	M	146.2 PL	BDC Crew 	Handcrew Tactical 	FMN 	Fire-Tac 
+154.36250 	WPBG407 	RM	243 DPL	AMR Rancho 	American Medical Response (AMR) - Rancho Cucamonga Dispatch 	FM 	EMS Dispatch 
+155.22000 	WPBG407 	BM	167.9 PL	AMR Ran Tac 	AMR Rancho and Redlands - BLS Transfers 	FM 	EMS Dispatch 
+155.28000 	KJI601 	BM	179.9 PL	Desert Amb 	Desert Ambulance - Barstow Area Dispatch 	FM 	EMS Dispatch 
+460.87500 	WNHT763 	RM	162.2 PL	MBA Yucca 	Morongo Basin Ambulance Dispatch - Yucca 	FMN 	EMS Dispatch 
+461.77500 	WNHT763 	RM	123.0 PL	MBA Onyx 	Morongo Basin Ambulance Dispatch - Onyx 	FMN 	EMS Dispatch 
+462.15000 	WNHT763 	RM	123.0 PL	MBA Morongo 	Morongo Basin Ambulance Dispatch - Morongo 	FMN 	EMS Dispatch 
+464.23750 	WNHT763 	RM	143 DPL	MBA 29 Palms 	Morongo Basin Ambulance Dispatch - Twentynine Palms 	FMN 	EMS Dispatch 
+461.22500 	 	M	136.5 PL	MBA Tac 1 	Morongo Basin Ambulance Tactical 1 	FMN 	EMS-Tac 
+453.12500 	 	M	123.0 PL	MBA Tac 2 	Morongo Basin Ambulance Tactical 2 	FMN 	EMS-Tac 
+462.56250 	 	M	110.9 PL	MBA Tac 3 	Morongo Basin Ambulance Tactical 3 	FMN 	EMS-Tac 
+155.16000 	KA5776 	M	CSQ	1 MRA D 	Mountain Rescue Association Direct 	FM 	Emergency Ops 
+155.16000 	KNBY490 	RM	151.4 PL	2 West End 	West End Repeater 	FM 	Emergency Ops 
+155.16000 	WPYV458 	RM	151.4 PL	3 Onyx 	Onyx Peak Repeater 	FM 	Emergency Ops 
+155.16000 	WPYV458 	RM	CSQ	4 Flash II 	Flash II Repeater 	FM 	Emergency Ops 
+155.77500 	KK7141 	M	151.4 PL	5 SB SAR D 	San Bernardino Search and Rescue Direct 	FM 	Emergency Ops 
+155.77500 	KRT892 	RM	151.4 PL	6 Heaps 	Heaps Repeater 	FM 	Emergency Ops 
+155.77500 	KYQ444 	RM	151.4 PL	7 Rodman 	Rodman Mountain Repeater 	FM 	Emergency Ops 
+155.77500 	KYQ445 	RM	151.4 PL	8 Quartz/Aer 	Quartzite Mountain and Chino Repeaters 	FM 	Emergency Ops 
+155.16000 	KNBY489 	RM	151.4 PL	9 Prt Rptr 1 	Portable Repeater 1 	FM 	Emergency Ops 
+155.77500 	KYQ381 	RM	151.4 PL	10 Prt Rptr 	Portable Repeater 2 	FM 	Emergency Ops 
+155.38500 	WPQD622 	M	151.4 PL	11 SAR Tac 1 	Tactical 1 	FM 	Emergency Ops 
+155.32500 	WPQD622 	M	151.4 PL	12 SAR Tac 2 	Tactical 2 	FM 	Emergency Ops 
+155.16000 	 	M	151.4 PL	15 MRA Tn 	Mountain Rescue Association CTCSS 	FM 	Emergency Ops 
+155.17500 	 	RM	91.5 PL	Rescue3 Rpt 	Repeater 	FM 	Emergency Ops 
+155.29500 	 	M	91.5 PL	Rescue3 Ch1 	Channel 1 	FM 	Emergency Ops 
+155.17500 	 	M	91.5 PL	Rescue3 Ch2 	Channel 2 	FM 	Emergency Ops 
+154.51500 	 	M	91.5 PL	Rescue3 Ch3 	Channel 3 	FM 	Emergency Ops 
+153.14000 	 	M	91.5 PL	Rescue3 Ch4 	Channel 4 	FM 	Emergency Ops 
+151.92500 	 	M	110.9 PL	Rescue3 Ch5 	Channel 5 	FM 	Emergency Ops 
+154.20500 	WNCP524 	BM	167.9 PL	APP Fire 	Fire Backup Dispatch 	FMN 	Fire-Talk 
+151.01000 	WQNB512 	RM	167.9 PL	BAR LG 	Local Government - Parks and Recreation and Roads Departments 	FM 	Public Works 
+155.36250 	WQAQ678 	RM	167.9 PL	BFA V1 	Big Bear Fire Department backup 	FMN 	Fire-Talk 
+451.36250 	WPKI411 	M		BBLDWP Water 	Department of Water and Power - Water Operations 	FMN 	Public Works 
+154.02500 	WQGY793 	BM	167.9 PL	OntarioFire Disp 	Fire Dispatch - Ontario, Chino Valley (Patched to 9-Fire Dispatch) 	FMN 	Fire Dispatch 
+452.80000 	WQAU761 	RM	85.4 PL	ONTConvHK 	Convention Center - Housekeeping 	FM 	Public Works 
+461.17500 	WQAU761 	RM	67.0 PL	ONTConvES 	Convention Center - Event Services  	FM 	Public Works 
+464.47500 	WQAU761 	RM	245 DPL	ONTConvSec 	Convention Center - Security 	FM 	Security 
+464.97500 	WQAU761 	RM	71.9 PL	ONTConvFac 	Convention Center - Facilities and Maintenance 	FM 	Public Works 
+155.83500 	WNAQ489 	BM		SBdo Water 	Municipal Water Department 	FM 	Public Works 
+158.92500 	WNXS968 	BM	179.9 PL	VV LG-1 	Local Government Channel 1 	FM 	Public Works 
+158.83500 	WNJP773 	RM	179.9 PL	VV LG-2 	Local Government Channel 2 	FM 	Public Works 
+159.61500 	KYY317 	RM	103.5 PL	Lake/Marina Ops 	Lake Patrol / Marina Operations 	FMN 	Public Works 
+462.15000 	WPSG427 	RM		SVLA Safety 	Public Safety Department and Maintenance 	DMR 	Security 
+461.50000 	WPSG427 	M	263 DPL	SVLA CodeEnf 	Code Enforcement  	FM 	Public Works 
+463.60000 	WPSG427 	RM	306 DPL	SVLA Maint 	Maintenance 	FM 	Public Works 
+464.65000 	WPSG427 	M	271 DPL	SVLA LG 	Lifeguards 	FM 	Public Works 
+155.05500 	WNVP743 	BM		BBCtyAirport 	Airport Operations 	FM 	Public Works 
+458.91250 	WQCG466 	B	118.8 PL	BBAirAWOS 	Automated Weather Observing System Link 	FMN 	Public Works 
+154.10000 	WNHR608 	RM		BBARWA 1 	Channel 1 	FM 	Public Works 
+155.88000 	WNHR608 	BM		BBARWA 2 	Channel 2 (Simplex) 	FM 	Public Works 
+155.83500 	KNBQ201 	RM		BBMWD 	Water Distribution 	FM 	Public Works 
+155.83500 	KNBQ201 	RM	431 DPL	BBLakePatrol 	Lake Patrol 	FMN 	Security 
+508.20000 	WII253 	BM	63 RAN	FSP SBdo 	Dispatch - Towing Services 	NXDN 	Public Works 
+151.07000 	WPQB457 	BM	100.0 PL	Mountain Trans 	Buses 	FMN 	Transportation 
+154.80750 	WPQB457 	BM	177.3 PL	Mountain Trans 	Buses 	FMN 	Transportation 
+452.62500 	WNLP811 	RM	167.9 PL	OmniTr West 	Bus Operations - West Valley - Montclair Division 	FM 	Transportation 
+452.65000 	WNLP811 	RM	167.9 PL	OmniAccess 	Access - Dial-a-Ride 	FM 	Transportation 
+452.72500 	WNLP811 	RM	167.9 PL	OmniTr East 	Bus Operations - East Valley - San Bernardino Division 	FM 	Transportation 
+453.35000 	WQFR619 	RM	071 DPL	VV Transit 	Buses 	FM 	Transportation 
+453.55000 	WNEB252 	RM	107.2 PL	VVTA Access 	Direct Access Senior Transit 	FM 	Transportation 
+155.22000 	WYU881 	BM	136.5 PL	ASD Transprt 	Transportation 	FM 	Schools 
+464.46250 	WQDG689 	RM	413 DPL	AppleVlyUSD 	School Police 	FM 	Law Dispatch 
+152.46500 	WQAW521 	RM		BVUSD Buses 	School Buses 	FM 	Schools 
+860.42500 	WPMC676 	RM	131 DPL	CSU SB PD 1 	Police Dispatch 	FM 	Law Dispatch 
+868.57500 	WPIS653 	RM	162 DPL	CSU SB PD 2 	Police Channel 2 	FM 	Law Tac 
+151.83500 	WPSI425 	BM		CSU SB Fac 	Facilities Services 	FM 	Schools 
+153.74000 	KLS653 	BM		CSU SB Park 	Parking Services 	FM 	Schools 
+464.85000 	WNVR477 	RM	110.9 PL	ChaffeySD 	Transportation 	FM 	Schools 
+152.99000 	KVQ832 	RM	71.9 PL	Colton HS 	Colton High School Security 	FM 	Schools 
+861.26250 	WYQ556 	RM	445 DPL	Colton USD Trans 	Transportation 	FM 	Schools 
+852.03750 	WQA467 	RM	156.7 PL	FUSD Police1 	Police - "Station 3" 	FM 	Law Dispatch 
+853.51250 	WQA467 	RM	072 DPL	FUSD Transpo 	Transportation - "Station 1" 	FM 	Schools 
+461.96250 	WQHC775 	RM	271 DPL	Fontana HS 	Fontana High School 	FM 	Schools 
+464.03750 	WQJF717 	RM	155 DPL	Almeria MS 	Almeria Middle School 	FM 	Schools 
+155.17500 	WNUZ475 	BM		HUSD Trans 	HUSD Transportation 	FM 	Schools 
+451.86250 	WQIK687 	RM		HUSD SHS 	Sultana High School 	FMN 	Schools 
+463.55000 	WQKH990 	RM		HUSD OHHS 	Oak Hills High School 	FMN 	Schools 
+463.36250 	WQED928 	RM	516 DPL	MtnView SD 	Campus Operations 	FM 	Schools 
+858.81250 	KNHY614 	RM	071 DPL	OntMontUSD 	Transportation 	FM 	Schools 
+854.63750 	WNCV531 	RM	94.8 PL	RUSD Bus 	Transportation 	FM 	Schools 
+37.94000 	WQFH624 	BM	151.4 PL	RWUSD Transp 	Transportation 	FM 	Schools 
+39.94000 	WQFH624 	BM	151.4 PL	RWUSD Bus 	Transportation 	FM 	Schools 
+460.15000 	WFR388 	RM	110.9 PL	SBCUSD PD 1 	Police Dispatch  	FM 	Law Dispatch 
+463.53750 	 	RM	466 DPL	SBCUSD PD2 	Police Tactical  	FM 	Law Tac 
+463.63750 	 	M	445 DPL	SBCUSD PD3 	Police Tactical  	FM 	Law Tac 
+461.77500 	 	RM	110.9 PL	SBCUSD SROs 	School Resource Officers 	FM 	Law Dispatch 
+464.72500 	 	RM	110.9 PL	SBCUSD Maint 	Maintenance Operations 	FM 	Schools 
+464.78750 	 	RM	131.8 PL	SBCUSD Buses 	First Student Bus Operations 	FM 	Schools 
+464.97500 	 	M	205 DPL	SBCUSD Eagle 	Eagle Base 	FM 	Schools 
+464.97500 	 	M	162.2 PL	SBCUSD Unk 1 	Unknown School 	FM 	Schools 
+151.74500 	 	M	71.9 PL	SBCUSD Unk 2 	Unknown School 	FM 	Schools 
+460.07500 	WFR388 	RM	110.9 PL	SBCUSD CAD 	RiMS CAD 	FM 	Data 
+154.65000 	WNQC671 	RM	123.0 PL	SBVC/CHC 1 	San Bernardino Valley College/Crafton Hills College - Police 	FM 	Law Dispatch 
+154.51500 	WNNH476 	BM	123.0 PL	SBVC/CHC Op  	San Bernardino Valley College/Crafton Hills College - Operations 	FM 	Schools 
+153.63500 	WPNQ394 	RM	123.0 PL	SJUSD Transp 	Transportation 	FM 	Schools 
+154.54000 	KNAK260 	BM		TJUSD Ops 	Trona Joint Unified School District Operations 	FMN 	Schools 
+461.66250 	 			UofR PS Disp 	Public Safety Primary Dispatch 	FM 	Security 
+461.98750 	 			UofR PS 2 	Public Safety Ch. 2 	FM 	Security 
+466.66250 	 	M		UofR PS 3 	Public Safety Ch. 3 	FM 	Security 
+466.98750 	 	M		UofR PS 4 	Public Safety Ch. 4 	FM 	Security 
+152.43500 	WQOW409 	BM	254.1 PL	Upland USD 	District 37 Race Coordinator 	FM 	Schools 
+152.93000 	WQGQ446 	RM	023 DPL	UplandUSD 	On campus usage 	FM 	Schools 
+154.54000 	WNKY276 	BM	100.0 PL	VESD Transp 	Transportation 	FM 	Schools 
+461.10000 	WQFE833 	RM	723 DPL	VVCol Police 	Campus Police 	FM 	Law Dispatch 
+157.62000 	WYY562 	BM		YCJUSD Sec 	Campuses Security 	FM 	Schools 
+159.15000 	WPFB909 	RM	115 DPL	YCJUSD Mntc 	District Maintenance 	FM 	Schools 
+157.56000 	WYY562 	BM		YCJUSD Mntc2 	District Maintenance 	FM 	Schools 
+Arizona Public Service Corporation (P25)	 Project 25 Phase II	 AZ Statewide	Arizona Wireless Integrated Network System (Az Wins)	 Project 25 Phase I	 AZ Statewide	California Department of Corrections and Rehabilitation	 Project 25 Phase II
+ Various	California Institution for Men	 Motorola Type I	 Chino	California Institution for Women	 Motorola Type I	 Chino	California Radio Interoperable System (CRIS)
+ Project 25 Phase I	 Multiple	CALTrans (District 07 08 12)	 Project 25 Phase I	 Santiago Peak	Central Arizona Project (CAP)	 DMR Motorola Connect Plus (TRBO)	 Multiple Locations
+Chino Valley Unified School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Chino	Communications Innovations (NXDN)	 NXDN Icom IDAS Type D	 Multiple	Federal Correctional Complex: Victorville	 Project 25 Phase I
+ Victorville	Fort Irwin	 Project 25 Phase I	 Fort Irwin	Fort Irwin National Training Center	 Project 25 Phase II	 Barstow	Hemet Unified School District
+ DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Holliday Rock Company	 LTR Standard	 Upland	Jerry Pettis Memorial VA Hospital (Loma Linda)	 LTR Standard	 Loma Linda
+Lockheed Martin	 Project 25 Phase II	 Palmdale & Helendale	Marine Corps Air Ground Combat Center Twentynine Palms	 Motorola Type II Smartnet	 Twentynine Palms	Metropolitan Water District of Southern California	 DMR Motorola Connect Plus (TRBO)
+ Various	Mobile Relay Associates SoCal NEXEDGE Digital Network	 NXDN NEXEDGE 4800	 Multiple	National Science and Technology Network (Sunset Peak)	 LTR Standard	 Sunset Peak	Radio Communication Service
+ LTR Standard	 Crestline	Rialto Unified School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Rialto	San Bernardino County (Emergency Portable Trunked)	 Project 25 Phase I	 Various
+San Bernardino County (P25)	 Project 25 Phase I	 Various	San Manuel Band Of Mission Indians	 Project 25 Phase I	 Highland	Searles Valley Minerals	 Motorola Type II
+ Trona	Southern California Edison	 Project 25 Phase II	 Various	Target DC 3807/3840	 NXDN NEXEDGE 4800	 Rialto	Touch Tel Mobile (217 Mhz Santiago Peak)
+ LTR Standard	 Los Angeles	United Parcel Service (UPS)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Ontario	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide

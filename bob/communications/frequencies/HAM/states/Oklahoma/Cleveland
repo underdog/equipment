@@ -1,0 +1,24 @@
+154.26500 	KKC981 	RM	123.0 PL	Cleveland Co SO 	Sheriff Dispatch (Secondary to OKWIN) 	FMN 	Law Dispatch 
+155.55000 	KKC981 	BM	136.5 PL	Cleveland Co SO 	Sheriff -- Old Channel 	FMN 	Law Tac 
+159.39000 	WQVN227 	RM		Cleveland Co FD 	County Fire Dispatch (Linked to OKWIN) 	FMN 	Fire Dispatch 
+460.43750 	KD47773 	BM	CSQ	ClevelandCo Jail 	County Jail (before OKWIN) 	FMN 	Corrections 
+154.99500 	KNGD551 	RM	162.2 PL	ClevelandCoRoads 	Highway Maintenance 	FMN 	Public Works 
+154.74000 	KGK681 	BM	244 DPL	Norman Siren 	Tornado Siren Activation 	FMN 	Other 
+460.62500 	WPHX239 	RM	023 DPL	Norman Housing 	Public Housing Authority 	FMN 	Public Works 
+155.55000 	WRE493 	BM	627 DPL	Lexington Police 	Police (dispatch before OKWIN) 	FMN 	Law Dispatch 
+154.24250 	WQVL459 	BM	243 DPL	Lexington  Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.74000 	 	BM	123.0 PL	Moore Public Wks 	Public Works -- Garbage Trucks, Street Crews 	FMN 	Public Works 
+153.99500 	 	B		Moore Sirens 	Storm Siren Acitivation 	FMN 	Emergency Ops 
+155.52000 	KNAS840 	BM	654 DPL	Noble Fire 	Fire Tone Out (Linked to OKWIN) 	FMN 	Fire Dispatch 
+154.15250 	WQWE278 	RM	723 DPL	SlaughtervilleFD 	Slaughterville Fire Dispatch (Linked to OKWIN) 	FMN 	Fire Dispatch 
+158.76750 	WQVN227 	RM	243 DPL	Cedar Country FD 	Cedar Country Fire Dispatch 	FMN 	Fire Dispatch 
+154.80000 	KNBI420 	RM	123.0 PL	OU Police VHF 	Campus Police Dispatch  	FMN 	Law Dispatch 
+156.16500 	WPIG951 	RM	123.0 PL	OU Police CP 	Police Command Post 	FMN 	Law Tac 
+165.43750 	 	RM	141.3 PL	NWS Security 	National Weather Center Security 	FMN 	Security 
+461.63750 	WPEC876 	M		OUEmergencyPhone 	Emergency Call Phones 	FMN 	Law Tac 
+155.74500 	KFF700 	BM	167.9 PL	OU Stadium 	OU Stadium Elevator Hand-Helds 	FMN 	Schools 
+155.02500 	KNGV867 	RM	179.9 PL	OU Maintence 	OU Maintenance 	FMN 	Schools 
+American Electric Power (AEP)	 EDACS Networked Standard	 Various	Chickasaw Personal Communications	 DMR Motorola Connect Plus (TRBO)	 Oklahoma	Moore	 NXDN NEXEDGE 9600
+ Moore	Norman	 Project 25 Phase II	 Norman	Oklahoma City	 EDACS Networked Standard	 Oklahoma City	Oklahoma Gas and Electric
+ EDACS Networked Standard	 Various	Oklahoma Wireless Interoperability Network (OKWIN) (Motorola)	 Motorola Type II SmartZone	 Various	RSI Inc -- Oklahoma City	 LTR Standard	 Oklahoma City Metro
+TalkRadio -- OKC Analog LTR	 LTR Standard	 Oklahoma City	University of Oklahoma	 DMR Motorola Capacity Plus Single Site (TRBO)	 Norman	

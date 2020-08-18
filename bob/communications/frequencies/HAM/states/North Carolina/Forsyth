@@ -1,0 +1,42 @@
+154.20500 	KDP371 	BM	CSQ	1 	County Fire Paging 	FM 	Fire Dispatch 
+154.23500 	KDP371 	BM	107.2 PL	2 	County Fire 	FM 	Fire-Talk 
+154.01000 	KDP371 	BM	107.2 PL	3 	County Fire 	FM 	Fire-Talk 
+154.43000 	KUJ558 	BM	107.2 PL	4 	County Fire 	FM 	Fire-Talk 
+154.28000 	KIP965 	BM	CSQ	STATEFIRE 	State Fire 	FM 	Fire-Talk 
+151.11500 	WRE302 	BM	CSQ	RHALLTAC 	Rural Hall Fire Tactical 	FM 	Fire-Tac 
+151.65500 	WNVV660 		CSQ	BEESONSFD 	Beesons Fire 	FM 	Fire-Talk 
+151.86500 	WNML899 	BM	CSQ	GRIFTHFD 1 	Griffith Fire Tactical 	FM 	Fire-Talk 
+154.16000 	KNDB774 	BM	88.5 PL	GRIFTHFD 2 	Griffith Fire 	FM 	Fire-Talk 
+155.20500 	WPCC728 	BM	82.5 PL	VIENNAFD 	Vienna Fire 	FM 	Fire-Talk 
+155.28000 	KYO296 	BM	82.5 PL	STATE EMS 	State Rescue 	FM 	EMS-Tac 
+155.34000 	KYO296 	BM	82.5 PL	EMS2HOSP 	Hospitals 	FM 	Hospital 
+463.02500 	WRG737 	BM	103.5 PL	MED 2 103.5 	Hospital Med 2 	FM 	Hospital 
+463.15000 	WRG737 	BM	192.8 PL	MED 7 192.8 	Hospital Med 7 	FM 	Hospital 
+155.16000 	WPCC728 	BM		WS SCHOOL 	Winston-Salem Forsyth Schools 	FM 	Schools 
+453.20000 	WPIA327 	RM		1 	Jail 	FM 	Corrections 
+453.45000 	KBP733 	RM		ANIMAL CTL 	Animal Control 	FM 	Law Talk 
+770.96250 	 	RM	734 NAC	DVRS Forsyth 	Digital Vehicular Repeater System 	P25 	Interop 
+154.51500 	WPGE627 	BM	CSQ	Clem Fire 	Fire 	FM 	Fire Dispatch 
+453.37500 	WPBC977 	RM	107.2 PL	Clem Police 	Police 	FM 	Law Dispatch 
+151.02500 	WPFG437 	RM		KERN FD 	Fire (Linked to Kernersville TRS) 	FM 	Fire Dispatch 
+453.32500 	WPHN969 	RM		KERN PD 1 	Police (Linked to Kernersville TRS) 	FM 	Law Dispatch 
+453.95000 	WPHN969 	RM		KERN PD 2 	Police (Linked to Kernersville TRS) 	FM 	Law Dispatch 
+460.17500 	KST221 	RM		KERN PD 3 	Police (Linked to Kernersville TRS) 	FM 	Law Dispatch 
+155.79000 	WPFW508 	RM		Kern Srvcs 	Services 	FM 	Public Works 
+155.95500 	KDY274 	RM		Kern PubWrks 	Public Works 	FM 	Public Works 
+154.84500 	WPLU815 	M	CSQ	LVILLE FD 	Fire Tactical 	FM 	Fire-Tac 
+453.52500 	WPMR211 	BM		LVILLE SVC 	Services 	FM 	Public Works 
+121.30000 	INT 	BM		ATIS 	Smith Reynolds Airport Atis 	AM 	Aircraft 
+122.95000 	INT 	BM		UNICOM 	Smith Reynolds Airport Unicom 	AM 	Aircraft 
+123.75000 	INT 	BM		TOWER/CTAF 	Smith Reynolds Airport Tower/CTAF 	AM 	Aircraft 
+124.35000 	INT 	BM		APP/DEP 	Smith Reynolds Airport Approach and Departure 	AM 	Aircraft 
+128.25000 	INT 	BM		GROUND 	Smith Reynolds Airport Ground 	AM 	Aircraft 
+257.80000 	INT 	BM		TOWER UHF 	Smith Reynolds Airport Tower Uhf 	AM 	Aircraft 
+461.96250 	 	BM	506 DPL	LMGRNDSERV 	Landmark Aviation Ground Services 	FMN 	Business 
+Calvary Baptist Church Main Campus	 DMR Motorola Capacity Plus Single Site (TRBO)	 Winston-Salem	Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Duke Energy	 OpenSky 4800 baud
+ Various	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Kernersville (Motorola)
+ Motorola Type II SmartZone	 Kernersville	Kernersville (P25)	 Project 25 Phase I	 Kernersville	North Carolina VIPER	 Project 25 Phase I	 Varies
+Novant Health Clemmons	 DMR Motorola Capacity Plus Single Site (TRBO)	 Clemmons	RCS Communications (Winston-Salem)	 LTR Standard	 Winston-Salem	RCS Communications Schools (Winston-Salem)	 LTR Standard
+ Winston-Salem	RJ Reynolds Tobacco Company	 DMR Motorola Connect Plus (TRBO)	 Winston-Salem	Surry-Yadkin EMC	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Wake Forest Baptist Medical (NEXEDGE)
+ NXDN NEXEDGE 9600	 Varies	Wake Forest University	 LTR Standard	 Winston Salem	Wake Forest University Baptist Medical Center	 LTR Standard	 Winston-Salem
+Winston-Salem / Forsyth County	 Motorola Type II SmartZone	 Winston-Salem	Winston-Salem State University	 DMR Motorola Capacity Plus Single Site (TRBO)	 Winston-Salem	

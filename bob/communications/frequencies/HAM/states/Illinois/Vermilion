@@ -1,0 +1,82 @@
+154.75500 	KSA943 	RM	CC 4TG 1065SL 2	Verm Sheriff C 	Sheriff: Dispatch 	DMR 	Law Dispatch 
+154.75500 	KSA943 	RM	CC 4TG 1403430SL 1	Verm Sheriff A 	Sheriff: Ops 	DMRE 	Law Tac 
+154.75500 	KSA943 	RM	CC 4TG 1340404SL 2	Verm Sheriff B 	Sheriff: Ops 	DMRE 	Law Tac 
+154.75500 	KSA943 	RM	CC 4TG 401SL *	Verm Sheriff1065 	Sheriff: Dispatch 	DMRE 	Law Dispatch 
+155.43000 	KSA943 	RM	155 DPL	Verm Sheriff 	Sheriff: Dispatch / Rural Dispatch [Ch 1] (Simulcast on 151.0175) 	FMN 	Law Dispatch 
+151.01750 	WPSY574 	RM	CC 4TG 2832SL 2	Verm Sheriff DMR 	Sheriff: Dispatch (Simulcast on 155.43) 	DMRE 	Law Dispatch 
+453.67500 	WQBY995 	F	032 DPL	Verm Shrf RF 1 	Sheriff: Remote Link - Sidell 	FMN 	Law Dispatch 
+453.95000 	WQBY995 	F	032 DPL	Verm Shrf RF 2 	Sheriff: Remote Link - Danville 	FMN 	Law Dispatch 
+453.97500 	WQBY995 	F	032 DPL	Verm Shrf RF 3 	Sheriff: Remote Link - Hoopeston 	FMN 	Law Dispatch 
+458.06250 	WQBY995 	F	032 DPL	Verm Shrf RF 4 	Sheriff: Remote Link - unknown location (Tone Carrier) 	FMN 	Law Dispatch 
+458.67500 	WQBY995 	F	032 DPL	Verm Shrf RF 5 	Sheriff: Remote Link - Hoopeston* 	FMN 	Law Dispatch 
+458.95000 	WQBY995 	F	032 DPL	Verm Shrf RF 6 	Sheriff: Remote Link - Danville 	FMN 	Law Dispatch 
+458.97500 	WQBY995 	F	032 DPL	Verm Shrf RF 7 	Sheriff: Remote Link - Danville 	FMN 	Law Dispatch 
+154.83000 	KSA943 	M	127.3 PL	Verm Sherf 2 	Sheriff: Operations [Ch 2] 	FMN 	Law Tac 
+460.47500 	WQBP545 	RM	411 DPL	Verm ShrfJail3 	Sheriff: Tac-3 / Jail Ops  [Ch 3] 	FMN 	Corrections 
+158.83500 	KTN202 	RM	127.3 PL	Verm Animal 	Animal Control / ESDA Back-up / Snow Plows 	FMN 	Multi-Dispatch 
+154.44500 	WNMB647 	BM	107.2 PL	Hoopeston EMS 	Hoopeston EMS: Dispatch 	FMN 	EMS Dispatch 
+158.74500 	WPQE784 	RM	315 DPL	Verm EMA 1 	EMA: Operations [Ch 1] 	FMN 	Emergency Ops 
+158.83500 	WPQE785 	RM	127.3 PL	Verm EMA B/U 	EMA: Animal Control / ESDA Back-up (153.98 input?) 	FMN 	Emergency Ops 
+151.41500 	WQNA568 	RM	311 DPL	Verm SAR 	EMA: Search and Rescue 	FMN 	Emergency Ops 
+460.20000 	KNAK761 	BM		Verm EMA 2 	EMA: Operations 	FMN 	Emergency Ops 
+45.56000 	WNAL564 	B	210.7 PL	IEMA 45.56 	IEMA: Local Operations 	FM 	Emergency Ops 
+453.02500 	WPVU928 	F	445 DPL	Verm EMA WS1 	EMA: Warning Sirens - Hoopeston 	FMN 	Emergency Ops 
+453.07500 	WPVU928 	F	445 DPL	Verm EMA WS2 	EMA: Warning Sirens - Collison 	FMN 	Emergency Ops 
+453.12500 	WPVU928 	F	445 DPL	Verm EMA WS3 	EMA: Warning Sirens - Sidell 	FMN 	Emergency Ops 
+453.17500 	WPVU928 	F	445 DPL	Verm EMA WS4 	EMA: Warning Sirens - Georgetown 	FMN 	Emergency Ops 
+458.02500 	WPVU928 	F	445 DPL	Verm EMA WS5 	EMA: Warning Sirens - Hoopeston 	FMN 	Emergency Ops 
+156.18000 	KVW805 	RM	CC 13TG *SL *	Verm Highway 	Highway Department (voice decode-able) 	DMR 	Public Works 
+156.00000 	WPTH211 	B	173.8 PL	Arrow Amb Paging 	Paging 	FMN 	EMS Dispatch 
+155.34000 	KNCU930 	BM	162.2 PL	MERCI1 162.2 	Patient Reports 	FMN 	Hospital 
+463.67500 	WNPK439 	RM	CC 7TG 1000SL 1	USMC Ops 1 	Operations 	DMR 	Business 
+155.34000 	KVU372 	BM		MERCI-1 	Patient Reports 	FMN 	Hospital 
+460.63750 	WPWW442 	RM	465 DPL	Pro Ambulance 	Dispatch: Pro Ambulance (Vemilion County) 	FMN 	EMS Dispatch 
+151.18250 	WQPV928 	RM		DanvTwp Roads  	Danville Township: Roads / Snow Plows (in use) 	DMR 	Public Works 
+153.86000 	WPVJ632 	BM	CSQ	ElwoodTwp Roads 	Elwood Township Road Maintenance 	FMN 	Public Works 
+151.05500 	 			GrantTwp Roads 	Grant Township Highway Department 	FMN 	Public Works 
+150.99500 	KNDM596 	BM	CSQ	GrgtwnTwp Roads 	Georgetown Township Road Maintenance [Canceled 1/07] 	FMN 	Public Works 
+155.15250 	WQEI792 	RM	445 DPL	II Fire Dispatch 	Fire: Countywide Paging 	FMN 	Fire Dispatch 
+151.22000 	WQEI792 	RM	CC 12TG 33700SL 1	II Fire Ops 1 	Fire: Countywide Ops 1 	DMR 	Fire-Tac 
+151.22000 	WQEI792 	RM	CC 12TG 154445SL 2	II Fire Ops 2 	Fire: Countywide Ops 2 	DMR 	Fire-Tac 
+453.92500 	WQEI792 	F	155 DPL	II Fire RF-Link 	Fire: Link to Remote Receivers (Danville) 	FMN 	Fire-Tac 
+453.36250 	WQEI792 	F	155 DPL	II Fire RF-Grgtw 	Fire: Remote Link (Georgetown) 	FMN 	Fire-Tac 
+453.43750 	WQEI792 	F	155 DPL	II Fire RF-Rossv 	Fire: Remote Link (Rossville) 	FMN 	Fire-Tac 
+458.92500 	WQEI792 	F	155 DPL	II Fire RF-Danvi 	Fire: Remote Link (Danville-Tone on voice) 	FMN 	Fire-Tac 
+458.36250 	 	F	155 DPL	II Fire RF Danv 	Fire: Remote Link (Tone Carrier, Danville) [No license] 	FMN 	Fire-Tac 
+453.01250 	WQCI391 	F	CSQ	Catlin WDD 	Wastewater Data  	Telm 	Data 
+151.05500 	WQYK637 	RM	CC 7TG 2340404SL 2	Danville Police 	Police: Dispatch  	DMRE 	Law Dispatch 
+151.05500 	WQYK637 	RM	CC 7TG 101SL 1	Danv Police 101 	Police: Dispatch (2020) 	DMRE 	Law Dispatch 
+159.21750 	KBW969 	RM	023 NAC|TG *	Danville Fire  	Fire: Dispatch [Ch 1] 	P25 	Fire Dispatch 
+154.86000 	KBW969 	F	023 DPL	Danv Fire Input  	Fire: Dispatch-to-Repeater 	FMN 	Fire Dispatch 
+154.15250 	WQYK637   	RM	145 DPL	EMS Danville 	EMS: Dispatch (PRO and Arrow) 	FMN 	EMS Dispatch 
+155.83500 	WPCQ803 	BM	243 DPL	Danv PubWrks 	Public Works/Snow Plows [Expired 7/13*] 	FMN 	Public Works 
+453.47500 	WPWI956 	RM	526 DPL	Danv Housing 	Housing Authority of Danville 	FMN 	Public Works 
+151.16750 	WQMN937 	RM	CC 1TG *SL 1	Danv MTS A  	Danville Mass Transit System (TLC/Voice/Data) 	DMR 	Transportation 
+151.16750 	WQMN937 	RM	CC 2TG *SL 2	Danv MTS B  	Danville Mass Transit System (Data) 	DMR 	Transportation 
+151.01750 	WPSY574 	RM	CC 4TG 283SL 1	Hoopeston Police 	Police: Dispatch 	DMR 	Law Dispatch 
+159.15000 	WQAZ688 	BM	155 DPL	Hoop Police Aux  	Police: Auxillary / EMA: Secondary 	FMN 	Law Tac 
+158.85750 	WQAZ688 	RM	67.0 PL	HoopestonEMA 	EMA: Severe Weather Ops 	FMN 	Emergency Ops 
+154.08500 	WQHK266 	RM	365 DPL	Hoopstn Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
+154.44500 	WPUP309 	BM	107.2 PL	HoopestonEMS 	EMS: Paging (Still used) 	FMN 	EMS Dispatch 
+155.86500 	WPSY603 	BM	123.0 PL	Hoop PW/ESDA 	Public Works / ESDA (Ch 1) 	FMN 	Public Works 
+155.20500 	WPAD552 	BM		Okwd Rescue 	Rescue 	FMN 	EMS Dispatch 
+159.10500 	KNGW207 	M		Potomac FG 	Fireground ? 	FMN 	Fire-Tac 
+154.25000 	KKE319 	BM		Rankin Fire 	Fire: Ops (Rankin, East Lynn)  	FMN 	Fire-Tac 
+155.82000 	WQQE674 	RM	445 DPL	Rossvill FireEMS 	Fire/EMS: Dispatch 	FMN 	Fire Dispatch 
+154.98000 	WNCZ334 	BM		Rossville Villag 	Village Ops 	FMN 	Public Works 
+453.05000 	WQCL309 	BM		Sidell Local 	Local Government 	FMN 	Public Works 
+453.13750 	WPLX263 	M		Sidell WDD 	Water Distribution Data (CSQ) [Expired, in use?] 	Telm 	Data 
+155.07000 	WPIS580 	RM		Tilton Police 	Police 	DMR 	Law Dispatch 
+158.80500 	WPIS580 	RM		Tilton PubWorks 	Public Works 	DMR 	Public Works 
+152.41250 	WQEL404 	RM	116 DPL	Danville SchBus1 	Buses (should be DMR now, 2017) 	FMN 	Schools 
+152.33000 	WQPI676 	RM	CC 9TG 1SL 1	Danv School Admn 	Admin 	DMR 	Schools 
+154.54000 	WNMZ405 	BM		GSUSD3 Ops 	Operations 	FMN 	Schools 
+464.05000 	 WQW610 	RM	071 DPL	Hoop School 	Hoopeston Area CUSD 11: Operations 	FMN 	Schools 
+151.86500 	WNFH351 	BM		Oakwd School 	Operations / Buses 	FMN 	Schools 
+153.44750 	WQJK597 	RM	205 DPL	OakwdSchBus 	Buses 	FMN 	Schools 
+463.45000 	KNDT520 	BM		DACC Ops 2 	Security 	FMN 	Security 
+463.50000 	KNDT520 	RM	165 DPL	DACC Ops 1 	Operations 	FMN 	Schools 
+163.36250 	 	RM	293 NAC	IVAMC Police 	Police: Dispatch 	P25e 	Law Dispatch 
+166.71250 	 	RM	151.4 PL	IVAMC Maint 	Hospital Maintenance 	FMN 	Federal 
+167.86250 	 	BM		IVAMC Paging 	Paging (CSQ) 	Telm 	Data 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	

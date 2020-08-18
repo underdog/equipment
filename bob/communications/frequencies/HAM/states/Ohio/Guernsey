@@ -1,0 +1,24 @@
+154.75500 	KQA501 	RM	293 NAC	Camb PD P25 	Cambridge Police (P25 encrypted) - backup to MARCS 	P25E 	Law Tac 
+155.72250 	WPWT934 	RM	351 DPL	GCSO Disp 	Sheriff Dispatch (old - now MARCS backup) 	FMN 	Law Tac 
+158.79750 	WPNW797 	RM		GCSO 2 	Sheriff (old - now MARCS backup) 	FMN 	Law Tac 
+159.03000 	KXX501 	M	136.5 PL	GCSO Tac 1 	Sheriff Tac 1 	FMN 	Law Tac 
+154.83000 	KXX501 	M	506 DPL	GCSO Tac 2 	Sheriff Tac 2 	FMN 	Law Tac 
+158.79750 	WPNW797 	RM		GCSO MDT 	Sheriff MDTs 	FMN 	Data 
+33.90000 	WNYM685 	BM	CSQ	GC Fdisp Low 	Fire Dispatch 	FM 	Fire Dispatch 
+155.58750 	WQBM332 	BM	331 DPL	GC Fdisp VHF 	Fire Dispatch (linked to 33.90) 	FMN 	Fire Dispatch 
+151.31000 	WQBM332 	RM	152 DPL	GC FTAC 	Fire Tactical 	FMN 	Fire-Tac 
+154.43750 	WQBM332 	BM	152 DPL	GC FTAC NW 	Ops - NW 	FMN 	Fire-Tac 
+155.40750 	WQBM332 	BM	162 DPL	GC FTAC NE 	Ops - NE 	FMN 	Fire-Tac 
+155.30250 	WQBM332 	BM	172 DPL	GC FTAC SW 	Ops - SW 	FMN 	Fire-Tac 
+154.32500 	WQBM332 	BM	271 DPL	GC FTAC SE 	Ops - SE 	FMN 	Fire-Tac 
+460.61250 	 	F	203.5 PL	GC Fire Link 	UHF Link to 33.900 	FM 	Fire Dispatch 
+155.38500 	WPSZ635 	BM	186.2 PL	Guernsey EMA 	EMA 	FMN 	Fire-Tac 
+153.95000 	WPSG363 	RM	82.5 PL	Cambridge FD 	Cambridge Fire (backup for MARCS) 	FMN 	Fire-Tac 
+153.87500 	KNAY911 	BM	103.5 PL	CasselStnFD 	Cassel Station VFD 	FMN 	Fire-Talk 
+154.11500 	KNJU589 	RM	173.8 PL	United Amb 	United Ambulance Service 	FMN 	EMS Dispatch 
+151.02500 	KXZ695 	RM	179.9 PL	GC Engineer 	County Engineer 	FMN 	Public Works 
+463.76250 	WPAM642 	RM	CC 1TG 16777215SL *	SEAT-GUERN 	South East Area Transit (Guernsey) 	DMR 	Transportation 
+451.73750 	WPPA625 	RM		Columbia Gas 	Columbia Gas of Ohio 	P25 	Utilities 
+452.97500 	 	RM		AEP Alt 	American Electric Power backup 	FMN 	Utilities 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
+ Statewide	Southeast Ohio Regional Medical Center	 LTR Standard	 Cambridge	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH	

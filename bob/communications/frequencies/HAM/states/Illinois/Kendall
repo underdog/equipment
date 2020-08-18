@@ -1,0 +1,42 @@
+155.54250 	WQNN991 	RM	167.9 PL	KENCOM FireV 	KENCOM: Fire Dispatch [Ch 1] (D223 in) 	FMN 	Fire Dispatch 
+154.15250 	WQNN991 	RM	162.2 PL	KENCOM Fire2 	KENCOM: Fire Alternate [Ch 2] (D205 in) 	FMN 	Fire-Tac 
+453.47500 	WQNC297 	RM	156.7 PL	KenCom Shrf/OswP 	Sheriff / Oswego Police: Dispatch [Ch 1/3] (D411 in) 	FMN 	Law Dispatch 
+453.57500 	WQNC297 	RM	156.7 PL	KenCom Police 3  	Police: Dispatch - Plano, Montgomery, Yorkville [Ch 3/4] (D423 in) 	FMN 	Law Dispatch 
+453.22500 	WQNC297 	RM	731 NAC	KenCom Police 5 	Sheriff/Police: Ch 5 [Ch 6 simplex] 	P25 	Law Tac 
+453.32500 	WQNC297 	RM	74.4 PL	KenCom Police 7  	Sheriff/Police: Ch 7 [Ch 8 simplex] (D244 in) 	FMN 	Law Tac 
+453.38750 	WPWW499 	M		KenCom Law RF1 	Law: Remote Link 	FMN 	Law Tac 
+453.48750 	WPWW499 	M		KenCom Law RF2 	Law: Remote Link - Yorkville, Oswego 	FMN 	Law Tac 
+453.56250 	WPWW499 	M		KenCom Law RF2 	Law: Remote Link 	FMN 	Law Tac 
+453.58750 	WPWW499 	M		KenCom Law RF3 	Law: Remote Link 	FMN 	Law Tac 
+453.36250 	WQLD369 	RM	127.3 PL	Kendall Courts 	Sheriff: Court/Jail Ops (Low power) 	FMN 	Corrections 
+453.15000 	WPBI878 	RM	127.3 PL	Kendall ShrfJail 	Sheriff: Jail Ops  	FMN 	Corrections 
+460.37500 	WNYS788 	RM	127.3 PL	KENCOM LE F2 	EMA (KENCOM Police Alternate) 	FMN 	Emergency Ops 
+39.82000 	WQU458 	BM	127.3 PL	Ken ESDA Old 	ESDA: Old 	FM 	Emergency Ops 
+453.10000 	WPAK294 	RM	127.3 PL	Kendall Highway1 	Highway / Snow Plows [Ch 1/2] 	FMN 	Public Works 
+458.70000 	WPAK257 	M	127.3 PL	Kendall Highway3 	Highway: Car-to-Car [Ch 3] 	FMN 	Public Works 
+458.20000 	WPAK257 	M	127.3 PL	Kendall Highway4 	Highway: Operations [Ch 4] 	FMN 	Public Works 
+458.30000 	WPAK257 	M	127.3 PL	Kendall Highway5 	Highway: Operations [Ch 5] 	FMN 	Public Works 
+154.89750 	WQSV437  	BM	143 DPL	LBRock Highway 	Little Big Rock Highway Commission 	FMN 	Public Works 
+159.40500 	WQLU761 	BM	165 DPL	Kend AreaTransit 	Kendall Area Transit 	FMN 	Transportation 
+151.19000 	WNVE268 	RM	506 DPL	Osw PD Local 	Police: Local 	FMN 	Law Tac 
+155.58000 	WNVE268 	RM	114 DPL	Osw PubWrks  	Public Works 	FMN 	Public Works 
+151.41500 	KD26862 	M	244 DPL	Oswego Parks 	Oswegoland Park District [Expired 7/03] 	FMN 	Public Works 
+154.11500 	KYX872 	F		FoxMWRD WDD 	Fox Metro Water Reclmation District - Data (CSQ) 	Telm 	Data 
+39.50000 	KSA358 	BM	127.3 PL	PlanoPD Low 	Police: Lowband 	FM 	Law Tac 
+159.25500 	WQPN877 	BM		PlanoPubWrks 	Public Works / City Ops 	FMN 	Public Works 
+39.40000 	 	BM	127.3 PL	Yrkvl PD Low 	Police: Lowband 	FM 	Law Tac 
+155.17500 	WPJS421 	BM		FS Yorkville 	Laidlaw Transit School Bus (Yorkville) 	FMN 	Schools 
+453.31250 	WQHG919 	RM		ICS BusPlano 	Illinois-Central School Bus (Plano) 	FMN 	Schools 
+464.27500 	WQBI303 	RM	612 DPL	OEHS S/M/Ops 	East High School: Security/Maintenance/Engineering/Staff 	FMN 	Schools 
+458.51250 	 	M	506 DPL	OHS Janitors 	High School: Janitorial 	FMN 	Schools 
+469.36250 	 	M	172 DPL	OHS Tchr/Dns 	High School: Teachers / Deans 	FMN 	Schools 
+462.56250 	FRS1 	M	203.5 PL	Oswgo Football 	Panthers Football 	FMN 	Schools 
+464.58750 	WQBI303 	RM	031 DPL	OswSchool 1 	Thompson Junior High 	FMN 	Schools 
+463.20000 	WQNV444 	RM	CC 3TG 30810SL 2	Plano SchTr1 	Transportation / Buses (patched w/ Yorocom LTR 00-1026) 	DMR 	Schools 
+463.20000 	WQNV444 	RM	CC 3TG 1492SL 1	Plano SchOps 	Operations  	DMR 	Schools 
+463.20000 	WQNV444 	RM	CC 3TG 1493SL 1	Plano SchTr2 	Transportation (unidentified) 	DMR 	Schools 
+463.22500 	WPFC911 	RM		SndwchSchool 	Operations (Plano) 	FMN 	Schools 
+854.01250 	WNQL839 	BM	151.4 PL	CUSD 115 Bus 	CUSD 115 School Buses 	FMN 	Schools 
+122.70000 	 	BM	CSQ	0C8 CTAF 	CTAF/UNICOM [NL] 	AM 	Aircraft 
+ A-Beep / Tri-Star Communications - UHF (NW IL)	 LTR Standard	 Loves Park	A-Beep Chicago-area LTR	 LTR Standard	 Chicago	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I
+ Northern IL	Ventronics (Metro Chicago)	 LTR Standard	 Metro Chicago	Yorcom C and R Communications (Oswego)	 LTR Standard	 Oswego/Bristol	

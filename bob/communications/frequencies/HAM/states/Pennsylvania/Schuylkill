@@ -1,0 +1,78 @@
+154.07000 	WPEE367 	B	123.0 PL	Sch FD Alert 	County Fire/EMS Dispatch 	FMN 	Multi-Dispatch 
+46.50000 	WPEE367 	B	123.0 PL	Sch FD Disp 	County Fire Dispatch/Response 	FM 	Fire Dispatch 
+155.80500 	KDR480 	M	365 DPL	SchCo FP 1 	Fire Police 1 - Response 	FMN 	Fire-Talk 
+156.15000 	 	M	365 DPL	SchCo FP 2 	Fire Police 2 - Operations 	FMN 	Fire-Talk 
+46.24000 	WZT902 	M	123.0 PL	Sch FD West 	County West Fireground 	FM 	Fire-Tac 
+46.28000 	WZT902 	M	123.0 PL	Sch FD North 	County North Fireground 	FM 	Fire-Tac 
+46.32000 	WZT902 	M	123.0 PL	Sch FD East 	County East Fireground 	FM 	Fire-Tac 
+46.48000 	KNHB611 	BM		Sch FD South 	Southern Schuylkill Mutual Aid Association 	FM 	Fire-Tac 
+151.32500 	WPMN411 	RM	365 DPL	Sch EMS 1 	County EMS - Response "Med-1" 	FM 	EMS-Tac 
+155.17500 	KZJ972 	BM	127.3 PL	Sch EMS 2 	County EMS - Secondary 	FM 	EMS-Tac 
+155.34000 	KZJ972 	BM	127.3 PL	Sch EMS 3 	County EMS - Ambulance to Hospital "Regional Med"  	FM 	EMS-Talk 
+152.18000 	 	B		Sch Alpha 	County Fire/EMS Alpha Paging 	Telm 	Data 
+46.40000 	KR5719 	M		Coaldale FD 	Coaldale Boro FD 	FM 	Fire-Talk 
+151.62500 	 	M		Coaldale FP 	Coaldale Boro FP 	FM 	Fire-Talk 
+462.62500 	 	M	CSQ	Hegins FP 	Hegins Township Fire Police 	FM 	Fire-Talk 
+46.56000 	KYY883 	BM		H/VV Twp FG2 	Hegins Township / Valley View Township -  Fire Ground Operations Channel 2 	FM 	Fire-Tac 
+155.78250 	WPVC855 	BM		Mcadoo Fire  	Mcadoo Fire Dept 	FM 	Fire-Tac 
+46.08000 	KGE757 	BM	123.0 PL	Pottsvl FD 1 	Pottsville FD 1 	FM 	Fire Dispatch 
+46.36000 	KGE757 	BM	123.0 PL	Pottsvl FD 2 	Pottsville FD 2 	FM 	Fire-Tac 
+151.13750 	 	BM		Shen FD/PD 	Shenandoah Fire/Police 	FM 	Fire-Tac 
+46.58000 	WXP474 	BM	123.0 PL	Tamaqua FD 	Tamaqua Borough Fire Department FG 	FM 	Fire-Tac 
+151.95500 	 	M	023 DPL	Tamaqua EMS 	Tamaqua EMS Private 	FM 	EMS-Talk 
+46.04000 	KNAU421 	BM	123.0 PL	Tamaqua Resc 	Tamaqua Rescue Squad Private 	FM 	Fire-Talk 
+155.23500 	WPGB949 	M		Tamaqua Resc 	Tamaqua Rescue Squad Private 	FM 	Fire-Talk 
+154.54000 	 	RM	173.8 PL	Tamaqua FP 	Tamaqua Borough Fire Police 	FM 	Fire-Talk 
+157.62000 	 	RM	123.0 PL	Tamaqua FP 	Tamaqua Borough Fire Police 	FM 	Fire-Talk 
+151.62500 	 	M	203.5 PL	W Penn FP 	West Penn Township Fire Police 	FM 	Fire-Talk 
+155.14500 	WSQ980 	BM	131.8 PL	WPT FD/EMS 	West Penn Twp EMS/FIRE 	FM 	Multi-Talk 
+151.05500 	WNPZ443 	BM	131.8 PL	Orwgsbrg PD 	Orwigsburg PD Tac 	FM 	Law Tac 
+151.95500 	 	BM	074 DPL	SchCo Prison 	Schuylkill County Prison 	FM 	Corrections 
+155.19000 	 	RM	123.0 PL	Rush Twp PD 	Rush Twp Police Local 	FM 	Law Talk 
+155.61000 	KGC516 	BM	123.0 PL	Tamaqua PD 	Tamaqua PD 	FM 	Law Talk 
+155.70000 	WPMV405 	RM		Sch Haven PD 	Schuylkill Haven PD Tac 	FM 	Law Tac 
+155.98500 	 	BM	123.0 PL	Port Carbon 	Port Carbon Police / Gov't 	FM 	Law Talk 
+453.72500 	KNCY722 	RM	156.7 PL	SchCo EMA 	County EMA 	FM 	Emergency Ops 
+453.77500 	KNCY723 	RM		SchCo EMA? 	County EMA? 	FM 	Emergency Ops 
+46.58000 	WXP474 	BM	723 DPL	Tamaqua PW/F 	Tamaqua Public Works / Fire 	FM 	Public Works 
+151.17500 	 	BM		Cressona DPW 	Cressona Boro.  DPW 	FM 	Public Works 
+151.41500 	KLH939 	RM	173.8 PL	Potts DPW 	Pottsville Public Works (also used by Police) 	FM 	Public Works 
+151.62500 	 	M	606 DPL	Coaldale PW 	Coaldale Borough Public Works 	FM 	Public Works 
+154.60000 	 	BM	065 DPL	Ryan PW 	Ryan Township Highway Department 	FM 	Public Works 
+154.72500 	WPMV405 	RM	141.3 PL	Sch Hvn PW 	Schuylkill Haven Borough - Public Works 	FM 	Public Works 
+452.65000 	KNFR834 	RM	203.5 PL	SchTrans1 	Schuylkill Transportation System (Ops) 	FMN 	Transportation 
+453.87500 	WNQM947 	RM	203.5 PL	SchTrans2 	Schuylkill Transportation System (Regional Development Corp) 	FMN 	Transportation 
+462.10000 	 		136.5 PL	Blu M SD 	Blue Mountain School District 	FM 	Schools 
+467.92500 	WQLF528 		167.9 PL	TASD HS ops 	Tamaqua Area School District - Operations 	FM 	Schools 
+463.75000 	 	RM	97.4 PL	TASD Trans 	Tamaqua Area School District - Transp. 	FM 	Schools 
+467.87500 	WQLF528 		167.9 PL	TASD Elem 	Tamaqua School District - Elementary Ops 	FM 	Schools 
+154.57000 	 	M	74.4 PL	TrueValue 	M&S True Value Hardware, Tamaqua, 	FM 	Business 
+154.57000 	 	M	CSQ	WalmartHmtwn 	Walmart (Hometown) 	FM 	Business 
+151.62500 	 		CSQ	Fair ops 	County Fair Ops 	FM 	Business 
+464.77500 	WQCA324 		156.7 PL	Eagle R Sec 	Eagle Rock Resort Security 	FM 	Business 
+154.57000 	 	BM	103.5 PL	StLuke PD/Op 	St. Luke's Miners Memorial Hospital (Coaldale) - Sec/Ops 	FM 	Hospital 
+461.72500 	 	RM	131.8 PL	Good Sam rmc 	Good Samaratin Regioal Medical Center - Operations 	FM 	Hospital 
+464.46250 	 	RM	532 DPL	 Potts Hosp  	Pottsville Hospital 	FM 	Hospital 
+451.40000 	 	RM	225.7 PL	BallietsFuel 	Balliets Fuel Oil Service 	FM 	Business 
+461.20000 	WQMH539 	RM	CC 1TG 1SL 1	RCD Security 	Ri-Corp Development - Security Operations 	DMR 	Business 
+463.75000 	KNNH280 	RM	146.2 PL	Primrose 	Primrose Welding 	FMN 	Business 
+153.06500 	WQZN275 	RM	CC 2TG 99SL 1	TGPC Pitman 	Operations - Pitman 	DMR 	Business 
+153.32750 	WQZN275 	RM	CC 2TG 99SL 1	TGPC Pine 	Operations - Pine Grove 	DMR 	Business 
+464.50000 	 	BM	CSQ	USSA Ch 1 	Ch. 1 - Scrap Yard 	FMN 	Business 
+464.82500 	 	BM	245 DPL	USSA Ch. 2 	Ch. 2 - Parts Yard 	FMN 	Business 
+462.67500 	 	RM	245 DPL	USSA Ch. 3 	Ch. 3 - Scrap/Parts Yards 	FMN 	Business 
+467.02500 	 	BM	245 DPL	USSA Ch. 7 	Ch. 7 - Scrap Yard 	FMN 	Business 
+463.92500 	 	RM	110.9 PL	USSA Ch. 8 	Ch. 8 - Scrap/Parts Yards 	FMN 	Business 
+467.85000 	 	BM	110.9 PL	USSA Ch. 9 	Ch. 9 - Scrap Yard 	FMN 	Business 
+464.55000 	 	BM	466 DPL	USSA Private 	Private Channel 	FMN 	Business 
+463.38750 	WQEV735 	RM	103.5 PL	WMDC Yard 	Yard Operations 	FMN 	Business 
+461.96250 	WQEV735 	M	123.0 PL	WMDC Ch 2 	Channel 2 	FMN 	Business 
+464.61250 	WQEV735 	RM	67.0 PL	WMDC AP 	Asset Protection & Maintenance 	FMN 	Business 
+461.78750 	WQEV735 	M	100.0 PL	WMDC Ch 4 	Channel 4 	FMN 	Business 
+463.56250 	WQEV735 	M	123.0 PL	WMDC Ch 5 	Channel 5 	FMN 	Business 
+461.63750 	WQEV735 	M	103.5 PL	WMDC Ch 6 	Channel 6 	FMN 	Business 
+463.91250 	WQEV735 	M	67.0 PL	WMDC Ch 7 	Channel 7 	FMN 	Business 
+461.96250 	WQEV735 	RM	123.0 PL	WMDC Mech 	Mechanized Maintenance 	FMN 	Business 
+Federal Correctional Institution Schuylkill	 Motorola Type II	 Minersville	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud
+ Statewide	Schuylkill County Public Safety	 Project 25 Phase I	 Pottsville	Schuylkill Mobile Phone	 LTR Standard	 Schuylkill	Wegmans Food Markets
+ DMR Motorola Connect Plus (TRBO)	 Multiple	

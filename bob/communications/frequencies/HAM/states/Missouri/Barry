@@ -1,0 +1,54 @@
+151.23500 	KAG802 	RM	162.2 PL	Barry Sheriff N 	Sheriff: Dispatch - North (Butterfield 136.5 in) 	FMN 	Law Dispatch 
+151.23500 	KAG802 	RM	162.2 PL	Barry Sheriff S 	Sheriff: Dispatch - South (Eagle Rock 162.2 in) 	FMN 	Law Dispatch 
+156.15000 	KAG802 	M	100.0 PL	BarCo Shrf C2C 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+151.71500 	 	M	136.5 PL	Barry Shrf Tac1 	Sheriff: Tac-1 [No License] 	FMN 	Law Tac 
+158.92500 	KAG802 	M	123.0 PL	Barry Shrf Tac2 	Sheriff: Tac-2 	FMN 	Law Tac 
+155.64000 	 	M	103.5 PL	Barry Shrf Tac3 	Sheriff: Tac-3 [No License] 	FMN 	Law Tac 
+154.98750 	WRCS974 	BM	173.8 PL	Barry Fire North 	Fire: Tone-Outs - Cassville - North (Simulcast) 	FMN 	Fire Dispatch 
+155.00250 	WRCS974 	BM	173.8 PL	Barry Fire EglRk 	Fire: Tone-Outs - Eagle Rock (Simulcast) 	FMN 	Fire Dispatch 
+155.03250 	WRCS974 	BM	173.8 PL	Barry Fire Cassv 	Fire: Tone-Outs - Cassville - South (Simulcast) 	FMN 	Fire Dispatch 
+153.26000 	WQKW284 	RM	173.8 PL	Barry Fire S 	Fire: Dispatch - South (See Notes) 	FMN 	Fire Dispatch 
+153.35000 	WQKW284 	RM	173.8 PL	Barry Fire NW 	Fire/EMS: Rural Dispatch - Purdy, Wheaton  	FMN 	Fire Dispatch 
+155.82000 	KNAT901 	BM	CSQ	Barry Fire 	Fire: Countywide Dispatch 	FMN 	Fire Dispatch 
+153.18500 	 	RM	173.8 PL	Barry Fire C 	Fire: Dispatch - Central 	FMN 	Fire Dispatch 
+155.95500 	WNQS275 	BM	141.3 PL	Barry EMS A  	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.28000 	KXX458 	BM		Barry EMS B 	EMS 	FMN 	EMS-Tac 
+155.17500 	WPLW952 	RM	103.5 PL	NS NEB Fire1 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.13000 	WPLW952 	BM		NS NEB Fire 2 	Fire 	FMN 	Fire-Tac 
+155.22000 	KYL814 	RM	146.2 PL	BLC*Ambulanc 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.28000 	WQQQ930 	BM		CMHosp EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.34000 	WQQQ930 	BM		HEAR-340 	Patient Reports 	FMN 	Hospital 
+152.00750 	WQQQ930 	B		CMH Paging 	Paging 	Telm 	Data 
+155.95500 	WNQS275 	BM	103.5 PL	SBarry EMS Loc 	EMS: Tac 	FMN 	EMS Dispatch 
+155.28000 	KXX458 	BM		SBCHD EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.34000 	KXX458 	BM		HEAR-340 	Patient Reports 	FMN 	Hospital 
+154.01000 	WQEJ705 	RM	141.3 PL	Bttrfld Fire 	Fire 	FMN 	Fire Dispatch 
+158.82000 	WQEJ705 	M		Btrf Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+154.89000 	WPKV832 	RM	100.0 PL	Cass PD/PW 	Police: Dispatch (DB: County) / Public Works 	FMN 	Multi-Dispatch 
+155.43750 	WQFZ468 	RM	107.2 PL	CassvilleFPD 	Fire: Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+154.14500 	KNNT801 	RM	192.8 PL	ERGM Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.40000 	WPME861 	BM	110.9 PL	Exeter Fire 	Fire: Dispatch 	FMN 	Fire-Tac 
+155.63250 	WQVC279 	RM	100.0 PL	Jenkins Fire 	Fire (Rural) 	FMN 	Fire Dispatch 
+154.20500 	WPCV344 	BM		Jenkins FG 	Fire 	FMN 	Fire-Tac 
+154.80000 	KAG801 	RM	151.4 PL	Mone Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.80000 	KAG801 	RM	263 DPL	Mone*Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.41500 	KAG801 	BM		Monett PD 1 	Police 	FMN 	Law Tac 
+155.89500 	KAG801 	BM		Monett PD 2 	Police 	FMN 	Law Tac 
+453.50000 	WPOX619 	BM		Mone PD MDT 	Police: Mobile Data Terminals 	Telm 	Data 
+151.30250 	KAG801 	RM	162.2 PL	Monett Fire 	Fire: Paging / Dispatch - Monett. Flastaff, Pierce City 	FMN 	Fire Dispatch 
+154.43000 	WZJ493 	BM		Monett Fire A 	Fire: Local (Paged on 155.22) 	FMN 	Fire Dispatch 
+153.96500 	WPZV752 	M		Monett Fire B 	Fire 	FMN 	Fire-Tac 
+153.80000 	KBY479 	BM		Mone U/W 1 	Utilities / Water 	FMN 	Public Works 
+155.19750 	KBY479 	RM		Mone U/W 2 	Utilities / Water 	FMN 	Public Works 
+155.98500 	KBY479 	M		Mone U/W 3 	Utilities / Water 	FMN 	Public Works 
+159.16500 	WQIG640 	M		Mone SRoadD 	Monett Special Road District 	FMN 	Public Works 
+154.16000 	WNUX210 	BM		Seligman Fire  	Fire 	FMN 	Fire-Tac 
+154.34000 	WPJH348 	BM		Washburn Fire  	Fire 	FMN 	Fire-Tac 
+453.00000 	WPMT546  	RM	100.0 PL	Monett Schools 	Buses / Ops 	FMN 	Schools 
+118.27500 	 	BM		HFJ AWOS V 	AWOS 	AM 	Aircraft 
+121.85000 	 	BM	CSQ	HFJ ClncDel 	Clearance Delivery 	AM 	Aircraft 
+123.07500 	 	BM	CSQ	HFJ CTAF/Lts 	CTAF/Lights 	AM 	Aircraft 
+123.08000 	 	BM	CSQ	HFJ UNCIOM 	UNICOM 	AM 	Aircraft 
+124.95000 	 	BM	CSQ	HFJ Approach 	Approach 	AM 	Aircraft 
+KAMO Power	 NXDN NEXEDGE 4800	 Various	Ozark Electric Cooperative (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Mount Vernon	Rayfield Communications - DMR (SWMO)	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ Southwest MO	Rayfield Communications - UHF (SWMO)	 LTR Standard	 Southern Missouri	SR Communications Associates (Southern MO)	 EDACS Networked Standard	 Various	

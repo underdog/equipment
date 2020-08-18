@@ -1,0 +1,41 @@
+154.20500 	KDV407 	RM	100.0 PL	WP PAGE 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+151.23500 	KVA899 	RM	123.0 PL	WP FIRE/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.44500 	KVA899 	M	123.0 PL	WP FG 1 	Fireground 1 	FMN 	Fire-Talk 
+154.14500 	KVA899 	BM	123.0 PL	WP FG 2 	Fireground 2 	FMN 	Fire-Tac 
+154.86000 	KSB424 	RM	690 NAC	WPSO1 	Sheriff/Police Dispatch 	P25 	Law Dispatch 
+155.53500 	KSB424 	RM	691 NAC	WPSO2 	Law 2 	P25 	Law Tac 
+155.53500 	KSB424 	RM	203.5 PL	WPSO2 	Sheriff 	FMN 	Law Tac 
+155.05500 	WPEN221 	BM		WP 	County 	FMN 	Law Talk 
+154.80000 	KSB424 	RM	91.5 PL	WPJAIL 	Jail 	FMN 	Corrections 
+156.18000 	WQNS654 	RM		WPEM 	Emergency Management 	FMN 	Emergency Ops 
+154.11500 	WPEN221 	RM	167.9 PL	WPHWY 	Highway Dept 	FMN 	Public Works 
+155.31000 	WPEN221 	RM	167.9 PL	WPHWY 	Highway Dept (multicast) 	FMN 	Multi-Talk 
+155.20500 	WPBK664 	RM	612 DPL	Waupaca Amb 	Waupaca Area Ambulance Ltd 	FMN 	EMS-Talk 
+155.34000 	 	BM	100.0 PL	NewLond Hosp 	ThedaCare Medical Center New London 	FMN 	Hospital 
+155.34000 	KBJ320 	BM	203.5 PL	Riverside Hosp 	Riverside Community Memorial Hospital 	FMN 	Hospital 
+453.78750 	WQCA801 	RM	CC 1TG *SL 1	Gold Cross 	Gold Cross Ambulance 	DMR 	EMS Dispatch 
+155.25000 	KSB424 	RM	100.0 PL	Clntnvl PD 	Police 	FMN 	Law Dispatch 
+45.28000 	KNHP379 	RM		Clntnvl DPW 	Public Works 	FM 	Public Works 
+45.60000 	KNHP379 	M		Clntnvl DPW 	Public Works 	FM 	Public Works 
+155.08500 	KNHP379 	BM		Clntnvl DPW 	Public Works 	FMN 	Public Works 
+154.02500 	WPDZ936 	BM		Manawa DPW 	Public Works 	FMN 	Public Works 
+154.02500 	WPIW450 	BM		Marion DPW 	Public Works 	FMN 	Public Works 
+155.25000 	KSB424 	M	100.0 PL	Waupaca PDs 	Police 	FMN 	Law Talk 
+155.56500 	WPRF527 	RM	100.0 PL	NL Police 	Police 	FMN 	Law Dispatch 
+155.77500 	WPRF524 	RM	77.0 PL	NL DPW 	Public Works 	FMN 	Public Works 
+154.02500 	WPEP596 	BM	203.5 PL	NL Sr Van 	Senior Van 	FMN 	Public Works 
+153.69500 	WNBY230 	RM	77.0 PL	NL Utility 	Utilities 	FMN 	Utilities 
+453.13750 	WPPH372 	F		NL Telemetry 	Utility Telemetry 	Telm 	Utilities 
+453.58750 	KD50685 	F		NL Telemetry 	Utility Telemetry 	Telm 	Utilities 
+155.25000 	KSB424 	RM	100.0 PL	Waupaca PD 	Police 	FMN 	Law Talk 
+155.25000 	KSB424 	BM		Waupaca PD 	Police 	P25 	Law Talk 
+159.16500 	WPMM295 	RM	023 DPL	Waupaca DPW 	Public Works 	FMN 	Utilities 
+154.02500 	WQOW467 	BM		WeyauwegaPW 	Public Works 	FMN 	Public Works 
+155.10000 	WNBL243 	RM		Vet Home FD 	Fire 	FMN 	Fire-Tac 
+453.25000 	WPIB841 	RM	CC 10TG 1SL 1	Vet Home Mnt 	Maintenance 	DMR 	Business 
+453.52500 	WPTP836 	RM	CC 14TG *SL *	Vet Home Mat 	Materials Management 	DMR 	Business 
+453.66250 	WPKG709 	F		Vet HomeData 	SCADA 	Telm 	Data 
+453.75000 	WPTP836 	RM	143 DPL	Vet Home Ops 	Laundry & Kitchen 	FMN 	Business 
+Air Communications of Central WI (Ogdensburg)	 LTR Standard	 Ogdensburg	Alliant Energy	 DMR Tier 3	 Various	Baycom (Waupaca)	 LTR Standard
+ Waupaca	Central Wisconsin Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Iola	Nielson Communications (New London)	 LTR Standard	 New London	Wisconsin Interoperable System for Communications (WISCOM)
+ Project 25 Phase I	 Statewide	

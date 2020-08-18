@@ -1,0 +1,76 @@
+155.57250 	WRDK911 	RM	88.5 PL	VHF INTEROP 	County Interop 	FMN 	Interop 
+453.43750 	WRDK911 	RM	88.5 PL	UHF INTEROP 	County Interop 	FMN 	Interop 
+857.01250 	WRDK904 	RM	88.5 PL	800 INTEROP 	County Interop 	FMN 	Interop 
+453.15000 	WQQE585 	RM	162.2 PL	MadCoEMA3150 	Emergency Management 	FMN 	Emergency Ops 
+453.80000 	WQQE585 	M		MadCoEMA3800 	Emergency Management 	FMN 	Emergency Ops 
+155.66250 	WQWB635 	RM	088 NAC	MCFD DISPATCH 1 	Fire Dispatch 1 	P25 	Fire Dispatch 
+155.88750 	WRCR985 	RM	088 NAC	MCFD DISPATCH 2 	Fire Dispatch 2 	P25 	Fire Dispatch 
+155.66250 	WQWB635 	RM	88.5 PL	MCFD DISPATCH 3 	Fire Dispatch 3 	FMN 	Fire Dispatch 
+154.99500 	WQWB635 	RM	88.5 PL	MCFD DISPATCH 4 	Fire Dispatch 4 	FMN 	Fire Dispatch 
+154.74000 	WQWB635 	RM	88.5 PL	MCFD TAC 3 	Fire Tactical 3 	FMN 	Fire-Tac 
+155.04750 	WQWB635 	RM	88.5 PL	MCFD TAC 4 	Fire Tactical 4 	FMN 	Fire-Tac 
+155.19000 	WQWB635 	RM	88.5 PL	MCFD TAC 5 	Fire Tactical 5 	FMN 	Fire-Tac 
+155.49000 	WQWB635 	RM	88.5 PL	MCFD TAC 6 	Fire Tactical 6 	FMN 	Fire-Tac 
+156.09750 	WQWB635 	RM	88.5 PL	MCFD TAC 7 	Fire Tactical 7 	FMN 	Fire-Tac 
+154.23500 	WQWB635 	RM	88.5 PL	MCFD TAC 8 	Fire Tactical 8 	FMN 	Fire-Tac 
+158.85750 	WQWB635 	M	88.5 PL	MCFD TAC 9 	Fire Tactical 9 	FMN 	Fire-Tac 
+154.25000 	WQWB635 	BM	136.5 PL	JMCAA Fire 	Jackson - Madison County Airport Authority - Fire 	FMN 	Fire Dispatch 
+453.37500 	KIC399 	RM		MadCoHealth 	Madison County Health Department 	DMR 	EMS-Tac 
+453.02500 	KIC399 	RM		MadCoHlth2 	Madison County Health Department 	DMR 	EMS-Tac 
+453.70000 	WNLZ739 	RM		MadCoDetentn 	Detention Center 	FMN 	Corrections 
+151.01000 	WNHG533 	RM	107.2 PL	MadCoRoads 	Road Department 	FMN 	Public Works 
+460.85000 	WPLS925 	RM		MadCoSch 	Jackson - Madison County Board Of Education 	FMN 	Schools 
+155.23500 	WNEB257 	BM	123.0 PL	MadCoSchBus 	Jackson - Madison County Board Of Education - Bus Operations 	FMN 	Schools 
+461.60000 	WPYL641 	RM		MadCoSchNSHS 	Jackson - Madison County Board Of Education - Northside High School 	FMN 	Schools 
+151.65500 	WPIS916 	M		MadCoSchSSHS 	Jackson - Madison County Board Of Education - Southside High School 	FMN 	Schools 
+151.71500 	WPIS916 	M		MadCoSchSSHS 	Jackson - Madison County Board Of Education - Southside High School 	FMN 	Schools 
+155.55750 	WQKJ320 	RM	306 DPL	MadCoSchBus 	Jackson - Madison County Board of Education 	FMN 	Schools 
+460.50000 	KIC371 	RM		JcksnPDDisp 	Police Department - Dispatch 	FMN 	Law Dispatch 
+460.07500 	KIC371 	RM		JcksnPDCmd 	Police Department - Command/Tactical 	FMN 	Law Tac 
+460.35000 	KIC371 	RM		JcksnPDDetcv 	Police Department - Detectives 	FMN 	Law Tac 
+460.02500 	KIC371 	RM		JcksnPDCWMA 	Police Department - Countywide Mutual Aid 	FMN 	Interop 
+154.44500 	KIS262 	RM	136.5 PL	JcksnFDDisp 	Fire Department - Dispatch 	FMN 	Fire Dispatch 
+154.16000 	KIS262 	M		JcksnFDFgnd 	Fire Department - Fireground 	FMN 	Fire-Tac 
+154.37000 	KIS262 	M		JcksnFDFgnd 	Fire Department - Fireground 	FMN 	Fire-Tac 
+460.58750 	KIS262 	M		JcksnFD 	Fire Department 	FMN 	Fire-Tac 
+465.58750 	KIS262 	M		JcksnFD 	Fire Department 	FMN 	Fire-Tac 
+453.22500 	WQF449 	RM	192.8 PL	JacksonTrans 	Jackson Transit Authority 	FMN 	Transportation 
+152.33750 	WQPA440 	RM	CC 2TG 101SL 1	Medlink ALS 	Medlink ALS Dispatch Jackson South 	DMRE 	EMS Dispatch 
+153.34250 	WPQK249 	RM	CC 2TG 101SL 1	Medlink ALS 	Medlink ALS Dispatch Jackson North 	DMRE 	EMS Dispatch 
+152.33750 	WQPA440 	RM	CC 2TG 102SL 2	Medlink BLS 	Medlink BLS Dispatch Jackson South 	DMRE 	EMS Dispatch 
+153.34250 	WPQK249 	RM	CC 2TG 102SL 2	Medlink BLS 	Medlink BLS Dispatch Jackson North 	DMRE 	EMS Dispatch 
+453.17500 	WPTH261 	RM		JMCGH453.175 	Jackson - Madison County General Hospital 	FMN 	Hospital 
+461.07500 	WNAD603 	RM		JMCGH461.075 	Jackson - Madison County General Hospital 	FMN 	Hospital 
+461.57500 	WNAD603 	RM		JMCGH461.575 	Jackson - Madison County General Hospital 	FMN 	Hospital 
+461.62500 	WNAD603 	RM		JMCGH461.625 	Jackson - Madison County General Hospital 	FMN 	Hospital 
+462.05000 	WNAD603 	RM		JMCGH462.050 	Jackson - Madison County General Hospital 	FMN 	Hospital 
+463.60000 	WPTZ542 	RM		JMCGH463.600 	Jackson - Madison County General Hospital 	FMN 	Hospital 
+463.65000 	WPIH755 	RM		JMCGH463.650 	Jackson - Madison County General Hospital 	FMN 	Hospital 
+464.05000 	WPIJ841 	RM		JMCGH464.050 	Jackson - Madison County General Hospital 	FMN 	Hospital 
+153.18500 	WPYH503 	RM	032 DPL	AEL-JACKSN 	Air Evac Lifeteam - Dispatch Jackson Repeater 	FMN 	EMS Dispatch 
+160.13250 	WQMR499 	BM		HospWingDisp 	Hospital WING Dispatch 	FMN 	EMS Dispatch 
+153.54500 	WYP700 	RM		JEA153.545 	Jackson Energy Authority 	FMN 	Utilities 
+153.69500 	WYP702 	BM		JEA153.695 	Jackson Energy Authority 	FMN 	Utilities 
+460.77500 	WPXJ905 	BM		JEA-GPS/RTK 	Jackson Energy Authority -  GPS/RTK 	Telm 	Utilities 
+859.73750 	WQBJ748 	RM		JEA-MDT 1 	Jackson Energy Authority - MDT's 	Telm 	Utilities 
+860.73750 	WQBJ748 	RM		JEA-MDT 2 	Jackson Energy Authority - MDT's 	Telm 	Utilities 
+464.42500 	WPWU744 	RM		UnivMemJack 	University of Memphis Jackson (Expired) 	FMN 	Schools 
+461.85000 	WPCX991 	RM	103.5 PL	UnionUniSec 	Union University - Security 	FMN 	Security 
+451.73750 	WPUJ428 	M		UnionUni7375 	Union University (Expired) 	FMN 	Schools 
+451.76250 	WPUJ428 	M		UnionUni7625 	Union University (Expired) 	FMN 	Schools 
+452.08750 	WPUJ428 	M		UnionUni0875 	Union University (Expired) 	FMN 	Schools 
+461.23750 	WPUJ428 	M		UnionUni2375 	Union University (Expired) 	FMN 	Schools 
+461.36250 	WPUJ428 	M		UnionUni3625 	Union University (Expired) 	FMN 	Schools 
+462.81250 	WPUJ428 	M		UnionUni8125 	Union University (Expired) 	FMN 	Schools 
+159.56250 	WQJS600 	M		USJ-OPS 	USJ Operations 	FMN 	Schools 
+159.60750 	WQJS600 	M		USJ-OPS 	USJ Operations 	FMN 	Schools 
+159.65250 	WQJS600 	M		USJ-OPS 	USJ Operations 	FMN 	Schools 
+159.71250 	WQJS600 	M		USJ-OPS 	USJ Operations 	FMN 	Schools 
+159.84750 	WQSJ600 	M		USJ-OPS 	USJ Operations 	FMN 	Schools 
+159.99750 	WQJS600 	M		USJ-OPS 	USJ Operations 	FMN 	Schools 
+452.65000 	WPNX571 	RM		TSFD-MAINT 	Maintanence Operations 	FMN 	Schools 
+B and E Electronics	 LTR Standard	 Jackson	Gerdau Ameristeel	 LTR Standard	 Jackson	Integrated Wireless DMR	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Jackson	Jackson Energy Authority	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Jackson	Jackson Madison County General Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Jackson	Jackson Public Safety (P25)
+ Project 25 Phase II	 Jackson	Madison County Public Safety DMR	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Jackson	Proctor and Gamble (Pringles)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Jackson
+Southwest Tennessee Electric Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Jackson	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked
+ Various	

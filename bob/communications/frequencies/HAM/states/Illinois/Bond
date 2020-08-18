@@ -1,0 +1,38 @@
+155.01000 	KSD589 	RM	162 NAC	Bond Sheriff 	Sheriff: Dispatch [Ch 1] (Simulcast TG 7882) ]TG 1] 	P25 	Law Dispatch 
+156.15000 	KSD589 	M		Bond Sheriff Tc2 	Sheriff: Portables / Tac [Ch 2] (See Greenville) 	FMN 	Law Tac 
+453.41250 	WPPC529 	F		Bond RF2 	Remote Link 	FMN 	Fire Dispatch 
+453.48750 	WPPC529 	F	205 DPL	Bond RF3 	Remote Link (heard Mulberry Grove 12/17) 	FMN 	Fire Dispatch 
+458.16250 	WPPC529 	F		Bond RF4 	Remote Link (possibly CSQ) 	FMN 	Fire Dispatch 
+458.41250 	WPPC529 	F		Bond RF4 	Remote Link 	FMN 	Fire Dispatch 
+154.13000 	KB72218 	BM	162.2 PL	Bond Fire/EMS  	Fire/EMS: Countywide Dispatch [Ch 1]  	FMN 	Fire Dispatch 
+453.16250 	WPPC529 	F	311 DPL	Bond Shrf RF 	Fire: Remote Link (Poco/OR; SC21 TG 7877) 	FMN 	Fire Dispatch 
+458.48750 	WPPC529 	F	371 DPL	Bond Fire RF 	Fire: Remote Link (Keyesport) 	FMN 	Fire Dispatch 
+151.05500 	KTG638 	RM	97.4 PL	Bond Highway 	Highway Department  	FMN 	Public Works 
+151.77500 	WPOB855 	BM	114.8 PL	Bond County EMS  	EMS: Dispatch (Patched SC21 TG7886/Paged 154.13) 	FMN 	EMS Dispatch 
+152.27000 	WPWS379 	RM	351 DPL	Bond FireEMS 	Fire/EMS: Dispatch 	FMN 	Multi-Dispatch 
+155.34000 	KNAD257 	BM	114.8 PL	MERCI1 114.8 	Patient Reports 	FMN 	Hospital 
+155.22000 	 	M	186.2 PL	MERCI2 186.2 	Patient Reports 	FMN 	Hospital 
+462.07500 	WPLR946 	RM	107.2 PL	ARCH Litchfield 	Central Illinois Base (Litchfield) 	FMN 	EMS Dispatch 
+153.53750 	WPNY502 	M		BMWC WDD 	Bond-Madison Water Company (CSQ) 	Telm 	Data 
+173.21000 	WNVN842 	F		TCPWD WDD 	Three County Public Water District: Water Data (CSQ) 	Telm 	Data 
+156.15000 	KSD589 	F	205 DPL	Grnv Police 	Police: Dispatch - Link/Patch (Sheriff freq) 	FMN 	Law Dispatch 
+154.01000 	KB72218 	M		GreenvilleFG 	Fireground 	FMN 	Fire-Tac 
+153.95000 	KB72218 	M		Bond Co FG 	Fireground  	FMN 	Fire-Tac 
+155.83500 	WPZZ390 	BM	412 DPL	Gnrvl PD/PW 	City Maintenance, Sewer / Police [Ch 7] 	FMN 	Public Works 
+158.76000 	WPZZ390 	BM		Grnvl PW/Swr 	Public Works / Sewer: Data (CSQ) 	Telm 	Public Works 
+453.03750 	KD53940 	M		Grnvl WDD1 	Water Distribution Data 	Telm 	Data 
+458.03750 	KD53940 	M		Grnvl WDD2 	Water Distribution Data 	Telm 	Data 
+154.13000 	WQTP910 	RM	065 DPL	Shoal Creek Fire 	Fire (Disp by Montgomery Co and Bond Co) 	FMN 	Fire Dispatch 
+451.11250 	WPZZ802 	M		Sorento Waterwks 	Waterworks 	FMN 	Public Works 
+173.39000 	WPXK839 	F		Panama WDD 	Water Distribution Data 	Telm 	Data 
+151.13000 	WQKT973 	RM	351 DPL	Bond Sch Bus 	Buses / Transportation 	FMN 	Schools 
+151.13000 	WQKT973 	RM	047 DPL	Bond Schools 	Admin / Operations 	FMN 	Schools 
+464.47500 	WNUU673 	BM	265 DPL	MGrv School 	Buses / Security / Activities 	FMN 	Schools 
+453.57500 	WQIW568 	RM	047 DPL	GColl Police  	College Police  	FMN 	Law Dispatch 
+408.25000 	 	RM	041 NAC	FCIG P25 1 	Prison Operations (Not Encrypted) 	P25E 	Corrections 
+409.41250 	 	RM	041 NAC	FCIG P25 2 	Prison Operations (Not Encrypted) 	P25E 	Corrections 
+123.05000 	WQAF623 	B	CSQ	GRE Unicom 	CTAF/UNICOM 	AM 	Aircraft 
+127.70000 	 	B	CSQ	MtVernonRCAG 	Approach/Departure (by Kansas City ARTCC-Mount Vernon RCAG) 	AM 	Aircraft 
+Carlisle Syntec (Greenville IL)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Greenville 	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3
+ Multiple	Federal Correctional Institution Greenville 	 Motorola Type II Smartnet	 Greenville	Southwestern Electric Cooperative (IL)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greenville IL	WirelessUSA (Tier 3)
+ DMR Tier 3	 IL/MO	

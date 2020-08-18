@@ -1,0 +1,47 @@
+155.79000 	WPBK495 	RM	065 DPL	HenrySO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+151.28000 	WQOA824 	RM	754 DPL	HFD CH1/CH15 	Ch. 1 Dispatch 1/Ch. 15 Tactical  11 	FMN 	Fire Dispatch 
+159.39750 	WQOA824 	RM	114 DPL	HFD CH 2 DISP2 	Ch. 2 Back-up 	FMN 	Fire Dispatch 
+154.43000 	WQOA824 	BM	331 DPL	HFD CH3 TOWNS 	Ch. 3 K-Town/M-Town Main 	FMN 	Fire Dispatch 
+155.02500 	 	BM	107.2 PL	HFD CH4 EOC 	Ch. 4 Emergency Operations Center 	FMN 	Emergency Ops 
+154.28000 	 	M	CSQ	HFD CH5 TAC1 	Ch. 5 Tactical 1/Staging/Mutual Aid 	FMN 	Fire-Tac 
+154.25000 	WQOA824 	M	107.2 PL	HFD CH6 TAC2 	Ch. 6 Tactical 2/Water Supply 	FMN 	Fire-Tac 
+151.25000 	 	M	107.2 PL	HFD CH7 TAC3 	Ch. 7 Tactical 3/Operations/Triage/Straughn VFD 	FMN 	Fire-Tac 
+153.95000 	 	M	107.2 PL	HFD CH8 TAC4 	Ch. 8 Tactical 4/Operations/Middletown 	FMN 	Fire-Tac 
+158.74500 	 	M	107.2 PL	HFD CH9 TAC5 	Ch. 9 Tactical 5/Operations/Spiceland 	FMN 	Fire-Tac 
+155.75250 	 	M	107.2 PL	HFD CH10 TAC6 	Ch. 10 Tactical 6/On Scene Operations 	FMN 	Fire-Tac 
+151.13750 	 	M	107.2 PL	HFD CH11 TAC7 	Ch. 11 Tactical 7//On Scene Operations 	FMN 	Fire-Tac 
+154.45250 	 	M	107.2 PL	HFD CH12 TAC8 	Ch. 12 Tactical 8//On Scene Operations 	FMN 	Fire-Tac 
+158.73750 	 	M	107.2 PL	HFD CH13 TAC9 	Ch. 13 Tactical 9/On Scene Operations 	FMN 	Fire-Tac 
+159.47250 	 	M	107.2 PL	HFD CH15 TAC10 	Ch. 15 Tactical 10/On Scene Operations 	FMN 	Fire-Tac 
+154.17500 	 	M	107.2 PL	HFD CH16 TAC12 	Ch. 16 Tactical 12/Operations/Franklin Township 	FMN 	Fire-Tac 
+155.02500 	 	BM	91.5 PL	OEM DISP OPS1 	Office of Emergency Management Operations 1 	FMN 	Emergency Ops 
+155.92500 	WQAH870 	BM	107.2 PL	OEM TAC1 OPS2 	Office of Emergency Management Operations 2 	FMN 	Emergency Ops 
+155.64000 	WQAH870 	BM	107.2 PL	OEM TAC2 OPS3 	Office of Emergency Management Operations 3 	FMN 	Emergency Ops 
+151.06250 	WNBX348 	RM	156.7 PL	HC TRANSIT 	Transit Operations (New Castle Transit Ath.) 	FMN 	Transportation 
+151.02500 	KSJ309 	RM	CC 10TG 500SL 1	Henry Highway 	Highway Department 	DMR 	Public Works 
+151.19000 	KNAY981 	BM		Henry Parks 	Parks Dept. 	FMN 	Public Works 
+154.96500 	KBW622 	BM		NewCstlWater 	New Castle Water Works 	FMN 	Public Works 
+154.17500 	WNVV502 	BM		FrnklnFD Frg 	Fireground (Possibly using NXDN) 	FMN 	Fire-Tac 
+159.42000 	KCZ492 	RM	107.2 PL	KnightsPDDsp 	Police Dispatch (Also licensed for NXDN) 	FMN 	Law Dispatch 
+159.21000 	KCZ492 	M		KnightsPDCar 	Police Car-to-Car (Also licensed for NXDN) 	FMN 	Law Talk 
+153.95000 	WPZV571 	M		MdltnFD TAC 	Fire TAC 	FMN 	Fire-Tac 
+453.62500 	WPKS364 	BM		MiddletownOp 	Middletown Town Operations 	FMN 	Multi-Tac 
+151.46750 	KBW622 	RM	123.0 PL	NewCstlWater 	Water Works 	FMN 	Utilities 
+158.80500 	WNBX348 	BM	192.8 PL	NewCstlTrans 	Community Transit 	FMN 	Transportation 
+155.82000 	KNBU337 	BM		Shirley FD 	Fire Department 	FMN 	Fire-Tac 
+155.10000 	WNBZ888 	BM		Shirley Muni 	Municipal Operations 	FMN 	Other 
+151.25000 	KNEC966 	BM	107.2 PL	Straughn FD  	Fire TAC 2 	FMN 	Fire-Tac 
+462.53125 	 	RM		NewCastle HS 	New Castle High School 	NXDN 	Schools 
+464.87500 	WPXF998 	RM	62 RAN	HnrySklsCH 2 	New Castle School Buses 	NXDN 	Schools 
+453.62500 	WPKS364 	BM		HnrySklsCH 3 	Town of Middletown 	FMN 	Schools 
+461.75000 	WQON435 	RM	CC 7TG 1000SL 1	HnrySklsCH 6 	Blue River School 	DMR 	Schools 
+463.35000 	WNBT969 	RM	127.3 PL	HnrySklsCH 7 	Charles Beard School 	FMN 	Schools 
+464.05000 	 	RM		HnrySklsCH 8 	N. W. School corp. 	FMN 	Schools 
+464.05000 	KNAR235 	RM	CC 4TG 15770SL 1	ShenSchlCorp 	Shenandoah School Corporation 	DMR 	Schools 
+157.62000 	WPZS509 	RM	100.0 PL	So Henry School 	South Henry School Corp 	FMN 	Schools 
+451.37500 	WRDZ640 	RM	CC 10TG 101SL *	IvyTechNewCst 	Ivy Tech New Castle 	DMR 	Schools 
+457.73125 	 	M		NewCastleHSB 	New Castle High School back-up 	NXDN 	Schools 
+466.99375 	 	M		NewCastle MS 	New Castle Middle School 	NXDN 	Schools 
+469.75625 	 	M		Parker Eleme 	Parker Elementary 	NXDN 	Schools 
+Boars Head Provisions Company	 NXDN Icom IDAS Type D	 New Castle	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Department of Corrections	 Motorola Type II
+ Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	J and K Communications	 LTR Standard	 Multiple	

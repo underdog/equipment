@@ -1,0 +1,49 @@
+155.19000 	KJU261 	RM	206.5 PL	Lee Sheriff FM  	Sheriff: Dispatch - Fort Madison Tower 	FMN 	Law Dispatch 
+159.35250 	KJU261 	RM	131.8 PL	Lee Sheriff Keo  	Sheriff: Dispatch - Keokuk Tower 	FMN 	Law Dispatch 
+159.09000 	KJU261 	RM	110.9 PL	Lee Sheriff Mnt  	Sheriff: Dispatch - Montrose Tower 	FMN 	Law Dispatch 
+453.13750 	KJU261 	F	118.8 PL	Lee Shrf RF1 	Sheriff: Remote Link 	FMN 	Law Dispatch 
+458.13750 	KJU261 	F		Lee Shr fRF1B  	Sheriff: Remote Link 	FMN 	Law Dispatch 
+453.91250 	KJU261 	F	131.8 PL	Lee Shrf RF2 	Sheriff: Remote Link (to 155.19/159.3525) 	FMN 	Law Dispatch 
+453.08750 	KJU261 	F	103.5 PL	Lee Shrf RF3 	Sheriff: Remote Link 	FMN 	Law Dispatch 
+458.08750 	KJU261 	F	107.2 PL	Lee Shrf RF4 	Sheriff: Remote Link 	FMN 	Law Dispatch 
+458.11250 	KJU261 	F	114.8 PL	Lee Shrf RF5 	Sheriff: Remote Link (to 155.19/159.3525) 	FMN 	Law Dispatch 
+453.56250 	KJU261 	F	136.5 PL	Lee Shrf RF6 	Sheriff: Remote Link 	FMN 	Law Dispatch 
+458.68750 	KJU261 	F	173.8 PL	Lee Shrf RF7 	Sheriff: Remote Link 	FMN 	Law Dispatch 
+458.53750 	KJU261 	F	146.2 PL	Lee Shrf RF8 	Sheriff: Remote Link 	FMN 	Law Dispatch 
+154.44500 	WPCQ788 	RM	654 DPL	LeeFireDisp 	Fire: Dispatch (D662 in) 	FMN 	Fire Dispatch 
+453.58750 	WPCQ788 	F	146.2 PL	Lee FireRF-A 	Fire: Remote Link 	FMN 	Fire Dispatch 
+155.29500 	KJV401 	BM	136.5 PL	LeeEMSDisp 	EMS: Tone-Outs / Dispatch 	FMN 	EMS Dispatch 
+159.13500 	KAL241 	RM	173.8 PL	Lee Roads 	Road Department 	FMN 	Public Works 
+173.39625 	WNQS738 	F		RRWA Data 1 	Water Data (CSQ-Ft Madison) 	Telm 	Data 
+153.98000 	WQL906 	BM	203.5 PL	Denamrk Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.67000 	KAA967 	RM	127.3 PL	FtMad Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.08500 	WPCQ788 	RM	203.5 PL	FtMad Fire B 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.34000 	KNFU640 	BM		FtMadison FG 	Fireground 	FMN 	Fire-Tac 
+154.02500 	KDG345 	RM	91.5 PL	FtMad PubWk 	Public Works 	FMN 	Public Works 
+158.89500 	KDG345 	M		FtMd PW Data 	Data (CSQ) 	Telm 	Data 
+153.62000 	KGM661 	RM	127.3 PL	FtMad Utility 	Water Department 	FMN 	Public Works 
+154.17500 	WQM646 	BM	703 DPL	JcksnTwpFire 	Fire: Operations 	FMN 	Fire-Tac 
+154.85250 	WQQ386 	RM	110.9 PL	Keok*Police 	Police: Dispatch (2017) 	FMN 	Law Dispatch 
+155.13000 	WQQ386 	RM	127.3 PL	Keok Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.08500 	WPML490 	RM	127.3 PL	Keok PD*S 	Police: Dispatch (Simulcast of 155.13) 	FMN 	Law Dispatch 
+155.61000 	WQQ386 	B		KeokPD InfoA 	Police: Information/Special Events 	FMN 	Law Talk 
+155.91000 	WQQ386 	M		KeokPD InfoB 	Police: Information - Mobiles 	FMN 	Law Talk 
+159.28500 	WNXP854 	BM	100.0 PL	Keokuk EMS 	EMS: Dispatch / Inbound Reports 	FMN 	EMS Dispatch 
+155.34000 	WNXP854 	BM	110.9 PL	Keokuk Hosp 	Hospital Patient Reports 	FMN 	Hospital 
+156.47500 	 	M		Marine 69 	Volunteer Emergency Corps [Marine 69] 	FM 	Emergency Ops 
+154.14500 	WQS430 	RM	703 DPL	Keokuk Fire 	Fire/EMS: Dispatch 	FMN 	Fire Dispatch 
+37.10000 	WQP802 	BM	107.2 PL	Keokuk City 	Services / Snow Plows 	FM 	Public Works 
+158.94000 	WRG566 	RM		Keok Water 1 	Water Works 	FMN 	Public Works 
+453.55000 	WQQG490 	RM	134 DPL	Keok Water 3 	Water Works: Ops 	FMN 	Public Works 
+453.55000 	WQQG490 	RM	311 DPL	Keok Water 2 	Water Works: Ops 	FMN 	Public Works 
+453.32500 	WPCY490 	RM	132 DPL	Keokuk WWP 	Waste Water Treatment Plant 	FMN 	Public Works 
+158.14500 	WNXD773 	BM		WPoint PW 	Public Works 	FMN 	Public Works 
+155.20500 	KCE520 	BM	023 DPL	CntrlLee Sch 	Community School District (Donnellson) 	FMN 	Schools 
+155.22000 	KTK706 	RM	532 DPL	FtMad Sch 1 	Community School District 	FMN 	Schools 
+154.05500 	WQPD499 	RM	186.2 PL	FtMad Sch 2 	Admin / Operations 	FMN 	Schools 
+461.92500 	WQFK951 	M		FtMad High Sch 	High School 	FMN 	Schools 
+155.16000 	KWM636 	BM		Keok School 	Operations 	FMN 	Schools 
+461.43750 	WPYXS555 	RM	532 DPL	Keok SchBus 	Buses 	FMN 	Schools 
+Alliant Energy	 DMR Tier 3	 Various	AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Iowa Department of Corrections	 DMR Tier 3
+ Various	Iowa Fertilizer Company	 DMR Motorola Capacity Plus Single Site (TRBO)	 Wever	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	Pinnacle Foods - Fort Madison (DMR)
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Fort Madison	RACOM Network	 EDACS Networked Standard	 Various	Siemens Energy	 DMR Motorola Capacity Plus Single Site (TRBO)	 Ft. Madison

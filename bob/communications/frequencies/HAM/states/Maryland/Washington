@@ -1,0 +1,51 @@
+33.86000 	KGC676 	BM	77.0 PL	Fire Dispatch 	Fire & EMS Dispatch (Simulcast) 	FM 	Fire Dispatch 
+155.79000 	KGA870 	BM	151.4 PL	HPD Aux FP-3 	Hagerstown Police Auxiliary - Fire Police 3 	FM 	Law Tac 
+155.74500 	KZO480 	BM	151.4 PL	HPD Aux FP-4 	Hagerstown Police Auxiliary - Fire Police 4 	FM 	Law Tac 
+154.28000 	KGC676 	B		Fire Mutual Aid 	Fire Mutual Aid 	FM 	Interop 
+462.95000 	KDX246 	B	127.3 PL	EMS Call-9 	EMS Consult Assignment 	FMN 	EMS-Tac 
+467.95000 	KDX246 	M	127.3 PL	EMS Call-9 	EMS Consult Assignment 	FMN 	EMS-Tac 
+463.05000 	KDX246 	B	127.3 PL	EMS Med-3 	EMS-to-Hospital 	FMN 	Hospital 
+468.05000 	KDX246 	M	127.3 PL	EMS Med-3 	EMS-to-Hospital 	FMN 	Hospital 
+463.12500 	KDX246 	B	127.3 PL	EMS Med-6 	EMS-to-Hospital 	FMN 	Hospital 
+468.12500 	KDX246 	M	127.3 PL	EMS Med-6 	EMS-to-Hospital 	FMN 	Hospital 
+153.41000 	WFB509 	RM	107.2 PL	WC Water Dept 	Department of Water Quality 	FMN 	Public Works 
+155.08500 	WPJQ685 	RM	136.5 PL	WC Detention Ctr 	Detention Center 	FMN 	Corrections 
+155.28000 	KWM633 	BM		WC Health Dept 	Health Department 	FMN 	Public Works 
+453.15000 	KNEX271 	RM	77.0 PL	WC LG Talkaround 	Local Government Talkaround 	FMN 	Public Works 
+453.65000 	WQJX860 	B		WC Paging 	Local Government Paging 	FM 	Data 
+37.90000 	KGH213 	BM	71.9 PL	WC Roads 90 	Roads Department 	FM 	Public Works 
+37.92000 	KGH213 	BM		WC Roads 92 	Roads Department 	FM 	Public Works 
+37.94000 	KGH213 	BM	71.9 PL	WC Roads 94 	Roads Department 	FM 	Public Works 
+37.96000 	KGH213 	BM		WC Roads 96 	Roads Department 	FM 	Public Works 
+151.13000 	KGH213 	M		WC Roads 151 	Roads Department 	FM 	Public Works 
+151.77500 	KNAE389 	RM	32 RAN	Hag Housing Auth 	Housing Authority 	NXDN 	Public Works 
+153.53000 	KGC474 	BM	123.0 PL	Hag Lights Dept 	Light Department 	FM 	Public Works 
+158.88000 	WNUT988 	M		Hag Parks Dept 	Parks Department 	FM 	Public Works 
+158.82000 	KFZ738 	RM	77.0 PL	Hag Streets Dept 	Streets Department 	FM 	Public Works 
+159.73500 	WPKH219 	RM	103.5 PL	Hag Water Dept 	Water Department 	FM 	Public Works 
+453.15000 	KNEX271 	RM	67.0 PL	Boonsboro DPW 	Boonsboro Public Works 	FM 	Public Works 
+120.30000 	 	BM	CSQ	Tower 	Tower 	AM 	Aircraft 
+225.40000 	 	BM	CSQ	HGR Tower UHF 	Tower 	AM 	Aircraft 
+121.90000 	 	BM	CSQ	Ground 	Ground 	AM 	Aircraft 
+134.15000 	 	BM	CSQ	Approach/Depart 	Approach/Departure 	AM 	Aircraft 
+385.40000 	 	BM	CSQ	Approach/Depart 	Approach/Departure 	AM 	Aircraft 
+122.95000 	 	BM	CSQ	Unicom 	Unicom 	AM 	Aircraft 
+122.10000 	 	BM	CSQ	Flight Service 	Flight Service Station (FSS) 	AM 	Aircraft 
+126.37500 	KRZ8 	BM	CSQ	ATIS Weather 	Automatic Terminal Information Service (ATIS) 	AM 	Aircraft 
+453.15000 	KNEX271 	BM	103.5 PL	Airport Ops 	Airport Operations 	FM 	Public Works 
+452.71250 	WQHB857 	RM	172 DPL	Rider Jet Center 	Rider Jet Center 	FM 	Business 
+464.61250 	WQFR943 	RM	306 DPL	SNC Operations 	Sierra Nevada Corporation 	FM 	Business 
+138.07500 	 	BM		SNC Discrete (1) 	Sierra Nevada Corporation (some encryption) 	P25 	Aircraft 
+139.07500 	 	BM		SNC Discrete (2) 	Sierra Nevada Corporation (some encryption) 	P25 	Aircraft 
+139.85000 	 	BM		SNC Discrete (3) 	Sierra Nevada Corporation (some encryption) 	P25 	Aircraft 
+267.35000 	 	BM		SNC Discrete (4) 	Sierra Nevada Corporation (FM-mode, some encryption) 	FM 	Aircraft 
+277.35000 	 	BM		SNC Discrete (5) 	Sierra Nevada Corporation (FM-mode, some encryption) 	FM 	Aircraft 
+463.88750 	WQCH219 	RM	141.3 PL	HCC Police 	Police (with phone patch) 	FM 	Security 
+453.61250 	KD20032 	RM	141.3 PL	HCC Police/Maint 	Police & Maintenance (with phone patch) 	FM 	Security 
+461.15000 	WQCH219 	RM	155 DPL	HCC Maintenance 	Maintenance 	FM 	Schools 
+451.98750 	WQCH219 	RM	263 DPL	HCC IT Dept 	Information Technology Department 	FM 	Schools 
+151.96250 	WPRT744 	RM	662 DPL	WCBOE (9625) 	Board of Education 	FMN 	Schools 
+155.16000 	KEY840 	BM	156.7 PL	WCBOE (1600) 	Board of Education 	FMN 	Schools 
+Com Pros (Passport)	 LTR Passport	 Various	First Energy	 Project 25 Phase I	 Various	M and D Technical Services	 LTR Standard
+ Hagerstown	Meritus Medical Center	 NXDN NEXEDGE 4800	 Hagerstown	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	R and R Communications
+ LTR Standard	 Clear Spring	TWR Comms (Passport)	 LTR Passport	 Various	Washington County	 Project 25 Phase I	 Various

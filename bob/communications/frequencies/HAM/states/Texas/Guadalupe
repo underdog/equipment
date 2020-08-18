@@ -1,0 +1,43 @@
+155.43750 	WPXW384 	RM	351 NAC	LE Interop Dig 	Law Enforcement Interoperability (DPS, Constables, TABC; patched with LCRA P25 talkgroup 6517; digital) 	P25 	Interop 
+155.43750 	WPXW384 	RM	546 DPL	LE Interop Ana 	Law Enforcement Interoperability (DPS, Constables, TABC; patched with LCRA P25 talkgroup 6517; analog) 	FMN 	Interop 
+155.82750 	WPXW384 	RM	34F NAC	East Interop Dig 	East Interoperability (digital; patched to NexEdge) 	P25 	Interop 
+155.82750 	WPXW384 	RM	606 DPL	East Interop Ana 	East Interoperability (analog; patched to NexEdge) 	FMN 	Interop 
+155.90250 	WPXW384 	RM	26 RAN	West Interop 	West Interoperability (patched to NexEdge) 	NXDN 	Interop 
+155.55000 	KB30200 	M	203.5 PL	Guad SO Talkarnd 	Sheriff Talk-Around 	FM 	Law Talk 
+155.96250 	KB30200 	BM	365 DPL	Guad SO Jail 	Sheriff Jail Operations 	FM 	Corrections 
+158.91000 	WPHW807 	BM	141.3 PL	Guad SO Court 	Sheriff Court Security 	FM 	Law Tac 
+158.71000 	WQYE258 	RM	503 DPL	Guad Fire E Page 	Fire Page East 	FMN 	Fire Dispatch 
+152.63750 	WQYE254 	RM	423 DPL	Guad Fire W Page 	Fire Page West 	FMN 	Fire Dispatch 
+155.98500 	WNUN654 	RM	27C NAC	Guad Fire E Disp 	Fire Dispatch East (Digital) 	P25 	Fire Dispatch 
+155.07000 	WPRH499 	RM	2A5 NAC	Guad Fire W Disp 	Fire Dispatch West (Digital) 	P25 	Fire Dispatch 
+155.98500 	WNUN654 	RM	351 DPL	Guad Fire E Disp 	Fire Dispatch East (Analog) 	FMN 	Fire Dispatch 
+155.07000 	WPRH499 	RM	351 DPL	Guad Fire W Disp 	Fire Dispatch West (Analog) 	FMN 	Fire Dispatch 
+159.78000 	WPYN367 	M	146.2 PL	Guad Fire Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
+159.81000 	WPYN367 	M	146.2 PL	Guad Fire Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
+159.84000 	WPYN367 	M	146.2 PL	Guad Fire Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
+160.06500 	WPYN367 	M	146.2 PL	Guad Fire Tac 4 	Fire Tactical 4 	FMN 	Fire-Tac 
+160.17000 	WPYN367 	M	146.2 PL	Guad Fire Tac 5 	Fire Tactical 5 	FMN 	Fire-Tac 
+460.63750 	WNUN654 	RM	173.8 PL	Guad Fire UHF 	Fire 	FM 	Fire-Tac 
+158.80500 	 	BM	074 DPL	CCMA Alarms 	Automated River Alarms 	FM 	Public Works 
+154.31000 	KSZ964 	BM	27C NAC	Kingsbury FD 	Fire 	P25 	Fire-Tac 
+154.49000 	WPRF755 	RM	146.2 PL	New Berlin VFD 	Fire/EMS Common 2 	FMN 	Fire Dispatch 
+156.01500 	KXA372 	RM	203.5 PL	Schertz Fire/EMS 	Fire/EMS Dispatch (Patch to TRS) 	FMN 	EMS Dispatch 
+453.47500 	WNDZ217 	RM	151.4 PL	Schertz Pub Wrks 	Public Works 	FMN 	Public Works 
+154.78500 	WQGI741 	RM	293 NAC	Seguin PD Disp 	Police Dispatch 	P25 	Law Dispatch 
+155.71500 	WQGI741 	RM	203.5 PL	Seguin Fire/EMS 	Fire/EMS Dispatch 	FM 	Fire Dispatch 
+154.43000 	WQGI741 	RM	366 NAC	Seguin Fire Ops 	Fire/EMS Response 	P25 	Fire Dispatch 
+158.84250 	WQGI741 	M	203.5 PL	Seguin Fire Tac1 	Fire Talk Around 	FMN 	Fire-Tac 
+154.85250 	WQGI741 	RM	203.5 PL	Seguin Utilities 	Utilities 	FMN 	Public Works 
+155.52000 	WQGI741 	RM	770 NAC	Seguin ACO 	Animal Control (also used as SPD Tac 1) 	P25 	Public Works 
+155.94000 	WQGI741 	RM	203.5 PL	Seguin Pub Works 	Public Works 	FMN 	Utilities 
+155.11500 	WPEY927 	RM	203.5 PL	TLU Police Disp 	Police Dispatch 	FM 	Law Dispatch 
+451.28750 	WQIJ735 	M	131 DPL	Clemens HS 1 	Samuel Clemens High School Ch. 1 	FMN 	Schools 
+452.46250 	WQES928 	RM	031 DPL	SCUCISD Maint 	Maintenance and Facilities 	FMN 	Schools 
+462.42500 	WQTM324 	RM	503 DPL	BP Steele HS 	Byron P. Steele II High School 	FMN 	Schools 
+463.52500 	WPPT223 	RM	503 DPL	SCUCISD Bus 	Transportation 	FMN 	Schools 
+461.22500 	WPSN426 	RM	77.0 PL	SISD Buses 	School busses 	FM 	Schools 
+464.22500 	WNFC375 	RM	77.0 PL	SISD MAINT 	School Maintenance 	FM 	Schools 
+BearCom (Central Texas NexEdge)	 NXDN NEXEDGE 4800	 Various	Caterpillar	 DMR Motorola Capacity Plus Single Site (TRBO)	 Seguin	Commercial Metals Company	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Seguin	Guadalupe County NEXEDGE	 NXDN NEXEDGE 4800	 Guadalupe County	Guadalupe Valley Electric Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Horizon Telecom (Guadalupe)
+ LTR Standard	 Guadalupe	Horizon Telecom (Seguin UHF)	 LTR Standard	 Seguin	Horizon Telecom (Seguin VHF)	 LTR Standard	 Seguin
+Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	

@@ -1,0 +1,37 @@
+154.01000 	WPLZ508 	M	192.8 PL	WAFIR4 	Fireground 	FMN 	Fire-Tac 
+158.83500 	KQN708 	BM	CSQ	WAPAG 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+155.59500 	WPXB359 	RM	192.8 PL	WASO2 	Sheriff - Outside Agencies 	FMN 	Law Dispatch 
+159.09000 	WPXB359 	RM	29E NAC	WAJAIL 	Sheriff - Jail (encrypted) 	P25E 	Corrections 
+156.24000 	KCL220 	M	173.8 PL	WAHWY PT 	Highways 	FMN 	Public Works 
+453.67500 	WQIP944 	B	CSQ	WACHPAGE 	Courthouse Digital Paging 	FMN 	Data 
+453.80000 	KYN263 	RM	192.8 PL	WAMAINT 	Building Maintenance 	FMN 	Public Works 
+453.85000 	WPSZ207 	RM	192.8 PL	WACOURT 	County Courthouse 	FMN 	Other 
+155.34000 	KTV682 	BM	167.9 PL	EMS B AMC 	Aurora Medical Center Patient Reports 	FMN 	EMS-Talk 
+155.34000 	KVM354 	BM	94.8 PL	EMS - Report 	Washington County Patient Reports 	FMN 	EMS-Talk 
+155.16000 	WNDE870 	M	192.8 PL	Allenton FD 	Fire 	FMN 	Fire-Tac 
+462.57500 	KAC4355 	RM	114.8 PL	Barton Tn 	Public Works 	FMN 	Public Works 
+154.31000 	WPUQ414 	RM	192.8 PL	Germantwn FD A 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+154.23500 	KJW530 	BM	192.8 PL	Germantwn FD B 	Fire Tac B 	FMN 	Fire-Tac 
+155.05500 	WQX544 	RM	192.8 PL	Germantn DPW 	Siren Control/Alarm 	FMN 	Public Works 
+155.55000 	KNHW833 	RM	192.8 PL	Hartford PD 	Police 	FMN 	Law Talk 
+155.92500 	KNGX452 	B	CSQ	HartfordPage 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+453.72500 	KNIH494 	RM	192.8 PL	HartfordTransit 	Transit Service 	FMN 	Transportation 
+451.26250 	 	F	CSQ	HartfordTelm 	Utility SCADA 	FMN 	Data 
+45.48000 	NNCB501 	BM	107.2 PL	Kewaskum DPW 	DPW 	FM 	Public Works 
+154.99500 	KNHY843 	RM	91.5 PL	Newburg FD 	Fire 	FMN 	Fire-Tac 
+155.38500 	WPYL579 	RM	192.8 PL	Richfield FD 	Fire 	FMN 	Fire-Tac 
+154.17500 	WPXP574 	RM	311 DPL	Slinger FD 	Fire 	FMN 	Fire-Tac 
+461.77500 	WNZW429 	RM	210.7 PL	Slinger Sch 	Slinger School District 	FMN 	Schools 
+453.52500 	KNAO485 	RM	100.0 PL	Trenton DPW 	Public Works 	FMN 	Public Works 
+155.88000 	KCJ488 	BM	192.8 PL	West Bend PG 	Fire Paging 	FMN 	Fire Dispatch 
+150.77500 	WPLG715 	M	192.8 PL	West Bend FG 	Fire 	FMN 	Fire-Tac 
+155.49000 	KSF551 	RM	192.8 PL	West Bend PD 	Police 	FMN 	Law Tac 
+453.25000 	KCJ488 	RM	110.9 PL	West BendWtr 	Water Department 	FMN 	Utilities 
+159.18000 	WPKY614 	RM	71.9 PL	West Bend PW 	Public Works 	FMN 	Public Works 
+453.35000 	KNBT457 	RM	156.7 PL	West Bend WW 	Wastewater Treatment Plant 	FMN 	Utilities 
+159.97500 	WPQF474 	RM	67.0 PL	West Bend Ut 	Water Utility 	FMN 	Utilities 
+464.92500 	WNVD229 	RM	146.2 PL	WB Schools 	West Bend School District 	FMN 	Schools 
+462.57500 	 	RM	156.7 PL	West Bend Tn 	DPW 	FMN 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	General Communications (Germantown)	 LTR Standard	 Germantown	General Communications (West Bend)	 LTR Standard
+ West Bend	General Communications NexWave	 NXDN NEXEDGE 4800	 Madison	TRBOconnection-TRBOnexus	 DMR Motorola Connect Plus (TRBO)	 Various	Washington County
+ Project 25 Phase II	 Countywide	WE Energies (900)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Milwaukee	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide

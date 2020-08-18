@@ -1,0 +1,58 @@
+155.83500 	KZE528 	BM	245 DPL	Hunt SO Disp 	Hunt Sheriff CH 1 Dispatch (Greenville PD Ch 2) 	FMN 	Law Dispatch 
+158.92500 	KZE528 	RM	245 DPL	Hunt SO 2 S 	Hunt Sheriff CH 2 South Repeater 	FMN 	Law Tac 
+159.80250 	WQJI697 	RM	365 DPL	Hunt SO Nort 	Hunt Sheriff North Repeater (Dispatch) 	FMN 	Law Dispatch 
+152.42000 	 	M	114.8 PL	Hunt SO16 TA 	Hunt Sheriff CH 16 Car-to-Car 	FM 	Law Tac 
+158.89500 	KKA363 	RM	365 DPL	Hunt SO N 	Hunt Sheriff North Repeater (still used?) 	FM 	Law Talk 
+453.16250 	WQTU811 	RM	165 DPL	Hunt SO Jail 	Hunt County Jail 	FMN 	Corrections 
+158.89500 	KKA363 	BM	CSQ	Hunt Co PDMA 	Hunt Countywide Police Inter-Agency (Greenville Police Ch. 6) 	FM 	Law Talk 
+158.89500 	KKA363 	BM	173.8 PL	Hunt Co PW 	Hunt Co Public Works - Mowers Celeste 	FM 	Public Works 
+451.32500 	WPWV976 	RM	136.5 PL	Hunt Co PCT3 	Hunt County Precinct 3 	FMN 	Other 
+453.48750 	WPWG973 	RM	732 DPL	Hunt Crt Mt 	Hunt Co Courthouse Maintenance 	FMN 	Public Works 
+154.09250 	WPVY292 	RM	143 DPL	Hunt CF1 Dis 	Hunt County Fire/EMS Dispatch (Greenville FD Ch 4) 	FMN 	Fire Dispatch 
+160.08000 	WQJI697 	RM	225.7 PL	Hunt VFD S 	Hunt Co. Fire South Repeater 	FMN 	Fire Dispatch 
+160.08000 	WQJI697 	RM	306 DPL	Hunt VFD N 	Hunt Co. Fire North Repeater 	FMN 	Fire Dispatch 
+154.09250 	WPVY292 	M	143 DPL	Hunt CF2 TA 	Hunt County Fire Talkaround 	FMN 	Fire-Talk 
+158.93250 	WPVY292 	M	143 DPL	Hunt CF3 FG 	Hunt County Fireground 	FMN 	Fire-Tac 
+158.94750 	WPVY292 	M	143 DPL	Hunt CF4 FG 	Hunt County Fireground / Talkaround 	FMN 	Fire-Tac 
+154.44500 	WNHI766 	M	118.8 PL	Hunt CF5 FG 	Hunt County Fireground / Talkaround 	FMN 	Fire-Tac 
+154.01000 	WNHI766 	RM	225.7 PL	Hunt CF6 Rpt 	Hunt County Fireground / Talk-Around (Backup Repeater) 	FMN 	Fire-Tac 
+154.01000 	WNHI766 	M	225.7 PL	Hunt CF7 FG 	Hunt County Fireground / Talkaround 	FMN 	Fire-Tac 
+462.95000 	KDQ955 	BM	156.7 PL	Hunt EMS/PHC 	Hunt County EMS to Presbyterian Hospital of Commerce 	FMN 	Hospital 
+463.00000 	KDQ955 	BM	346 DPL	Hunt EMS/PH2 	Hunt County EMS to Presbyterian Hospital of Greenville 	FMN 	Hospital 
+155.89500 	WXP651 	BM		CaddMills PW 	Public Works 	FM 	Public Works 
+158.80500 	KZC621 	RM	116 NAC	Comm PD Disp 	Commerce Police Ch 1 Dispatch 	P25e 	Law Dispatch 
+158.80500 	KZC621 	M	116 DPL	Comm PD2 Sec 	Commercy Police Ch 2 Secure (uses Voice Inversion) 	FMN 	Law Tac 
+154.19000 	WNMQ530 	BM	114.8 PL	Comm FD Disp 	Commerce Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.06250 	KKA363 	RM	371 DPL	Comm PW Disp 	Commerce Public Works 	FMN 	Public Works 
+158.73750 	WQFB680 	RM	293 NAC	Grnv PD Disp 	Greenville Police Dispatch 	P25e 	Law Dispatch 
+158.73750 	WQFB680 	RM	346 DPL	Grnv PD Ana 	Greenville Police Dispatch - Analog 	FMN 	Law Dispatch 
+155.49000 	WQAB587 	RM	114.8 PL	Grnv PD COPS 	Greenville Police Citizens on Patrol 	FMN 	Law Tac 
+155.92500 	 	BM	432 DPL	Grnv PD5 TA 	Greenville Police Ch 5 Talk-Around 	FMN 	Law Talk 
+155.49000 	WNBV340 	M	CSQ	Grnv PD7 CID 	Greenville Police Ch 7 CID Talk-Around 	FMN 	Law Talk 
+453.60000 	KNEN656 	RM	401 NAC	Grnv FD Disp 	Greenville FD Dispatch 	P25 	Fire Dispatch 
+453.60000 	KNEN656 	RM	732 DPL	Grnv FD Alrt 	Greenville FD Station Alerts 	FMN 	Fire Dispatch 
+453.60000 	KNEN656 	M	CSQ	Grnv FD2 Atk 	Greenville Fire Ch 2 Attack Group 	FMN 	Fire-Tac 
+154.28000 	WNHI766 	M	CSQ	Grnv FD3 MA 	Greenville Fire Ch 3 Statewide Mutual Aid 	FMN 	Interop 
+851.35000 	WNYR705 	RM	465 DPL	Grnvl PW 	Greenville Public Works 	FM 	Public Works 
+453.73750 	WPPX455 	RM		Quinlan PWPD 	Quinlan Public Works / Public Safety Talk-Around 	FMN 	Multi-Talk 
+46.58000 	KNFP446 	BM	CSQ	Quinlan PW 	Quinlan Public Works 	FM 	Public Works 
+153.98000 	WPJG479 	BM	143 DPL	West Tawk FD 	West Tawakoni Fire 	FM 	Fire-Tac 
+154.16000 	WNVR406 	BM	114.8 PL	WolfeCity FG 	Wolfe City Fireground / Unit-to-Unit 	FMN 	Fire-Talk 
+156.21000 	WNGI599 	RM	445 NAC	A&M Com PD 	Police Dispatch 	P25 	Law Dispatch 
+156.21000 	WNGI599 	RM	446 DPL	A&M Com PDa 	Police Analog 	FMN 	Law Dispatch 
+453.77500 	WPLD315 	RM		A&M Com TS 	Technology Services 	FM 	Schools 
+461.22500 	WQPG996 	RM	CC 1TG *SL 2	A&M Com IT Maint 	Information Technology Maintenance 	DMR 	Schools 
+464.52500 	WNRP771 	RM	192.8 PL	A&M Com Mt 	Maintenance 	FM 	Schools 
+451.90000 	WPRM395 	RM		BLAND ISD 	Operations 	FM 	Schools 
+462.05000 	WPGG918 	RM		COMMERCE ISD 	Operations 	FM 	Schools 
+452.02500 	WPVD211 	RM		GREENVIL ISD 	ISD Ops and Busses 	FM 	Schools 
+452.36250 	WQGU354 	RM	173.8 PL	GRNVL ISD 	School District Operations 	FM 	Schools 
+462.01250 	WQGU354 	M		GISD MOBILE 	School District Simplex Ops 	FM 	Schools 
+463.81250 	WQGU354 	M		GISD MOBILE 	School District Simplex Ops 	FM 	Schools 
+464.13750 	WQGU354 	M		GISD MOBILE 	School District Simplex Ops 	FM 	Schools 
+467.01250 	WQGU354 	M		GISD MOBILE 	School District Simplex Ops 	FM 	Schools 
+468.81250 	WQGU354 	M		GISD MOBILE 	School District Simplex Ops 	FM 	Schools 
+452.42500 	WPMJ391 	RM		QUINLAN ISD 	Operations 	FM 	Schools 
+451.32500 	 	RM	88.5 PL	WOLFCITY ISD 	Wolf City ISD School Buses 	FM 	Schools 
+Crossroad Communications	 LTR Standard	 Unknown	Farmers Electric Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Inter-County Communications	 LTR Standard
+ Greenville	Oncor Energy	 EDACS Narrowband Networked	 Various	

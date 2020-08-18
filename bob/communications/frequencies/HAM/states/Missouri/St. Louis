@@ -1,0 +1,251 @@
+155.55000 	KNFA348 	BM	192.8 PL	StL Muni-North  	(Old) Police: Muni-North - Jennings/Normandy 	FMN 	Law Dispatch 
+155.47500 	KAD965 	BM	79.7 PL	MOLEEN 79.7 	Nationwide Law Enforcement Emergency [Ch 10] 	FMN 	Law Talk 
+461.32500 	WPJH890 	RM		SLC OEM UHF 	St. Louis County Skywarn - Wx net UHF SKYWARN 	FMN 	Emergency Ops 
+854.06250 	WQJY940 	RM	351 DPL	StLCo RF Data 1 	ECC - Warning Siren Data 	FMN 	Data 
+854.18750 	WQJY940 	RM	351 DPL	StLCo RF Data 2B 	ECC - Warning Siren Data 	FMN 	Data 
+854.18750 	WQJY940 	RM	411 DPL	StLCo RF Data 2A 	ECC - Warning Siren Data 	FMN 	Data 
+856.61250 	WQNP228 	RM	050 DPL	StLCo RF Data 3A 	ECC - Warning Siren Data 	FMN 	Data 
+856.61250 	WQNP228 	RM	351 DPL	StLCo RF Data 3B 	ECC - Warning Siren Data 	FMN 	Data 
+154.34750 	WPZF538 	RM		StLCo DMAT 	Disaster Medical Assistance Team (Temporary Repeater) 	FMN 	Emergency Ops 
+851.01250 	WPEU462 	RM	156.7 PL	8CALL90 	800 MHz Calling Channel 	FMN 	Interop 
+851.51250 	WPEU462 	RM	156.7 PL	8TAC91 	800 MHz Tac Channel 	FMN 	Interop 
+451.61250 	WPXC496 	F		MSD Lemay 3 	Lemay Treatment Plant 	FMN 	Data 
+468.87500 	WQTW239 	F		MSD Lemay 4 	Lemay Dump Station, UV Blding 	Telm 	Data 
+451.36250 	WPLT464 	M		MSD Lemay 5 	Wastewater Data (Lemay; licensed to state) 	Telm 	Data 
+451.61250 	WPXC496 	M		MSD Lemay 6 	Lemay Treatment Plant 	Telm 	Data 
+464.50000 	 	M	423 DPL	MSD Lemay 	Lemay Treatment Plant: Ops 	FMN 	Public Works 
+456.31250 	WQGN409 	M		MSD Meramec 1  	Meramec Treatment Plant 	FMN 	Public Works 
+451.31250 	WQGN409 	M		MSD Meramec 2  	Meramec Treatment Plant 	Telm 	Data 
+158.88000 	KNBC996 	M		MSD SH 1 	Operations (Sunset Hills) 	FMN 	Public Works 
+453.75000 	KNBC996 	RM		MSD SH 2 	Sewer Data (Sunset Hills) (CSQ) 	Telm 	Data 
+453.67500 	KNGU704 	RM		MSD Flor 1 	Operations (Florissant) 	FMN 	Public Works 
+453.67500 	KNGU704 	RM		MSD Flor 1 	Data (Florissant) (CSQ Data) 	Telm 	Data 
+462.97500 	KMK409 	RM	192.8 PL	Abbott EMS MO 	EMS: Dispatch - MO (Marlborough) [MED-10] 	FMN 	EMS Dispatch 
+462.95000 	KMK409 	RM	210.7 PL	Abbott EMS IL 	EMS: Dispatch - IL (Belleville) [MED-9] 	FMN 	EMS Dispatch 
+463.17500 	KMK409 	RM	192.8 PL	MED-8 192.8 	Patient Reports - St Mary RH/DePaul 	FMN 	Hospital 
+463.32500 	KXH350 	RM	141.3 PL	AbbEMS Transport 	Medical Transport / Shuttle Bus 	FMN 	Transportation 
+452.67500 	WRCF930 	RM	CC 1TG 1SL 1	MedicOne EMS 1   	EMS: Dispatch 	DMR 	EMS Dispatch 
+452.67500 	WRCF930 	RM	CC 1TG 2SL 2	MedicOne EMS 2  	EMS: Ops 	DMR 	EMS Dispatch 
+154.32500 	KAF919 	B	210.7 PL	CCE Fire North 	Fire: Tone-Outs - North 	FMN 	Fire Dispatch 
+154.22000 	KAF919 	B	114.8 PL	CCE Fire Central 	Fire: Tone-Outs - Central 	FMN 	Fire Dispatch 
+154.16000 	KAF919 	B	192.8 PL	CCE Fire South 	Fire: Tone-Outs - South 	FMN 	Fire Dispatch 
+460.60000 	KBG256 	RM	192.8 PL	Central Fire H2H 	Fire: House-to-House (repeats 154.325) 	FMN 	Fire Dispatch 
+155.79000 	KAF575 	BM	173.8 PL	ECDC Interop 	Interop 	FMN 	Interop 
+151.05500 	KNAX731 	BM	412 DPL	ECDC Fire 	Fire: Tone-Outs / Dispatch (simulcast on SLATER) 	FMN 	Fire Dispatch 
+155.52000 	KAD965 	BM	114.8 PL	RH/Br Police 	(OLD) Police: Dispatch [Ch 1] (with Rock Hill) 	FMN 	Law Dispatch 
+155.82000 	KAX585 	BM	173.8 PL	Brnt/RH Fire 	(OLD) Fire: Dispatch (with Rock Hill) 	FMN 	Law Talk 
+158.91000 	KAB954 	M		WbGrv PD Tac 	(old) Police: Car-to-Car/Tac 	FMN 	Law Tac 
+155.62500 	KAB954 	BM		WbGr PD C2C3 	(old) Police: Car-to-Car/Tac [Ch 3] 	FMN 	Law Tac 
+153.69500 	WPKM289 	BM	203.5 PL	WG PW/PDtac4 	(old) Police: Tac [Ch 4]/ Public Works 	FMN 	Law Tac 
+155.22000 	 	BM	114.8 PL	HEAR220 114.8 	220 System 	FMN 	Hospital 
+464.55000 	 	M	67.0 PL	CrCr GolfCrs 	Creve Coeur Golf Course (Municipal) 	FMN 	Public Works 
+154.98000 	WNBY943 	M	173.8 PL	Ballwin Police 	(Old/Backup) Police 	FMN 	Law Tac 
+154.98000 	WNBY943 	M		Ballwn Local 	(Old/Backup) Local Government Ops 	FMN 	Public Works 
+463.78750 	WQVL918 	RM		BallwinGolfCours 	Ballwin Golf Course (Voice/Data) 	FMN 	Public Works 
+158.91000 	KB67104 	M		BelNor PWrks 	Public Works 	FMN 	Public Works 
+155.05500 	KYS891 	BM	192.8 PL	BRdg PD Tac 	Police: Car-to-Car/Tactical 	FMN 	Law Tac 
+154.04000 	 	BM	CSQ	BelR Police 	Police: Local  	FMN 	Law Tac 
+156.09000 	KNGA967 	RM	100.0 PL	BerklyPolice 	Police: Dispatch 	FMN 	Law Dispatch 
+154.40000 	KDD997 	BM		Berkely Fire 	Fire:  	FMN 	Fire Dispatch 
+155.02500 	WQLX919 	M		Berk PubWrks 	Public Works 	FMN 	Public Works 
+155.80500 	KNIH353 	BM		Blkjk ElecWtrSew 	Electric / Water / Sewer 	FMN 	Public Works 
+453.37500 	WNPM675 	RM	293 NAC	Bridgeton Police 	(OLD) Police: Dispatch 	P25 	Law Dispatch 
+453.05000 	WNPM675 	BM		Bridgeton Local 	Local 	FMN 	Multi-Dispatch 
+453.85000 	KVR948 	RM	107.2 PL	Brid ParkRec/Bus 	Parks / Recreation Center/Buses? 	FMN 	Public Works 
+153.87500 	KB65536 	M	103.5 PL	Char Police c2c 	Police: Car-to-Car  	FMN 	Law Tac 
+854.51250 	WNYQ438 	RM	311 DPL	Chst PubWrks 	Public Works / Snow Plows 	FM 	Public Works 
+155.01000 	KAG843 	BM	103.5 PL	Ferg/ClVl Police 	(OLD) Police: Dispatch 	FMN 	Law Dispatch 
+159.21000 	KNHS875 	BM		ClVal Police Det 	(OLD) Police: Detectives (CSQ or 110.9 PL) 	FMN 	Law Tac 
+155.43000 	KOL768 	BM	186.2 PL	DesP PD/FD 	(OLD) Police / Fire [Ch 1] 	FMN 	Law Dispatch 
+453.52500 	WQA732 	RM	156.7 PL	DesP PW/PD-A 	Public Works / Police: Alternate 	FMN 	Public Works 
+158.92500 	KWT733 	RM	103.5 PL	Eurk PD C2C 	Police: Car-to-Car (Former) 	FMN 	Law Tac 
+155.14500 	KWT733 	BM	103.5 PL	Eurk PubWrks 	Public Works  	FMN 	Public Works 
+155.14500 	KWT733 	F		Eurk PW WDD 	Water Data (CSQ) 	Telm 	Data 
+158.95500 	WNMJ345 	BM	103.5 PL	Fntn PubWrks 	Public Works 	FMN 	Public Works 
+155.04000 	KDP315 	RM	186.2 PL	Flor PubWrk/Watr 	Public Works / Water [WPTG767 in] 	FMN 	Public Works 
+465.56250 	WNUH578 	F	131.8 PL	Flor Police RF 	Old Remote Link (Tone Carrier - Active 1/20; Expired 2015) 	FMN 	Law Tac 
+158.73750 	WPQZ378 	M		Glnd PD C2C 	(Old?) Police: Car-to-Car 	FMN 	Law Tac 
+151.48250 	KFD596 	B	123.0 PL	Glendale Fire 	Fire: Tone-Outs 	FMN 	Fire Dispatch 
+460.22500 	KNNF498 	RM	100.0 PL	Jennings Zoning  	Building/Zoning (203.5 is ?) 	FMN 	Public Works 
+158.76000 	KBA754 	RM	146.2 PL	Krkwd Fire T/Out 	Fire: Tone-Outs 	FMN 	Fire Dispatch 
+158.76000 	KBA754 	RM	94.8 PL	Krkwd PWks 	Public Works / Municipal Services / Rangers 	FMN 	Public Works 
+153.56000 	KNIQ230 	RM	183.5 PL	Kirkwood PW 	Public Utlities / Parks: Water Dept 	FMN 	Public Works 
+153.63500 	KNIQ230 	M	94.8 PL	WGrv Utility 	Electrical 	FMN 	Public Works 
+151.67000 	WQRX762 	F		Kirkwood WDD 	Water Data (CSQ) 	Telm 	Data 
+855.23750 	WNDG280 	RM	371 DPL	MHts Police 	(OLD) Police: Dispatch [Ch 1] 	FM 	Law Dispatch 
+856.23750 	WNDG280 	RM	371 DPL	MHts PD Alt2 	(OLD) Police: Alternate [Ch 2] 	FM 	Law Tac 
+855.96250 	WNGE615 	RM		MHts PWrks 	Public Works / Police: Tactical [Ch 3] 	FM 	Public Works 
+159.16500 	WPIG779 	BM		Normandy PW 	Public Works (103.5 PL?) 	FMN 	Public Works 
+158.94000 	KBJ204 	BM	026 DPL	Olvt Police c2c 	(OLD) Police: Car-to-Car (also Dispatch 114.8?) 	FMN 	Law Tac 
+158.94000 	KBJ204 	BM		Oliv PubWrks 	Public Works 	FMN 	Public Works 
+154.75500 	KAD427 	BM	114.8 PL	Ovlnd*Police 	(OLD) Police: Dispatch  	FMN 	Law Dispatch 
+154.04000 	KLR430 	BM	103.5 PL	Ovrld Police c2c 	(OLD) Police: Car-to-Car [Ch 2] 	FMN 	Law Tac 
+155.08500 	WQRM658 	M		PLwn Police 	Police: Admin / City Ops 	FMN 	Multi-Tac 
+154.37000 	KJR350 	BM	192.8 PL	UCity Fire 	(OLD) Fire: Dispatch/Response [Ch 1] 	FMN 	Fire Dispatch 
+155.02500 	WPRH361 	BM	103.5 PL	ValPrk PubWrks  	Public Works  	FMN 	Public Works 
+937.40000 	WQEK497 	RM	127.3 PL	schbus 937.4 127 	School Buses (kindergarteners; Florissant area; others) 	FMN 	Schools 
+461.07500 	WPKS796 	RM	162.2 PL	FS Bus StL10 	First Student Buses (Clayton) 	FMN 	Schools 
+461.37500 	WQBJ552 	RM	173.8 PL	FS Bus StL-4 	First Student Buses 	FMN 	Schools 
+461.65000 	WNJQ665 	RM	179.9 PL	FS Bus StL-2 	First Student Buses (R-units-Clayton)  	FMN 	Schools 
+462.25000 	WPOY392 	RM		FS Bus Clytn 	First Student Buses (Clayton) (D371?) 	FMN 	Schools 
+463.32500 	WPSJ492 	RM	162.2 PL	FS Bus StL-9 	First Student Buses (H-units-StL City) 	FMN 	Schools 
+464.10000 	WNJQ665 	RM	162.2 PL	FS Bus StL-1 	First Student Buses (Brown Base-Clayton) 	FMN 	Schools 
+464.32500 	WPIV909 	BM		FS Bus StL-8 	First Student Buses (Bridgeton) 	FMN 	Schools 
+464.65000 	WPKL997 	RM	306 DPL	FS Bus StL-3 	First Student Buses (Clayton) 	FMN 	Schools 
+464.67500 	WQBJ552 	RM		FS Bus StL-5 	First Student Buses (Clayton) [not D503] 	FMN 	Schools 
+855.51250 	WPHK739 	RM	156.7 PL	FS Bus StL-6 	First Student Buses (Clayton)  	FM 	Schools 
+860.66250 	WNVL457 	RM	031 DPL	FS Bus StL-7 	First Student Buses / Phone Patch (Clayton)  	FM 	Schools 
+461.17500 	KNCC771 	RM	146.2 PL	SSD Bus A 	Buses (heard Johnson Wabash Ferguson) 	FMN 	Schools 
+451.52500 	WRDP965 	RM	CC 0TG 100SL *	SSD LearningCntr 	SSD Learning Center (need CC) 	DMR 	Schools 
+451.63750 	WQJI388 	RM	CC 8TG 400SL 1	SSD Neuw 400 	Neuwoehner School: Admin (Clayton Rd) 	DMR 	Schools 
+461.05000 	WPXR980 	RM	162.2 PL	FFSDR2 Bus2 	Buses  	FMN 	Schools 
+461.75000 	WPEQ563 	RM	146.2 PL	FFSDR2 Bus2 	Buses  	FMN 	Schools 
+462.17500 	KAO958 	RM	146.2 PL	FFSDR2 Bus3 	Buses  	FMN 	Schools 
+464.02500 	KAO958 	RM		FFSDR2 Bus4 	Buses 	FMN 	Schools 
+462.17250 	FRS-7 	M	146.2 PL	McCluer HS 	McCluer High School: Ops 	FMN 	Schools 
+463.62500 	WPRA423 	RM	506 DPL	HSD Sec/Maint 	Security / Maintenance [Ch 1] 	FMN 	Schools 
+464.75000 	KNCC910 	RM	712 DPL	HSD Bus Ops 	Buses Operations 	FMN 	Schools 
+463.71250 	WQNB364 	RM		HSD WHS Ops A 	West High School :Security/Admin 	FMN 	Schools 
+457.71250 	WQBN678 	M	516 DPL	HSD EHS Opa A 	East High School: Ops  	FMN 	Schools 
+452.48750 	WPRA423 	M	156 DPL	HSD Armstg Ops A 	Armstrong Elementary: Admin/Bus Loading Ops 	FMN 	Schools 
+151.74500 	WRAW326 	RM	412 DPL	Jennings School 	Operations 	FMN 	Schools 
+151.74500 	WRAW326 	RM	CC 7TG 10SL 1	JenningsSchool A 	Admin / Ops 	DMR 	Schools 
+462.18750 	WQKQ934 	RM	351 DPL	Kirkwood SchBus  	Buses 	FMN 	Schools 
+463.48750 	WQZC734 	RM	CC 5TG 440296SL 1	LindSD Ops440296 	Ops / Custodians 	DMR 	Schools 
+451.45000 	KNJX503 	RM	CC 7TG 999SL 1	MehlSchBus A 	Buses  	DMR 	Schools 
+461.17500 	KNJX503 	RM		MehlSchBus B 	Buses (CC5 is Spec Sch Dist) 	DMR 	Schools 
+452.66250 	WPNP676 	RM	162.2 PL	Mehl Sch Admin 	Admin / Operations 	FMN 	Schools 
+452.58750 	 	M	71.9 PL	Bierbaum Elemen 	Bierbaum Elementary School 	FMN 	Schools 
+451.32500 	WQCV271 	RM	632 DPL	PSD Buses 1 	Buses 	FMN 	Schools 
+461.15000 	WQCV271 	RM	654 DPL	PSD Buses 2 	Buses (West HS) 	FMN 	Schools 
+451.95000 	WQCV271 	RM	632 DPL	PSD Buses 3 	Buses  	FMN 	Schools 
+464.52500 	WQCV271 	RM	411 DPL	PSD Buses 4 	Buses (West HS) 	FMN 	Schools 
+463.98750 	WQKL633 	RM	074 DPL	PSD Buses A 	Buses (South HS) / Maintenance 	FMN 	Schools 
+464.91250 	WQKL633 	RM	565 DPL	PSD SHS Sec A1 	Security (South HS) 	FMN 	Schools 
+464.91250 	WQKL633 	RM	627 DPL	PSD SHS A2 	Operations (South HS-Manchester) 	FMN 	Schools 
+464.50000 	 	M		PSD SHS Ops 	Parkway South High School: Ops 	FMN 	Schools 
+461.12500 	WPEQ958 	RM	192.8 PL	PattSch BusA 	Buses [Expired 4/14] 	FMN 	Schools 
+464.92500 	WQWB451 	RM	156.7 PL	PattSch BusB 	Buses  	FMN 	Schools 
+461.70000 	WQZQ413 	RM	CC 4TG 1SL 1	Riten Sch Ops A 	Operations 	DMR 	Schools 
+151.53500 	WQIG815 	RM	CC 5TG 400SL 2	RGSD CMS Ops 400 	Central Middle: Admin 	DMR 	Schools 
+151.53500 	WQIG815 	RM	CC 5TG 500SL 2	RGSD CMS Ops 500 	Central Middle: Ops  	DMR 	Schools 
+151.53500 	WQIG815 	RM	CC 5TG 20SL 1	RGSD CMS Ops D1 	Central Middle: Ops (old?) 	DMR 	Schools 
+151.80500 	WQIG815 	RM	CC 5TG 200SL 1	RGSD HS Ops 200 	High: Security / Admin  	DMR 	Schools 
+151.80500 	WQIG815 	RM	CC 5TG 300SL 2	RGSD HS Ops 300 	High: Office/Custodians 	DMR 	Schools 
+153.05000 	WQIG815 	RM	CC 5TG 400SL 2	RGSD WMS Ops 	Westview Middle: Admin/Security 	DMR 	Schools 
+153.05000 	WQIG815 	RM	CC 5TG 500SL 2	RGSD WMS Ops B 	Westview Middle: Custodians? 	DMR 	Schools 
+152.87750 	WQIG815 	RM	CC 5TG *SL *	RGSD D/O Ops B2 	District Office: Ops 	DMR 	Schools 
+152.87750 	WQIG815 	RM	CC 5TG 500SL 2	RGSD D/O Ops 500 	Ops 	DMR 	Schools 
+152.87750 	WQIG815 	RM	CC 5TG 501SL *	RGSD D/O Ops 501 	Security / Admin (S1/2) 	DMR 	Schools 
+152.87750 	WQIG815 	RM	CC 5TG 521SL *	RGSD D/O Ops 521 	Track Meet Results (S1/2) 	DMR 	Schools 
+155.20500 	KNDZ294 	M	146.2 PL	RGSD Buses 	Bus: Dispatch (No longer in use?) (was BM) 	FMN 	Schools 
+154.51500 	WQIG815 	M	074 DPL	RGSD Ops 3 	Portables 	FMN 	Schools 
+154.54000 	WQIG815 	M		RGSD Ops 1 	Portables (not 151.4) 	FMN 	Schools 
+463.80000 	WQBP439 	RM	CC 1TG 20SL 1	R6 Bus Wwd 	Buses (Wildwood) 	DMR 	Business 
+451.40000 	WQBP439 	RM	CC 1TG 20SL 1	R6 Bus Fntn 	Buses (Fenton) 	DMR 	Schools 
+461.71250 	WQBP439 	RM	CC 1TG 20SL 1	R6 Bus Chfld 	Buses (Chesterfield Elementary) 	DMR 	Business 
+463.36250 	WQBP439 	RM	546 DPL	RS Ops Wwd 	Operations (Wildwood) 	FMN 	Schools 
+463.96250 	WQBP439 	RM	CC 1TG 30SL 1	R6 Ops Chfd 	Operations (Chesterfield) 	DMR 	Schools 
+464.07500 	WQBP439 	M	532 DPL	R6 MHS Admin 	Marquette High School: Admin (lic. as R) 	FMN 	Schools 
+151.80500 	WQRX755 	BM		UCty Schools 	Operations (Richmond Heights) (151.4?) 	FMN 	Schools 
+464.57500 	WNXD324 	RM	654 DPL	MISLCDS Bus 	Buses 	FMN 	Schools 
+457.68750 	WNXD324 	M	CSQ	MISLCDS Ops A 	Ops (Bus Loading) 	FMN 	Schools 
+463.62500 	WQCD444 	RM	110.9 PL	Principia 1 	Operations 	FMN 	Schools 
+462.27500 	WQFG952 	RM		CBC Maint 1 	Maintenance/Supervision 	FMN 	Schools 
+467.12500 	WQFG952 	M		CBC Maint 2 	Maintenance/Supervision 	FMN 	Schools 
+467.31250 	WQFG952 	M		CBC Maint 3 	Maintenance/Supervision 	FMN 	Schools 
+461.10000 	WQFV263 	M		CS Maint 1 	Maintenance 	FMN 	Schools 
+461.48750 	WQFV263 	M		CS Maint 2 	Maintenance 	FMN 	Schools 
+461.56250 	WQFV263 	M		CS Maint 3 	Maintenance 	FMN 	Schools 
+466.56250 	WQFV263 	M		CS Maint 4 	Maintenance 	FMN 	Schools 
+451.56250 	WQHL700 	RM		FU Security1 	Security (also DMR) 	FMN 	Security 
+451.61250 	WQHL700 	RM		FU Security2 	Security (also DMR) 	FMN 	Security 
+451.71250 	WQHL700 	RM		FU Security3 	Security (also DMR) 	FMN 	Security 
+451.62500 	KNDD561 	RM	074 DPL	MU Security 	Security 	FMN 	Security 
+461.01250 	KNDD561 	RM	432 DPL	MU Maintnce 	Maintenance (Low Power) 	FMN 	Business 
+464.47500 	KNDD561 	BM		MU Ops 	Operations 	FMN 	Business 
+464.05000 	WQNF810 	RM	123.0 PL	MoBapCollege 	Security / Maintenance 	FMN 	Schools 
+151.16750 	WQXW558 	RM	CC 1TG 1677715SL 1	SLCC Cass Emerg 	Emergency Call Boxes (Cass Ave)  	DMR 	Emergency Ops 
+151.16750 	WQXW558 	RM	CC 1TG 1SL 1	SLCC Cass Ave 	Operations (Cass Ave)  	DMR 	Schools 
+151.20500 	WQXW558 	RM	CC 4TG 1677215SL 2	SLCC Brdwy Emerg 	Emergency Call Boxes (300 S. Broadway) 	DMR 	Emergency Ops 
+151.65500 	KD45285 	M		StLCC Port 1 	Operations (Broadway)  	FMN 	Schools 
+154.13750 	WQXW558 	RM		SLCC Meramec 	Operations (Meramec) 	DMR 	Schools 
+155.53500 	KQL917 	RM		StLCC Police 	Campus Police 	DMR 	Law Dispatch 
+155.53500 	KLW330 	BM	CC 2TG 200SL 1	StLCC PD 2 	Campus Police (Florrisant Valley-Fergeson) 	DMR 	Law Dispatch 
+155.53500 	KQL917 	BM		StLCC PD 3 	Campus Police (Forest Park) (162.2?) 	FMN 	Law Dispatch 
+155.53500 	KRT720 	RM	82.5 PL	StLCC PD 1 	Campus Police (Meramec-Kirkwood) (with Telephone interconnect) 	FMN 	Law Dispatch 
+155.53500 	WQPG463 	RM	CC 4TG 300SL 1	StLCC PD 4 	Campus Police: Dispatch 	DMR 	Law Dispatch 
+155.53500 	 	RM	CC 4TG 200SL 1	StLCC PD ? 	Campus Police: Dispatch (heard Ferguson) 	DMR 	Law Dispatch 
+155.53500 	WQPG463 	RM	CC 9TG 16777215SL 2	StlCC 16777215 	Emergency Call Boxes  	DMR 	Emergency Ops 
+452.17500 	WNXA653 	RM		STLCC PPKW2 	Operations (Kirkwood) 	FMN 	Schools 
+452.17500 	WQGV481 	RM		StLCC WW 	Operations (Wildwood) 	FMN 	Schools 
+452.88750 	WNXA653 	RM	CC 7TG 3000SL 2	SLCC StlC A 	Operations (St Louis City) 	DMR 	Schools 
+453.47500 	WQNB565 	BM		StLCC CBx FV 	Call Boxes (Florrisant Valley-Ferguson) (CSQ Hard Data) 	Telm 	Data 
+453.47500 	KQL917 	BM		StLCC CBxFP 	Call Boxes (Forest Park)  	Telm 	Data 
+461.55000 	WNXA653 	RM	151.4 PL	StLCC PP 3 	Maintenance / Ops (StL,Kirkwood,Ferguson) (not 118.8) 	FMN 	Schools 
+462.37500 	WNXA653 	RM		StLCC PP*6 	Operations (both) 	FMN 	Schools 
+464.85000 	WNRF515 	RM	151.4 PL	StLCC PP 4 	Physical Plant (StL,Kirkwood,Ferguson) 	FMN 	Schools 
+464.85000 	WQGV481 	RM	151.4 PL	StLCC PP 5 	Physical Plant (Wildwood Campus) (CW-ID CSQ) 	FMN 	Schools 
+464.97500 	KSP880 	BM		StLCC PP Fer 	Physical Plant (Ferguson) 	FMN 	Schools 
+467.87500 	WPKR906 	M		StLCC Port 2 	On-Campus Ops/Activites (Ferguson) 	FMN 	Schools 
+468.83750 	WPDM680 	M		StLCC Port 3 	Operations (countywide) 	FMN 	Schools 
+469.26250 	WPDM680 	M		StLCC Port 4 	Operations (countywide) 	FMN 	Schools 
+451.72500 	WPTL320 	RM	CC 1TG *SL 1	UofM 451725 SL1 	Operations 	DMR 	Schools 
+451.72500 	WPTL320 	RM	CC 1TG *SL 2	UofM 451725 SL2 	Emerg Enc Bcast OVCM Private Call 	DMR 	Schools 
+452.97500 	WPTL320 	RM	CC 1TG 110SL *	UofM MH Ops 110 	Operations (Marillac Hall) 	DMR 	Schools 
+452.97500 	WPTL320 	RM	CC 1TG *SL *	UofM MH Ops  	Maintenance (Marillac Hall) 	DMR 	Schools 
+451.83750 	WQVZ569 	RM	CC 1TG 110SL 1	UofM 110 Maintnc 	Maintenance (Venton Hall) 	DMR 	Schools 
+464.83750 	WQIN401 	RM	143 DPL	UofM Parking 1 	Parking Department  	FMN 	Schools 
+468.42500 	WQIN401 	M		UofM Parking 2 	Parking Department 	FMN 	Schools 
+467.05000 	WQIN401 	M		UofM Parking 3 	Parking Department  	FMN 	Schools 
+464.76250 	WPIE211 	RM		UofM Research 	Science Research Complex (Normandy - LP R?) 	FMN 	Schools 
+461.68750 	WPTL320 	M		UofM Maintenance 	Maintenance 	FMN 	Schools 
+461.38750 	WPZC595 	RM	131.8 PL	UofM TPAC R1 	Touhill Performing Arts Center: Audio/Video Ops 	FMN 	Schools 
+452.80000 	WQNB249 	RM	167.9 PL	UofM TPAC R2 	Touhill Performing Arts Center: Ops 	FMN 	Schools 
+461.30000 	WQNB249 	RM	127.3 PL	UofM TPAC R3 	Touhill Performing Arts Center: Audio/Video/Stage Ops 	FMN 	Schools 
+464.05000 	WQNB249 	RM	114.8 PL	UofM TPAC R4 	Touhill Performing Arts Center: Audio Ops 	FMN 	Schools 
+462.78750 	WPZC595 	M		UofM TPAC P1 	Touhill Performing Arts Center: Ops (D165?) 	FMN 	Schools 
+462.18750 	WQCD505 	M		UofM TPAC P4 	Touhill Performing Arts Center: Stage Activites 	FMN 	Schools 
+462.51250 	WQCD505 	M		UofM TPAC P5 	Touhill Performing Arts Center: Stage Activites 	FMN 	Schools 
+467.18750 	WQCD505 	M		UofM TPAC P6 	Touhill Performing Arts Center: Stage Activites 	FMN 	Schools 
+467.51250 	WQCD505 	M		UofM TPAC P7 	Touhill Performing Arts Center: Stage Activites 	FMN 	Schools 
+467.76250 	WQCD505 	M	146.2 PL	UofM TPAC P8 	Touhill Performing Arts Center: Ops/Carrier (Wireless Mic?) 	FMN 	Schools 
+467.78750 	WQCD505 	M		UofM TPAC P9 	Touhill Performing Arts Center: Stage Activites 	FMN 	Schools 
+461.03750 	WPZC595 	M		UofM S/W Op1 	Touhill Performing Arts Center: Ops - Campuses (Statewide) 	FMN 	Schools 
+461.06250 	WPZC595 	M		UofM S/W Op2 	Touhill Performing Arts Center: Ops - Campuses (Statewide) 	FMN 	Schools 
+159.09000 	KLU447 	RM	723 DPL	WU Security V1 	Campus Police  	FMN 	Security 
+453.40000 	KLU447 	RM	146.2 PL	WU Security U1 	Campus Police 	FMN 	Security 
+452.42500 	WNVA581 	RM	624 DPL	WU Security 2 	Security / Maintenance [Expired 12/14] 	FMN 	Security 
+461.10000 	WPTK536 	RM	131.8 PL	WU Security 3 	Guards (LP) 	FMN 	Security 
+451.82500 	WNVA581 	RM	127.3 PL	WU Security 4 	Security 	FMN 	Security 
+462.07500 	WPTK536 	RM	251 DPL	WU Security 5 	Learning Center: Ops (LP) 	FMN 	Security 
+462.45000 	WPTK536 	RM		WU Security 6 	Safety / Security (LP) 	FMN 	Security 
+461.95000 	WNVA581 	RM	115 DPL	WU Kitchens 	Kitchen / Lounges: Cleaning [Expired 12/14] 	FMN 	Schools 
+155.26500 	WPEC247 	M		WU Transport 	Transportation (not D516) 	FMN 	Schools 
+464.32500 	WPAA245 	RM	263 DPL	WU Ops 8 	Emergency Maintenance (Phone Patch) 	FMN 	Schools 
+461.95000 	WPLJ303 	RM	054 DPL	WU Ops 9 	Maintenance  	FMN 	Schools 
+464.77500 	WPLJ303 	M		WU Ops 10 	Operations 	FMN 	Schools 
+464.92500 	WNVA581 	RM	CC 1TG 1SL 1	WU FM Maint A 	Facilities - Phone Patch [Expired 12/14] 	DMR 	Schools 
+464.92500 	WNVA581 	RM	CC 1TG 200SL 1	WU FM Maint 1 	Facilities Management (Maintenance) [Expired 12/14] 	DMR 	Schools 
+464.92500 	WNVA581 	RM	CC 1TG 200SL 2	WU FM Maint 2 	Facilities Management (Maintenance) [Expired 12/14] 	DMR 	Schools 
+451.82500 	WNVA581 	RM	CC 1TG 1SL 1	WU FM Maint DMR 	Facilities Management (Maintenance) [Expired 12/14] 	DMR 	Schools 
+461.51250 	WQHI219 	RM	172 DPL	WU CampusService 	Campus Services 	FMN 	Schools 
+464.82500 	WNDL206 	RM	CC 1TG 1SL 1	WU FM Maint A1 	Facilities Management (Maintenance) MCC/MCM McMillian 	DMR 	Schools 
+462.11250 	WPMT954 	RM		Webster Univ 	Operations 	FMN 	Schools 
+461.43750 	WPMT954 	M		Webster Ops 2 	Admin/Security/Maintenance 	FMN 	Schools 
+461.63750 	WPMT954 	M		Webster Ops 3 	Admin/Security/Maintenance 	FMN 	Schools 
+461.96250 	WPMT954 	M		Webster Ops 4 	Admin/Security/Maintenance 	FMN 	Schools 
+155.86500 	KUS469 	BM	82.5 PL	BHC Security 	Security Staff [Expired 4/03; still in use 12/08] 	FMN 	Security 
+155.86500 	KUN546 	BM		MIMH Ops 1 	Operations [Expired 8/03] 	FMN 	Security 
+155.14500 	KUN546 	M		MIMH Ops 2 	Operations [Expired 8/03] 	FMN 	Security 
+453.58750 	WQIZ276 	RM	CC 1TG 10SL 1	MO Vet Home 10 	Admin/Maintenance (check CC) 	DMR 	Business 
+453.58750 	WQIZ276 	RM	CC 1TG 20SL 2	MO Vet Home 20 	Admin/Maintenance (check CC) 	DMR 	Business 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Anheuser-Busch St. Louis Brewery	 Motorola Type II Smartnet	 St Louis City	Bayer/Monsanto - St Louis MO	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ St. Louis	Boeing Company (Hazelwood)	 Motorola Type II Smartnet	 Hazelwood	Boeing Learning Center (Florissant MO)	 DMR Hytera XPT	 Florissant	Federal Reserve Bank - St Louis MO
+ DMR Motorola Capacity Plus Single Site (TRBO)	 St Louis City	First Student - St. Louis (LTR)	 LTR Standard	 St. Louis	Hollywood Casino St Louis MO	 DMR Motorola Capacity Plus Single Site (TRBO)	 Maryland Heights
+Hussman - St. Louis	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bridgeton	Nestle Purina Company - St Louis MO	 DMR Motorola Capacity Plus Multi Site (TRBO)	 St. Louis	Southwest Airlines - Lambert St Louis (MO)	 DMR Motorola Capacity Plus Single Site (TRBO)
+ St Louis MO	Special School District of St. Louis County	 DMR Conventional Networked	 Town and Country	SSM Saint Clare Hospital - Fenton	 LTR Standard	 Fenton	St. Louis Area Trunked Emergency Radio (SLATER)
+ Project 25 Phase II	 St Louis Metro Area	St. Louis Outlet Mall (Hazelwood)	 LTR Standard	 Hazelwood	Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro
+Warner Communications - St Louis (DMR-UHF)	 DMR Conventional Networked	 St Louis	Warner Communications - UHF 15 (Clayton/Hillsboro)	 LTR Standard	 Clayton	Warner Communications - UHF A	 LTR Standard
+ Marlborough	Warner Communications 800 - (1-xx)	 LTR Standard	 Imperial	Warner Communications-BJC Hospitals (NXDN)	 NXDN NEXEDGE 4800	 St Louis	Whispering Hills Apartments (St. Louis)
+ LTR Standard	 St. Louis	Wireless Communications / Druco Development - 900 MHz (St. Louis)	 LTR Standard	 St. Ann	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO

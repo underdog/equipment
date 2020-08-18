@@ -1,0 +1,32 @@
+154.22000 	KNGG526 	RM	CSQ	Scott Fire A 	Fire Dispatch - 186.2 PL on input 	FMN 	Fire Dispatch 
+154.22000 	KNGG526 	RM	110.9 PL	Scott Fire E 	Fire Dispatch - Bettendorf Repeater 	FMN 	Fire Dispatch 
+154.22000 	KNGG526 	RM	123.0 PL	Scott Fire D 	Fire Dispatch - Eldridge Repeater 	FMN 	Fire Dispatch 
+154.22000 	KNGG526 	RM	131.8 PL	Scott Fire F 	Fire Dispatch - LeClaire Repeater 	FMN 	Fire Dispatch 
+154.22000 	KNGG526 	RM	162.2 PL	Scott Fire C 	Fire Dispatch - Walcott Repeater 	FMN 	Fire Dispatch 
+154.22000 	KNGG526 	RM	186.2 PL	Scott Fire G 	Fire Dispatch - West Lake Park Repeater 	FMN 	Fire Dispatch 
+154.22000 	KNGG526 	RM	79.7 PL	Scott Fire B 	Fire Dispatch - Princeton Repeater 	FMN 	Fire Dispatch 
+154.22000 	KNGG526 	RM	203.5 PL	Scott Fire H 	Fire Dispatch - Unknown Repeater Location 	FMN 	Fire Dispatch 
+154.07000 	KUQ795 	BM		Scott FG 1 	Fireground 	FMN 	Fire-Tac 
+155.58000 	KUO255 	M		Scott FG 2 	Fireground 	FMN 	Fire-Tac 
+156.21000 	KUO255 	M		Scott FG 3 	Fireground 	FMN 	Fire-Tac 
+170.25000 	WPPX988 	F		DuckCreekTelem 	Duck Creek Hydrodynamic Telemetry 	Telm 	Data 
+460.45000 	WNKB402 	RM	261 DPL	Bett Police1 	Police Dispatch (F-1 Legacy) - PATCHED 	FM 	Law Dispatch 
+155.80500 	KAP250 	BM	179.9 PL	Bettdf Fire 	Fire Dispatch - PATCHED 	FM 	Fire Dispatch 
+453.10000 	WNKB418 	RM		Bett Sirens1 	Storm Sirens 	FM 	Data 
+453.43750 	KD39565 	BM		Bett Sirens2 	Storm Siren Activation 	FM 	Data 
+156.03000 	 	BM		BG Police/PW 	Police / Public Works 	FM 	Multi-Tac 
+155.28000 	KUQ795 	BM	100.0 PL	BCity EMS 	EMS 	FM 	EMS Dispatch 
+154.02500 	KTI703 	BM		BCity PubWrk 	Public Works - Maybe Fire 	FM 	Multi-Tac 
+152.42000 	WQIA351 	RM	074 DPL	Durant Amb 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.04000 	KDN536 	BM	162.2 PL	Eld Fire/PW 	Fire / Public Works 	FM 	Multi-Tac 
+453.97500 	WPVC336 	BM		Eldrige SCAD 	SCADA Data 	Telm 	Data 
+159.21000 	WNZA783 	BM		LeClaire PD 	Police 	FM 	Law Talk 
+453.05000 	KBA283 	RM		LeClaire PW1 	Public Works 	FM 	Public Works 
+453.25000 	WNLL455 	RM		LeClaire PW2 	Public Works 	FM 	Public Works 
+153.86000 	KNIN982 	BM		Walcott PW 	Public Works 	FM 	Public Works 
+453.17500 	WNLB522 	B		MEDIC Page 	Ambulance Paging 	FM 	EMS Dispatch 
+Alliant Energy	 DMR Tier 3	 Various	Arconic	 LTR Standard	 Bettendorf	CEC - Communications Engineering Co	 LTR Standard
+ Davenport	City Of Davenport - Public Works	 DMR Motorola Connect Plus (TRBO)	 Davenport	Comelec (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Deere and Company - DMR (IL/IA)
+ DMR Motorola Connect Plus (TRBO)	 Multiple	Megacomm Corporation	 LTR Standard	 Davenport	Mid American Energy	 MPT-1327 Standard	 Various
+Pleasant Valley Community School District	 NXDN Icom IDAS Type D	 Pleasant Valley	RACOM Network	 EDACS Networked Standard	 Various	Sears Manufacturing (Davenport IA)	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Davenport	

@@ -1,0 +1,40 @@
+151.26500 	WQPJ704 	RM	CC 9TG 6SL 1	Edgar Sheriff 	Sheriff: Dispatch - Metcalf 	DMR 	Law Dispatch 
+154.04000 	WPQJ542 	BM	174 DPL	Edgar Sirens 	ESDA / Siren Activation 	FMN 	Emergency Ops 
+151.32500 	WPLS985 	RM	032 DPL	Edgar Fire/EMS 	Fire/EMS: Countywide Dispatch (D051 in) 	FMN 	Fire Dispatch 
+453.35000 	WPLS985 	F	032 DPL	EdgarFD RF PariA 	Fire: Remote Link (Tone Carrier at Paris) 	FMN 	Fire Dispatch 
+453.37500 	WPLS985 	F	071 DPL	EdgarFD RF PariB 	Fire: Remote Link (Paris) 	FMN 	Fire Dispatch 
+458.37500 	WPLS985 	F	071 DPL	EdgarFD RF PariC 	Fire: Remote Link (heard Chrisman unit) 	FMN 	Fire Dispatch 
+453.50000 	WPLS985 	F	032 DPL	EdgarFD RF Brctn 	Fire: Remote Link (Tone Carrier at Brocton) 	FMN 	Fire Dispatch 
+453.80000 	WQPY692 	RM	125 DPL	Edgar Highway 	Highway Department 	FMN 	Public Works 
+158.24250 	WQMB248 	RM	CC 13TG 1395SL 1	EdgarCo EMS 	EMS: Dispatch (voice decode?) 	DMR 	EMS Dispatch 
+155.40000 	WPXC499 	BM	445 DPL	Edgar EMS 54 	EMS: Old (rare use) 	FMN 	EMS Dispatch 
+152.37500 	WQGL475 	RM	023 DPL	Paris Hosp Ops 	Operations 	FMN 	Business 
+153.65000 	WQGL475 	RM	445 DPL	Paris Hosp EMS 	EMS: Operations 	FMN 	EMS-Tac 
+155.34000 	KVU371 	B	88.5 PL	MERCI1 88.5 	Patient Reports 	FMN 	Hospital 
+158.80500 	WPXQ986 	M		Brocton Fire 	Fireground 	FMN 	Fire-Tac 
+154.32500 	WNSU236 	RM		ChrismanFire 	Fire: Local / Decon Team 	FMN 	Fire-Tac 
+453.22500 	WPWD531 	RM		C-E RurWtrD1 	Operations 	FMN 	Public Works 
+453.57500 	WPWD531 	RM		C-E RurWtrD2 	Operations 	FMN 	Public Works 
+154.47125 	WQKE724 	F		CERWD WDD1 	Water Distribution Data (CSQ) 	Telm 	Data 
+173.20375 	WQKE712 	F		CERWD WDD2 	Water Distribution Data (CSQ) 	Telm 	Data 
+154.32500 	WPKP506 	BM		Hume Fire 	Fire 	FMN 	Fire-Tac 
+154.34000 	KNIS711 	BM	123.0 PL	KansasTwp Fire  	Fireground/Operations 	FMN 	Fire-Tac 
+154.44500 	WQOZ393 	BM		Metcalf Fire 	Fire 	FMN 	Fire-Tac 
+154.78500 	KSB580 	RM	CC 1TG 1SL 1	Paris Police 	Police: Dispatch 	DMR 	Law Dispatch 
+151.13000 	KVQ569 	RM	CC 2TG 2SL 1	Paris Fire Ops 1 	Fire: Operations [Ch 2] 	DMR 	Fire-Tac 
+153.89000 	KVQ569 	M	CSQ	Paris Firegrnd 3 	Fireground [Ch 3] 	FMN 	Fire-Tac 
+155.74500 	KVQ569 	BM		Paris FireCmnd 4 	Fire: Command [Ch 4] 	FMN 	Fire-Talk 
+154.14500 	KVQ569 	BM	032 DPL	Paris FireLocal5 	Fire: Local [Ch 5] (Rare use) 	FMN 	Fire Dispatch 
+173.39625 	WQJQ405 	F		Paris WDD 1 	Water Distribution Data (CSQ) 	Telm 	Data 
+173.27500 	WQJQ405 	F		Paris WDD 2 	Water Distribution Data (CSQ) 	Telm 	Data 
+152.44250 	WQEE733 	RM	315 DPL	Paris School 	Ops / Buses 	FMN 	Schools 
+451.45000 	WPRX394 	RM	254.1 PL	Simonton Windows 	Simonton Windows (Paris) 	FMN 	Business 
+457.41250 	 	M	71.9 PL	Rural King Paris 	Rural King (Paris) 	FMN 	Business 
+463.36250 	WQPQ481 	RM	CC 14TG 100SL 1	Cargill Paris100 	Cargill (Paris) 	DMR 	Business 
+463.36250 	WQPQ481 	RM	CC 14TG 200SL 2	Cargill Paris200 	Cargill (Paris) 	DMR 	Business 
+463.67500 	WQRF690 	RM	146.2 PL	463.675 1462 	tow truck* (Oakland) [Larry Craig] 	FMN 	Business 
+118.30000 	 	BM	CSQ	Hulman Tower 	Hulman Tower 	AM 	Aircraft 
+123.00000 	 	BM	CSQ	PRG CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+124.17500 	 	BM		PRG AWOS-3 	Weather AWOS  	AM 	Aircraft 
+125.45000 	 	BM	CSQ	Hulm App/Dep 	Hulman Approach/Departure 	AM 	Aircraft 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	

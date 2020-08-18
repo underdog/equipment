@@ -1,0 +1,218 @@
+854.38750 	WNBP484 	RM	110.9 PL	ECSD 1/2 Disp 	Ch 1 Sheriff Dispatch (Ch. 2 Talk-Around) 	FM 	Law Dispatch 
+853.07500 	WNQS440 	RM	503 DPL	ECSD 3 	Ch 3 Sheriff Inquiry/Special Events 	FM 	Law Talk 
+857.71250 	WPJQ217 	RM	110.9 PL	ECSD 4 Court 	Ch 4 Sheriff Court Security  	FM 	Security 
+852.60000 	WNQS440 	RM	734 DPL	ECSD 5 Parks 	Ch 5 Sheriff Patrol  	FM 	Law Dispatch 
+852.83750 	WNQS440 	RM	411 DPL	ECSD 6 	Ch 6 Sheriff / Dectectives  	FM 	Law Tac 
+471.36250 	KXN435 	RM	82.5 PL	ECPRO 1 	Prosecutor 1  	FMN 	Law Tac 
+474.36250 	KXN435 	BM	CSQ	ECPRO 2 	Prosecutor 2 	FMN 	Law Talk 
+477.10000 	KXN435 	RM	82.5 PL	ECPRO 3 	Prosecutor 3 	FMN 	Law Tac 
+470.51250 	KZR784 	RM	82.5 PL	EC FMA 	Countywide Fire Mutual Aid 	FMN 	Interop 
+764.05625 	WQFL700 	M		ECSD 700-1 	Sheriff - Interoperability/Tactical 	FMN 	Interop 
+764.06875 	WQFL700 	M		ECSD 700-2 	Sheriff - Interoperability/Tactical 	FMN 	Interop 
+775.99375 	WQFL700 	M		ECSD 700-3 	Sheriff - Interoperability/Tactical 	FMN 	Interop 
+794.05625 	WQFL700 	M		ECSD 700-4 	Sheriff - Interoperability/Tactical 	FMN 	Interop 
+794.06875 	WQFL700 	M		ECSD 700-5 	Sheriff - Interoperability/Tactical 	FMN 	Interop 
+805.99375 	WQFL700 	M		ECSD 700-6 	Sheriff - Interoperability/Tactical 	FMN 	Interop 
+155.10000 	KNFL662 	RM	107.2 PL	ECOEM 1 	Emergency Management OEM-1 	FMN 	Emergency Ops 
+155.14500 	KNGU524 	RM	85.4 PL	ECOEM 2 	Emergency Management OEM-2 	FMN 	Emergency Ops 
+158.77500 	KNFL662 	RM	107.2 PL	ECOEM 3 	Emergency Management OEM-3 	FMN 	Emergency Ops 
+151.46000 	KFY386 	RM	107.2 PL	ECDPW 	Roads Department 	FMN 	Public Works 
+151.31000 	KFY386 	BM	107.2 PL	ECDPW 2 	Mosquito Control 	FMN 	Public Works 
+460.12500 	KRI750 	RM	123.0 PL	Nwk 1st PD Disp 	1st Precinct Dispatch (Central District) 	FMN 	Law Dispatch 
+460.17500 	KRI750 	RM	123.0 PL	Nwk 2&7 PD Disp 	2nd Precinct Dispatch (North District) / 7th Precint (Roseville) 	FMN 	Law Dispatch 
+460.15000 	KRI750 	RM	123.0 PL	Nwk 3rd PD Disp 	3rd Precinct Dispatch (East District) 	FMN 	Law Dispatch 
+460.20000 	KRI750 	RM	123.0 PL	Nwk 4&6 PD Disp 	4th Precinct (West District) / 6th Precinct (Ivy Hill)   	FMN 	Law Dispatch 
+460.40000 	KRI750 	RM	123.0 PL	Nwk5th PD Disp 	5th Precinct Dispatch (South District) 	FMN 	Law Dispatch 
+460.47500 	KRI750 	RM	123.0 PL	Nwk Citywide 	Citywide - Detectives, ESU, Special Units, Metro, Special Ops,and Events. 	FMN 	Law Tac 
+460.22500 	WPTR973 	RM	192.8 PL	Nwk 1246 Inqry 	Inquiry for Districts 1, 2, 4, and 6 	FMN 	Law Tac 
+460.50000 	WPTR973 	RM	192.8 PL	Nwk 3&5 Inqry 	Inquiry for Districts 3 and 5, Detectives    	FMN 	Law Tac 
+460.50000 	WPTR973 	RM	123.0 PL	Nwk Special Ops 	Special Operations 	FMN 	Law Tac 
+858.06250 	WRCH730 	RM	203 NAC	Nwk 800 Testing 	Testing / Radio Techs 	P25E 	Public Works 
+154.13000 	WQOM713 	RM	162.2 PL	NFD 1/2 B/U 	Fire  ( VHF Back Up) 	FMN 	Fire-Talk 
+158.74500 	WPTZ456 	BM	162.2 PL	NFD 3 B/U 	Fire  ( VHF Back Up) 	FMN 	Fire-Tac 
+154.31000 	WPZB686 	RM	162 DPL	NFD 4 B/U 	Fire  ( VHF Back Up) 	FMN 	Fire-Tac 
+154.20500 	WPZB686 	M		NFD 5 B/U 	Fire  ( VHF Back Up) 	FMN 	Fire-Tac 
+769.00325 	 	BM		NFD-FG1 	Newark Fireground 1 	P25 	Fire-Tac 
+769.01875 	 	BM		NFD-FG2 	Newark Fireground 2 	P25 	Fire-Tac 
+769.03125 	 	BM		NFD-FG3 	Newark Fireground 3 	P25 	Fire-Tac 
+769.04375 	 	BM		NFD-FG4 	Newark Fireground 4 	FMN 	Fire-Tac 
+463.00000 	KVV773 	BM	203.5 PL	Med-1 	REMCS Med-1 	FMN 	EMS-Talk 
+463.02500 	KVV773 	BM	203.5 PL	Med-2 	REMCS Med-2 	FMN 	EMS-Talk 
+463.05000 	KVV773 	BM	203.5 PL	Med-3 	REMCS Med-3 	FMN 	EMS-Talk 
+463.07500 	KVV773 	BM	203.5 PL	Med-4 	REMCS Med-4 	FMN 	EMS-Talk 
+463.10000 	KVV773 	BM	203.5 PL	Med-5 	REMCS Med-5 	FMN 	EMS-Talk 
+463.12500 	KVV773 	BM	203.5 PL	Med-6 	REMCS Med-6 	FMN 	EMS-Talk 
+463.15000 	KVV773 	BM	203.5 PL	Med-7 	REMCS Med-7 	FMN 	EMS-Talk 
+463.17500 	KVV773 	BM	203.5 PL	Med-8 	REMCS Med-8 	FMN 	EMS-Talk 
+462.95000 	 	BM	203.5 PL	Med-9 	REMCS Med-9 	FMN 	EMS-Talk 
+462.97500 	 	BM	203.5 PL	Med-10 	REMCS Med-10 	FMN 	EMS-Talk 
+451.97500 	WQUD359 	RM		Hatz 1 Nwk 	EMS Operations 	DMR 	EMS-Talk 
+452.02500 	WQUD359 	RM		Hatz 2 Nwk 	EMS Operations 	DMR 	EMS-Talk 
+155.22000 	KRC854 	BM	251 DPL	IRBD EMS 	Ironbound Ambulance Squad 	FMN 	EMS Dispatch 
+853.81250 	WNVR739 	RM	023 DPL	HSA PD/SEC 	Police/Security 	FM 	Security 
+159.10500 	KET265 	BM	271 DPL	DPW 	Sanitation Department 	FM 	Public Works 
+154.22000 	KAY729 	RM	141.3 PL	FD/EMS Local 	Fire/EMS (Local - Backup) 	FMN 	Fire-Tac 
+153.83000 	KE8524 	M	141.3 PL	FD FG 	Fireground 	FMN 	Fire-Tac 
+851.15000 	WPJY511 	RM	123.0 PL	PD 1 L/BU 	Police Ch. 1 (Local - Backup) 	FMN 	Law Tac 
+852.43750 	WPJY511 	RM	123.0 PL	PD 2 L/BU 	Police Ch. 2 (Local - Backup) 	FMN 	Law Tac 
+853.78750 	WPJY511 	RM	123.0 PL	PD 3 L/BU 	Police Ch. 3 (Local - Backup) 	FMN 	Law Tac 
+155.71500 	KBM266 	BM	141.3 PL	DPW L/BU 	Public Works (Local - Backup) 	FMN 	Public Works 
+155.71500 	KJY837 	BM	162.2 PL	TRANSPORT 	Dial-a-Ride Transportation 	FMN 	Transportation 
+45.52000 	KAY734 	BM	82.5 PL	DPW 	Public Works 	FM 	Public Works 
+477.26250 	WII230 	RM	82.5 PL	PD/EMS Ops 	Police/EMS Operations (Local - Backup) 	FMN 	Multi-Talk 
+477.33750 	KNQ473 	RM	192.8 PL	FD Ops 	Fire Operations (Local - Backup) 	FMN 	Fire-Tac 
+476.77500 	WPUQ807 	RM	141.3 PL	PD/FD Alt 	PD - Traffic, FD - FG -Ops (Local - Backup)  	FMN 	Multi-Talk 
+158.94000 	KCY640 	BM	141.3 PL	Fire 1 Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.09250 	WPKT809 	RM	306 DPL	Fire 2  	Fireground 	FMN 	Fire-Tac 
+159.15000 	KEA587 	BM	141.3 PL	PD 1 	Police 1 Dispatch 	FMN 	Law Dispatch 
+159.03000 	KEA587 	BM	241.8 PL	PD 2 	Police 2 Car-to-Car 	FMN 	Law Talk 
+156.03000 	WYC596 	M	141.3 PL	PD Mobile 	Police Car-to-Car Private 	FMN 	Law Talk 
+472.40000 	WPLS701 	RM	306 DPL	FD 1 Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+470.42500 	WPLS701 	RM	306 DPL	FD 2 	Fire Secondary 	FMN 	Fire-Talk 
+471.17500 	WPLS701 	RM	306 DPL	PD 1 Disp 	Police Dispatch 	FMN 	Law Dispatch 
+470.97500 	WPLS701 	RM	306 DPL	PD 2  	Police Secondary 	FMN 	Law Talk 
+154.15250 	WQEL817 	RM	203.5 PL	CGARS 1 	Ambulance and Rescue Squad Ch. 1 	FMN 	EMS-Tac 
+155.29500 	WQEL817 	BM	179.9 PL	CGARS 2 	Ambulance and Rescue Squad Ch. 2 	FMN 	EMS-Tac 
+154.15250 	WQEL817 	BM	203.5 PL	CGARS 3 	Ambulance and Rescue Squad Ch. 3 (Repeater Talk Around) 	FMN 	EMS-Tac 
+155.22000 	WQEL817 	BM	179.9 PL	CGARS 4 	Ambulance and Rescue Squad Ch. 4 	FMN 	EMS Dispatch 
+45.12000 	KBH745 	BM	CSQ	DPW 	Public Works 	FM 	Public Works 
+477.38750 	WIG411 	RM	073 DPL	FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+153.13250 	WQKQ417 	RM	173.8 PL	LSR Disp 	LifeStar - STARCOM EMS Dispatch 	FMN 	EMS Dispatch 
+155.20500 	WNLI739 	BM	173.8 PL	LSR EMS 1 	LifeStar - EMS  Tac 1 	FMN 	EMS-Tac 
+155.26500 	WNLI739 	BM	100.0 PL	LSR EMS 2 	LifeStar - EMS  Tac 2 	FMN 	EMS-Tac 
+155.28000 	WNLI739 	BM	CSQ	LSR EMS 3 	LifeStar - JEMS 3 	FMN 	Interop 
+155.29500 	WNLI739 	BM	85.4 PL	LSR REMCS 	LifeStar - EMS  to REMCS  	FMN 	EMS-Talk 
+155.34000 	WNLI739 	BM	100.0 PL	LSR-JEMS2 	EMS (JEMS 2/HEAR)  	FMN 	EMS-Talk 
+155.40000 	WNLI739 	RM	127.3 PL	MICU Disp 	LifeStar - STARCOM to REMCS 1   	FMN 	EMS Dispatch 
+45.28000 	KEH861 	BM	CSQ	DPW 	DPW 	FM 	Public Works 
+159.15000 	KNGV204 	BM	141.3 PL	PD 1  	Police 1  (Local/Backup) 	FMN 	Interop 
+158.73000 	 	M	167.9 PL	PD 3 	Police 3  (Local/Backup) 	FMN 	Law Tac 
+853.36250 	WNVR741 	RM	192.8 PL	PD Local 1 	Police Local 	FM 	Law Tac 
+851.70000 	WQNW852  	RM	110.9 PL	PD Local 2 	Police Local (Rarely Used) 	FM 	Law Tac 
+460.60000 	WNUA871 	RM	82.5 PL	Fire Disp. 	Fire Dispatch 	FM 	Fire Dispatch 
+45.44000 	KBW767 	BM		DPW VHF-Lo 	Public Works 	FM 	Public Works 
+158.82000 	KDU437 	BM		DPW VHF-Hi 	Public Works 	FM 	Public Works 
+471.87500 	WQAZ607 	RM	703 DPL	PD1/2 	Police Ch 1 Dispatch (Ch 2 Direct) 	FMN 	Law Dispatch 
+470.33750 	WIK768 	RM	192.8 PL	EMS / PD3 	EMS Dispatch / Police Ch 3 Special Events 	FMN 	EMS Dispatch 
+46.54000 	KBH348 	BM	CSQ	EMS Lo  	EMS Dispatch (Lo Band) 	FM 	EMS Dispatch 
+453.85000 	WXT843 	RM	127.3 PL	FD 1 Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+453.07500 	WPLT353 	RM	127.3 PL	FD 2 	Fire 2 	FM 	Fire-Talk 
+851.12500 	WNPQ753 	RM	023 DPL	PD 1 Disp 	Police Dispatch 	FM 	Law Dispatch 
+853.68750 	WNPQ753 	RM	023 DPL	PD 2 	Police 	FM 	Law Talk 
+461.27500 	WPRF865 	RM		HA Ops 	Housing Authority 	FMN 	Public Works 
+154.75500 	KEA318 	RM	179.9 PL	FD/EMS Disp 	Fire/EMS Dispatch (PD Fallback) 	FMN 	Multi-Dispatch 
+159.00000 	WPCE453 	M	179.9 PL	PD Mobile 	Police (Car to Car, PD Fallback) 	FMN 	Law Tac 
+159.15000 	KEA318 	BM	179.9 PL	PD MA 	Police Mutual Aid (PD Fallback) 	FMN 	Interop 
+154.81500 	WNAM473 	RM	114.8 PL	PD Disp 	Police Dispatch 	FM 	Law Dispatch 
+155.57250 	WPRG488 	RM	114.8 PL	PD 2 	Police 	FMN 	Law Talk 
+45.64000 	 	BM	123.0 PL	DPW 	Maplewood DPW (Un Licensed) 	FM 	Public Works 
+154.20500 	KEE720 	RM	114.8 PL	FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+152.38250 	WQII662 	RM	88.5 PL	FAS / EMS 	Millburn - Short Hills Volunteer First Aid Squad 	FMN 	EMS Dispatch 
+155.65500 	KNDL385 	RM	88.5 PL	PD Disp 	Police Dispatch 	FM 	Law Dispatch 
+151.02500 	WQMB696 	RM	754 DPL	DPW 	Public Works (DPW) 	FMN 	Public Works 
+500.36250 	WIL429 	RM	192.8 PL	FD 1 Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+500.46250 	WIL429 	RM	192.8 PL	FD 2  	Fire 2  	FMN 	Fire-Tac 
+769.00625 	 	BM	293 NAC	Montclair PD 	Police Local Tac 	P25 	Law Tac 
+476.80000 	WPMX989 	RM	141.3 PL	FD Disp 	(Local/Backup) 	FMN 	Fire-Tac 
+476.67500 	WPMX989 	RM	141.3 PL	PD 1 Disp 	(Local/Backup) 	FMN 	Law Tac 
+476.95000 	WPMX989 	RM	141.3 PL	PD 2 	(Local/Backup) 	FMN 	Law Tac 
+154.99500 	WXT596 	RM	94.8 PL	FD Disp 	Fire Dispatch    	FMN 	Fire Dispatch 
+153.98000 	KDD931 	BM	179.9 PL	FD FG /Ops 	Fireground and Operations   	FMN 	Fire-Tac 
+153.90500 	WXT596 	RM	110.9 PL	OEM/SpclEvnt 	OEM/Special Events (Reverse Repeater of Fire Disp) 	FMN 	Emergency Ops 
+154.26500 	 	M		FD/HAZMAT 	Fireground/Hazmat/Mutual Aid 	FMN 	Fire-Tac 
+154.78500 	WYC596 	RM	179.9 PL	PD 1/2  	Police Ch 1 Dispatch (Ch 2 Talk-Around) 	FMN 	Law Dispatch 
+154.65000 	WYC596 	M	179.9 PL	PD 4 Det 	Police  Ch 4 Detectives 	FMN 	Law Tac 
+151.79750 	WQUV390 	RM	411 DPL	Nut EMS 1 	EMS Dispatch / Operations 	FMN 	EMS Dispatch 
+155.28000 	KLI985 	BM	141.3 PL	Nut EMS 2 	EMS Tactical 	FMN 	EMS-Tac 
+453.32500 	KRI570 	RM	100.0 PL	DPW 	Public Works 	FMN 	Public Works 
+44.72000 	KNIU712 	RM	141.3 PL	Parks 	Parks Department 	FM 	Public Works 
+501.26250 	WIL924 	RM	94.8 PL	FD 1 Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+501.73750 	WIL924 	RM	192.8 PL	FD 2 	Fire 2 	FM 	Fire-Talk 
+477.23750 	WQXT829 	RM	141.3 PL	PD 1 Disp 	Police Dispatch 	FM 	Law Dispatch 
+477.31250 	WQXT829 	RM	141.3 PL	PD 2 	Police 2 	FM 	Law Talk 
+477.36250 	WQXT829 	RM	141.3 PL	PD 3 	Police 3 	FM 	Law Talk 
+46.56000 	KFR551 	BM	88.5 PL	DPW 	DPW 	FM 	Public Works 
+463.50000 	WQEK509 	RM	203.5 PL	HA 	Housing Authority 	FMN 	Public Works 
+158.94000 	KCY640 	BM	141.3 PL	FD/EMS Disp 	Fire/EMS 	FM 	Fire Dispatch 
+159.09000 	KNDR562 	RM	141.3 PL	PD 1 Disp 	Police Dispatch 	FM 	Law Dispatch 
+159.03000 	KEA587 	BM	94.8 PL	PD 2 	Police 	FM 	Law Talk 
+159.15000 	KEA318 	BM	94.8 PL	PD 3 	Police 	FM 	Law Talk 
+452.80000 	WQBX469 	RM	074 DPL	DPW 	Road Dept. 	FMN 	Public Works 
+155.22000 	KUS502 	BM	143 DPL	SOrange EMS1 	South Orange EMS 1   	FMN 	EMS-Tac 
+155.22000 	KUS502 	BM	043 DPL	SOrange EMS2 	South Orange EMS 2 - Command 	FMN 	EMS-Tac 
+155.22000 	KUS502 	BM	503 DPL	SOrange EMS3 	South Orange EMS 3 - Operations 	FMN 	EMS-Tac 
+155.59500 	WQOD901 	RM	179.9 PL	SOrange DPW 	South Orange DPW 	FMN 	Public Works 
+470.30000 	WIM456 	B		FD Alert 	Fire Department Alerting 	FMN 	Fire Dispatch 
+471.75000 	WIM456 	B		EMS Alert 	Rescue Squad Alerting 	FMN 	EMS Dispatch 
+472.46250 	WIJ850 	RM	192.8 PL	PD Local 	Police Local 	FMN 	Law Tac 
+155.26500 	WPCA431 	BM	141.3 PL	EMS MA 	EMS Dispatch (simulcast from NJICS) 	FMN 	EMS Dispatch 
+159.15000 	KEB994 	BM	141.3 PL	PD 1 Disp 	Police Dispatch 	FM 	Law Dispatch 
+158.89500 	 	BM	141.3 PL	PD 2 	Police Secondary 	FM 	Law Talk 
+155.32500 	WPXW403 	BM	186.2 PL	WE EMS 	West Essex EMS 	FM 	EMS-Talk 
+155.23500 	KUX404 	BM	88.5 PL	Paramedics 	Paramedics (Simulcast from EDACS) 	FMN 	EMS Dispatch 
+463.95000 	WQBI226 	RM		BC Security 	Security 	FMN 	Security 
+464.77500 	WQEH250 	RM		BHS Ops 	Operations 	FMN 	Schools 
+462.40000 	WQUT979 	BM		Cldwl Univ 	Operations 	FMN 	Schools 
+452.50000 	WPRI719 	BM		CG BOE 	Operations 	FMN 	Schools 
+452.43750 	WQSY917 	BM		ESHS Nwrk 	Operations 	DMR 	Schools 
+155.82000 	KNFS822 	BM	156.7 PL	ECC PD Disp 	Police 	FMN 	Law Dispatch 
+464.32500 	WPDC338 	RM		ECC Ops 	Operations 	FMN 	Schools 
+464.71250 	WQSX764 	RM		ECVTS Nwk 1 	Newark Campus 1 	DMR 	Schools 
+464.01250 	WQSX764 	RM		ECVTS Nwk 2 	Newark Campus 2 	DMR 	Schools 
+464.08750 	WQSX764 	RM		ECVTS Blmfd 	Bloomfield Campus 	DMR 	Schools 
+464.11250 	WQSX764 	RM		ECVTS WCldw 	West Caldwell Campus 	DMR 	Schools 
+464.05000 	WQHH383 	RM	CC 1TG 1000SL 1	LBOE  HS1000 Mnt 	High School Maintenance 	DMR 	Schools 
+464.05000 	WQHH383 	RM	CC 1TG 1000SL 2	LBOE  HS1000 Sec 	High School Security 	DMR 	Security 
+464.05000 	WQHH383 	RM	CC 1TG 1901SL 1	LBOE  HS1901 Sec 	High School Security 	DMR 	Security 
+43.76000 	WQJI358 	BM		MBOE Bus 	School Buses 	FM 	Schools 
+152.87750 	WQDK417 	RM		MBOE Ops 	Operations 	FMN 	Schools 
+464.10000 	WQUX504 	RM		MKA Ops 	Operations 	FMN 	Schools 
+461.58750 	WPKE307 	RM	071 DPL	MSU Police 	Police 	FMN 	Law Dispatch 
+461.96250 	WPKE307 	RM	411 DPL	MSU Police Tac 	Police 	FMN 	Law Tac 
+461.53750 	WPKE307 	RM		MSU Em Mgmt 	Emergency Management / PD Alternate 	FMN 	Emergency Ops 
+460.36250 	WPNP518 	RM	311 DPL	MSU EMS 	EMS 	FMN 	EMS Dispatch 
+453.12500 	KNDT274 	RM	100.0 PL	NJIT Police 	Police (Simulcasts with NJICS Talkgroup 4451) 	FMN 	Law Dispatch 
+464.25000 	WPPS443 	RM	226 DPL	NJIT PP1HVAC 	Physical Plant 1 HVAC 	FM 	Schools 
+464.90000 	WPKG680 	RM	205 DPL	NJIT PP2 Mnt 	Physical Plant 2 Maintenance 	FM 	Schools 
+462.10000 	WQAB522 	RM	351 DPL	NJIT Telec 1 	Telecom 1 	FMN 	Schools 
+462.10000 	WQAB522 	RM	431 DPL	NJIT Telec 2 	Telecom 2 	FMN 	Schools 
+462.10000 	WQAB522 	RM	546 DPL	NJIT Telec 3 	Telecom 3 	FMN 	Schools 
+462.10000 	WQAB522 	RM	606 DPL	NJIT Telec 4 	Telecom 4 	FMN 	Schools 
+462.10000 	WQAB522 	RM	723 DPL	NJIT Telec 5 	Telecom 5 	FMN 	Schools 
+462.10000 	WQAB522 	RM	506 DPL	NJIT Telec 6 	Telecom 6 	FMN 	Schools 
+469.50000 	 	M	351 DPL	NJIT Telec 7 	Telecom 7 Talk-Around 	FMN 	Schools 
+469.55000 	 	M	431 DPL	NJIT Telec 8 	Telecom 8 Talk-Around 	FMN 	Schools 
+467.10000 	WQAB522 	M	466 DPL	NJIT Telec 9 	Telecom 9 Talk-Around 	FMN 	Schools 
+462.10000 	WQAB522 	M	466 DPL	NJIT Telec10 	Telecom 10 Talk-Around 	FMN 	Schools 
+469.50000 	 	M	226 DPL	NJIT SvcsInt 	Services Interop Talk-Around 	FMN 	Schools 
+151.67000 	WQXZ287 	RM		Nwk Sch Dist 	School District Operations 	FMN 	Schools 
+153.99500 	WNST305 	BM	107.2 PL	BOE 	Board of Education 	FM 	Schools 
+155.20500 	WPIN574 	BM	047 DPL	CSBL Buses 	Camptown School Bus Lines  	FM 	Schools 
+451.31875 	WQUK627 	RM		OPS/SEC 	Operations and Security 	NXDN 	Schools 
+463.63750 	WQCB278 	RM		Orng BOE 	Operations 	FMN 	Schools 
+153.05750 	WQSX538 	RM	71.9 PL	Rose Sch Dst 	Operations 	FMN 	Schools 
+155.68500 	WPBU238 	RM	023 DPL	1 	Police (Back Up) 	FM 	Law Tac 
+155.89500 	KGV360 	BM	156.7 PL	2 	Police (Back Up) 	FM 	Law Tac 
+451.37500 	WPRJ251 	RM		SH Law 	Operations 	FMN 	Schools 
+452.02500 	WQMD560 	RM		SHU Ops1 	Operations 1  	DMR 	Schools 
+453.01250 	WQMD560 	RM	CC 3TG 200SL 1	SHU SecOps 	Security Ops 1 	DMR 	Schools 
+472.86250 	WIK598 	RM		SHU Admin 	Administration 	DMR 	Schools 
+462.20000 	WPRG358 	RM		SOMSD Sec 	Security 	FMN 	Security 
+463.47500 	WPRG358 	RM		SOMSD Ops 	Operations 	FMN 	Schools 
+155.29500 	WPRI404 	BM	85.4 PL	5 	REMCS 	FMN 	EMS-Talk 
+472.00000 	WPRG746 	RM	172 DPL	PD 1 Disp 	Police 	FMN 	Law Dispatch 
+477.13750 	KZA727 	RM	110.9 PL	PD 2 	Police 	FM 	Law Talk 
+461.88750 	WQPJ509 	RM		WESD Sec 	Security 	FMN 	Security 
+464.50000 	WQPI743  	BM		WESD Field 	Field Trips 	FMN 	Schools 
+467.85000 	WQPI743 	M		WESD M1 	Maint 1 	FMN 	Schools 
+467.87500 	WQPI743 	M		WESD M2 	Maint 2 	FMN 	Schools 
+American Airlines (Newark Liberty International Airport)	 LTR Standard	 Newark	Atlantic Telecommunications	 LTR Net	 Various	Collins Aerospace (Newark International Airport)	 TETRA Standard
+ Newark	County Wide Emergency Services	 DMR Conventional Networked	 Passaic	East Orange City	 Motorola Type II Smartnet	 East Orange	Essex County
+ EDACS Standard	 Essex County	Essex County Services (P25)	 Project 25 Phase II	 Newark	FedEx (Newark Liberty International Airport)	 Motorola Type II Smartnet	 Newark
+First Energy	 Project 25 Phase I	 Various	Maher Terminals	 DMR Motorola Capacity Plus Single Site (TRBO)	 Elizabeth	Montclair Township	 Motorola Type II Smartnet
+ Montclair	New Jersey Interoperability Communications System (NJICS)	 Project 25 Phase II	 Statewide	New Jersey State Police	 Motorola Type II SmartZone Omnilink	 Statewide	New Jersey Transit
+ TETRA Standard	 Statewide	New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide	NJ-TRBO Linked Amateur Radio Network	 DMR Conventional Networked	 Various
+NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Port Authority of New York and New Jersey	 Project 25 Phase II
+ Regional	Port Newark Container Terminal	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newark	Public Service Electric and Gas Company	 Project 25 Phase II	 Various	TeamConnect
+ DMR Motorola Connect Plus (TRBO)	 Various	TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various	United Airlines	 DMR Motorola Connect Plus (TRBO)	 Various
+West Orange Township	 EDACS Standard	 West Orange	

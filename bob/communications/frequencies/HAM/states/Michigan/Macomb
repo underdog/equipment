@@ -1,0 +1,146 @@
+154.13000 	KQF227 	BM	123.0 PL	Macomb Fire 1 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
+154.35500 	WQDI294 	BM	123.0 PL	Macomb Fire 2 	Fireground 2 / Severe Weather Spotters 	FMN 	Fire-Tac 
+155.17500 	WQDI292 	BM		Macomb MCI 	EMS / Mass Casualty Incident 	FMN 	EMS-Tac 
+155.10000 	KCN358 	RM		Macomb EMA 	Emergency Management 	FMN 	Emergency Ops 
+158.79000 	KQA783 	RM		Macomb Siren 	Outdoor Warning Sirens 	Telm 	Data 
+122.85000 	WQAK296 	BM		MacombSD AviaDiv 	Sheriff Aviation Division 	AM 	Aircraft 
+453.37500 	WQKA573 	B		Macomb Page 	County Court - Jury Paging 	Telm 	Data 
+155.10000 	KCN358 	RM	123.0 PL	Macomb DPW 	County Department of Public Works 	FMN 	Public Works 
+155.10000 	KCN358 	RM	118.8 PL	Macomb MealsOnWh 	Meals-on-Wheels 	FMN 	Transportation 
+453.57500 	WQEQ414 	BM		Armada Water 	Water Department 	FMN 	Public Works 
+423.20000 	WNJS568 	RM	123.0 PL	Bruce Twp Fire 	Fire: Dispatch - Primary [Ch.1] 	FMN 	Fire Dispatch 
+45.56000 	WNKN962 	BM		Bruce Twp STAR 	Senior Citizen Transportation (Bruce, Romeo, Washington TS) 	FM 	Transportation 
+45.32000 	KJI531 	BM		Chesterfield DPW 	Public Works 	FM 	Public Works 
+423.55000 	WNMQ298 	RM	123.0 PL	Clinton Twp Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+453.60000 	KFX340 	RM	123.0 PL	ClintonTwp DPW 	Department of Public Works 	FMN 	Public Works 
+154.25000 	KQD789 	BM	103.5 PL	Eastpoint Fire 	Fire Dispatch Toneouts (Simulcast on MPSCS) 	FMN 	Fire Dispatch 
+453.40000 	KBG919 	RM	123.0 PL	Eastpoint DPW 	Department of Public Works 	FMN 	Public Works 
+461.67500 	WQOJ647 	M		Eastpoint House1 	Housing Commission 1 	FMN 	Public Works 
+463.92500 	WQOJ647 	M		Eastpoint House2 	Housing Commission 2 	FMN 	Public Works 
+46.54000 	WPHR993 	BM		Fraser DPW 1 	Department of Public Works 1 	FM 	Public Works 
+46.58000 	KLU322 	BM		Fraser DPW 2 	Department of Public Works 2 	FM 	Public Works 
+460.57500 	KQF864 	RM	123.0 PL	Macomb Twp Fire 	Fire - Primary Dispatch 	FMN 	Fire Dispatch 
+453.52500 	WPTL514 	RM	123.0 PL	Macomb Twp DPW 	Public Works 	FMN 	Public Works 
+154.37000 	KQE720 	BM	107.2 PL	St. Clair Fire 	Fire - Link to St. Clair County 	FMN 	Fire-Talk 
+155.88000 	KAT893 	BM		MtClemen PubWrks 	Public Works 	FMN 	Public Works 
+37.26000 	KRJ706 	BM		NewBaltimore DPW 	Public Works 	FM 	Public Works 
+154.10000 	KQK540 	BM	88.5 PL	Rchmond FGround 	Fire - Paging [Patched with MPSCS TG: 2899] 	FMN 	Fire-Talk 
+155.17500 	WXT756 	BM	162.2 PL	RchdLnAmbA Disp. 	EMS: Dispatch 	FMN 	EMS Dispatch 
+158.76000 	KNAE664 	BM	91.5 PL	Romeo DPW/Fire 	Public Works/Fire 	FMN 	Multi-Talk 
+154.19000 	KQD401 	BM	123.0 PL	Roseville Fire 	Fire: Toneouts [Dispatch on the MPSCS TRS] 	FMN 	Fire Dispatch 
+453.20000 	KDS623 	RM	123.0 PL	Roseville DPW 	Public Works 	FMN 	Public Works 
+851.56250 	WPDW396 	RM		Shelby Twp Local 	Police/Fire: Failsoft/Talkaround 	FM 	Multi-Tac 
+45.40000 	KRA523 	BM		Shelby PubWork 	Public Works 	FM 	Public Works 
+158.83500 	WNFC836 	BM		Shelby Twp Parks 	Parks 	FMN 	Public Works 
+453.65000 	KQF587 	RM	123.0 PL	StClareShors DPW 	Public Works 	FMN 	Public Works 
+460.45000 	WQEZ427 	M	CSQ	StClreShore Golf 	Golf Course Operations 	FM 	Public Works 
+460.62500 	KSZ435 	RM	123.0 PL	SterllngHgtsFire 	Fire: Dispatch 	FM 	Fire Dispatch 
+154.10000 	KBA450 	BM	103.5 PL	StrlnHts PW/Sirn 	Public Works/Outdoor Warning Sirens 	FM 	Public Works 
+45.40000 	WNKR259 	BM		Utica PubWorks 	Public Works 	FM 	Public Works 
+453.90000 	KDG275 	RM	123.0 PL	Warren Sirens 	Emergency Management: Warning Sirens 	FMN 	Emergency Ops 
+423.10000 	WNKD416 	RM	123.0 PL	WashngtnTwp Fire 	Fire - Primary Dispatch 	FMN 	Fire Dispatch 
+423.02500 	WNUF767 	RM	123.0 PL	WashngtonTwp DPW 	Public Works: Dispatch 	FMN 	Public Works 
+153.84500 	KNHB630 	BM		WshngtnTwp PW/FD 	Public Works/Fire 	FMN 	Multi-Talk 
+151.25000 	KJP277 	RM	065 DPL	HrnClnMP MetrBch 	Huron-Clinton MetroParks - Metropolitan Beach Rangers 	FMN 	Law Talk 
+151.25000 	KJP277 	RM	146.2 PL	HurClnMP StnyCrk 	Huron-Clinton MetroParks - Stoney Creek Park Rangers 	FMN 	Law Talk 
+155.17500 	WPVX788 	BM		Medstar EMS 	EMS: Dispatch - Backup (on MPSCS TRS) 	FMN 	EMS Dispatch 
+155.29500 	WPVX788 	BM	179.9 PL	MedStar TrnsVans 	Patient Transport Vans 	FMN 	EMS Dispatch 
+151.04000 	WQNI243 	BM	97.4 PL	AirMed 2 	AirMed Ops 	FMN 	EMS Dispatch 
+159.22500 	 	BM		Superior Amblnce 	Dispatch 	FMN 	EMS Dispatch 
+423.12500 	WNJV808 	RM	123.0 PL	UnivMacAmb. Disp 	EMS: Dispatch - Primary  	FMN 	EMS Dispatch 
+423.47500 	WNJV808 	RM	123.0 PL	UnivMacAmbScndry 	EMS: Dispatch - Secondary  	FMN 	EMS Dispatch 
+155.17500 	WNJV808 	BM		UnivMacAm Backup 	EMS: Dispatch - Backup 	FMN 	EMS Dispatch 
+155.16000 	WNJV808 	M		UnivMacAmCar2car 	EMS: Car-to-Car 	FMN 	EMS-Talk 
+46.00000 	WNJV808 	BM	77.0 PL	UnivMacAmbVanSvc 	Van Service 	FM 	Transportation 
+423.95000 	WNNG460 	RM		HnryFrdHSecurty1 	Security 1 	DMR 	Security 
+424.05000 	WNNG460 	RM		HnryFrdHSecurty2 	Security 2 	DMR 	Security 
+464.77500 	KNEZ693 	RM	026 DPL	MtClmnsGH Secrty 	Security: Primary [Ch 2/1] 	FMN 	Security 
+461.15000 	WQDI258 	RM	CC 1TG 1SL 1	StJohnMH Secrty 	St. Johns Macomb Security 	DMR 	Security 
+453.82500 	KTL910 	RM	110.9 PL	MCC Security 	Security 	FMN 	Security 
+461.92500 	WNVT789 	RM		Armada Schl Bus 	Transportation - Primary 	FMN 	Schools 
+155.22000 	WPKZ667 	BM		CnterLine SchBus 	Transportation 	FMN 	Schools 
+452.11250 	WQXS870 	M		ChVallySch Sec1 	Security: Primary 	FMN 	Security 
+464.02500 	KNHQ837 	RM		ChipVal Sch Bus1 	Transportation: Primary 	FMN 	Schools 
+469.37500 	KNHQ837 	M		ChipVal Sch Bus2 	Transportation: Talkaround 	FMN 	Schools 
+464.72500 	WPUV400 	RM		ChipVal Sch Ops1 	Operations (2 locations) 	FMN 	Schools 
+451.85000 	WQXS870 	RM		ChVallySch Ops 2 	Operations 	FMN 	Schools 
+452.18750 	WQXS870 	M		ChVall Sch Ops 3 	Operations 	FMN 	Schools 
+452.21250 	WQXS870 	M		ChVall Sch Ops 4 	Operations 	FMN 	Schools 
+452.25000 	WQXS870 	M		ChVallySch Ops 5 	Operations 	FMN 	Schools 
+452.26250 	WQXS870 	M		ChVallySch Ops 6 	Operations 	FMN 	Schools 
+452.43750 	WQXS870 	M		ChVallySch Ops 7 	Operations 	FMN 	Schools 
+456.36250 	WQXS870 	M		ChVallySch Ops 8 	Operations 	FMN 	Schools 
+456.85000 	WQXS870 	M		ChVallySch Ops 9 	Operations 	FMN 	Schools 
+457.11250 	WQXS870 	M		ChVallySchOps 10 	Operations 	FMN 	Schools 
+457.18750 	WQXS870 	M		ChVallySchOps 11 	Operations 	FMN 	Schools 
+457.21250 	WQXS870 	M		ChVallySchOps 12 	Operations 	FMN 	Schools 
+461.38750 	WQXS870 	M		ChipVal SchOps13 	Operations 	FMN 	Schools 
+461.41250 	WQXS870 	M		ChipVal SchOps14 	Operations 	FMN 	Schools 
+464.82500 	KMH513 	RM	131.8 PL	E.Det Schl Bus1 	Transportation - Primary 	FMN 	Schools 
+469.37500 	KMH513 	M		E. Det Schl Bus2 	Transportation - Talkaround 	FMN 	Schools 
+461.06250 	KMH513 	M		E. Det. Schools 	Operations/Security 	FMN 	Schools 
+464.02500 	KNCV529 	RM		FitzgeraldSchool 	Transportation - Primary (Mt Clemens) 	FMN 	Schools 
+462.13750 	WQJW706 	RM		Fraser Schl Bus 	Transportation 	FMN 	Schools 
+464.57500 	WQJW706 	RM	71.9 PL	Fraser Schools 	Operations 	FMN 	Schools 
+451.23750 	WQGH386 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+451.28750 	WQGH386 	M		HuronAcad Op 	Operations/Security 	FMN 	Security 
+464.42500 	WXN285 	RM		LAnseCrs Sch Bus 	Transportation - Primary (Licensed as BM) 	FMN 	Schools 
+451.72500 	WQEJ798 	RM		LAnseCr School 1 	Operations/Security 	FMN 	Schools 
+451.83750 	WQAD749 	RM		LAnseCr School 2 	Operations/Security 	FMN 	Schools 
+451.18750 	WQEJ798 	M		LAnseCr School 3 	Operations/Security 	FMN 	Schools 
+451.28750 	WQEJ798 	M		LAnseCr School 4 	Operations/Security 	FMN 	Schools 
+451.46250 	WQEJ798 	M		LAnseCr School 5 	Operations/Security 	FMN 	Schools 
+451.48750 	WQEJ798 	M		LAnseCr School 6 	Operations/Security 	FMN 	Schools 
+451.51250 	WQEJ798 	M		LAnseCr School 7 	Operations/Security 	FMN 	Schools 
+451.61250 	WQEJ798 	M		LAnseCr School 8 	Operations/Security 	FMN 	Schools 
+451.63750 	WQEJ798 	M		LAnseCr School 9 	Operations/Security 	FMN 	Schools 
+451.68750 	WQEJ798 	M		LAnseCr School10 	Operations/Security 	FMN 	Schools 
+451.73750 	WQEJ798 	M		LAnseCr School11 	Operations/Security 	FMN 	Schools 
+451.86250 	WQEJ798 	M		LAnseCr School12 	Operations/Security 	FMN 	Schools 
+451.91250 	WQEJ798 	M		LAnseCr School13 	Operations/Security 	FMN 	Schools 
+451.93750 	WQEJ798 	M		LAnseCr School14 	Operations/Security 	FMN 	Schools 
+451.96250 	WQEJ798 	M		LAnseCr School15 	Operations/Security 	FMN 	Schools 
+464.82500 	WNWI452 	RM		LakeShore Schbus 	Transportation: Primary 	FMN 	Schools 
+464.02500 	KXP415 	RM	21 RAN	Maomb Int SchBus 	Transportation - Primary (Mount Clemens) 	NXDN 	Schools 
+462.16250 	WQKF811 	M		Lutz School 1 	Lutz School: Operations (Clinton Township) Expired 05/19 	FMN 	Schools 
+464.83750 	WQKF811 	M		Lutz School 2 	Lutz School: Operations (Clinton Township) Expired 05/19 	FMN 	Schools 
+464.02500 	KXR273 	RM		Romeo Schl Bus 1 	Transportation - Primary 	FMN 	Schools 
+463.22500 	WQEQ283 	RM		Romeo Sch Bus 2 	Transportation - Secondary 	FMN 	Schools 
+469.37500 	KXR273 	M		Romeo Schl Scrty 	Security 	FMN 	Schools 
+462.00000 	WQZD412 	RM	165 DPL	Rosville SchBus1 	Transportation - Primary 	FMN 	Schools 
+461.45000 	WRL261 	RM		Rosville SchBus2 	Transportation - Secondary 	FMN 	Schools 
+151.91000 	WQOT862 	BM		SouthLake SchBus 	Transportation 	FMN 	Schools 
+451.28750 	WQFX899 	M		Operations/Secur 	Operations/Security - License Expired 11/16 	FMN 	Schools 
+451.33750 	WQFX899 	M		St. Thomas Secur 	Operations/Security - License Expired 11/16 	FMN 	Schools 
+461.35000 	WPJW205 	RM	412 DPL	Utica Schl Bus1 	Transportation - Primary [Ch 1] 	FMN 	Schools 
+464.02500 	WNDM985 	RM		Utica Schl Bus3 	Transportation - Secondary [Ch 3] 	FMN 	Schools 
+422.87500 	WNUY995 	RM		VanDyke Schl Bus 	Transportation - Primary 	FMN 	Schools 
+151.52000 	WQCI666 	M		Security 	Security 	FMN 	Schools 
+151.57250 	WQCI666 	M		Security 	Security 	FMN 	Schools 
+152.30000 	WQCI666 	RM		WarenCS Security 	Security - Dispatch ? 	FMN 	Security 
+152.33000 	WQEH342 	RM		Operations/Secur 	Operations/Security 	FMN 	Schools 
+152.43500 	WQCI666 	BM	632 DPL	Warren Schl Bus 	Transportation - Primary 	FMN 	Schools 
+152.87000 	WQCI666 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+152.90000 	WQEH342 	RM		Operations/Secur 	Operations/Security 	FMN 	Schools 
+153.02000 	WQEH342 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+154.51500 	WPMJ859 	BM	203.5 PL	StrlnH HiSch Ops 	Sterling Heights High School - Ops 	FMN 	Schools 
+157.69500 	WQCI666 	M		Operations/SSecu 	Operations/Security 	FMN 	Schools 
+157.90000 	WQEH342 	M		Operations/SSecu 	Operations/Security 	FMN 	Schools 
+158.34750 	WQCI666 	M		Operations/SSecu 	Operations/Security 	FMN 	Schools 
+159.73750 	WQCI666 	M		OPS/SECURITY 	Operations/Security 	FMN 	Schools 
+159.84000 	WQEH342 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+159.90750 	WQCI666 	M		OPS/Security 	Operations/Security 	FMN 	Schools 
+159.96000 	WQEH342 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+159.99000 	WQCI666 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+160.11000 	WQEH342 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+160.13250 	WQCI666 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+160.15500 	WQEH342 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+160.18500 	WQCI666 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+160.20750 	WQCI666 	M		Operations/Secur 	Operations/Security 	FMN 	Schools 
+462.08750 	WQLP734 	RM	151.4 PL	WrrnWoods School 	Tower High School 	FMN 	Schools 
+CLEMIS (OakWIN) Public Safety Communications	 OpenSky 9600 baud	 Oakland County	ComSource Michigan DMR	 DMR Motorola Connect Plus (TRBO)	 Various	Consumers Energy	 EDACS Networked Standard
+ Various	FCA US: Sterling Heights (LTR)	 LTR Passport	 Sterling Heights	FCA US: Sterling Heights Assembly Plant (DMR)	 DMR Motorola Connect Plus (TRBO)	 Sterling Heights	FCA US: Sterling Heights Stamping Plant
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Sterling Heights	FCA US: Warren Truck Assembly / Stamping Plant	 DMR Motorola Capacity Plus Single Site (TRBO)	 Warren	Ford Motor Company (Romeo)	 Motorola Type II Smartnet	 Romeo
+Ford Motor Company: Sterling Heights	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sterling Heights	Ford Proving Grounds - Test Track	 DMR Motorola Capacity Plus Single Site (TRBO)	 Romeo	Suburban Mobility Authority for Regional Transportation (SMART)	 Motorola Type II Smartnet
+ Beverly Hills	Superior Ambulance 	 DMR Conventional Networked	 Various	United States Army (58A)	 Project 25 Phase I	 Various	Warren Public Safety Project 25 System
+ Project 25 Phase I	 Warren	

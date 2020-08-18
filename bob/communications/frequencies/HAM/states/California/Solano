@@ -1,0 +1,47 @@
+155.49000 	KMA760 	RM	107.2 PL	Solano Co SO1 	Dispatch 	FMN 	Law Dispatch 
+155.13000 	WQJU922 	RM	107.2 PL	Solano Co SO2 	Channel 2/SECA 1 	FMN 	Law Tac 
+156.15000 	 	M	107.2 PL	Solano Co SO3 	Channel 3 	FMN 	Law Tac 
+453.10000 	 	RM	026 DPL	Solano Co JH 	Juvenile Hall 	FM 	Corrections 
+453.10000 	 	RM	464 DPL	Solano Co Jail 	Jail 	FM 	Corrections 
+453.92500 	 	RM	464 DPL	Solano Co Courts 	Courts 	FM 	Law Dispatch 
+156.00000 	KMJ844 	RM	107.2 PL	Solano Co FD1 	Dispatch 	FMN 	Fire Dispatch 
+154.34000 	 	RM	107.2 PL	Solano Co FD2 	Command/SECA 2 	FMN 	Fire-Tac 
+155.52000 	 	BM	107.2 PL	Solano Co FD3 	Tac 	FMN 	Fire-Tac 
+155.40000 	 	BM	107.2 PL	KVal/Vaca 	Kaiser Vallejo & Vacaville 	FM 	Hospital 
+155.40000 	 	BM	173.8 PL	NB Medical 	Northbay Medical 	FM 	Hospital 
+483.08750 	 	RM	107.2 PL	Solano UHF T1 	UHF Tac 1/SECA 1 	FMN 	Interop 
+482.36250 	 	RM	107.2 PL	Solano UHF T2 	UHF Tac 2/SECA 2 	FMN 	Interop 
+858.46250 	 	RM	107.2 PL	Solano 800 T1 	800 Tac 1/SECA 1 	FM 	Interop 
+858.93750 	 	RM	107.2 PL	Solano 800 T2 	800 Tac 2/SECA 2 	FM 	Interop 
+151.13000 	KEL500 	RM	107.2 PL	Solano Roads 	County Roads/SECA 3 	FMN 	Public Works 
+151.14500 	KCE668 	M	CSQ	Solano Park/Rec 	Parks and Recreation 	FMN 	Public Works 
+154.83000 	 	RM	179.9 PL	Solano PW 2 	Public Works 2 	FMN 	Public Works 
+155.77500 	WBM222 	RM	107.2 PL	Benicia PD1 	Police Dispatch 	FM 	Law Dispatch 
+155.08500 	KGX945 	BM	107.2 PL	Benicia PD2 	Police Tactical 	FM 	Law Tac 
+155.94000 	WNVF600 	RM	179.9 PL	Benicia FD 	Fire Dispatch 	FM 	Fire Dispatch 
+154.14500 	KNER680 	RM	107.2 PL	Dixon FD CMD 	Fire Command 	FMN 	Fire-Talk 
+154.08500 	 	M	162.2 PL	Dixon FD Tac 	Fire Tac 	FMN 	Fire-Tac 
+154.17500 	WNPE604 	RM	107.2 PL	Suisun City FD1 	Fire Dispatch 	FM 	Fire Dispatch 
+154.20500 	WNPE604 	M	107.2 PL	Suisun City FD2 	Fire Tactical 	FM 	Fire-Tac 
+155.91000 	KMA818 	RM	107.2 PL	Vallejo PD1 	Police Dispatch 	FM 	Law Dispatch 
+155.97000 	KMA818 	RM	107.2 PL	Vallejo PD2 	Police Tac 	FM 	Law Tac 
+482.98750 	KGC481 	RM	127.3 PL	Vallejo FD1 	Fire Dispatch 	FM 	Fire Dispatch 
+483.06250 	WNAX403 	BM	127.3 PL	Vallejo FD2 	Fire Tac 	FM 	Fire-Talk 
+153.11750 	WQFD709 	RM	CC 7TG 100SL 1	Vallejo PW 	Sanitation and Flood Control 	DMR 	Public Works 
+152.99750 	WQIW714 	RM	CC 1TG 40SL 1	CSUM PD1 	Police Dispatch - Main 	DMR 	Law Dispatch 
+153.01250 	WQIW714 	RM	CC 1TG 40SL 1	CSUM PD2 	Police Dispatch - Aquatic 	DMR 	Law Dispatch 
+452.22500 	WQIW714 	RM	023 DPL	CSUM UHF 1 	Campuswide Multi-Use Repeater 	FMN 	Schools 
+469.81250 	WQIW714 	M	023 DPL	CSUM UHF 2 	Campuswide Multi-Use Direct 	FMN 	Schools 
+464.77500 	 	RM	192.8 PL	TSGB Ch 1 	Training Ship - Shipboard Emergencies/Engine Dept 	FMN 	Schools 
+466.11250 	 	M	192.8 PL	TSGB Ch 2 	Training Ship  - Deck Department 	FMN 	Schools 
+462.81250 	 	RM	411 DPL	TSGB Ch 3 	Training Ship - Ch 3 	FMN 	Schools 
+155.08500 	 	BM	146.2 PL	DUSD Bus 	Bus Transportation 	FMN 	Schools 
+39.74000 	KRE200 	BM	100.0 PL	FSUSD Trans 	District Transportation 	FM 	Schools 
+155.28000 	WQRD696 	BM	565 DPL	Vallejo USD 	School Busses 	FMN 	Schools 
+Anheuser-Busch (Fairfield)	 Motorola Type II Smartnet	 Fairfield	California Department of Corrections and Rehabilitation	 Project 25 Phase II	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I
+ Multiple	CALTrans (District 04 - South)	 Motorola Type II Smartnet	 None	Crystal Communications (Mt Vaca)	 LTR Standard	 None	East Bay Regional Communications System (EBRCS)
+ Project 25 Phase I	 Multiple	La Rue Communications (Mt. Vaca)	 LTR Standard	 Vacaville	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various
+Radio Wrench	 LTR Standard	 Vacaville	Sacramento Municipal Utility District	 Project 25 Phase I	 Sacramento	Signature Wireless Group iDAS Multitrunk (Bay Area)	 NXDN Icom IDAS Type D
+ San Rafael	Silke Communications	 NXDN NEXEDGE 4800	 Northern California	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	The Radio Guys
+ NXDN NEXEDGE 4800	 Various	United States Air Force (57C)	 Project 25 Phase I	 Multiple	Vacaville/Fairfield/Suisun	 Motorola Type II Smartnet	 Vacaville/Fairfield
+Vacaville/Fairfield/Suisun P25	 Project 25 Phase I	 Vacaville	

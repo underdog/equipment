@@ -1,0 +1,60 @@
+155.04000 	KOM899 	RM		CCSO HI 	Sheriff's Department - Highband 	FMN 	Law Talk 
+852.57500 	WPQD278 	M		Cobb T/A 1 	Cobb Talk Around 1 	FMN 	Interop 
+856.73750 	KNJH400 	M		Cobb T/A 2 	Cobb Talk Around 2 	FMN 	Interop 
+857.73750 	KNJH400 	M		FIRE TAC 	Cobb/Marietta Fire TAC  	FMN 	Fire-Tac 
+453.80000 	KJN514 	M		BOE ADMIN 1 	Schools - Administration 	DMR 	Schools 
+453.80000 	KJN514 	RM		BOE ADMIN 2 	Schools - Administration 	DMR 	Schools 
+453.37500 	WNFQ492 	M		BUSES 1 	Schools - Buses 	DMR 	Schools 
+453.37500 	WNFQ492 	RM		BUSES 2 	Schools - Buses 	DMR 	Schools 
+453.45000 	WPBI612 	RM		BUSES 3 	Schools - Buses 	DMR 	Schools 
+453.62500 	KNJS396 	RM	107.2 PL	BOE MTCE 	Schools - Maintenance 	FMN 	Schools 
+460.50000 	KVF579 	RM		BUS MTCE 	Schools - Bus Maintenance 	DMR 	Schools 
+453.28750 	WQOK692 	RM		Chat Tech 	Chattahoochee Technical College Security 	DMR 	Security 
+156.11250 	KLW359 	RM		Austell PW R 	Austell Public Works 	FMN 	Public Works 
+155.80500 	KLW359 	BM		Austell PW 	Austell Public Works 	FMN 	Public Works 
+47.82000 	KII869 	RM	103.5 PL	Austell Gas 	Natural Gas System 	FMN 	Utilities 
+159.09000 	KIC334 	RM	103.5 PL	MPD Ch 1 	Police Backup System & AVL/GPS 	FMN 	Data 
+155.68500 	WNPH344 	RM	103.5 PL	MPD Ch 2 	Simulcast of MPD 1 on DTRS 	FMN 	Multi-Tac 
+155.79000 	KIC334 	RM	103.5 PL	MPD Ch 3 	Cobb County MRD 	FMN 	Law Tac 
+155.97000 	WNPH344 	RM	103.5 PL	MPD TACT 	Police Tactical (Portables only) 	FMN 	Law Tac 
+154.25000 	KSJ241 	RM		CCFD Disp 	Fire Dispatch (VHF Simulcast) 	FMN 	Fire Dispatch 
+154.43000 	KSJ241 	RM		MFD Repeater 	Fire Dispatch (Repeater) 	FMN 	Fire Dispatch 
+151.13000 	WNNQ719 	RM	103.5 PL	TRAFFIC 	Traffic Services & Special Events 	FMN 	Multi-Tac 
+451.72500 	WPUF213 	RM		Schools 	City Schools 	FMN 	Schools 
+452.10000 	WPUF213 	RM	364 DPL	School Bus 	School Buses 	FMN 	Transportation 
+453.53750 	WQEA200 	RM	103.5 PL	Schools 1 	City Schools - Transportation Div. 	FMN 	Schools 
+453.76250 	WQEA200 	RM	103.5 PL	Schools 2 	City Schools - Maintenance Div. 	FMN 	Schools 
+461.05000 	WPUF213 	RM		Schools R 	City Schools 	FMN 	Schools 
+462.25000 	WPUF213 	BM		Schools 	City Schools 	FMN 	Schools 
+460.02500 	WPSN478 	RM	103.5 PL	CITYWIDE 	Citywide Interoperability Channel 	FMN 	Interop 
+460.13750 	WQEA200 	RM	103.5 PL	9-1-1 Link 	9-1-1 Interoperability Channel 	FMN 	Interop 
+154.16000 	KVZ629 	RM	107.2 PL	SFD Dispatch 	Fire Dispatch (VHF Backup) 	FMN 	Fire Dispatch 
+465.28750 	WQDS518 	BM		SFD UHF 	Fire Department 	FMN 	Fire-Talk 
+156.15000 	KII551 	RM	103.5 PL	SPD Dispatch 	Police Department Backup 	FMN 	Law Dispatch 
+154.96500 	WPDN821 	BM	103.5 PL	Loc Gov 	Local Government Usage 	FMN 	Other 
+45.12000 	KWF946 	BM		Smyrna EMA 	EMA 	FMN 	Emergency Ops 
+45.36000 	KWF946 	BM		Smyrna EMA 	EMA 	FMN 	Emergency Ops 
+46.54000 	KVZ465 	BM		Public Works 	Public Works 	FMN 	Public Works 
+154.96500 	WPDN821 	RM		Parks VHF 	Parks and Recreation VHF 	FMN 	Public Works 
+458.50000 	WPVB330 	M	065 DPL	Parks/Rec 1 	Parks and Recreation Ch 1 	FMN 	Public Works 
+458.25000 	WPVB330 	M	065 DPL	Parks/Rec 2 	Parks and Recreation Ch 2 	FMN 	Public Works 
+120.22500 	 			DARB GCA 	Ground Controlled Approach 	AM 	Aircraft 
+120.75000 	 			DARB TOWER 	Dobbins Tower 	AM 	Aircraft 
+121.00000 	 			APP/DEP 	Atlanta Approach/Departure 	AM 	Aircraft 
+134.12500 	 			DARB GCA 	Ground Controlled Approach 	AM 	Aircraft 
+143.45000 	 	RM		MARS 	MARS 	FM 	Military 
+165.01250 	 			MAINTENANCE 	Maintenance 	FM 	Utilities 
+165.11250 	 		97.4 PL	BASE OPS 	Base Operations 	FM 	Law Tac 
+165.13750 	 			MAINTENANCE 	Maintenance 	FM 	Utilities 
+165.16250 	 			MAINTENANCE 	Maintenance 	FM 	Utilities 
+165.26250 	 		97.4 PL	USAF POLICE 	Air Police 	FM 	Law Dispatch 
+173.58750 	 			RAMP 	Ramp Vehicles, Fire/Crash 	FM 	Law Dispatch 
+268.70000 	 			APP/DEP 	Atlanta Approach/Departure 	AM 	Transportation 
+275.80000 	 			DARB GROUND 	Ground Control 	AM 	Aircraft 
+346.80000 	 			DARB GCA 	Ground Controlled Approach 	AM 	Transportation 
+370.87500 	 			DARB TOWER 	Dobbins Tower 	AM 	Transportation 
+Atlanta Braves (Truist Park)	 LTR Standard	 Smyrna	Braves Development Company	 DMR Motorola Capacity Plus Single Site (TRBO)	 Smyrna	Cobb EMC TETRA	 TETRA Standard
+ Marietta	Cobb Regional Radio System	 Project 25 Phase II	 Various	Federal Protective Service Atlanta MOT	 Motorola Type II SmartZone	 Various	Georgia Fleet Talk (NXDN)
+ NXDN NEXEDGE 4800	 Various	Greystone Power LTR	 LTR Standard and Passport	 Dallas	Lockheed Martin Marietta 900 MOT	 Motorola Type II Smartnet	 Marietta
+Lockheed Martin Marietta UHF P25	 Project 25 Phase I	 Marietta	Lockheed Martin Marietta VHF P25	 Project 25 Phase I	 Marietta	Marietta City Services	 NXDN NEXEDGE 9600
+ Marietta	SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various	United States Air Force (3D6)	 Project 25 Phase I	 Various	

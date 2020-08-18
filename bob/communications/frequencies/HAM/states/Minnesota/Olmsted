@@ -1,0 +1,62 @@
+155.49000 	KAB816 	RM		OLMS PAGING 	County Paging 	FMN 	Fire Dispatch 
+155.80500 	KUL870 	BM		OLMS  	County VHF access/paging 	FMN 	Multi-Dispatch 
+153.98000 	WPEE437 	M		OLMS MAINT 	Building Maintenance 	FMN 	Public Works 
+155.11500 	WNYU314 	BM		OLMS LF ENG 	Landfill/Engineer 	FMN 	Public Works 
+155.76000 	WNKI511 	RM	162.2 PL	OLMS EOC 	Emergency Operations Center 	FMN 	Emergency Ops 
+216.01250 	WPHU405 	M		OLMS PLN ZON 	Planning/Zoning 	FMN 	Public Works 
+453.37500 	KB88096 	RM	71.9 PL	OLMS ENV 1 	Environmental 	FMN 	Public Works 
+453.63750 	WQCJ787 	RM	110.9 PL	OLMS MR JDC 	Many Rivers Juvenile Detention Center 	FMN 	Corrections 
+458.95000 	WPWL763 	M		OLMS ENV 2 	Environmental 	FMN 	Public Works 
+854.98750 	WPXQ433 	BM		OLMS MDT SEC 	MDT (Backup) 	FM 	Data 
+855.48750 	WPFF648 	BM		OLMS MDT PRI 	MDT (Primary) 	FM 	Data 
+155.28000 	KDR729 	BM	141.3 PL	GOLD CROSS P 	Gold Cross Ambulance Primary 	FMN 	EMS Dispatch 
+155.34000 	KLX400 	BM	141.3 PL	GOLD CROSS S 	Gold Cross Ambulance Backup 	FMN 	EMS Dispatch 
+155.38500 	KLX400 	BM	141.3 PL	ROCH EMS 	Rochester Regional EMS 	FMN 	Hospital 
+155.40000 	KLX400 	BM	162.2 PL	MAYO ONE 	Mayo One Dispatch 	FMN 	EMS Dispatch 
+123.05000 	 	M		ST MRY HELPD 	St. Mary Hosp. (Mayo)-Helipad Ops 	AM 	Aircraft 
+124.17500 	 	M		ST MRY WX 	St. Mary Hosp. (Mayo)-Helipad Weather 	AM 	Aircraft 
+130.07500 	 	M		MAYO 1 AIR   	Mayo Foundation-Mayo 1 Air Ops 	AM 	Aircraft 
+155.10000 	WPBK227 	RM	97.4 PL	CHAT P SAFTY 	Police/Fire/EMS 	FMN 	Multi-Dispatch 
+154.11500 	WNVV714 			EYOTA WORKS 	City Service Dept. 	FMN 	Public Works 
+155.79000 	WPRF270 	RM		EYOTA WORKS 	City Service Dept. 	FMN 	Public Works 
+160.15500 	WQBF583 	BM		OLMS MED CTR 	Olmsted Medical Center 	FMN 	Hospital 
+460.62500 	WQAI651 	BM		ROCH FD PAGE 	Fire Paging 	FMN 	Fire Dispatch 
+153.18500 	KAA306 	RM	192.8 PL	ROCH UTIL 	Utilities 	FMN 	Utilities 
+153.42500 	KAA306 	RM	151.4 PL	ROCH UTIL 	Utilities 	FMN 	Utilities 
+153.51500 	WPAZ809 	M		ROCH UTIL SL 	Utilities - Silver Lake 	FMN 	Utilities 
+451.27500 	WPCB507 	M		ROCH UTIL SL 	Utilities - Silver Lake 	FMN 	Utilities 
+451.57500 	WPCB507 	M		ROCH UTIL SL 	Utilities - Silver Lake 	FMN 	Utilities 
+456.15000 	KAA306 	M		ROCH UTIL PT 	Utilities - Portables 	FMN 	Utilities 
+456.25000 	WPCB507 	M		ROCH UTIL 	Utilities 	FMN 	Utilities 
+456.27500 	WPCB507 	M		ROCH UTIL 	Utilities 	FMN 	Utilities 
+153.68000 	WNYW648 	M		ROCH WTR R P 	Water Reclamation Plant 	FMN 	Public Works 
+453.85000 	WPAZ737 	RM	025 DPL	ROCH AIRPORT 	Airport Operations ( Maint.) 	FMN 	Business 
+456.31250 	WPZK340 	M		ROCH WATER 	Water Distribution 	FMN 	Utilities 
+456.43750 	WPZK340 	M		ROCH WATER 	Water Distribution 	FMN 	Utilities 
+467.81250 	WPZK340 	M		ROCH WATER 	Water Distribution 	FMN 	Utilities 
+467.83750 	WPZK340 	M		ROCH WATER 	Water Distribution 	FMN 	Utilities 
+154.05500 	KFR610 	RM	88.5 PL	ROCH WORKS 	Public Works (Street/Parks) 	FMN 	Public Works 
+155.11500 	WNYU314 	BM		ROCH TWP WKS 	Township Services 	FMN 	Public Works 
+453.70000 	WPPH949 	RM	125 DPL	MAYO CC 1 	Mayo Civic Center 1 	FMN 	Business 
+461.47500 	WPKV380 	RM	88.5 PL	ROCH PS 1 	Rochester Public Schools 1 	FMN 	Schools 
+461.92500 	WPBT462 	RM	94.8 PL	RCTC 	Rochester Community and Technical College 	FMN 	Schools 
+462.40000 	WPXN535 	RM	85.4 PL	ROCH PS 2 	Rochester Publis Schools 2 	FMN 	Schools 
+463.46250 	WPGR594 	M	025 DPL	ROCH PS 3 	Rochester Publis Schools 3 	FMN 	Schools 
+463.51250 	WPGR594 	M	71.9 PL	ROCH PS 4 	Rochester Public Schools 4 	FMN 	Schools 
+463.70000 	WPKV380 	RM	506 DPL	ROCH PS 5 	Rochester Public Schools 5 	FMN 	Schools 
+464.47500 	WPKV380 	RM	88.5 PL	ROCH PS 6 	Rochester Public Schools 6 	FMN 	Schools 
+464.50000 	NOCALL 	RM	206.5 PL	MAYO CC 3 	Mayo Civic Center 3 	FMN 	Business 
+153.18500 	KAA306 	RM	192.8 PL	ROCH UTIL 1 	Rochester Public Utilities 1 	FMN 	Utilities 
+451.42500 	KNBW268 	RM		PEOPLES COOP 	Peoples Cooperative Services 	P25 	Utilities 
+464.86250 	WQMQ990 	RM	CC 4TG *SL *	ROCH UTIL 2 	Rochester Public Utilities 2 	DMR 	Utilities 
+461.47500 	WPKV380 	RM	88.5 PL	ROCH SCH 1 	Rochester Public Schools 1 	FMN 	Schools 
+461.92500 	WPBT462 	RM	94.8 PL	RCTC 	Rochester Community and Technical College 	FMN 	Schools 
+462.40000 	WPXN535 	RM	85.4 PL	ROCH SCH 6 	Rochester Publis Schools 6 	FMN 	Schools 
+463.46250 	WPGR594 	M	025 DPL	ROCH SCH 5 	Rochester Publis Schools 5 	FMN 	Schools 
+463.51250 	WPGR594 	M	71.9 PL	ROCH SCH 2 	Rochester Public Schools 2 	FMN 	Schools 
+463.70000 	WPKV380 	RM	506 DPL	ROCH SCH 4 	Rochester Public Schools 4 	FMN 	Schools 
+464.47500 	WPKV380 	RM	88.5 PL	ROCH SCH 3 	Rochester Public Schools 3 	FMN 	Schools 
+21st Century Wireless	 LTR Standard	 Rochester	Alpha-Ancom Connect Plus	 DMR Motorola Connect Plus (TRBO)	 	Dairyland Power Cooperative	 DMR Tier 3
+ Various	Federal Medical Center Rochester	 Motorola Type II SmartZone	 Rochester	Hilltop Communications	 LTR Standard	 Rochester	Hilltop Communications / ESItalk
+ NXDN NEXEDGE 4800	 Red Wing, MN	Master Communications (Rochester)	 LTR Standard	 Rochester	Mayo Foundation - Clinic	 Motorola Type II Smartnet	 Rochester
+Nextel (Rochester)	 Motorola Type II Smartnet	 Rochester	RACOM Network	 EDACS Networked Standard	 Various	

@@ -1,0 +1,142 @@
+154.37000 	WQVI310 	BM	167.9 PL	PeoCo Fire1 	Fire/EMS: Countywide Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+154.26500 	WQVI307 	M	210.7 PL	IFERN 210.7 	Fire: Statewide Mutual Aid (MABAS) [Ch 2] 	FMN 	Fire-Talk 
+154.17500 	 	BM	167.9 PL	PeoCo Frgrd3 	Fire: Countywide Fireground [Ch 3] 	FMN 	Fire-Tac 
+154.13000 	WQVI307 	M	100.0 PL	PeoCo FG 	Fireground 	FMN 	Fire-Tac 
+155.22000 	KSD295 	BM	167.9 PL	PeoCo C-MED 	EMS: Peoria C-MED Ambulance Dispatch 	FMN 	EMS Dispatch 
+462.97500 	KSD295 	RM	192.8 PL	PeoCo EMS F1 	EMS / Peoria County Fire [Ch 1 UHF Simulcast of 154.370] 	FMN 	EMS Dispatch 
+158.73000 	KSH226 	RM	186.2 PL	Peo Sheriff 	Sheriff: Dispatch [Ch 1/2] (Simulcast TG6701) 	FMN 	Law Dispatch 
+158.79000 	KSH226 	M	186.2 PL	Peo Sheriff c2c3 	Sheriff: Car-to-Car [Ch 3] 	FMN 	Law Talk 
+158.79000 	KSH226 	RM	186.2 PL	Peo Sheriff F4/5 	Sheriff: Sheriff Operations [Ch 4/5] (94.8/186.2 in) 	FMN 	Law Tac 
+769.25625 	WQRM379 	RM		Peo Vehic Rpt 1 	Vehicular Repeaters 	FMN 	Law Tac 
+774.50625 	WQRM379 	RM		Peo Vehic Rpt 2 	Vehicular Repeaters 	FMN 	Law Tac 
+770.53125 	WQRM379 	RM		Peo Vehic Rpt 3 	Vehicular Repeaters 	FMN 	Law Tac 
+769.55625 	WQRM379 	RM		Peo Vehic Rpt 4 	Vehicular Repeaters 	FMN 	Law Tac 
+770.25625 	WQRM379 	RM		Peo Vehic Rpt 5 	Vehicular Repeaters 	FMN 	Law Tac 
+770.89375 	WQRM379 	RM		Peo Vehic Rpt 6 	Vehicular Repeaters 	FMN 	Law Tac 
+769.80625 	WQRM379 	RM		Peo Vehic Rpt 7 	Vehicular Repeaters 	FMN 	Law Tac 
+858.26250 	WQYD494 	RM		Peo Sherif B/U A 	Back-Up to P25 	FMN 	Multi-Dispatch 
+859.26250 	WQYD494 	RM		Peo Sherif B/U B 	Back-Up to P25  	FMN 	Multi-Dispatch 
+855.23750 	WQYD494 	RM		Peo Sherif B/U C 	Back-Up to P25  	FMN 	Multi-Dispatch 
+858.98750 	WQYD494 	RM		Peo Sherif B/U D 	Back-Up to P25  	FMN 	Multi-Dispatch 
+154.87500 	KSH226 	BM	100.0 PL	Peo ISPERN 2 	Sheriff: ISPERN-2 (Peoria City - Warrants, etc) 	FMN 	Law Dispatch 
+155.04000 	WQVI307 	RM	146.2 PL	Peo ISPERN 3  	Sheriff: ISPERN 3 	FMN 	Law Tac 
+155.59500 	WQVI307 	RM	91.5 PL	Peo ISPERN 4  	Sheriff: ISPERN 4 	FMN 	Law Tac 
+155.37000 	WQIV310 	BM	186.2 PL	Peo Point-to-Pt 	Police: Point-to-Point 	FMN 	Law Tac 
+155.59500 	KSH226 	BM	186.2 PL	Peo Sheriff Cmnd 	Sheriff: Command 	FMN 	Law Tac 
+156.03000 	KSH226 	M	186.2 PL	Peo Sheriff Tac 	Sheriff: Tactical 	FMN 	Law Tac 
+460.02500 	KSH226 	BM	136.5 PL	Peo Courthouse 	Courthouse Security / Mobile Command Post  	FMN 	Law Tac 
+460.27500 	KSH276 	M	186.2 PL	Peo Sheriff MobX 	Sheriff: Mobile Extenders 	FMN 	Law Tac 
+460.27500 	KSH226 	BM	CSQ	PeoCo Shrf U2U 	Sheriff: Unit-to-Unit  	FMN 	Law Tac 
+851.21250 	WQNC750 	RM		Peo SheriffJailA 	Jail 	FMN 	Corrections 
+853.11250 	WQNC750 	RM	186.2 PL	Peo SheriffJailB 	Jail 	FMN 	Corrections 
+460.12500 	KNNS796 	RM	CC 4TG 150SL 1	Peo Juv Det Cntr 	Juvenile Detention Center (Bellevue) 	DMR 	Corrections 
+453.01250 	KNNS796 	M		Peo Shrf Jail 1  	Sheriff/Jail/Courts/Warrants/Detention Center 	FMN 	Corrections 
+453.58750 	KNNS796 	M		Peo Shrf Jail 3  	Sheriff/Jail/Courts/Warrants/Detention Center: unidentified use 	FMN 	Corrections 
+458.18750 	KNNS796 	M		Peo Shrf Jail 5  	Sheriff/Jail/Courts/Warrants/Detention Center: 	FMN 	Corrections 
+453.18750 	KNNS796 	M		Peo Shrf Jail 2  	Sheriff/Jail/Courts/Warrants/Detention Center: Mobile Extenders 	FMN 	Corrections 
+458.01250 	KNNS796 	M		Peo Shrf Jail 4  	Sheriff/Jail/Courts/Warrants/Detention Center: Mobile Extenders 	FMN 	Corrections 
+458.58750 	KNNS796 	M		Peo Shrf Jail 6  	Sheriff/Jail/Courts/Warrants/Detention Center: Mobile Extenders 	FMN 	Corrections 
+465.55000 	KSH226 	M		Peo Sheriff MX2 	(Old) Sheriff: Mobile Extenders 	FMN 	Law Tac 
+154.29500 	KNBH431 	RM	186.2 PL	PeoCo ESDA W 	ESDA: Operations - West Tower  	FMN 	Emergency Ops 
+154.29500 	KNBH431 	RM	186.2 PL	PeoCo ESDA E 	ESDA: Operations - East Tower [100.0 in] 	FMN 	Emergency Ops 
+453.40000 	KTH434 	RM	136.5 PL	PeoCoHighway 	Highway Department (Brimfield) 	FMN 	Public Works 
+152.00750 	WPVW318 	B		AMT EMS PG 	EMS: Personnel Paging (East Peoria) 	Telm 	Data 
+159.51000 	WPXK935 	BM	88.5 PL	Lifeflight 	EMS: Lifeflight - Dispatch (St Francis) 	FMN 	EMS Dispatch 
+155.34000 	WQEK224 	B	023 DPL	MERCI Proctr 	Patient Reports (UnityPoint Proctor) 	FMN 	Hospital 
+155.34000 	KZZ224 	BM	82.5 PL	MERCI1 82.5 	Patient Reports (UnityPoint Methodist) 	FMN 	Hospital 
+155.34000 	WQEN997 	BM	167.9 PL	MERCI1 167.9 	Patient Reports (St Francis) 	FMN 	Hospital 
+151.02500 	KNIN942 	BM		MsvlTS Roads 	Mossville Township Road Maintenance [Expired] 	FMN 	Public Works 
+155.95500 	KZV871 	BM		ChilTS Roads 	Chillicothe Township Highway Department 	FMN 	Public Works 
+156.16500 	WPJS830 	BM		PLPWaterDstr 	Pleasant Valley Public Water District 	FMN 	Public Works 
+451.92500 	WQYS294 	F		PVPWD Data 	Pleasant Valley Public Water District: Data (CSQ) 	Telm 	Data 
+453.62500 	KNFL520 	BM		LimeTS Raods 	Limestone Township Road Maintenance 	FMN 	Public Works 
+453.32500 	KXZ268 	RM	173.8 PL	Citylink325 	Peoria CityLink (Transit Buses) (Peoria Heights) 	FMN 	Transportation 
+453.75000 	KXZ268 	RM	173.8 PL	Citylink750 	CityLink buses (Peoria Heights) 	FMN 	Transportation 
+154.41500 	KSE279 	M	CSQ	Toulon Fire 	{Link to} Toulon/Stark County Fire Dispatch 	FMN 	Fire-Tac 
+154.44500 	WPLX478 	RM	CSQ	Wyoming Fire 	{Link to} Wyoming Fire Dispatch/Stark County 	FMN 	Fire-Tac 
+155.26500 	WPCH274 	BM		AP EMS/Rsq33 	EMS: Local / Rescue 33 Ambulance 	FMN 	EMS-Tac 
+460.10000 	WPKF842 	RM	203.5 PL	BrtnvlPolice 	Police: Back-Up to P25 	FMN 	Law Dispatch 
+159.21000 	WPKF842 	B	167.9 PL	Bv/Dn Police 	Police: Bartonville [Ch 2] 	FMN 	Law Dispatch 
+154.10000 	KNBW723 	BM	167.9 PL	Bartnvl Fire 	Fire: Paging / Tone-Outs (DB: TAZCOM) 	FMN 	Fire Dispatch 
+153.95000 	KNBY462 	M	167.9 PL	BartonvileFG 	Fireground/Ops [Ch 2] 	FMN 	Fire-Tac 
+151.02500 	WPHI870 	BM		Bartonvl PW 	Public Works (123.0?) 	FMN 	Public Works 
+155.67000 	KSB568 	BM	186.2 PL	Chil Police 	Police: Dispatch - Simulcast of P25 TG413 	FMN 	Law Dispatch 
+155.97000 	KSB568 	M	186.2 PL	Chil Police2 	(OLD) Police: Secondary 	FMN 	Law Tac 
+465.52500 	KSB568 	F		Chil Police RF 	(OLD) Police: Remote Link 	FMN 	Law Dispatch 
+154.32500 	WQVI310 	BM	186.2 PL	Chil Fire Paging 	Fire: Paging / Tone-Outs [Ch 1] 	FMN 	Fire Dispatch 
+159.44250 	WPVP778 	M		Chil Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+154.08500 	WPDI624 	BM	186.2 PL	Chil Sanitary 1 	Sanitary District / Police [Ch 2] 	FMN 	Public Works 
+155.95500 	WPDI624 	M	CSQ	Chil Sanitary 2 	Sanitary District: City Public Works 	FMN 	Public Works 
+460.27500 	KSO416 	M		Dunlap Police 	Portables 	FMN 	Law Tac 
+155.11500 	KNBC439 	BM	167.9 PL	Dunlap Fire 	Fire: Ops - Tac 5 	FMN 	Fire-Tac 
+460.61250 	KFV554 	F	67.0 PL	Peo Fire RF1 	Fire: Remote Link (for Peo City Fire) 	FMN 	Fire Dispatch 
+460.60000 	KFV554 	F	114.8 PL	Dnlp FireRF1 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+465.57500 	KFV554 	F	114.8 PL	Dnlp FireRF2 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+465.60000 	KFV554 	F		Dnlp FireRF4 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+465.61250 	KFV554 	F		Dnlp FireRF3 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+465.62500 	KFV554 	F		Dnlp FireRF5 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+462.96250 	KAJ202 	M		Dnlp EMS MX 	EMS: Mobile Extenders (Rescue Squad) 	FMN 	EMS-Tac 
+155.80500 	KVM479 	BM	203.5 PL	Elmwood Local  	Police: Local / Public Works 	FMN 	Multi-Tac 
+158.82000 	WNVZ631 	BM		Glasford Village 	Village Hall 	FMN 	Public Works 
+151.37000 	KSE428 	BM	203.5 PL	LT Fire Ops4 	Fireground/Ops [Ch 4] 	FMN 	Fire-Tac 
+151.80500 	WNPH306 	M	100.0 PL	LT Fire Ops5 	Fireground/Ops [Ch 5?] 	FMN 	Fire-Tac 
+460.02500 	WQUZ569 	RM	114.8 PL	LoganTrivFDpage 	Fire: UHF Dispatch 	FMN 	Fire Dispatch 
+460.05000 	KET551 	RM	100.0 PL	Peo PREP 1 	Police: Dispatch [PREP 1] (Simulcast of TG 451) 	FMN 	Law Dispatch 
+460.25000 	KTE551 	RM	173.8 PL	Peo PREP 2 	Police: Interop Back UP/Events (still in use) [PREP 2] 	FMN 	Law Tac 
+460.20000 	WXL707 	M	100.0 PL	PeoSD Prep 1 	Police: Simulcast of Peoria PD Prep 1 460.050 (100.0)  	FMN 	Law Dispatch 
+460.15000 	WXL707 	M		Peo Law RF1 	Police: Remote Links 	FMN 	Law Dispatch 
+460.42500 	WXL707 	M		Peo Law RF2 	Police: Remote Links 	FMN 	Law Dispatch 
+465.00000 	WXL707 	B		Peo Law RF3 	Police: Remote Link (Temp Base - Tazewell) 	FMN 	Law Dispatch 
+158.00000 	WXL707 	M		Peo Law RF4 	Sheriff: Remote Links  	FMN 	Law Dispatch 
+155.04000 	KCJ417 	BM		Peo ESDA PG 	ESDA Paging (146.2? CWID 6/17) 	FMN 	Emergency Ops 
+453.50000 	KNAT718 	BM		PeoESDASiren 	ESDA Siren Control (Peoria, Brimfield) (114.8?) 	Telm 	Data 
+154.14500 	KZZ351 	BM	100.0 PL	PeoCityFire1 	Fire: Paging/ Tone Outs 	FMN 	Fire Dispatch 
+158.88000 	KNDJ429 	BM	100.0 PL	Peoria Parks 	Park District 	FMN 	Public Works 
+460.52500 	WNDS205 	RM	131.8 PL	PeoHts Police  	Police: Dispatch 	FMN 	Law Dispatch 
+460.27500 	WNDS205 	M		PeoHts PD MX 	Police: Mobile Extenders 	FMN 	Law Tac 
+156.09000 	WNDS205 	M	186.2 PL	PeoHts PD TA 	Police: Talk-Around  	FMN 	Law Tac 
+155.71500 	WQVI310 	RM	167.9 PL	PeoHts PubWorks 	Public Works / Police: Peoria Heights [Ch 2] 	FMN 	Multi-Tac 
+158.77500 	WQDN222 	BM	031 DPL	Princeville Ops 	Village Ops 	FMN 	Public Works 
+151.40000 	KSE293 	BM	167.9 PL	T-H FireOps4 	Fireground / Ops [Ch 4] 	FMN 	Fire-Tac 
+460.56250 	KSE293 	M		T-H Fire RF 	Fire: Remote Receive Link 	FMN 	Fire-Tac 
+151.46000 	KYR211 	BM	CSQ	TuscaroraFG4 	Fireground [Ch 4] 	FMN 	Fire-Tac 
+151.26500 	KSE413 	BM	CSQ	WPeo FG/Ops 	Fireground/Ops [Ch 4] 	FMN 	Fire-Tac 
+460.63750 	KSE413 	M		WPeo Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+453.61250 	KF2549 	M		WPeo EMS MX 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+464.05000 	WPOD991 	RM	123.0 PL	WPeo PublicWorks 	Public Works 	FMN 	Public Works 
+452.72500 	WPNW493 	RM	351 DPL	IVC School Bus  	Buses 	FMN 	Schools 
+453.67500 	WQMB357 	RM	141.3 PL	BrmfldSchool 	Buses / Ops 	FMN 	Schools 
+453.37500 	WQPT762 	RM	CC 8TG 1SL 1	Dunlap School 	Operations 	DMR 	Schools 
+453.67500 	WQMB356 	RM		Elmwood School  	Operations 	FMN 	Schools 
+460.43750 	WQWG525 	RM	CC 8|TG 1000|SL 1	IBSD Buses  	Buses 	FMN 	Schools 
+460.43750 	WQWG525 	RM	CC 8|TG 16777215|SL 1	IBSD All Call 	All Call 	FMN 	Schools 
+464.31250 	WQHG426 	M		PND School  	Operations  	FMN 	Schools 
+453.30000 	KU8709 	M	146.2 PL	P150 453300 	Districtwide talkaround (various schools) 	FMN 	Schools 
+159.09000 	KU8709 	M	351 DPL	PBOE Sec 2 	Security 	FMN 	Security 
+461.32500 	WQBR969 	RM	114 DPL	Peo Sch Bus1 	Buses [Ch 1]  	FMN 	Schools 
+466.32500 	WQBR969 	BM	114 DPL	Peo Sch Bus2 	Buses [Ch 2 - Backup to Repeater] 	FMN 	Schools 
+462.68750 	 	M	CSQ	Peo Sch Bus3 	bus operations  	FMN 	Schools 
+151.68500 	KRK552 	BM	74.4 PL	Peo Sch Ops3 	Maintenance / Snow Plows [Expired 6/14] 	FMN 	Schools 
+453.80000 	KU8709 	M	146.2 PL	P150 453800 	Districtwide talkaround (various schools) 	FMN 	Schools 
+462.56250 	 	M	67.0 PL	NrthmrSch A 	Northmoor School 	FMN 	Schools 
+460.90000 	WPLF831 	RM	107.2 PL	Princev SchBus 	Buses (also 114.8?) 	FMN 	Schools 
+463.22500 	KNFF287 	RM	100.0 PL	BU Shuttle Vans 	Shuttle Vans 	FMN 	Schools 
+154.49000 	WQMD371 	M		BU Police V1 	Police: Operations 	FMN 	Law Tac 
+154.51500 	WQMD371 	M		BU Police V2 	Police: Operations 	FMN 	Law Tac 
+451.32500 	WPNZ515 	M		BU Activities 	Student Activities Coordination 	FMN 	Schools 
+467.81250 	WPLP204 	M	114 DPL	BU Athletics 1 	Athletic Department  	FMN 	Schools 
+464.50000 	WPLP204 	M		BU Athletics 2 	Athletic Department 	FMN 	Schools 
+461.03750 	WQMD371 	M	250.3 PL	BU Athletics 3 	Athletic Department 	FMN 	Schools 
+464.55000 	 	M	532 DPL	BU Athletics 4 	Athletic Department 	FMN 	Schools 
+466.03750 	WQMD371 	M	606 DPL	BU Athletics 5 	Athletic Department 	FMN 	Schools 
+464.72500 	WPKP382 	M	123.0 PL	BU Maintnce 	Maintenance  	FMN 	Schools 
+464.77500 	WPKP382 	RM	123.0 PL	BU Maint HVAC 	Maintenance - HVAC 	FMN 	Schools 
+463.77500 	WPLL287 	M	192.8 PL	BU Engineering 	Engineering 	FMN 	Schools 
+453.22500 	KUU388 	RM	CC 2TG 21SL 1	ICC Police Disp 	Police: Dispatch 	DMR 	Law Dispatch 
+453.22500 	KUU388 	RM	CC 2TG 20SL 2	ICC Maintenance 	Maintenance 	DMR 	Schools 
+453.97500 	KUU388 	RM		ICC Operations 	Operations 	DMR 	Schools 
+467.06250 	WPZQ993	 	M	743 DPL	RMU Operations 	Operations 	FMN 	Business 
+Alter Trading (Peoria IL)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Peoria	Ameren - Edwards Generation Plant (DMR)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Peoria	Caterpillar Corporation (DMR)	 DMR Motorola Connect Plus (TRBO)
+ Decatur	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Methodist Medical Center of Illinois (Peoria)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Peoria	Peoria Disposal Company
+ LTR Standard	 Groveland	Ragan Communications (Washington)	 LTR Standard	 Washington	Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois
+Supreme Radio Communications (East Peoria)	 Motorola Type IIi Hybrid	 East Peoria	Tazewell County Public Safety (TazComm) 	 EDACS Networked Standard	 Pekin	

@@ -1,0 +1,123 @@
+154.81500 	KCB958 	RM	117 NAC	ROCK WEST 	Rockingham County Sheriff West 	P25 	Law Dispatch 
+154.95000 	KCB958 	BM	117 NAC	ROCK East 	Rockingham County Sheriff East 	P25 	Law Dispatch 
+155.41500 	 	BM		County Wide 	Countywide 	FMN 	Law Dispatch 
+155.49750 	 	BM		SWAT/SOU 	SWAT/SOU 	FMN 	Law Tac 
+155.79000 	KCB958 	BM	141.3 PL	ROCK JAIL 	Rockingham County Jail 	FMN 	Corrections 
+154.19000 	WNEB875 	RM	136.5 PL	Seacoast NET 	Seacoast Fire Mutual Aid Dispatch 	FMN 	Fire Dispatch 
+153.89750 	WNEB875 	M	136.5 PL	Fire Ground 1 	Rock County Fireground 1 	FMN 	Fire-Tac 
+153.97250 	WNEB875 	M	186.2 PL	Fire Ground 2 	Rock County Fireground 2 	FMN 	Fire-Tac 
+154.43750 	WNEB875 	M	88.5 PL	Fire Ground 3 	Rock County Fireground 3 	FMN 	Fire-Tac 
+153.77750 	WNEB875 	M	131.8 PL	Fire Ground 4 	Rock County Fireground 4 	FMN 	Fire-Tac 
+154.16000 	KBT790 	B	136.5 PL	SCentFG 	South Central Rock County Fireground 	FMN 	Fire-Tac 
+155.34000 	KNEM443 	BM	141.3 PL	Med-1 EMS 	Med-1 EMS-to-Hospital 	FMN 	Hospital 
+155.38500 	KNEM443 	BM	141.3 PL	Med-2 EMS 	Med-2 EMS-to-Hospital (rarely used) 	FMN 	Hospital 
+453.55000 	KUS521 	BM	156.7 PL	County Maint 	County Maintenance 	FMN 	Public Works 
+156.17250 	WQQX362 	B	203.5 PL	AtkinsonPW 	Atkinson PW 	FMN 	Public Works 
+154.13000 	KBD339 	B	114.8 PL	Auburn FD 	Fire Dispatch (dispatched by Derry) 	FMN 	Fire Dispatch 
+152.40500 	 	RM	136.5 PL	Auburn FD 	Fire 	FMN 	Fire-Tac 
+159.38250 	WQTG496 	B	117 NAC	Auburn PD 	Police 	P25 	Law Dispatch 
+151.30250 	KZH934 	B	136.5 PL	Auburn Twnwd 	Town-wide 	FMN 	Multi-Tac 
+158.77500 	WPKU798 	B	136.5 PL	Brentwood PD 	Police Dispatch 	FMN 	Law Dispatch 
+158.77500 	WPKU798 	B	251 DPL	BrentwoodPW 	DPW 	FMN 	Public Works 
+154.62500 	 	RM	79.7 PL	CPD CH-2 	Townwide Channel (PD FD DPW) 	FMN 	Law Tac 
+155.05500 	KB25228 	BM		CFD CH-2 	Fire Channel 2 	FMN 	Fire-Tac 
+154.74500 	 	RM	80A NAC	CPD CH-3 	Police Channel 3 	P25 	Law Tac 
+153.44750 	WQBF966 	BM	151.4 PL	ChesterDPW 	DPW 	FMN 	Public Works 
+153.99500 	KNIG885 	BM	136.5 PL	Chestr Intop 	Town Wide Interoperability Channel.  Used by PD/FD/Emergency Managment. 	FMN 	Interop 
+153.81500 	KYQ364 	B	94.8 PL	Deerfield FD 2 	Fire - Channel 2 	FMN 	Fire-Tac 
+154.71000 	WPMY498 	B	136.5 PL	Deerfield PD 	Police Operations 	FMN 	Law Dispatch 
+159.13500 	WQRL862 	B	100.0 PL	DeerfieldPW 	DPW 	FMN 	Public Works 
+153.99500 	WPJQ468 	BM	827 NAC	Derry Fire 1 	Fire Operations 	P25 	Fire Dispatch 
+153.99500 	WPJQ468 	RM	136.5 PL	Derry Fire Disp 	Fire Dispatch - Tone Out 	FMN 	Fire Dispatch 
+154.16000 	KUL738 	BM	114.8 PL	DerryFD Tac3 	Fire Operations 	FMN 	Fire-Tac 
+154.26500 	 	BM	136.5 PL	SE NH HazMat 	S.E.NH HazMat Mutual Aid District (SENHHMMAD) 	FMN 	Fire-Tac 
+170.99500 	 	RM	151.4 PL	DeryMobRpt 	Fire Mobile Repeater 	FM 	Fire-Tac 
+159.29250 	KBD339 	RM	CSQ	Derry EMS 	EMS 	FMN 	EMS-Tac 
+151.01000 	WPPZ674 	RM	827 NAC	Derry PD 1 	Police Dispatch 	P25 	Law Dispatch 
+155.66250 	WPXQ827 	RM		Derry PD 2 	Police Secondary 	P25 	Law Tac 
+154.73250 	WPXQ827 	M	527 NAC	Derry PD 5 	Police Direct 5 	P25 	Law Tac 
+154.80750 	WPXQ827 	M		Derry PD 6 	Police Direct 6 	P25 	Law Tac 
+453.37500 	KSU509 	RM	103.5 PL	Derry Hiway 	Highway Department 	FMN 	Public Works 
+453.80000 	WNMK726 	RM	026 DPL	Laidlaw 	School Buses (Laidlaw) 	FMN 	Schools 
+155.85000 	WNHV842 	B	136.5 PL	EPD 	Police 	FMN 	Law Dispatch 
+155.61000 	WQYH739 	RM	CC 1TG *SL *	EppingDPW 	Public Works 	DMR 	Public Works 
+154.30250 	KQP561 	RM	617 NAC	Exeter Fire 	Fire Dispatch 	P25 	Fire Dispatch 
+155.53500 	KCB760 	RM	617 NAC	ExeterPolice 	Police Dispatch 	P25 	Law Dispatch 
+155.11500 	KNCA740 	B	103.5 PL	PublicWorks 	Public Works 	FMN 	Public Works 
+155.29500 	KNBU324 	B	103.5 PL	School Buses 	School Buses 	FMN 	Transportation 
+151.98500 	 	RM	CC 1TG 1000SL *	Philips Acad 	Philips Exeter Academy Campus Safety  Security 	DMR 	Schools 
+155.95500 	 	RM	136.5 PL	FPD Disp 	Police 	FMN 	Law Dispatch 
+155.89500 	KDC683 	B	136.5 PL	GreenlandPW 	DPW 	FMN 	Public Works 
+151.18250 	WNUB921 	RM	151.4 PL	Hmstd FDDisp 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.27500 	WNUB921 	BM	151.4 PL	FD DownLink 	Fire Department Downlink 	FMN 	Fire Dispatch 
+159.43500 	WPVY314 	BM		Hmstd PD 	Police 	FMN 	Law Dispatch 
+159.92500 	 	BM		Hmstd PD Tac 	Police Tac 	FMN 	Law Tac 
+151.07000 	WNUB921 	BM	125 DPL	Town Channel 	Town Channel 	FMN 	Interop 
+154.14500 	KLO459 	BM	136.5 PL	Hampton FD 	Fire 	FMN 	Fire Dispatch 
+155.02500 	WNKR694 	RM	830 NAC	Hampton PD 	Police 	P25 	Law Dispatch 
+158.87250 	WNKR694 	BM	830 NAC	HamptonPD2 	Police Car to car 	P25 	Law Talk 
+155.74500 	KJB972 	B	311 DPL	Hampton DPW 	DPW 	FMN 	Public Works 
+154.04000 	KAN889 	B	136.5 PL	KingstonPW 	DPW 	FMN 	Public Works 
+151.17500 	KQO260 	RM	466 DPL	Londndry FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+158.88750 	WPRV211 	M		LFD CH-2 	Fire Department CH-2 	FMN 	Fire-Tac 
+155.86500 	WNGY516 	RM	293 NAC	Londndry PD 	Police Dispatch 	P25 	Law Dispatch 
+153.82250 	 	RM		LPD CH-2 	Police Department Channel 2 	FMN 	Law Tac 
+158.09000 	 	RM		LPD CH-3 	Police Department Channel 3 	FMN 	Law Tac 
+156.16500 	KTZ373 	B	136.5 PL	Londndry DPW 	Highway Department 	FMN 	Public Works 
+451.23750 	WQPY257 	M	445 DPL	South E Ops 	South Elementary School Ops 	FMN 	Schools 
+452.11250 	WQPY257 	M	445 DPL	ThornSchool 	Thornton Elemantary School Ops 	FMN 	Schools 
+452.18750 	WQPY257 	M	445 DPL	North El Ops 	North Elemantary School Ops 	FMN 	Schools 
+452.63750 	WQPY257 	M	445 DPL	Moose Hill 	Moose Hill Elementary School Ops 	FMN 	Schools 
+458.80000 	None 	M	114.8 PL	Lndndry Schl 	Londonderry High School - Administration/Janitorial 	FMN 	Schools 
+154.22000 	WPCV963 	B	107.2 PL	FD Local Ops 	FD Local Ops 	FMN 	Fire-Tac 
+155.49000 	WPMM939 	B	857 NAC	NewingtonPDT 	PD TAC 	P25 	Law Tac 
+154.11500 	KZR473 	B	136.5 PL	Newington PW 	DPW 	FMN 	Public Works 
+155.43000 	KCF575 	BM	606 DPL	Newmrket FD1 	Fire/Rescue Dispatch/Operations 	FMN 	Fire Dispatch 
+155.37000 	WNBM827 	BM	460 NAC	Newmrket PD1 	Police 	P25 	Law Dispatch 
+159.67500 	WPGQ219 	BM	136.5 PL	Newmrket HWY 	Public Works 	FMN 	Public Works 
+151.16000 	WQMK921 	BM	723 DPL	Newton PD/PW 	Police/Public Works 	FMN 	Multi-Dispatch 
+156.22500 	WRX797 	B	136.5 PL	NorthHampPW 	DPW 	FMN 	Public Works 
+154.78500 	KNCP845 	BM	136.5 PL	NorthwoodDPW 	Public Works 	FMN 	Public Works 
+156.18000 	KWV747 	BM	023 DPL	NottinghamLFD 	Local Fire Ops 	FMN 	Fire Dispatch 
+156.13500 	WNXT816 	BM	203.5 PL	NottinghamPW 	DPW 	FMN 	Public Works 
+154.75500 	KTE395 	RM	117 NAC	Plaistow PD 	Police (Digital) 	P25 	Law Dispatch 
+154.75500 	KTE395 	RM	136.5 PL	Plaistow PD 	Police (Analog) 	FMN 	Law Dispatch 
+155.31750 	WPWU668 	RM	167.9 PL	Plaistow FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+156.23250 	WPUD814 	BM	127.3 PL	Plaistow Hwy 	Highway Dept 	FMN 	Public Works 
+155.23500 	WPNZ940 	B	734 DPL	School Bus 	School Bus Dispatch(Includes Hampstead and Atkinson) 	FMN 	Transportation 
+154.34000 	KCB207 	B	88A NAC	PortsmouthFD 	Fire 	P25 	Fire Dispatch 
+153.77000 	KCB207 	B	173.8 PL	PFD CH-2 	Analog simulcast of 154.34 	FMN 	Fire-Tac 
+155.61750 	WPPV958 	B		PFD CH-3 	Fire Department CH-3 	FMN 	Fire-Tac 
+154.74000 	KCA797 	RM	88A NAC	PortsmouthPD 	Police 	P25 	Law Dispatch 
+153.90500 	WNAF223 	B	ABE NAC	PPD CH-2 	Police Department Channel 2 	P25 	Law Tac 
+155.71500 	KCI218 	BM	136.5 PL	PortsmouthPW 	DPW 	FMN 	Public Works 
+151.22750 	KSO992 	B	173.8 PL	RaymondFD1 	Fire Dispatch and Local Ops 	FMN 	Fire Dispatch 
+155.64000 	KNCD578 	BM	860 NAC	Raymond PD 	Police Dispatch 	P25 	Law Dispatch 
+158.85750 	KNCD578 	BM		Raymond PD 	Police Channel 2 	FMN 	Law Tac 
+156.24000 	WNIG249 	B	94.8 PL	Rye DPW 	RYE DPW 	FMN 	Public Works 
+155.88750 	WPMN513 	RM	97.4 PL	Salem Fire 	Fire 	FMN 	Fire Dispatch 
+154.28000 	KBT790 	BM	156.7 PL	FD Ch 2 	Fire Channel 2 	FMN 	Fire-Talk 
+460.46250 	WQBP415 	F	192.8 PL	FDDownlink 	Downlnk from 155.8875 	FMN 	Fire Dispatch 
+159.15000 	KTK619 	RM	117 NAC	Salem Police 	Police Dispatch (mixed analog and APCO-25 digital) 	P25 	Law Dispatch 
+151.04000 	KTI547 	RM	97.4 PL	SalemPubWrks 	Public Works 	FMN 	Public Works 
+153.80000 	KTI547 	B	97.4 PL	Highway 	Highway Department 	FMN 	Public Works 
+151.58000 	 	BM	074 DPL	High School 	High School Ops 	FMN 	Schools 
+452.02500 	 	BM	79.7 PL	Buses 	Buses 	FMN 	Transportation 
+155.04000 	 	RM	141.3 PL	Sandown PD2 	Police Secondary 	FMN 	Law Talk 
+153.37250 	WQVX469 	BM	136.5 PL	Seabrook FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.79250 	KCH504 	RM	868 NAC	Seabrook PD1 	Police 	P25 	Law Dispatch 
+154.08500 	KTO488 	B	136.5 PL	SPD Interop 	Interoperability (used for Police and Fire Local) Channel 1 	FMN 	Interop 
+154.17500 	WPKV459 	RM	907 NAC	WindhamFD Dig 	Fire Operations - Digital 	P25 	Fire Dispatch 
+155.84250 	WQYJ215 	M	907 NAC	Windham FD Tac2 	Fire Tac 2 	P25 	Fire-Tac 
+155.60250 	KWN961 	RM	617 NAC	Wndhm Police 	Police Dispatch 	P25 	Law Dispatch 
+452.62500 	KWN961 	F	192.8 PL	WndhmPD Link 	Police RF Link with 155.61 MHz 	FMN 	Law Dispatch 
+152.27000 	WQLF341 	RM	114.8 PL	CenterSchool 	Center School Ops 	FMN 	Schools 
+152.42000 	WQLF341 	RM	114.8 PL	GoldenBrook 	Golden Brook School Ops 	FMN 	Schools 
+152.45000 	WQLF341 	RM	114.8 PL	High School  	High School Ops 	FMN 	Schools 
+152.99000 	WQLF341 	RM	114.8 PL	HS Maint 	High School Maint 	FMN 	Schools 
+154.48250 	WQLF341 	RM	114.8 PL	MiddleSchool 	Middle School Ops 	FMN 	Schools 
+173.58750 	 	RM	136.5 PL	FD Dispatch 	Fire 	FMN 	Fire Dispatch 
+173.05000 	 	BM	CSQ	FD CH 2 	Pease ANG Base Fire Channel 2 	FMN 	Fire-Talk 
+Industrial Communications and Electronics (Farmington)	 Motorola Type II	 Portsmouth	New Hampshire Department of Natural and Cultural Resources	 DMR Tier 3	 Varies	New Hampshire Electric Cooperative	 DMR Motorola Connect Plus (TRBO)
+ Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Seabrook Nuclear Power Plant	 Motorola Type II SmartZone	 Seabrook	United States Department of Defense (14C)
+ Project 25 Phase II	 Nationwide	

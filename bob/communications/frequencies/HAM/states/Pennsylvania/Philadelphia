@@ -1,0 +1,83 @@
+851.07500 	WQCH483 	M	CSQ	PFD FG North 	North Fireground 	FM 	Fire-Tac 
+851.71250 	WQCH483 	M	186.2 PL	PFD FG South 	South Fireground 	FM 	Fire-Tac 
+852.22500 	WQCH483 	M	CSQ	PFD FG N/S 	North/South Fireground Secondary 	FM 	Fire-Tac 
+47.54000 	WZM898 	BM	CSQ	PFD HASTE 	Hospital Alerting System Tone Encoded 	FM 	EMS-Tac 
+166.25000 	WQKJ415 	RM	83B NAC	PFD EMS I/O 	EMS Inter-Agency Operations 	P25 	Interop 
+852.41250 	WQCH483 	M	CAD NAC	PPD Tac-1 	Police Tac-1 	P25 	Law Tac 
+852.43750 	WQCH483 	M	CAD NAC	PPD Tac-2 	Police Tac-2 	P25 	Law Tac 
+154.57000 	 	M	67.0 PL	PPD Explorer 	Police Explorers 	FM 	Law Talk 
+860.73750 	WNGE384 	RM	CSQ	Citywide 1 	Citywide 1 	FM 	Multi-Talk 
+859.73750 	WNGE384 	RM	CSQ	Citywide 2 	Citywide 2 	FM 	Multi-Talk 
+851.85000 	WQCH483 	M	CAD NAC	Muni Tac 1 	City Municipal Tactical 1 	P25 	Public Works 
+852.85000 	WQCH483 	M	CAD NAC	Muni Tac 2 	City Municipal Tactical 2 	P25 	Public Works 
+853.07500 	WQCH483 	M	CAD NAC	Muni Tac 3 	City Municipal Tactical 3 	P25 	Public Works 
+158.77500 	WQCP395 	RM	146.2 PL	Fam Crt Sec 	Family Court Security 	FM 	Public Works 
+453.35000 	WQCF247 	RM	136.5 PL	Library Ops 	Free Library of Philadelphia Maintenance and Security 	FM 	Public Works 
+453.77500 	KGF991 	RM	91.5 PL	Sanit/Health 	Health Band - Sanitation Units and Health Dept. 	FM 	Public Works 
+508.21250 	WIK357 	RM	141.3 PL	PHA Police 	Housing Authority - Police Dispatch 	FM 	Law Dispatch 
+500.38750 	KCE583 	RM	79.7 PL	PPA Parking 	Parking Authority - Parking Enforcement/Boot Squad 	FM 	Law Talk 
+508.38750 	KCE583 	RM	79.7 PL	PPA Inspectn 	Parking Authority - Taxi/Limo Enforcement 	FM 	Law Talk 
+502.83750 	KCE583 	RM	79.7 PL	PPA Tow 	Parking Authority - Tow Squad/Impoundment 	FM 	Law Talk 
+453.40000 	WQCG318 	RM	103.5 PL	Prisons Mnt 	Prisons - Maintenance 	FM 	Corrections 
+460.15000 	WQCG318 	RM	91.5 PL	Prisons Ops 	Prisons - Operations 	FM 	Corrections 
+453.25000 	WQCG318 	RM	91.5 PL	Prisons Trns 	Prisons - Transportation 	FM 	Corrections 
+453.72500 	KGF991 	RM	91.5 PL	Public Prop 	Public Property Band 	FM 	Public Works 
+853.27500 	WQCH483 	M	CAD NAC	Prop Tac 1 	Public Property Tac 1 	P25 	Public Works 
+853.57500 	WQCH483 	M	CAD NAC	Prop Tac 2 	Public Property Tac 2 	P25 	Public Works 
+453.92500 	KGF991 	RM	91.5 PL	Streets 	Streets Band 	FM 	Public Works 
+158.77500 	KLS497 	BM	203.5 PL	Sewage Plant 	Water Department - Sewage Treatment Plant Internal Ops 	FM 	Public Works 
+860.91250 	WNKV367 	RM	734 DPL	PSD BRD Rpt. 	Broad Street Base School Bus Repeater 	FM 	Schools 
+858.83750 	WNKV367 	RM	734 DPL	PSD PAS Rpt. 	Passyunk Base School Bus Repeater 	FM 	Schools 
+859.81250 	WNKV367 	RM	734 DPL	PSD SHC Rpt. 	Shallcross Base School Bus Repeater 	FM 	Schools 
+860.81250 	WNKV367 	RM	734 DPL	PSD WID Rpt. 	Widener Base School Bus Repeater 	FM 	Schools 
+855.78750 	WNKV367 	RM	734 DPL	PSD ALT Rpt. 	Alternate School Bus Repeater (Backup) 	FM 	Schools 
+461.47500 	WPIG588 	RM		Townwatch 1 	Citywide Townwatch Operations 	FMN 	Security 
+461.97500 	WPIG588 	RM		Townwatch 2 	Citywide Townwatch Operations 	FMN 	Security 
+463.72500 	WPIG588 	RM		Townwatch 3 	Citywide Townwatch Operations 	FMN 	Security 
+464.85000 	WPIG588 	RM		Townwatch 4 	Citywide Townwatch Operations 	FMN 	Security 
+452.85000 	WPQC349 	RM	71.9 PL	WFrankfrd TW 	West Frankford 	FMN 	Security 
+461.45000 	WPRA353 	RM	203.5 PL	Wissinom TW 	Wissinoming 	FM 	Security 
+463.30000 	WPMP942 	RM	186.2 PL	Tac/Blvd TW 	Tacony & Boulevard 	FMN 	Security 
+463.72500 	WPIG588 	RM	167.9 PL	Bridsburg TW 	Bridsburg 	FMN 	Security 
+506.98750 	WII480 	RM	CC 10TG 100SL 1	UPenn PD 	Police Dispatch (Encrypted) 	DMRE 	Law Dispatch 
+508.91250 	WII480 	RM	203.5 PL	UPenn PD 2 	Police Secondary (Special Events / Operations) 	FMN 	Law Tac 
+507.26250 	WII480 	RM		UPenn PD 3 	Police Tertiary 	FMN 	Law Tac 
+464.36250 	KFE659 	RM	CC 1TG 1SL 1	UPenn MERT 1 	Medical Emergency Response Team (M.E.R.T.) - Primary 	DMR 	EMS-Tac 
+462.00000 	KFE659 	RM		UPenn MERT 2 	Medical Emergency Medical Response Team (M.E.R.T.) - Secondary 	FMN 	EMS-Tac 
+461.47500 	WNYM895 	RM	143 DPL	UPenn Sec. 	Escorts and Security Operations 	FMN 	Security 
+451.88750 	WQGB543 	RM	723 DPL	U.C.D. Ops 	University City District - Escorts / Security 	FMN 	Security 
+453.01250 	WQLR715 	RM	CC 10TG 101SL 2	UPenn Ops 	Housing and Conference 	DMR 	Schools 
+460.40000 	WQBY672 	RM	CC 1TG 1SL 1	TempleU PD 	Police Dispatch / Operations 	DMR 	Law Dispatch 
+463.23750 	WQNE519 	RM	CC 1TG 1SL 1	TempleU Security 	Campus Security 	DMR 	Security 
+464.70000 	WPAG964 	RM	506 DPL	Temple U Maint 	Maintenance and Operations 	FMN 	Schools 
+451.27500 	KLZ411 	RM	CC 1TG 1SL 1	Drexel Facility 	Facilities 	DMR 	Business 
+452.51250 	KLZ411 	RM	CC 1TG 1SL 2	Drexel Escorts 	Campus Escorts 	DMR 	Security 
+462.05000 	KLZ411 	RM	CC 1TG 1SL 1	DrexelU Sec 	Security Dispatch / Operations 	DMR 	Security 
+462.06250 	WQJQ989 	RM	CC 8TG 101SL 1	CHC Security 	Campus Security 	DMR 	Security 
+462.06250 	WQJQ989 	RM	CC 8TG 201SL 2	Maintenance 	Maintenance 	DMR 	Schools 
+461.97500 	WQYC542 	RM	251 DPL	LaSalle Sec Disp 	Security Dispatch 	FMN 	Security 
+464.65000 	WQYC542 	RM	251 DPL	LaSalle Maint 	Maintenance 	FMN 	Schools 
+464.51250 	WPGE643 	RM	155 DPL	PCOM Security 	Campus Security 	FMN 	Security 
+452.57500 	WPUI957 	RM	CC 11TG 100SL 1	PhilaU Sec 	Security 	DMR 	Security 
+461.63750 	WPUI957 	RM	306 DPL	PhilaU Mntc 	Maintenance Operations 	FMN 	Schools 
+451.51250 	WQBQ282 	RM	CC 3TG 500SL 1	STJ Security 	Security 1 	DMR 	Security 
+463.30000 	WQBQ282 	RM	CC 3TG 100SL 1	STJ Facilities 	Facilities  	DMR 	Schools 
+463.30000 	WQBQ282 	RM	CC 3TG 200SL 2	STJ Maintenance 	Maintenance 	DMR 	Schools 
+463.62500 	WQBQ282 	BM		St. Joe U 3 	Unknown Operations 	FMN 	Schools 
+467.92500 	WQBQ282 	M		St. Joe U 4 	Unknown Operations (Low Power) 	FMN 	Schools 
+468.61250 	WQBQ282 	M		St. Joe U 5 	Unknown Operations (Low Power) 	FMN 	Schools 
+502.68750 	WPKC901 	RM	CSQ	SEPTA Police 	Transit Police Dispatch (rebroadcasts PPD J Band) 	FM 	Law Dispatch 
+502.76250 	KEF776 	RM	CSQ	SEPTA BSL 	City Transit Division - Broad Street Line Subway Dispatch (Orange Line) 	FM 	Transportation 
+502.78750 	WPKC383 	RM	CSQ	SEPTA MFL 	City Transit Division - Market-Frankford Line Elevated Dispatch (Blue Line) 	FM 	Transportation 
+502.73750 	 	RM	CSQ	SEPTA MOW 	City Transit Division - Market-Frankford and Broad Street Line Maintenance 	FM 	Transportation 
+504.13750 	 	M	131.8 PL	SEPTA MFL YD 	City Transit Division - Market-Frankford Line Yard Ops 	FM 	Transportation 
+464.42500 	 	RM		1234 Market 	1234 Market St Security 	FMN 	Security 
+American Airlines (Nationwide)	 DMR Motorola Connect Plus (TRBO)	 Various	American Eagle (PHL)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Philadelphia	Commpaths	 NXDN Icom IDAS Type D
+ Various	Commpaths, LLC	 LTR Standard	 Philadelphia	Delaware River Port Authority of PA and NJ	 EDACS Networked Standard	 Various	Federal Detention Center Philadelphia
+ Project 25 Phase I	 Philadelphia	FleetCall	 NXDN NEXEDGE 4800	 Various	Homan Communications	 NXDN NEXEDGE 4800	 Various
+Homan Communications (Philadelphia)	 LTR Standard	 Philadelphia	Interstate Repeater System	 DMR Conventional Networked	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)
+ Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	PECO Energy	 Project 25 Phase I	 Philadelphia	Pennsylvania Statewide Radio Network (PA-STARNet)
+ OpenSky 9600 baud	 Statewide	Philadelphia	 Project 25 Phase I	 Philadelphia	Southeastern Pennsylvania Transportation Authority (SEPTA)	 Motorola Type II Smartnet	 Various
+Sugarhouse Casino	 NXDN NEXEDGE 9600	 Philadelphia	Sunshine Communications (Center City)	 LTR Standard	 Philadelphia	Sunshine Communications (Penndel)	 LTR Standard
+ Penndel	Sunshine Communications (Roxborough)	 LTR Standard	 Philadelphia	United Parcel Service (PHL)	 DMR Motorola Connect Plus (TRBO)	 Philadelphia	United States Department of Defense (14C)
+ Project 25 Phase II	 Nationwide	

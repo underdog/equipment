@@ -1,0 +1,77 @@
+154.07000 	WPES423 	BM	445 DPL	B/RICH FDISP 	Berkey/Richfield Twp Fire (Patched) 	FMN 	Fire Dispatch 
+460.60000 	WNAD472 	RM	118.8 PL	JERTWP FDISP 	Jerusalem Township Fire (Patched) 	FMN 	Fire Dispatch 
+154.20500 	KZV207 	RM	186.2 PL	MAUMEE FDISP 	Maumee Fire (Patched) 	FMN 	Fire Dispatch 
+154.23500 	WPKG945 	RM	115 DPL	PRVTWP FDISP 	Providence Township Fire (Patched) 	FMN 	Fire Dispatch 
+460.22500 	WPNP388 	RM	465 DPL	SPTWP FDISP 	Spencer Township Fire (Patched) 	FMN 	Fire Dispatch 
+154.35500 	KDV955 	RM	118.8 PL	WHFD FD OPS 	Whitehouse Fire (Patched) 	FMN 	Fire-Talk 
+462.97500 	KD9318 	RM	192.8 PL	MED 10 	Ops - Lucas County EMS Operations (Patched to NWORPSS TG 12040 LCMed 1) 	FMN 	EMS-Talk 
+463.00000 	KD9318 	BM	192.8 PL	MED 1 	Ambulances-to-Hospital - Bay Park Community Hospital? 	FMN 	EMS-Talk 
+463.02500 	KD9318 	BM	192.8 PL	MED 2 	Ambulances-to-Hospital - Toledo Hospital 	FMN 	EMS-Talk 
+463.05000 	KD9318 	BM	192.8 PL	MED 3 	Ambulances-to-Hospital - St. Charles Mercy Hospital 	FMN 	EMS-Talk 
+463.07500 	KD9318 	BM	192.8 PL	MED 4 	Ambulances-to-Hospital - University Medical Center (Univ of Toledo/ex-MCO) 	FMN 	EMS-Talk 
+463.10000 	KD9318 	BM	192.8 PL	MED 5 	Ambulances-to-Hospital - St. Anne Hospital 	FMN 	EMS-Talk 
+463.12500 	KD9318 	BM	192.8 PL	MED 6 	Ambulances-to-Hospital - Flower Hospital 	FMN 	EMS-Talk 
+463.15000 	KD9318 	BM	192.8 PL	MED 7 	Ambulances-to-Hospital - St. Luke Hospital 	FMN 	EMS-Talk 
+463.17500 	KD9318 	BM	192.8 PL	MED 8 	Ambulances-to-Hospital - St. Vincent Mercy Hospital 	FMN 	EMS-Talk 
+123.02500 	 	BM		LIFEFLT AIR 	Lifeflight (UNICOM) 	AM 	EMS-Talk 
+136.55000 	KGX5 	BM		PROMED AIR 	ProMedica Air 	AM 	EMS-Talk 
+155.34000 	KD9318 	BM	179.9 PL	LUCAS HEAR 	Lucas County HEAR 	FMN 	EMS-Talk 
+453.12500 	WPQG864 	RM	79.7 PL	PROMED EMS 	Promedica EMS 	FMN 	EMS Dispatch 
+461.20000 	KPD566 	RM	110.9 PL	RUMPF AMB 	Kish Ambulance - Dispatch 	FMN 	EMS Dispatch 
+461.22500 	WNIT583 	RM	67.0 PL	MOBLIFE EMS 	Mobile Life EMS - Dispatch 	FMN 	EMS Dispatch 
+453.10000 	KQJ268 	RM	CSQ	EMA SIRENS 	Disaster Warning Sirens 	FMN 	Data 
+154.04000 	WNJK518 	BM	173.8 PL	SANITARY OPS 	Toledo Area Sanitary District Operations 	FMN 	Public Works 
+155.04000 	WQI458 	BM		WHTHSE DPW 	Whitehouse DPW 	FMN 	Public Works 
+155.08500 	WPQZ397 	BM		OREGON LG 	Oregon Local Government 	FMN 	Public Works 
+155.08500 	KDU547 	BM		OREGON DPW 	Oregon DPW 	FMN 	Public Works 
+155.77500 	KXI920 	RM	156.7 PL	PORT AUTHRTY 	Port Authority 	FMN 	Transportation 
+155.92500 	WPQZ351 	RM	186.2 PL	MAUMEE DPW 	Maumee DPW 	FMN 	Public Works 
+453.10000 	WPUH251 	RM	118.8 PL	ANIMAL CNTRL 	Animal Control 	FMN 	Public Works 
+453.20000 	WPXA254 	RM		WATERVL DPW 	Waterville DPW 	FMN 	Public Works 
+453.32500 	KOB430 	BM	162.2 PL	LC HOUSEAUTH 	County Housing Authority 	FMN 	Public Works 
+453.57500 	KTA876 	RM	654 DPL	SYLVTWP PW 	Sylvania Twp public works 	FMN 	Public Works 
+453.90000 	KNCX504 	BM	118.8 PL	MAUMEE ENG 	Maumee Engineers 	FMN 	Public Works 
+453.92500 	KXI920 	RM		AIRPORT OPS 	Airport Ops (CFR) 	FMN 	Public Works 
+453.95000 	WPKG768 	RM	94.8 PL	LC YOUTH FAC 	Youth Treatment Facility 	FMN 	Hospital 
+460.05000 	KHNZ753 	RM	CC 1TG 1SL 1	Sylvania Maint 	Sylvania City Maintenance 	DMR 	Public Works 
+460.11250 	WNBD306 	RM	116 DPL	MONCLOVA PW 	Monclova Twp Public Works/Maintenance 	FMN 	Public Works 
+453.26250 	KD53501 	RM		TARTA SUPER 	Toledo Area Regional Transit Authority - Supervisors 	DMR 	Transportation 
+461.10000 	KBZ344 	RM	CC 3TG 1SL 1	TPS SECURE 	Toledo Public Schools - Security Primary 	DMR 	Schools 
+461.22500 	WQCB888 	RM	CC 3TG 1SL 1	TPS SEC 2 	Toledo Public Schools - Security Secondary 	DMR 	Schools 
+461.92500 	WNCX889 	RM	CC 5TG 12SL 2	TPS BUSES 	Toledo Public Schools - Buses 	DMR 	Schools 
+462.30000 	 	BM		TPS BDOWN 	Toledo Public Schools - Breakdown Channel 	DMR 	Schools 
+150.96500 	WPOX926 	BM		AWAYNE LSD 	Anthony Wayne Local Schools 	FMN 	Schools 
+151.58750 	WPOX926 	RM		AWAYNE LSD 	Anthony Wayne Local Schools 	FMN 	Schools 
+153.42500 	WPOX926 	RM	210.7 PL	AWAYNE LSD 	Anthony Wayne Local Schools Buses 	FMN 	Schools 
+155.20500 	KKV872 	BM	123.0 PL	AWAYNE LSD 	Anthony Wayne Local Schools Buses 	FMN 	Schools 
+453.27500 	WQOH646 	RM	CC 12TG 1SL 1	LUCAS DD 	Lucas County DD Transportation 	DMR 	Schools 
+463.20000 	WPEA603 	RM		WHIMER HS 	Whitmer High School Security/Admin 	FMN 	Schools 
+463.82500 	WPLS814 	RM	162.2 PL	SYLVANIA SD 	Sylvania Schools Buses 	FMN 	Schools 
+464.00000 	WNKA605 	RM	225.7 PL	MAUMEE LSD 	Maumee School Buses 	FMN 	Schools 
+464.43750 	WQDL411 	RM	723 DPL	WASH LSD MX 	Washington Local Schools - Maintenance 	FMN 	Schools 
+464.47500 	KNCD737 	RM	123.0 PL	SPRFLD LSD 	Springfield Local School Buses 	FMN 	Schools 
+464.92500 	WSU430 	RM	654 DPL	WASH LSD 	Washington Local School Buses 	FMN 	Schools 
+154.19000 	KQA726 	BM	136.5 PL	TFD CW I/A 	Fire - Countywide Intersystem 	FMN 	Interop 
+154.41500 	KQA726 	M	136.5 PL	TFD EXPLORER 	Fire - Explorers 	FMN 	Fire-Talk 
+155.05500 	KDN988 	BM	136.5 PL	TFP HAZMAT 	Fire - HAZMAT 	FMN 	Fire-Talk 
+851.46250 	WNYK324 	M		TA-1 	Police/Fire Talkaround 	FM 	Interop 
+851.46250 	WNYK324 	RM		AP PD-FD 	Airport - Police & Fire 	FM 	Interop 
+851.48750 	WNYK324 	M		TA-2 	Police/Fire Talkaround 	FM 	Interop 
+453.23750 	WNWP376 	M		TOL WATER TL 	Water Dept Telemetry 	FMN 	Data 
+851.43750 	WNYK325 			MDC 	Mobile data 	FM 	Data 
+852.43750 	WNYK325 			MDC 	Mobile data 	FM 	Data 
+853.43750 	WNYK325 			MDC 	Mobile data 	FM 	Data 
+854.43750 	WNYK325 			MDC 	Mobile data 	FM 	Data 
+855.43750 	WNYK325 			MDC 	Mobile data 	FM 	Data 
+453.43750 	WQPF565 	RM	CC 1TG 1SL 1	Tol-LC PubLib 	Toledo Lucas County Public Library  	DMR 	Other 
+451.08750 	WPQC395 	RM	125 NAC	COLUMBIA GAS 	Columbia Gas of Ohio (NAC 125) 	P25 	Utilities 
+451.11250 	WPPD841 	RM	124 NAC	COLUMBIA GAS 	Columbia Gas of Ohio (NAC 124) 	P25 	Utilities 
+BP America (Oregon)	 Motorola Type II Smartnet	 Oregon	DeltaCom	 NXDN NEXEDGE 4800	 Varies	FCA US: Toledo	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ Toledo	Futronics (420 MHz)	 LTR Standard	 Various	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	General Motors Research (Toledo)
+ Motorola Type II Smartnet	 Toledo	Hollywood Casino Toledo	 DMR Motorola Capacity Plus Single Site (TRBO)	 Toledo	Midport Electronics	 LTR Standard	 Toledo
+Midport Electronics (420)	 LTR Standard	 Toledo	Midport Electronics (UHF)	 LTR Standard	 Toledo	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I
+ Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	P and R Communications Connect Plus (Ohio)	 DMR Motorola Connect Plus (TRBO)	 Various	ProMedica
+ DMR Motorola Capacity Plus Multi Site (TRBO)	 Toledo	Smart Link (Futronics)	 Motorola Type IIi Hybrid	 Toledo	Smart Link Systems	 LTR Standard	 Various
+Toledo Area Rapid Transit Authority (TARTA)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Toledo	Toledo Board of Education (Public Schools)	 LTR Standard and Passport	 Toledo	Toledo City Services	 DMR Motorola Capacity Plus Single Site (TRBO)
+ Toledo	Toledo Museum of Art (DMR)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Toledo	Toledo Refining	 DMR Motorola Connect Plus (TRBO)	 Toledo	Toledo Zoo
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Toledo	University of Toledo - UTMC (DMR)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Toledo	

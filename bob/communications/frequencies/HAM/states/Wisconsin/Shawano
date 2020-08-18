@@ -1,0 +1,59 @@
+151.38500 	KSB504 	RM	591 NAC	SHLAW1 	Sheriff 1 Dispatch 	P25 	Law Dispatch 
+155.64000 	KSB504 	RM	591 NAC	SHLAW2 	Sheriff 2 Operations 	P25 	Law Tac 
+151.38500 	KSB504 	M	591 NAC	SHLAW3 	Sheriff 3 Talkaround 	P25 	Law Talk 
+155.64000 	KSB504 	M	591 NAC	SHSO4 	Sheriff 4 Talkaround 	P25 	Law Talk 
+155.94000 	KSJ437 	RM	599 NAC	Shawano PD 5 	Sheriff 5 Shawano Police Dispatch 	P25 	Law Dispatch 
+155.07000 	WPVB249 	BM	94.8 PL	ShawanoPDTac 	Sheriff 6 Shawano PD Tac 	FMN 	Law Talk 
+155.88000 	KYW900 	M	94.8 PL	County DPW 	Sheriff 9 Parks/Public Works/Social Services Job Center 	FMN 	Public Works 
+154.80000 	KSB504 	RM	445 DPL	SHHUBER 	Sheriff Huber Center 	FMN 	Corrections 
+155.73000 	KSB504 	RM	664 DPL	SHJAIL 	County Corrections Center (Jail) 	FMN 	Corrections 
+155.14500 	KYW900 	RM	156.7 PL	SHCOMM 	Fire/EMS Dispatch 1 	FMN 	Fire Dispatch 
+155.49000 	 	RM	156.7 PL	SHCOMM2 	Fire/EMS Dispatch 2 	FMN 	Fire Dispatch 
+154.35500 	WQD398 	M	94.8 PL	SHFG2 	Fireground 	FMN 	Fire-Tac 
+154.07000 	WXQ909 	BM	94.8 PL	SHFIR 	Fireground 	FMN 	Fire-Tac 
+153.56000 	WQGJ866 	RM	371 DPL	Gold Cross 	NEW Rescue (Gold Cross) Pulaski - Tac/Intercepts 	FMN 	EMS-Tac 
+152.27750 	WQLK223 	RM	631 DPL	Shawano Amb 	Shawano Ambulance Service 	FMN 	EMS Dispatch 
+463.65000 	WNDC936 	RM	627 DPL	Shawano Amb 	Shawano Ambulance Service 	FMN 	EMS Dispatch 
+463.92500 	WNKI518 	RM	627 DPL	Shawano Amb 	Shawano Ambulance Service 	FMN 	EMS Dispatch 
+464.70000 	KNCG375 	RM	351 DPL	Shawano Amb 	Shawano Ambulance Service 	FMN 	EMS Dispatch 
+155.34000 	KSU660 	BM	127.3 PL	SMC EMS B 	EMS to Shawano Medical Center (BLS) 	FMN 	Hospital 
+463.77500 	 	M	627 DPL	Shawano Amb 	Shawano Ambulance Service portables 	FMN 	EMS-Talk 
+151.83500 	WNSB324 	M	146.2 PL	SHFAIR1 	Fairgrounds 	FMN 	Public Works 
+151.80500 	WNSB324 	M	146.2 PL	SHFAIR2 	Fairgrounds 	FMN 	Public Works 
+151.17500 	KSD545 	RM	606 DPL	SHHWY 	Highways/Parks 	FMN 	Public Works 
+154.07000 	KLW238 	BM	94.8 PL	Bonduel FD 	Fire 	FMN 	Fire-Talk 
+155.88000 	WNWG868 	BM		Bonduel DPW 	DPW 	FMN 	Public Works 
+453.68750 	WPIP223 	F	CSQ	Bonduel Data 	Water Data 	Telm 	Public Works 
+453.88750 	WPPZ967 	F	CSQ	Bonduel Data 	Wastewater Data 	Telm 	Public Works 
+155.88000 	KNDL655 	BM		Gresham Util 	Gresham Utilties 	FMN 	Utilities 
+453.72500 	WPLV625 	RM	186.2 PL	ME Utilties 	Utilities (repeater in Shawano Co) 	FMN 	Utilities 
+154.16750 	WQTU973 	RM		NLFD FD 	Fire Tactical 	FMN 	Fire-Talk 
+155.17500 	WPDZ462 	BM		N Branch Bus 	Operations 	FMN 	Transportation 
+47.58000 	WPYV323 	BM		Bonduel Sch 	Schools 	FM 	Schools 
+155.94000 	KSJ437 	RM	599 NAC	Shawano PD 	Police Dispatch 	P25 	Law Dispatch 
+155.07000 	WPVB249 	BM	94.8 PL	ShawanoPDTac 	Police Tactical 	FME 	Law Talk 
+460.60000 	WQAN469 	RM	351 DPL	Shawano FD 	Fire/EMS 	FMN 	Fire Dispatch 
+154.07000 	WQD398 	BM	94.8 PL	SHFIR 	Fire Fireground 	FMN 	Fire-Tac 
+154.35500 	WQD398 	M	94.8 PL	SHFG 	Fire Fireground 	FMN 	Fire-Tac 
+155.34000 	KSU660 	BM	127.3 PL	SMC EMS B 	Shawano Medical Center 	FMN 	Hospital 
+154.18250 	WQD398 	RM		Shawano FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+158.82750 	WPPC503 	RM	271 DPL	Shawano Util 	Municipal Utilities 	FMN 	Public Works 
+453.35000 	KSJ437 	RM		Shawano DPW 	DPW (Linked) 	DMR 	Public Works 
+453.53750 	KSJ437 	RM		Shawano DPW 	DPW (Linked) 	DMR 	Public Works 
+155.88000 	WGU617 	BM	173.8 PL	ShawSaniDist 	Ops 	FMN 	Public Works 
+173.31250 	WNYS989 	F	CSQ	ShawSaniDist 	SCADA 	Telm 	Public Works 
+453.27500 	WGU617 	RM	85.4 PL	ShawSanDist 	Ops 	FMN 	Public Works 
+154.10000 	WPUR502 	RM	023 DPL	Stkbg Mun FD 	Fire / Services 	FMN 	Multi-Talk 
+155.82000 	WPFU946 	RM	731 NAC	Stkbg Mun PD 	Police 	P25 	Law Talk 
+155.77500 	WPTS349 	BM	023 DPL	Stkbg Mun 	Services 	FMN 	Public Works 
+155.88000 	WPJM621 	BM	023 DPL	Stkbg Mun PW 	DPW 	FMN 	Public Works 
+155.23500 	WXY534 	BM		Tigerton Sch 	Schools 	FMN 	Schools 
+155.88000 	WPEG955 	BM	365 DPL	Tigerton DPW 	DPW 	FMN 	Public Works 
+158.76000 	WPAS859 	RM	77.0 PL	Wescott DPW 	Public Works 	FMN 	Public Works 
+151.08500 	WPQC348 	RM	162.2 PL	WittenbergPW 	Public Works 	FMN 	Public Works 
+462.02500 	WQHB956	 	RM	103.5 PL	Wit Birn Sch 	Ops 	FMN 	Schools 
+145.35000 	KA9NWY 	RM	114.8 PL	Gresham B/U 	KA9NWY Repeater - Gresham - Backup ARES-RACES Skywarn 	FM 	Ham 
+147.22500 	N9FZH 	RM	114.8 PL	Gresham Pri 	N9FZH Repeater - Gresham - Primary ARES-RACES Skywarn 	FM 	Ham 
+444.92500 	N9FZH 	RM	114.8 PL	Shawano 	N9FZH Repeater - Shawano 	FM 	Ham 
+Alliant Energy	 DMR Tier 3	 Various	Baycom (Shawano)	 LTR Standard	 Shawano	Central Wisconsin Electric Cooperative	 DMR Motorola Connect Plus (TRBO)
+ Iola	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	

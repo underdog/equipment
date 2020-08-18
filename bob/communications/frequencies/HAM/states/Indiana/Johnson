@@ -1,0 +1,47 @@
+155.61000 	KSA914 	RM	41 RAN	JCSO-BU 1 	Law Enforcement Backup Ch. 1 	NXDN 	Law Dispatch 
+159.15000 	KSA914 	RM		JCSO-BU 2 	Law Enforcement Backup Ch. 2 	NXDN 	Law Tac 
+155.13000 	KSA914 	BM		JCSO-BU 3 	Law Enforcement Backup Ch. 3 	NXDN 	Law Tac 
+453.21250 	WNYV807 	M	103.5 PL	JCSO-JDC 	Juvenile Detention Center 	FMN 	Law Tac 
+154.01000 	WNMQ317 	BM	103.5 PL	JCFD TONE OUT 	County Fire Dispatch - Operations on SAFE-T 	FMN 	Fire Dispatch 
+155.02500 	KNDX335 	BM	91.5 PL	JC EMA MAIN 	County EMA - Operations on SAFE-T 	FMN 	Emergency Ops 
+155.04000 	KNHR411 	BM		JC EMA SECONDARY 	County EMA - Operations on SAFE-T 	FMN 	Emergency Ops 
+151.02500 	KNAU425 	RM		JC HIGHWAY DEPT 	Highway Department 	NXDN 	Public Works 
+156.18000 	WPVB713 	RM	115 DPL	JC PARKS  	County Parks And Recreation 	FMN 	Public Works 
+154.10000 	WNDK695 	BM	67.0 PL	BRGRVL OPS 	Operations 	FMN 	Public Works 
+456.42500 	WPYY763 	BM		BRGRVL OPS DATA 	Operations Data 	Telm 	Public Works 
+158.80500 	KJL709 	RM	151.4 PL	EDINBRG STREET 	Street Department (Also licensed for DMR) 	FMN 	Public Works 
+154.44500 	KNDV372 	RM	103.5 PL	GREENWOOD SIRENS 	Weather Siren Activation 	FMN 	Emergency Ops 
+155.14500 	KUL871 	BM	103.5 PL	GREENWOOD DPW 	Public Works Department (Also licensed for DMR) 	FMN 	Public Works 
+155.55000 	KSD845 	RM	CC 11TG 101SL 2	GRNWD STREETS 1 	Street Department 	DMR 	Public Works 
+155.55000 	KSD845 	RM	CC 11TG 102SL 1	GRNWD STREET ALT 	Street Department - alternate 	DMR 	Public Works 
+155.80500 	WPJK868 	BM	151.4 PL	NEW WHITLND STRT 	Street Department 	FMN 	Public Works 
+155.94000 	KBL989 	BM	151.4 PL	NWFD SIRENS 	Siren Activation 	FMN 	Emergency Ops 
+154.04000 	WPME722 	BM	103.5 PL	TPD VHF TAC 	Police VHF Tactical 	FMN 	Law Tac 
+453.25000 	WNAX280 	RM		PRNCS LKS ROADS 	Streets Department 	FMN 	Public Works 
+451.87500 	WQIB492 	RM	CC 1TG 16776414SL 1	ITCC FRNKLN SEC 	Ivy Tech Community College Franklin - Security 	DMR 	Security 
+451.87500 	WQIB492 	RM	CC 1TG 16776415SL 2	ITCC FRNKLN MNT 	Ivy Tech Community College Franklin - Security 	DMR 	Schools 
+464.77500 	WPWL696 	RM	173.8 PL	FRANKLIN COLLEGE 	Franklin College  	FMN 	Schools 
+464.77500 	WPWL696 	RM	85.4 PL	FRANKLIN COLLEGE 	Franklin College  	FMN 	Schools 
+155.34000 	KWH429 	BM		JMH IHERN 	 Emergency Room IHERN *Also on SAFE-T* 	FMN 	Hospital 
+453.00000 	WPLK688 	RM		JMH Ops 1 	Johnson Memorial Hospital 1 	DMR 	Business 
+461.45000 	WPLK688 	RM		JMH Ops 2 	Johnson Memorial Hospital 2 	DMR 	Business 
+462.25000 	WPLK688 	RM	CC 14TG 16776415SL 1	JMH Security 	Johnson Memorial Hospital Security / Maintenance 	DMR 	Security 
+464.70000 	WPLK688 	BM		JMH Ops 4 	Johnson Memorial Hospital 4 	DMR 	Business 
+464.01250 	WNYL470 	RM	051 DPL	CGHS CH 1A 	Center Grove High School Channel 1 Analog 	FMN 	Schools 
+464.17500 	WPQI977 	RM	155 DPL	CPCS WHITELAND H 	Clark Pleasant Community Schools - Whiteland High School 	FMN 	Schools 
+462.42500 	WPQI977 	M	031 DPL	CPIS OPS 	Clark Pleasant Intermediate 	FMN 	Schools 
+461.81250 	WPQI977 	RM	115 DPL	CPMS OPS 	Clark Pleasant Middle School 	FMN 	Schools 
+456.35000 	WPQI977 	M	125 DPL	CPSD BUS TA 	Clark Pleasant Schools (Bus Talkaround) 	FMN 	Schools 
+152.27750 	WREM736 	RM	110.9 PL	CPCS Police 	Clark-Pleasant Community School Police 	FMN 	Law Dispatch 
+451.35000 	WPQI977 	RM	125 DPL	CPSD BUS1 	Clark-Pleasant Schools (Buses Main) 	FMN 	Schools 
+467.87500 	KNEE946 	M	127.3 PL	FSD CRCKSD ES 	Creekside Elementary (Franklin Schools) 	FMN 	Schools 
+464.32500 	KNEE946 	RM	CC 14TG 16776415SL 1	FCSD BUS OPS 	Franklin Community School Buses 	DMR 	Schools 
+452.21250 	KNEE946 	RM	CC 14TG 16776415SL 1	FCSD OPS 	Franklin Community Schools 	DMR 	Schools 
+463.67500 	KNEE946 	RM	192.8 PL	FHS OPS 	Franklin High School 	FMN 	Schools 
+464.92500 	WPQI977 	RM	CC 12TG 1SL 1	GWOOD CSD BUSES 	Greenwood Community School Corporation - Buses 	DMR 	Schools 
+467.85000 	KNEE946 	M	167.9 PL	FSD NDHM ES 	Needham Elementary (Franklin Schools) 	FMN 	Schools 
+155.22000 	KNCR275 	RM	186.2 PL	NHJSC OPS 	Nineveh-Hensley-Jackson School Corporation 	FMN 	Schools 
+467.87500 	WPPZ421 	RM	226 DPL	CGS NRTHGRV ES 	North Grove Elementary (Center Grove Schools) 	FMN 	Schools 
+467.90000 	KNEE946 	M	156.7 PL	WEBB ELM SCHL 	Webb Elementary School 	FMN 	Schools 
+Camp Atterbury Joint Maneuver Training Center (CAJMTC) P25	 Project 25 Phase I	 Edinburgh	Franklin Government Services	 DMR Motorola Capacity Plus Single Site (TRBO)	 Franklin	Indiana Project Hoosier SAFE-T	 Project 25 Phase I
+ Statewide	J and K Communications	 LTR Standard	 Multiple	J E S and Sons	 LTR Standard	 Indianapolis	

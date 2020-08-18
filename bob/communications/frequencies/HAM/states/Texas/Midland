@@ -1,0 +1,26 @@
+156.20250 	WQAC487 	BM	072 DPL	MidlandFDLnk 	Link to Midland Fire talkgroups (MFD Dispatch having priority) 	FMN 	Fire Dispatch 
+155.02500 	KVJ918 	BM	072 DPL	MidlandPDLnk 	Link to Midland Police talkgroups (MPD Dispatch having priority) 	FMN 	Multi-Dispatch 
+155.07750 	KVJ918 	RM	165 NAC	Sheriff Talk 	Sheriff Talkaround (Encrypted) 	P25E 	Law Talk 
+158.93250 	KVJ918 	RM	165 NAC	Sheriff Disp 	Sheriff Dispatch (Encrypted) 	P25E 	Law Dispatch 
+155.61750 	KVJ918 	RM	165 NAC	Sheriff Ops2 	Sheriff Ops 2, Jail Prisoner Transport and Constables 	P25 	Law Talk 
+156.09000 	KVJ918 	BM	165 NAC	Sheriff Tac1 	Sheriff Tactical 1 (Encrypted) 	P25E 	Law Tac 
+158.97000 	KVJ918 	BM	165 NAC	Sheriff Tac2 	Sheriff Tactical 2 	P25 	Law Tac 
+158.77500 	WQAC487 	RM	165 NAC	Courthouse 	Courthouse Security (Encrypted) 	P25E 	Law Tac 
+154.37000 	KVJ918 	RM	073 DPL	Midland CF 	County Fire Primary 	FM 	Fire Dispatch 
+453.15000 	KVJ918 	RM		MCSO Jail 	Midland Co. Sheriff - Jail (Linked Site-Connect system w/453.4125, encrypted) 	DMRE 	Corrections 
+453.41250 	WQJY456 	RM		MCSO Jail 	Midland Co. Sheriff - Jail (Linked Site-Connect system with 453.150, encrypted) 	DMRE 	Corrections 
+158.89500 	WNLK292 	RM	074 DPL	Public Works 	Public Works / Road and Bridge 	FM 	Public Works 
+453.27500 	WPWW300 	RM		Mid Eng Data 	GPS/Engineering Data 	Telm 	Data 
+854.06250 	WNSS433 	B	156.7 PL	Mid Police 	Rebroadcast of Dispatch 1 from TRS, limited coverage 	FMN 	Law Dispatch 
+854.46250 	WNSS433 	B	156.7 PL	Mid Fire 	Rebroadcast of Dispatch from TRS, limited coverage 	FMN 	Fire Dispatch 
+159.03000 	WNRI738 	BM		MISD Police 	Police 	FM 	Law Dispatch 
+152.43500 	WNKP682 	RM	205 DPL	MISD Admin 	Administration 	FM 	Schools 
+151.65500 	WPVD204 	BM	107.2 PL	MISD Lee HS Sec 	Lee High School Security 	FM 	Schools 
+151.68500 	WPCI655 	BM		MISD Mid HS Sec 	Midland High School Security 	FM 	Schools 
+151.80500 	WPVI734 	BM	107.2 PL	Midland HS Sec 	Midland High School Security 	FMN 	Security 
+151.89500 	WPBK311 	BM	107.2 PL	MISD ES Sec 	Elementary School Security 	FM 	Schools 
+151.92500 	WNKP682 	BM		MISD Warehouse 	Warehouse/Shop 	FM 	Schools 
+151.95500 	WQSI737 	RM	CC 2TG *SL *	MISD Buses 151 	Buses Dispatch 	DMR 	Schools 
+154.50500 	WQSI737 	RM	CC 2TG 3001SL 1	MISD Buses 154 	Buses Dispatch 	DMR 	Schools 
+Hearthstone Enterprises	 Motorola Type II Smartnet	 Midland	Macpet Communications	 Motorola Type II Smartnet	 Midland	Midland (P25)	 Project 25 Phase II
+ Midland	Oncor Energy	 EDACS Narrowband Networked	 Various	Twin Cities Communications (Midland)	 LTR Standard	 Midland	

@@ -1,0 +1,238 @@
+453.35000 	WPZX249 	RM	223 DPL	MDFR N Disp 	North - Dispatch 	FMN 	Fire Dispatch 
+460.50000 	KIM654 	RM	245 DPL	MDFR C Disp 	Central - Dispatch 	FMN 	Fire Dispatch 
+453.15000 	WNIY425 	RM	263 DPL	MDFR S Disp 	South - Dispatch 	FMN 	Fire Dispatch 
+453.10000 	WQBV755 	RM	243 DPL	MDFR E Disp 	East - Dispatch 	FMN 	Fire Dispatch 
+460.31250 	WQAK991 	RM	306 DPL	MDFR A Disp 	Automated Dispatch  	FMN 	Fire Dispatch 
+453.52500 	WQHC509 	RM	226 DPL	MDFR Tac 1 	Tactical-1 	FMN 	Fire-Tac 
+460.45000 	WQHC509 	RM	244 DPL	MDFR Tac 2 	Tactical-2 	FMN 	Fire-Tac 
+453.32500 	WNKR362 	RM	205 DPL	MDFR Tac 3 	Tactical-3 	FMN 	Fire-Tac 
+460.40000 	WNKR364 	RM	261 DPL	MDFR Tac 4 	Tactical-4 	FMN 	Fire-Tac 
+453.42500 	WNIY425 	RM	174 DPL	MDFR Tac 5 	Tactical-5 	FMN 	Fire-Tac 
+453.80000 	WPVJ469 	RM	265 DPL	MDFR Tac 6 	Tactical-6 	FMN 	Fire-Tac 
+453.60000 	KNAB441 	RM	480 NAC	TCOM DOT 	Admin [encryption enabled] 	P25 	Fire-Talk 
+453.70000 	KIM654 	RM	243 DPL	MDFRTCOMM1 	T Comm-1 (Hard Rock Stadium) 	FMN 	Fire-Tac 
+453.85000 	KEM595 	RM	223 DPL	MDFRTCOMM2 	T Comm-2 	FMN 	Fire-Tac 
+453.85000 	KEM595 	RM	226 DPL	MDFRTCOMM3 	T Comm-3 	FMN 	Fire-Tac 
+453.20000 	WNIY425 	RM	263 DPL	MDFRTCOMM4 	T Comm-4 	FMN 	Fire-Tac 
+453.45000 	WNLX505 	RM	261 DPL	MDFRTCOMM5 	T Comm-5 	FMN 	Fire-Talk 
+453.47500 	WNKR364 	RM	244 DPL	MDFRTCOMM6 	T Comm-6 	FMN 	Fire-Tac 
+453.93750 	WPLZ660 	RM	411 DPL	MDFRTCOMM7 	T Comm-7 	FMN 	Fire-Tac 
+460.06250 	WQAK993 	RM	466 DPL	CW ADMN 	Countywide Admin 	FMN 	Fire-Talk 
+453.50000 	WQDM481 	RM	251 DPL	MDFR MIA 	Airport Fire Rescue Division 	FMN 	Fire-Tac 
+460.31250 	WQAK991 	RM	023 DPL	Air Rescue2 	Air Rescue 2 	FMN 	Fire-Tac 
+453.06250 	WPLZ660 	M	192.8 PL	MDFR FG-1 	Fireground-1 	FMN 	Fire-Tac 
+453.11250 	WPLZ660 	M	192.8 PL	MDFR FG-2 	Fireground-2 	FMN 	Fire-Tac 
+453.13750 	WPLZ660 	M	192.8 PL	MDFR FG-3 	Fireground-3 	FMN 	Fire-Tac 
+453.88750 	WPLZ660 	M	192.8 PL	MDFR FG-4 	Fireground-4 	FMN 	Fire-Tac 
+453.45000 	WPLZ660 	M	261 DPL	MDFR FG-5 	Fireground-5 	FMN 	Fire-Tac 
+453.47500 	WPLZ660 	M	244 DPL	MDFR FG-6 	Fireground-6 	FMN 	Fire-Tac 
+453.93750 	WPLZ660 	M	411 DPL	MDFR FG-7 	Fireground-7 	FMN 	Fire-Tac 
+453.96250 	WPLZ660 	M	192.8 PL	MDFRCRANDON 	Crandon Ocean Rescue 	FMN 	Fire-Talk 
+453.98750 	WPLZ660 	M	192.8 PL	MDFRHAULVR 	Haulover Ocean Rescue 	FMN 	Fire-Tac 
+453.13750 	WPLZ660 	RM	293 NAC	ALPHA D 	Digital - A 	P25 	Fire-Talk 
+453.45000 	WNLX505 	RM	293 NAC	BRAVO D 	Digital - B 	P25 	Fire-Talk 
+462.95000 	KMA870 	RM	203.5 PL	Dade Calling 	Dade Calling Med 9 	FMN 	Hospital 
+462.97500 	KMA870 	RM	173.8 PL	Broward Call 	Broward Calling MED 10 	FMN 	Hospital 
+463.00000 	KMA870 	RM	173.8 PL	EMS-to-Jacks 	EMS-to-Jackson South Community Hospital 	FMN 	Hospital 
+463.00000 	KMA870 	RM	186.2 PL	EMS-to-Kenda 	EMS-to-Kendall Regional Medical Center 	FMN 	Hospital 
+463.01250 	KMA870 	RM	107.2 PL	EMS-to-Avent 	EMS-to-Aventura Hospital and Medical Center 	FMN 	Hospital 
+463.01250 	KMA870 	RM	131.8 PL	EMS-to-Veter 	EMS-to-Veterans Hospital 	FMN 	Hospital 
+463.01250 	KMA870 	RM	151.4 PL	EMS-to-Homes 	EMS-to-Homestead Hospital 	FMN 	Hospital 
+463.01250 	KMA870 	RM	156.7 PL	EMS-to-Palm  	EMS-to-Palm Springs General Hospital 	FMN 	Hospital 
+463.02500 	KMA870 	RM	210.7 PL	North Dade C 	North Dade Control Med-2 	FMN 	Hospital 
+463.03750 	KMA870 	RM	131.8 PL	EMS-to-Healt 	EMS-to-Healthsouth Doctors Hospital 	FMN 	Hospital 
+463.03750 	KMA870 	RM	136.5 PL	EMS-to-Mount 	EMS-to-Mount Sinai Medical Center and Miami Heart Institute 	FMN 	Hospital 
+463.03750 	KMA870 	RM	192.8 PL	EMS-to-Palme 	EMS-to-Palmetto General Hospital 	FMN 	Hospital 
+463.05000 	KMA870 	RM	114.8 PL	EMS-to-Cedar 	EMS-to-Cedars Medical Center 	FMN 	Hospital 
+463.05000 	KMA870 	RM	203.5 PL	EMS-to-Larki 	EMS-to-Larkin Community Hospita 	FMN 	Hospital 
+463.06250 	KMA870 	RM	127.3 PL	EMS-to-Mount 	EMS-to-Mount Sinai Medical Center 	FMN 	Hospital 
+463.06250 	KMA870 	RM	167.9 PL	EMS-to-Bapti 	EMS-to-Baptist Hospital of Miami 	FMN 	Hospital 
+463.07500 	KMA870 	RM	210.7 PL	Central Dade 	Central Dade Control Med-4 	FMN 	Hospital 
+463.08750 	KMA870 	RM	162.2 PL	EMS-to-Jacks 	EMS-to-Jackson Memorial Hospital 	FMN 	Hospital 
+463.10000 	KMA870 	RM	103.5 PL	EMS-to-Mercy 	EMS-to-Mercy Hospital 	FMN 	Hospital 
+463.10000 	KMA870 	RM	173.8 PL	Broward CMC5 	Broward CMC5 	FMN 	Hospital 
+463.11250 	KMA870 	RM	107.2 PL	EMS-to-Pan A 	EMS-to-Pan American Hospital 	FMN 	Hospital 
+463.11250 	KMA870 	RM	146.2 PL	EMS-to-North 	EMS-to-North Shore Medical Center 	FMN 	Hospital 
+463.12500 	KMA870 	RM	210.7 PL	South/West C 	South/West Control Med-6 	FMN 	Hospital 
+463.13750 	KMA870 	RM	114.8 PL	EMS-to-Jacks 	EMS-to-Jackson North 	FMN 	Hospital 
+463.13750 	KMA870 	RM	123.0 PL	EMS-to-Coral 	EMS-to-Coral Gables Hospital 	FMN 	Hospital 
+463.15000 	KMA870 	RM	110.9 PL	Central Dade 	Central Dade CMC4 	FMN 	Hospital 
+463.16250 	KMA870 	RM	123.0 PL	EMS-to-South 	EMS-to-South Miami Hospital 	FMN 	Hospital 
+463.16250 	KMA870 	RM	141.3 PL	EMS-to-Hiale 	EMS-to-Hialeah Hospital 	FMN 	Hospital 
+463.17500 	KMA870 	RM	167.9 PL	Statewide Me 	Statewide Medical Coordination 	FMN 	Hospital 
+155.37000 	KF3405 	BM	103.5 PL	Intercity 	Police/Marine Patrol - Intercity patched to 800 	FM 	Interop 
+156.01500 	KLW377 	RM	103.5 PL	HIDTA 1 	High Intensity Drug Trafficking Areas (HIDTA) Net 1 	FM 	Law Tac 
+156.03000 	KDG915 	RM	103.5 PL	HIDTA 2 	High Intensity Drug Trafficking Areas (HIDTA) Net 2 	FM 	Law Tac 
+155.91000 	KYU962 	RM	103.5 PL	HIDTA 3 	High Intensity Drug Trafficking Areas (HIDTA) Net 3 	FM 	Law Tac 
+155.11500 	 	M	103.5 PL	HIDTA 4 	High Intensity Drug Trafficking Areas (HIDTA) Tactical 4 	FM 	Law Tac 
+155.92500 	KT9873 	M	103.5 PL	HIDTA 5 	High Intensity Drug Trafficking Areas (HIDTA) Tactical 5 	FM 	Law Tac 
+153.44000 	KNBQ311 	RM	123.0 PL	WASD 1 	Water and Sewer Department 1 	FM 	Public Works 
+153.50000 	KNBQ311 	RM	123.0 PL	WASD 2 	Water and Sewer Department 2 	FM 	Public Works 
+153.56000 	KNBQ311 	RM	123.0 PL	WASD 3 	Water and Sewer Department 3 	FM 	Public Works 
+453.63750 	WPPB804 	F		WASDGPS 	Water and Sewer Department - GPS Data 	FM 	Data 
+462.52500 	WPMS765 	RM	CC 10TG 96995SL 1	MD Properties 	County Properties Security (Base) 	DMR 	Security 
+462.52500 	WPMS765 	RM	CC 10TG 96995SL 2	MD Properties 	County Properties Security (Units) 	DMR 	Security 
+463.38750 	WQNV836 	RM	107.2 PL	MDC HC2 	Homestead Campus 2 	FM 	Security 
+464.91250 	WQBL363 	RM	CC 4TG 900SL 1	MDC HIA SEC 	Hialeah Campus - Security  	DMRE 	Security 
+451.92500 	WQFY756 	RM	CC 5TG 200SL 1	MDC KC SEC 	Kendall Campus - Security  	DMRE 	Security 
+464.32500 	WQHF718 	RM	CC 5TG 200SL 1	MDC KC SEC 	Kendall Campus - Security  	DMRE 	Security 
+464.87500 	WQPP630 	RM	CC 8TG 600SL 1	MDC MC SEC 	Medical Campus - Security 	DMRE 	Security 
+464.20000 	KTJ544 	RM	CC 12TG 400SL 1	MDC NC SEC 	North Campus - Security 	DMRE 	Security 
+462.42500 	WPWD620 	RM	CC 14TG 500SL 1	MDC WC SEC 	Wolfson Campus - Security 	DMRE 	Security 
+461.15000 	WQLF912 	RM	254.1 PL	AventuraK-8 	Aventura Waterways K-8 Center 	FM 	Schools 
+461.53750 	WQGF676 	RM	173.8 PL	DavidLawrnce 	David Lawrence 	FM 	Schools 
+461.63750 	WQHE687 	RM	732 DPL	S Miami K-8 	South Miami K-8 Center 	FM 	Schools 
+461.83750 	WQLG719 	RM	244 DPL	Sunny IB K-8 	Norman S. Edelcup/Sunny Isles Beach K-8 Sunny Isles Beach K-8 	FM 	Schools 
+471.76250 	KOP378 	RM	107.2 PL	KB K-8C 	Key Biscayne K-8 Center 	FM 	Schools 
+466.58750 	WQPY956 	M	025 DPL	CoconutGrove 	Coconut Grove 	FM 	Schools 
+452.42500 	KNCD875 	RM	127.3 PL	Ponce DeLeon 	Ponce De Leon (Coral Gables) 	FM 	Schools 
+452.97500 	WQMG333 	RM	546 DPL	PonceDeLeon 	Ponce DeLeon (Coral Gables) 	FM 	Schools 
+461.30000 	WQLF912 	RM	445 DPL	Andover 	Andover 	FM 	Schools 
+461.41250 	WQIB536 	RM	192.8 PL	HighlandOaks 	Highland Oaks 	FM 	Schools 
+461.57500 	WQHE687 	RM	179.9 PL	JFK MS 	John F Kennedy  	FM 	Schools 
+461.63750 	WQHE687 	RM	432 DPL	CCMS 	Country Club  	FM 	Schools 
+462.12500 	WQLI780 	RM	107.2 PL	NMiamiMS 	North Miami  	FM 	Schools 
+462.12500 	WQLI780 	RM	152 DPL	NorthMiami MS 	North Miami 	FMN 	Schools 
+463.30000 	WPKP632 	RM	114.8 PL	Miami Edison 	Miami Edison  	FM 	Schools 
+463.42500 	WQRK458 	RM	532 DPL	Henry H. Filer 	Henry H. Filer 	FMN 	Schools 
+463.70000 	WPKP660 	RM	107.2 PL	Campbell Drv 	Campbell Drive  	FM 	Schools 
+464.38750 	WQNJ281 	RM	114 DPL	Westview  	Westview  	FMN 	Schools 
+464.40000 	WQHC666 	RM	192.8 PL	JosedeDiego 	Jose de Diego  	FM 	Schools 
+464.85000 	WQMY766 	RM	612 DPL	MiamiSprings 	Miami Springs 	FM 	Schools 
+451.13750 	WQUE871 	RM	132 DPL	Coral Gables 	Coral Gables Senior High School 	FMN 	Schools 
+451.60000 	WQLX636 	RM	118.8 PL	Miami ASH  	Miami American Senior High  	FM 	Schools 
+451.82500 	WQMG333 	RM	346 DPL	MKillianSHS 	Miami Killian Senior High School 	FM 	Schools 
+452.02500 	WQHC665 	RM	432 DPL	MCCSHS 	Miami Carol City Senior High School 	FM 	Schools 
+452.07500 	WQLX636 	RM	162.2 PL	MSHS 	Miami Senior High School 	FM 	Schools 
+452.62500 	WQQT394 	RM	023 DPL	Coral Reef  	Coral Reef Senior High School 	FM 	Schools 
+452.80000 	WQPT956 	RM	91.5 PL	MiamiBchSHS 	Miami Beach Senior High School 	FM 	Schools 
+452.82500 	KNCD875 	RM	162.2 PL	Coral ReefSH 	Coral Reef Senior High 	FM 	Schools 
+453.65000 	WQH702 	RM	159.8 PL	MJSH-1 	Miami Jackson Senior High 	FM 	Schools 
+453.65000 	WQH702 	RM	91.5 PL	Miami BSHS  	Miami Beach Senior High School 	FM 	Schools 
+461.07500 	 	RM	734 DPL	Hialeah HS 	Hialeah High School 	FMN 	Schools 
+461.51250 	WQIB536 	RM	032 DPL	BraddockSHS 	G. Holmes Braddock Senior High School 	FM 	Schools 
+461.53750 	WQGF676 	RM	432 DPL	SMSHS 	South Miami Senior High School  	FM 	Schools 
+461.60000 	WQLI780 	RM	245 DPL	Turner Techn 	Turner Technical High School 	FMN 	Schools 
+461.63750 	WQHE687 	RM	141.3 PL	H-MLSHS 	Hialeah - Miami Lakes Senior High School 	FM 	Schools 
+462.17500 	WQLI780 	RM	205 DPL	NMiamiSHS 	North Miami Senior High School 	FM 	Schools 
+462.17500 	WQLI780 	RM	371 DPL	MiamiPalmSHS 	Miami Palmetto Senior High School 	FM 	Schools 
+462.17500 	WQLI780 	RM	731 DPL	North Miami  	North Miami Senior High School 	FMN 	Schools 
+463.36250 	WQUI957 	RM	074 DPL	NMBSHS 	North Miami Beach Senior High School 	FM 	Schools 
+463.48750 	WQLQ889 	RM	712 DPL	Krop SHS 	Dr Michael M. Krop Senior High School 	FM 	Schools 
+463.65000 	WQPH830 	RM	506 DPL	SW Miami SHS 	Southwest Miami Senior High School 	FMN 	Schools 
+463.73750 	WQLQ889 	RM	218.1 PL	FelixVarela 	Felix Varela Senior High School 	FM 	Schools 
+463.73750 	WQLQ889 	RM	250.3 PL	Hialeah GHS 	Hialeah Gardens High School 	FM 	Schools 
+464.02500 	WQUI957 	RM	423 DPL	Miami Sunset 	Miami Sunset Senior High School 	FM 	Schools 
+464.05000 	WQUE871 	RM	131 DPL	Barbara G HS 	Barbara Goleman High School 	FMN 	Schools 
+464.05000 	WQMY766 	RM	526 DPL	BookerTWSHS 	Booker T. Washington Senior High School 	FMN 	Schools 
+464.12500 	WQUE871 	RM	423 DPL	Miami Edison 	Miami Edison Senior High School 	FM 	Schools 
+464.20000 	WQKW814 	RM	516 DPL	TERRA ERI 	TERRA Environmental Research Institute 	FM 	Schools 
+464.37500 	WPCA320 	RM	627 DPL	M Southridge 	Miami Southridge Senior High School 	FMN 	Schools 
+464.73750 	WQLX636 	RM	452 DPL	Miami Centra 	Miami Central Senior High School 	FMN 	Schools 
+464.93750 	WQUI957 	RM	115 DPL	MNorlandSHS 	Miami Norland Senior High School 	FMN 	Schools 
+469.51250 	KNNJ494 	M	179.9 PL	ReaganDoral2 	Reagan-Doral Senior High 	FM 	Schools 
+471.83750 	KOP378 	RM	192.8 PL	ReaganDoral1 	Reagan-Doral Senior High 	FM 	Schools 
+452.47500 	KNCD875 	RM		RobertMorgan 	Robert Morgan Educational Center 	FM 	Schools 
+452.75000 	WQMG333 	RM	271 DPL	LindseyHTEC 	Lindsey Hopkins Technical Education Center 	FMN 	Schools 
+452.97500 	WQMG333 	RM	172 DPL	RobertMorgan 	Robert Morgan Educational Center 	FMN 	Schools 
+461.40000 	WQRK458 	RM	546 DPL	iTech 	Thomas A. Edison 	FMN 	Schools 
+464.63750 	WQRK458 	RM	565 DPL	MiamiLksEC 	Miami Lakes Educational Center 	FM 	Schools 
+464.02500 	WQLX636 	RM	134 DPL	SBAB-1 	School Board Administration Building 	FM 	Schools 
+159.75000 	WQGA563 	RM	131.8 PL	ACES-1 	Aventura City Of Excellence School 	FM 	Schools 
+155.76000 	 	RM	103.5 PL	Public Works 	Public Works 	FM 	Public Works 
+151.47500 	WPYM235 	RM		BHI PW 	Public Works 	FM 	Public Works 
+451.67500 	WPSG576 	RM		Bis Park 	Local Government 	FM 	Public Works 
+453.76250 	WQHD437 	RM	CC 1TG *SL 1	Cutler PW 	Public Works 	DMR 	Public Works 
+460.08750 	WQMK234 	RM	351 DPL	GB PoliceTAC 	Police- Tactical 	FM 	Law Tac 
+453.82500 	WQJW623 	RM	411 DPL	GoldenBeach 	Public Works/ Beach Patrol 	FM 	Public Works 
+453.55000 	KNGW729 	RM	156.7 PL	Hialeah HA 	Housing Authority 	FM 	Other 
+470.56250 	KZV268 	RM	411 DPL	HialeahFR 	Fire-Rescue Dispatch (Data and Dispatcher Voice) 	FM 	Fire Dispatch 
+470.88750 	KZV269 	RM	173.8 PL	Hialeah FD 	Fire - Paging 	FM 	Data 
+854.33750 	WNKU500 	RM	265 DPL	HialeahWater 	Water Dept. 	FM 	Public Works 
+153.96500 	WPAE248 	RM	311 DPL	Hialeah G PW 	Public Works 	FM 	Public Works 
+155.70000 	WNGU430 	RM	A93 NAC	HPD Main 1 	Police Main Ch.1 	P25 	Law Dispatch 
+155.01000 	WNGU430 	RM	017 NAC	HPD Record 2 	Police Records Ch.2 	P25 	Law Tac 
+154.81500 	WNGU430 	RM	C09 NAC	HPD Tac C 3 	Police Tac Central Ch.3 	P25 	Law Tac 
+156.21000 	WNGU430 	RM	6A8 NAC	HPD Tac W 4 	Police Tac West Ch.4 	P25 	Law Tac 
+155.65500 	WNGU430 	RM	71D NAC	HPD Tac E 5 	Police Tac East Ch.5 	P25 	Law Tac 
+151.07000 	WNGU430 	RM	F5F NAC	HPD Race 6 	Police Tac Racetrack (Speedway Events) Ch.6 	P25 	Law Tac 
+155.68500 	WNGU430 	BM	251 DPL	HPD Smplx 7 	Police Point-to-Point Ch.7 	FM 	Law Talk 
+155.89500 	WNGU430 	BM	131 DPL	HPD Smplx 8 	Police Point-to-Point Ch.8 	FM 	Law Talk 
+155.62500 	WNGU430 	BM	131.8 PL	HPD Smplx 9 	Police Point-to-Point Ch.9 	FM 	Law Talk 
+154.08500 	WNGU430 	BM	125 DPL	HPD Smplx 10 	Police Point-to-Point Ch.10 	FM 	Law Talk 
+155.37000 	KF3405 	BM	CSQ	HPD IntrC 11 	Police - Intercity Ch.11 	FM 	Interop 
+155.98500 	WNGU430 	RM	114 DPL	HPD IntrA 15 	Police  - Interagency Ch.15 	FM 	Law Talk 
+155.70000 	WNGU430 	BM	165 DPL	HPD Talk 16 	Police Talkaround Ch.16 	FM 	Law Talk 
+153.63500 	WQUS288 	RM	107.2 PL	Electric 	Electric 	FMN 	Public Works 
+153.96500 	WPOY839 	BM	243 DPL	Solid Waste 	Waste 	FM 	Public Works 
+153.99500 	WPOY839 	BM	107.2 PL	Public Works 	Public Works 	FM 	Public Works 
+154.96500 	WPOY839 	BM	263 DPL	Cust Serv 	Customer Service 	FM 	Public Works 
+154.02500 	WPOY839 	BM	261 DPL	General Serv 	General Services 	FM 	Public Works 
+153.92000 	WPMS593 	M	306 DPL	Pt WWTP 	Waste & Water Treatment Plant (simplex) 	FM 	Public Works 
+153.78500 	WPOY839 	M	412 DPL	Pt Water 	Water (simplex) 	FM 	Public Works 
+155.58000 	WPOY839 	M	371 DPL	Pt Streets 	Streets (simplex) 	FM 	Public Works 
+154.89000 	WPOY839 	M	331 DPL	Pt Electric 	Electric (simplex) 	FM 	Public Works 
+155.08500 	WPDU430 	BM		IndianCreek 	Local Government 	FM 	Public Works 
+460.47500 	 	RM	624 DPL	MedleyPDTAC 	Police - Tactical 	FM 	Law Tac 
+155.14500 	KFX364 	RM	506 DPL	Medley PW1 	Public Works -1 	FM 	Public Works 
+155.41500 	WQFR561 	BM	506 DPL	Medley PW2 	Public Works -2 	FM 	Public Works 
+458.47500 	WGN891 	M		Building Dep 	Building Department 	FM 	Public Works 
+453.26250 	WQLE881 	RM		MB GMD 	Greenspace Management Division 	FM 	Public Works 
+458.03750 	WPLV859 	M		MB GMD 	Greenspace Management Division 	FM 	Public Works 
+460.37500 	WPLD263 	RM	192.8 PL	MiamiBchPS 	Public Safety - Hurricane/ Special Events 	FM 	Emergency Ops 
+460.52500 	KLL511 	RM	546 DPL	MB MDC 	Public Safety - MDC (Data) 	FM 	Other 
+453.27500 	KEY902 	RM	77.0 PL	MiamiShorePW 	Public Works 	FM 	Public Works 
+155.76000 	KSL848 	RM	CC 10TG 1SL 1	MS PW1 	Public Works 	DMR 	Public Works 
+155.10000 	KSL848 	BM		MS PW2 	Public Works 	DMR 	Public Works 
+460.56250 	WQDC460 	BM		MS Water 	Water & Sewer Department 	FM 	Public Works 
+453.75000 	WNHR609 	BM		NBV PW 	Public Works 	FM 	Public Works 
+153.41000 	KIW838 	BM	179.9 PL	NorthMiami U 	Utilities 	FM 	Public Works 
+453.53750 	WPLX300 	RM	CC 12TG 1SL 1	NM PW-1 	Public Works  	DMR 	Public Works 
+465.11250 	WPXU611 	F	CSQ	NM Water 	Water Utilities Data 	FM 	Public Works 
+156.15000 	WPQJ241 	RM	114.8 PL	NMB EOC-1 	Emergency Operations Center-1 (Volunteer Patrols, Crossing Guards) 	FM 	Emergency Ops 
+155.02500 	WPQJ241 	RM	103.5 PL	NMB EOC-2 	Emergency Operations Center- 2 	FM 	Emergency Ops 
+156.15000 	WPQJ241 	RM	103.5 PL	NMB EOC-3 	Emergency Operations Center- 3(Volunteer Patrols, Crossing Guards) 	FM 	Emergency Ops 
+154.10000 	WNQN547 	BM	114.8 PL	NMB S2 	Simplex 2 	FM 	Multi-Talk 
+154.95000 	 	BM		NMB S3 	Simplex 3 	FM 	Multi-Talk 
+156.01500 	 	BM		NMB A5 	Alpha 5 	FM 	Multi-Talk 
+154.89500 	 	BM		NMB B4 	Bravo 4 	FM 	Multi-Talk 
+155.62500 	 	BM		NMB B5 	Bravo 5 	FM 	Multi-Talk 
+155.65500 	 	BM		NMB B6 	Bravo 6 	FM 	Multi-Talk 
+155.68500 	 	BM		NBM B7 	Bravo 7 	FM 	Multi-Talk 
+453.95000 	WQOS252 	RM		PalmettoBPW 	Public Works 	DMR 	Public Works 
+453.05000 	WPMP211 	BM	94.8 PL	Pinecrest PW 	Services 	FM 	Public Works 
+453.31250 	WQET910 	RM	CC 4TG 3003SL 1	SunnyIslesCC 	Cultural & Community Services Department 	DMR 	Public Works 
+453.66250 	WQER753 	RM	343 DPL	SunnyIslesPW 	Public Works 	FM 	Public Works 
+453.81250 	WQET910 	RM	156.7 PL	SunnyIslesPW 	Public Works 	FM 	Public Works 
+460.37500 	WQER753 	RM	CC 15TG 2001SL 1	SunnyIslesBP 	Beach Patrol 	DMR 	Public Works 
+151.95500 	 	BM	74.4 PL	SW PARKS 	Parks and Recreation 	FM 	Public Works 
+155.37000 	WQJD666 	BM	CSQ	Intercity 	Police - Intercity 	FM 	Interop 
+464.68750 	WQHD405 	RM		FIU Orientn 	Orientation Office  	FM 	Schools 
+452.28750 	WQQW876 	RM	606 DPL	FIU Maint 	Maintenance 	FM 	Schools 
+463.33750 	WQNJ715 	RM	218.1 PL	FIU Parking 	Parking 	FM 	Schools 
+464.77500 	WQUS209 	RM	CC 1TG *SL 1	FIU FM 	Facilities Management - Work Management 	DMR 	Schools 
+452.10000 	WPSZ268 	RM	174 DPL	UM Svcs 	Services 	FM 	Schools 
+452.23750 	WQFE835 	RM	CC 11TG 1000SL 1	UM FMD 1 	Facilities Management Division - 1 	DMR 	Schools 
+452.23750 	WQFE835 	RM	CC 11TG 1010SL 2	UM FMD 2 	Facilities Management Division - 2 	DMR 	Schools 
+452.85000 	WPWQ732 	RM		UM DORM 	Dorm Security (10 PM - 8 AM) 	DMR 	Schools 
+461.05000 	WQFE835 	RM	162.2 PL	UM Parking 	Parking Services 	FM 	Schools 
+462.08750 	WQOG903 	RM		UMAdmin1/2 	Administration (Gables One Tower) 	DMR 	Schools 
+463.27500 	WQFE835 	RM		UMAdmin3/4 	Administration/ Maintenance 	DMR 	Schools 
+463.91250 	WQYT886 	RM	CC 4TG 4000SL 1	UM MC Sec 	Medical Campus - Security 	DMR 	Security 
+Adrienne Arsht Center For The Performing Arts 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Miami	Aeronautical Radio: Miami International Airport	 DMR Motorola Connect Plus (TRBO)	 Miami	American Airlines (Miami)	 DMR Motorola Capacity Plus Multi Site (TRBO)
+ Miami	Aventura	 Project 25 Phase I	 Aventura	Baptist Health South Florida	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Brickell City Centre
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Miami	Clevelander South Beach Hotel and Bar	 DMR Motorola Capacity Plus Single Site (TRBO)	 Miami Beach	Coral Gables (P25)	 Project 25 Phase II	 Coral Gables
+FDARN Network	 DMR Conventional Networked	 Dunedin	Federal Correctional Institution Miami	 Motorola Type II SmartZone	 Miami	Federal Detention Center Miami	 Motorola Type II SmartZone
+ Miami	Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various	Florida Keys Electric Cooperative	 DMR Conventional Networked	 Tavernier	Florida Power and Light (P25)
+ Project 25 Phase II	 Varies	Florida Power and Light (Turkey Point Nuclear Power Plant)	 Motorola Type II	 Florida City	Four Seasons Hotel Miami	 DMR Motorola Capacity Plus Single Site (TRBO)	 Miami
+Hard Rock Stadium (Miami Gardens)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Miami Gardens	Hialeah P25	 Project 25 Phase I	 Hialeah	Hialeah Park Racing and Casino	 LTR Standard
+ Hialeah	Highland Wireless (Miami International Airport)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Miami	Highland Wireless (Miami)	 LTR Standard	 Miami	Highland Wireless - Suntalk Linked System (470 Connect Plus)
+ DMR Motorola Connect Plus (TRBO)	 Various	ICON Brickell	 DMR Hytera XPT	 Miami	Industrial Communications and Electronics	 DMR Motorola Connect Plus (TRBO)	 North Miami
+JW Marriott Marquis Miami	 DMR Motorola Capacity Plus Single Site (TRBO)	 Miami	JW Marriott Miami Turnberry Resort and Spa	 DMR Motorola Capacity Plus Single Site (TRBO)	 Aventura	Marlins Park	 NXDN NEXEDGE 9600
+ MIami	Miami (Motorola)	 Motorola Type II Smartnet	 Miami	Miami (P25)	 Project 25 Phase II	 Miami	Miami Beach EDITION
+ DMR Motorola Capacity Plus Single Site (TRBO)	 Miami Beach	Miami Beach Public Safety	 Motorola Type II Smartnet	 Miami Beach	Miami Marriott Dadeland 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Miami
+Miami-Dade County	 Project 25 Phase I	 Miami	Motorola Federal Solutions	 Project 25 Phase II	 Various	NBC 6 South Florida	 NXDN NEXEDGE 4800
+ Miramar	North Miami Beach Public Works	 DMR Motorola Capacity Plus Single Site (TRBO)	 North Miami Beach	Rinker Materials 1(North Miami)	 LTR Standard	 North Miami	Rinker Materials 2 (North Miami)
+ LTR Standard	 North Miami	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	Thompson Miami Beach	 DMR Motorola Capacity Plus Single Site (TRBO)	 Miami Beach 
+TowBoat US 	 DMR Conventional Networked	 Fort Lauderdale	United States Air Force (3D6)	 Project 25 Phase I	 Various	Williams Island	 DMR Hytera XPT
+ Aventura	

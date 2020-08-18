@@ -1,0 +1,67 @@
+154.87500 	WQEZ284 	RM	100 NAC	Chem Law Disp 	Law Dispatch 	P25 	Law Dispatch 
+151.03250 	WQEZ284 	RM	100 NAC	Chem Law Disp 	Law Dispatch (NE fill-in site) 	P25 	Law Dispatch 
+156.03000 	WQEZ284 	BM		Chem SO 10 	Sheriff Ch. 10 	P25 	Law Tac 
+155.25000 	WQUC671 	B	118.8 PL	CC FD Paging 	Paging (patch with 46.18 MHz) 	FMN 	Fire Dispatch 
+453.88750 	 	BM		CC FD1 UHF 	Dispatch (patch with 46.18 MHz) 	FMN 	Fire Dispatch 
+460.32500 	 	RM	111 NAC	CC FD 1 Main 	Ch. 1 Communications Chem-Fire Main 	P25 	Fire-Tac 
+460.36250 	 	RM	222 NAC	CC FD 2 	Ch. 2 Communications Chem-Fire 2 	P25 	Fire-Tac 
+460.58750 	 	RM	333 NAC	CC FD 3 City 	Ch. 3 Communications City Fire 	P25 	Fire-Tac 
+465.10000 	 	BM		CC FD 4 FG 1 	Ch. 4 Fireground District 1 	FMN 	Fire-Tac 
+465.16250 	 	BM		CC FD 5 FG 2 	Ch. 5 Fireground District 2 	FMN 	Fire-Tac 
+465.18750 	 	BM		CC FD 6 FG 3 	Ch. 6 Fireground District 3 	FMN 	Fire-Tac 
+465.50000 	 	BM		CC FD 7 FG 4 	Ch. 7 Fireground District 4 	FMN 	Fire-Tac 
+465.46250 	 	BM		CC FD 8 Arpt 	Ch. 8 Airport/Fire Police 	FMN 	Fire-Tac 
+46.18000 	KF6133 	BM	136.5 PL	CC FD1 Disp 	Ch. 1 - Dispatch 	FM 	Fire Dispatch 
+46.22000 	KF6133 	BM	CSQ	CC  FD 2tr/t 	Ch. 2 - Truck-to-Truck 	FM 	Fire-Talk 
+46.32000 	KD24810 	BM	CSQ	CC  FD 3 FP 	Ch. 3  - Fire Police 	FM 	Fire-Tac 
+46.34000 	KD24810 	BM	CSQ	CC  FD4 port 	Ch. 4 - fire portables 	FM 	Fire-Tac 
+46.14000 	WNYA405 	BM	CSQ	CC  FD 5 FG 	Ch. 5 - Fireground 	FM 	Fire-Tac 
+45.64000 	WNXZ587 	BM	CSQ	CC FD 6 EMO 	Ch. 6 - Emergency Management 	FM 	Fire-Tac 
+46.28000 	 	RM	CSQ	CC FD 8 	Ch. 8 	FM 	Fire-Talk 
+155.28000 	KAO290 	BM		Chemung EMS 	EMS 	FMN 	EMS-Talk 
+151.19750 	WQEZ284 	RM		Pub Safety 	Public Safety 	FMN 	Multi-Talk 
+45.24000 	WQDI393 	BM		NYS EMO 	Emergency Mgmt. 	FM 	Emergency Ops 
+154.76250 	WQEZ284 	RM		Pub Safety 	Public Safety 	FMN 	Multi-Talk 
+45.44000 	WQDI393 	BM		NYS EMO 	Emergency Mgmt. 	FM 	Emergency Ops 
+154.84500 	WQEZ284 	RM		Pub Safety 	Public Safety 	FMN 	Multi-Talk 
+45.60000 	WNXZ587 	BM		EMO 	Emergency Management 	FM 	Emergency Ops 
+154.05500 	KFV826 	BM		County Serv 	County Services 	FMN 	Emergency Ops 
+453.57500 	KD42490 	RM		County Serv 	County Services 	FMN 	Emergency Ops 
+453.81250 	WQGN772 	RM		Big Flats 	Fire 	FMN 	Fire-Talk 
+460.40000 	WQGN772 	RM		Big Flats 	Fire  	FMN 	Fire-Tac 
+453.50000 	WQAX849 	RM		Town P/S 	Public Safety 	FMN 	Multi-Talk 
+453.60000 	WQAX850 	RM		Town P/S 	Public Safety 	FMN 	Multi-Talk 
+155.49000 	KJL354 	RM	120 NAC	Elmira PD 1 	Police Ch.  1 	P25 	Law Dispatch 
+155.42250 	 	RM		Elmira PD 2 	Police Ch.  2 	P25 	Law Tac 
+155.36500 	 	RM		Elmira PD 7 	Elmira PD Ch.  7 	P25 	Law Tac 
+453.85000 	WNQD926 	RM	123.0 PL	Elmira FD 1 	Fire Ch. 1 - Dispatch 	FMN 	Fire Dispatch 
+458.85000 	WNQD926 	M	136.5 PL	Elmira FD 2 	Fire Ch. 2 - Fireground  	FMN 	Fire-Tac 
+453.07500 	WNQD926 	RM	136.5 PL	Elmira FD 3 	Fire Ch. 3 - Fireground  	FMN 	Fire-Tac 
+453.12500 	WNQD926 	RM	136.5 PL	Elmira FD 10 	Fire Ch. 10 - Code Enforcement 	FMN 	Fire-Tac 
+155.76000 	KQU211 	BM		Elmira Srv 	Services 	FMN 	Public Works 
+155.82000 	KEI427 	B		Elmira Srv 	Services 	FMN 	Public Works 
+155.88000 	KEI427 	B		Elmira Srv 	Services 	FMN 	Public Works 
+155.92500 	KBV724 	B		Elmira Srv 	Services 	FMN 	Public Works 
+453.16250 	WNVD555 	M		ElmiraWater 	Water Board 	FMN 	Utilities 
+453.73750 	WNVD555 	M		ElmiraWater 	Water Board 	FMN 	Utilities 
+154.13750 	WQEZ284 	RM	150 NAC	ElmiraHts/HH PD 	Elmira Heights/Horseheads Police 	P25 	Law Dispatch 
+33.10000 	WZX898 	BM		Erin DPW 	DPW 	FM 	Public Works 
+158.94000 	KBX489 	RM		H-headsPD/PW 	DPW/Police 	FMN 	Multi-Talk 
+453.32500 	WPUC896 	RM		H-heads FD 	Fire - 	FMN 	Fire Dispatch 
+453.02500 	WPUC896 	RM		H-heads TAC 	Fire - Tactical 	FMN 	Fire-Talk 
+453.52500 	WPUC896 	M		H-heads FG 	Fire - Fireground 	FMN 	Fire-Tac 
+453.55000 	WPUC896 	M		H-heads FG 	Fire - Fireground 	FMN 	Fire-Tac 
+453.22500 	WPZP647 	RM	631 DPL	SthPrtFD Twr 	Fire (Tower) 	FMN 	Fire-Tac 
+458.22500 	WPZP647 	M	136.5 PL	SthPrtFD Rpt 	Fire (Mobile Repeater) 	FMN 	Fire-Tac 
+156.09000 	KJL358 	M		SthPrtPD C/C 	Police - Car-to-Car 	P25 	Law Talk 
+158.82000 	WPVJ569 	RM		Vet CityServ 	City Services 	FMN 	Public Works 
+47.46000 	KED607 	BM		Erway LO 	Dispatch 	FM 	EMS Dispatch 
+462.08750 	WNJS505 	RM		Erway EMS 1 	Erway Ambulance Ch. 1 Dispatch 	DMR 	EMS Dispatch 
+463.98750 	WNJS505 	RM		Erway EMS 3 	Erway Ambulance - Ch.  3 	DMR 	EMS-Tac 
+461.97500 	WNJS505 	RM		Erway Ch.3 	Erway Ambulance 	DMR 	EMS-Talk 
+463.60000 	WNJS505 	RM		Erway Ch.1 	Erway Ambulance 	DMR 	EMS-Talk 
+462.45000 	KFF265 	RM		TwnCntry FD 	Operations 	FMN 	Fire-Talk 
+453.28750 	KNBJ908 	RM	074 DPL	WMFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.80000 	KNBJ908 	M	074 DPL	WMFD Firegnd 	Fireground 	FMN 	Fire-Tac 
+Brico Technologies (Elmira)	 LTR Standard	 Elmira	Chemung County Governmental Services	 LTR Standard	 Chemung County	Mobiletech Communications	 LTR Net
+ Various	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	

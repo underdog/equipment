@@ -1,0 +1,38 @@
+154.19000 	WPZH279 	B	192.8 PL	COFD ALRT 	Fire-Locution VHF Dispatch Silmulcast of 800Mhz 	FMN 	Fire Dispatch 
+154.29500 	KBK537 	BM	192.8 PL	CO FD 2 	Fire 	FM 	Fire-Tac 
+154.28000 	WPZH279 	BM	CSQ	STATEFIRE 	State Fire 	FM 	Fire-Tac 
+155.28000 	KBK543 	B	192.8 PL	STATERSQ 	State Rescue 	FM 	EMS-Tac 
+769.00625 	 	M	293 NAC	DIRECT 1 	Direct 1 	P25 	Interop 
+769.01875 	 	M	293 NAC	DIRECT 2 	Direct 2 	P25 	Interop 
+769.03125 	 	M	293 NAC	DIRECT 3 	Direct 3 	P25 	Interop 
+769.04375 	 	M	293 NAC	DIRECT 4 	Direct 4 	P25 	Interop 
+770.96250 	 	RM	792 NAC	DVRS Wake 	Digital Vehicular Repeater System 	P25 	Interop 
+156.22500 	WPCV681 	BM	CSQ	EMS ALRT 	Raleigh/Wake County EMS Locution VHF Simulcast of 800Mhz 	FMN 	EMS Dispatch 
+154.37000 	KII313 	RM	192.8 PL	HQ MAIN DISP 	HQ Main Dispatch (Multicast of RFD ALERT TG 34000)  	FMN 	Fire Dispatch 
+151.11500 	WPCI922 	RM	192.8 PL	HQ S DISP 	HQ South Dispatch (Multicast of RFD ALERT TG 34000) 	FMN 	Fire Dispatch 
+159.00000 	WPQX812 	RM	192.8 PL	HQ W DISP 	HQ West Dispatch (Multicast of RFD ALERT TG 34000)  	FMN 	Fire Dispatch 
+460.32500 	 		91.5 PL	Raleigh Parking 	Parking Enforcement 	FMN 	Public Works 
+460.25000 	 	RM	91.5 PL	Raleigh Parks 1 	Parks 1 	FMN 	Public Works 
+453.87500 	 	RM	91.5 PL	Raleigh Sign/Sig 	Signs and Traffic Signals Shops 	FMN 	Public Works 
+460.62500 	 	RM	91.5 PL	Raleigh SW Recyc 	Solid Waste Services - Recycling Operations 	FMN 	Public Works 
+460.60000 	 	RM	91.5 PL	Raleigh SW Resid 	Solid Waste Services - Residential 	FMN 	Public Works 
+460.22500 	 	RM	205 DPL	Raleigh Streets 	Streets Department 	FMN 	Public Works 
+451.02500 	 	RM	91.5 PL	Raleigh Util 1 	Utilities 1 	FMN 	Utilities 
+460.02500 	 		91.5 PL	Raleigh Yard Wst 	Yard Waste Center 	FMN 	Public Works 
+151.43000 	WPMJ915 	RM		APEXVHF 	Apex Vol Fire Dept Backup VHF Dispatch 	FM 	Fire Dispatch 
+868.01250 	WPYR985 	RM	156.7 PL	CARYVEHICLE 	Fire Vehicle Repeater 	FM 	Fire-Tac 
+856.06250 	WPEN309 	BM	192.8 PL	CaryFDBACKUP 	Fire (backup to TRS) 	FM 	Fire-Tac 
+854.56250 	WPEN309 	RM	192.8 PL	CARYPDBACKUP 	Police (backup to TRS) 	FM 	Law Tac 
+453.32500 	KYB728 	RM	CC 2TG 101SL 1	Garner Svcs 1 	Services 	DMR 	Public Works 
+453.32500 	KYB728 	RM	CC 2TG 101SL 2	Garner Svcs 2 	Services 	DMR 	Public Works 
+151.16000 	WPFK530 	B		HSFDEMS 	Fire/EMS VHF Dispatch 	FM 	Multi-Dispatch 
+453.10000 	WPFK530 	B		HSPWorks 	Public Works 	FM 	Public Works 
+466.91250 	 			HollyRdgSchl 	Holly Ridge Elementary School 	FM 	Schools 
+451.26250 	WQUV816 	BM	CC 3TG *SL *	LENOVO MOR 	Lenovo Morrisville Plant 	DMR 	Business 
+461.07500 	WPPF887 	RM	CC 1TG 10001SL 1	NCSU CE 1 	Campus Enterprises 	DMR 	Schools 
+461.07500 	WPPF887 	RM	CC 1TG 10002SL 2	NCSU CE 2 	Campus Enterprises 	DMR 	Schools 
+Cary	 Project 25 Phase I	 Cary	Central Prison	 NXDN NEXEDGE 9600	 Raleigh	Direct Call-Wake County	 LTR Standard
+ Raleigh	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	GlaxoSmithKline	 EDACS Standard	 Durham	Kane Realty Corporation
+ LTR Standard	 Raleigh	North Carolina Correctional Institution for Women	 NXDN NEXEDGE 9600	 Raleigh	North Carolina VIPER	 Project 25 Phase I	 Varies
+Progress Energy	 Motorola Type II SmartZone Omnilink	 Various	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	Raleigh Durham International Airport	 Project 25 Phase I
+ Raleigh/Durham	RF Integrity 	 LTR Standard	 Raleigh	Wake County	 Motorola Type II SmartZone	 Various	
