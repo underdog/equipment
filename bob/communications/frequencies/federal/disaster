@@ -1,0 +1,60 @@
+Federal Emergency Management Agency (FEMA)
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+406.26250 	 	RM	421 NAC	FEMA 1/2	Ch. 1/2 	P25 	Federal 
+407.06250 	 	RM		FEMA 3/4	Ch. 3/4 	P25 	Federal 
+407.66250 	 	RM	421 NAC	FEMA 5/6	Ch. 5/6 	P25e 	Federal 
+409.06250 	 	RM	421 NAC	FEMA 7/8	Ch. 7/8 	P25E 	Federal 
+410.46250 	 	RM	421 NAC	FEMA 9/10	Ch. 9/10 	P25E 	Federal 
+407.45000 	 	RM		FEMA 11/12	Ch. 11/12 	P25 	Federal 
+
+Mobile Emergency Response Support (MERS)
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+412.82500 	 	M		MERS 1	Ch. 1 	P25E 	Federal 
+412.85000 	 	M		MERS 2	Ch. 2 	P25E 	Federal 
+412.83750 	 	M		MERS 3	Ch. 3 	P25E 	Federal 
+412.86250 	 	M		MERS 4	Ch. 4 	P25E 	Federal 
+412.87500 	 	M		MERS 5	Ch. 5 	P25E 	Federal 
+412.90000 	 	M		MERS 6	Ch. 6 	P25E 	Federal 
+412.88750 	 	M		MERS 7	Ch. 7 	P25E 	Federal 
+412.91250 	 	M		MERS 8	Ch. 8 	P25E 	Federal 
+410.86250 	 	RM		MERS 9/10	Ch. 9/10 	P25E 	Federal 
+407.45000 	 	RM		MERS 11/12	Ch. 11/12 	P25E 	Federal 
+408.06250 	 	RM		MERS 13/14	Ch. 13/14 	P25E 	Federal 
+409.46250 	 	M		MERS 15	Ch. 15 	P25E 	Federal 
+
+National Disaster Medical System
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+406.86250 	 	RM	421 NAC	NDMS 1/2 Dig	Ch. 1/2 Digital 	P25E 	Federal 
+407.26250 	 	RM		NDMS 3/4 Dig	Ch. 3/4 Digital 	P25 	Federal 
+407.46250 	 	RM		NDMS 5/6 Dig	Ch. 5/6 Digital 	P25 	Federal 
+409.07500 	 	RM		NDMS 7/8 Dig	Ch. 7/8 Digital 	P25 	Federal 
+412.83750 	 	M		NDMS 9 Dig	Ch. 9 Digital 	P25 	Federal 
+412.86250 	 	M		NDMS 10 Dig	Ch. 10 Digital 	P25 	Federal 
+412.87500 	 	M		NDMS 11 Dig	Ch. 11 Digital 	P25 	Federal 
+412.90000 	 	M		NDMS 12 Dig	Ch. 12 Digital 	P25 	Federal 
+412.88750 	 	M		NDMS 13 Dig	Ch. 13 Digital 	P25 	Federal 
+409.46250 	 	M		NDMS 14 Dig	Ch. 14 Digital 	P25 	Federal 
+409.00000 	 	RM	447 NAC	DMAT	Disaster Medical Assistance Team (DMAT) 	P25E 	Federal 
+
+Urban Search and Rescue (USAR)
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+408.86250 	 	RM	421 NAC	USAR 1/2 Dig	Ch. 1/2 Digital 	P25E 	Federal 
+409.26250 	 	RM		USAR 3/4 Dig	Ch. 3/4 Digital 	P25 	Federal 
+409.66250 	 	RM		USAR 5/6 Dig	Ch. 5/6 Digital 	P25 	Federal 
+409.86250 	 	RM	421 NAC	USAR 7/8 Dig	Ch. 7/8 Digital 	P25E 	Federal 
+410.26250 	 	RM		USAR 9/10 D	Ch. 9/10 Digital 	P25 	Federal 
+410.66250 	 	RM		USAR 11/12 D	Ch. 11/12 Digital 	P25 	Federal 
+412.82500 	 	M		USAR 13 Dig	Ch. 13 Digital 	P25 	Federal 
+412.85000 	 	M		USAR 14 Dig	Ch. 14 Digital 	P25 	Federal 
+408.86250 	 	RM	141.3 PL	USAR 1/2 Ana	Ch. 1/2 Analog 	FMN 	Federal 
+409.26250 	 	RM	141.3 PL	USAR 3/4 Ana	Ch. 3/4 Analog 	FMN 	Federal 
+409.66250 	 	RM	141.3 PL	USAR 5/6 Ana	Ch. 5/6 Analog 	FMN 	Federal 
+409.86250 	 	RM	141.3 PL	USAR 7/8 Ana	Ch. 7/8 Analog 	FMN 	Federal 
+410.26250 	 	RM	141.3 PL	USAR 9/10 A	Ch. 9/10 Analog 	FMN 	Federal 
+410.66250 	 	RM	141.3 PL	USAR 11/12 A	Ch. 11/12 Analog 	FMN 	Federal 
+412.82500 	 	M	141.3 PL	USAR 13 Ana	Ch. 13 Analog 	FMN 	Federal 
+412.85000 	 	M	141.3 PL	USAR 14 Ana	Ch. 14 Analog 	FMN 	Federal 
