@@ -1,0 +1,32 @@
+Civil Air Patrol
+Nationwide
+
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+149.27500 	 	BM	141.3 PL	CAP Air 1 A	Air 1 Analog 	FMN 	Military 
+149.27500 	 	BM	585 NAC	CAP Air 1 D	Air 1 Digital 	P25 	Military 
+150.56250 	 	BM	151.4 PL	CAP Air 2 A	Air 2 Analog 	FMN 	Military 
+150.56250 	 	BM	5EA NAC	CAP Air 2 D	Air 2 Digital 	P25 	Military 
+148.12500 	 	RM		CAP Pri Rpt A	Ch. R01-R61 (Odd) Primary Repeater Analog 	FMN 	Military 
+148.12500 	 	RM		CAP Pri Rpt D	Ch. R01-R61 (Odd) Primary Repeater Digital 	P25 	Military 
+148.15000 	 	RM		CAP Sec Rpt A	Ch. R02-R62 (Even) Secondary Repeater Analog 	FMN 	Military 
+148.15000 	 	RM		CAP Sec Rpt D	Ch. R02-R62 (Even) Secondary Repeater Digital 	P25 	Military 
+148.12500 	 	RM	203.5 PL	CAP R63 A	Ch. R63 Airborne/Portable Tactical Repeater Analog 	FMN 	Military 
+148.12500 	 	RM	7F3 NAC	CAP R63 D	Ch. R63 Airborne/Portable Tactical Repeater Digital 	P25 	Military 
+148.15000 	 	RM	203.5 PL	CAP R64 A	Ch. R64 Airborne/Portable Tactical Repeater Analog 	FMN 	Military 
+148.15000 	 	RM	7F3 NAC	CAP R64 D	Ch. R64 Airborne/Portable Tactical Repeater Digital 	P25 	Military 
+148.13750 	 	RM	203.5 PL	CAP R67 A	Ch. R67 Portable and Aero Repeater Analog 	FMN 	Military 
+148.13750 	 	RM	7F3 NAC	CAP R67 D	Ch. R67 Portable and Aero Repeater Digital 	P25 	Military 
+148.13750 	 	RM	192.8 PL	CAP R68 A	Ch. R68 Portable and Aero Repeater Analog 	FMN 	Military 
+148.13750 	 	RM	788 NAC	CAP R68 D	Ch. R68 Portable and Aero Repeater Digital 	P25 	Military 
+148.13750 	 	RM	131.8 PL	CAP R69 A	Ch. R69 Portable and Aero Repeater Analog 	FMN 	Military 
+148.13750 	 	RM	526 NAC	CAP R69 D	Ch. R69 Portable and Aero Repeater Digital 	P25 	Military 
+148.13750 	 	RM	162.2 PL	CAP R70 A	Ch. R70 Portable and Aero Repeater Analog 	FMN 	Military 
+148.13750 	 	RM	656 NAC	CAP R70 D	Ch. R70 Portable and Aero Repeater Digital 	P25 	Military 
+141.57500 	 	BM	127.3 PL	CAP CC 1 A	Command and Control 1 Analog 	FMN 	Military 
+141.57500 	 	BM	4F9 NAC	CAP CC 1 D	Command and Control 1 Digital 	P25 	Military 
+141.00000 	 	BM	131.8 PL	CAP CC 2 A	Command and Control 2 Analog 	FMN 	Military 
+141.00000 	 	BM	526 NAC	CAP CC 2 D	Command and Control 2 Digital 	P25 	Military 
+150.22500 	 	BM	162.2 PL	CAP Guard 1 A	Guard 1 Analog 	FMN 	Military 
+150.22500 	 	BM	656 NAC	CAP Guard 1 D	Guard 1 Digital 	P25 	Military 
+139.87500 	 	BM	173.8 PL	CAP Tac 1 A	Tac 1 Analog 	FMN 	Military 
+139.87500 	 	BM	6CA NAC	CAP Tac 1 D	Tac 1 Digital 	P25 	Military 
