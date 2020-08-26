@@ -4,6 +4,7 @@ These links are for the latest topo maps from the USGS
 Not all of the US is in this list
 The files are very large pdfs, up to 60+Mb per file
 They are sorted by state
+These maps are 1:24,000 scale
 
 To generate this list
 - source website https://viewer.nationalmap.gov/basic
