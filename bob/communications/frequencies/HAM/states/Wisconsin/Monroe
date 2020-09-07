@@ -1,28 +1,27 @@
-155.62500 	KSB470 	RM	156.7 PL	MOSHF 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.08500 	KTN376 	RM	88.5 PL	MOCORD 	Coordination 	FMN 	Multi-Talk 
-155.92500 	KTN376 	RM	94.8 PL	MOEMS 	EMS 	FMN 	EMS Dispatch 
-155.95500 	KTN376 	M	77.0 PL	MOTAC1 	Tactical 1 (Bailiffs) 	FMN 	Law Tac 
-156.06000 	KP7430 	M	156.7 PL	MOTAC2 	Tactical 2 	FMN 	Law Tac 
-154.04000 	KTN376 	M	156.7 PL	MOTAC3 	Tactical 3 	FMN 	Law Tac 
-154.40000 	KNHA782 	RM	79.7 PL	MOFIRE 	County Fire 	FMN 	Fire Dispatch 
-154.23500 	KNHA782 	RM	156.7 PL	MOPAGE 	Fire/EMS Paging 	FMN 	Fire Dispatch 
-155.71500 	KTN376 	BM	71.9 PL	MOEVENT 	County Events/Sheriff's Reserve 	FMN 	Multi-Tac 
-460.02500 	KSB470 	RM	23 RAN	MOJAIL 	County Jail 	NXDN 	Corrections 
-154.11500 	WPTZ993 	RM	225.7 PL	MOHWY 	County Highway 	FMN 	Public Works 
-154.04000 	KTN376 	BM	167.9 PL	MOLG 	County Landfill / McMullen Park 	FMN 	Public Works 
-155.34000 	KYQ436 	BM	156.7 PL	EMS B TMH 	EMS B Tomah Memorial Hospital 	FMN 	Hospital 
-155.34000 	KVT858 	BM	156.7 PL	EMS B Mayo 	EMS B Mayo Hospital, Sparta 	FMN 	Hospital 
-155.40000 	KVT858 	BM	156.7 PL	EMS A Mayo 	EMS A Mayo Hospital, Sparta 	FMN 	Hospital 
-155.20500 	KNEH534 	BM		Cashton Sch 	Cashton School District 	FMN 	Schools 
-155.95500 	KNGS378 	BM		Cashton DPW 	DPW 	FMN 	Public Works 
-155.79000 	KNGJ544 	BM	85.4 PL	Sparta PD 1 	Police 1 	FMN 	Law Dispatch 
-158.77500 	KNEG777 	RM	79.7 PL	Sparta PD 2 	Police 2 	FMN 	Law Talk 
-154.37000 	WPLX388 	RM	156.7 PL	Sparta FD 	Fire 	FMN 	Fire-Talk 
-158.77500 	KNEG777 	RM	94.8 PL	Sparta DPW 	Public Works 	FMN 	Public Works 
-155.20500 	WPVX657 	BM	156.7 PL	Sparta Sch 	Sparta School District 	FMN 	Schools 
-155.07000 	KSC641 	RM	156.7 PL	Tomah PD 	Police 	FMN 	Law Dispatch 
-155.95500 	KNGS377 	BM	162.2 PL	Tomah DPW 	Public Works 	FMN 	Public Works 
-155.20500 	KNEE658 	BM	167.9 PL	Tomah Bus 	Buses 	FMN 	Schools 
-Alliant Energy	 DMR Tier 3	 Various	Croell Redi-Mix	 NXDN Conventional Networked	 Various	Dairyland Power Cooperative	 DMR Tier 3
- Various	Fort McCoy	 Project 25 Phase I	 Fort McCoy	Smart Sand	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Tomah	Unimin Corp
- DMR Motorola Capacity Plus Single Site (TRBO)	 Tomah	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+155.62500 	158.91000  	KSB470 	RM	156.7 PL	MOSHF 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.08500 	153.78500  	KTN376 	RM	88.5 PL	MOCORD 	Coordination 	FMN 	Multi-Talk 
+155.92500 	153.90500  	KTN376 	RM	94.8 PL	MOEMS 	EMS 	FMN 	EMS Dispatch 
+155.95500 	   	KTN376 	M	77.0 PL	MOTAC1 	Tactical 1 (Bailiffs) 	FMN 	Law Tac 
+156.06000 	   	KP7430 	M	156.7 PL	MOTAC2 	Tactical 2 	FMN 	Law Tac 
+154.04000 	   	KTN376 	M	156.7 PL	MOTAC3 	Tactical 3 	FMN 	Law Tac 
+154.40000 	158.98500  	KNHA782 	RM	79.7 PL	MOFIRE 	County Fire 	FMN 	Fire Dispatch 
+154.23500 	159.24000  	KNHA782 	RM	156.7 PL	MOPAGE 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+155.71500 	   	KTN376 	BM	71.9 PL	MOEVENT 	County Events/Sheriff's Reserve 	FMN 	Multi-Tac 
+460.02500 	465.02500  	KSB470 	RM	23 RAN	MOJAIL 	County Jail 	NXDN 	Corrections 
+154.11500 	159.09000  	WPTZ993 	RM	225.7 PL	MOHWY 	County Highway 	FMN 	Public Works 
+154.04000 	   	KTN376 	BM	167.9 PL	MOLG 	County Landfill / McMullen Park 	FMN 	Public Works 
+155.34000 	   	KYQ436 	BM	156.7 PL	EMS B TMH 	EMS B Tomah Memorial Hospital 	FMN 	Hospital 
+155.34000 	   	KVT858 	BM	156.7 PL	EMS B Mayo 	EMS B Mayo Hospital, Sparta 	FMN 	Hospital 
+155.40000 	   	KVT858 	BM	156.7 PL	EMS A Mayo 	EMS A Mayo Hospital, Sparta 	FMN 	Hospital 
+155.20500 	   	KNEH534 	BM		Cashton Sch 	Cashton School District 	FMN 	Schools 
+155.95500 	   	KNGS378 	BM		Cashton DPW 	DPW 	FMN 	Public Works 
+155.79000 	153.93500  	KNGJ544 	BM	85.4 PL	Sparta PD 1 	Police 1 	FMN 	Law Dispatch 
+158.77500 	153.87500  	KNEG777 	RM	79.7 PL	Sparta PD 2 	Police 2 	FMN 	Law Talk 
+154.37000 	159.21000  	WPLX388 	RM	156.7 PL	Sparta FD 	Fire 	FMN 	Fire-Talk 
+158.77500 	153.87500  	KNEG777 	RM	94.8 PL	Sparta DPW 	Public Works 	FMN 	Public Works 
+155.20500 	   	WPVX657 	BM	156.7 PL	Sparta Sch 	Sparta School District 	FMN 	Schools 
+155.07000 	158.94000  	KSC641 	RM	156.7 PL	Tomah PD 	Police 	FMN 	Law Dispatch 
+155.95500 	   	KNGS377 	BM	162.2 PL	Tomah DPW 	Public Works 	FMN 	Public Works 
+155.20500 	   	KNEE658 	BM	167.9 PL	Tomah Bus 	Buses 	FMN 	Schools 
+Alliant Energy	 DMR Tier 3	 Various	Croell Redi-Mix	 NXDN Conventional Networked	 Various	Dairyland Power Cooperative	 DMR Tier 3	 Various
+Fort McCoy	 Project 25 Phase I	 Fort McCoy	Smart Sand	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Tomah	Unimin Corp	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tomah

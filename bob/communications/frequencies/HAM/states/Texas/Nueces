@@ -1,87 +1,87 @@
-154.23500 	KBN495 	RM	162.2 PL	NCESD 1 Disp 	ESD #1 (Annaville FD) Dispatch 	FMN 	Fire Dispatch 
-153.74000 	KNHZ251 	RM	167.9 PL	NCESD 2 Disp 	ESD #2 (Flour Bluff) Fire Dispatch 	FMN 	Fire Dispatch 
-154.31000 	WPYC282 	RM	100 NAC	NCESD 3 Disp 	ESD #3 (Bishop & Driscoll) Fire Dispatch 	P25 	Fire Dispatch 
-154.43000 	WPYC282 	RM	167.9 PL	NCESD 3 Analog 	ESD #3 (Bishop & Driscoll) Repeater 	FMN 	Fire Dispatch 
-153.77000 	WPFQ860 	RM	123.0 PL	NCESD 4 Disp 	ESD #4 (Bluntzer) Dispatch 	FMN 	Fire Dispatch 
-154.31000 	KAV714 	F	CSQ	CBRAC VHF 	CoastalBend Regional Advisory Council 	FMN 	Public Works 
-855.23750 	WPUW581 	BM	CSQ	CBRAC TAC800 	CoastalBend Regional Advisory Council 	FMN 	Public Works 
-453.53750 	WQBH217 	RM		McKinzieJail 	McKinzie Jail Annex 	FMN 	Corrections 
-158.91000 	WPML787 	RM	320 NAC	Bishop PD Disp 	Police Dispatch (Digital) 	P25 	Law Dispatch 
-158.91000 	WPML787 	RM	116 DPL	Bishop PD Analog 	Police Dispatch (Analog) - Used by NC Constable Pct. 3 	FMN 	Law Dispatch 
-154.43000 	 	BM		Bishop Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.10000 	WYR684 	M	CSQ	Bishop PW 	Public Works 	FMN 	Public Works 
-33.34000 	 	BM	CSQ	CCFD Low Band 	Fire Dispatch - Vintage Low Band Still in Use 	FM 	Fire Dispatch 
-154.19000 	KTX775 	BM		CCFD Alert 	Fire Station Alerting 	FMN 	Fire Dispatch 
-154.38500 	KVJ869 	RM		CCFD Telem 	Fire Station Telemetry 	Telm 	Data 
-154.81500 	WPKI364 	BM	CSQ	CCPD VHF Tac 	Police Ch. 154.8 Backup Alternate MACOM-VHF 	FMN 	Law Tac 
-460.10000 	WPKI364 	RM	CSQ	CCPD Tac 1 	Police Ch. A1 Talk-around M/A-CONV Multi-Mode 	FM 	Law Tac 
-460.40000 	WPKI364 	RM	CSQ	CCPD UHF-2 	Police Ch. B2 Law Enforcement Common 	FM 	Law Tac 
-460.50000 	WPKI364 	RM	CSQ	CCPD Car-Car 	Police Ch. C3 Car-To-Car Unit-To-Unit TAC-3 	FM 	Law Tac 
-461.20000 	WPWQ691 	RM	CC 1TG 10SL 1	Delmar Sec 	Security Dispatch 	DMR 	Security 
-153.88250 	WPTS591 	M		Delmar PA 1 	Policy Academy 1 	FMN 	Schools 
-156.21750 	WPTS591 	M		Delmar PA 2 	Policy Academy 2 	FMN 	Schools 
-155.95000 	WPAV398 	RM		Driscoll PD1 	Police 1 	FMN 	Law Dispatch 
-154.86000 	WQBS720 	RM	167.9 PL	Port A PD VHF 	Police Dispatch (VHF) 	FMN 	Law Dispatch 
-154.44500 	WQBS720 	RM	136.5 PL	Port A Fire/EMS 	Fire/EMS Dispatch (with 13-086 EDACS) 	FMN 	Fire Dispatch 
-453.15000 	KNBX241 	RM		Port of CC Sec 1 	Port Security 1 	FMN 	Security 
-453.25000 	KNBX241 	RM		Port of CC Sec 2 	Port Security 2 	FMN 	Security 
-453.35000 	KNBX241 	RM		Port of CC Sec 	Port Security repeater 	FMN 	Security 
-157.15000 	 	BM	CSQ	USCG 23A 	Sector Corpus Christi (Marine Ch. 23A) 	FM 	Federal 
-157.17500 	 	BM	CSQ	USCG 83A 	Sector Corpus Christi (Marine Ch. 83A) - Working 	FM 	Federal 
-163.13750 	 	BM	293 NAC	USCG Corpus 	Sector Corpus Christi 	P25 	Federal 
-381.80000 	 	BM		USCG 381.8 	Rescue Aircraft 	AM 	Federal 
-49.70000 	 	BM		CCAD USA 	CCAD USA 	FM 	Military 
-139.20000 	 	BM	CSQ	CCAD Helo 	CCAD Helo 	AM 	Military 
-386.60000 	 	BM		CCAD Helo 	CCAD Helo 	AM 	Military 
-136.37500 	 	BM	CSQ	CBP Air Corpus 	Air Corpus Christi 	AM 	Federal 
-172.23750 	 	RM	A90 NAC	CBP Corpus Disp 	Corpus Christi Field Office Dispatch 	P25 	Federal 
-172.71250 	 	RM	A90 NAC	CBP Corpus 2 	Corpus Christi Customs Ch. 2 	P25 	Federal 
-282.42500 	 	BM		CBP 282.425 	Customs 	AM 	Federal 
-167.58750 	 	RM	167 NAC	FBI Corpus 	Houston Field Office Corpus Christi Surveillance (encryption used) 	P25 	Federal 
-410.80000 	 	RM	201 NAC	USFPS Reg7 Dis 	Federal Protective Service Region 7 Dispatch 	P25 	Federal 
-169.62500 	 	RM	4FE NAC	PINS 169 4FE 	Padre Island National Seashore 	P25 	Federal 
-171.16250 	 	RM	4FE NAC	PINS 171 	Padre Island National Seashore 	P25 	Federal 
-172.46250 	 	RM	4FE NAC	PINS 172 	Padre Island National Seashore 	P25 	Federal 
-169.62500 	 	RM	123.0 PL	PINS RangerA 	Padre Island National Seashore - Rangers (Analog) 	FMN 	Federal 
-169.62500 	 	RM	200 NAC	PINS RangerD 	Padre Island National Seashore - Rangers (Digital) 	P25 	Federal 
-164.80000 	 	RM	4FE NAC	PINS Turtle 	Padre Island National Seashore - Turtle Patrol 	P25 	Federal 
-410.07500 	 	F		NWS ASOS Data  	Automated Surface Observing System Telemetry 	Telm 	Federal 
-410.13750 	 	F	754 DPL	NWS POC Link 	Link from Victoria to Port O'Connor Transmitter 	FMN 	Federal 
-154.54000 	KD28112 	F		CalallenISD 	Repeater 	FMN 	Public Works 
-464.47500 	WQBA281 	RM		CalallenISD 	Administration 	FMN 	Public Works 
-460.95000 	WNUH485 	RM	94.8 PL	CCISD Buses 	Buses 	FMN 	Schools 
-464.07500 	WPVA857 	RM	172 DPL	CCISD Spec Needs 	Buses Ch. 1 Special Education 	FMN 	Schools 
-464.32500 	WPVA857 	RM	072 DPL	CCISD Reg Needs 	Buses Ch. 2 Regular Education 	FMN 	Schools 
-463.83750 	WQGI773 	RM	173.8 PL	CCISD Emergency 	Emergency - Schools to Police 	FM 	Schools 
-464.58750 	WQGI773 	RM	CSQ	CCISD Cent Admin 	Central Admin 	FMN 	Schools 
-463.75000 	WQBX938 	BM		CCISD SPMS 	South Park Middle School 	FM 	Schools 
-464.20000 	WQBX938 	BM		CCISD Carroll HS 	Carroll High School 	NXDN 	Schools 
-464.20000 	WQBX938 	BM	032 DPL	CCISD Moody HS 	Moody High School 	FM 	Schools 
-464.20000 	WQBX938 	BM	036 DPL	CCISD MillerHS 	Miller High School 	FM 	Schools 
-464.20000 	WQBX938 	BM	043 DPL	CCISD Ray HS 	Ray High School 	FM 	Schools 
-464.20000 	WQBX938 	BM	054 DPL	CCISD King HS 	King High School 	FM 	Schools 
-464.77500 	WQXJ576 	RM	143 DPL	CCISD VeteransHS 	Veterans High School 	FMN 	Schools 
-464.05000 	WNXF580 	RM	CSQ	FBISD 	Administration 	FMN 	Schools 
-461.82500 	WNXF580 	RM	CSQ	FBISD 	Education Administration 	FMN 	Schools 
-451.40000 	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
-452.07500 	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
-452.30000 	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
-461.95000 	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
-463.60000 	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
-463.72500 	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
-464.42500 	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
-464.67500 	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
-463.27500 	WNXF580 	RM	CSQ	FBISD 	Transportation 	FMN 	Schools 
-461.95000 	KNCL825 	RM	CSQ	RobstownISD 	Robstown ISD Administration 	FMN 	Schools 
-462.56250 	 	RM	67.0 PL	Robstown HS 	Robstown High School 	FMN 	Schools 
-463.46250 	WQBP888 	M		TMISD HS 	High School 	FMN 	Schools 
-463.62500 	WQBP888 	RM		TMISD Staff 	Administrators 	FMN 	Schools 
-463.87500 	WQBP888 	RM		TMISD Custd 	Custodians 	FMN 	Schools 
-464.02500 	WQBP888 	M		TMISD Buses 	School Buses 	FMN 	Schools 
-463.95000 	WPZU507 	RM		WtOso ISD Ad 	West Oso ISD ADMIN 	FMN 	Schools 
-American Electric Power / Central Power and Light	 EDACS Standard	 Various	BearCom (South Texas NexEdge)	 NXDN NEXEDGE 4800	 Various	Centronix (LTR Net)	 LTR Net
- Corpus Christi	Centronix (Motorola)	 Motorola Type II Smartnet	 Corpus Christi	CHRISTUS Spohn Health System	 DMR Conventional Networked	 Various	Citgo Refining and Chemicals Company
- DMR Tier 3	 Corpus Christi	Coastal Bend Regional Interoperability Network 	 Project 25 Phase I	 Varies	Corpus Christi Independent School District	 LTR Standard	 Corpus Christi
-Driscoll Childrens Hospital	 DMR Motorola Connect Plus (TRBO)	 Corpus Christi	Four County Coastal Bend Interoperational System	 EDACS Networked Standard	 Corpus Christi	Hoechst Celanese Bishop Plant	 DMR Motorola Capacity Plus Single Site (TRBO)
- Bishop	Industrial Communications (Corpus Christi)	 LTR Standard	 Corpus Christi	Nueces County Jail	 EDACS Standard	 Corpus Christi	Texas A and M University Corpus Christi
- LTR Standard	 Corpus Christi	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	Valero Refining (Corpus Christi)	 LTR Net	 Corpus Christi
+154.23500 	   	KBN495 	RM	162.2 PL	NCESD 1 Disp 	ESD #1 (Annaville FD) Dispatch 	FMN 	Fire Dispatch 
+153.74000 	155.88000  	KNHZ251 	RM	167.9 PL	NCESD 2 Disp 	ESD #2 (Flour Bluff) Fire Dispatch 	FMN 	Fire Dispatch 
+154.31000 	158.88750  	WPYC282 	RM	100 NAC	NCESD 3 Disp 	ESD #3 (Bishop & Driscoll) Fire Dispatch 	P25 	Fire Dispatch 
+154.43000 	153.95000  	WPYC282 	RM	167.9 PL	NCESD 3 Analog 	ESD #3 (Bishop & Driscoll) Repeater 	FMN 	Fire Dispatch 
+153.77000 	   	WPFQ860 	RM	123.0 PL	NCESD 4 Disp 	ESD #4 (Bluntzer) Dispatch 	FMN 	Fire Dispatch 
+154.31000 	   	KAV714 	F	CSQ	CBRAC VHF 	CoastalBend Regional Advisory Council 	FMN 	Public Works 
+855.23750 	   	WPUW581 	BM	CSQ	CBRAC TAC800 	CoastalBend Regional Advisory Council 	FMN 	Public Works 
+453.53750 	458.53750  	WQBH217 	RM		McKinzieJail 	McKinzie Jail Annex 	FMN 	Corrections 
+158.91000 	153.80000  	WPML787 	RM	320 NAC	Bishop PD Disp 	Police Dispatch (Digital) 	P25 	Law Dispatch 
+158.91000 	153.80000  	WPML787 	RM	116 DPL	Bishop PD Analog 	Police Dispatch (Analog) - Used by NC Constable Pct. 3 	FMN 	Law Dispatch 
+154.43000 	   	 	BM		Bishop Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.10000 	   	WYR684 	M	CSQ	Bishop PW 	Public Works 	FMN 	Public Works 
+33.34000 	   	 	BM	CSQ	CCFD Low Band 	Fire Dispatch - Vintage Low Band Still in Use 	FM 	Fire Dispatch 
+154.19000 	   	KTX775 	BM		CCFD Alert 	Fire Station Alerting 	FMN 	Fire Dispatch 
+154.38500 	   	KVJ869 	RM		CCFD Telem 	Fire Station Telemetry 	Telm 	Data 
+154.81500 	   	WPKI364 	BM	CSQ	CCPD VHF Tac 	Police Ch. 154.8 Backup Alternate MACOM-VHF 	FMN 	Law Tac 
+460.10000 	   	WPKI364 	RM	CSQ	CCPD Tac 1 	Police Ch. A1 Talk-around M/A-CONV Multi-Mode 	FM 	Law Tac 
+460.40000 	   	WPKI364 	RM	CSQ	CCPD UHF-2 	Police Ch. B2 Law Enforcement Common 	FM 	Law Tac 
+460.50000 	   	WPKI364 	RM	CSQ	CCPD Car-Car 	Police Ch. C3 Car-To-Car Unit-To-Unit TAC-3 	FM 	Law Tac 
+461.20000 	466.20000  	WPWQ691 	RM	CC 1TG 10SL 1	Delmar Sec 	Security Dispatch 	DMR 	Security 
+153.88250 	   	WPTS591 	M		Delmar PA 1 	Policy Academy 1 	FMN 	Schools 
+156.21750 	   	WPTS591 	M		Delmar PA 2 	Policy Academy 2 	FMN 	Schools 
+155.95000 	158.77500  	WPAV398 	RM		Driscoll PD1 	Police 1 	FMN 	Law Dispatch 
+154.86000 	158.91750  	WQBS720 	RM	167.9 PL	Port A PD VHF 	Police Dispatch (VHF) 	FMN 	Law Dispatch 
+154.44500 	155.29500  	WQBS720 	RM	136.5 PL	Port A Fire/EMS 	Fire/EMS Dispatch (with 13-086 EDACS) 	FMN 	Fire Dispatch 
+453.15000 	458.15000  	KNBX241 	RM		Port of CC Sec 1 	Port Security 1 	FMN 	Security 
+453.25000 	458.25000  	KNBX241 	RM		Port of CC Sec 2 	Port Security 2 	FMN 	Security 
+453.35000 	458.35000  	KNBX241 	RM		Port of CC Sec 	Port Security repeater 	FMN 	Security 
+157.15000 	   	 	BM	CSQ	USCG 23A 	Sector Corpus Christi (Marine Ch. 23A) 	FM 	Federal 
+157.17500 	   	 	BM	CSQ	USCG 83A 	Sector Corpus Christi (Marine Ch. 83A) - Working 	FM 	Federal 
+163.13750 	   	 	BM	293 NAC	USCG Corpus 	Sector Corpus Christi 	P25 	Federal 
+381.80000 	   	 	BM		USCG 381.8 	Rescue Aircraft 	AM 	Federal 
+49.70000 	   	 	BM		CCAD USA 	CCAD USA 	FM 	Military 
+139.20000 	   	 	BM	CSQ	CCAD Helo 	CCAD Helo 	AM 	Military 
+386.60000 	   	 	BM		CCAD Helo 	CCAD Helo 	AM 	Military 
+136.37500 	   	 	BM	CSQ	CBP Air Corpus 	Air Corpus Christi 	AM 	Federal 
+172.23750 	   	 	RM	A90 NAC	CBP Corpus Disp 	Corpus Christi Field Office Dispatch 	P25 	Federal 
+172.71250 	   	 	RM	A90 NAC	CBP Corpus 2 	Corpus Christi Customs Ch. 2 	P25 	Federal 
+282.42500 	   	 	BM		CBP 282.425 	Customs 	AM 	Federal 
+167.58750 	   	 	RM	167 NAC	FBI Corpus 	Houston Field Office Corpus Christi Surveillance (encryption used) 	P25 	Federal 
+410.80000 	   	 	RM	201 NAC	USFPS Reg7 Dis 	Federal Protective Service Region 7 Dispatch 	P25 	Federal 
+169.62500 	   	 	RM	4FE NAC	PINS 169 4FE 	Padre Island National Seashore 	P25 	Federal 
+171.16250 	   	 	RM	4FE NAC	PINS 171 	Padre Island National Seashore 	P25 	Federal 
+172.46250 	   	 	RM	4FE NAC	PINS 172 	Padre Island National Seashore 	P25 	Federal 
+169.62500 	   	 	RM	123.0 PL	PINS RangerA 	Padre Island National Seashore - Rangers (Analog) 	FMN 	Federal 
+169.62500 	   	 	RM	200 NAC	PINS RangerD 	Padre Island National Seashore - Rangers (Digital) 	P25 	Federal 
+164.80000 	   	 	RM	4FE NAC	PINS Turtle 	Padre Island National Seashore - Turtle Patrol 	P25 	Federal 
+410.07500 	   	 	F		NWS ASOS Data  	Automated Surface Observing System Telemetry 	Telm 	Federal 
+410.13750 	   	 	F	754 DPL	NWS POC Link 	Link from Victoria to Port O'Connor Transmitter 	FMN 	Federal 
+154.54000 	   	KD28112 	F		CalallenISD 	Repeater 	FMN 	Public Works 
+464.47500 	469.47500  	WQBA281 	RM		CalallenISD 	Administration 	FMN 	Public Works 
+460.95000 	465.95000  	WNUH485 	RM	94.8 PL	CCISD Buses 	Buses 	FMN 	Schools 
+464.07500 	469.07500  	WPVA857 	RM	172 DPL	CCISD Spec Needs 	Buses Ch. 1 Special Education 	FMN 	Schools 
+464.32500 	469.32500  	WPVA857 	RM	072 DPL	CCISD Reg Needs 	Buses Ch. 2 Regular Education 	FMN 	Schools 
+463.83750 	468.83750  	WQGI773 	RM	173.8 PL	CCISD Emergency 	Emergency - Schools to Police 	FM 	Schools 
+464.58750 	469.58750  	WQGI773 	RM	CSQ	CCISD Cent Admin 	Central Admin 	FMN 	Schools 
+463.75000 	   	WQBX938 	BM		CCISD SPMS 	South Park Middle School 	FM 	Schools 
+464.20000 	   	WQBX938 	BM		CCISD Carroll HS 	Carroll High School 	NXDN 	Schools 
+464.20000 	   	WQBX938 	BM	032 DPL	CCISD Moody HS 	Moody High School 	FM 	Schools 
+464.20000 	   	WQBX938 	BM	036 DPL	CCISD MillerHS 	Miller High School 	FM 	Schools 
+464.20000 	   	WQBX938 	BM	043 DPL	CCISD Ray HS 	Ray High School 	FM 	Schools 
+464.20000 	   	WQBX938 	BM	054 DPL	CCISD King HS 	King High School 	FM 	Schools 
+464.77500 	469.77500  	WQXJ576 	RM	143 DPL	CCISD VeteransHS 	Veterans High School 	FMN 	Schools 
+464.05000 	   	WNXF580 	RM	CSQ	FBISD 	Administration 	FMN 	Schools 
+461.82500 	   	WNXF580 	RM	CSQ	FBISD 	Education Administration 	FMN 	Schools 
+451.40000 	   	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
+452.07500 	   	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
+452.30000 	   	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
+461.95000 	   	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
+463.60000 	   	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
+463.72500 	   	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
+464.42500 	   	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
+464.67500 	   	WNXF580 	RM		FBISD 	Flour Bluff ISD 	FMN 	Schools 
+463.27500 	   	WNXF580 	RM	CSQ	FBISD 	Transportation 	FMN 	Schools 
+461.95000 	466.95000  	KNCL825 	RM	CSQ	RobstownISD 	Robstown ISD Administration 	FMN 	Schools 
+462.56250 	467.56250  	 	RM	67.0 PL	Robstown HS 	Robstown High School 	FMN 	Schools 
+463.46250 	   	WQBP888 	M		TMISD HS 	High School 	FMN 	Schools 
+463.62500 	468.62500  	WQBP888 	RM		TMISD Staff 	Administrators 	FMN 	Schools 
+463.87500 	468.87500  	WQBP888 	RM		TMISD Custd 	Custodians 	FMN 	Schools 
+464.02500 	   	WQBP888 	M		TMISD Buses 	School Buses 	FMN 	Schools 
+463.95000 	   	WPZU507 	RM		WtOso ISD Ad 	West Oso ISD ADMIN 	FMN 	Schools 
+American Electric Power / Central Power and Light	 EDACS Standard	 Various	BearCom (South Texas NexEdge)	 NXDN NEXEDGE 4800	 Various	BrandMeister Texas	 DMR Conventional Networked	 Various
+Centronix (LTR Net)	 LTR Net	 Corpus Christi	Centronix (Motorola)	 Motorola Type II Smartnet	 Corpus Christi	CHRISTUS Spohn Health System	 DMR Conventional Networked	 Various
+Citgo Refining and Chemicals Company	 DMR Tier 3	 Corpus Christi	Coastal Bend Regional Interoperability Network 	 Project 25 Phase I	 Varies	Corpus Christi Independent School District	 LTR Standard	 Corpus Christi
+Driscoll Childrens Hospital	 DMR Motorola Connect Plus (TRBO)	 Corpus Christi	Four County Coastal Bend Interoperational System	 EDACS Networked Standard	 Corpus Christi	Hoechst Celanese Bishop Plant	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bishop
+Industrial Communications (Corpus Christi)	 LTR Standard	 Corpus Christi	Nueces County Jail	 EDACS Standard	 Corpus Christi	Texas A and M University Corpus Christi	 LTR Standard	 Corpus Christi
+Valero Refining (Corpus Christi)	 LTR Net	 Corpus Christi	

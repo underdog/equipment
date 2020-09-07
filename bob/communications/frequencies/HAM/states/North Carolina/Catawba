@@ -1,54 +1,53 @@
-154.41500 	KEL478 	RM	131.8 PL	CAT-FD-DISP 	Fire Dispatch 	FM 	Fire Dispatch 
-154.29500 	KEL480 	BM	131.8 PL	CAT-FD-TAC 	Fire Tactical 	FM 	Fire-Tac 
-154.28000 	KEL481 	BM	131.8 PL	STATE FIRE 	Fire Statewide Mutual Aid 	FM 	Fire-Talk 
-769.03125 	 	M	114 DPL	CatawbaFD Direc1 	Fire Direct 1 	FMN 	Fire-Talk 
-769.00625 	 	M	114 DPL	CatawbaFD Direc2 	Fire Direct 2 	FMN 	Fire-Talk 
-770.96250 	 	RM	718 NAC	Catawba FD DVRS 	Fire DVRS 	P25 	Fire-Tac 
-159.96000 	KJY696 	RM	118.8 PL	CAT-EMS-DISP 	EMS Dispatch 	FM 	EMS Dispatch 
-155.16000 	KJY696 	BM	131.8 PL	CAT-EMS-TAC 	EMS Tactical 	FM 	EMS-Tac 
-155.22000 	KJY696 	BM	131.8 PL	CAT-RSQ-DISP 	Rescue Dispatch 	FM 	EMS Dispatch 
-155.23500 	KJY696 	M	131.8 PL	CAT-RSQ-TAC 	Rescue Tactical 	FM 	EMS-Talk 
-155.28000 	KJY696 	BM	131.8 PL	STATE-RSQ 	Rescue Statewide 	FM 	EMS Dispatch 
-155.34000 	KJY696 	BM	131.8 PL	EMS-HOSP 	EMS to Frye Medical Center 	FM 	Hospital 
-155.02500 	 	RM	131.8 PL	CATAWBA GOV 	Catawba Co Govt  	FM 	Public Works 
-154.87500 	KDL920 	BM	151.4 PL	CAT SO M/A 	Sheriff Mutual Aid 	FM 	Law Talk 
-155.41500 	KIB995 	BM	151.4 PL	CAT SO 3 	Sheriff  	FM 	Law Tac 
-155.55000 	KDL920 	RM	151.4 PL	CAT SO DISP 	Sheriff Dispatch 	FM 	Law Dispatch 
-154.02500 	KGJ623 	RM		CAT SCHOOLS 	Schools 	FM 	Schools 
-155.02500 	KVX831 	BM		CAT GARAGE 	Garage 	FM 	Public Works 
-162.97500 	 	B		CATVOICEPAGE 	Voice Pagers (magistrates, maintenance, etc.) 	FM 	Data 
-154.44500 	WPNT635 	BM	131.8 PL	BANDY-FD-TAC 	Bandys Fire Tactical 	FM 	Fire-Tac 
-154.22000 	WPSJ963 	M		MV-VFD-TAC 	Mountain View VFD Tactical 	FM 	Fire-Tac 
-154.32500 	WPKL288 	M	131.8 PL	PSOPST-FDTAC 	Propst Crossroads Fire Tactical 	FM 	Fire-Tac 
-769.03125 	 	BM	114 DPL	CAT DIR 1 	CATAWBA DIRECT 1 	FMN 	Multi-Tac 
-769.00625 	 	BM	114 DPL	CAT DIR 2 	CATAWBA DIRECT 2 	FMN 	Multi-Tac 
-769.04375 	 	BM	718 NAC	CAT DIR 3 	CATAWBA DIRECT 3 	P25 	Multi-Tac 
-770.96250 	 	BM	400 NAC	CAT DIR 4 	CATAWBA DIRECT 4 NCDVRS 1 	P25 	Multi-Tac 
-770.89375 	 	BM	293 NAC	CAT DIR 5 	CATAWBA DIRECT 5 FD DVRS 	P25 	Multi-Tac 
-769.03125 	 	BM	718 NAC	CAT DIR 6 	CATAWBA DIRECT 6 	P25 	Multi-Tac 
-769.00625 	 	BM	718 NAC	CAT DIR 7 	CATAWBA DIRECT 7 	P25 	Multi-Tac 
-453.32500 	KSJ246 	BM		CLRMNT SERV 	Services 	FM 	Public Works 
-153.95000 	KBY646 	BM	131.8 PL	CONVR-FD-TAC 	Fire Tactical 	FM 	Fire-Tac 
-155.59500 	WNQU629 	RM	131.8 PL	CONVR-PD-DSP 	Police Dispatch 	FM 	Law Dispatch 
-155.58000 	WPQF223 	RM	131.8 PL	CONVR-PD-C2C 	Police Car-to-Car 	FM 	Law Talk 
-155.98500 	WNLY328 	BM		CONVR-SERV 	Services 	FM 	Public Works 
-156.12000 	WPEM825 	RM		CONVR-SERV 	Services 	FM 	Public Works 
-158.77500 	KVG889 	BM		CONVR-SERV 	Services 	FM 	Public Works 
-156.22500 	WNSL291 	RM	025 DPL	HKY-FD-DISP 	Fire Dispatch 	FM 	Fire Dispatch 
-153.83000 	WNSL290 	M	025 DPL	HKY-FD-TAC 	Fire Tactical 	FM 	Fire-Tac 
-154.17500 	WNSI303 	M	025 DPL	HKY-FD-TAC 	Fire Tactical 	FM 	Fire-Tac 
-155.70000 	KIC216 	RM		HKY-PD-DISP 	Police Dispatch (TRS Backup Only) 	FM 	Law Dispatch 
-155.91000 	KIC216 	BM		HKY-PD-TAC 	Police (TRS Backup Only) 	FM 	Law Dispatch 
-153.78500 	WPBP936 	M		HKY-SERV 	Services 	FM 	Multi-Talk 
-155.83500 	KUG826 	BM		HKY-SERV 	Services 	FM 	Multi-Talk 
-158.74500 	WNLY328 	RM		HKY-SERV 	Services 	FM 	Multi-Talk 
-159.22500 	WNGL440 	BM		HKY-SERV 	Services 	FM 	Multi-Talk 
-158.99500 	KJN683 	BM		LNGVW-PD-C2C 	Police Car-to-Car 	FM 	Law Talk 
-154.10000 	WNSZ416 	RM		LNGVW-SERV 	Services 	FM 	Public Works 
-154.14500 	WNWG911 	RM		NEWTN-FD-TAC 	Fire Tactical 	FM 	Fire-Tac 
-155.25000 	WYR656 	RM	151.4 PL	NEWTN-PD-DSP 	Police 	FM 	Law Dispatch 
-154.54000 	 	M		NEWTN-PD-C2C 	Police Car-to-Car 	FM 	Law Talk 
-158.88000 	KIW467 	M		NEWTN-SERV 	Services 	FM 	Public Works 
-Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Duke Energy	 OpenSky 4800 baud	 Various	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)
- Statesville	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Hickory Public Safety 	 Project 25 Phase I	 Hickory	North Carolina VIPER
- Project 25 Phase I	 Varies	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	
+154.41500 	159.07500  	KEL478 	RM	131.8 PL	CAT-FD-DISP 	Fire Dispatch 	FM 	Fire Dispatch 
+154.29500 	   	KEL480 	BM	131.8 PL	CAT-FD-TAC 	Fire Tactical 	FM 	Fire-Tac 
+154.28000 	   	KEL481 	BM	131.8 PL	STATE FIRE 	Fire Statewide Mutual Aid 	FM 	Fire-Talk 
+769.03125 	   	 	M	114 DPL	CatawbaFD Direc1 	Fire Direct 1 	FMN 	Fire-Talk 
+769.00625 	   	 	M	114 DPL	CatawbaFD Direc2 	Fire Direct 2 	FMN 	Fire-Talk 
+770.96250 	800.96250  	 	RM	718 NAC	Catawba FD DVRS 	Fire DVRS 	P25 	Fire-Tac 
+159.96000 	159.49500  	KJY696 	RM	118.8 PL	CAT-EMS-DISP 	EMS Dispatch 	FM 	EMS Dispatch 
+155.16000 	   	KJY696 	BM	131.8 PL	CAT-EMS-TAC 	EMS Tactical 	FM 	EMS-Tac 
+155.22000 	   	KJY696 	BM	131.8 PL	CAT-RSQ-DISP 	Rescue Dispatch 	FM 	EMS Dispatch 
+155.23500 	   	KJY696 	M	131.8 PL	CAT-RSQ-TAC 	Rescue Tactical 	FM 	EMS-Talk 
+155.28000 	   	KJY696 	BM	131.8 PL	STATE-RSQ 	Rescue Statewide 	FM 	EMS Dispatch 
+155.34000 	   	KJY696 	BM	131.8 PL	EMS-HOSP 	EMS to Frye Medical Center 	FM 	Hospital 
+155.02500 	   	 	RM	131.8 PL	CATAWBA GOV 	Catawba Co Govt  	FM 	Public Works 
+154.87500 	   	KDL920 	BM	151.4 PL	CAT SO M/A 	Sheriff Mutual Aid 	FM 	Law Talk 
+155.41500 	   	KIB995 	BM	151.4 PL	CAT SO 3 	Sheriff  	FM 	Law Tac 
+155.55000 	154.71000  	KDL920 	RM	151.4 PL	CAT SO DISP 	Sheriff Dispatch 	FM 	Law Dispatch 
+154.02500 	156.01500  	KGJ623 	RM		CAT SCHOOLS 	Schools 	FM 	Schools 
+155.02500 	   	KVX831 	BM		CAT GARAGE 	Garage 	FM 	Public Works 
+162.97500 	   	 	B		CATVOICEPAGE 	Voice Pagers (magistrates, maintenance, etc.) 	FM 	Data 
+154.44500 	   	WPNT635 	BM	131.8 PL	BANDY-FD-TAC 	Bandys Fire Tactical 	FM 	Fire-Tac 
+154.22000 	   	WPSJ963 	M		MV-VFD-TAC 	Mountain View VFD Tactical 	FM 	Fire-Tac 
+154.32500 	   	WPKL288 	M	131.8 PL	PSOPST-FDTAC 	Propst Crossroads Fire Tactical 	FM 	Fire-Tac 
+769.03125 	   	 	BM	114 DPL	CAT DIR 1 	CATAWBA DIRECT 1 	FMN 	Multi-Tac 
+769.00625 	   	 	BM	114 DPL	CAT DIR 2 	CATAWBA DIRECT 2 	FMN 	Multi-Tac 
+769.04375 	   	 	BM	718 NAC	CAT DIR 3 	CATAWBA DIRECT 3 	P25 	Multi-Tac 
+770.96250 	   	 	BM	400 NAC	CAT DIR 4 	CATAWBA DIRECT 4 NCDVRS 1 	P25 	Multi-Tac 
+770.89375 	   	 	BM	293 NAC	CAT DIR 5 	CATAWBA DIRECT 5 FD DVRS 	P25 	Multi-Tac 
+769.03125 	   	 	BM	718 NAC	CAT DIR 6 	CATAWBA DIRECT 6 	P25 	Multi-Tac 
+769.00625 	   	 	BM	718 NAC	CAT DIR 7 	CATAWBA DIRECT 7 	P25 	Multi-Tac 
+453.32500 	   	KSJ246 	BM		CLRMNT SERV 	Services 	FM 	Public Works 
+153.95000 	   	KBY646 	BM	131.8 PL	CONVR-FD-TAC 	Fire Tactical 	FM 	Fire-Tac 
+155.59500 	151.01000  	WNQU629 	RM	131.8 PL	CONVR-PD-DSP 	Police Dispatch 	FM 	Law Dispatch 
+155.58000 	158.85000  	WPQF223 	RM	131.8 PL	CONVR-PD-C2C 	Police Car-to-Car 	FM 	Law Talk 
+155.98500 	   	WNLY328 	BM		CONVR-SERV 	Services 	FM 	Public Works 
+156.12000 	153.90500  	WPEM825 	RM		CONVR-SERV 	Services 	FM 	Public Works 
+158.77500 	   	KVG889 	BM		CONVR-SERV 	Services 	FM 	Public Works 
+156.22500 	151.20500  	WNSL291 	RM	025 DPL	HKY-FD-DISP 	Fire Dispatch 	FM 	Fire Dispatch 
+153.83000 	   	WNSL290 	M	025 DPL	HKY-FD-TAC 	Fire Tactical 	FM 	Fire-Tac 
+154.17500 	   	WNSI303 	M	025 DPL	HKY-FD-TAC 	Fire Tactical 	FM 	Fire-Tac 
+155.70000 	154.65000  	KIC216 	RM		HKY-PD-DISP 	Police Dispatch (TRS Backup Only) 	FM 	Law Dispatch 
+155.91000 	   	KIC216 	BM		HKY-PD-TAC 	Police (TRS Backup Only) 	FM 	Law Dispatch 
+153.78500 	   	WPBP936 	M		HKY-SERV 	Services 	FM 	Multi-Talk 
+155.83500 	   	KUG826 	BM		HKY-SERV 	Services 	FM 	Multi-Talk 
+158.74500 	155.98500  	WNLY328 	RM		HKY-SERV 	Services 	FM 	Multi-Talk 
+159.22500 	   	WNGL440 	BM		HKY-SERV 	Services 	FM 	Multi-Talk 
+158.99500 	   	KJN683 	BM		LNGVW-PD-C2C 	Police Car-to-Car 	FM 	Law Talk 
+154.10000 	   	WNSZ416 	RM		LNGVW-SERV 	Services 	FM 	Public Works 
+154.14500 	151.41500  	WNWG911 	RM		NEWTN-FD-TAC 	Fire Tactical 	FM 	Fire-Tac 
+155.25000 	159.03000  	WYR656 	RM	151.4 PL	NEWTN-PD-DSP 	Police 	FM 	Law Dispatch 
+154.54000 	   	 	M		NEWTN-PD-C2C 	Police Car-to-Car 	FM 	Law Talk 
+158.88000 	   	KIW467 	M		NEWTN-SERV 	Services 	FM 	Public Works 
+Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Duke Energy	 OpenSky 4800 baud	 Various	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville
+FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Hickory Public Safety 	 Project 25 Phase I	 Hickory	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various

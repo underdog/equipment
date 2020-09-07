@@ -1,30 +1,29 @@
-857.46250 	WQOH438 	RM	131 DPL	Pott Co Sheriff 	Sheriff -- Link to KSICS 	FM 	Law Dispatch 
-460.42500 	KAE894 	RM	100.0 PL	Pott Co SO UHF 	Sheriff  (dispatch before KSICS) 	FMN 	Law Dispatch 
-453.30000 	KAE894 	RM	141.3 PL	PottCo Fire Com1 	Fire Com 1 	FMN 	Fire Dispatch 
-453.90000 	KAE894 	RM	127.3 PL	PottCo Fire Com2 	Fire Com 2 	FMN 	Fire Dispatch 
-453.50000 	WNLU463 	RM	136.5 PL	PottCo Fire Page 	Rural Fire Paging  (5 Towers, each with a different tone) 	FMN 	Fire Dispatch 
-453.47500 	 	M	156.7 PL	PottCo Fire Tac8 	Fire Tac 8 	FMN 	Fire-Tac 
-453.55000 	KAE894 	M	97.4 PL	PottCo Fire Tac9 	Fire Tac 9 	FMN 	Fire-Tac 
-453.65000 	WPIG390 	M	88.5 PL	Pott Co FD Tac10 	Fire Tac 10 	FMN 	Fire-Tac 
-453.77500 	KAE894 	M	127.3 PL	Pott Co FD Tac11 	Fire Tac 11 	FMN 	Fire-Tac 
-465.15000 	KAE894 	M	100.0 PL	Pott Co FD Tac12 	Fire Tac 12 	FMN 	Fire-Tac 
-465.17500 	KAE894 	M	77.0 PL	Pott Co FD Tac13 	Fire Tac 13 	FMN 	Fire-Tac 
-465.32500 	KAE894 	M	107.2 PL	Pott Co FD Tac14 	Fire Tac 14 	FMN 	Fire-Tac 
-465.52500 	KAE894 	M	136.5 PL	Pott Co FD Tac15 	Fire Tac 15 	FMN 	Fire-Tac 
-453.15000 	WZT922 	RM	156.7 PL	PottCo FD Introp 	Fire Crossband Repeater (with Geary and Riley Counties) 	FMN 	Interop 
-453.20000 	 	RM	94.8 PL	Pott Co EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
-453.77500 	KAE894 	RM	110.9 PL	Pott Co Med Com 	EMS -- MedCom EMS to Hospital 	FMN 	EMS Dispatch 
-458.10000 	KAE894 	M	67.0 PL	Pott Co Med Tac1 	EMS -- Med Tac 1 	FMN 	EMS-Tac 
-463.02500 	WXJ379 	M	67.0 PL	Pott Co Med Tac2 	EMS -- Med Tac 2 	FMN 	EMS-Tac 
-156.22500 	KQN918 	RM	107.2 PL	Pott Co Roads 	Highway Maintenance 	FMN 	Public Works 
-152.32250 	WQIU961 	RM	118.8 PL	Onaga Schools 	Onaga Schools (USD 322) 	FMN 	Schools 
-460.45000 	WPLR626 	RM	210.7 PL	St Marys Police 	Police Tactical 	FMN 	Law Tac 
-453.92500 	WPIG390 	RM	123.0 PL	St Marys Fire 	Fire Tactical 	FMN 	Fire-Tac 
-453.65000 	WPIG390 	RM	100.0 PL	St Marys Pub Wks 	Public Works 	FMN 	Public Works 
-461.25000 	WQQJ764 	RM		KawValley School 	Kaw Valley Schools (USD 321) 	FMN 	Schools 
-859.98750 	WQYA916 	RM		Wamego Police 	Police Dispatch (Link to KSICS TG 1328) 	FMN 	Law Dispatch 
-155.82000 	KBF831 	RM	146.2 PL	Wamego PD VHF 	Police (before KSCIS) 	FMN 	Law Dispatch 
-155.88000 	KBF831 	RM		Wamego PD VHF 	Police (before KSCIS) 	FMN 	Law Dispatch 
-461.42500 	WNFL782 	RM	146.2 PL	Wamego Schools 	Public School District (USD 320) 	FMN 	Schools 
-Kansas Statewide Interoperable Communication System (KSICS)	 Project 25 Phase I	 Statewide	Midwest Mobile Radio Service - Kansas	 LTR Passport	 Hiawatha	Westar Energy (KS/MO)	 Motorola Type II SmartZone
- Various	
+857.46250 	812.46250  	WQOH438 	RM	131 DPL	Pott Co Sheriff 	Sheriff -- Link to KSICS 	FM 	Law Dispatch 
+460.42500 	465.42500  	KAE894 	RM	100.0 PL	Pott Co SO UHF 	Sheriff  (dispatch before KSICS) 	FMN 	Law Dispatch 
+453.30000 	458.30000  	KAE894 	RM	141.3 PL	PottCo Fire Com1 	Fire Com 1 	FMN 	Fire Dispatch 
+453.90000 	458.90000  	KAE894 	RM	127.3 PL	PottCo Fire Com2 	Fire Com 2 	FMN 	Fire Dispatch 
+453.50000 	458.50000  	WNLU463 	RM	136.5 PL	PottCo Fire Page 	Rural Fire Paging  (5 Towers, each with a different tone) 	FMN 	Fire Dispatch 
+453.47500 	   	 	M	156.7 PL	PottCo Fire Tac8 	Fire Tac 8 	FMN 	Fire-Tac 
+453.55000 	   	KAE894 	M	97.4 PL	PottCo Fire Tac9 	Fire Tac 9 	FMN 	Fire-Tac 
+453.65000 	   	WPIG390 	M	88.5 PL	Pott Co FD Tac10 	Fire Tac 10 	FMN 	Fire-Tac 
+453.77500 	   	KAE894 	M	127.3 PL	Pott Co FD Tac11 	Fire Tac 11 	FMN 	Fire-Tac 
+465.15000 	   	KAE894 	M	100.0 PL	Pott Co FD Tac12 	Fire Tac 12 	FMN 	Fire-Tac 
+465.17500 	   	KAE894 	M	77.0 PL	Pott Co FD Tac13 	Fire Tac 13 	FMN 	Fire-Tac 
+465.32500 	   	KAE894 	M	107.2 PL	Pott Co FD Tac14 	Fire Tac 14 	FMN 	Fire-Tac 
+465.52500 	   	KAE894 	M	136.5 PL	Pott Co FD Tac15 	Fire Tac 15 	FMN 	Fire-Tac 
+453.15000 	458.15000  	WZT922 	RM	156.7 PL	PottCo FD Introp 	Fire Crossband Repeater (with Geary and Riley Counties) 	FMN 	Interop 
+453.20000 	458.20000  	 	RM	94.8 PL	Pott Co EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+453.77500 	458.77500  	KAE894 	RM	110.9 PL	Pott Co Med Com 	EMS -- MedCom EMS to Hospital 	FMN 	EMS Dispatch 
+458.10000 	   	KAE894 	M	67.0 PL	Pott Co Med Tac1 	EMS -- Med Tac 1 	FMN 	EMS-Tac 
+463.02500 	   	WXJ379 	M	67.0 PL	Pott Co Med Tac2 	EMS -- Med Tac 2 	FMN 	EMS-Tac 
+156.22500 	159.04500  	KQN918 	RM	107.2 PL	Pott Co Roads 	Highway Maintenance 	FMN 	Public Works 
+152.32250 	157.58250  	WQIU961 	RM	118.8 PL	Onaga Schools 	Onaga Schools (USD 322) 	FMN 	Schools 
+460.45000 	465.45000  	WPLR626 	RM	210.7 PL	St Marys Police 	Police Tactical 	FMN 	Law Tac 
+453.92500 	458.92500  	WPIG390 	RM	123.0 PL	St Marys Fire 	Fire Tactical 	FMN 	Fire-Tac 
+453.65000 	458.65000  	WPIG390 	RM	100.0 PL	St Marys Pub Wks 	Public Works 	FMN 	Public Works 
+461.25000 	466.02500  	WQQJ764 	RM		KawValley School 	Kaw Valley Schools (USD 321) 	FMN 	Schools 
+859.98750 	814.98750  	WQYA916 	RM		Wamego Police 	Police Dispatch (Link to KSICS TG 1328) 	FMN 	Law Dispatch 
+155.82000 	158.99500  	KBF831 	RM	146.2 PL	Wamego PD VHF 	Police (before KSCIS) 	FMN 	Law Dispatch 
+155.88000 	159.21000  	KBF831 	RM		Wamego PD VHF 	Police (before KSCIS) 	FMN 	Law Dispatch 
+461.42500 	466.42500  	WNFL782 	RM	146.2 PL	Wamego Schools 	Public School District (USD 320) 	FMN 	Schools 
+Midwest Mobile Radio Service - Kansas	 LTR Passport	 Hiawatha	Westar Energy (KS/MO)	 Motorola Type II SmartZone	 Various	

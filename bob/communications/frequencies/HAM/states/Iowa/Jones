@@ -1,28 +1,27 @@
-151.29500 	KAE697 	RM	107.2 PL	JonesLaw-Amber 	Sheriff Dispatch - Amber Tower 	FMN 	Law Dispatch 
-151.31750 	KAE697  	RM	203.5 PL	JonesLaw-Cascade 	Sheriff Dispatch - Cascade Tower 	FMN 	Law Dispatch 
-154.12250 	KAE697 	RM	107.2 PL	JonesLaw-Martell 	Sheriff Dispatch - Martelle Tower 	FMN 	Law Dispatch 
-154.82250 	WQSH355 	RM	210.7 PL	JonesLaw-Monti 	Sheriff Dispatch - Monticello Tower 	FMN 	Law Dispatch 
-159.09000 	KAH281 	BM	123.0 PL	JonesLaw-Montice 	Sheriff Dispatch - Monticello Tower 	FMN 	Law Dispatch 
-155.19000 	KAE697 	BM	192.8 PL	Jones LawTAC 	Sheriff Tactical 	FMN 	Law Tac 
-155.61000 	KAE697 	B		Jones Info-B 	Sheriff Information - Base 	FMN 	Law Talk 
-155.91000 	KAE697 	M		Joens Info-M 	Sheriff Information - Mobiles 	FMN 	Law Talk 
-154.38500 	WPAK829 	RM	186.2 PL	Jones Fire 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-154.13000 	WQUX355 	RM		JonesFire-Martel 	Fire Dispatch - Martelle Tower 	FMN 	Fire Dispatch 
-153.99500 	WPEE990 	M		Jones TAC 1 	Fire Tactical 1 	FMN 	Fire-Tac 
-155.40000 	WPRI574 	RM	167.9 PL	JonesEMS-Amber 	EMS Dispatch - Amber Tower 	FMN 	EMS Dispatch 
-155.58750 	WPRI574 	BM	179.9 PL	JonesEMS-Cascade 	EMS Dispatch - Cascade Tower 	FMN 	EMS Dispatch 
-155.87250 	 	RM	167.9 PL	JonesEMS-Martl 	EMS Dispatch - Martelle Tower 	FMN 	EMS Dispatch 
-155.88750 	WPRI574 	RM	179.9 PL	JonesEMS-Monti 	EMS Dispatch - Monticello Tower 	FMN 	EMS Dispatch 
-155.94750 	 	RM	203.5 PL	JonesEMS-Wyo 	EMS Dispatch - Wyoming Tower 	FMN 	EMS Dispatch 
-155.22000 	KNFE664 	BM		EMS F-2 	EMS 	FMN 	EMS-Talk 
-158.96250 	WQHE666 	BM		Jones Co EMA 	EMA to Schools 	FMN 	Emergency Ops 
-154.87500 	 	RM	94.8 PL	Jones Co Aid 	County Mutual Aid 	FMN 	Multi-Tac 
-154.13000 	 	RM	156.7 PL	Martelle VTAC 	Martelle Interop Repeater 	FMN 	Multi-Tac 
-151.10000 	WST25 	RM	229.1 PL	Jones Roads 	Road Department 	FMN 	Public Works 
-151.16000 	KNFG747 	RM	156 DPL	JETS 	Jones Elderly Transit Service 	FMN 	Transportation 
-453.55000 	WQB736 	F	241.8 PL	Fire Link 	Fire Link - Monticello site 	FMN 	Fire Dispatch 
-155.16000 	WPMA261 	BM	CSQ	Anamosa Amb 	Ambulance Paging 	FM 	EMS Dispatch 
-155.04000 	WPGB660 	RM	612 DPL	Anamosa PW 	Public Works 	FM 	Public Works 
-155.53500 	WPWX235 	BM		Olin TAC 	Fireground 	FM 	Fire-Tac 
-Alliant Energy	 DMR Tier 3	 Various	Iowa Department of Corrections	 DMR Tier 3	 Various	RACOM Network	 EDACS Networked Standard
- Various	
+151.29500 	159.39000  	KAE697 	RM	107.2 PL	JonesLaw-Amber 	Sheriff Dispatch - Amber Tower 	FMN 	Law Dispatch 
+151.31750 	159.39000  	KAE697  	RM	203.5 PL	JonesLaw-Cascade 	Sheriff Dispatch - Cascade Tower 	FMN 	Law Dispatch 
+154.12250 	159.39000  	KAE697 	RM	107.2 PL	JonesLaw-Martell 	Sheriff Dispatch - Martelle Tower 	FMN 	Law Dispatch 
+154.82250 	   	WQSH355 	RM	210.7 PL	JonesLaw-Monti 	Sheriff Dispatch - Monticello Tower 	FMN 	Law Dispatch 
+159.09000 	159.39000  	KAH281 	BM	123.0 PL	JonesLaw-Montice 	Sheriff Dispatch - Monticello Tower 	FMN 	Law Dispatch 
+155.19000 	   	KAE697 	BM	192.8 PL	Jones LawTAC 	Sheriff Tactical 	FMN 	Law Tac 
+155.61000 	   	KAE697 	B		Jones Info-B 	Sheriff Information - Base 	FMN 	Law Talk 
+155.91000 	   	KAE697 	M		Joens Info-M 	Sheriff Information - Mobiles 	FMN 	Law Talk 
+154.38500 	158.88000  	WPAK829 	RM	186.2 PL	Jones Fire 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.13000 	158.77500  	WQUX355 	RM		JonesFire-Martel 	Fire Dispatch - Martelle Tower 	FMN 	Fire Dispatch 
+153.99500 	   	WPEE990 	M		Jones TAC 1 	Fire Tactical 1 	FMN 	Fire-Tac 
+155.40000 	150.80500  	WPRI574 	RM	167.9 PL	JonesEMS-Amber 	EMS Dispatch - Amber Tower 	FMN 	EMS Dispatch 
+155.58750 	150.80500  	WPRI574 	BM	179.9 PL	JonesEMS-Cascade 	EMS Dispatch - Cascade Tower 	FMN 	EMS Dispatch 
+155.87250 	150.80500  	 	RM	167.9 PL	JonesEMS-Martl 	EMS Dispatch - Martelle Tower 	FMN 	EMS Dispatch 
+155.88750 	150.80500  	WPRI574 	RM	179.9 PL	JonesEMS-Monti 	EMS Dispatch - Monticello Tower 	FMN 	EMS Dispatch 
+155.94750 	150.80500  	 	RM	203.5 PL	JonesEMS-Wyo 	EMS Dispatch - Wyoming Tower 	FMN 	EMS Dispatch 
+155.22000 	   	KNFE664 	BM		EMS F-2 	EMS 	FMN 	EMS-Talk 
+158.96250 	   	WQHE666 	BM		Jones Co EMA 	EMA to Schools 	FMN 	Emergency Ops 
+154.87500 	159.07500  	 	RM	94.8 PL	Jones Co Aid 	County Mutual Aid 	FMN 	Multi-Tac 
+154.13000 	158.77500  	 	RM	156.7 PL	Martelle VTAC 	Martelle Interop Repeater 	FMN 	Multi-Tac 
+151.10000 	156.24000  	WST25 	RM	229.1 PL	Jones Roads 	Road Department 	FMN 	Public Works 
+151.16000 	159.04500  	KNFG747 	RM	156 DPL	JETS 	Jones Elderly Transit Service 	FMN 	Transportation 
+453.55000 	   	WQB736 	F	241.8 PL	Fire Link 	Fire Link - Monticello site 	FMN 	Fire Dispatch 
+155.16000 	   	WPMA261 	BM	CSQ	Anamosa Amb 	Ambulance Paging 	FM 	EMS Dispatch 
+155.04000 	153.90500  	WPGB660 	RM	612 DPL	Anamosa PW 	Public Works 	FM 	Public Works 
+155.53500 	   	WPWX235 	BM		Olin TAC 	Fireground 	FM 	Fire-Tac 
+Alliant Energy	 DMR Tier 3	 Various	Iowa Department of Corrections	 DMR Tier 3	 Various	RACOM Network	 EDACS Networked Standard	 Various

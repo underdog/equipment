@@ -1,20 +1,20 @@
-159.09000 	WPNS590 	RM	146.2 PL	Miss Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
-155.70000 	WPNS590 	RM	146.2 PL	Miss Sherif* 	Sheriff: Dispatch (possibly freq's are reversed???) 	FMN 	Law Dispatch 
-155.14500 	 	BM		EMA Net 	Intercounty EMA Net 	FM 	Emergency Ops 
-159.13500 	KJD220 	BM		Miss Highway 	Highway Department 	FM 	Public Works 
-155.27250 	WQZS832 	RM	CC 3TG 8SL 1	Mississippi EMS 	EMS: Dispatch 	DMR 	EMS Dispatch 
-155.32500 	KDA725 	RM	146.2 PL	MissippiEMS1 	EMS: Dispatch [Ch 1] (in use?) 	FMN 	EMS Dispatch 
-155.22000 	KDA725 	BM		MissippiEMS2 	EMS: Secondary [Ch 2] (in use?) 	FMN 	EMS-Tac 
-154.08500 	WPDF271 	BM		Brtrnd Fire 	Fire: Local 	FMN 	Fire-Tac 
-155.64000 	KNCB845 	RM	146.2 PL	Char Police1 	Police: Dispatch [Ch 1] 	FM 	Law Dispatch 
-156.21000 	KNCB845 	BM		Char Police2 	Police: Secondary [Ch 2] 	FM 	Law Tac 
-155.07000 	KNCB845 	M		Char PD C2C 	Police: Car-to-Car 	FM 	Law Tac 
-155.82000 	WQCA249 	BM		Chrlstn Fire 	Fire 	FM 	Fire-Tac 
-158.83500 	WNKI637 	BM		Char HsAuth 	Public Housing Authority 	FM 	Public Works 
-155.07000 	KAI618 	BM	94.8 PL	EPr Police 	Police: Dispatch 	FM 	Law Dispatch 
-155.88000 	KIU515 	BM		EPr Fire/DPW 	Fire/Public Works 	FM 	Fire Dispatch 
-155.88000 	WNQQ465 	BM		Wyatt Fire 	Fire: Local 	FMN 	Fire-Tac 
-461.91250 	WQIG858 	RM		RRF Ops1 	Rushing River Farms (Charleston)  	FMN 	Business 
-463.32500 	WQJS813 	RM		JCS/Tel-Link 	JCS/Tel-Link (Charleston) 	FMN 	Business 
-464.15000 	WQJQ229 	RM		Goodin Farm 	John Goodin Farms (Charleston) 	FM 	Business 
+159.09000 	   	WPNS590 	RM	146.2 PL	Miss Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
+155.70000 	159.09000  	WPNS590 	RM	146.2 PL	Miss Sherif* 	Sheriff: Dispatch (possibly freq's are reversed???) 	FMN 	Law Dispatch 
+155.14500 	   	 	BM		EMA Net 	Intercounty EMA Net 	FM 	Emergency Ops 
+159.13500 	   	KJD220 	BM		Miss Highway 	Highway Department 	FM 	Public Works 
+155.27250 	159.01500  	WQZS832 	RM	CC 3TG 8SL 1	Mississippi EMS 	EMS: Dispatch 	DMR 	EMS Dispatch 
+155.32500 	150.80500  	KDA725 	RM	146.2 PL	MissippiEMS1 	EMS: Dispatch [Ch 1] (in use?) 	FMN 	EMS Dispatch 
+155.22000 	   	KDA725 	BM		MissippiEMS2 	EMS: Secondary [Ch 2] (in use?) 	FMN 	EMS-Tac 
+154.08500 	   	WPDF271 	BM		Brtrnd Fire 	Fire: Local 	FMN 	Fire-Tac 
+155.64000 	154.95000  	KNCB845 	RM	146.2 PL	Char Police1 	Police: Dispatch [Ch 1] 	FM 	Law Dispatch 
+156.21000 	   	KNCB845 	BM		Char Police2 	Police: Secondary [Ch 2] 	FM 	Law Tac 
+155.07000 	   	KNCB845 	M		Char PD C2C 	Police: Car-to-Car 	FM 	Law Tac 
+155.82000 	   	WQCA249 	BM		Chrlstn Fire 	Fire 	FM 	Fire-Tac 
+158.83500 	   	WNKI637 	BM		Char HsAuth 	Public Housing Authority 	FM 	Public Works 
+155.07000 	   	KAI618 	BM	94.8 PL	EPr Police 	Police: Dispatch 	FM 	Law Dispatch 
+155.88000 	   	KIU515 	BM		EPr Fire/DPW 	Fire/Public Works 	FM 	Fire Dispatch 
+155.88000 	   	WNQQ465 	BM		Wyatt Fire 	Fire: Local 	FMN 	Fire-Tac 
+461.91250 	466.91250  	WQIG858 	RM		RRF Ops1 	Rushing River Farms (Charleston)  	FMN 	Business 
+463.32500 	468.32500  	WQJS813 	RM		JCS/Tel-Link 	JCS/Tel-Link (Charleston) 	FMN 	Business 
+464.15000 	469.15000  	WQJQ229 	RM		Goodin Farm 	John Goodin Farms (Charleston) 	FM 	Business 
 AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Missouri Department of Corrections (Charleston)	 Motorola Type II SmartZone	 Charleston	

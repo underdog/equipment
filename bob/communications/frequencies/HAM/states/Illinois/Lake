@@ -1,447 +1,456 @@
-156.21000 	KSA958 	RM	127.3 PL	Lake Law M/A 	Sheriff: Countywide Mutual Aid [Ch 1] (Still in use) 	FMN 	Law Dispatch 
-156.21000 	KSA958 	M	311 DPL	Lake DepkeJv 	Courthouse/Jail Ops/Depke Juvenile Facility 	FMN 	Corrections 
-464.47500 	WPJY945 	RM		Lake Crthous 	Courthouse Maintenance/Security (Waukegan) 	FMN 	Law Tac 
-156.85000 	 	M	CSQ	Lake SD Mari 	Sheriff: Marine Patrol - Tac-1 	FMN 	Law Tac 
-453.45000 	KDS792 	RM	127.3 PL	Lake M/A UHF 	Countywide Mutual Aid  	FMN 	Interop 
-154.95000 	 	M	110.9 PL	Lake MEG 1 	Metropolitan Enforcement Group Ch 1 	FMN 	Law Tac 
-156.00000 	 	M	110.9 PL	Lake MEG 2 	Metropolitan Enforcement Group Ch 2 	FMN 	Law Tac 
-165.28750 	 	RM	100.0 PL	Lake MEG 3 	Metropolitan Enforcement Group Ch 3 	FMN 	Law Tac 
-156.21000 	KSA958 	RM	127.3 PL	Lake Fire Rescue 	Fire: Rescue (County Ch -1) 	FMN 	Fire Dispatch 
-154.32500 	WQBZ369 	RM	127.3 PL	Lake Fire Quad 1 	Fire: Dispatch - Quad 1 	FMN 	Fire Dispatch 
-154.40000 	WPEV790 	RM	127.3 PL	Lake Fire Quad 2 	Fire: Dispatch - Quad 2 	FMN 	Fire Dispatch 
-153.89000 	KNDM242 	BM	127.3 PL	Lake Fire Quad 3 	Fire: Dispatch - Quad 3 	FMN 	Fire Dispatch 
-154.43000 	KNCT748 	BM	127.3 PL	Lake Fire Quad 4 	Fire: Dispatch - Quad 4 	FMN 	Fire Dispatch 
-154.37000 	KNCE337 	BM	127.3 PL	Lake Fireground3 	Fireground [Ch 3] / Quad2-Admin 	FMN 	Fire-Tac 
-460.51250 	WPYM203 	M		NLCFTA Data1 	Northwest Lake County Fire Training Cooperative: Alarms/Data 	Telm 	Data 
-465.51250 	WPYM203 	M		NLCFTA Data2 	Northwest Lake County Fire Training Cooperative: Alarms/Data  	Telm 	Data 
-155.00250 	WQKS403 	M		Lake Hazmat/Bomb 	HAZMAT/Bomb Disposal Operations (MABAS Division 4) 	FMN 	Fire-Tac 
-458.48750 	WQKS403 	M		Lake HMRobot 	Bomb Disposal Robot (MABAS Division 4) 	Telm 	Data 
-453.11250 	 	M		Lake WinHous 	Winchester House [No license] 	FMN 	Business 
-45.56000 	KNEJ960 	BM	127.3 PL	Lake ESDA 	ESDA 	FMN 	Emergency Ops 
-453.85000 	KSG305 	RM	127.3 PL	Lake Highway 	Highway Department 	FMN 	Public Works 
-453.06250 	 	M		Lake FrstRsA 	Lake County Forest Preserve District 	FMN 	Public Works 
-453.18750 	 	M	624 DPL	Lake FrstRsB 	Lake County Forest Preserve District 	FMN 	Public Works 
-155.00250 	WQXX762 	RM	172 DPL	SLake CERT West 	West Ops: Events/Traffic 	FMN 	Emergency Ops 
-154.79250 	WQQR543 	RM		SLakeCERT PrtRpt 	Portable Repeater 	FMN 	Emergency Ops 
-470.58750 	KTO896 	RM	97.4 PL	Antch Police 	Police: Dispatch - Antioch, Lake Villa, Lindenhurst (also Graylake, Fox Lake) 	FMN 	Law Dispatch 
-453.28750 	WPZA373 	F		Antch PD RF1 	Police: Remote Link - Grayslake 	FMN 	Law Dispatch 
-458.41250 	WPZA373 	F		Antch PD RF2 	Police: Remote Link - Lindenhurst 	FMN 	Law Dispatch 
-458.51250 	WPZA373 	F		Antch PD RF3 	Police: Remote Link - Antioch 	FMN 	Law Dispatch 
-458.58750 	WPZA373 	F		Antch PD RF4 	Police: Remote Link - Grayslake 	FMN 	Law Dispatch 
-458.63750 	WPZA373 	F		Antch PD RF5 	Police: Remote Link - Lake Villa 	FMN 	Law Dispatch 
-458.68750 	WPZA373 	F		Antch PD RF6 	Police: Remote Link - Lake Villa 	FMN 	Law Dispatch 
-453.71250 	WPBX953 	F		Antch PD RF7 	Police: Remote Link - Grayslake  	FMN 	Law Dispatch 
-458.88750 	WPBX953 	F		Antch PD RF8 	Police: Remote Link - Fox Lake 	FMN 	Law Dispatch 
-458.93750 	WPBX953 	F		Antch PD RF9 	Police: Remote Link - Antioch (was Grayslake) 	FMN 	Law Dispatch 
-458.03750 	WPBX953 	F		Antch PDRF10 	Police: Remote Link - Antioch  	FMN 	Law Dispatch 
-155.11500 	WQEX410 	RM	114.8 PL	CEN Police-S 	Police: Dispatch - South 	FMN 	Law Dispatch 
-155.31000 	 	RM	127.3 PL	CEN Police-N 	Police: Dispatch - North [Ch 1] 	FMN 	Law Dispatch 
-154.98000 	KXC474 	BM	127.3 PL	CEN PD Alt2 	Police: Alternate (also RLB PW) [Ch 2] 	FMN 	Law Tac 
-155.98500 	 	BM	114.8 PL	CEN PD c2c3 	Police: Car-to-Car [Ch 3] 	FMN 	Law Tac 
-155.64500 	 	BM	127.3 PL	CEN PD Tac4 	Police: Tactical/Car-to-Car [Ch 4] 	FMN 	Law Tac 
-470.81250 	WIH957 	RM	97.4 PL	Barr Police 	Police: Barrington - Dispatch 	FMN 	Law Dispatch 
-154.40000 	 	RM	127.3 PL	Lake Fire Q2 	Fire: Antioch, Greater Round Lake FPD - Dispatch 	FMN 	Fire Dispatch 
-471.23750 	WPVK618 	RM		CLCPN Law 1 	Police: Dispatch 	FMN 	Law Dispatch 
-471.28750 	WPVK618 	RM		CLCPN Law 2 	Police: Dispatch 	FMN 	Law Dispatch 
-155.73000 	KSA418 	RM	127.3 PL	GPSD, HiPk 	Police, Highland Park Repeater 	FMN 	Law Dispatch 
-151.30250 	KSA418 	RM	186.2 PL	GPSD, LkFor 	Police, Lake Forest Repeater 	FMN 	Law Dispatch 
-155.42250 	KSA418 	RM	186.2 PL	GPSD, Lk Blf 	Police, Lake Bluff Repeater 	FMN 	Law Dispatch 
-155.56500 	KSA418 	BM	127.3 PL	HighPk C-C 	Car to Car, Secondary 	FMN 	Law Talk 
-155.85000 	KSA418 	M	CSQ	HPPD C-C 	Car to Car 	FMN 	Law Talk 
-154.16000 	KSE745 	RM	192.8 PL	HPark Fire 	Highland Park Fire: Dispatch 	FMN 	Fire Dispatch 
-151.21250 	KSE745 	RM	192.8 PL	LkBluff Fire 	Lake Bluff Fire: Dispatch 	FMN 	Fire Dispatch 
-154.88250 	KSE745 	RM	192.8 PL	LkFrst FIre 	Lake Forest Fire: Dispatch 	FMN 	Fire Dispatch 
-159.15750 	KSE745 	M		HPFD FG 	Fireground 	FMN 	Fire-Tac 
-855.63750 	WNAR378 	RM	127.3 PL	Gurnee PD 	Gurnee PD DIspatch 	FMN 	Law Dispatch 
-470.51250 	WQFY277 	RM	97.4 PL	WHZionPolice 	Winthrop Harbor, Zion: Police Dispatch [Ch 5]  	FMN 	Law Dispatch 
-859.43750 	WNBG488 	RM		Gurnee PD MDT 	Gurnee PD Mobile Data Terminals (MDTS) 	FMN 	Data 
-453.41250 	WQGT226 	F		Zion PD RF1 	Zion Police: Remote Link (9th & Countywood Dr 	FMN 	Law Tac 
-453.91250 	WQGT226 	F		Zion PD RF2 	Zion Police: Remote Link (Gabriel Ave & Sharon Pl) 	FMN 	Law Tac 
-453.96250 	WQGT226 	F		Zion PD RF4 	Zion Police: Remote Link (9th & Countywood Dr) 	FMN 	Law Tac 
-458.11250 	WQGT226 	F		Zion PD RF6 	Zion Police: Remote Link (830 SheridanRd-Winthtrop Harbor) 	FMN 	Law Tac 
-458.91250 	WQGT226 	F		Zion PD RF7 	Zion Police: Remote Link (101 Shiloh Blvd) 	FMN 	Law Tac 
-458.96250 	WQGT226 	F		Zion PD RF8 	Zion Police: Remote Link (101 Shiloh Blvd) 	FMN 	Law Tac 
-151.32500 	WPWW203 	RM	141.3 PL	Gurnee Fire 	Fire  Dispatch 	FMN 	Fire Dispatch 
-158.79750 	WQBZ369 	BM	743 DPL	Zion Fire L 	Zion Fire: Local (4 bases) 	FMN 	Fire-Tac 
-153.76250 	KLF252 	B	127.3 PL	Lake FD Q1*S 	Zion Fire: Simulcast of 154.325 127.3 (KS5703, KFX873) 	FMN 	Fire-Tac 
-472.12500 	WQCV868 	RM	179.9 PL	Zion FireUHF 	Zion Fire/Rescue: Simulcast of 154.325 127.3 	FMN 	Fire Dispatch 
-453.06250 	KNCL897 	M		Zion Fire RF 	Zion Fire: Remote Links to 154.325 (?) 	FMN 	Fire Dispatch 
-155.07750 	KNIJ984 	BM	141.3 PL	Newport FPD 	Newport FPD Simulcast of Quad 1 	FMN 	Fire Dispatch 
-470.31250 	KUS371 	RM	97.4 PL	Wauk/PC PD1 	Waukegan, Park City: Dispatch [Ch 1/2] 	FMN 	Law Dispatch 
-470.46250 	WIK831 	RM	97.4 PL	N Chi Police 	North Chicago Dispatch [Ch 3/4] 	FMN 	Law Dispatch 
-470.51250 	WQFY277 	RM	97.4 PL	WHZionPolice 	Winthrop Harbor, Zion: Dispatch [Ch 5/6] 	FMN 	Law Dispatch 
-470.91250 	KVU408 	RM	97.4 PL	NIPSCOM F7 	Area-Wide Repeater [Ch 7/8] 	FMN 	Law Tac 
-153.21500 	WPUR736 	RM	031 DPL	RED Fire North W 	RED Fire North (West, Northbrook) 	FMN 	Fire Dispatch 
-159.66000 	WPUR746 	RM	031 DPL	RED Fire North E 	RED Fire North (East, Winnetka) 	FMN 	Fire Dispatch 
-470.86250 	WQFZ647 	RM	97.4 PL	Cen Lake Co  	Police: Dispatch - Vernon Hills, Libertyville, Lincolnshire, Mundelien 	FMN 	Law Dispatch 
-471.21250 	WIH644  	RM	97.4 PL	Lbtyvl 2 	Libertyville F2 	FMN 	Law Talk 
-154.05500 	KTC912 	BM	77.0 PL	VHPD Admin  	Admin for VHPD and Lincolnshire 	FMN 	Law Talk 
-154.43000 	KZE480 	RM	127.3 PL	Quad 4 	Fire: Dispatch - Countryside, Libertyville, Mundelien  	FMN 	Fire Dispatch 
-156.18000 	 	BM	162.2 PL	Lake TS 618d 	Avon Township Roads 	FMN 	Public Works 
-173.27500 	WQJQ263 	F		CLCJAW Data 	Central Lake County Joint Action Water Agency (Lake Bluff) (CSQ) 	Telm 	Data 
-154.12250 	WQEY368 	RM		CubaTwpRoads 	Cuba Township Roads (Barrington, in use 3/13) 	NXDN 	Public Works 
-156.18000 	 	BM	315 DPL	Lake TS 618c 	Ela Township Roads 	FMN 	Public Works 
-151.15250 	WQTC308 	RM		Ela Roads 	Ela Township Roads/Snow Plows 	FMN 	Public Works 
-155.08500 	WRAL786 	BM		CubaTwp Sirens 	Emergency Warning Sirens 	Telm 	Emergency Ops 
-154.55500 	WQKQ285 	F		LakeCo WDD 	Lake County Public Water District 	Telm 	Data 
-159.12000 	KNDT234 	BM	127.3 PL	LkVilTS Road 	Lake Villa Township Roads 	FMN 	Public Works 
-453.93750 	KB74991 	M		LksSanitary1 	Lakes Region Sanitary District 	FMN 	Public Works 
-458.98750 	KB74991 	M		LksSanitary2 	Lakes Region Sanitary District 	FMN 	Public Works 
-151.08500 	KJR273 	BM	156.7 PL	LbtvTS Road2 	Libertyville Township Roads 	FMN 	Public Works 
-159.13500 	KJR273 	BM	156.7 PL	LbtvTS Road1 	Libertyville Township Roads 	FMN 	Public Works 
-453.05000 	KSI839 	RM		NShrSanitary 	North Shore Sanitary District  	FMN 	Public Works 
-156.18000 	KNJG726 	BM	136.5 PL	Lake TS 618b 	Vernon Township Roads 	FMN 	Public Works 
-151.02500 	WPBS861 	BM	179.9 PL	WrrnTS Roads 	Warren Township Roads 	FMN 	Public Works 
-156.18000 	WQJS223 	M		Lake TS 618a 	Wauconda Township Highway  	FMN 	Public Works 
-46.58000 	KSE969 	BM	114.8 PL	Antioch PubWorks 	Public Works 	FM 	Public Works 
-465.57500 	KSG250 	M		Antioch FD MobEx 	Fire Mobile Extenders 	FMN 	Fire-Tac 
-470.81250 	WIH957 	RM	97.4 PL	Barr Police 	Police: Dispatch 	FMN 	Law Dispatch 
-465.61250 	KSS458 	M		Barr Fire MX 	Fire: Mobile Extenders 	FMN 	Fire Dispatch 
-154.96500 	WQGE399 	BM	127.3 PL	Barr PubWkrs 	Public Works / Police: Tac 	FMN 	Public Works 
-151.47500 	WQZW925 	BM		BchPark PW 	Public Works 	FMN 	Public Works 
-45.12000 	KJJ443 	BM		BchPark Util 	Utilities (expired 6/2013) 	FM 	Public Works 
-956.31880 	 	F		BchPark WDD 	Water Distribution Data 	Telm 	Data 
-470.43750 	KWY222 	RM	CSQ	BGrv ESDA T1 	ESDA: Tac-1 [Expired] 	FMN 	Emergency Ops 
-470.36250 	KWY222 	RM	CSQ	BGrv ESDA T2 	ESDA: Tac-2 [Expired] 	FMN 	Emergency Ops 
-453.23750 	WNXJ781 	M		BGrv ESDA T? 	ESDA 	FMN 	Emergency Ops 
-153.87500 	WNRQ606 	M	186.2 PL	BGrv FD Tac2 	Fire: Tac/Admin [Ch 2]  	FMN 	Fire-Tac 
-458.38750 	KB82495 	M	146.2 PL	BGrv FD MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-155.08500 	KTS787 	M	186.2 PL	BGrv PW/Loc 	Public Works / Police: Car-to-Car / Fire: Tac 	FMN 	Public Works 
-458.28750 	KB82495 	F		BGrv WDD 	Water Distribution Data  	Telm 	Data 
-153.96500 	WQFE616 	M		BGrv Parks 1 	Buffalo Grove Park District 	FMN 	Public Works 
-154.86000 	WQFE616 	M		BGrv Parks 2 	Buffalo Grove Park District 	FMN 	Public Works 
-154.43000 	KAS677 	RM	127.3 PL	CSide FPD Dsp 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.05500 	KTL912 	BM	77.0 PL	PW 	VHPW, Link to VHPD 	FMN 	Fire-Talk 
-155.73000 	WQU355 	BM	127.3 PL	Dfld Police 	Police: Dispatch (500-series units) 	FMN 	Law Dispatch 
-155.56500 	WQU355 	BM	127.3 PL	Dfld PD Scnd 	Police: Secondary 	FMN 	Law Tac 
-155.85000 	WQU355 	M	127.3 PL	Dfld PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
-860.73750 	WNGC398 	RM		Dfld PD MDTs 	Police: Mobile Data Terminals (CSQ) 	Telm 	Data 
-153.86000 	WQS494 	BM	156.7 PL	Dfld PubWrks 	Public Works (Old Police AVLS) 	FMN 	Public Works 
-45.00000 	KXE702 	BM		Dfld Parks 	Deerfield Park District 	FM 	Public Works 
-470.58750 	KTO896 	RM	97.4 PL	FoxLk Police 	Fox Lake Police: Dispatch 	FMN 	Law Dispatch 
-465.06250 	KD43462 	F		FxLk PD RF 1 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
-465.13750 	KD43462 	F		FxLk PD RF 2 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
-465.16250 	KD43462 	F		FxLk PD RF 3 	Police: Remote Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
-465.23750 	KD43462 	F		FxLk PD RF 4 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
-465.26250 	KD43462 	F		FxLk PD RF 5 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
-465.28750 	KD43462 	F		FxLk PD RF 6 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
-465.31250 	KD43462 	F		FxLk PD RF 7 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
-465.33750 	KD43462 	F		FxLk PD RF 8 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
-465.36250 	KD43462 	F		FxLk PD RF 9 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
-460.05000 	 	M	97.4 PL	FxLk Police4 	Police: Tac 1 [NO LICENSE] 	FMN 	Law Tac 
-460.07500 	 	M	97.4 PL	FxLk Police5 	Police: Tac 2 [NO LICENSE] 	FMN 	Law Tac 
-460.10000 	 	M	97.4 PL	FxLk Police6 	Police: Tac 3 [NO LICENSE] 	FMN 	Law Tac 
-460.12500 	 	M	97.4 PL	FxLk Police7 	Police: Tac 4 [NO LICENSE] 	FMN 	Law Tac 
-460.15000 	 	M	97.4 PL	FxLk Police8 	Police: Tac 5 [NO LICENSE] 	FMN 	Law Tac 
-460.17500 	 	M	97.4 PL	FxLk Police9 	Police: Tac 6 [NO LICENSE] 	FMN 	Law Tac 
-460.20000 	 	M	97.4 PL	FxLk Polic10 	Police: Tac 7 [NO LICENSE] 	FMN 	Law Tac 
-460.22500 	 	M	97.4 PL	FxLk Polic11 	Police: Tac 8 [NO LICENSE] 	FMN 	Law Tac 
-460.25000 	 	M	97.4 PL	FxLk Polic12 	Police: Tac 9 [NO LICENSE] 	FMN 	Law Tac 
-460.27500 	 	M	97.4 PL	FxLk Polic13 	Police: Tac 10 [NO LICENSE] 	FMN 	Law Tac 
-460.30000 	 	M	97.4 PL	FxLk Polic14 	Police: Tac 11 [NO LICENSE] 	FMN 	Law Tac 
-460.32500 	 	M	97.4 PL	FxLk Polic15 	Police: Tac 12 [NO LICENSE] 	FMN 	Law Tac 
-460.35000 	 	M	97.4 PL	FxLk Polic16 	Police: Private [NO LICENSE] 	FMN 	Law Tac 
-154.04000 	KNGD412 	BM	127.3 PL	FxLk PW/FG 	Publc Works / Fireground 	FMN 	Public Works 
-472.60000 	WQKL254 	RM	343 DPL	Grlk Police 	Police: Dispatch (DB: Glenview) 	FMN 	Law Dispatch 
-458.97500 	 	BM	346 DPL	Grlk PD Exp 	Police: Explorers [License ?] 	FMN 	Law Tac 
-453.66250 	WNVT589 	M		Grlk Local 	Local Government 	FMN 	Public Works 
-158.74500 	 	BM	127.3 PL	Grlk PubWrks 	Public Works / Police: Local 	FMN 	Public Works 
-956.39375 	 	F		Grlk WDD 	Water Distribution Data 	Telm 	Data 
-151.22000 	WNKJ616 	BM	179.9 PL	Grlk Parks 	Grayslake Community Park District 	FMN 	Public Works 
-153.83000 	KNCE337 	M	127.3 PL	Grayslake FG 	Fireground [Ch 5] 	FMN 	Fire-Tac 
-155.22000 	KB36783 	BM		Gryslak EMS 	Fire: EMS 	FMN 	EMS-Tac 
-153.92000 	KLI390 	BM	179.9 PL	Gurn PubWrks 	Public Works (also Police/Fire/Building/Engineering?) 	FMN 	Public Works 
-159.42000 	WPBJ544 	RM	612 DPL	Gurn Parks 1 	Gurnee Park District 	FMN 	Public Works 
-159.43500 	WPBJ544 	B		Gurn Parks 2 	Gurnee Park District 	FMN 	Public Works 
-476.73750 	 	M	97.4 PL	Hwd PD Alt 	Police: Alternate 	FMN 	Law Dispatch 
-155.82000 	WNHN672 	BM	127.3 PL	Hwd PubWrks 	Public Works 	FMN 	Public Works 
-461.58750 	WQHT360 	M		HWd Golf 1 	Golf Course Ops 	FMN 	Business 
-462.28750 	WQHT360 	M		HWd Golf 2 	Golf Course Ops 	FMN 	Business 
-462.36250 	WQHT360 	M		HWd Golf 3 	Golf Course Ops 	FMN 	Business 
-463.21250 	WQHT360 	M		HWd Golf 4 	Golf Course Ops 	FMN 	Business 
-467.36250 	WQHT360 	M		HWd Golf 5 	Golf Course Ops 	FMN 	Business 
-155.73000 	WNLN376 	RM	127.3 PL	HPark Police 	Police: Dispatch 	FMN 	Law Dispatch 
-155.73000 	KSA418 	RM	127.3 PL	HPark Police 	Police: Dispatch (Highwood Repeater) 	FMN 	Law Tac 
-155.85000 	KSA418 	M	127.3 PL	Dfld PD c2c 	Police: Car-to-Car 	FMN 	Law Tac 
-151.07750 	WQXV621 	RM	031 DPL	HPk PD Alternate 	Police: Ravinia Festival, Special Events 	FMN 	Law Talk 
-154.16000 	KSE745 	BM	127.3 PL	HlndPk Fire 	Fire: Dispatch (Stations 31 thru 35) 	FMN 	Fire Dispatch 
-159.15750 	KSE745 	M		HPk Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-458.65000 	KM5850 	M		HPk Fire UHF 	Fire 	FMN 	Fire-Tac 
-153.86000 	WQM324 	BM	156.7 PL	HPrk PW SPlw 	Publc Works / Snow Plows / Police: Alternate 	FMN 	Public Works 
-453.80000 	KNEZ925 	RM	107.2 PL	HPk PubWrks 	Public Works  	FMN 	Public Works 
-453.61250 	WQEW950 	M		HPk Parks 1 	Park District: Golf Course 	FMN 	Public Works 
-458.32500 	WQFN460 	M		HPk Parks 2 	Park District / Recreation Center 	FMN 	Public Works 
-458.61250 	WQEW950 	M		HPk Parks 3 	Park District: Golf Course  	FMN 	Public Works 
-158.73000 	WPEH269 	RM	155 DPL	IsLk Police 	Police: Dispatch - Old (was 136.5 PL) 	FMN 	Law Dispatch 
-155.04000 	WQAV206 	BM	127.3 PL	IsLk PubWrks 	Public Works 	FMN 	Public Works 
-956.28125 	WQKC682 	M		IsLK WDD 	Water Distribution Data 	Telm 	Data 
-159.04500 	WNUE370 	M		Kildr PD VHF 	Police 	FMN 	Law Tac 
-154.43000 	 	M	127.3 PL	LF/LB/K Fire 	Fire: Lake Forest/Lake Bluff/Knollwood 	FMN 	Fire Dispatch 
-153.86000 	WQM326 	BM		LkBlf Police 	Police 	FMN 	Law Tac 
-155.85000 	KSI245 	M	127.3 PL	Dfld PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
-151.04000 	WNYB223 	BM		LkBlfPoliceB 	Police 	FMN 	Law Tac 
-153.95000 	KNBB508 	M		LkBlf Fire B 	Fire 	FMN 	Fire-Tac 
-154.01000 	KNBB508 	M		LkBlf Fire C 	Fire 	FMN 	Fire-Tac 
-155.23500 	KNBB508 	M		LkBlf Fire D 	Fire 	FMN 	Fire-Tac 
-155.73000 	WPYV902 	M	127.3 PL	LF Police  	Police: Former Dispatch 	FMN 	Law Tac 
-154.31000 	KSE500 	BM	127.3 PL	LR FPD Old 	Fire: Former Lincolnshire-Riverwoods FPD 	FMN 	Fire-Tac 
-153.86000 	WPYU761 	BM		LkF Fire B 	Fire 	FMN 	Fire-Tac 
-154.17500 	KSE500 	BM		LF/LB/K Fire 	Fire: Former Lake Forest/Lake Bluff/Knollwood 	FMN 	Fire-Tac 
-453.05000 	WPVV228 	RM		LFst PWrks 1 	Public Works 	FMN 	Public Works 
-453.56250 	WPVV228 	RM		LFst PWrks 2 	Public Works 	FMN 	Public Works 
-470.73750 	KLU808 	RM	97.4 PL	LkZur Police 	Police: Dispatch (w/ Hawthorn Woods, Island Lake) 	FMN 	Law Dispatch 
-477.38750 	WPWA977 	RM	97.4 PL	HWd PD Tac2 	Police: Tac-2 	FMN 	Law Tac 
-155.83500 	KTO570 	RM	127.3 PL	LZurich Fire 	Fire/Rescue: Dispatch (Lake Zurich) 	FMN 	Fire Dispatch 
-470.86250 	KWB452 	RM	97.4 PL	Lbtyv Police 	Police: Dispatch (DB Vernon Hills)  	FMN 	Law Dispatch 
-471.21250 	WIH644 	RM	97.4 PL	Lbrtv Police Alt 	Police Alternate 	FMN 	Law Tac 
-155.80500 	WQAI686 	BM		Lbty PubWrks 	Public Works 	FMN 	Public Works 
-470.86250 	WQFZ647 	RM	97.4 PL	Lbtyv Police 	Police: Dispatch (using Libertyville Repeater KWB452) 	FMN 	Law Dispatch 
-154.08500 	 	BM	192.8 PL	Linc PD C2C 	Police: Car to Car 	FMN 	Law Talk 
-154.44500 	KLF526 	B	127.3 PL	LR Fire A 	Fire: Tone-Outs 	FMN 	Fire Dispatch 
-156.00000 	KLF526 	M		LR Fire B 	Fireground 	FMN 	Fire-Tac 
-158.86500 	KLF526 	M		LR Fire C 	Fireground 	FMN 	Fire-Tac 
-153.90500 	WPAN852 	M	CSQ	LR Admin 	Fire: Administrative 	FMN 	Fire-Talk 
-37.26000 	WQTN692 	BM	CSQ	Lindenhurst SCAD 	Public Works SCADA 	FM 	Public Works 
-158.82000 	WQZT850 	RM	127.3 PL	Lindenhurst PW 	Public Works 	FMN 	Data 
-458.78750 	KD38505 	M	CSQ	Lind Water Data 	Water Data 	FMN 	Data 
-153.21500 	WPUR736 	RM	031 DPL	RED FireWest 	Fire: Dispatch (DB: RED Center) (also simulcast on 159.66) 	FMN 	Fire Dispatch 
-154.35500 	KA90488 	M	127.3 PL	LGrv/Csid FG 	Fireground (with Countryside) 	FMN 	Fire-Tac 
-154.44500 	KA90488 	M		LongGrove FG 	Fireground 	FMN 	Fire-Tac 
-154.10000 	KNJQ373 	RM	88.5 PL	Mund PD Sec 	Police: Secondary (ch 2) 	FMN 	Law Tac 
-155.63250 	KNJQ373 	M		Mund PD Port 	Police: Portables 	FMN 	Law Tac 
-155.17500 	KSB339 	M		Mund EMS 	Fire/EMS  	FMN 	Fire-Tac 
-470.46250 	WIK831 	RM	97.4 PL	N Chi Police 	Police: Dispatch 	FMN 	Law Dispatch 
-470.91250 	WIK831 	M	97.4 PL	NIPSCOM F7 	Police: Portables 	FMN 	Law Tac 
-154.08500 	KNFQ522 	BM	203.5 PL	PkCty PD C2C 	Police: Ops  	FMN 	Law Dispatch 
-155.26500 	 	M		RdLk Police6 	Police: [Ch 6] 	FMN 	Law Tac 
-155.97000 	 	M		RdLk Police8 	Police: [Ch 8] 	FMN 	Law Tac 
-156.18000 	 	M		RdLk Polic10 	Police: [Ch 10] 	FMN 	Law Tac 
-155.88000 	WQEX410 	BM	127.3 PL	RdLk PubWrks 	Public Works 	FMN 	Public Works 
-159.17250 	WPUK328 	RM	127.3 PL	RLB PubWrks 	Public Works 	FMN 	Public Works 
-151.47500 	WNAE462 	BM	127.3 PL	RLB Park Ops 	Park District Operations 	FMN 	Public Works 
-154.05500 	 	BM	127.3 PL	RLH PubWrks 	Public Works 	FMN 	Public Works 
-470.86250 	WQFZ647 	RM	97.4 PL	Lbtyv Police 	Police: Dispatch (using Libertyville Repeater KWB452) 	FMN 	Law Dispatch 
-470.93750 	 	RM	97.4 PL	470.9375 	Police 	FMN 	Law Dispatch 
-159.00000 	KCT912 	BM	77.0 PL	VHPD Admin 	Police: Admin 	FMN 	Law Talk 
-153.98000 	WQEU375 	M		VH Lightning 	Lightning Detection System (Data) 	Telm 	Data 
-154.05500 	KTC912 	BM	77.0 PL	VH PublicWrk 	Public Works / Police 	FMN 	Public Works 
-153.80750 	WPTQ891 	M		VH Parks 1 	Park District: Lifeguards/Supervisors 	FMN 	Public Works 
-156.09750 	WPTQ891 	M		VH Parks 2 	Park District: Lifeguards/Supervisors 	FMN 	Public Works 
-158.77500 	WPIW325 	BM		Wadsworth 	Village Operations [Term 6/04] 	FMN 	Public Works 
-159.14250 	WQXV561 	RM	127.3 PL	WaucondaFire 	Fire: fill-in repeater (simulcast with 155.835 Lake Zurich) 	FMN 	Fire Dispatch 
-155.65500 	WPZX967 	RM	127.3 PL	WaucondaFirecom 	Fire: Firecom 	FMN 	Fire-Talk 
-151.16750 	WQXV561 	M	127.3 PL	WaucFD Input? 	Fire: Reported input to 159.1425 repeater 	FMN 	Fire-Talk 
-460.57500 	KB92087 	M		Wauc Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-155.22750 	WPVZ983 	RM	192.8 PL	Wauc  EMA * 	Emergency Management 	FMN 	Emergency Ops 
-154.13750 	WPVZ983 	BM	127.3 PL	COMTAC1 	Emergency Management  	FMN 	Emergency Ops 
-154.01750 	WPVZ983 	M		Wauconda EMA 	Emergency Management  	FMN 	Emergency Ops 
-453.75000 	WPFQ863 	RM		WaucondaPark 	Wauconda Park District 	FMN 	Public Works 
-470.91250 	KVG211 	RM	97.4 PL	Waukgn PD 5 	Police: Tac [Ch 5/6] 	FMN 	Law Tac 
-471.12500 	 	M	114 DPL	WPD ExplPost 	Police: Explorer Post #420 [Ch 11] 	FMN 	Law Tac 
-470.56250 	 	M	152 DPL	Wauk PD SWAT 	Police: SWAT / ERT [Ch 16] 	FMN 	Law Tac 
-154.41500 	KNCE599 	BM	127.3 PL	Wauk Fire 	Fire: Dispatch (103.5 PL also reported) 	FMN 	Fire Dispatch 
-155.94000 	KNES998 	RM	127.3 PL	Wauk PubWrks 	Public Works 	FMN 	Public Works 
-151.25000 	KNCK882 	RM	131.8 PL	Wauk Park 1 	Waukegan Park District [Ch 1] 	FMN 	Public Works 
-159.24000 	KNCK882 	BM	100.0 PL	Wauk Park 2 	Waukegan Park District [Ch 2] 	FMN 	Public Works 
-159.24000 	KNCK882 	BM	127.3 PL	Wauk Park 3 	Waukegan Park District [Ch 3] 	FMN 	Public Works 
-151.37000 	KNCK882 	M	156.7 PL	Wauk Park 4 	Waukegan Park District [Ch 4] 	FMN 	Public Works 
-151.25000 	KNCK882 	RM	107.2 PL	Wauk Park 5 	Waukegan Park District / Snow Plows [Ch 5] 	FMN 	Public Works 
-151.25000 	KNCK882 	M	141.3 PL	Wauk Park 6 	Waukegan Park District [Ch 6] 	FMN 	Public Works 
-151.37000 	KNCK882 	M	114.8 PL	Wauk Park 7 	Waukegan Park District [Ch 7] 	FMN 	Public Works 
-453.98750 	WQFX953 	M		Wauk Park U1 	Waukegan Park District (Voice/Data) 	FMN 	Public Works 
-458.98750 	WQFX953 	M		Wauk Park U2 	Waukegan Park District (Voice/Data) 	FMN 	Public Works 
-151.39250 	WNJM748 	RM	205 DPL	WaukPort 1 	Waukegan Port District: Ops / Maintenance 	FMN 	Public Works 
-155.82000 	WNJM748 	BM	127.3 PL	WaukPort 2 	Waukegan Port District: Ops / Maintenance (Back-up) 	FMN 	Public Works 
-155.61000 	KNNR423 	RM	103.5 PL	WH/Wadsw PD 	Winthrop Harbor/Wadsorth Police 	FMN 	Law Tac 
-156.15000 	KNNR423 	M		WH PD c2c 	Police: Car-to-Car 	FMN 	Law Tac 
-159.06000 	KNNR423 	M		WH PD MX 	Police: Mobile Extenders 	FMN 	Law Tac 
-470.51250 	KVU408 	RM	97.4 PL	WHZionPolice 	Winthrop Harbor, Zion: Police Dispatch [Ch 5]  	FMN 	Law Dispatch 
-470.91250 	KVU408 	M	97.4 PL	NIPSCOM F7 	Police 	FMN 	Law Tac 
-154.80000 	WQFF548 	RM	97.4 PL	Zion EMA New 	EMA: Operations / Air Helo LZ  	FMN 	Emergency Ops 
-159.27000 	WQFF548 	BM		Zion EMA  	EMA: Operations  	FMN 	Emergency Ops 
-471.66250 	WQFY277 	RM	97.4 PL	ZionPW/City7 	Public Works (City 7) 	FMN 	Public Works 
-47.42000 	KXZ317 	B		RedCross N/W 	Operations 	FM 	Emergency Ops 
-155.40000 	 	BM	67.0 PL	MERCI4 67.0 	Patient Reports 	FMN 	Hospital 
-155.34000 	 	BM	67.0 PL	MERCI1 67.0 	Patient Reports 	FMN 	Hospital 
-461.77500 	 	RM	151.4 PL	GSHB Sec 	Security [NO LICENSE] 	FMN 	Security 
-155.34000 	WQJT555 	BM	100.0 PL	MERCI1 100.0 	Patient Reports 	FMN 	Hospital 
-155.40000 	WQJT555 	BM	100.0 PL	MERCI4 100.0 	Patient Reports 	FMN 	Hospital 
-462.77500 	WQBD982 	B		GSHB Paging 	Paging (CSQ) 	Telm 	Data 
-155.34000 	 	B	127.3 PL	MERCI1 127.3 	Patient Reports 	FMN 	Hospital 
-451.91250 	WQLF544 	RM		LFHosp Ops1 	Operations 	FMN 	Business 
-464.41250 	WQLF544 	M		LFHosp Ops2 	Operations 	FMN 	Business 
-469.41250 	WQLF544 	M		LFHosp Ops3 	Operations 	FMN 	Business 
-155.34000 	WQKA926 	BM	67.0 PL	MERCI1 67.0 	Patient Reports 	FMN 	Hospital 
-155.40000 	WQKA926 	BM	127.3 PL	MERCI4 127.3 	Patient Reports 	FMN 	Hospital 
-155.40000 	WQKA926 	BM	67.0 PL	MERCI4 67.0 	Patient Reports 	FMN 	Hospital 
-155.40000 	WQKA926 	BM	CSQ	MERCI4 CSQ 	Patient Reports 	FMN 	Hospital 
-451.86250 	WPQH655 	RM		MRMC Ops 1 	Operations 	FMN 	Business 
-464.32500 	WPQH655 	M		MRMC Ops 2 	Operations 	FMN 	Business 
-467.76250 	WPQH655 	M		MRMC Ops 3 	Operations 	FMN 	Business 
-467.81250 	WPQH655 	M		MRMC Ops 4 	Operations 	FMN 	Business 
-155.34000 	 	B	203.5 PL	MERCI1 203.5 	Patient Reports (0008268350 6/18 app) 	FMN 	Hospital 
-464.71250 	WQIF725 	BM		STMC Ops 1 	Operations 	FMN 	Business 
-463.31250 	WNNV992 	RM		STMC Ops 2 	Operations 	FMN 	Business 
-463.71250 	WNNV992 	RM		STMC Ops 3 	Operations 	FMN 	Business 
-464.77500 	WNNV992 	RM		STMC Ops 4 	Operations 	FMN 	Business 
-155.34000 	WQIS644 	BM	203.5 PL	MERCI1 203.5 	Patient Reports 	FMN 	Hospital 
-155.40000 	WQIS644 	BM	203.5 PL	MERCI4 203.5 	Patient Reports 	FMN 	Hospital 
-151.57250 	WQYY666 	RM	CC 5TG 16777184SL 1	Durham Antioch 	Durham School Services: Antioch Yard (repeats 158.2875 or 159.5925) 	DMR 	Schools 
-461.83750 	WQLR654 	RM		ICSB WarrnTS 	Illinois-Central School Bus (Warren Twp) 	FMN 	Schools 
-464.03750 	WQMG699 	RM		ICSB LkZrich 	Illinois-Central School Bus (Lake Zurich) 	FMN 	Schools 
-452.80000 	WQAS420 	RM	CSQ	CIC Lakeside 	Lakeside Buses (Serves Libertyville Elementary School District #70 among other) 	FMN 	Schools 
-463.30000 	WPYX382 	RM		CIC NST 1 	Transport School Children 	FMN 	Schools 
-463.62500 	WPYX382 	RM		CIC NST 2 	Transport School Children 	FMN 	Schools 
-463.66250 	WPYX382 	RM	223 DPL	CIC NST 3A 	North Shore Transit (Skokie School Bus Company) 	FMN 	Schools 
-463.66250 	WPYX382 	RM	244 DPL	CIC NST 3B 	School Buses (Kickert School Bus) 	FMN 	Schools 
-464.80000 	WPYX382 	RM		CIC NST 4 	Transport School Children 	FMN 	Schools 
-451.58750 	WQJK845 	RM	127.3 PL	Laidlaw A 	School Buses (Prairieview) 	FMN 	Schools 
-462.20000 	WPUF561 	RM	174 DPL	Laidlaw B 	School Buses  	FMN 	Schools 
-462.52500 	WPUF561 	RM	306 DPL	Laidlaw 5 	School Buses: Dispatch 5 	FMN 	Schools 
-463.42500 	WPUF561 	RM	CSQ	Laidlaw C 	School Buses  	FMN 	Schools 
-463.82500 	WPUF561 	RM	074 DPL	Laidlaw D 	School Buses (Libertyville / Vernon Hills) 	FMN 	Schools 
-155.17500 	WPVY996 	BM	116 DPL	Jones Buses1 	Buses (Rt. 83 / Rt. 137) 	FMN 	Schools 
-159.76500 	WPVY996 	BM	116 DPL	Jones Buses2 	Buses 	FMN 	Schools 
-159.76500 	WPVY996 	BM	116 DPL	Jones Buses3 	Buses (Rt. 83 / Rt. 137) 	FMN 	Schools 
-152.87750 	WPRL258 	RM		Jones Buses4 	Buses (Beach Park) 	FMN 	Schools 
-466.02500 	WQLF485 	M		SEDLC Ops 1 	Operations 	FMN 	Schools 
-466.05000 	WQLF485 	M		SEDLC Ops 2 	Operations 	FMN 	Schools 
-466.07500 	WQLF485 	M		SEDLC Ops 3 	Operations 	FMN 	Schools 
-466.12500 	WQLF485 	M		SEDLC Ops 4 	Operations 	FMN 	Schools 
-466.17500 	WQLF485 	M		SEDLC Ops 5 	Operations 	FMN 	Schools 
-451.32500 	 	M		Antioch Sch 	School District #34 	FMN 	Schools 
-461.65000 	KWL664 	RM	343 DPL	Antioch HS1 	High School (1133 Main St) 	FMN 	Schools 
-463.23750 	KWL664 	RM		Antioch HS2 	High School (1133 Main St) 	FMN 	Schools 
-463.36250 	KWL664 	RM		Antioch HS3 	High School (21736 W Grass Lake Rd) 	FMN 	Schools 
-463.48750 	KWL664 	RM		Antioch HS4 	High School (21736 W Grass Lake Rd) 	FMN 	Schools 
-463.92500 	KWL664 	RM	343 DPL	Antioch HS5 	High School/Grade Schools (1133 Main St) 	FMN 	Schools 
-464.78750 	KWL664 	RM		Antioch HS6 	High School (21736 W Grass Lake Rd) 	FMN 	Schools 
-464.92500 	KWL664 	BM		Antioch HS7 	High School (1133 Main St) (WNAD205?) 	FMN 	Schools 
-463.92500 	WNZD394 	RM		Antioch HS8 	High School (1133 Main) [Canceled] 	FMN 	Schools 
-463.86250 	 	M		StPeters Sch 	St Peters School [Expired] 	FMN 	Schools 
-456.78750 	WQGK863 	M		Emmons SD 	Emmons School District #33: Ops 	FMN 	Schools 
-461.03750 	 	M		TrinityEvSch 	Trinity Evangelical Divinity School 	FMN 	Schools 
-461.75000 	WPWI620 	RM	CC 10TG *SL 1	BigHollowBus 	Bus Dispatch 	DMR 	Schools 
-151.95500 	KD41353 	M		BGrv School3 	High School 	FMN 	Schools 
-151.52000 	WQBQ843 	RM		DTHS113 Ops1 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
-151.95500 	WQBQ843 	RM		DTHS113 Ops2 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
-159.94500 	WQBQ843 	M		DTHS113 Ops3 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
-159.99000 	WQBQ843 	M		DTHS113 Ops4 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
-160.02000 	WQBQ843 	M		DTHS113 Ops5 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
-160.12500 	WQBQ843 	M		DTHS113 Ops6 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
-160.14000 	WQBQ843 	M		DTHS113 Ops7 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
-154.57000 	WPJY218 	M		WilmetSchool 	Wilmet Elementary School [EXPIRED] 	FM 	Schools 
-151.77500 	WQHN698 	BM	026 DPL	FxLk Sch Bus 	Buses  (D114-FoxLake/SpringGrove) 	FMN 	Schools 
-452.67500 	WPNU207 	RM	364 DPL	Grant HiSchl 	Grant High School District 124 	FMN 	Schools 
-462.51250 	WPNU207 	RM	CC 7TG *SL *	Grant HS DMR 	Grant High School District 124 	DMR 	Schools 
-151.74500 	WPMY213 	BM		FSD79 Buses 	Buses  	FMN 	Schools 
-452.15000 	WQVD426 	RM		FSD79 MundElem 	Mundlein Elementary School 150 	DMR 	Schools 
-462.05000 	WQVD426 	RM		FSD79 MundElem 	Mundlein Elementary School 050 	DMR 	Schools 
-451.53750 	WPVS290 	RM		Grslk SchOp1 	Operations (1925 N Rt 83) 	FMN 	Schools 
-451.76250 	WPVS290 	RM		Grslk SchOp2 	Operations (1925 N Rt 83) 	FMN 	Schools 
-452.31250 	WPVS290 	RM		Grslk SchOp3 	Operations (1925 N Rt 83) 	FMN 	Schools 
-463.65000 	WPVS290 	RM		Grslk SchOp4 	Operations (400 N Lake St) 	FMN 	Schools 
-451.86250 	WQDZ333 	RM		Grslk HS Op1 	High School Ops  	FMN 	Schools 
-462.11250 	WQDZ333 	RM		Grslk HS Op2 	High School Ops  	FMN 	Schools 
-155.16000 	 	BM	146.2 PL	Grslk SchBus 	School Buses [No License] 	FMN 	Schools 
-462.32500 	 	M	205 DPL	Gurn School1 	Spaulding/O'Plaine/Gurnee Grade: Operations - Maint/Lunch Monitors/Principals [Ch 1] 	FMN 	Schools 
-462.62500 	 	M	205 DPL	Gurn School2 	Spaulding/O'Plaine/Gurnee Grade: Secondary [Ch 2] 	FMN 	Schools 
-464.55000 	 	M	67.0 PL	Gurn Vik Sch 	Viking Middle School Operations: Maintenance/Lunch Monitors/Principals 	FMN 	Schools 
-464.00000 	WQBY680 	RM	CC 3TG 300SL 1	HPHS113 Ops1 	Operations/Maintenance/Security/Safety (Highland Park) 	DMR 	Schools 
-464.67500 	WQBY680 	RM		HPHS113 Ops2 	Operations/Maintenance/Security/Safety (Highland Park) 	FMN 	Schools 
-451.35000 	WQBY680 	M		HPHS113 Ops3 	Operations/Maintenance/Security/Safety 	FMN 	Schools 
-451.87500 	WQBY680 	M		HPHS113 Ops4 	Operations/Maintenance/Security/Safety 	FMN 	Schools 
-452.20000 	WQBY680 	M		HPHS113 Ops5 	Operations/Maintenance/Security/Safety  	FMN 	Schools 
-461.30000 	WQBY680 	M		HPHS113 Ops6 	Operations/Maintenance/Security/Safety 	FMN 	Schools 
-461.92500 	WQBY680 	M		HPHS113 Ops7 	Operations/Maintenance/Security/Safety 	FMN 	Schools 
-153.49250 	WPNZ850 	RM	116 DPL	LkVil SchBus 	Schools Buses (poss license) 	FMN 	Schools 
-464.30000 	WPII358 	RM	CC 1TG 1SL 2	LZSD95 Bus Data 	Transportation: Vehicle Location Data 	DMR 	Data 
-451.38750 	WPUR732 	RM		CHSD128 Ops1 	Community High School District #128: Operations 	DMR 	Schools 
-451.73750 	WPUR732 	RM		CHSD128 Ops2 	Community High School District #128: Operations 	DMR 	Schools 
-452.71250 	WPUR732 	RM		CHSD128 Ops3 	Community High School District #128: Operations 	DMR 	Schools 
-452.83750 	WPUR732 	RM		CHSD128 Ops4 	Community High School District #128: Operations 	DMR 	Schools 
-464.78750 	WPUR732 	RM		CHSD128 Ops5 	Community High School District #128: Operations 	DMR 	Schools 
-463.53750 	WPLS211 	RM	107.2 PL	CHSD128 Ops6 	High School [Expired 1/03] 	FMN 	Schools 
-464.96250 	WPLS211 	RM	107.2 PL	CHSD128 Ops7 	High School [Expired 1/03] 	FMN 	Schools 
-463.53750 	WPLS211 	M	107.2 PL	CHSD128 Ops8 	High School [Expired 1/03] 	FMN 	Schools 
-464.96250 	WPLS211 	M	107.2 PL	CHSD128 Ops9 	High School [Expired 1/03] 	FMN 	Schools 
-464.32500 	 	M	88.5 PL	Bttrfld Elem 	Butterfield Elementary School (Libertyville) 	FMN 	Schools 
-464.55000 	 		123.0 PL	HighlandMS 	Highland Middle School (Libertyville) 	FMN 	Schools 
-464.60000 	 	M	123.0 PL	Rockland 	Rockland School (Libertyville) 	FMN 	Schools 
-155.57250 	 	RM	172 DPL	L-PV School 	Lincolnshire-Prarie View School District 103 [No License] 	FMN 	Schools 
-461.47500 	WPPN864 	BM	343 DPL	Mlbrn SchOld 	Buses / Operations [OLD] 	FMN 	Schools 
-461.82500 	WPPN864 	RM		Mlbrn SchNEW 	Buses / Operations [Replacing 461.475] 	FMN 	Schools 
-462.47500 	WPPA705 	RM	413 DPL	MHSch Ops 1 	High School: Security/Ops 	FMN 	Schools 
-451.70000 	WPPA705 	RM		MHSch Ops 2 	High School: Ops 	FMN 	Schools 
-452.80000 	WPPA705 	RM		MHSch Ops 3 	High School: Ops 	FMN 	Schools 
-463.82500 	WPUF561 	RM	CC 6TG 16777215SL 2	FS Bus NSSD112 	First Student (Northbrook Yard) 	DMR 	Schools 
-451.35000 	 	RM		RLAS TRBO 	Round Lake Area Schools 	DMR 	Schools 
-470.40000 	WQJM404 	RM		RLSD116 Mcge 	Magee Middle School: Ops  	FMN 	Schools 
-452.31250 	WPLG481 	RM	606 DPL	SHS Security 	Security [Ch 1] 	FMN 	Schools 
-452.68750 	WPLG481 	RM	265 DPL	SHS Athletic 	Athletics [Ch 2] 	FMN 	Schools 
-451.43750 	WPLG481 	RM	506 DPL	SHS Maintnce 	Maintenance [Ch 3] 	FMN 	Schools 
-451.63750 	WPLG481 	RM	331 DPL	SHS IT Dept 	IT Department [Ch 4] 	FMN 	Schools 
-451.41250 	WPLG481 	RM	265 DPL	SHS Bus Mon 	Bus Monitors [Ch 5] 	FMN 	Schools 
-464.42500 	WPLG481 	M	311 DPL	SHS Simplex6 	Operations [Ch 6] 	FMN 	Schools 
-464.41250 	WPLG481 	M	265 DPL	SHS Simplex7 	Operations [Ch 7] 	FMN 	Schools 
-463.75000 	WPLG481 	RM		SHS Schools 	Maintenance/Security/District Ops  	FMN 	Schools 
-461.80000 	WPLD897 	RM	CC 8TG *SL 2	WT OP BusGPS 	GPS Data  (O'Plaine Rd. Campus) 	DMR 	Data 
-461.80000 	WPLD897 	RM	CC 8TG *SL 1	WT OP Buses 	Buses (O'Plaine Rd. Campus) 	DMR 	Schools 
-464.67500 	WPLD897 	RM	CC 7TG *SL 1	WT OP SecHkp 	Security (O'Plaine Rd. Campus) 	DMR 	Schools 
-464.67500 	WPLD897 	RM	CC 7TG *SL 2	WT Houskp 	Housekeeping Crews  (O'Plaine Rd. Campus) 	DMR 	Schools 
-462.17500 	WPLD897 	RM	CC 9TG *SL 1	WT Al Sec/IT 	Security (Almond Rd. Campus) 	DMR 	Schools 
-462.17500 	WPLD897 	RM	CC 9TG *SL 2	WT Al Sec/IT 	I.T. Department (Almond Rd. Campus) 	DMR 	Schools 
-463.40000 	WPLD897 	RM	CC 9TG *SL 1	WT Al Dn/Hsk 	Security Alt. / Deans  (Almond Rd. Campus) 	DMR 	Schools 
-463.40000 	WPLD897 	RM	CC 9TG *SL 2	WT Al Dn/Hsk 	 Housekeeping Crews  (Almond Rd. Campus) 	DMR 	Schools 
-451.51260 	WPLD897 	M		WTHS 4515125 	Operations 	DMR 	Schools 
-466.06250 	WPLD897 	M		WTHS S/E/M 3 	Security after 4pm / Special Events / Maintenance (portables) [Ch 3] 	DMR 	Schools 
-466.68750 	WPLD897 	M		WTHS 4666875 	no current use (open frequency) (portables) [Ch 4] 	DMR 	Schools 
-461.38750 	WQKM551 	BM		WgnSch Brks1 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
-463.57500 	WQKM551 	BM		WgnSch Brks2 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
-452.02500 	WQKM551 	M		WgnSch Brks3 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
-452.66250 	WQKM551 	M		WgnSch Brks4 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
-452.81250 	WQKM551 	M		WgnSch Brks5 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
-457.02500 	WQKM551 	M		WgnSch Brks6 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
-457.26250 	WQKM551 	M		WgnSch Brks7 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
-451.57500 	WPMZ892 	RM		WdlndSchOps 	Operations [Expired] 	FMN 	Schools 
-464.42500 	WPMZ892 	RM	74.4 PL	WdlndSchBus 	Buses [Expired] 	FMN 	Schools 
-461.43750 	WPXS337 	BM		ZionElemSch1 	Transportation/Security 	FMN 	Schools 
-451.68750 	WPXS337 	M		ZionElemSch2 	Transportation/Security 	FMN 	Schools 
-452.23750 	WPXS337 	M		ZionElemSch3 	Transportation/Security 	FMN 	Schools 
-452.76250 	WPXS337 	M		ZionElemSch4 	Transportation/Security 	FMN 	Schools 
-457.48750 	WPXS337 	M		ZionElemSch5 	Transportation/Security 	FMN 	Schools 
-463.62500 	WPSY645 	RM	67.0 PL	ZBTHS Ops 1 	Operations 	FMN 	Schools 
-464.67500 	WPSY645 	RM		ZBTHS Ops 2 	Operations 	FMN 	Schools 
-452.35000 	WQDY298 	RM		CoAP Ops 	Admin/Security  	FMN 	Schools 
-453.36250 	KXH677 	RM	151.4 PL	CLC Police 	Police: Dispatch  	FMN 	Law Dispatch 
-463.30000 	WPBK725 	RM	151.4 PL	CLC Police 1 	Police [Expired 1/03] 	FMN 	Law Dispatch 
-464.30000 	 	M	151.4 PL	CLC Police 2 	Police [NO LICENSE] 	FMN 	Law Dispatch 
-453.90000 	KXH677 	BM	186.2 PL	CLC Police 3 	Police 	FMN 	Law Dispatch 
-453.00000 	WPSS402 	RM		CLC Police 5 	Police 	FMN 	Law Dispatch 
-461.58750 	WPSZ762 	RM		CLC Police 4 	Police  	FMN 	Law Dispatch 
-153.44500 	KZZ293 	M		CLC Maint 1 	Maintenance  	FMN 	Schools 
-154.51500 	KZZ293 	BM		CLC Maint 2 	Maintenance 	FMN 	Schools 
-464.57500 	 	M	754 DPL	CLC Maint 3 	Maintenance [NO LICENSE] 	FMN 	Schools 
-452.11250 	WQJB496 	M		CLC Career 	Career / Placement Services (On-Site Job Fairs) 	FMN 	Schools 
-472.16250 	 	RM	073 DPL	CLS Custodia 	Maintenance / Custodial / Security / Engineering [No license] 	FMN 	Schools 
-462.78750 	 	M	346 DPL	CLC Technlgy 	Technology Campus: Operations [NO LICENSE] 	FMN 	Schools 
-453.26250 	WQJZ829 	M		LCAVS Ops 1 	Operations/Security 	FMN 	Schools 
-453.68750 	WQJZ829 	M		LCAVS Ops 2 	Operations/Security 	FMN 	Schools 
-453.78750 	WQJZ829 	M		LCAVS Ops 3 	Operations/Security 	FMN 	Schools 
-458.26250 	WQJZ829 	M		LCAVS Ops 4 	Operations/Security 	FMN 	Schools 
-464.60000 	WPVN443 	RM		TIU Ops 1 	Operations 	FMN 	Schools 
-461.03750 	WPVN443 	M		TIU Ops 2 	Operations 	FMN 	Schools 
-461.66250 	WPVN443 	M		TIU Ops 3 	Operations 	FMN 	Schools 
-464.43750 	WPVN443 	M		TIU Ops 4 	Operations 	FMN 	Schools 
-464.60000 	WPVN443 	M		TIU Ops 5 	Operations 	FMN 	Schools 
-466.03750 	WPVN443 	M		TIU Ops 6 	Operations 	FMN 	Schools 
-469.60000 	WPVN443 	M		TIU Ops 7 	Operations 	FMN 	Schools 
-461.95000 	KNNL218 	RM	131.8 PL	USML Security 	Security 	FMN 	Security 
-A-Beep - Arlington Heights LTR	 LTR Standard	 Arlington Heights	Abbott Laboratories (Lake IL DMR)	 DMR Motorola Connect Plus (TRBO)	 Abbott Park	Abbott Laboratories (N Chicago)	 Motorola Type II
- North Chicago	Advocate Condell Medical Center	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Libertyville	Comlink Wireless (Metro Chicago Passport) 	 LTR Standard and Passport	 Chicago	Comlink Wireless (NXDN-61)
- NXDN NEXEDGE 4800	 Various	Comlink Wireless/Chicago Equipment Company (Metro Chicago)	 LTR Standard	 Metro Chicago	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL
-ESP Wireless 3 - 900 MHz (Chicago)	 LTR Standard	 Chicago	Lake Zurich School District 95	 DMR Motorola Connect Plus (TRBO)	 Lake Zurich	NorthShore University HealthSystem	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Various	Prairie Material Sales (Metro Chicago)	 LTR Standard	 Various	Radi-Link (Capacity Plus Multi Site)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Chicago	RadiLink (Oak Brook/Chicago)
- LTR Standard	 Oak Brook/Chicago	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	TRBOconnection-TRBOnexus	 DMR Motorola Connect Plus (TRBO)	 Various
-United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	VCNA Prairie Illinois (MetroChicago)	 Motorola Type II Smartnet	 Chicago Metro Area	Ventronics (Metro Chicago)	 LTR Standard
- Metro Chicago	
+156.21000 	158.97000  	KSA958 	RM	127.3 PL	Lake Law M/A 	Sheriff: Countywide Mutual Aid [Ch 1] (Still in use) 	FMN 	Law Dispatch 
+156.21000 	   	KSA958 	M	311 DPL	Lake DepkeJv 	Courthouse/Jail Ops/Depke Juvenile Facility 	FMN 	Corrections 
+464.47500 	469.47500  	WPJY945 	RM		Lake Crthous 	Courthouse Maintenance/Security (Waukegan) 	FMN 	Law Tac 
+156.85000 	   	 	M	CSQ	Lake SD Mari 	Sheriff: Marine Patrol - Tac-1 	FMN 	Law Tac 
+453.45000 	458.45000  	KDS792 	RM	127.3 PL	Lake M/A UHF 	Countywide Mutual Aid  	FMN 	Interop 
+154.95000 	   	 	M	110.9 PL	Lake MEG 1 	Metropolitan Enforcement Group Ch 1 	FMN 	Law Tac 
+156.00000 	   	 	M	110.9 PL	Lake MEG 2 	Metropolitan Enforcement Group Ch 2 	FMN 	Law Tac 
+165.28750 	166.53750  	 	RM	100.0 PL	Lake MEG 3 	Metropolitan Enforcement Group Ch 3 	FMN 	Law Tac 
+156.21000 	158.97000  	KSA958 	RM	127.3 PL	Lake Fire Rescue 	Fire: Rescue (County Ch -1) 	FMN 	Fire Dispatch 
+154.32500 	158.79750  	WQBZ369 	RM	127.3 PL	Lake Fire Quad 1 	Fire: Dispatch - Quad 1 	FMN 	Fire Dispatch 
+154.40000 	159.07500  	WPEV790 	RM	127.3 PL	Lake Fire Quad 2 	Fire: Dispatch - Quad 2 	FMN 	Fire Dispatch 
+153.89000 	   	KNDM242 	BM	127.3 PL	Lake Fire Quad 3 	Fire: Dispatch - Quad 3 	FMN 	Fire Dispatch 
+154.43000 	   	KNCT748 	BM	127.3 PL	Lake Fire Quad 4 	Fire: Dispatch - Quad 4 	FMN 	Fire Dispatch 
+154.37000 	   	KNCE337 	BM	127.3 PL	Lake Fireground3 	Fireground [Ch 3] / Quad2-Admin 	FMN 	Fire-Tac 
+150.79000 	   	WPUI595 	M	127.3 PL	Lake FG Green 	Fireground Green 	FMN 	Fire-Tac 
+460.51250 	   	WPYM203 	M		NLCFTA Data1 	Northwest Lake County Fire Training Cooperative: Alarms/Data 	Telm 	Data 
+465.51250 	   	WPYM203 	M		NLCFTA Data2 	Northwest Lake County Fire Training Cooperative: Alarms/Data  	Telm 	Data 
+155.00250 	   	WQKS403 	M		Lake Hazmat/Bomb 	HAZMAT/Bomb Disposal Operations (MABAS Division 4) 	FMN 	Fire-Tac 
+458.48750 	   	WQKS403 	M		Lake HMRobot 	Bomb Disposal Robot (MABAS Division 4) 	Telm 	Data 
+453.11250 	   	 	M		Lake WinHous 	Winchester House [No license] 	FMN 	Business 
+45.56000 	   	KNEJ960 	BM	127.3 PL	Lake ESDA 	ESDA 	FMN 	Emergency Ops 
+453.85000 	458.85000  	KSG305 	RM	127.3 PL	Lake Highway 	Highway Department 	FMN 	Public Works 
+453.06250 	   	 	M		Lake FrstRsA 	Lake County Forest Preserve District 	FMN 	Public Works 
+453.18750 	   	 	M	624 DPL	Lake FrstRsB 	Lake County Forest Preserve District 	FMN 	Public Works 
+155.00250 	153.92450  	WQXX762 	RM	172 DPL	SLake CERT West 	West Ops: Events/Traffic 	FMN 	Emergency Ops 
+154.79250 	   	WQQR543 	RM		SLakeCERT PrtRpt 	Portable Repeater 	FMN 	Emergency Ops 
+470.58750 	473.58750  	KTO896 	RM	97.4 PL	Antch Police 	Police: Dispatch - Antioch, Lake Villa, Lindenhurst (also Graylake, Fox Lake) 	FMN 	Law Dispatch 
+453.28750 	   	WPZA373 	F		Antch PD RF1 	Police: Remote Link - Grayslake 	FMN 	Law Dispatch 
+458.41250 	   	WPZA373 	F		Antch PD RF2 	Police: Remote Link - Lindenhurst 	FMN 	Law Dispatch 
+458.51250 	   	WPZA373 	F		Antch PD RF3 	Police: Remote Link - Antioch 	FMN 	Law Dispatch 
+458.58750 	   	WPZA373 	F		Antch PD RF4 	Police: Remote Link - Grayslake 	FMN 	Law Dispatch 
+458.63750 	   	WPZA373 	F		Antch PD RF5 	Police: Remote Link - Lake Villa 	FMN 	Law Dispatch 
+458.68750 	   	WPZA373 	F		Antch PD RF6 	Police: Remote Link - Lake Villa 	FMN 	Law Dispatch 
+453.71250 	   	WPBX953 	F		Antch PD RF7 	Police: Remote Link - Grayslake  	FMN 	Law Dispatch 
+458.88750 	   	WPBX953 	F		Antch PD RF8 	Police: Remote Link - Fox Lake 	FMN 	Law Dispatch 
+458.93750 	   	WPBX953 	F		Antch PD RF9 	Police: Remote Link - Antioch (was Grayslake) 	FMN 	Law Dispatch 
+458.03750 	   	WPBX953 	F		Antch PDRF10 	Police: Remote Link - Antioch  	FMN 	Law Dispatch 
+155.11500 	155.98500  	WQEX410 	RM	114.8 PL	CEN Police-S 	Police: Dispatch - South 	FMN 	Law Dispatch 
+155.31000 	155.97000  	 	RM	127.3 PL	CEN Police-N 	Police: Dispatch - North [Ch 1] 	FMN 	Law Dispatch 
+154.98000 	   	KXC474 	BM	127.3 PL	CEN PD Alt2 	Police: Alternate (also RLB PW) [Ch 2] 	FMN 	Law Tac 
+155.98500 	   	 	BM	114.8 PL	CEN PD c2c3 	Police: Car-to-Car [Ch 3] 	FMN 	Law Tac 
+155.64500 	   	 	BM	127.3 PL	CEN PD Tac4 	Police: Tactical/Car-to-Car [Ch 4] 	FMN 	Law Tac 
+470.81250 	473.81250  	WIH957 	RM	97.4 PL	Barr Police 	Police: Barrington - Dispatch 	FMN 	Law Dispatch 
+154.40000 	159.07500  	 	RM	127.3 PL	Lake Fire Q2 	Fire: Antioch, Greater Round Lake FPD - Dispatch 	FMN 	Fire Dispatch 
+153.89000 	159.28500  	 	RM	127.3 PL	Lake Fire Q3 	Fire: Quad 3 Dispatch 	FMN 	Fire Dispatch 
+471.23750 	474.23750  	WPVK618 	RM		CLCPN Law 1 	Police: Dispatch 	FMN 	Law Dispatch 
+471.28750 	474.28750  	WPVK618 	RM		CLCPN Law 2 	Police: Dispatch 	FMN 	Law Dispatch 
+155.73000 	156.15000  	KSA418 	RM	127.3 PL	GPSD, HiPk 	Police, Highland Park Repeater 	FMN 	Law Dispatch 
+151.30250 	156.15000  	KSA418 	RM	186.2 PL	GPSD, LkFor 	Police, Lake Forest Repeater 	FMN 	Law Dispatch 
+155.42250 	156.15000  	KSA418 	RM	186.2 PL	GPSD, Lk Blf 	Police, Lake Bluff Repeater 	FMN 	Law Dispatch 
+155.56500 	   	KSA418 	BM	127.3 PL	HighPk C-C 	Car to Car, Secondary 	FMN 	Law Talk 
+155.85000 	   	KSA418 	M	CSQ	HPPD C-C 	Car to Car 	FMN 	Law Talk 
+154.16000 	155.91000  	KSE745 	RM	192.8 PL	HPark Fire 	Highland Park Fire: Dispatch 	FMN 	Fire Dispatch 
+151.21250 	155.91000  	KSE745 	RM	192.8 PL	LkBluff Fire 	Lake Bluff Fire: Dispatch 	FMN 	Fire Dispatch 
+154.88250 	155.91000  	KSE745 	RM	192.8 PL	LkFrst FIre 	Lake Forest Fire: Dispatch 	FMN 	Fire Dispatch 
+159.15750 	   	KSE745 	M		HPFD FG 	Fireground 	FMN 	Fire-Tac 
+855.63750 	810.63750  	WNAR378 	RM	127.3 PL	Gurnee PD 	Gurnee PD DIspatch 	FMN 	Law Dispatch 
+470.51250 	473.51250  	WQFY277 	RM	97.4 PL	WHZionPolice 	Winthrop Harbor, Zion: Police Dispatch [Ch 5]  	FMN 	Law Dispatch 
+859.43750 	814.43750  	WNBG488 	RM		Gurnee PD MDT 	Gurnee PD Mobile Data Terminals (MDTS) 	FMN 	Data 
+453.41250 	   	WQGT226 	F		Zion PD RF1 	Zion Police: Remote Link (9th & Countywood Dr 	FMN 	Law Tac 
+453.91250 	   	WQGT226 	F		Zion PD RF2 	Zion Police: Remote Link (Gabriel Ave & Sharon Pl) 	FMN 	Law Tac 
+453.96250 	   	WQGT226 	F		Zion PD RF4 	Zion Police: Remote Link (9th & Countywood Dr) 	FMN 	Law Tac 
+458.11250 	   	WQGT226 	F		Zion PD RF6 	Zion Police: Remote Link (830 SheridanRd-Winthtrop Harbor) 	FMN 	Law Tac 
+458.91250 	   	WQGT226 	F		Zion PD RF7 	Zion Police: Remote Link (101 Shiloh Blvd) 	FMN 	Law Tac 
+458.96250 	   	WQGT226 	F		Zion PD RF8 	Zion Police: Remote Link (101 Shiloh Blvd) 	FMN 	Law Tac 
+151.32500 	159.43500  	WPWW203 	RM	141.3 PL	Gurnee Fire 	Fire  Dispatch 	FMN 	Fire Dispatch 
+158.79750 	   	WQBZ369 	BM	743 DPL	Zion Fire L 	Zion Fire: Local (4 bases) 	FMN 	Fire-Tac 
+153.76250 	   	KLF252 	B	127.3 PL	Lake FD Q1*S 	Zion Fire: Simulcast of 154.325 127.3 (KS5703, KFX873) 	FMN 	Fire-Tac 
+472.12500 	475.12500  	WQCV868 	RM	179.9 PL	Zion FireUHF 	Zion Fire/Rescue: Simulcast of 154.325 127.3 	FMN 	Fire Dispatch 
+453.06250 	458.06250  	KNCL897 	M		Zion Fire RF 	Zion Fire: Remote Links to 154.325 (?) 	FMN 	Fire Dispatch 
+470.31250 	473.31250  	KUS371 	RM	97.4 PL	Wauk/PC PD1 	Waukegan, Park City: Dispatch [Ch 1/2] 	FMN 	Law Dispatch 
+470.46250 	473.46250  	WIK831 	RM	97.4 PL	N Chi Police 	North Chicago Dispatch [Ch 3/4] 	FMN 	Law Dispatch 
+470.51250 	473.51250  	WQFY277 	RM	97.4 PL	WHZionPolice 	Winthrop Harbor, Zion: Dispatch [Ch 5/6] 	FMN 	Law Dispatch 
+470.91250 	473.91250  	KVU408 	RM	97.4 PL	NIPSCOM F7 	Area-Wide Repeater [Ch 7/8] 	FMN 	Law Tac 
+153.21500 	156.13500  	WPUR736 	RM	031 DPL	RED Fire North W 	RED Fire North (West, Northbrook) 	FMN 	Fire Dispatch 
+159.66000 	156.13500  	WPUR746 	RM	031 DPL	RED Fire North E 	RED Fire North (East, Winnetka) 	FMN 	Fire Dispatch 
+470.86250 	473.86250  	WQFZ647 	RM	97.4 PL	Cen Lake Co  	Police: Dispatch - Vernon Hills, Libertyville, Lincolnshire, Mundelien 	FMN 	Law Dispatch 
+471.21250 	474.21250  	WIH644  	RM	97.4 PL	Lbtyvl 2 	Libertyville F2 	FMN 	Law Talk 
+154.05500 	   	KTC912 	BM	77.0 PL	VHPD Admin  	Admin for VHPD and Lincolnshire 	FMN 	Law Talk 
+154.43000 	158.98500  	KZE480 	RM	127.3 PL	Quad 4 	Fire: Dispatch - Countryside, Libertyville, Mundelien  	FMN 	Fire Dispatch 
+156.18000 	   	 	BM	162.2 PL	Lake TS 618d 	Avon Township Roads 	FMN 	Public Works 
+173.27500 	   	WQJQ263 	F		CLCJAW Data 	Central Lake County Joint Action Water Agency (Lake Bluff) (CSQ) 	Telm 	Data 
+154.12250 	159.30750  	WQEY368 	RM		CubaTwpRoads 	Cuba Township Roads (Barrington, in use 3/13) 	NXDN 	Public Works 
+156.18000 	   	 	BM	315 DPL	Lake TS 618c 	Ela Township Roads 	FMN 	Public Works 
+151.15250 	156.18000  	WQTC308 	RM		Ela Roads 	Ela Township Roads/Snow Plows 	FMN 	Public Works 
+155.08500 	   	WRAL786 	BM		CubaTwp Sirens 	Emergency Warning Sirens 	Telm 	Emergency Ops 
+154.55500 	   	WQKQ285 	F		LakeCo WDD 	Lake County Public Water District 	Telm 	Data 
+159.12000 	   	KNDT234 	BM	127.3 PL	LkVilTS Road 	Lake Villa Township Roads 	FMN 	Public Works 
+453.93750 	   	KB74991 	M		LksSanitary1 	Lakes Region Sanitary District 	FMN 	Public Works 
+458.98750 	   	KB74991 	M		LksSanitary2 	Lakes Region Sanitary District 	FMN 	Public Works 
+151.08500 	   	KJR273 	BM	156.7 PL	LbtvTS Road2 	Libertyville Township Roads 	FMN 	Public Works 
+159.13500 	   	KJR273 	BM	156.7 PL	LbtvTS Road1 	Libertyville Township Roads 	FMN 	Public Works 
+453.05000 	458.05000  	KSI839 	RM		NShrSanitary 	North Shore Sanitary District  	FMN 	Public Works 
+156.18000 	   	KNJG726 	BM	136.5 PL	Lake TS 618b 	Vernon Township Roads 	FMN 	Public Works 
+151.02500 	   	WPBS861 	BM	179.9 PL	WrrnTS Roads 	Warren Township Roads 	FMN 	Public Works 
+156.18000 	   	WQJS223 	M		Lake TS 618a 	Wauconda Township Highway  	FMN 	Public Works 
+46.58000 	   	KSE969 	BM	114.8 PL	Antioch PubWorks 	Public Works 	FM 	Public Works 
+465.57500 	   	KSG250 	M		Antioch FD MobEx 	Fire Mobile Extenders 	FMN 	Fire-Tac 
+470.81250 	473.81250  	WIH957 	RM	97.4 PL	Barr Police 	Police: Dispatch 	FMN 	Law Dispatch 
+465.61250 	   	KSS458 	M		Barr Fire MX 	Fire: Mobile Extenders 	FMN 	Fire Dispatch 
+154.96500 	   	WQGE399 	BM	127.3 PL	Barr PubWkrs 	Public Works / Police: Tac 	FMN 	Public Works 
+151.47500 	   	WQZW925 	BM		BchPark PW 	Public Works 	FMN 	Public Works 
+45.12000 	   	KJJ443 	BM		BchPark Util 	Utilities (expired 6/2013) 	FM 	Public Works 
+956.31880 	   	 	F		BchPark WDD 	Water Distribution Data 	Telm 	Data 
+470.43750 	473.43750  	KWY222 	RM	CSQ	BGrv ESDA T1 	ESDA: Tac-1 [Expired] 	FMN 	Emergency Ops 
+470.36250 	473.36250  	KWY222 	RM	CSQ	BGrv ESDA T2 	ESDA: Tac-2 [Expired] 	FMN 	Emergency Ops 
+453.23750 	   	WNXJ781 	M		BGrv ESDA T? 	ESDA 	FMN 	Emergency Ops 
+153.87500 	   	WNRQ606 	M	186.2 PL	BGrv FD Tac2 	Fire: Tac/Admin [Ch 2]  	FMN 	Fire-Tac 
+458.38750 	   	KB82495 	M	146.2 PL	BGrv FD MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+155.08500 	   	KTS787 	M	186.2 PL	BGrv PW/Loc 	Public Works / Police: Car-to-Car / Fire: Tac 	FMN 	Public Works 
+458.28750 	   	KB82495 	F		BGrv WDD 	Water Distribution Data  	Telm 	Data 
+153.96500 	   	WQFE616 	M		BGrv Parks 1 	Buffalo Grove Park District 	FMN 	Public Works 
+154.86000 	   	WQFE616 	M		BGrv Parks 2 	Buffalo Grove Park District 	FMN 	Public Works 
+154.43000 	158.98500  	KAS677 	RM	127.3 PL	CSide FPD Dsp 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.35500 	   	WPHT663 	BM	127.3 PL	CSide FPD FG 	Fire: Fireground 	FMN 	Fire-Tac 
+154.05500 	   	KTL912 	BM	77.0 PL	PW 	VHPW, Link to VHPD 	FMN 	Fire-Talk 
+155.73000 	   	WQU355 	BM	127.3 PL	Dfld Police 	Police: Dispatch (500-series units) 	FMN 	Law Dispatch 
+155.56500 	   	WQU355 	BM	127.3 PL	Dfld PD Scnd 	Police: Secondary 	FMN 	Law Tac 
+155.85000 	   	WQU355 	M	127.3 PL	Dfld PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
+860.73750 	815.73750  	WNGC398 	RM		Dfld PD MDTs 	Police: Mobile Data Terminals (CSQ) 	Telm 	Data 
+153.86000 	   	WQS494 	BM	156.7 PL	Dfld PubWrks 	Public Works (Old Police AVLS) 	FMN 	Public Works 
+45.00000 	   	KXE702 	BM		Dfld Parks 	Deerfield Park District 	FM 	Public Works 
+470.58750 	473.58750  	KTO896 	RM	97.4 PL	FoxLk Police 	Fox Lake Police: Dispatch 	FMN 	Law Dispatch 
+465.06250 	   	KD43462 	F		FxLk PD RF 1 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
+465.13750 	   	KD43462 	F		FxLk PD RF 2 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
+465.16250 	   	KD43462 	F		FxLk PD RF 3 	Police: Remote Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
+465.23750 	   	KD43462 	F		FxLk PD RF 4 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
+465.26250 	   	KD43462 	F		FxLk PD RF 5 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
+465.28750 	   	KD43462 	F		FxLk PD RF 6 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
+465.31250 	   	KD43462 	F		FxLk PD RF 7 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
+465.33750 	   	KD43462 	F		FxLk PD RF 8 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
+465.36250 	   	KD43462 	F		FxLk PD RF 9 	Police: Receive Link - Antioch (to 470.5875) 	FMN 	Law Dispatch 
+460.05000 	   	 	M	97.4 PL	FxLk Police4 	Police: Tac 1 [NO LICENSE] 	FMN 	Law Tac 
+460.07500 	   	 	M	97.4 PL	FxLk Police5 	Police: Tac 2 [NO LICENSE] 	FMN 	Law Tac 
+460.10000 	   	 	M	97.4 PL	FxLk Police6 	Police: Tac 3 [NO LICENSE] 	FMN 	Law Tac 
+460.12500 	   	 	M	97.4 PL	FxLk Police7 	Police: Tac 4 [NO LICENSE] 	FMN 	Law Tac 
+460.15000 	   	 	M	97.4 PL	FxLk Police8 	Police: Tac 5 [NO LICENSE] 	FMN 	Law Tac 
+460.17500 	   	 	M	97.4 PL	FxLk Police9 	Police: Tac 6 [NO LICENSE] 	FMN 	Law Tac 
+460.20000 	   	 	M	97.4 PL	FxLk Polic10 	Police: Tac 7 [NO LICENSE] 	FMN 	Law Tac 
+460.22500 	   	 	M	97.4 PL	FxLk Polic11 	Police: Tac 8 [NO LICENSE] 	FMN 	Law Tac 
+460.25000 	   	 	M	97.4 PL	FxLk Polic12 	Police: Tac 9 [NO LICENSE] 	FMN 	Law Tac 
+460.27500 	   	 	M	97.4 PL	FxLk Polic13 	Police: Tac 10 [NO LICENSE] 	FMN 	Law Tac 
+460.30000 	   	 	M	97.4 PL	FxLk Polic14 	Police: Tac 11 [NO LICENSE] 	FMN 	Law Tac 
+460.32500 	   	 	M	97.4 PL	FxLk Polic15 	Police: Tac 12 [NO LICENSE] 	FMN 	Law Tac 
+460.35000 	   	 	M	97.4 PL	FxLk Polic16 	Police: Private [NO LICENSE] 	FMN 	Law Tac 
+154.04000 	   	KNGD412 	BM	127.3 PL	FxLk PW/FG 	Publc Works / Fireground 	FMN 	Public Works 
+472.60000 	475.60000  	WQKL254 	RM	343 DPL	Grlk Police 	Police: Dispatch (DB: Glenview) 	FMN 	Law Dispatch 
+458.97500 	   	 	BM	346 DPL	Grlk PD Exp 	Police: Explorers [License ?] 	FMN 	Law Tac 
+453.66250 	   	WNVT589 	M		Grlk Local 	Local Government 	FMN 	Public Works 
+158.74500 	   	 	BM	127.3 PL	Grlk PubWrks 	Public Works / Police: Local 	FMN 	Public Works 
+956.39375 	   	 	F		Grlk WDD 	Water Distribution Data 	Telm 	Data 
+151.22000 	   	WNKJ616 	BM	179.9 PL	Grlk Parks 	Grayslake Community Park District 	FMN 	Public Works 
+153.83000 	   	KNCE337 	M	127.3 PL	Grayslake FG 	Fireground [Ch 5] 	FMN 	Fire-Tac 
+155.22000 	   	KB36783 	BM		Gryslak EMS 	Fire: EMS 	FMN 	EMS-Tac 
+153.92000 	   	KLI390 	BM	179.9 PL	Gurn PubWrks 	Public Works (also Police/Fire/Building/Engineering?) 	FMN 	Public Works 
+159.42000 	151.32500  	WPBJ544 	RM	612 DPL	Gurn Parks 1 	Gurnee Park District 	FMN 	Public Works 
+159.43500 	   	WPBJ544 	B		Gurn Parks 2 	Gurnee Park District 	FMN 	Public Works 
+476.73750 	   	 	M	97.4 PL	Hwd PD Alt 	Police: Alternate 	FMN 	Law Dispatch 
+155.82000 	   	WNHN672 	BM	127.3 PL	Hwd PubWrks 	Public Works 	FMN 	Public Works 
+461.58750 	   	WQHT360 	M		HWd Golf 1 	Golf Course Ops 	FMN 	Business 
+462.28750 	   	WQHT360 	M		HWd Golf 2 	Golf Course Ops 	FMN 	Business 
+462.36250 	   	WQHT360 	M		HWd Golf 3 	Golf Course Ops 	FMN 	Business 
+463.21250 	   	WQHT360 	M		HWd Golf 4 	Golf Course Ops 	FMN 	Business 
+467.36250 	   	WQHT360 	M		HWd Golf 5 	Golf Course Ops 	FMN 	Business 
+155.73000 	154.77000  	WNLN376 	RM	127.3 PL	HPark Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.73000 	156.15000  	KSA418 	RM	127.3 PL	HPark Police 	Police: Dispatch (Highwood Repeater) 	FMN 	Law Tac 
+155.85000 	   	KSA418 	M	127.3 PL	Dfld PD c2c 	Police: Car-to-Car 	FMN 	Law Tac 
+151.07750 	155.54250  	WQXV621 	RM	031 DPL	HPk PD Alternate 	Police: Ravinia Festival, Special Events 	FMN 	Law Talk 
+154.16000 	   	KSE745 	BM	127.3 PL	HlndPk Fire 	Fire: Dispatch (Stations 31 thru 35) 	FMN 	Fire Dispatch 
+159.15750 	   	KSE745 	M		HPk Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+458.65000 	   	KM5850 	M		HPk Fire UHF 	Fire 	FMN 	Fire-Tac 
+153.86000 	   	WQM324 	BM	156.7 PL	HPrk PW SPlw 	Publc Works / Snow Plows / Police: Alternate 	FMN 	Public Works 
+453.80000 	458.80000  	KNEZ925 	RM	107.2 PL	HPk PubWrks 	Public Works  	FMN 	Public Works 
+453.61250 	   	WQEW950 	M		HPk Parks 1 	Park District: Golf Course 	FMN 	Public Works 
+458.32500 	   	WQFN460 	M		HPk Parks 2 	Park District / Recreation Center 	FMN 	Public Works 
+458.61250 	   	WQEW950 	M		HPk Parks 3 	Park District: Golf Course  	FMN 	Public Works 
+158.73000 	151.41500  	WPEH269 	RM	155 DPL	IsLk Police 	Police: Dispatch - Old (was 136.5 PL) 	FMN 	Law Dispatch 
+155.04000 	   	WQAV206 	BM	127.3 PL	IsLk PubWrks 	Public Works 	FMN 	Public Works 
+956.28125 	   	WQKC682 	M		IsLK WDD 	Water Distribution Data 	Telm 	Data 
+159.04500 	   	WNUE370 	M		Kildr PD VHF 	Police 	FMN 	Law Tac 
+154.43000 	   	 	M	127.3 PL	LF/LB/K Fire 	Fire: Lake Forest/Lake Bluff/Knollwood 	FMN 	Fire Dispatch 
+153.86000 	   	WQM326 	BM		LkBlf Police 	Police 	FMN 	Law Tac 
+155.85000 	   	KSI245 	M	127.3 PL	Dfld PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
+151.04000 	   	WNYB223 	BM		LkBlfPoliceB 	Police 	FMN 	Law Tac 
+153.95000 	   	KNBB508 	M		LkBlf Fire B 	Fire 	FMN 	Fire-Tac 
+154.01000 	   	KNBB508 	M		LkBlf Fire C 	Fire 	FMN 	Fire-Tac 
+155.23500 	   	KNBB508 	M		LkBlf Fire D 	Fire 	FMN 	Fire-Tac 
+155.73000 	156.15000  	WPYV902 	M	127.3 PL	LF Police  	Police: Former Dispatch 	FMN 	Law Tac 
+154.31000 	   	KSE500 	BM	127.3 PL	LR FPD Old 	Fire: Former Lincolnshire-Riverwoods FPD 	FMN 	Fire-Tac 
+153.86000 	   	WPYU761 	BM		LkF Fire B 	Fire 	FMN 	Fire-Tac 
+154.17500 	   	KSE500 	BM		LF/LB/K Fire 	Fire: Former Lake Forest/Lake Bluff/Knollwood 	FMN 	Fire-Tac 
+453.05000 	458.05000  	WPVV228 	RM		LFst PWrks 1 	Public Works 	FMN 	Public Works 
+453.56250 	458.56250  	WPVV228 	RM		LFst PWrks 2 	Public Works 	FMN 	Public Works 
+470.73750 	473.73750  	KLU808 	RM	97.4 PL	LkZur Police 	Police: Dispatch (w/ Hawthorn Woods, Island Lake) 	FMN 	Law Dispatch 
+477.38750 	480.38750  	WPWA977 	RM	97.4 PL	HWd PD Tac2 	Police: Tac-2 	FMN 	Law Tac 
+155.83500 	151.16750  	KTO570 	RM	127.3 PL	LZurich Fire 	Fire/Rescue: Dispatch (Lake Zurich) 	FMN 	Fire Dispatch 
+470.86250 	473.86250  	KWB452 	RM	97.4 PL	Lbtyv Police 	Police: Dispatch (DB Vernon Hills)  	FMN 	Law Dispatch 
+471.21250 	474.21250  	WIH644 	RM	97.4 PL	Lbrtv Police Alt 	Police Alternate 	FMN 	Law Tac 
+155.80500 	   	WQAI686 	BM		Lbty PubWrks 	Public Works 	FMN 	Public Works 
+470.86250 	473.86250  	WQFZ647 	RM	97.4 PL	Lbtyv Police 	Police: Dispatch (using Libertyville Repeater KWB452) 	FMN 	Law Dispatch 
+154.08500 	   	 	BM	192.8 PL	Linc PD C2C 	Police: Car to Car 	FMN 	Law Talk 
+154.44500 	   	KLF526 	B	127.3 PL	LR Fire A 	Fire: Tone-Outs 	FMN 	Fire Dispatch 
+156.00000 	   	KLF526 	M		LR Fire B 	Fireground 	FMN 	Fire-Tac 
+158.86500 	   	KLF526 	M		LR Fire C 	Fireground 	FMN 	Fire-Tac 
+153.90500 	   	WPAN852 	M	CSQ	LR Admin 	Fire: Administrative 	FMN 	Fire-Talk 
+37.26000 	   	WQTN692 	BM	CSQ	Lindenhurst SCAD 	Public Works SCADA 	FM 	Public Works 
+158.82000 	153.78500  	WQZT850 	RM	127.3 PL	Lindenhurst PW 	Public Works 	FMN 	Data 
+458.78750 	   	KD38505 	M	CSQ	Lind Water Data 	Water Data 	FMN 	Data 
+153.21500 	156.13500  	WPUR736 	RM	031 DPL	RED FireWest 	Fire: Dispatch (DB: RED Center) (also simulcast on 159.66) 	FMN 	Fire Dispatch 
+154.35500 	   	KA90488 	M	127.3 PL	LGrv/Csid FG 	Fireground (with Countryside) 	FMN 	Fire-Tac 
+154.44500 	   	KA90488 	M		LongGrove FG 	Fireground 	FMN 	Fire-Tac 
+154.10000 	156.08250  	KNJQ373 	RM	88.5 PL	Mund PD Sec 	Police: Secondary (ch 2) 	FMN 	Law Tac 
+155.63250 	   	KNJQ373 	M		Mund PD Port 	Police: Portables 	FMN 	Law Tac 
+155.17500 	   	KSB339 	M		Mund EMS 	Fire/EMS  	FMN 	Fire-Tac 
+470.46250 	473.46250  	WIK831 	RM	97.4 PL	N Chi Police 	Police: Dispatch 	FMN 	Law Dispatch 
+470.91250 	   	WIK831 	M	97.4 PL	NIPSCOM F7 	Police: Portables 	FMN 	Law Tac 
+154.08500 	   	KNFQ522 	BM	203.5 PL	PkCty PD C2C 	Police: Ops  	FMN 	Law Dispatch 
+155.26500 	   	 	M		RdLk Police6 	Police: [Ch 6] 	FMN 	Law Tac 
+155.97000 	   	 	M		RdLk Police8 	Police: [Ch 8] 	FMN 	Law Tac 
+156.18000 	   	 	M		RdLk Polic10 	Police: [Ch 10] 	FMN 	Law Tac 
+155.88000 	   	WQEX410 	BM	127.3 PL	RdLk PubWrks 	Public Works 	FMN 	Public Works 
+159.17250 	156.05250  	WPUK328 	RM	127.3 PL	RLB PubWrks 	Public Works 	FMN 	Public Works 
+151.47500 	   	WNAE462 	BM	127.3 PL	RLB Park Ops 	Park District Operations 	FMN 	Public Works 
+154.05500 	   	 	BM	127.3 PL	RLH PubWrks 	Public Works 	FMN 	Public Works 
+470.86250 	473.86250  	WQFZ647 	RM	97.4 PL	Lbtyv Police 	Police: Dispatch (using Libertyville Repeater KWB452) 	FMN 	Law Dispatch 
+470.93750 	   	 	RM	97.4 PL	470.9375 	Police 	FMN 	Law Dispatch 
+159.00000 	   	KCT912 	BM	77.0 PL	VHPD Admin 	Police: Admin 	FMN 	Law Talk 
+153.98000 	   	WQEU375 	M		VH Lightning 	Lightning Detection System (Data) 	Telm 	Data 
+154.05500 	   	KTC912 	BM	77.0 PL	VH PublicWrk 	Public Works / Police 	FMN 	Public Works 
+153.80750 	   	WPTQ891 	M		VH Parks 1 	Park District: Lifeguards/Supervisors 	FMN 	Public Works 
+156.09750 	   	WPTQ891 	M		VH Parks 2 	Park District: Lifeguards/Supervisors 	FMN 	Public Works 
+158.77500 	   	WPIW325 	BM		Wadsworth 	Village Operations [Term 6/04] 	FMN 	Public Works 
+153.89000 	159.28500  	KST932 	RM	127.3 PL	Wauc FD Tones 	Fire: Tone-outs, former dispatch 	FMN 	Fire Dispatch 
+159.14250 	154.83750  	WQXV561 	RM	127.3 PL	WaucondaFire 	Fire: fill-in repeater (simulcast with 155.835 Lake Zurich) 	FMN 	Fire Dispatch 
+155.65500 	158.94000  	WPZX967 	RM	127.3 PL	WaucondaFirecom 	Fire: Firecom 	FMN 	Fire-Talk 
+151.16750 	   	WQXV561 	M	127.3 PL	WaucFD Input? 	Fire: Reported input to 159.1425 repeater 	FMN 	Fire-Talk 
+460.57500 	465.57500  	KB92087 	M		Wauc Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+155.22750 	153.95750  	WPVZ983 	RM	192.8 PL	Wauc  EMA * 	Emergency Management 	FMN 	Emergency Ops 
+154.13750 	   	WPVZ983 	BM	127.3 PL	COMTAC1 	Emergency Management  	FMN 	Emergency Ops 
+154.01750 	   	WPVZ983 	M		Wauconda EMA 	Emergency Management  	FMN 	Emergency Ops 
+453.75000 	458.75000  	WPFQ863 	RM		WaucondaPark 	Wauconda Park District 	FMN 	Public Works 
+470.91250 	473.91250  	KVG211 	RM	97.4 PL	Waukgn PD 5 	Police: Tac [Ch 5/6] 	FMN 	Law Tac 
+471.12500 	   	 	M	114 DPL	WPD ExplPost 	Police: Explorer Post #420 [Ch 11] 	FMN 	Law Tac 
+470.56250 	   	 	M	152 DPL	Wauk PD SWAT 	Police: SWAT / ERT [Ch 16] 	FMN 	Law Tac 
+154.41500 	   	KNCE599 	BM	127.3 PL	Wauk Fire 	Fire: Dispatch (103.5 PL also reported) 	FMN 	Fire Dispatch 
+155.94000 	153.84500  	KNES998 	RM	127.3 PL	Wauk PubWrks 	Public Works 	FMN 	Public Works 
+151.25000 	159.24000  	KNCK882 	RM	131.8 PL	Wauk Park 1 	Waukegan Park District [Ch 1] 	FMN 	Public Works 
+159.24000 	   	KNCK882 	BM	100.0 PL	Wauk Park 2 	Waukegan Park District [Ch 2] 	FMN 	Public Works 
+159.24000 	   	KNCK882 	BM	127.3 PL	Wauk Park 3 	Waukegan Park District [Ch 3] 	FMN 	Public Works 
+151.37000 	   	KNCK882 	M	156.7 PL	Wauk Park 4 	Waukegan Park District [Ch 4] 	FMN 	Public Works 
+151.25000 	159.24000  	KNCK882 	RM	107.2 PL	Wauk Park 5 	Waukegan Park District / Snow Plows [Ch 5] 	FMN 	Public Works 
+151.25000 	   	KNCK882 	M	141.3 PL	Wauk Park 6 	Waukegan Park District [Ch 6] 	FMN 	Public Works 
+151.37000 	   	KNCK882 	M	114.8 PL	Wauk Park 7 	Waukegan Park District [Ch 7] 	FMN 	Public Works 
+453.98750 	   	WQFX953 	M		Wauk Park U1 	Waukegan Park District (Voice/Data) 	FMN 	Public Works 
+458.98750 	   	WQFX953 	M		Wauk Park U2 	Waukegan Park District (Voice/Data) 	FMN 	Public Works 
+151.39250 	159.01500  	WNJM748 	RM	205 DPL	WaukPort 1 	Waukegan Port District: Ops / Maintenance 	FMN 	Public Works 
+155.82000 	   	WNJM748 	BM	127.3 PL	WaukPort 2 	Waukegan Port District: Ops / Maintenance (Back-up) 	FMN 	Public Works 
+155.61000 	158.91000  	KNNR423 	RM	103.5 PL	WH/Wadsw PD 	Winthrop Harbor/Wadsorth Police 	FMN 	Law Tac 
+156.15000 	   	KNNR423 	M		WH PD c2c 	Police: Car-to-Car 	FMN 	Law Tac 
+159.06000 	   	KNNR423 	M		WH PD MX 	Police: Mobile Extenders 	FMN 	Law Tac 
+470.51250 	473.51250  	KVU408 	RM	97.4 PL	WHZionPolice 	Winthrop Harbor, Zion: Police Dispatch [Ch 5]  	FMN 	Law Dispatch 
+470.91250 	   	KVU408 	M	97.4 PL	NIPSCOM F7 	Police 	FMN 	Law Tac 
+154.80000 	159.27000  	WQFF548 	RM	97.4 PL	Zion EMA New 	EMA: Operations / Air Helo LZ  	FMN 	Emergency Ops 
+159.27000 	   	WQFF548 	BM		Zion EMA  	EMA: Operations  	FMN 	Emergency Ops 
+471.66250 	473.66250  	WQFY277 	RM	97.4 PL	ZionPW/City7 	Public Works (City 7) 	FMN 	Public Works 
+47.42000 	   	KXZ317 	B		RedCross N/W 	Operations 	FM 	Emergency Ops 
+155.40000 	   	 	BM	67.0 PL	MERCI4 67.0 	Patient Reports 	FMN 	Hospital 
+155.34000 	   	 	BM	67.0 PL	MERCI1 67.0 	Patient Reports 	FMN 	Hospital 
+461.77500 	466.77500  	 	RM	151.4 PL	GSHB Sec 	Security [NO LICENSE] 	FMN 	Security 
+155.34000 	   	WQJT555 	BM	100.0 PL	MERCI1 100.0 	Patient Reports 	FMN 	Hospital 
+155.40000 	   	WQJT555 	BM	100.0 PL	MERCI4 100.0 	Patient Reports 	FMN 	Hospital 
+462.77500 	   	WQBD982 	B		GSHB Paging 	Paging (CSQ) 	Telm 	Data 
+155.34000 	   	 	B	127.3 PL	MERCI1 127.3 	Patient Reports 	FMN 	Hospital 
+451.91250 	456.91250  	WQLF544 	RM		LFHosp Ops1 	Operations 	FMN 	Business 
+464.41250 	   	WQLF544 	M		LFHosp Ops2 	Operations 	FMN 	Business 
+469.41250 	   	WQLF544 	M		LFHosp Ops3 	Operations 	FMN 	Business 
+155.34000 	   	WQKA926 	BM	67.0 PL	MERCI1 67.0 	Patient Reports 	FMN 	Hospital 
+155.40000 	   	WQKA926 	BM	127.3 PL	MERCI4 127.3 	Patient Reports 	FMN 	Hospital 
+155.40000 	   	WQKA926 	BM	67.0 PL	MERCI4 67.0 	Patient Reports 	FMN 	Hospital 
+155.40000 	   	WQKA926 	BM	CSQ	MERCI4 CSQ 	Patient Reports 	FMN 	Hospital 
+451.86250 	456.86250  	WPQH655 	RM		MRMC Ops 1 	Operations 	FMN 	Business 
+464.32500 	   	WPQH655 	M		MRMC Ops 2 	Operations 	FMN 	Business 
+467.76250 	   	WPQH655 	M		MRMC Ops 3 	Operations 	FMN 	Business 
+467.81250 	   	WPQH655 	M		MRMC Ops 4 	Operations 	FMN 	Business 
+155.34000 	   	 	B	203.5 PL	MERCI1 203.5 	Patient Reports (0008268350 6/18 app) 	FMN 	Hospital 
+464.71250 	   	WQIF725 	BM		STMC Ops 1 	Operations 	FMN 	Business 
+463.31250 	486.31250  	WNNV992 	RM		STMC Ops 2 	Operations 	FMN 	Business 
+463.71250 	468.71250  	WNNV992 	RM		STMC Ops 3 	Operations 	FMN 	Business 
+464.77500 	469.77500  	WNNV992 	RM		STMC Ops 4 	Operations 	FMN 	Business 
+155.34000 	   	WQIS644 	BM	203.5 PL	MERCI1 203.5 	Patient Reports 	FMN 	Hospital 
+155.40000 	   	WQIS644 	BM	203.5 PL	MERCI4 203.5 	Patient Reports 	FMN 	Hospital 
+151.57250 	   	WQYY666 	RM	CC 5TG 16777184SL 1	Durham Antioch 	Durham School Services: Antioch Yard (repeats 158.2875 or 159.5925) 	DMR 	Schools 
+461.83750 	466.83750  	WQLR654 	RM	054 DPL	ICSB WarrnTS 	Illinois-Central School Bus (Warren Twp) 	FMN 	Schools 
+464.03750 	469.03750  	WQMG699 	RM		ICSB LkZrich 	Illinois-Central School Bus (Lake Zurich) 	FMN 	Schools 
+452.80000 	457.80000  	WQAS420 	RM	CSQ	CIC Lakeside 	Lakeside Buses (Serves Libertyville Elementary School District #70 among other) 	FMN 	Schools 
+463.30000 	468.30000  	WPYX382 	RM		CIC NST 1 	Transport School Children 	FMN 	Schools 
+463.62500 	468.62500  	WPYX382 	RM		CIC NST 2 	Transport School Children 	FMN 	Schools 
+463.66250 	468.66250  	WPYX382 	RM	223 DPL	CIC NST 3A 	North Shore Transit (Skokie School Bus Company) 	FMN 	Schools 
+463.66250 	468.66250  	WPYX382 	RM	244 DPL	CIC NST 3B 	School Buses (Kickert School Bus) 	FMN 	Schools 
+464.80000 	469.80000  	WPYX382 	RM		CIC NST 4 	Transport School Children 	FMN 	Schools 
+451.58750 	456.58750  	WQJK845 	RM	127.3 PL	Laidlaw A 	School Buses (Prairieview) 	FMN 	Schools 
+462.20000 	467.20000  	WPUF561 	RM	174 DPL	Laidlaw B 	School Buses  	FMN 	Schools 
+462.52500 	467.52500  	WPUF561 	RM	306 DPL	Laidlaw 5 	School Buses: Dispatch 5 	FMN 	Schools 
+463.42500 	468.42500  	WPUF561 	RM	CSQ	Laidlaw C 	School Buses  	FMN 	Schools 
+463.82500 	468.82500  	WPUF561 	RM	074 DPL	Laidlaw D 	School Buses (Libertyville / Vernon Hills) 	FMN 	Schools 
+155.17500 	   	WPVY996 	BM	116 DPL	Jones Buses1 	Buses (Rt. 83 / Rt. 137) 	FMN 	Schools 
+159.76500 	   	WPVY996 	BM	116 DPL	Jones Buses2 	Buses 	FMN 	Schools 
+159.76500 	   	WPVY996 	BM	116 DPL	Jones Buses3 	Buses (Rt. 83 / Rt. 137) 	FMN 	Schools 
+152.87750 	158.39250  	WPRL258 	RM		Jones Buses4 	Buses (Beach Park) 	FMN 	Schools 
+466.02500 	   	WQLF485 	M		SEDLC Ops 1 	Operations 	FMN 	Schools 
+466.05000 	   	WQLF485 	M		SEDLC Ops 2 	Operations 	FMN 	Schools 
+466.07500 	   	WQLF485 	M		SEDLC Ops 3 	Operations 	FMN 	Schools 
+466.12500 	   	WQLF485 	M		SEDLC Ops 4 	Operations 	FMN 	Schools 
+466.17500 	   	WQLF485 	M		SEDLC Ops 5 	Operations 	FMN 	Schools 
+451.32500 	   	 	M		Antioch Sch 	School District #34 	FMN 	Schools 
+461.65000 	466.65000  	KWL664 	RM	343 DPL	Antioch HS1 	High School (1133 Main St) 	FMN 	Schools 
+463.23750 	468.23750  	KWL664 	RM		Antioch HS2 	High School (1133 Main St) 	FMN 	Schools 
+463.36250 	468.36250  	KWL664 	RM		Antioch HS3 	High School (21736 W Grass Lake Rd) 	FMN 	Schools 
+463.48750 	468.48750  	KWL664 	RM		Antioch HS4 	High School (21736 W Grass Lake Rd) 	FMN 	Schools 
+463.92500 	468.92500  	KWL664 	RM	343 DPL	Antioch HS5 	High School/Grade Schools (1133 Main St) 	FMN 	Schools 
+464.78750 	469.78750  	KWL664 	RM		Antioch HS6 	High School (21736 W Grass Lake Rd) 	FMN 	Schools 
+464.92500 	   	KWL664 	BM		Antioch HS7 	High School (1133 Main St) (WNAD205?) 	FMN 	Schools 
+463.92500 	469.92500  	WNZD394 	RM		Antioch HS8 	High School (1133 Main) [Canceled] 	FMN 	Schools 
+463.86250 	463.98750  	 	M		StPeters Sch 	St Peters School [Expired] 	FMN 	Schools 
+456.78750 	   	WQGK863 	M		Emmons SD 	Emmons School District #33: Ops 	FMN 	Schools 
+461.03750 	   	 	M		TrinityEvSch 	Trinity Evangelical Divinity School 	FMN 	Schools 
+461.75000 	466.75000  	WPWI620 	RM	CC 10TG *SL 1	BigHollowBus 	Bus Dispatch 	DMR 	Schools 
+151.95500 	   	KD41353 	M		BGrv School3 	High School 	FMN 	Schools 
+151.52000 	159.54000  	WQBQ843 	RM		DTHS113 Ops1 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
+151.95500 	159.76000  	WQBQ843 	RM		DTHS113 Ops2 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
+159.94500 	   	WQBQ843 	M		DTHS113 Ops3 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
+159.99000 	   	WQBQ843 	M		DTHS113 Ops4 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
+160.02000 	   	WQBQ843 	M		DTHS113 Ops5 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
+160.12500 	   	WQBQ843 	M		DTHS113 Ops6 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
+160.14000 	   	WQBQ843 	M		DTHS113 Ops7 	DTHS113: Maintenance / Security / Safety 	FMN 	Schools 
+154.57000 	   	WPJY218 	M		WilmetSchool 	Wilmet Elementary School [EXPIRED] 	FM 	Schools 
+151.77500 	   	WQHN698 	BM	026 DPL	FxLk Sch Bus 	Buses  (D114-FoxLake/SpringGrove) 	FMN 	Schools 
+452.67500 	457.67500  	WPNU207 	RM	364 DPL	Grant HiSchl 	Grant High School District 124 	FMN 	Schools 
+462.51250 	467.51250  	WPNU207 	RM	CC 7TG *SL *	Grant HS DMR 	Grant High School District 124 	DMR 	Schools 
+151.74500 	   	WPMY213 	BM		FSD79 Buses 	Buses  	FMN 	Schools 
+452.15000 	457.15000  	WQVD426 	RM		FSD79 MundElem 	Mundlein Elementary School 150 	DMR 	Schools 
+462.05000 	467.05000  	WQVD426 	RM		FSD79 MundElem 	Mundlein Elementary School 050 	DMR 	Schools 
+451.53750 	456.53750  	WPVS290 	RM		Grslk SchOp1 	Operations (1925 N Rt 83) 	FMN 	Schools 
+451.76250 	456.76250  	WPVS290 	RM		Grslk SchOp2 	Operations (1925 N Rt 83) 	FMN 	Schools 
+452.31250 	457.31250  	WPVS290 	RM		Grslk SchOp3 	Operations (1925 N Rt 83) 	FMN 	Schools 
+463.65000 	468.65000  	WPVS290 	RM		Grslk SchOp4 	Operations (400 N Lake St) 	FMN 	Schools 
+451.86250 	456.86250  	WQDZ333 	RM		Grslk HS Op1 	High School Ops  	FMN 	Schools 
+462.11250 	467.11250  	WQDZ333 	RM		Grslk HS Op2 	High School Ops  	FMN 	Schools 
+155.16000 	   	 	BM	146.2 PL	Grslk SchBus 	School Buses [No License] 	FMN 	Schools 
+462.32500 	   	 	M	205 DPL	Gurn School1 	Spaulding/O'Plaine/Gurnee Grade: Operations - Maint/Lunch Monitors/Principals [Ch 1] 	FMN 	Schools 
+462.62500 	   	 	M	205 DPL	Gurn School2 	Spaulding/O'Plaine/Gurnee Grade: Secondary [Ch 2] 	FMN 	Schools 
+464.55000 	   	 	M	67.0 PL	Gurn Vik Sch 	Viking Middle School Operations: Maintenance/Lunch Monitors/Principals 	FMN 	Schools 
+464.00000 	469.00000  	WQBY680 	RM	CC 3TG 300SL 1	HPHS113 Ops1 	Operations/Maintenance/Security/Safety (Highland Park) 	DMR 	Schools 
+464.67500 	469.67500  	WQBY680 	RM		HPHS113 Ops2 	Operations/Maintenance/Security/Safety (Highland Park) 	FMN 	Schools 
+451.35000 	   	WQBY680 	M		HPHS113 Ops3 	Operations/Maintenance/Security/Safety 	FMN 	Schools 
+451.87500 	   	WQBY680 	M		HPHS113 Ops4 	Operations/Maintenance/Security/Safety 	FMN 	Schools 
+452.20000 	   	WQBY680 	M		HPHS113 Ops5 	Operations/Maintenance/Security/Safety  	FMN 	Schools 
+461.30000 	   	WQBY680 	M		HPHS113 Ops6 	Operations/Maintenance/Security/Safety 	FMN 	Schools 
+461.92500 	   	WQBY680 	M		HPHS113 Ops7 	Operations/Maintenance/Security/Safety 	FMN 	Schools 
+153.49250 	153.50750  	WPNZ850 	RM	116 DPL	LkVil SchBus 	Schools Buses (poss license) 	FMN 	Schools 
+464.30000 	469.30000  	WPII358 	RM	CC 1TG 1SL 2	LZSD95 Bus Data 	Transportation: Vehicle Location Data 	DMR 	Data 
+451.38750 	456.38750  	WPUR732 	RM		CHSD128 Ops1 	Community High School District #128: Operations 	DMR 	Schools 
+451.73750 	456.73750  	WPUR732 	RM		CHSD128 Ops2 	Community High School District #128: Operations 	DMR 	Schools 
+452.71250 	457.71250  	WPUR732 	RM		CHSD128 Ops3 	Community High School District #128: Operations 	DMR 	Schools 
+452.83750 	457.83750  	WPUR732 	RM		CHSD128 Ops4 	Community High School District #128: Operations 	DMR 	Schools 
+464.78750 	469.78750  	WPUR732 	RM		CHSD128 Ops5 	Community High School District #128: Operations 	DMR 	Schools 
+463.53750 	468.53750  	WPLS211 	RM	107.2 PL	CHSD128 Ops6 	High School [Expired 1/03] 	FMN 	Schools 
+464.96250 	469.46250  	WPLS211 	RM	107.2 PL	CHSD128 Ops7 	High School [Expired 1/03] 	FMN 	Schools 
+463.53750 	   	WPLS211 	M	107.2 PL	CHSD128 Ops8 	High School [Expired 1/03] 	FMN 	Schools 
+464.96250 	   	WPLS211 	M	107.2 PL	CHSD128 Ops9 	High School [Expired 1/03] 	FMN 	Schools 
+464.32500 	   	 	M	88.5 PL	Bttrfld Elem 	Butterfield Elementary School (Libertyville) 	FMN 	Schools 
+464.55000 	   	 		123.0 PL	HighlandMS 	Highland Middle School (Libertyville) 	FMN 	Schools 
+464.60000 	   	 	M	123.0 PL	Rockland 	Rockland School (Libertyville) 	FMN 	Schools 
+155.57250 	154.80750  	 	RM	172 DPL	L-PV School 	Lincolnshire-Prarie View School District 103 [No License] 	FMN 	Schools 
+461.47500 	   	WPPN864 	BM	343 DPL	Mlbrn SchOld 	Buses / Operations [OLD] 	FMN 	Schools 
+461.82500 	466.82500  	WPPN864 	RM		Mlbrn SchNEW 	Buses / Operations [Replacing 461.475] 	FMN 	Schools 
+462.47500 	467.47500  	WPPA705 	RM	413 DPL	MHSch Ops 1 	High School: Security/Ops 	FMN 	Schools 
+451.70000 	456.70000  	WPPA705 	RM		MHSch Ops 2 	High School: Ops 	FMN 	Schools 
+452.80000 	457.80000  	WPPA705 	RM		MHSch Ops 3 	High School: Ops 	FMN 	Schools 
+463.82500 	468.82500  	WPUF561 	RM	CC 6TG 16777215SL 2	FS Bus NSSD112 	First Student (Northbrook Yard) 	DMR 	Schools 
+451.35000 	   	 	RM		RLAS TRBO 	Round Lake Area Schools 	DMR 	Schools 
+470.40000 	474.40000  	WQJM404 	RM		RLSD116 Mcge 	Magee Middle School: Ops  	FMN 	Schools 
+452.31250 	457.31250  	WPLG481 	RM	606 DPL	SHS Security 	Security [Ch 1] 	FMN 	Schools 
+452.68750 	457.68750  	WPLG481 	RM	265 DPL	SHS Athletic 	Athletics [Ch 2] 	FMN 	Schools 
+451.43750 	456.43750  	WPLG481 	RM	506 DPL	SHS Maintnce 	Maintenance [Ch 3] 	FMN 	Schools 
+451.63750 	456.63750  	WPLG481 	RM	331 DPL	SHS IT Dept 	IT Department [Ch 4] 	FMN 	Schools 
+451.41250 	456.41250  	WPLG481 	RM	265 DPL	SHS Bus Mon 	Bus Monitors [Ch 5] 	FMN 	Schools 
+464.42500 	   	WPLG481 	M	311 DPL	SHS Simplex6 	Operations [Ch 6] 	FMN 	Schools 
+464.41250 	   	WPLG481 	M	265 DPL	SHS Simplex7 	Operations [Ch 7] 	FMN 	Schools 
+463.75000 	468.75000  	WPLG481 	RM		SHS Schools 	Maintenance/Security/District Ops  	FMN 	Schools 
+461.80000 	466.80000  	WPLD897 	RM	CC 8TG *SL 2	WT OP BusGPS 	GPS Data  (O'Plaine Rd. Campus) 	DMR 	Data 
+461.80000 	466.80000  	WPLD897 	RM	CC 8TG *SL 1	WT OP Buses 	Buses (O'Plaine Rd. Campus) 	DMR 	Schools 
+464.67500 	469.67500  	WPLD897 	RM	CC 7TG *SL 1	WT OP SecHkp 	Security (O'Plaine Rd. Campus) 	DMR 	Schools 
+464.67500 	469.67500  	WPLD897 	RM	CC 7TG *SL 2	WT Houskp 	Housekeeping Crews  (O'Plaine Rd. Campus) 	DMR 	Schools 
+462.17500 	467.17500  	WPLD897 	RM	CC 9TG *SL 1	WT Al Sec/IT 	Security (Almond Rd. Campus) 	DMR 	Schools 
+462.17500 	467.17500  	WPLD897 	RM	CC 9TG *SL 2	WT Al Sec/IT 	I.T. Department (Almond Rd. Campus) 	DMR 	Schools 
+463.40000 	468.40000  	WPLD897 	RM	CC 9TG *SL 1	WT Al Dn/Hsk 	Security Alt. / Deans  (Almond Rd. Campus) 	DMR 	Schools 
+463.40000 	468.40000  	WPLD897 	RM	CC 9TG *SL 2	WT Al Dn/Hsk 	 Housekeeping Crews  (Almond Rd. Campus) 	DMR 	Schools 
+451.51260 	   	WPLD897 	M		WTHS 4515125 	Operations 	DMR 	Schools 
+466.06250 	   	WPLD897 	M		WTHS S/E/M 3 	Security after 4pm / Special Events / Maintenance (portables) [Ch 3] 	DMR 	Schools 
+466.68750 	   	WPLD897 	M		WTHS 4666875 	no current use (open frequency) (portables) [Ch 4] 	DMR 	Schools 
+151.62500 	   	 	M	074 DPL	Wauc D118 Ops 	Wauconda District 118: Ops 	FMN 	Schools 
+151.92500 	   	WQGW320 	BM	074 DPL	Wauc D118 Buses 	Wauconda District 118: Buses 	FMN 	Schools 
+153.05750 	   	WQGW320 	M	074 DPL	Wauc D118 Ops 1 	Wauconda District 118: Ops 1 	FMN 	Schools 
+153.08750 	   	WQGW320 	M	074 DPL	Wauc D118 Ops 2 	Wauconda District 118: Ops 2 	FMN 	Schools 
+153.10250 	   	WQGW320 	M	074 DPL	Wauc D118 Ops 3 	Wauconda District 118: Ops 3 	FMN 	Schools 
+153.11750 	   	WQGW320 	M	074 DPL	Wauc D118 Ops 4 	Wauconda District 118: Ops 4 	FMN 	Schools 
+153.14750 	   	WQGW320 	M	074 DPL	Wauc D118 Ops 5 	Wauconda District 118: Ops 5 	FMN 	Schools 
+461.38750 	466.38750  	WQKM551 	BM		WgnSch Brks1 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
+463.57500 	468.57500  	WQKM551 	BM		WgnSch Brks2 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
+452.02500 	   	WQKM551 	M		WgnSch Brks3 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
+452.66250 	   	WQKM551 	M		WgnSch Brks4 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
+452.81250 	   	WQKM551 	M		WgnSch Brks5 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
+457.02500 	   	WQKM551 	M		WgnSch Brks6 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
+457.26250 	   	WQKM551 	M		WgnSch Brks7 	Transportation/Security/Ops (Brookside Campus) 	FMN 	Schools 
+451.57500 	456.57500  	WPMZ892 	RM		WdlndSchOps 	Operations [Expired] 	FMN 	Schools 
+464.42500 	469.42500  	WPMZ892 	RM	74.4 PL	WdlndSchBus 	Buses [Expired] 	FMN 	Schools 
+461.43750 	466.43750  	WPXS337 	BM		ZionElemSch1 	Transportation/Security 	FMN 	Schools 
+451.68750 	456.68750  	WPXS337 	M		ZionElemSch2 	Transportation/Security 	FMN 	Schools 
+452.23750 	   	WPXS337 	M		ZionElemSch3 	Transportation/Security 	FMN 	Schools 
+452.76250 	   	WPXS337 	M		ZionElemSch4 	Transportation/Security 	FMN 	Schools 
+457.48750 	   	WPXS337 	M		ZionElemSch5 	Transportation/Security 	FMN 	Schools 
+463.62500 	468.62500  	WPSY645 	RM	67.0 PL	ZBTHS Ops 1 	Operations 	FMN 	Schools 
+464.67500 	469.67500  	WPSY645 	RM		ZBTHS Ops 2 	Operations 	FMN 	Schools 
+452.35000 	457.35000  	WQDY298 	RM		CoAP Ops 	Admin/Security  	FMN 	Schools 
+453.36250 	458.36250  	KXH677 	RM	151.4 PL	CLC Police 	Police: Dispatch  	FMN 	Law Dispatch 
+463.30000 	468.30000  	WPBK725 	RM	151.4 PL	CLC Police 1 	Police [Expired 1/03] 	FMN 	Law Dispatch 
+464.30000 	   	 	M	151.4 PL	CLC Police 2 	Police [NO LICENSE] 	FMN 	Law Dispatch 
+453.90000 	   	KXH677 	BM	186.2 PL	CLC Police 3 	Police 	FMN 	Law Dispatch 
+453.00000 	458.00000  	WPSS402 	RM		CLC Police 5 	Police 	FMN 	Law Dispatch 
+461.58750 	466.58750  	WPSZ762 	RM		CLC Police 4 	Police  	FMN 	Law Dispatch 
+153.44500 	159.82500  	KZZ293 	M		CLC Maint 1 	Maintenance  	FMN 	Schools 
+154.51500 	   	KZZ293 	BM		CLC Maint 2 	Maintenance 	FMN 	Schools 
+464.57500 	   	 	M	754 DPL	CLC Maint 3 	Maintenance [NO LICENSE] 	FMN 	Schools 
+452.11250 	   	WQJB496 	M		CLC Career 	Career / Placement Services (On-Site Job Fairs) 	FMN 	Schools 
+472.16250 	475.16250  	 	RM	073 DPL	CLS Custodia 	Maintenance / Custodial / Security / Engineering [No license] 	FMN 	Schools 
+462.78750 	   	 	M	346 DPL	CLC Technlgy 	Technology Campus: Operations [NO LICENSE] 	FMN 	Schools 
+453.26250 	   	WQJZ829 	M		LCAVS Ops 1 	Operations/Security 	FMN 	Schools 
+453.68750 	   	WQJZ829 	M		LCAVS Ops 2 	Operations/Security 	FMN 	Schools 
+453.78750 	   	WQJZ829 	M		LCAVS Ops 3 	Operations/Security 	FMN 	Schools 
+458.26250 	   	WQJZ829 	M		LCAVS Ops 4 	Operations/Security 	FMN 	Schools 
+464.60000 	469.60000  	WPVN443 	RM		TIU Ops 1 	Operations 	FMN 	Schools 
+461.03750 	   	WPVN443 	M		TIU Ops 2 	Operations 	FMN 	Schools 
+461.66250 	   	WPVN443 	M		TIU Ops 3 	Operations 	FMN 	Schools 
+464.43750 	   	WPVN443 	M		TIU Ops 4 	Operations 	FMN 	Schools 
+464.60000 	   	WPVN443 	M		TIU Ops 5 	Operations 	FMN 	Schools 
+466.03750 	   	WPVN443 	M		TIU Ops 6 	Operations 	FMN 	Schools 
+469.60000 	   	WPVN443 	M		TIU Ops 7 	Operations 	FMN 	Schools 
+461.95000 	466.95000  	KNNL218 	RM	131.8 PL	USML Security 	Security 	FMN 	Security 
+A-Beep - Arlington Heights LTR	 LTR Standard	 Arlington Heights	Abbott Laboratories (Lake IL DMR)	 DMR Motorola Connect Plus (TRBO)	 Abbott Park	Abbott Laboratories (N Chicago)	 Motorola Type II	 North Chicago
+Advocate Condell Medical Center	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Libertyville	Comlink Wireless (Metro Chicago Passport) 	 LTR Standard and Passport	 Chicago	Comlink Wireless (NXDN-61)	 NXDN NEXEDGE 4800	 Various
+Comlink Wireless/Chicago Equipment Company (Metro Chicago)	 LTR Standard	 Metro Chicago	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+ESP Wireless 3 - 900 MHz (Chicago)	 LTR Standard	 Chicago	Lake Zurich School District 95	 DMR Motorola Connect Plus (TRBO)	 Lake Zurich	NorthShore University HealthSystem	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Prairie Material Sales (Metro Chicago)	 LTR Standard	 Various	Radi-Link (Capacity Plus Multi Site)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Chicago	RadiLink (Oak Brook/Chicago)	 LTR Standard	 Oak Brook/Chicago
+TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	TRBOconnection-TRBOnexus	 DMR Motorola Connect Plus (TRBO)	 Various	VCNA Prairie Illinois (MetroChicago)	 Motorola Type II Smartnet	 Chicago Metro Area
+Ventronics (Metro Chicago)	 LTR Standard	 Metro Chicago	

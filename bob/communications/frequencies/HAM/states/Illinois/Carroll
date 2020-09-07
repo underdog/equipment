@@ -1,43 +1,43 @@
-155.67000 	KIC390 	RM	192.8 PL	Carr Sheriff 	Sheriff: Dispatch  	FMN 	Law Dispatch 
-155.67000 	KIC390 	BM	CSQ	Carr*Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
-158.92500 	WPDH570 	M		Carr SD Aux 	Sheriff: Auxiliary 	FMN 	Law Dispatch 
-453.72500 	KIC390 	F		CarrShrfRF-A 	Sheriff: Remote Link (Savanna - FX2) 	FMN 	Law Dispatch 
-458.72500 	KIC390 	F	662 DPL	CarrShrfRF-B 	Sheriff: Remote Link (Mount Carroll - FX1) 	FMN 	Law Dispatch 
-460.37500 	KIC390 	M		Carr Shrf MX 	Sheriff: Mobile Extenders ? 	FMN 	Law Tac 
-156.09000 	KIC390 	M		Carr Shrf M 	Sheriff: Mobile 	FMN 	Law Tac 
-39.50000 	KSB256 	BM	CSQ	CarrShrf LB1 	Sheriff: Low Band 1 	FM 	Law Tac 
-39.66000 	KSB256 	BM	CSQ	CarrShrf LB2 	Sheriff: Low Band 2 	FM 	Law Tac 
-159.45000 	KNCM562 	BM	CSQ	Carr FD New 	Fire: New 	FMN 	Fire Dispatch 
-155.02500 	KIC390 	RM	CSQ	Carroll Fire/EMS 	Fire/EMS: Paging / ESDA (D712 in) 	FMN 	Fire Dispatch 
-151.39250 	KNCM562 	RM	233.6 PL	Carr Fire/EMS E 	Fire/EMS: Dispatch - East (at Shannon) 	FMN 	Fire Dispatch 
-155.83500 	WNUX997 	RM	131.8 PL	Carr Fire/EMS W 	Fire/EMS: Dispatch - West (at Savanna) 	FMN 	Fire Dispatch 
-156.12000 	KRB624 	BM	123.0 PL	Carr Highway 	Highway / Sheriff: Car-to-Car 	FMN 	Public Works 
-155.34000 	WPKF466 	B		MERCI-1 	Patient Reports [Expired] 	FMN 	Hospital 
-151.08500 	WPDK651 	BM		WysxTS Roads 	Wysox Township Road Maintenance (Milledgeville) 	FMN 	Public Works 
-156.12000 	WNAW701 	BM		ElkGTS Roads 	Elkhorn Grove Township Road Maintenance 	FMN 	Public Works 
-159.10500 	WPNZ225 	BM		WdlndTS Road 	Woodland Township Road Maintenance 	FMN 	Public Works 
-159.13500 	WNAW701 	BM		ElkhnTS Road 	Elkhorn Grove Township Road Maintenance 	FMN 	Public Works 
-155.38500 	WPXQ830 	BM		Chdwk Police 	Police 	FMN 	Law Dispatch 
-154.32500 	KAW728 	BM		Lanark Fire 	Fireground 	FMN 	Fire-Tac 
-158.89500 	WNXC362 	M		LanarkPubWrk 	Public Works 	FMN 	Public Works 
-155.22000 	 			Mldgvl EMS 	EMS 	FMN 	Hospital 
-155.77500 	WNXJ869 	BM		Mldgvl PWrks 	Public Works 	FMN 	Public Works 
-154.98000 	WPCB738 	RM		MtCarrolFire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.31000 	KTE457 	BM		MtCarroll FG 	Fireground 	FMN 	Fire-Tac 
-155.88000 	WNVQ886 	BM		MtCarroll PW 	Public Works / Police: Local 	FMN 	Public Works 
-155.25000 	KSF251 	BM	186.2 PL	SavanaPolice 	Police: Dispatch 	FMN 	Law Dispatch 
-155.83500 	WNUX997 	RM	127.3 PL	SavanaPubWrk 	Public Works (also Fire/EMS***) 	FMN 	Public Works 
-154.38500 	KNFQ945 	BM		Shannon FG 	Fireground 	FMN 	Fire-Tac 
-158.74500 	KRV275 	BM		Shannon PW 	Public Works [Expired 12/14] 	FMN 	Public Works 
-159.04500 	WQCS381 	RM		Thom Police 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
-154.14500 	WPZN678 	BM		Thompson FG 	Fireground 	FMN 	Fire-Tac 
-154.14500 	 	M		Thmsn FD Alt 	Fire: Local Alternate 	FMN 	Fire-Tac 
-151.80500 	WNVX602 	BM		EstlndSchBus 	School Buses 	FMN 	Schools 
-152.99000 	WQCZ959 	RM		WC Sch Bus 	Buses 	FMN 	Schools 
-154.57000 	 	M		Thmsn School 	School Ops 	FM 	Schools 
-155.22000 	WNXW719 	BM	186.2 PL	MC SchBus 	Buses? [Canceled 9/06] 	FMN 	Schools 
-155.29500 	WPAV859 	BM		ThmsnSchBus 	Buses [Canceled 5/07] 	FMN 	Schools 
-118.65000 	KHN7 	BM		SFY AWOS-3 	Weather AWOS-3 	AM 	Aircraft 
-122.70000 	 	BM	CSQ	SFY CTAF 	CTAF/UNICOM 	AM 	Aircraft 
-Administrative United States Penitentiary, Thomson	 Project 25 Phase I	 Thomson	Alliant Energy	 DMR Tier 3	 Various	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I
- Northern IL	Dairyland Power Cooperative	 DMR Tier 3	 Various	
+155.67000 	159.04500  	KIC390 	RM	192.8 PL	Carr Sheriff 	Sheriff: Dispatch  	FMN 	Law Dispatch 
+155.67000 	   	KIC390 	BM	CSQ	Carr*Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
+158.92500 	   	WPDH570 	M		Carr SD Aux 	Sheriff: Auxiliary 	FMN 	Law Dispatch 
+453.72500 	   	KIC390 	F		CarrShrfRF-A 	Sheriff: Remote Link (Savanna - FX2) 	FMN 	Law Dispatch 
+458.72500 	   	KIC390 	F	662 DPL	CarrShrfRF-B 	Sheriff: Remote Link (Mount Carroll - FX1) 	FMN 	Law Dispatch 
+460.37500 	   	KIC390 	M		Carr Shrf MX 	Sheriff: Mobile Extenders ? 	FMN 	Law Tac 
+156.09000 	   	KIC390 	M		Carr Shrf M 	Sheriff: Mobile 	FMN 	Law Tac 
+39.50000 	   	KSB256 	BM	CSQ	CarrShrf LB1 	Sheriff: Low Band 1 	FM 	Law Tac 
+39.66000 	   	KSB256 	BM	CSQ	CarrShrf LB2 	Sheriff: Low Band 2 	FM 	Law Tac 
+159.45000 	   	KNCM562 	BM	CSQ	Carr FD New 	Fire: New 	FMN 	Fire Dispatch 
+155.02500 	158.76000  	KIC390 	RM	CSQ	Carroll Fire/EMS 	Fire/EMS: Paging / ESDA (D712 in) 	FMN 	Fire Dispatch 
+151.39250 	156.20250  	KNCM562 	RM	233.6 PL	Carr Fire/EMS E 	Fire/EMS: Dispatch - East (at Shannon) 	FMN 	Fire Dispatch 
+155.83500 	158.94000  	WNUX997 	RM	131.8 PL	Carr Fire/EMS W 	Fire/EMS: Dispatch - West (at Savanna) 	FMN 	Fire Dispatch 
+156.12000 	   	KRB624 	BM	123.0 PL	Carr Highway 	Highway / Sheriff: Car-to-Car 	FMN 	Public Works 
+155.34000 	   	WPKF466 	B		MERCI-1 	Patient Reports [Expired] 	FMN 	Hospital 
+151.08500 	   	WPDK651 	BM		WysxTS Roads 	Wysox Township Road Maintenance (Milledgeville) 	FMN 	Public Works 
+156.12000 	   	WNAW701 	BM		ElkGTS Roads 	Elkhorn Grove Township Road Maintenance 	FMN 	Public Works 
+159.10500 	   	WPNZ225 	BM		WdlndTS Road 	Woodland Township Road Maintenance 	FMN 	Public Works 
+159.13500 	   	WNAW701 	BM		ElkhnTS Road 	Elkhorn Grove Township Road Maintenance 	FMN 	Public Works 
+155.38500 	   	WPXQ830 	BM		Chdwk Police 	Police 	FMN 	Law Dispatch 
+154.32500 	   	KAW728 	BM		Lanark Fire 	Fireground 	FMN 	Fire-Tac 
+158.89500 	   	WNXC362 	M		LanarkPubWrk 	Public Works 	FMN 	Public Works 
+155.22000 	   	 			Mldgvl EMS 	EMS 	FMN 	Hospital 
+155.77500 	   	WNXJ869 	BM		Mldgvl PWrks 	Public Works 	FMN 	Public Works 
+154.98000 	158.95500  	WPCB738 	RM		MtCarrolFire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.31000 	   	KTE457 	BM		MtCarroll FG 	Fireground 	FMN 	Fire-Tac 
+155.88000 	   	WNVQ886 	BM		MtCarroll PW 	Public Works / Police: Local 	FMN 	Public Works 
+155.25000 	   	KSF251 	BM	186.2 PL	SavanaPolice 	Police: Dispatch 	FMN 	Law Dispatch 
+155.83500 	158.94000  	WNUX997 	RM	127.3 PL	SavanaPubWrk 	Public Works (also Fire/EMS***) 	FMN 	Public Works 
+154.38500 	   	KNFQ945 	BM		Shannon FG 	Fireground 	FMN 	Fire-Tac 
+158.74500 	   	KRV275 	BM		Shannon PW 	Public Works [Expired 12/14] 	FMN 	Public Works 
+159.04500 	154.95000  	WQCS381 	RM		Thom Police 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
+154.14500 	   	WPZN678 	BM		Thompson FG 	Fireground 	FMN 	Fire-Tac 
+154.14500 	   	 	M		Thmsn FD Alt 	Fire: Local Alternate 	FMN 	Fire-Tac 
+151.80500 	   	WNVX602 	BM		EstlndSchBus 	School Buses 	FMN 	Schools 
+152.99000 	159.49500  	WQCZ959 	RM		WC Sch Bus 	Buses 	FMN 	Schools 
+154.57000 	   	 	M		Thmsn School 	School Ops 	FM 	Schools 
+155.22000 	   	WNXW719 	BM	186.2 PL	MC SchBus 	Buses? [Canceled 9/06] 	FMN 	Schools 
+155.29500 	   	WPAV859 	BM		ThmsnSchBus 	Buses [Canceled 5/07] 	FMN 	Schools 
+118.65000 	   	KHN7 	BM		SFY AWOS-3 	Weather AWOS-3 	AM 	Aircraft 
+122.70000 	   	 	BM	CSQ	SFY CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+Administrative United States Penitentiary, Thomson	 Project 25 Phase I	 Thomson	Alliant Energy	 DMR Tier 3	 Various	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL
+Dairyland Power Cooperative	 DMR Tier 3	 Various	

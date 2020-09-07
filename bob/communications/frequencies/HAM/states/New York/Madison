@@ -1,35 +1,35 @@
-460.06250 	WQLN443 	B		MC Fire/EMS 	Fire/EMS Alerting 	FMN 	Fire Dispatch 
-453.16250 	WQLN443 	B		FireDisp UHF 	Simulcast of Fire Dispatch Talkgroup 	FMN 	Fire Dispatch 
-453.91250 	WQOH963 	M	156.7 PL	MC Tac 3 	Tac 3 	FMN 	Fire-Tac 
-453.98750 	WQOH963 	M	156.7 PL	MC Tac 4 	Tac 4 	FMN 	Fire-Tac 
-453.88750 	WQOH963 	M	156.7 PL	MC Tac 6 	Tac 6 	FMN 	Fire-Tac 
-453.96250 	WQOH963 	M	156.7 PL	MC Tac 7 	Tac 7 	FMN 	Fire-Tac 
-453.93750 	WQOH963 	M	156.7 PL	MC Tac 8 	Tac 8 	FMN 	Fire-Tac 
-453.08750 	WQOH963 	M	156.7 PL	MC Tac 9 	Tac 9 	FMN 	Fire-Tac 
-458.98750 	WQOH963 	M	156.7 PL	MC FirePol 	Fire Police 	FMN 	Fire-Tac 
-460.62500 	WPAF751 	RM	632 DPL	MadisonCo FD 	Madison County Fire 	FMN 	Fire-Talk 
-460.57500 	WNZW398 	M	82.5 PL	MadisonCo FD 	Madison County Fire 	FMN 	Fire-Talk 
-460.60000 	WNZW398 	M	82.5 PL	MadisonCo FD 	Madison County Fire 	FMN 	Fire-Talk 
-45.24000 	KSO960 	BM		MadisonCoEMO 	Madison County Emergency Management 	FM 	Emergency Ops 
-45.44000 	KSO960 	BM		MadisonCoEMO 	Madison County Emergency Management 	FM 	Emergency Ops 
-460.12500 	WPVX795 	RM		MadisonCo PS 	Madison County Public Safety 	P25 	Multi-Talk 
-460.40000 	WPVX795 	RM		MadisonCo PS 	Madison County Public Safety 	P25 	Multi-Talk 
-158.74500 	KEO306 	RM	173.8 PL	Brkfield Hwy 	Highway Department (shared with Brookfield CSD Buses) 	FMN 	Public Works 
-453.55000 	WNVD377 	RM	664 DPL	CnstotaDPW 	Canastota DPW 	FMN 	Public Works 
-154.98000 	KNAL545 	RM	624 DPL	CazenoviaHwy 	Highway Department 	FMN 	Public Works 
-159.19500 	WPAX644 	BM	118.8 PL	Fenner Hwy 	Highway Department 	FMN 	Public Works 
-156.10500 	KZI270 	RM	123.0 PL	Lenox Hwy 	Highway Department 	FMN 	Public Works 
-154.03250 	WQBT807 	RM	107.2 PL	Oneida Parks 	Parks and Recreation 	FMN 	Public Works 
-453.25000 	WPKV259 	RM	107.2 PL	Oneida DPW 	DPW 	FMN 	Public Works 
-155.82000 	KEI616 	RM	97.4 PL	SullivanDPW 	Town of Sullivan DPW 	FMN 	Public Works 
-452.10000 	WPRL407 	RM	100.0 PL	Colgate Univ 	Colgate University Security 	FMN 	Security 
-155.83500 	KNCW938 	BM	156 DPL	CazSchBuses1 	Cazenovia School Buses - Ch 1 	FMN 	Schools 
-153.84500 	KNCW938 	BM	156 DPL	CazSchBuses2 	Cazenovia School Buses - Ch 2 	FMN 	Schools 
-155.16000 	WRU825 	BM	118.8 PL	ChittSchBus 	Chittenango Central School Buses 	FMN 	Schools 
-464.25000 	WNFM306 	RM	123.0 PL	Hamilton CSD 	Hamilton CSD Buses 	FMN 	Schools 
-464.25000 	WNFM306 	RM	141.3 PL	M-E CSD Bus 	Morrisville-Eaton CSD Buses 	FMN 	Schools 
-464.02500 	WNFM306 	RM	203.5 PL	Oneida CSD 	Oneida City CSD Buses 	FMN 	Schools 
-BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	JPJ Communications (DMR)	 DMR Hytera XPT	 Utica	JPJ Communications (MPT-1327)	 MPT-1327 Standard
- Utica area	Mobiletech Communications	 LTR Net	 Various	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	Oneida Herkimer Madison School Cooperative
- MPT-1327 Standard	 Regional	Point Place Casino	 DMR Hytera XPT	 Bridgeport	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various
+460.06250 	   	WQLN443 	B		MC Fire/EMS 	Fire/EMS Alerting 	FMN 	Fire Dispatch 
+453.16250 	   	WQLN443 	B		FireDisp UHF 	Simulcast of Fire Dispatch Talkgroup 	FMN 	Fire Dispatch 
+453.91250 	   	WQOH963 	M	156.7 PL	MC Tac 3 	Tac 3 	FMN 	Fire-Tac 
+453.98750 	   	WQOH963 	M	156.7 PL	MC Tac 4 	Tac 4 	FMN 	Fire-Tac 
+453.88750 	   	WQOH963 	M	156.7 PL	MC Tac 6 	Tac 6 	FMN 	Fire-Tac 
+453.96250 	   	WQOH963 	M	156.7 PL	MC Tac 7 	Tac 7 	FMN 	Fire-Tac 
+453.93750 	   	WQOH963 	M	156.7 PL	MC Tac 8 	Tac 8 	FMN 	Fire-Tac 
+453.08750 	   	WQOH963 	M	156.7 PL	MC Tac 9 	Tac 9 	FMN 	Fire-Tac 
+458.98750 	   	WQOH963 	M	156.7 PL	MC FirePol 	Fire Police 	FMN 	Fire-Tac 
+460.62500 	465.62500  	WPAF751 	RM	632 DPL	MadisonCo FD 	Madison County Fire 	FMN 	Fire-Talk 
+460.57500 	   	WNZW398 	M	82.5 PL	MadisonCo FD 	Madison County Fire 	FMN 	Fire-Talk 
+460.60000 	   	WNZW398 	M	82.5 PL	MadisonCo FD 	Madison County Fire 	FMN 	Fire-Talk 
+45.24000 	   	KSO960 	BM		MadisonCoEMO 	Madison County Emergency Management 	FM 	Emergency Ops 
+45.44000 	   	KSO960 	BM		MadisonCoEMO 	Madison County Emergency Management 	FM 	Emergency Ops 
+460.12500 	465.12500  	WPVX795 	RM		MadisonCo PS 	Madison County Public Safety 	P25 	Multi-Talk 
+460.40000 	465.40000  	WPVX795 	RM		MadisonCo PS 	Madison County Public Safety 	P25 	Multi-Talk 
+158.74500 	154.10000  	KEO306 	RM	173.8 PL	Brkfield Hwy 	Highway Department (shared with Brookfield CSD Buses) 	FMN 	Public Works 
+453.55000 	458.55000  	WNVD377 	RM	664 DPL	CnstotaDPW 	Canastota DPW 	FMN 	Public Works 
+154.98000 	158.83500  	KNAL545 	RM	624 DPL	CazenoviaHwy 	Highway Department 	FMN 	Public Works 
+159.19500 	   	WPAX644 	BM	118.8 PL	Fenner Hwy 	Highway Department 	FMN 	Public Works 
+156.10500 	159.04500  	KZI270 	RM	123.0 PL	Lenox Hwy 	Highway Department 	FMN 	Public Works 
+154.03250 	158.90250  	WQBT807 	RM	107.2 PL	Oneida Parks 	Parks and Recreation 	FMN 	Public Works 
+453.25000 	458.25000  	WPKV259 	RM	107.2 PL	Oneida DPW 	DPW 	FMN 	Public Works 
+155.82000 	153.75500  	KEI616 	RM	97.4 PL	SullivanDPW 	Town of Sullivan DPW 	FMN 	Public Works 
+452.10000 	457.10000  	WPRL407 	RM	100.0 PL	Colgate Univ 	Colgate University Security 	FMN 	Security 
+155.83500 	   	KNCW938 	BM	156 DPL	CazSchBuses1 	Cazenovia School Buses - Ch 1 	FMN 	Schools 
+153.84500 	   	KNCW938 	BM	156 DPL	CazSchBuses2 	Cazenovia School Buses - Ch 2 	FMN 	Schools 
+155.16000 	   	WRU825 	BM	118.8 PL	ChittSchBus 	Chittenango Central School Buses 	FMN 	Schools 
+464.25000 	469.25000  	WNFM306 	RM	123.0 PL	Hamilton CSD 	Hamilton CSD Buses 	FMN 	Schools 
+464.25000 	469.25000  	WNFM306 	RM	141.3 PL	M-E CSD Bus 	Morrisville-Eaton CSD Buses 	FMN 	Schools 
+464.02500 	469.02500  	WNFM306 	RM	203.5 PL	Oneida CSD 	Oneida City CSD Buses 	FMN 	Schools 
+BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	Central New York Interoperable Communications Consortium (CNYICC)	 Project 25 Phase II	 Regional	JPJ Communications (DMR)	 DMR Hytera XPT	 Utica
+JPJ Communications (MPT-1327)	 MPT-1327 Standard	 Utica area	Mobiletech Communications	 LTR Net	 Various	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide
+Oneida Herkimer Madison School Cooperative	 MPT-1327 Standard	 Regional	Point Place Casino	 DMR Hytera XPT	 Bridgeport	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various
 Third Mobile Communications (800 MHz)	 LTR Standard	 Sullivan	Third Mobile Communications (UHF)	 LTR Standard	 Sullivan	

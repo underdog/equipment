@@ -1,29 +1,28 @@
-155.08500 	WQDK892 	RM		RneCoSOVHF 	Roane County Sheriff - Dispatch 	FMN 	Law Dispatch 
-155.08500 	WQDK892 	RM	190 NAC	RneCoSOP25 	Roane County Sheriff -- see above 	P25 	Law Dispatch 
-33.48000 	KNBL466 	BM		RneCoFD Dp 	Roane County Fire - Dispatch 	FM 	Fire Dispatch 
-451.30000 	KNBL466 	F		RneCoFDSprLk 	Roane County Fire - UHF Link (Spencer) 	FM 	Fire Dispatch 
-456.30000 	KNBL466 	F		RneCoFDNtnLk 	Roane County Fire - UHF Link (Newton) 	FM 	Fire Dispatch 
-151.25750 	WQFC325 	RM	74.4 PL	Clover VFDp 	Clover / Roane VFD - Dispatch 	FMN 	Fire Dispatch 
-159.63000 	 	M	97.4 PL	CloverVFDPv3 	Clover / Roane VFD - Private 	FM 	Fire-Talk 
-153.77000 	WNZU339 	BM	CSQ	GndvHrmyVFD 	Gandeeville / Harmony VFD 	FMN 	Fire Dispatch 
-156.10500 	WQEZ310 	RM	365 DPL	Nwtn VFD Dp 	Newton VFD - Dispatch 	FMN 	Fire Dispatch 
-159.64500 	 	M	162.2 PL	Nwtn VFD Fg1 	Newton VFD - Fireground 1 	FM 	Fire-Tac 
-159.52500 	 	M	162.2 PL	Nwtn VFD Fg2 	Newton VFD - Fireground 2 	FM 	Fire-Tac 
-154.23500 	WQKU390 	RM	731 DPL	Reedy VFD Dp 	Reedy VFD - Dispatch 	FMN 	Fire Dispatch 
-151.00250 	WQEX638 	RM	162.2 PL	WaltonVFD Dp 	Walton VFD - Dispatch 	FMN 	Fire Dispatch 
-153.37500 	 	M	162.2 PL	WaltonVFD T2 	Walton VFD - Tactical 2 	FM 	Fire-Tac 
-152.27750 	WQHF797 	RM	94.8 PL	RneCoEMS Dp 	Roane County EMS - Dispatch 	FMN 	EMS Dispatch 
-155.22000 	 	BM	94.8 PL	RneCoEMS Pv 	Roane County EMS - Private 	FM 	EMS-Tac 
-155.34000 	 	BM	CSQ	RneCo EMS SW 	Roane County EMS - Statewide 	FM 	Hospital 
-155.16000 	 	BM	CSQ	Healthnet 2 	HealthNet 2 	FM 	EMS Dispatch 
-155.40000 	 	BM	123.0 PL	WesCom 	Wescom Medical Communications 	FM 	Hospital 
-453.85000 	WQFW579 	RM		RneCo Svcs 	Roane Co Services 	FMN 	Public Works 
-156.16500 	WQEW369 	RM	123.0 PL	SpencerFDp 	Spencer FD - Dispatch 	FMN 	Fire Dispatch 
-156.16500 	WQEW369 	BM	123.0 PL	SpencerFD T1 	Spencer FD - Tactical 1 	FMN 	Fire-Tac 
-156.16500 	WQEW369 	BM	94.8 PL	SpencerFD T2 	Spencer FD - Tactical 2 	FMN 	Fire-Tac 
-154.23500 	WQKU390 	M	123.0 PL	SpencerFD T3 	Spencer FD - Tactical 3 	FMN 	Fire-Tac 
-39.96000 	KQG289 	BM		SpencerPDTac 	Spencer Police - Tactical 	FMN 	Law Tac 
-39.98000 	KQG289 	BM	141.3 PL	SpencerPD Dp 	Spencer Police - Dispatch 	FMN 	Law Dispatch 
-154.11500 	KQG289 	BM	107.2 PL	Spencer PbWk 	Spencer Public Works 	FMN 	Public Works 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	First Energy	 Project 25 Phase I	 Various	West Virginia Statewide Interoperability Radio Network (SIRN) 	 Project 25 Phase I
- Statewide	
+155.08500 	151.05500  	WQDK892 	RM		RneCoSOVHF 	Roane County Sheriff - Dispatch 	FMN 	Law Dispatch 
+155.08500 	151.05500  	WQDK892 	RM	190 NAC	RneCoSOP25 	Roane County Sheriff -- see above 	P25 	Law Dispatch 
+33.48000 	   	KNBL466 	BM		RneCoFD Dp 	Roane County Fire - Dispatch 	FM 	Fire Dispatch 
+451.30000 	   	KNBL466 	F		RneCoFDSprLk 	Roane County Fire - UHF Link (Spencer) 	FM 	Fire Dispatch 
+456.30000 	   	KNBL466 	F		RneCoFDNtnLk 	Roane County Fire - UHF Link (Newton) 	FM 	Fire Dispatch 
+151.25750 	155.56500  	WQFC325 	RM	74.4 PL	Clover VFDp 	Clover / Roane VFD - Dispatch 	FMN 	Fire Dispatch 
+159.63000 	   	 	M	97.4 PL	CloverVFDPv3 	Clover / Roane VFD - Private 	FM 	Fire-Talk 
+153.77000 	   	WNZU339 	BM	CSQ	GndvHrmyVFD 	Gandeeville / Harmony VFD 	FMN 	Fire Dispatch 
+156.10500 	159.52500  	WQEZ310 	RM	365 DPL	Nwtn VFD Dp 	Newton VFD - Dispatch 	FMN 	Fire Dispatch 
+159.64500 	   	 	M	162.2 PL	Nwtn VFD Fg1 	Newton VFD - Fireground 1 	FM 	Fire-Tac 
+159.52500 	   	 	M	162.2 PL	Nwtn VFD Fg2 	Newton VFD - Fireground 2 	FM 	Fire-Tac 
+154.23500 	159.33000  	WQKU390 	RM	731 DPL	Reedy VFD Dp 	Reedy VFD - Dispatch 	FMN 	Fire Dispatch 
+151.00250 	158.96250  	WQEX638 	RM	162.2 PL	WaltonVFD Dp 	Walton VFD - Dispatch 	FMN 	Fire Dispatch 
+153.37500 	   	 	M	162.2 PL	WaltonVFD T2 	Walton VFD - Tactical 2 	FM 	Fire-Tac 
+152.27750 	157.53750  	WQHF797 	RM	94.8 PL	RneCoEMS Dp 	Roane County EMS - Dispatch 	FMN 	EMS Dispatch 
+155.22000 	   	 	BM	94.8 PL	RneCoEMS Pv 	Roane County EMS - Private 	FM 	EMS-Tac 
+155.34000 	   	 	BM	CSQ	RneCo EMS SW 	Roane County EMS - Statewide 	FM 	Hospital 
+155.16000 	   	 	BM	CSQ	Healthnet 2 	HealthNet 2 	FM 	EMS Dispatch 
+155.40000 	   	 	BM	123.0 PL	WesCom 	Wescom Medical Communications 	FM 	Hospital 
+453.85000 	458.85000  	WQFW579 	RM		RneCo Svcs 	Roane Co Services 	FMN 	Public Works 
+156.16500 	159.03000  	WQEW369 	RM	123.0 PL	SpencerFDp 	Spencer FD - Dispatch 	FMN 	Fire Dispatch 
+156.16500 	   	WQEW369 	BM	123.0 PL	SpencerFD T1 	Spencer FD - Tactical 1 	FMN 	Fire-Tac 
+156.16500 	   	WQEW369 	BM	94.8 PL	SpencerFD T2 	Spencer FD - Tactical 2 	FMN 	Fire-Tac 
+154.23500 	159.33000  	WQKU390 	M	123.0 PL	SpencerFD T3 	Spencer FD - Tactical 3 	FMN 	Fire-Tac 
+39.96000 	   	KQG289 	BM		SpencerPDTac 	Spencer Police - Tactical 	FMN 	Law Tac 
+39.98000 	   	KQG289 	BM	141.3 PL	SpencerPD Dp 	Spencer Police - Dispatch 	FMN 	Law Dispatch 
+154.11500 	   	KQG289 	BM	107.2 PL	Spencer PbWk 	Spencer Public Works 	FMN 	Public Works 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	First Energy	 Project 25 Phase I	 Various	

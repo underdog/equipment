@@ -1,17 +1,17 @@
-155.70000 	KVG800 	RM	208 NAC	Scurry Co SO 	Sheriff Dispatch 	P25 	Law Dispatch 
-154.95000 	 	M	208 NAC	Scurry Co SO Car 	Sheriff Car to Car 	P25 	Law Talk 
-155.91000 	WQIA431 	RM	94.8 PL	Scurry Co EMS 	EMS Dispatch 	FM 	EMS Dispatch 
-453.81250 	WQNH210 	RM		Scurry Co Jail 	Sheriff Jail Ops 	NXDN 	Corrections 
-154.35500 	KKV620 	RM	151.4 PL	Snyder FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.35500 	KKV620 	RM	208 NAC	Snyder FD P25 	Fire Dispatch (P25) 	P25 	Fire-Talk 
-154.43000 	KNGH970 	BM		Snyder FD 2 	Fire Ch. 2 	FMN 	Fire-Tac 
-154.54000 	WPIX830 	BM	94.8 PL	Snyder FD Admin 	Fire Admin 	FMN 	Fire-Tac 
-155.10000 	WNFX525 	RM	94.8 PL	Snyder EMA 	Emergency Management 	FMN 	Emergency Ops 
-155.10000 	WNFX525 	RM	208 NAC	Snyder EMA P25 	Emergency Management (P25) 	P25 	Emergency Ops 
-155.80500 	KYV233 	BM	94.8 PL	Snyder PW  	Snyder Public Works 	FMN 	Public Works 
-155.85750 	WQIM384 	RM		Cogdell Hosp 	Cogdell Memorial Hospital Operations 	FM 	Hospital 
-155.34000 	 	BM	94.8 PL	Cogdell E.R. 	Scurry Co. EMS Patient Reports 	FM 	EMS-Tac 
-155.94000 	WQAX930 	BM	94.8 PL	Snyder ISD 	Snyder Independent School District Buses 	FM 	Schools 
-157.68000 	WNEC459 	M	94.8 PL	WTC PD 	Western Texas College PD 	FM 	Schools 
-Connect Plus 231 Texas	 DMR Motorola Connect Plus (TRBO)	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various	Oxy	 DMR Tier 3
- Various	Xcel Energy	 Project 25 Phase I	 Various	
+155.70000 	154.80000  	KVG800 	RM	208 NAC	Scurry Co SO 	Sheriff Dispatch 	P25 	Law Dispatch 
+154.95000 	   	 	M	208 NAC	Scurry Co SO Car 	Sheriff Car to Car 	P25 	Law Talk 
+155.91000 	153.99500  	WQIA431 	RM	94.8 PL	Scurry Co EMS 	EMS Dispatch 	FM 	EMS Dispatch 
+453.81250 	458.81250  	WQNH210 	RM		Scurry Co Jail 	Sheriff Jail Ops 	NXDN 	Corrections 
+154.35500 	153.95000  	KKV620 	RM	151.4 PL	Snyder FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.35500 	153.95000  	KKV620 	RM	208 NAC	Snyder FD P25 	Fire Dispatch (P25) 	P25 	Fire-Talk 
+154.43000 	   	KNGH970 	BM		Snyder FD 2 	Fire Ch. 2 	FMN 	Fire-Tac 
+154.54000 	   	WPIX830 	BM	94.8 PL	Snyder FD Admin 	Fire Admin 	FMN 	Fire-Tac 
+155.10000 	153.75500  	WNFX525 	RM	94.8 PL	Snyder EMA 	Emergency Management 	FMN 	Emergency Ops 
+155.10000 	153.75500  	WNFX525 	RM	208 NAC	Snyder EMA P25 	Emergency Management (P25) 	P25 	Emergency Ops 
+155.80500 	   	KYV233 	BM	94.8 PL	Snyder PW  	Snyder Public Works 	FMN 	Public Works 
+155.85750 	154.22750  	WQIM384 	RM		Cogdell Hosp 	Cogdell Memorial Hospital Operations 	FM 	Hospital 
+155.34000 	   	 	BM	94.8 PL	Cogdell E.R. 	Scurry Co. EMS Patient Reports 	FM 	EMS-Tac 
+155.94000 	   	WQAX930 	BM	94.8 PL	Snyder ISD 	Snyder Independent School District Buses 	FM 	Schools 
+157.68000 	   	WNEC459 	M	94.8 PL	WTC PD 	Western Texas College PD 	FM 	Schools 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Connect Plus 231 Texas	 DMR Motorola Connect Plus (TRBO)	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various
+Oxy	 DMR Tier 3	 Various	Xcel Energy	 Project 25 Phase I	 Various	

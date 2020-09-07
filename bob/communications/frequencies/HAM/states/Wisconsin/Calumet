@@ -1,29 +1,28 @@
-155.04000 	KGL593 	RM	080 NAC	CASO 	County Law Dispatch 	P25E 	Law Dispatch 
-154.81500 	WPKG720 	RM	315 DPL	CAJAIL 	Jail 	FMN 	Corrections 
-154.22000 	KMD400 	RM	186.2 PL	CAFIR1 	Fire 	FMN 	Fire Dispatch 
-154.22000 	KMD400 	M	186.2 PL	CAFIR2 	Fire Truck to Truck 	FMN 	Law Talk 
-156.10500 	KMD400 	M	186.2 PL	CAFIR3 	Fireground 	FMN 	Fire-Tac 
-453.17500 	WQCA801 	RM	CC 2TG 101SL 1	GoldCrossAmb 	Gold Cross Ambulance Service Dispatch 	DMR 	EMS Dispatch 
-155.34000 	KZZ267 	BM	123.0 PL	Calumet MedC 	EMS to Calumet Medical Center 	FMN 	Hospital 
-453.65000 	KNHJ858 	RM	156.7 PL	CALG 	Courthouse Security and Maintenance 	FMN 	Public Works 
-453.65000 	KNHJ858 	RM	173.8 PL	CAEM 	Emergency Management 	FMN 	Emergency Ops 
-151.10000 	KUU390 	RM	103.5 PL	CAHWY1 	Highways 	FMN 	Public Works 
-159.19500 	KUU390 	M	103.5 PL	CAHWY2 	Highway - Flagging 	FMN 	Public Works 
-154.10000 	WPMB862 	RM	263 DPL	CAPARK 	Parks 	FMN 	Public Works 
-155.08500 	KXC545 	BM	173.8 PL	Brillion DPW 	DPW 	FMN 	Public Works 
-156.16500 	WQKM738 	M		Brothertown DPW 	DPW 	FMN 	Public Works 
-155.13000 	KNIQ332 	RM		CACHPD 	Police 	FMN 	Law Talk 
-154.05500 	KNIQ332 	BM	186.2 PL	Chilton DPW 	Public Works 	FMN 	Public Works 
-151.71500 	KNIL545 	BM	88.5 PL	CMC Hosp 	Calumet Medical Center 	FMN 	Hospital 
-460.55000 	KZZ267 	BM	031 DPL	CMC Hosp 	Calumet Medical Center 	FMN 	Hospital 
-159.90750 	WQAV353 	F	CSQ	Water Data 	Water Telemetry 	FMN 	Data 
-453.48750 	WQNH775 	F	CSQ	Water Data 	Water Telemetry 	FMN 	Data 
-155.08500 	WNNF292 	BM	173.8 PL	Hilbert DPW 	DPW 	FMN 	Public Works 
-155.77500 	WPSP510 	BM	173.8 PL	Police/DPW 	Police/DPW 	FMN 	Law Dispatch 
-155.11500 	WPSP510 	BM	173.8 PL	NHPD Car2Car 	Police Car to Car 	FMN 	Law Talk 
-156.10500 	KMD400 	M	173.8 PL	TnNewHolsten 	DPW 	FMN 	Public Works 
-155.08500 	KB90882 	M	123.0 PL	Stockbridge 	DPW 	FMN 	Public Works 
-147.30000 	KA9OJN 	RM	107.2 PL	Skywarn 	Skywarn 	FM 	Ham 
-Alliant Energy	 DMR Tier 3	 Various	Baycom (Chilton)	 LTR Standard	 Chilton	Kobussen Buses (Calumet)	 DMR Motorola Capacity Plus Single Site (TRBO)
- Sherwood, WI	Nielson Communications (Brillion)	 LTR Standard	 Brillion	TRBOconnection-TRBOnexus	 DMR Motorola Connect Plus (TRBO)	 Various	Wisconsin Interoperable System for Communications (WISCOM)
- Project 25 Phase I	 Statewide	
+155.04000 	158.86500  	KGL593 	RM	080 NAC	CASO 	County Law Dispatch 	P25E 	Law Dispatch 
+154.81500 	158.91000  	WPKG720 	RM	315 DPL	CAJAIL 	Jail 	FMN 	Corrections 
+154.22000 	158.98500  	KMD400 	RM	186.2 PL	CAFIR1 	Fire 	FMN 	Fire Dispatch 
+154.22000 	   	KMD400 	M	186.2 PL	CAFIR2 	Fire Truck to Truck 	FMN 	Law Talk 
+156.10500 	   	KMD400 	M	186.2 PL	CAFIR3 	Fireground 	FMN 	Fire-Tac 
+453.17500 	458.17500  	WQCA801 	RM	CC 2TG 101SL 1	GoldCrossAmb 	Gold Cross Ambulance Service Dispatch 	DMR 	EMS Dispatch 
+155.34000 	   	KZZ267 	BM	123.0 PL	Calumet MedC 	EMS to Calumet Medical Center 	FMN 	Hospital 
+453.65000 	458.65000  	KNHJ858 	RM	156.7 PL	CALG 	Courthouse Security and Maintenance 	FMN 	Public Works 
+453.65000 	458.65000  	KNHJ858 	RM	173.8 PL	CAEM 	Emergency Management 	FMN 	Emergency Ops 
+151.10000 	159.07500  	KUU390 	RM	103.5 PL	CAHWY1 	Highways 	FMN 	Public Works 
+159.19500 	   	KUU390 	M	103.5 PL	CAHWY2 	Highway - Flagging 	FMN 	Public Works 
+154.10000 	158.89500  	WPMB862 	RM	263 DPL	CAPARK 	Parks 	FMN 	Public Works 
+155.08500 	   	KXC545 	BM	173.8 PL	Brillion DPW 	DPW 	FMN 	Public Works 
+156.16500 	   	WQKM738 	M		Brothertown DPW 	DPW 	FMN 	Public Works 
+155.13000 	156.02250  	KNIQ332 	RM		CACHPD 	Police 	FMN 	Law Talk 
+154.05500 	   	KNIQ332 	BM	186.2 PL	Chilton DPW 	Public Works 	FMN 	Public Works 
+151.71500 	   	KNIL545 	BM	88.5 PL	CMC Hosp 	Calumet Medical Center 	FMN 	Hospital 
+460.55000 	   	KZZ267 	BM	031 DPL	CMC Hosp 	Calumet Medical Center 	FMN 	Hospital 
+159.90750 	   	WQAV353 	F	CSQ	Water Data 	Water Telemetry 	FMN 	Data 
+453.48750 	   	WQNH775 	F	CSQ	Water Data 	Water Telemetry 	FMN 	Data 
+155.08500 	   	WNNF292 	BM	173.8 PL	Hilbert DPW 	DPW 	FMN 	Public Works 
+155.77500 	   	WPSP510 	BM	173.8 PL	Police/DPW 	Police/DPW 	FMN 	Law Dispatch 
+155.11500 	   	WPSP510 	BM	173.8 PL	NHPD Car2Car 	Police Car to Car 	FMN 	Law Talk 
+156.10500 	   	KMD400 	M	173.8 PL	TnNewHolsten 	DPW 	FMN 	Public Works 
+155.08500 	   	KB90882 	M	123.0 PL	Stockbridge 	DPW 	FMN 	Public Works 
+147.30000 	147.90000  	KA9OJN 	RM	107.2 PL	Skywarn 	Skywarn 	FM 	Ham 
+Alliant Energy	 DMR Tier 3	 Various	Baycom (Chilton)	 LTR Standard	 Chilton	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+Kobussen Buses (Calumet)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sherwood, WI	Nielson Communications (Brillion)	 LTR Standard	 Brillion	TRBOconnection-TRBOnexus	 DMR Motorola Connect Plus (TRBO)	 Various

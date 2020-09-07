@@ -1,15 +1,15 @@
-854.31250 	WNVP340 	RM	223 DPL	Caldwell SO Ch 4 	Sheriff Ch 4 Conventional 	FM 	Multi-Tac 
-154.37000 	KMA964 	BM	250.3 PL	Caldwell Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-158.81250 	WQDT466 	RM	654 DPL	Caldwell Fire Op 	Fire Operations (simulcast to TG 1553 on request) 	FMN 	Fire-Tac 
-155.40000 	WQAD621 	RM	664 DPL	ChishmTrl FD Tac 	Chisolm Trail Fire/Rescue Tactical 	FMN 	Fire-Tac 
-158.79750 	WRDQ812 	RM	250.3 PL	Martndl VFD Rlay 	Martindale County Fire Relay 	FMN 	Fire Dispatch 
-154.71000 	WNKH764 	RM	365 DPL	LckhrtFD/EMS 	Fire/EMS paging (linked with GATRRS talkgroup 5405) 	FMN 	EMS Dispatch 
-155.11500 	 	M	186.2 PL	Luling PD2 	Luling PD Talkaround (Not Licensed) 	FMN 	Law Talk 
-154.19000 	WPQC411 	RM	115 DPL	Luling FD1 	Luling Fire Primary 	FMN 	Fire Dispatch 
-154.98000 	WNCV215 	BM	186.2 PL	Luling EMS 	Luling EMS Dispatch (tone outs simulcast with GATRRS TG 1523) 	FMN 	EMS Dispatch 
-155.56500 	KXZ449 	BM	186.2 PL	Luling PW 	Luling Public Works 	FMN 	Public Works 
-464.82500 	WQBD764 	RM	464 DPL	Geo Grp 1 	Security 	FM 	Security 
-461.25000 	WQBD764 	RM	464 DPL	Geo Grp 2 	Security 	FM 	Security 
-151.95500 	 	M		LISD 1 	School operations 	FM 	Schools 
-154.57000 	 	M		LISD 2 	School Operations 	FM 	Schools 
-Horizon Telecom (Lockhart)	 LTR Standard	 Lockhart	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	
+854.31250 	809.31250  	WNVP340 	RM	223 DPL	Caldwell SO Ch 4 	Sheriff Ch 4 Conventional 	FM 	Multi-Tac 
+154.37000 	   	KMA964 	BM	250.3 PL	Caldwell Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+158.81250 	153.80750  	WQDT466 	RM	654 DPL	Caldwell Fire Op 	Fire Operations (simulcast to TG 1553 on request) 	FMN 	Fire-Tac 
+155.40000 	150.80500  	WQAD621 	RM	664 DPL	ChishmTrl FD Tac 	Chisolm Trail Fire/Rescue Tactical 	FMN 	Fire-Tac 
+158.79750 	154.37000  	WRDQ812 	RM	250.3 PL	Martndl VFD Rlay 	Martindale County Fire Relay 	FMN 	Fire Dispatch 
+154.71000 	158.86500  	WNKH764 	RM	365 DPL	LckhrtFD/EMS 	Fire/EMS paging (linked with GATRRS talkgroup 5405) 	FMN 	EMS Dispatch 
+155.11500 	   	 	M	186.2 PL	Luling PD2 	Luling PD Talkaround (Not Licensed) 	FMN 	Law Talk 
+154.19000 	150.80500  	WPQC411 	RM	115 DPL	Luling FD1 	Luling Fire Primary 	FMN 	Fire Dispatch 
+154.98000 	   	WNCV215 	BM	186.2 PL	Luling EMS 	Luling EMS Dispatch (tone outs simulcast with GATRRS TG 1523) 	FMN 	EMS Dispatch 
+155.56500 	   	KXZ449 	BM	186.2 PL	Luling PW 	Luling Public Works 	FMN 	Public Works 
+464.82500 	469.82500  	WQBD764 	RM	464 DPL	Geo Grp 1 	Security 	FM 	Security 
+461.25000 	466.25000  	WQBD764 	RM	464 DPL	Geo Grp 2 	Security 	FM 	Security 
+151.95500 	   	 	M		LISD 1 	School operations 	FM 	Schools 
+154.57000 	   	 	M		LISD 2 	School Operations 	FM 	Schools 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Horizon Telecom (Lockhart)	 LTR Standard	 Lockhart	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various

@@ -1,104 +1,106 @@
-453.30000 	WNHT860 	RM	127.3 PL	JC EMA Ops 	EMA Operations 	FMN 	Emergency Ops 
-155.82000 	WQCS293 	RM	156.7 PL	JC EMA Tornado 	EMA Tornado Siren Activation 	FMN 	Emergency Ops 
-155.15250 	WQAL981 	RM		Birmingport FD 	Birmingport Fire Tac 	FMN 	Fire-Tac 
-151.16000 	KRC845 	RM	192.8 PL	CenerPointFD 	Center Point Fire District Dispatch 	FMN 	Fire Dispatch 
-154.26500 	KRC845 	M	94.8 PL	CenerPointFD 	Center Point Fire District Tac 	FMN 	Fire-Tac 
-153.87500 	WPVP530 	RM	103.5 PL	E Valley FD 	Eastern Valley Fire Dispatch 	FMN 	Fire Dispatch 
-154.76250 	WQLX686 	RM	261 DPL	Glenwood FD 	Glenwood Volunteer Fire Dispatch (patched with AIRS talkgroup 841) 	FMN 	Fire Dispatch 
-155.35500 	WQPV645 	RM	151.4 PL	LifeSaver EMS 	LifeSaver EMS Dispatch 	FMN 	EMS Dispatch 
-154.10000 	WQM703 	BM	265 DPL	Maytown FD 	Maytown Fire Dispatch 	FMN 	Fire Dispatch 
-453.95000 	WQDT333 	RM	199.5 PL	McAdory FD 	McAdory Fire Dispatch 	FMN 	Fire Dispatch 
-154.28000 	KXA317 	BM	136.5 PL	M Heights FD 	Minor Heights Fire Dispatch 	FMN 	Fire Dispatch 
-155.11500 	WPTA278 	BM	162.2 PL	Morris FD 	Morris Fire Dispatch 	FMN 	Fire Dispatch 
-154.13000 	KNDK598 	BM	203.5 PL	Mt. Olive FD 	Mt. Olive Fire Dispatch 	FMN 	Fire Dispatch 
-154.82250 	KNDK598 	BM		Mt. Olive FD 	Mt. Olive Fire Dispatch 	FMN 	Fire Dispatch 
-154.43000 	WPIS461 	BM	331 DPL	SylvnSprngFD 	Sylvan Springs Volunteer Fire Dispatch 	FMN 	Fire Dispatch 
-155.90250 	WQBB936 	RM		Truss FD 1 	Trussville Fire Dispatch 	DMR 	Fire Dispatch 
-155.90250 	WQBB936 	BM	065 DPL	Truss FD 1 	Trussville Fire Dispatch 	FMN 	Fire Dispatch 
-151.88000 	 	M		Truss FD 2 	Trussville Fire Tac 	FMN 	Fire-Tac 
-155.29500 	KNAB477 	RM		W.Wood Res 1 	Westwood Rescue 1 	FMN 	Fire-Tac 
-159.63000 	WPCB409 	BM		W.Wood Res 2 	Westwood Rescue 2 	FMN 	Fire-Tac 
-155.07000 	WPDD326 	RM		W.Wood Res 3 	Westwood Rescue 3 	FMN 	Fire-Tac 
-155.34000 	WQOL250 	BM	131.8 PL	BMC-P HEAR 	Baptist Medical Center (Princeton) 	FMN 	Hospital 
-155.34000 	WQOL250 	BM	136.5 PL	MW HEAR 	Medical West (UAB West) 	FMN 	Hospital 
-155.34000 	WQOL374 	BM	141.3 PL	CHA HEAR 	Children's Hospital of Alabama 	FMN 	Hospital 
-155.34000 	WQPY557 	BM	162.2 PL	STV-B HEAR 	St. Vincent's (Birmingham) 	FMN 	Hospital 
-155.34000 	WQOL221 	BM	173.8 PL	GH HEAR 	Grandview Hospital 	FMN 	Hospital 
-155.34000 	WQOL250 	BM	179.9 PL	BWMC HEAR 	Brookwood Medical Center 	FMN 	Hospital 
-155.34000 	WQO7827 	BM	186.2 PL	UAH HEAR 	University of Alabama Hospital 	FMN 	Hospital 
-155.34000 	WQPG686 	BM	218.1 PL	STV-E HEAR 	St. Vincent's East (Birmingham) 	FMN 	Hospital 
-155.34000 	WQOL250 	BM	225.7 PL	UABH HEAR 	UAB Highland 	FMN 	Hospital 
-851.08750 	WPZE311 	RM	156.7 PL	BirmFDVehRpt 	Fire and Rescue Service Vehicular Repeaters 	FMN 	Fire-Tac 
-854.08750 	 	RM	411 DPL	BFRS South 	South Back-up 	FMN 	Fire-Tac 
-854.58750 	 	RM	411 DPL	BFRS West 	West Back-up 	FMN 	Fire-Tac 
-855.46250 	 	RM	732 DPL	Bir CmndTrailer 	Command Trailer 	FMN 	Fire-Tac 
-855.96250 	WNHV507 	RM	411 DPL	BFRS Central 	Central Back-up 	FMN 	Fire-Tac 
-856.73750 	 	RM	411 DPL	BFRS North 	North Back-up 	FMN 	Fire-Tac 
-857.08750 	 	RM	411 DPL	BFRS East 	East Back-up 	FMN 	Fire-Tac 
-464.41250 	WQPG242 	RM	123.0 PL	AH Parker HS 	A.H. Parker High School (Birmingham City Schools) 	FMN 	Schools 
-155.49000 	WPHW596 	RM	141.3 PL	Fairfield Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.71500 	KNBJ599 	RM	100.0 PL	Fairfield Police 	Police Dispatch 	FMN 	Law Dispatch 
-155.58750 	KNBJ599 	RM		Fairfield PD Tac 	Police Tac 	FMN 	Law Tac 
-155.77500 	KNBI436 	RM	141.3 PL	FultonPubSaf 	Public Safety 	FMN 	Multi-Dispatch 
-151.37000 	KNBI436 	RM	125 DPL	FultonFD/RES 	Fire Rescue Dispatch 	FMN 	Fire Dispatch 
-154.05500 	KLE819 	RM	311 DPL	HooverFDVHF 	Fire Dispatch VHF 	FMN 	Fire Dispatch 
-460.35000 	KTP978 	RM	131 DPL	HooverPDDisp 	Police Dispatch 	FMN 	Law Dispatch 
-154.97250 	WQPB728 	RM	CC 2TG *SL *	Leeds PD/FD 	Police / Fire 	DMR 	Multi-Dispatch 
-155.06250 	WQPB728 	RM		Leeds PD/FD A  	Police / Fire 	DMR 	Multi-Dispatch 
-155.81250 	WQPB728 	RM	CC 2TG *SL *	Leeds PD/FD B 	Police / Fire 	DMR 	Multi-Dispatch 
-156.20250 	WQPB728 	RM		Leeds PD/FD C 	Police / Fire 	DMR 	Multi-Dispatch 
-156.17250 	WQNW403 	RM	151.4 PL	Lipscomb PS A 	Police / Fire 	FMN 	Multi-Dispatch 
-156.17250 	WQNW403 	BM		Lipscomb PS B 	Police / Fire 	P25 	Multi-Dispatch 
-158.84250 	WQNW403 	RM		Lipscomb PS C 	Police / Fire 	P25 	Multi-Tac 
-151.20500 	WQNW403 	M		Lipscomb PS Tac 	Police / Fire Tac 	FMN 	Multi-Tac 
-155.25750 	WQAM440 	RM	167.9 PL	Midfield Fire 	Fire 	FMN 	Fire Dispatch 
-156.24000 	WQVN462 	RM	156.7 PL	Midfield PD 1  	Police Dispatch 	FMN 	Law Dispatch 
-154.86000 	 	RM	156.7 PL	Midfield PD 2  	Police 2 	FMN 	Law Talk 
-155.85000 	KDT380 	RM	131.8 PL	Tarrant PD/FD 	Police/Fire Dispatch (patched to AIRS talkgroup 2637) 	FMN 	Multi-Dispatch 
-154.99500 	KRO473 	RM	131.8 PL	UAB Taxi 	Campus Taxi Service 	FMN 	Transportation 
-153.74000 	WPXA630 	M		UAB SC 	University Student Center 	FMN 	Schools 
-155.92500 	KNEE858 	RM		UAB Ops 	Operations 	FMN 	Schools 
-156.15000 	WNZN445 	BM		UAB Ops 	Operations 	FMN 	Schools 
-158.82000 	WNLV996 	BM		UAB Arena 	Arena 	FMN 	Schools 
-451.56250 	WQCN451 	M		UAB Ops 	Operations 	FMN 	Schools 
-451.68750 	WQCN451 	M		UAB Ops 	Operations 	FMN 	Schools 
-451.71250 	WQCN451 	M		UAB Ops 	Operations 	FMN 	Schools 
-452.50000 	WZY298 	B		UAB Pager 1 	Pagers 	FMN 	Data 
-453.05000 	WPUJ506 	RM		UAB Ops 	Operations 	FMN 	Schools 
-453.08750 	WPUJ487 	RM		UAB Ops 	Operations 	FMN 	Schools 
-453.97500 	WZY298 	RM		UAB Pager 2 	Pagers 	FMN 	Data 
-461.82500 	WNZU562 	RM	025 DPL	UAB 461.825 	Operations 	FMN 	Schools 
-854.03750 	WQKA346 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
-854.06250 	WNWU816 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
-854.48750 	WQKA346 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
-854.78750 	WPKU644 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
-855.08750 	WNSZ981 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
-855.78750 	KNNK694 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
-857.26250 	WPKU644 	RM		UAB Ops 	Operations 	FMN 	Schools 
-464.93750 	WQAV397 	RM	445 DPL	BSC Police 1 	Police Primary 	FMN 	Law Dispatch 
-451.96250 	WQAV397 	RM		BSC Police 2 	Police Secondary 	FMN 	Law Tac 
-463.95000 	WQBA547 	RM	503 DPL	BSC Maint 1 	Maintenance 1 	FMN 	Schools 
-464.41250 	WQBA547 	M	123.0 PL	BSC Maint 2 	Maintenance 2 	FMN 	Schools 
-453.47500 	WQQY679 	RM		JSCC Police 	Campus Police Dispatch 	DMR 	Law Dispatch 
-451.97500 	WQHH399 	RM	CC 3TG *SL *	JSCC Ops B 	Campus Police Operations 	DMR 	Law Tac 
-453.32500 	WQQY679 	RM		JSCC Ops A 	Operations 	DMR 	Schools 
-452.12500 	WQHH399 	M		JSCC Ops C 	Operations 	FMN 	Schools 
-461.25000 	WQHH399 	M		JSCC Ops D 	Operations 	FMN 	Schools 
-461.32500 	WQHH399 	M		JSCC Ops E 	Operations 	FMN 	Schools 
-461.80000 	WQHH399 	M		JSCC Ops F 	Operations 	FMN 	Schools 
-462.27500 	WQHH399 	M		JSCC Ops G 	Operations 	FMN 	Schools 
-462.40000 	WQHH399 	M		JSCC Ops H 	Operations 	FMN 	Schools 
-463.77500 	WQHH399 	M		JSCC Ops I 	Operations 	FMN 	Schools 
-464.97500 	WQHH399 	M		JSCC Ops J 	Operations 	FMN 	Schools 
-453.62500 	WNMI289 	RM		LSCC Security 	Security 	FMN 	Security 
-151.74500 	WQAD876 	BM		LSCC Maint A 	Maintenance (Birmingham) 	FMN 	Schools 
-463.42500 	WQNH408 	RM		LSCC Maint B 	Maintenance (Bessemer) 	FMN 	Schools 
-463.68750 	WQAD876 	RM	186.2 PL	LSCC Ops 	Operations 	FMN 	Schools 
-463.47500 	WQEJ587 	RM	127.3 PL	SU Security 	Security 	FMN 	Security 
-461.42500 	WQEJ587 	RM	127.3 PL	SU Maint 	Maintenance 	FMN 	Schools 
-461.63750 	WPVM225 	M		SU Ops A 	Operations 	FMN 	Schools 
-461.67500 	WPVM225 	M		SU Ops B 	Operations 	FMN 	Schools 
-462.06250 	WPVM225 	M		SU Ops C 	Operations 	FMN 	Schools 
- Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	AllComm Wireless (LTR)	 LTR Standard	 Various	Office Max	 LTR Standard
- McCalla	Radio Direct	 LTR Standard	 Birmingham	S T S Communications	 LTR Standard	 Birmingham	SmartRadio DMR
- DMR Motorola Connect Plus (TRBO)	 Various	Sullivan Communications	 LTR Standard	 Various	
+453.30000 	453.80000  	WNHT860 	RM	127.3 PL	JC EMA Ops 	EMA Operations 	FMN 	Emergency Ops 
+155.82000 	153.98000  	WQCS293 	RM	156.7 PL	JC EMA Tornado 	EMA Tornado Siren Activation 	FMN 	Emergency Ops 
+155.15250 	153.82250  	WQAL981 	RM		Birmingport FD 	Birmingport Fire Tac 	FMN 	Fire-Tac 
+151.16000 	153.89000  	KRC845 	RM	192.8 PL	CenerPointFD 	Center Point Fire District Dispatch 	FMN 	Fire Dispatch 
+154.26500 	   	KRC845 	M	94.8 PL	CenerPointFD 	Center Point Fire District Tac 	FMN 	Fire-Tac 
+153.87500 	158.95500  	WPVP530 	RM	103.5 PL	E Valley FD 	Eastern Valley Fire Dispatch 	FMN 	Fire Dispatch 
+154.76250 	158.89500  	WQLX686 	RM	261 DPL	Glenwood FD 	Glenwood Volunteer Fire Dispatch (patched with AIRS talkgroup 841) 	FMN 	Fire Dispatch 
+155.35500 	151.08500  	WQPV645 	RM	151.4 PL	LifeSaver EMS 	LifeSaver EMS Dispatch 	FMN 	EMS Dispatch 
+154.10000 	   	WQM703 	BM	265 DPL	Maytown FD 	Maytown Fire Dispatch 	FMN 	Fire Dispatch 
+453.95000 	458.95000  	WQDT333 	RM	199.5 PL	McAdory FD 	McAdory Fire Dispatch 	FMN 	Fire Dispatch 
+154.28000 	   	KXA317 	BM	136.5 PL	M Heights FD 	Minor Heights Fire Dispatch 	FMN 	Fire Dispatch 
+155.11500 	   	WPTA278 	BM	162.2 PL	Morris FD 	Morris Fire Dispatch (patched with AIRS) 	FMN 	Fire Dispatch 
+154.13000 	   	KNDK598 	BM	203.5 PL	Mt. Olive FD 	Mt. Olive Fire Dispatch 	FMN 	Fire Dispatch 
+154.82250 	   	KNDK598 	BM		Mt. Olive FD 	Mt. Olive Fire Dispatch 	FMN 	Fire Dispatch 
+154.38500 	   	 		031 DPL	Palmerdale Fire 	Palmerdale Fire Dispatch (patched to AIRS) 	FMN 	Fire Dispatch 
+154.43000 	   	WPIS461 	BM	331 DPL	SylvnSprngFD 	Sylvan Springs Volunteer Fire Dispatch 	FMN 	Fire Dispatch 
+155.90250 	151.21250  	WQBB936 	RM		Truss FD 1 	Trussville Fire Dispatch 	DMR 	Fire Dispatch 
+155.90250 	   	WQBB936 	BM	065 DPL	Truss FD 1 	Trussville Fire Dispatch 	FMN 	Fire Dispatch 
+151.88000 	   	 	M		Truss FD 2 	Trussville Fire Tac 	FMN 	Fire-Tac 
+154.13750 	   	 		203.5 PL	Warrior Fire 	Warrior Fire Dispatch (patched to AIRS) 	FMN 	Fire Dispatch 
+155.29500 	   	KNAB477 	RM		W.Wood Res 1 	Westwood Rescue 1 	FMN 	Fire-Tac 
+159.63000 	   	WPCB409 	BM		W.Wood Res 2 	Westwood Rescue 2 	FMN 	Fire-Tac 
+155.07000 	159.70500  	WPDD326 	RM		W.Wood Res 3 	Westwood Rescue 3 	FMN 	Fire-Tac 
+155.34000 	   	WQOL250 	BM	131.8 PL	BMC-P HEAR 	Baptist Medical Center (Princeton) 	FMN 	Hospital 
+155.34000 	   	WQOL250 	BM	136.5 PL	MW HEAR 	Medical West (UAB West) 	FMN 	Hospital 
+155.34000 	   	WQOL374 	BM	141.3 PL	CHA HEAR 	Children's Hospital of Alabama 	FMN 	Hospital 
+155.34000 	   	WQPY557 	BM	162.2 PL	STV-B HEAR 	St. Vincent's (Birmingham) 	FMN 	Hospital 
+155.34000 	   	WQOL221 	BM	173.8 PL	GH HEAR 	Grandview Hospital 	FMN 	Hospital 
+155.34000 	   	WQOL250 	BM	179.9 PL	BWMC HEAR 	Brookwood Medical Center 	FMN 	Hospital 
+155.34000 	   	WQO7827 	BM	186.2 PL	UAH HEAR 	University of Alabama Hospital 	FMN 	Hospital 
+155.34000 	   	WQPG686 	BM	218.1 PL	STV-E HEAR 	St. Vincent's East (Birmingham) 	FMN 	Hospital 
+155.34000 	   	WQOL250 	BM	225.7 PL	UABH HEAR 	UAB Highland 	FMN 	Hospital 
+851.08750 	809.08750  	WPZE311 	RM	156.7 PL	BirmFDVehRpt 	Fire and Rescue Service Vehicular Repeaters 	FMN 	Fire-Tac 
+854.08750 	809.08750  	 	RM	411 DPL	BFRS South 	South Back-up 	FMN 	Fire-Tac 
+854.58750 	809.58750  	 	RM	411 DPL	BFRS West 	West Back-up 	FMN 	Fire-Tac 
+855.46250 	810.46250  	 	RM	732 DPL	Bir CmndTrailer 	Command Trailer 	FMN 	Fire-Tac 
+855.96250 	810.96250  	WNHV507 	RM	411 DPL	BFRS Central 	Central Back-up 	FMN 	Fire-Tac 
+856.73750 	811.73750  	 	RM	411 DPL	BFRS North 	North Back-up 	FMN 	Fire-Tac 
+857.08750 	812.08750  	 	RM	411 DPL	BFRS East 	East Back-up 	FMN 	Fire-Tac 
+464.41250 	469.41250  	WQPG242 	RM	123.0 PL	AH Parker HS 	A.H. Parker High School (Birmingham City Schools) 	FMN 	Schools 
+155.49000 	153.74000  	WPHW596 	RM	141.3 PL	Fairfield Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.71500 	153.86000  	KNBJ599 	RM	100.0 PL	Fairfield Police 	Police Dispatch 	FMN 	Law Dispatch 
+155.58750 	158.91750  	KNBJ599 	RM		Fairfield PD Tac 	Police Tac 	FMN 	Law Tac 
+155.77500 	153.77500  	KNBI436 	RM	141.3 PL	FultonPubSaf 	Public Safety 	FMN 	Multi-Dispatch 
+151.37000 	159.18000  	KNBI436 	RM	125 DPL	FultonFD/RES 	Fire Rescue Dispatch 	FMN 	Fire Dispatch 
+154.05500 	158.98500  	KLE819 	RM	311 DPL	HooverFDVHF 	Fire Dispatch VHF 	FMN 	Fire Dispatch 
+460.35000 	465.35000  	KTP978 	RM	131 DPL	HooverPDDisp 	Police Dispatch 	FMN 	Law Dispatch 
+154.97250 	154.89750  	WQPB728 	RM	CC 2TG *SL *	Leeds PD/FD 	Police / Fire 	DMR 	Multi-Dispatch 
+155.06250 	159.03750  	WQPB728 	RM		Leeds PD/FD A  	Police / Fire 	DMR 	Multi-Dispatch 
+155.81250 	153.91250  	WQPB728 	RM	CC 2TG *SL *	Leeds PD/FD B 	Police / Fire 	DMR 	Multi-Dispatch 
+156.20250 	153.79250  	WQPB728 	RM		Leeds PD/FD C 	Police / Fire 	DMR 	Multi-Dispatch 
+156.17250 	151.25750  	WQNW403 	RM	151.4 PL	Lipscomb PS A 	Police / Fire 	FMN 	Multi-Dispatch 
+156.17250 	151.25750  	WQNW403 	BM		Lipscomb PS B 	Police / Fire 	P25 	Multi-Dispatch 
+158.84250 	151.20500  	WQNW403 	RM		Lipscomb PS C 	Police / Fire 	P25 	Multi-Tac 
+151.20500 	   	WQNW403 	M		Lipscomb PS Tac 	Police / Fire Tac 	FMN 	Multi-Tac 
+155.25750 	158.72500  	WQAM440 	RM	167.9 PL	Midfield Fire 	Fire 	FMN 	Fire Dispatch 
+156.24000 	153.78500  	WQVN462 	RM	156.7 PL	Midfield PD 1  	Police Dispatch 	FMN 	Law Dispatch 
+154.86000 	   	 	RM	156.7 PL	Midfield PD 2  	Police 2 	FMN 	Law Talk 
+155.85000 	   	KDT380 	RM	131.8 PL	Tarrant PD/FD 	Police/Fire Dispatch (patched to AIRS talkgroup 2637) 	FMN 	Multi-Dispatch 
+154.99500 	158.89500  	KRO473 	RM	131.8 PL	UAB Taxi 	Campus Taxi Service 	FMN 	Transportation 
+153.74000 	   	WPXA630 	M		UAB SC 	University Student Center 	FMN 	Schools 
+155.92500 	   	KNEE858 	RM		UAB Ops 	Operations 	FMN 	Schools 
+156.15000 	   	WNZN445 	BM		UAB Ops 	Operations 	FMN 	Schools 
+158.82000 	   	WNLV996 	BM		UAB Arena 	Arena 	FMN 	Schools 
+451.56250 	   	WQCN451 	M		UAB Ops 	Operations 	FMN 	Schools 
+451.68750 	   	WQCN451 	M		UAB Ops 	Operations 	FMN 	Schools 
+451.71250 	   	WQCN451 	M		UAB Ops 	Operations 	FMN 	Schools 
+452.50000 	453.97500  	WZY298 	B		UAB Pager 1 	Pagers 	FMN 	Data 
+453.05000 	458.05000  	WPUJ506 	RM		UAB Ops 	Operations 	FMN 	Schools 
+453.08750 	458.08750  	WPUJ487 	RM		UAB Ops 	Operations 	FMN 	Schools 
+453.97500 	458.97500  	WZY298 	RM		UAB Pager 2 	Pagers 	FMN 	Data 
+461.82500 	466.82500  	WNZU562 	RM	025 DPL	UAB 461.825 	Operations 	FMN 	Schools 
+854.03750 	809.03750  	WQKA346 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
+854.06250 	809.06250  	WNWU816 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
+854.48750 	809.48750  	WQKA346 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
+854.78750 	809.78750  	WPKU644 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
+855.08750 	810.08750  	WNSZ981 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
+855.78750 	810.78750  	KNNK694 	RM	131.8 PL	UAB Ops 	Operations 	FMN 	Schools 
+857.26250 	812.26250  	WPKU644 	RM		UAB Ops 	Operations 	FMN 	Schools 
+464.93750 	469.93750  	WQAV397 	RM	445 DPL	BSC Police 1 	Police Primary 	FMN 	Law Dispatch 
+451.96250 	456.96250  	WQAV397 	RM		BSC Police 2 	Police Secondary 	FMN 	Law Tac 
+463.95000 	468.95000  	WQBA547 	RM	503 DPL	BSC Maint 1 	Maintenance 1 	FMN 	Schools 
+464.41250 	469.41250  	WQBA547 	M	123.0 PL	BSC Maint 2 	Maintenance 2 	FMN 	Schools 
+453.47500 	458.47500  	WQQY679 	RM		JSCC Police 	Campus Police Dispatch 	DMR 	Law Dispatch 
+451.97500 	456.97500  	WQHH399 	RM	CC 3TG *SL *	JSCC Ops B 	Campus Police Operations 	DMR 	Law Tac 
+453.32500 	458.32500  	WQQY679 	RM		JSCC Ops A 	Operations 	DMR 	Schools 
+452.12500 	   	WQHH399 	M		JSCC Ops C 	Operations 	FMN 	Schools 
+461.25000 	   	WQHH399 	M		JSCC Ops D 	Operations 	FMN 	Schools 
+461.32500 	   	WQHH399 	M		JSCC Ops E 	Operations 	FMN 	Schools 
+461.80000 	   	WQHH399 	M		JSCC Ops F 	Operations 	FMN 	Schools 
+462.27500 	   	WQHH399 	M		JSCC Ops G 	Operations 	FMN 	Schools 
+462.40000 	   	WQHH399 	M		JSCC Ops H 	Operations 	FMN 	Schools 
+463.77500 	   	WQHH399 	M		JSCC Ops I 	Operations 	FMN 	Schools 
+464.97500 	   	WQHH399 	M		JSCC Ops J 	Operations 	FMN 	Schools 
+453.62500 	458.62500  	WNMI289 	RM		LSCC Security 	Security 	FMN 	Security 
+151.74500 	   	WQAD876 	BM		LSCC Maint A 	Maintenance (Birmingham) 	FMN 	Schools 
+463.42500 	468.42500  	WQNH408 	RM		LSCC Maint B 	Maintenance (Bessemer) 	FMN 	Schools 
+463.68750 	468.68750  	WQAD876 	RM	186.2 PL	LSCC Ops 	Operations 	FMN 	Schools 
+463.47500 	468.47500  	WQEJ587 	RM	127.3 PL	SU Security 	Security 	FMN 	Security 
+461.42500 	466.42500  	WQEJ587 	RM	127.3 PL	SU Maint 	Maintenance 	FMN 	Schools 
+461.63750 	   	WPVM225 	M		SU Ops A 	Operations 	FMN 	Schools 
+461.67500 	   	WPVM225 	M		SU Ops B 	Operations 	FMN 	Schools 
+462.06250 	   	WPVM225 	M		SU Ops C 	Operations 	FMN 	Schools 
+ Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	AllComm Wireless (LTR)	 LTR Standard	 Various	Office Max	 LTR Standard	 McCalla
+Radio Direct	 LTR Standard	 Birmingham	S T S Communications	 LTR Standard	 Birmingham	SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various
+Sullivan Communications	 LTR Standard	 Various	

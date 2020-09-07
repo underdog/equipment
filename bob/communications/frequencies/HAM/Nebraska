@@ -14,13 +14,13 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 444.85000,449.85000,74.4 PL,74.4 PL,KA0RCZ,Kearney,Buffalo
 147.21000,147.81000,103.5 PL,103.5 PL,KA0IJY,KA0IJY-Murray,Cass
 147.48000,0.00000,,,KB0SMX,Plattsmouth Amateur Radio Club,Cass
-442.77500,447.77500,,,KC0HYI,Weeping Water - DMARC - Worldwide English,Cass
-442.77500,447.77500,,,KC0HYI,Weeping Water - DMARC - Worldwide,Cass
-442.77500,447.77500,,,KC0HYI,Weeping Water - DMARC - Nebraska Statewide,Cass
 442.77500,447.77500,,,KC0HYI,Weeping Water - DMARC - Tech Talk,Cass
 442.77500,447.77500,,,KC0HYI,Weeping Water - DMARC - North America,Cass
 442.77500,447.77500,,,KC0HYI,Weeping Water - DMARC - Midwest Regional,Cass
 442.77500,447.77500,,,KC0HYI,Weeping Water - DMARC - UA113,Cass
+442.77500,447.77500,,,KC0HYI,Weeping Water - DMARC - Worldwide English,Cass
+442.77500,447.77500,,,KC0HYI,Weeping Water - DMARC - Worldwide,Cass
+442.77500,447.77500,,,KC0HYI,Weeping Water - DMARC - Nebraska Statewide,Cass
 443.22500,448.22500,,,KB0SMX,Plattsmouth Amateur Radio Club,Cass
 444.12500,449.12500,131.8 PL,131.8 PL,KG0S,West Point - Central Region Intertie System,Cuming
 145.35500,144.75500,,,W0MEG,South Sioux City (C4FM Digital LEC),Dakota
@@ -32,47 +32,46 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 446.30000,0.00000,CSQ,CSQ,,Chadron - Simplex linked to 147.36,Dawes
 145.43000,144.83000,CSQ,131.8 PL,N0YUV,Winslow,Dodge
 146.67000,146.07000,,,WN0L,Fremont - Eastern Nebraska Dodge County ARES,Dodge
-444.85000,449.85000,,,KA0NCR,Fremont - DMARC - UA113,Dodge
-444.85000,449.85000,,,KA0NCR,Fremont - DMARC - Worldwide English,Dodge
 444.85000,449.85000,,,KA0NCR,Fremont - DMARC - Nebraska Statewide,Dodge
 444.85000,449.85000,,,KA0NCR,Fremont - DMARC - Worldwide,Dodge
 444.85000,449.85000,,,KA0NCR,Fremont - DMARC - Tech Talk,Dodge
 444.85000,449.85000,,,KA0NCR,Fremont - DMARC - North America,Dodge
 444.85000,449.85000,,,KA0NCR,Fremont - DMARC - Midwest Regional,Dodge
-145.26500,144.66500,100.0 PL,CSQ,KD0PGV,Valley - FM,Douglas
+444.85000,449.85000,,,KA0NCR,Fremont - DMARC - UA113,Dodge
+444.85000,449.85000,,,KA0NCR,Fremont - DMARC - Worldwide English,Dodge
 145.26500,144.66500,,,KD0PGV,Valley - YSF,Douglas
+145.26500,144.66500,100.0 PL,CSQ,KD0PGV,Valley - FM,Douglas
 145.37000,144.77000,,,N0QFQ,,Douglas
 145.45000,144.85000,,,K0BOY,Omaha,Douglas
 146.94000,146.34000,CSQ,131.8 PL,K0USA,Ak-Sar-Ben Amateur Radio Club,Douglas
 147.00000,146.40000,131.8 PL,131.8 PL,WB0CMC,,Douglas
 147.36000,147.96000,CSQ,CSQ,K0BOY,Omaha,Douglas
-442.22500,447.22500,,,K0SWI,Omaha (YSF) Southwest Iowa Radio Club,Douglas
 442.22500,447.22500,136.5 PL,136.5 PL,K0SWI,Omaha (FM) Southwest Iowa Radio Club,Douglas
-442.65000,447.65000,,,K0BOY,Omaha - DMARC - North America,Douglas
-442.65000,447.65000,,,K0BOY,Omaha - DMARC - Midwest Regional,Douglas
-442.65000,447.65000,,,K0BOY,Omaha - DMARC - UA113,Douglas
+442.22500,447.22500,,,K0SWI,Omaha (YSF) Southwest Iowa Radio Club,Douglas
 442.65000,447.65000,,,K0BOY,Omaha - DMARC - Worldwide English,Douglas
 442.65000,447.65000,,,K0BOY,Omaha - DMARC - Worldwide,Douglas
 442.65000,447.65000,,,K0BOY,Omaha - DMARC - Nebraska Statewide,Douglas
 442.65000,447.65000,,,K0BOY,Omaha - DMARC - Tech Talk,Douglas
-442.82500,447.82500,,,W0AAI,Omaha - DMARC - UA113,Douglas
-442.82500,447.82500,,,W0AAI,Omaha - DMARC - Worldwide English,Douglas
+442.65000,447.65000,,,K0BOY,Omaha - DMARC - North America,Douglas
+442.65000,447.65000,,,K0BOY,Omaha - DMARC - Midwest Regional,Douglas
+442.65000,447.65000,,,K0BOY,Omaha - DMARC - UA113,Douglas
 442.82500,447.82500,,,W0AAI,Omaha - DMARC - Worldwide,Douglas
 442.82500,447.82500,,,W0AAI,Omaha - DMARC - Nebraska Statewide,Douglas
 442.82500,447.82500,,,W0AAI,Omaha - DMARC - Tech Talk,Douglas
 442.82500,447.82500,,,W0AAI,Omaha - DMARC - North America,Douglas
 442.82500,447.82500,,,W0AAI,Omaha - DMARC - Midwest Regional,Douglas
+442.82500,447.82500,,,W0AAI,Omaha - DMARC - UA113,Douglas
+442.82500,447.82500,,,W0AAI,Omaha - DMARC - Worldwide English,Douglas
 442.95000,447.95000,146.2 PL,146.2 PL,KC0YUR,Omaha - REACT 1,Douglas
 443.97500,448.97500,146.2 PL,146.2 PL,KC0YUR,Omaha - REACT 2,Douglas
 444.42500,449.42500,,,K0OQL,Omaha,Douglas
-444.97500,449.97500,,,KI0PY,Omaha - DMARC - Midwest Regional,Douglas
-444.97500,449.97500,,,KI0PY,Omaha - DMARC - UA113,Douglas
-444.97500,449.97500,,,KI0PY,Omaha - DMARC - Worldwide English,Douglas
 444.97500,449.97500,,,KI0PY,Omaha - DMARC - Worldwide,Douglas
 444.97500,449.97500,,,KI0PY,Omaha - DMARC - Nebraska Statewide,Douglas
 444.97500,449.97500,,,KI0PY,Omaha - DMARC - Tech Talk,Douglas
 444.97500,449.97500,,,KI0PY,Omaha - DMARC - North America,Douglas
-147.34500,147.94500,CSQ,CSQ,N0HWU,N0HWU,Frontier
+444.97500,449.97500,,,KI0PY,Omaha - DMARC - Midwest Regional,Douglas
+444.97500,449.97500,,,KI0PY,Omaha - DMARC - UA113,Douglas
+444.97500,449.97500,,,KI0PY,Omaha - DMARC - Worldwide English,Douglas
 145.34000,144.74000,100.0 PL,100.0 PL,KC0MLT,Beatrice,Gage
 146.79000,146.19000,CSQ,CSQ,WB0ORU,Beatrice,Gage
 443.07500,448.07500,173.8 PL,173.8 PL,KC0SWG,Beatrice,Gage
@@ -89,13 +88,13 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 146.76000,146.16000,,,K0KKV,K0KKV Linked to 444.300,Lancaster
 146.85000,146.25000,,,K0LNE,K0LNE,Lancaster
 147.24000,147.84000,,,N0FER,N0FER,Lancaster
-442.42500,447.42500,,,WB0QQK,Lincoln - DMARC - Tech Talk,Lancaster
-442.42500,447.42500,,,WB0QQK,Lincoln - DMARC - North America,Lancaster
-442.42500,447.42500,,,WB0QQK,Lincoln - DMARC - Midwest Regional,Lancaster
 442.42500,447.42500,,,WB0QQK,Lincoln - DMARC - UA 113,Lancaster
 442.42500,447.42500,,,WB0QQK,Lincoln - DMARC - Worldwide English,Lancaster
 442.42500,447.42500,,,WB0QQK,Lincoln - DMARC - Worldwide,Lancaster
 442.42500,447.42500,,,WB0QQK,Lincoln - DMARC - Nebraska Statewide,Lancaster
+442.42500,447.42500,,,WB0QQK,Lincoln - DMARC - Tech Talk,Lancaster
+442.42500,447.42500,,,WB0QQK,Lincoln - DMARC - North America,Lancaster
+442.42500,447.42500,,,WB0QQK,Lincoln - DMARC - Midwest Regional,Lancaster
 443.50000,448.50000,,,N0GVK,N0GVK,Lancaster
 444.10000,449.10000,,,WD0DMS,WD0DMS,Lancaster
 444.30000,449.30000,,,K0RPT,K0RPT Linked to 146.700,Lancaster
@@ -117,24 +116,24 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 146.71500,146.11500,293 NAC,293 NAC,WB0EMU,Papillion,Sarpy
 147.06000,147.66000,051 DPL,131.8 PL,WB0EMU,Bellevue,Sarpy
 147.39000,147.99000,CSQ,CSQ,W0WYV,Bellevue Amateur Radio Club,Sarpy
-442.27500,447.27500,,,KB0ZZT,Bellevue - DMARC - Worldwide,Sarpy
-442.27500,447.27500,,,KB0ZZT,Bellevue - DMARC - Nebraska Statewide,Sarpy
-442.27500,447.27500,,,KB0ZZT,Bellevue - DMARC - Tech Talk,Sarpy
 442.27500,447.27500,,,KB0ZZT,Bellevue - DMARC - North America,Sarpy
 442.27500,447.27500,,,KB0ZZT,Bellevue - DMARC - Midwest Regional,Sarpy
 442.27500,447.27500,,,KB0ZZT,Bellevue - DMARC - UA113,Sarpy
 442.27500,447.27500,,,KB0ZZT,Bellevue - DMARC - Worldwide English,Sarpy
+442.27500,447.27500,,,KB0ZZT,Bellevue - DMARC - Worldwide,Sarpy
+442.27500,447.27500,,,KB0ZZT,Bellevue - DMARC - Nebraska Statewide,Sarpy
+442.27500,447.27500,,,KB0ZZT,Bellevue - DMARC - Tech Talk,Sarpy
 443.35000,448.35000,179.9 PL,179.9 PL,WB0QQK,Bellevue,Sarpy
 443.82500,448.82500,179.9 PL,179.9 PL,W0JJK,Bellevue,Sarpy
 444.87500,449.87500,179.9 PL,179.9 PL,WB0QQK,Bellevue,Sarpy
 145.31000,144.71000,CSQ,CSQ,K0ASH,Ashland - ARES/Skywarn,Saunders
 443.00000,448.60000,,,KB0ZZT,Wahoo - DMARC - Tech Talk,Saunders
-443.60000,448.60000,,,KB0ZZT,Wahoo - DMARC - Worldwide English,Saunders
-443.60000,448.60000,,,KB0ZZT,Wahoo - DMARC - Worldwide,Saunders
-443.60000,448.60000,,,KB0ZZT,Wahoo - DMARC - Nebraska Statewide,Saunders
 443.60000,448.60000,,,KB0ZZT,Wahoo - DMARC - North America,Saunders
 443.60000,448.60000,,,KB0ZZT,Wahoo - DMARC - Midwest Regional,Saunders
 443.60000,448.60000,,,KB0ZZT,Wahoo - DMARC - UA113,Saunders
+443.60000,448.60000,,,KB0ZZT,Wahoo - DMARC - Worldwide English,Saunders
+443.60000,448.60000,,,KB0ZZT,Wahoo - DMARC - Worldwide,Saunders
+443.60000,448.60000,,,KB0ZZT,Wahoo - DMARC - Nebraska Statewide,Saunders
 145.47500,144.87500,CSQ,CSQ,WB0VQM,Scottsbluff - Regional West Medical Center,Scotts Bluff
 147.07500,147.67500,CSQ,CSQ,N0NEB,Scottsbluff - TriCity Amateur Radio Club,Scotts Bluff
 444.12500,449.12500,CSQ,123.0 PL,N0NEB,Scottsbluff - Linked to 147.165 Albin WY - TriCity Amateur Radio Club,Scotts Bluff

@@ -1,21 +1,20 @@
-155.59500 	KOB846 	RM	151.4 PL	SO SOU DISP 	Sheriff - South Dispatch (Libby) 	FMN 	Law Dispatch 
-151.33250 	WQSC535  	RM	79.7 PL	SO NOR DISP 	Sheriff - North Dispatch (Eureka) 	FMN 	Law Dispatch 
-155.59500 	KOB846 	BM	100.0 PL	LincolnCoSO2 	Sheriff - Forest 	FMN 	Law Dispatch 
-154.04000 	KNDQ298 	RM		LncolnCoSafe 	Public Safety 	FMN 	Multi-Talk 
-161.95000 	WPJS771 	RM		LncolnCoSafe 	Public Safety 	FMN 	Multi-Talk 
-153.98750 	WQJW372 	M	186.2 PL	LncolnCoJail 	Sheriff - Detention Facility Security 	FMN 	Law Talk 
-154.20500 	WNDZ387 	BM		LincolnCo FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-155.26500 	WPAV861 	BM		LncolnCoSear 	Search & Rescue - Operations 	FMN 	Emergency Ops 
-153.81500 	WQHI985 	RM		CabnetViewFD 	Dispatch 	FMN 	Fire Dispatch 
-155.29500 	WPXA762 	BM		CANAM 1 	CANAM SAR 1 	FMN 	Other 
-159.31500 	WPXA762  	BM		CANAM 2 	CANAM SAR 2 	FMN 	Other 
-154.16000 	 	BM		NAT SAR 	VSAR 16 	FMN 	Interop 
-154.20500 	WNDZ387 	BM		EUR FIRE 	Eureka Fire Dispatch 	FMN 	Fire Dispatch 
-155.25000 	WNMY662 	BM		EurekaPolice 	Police 	FMN 	Law Dispatch 
-154.20500 	WNDZ387 	BM		Libby Fire 	Fire 	FMN 	Fire Dispatch 
-155.68500 	WPJQ631 	BM		Libby Police 	Police Dispatch 	FMN 	Law Dispatch 
-154.20500 		WNDZ387  	BM		EUR DIS 	Eureka Fire Dispatch 	FMN 	Fire Dispatch 
-154.31000 	WPHS314   	BM		TFS TAC 	TFS VFD TAC 	FMN 	Fire-Tac 
-155.62500 	KTH423 	BM		Troy Police 	Police - Dispatch 	FMN 	Law Dispatch 
-154.17500 	WQYH827 	RM	100.0 PL	WKF Fire 	West Kootenai VFD 	FMN 	Fire Dispatch 
-Montana Public Safety Communications System	 Project 25 Phase I	 Statewide	
+155.59500 	154.83000  	KOB846 	RM	151.4 PL	SO SOU DISP 	Sheriff - South Dispatch (Libby) 	FMN 	Law Dispatch 
+151.33250 	158.74500  	WQSC535  	RM	79.7 PL	SO NOR DISP 	Sheriff - North Dispatch (Eureka) 	FMN 	Law Dispatch 
+155.59500 	154.83000  	KOB846 	BM	100.0 PL	LincolnCoSO2 	Sheriff - Forest 	FMN 	Law Dispatch 
+154.04000 	154.98000  	KNDQ298 	RM		LncolnCoSafe 	Public Safety 	FMN 	Multi-Talk 
+161.95000 	159.04500  	WPJS771 	RM		LncolnCoSafe 	Public Safety 	FMN 	Multi-Talk 
+153.98750 	   	WQJW372 	M	186.2 PL	LncolnCoJail 	Sheriff - Detention Facility Security 	FMN 	Law Talk 
+154.20500 	   	WNDZ387 	BM		LincolnCo FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+155.26500 	   	WPAV861 	BM		LncolnCoSear 	Search & Rescue - Operations 	FMN 	Emergency Ops 
+153.81500 	158.76000  	WQHI985 	RM		CabnetViewFD 	Dispatch 	FMN 	Fire Dispatch 
+155.29500 	   	WPXA762 	BM		CANAM 1 	CANAM SAR 1 	FMN 	Other 
+159.31500 	   	WPXA762  	BM		CANAM 2 	CANAM SAR 2 	FMN 	Other 
+154.16000 	   	 	BM		NAT SAR 	VSAR 16 	FMN 	Interop 
+154.20500 	   	WNDZ387 	BM		EUR FIRE 	Eureka Fire Dispatch 	FMN 	Fire Dispatch 
+155.25000 	   	WNMY662 	BM		EurekaPolice 	Police 	FMN 	Law Dispatch 
+154.20500 	   	WNDZ387 	BM		Libby Fire 	Fire 	FMN 	Fire Dispatch 
+155.68500 	   	WPJQ631 	BM		Libby Police 	Police Dispatch 	FMN 	Law Dispatch 
+154.20500 	   		WNDZ387  	BM		EUR DIS 	Eureka Fire Dispatch 	FMN 	Fire Dispatch 
+154.31000 	   	WPHS314   	BM		TFS TAC 	TFS VFD TAC 	FMN 	Fire-Tac 
+155.62500 	   	KTH423 	BM		Troy Police 	Police - Dispatch 	FMN 	Law Dispatch 
+154.17500 	155.83500  	WQYH827 	RM	100.0 PL	WKF Fire 	West Kootenai VFD 	FMN 	Fire Dispatch 

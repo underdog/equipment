@@ -1,68 +1,63 @@
-453.88750 	WPYV910 	F		LPD HazMat 	PoliceHazardous Materials Robot 	FM 	Law Tac 
-2454.00000 	WQKQ961 	M		LPD HazMat 	Police Hazardous Materials Robot TV Relay 	FM 	Law Tac 
-855.28750 	WNME388 	RM	131.8 PL	FAYCO SO 1 	Sheriff Dispatch 	FM 	Law Dispatch 
-854.46250 	WNME388 	RM	131.8 PL	FAYCO SO 2  	Sheriff/Court Security Call Buttons 	FM 	Law Talk 
-808.48750 	WNME388 	M		FAYCO SO 3 	Sheriff-Talk Around 	FM 	Law Talk 
-854.96250 	WNME388 	RM		FAYCO SO MDT 	 Sheriff-Mobile Data Terminals 	Telm 	Data 
-460.45000 	KMK581 	RM	136.5 PL	FCDC TRANS1 	Detention Center - Transportation 	FM 	Corrections 
-460.50000 	KMK581 	RM	136.5 PL	FCDC OPNS 2 	Detention Center-Operations 	FM 	Corrections 
-460.40000 	KMK581 	RM	136.5 PL	FCDFayC TA 3 	Detention Center-Talkaround 	FM 	Corrections 
-460.56250 	WPYL315 	RM	203.5 PL	FCDC MAINT 4 	Detention Center-Maintenance 	FM 	Corrections 
-851.01250 	WQEY743 	BM	156.7 PL	LFD TA1KYMA1 	Talk Around/KYMAI 1 	FM 	Fire-Talk 
-851.51250 	WQEY743 	BM	156.7 PL	LFD TA2KYMA2 	Talk Around/KYMAI 2  	FM 	Fire-Talk 
-852.01250 	WQEY743 	BM	156.7 PL	LFD TA3KYMA3 	Talk Around/KYMAI 3  	FM 	Fire-Talk 
-852.51250 	WQEY743 	BM	156.7 PL	LFD TA4KYMA4 	Talk Around/KYMAI 4  	FM 	Fire-Talk 
-853.01250 	WQEY743 	BM	156.7 PL	LFD TA5KYMA5 	Talk Around/KYMAI 5  	FM 	Fire-Talk 
-856.43750 	WQCJ588 	BM	136.5 PL	LFD TA6 	Talk Around 6  	FM 	Fire-Talk 
-857.43750 	WQCJ588 	BM	136.5 PL	LFD TA7 	Talk Around 7  	FM 	Fire-Talk 
-858.43750 	WQCJ588 	BM	136.5 PL	LFD TA8 	Talk Around 8  	FM 	Fire-Talk 
-859.43750 	WQCJ588 	BM	136.5 PL	LFD TA9 	Talk Around 9  	FM 	Fire-Talk 
-860.43750 	WQCJ588 	BM	136.5 PL	LFD TA10 	Talk Around 10  	FM 	Fire-Talk 
-156.12000 	KNIP996 	RM	1 RAN	FayStRdsFrst 	Streets, Roads and Forests 	NXDN 	Public Works 
-156.12000 	KNIP996 	RM	136.5 PL	FayStRdsFrst 	Streets, Roads and Forests 	FMN 	Public Works 
-451.30000 	WPRT867 	RM	CC 1TG 1SL 1	LFUCG WTR 1 	LEXINGTON FAYETTE URBAN COUNTY GOVERNMENT / WATER QUALITY 	DMR 	Public Works 
-460.28125 	WPRZ805 	RM	1 RAN	LexSan Ch 1 	Lexington Sanitation District Ch 1 	NXDN 	Public Works 
-453.52500 	WPDX569 	RM	141.3 PL	FAYCO CLRK 	Clerk 	FMN 	Public Works 
-453.52500 	WPDX569 	RM	413 DPL	FAYCO FAC 	Facilities Security 	FMN 	Security 
-461.02500 	WNJX691 	RM	203.5 PL	FayCoSchool1 	Board of Education 	FM 	Schools 
-464.80000 	KMJ357 	RM	88.5 PL	FayCoSchool3 	Public Schools 	FM 	Schools 
-464.50000 	 	M	025 DPL	Athens Elem 	Athens-Chilesburg Elementary School 	FM 	Schools 
-154.57000 	 	M	103.5 PL	Librty Elem1 	Liberty Elementary Ch. 1 	FM 	Schools 
-154.60000 	 	M	162.2 PL	Librty Elem2 	Liberty Elementary Ch. 2 	FM 	Schools 
-154.49000 	 	M	250.3 PL	Librty Elem3 	Liberty Elementary Ch. 3 	FM 	Schools 
-154.57000 	 	M	CSQ	Librty Elem4 	Liberty Elementary Ch. 4 	FM 	Schools 
-463.66250 	WPLR669 	M	CC 5TG *SL *	Ch D 	Lex Cntr D 	DMR 	Security 
-453.61250 	WPLV590 	RM	CC 5TG *SL *	Lex Cntr 2 	Facilities 	DMR 	Business 
-463.36250 	WPLR669 	M	043 DPL	Lex Cntr A 	Ch. A 	FMN 	Business 
-463.71250 	WPLR669 	M	043 DPL	Lex Cntr B 	Ch. B 	FMN 	Business 
-464.51250 	WPLR669 	M	CC 5TG *SL *	Lex Cntr C 	Ch. C 	DMR 	Business 
-452.07500 	 	BM	69.3 PL	CrtHseMngmt 	Courthouse Management 	FM 	Other 
-155.40000 	WNJK671 	BM	77.0 PL	UKMC HELIPRT 	U.K Med. Center Heliport Control 	FM 	EMS Dispatch 
-155.34000 	WNJK671 	BM	77.0 PL	MED TO UKMC 	Medevac to U.K. Medical Center 	FM 	Hospital 
-154.37000 	KIH560 	RM	136.5 PL	LFD MEDEVAC 	Lexington FD EMS to MEDEVAC (VHF) 	FM 	EMS Dispatch 
-155.14500 	WNJK671 	BM	11 RAN	UKMC Trans 	U.K. Medical CenterTransport Crew 	NXDN 	Hospital 
-155.14500 	WNJK671 	BM	77.0 PL	UKMC Trans 	U.K. Medical CenterTransport Crew 	FMN 	Hospital 
-463.87500 	KNHL490 	RM	141.3 PL	UKMC PPD 	U.K. Medical Center Physical Plant 	FMN 	Hospital 
-461.41250 	WRBX295 	RM	CC 11TG 3SL 1	Cnrtl Baptst Trn 	Central Baptist Hospital Shuttle Transport 	DMR 	Hospital 
-461.10000 	WQEM704 	RM	023 DPL	Cnrtl Baptst 	Central Baptist Hospital 	FMN 	Hospital 
-461.22500 	WQEM704 	RM	94.8 PL	Cnrtl Baptst 	Central Baptist Hospital 	FMN 	Hospital 
-464.52500 	WQSC656 	RM		St Joe ER Scrty 	St. Joseph Hospital ER Security 	DMR 	Hospital 
-464.52500 	WQSC656 	RM	141.3 PL	St Joe ER Scrty 	St. Joseph Hospital ER Security 	FMN 	Security 
-463.53750 	WQOD255 	RM	127.3 PL	St Joe Maint 	St. Joseph Hospital Maintenance 	FMN 	Hospital 
-463.00000 	KNHM916 	RM	94.8 PL	EMS TO UKMC  	MedCom1 	FM 	Hospital 
-155.34000 	WNJK671 	BM	82.5 PL	EMS TO UKMC 	EMS to U.K. Medical Center 	FM 	Hospital 
-463.00000 	WNSU573 	RM	94.8 PL	EMS TO STJOE 	MedCom1 	FM 	Hospital 
-452.75000 	WNWK437 	RM	173.8 PL	ARC Wheels 	Wheels Transports 	FMN 	Transportation 
-452.32500 	WPAZ399 	RM	127.3 PL	LexComAction 	Operations 	FMN 	Transportation 
-460.08750 	WRDI719 	RM	CC 5TG 100SL 1	BGS Safety 	Bluegrass Station Safety & Security 	DMRE 	Security 
-463.85000 	WNBX322 	RM	141.3 PL	UK PPD 1 	Ch. #1 	FMN 	Schools 
-464.85000 	WNAA945 	RM	141.3 PL	UK PPD 2 	Ch. #2 	FMN 	Schools 
-464.15000 	WNGG572 	RM	141.3 PL	UK PPD 3 	Ch. #3 	FMN 	Schools 
-464.10000 	WNGG572 	RM	141.3 PL	UK PPD A 	Ch. A 	FMN 	Schools 
-464.95000 	WNBX322 	RM	141.3 PL	UK PPD B 	Ch. B 	FMN 	Schools 
-461.60000 	WNYW382 	RM	141.3 PL	UK Food Srvc 	Food Service 	FMN 	Schools 
-Central Bank Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lexington	Comtronics	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lexington	Davis Electronics (Louisville Metro Area LTR)	 LTR Standard
- Louisville Metro Area	ERS-OCI TRBOconnect Cap+	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Lexington	Federal Medical Center Lexington	 Motorola Type II SmartZone	 Lexington	Kentucky Utilities/ LGE Regional Radio Tier III System
- DMR Tier 3	 Elizabethtown	Lexington Call Mobile	 EDACS Standard	 Lexington	RCS Team Communications	 DMR Motorola Connect Plus (TRBO)	 Various
-UK Athletics Association	 LTR Standard	 Lexington	United Parcel Service (Lexington)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lexington	University of Kentucky	 Project 25 Phase II
- Lexington	
+453.88750 	   	WPYV910 	F		LPD HazMat 	PoliceHazardous Materials Robot 	FM 	Law Tac 
+2454.00000 	   	WQKQ961 	M		LPD HazMat 	Police Hazardous Materials Robot TV Relay 	FM 	Law Tac 
+855.28750 	808.28750  	WNME388 	RM	131.8 PL	FAYCO SO 1 	Sheriff Dispatch 	FM 	Law Dispatch 
+460.45000 	465.45000  	KMK581 	RM	136.5 PL	FCDC TRANS1 	Detention Center - Transportation 	FM 	Corrections 
+460.50000 	465.50000  	KMK581 	RM	136.5 PL	FCDC OPNS 2 	Detention Center-Operations 	FM 	Corrections 
+460.40000 	465.40000  	KMK581 	RM	136.5 PL	FCDFayC TA 3 	Detention Center-Talkaround 	FM 	Corrections 
+460.56250 	465.56250  	WPYL315 	RM	203.5 PL	FCDC MAINT 4 	Detention Center-Maintenance 	FM 	Corrections 
+851.01250 	806.01250  	WQEY743 	BM	156.7 PL	LFD TA1KYMA1 	Talk Around/KYMAI 1 	FM 	Fire-Talk 
+851.51250 	806.51250  	WQEY743 	BM	156.7 PL	LFD TA2KYMA2 	Talk Around/KYMAI 2  	FM 	Fire-Talk 
+852.01250 	807.01250  	WQEY743 	BM	156.7 PL	LFD TA3KYMA3 	Talk Around/KYMAI 3  	FM 	Fire-Talk 
+852.51250 	807.51250  	WQEY743 	BM	156.7 PL	LFD TA4KYMA4 	Talk Around/KYMAI 4  	FM 	Fire-Talk 
+853.01250 	808.01250  	WQEY743 	BM	156.7 PL	LFD TA5KYMA5 	Talk Around/KYMAI 5  	FM 	Fire-Talk 
+856.43750 	811.43750  	WQCJ588 	BM	136.5 PL	LFD TA6 	Talk Around 6  	FM 	Fire-Talk 
+857.43750 	812.43750  	WQCJ588 	BM	136.5 PL	LFD TA7 	Talk Around 7  	FM 	Fire-Talk 
+858.43750 	813.43750  	WQCJ588 	BM	136.5 PL	LFD TA8 	Talk Around 8  	FM 	Fire-Talk 
+859.43750 	814.43750  	WQCJ588 	BM	136.5 PL	LFD TA9 	Talk Around 9  	FM 	Fire-Talk 
+860.43750 	815.43750  	WQCJ588 	BM	136.5 PL	LFD TA10 	Talk Around 10  	FM 	Fire-Talk 
+156.12000 	159.16500  	KNIP996 	RM	1 RAN	FayStRdsFrst 	Streets, Roads and Forests 	NXDN 	Public Works 
+156.12000 	159.16500  	KNIP996 	RM	136.5 PL	FayStRdsFrst 	Streets, Roads and Forests 	FMN 	Public Works 
+451.30000 	456.30000  	WPRT867 	RM	CC 1TG 1SL 1	LFUCG WTR 1 	LEXINGTON FAYETTE URBAN COUNTY GOVERNMENT / WATER QUALITY 	DMR 	Public Works 
+460.28125 	465.28125  	WPRZ805 	RM	1 RAN	LexSan Ch 1 	Lexington Sanitation District Ch 1 	NXDN 	Public Works 
+453.52500 	458.52500  	WPDX569 	RM	141.3 PL	FAYCO CLRK 	Clerk 	FMN 	Public Works 
+453.52500 	458.52500  	WPDX569 	RM	413 DPL	FAYCO FAC 	Facilities Security 	FMN 	Security 
+461.02500 	466.02500  	WNJX691 	RM	203.5 PL	FayCoSchool1 	Board of Education 	FM 	Schools 
+464.80000 	469.80000  	KMJ357 	RM	88.5 PL	FayCoSchool3 	Public Schools 	FM 	Schools 
+464.50000 	   	 	M	025 DPL	Athens Elem 	Athens-Chilesburg Elementary School 	FM 	Schools 
+154.57000 	   	 	M	103.5 PL	Librty Elem1 	Liberty Elementary Ch. 1 	FM 	Schools 
+154.60000 	   	 	M	162.2 PL	Librty Elem2 	Liberty Elementary Ch. 2 	FM 	Schools 
+154.49000 	   	 	M	250.3 PL	Librty Elem3 	Liberty Elementary Ch. 3 	FM 	Schools 
+154.57000 	   	 	M	CSQ	Librty Elem4 	Liberty Elementary Ch. 4 	FM 	Schools 
+463.66250 	   	WPLR669 	M	CC 5TG *SL *	Ch D 	Lex Cntr D 	DMR 	Security 
+463.36250 	   	WPLR669 	M	043 DPL	Lex Cntr A 	Ch. A 	FMN 	Business 
+463.71250 	   	WPLR669 	M	043 DPL	Lex Cntr B 	Ch. B 	FMN 	Business 
+464.51250 	   	WPLR669 	M	CC 5TG *SL *	Lex Cntr C 	Ch. C 	DMR 	Business 
+452.07500 	457.07500  	 	BM	69.3 PL	CrtHseMngmt 	Courthouse Management 	FM 	Other 
+155.40000 	   	WNJK671 	BM	77.0 PL	UKMC HELIPRT 	U.K Med. Center Heliport Control 	FM 	EMS Dispatch 
+155.34000 	   	WNJK671 	BM	77.0 PL	MED TO UKMC 	Medevac to U.K. Medical Center 	FM 	Hospital 
+154.37000 	153.77000  	KIH560 	RM	136.5 PL	LFD MEDEVAC 	Lexington FD EMS to MEDEVAC (VHF) 	FM 	EMS Dispatch 
+155.14500 	   	WNJK671 	BM	11 RAN	UKMC Trans 	U.K. Medical CenterTransport Crew 	NXDN 	Hospital 
+155.14500 	   	WNJK671 	BM	77.0 PL	UKMC Trans 	U.K. Medical CenterTransport Crew 	FMN 	Hospital 
+463.87500 	468.87500  	KNHL490 	RM	141.3 PL	UKMC PPD 	U.K. Medical Center Physical Plant 	FMN 	Hospital 
+461.41250 	466.41250  	WRBX295 	RM	CC 11TG 3SL 1	Cnrtl Baptst Trn 	Central Baptist Hospital Shuttle Transport 	DMR 	Hospital 
+461.10000 	466.60000  	WQEM704 	RM	023 DPL	Cnrtl Baptst 	Central Baptist Hospital 	FMN 	Hospital 
+461.22500 	466.22500  	WQEM704 	RM	94.8 PL	Cnrtl Baptst 	Central Baptist Hospital 	FMN 	Hospital 
+464.52500 	469.52500  	WQSC656 	RM		St Joe ER Scrty 	St. Joseph Hospital ER Security 	DMR 	Hospital 
+464.52500 	469.52500  	WQSC656 	RM	141.3 PL	St Joe ER Scrty 	St. Joseph Hospital ER Security 	FMN 	Security 
+463.53750 	468.53750  	WQOD255 	RM	127.3 PL	St Joe Maint 	St. Joseph Hospital Maintenance 	FMN 	Hospital 
+463.00000 	468.00000  	KNHM916 	RM	94.8 PL	EMS TO UKMC  	MedCom1 	FM 	Hospital 
+155.34000 	   	WNJK671 	BM	82.5 PL	EMS TO UKMC 	EMS to U.K. Medical Center 	FM 	Hospital 
+463.00000 	468.00000  	WNSU573 	RM	94.8 PL	EMS TO STJOE 	MedCom1 	FM 	Hospital 
+452.75000 	457.75000  	WNWK437 	RM	173.8 PL	ARC Wheels 	Wheels Transports 	FMN 	Transportation 
+452.32500 	457.32500  	WPAZ399 	RM	127.3 PL	LexComAction 	Operations 	FMN 	Transportation 
+460.08750 	465.08750  	WRDI719 	RM	CC 5TG 100SL 1	BGS Safety 	Bluegrass Station Safety & Security 	DMRE 	Security 
+463.85000 	468.85000  	WNBX322 	RM	141.3 PL	UK PPD 1 	Ch. #1 	FMN 	Schools 
+464.85000 	469.85000  	WNAA945 	RM	141.3 PL	UK PPD 2 	Ch. #2 	FMN 	Schools 
+464.15000 	469.15000  	WNGG572 	RM	141.3 PL	UK PPD 3 	Ch. #3 	FMN 	Schools 
+464.10000 	469.10000  	WNGG572 	RM	141.3 PL	UK PPD A 	Ch. A 	FMN 	Schools 
+464.95000 	469.95000  	WNBX322 	RM	141.3 PL	UK PPD B 	Ch. B 	FMN 	Schools 
+461.60000 	466.60000  	WNYW382 	RM	141.3 PL	UK Food Srvc 	Food Service 	FMN 	Schools 
+Central Bank Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lexington	Comtronics	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lexington	Davis Electronics (Louisville Metro Area LTR)	 LTR Standard	 Louisville Metro Area
+Federal Medical Center Lexington	 Motorola Type II SmartZone	 Lexington	Kentucky Utilities/ LGE Regional Radio Tier III System	 DMR Tier 3	 Elizabethtown	Lexington Call Mobile	 EDACS Standard	 Lexington
+Lexington-Fayette Urban County Government (P25)	 Project 25 Phase I	 Lexington	RCS Team Communications	 DMR Motorola Connect Plus (TRBO)	 Various	UK Athletics Association	 LTR Standard	 Lexington
+United Parcel Service (Lexington)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lexington	University of Kentucky	 Project 25 Phase II	 Lexington	University of Kentucky Medical Center	 LTR Standard	 Lexington

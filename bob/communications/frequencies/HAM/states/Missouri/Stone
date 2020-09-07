@@ -1,42 +1,42 @@
-151.02500 	WQAS324 	RM	210.7 PL	Stone Sheriff  	911/Central Law (Reeds Spr 186.2 in) 	FMN 	Law Dispatch 
-151.02500 	WQAS324 	RM	210.7 PL	Stone Sheriff  	911/Central Law (Kimb City 100.0 in) 	FMN 	Law Dispatch 
-155.65500 	KAG696 	RM	223 DPL	Stone Sheriff  	Sheriff: Dispatch 	FMN 	Law Dispatch 
-155.46000 	WPRJ522 	RM	210.7 PL	Stone Shrf Crane 	911/Central Law (Crane Police) / Crane Fire 	FMN 	Multi-Dispatch 
-155.58000 	KAG696 	RM	110.9 PL	Stone Shrf N 	Sheriff: Dispatch - North (2017) 	FMN 	Law Dispatch 
-155.58000 	KAG696 	RM	210.7 PL	Stone Shrf N 	Sheriff: North (210.7 in) Crane/Kimberling Police 	FMN 	Law Dispatch 
-155.58000 	KAG696 	RM	210.7 PL	Stone Shrf S 	Sheriff: South (110.9 in) (Output/tone conf. 8/17) 	FMN 	Law Dispatch 
-151.46000 	WPRJ522 	RM	110.9 PL	Stone Fire N 	Fire: Dispatch - North (Hurley) 	FMN 	Fire Dispatch 
-154.32500 	WNJR421 	RM	151.4 PL	Stone Fire S 	Fire: Dispatch - South (Lampe, ??? in) 	FMN 	Fire Dispatch 
-154.32500 	WNJR421 	RM	151.4 PL	Stone Fire S 	Fire: Dispatch - South (Kimberling) 	FMN 	Fire Dispatch 
-154.32500 	WNJR421 	RM	151.4 PL	Stone Fire S 	Fire: Dispatch - South (Branson, 71.9 in) 	FMN 	Fire Dispatch 
-151.14500 	WPRJ522 	RM	151.4 PL	StoneFireOps 	Fire: Ops (Kimb Cty)  	FMN 	Fire-Tac 
-153.92000 	WPRJ522 	M		Stone Fire 4 	Fire 	FMN 	Fire-Tac 
-154.34000 	WNJR421 	BM		Stone Fire 5 	Fire 	FMN 	Fire-Tac 
-155.20500 	WNLP860 	BM	162.2 PL	Cox EMS Stone  	Cox EMS: Dispatch (DB: County) 	FMN 	EMS Dispatch 
-453.67500 	WQKV241 	RM	151.4 PL	Stone EMS 	EMS: Tone-Outs / Dispatch 	FMN 	EMS Dispatch 
-156.06000 	WNFG790 	RM		Stone Roads1 	Roads and Bridges (Lampe) 	FMN 	Public Works 
-156.19500 	WNFG790 	RM		Stone Roads2 	Roads and Bridges (Brown Springs/Galena) 	FMN 	Public Works 
-155.17500 	WPLW952 	RM	103.5 PL	N Stone Fire 	Fire: Dispatch (DB: Stone County) 	FMN 	Fire Dispatch 
-154.13000 	WPLW952 	BM		NSNEB Fire 	Fire 	FMN 	Fire-Tac 
-153.51500 	WQXD633 	RM	CC 10TG 101SL 1	Cox EMS N Stone 	EMS: Dispatch 	DMR 	EMS Dispatch 
-154.32500 	WNJR421 	RM	151.4 PL	Stone Fire 	Fire: Dispatch/Stone County FPD 	FMN 	Fire Dispatch 
-453.67500 	WQKV241 	RM		SoStFire RF2 	Fire: Remote Links  	FMN 	Fire Dispatch 
-460.52500 	WQKV241 	RM		SoStFire RF3 	Fire: Remote Links  	FMN 	Fire Dispatch 
-154.34000 	WNJR421 	M		SoStone Fire 	Fire 	FMN 	Fire-Tac 
-155.25000 	WPLX407 	BM	118.8 PL	BW PD/Util 1 	Police / Utilities 	FMN 	Multi-Dispatch 
-158.73000 	WPLX407 	BM		BW PD/Util 2 	Police / Utilities 	FMN 	Multi-Dispatch 
-154.04000 	KVX812 	RM		Crane Water  	Water / Utilities [Expired 8/15] 	FMN 	Public Works 
-156.12000 	WPUU872 	BM		Galena Str/Wtr  	Street / Water Maintenance 	FMN 	Public Works 
-154.38500 	KD43239 	M		Hurley Fire 	Fire: Local (Rural Fire / FPD) 	FMN 	Fire-Tac 
-154.72500 	KNJN783 	RM	203.5 PL	Kimb Police 	Police: Dispatch (K units) 	FMN 	Law Dispatch 
-154.72500 	KNJN783 	RM		Kimb Sirens 	Tornado Siren Activation (DTMF) 	FMN 	Emergency Ops 
-154.02500 	KNJN783 	BM		Kimb PubWrks 	Public Works 	FMN 	Public Works 
-154.08500 	WNSS740 	BM		RSpr PD/Watr 	Police / Water [Expired 7/15] 	FMN 	Multi-Dispatch 
-155.59500 	WZX470 	RM	131.8 PL	CntrlCross Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-451.90000 	WNXL768 	RM		BE Schooll BE 	Operations (Blue Eye)  	FMN 	Schools 
-464.35000 	WNXL768 	RM		BE School Lmpe 	Operations  	FMN 	Schools 
-155.29500 	WNGD861 	BM		GR2SD Buses 	Buses 	FMN 	Schools 
-461.98750 	WQKW233 	BM		Hurley School 	Buses / Operations 	FMN 	Schools 
-463.30000 	WPAM859 	RM	186.2 PL	Reed Spr Sch Bus 	Buses (Branson West) 	FMN 	Schools 
-Entergy 	 Project 25 Phase II	 Various	KAMO Power	 NXDN NEXEDGE 4800	 Various	Ozark Electric Cooperative (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Mount Vernon	Rayfield Communications - UHF (SWMO)	 LTR Standard	 Southern Missouri	
+151.02500 	154.65000  	WQAS324 	RM	210.7 PL	Stone Sheriff  	911/Central Law (Reeds Spr 186.2 in) 	FMN 	Law Dispatch 
+151.02500 	154.65000  	WQAS324 	RM	210.7 PL	Stone Sheriff  	911/Central Law (Kimb City 100.0 in) 	FMN 	Law Dispatch 
+155.65500 	158.91000  	KAG696 	RM	223 DPL	Stone Sheriff  	Sheriff: Dispatch 	FMN 	Law Dispatch 
+155.46000 	154.77000  	WPRJ522 	RM	210.7 PL	Stone Shrf Crane 	911/Central Law (Crane Police) / Crane Fire 	FMN 	Multi-Dispatch 
+155.58000 	158.94000  	KAG696 	RM	110.9 PL	Stone Shrf N 	Sheriff: Dispatch - North (2017) 	FMN 	Law Dispatch 
+155.58000 	158.94000  	KAG696 	RM	210.7 PL	Stone Shrf N 	Sheriff: North (210.7 in) Crane/Kimberling Police 	FMN 	Law Dispatch 
+155.58000 	158.94000  	KAG696 	RM	210.7 PL	Stone Shrf S 	Sheriff: South (110.9 in) (Output/tone conf. 8/17) 	FMN 	Law Dispatch 
+151.46000 	159.39000  	WPRJ522 	RM	110.9 PL	Stone Fire N 	Fire: Dispatch - North (Hurley) 	FMN 	Fire Dispatch 
+154.32500 	153.77000  	WNJR421 	RM	151.4 PL	Stone Fire S 	Fire: Dispatch - South (Lampe, ??? in) 	FMN 	Fire Dispatch 
+154.32500 	153.77000  	WNJR421 	RM	151.4 PL	Stone Fire S 	Fire: Dispatch - South (Kimberling) 	FMN 	Fire Dispatch 
+154.32500 	153.77000  	WNJR421 	RM	151.4 PL	Stone Fire S 	Fire: Dispatch - South (Branson, 71.9 in) 	FMN 	Fire Dispatch 
+151.14500 	154.44500  	WPRJ522 	RM	151.4 PL	StoneFireOps 	Fire: Ops (Kimb Cty)  	FMN 	Fire-Tac 
+153.92000 	   	WPRJ522 	M		Stone Fire 4 	Fire 	FMN 	Fire-Tac 
+154.34000 	   	WNJR421 	BM		Stone Fire 5 	Fire 	FMN 	Fire-Tac 
+155.20500 	   	WNLP860 	BM	162.2 PL	Cox EMS Stone  	Cox EMS: Dispatch (DB: County) 	FMN 	EMS Dispatch 
+453.67500 	458.67500  	WQKV241 	RM	151.4 PL	Stone EMS 	EMS: Tone-Outs / Dispatch 	FMN 	EMS Dispatch 
+156.06000 	158.91000  	WNFG790 	RM		Stone Roads1 	Roads and Bridges (Lampe) 	FMN 	Public Works 
+156.19500 	158.94000  	WNFG790 	RM		Stone Roads2 	Roads and Bridges (Brown Springs/Galena) 	FMN 	Public Works 
+155.17500 	150.79000  	WPLW952 	RM	103.5 PL	N Stone Fire 	Fire: Dispatch (DB: Stone County) 	FMN 	Fire Dispatch 
+154.13000 	   	WPLW952 	BM		NSNEB Fire 	Fire 	FMN 	Fire-Tac 
+153.51500 	157.48500  	WQXD633 	RM	CC 10TG 101SL 1	Cox EMS N Stone 	EMS: Dispatch 	DMR 	EMS Dispatch 
+154.32500 	153.77000  	WNJR421 	RM	151.4 PL	Stone Fire 	Fire: Dispatch/Stone County FPD 	FMN 	Fire Dispatch 
+453.67500 	458.67500  	WQKV241 	RM		SoStFire RF2 	Fire: Remote Links  	FMN 	Fire Dispatch 
+460.52500 	465.52500  	WQKV241 	RM		SoStFire RF3 	Fire: Remote Links  	FMN 	Fire Dispatch 
+154.34000 	   	WNJR421 	M		SoStone Fire 	Fire 	FMN 	Fire-Tac 
+155.25000 	   	WPLX407 	BM	118.8 PL	BW PD/Util 1 	Police / Utilities 	FMN 	Multi-Dispatch 
+158.73000 	   	WPLX407 	BM		BW PD/Util 2 	Police / Utilities 	FMN 	Multi-Dispatch 
+154.04000 	154.96500  	KVX812 	RM		Crane Water  	Water / Utilities [Expired 8/15] 	FMN 	Public Works 
+156.12000 	   	WPUU872 	BM		Galena Str/Wtr  	Street / Water Maintenance 	FMN 	Public Works 
+154.38500 	   	KD43239 	M		Hurley Fire 	Fire: Local (Rural Fire / FPD) 	FMN 	Fire-Tac 
+154.72500 	158.76000  	KNJN783 	RM	203.5 PL	Kimb Police 	Police: Dispatch (K units) 	FMN 	Law Dispatch 
+154.72500 	158.76000  	KNJN783 	RM		Kimb Sirens 	Tornado Siren Activation (DTMF) 	FMN 	Emergency Ops 
+154.02500 	   	KNJN783 	BM		Kimb PubWrks 	Public Works 	FMN 	Public Works 
+154.08500 	   	WNSS740 	BM		RSpr PD/Watr 	Police / Water [Expired 7/15] 	FMN 	Multi-Dispatch 
+155.59500 	154.04750  	WZX470 	RM	131.8 PL	CntrlCross Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+451.90000 	456.90000  	WNXL768 	RM		BE Schooll BE 	Operations (Blue Eye)  	FMN 	Schools 
+464.35000 	469.35000  	WNXL768 	RM		BE School Lmpe 	Operations  	FMN 	Schools 
+155.29500 	   	WNGD861 	BM		GR2SD Buses 	Buses 	FMN 	Schools 
+461.98750 	466.98750  	WQKW233 	BM		Hurley School 	Buses / Operations 	FMN 	Schools 
+463.30000 	468.30000  	WPAM859 	RM	186.2 PL	Reed Spr Sch Bus 	Buses (Branson West) 	FMN 	Schools 
+Entergy 	 Project 25 Phase II	 Various	KAMO Power	 NXDN NEXEDGE 4800	 Various	Ozark Electric Cooperative (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Mount Vernon
+Rayfield Communications - UHF (SWMO)	 LTR Standard	 Southern Missouri	

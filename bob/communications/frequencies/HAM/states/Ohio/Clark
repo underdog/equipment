@@ -1,36 +1,38 @@
-155.79000 	KQC425 	BM	141.3 PL	Clark Sheriff 	Clark County Sheriff - Special Details 	FMN 	Law Talk 
-774.98125 	 	WQRD335 	M	CSQ	Clrk Shrf c2c  	Clark County Sheriff - Car to  Car 	FM 	Law Tac 
-158.94750 	WQON734 	M	CSQ	TCity Police MRE 	Tremont City Police - Mobile Repeater Extender (MRE) 	FMN 	Law Talk 
-159.28500 	WQBB930 	RM	107.2 PL	Enon Police 	Enon Police 	FMN 	Law Dispatch 
-460.01250 	KQC425 	M		Clrk Shrf MRE 	Sheriff MREs 	FMN 	Law Talk 
-154.22000 	 	BM		Clark Fireground 	Clark County Fire TAC 	FMN 	Fire-Tac 
-453.48750 	 	F	88.5 PL	Enon RX Link 	Enon / Mad River Twp remote RX link 	FMN 	Fire-Talk 
-453.28750 	 	F	114.8 PL	GTFD LINK 	Gernam Twp Fire link from Thackery RX 	FMN 	Fire-Talk 
-458.28750 	 	F	114.8 PL	GTFD LINK 	Gernam Twp Fire link 	FMN 	Fire-Talk 
-151.44500 	WNFK784 	RM	123.0 PL	MoorfldTwpFD 	Moorefield Township Fire 	FMN 	Fire Dispatch 
-156.16500 	WPMA421 	RM	82.5 PL	Spfld Twp Svcs 	Springfield Twp Services 	FMN 	Public Works 
-156.24000 	KNIX983 	BM		Pike Twp Roads 	Pike Township Road Department 	FMN 	Public Works 
-156.24000 	WNUK942 	BM		GermanTwp Roads 	German Township Road Department 	FMN 	Public Works 
-156.24000 	WXF910 	BM	203.5 PL	Mrfld Twp Roads  	Moorefield Township Road Department 	FMN 	Public Works 
-453.45000 	WQYH549 	RM	162.2 PL	CLARK DD 	Developmental Disabilities of Clark County - Operations 	FMN 	Public Works 
-151.92500 	WNXT598 	BM	131 DPL	NOREAST LSD 	Northeastern Local Schools - Transportation 	FMN 	Schools 
-152.30000 	WPWG469 	RM	065 DPL	SOEAST LSD 	Southeastern Local Schools - Transportation 	FMN 	Schools 
-152.46500 	WPST292 	RM	141.3 PL	CS LS TXP 	Clark Shawnee Locals Schools - Transportation 	FMN 	Schools 
-463.51250 	WNUA361 	RM	210.7 PL	TECUMSEH TXP 	Tecumseh Local Schools - Transportation/Operations 	FMN 	Schools 
-464.42500 	WNUA361 	RM	CC 1TG 20100SL 1	TECUMSEH LS 	Tecumseh Local Schools - Transportation 	DMR 	Schools 
-464.42500 	WNUA361 	RM	CC 1TG 20200SL 2	TECUMSEH 	Tecumseh Local Schools 	DMR 	Schools 
-464.52500 	WNSV358 	RM	125 DPL	SCSD TXP 	Springfield City Schools - Transportation 	FMN 	Schools 
-464.82500 	WPBK312 	RM	82.5 PL	NORWEST LSD 	Northwestern Local Schools - Transportation 	FMN 	Schools 
-155.34000 	 	BM		SRMC ER 14 	Sprignfield Regional Medical Center (ER 14) 	FMN 	Hospital 
-462.32500 	WPWL496 	RM	79.7 PL	SRMC Security 	Springfield Regional Medical Center security 	FMN 	Security 
-161.67000 	 	M		WIZE-AM IFB 	WIZE-AM 1340 kHz Remote Broadcast Pickup 	FMN 	Media 
-450.75000 	 	M		WIZE FM IFB 	WIZE-FM Remote Pickup 	FMN 	Media 
-455.31250 	 	M	CSQ	WIZE AM IFB 	WIZE-AM 1340 KHz Remote Pickup 	FMN 	Media 
-451.08750 	WPNY544 	RM	101 NAC	Columbia Gas 	Columbia Gas of Ohio 	P25 	Utilities 
-152.30750 	 	BM	731 DPL	WU Taxi Srvc 	Witternberg University Taxi Service 	FMN 	Transportation 
-152.31500 	WPWF498 	RM	731 DPL	WU Phys Plant 	Wittenberg University - Physical Plant Operations 	FMN 	Schools 
-152.40500 	WPWF498 	RM	731 DPL	WU Ops 	Wittenberg University - Operations? 	FMN 	Schools 
-Advanced Radio Technology	 LTR Standard	 Various	Clark County Engineer	 DMR Conventional Networked	 Springfield	Navistar International Inc	 EDACS Narrowband
- Springfield	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	P and R Communications Connect Plus (Ohio)
- DMR Motorola Connect Plus (TRBO)	 Various	P and R Spectrum Communications (Springfield)	 LTR Standard	 Springfield	Smart Link Systems	 LTR Standard	 Various
-W/S Electronics	 Project 25 Phase I	 Springfield, OH	W/S Electronics EDACS	 EDACS Standard	 Xenia	
+155.79000 	154.89000  	KQC425 	BM	141.3 PL	Clark Sheriff 	Clark County Sheriff - Special Details 	FMN 	Law Talk 
+774.98125 	   	 	WQRD335 	M	CSQ	Clrk Shrf c2c  	Clark County Sheriff - Car to  Car 	FM 	Law Tac 
+158.94750 	   	WQON734 	M	CSQ	TCity Police MRE 	Tremont City Police - Mobile Repeater Extender (MRE) 	FMN 	Law Talk 
+159.28500 	153.74000  	WQBB930 	RM	107.2 PL	Enon Police 	Enon Police 	FMN 	Law Dispatch 
+460.01250 	   	KQC425 	M		Clrk Shrf MRE 	Sheriff MREs 	FMN 	Law Talk 
+154.22000 	   	 	BM		Clark Fireground 	Clark County Fire TAC 	FMN 	Fire-Tac 
+154.78500 	159.07500  	WPUC903 	BM	82.5 PL	Green Twp Fire  	Green - Mad River Township  	FMN 	Deprecated 
+154.16000 	153.77000  	WPYL555 	BM	88.5 PL	Enon/Mad Sirens  	Enon/Mad River Twonship Warning Siren Activation 	FMN 	Fire Dispatch 
+453.48750 	   	 	F	88.5 PL	Enon RX Link 	Enon / Mad River Twp remote RX link 	FMN 	Fire-Talk 
+453.28750 	   	 	F	114.8 PL	GTFD LINK 	Gernam Twp Fire link from Thackery RX 	FMN 	Fire-Talk 
+458.28750 	   	 	F	114.8 PL	GTFD LINK 	Gernam Twp Fire link 	FMN 	Fire-Talk 
+151.44500 	153.89000  	WNFK784 	RM	123.0 PL	MoorfldTwpFD 	Moorefield Township Fire 	FMN 	Fire Dispatch 
+156.16500 	159.39000  	WPMA421 	RM	82.5 PL	Spfld Twp Svcs 	Springfield Twp Services 	FMN 	Public Works 
+156.24000 	   	KNIX983 	BM		Pike Twp Roads 	Pike Township Road Department 	FMN 	Public Works 
+156.24000 	   	WNUK942 	BM		GermanTwp Roads 	German Township Road Department 	FMN 	Public Works 
+156.24000 	   	WXF910 	BM	203.5 PL	Mrfld Twp Roads  	Moorefield Township Road Department 	FMN 	Public Works 
+453.45000 	458.45000  	WQYH549 	RM	162.2 PL	CLARK DD 	Developmental Disabilities of Clark County - Operations 	FMN 	Public Works 
+151.92500 	   	WNXT598 	BM	131 DPL	NOREAST LSD 	Northeastern Local Schools - Transportation 	FMN 	Schools 
+152.30000 	157.56000  	WPWG469 	RM	065 DPL	SOEAST LSD 	Southeastern Local Schools - Transportation 	FMN 	Schools 
+152.46500 	157.72500  	WPST292 	RM	141.3 PL	CS LS TXP 	Clark Shawnee Locals Schools - Transportation 	FMN 	Schools 
+463.51250 	468.51250  	WNUA361 	RM	210.7 PL	TECUMSEH TXP 	Tecumseh Local Schools - Transportation/Operations 	FMN 	Schools 
+464.42500 	469.42500  	WNUA361 	RM	CC 1TG 20100SL 1	TECUMSEH LS 	Tecumseh Local Schools - Transportation 	DMR 	Schools 
+464.42500 	469.42500  	WNUA361 	RM	CC 1TG 20200SL 2	TECUMSEH 	Tecumseh Local Schools 	DMR 	Schools 
+464.52500 	469.52500  	WNSV358 	RM	125 DPL	SCSD TXP 	Springfield City Schools - Transportation 	FMN 	Schools 
+464.82500 	469.82500  	WPBK312 	RM	82.5 PL	NORWEST LSD 	Northwestern Local Schools - Transportation 	FMN 	Schools 
+155.34000 	   	 	BM		SRMC ER 14 	Sprignfield Regional Medical Center (ER 14) 	FMN 	Hospital 
+462.32500 	467.32500  	WPWL496 	RM	79.7 PL	SRMC Security 	Springfield Regional Medical Center security 	FMN 	Security 
+161.67000 	   	 	M		WIZE-AM IFB 	WIZE-AM 1340 kHz Remote Broadcast Pickup 	FMN 	Media 
+450.75000 	   	 	M		WIZE FM IFB 	WIZE-FM Remote Pickup 	FMN 	Media 
+455.31250 	   	 	M	CSQ	WIZE AM IFB 	WIZE-AM 1340 KHz Remote Pickup 	FMN 	Media 
+451.08750 	456.08750  	WPNY544 	RM	101 NAC	Columbia Gas 	Columbia Gas of Ohio 	P25 	Utilities 
+152.30750 	   	 	BM	731 DPL	WU Taxi Srvc 	Witternberg University Taxi Service 	FMN 	Transportation 
+152.31500 	157.57500  	WPWF498 	RM	731 DPL	WU Phys Plant 	Wittenberg University - Physical Plant Operations 	FMN 	Schools 
+152.40500 	157.66500  	WPWF498 	RM	731 DPL	WU Ops 	Wittenberg University - Operations? 	FMN 	Schools 
+Advanced Radio Technology	 LTR Standard	 Various	Clark County Engineer	 DMR Conventional Networked	 Springfield	Navistar International Inc	 EDACS Narrowband	 Springfield
+Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	P and R Communications Connect Plus (Ohio)	 DMR Motorola Connect Plus (TRBO)	 Various
+P and R Spectrum Communications (Springfield)	 LTR Standard	 Springfield	Smart Link Systems	 LTR Standard	 Various	W/S Electronics	 Project 25 Phase I	 Springfield, OH
+W/S Electronics EDACS	 EDACS Standard	 Xenia	

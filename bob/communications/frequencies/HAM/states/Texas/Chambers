@@ -1,17 +1,16 @@
-155.80500 	KWF869 	RM	146.2 PL	CCFD DSPATCH 	Fire/EMS Dispatch (dispatch only from trunked system talkgroup 46768) 	FM 	Fire Dispatch 
-154.41500 	WNZC303 	RM	156.7 PL	CCFD RSPONSE 	Fire/EMS Response 	FM 	Fire Dispatch 
-154.26500 	WNZC303 	M	CSQ	CC FIRE TAC1 	Fire/EMS Tactical 1 	FM 	Fire-Tac 
-154.41500 	WNZC303 	BM	156.7 PL	CC FIRE TAC2 	Fire/EMS Tactical 2 	FM 	Fire-Tac 
-153.98000 	KNAX254 	BM	CSQ	AnahuacFDTac 	Fire Talk-Around / City Utilities 	FM 	Fire-Tac 
-151.77500 	WQTJ798 	BM		AISD Bus/Mnt 	Buses/Maintenance 	FMN 	Schools 
-463.65000 	WQSF208  	RM		BHISD 	School District 	FMN 	Schools 
-151.86500 	WQPX500 	BM	CSQ	ECHS/ES/Bus 	East Chambers High and Elementary Schools - Buses/Operations 	FMN 	Schools 
-154.41500 	WYG210 	BM		Hankamer VFD 	Fire 	FMN 	Fire-Tac 
-154.75500 	WNFU918 	RM	146.2 PL	MtBelvieu FD 	Fire/EMS Dispatch (dispatch only from trunked system talkgroup 48496) 	FM 	Fire Dispatch 
-854.88750 	WQAQ453 	RM	532 DPL	MAMB 1 Dispatch 	Ch. 1/3 Main Dispatch 	FMN 	Interop 
-854.48750 	WQAQ453 	RM	532 DPL	MAMB 2 Tactical 	Ch. 2/4 Tactical 	FMN 	Interop 
-166.56250 	 	RM	100.0 PL	Anahuac NWR 166 	Anahuac National Wildlife Refuge - Fire/Police 	FMN 	Federal 
-169.55000 	 	RM	107.2 PL	Anahuac NWR 169 	Anahuac National Wildlife Refuge 	FMN 	Federal 
-Baytown Communications (NXDN 53)	 NXDN NEXEDGE 9600	 Houston	CenterPoint Energy Houston Electric	 OpenSky 9600 baud	 Houston	Entergy 	 Project 25 Phase II
- Various	Exxon Mobil Plastics Plant	 LTR Standard	 Mont Belvieu	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	Texas Wide Area Radio Network (TxWARN)
- Project 25 Phase II	 Various	
+155.80500 	154.99500  	KWF869 	RM	146.2 PL	CCFD DSPATCH 	Fire/EMS Dispatch (dispatch only from trunked system talkgroup 46768) 	FM 	Fire Dispatch 
+154.41500 	153.77000  	WNZC303 	RM	156.7 PL	CCFD RSPONSE 	Fire/EMS Response 	FM 	Fire Dispatch 
+154.26500 	   	WNZC303 	M	CSQ	CC FIRE TAC1 	Fire/EMS Tactical 1 	FM 	Fire-Tac 
+154.41500 	   	WNZC303 	BM	156.7 PL	CC FIRE TAC2 	Fire/EMS Tactical 2 	FM 	Fire-Tac 
+153.98000 	   	KNAX254 	BM	CSQ	AnahuacFDTac 	Fire Talk-Around / City Utilities 	FM 	Fire-Tac 
+151.77500 	   	WQTJ798 	BM		AISD Bus/Mnt 	Buses/Maintenance 	FMN 	Schools 
+463.65000 	468.65000  	WQSF208  	RM		BHISD 	School District 	FMN 	Schools 
+151.86500 	   	WQPX500 	BM	CSQ	ECHS/ES/Bus 	East Chambers High and Elementary Schools - Buses/Operations 	FMN 	Schools 
+154.41500 	   	WYG210 	BM		Hankamer VFD 	Fire 	FMN 	Fire-Tac 
+154.75500 	155.31000  	WNFU918 	RM	146.2 PL	MtBelvieu FD 	Fire/EMS Dispatch (dispatch only from trunked system talkgroup 48496) 	FM 	Fire Dispatch 
+854.88750 	809.88750  	WQAQ453 	RM	532 DPL	MAMB 1 Dispatch 	Ch. 1/3 Main Dispatch 	FMN 	Interop 
+854.48750 	809.48750  	WQAQ453 	RM	532 DPL	MAMB 2 Tactical 	Ch. 2/4 Tactical 	FMN 	Interop 
+166.56250 	164.12500  	 	RM	100.0 PL	Anahuac NWR 166 	Anahuac National Wildlife Refuge - Fire/Police 	FMN 	Federal 
+169.55000 	   	 	RM	107.2 PL	Anahuac NWR 169 	Anahuac National Wildlife Refuge 	FMN 	Federal 
+Baytown Communications (NXDN 53)	 NXDN NEXEDGE 9600	 Houston	BrandMeister Texas	 DMR Conventional Networked	 Various	CenterPoint Energy Houston Electric	 OpenSky 9600 baud	 Houston
+Entergy 	 Project 25 Phase II	 Various	Exxon Mobil Plastics Plant	 LTR Standard	 Mont Belvieu	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston

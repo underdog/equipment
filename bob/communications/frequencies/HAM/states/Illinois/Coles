@@ -1,93 +1,93 @@
-155.67000 	KSC428 	RM	88.5 PL	Coles Sheriff  	Sheriff: Dispatch  / Courthouse Security [Ch 1]  	FMN 	Law Dispatch 
-155.67000 	KSC428 	M	88.5 PL	Coles Sheriff  	Sheriff: Unit-to-Unit (Private Cal") [Ch 2] 	FMN 	Law Tac 
-154.65000 	KSC428 	M	88.5 PL	Coles Jail/Jv  	Jail / Juvenile Officers 	FMN 	Corrections 
-154.77000 	KSC428 	M	CSQ	Coles Shrf C2C  	Sheriff: Car-to-Car [Ch 9]  	FMN 	Law Tac 
-173.21000 	KSC428 	M		Coles MX u2u 	Sheriff: Unit-to-Unit 	FMN 	Law Tac 
-173.21000 	KSC428 	M	173.8 PL	Coles Shrf MX-1  	Sheriff: Mobile Extenders to 153.905  	FMN 	Law Tac 
-173.21000 	KSC428 	M	82.5 PL	Coles Shrf MX-2  	Sheriff: Mobile Extenders to 153.905 	FMN 	Law Tac 
-154.10000 	KXT997 	RM	88.5 PL	Coles EMA 	EMA: Operations / Siren Activation-long tone 	FMN 	Emergency Ops 
-151.22000 	KEE995 	RM	192.8 PL	Coles EMAnew 	EMA: Alerts - Simulcast of 155.145 	FMN 	Emergency Ops 
-453.06250 	WPLV576 	RM	465 DPL	Coles EMA*RF1 	EMA: Remote Link 	FMN 	Emergency Ops 
-458.06250 	WPLV576 	M		Coles EMA*RF2 	EMA: Remote Link to 154.1 / Control Warning Sirens 	FMN 	Emergency Ops 
-155.14500 	KEE995 	BM		Coles EMA F7 	EMA 	FMN 	Emergency Ops 
-159.09000 	KSC428 	RM	88.5 PL	CECOM Fire 	Fire/EMS: Countywide Dispatch 	FMN 	Fire Dispatch 
-154.23500 	WQN849 	B	CSQ	Coles FG 235 	Fireground 	FMN 	Fire-Tac 
-154.43000 	 	M	CSQ	Wab/Neoga FG 	Wabash/Neoga Fireground 	FMN 	Fire-Tac 
-154.98750 	WQCX450 	BM		Coles Health 	Public Health Department 	FMN 	Public Works 
-152.36000 	WQSW648 	RM	100.0 PL	Coles DAR A 	Dial-A-Ride: Operations 	FMN 	Transportation 
-152.90000 	WQSW648 	RM	100.0 PL	Coles DAR B 	Dial-A-Ride: Operations (Hospital) 	FMN 	Transportation 
-154.51500 	WPOB837 	RM	186.2 PL	MJFH EMS F-2 	Unit-to-Unit  	FMN 	EMS-Tac 
-155.82000 	WQBS672 	M	88.5 PL	Cole 15909*S 	Paging on Wabash Fire Freq 	FMN 	Fire-Tac 
-461.85000 	WNXM535 	RM		SBL Sec/Mnt1 	Security/Maintenance 	FMN 	Business 
-464.65000 	WNXM535 	RM		SBL Sec/Mnt2 	Security/Maintenance (CSQ Data Paging) 	FMN 	Business 
-155.34000 	KVU370 	M	100.0 PL	MERCI1 100.0 	Ambulance-to-Hospital Comms (Mobiles) 	FMN 	Hospital 
-155.34000 	KVU370 	B	CSQ	MERCI1 CSQ 	Ambulance-to-Hospital Comms (Base) 	FMN 	Hospital 
-163.25000 	KVU370 	B		SBLHC PG 1 	Paging 	FMN 	Data 
-152.48000 	WNXM535 	B		SBLHC PG 2 	Paging 	FMN 	Data 
-462.45000 	WQJJ614 	B	254.1 PL	SBLHC PG 3 	Paging - POSCAG 	FMN 	Data 
-151.02500 	KNCF617 	RM	203.5 PL	ColesTwp Roads1 	County/Township Road Maintenance (Charleston/Mattoon) 	FMN 	Public Works 
-151.02500 	KNCF617 	RM	67.0 PL	ColesTwp Roads2 	County/Township Road Maintenance (Charleston/Mattoon) 	FMN 	Public Works 
-173.36250 	WQGJ793 	F	026 DPL	CWSC WDD 	Clear Water Service Company: Water Distribution Data 	FMN 	Data 
-453.82500 	WPKT612 	RM		MttnTwp Roads 	Mattoon Township Road Maintenance 	FMN 	Public Works 
-156.16500 	WPXN411 	RM	167.9 PL	NOwTwp Roads 	North Okaw Township Road Maintenance (Humbolt) 	FMN 	Public Works 
-460.85000 	WPNIH213 	RM		OklndTwp Roads 	Oakland Township Road Maintenance  	FMN 	Public Works 
-151.07000 	WPMG254 	RM	74.4 PL	Chstn Police 	Police: Dispatch [Ch 1/2] 	FMN 	Law Dispatch 
-460.25000 	KSF379 	RM	205 DPL	EIUPD Smlcst 	Police: Simulcast of 151.07 EIU PD 	FMN 	Law Dispatch 
-151.47500 	KJU218 	RM	123.0 PL	Chrlstn Fire 	Fire/Rescue: Paging/Dispatch/Local 	FMN 	Fire Dispatch 
-158.74500 	KRV932 	RM	123.0 PL	Chstn PW 1 	Maintenance Department/Roads  	FMN 	Public Works 
-173.26250 	WNIG631 	F		Chstn WDD 1 	Water Distribution Data (CSQ) 	FMN 	Data 
-456.13750 	WQFP414 	F		Chstn WDD 2 	Water Distribution Data 	FMN 	Data 
-154.20500 	 	M	CSQ	Hmblt FG 	Fireground (in use) 	FMN 	Fire-Tac 
-154.23500 	WQN849 	RM	88.5 PL	LnclnRurFire 	Fireground [Ch 1/2] (CSQ in) 	FMN 	Fire-Tac 
-154.81500 	KSA874 	RM	167.9 PL	Mattoon Police1  	Police: Dispatch / Paging [Speech-Inversion capable]  	FMN 	Law Dispatch 
-453.38750 	WQKX502 	F	632 DPL	Matn Police RF 1 	Police: Remote Link - Lakeland College (Constant Carrier w/ tone) 	FMN 	Law Dispatch 
-453.78750 	WQKX502 	F		Matn Police RF 2 	Police: Remote Link - FW Way (*corrected) 	FMN 	Law Dispatch 
-465.12500 	KSA874 	M		Matn Police MX 	Police: Mobile Extenders  	FMN 	Law Tac 
-155.14500 	 	M		Coles EMA F7 	EMA: Operations [Ch 6]/[Ch 15] 	FMN 	Emergency Ops 
-154.38500 	WPIT504 	RM	192.8 PL	Mattoon Fire 	Mattoon Fire [Ch 1/3] 	FMN 	Fire Dispatch 
-155.08500 	KNNN227 	BM	192.8 PL	Matt FireTA2 	Fireground 	FMN 	Fire-Tac 
-158.77500 	 	M		Cole A/P Ops 	Charleston Fireground ?? 	FMN 	Fire-Tac 
-154.04000 	KDO332 	BM	043 DPL	Matn PubWrks Old 	Public Works: Old [Deleted from license] 	FMN 	Public Works 
-159.32250 	KDO332 	RM		Mattoon PubWorks 	Public Works - New 	FMN 	Public Works 
-469.50000 	WNRN998 	M	241.8 PL	Oakland Police 	Police: Rebroadcasts Sheriff 155.67 	FMN 	Law Dispatch 
-158.77500 	WQOQ856 	BM	465 DPL	Oklnd FD Tac 	Fire: Tactical/Fireground (in use 12/11) 	FMN 	Fire Dispatch 
-154.13000 	 	BM	CSQ	SHMrgn Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.82000 	WQBS672 	B	88.5 PL	Cole 15909*S 	Fire: Simulcast of all 159.09R-Countywide Fire Dispatch (Local for paging) 	FMN 	Fire Dispatch 
-155.14500 	 	M	167.9 PL	Wabash FG 	Fireground 	FMN 	Fire-Tac 
-462.08750 	WQZI961 	RM	051 DPL	ICSB Charleston 	Illinois Central School Bus (Charleston) 	FMN 	Schools 
-152.40500 	WQGK871 	BM		MtnSD2 Bus 	Buses/Maintenance (in use) 	DMR 	Schools 
-160.03500 	WPPY881 	M		MSD MidSchOp 	Middle School: Admin/Maintenance 	FMN 	Schools 
-159.82500 	WPVI745 	M		Mttn Sch Op1 	School Ops 	FMN 	Schools 
-159.72000 	WPVI745 	M		Mttn Sch Op2 	School Ops 	FMN 	Schools 
-159.76500 	WPVI745 	M		Mttn Sch Op3 	School Ops 	FMN 	Schools 
-160.15500 	WPVI745 	M		Mttn Sch Op4 	School Ops 	FMN 	Schools 
-160.20000 	WPVI745 	M		Mttn Sch Op5 	School Ops 	FMN 	Schools 
-151.83500 	WPIU430 	BM		Mttn HS Ops1 	High School Ops 	FMN 	Schools 
-153.57500 	WPIU430 	M		Mttn HS Ops2 	High School Ops 	FMN 	Schools 
-151.74500 	WPEW923 	RM	503 DPL	1Stdnt Chstn 	First Student: Buses (Charleston) [No longer in use] 	FMN 	Schools 
-158.40000 	WPMA340 	M		StJohns Sch 	Operations (Statewide) 	FMN 	Business 
-151.18250 	KNAB703 	RM	88.5 PL	EIU Police New 	Police: Dispatch - NEW 	FMN 	Law Dispatch 
-453.90000 	KNAB703 	RM	465 DPL	EIU Security 	Security/Police (also simplex to CECOM) 	FMN 	Law Dispatch 
-151.82000 	 	M	465 DPL	EIU Sec*Rebr 	{Rebroadcast of} EIU Security/Police 453.9 	FMN 	Law Dispatch 
-158.40000 	 	F	311 DPL	EIU Scrty RF 	Police: Simulcast of 453.9R [No License] 	FMN 	Law Dispatch 
-460.25000 	KSF379 	F	205 DPL	EIU Link CPD 	{Simulcast of} Charleston Police 151.07R 	FMN 	Law Dispatch 
-453.85000 	WQIP783 	RM	465 DPL	EIU Safety 	Safety / Tornado Sirens (to CECOM) 	FMN 	Emergency Ops 
-453.60000 	KNAY657 	RM	110.9 PL	EIU Maintnce 	Maintenance (& Base 2: Police to Maintenance) 	FMN 	Schools 
-453.65000 	KNAY657 	RM		EIU Maint 2 	Maintenance (Base 1 - secondary channel) 	FMN 	Schools 
-461.57500 	WPLH463 	M		EIU Maint 3 	Maintenance Ops 	FMN 	Schools 
-463.57500 	WPLH463 	M		EIU Maint 4 	Maintenance Ops 	FMN 	Schools 
-151.68500 	WPIY501 	BM		EIU PG/Patch 	Facilities Maintenance Phone Patch (MLK Jr. Bldg) 	FMN 	Schools 
-452.22500 	WQCE278 	RM		EIU ITS 	ITS Department 	FMN 	Schools 
-464.50000 	WPEC570 	M		EIU Library1 	Booth Media Library - Security/Intercoms - Teachers 	FMN 	Schools 
-464.55000 	WPEC570 	M		EIU Library2 	Booth Media Library - Security/Intercoms - Teachers 	FMN 	Schools 
-155.79000 	WPMI550 	RM	151.4 PL	LLCC Police 	Police: Dispatch (DB: Local during days only) 	FMN 	Law Dispatch 
-138.45000 	 			CAP training 	Civil Air Patrol (night operations training) 	AM 	Aircraft 
-139.72500 	 			FBI Air Ops Trng 	Air Operations Training 	AM 	Aircraft 
-163.91250 	 	RM		FBI Charleston 	FBI  	P25E 	Law Tac 
-154.23500 	 	BM		Cole A/P FD 	Fire [Expired] (in use 12/06) 	FMN 	Fire Dispatch 
-158.77500 	KNCF628 	BM		Cole A/P Ops 	Airport Ops [Expired] 	FMN 	Public Works 
-132.85000 	 	B	CSQ	Cha Appr/Dep 	Champaign Approach/Departure 	AM 	Aircraft 
-121.35000 	 	B	CSQ	MTO ApchDep 	Approach/Departure (by Chicago ARTCC - Remoted Champaign (when CHMP closed) 	AM 	Aircraft 
-122.70000 	 	B	CSQ	MTO UNICOM 	CTAF/UNICOM (*reported as approach/depature 1/09) 	AM 	Aircraft 
-109.40000 	 	B	CSQ	MTO WX AWOS 	WX ASOS (217-234-8442) 	AM 	Aircraft 
-Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	
+155.67000 	153.90500  	KSC428 	RM	88.5 PL	Coles Sheriff  	Sheriff: Dispatch  / Courthouse Security [Ch 1]  	FMN 	Law Dispatch 
+155.67000 	   	KSC428 	M	88.5 PL	Coles Sheriff  	Sheriff: Unit-to-Unit (Private Cal") [Ch 2] 	FMN 	Law Tac 
+154.65000 	   	KSC428 	M	88.5 PL	Coles Jail/Jv  	Jail / Juvenile Officers 	FMN 	Corrections 
+154.77000 	   	KSC428 	M	CSQ	Coles Shrf C2C  	Sheriff: Car-to-Car [Ch 9]  	FMN 	Law Tac 
+173.21000 	   	KSC428 	M		Coles MX u2u 	Sheriff: Unit-to-Unit 	FMN 	Law Tac 
+173.21000 	   	KSC428 	M	173.8 PL	Coles Shrf MX-1  	Sheriff: Mobile Extenders to 153.905  	FMN 	Law Tac 
+173.21000 	   	KSC428 	M	82.5 PL	Coles Shrf MX-2  	Sheriff: Mobile Extenders to 153.905 	FMN 	Law Tac 
+154.10000 	158.91000  	KXT997 	RM	88.5 PL	Coles EMA 	EMA: Operations / Siren Activation-long tone 	FMN 	Emergency Ops 
+151.22000 	156.00000  	KEE995 	RM	192.8 PL	Coles EMAnew 	EMA: Alerts - Simulcast of 155.145 	FMN 	Emergency Ops 
+453.06250 	   	WPLV576 	RM	465 DPL	Coles EMA*RF1 	EMA: Remote Link 	FMN 	Emergency Ops 
+458.06250 	   	WPLV576 	M		Coles EMA*RF2 	EMA: Remote Link to 154.1 / Control Warning Sirens 	FMN 	Emergency Ops 
+155.14500 	   	KEE995 	BM		Coles EMA F7 	EMA 	FMN 	Emergency Ops 
+159.09000 	156.09000  	KSC428 	RM	88.5 PL	CECOM Fire 	Fire/EMS: Countywide Dispatch 	FMN 	Fire Dispatch 
+154.23500 	   	WQN849 	B	CSQ	Coles FG 235 	Fireground 	FMN 	Fire-Tac 
+154.43000 	   	 	M	CSQ	Wab/Neoga FG 	Wabash/Neoga Fireground 	FMN 	Fire-Tac 
+154.98750 	   	WQCX450 	BM		Coles Health 	Public Health Department 	FMN 	Public Works 
+152.36000 	152.90000  	WQSW648 	RM	100.0 PL	Coles DAR A 	Dial-A-Ride: Operations 	FMN 	Transportation 
+152.90000 	158.34000  	WQSW648 	RM	100.0 PL	Coles DAR B 	Dial-A-Ride: Operations (Hospital) 	FMN 	Transportation 
+154.51500 	159.51000  	WPOB837 	RM	186.2 PL	MJFH EMS F-2 	Unit-to-Unit  	FMN 	EMS-Tac 
+155.82000 	   	WQBS672 	M	88.5 PL	Cole 15909*S 	Paging on Wabash Fire Freq 	FMN 	Fire-Tac 
+461.85000 	466.85000  	WNXM535 	RM		SBL Sec/Mnt1 	Security/Maintenance 	FMN 	Business 
+464.65000 	469.75000  	WNXM535 	RM		SBL Sec/Mnt2 	Security/Maintenance (CSQ Data Paging) 	FMN 	Business 
+155.34000 	   	KVU370 	M	100.0 PL	MERCI1 100.0 	Ambulance-to-Hospital Comms (Mobiles) 	FMN 	Hospital 
+155.34000 	   	KVU370 	B	CSQ	MERCI1 CSQ 	Ambulance-to-Hospital Comms (Base) 	FMN 	Hospital 
+163.25000 	   	KVU370 	B		SBLHC PG 1 	Paging 	FMN 	Data 
+152.48000 	   	WNXM535 	B		SBLHC PG 2 	Paging 	FMN 	Data 
+462.45000 	   	WQJJ614 	B	254.1 PL	SBLHC PG 3 	Paging - POSCAG 	FMN 	Data 
+151.02500 	156.16500  	KNCF617 	RM	203.5 PL	ColesTwp Roads1 	County/Township Road Maintenance (Charleston/Mattoon) 	FMN 	Public Works 
+151.02500 	156.16500  	KNCF617 	RM	67.0 PL	ColesTwp Roads2 	County/Township Road Maintenance (Charleston/Mattoon) 	FMN 	Public Works 
+173.36250 	   	WQGJ793 	F	026 DPL	CWSC WDD 	Clear Water Service Company: Water Distribution Data 	FMN 	Data 
+453.82500 	   	WPKT612 	RM		MttnTwp Roads 	Mattoon Township Road Maintenance 	FMN 	Public Works 
+156.16500 	159.06000  	WPXN411 	RM	167.9 PL	NOwTwp Roads 	North Okaw Township Road Maintenance (Humbolt) 	FMN 	Public Works 
+460.85000 	465.86000  	WPNIH213 	RM		OklndTwp Roads 	Oakland Township Road Maintenance  	FMN 	Public Works 
+151.07000 	156.14250  	WPMG254 	RM	74.4 PL	Chstn Police 	Police: Dispatch [Ch 1/2] 	FMN 	Law Dispatch 
+460.25000 	151.07000  	KSF379 	RM	205 DPL	EIUPD Smlcst 	Police: Simulcast of 151.07 EIU PD 	FMN 	Law Dispatch 
+151.47500 	153.93500  	KJU218 	RM	123.0 PL	Chrlstn Fire 	Fire/Rescue: Paging/Dispatch/Local 	FMN 	Fire Dispatch 
+158.74500 	153.80000  	KRV932 	RM	123.0 PL	Chstn PW 1 	Maintenance Department/Roads  	FMN 	Public Works 
+173.26250 	   	WNIG631 	F		Chstn WDD 1 	Water Distribution Data (CSQ) 	FMN 	Data 
+456.13750 	   	WQFP414 	F		Chstn WDD 2 	Water Distribution Data 	FMN 	Data 
+154.20500 	   	 	M	CSQ	Hmblt FG 	Fireground (in use) 	FMN 	Fire-Tac 
+154.23500 	158.95500  	WQN849 	RM	88.5 PL	LnclnRurFire 	Fireground [Ch 1/2] (CSQ in) 	FMN 	Fire-Tac 
+154.81500 	156.03000  	KSA874 	RM	167.9 PL	Mattoon Police1  	Police: Dispatch / Paging [Speech-Inversion capable]  	FMN 	Law Dispatch 
+453.38750 	   	WQKX502 	F	632 DPL	Matn Police RF 1 	Police: Remote Link - Lakeland College (Constant Carrier w/ tone) 	FMN 	Law Dispatch 
+453.78750 	   	WQKX502 	F		Matn Police RF 2 	Police: Remote Link - FW Way (*corrected) 	FMN 	Law Dispatch 
+465.12500 	   	KSA874 	M		Matn Police MX 	Police: Mobile Extenders  	FMN 	Law Tac 
+155.14500 	   	 	M		Coles EMA F7 	EMA: Operations [Ch 6]/[Ch 15] 	FMN 	Emergency Ops 
+154.38500 	156.00000  	WPIT504 	RM	192.8 PL	Mattoon Fire 	Mattoon Fire [Ch 1/3] 	FMN 	Fire Dispatch 
+155.08500 	   	KNNN227 	BM	192.8 PL	Matt FireTA2 	Fireground 	FMN 	Fire-Tac 
+158.77500 	   	 	M		Cole A/P Ops 	Charleston Fireground ?? 	FMN 	Fire-Tac 
+154.04000 	   	KDO332 	BM	043 DPL	Matn PubWrks Old 	Public Works: Old [Deleted from license] 	FMN 	Public Works 
+159.32250 	154.96500  	KDO332 	RM		Mattoon PubWorks 	Public Works - New 	FMN 	Public Works 
+469.50000 	   	WNRN998 	M	241.8 PL	Oakland Police 	Police: Rebroadcasts Sheriff 155.67 	FMN 	Law Dispatch 
+158.77500 	   	WQOQ856 	BM	465 DPL	Oklnd FD Tac 	Fire: Tactical/Fireground (in use 12/11) 	FMN 	Fire Dispatch 
+154.13000 	   	 	BM	CSQ	SHMrgn Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.82000 	   	WQBS672 	B	88.5 PL	Cole 15909*S 	Fire: Simulcast of all 159.09R-Countywide Fire Dispatch (Local for paging) 	FMN 	Fire Dispatch 
+155.14500 	   	 	M	167.9 PL	Wabash FG 	Fireground 	FMN 	Fire-Tac 
+462.08750 	467.08750  	WQZI961 	RM	051 DPL	ICSB Charleston 	Illinois Central School Bus (Charleston) 	FMN 	Schools 
+152.40500 	   	WQGK871 	BM		MtnSD2 Bus 	Buses/Maintenance (in use) 	DMR 	Schools 
+160.03500 	   	WPPY881 	M		MSD MidSchOp 	Middle School: Admin/Maintenance 	FMN 	Schools 
+159.82500 	   	WPVI745 	M		Mttn Sch Op1 	School Ops 	FMN 	Schools 
+159.72000 	   	WPVI745 	M		Mttn Sch Op2 	School Ops 	FMN 	Schools 
+159.76500 	   	WPVI745 	M		Mttn Sch Op3 	School Ops 	FMN 	Schools 
+160.15500 	   	WPVI745 	M		Mttn Sch Op4 	School Ops 	FMN 	Schools 
+160.20000 	   	WPVI745 	M		Mttn Sch Op5 	School Ops 	FMN 	Schools 
+151.83500 	   	WPIU430 	BM		Mttn HS Ops1 	High School Ops 	FMN 	Schools 
+153.57500 	   	WPIU430 	M		Mttn HS Ops2 	High School Ops 	FMN 	Schools 
+151.74500 	159.96000  	WPEW923 	RM	503 DPL	1Stdnt Chstn 	First Student: Buses (Charleston) [No longer in use] 	FMN 	Schools 
+158.40000 	   	WPMA340 	M		StJohns Sch 	Operations (Statewide) 	FMN 	Business 
+151.18250 	159.46500  	KNAB703 	RM	88.5 PL	EIU Police New 	Police: Dispatch - NEW 	FMN 	Law Dispatch 
+453.90000 	458.90000  	KNAB703 	RM	465 DPL	EIU Security 	Security/Police (also simplex to CECOM) 	FMN 	Law Dispatch 
+151.82000 	   	 	M	465 DPL	EIU Sec*Rebr 	{Rebroadcast of} EIU Security/Police 453.9 	FMN 	Law Dispatch 
+158.40000 	   	 	F	311 DPL	EIU Scrty RF 	Police: Simulcast of 453.9R [No License] 	FMN 	Law Dispatch 
+460.25000 	   	KSF379 	F	205 DPL	EIU Link CPD 	{Simulcast of} Charleston Police 151.07R 	FMN 	Law Dispatch 
+453.85000 	458.85000  	WQIP783 	RM	465 DPL	EIU Safety 	Safety / Tornado Sirens (to CECOM) 	FMN 	Emergency Ops 
+453.60000 	458.60000  	KNAY657 	RM	110.9 PL	EIU Maintnce 	Maintenance (& Base 2: Police to Maintenance) 	FMN 	Schools 
+453.65000 	458.65000  	KNAY657 	RM		EIU Maint 2 	Maintenance (Base 1 - secondary channel) 	FMN 	Schools 
+461.57500 	   	WPLH463 	M		EIU Maint 3 	Maintenance Ops 	FMN 	Schools 
+463.57500 	   	WPLH463 	M		EIU Maint 4 	Maintenance Ops 	FMN 	Schools 
+151.68500 	   	WPIY501 	BM		EIU PG/Patch 	Facilities Maintenance Phone Patch (MLK Jr. Bldg) 	FMN 	Schools 
+452.22500 	457.22500  	WQCE278 	RM		EIU ITS 	ITS Department 	FMN 	Schools 
+464.50000 	   	WPEC570 	M		EIU Library1 	Booth Media Library - Security/Intercoms - Teachers 	FMN 	Schools 
+464.55000 	   	WPEC570 	M		EIU Library2 	Booth Media Library - Security/Intercoms - Teachers 	FMN 	Schools 
+155.79000 	153.75500  	WPMI550 	RM	151.4 PL	LLCC Police 	Police: Dispatch (DB: Local during days only) 	FMN 	Law Dispatch 
+138.45000 	   	 			CAP training 	Civil Air Patrol (night operations training) 	AM 	Aircraft 
+139.72500 	   	 			FBI Air Ops Trng 	Air Operations Training 	AM 	Aircraft 
+163.91250 	   	 	RM		FBI Charleston 	FBI  	P25E 	Law Tac 
+154.23500 	   	 	BM		Cole A/P FD 	Fire [Expired] (in use 12/06) 	FMN 	Fire Dispatch 
+158.77500 	   	KNCF628 	BM		Cole A/P Ops 	Airport Ops [Expired] 	FMN 	Public Works 
+132.85000 	   	 	B	CSQ	Cha Appr/Dep 	Champaign Approach/Departure 	AM 	Aircraft 
+121.35000 	   	 	B	CSQ	MTO ApchDep 	Approach/Departure (by Chicago ARTCC - Remoted Champaign (when CHMP closed) 	AM 	Aircraft 
+122.70000 	   	 	B	CSQ	MTO UNICOM 	CTAF/UNICOM (*reported as approach/depature 1/09) 	AM 	Aircraft 
+109.40000 	   	 	B	CSQ	MTO WX AWOS 	WX ASOS (217-234-8442) 	AM 	Aircraft 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Diga-Talk	 NXDN NEXEDGE 4800	 Various

@@ -1,17 +1,17 @@
-156.21000 	WQD642 	B	167.9 PL	FCFR Disp 	Fire/Rescue Dispatch (Simulcast from 800Mhz system) 	FM 	Fire Dispatch 
-854.98750 	WNHD786 	RM	026 DPL	FlaglerCPS 	School Buses 	FM 	Transportation 
-851.57500 	WQEK508 	BM	293 NAC	MRNLND R 	Marineland Repeater (Interop/Backup System) 	P25 	Interop 
-852.06250 	WQEK508 	BM	293 NAC	ESPANL R 	Espanola Repeater (Interop/Backup System) 	P25 	Interop 
-852.31250 	WQEK508 	BM	293 NAC	JAIL R 	Bunnell Repeater (Interop/Backup System) 	P25 	Interop 
-852.82500 	 	RM	293 NAC	FBEACH R 	Flagler Beach Repeater (Interop/Backup System) 	P25 	Interop 
-853.23750 	WQEK508 	BM	293 NAC	CODYS R 	Cody's Corner Repeater (Interop/Backup System) 	P25 	Interop 
-866.12500 	 	RM	131.8 PL	LAW 1 D 	Law-1 (Interop/Backup System) 	FMN 	Interop 
-866.15000 	 	RM	131.8 PL	LAW 2 D 	Law-2 (Interop/Backup System) 	FMN 	Interop 
-866.17500 	 	RM	131.8 PL	FIRE 1 D 	Fire-1(Interop/Backup System) 	FMN 	Interop 
-866.20000 	 	RM	131.8 PL	FIRE 2 D 	Fire-2 (Interop/Backup System) 	FMN 	Interop 
-866.37500 	 	RM	131.8 PL	PW 1 D 	Public Works-1 (Interop/Backup System) 	FMN 	Interop 
-866.41250 	 	RM	131.8 PL	PW 2 D 	Public Works-2 (Interop/Backup System) 	FMN 	Interop 
-866.91250 	 	RM	131.8 PL	FC 1 D 	County-1 (Interop/Backup System) 	FMN 	Interop 
-867.03750 	 	RM	131.8 PL	FC 2 D 	County-2 (Interop/Backup System) 	FMN 	Interop 
-Flagler County Public Services	 EDACS Standard	 Flagler County	Florida Power and Light (P25)	 Project 25 Phase II	 Varies	Rinker Materials (Espanola)	 LTR Standard
- Espanola	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	
+156.21000 	   	WQD642 	B	167.9 PL	FCFR Disp 	Fire/Rescue Dispatch (Simulcast from 800Mhz system) 	FM 	Fire Dispatch 
+854.98750 	809.98750  	WNHD786 	RM	026 DPL	FlaglerCPS 	School Buses 	FM 	Transportation 
+851.57500 	   	WQEK508 	BM	293 NAC	MRNLND R 	Marineland Repeater (Interop/Backup System) 	P25 	Interop 
+852.06250 	   	WQEK508 	BM	293 NAC	ESPANL R 	Espanola Repeater (Interop/Backup System) 	P25 	Interop 
+852.31250 	   	WQEK508 	BM	293 NAC	JAIL R 	Bunnell Repeater (Interop/Backup System) 	P25 	Interop 
+852.82500 	   	 	RM	293 NAC	FBEACH R 	Flagler Beach Repeater (Interop/Backup System) 	P25 	Interop 
+853.23750 	   	WQEK508 	BM	293 NAC	CODYS R 	Cody's Corner Repeater (Interop/Backup System) 	P25 	Interop 
+866.12500 	   	 	RM	131.8 PL	LAW 1 D 	Law-1 (Interop/Backup System) 	FMN 	Interop 
+866.15000 	   	 	RM	131.8 PL	LAW 2 D 	Law-2 (Interop/Backup System) 	FMN 	Interop 
+866.17500 	   	 	RM	131.8 PL	FIRE 1 D 	Fire-1(Interop/Backup System) 	FMN 	Interop 
+866.20000 	   	 	RM	131.8 PL	FIRE 2 D 	Fire-2 (Interop/Backup System) 	FMN 	Interop 
+866.37500 	   	 	RM	131.8 PL	PW 1 D 	Public Works-1 (Interop/Backup System) 	FMN 	Interop 
+866.41250 	   	 	RM	131.8 PL	PW 2 D 	Public Works-2 (Interop/Backup System) 	FMN 	Interop 
+866.91250 	   	 	RM	131.8 PL	FC 1 D 	County-1 (Interop/Backup System) 	FMN 	Interop 
+867.03750 	   	 	RM	131.8 PL	FC 2 D 	County-2 (Interop/Backup System) 	FMN 	Interop 
+Flagler County (Project 25)	 Project 25 Phase II	 Flagler County	Flagler County Public Services	 EDACS Standard	 Flagler County	Rinker Materials (Espanola)	 LTR Standard	 Espanola
+Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	

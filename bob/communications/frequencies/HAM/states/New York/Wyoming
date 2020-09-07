@@ -1,20 +1,20 @@
-155.01000 	KEB322 	RM	107.2 PL	WyoCo SO 1 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.71000 	 	BM	186.2 PL	WyoCo Fire 6 	Sheriff Car-to-Car 	FMN 	Fire Dispatch 
-453.13750 	WPKV290 	M		WyoCo SO 2 	Sheriff 	FMN 	Law Tac 
-460.13750 	WNRO338 	M		WyoCo SO 3 	Sheriff - Mobile Extender 	FMN 	Law Talk 
-155.67000 	WQRL404 	RM	82.5 PL	WyoCo Fire 1 	Fire 1 - Dispatch 	FMN 	Fire Dispatch 
-151.48250 	WQRL417 	BM	116 DPL	WyoCo Fire 2 	Fire 2 - Operations 	FMN 	Fire-Tac 
-151.38500 	WQRL417 	BM	223 DPL	WyoCo Fire 3 	Fire 3 - Interior Operations 	FMN 	Fire-Tac 
-155.86500 	WQRL417 	BM	631 DPL	WyoCo Fire 4 	Fire 4 - Water Supply 	FMN 	Fire-Tac 
-151.44500 	WQRL417 	M	132 DPL	WyoCo Fire 5 	Fire 5 - Fire Police 	FMN 	Fire-Talk 
-154.00250 	WQWN703 	RM	186.2 PL	WyoCo Em Svc 	Fire Emergency Service (Back-up Dispatch) 	FMN 	Fire Dispatch 
-155.12250 	 	M		WyoCo EMS 	EMS - Tactical 	FMN 	EMS-Tac 
-151.13000 	KSV848 	RM	123.0 PL	WyoCo DPW 	County Highway 	FMN 	Public Works 
-156.12000 	KNAL783 	BM	023 DPL	Arcade DPW 	Arcade DPW 	FMN 	Public Works 
-159.35250 	WQFB260 	RM	732 DPL	Perry PD 	Police 	FMN 	Law Talk 
-453.23750 	WPWA746 	RM		Perry PS 	Public Safety 	FMN 	Multi-Talk 
-453.36250 	WPWA746 	RM		Perry PS 	Public Safety 	FMN 	Multi-Talk 
-453.56250 	WPWA746 	RM		Perry PS 	Public Safety 	FMN 	Multi-Talk 
-151.07000 	KNIZ669 	BM	123.0 PL	Warsaw DPW 	Warsaw DPW 	FMN 	Public Works 
-FM Communications (NEXEDGE)	 NXDN NEXEDGE 9600	 Various	Mobiletech Communications	 LTR Net	 Various	New York State Electric and Gas (NYSEG)	 Project 25 Phase I
- Statewide	Saia Communications (Passport)	 LTR Passport	 Various	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various	
+155.01000 	158.84250  	KEB322 	RM	107.2 PL	WyoCo SO 1 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.71000 	   	 	BM	186.2 PL	WyoCo Fire 6 	Sheriff Car-to-Car 	FMN 	Fire Dispatch 
+453.13750 	   	WPKV290 	M		WyoCo SO 2 	Sheriff 	FMN 	Law Tac 
+460.13750 	   	WNRO338 	M		WyoCo SO 3 	Sheriff - Mobile Extender 	FMN 	Law Talk 
+155.67000 	159.24750  	WQRL404 	RM	82.5 PL	WyoCo Fire 1 	Fire 1 - Dispatch 	FMN 	Fire Dispatch 
+151.48250 	   	WQRL417 	BM	116 DPL	WyoCo Fire 2 	Fire 2 - Operations 	FMN 	Fire-Tac 
+151.38500 	   	WQRL417 	BM	223 DPL	WyoCo Fire 3 	Fire 3 - Interior Operations 	FMN 	Fire-Tac 
+155.86500 	   	WQRL417 	BM	631 DPL	WyoCo Fire 4 	Fire 4 - Water Supply 	FMN 	Fire-Tac 
+151.44500 	   	WQRL417 	M	132 DPL	WyoCo Fire 5 	Fire 5 - Fire Police 	FMN 	Fire-Talk 
+154.00250 	158.80500  	WQWN703 	RM	186.2 PL	WyoCo Em Svc 	Fire Emergency Service (Back-up Dispatch) 	FMN 	Fire Dispatch 
+155.12250 	   	 	M		WyoCo EMS 	EMS - Tactical 	FMN 	EMS-Tac 
+151.13000 	156.18000  	KSV848 	RM	123.0 PL	WyoCo DPW 	County Highway 	FMN 	Public Works 
+156.12000 	   	KNAL783 	BM	023 DPL	Arcade DPW 	Arcade DPW 	FMN 	Public Works 
+159.35250 	153.92750  	WQFB260 	RM	732 DPL	Perry PD 	Police 	FMN 	Law Talk 
+453.23750 	458.23750  	WPWA746 	RM		Perry PS 	Public Safety 	FMN 	Multi-Talk 
+453.36250 	458.36250  	WPWA746 	RM		Perry PS 	Public Safety 	FMN 	Multi-Talk 
+453.56250 	458.56250  	WPWA746 	RM		Perry PS 	Public Safety 	FMN 	Multi-Talk 
+151.07000 	   	KNIZ669 	BM	123.0 PL	Warsaw DPW 	Warsaw DPW 	FMN 	Public Works 
+FM Communications (NEXEDGE)	 NXDN NEXEDGE 9600	 Various	Mobiletech Communications	 LTR Net	 Various	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide
+Saia Communications (Passport)	 LTR Passport	 Various	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various	

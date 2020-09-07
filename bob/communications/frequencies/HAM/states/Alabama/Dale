@@ -1,28 +1,28 @@
-453.30000 	KNEA837 	RM	151.4 PL	Dale SO Disp 	Sheriff Dispatch (includes Pinkard and Newton Police) 	FMN 	Law Dispatch 
-453.25000 	KNAU432 	RM	131 DPL	Dale Co Fire 	Rural Fire 	FMN 	Fire Dispatch 
-155.34000 	WQOL214 	BM	71.9 PL	DMC HEAR 	Dale Medical Center 	FMN 	Hospital 
-453.95000 	WPFT731 	RM		Dale Co Road 	Highway Department 	FM 	Public Works 
-154.20500 	WNQW948 	RM	192.8 PL	Ariton PD/FD 	Police and Fire Dispatch 	FMN 	Multi-Dispatch 
-156.21000 	KNBL429 	BM		ClyhtcheePD1 	Police Dispatch 	FM 	Law Dispatch 
-155.55000 	KNBL429 	BM		ClyhtcheePD2 	Police 	FM 	Law Talk 
-156.01500 	KNIA201 	RM	134 DPL	Dville PD 1 	Police / Fire Dispatch 	FM 	Multi-Dispatch 
-155.55000 	KNHZ981 	BM		Dville PD 2 	Police 	FM 	Law Talk 
-155.41500 	KQL701 	RM	151.4 PL	LvlPlainsPD1 	Police Dispatch 	FM 	Law Dispatch 
-155.55000 	KQL701 	BM		LvlPlainsPD2 	Police Countywide 	FM 	Law Talk 
-155.55000 	KTX591 	BM		MidlndCty PD 	Police Dispatch 	FM 	Law Dispatch 
-154.35500 	WNUB251 	BM		MidlndCty FD 	Fire Dispatch 	FM 	Fire Dispatch 
-155.08500 	WNYH457 	BM		Newton CMN 	DPW/Fire 	FM 	Multi-Dispatch 
-154.34000 	WPFG514 	BM		Newton VFD 	VFD Dispatch 	FM 	Fire Dispatch 
-155.82000 	WNKS886 	RM	203.5 PL	Ozark PD 1 	Police Dispatch 	FM 	Law Dispatch 
-155.52000 	KIA711 	BM		Ozark PD 2 	Police Alternate Dispatch 	FM 	Law Talk 
-155.55000 	KIA711 	BM		Ozark PD 3 	Police Countywide 	FM 	Law Talk 
-154.32500 	WNAL706 	RM	203.5 PL	Ozark FD 1 	Fire Dispatch 	FM 	Fire Dispatch 
-154.29500 	WNAL706 	M		Ozark FD FG 	Fire Fireground 	FM 	Fire-Tac 
-155.76000 	KBR510 	BM		Ozark DPW 	Dept. of Public Works 	FM 	Public Works 
-155.98500 	KBR510 	M		Ozark CMN 	DPW/Police 	FM 	Multi-Talk 
-156.11250 	WQEN554 	RM		Ozark Roads 	Highway Dept. 	FMN 	Public Works 
-155.55000 	WNVQ887 	BM		Pinckard PD 	Police 	FM 	Law Dispatch 
-155.04000 	WNVQ924 	BM		Pinckard CMN 	DPW/Fire 	FM 	Multi-Dispatch 
-154.75500 	WPMG652 	RM		GCWSCC Sec 1 	State Facility Security 	FMN 	Law Dispatch 
-155.31000 	WPMG652 	BM		GCWSCC Sec 2 	State Facility Security 	FMN 	Law Talk 
+453.30000 	458.30000  	KNEA837 	RM	151.4 PL	Dale SO Disp 	Sheriff Dispatch (includes Pinkard and Newton Police) 	FMN 	Law Dispatch 
+453.25000 	458.25000  	KNAU432 	RM	131 DPL	Dale Co Fire 	Rural Fire 	FMN 	Fire Dispatch 
+155.34000 	   	WQOL214 	BM	71.9 PL	DMC HEAR 	Dale Medical Center 	FMN 	Hospital 
+453.95000 	458.95000  	WPFT731 	RM		Dale Co Road 	Highway Department 	FM 	Public Works 
+154.20500 	150.80500  	WNQW948 	RM	192.8 PL	Ariton PD/FD 	Police and Fire Dispatch 	FMN 	Multi-Dispatch 
+156.21000 	   	KNBL429 	BM		ClyhtcheePD1 	Police Dispatch 	FM 	Law Dispatch 
+155.55000 	   	KNBL429 	BM		ClyhtcheePD2 	Police 	FM 	Law Talk 
+156.01500 	153.81500  	KNIA201 	RM	134 DPL	Dville PD 1 	Police / Fire Dispatch 	FM 	Multi-Dispatch 
+155.55000 	   	KNHZ981 	BM		Dville PD 2 	Police 	FM 	Law Talk 
+155.41500 	158.77500  	KQL701 	RM	151.4 PL	LvlPlainsPD1 	Police Dispatch 	FM 	Law Dispatch 
+155.55000 	   	KQL701 	BM		LvlPlainsPD2 	Police Countywide 	FM 	Law Talk 
+155.55000 	   	KTX591 	BM		MidlndCty PD 	Police Dispatch 	FM 	Law Dispatch 
+154.35500 	   	WNUB251 	BM		MidlndCty FD 	Fire Dispatch 	FM 	Fire Dispatch 
+155.08500 	   	WNYH457 	BM		Newton CMN 	DPW/Fire 	FM 	Multi-Dispatch 
+154.34000 	   	WPFG514 	BM		Newton VFD 	VFD Dispatch 	FM 	Fire Dispatch 
+155.82000 	158.88000  	WNKS886 	RM	203.5 PL	Ozark PD 1 	Police Dispatch 	FM 	Law Dispatch 
+155.52000 	   	KIA711 	BM		Ozark PD 2 	Police Alternate Dispatch 	FM 	Law Talk 
+155.55000 	   	KIA711 	BM		Ozark PD 3 	Police Countywide 	FM 	Law Talk 
+154.32500 	154.04000  	WNAL706 	RM	203.5 PL	Ozark FD 1 	Fire Dispatch 	FM 	Fire Dispatch 
+154.29500 	   	WNAL706 	M		Ozark FD FG 	Fire Fireground 	FM 	Fire-Tac 
+155.76000 	158.91000  	KBR510 	BM		Ozark DPW 	Dept. of Public Works 	FM 	Public Works 
+155.98500 	   	KBR510 	M		Ozark CMN 	DPW/Police 	FM 	Multi-Talk 
+156.11250 	154.06250  	WQEN554 	RM		Ozark Roads 	Highway Dept. 	FMN 	Public Works 
+155.55000 	   	WNVQ887 	BM		Pinckard PD 	Police 	FM 	Law Dispatch 
+155.04000 	   	WNVQ924 	BM		Pinckard CMN 	DPW/Fire 	FM 	Multi-Dispatch 
+154.75500 	158.93250  	WPMG652 	RM		GCWSCC Sec 1 	State Facility Security 	FMN 	Law Dispatch 
+155.31000 	   	WPMG652 	BM		GCWSCC Sec 2 	State Facility Security 	FMN 	Law Talk 
  Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Fort Rucker	 Project 25 Phase I	 Various	

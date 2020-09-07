@@ -1,28 +1,28 @@
-155.73000 	KNEN601 	RM	136.5 PL	PUTNAM SO 	Sheriff - Dispatch 	FMN 	Law Dispatch 
-155.73000 	KB69930 	M		COLGRV PD 	Columbus Grove Police - Dispatch 	FMN 	Law Dispatch 
-155.13000 	WPGJ474 	M	136.5 PL	Pandora PD 	Pandora Police 	FMN 	Law Tac 
-4940.00000 	WQDH407 	BM		PD MDC 	Police - MDCs 	FM 	Data 
-154.25000 	KNEP953 	RM	136.5 PL	Putnam Fire 	County Fire - Dispatch 	FMN 	Fire Dispatch 
-153.80000 	KNEP953 	M	CSQ	Putnam FG 	County Fire - Fireground Direct 	FMN 	Fire-Tac 
-159.18000 	KNEP953 	RM	703 DPL	Putnam FG 	County Fire - Fireground 	FMN 	Fire-Tac 
-154.26500 	 	M	CSQ	PUTCO FTAC 5 	County Fire - Tactical 	FMN 	Fire-Tac 
-154.28000 	 	M	CSQ	PUTCO FTAC 6 	County Fire - Tactical 	FMN 	Fire-Tac 
-154.29500 	 	M	CSQ	PUTCO FTAC 7 	County Fire - Tactical 	FMN 	Fire-Tac 
-155.28000 	 	M	CSQ	PUTCO FTAC 8 	County Fire - Tactical 	FMN 	Fire-Tac 
-155.80500 	 	M	CSQ	PUTCO FTAC 9 	County Fire - Tactical 	FMN 	Fire-Tac 
-154.16000 	KLO383 	BM	136.5 PL	Cont FD FG 	Continental Fire - Fireground 	FMN 	Fire-Tac 
-154.37000 	KQW427 	BM	136.5 PL	Riley FD FG 	Riley Fire - Secondary 	FMN 	Fire-Tac 
-151.46000 	WPQH227 	RM	532 DPL	PUTCO EMA 1 	Operations 	FMN 	Emergency Ops 
-155.80500 	 	BM		Ohio EMA 	Statewide Intersystem 	FMN 	Interop 
-158.80500 	WNGX312 	BM		PUTCO EMA 2 	Operations 	FMN 	Emergency Ops 
-155.08500 	KNHZ751 	BM		Ottawa DPW 	Ottawa DPW 	FMN 	Public Works 
-155.88000 	WNIF556 	BM		Leipsic DPW 	Leipsic DPW 	FMN 	Public Works 
-155.95500 	WNJV971 	BM		ColGrv DPW 	Columbus Grove DPW 	FMN 	Public Works 
-156.10500 	KDN488 	RM	136.5 PL	Putnam ENG 	County Highway Dept. 	FMN 	Public Works 
-158.76000 	WNJV971 	BM		ColGrv Parks 	Columbus Grove DPW/Parks 	FMN 	Public Works 
-159.18000 	WPHN933 	BM		Greensbrg PW 	Greensburg DPW 	FMN 	Public Works 
-120.52500 	 	B		KWOS AWOS 	Automated Weather Observation Station 	AM 	Aircraft 
-120.80000 	 	BM		Toledo A/D 	Toledo Approach/Departure 	AM 	Aircraft 
-122.70000 	WQCF897 	BM		KWOS CTAF 	CTAF/Unicom 	AM 	Aircraft 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I
- Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	Paulding-Putnam REA (Rural Electrification Agency)	 DMR Conventional Networked	 Paulding	
+155.73000 	154.89000  	KNEN601 	RM	136.5 PL	PUTNAM SO 	Sheriff - Dispatch 	FMN 	Law Dispatch 
+155.73000 	   	KB69930 	M		COLGRV PD 	Columbus Grove Police - Dispatch 	FMN 	Law Dispatch 
+155.13000 	   	WPGJ474 	M	136.5 PL	Pandora PD 	Pandora Police 	FMN 	Law Tac 
+4940.00000 	   	WQDH407 	BM		PD MDC 	Police - MDCs 	FM 	Data 
+154.25000 	150.77500  	KNEP953 	RM	136.5 PL	Putnam Fire 	County Fire - Dispatch 	FMN 	Fire Dispatch 
+153.80000 	   	KNEP953 	M	CSQ	Putnam FG 	County Fire - Fireground Direct 	FMN 	Fire-Tac 
+159.18000 	153.80000  	KNEP953 	RM	703 DPL	Putnam FG 	County Fire - Fireground 	FMN 	Fire-Tac 
+154.26500 	   	 	M	CSQ	PUTCO FTAC 5 	County Fire - Tactical 	FMN 	Fire-Tac 
+154.28000 	   	 	M	CSQ	PUTCO FTAC 6 	County Fire - Tactical 	FMN 	Fire-Tac 
+154.29500 	   	 	M	CSQ	PUTCO FTAC 7 	County Fire - Tactical 	FMN 	Fire-Tac 
+155.28000 	154.28000  	 	M	CSQ	PUTCO FTAC 8 	County Fire - Tactical 	FMN 	Fire-Tac 
+155.80500 	   	 	M	CSQ	PUTCO FTAC 9 	County Fire - Tactical 	FMN 	Fire-Tac 
+154.16000 	   	KLO383 	BM	136.5 PL	Cont FD FG 	Continental Fire - Fireground 	FMN 	Fire-Tac 
+154.37000 	   	KQW427 	BM	136.5 PL	Riley FD FG 	Riley Fire - Secondary 	FMN 	Fire-Tac 
+151.46000 	153.96500  	WPQH227 	RM	532 DPL	PUTCO EMA 1 	Operations 	FMN 	Emergency Ops 
+155.80500 	   	 	BM		Ohio EMA 	Statewide Intersystem 	FMN 	Interop 
+158.80500 	   	WNGX312 	BM		PUTCO EMA 2 	Operations 	FMN 	Emergency Ops 
+155.08500 	   	KNHZ751 	BM		Ottawa DPW 	Ottawa DPW 	FMN 	Public Works 
+155.88000 	   	WNIF556 	BM		Leipsic DPW 	Leipsic DPW 	FMN 	Public Works 
+155.95500 	   	WNJV971 	BM		ColGrv DPW 	Columbus Grove DPW 	FMN 	Public Works 
+156.10500 	159.04500  	KDN488 	RM	136.5 PL	Putnam ENG 	County Highway Dept. 	FMN 	Public Works 
+158.76000 	   	WNJV971 	BM		ColGrv Parks 	Columbus Grove DPW/Parks 	FMN 	Public Works 
+159.18000 	   	WPHN933 	BM		Greensbrg PW 	Greensburg DPW 	FMN 	Public Works 
+120.52500 	   	 	B		KWOS AWOS 	Automated Weather Observation Station 	AM 	Aircraft 
+120.80000 	   	 	BM		Toledo A/D 	Toledo Approach/Departure 	AM 	Aircraft 
+122.70000 	   	WQCF897 	BM		KWOS CTAF 	CTAF/Unicom 	AM 	Aircraft 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide
+Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	Paulding-Putnam REA (Rural Electrification Agency)	 DMR Conventional Networked	 Paulding	

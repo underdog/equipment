@@ -1,135 +1,134 @@
-482.38750 	KZV256 	M	203.5 PL	Plym Cty  	Car-to-Car 	FMN 	Law Tac 
-483.73750 	WIG611 	RM	205 DPL	Plym Cty K9 	K9 	FMN 	Law Tac 
-453.13750 	 	RM	203.5 PL	Plym Jail A1 	Jail CH A2 	FMN 	Corrections 
-453.46250 	 	RM	203.5 PL	Plym Jail A2 	Jail CH A2 	FMN 	Corrections 
-453.83750 	 	RM	110.9 PL	Plym Jail A3 	Jail CH A3 	FMN 	Corrections 
-453.46250 	 	RM	151.4 PL	Plym Jail A4 	Jail CH A4 Maintenance 	FMN 	Corrections 
-483.40000 	WIG611 	RM	205 NAC	Plym Sheriff BCI 	County Sheriff BCI 	P25 	Law Tac 
-483.47500 	WPPG990 	RM	141.3 PL	Ply Cty Ctl 	County Control 	FMN 	Fire Dispatch 
-453.45000 	WQRC557 	RM	306 DPL	Ply Cty MA-1 	Mutual Aid 1 	FMN 	Fire-Talk 
-453.75000 	WQRC557 	RM	506 DPL	Ply Cty MA-2 	Mutual Aid 2 	FMN 	Fire-Talk 
-453.95000 	WQRC557 	RM	606 DPL	Ply Cty MA-3 	Mutual Aid 3 	FMN 	Fire-Talk 
-486.10000 	WPPG990 	M	306 DPL	Ply Cty MA-5 	Mutual Aid 5 	FMN 	Fire-Talk 
-486.77500 	WPPG990 	M	506 DPL	Ply Cty MA-6 	Mutual Aid 6 	FMN 	Fire-Talk 
-483.01250 	KAB239 	RM	453 NAC	Abington PD 	Police Operations 	P25 	Law Dispatch 
-482.95000 	WPMV542 	RM	754 DPL	Abington FD 	Fire Operations 	FMN 	Fire Dispatch 
-158.80500 	WQL493 	BM	100.0 PL	Abington DPW 	Public Works 	FMN 	Public Works 
-484.78750 	KAB239 	RM	270 NAC	B'Water PD 	Police Operations 	P25 	Law Dispatch 
-460.52500 	WPGI246 	RM	107.2 PL	B'Water FD 	Fire Operations 	FMN 	Fire Dispatch 
-37.18000 	WPXF793 	BM	CSQ	BWater DPW 	Public Works 	FM 	Public Works 
-482.71250 	WIJ468 	RM	203.5 PL	Brockton PD 	Police Operations 	FM 	Law Dispatch 
-482.86250 	WIJ468 	RM	203.5 PL	Brktn PD Sec 	Police Secondary 	FM 	Law Tac 
-460.21250 	WQUW955 	RM	289 NAC	BrockonPD-Sc 	Police - Secure  	P25E 	Law Tac 
-154.31000 	KNBH632 	RM	94.8 PL	Brockton FD1 	Fire Primary Operations 	FMN 	Fire Dispatch 
-453.12500 	WPKH602 	RM	206.5 PL	Brockton FDU 	Fire Operations- UHF Simulcast 	FMN 	Fire Dispatch 
-154.14500 	WPNT474 	BM	94.8 PL	Brockton FD2 	Fire Secondary Operations 	FMN 	Fire Dispatch 
-453.63750 	WPKH602 	RM	94.8 PL	Brockton FDU2 	Fire Secondary - UHF Simulcast 	FMN 	Fire Dispatch 
-153.83000 	KNBH632 	M	94.8 PL	Brockton FG4 	Fireground  	FMN 	Fire-Tac 
-153.89000 	KNBH632 	M	94.8 PL	Brockton FG5 	Fireground 	FMN 	Fire-Tac 
-458.88750 	WPKH602 	RM	203.5 PL	BrocktonFDMR 	Fire - Mobile Repeater 	FMN 	Fire-Tac 
-463.71250 	WQQP488 	RM	351 DPL	Brockton Evnts 	Events Common 	FMN 	Interop 
-453.62500 	WQDZ880 	RM	025 DPL	Brockton DPW 	Public Works 	FMN 	Public Works 
-453.57500 	WPEE488 	RM	192.8 PL	BrktnHousing 	Housing Authority 	FMN 	Public Works 
-463.88750 	WQJE306 	RM	289 NAC	BrocktonEMA 	Emergency Managment 	P25e 	Emergency Ops 
-463.88750 	WQJE306 	RM	156 DPL	BrocktonHS 	High School 	FMN 	Schools 
-483.36250 	KZV262 	RM	203.5 PL	Carver PD 	Police Operations 	FM 	Law Dispatch 
-471.25000 	KCA661 	RM	192.8 PL	Carver FD 	Fire Operations 	FMN 	Fire Dispatch 
-483.75000 	WQOM635 	RM	192.8 PL	Carver EMS 	EMS Operations 	FMN 	EMS Dispatch 
-470.90000 	WQBX202 	RM	186.2 PL	Carver DPW 	Public Works 	FMN 	Public Works 
-482.41250 	WIJ732 	RM	203.5 PL	Duxbury PD 	Police Operations 	FM 	Law Dispatch 
-460.57500 	WPFD963 	RM	203.5 PL	Duxbury FD 	Fire Operations 	FMN 	Fire Dispatch 
-155.77500 	KNBW697 	BM	203.5 PL	Duxbury DPW 	Public Works 	FMN 	Public Works 
-155.61000 	WPEY801 	RM	203.5 PL	Duxbury HarborMa 	Harbormaster 	FMN 	Public Works 
-453.78750 	WQVI449 	RM	270 NAC	EBWater PD D 	Police Operations 	P25 	Law Dispatch 
-471.77500 	WPLS864 	RM	203.5 PL	E.BWater PD 	Police Secondary 	FMN 	Law Tac 
-453.53750 	WQFY304 	RM	192.8 PL	E Bwater FD 	Fire Operations 	FMN 	Fire Dispatch 
-483.68750 	WPJX602 	RM	192.8 PL	E.BWater DPW 	Public Works 	FM 	Public Works 
-453.85000 	WPSI480 	RM	91.5 PL	Halifax PD 	Police Operations 	FMN 	Law Dispatch 
-453.18750 	WPSI480 	RM	203.5 PL	Halifax FD 	Fire Operations 	FMN 	Fire Dispatch 
-483.62500 	KZU624 	RM	203.5 PL	 Hanover PD 	Police Operations 	FMN 	Law Dispatch 
-484.40000 	WPLS850 	RM	107.2 PL	Hanover FD 	Fire Operations 	FMN 	Fire Dispatch 
-470.35000 	WQOQ745 	RM	134 DPL	Hanover DPW 	Public Works 	FMN 	Public Works 
-482.78750 	KZV267 	RM	203.5 PL	Hanson PD 	Police Operations 	FM 	Law Dispatch 
-483.55000 	WPRH439 	RM	203.5 PL	Hanson FD 	Fire Operations 	FMN 	Fire Dispatch 
-482.92500 	WPPC451 	RM	203.5 PL	Hanson FD2 	Fire Secondary 	FMN 	Fire-Tac 
-150.99500 	KXV523 	RM	134 DPL	Hanson DPW 	Public Works 	FMN 	Public Works 
-484.41250 	WIK257 	RM	749 NAC	Hingham PD 	Police Operations 	P25 	Law Dispatch 
-484.37500 	WPRJ504 	RM	141.3 PL	Hingham FD 	Fire Operations 	FMN 	Fire Dispatch 
-460.08750 	WQRK460 	RM	155 DPL	Hingham DPW 	Public Works 	FMN 	Public Works 
-461.73750 	WQKR960 	RM	173 NAC	Hingham MLP 	Municipal Lighting Plant 	P25 	Public Works 
-482.98750 	KX6978 	RM	203.5 PL	Hull PD 	Police Operations 	FM 	Law Dispatch 
-484.32500 	 	RM	131.8 PL	Hull FD 	Fire Operations 	FMN 	Fire Dispatch 
-155.76000 	KOB798 	BM	156.7 PL	Hull DPW 	Public Works 	FMN 	Public Works 
-482.46250 	WBR969 	RM	203.5 PL	Kingston PD 	Police Operations 	FMN 	Law Dispatch 
-460.60000 	WPDG607 	RM	203.5 PL	Kingston FD 	Fire Operations 	FMN 	Fire Dispatch 
-460.26250 	 	RM	203.5 PL	Kingston FD2 	Fire Secondary 	FMN 	Fire-Tac 
-482.48750 	WPLY661 	RM	203.5 PL	Lakeville PD 	Police Operations 	FM 	Law Dispatch 
-460.16250 	KCF399 	RM	100.0 PL	Lakeville FD 	Fire Operations 	FMN 	Fire Dispatch 
-460.43750 	WQEP421 	RM	155 DPL	Lakeville HW 	Highway Department 	FMN 	Public Works 
-462.17500 	WQHQ675 	RM	123.0 PL	LakevleMdleS 	Middle School - Ops 	FMN 	Schools 
-483.11250 	WBR962 	RM	203.5 PL	Marion PD 	Police Operations 	FMN 	Law Dispatch 
-483.42500 	WPMZ234 	RM	173.8 PL	Marion FD 	Fire Operations 	FMN 	Fire Dispatch 
-482.81250 	WBN819 	RM	203.5 PL	M'poisett PD 	Police Operations 	FM 	Law Dispatch 
-453.07500 	KNJG558 	RM	192.8 PL	M'poisett FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-453.76250 	KCG570 	RM	270 NAC	MarshfieldPD 	Police Operations 	P25 	Law Dispatch 
-482.56250 	KZU620 	RM	203.5 PL	Marshfld PD 	Police Operations Backup 	FM 	Law Dispatch 
-453.43750 	KCG570 	RM	141.3 PL	Marshfld FD 	Fire Operations 	FMN 	Fire Dispatch 
-470.82500 	WPPW602 	RM	103.5 PL	Mdlboro PD 	Police Operations 	FMN 	Law Dispatch 
-470.37500 	WPPW602 	RM	162.2 PL	Mdlboro DET 	Police Detectives 	FM 	Law Tac 
-470.70000 	WPPW602 	RM	203.5 PL	Mdlboro FD 	Fire Operations 	FMN 	Fire Dispatch 
-470.70000 	WPPW602 	M	91.5 PL	Mdlboro FD2 	Fire Secondary 	FMN 	Fire-Tac 
-452.56250 	WRAR620 	RM	CC 11TG 100SL 1	MiddleboroDPW1 	Public Works - F1 	DMR 	Public Works 
-452.56250 	WRAR620 	RM	CC 11TG 200SL 2	MiddleboroDPW2 	Public Works - F2 	DMR 	Public Works 
-470.60000 	WPPW602 	RM	131.8 PL	Mdlboro DPW 	Public Works - Old 	FM 	Public Works 
-461.53750 	WPSY870 	RM	203.5 PL	Mdlboro SCH 	Schools Communications 	FM 	Schools 
-155.82000 	 	BM	125 DPL	Mdl Sch Tran 	School Transport 	FMN 	Schools 
-484.65000 	WPUJ275 	RM	659 NAC	Norwell PD 	Police Operations 	P25 	Law Dispatch 
-453.17500 	WPRZ847 	RM	203.5 PL	Norwell FD 	Fire Operations 	FMN 	Fire Dispatch 
-460.03750 	WPXP717 	RM	411 DPL	Norwell FD2 	Fire Secondary 	FMN 	Fire-Tac 
-45.52000 	KDT275 	BM	047 DPL	Norwell DPW 	Public Works 	FM 	Public Works 
-460.41250 	WPXQ441 	RM	203.5 PL	Pembroke PD 	Police Operations 	FMN 	Law Dispatch 
-33.68000 	KAS874 	RM	203.5 PL	Pembroke FD 	Fire Dispatch 	FM 	Fire Dispatch 
-460.28750 	KAS874 	RM	203.5 PL	Pembroke FD1 	Fire Operations 	FMN 	Fire Dispatch 
-460.46250 	KAS874 	RM	203.5 PL	Pembroke FD2 	Fire Operations - Ch 2 	FMN 	Fire-Talk 
-462.32500 	WQSW351 	RM	CC 5TG 1SL 1	PembrokeDPW 	Public Works 	DMR 	Public Works 
-482.66250 	WBT736 	RM	203.5 PL	Plymouth PD 	Police Operations 	FM 	Law Dispatch 
-482.83750 	WBT736 	RM	67.0 PL	Plymouth PD2 	Police Secondary 	FM 	Law Tac 
-154.43000 	KCA585 	RM	173.8 PL	Plymouth FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-470.10000 	WPYD799 	RM	210.7 PL	Plymouth FD1 	Fire Operations 	FMN 	Fire Dispatch 
-470.75000 	WPYD799 	RM	210.7 PL	Plymouth FD2 	Fire Secondary 	FMN 	Fire-Tac 
-154.01000 	KCA585 	BM	203.5 PL	Plymouth FireAlm 	Fire Alarm Relay  	FMN 	Fire Dispatch 
-453.25000 	WPRM381 	RM	123.0 PL	Plymth-DPWVL 	Public Works - Vehicle Location Data 	FMN 	Public Works 
-453.25000 	WPRM381 	BM	67.0 PL	Plymouth DPW 	Public Works - Operations 	FMN 	Public Works 
-482.73750 	 		053 DPL	Plymouth EMA 	Plymouth Emergency Management Agency 	FM 	Emergency Ops 
-453.81250 	WPYM204 	RM	023 DPL	PlymptonPD 	Police Operations 	FMN 	Law Dispatch 
-460.58750 	WQZW556 	RM	203.5 PL	Plympton FD 	Fire Operations 	FMN 	Fire Dispatch 
-471.67500 	WPXE475 	RM	203.5 PL	Rochester PD 	Police Operations 	FMN 	Law Dispatch 
-471.42500 	WPUV484 	RM	162.2 PL	Rochester FD 	Fire Operations 	FMN 	Fire Dispatch 
-471.75000 	WPUV484 	RM	179.9 PL	Rochestr DPW 	Public Works 	FMN 	Public Works 
-453.73750 	WPPF633 	RM	871 NAC	Rockland PD 	Police Operations 	P25 	Law Dispatch 
-453.73750 	WPPF633 	RM	107.2 PL	 Rockland PD ABu 	Police Operations - Analog Backup 	FMN 	Law Dispatch 
-482.67500 	WPNP248 	RM	754 DPL	Rockland FD 	Fire Operations 	FMN 	Fire Dispatch 
-482.58750 	WIK625 	RM	545 NAC	Scituate PD 	Police Operations 	P25 	Law Dispatch 
-453.40000 	KNDE629 	RM	203.5 PL	Scituate FD 	Fire Operations 	FMN 	Fire Dispatch 
-151.17500 	KNDE629 	RM	203.5 PL	Scituate FDV 	Fire Operations - VHF Simulcast 	FMN 	Fire Dispatch 
-463.37500 	WQJZ875 	RM	205 DPL	ScituateDPW 	Public Works 	FMN 	Public Works 
-484.43750 	WBR965 	RM	203.5 PL	WarehamPD 	Police Operations 	FM 	Law Dispatch 
-460.23750 	WPUP684 	RM	118.8 PL	Wareham FD 	Fire Operations 	FMN 	Fire Dispatch 
-460.50000 	 	M	205 DPL	WFD CH-2 	Wareham Fire Department Channel 2 (Ocassionally Used) 	FMN 	Fire-Tac 
-453.12500 	KCA410 	RM	118.8 PL	Onset FD 	Onset Fire Operations 	FMN 	Fire Dispatch 
-33.92000 	KCA410 	BM	203.5 PL	Onset FireLB 	Onset Fire - Low Band 	FM 	Fire Dispatch 
-482.70000 	 	RM	351 DPL	Wareham EMS 	EMS Operations 	FM 	EMS Dispatch 
-482.61250 	KZV263 	RM	270 NAC	WB'water PD 	Police Operations 	P25 	Law Dispatch 
-453.38750 	KNCB532 	RM	203.5 PL	WB'water FD 	Fire Operations 	FMN 	Fire Dispatch 
-460.31250 	WQOV851 	RM	146.2 PL	W BgewatrDPW 	Public Works 	FMN 	Public Works 
-482.31250 	WII702 	RM	270 NAC	Whitman PD 	Police Operations 	P25 	Law Dispatch 
-471.62500 	WPLQ651 	RM	192.8 PL	Whitman PD2 	Police Unknown 	FM 	Law Talk 
-472.40000 	WPLQ701 	RM	203.5 PL	Whitman FD 	Fire Operations 	FMN 	Fire Dispatch 
-484.25000 	WQBD545 	RM	431 DPL	Whitman DPW 	Public Works 	FMN 	Public Works 
-472.61250 	WIK218 	RM	270 NAC	BridgewaterUPD1 	University Police F1 	P25 	Law Dispatch 
-483.93750 	WIM485 	RM	118.8 PL	BridgewaterUPD2 	University Police F2 	FM 	Security 
-482.21250 	 	BM		BW St UTrans 	University Transit Vans 	FMN 	Transportation 
-Comtronics DMR - Network 139	 DMR Motorola Connect Plus (TRBO)	 Multiple	Halifax Municipal	 DMR Motorola Capacity Plus Single Site (TRBO)	 Halifax	Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)
- Regional	Marshfield Municipal	 LTR Standard	 Marshfield	Massachusetts State Police	 Motorola Type II SmartZone	 Statewide	Middleborough Gas & Electric Department (MGED)
- DMR Motorola Capacity Plus Single Site (TRBO)	 Middleborough	National Grid USA Service Company	 LTR Standard	 Quincy	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various
-RDC Communications - Network 178	 NXDN NEXEDGE 4800	 Various	
+482.38750 	   	KZV256 	M	203.5 PL	Plym Cty  	Car-to-Car 	FMN 	Law Tac 
+483.73750 	486.73750  	WIG611 	RM	205 DPL	Plym Cty K9 	K9 	FMN 	Law Tac 
+453.13750 	   	 	RM	203.5 PL	Plym Jail A1 	Jail CH A2 	FMN 	Corrections 
+453.46250 	   	 	RM	203.5 PL	Plym Jail A2 	Jail CH A2 	FMN 	Corrections 
+453.83750 	   	 	RM	110.9 PL	Plym Jail A3 	Jail CH A3 	FMN 	Corrections 
+453.46250 	   	 	RM	151.4 PL	Plym Jail A4 	Jail CH A4 Maintenance 	FMN 	Corrections 
+483.40000 	486.40000  	WIG611 	RM	205 NAC	Plym Sheriff BCI 	County Sheriff BCI 	P25 	Law Tac 
+483.47500 	486.47500  	WPPG990 	RM	141.3 PL	Ply Cty Ctl 	County Control 	FMN 	Fire Dispatch 
+453.45000 	458.45000  	WQRC557 	RM	306 DPL	Ply Cty MA-1 	Mutual Aid 1 	FMN 	Fire-Talk 
+453.75000 	458.75000  	WQRC557 	RM	506 DPL	Ply Cty MA-2 	Mutual Aid 2 	FMN 	Fire-Talk 
+453.95000 	458.95000  	WQRC557 	RM	606 DPL	Ply Cty MA-3 	Mutual Aid 3 	FMN 	Fire-Talk 
+486.10000 	   	WPPG990 	M	306 DPL	Ply Cty MA-5 	Mutual Aid 5 	FMN 	Fire-Talk 
+486.77500 	   	WPPG990 	M	506 DPL	Ply Cty MA-6 	Mutual Aid 6 	FMN 	Fire-Talk 
+483.01250 	486.01250  	KAB239 	RM	453 NAC	Abington PD 	Police Operations 	P25 	Law Dispatch 
+482.95000 	485.95000  	WPMV542 	RM	754 DPL	Abington FD 	Fire Operations 	FMN 	Fire Dispatch 
+158.80500 	   	WQL493 	BM	100.0 PL	Abington DPW 	Public Works 	FMN 	Public Works 
+484.78750 	487.78750  	KAB239 	RM	270 NAC	B'Water PD 	Police Operations 	P25 	Law Dispatch 
+460.52500 	465.52500  	WPGI246 	RM	107.2 PL	B'Water FD 	Fire Operations 	FMN 	Fire Dispatch 
+37.18000 	   	WPXF793 	BM	CSQ	BWater DPW 	Public Works 	FM 	Public Works 
+482.71250 	485.71250  	WIJ468 	RM	203.5 PL	Brockton PD 	Police Operations 	FM 	Law Dispatch 
+482.86250 	485.86250  	WIJ468 	RM	203.5 PL	Brktn PD Sec 	Police Secondary 	FM 	Law Tac 
+460.21250 	465.21250  	WQUW955 	RM	289 NAC	BrockonPD-Sc 	Police - Secure  	P25E 	Law Tac 
+154.31000 	151.16000  	KNBH632 	RM	94.8 PL	Brockton FD1 	Fire Primary Operations 	FMN 	Fire Dispatch 
+453.12500 	   	WPKH602 	RM	206.5 PL	Brockton FDU 	Fire Operations- UHF Simulcast 	FMN 	Fire Dispatch 
+154.14500 	   	WPNT474 	BM	94.8 PL	Brockton FD2 	Fire Secondary Operations 	FMN 	Fire Dispatch 
+453.63750 	458.63750  	WPKH602 	RM	94.8 PL	Brockton FDU2 	Fire Secondary - UHF Simulcast 	FMN 	Fire Dispatch 
+153.83000 	   	KNBH632 	M	94.8 PL	Brockton FG4 	Fireground  	FMN 	Fire-Tac 
+153.89000 	   	KNBH632 	M	94.8 PL	Brockton FG5 	Fireground 	FMN 	Fire-Tac 
+458.88750 	   	WPKH602 	RM	203.5 PL	BrocktonFDMR 	Fire - Mobile Repeater 	FMN 	Fire-Tac 
+463.71250 	468.71250  	WQQP488 	RM	351 DPL	Brockton Evnts 	Events Common 	FMN 	Interop 
+453.62500 	   	WQDZ880 	RM	025 DPL	Brockton DPW 	Public Works 	FMN 	Public Works 
+453.57500 	   	WPEE488 	RM	192.8 PL	BrktnHousing 	Housing Authority 	FMN 	Public Works 
+463.88750 	468.88750  	WQJE306 	RM	289 NAC	BrocktonEMA 	Emergency Managment 	P25e 	Emergency Ops 
+463.88750 	468.88750  	WQJE306 	RM	156 DPL	BrocktonHS 	High School 	FMN 	Schools 
+483.36250 	486.36250  	KZV262 	RM	203.5 PL	Carver PD 	Police Operations 	FM 	Law Dispatch 
+471.25000 	474.25000  	KCA661 	RM	192.8 PL	Carver FD 	Fire Operations 	FMN 	Fire Dispatch 
+483.75000 	486.75000  	WQOM635 	RM	192.8 PL	Carver EMS 	EMS Operations 	FMN 	EMS Dispatch 
+470.90000 	   	WQBX202 	RM	186.2 PL	Carver DPW 	Public Works 	FMN 	Public Works 
+482.41250 	485.41250  	WIJ732 	RM	203.5 PL	Duxbury PD 	Police Operations 	FM 	Law Dispatch 
+460.57500 	465.57500  	WPFD963 	RM	203.5 PL	Duxbury FD 	Fire Operations 	FMN 	Fire Dispatch 
+155.77500 	   	KNBW697 	BM	203.5 PL	Duxbury DPW 	Public Works 	FMN 	Public Works 
+155.61000 	153.81500  	WPEY801 	RM	203.5 PL	Duxbury HarborMa 	Harbormaster 	FMN 	Public Works 
+453.78750 	458.78750  	WQVI449 	RM	270 NAC	EBWater PD D 	Police Operations 	P25 	Law Dispatch 
+471.77500 	474.77500  	WPLS864 	RM	203.5 PL	E.BWater PD 	Police Secondary 	FMN 	Law Tac 
+453.53750 	458.53750  	WQFY304 	RM	192.8 PL	E Bwater FD 	Fire Operations 	FMN 	Fire Dispatch 
+483.68750 	486.68750  	WPJX602 	RM	192.8 PL	E.BWater DPW 	Public Works 	FM 	Public Works 
+453.85000 	458.85000  	WPSI480 	RM	91.5 PL	Halifax PD 	Police Operations 	FMN 	Law Dispatch 
+453.18750 	458.18750  	WPSI480 	RM	203.5 PL	Halifax FD 	Fire Operations 	FMN 	Fire Dispatch 
+483.62500 	486.62500  	KZU624 	RM	203.5 PL	 Hanover PD 	Police Operations 	FMN 	Law Dispatch 
+484.40000 	487.40000  	WPLS850 	RM	107.2 PL	Hanover FD 	Fire Operations 	FMN 	Fire Dispatch 
+470.35000 	473.35000  	WQOQ745 	RM	134 DPL	Hanover DPW 	Public Works 	FMN 	Public Works 
+482.78750 	485.78750  	KZV267 	RM	203.5 PL	Hanson PD 	Police Operations 	FM 	Law Dispatch 
+483.55000 	487.55000  	WPRH439 	RM	203.5 PL	Hanson FD 	Fire Operations 	FMN 	Fire Dispatch 
+482.92500 	485.92500  	WPPC451 	RM	203.5 PL	Hanson FD2 	Fire Secondary 	FMN 	Fire-Tac 
+150.99500 	   	KXV523 	RM	134 DPL	Hanson DPW 	Public Works 	FMN 	Public Works 
+484.41250 	487.41250  	WIK257 	RM	749 NAC	Hingham PD 	Police Operations 	P25 	Law Dispatch 
+484.37500 	487.37500  	WPRJ504 	RM	141.3 PL	Hingham FD 	Fire Operations 	FMN 	Fire Dispatch 
+460.08750 	465.08750  	WQRK460 	RM	155 DPL	Hingham DPW 	Public Works 	FMN 	Public Works 
+461.73750 	466.73750  	WQKR960 	RM	173 NAC	Hingham MLP 	Municipal Lighting Plant 	P25 	Public Works 
+482.98750 	485.98750  	KX6978 	RM	203.5 PL	Hull PD 	Police Operations 	FM 	Law Dispatch 
+484.32500 	487.32500  	 	RM	131.8 PL	Hull FD 	Fire Operations 	FMN 	Fire Dispatch 
+155.76000 	   	KOB798 	BM	156.7 PL	Hull DPW 	Public Works 	FMN 	Public Works 
+482.46250 	485.46250  	WBR969 	RM	203.5 PL	Kingston PD 	Police Operations 	FMN 	Law Dispatch 
+460.60000 	465.60000  	WPDG607 	RM	203.5 PL	Kingston FD 	Fire Operations 	FMN 	Fire Dispatch 
+460.26250 	465.26250  	 	RM	203.5 PL	Kingston FD2 	Fire Secondary 	FMN 	Fire-Tac 
+482.48750 	485.48750  	WPLY661 	RM	203.5 PL	Lakeville PD 	Police Operations 	FM 	Law Dispatch 
+460.16250 	465.16250  	KCF399 	RM	100.0 PL	Lakeville FD 	Fire Operations 	FMN 	Fire Dispatch 
+460.43750 	465.43750  	WQEP421 	RM	155 DPL	Lakeville HW 	Highway Department 	FMN 	Public Works 
+462.17500 	467.17500  	WQHQ675 	RM	123.0 PL	LakevleMdleS 	Middle School - Ops 	FMN 	Schools 
+483.11250 	468.11250  	WBR962 	RM	203.5 PL	Marion PD 	Police Operations 	FMN 	Law Dispatch 
+483.42500 	486.42500  	WPMZ234 	RM	173.8 PL	Marion FD 	Fire Operations 	FMN 	Fire Dispatch 
+482.81250 	185.81250  	WBN819 	RM	203.5 PL	M'poisett PD 	Police Operations 	FM 	Law Dispatch 
+453.07500 	458.07500  	KNJG558 	RM	192.8 PL	M'poisett FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.76250 	458.76250  	KCG570 	RM	270 NAC	MarshfieldPD 	Police Operations 	P25 	Law Dispatch 
+482.56250 	485.56250  	KZU620 	RM	203.5 PL	Marshfld PD 	Police Operations Backup 	FM 	Law Dispatch 
+453.43750 	458.43750  	KCG570 	RM	141.3 PL	Marshfld FD 	Fire Operations 	FMN 	Fire Dispatch 
+470.82500 	473.82500  	WPPW602 	RM	103.5 PL	Mdlboro PD 	Police Operations 	FMN 	Law Dispatch 
+470.37500 	473.37500  	WPPW602 	RM	162.2 PL	Mdlboro DET 	Police Detectives 	FM 	Law Tac 
+470.70000 	473.70000  	WPPW602 	RM	203.5 PL	Mdlboro FD 	Fire Operations 	FMN 	Fire Dispatch 
+470.70000 	   	WPPW602 	M	91.5 PL	Mdlboro FD2 	Fire Secondary 	FMN 	Fire-Tac 
+452.56250 	457.56250  	WRAR620 	RM	CC 11TG 100SL 1	MiddleboroDPW1 	Public Works - F1 	DMR 	Public Works 
+452.56250 	457.56250  	WRAR620 	RM	CC 11TG 200SL 2	MiddleboroDPW2 	Public Works - F2 	DMR 	Public Works 
+470.60000 	473.60000  	WPPW602 	RM	131.8 PL	Mdlboro DPW 	Public Works - Old 	FM 	Public Works 
+461.53750 	466.53750  	WPSY870 	RM	203.5 PL	Mdlboro SCH 	Schools Communications 	FM 	Schools 
+155.82000 	   	 	BM	125 DPL	Mdl Sch Tran 	School Transport 	FMN 	Schools 
+484.65000 	487.65000  	WPUJ275 	RM	659 NAC	Norwell PD 	Police Operations 	P25 	Law Dispatch 
+453.17500 	458.17500  	WPRZ847 	RM	203.5 PL	Norwell FD 	Fire Operations 	FMN 	Fire Dispatch 
+460.03750 	465.03750  	WPXP717 	RM	411 DPL	Norwell FD2 	Fire Secondary 	FMN 	Fire-Tac 
+45.52000 	   	KDT275 	BM	047 DPL	Norwell DPW 	Public Works 	FM 	Public Works 
+460.41250 	465.41250  	WPXQ441 	RM	203.5 PL	Pembroke PD 	Police Operations 	FMN 	Law Dispatch 
+33.68000 	   	KAS874 	RM	203.5 PL	Pembroke FD 	Fire Dispatch 	FM 	Fire Dispatch 
+460.28750 	465.28750  	KAS874 	RM	203.5 PL	Pembroke FD1 	Fire Operations 	FMN 	Fire Dispatch 
+460.46250 	465.46250  	KAS874 	RM	203.5 PL	Pembroke FD2 	Fire Operations - Ch 2 	FMN 	Fire-Talk 
+462.32500 	467.32500  	WQSW351 	RM	CC 5TG 1SL 1	PembrokeDPW 	Public Works 	DMR 	Public Works 
+482.66250 	485.66250  	WBT736 	RM	203.5 PL	Plymouth PD 	Police Operations 	FM 	Law Dispatch 
+482.83750 	485.83750  	WBT736 	RM	67.0 PL	Plymouth PD2 	Police Secondary 	FM 	Law Tac 
+154.43000 	   	KCA585 	RM	173.8 PL	Plymouth FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+470.10000 	473.10000  	WPYD799 	RM	210.7 PL	Plymouth FD1 	Fire Operations 	FMN 	Fire Dispatch 
+470.75000 	473.75000  	WPYD799 	RM	210.7 PL	Plymouth FD2 	Fire Secondary 	FMN 	Fire-Tac 
+154.01000 	   	KCA585 	BM	203.5 PL	Plymouth FireAlm 	Fire Alarm Relay  	FMN 	Fire Dispatch 
+453.25000 	458.25000  	WPRM381 	RM	123.0 PL	Plymth-DPWVL 	Public Works - Vehicle Location Data 	FMN 	Public Works 
+453.25000 	458.25000  	WPRM381 	BM	67.0 PL	Plymouth DPW 	Public Works - Operations 	FMN 	Public Works 
+482.73750 	   	 		053 DPL	Plymouth EMA 	Plymouth Emergency Management Agency 	FM 	Emergency Ops 
+453.81250 	458.81250  	WPYM204 	RM	023 DPL	PlymptonPD 	Police Operations 	FMN 	Law Dispatch 
+460.58750 	465.58750  	WQZW556 	RM	203.5 PL	Plympton FD 	Fire Operations 	FMN 	Fire Dispatch 
+471.67500 	474.67500  	WPXE475 	RM	203.5 PL	Rochester PD 	Police Operations 	FMN 	Law Dispatch 
+471.42500 	474.42500  	WPUV484 	RM	162.2 PL	Rochester FD 	Fire Operations 	FMN 	Fire Dispatch 
+471.75000 	474.75000  	WPUV484 	RM	179.9 PL	Rochestr DPW 	Public Works 	FMN 	Public Works 
+453.73750 	458.73750  	WPPF633 	RM	871 NAC	Rockland PD 	Police Operations 	P25 	Law Dispatch 
+453.73750 	458.73750  	WPPF633 	RM	107.2 PL	 Rockland PD ABu 	Police Operations - Analog Backup 	FMN 	Law Dispatch 
+482.67500 	485.67500  	WPNP248 	RM	754 DPL	Rockland FD 	Fire Operations 	FMN 	Fire Dispatch 
+482.58750 	485.58750  	WIK625 	RM	545 NAC	Scituate PD 	Police Operations 	P25 	Law Dispatch 
+453.40000 	458.40000  	KNDE629 	RM	203.5 PL	Scituate FD 	Fire Operations 	FMN 	Fire Dispatch 
+151.17500 	   	KNDE629 	RM	203.5 PL	Scituate FDV 	Fire Operations - VHF Simulcast 	FMN 	Fire Dispatch 
+463.37500 	468.37500  	WQJZ875 	RM	205 DPL	ScituateDPW 	Public Works 	FMN 	Public Works 
+484.43750 	487.43750  	WBR965 	RM	203.5 PL	WarehamPD 	Police Operations 	FM 	Law Dispatch 
+460.23750 	465.23750  	WPUP684 	RM	118.8 PL	Wareham FD 	Fire Operations 	FMN 	Fire Dispatch 
+460.50000 	   	 	M	205 DPL	WFD CH-2 	Wareham Fire Department Channel 2 (Ocassionally Used) 	FMN 	Fire-Tac 
+453.12500 	458.12500  	KCA410 	RM	118.8 PL	Onset FD 	Onset Fire Operations 	FMN 	Fire Dispatch 
+33.92000 	   	KCA410 	BM	203.5 PL	Onset FireLB 	Onset Fire - Low Band 	FM 	Fire Dispatch 
+482.70000 	485.70000  	 	RM	351 DPL	Wareham EMS 	EMS Operations 	FM 	EMS Dispatch 
+482.61250 	485.61250  	KZV263 	RM	270 NAC	WB'water PD 	Police Operations 	P25 	Law Dispatch 
+453.38750 	458.38750  	KNCB532 	RM	203.5 PL	WB'water FD 	Fire Operations 	FMN 	Fire Dispatch 
+460.31250 	465.31250  	WQOV851 	RM	146.2 PL	W BgewatrDPW 	Public Works 	FMN 	Public Works 
+482.31250 	485.31250  	WII702 	RM	270 NAC	Whitman PD 	Police Operations 	P25 	Law Dispatch 
+471.62500 	474.62500  	WPLQ651 	RM	192.8 PL	Whitman PD2 	Police Unknown 	FM 	Law Talk 
+472.40000 	475.40000  	WPLQ701 	RM	203.5 PL	Whitman FD 	Fire Operations 	FMN 	Fire Dispatch 
+484.25000 	487.25000  	WQBD545 	RM	431 DPL	Whitman DPW 	Public Works 	FMN 	Public Works 
+472.61250 	475.61250  	WIK218 	RM	270 NAC	BridgewaterUPD1 	University Police F1 	P25 	Law Dispatch 
+483.93750 	486.93750  	WIM485 	RM	118.8 PL	BridgewaterUPD2 	University Police F2 	FM 	Security 
+482.21250 	485.21250  	 	BM		BW St UTrans 	University Transit Vans 	FMN 	Transportation 
+Comtronics DMR - Network 139	 DMR Motorola Connect Plus (TRBO)	 Multiple	Halifax Municipal	 DMR Motorola Capacity Plus Single Site (TRBO)	 Halifax	Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)	 Regional
+Marshfield Municipal	 LTR Standard	 Marshfield	Massachusetts State Police	 Motorola Type II SmartZone	 Statewide	Middleborough Gas & Electric Department (MGED)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Middleborough
+National Grid USA Service Company	 LTR Standard	 Quincy	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	RDC Communications - Network 178	 NXDN NEXEDGE 4800	 Various

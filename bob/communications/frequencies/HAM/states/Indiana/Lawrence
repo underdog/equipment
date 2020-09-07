@@ -1,32 +1,31 @@
-151.29500 	WPYG971 	RM	88.5 PL	Lwrnce EMA 	Lawrence County EMA Operations 	FMN 	Emergency Ops 
-155.02500 	WYR582 	BM	179.9 PL	INEMA-LEMS2 	Lawrence County EMA Disaster/SAR Team 	FMN 	Emergency Ops 
-154.23500 	KWN469 	RM	114.8 PL	Lwrnce Fire 	Lawrence County Fire Dispatch 	FMN 	Fire Dispatch 
-154.73250 	WQYL993 	RM	50 RAN	Lwrnce Fire 	Lawrence County Fire Dispatch 	NXDN 	Fire Dispatch 
-155.53500 	KAF904 	BM	186.2 PL	Lwrnce EMS 	Lawrence County EMS Dispatch 	FMN 	EMS Dispatch 
-155.68500 	 	BM	47 RAN	Lwrnce SO 1 	Lawrence County Sheriff Dispatch 	NXDNE 	Law Dispatch 
-161.55000 	KNEQ452 	BM		LwrnceSO TAC 	Lawrence County Sheriff TAC 2 	NXDNE 	Law Tac 
-154.95000 	KNEQ452 	BM		Lwrnce SO 3 	Lawrence County Sheriff TAC 3 	NXDNE 	Law Tac 
-158.85000 	KNNR785 	BM		Lwrnce Jail 	Lawrence County Jail Ops 	FMN 	Law Tac 
-151.01000 	KIB555 	RM	88.5 PL	Lwrnce Hiway 	Lawrence County Highway Department 	FMN 	Public Works 
-151.37750 	KAF904 	RM	156.7 PL	Dunn Hsp EMS 	Dunn Memorial EMS - Dispatch 	FMN 	EMS Dispatch 
-155.23500 	KAF904 	BM	186.2 PL	Dunn Hsp EMS 	Dunn Memorial EMS - Operations 	FMN 	EMS-Tac 
-154.31000 	KBY743 	BM	125 DPL	BdfrdFD/EMS1 	Bedford Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-154.05500 	KBY743 	RM		Bedfrd FD 	Bedford Fire Operations 	FMN 	Fire-Tac 
-155.07000 	KXF673 	RM		Bdfrd RMC 	Bedford Regional Medical Center  	NXDN 	EMS Dispatch 
-155.56500 	WNY594 	RM		Bdfrd PD F1 	Bedford Police Dispatch 	NXDN 	Law Dispatch 
-154.80000 	KSA408 	BM		 Bdfrd PD F3 	Bedford Police Operations 	NXDN 	Law Tac 
-158.77500 	KGL518 	BM		 Bdfrd PD F8 	Bedford Police Operations 	NXDN 	Law Tac 
-151.16000 	WNAV492 	BM		 Bdfrd Parks 	Bedford Parks Department 	FMN 	Public Works 
-156.10500 	KDB567 	BM		Bdfrd Street 	Bedford Street Department 	FMN 	Public Works 
-158.83500 	WNLB651 	BM	026 DPL	MitchllFD/PW 	Mitchell Fire Department & Public Works 	FMN 	Multi-Dispatch 
-155.73000 	WPUG389 	RM	162.2 PL	MitchllPD 	Mitchell Police 	FMN 	Law Tac 
-151.47500 	WQCG333 	RM	114.8 PL	Oolitic FD 	Oolitic Fire Department 	FMN 	Fire-Tac 
-155.82000 	KUP231 	BM		Ooltic Stree 	Oolitic Street Department 	FMN 	Public Works 
-155.38500 	WPEI285 	RM	141.3 PL	 IndCrk FD 	Indian Creek Fire - Repeater 	FMN 	Fire-Tac 
-154.38500 	WPDF549 	RM		IndCrk FD 	Indian Creek Fire - Repeater 	FMN 	Fire-Tac 
-155.20500 	WPNX555 	RM	162.2 PL	Marion VFD 	Marion Township Fire - Repeater 	FMN 	Fire-Tac 
-153.81500 	WPXB826 	BM		Perry FD Frg 	Perry Township Fire - Fire Ops 	FMN 	Fire-Tac 
-156.00000 	WPXB826 	BM		Perry FD EMS 	Perry Township Fire - EMS Ops 	FMN 	Fire-Tac 
-154.34000 	WQOG457 	RM		Shawswick FD 	Shawswick Fire Department - Repeater 	FMN 	Fire-Tac 
-Electronic Communications Systems	 LTR Standard	 Multiple	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	General Motors Corporation - Bedford	 DMR Motorola Capacity Plus Single Site (TRBO)
- Bedford	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	
+151.29500 	155.91000  	WPYG971 	RM	88.5 PL	Lwrnce EMA 	Lawrence County EMA Operations 	FMN 	Emergency Ops 
+155.02500 	   	WYR582 	BM	179.9 PL	INEMA-LEMS2 	Lawrence County EMA Disaster/SAR Team 	FMN 	Emergency Ops 
+154.23500 	153.89000  	KWN469 	RM	114.8 PL	Lwrnce Fire 	Lawrence County Fire Dispatch 	FMN 	Fire Dispatch 
+154.73250 	   	WQYL993 	RM	50 RAN	Lwrnce Fire 	Lawrence County Fire Dispatch 	NXDN 	Fire Dispatch 
+155.53500 	150.77500  	KAF904 	BM	186.2 PL	Lwrnce EMS 	Lawrence County EMS Dispatch 	FMN 	EMS Dispatch 
+155.68500 	   	 	BM	47 RAN	Lwrnce SO 1 	Lawrence County Sheriff Dispatch 	NXDNE 	Law Dispatch 
+161.55000 	   	KNEQ452 	BM		LwrnceSO TAC 	Lawrence County Sheriff TAC 2 	NXDNE 	Law Tac 
+154.95000 	   	KNEQ452 	BM		Lwrnce SO 3 	Lawrence County Sheriff TAC 3 	NXDNE 	Law Tac 
+158.85000 	   	KNNR785 	BM		Lwrnce Jail 	Lawrence County Jail Ops 	FMN 	Law Tac 
+151.01000 	158.98500  	KIB555 	RM	88.5 PL	Lwrnce Hiway 	Lawrence County Highway Department 	FMN 	Public Works 
+151.37750 	158.90250  	KAF904 	RM	156.7 PL	Dunn Hsp EMS 	Dunn Memorial EMS - Dispatch 	FMN 	EMS Dispatch 
+155.23500 	   	KAF904 	BM	186.2 PL	Dunn Hsp EMS 	Dunn Memorial EMS - Operations 	FMN 	EMS-Tac 
+154.31000 	   	KBY743 	BM	125 DPL	BdfrdFD/EMS1 	Bedford Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.05500 	   	KBY743 	RM		Bedfrd FD 	Bedford Fire Operations 	FMN 	Fire-Tac 
+155.07000 	158.88000  	KXF673 	RM		Bdfrd RMC 	Bedford Regional Medical Center  	NXDN 	EMS Dispatch 
+155.56500 	159.03000  	WNY594 	RM		Bdfrd PD F1 	Bedford Police Dispatch 	NXDN 	Law Dispatch 
+154.80000 	   	KSA408 	BM		 Bdfrd PD F3 	Bedford Police Operations 	NXDN 	Law Tac 
+158.77500 	   	KGL518 	BM		 Bdfrd PD F8 	Bedford Police Operations 	NXDN 	Law Tac 
+151.16000 	   	WNAV492 	BM		 Bdfrd Parks 	Bedford Parks Department 	FMN 	Public Works 
+156.10500 	   	KDB567 	BM		Bdfrd Street 	Bedford Street Department 	FMN 	Public Works 
+158.83500 	   	WNLB651 	BM	026 DPL	MitchllFD/PW 	Mitchell Fire Department & Public Works 	FMN 	Multi-Dispatch 
+155.73000 	151.25000  	WPUG389 	RM	162.2 PL	MitchllPD 	Mitchell Police 	FMN 	Law Tac 
+151.47500 	158.95500  	WQCG333 	RM	114.8 PL	Oolitic FD 	Oolitic Fire Department 	FMN 	Fire-Tac 
+155.82000 	   	KUP231 	BM		Ooltic Stree 	Oolitic Street Department 	FMN 	Public Works 
+155.38500 	150.79000  	WPEI285 	RM	141.3 PL	 IndCrk FD 	Indian Creek Fire - Repeater 	FMN 	Fire-Tac 
+154.38500 	153.95000  	WPDF549 	RM		IndCrk FD 	Indian Creek Fire - Repeater 	FMN 	Fire-Tac 
+155.20500 	154.07000  	WPNX555 	RM	162.2 PL	Marion VFD 	Marion Township Fire - Repeater 	FMN 	Fire-Tac 
+153.81500 	   	WPXB826 	BM		Perry FD Frg 	Perry Township Fire - Fire Ops 	FMN 	Fire-Tac 
+156.00000 	   	WPXB826 	BM		Perry FD EMS 	Perry Township Fire - EMS Ops 	FMN 	Fire-Tac 
+154.34000 	158.91000  	WQOG457 	RM		Shawswick FD 	Shawswick Fire Department - Repeater 	FMN 	Fire-Tac 
+Electronic Communications Systems	 LTR Standard	 Multiple	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	General Motors Corporation - Bedford	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bedford

@@ -1,84 +1,84 @@
-154.43000 	WQQK703 	RM	91.5 PL	OUPAGE 	Paging 	FMN 	Fire Dispatch 
-155.70000 	WQQK703 	RM	107.2 PL	OUFIRE 	Fire - Patch to 45101 	FMN 	Fire Dispatch 
-453.17500 	WQCA801 	RM	CC 2TG 101SL 1	Gold Cross  	Gold Cross Ambulance Service Dispatch 	DMR 	EMS Dispatch 
-155.26500 	WQCA801 	M	203.5 PL	Gold Cross  	Gold Cross Ambulance Service Tactical 	FMN 	EMS-Tac 
-45.12000 	KNCG848 	B		OUEAS 	Emergency Alerting System 	FM 	Emergency Ops 
-150.99500 	WQPP496 	RM	151.4 PL	OUHWY1 	Highway Dept 	FMN 	Public Works 
-151.02500 	WQPP496 	M	151.4 PL	OUHWY2 	Highway Dept - Portables 	FMN 	Public Works 
-151.62500 	 	M	88.5 PL	Fairgrounds 	Fairgrounds 	FMN 	Public Works 
-155.11500 	WNIJ845 	BM	151.4 PL	Landfill 	Landfill 	FMN 	Public Works 
-151.30250 	WQKS963 	M		Landfill 	Landfill 	FMN 	Public Works 
-151.42250 	WQKS963 	M	364 DPL	Landfill 	Landfill 	FMN 	Public Works 
-156.21000 	WQKS963 	RM	023 DPL	OULANDFILL 	Landfill 	FMN 	Public Works 
-852.26250 	WQSF382 	RM		OUDVRS 	Vehicular Repeaters 	P25 	Multi-Talk 
-854.96250 	WQQZ944 	RM	131.8 PL	OUSIREN 	County Siren Control 	Telm 	Data 
-451.25000 	WPMY512 	M		Appl WtrData 	Public Works - Meter Reader Data 	Telm 	Public Works 
-154.75500 	WPUG392 	RM	156.7 PL	APPD Explore 	Police Explorers - Post 9925 	FMN 	Law Talk 
-155.34000 	WPCA770 	B	110.9 PL	AMC EMS B 	Appleton Medical Center 	FMN 	Hospital 
-463.00000 	WPCA770 	RM	192.8 PL	AMC Med 1 	Appleton Medical Center 	FMN 	Hospital 
-155.34000 	KDL543 	BM	107.2 PL	St E EMS B 	Saint Elizabeth Hospital 	FMN 	Hospital 
-463.02500 	KZY911 	RM	192.8 PL	St E Med 2 	Saint Elizabeth Hospital 	FMN 	Hospital 
-151.26500 	WNBN234 	RM		Water Telm 	Water Department Telemetry 	Telm 	Public Works 
-453.73750 	 	M		OUAPDPW 	DPW 	DMR 	Public Works 
-458.73750 	 	M		OUAPDPW 	DPW 	DMR 	Public Works 
-151.13000 	WPVC329 	RM	CC 1TG 100SL 1	GCDPW 	Public Works 	DMR 	Public Works 
-155.55000 	KTI669 	RM	047 DPL	Kaukauna DPW 	DPW 	FMN 	Public Works 
-155.92500 	WQEQ589 	RM	151.4 PL	Kaukauna DPW 	old DPW 	FMN 	Public Works 
-451.20000 	WNVS260 	RM	203.5 PL	Kaukauna W&E 	Water & Electric 	FMN 	Utilities 
-453.52500 	WNRW532 	RM	754 DPL	Heart Valley 	Heart of the Valley Metro Sewage District 	FMN 	Utilities 
-151.04750 	WQHS429 	RM	071 DPL	Kimberly DPW 	Public Works 	FMN 	Public Works 
-154.05500 	WQHS429 	BM	143 DPL	Kimberly DPW 	Public Works - old channel 	FMN 	Public Works 
-155.71500 	KNJT308 	BM	107.2 PL	Kimberly DPW 	Public Works - old channel 	FMN 	Public Works 
-154.73250 	KNJX262 	RM	074 DPL	OULCDPW 	Public Works 	FMN 	Public Works 
-155.83500 	KNJX262 	BM	127.3 PL	Little Chute 	Public Works 	FMN 	Public Works 
-155.92500 	WNGI436 	BM	107.2 PL	Oneida DPW 	Public Works 	FMN 	Public Works 
-155.32500 	WPWE601 	RM	466 DPL	Seymour FD 	Fire/Rescue Local Dispatch 	FMN 	Fire Dispatch 
-151.08500 	WNMQ277 	RM	134 DPL	Shiocton PW 	Public Works 	FMN 	Public Works 
-154.10000 	WQFS596 	RM	261 DPL	BlackCreekPW 	Black Creek  Public Works 	FMN 	Public Works 
-154.87500 	KNGT950 	BM	136.5 PL	CombinedLkPW 	Combined Locks Public Works 	FMN 	Public Works 
-155.71500 	WPMZ607 	BM	91.5 PL	Freedom 	Freedom Public Works 	FMN 	Public Works 
-452.22500 	WQNP711 	RM	CC 1TG 100SL 1	GreenvillePW 	Town of Greenville Public Works 	DMR 	Public Works 
-456.23750 	WQNP711 	M		GreenvillePW 	Town of Greenville Public Works Portables 	FMN 	Public Works 
-457.23750 	WQNP711 	M		GreenvillePW 	Town of Greenville Public Works Portables 	FMN 	Public Works 
-457.97500 	WQNP711 	M		GreenvillePW 	Town of Greenville Public Works Portables 	FMN 	Public Works 
-463.45000 	WPTN542 	RM		AASD1 Cityw 	Appleton Area School District 1 Citywide 	DMR 	Schools 
-463.60000 	WPYF473 	RM	612 DPL	AASD NorthHS 	Appleton Area School District - North High School 	FMN 	Schools 
-462.01250 	WPYF473 	RM		AASD Ops 	Appleton Area School District  	DMR 	Schools 
-461.35000 	WPYF473 	RM		AASD 	Appleton Area School District 	DMR 	Schools 
-461.81250 	WPYF473 	RM		AASD 	Appleton Area School District 	DMR 	Schools 
-461.85000 	WPYF473 	RM		AASD 	Appleton Area School District 	DMR 	Schools 
-462.10000 	WPYF473 	RM		AASD 	Appleton Area School District 	DMR 	Schools 
-464.92500 	WPYF473 	RM		AASD 	Appleton Area School District 	DMR 	Schools 
-467.00000 	WPYF473 	M		AASD 	Appleton Area School District 	DMR 	Schools 
-468.67500 	WPYF473 	M		AASD 	Appleton Area School District 	DMR 	Schools 
-452.72500 	WQKK326 	RM		Hortonville Scho 	Hortonville School District 	DMR 	Schools 
-461.38750 	WQKK326 	RM		Hortonville Scho 	Hortonville School District 	DMR 	Schools 
-461.91250 	WQKK326 	RM		Hortonville Scho 	Hortonville School District 	DMR 	Schools 
-463.22500 	WPLE776 	M		Hortonville Scho 	Hortonville School District 	FMN 	Schools 
-463.40000 	WPLE776 	M		Hortonville Scho 	Hortonville School District 	FMN 	Schools 
-463.71250 	WQKK326 	RM		Hortonville Scho 	Hortonville School District 	DMR 	Schools 
-452.85000 	WPOG558 	RM		KAHS 	Kaukauna High School 	DMR 	Schools 
-456.77500 	WPOG558 	M		KAHS 	Kaukauna High School 	DMR 	Schools 
-464.38750 	WQFG218 	RM		KASD 	Kaukauna Area School District 	DMR 	Schools 
-452.10000 	WQTY340 	RM		KASD 	Kimberly Area School District 	DMR 	Schools 
-452.17500 	WQTY340 	RM		KASD 	Kimberly Area School District 	DMR 	Schools 
-452.17500 	WPIS530 	RM		LCSD 	Little Chute School District 	DMR 	Schools 
-461.42500 	WPIS530 	RM	131 DPL	LCSD 	Little Chute School District 	FMN 	Schools 
-462.13750 	WPIS530 	M	245 DPL	LCSD 	Little Chute School District 	FMN 	Schools 
-462.16250 	WPIS530 	M	245 DPL	LCSD 	Little Chute School District 	FMN 	Schools 
-452.87500 	WPOZ646 	RM	CC 1TG 8300SL 1	FVTC Driving 	FVTC Driving 	DMR 	Schools 
-452.87500 	WPOZ646 	RM	CC 1TG *SL 2	FVTC 	FVTC 	DMR 	Schools 
-451.95000 	WPOZ646 	M		FVTC 	FVTC 	DMR 	Schools 
-456.95000 	WPOZ646 	M		FVTC 	FVTC 	DMR 	Schools 
-464.95000 	WNHR323 	RM	156 DPL	FVTC Maint 	Maintenance 	FMN 	Schools 
-151.68500 	WPJG957 	M	218.1 PL	FVTC Driver1 	Truck Driver Training 	FMN 	Schools 
-151.83500 	WNVB876 	M	233.6 PL	FVTC Driver2 	Truck Driver Training 	FM 	Schools 
-150.94250 	WPJG957 	M	047 DPL	FVTC Driver 	Truck Driver Training 	FMN 	Schools 
-151.95500 	 	M	88.5 PL	FVTC Driver 	Truck Driver Training 	FMN 	Schools 
-158.40000 	WQRC615 	M		FVTC WFTC 	Wildland Fire Training Center 	FMN 	Schools 
-451.42500 	WNHR323 	RM		FVTC PSTC 	Public Safety Training Center 	DMR 	Schools 
-464.20000 	 	RM	156 DPL	FVTC Sec 	Security 	FMN 	Schools 
-464.67500 	WNQI525 	RM	125 DPL	FVTC Driver 	Truck Driver Training 	FM 	Schools 
-Alliant Energy	 DMR Tier 3	 Various	Appleton City Services	 DMR Motorola Capacity Plus Single Site (TRBO)	 Appleton	Nielson Communications (Appleton)	 LTR Standard
- Appleton	Oneida Indian Nation	 Motorola Type II Smartnet	 Oneida	Oneida Indian Nation	 DMR Motorola Connect Plus (TRBO)	 Oneida	Outagamie-Winnebago County
- Project 25 Phase I	 Outagamie & Winnebago	Tyson Foods	 DMR Hytera XPT	 New London	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide
+154.43000 	   	WQQK703 	RM	91.5 PL	OUPAGE 	Paging 	FMN 	Fire Dispatch 
+155.70000 	   	WQQK703 	RM	107.2 PL	OUFIRE 	Fire - Patch to 45101 	FMN 	Fire Dispatch 
+453.17500 	458.17500  	WQCA801 	RM	CC 2TG 101SL 1	Gold Cross  	Gold Cross Ambulance Service Dispatch 	DMR 	EMS Dispatch 
+155.26500 	   	WQCA801 	M	203.5 PL	Gold Cross  	Gold Cross Ambulance Service Tactical 	FMN 	EMS-Tac 
+45.12000 	   	KNCG848 	B		OUEAS 	Emergency Alerting System 	FM 	Emergency Ops 
+150.99500 	159.06000  	WQPP496 	RM	151.4 PL	OUHWY1 	Highway Dept 	FMN 	Public Works 
+151.02500 	   	WQPP496 	M	151.4 PL	OUHWY2 	Highway Dept - Portables 	FMN 	Public Works 
+151.62500 	   	 	M	88.5 PL	Fairgrounds 	Fairgrounds 	FMN 	Public Works 
+155.11500 	   	WNIJ845 	BM	151.4 PL	Landfill 	Landfill 	FMN 	Public Works 
+151.30250 	   	WQKS963 	M		Landfill 	Landfill 	FMN 	Public Works 
+151.42250 	   	WQKS963 	M	364 DPL	Landfill 	Landfill 	FMN 	Public Works 
+156.21000 	159.15000  	WQKS963 	RM	023 DPL	OULANDFILL 	Landfill 	FMN 	Public Works 
+852.26250 	807.26250  	WQSF382 	RM		OUDVRS 	Vehicular Repeaters 	P25 	Multi-Talk 
+854.96250 	809.96250  	WQQZ944 	RM	131.8 PL	OUSIREN 	County Siren Control 	Telm 	Data 
+451.25000 	   	WPMY512 	M		Appl WtrData 	Public Works - Meter Reader Data 	Telm 	Public Works 
+154.75500 	158.95500  	WPUG392 	RM	156.7 PL	APPD Explore 	Police Explorers - Post 9925 	FMN 	Law Talk 
+155.34000 	   	WPCA770 	B	110.9 PL	AMC EMS B 	Appleton Medical Center 	FMN 	Hospital 
+463.00000 	468.00000  	WPCA770 	RM	192.8 PL	AMC Med 1 	Appleton Medical Center 	FMN 	Hospital 
+155.34000 	   	KDL543 	BM	107.2 PL	St E EMS B 	Saint Elizabeth Hospital 	FMN 	Hospital 
+463.02500 	468.02500  	KZY911 	RM	192.8 PL	St E Med 2 	Saint Elizabeth Hospital 	FMN 	Hospital 
+151.26500 	153.90500  	WNBN234 	RM		Water Telm 	Water Department Telemetry 	Telm 	Public Works 
+453.73750 	   	 	M		OUAPDPW 	DPW 	DMR 	Public Works 
+458.73750 	   	 	M		OUAPDPW 	DPW 	DMR 	Public Works 
+151.13000 	159.00000  	WPVC329 	RM	CC 1TG 100SL 1	GCDPW 	Public Works 	DMR 	Public Works 
+155.55000 	153.86000  	KTI669 	RM	047 DPL	Kaukauna DPW 	DPW 	FMN 	Public Works 
+155.92500 	158.75250  	WQEQ589 	RM	151.4 PL	Kaukauna DPW 	old DPW 	FMN 	Public Works 
+451.20000 	456.20000  	WNVS260 	RM	203.5 PL	Kaukauna W&E 	Water & Electric 	FMN 	Utilities 
+453.52500 	458.52500  	WNRW532 	RM	754 DPL	Heart Valley 	Heart of the Valley Metro Sewage District 	FMN 	Utilities 
+151.04750 	156.17250  	WQHS429 	RM	071 DPL	Kimberly DPW 	Public Works 	FMN 	Public Works 
+154.05500 	   	WQHS429 	BM	143 DPL	Kimberly DPW 	Public Works - old channel 	FMN 	Public Works 
+155.71500 	   	KNJT308 	BM	107.2 PL	Kimberly DPW 	Public Works - old channel 	FMN 	Public Works 
+154.73250 	159.09750  	KNJX262 	RM	074 DPL	OULCDPW 	Public Works 	FMN 	Public Works 
+155.83500 	   	KNJX262 	BM	127.3 PL	Little Chute 	Public Works 	FMN 	Public Works 
+155.92500 	   	WNGI436 	BM	107.2 PL	Oneida DPW 	Public Works 	FMN 	Public Works 
+155.32500 	150.80500  	WPWE601 	RM	466 DPL	Seymour FD 	Fire/Rescue Local Dispatch 	FMN 	Fire Dispatch 
+151.08500 	156.11250  	WNMQ277 	RM	134 DPL	Shiocton PW 	Public Works 	FMN 	Public Works 
+154.10000 	159.11250  	WQFS596 	RM	261 DPL	BlackCreekPW 	Black Creek  Public Works 	FMN 	Public Works 
+154.87500 	   	KNGT950 	BM	136.5 PL	CombinedLkPW 	Combined Locks Public Works 	FMN 	Public Works 
+155.71500 	   	WPMZ607 	BM	91.5 PL	Freedom 	Freedom Public Works 	FMN 	Public Works 
+452.22500 	457.22500  	WQNP711 	RM	CC 1TG 100SL 1	GreenvillePW 	Town of Greenville Public Works 	DMR 	Public Works 
+456.23750 	   	WQNP711 	M		GreenvillePW 	Town of Greenville Public Works Portables 	FMN 	Public Works 
+457.23750 	   	WQNP711 	M		GreenvillePW 	Town of Greenville Public Works Portables 	FMN 	Public Works 
+457.97500 	   	WQNP711 	M		GreenvillePW 	Town of Greenville Public Works Portables 	FMN 	Public Works 
+463.45000 	468.45000  	WPTN542 	RM		AASD1 Cityw 	Appleton Area School District 1 Citywide 	DMR 	Schools 
+463.60000 	468.60000  	WPYF473 	RM	612 DPL	AASD NorthHS 	Appleton Area School District - North High School 	FMN 	Schools 
+462.01250 	467.01250  	WPYF473 	RM		AASD Ops 	Appleton Area School District  	DMR 	Schools 
+461.35000 	466.35000  	WPYF473 	RM		AASD 	Appleton Area School District 	DMR 	Schools 
+461.81250 	466.81250  	WPYF473 	RM		AASD 	Appleton Area School District 	DMR 	Schools 
+461.85000 	466.85000  	WPYF473 	RM		AASD 	Appleton Area School District 	DMR 	Schools 
+462.10000 	467.10000  	WPYF473 	RM		AASD 	Appleton Area School District 	DMR 	Schools 
+464.92500 	469.92500  	WPYF473 	RM		AASD 	Appleton Area School District 	DMR 	Schools 
+467.00000 	   	WPYF473 	M		AASD 	Appleton Area School District 	DMR 	Schools 
+468.67500 	   	WPYF473 	M		AASD 	Appleton Area School District 	DMR 	Schools 
+452.72500 	457.72500  	WQKK326 	RM		Hortonville Scho 	Hortonville School District 	DMR 	Schools 
+461.38750 	466.38750  	WQKK326 	RM		Hortonville Scho 	Hortonville School District 	DMR 	Schools 
+461.91250 	466.91250  	WQKK326 	RM		Hortonville Scho 	Hortonville School District 	DMR 	Schools 
+463.22500 	   	WPLE776 	M		Hortonville Scho 	Hortonville School District 	FMN 	Schools 
+463.40000 	   	WPLE776 	M		Hortonville Scho 	Hortonville School District 	FMN 	Schools 
+463.71250 	468.71250  	WQKK326 	RM		Hortonville Scho 	Hortonville School District 	DMR 	Schools 
+452.85000 	457.85000  	WPOG558 	RM		KAHS 	Kaukauna High School 	DMR 	Schools 
+456.77500 	   	WPOG558 	M		KAHS 	Kaukauna High School 	DMR 	Schools 
+464.38750 	469.38750  	WQFG218 	RM		KASD 	Kaukauna Area School District 	DMR 	Schools 
+452.10000 	457.10000  	WQTY340 	RM		KASD 	Kimberly Area School District 	DMR 	Schools 
+452.17500 	457.17500  	WQTY340 	RM		KASD 	Kimberly Area School District 	DMR 	Schools 
+452.17500 	457.17500  	WPIS530 	RM		LCSD 	Little Chute School District 	DMR 	Schools 
+461.42500 	466.42500  	WPIS530 	RM	131 DPL	LCSD 	Little Chute School District 	FMN 	Schools 
+462.13750 	   	WPIS530 	M	245 DPL	LCSD 	Little Chute School District 	FMN 	Schools 
+462.16250 	   	WPIS530 	M	245 DPL	LCSD 	Little Chute School District 	FMN 	Schools 
+452.87500 	457.87500  	WPOZ646 	RM	CC 1TG 8300SL 1	FVTC Driving 	FVTC Driving 	DMR 	Schools 
+452.87500 	457.87500  	WPOZ646 	RM	CC 1TG *SL 2	FVTC 	FVTC 	DMR 	Schools 
+451.95000 	   	WPOZ646 	M		FVTC 	FVTC 	DMR 	Schools 
+456.95000 	   	WPOZ646 	M		FVTC 	FVTC 	DMR 	Schools 
+464.95000 	469.95000  	WNHR323 	RM	156 DPL	FVTC Maint 	Maintenance 	FMN 	Schools 
+151.68500 	   	WPJG957 	M	218.1 PL	FVTC Driver1 	Truck Driver Training 	FMN 	Schools 
+151.83500 	   	WNVB876 	M	233.6 PL	FVTC Driver2 	Truck Driver Training 	FM 	Schools 
+150.94250 	   	WPJG957 	M	047 DPL	FVTC Driver 	Truck Driver Training 	FMN 	Schools 
+151.95500 	   	 	M	88.5 PL	FVTC Driver 	Truck Driver Training 	FMN 	Schools 
+158.40000 	   	WQRC615 	M		FVTC WFTC 	Wildland Fire Training Center 	FMN 	Schools 
+451.42500 	456.00000  	WNHR323 	RM		FVTC PSTC 	Public Safety Training Center 	DMR 	Schools 
+464.20000 	469.20000  	 	RM	156 DPL	FVTC Sec 	Security 	FMN 	Schools 
+464.67500 	   	WNQI525 	RM	125 DPL	FVTC Driver 	Truck Driver Training 	FM 	Schools 
+Alliant Energy	 DMR Tier 3	 Various	Appleton City Services	 DMR Motorola Capacity Plus Single Site (TRBO)	 Appleton	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+Nielson Communications (Appleton)	 LTR Standard	 Appleton	Oneida Indian Nation	 Motorola Type II Smartnet	 Oneida	Oneida Indian Nation	 DMR Motorola Connect Plus (TRBO)	 Oneida
+Outagamie-Winnebago County	 Project 25 Phase I	 Outagamie & Winnebago	Tyson Foods	 DMR Hytera XPT	 New London	

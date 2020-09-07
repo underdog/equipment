@@ -1,14 +1,13 @@
-453.56250 	WQCH942 	RM	229.1 PL	PG F/E Dispatch 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-460.06250 	WQCH942 	RM	210.7 PL	PG F/E Ops 	Fire/EMS Ops 	FMN 	Fire-Tac 
-460.03750 	WQCH942 	RM	254.1 PL	PG Fire Tac 1 	Fire Tac 1 	FMN 	Fire-Tac 
-453.31250 	WQCL930 	M	315 DPL	PG Fire Tac 2 	Fire Tac 2 	FMN 	Fire-Tac 
-458.31250 	WQCL930 	M	205 DPL	PG EMS Tac 2 	EMS Tac 2 	FMN 	EMS-Tac 
-453.16250 	WQCH942 	RM	229.1 PL	PG PD Ops1 	Police Ops 1 	FMN 	Law Dispatch 
-453.23750 	WQCH942 	RM	210.7 PL	PG PD Ops2 	Police Ops 2 	FMN 	Law Dispatch 
-453.41250 	WQCH942 	RM	229.1 PL	PG PD Tac1 	Police Tac 1 	FMN 	Law Tac 
-453.51250 	WQCH942 	RM	210.7 PL	PG PD Tac2 	Police Tac 2 	FMN 	Law Tac 
-460.28750 	WQCH942 	RM	254.1 PL	PG SchBuses 	School Buses 	FMN 	Schools 
-460.41250 	WQCH942 	RM	186.2 PL	PG Co Admin 	County Admin 	FMN 	Interop 
-460.43750 	WQCH942 	RM	254.1 PL	PG Countywde 	Countywide 	FMN 	Interop 
-Eastern Virginia Regional Communications	 Motorola Type II SmartZone	 Various	Federal Correctional Complex Petersburg	 Project 25 Phase I	 Petersburg	Fort Lee	 Project 25 Phase I
- Petersburg	
+453.56250 	458.56250  	WQCH942 	RM	229.1 PL	PG F/E Dispatch 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+460.06250 	465.06250  	WQCH942 	RM	210.7 PL	PG F/E Ops 	Fire/EMS Ops 	FMN 	Fire-Tac 
+460.03750 	465.03750  	WQCH942 	RM	254.1 PL	PG Fire Tac 1 	Fire Tac 1 	FMN 	Fire-Tac 
+453.31250 	   	WQCL930 	M	315 DPL	PG Fire Tac 2 	Fire Tac 2 	FMN 	Fire-Tac 
+458.31250 	   	WQCL930 	M	205 DPL	PG EMS Tac 2 	EMS Tac 2 	FMN 	EMS-Tac 
+453.16250 	458.16250  	WQCH942 	RM	229.1 PL	PG PD Ops1 	Police Ops 1 	FMN 	Law Dispatch 
+453.23750 	458.23750  	WQCH942 	RM	210.7 PL	PG PD Ops2 	Police Ops 2 	FMN 	Law Dispatch 
+453.41250 	458.41250  	WQCH942 	RM	229.1 PL	PG PD Tac1 	Police Tac 1 	FMN 	Law Tac 
+453.51250 	458.51250  	WQCH942 	RM	210.7 PL	PG PD Tac2 	Police Tac 2 	FMN 	Law Tac 
+460.28750 	465.28750  	WQCH942 	RM	254.1 PL	PG SchBuses 	School Buses 	FMN 	Schools 
+460.41250 	465.41250  	WQCH942 	RM	186.2 PL	PG Co Admin 	County Admin 	FMN 	Interop 
+460.43750 	465.43750  	WQCH942 	RM	254.1 PL	PG Countywde 	Countywide 	FMN 	Interop 
+Eastern Virginia Regional Communications	 Motorola Type II SmartZone	 Various	Federal Correctional Complex Petersburg	 Project 25 Phase I	 Petersburg	Fort Lee	 Project 25 Phase I	 Petersburg

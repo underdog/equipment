@@ -1,13 +1,12 @@
-159.35250 	WQKG396 	BM	CSQ	PottCoFrDisp 	Fire Dispatch - Linked to TG 2546 on the ORION System 	FMN 	Fire Dispatch 
-154.25000 	KAN839 	BM	141.3 PL	Fire Mut Aid 	Fire Mutual Aid 	FM 	Fire-Tac 
-460.30000 	WPMM279 	RM	503 DPL	Pott Co Jail 	Jail 	FM 	Corrections 
-155.77500 	KWX553 	RM	141.3 PL	PottCoRdDept 	Road Department 	FM 	Public Works 
-154.40000 	KAN839 	BM		PottCo Data 	Data 	Telm 	Fire Dispatch 
-150.80500 	KAN839 	M		PottFrMoRptr 	Mobile Extender for FD's 	FM 	Other 
-155.23500 	KXO957 	BM		RegionalEMS 	EMS (Sheriff Ch. 10) 	FM 	EMS-Tac 
-155.10000 	KNAT825 	RM	141.3 PL	Data 	Data 	FM 	Data 
-154.96500 	KEP664 	BM	115 DPL	CoBluffs PW 	Public Works? 	FM 	Public Works 
-453.37500 	WPUB497 	RM	167.9 PL	CB MamalCtrl 	Animal Control 	FM 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Harrah's Council Bluffs / Horseshoe Casino	 Motorola Type II	 Council Bluffs	Iowa DMR Users Group	 DMR Conventional Networked
- Various	Mid American Energy	 MPT-1327 Standard	 Various	Midamerican Energy (Council Bluffs)	 LTR Standard	 Council Bluffs	Oakland Foods
- Motorola Type II	 Oakland	Omaha Regional Interoperability Network (ORION)	 Project 25 Phase II	 Omaha	RACOM Network	 EDACS Networked Standard	 Various
+159.35250 	   	WQKG396 	BM	CSQ	PottCoFrDisp 	Fire Dispatch - Linked to TG 2546 on the ORION System 	FMN 	Fire Dispatch 
+154.25000 	   	KAN839 	BM	141.3 PL	Fire Mut Aid 	Fire Mutual Aid 	FM 	Fire-Tac 
+460.30000 	465.30000  	WPMM279 	RM	503 DPL	Pott Co Jail 	Jail 	FM 	Corrections 
+155.77500 	155.04000  	KWX553 	RM	141.3 PL	PottCoRdDept 	Road Department 	FM 	Public Works 
+154.40000 	   	KAN839 	BM		PottCo Data 	Data 	Telm 	Fire Dispatch 
+150.80500 	   	KAN839 	M		PottFrMoRptr 	Mobile Extender for FD's 	FM 	Other 
+155.23500 	   	KXO957 	BM		RegionalEMS 	EMS (Sheriff Ch. 10) 	FM 	EMS-Tac 
+155.10000 	153.98000  	KNAT825 	RM	141.3 PL	Data 	Data 	FM 	Data 
+154.96500 	   	KEP664 	BM	115 DPL	CoBluffs PW 	Public Works? 	FM 	Public Works 
+453.37500 	458.37500  	WPUB497 	RM	167.9 PL	CB MamalCtrl 	Animal Control 	FM 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Harrah's Council Bluffs / Horseshoe Casino	 Motorola Type II	 Council Bluffs	Mid American Energy	 MPT-1327 Standard	 Various
+Midamerican Energy (Council Bluffs)	 LTR Standard	 Council Bluffs	Oakland Foods	 Motorola Type II	 Oakland	RACOM Network	 EDACS Networked Standard	 Various

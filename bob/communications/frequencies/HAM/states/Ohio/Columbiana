@@ -1,94 +1,93 @@
-39.40000 	KQC504 	BM	156.7 PL	Leetonia PD 	Leetonia PD 	FM 	Law Talk 
-151.20500 	KQA748 	RM	CC 10TG 100SL 1	Salem PD 1 D 	Salem PD 1 (digital) 	DMRE 	Law Dispatch 
-159.18750 	KQA748 	RM	114.8 PL	SALEM PD 1 A 	Salem PD 1 (analog) 	FMN 	Law Dispatch 
-155.52000 	KQA748 	BM	186.2 PL	Salem PTac 2 A 	Salem PD Tac 2 (analog) 	FMN 	Law Tac 
-155.67000 	KQA748 	M	CC 10TG 300SL 1	Salem PTac 3 D 	Salem PD Tac 3 (digital) 	DMRE 	Law Tac 
-158.78250 	KBF250 	RM	CC 1TG 5SL 2	StClair PD 	St Clair Township PD (simulcast with ELPD) 	DMRE 	Law Dispatch 
-173.26250 	KBF250 	M		StClair PD 2 	St Clair Township PD Ch.2 	FMN 	Law Tac 
-155.53500 	WPWA514 	RM	156.7 PL	Wellsvlle PD 	Wellsville PD 	FMN 	Law Dispatch 
-151.26500 	various 	RM	100.0 PL	CountyNEPD 	East Palestine / Leetonia PD / Columbiana PD 	FMN 	Law Tac 
-158.85750 	WPKY425 	RM	156.7 PL	Lisbon PD 1 	Lisbon PD 	FMN 	Law Dispatch 
-153.97250 	WPKY425 	M		Lisbon PD 2 	Lisbon PD Ch.2 	FMN 	Law Tac 
-159.21750 	WPVB944 	RM	82.5 PL	SalinevllePD 	Salineville PD 	FMN 	Law Dispatch 
-154.23500 	WPCV967 	RM	156.7 PL	LvrplTwp PD1 	Liverpool Twp PD 	FMN 	Law Dispatch 
-155.91000 	 	BM	156.7 PL	LvrplTwp PD2 	Liverpool Twp PD Ch. 2 	FMN 	Law Tac 
-154.78500 	WNVM949 	RM	CC 1TG 5SL 2	ELiverpl PD 	East Liverpool PD (simulcast with St Clair Twp) 	DMRE 	Law Dispatch 
-152.42000 	WRBD241 	RM		ColCo Jail 	County Jail 	DMR 	Corrections 
-153.90500 	WNVM949 	M	156.7 PL	ELiverplPD 3 	East Liverpool PD Ch.3 	FMN 	Law Tac 
-463.41250 	WRDN459 	RM		CC Jail 	Correctional Solutions group (Jail operators) 	DMR 	Corrections 
-154.07000 	various 	BM		ColCo FDisp 	Columbiana Co Fire Dispatch 	FMN 	Fire Dispatch 
-151.01000 	WQIW556 	RM	503 DPL	NGeo-HworthVFD 	N Georgetown/Homeworth Fire Dispatch 	FMN 	Fire Dispatch 
-151.03250 	KFM486 	RM	244 DPL	LeetoniaFEMS 	Leetonia FD 	FMN 	Fire Dispatch 
-151.20500 	KQA748 	RM	CC 10TG 200SL 2	Salem FD Dig 	Salem FD (digital) 	DMR 	Fire Dispatch 
-151.22000 	KGW640 	RM	156.7 PL	HghlndtwnVFD 	Highlandtown VFD 	FMN 	Fire Dispatch 
-151.31000 	WQJE351 	RM	723 DPL	FrnklnTwpVFD 	Franklin Twp VFD 	FMN 	Fire-Talk 
-151.35500 	WQOH822 	RM	311 DPL	Columb F-EMS 	Columbiana (City) FD and EMS 	FMN 	Fire Dispatch 
-151.37750 	KYJ237 	RM	654 DPL	Winona VFD 	Winona VFD 	FMN 	Fire Dispatch 
-151.46750 	WQLM448 	RM	072 DPL	PerryTwp FD 	Perry Twp Fire Department 	FMN 	Fire Dispatch 
-154.07000 	KWI793 	RM	151.4 PL	NegleyVFD 	Negley VFD 	FMN 	Fire Dispatch 
-154.13000 	KDL806 	RM	245 DPL	WellsvilleFD 	Wellsville FD 	FMN 	Fire Dispatch 
-154.23500 	WPCV967 	RM	156.7 PL	LvrplTwp FD 	Liverpool Twp FD 	FMN 	Fire Dispatch 
-154.38500 	KAF511 	RM	244 DPL	Salem FD 	Salem FD 	FMN 	Fire Dispatch 
-154.41500 	WNCH733 	RM		WestPointVFD 	Columbiana Co Fire / West Point VFD / East Palestine FD 	FMN 	Fire Dispatch 
-154.43000 	KDN582 	BM	88.5 PL	Minerva FD 	Minerva FD (Covers West Twp) 	FMN 	Fire Dispatch 
-155.11500 	KDT313 	BM		EPalstine FG 	East Palestine FD Fireground 	FMN 	Fire-Tac 
-155.42250 	KJH401 	RM	031 DPL	Glenmor-Calc VFD 	Glenmoor / Calcutta VFD 	FMN 	Fire Dispatch 
-156.11250 	WQJE351 	M		FrnklnTwp FG 	Franklin Twp VFD CH2 	FMN 	Fire-Talk 
-158.83500 	WQGS728 	RM	723 DPL	Salinevl VFD 	Salineville VFD 	FMN 	Fire Dispatch 
-159.14250 	KWI793 	RM	151.4 PL	EP-NW-NEG FDSP 	East Palestine / New Waterford / Negley Dispatch 	FMN 	Fire Dispatch 
-159.15750 	KBG515 	RM	CC 1TG 6SL 1	ELiverpool FD 	East Liverpool Fire Department 	DMR 	Fire Dispatch 
-453.20000 	KDN582 	RM		Minerva 200 	Minerva FD 	FMN 	Fire-Talk 
-453.83750 	KDN582 	RM		Minerva 8375 	Minerva FD 	FMN 	Fire-Talk 
-458.23750 	WPCV967 	F	118.8 PL	LvrplTwp Lnk 	Liverpool Twp FD (fixed relay) 	FMN 	Fire Dispatch 
-153.25250 	WRBY559 	RM	CC 5TG 1SL 1	ASI ELO 	Ambulance Service Inc (ELO) 	DMR 	EMS Dispatch 
-155.17500 	WNNA242 	BM	186.2 PL	Lifeteam EMS 	Lifeteam EMS (East Liverpool) 	FMN 	EMS Dispatch 
-155.28000 	KNBJ823 	BM		ColCo EMS 	County EMS 	FMN 	EMS Dispatch 
-155.70000 	WQGP554 	RM	054 DPL	NorthStarEMS 	North Star Critical Care 	FMN 	EMS Dispatch 
-463.17500 	 	RM	103.5 PL	Salem ER 	Salem Hospital ER (Hospital/Squad) 	FMN 	Hospital 
-155.92500 	KTZ241 	RM	156.7 PL	ColCo EMA 	County EMA 	FMN 	Emergency Ops 
-155.97750 	WPMR771 	BM	156.7 PL	EMA TAC2 	TAC 2 	FMN 	Emergency Ops 
-156.15000 	WPPZ760 	M	156.7 PL	EMA TAC3 	TAC 3 	FMN 	Emergency Ops 
-159.15000 	WPPZ760 	M	156.7 PL	EMA TAC4 	TAC 4 	FMN 	Emergency Ops 
-460.33750 	WPMR771 	BM		EMA UTAC1 	UHF TAC1 	FMN 	Emergency Ops 
-460.41250 	WPMR771 	BM		EMA UTAC2 	UHF TAC2 	FMN 	Emergency Ops 
-465.33750 	WPMR771 	BM		EMA UTAC3 	UHF TAC3 	FMN 	Emergency Ops 
-465.41250 	WPMR771 	BM		EMA UTAC4 	UHF TAC4 	FMN 	Emergency Ops 
-37.10000 	KYY833 	BM		WellsvillePW 	Wellsville Services 	FM 	Public Works 
-45.12000 	KDT313 	BM		EPalestinePW 	East Palestine Services 	FM 	Public Works 
-45.90000 	WPRF535 	BM		WshngtnvlPW 	Washingtonville Services 	FM 	Public Works 
-150.99500 	KQA748 	RM	156.7 PL	Salem PW 	Salem Public Works 	FMN 	Public Works 
-151.11500 	KJR422 	RM	CC 15TG 100SL 1	ColCo Roads 	County Highway Department 	DMR 	Public Works 
-155.05500 	 	BM	141.3 PL	MadTwp Roads 	Madison Township Roads 	FMN 	Public Works 
-155.77500 	KLK638 	BM	156.7 PL	Salem Water 	Salem Water Department 	FMN 	Public Works 
-156.16500 	WNJR474 	BM		Butler PW 	Butler Services 	FMN 	Public Works 
-156.18750 	KFM486 	RM	411 DPL	Leetonia DPW 	Leetonia Street Dept 	FMN 	Public Works 
-158.74500 	WNJH716 	BM		ColCo MRDD 	County MR/DD 	FMN 	Transportation 
-158.76000 	KNEX614 	RM	CC 1TG 2SL 2	ELVRPOOL PW 	East Liverpool Street Department 	DMR 	Public Works 
-158.80500 	KUN593 	BM		ColumbianaPW 	Columbiana (City) Services 	FMN 	Public Works 
-159.30000 	WPCV651 	BM		Fairfield PW 	Fairfield Services 	FMN 	Public Works 
-173.27500 	WPQZ685 	BM		Salem Utils 	Salem Utilities 	Telm 	Data 
-453.05000 	WQMH413 	RM	174 DPL	WestTwp DPW 	West Township DPW 	FMN 	Public Works 
-453.18750 	WPMP912 	BM		Salem Utils UHF 	Salem Utilities 	Telm 	Public Works 
-453.32500 	KJR422 	F		CCO HD Link 	County Highway Department - Transmitter Link 	FMN 	Public Works 
-453.80000 	WPEZ521 	RM	156.7 PL	CCMHA 	Columbiana County Metro Housing Authority 	FMN 	Public Works 
-458.32500 	KJR422 	F		CCO HD Link 	County Highway Department - Transmitter Link 	FMN 	Public Works 
-462.12500 	 	RM	131.8 PL	CCMHA Sec 	Columbiana County Metro Housing Authority - Security 	FMN 	Security 
-463.58750 	WQMZ590 	RM	CC 1TG 1000SL 1	CARTS 	Community Action Rural Transit System 	DMR 	Public Works 
-151.52000 	WQBS374 	RM	CC 3TG 16777215SL *	CCBDD Buses 	Columbiana Co Board of Developmental Disabilities - Buses 	DMR 	Schools 
-152.27750 	WQKI816 	RM		CrestviewLSD 	Crestview Local School District 	NXDN 	Schools 
-152.90000 	WQYT440 	RM		EPCS Buses 	East Palestine City Schools 	DMR 	Schools 
-155.23500 	WNDD329 	RM	CC 14TG 1SL *	United Local 	United Local Schools 	DMR 	Schools 
-456.90000 	 	BM	047 DPL	Salem LSD 	Salem Schools 	FMN 	Schools 
-457.70000 	 	BM	047 DPL	Salem LSD 	Salem Schools 	FMN 	Schools 
-461.50000 	WPGE373 	RM	CC 5TG 586SL *	Minerva LSD Ops 	Minerva Local School District - Operations 	DMR 	Schools 
-463.62500 	WPGE373 	RM	CC 6TG 652SL *	MinervaLSD Bus 	Minerva Local School District - Buses 	DMR 	Schools 
-463.81250 	WQPS482 	RM	503 DPL	Beaver LSD 	Beaver Local Schools 	FMN 	Schools 
-464.31250 	WQYF344 	RM		Leetonia LSD 	Leetonia Schools 	DMR 	Schools 
-464.32500 	WQNL972 	RM	423 DPL	ELCS Buses 	East Liverpool City Schools - Buses 	FMN 	Schools 
-464.65000 	 	RM	155 DPL	Salem LSD 	Salem Schools 	FMN 	Schools 
-451.26250 	WPQE996 	RM	126 NAC	COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
-451.66875 	WQAG781 	F		BUCKEYEWATER 	Buckeye Water District 	Telm 	Data 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Domer Communications (Salem)	 LTR Standard	 Salem	Federal Correctional Institution Elkton	 Motorola Type II Smartnet
- Elkton	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Monte Cielo Sound	 LTR Standard	 Lisbon	Ohio MARCS-IP: Mobile Site 5A1
- Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH
-Utica East Ohio Midstream (M4 Midstream)	 DMR Conventional Networked	 Various	
+39.40000 	   	KQC504 	BM	156.7 PL	Leetonia PD 	Leetonia PD 	FM 	Law Talk 
+151.20500 	159.45000  	KQA748 	RM	CC 10TG 100SL 1	Salem PD 1 D 	Salem PD 1 (digital) 	DMRE 	Law Dispatch 
+159.18750 	154.95000  	KQA748 	RM	114.8 PL	SALEM PD 1 A 	Salem PD 1 (analog) 	FMN 	Law Dispatch 
+155.52000 	   	KQA748 	BM	186.2 PL	Salem PTac 2 A 	Salem PD Tac 2 (analog) 	FMN 	Law Tac 
+155.67000 	   	KQA748 	M	CC 10TG 300SL 1	Salem PTac 3 D 	Salem PD Tac 3 (digital) 	DMRE 	Law Tac 
+158.78250 	153.86250  	KBF250 	RM	CC 1TG 5SL 2	StClair PD 	St Clair Township PD (simulcast with ELPD) 	DMRE 	Law Dispatch 
+173.26250 	   	KBF250 	M		StClair PD 2 	St Clair Township PD Ch.2 	FMN 	Law Tac 
+155.53500 	159.03000  	WPWA514 	RM	156.7 PL	Wellsvlle PD 	Wellsville PD 	FMN 	Law Dispatch 
+151.26500 	154.89000  	various 	RM	100.0 PL	CountyNEPD 	East Palestine / Leetonia PD / Columbiana PD 	FMN 	Law Tac 
+158.85750 	153.80750  	WPKY425 	RM	156.7 PL	Lisbon PD 1 	Lisbon PD 	FMN 	Law Dispatch 
+153.97250 	   	WPKY425 	M		Lisbon PD 2 	Lisbon PD Ch.2 	FMN 	Law Tac 
+159.21750 	154.00250  	WPVB944 	RM	82.5 PL	SalinevllePD 	Salineville PD 	FMN 	Law Dispatch 
+154.23500 	159.00000  	WPCV967 	RM	156.7 PL	LvrplTwp PD1 	Liverpool Twp PD 	FMN 	Law Dispatch 
+155.91000 	   	 	BM	156.7 PL	LvrplTwp PD2 	Liverpool Twp PD Ch. 2 	FMN 	Law Tac 
+154.78500 	158.94000  	WNVM949 	RM	CC 1TG 5SL 2	ELiverpl PD 	East Liverpool PD (simulcast with St Clair Twp) 	DMRE 	Law Dispatch 
+152.42000 	157.68000  	WRBD241 	RM		ColCo Jail 	County Jail 	DMR 	Corrections 
+153.90500 	   	WNVM949 	M	156.7 PL	ELiverplPD 3 	East Liverpool PD Ch.3 	FMN 	Law Tac 
+463.41250 	468.41250  	WRDN459 	RM		CC Jail 	Correctional Solutions group (Jail operators) 	DMR 	Corrections 
+154.07000 	   	various 	BM		ColCo FDisp 	Columbiana Co Fire Dispatch 	FMN 	Fire Dispatch 
+151.01000 	156.08250  	WQIW556 	RM	503 DPL	NGeo-HworthVFD 	N Georgetown/Homeworth Fire Dispatch 	FMN 	Fire Dispatch 
+151.03250 	154.03250  	KFM486 	RM	244 DPL	LeetoniaFEMS 	Leetonia FD 	FMN 	Fire Dispatch 
+151.20500 	159.45000  	KQA748 	RM	CC 10TG 200SL 2	Salem FD Dig 	Salem FD (digital) 	DMR 	Fire Dispatch 
+151.22000 	159.25500  	KGW640 	RM	156.7 PL	HghlndtwnVFD 	Highlandtown VFD 	FMN 	Fire Dispatch 
+151.31000 	158.88000  	WQJE351 	RM	723 DPL	FrnklnTwpVFD 	Franklin Twp VFD 	FMN 	Fire-Talk 
+151.35500 	159.37500  	WQOH822 	RM	311 DPL	Columb F-EMS 	Columbiana (City) FD and EMS 	FMN 	Fire Dispatch 
+151.37750 	159.12000  	KYJ237 	RM	654 DPL	Winona VFD 	Winona VFD 	FMN 	Fire Dispatch 
+151.46750 	159.32250  	WQLM448 	RM	072 DPL	PerryTwp FD 	Perry Twp Fire Department 	FMN 	Fire Dispatch 
+154.07000 	159.39000  	KWI793 	RM	151.4 PL	NegleyVFD 	Negley VFD 	FMN 	Fire Dispatch 
+154.13000 	150.79000  	KDL806 	RM	245 DPL	WellsvilleFD 	Wellsville FD 	FMN 	Fire Dispatch 
+154.23500 	159.00000  	WPCV967 	RM	156.7 PL	LvrplTwp FD 	Liverpool Twp FD 	FMN 	Fire Dispatch 
+154.38500 	156.24000  	KAF511 	RM	244 DPL	Salem FD 	Salem FD 	FMN 	Fire Dispatch 
+154.41500 	154.07000  	WNCH733 	RM		WestPointVFD 	Columbiana Co Fire / West Point VFD / East Palestine FD 	FMN 	Fire Dispatch 
+154.43000 	   	KDN582 	BM	88.5 PL	Minerva FD 	Minerva FD (Covers West Twp) 	FMN 	Fire Dispatch 
+155.11500 	   	KDT313 	BM		EPalstine FG 	East Palestine FD Fireground 	FMN 	Fire-Tac 
+155.42250 	159.06750  	KJH401 	RM	031 DPL	Glenmor-Calc VFD 	Glenmoor / Calcutta VFD 	FMN 	Fire Dispatch 
+156.11250 	   	WQJE351 	M		FrnklnTwp FG 	Franklin Twp VFD CH2 	FMN 	Fire-Talk 
+158.83500 	151.09250  	WQGS728 	RM	723 DPL	Salinevl VFD 	Salineville VFD 	FMN 	Fire Dispatch 
+159.14250 	153.95000  	KWI793 	RM	151.4 PL	EP-NW-NEG FDSP 	East Palestine / New Waterford / Negley Dispatch 	FMN 	Fire Dispatch 
+159.15750 	154.71750  	KBG515 	RM	CC 1TG 6SL 1	ELiverpool FD 	East Liverpool Fire Department 	DMR 	Fire Dispatch 
+453.20000 	458.20000  	KDN582 	RM		Minerva 200 	Minerva FD 	FMN 	Fire-Talk 
+453.83750 	458.83750  	KDN582 	RM		Minerva 8375 	Minerva FD 	FMN 	Fire-Talk 
+458.23750 	   	WPCV967 	F	118.8 PL	LvrplTwp Lnk 	Liverpool Twp FD (fixed relay) 	FMN 	Fire Dispatch 
+153.25250 	158.31750  	WRBY559 	RM	CC 5TG 1SL 1	ASI ELO 	Ambulance Service Inc (ELO) 	DMR 	EMS Dispatch 
+155.17500 	   	WNNA242 	BM	186.2 PL	Lifeteam EMS 	Lifeteam EMS (East Liverpool) 	FMN 	EMS Dispatch 
+155.28000 	   	KNBJ823 	BM		ColCo EMS 	County EMS 	FMN 	EMS Dispatch 
+155.70000 	151.04750  	WQGP554 	RM	054 DPL	NorthStarEMS 	North Star Critical Care 	FMN 	EMS Dispatch 
+463.17500 	468.17500  	 	RM	103.5 PL	Salem ER 	Salem Hospital ER (Hospital/Squad) 	FMN 	Hospital 
+155.92500 	158.95500  	KTZ241 	RM	156.7 PL	ColCo EMA 	County EMA 	FMN 	Emergency Ops 
+155.97750 	   	WPMR771 	BM	156.7 PL	EMA TAC2 	TAC 2 	FMN 	Emergency Ops 
+156.15000 	   	WPPZ760 	M	156.7 PL	EMA TAC3 	TAC 3 	FMN 	Emergency Ops 
+159.15000 	   	WPPZ760 	M	156.7 PL	EMA TAC4 	TAC 4 	FMN 	Emergency Ops 
+460.33750 	   	WPMR771 	BM		EMA UTAC1 	UHF TAC1 	FMN 	Emergency Ops 
+460.41250 	   	WPMR771 	BM		EMA UTAC2 	UHF TAC2 	FMN 	Emergency Ops 
+465.33750 	   	WPMR771 	BM		EMA UTAC3 	UHF TAC3 	FMN 	Emergency Ops 
+465.41250 	   	WPMR771 	BM		EMA UTAC4 	UHF TAC4 	FMN 	Emergency Ops 
+37.10000 	   	KYY833 	BM		WellsvillePW 	Wellsville Services 	FM 	Public Works 
+45.12000 	   	KDT313 	BM		EPalestinePW 	East Palestine Services 	FM 	Public Works 
+45.90000 	   	WPRF535 	BM		WshngtnvlPW 	Washingtonville Services 	FM 	Public Works 
+150.99500 	156.09750  	KQA748 	RM	156.7 PL	Salem PW 	Salem Public Works 	FMN 	Public Works 
+151.11500 	156.12750  	KJR422 	RM	CC 15TG 100SL 1	ColCo Roads 	County Highway Department 	DMR 	Public Works 
+155.05500 	   	 	BM	141.3 PL	MadTwp Roads 	Madison Township Roads 	FMN 	Public Works 
+155.77500 	   	KLK638 	BM	156.7 PL	Salem Water 	Salem Water Department 	FMN 	Public Works 
+156.16500 	   	WNJR474 	BM		Butler PW 	Butler Services 	FMN 	Public Works 
+156.18750 	159.05250  	KFM486 	RM	411 DPL	Leetonia DPW 	Leetonia Street Dept 	FMN 	Public Works 
+158.74500 	   	WNJH716 	BM		ColCo MRDD 	County MR/DD 	FMN 	Transportation 
+158.76000 	153.83000  	KNEX614 	RM	CC 1TG 2SL 2	ELVRPOOL PW 	East Liverpool Street Department 	DMR 	Public Works 
+158.80500 	   	KUN593 	BM		ColumbianaPW 	Columbiana (City) Services 	FMN 	Public Works 
+159.30000 	   	WPCV651 	BM		Fairfield PW 	Fairfield Services 	FMN 	Public Works 
+173.27500 	   	WPQZ685 	BM		Salem Utils 	Salem Utilities 	Telm 	Data 
+453.05000 	458.05000  	WQMH413 	RM	174 DPL	WestTwp DPW 	West Township DPW 	FMN 	Public Works 
+453.18750 	   	WPMP912 	BM		Salem Utils UHF 	Salem Utilities 	Telm 	Public Works 
+453.32500 	   	KJR422 	F		CCO HD Link 	County Highway Department - Transmitter Link 	FMN 	Public Works 
+453.80000 	458.80000  	WPEZ521 	RM	156.7 PL	CCMHA 	Columbiana County Metro Housing Authority 	FMN 	Public Works 
+458.32500 	   	KJR422 	F		CCO HD Link 	County Highway Department - Transmitter Link 	FMN 	Public Works 
+462.12500 	467.12500  	 	RM	131.8 PL	CCMHA Sec 	Columbiana County Metro Housing Authority - Security 	FMN 	Security 
+463.58750 	468.58750  	WQMZ590 	RM	CC 1TG 1000SL 1	CARTS 	Community Action Rural Transit System 	DMR 	Public Works 
+151.52000 	159.76500  	WQBS374 	RM	CC 3TG 16777215SL *	CCBDD Buses 	Columbiana Co Board of Developmental Disabilities - Buses 	DMR 	Schools 
+152.27750 	157.53750  	WQKI816 	RM		CrestviewLSD 	Crestview Local School District 	NXDN 	Schools 
+152.90000 	159.66000  	WQYT440 	RM		EPCS Buses 	East Palestine City Schools 	DMR 	Schools 
+155.23500 	158.95500  	WNDD329 	RM	CC 14TG 1SL *	United Local 	United Local Schools 	DMR 	Schools 
+456.90000 	   	 	BM	047 DPL	Salem LSD 	Salem Schools 	FMN 	Schools 
+457.70000 	   	 	BM	047 DPL	Salem LSD 	Salem Schools 	FMN 	Schools 
+461.50000 	466.50000  	WPGE373 	RM	CC 5TG 586SL *	Minerva LSD Ops 	Minerva Local School District - Operations 	DMR 	Schools 
+463.62500 	468.62500  	WPGE373 	RM	CC 6TG 652SL *	MinervaLSD Bus 	Minerva Local School District - Buses 	DMR 	Schools 
+463.81250 	468.81250  	WQPS482 	RM	503 DPL	Beaver LSD 	Beaver Local Schools 	FMN 	Schools 
+464.31250 	469.31250  	WQYF344 	RM		Leetonia LSD 	Leetonia Schools 	DMR 	Schools 
+464.32500 	469.32500  	WQNL972 	RM	423 DPL	ELCS Buses 	East Liverpool City Schools - Buses 	FMN 	Schools 
+464.65000 	469.65000  	 	RM	155 DPL	Salem LSD 	Salem Schools 	FMN 	Schools 
+451.26250 	456.26250  	WPQE996 	RM	126 NAC	COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+451.66875 	   	WQAG781 	F		BUCKEYEWATER 	Buckeye Water District 	Telm 	Data 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Domer Communications (Salem)	 LTR Standard	 Salem	Federal Correctional Institution Elkton	 Motorola Type II Smartnet	 Elkton
+Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Monte Cielo Sound	 LTR Standard	 Lisbon	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide
+Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH	Utica East Ohio Midstream (M4 Midstream)	 DMR Conventional Networked	 Various

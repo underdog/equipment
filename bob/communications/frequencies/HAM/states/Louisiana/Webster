@@ -1,31 +1,30 @@
-155.41500 	WPYJ718 	RM	91.5 PL	Web SO Disp 	Sheriff - Dispatch 	FMN 	Law Dispatch 
-154.05500 	KRO297 	BM		Web SO 2 	Sheriff - Tactical 	FMN 	Law Tac 
-158.88000 	KRO297 	M		Web SO 3 	Sheriff - Car to Car 	FMN 	Law Talk 
-155.78250 	WQNV898 	BM		DIPS DISP 	Dixie Inn Public Safety 	FMN 	Emergency Ops 
-154.25000 	WNNG898 	RM		WebFPD3 Dsp 	Fire Protection District 3 - Dispatch 	FMN 	Fire Dispatch 
-154.19000 	WPAI351 	RM		DIFPD7 DISP 	Dixie Inn Fire Protection District 7 	FMN 	Fire Dispatch 
-154.16000 	WPDT709 	RM		DFPD4 DISP 	Dubberly Fire Protection District 4 	FMN 	Fire Dispatch 
-154.32500 	WPFE774 	RM		EVFD DISP 	Evergreen Volunteer Fire Department 	FMN 	Fire Dispatch 
-151.04000 	WPGE827 	RM	91.5 PL	SHFPD11 DISP 	Springhill Fire Protection District 11  	FMN 	Fire Dispatch 
-155.82000 	WQFW990 	RM		WFPD10 DISP 	Webster Fire protection District 10 	FMN 	Fire Dispatch 
-463.95000 	WNSO680 	RM		NWeb EMS Dsp 	North Webster Medical Services Dispatch *Expired* 	FM 	EMS Dispatch 
-155.23500 	WPUC293 	RM	91.5 PL	AdvAmb N 	Advanced Ambulance North 	FMN 	EMS Dispatch 
-155.23500 	WPUC293 	RM	94.8 PL	AdvAmb S 	Advanced Ambulance South 	FMN 	EMS Dispatch 
-155.35500 	WPGM856 	RM	136.5 PL	Pfrd EMS Mnd 	Pafford EMS Minden 	FMN 	EMS Dispatch 
-155.07000 	WPGM856 	RM	136.5 PL	Pfrd EMS SpH 	Pafford EMS Springhill 	FMN 	EMS Dispatch 
-158.97000 	WPLT652 	RM		AMR DISPATCH 	American Medical Response (AMR) Caddo Parish 	FMN 	EMS Dispatch 
-158.82000 	WPHJ764 	RM	91.5 PL	WebE911 N/S 	E-911 	FMN 	Emergency Ops 
-158.82000 	WPHJ764 	RM	79.7 PL	WebE911 C 	E-911 	FMN 	Emergency Ops 
-145.43000 	KB5PKW 	RM	186.2 PL	SkyWrn Mnd 	Skywarn Minden 	FM 	Ham 
-153.02000 	 	BM		WebsterP Sch Bus 	School Buses  	FMN 	Schools 
-155.07000 	 	M	136.5 PL	MuddyBtmsEMS 	Muddy Bottoms Park EMS Ops (Pafford EMS) 	FMN 	EMS-Tac 
-155.55750 	 	BM		WebPa Frgrnd 	Fireground Parish-wide 	FMN 	Fire-Tac 
-154.11500 	KNHV649 	RM	85.4 PL	Mnd PD Disp 	Police - Dispatch 	FMN 	Law Dispatch 
-153.96500 	KNHV649 	M		Mnd PD Tac 	Police - Tactical 	FMN 	Law Tac 
-155.95500 	KNHV649 	RM		Mnd FD Disp 	Fire Department Dispatch 	FMN 	Fire Dispatch 
-154.87500 	WPZX239 	RM	91.5 PL	SpHl PD Dsp 	Police  	FMN 	Law Dispatch 
-155.59500 	WQDR781 	RM		SIBLEY FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-151.13000 	 	RM	91.5 PL	CtnVly FD 	Cotton Valley Fire 	FM 	Fire Dispatch 
-155.68500 	 	RM	103.5 PL	CmpMindn FD 	Camp Minden Fire 	FM 	Fire Dispatch 
-American Electric Power (AR/LA/TX)	 EDACS Networked Standard	 Various	Entergy 	 Project 25 Phase II	 Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I
- Statewide	
+155.41500 	156.03000  	WPYJ718 	RM	91.5 PL	Web SO Disp 	Sheriff - Dispatch 	FMN 	Law Dispatch 
+154.05500 	   	KRO297 	BM		Web SO 2 	Sheriff - Tactical 	FMN 	Law Tac 
+158.88000 	   	KRO297 	M		Web SO 3 	Sheriff - Car to Car 	FMN 	Law Talk 
+155.78250 	   	WQNV898 	BM		DIPS DISP 	Dixie Inn Public Safety 	FMN 	Emergency Ops 
+154.25000 	153.95000  	WNNG898 	RM		WebFPD3 Dsp 	Fire Protection District 3 - Dispatch 	FMN 	Fire Dispatch 
+154.19000 	153.83000  	WPAI351 	RM		DIFPD7 DISP 	Dixie Inn Fire Protection District 7 	FMN 	Fire Dispatch 
+154.16000 	153.77000  	WPDT709 	RM		DFPD4 DISP 	Dubberly Fire Protection District 4 	FMN 	Fire Dispatch 
+154.32500 	159.07500  	WPFE774 	RM		EVFD DISP 	Evergreen Volunteer Fire Department 	FMN 	Fire Dispatch 
+151.04000 	158.98500  	WPGE827 	RM	91.5 PL	SHFPD11 DISP 	Springhill Fire Protection District 11  	FMN 	Fire Dispatch 
+155.82000 	156.15000  	WQFW990 	RM		WFPD10 DISP 	Webster Fire protection District 10 	FMN 	Fire Dispatch 
+463.95000 	468.95000  	WNSO680 	RM		NWeb EMS Dsp 	North Webster Medical Services Dispatch *Expired* 	FM 	EMS Dispatch 
+155.23500 	151.08500  	WPUC293 	RM	91.5 PL	AdvAmb N 	Advanced Ambulance North 	FMN 	EMS Dispatch 
+155.23500 	151.08500  	WPUC293 	RM	94.8 PL	AdvAmb S 	Advanced Ambulance South 	FMN 	EMS Dispatch 
+155.35500 	150.79000  	WPGM856 	RM	136.5 PL	Pfrd EMS Mnd 	Pafford EMS Minden 	FMN 	EMS Dispatch 
+155.07000 	150.77500  	WPGM856 	RM	136.5 PL	Pfrd EMS SpH 	Pafford EMS Springhill 	FMN 	EMS Dispatch 
+158.97000 	150.80500  	WPLT652 	RM		AMR DISPATCH 	American Medical Response (AMR) Caddo Parish 	FMN 	EMS Dispatch 
+158.82000 	153.74000  	WPHJ764 	RM	91.5 PL	WebE911 N/S 	E-911 	FMN 	Emergency Ops 
+158.82000 	153.74000  	WPHJ764 	RM	79.7 PL	WebE911 C 	E-911 	FMN 	Emergency Ops 
+145.43000 	144.83000  	KB5PKW 	RM	186.2 PL	SkyWrn Mnd 	Skywarn Minden 	FM 	Ham 
+153.02000 	   	 	BM		WebsterP Sch Bus 	School Buses  	FMN 	Schools 
+155.07000 	   	 	M	136.5 PL	MuddyBtmsEMS 	Muddy Bottoms Park EMS Ops (Pafford EMS) 	FMN 	EMS-Tac 
+155.55750 	   	 	BM		WebPa Frgrnd 	Fireground Parish-wide 	FMN 	Fire-Tac 
+154.11500 	156.01500  	KNHV649 	RM	85.4 PL	Mnd PD Disp 	Police - Dispatch 	FMN 	Law Dispatch 
+153.96500 	   	KNHV649 	M		Mnd PD Tac 	Police - Tactical 	FMN 	Law Tac 
+155.95500 	   	KNHV649 	RM		Mnd FD Disp 	Fire Department Dispatch 	FMN 	Fire Dispatch 
+154.87500 	155.91000  	WPZX239 	RM	91.5 PL	SpHl PD Dsp 	Police  	FMN 	Law Dispatch 
+155.59500 	158.97000  	WQDR781 	RM		SIBLEY FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+151.13000 	156.24000  	 	RM	91.5 PL	CtnVly FD 	Cotton Valley Fire 	FM 	Fire Dispatch 
+155.68500 	154.89000  	 	RM	103.5 PL	CmpMindn FD 	Camp Minden Fire 	FM 	Fire Dispatch 
+American Electric Power (AR/LA/TX)	 EDACS Networked Standard	 Various	Entergy 	 Project 25 Phase II	 Various	

@@ -1,24 +1,24 @@
-150.95000 	WPLT422 	RM	156.7 PL	SGCo Sheriff 	Sheriff: Dispatch/St. Mary's Police [Ch 1/2] 	FMN 	Law Dispatch 
-154.71000 	WPLT422 	M	156.7 PL	SGCo SD U2U 	Sheriff: Unit-to-Unit [Ch 3] 	FMN 	Law Tac 
-156.15000 	WPVB945 	M		SGCo Jail  	Sheriff: Jail Ops 	FMN 	Corrections 
-156.19500 	WZC537 	RM	203.5 PL	SGCo Roads 1  	Roads [Ch 1] 	FMN 	Public Works 
-155.92500 	WPQH860 	RM		SGen Police 	Ste Geneveive City Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-154.17500 	WQHN667 	RM	306 DPL	StGenCo Fire 	Fire: Countywide Dispatch [Ch 1] 	FMN 	Fire Dispatch 
-458.22500 	WQHN667 	F	CSQ	SGCo Fire A 	Fire: Remote Recieve Link (Carrier-Bloomsdale) 	FMN 	Fire Dispatch 
-453.28750 	WPQE290 	F		SGCo FD RF1 	Fire: Remote Receive link to 154.175 	FMN 	Fire-Tac 
-458.28750 	WPQE290 	F		SGCo FD RF 	Fire: Remote Receive link to 154.175  	FMN 	Fire-Tac 
-153.77000 	WPQE290 	M		SGCo FD FG2 	Fireground [Ch 2] 	FMN 	Fire-Tac 
-155.32500 	WPQF843 	RM	186.2 PL	StGenCo EMS 	EMS: Dispatch [Ch 1/2] 	FMN 	EMS Dispatch 
-154.51500 	KNCC731 	BM		SGCMH Ops 	Ops [Expired 1/02] 	FMN 	Business 
-155.26500 	KNCG480 	BM	131.8 PL	StGCo EMS 2 	EMS: Secondary 	FMN 	EMS Dispatch 
-155.34000 	KNCG480 	BM		HEAR-340 	Patient Reports 	FMN 	Hospital 
-173.39000 	WPJW449 	F		StMary WDD 	Water Distribution Data 	Telm 	Public Works 
-155.92500 	WPQH860 	RM	110.9 PL	SGen Police 	Police: Dispatch (Ch 1/3) [1 PD RPT/3 PD T/A] 	FMN 	Law Dispatch 
-453.85000 	WQHN667 	F	110.9 PL	SGen Police RF 	Police: Remote Link (from 911?) 	FMN 	Law Dispatch 
-154.81500 	WPQH860 	M	110.9 PL	SGen Police Tac3 	Police: Unit-to-Unit (Ch 3) [2 PD CAR] 	FMN 	Law Tac 
-151.06250 	WQDH355 	M	CSQ	SGen PubWrks 	Public Works 	FMN 	Public Works 
-154.10750 	WQDH355 	RM		SGen PW Fut 	Public Works - Future 	FMN 	Public Works 
-451.07500 	WQUQ676 	F		SGen Water Data 	Water Data 	FMN 	Data 
-152.31500 	WQHA411 	RM	306 DPL	Tower Rock Stone 	Tower Rock Stone Company: Ops 	FMN 	Business 
-152.33750 	KA4413 	RM	CC 10TG *SL *	Citizens Elec SG 	Citizens Electric Corp (Ste Genevieve) 	DMR 	Utilities 
+150.95000 	153.96500  	WPLT422 	RM	156.7 PL	SGCo Sheriff 	Sheriff: Dispatch/St. Mary's Police [Ch 1/2] 	FMN 	Law Dispatch 
+154.71000 	   	WPLT422 	M	156.7 PL	SGCo SD U2U 	Sheriff: Unit-to-Unit [Ch 3] 	FMN 	Law Tac 
+156.15000 	   	WPVB945 	M		SGCo Jail  	Sheriff: Jail Ops 	FMN 	Corrections 
+156.19500 	159.04500  	WZC537 	RM	203.5 PL	SGCo Roads 1  	Roads [Ch 1] 	FMN 	Public Works 
+155.92500 	158.94000  	WPQH860 	RM		SGen Police 	Ste Geneveive City Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+154.17500 	159.01500  	WQHN667 	RM	306 DPL	StGenCo Fire 	Fire: Countywide Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+458.22500 	   	WQHN667 	F	CSQ	SGCo Fire A 	Fire: Remote Recieve Link (Carrier-Bloomsdale) 	FMN 	Fire Dispatch 
+453.28750 	   	WPQE290 	F		SGCo FD RF1 	Fire: Remote Receive link to 154.175 	FMN 	Fire-Tac 
+458.28750 	   	WPQE290 	F		SGCo FD RF 	Fire: Remote Receive link to 154.175  	FMN 	Fire-Tac 
+153.77000 	   	WPQE290 	M		SGCo FD FG2 	Fireground [Ch 2] 	FMN 	Fire-Tac 
+155.32500 	150.79000  	WPQF843 	RM	186.2 PL	StGenCo EMS 	EMS: Dispatch [Ch 1/2] 	FMN 	EMS Dispatch 
+154.51500 	   	KNCC731 	BM		SGCMH Ops 	Ops [Expired 1/02] 	FMN 	Business 
+155.26500 	   	KNCG480 	BM	131.8 PL	StGCo EMS 2 	EMS: Secondary 	FMN 	EMS Dispatch 
+155.34000 	   	KNCG480 	BM		HEAR-340 	Patient Reports 	FMN 	Hospital 
+173.39000 	   	WPJW449 	F		StMary WDD 	Water Distribution Data 	Telm 	Public Works 
+155.92500 	158.94000  	WPQH860 	RM	110.9 PL	SGen Police 	Police: Dispatch (Ch 1/3) [1 PD RPT/3 PD T/A] 	FMN 	Law Dispatch 
+453.85000 	   	WQHN667 	F	110.9 PL	SGen Police RF 	Police: Remote Link (from 911?) 	FMN 	Law Dispatch 
+154.81500 	   	WPQH860 	M	110.9 PL	SGen Police Tac3 	Police: Unit-to-Unit (Ch 3) [2 PD CAR] 	FMN 	Law Tac 
+151.06250 	   	WQDH355 	M	CSQ	SGen PubWrks 	Public Works 	FMN 	Public Works 
+154.10750 	151.06250  	WQDH355 	RM		SGen PW Fut 	Public Works - Future 	FMN 	Public Works 
+451.07500 	   	WQUQ676 	F		SGen Water Data 	Water Data 	FMN 	Data 
+152.31500 	157.57500  	WQHA411 	RM	306 DPL	Tower Rock Stone 	Tower Rock Stone Company: Ops 	FMN 	Business 
+152.33750 	157.53750  	KA4413 	RM	CC 10TG *SL *	Citizens Elec SG 	Citizens Electric Corp (Ste Genevieve) 	DMR 	Utilities 
 AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	

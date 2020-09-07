@@ -1,22 +1,22 @@
-155.55750 	WQGX747 	RM	064 NAC	Houston SO 1 	Houston Co Sheriff Dispatch 	P25 	Law Dispatch 
-155.55750 	WQGX747 	RM	85.4 PL	Houston SO A 	Houston Co Sheriff Dispatch (includes Crockett Police, Grapeland Police, Texas DPS) 	FM 	Law Dispatch 
-154.87500 	KNHZ338 	RM	192.8 PL	Houston SO 2 	Houston Co Sheriff Secondary (all law enforcement except Texas DPS) 	FM 	Law Tac 
-154.95000 	KNHZ338 	M	CSQ	Texas Law 1 	Statewide Intercity Car-to-Car 	FM 	Interop 
-155.37000 	KUZ810 	BM	CSQ	Texas Law 2 	Statewide Intercity Base-to-Car 	FM 	Interop 
-155.62500 	KNHZ338 	M	192.8 PL	Houston SO 5 	Houston Co Sheriff Tactical (includes Crockett Police) 	FM 	Law Tac 
-158.89500 	WPIY589 	M	85.4 PL	Houston SO 8 	Houston Co Sheriff Tactical (SO only) 	FM 	Law Tac 
-154.40000 	KNHU772 	RM	192.8 PL	HC Fire Disp 	Houston Co Fire Dispatch (all departments except Crockett/Grapeland) 	FM 	Fire Dispatch 
-154.40000 	KNHU772 	M	192.8 PL	HC Fire Tac 	Houston Co Fire Tactical (all departments except Crockett/Grapeland) 	FM 	Fire-Tac 
-154.28000 	KNHU772 	BM	CSQ	Texas Fire 1 	Statewide Fire Mutual Aid 	FM 	Interop 
-453.67500 	WPIY589 	F		HC Microwave 	County Microwave Link 	Telm 	Data 
-154.10750 	WQCC857 	RM	411 DPL	Crockett FD1 	Crockett VFD Dispatch 	FM 	Fire Dispatch 
-154.07000 	WPFU683 	M	192.8 PL	Crockett FD2 	Crockett VFD Fireground 	FM 	Fire-Tac 
-155.98500 	WPHR571 	RM	85.4 PL	Crockett PD 	Crockett Police Daytime Dispatch, Public Works 	FM 	Law Dispatch 
-155.76000 	WNDL341 	RM	192.8 PL	Grapelnd FD1 	Grapeland Fire/EMS Dispatch 	FM 	Fire Dispatch 
-154.13000 	WNDL341 	M	173.8 PL	Grapelnd FD2 	Grapeland VFD Fireground 	FM 	Fire-Tac 
-155.76000 	WQJ368 	BM	192.8 PL	Grapeland PD 	Grapeland Police Talk-Around 	FM 	Law Talk 
-158.82000 	WPLW959 	BM	192.8 PL	Latexo VFD 	Latexo VFD Fireground 	FM 	Fire-Tac 
-151.95500 	 	M	114.8 PL	Lovelady VFD 	Lovelady VFD Fireground 	FM 	Fire-Tac 
-153.60500 	WPLS599 	RM	315 DPL	HC Electric 	Houston County Electric Operations 	FM 	Business 
-DFW Communications	 LTR Standard	 Various	East Texas Amateur DMR	 DMR Conventional Networked	 Crockett	Nalcom (NEXEDGE)	 NXDN NEXEDGE 9600
- Various	Oncor Energy	 EDACS Narrowband Networked	 Various	Texas Wide Area Radio Network (TxWARN)	 Project 25 Phase II	 Various	
+155.55750 	153.87500  	WQGX747 	RM	064 NAC	Houston SO 1 	Houston Co Sheriff Dispatch 	P25 	Law Dispatch 
+155.55750 	153.87500  	WQGX747 	RM	85.4 PL	Houston SO A 	Houston Co Sheriff Dispatch (includes Crockett Police, Grapeland Police, Texas DPS) 	FM 	Law Dispatch 
+154.87500 	155.43000  	KNHZ338 	RM	192.8 PL	Houston SO 2 	Houston Co Sheriff Secondary (all law enforcement except Texas DPS) 	FM 	Law Tac 
+154.95000 	   	KNHZ338 	M	CSQ	Texas Law 1 	Statewide Intercity Car-to-Car 	FM 	Interop 
+155.37000 	154.95000  	KUZ810 	BM	CSQ	Texas Law 2 	Statewide Intercity Base-to-Car 	FM 	Interop 
+155.62500 	   	KNHZ338 	M	192.8 PL	Houston SO 5 	Houston Co Sheriff Tactical (includes Crockett Police) 	FM 	Law Tac 
+158.89500 	   	WPIY589 	M	85.4 PL	Houston SO 8 	Houston Co Sheriff Tactical (SO only) 	FM 	Law Tac 
+154.40000 	151.20500  	KNHU772 	RM	192.8 PL	HC Fire Disp 	Houston Co Fire Dispatch (all departments except Crockett/Grapeland) 	FM 	Fire Dispatch 
+154.40000 	   	KNHU772 	M	192.8 PL	HC Fire Tac 	Houston Co Fire Tactical (all departments except Crockett/Grapeland) 	FM 	Fire-Tac 
+154.28000 	   	KNHU772 	BM	CSQ	Texas Fire 1 	Statewide Fire Mutual Aid 	FM 	Interop 
+453.67500 	458.67500  	WPIY589 	F		HC Microwave 	County Microwave Link 	Telm 	Data 
+154.10750 	155.96250  	WQCC857 	RM	411 DPL	Crockett FD1 	Crockett VFD Dispatch 	FM 	Fire Dispatch 
+154.07000 	   	WPFU683 	M	192.8 PL	Crockett FD2 	Crockett VFD Fireground 	FM 	Fire-Tac 
+155.98500 	158.92500  	WPHR571 	RM	85.4 PL	Crockett PD 	Crockett Police Daytime Dispatch, Public Works 	FM 	Law Dispatch 
+155.76000 	154.13000  	WNDL341 	RM	192.8 PL	Grapelnd FD1 	Grapeland Fire/EMS Dispatch 	FM 	Fire Dispatch 
+154.13000 	   	WNDL341 	M	173.8 PL	Grapelnd FD2 	Grapeland VFD Fireground 	FM 	Fire-Tac 
+155.76000 	   	WQJ368 	BM	192.8 PL	Grapeland PD 	Grapeland Police Talk-Around 	FM 	Law Talk 
+158.82000 	   	WPLW959 	BM	192.8 PL	Latexo VFD 	Latexo VFD Fireground 	FM 	Fire-Tac 
+151.95500 	   	 	M	114.8 PL	Lovelady VFD 	Lovelady VFD Fireground 	FM 	Fire-Tac 
+153.60500 	159.96000  	WPLS599 	RM	315 DPL	HC Electric 	Houston County Electric Operations 	FM 	Business 
+BrandMeister Texas	 DMR Conventional Networked	 Various	DFW Communications	 LTR Standard	 Various	East Texas Amateur DMR	 DMR Conventional Networked	 Crockett
+Nalcom (NEXEDGE)	 NXDN NEXEDGE 9600	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various	

@@ -1,38 +1,37 @@
-460.57500 	KIB306 	B	146.2 PL	JFRD DISP 	JFRD Dispatch Simulcast 	FM 	Fire Dispatch 
-462.97500 	WQL688 	B	146.2 PL	JFRD VC-2 	VC-2 	FM 	Hospital 
-463.12500 	WQL686 	B	146.2 PL	JFRD MED-6 	MED-6 	FM 	Hospital 
-463.17500 	WQL686 	B	167.9 PL	JFRD MED -8 	MED-8 	FM 	Hospital 
-463.25000 	WQWA272 	RM	CC 8TG 2SL 2	Zoo Keeper 2 	Jax Zoo Animal Keeper Ops 2 	DMR 	Business 
-463.25000 	WQWA272 	RM	CC 8TG 1SL 1	Zoo Keeper 1 	Jax Zoo Animal Keepers Ops 1  	DMR 	Business 
-464.18750 	WQWA272 	RM	CC 12TG 3SL 1	Park/Sec Ops 1 	Jax Zoo Park/Security Ops 1 	DMR 	Business 
-464.18750 	WQWA 	RM	CC 12TG 4SL 2	Park/Sec Ops 2 	Jax Zoo Park/Security Ops 2 	DMR 	Business 
-855.38750 	WPFS969 	BM	B52 NAC	UNFPD DISP 	UNFPD Dispatch 	P25E 	Law Dispatch 
-857.98750 	WPGY728 	M		JEA LIFT 1 	JEA Lift 1 	FM 	Utilities 
-858.98750 	WPGY728 	M	131 DPL	JEA WESTPULL 	JEA West Pull 	FM 	Utilities 
-154.22000 	KDK660 	B		JBFD DISP 	Fire Paging 	FM 	Fire Dispatch 
-463.12500 	WQDC475 	BM	146.2 PL	MED-6 	County Medical Coordination 	FM 	Hospital 
-463.06250 	WQDC475 	RM	151.4 PL	MED-32 	EMS-to-Baptist Medical Center 	FM 	Hospital 
-463.08750 	WQDC475 	RM	162.2 PL	MED-42 	EMS-to-Baptist Medical Center/Beaches 	FM 	Hospital 
-463.13750 	WQDC475 	RM	173.8 PL	MED-62 	EMS-to-Baptist Medical Center/South 	FM 	Hospital 
-463.11250 	WQDC475 	RM	186.2 PL	MED-52 	EMS-to-Memorial Hospitall Jacksonville 	FM 	Hospital 
-463.15000 	WQL686 	RM	203.5 PL	MED-7 	EMS-to-NAS JAX Medical Center 	FM 	Hospital 
-463.16250 	WQDC475 	RM	103.5 PL	MED-72 	EMS-to-St. Lukes Hospital 	FM 	Hospital 
-463.03750 	WQDC475 	RM	110.9 PL	MED-22 	EMS-to-St. Vincent's Medical Center 	FM 	Hospital 
-462.95000 	WQDC475 	BM	127.3 PL	MED-4 	EMS-to-Shands Jacksonville Medical Center 	FM 	Hospital 
-463.01250 	WQDC475 	RM	136.5 PL	MED-12 	EMS-to-Wolfsons Childrens Hospital 	FM 	Hospital 
-463.01250 	WQDC475 	RM	167.9 PL	MED-12 	EMS-to-Orange Park 	FM 	Hospital 
-464.00000 	KNJY504 	RM	146.2 PL	LIBERTY DISP 	EMS Primary 	FM 	EMS Dispatch 
-462.00000 	WNSB792 	RM	146.2 PL	LIBERTY 2 	EMS Secondary 	FM 	EMS-Talk 
-47.42000 	KFO766 	B		RED CROSS HF 	Red Cross HF 	FM 	Other 
-155.16000 	KEO369 	BM		RED CRSS VHF 	Red Cross VHF 	FM 	Other 
-461.02500 	KNNF375 	RM	CC 10TG 1SL 1	FCCJ Ops 	Operations 	DMR 	Schools 
-169.30000 	 	BM	001 NAC	TSA 163.900D 	TSA Check Point at JIA 	P25 	Federal 
-172.15000 	 	BM	146.2 PL	TSA 172.150A 	TSA Check Point at JIA 	FMN 	Federal 
-172.90000 	 	BM	162.2 PL	TSA 172.900A 	TSA Check Point at JIA 	FMN 	Federal 
-172.90000 	 	RM	2B0 NAC	TSA 172.900D 	TSA Repeater at JIA 	P25e 	Federal 
-Advanced 2-Way Radio	 LTR Standard	 Jacksonville	Anheuser-Busch Brewery	 Motorola Type II Smartnet	 Jacksonville	COJ SPORTS COMPLEX MOTOTRBO	 DMR Motorola Capacity Plus Single Site (TRBO)
- Jacksonville	Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various	Florida Power and Light (P25)	 Project 25 Phase II	 Varies	Hasty's Communications of Florida
- LTR Standard	 Jacksonville	Highland Wireless - Suntalk Linked System (470 Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	Jacksonville Beach	 Project 25 Phase I	 Jacksonville Beach
-Jacksonville City - First Coast Radio	 Project 25 Phase I	 Jacksonville	Reidy Rhodes and Taylor Communications 1	 LTR Standard	 Jacksonville	Reidy Rhodes and Taylor Communications 2	 LTR Standard
- Jacksonville	Rinker Materials Corporation	 LTR Standard	 Jacksonville	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	United States Department of Defense (14C)
- Project 25 Phase II	 Nationwide	United States Marine Corps (00A)	 Project 25 Phase II	 Various	
+460.57500 	465.57500  	KIB306 	B	146.2 PL	JFRD DISP 	JFRD Dispatch Simulcast 	FM 	Fire Dispatch 
+462.97500 	467.97500  	WQL688 	B	146.2 PL	JFRD VC-2 	VC-2 	FM 	Hospital 
+463.12500 	468.12500  	WQL686 	B	146.2 PL	JFRD MED-6 	MED-6 	FM 	Hospital 
+463.17500 	468.17500  	WQL686 	B	167.9 PL	JFRD MED -8 	MED-8 	FM 	Hospital 
+463.25000 	468.25000  	WQWA272 	RM	CC 8TG 2SL 2	Zoo Keeper 2 	Jax Zoo Animal Keeper Ops 2 	DMR 	Business 
+463.25000 	468.25000  	WQWA272 	RM	CC 8TG 1SL 1	Zoo Keeper 1 	Jax Zoo Animal Keepers Ops 1  	DMR 	Business 
+464.18750 	469.18750  	WQWA272 	RM	CC 12TG 3SL 1	Park/Sec Ops 1 	Jax Zoo Park/Security Ops 1 	DMR 	Business 
+464.18750 	469.18750  	WQWA 	RM	CC 12TG 4SL 2	Park/Sec Ops 2 	Jax Zoo Park/Security Ops 2 	DMR 	Business 
+855.38750 	810.38750  	WPFS969 	BM	B52 NAC	UNFPD DISP 	UNFPD Dispatch 	P25E 	Law Dispatch 
+857.98750 	   	WPGY728 	M		JEA LIFT 1 	JEA Lift 1 	FM 	Utilities 
+858.98750 	   	WPGY728 	M	131 DPL	JEA WESTPULL 	JEA West Pull 	FM 	Utilities 
+154.22000 	   	KDK660 	B		JBFD DISP 	Fire Paging 	FM 	Fire Dispatch 
+463.12500 	468.12500  	WQDC475 	BM	146.2 PL	MED-6 	County Medical Coordination 	FM 	Hospital 
+463.06250 	468.06250  	WQDC475 	RM	151.4 PL	MED-32 	EMS-to-Baptist Medical Center 	FM 	Hospital 
+463.08750 	468.08750  	WQDC475 	RM	162.2 PL	MED-42 	EMS-to-Baptist Medical Center/Beaches 	FM 	Hospital 
+463.13750 	468.13750  	WQDC475 	RM	173.8 PL	MED-62 	EMS-to-Baptist Medical Center/South 	FM 	Hospital 
+463.11250 	468.11250  	WQDC475 	RM	186.2 PL	MED-52 	EMS-to-Memorial Hospitall Jacksonville 	FM 	Hospital 
+463.15000 	468.15000  	WQL686 	RM	203.5 PL	MED-7 	EMS-to-NAS JAX Medical Center 	FM 	Hospital 
+463.16250 	468.16250  	WQDC475 	RM	103.5 PL	MED-72 	EMS-to-St. Lukes Hospital 	FM 	Hospital 
+463.03750 	468.03750  	WQDC475 	RM	110.9 PL	MED-22 	EMS-to-St. Vincent's Medical Center 	FM 	Hospital 
+462.95000 	467.95000  	WQDC475 	BM	127.3 PL	MED-4 	EMS-to-Shands Jacksonville Medical Center 	FM 	Hospital 
+463.01250 	468.01250  	WQDC475 	RM	136.5 PL	MED-12 	EMS-to-Wolfsons Childrens Hospital 	FM 	Hospital 
+463.01250 	468.01250  	WQDC475 	RM	167.9 PL	MED-12 	EMS-to-Orange Park 	FM 	Hospital 
+464.00000 	469.00000  	KNJY504 	RM	146.2 PL	LIBERTY DISP 	EMS Primary 	FM 	EMS Dispatch 
+462.00000 	467.00000  	WNSB792 	RM	146.2 PL	LIBERTY 2 	EMS Secondary 	FM 	EMS-Talk 
+47.42000 	   	KFO766 	B		RED CROSS HF 	Red Cross HF 	FM 	Other 
+155.16000 	   	KEO369 	BM		RED CRSS VHF 	Red Cross VHF 	FM 	Other 
+461.02500 	466.02500  	KNNF375 	RM	CC 10TG 1SL 1	FCCJ Ops 	Operations 	DMR 	Schools 
+169.30000 	   	 	BM	001 NAC	TSA 163.900D 	TSA Check Point at JIA 	P25 	Federal 
+172.15000 	   	 	BM	146.2 PL	TSA 172.150A 	TSA Check Point at JIA 	FMN 	Federal 
+172.90000 	   	 	BM	162.2 PL	TSA 172.900A 	TSA Check Point at JIA 	FMN 	Federal 
+172.90000 	   	 	RM	2B0 NAC	TSA 172.900D 	TSA Repeater at JIA 	P25e 	Federal 
+Advanced 2-Way Radio	 LTR Standard	 Jacksonville	Anheuser-Busch Brewery	 Motorola Type II Smartnet	 Jacksonville	COJ SPORTS COMPLEX MOTOTRBO	 DMR Motorola Capacity Plus Single Site (TRBO)	 Jacksonville
+Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various	Hasty's Communications of Florida	 LTR Standard	 Jacksonville	Highland Wireless - Suntalk Linked System (470 Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various
+Jacksonville Beach	 Project 25 Phase I	 Jacksonville Beach	Reidy Rhodes and Taylor Communications 1	 LTR Standard	 Jacksonville	Reidy Rhodes and Taylor Communications 2	 LTR Standard	 Jacksonville
+Rinker Materials Corporation	 LTR Standard	 Jacksonville	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide
+United States Marine Corps (00A)	 Project 25 Phase II	 Various	

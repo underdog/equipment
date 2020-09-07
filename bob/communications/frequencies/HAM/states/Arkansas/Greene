@@ -1,46 +1,45 @@
-154.19000 	WQC268 	RM		WGCFD-OPS 	West Greene County Fire Operations 	NXDN 	Fire-Tac 
-154.19000 	WQC268 	RM		WGCFD-PAGE 	West Greene County Fire Paging (utilizes non standard PL 138.9)  	FMN 	Fire Dispatch 
-155.95500 	WQIF398 	RM	CC 1TG 2000SL 1	NEGCFD OPS 	North East Greene County Fire Operations 	DMR 	Fire Dispatch 
-155.95500 	WQIF398 	RM	91.5 PL	NEGCFD-PAGE 	North East Greene County Fire Paging (temporary) 	FMN 	Fire Dispatch 
-156.22500 	WQJH385 	RM		SGCFD-OPS 	South Greene County Fire Operations 	NXDN 	Fire-Tac 
-156.22500 	WQJH385 	RM		SGCFD-PAGE 	South Greene County Fire Paging (utilizes non standard PL 134.2)  	FMN 	Fire Dispatch 
-460.57500 	WQOB818 	RM		GCRS-OPS 1 	Rescue Squad: Primary Operations 	NXDN 	EMS-Tac 
-460.57500 	WQOB818 	RM	CSQ	GCRS-PAGE 	County Rescue Squad Analog Paging 	FMN 	EMS Dispatch 
-159.21000 	WNPR979 	RM		GCSO-OPS 	Sheriff - Internal Operations 	NXDN 	Law Tac 
-159.21000 	WNPR979 	RM	189.9 PL	GCSO VHF MA 	Sheriff - VHF Analog for Interop 	FMN 	Interop 
-460.11250 	WQOD730 	RM	12 RAN	GCSO-DISP 	Sheriff - Dispatch/Operations Primary  	NXDNE 	Law Dispatch 
-453.90000 	WPKG567 	RM		GCROADS-D 	County Roads Digital Operations 	NXDN 	Public Works 
-453.90000 	WPKG567 	RM	CSQ	GCROADS-A 	County Roads Analog Operations 	FMN 	Public Works 
-453.90000 	WPKG567 	M	196.6 PL	GreenHwy T/A 	Greene Hwy Department Talkaround Analog 	FMN 	Public Works 
-453.40000 	WPKG553 	RM		GSC-BEES D 	Senior Citizens Bees Transport Digital 	NXDN 	Public Works 
-453.40000 	WPKG553 	RM	703 DPL	GSC-BEES A 	Senior Citizens Bees Transport Analog Operations 	FMN 	Public Works 
-154.44500 	KNFQ335 	BM		LMDFD-PAGE 	Lafe/Marmaduke/Delaplaine Fire Analog Paging (utilizes non standard PL 129.6)  	FM 	Fire Dispatch 
-154.44500 	KNFQ335 	RM		LMDFD-OPS 	Lafe, Marmaduke, Delaplaine Fire Digital Operations 	NXDN 	Fire Dispatch 
-155.90250 	WQLZ276  	RM		MFD-ANALOG 	Fire Analog Tone Out/Operations (utilizes non standard PL 112.9) 	FMN 	Fire Dispatch 
-155.90250 	WQLZ276 	RM		MFD-DIGITAL 	Fire Digital Operations 	NXDN 	Fire-Tac 
-453.28750 	WNQZ276 	RM		MPD-DISP 	Police -Main Channel 	NXDN 	Law Dispatch 
-152.70000 	 	BM		MFD-OPS D 	Fire - On Scene Fireground Digital 	NXDN 	Fire-Tac 
-152.70000 	 	BM	118.8 PL	MFD-FG/MA  	Fire - On Scene Fireground Analog 	FMN 	Fire-Tac 
-154.99500 	WQGP323 	RM		OGHFD-DISP 	Fire - Dispatch (utilizes non standard PL 105.4)  	FMN 	Fire Dispatch 
-154.99500 	WQGP323 	RM		OGHFD-OPS 	Fire - Operations 	NXDN 	Fire-Tac 
-156.06000 	WQGB806 	BM	127.3 PL	Paragld EMA Sire 	EMA - Disaster Warning Sirens 	FMN 	Emergency Ops 
-159.10500 	WQGD296 	RM	189.9 PL	Paragld EMA R 	EMA - Disaster Alerting Paging/Warning Sirens 	FMN 	Emergency Ops 
-151.04000 	WNUR563 	RM		PPD-VHF DOPS 	Police - VHF Digital Internal Operations 	NXDN 	Law Tac 
-151.04000 	WNUR563 	RM		PPD-VHF MA 	Police - VHF Analog Mutual Aid (utilizes non standard PL 165.1)  	FMN 	Interop 
-154.14500 	WNWV369 	RM		PFD-VHF DOPS 	Fire - VHF Digital Internal Operations 	NXDN 	Fire-Tac 
-154.14500 	WNWV369 	RM		PFD-VHF MA 	Fire - VHF Analog Mutual Aid (utilizes non standard PL 138.9)  	FMN 	Interop 
-460.05000 	WPWY696 	RM		PFD-DOPS 1 	Fire - Digital Operations Primary 	NXDN 	Fire-Tac 
-460.05000 	WPWY696 	RM	CSQ	PFD-PAGING 	Fire - Analog Paging 	FMN 	Fire Dispatch 
-155.34000 	KTH687 	BM	CSQ	H.E.A.R. 	H.E.A.R.  	FMN 	Hospital 
-153.54500 	EXPIRED 	BM	162.2 PL	Paragould DPW  	Operations 	FMN 	Public Works 
-155.05500 	KNAB398 	BM		Paragould LW C 	Light and Water Dept. 	FMN 	Public Works 
-155.71500 	KNAB398 	BM		Paragould LW A 	Light and Water Dept. 	FMN 	Public Works 
-155.86500 	KNAB398 	RM		Paragould LW B 	Light and Water Dept. 	FMN 	Public Works 
-453.50000 	WPYZ774 	RM		Paragould PD 	DPW/Police 	DMR 	Multi-Talk 
-154.03500 	WQVL978 	RM	156.7 PL	DELAPLAINE VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
-153.72500 	EXPIRED 	BM	754 DPL	Crghld Elec 	Main Operations 	FM 	Utilities 
-American Railcar Industries	 LTR Standard	 Pargould	Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II
- Statewide	Battles Communications (NXDN-173)	 NXDN NEXEDGE 9600	 SEMO / NE AR	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard	 Various	Battles Communications - UHF (SEMO/AR)
- LTR Standard and Passport	 SouthEast MO	Entergy 	 Project 25 Phase II	 Various	Mo-Ark Communications and Electronics - UHF (SEMO)	 LTR Standard	 Various
-Paragould City Services	 NXDN NEXEDGE 9600	 Paragould	Paragould Communications (Paragould)	 LTR Standard	 Paragould	Paragould Light, Water, and Cable	 LTR Standard
- Paragould	
+154.19000 	151.23500  	WQC268 	RM		WGCFD-OPS 	West Greene County Fire Operations 	NXDN 	Fire-Tac 
+154.19000 	151.23500  	WQC268 	RM		WGCFD-PAGE 	West Greene County Fire Paging (utilizes non standard PL 138.9)  	FMN 	Fire Dispatch 
+155.95500 	153.74000  	WQIF398 	RM	CC 1TG 2000SL 1	NEGCFD OPS 	North East Greene County Fire Operations 	DMR 	Fire Dispatch 
+155.95500 	153.74000  	WQIF398 	RM	91.5 PL	NEGCFD-PAGE 	North East Greene County Fire Paging (temporary) 	FMN 	Fire Dispatch 
+156.22500 	154.77000  	WQJH385 	RM		SGCFD-OPS 	South Greene County Fire Operations 	NXDN 	Fire-Tac 
+156.22500 	154.77000  	WQJH385 	RM		SGCFD-PAGE 	South Greene County Fire Paging (utilizes non standard PL 134.2)  	FMN 	Fire Dispatch 
+460.57500 	465.57500  	WQOB818 	RM		GCRS-OPS 1 	Rescue Squad: Primary Operations 	NXDN 	EMS-Tac 
+460.57500 	465.57500  	WQOB818 	RM	CSQ	GCRS-PAGE 	County Rescue Squad Analog Paging 	FMN 	EMS Dispatch 
+159.21000 	154.95000  	WNPR979 	RM		GCSO-OPS 	Sheriff - Internal Operations 	NXDN 	Law Tac 
+159.21000 	154.95000  	WNPR979 	RM	189.9 PL	GCSO VHF MA 	Sheriff - VHF Analog for Interop 	FMN 	Interop 
+460.11250 	465.11250  	WQOD730 	RM	12 RAN	GCSO-DISP 	Sheriff - Dispatch/Operations Primary  	NXDNE 	Law Dispatch 
+453.90000 	458.90000  	WPKG567 	RM		GCROADS-D 	County Roads Digital Operations 	NXDN 	Public Works 
+453.90000 	458.90000  	WPKG567 	RM	CSQ	GCROADS-A 	County Roads Analog Operations 	FMN 	Public Works 
+453.90000 	   	WPKG567 	M	196.6 PL	GreenHwy T/A 	Greene Hwy Department Talkaround Analog 	FMN 	Public Works 
+453.40000 	458.40000  	WPKG553 	RM		GSC-BEES D 	Senior Citizens Bees Transport Digital 	NXDN 	Public Works 
+453.40000 	458.40000  	WPKG553 	RM	703 DPL	GSC-BEES A 	Senior Citizens Bees Transport Analog Operations 	FMN 	Public Works 
+154.44500 	151.02500  	KNFQ335 	BM		LMDFD-PAGE 	Lafe/Marmaduke/Delaplaine Fire Analog Paging (utilizes non standard PL 129.6)  	FM 	Fire Dispatch 
+154.44500 	151.02500  	KNFQ335 	RM		LMDFD-OPS 	Lafe, Marmaduke, Delaplaine Fire Digital Operations 	NXDN 	Fire Dispatch 
+155.90250 	158.98500  	WQLZ276  	RM		MFD-ANALOG 	Fire Analog Tone Out/Operations (utilizes non standard PL 112.9) 	FMN 	Fire Dispatch 
+155.90250 	158.98500  	WQLZ276 	RM		MFD-DIGITAL 	Fire Digital Operations 	NXDN 	Fire-Tac 
+453.28750 	458.28750  	WNQZ276 	RM		MPD-DISP 	Police -Main Channel 	NXDN 	Law Dispatch 
+152.70000 	   	 	BM		MFD-OPS D 	Fire - On Scene Fireground Digital 	NXDN 	Fire-Tac 
+152.70000 	   	 	BM	118.8 PL	MFD-FG/MA  	Fire - On Scene Fireground Analog 	FMN 	Fire-Tac 
+154.99500 	159.40500  	WQGP323 	RM		OGHFD-DISP 	Fire - Dispatch (utilizes non standard PL 105.4)  	FMN 	Fire Dispatch 
+154.99500 	159.40500  	WQGP323 	RM		OGHFD-OPS 	Fire - Operations 	NXDN 	Fire-Tac 
+156.06000 	   	WQGB806 	BM	127.3 PL	Paragld EMA Sire 	EMA - Disaster Warning Sirens 	FMN 	Emergency Ops 
+159.10500 	156.06000  	WQGD296 	RM	189.9 PL	Paragld EMA R 	EMA - Disaster Alerting Paging/Warning Sirens 	FMN 	Emergency Ops 
+151.04000 	155.97000  	WNUR563 	RM		PPD-VHF DOPS 	Police - VHF Digital Internal Operations 	NXDN 	Law Tac 
+151.04000 	155.97000  	WNUR563 	RM		PPD-VHF MA 	Police - VHF Analog Mutual Aid (utilizes non standard PL 165.1)  	FMN 	Interop 
+154.14500 	151.37000  	WNWV369 	RM		PFD-VHF DOPS 	Fire - VHF Digital Internal Operations 	NXDN 	Fire-Tac 
+154.14500 	151.37000  	WNWV369 	RM		PFD-VHF MA 	Fire - VHF Analog Mutual Aid (utilizes non standard PL 138.9)  	FMN 	Interop 
+460.05000 	465.05000  	WPWY696 	RM		PFD-DOPS 1 	Fire - Digital Operations Primary 	NXDN 	Fire-Tac 
+460.05000 	465.05000  	WPWY696 	RM	CSQ	PFD-PAGING 	Fire - Analog Paging 	FMN 	Fire Dispatch 
+155.34000 	   	KTH687 	BM	CSQ	H.E.A.R. 	H.E.A.R.  	FMN 	Hospital 
+153.54500 	   	EXPIRED 	BM	162.2 PL	Paragould DPW  	Operations 	FMN 	Public Works 
+155.05500 	   	KNAB398 	BM		Paragould LW C 	Light and Water Dept. 	FMN 	Public Works 
+155.71500 	   	KNAB398 	BM		Paragould LW A 	Light and Water Dept. 	FMN 	Public Works 
+155.86500 	   	KNAB398 	RM		Paragould LW B 	Light and Water Dept. 	FMN 	Public Works 
+453.50000 	458.50000  	WPYZ774 	RM		Paragould PD 	DPW/Police 	DMR 	Multi-Talk 
+154.03500 	158.94000  	WQVL978 	RM	156.7 PL	DELAPLAINE VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
+153.72500 	   	EXPIRED 	BM	754 DPL	Crghld Elec 	Main Operations 	FM 	Utilities 
+American Railcar Industries	 LTR Standard	 Pargould	Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide
+Battles Communications (NXDN-173)	 NXDN NEXEDGE 9600	 SEMO / NE AR	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard	 Various	Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport	 SouthEast MO
+Entergy 	 Project 25 Phase II	 Various	Mo-Ark Communications and Electronics - UHF (SEMO)	 LTR Standard	 Various	Paragould City Services	 NXDN NEXEDGE 9600	 Paragould
+Paragould Communications (Paragould)	 LTR Standard	 Paragould	Paragould Light, Water, and Cable	 LTR Standard	 Paragould	

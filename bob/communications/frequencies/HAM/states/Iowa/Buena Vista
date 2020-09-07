@@ -1,18 +1,17 @@
-154.87500 	KYL793 	RM	167.9 PL	BVSheriffDis 	Sheriff Dispatch - Truesdale Tower 	FMN 	Law Dispatch 
-151.31000 	KB85850 	RM	503 DPL	BV NewellTwr 	Sheriff Dispatch - Newell Tower 	FMN 	Law Dispatch 
-155.25000 	KYL793 	B		BV SH Base 	Sheriff - Base 	P25E 	Law Talk 
-155.91000 	KYL793 	M		BV SH Mobile 	Sheriff - Mobiles 	P25E 	Law Talk 
-154.32500 	KYF257 	BM	654 DPL	BV Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.95500 	KCQ595 	BM	CSQ	BV HosPage 	Hospital and EMS Paging 	FMN 	EMS Dispatch 
-155.40000 	WRE415 	BM	CSQ	BV EMS 	Regional EMS, Response - Mobiles use 82.5 PL 	FMN 	EMS-Tac 
-151.11500 	WNJS789 	RM	162.2 PL	BV Roads 	Road Department 	FMN 	Public Works 
-453.52500 	WPTW443  	F	223 DPL	BV Fire Link 	Fire RF Link 	FMN 	Fire Dispatch 
-453.52500 	WPTW443  	F	343 DPL	BV Fire Link 	Fire RF Link 	FMN 	Fire Dispatch 
-458.52500 	WPTW443  	F	226 DPL	BV Fire Link 	Sioux Rapids RF Fire Link 	FMN 	Fire Dispatch 
-458.52500 	WPTW443  	F	446 DPL	BV Fire Link 	Albert City RF Fire Link 	FMN 	Fire Dispatch 
-458.52500 	WPTW443 	F	506 DPL	BV Fire LInk 	Truesdale RF Fire Link 	FMN 	Fire Dispatch 
-155.13000 	KYL793 	RM	114 DPL	StLake PD 	Police Dispatch 	FMN 	Law Dispatch 
-158.95500 	WPKH564 	BM		Newell P Wrk 	Public Works 	FM 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	ESI Talk	 NXDN NEXEDGE 4800
- 	Hilltop Communications / ESItalk	 NXDN NEXEDGE 4800	 Red Wing, MN	Iowa DMR Users Group	 DMR Conventional Networked	 Various	RACOM Network
- EDACS Networked Standard	 Various	
+154.87500 	158.91000  	KYL793 	RM	167.9 PL	BVSheriffDis 	Sheriff Dispatch - Truesdale Tower 	FMN 	Law Dispatch 
+151.31000 	158.91000  	KB85850 	RM	503 DPL	BV NewellTwr 	Sheriff Dispatch - Newell Tower 	FMN 	Law Dispatch 
+155.25000 	   	KYL793 	B		BV SH Base 	Sheriff - Base 	P25E 	Law Talk 
+155.91000 	   	KYL793 	M		BV SH Mobile 	Sheriff - Mobiles 	P25E 	Law Talk 
+154.32500 	   	KYF257 	BM	654 DPL	BV Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.95500 	   	KCQ595 	BM	CSQ	BV HosPage 	Hospital and EMS Paging 	FMN 	EMS Dispatch 
+155.40000 	   	WRE415 	BM	CSQ	BV EMS 	Regional EMS, Response - Mobiles use 82.5 PL 	FMN 	EMS-Tac 
+151.11500 	159.06000  	WNJS789 	RM	162.2 PL	BV Roads 	Road Department 	FMN 	Public Works 
+453.52500 	   	WPTW443  	F	223 DPL	BV Fire Link 	Fire RF Link 	FMN 	Fire Dispatch 
+453.52500 	   	WPTW443  	F	343 DPL	BV Fire Link 	Fire RF Link 	FMN 	Fire Dispatch 
+458.52500 	   	WPTW443  	F	226 DPL	BV Fire Link 	Sioux Rapids RF Fire Link 	FMN 	Fire Dispatch 
+458.52500 	   	WPTW443  	F	446 DPL	BV Fire Link 	Albert City RF Fire Link 	FMN 	Fire Dispatch 
+458.52500 	   	WPTW443 	F	506 DPL	BV Fire LInk 	Truesdale RF Fire Link 	FMN 	Fire Dispatch 
+155.13000 	158.88000  	KYL793 	RM	114 DPL	StLake PD 	Police Dispatch 	FMN 	Law Dispatch 
+158.95500 	   	WPKH564 	BM		Newell P Wrk 	Public Works 	FM 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	ESI Talk	 NXDN NEXEDGE 4800	 
+Hilltop Communications / ESItalk	 NXDN NEXEDGE 4800	 Red Wing, MN	RACOM Network	 EDACS Networked Standard	 Various	

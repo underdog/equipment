@@ -1,26 +1,25 @@
-155.13000 	KXB611 	RM	100.0 PL	UCSD Disp 	Sheriff's Department - Dispatch 	FMN 	Law Dispatch 
-154.75500 	KXB611 	RM	100.0 PL	UCSD M/A 	Sheriff's Department - Mutual Aid 	FMN 	Law Tac 
-154.85250 	KXB611 	RM	CC 10TG 3SL 1	UCSD Digt 	Sheriff's Department - Digital 	DMR 	Law Tac 
-154.96500 	WPYU316 	RM	100.0 PL	UCFA Disp 	County Fire / EMS Rescue Dispatch 	FMN 	Fire Dispatch 
-154.14500 	WPYU316 	M		UCFA FG 	County Fire - Fire Ground Ops 	FMN 	Fire-Tac 
-151.49750 	WQFE664 	RM	110.9 PL	SSide VFD Rp 	Southside VFD Repeater 	FMN 	Fire-Tac 
-155.34000 	WQFG486 	BM		UCMH ER 	Unicoi County Memorial Hospital EMS Encode 	FMN 	Hospital 
-460.63750 	WQFG486 	F	025 DPL	UCMH Sec 	Unicoi County Memorial Hospital (Link w/155.340) 	FMN 	Hospital 
-156.13500 	WNIN298 	RM	151.4 PL	UC HIGHWAY 	Highway Department 	FMN 	Public Works 
-153.68000 	WNPH491 	BM		UC UTL 	Water Utilities 	FMN 	Public Works 
-462.47500 	KQP239 	RM	103.5 PL	Unicoi Utils 	Utility District 	FMN 	Utilities 
-152.43500 	WPRK474 	BM	151.4 PL	UCHS 	Unicoi County High School 	FMN 	Schools 
-152.96000 	WPRK474 	BM	043 DPL	RCES THES 	Rock Creek Elementary / Temple Hill Elementary 	FMN 	Schools 
-158.32500 	WPRK474 	BM	043 DPL	UC INT VOC 	Unicoi County Intermediate / Vocational School 	FMN 	Schools 
-467.21250 	WQOA836 	M		UC SCH ADM 	Unicoi County School Admin 	FMN 	Schools 
-151.14500 	WNVB858 	RM	141.3 PL	Erwin FD DISP 	Fire Department Dispatch 	FMN 	Fire Dispatch 
-151.21250 	WNVB858 	M	141.3 PL	Erwin FD 2 	Fire Department Ops 2 	FMN 	Fire-Tac 
-151.40750 	WNVB858 	M	151.4 PL	Erwin FD 3 	Fire Department Ops 3 	FMN 	Public Works 
-154.29500 	WNVB858 	M		Erwin FD IO 	Fire Mutual Aid Interop 	FMN 	Interop 
-159.10500 	WNVB858 	RM	CC 1TG 1SL 1	Erwin PD 	Police Department Dispatch 	DMRe 	Law Dispatch 
-159.10500 	WNVB858 	RM	CC 1TG 2SL 2	Erwin Street 	Street Department 	DMR 	Law Tac 
-451.07500 	WZW638 	RM		Erwin Utils 	Utilities 	DMR 	Utilities 
-154.57000 	 	M		Wal-Mart 	Wal-Mart (Erwin) 	FM 	Business 
-463.81250 	WQYR260 	RM		NFS UHF 	Nuclear Fuel Services 	P25 	Other 
-Nuclear Fuel Services P25 (Erwin)	 Project 25 Phase I	 Erwin	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked
- Various	
+155.13000 	154.71000  	KXB611 	RM	100.0 PL	UCSD Disp 	Sheriff's Department - Dispatch 	FMN 	Law Dispatch 
+154.75500 	156.01500  	KXB611 	RM	100.0 PL	UCSD M/A 	Sheriff's Department - Mutual Aid 	FMN 	Law Tac 
+154.85250 	158.95500  	KXB611 	RM	CC 10TG 3SL 1	UCSD Digt 	Sheriff's Department - Digital 	DMR 	Law Tac 
+154.96500 	159.00000  	WPYU316 	RM	100.0 PL	UCFA Disp 	County Fire / EMS Rescue Dispatch 	FMN 	Fire Dispatch 
+154.14500 	   	WPYU316 	M		UCFA FG 	County Fire - Fire Ground Ops 	FMN 	Fire-Tac 
+151.49750 	159.06750  	WQFE664 	RM	110.9 PL	SSide VFD Rp 	Southside VFD Repeater 	FMN 	Fire-Tac 
+155.34000 	   	WQFG486 	BM		UCMH ER 	Unicoi County Memorial Hospital EMS Encode 	FMN 	Hospital 
+460.63750 	   	WQFG486 	F	025 DPL	UCMH Sec 	Unicoi County Memorial Hospital (Link w/155.340) 	FMN 	Hospital 
+156.13500 	159.20250  	WNIN298 	RM	151.4 PL	UC HIGHWAY 	Highway Department 	FMN 	Public Works 
+153.68000 	   	WNPH491 	BM		UC UTL 	Water Utilities 	FMN 	Public Works 
+462.47500 	467.47500  	KQP239 	RM	103.5 PL	Unicoi Utils 	Utility District 	FMN 	Utilities 
+152.43500 	   	WPRK474 	BM	151.4 PL	UCHS 	Unicoi County High School 	FMN 	Schools 
+152.96000 	   	WPRK474 	BM	043 DPL	RCES THES 	Rock Creek Elementary / Temple Hill Elementary 	FMN 	Schools 
+158.32500 	   	WPRK474 	BM	043 DPL	UC INT VOC 	Unicoi County Intermediate / Vocational School 	FMN 	Schools 
+467.21250 	   	WQOA836 	M		UC SCH ADM 	Unicoi County School Admin 	FMN 	Schools 
+151.14500 	153.80750  	WNVB858 	RM	141.3 PL	Erwin FD DISP 	Fire Department Dispatch 	FMN 	Fire Dispatch 
+151.21250 	   	WNVB858 	M	141.3 PL	Erwin FD 2 	Fire Department Ops 2 	FMN 	Fire-Tac 
+151.40750 	   	WNVB858 	M	151.4 PL	Erwin FD 3 	Fire Department Ops 3 	FMN 	Public Works 
+154.29500 	   	WNVB858 	M		Erwin FD IO 	Fire Mutual Aid Interop 	FMN 	Interop 
+159.10500 	156.10500  	WNVB858 	RM	CC 1TG 1SL 1	Erwin PD 	Police Department Dispatch 	DMRe 	Law Dispatch 
+159.10500 	156.10500  	WNVB858 	RM	CC 1TG 2SL 2	Erwin Street 	Street Department 	DMR 	Law Tac 
+451.07500 	456.07500  	WZW638 	RM		Erwin Utils 	Utilities 	DMR 	Utilities 
+154.57000 	   	 	M		Wal-Mart 	Wal-Mart (Erwin) 	FM 	Business 
+463.81250 	468.81250  	WQYR260 	RM		NFS UHF 	Nuclear Fuel Services 	P25 	Other 
+Nuclear Fuel Services P25 (Erwin)	 Project 25 Phase I	 Erwin	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various

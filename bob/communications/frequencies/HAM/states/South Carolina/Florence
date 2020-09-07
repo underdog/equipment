@@ -1,42 +1,41 @@
-453.32500 	KZX263 	RM		FC FD Disp 	Florence Co. FD Dispatch 	FM 	Fire Dispatch 
-154.35500 	WPFE888 	BM	546 DPL	Hnh Slm FD 	Hannah Salem Friendfield FD 	FM 	Fire Dispatch 
-154.29500 	WPFE888 	M		Hnh Slm FD 	Hannah Salem Friendfield FD 	FM 	Fire-Tac 
-155.93250 	WQKH844 	BM		Howe Spr FD 	Howe Springs FD 	FM 	Fire-Tac 
-154.22000 	 	BM	123.0 PL	Olanta FD 	Olanta FD Dispatch 	FM 	Fire Dispatch 
-154.41500 	KNAO327 	BM		Olanta FD 	Olanta FD 	FM 	Fire-Tac 
-154.38500 	KNBI622 	RM	123.0 PL	S Lynches FD 	South Lynches FD 	FM 	Fire Dispatch 
-154.23500 	 	M	123.0 PL	S Lynches FD 	South Lynches FD Fireground 	FM 	Fire-Tac 
-154.31000 	KNFM401 	BM		WindyHill FD 	Windy Hill FD 	FM 	Fire-Tac 
-151.09250 	WQKB554 	BM		W Florenc FD 	West Florence FD rebroadcast of TG 4755 	FMN 	Fire Dispatch 
-155.20500 	KXV340 	BM		FC EMS 	Florence Co. EMS 	FM 	EMS-Tac 
-155.28000 	KKC967 	BM		FC EMS 	Florence Co. EMS 	FM 	EMS-Tac 
-155.22000 	KKC967 	BM		FC EMS MED 	Florence Co. EMS to Hospital 	FM 	Hospital 
-155.34000 	KKC967 	BM		FC EMS MED 	Florence Co. HEAR (EMS to Hospital) 	FM 	Hospital 
-460.27500 	KNFC549 	RM	192.8 PL	FlorCo SD 	Florence Co. SD 	FM 	Law Tac 
-460.42500 	KNFC549 	RM	192.8 PL	FlorCo SD 	Florence Co. SD 	FM 	Law Tac 
-460.50000 	 	M		FlorCo SD 	Florence Co. SD 	FM 	Law Tac 
-868.46250 	WPQJ784 	RM		FlorCo SD 	Florence Co. SD 	FM 	Law Tac 
-155.26500 	KNIT392 	BM		Flor Housing 	SC Housing Authority-Florence Area 	FM 	Public Works 
-453.11250 	WPMF326 	RM		Flor Cvc Ctr 	Florence Civic Center 	FM 	Business 
-453.57500 	WNRL470 	RM	192.8 PL	PeeDee Trans 	Pee Dee Regional Transit Authority 	FM 	Transportation 
-466.37500 	 	M	67.0 PL	McLeod Hsp 	McLeod Hospital Security Ch 1 	FM 	Security 
-460.57500 	KIX590 	BM	192.8 PL	Florence FD 	Florence FD 	FM 	Fire-Tac 
-460.60000 	KNED373 	RM	192.8 PL	Florence FD 	Florence FD 	FM 	Fire-Tac 
-460.15000 	KIA244 	RM	192.8 PL	Florence PD 	Florence PD 	FM 	Law Tac 
-460.55000 	WNHK563 	RM		Florence PD 	Florence PD 	FM 	Law Tac 
-460.25000 	KIA244 	RM	192.8 PL	Regional LE 	Regional Mutial Aid Channel 	FM 	Interop 
-866.12500 	WPLY409 	RM		Florence 800 	Florence Coventional 800Mhz Repeater 	FM 	Interop 
-155.02500 	KVF574 	BM		Flor Housing 	Florence Housing Authority 	FM 	Public Works 
-158.76000 	KNBU826 	BM		Florence P&R 	Florence Parks and Rec 	FM 	Public Works 
-453.67500 	WPBP875 	RM		Florence P&R 	Florence Parks and Rec 	FM 	Public Works 
-155.11500 	KRZ381 	BM		Florence DPW 	Florence Public Works 	FM 	Public Works 
-153.47000 	KIX437 	BM		Florence H20 	Florence Water 	FM 	Public Works 
-154.11500 	KWQ705 	BM		Lake City FD 	Lake City FD 	FM 	Fire-Tac 
-154.72500 	WQBV875 	RM	263 DPL	Lake City FD 	Lake City FD (Back-up and Paging) 	FM 	Fire Dispatch 
-33.98000 	KDJ516 	BM		Lake City FD 	Lake City FD 	FM 	Fire-Tac 
-33.76000 	KDJ516 	BM		Lake City FD 	Lake City FD 	FM 	Fire-Tac 
-154.43000 	KQT887 	RM	123.0 PL	Johnsonvl FD 	Johnsonville FD 	FM 	Fire Dispatch 
-154.34000 	WPLV242 	BM		Johnsonvl FD 	Johnsonville FD 	FM 	Fire-Tac 
-FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Nucor Steel Corp.	 Motorola Type IIi Hybrid	 Florence	Progress Energy	 Motorola Type II SmartZone Omnilink
- Various	SC HEART DMR Network	 DMR Conventional Networked	 Mulitple	SC Public Service Authority	 Project 25 Phase II	 Various	South Carolina Pipeline Corporation
- LTR Standard	 Various	
+453.32500 	458.32500  	KZX263 	RM		FC FD Disp 	Florence Co. FD Dispatch 	FM 	Fire Dispatch 
+154.35500 	153.77000  	WPFE888 	BM	546 DPL	Hnh Slm FD 	Hannah Salem Friendfield FD 	FM 	Fire Dispatch 
+154.29500 	   	WPFE888 	M		Hnh Slm FD 	Hannah Salem Friendfield FD 	FM 	Fire-Tac 
+155.93250 	   	WQKH844 	BM		Howe Spr FD 	Howe Springs FD 	FM 	Fire-Tac 
+154.22000 	   	 	BM	123.0 PL	Olanta FD 	Olanta FD Dispatch 	FM 	Fire Dispatch 
+154.41500 	   	KNAO327 	BM		Olanta FD 	Olanta FD 	FM 	Fire-Tac 
+154.38500 	153.83000  	KNBI622 	RM	123.0 PL	S Lynches FD 	South Lynches FD 	FM 	Fire Dispatch 
+154.23500 	   	 	M	123.0 PL	S Lynches FD 	South Lynches FD Fireground 	FM 	Fire-Tac 
+154.31000 	   	KNFM401 	BM		WindyHill FD 	Windy Hill FD 	FM 	Fire-Tac 
+151.09250 	   	WQKB554 	BM		W Florenc FD 	West Florence FD rebroadcast of TG 4755 	FMN 	Fire Dispatch 
+155.20500 	   	KXV340 	BM		FC EMS 	Florence Co. EMS 	FM 	EMS-Tac 
+155.28000 	   	KKC967 	BM		FC EMS 	Florence Co. EMS 	FM 	EMS-Tac 
+155.22000 	   	KKC967 	BM		FC EMS MED 	Florence Co. EMS to Hospital 	FM 	Hospital 
+155.34000 	   	KKC967 	BM		FC EMS MED 	Florence Co. HEAR (EMS to Hospital) 	FM 	Hospital 
+460.27500 	465.27500  	KNFC549 	RM	192.8 PL	FlorCo SD 	Florence Co. SD 	FM 	Law Tac 
+460.42500 	465.42500  	KNFC549 	RM	192.8 PL	FlorCo SD 	Florence Co. SD 	FM 	Law Tac 
+460.50000 	   	 	M		FlorCo SD 	Florence Co. SD 	FM 	Law Tac 
+868.46250 	   	WPQJ784 	RM		FlorCo SD 	Florence Co. SD 	FM 	Law Tac 
+155.26500 	   	KNIT392 	BM		Flor Housing 	SC Housing Authority-Florence Area 	FM 	Public Works 
+453.11250 	458.12250  	WPMF326 	RM		Flor Cvc Ctr 	Florence Civic Center 	FM 	Business 
+453.57500 	458.57500  	WNRL470 	RM	192.8 PL	PeeDee Trans 	Pee Dee Regional Transit Authority 	FM 	Transportation 
+466.37500 	   	 	M	67.0 PL	McLeod Hsp 	McLeod Hospital Security Ch 1 	FM 	Security 
+460.57500 	   	KIX590 	BM	192.8 PL	Florence FD 	Florence FD 	FM 	Fire-Tac 
+460.60000 	465.60000  	KNED373 	RM	192.8 PL	Florence FD 	Florence FD 	FM 	Fire-Tac 
+460.15000 	465.15000  	KIA244 	RM	192.8 PL	Florence PD 	Florence PD 	FM 	Law Tac 
+460.55000 	465.55000  	WNHK563 	RM		Florence PD 	Florence PD 	FM 	Law Tac 
+460.25000 	465.25000  	KIA244 	RM	192.8 PL	Regional LE 	Regional Mutial Aid Channel 	FM 	Interop 
+866.12500 	   	WPLY409 	RM		Florence 800 	Florence Coventional 800Mhz Repeater 	FM 	Interop 
+155.02500 	   	KVF574 	BM		Flor Housing 	Florence Housing Authority 	FM 	Public Works 
+158.76000 	   	KNBU826 	BM		Florence P&R 	Florence Parks and Rec 	FM 	Public Works 
+453.67500 	458.67500  	WPBP875 	RM		Florence P&R 	Florence Parks and Rec 	FM 	Public Works 
+155.11500 	   	KRZ381 	BM		Florence DPW 	Florence Public Works 	FM 	Public Works 
+153.47000 	   	KIX437 	BM		Florence H20 	Florence Water 	FM 	Public Works 
+154.11500 	   	KWQ705 	BM		Lake City FD 	Lake City FD 	FM 	Fire-Tac 
+154.72500 	159.04500  	WQBV875 	RM	263 DPL	Lake City FD 	Lake City FD (Back-up and Paging) 	FM 	Fire Dispatch 
+33.98000 	   	KDJ516 	BM		Lake City FD 	Lake City FD 	FM 	Fire-Tac 
+33.76000 	   	KDJ516 	BM		Lake City FD 	Lake City FD 	FM 	Fire-Tac 
+154.43000 	156.06000  	KQT887 	RM	123.0 PL	Johnsonvl FD 	Johnsonville FD 	FM 	Fire Dispatch 
+154.34000 	   	WPLV242 	BM		Johnsonvl FD 	Johnsonville FD 	FM 	Fire-Tac 
+FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Nucor Steel Corp.	 Motorola Type IIi Hybrid	 Florence	Progress Energy	 Motorola Type II SmartZone Omnilink	 Various
+SC HEART DMR Network	 DMR Conventional Networked	 Mulitple	SC Public Service Authority	 Project 25 Phase II	 Various	South Carolina Pipeline Corporation	 LTR Standard	 Various

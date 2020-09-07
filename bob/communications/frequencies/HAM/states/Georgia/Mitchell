@@ -1,34 +1,34 @@
-155.64000 	KNJU644 	RM	179.9 PL	MCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.67000 	WNZR482 	BM		MCSO ALT 	Sheriff Secondary 	FMN 	Law Tac 
-154.71000 	KNJU644 	M		MCSO TAC 	Sheriff Tactical 	FMN 	Law Tac 
-155.01000 	KNJU644 	M		MCSO PPD 	Sheriff - Pelham PD 	FMN 	Law Tac 
-153.96500 	KNGH285 	RM		MCSO CorrDiv 	Sheriff Corrections Division 	FMN 	Law Tac 
-460.10000 	KNJU644 	RM	179.9 PL	MCSO Jail 	Sheriff  Jail Operations 	FMN 	Corrections 
-154.32500 	WPBR670 	RM	167.9 PL	MCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.16000 	WNJL393 	BM		MCFD ALT 	Fire Secondary 	FMN 	Fire-Tac 
-154.22000 	WPBR670 	M		MCFD TAC 	Fire Tactical 	FMN 	Fire-Tac 
-150.84500 	WPJQ408 	RM	114.8 PL	MCEMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.28000 	KNIY577 	BM		MCEMS ALT 	EMS Alternate Dispatch 	FMN 	EMS Dispatch 
-155.40000 	KNIY577 	BM		MCEMS 400 	EMS Ambulance-to-Hospital 	FMN 	Hospital 
-453.43750 	WQFA964 	RM		PAC/RT 	PAC/RT MCSO/MCEMS 	FMN 	Other 
-460.23750 	WQFA964 	RM		PAC/RT 	PAC/RT MCSO/MCEMS 	FMN 	Other 
-150.96500 	WPLW626 	RM		MCPS 	Public Safety 	FMN 	Other 
-159.15000 	WPEG289 	RM		MCPS ENCRPT 	Public Safety (encrypted) 	FMNE 	Other 
-156.12000 	WPGI317 	RM		MC DOT Disp 	Highway Dept. Primary 	FMN 	Public Works 
-150.99500 	WPGI317 	M		MC DOT ALT 	Highway Dept. 	FMN 	Public Works 
-151.65500 	WPTP768 	BM		MCBOE MCMS 	Mitchell County Middle School 	FMN 	Schools 
-153.67250 	WPTP768 	BM		Baconton H2O 	Water Department 	FMN 	Utilities 
-154.77000 	KTV753 	RM		CPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-155.94000 	KAR823 	RM		Citywide 	Fire/Police/DPW - Common 	FMN 	Interop 
-154.11500 	WPTU787 	RM	162.2 PL	CFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
-173.23750 	WGR363 	BM		Camilla H2O 	Water Department 	FMN 	Utilities 
-173.36250 	WPGV390 	BM		Camilla H2O 	Water Department 	FMN 	Utilities 
-155.43000 	KIM202 	RM	100.0 PL	PPD Dispatch 	Police Dispatch / Fire Secondary 	FMN 	Law Dispatch 
-155.82000 	KCX995 	BM		Citywide 	Fire/Police/DPW - Common 	FMN 	Interop 
-152.36750 	WQDV422 	RM		BOE OPS 1 	School Operations/Security 1 	FMN 	Schools 
-159.52500 	WPYI908 	M		BOE OPS 2 	School Operations/Security 2 	FMN 	Schools 
-159.61500 	WPYI908 	M		BOE OPS 3 	School Operations/Security 3 	FMN 	Schools 
-159.64500 	WPYI908 	M		BOE OPS 4 	School Operations/Security 4 	FMN 	Schools 
-451.53750 	WPYV882 	BM		Pelham H2O 	Water Department 	FMN 	Utilities 
-154.34000 	WNYI209 	BM		PG VFD OPS 	Operations 	FMN 	Fire-Tac 
-154.74000 	WPME341 	BM		Sale Police 	Police Dispatch 	FMN 	Law Dispatch 
+155.64000 	156.09000  	KNJU644 	RM	179.9 PL	MCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.67000 	   	WNZR482 	BM		MCSO ALT 	Sheriff Secondary 	FMN 	Law Tac 
+154.71000 	   	KNJU644 	M		MCSO TAC 	Sheriff Tactical 	FMN 	Law Tac 
+155.01000 	   	KNJU644 	M		MCSO PPD 	Sheriff - Pelham PD 	FMN 	Law Tac 
+153.96500 	156.13750  	KNGH285 	RM		MCSO CorrDiv 	Sheriff Corrections Division 	FMN 	Law Tac 
+460.10000 	465.10000  	KNJU644 	RM	179.9 PL	MCSO Jail 	Sheriff  Jail Operations 	FMN 	Corrections 
+154.32500 	153.95000  	WPBR670 	RM	167.9 PL	MCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.16000 	   	WNJL393 	BM		MCFD ALT 	Fire Secondary 	FMN 	Fire-Tac 
+154.22000 	   	WPBR670 	M		MCFD TAC 	Fire Tactical 	FMN 	Fire-Tac 
+150.84500 	159.88500  	WPJQ408 	RM	114.8 PL	MCEMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.28000 	   	KNIY577 	BM		MCEMS ALT 	EMS Alternate Dispatch 	FMN 	EMS Dispatch 
+155.40000 	   	KNIY577 	BM		MCEMS 400 	EMS Ambulance-to-Hospital 	FMN 	Hospital 
+453.43750 	458.43750  	WQFA964 	RM		PAC/RT 	PAC/RT MCSO/MCEMS 	FMN 	Other 
+460.23750 	465.23750  	WQFA964 	RM		PAC/RT 	PAC/RT MCSO/MCEMS 	FMN 	Other 
+150.96500 	160.18500  	WPLW626 	RM		MCPS 	Public Safety 	FMN 	Other 
+159.15000 	155.91000  	WPEG289 	RM		MCPS ENCRPT 	Public Safety (encrypted) 	FMNE 	Other 
+156.12000 	151.04000  	WPGI317 	RM		MC DOT Disp 	Highway Dept. Primary 	FMN 	Public Works 
+150.99500 	   	WPGI317 	M		MC DOT ALT 	Highway Dept. 	FMN 	Public Works 
+151.65500 	   	WPTP768 	BM		MCBOE MCMS 	Mitchell County Middle School 	FMN 	Schools 
+153.67250 	   	WPTP768 	BM		Baconton H2O 	Water Department 	FMN 	Utilities 
+154.77000 	151.25000  	KTV753 	RM		CPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+155.94000 	151.40500  	KAR823 	RM		Citywide 	Fire/Police/DPW - Common 	FMN 	Interop 
+154.11500 	156.01500  	WPTU787 	RM	162.2 PL	CFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
+173.23750 	   	WGR363 	BM		Camilla H2O 	Water Department 	FMN 	Utilities 
+173.36250 	   	WPGV390 	BM		Camilla H2O 	Water Department 	FMN 	Utilities 
+155.43000 	154.89000  	KIM202 	RM	100.0 PL	PPD Dispatch 	Police Dispatch / Fire Secondary 	FMN 	Law Dispatch 
+155.82000 	   	KCX995 	BM		Citywide 	Fire/Police/DPW - Common 	FMN 	Interop 
+152.36750 	157.67250  	WQDV422 	RM		BOE OPS 1 	School Operations/Security 1 	FMN 	Schools 
+159.52500 	   	WPYI908 	M		BOE OPS 2 	School Operations/Security 2 	FMN 	Schools 
+159.61500 	   	WPYI908 	M		BOE OPS 3 	School Operations/Security 3 	FMN 	Schools 
+159.64500 	   	WPYI908 	M		BOE OPS 4 	School Operations/Security 4 	FMN 	Schools 
+451.53750 	   	WPYV882 	BM		Pelham H2O 	Water Department 	FMN 	Utilities 
+154.34000 	   	WNYI209 	BM		PG VFD OPS 	Operations 	FMN 	Fire-Tac 
+154.74000 	   	WPME341 	BM		Sale Police 	Police Dispatch 	FMN 	Law Dispatch 

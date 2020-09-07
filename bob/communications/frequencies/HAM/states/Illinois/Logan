@@ -1,50 +1,50 @@
-155.56500 	KSB206 	RM	186.2 PL	Logan Sheriff 	Sheriff: Dispatch [WQFD883] 	FMN 	Law Dispatch 
-465.50000 	KSB206 	M	CSQ	Logan Shrf RF2 	Sheriff: Remote Receive Link - Carrier 	FMN 	Law Dispatch 
-159.09750 	WPFJ641 	RM	412 DPL	Logan Shrf Jail 	Sheriff: Jail Ops (was 26 RAN) 	FMN 	Corrections 
-155.22000 	KBA746 	BM	110.9 PL	Logan EMA 	EMA: Emergency Operations Center 	FMN 	Emergency Ops 
-158.76000 	KBA746 	BM	110.9 PL	Logan Fire/EMS 	Fire/EMS/EMA: EMS / Severe Wx Paging 	FMN 	Fire Dispatch 
-154.09250 	WQFD883 	RM	411 DPL	Logan 911-2 	Fire/EMS/EMA: Paging / Dispatch / En Route 	FMN 	Fire Dispatch 
-154.76250 	WQFD883 	BM		Logan 911-3 	911: Fire/EMA (Lincoln) 	FMN 	Fire Dispatch 
-173.37500 	WQLV664 	M	CSQ	Logan 911 MX 	911: Mobile Extenders (Fulscher, Daniel) 	FMN 	Fire-Tac 
-155.73000 	KSB206 	M		Logan Fireground 	Fireground (? 4/14) (D173?) 	FMN 	Fire-Tac 
-151.08500 	KGS771 	BM	186.2 PL	Logan Highway 	Highway Maintenance / Snow Plows 	FMN 	Public Works 
-453.47500 	WNXJ829 	RM		Logan HouseAuth 	Housing Authority: Maintenance 	FMN 	Public Works 
-464.02500 	WNIT248 	RM	141.3 PL	ALMH Ops 1 	Operations 	FMN 	Business 
-464.65000 	WNIT248 	RM		ALMH Ops 2 	Operations (not 146.2 PL) 	FMN 	Business 
-155.22000 	KNGD271 	M	110.9 PL	Logan C-MED 	Logan Central Medical Emergency Dispatch 	FMN 	EMS Dispatch 
-155.34000 	KNGD271 	BM	110.9 PL	MERCI1 110.9 	Patient Reports 	FMN 	Hospital 
-157.45000 	KNGS967 	B		ALMH PG 	Paging (CSQ) 	Telm 	Data 
-173.23750 	WQKA633 	M		Logan EMS MX 	Mobile Extenders  	FMN 	EMS-Tac 
-154.31000 	KNAB298 	BM	CSQ	Atlanta FG 	Fireground [Expired 5/11] 	FM 	Fire-Tac 
-154.01000 	WPUZ935 	BM	156.7 PL	Atln EMS/Rsq 	EMS / Rescue: Dispatch 	FM 	EMS Dispatch 
-155.88000 	WPWA426 	BM		Atlanta LG 	Local Government 	FM 	Public Works 
-154.31000 	KDF575 	BM	110.9 PL	Logan FG 	Fireground / Local (move to county) 	FM 	Fire-Tac 
-451.05000 	WPTY737 	M		Latham Water 	Water Department (Portables) 	FMN 	Public Works 
-155.13000 	KNAJ340 	RM	186.2 PL	Lncln Police 	Police: Dispatch 	FM 	Law Dispatch 
-153.95000 	WPOY848 	M		Linc PD C2C 	Police: Car-to-Car 	FM 	Law Talk 
-154.44500 	KAG830 	RM	186.2 PL	Lincoln FG 	Fire: Response / Fireground  	FMN 	Fire-Tac 
-458.65000 	WQEF968 	M		LinclnFireMX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-151.47500 	WQOI344 	BM	100.0 PL	Linc PubWrks 	Public Works  	FMN 	Public Works 
-158.22000 	KNCH477 	BM		LincolnWater 	Lincoln Water Company 	FM 	Public Works 
-154.44500 	WNLL937 	BM	186.2 PL	Linc FD FG 	Fireground (also 110.9?) 	FMN 	Fire-Tac 
-158.80500 	WQY257 	BM		Middltown FG 	Fireground / Local 	FMN 	Fire-Tac 
-453.75000 	WNIU263 	RM	100.0 PL	MtPulski Ops 	City Operations 	FM 	Multi-Dispatch 
-158.83500 	KAH386 	BM		MtPlski Fire 	Fire: Local [Expired] 	FM 	Fire-Tac 
-458.31250 	KB42627 	M		MtP Village 	Village Ops 	FM 	Multi-Dispatch 
-158.76000 	WQGE871 	RM	110.9 PL	Logan Fire 	Fire/EMS: Countywide Dispatch (Local Repeater) 	FM 	Fire Dispatch 
-159.22500 	WQGE871 	RM		MtP FD FG2 	Fire: Local Fireground  	FM 	Fire-Tac 
-151.04000 	KNFA356 	BM	141.3 PL	PC Ts Roads 	Road Maintenance 	FM 	Public Works 
-461.90000 	WNIW485 	RM	210.7 PL	Hartem Bus 	Hartem Bus Service (Hartsburg) [Expired, WNSA279?] 	FM 	Schools 
-155.16000 	WNMQ297 	BM	110.9 PL	CELSD Buses 	Buses 	FMN 	Schools 
-157.62000 	WPBK455 	BM		Lincoln CUSD 	High School / Buses 	FM 	Schools 
-461.25000 	WPDN672 	RM	162.2 PL	Linc Sch Bus 	Buses 	FMN 	Schools 
-152.31500 	WQRC409 	RM	311 DPL	Lincoln Col 	Operations 	FMN 	Schools 
-45.56000 	WPPZ464 	B	210.7 PL	EMA NWS Lnc 	Lincoln National Weather Service   	FM 	Emergency Ops 
-410.10000 	 	F	CSQ	NWS Lincoln1 	UHF Link for 45.56 	FM 	Emergency Ops 
-410.57500 	 	F	CSQ	NWS Lincoln2 	UHF Link for 45.56 	FM 	Emergency Ops 
-415.90000 	 	F	CSQ	NWS Lincoln3 	UHF Link for 45.56 	FM 	Emergency Ops 
-118.77500 	 	BM	CSQ	AAA AWOS-3 	WX AWOS-3 	FM 	Aircraft 
-122.80000 	 	BM	CSQ	AAA CTAF 	CTAF/UNICOM 	FM 	Aircraft 
-126.15000 	 	BM	CSQ	Spr App/Dep 	Springfield Approach/Departure (was 118.6) 	AM 	Aircraft 
-Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Lincoln Correctional Center - IDOC (Logan)	 Motorola Type II Smartnet
- Lincoln	Memorial Health System - Springfield IL (NID-394)	 NXDN NEXEDGE 4800	 Springfield	Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois	
+155.56500 	151.42250  	KSB206 	RM	186.2 PL	Logan Sheriff 	Sheriff: Dispatch [WQFD883] 	FMN 	Law Dispatch 
+465.50000 	   	KSB206 	M	CSQ	Logan Shrf RF2 	Sheriff: Remote Receive Link - Carrier 	FMN 	Law Dispatch 
+159.09750 	151.20500  	WPFJ641 	RM	412 DPL	Logan Shrf Jail 	Sheriff: Jail Ops (was 26 RAN) 	FMN 	Corrections 
+155.22000 	   	KBA746 	BM	110.9 PL	Logan EMA 	EMA: Emergency Operations Center 	FMN 	Emergency Ops 
+158.76000 	   	KBA746 	BM	110.9 PL	Logan Fire/EMS 	Fire/EMS/EMA: EMS / Severe Wx Paging 	FMN 	Fire Dispatch 
+154.09250 	159.27750  	WQFD883 	RM	411 DPL	Logan 911-2 	Fire/EMS/EMA: Paging / Dispatch / En Route 	FMN 	Fire Dispatch 
+154.76250 	   	WQFD883 	BM		Logan 911-3 	911: Fire/EMA (Lincoln) 	FMN 	Fire Dispatch 
+173.37500 	   	WQLV664 	M	CSQ	Logan 911 MX 	911: Mobile Extenders (Fulscher, Daniel) 	FMN 	Fire-Tac 
+155.73000 	   	KSB206 	M		Logan Fireground 	Fireground (? 4/14) (D173?) 	FMN 	Fire-Tac 
+151.08500 	   	KGS771 	BM	186.2 PL	Logan Highway 	Highway Maintenance / Snow Plows 	FMN 	Public Works 
+453.47500 	458.47500  	WNXJ829 	RM		Logan HouseAuth 	Housing Authority: Maintenance 	FMN 	Public Works 
+464.02500 	469.02500  	WNIT248 	RM	141.3 PL	ALMH Ops 1 	Operations 	FMN 	Business 
+464.65000 	469.65000  	WNIT248 	RM		ALMH Ops 2 	Operations (not 146.2 PL) 	FMN 	Business 
+155.22000 	   	KNGD271 	M	110.9 PL	Logan C-MED 	Logan Central Medical Emergency Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	KNGD271 	BM	110.9 PL	MERCI1 110.9 	Patient Reports 	FMN 	Hospital 
+157.45000 	   	KNGS967 	B		ALMH PG 	Paging (CSQ) 	Telm 	Data 
+173.23750 	   	WQKA633 	M		Logan EMS MX 	Mobile Extenders  	FMN 	EMS-Tac 
+154.31000 	   	KNAB298 	BM	CSQ	Atlanta FG 	Fireground [Expired 5/11] 	FM 	Fire-Tac 
+154.01000 	   	WPUZ935 	BM	156.7 PL	Atln EMS/Rsq 	EMS / Rescue: Dispatch 	FM 	EMS Dispatch 
+155.88000 	   	WPWA426 	BM		Atlanta LG 	Local Government 	FM 	Public Works 
+154.31000 	   	KDF575 	BM	110.9 PL	Logan FG 	Fireground / Local (move to county) 	FM 	Fire-Tac 
+451.05000 	   	WPTY737 	M		Latham Water 	Water Department (Portables) 	FMN 	Public Works 
+155.13000 	158.91000  	KNAJ340 	RM	186.2 PL	Lncln Police 	Police: Dispatch 	FM 	Law Dispatch 
+153.95000 	   	WPOY848 	M		Linc PD C2C 	Police: Car-to-Car 	FM 	Law Talk 
+154.44500 	158.99250  	KAG830 	RM	186.2 PL	Lincoln FG 	Fire: Response / Fireground  	FMN 	Fire-Tac 
+458.65000 	   	WQEF968 	M		LinclnFireMX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+151.47500 	   	WQOI344 	BM	100.0 PL	Linc PubWrks 	Public Works  	FMN 	Public Works 
+158.22000 	   	KNCH477 	BM		LincolnWater 	Lincoln Water Company 	FM 	Public Works 
+154.44500 	   	WNLL937 	BM	186.2 PL	Linc FD FG 	Fireground (also 110.9?) 	FMN 	Fire-Tac 
+158.80500 	   	WQY257 	BM		Middltown FG 	Fireground / Local 	FMN 	Fire-Tac 
+453.75000 	458.75000  	WNIU263 	RM	100.0 PL	MtPulski Ops 	City Operations 	FM 	Multi-Dispatch 
+158.83500 	   	KAH386 	BM		MtPlski Fire 	Fire: Local [Expired] 	FM 	Fire-Tac 
+458.31250 	   	KB42627 	M		MtP Village 	Village Ops 	FM 	Multi-Dispatch 
+158.76000 	153.98000  	WQGE871 	RM	110.9 PL	Logan Fire 	Fire/EMS: Countywide Dispatch (Local Repeater) 	FM 	Fire Dispatch 
+159.22500 	156.00000  	WQGE871 	RM		MtP FD FG2 	Fire: Local Fireground  	FM 	Fire-Tac 
+151.04000 	   	KNFA356 	BM	141.3 PL	PC Ts Roads 	Road Maintenance 	FM 	Public Works 
+461.90000 	466.90000  	WNIW485 	RM	210.7 PL	Hartem Bus 	Hartem Bus Service (Hartsburg) [Expired, WNSA279?] 	FM 	Schools 
+155.16000 	   	WNMQ297 	BM	110.9 PL	CELSD Buses 	Buses 	FMN 	Schools 
+157.62000 	   	WPBK455 	BM		Lincoln CUSD 	High School / Buses 	FM 	Schools 
+461.25000 	466.25000  	WPDN672 	RM	162.2 PL	Linc Sch Bus 	Buses 	FMN 	Schools 
+152.31500 	157.57500  	WQRC409 	RM	311 DPL	Lincoln Col 	Operations 	FMN 	Schools 
+45.56000 	   	WPPZ464 	B	210.7 PL	EMA NWS Lnc 	Lincoln National Weather Service   	FM 	Emergency Ops 
+410.10000 	   	 	F	CSQ	NWS Lincoln1 	UHF Link for 45.56 	FM 	Emergency Ops 
+410.57500 	   	 	F	CSQ	NWS Lincoln2 	UHF Link for 45.56 	FM 	Emergency Ops 
+415.90000 	   	 	F	CSQ	NWS Lincoln3 	UHF Link for 45.56 	FM 	Emergency Ops 
+118.77500 	   	 	BM	CSQ	AAA AWOS-3 	WX AWOS-3 	FM 	Aircraft 
+122.80000 	   	 	BM	CSQ	AAA CTAF 	CTAF/UNICOM 	FM 	Aircraft 
+126.15000 	   	 	BM	CSQ	Spr App/Dep 	Springfield Approach/Departure (was 118.6) 	AM 	Aircraft 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+Memorial Health System - Springfield IL (NID-394)	 NXDN NEXEDGE 4800	 Springfield	

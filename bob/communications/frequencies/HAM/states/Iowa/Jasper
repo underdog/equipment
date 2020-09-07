@@ -1,35 +1,34 @@
-159.32250 	WQOE320 	RM	123.0 PL	Newton PS 	Sheriff Dispatch - Public Safety 1 	FMN 	Law Dispatch 
-154.84500 	KAB223 	BM	192.8 PL	Jasper Sh 	Sheriff Dispatch - Used occasionally 	FMN 	Law Dispatch 
-154.69500 	WPMH482 	RM	123.0 PL	Jasper TAC 	Sheriff Tactical - Public Safety 2 	FMN 	Law Tac 
-155.52000 	KAB223 	B	CSQ	Jasper Info 	Sheriff Information - Base 	FMN 	Law Talk 
-155.91000 	KAB223 	M	192.8 PL	Jasper Info 	Sheriff Information - Mobile  	FMN 	Law Talk 
-159.21750 	WQIT353 	M	CSQ	Jasper TAC 	Sheriff Mobile Extender 	FMN 	Law Talk 
-154.41500 	KNCG838 	RM	CSQ	Jasper Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.41500 	KNCG838 	RM	131.8 PL	Jasp Fire 	Fire Dispatch - Newton Tower 	FMN 	Fire Dispatch 
-154.41500 	KNCG838 	RM	162.2 PL	Jasp Fire 	Fire Dispatch - Kellogg Tower 	FMN 	Fire Dispatch 
-154.41500 	KNCG838 	RM	173.8 PL	Jasp Fire 	Fire Dispatch - Monroe Tower 	FMN 	Fire Dispatch 
-154.41500 	KNCG838 	RM	179.9 PL	Jasp Fire 	Fire Dispatch - Sully Tower 	FMN 	Fire Dispatch 
-154.41500 	KNCG838 	RM	186.2 PL	Jasp Fire 	Fire Dispatch - Prairie City Tower 	FMN 	Fire Dispatch 
-155.32500 	KNCG838 	BM	107.2 PL	Jasper Co FG 	Fireground 	FMN 	Fire-Tac 
-155.40000 	WQFK217 	BM		Skiff EMS 	Skiff Medical Center - EMS reports - 82.5 PL on some units 	FM 	Hospital 
-151.35500 	WPIG990 	BM		JapserConsvt 	Conservation 	FM 	Public Works 
-159.41250 	KAG328 	RM	192.8 PL	Jasper Roads 	Road Department 	FMN 	Public Works 
-453.31250 	WQIT353 	F	173.8 PL	Fire FX 	Remote Relay for Fire Dispatch - Prairie City Tower 	FMN 	Fire Dispatch 
-453.31250 	WQIT353 	F	186.2 PL	Fire FX 	Remote Relay for Fire Dispatch - Kellogg Tower 	FMN 	Fire Dispatch 
-453.31250 	WQIT353 	F	192.8 PL	Fire FX 	Remote Relay for Fire Dispatch - Monroe Tower 	FMN 	Fire Dispatch 
-453.31250 	WQIT353 	F	203.5 PL	Fire FX 	Remote Relay for Fire Dispatch - Sully Tower 	FMN 	Fire Dispatch 
-154.19000 	 	RM	141.3 PL	Baxter Fire 	Fire / EMS Dispatch 	FMN 	Fire Dispatch 
-154.19000 	 	RM	97.4 PL	Baxter PW 	Public Works 	FMN 	Public Works 
-159.00750 	WQOE321 	RM	151.4 PL	Colfax PD 	Police Dispatch / Public Works 	FMN 	Multi-Dispatch 
-156.15750 	WQOE321 	RM	151.4 PL	Colfax Fire 	Fire Dispatch - Linked to County Fire 	FMN 	Fire Dispatch 
-155.88000 	WPZS291 	BM	CSQ	Colfax City 	Public Works - 127.3 PL on mobiles only 	FM 	Public Works 
-452.05000 	WPZS291 	F	151.4 PL	Colfax FX 	Relay for Public Works 	FMN 	Public Works 
-154.98000 	KBT461 	BM		Monroe City 	Public Works 	FM 	Public Works 
-154.74000 	WNUX214 	BM	612 DPL	Newton PW 	Police Car to Car 	FMN 	Law Talk 
-154.35500 	KD47984 	RM	136.5 PL	Newton Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-158.92500 	WPLR657 	M	432 DPL	Newton FG 	Fireground 	FMN 	Fire-Tac 
-155.14500 	KJH213 	BM	432 DPL	Newton City 	Public Works 	FMN 	Public Works 
-453.20000 	WNDB511 	RM	107.2 PL	PrairieCitPW 	Public Works 	FM 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Iowa Department of Corrections	 DMR Tier 3	 Various	LWC Communications - Des Moines	 DMR Motorola Capacity Plus Single Site (TRBO)
- Des Moines	Maytag	 LTR Standard	 Newton	Mid American Energy	 MPT-1327 Standard	 Various	RACOM Network
- EDACS Networked Standard	 Various	
+154.41500 	158.85750  	KNCG838 	RM	CSQ	Jasper Fire 	Fire Dispatch - Patched to SARA 	FMN 	Fire Dispatch 
+154.41500 	158.85750  	KNCG838 	RM	131.8 PL	Jasp Fire 	Fire Dispatch - Newton Tower 	FMN 	Fire Dispatch 
+154.41500 	158.85750  	KNCG838 	RM	162.2 PL	Jasp Fire 	Fire Dispatch - Kellogg Tower 	FMN 	Fire Dispatch 
+154.41500 	158.85750  	KNCG838 	RM	173.8 PL	Jasp Fire 	Fire Dispatch - Monroe Tower - Patched to SARA 	FMN 	Fire Dispatch 
+154.41500 	158.85750  	KNCG838 	RM	179.9 PL	Jasp Fire 	Fire Dispatch - Sully Tower 	FMN 	Fire Dispatch 
+154.41500 	158.85750  	KNCG838 	RM	186.2 PL	Jasp Fire 	Fire Dispatch - Prairie City Tower - Patched to SARA 	FMN 	Fire Dispatch 
+155.32500 	   	KNCG838 	BM	107.2 PL	Jasper Co FG 	Fireground 	FMN 	Fire-Tac 
+155.40000 	   	WQFK217 	BM		Skiff EMS 	MercyOne - Patched to SARA 	FM 	Hospital 
+151.35500 	   	WPIG990 	BM		JapserConsvt 	Conservation 	FM 	Public Works 
+159.41250 	153.74750  	KAG328 	RM	192.8 PL	Jasper Roads 	Road Department 	FMN 	Public Works 
+453.31250 	   	WQIT353 	F	173.8 PL	Fire FX 	Remote Relay for Fire Dispatch - Prairie City Tower 	FMN 	Fire Dispatch 
+453.31250 	   	WQIT353 	F	186.2 PL	Fire FX 	Remote Relay for Fire Dispatch - Kellogg Tower 	FMN 	Fire Dispatch 
+453.31250 	   	WQIT353 	F	192.8 PL	Fire FX 	Remote Relay for Fire Dispatch - Monroe Tower 	FMN 	Fire Dispatch 
+453.31250 	   	WQIT353 	F	203.5 PL	Fire FX 	Remote Relay for Fire Dispatch - Sully Tower 	FMN 	Fire Dispatch 
+154.69500 	155.85000  	WPMH482 	RM	123.0 PL	Jasper TAC 	Sheriff Tactical - Public Safety 2 	FMN 	Deprecated 
+154.84500 	   	KAB223 	BM	192.8 PL	Jasper Sh 	Sheriff Dispatch - Used occasionally 	FMN 	Deprecated 
+155.52000 	   	KAB223 	B	CSQ	Jasper Info 	Sheriff Information - Base 	FMN 	Deprecated 
+155.91000 	   	KAB223 	M	192.8 PL	Jasper Info 	Sheriff Information - Mobile  	FMN 	Deprecated 
+159.21750 	   	WQIT353 	M	CSQ	Jasper TAC 	Sheriff Mobile Extender 	FMN 	Deprecated 
+159.32250 	153.88250  	WQOE320 	RM	123.0 PL	Newton PS 	Sheriff Dispatch - Public Safety 1 	FMN 	Deprecated 
+154.19000 	158.74500  	 	RM	141.3 PL	Baxter Fire 	Fire / EMS Dispatch 	FMN 	Fire Dispatch 
+154.19000 	158.74500  	 	RM	97.4 PL	Baxter PW 	Public Works 	FMN 	Public Works 
+159.00750 	155.55750  	WQOE321 	RM	151.4 PL	Colfax PD 	Police Dispatch / Public Works 	FMN 	Multi-Dispatch 
+156.15750 	151.42250  	WQOE321 	RM	151.4 PL	Colfax Fire 	Fire Dispatch - Patched to SARA 	FMN 	Fire Dispatch 
+155.88000 	   	WPZS291 	BM	CSQ	Colfax City 	Public Works - 127.3 PL on mobiles only 	FM 	Public Works 
+452.05000 	   	WPZS291 	F	151.4 PL	Colfax FX 	Relay for Public Works 	FMN 	Public Works 
+154.98000 	   	KBT461 	BM		Monroe City 	Public Works 	FM 	Public Works 
+154.74000 	   	WNUX214 	BM	612 DPL	Newton PW 	Police Car to Car 	FMN 	Law Talk 
+154.35500 	159.24750  	KD47984 	RM	136.5 PL	Newton Fire 	Fire Dispatch - Patched to SARA 	FMN 	Fire Dispatch 
+158.92500 	   	WPLR657 	M	432 DPL	Newton FG 	Fireground 	FMN 	Fire-Tac 
+155.14500 	   	KJH213 	BM	432 DPL	Newton City 	Public Works 	FMN 	Public Works 
+453.20000 	458.20000  	WNDB511 	RM	107.2 PL	PrairieCitPW 	Public Works 	FM 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Iowa Department of Corrections	 DMR Tier 3	 Various	LWC Communications - Des Moines	 DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines
+Maytag	 LTR Standard	 Newton	Mid American Energy	 MPT-1327 Standard	 Various	RACOM Network	 EDACS Networked Standard	 Various

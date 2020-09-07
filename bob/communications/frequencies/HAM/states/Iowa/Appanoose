@@ -1,13 +1,12 @@
-155.04000 	WPUV243 	RM	A04 NAC	Appanoose Law 	Sheriff Dispatch 	P25 	Law Dispatch 
-154.83000 	KZC647 	BM	167.9 PL	Appanoose OldLaw 	Old Law Ops 	FMN 	Law Tac 
-155.31000 	KZC647 	B	167.9 PL	Appanoose Info B 	Sheriff Information - Base 	FMN 	Law Talk 
-155.91000 	KZC647 	M	167.9 PL	Appanoose Info M 	Sheriff Information - Mobiles 	FMN 	Law Talk 
-151.20500 	WPUV243 	RM	131.8 PL	Appanoose Ops 	Ops Repeater - used by Midwest Ambulance 	FMN 	Law Dispatch 
-154.20500 	KNBN649 	BM	167.9 PL	Appanoose Fire 	Fire/EMS Dispatch  	FMN 	Fire Dispatch 
-151.11500 	KLD820 	RM		Appanoose Roads 	Road Department 	DMR 	Public Works 
-154.43000 	KNBN649 	BM		Cville Fire  	Fire Dispatch 	FMN 	Fire Dispatch 
-154.04000 	WPEI602 	BM		Cville PW 	Public Works 	FM 	Public Works 
-453.77500 	WPEJ719 	BM		Cville Water 	Water Department 	FM 	Public Works 
-155.22000 	WPZE303 	BM		Mercy EMS 	EMS - Dispatch 	FMN 	EMS Dispatch 
-Alliant Energy	 DMR Tier 3	 Various	Iowa DMR Users Group	 DMR Conventional Networked	 Various	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Palmyra	RACOM Network	 EDACS Networked Standard	 Various	
+155.04000 	159.03750  	WPUV243 	RM	A04 NAC	Appanoose Law 	Sheriff Dispatch 	P25 	Law Dispatch 
+154.83000 	   	KZC647 	BM	167.9 PL	Appanoose OldLaw 	Old Law Ops 	FMN 	Law Tac 
+155.31000 	   	KZC647 	B	167.9 PL	Appanoose Info B 	Sheriff Information - Base 	FMN 	Law Talk 
+155.91000 	   	KZC647 	M	167.9 PL	Appanoose Info M 	Sheriff Information - Mobiles 	FMN 	Law Talk 
+151.20500 	156.01500  	WPUV243 	RM	131.8 PL	Appanoose Ops 	Ops Repeater - used by Midwest Ambulance 	FMN 	Law Dispatch 
+154.20500 	   	KNBN649 	BM	167.9 PL	Appanoose Fire 	Fire/EMS Dispatch  	FMN 	Fire Dispatch 
+151.11500 	159.06000  	KLD820 	RM		Appanoose Roads 	Road Department 	DMR 	Public Works 
+154.43000 	   	KNBN649 	BM		Cville Fire  	Fire Dispatch 	FMN 	Fire Dispatch 
+154.04000 	   	WPEI602 	BM		Cville PW 	Public Works 	FM 	Public Works 
+453.77500 	   	WPEJ719 	BM		Cville Water 	Water Department 	FM 	Public Works 
+155.22000 	   	WPZE303 	BM		Mercy EMS 	EMS - Dispatch 	FMN 	EMS Dispatch 
+Alliant Energy	 DMR Tier 3	 Various	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	RACOM Network	 EDACS Networked Standard	 Various

@@ -62,7 +62,7 @@ for x in uslist:
       ctid = str(ct['value'].split(',')[1])
       countyname = ct.text.strip()
       print(f'\t{countyname}')
-      countyurl = baseurl + '?ctid=' + ctid
+      countyurl = baseurl + '?inputs=1&ctid=' + ctid
       #print(f'{ctid}\t', end='')
       #print(f'{countyname}\t', end='')
       #print(f'{countyurl}')
@@ -76,7 +76,7 @@ for x in uslist:
       count = 1
       with open(countyname, 'w') as outfile:
         for x in range(0, len(td)):
-          if count%8 == 0:
+          if count%9 == 0:
             #print(f'{td[x].text}')
             outfile.write(f'{td[x].text}\n')
             count += 1

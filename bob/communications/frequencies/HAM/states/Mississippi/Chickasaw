@@ -1,15 +1,14 @@
-155.71500 	WQDC446 	RM	245 DPL	CHKSW SO1 	Sheriff 1 	FMN 	Law Dispatch 
-155.57250 	WQDC446 	RM	245 DPL	CHKSW SO2 	Sheriff 2 	FMN 	Law Dispatch 
-151.07000 	WPKH607 	RM	167.9 PL	CHKSW FIRE 	County Fire 	FMN 	Fire Dispatch 
-154.13000 	WPMN644 	BM		Thorn VFD 	Thorn VFD Dispatch 	FMN 	Fire Dispatch 
-45.92000 	WNMW950 	BM		CC EMA LB 1 	Chickasaw County EMA Dispatch 	FM 	Emergency Ops 
-46.04000 	WNMW950 	BM		CC EMA LB 2 	Chickasaw County EMA Tactical 	FM 	Emergency Ops 
-154.86000 	WNPZ702 	RM		Houston PD 	Houston Police Dispatch 	FM 	Law Dispatch 
-154.32500 	KUO801 	BM		Houston FD 	Houston Fire Dispatch 	FM 	Fire Dispatch 
-154.75500 	WPGT931 	BM		Houston DPW 	Houston Public Works 	FM 	Public Works 
-154.22000 	KNDH523 	BM		NH FD Disp 	New Houlka Fire Dispatch 	FM 	Fire Dispatch 
-155.61000 	WPNQ856 	RM		Okolona PD 	Okolona Police Dispatch 	FM 	Law Dispatch 
-155.38500 	 			Emergystat 	Emergystat Ambulance 	FM 	EMS Dispatch 
-152.00750 	WZZ230 	B		Trace Hosp 	Trace Regional Hospital Paging 	FM 	EMS Dispatch 
-Entergy 	 Project 25 Phase II	 Various	Mississippi Wireless Integrated Network (MSWIN)	 Project 25 Phase II	 Jackson	Teletec Communications (Woodland)	 LTR Standard
- Woodland	
+155.71500 	154.71000  	WQDC446 	RM	245 DPL	CHKSW SO1 	Sheriff 1 	FMN 	Law Dispatch 
+155.57250 	153.76250  	WQDC446 	RM	245 DPL	CHKSW SO2 	Sheriff 2 	FMN 	Law Dispatch 
+151.07000 	153.89000  	WPKH607 	RM	167.9 PL	CHKSW FIRE 	County Fire 	FMN 	Fire Dispatch 
+154.13000 	   	WPMN644 	BM		Thorn VFD 	Thorn VFD Dispatch 	FMN 	Fire Dispatch 
+45.92000 	   	WNMW950 	BM		CC EMA LB 1 	Chickasaw County EMA Dispatch 	FM 	Emergency Ops 
+46.04000 	   	WNMW950 	BM		CC EMA LB 2 	Chickasaw County EMA Tactical 	FM 	Emergency Ops 
+154.86000 	158.94000  	WNPZ702 	RM		Houston PD 	Houston Police Dispatch 	FM 	Law Dispatch 
+154.32500 	159.00000  	KUO801 	BM		Houston FD 	Houston Fire Dispatch 	FM 	Fire Dispatch 
+154.75500 	   	WPGT931 	BM		Houston DPW 	Houston Public Works 	FM 	Public Works 
+154.22000 	   	KNDH523 	BM		NH FD Disp 	New Houlka Fire Dispatch 	FM 	Fire Dispatch 
+155.61000 	153.80000  	WPNQ856 	RM		Okolona PD 	Okolona Police Dispatch 	FM 	Law Dispatch 
+155.38500 	   	 			Emergystat 	Emergystat Ambulance 	FM 	EMS Dispatch 
+152.00750 	   	WZZ230 	B		Trace Hosp 	Trace Regional Hospital Paging 	FM 	EMS Dispatch 
+Entergy 	 Project 25 Phase II	 Various	Teletec Communications (Woodland)	 LTR Standard	 Woodland	

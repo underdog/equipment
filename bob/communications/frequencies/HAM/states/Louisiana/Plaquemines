@@ -1,10 +1,9 @@
-154.44500 	KNED437 	BM		EMS/FD-DSP 	EMS Dispatch and Fire Dispatch (except Belle Chasse) 	FMN 	Multi-Dispatch 
-154.32500 	KSL352 	BM		BCVFD 	Belle Chasse Volunteer Fire Department 	FMN 	Fire Dispatch 
-154.28000 	WNNC395 	BM	CSQ	MUTAID 	Fire Mutual Aid 	FMN 	Interop 
-854.63750 	KNBC556 	BM	173.8 PL	PPSO-North 	Sheriff Dispatch - 1st District (North, simulcast with 851.6375 MHz) 	FM 	Law Dispatch 
-857.58750 	KNBC556 	BM	173.8 PL	PPSO-South 	Sheriff Dispatch - 2nd/3rd Districts (South, simulcast with 851.6125 MHz) 	FM 	Law Dispatch 
-155.80500 	WNAE432 	BM	173.8 PL	PPADMIN 	Parish Administration 	FMN 	Public Works 
-453.47500 	WYG204 	RM		PPSERVICES 	Parish Services 	FMN 	Public Works 
-856.13750 	KNBC555 	RM		PPSERVICES 	Parish Services 	FM 	Public Works 
-Entergy 	 Project 25 Phase II	 Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	Phillips 66 Refineries	 Project 25 Phase II
- Various	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	
+154.44500 	   	KNED437 	BM		EMS/FD-DSP 	EMS Dispatch and Fire Dispatch (except Belle Chasse) 	FMN 	Multi-Dispatch 
+154.32500 	   	KSL352 	BM		BCVFD 	Belle Chasse Volunteer Fire Department 	FMN 	Fire Dispatch 
+154.28000 	   	WNNC395 	BM	CSQ	MUTAID 	Fire Mutual Aid 	FMN 	Interop 
+854.63750 	   	KNBC556 	BM	173.8 PL	PPSO-North 	Sheriff Dispatch - 1st District (North, simulcast with 851.6375 MHz) 	FM 	Law Dispatch 
+857.58750 	   	KNBC556 	BM	173.8 PL	PPSO-South 	Sheriff Dispatch - 2nd/3rd Districts (South, simulcast with 851.6125 MHz) 	FM 	Law Dispatch 
+155.80500 	155.04000  	WNAE432 	BM	173.8 PL	PPADMIN 	Parish Administration 	FMN 	Public Works 
+453.47500 	458.47500  	WYG204 	RM		PPSERVICES 	Parish Services 	FMN 	Public Works 
+856.13750 	811.13750  	KNBC555 	RM		PPSERVICES 	Parish Services 	FM 	Public Works 
+Entergy 	 Project 25 Phase II	 Various	Phillips 66 Refineries	 Project 25 Phase II	 Various	

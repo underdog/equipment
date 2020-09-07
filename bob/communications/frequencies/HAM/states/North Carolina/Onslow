@@ -1,44 +1,43 @@
-155.88000 	KCP538 	BM	141.3 PL	ONSLOWFD 	Onslow County Dispatch 	FM 	Fire Dispatch 
-155.88000 	 	M	141.3 PL	ONSLOWFDT/A 	Onslow FIre Department Talk Around 	FM 	Fire-Tac 
-154.28000 	WPTS210 	BM	CSQ	ONSLOWFDST 	Onslow County Fire Statewide Mutual Aid) 	FM 	Fire-Talk 
-151.23500 	 	RM	100.0 PL	ONSLOWFDT/A 	Onslow County Fire Tactical 	FM 	Fire-Tac 
-155.11500 	KCP538 	M		ONSLOWFDTAC3 	Onslow County Fire Tactical 3 	FM 	Fire-Tac 
-159.15000 	KCP538 	M		ONSLOWFDTAC4 	Onslow County Fire Tactical 4 	FM 	Fire-Tac 
-151.37000 	WPKS323 	RM	141.3 PL	ONSLOWFDTACG 	Onslow County Fire Tactical 5 	FM 	Fire-Tac 
-159.10500 	 	M	CSQ	ONSLOWFDTAC6 	Onslow County Fire Tactical 6 	FM 	Fire-Tac 
-154.16000 	WQAW525 	BM	141.3 PL	HUBERTVFD 	Fire Tactical - Hubert VFD 	FM 	Fire-Tac 
-154.19000 	WPMW791 	RM	141.3 PL	HALFMOONVFD 	Fire Tactical - Half Moon VFD 	FM 	Fire-Tac 
-154.25000 	WPDU729 	BM	141.3 PL	BEARCREEKVFD 	Fire Tactical - Bear Creek VFD 	FM 	Fire-Tac 
-154.34000 	WNZT557 	BM	141.3 PL	RTOWN VFD 	Fire Tactical - Rhodestown VFD 	FM 	Fire-Tac 
-154.11500 	WQGJ808 	BM	141.3 PL	RICHLANDSVFD 	Fire Tactical - Richlands VFD 	FM 	Fire-Tac 
-154.26500 	 	M	141.3 PL	WHITE OAK FD 	White Oak VFD 	FM 	Fire-Tac 
-155.40000 	WPCI686 	RM	141.3 PL	ONSLOW EMS 	Rescuenet/EMS Dispatch 	FM 	EMS Dispatch 
-851.06250 	WPSI475 	RM	D26 NAC	ONSLOW SIMUL 	Rescuenet/EMS Dispatch (Simulcast of 155.4) 	P25 	EMS Dispatch 
-155.28000 	WPCI686 	BM	141.3 PL	ONSLWESTEMS 	State Rescue 	FM 	EMS-Tac 
-151.23500 	WPCI686 	BM	100.0 PL	ONSLOWEMSE1 	Event 1 (Simulcast with Event 1 on TRS) 	FM 	EMS-Tac 
-155.34000 	WPCI686 	BM	141.3 PL	ONSLOW HOSP 	Hospital Reports 	FM 	Hospital 
-154.51500 	 		141.3 PL	ONSLOW SIRT 	County SIRT (Special Incident Response Team) 	FM 	EMS-Tac 
-155.35500 	 		141.3 PL	ONSLOWSIRT15 	SIRT Tac Ch 15 	FM 	EMS-Tac 
-155.26500 	 	BM	141.3 PL	ONSLOWEMSTAC 	EMS/Rescue Tactical 	FM 	EMS-Tac 
-155.51500 	 	M	141.3 PL	SNEADS FERRY 	Sneads Ferry Rescue Squad 	FM 	EMS-Tac 
-155.38500 	KB45139 	M		ONSLOW MEMRL 	Onslow Memorial Hospital Transports 	FM 	EMS-Tac 
-151.04000 	WPXZ838 	RM	123.0 PL	Onslow Water 	ONWASA (County Water) 	FM 	Public Works 
-153.31250 	WQPS644 	BM		Onsl Water A 	Onslow Water  	FMN 	Public Works 
-153.62000 	WQPS644 	BM		Onsl Water B 	Onslow Water  	FMN 	Public Works 
-155.08500 	WXK595 	BM	203.5 PL	 OnslSchBusA 	School Busses 	FM 	Schools 
-159.84000 	WPRG675 	RM	203.5 PL	 OnslSchBusB 	School Busses 	FM 	Schools 
-159.93000 	WPRG675 	RM	203.5 PL	OnslSchBusC 	School Busses 	FM 	Schools 
-160.17000 	WPHC390 	BM	203.5 PL	OnslSchBusD 	School Busses 	FM 	Schools 
-160.11000 	WPRG675 	BM	203.5 PL	 OnslSchBusE 	School Busses 	FM 	Schools 
-153.93500 	WNFE951 	BM	141.3 PL	Services 	Services 	FM 	Public Works 
-155.61000 	WNKA606 	BM	100.0 PL	SWANS PD 	Swansboro Police 	FM 	Law Tac 
-154.31000 	WNPZ969 	BM	141.3 PL	SWANS FD 	Swansboro Fire 	FM 	Fire-Tac 
-158.83500 	WNKY300 	BM		RPD CARS 	Police Car-to-Car 	FM 	Law Talk 
-151.83500 	 		141.3 PL	Rescue 	Rescue 	FM 	EMS-Tac 
-460.23750 	WNSZ479 	BM		Town Governm 	Town Government 	FM 	Public Works 
-154.04000 	WPLP535 	RM	186.2 PL	NTB City Svc 	Services 	FM 	Public Works 
-155.83500 	KCR458 	RM	192.8 PL	Fire (Patche 	Fire (Patched to Jacksonville/Onslow TRS) 	FM 	Fire Dispatch 
-453.77500 	WPOX841 	RM		Services 	Services 	FM 	Public Works 
-Devil Dog Wireless LTR	 LTR Standard	 Jacksonville	North Carolina VIPER	 Project 25 Phase I	 Varies	Onslow ARINC	 LTR Standard
- Richlands	Onslow County/Jacksonville City Public Services	 Project 25 Phase II	 Jacksonville	Onslow Memorial Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Jacksonville	Progress Energy
- Motorola Type II SmartZone Omnilink	 Various	United States Marine Corps (00A)	 Project 25 Phase II	 Various	
+155.88000 	154.81500  	KCP538 	BM	141.3 PL	ONSLOWFD 	Onslow County Dispatch 	FM 	Fire Dispatch 
+155.88000 	   	 	M	141.3 PL	ONSLOWFDT/A 	Onslow FIre Department Talk Around 	FM 	Fire-Tac 
+154.28000 	   	WPTS210 	BM	CSQ	ONSLOWFDST 	Onslow County Fire Statewide Mutual Aid) 	FM 	Fire-Talk 
+151.23500 	155.16000  	 	RM	100.0 PL	ONSLOWFDT/A 	Onslow County Fire Tactical 	FM 	Fire-Tac 
+155.11500 	   	KCP538 	M		ONSLOWFDTAC3 	Onslow County Fire Tactical 3 	FM 	Fire-Tac 
+159.15000 	   	KCP538 	M		ONSLOWFDTAC4 	Onslow County Fire Tactical 4 	FM 	Fire-Tac 
+151.37000 	159.30000  	WPKS323 	RM	141.3 PL	ONSLOWFDTACG 	Onslow County Fire Tactical 5 	FM 	Fire-Tac 
+159.10500 	   	 	M	CSQ	ONSLOWFDTAC6 	Onslow County Fire Tactical 6 	FM 	Fire-Tac 
+154.16000 	   	WQAW525 	BM	141.3 PL	HUBERTVFD 	Fire Tactical - Hubert VFD 	FM 	Fire-Tac 
+154.19000 	158.86500  	WPMW791 	RM	141.3 PL	HALFMOONVFD 	Fire Tactical - Half Moon VFD 	FM 	Fire-Tac 
+154.25000 	   	WPDU729 	BM	141.3 PL	BEARCREEKVFD 	Fire Tactical - Bear Creek VFD 	FM 	Fire-Tac 
+154.34000 	   	WNZT557 	BM	141.3 PL	RTOWN VFD 	Fire Tactical - Rhodestown VFD 	FM 	Fire-Tac 
+154.11500 	   	WQGJ808 	BM	141.3 PL	RICHLANDSVFD 	Fire Tactical - Richlands VFD 	FM 	Fire-Tac 
+154.26500 	   	 	M	141.3 PL	WHITE OAK FD 	White Oak VFD 	FM 	Fire-Tac 
+155.40000 	   	WPCI686 	RM	141.3 PL	ONSLOW EMS 	Rescuenet/EMS Dispatch 	FM 	EMS Dispatch 
+851.06250 	806.06250  	WPSI475 	RM	D26 NAC	ONSLOW SIMUL 	Rescuenet/EMS Dispatch (Simulcast of 155.4) 	P25 	EMS Dispatch 
+155.28000 	   	WPCI686 	BM	141.3 PL	ONSLWESTEMS 	State Rescue 	FM 	EMS-Tac 
+151.23500 	155.16000  	WPCI686 	BM	100.0 PL	ONSLOWEMSE1 	Event 1 (Simulcast with Event 1 on TRS) 	FM 	EMS-Tac 
+155.34000 	   	WPCI686 	BM	141.3 PL	ONSLOW HOSP 	Hospital Reports 	FM 	Hospital 
+154.51500 	   	 		141.3 PL	ONSLOW SIRT 	County SIRT (Special Incident Response Team) 	FM 	EMS-Tac 
+155.35500 	   	 		141.3 PL	ONSLOWSIRT15 	SIRT Tac Ch 15 	FM 	EMS-Tac 
+155.26500 	   	 	BM	141.3 PL	ONSLOWEMSTAC 	EMS/Rescue Tactical 	FM 	EMS-Tac 
+155.51500 	   	 	M	141.3 PL	SNEADS FERRY 	Sneads Ferry Rescue Squad 	FM 	EMS-Tac 
+155.38500 	   	KB45139 	M		ONSLOW MEMRL 	Onslow Memorial Hospital Transports 	FM 	EMS-Tac 
+151.04000 	154.95000  	WPXZ838 	RM	123.0 PL	Onslow Water 	ONWASA (County Water) 	FM 	Public Works 
+153.31250 	   	WQPS644 	BM		Onsl Water A 	Onslow Water  	FMN 	Public Works 
+153.62000 	   	WQPS644 	BM		Onsl Water B 	Onslow Water  	FMN 	Public Works 
+155.08500 	   	WXK595 	BM	203.5 PL	 OnslSchBusA 	School Busses 	FM 	Schools 
+159.84000 	   	WPRG675 	RM	203.5 PL	 OnslSchBusB 	School Busses 	FM 	Schools 
+159.93000 	   	WPRG675 	RM	203.5 PL	OnslSchBusC 	School Busses 	FM 	Schools 
+160.17000 	   	WPHC390 	BM	203.5 PL	OnslSchBusD 	School Busses 	FM 	Schools 
+160.11000 	   	WPRG675 	BM	203.5 PL	 OnslSchBusE 	School Busses 	FM 	Schools 
+153.93500 	   	WNFE951 	BM	141.3 PL	Services 	Services 	FM 	Public Works 
+155.61000 	   	WNKA606 	BM	100.0 PL	SWANS PD 	Swansboro Police 	FM 	Law Tac 
+154.31000 	   	WNPZ969 	BM	141.3 PL	SWANS FD 	Swansboro Fire 	FM 	Fire-Tac 
+158.83500 	   	WNKY300 	BM		RPD CARS 	Police Car-to-Car 	FM 	Law Talk 
+151.83500 	   	 		141.3 PL	Rescue 	Rescue 	FM 	EMS-Tac 
+460.23750 	465.23750  	WNSZ479 	BM		Town Governm 	Town Government 	FM 	Public Works 
+154.04000 	155.89500  	WPLP535 	RM	186.2 PL	NTB City Svc 	Services 	FM 	Public Works 
+155.83500 	158.88000  	KCR458 	RM	192.8 PL	Fire (Patche 	Fire (Patched to Jacksonville/Onslow TRS) 	FM 	Fire Dispatch 
+453.77500 	458.77500  	WPOX841 	RM		Services 	Services 	FM 	Public Works 
+Devil Dog Wireless LTR	 LTR Standard	 Jacksonville	Onslow ARINC	 LTR Standard	 Richlands	Onslow County/Jacksonville City Public Services	 Project 25 Phase II	 Jacksonville
+Onslow Memorial Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Jacksonville	Progress Energy	 Motorola Type II SmartZone Omnilink	 Various	United States Marine Corps (00A)	 Project 25 Phase II	 Various

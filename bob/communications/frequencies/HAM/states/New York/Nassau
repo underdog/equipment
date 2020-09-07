@@ -1,274 +1,275 @@
-153.74000 	KLC950 	BM	131.8 PL	AIR/MRNVHF 	NCPD Aviation VHF 	FMN 	Law Dispatch 
-46.10000 	KEG254 	BM		FireDisp 	Countywide Dispatch 	FM 	Fire Dispatch 
-453.87500 	KMJ857  	BM	100.0 PL	NCFD UHF Dspch 	Countywide UHF Dispatch 	FMN 	Fire Dispatch 
-453.32500 	KNFL934 	RM	100.0 PL	NCFD UHF Dsp 2 	Countywide UHF Dispatch 2 	FMN 	Fire-Tac 
-46.32000 	KEG254 	BM		Batt 1/6/7 	Fire Operations - Battalions 1, 6, 7 	FM 	Fire-Tac 
-46.20000 	KEG254 	BM		Batt 2/3/4 	Fire Operations - Battalions 2, 3, 4 	FM 	Fire-Tac 
-46.12000 	KEG254 	BM	100.0 PL	Batt 5/8/9 	Fire Operations - Battalions 5, 8, 9 	FM 	Fire-Tac 
-154.26500 	WPCG710 	M	054 DPL	Bat 1 Ops 	Fire Operations - Battalion 1 	FMN 	Fire-Talk 
-465.61250 	WPDW219 	M	241.8 PL	Batt 1/8 	Fire Operations - Battalions 1, 8 	FMN 	Fire-Tac 
-460.53750 	WPRH266 	M	423 DPL	Batt 2/3/4 	Fire Operations - Battalions 2, 3, 4 	FMN 	Fire-Tac 
-462.93750 	KD36711 	M	162.2 PL	Batt 6 	Fire Operations - Battalion 6 	FMN 	Fire-Tac 
-465.56250 	KD44303 	M	167.9 PL	Batt 7 	Fire Operations - Battalion 7 	FMN 	Fire-Tac 
-46.22000 	KEG254 	M		Fireground 	Fireground 	FM 	Fire-Tac 
-153.95000 	WPTZ308 	M	110.9 PL	FGnd 01 	Fireground 01 	FMN 	Fire-Tac 
-154.02500 	KNCC591 	BM	110.9 PL	FGnd 16 	Fireground 16 	FMN 	Fire-Tac 
-460.35000 	WQSD757 	M	136.5 PL	NC M/A Tac 1 	Nassau County Mutual Aid Tac 1 	FMN 	Fire-Tac 
-154.11500 	KRX583 	BM	100.0 PL	EMS Dispatch VHF 	EMS Dispatch (Volunteer Ambulance) / Auxiliary Police 	FMN 	EMS Dispatch 
-468.03750 	 	BM	423 DPL	EMS Dispatch UHF 	Simulcast of 154.115 - EMS Dispatch (Volunteer Ambulance) 	FMN 	EMS Dispatch 
-463.02500 	KUJ797 	RM	162.2 PL	Medcom 2 	EMS Med-2 ALS Medical Control 	FMN 	Hospital 
-463.05000 	KUJ797 	RM	162.2 PL	Medcom 3 	EMS Med-3 ALS Medical Control 	FMN 	Hospital 
-463.07500 	KUJ797 	RM	162.2 PL	Medcom 4 	EMS Med-4 ALS Medical Control 	FMN 	Hospital 
-463.10000 	KUJ797 	RM	162.2 PL	Medcom 5 	EMS Med-5 ALS Medical Control 	FMN 	Hospital 
-462.95000 	KUJ797 	RM	162.2 PL	Medcom 9 	EMS Med-9 Hospital Notification 	FMN 	Hospital 
-462.97500 	KUJ797 	RM	162.2 PL	Medcom 10 	EMS Med-10 Hospital Notification 	FMN 	Hospital 
-151.84250 	WQVJ578 	BM	151.4 PL	HatzalahDsp 	Hatzalah of Nassau County - Dispatch 	FMN 	EMS Dispatch 
-151.59500 	WQYG537 	M	167.9 PL	HatzalahTac 	Hatzalah of Nassau County - Tac 	FMN 	EMS-Tac 
-151.54250 	WQYG537 	M	167.9 PL	HatzalahTac 	Hatzalah of Nassau County - Tac 	FMN 	EMS-Tac 
-453.80000 	WQBN399 	RM	151.4 PL	Farmingdale DPW 	Public Works 	FMN 	Public Works 
-464.52500 	 	RM	023 DPL	Farmingdale Code 	Code Enforcement 	FMN 	Public Works 
-460.46250 	WPMF440 	RM	179.9 PL	Freeport PD Det 	Police Detectives 	FMN 	Law Tac 
-472.65000 	WQOA982 	RM	CC 12TG 16776411SL 1	Freeport DPW 	Freeport DPW 	DMR 	Public Works 
-472.67500 	WQOA982 	RM	CC 9TG 16776414SL 1	Freeport Electrc 	Freeport Electric 	DMR 	Public Works 
-156.12000 	 	BM	516 DPL	GCity DPW   	Garden City DPW 	FMN 	Public Works 
-153.86000 	KAX308 	RM	203.5 PL	GCove Police 	Police 	FMN 	Law Dispatch 
-156.21000 	KNBD681 	BM		GCovePolice2 	Police 	FMN 	Law Talk 
-155.47500 	KNBD681 	M	203.5 PL	GCovePolice5 	Police Frequency 5 	FMN 	Law Tac 
-37.94000 	 	BM	186.2 PL	GCove PW  	Public Works 	FM 	Public Works 
-151.40000 	WSL806 	RM	107.2 PL	HmstdBayCnst 	Bay Constables 	FMN 	Law Dispatch 
-159.36000 	WSL806 	BM	107.2 PL	TOH Bay 	Bay Constables Repeater 	FMN 	Public Works 
-477.36250 	KYM817 	BM	123.0 PL	TOH Hwy 	Highway Department 	FMN 	Public Works 
-480.36250 	KV4787 	M	123.0 PL	TOH Hwy 	Highway Department 	FMN 	Public Works 
-477.31250 	KYO867 	RM	123.0 PL	TOHHwySupv 	Highway Supervisors 	FMN 	Public Works 
-453.67500 	WQBD632 	BM	192.8 PL	TOH Parks 	Parks and Recreation 	FMN 	Public Works 
-45.44000 	KRZ973 	BM	192.8 PL	TOH San 1 	Sanitary District #1 	FM 	Public Works 
-158.82000 	KEI774 	BM	141.3 PL	TOH San 2 	Sanitary District #2 	FMN 	Public Works 
-45.28000 	KNHG491 	BM	186.2 PL	TOH San 6 	Sanitary District #6 	FM 	Public Works 
-453.50000 	WIL26 	BM	77.0 PL	TOH San 	Sanitation Department 	FMN 	Public Works 
-154.89750 	 	BM	146.2 PL	TOH Services 	Services 	FMN 	Public Works 
-463.70000 	WQQJ588 	RM	CC 11TG 201SL 2	TOH Water 	Water Department 	DMR 	Public Works 
-156.21000 	 	BM	464 DPL	LB Aux PD A 	Axillary Police 	FMN 	Law Tac 
-158.94750 	WNCC670 	BM	110.9 PL	LB Aux PD B 	Axillary Police 	FMN 	Law Tac 
-155.12250 	WNCC670 	RM	CC 7TG 10002SL 1	LB BldgInsp 	Building Inspectors 	DMR 	Public Works 
-155.05500 	WNCC670 	BM	110.9 PL	LB Highway 	Highway 	FMN 	Public Works 
-460.38000 	WPGI676  	BM		LB LifegrdU 	Lifeguards 	FMN 	Public Works 
-154.74000 	KEB324 	BM	703 DPL	LB Police  	Police 	FMN 	Law Dispatch 
-155.05500 	WNCC670 	BM	132 DPL	LB Sanit  	Sanitation 	FMN 	Public Works 
-464.48750 	WPMN366 	M	206.5 PL	LB Schools  	School District 	FMN 	Schools 
-483.97500 	WPMC522 	RM	82.5 PL	Lynbrk PD U 	Police 	FMN 	Law Tac 
-155.64000 	WNQC973 	BM	82.5 PL	Lynbrk PD V 	Police Dispatch 	FMN 	Law Dispatch 
-37.96000 	KRV301 	BM	82.5 PL	Lynbrk PW 	Public Works  	FM 	Public Works 
-471.35000 	WPYQ992 	RM	131.8 PL	Malv PoliceU 	Police 	FMN 	Law Dispatch 
-155.13000 	KEB455 	BM	131.8 PL	Malv PoliceV 	Police 	FMN 	Law Tac 
-154.04000 	WQPY869 	BM	173.8 PL	NHemp PW 	Town Of North Hempstead Public Works 	FMN 	Public Works 
-155.19000 	KEI438 	RM	203.5 PL	OBrk PD 	Police 	FMN 	Law Dispatch 
-159.99000 	WQSU909 	RM	431 DPL	OBrk DPW 	DPW 	FMN 	Public Works 
-151.05500 	WPVX256 	BM	136.5 PL	OB Highway 	Highway Repeater 	FMN 	Public Works 
-151.10000 	WQGI938 	BM	127.3 PL	OB Gen Srvcs 	Town of Oyster Bay General Services 	FMN 	Public Works 
-153.98000 	WPVX256 	BM	131.8 PL	OB PubSftyA 	Town of Oyster Bay Public Safety 	FMN 	Public Works 
-155.88000 	WPVX256  	BM	127.3 PL	OB PubSftyB 	Public Safety 	FMN 	Law Dispatch 
-156.00000 	WPVX256 	BM	127.3 PL	OB Sanit 	Town of Oyster Bay Sanitation Department 	FMN 	Public Works 
-159.16500 	WPVX256 	BM	141.3 PL	OB HighwayB 	Town of Oyster Bay Highway Department 	FMN 	Public Works 
-154.77000 	KB61603 	RM	131.8 PL	RC Police R 	Police 	FMN 	Law Dispatch 
-153.81500 	KB61603 	M	131.8 PL	RC Police M 	Police 	FMN 	Law Dispatch 
-153.47000 	KEB949 	BM	156.7 PL	RC PW/Elec 	Public Works/Electric Department 	FMN 	Public Works 
-461.55000 	 	RM	210.7 PL	RC Code Enf 	Code Enforcement 	FMN 	Public Works 
-151.04000 	KRF541 	BM	CC 5TG 502SL 1	VS Aux PD 	Auxillary Police 	DMR 	Law Talk 
-151.04000 	KRF541 	BM	CC 5TG 500SL 1	VS DPW 	Department of Public Works 	DMR 	Public Works 
-155.86500 	WNLG468 	RM	203.5 PL	VS DPW 	Department of Public Works 	FMN 	Public Works 
-462.55000 	 	RM	141.3 PL	Want Srvcs  	Services 	FMN 	Public Works 
-453.32500 	KNFL934 	B	100.0 PL	46.10 xbnd 	46.10 Crossband (Hewlett) 	FMN 	Fire Dispatch 
-460.38750 	KEH987 	RM	88.5 PL	46.12XbndCP 	46.12 Crossband (Carle Place) 	FMN 	Fire-Tac 
-453.08750 	WPMQ545 	M	423 DPL	46.12 Xbnd 	46.12 Crossband (Roslyn) 	FMN 	Fire-Tac 
-453.98750 	KD53627 	M	423 DPL	46.20 Xbnd 	46.20 Crossband (East Rockaway) 	FMN 	Fire-Tac 
-471.35000 	WPYQ992 	RM	151.4 PL	46.20 Xbnd 	46.20 Crossband (Malverne) 	FMN 	Fire-Tac 
-458.93750 	WPMY716 	BM	054 DPL	46.20 Xbnd 	46.20 Crossband (Point Lookout-Lido) 	FMN 	Fire-Tac 
-453.63750 	WNXR956 	BM	CSQ	46.20 Xbnd 	46.20 Crossband (Woodmere) 	FMN 	Fire-Tac 
-453.48750 	WQRR245 	RM	103.5 PL	46.32XbndMin 	46.32 Crossband (Mineola) 	FMN 	Fire-Tac 
-453.27500 	WPYE545 	RM	546 DPL	46.32 Xbnd 	46.32 Crossband (Roosevelt) 	FMN 	Fire-Tac 
-467.80000 	 	M	141.3 PL	Bellrose FD 	Bellerose Fireground 	FMN 	Fire-Tac 
-460.37500 	WQEN991 	M	229.1 PL	Bellrose Terr FG 	Bellrose Terrece Fireground 	FMN 	Fire-Tac 
-460.53750 	WPRH266 	M	054 DPL	Floral Park FGnd 	Floral Park Fireground 	FMN 	Fire-Tac 
-155.43000 	KNGG706 	RM	186.2 PL	Garden City EMS 	Garden City EMS (Winthrop Ambulance) 	FMN 	EMS Dispatch 
-154.81500 	KDP986 	RM	186.2 PL	Garden City FD 	Garden City Fire Dispatch 	FMN 	Fire Dispatch 
-153.84500 	KDP986 	BM	423 DPL	Garden City FGnd 	Garden City Fireground 	FMN 	Fire-Tac 
-460.27500 	 	M	466 DPL	Garden City Find 	Garden City Fireground 	FMN 	Fire-Tac 
-460.41250 	WQRR245 	BM	141.3 PL	Mineola FGnd 	Mineola Fireground 	FMN 	Fire-Tac 
-465.61250 	KD53627 	M	107.2 PL	Mineola FGnd 	Mineola Fireground 	FMN 	Fire-Tac 
-458.61250 	KB93247 	M	97.4 PL	NewHydePkFGnd 	New Hyde Park Fire District - Fireground 	FMN 	Fire-Tac 
-453.96250 	WPQA393 	M	97.4 PL	NewHydeParkOps 	New Hyde Park Fire District - Ops 	FMN 	Fire-Tac 
-453.38750 	WQWF383 	M	136.5 PL	Stewart Mnr FGnd 	Stewart Manor Fireground 	FMN 	Fire-Tac 
-502.52500 	WQKU273 	RM	466 DPL	BaldwinFD 	Baldwin Fire District 	FMN 	Fire Dispatch 
-460.17500 	WPBC526 	BM	315 DPL	BlmrMerkEMS 	Bellmore Merrick EMS 	FMN 	EMS Dispatch 
-461.07500 	WPBC526 	M	516 DPL	BelMerEMSTac 	Bellmore Merrick EMS Tac 	FMN 	EMS-Tac 
-155.10000 	KCK525 	RM	123.0 PL	Freeport Dsp 	Freeport Fire Dispatch 	FMN 	Fire Dispatch 
-460.36250 	WQBV769 	RM	167.9 PL	Freeport Dsp 	Freeport Fire Dispatch 	FMN 	Fire Dispatch 
-460.31250 	WQBV769 	M	167.9 PL	Freeport FG 	Freeport Fireground 	FMN 	Fire-Tac 
-460.33750 	WPXP572 	RM	107.2 PL	IslandPrk FD 	Island Park Dispatch 	FMN 	Fire Dispatch 
-465.10000 	 	M	100.0 PL	IslandPK F/G 	Island Park Fireground 	FMN 	Fire-Tac 
-453.31250 	WPMV764 	BM	156.7 PL	LngBch FD 	Long Beach Fire 	FMN 	Fire-Tac 
-453.66250 	WPMV764 	BM	156.7 PL	LngBch FD 	Long Beach Fire 	FMN 	Fire-Talk 
-460.06250 	WPMV764 	RM	156.7 PL	LngBch FD 	Long Beach Fire 	FMN 	Fire Dispatch 
-465.58750 	 	BM	CSQ	LngBch FD 	Long Beach Fire - Sector 	FMN 	Fire-Talk 
-453.03750 	WPMC480 	M	226 DPL	Oceanside FD 	Oceanside Fire District 	FMN 	Fire-Tac 
-453.23750 	WPMC480 	RM	226 DPL	Oceanside FD 	Oceanside Fire District 	FMN 	Fire Dispatch 
-458.91250 	WPMC480 	M	192.8 PL	Oceanside FD 	Oceanside Fire District 	FMN 	Fire-Tac 
-465.62500 	WNWA761 	M	226 DPL	Oceanside FG 	Oceanside Fire District - Fireground 	FMN 	Fire-Tac 
-460.13750 	WPMY716 	RM	054 DPL	Lido PtLkOut 	Point Lookout-Lido Fire District 	FMN 	Fire Dispatch 
-453.16250 	WPMN375 	RM	351 DPL	3B West Alert 	3rd Battalion West - Dispatch 	FMN 	Fire Dispatch 
-453.68750 	WQHV506 	RM	565 DPL	3B West Ops 	3rd Battalion West - Operations 	FMN 	Fire-Tac 
-460.52500 	WPVZ515 	RM	423 DPL	3B West Ops 2 	3rd Battalion West - Operations 2 	FMN 	Fire-Talk 
-465.61250 	KD52298 	M	167.9 PL	3B Fireground 	3rd Battalion Freground 	FMN 	Fire-Tac 
-453.81250 	KD27244 	M	186.2 PL	VlyStream FG 	Valley Stream Fireground 	FMN 	Fire-Tac 
-458.63750 	WNXR956 	M	CSQ	Woodmere FG 	Woodmere Fire District - Fireground 	FMN 	Fire-Tac 
-460.21250 	WPTB465 	RM	423 DPL	EastRckFire1 	East Rockaway Fire 	FMN 	Fire Dispatch 
-460.56250 	WPUI585 	M	167.9 PL	Lkview Fgnd 	Lakeview Fire District - Fireground 	FMN 	Fire-Tac 
-453.88750 	WPMJ235 	M	82.5 PL	Lynbrook FD 	Lynbrook Fire 	FMN 	Fire Dispatch 
-460.02500 	WPUB272 	RM	82.5 PL	Lynbrook FD 	Lynbrook Fire 	FMN 	Fire Dispatch 
-470.82500 	WQAF796 	BM	265 DPL	Malverne FG 	Malverne Fireground 	FMN 	Fire-Tac 
-453.12500 	KBH354 	RM	516 DPL	RckvlCntr XB 	Rockville Center 33.90 Crossband 	FMN 	Fire Dispatch 
-33.90000 	KBH354 	BM	131.8 PL	RckvlCntr FD 	Rockville Center Fire 	FM 	Fire Dispatch 
-453.08750 	KBH354 	M	464 DPL	RckvlCntr FG 	Rockville Center Fireground 	FMN 	Fire-Tac 
-460.37500 	WPVZ361 	RM	466 DPL	E Norwich FD 	East Norwich Fire Company #1 	FMN 	Fire-Tac 
-476.42500 	WQCJ637 	RM	203.5 PL	GlenCoveEMS 	Glen Cove EMS 	FMN 	EMS Dispatch 
-453.07500 	KED283 	RM	203.5 PL	GlenCoveFD 	Glen Cove Fire 	FMN 	Fire-Tac 
-460.20000 	KED283 	RM	151.4 PL	GlenCoveFD 	Glen Cove Fire 	FMN 	Fire Dispatch 
-469.26250 	 	M	516 DPL	GlenCove Tac 	Glen Cove Fire Tac 	FMN 	Fire-Tac 
-453.78750 	KED283 	M	151.4 PL	GlenCove FG1 	Glen Cove Fireground 1 	FMN 	Fire-Tac 
-464.82500 	 	M	151.4 PL	GlenCove FG2 	Glen Cove Fireground 2 	FMN 	Fire-Tac 
-460.58750 	KEB533 	M	127.3 PL	Glenwood 	Glenwood Hook and Ladder, Engine and Hose Company 	FMN 	Fire-Tac 
-453.81250 	WQFW660 	BM	88.5 PL	LocustVly FG 	Locust Valley Fireground 	FMN 	Fire-Tac 
-460.55000 	WPDT424 	RM	206.5 PL	OysterBay FD 	Oyster Bay Fire 	FMN 	Fire-Tac 
-453.22500 	WPTR813 	RM	054 DPL	Roslyn Fire 	Roslyn Fire Company 	FMN 	Fire-Tac 
-453.93750 	WPMQ545 	M	423 DPL	RoslynRescue 	Roslyn Highlands Hook and Ladder Engine and Hose Company - Rescue 	FMN 	Fire-Tac 
-471.07500 	WPZB365 	RM	503 DPL	Seacliff FD 	Seacliff Fire 	FMN 	Fire Dispatch 
-453.51250 	WPVP709 	RM	466 DPL	Seacliff FG 	Seacliff Fireground 	FMN 	Fire-Tac 
-476.28750 	WPYJ816 	RM	79.7 PL	Syosset Chfs 	Syosset Fire Chiefs 	FMN 	Fire-Tac 
-470.13750 	WPYJ816 	RM	123.0 PL	Syosset FD 	Syosset Fire Dispatch/Operations 	FMN 	Fire Dispatch 
-500.61250 	WQEH959 	RM		Sysosset MDT 	Syosset Fire District - MDT 	Telm 	Data 
-501.23750 	WQEH959 	RM		Syosset MDT 	Syosset Fire District - MDT 	Telm 	Data 
-458.71250 	WPGV995 	M	114.8 PL	Syosset FG 	Syosset Fireground 	FMN 	Fire-Tac 
-453.78750 	WPMW813 	BM	466 DPL	Bellmore FD 	Bellmore Fire District 	FMN 	Fire Dispatch 
-453.17500 	WPMW813 	RM	466 DPL	Bellmore FG 	Bellmore Fire District - Fireground 	FMN 	Fire-Tac 
-458.02500 	WPML432 	BM	CSQ	Bellmore VR 	Bellmore Fire District - Vehicle Repeater 	FMN 	Fire-Tac 
-465.60000 	KEC697 	M	192.8 PL	EMeadow Ch 4 	East Meadow Ch. 4 	FMN 	Fire-Talk 
-453.11250 	WPQE834 	M	192.8 PL	EMeadow EMS 	East Meadow EMS 	FMN 	EMS-Talk 
-460.43750 	WPUQ850 	RM	192.8 PL	EMeadow FD 	East Meadow Fire Dispatch 	FMN 	Fire Dispatch 
-472.70000 	WPUQ850 	M	743 DPL	EMeadowFD 	East Meadow Fire District 	FMNe 	Fire-Tac 
-465.62500 	KEC697 	M	192.8 PL	EMeadow FG 	East Meadow Fireground 	FMN 	Fire-Tac 
-460.62500 	KEC697 	RM	192.8 PL	EMeadow FG R 	East Meadow Fireground Repeater 	FMN 	Fire-Tac 
-460.58750 	KD30303 	M	156.7 PL	Levittown FD 	Levittown Fire District 	FMN 	Fire-Tac 
-470.30000 	WPMV500 	RM	97.4 PL	Levittown FD 	Levittown Fire District 	FMN 	Fire Dispatch 
-470.51250 	WIG946 	RM	072 DPL	Masspqua 	Massapequa Fire District 	FMN 	Fire Dispatch 
-460.63750 	WPDW219 	RM	141.3 PL	Mass EMS 	Massapequa Fire District - EMS 	FMN 	EMS Dispatch 
-460.61250 	WPDW219 	RM	146.2 PL	Mass Fgnd 	Massapequa Fire District - Fireground 	FMN 	Fire-Tac 
-153.83000 	WPTD372 	M	192.8 PL	Merrick FD 	Merrick Fire 	FMN 	Fire Dispatch 
-458.75000 	WQCH298 	M	054 DPL	Merrick FD 	Merrick Fire 	FMN 	Fire-Tac 
-153.83000 	WPTD372 	M	167.9 PL	Merrick FG 	Merrick Fireground 	FMN 	Fire-Tac 
-458.75000 	WQCH298 	M	192.8 PL	Merrick FD 	Merrick Vehicle Repeater 	FMN 	Fire-Tac 
-453.07500 	WPPB949 	BM	136.5 PL	N BellmoreFD 	North Bellmore Fire District 	FMN 	Fire-Tac 
-460.53750 	 	M	167.9 PL	N BellmoreFD 	North Bellmore Fire District 	FMN 	Fire-Tac 
-453.85000 	WPMX708 	RM	167.9 PL	N BellmoreFD 	North Bellmore Fire District - Dispatch 	FMN 	Fire Dispatch 
-458.11250 	WPMF964 	M	167.9 PL	NBellmoreFG 	North Bellmore Fire District - Fireground 	FMN 	Fire-Tac 
-453.38750 	WPEH966 	BM	466 DPL	N Mass FD 	North Massapequa Fire District 	FMN 	Fire-Talk 
-453.41250 	WPEH966 	BM	466 DPL	N Mass FD 	North Massapequa Fire District 	FMN 	Fire Dispatch 
-460.53750 	 	M	466 DPL	N Mass FD 	North Massapequa Fire District 	FMN 	Fire-Tac 
-170.15000 	WPGM278 	RM	151.4 PL	N Merrick FD 	North Merrick Fire District 	FMN 	Fire-Tac 
-170.51250 	 	BM	151.4 PL	N Merrick FD 	North Merrick Fire District 	FMN 	Fire-Tac 
-465.15000 	WQMM696 	M	073 DPL	N.MerrickFPD 	North Merrick Fire District Fire Police 	FMN 	Fire-Tac 
-484.70000 	WQMM696 	RM	100.0 PL	N Merrick FD 	North Merrick Fire District Ops 	FMN 	Fire Dispatch 
-453.98750 	WQBA210 	M	466 DPL	N.Merrick FG 	North Merrick Fire Ground 	FMN 	Fire-Tac 
-460.15000 	WQMM696 	BM	136.5 PL	N MerrickVR 	North Merrick Vehicle Repeater 	FMN 	Fire-Tac 
-453.28750 	WPEH968 	RM	77.0 PL	Seaford FD 	Seaford Fire District 	FMN 	Fire Dispatch 
-453.56250 	WPDQ318 	M	162.2 PL	Wantagh Chfs 	Wantagh Chiefs 	FMN 	Fire-Tac 
-458.36250 	KNNK419 	BM	162.2 PL	Wantagh F2 	Wantagh F2 	FMN 	Fire-Talk 
-471.31250 	WNAM372 	RM	162.2 PL	Wantagh FD 	Wantagh Fire Dispatch 	FMN 	Fire Dispatch 
-460.07500 	WPVT362 	BM	162.2 PL	Wantagh 	Wantagh Fire District 	FMN 	Fire-Talk 
-453.36250 	KNNK419 	BM	162.2 PL	Wantagh FG 	Wantagh Fireground 	FMN 	Fire-Tac 
-484.96250 	WIM593 	RM	156.7 PL	Elmont FD 	Elmont Fire District 	FMN 	Fire Dispatch 
-453.18750 	WPCI917 	M	466 DPL	Elmont FGnd 	Elmont Fire District - Fireground 	FMN 	Fire-Tac 
-453.53750 	WPCI917 	BM	466 DPL	Elmont Fgnd 	Elmont Fire District - Fireground 	FMN 	Fire-Tac 
-465.60000 	WPXE229 	M	156.7 PL	Elmont FGnd 	Elmont Fire District - Fireground 	FMN 	Fire-Tac 
-453.46250 	WPKX623 	M	023 DPL	Fklyn Sq FD 	Franklin Square and Munson Fire District - Fireground 	FMN 	Fire-Tac 
-460.22500 	WPKX623 	RM	114.8 PL	Fklyn Sq FD 	Franklin Square and Munson Fire District - Fireground 	FMN 	Fire-Tac 
-154.98000 	KBW814 	BM	146.2 PL	Hempstead FD 	Hempstead Fire 	FMN 	Fire Dispatch 
-154.07000 	KTO545 	M	146.2 PL	Hempstead FG 	Hempstead Fireground 	FMN 	Fire-Tac 
-478.61250 	WQAD700 	RM	423 DPL	Uniondale FG 	Uniondale Fire District - Fireground 	FMN 	Fire-Tac 
-460.17500 	KED761 	RM	466 DPL	WHempstd FD 	West Hempstead Fire District 	FMN 	Fire-Tac 
-460.05000 	WQAX950 	RM	466 DPL	Albertson FD 	Albertson Fire Company 	FMN 	Fire-Tac 
-154.31750 	WPKY966 	RM	466 DPL	Alert HL 2 	Alert Engine Hook and Ladder Hose Company #1 	FMN 	Fire-Tac 
-154.86000 	WNKP374 	RM	156.7 PL	Grt Neck FD 	Great Neck Vigilant Fire Company 	FMN 	Fire-Tac 
-155.93250 	WPMZ641 	RM	466 DPL	Grt Neck FD 	Great Neck Vigilant Fire Company 	FMN 	Fire-Tac 
-155.14500 	WQNF566 	BM	110.9 PL	MLFD 	Manhasset Lakeville Fire District 	FMN 	Fire-Talk 
-153.83000 	WPNU292 	M	110.9 PL	Pt.Wash 	Port Washington Fire Department 	FMN 	Fire-Tac 
-153.89000 	WPNU292 	M	141.3 PL	PtWashFgnd 	Port Washington Fire Department - Fireground 	FMN 	Fire-Tac 
-453.92500 	WPIA991 	RM	072 DPL	Bthpge FD 	Bethpage Fire District 	FMN 	Fire Dispatch 
-453.93750 	WPIA991 	M	411 DPL	Bthpge FD 	Bethpage Fire District 	FMN 	Fire-Tac 
-453.63750 	WPIA991 	M	411 DPL	Bthpge FGnd 	Bethpage Fire District - Fireground 	FMN 	Fire-Tac 
-453.51250 	 	RM	156 DPL	Carle Place 	Carle Place Hook and Ladder and Hose Company #1 	FMN 	Fire-Tac 
-465.57500 	 	BM	127.3 PL	Carle Place 	Carle Place Hook and Ladder and Hose Company #1 	FMN 	Fire-Tac 
-460.41250 	WQOV716 	RM	664 DPL	FrmngdaleOps 	Farmingdale FD Operations 	FMN 	Fire Dispatch 
-154.20500 	WPAG265 	B		HicksvilleFD 	Hicksville Fire District 	FMN 	Fire-Tac 
-453.26250 	WPMG263 	RM	127.3 PL	HicksvilleFD 	Hicksville Fire District - Dispatch 	FMN 	Fire Dispatch 
-453.71250 	WPMG263 	M	127.3 PL	Hicksville F 	Hicksville Fireground 1 	FMN 	Fire-Tac 
-453.61250 	WPMG263 	M	127.3 PL	Hicksville F 	Hicksville Fireground 2 	FMN 	Fire-Tac 
-453.43750 	WPMG263 	M	127.3 PL	Hicksville F 	Hicksville Fireground 3 	FMN 	Fire-Tac 
-453.83750 	WPMG263 	BM	127.3 PL	HicksvilleOp 	Hicksville Operations 	FMN 	Fire-Tac 
-460.60000 	KEG503 	RM	88.5 PL	Jericho FD 	Jericho Fire District 	FMN 	Fire Dispatch 
-477.16250 	WPVJ467 	RM	114.8 PL	Plainview FD Dsp 	Plainview Fire - Dispatch 	FMN 	Fire Dispatch 
-460.48750 	KEE716 	M	114.8 PL	PlainviewFD2 	Plainview Fire Ch. 2  	FMN 	Fire-Tac 
-453.88750 	KAV466 	M	67.0 PL	S Fdale FD 	South Farmingdale Fire District 	FMN 	Fire-Tac 
-453.10000 	WPXA816 	RM	114.8 PL	Westbury FD 	Westbury Fire District - Dispatch 	FMN 	Fire Dispatch 
-465.52500 	WQVX892 	BM	203.5 PL	Westbury Fgnd 	Westbury Fire District - Fireground 	FMN 	Fire-Tac 
-461.05000 	WPJX422 	RM	743 DPL	BaldwinSD 	Baldwin Schools 	FMN 	Schools 
-472.53750 	WIG241 	BM	CSQ	Baumann 	Baumann Bus Company 	FMN 	Schools 
-464.57500 	WPHW976 	RM	74.4 PL	Bel-MerCHSD 	Bellmore-Merrick Central School District 	FMN 	Schools 
-464.57500 	WPHW976 	RM	118.8 PL	Bel-Mer Bus  	Bellmore-Merrick Central School District Buses 	FMN 	Schools 
-464.57500 	WPHW976 	RM	67.0 PL	Bel-Mer Bus 	Bellmore-Merrick Central School District Buses 	FMN 	Schools 
-464.57500 	WPHW976 	RM	186.2 PL	Bel-MerMaint 	Bellmore-Merrick Central School District Maintenance 	FMN 	Schools 
-461.92500 	WPUE401 	BM	156.7 PL	First Studen 	First Student School Buses 	FMN 	Schools 
-464.72500 	WQSU708 	BM	156.7 PL	First Studen 	First Student School Buses 	FMN 	Schools 
-464.12500 	WQSU708 	BM	156.7 PL	1stStudent 	First Student(Alternate Routes) 	FMN 	Schools 
-463.92500 	WPCY201 	RM	156.7 PL	1stStudentAll 	First Student(Area wide) 	FMN 	Schools 
-461.92500 	WPUE401 	BM	156.7 PL	1stStudent 	First Student(Freeport Base) 	FMN 	Schools 
-464.72500 	WQSU708 	BM	156.7 PL	1stStuden 	First Student(Hicksville Base) 	FMN 	Schools 
-461.37500 	KNGZ461 	BM	91.5 PL	FloralPkUFSD 	Floral Park Bellerose UFSD 	FMN 	Schools 
-151.49000 	WPPV317 	BM	423 DPL	FreeportHS 	Freeport High School 	FMN 	Schools 
-33.08000 	WPMT599 	BM	136.5 PL	GCUFSD Buses 	Garden City Union Free School District Buses 	FM 	Schools 
-152.45750 	WQVU857 	BM	116 DPL	GreatNeckPS 	Great Neck Public Schools 	FMN 	Schools 
-461.87500 	WPBN782 	RM	97.4 PL	HempSchools 	Hempstead Public Schools 	FMN 	Schools 
-461.08750 	KD46982 	BM	127.3 PL	HewlettWoodm 	Hewlett Woodmere School District 	FMN 	Schools 
-461.65000 	WQYA486 	RM	CC 15TG 2SL 2	Lawrence UFSD 	Lawrence Union Free School District 	DMR 	Schools 
-464.87500 	WXX264 	RM	88.5 PL	LUFSD Buses 	Levittown Union Free School District Buses 	FMN 	Schools 
-464.42500 	WXX264 	RM	100.0 PL	LevtwnUFSDSec 	Levittown Union Free School District Security 	FMN 	Schools 
-463.96250 	WQTL837 	BM	156.7 PL	LoganBus 	Logan/Guardian Bus Co. 	FMN 	Schools 
-153.00500 	WQBH470 	BM	146.2 PL	LongBeachBus 	Long Beach School District Buses 	FMN 	Schools 
-464.97500 	WNHK557 	BM	043 DPL	Merrick 	Merrick School District 	FMN 	Schools 
-157.47000 	WNVG854 	RM	CC 1TG *SL *	N Shore Buses 	North Shore School Buses 	DMR 	Schools 
-461.17500 	WQUT244 	RM	136.5 PL	N Shore Buses 	North Shore School Buses 	FMN 	Schools 
-464.82500 	KNHW495 	BM	146.2 PL	RockvilleCtr 	Rockville Centre School District 	FMN 	Schools 
-451.41250 	WQQN253 	RM	606 DPL	WestburyUFSD 	Westbury Union Free School District 	FMN 	Schools 
-451.82500 	WPQI869 	BM	343 DPL	Adelphi PubSafty 	Public Safety 	FMN 	Security 
-462.15000 	WPDQ563 	BM	026 DPL	Adelphi Maintenc 	Maintenance 	FMN 	Schools 
-462.42500 	WPQI869 	BM	343 DPL	Adelphi Housekpg 	Housekeeping 	FMN 	Schools 
-464.61250 	WPFY941 	BM	072 DPL	Adelphi Buses 	Buses/Public Safety Ch 2 	FMN 	Schools 
-464.52500 	WPGN290 	RM	466 DPL	Hofstra PubSafty 	Public Safety, Bus, Dispatch 	FMN 	Schools 
-467.17500 	WPAL380 	M	CSQ	Hofstra Events 	Office of Event Management 	FMN 	Schools 
-462.30000 	WPZK973 	M	CSQ	Hofstra Maintnce 	Maintenance 	FMN 	Schools 
-464.77500 	WPYN388 	RM	205 DPL	Hoftra Plant Mnt 	Plant Maintenance 	FMN 	Schools 
-462.45000 	WQFC587 	RM	343 DPL	Hofstra Athletic 	Athletics Building 	FMN 	Schools 
-464.97500 	KNHS201 	BM	032 DPL	Molloy Security 	Security 	FMN 	Security 
-154.10000 	KJU257 	BM	110.9 PL	NCC Pub Safety 	Public Safety 	FMN 	Security 
-460.25000 	KNFS824 	BM	186.2 PL	SUNY OW Police 	University Police 	FMN 	Law Dispatch 
-162.61250 	 	M		USMMA Ops 	Operations 	FMN 	Federal 
-408.00000 	 	RM	151.4 PL	USPS Hicksvl 	Hicksville Yard Ops 	FMN 	Federal 
-409.02500 	 	RM	110.9 PL	NassUSPSDiss 	Mail Carriers (Nassau Dispatch) 	FMN 	Federal 
-Amboy Bus Co	 LTR Standard	 Plainview	Atlantic Telecommunications	 LTR Net	 Various	Hempstead Public Safety System	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Hempstead	Long Beach City School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Long Beach	Metro-25/MTA MRRS	 Project 25 Phase II	 Regional	MTA Regional Bus
- Motorola Type II SmartZone	 New York	Nassau County Public Safety (EDACS)	 EDACS Standard	 Nassau County	Nassau County Public Safety (P25)	 Project 25 Phase II	 Nassau County
-Nassau Suffolk Communications (LTR)	 LTR Standard	 Plainview	Nassau Suffolk Communications (NEXEDGE)	 NXDN NEXEDGE 4800	 Regional	Norcom Communications (Nassau)	 LTR Standard
- Nassau	North Shore University Hospital at Plainview	 DMR Hytera XPT	 Plainview	NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional	OneVoice Network
- DMR Motorola Connect Plus (TRBO)	 Various	PSEG Long Island	 Project 25 Phase II	 Long Island	Radon OID	 Motorola Type IIi Hybrid	 Plainview
-RF Design Consultants	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Regional	South Farmingdale Water District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Farmingdale	Specialized Mobile Radio	 LTR Standard
- New York	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Town of Hempstead General Services	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Hempstead	Veterans Transportation
- LTR Standard	 Plainview	
+153.74000 	   	KLC950 	BM	131.8 PL	AIR/MRNVHF 	NCPD Aviation VHF 	FMN 	Law Dispatch 
+46.10000 	   	KEG254 	BM		FireDisp 	Countywide Dispatch 	FM 	Fire Dispatch 
+453.87500 	458.87500  	KMJ857  	BM	100.0 PL	NCFD UHF Dspch 	Countywide UHF Dispatch 	FMN 	Fire Dispatch 
+453.32500 	458.32500  	KNFL934 	RM	100.0 PL	NCFD UHF Dsp 2 	Countywide UHF Dispatch 2 	FMN 	Fire-Tac 
+46.32000 	   	KEG254 	BM		Batt 1/6/7 	Fire Operations - Battalions 1, 6, 7 	FM 	Fire-Tac 
+46.20000 	   	KEG254 	BM		Batt 2/3/4 	Fire Operations - Battalions 2, 3, 4 	FM 	Fire-Tac 
+46.12000 	   	KEG254 	BM	100.0 PL	Batt 5/8/9 	Fire Operations - Battalions 5, 8, 9 	FM 	Fire-Tac 
+154.26500 	   	WPCG710 	M	054 DPL	Bat 1 Ops 	Fire Operations - Battalion 1 	FMN 	Fire-Talk 
+465.61250 	   	WPDW219 	M	241.8 PL	Batt 1/8 	Fire Operations - Battalions 1, 8 	FMN 	Fire-Tac 
+460.53750 	   	WPRH266 	M	423 DPL	Batt 2/3/4 	Fire Operations - Battalions 2, 3, 4 	FMN 	Fire-Tac 
+462.93750 	   	KD36711 	M	162.2 PL	Batt 6 	Fire Operations - Battalion 6 	FMN 	Fire-Tac 
+465.56250 	   	KD44303 	M	167.9 PL	Batt 7 	Fire Operations - Battalion 7 	FMN 	Fire-Tac 
+46.22000 	   	KEG254 	M		Fireground 	Fireground 	FM 	Fire-Tac 
+153.95000 	   	WPTZ308 	M	110.9 PL	FGnd 01 	Fireground 01 	FMN 	Fire-Tac 
+154.02500 	   	KNCC591 	BM	110.9 PL	FGnd 16 	Fireground 16 	FMN 	Fire-Tac 
+460.35000 	   	WQSD757 	M	136.5 PL	NC M/A Tac 1 	Nassau County Mutual Aid Tac 1 	FMN 	Fire-Tac 
+154.11500 	   	KRX583 	BM	100.0 PL	EMS Dispatch VHF 	EMS Dispatch (Volunteer Ambulance) / Auxiliary Police 	FMN 	EMS Dispatch 
+468.03750 	   	 	BM	423 DPL	EMS Dispatch UHF 	Simulcast of 154.115 - EMS Dispatch (Volunteer Ambulance) 	FMN 	EMS Dispatch 
+463.02500 	468.02500  	KUJ797 	RM	162.2 PL	Medcom 2 	EMS Med-2 ALS Medical Control 	FMN 	Hospital 
+463.05000 	468.05000  	KUJ797 	RM	162.2 PL	Medcom 3 	EMS Med-3 ALS Medical Control 	FMN 	Hospital 
+463.07500 	468.07500  	KUJ797 	RM	162.2 PL	Medcom 4 	EMS Med-4 ALS Medical Control 	FMN 	Hospital 
+463.10000 	468.10000  	KUJ797 	RM	162.2 PL	Medcom 5 	EMS Med-5 ALS Medical Control 	FMN 	Hospital 
+462.95000 	467.95000  	KUJ797 	RM	162.2 PL	Medcom 9 	EMS Med-9 Hospital Notification 	FMN 	Hospital 
+462.97500 	467.97500  	KUJ797 	RM	162.2 PL	Medcom 10 	EMS Med-10 Hospital Notification 	FMN 	Hospital 
+151.84250 	   	WQVJ578 	BM	151.4 PL	HatzalahDsp 	Hatzalah of Nassau County - Dispatch 	FMN 	EMS Dispatch 
+151.59500 	   	WQYG537 	M	167.9 PL	HatzalahTac 	Hatzalah of Nassau County - Tac 	FMN 	EMS-Tac 
+151.54250 	   	WQYG537 	M	167.9 PL	HatzalahTac 	Hatzalah of Nassau County - Tac 	FMN 	EMS-Tac 
+453.80000 	458.80000  	WQBN399 	RM	151.4 PL	Farmingdale DPW 	Public Works 	FMN 	Public Works 
+464.52500 	469.52500  	 	RM	023 DPL	Farmingdale Code 	Code Enforcement 	FMN 	Public Works 
+460.46250 	465.46250  	WPMF440 	RM	179.9 PL	Freeport PD Det 	Police Detectives 	FMN 	Law Tac 
+472.65000 	475.65000  	WQOA982 	RM	CC 12TG 16776411SL 1	Freeport DPW 	Freeport DPW 	DMR 	Public Works 
+472.67500 	475.67500  	WQOA982 	RM	CC 9TG 16776414SL 1	Freeport Electrc 	Freeport Electric 	DMR 	Public Works 
+156.12000 	   	 	BM	516 DPL	GCity DPW   	Garden City DPW 	FMN 	Public Works 
+153.86000 	155.11500  	KAX308 	RM	203.5 PL	GCove Police 	Police 	FMN 	Law Dispatch 
+156.21000 	   	KNBD681 	BM		GCovePolice2 	Police 	FMN 	Law Talk 
+155.47500 	   	KNBD681 	M	203.5 PL	GCovePolice5 	Police Frequency 5 	FMN 	Law Tac 
+37.94000 	   	 	BM	186.2 PL	GCove PW  	Public Works 	FM 	Public Works 
+151.40000 	159.36000  	WSL806 	RM	107.2 PL	HmstdBayCnst 	Bay Constables 	FMN 	Law Dispatch 
+159.36000 	   	WSL806 	BM	107.2 PL	TOH Bay 	Bay Constables Repeater 	FMN 	Public Works 
+477.36250 	   	KYM817 	BM	123.0 PL	TOH Hwy 	Highway Department 	FMN 	Public Works 
+480.36250 	   	KV4787 	M	123.0 PL	TOH Hwy 	Highway Department 	FMN 	Public Works 
+477.31250 	480.31250  	KYO867 	RM	123.0 PL	TOHHwySupv 	Highway Supervisors 	FMN 	Public Works 
+453.67500 	   	WQBD632 	BM	192.8 PL	TOH Parks 	Parks and Recreation 	FMN 	Public Works 
+45.44000 	   	KRZ973 	BM	192.8 PL	TOH San 1 	Sanitary District #1 	FM 	Public Works 
+158.82000 	   	KEI774 	BM	141.3 PL	TOH San 2 	Sanitary District #2 	FMN 	Public Works 
+45.28000 	   	KNHG491 	BM	186.2 PL	TOH San 6 	Sanitary District #6 	FM 	Public Works 
+453.50000 	   	WIL26 	BM	77.0 PL	TOH San 	Sanitation Department 	FMN 	Public Works 
+154.89750 	   	 	BM	146.2 PL	TOH Services 	Services 	FMN 	Public Works 
+463.70000 	468.70000  	WQQJ588 	RM	CC 11TG 201SL 2	TOH Water 	Water Department 	DMR 	Public Works 
+156.21000 	   	 	BM	464 DPL	LB Aux PD A 	Axillary Police 	FMN 	Law Tac 
+158.94750 	   	WNCC670 	BM	110.9 PL	LB Aux PD B 	Axillary Police 	FMN 	Law Tac 
+155.12250 	   	WNCC670 	RM	CC 7TG 10002SL 1	LB BldgInsp 	Building Inspectors 	DMR 	Public Works 
+155.05500 	   	WNCC670 	BM	110.9 PL	LB Highway 	Highway 	FMN 	Public Works 
+460.38000 	465.38750  	WPGI676  	BM		LB LifegrdU 	Lifeguards 	FMN 	Public Works 
+154.74000 	   	KEB324 	BM	703 DPL	LB Police  	Police 	FMN 	Law Dispatch 
+155.05500 	   	WNCC670 	BM	132 DPL	LB Sanit  	Sanitation 	FMN 	Public Works 
+464.48750 	469.48750  	WPMN366 	M	206.5 PL	LB Schools  	School District 	FMN 	Schools 
+483.97500 	486.97500  	WPMC522 	RM	82.5 PL	Lynbrk PD U 	Police 	FMN 	Law Tac 
+155.64000 	   	WNQC973 	BM	82.5 PL	Lynbrk PD V 	Police Dispatch 	FMN 	Law Dispatch 
+37.96000 	   	KRV301 	BM	82.5 PL	Lynbrk PW 	Public Works  	FM 	Public Works 
+471.35000 	474.35000  	WPYQ992 	RM	131.8 PL	Malv PoliceU 	Police 	FMN 	Law Dispatch 
+155.13000 	   	KEB455 	BM	131.8 PL	Malv PoliceV 	Police 	FMN 	Law Tac 
+154.04000 	   	WQPY869 	BM	173.8 PL	NHemp PW 	Town Of North Hempstead Public Works 	FMN 	Public Works 
+155.19000 	156.15000  	KEI438 	RM	203.5 PL	OBrk PD 	Police 	FMN 	Law Dispatch 
+159.99000 	151.83500  	WQSU909 	RM	431 DPL	OBrk DPW 	DPW 	FMN 	Public Works 
+151.05500 	   	WPVX256 	BM	136.5 PL	OB Highway 	Highway Repeater 	FMN 	Public Works 
+151.10000 	   	WQGI938 	BM	127.3 PL	OB Gen Srvcs 	Town of Oyster Bay General Services 	FMN 	Public Works 
+153.98000 	   	WPVX256 	BM	131.8 PL	OB PubSftyA 	Town of Oyster Bay Public Safety 	FMN 	Public Works 
+155.88000 	   	WPVX256  	BM	127.3 PL	OB PubSftyB 	Public Safety 	FMN 	Law Dispatch 
+156.00000 	   	WPVX256 	BM	127.3 PL	OB Sanit 	Town of Oyster Bay Sanitation Department 	FMN 	Public Works 
+159.16500 	   	WPVX256 	BM	141.3 PL	OB HighwayB 	Town of Oyster Bay Highway Department 	FMN 	Public Works 
+154.77000 	153.81500  	KB61603 	RM	131.8 PL	RC Police R 	Police 	FMN 	Law Dispatch 
+153.81500 	   	KB61603 	M	131.8 PL	RC Police M 	Police 	FMN 	Law Dispatch 
+153.47000 	   	KEB949 	BM	156.7 PL	RC PW/Elec 	Public Works/Electric Department 	FMN 	Public Works 
+461.55000 	466.55000  	 	RM	210.7 PL	RC Code Enf 	Code Enforcement 	FMN 	Public Works 
+151.04000 	   	KRF541 	BM	CC 5TG 502SL 1	VS Aux PD 	Auxillary Police 	DMR 	Law Talk 
+151.04000 	   	KRF541 	BM	CC 5TG 500SL 1	VS DPW 	Department of Public Works 	DMR 	Public Works 
+155.86500 	151.04000  	WNLG468 	RM	203.5 PL	VS DPW 	Department of Public Works 	FMN 	Public Works 
+462.55000 	467.55000  	 	RM	141.3 PL	Want Srvcs  	Services 	FMN 	Public Works 
+453.32500 	   	KNFL934 	B	100.0 PL	46.10 xbnd 	46.10 Crossband (Hewlett) 	FMN 	Fire Dispatch 
+460.38750 	   	KEH987 	RM	88.5 PL	46.12XbndCP 	46.12 Crossband (Carle Place) 	FMN 	Fire-Tac 
+453.08750 	   	WPMQ545 	M	423 DPL	46.12 Xbnd 	46.12 Crossband (Roslyn) 	FMN 	Fire-Tac 
+453.98750 	   	KD53627 	M	423 DPL	46.20 Xbnd 	46.20 Crossband (East Rockaway) 	FMN 	Fire-Tac 
+471.35000 	474.35000  	WPYQ992 	RM	151.4 PL	46.20 Xbnd 	46.20 Crossband (Malverne) 	FMN 	Fire-Tac 
+458.93750 	   	WPMY716 	BM	054 DPL	46.20 Xbnd 	46.20 Crossband (Point Lookout-Lido) 	FMN 	Fire-Tac 
+453.63750 	   	WNXR956 	BM	CSQ	46.20 Xbnd 	46.20 Crossband (Woodmere) 	FMN 	Fire-Tac 
+453.48750 	   	WQRR245 	RM	103.5 PL	46.32XbndMin 	46.32 Crossband (Mineola) 	FMN 	Fire-Tac 
+453.27500 	458.27500  	WPYE545 	RM	546 DPL	46.32 Xbnd 	46.32 Crossband (Roosevelt) 	FMN 	Fire-Tac 
+467.80000 	   	 	M	141.3 PL	Bellrose FD 	Bellerose Fireground 	FMN 	Fire-Tac 
+460.37500 	   	WQEN991 	M	229.1 PL	Bellrose Terr FG 	Bellrose Terrece Fireground 	FMN 	Fire-Tac 
+460.53750 	   	WPRH266 	M	054 DPL	Floral Park FGnd 	Floral Park Fireground 	FMN 	Fire-Tac 
+155.43000 	153.50000  	KNGG706 	RM	186.2 PL	Garden City EMS 	Garden City EMS (Winthrop Ambulance) 	FMN 	EMS Dispatch 
+154.81500 	153.92000  	KDP986 	RM	186.2 PL	Garden City FD 	Garden City Fire Dispatch 	FMN 	Fire Dispatch 
+153.84500 	   	KDP986 	BM	423 DPL	Garden City FGnd 	Garden City Fireground 	FMN 	Fire-Tac 
+460.27500 	   	 	M	466 DPL	Garden City Find 	Garden City Fireground 	FMN 	Fire-Tac 
+460.41250 	   	WQRR245 	BM	141.3 PL	Mineola FGnd 	Mineola Fireground 	FMN 	Fire-Tac 
+465.61250 	   	KD53627 	M	107.2 PL	Mineola FGnd 	Mineola Fireground 	FMN 	Fire-Tac 
+458.61250 	   	KB93247 	M	97.4 PL	NewHydePkFGnd 	New Hyde Park Fire District - Fireground 	FMN 	Fire-Tac 
+453.96250 	   	WPQA393 	M	97.4 PL	NewHydeParkOps 	New Hyde Park Fire District - Ops 	FMN 	Fire-Tac 
+453.38750 	   	WQWF383 	M	136.5 PL	Stewart Mnr FGnd 	Stewart Manor Fireground 	FMN 	Fire-Tac 
+502.52500 	505.52500  	WQKU273 	RM	466 DPL	BaldwinFD 	Baldwin Fire District 	FMN 	Fire Dispatch 
+460.17500 	   	WPBC526 	BM	315 DPL	BlmrMerkEMS 	Bellmore Merrick EMS 	FMN 	EMS Dispatch 
+461.07500 	   	WPBC526 	M	516 DPL	BelMerEMSTac 	Bellmore Merrick EMS Tac 	FMN 	EMS-Tac 
+155.10000 	158.77500  	KCK525 	RM	123.0 PL	Freeport Dsp 	Freeport Fire Dispatch 	FMN 	Fire Dispatch 
+460.36250 	465.36250  	WQBV769 	RM	167.9 PL	Freeport Dsp 	Freeport Fire Dispatch 	FMN 	Fire Dispatch 
+460.31250 	   	WQBV769 	M	167.9 PL	Freeport FG 	Freeport Fireground 	FMN 	Fire-Tac 
+460.33750 	465.33750  	WPXP572 	RM	107.2 PL	IslandPrk FD 	Island Park Dispatch 	FMN 	Fire Dispatch 
+465.10000 	   	 	M	100.0 PL	IslandPK F/G 	Island Park Fireground 	FMN 	Fire-Tac 
+453.31250 	   	WPMV764 	BM	156.7 PL	LngBch FD 	Long Beach Fire 	FMN 	Fire-Tac 
+453.66250 	   	WPMV764 	BM	156.7 PL	LngBch FD 	Long Beach Fire 	FMN 	Fire-Talk 
+460.06250 	465.06250  	WPMV764 	RM	156.7 PL	LngBch FD 	Long Beach Fire 	FMN 	Fire Dispatch 
+465.58750 	   	 	BM	CSQ	LngBch FD 	Long Beach Fire - Sector 	FMN 	Fire-Talk 
+453.03750 	   	WPMC480 	M	226 DPL	Oceanside FD 	Oceanside Fire District 	FMN 	Fire-Tac 
+453.23750 	458.23750  	WPMC480 	RM	226 DPL	Oceanside FD 	Oceanside Fire District 	FMN 	Fire Dispatch 
+458.91250 	   	WPMC480 	M	192.8 PL	Oceanside FD 	Oceanside Fire District 	FMN 	Fire-Tac 
+465.62500 	   	WNWA761 	M	226 DPL	Oceanside FG 	Oceanside Fire District - Fireground 	FMN 	Fire-Tac 
+460.13750 	465.13750  	WPMY716 	RM	054 DPL	Lido PtLkOut 	Point Lookout-Lido Fire District 	FMN 	Fire Dispatch 
+453.16250 	458.16250  	WPMN375 	RM	351 DPL	3B West Alert 	3rd Battalion West - Dispatch 	FMN 	Fire Dispatch 
+453.68750 	458.68750  	WQHV506 	RM	565 DPL	3B West Ops 	3rd Battalion West - Operations 	FMN 	Fire-Tac 
+460.52500 	465.52500  	WPVZ515 	RM	423 DPL	3B West Ops 2 	3rd Battalion West - Operations 2 	FMN 	Fire-Talk 
+465.61250 	   	KD52298 	M	167.9 PL	3B Fireground 	3rd Battalion Freground 	FMN 	Fire-Tac 
+453.81250 	   	KD27244 	M	186.2 PL	VlyStream FG 	Valley Stream Fireground 	FMN 	Fire-Tac 
+458.63750 	   	WNXR956 	M	CSQ	Woodmere FG 	Woodmere Fire District - Fireground 	FMN 	Fire-Tac 
+460.21250 	465.21250  	WPTB465 	RM	423 DPL	EastRckFire1 	East Rockaway Fire 	FMN 	Fire Dispatch 
+460.56250 	   	WPUI585 	M	167.9 PL	Lkview Fgnd 	Lakeview Fire District - Fireground 	FMN 	Fire-Tac 
+453.88750 	   	WPMJ235 	M	82.5 PL	Lynbrook FD 	Lynbrook Fire 	FMN 	Fire Dispatch 
+460.02500 	465.02500  	WPUB272 	RM	82.5 PL	Lynbrook FD 	Lynbrook Fire 	FMN 	Fire Dispatch 
+470.82500 	   	WQAF796 	BM	265 DPL	Malverne FG 	Malverne Fireground 	FMN 	Fire-Tac 
+453.12500 	458.12500  	KBH354 	RM	516 DPL	RckvlCntr XB 	Rockville Center 33.90 Crossband 	FMN 	Fire Dispatch 
+33.90000 	   	KBH354 	BM	131.8 PL	RckvlCntr FD 	Rockville Center Fire 	FM 	Fire Dispatch 
+453.08750 	   	KBH354 	M	464 DPL	RckvlCntr FG 	Rockville Center Fireground 	FMN 	Fire-Tac 
+460.37500 	465.37500  	WPVZ361 	RM	466 DPL	E Norwich FD 	East Norwich Fire Company #1 	FMN 	Fire-Tac 
+476.42500 	479.42500  	WQCJ637 	RM	203.5 PL	GlenCoveEMS 	Glen Cove EMS 	FMN 	EMS Dispatch 
+453.07500 	458.07500  	KED283 	RM	203.5 PL	GlenCoveFD 	Glen Cove Fire 	FMN 	Fire-Tac 
+460.20000 	465.20000  	KED283 	RM	151.4 PL	GlenCoveFD 	Glen Cove Fire 	FMN 	Fire Dispatch 
+469.26250 	   	 	M	516 DPL	GlenCove Tac 	Glen Cove Fire Tac 	FMN 	Fire-Tac 
+453.78750 	   	KED283 	M	151.4 PL	GlenCove FG1 	Glen Cove Fireground 1 	FMN 	Fire-Tac 
+464.82500 	   	 	M	151.4 PL	GlenCove FG2 	Glen Cove Fireground 2 	FMN 	Fire-Tac 
+460.58750 	   	KEB533 	M	127.3 PL	Glenwood 	Glenwood Hook and Ladder, Engine and Hose Company 	FMN 	Fire-Tac 
+453.81250 	   	WQFW660 	BM	88.5 PL	LocustVly FG 	Locust Valley Fireground 	FMN 	Fire-Tac 
+460.55000 	465.55000  	WPDT424 	RM	206.5 PL	OysterBay FD 	Oyster Bay Fire 	FMN 	Fire-Tac 
+453.22500 	458.22500  	WPTR813 	RM	054 DPL	Roslyn Fire 	Roslyn Fire Company 	FMN 	Fire-Tac 
+453.93750 	   	WPMQ545 	M	423 DPL	RoslynRescue 	Roslyn Highlands Hook and Ladder Engine and Hose Company - Rescue 	FMN 	Fire-Tac 
+471.07500 	474.07500  	WPZB365 	RM	503 DPL	Seacliff FD 	Seacliff Fire 	FMN 	Fire Dispatch 
+453.51250 	458.51250  	WPVP709 	RM	466 DPL	Seacliff FG 	Seacliff Fireground 	FMN 	Fire-Tac 
+476.28750 	479.28750  	WPYJ816 	RM	79.7 PL	Syosset Chfs 	Syosset Fire Chiefs 	FMN 	Fire-Tac 
+470.13750 	473.13750  	WPYJ816 	RM	123.0 PL	Syosset FD 	Syosset Fire Dispatch/Operations 	FMN 	Fire Dispatch 
+500.61250 	503.61250  	WQEH959 	RM		Sysosset MDT 	Syosset Fire District - MDT 	Telm 	Data 
+501.23750 	504.23750  	WQEH959 	RM		Syosset MDT 	Syosset Fire District - MDT 	Telm 	Data 
+458.71250 	   	WPGV995 	M	114.8 PL	Syosset FG 	Syosset Fireground 	FMN 	Fire-Tac 
+453.78750 	458.78750  	WPMW813 	BM	466 DPL	Bellmore FD 	Bellmore Fire District 	FMN 	Fire Dispatch 
+453.17500 	458.17500  	WPMW813 	RM	466 DPL	Bellmore FG 	Bellmore Fire District - Fireground 	FMN 	Fire-Tac 
+458.02500 	   	WPML432 	BM	CSQ	Bellmore VR 	Bellmore Fire District - Vehicle Repeater 	FMN 	Fire-Tac 
+465.60000 	   	KEC697 	M	192.8 PL	EMeadow Ch 4 	East Meadow Ch. 4 	FMN 	Fire-Talk 
+453.11250 	   	WPQE834 	M	192.8 PL	EMeadow EMS 	East Meadow EMS 	FMN 	EMS-Talk 
+460.43750 	465.43750  	WPUQ850 	RM	192.8 PL	EMeadow FD 	East Meadow Fire Dispatch 	FMN 	Fire Dispatch 
+472.70000 	   	WPUQ850 	M	743 DPL	EMeadowFD 	East Meadow Fire District 	FMNe 	Fire-Tac 
+465.62500 	   	KEC697 	M	192.8 PL	EMeadow FG 	East Meadow Fireground 	FMN 	Fire-Tac 
+460.62500 	465.62500  	KEC697 	RM	192.8 PL	EMeadow FG R 	East Meadow Fireground Repeater 	FMN 	Fire-Tac 
+460.58750 	   	KD30303 	M	156.7 PL	Levittown FD 	Levittown Fire District 	FMN 	Fire-Tac 
+470.30000 	473.30000  	WPMV500 	RM	97.4 PL	Levittown FD 	Levittown Fire District 	FMN 	Fire Dispatch 
+470.51250 	473.51250  	WIG946 	RM	072 DPL	Masspqua 	Massapequa Fire District 	FMN 	Fire Dispatch 
+460.63750 	465.63750  	WPDW219 	RM	141.3 PL	Mass EMS 	Massapequa Fire District - EMS 	FMN 	EMS Dispatch 
+460.61250 	465.61250  	WPDW219 	RM	146.2 PL	Mass Fgnd 	Massapequa Fire District - Fireground 	FMN 	Fire-Tac 
+153.83000 	   	WPTD372 	M	192.8 PL	Merrick FD 	Merrick Fire 	FMN 	Fire Dispatch 
+458.75000 	   	WQCH298 	M	054 DPL	Merrick FD 	Merrick Fire 	FMN 	Fire-Tac 
+153.83000 	   	WPTD372 	M	167.9 PL	Merrick FG 	Merrick Fireground 	FMN 	Fire-Tac 
+458.75000 	   	WQCH298 	M	192.8 PL	Merrick FD 	Merrick Vehicle Repeater 	FMN 	Fire-Tac 
+453.07500 	   	WPPB949 	BM	136.5 PL	N BellmoreFD 	North Bellmore Fire District 	FMN 	Fire-Tac 
+460.53750 	   	 	M	167.9 PL	N BellmoreFD 	North Bellmore Fire District 	FMN 	Fire-Tac 
+453.85000 	458.85000  	WPMX708 	RM	167.9 PL	N BellmoreFD 	North Bellmore Fire District - Dispatch 	FMN 	Fire Dispatch 
+458.11250 	   	WPMF964 	M	167.9 PL	NBellmoreFG 	North Bellmore Fire District - Fireground 	FMN 	Fire-Tac 
+453.38750 	   	WPEH966 	BM	466 DPL	N Mass FD 	North Massapequa Fire District 	FMN 	Fire-Talk 
+453.41250 	   	WPEH966 	BM	466 DPL	N Mass FD 	North Massapequa Fire District 	FMN 	Fire Dispatch 
+460.53750 	   	 	M	466 DPL	N Mass FD 	North Massapequa Fire District 	FMN 	Fire-Tac 
+170.15000 	166.25000  	WPGM278 	RM	151.4 PL	N Merrick FD 	North Merrick Fire District 	FMN 	Fire-Tac 
+170.51250 	   	 	BM	151.4 PL	N Merrick FD 	North Merrick Fire District 	FMN 	Fire-Tac 
+465.15000 	   	WQMM696 	M	073 DPL	N.MerrickFPD 	North Merrick Fire District Fire Police 	FMN 	Fire-Tac 
+484.70000 	487.70000  	WQMM696 	RM	100.0 PL	N Merrick FD 	North Merrick Fire District Ops 	FMN 	Fire Dispatch 
+453.98750 	   	WQBA210 	M	466 DPL	N.Merrick FG 	North Merrick Fire Ground 	FMN 	Fire-Tac 
+460.15000 	   	WQMM696 	BM	136.5 PL	N MerrickVR 	North Merrick Vehicle Repeater 	FMN 	Fire-Tac 
+453.28750 	458.28750  	WPEH968 	RM	77.0 PL	Seaford FD 	Seaford Fire District 	FMN 	Fire Dispatch 
+453.56250 	   	WPDQ318 	M	162.2 PL	Wantagh Chfs 	Wantagh Chiefs 	FMN 	Fire-Tac 
+458.36250 	   	KNNK419 	BM	162.2 PL	Wantagh F2 	Wantagh F2 	FMN 	Fire-Talk 
+471.31250 	474.31250  	WNAM372 	RM	162.2 PL	Wantagh FD 	Wantagh Fire Dispatch 	FMN 	Fire Dispatch 
+460.07500 	465.07500  	WPVT362 	BM	162.2 PL	Wantagh 	Wantagh Fire District 	FMN 	Fire-Talk 
+453.36250 	   	KNNK419 	BM	162.2 PL	Wantagh FG 	Wantagh Fireground 	FMN 	Fire-Tac 
+484.96250 	487.96250  	WIM593 	RM	156.7 PL	Elmont FD 	Elmont Fire District 	FMN 	Fire Dispatch 
+453.18750 	   	WPCI917 	M	466 DPL	Elmont FGnd 	Elmont Fire District - Fireground 	FMN 	Fire-Tac 
+453.53750 	   	WPCI917 	BM	466 DPL	Elmont Fgnd 	Elmont Fire District - Fireground 	FMN 	Fire-Tac 
+465.60000 	   	WPXE229 	M	156.7 PL	Elmont FGnd 	Elmont Fire District - Fireground 	FMN 	Fire-Tac 
+453.46250 	   	WPKX623 	M	023 DPL	Fklyn Sq FD 	Franklin Square and Munson Fire District - Fireground 	FMN 	Fire-Tac 
+460.22500 	   	WPKX623 	RM	114.8 PL	Fklyn Sq FD 	Franklin Square and Munson Fire District - Fireground 	FMN 	Fire-Tac 
+154.98000 	   	KBW814 	BM	146.2 PL	Hempstead FD 	Hempstead Fire 	FMN 	Fire Dispatch 
+154.07000 	   	KTO545 	M	146.2 PL	Hempstead FG 	Hempstead Fireground 	FMN 	Fire-Tac 
+478.61250 	481.61250  	WQAD700 	RM	423 DPL	Uniondale FG 	Uniondale Fire District - Fireground 	FMN 	Fire-Tac 
+460.17500 	465.17500  	KED761 	RM	466 DPL	WHempstd FD 	West Hempstead Fire District 	FMN 	Fire-Tac 
+460.05000 	465.05000  	WQAX950 	RM	466 DPL	Albertson FD 	Albertson Fire Company 	FMN 	Fire-Tac 
+154.31750 	153.95750  	WPKY966 	RM	466 DPL	Alert HL Co #1 	Alert Engine Hook and Ladder Hose Company #1 	FMN 	Fire-Tac 
+154.86000 	   	WNKP374 	RM	156.7 PL	Grt Neck FD 	Great Neck Vigilant Fire Company 	FMN 	Fire-Tac 
+155.93250 	150.79750  	WPMZ641 	RM	466 DPL	Grt Neck FD 	Great Neck Vigilant Fire Company 	FMN 	Fire-Tac 
+155.14500 	   	WQNF566 	BM	110.9 PL	MLFD 	Manhasset Lakeville Fire District 	FMN 	Fire-Talk 
+153.89000 	   	WPNU292 	M	141.3 PL	PtWashFD TAC1 	Port Washington Fire Department - Fireground 1 	FMN 	Fire-Tac 
+153.83000 	   	WPNU292 	M	141.3 PL	PtWashFD TAC2 	Port Washington Fire Department - Fireground 2 	FMN 	Fire-Tac 
+153.77000 	   	KDB416 	M	141.3 PL	PtWashFD Tac 3 	Port Washington Fire Department - Fireground 3 	FMN 	Fire-Tac 
+453.92500 	458.92500  	WPIA991 	RM	072 DPL	Bthpge FD 	Bethpage Fire District 	FMN 	Fire Dispatch 
+453.93750 	   	WPIA991 	M	411 DPL	Bthpge FD 	Bethpage Fire District 	FMN 	Fire-Tac 
+453.63750 	   	WPIA991 	M	411 DPL	Bthpge FGnd 	Bethpage Fire District - Fireground 	FMN 	Fire-Tac 
+453.51250 	458.51250  	 	RM	156 DPL	Carle Place 	Carle Place Hook and Ladder and Hose Company #1 	FMN 	Fire-Tac 
+465.57500 	   	 	BM	127.3 PL	Carle Place 	Carle Place Hook and Ladder and Hose Company #1 	FMN 	Fire-Tac 
+460.41250 	465.41250  	WQOV716 	RM	664 DPL	FrmngdaleOps 	Farmingdale FD Operations 	FMN 	Fire Dispatch 
+154.20500 	   	WPAG265 	B		HicksvilleFD 	Hicksville Fire District 	FMN 	Fire-Tac 
+453.26250 	458.26250  	WPMG263 	RM	127.3 PL	HicksvilleFD 	Hicksville Fire District - Dispatch 	FMN 	Fire Dispatch 
+453.71250 	   	WPMG263 	M	127.3 PL	Hicksville F 	Hicksville Fireground 1 	FMN 	Fire-Tac 
+453.61250 	   	WPMG263 	M	127.3 PL	Hicksville F 	Hicksville Fireground 2 	FMN 	Fire-Tac 
+453.43750 	   	WPMG263 	M	127.3 PL	Hicksville F 	Hicksville Fireground 3 	FMN 	Fire-Tac 
+453.83750 	458.83750  	WPMG263 	BM	127.3 PL	HicksvilleOp 	Hicksville Operations 	FMN 	Fire-Tac 
+460.60000 	465.60000  	KEG503 	RM	88.5 PL	Jericho FD 	Jericho Fire District 	FMN 	Fire Dispatch 
+477.16250 	480.16250  	WPVJ467 	RM	114.8 PL	Plainview FD Dsp 	Plainview Fire - Dispatch 	FMN 	Fire Dispatch 
+460.48750 	   	KEE716 	M	114.8 PL	PlainviewFD2 	Plainview Fire Ch. 2  	FMN 	Fire-Tac 
+453.88750 	   	KAV466 	M	67.0 PL	S Fdale FD 	South Farmingdale Fire District 	FMN 	Fire-Tac 
+453.10000 	458.10000  	WPXA816 	RM	114.8 PL	Westbury FD 	Westbury Fire District - Dispatch 	FMN 	Fire Dispatch 
+465.52500 	   	WQVX892 	BM	203.5 PL	Westbury Fgnd 	Westbury Fire District - Fireground 	FMN 	Fire-Tac 
+461.05000 	466.05000  	WPJX422 	RM	743 DPL	BaldwinSD 	Baldwin Schools 	FMN 	Schools 
+472.53750 	   	WIG241 	BM	CSQ	Baumann 	Baumann Bus Company 	FMN 	Schools 
+464.57500 	   	WPHW976 	RM	74.4 PL	Bel-MerCHSD 	Bellmore-Merrick Central School District 	FMN 	Schools 
+464.57500 	469.57500  	WPHW976 	RM	118.8 PL	Bel-Mer Bus  	Bellmore-Merrick Central School District Buses 	FMN 	Schools 
+464.57500 	469.57500  	WPHW976 	RM	67.0 PL	Bel-Mer Bus 	Bellmore-Merrick Central School District Buses 	FMN 	Schools 
+464.57500 	469.57500  	WPHW976 	RM	186.2 PL	Bel-MerMaint 	Bellmore-Merrick Central School District Maintenance 	FMN 	Schools 
+461.92500 	   	WPUE401 	BM	156.7 PL	First Studen 	First Student School Buses 	FMN 	Schools 
+464.72500 	   	WQSU708 	BM	156.7 PL	First Studen 	First Student School Buses 	FMN 	Schools 
+464.12500 	   	WQSU708 	BM	156.7 PL	1stStudent 	First Student(Alternate Routes) 	FMN 	Schools 
+463.92500 	   	WPCY201 	RM	156.7 PL	1stStudentAll 	First Student(Area wide) 	FMN 	Schools 
+461.92500 	   	WPUE401 	BM	156.7 PL	1stStudent 	First Student(Freeport Base) 	FMN 	Schools 
+464.72500 	   	WQSU708 	BM	156.7 PL	1stStuden 	First Student(Hicksville Base) 	FMN 	Schools 
+461.37500 	   	KNGZ461 	BM	91.5 PL	FloralPkUFSD 	Floral Park Bellerose UFSD 	FMN 	Schools 
+151.49000 	   	WPPV317 	BM	423 DPL	FreeportHS 	Freeport High School 	FMN 	Schools 
+33.08000 	   	WPMT599 	BM	136.5 PL	GCUFSD Buses 	Garden City Union Free School District Buses 	FM 	Schools 
+152.45750 	   	WQVU857 	BM	116 DPL	GreatNeckPS 	Great Neck Public Schools 	FMN 	Schools 
+461.87500 	466.87500  	WPBN782 	RM	97.4 PL	HempSchools 	Hempstead Public Schools 	FMN 	Schools 
+461.08750 	   	KD46982 	BM	127.3 PL	HewlettWoodm 	Hewlett Woodmere School District 	FMN 	Schools 
+461.65000 	466.65000  	WQYA486 	RM	CC 15TG 2SL 2	Lawrence UFSD 	Lawrence Union Free School District 	DMR 	Schools 
+464.87500 	469.87500  	WXX264 	RM	88.5 PL	LUFSD Buses 	Levittown Union Free School District Buses 	FMN 	Schools 
+464.42500 	   	WXX264 	RM	100.0 PL	LevtwnUFSDSec 	Levittown Union Free School District Security 	FMN 	Schools 
+463.96250 	   	WQTL837 	BM	156.7 PL	LoganBus 	Logan/Guardian Bus Co. 	FMN 	Schools 
+153.00500 	   	WQBH470 	BM	146.2 PL	LongBeachBus 	Long Beach School District Buses 	FMN 	Schools 
+464.97500 	   	WNHK557 	BM	043 DPL	Merrick 	Merrick School District 	FMN 	Schools 
+157.47000 	155.04000  	WNVG854 	RM	CC 1TG *SL *	N Shore Buses 	North Shore School Buses 	DMR 	Schools 
+461.17500 	466.17500  	WQUT244 	RM	136.5 PL	N Shore Buses 	North Shore School Buses 	FMN 	Schools 
+464.82500 	   	KNHW495 	BM	146.2 PL	RockvilleCtr 	Rockville Centre School District 	FMN 	Schools 
+451.41250 	456.41250  	WQQN253 	RM	606 DPL	WestburyUFSD 	Westbury Union Free School District 	FMN 	Schools 
+451.82500 	   	WPQI869 	BM	343 DPL	Adelphi PubSafty 	Public Safety 	FMN 	Security 
+462.15000 	   	WPDQ563 	BM	026 DPL	Adelphi Maintenc 	Maintenance 	FMN 	Schools 
+462.42500 	   	WPQI869 	BM	343 DPL	Adelphi Housekpg 	Housekeeping 	FMN 	Schools 
+464.61250 	   	WPFY941 	BM	072 DPL	Adelphi Buses 	Buses/Public Safety Ch 2 	FMN 	Schools 
+463.47500 	   	KNCG977 	BM	565 DPL	C.W.Post PS 	Public Safety 	FMN 	Security 
+464.52500 	469.52500  	WPGN290 	RM	466 DPL	Hofstra PubSafty 	Public Safety, Bus, Dispatch 	FMN 	Schools 
+467.17500 	462.17500  	WPAL380 	M	CSQ	Hofstra Events 	Office of Event Management 	FMN 	Schools 
+462.30000 	467.30000  	WPZK973 	M	CSQ	Hofstra Maintnce 	Maintenance 	FMN 	Schools 
+464.77500 	469.77500  	WPYN388 	RM	205 DPL	Hoftra Plant Mnt 	Plant Maintenance 	FMN 	Schools 
+462.45000 	467.45000  	WQFC587 	RM	343 DPL	Hofstra Athletic 	Athletics Building 	FMN 	Schools 
+464.97500 	   	KNHS201 	BM	032 DPL	Molloy Security 	Security 	FMN 	Security 
+154.10000 	   	KJU257 	BM	110.9 PL	NCC Pub Safety 	Public Safety 	FMN 	Security 
+460.25000 	   	KNFS824 	BM	186.2 PL	SUNY OW Police 	University Police 	FMN 	Law Dispatch 
+162.61250 	   	 	M		USMMA Ops 	Operations 	FMN 	Federal 
+408.00000 	   	 	RM	151.4 PL	USPS Hicksvl 	Hicksville Yard Ops 	FMN 	Federal 
+409.02500 	   	 	RM	110.9 PL	NassUSPSDiss 	Mail Carriers (Nassau Dispatch) 	FMN 	Federal 
+Amboy Bus Co	 LTR Standard	 Plainview	Atlantic Telecommunications	 LTR Net	 Various	Hempstead Public Safety System	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Hempstead
+Long Beach City School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Long Beach	Metro-25/MTA MRRS	 Project 25 Phase II	 Regional	MTA Regional Bus	 Motorola Type II SmartZone	 New York
+Nassau County Public Safety (EDACS)	 EDACS Standard	 Nassau County	Nassau County Public Safety (P25)	 Project 25 Phase II	 Nassau County	Nassau Suffolk Communications (LTR)	 LTR Standard	 Plainview
+Nassau Suffolk Communications (NEXEDGE)	 NXDN NEXEDGE 4800	 Regional	Norcom Communications (Nassau)	 LTR Standard	 Nassau	North Shore University Hospital at Plainview	 DMR Hytera XPT	 Plainview
+NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	PSEG Long Island	 Project 25 Phase II	 Long Island
+Radon OID	 Motorola Type IIi Hybrid	 Plainview	RF Design Consultants	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Regional	South Farmingdale Water District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Farmingdale
+Specialized Mobile Radio	 LTR Standard	 New York	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Town of Hempstead General Services	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Hempstead
+Veterans Transportation	 LTR Standard	 Plainview	

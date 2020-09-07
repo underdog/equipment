@@ -1,11 +1,11 @@
-155.41500 	WNRR797 	RM	293 NAC	Pwl SO Dsp 	Dispatch 	P25 	Law Dispatch 
-155.55000 	 		156.7 PL	PSO TA 	Talk-Around 	FMN 	Law Talk 
-460.23750 	WNRR797 	M	233.6 PL	Pwl SO lnk 	Relay 	FMN 	Law Talk 
-155.10000 	WQH346 	RM	292 NAC	Pwl FD/EMS#1 	Fire/EMS Dispatch 	P25 	Multi-Dispatch 
-153.80000 	WQH346 	M	156.7 PL	Pwl TlkRnd 	All Agencies Talk-around 	FMN 	Multi-Talk 
-155.34000 	WRD867 	B	179.9 PL	EMStoClrkHsp 	EMS to Clark Regional Hospital 	FMN 	Hospital 
-173.23750 	 	BM		PCWD 	Powell Water Dist. Telementary 	FMN 	Utilities 
-462.56250 	 	BM		PCWD 	Powell Co Weather Dispatch 	FMN 	Other 
-474.83000 	 	BM		PCWC 	Powell Co Weather Center 	FMN 	Other 
-154.99500 	WNXJ854 	BM	173.8 PL	Clay City  	Government Services 	FMN 	Public Works 
-151.74500 	 	BM		US Brick 	US Brick 	FMN 	Business 
+155.41500 	158.73000  	WNRR797 	RM	293 NAC	Pwl SO Dsp 	Dispatch 	P25 	Law Dispatch 
+155.55000 	   	 		156.7 PL	PSO TA 	Talk-Around 	FMN 	Law Talk 
+460.23750 	465.23750  	WNRR797 	M	233.6 PL	Pwl SO lnk 	Relay 	FMN 	Law Talk 
+155.10000 	153.80000  	WQH346 	RM	292 NAC	Pwl FD/EMS#1 	Fire/EMS Dispatch 	P25 	Multi-Dispatch 
+153.80000 	   	WQH346 	M	156.7 PL	Pwl TlkRnd 	All Agencies Talk-around 	FMN 	Multi-Talk 
+155.34000 	   	WRD867 	B	179.9 PL	EMStoClrkHsp 	EMS to Clark Regional Hospital 	FMN 	Hospital 
+173.23750 	   	 	BM		PCWD 	Powell Water Dist. Telementary 	FMN 	Utilities 
+462.56250 	   	 	BM		PCWD 	Powell Co Weather Dispatch 	FMN 	Other 
+474.83000 	   	 	BM		PCWC 	Powell Co Weather Center 	FMN 	Other 
+154.99500 	   	WNXJ854 	BM	173.8 PL	Clay City  	Government Services 	FMN 	Public Works 
+151.74500 	   	 	BM		US Brick 	US Brick 	FMN 	Business 

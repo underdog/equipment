@@ -1,16 +1,15 @@
-155.20500 	WPEC810 	BM	CSQ	Acadian Amb 	Acadian Ambulance *Also on LWIN* 	FMN 	EMS Dispatch 
-154.14500 	WQFR895 	RM	110.9 PL	W1FD Disp 	Ward 1 Fire (simulcast from LWIN TGRP 14204) 	FMN 	Fire Dispatch 
-154.20500 	KNNS561 	BM	606 DPL	HRVFD dISP 	Houston River VFD (simulcast from Sulphur TRS TGRP 9840) 	FMN 	Fire Dispatch 
-154.32500 	WQBS637 	RM		W6FD Disp 	Ward 6 District 1 Fire (simulcast from LWIN TGRP 14212) 	FMN 	Fire Dispatch 
-154.41500 	WQOZ287 	RM		DQFD Disp 	DeQuincy Fire Department 	FMN 	Fire Dispatch 
-154.44500 	WPWP562 	BM	071 DPL	W7D2 FD Disp 	Ward 7 District 2 Fire (simulcast from LWIN talkgroup 14052) 	FMN 	Fire Dispatch 
-154.44500 	WPIY662 	BM	118.8 PL	CVFD Disp 	Carlyss VFD Pagers (simulcast from Sulphur talkgroup 2384) 	FMN 	Fire Dispatch 
-155.05500 	WNIJ392 	RM	156.7 PL	WLFD Disp 	Westlake Fire Department (simulcast from LWIN TGRP 14180) 	FMN 	Fire Dispatch 
-155.83500 	KNGV994 	BM	156.7 PL	W7D1 FD Disp 	Ward 7 District 1 Fire (simulcast from LWIN talkgroup 14003) 	FMN 	Fire Dispatch 
-Calcasieu Parish Public Safety	 Motorola Type II Smartnet	 Calcasieu Parish	CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	CLECO Power (P25)	 Project 25 Phase II
- Pineville	Delta Downs	 LTR Standard	 Vinton	Entergy 	 Project 25 Phase II	 Various	Kay Communications (Capacity Plus)
- DMR Motorola Capacity Plus Single Site (TRBO)	 Sulphur	Kay Communications (Sulphur)	 Motorola Type II Smartnet	 Sulphur	Lake Charles Public Safety	 Motorola Type II Smartnet	 Lake Charles
-Louisiana Pigment	 Motorola Type II Smartnet	 Sulphur	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	LyondellBasell Lake Charles Polyolefins Plant	 Motorola Type II Smartnet
- Westlake	PPG (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	PPG Industries	 Motorola Type II Smartnet	 Sulphur	Sasol
- DMR Motorola Connect Plus (TRBO)	 Westlake	Telcom Rentals	 Motorola Type II Smartnet	 Lake Charles	Telcom Rentals (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Sulphur
+155.20500 	   	WPEC810 	BM	CSQ	Acadian Amb 	Acadian Ambulance *Also on LWIN* 	FMN 	EMS Dispatch 
+154.14500 	153.77000  	WQFR895 	RM	110.9 PL	W1FD Disp 	Ward 1 Fire (simulcast from LWIN TGRP 14204) 	FMN 	Fire Dispatch 
+154.20500 	   	KNNS561 	BM	606 DPL	HRVFD dISP 	Houston River VFD (simulcast from Sulphur TRS TGRP 9840) 	FMN 	Fire Dispatch 
+154.32500 	153.95000  	WQBS637 	RM		W6FD Disp 	Ward 6 District 1 Fire (simulcast from LWIN TGRP 14212) 	FMN 	Fire Dispatch 
+154.41500 	153.95000  	WQOZ287 	RM		DQFD Disp 	DeQuincy Fire Department 	FMN 	Fire Dispatch 
+154.44500 	   	WPWP562 	BM	071 DPL	W7D2 FD Disp 	Ward 7 District 2 Fire (simulcast from LWIN talkgroup 14052) 	FMN 	Fire Dispatch 
+154.44500 	   	WPIY662 	BM	118.8 PL	CVFD Disp 	Carlyss VFD Pagers (simulcast from Sulphur talkgroup 2384) 	FMN 	Fire Dispatch 
+155.05500 	158.88000  	WNIJ392 	RM	156.7 PL	WLFD Disp 	Westlake Fire Department (simulcast from LWIN TGRP 14180) 	FMN 	Fire Dispatch 
+155.83500 	   	KNGV994 	BM	156.7 PL	W7D1 FD Disp 	Ward 7 District 1 Fire (simulcast from LWIN talkgroup 14003) 	FMN 	Fire Dispatch 
+Calcasieu Parish Public Safety	 Motorola Type II Smartnet	 Calcasieu Parish	CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	CLECO Power (P25)	 Project 25 Phase II	 Pineville
+Delta Downs	 LTR Standard	 Vinton	Entergy 	 Project 25 Phase II	 Various	Kay Communications (Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sulphur
+Kay Communications (Sulphur)	 Motorola Type II Smartnet	 Sulphur	Lake Charles Public Safety	 Motorola Type II Smartnet	 Lake Charles	Louisiana Pigment	 Motorola Type II Smartnet	 Sulphur
+LyondellBasell Lake Charles Polyolefins Plant	 Motorola Type II Smartnet	 Westlake	PPG (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	PPG Industries	 Motorola Type II Smartnet	 Sulphur
+Sasol	 DMR Motorola Connect Plus (TRBO)	 Westlake	Telcom Rentals	 Motorola Type II Smartnet	 Lake Charles	Telcom Rentals (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Sulphur
 Westlake Petrochemicals	 DMR Motorola Connect Plus (TRBO)	 Sulphur	

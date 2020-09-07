@@ -1,34 +1,36 @@
-154.44500 	WNWD265 	RM	103.5 PL	Wkly FD DISP 	Fire - Countywide Dispatch 	FMN 	Fire Dispatch 
-155.58000 	WQEA230 	RM	203.5 PL	PCVFD-DISP 	Palmersville Community Volunteer Fire Department 	FMN 	Fire Dispatch 
-155.32500 	WQHU255 	RM	103.5 PL	Wkly EMS 1 	Rescue Squad/EMS - Primary (Martin & Dresden Towers) 	FMN 	EMS Dispatch 
-155.22000 	WYY982 	BM	186.2 PL	Wkly EMS 2 	Rescue Squad/EMS - Secondary  	FMN 	EMS-Tac 
-460.27500 	WQDD836 	RM	206.5 PL	WKLY SD DRDN 	Sheriff - Dispatch *Dresden Tower* 	FMN 	Law Dispatch 
-460.27500 	WQDD836 	RM	206.5 PL	WKLY SD GLSN 	Sheriff - Dispatch *Gleason Tower* 	FMN 	Law Dispatch 
-460.27500 	KXA224 	RM	206.5 PL	WKLY SD SHRN 	Sheriff - Dispatch *Sharon Tower* 	FMN 	Law Dispatch 
-453.08750 	WQDD836 	F	141.3 PL	Wkly SD Link 	Sheriff - Input Link @ Gleason 	FMN 	Law Dispatch 
-458.91250 	WQDD836 	F	203.5 PL	Wkly SD Link 	Sheriff - Input Link @ Greenfield 	FMN 	Law Dispatch 
-453.36250 	WQDD836 	F	79.7 PL	Wkly SD Link 	Sheriff - Input Link @ Martin 	FMN 	Law Dispatch 
-458.36250 	WQDD836 	F	67.0 PL	Wkly SD Link 	Sheriff - Input Link @ Palmersville 	FMN 	Law Dispatch 
-158.98500 	WPPW508 	RM		Wkly Rds/Sch 	Road Department, Schools 	FMN 	Public Works 
-154.41500 	WNFK791 	RM	210.7 PL	MFD-DISP 	Fire Department - Dispatch 	FMN 	Fire Dispatch 
-460.37500 	WQDX433 	RM	13 RAN	MPD-DISP 	Police Department - Dispatch 	NXDN 	Law Dispatch 
-453.32500 	WNPE560 	RM	155 DPL	MDPW-OPS 	Public Works - Operations 	FMN 	Public Works 
-453.72500 	WNPE560 	M		MDPW-CAR 	Public Works - Unit to Unit 	FMN 	Public Works 
-155.14500 	WQCX541 	RM	79.7 PL	Dresden FD 	Fire Department 	FMN 	Fire Dispatch 
-453.62500 	WPPC716 	RM	85.4 PL	DPD ALT 	Police Department Alternate 	FMN 	Law Tac 
-155.80500 	WPYI959 	RM	136.5 PL	Gleason FD 	Fire Department 	FMN 	Fire Dispatch 
-154.34000 	WPKB207 	BM	025 DPL	Greenfld FD 	Fire Department 	FMN 	Fire Dispatch 
-155.08500 	WPBK235 	BM		GFLD-DPW 	Public Works 	FMN 	Public Works 
-154.31000 	WNJW345 	RM	032 DPL	Sharon FD 	Fire Department 	FMN 	Fire Dispatch 
-158.13000 	KUI382 	RM		Weakley MES 	Weakley County Municipal Electric System - Dresden 	FMN 	Utilities 
-158.13000 	KUI382 	RM		Weakley MES 	Weakley County Municipal Electric System - Martin 	FMN 	Utilities 
-155.52000 	KLP932 	RM	CC 8TG 16776415SL 1	UTM PD Disp 	Campus Police - Dispatch 	DMR 	Law Dispatch 
-155.05500 	KLP932 	M		UTM PD Tac 	Campus Police - Tactical 	FMN 	Law Tac 
-154.96500 	KUZ863 	RM	107.2 PL	UTM Maint 	Campus Facilities Maintenance 	FMN 	Schools 
-152.39000 	WQLZ329 	RM		UTM Ops 1 	Campus Operations 1 	FMN 	Schools 
-151.86500 	KNGP280 	BM		UTM Ops 2 	Campus Operations 2 	FMN 	Schools 
-155.71500 	WNMR760 	RM		UTM Computer 	Campus Computer Technicians 	FMN 	Schools 
-158.74500 	WPFU233 	BM		UTM Athletic 	Campus Athletics Department 	FMN 	Schools 
-155.76000 	WPGQ937 	RM		UTM Housing 	Campus Housing 	FMN 	Schools 
-Obion County Regional Public Safety System	 Motorola Type II Smartnet	 Union City	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked
- Various	
+154.44500 	154.14500  	WNWD265 	RM	103.5 PL	Wkly FD DISP 	Fire - Countywide Dispatch 	FMN 	Fire Dispatch 
+155.58000 	159.39000  	WQEA230 	RM	203.5 PL	PCVFD-DISP 	Palmersville Community Volunteer Fire Department 	FMN 	Fire Dispatch 
+155.32500 	150.79000  	WQHU255 	RM	103.5 PL	Wkly EMS 1 	Rescue Squad/EMS - Primary (Martin & Dresden Towers) 	FMN 	EMS Dispatch 
+155.22000 	   	WYY982 	BM	186.2 PL	Wkly EMS 2 	Rescue Squad/EMS - Secondary  	FMN 	EMS-Tac 
+460.27500 	465.27500  	WQDD836 	RM	206.5 PL	WKLY SD DRDN 	Sheriff - Dispatch *Dresden Tower* 	FMN 	Law Dispatch 
+460.27500 	465.27500  	WQDD836 	RM	206.5 PL	WKLY SD GLSN 	Sheriff - Dispatch *Gleason Tower* 	FMN 	Law Dispatch 
+460.27500 	465.27500  	KXA224 	RM	206.5 PL	WKLY SD SHRN 	Sheriff - Dispatch *Sharon Tower* 	FMN 	Law Dispatch 
+453.08750 	   	WQDD836 	F	141.3 PL	Wkly SD Link 	Sheriff - Input Link @ Gleason 	FMN 	Law Dispatch 
+458.91250 	   	WQDD836 	F	203.5 PL	Wkly SD Link 	Sheriff - Input Link @ Greenfield 	FMN 	Law Dispatch 
+453.36250 	   	WQDD836 	F	79.7 PL	Wkly SD Link 	Sheriff - Input Link @ Martin 	FMN 	Law Dispatch 
+458.36250 	   	WQDD836 	F	67.0 PL	Wkly SD Link 	Sheriff - Input Link @ Palmersville 	FMN 	Law Dispatch 
+158.98500 	156.16500  	WPPW508 	RM		Wkly Rds/Sch 	Road Department, Schools 	FMN 	Public Works 
+460.37500 	465.37500  	WQDX433 	RM	13 RAN	Martin PD Disp 	Police Dispatch 	NXDN 	Law Dispatch 
+453.87500 	458.87500  	WQDX433 	RM	13 RAN	Martin PD 453 	Police 	NXDN 	Law Dispatch 
+154.41500 	158.86500  	WNFK791 	RM	210.7 PL	Martin FD Disp A 	Fire/EMS Initial Dispatch (Analog) 	FMN 	Fire Dispatch 
+154.41500 	158.86500  	WNFK791 	RM	CC 1TG 105SL 1	Martin FD Disp 1 	Fire/EMS Dispatch 1 Primary 	DMR 	Fire Dispatch 
+154.41500 	158.86500  	WNFK791 	RM	CC 1TG 125SL 2	Martin FD Disp 2 	Fire/EMS Dispatch 2 	DMR 	Fire Dispatch 
+453.32500 	458.32500  	WNPE560 	RM	155 DPL	Martin PW Ops 	Public Works - Operations 	FMN 	Public Works 
+453.72500 	   	WNPE560 	M		Martin PW U-U 	Public Works - Unit to Unit 	FMN 	Public Works 
+155.14500 	151.17500  	WQCX541 	RM	79.7 PL	Dresden FD 	Fire Department 	FMN 	Fire Dispatch 
+453.62500 	458.62500  	WPPC716 	RM	85.4 PL	DPD ALT 	Police Department Alternate 	FMN 	Law Tac 
+155.80500 	154.83000  	WPYI959 	RM	136.5 PL	Gleason FD 	Fire Department 	FMN 	Fire Dispatch 
+154.34000 	   	WPKB207 	BM	025 DPL	Greenfld FD 	Fire Department 	FMN 	Fire Dispatch 
+155.08500 	   	WPBK235 	BM		GFLD-DPW 	Public Works 	FMN 	Public Works 
+154.31000 	153.77000  	WNJW345 	RM	032 DPL	Sharon FD 	Fire Department 	FMN 	Fire Dispatch 
+158.13000 	153.45500  	KUI382 	RM		Weakley MES 	Weakley County Municipal Electric System - Dresden 	FMN 	Utilities 
+158.13000 	153.63500  	KUI382 	RM		Weakley MES 	Weakley County Municipal Electric System - Martin 	FMN 	Utilities 
+155.52000 	153.90500  	KLP932 	RM	CC 8TG 16776415SL 1	UTM PD Disp 	Campus Police - Dispatch 	DMR 	Law Dispatch 
+155.05500 	   	KLP932 	M		UTM PD Tac 	Campus Police - Tactical 	FMN 	Law Tac 
+154.96500 	153.78500  	KUZ863 	RM	107.2 PL	UTM Maint 	Campus Facilities Maintenance 	FMN 	Schools 
+152.39000 	157.65000  	WQLZ329 	RM		UTM Ops 1 	Campus Operations 1 	FMN 	Schools 
+151.86500 	   	KNGP280 	BM		UTM Ops 2 	Campus Operations 2 	FMN 	Schools 
+155.71500 	153.99500  	WNMR760 	RM		UTM Computer 	Campus Computer Technicians 	FMN 	Schools 
+158.74500 	   	WPFU233 	BM		UTM Athletic 	Campus Athletics Department 	FMN 	Schools 
+155.76000 	153.75500  	WPGQ937 	RM		UTM Housing 	Campus Housing 	FMN 	Schools 
+Obion County Regional Public Safety System	 Motorola Type II Smartnet	 Union City	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various

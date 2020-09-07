@@ -1,24 +1,24 @@
-151.89500 	WNKX639 	BM	703 DPL	L Mohawk 	Lake Mohawk Security (patrolled by Carroll CoSO) 	FM 	Law Talk 
-460.32500 	WQIP957 	RM	243 DPL	CC F-EMS Dsp 	Fire/EMS Countywide Dispatch 	FMN 	Fire Dispatch 
-460.08750 	WQIP957 	RM	331 DPL	FD Mechanicstown 	Fire/EMS Mechanicstown Site 	FMN 	Fire-Tac 
-460.11250 	WQIP957 	RM	263 DPL	FD Perrysville 	Fire/EMS Perrysville Site 	FMN 	Fire-Tac 
-460.30000 	WQIP957 	RM	251 DPL	FD Carrollton 	Fire/EMS Carrollton Site 	FMN 	Fire-Tac 
-460.37500 	WQIP957 	RM	251 DPL	FD Dellroy 	Fire/EMS Dellroy Site 	FMN 	Fire-Tac 
-453.36250 	WQIP957 	M	306 DPL	CC Fgrnd 1 	Fireground 1 	FMN 	Fire-Tac 
-453.48750 	WQIP957 	M	412 DPL	CC Fgrnd 2 	Fireground 2 	FMN 	Fire-Tac 
-458.56250 	WQIP957 	M	306 DPL	CC Fgrnd 3 	Fireground 3 	FMN 	Fire-Tac 
-458.75000 	WQIP957 	M	412 DPL	CC Fgrnd 4 	Fireground 4 	FMN 	Fire-Tac 
-453.26250 	WQGV606 	RM	114.8 PL	GreatTrlFireDist 	Great Trail Fire District 	FM 	Fire Dispatch 
-155.29500 	WPYY403 	BM	82.5 PL	Perrysvl EMS 	Perrysville EMS 	FM 	EMS Dispatch 
-155.34000 	WPYY403 	BM	114.8 PL	Sherdsvl EMS 	Sherrodsville EMS 	FM 	EMS Dispatch 
-453.12500 	WPVH684 	RM	173.8 PL	Quad Amb 	Quad Ambulance 	FM 	EMS Dispatch 
-453.45000 	WPKC367 	RM	4 RAN	Carroll Eng N 	Carroll Co Engineer - North 	NXDN 	Public Works 
-460.20000 	WPKC367 	RM	4 RAN	Carroll Eng S 	Carroll Co Engineer - South 	NXDN 	Public Works 
-453.28750 	WPKC367 	M	4 RAN	Carroll Eng 	Carroll Co Engineer (simplex) 	NXDN 	Public Works 
-453.92500 	WPQK988 	RM	243 DPL	Carroll MRDD 	Carroll Co MRDD 	FMN 	Transportation 
-153.18500 	WPPX758 	RM	074 DPL	ConVal HS 	Conotton Valley High School - Buses 	FMN 	Schools 
-461.50000 	WPGE373 	RM	CC 5TG 586SL 1	Minerva LSD Ops 	Minerva Local School District - Operations 	DMR 	Schools 
-463.62500 	WPGE373 	RM	CC 6TG 652SL 1	Minerva LSD Bus 	Minerva Local School District - Buses 	DMR 	Schools 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Carroll County Energy	 DMR Conventional Networked	 Carrollton	Carrollton Exempted Village Schools	 DMR Conventional Networked
- Carrollton	Chesapeake Energy	 DMR Conventional Networked	 various	Domer Communications NE Ohio	 NXDN NEXEDGE 9600	 Various	Ohio MARCS-IP: Mobile Site 5A1
- Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH
+151.89500 	   	WNKX639 	BM	703 DPL	L Mohawk 	Lake Mohawk Security (patrolled by Carroll CoSO) 	FM 	Law Talk 
+460.32500 	465.32500  	WQIP957 	RM	243 DPL	CC F-EMS Dsp 	Fire/EMS Countywide Dispatch 	FMN 	Fire Dispatch 
+460.08750 	465.06750  	WQIP957 	RM	331 DPL	FD Mechanicstown 	Fire/EMS Mechanicstown Site 	FMN 	Fire-Tac 
+460.11250 	465.11250  	WQIP957 	RM	263 DPL	FD Perrysville 	Fire/EMS Perrysville Site 	FMN 	Fire-Tac 
+460.30000 	465.30000  	WQIP957 	RM	251 DPL	FD Carrollton 	Fire/EMS Carrollton Site 	FMN 	Fire-Tac 
+460.37500 	465.37500  	WQIP957 	RM	251 DPL	FD Dellroy 	Fire/EMS Dellroy Site 	FMN 	Fire-Tac 
+453.36250 	   	WQIP957 	M	306 DPL	CC Fgrnd 1 	Fireground 1 	FMN 	Fire-Tac 
+453.48750 	   	WQIP957 	M	412 DPL	CC Fgrnd 2 	Fireground 2 	FMN 	Fire-Tac 
+458.56250 	   	WQIP957 	M	306 DPL	CC Fgrnd 3 	Fireground 3 	FMN 	Fire-Tac 
+458.75000 	   	WQIP957 	M	412 DPL	CC Fgrnd 4 	Fireground 4 	FMN 	Fire-Tac 
+453.26250 	458.26250  	WQGV606 	RM	114.8 PL	GreatTrlFireDist 	Great Trail Fire District 	FM 	Fire Dispatch 
+155.29500 	   	WPYY403 	BM	82.5 PL	Perrysvl EMS 	Perrysville EMS 	FM 	EMS Dispatch 
+155.34000 	   	WPYY403 	BM	114.8 PL	Sherdsvl EMS 	Sherrodsville EMS 	FM 	EMS Dispatch 
+453.12500 	458.12500  	WPVH684 	RM	173.8 PL	Quad Amb 	Quad Ambulance 	FM 	EMS Dispatch 
+453.45000 	458.45000  	WPKC367 	RM	4 RAN	Carroll Eng N 	Carroll Co Engineer - North 	NXDN 	Public Works 
+460.20000 	465.20000  	WPKC367 	RM	4 RAN	Carroll Eng S 	Carroll Co Engineer - South 	NXDN 	Public Works 
+453.28750 	   	WPKC367 	M	4 RAN	Carroll Eng 	Carroll Co Engineer (simplex) 	NXDN 	Public Works 
+453.92500 	458.92500  	WPQK988 	RM	243 DPL	Carroll MRDD 	Carroll Co MRDD 	FMN 	Transportation 
+153.18500 	159.63000  	WPPX758 	RM	074 DPL	ConVal HS 	Conotton Valley High School - Buses 	FMN 	Schools 
+461.50000 	466.50000  	WPGE373 	RM	CC 5TG 586SL 1	Minerva LSD Ops 	Minerva Local School District - Operations 	DMR 	Schools 
+463.62500 	468.62500  	WPGE373 	RM	CC 6TG 652SL 1	Minerva LSD Bus 	Minerva Local School District - Buses 	DMR 	Schools 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Carroll County Energy	 DMR Conventional Networked	 Carrollton	Carrollton Exempted Village Schools	 DMR Conventional Networked	 Carrollton
+Chesapeake Energy	 DMR Conventional Networked	 various	Domer Communications NE Ohio	 NXDN NEXEDGE 9600	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide
+Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH	

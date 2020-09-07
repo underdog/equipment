@@ -1,61 +1,60 @@
-155.01000 	WPLX249 	M	118.8 PL	ACPD CW 	Police Countywide  	FM 	Law Talk 
-156.21000 	KGN564 	BM	118.8 PL	ACPD C-C 	Police Countywide Car-to-Car 	FM 	Law Talk 
-155.07000 	KGN564 	RM		ACSO 1 	ACSO Sheriff- Simulcast from TRS 	FM 	Law Talk 
-155.31000 	KGN564 	RM		ACSO 2 	Sheriff "Access" TRS Backup  	FM 	Law Talk 
-155.41500 	KXD237 	RM		AC PROC 	Prosecutor's Office - TRS Backup   	FM 	Law Talk 
-155.61000 	WNMV668 	RM		AC Jail 	Sheriff-County Jail - TRS Backup 	FM 	Corrections 
-154.31000 	KQO207 	BM	118.8 PL	AtlCo Fire 1 	Fire 1 Dispatch 	FM 	Fire Dispatch 
-154.35500 	KQO207 	BM	118.8 PL	AtlCo Fire 2 	Fireground 2 	FM 	Fire-Talk 
-154.28000 	KQO207 	BM	118.8 PL	AtlCo Fire 3 	Fire North 	FM 	Fire-Talk 
-154.29500 	KQO207 	BM	118.8 PL	AtlCo Fire 4 	Fire South 	FM 	Fire-Talk 
-153.77000 	KQO207 	M	118.8 PL	AtlCo Fire 5 	Fire Portable 1 	FM 	Fire-Talk 
-153.83000 	KQO207 	M	118.8 PL	AtlCo Fire 6 	Fire Portable 2 	FM 	Fire-Talk 
-154.26500 	KQO207 	BM	CSQ	SJ Net 	Fire Mutual Aid -South Jersey Net 	FM 	Interop 
-155.17500 	WPZS628 	BM	118.8 PL	AtlCo EMS 1 	EMS Dispatch 	FM 	EMS Dispatch 
-155.34000 	KNIF290 	M	118.8 PL	AtlCo EMS 2 	EMS Ambulance-to-Hospital 	FM 	Hospital 
-155.28000 	KNIF290 	BM	CSQ	EMS MutAid 	EMS Mutual Aid Statewide 	FM 	Interop 
-151.04000 	KCU266 	RM	141.3 PL	AC Services 	Services - Health,Highway Dept 	FM 	Public Works 
-155.04000 	WQBT214 	RM		ACUA 1 	ACUA 1 Utilities Authority 	FM 	Utilities 
-153.86000 	WQBT214 	M		ACUA 2 	ACUA 2 Utilities Authority 	FM 	Utilities 
-453.51250 	WQCF851 	RM		ACUA Delilah 	ACUA Delilah Land Fill 	FM 	Utilities 
-158.77500 	WZZ239 	RM	118.8 PL	AC OEM 	AC OEM Emergency Management 	FM 	Emergency Ops 
-453.10000 	WNNN676 	RM	351 DPL	ACHA Secrty 	Housing Authority - Security 	FM 	Security 
-453.87500 	WNNN676 	RM	351 DPL	ACHA 2 	Housing Authority 	FM 	Public Works 
-453.67500 	WPMI659 	RM	351 DPL	ACCC Sec 	Convention Center 	FM 	Security 
-155.25000 	WQKT389 	BM		Buena VFD 	VFD (Landisville) 	FMN 	Fire-Talk 
-155.80500 	WQKT389 	BM	118.8 PL	Buena DPW 	DPW - Water Dept  	FMN 	Public Works 
-155.68500 	KEF785 	RM	118.8 PL	EHC Police 	Police 	FM 	Law Talk 
-154.01000 	WPUU524 	BM	118.8 PL	EHT Fire 1  	Fire (Patched with TRS) 	FM 	Fire-Talk 
-153.95000 	WPUU524 	BM	118.8 PL	EHT Fire 2 	Fire 	FM 	Fire-Talk 
-154.81500 	WNJN646 	BM	118.8 PL	Hmltn Fire 1 	Fire 	FM 	Fire-Talk 
-153.92000 	WNJN646 	BM	118.8 PL	Hmltn Fire 2 	Fire 	FM 	Fire-Talk 
-155.22000 	WNBU792 	BM		Hmntn Bus 	Board of Education - Buses 	FM 	Schools 
-158.76000 	KJG966 	BM	118.8 PL	Hmntn DPW 	Services 	FM 	Public Works 
-155.65500 	KNBL467 	RM	151.4 PL	Linwood FD 	Fire 	FM 	Law Talk 
-154.40000 	KNAB750 	BM	152 DPL	Margate FD 	Fire Dispatch (Patch from 800 system) 	FM 	Fire Dispatch 
-154.17500 	KEF328 	RM	143 DPL	Pville Fire  	Fire 	FMN 	Fire-Talk 
-155.59500 	KNIV563 	RM	118.8 PL	Pville EMS 	EMS (Provided by Tricare) 	FMN 	Law Talk 
-155.86500 	KRB437 	BM	118.8 PL	Pville PW 	Public Works 	FMN 	Public Works 
-451.26250 	WPTF573 	RM	051 DPL	Pville HA 	Housing Authority 	FMN 	Public Works 
-154.20500 	KNJF454 	BM	143 DPL	SomPt Fire 1 	Fire 	FMN 	Fire-Talk 
-154.07000 	KNJF454 	BM	118.8 PL	SomPt Fire 2 	Fire 	FMN 	Fire-Talk 
-154.25000 	WNPH234 	BM	118.8 PL	SomPt Fire 3 	Fire (rarely used) 	FMN 	Fire-Talk 
-154.16000 	WPFG741 	RM	118.8 PL	Ventnor FD 	Fire (patched from Atlantic County trunked radio system) 	FM 	Fire-Talk 
-155.41500 	KXD237 	RM	67.0 PL	WTFD Ops 	Weymouth & Estell Manor Fire Operations 	FM 	Fire-Tac 
-451.77500 	WQSC553 	RM	243 DPL	ACIT Ops. 	Operations 	FMN 	Schools 
-464.22500 	WPZI408 	RM		Absegami HS 	Absegami High School 	FMN 	Schools 
-463.92000 	WPZI408 	RM		Oakcrest HS1 	Oakcrest High School 	FMN 	Schools 
-501.86250 	WIL380 	RM		Oakcrest HS2 	Oakcrest High School 	FM 	Schools 
-151.64750 	WQNV332 	RM	431 DPL	Campus Ops 	Campus Center Operations 	FMN 	Schools 
-152.37500 	WQPP705 	RM	734 DPL	Shuttle Bus 	Shuttle Bus Operations 	FMN 	Schools 
-151.57250 	WQOP571 	RM	703 DPL	ITS Ops 	Information Technology Services Operations 	FMN 	Schools 
-151.57250 	WQOP571 	RM	114 DPL	Media Ops 	Media Department Operations 	FMN 	Schools 
-153.09500 	WQAF668 	RM	226 DPL	Custodial 	Custodial Operations 	FMN 	Schools 
-153.54500 	WQAF668 	RM	516 DPL	Plant Ops 	Plant Operations - Repeater 	FMN 	Schools 
-155.89500 	KUJ659 	BM	118.8 PL	Plant Ops A 	Plant Operations - Simplex 1 	FMN 	Schools 
-Atlantic County	 Project 25 Phase II	 Atlantic County	Borgata Hotel Casino & Spa	 DMR Motorola Capacity Plus Single Site (TRBO)	 Atlantic City	Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone
- Various	FleetCall	 NXDN NEXEDGE 4800	 Various	Hard Rock Casino and Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Atlantic City	Harrah's
- Motorola Type II Smartnet	 Atlantic City	Interstate Repeater System	 DMR Conventional Networked	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various
-New Jersey Interoperability Communications System (NJICS)	 Project 25 Phase II	 Statewide	New Jersey State Police	 Motorola Type II SmartZone Omnilink	 Statewide	New Jersey Transit	 TETRA Standard
- Statewide	New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Resorts
- LTR Standard	 Atlantic City	TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various	Tropicana Casino and Resort	 DMR Motorola Capacity Plus Single Site (TRBO)	 Atlantic City
+155.01000 	   	WPLX249 	M	118.8 PL	ACPD CW 	Police Countywide  	FM 	Law Talk 
+156.21000 	   	KGN564 	BM	118.8 PL	ACPD C-C 	Police Countywide Car-to-Car 	FM 	Law Talk 
+155.07000 	156.09000  	KGN564 	RM		ACSO 1 	ACSO Sheriff- Simulcast from TRS 	FM 	Law Talk 
+155.31000 	   	KGN564 	RM		ACSO 2 	Sheriff "Access" TRS Backup  	FM 	Law Talk 
+155.41500 	159.03000  	KXD237 	RM		AC PROC 	Prosecutor's Office - TRS Backup   	FM 	Law Talk 
+155.61000 	154.83000  	WNMV668 	RM		AC Jail 	Sheriff-County Jail - TRS Backup 	FM 	Corrections 
+154.31000 	   	KQO207 	BM	118.8 PL	AtlCo Fire 1 	Fire 1 Dispatch 	FM 	Fire Dispatch 
+154.35500 	   	KQO207 	BM	118.8 PL	AtlCo Fire 2 	Fireground 2 	FM 	Fire-Talk 
+154.28000 	   	KQO207 	BM	118.8 PL	AtlCo Fire 3 	Fire North 	FM 	Fire-Talk 
+154.29500 	   	KQO207 	BM	118.8 PL	AtlCo Fire 4 	Fire South 	FM 	Fire-Talk 
+153.77000 	   	KQO207 	M	118.8 PL	AtlCo Fire 5 	Fire Portable 1 	FM 	Fire-Talk 
+153.83000 	   	KQO207 	M	118.8 PL	AtlCo Fire 6 	Fire Portable 2 	FM 	Fire-Talk 
+154.26500 	   	KQO207 	BM	CSQ	SJ Net 	Fire Mutual Aid -South Jersey Net 	FM 	Interop 
+155.17500 	   	WPZS628 	BM	118.8 PL	AtlCo EMS 1 	EMS Dispatch 	FM 	EMS Dispatch 
+155.34000 	   	KNIF290 	M	118.8 PL	AtlCo EMS 2 	EMS Ambulance-to-Hospital 	FM 	Hospital 
+155.28000 	   	KNIF290 	BM	CSQ	EMS MutAid 	EMS Mutual Aid Statewide 	FM 	Interop 
+151.04000 	156.16500  	KCU266 	RM	141.3 PL	AC Services 	Services - Health,Highway Dept 	FM 	Public Works 
+155.04000 	153.81500  	WQBT214 	RM		ACUA 1 	ACUA 1 Utilities Authority 	FM 	Utilities 
+153.86000 	   	WQBT214 	M		ACUA 2 	ACUA 2 Utilities Authority 	FM 	Utilities 
+453.51250 	4458.51250  	WQCF851 	RM		ACUA Delilah 	ACUA Delilah Land Fill 	FM 	Utilities 
+158.77500 	156.01500  	WZZ239 	RM	118.8 PL	AC OEM 	AC OEM Emergency Management 	FM 	Emergency Ops 
+453.10000 	458.10000  	WNNN676 	RM	351 DPL	ACHA Secrty 	Housing Authority - Security 	FM 	Security 
+453.87500 	458.87500  	WNNN676 	RM	351 DPL	ACHA 2 	Housing Authority 	FM 	Public Works 
+453.67500 	458.67500  	WPMI659 	RM	351 DPL	ACCC Sec 	Convention Center 	FM 	Security 
+155.25000 	   	WQKT389 	BM		Buena VFD 	VFD (Landisville) 	FMN 	Fire-Talk 
+155.80500 	   	WQKT389 	BM	118.8 PL	Buena DPW 	DPW - Water Dept  	FMN 	Public Works 
+155.68500 	156.03000  	KEF785 	RM	118.8 PL	EHC Police 	Police 	FM 	Law Talk 
+154.01000 	   	WPUU524 	BM	118.8 PL	EHT Fire 1  	Fire (Patched with TRS) 	FM 	Fire-Talk 
+153.95000 	   	WPUU524 	BM	118.8 PL	EHT Fire 2 	Fire 	FM 	Fire-Talk 
+154.81500 	   	WNJN646 	BM	118.8 PL	Hmltn Fire 1 	Fire 	FM 	Fire-Talk 
+153.92000 	   	WNJN646 	BM	118.8 PL	Hmltn Fire 2 	Fire 	FM 	Fire-Talk 
+155.22000 	   	WNBU792 	BM		Hmntn Bus 	Board of Education - Buses 	FM 	Schools 
+158.76000 	   	KJG966 	BM	118.8 PL	Hmntn DPW 	Services 	FM 	Public Works 
+155.65500 	154.77000  	KNBL467 	RM	151.4 PL	Linwood FD 	Fire 	FM 	Law Talk 
+154.40000 	   	KNAB750 	BM	152 DPL	Margate FD 	Fire Dispatch (Patch from 800 system) 	FM 	Fire Dispatch 
+154.17500 	158.89500  	KEF328 	RM	143 DPL	Pville Fire  	Fire 	FMN 	Fire-Talk 
+155.59500 	154.95000  	KNIV563 	RM	118.8 PL	Pville EMS 	EMS (Provided by Tricare) 	FMN 	Law Talk 
+155.86500 	   	KRB437 	BM	118.8 PL	Pville PW 	Public Works 	FMN 	Public Works 
+451.26250 	454.26250  	WPTF573 	RM	051 DPL	Pville HA 	Housing Authority 	FMN 	Public Works 
+154.20500 	159.13500  	KNJF454 	BM	143 DPL	SomPt Fire 1 	Fire 	FMN 	Fire-Talk 
+154.07000 	   	KNJF454 	BM	118.8 PL	SomPt Fire 2 	Fire 	FMN 	Fire-Talk 
+154.25000 	   	WNPH234 	BM	118.8 PL	SomPt Fire 3 	Fire (rarely used) 	FMN 	Fire-Talk 
+154.16000 	150.79750  	WPFG741 	RM	118.8 PL	Ventnor FD 	Fire (patched from Atlantic County trunked radio system) 	FM 	Fire-Talk 
+155.41500 	159.03000  	KXD237 	RM	67.0 PL	WTFD Ops 	Weymouth & Estell Manor Fire Operations 	FM 	Fire-Tac 
+451.77500 	456.77500  	WQSC553 	RM	243 DPL	ACIT Ops. 	Operations 	FMN 	Schools 
+464.22500 	469.22500  	WPZI408 	RM		Absegami HS 	Absegami High School 	FMN 	Schools 
+463.92000 	468.92500  	WPZI408 	RM		Oakcrest HS1 	Oakcrest High School 	FMN 	Schools 
+501.86250 	504.86250  	WIL380 	RM		Oakcrest HS2 	Oakcrest High School 	FM 	Schools 
+151.64750 	159.63000  	WQNV332 	RM	431 DPL	Campus Ops 	Campus Center Operations 	FMN 	Schools 
+152.37500 	157.63500  	WQPP705 	RM	734 DPL	Shuttle Bus 	Shuttle Bus Operations 	FMN 	Schools 
+151.57250 	159.71250  	WQOP571 	RM	703 DPL	ITS Ops 	Information Technology Services Operations 	FMN 	Schools 
+151.57250 	159.71250  	WQOP571 	RM	114 DPL	Media Ops 	Media Department Operations 	FMN 	Schools 
+153.09500 	158.14500  	WQAF668 	RM	226 DPL	Custodial 	Custodial Operations 	FMN 	Schools 
+153.54500 	158.26500  	WQAF668 	RM	516 DPL	Plant Ops 	Plant Operations - Repeater 	FMN 	Schools 
+155.89500 	   	KUJ659 	BM	118.8 PL	Plant Ops A 	Plant Operations - Simplex 1 	FMN 	Schools 
+Atlantic County	 Project 25 Phase II	 Atlantic County	Borgata Hotel Casino & Spa	 DMR Motorola Capacity Plus Single Site (TRBO)	 Atlantic City	Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone	 Various
+FleetCall	 NXDN NEXEDGE 4800	 Various	Hard Rock Casino and Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Atlantic City	Harrah's	 Motorola Type II Smartnet	 Atlantic City
+Interstate Repeater System	 DMR Conventional Networked	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	New Jersey Transit	 TETRA Standard	 Statewide
+New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Resorts	 LTR Standard	 Atlantic City
+TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various	Tropicana Casino and Resort	 DMR Motorola Capacity Plus Single Site (TRBO)	 Atlantic City	

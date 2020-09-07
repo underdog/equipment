@@ -1,33 +1,32 @@
-155.43000 	KJR367 	RM	131.8 PL	Napa SO Dispatch 	Dispatch 	FMN 	Law Dispatch 
-151.07000 	KLX965 	RM	131.8 PL	Napa SO Red 	Secondary 	FMN 	Law Tac 
-154.72500 	WNWP821 	RM	192.8 PL	Napa SO Courts 	Court Security 	FMN 	Law Talk 
-453.05000 	KZR546 	RM	167.9 PL	Napa SO Jail 	County Jail (NCDC) 	FMN 	Corrections 
-154.72500 	WNWP821 	M	94.8 PL	Napa SO Prob 	Adult Probation 	FMN 	Law Tac 
-154.72500 	WNWP821 	M	141.3 PL	Napa JuvHall 	Juvenile Probation/Juvenile Hall 	FMN 	Corrections 
-856.96250 	WPQD714 	RM		Napa SO MDT 	MDTs 	Telm 	Data 
-458.96250 	KD29356 	BM	241.8 PL	Napa SO Link 	UHF Control Link (Comm Center-to-Repeater) for Napa SO Red 	FMN 	Law Talk 
-154.41500 	KCR949 	RM	131.8 PL	Napa Co FD 	Dispatch 	FMN 	Fire Dispatch 
-154.32500 	KB71724 	M	131.8 PL	Napa Co FD Tac 	Tactical 	FMN 	Fire-Tac 
-155.10000 	KYO384 	RM	131.8 PL	NapaCo EMS 	Dispatch "Napa 11" 	FMN 	EMS Dispatch 
-155.35500 	KAN321 	BM	131.8 PL	QVMC Base 	Queen of the Valley 	FMN 	Hospital 
-155.40000 	KAN321 	BM	107.2 PL	KVallejo 	Kaiser Vallejo 	FMN 	Hospital 
-151.65500 	WQLR873 	RM	77.0 PL	AngwinAmb 	Angwin Community Ambulance 	FMN 	EMS Dispatch 
-153.98000 	KMK773 	RM	131.8 PL	Napa Co LG 	Local Government (Napa 10) 	FMN 	Public Works 
-453.35000 	WNQD301 	RM	131.8 PL	Napa Co Roads 	Roads (Napa 17) 	FMN 	Public Works 
-453.45000 	WPIA653 	RM	167.9 PL	Napa Co PW 	Public Works 	FMN 	Public Works 
-39.90000 	WPLD230 	BM	123.0 PL	Napa Co Bus 	Senior Buses ("Van-Go") 	FMN 	Transportation 
-153.78500 	WGI322 	RM	127.3 PL	Calistoga PD 	Police Dispatch 	FMN 	Law Dispatch 
-156.03000 	WNAG886 	RM	131.8 PL	Napa PD Blue 	Police Dispatch 	FMN 	Law Dispatch 
-155.58000 	KB80998 	M	131.8 PL	Napa PD Det 	Police Detectives/Special Ops 	FMN 	Law Tac 
-153.93500 	KD5943 	M		Napa PD NARC 	Police Narcotics (Analog Encryption/Part time P25) 	FMN 	Law Tac 
-155.80500 	WNLI236 	RM	131.8 PL	Napa FD 1 	Fire Dispatch (Napa 4) 	FMN 	Fire Dispatch 
-153.95000 	WPJH382 	M	146.2 PL	Napa FD 2 	Fire Tactical 	FMN 	Fire-Tac 
-458.65000 	KQ7807 	M	136.5 PL	Napa FD F/G 	Fireground 	FMN 	Fire-Tac 
-482.48750 	KZR634 	RM	141.3 PL	Napa Buses 	Transit Buses (The Vine) 	FMN 	Transportation 
-155.56500 	KXP210 	RM	127.3 PL	St Helena PD 	Police Dispatch 	FMN 	Law Dispatch 
-153.89000 	 	M	127.3 PL	St Helena FD 	Fire Tac 	FMN 	Fire-Tac 
-155.05500 	WNNL931 	RM	127.3 PL	St Helena PW 	Public Works 	FMN 	Public Works 
-154.75500 	KXG936 	BM	94.8 PL	NVC PD 	Police Dispatch 	FMN 	Law Dispatch 
-ATT (LTR)	 LTR Standard	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	CALTrans (District 04 - South)	 Motorola Type II Smartnet
- None	Delta Wireless	 Motorola Type II Smartnet	 None	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Silke Communications
- NXDN NEXEDGE 4800	 Northern California	Unidentified Federal Project 25 BEE00-4D5	 Project 25 Phase II	 Various	Walsh Vineyards Management, Inc.	 LTR Standard	 Napa
+155.43000 	158.97000  	KJR367 	RM	131.8 PL	Napa SO Dispatch 	Dispatch 	FMN 	Law Dispatch 
+151.07000 	159.04500  	KLX965 	RM	131.8 PL	Napa SO Red 	Secondary 	FMN 	Law Tac 
+154.72500 	158.74500  	WNWP821 	RM	192.8 PL	Napa SO Courts 	Court Security 	FMN 	Law Talk 
+453.05000 	458.05000  	KZR546 	RM	167.9 PL	Napa SO Jail 	County Jail (NCDC) 	FMN 	Corrections 
+154.72500 	   	WNWP821 	M	94.8 PL	Napa SO Prob 	Adult Probation 	FMN 	Law Tac 
+154.72500 	   	WNWP821 	M	141.3 PL	Napa JuvHall 	Juvenile Probation/Juvenile Hall 	FMN 	Corrections 
+856.96250 	811.96250  	WPQD714 	RM		Napa SO MDT 	MDTs 	Telm 	Data 
+458.96250 	   	KD29356 	BM	241.8 PL	Napa SO Link 	UHF Control Link (Comm Center-to-Repeater) for Napa SO Red 	FMN 	Law Talk 
+154.41500 	154.86000  	KCR949 	RM	131.8 PL	Napa Co FD 	Dispatch 	FMN 	Fire Dispatch 
+154.32500 	   	KB71724 	M	131.8 PL	Napa Co FD Tac 	Tactical 	FMN 	Fire-Tac 
+155.10000 	155.83500  	KYO384 	RM	131.8 PL	NapaCo EMS 	Dispatch "Napa 11" 	FMN 	EMS Dispatch 
+155.35500 	   	KAN321 	BM	131.8 PL	QVMC Base 	Queen of the Valley 	FMN 	Hospital 
+155.40000 	   	KAN321 	BM	107.2 PL	KVallejo 	Kaiser Vallejo 	FMN 	Hospital 
+151.65500 	159.76500  	WQLR873 	RM	77.0 PL	AngwinAmb 	Angwin Community Ambulance 	FMN 	EMS Dispatch 
+153.98000 	158.88000  	KMK773 	RM	131.8 PL	Napa Co LG 	Local Government (Napa 10) 	FMN 	Public Works 
+453.35000 	458.35000  	WNQD301 	RM	131.8 PL	Napa Co Roads 	Roads (Napa 17) 	FMN 	Public Works 
+453.45000 	458.45000  	WPIA653 	RM	167.9 PL	Napa Co PW 	Public Works 	FMN 	Public Works 
+39.90000 	   	WPLD230 	BM	123.0 PL	Napa Co Bus 	Senior Buses ("Van-Go") 	FMN 	Transportation 
+153.78500 	158.74500  	WGI322 	RM	127.3 PL	Calistoga PD 	Police Dispatch 	FMN 	Law Dispatch 
+156.03000 	159.16500  	WNAG886 	RM	131.8 PL	Napa PD Blue 	Police Dispatch 	FMN 	Law Dispatch 
+155.58000 	   	KB80998 	M	131.8 PL	Napa PD Det 	Police Detectives/Special Ops 	FMN 	Law Tac 
+153.93500 	   	KD5943 	M		Napa PD NARC 	Police Narcotics (Analog Encryption/Part time P25) 	FMN 	Law Tac 
+155.80500 	158.94000  	WNLI236 	RM	131.8 PL	Napa FD 1 	Fire Dispatch (Napa 4) 	FMN 	Fire Dispatch 
+153.95000 	   	WPJH382 	M	146.2 PL	Napa FD 2 	Fire Tactical 	FMN 	Fire-Tac 
+458.65000 	   	KQ7807 	M	136.5 PL	Napa FD F/G 	Fireground 	FMN 	Fire-Tac 
+482.48750 	485.48750  	KZR634 	RM	141.3 PL	Napa Buses 	Transit Buses (The Vine) 	FMN 	Transportation 
+155.56500 	158.84250  	KXP210 	RM	127.3 PL	St Helena PD 	Police Dispatch 	FMN 	Law Dispatch 
+153.89000 	   	 	M	127.3 PL	St Helena FD 	Fire Tac 	FMN 	Fire-Tac 
+155.05500 	158.77500  	WNNL931 	RM	127.3 PL	St Helena PW 	Public Works 	FMN 	Public Works 
+154.75500 	   	KXG936 	BM	94.8 PL	NVC PD 	Police Dispatch 	FMN 	Law Dispatch 
+ATT (LTR)	 LTR Standard	 Various	CALTrans (District 04 - South)	 Motorola Type II Smartnet	 None	Delta Wireless	 Motorola Type II Smartnet	 None
+Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Unidentified Federal Project 25 BEE00-4D5	 Project 25 Phase II	 Various	Walsh Vineyards Management, Inc.	 LTR Standard	 Napa

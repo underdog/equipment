@@ -1,30 +1,29 @@
-155.07000 	KNEQ823 	RM	441 NAC|TG 1	HenryCo Shrf 	Sheriff Dispatch 	P25 	Law Dispatch 
-155.58000 	KNEQ823 	B	146.2 PL	HenryCoInfoB 	Sheriff Information - Base 	FMN 	Law Talk 
-155.91000 	KNEQ823 	M		HenryCoInfoM 	Sheriff Information - Mobiles 	FMN 	Law Talk 
-158.77500 	KKV794 	BM		HenryCoShEMA 	Sheriff/Emergency Mgmt. 	FMN 	Emergency Ops 
-154.40000 	WNKA960 	RM	146.2 PL	Henry CoFire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.16000 	WNKU933 	BM		HenryCoEMA-V 	Emergency Management 	FMN 	Emergency Ops 
-453.47500 	WPWR658 	RM		HenryCoEMA-U 	Emergency Management 	FMN 	Emergency Ops 
-151.11500 	WNBR356 	RM	532 DPL	HenryCoRoads 	Road Department 	FMN 	Public Works 
-155.23500 	WRE386 	BM	CSQ	Henry Co EMS 	EMS - Dispatch - 146.2 PL used on mobiles 	FMN 	EMS Dispatch 
-163.25000 	WRX707 	B		HCHC Paging 	Paging 	FM 	Data 
-155.71500 	WQCV214 	BM		Hillsboro FG 	Fireground [Expired 7/15] 	FMN 	Fire-Tac 
-158.91000 	WQBH679 	M		MtPleasantPD 	Police Tactical 	FMN 	Law Tac 
-458.91000 	WQBH679 	M		MtPleasantPD 	Police Vehicle Repeaters 	FMN 	Law Dispatch 
-153.83000 	KRP933 	M		MPFD Tac 	Fireground 	FMN 	Fire-Tac 
-154.04000 	WPGI939 	BM		MtPleasantPW 	Public Works 	FMN 	Public Works 
-153.57500 	WNFC376 	BM		MtPleasantPW 	Public Works 	FMN 	Public Works 
-465.55000 	WPYI370 	M		MtUnion Fire 	Fire: Vehiclular Repeaters 	FMN 	Fire Dispatch 
-155.07000 	WPMT956 	BM		NewLondon PD 	Police 	FMN 	Law Tac 
-154.96500 	KTC964 	BM		NewLondon PW 	Public Works 	FMN 	Public Works 
-154.20500 	KNNP548 	BM		Olds Fireground  	Fireground 	FMN 	Fire-Tac 
-155.80500 	WPHB832 	BM		Salem PW/FG 	Public Works/Fireground 	FMN 	Multi-Tac 
-154.10000 	KNHW925 	BM		WaylandPW/FG 	Public Works/Fireground 	FMN 	Multi-Tac 
-453.40000 	WNRV490 	RM		Winfield Police 	Police Dispatch 	FMN 	Law Dispatch 
-155.07000 	WNRV490 	BM		Winfield PD Alt  	Police Alternate Dispatch 	FMN 	Law Dispatch 
-158.76000 	WNRV490 	M		Winfield PD Tac 	Police Tactical 	FMN 	Law Tac 
-154.14500 	KB77617 	M		Winfield FG 	Fireground 	FMN 	Fire-Tac 
-155.95500 	WNRV490 	BM		Winfield PubWork 	Public Works 	FMN 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Iowa Department of Corrections	 DMR Tier 3
- Various	Iowa DMR Users Group	 DMR Conventional Networked	 Various	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	RACOM Network
- EDACS Networked Standard	 Various	
+155.07000 	158.91000  	KNEQ823 	RM	441 NAC|TG 1	HenryCo Shrf 	Sheriff Dispatch 	P25 	Law Dispatch 
+155.58000 	   	KNEQ823 	B	146.2 PL	HenryCoInfoB 	Sheriff Information - Base 	FMN 	Law Talk 
+155.91000 	   	KNEQ823 	M		HenryCoInfoM 	Sheriff Information - Mobiles 	FMN 	Law Talk 
+158.77500 	   	KKV794 	BM		HenryCoShEMA 	Sheriff/Emergency Mgmt. 	FMN 	Emergency Ops 
+154.40000 	159.42750  	WNKA960 	RM	146.2 PL	Henry CoFire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.16000 	   	WNKU933 	BM		HenryCoEMA-V 	Emergency Management 	FMN 	Emergency Ops 
+453.47500 	458.47500  	WPWR658 	RM		HenryCoEMA-U 	Emergency Management 	FMN 	Emergency Ops 
+151.11500 	159.06000  	WNBR356 	RM	532 DPL	HenryCoRoads 	Road Department 	FMN 	Public Works 
+155.23500 	   	WRE386 	BM	CSQ	Henry Co EMS 	EMS - Dispatch - 146.2 PL used on mobiles 	FMN 	EMS Dispatch 
+163.25000 	   	WRX707 	B		HCHC Paging 	Paging 	FM 	Data 
+155.71500 	   	WQCV214 	BM		Hillsboro FG 	Fireground [Expired 7/15] 	FMN 	Fire-Tac 
+158.91000 	   	WQBH679 	M		MtPleasantPD 	Police Tactical 	FMN 	Law Tac 
+458.91000 	   	WQBH679 	M		MtPleasantPD 	Police Vehicle Repeaters 	FMN 	Law Dispatch 
+153.83000 	   	KRP933 	M		MPFD Tac 	Fireground 	FMN 	Fire-Tac 
+154.04000 	   	WPGI939 	BM		MtPleasantPW 	Public Works 	FMN 	Public Works 
+153.57500 	   	WNFC376 	BM		MtPleasantPW 	Public Works 	FMN 	Public Works 
+465.55000 	   	WPYI370 	M		MtUnion Fire 	Fire: Vehiclular Repeaters 	FMN 	Fire Dispatch 
+155.07000 	   	WPMT956 	BM		NewLondon PD 	Police 	FMN 	Law Tac 
+154.96500 	   	KTC964 	BM		NewLondon PW 	Public Works 	FMN 	Public Works 
+154.20500 	   	KNNP548 	BM		Olds Fireground  	Fireground 	FMN 	Fire-Tac 
+155.80500 	   	WPHB832 	BM		Salem PW/FG 	Public Works/Fireground 	FMN 	Multi-Tac 
+154.10000 	   	KNHW925 	BM		WaylandPW/FG 	Public Works/Fireground 	FMN 	Multi-Tac 
+453.40000 	458.40000  	WNRV490 	RM		Winfield Police 	Police Dispatch 	FMN 	Law Dispatch 
+155.07000 	   	WNRV490 	BM		Winfield PD Alt  	Police Alternate Dispatch 	FMN 	Law Dispatch 
+158.76000 	   	WNRV490 	M		Winfield PD Tac 	Police Tactical 	FMN 	Law Tac 
+154.14500 	   	KB77617 	M		Winfield FG 	Fireground 	FMN 	Fire-Tac 
+155.95500 	   	WNRV490 	BM		Winfield PubWork 	Public Works 	FMN 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Iowa Department of Corrections	 DMR Tier 3	 Various
+Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	RACOM Network	 EDACS Networked Standard	 Various	

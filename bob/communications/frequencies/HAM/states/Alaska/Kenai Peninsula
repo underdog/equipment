@@ -1,22 +1,22 @@
-154.35500 	KNEA309 	BM		Kenai Fire 	Kenai Fire 	FMN 	Fire Dispatch 
-154.38500 	KRW200 	RM	127.3 PL	Kenai ES Dis 	Central Emergency Services Dispatch (linked to ALMR 15011) 	FM 	Emergency Ops 
-154.32500 	KRW200 	BM		Kenai ES Tac 	Central Emergency Services Tac 	FM 	Emergency Ops 
-154.05500 	WQEB567 	BM		Cooper Landing 	Cooper Landing Emergency services 	FMN 	Emergency Ops 
-452.30000 	WQXF608 	BM		C Penin Hosp 1 	Central Peninsula Hospital 	NXDN 	Hospital 
-461.17500 	WQXF608 	BM		C Penin Hosp 2 	Central Peninsula Hospital 	NXDN 	Hospital 
-155.62500 	KRG705 	BM	293 NAC	Homer PD 1 	Police Dispatch (linked to ALMR 15501, encrypted) 	P25E 	Law Dispatch 
-155.31000 	KRG705 	BM	293 NAC	Homer PD 2 	Police (encrypted) 	P25E 	Law Tac 
-153.83000 	WNFB229 	BM		Homer FD 1 	FIre 1 	FM 	Fire Dispatch 
-153.89000 	WNFB229 	BM	123.0 PL	Homer FD 2 	Fire 2 	FM 	Fire-Tac 
-154.37000 	WNFB229 	BM		Homer FD 3 	Fire 3 	FM 	Fire-Tac 
-154.41500 	WNFB229 	BM	100.0 PL	Homer FD 4 	Fire 4 	FM 	Fire-Tac 
-153.90500 	WPGZ246 	BM	123.0 PL	Homer PW 	Public Works 	FMN 	Public Works 
-154.14500 	WNSK334 	RM	127.3 PL	Nikiski FD 1 	Fire & EMS - Dispatch 	FM 	Fire Dispatch 
-154.01000 	WNSK334 	M		Nikiski FD 2 	Fire & EMS - Tactical 	FM 	Fire-Tac 
-154.16000 	WNSK334 	M		Nikiski FD 3 	Fire & EMS - Tactical 	FM 	Fire-Tac 
-151.10000 	WNIV953 	BM	127.3 PL	Ninilchik Em 	Emergency Services 	FMN 	Emergency Ops 
-154.25000 	KOD269 	RM	127.3 PL	BearCreek FD 	Bear Creek Fire Dispatch 	FM 	Fire Dispatch 
-154.43000 	KWB241 	BM	CSQ	Seward FD 	Seward Fire Dispatch 	FMN 	Fire Dispatch 
-155.16000 	WXQ964 	BM	CSQ	Seward EMS 	Seward Volunteer Ambulance Corps 	FMN 	EMS-Talk 
-154.28000 	WQAY894 	BM	CSQ	Lowell Point VFD 	Lowell Point Volunteer Fire 	FMN 	Fire-Talk 
+154.35500 	   	KNEA309 	BM		Kenai Fire 	Kenai Fire 	FMN 	Fire Dispatch 
+154.38500 	159.19500  	KRW200 	RM	127.3 PL	Kenai ES Dis 	Central Emergency Services Dispatch (linked to ALMR 15011) 	FM 	Emergency Ops 
+154.32500 	   	KRW200 	BM		Kenai ES Tac 	Central Emergency Services Tac 	FM 	Emergency Ops 
+154.05500 	   	WQEB567 	BM		Cooper Landing 	Cooper Landing Emergency services 	FMN 	Emergency Ops 
+452.30000 	   	WQXF608 	BM		C Penin Hosp 1 	Central Peninsula Hospital 	NXDN 	Hospital 
+461.17500 	   	WQXF608 	BM		C Penin Hosp 2 	Central Peninsula Hospital 	NXDN 	Hospital 
+155.62500 	   	KRG705 	BM	293 NAC	Homer PD 1 	Police Dispatch (linked to ALMR 15501, encrypted) 	P25E 	Law Dispatch 
+155.31000 	   	KRG705 	BM	293 NAC	Homer PD 2 	Police (encrypted) 	P25E 	Law Tac 
+153.83000 	   	WNFB229 	BM		Homer FD 1 	FIre 1 	FM 	Fire Dispatch 
+153.89000 	   	WNFB229 	BM	123.0 PL	Homer FD 2 	Fire 2 	FM 	Fire-Tac 
+154.37000 	   	WNFB229 	BM		Homer FD 3 	Fire 3 	FM 	Fire-Tac 
+154.41500 	   	WNFB229 	BM	100.0 PL	Homer FD 4 	Fire 4 	FM 	Fire-Tac 
+153.90500 	   	WPGZ246 	BM	123.0 PL	Homer PW 	Public Works 	FMN 	Public Works 
+154.14500 	153.77000  	WNSK334 	RM	127.3 PL	Nikiski FD 1 	Fire & EMS - Dispatch 	FM 	Fire Dispatch 
+154.01000 	   	WNSK334 	M		Nikiski FD 2 	Fire & EMS - Tactical 	FM 	Fire-Tac 
+154.16000 	   	WNSK334 	M		Nikiski FD 3 	Fire & EMS - Tactical 	FM 	Fire-Tac 
+151.10000 	   	WNIV953 	BM	127.3 PL	Ninilchik Em 	Emergency Services 	FMN 	Emergency Ops 
+154.25000 	159.45000  	KOD269 	RM	127.3 PL	BearCreek FD 	Bear Creek Fire Dispatch 	FM 	Fire Dispatch 
+154.43000 	   	KWB241 	BM	CSQ	Seward FD 	Seward Fire Dispatch 	FMN 	Fire Dispatch 
+155.16000 	   	WXQ964 	BM	CSQ	Seward EMS 	Seward Volunteer Ambulance Corps 	FMN 	EMS-Talk 
+154.28000 	   	WQAY894 	BM	CSQ	Lowell Point VFD 	Lowell Point Volunteer Fire 	FMN 	Fire-Talk 
 Alaska Land Mobile Radio (ALMR)	 Project 25 Phase I	 Statewide	Chugach Electric Association	 LTR Net	 Anchorage	

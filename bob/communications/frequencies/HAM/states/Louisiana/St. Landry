@@ -1,27 +1,26 @@
-154.23500 	WQAW512 	BM		SLFPD-1 OPS 	Parish Fire Protection District 1 	FM 	Fire-Tac 
-154.16000 	WQIA461 	BM		SLFPD-2 OPS 	ParishFire Protection District 2 Operations 	FMN 	Fire-Tac 
-154.28000 	KNET563 	BM		SLFPD-3 OPS2 	Parish Fire Protection District 3 	FMN 	Fire-Tac 
-154.32500 	KNET563 	RM		SLFPD-3 OPS1 	Parish Fire Protection District 3 	FMN 	Fire-Tac 
-154.28000 	KD46989 	BM		SLFPD-4 OPS 	Parish Fire Protection District 4 *Coulee Croche* Operations 	FM 	Fire-Tac 
-154.78500 	KKA687 	RM		OEP-OPS 	St. Landry OEP 	FMN 	Emergency Ops 
-154.84500 	KKA687 	RM		OEP FD PAGE 	St Landry 911 Parish Wide Fire Paging 	FMN 	Fire Dispatch 
-155.16000 	KNGE353 	M		EMC 	Eunice Medical Center 	FM 	Hospital 
-155.22000 	KNGE353 	BM		EMC 	Eunice Medical Center 	FM 	Hospital 
-155.34000 	KNGE353 	BM		EMC 	Eunice Medical Center 	FM 	Hospital 
-155.88000 	WQKA405 	RM	464 DPL	MED XPRESS 	Med Express Ambulance (Melville) 	FM 	EMS Dispatch 
-151.84250 	WQWY790 	RM	026 DPL	AEL 124 BASE 	Air Evac EMS 124 (Opelousas) Input is 245 DPL 	FMN 	EMS Dispatch 
-155.36250 	WQPF661 	RM		EFD-DISP 	Fire/Rescue Dispatch 	FMN 	Fire Dispatch 
-154.28000 	WPVS633 	BM		EFD-TAC 1 	Fire/Rescue Tactical 	FM 	Fire-Tac 
-154.37000 	WPVS633 	BM		EFD-TAC 2 	Fire/Rescue Tactical 	FM 	Fire-Tac 
-155.07000 	KKJ950 	RM		EPD-VHF 1 	Police Primary 	FM 	Law Dispatch 
-155.01000 	KKJ950 	BM		EPD-VHF 2 	Police Secondary 	FM 	Law Tac 
-155.68500 	KKJ950 	BM		EPD-VHF 3 	Police Trinary 	FM 	Law Talk 
-851.16250 	WPFQ565 	RM	025 DPL	OPD-DISP 	Police 	FM 	Law Dispatch 
-866.51250 	WPML889 	RM		OPD-TAC 	Police 	FM 	Law Tac 
-868.01250 	WPML889 	RM		OPD-TAC 	Police 	FM 	Law Tac 
-154.40000 	KKG520 	BM	162.2 PL	OFD-DISP 	Fire/Rescue 	FMN 	Fire Dispatch 
-154.28000 	KKG520 	BM		OFD-TAC 	Fire/Rescue 	FMN 	Fire-Tac 
-155.55000 	WNWU252 	RM	127.3 PL	1 	Police 	FMN 	Law Dispatch 
-467.58750 	 	M		TVIM-OPS 	Twisted Vortex International Media 	FMN 	Media 
-CLECO Power (P25)	 Project 25 Phase II	 Pineville	Entergy 	 Project 25 Phase II	 Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I
- Statewide	St. Landry Parish Communications District	 Motorola Type II Smartnet	 Opelousas	
+154.23500 	   	WQAW512 	BM		SLFPD-1 OPS 	Parish Fire Protection District 1 	FM 	Fire-Tac 
+154.16000 	   	WQIA461 	BM		SLFPD-2 OPS 	ParishFire Protection District 2 Operations 	FMN 	Fire-Tac 
+154.28000 	   	KNET563 	BM		SLFPD-3 OPS2 	Parish Fire Protection District 3 	FMN 	Fire-Tac 
+154.32500 	154.01000  	KNET563 	RM		SLFPD-3 OPS1 	Parish Fire Protection District 3 	FMN 	Fire-Tac 
+154.28000 	153.89000  	KD46989 	BM		SLFPD-4 OPS 	Parish Fire Protection District 4 *Coulee Croche* Operations 	FM 	Fire-Tac 
+154.78500 	156.21000  	KKA687 	RM		OEP-OPS 	St. Landry OEP 	FMN 	Emergency Ops 
+154.84500 	155.79000  	KKA687 	RM		OEP FD PAGE 	St Landry 911 Parish Wide Fire Paging 	FMN 	Fire Dispatch 
+155.16000 	   	KNGE353 	M		EMC 	Eunice Medical Center 	FM 	Hospital 
+155.22000 	   	KNGE353 	BM		EMC 	Eunice Medical Center 	FM 	Hospital 
+155.34000 	   	KNGE353 	BM		EMC 	Eunice Medical Center 	FM 	Hospital 
+155.88000 	150.80500  	WQKA405 	RM	464 DPL	MED XPRESS 	Med Express Ambulance (Melville) 	FM 	EMS Dispatch 
+151.84250 	157.67250  	WQWY790 	RM	026 DPL	AEL 124 BASE 	Air Evac EMS 124 (Opelousas) Input is 245 DPL 	FMN 	EMS Dispatch 
+155.36250 	158.88000  	WQPF661 	RM		EFD-DISP 	Fire/Rescue Dispatch 	FMN 	Fire Dispatch 
+154.28000 	   	WPVS633 	BM		EFD-TAC 1 	Fire/Rescue Tactical 	FM 	Fire-Tac 
+154.37000 	   	WPVS633 	BM		EFD-TAC 2 	Fire/Rescue Tactical 	FM 	Fire-Tac 
+155.07000 	156.09000  	KKJ950 	RM		EPD-VHF 1 	Police Primary 	FM 	Law Dispatch 
+155.01000 	   	KKJ950 	BM		EPD-VHF 2 	Police Secondary 	FM 	Law Tac 
+155.68500 	   	KKJ950 	BM		EPD-VHF 3 	Police Trinary 	FM 	Law Talk 
+851.16250 	806.16250  	WPFQ565 	RM	025 DPL	OPD-DISP 	Police 	FM 	Law Dispatch 
+866.51250 	   	WPML889 	RM		OPD-TAC 	Police 	FM 	Law Tac 
+868.01250 	   	WPML889 	RM		OPD-TAC 	Police 	FM 	Law Tac 
+154.40000 	   	KKG520 	BM	162.2 PL	OFD-DISP 	Fire/Rescue 	FMN 	Fire Dispatch 
+154.28000 	   	KKG520 	BM		OFD-TAC 	Fire/Rescue 	FMN 	Fire-Tac 
+155.55000 	154.77000  	WNWU252 	RM	127.3 PL	1 	Police 	FMN 	Law Dispatch 
+467.58750 	   	 	M		TVIM-OPS 	Twisted Vortex International Media 	FMN 	Media 
+CLECO Power (P25)	 Project 25 Phase II	 Pineville	Entergy 	 Project 25 Phase II	 Various	St. Landry Parish Communications District	 Motorola Type II Smartnet	 Opelousas

@@ -1,6 +1,7 @@
-155.64000 	KNBV938 	RM	88.5 PL	Winkler SO 	Sheriff 	FM 	Law Dispatch 
-155.71500 	WPNW778 	RM		Winkler EMS 	EMS 	FM 	EMS Dispatch 
-155.41500 	KAO303 	RM		Kermit PD 	Kermit Police Department 	FMN 	Law Dispatch 
-158.74500 	KAO303 	RM		Kermit VFD 	Kermit Volunteer Fire Department 	FMN 	Law Dispatch 
-154.38500 	WPJG913 	RM		Wink VFD 	Wink Volunter Fire Department 	FMN 	Fire Dispatch 
-Oncor Energy	 EDACS Narrowband Networked	 Various	
+155.64000 	   	KNBV938 	RM	88.5 PL	Winkler SO Ana 	Sheriff 	FM 	Law Dispatch 
+155.64000 	   	KNBV938 	RM	248 NAC	Winkler SO P25 	Sheriff 	P25 	Law Dispatch 
+155.71500 	   	WPNW778 	RM		Winkler EMS 	EMS 	FM 	EMS Dispatch 
+155.41500 	151.44500  	KAO303 	RM		Kermit PD 	Kermit Police Department 	P25 	Law Dispatch 
+158.74500 	153.94250  	KAO303 	RM		Kermit VFD 	Kermit Volunteer Fire Department 	FMN 	Law Dispatch 
+154.38500 	154.17500  	WPJG913 	RM		Wink VFD 	Wink Volunter Fire Department 	FMN 	Fire Dispatch 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various	

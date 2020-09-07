@@ -1,20 +1,19 @@
-460.07500 	KZE558 	RM	110.9 PL	PASQ SO 	Pasquotank County Sheriff Dispatch 	FMN 	Law Dispatch 
-154.31000 	KIU563 	RM	118.8 PL	PASQ DISP 	Pasquotank County Fire Dispatch 	FMN 	Fire Dispatch 
-151.11500 	WQWV207  	RM	118.8 PL	PUB SAFE 	Pasquotank VHF Public Safety 	FMN 	Emergency Ops 
-453.62500 	WQWV207  	RM	110.9 PL	PUB SAFE 	Pasquotank UHF Public Safety 	FMN 	Emergency Ops 
-155.34000 	KUL876 	BM	107.2 PL	ALB HOSP 	Albemarle Hospital 	FMN 	Hospital 
-155.70000 	 	BM		ECPW 	Elizabeth City Public Works 	DMR 	Public Works 
-153.19250 	 	BM		EC ELECTRIC 	Elizabeth City Electric Co-Op 	DMR 	Public Works 
-153.80000 	WPSM686 	M		PASQ SCHOOL 	Northside Elem School 	DMRE 	Schools 
-155.02500 	WPQH573 	M		PASQ SCHOOL 	Pasquotank County School Security 	DMRE 	Schools 
-155.80500 	WPTE383 	M		PSQTNKSCHOOL 	East City Middle School 	DMRE 	Schools 
-158.77500 	WPMN988 	RM		PASQ SCH MNT 	Pasquotank County School Maint. 	DMR 	Schools 
-158.77500 	WPMN988 	RM		PASQ SCH BUS 	Pasquotank County School Buses 	DMRE 	Schools 
-155.53500 	WQHB475 	RM	203.5 PL	ICPTA 	ICPTA Transportation Vans 	FMN 	Transportation 
-460.20000 	WPVX382 	RM	110.9 PL	ELIZ CTY PD 	Elizabeth City Police Dispatch 	FMN 	Law Dispatch 
-460.37500 	WPVX382 	RM	110.9 PL	ELIZ CTY M/A 	Elizabeth City Police Mutual Aid 	FMN 	Law Talk 
-154.43000 	KIU563 	RM	107.2 PL	TAC 3 	Elizabeth City Fire Dispatch / Pasq Tac 3 	FMN 	Fire Dispatch 
-154.28000 	KIU563 	BM	107.2 PL	STATE FD 	Elizabeth City State Fire 	FMN 	Multi-Dispatch 
-453.10000 	WQEL899 	RM	110.9 PL	ECSU PD 	Elizabeth City State University Campus Police 	FMN 	Law Dispatch 
-452.17500 	 	RM	123.0 PL	Dom Power 	Elizabeth City Switching 	FMN 	Utilities 
-North Carolina VIPER	 Project 25 Phase I	 Varies	
+460.07500 	465.07500  	KZE558 	RM	110.9 PL	PASQ SO 	Pasquotank County Sheriff Dispatch 	FMN 	Law Dispatch 
+154.31000 	150.80500  	KIU563 	RM	118.8 PL	PASQ DISP 	Pasquotank County Fire Dispatch 	FMN 	Fire Dispatch 
+151.11500 	   	WQWV207  	RM	118.8 PL	PUB SAFE 	Pasquotank VHF Public Safety 	FMN 	Emergency Ops 
+453.62500 	458.62500  	WQWV207  	RM	110.9 PL	PUB SAFE 	Pasquotank UHF Public Safety 	FMN 	Emergency Ops 
+155.34000 	   	KUL876 	BM	107.2 PL	ALB HOSP 	Albemarle Hospital 	FMN 	Hospital 
+155.70000 	   	 	BM		ECPW 	Elizabeth City Public Works 	DMR 	Public Works 
+153.19250 	   	 	BM		EC ELECTRIC 	Elizabeth City Electric Co-Op 	DMR 	Public Works 
+153.80000 	   	WPSM686 	M		PASQ SCHOOL 	Northside Elem School 	DMRE 	Schools 
+155.02500 	   	WPQH573 	M		PASQ SCHOOL 	Pasquotank County School Security 	DMRE 	Schools 
+155.80500 	   	WPTE383 	M		PSQTNKSCHOOL 	East City Middle School 	DMRE 	Schools 
+158.77500 	153.96500  	WPMN988 	RM		PASQ SCH MNT 	Pasquotank County School Maint. 	DMR 	Schools 
+158.77500 	153.96500  	WPMN988 	RM		PASQ SCH BUS 	Pasquotank County School Buses 	DMRE 	Schools 
+155.53500 	150.77500  	WQHB475 	RM	203.5 PL	ICPTA 	ICPTA Transportation Vans 	FMN 	Transportation 
+460.20000 	465.20000  	WPVX382 	RM	110.9 PL	ELIZ CTY PD 	Elizabeth City Police Dispatch 	FMN 	Law Dispatch 
+460.37500 	465.37500  	WPVX382 	RM	110.9 PL	ELIZ CTY M/A 	Elizabeth City Police Mutual Aid 	FMN 	Law Talk 
+154.43000 	158.95500  	KIU563 	RM	107.2 PL	TAC 3 	Elizabeth City Fire Dispatch / Pasq Tac 3 	FMN 	Fire Dispatch 
+154.28000 	   	KIU563 	BM	107.2 PL	STATE FD 	Elizabeth City State Fire 	FMN 	Multi-Dispatch 
+453.10000 	458.10000  	WQEL899 	RM	110.9 PL	ECSU PD 	Elizabeth City State University Campus Police 	FMN 	Law Dispatch 
+452.17500 	457.17500  	 	RM	123.0 PL	Dom Power 	Elizabeth City Switching 	FMN 	Utilities 

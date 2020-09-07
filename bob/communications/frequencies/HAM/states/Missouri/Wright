@@ -1,26 +1,26 @@
-155.64000 	KAJ362 	RM	162.2 PL	Wright CoSheriff 	Sheriff: Dispatch (Backup to MOSWIN) 	FMN 	Law Dispatch 
-159.15750 	WQYC479 	B	125 DPL	Wright Fire Page 	Fire: Paging 	FMN 	Fire Dispatch 
-155.42250 	WQYC478 	RM	125 DPL	Norwood Dispatch 	Norwood Dispatch 	FMN 	Fire Dispatch 
-154.95750 	WQYC478 	RM	431 DPL	Norwood Ops 	Norwood Operations 	FMN 	Fire-Tac 
-155.03250 	WQYC479 	RM	125 DPL	MtnGrove Disptch 	Mountain Grove Dispatch 	FMN 	Fire Dispatch 
-155.31750 	WQYC478 	RM	431 DPL	MtnGrove Ops 	Mountain Grove Operations 	FMN 	Fire-Tac 
-154.19750 	WQYC478 	RM	125 DPL	Mansfield Dsptch 	Mansfield Dispatch 	FMN 	Fire Dispatch 
-154.24250 	WQYC478 	RM	431 DPL	Mansfield Ops 	Mansfield Operations 	FMN 	Fire-Tac 
-154.22750 	WQYC478 	RM	125 DPL	HartsvilleDsptch 	Hartville Dispatch 	FMN 	Fire Dispatch 
-155.10750 	WQYC478 	RM	431 DPL	Hartsville Ops 	Hartville Operations 	FMN 	Fire-Tac 
-154.85250 	WQYC478 	RM	125 DPL	Grovespring Disp 	Grovespring Dispatch 	FMN 	Fire Dispatch 
-154.21250 	WQYC478 	RM	431 DPL	Grovespring Ops 	Grovespring Operations 	FMN 	Fire-Tac 
-154.40750 	WQYC478 	RM	125 DPL	Manes? Dispatch 	Manes Dispatch 	FMN 	Fire Dispatch 
-154.04750 	WQYC478 	RM	431 DPL	Manes? Ops 	Manes Operations 	FMN 	Fire-Tac 
-155.82750 	WQYC480 	RM	431 DPL	Wright Co EMA 	Emergency Management Agency 	FMN 	Emergency Ops 
-155.35500 	WNZP475 	RM	151.4 PL	StJohns EMS 	Saint John's EMS 	FM 	EMS Dispatch 
-155.17500 	WNZP475 	BM		StJohnsEMS2 	Saint John's EMS 	FM 	EMS Dispatch 
-156.16500 	WPBK646 	RM	151.4 PL	GAVFPD Local 	Fire: Local (was 154.07 simplex) 	FMN 	Fire Dispatch 
-154.32500 	WPBU390 	BM		Mansfld Fire 	Fire: Dispatch 	FM 	Fire Dispatch 
-155.94000 	WPBU234 	BM		Mans PWrks 	Public Works 	FMN 	Public Works 
-151.09250 	WQLH668 	RM	162.2 PL	MtnGrove Police 	Police: Dispatch (Backup to MOSWIN) 	FMN 	Law Dispatch 
-154.65000 	WQLH668 	BM		MtnGrove PD 2 	Police  	FMN 	Law Tac 
-155.61000 	WQLH668 	BM	162.2 PL	MtnGrove PD Old 	Police: Old 	FMN 	Law Dispatch 
-151.02500 	WNVA930 	BM		MtnGrove Roads 	Township Road District 	FMN 	Public Works 
-155.22000 	KNBU346 	BM		MGSDR3 Bus 	Mountain Grove School District R3: Buses 	FM 	Schools 
+155.64000 	154.65000  	KAJ362 	RM	162.2 PL	Wright CoSheriff 	Sheriff: Dispatch (Backup to MOSWIN) 	FMN 	Law Dispatch 
+159.15750 	   	WQYC479 	B	125 DPL	Wright Fire Page 	Fire: Paging 	FMN 	Fire Dispatch 
+155.42250 	151.16750  	WQYC478 	RM	125 DPL	Norwood Dispatch 	Norwood Dispatch 	FMN 	Fire Dispatch 
+154.95750 	151.39250  	WQYC478 	RM	431 DPL	Norwood Ops 	Norwood Operations 	FMN 	Fire-Tac 
+155.03250 	151.21250  	WQYC479 	RM	125 DPL	MtnGrove Disptch 	Mountain Grove Dispatch 	FMN 	Fire Dispatch 
+155.31750 	158.85750  	WQYC478 	RM	431 DPL	MtnGrove Ops 	Mountain Grove Operations 	FMN 	Fire-Tac 
+154.19750 	155.69250  	WQYC478 	RM	125 DPL	Mansfield Dsptch 	Mansfield Dispatch 	FMN 	Fire Dispatch 
+154.24250 	158.79000  	WQYC478 	RM	431 DPL	Mansfield Ops 	Mansfield Operations 	FMN 	Fire-Tac 
+154.22750 	158.93250  	WQYC478 	RM	125 DPL	HartsvilleDsptch 	Hartville Dispatch 	FMN 	Fire Dispatch 
+155.10750 	158.78250  	WQYC478 	RM	431 DPL	Hartsville Ops 	Hartville Operations 	FMN 	Fire-Tac 
+154.85250 	156.23250  	WQYC478 	RM	125 DPL	Grovespring Disp 	Grovespring Dispatch 	FMN 	Fire Dispatch 
+154.21250 	156.03750  	WQYC478 	RM	431 DPL	Grovespring Ops 	Grovespring Operations 	FMN 	Fire-Tac 
+154.40750 	151.49750  	WQYC478 	RM	125 DPL	Manes? Dispatch 	Manes Dispatch 	FMN 	Fire Dispatch 
+154.04750 	156.09750  	WQYC478 	RM	431 DPL	Manes? Ops 	Manes Operations 	FMN 	Fire-Tac 
+155.82750 	151.10750  	WQYC480 	RM	431 DPL	Wright Co EMA 	Emergency Management Agency 	FMN 	Emergency Ops 
+155.35500 	150.79000  	WNZP475 	RM	151.4 PL	StJohns EMS 	Saint John's EMS 	FM 	EMS Dispatch 
+155.17500 	   	WNZP475 	BM		StJohnsEMS2 	Saint John's EMS 	FM 	EMS Dispatch 
+156.16500 	154.07000  	WPBK646 	RM	151.4 PL	GAVFPD Local 	Fire: Local (was 154.07 simplex) 	FMN 	Fire Dispatch 
+154.32500 	   	WPBU390 	BM		Mansfld Fire 	Fire: Dispatch 	FM 	Fire Dispatch 
+155.94000 	   	WPBU234 	BM		Mans PWrks 	Public Works 	FMN 	Public Works 
+151.09250 	156.21750  	WQLH668 	RM	162.2 PL	MtnGrove Police 	Police: Dispatch (Backup to MOSWIN) 	FMN 	Law Dispatch 
+154.65000 	   	WQLH668 	BM		MtnGrove PD 2 	Police  	FMN 	Law Tac 
+155.61000 	   	WQLH668 	BM	162.2 PL	MtnGrove PD Old 	Police: Old 	FMN 	Law Dispatch 
+151.02500 	   	WNVA930 	BM		MtnGrove Roads 	Township Road District 	FMN 	Public Works 
+155.22000 	   	KNBU346 	BM		MGSDR3 Bus 	Mountain Grove School District R3: Buses 	FM 	Schools 
 Rayfield Communications - UHF (SWMO)	 LTR Standard	 Southern Missouri	

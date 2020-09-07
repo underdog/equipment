@@ -1,99 +1,97 @@
-460.40000 	WNXC575 	RM	343 DPL	MC PD North 	Pocono Township Police 	FMN 	Law Dispatch 
-460.50000 	WNWU445 	RM	71.9 PL	MC PD South 	Dispatch South  	FMN 	Law Dispatch 
-460.15000 	WNXP562 	RM	74.4 PL	MC PD Regional 	Pocono Mountain Regional Police 	FMN 	Law Dispatch 
-460.42500 	WPEP951 	RM	343 DPL	MC PD Countywide 	Countywide 	FMN 	Law Dispatch 
-460.27500 	WPGA937 	RM	156.7 PL	MC PD Tac 	Police Tactical 	FMN 	Law Tac 
-453.20000 	WNMH302 	RM	210.7 PL	MCCF Ops 2 	Monroe County Correctional Facility Ops1 	FMN 	Corrections 
-453.55000 	WPTE877 	RM	192.8 PL	MCCF Ops 3 	Monroe County Correctional Facility 3 	FMN 	Corrections 
-460.10000 	 	RM	054 DPL	MCCF Ops 2 	Monroe County Correctional Facility Ops2 	FMN 	Corrections 
-453.75000 	WPGF508 	RM	CSQ	MC FD/EMS Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-460.57500 	WPGU667 	RM	664 DPL	MC FD West 	Fire West 	FMN 	Fire-Tac 
-453.07500 	WPGV974 	RM	664 DPL	MC FD North 	Fire North 	FMN 	Fire-Tac 
-460.30000 	WNMJ327 	RM	662 DPL	MC FD Northeast 	Fire Northeast 	FMN 	Fire-Tac 
-453.52500 	WQWB396 	RM	118.8 PL	MC FD Central 	Fire Central 	FMN 	Fire-Tac 
-460.52500 	WPGV974 	RM	664 DPL	MC FD South 	Fire South 	FMN 	Fire-Tac 
-460.62500 	WPGV974 	RM	664 DPL	MC FD East 	Fire East 	FMN 	Fire-Tac 
-453.58750 	WPGY667 	M		MC Fireground 1 	Fireground 1 	FMN 	Fire-Talk 
-458.58750 	WPGY667 	M		MC Fireground 2  	Fireground 2 	FMN 	Fire-Talk 
-453.63750 	WPGY667 	M		MC Fireground 3  	Fireground 3 	FMN 	Fire-Talk 
-458.63750 	WPGY667 	M		MC Fireground 4  	Fireground 4 	FMN 	Fire-Talk 
-453.71250 	WPGY667 	M		MC Fireground 5  	Fireground 5 	FMN 	Fire-Talk 
-458.71250 	WPGY667 	M		MC Fireground 6  	Fireground 6 	FMN 	Fire-Talk 
-453.41250 	WPKS910 	RM	244 DPL	MC FD Repeater 	Fire Repeater 	FMN 	Fire-Tac 
-453.53750 	WPKS910 	M	664 DPL	MC Fire Tac 	Fire Tactical 	FMN 	Fire-Tac 
-33.98000 	KWH498 	BM	CSQ	MC F1 Low 	Low Band F-1 	FM 	Fire Dispatch 
-159.13500 	WPNX741 	RM	3D4 NAC	MC EMS P25 	EMS P-25 	P25 	EMS-Tac 
-155.28000 	WXT827 	M	186.2 PL	MC EMS A-1 	EMS - Secondary Response A-1 	FMN 	EMS-Tac 
-155.34000 	WXT827 	RM	186.2 PL	MC EMS A-2 	EMS - Tertiary Response A-2 	FMN 	EMS-Tac 
-155.35500 	WQPN448 	BM	186.2 PL	MC EMS A-3 	EMS - LVH-Pocono Base A-3 	FMN 	Hospital 
-155.23500 	WQDZ674 	BM	664 DPL	MC EMS A-5 	EMS - St. Luke's Base A-5 	FMN 	Hospital 
-155.40000 	WPEN760 	BM	664 DPL	MC EMS A-6 	EMS - Primary Response A-6 	FMN 	EMS Dispatch 
-463.05000 	WNXE298 	BM	192.8 PL	EMS Med-3 	EMS - Pocono Med-3 	FMN 	EMS-Talk 
-453.45000 	WPGU667 	RM	516 DPL	EMS Command 	EMS Command 	FMN 	EMS-Tac 
-151.82000 	 	M	664 DPL	Simplex 1 	Simplex 1 	FMN 	EMS-Talk 
-151.88000 	 	M	664 DPL	Simplex 2 	Simplex 2 	FMN 	EMS-Talk 
-151.94000 	 	M	664 DPL	Simplex 3 	Simplex 3 	FMN 	EMS-Talk 
-154.57000 	 	M	664 DPL	Simplex 4 	Simplex 4 	FMN 	EMS-Talk 
-154.60000 	 	M	664 DPL	Simplex 5 	Simplex 5 	FMN 	EMS-Talk 
-158.83500 	 	BM	664 DPL	Terrorism TF 	Terrorism Task Force 	FMN 	EMS-Talk 
-462.95000 	 	RM	186.2 PL	Med 9 	Med 9 	FMN 	Hospital 
-462.97500 	 	RM	186.2 PL	Med 10 	Med 10 	FMN 	Hospital 
-453.12500 	WQG366 	RM	265 DPL	Monroe M/A 	Emergency / Mutual Aid (Countywide) 	FMN 	Interop 
-453.42500 	KNHT419 	RM	223 DPL	MC Incident Cmd 	Incident Command 	FMN 	Emergency Ops 
-460.27500 	WPGA937 	RM	2C3 NAC	P25 IOP 	Interop 	P25 	Interop 
-461.80000 	WPNU886 	RM	CC 7TG 101SL 1	MCTA Fixed 1 	Fixed Routes - Main 	DMR 	Transportation 
-461.80000 	WPNU886 	BM	CC 7TG 101SL 1	MCTA Fixed 2 	Fixed Routes - Talk-Around 	DMR 	Transportation 
-461.80000 	WPNU886 	RM	CC 7TG 201SL 1	MCTA Shared1 	Shared Ride - Main 	DMR 	Transportation 
-461.80000 	WPNU886 	BM	CC 7TG 201SL 1	MCTA Shared2 	Shared Ride - Talk-Around 	DMR 	Transportation 
-461.80000 	WPNU886 	BM	156.7 PL	MCTA Ops A 	Operations - Analog Backup 	FMN 	Transportation 
-452.12500 	WQEG209 	RM	664 DPL	West End FD 	West End Fire Co - Private Channel 	FMN 	Fire-Talk 
-453.92500 	WQBR917 	RM	546 DPL	E Stroud FD Prv 	East Stroudsburg Fire Dept 	FMN 	Fire-Talk 
-460.12500 	WNMN250 	RM	186.2 PL	MC Constables 	Monroe County State Constables 	FMN 	Law Dispatch 
-156.10500 	KNBA769 	BM	125 DPL	Hamilton DPW 	Road Department 	FMN 	Public Works 
-462.67500 	 	RM	054 DPL	JacksonFDPol 	Fire Police 	FMN 	Fire-Talk 
-453.61250 	WQAI283 	RM	723 DPL	Jackson DPW 	Highway Department  	FMN 	Public Works 
-159.19500 	KNEG218 	RM	432 DPL	MS Roads 	Road Department 	FMN 	Public Works 
-451.50000 	WQMQ830 	M	131 DPL	PoconoFD Pvt 	Pocono Mountain Vol Fire Co - Private Channel 	FMN 	Fire-Tac 
-159.13500 	WPNX741 	BM	125 DPL	Pocono Hwys 	Highways 	FMN 	Public Works 
-453.50000 	WPPA476 	RM	162 DPL	Pocono Svcs 	Services 	FMN 	Public Works 
-461.27500 	 	RM	043 DPL	Polk Twp DPW 	Road Department 	FMN 	Public Works 
-156.16500 	KNHJ521 	BM	100.0 PL	Ross Twp PW 	Public Works 	FMN 	Public Works 
-463.72500 	WPMT607 	RM	88.5 PL	Smithfield  	Roads Department 	FMN 	Public Works 
-453.50000 	WPPA476 	RM	162 DPL	Stroud Fire 37 	Fire Station 37 - Private Channel 	FMN 	Fire-Talk 
-453.26250 	WPUG892 	RM		Stroudsburg PW 	Public Works 	FMN 	Public Works 
-460.07500 	WPJJ748 	RM	165 DPL	Sbrg Boro FD 	Fire Private Channel 	FM 	Fire-Tac 
-460.61250 	WPKU491 	RM	343 DPL	Tobyhanna FD 	Tobyhanna Twp Vol Fire Co - Private Channel 	FMN 	Fire Dispatch 
-461.97500 	 	BM	331 DPL	PoconoSmtFC 	Pocono Summit Vol Fire Co - Private Channel 	FMN 	Fire-Tac 
-461.20000 	WQBE990 	RM	132 DPL	Tunkhannk FD 	Fire Station 42 - Private Channel 	FMN 	Fire-Talk 
-453.28750 	KNNY470 	RM	343 DPL	BRH&L Pvt 	Blue Ridge Hook & Ladder Private - Link 	FMN 	Fire-Tac 
-464.10000 	 	RM	131.8 PL	Wst End EMS 	West End Ambulance Association 	FMN 	EMS-Talk 
-451.98750 	WQCK343 	RM	136.5 PL	ESSD HS Sec 	High School South Security 	FMN 	Security 
-464.57500 	WQCK343 	RM	627 DPL	ESSD Trans 	Transportation 	FMN 	Schools 
-461.91250 	WQOK955 	RM	703 DPL	Operations 	Operations 	FMN 	Schools 
-461.43750 	WNUL869 	RM	143 DPL	PVSD Ops 	Operations 	FMN 	Schools 
-461.62500 	WNUL869 	RM	125 DPL	PVSD Staff 	Staff 	FMN 	Schools 
-464.70000 	WNUL869 	RM	065 DPL	PVSD Trans 	Transportation 	FMN 	Schools 
-464.70000 	WNUL869 	RM	114 DPL	PVSD Securty 	Security 	FMN 	Security 
-464.73750 	WPUI784 	M	125 DPL	PVSD Grounds 	Grounds 	FMN 	Schools 
-467.85000 	WPRH464 	M	67.0 PL	PVSD Cust 	High School Teachers/Custodians 	FMN 	Schools 
-467.92500 	WPRH464 	M	67.0 PL	PVSD Middle 	Middle School 	FMN 	Schools 
-451.33750 	WPVZ924 	RM	143 DPL	East Campus 	East Campus - Operations 	FMN 	Schools 
-451.33750 	WPVZ924 	RM	754 DPL	West Campus 	West Campus - Operations 	FMN 	Schools 
-451.98750 	 	BM	136.5 PL	PMSD Securty 	Patch of Security from the LTR system 	FMN 	Security 
-452.80000 	WPVZ924 	M	123.0 PL	West Transpo 	West Transportation (Simulcast of LTR) 	FMN 	Schools 
-452.97500 	WPVZ924 	BM	123.0 PL	PMSD EastBus 	East Transportation (Simulcast of LTR) 	FMN 	Schools 
-461.86250 	WPVZ924 	RM	156 DPL	East Campus 	East Campus 	FMN 	Schools 
-462.02500 	KNDG321 	RM	754 DPL	PMSD Ops 	Pocono Mountain School District 	FMN 	Schools 
-462.16250 	WPVZ924 	RM	156 DPL	West Campus  	West Campus - Staff 	FMN 	Schools 
-462.88750 	WPVZ924 	RM	365 DPL	East Campus 	East Campus - Swiftwater Intermediate 	FMN 	Schools 
-463.58750 	WPVZ924 	M	115 DPL	Clear Run 	Clear Run Centers 	FMN 	Schools 
-462.30000 	WPTK331 	RM	703 DPL	SASD Trans 	Admin/Transportation 	FMN 	Schools 
-452.20000 	WPTK331 	RM	624 DPL	SASD Sec 	Security 	FMN 	Security 
-East Stroudsburg University	 LTR Standard	 East Stroudsburg	Great Wolf Lodge	 LTR Standard	 Scotrun	Industrial Communications (Monroe)	 LTR Standard
- Easton	Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Industrial Electronics (Blakeslee)	 LTR Standard	 Blakeslee	Industrial Electronics (Fox Gap)
- LTR Standard	 Stroudsburg	Industrial Electronics (Tannersville)	 LTR Standard	 Tannersville	Interstate Repeater System	 DMR Conventional Networked	 Various
-Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Mount Airy Casino Resort	 LTR Standard	 Mount Pocono	New Jersey Interoperability Communications System (NJICS)	 Project 25 Phase II
- Statewide	New Jersey State Police	 Motorola Type II SmartZone Omnilink	 Statewide	NJ-TRBO Linked Amateur Radio Network	 DMR Conventional Networked	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground
- Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Pocono Mountain School District	 LTR Standard	 Swiftwater
-Radio Maintenance (Camelback Mountain)	 LTR Standard	 Tannersville	Tobyhanna Army Depot	 Project 25 Phase I	 Tobyhanna	TuWAY Communications	 DMR Motorola Connect Plus (TRBO)
- Various	
+460.40000 	465.40000  	WNXC575 	RM	343 DPL	MC PD North 	Pocono Township Police 	FMN 	Law Dispatch 
+460.50000 	465.50000  	WNWU445 	RM	71.9 PL	MC PD South 	Dispatch South  	FMN 	Law Dispatch 
+460.15000 	465.15000  	WNXP562 	RM	74.4 PL	MC PD Regional 	Pocono Mountain Regional Police 	FMN 	Law Dispatch 
+460.42500 	465.42500  	WPEP951 	RM	343 DPL	MC PD Countywide 	Countywide 	FMN 	Law Dispatch 
+460.27500 	465.27500  	WPGA937 	RM	156.7 PL	MC PD Tac 	Police Tactical 	FMN 	Law Tac 
+453.20000 	   	WNMH302 	RM	210.7 PL	MCCF Ops 2 	Monroe County Correctional Facility Ops1 	FMN 	Corrections 
+453.55000 	   	WPTE877 	RM	192.8 PL	MCCF Ops 3 	Monroe County Correctional Facility 3 	FMN 	Corrections 
+460.10000 	   	 	RM	054 DPL	MCCF Ops 2 	Monroe County Correctional Facility Ops2 	FMN 	Corrections 
+453.75000 	458.75000  	WPGF508 	RM	CSQ	MC FD/EMS Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+460.57500 	465.57500  	WPGU667 	RM	664 DPL	MC FD West 	Fire West 	FMN 	Fire-Tac 
+453.07500 	458.07500  	WPGV974 	RM	664 DPL	MC FD North 	Fire North 	FMN 	Fire-Tac 
+460.30000 	465.30000  	WNMJ327 	RM	662 DPL	MC FD Northeast 	Fire Northeast 	FMN 	Fire-Tac 
+453.52500 	458.52500  	WQWB396 	RM	118.8 PL	MC FD Central 	Fire Central 	FMN 	Fire-Tac 
+460.52500 	465.52500  	WPGV974 	RM	664 DPL	MC FD South 	Fire South 	FMN 	Fire-Tac 
+460.62500 	465.62500  	WPGV974 	RM	664 DPL	MC FD East 	Fire East 	FMN 	Fire-Tac 
+453.58750 	   	WPGY667 	M		MC Fireground 1 	Fireground 1 	FMN 	Fire-Talk 
+458.58750 	   	WPGY667 	M		MC Fireground 2  	Fireground 2 	FMN 	Fire-Talk 
+453.63750 	   	WPGY667 	M		MC Fireground 3  	Fireground 3 	FMN 	Fire-Talk 
+458.63750 	   	WPGY667 	M		MC Fireground 4  	Fireground 4 	FMN 	Fire-Talk 
+453.71250 	   	WPGY667 	M		MC Fireground 5  	Fireground 5 	FMN 	Fire-Talk 
+458.71250 	   	WPGY667 	M		MC Fireground 6  	Fireground 6 	FMN 	Fire-Talk 
+453.41250 	458.41250  	WPKS910 	RM	244 DPL	MC FD Repeater 	Fire Repeater 	FMN 	Fire-Tac 
+453.53750 	   	WPKS910 	M	664 DPL	MC Fire Tac 	Fire Tactical 	FMN 	Fire-Tac 
+33.98000 	   	KWH498 	BM	CSQ	MC F1 Low 	Low Band F-1 	FM 	Fire Dispatch 
+159.13500 	155.95500  	WPNX741 	RM	3D4 NAC	MC EMS P25 	EMS P-25 	P25 	EMS-Tac 
+155.28000 	   	WXT827 	M	186.2 PL	MC EMS A-1 	EMS - Secondary Response A-1 	FMN 	EMS-Tac 
+155.34000 	   	WXT827 	RM	186.2 PL	MC EMS A-2 	EMS - Tertiary Response A-2 	FMN 	EMS-Tac 
+155.35500 	   	WQPN448 	BM	186.2 PL	MC EMS A-3 	EMS - LVH-Pocono Base A-3 	FMN 	Hospital 
+155.23500 	   	WQDZ674 	BM	664 DPL	MC EMS A-5 	EMS - St. Luke's Base A-5 	FMN 	Hospital 
+155.40000 	   	WPEN760 	BM	664 DPL	MC EMS A-6 	EMS - Primary Response A-6 	FMN 	EMS Dispatch 
+463.05000 	   	WNXE298 	BM	192.8 PL	EMS Med-3 	EMS - Pocono Med-3 	FMN 	EMS-Talk 
+453.45000 	458.45000  	WPGU667 	RM	516 DPL	EMS Command 	EMS Command 	FMN 	EMS-Tac 
+151.82000 	   	 	M	664 DPL	Simplex 1 	Simplex 1 	FMN 	EMS-Talk 
+151.88000 	   	 	M	664 DPL	Simplex 2 	Simplex 2 	FMN 	EMS-Talk 
+151.94000 	   	 	M	664 DPL	Simplex 3 	Simplex 3 	FMN 	EMS-Talk 
+154.57000 	   	 	M	664 DPL	Simplex 4 	Simplex 4 	FMN 	EMS-Talk 
+154.60000 	   	 	M	664 DPL	Simplex 5 	Simplex 5 	FMN 	EMS-Talk 
+158.83500 	   	 	BM	664 DPL	Terrorism TF 	Terrorism Task Force 	FMN 	EMS-Talk 
+462.95000 	   	 	RM	186.2 PL	Med 9 	Med 9 	FMN 	Hospital 
+462.97500 	   	 	RM	186.2 PL	Med 10 	Med 10 	FMN 	Hospital 
+453.12500 	458.12500  	WQG366 	RM	265 DPL	Monroe M/A 	Emergency / Mutual Aid (Countywide) 	FMN 	Interop 
+453.42500 	458.42500  	KNHT419 	RM	223 DPL	MC Incident Cmd 	Incident Command 	FMN 	Emergency Ops 
+460.27500 	465.27500  	WPGA937 	RM	2C3 NAC	P25 IOP 	Interop 	P25 	Interop 
+461.80000 	466.80000  	WPNU886 	RM	CC 7TG 101SL 1	MCTA Fixed 1 	Fixed Routes - Main 	DMR 	Transportation 
+461.80000 	   	WPNU886 	BM	CC 7TG 101SL 1	MCTA Fixed 2 	Fixed Routes - Talk-Around 	DMR 	Transportation 
+461.80000 	466.80000  	WPNU886 	RM	CC 7TG 201SL 1	MCTA Shared1 	Shared Ride - Main 	DMR 	Transportation 
+461.80000 	   	WPNU886 	BM	CC 7TG 201SL 1	MCTA Shared2 	Shared Ride - Talk-Around 	DMR 	Transportation 
+461.80000 	   	WPNU886 	BM	156.7 PL	MCTA Ops A 	Operations - Analog Backup 	FMN 	Transportation 
+452.12500 	   	WQEG209 	RM	664 DPL	West End FD 	West End Fire Co - Private Channel 	FMN 	Fire-Talk 
+453.92500 	458.92500  	WQBR917 	RM	546 DPL	E Stroud FD Prv 	East Stroudsburg Fire Dept 	FMN 	Fire-Talk 
+460.12500 	465.12500  	WNMN250 	RM	186.2 PL	MC Constables 	Monroe County State Constables 	FMN 	Law Dispatch 
+156.10500 	   	KNBA769 	BM	125 DPL	Hamilton DPW 	Road Department 	FMN 	Public Works 
+462.67500 	467.67500  	 	RM	054 DPL	JacksonFDPol 	Fire Police 	FMN 	Fire-Talk 
+453.61250 	458.61250  	WQAI283 	RM	723 DPL	Jackson DPW 	Highway Department  	FMN 	Public Works 
+159.19500 	156.04500  	KNEG218 	RM	432 DPL	MS Roads 	Road Department 	FMN 	Public Works 
+451.50000 	   	WQMQ830 	M	131 DPL	PoconoFD Pvt 	Pocono Mountain Vol Fire Co - Private Channel 	FMN 	Fire-Tac 
+159.13500 	   	WPNX741 	BM	125 DPL	Pocono Hwys 	Highways 	FMN 	Public Works 
+453.50000 	   	WPPA476 	RM	162 DPL	Pocono Svcs 	Services 	FMN 	Public Works 
+461.27500 	466.27500  	 	RM	043 DPL	Polk Twp DPW 	Road Department 	FMN 	Public Works 
+156.16500 	   	KNHJ521 	BM	100.0 PL	Ross Twp PW 	Public Works 	FMN 	Public Works 
+463.72500 	   	WPMT607 	RM	88.5 PL	Smithfield  	Roads Department 	FMN 	Public Works 
+453.50000 	   	WPPA476 	RM	162 DPL	Stroud Fire 37 	Fire Station 37 - Private Channel 	FMN 	Fire-Talk 
+453.26250 	458.26250  	WPUG892 	RM		Stroudsburg PW 	Public Works 	FMN 	Public Works 
+460.07500 	   	WPJJ748 	RM	165 DPL	Sbrg Boro FD 	Fire Private Channel 	FM 	Fire-Tac 
+460.61250 	465.61250  	WPKU491 	RM	343 DPL	Tobyhanna FD 	Tobyhanna Twp Vol Fire Co - Private Channel 	FMN 	Fire Dispatch 
+461.97500 	   	 	BM	331 DPL	PoconoSmtFC 	Pocono Summit Vol Fire Co - Private Channel 	FMN 	Fire-Tac 
+461.20000 	466.20000  	WQBE990 	RM	132 DPL	Tunkhannk FD 	Fire Station 42 - Private Channel 	FMN 	Fire-Talk 
+453.28750 	458.28750  	KNNY470 	RM	343 DPL	BRH&L Pvt 	Blue Ridge Hook & Ladder Private - Link 	FMN 	Fire-Tac 
+464.10000 	   	 	RM	131.8 PL	Wst End EMS 	West End Ambulance Association 	FMN 	EMS-Talk 
+451.98750 	456.98750  	WQCK343 	RM	136.5 PL	ESSD HS Sec 	High School South Security 	FMN 	Security 
+464.57500 	469.57500  	WQCK343 	RM	627 DPL	ESSD Trans 	Transportation 	FMN 	Schools 
+461.91250 	465.91250  	WQOK955 	RM	703 DPL	Operations 	Operations 	FMN 	Schools 
+461.43750 	466.43750  	WNUL869 	RM	143 DPL	PVSD Ops 	Operations 	FMN 	Schools 
+461.62500 	466.62500  	WNUL869 	RM	125 DPL	PVSD Staff 	Staff 	FMN 	Schools 
+464.70000 	469.70000  	WNUL869 	RM	065 DPL	PVSD Trans 	Transportation 	FMN 	Schools 
+464.70000 	469.70000  	WNUL869 	RM	114 DPL	PVSD Securty 	Security 	FMN 	Security 
+464.73750 	   	WPUI784 	M	125 DPL	PVSD Grounds 	Grounds 	FMN 	Schools 
+467.85000 	   	WPRH464 	M	67.0 PL	PVSD Cust 	High School Teachers/Custodians 	FMN 	Schools 
+467.92500 	   	WPRH464 	M	67.0 PL	PVSD Middle 	Middle School 	FMN 	Schools 
+451.33750 	456.33750  	WPVZ924 	RM	143 DPL	East Campus 	East Campus - Operations 	FMN 	Schools 
+451.33750 	456.33750  	WPVZ924 	RM	754 DPL	West Campus 	West Campus - Operations 	FMN 	Schools 
+451.98750 	   	 	BM	136.5 PL	PMSD Securty 	Patch of Security from the LTR system 	FMN 	Security 
+452.80000 	   	WPVZ924 	M	123.0 PL	West Transpo 	West Transportation (Simulcast of LTR) 	FMN 	Schools 
+452.97500 	   	WPVZ924 	BM	123.0 PL	PMSD EastBus 	East Transportation (Simulcast of LTR) 	FMN 	Schools 
+461.86250 	466.86250  	WPVZ924 	RM	156 DPL	East Campus 	East Campus 	FMN 	Schools 
+462.02500 	467.02500  	KNDG321 	RM	754 DPL	PMSD Ops 	Pocono Mountain School District 	FMN 	Schools 
+462.16250 	467.16250  	WPVZ924 	RM	156 DPL	West Campus  	West Campus - Staff 	FMN 	Schools 
+462.88750 	467.88750  	WPVZ924 	RM	365 DPL	East Campus 	East Campus - Swiftwater Intermediate 	FMN 	Schools 
+463.58750 	   	WPVZ924 	M	115 DPL	Clear Run 	Clear Run Centers 	FMN 	Schools 
+462.30000 	467.30000  	WPTK331 	RM	703 DPL	SASD Trans 	Admin/Transportation 	FMN 	Schools 
+452.20000 	457.20000  	WPTK331 	RM	624 DPL	SASD Sec 	Security 	FMN 	Security 
+East Stroudsburg University	 LTR Standard	 East Stroudsburg	Great Wolf Lodge	 LTR Standard	 Scotrun	Industrial Communications (Monroe)	 LTR Standard	 Easton
+Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Industrial Electronics (Blakeslee)	 LTR Standard	 Blakeslee	Industrial Electronics (Fox Gap)	 LTR Standard	 Stroudsburg
+Industrial Electronics (Tannersville)	 LTR Standard	 Tannersville	Interstate Repeater System	 DMR Conventional Networked	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various
+Mount Airy Casino Resort	 LTR Standard	 Mount Pocono	NJ-TRBO Linked Amateur Radio Network	 DMR Conventional Networked	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various
+Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Pocono Mountain School District	 LTR Standard	 Swiftwater	Radio Maintenance (Camelback Mountain)	 LTR Standard	 Tannersville
+Tobyhanna Army Depot	 Project 25 Phase I	 Tobyhanna	TuWAY Communications	 DMR Motorola Connect Plus (TRBO)	 Various	

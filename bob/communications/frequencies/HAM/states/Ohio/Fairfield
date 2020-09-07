@@ -1,54 +1,54 @@
-460.32500 	WPBP705 	RM	103.5 PL	Fairfield 1N 	F1 Response/Fireground (N) 	FMN 	Fire-Tac 
-460.02500 	WPBP705 	RM	114.8 PL	Fairfield 2E 	F2 Response/Fireground (E) 	FMN 	Fire-Tac 
-453.22500 	WPBP705 	RM	127.3 PL	Fairfield 3S 	F3 Response/Fireground (S) 	FMN 	Fire-Tac 
-460.57500 	WPBP705 	RM	141.3 PL	Fairfield 4W 	F4 Response/Fireground (W) 	FMN 	Fire-Tac 
-460.62500 	WPBP705 	RM	127.3 PL	Fairfld Disp 	F5 Dispatch 	FMN 	Fire Dispatch 
-453.17500 	WPBP705 	BM	100.0 PL	Fairfld ER 	F6 Fairfield Medical Center 	FMN 	Hospital 
-465.60000 	WPBP705 	M	100.0 PL	Fairfld FG7 	F7 Fireground 	FMN 	Fire-Tac 
-460.60000 	WPBP705 	M	100.0 PL	Fairfld FG8 	F8 Alternate Fireground/tanker ops 	FMN 	Fire-Tac 
-458.17500 	WPBP705 	M	100.0 PL	Fairfld Helo 	F9 Alternate Fireground/Medflight 	FMN 	Fire-Tac 
-453.85000 	WPJW238 	RM	2A3 NAC	Lanc FD-1 P25 	Lancaster Fire Dispatch 	P25 	Fire Dispatch 
-453.80000 	WPSJ914 	M	146.2 PL	Lanc FD-2 	Lancaster Fire Tac 	FMN 	Fire-Tac 
-453.45000 	WNDJ353 	RM	82.5 PL	Fairfld EMA 	Fairfield County EMA (siren control) 	FMN 	Emergency Ops 
-453.61250 	 	RM	103.5 PL	LB Patch  	LB Patch 	FMN 	Other 
-155.22000 	KKC781 	BM	151.4 PL	MidOh Amb 	Mid-Ohio Ambulance 	FM 	EMS Dispatch 
-453.82500 	WPGI309 	RM	023 DPL	Fairfield SO1 	County Sheriff F1 	FMN 	Law Dispatch 
-453.57500 	WPGI309 	RM	606 DPL	Fairfield SO1 	County Sheriff F1 multicast 	FMN 	Law Dispatch 
-453.77500 	WPBP705 	RM	223 DPL	Fairfield SO2 	County Sheriff F2 	FMN 	Law Dispatch 
-460.37500 	 	M	351 DPL	Fairfield T/A 	County Sheriff car to car 	FMN 	Law Talk 
-155.35500 	None 	F		SO1 Link 	Link to 453.825 	FM 	Law Dispatch 
-159.21000 	WNCT872 	F	146.2 PL	Baltimore PD 	Baltimore (link to 453.825) 	FM 	Law Dispatch 
-453.72500 	WNKX290 	RM	28F NAC	Lanc PD Disp P25 	Lancaster Police Dispatch 	P25 	Law Dispatch 
-460.03750 	WPPY636 	RM	411 DPL	Pic LEERN  	Pickerington PD (Patch to Ohio LEERN) 	FMN 	Interop 
-460.27500 	WPCG389 	RM	100.0 PL	Lanc PD Alt 	Lancaster PD alternate 	FMN 	Law Talk 
-460.40000 	WPCE439 	RM		LPD- 	Lancaster, City of 	FMN 	Law Talk 
-460.50000 	WNHP634 	RM	110.9 PL	Pic PD Disp 	Pickerington PD 	FMN 	Law Dispatch 
-151.05500 	KCW671 	RM	351 DPL	Fairfld Eng 	County Engineer 	FMN 	Public Works 
-33.10000 	WNJF418 	BM		Richland Twp PW 	Richland Twp 	FM 	Public Works 
-37.18000 	WNKA434 	BM		Violet Twp PW 	Violet Twp 	FM 	Public Works 
-45.16000 	KUU401 	BM		Fairfield Co 	Fairfield, County of 	FM 	Public Works 
-151.02500 	WPGI318 	RM		Berne Twp Road 	Berne Twp Roads 	FMN 	Public Works 
-151.13000 	WPGT974 	RM		Pleasant Twp Rd 	Pleasant Twp 	FMN 	Public Works 
-151.46000 	WPKC501 	BM	151.4 PL	Bloom Twp Road 	Bloom Twp 	FMN 	Public Works 
-151.86500 	 	BM		Co Fair Board  	Agriculture Society (Fair Board) 	FMN 	Public Works 
-154.10000 	WPCT497 			Walnut Twp 	Walnut Twp 	FMN 	Public Works 
-154.98000 	WPQX993 	RM	123.0 PL	Pickerington PW 	Pickerington services 	FMN 	Public Works 
-155.02500 	 			Lancaster Bus 	Lancaster Public Transportation 	FMN 	Public Works 
-155.10000 	WNDV400 	BM		Greenfield Twp 	Greenfield Twp 	FMN 	Public Works 
-155.14500 	WPNP433 	RM		Richland Twp 	Richland Twp 	FMN 	Public Works 
-155.94000 	KAY867 	RM	CSQ	Lancaster PW 	Lancaster, City of 	FMN 	Public Works 
-156.22500 	WPEN784 			Liberty Twp Road 	Liberty Twp Roads 	FMN 	Public Works 
-453.80000 	WPSJ914 	RM	205 DPL	Lancaster 	Lancaster, City of 	FMN 	Public Works 
-453.85000 	WPJW238 	RM	146.2 PL	Lancaster 	Lancaster, City of 	FMN 	Public Works 
-155.20500 	KNIH847 	BM		Amanda-Cck Bus 	Amanda-Clearcreek Schools 	FM 	Schools 
-152.33000 	WPSN346 	R		Berne-Union 1 	Berne-Union Schools 	FM 	Schools 
-155.26500 	KSI535 	BM		Berne-Union 2 	Berne-Union Schools 	FM 	Schools 
-155.16000 	WYY999 	BM		Bloom-Carroll 1 	Bloom-Carroll Schools 	FM 	Schools 
-451.78750 	WPRH751 	RM	423 DPL	Bloom-Carroll 2 	Bloom Carroll Local Schools 	FM 	Schools 
-155.20500 	WNQB843 	BM		Fairfield-Union 	Fairfield-Union Schools 	FM 	Schools 
-155.29500 	KUQ246 	BM		Lanc CSD 1 	Lancaster City Schools 	FM 	Schools 
-159.18000 	KUQ246 	R		Lanc CSD 2 	Lancaster City Schools 	FM 	Schools 
-451.42500 	WNNQ352 	RM	203.5 PL	Earnhrt Hill Wtr 	Earnhart Hill Regional Water and Sewer District 	FM 	Public Works 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Comtech Canal WInchester	 LTR Standard	 Canal Winchester	Fairfield County Sheriff (OH)	 DMR Conventional Networked
- Lancaster	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	Pickerington
- LTR Standard	 Pickerington	Smart Link Systems	 LTR Standard	 Various	
+460.32500 	465.32500  	WPBP705 	RM	103.5 PL	Fairfield 1N 	F1 Response/Fireground (N) 	FMN 	Fire-Tac 
+460.02500 	465.02500  	WPBP705 	RM	114.8 PL	Fairfield 2E 	F2 Response/Fireground (E) 	FMN 	Fire-Tac 
+453.22500 	458.22500  	WPBP705 	RM	127.3 PL	Fairfield 3S 	F3 Response/Fireground (S) 	FMN 	Fire-Tac 
+460.57500 	465.57500  	WPBP705 	RM	141.3 PL	Fairfield 4W 	F4 Response/Fireground (W) 	FMN 	Fire-Tac 
+460.62500 	465.62500  	WPBP705 	RM	127.3 PL	Fairfld Disp 	F5 Dispatch 	FMN 	Fire Dispatch 
+453.17500 	   	WPBP705 	BM	100.0 PL	Fairfld ER 	F6 Fairfield Medical Center 	FMN 	Hospital 
+465.60000 	   	WPBP705 	M	100.0 PL	Fairfld FG7 	F7 Fireground 	FMN 	Fire-Tac 
+460.60000 	   	WPBP705 	M	100.0 PL	Fairfld FG8 	F8 Alternate Fireground/tanker ops 	FMN 	Fire-Tac 
+458.17500 	   	WPBP705 	M	100.0 PL	Fairfld Helo 	F9 Alternate Fireground/Medflight 	FMN 	Fire-Tac 
+453.85000 	458.85000  	WPJW238 	RM	2A3 NAC	Lanc FD-1 P25 	Lancaster Fire Dispatch 	P25 	Fire Dispatch 
+453.80000 	   	WPSJ914 	M	146.2 PL	Lanc FD-2 	Lancaster Fire Tac 	FMN 	Fire-Tac 
+453.45000 	458.45000  	WNDJ353 	RM	82.5 PL	Fairfld EMA 	Fairfield County EMA (siren control) 	FMN 	Emergency Ops 
+453.61250 	458.61250  	 	RM	103.5 PL	LB Patch  	LB Patch 	FMN 	Other 
+155.22000 	   	KKC781 	BM	151.4 PL	MidOh Amb 	Mid-Ohio Ambulance 	FM 	EMS Dispatch 
+453.82500 	458.82500  	WPGI309 	RM	023 DPL	Fairfield SO1 	County Sheriff F1 	FMN 	Law Dispatch 
+453.57500 	458.57500  	WPGI309 	RM	606 DPL	Fairfield SO1 	County Sheriff F1 multicast 	FMN 	Law Dispatch 
+453.77500 	458.77500  	WPBP705 	RM	223 DPL	Fairfield SO2 	County Sheriff F2 	FMN 	Law Dispatch 
+460.37500 	   	 	M	351 DPL	Fairfield T/A 	County Sheriff car to car 	FMN 	Law Talk 
+155.35500 	151.79000  	None 	F		SO1 Link 	Link to 453.825 	FM 	Law Dispatch 
+159.21000 	   	WNCT872 	F	146.2 PL	Baltimore PD 	Baltimore (link to 453.825) 	FM 	Law Dispatch 
+453.72500 	458.72500  	WNKX290 	RM	28F NAC	Lanc PD Disp P25 	Lancaster Police Dispatch 	P25 	Law Dispatch 
+460.03750 	465.03750  	WPPY636 	RM	411 DPL	Pic LEERN  	Pickerington PD (Patch to Ohio LEERN) 	FMN 	Interop 
+460.27500 	465.27500  	WPCG389 	RM	100.0 PL	Lanc PD Alt 	Lancaster PD alternate 	FMN 	Law Talk 
+460.40000 	465.40000  	WPCE439 	RM		LPD- 	Lancaster, City of 	FMN 	Law Talk 
+460.50000 	465.50000  	WNHP634 	RM	110.9 PL	Pic PD Disp 	Pickerington PD 	FMN 	Law Dispatch 
+151.05500 	156.07500  	KCW671 	RM	351 DPL	Fairfld Eng 	County Engineer 	FMN 	Public Works 
+33.10000 	   	WNJF418 	BM		Richland Twp PW 	Richland Twp 	FM 	Public Works 
+37.18000 	   	WNKA434 	BM		Violet Twp PW 	Violet Twp 	FM 	Public Works 
+45.16000 	   	KUU401 	BM		Fairfield Co 	Fairfield, County of 	FM 	Public Works 
+151.02500 	   	WPGI318 	RM		Berne Twp Road 	Berne Twp Roads 	FMN 	Public Works 
+151.13000 	159.13500  	WPGT974 	RM		Pleasant Twp Rd 	Pleasant Twp 	FMN 	Public Works 
+151.46000 	   	WPKC501 	BM	151.4 PL	Bloom Twp Road 	Bloom Twp 	FMN 	Public Works 
+151.86500 	   	 	BM		Co Fair Board  	Agriculture Society (Fair Board) 	FMN 	Public Works 
+154.10000 	   	WPCT497 			Walnut Twp 	Walnut Twp 	FMN 	Public Works 
+154.98000 	153.96500  	WPQX993 	RM	123.0 PL	Pickerington PW 	Pickerington services 	FMN 	Public Works 
+155.02500 	   	 			Lancaster Bus 	Lancaster Public Transportation 	FMN 	Public Works 
+155.10000 	   	WNDV400 	BM		Greenfield Twp 	Greenfield Twp 	FMN 	Public Works 
+155.14500 	153.81500  	WPNP433 	RM		Richland Twp 	Richland Twp 	FMN 	Public Works 
+155.94000 	158.94000  	KAY867 	RM	CSQ	Lancaster PW 	Lancaster, City of 	FMN 	Public Works 
+156.22500 	   	WPEN784 			Liberty Twp Road 	Liberty Twp Roads 	FMN 	Public Works 
+453.80000 	458.80000  	WPSJ914 	RM	205 DPL	Lancaster 	Lancaster, City of 	FMN 	Public Works 
+453.85000 	458.85000  	WPJW238 	RM	146.2 PL	Lancaster 	Lancaster, City of 	FMN 	Public Works 
+155.20500 	   	KNIH847 	BM		Amanda-Cck Bus 	Amanda-Clearcreek Schools 	FM 	Schools 
+152.33000 	157.59000  	WPSN346 	R		Berne-Union 1 	Berne-Union Schools 	FM 	Schools 
+155.26500 	   	KSI535 	BM		Berne-Union 2 	Berne-Union Schools 	FM 	Schools 
+155.16000 	   	WYY999 	BM		Bloom-Carroll 1 	Bloom-Carroll Schools 	FM 	Schools 
+451.78750 	456.78750  	WPRH751 	RM	423 DPL	Bloom-Carroll 2 	Bloom Carroll Local Schools 	FM 	Schools 
+155.20500 	   	WNQB843 	BM		Fairfield-Union 	Fairfield-Union Schools 	FM 	Schools 
+155.29500 	   	KUQ246 	BM		Lanc CSD 1 	Lancaster City Schools 	FM 	Schools 
+159.18000 	153.90500  	KUQ246 	R		Lanc CSD 2 	Lancaster City Schools 	FM 	Schools 
+451.42500 	456.42500  	WNNQ352 	RM	203.5 PL	Earnhrt Hill Wtr 	Earnhart Hill Regional Water and Sewer District 	FM 	Public Works 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Comtech Canal WInchester	 LTR Standard	 Canal Winchester	Fairfield County Sheriff (OH)	 DMR Conventional Networked	 Lancaster
+Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	Pickerington	 LTR Standard	 Pickerington
+Smart Link Systems	 LTR Standard	 Various	

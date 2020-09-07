@@ -1,50 +1,50 @@
-151.20500 	WQDF217 	RM	97.4 PL	Saline Fire 	Fire: Paging / Dispatch: (Akin-Franklin/Hamilton)  	FMN 	Fire Dispatch 
-155.43000 	WQDF217 	RM		Saline 911  	911: Future (Junction-Gallatin Co.) 	FMN 	Fire Dispatch 
-154.07000 	WNWY314 	B	CSQ	Saline/Gall Fire 	Fire: Dispatch (with Gallatin) 	FMN 	Fire Dispatch 
-154.34000 	WNWY314 	B		SalineCo FG 	Fireground - Countywide 	FMN 	Fire-Tac 
-155.77500 	WNYR595 	BM	146.2 PL	S/G/M EMS F1 	Saline/Gallitin/Miller EMS Dispatch [Ch 1] (also ARCH LZ) 	FMN 	EMS Dispatch 
-156.21000 	KNDE744 	RM	79.7 PL	SalinSheriff 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-453.41250 	WQFS264 	F		SalineSD RF1 	Sheriff: Remote Link - Herod 	FMN 	Law Dispatch 
-458.41250 	WQFS264 	F	67.0 PL	SalineSD RF2 	Sheriff: Remote Link - Herod (Tone Carrier) 	FMN 	Law Dispatch 
-460.58750 	WQFS264 	F		SalineSD RF3 	Sheriff: Remote Link - Herod 	FMN 	Law Dispatch 
-465.58750 	WQFS264 	F		SalineSD RF4 	Sheriff: Remote Link - Herod 	FMN 	Law Dispatch 
-154.98750 	WQLW205 	RM		Saline EMA 	Emergency Management: Local 	P25 	Emergency Ops 
-155.02500 	WNYR595 	B	CSQ	ESMARN 	ESDA: Statewide High Band 	FMN 	Emergency Ops 
-158.77500 	KXV424 	BM		Salin HsAuth 	Housing Authority 	FMN 	Public Works 
-159.18000 	KKL808 	RM	203.5 PL	Saline Roads 	Road Maintenance 	FMN 	Public Works 
-173.20375 	KNDY771 	F		SValCnsDst F 	Saline Valley Conservancy District (CSQ) 	Telm 	Public Works 
-153.71000 	KNHQ684 	BM		SValCnsDstBM 	Saline Valley Conservancy District: Ops  	FMN 	Public Works 
-155.77500 	WNYR585 	BM	146.2 PL	S/G/M EMS F1 	Saline/Gallitan/Miller EMS Dispatch 	FMN 	EMS Dispatch 
-154.51500 	WPNP327 	BM	186.2 PL	Med ForceEMS 	EMS: Business Use 	FMN 	Business 
-155.34000 	KNEN564 	B	CSQ	MERCI1 CSQ 	Patient Reports (may see 100.0) 	FMN 	Hospital 
-155.34000 	KYC251 	B	CSQ	MERCI1 131.8 	Patient Reports (may see 131.8) 	FMN 	Hospital 
-159.12000 	WPLW738 	BM		EEld Twp Roads 	East Eldorado Road Maintenance 	FMN 	Public Works 
-173.33750 	WQCT405 	F		LLWD WDD-V 	Liberty-Ledford Water District: Data  	Telm 	Data 
-453.83750 	WNXF443 	M		LLWD WDD-U 	Liberty-Ledford Water District: Data 	Telm 	Data 
-451.62500 	WQIV922 	F		MtchvlleWDD2 	Mitchellsville Water District: Water Distribution Data  	Telm 	Data 
-173.31250 	WPHP502 	F		MtchvlleWDD1 	Mitchellsville Water District: Water Distribution Data [Expired 9/05] 	Telm 	Data 
-956.26875 	WQHJ768 	F		SVCD WDD 	Saline Valley Conservancy District (Eldorado) 	Telm 	Data 
-154.83000 	WPMU324 	RM		CMill Police 	Police (not on air?) 	FMN 	Law Dispatch 
-155.14500 	WPEM288 	BM		CMill Street 	Street Department 	FMN 	Public Works 
-159.21000 	WPUJ561 	RM	192.8 PL	Eldr Police1 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-154.43000 	WNCD360 	M		Eldorado FG 	Fireground 	FMN 	Fire-Tac 
-155.67000 	WPNT909 	BM		Galatia Police 	Police 	FMN 	Law Dispatch 
-151.34000 	WPUS780 	RM	107.2 PL	Hbrg Police1 	Police: Dispatch [Ch 1] (DB: County)  	FMN 	Law Dispatch 
-154.11500 	WNAN652 	BM		Hbrg Police2 	Police 	FMN 	Law Tac 
-154.14500 	WNYI221 	BM		Hrrsbg Fire 	Fire (100.0 PL I-57) 	FMN 	Fire-Tac 
-153.41000 	WQAB244 	RM	123.0 PL	Hbrg WtrElec 	Water/Electricity Department 	FMN 	Public Works 
-453.50000 	WPWG527 	RM		Hbrg Utility 	Utility Department 	FMN 	Public Works 
-155.04000 	WRB385 	BM		Hbrg PubWrks 	Public Works  	FMN 	Public Works 
-451.21250 	WPZR230 	F		Hbrg WDD 	Water Treatment Data 	Telm 	Data 
-155.16000 	WQWI422 	BM		Eldorado Sch Bus 	Buses 	FMN 	Schools 
-159.72000 	WPPU606 	BM		Eldorado Schools 	Security / Ops 	FMN 	Schools 
-155.22000 	KJL467 	BM		Galatia Sch Bus  	Buses 	FMN 	Schools 
-151.80500 	 	BM		GalatiaBus151805 	Buses 	FMN 	Schools 
-155.29500 	WPFA593 	BM		Harr Schools/Bus 	Ops / Buses [Term 6/04] 	FMN 	Schools 
-150.95000 	WPMI261 	BM		SEC Securty 1  	Security 	FMN 	Security 
-152.45000 	WQFT473 	RM		SEC Securty 2  	Security (not 192.8) 	FMN 	Security 
-152.42000 	KME927 	BM		SEC Ops 	Operations  	FMN 	Schools 
-122.80000 	 	BM	CSQ	HSB CTAF 	CTAF/UNICOM 	AM 	Aircraft 
-125.30000 	 	BM	CSQ	Marion RCAG 	Approach/Departure (KC ARTCC) 	AM 	Aircraft 
-135.92500 	KES2 	B		HSB AWOS 	Automatic Weather Observation (AWOS-3) 	Telm 	Data 
-458.03750 	WPLT671 	M		HSB AWOS RF 	Remote Link to AWOS 	Telm 	Data 
+151.20500 	153.75500  	WQDF217 	RM	97.4 PL	Saline Fire 	Fire: Paging / Dispatch: (Akin-Franklin/Hamilton)  	FMN 	Fire Dispatch 
+155.43000 	159.07500  	WQDF217 	RM		Saline 911  	911: Future (Junction-Gallatin Co.) 	FMN 	Fire Dispatch 
+154.07000 	   	WNWY314 	B	CSQ	Saline/Gall Fire 	Fire: Dispatch (with Gallatin) 	FMN 	Fire Dispatch 
+154.34000 	   	WNWY314 	B		SalineCo FG 	Fireground - Countywide 	FMN 	Fire-Tac 
+155.77500 	   	WNYR595 	BM	146.2 PL	S/G/M EMS F1 	Saline/Gallitin/Miller EMS Dispatch [Ch 1] (also ARCH LZ) 	FMN 	EMS Dispatch 
+156.21000 	154.77000  	KNDE744 	RM	79.7 PL	SalinSheriff 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+453.41250 	   	WQFS264 	F		SalineSD RF1 	Sheriff: Remote Link - Herod 	FMN 	Law Dispatch 
+458.41250 	   	WQFS264 	F	67.0 PL	SalineSD RF2 	Sheriff: Remote Link - Herod (Tone Carrier) 	FMN 	Law Dispatch 
+460.58750 	   	WQFS264 	F		SalineSD RF3 	Sheriff: Remote Link - Herod 	FMN 	Law Dispatch 
+465.58750 	   	WQFS264 	F		SalineSD RF4 	Sheriff: Remote Link - Herod 	FMN 	Law Dispatch 
+154.98750 	159.03000  	WQLW205 	RM		Saline EMA 	Emergency Management: Local 	P25 	Emergency Ops 
+155.02500 	   	WNYR595 	B	CSQ	ESMARN 	ESDA: Statewide High Band 	FMN 	Emergency Ops 
+158.77500 	   	KXV424 	BM		Salin HsAuth 	Housing Authority 	FMN 	Public Works 
+159.18000 	156.13500  	KKL808 	RM	203.5 PL	Saline Roads 	Road Maintenance 	FMN 	Public Works 
+173.20375 	   	KNDY771 	F		SValCnsDst F 	Saline Valley Conservancy District (CSQ) 	Telm 	Public Works 
+153.71000 	   	KNHQ684 	BM		SValCnsDstBM 	Saline Valley Conservancy District: Ops  	FMN 	Public Works 
+155.77500 	   	WNYR585 	BM	146.2 PL	S/G/M EMS F1 	Saline/Gallitan/Miller EMS Dispatch 	FMN 	EMS Dispatch 
+154.51500 	   	WPNP327 	BM	186.2 PL	Med ForceEMS 	EMS: Business Use 	FMN 	Business 
+155.34000 	   	KNEN564 	B	CSQ	MERCI1 CSQ 	Patient Reports (may see 100.0) 	FMN 	Hospital 
+155.34000 	   	KYC251 	B	CSQ	MERCI1 131.8 	Patient Reports (may see 131.8) 	FMN 	Hospital 
+159.12000 	   	WPLW738 	BM		EEld Twp Roads 	East Eldorado Road Maintenance 	FMN 	Public Works 
+173.33750 	   	WQCT405 	F		LLWD WDD-V 	Liberty-Ledford Water District: Data  	Telm 	Data 
+453.83750 	   	WNXF443 	M		LLWD WDD-U 	Liberty-Ledford Water District: Data 	Telm 	Data 
+451.62500 	   	WQIV922 	F		MtchvlleWDD2 	Mitchellsville Water District: Water Distribution Data  	Telm 	Data 
+173.31250 	   	WPHP502 	F		MtchvlleWDD1 	Mitchellsville Water District: Water Distribution Data [Expired 9/05] 	Telm 	Data 
+956.26875 	   	WQHJ768 	F		SVCD WDD 	Saline Valley Conservancy District (Eldorado) 	Telm 	Data 
+154.83000 	158.98500  	WPMU324 	RM		CMill Police 	Police (not on air?) 	FMN 	Law Dispatch 
+155.14500 	   	WPEM288 	BM		CMill Street 	Street Department 	FMN 	Public Works 
+159.21000 	155.85000  	WPUJ561 	RM	192.8 PL	Eldr Police1 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+154.43000 	   	WNCD360 	M		Eldorado FG 	Fireground 	FMN 	Fire-Tac 
+155.67000 	   	WPNT909 	BM		Galatia Police 	Police 	FMN 	Law Dispatch 
+151.34000 	153.92000  	WPUS780 	RM	107.2 PL	Hbrg Police1 	Police: Dispatch [Ch 1] (DB: County)  	FMN 	Law Dispatch 
+154.11500 	   	WNAN652 	BM		Hbrg Police2 	Police 	FMN 	Law Tac 
+154.14500 	   	WNYI221 	BM		Hrrsbg Fire 	Fire (100.0 PL I-57) 	FMN 	Fire-Tac 
+153.41000 	159.88500  	WQAB244 	RM	123.0 PL	Hbrg WtrElec 	Water/Electricity Department 	FMN 	Public Works 
+453.50000 	458.50000  	WPWG527 	RM		Hbrg Utility 	Utility Department 	FMN 	Public Works 
+155.04000 	   	WRB385 	BM		Hbrg PubWrks 	Public Works  	FMN 	Public Works 
+451.21250 	   	WPZR230 	F		Hbrg WDD 	Water Treatment Data 	Telm 	Data 
+155.16000 	   	WQWI422 	BM		Eldorado Sch Bus 	Buses 	FMN 	Schools 
+159.72000 	   	WPPU606 	BM		Eldorado Schools 	Security / Ops 	FMN 	Schools 
+155.22000 	   	KJL467 	BM		Galatia Sch Bus  	Buses 	FMN 	Schools 
+151.80500 	   	 	BM		GalatiaBus151805 	Buses 	FMN 	Schools 
+150.95000 	   	WPMI261 	BM		SEC Securty 1  	Security 	FMN 	Security 
+152.45000 	157.71000  	WQFT473 	RM		SEC Securty 2  	Security (not 192.8) 	FMN 	Security 
+152.42000 	   	KME927 	BM		SEC Ops 	Operations  	FMN 	Schools 
+122.80000 	   	 	BM	CSQ	HSB CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+125.30000 	   	 	BM	CSQ	Marion RCAG 	Approach/Departure (KC ARTCC) 	AM 	Aircraft 
+135.92500 	   	KES2 	B		HSB AWOS 	Automatic Weather Observation (AWOS-3) 	Telm 	Data 
+458.03750 	   	WPLT671 	M		HSB AWOS RF 	Remote Link to AWOS 	Telm 	Data 
+Rides Mass Transit District (DMR)	 DMR Conventional Networked	 Southern IL	

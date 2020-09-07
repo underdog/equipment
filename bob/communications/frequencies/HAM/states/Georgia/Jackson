@@ -1,36 +1,36 @@
-155.49000 	WNWT534 	RM		JCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.43000 	KIK803 	BM		JCSO 4300 	Sheriff 	FMN 	Law Talk 
-155.44500 	 	RM		JCSO 4450 	Sheriff  NOT LICENSED 	DMR 	Fire-Talk 
-155.67000 	KUB807 	BM	179.9 PL	JCSO MRD 	Sheriff MRD 	FMN 	Law Tac 
-159.61500 	WPGU473 	RM		JCSO Cities 	Cities Police (All cities except Maysville) 	DMR 	Law Dispatch 
-158.77500 	KUV825 	BM		JCSO 7750 	Sheriff 	FMN 	Law Talk 
-154.77000 	WPGU473 	BM		JCSO 7700 	Sheriff 	FMN 	Law Talk 
-155.58000 	WPPU429 	BM		JCSO 5800 	Sheriff 	FMN 	Law Talk 
-154.74750 	WPPU430 	RM		JCFD 7475 	Fire Department 	FMN 	Fire-Talk 
-151.49750 	WNWT534 	RM	CSQ	JCFD 4975 	Fire/EMS Paging (TRS Simulcast) 	FMN 	Fire Dispatch 
-154.40000 	WXC200 	BM		JCFD 4000 	Fire Department 	FMN 	Fire-Tac 
-154.22000 	WNXS651 	RM		JCFD 2200 	Fire Department 	DMR 	Fire-Talk 
-154.14500 	WPEE268 	BM		JCFD 1450 	Fire Department 	FMN 	Fire-Talk 
-153.93000 	WPPU430 	BM		JCFD 9300 	Fire Department 	FMN 	Fire-Talk 
-155.55000 	WPPU430 	BM		JCFD 5500 	Fire Department 	FMN 	Fire-Talk 
-155.29500 	KXG913 	B		JCEMS Disp 	EMS Dispatch 	DMR 	EMS-Tac 
-45.44000 	WPSG452 	RM		JC Pub Works 	Public Works 	FM 	Public Works 
-46.56000 	WPSG452 	BM		JC Pub Works 	Public Works 	FM 	Public Works 
-45.96000 	WQY576 	BM		JC Pub Works 	Public Works 	FM 	Public Works 
-155.74500 	WNGV826 	BM		JC Utilities 	Utilities 	FMN 	Utilities 
-461.50000 	WPTJ990 	RM		JCBOE 5000 	Board of Education 	FMN 	Schools 
-154.85250 	WQEZ304 	RM		BPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-151.04750 	WQEZ304 	BM		BPD 0475 	Police Department 	FMN 	Law Talk 
-151.13750 	WQEZ304 	BM		BPD 1375 	Police Department 	FMN 	Law Talk 
-154.45250 	WQEZ304 	BM		BPD 4525 	Police Department 	FMN 	Law Talk 
-158.73750 	WQEZ304 	BM		BPD 7375 	Police Department 	FMN 	Law Talk 
-159.44250 	WQEZ304 	BM		BPD 4425 	Police Department 	FMN 	Law Talk 
-159.47250 	WQEZ304 	BM		BPD 4725 	Police Department 	FMN 	Law Talk 
-155.04000 	WNGX301 	BM		CPC Dispatch 	Police Dispatch  EXPIRED 09/10/2011 	DMR 	Law Tac 
-155.67000 	KTG681 	BM		CPD 6700 	Police Department 	FMN 	Law Talk 
-155.43000 	KTG681 	BM		CPD 4300 	Police Department 	FMN 	Law Talk 
-153.60500 	WNXX713 	RM		CFD Dispatch 	Fire (+Utilities) 	DMR 	Multi-Dispatch 
-461.55000 	WNNU852 	RM		CBOE 5500 	Board of Education 	FMN 	Schools 
-153.66500 	WPKM386 	RM		MPD Dispatch 	Police Dispatch (+Water Dept.) 	FMN 	Multi-Dispatch 
-154.87500 	WPGS454 	RM		N Loc Gov 	Local Government 	FMN 	Other 
+155.49000 	153.81500  	WNWT534 	RM		JCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.43000 	   	KIK803 	BM		JCSO 4300 	Sheriff 	FMN 	Law Talk 
+155.44500 	   	 	RM		JCSO 4450 	Sheriff  NOT LICENSED 	DMR 	Fire-Talk 
+155.67000 	   	KUB807 	BM	179.9 PL	JCSO MRD 	Sheriff MRD 	FMN 	Law Tac 
+159.61500 	155.74500  	WPGU473 	RM		JCSO Cities 	Cities Police (All cities except Maysville) 	DMR 	Law Dispatch 
+158.77500 	   	KUV825 	BM		JCSO 7750 	Sheriff 	FMN 	Law Talk 
+154.77000 	   	WPGU473 	BM		JCSO 7700 	Sheriff 	FMN 	Law Talk 
+155.58000 	   	WPPU429 	BM		JCSO 5800 	Sheriff 	FMN 	Law Talk 
+154.74750 	158.88000  	WPPU430 	RM		JCFD 7475 	Fire Department 	FMN 	Fire-Talk 
+151.49750 	153.79250  	WNWT534 	RM	CSQ	JCFD 4975 	Fire/EMS Paging (TRS Simulcast) 	FMN 	Fire Dispatch 
+154.40000 	   	WXC200 	BM		JCFD 4000 	Fire Department 	FMN 	Fire-Tac 
+154.22000 	153.89000  	WNXS651 	RM		JCFD 2200 	Fire Department 	DMR 	Fire-Talk 
+154.14500 	   	WPEE268 	BM		JCFD 1450 	Fire Department 	FMN 	Fire-Talk 
+153.93000 	   	WPPU430 	BM		JCFD 9300 	Fire Department 	FMN 	Fire-Talk 
+155.55000 	   	WPPU430 	BM		JCFD 5500 	Fire Department 	FMN 	Fire-Talk 
+155.29500 	   	KXG913 	B		JCEMS Disp 	EMS Dispatch 	DMR 	EMS-Tac 
+45.44000 	45.16000  	WPSG452 	RM		JC Pub Works 	Public Works 	FM 	Public Works 
+46.56000 	   	WPSG452 	BM		JC Pub Works 	Public Works 	FM 	Public Works 
+45.96000 	   	WQY576 	BM		JC Pub Works 	Public Works 	FM 	Public Works 
+155.74500 	   	WNGV826 	BM		JC Utilities 	Utilities 	FMN 	Utilities 
+461.50000 	466.50000  	WPTJ990 	RM		JCBOE 5000 	Board of Education 	FMN 	Schools 
+154.85250 	155.75250  	WQEZ304 	RM		BPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+151.04750 	   	WQEZ304 	BM		BPD 0475 	Police Department 	FMN 	Law Talk 
+151.13750 	   	WQEZ304 	BM		BPD 1375 	Police Department 	FMN 	Law Talk 
+154.45250 	   	WQEZ304 	BM		BPD 4525 	Police Department 	FMN 	Law Talk 
+158.73750 	   	WQEZ304 	BM		BPD 7375 	Police Department 	FMN 	Law Talk 
+159.44250 	   	WQEZ304 	BM		BPD 4425 	Police Department 	FMN 	Law Talk 
+159.47250 	   	WQEZ304 	BM		BPD 4725 	Police Department 	FMN 	Law Talk 
+155.04000 	   	WNGX301 	BM		CPC Dispatch 	Police Dispatch  EXPIRED 09/10/2011 	DMR 	Law Tac 
+155.67000 	   	KTG681 	BM		CPD 6700 	Police Department 	FMN 	Law Talk 
+155.43000 	   	KTG681 	BM		CPD 4300 	Police Department 	FMN 	Law Talk 
+153.60500 	158.25000  	WNXX713 	RM		CFD Dispatch 	Fire (+Utilities) 	DMR 	Multi-Dispatch 
+461.55000 	466.55000  	WNNU852 	RM		CBOE 5500 	Board of Education 	FMN 	Schools 
+153.66500 	154.17500  	WPKM386 	RM		MPD Dispatch 	Police Dispatch (+Water Dept.) 	FMN 	Multi-Dispatch 
+154.87500 	156.04500  	WPGS454 	RM		N Loc Gov 	Local Government 	FMN 	Other 
 Jackson County	 DMR Motorola Connect Plus (TRBO)	 Various	Jackson EMC	 EDACS Narrowband Networked	 Various	

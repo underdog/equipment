@@ -1,25 +1,25 @@
-154.32500 	KNDM569 	B	146.2 PL	ManateeFR1 	Fire/EMS Dispatch (Simulcast from TRS) 	FM 	Fire Dispatch 
-154.37000 	KNDM569 	B	210.7 PL	ManateeFR2 	Fire/EMS Dispatch (Simulcast from TRS) 	FM 	Fire Dispatch 
-153.95000 	KNDM569 	B	210.7 PL	ManateeFR3 	Fire/EMS Dispatch (Simulcast from TRS) 	FMN 	Fire Dispatch 
-463.07500 	WXP397 	BM	167.9 PL	MED-4 	County Medical Coordination 	FM 	EMS-Tac 
-463.08750 	 	RM	167.9 PL	MED-42 	EMS-to-Blake Medical Center 	FM 	Hospital 
-463.03750 	 	RM	167.9 PL	MED-22 	EMS-to-Manatee Memorial Hospital 	FM 	Hospital 
-154.96500 	KDU544 	RM	411 DPL	ManateeMC 	Mosquito Control 	FMN 	Public Works 
-152.30750 	WQNH901 	RM	91.5 PL	Orange Ridge 	Orange Ridge Elementary 	FM 	Schools 
-461.45000 	WQKX561 	RM	226 DPL	SupplyCenter 	Supply Center 	FM 	Schools 
-461.50000 	WQNH998 	RM	192.8 PL	Manatee HS 	Manatee High School 	FMN 	Schools 
-461.52500 	WQPV584 	RM	77.0 PL	Manatee Tech 	Manatee Technical Institute 	FM 	Schools 
-461.61250 	WQBZ711 	RM	110.9 PL	Bayshore ES 	Bayshore Elementary School 	FM 	Schools 
-463.48750 	WQCR765 	RM	110.9 PL	King MS 	King Middle School 	FM 	Schools 
-463.61250 	WPZR734 	RM	306 DPL	Southeast HS 	Southeast High School 	FM 	Schools 
-463.71250 	WQDX513 	RM	151.4 PL	Moody ES 	Moody Elementary School 	FM 	Schools 
-463.78750 	WQBZ709 	RM	88.5 PL	Prine ES 	Prine Elementary School 	FM 	Schools 
-464.26250 	WQHA731 	RM	114 DPL	HorizonsAcdm 	Horizons Academy 	FM 	Schools 
-464.27500 	WPKI553 	RM	131 DPL	Bayshore HS 	Bayshore High School 	FM 	Schools 
-464.38750 	WQHF836 	RM	131.8 PL	Daughtrey ES 	Daughtrey Elementary 	FM 	Schools 
-464.75000 	WQNR620 	RM	072 DPL	Lee MS 	Lee Middle School 	FM 	Schools 
-464.76250 	WQHK458 	RM	156.7 PL	Miller ES 	Miller Elementary School 	FM 	Schools 
-151.06250 	WQOR824 	RM	206.5 PL	Sanitation 	Sanitation 	FM 	Public Works 
-158.87250 	WPNU522 	BM	206.5 PL	Streets 	Streets - Annex Base 	FMN 	Public Works 
-Argos RMX	 LTR Standard	 Bradenton	Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Florida Power and Light (P25)	 Project 25 Phase II
- Varies	Manatee-Sarasota Counties	 Project 25 Phase I	 Bradenton	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	
+154.32500 	   	KNDM569 	B	146.2 PL	ManateeFR1 	Fire/EMS Dispatch (Simulcast from TRS) 	FM 	Fire Dispatch 
+154.37000 	   	KNDM569 	B	210.7 PL	ManateeFR2 	Fire/EMS Dispatch (Simulcast from TRS) 	FM 	Fire Dispatch 
+153.95000 	   	KNDM569 	B	210.7 PL	ManateeFR3 	Fire/EMS Dispatch (Simulcast from TRS) 	FMN 	Fire Dispatch 
+463.07500 	468.07500  	WXP397 	BM	167.9 PL	MED-4 	County Medical Coordination 	FM 	EMS-Tac 
+463.08750 	468.08750  	 	RM	167.9 PL	MED-42 	EMS-to-Blake Medical Center 	FM 	Hospital 
+463.03750 	468.03750  	 	RM	167.9 PL	MED-22 	EMS-to-Manatee Memorial Hospital 	FM 	Hospital 
+154.96500 	158.95500  	KDU544 	RM	411 DPL	ManateeMC 	Mosquito Control 	FMN 	Public Works 
+152.30750 	157.56250  	WQNH901 	RM	91.5 PL	Orange Ridge 	Orange Ridge Elementary 	FM 	Schools 
+461.45000 	466.45000  	WQKX561 	RM	226 DPL	SupplyCenter 	Supply Center 	FM 	Schools 
+461.50000 	466.50000  	WQNH998 	RM	192.8 PL	Manatee HS 	Manatee High School 	FMN 	Schools 
+461.52500 	466.52500  	WQPV584 	RM	77.0 PL	Manatee Tech 	Manatee Technical Institute 	FM 	Schools 
+461.61250 	466.61250  	WQBZ711 	RM	110.9 PL	Bayshore ES 	Bayshore Elementary School 	FM 	Schools 
+463.48750 	468.48750  	WQCR765 	RM	110.9 PL	King MS 	King Middle School 	FM 	Schools 
+463.61250 	468.61250  	WPZR734 	RM	306 DPL	Southeast HS 	Southeast High School 	FM 	Schools 
+463.71250 	468.71250  	WQDX513 	RM	151.4 PL	Moody ES 	Moody Elementary School 	FM 	Schools 
+463.78750 	468.73750  	WQBZ709 	RM	88.5 PL	Prine ES 	Prine Elementary School 	FM 	Schools 
+464.26250 	469.26250  	WQHA731 	RM	114 DPL	HorizonsAcdm 	Horizons Academy 	FM 	Schools 
+464.27500 	469.27500  	WPKI553 	RM	131 DPL	Bayshore HS 	Bayshore High School 	FM 	Schools 
+464.38750 	469.38750  	WQHF836 	RM	131.8 PL	Daughtrey ES 	Daughtrey Elementary 	FM 	Schools 
+464.75000 	469.75000  	WQNR620 	RM	072 DPL	Lee MS 	Lee Middle School 	FM 	Schools 
+464.76250 	469.76250  	WQHK458 	RM	156.7 PL	Miller ES 	Miller Elementary School 	FM 	Schools 
+151.06250 	155.10000  	WQOR824 	RM	206.5 PL	Sanitation 	Sanitation 	FM 	Public Works 
+158.87250 	   	WPNU522 	BM	206.5 PL	Streets 	Streets - Annex Base 	FMN 	Public Works 
+Argos RMX	 LTR Standard	 Bradenton	Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Manatee-Sarasota Counties	 Project 25 Phase I	 Bradenton
+Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	

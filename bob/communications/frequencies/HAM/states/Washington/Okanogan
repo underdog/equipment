@@ -1,33 +1,33 @@
-154.41500 	WPEJ537 	RM	103.5 PL	OCFD Main 	Fire Dispatch Main 	FMN 	Fire Dispatch 
-154.35500 	KNHS551 	M	131.8 PL	OCFD D5 Tac 	Fire District 5 Tactical 	FMN 	Fire-Tac 
-154.16000 	WPFD387 	M		OCFD D7 Rvrs 	Fire District 7 Riverside 	FMN 	Fire Dispatch 
-154.17500 	WPBP839 	M	110.9 PL	OCFD D8 Res 	Fire District 8 Reservation 	FMN 	Fire Dispatch 
-154.25000 	WPQD510 	M	110.9 PL	OCFD D12 Tac 	Fire District 12 Tactical 	FMN 	Fire-Talk 
-158.92500 	WPQD510 	M	110.9 PL	OCFD D12 Rptr 	Fire District 12 Tactical Repeater 	FMN 	Fire-Tac 
-154.01750 	WQJI412 	M	123.0 PL	OCFD D16 Tac 	Fire District 16 Tactical 	FMN 	Fire-Talk 
-159.11250 	WQJI412 	M	88.5 PL	OCFD D16 Rptr 	Fire District 16 Tactical Repeater 	FMN 	Fire-Tac 
-159.21750 	WQGU761 	M	141.3 PL	OCEMS Tac 	EMS Tactical 	FMN 	EMS-Tac 
-155.73000 	WPMD447 	BM	141.3 PL	OCSO MValley 	Sheriff Dispatch Omak/Okanogan 	FMN 	Law Dispatch 
-155.64000 	KNNI942 	RM	156.7 PL	OCSO Lemana 	Sheriff Dispatch Oroville/Tonasket 	FMN 	Law Dispatch 
-156.24000 	WPMK380 	RM	173.8 PL	OCSO Goat 	Sheriff Dispatch Brewster/Pateros 	FMN 	Law Dispatch 
-155.19000 	WPMK380 	RM	123.0 PL	OCSO Mcclure 	Sheriff Dispatch Twisp/Winthrop 	FMN 	Law Dispatch 
-158.82750 	WQGU761 	RM	151.4 PL	OCSO CMD R 	Sheriff Command 	FMN 	Law Talk 
-155.71500 	KTN269 	M		OCSO Car/Car 	Sheriff Car to Car 	FMN 	Law Talk 
-153.74750 	WQGU761 	M	127.3 PL	OCSO Tac 	Sheriff Tactical 	FMN 	Law Tac 
-153.74750 	WQGU761 	M	B3E NAC	OCSO Tac D 	Sheriff Tactical 	P25 	Law Tac 
-155.01000 	 	BM	CSQ	OC City Tac 	City Tactical 	FMN 	Law Tac 
-153.93500 	 	BM	141.3 PL	Ok Co Roads Ops 	Roads Department - Mobile Ops 	FMN 	Public Works 
-156.00000 	KDP312 	RM		Ok Co Roads 	Roads Department 	FMN 	Public Works 
-462.52500 	WNJD506 	BM	151.4 PL	Ok Co PUD 	Public Utility District 	FMN 	Public Works 
-154.35500 	KNHS551 	BM		Brewster FD 	Fire Tactical (also Oroville) 	FMN 	Fire-Tac 
-154.13000 	KNHR596 	BM	136.5 PL	CouleeDam FD 	Fire Tactical 	FMN 	Fire-Tac 
-154.04000 	WQDI465 	BM		Okanogan FD 	Okanogan Fire 	FMN 	Fire Dispatch 
-154.22000 	WPFD388 	M		Okanogan FD 	Fire Tactical 	FMN 	Fire-Tac 
-154.96500 	KEC487 	BM		Okanogan PW 	Public Works 	FMN 	Public Works 
-154.44500 	WPEV825 	BM	162.2 PL	Omak FD/Resc 	Fire and Rescue Tactical 	FMN 	Fire-Tac 
-154.38500 	WNMF566 	M	131.8 PL	Tonasket FD 	Fire Tactical 	FMN 	Fire-Tac 
-155.92500 	WNMY658 	BM		Tonasket PW 	City of Tonasket  	FMN 	Public Works 
-154.43000 	KXM752 	BM	114.8 PL	Twisp FD/Res 	Okanogan County Fire District #6 	FMN 	Fire-Talk 
-154.19000 	KNNH213 	BM		Winthrop FD 	Fire Tactical 	FMN 	Fire-Tac 
-Pacific NorthWest DMR	 DMR Conventional Networked	 Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	Washington Department of Transportation (P25)	 Project 25 Phase II
- Various	Washington State Department of Transportation	 LTR MultiNet	 Various	
+154.41500 	153.89000  	WPEJ537 	RM	103.5 PL	OCFD Main 	Fire Dispatch Main 	FMN 	Fire Dispatch 
+154.35500 	   	KNHS551 	M	131.8 PL	OCFD D5 Tac 	Fire District 5 Tactical 	FMN 	Fire-Tac 
+154.16000 	   	WPFD387 	M		OCFD D7 Rvrs 	Fire District 7 Riverside 	FMN 	Fire Dispatch 
+154.17500 	   	WPBP839 	M	110.9 PL	OCFD D8 Res 	Fire District 8 Reservation 	FMN 	Fire Dispatch 
+154.25000 	   	WPQD510 	M	110.9 PL	OCFD D12 Tac 	Fire District 12 Tactical 	FMN 	Fire-Talk 
+158.92500 	150.80500  	WPQD510 	M	110.9 PL	OCFD D12 Rptr 	Fire District 12 Tactical Repeater 	FMN 	Fire-Tac 
+154.01750 	   	WQJI412 	M	123.0 PL	OCFD D16 Tac 	Fire District 16 Tactical 	FMN 	Fire-Talk 
+159.11250 	   	WQJI412 	M	88.5 PL	OCFD D16 Rptr 	Fire District 16 Tactical Repeater 	FMN 	Fire-Tac 
+159.21750 	   	WQGU761 	M	141.3 PL	OCEMS Tac 	EMS Tactical 	FMN 	EMS-Tac 
+155.73000 	   	WPMD447 	BM	141.3 PL	OCSO MValley 	Sheriff Dispatch Omak/Okanogan 	FMN 	Law Dispatch 
+155.64000 	156.21000  	KNNI942 	RM	156.7 PL	OCSO Lemana 	Sheriff Dispatch Oroville/Tonasket 	FMN 	Law Dispatch 
+156.24000 	151.19000  	WPMK380 	RM	173.8 PL	OCSO Goat 	Sheriff Dispatch Brewster/Pateros 	FMN 	Law Dispatch 
+155.19000 	159.03000  	WPMK380 	RM	123.0 PL	OCSO Mcclure 	Sheriff Dispatch Twisp/Winthrop 	FMN 	Law Dispatch 
+158.82750 	154.83000  	WQGU761 	RM	151.4 PL	OCSO CMD R 	Sheriff Command 	FMN 	Law Talk 
+155.71500 	   	KTN269 	M		OCSO Car/Car 	Sheriff Car to Car 	FMN 	Law Talk 
+153.74750 	   	WQGU761 	M	127.3 PL	OCSO Tac 	Sheriff Tactical 	FMN 	Law Tac 
+153.74750 	   	WQGU761 	M	B3E NAC	OCSO Tac D 	Sheriff Tactical 	P25 	Law Tac 
+155.01000 	   	 	BM	CSQ	OC City Tac 	City Tactical 	FMN 	Law Tac 
+153.93500 	   	 	BM	141.3 PL	Ok Co Roads Ops 	Roads Department - Mobile Ops 	FMN 	Public Works 
+156.00000 	155.10000  	KDP312 	RM		Ok Co Roads 	Roads Department 	FMN 	Public Works 
+462.52500 	   	WNJD506 	BM	151.4 PL	Ok Co PUD 	Public Utility District 	FMN 	Public Works 
+154.35500 	   	KNHS551 	BM		Brewster FD 	Fire Tactical (also Oroville) 	FMN 	Fire-Tac 
+154.13000 	   	KNHR596 	BM	136.5 PL	CouleeDam FD 	Fire Tactical 	FMN 	Fire-Tac 
+154.04000 	   	WQDI465 	BM		Okanogan FD 	Okanogan Fire 	FMN 	Fire Dispatch 
+154.22000 	   	WPFD388 	M		Okanogan FD 	Fire Tactical 	FMN 	Fire-Tac 
+154.96500 	   	KEC487 	BM		Okanogan PW 	Public Works 	FMN 	Public Works 
+154.44500 	   	WPEV825 	BM	162.2 PL	Omak FD/Resc 	Fire and Rescue Tactical 	FMN 	Fire-Tac 
+154.38500 	   	WNMF566 	M	131.8 PL	Tonasket FD 	Fire Tactical 	FMN 	Fire-Tac 
+155.92500 	   	WNMY658 	BM		Tonasket PW 	City of Tonasket  	FMN 	Public Works 
+154.43000 	   	KXM752 	BM	114.8 PL	Twisp FD/Res 	Okanogan County Fire District #6 	FMN 	Fire-Talk 
+154.19000 	   	KNNH213 	BM		Winthrop FD 	Fire Tactical 	FMN 	Fire-Tac 
+Justice Integrated Wireless Network	 Project 25 Phase I	 Various	Pacific NorthWest DMR	 DMR Conventional Networked	 Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various
+Washington State Department of Transportation	 LTR MultiNet	 Various	

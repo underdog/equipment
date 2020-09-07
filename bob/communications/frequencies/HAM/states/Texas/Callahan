@@ -1,13 +1,13 @@
-155.64000 	KVF650 	RM	030 NAC	Call SO Disp Dig 	Sheriff Dispatch Primary (Digital) 	P25 	Law Dispatch 
-155.64000 	KVF650 	RM	94.8 PL	Call SO Disp Ana 	Sheriff Dispatch Secondary (Analog) 	FMN 	Law Dispatch 
-155.82000 	WPJP333 	RM	94.8 PL	Call Co Fire/EMS 	Fire/EMS Paging 	FMN 	Fire Dispatch 
-154.16000 	WNNC536 	BM		Cottonwd VFD 	Cottonwood Fire Dispatch 	FMN 	Fire Dispatch 
-154.22000 	WQGE325 	BM	CSQ	Oplin VFD 	Oplin Fire 	FMN 	Fire-Tac 
-155.32500 	WPEW247 	RM	156.7 PL	Eula VFD 	Eula Fire Dispatch 	FMN 	Fire Dispatch 
-155.98500 	WQJS590 	M		Putnam VFD 	Putnam Volunteer FD 	FMN 	Fire-Tac 
-154.35500 	WPAR859 	BM	127.3 PL	Baird Fire 	Baird Volunteer Fire Dispatch 	FMN 	Fire Dispatch 
-154.26500 	WNGD810 	RM	156.7 PL	Clyde Fire 1 	Clyde Fire 1 Dispatch 	FMN 	Fire Dispatch 
-154.43000 	WNDG810 	M	156.7 PL	Clyde Fire 2 	Clyde Fire 2 Ground 	FMN 	Fire-Tac 
-155.69250 	WQIF992 	RM	156.7 PL	CrossPlns FD Ana 	Fire Dispatch (Analog) 	FMN 	Fire Dispatch 
-155.69250 	WQIF992 	RM	070 NAC	CrossPlns FD Dig 	Fire Dispatch (Digital) 	P25 	Fire Dispatch 
-American Electric Power / West Texas Utilities	 EDACS Networked Standard	 Various	
+155.64000 	154.81500  	KVF650 	RM	030 NAC	Call SO Disp Dig 	Sheriff Dispatch Primary (Digital) 	P25 	Law Dispatch 
+155.64000 	154.81500  	KVF650 	RM	94.8 PL	Call SO Disp Ana 	Sheriff Dispatch Secondary (Analog) 	FMN 	Law Dispatch 
+155.82000 	153.93500  	WPJP333 	RM	94.8 PL	Call Co Fire/EMS 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+154.16000 	   	WNNC536 	BM		Cottonwd VFD 	Cottonwood Fire Dispatch 	FMN 	Fire Dispatch 
+154.22000 	   	WQGE325 	BM	CSQ	Oplin VFD 	Oplin Fire 	FMN 	Fire-Tac 
+155.32500 	153.95000  	WPEW247 	RM	156.7 PL	Eula VFD 	Eula Fire Dispatch 	FMN 	Fire Dispatch 
+155.98500 	   	WQJS590 	M		Putnam VFD 	Putnam Volunteer FD 	FMN 	Fire-Tac 
+154.35500 	156.03750  	WPAR859 	BM	127.3 PL	Baird Fire 	Baird Volunteer Fire Dispatch 	FMN 	Fire Dispatch 
+154.26500 	158.88000  	WNGD810 	RM	156.7 PL	Clyde Fire 1 	Clyde Fire 1 Dispatch 	FMN 	Fire Dispatch 
+154.43000 	   	WNDG810 	M	156.7 PL	Clyde Fire 2 	Clyde Fire 2 Ground 	FMN 	Fire-Tac 
+155.69250 	154.77750  	WQIF992 	RM	156.7 PL	CrossPlns FD Ana 	Fire Dispatch (Analog) 	FMN 	Fire Dispatch 
+155.69250 	154.77750  	WQIF992 	RM	070 NAC	CrossPlns FD Dig 	Fire Dispatch (Digital) 	P25 	Fire Dispatch 
+American Electric Power / West Texas Utilities	 EDACS Networked Standard	 Various	BrandMeister Texas	 DMR Conventional Networked	 Various	

@@ -1,17 +1,17 @@
-460.50000 	WQAE590 	BM	192.8 PL	GulfSO/FR D 	Sheriff/ Fire Dispatch 	FMN 	Multi-Dispatch 
-460.07500 	WQAE590 	RM	CC 1TG 100SL 1	Gulf SO S 	Sheriff South (Port St Joe) 	DMRe 	Law Dispatch 
-453.45000 	WQAE590 	RM	CC 1TG 100SL 1	Gulf SO N 	Sheriff North (Wewahitchka) 	DMRe 	Law Dispatch 
-460.63750 	WPTU416 	RM	167.9 PL	Gulf Special 	Search & Rescue/ Court Ops 	FM 	Law Tac 
-460.50000 	WQAE590 	RM	162.2 PL	Gulf Fire 	Fire Dispatch 	FM 	Fire Dispatch 
-453.51250 	WQAE590 	RM	CC 1TG 50SL 1	WewahitchkaFD 	Wewahitchka Fire 	DMR 	Fire Dispatch 
-453.40000 	KNDE676 	RM	CC 1TG 130SL 1	Gulf EMS Disp 	EMS Dispatch 	DMR 	EMS Dispatch 
-462.97500 	WQLF945 	RM	167.9 PL	EMS MED-10 	Wewahitchka EMS-North Gulf County (MED-10) 	FMN 	Hospital 
-463.02500 	WQLF945 	RM	167.9 PL	EMS MED-2 	Gulf County EMS (MED-2) 	FMN 	Hospital 
-463.06250 	WQLF945 	BM	167.9 PL	EMS MED-32 	Sacred Heart Hospital on the Gulf (MED-32) 	FMN 	Hospital 
-460.12500 	KNGD531 	RM		PSJ PD Disp 	Police Dispatch 	FM 	Law Dispatch 
-465.27500 	KNGD531 	M		PSJ PD Car 	Police Talk-Around 	FM 	Law Talk 
-158.77500 	WYK324 	BM		PSJ FD 	Fire Dispatch/ Operations 	FM 	Fire Dispatch 
-453.81250 	WQAE590 	RM	CC 1TG 50SL 1	PSJ FD 	Fire Department 	DMR 	Fire-Tac 
-453.15000 	WQAS419 	RM		PSJ W&S 	Water and Sewer Department 	FM 	Utilities 
-Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	PowerSouth Energy Cooperative	 DMR Motorola Connect Plus (TRBO)	 Andalusia	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I
- Statewide	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	
+460.50000 	465.50000  	WQAE590 	BM	192.8 PL	GulfSO/FR D 	Sheriff/ Fire Dispatch 	FMN 	Multi-Dispatch 
+460.07500 	465.07500  	WQAE590 	RM	CC 1TG 100SL 1	Gulf SO S 	Sheriff South (Port St Joe) 	DMRe 	Law Dispatch 
+453.45000 	458.45000  	WQAE590 	RM	CC 1TG 100SL 1	Gulf SO N 	Sheriff North (Wewahitchka) 	DMRe 	Law Dispatch 
+460.63750 	465.63750  	WPTU416 	RM	167.9 PL	Gulf Special 	Search & Rescue/ Court Ops 	FM 	Law Tac 
+460.50000 	465.50000  	WQAE590 	RM	162.2 PL	Gulf Fire 	Fire Dispatch 	FM 	Fire Dispatch 
+453.51250 	458.51250  	WQAE590 	RM	CC 1TG 50SL 1	WewahitchkaFD 	Wewahitchka Fire 	DMR 	Fire Dispatch 
+453.40000 	458.40000  	KNDE676 	RM	CC 1TG 130SL 1	Gulf EMS Disp 	EMS Dispatch 	DMR 	EMS Dispatch 
+462.97500 	467.97500  	WQLF945 	RM	167.9 PL	EMS MED-10 	Wewahitchka EMS-North Gulf County (MED-10) 	FMN 	Hospital 
+463.02500 	468.02500  	WQLF945 	RM	167.9 PL	EMS MED-2 	Gulf County EMS (MED-2) 	FMN 	Hospital 
+463.06250 	468.06250  	WQLF945 	BM	167.9 PL	EMS MED-32 	Sacred Heart Hospital on the Gulf (MED-32) 	FMN 	Hospital 
+460.12500 	465.12500  	KNGD531 	RM		PSJ PD Disp 	Police Dispatch 	FM 	Law Dispatch 
+465.27500 	   	KNGD531 	M		PSJ PD Car 	Police Talk-Around 	FM 	Law Talk 
+158.77500 	   	WYK324 	BM		PSJ FD 	Fire Dispatch/ Operations 	FM 	Fire Dispatch 
+453.81250 	458.81250  	WQAE590 	RM	CC 1TG 50SL 1	PSJ FD 	Fire Department 	DMR 	Fire-Tac 
+453.15000 	458.15000  	WQAS419 	RM		PSJ W&S 	Water and Sewer Department 	FM 	Utilities 
+Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	PowerSouth Energy Cooperative	 DMR Motorola Connect Plus (TRBO)	 Andalusia	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide
+Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	

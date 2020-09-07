@@ -1,30 +1,30 @@
-155.61000 	WQJP728 	RM	173.8 PL	Preble SO A  	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.13000 	WQJP728 	RM	131.8 PL	Preble SO B  	Sheriff Ch B 	FMN 	Law Tac 
-155.80500 	WQJP728 	BM	CSQ	Preble EMA  	County Emergency Management Agency 	FMN 	Emergency Ops 
-151.18250 	WQGL829 	RM	731 DPL	Eaton PD 1  	Eaton Police 	FMN 	Law Dispatch 
-151.01750 	WQGL829 	RM	731 DPL	Eaton PD 2  	Eaton Police Tactical 	FMN 	Law Tac 
-159.38250 	WQJP728 	RM	118.8 PL	Preble Fire 	County Fire Dispatch 	FMN 	Fire Dispatch 
-154.19000 	WQJP728 	BM	173.8 PL	Preble FTac1  	County Fire TAC 1 	FMN 	Fire-Tac 
-153.83000 	 	M	CSQ	Preble FTac2  	County Fire TAC 2 	FMN 	Fire-Tac 
-154.26500 	 	M	CSQ	Preble FTac3 	County Fire TAC 3 	FMN 	Fire-Tac 
-154.29500 	 	M	CSQ	Preble FTac4 	County Fire TAC 4 	FMN 	Fire-Tac 
-153.77000 	KQG231 	BM	173.8 PL	Lewisburg FG  	Lewisburg Fireground 	FMN 	Fire-Tac 
-153.89000 	WNYA373 	M	173.8 PL	W Alex FG  	West Alexandria Fireground 	FMN 	Fire-Tac 
-153.95000 	KDA342 	M		Eaton FG  	Eaton Fire 'Service' 	FMN 	Fire-Tac 
-156.16500 	KFK611 	RM	114.8 PL	PREBLE ENG 	Preble County Engineer 	FMN 	Public Works 
-154.08500 		WQNH270 	RM	731 DPL	EATON PW 	Eaton Public Works 	FMN 	Public Works 
-151.02500 	None 	RM	156.7 PL	GRATIS PW 	Gratis Township Public Works 	FMN 	Public Works 
-159.12000 	 	BM	173.8 PL	JEFFTWP PW 	Jefferson Township Public Works 	FMN 	Public Works 
-159.18000 	WPKM894 	BM		LANIER ROADS 	Lanier Township Roads 	FMN 	Public Works 
-151.58000 	WQJP790 	RM	546 DPL	EATON CSDOPS 	Eaton Community Schools - Operations 	FMN 	Schools 
-451.07500 	WPYU552 	RM	179.9 PL	NTRAIL LSD 	National Trail Local Schools - Buses 	FMN 	Schools 
-451.90000 	WNCL284 	RM	754 DPL	PS LSD CH 1 	Preble Shawnee Local Schools - Ch. 1 Operations 	FMN 	Schools 
-461.20000 	WNCL284 	RM	031 DPL	PS LSD CH 3 	Preble Shawnee Local Schools - Ch. 3 Buses 	FMN 	Schools 
-462.00000 	WNYB289 	RM	173.8 PL	TV LSD OPS 	Twin Valley Local Schools - Operations 	FMN 	Schools 
-464.02500 	WQDF756 	RM	532 DPL	TV LSD 	Twin Valley Local Schools - Buses 	FMN 	Schools 
-464.52500 	WPGU225 	RM	141.3 PL	TCN LSD TXP 	 Tri County North Local School District (Lewisburg) - Transportation 	FMN 	Schools 
-173.33750 	WPAG357 	F		Eaton WTR 	City of Eaton Water - Telemetry for Water Tower 	Telm 	Data 
-451.07500 	KQS346 	F		BUTLER REC 	Butler Rural Electric Cooperative - Telemetry 	Telm 	Data 
-461.77500 	KIN423 	RM	192.8 PL	SWRWD OPS 	Southwest Regional Water District - Operations 	FMN 	Utilities 
-Advanced Radio Technology	 LTR Standard	 Various	Eaton City Schools	 DMR Conventional Networked	 Eaton	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I
- Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	P and R Communications Connect Plus (Ohio)	 DMR Motorola Connect Plus (TRBO)	 Various	
+155.61000 	154.89000  	WQJP728 	RM	173.8 PL	Preble SO A  	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.13000 	156.15000  	WQJP728 	RM	131.8 PL	Preble SO B  	Sheriff Ch B 	FMN 	Law Tac 
+155.80500 	   	WQJP728 	BM	CSQ	Preble EMA  	County Emergency Management Agency 	FMN 	Emergency Ops 
+151.18250 	159.00750  	WQGL829 	RM	731 DPL	Eaton PD 1  	Eaton Police 	FMN 	Law Dispatch 
+151.01750 	159.08250  	WQGL829 	RM	731 DPL	Eaton PD 2  	Eaton Police Tactical 	FMN 	Law Tac 
+159.38250 	154.21250  	WQJP728 	RM	118.8 PL	Preble Fire 	County Fire Dispatch 	FMN 	Fire Dispatch 
+154.19000 	   	WQJP728 	BM	173.8 PL	Preble FTac1  	County Fire TAC 1 	FMN 	Fire-Tac 
+153.83000 	   	 	M	CSQ	Preble FTac2  	County Fire TAC 2 	FMN 	Fire-Tac 
+154.26500 	   	 	M	CSQ	Preble FTac3 	County Fire TAC 3 	FMN 	Fire-Tac 
+154.29500 	   	 	M	CSQ	Preble FTac4 	County Fire TAC 4 	FMN 	Fire-Tac 
+153.77000 	   	KQG231 	BM	173.8 PL	Lewisburg FG  	Lewisburg Fireground 	FMN 	Fire-Tac 
+153.89000 	   	WNYA373 	M	173.8 PL	W Alex FG  	West Alexandria Fireground 	FMN 	Fire-Tac 
+153.95000 	   	KDA342 	M		Eaton FG  	Eaton Fire 'Service' 	FMN 	Fire-Tac 
+156.16500 	158.98500  	KFK611 	RM	114.8 PL	PREBLE ENG 	Preble County Engineer 	FMN 	Public Works 
+154.08500 	159.28500  		WQNH270 	RM	731 DPL	EATON PW 	Eaton Public Works 	FMN 	Public Works 
+151.02500 	156.98500  	None 	RM	156.7 PL	GRATIS PW 	Gratis Township Public Works 	FMN 	Public Works 
+159.12000 	   	 	BM	173.8 PL	JEFFTWP PW 	Jefferson Township Public Works 	FMN 	Public Works 
+159.18000 	   	WPKM894 	BM		LANIER ROADS 	Lanier Township Roads 	FMN 	Public Works 
+151.58000 	160.02000  	WQJP790 	RM	546 DPL	EATON CSDOPS 	Eaton Community Schools - Operations 	FMN 	Schools 
+451.07500 	456.07500  	WPYU552 	RM	179.9 PL	NTRAIL LSD 	National Trail Local Schools - Buses 	FMN 	Schools 
+451.90000 	456.90000  	WNCL284 	RM	754 DPL	PS LSD CH 1 	Preble Shawnee Local Schools - Ch. 1 Operations 	FMN 	Schools 
+461.20000 	466.20000  	WNCL284 	RM	031 DPL	PS LSD CH 3 	Preble Shawnee Local Schools - Ch. 3 Buses 	FMN 	Schools 
+462.00000 	467.00000  	WNYB289 	RM	173.8 PL	TV LSD OPS 	Twin Valley Local Schools - Operations 	FMN 	Schools 
+464.02500 	469.02500  	WQDF756 	RM	532 DPL	TV LSD 	Twin Valley Local Schools - Buses 	FMN 	Schools 
+464.52500 	469.52500  	WPGU225 	RM	141.3 PL	TCN LSD TXP 	 Tri County North Local School District (Lewisburg) - Transportation 	FMN 	Schools 
+173.33750 	   	WPAG357 	F		Eaton WTR 	City of Eaton Water - Telemetry for Water Tower 	Telm 	Data 
+451.07500 	456.07500  	KQS346 	F		BUTLER REC 	Butler Rural Electric Cooperative - Telemetry 	Telm 	Data 
+461.77500 	466.77500  	KIN423 	RM	192.8 PL	SWRWD OPS 	Southwest Regional Water District - Operations 	FMN 	Utilities 
+Advanced Radio Technology	 LTR Standard	 Various	Eaton City Schools	 DMR Conventional Networked	 Eaton	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide
+Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	P and R Communications Connect Plus (Ohio)	 DMR Motorola Connect Plus (TRBO)	 Various	

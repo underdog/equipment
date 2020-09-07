@@ -1,40 +1,40 @@
-155.01000 	KNCS595 	RM	110.9 PL	Williams Sheriff 	Sheriff - Dispatch 	FMN 	Law Dispatch 
-155.19000 	KQB391 	M	110.9 PL	Will Sheriff Car 	Sheriff - Car-to-Car 	FMN 	Law Talk 
-153.81500 	WPLX257 	M		Will SheriffTacA 	Sheriff - Tactical 	FMN 	Law Tac 
-153.96500 	WPLX257 	M		Will SheriffTacB 	Sheriff - Tactical 	FMN 	Law Tac 
-159.39000 	WQEE223 	M	110.9 PL	Will SheriffTacC 	Sheriff - Tactical 	FMN 	Law Tac 
-154.84500 	KVK402 	RM	110.9 PL	Bryan Police 1  	Bryan Police: Dispatch 	FMN 	Law Dispatch 
-155.59500 	KQF877 	RM	110.9 PL	Bryan Police 2  	Bryan Police: Secondary 	FMN 	Law Talk 
-154.80000 	WNQU518 	BM	110.9 PL	Edon Police   	Edon Police 	FMN 	Law Dispatch 
-453.55000 	WPNS989 	BM	156.7 PL	Montpelier PD   	Montpelier Police - Dispatch 	FMN 	Law Dispatch 
-154.80750 	WPUV593 	BM	246 DPL	Pioneer Police 	Pioneer Police 	FMN 	Law Dispatch 
-154.25000 	 	BM	110.9 PL	Williams Fire  	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
-451.88750 	 	RM	CC 1TG *SL 1	WilCoFD RESP 	Countywide Fire/EMS Response 	DMR 	Fire-Tac 
-152.48000 	WQO277 	BM		Williams Page 	Countywide Fire/EMS/Hospital Paging 	FMN 	Fire Dispatch 
-155.95500 	WQIP506 	RM	110.9 PL	NW Twp Fire 	Northwest Township - Fire 	FMN 	Fire-Talk 
-453.87500 	KQE354 	BM		Bryan Fire UHF  	Bryan Fire 	FMN 	Fire Dispatch 
-154.14500 	KQE354 	BM	218.1 PL	Bryan Fire 	Bryan Fire 	FMN 	Fire Dispatch 
-154.29500 	KNEP963 	BM	CSQ	Hillsdale Fire 	Mutual Aid with Hillsdale Co. Mich. 	FMN 	Fire-Talk 
-152.48000 	KNDR815 	B	254.1 PL	Williams EMS  	Dispatch Paging 	FM 	EMS Dispatch 
-462.95000 	KNDR816 	RM		REMSNO 	R.E.M.S.N.O 	FMN 	EMS-Talk 
-462.97500 	KNDR816 	RM	110.9 PL	REMSNO EnRoute 	R.E.M.S.N.O [EMS En Route Comms.] 	FMN 	EMS-Talk 
-463.00000 	KNDR816 	BM		MED 1 	ALS-to-Hospital 	FMN 	Hospital 
-463.02500 	KNDR816 	BM		MED 2 	ALS-to-Hospital 	FMN 	Hospital 
-463.05000 	KNDR816 	BM		MED 3 	ALS-to-Hospital 	FMN 	Hospital 
-463.07500 	KNDR816 	BM		MED 4 	ALS-to-Hospital 	FMN 	Hospital 
-463.10000 	KNDR816 	BM		MED 5 	ALS-to-Hospital 	FMN 	Hospital 
-463.12500 	KNDR816 	BM		MED 6 	ALS-to-Hospital 	FMN 	Hospital 
-463.15000 	KNDR816 	BM		MED 7 	ALS-to-Hospital 	FMN 	Hospital 
-463.17500 	KNDR816 	BM	244 DPL	MED 8 	ALS-to-Hospital 	FMN 	Hospital 
-155.80500 	KNDX454 	BM		Ohio EMA 	Statewide EMA - Intercounty 	FMN 	Emergency Ops 
-158.74500 	WPYI935 	RM	103.5 PL	WillCO EMA 	EMA - Operations 	FMN 	Emergency Ops 
-158.92500 	WPMV705 	M		WillCO EMA 2 	EMA - Tactical 	FMN 	Emergency Ops 
-37.98000 	KQG622 	BM	110.9 PL	WillCO ENG 	County Road Commission 	FM 	Public Works 
-154.04000 	KCL216 	BM		Mont DPW 	Montpelier DPW 	FMN 	Public Works 
-155.10000 	KUX282 	BM		Bryan DPW 	Bryan DPW 	FMN 	Public Works 
-155.71500 	KNFY459 	BM		W Unity DPW 	West Unity DPW 	FMN 	Public Works 
-158.74500 	WNIL740 	BM	110.9 PL	WillCo LG 	County Local Government 	FMN 	Public Works 
-159.19500 	WNUG396 	BM		PulTwp DPW 	Pulaski Township DPW 	FMN 	Public Works 
-453.87500 	KQE354 	RM		Bryan DPW 	Bryan DPW 	FMN 	Public Works 
-155.23500 	WNCE374 	BM		NCentral LSD 	North Central Local Schools Buses 	FMN 	Schools 
+155.01000 	155.97000  	KNCS595 	RM	110.9 PL	Williams Sheriff 	Sheriff - Dispatch 	FMN 	Law Dispatch 
+155.19000 	   	KQB391 	M	110.9 PL	Will Sheriff Car 	Sheriff - Car-to-Car 	FMN 	Law Talk 
+153.81500 	   	WPLX257 	M		Will SheriffTacA 	Sheriff - Tactical 	FMN 	Law Tac 
+153.96500 	   	WPLX257 	M		Will SheriffTacB 	Sheriff - Tactical 	FMN 	Law Tac 
+159.39000 	   	WQEE223 	M	110.9 PL	Will SheriffTacC 	Sheriff - Tactical 	FMN 	Law Tac 
+154.84500 	155.91000  	KVK402 	RM	110.9 PL	Bryan Police 1  	Bryan Police: Dispatch 	FMN 	Law Dispatch 
+155.59500 	158.79000  	KQF877 	RM	110.9 PL	Bryan Police 2  	Bryan Police: Secondary 	FMN 	Law Talk 
+154.80000 	   	WNQU518 	BM	110.9 PL	Edon Police   	Edon Police 	FMN 	Law Dispatch 
+453.55000 	458.55000  	WPNS989 	BM	156.7 PL	Montpelier PD   	Montpelier Police - Dispatch 	FMN 	Law Dispatch 
+154.80750 	   	WPUV593 	BM	246 DPL	Pioneer Police 	Pioneer Police 	FMN 	Law Dispatch 
+154.25000 	   	 	BM	110.9 PL	Williams Fire  	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
+451.88750 	456.88750  	 	RM	CC 1TG *SL 1	WilCoFD RESP 	Countywide Fire/EMS Response 	DMR 	Fire-Tac 
+152.48000 	   	WQO277 	BM		Williams Page 	Countywide Fire/EMS/Hospital Paging 	FMN 	Fire Dispatch 
+155.95500 	   	WQIP506 	RM	110.9 PL	NW Twp Fire 	Northwest Township - Fire 	FMN 	Fire-Talk 
+453.87500 	458.87500  	KQE354 	BM		Bryan Fire UHF  	Bryan Fire 	FMN 	Fire Dispatch 
+154.14500 	   	KQE354 	BM	218.1 PL	Bryan Fire 	Bryan Fire 	FMN 	Fire Dispatch 
+154.29500 	   	KNEP963 	BM	CSQ	Hillsdale Fire 	Mutual Aid with Hillsdale Co. Mich. 	FMN 	Fire-Talk 
+152.48000 	   	KNDR815 	B	254.1 PL	Williams EMS  	Dispatch Paging 	FM 	EMS Dispatch 
+462.95000 	467.95000  	KNDR816 	RM		REMSNO 	R.E.M.S.N.O 	FMN 	EMS-Talk 
+462.97500 	467.97500  	KNDR816 	RM	110.9 PL	REMSNO EnRoute 	R.E.M.S.N.O [EMS En Route Comms.] 	FMN 	EMS-Talk 
+463.00000 	468.00000  	KNDR816 	BM		MED 1 	ALS-to-Hospital 	FMN 	Hospital 
+463.02500 	468.02500  	KNDR816 	BM		MED 2 	ALS-to-Hospital 	FMN 	Hospital 
+463.05000 	468.05000  	KNDR816 	BM		MED 3 	ALS-to-Hospital 	FMN 	Hospital 
+463.07500 	468.07500  	KNDR816 	BM		MED 4 	ALS-to-Hospital 	FMN 	Hospital 
+463.10000 	468.10000  	KNDR816 	BM		MED 5 	ALS-to-Hospital 	FMN 	Hospital 
+463.12500 	468.12500  	KNDR816 	BM		MED 6 	ALS-to-Hospital 	FMN 	Hospital 
+463.15000 	468.15000  	KNDR816 	BM		MED 7 	ALS-to-Hospital 	FMN 	Hospital 
+463.17500 	468.17500  	KNDR816 	BM	244 DPL	MED 8 	ALS-to-Hospital 	FMN 	Hospital 
+155.80500 	   	KNDX454 	BM		Ohio EMA 	Statewide EMA - Intercounty 	FMN 	Emergency Ops 
+158.74500 	156.00000  	WPYI935 	RM	103.5 PL	WillCO EMA 	EMA - Operations 	FMN 	Emergency Ops 
+158.92500 	   	WPMV705 	M		WillCO EMA 2 	EMA - Tactical 	FMN 	Emergency Ops 
+37.98000 	   	KQG622 	BM	110.9 PL	WillCO ENG 	County Road Commission 	FM 	Public Works 
+154.04000 	   	KCL216 	BM		Mont DPW 	Montpelier DPW 	FMN 	Public Works 
+155.10000 	   	KUX282 	BM		Bryan DPW 	Bryan DPW 	FMN 	Public Works 
+155.71500 	   	KNFY459 	BM		W Unity DPW 	West Unity DPW 	FMN 	Public Works 
+158.74500 	156.00000  	WNIL740 	BM	110.9 PL	WillCo LG 	County Local Government 	FMN 	Public Works 
+159.19500 	   	WNUG396 	BM		PulTwp DPW 	Pulaski Township DPW 	FMN 	Public Works 
+453.87500 	458.87500  	KQE354 	RM		Bryan DPW 	Bryan DPW 	FMN 	Public Works 
+155.23500 	   	WNCE374 	BM		NCentral LSD 	North Central Local Schools Buses 	FMN 	Schools 
 Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	

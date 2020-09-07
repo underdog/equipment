@@ -1,148 +1,147 @@
-769.00625 	WQPG339 	M	156.7 PL	CC FG-1 	Fireground 1 (North Region Primary) 	FMN 	Fire-Tac 
-769.01875 	WQPG339 	M	156.7 PL	CC FG-2 	Fireground 2 (West Region Primary) 	FMN 	Fire-Tac 
-769.03125 	WQPG339 	M	156.7 PL	CC FG-3 	Fireground 3 (East Region Primary) 	FMN 	Fire-Tac 
-769.04375 	WQPG339 	M	156.7 PL	CC FG-4 	Fireground 4 (South Region Primary) 	FMN 	Fire-Tac 
-774.93125 	WQPG339 	M	156.7 PL	CC FG-5 	Fireground 5 (Secondary) 	FMN 	Fire-Tac 
-774.94375 	WQPG339 	M	156.7 PL	CC FG-6 	Fireground 6 (Secondary) 	FMN 	Fire-Tac 
-774.95625 	WQPG339 	M	156.7 PL	CC FG-7 	Fireground 7 (Secondary) 	FMN 	Fire-Tac 
-774.96875 	WQPG339 	M	156.7 PL	CC FG-8 	Fireground 8 (Secondary) 	FMN 	Fire-Tac 
-857.48750 	WQQI938 	RM	192.8 PL	PATCO Tunnel 	PATCO Tunnel Repeater 	FMN 	Fire-Tac 
-154.43000 	KVP480 	BM	192.8 PL	CC FD/EMS 	Fire and EMS Dispatch (Paging) 	FMN 	Fire Dispatch 
-154.26500 	KVP480 	BM	CSQ	SJ-Network 	South Jersey Network 	FMN 	Multi-Tac 
-159.37500 	KVP480 	BM	179.9 PL	NJ Forestry 	NJ State Forest Fire Ch-6 	FMN 	Fire-Tac 
-155.34000 	WQN901 	BM	192.8 PL	CC EMS HEAR 	EMS-to-Hospital (H.E.A.R.) 	FMN 	Hospital 
-155.28000 	WQN901 	BM	CSQ	CC EMS JEMS 	Statewide EMS Network (J.E.M.S.) 	FMN 	EMS-Talk 
-155.26500 	WPGU872 	BM	192.8 PL	CC EMS Spare 	EMS Backup 	FMN 	EMS-Tac 
-154.05500 	KB51388 	M	192.8 PL	CC Fire-PD 	FD-PD County Fire Police  	FMN 	Fire-Tac 
-507.11250 	WIK700 	RM	192.8 PL	Zone 1 	Zone 1 	FMN 	Law Dispatch 
-507.51250 	WIK701 	RM	192.8 PL	Zone 2 	Zone 2 	FMN 	Law Dispatch 
-507.16250 	WIK699 	RM	192.8 PL	Zone 3 	Zone 3 	FMN 	Law Dispatch 
-507.56250 	WIK857 	RM	192.8 PL	Zone 4 	Zone 4 	FMN 	Law Dispatch 
-507.71250 	WII555 	RM	192.8 PL	Zone 5 	Zone 5 	FMN 	Law Dispatch 
-508.01250 	WII555 	RM	192.8 PL	Auxiliary 1 	Car-to-Car (Zone 1, 2, 5) 	FMN 	Law Tac 
-507.91250 	WIK697 	RM	192.8 PL	Auxiliary 3 	Car-to-Car (Zone 3) 	FMN 	Law Tac 
-508.88750 	WIK280 	RM	192.8 PL	Auxiliary 4 	Car-to-Car (Zone 4) 	FMN 	Law Tac 
-508.78750 	WII555 	RM	192.8 PL	Countywide   	Countywide 	FMN 	Law Tac 
-501.13750 	WIE946 	RM	127.3 PL	Prosecutor S 	Prosecutor South 	FMN 	Law Tac 
-507.66250 	WII555 	RM	192.8 PL	Tactical 1 	Tactical Operations 1 	FMN 	Law Tac 
-507.76250 	WQJW310 	RM	192.8 PL	Tactical 2 	Tactical Operations 2 	FMN 	Law Tac 
-507.93750 	WIK698 	RM	127.3 PL	Narcotics 	Narcotics Tactical Operations 	FMN 	Law Tac 
-507.78750 	WII555 	RM	192.8 PL	Zone X 	Countywide 800MHz TRS Link 	FMN 	Law Tac 
-507.21250 	WII555 	RM	114.8 PL	DPS 1 	Department of Public Safety - Fieldcom 1 	FMN 	Law Tac 
-460.42500 	WQEG541 	RM	192.8 PL	DPS 2 	Department of Public Safety - Fieldcom 2 	FMN 	Law Tac 
-460.61250 	WQKF642 	RM	192.8 PL	DPS 3 	Department of Public Safety - Fieldcom 3 	FMN 	Law Tac 
-454.20000 	 	RM	146.2 PL	DPS 4 	Department of Public Safety - Fieldcom 4 	FMN 	Law Tac 
-508.71250 	KNBB284 	RM	192.8 PL	Sheriff 1 	Sheriff Operations 1 	FMN 	Law Tac 
-508.73750 	KNBB284 	RM	192.8 PL	Sheriff 2 	Sheriff Operations 2 	FMN 	Law Tac 
-508.76250 	WIK280 	RM	110.9 PL	Sheriff 3 	Sheriff Operations 3 	FMN 	Law Tac 
-507.83750 	WII555 	RM	91.5 PL	Courthouse 	County Courthouse Security 	FMN 	Security 
-508.86250 	WIK280 	RM	192.8 PL	Jail Ops. 1 	County Jail Operations 1 	FMN 	Corrections 
-508.81250 	WIK280 	RM	192.8 PL	Jail Ops. 2 	County Jail Operations 2 	FMN 	Corrections 
-508.83750 	WIK280 	RM	192.8 PL	Jail Ops. 3 	County Jail Operations 3 	FMN 	Corrections 
-500.31250 	KUZ646 	RM	114.8 PL	DPW 1/2 	Department of Public Works 	FMN 	Public Works 
-500.36250 	KUZ647 	RM	114.8 PL	DPW 3/4 	Department of Public Works 	FMN 	Public Works 
-156.21000 	KNAQ902 	BM	192.8 PL	VHF P-1 	Countywide 	FMN 	Law Tac 
-155.37000 	KNAQ902 	BM	192.8 PL	VHF P-2 	North   	FMN 	Law Tac 
-155.56500 	KNAQ902 	RM	192.8 PL	VHF P-3 	South   	FMN 	Law Tac 
-155.02500 	KVJ842 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
-155.71500 	KNGH287 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
-155.37000 	KNGF442 	BM		PD/FD Ops. 	Police/Fire Tactical Operations 	FM 	Law Tac 
-507.46250 	WIL465 	RM		Police Ops. 	Police Tactical Operations 	FM 	Law Tac 
-155.14500 	WPNP704 	BM		Public Works 	Public Works Operations 	FMN 	Public Works 
-155.71500 	WPVJ265 	RM		Police Ops. 	Police Tactical Operations 	FM 	Law Tac 
-155.66250 	WPRJ510 	RM		Public Works 	Public Works Operations 	FMN 	Public Works 
-153.98000 	KNFZ621 	BM	192.8 PL	Public Works 	Public Works Primary (Fire Secondary) 	FMN 	Public Works 
-456.11250 	WPXK800 	M		PW Ops. 	Public Works Operations 	FMN 	Public Works 
-153.77000 	WQU334 	BM	192.8 PL	CamCity FD 1 	Fire 1 (Dispatch) 	FMN 	Fire Dispatch 
-153.90500 	WQU334 	BM	192.8 PL	CamCity FD 2 	Fire 2 (Fireground) 	FMN 	Fire-Tac 
-500.56250 	WPXP357 	RM	110.9 PL	CDID Sec. 1 	Camden Downtown Improvement District - Security 1 	FMN 	Security 
-507.61250 	WII555 	RM	127.3 PL	CDIC Sec. 2 	Camden Downtown Improvement District - Security 2 	FMN 	Security 
-156.10500 	KJF706 	RM	203.5 PL	CHFP 1 	Fire Police - Primary 	FMN 	Fire-Tac 
-151.62500 	 	M	192.8 PL	CHFP 2 	Fire Police - Secondary 	FMN 	Fire-Tac 
-851.95000 	WRCA500 	RM	441 NAC	CH DPW 	Public Works 	P25 	Public Works 
-155.88000 	KLK573 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
-151.10000 	KLK573 	BM		Public Works 	Public Works Operations 	FM 	Public Works 
-154.04000 	KNFD336 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
-155.92500 	WNND855 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FMN 	Fire-Tac 
-155.59500 	KED859 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
-155.04000 	KDD810 	BM	192.8 PL	School Buses 	School Bus Services (Fire Secondary) 	FMN 	Transportation 
-158.17500 	KXJ859 	BM		M.U.A. Ops. 	Municipal Utilities Authority Operations 	FM 	Utilities 
-453.58750 	WQRK771 	RM		Public Works 	Public Works Operations 	FMN 	Public Works 
-155.04000 	KBN496 	BM		Public Works 	Public Works Operations 	FMN 	Public Works 
-155.43000 	KEB467 	BM	127.3 PL	Police Ops. 	Police Tactical Operations 	FMN 	Law Tac 
-153.95500 	WQEU879 	BM	192.8 PL	Fire Ops. 1 	Fireground Operations & Training 	FMN 	Fire-Tac 
-158.83500 	WQEU879 	BM	192.8 PL	Fire Ops. 2 	Fireground Operations & Training 	FMN 	Fire-Tac 
-155.53500 	WQEU605 	BM		Police Ops. 	Police Tactical Operations 	FMN 	Law Tac 
-156.18000 	WPNX521 	BM		Public Works 	Public Works Operations 	FM 	Public Works 
-507.41250 	KTR803 	RM	192.8 PL	Police Ops. 	Police Tactical Operations 	FM 	Law Tac 
-154.71000 	WQJS562 	BM		Fire Ops. 	Fireground/Tactical Operations 	FMN 	Fire-Tac 
-155.86500 	WNMR931 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FMN 	Fire-Tac 
-154.96500 	WPJT424 	BM		E.M. Ops. 	Emergency Management Operations 	FM 	Multi-Tac 
-155.37000 	WNMR931 	BM		Public Works 	Public Works Operations 	FMN 	Public Works 
-155.95500 	WZE747 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
-460.32500 	KTB350 	RM	064 NAC	Police 1 	Police Dispatch   	P25E 	Law Dispatch 
-460.20000 	KTB350 	RM	064 NAC	Police 2 	Police Operations  	P25E 	Law Tac 
-154.20500 	WNQF665 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
-453.32500 	KNFS536 	RM	192.8 PL	Public Works 	Public Works Operations 	FMN 	Public Works 
-45.70000 	WPKH281 	BM	546 DPL	Public Works 	Public Works Operations 	FM 	Public Works 
-156.24000 	WPKJ474 	BM		Public Works 	Public Works Operations 	FMN 	Public Works 
-508.91250 	WIK314 	RM	114.8 PL	Police Disp. 	Police Dispatch 	FMN 	Law Dispatch 
-508.93750 	WIK314 	RM	114.8 PL	Police Ops. 	Police Secondary Operations 	FMN 	Law Talk 
-155.14500 	KDT253 	BM	192.8 PL	Public Works 	Public Works Primary (Fire & EMS Secondary) 	FMN 	Public Works 
-460.13750 	WNZC283 	RM		E.M. Ops. 1 	Emergency Management Operations 1 	FMN 	Multi-Tac 
-460.18750 	WNZC283 	RM		E.M. Ops. 2 	Emergency Management Operations 2 	FMN 	Multi-Tac 
-460.28750 	WNZC283 	RM		E.M. Ops. 3 	Emergency Management Operations 3 	FMN 	Multi-Tac 
-451.23750 	WQML680 	RM		BOE Ops. 1 	Board of Education Operations 1 	FMN 	Schools 
-451.43750 	WQML680 	RM		BOE Ops. 2 	Board of Education Operations 2 	FMN 	Schools 
-462.31250 	WQML680 	RM		BOE Ops. 3 	Board of Education Operations 3 	FMN 	Schools 
-464.76250 	WQML680 	RM		BOE Ops. 4 	Board of Education Operations 4 	FMN 	Schools 
-464.15000 	WPUB912 	RM		BOE Ops. 1 	Board of Education Operations 1 	FMN 	Schools 
-461.10000 	WQDS302 	RM		BOE Ops. 2 	Board of Education Operations 2 	FMN 	Schools 
-463.66250 	WQNH324 	RM	CC 1TG 2001SL 1	CACHS Ops 	Camden Academy Charter High School - Operations 	DMR 	Schools 
-464.55000 	WQEY588 	M		Camden-PCS 	Camden Promise Charter School 	FMN 	Schools 
-151.71500 	WQAU508 	BM	464 DPL	CC-Maint 	Maintenance Operations (All Campuses) 	FMN 	Schools 
-452.85000 	WQAU508 	RM	412 DPL	CC-Admin 	Administrative Operations (All Campuses) 	FMN 	Schools 
-461.12500 	WQAU508 	RM	225 DPL	CC-Cam Sec 	Security Operations (Camden Campuses) 	FMN 	Security 
-461.32500 	WQAU508 	RM	445 DPL	CC-Blkwd Sec 	Security Operations (Blackwood Campus) 	FMN 	Security 
-462.25000 	WQDN572 	RM	032 DPL	CC-Chill Sec 	Security Operations (Cherry Hill Campus) 	FMN 	Security 
-451.93750 	WPXT480 	RM		BOE Ops. 	Board of Education Operations 	FMN 	Schools 
-452.70000 	WPZQ708 	RM		BOE Ops. 	Board of Education Operations 	FMN 	Schools 
-464.43750 	WPOB548 	RM		HHHS Ops. 1 	Operations 1 (Primary) 	FMN 	Schools 
-451.41250 	WPOB548 	BM		HHHS Ops. 2 	Operations 2 	FMN 	Schools 
-452.08750 	WPOB548 	BM		HHHS Ops. 3 	Operations 3 	FMN 	Schools 
-456.31250 	WPOB548 	BM		HHHS Ops. 4 	Operations 4 	FMN 	Schools 
-456.46250 	WPOB548 	BM		HHHS Ops. 5 	Operations 5 	FMN 	Schools 
-467.90000 	WPOB548 	BM		HHHS Ops. 6 	Operations 6 (Low Power) 	FMN 	Schools 
-461.40000 	WQCB591 	RM		BOE Ops. 1 	Operations 1 	FMN 	Schools 
-464.25000 	WPLI408 	BM		BOE Ops. 2 	Operations 2 	FMN 	Schools 
-453.42500 	WPYG966 	RM	CC 11TG 8001SL 1	Pennskn Bus 	Schools Bus Operations 	DMR 	Schools 
-458.88750 	WPYG966 	M	192.8 PL	Pennskn BOE 	Unidentified Operations 	FMN 	Schools 
-462.77500 	 	M	192.8 PL	Pennskn BOE 	Unidentified Operations 	FMN 	Schools 
-464.32500 	 	M	192.8 PL	Pennskn BOE 	Unidentified Operations 	FMN 	Schools 
-469.26250 	 	M	192.8 PL	Pennskn BOE 	Unidentified Operations 	FMN 	Schools 
-452.66250 	WQKC463 	RM		BOE Ops. 1 	Operations 1 (Primary) 	FMN 	Schools 
-456.18750 	WQKC463 	BM		BOE Ops. 2 	Operations 2 	FMN 	Schools 
-456.28750 	WQKC463 	BM		BOE Ops. 3 	Operations 3 	FMN 	Schools 
-456.31250 	WQKC463 	BM		BOE Ops. 4 	Operations 4 	FMN 	Schools 
-456.38750 	WQKC463 	BM		BOE Ops. 5 	Operations 5 	FMN 	Schools 
-456.48750 	WQKC463 	BM		BOE Ops. 6 	Operations 6 	FMN 	Schools 
-456.73750 	WQKC463 	BM		BOE Ops. 7 	Operations 7 	FMN 	Schools 
-457.98750 	WQKC463 	BM		BOE Ops. 8 	Operations 8 	FMN 	Schools 
-467.46250 	WQKC463 	BM		BOE Ops. 9 	Operations 9 	FMN 	Schools 
-467.51250 	WQKC463 	BM		BOE Ops. 10 	Operations 10 	FMN 	Schools 
-155.82000 	KRT674 	RM	110.9 PL	RU Police 	Campus Police Dispatch/Operations 	FMN 	Law Dispatch 
-462.17500 	WQNR372 	RM		RU Maintnce 	Maintenance Operations 	FMN 	Schools 
-464.10000 	WQPT496 	RM	172 DPL	SfordBOE Ops 	Operations 	FMN 	Schools 
-461.20000 	WNMH881 	RM	412 DPL	BOE Buses 	BOE Buses 	FMN 	Schools 
-452.25000 	WQCI891 	BM		BOE Ops. 1 	Operations 1 	FMN 	Schools 
-452.62500 	WQIC891 	BM		BOE Ops. 2 	Operations 2 	FMN 	Schools 
-452.67500 	WQCI891 	BM		BOE Ops. 3 	Operations 3 	FMN 	Schools 
-407.93750 	 	RM	CC 1TG 1SL 1	SJDC Ch 1 	 South Jersey Distribution Center Ch. 1 	DMR 	Federal 
-407.93750 	 	RM	CC 1TG 2SL 2	SJDC Ch 2 	 South Jersey Distribution Center Ch. 2 	DMR 	Federal 
-408.10000 	 	RM	CC 1TG 3SL 1	SJDC Ch 3 	South Jersey Distribution Center Ch. 3 	DMR 	Federal 
-Camden County Public Safety	 Project 25 Phase II	 Camden County	Delaware River Port Authority of PA and NJ	 EDACS Networked Standard	 Various	Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone
- Various	FleetCall	 NXDN NEXEDGE 4800	 Various	Homan Communications	 NXDN NEXEDGE 4800	 Various	Homan Communications (Waterford LTR)
- LTR Standard	 Waterford	Interstate Repeater System	 DMR Conventional Networked	 Various	New Jersey Interoperability Communications System (NJICS)	 Project 25 Phase II	 Statewide
-New Jersey State Police	 Motorola Type II SmartZone Omnilink	 Statewide	New Jersey Transit	 TETRA Standard	 Statewide	New Jersey Turnpike Authority	 Project 25 Phase II
- Statewide	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Public Service Electric and Gas Company	 Project 25 Phase II	 Various	Sunshine Communications (Roxborough)
- LTR Standard	 Philadelphia	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various
+769.00625 	   	WQPG339 	M	156.7 PL	CC FG-1 	Fireground 1 (North Region Primary) 	FMN 	Fire-Tac 
+769.01875 	   	WQPG339 	M	156.7 PL	CC FG-2 	Fireground 2 (West Region Primary) 	FMN 	Fire-Tac 
+769.03125 	   	WQPG339 	M	156.7 PL	CC FG-3 	Fireground 3 (East Region Primary) 	FMN 	Fire-Tac 
+769.04375 	   	WQPG339 	M	156.7 PL	CC FG-4 	Fireground 4 (South Region Primary) 	FMN 	Fire-Tac 
+774.93125 	   	WQPG339 	M	156.7 PL	CC FG-5 	Fireground 5 (Secondary) 	FMN 	Fire-Tac 
+774.94375 	   	WQPG339 	M	156.7 PL	CC FG-6 	Fireground 6 (Secondary) 	FMN 	Fire-Tac 
+774.95625 	   	WQPG339 	M	156.7 PL	CC FG-7 	Fireground 7 (Secondary) 	FMN 	Fire-Tac 
+774.96875 	   	WQPG339 	M	156.7 PL	CC FG-8 	Fireground 8 (Secondary) 	FMN 	Fire-Tac 
+857.48750 	812.48750  	WQQI938 	RM	192.8 PL	PATCO Tunnel 	PATCO Tunnel Repeater 	FMN 	Fire-Tac 
+154.43000 	   	KVP480 	BM	192.8 PL	CC FD/EMS 	Fire and EMS Dispatch (Paging) 	FMN 	Fire Dispatch 
+154.26500 	   	KVP480 	BM	CSQ	SJ-Network 	South Jersey Network 	FMN 	Multi-Tac 
+159.37500 	   	KVP480 	BM	179.9 PL	NJ Forestry 	NJ State Forest Fire Ch-6 	FMN 	Fire-Tac 
+155.34000 	   	WQN901 	BM	192.8 PL	CC EMS HEAR 	EMS-to-Hospital (H.E.A.R.) 	FMN 	Hospital 
+155.28000 	   	WQN901 	BM	CSQ	CC EMS JEMS 	Statewide EMS Network (J.E.M.S.) 	FMN 	EMS-Talk 
+155.26500 	   	WPGU872 	BM	192.8 PL	CC EMS Spare 	EMS Backup 	FMN 	EMS-Tac 
+154.05500 	   	KB51388 	M	192.8 PL	CC Fire-PD 	FD-PD County Fire Police  	FMN 	Fire-Tac 
+507.11250 	510.11250  	WIK700 	RM	192.8 PL	Zone 1 	Zone 1 	FMN 	Law Dispatch 
+507.51250 	510.51250  	WIK701 	RM	192.8 PL	Zone 2 	Zone 2 	FMN 	Law Dispatch 
+507.16250 	510.16250  	WIK699 	RM	192.8 PL	Zone 3 	Zone 3 	FMN 	Law Dispatch 
+507.56250 	510.56250  	WIK857 	RM	192.8 PL	Zone 4 	Zone 4 	FMN 	Law Dispatch 
+507.71250 	510.71250  	WII555 	RM	192.8 PL	Zone 5 	Zone 5 	FMN 	Law Dispatch 
+508.01250 	511.01250  	WII555 	RM	192.8 PL	Auxiliary 1 	Car-to-Car (Zone 1, 2, 5) 	FMN 	Law Tac 
+507.91250 	510.91250  	WIK697 	RM	192.8 PL	Auxiliary 3 	Car-to-Car (Zone 3) 	FMN 	Law Tac 
+508.88750 	511.88750  	WIK280 	RM	192.8 PL	Auxiliary 4 	Car-to-Car (Zone 4) 	FMN 	Law Tac 
+508.78750 	511.78750  	WII555 	RM	192.8 PL	Countywide   	Countywide 	FMN 	Law Tac 
+501.13750 	504.13750  	WIE946 	RM	127.3 PL	Prosecutor S 	Prosecutor South 	FMN 	Law Tac 
+507.66250 	510.66250  	WII555 	RM	192.8 PL	Tactical 1 	Tactical Operations 1 	FMN 	Law Tac 
+507.76250 	510.76250  	WQJW310 	RM	192.8 PL	Tactical 2 	Tactical Operations 2 	FMN 	Law Tac 
+507.93750 	510.93750  	WIK698 	RM	127.3 PL	Narcotics 	Narcotics Tactical Operations 	FMN 	Law Tac 
+507.78750 	510.78750  	WII555 	RM	192.8 PL	Zone X 	Countywide 800MHz TRS Link 	FMN 	Law Tac 
+507.21250 	510.71250  	WII555 	RM	114.8 PL	DPS 1 	Department of Public Safety - Fieldcom 1 	FMN 	Law Tac 
+460.42500 	465.42500  	WQEG541 	RM	192.8 PL	DPS 2 	Department of Public Safety - Fieldcom 2 	FMN 	Law Tac 
+460.61250 	465.61250  	WQKF642 	RM	192.8 PL	DPS 3 	Department of Public Safety - Fieldcom 3 	FMN 	Law Tac 
+454.20000 	459.20000  	 	RM	146.2 PL	DPS 4 	Department of Public Safety - Fieldcom 4 	FMN 	Law Tac 
+508.71250 	511.71250  	KNBB284 	RM	192.8 PL	Sheriff 1 	Sheriff Operations 1 	FMN 	Law Tac 
+508.73750 	511.73750  	KNBB284 	RM	192.8 PL	Sheriff 2 	Sheriff Operations 2 	FMN 	Law Tac 
+508.76250 	511.76250  	WIK280 	RM	110.9 PL	Sheriff 3 	Sheriff Operations 3 	FMN 	Law Tac 
+507.83750 	510.83750  	WII555 	RM	91.5 PL	Courthouse 	County Courthouse Security 	FMN 	Security 
+508.86250 	511.86250  	WIK280 	RM	192.8 PL	Jail Ops. 1 	County Jail Operations 1 	FMN 	Corrections 
+508.81250 	511.81250  	WIK280 	RM	192.8 PL	Jail Ops. 2 	County Jail Operations 2 	FMN 	Corrections 
+508.83750 	511.83750  	WIK280 	RM	192.8 PL	Jail Ops. 3 	County Jail Operations 3 	FMN 	Corrections 
+500.31250 	503.31250  	KUZ646 	RM	114.8 PL	DPW 1/2 	Department of Public Works 	FMN 	Public Works 
+500.36250 	503.36250  	KUZ647 	RM	114.8 PL	DPW 3/4 	Department of Public Works 	FMN 	Public Works 
+156.21000 	   	KNAQ902 	BM	192.8 PL	VHF P-1 	Countywide 	FMN 	Law Tac 
+155.37000 	156.03000  	KNAQ902 	BM	192.8 PL	VHF P-2 	North   	FMN 	Law Tac 
+155.56500 	156.15000  	KNAQ902 	RM	192.8 PL	VHF P-3 	South   	FMN 	Law Tac 
+155.02500 	   	KVJ842 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
+155.71500 	   	KNGH287 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
+155.37000 	   	KNGF442 	BM		PD/FD Ops. 	Police/Fire Tactical Operations 	FM 	Law Tac 
+507.46250 	510.46250  	WIL465 	RM		Police Ops. 	Police Tactical Operations 	FM 	Law Tac 
+155.14500 	   	WPNP704 	BM		Public Works 	Public Works Operations 	FMN 	Public Works 
+155.71500 	159.04500  	WPVJ265 	RM		Police Ops. 	Police Tactical Operations 	FM 	Law Tac 
+155.66250 	158.94750  	WPRJ510 	RM		Public Works 	Public Works Operations 	FMN 	Public Works 
+153.98000 	   	KNFZ621 	BM	192.8 PL	Public Works 	Public Works Primary (Fire Secondary) 	FMN 	Public Works 
+456.11250 	   	WPXK800 	M		PW Ops. 	Public Works Operations 	FMN 	Public Works 
+153.77000 	   	WQU334 	BM	192.8 PL	CamCity FD 1 	Fire 1 (Dispatch) 	FMN 	Fire Dispatch 
+153.90500 	   	WQU334 	BM	192.8 PL	CamCity FD 2 	Fire 2 (Fireground) 	FMN 	Fire-Tac 
+500.56250 	503.56250  	WPXP357 	RM	110.9 PL	CDID Sec. 1 	Camden Downtown Improvement District - Security 1 	FMN 	Security 
+507.61250 	510.61250  	WII555 	RM	127.3 PL	CDIC Sec. 2 	Camden Downtown Improvement District - Security 2 	FMN 	Security 
+156.10500 	159.10500  	KJF706 	RM	203.5 PL	CHFP 1 	Fire Police - Primary 	FMN 	Fire-Tac 
+151.62500 	   	 	M	192.8 PL	CHFP 2 	Fire Police - Secondary 	FMN 	Fire-Tac 
+851.95000 	806.95000  	WRCA500 	RM	441 NAC	CH DPW 	Public Works 	P25 	Public Works 
+155.88000 	   	KLK573 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
+151.10000 	   	KLK573 	BM		Public Works 	Public Works Operations 	FM 	Public Works 
+154.04000 	   	KNFD336 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
+155.92500 	   	WNND855 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FMN 	Fire-Tac 
+155.59500 	   	KED859 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
+155.04000 	   	KDD810 	BM	192.8 PL	School Buses 	School Bus Services (Fire Secondary) 	FMN 	Transportation 
+158.17500 	   	KXJ859 	BM		M.U.A. Ops. 	Municipal Utilities Authority Operations 	FM 	Utilities 
+453.58750 	458.58750  	WQRK771 	RM		Public Works 	Public Works Operations 	FMN 	Public Works 
+155.04000 	   	KBN496 	BM		Public Works 	Public Works Operations 	FMN 	Public Works 
+155.43000 	   	KEB467 	BM	127.3 PL	Police Ops. 	Police Tactical Operations 	FMN 	Law Tac 
+153.95500 	   	WQEU879 	BM	192.8 PL	Fire Ops. 1 	Fireground Operations & Training 	FMN 	Fire-Tac 
+158.83500 	   	WQEU879 	BM	192.8 PL	Fire Ops. 2 	Fireground Operations & Training 	FMN 	Fire-Tac 
+155.53500 	   	WQEU605 	BM		Police Ops. 	Police Tactical Operations 	FMN 	Law Tac 
+156.18000 	   	WPNX521 	BM		Public Works 	Public Works Operations 	FM 	Public Works 
+507.41250 	510.41250  	KTR803 	RM	192.8 PL	Police Ops. 	Police Tactical Operations 	FM 	Law Tac 
+154.71000 	   	WQJS562 	BM		Fire Ops. 	Fireground/Tactical Operations 	FMN 	Fire-Tac 
+155.86500 	   	WNMR931 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FMN 	Fire-Tac 
+154.96500 	   	WPJT424 	BM		E.M. Ops. 	Emergency Management Operations 	FM 	Multi-Tac 
+155.37000 	   	WNMR931 	BM		Public Works 	Public Works Operations 	FMN 	Public Works 
+155.95500 	   	WZE747 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
+460.32500 	465.32500  	KTB350 	RM	064 NAC	Police 1 	Police Dispatch   	P25E 	Law Dispatch 
+460.20000 	465.20000  	KTB350 	RM	064 NAC	Police 2 	Police Operations  	P25E 	Law Tac 
+154.20500 	   	WNQF665 	BM	192.8 PL	F-5 Tactical 	Fireground/Tactical Operations 	FM 	Fire-Tac 
+453.32500 	458.32500  	KNFS536 	RM	192.8 PL	Public Works 	Public Works Operations 	FMN 	Public Works 
+45.70000 	   	WPKH281 	BM	546 DPL	Public Works 	Public Works Operations 	FM 	Public Works 
+156.24000 	   	WPKJ474 	BM		Public Works 	Public Works Operations 	FMN 	Public Works 
+508.91250 	511.91250  	WIK314 	RM	114.8 PL	Police Disp. 	Police Dispatch 	FMN 	Law Dispatch 
+508.93750 	511.93750  	WIK314 	RM	114.8 PL	Police Ops. 	Police Secondary Operations 	FMN 	Law Talk 
+155.14500 	   	KDT253 	BM	192.8 PL	Public Works 	Public Works Primary (Fire & EMS Secondary) 	FMN 	Public Works 
+460.13750 	465.13750  	WNZC283 	RM		E.M. Ops. 1 	Emergency Management Operations 1 	FMN 	Multi-Tac 
+460.18750 	465.18750  	WNZC283 	RM		E.M. Ops. 2 	Emergency Management Operations 2 	FMN 	Multi-Tac 
+460.28750 	465.28750  	WNZC283 	RM		E.M. Ops. 3 	Emergency Management Operations 3 	FMN 	Multi-Tac 
+451.23750 	456.23750  	WQML680 	RM		BOE Ops. 1 	Board of Education Operations 1 	FMN 	Schools 
+451.43750 	456.43750  	WQML680 	RM		BOE Ops. 2 	Board of Education Operations 2 	FMN 	Schools 
+462.31250 	467.31250  	WQML680 	RM		BOE Ops. 3 	Board of Education Operations 3 	FMN 	Schools 
+464.76250 	469.76250  	WQML680 	RM		BOE Ops. 4 	Board of Education Operations 4 	FMN 	Schools 
+464.15000 	469.15000  	WPUB912 	RM		BOE Ops. 1 	Board of Education Operations 1 	FMN 	Schools 
+461.10000 	466.10000  	WQDS302 	RM		BOE Ops. 2 	Board of Education Operations 2 	FMN 	Schools 
+463.66250 	468.66250  	WQNH324 	RM	CC 1TG 2001SL 1	CACHS Ops 	Camden Academy Charter High School - Operations 	DMR 	Schools 
+464.55000 	   	WQEY588 	M		Camden-PCS 	Camden Promise Charter School 	FMN 	Schools 
+151.71500 	   	WQAU508 	BM	464 DPL	CC-Maint 	Maintenance Operations (All Campuses) 	FMN 	Schools 
+452.85000 	457.85000  	WQAU508 	RM	412 DPL	CC-Admin 	Administrative Operations (All Campuses) 	FMN 	Schools 
+461.12500 	466.12500  	WQAU508 	RM	225 DPL	CC-Cam Sec 	Security Operations (Camden Campuses) 	FMN 	Security 
+461.32500 	466.32500  	WQAU508 	RM	445 DPL	CC-Blkwd Sec 	Security Operations (Blackwood Campus) 	FMN 	Security 
+462.25000 	467.25000  	WQDN572 	RM	032 DPL	CC-Chill Sec 	Security Operations (Cherry Hill Campus) 	FMN 	Security 
+451.93750 	456.93750  	WPXT480 	RM		BOE Ops. 	Board of Education Operations 	FMN 	Schools 
+452.70000 	457.70000  	WPZQ708 	RM		BOE Ops. 	Board of Education Operations 	FMN 	Schools 
+464.43750 	469.43750  	WPOB548 	RM		HHHS Ops. 1 	Operations 1 (Primary) 	FMN 	Schools 
+451.41250 	   	WPOB548 	BM		HHHS Ops. 2 	Operations 2 	FMN 	Schools 
+452.08750 	   	WPOB548 	BM		HHHS Ops. 3 	Operations 3 	FMN 	Schools 
+456.31250 	   	WPOB548 	BM		HHHS Ops. 4 	Operations 4 	FMN 	Schools 
+456.46250 	   	WPOB548 	BM		HHHS Ops. 5 	Operations 5 	FMN 	Schools 
+467.90000 	   	WPOB548 	BM		HHHS Ops. 6 	Operations 6 (Low Power) 	FMN 	Schools 
+461.40000 	466.40000  	WQCB591 	RM		BOE Ops. 1 	Operations 1 	FMN 	Schools 
+464.25000 	   	WPLI408 	BM		BOE Ops. 2 	Operations 2 	FMN 	Schools 
+453.42500 	458.42500  	WPYG966 	RM	CC 11TG 8001SL 1	Pennskn Bus 	Schools Bus Operations 	DMR 	Schools 
+458.88750 	   	WPYG966 	M	192.8 PL	Pennskn BOE 	Unidentified Operations 	FMN 	Schools 
+462.77500 	   	 	M	192.8 PL	Pennskn BOE 	Unidentified Operations 	FMN 	Schools 
+464.32500 	   	 	M	192.8 PL	Pennskn BOE 	Unidentified Operations 	FMN 	Schools 
+469.26250 	   	 	M	192.8 PL	Pennskn BOE 	Unidentified Operations 	FMN 	Schools 
+452.66250 	457.66250  	WQKC463 	RM		BOE Ops. 1 	Operations 1 (Primary) 	FMN 	Schools 
+456.18750 	   	WQKC463 	BM		BOE Ops. 2 	Operations 2 	FMN 	Schools 
+456.28750 	   	WQKC463 	BM		BOE Ops. 3 	Operations 3 	FMN 	Schools 
+456.31250 	   	WQKC463 	BM		BOE Ops. 4 	Operations 4 	FMN 	Schools 
+456.38750 	   	WQKC463 	BM		BOE Ops. 5 	Operations 5 	FMN 	Schools 
+456.48750 	   	WQKC463 	BM		BOE Ops. 6 	Operations 6 	FMN 	Schools 
+456.73750 	   	WQKC463 	BM		BOE Ops. 7 	Operations 7 	FMN 	Schools 
+457.98750 	   	WQKC463 	BM		BOE Ops. 8 	Operations 8 	FMN 	Schools 
+467.46250 	   	WQKC463 	BM		BOE Ops. 9 	Operations 9 	FMN 	Schools 
+467.51250 	   	WQKC463 	BM		BOE Ops. 10 	Operations 10 	FMN 	Schools 
+155.82000 	153.81500  	KRT674 	RM	110.9 PL	RU Police 	Campus Police Dispatch/Operations 	FMN 	Law Dispatch 
+462.17500 	467.17500  	WQNR372 	RM		RU Maintnce 	Maintenance Operations 	FMN 	Schools 
+464.10000 	469.10000  	WQPT496 	RM	172 DPL	SfordBOE Ops 	Operations 	FMN 	Schools 
+461.20000 	466.20000  	WNMH881 	RM	412 DPL	BOE Buses 	BOE Buses 	FMN 	Schools 
+452.25000 	   	WQCI891 	BM		BOE Ops. 1 	Operations 1 	FMN 	Schools 
+452.62500 	   	WQIC891 	BM		BOE Ops. 2 	Operations 2 	FMN 	Schools 
+452.67500 	   	WQCI891 	BM		BOE Ops. 3 	Operations 3 	FMN 	Schools 
+407.93750 	416.93750  	 	RM	CC 1TG 1SL 1	SJDC Ch 1 	 South Jersey Distribution Center Ch. 1 	DMR 	Federal 
+407.93750 	416.93750  	 	RM	CC 1TG 2SL 2	SJDC Ch 2 	 South Jersey Distribution Center Ch. 2 	DMR 	Federal 
+408.10000 	417.10000  	 	RM	CC 1TG 3SL 1	SJDC Ch 3 	South Jersey Distribution Center Ch. 3 	DMR 	Federal 
+Camden County Public Safety	 Project 25 Phase II	 Camden County	Delaware River Port Authority of PA and NJ	 EDACS Networked Standard	 Various	Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone	 Various
+FleetCall	 NXDN NEXEDGE 4800	 Various	Homan Communications	 NXDN NEXEDGE 4800	 Various	Homan Communications (Waterford LTR)	 LTR Standard	 Waterford
+Interstate Repeater System	 DMR Conventional Networked	 Various	New Jersey Transit	 TETRA Standard	 Statewide	New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide
+OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Public Service Electric and Gas Company	 Project 25 Phase II	 Various	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various
+TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various	

@@ -1,22 +1,22 @@
-155.70000 	WPZR532 	RM	114.8 PL	Young Co SO 1 	Sheriff Dispatch (Multicast) - Graham 	FMN 	Law Dispatch 
-155.49000 	WPZR532 	RM	131.8 PL	Young Co SO 2 	Sheriff Dispatch (Multicast) - Loving 	FMN 	Law Dispatch 
-154.72500 	WPZR532 	RM	162.2 PL	Young Co SO 3 	Sheriff Dispatch (Multicast) - Woodson 	FMN 	Law Dispatch 
-155.52750 	WQHU404 	RM	503 DPL	Young Co Jail 	Sheriff Jail Operations 	FMN 	Law Tac 
-156.00000 	WQJK867 	RM	114.8 PL	Young Co Fire 1 	Fire Ch. 1 Primary 	FMN 	Fire Dispatch 
-154.31750 	WQHT434 	RM	632 DPL	Nortex Region 3 	Nortex Regional Repeater System (Region 3 Graham) 	FMN 	Emergency Ops 
-463.17500 	WNBX301 	RM		Young Co EMS 	EMS Med-8 	FM 	EMS-Tac 
-462.95000 	WNBX301 	M		Young Co EMS 	EMS Med-9 	FM 	EMS-Tac 
-155.95500 	WNQW217 	RM	127.3 PL	Young Co Svcs 	Services, Roads 	FMN 	Public Works 
-37.90000 	KKZ483 	BM		Young Co EOC 	Emergency Management 	FM 	Emergency Ops 
-155.62500 	WQCL768 	RM	173.8 PL	Graham PD 1 	Police Primary (Sheriff Ch. 2) 	FMN 	Law Dispatch 
-154.40000 	KNIF484 	RM	127.3 PL	Graham Fire1 	Fire Ch. 1 Primary 	FMN 	Fire Dispatch 
-154.17500 	KNIF484 	BM		Graham Fire2 	Fire Ch. 2 Tactical 	FMN 	Fire-Tac 
-155.08500 	WPNY436 	BM		Graham PW 1 	Services Ch. 1 	FMN 	Public Works 
-155.88000 	WPNY436 	BM		Graham PW 2 	Services Ch. 2 	FMN 	Public Works 
-155.67000 	KYF350 	RM	564 NAC	Olney Police 	Police Dispatch 	P25 	Law Dispatch 
-155.67000 	KYF350 	RM	127.3 PL	Olney Police 	Police Dispatch 	FMN 	Law Dispatch 
-155.92500 	WNMT278 	RM	127.3 PL	Olney FD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-154.23500 	WPTG332 	RM	127.3 PL	Olney Fire 	Fire Operations 	FMN 	Fire-Tac 
-155.77500 	WNWU451 	RM	127.3 PL	Olney Water 	Water Utilites 	FMN 	Public Works 
-Mobile Phone of Texas (Graham)	 LTR Standard	 Graham	Mobile Phone of Texas (Olney)	 LTR Standard	 Olney	Oncor Energy	 EDACS Narrowband Networked
- Various	Self Radio (Graham)	 LTR Standard	 Graham	
+155.70000 	154.65000  	WPZR532 	RM	114.8 PL	Young Co SO 1 	Sheriff Dispatch (Multicast) - Graham 	FMN 	Law Dispatch 
+155.49000 	158.85000  	WPZR532 	RM	131.8 PL	Young Co SO 2 	Sheriff Dispatch (Multicast) - Loving 	FMN 	Law Dispatch 
+154.72500 	158.91750  	WPZR532 	RM	162.2 PL	Young Co SO 3 	Sheriff Dispatch (Multicast) - Woodson 	FMN 	Law Dispatch 
+155.52750 	158.75250  	WQHU404 	RM	503 DPL	Young Co Jail 	Sheriff Jail Operations 	FMN 	Law Tac 
+156.00000 	154.20500  	WQJK867 	RM	114.8 PL	Young Co Fire 1 	Fire Ch. 1 Primary 	FMN 	Fire Dispatch 
+154.31750 	159.02250  	WQHT434 	RM	632 DPL	Nortex Region 3 	Nortex Regional Repeater System (Region 3 Graham) 	FMN 	Emergency Ops 
+463.17500 	468.17500  	WNBX301 	RM		Young Co EMS 	EMS Med-8 	FM 	EMS-Tac 
+462.95000 	   	WNBX301 	M		Young Co EMS 	EMS Med-9 	FM 	EMS-Tac 
+155.95500 	153.74000  	WNQW217 	RM	127.3 PL	Young Co Svcs 	Services, Roads 	FMN 	Public Works 
+37.90000 	   	KKZ483 	BM		Young Co EOC 	Emergency Management 	FM 	Emergency Ops 
+155.62500 	153.86000  	WQCL768 	RM	173.8 PL	Graham PD 1 	Police Primary (Sheriff Ch. 2) 	FMN 	Law Dispatch 
+154.40000 	150.80500  	KNIF484 	RM	127.3 PL	Graham Fire1 	Fire Ch. 1 Primary 	FMN 	Fire Dispatch 
+154.17500 	   	KNIF484 	BM		Graham Fire2 	Fire Ch. 2 Tactical 	FMN 	Fire-Tac 
+155.08500 	   	WPNY436 	BM		Graham PW 1 	Services Ch. 1 	FMN 	Public Works 
+155.88000 	   	WPNY436 	BM		Graham PW 2 	Services Ch. 2 	FMN 	Public Works 
+155.67000 	155.01000  	KYF350 	RM	564 NAC	Olney Police 	Police Dispatch 	P25 	Law Dispatch 
+155.67000 	155.01000  	KYF350 	RM	127.3 PL	Olney Police 	Police Dispatch 	FMN 	Law Dispatch 
+155.92500 	153.93500  	WNMT278 	RM	127.3 PL	Olney FD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.23500 	158.94000  	WPTG332 	RM	127.3 PL	Olney Fire 	Fire Operations 	FMN 	Fire-Tac 
+155.77500 	153.80000  	WNWU451 	RM	127.3 PL	Olney Water 	Water Utilites 	FMN 	Public Works 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Mobile Phone of Texas (Graham)	 LTR Standard	 Graham	Mobile Phone of Texas (Olney)	 LTR Standard	 Olney
+Oncor Energy	 EDACS Narrowband Networked	 Various	Self Radio (Graham)	 LTR Standard	 Graham	

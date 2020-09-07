@@ -1,29 +1,29 @@
-155.01000 	KUE529 	RM	100.0 PL	Limeston SO1 	Limestone Co. Sheriff Primary 	FMN 	Law Dispatch 
-154.75500 	KUE529 	RM	431 DPL	Limeston SO2 	Limestone Co. Sheriff Secondary 	FMN 	Law Tac 
-155.93250 	WQDS670 	RM	74.4 PL	Limeston Rep 	Limestone Co. Sheriff Repeater 	FMN 	Law Tac 
-155.70000 	WPYW556 	M	100.0 PL	Lime Co Jail 	Limestone Co. Jail Operations 	FMN 	Law Tac 
-154.95000 	KUE529 	M		Lime SO CID 	Limestone Co. Sheriff CID 	FMN 	Law Tac 
-158.94000 	WQGH828 	BM	100.0 PL	Lime SO CID 	Limestone Co. Sheriff CID/Tactical 	FMN 	Law Tac 
-154.16000 	WPHM569 	RM	100.0 PL	Limestn FD1 	Limestone Co. Fire/EMS Primary (includes Mexia EMS) 	FMN 	Fire Dispatch 
-151.23500 	WPHM569 	RM		Limestn F TA 	Limestone Co. Fire Talkaround 	FMN 	Fire-Talk 
-155.40000 	 	M		Lime MC EMS 	Limestone Medical Center EMS 	FMN 	EMS-Tac 
-155.34000 	 	M	127.3 PL	Texas Med 1 	EMS Interoperability, used to land Air Ambulances 	FMN 	Interop 
-151.71500 	WPXB867 	BM	110.9 PL	Lime Co DC 	Limestone Co. Detention Center (Civigenics - Private Prison) 	FMN 	Security 
-151.13000 	KNNU857 	RM	107.2 PL	Lime Co Road 	Limestone Co. Road and Bridge 	FMN 	Other 
-154.31000 	WNAZ653 	BM		Groesbeck FD 	Groesbeck VFD Tactical 	FMN 	Fire-Tac 
-45.52000 	WNMU697 	BM		Groesbeck UT 	Groesbeck City Utlities 	FM 	Utilities 
-153.69500 	WNXW799 	BM		Groesbeck PW 	Groesbeck Public Works 	FMN 	Public Works 
-155.54250 	WQDX709 	RM	624 DPL	Mexia PD 1 	Mexia Police Dispatch 	FMN 	Law Dispatch 
-155.74500 	WQU482 	BM	100.0 PL	Mexia PD 2 	Mexia Police Secondary 	FMN 	Law Tac 
-155.54250 	WQDX709 	M	CSQ	Mexia PD Tlk 	Mexia Police Talk 	FMN 	Law Talk 
-151.49750 	WQX205 	RM	703 DPL	Mexia Fire 1 	Mexia Fire Dispatch 	FMN 	Fire Dispatch 
-154.20500 	WQX205 	BM		Mexia Fire 2 	Mexia Fire Tactical 	FMN 	Fire-Tac 
-154.28000 	WQX205 	BM	127.3 PL	Texas Fire 1 	Mexia Fire Statewide Mutual Aid 	FMN 	Interop 
-453.15000 	WPXA348 	RM	243 DPL	Mexia PubWks 	Mexia Public Works Department 	FMN 	Public Works 
-155.89500 	KKV686 	RM	85.4 PL	Mexia StSchl 	Mexia State School Operations 	FMN 	Security 
-453.57500 	WQGL586 	RM	546 DPL	Grsbeck ISD1 	Groesbeck ISD Transportation (Buses) 	FMN 	Schools 
-463.40000 	WNUE530 	RM	82.5 PL	Grsbeck ISD2 	Groesbeck ISDAdmin Operations 	FMN 	Schools 
-463.87500 	WPYP247 	RM		MexiaISD PD 	School District Police Primary 	FMN 	Law Dispatch 
-453.66250 	WPUQ380 	RM		MexiaISD Sec 	School District Schools Security 	FMN 	Schools 
-460.62500 	WPRJ372 	RM	265 DPL	MexiaISD Bus 	Mexia ISD Transportation (Buses) 	FMN 	Schools 
-Nalcom (Mexia)	 LTR Standard	 Mexia	Oncor Energy	 EDACS Narrowband Networked	 Various	
+155.01000 	155.91000  	KUE529 	RM	100.0 PL	Limeston SO1 	Limestone Co. Sheriff Primary 	FMN 	Law Dispatch 
+154.75500 	155.84250  	KUE529 	RM	431 DPL	Limeston SO2 	Limestone Co. Sheriff Secondary 	FMN 	Law Tac 
+155.93250 	153.74750  	WQDS670 	RM	74.4 PL	Limeston Rep 	Limestone Co. Sheriff Repeater 	FMN 	Law Tac 
+155.70000 	   	WPYW556 	M	100.0 PL	Lime Co Jail 	Limestone Co. Jail Operations 	FMN 	Law Tac 
+154.95000 	   	KUE529 	M		Lime SO CID 	Limestone Co. Sheriff CID 	FMN 	Law Tac 
+158.94000 	   	WQGH828 	BM	100.0 PL	Lime SO CID 	Limestone Co. Sheriff CID/Tactical 	FMN 	Law Tac 
+154.16000 	159.00000  	WPHM569 	RM	100.0 PL	Limestn FD1 	Limestone Co. Fire/EMS Primary (includes Mexia EMS) 	FMN 	Fire Dispatch 
+151.23500 	156.04500  	WPHM569 	RM		Limestn F TA 	Limestone Co. Fire Talkaround 	FMN 	Fire-Talk 
+155.40000 	   	 	M		Lime MC EMS 	Limestone Medical Center EMS 	FMN 	EMS-Tac 
+155.34000 	   	 	M	127.3 PL	Texas Med 1 	EMS Interoperability, used to land Air Ambulances 	FMN 	Interop 
+151.71500 	   	WPXB867 	BM	110.9 PL	Lime Co DC 	Limestone Co. Detention Center (Civigenics - Private Prison) 	FMN 	Security 
+151.13000 	159.16500  	KNNU857 	RM	107.2 PL	Lime Co Road 	Limestone Co. Road and Bridge 	FMN 	Other 
+154.31000 	   	WNAZ653 	BM		Groesbeck FD 	Groesbeck VFD Tactical 	FMN 	Fire-Tac 
+45.52000 	   	WNMU697 	BM		Groesbeck UT 	Groesbeck City Utlities 	FM 	Utilities 
+153.69500 	   	WNXW799 	BM		Groesbeck PW 	Groesbeck Public Works 	FMN 	Public Works 
+155.54250 	158.94570  	WQDX709 	RM	624 DPL	Mexia PD 1 	Mexia Police Dispatch 	FMN 	Law Dispatch 
+155.74500 	   	WQU482 	BM	100.0 PL	Mexia PD 2 	Mexia Police Secondary 	FMN 	Law Tac 
+155.54250 	   	WQDX709 	M	CSQ	Mexia PD Tlk 	Mexia Police Talk 	FMN 	Law Talk 
+151.49750 	155.31750  	WQX205 	RM	703 DPL	Mexia Fire 1 	Mexia Fire Dispatch 	FMN 	Fire Dispatch 
+154.20500 	   	WQX205 	BM		Mexia Fire 2 	Mexia Fire Tactical 	FMN 	Fire-Tac 
+154.28000 	   	WQX205 	BM	127.3 PL	Texas Fire 1 	Mexia Fire Statewide Mutual Aid 	FMN 	Interop 
+453.15000 	458.15000  	WPXA348 	RM	243 DPL	Mexia PubWks 	Mexia Public Works Department 	FMN 	Public Works 
+155.89500 	155.05500  	KKV686 	RM	85.4 PL	Mexia StSchl 	Mexia State School Operations 	FMN 	Security 
+453.57500 	458.57500  	WQGL586 	RM	546 DPL	Grsbeck ISD1 	Groesbeck ISD Transportation (Buses) 	FMN 	Schools 
+463.40000 	468.40000  	WNUE530 	RM	82.5 PL	Grsbeck ISD2 	Groesbeck ISDAdmin Operations 	FMN 	Schools 
+463.87500 	468.87500  	WPYP247 	RM		MexiaISD PD 	School District Police Primary 	FMN 	Law Dispatch 
+453.66250 	458.66250  	WPUQ380 	RM		MexiaISD Sec 	School District Schools Security 	FMN 	Schools 
+460.62500 	465.62500  	WPRJ372 	RM	265 DPL	MexiaISD Bus 	Mexia ISD Transportation (Buses) 	FMN 	Schools 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Nalcom (Mexia)	 LTR Standard	 Mexia	Oncor Energy	 EDACS Narrowband Networked	 Various

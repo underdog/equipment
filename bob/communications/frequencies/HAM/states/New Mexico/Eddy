@@ -1,27 +1,27 @@
-155.96250 	WQIT446 	RM	179.9 PL	EC SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-159.15750 	WQIT446 	RM	179.9 PL	EC SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.66250 	WQIT446 	BM	179.9 PL	Eddy Co CW1 	County Wide 1 	FMN 	Law Tac 
-155.84250 	WQIT446 	RM	179.9 PL	Eddy Co CW1 	County Wide 1 	FMN 	Law Tac 
-156.21750 	WQIT446 	RM	179.9 PL	Eddy Co CW2 	County Wide 2 	FMN 	Law Tac 
-159.30750 	WQIT446 	BM	179.9 PL	Eddy Co CW2 	County Wide 2 (Queen Fire Station) 	FMN 	Law Tac 
-156.15750 	WQQD419  	RM	788 NAC	Emergency Ops 	Emergency Ops 	P25 	Emergency Ops 
-154.11500 	WPNT394 	RM	141 NAC	Eddy Co Jail 	County Detention Center 	P25 	Corrections 
-155.79750 	WQIT446 	BM	179.9 PL	Eddy Co Fire 	County Fire 	FMN 	Fire Dispatch 
-158.73000 	WQIT446 	RM	179.9 PL	Eddy Co Fire 	County Fire  	FM 	Fire Dispatch 
-155.03250 	WQIY807 	RM	241.8 PL	ECFD Tac 1 	County Fire Tac 1 	FMN 	Fire-Tac 
-154.08500 	KVE20 	RM	127.3 PL	Artesia PD 	Police Dispatch 	FM 	Law Dispatch 
-158.82750 	WQGH945 	RM		Artesia PD 	Police 	FM 	Law Dispatch 
-154.17500 	KDB383 	RM		ArtesiaFDPag 	Fire Pager 	FM 	Fire Dispatch 
-150.80500 	KDB383 	RM		ArtesiaFDTac 	Fire 	FM 	Fire-Tac 
-154.28000 	KDB383 	BM		Artesia Fire 	Fire 	FM 	Fire Dispatch 
-155.40000 	WQHE513 	RM		Artesia Fire 	Fire 	FM 	Fire Dispatch 
-151.23500 	KRC744 	RM	141.3 PL	CPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-151.25000 	KRC744 	M		Special Ops 	Special Ops 	FMN 	Law Tac 
-155.91000 	KRC744 	RM	141.3 PL	CSA Rptr 	CSA Repeater 	FMN 	Law Dispatch 
-155.86500 	KRC744 	RM	162.2 PL	CFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.92500 	KRC744 	RM	203.5 PL	CFD Operations 	Fire Operations 	FMN 	Multi-Dispatch 
-158.77500 	KRC744 	M	162.2 PL	CFD Tac Ops 	Fire Tac 	FMN 	Fire-Tac 
-155.14500 	 	BM	162.2 PL	CFD EMS Ops 	EMS Operations 	FMN 	EMS Dispatch 
-Kenwood Systems (Artesia)	 LTR Standard	 Artesia	Mosaic Potash	 DMR Motorola Capacity Plus Single Site (TRBO)	 Carlsbad	New Mexico DTRS	 Project 25 Phase II
- Various	Oxy	 DMR Tier 3	 Various	Professional Communications (NEXEDGE)	 NXDN NEXEDGE 4800	 Various	Southwestern Wireless Connect Plus
- DMR Motorola Connect Plus (TRBO)	 Various	Xcel Energy	 Project 25 Phase I	 Various	
+155.96250 	   	WQIT446 	RM	179.9 PL	EC SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+159.15750 	   	WQIT446 	RM	179.9 PL	EC SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.66250 	   	WQIT446 	BM	179.9 PL	Eddy Co CW1 	County Wide 1 	FMN 	Law Tac 
+155.84250 	   	WQIT446 	RM	179.9 PL	Eddy Co CW1 	County Wide 1 	FMN 	Law Tac 
+156.21750 	   	WQIT446 	RM	179.9 PL	Eddy Co CW2 	County Wide 2 	FMN 	Law Tac 
+159.30750 	   	WQIT446 	BM	179.9 PL	Eddy Co CW2 	County Wide 2 (Queen Fire Station) 	FMN 	Law Tac 
+156.15750 	   	WQQD419  	RM	788 NAC	Emergency Ops 	Emergency Ops 	P25 	Emergency Ops 
+154.11500 	158.97000  	WPNT394 	RM	141 NAC	Eddy Co Jail 	County Detention Center 	P25 	Corrections 
+155.79750 	   	WQIT446 	BM	179.9 PL	Eddy Co Fire 	County Fire 	FMN 	Fire Dispatch 
+158.73000 	   	WQIT446 	RM	179.9 PL	Eddy Co Fire 	County Fire  	FM 	Fire Dispatch 
+155.03250 	   	WQIY807 	RM	241.8 PL	ECFD Tac 1 	County Fire Tac 1 	FMN 	Fire-Tac 
+154.08500 	   	KVE20 	RM	127.3 PL	Artesia PD 	Police Dispatch 	FM 	Law Dispatch 
+158.82750 	154.71750  	WQGH945 	RM		Artesia PD 	Police 	FM 	Law Dispatch 
+154.17500 	   	KDB383 	RM		ArtesiaFDPag 	Fire Pager 	FM 	Fire Dispatch 
+150.80500 	   	KDB383 	RM		ArtesiaFDTac 	Fire 	FM 	Fire-Tac 
+154.28000 	   	KDB383 	BM		Artesia Fire 	Fire 	FM 	Fire Dispatch 
+155.40000 	153.98750  	WQHE513 	RM		Artesia Fire 	Fire 	FM 	Fire Dispatch 
+151.23500 	   	KRC744 	RM	141.3 PL	CPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+151.25000 	   	KRC744 	M		Special Ops 	Special Ops 	FMN 	Law Tac 
+155.91000 	   	KRC744 	RM	141.3 PL	CSA Rptr 	CSA Repeater 	FMN 	Law Dispatch 
+155.86500 	   	KRC744 	RM	162.2 PL	CFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.92500 	   	KRC744 	RM	203.5 PL	CFD Operations 	Fire Operations 	FMN 	Multi-Dispatch 
+158.77500 	   	KRC744 	M	162.2 PL	CFD Tac Ops 	Fire Tac 	FMN 	Fire-Tac 
+155.14500 	   	 	BM	162.2 PL	CFD EMS Ops 	EMS Operations 	FMN 	EMS Dispatch 
+Kenwood Systems (Artesia)	 LTR Standard	 Artesia	Mosaic Potash	 DMR Motorola Capacity Plus Single Site (TRBO)	 Carlsbad	New Mexico DTRS	 Project 25 Phase II	 Various
+Oxy	 DMR Tier 3	 Various	Professional Communications (NEXEDGE)	 NXDN NEXEDGE 4800	 Various	Southwestern Wireless Connect Plus	 DMR Motorola Connect Plus (TRBO)	 Various
+Xcel Energy	 Project 25 Phase I	 Various	

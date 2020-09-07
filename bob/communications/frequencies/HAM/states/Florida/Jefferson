@@ -1,11 +1,11 @@
-453.67500 	KYK400 	RM	606 DPL	Fire North 	Fire North 	FM 	Fire Dispatch 
-453.67500 	KYK400 	RM	606 DPL	Fire South 	Fire South [125 DPL in] 	FM 	Fire Dispatch 
-462.97500 	KYK400 	RM	156.7 PL	EMS North 	EMS North [103.5 PL in] 	FM 	EMS Dispatch 
-462.97500 	KYK400 	RM	156.7 PL	EMS South 	EMS South 	FM 	EMS Dispatch 
-460.50000 	WNLP226 	RM	162.2 PL	Jefferson SO 	Sheriff's Office 	FM 	Law Dispatch 
-156.22500 	KLL654 	RM	251 DPL	Public Works 	Public Works 	FM 	Public Works 
-151.86500 	WPKH306 	BM	411 DPL	School Buses 	School Buses 	FM 	Transportation 
-460.32500 	KRA419 	RM	151.4 PL	MPD Dispatch 	Police Dispatch 	FM 	Law Dispatch 
-155.83500 	KRA419 	BM	151.4 PL	MPD Tac 	Police Tac 	FM 	Law Tac 
-Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Mobile Communications America (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I
- Statewide	
+453.67500 	458.67500  	KYK400 	RM	606 DPL	Fire North 	Fire North 	FM 	Fire Dispatch 
+453.67500 	458.67500  	KYK400 	RM	606 DPL	Fire South 	Fire South [125 DPL in] 	FM 	Fire Dispatch 
+462.97500 	467.97500  	KYK400 	RM	156.7 PL	EMS North 	EMS North [103.5 PL in] 	FM 	EMS Dispatch 
+462.97500 	467.97500  	KYK400 	RM	156.7 PL	EMS South 	EMS South 	FM 	EMS Dispatch 
+460.50000 	465.50000  	WNLP226 	RM	162.2 PL	Jefferson SO 	Sheriff's Office 	FM 	Law Dispatch 
+156.22500 	150.99500  	KLL654 	RM	251 DPL	Public Works 	Public Works 	FM 	Public Works 
+151.86500 	153.38000  	WPKH306 	BM	411 DPL	School Buses 	School Buses 	FM 	Transportation 
+460.32500 	465.32500  	KRA419 	RM	151.4 PL	MPD Dispatch 	Police Dispatch 	FM 	Law Dispatch 
+155.83500 	   	KRA419 	BM	151.4 PL	MPD Tac 	Police Tac 	FM 	Law Tac 
+Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Mobile Communications America (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide
+Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	

@@ -1,33 +1,33 @@
-155.13000 	WNPZ823 	RM	100.0 PL	RCSO DISP 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.65000 	KGN498  	M	151.4 PL	RCSO TAC 	Sheriff Tactical 	FMN 	Law Tac 
-153.88250 	WQFW515 	BM		RCSO Jail 1 	Sheriff Jail 	FMN 	Corrections 
-154.00250 	WQFW515 	BM		RCSO Jail 2 	Sheriff Jail 	FMN 	Corrections 
-453.11250 	WPLT633 	M	192.8 PL	RCSO FX 	Sheriff (FX) 	FMN 	Law Tac 
-453.98750 	WPLS447 	RM		RCSO FX 	Sheriff (FX) 	FMN 	Law Tac 
-460.48750 	KGN498 	M	516 DPL	RCSO FX 	Sheriff (FX) 	FMN 	Law Tac 
-154.43000 	KNID898 	RM	146.2 PL	RCFD DISP 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.17500 	WPDB681 	BM		RCRS Disp 	Rescue Squad 	FMN 	EMS Dispatch 
-155.20500 	WPLU907 	BM	100.0 PL	EMS-RH 	EMS/Raybun Hospital 	FMN 	EMS Dispatch 
-453.06250 	WPLU907 	RM		RCEMS FX 	EMS (FX) 	FMN 	EMS-Talk 
-155.66250 	WQIU981 	RM		RC911 	Rabun E-911 	FMN 	Emergency Ops 
-150.89000 	KNNS933 	RM	100.0 PL	RC PW 	Public Works 	FMN 	Public Works 
-45.20000 	KUX474 	BM		RC 911 	911 Center 	FMN 	Emergency Ops 
-45.60000 	KUX474 	BM		RC 911 	911 Center 	FMN 	Emergency Ops 
-151.06250 	WQEV787 	RM		RCFD 	Fire 	FMN 	Fire Dispatch 
-155.24250 	WQXH458 	RM		RCRS 	Rescue Squad 	FMN 	EMS Dispatch 
-154.15250 	KCT343 	RM		CPD Black Rock 	Police (Black Rock Mtn) 	FMN 	Law Dispatch 
-158.79750 	WPLT632 	RM	127.3 PL	CPD Dispatch 	Police Dispatch (Screamer Mtn) 	FMN 	Law Dispatch 
-159.88500 	WPIX434 	BM	127.3 PL	CPD TAC 	Police TAC 	FMN 	Law Dispatch 
-155.80500 	KCT343 	BM		CPD Alt 	Police Department 	FMN 	Law Talk 
-458.11250 	WPLT632 	BM		CPD Pac/RT 	Police Pac/RT 	FMN 	Law Talk 
-458.98750 	WPLT632 	BM		CPD Pac/RT 	Police Pac/RT 	FMN 	Law Talk 
-465.48750 	WPLT632 	BM		CPD Pac/RT 	Police Pac/RT 	FMN 	Law Talk 
-151.06250 	WQEV787 	RM	118.8 PL	CFD TAC 8 	Fire Tac 8 	FMN 	Fire-Tac 
-154.45625 	WQUP737 	BM		C H2O 	Clayton Water Department 	Telm 	Utilities 
-154.47875 	WPYN313 	BM		C H2O 	Clayton Water Department 	Telm 	Utilities 
-158.82750 	WQNC965 	RM	173.8 PL	D/MCPD Disp 	Dillard & Mountain City Police Dispatch 	FMN 	Law Dispatch 
-154.65000 	WPLP542 	BM		DPD TAC 	Police TAC 	FMN 	Law Tac 
-150.99500 	WQMP254 	RM	77.0 PL	SVPD Disp 	Police Dispatch 	FMN 	Law Dispatch 
-154.65000 	WNJV852 	BM		SVPD MRD 	Police MRD 	FMN 	Law Tac 
-155.68500 	WNJV852 	M		SVPD TAC 	Police TAC 	FMN 	Law Tac 
-154.96500 	WQEG803 	BM		SVPW Disp 	Public Works 	FMN 	Public Works 
+155.13000 	156.03000  	WNPZ823 	RM	100.0 PL	RCSO DISP 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.65000 	153.89750  	KGN498  	M	151.4 PL	RCSO TAC 	Sheriff Tactical 	FMN 	Law Tac 
+153.88250 	   	WQFW515 	BM		RCSO Jail 1 	Sheriff Jail 	FMN 	Corrections 
+154.00250 	   	WQFW515 	BM		RCSO Jail 2 	Sheriff Jail 	FMN 	Corrections 
+453.11250 	   	WPLT633 	M	192.8 PL	RCSO FX 	Sheriff (FX) 	FMN 	Law Tac 
+453.98750 	   	WPLS447 	RM		RCSO FX 	Sheriff (FX) 	FMN 	Law Tac 
+460.48750 	   	KGN498 	M	516 DPL	RCSO FX 	Sheriff (FX) 	FMN 	Law Tac 
+154.43000 	153.77000  	KNID898 	RM	146.2 PL	RCFD DISP 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.17500 	   	WPDB681 	BM		RCRS Disp 	Rescue Squad 	FMN 	EMS Dispatch 
+155.20500 	   	WPLU907 	BM	100.0 PL	EMS-RH 	EMS/Raybun Hospital 	FMN 	EMS Dispatch 
+453.06250 	458.06250  	WPLU907 	RM		RCEMS FX 	EMS (FX) 	FMN 	EMS-Talk 
+155.66250 	158.75250  	WQIU981 	RM		RC911 	Rabun E-911 	FMN 	Emergency Ops 
+150.89000 	156.13500  	KNNS933 	RM	100.0 PL	RC PW 	Public Works 	FMN 	Public Works 
+45.20000 	   	KUX474 	BM		RC 911 	911 Center 	FMN 	Emergency Ops 
+45.60000 	   	KUX474 	BM		RC 911 	911 Center 	FMN 	Emergency Ops 
+151.06250 	159.17250  	WQEV787 	RM		RCFD 	Fire 	FMN 	Fire Dispatch 
+155.24250 	159.14250  	WQXH458 	RM		RCRS 	Rescue Squad 	FMN 	EMS Dispatch 
+154.15250 	151.16000  	KCT343 	RM		CPD Black Rock 	Police (Black Rock Mtn) 	FMN 	Law Dispatch 
+158.79750 	154.83750  	WPLT632 	RM	127.3 PL	CPD Dispatch 	Police Dispatch (Screamer Mtn) 	FMN 	Law Dispatch 
+159.88500 	160.15500  	WPIX434 	BM	127.3 PL	CPD TAC 	Police TAC 	FMN 	Law Dispatch 
+155.80500 	   	KCT343 	BM		CPD Alt 	Police Department 	FMN 	Law Talk 
+458.11250 	   	WPLT632 	BM		CPD Pac/RT 	Police Pac/RT 	FMN 	Law Talk 
+458.98750 	   	WPLT632 	BM		CPD Pac/RT 	Police Pac/RT 	FMN 	Law Talk 
+465.48750 	   	WPLT632 	BM		CPD Pac/RT 	Police Pac/RT 	FMN 	Law Talk 
+151.06250 	159.17250  	WQEV787 	RM	118.8 PL	CFD TAC 8 	Fire Tac 8 	FMN 	Fire-Tac 
+154.45625 	   	WQUP737 	BM		C H2O 	Clayton Water Department 	Telm 	Utilities 
+154.47875 	   	WPYN313 	BM		C H2O 	Clayton Water Department 	Telm 	Utilities 
+158.82750 	153.80000  	WQNC965 	RM	173.8 PL	D/MCPD Disp 	Dillard & Mountain City Police Dispatch 	FMN 	Law Dispatch 
+154.65000 	   	WPLP542 	BM		DPD TAC 	Police TAC 	FMN 	Law Tac 
+150.99500 	153.84500  	WQMP254 	RM	77.0 PL	SVPD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+154.65000 	   	WNJV852 	BM		SVPD MRD 	Police MRD 	FMN 	Law Tac 
+155.68500 	   	WNJV852 	M		SVPD TAC 	Police TAC 	FMN 	Law Tac 
+154.96500 	   	WQEG803 	BM		SVPW Disp 	Public Works 	FMN 	Public Works 

@@ -1,32 +1,32 @@
-155.26500 	KXH223 	BM	146.2 PL	FtBendCo EMS 	Fort Bend County EMS 	FMN 	EMS Dispatch 
-154.22000 	WNXB490 	RM	114.8 PL	Ft.Bend Fire 	Dispatch 	FM 	Fire Dispatch 
-154.23500 	WNJF517 	RM		NE FBC VFD 	North East Fort Bend County VFD 	FM 	Fire-Tac 
-463.95000 	WQKT317 	RM	023 DPL	1stColonySec 	Security 	FMN 	Security 
-488.41250 	WPTQ275 	RM	192.8 PL	FBISD Maint 	Maintenance 	FM 	Schools 
-489.88750 	WIL864 	RM	100.0 PL	FBISDGrounds 	Grounds Crews 	FM 	Schools 
-489.63750 	WPKP798 	RM	146.2 PL	Clements HS1 	Clements High School Ch. 1 (3xx units; called "Ranger 1") 	FM 	Schools 
-489.53750 	WIL912 	M	218.1 PL	Clements HS2 	Clements High School Ch. 2 	FM 	Schools 
-489.53750 	WIL912 	M	146.2 PL	Cmmnwlth ES2 	Commonwealth Elementary School Ch. 1 	FM 	Schools 
-489.53750 	WIL912 	M	131.8 PL	Cmmnwlth ES 	Commonwelth Elementary School Ch. 2 	FM 	Schools 
-490.53750 	WPSQ277 	RM	145 DPL	Dulles HS/MS 	Dulles High School (1xx units) 	FM 	Schools 
-489.53750 	WIL912 	M	250.3 PL	First Colony 	First Colony Middle School Ch. 1 	FM 	Schools 
-489.53750 	WIL912 	M	043 DPL	Fort Sett MS 	Fort Settlement Middle School Ch. 1 	FM 	Schools 
-489.53750 	WIL912 	RM	155 DPL	Garcia MS 1 	Garcia Middle School Ch.1 	FM 	Schools 
-489.53750 	WIL912 	M	179.9 PL	Kempner HS 1 	Kempner High School Ch. 1 	FM 	Schools 
-490.53750 	WIL912 	RM	100.0 PL	Marshall HS 	Marshall High School 	FM 	Schools 
-489.53750 	WIL912 	M	67.0 PL	SetlrsWayES1 	Settler's Way Elementary School Ch. 1 	FM 	Schools 
-490.53750 	WPSQ277 	RM	174 DPL	Travis HS 	Travis High School  	FM 	Schools 
-490.53750 	WPSQ277 	RM	114 DPL	HdgsBndMS 1 	Unidentified High School Ch. 1 (9xx units) 	FM 	Schools 
-489.53750 	WIL912 	M	031 DPL	WalkrStaES 1 	Walker Station Elementary Ch. 1 	FM 	Schools 
-490.53750 	WPSQ277 	M	043 DPL	WalkrStaES 2 	Walker Station Elementary Ch. 2? 	FM 	Schools 
-489.06250 	WPKN869 	RM	118.8 PL	WillowrdgHS1 	Willowridge High School Ch. 1 	FM 	Schools 
-488.83750 	WPZC212 	RM	107.2 PL	LCISD Buses 	Buses 	FM 	Schools 
-451.85000 	WPPZ220 	RM	186.2 PL	SMSLogistics 	Maintenance/Supply/etc. 	FM 	Schools 
-452.20000 	WPPZ221 	RM	173.8 PL	SMSD Buses 	Buses 	FM 	Schools 
-171.52500 	 	RM	79.7 PL	BWEP Ft Bend 	Boll Weevil Eradication Program 	FM 	Public Works 
-170.46250 	 	RM	100.0 PL	CBP Net 201 	Net 201 Stafford 	FMN 	Federal 
-170.46250 	 	RM	301 NAC	CBP D-Net201 	D-Net 201 Stafford "Exodus" 	P25 	Federal 
-165.95000 	 	RM	004 NAC	IRS CI Stfrd 	Criminal Investigation - Stafford (encryption used) 	P25 	Federal 
-Baytown Communications (Katy)	 LTR Standard	 Katy	CenterPoint Energy Houston Electric	 OpenSky 9600 baud	 Houston	Houston Independent School District (Project 25)	 Project 25 Phase II
- Houston	Nalco Exxon Energy Chemicals	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sugar Land	Schlumberger Technology Center	 LTR Standard	 Sugar Land	TeamConnect
- DMR Motorola Connect Plus (TRBO)	 Various	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	Texas Wide Area Radio Network (TxWARN)	 Project 25 Phase II	 Various
+155.26500 	   	KXH223 	BM	146.2 PL	FtBendCo EMS 	Fort Bend County EMS 	FMN 	EMS Dispatch 
+154.22000 	153.95000  	WNXB490 	RM	114.8 PL	Ft.Bend Fire 	Dispatch 	FM 	Fire Dispatch 
+154.23500 	153.77000  	WNJF517 	RM		NE FBC VFD 	North East Fort Bend County VFD 	FM 	Fire-Tac 
+463.95000 	468.95000  	WQKT317 	RM	023 DPL	1stColonySec 	Security 	FMN 	Security 
+488.41250 	491.41250  	WPTQ275 	RM	192.8 PL	FBISD Maint 	Maintenance 	FM 	Schools 
+489.88750 	492.88750  	WIL864 	RM	100.0 PL	FBISDGrounds 	Grounds Crews 	FM 	Schools 
+489.63750 	492.63750  	WPKP798 	RM	146.2 PL	Clements HS1 	Clements High School Ch. 1 (3xx units; called "Ranger 1") 	FM 	Schools 
+489.53750 	   	WIL912 	M	218.1 PL	Clements HS2 	Clements High School Ch. 2 	FM 	Schools 
+489.53750 	   	WIL912 	M	146.2 PL	Cmmnwlth ES2 	Commonwealth Elementary School Ch. 1 	FM 	Schools 
+489.53750 	   	WIL912 	M	131.8 PL	Cmmnwlth ES 	Commonwelth Elementary School Ch. 2 	FM 	Schools 
+490.53750 	493.53750  	WPSQ277 	RM	145 DPL	Dulles HS/MS 	Dulles High School (1xx units) 	FM 	Schools 
+489.53750 	   	WIL912 	M	250.3 PL	First Colony 	First Colony Middle School Ch. 1 	FM 	Schools 
+489.53750 	   	WIL912 	M	043 DPL	Fort Sett MS 	Fort Settlement Middle School Ch. 1 	FM 	Schools 
+489.53750 	492.53750  	WIL912 	RM	155 DPL	Garcia MS 1 	Garcia Middle School Ch.1 	FM 	Schools 
+489.53750 	   	WIL912 	M	179.9 PL	Kempner HS 1 	Kempner High School Ch. 1 	FM 	Schools 
+490.53750 	493.53750  	WIL912 	RM	100.0 PL	Marshall HS 	Marshall High School 	FM 	Schools 
+489.53750 	   	WIL912 	M	67.0 PL	SetlrsWayES1 	Settler's Way Elementary School Ch. 1 	FM 	Schools 
+490.53750 	493.53750  	WPSQ277 	RM	174 DPL	Travis HS 	Travis High School  	FM 	Schools 
+490.53750 	493.53750  	WPSQ277 	RM	114 DPL	HdgsBndMS 1 	Unidentified High School Ch. 1 (9xx units) 	FM 	Schools 
+489.53750 	   	WIL912 	M	031 DPL	WalkrStaES 1 	Walker Station Elementary Ch. 1 	FM 	Schools 
+490.53750 	   	WPSQ277 	M	043 DPL	WalkrStaES 2 	Walker Station Elementary Ch. 2? 	FM 	Schools 
+489.06250 	492.06250  	WPKN869 	RM	118.8 PL	WillowrdgHS1 	Willowridge High School Ch. 1 	FM 	Schools 
+488.83750 	491.83750  	WPZC212 	RM	107.2 PL	LCISD Buses 	Buses 	FM 	Schools 
+451.85000 	456.85000  	WPPZ220 	RM	186.2 PL	SMSLogistics 	Maintenance/Supply/etc. 	FM 	Schools 
+452.20000 	457.20000  	WPPZ221 	RM	173.8 PL	SMSD Buses 	Buses 	FM 	Schools 
+171.52500 	   	 	RM	79.7 PL	BWEP Ft Bend 	Boll Weevil Eradication Program 	FM 	Public Works 
+170.46250 	166.48750  	 	RM	100.0 PL	CBP Net 201 	Net 201 Stafford 	FMN 	Federal 
+170.46250 	166.48750  	 	RM	301 NAC	CBP D-Net201 	D-Net 201 Stafford "Exodus" 	P25 	Federal 
+165.95000 	167.00000  	 	RM	004 NAC	IRS CI Stfrd 	Criminal Investigation - Stafford (encryption used) 	P25 	Federal 
+Baytown Communications (Katy)	 LTR Standard	 Katy	BrandMeister Texas	 DMR Conventional Networked	 Various	CenterPoint Energy Houston Electric	 OpenSky 9600 baud	 Houston
+Houston Independent School District (Project 25)	 Project 25 Phase II	 Houston	Nalco Exxon Energy Chemicals	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sugar Land	Schlumberger Technology Center	 LTR Standard	 Sugar Land
+TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	

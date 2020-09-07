@@ -1,16 +1,15 @@
-155.40000 	 	BM	156.7 PL	EMS-Riversde 	EMS to Riverside Hospital 	FM 	Hospital 
-464.42500 	 	BM	206.5 PL	HntngtnMdlSc 	Huntington Middle School - Security/Administration 	FM 	Security 
-463.21250 	WQBF717 	M		1 	Grounds/Operations 	FM 	Other 
-468.21250 	WQBF717 	M		2 	Grounds/Operations 	FM 	Other 
-453.27500 	 	RM	156.7 PL	HRSD 1 	Hampton Roads Sanitation District 	FM 	Other 
-451.10000 	KBI293 	R	173.8 PL	1 	Business Channel 	FM 	Public Works 
-451.25000 	KBI293 	R	173.8 PL	2 	Operations Channel 	FM 	Public Works 
-451.10000 	KBI293 	S	173.8 PL	3 	Talkaround 	FM 	Public Works 
-451.25000 	KBI293 	S	173.8 PL	4 	Talkaround 	FM 	Public Works 
-148.87500 	 	RM	151.4 PL	Maintenance 	Maintenance 	FM 	Other 
-Canon (Newport News)	 LTR Standard	 Newport News	Commercial Radio Services	 Motorola Type II Smartnet	 Newport News	Huntington-Ingalls Newport News Shipbuilding  (NXDN)	 NXDN NEXEDGE 9600
- Newport News	Huntington-Ingalls Newport News Shipbuilding (LTR)	 LTR Standard	 Newport News	Joint Base Langley-Eustis	 Project 25 Phase I	 Various	Mobile Communications America (Newport News Capacity Plus)
- DMR Motorola Capacity Plus Single Site (TRBO)	 Newport News	Mobile Communications America (Newport News LTR)	 LTR Standard	 Newport News	Newport News	 Project 25 Phase II	 Newport News
-Nextel (Newport News)	 Motorola Type II	 Newport News	Overlay Regional InterOperability Network (ORION)	 Project 25 Phase II	 Various	Riverside Regional Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)
- Newport News	Virginia International Terminals	 Motorola Type II	 Various	Virginia International Terminals	 DMR Conventional Networked	 Various	Virginia International Terminals (Connect Plus)
- DMR Motorola Connect Plus (TRBO)	 Various	Virginia International Terminals (Newport News and Portsmouth Marine Terminals)	 Motorola Type II Smartnet	 Newport News	
+155.40000 	   	 	BM	156.7 PL	EMS-Riversde 	EMS to Riverside Hospital 	FM 	Hospital 
+464.42500 	   	 	BM	206.5 PL	HntngtnMdlSc 	Huntington Middle School - Security/Administration 	FM 	Security 
+463.21250 	   	WQBF717 	M		1 	Grounds/Operations 	FM 	Other 
+468.21250 	   	WQBF717 	M		2 	Grounds/Operations 	FM 	Other 
+453.27500 	458.27500  	 	RM	156.7 PL	HRSD 1 	Hampton Roads Sanitation District 	FM 	Other 
+451.10000 	456.10000  	KBI293 	R	173.8 PL	1 	Business Channel 	FM 	Public Works 
+451.25000 	456.25000  	KBI293 	R	173.8 PL	2 	Operations Channel 	FM 	Public Works 
+451.10000 	   	KBI293 	S	173.8 PL	3 	Talkaround 	FM 	Public Works 
+451.25000 	   	KBI293 	S	173.8 PL	4 	Talkaround 	FM 	Public Works 
+148.87500 	   	 	RM	151.4 PL	Maintenance 	Maintenance 	FM 	Other 
+Canon (Newport News)	 LTR Standard	 Newport News	Commercial Radio Services	 Motorola Type II Smartnet	 Newport News	Huntington-Ingalls Newport News Shipbuilding  (NXDN)	 NXDN NEXEDGE 9600	 Newport News
+Huntington-Ingalls Newport News Shipbuilding (LTR)	 LTR Standard	 Newport News	Joint Base Langley-Eustis	 Project 25 Phase I	 Various	Mobile Communications America (Newport News Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newport News
+Mobile Communications America (Newport News LTR)	 LTR Standard	 Newport News	Newport News	 Project 25 Phase II	 Newport News	Nextel (Newport News)	 Motorola Type II	 Newport News
+Overlay Regional InterOperability Network (ORION)	 Project 25 Phase II	 Various	Riverside Regional Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newport News	Virginia International Terminals	 Motorola Type II	 Various
+Virginia International Terminals	 DMR Conventional Networked	 Various	Virginia International Terminals (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	Virginia International Terminals (Newport News and Portsmouth Marine Terminals)	 Motorola Type II Smartnet	 Newport News

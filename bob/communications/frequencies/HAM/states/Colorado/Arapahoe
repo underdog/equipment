@@ -1,32 +1,31 @@
-460.17500 	WNJM750 	RM		Arap SO Car 	Arapahoe/Adams Sheriff Car/Car 	FMN 	Law Tac 
-154.10000 	KAO808 	BM	131.8 PL	Aurora Wx Sirens 	Weather Sirens 	FMN 	Emergency Ops 
-451.82500 	WQQR662 	RM	CC 10TG 1SL *	Regis Jesuit HS 	Regis Jesuit High School 	DMR 	Schools 
-452.00000 	WPXS936 	RM	192.8 PL	Hinkley HS 	Hinkley High School 	FMN 	Schools 
-463.73750 	WPZS936 	RM	167.9 PL	Rangeview HS 	Rangeview High School 	FMN 	Schools 
-464.08750 	KD31703 	RM	107.2 PL	Pickens College 	Pickens Technical College 	FMN 	Schools 
-464.77500 	WPIY364 	RM	167.9 PL	Aurora PS Bus 	School Bus Operations 	FMN 	Schools 
-464.87500 	WPIY374 	RM	167.9 PL	Aurora PS Sec 	School Security 	FMN 	Security 
-464.97500 	WPIY364 	RM	167.9 PL	Aurora PS Fac 	School Facilities 	FMN 	Schools 
-155.28000 	KDR768 	BM	146.2 PL	Columbin Amb 	Columbine Ambulance Service Dispatch 	FM 	EMS Dispatch 
-153.80000 	KAN900 	RM	107.2 PL	Englewood PW 	Public Works 	FM 	Public Works 
-461.12500 	WQSW966 	RM	CC 9TG 1000SL *	Englewood HS 	High School 	DMR 	Schools 
-154.34000 	WNZM430 	RM	151.4 PL	Littleton Fire D 	Fire Dispatch (DTRS 1851) 	FM 	Fire Dispatch 
-857.26250 	WPRJ250 	M	29A NAC	Littleton Fire 3 	Fireground 3 	P25 	Fire-Tac 
-857.26250 	WPRJ250 	M	296 NAC	Littleton Fire 5 	Fireground 5 	P25 	Fire-Tac 
-461.43750 	WPUQ574  	RM	CC 3TG 1100SL 1	NG EMS 1 	Northglenn Ambulance Ch1 	DMR 	EMS Dispatch 
-461.43750 	WPUQ574  	RM	CC 3TG 1100SL 2	NG EMS 2 	Northglenn Ambulance Ch2 	DMR 	EMS-Tac 
-856.26250 	WPRJ250 	M	29A NAC	Metcom FG 4 	Metcom Fire Ground 4 	P25 	Fire-Tac 
-858.26250 	WPRJ250 	M	29A NAC	Metcom FG 6 	Metcom Fire Ground 6 	P25 	Fire-Tac 
-858.26250 	WPRJ250 	M	296 NAC	Metcom FG 8  	Metcom Fire Ground 8 	P25 	Fire-Tac 
-857.26250 	WPRJ250 	M	29A NAC	Metcom FG 10 	Metcom Fire Ground 10 	P25 	Fire-Tac 
-151.30250 	WRAB311  	RM	179.9 PL	SouthMetroFR 	South Metro Fire Rescue 	FMN 	Fire-Talk 
-155.16000 	KVI604 	BM		Arap RP Disp 	Arapahoe Rescue Patrol Dispatch 	FM 	Emergency Ops 
-155.23500 	KVI604 	BM		Arap RP CH-2 	Arapahoe Rescue Patrol 2 	FM 	Emergency Ops 
-155.29500 	KVI604 	BM	131.8 PL	ARAP RP CH-3 	Arapahoe Rescue Patrol 3 	FM 	Emergency Ops 
-American Medical Response (Denver)	 LTR Standard	 Plainview	Aurora	 Project 25 Phase II	 Aurora	Aurora Public Schools	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Aurora	Charter Communications	 DMR Motorola Capacity Plus Single Site (TRBO)	 Greenwood Village	Cherry Creek School District System 1	 DMR Conventional Networked	 	Cherry Creek School District System 2
- DMR Conventional Networked	 	Children's Hospital Colorado	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Aurora	Denver Area Federal / Military	 Motorola Type II SmartZone	 Aurora
-Denver Water	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Denver Metro	Englewood Public Schools	 DMR Motorola Capacity Plus Single Site (TRBO)	 Englewood	JP Morgan Chase	 DMR Motorola Capacity Plus Single Site (TRBO)
- Aurora	Mobile Relay Associates (NEXEDGE)	 NXDN NEXEDGE 4800	 Various	Mountain  Communications and Electronics (DMR Tier III)	 DMR Tier 3	 COS & Denver Metro, I-70 	Mountain Communications and Electronics
- DMR Motorola Connect Plus (TRBO)	 COS & Denver Metro, I-70 	Mullarkey LTR	 LTR Standard	 Denver	Swedish Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Englewood
-Xcel Energy	 Project 25 Phase I	 Various	
+460.17500 	465.17500  	WNJM750 	RM		Arapahoe LE Car 	Arapahoe/Adams Sheriff Car/Car 	FMN 	Law Tac 
+155.16000 	   	WQNX736 	BM		Arapahoe SAR 1 	Arapahoe Rescue Patrol 1 Dispatch 	FMN 	Emergency Ops 
+155.23500 	   	WQNX736 	BM		Arapahoe SAR 2 	Arapahoe Rescue Patrol 2 	FMN 	Emergency Ops 
+155.29500 	   	WQNX736 	BM	131.8 PL	Arapahoe SAR 3 	Arapahoe Rescue Patrol 3 	FMN 	Emergency Ops 
+154.10000 	   	KAO808 	BM	131.8 PL	Aurora Wx Sirens 	Weather Sirens 	FMN 	Emergency Ops 
+451.82500 	456.82500  	WQQR662 	RM	CC 10TG 1SL *	Regis Jesuit HS 	Regis Jesuit High School 	DMR 	Schools 
+452.00000 	457.00000  	WPXS936 	RM	192.8 PL	Hinkley HS 	Hinkley High School 	FMN 	Schools 
+463.73750 	468.73750  	WPZS936 	RM	167.9 PL	Rangeview HS 	Rangeview High School 	FMN 	Schools 
+464.08750 	469.08750  	KD31703 	RM	107.2 PL	Pickens College 	Pickens Technical College 	FMN 	Schools 
+464.77500 	469.77500  	WPIY364 	RM	167.9 PL	Aurora PS Bus 	School Bus Operations 	FMN 	Schools 
+464.87500 	469.87500  	WPIY374 	RM	167.9 PL	Aurora PS Sec 	School Security 	FMN 	Security 
+464.97500 	469.97500  	WPIY364 	RM	167.9 PL	Aurora PS Fac 	School Facilities 	FMN 	Schools 
+155.28000 	   	KDR768 	BM	146.2 PL	Columbin Amb 	Columbine Ambulance Service Dispatch 	FM 	EMS Dispatch 
+153.80000 	   	KAN900 	RM	107.2 PL	Englewood PW 	Public Works 	FM 	Public Works 
+461.12500 	466.12500  	WQSW966 	RM	CC 9TG 1000SL *	Englewood HS 	High School 	DMR 	Schools 
+154.34000 	153.90500  	WNZM430 	RM	151.4 PL	Littleton Fire D 	Fire Dispatch (DTRS 1851) 	FM 	Fire Dispatch 
+857.26250 	   	WPRJ250 	M	29A NAC	Littleton Fire 3 	Fireground 3 	P25 	Fire-Tac 
+857.26250 	   	WPRJ250 	M	296 NAC	Littleton Fire 5 	Fireground 5 	P25 	Fire-Tac 
+461.43750 	466.43750  	WPUQ574  	RM	CC 3TG 1100SL 1	NG EMS 1 	Northglenn Ambulance Ch1 	DMR 	EMS Dispatch 
+461.43750 	466.43750  	WPUQ574  	RM	CC 3TG 1100SL 2	NG EMS 2 	Northglenn Ambulance Ch2 	DMR 	EMS-Tac 
+856.26250 	   	WPRJ250 	M	29A NAC	Metcom FG 4 	Metcom Fire Ground 4 	P25 	Fire-Tac 
+858.26250 	   	WPRJ250 	M	29A NAC	Metcom FG 6 	Metcom Fire Ground 6 	P25 	Fire-Tac 
+858.26250 	   	WPRJ250 	M	296 NAC	Metcom FG 8  	Metcom Fire Ground 8 	P25 	Fire-Tac 
+857.26250 	   	WPRJ250 	M	29A NAC	Metcom FG 10 	Metcom Fire Ground 10 	P25 	Fire-Tac 
+151.30250 	156.12750  	WRAB311  	RM	179.9 PL	SouthMetroFR 	South Metro Fire Rescue 	FMN 	Fire-Talk 
+American Medical Response (Denver)	 LTR Standard	 Plainview	Aurora	 Project 25 Phase II	 Aurora	Aurora Public Schools	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Aurora
+Charter Communications	 DMR Motorola Capacity Plus Single Site (TRBO)	 Greenwood Village	Cherry Creek School District System 1	 DMR Conventional Networked	 	Cherry Creek School District System 2	 DMR Conventional Networked	 
+Children's Hospital Colorado	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Aurora	Denver Area Federal / Military	 Motorola Type II SmartZone	 Aurora	Denver Water	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Denver Metro
+Englewood Public Schools	 DMR Motorola Capacity Plus Single Site (TRBO)	 Englewood	JP Morgan Chase	 DMR Motorola Capacity Plus Single Site (TRBO)	 Aurora	Mobile Relay Associates (NEXEDGE)	 NXDN NEXEDGE 4800	 Various
+Mountain  Communications and Electronics (DMR Tier III)	 DMR Tier 3	 North Central CO	Mountain Communications and Electronics	 DMR Motorola Connect Plus (TRBO)	 COS & Denver Metro, I-70 	Mullarkey LTR	 LTR Standard	 Denver
+Swedish Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Englewood	Xcel Energy	 Project 25 Phase I	 Various	

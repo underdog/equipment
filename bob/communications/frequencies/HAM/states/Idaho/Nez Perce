@@ -1,27 +1,27 @@
-460.45000 	KVT630 	RM		NP SO Dsp 	Sheriff - Dispatch 	FMN 	Law Dispatch 
-465.20000 	KVT630 	M		NP SO Car 	Sheriff - Car-to-Car 	FMN 	Law Talk 
-460.06250 	WNZL215 	M		NPSO Courts 	Sheriff - Court Security 	FMN 	Law Tac 
-155.59500 	KVT630 	RM	156.7 PL	NP SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.06250 	WQDF539 	RM		NP Fire Dsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
-151.08500 	KCR260 	RM		NP Hwy Dept 	Highway Dept. 	FMN 	Public Works 
-460.12500 	KVT600 	RM	94.8 PL	Lew PD Dsp 	Police - Dispatch 	FMN 	Law Dispatch 
-155.41500 	KVT600 	BM		Clrk PD Dsp 	Police - Clarkston PD Dispatch 	FMN 	Law Dispatch 
-453.50000 	KVT600 	RM		Lew PD Ops 	Police - 	FMN 	Law Talk 
-453.62500 	KVT600 	RM		Lew PD F-3 	Police IT System 	Telm 	Data 
-460.07500 	KVT600 	RM		PD Ops 	Police - 	FMN 	Law Talk 
-151.05500 	WQJJ257 	RM	043 DPL	Lew PD Dispatch 	Police Dispatch 	FMN 	Law Talk 
-154.16750 	WQJJ257 	RM		Lew Law 	Public Safety 	FMN 	Law Talk 
-154.34750 	WQJJ257 	RM		Lew Law 	Public Safety 	FMN 	Law Talk 
-158.73000 	WQJJ257 	RM		Lew Law 	Public Safety 	FMN 	Law Talk 
-158.76000 	WNYF359 	RM		LDisast Svcs 	Disaster Services 	FMN 	Emergency Ops 
-154.19000 	KOB767 	RM	67.0 PL	Lew Fire Dsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
-154.22000 	WNBX444 	RM		Lew Fire Tac 	Fire - Tactical 	FMN 	Fire-Tac 
-154.81500 	WPBK684 	RM		Lew Pub Wks 	DPW 	FMN 	Public Works 
-158.91000 	WPFG302 	RM		Lew Parks 	Parks Dept.  	FMN 	Public Works 
-155.91000 	WQDN353 	RM		BigCanFirDsp 	Fire Dispatch 	FMN 	Fire Dispatch 
-464.30000 	KNIK425 	RM		VTA Dispatch 	Dispatch 	FMN 	Transportation 
-159.64500 	WPWI464 	BM		NezP Info A 	Tribal Info Systems 	FMN 	Public Works 
-159.93000 	WPWI464 	BM		NezP Info B 	Tribal Info Systems 	FMN 	Public Works 
-160.02000 	WPWI464 	BM		NezP Info C 	Tribal Info Systems 	FMN 	Public Works 
-152.28500 	WQOI303 	RM		LCSC Ops 	Operations 	FMN 	Schools 
-Clark Communications, Inc.	 LTR Standard	 Lewiston	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	
+460.45000 	465.45000  	KVT630 	RM		NP SO Dsp 	Sheriff - Dispatch 	FMN 	Law Dispatch 
+465.20000 	   	KVT630 	M		NP SO Car 	Sheriff - Car-to-Car 	FMN 	Law Talk 
+460.06250 	   	WNZL215 	M		NPSO Courts 	Sheriff - Court Security 	FMN 	Law Tac 
+155.59500 	159.04500  	KVT630 	RM	156.7 PL	NP SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.06250 	159.15000  	WQDF539 	RM		NP Fire Dsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
+151.08500 	159.06000  	KCR260 	RM		NP Hwy Dept 	Highway Dept. 	FMN 	Public Works 
+460.12500 	465.12500  	KVT600 	RM	94.8 PL	Lew PD Dsp 	Police - Dispatch 	FMN 	Law Dispatch 
+155.41500 	   	KVT600 	BM		Clrk PD Dsp 	Police - Clarkston PD Dispatch 	FMN 	Law Dispatch 
+453.50000 	458.50000  	KVT600 	RM		Lew PD Ops 	Police - 	FMN 	Law Talk 
+453.62500 	458.62500  	KVT600 	RM		Lew PD F-3 	Police IT System 	Telm 	Data 
+460.07500 	465.07500  	KVT600 	RM		PD Ops 	Police - 	FMN 	Law Talk 
+151.05500 	   	WQJJ257 	RM	043 DPL	Lew PD Dispatch 	Police Dispatch 	FMN 	Law Talk 
+154.16750 	   	WQJJ257 	RM		Lew Law 	Public Safety 	FMN 	Law Talk 
+154.34750 	   	WQJJ257 	RM		Lew Law 	Public Safety 	FMN 	Law Talk 
+158.73000 	   	WQJJ257 	RM		Lew Law 	Public Safety 	FMN 	Law Talk 
+158.76000 	155.05500  	WNYF359 	RM		LDisast Svcs 	Disaster Services 	FMN 	Emergency Ops 
+154.19000 	155.76000  	KOB767 	RM	67.0 PL	Lew Fire Dsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.22000 	153.89000  	WNBX444 	RM		Lew Fire Tac 	Fire - Tactical 	FMN 	Fire-Tac 
+154.81500 	158.88000  	WPBK684 	RM		Lew Pub Wks 	DPW 	FMN 	Public Works 
+158.91000 	155.53500  	WPFG302 	RM		Lew Parks 	Parks Dept.  	FMN 	Public Works 
+155.91000 	153.93500  	WQDN353 	RM		BigCanFirDsp 	Fire Dispatch 	FMN 	Fire Dispatch 
+464.30000 	469.30000  	KNIK425 	RM		VTA Dispatch 	Dispatch 	FMN 	Transportation 
+159.64500 	   	WPWI464 	BM		NezP Info A 	Tribal Info Systems 	FMN 	Public Works 
+159.93000 	   	WPWI464 	BM		NezP Info B 	Tribal Info Systems 	FMN 	Public Works 
+160.02000 	   	WPWI464 	BM		NezP Info C 	Tribal Info Systems 	FMN 	Public Works 
+152.28500 	157.54500  	WQOI303 	RM		LCSC Ops 	Operations 	FMN 	Schools 
+Clark Communications, Inc.	 LTR Standard	 Lewiston	Idaho Cooperative Agencies Wireless Interoperable Network (ICAWIN)	 Project 25 Phase I	 Statewide	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various

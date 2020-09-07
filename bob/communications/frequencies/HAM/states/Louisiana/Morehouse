@@ -1,16 +1,15 @@
-155.41500 	WPDM651 	RM	156.7 PL	MPDC/FIRE 	Jail Transport - VHF Backup / Primary VFDs 	FMN 	Multi-Dispatch 
-154.86000 	 	M		MP FIRE FG 	Tactical/Fireground 	FMN 	Fire-Tac 
-155.44500 	WPDM651 	RM		MPSO HF 	Sheriff Backup to the LWIN TRS 	FMN 	Law Dispatch 
-151.48250 	WNKN311 	RM	162.2 PL	MP HIGHWAY DEPT 	Parish Highway Department 	FMN 	Public Works 
-155.32500 	WPKC654 	RM		AMR EMS 	American Medical Response EMS 	FMN 	Emergency Ops 
-151.07000 	KNNS548 	RM	162.2 PL	MedLife EMS  	MedLife EMS Dispatch (Linked to LWIN) 	FMN 	EMS Dispatch 
-155.23500 	KWE636 	BM		Morehouse 	Morehouse General Hospital 	FMN 	Hospital 
-154.19000 	KKS210 	RM		Bastrop Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.28000 	KKS210 	M		Bastrop FD 	Fire 	FMN 	Fire-Talk 
-155.53500 	KOB784 	RM	162.2 PL	PD/OPS BU 	Police/ City Oprations Backup to the LWIN TRS 	FMN 	Multi-Dispatch 
-154.87500 	WNGV827 	RM		Marshals 	Marshals 	FMN 	Law Dispatch 
-159.20250 	WQRU429 	RM	165 DPL	Collinston VFD 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.14500 	WPDH943 	RM		OR VFD Disp 	Oak Ridge VFD Dispatch 	FMN 	Fire Dispatch 
-155.11500 	WNRX399 	RM	074 DPL	M R VFD 	Mer Rouge VFD 	FMN 	Fire Dispatch 
-Entergy 	 Project 25 Phase II	 Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	Shreveport Communications (Bastrop)	 LTR Standard
- Bastrop	
+155.41500 	155.91000  	WPDM651 	RM	156.7 PL	MPDC/FIRE 	Jail Transport - VHF Backup / Primary VFDs 	FMN 	Multi-Dispatch 
+154.86000 	   	 	M		MP FIRE FG 	Tactical/Fireground 	FMN 	Fire-Tac 
+155.44500 	159.46500  	WPDM651 	RM		MPSO HF 	Sheriff Backup to the LWIN TRS 	FMN 	Law Dispatch 
+151.48250 	159.27000  	WNKN311 	RM	162.2 PL	MP HIGHWAY DEPT 	Parish Highway Department 	FMN 	Public Works 
+155.32500 	150.77500  	WPKC654 	RM		AMR EMS 	American Medical Response EMS 	FMN 	Emergency Ops 
+151.07000 	159.01500  	KNNS548 	RM	162.2 PL	MedLife EMS  	MedLife EMS Dispatch (Linked to LWIN) 	FMN 	EMS Dispatch 
+155.23500 	   	KWE636 	BM		Morehouse 	Morehouse General Hospital 	FMN 	Hospital 
+154.19000 	153.89000  	KKS210 	RM		Bastrop Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.28000 	   	KKS210 	M		Bastrop FD 	Fire 	FMN 	Fire-Talk 
+155.53500 	156.15000  	KOB784 	RM	162.2 PL	PD/OPS BU 	Police/ City Oprations Backup to the LWIN TRS 	FMN 	Multi-Dispatch 
+154.87500 	158.76000  	WNGV827 	RM		Marshals 	Marshals 	FMN 	Law Dispatch 
+159.20250 	154.44500  	WQRU429 	RM	165 DPL	Collinston VFD 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.14500 	   	WPDH943 	RM		OR VFD Disp 	Oak Ridge VFD Dispatch 	FMN 	Fire Dispatch 
+155.11500 	153.90500  	WNRX399 	RM	074 DPL	M R VFD 	Mer Rouge VFD 	FMN 	Fire Dispatch 
+Entergy 	 Project 25 Phase II	 Various	Shreveport Communications (Bastrop)	 LTR Standard	 Bastrop	

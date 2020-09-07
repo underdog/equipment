@@ -1,101 +1,100 @@
-851.83750 	 	M	293 NAC	DCFD 015 	015 Fire/EMS Direct 2 (also 08 VRS20) 	P25 	EMS-Talk 
-851.86250 	 	M	293 NAC	DCFD 016 	016 Fire/EMS Direct 1 (also 04 VRS10) 	P25 	EMS-Talk 
-159.15000 	KLG615 		653 NAC	DC I-O 1 	DC Interop 1 	P25 	Interop 
-168.87500 	 		653 NAC	DC I-O 2 	DC Interop 2 	P25 	Interop 
-161.38500 	KSL841 	RM	CSQ	MetroPD Disp 	Police Ch. 1/2 Dispatch 	FM 	Law Dispatch 
-160.26000 	KSL841 	BM	CSQ	Metrorail 1 	Metrorail Ch. 1 Ops-1 (Operations Control Net - Red Line) 	FM 	Transportation 
-160.38000 	KSL841 	BM	CSQ	Metrorail 2 	Metrorail Ch. 2 Ops-2 (Operations Control Net - Blue/Orange Lines) 	FM 	Transportation 
-160.62000 	KSL841 	BM	CSQ	Metrorail 3 	Metrorail Ch. 3 Ops-3 (Operations Control Net - Blue/Yellow/Green Lines) 	FM 	Transportation 
-161.02500 	KSL841 	BM		Metrorail 4 	Metrorail Ch. 4 Maintenance/Paging 	FM 	Transportation 
-161.23500 	 	BM		Metrorail 5 	Metrorail Ch. 5 Yards 	FM 	Transportation 
-160.60500 	 	BM		Metrorail 6 	Metrorail Ch. 6 Yards 	FM 	Transportation 
-161.41500 	KCA285 	BM	CSQ	Metrorail 7 	Metrorail Ch. 7 Ops-7 Start-Up (Yard Control Net) 	FM 	Transportation 
-173.52500 	 	RM	167.9 PL	Cap PD Trav2 	Capitol Police Travel Ch. 2 	FM 	Federal 
-173.87500 	 	RM	94.8 PL	Cap PD Trav3 	Capitol Police Travel Ch. 3 (portable repeater) 	FM 	Federal 
-167.88750 	 	B	CSQ	HouseRepPage 	House Republican Pager 	FM 	Data 
-168.31250 	 	B	CSQ	HouseDemPage 	House Democratic Pager 	FM 	Data 
-407.78750 	 	RM	364 DPL	Cap MotPool 	Motor Pool 	FM 	Federal 
-406.42500 	 	RM	12C NAC	Dept Agr HQ 	Headquarters 	P25 	Federal 
-168.35000 	 	M	100 NAC	HHSSecDetail 	Secretary's Protective Detail 	P25 	Federal 
-136.37500 	 	BM	CSQ	CBP Aircraft 	Customs and Border Protection Aircraft 	AM 	Federal 
-166.46250 	 	RM	001 NAC	DHS Common 	Common 	P25E 	Federal 
-173.65000 	 	RM	293 NAC	DOL Sec 	Department of Labor - Security 	P25 	Federal 
-407.60000 	 	RM	0F0 NAC	StateDpt Sec 	Security 	P25e 	Federal 
-407.86250 	 	RM	0F0 NAC	StDptHQSec 	Headquarters Security (DC/Maryland Wide-Area Net) 	P25 	Federal 
-408.60000 	 	RM	0F0 NAC	StateDpt Sec 	Security 	P25e 	Federal 
-409.03750 	 	RM	0F0 NAC	StateDpt Unk 	Unknown 	P25e 	Federal 
-409.71250 	 	RM	0F0 NAC	StDptShuttle 	Shuttle 	P25e 	Federal 
-166.32500 	 	RM	546 NAC	DOI HQ Sec 	Headquarters Security 	P25 	Federal 
-163.35000 	 	RM	146.2 PL	Treasury Mnt 	Maintenance 	FM 	Federal 
-171.36250 	 	RM	293 NAC	DOT HQ Sec 	Headquarters Security 	P25 	Federal 
-418.75000 	 	RM	156 NAC	DEA 418.75 	Operations 	P25E 	Federal 
-418.95000 	 	RM	156 NAC	DEA 418.95 	Operations 	P25 	Federal 
-136.27500 	 	BM	CSQ	FBI Aircraft 	Aircraft 	AM 	Federal 
-163.10000 	 		167 NAC	FBI 163.1 	FBI 	P25E 	Federal 
-164.55000 	 	RM	167 NAC	FBI 164.55 	FBI 	P25E 	Federal 
-168.92500 	 	RM	167 NAC	FBI 168.925 	FBI 	P25E 	Federal 
-408.20000 	 	RM	201 NAC	FPS 408.2 	Federal Protective Service 	P25E 	Federal 
-410.80000 	 	RM	201 NAC	FPS 410.8 	Federal Protective Service 	P25E 	Federal 
-417.20000 	 	RM	201 NAC	FPS DOL 1 	Department of Labor (Ch. 1) 	P25 	Federal 
-416.02500 	 	RM	202 NAC	FPS DOL 2 	Department of Labor (Ch. 2) 	P25 	Federal 
-407.81250 	 	RM	CSQ	GAO Sec 	Security 	FM 	Federal 
-409.51250 	 	RM	073 DPL	GovtPrOffSec 	Security 	FM 	Federal 
-408.12500 	 	RM	136.5 PL	Lib Cong PD 	Police 	FM 	Federal 
-417.88750 	 	RM	295 NAC	Mint HQ Sec 	Mint - Headquarters Security 	P25 	Federal 
-163.37500 	 	RM	210.7 PL	NGA Mnt 	Maintenance 	FM 	Federal 
-165.41250 	 	RM	210.7 PL	NGA Mnt 	Maintenance 	FM 	Federal 
-406.55000 	 	RM	210.7 PL	NGA Sec 	Security 	FM 	Federal 
-172.47500 	 	RM	4C5 NAC	NPS Cent (R) 	National Capital Parks - Central 	P25 	Federal 
-172.75000 	 	M	4C5 NAC	NPS Cent (S) 	National Capital Parks - Central 	P25 	Federal 
-170.51250 	 	RM	4C5 NAC	NPS Cent Med 	National Capital Parks - Central (Medical) 	P25 	Federal 
-168.42500 	 	RM	293 NAC	NPS East 	National Capital Parks - East 	P25 	Federal 
-169.77500 	 	RM	4C5 NAC	NPS GW Pkwy 	George Washington Parkway 	P25 	Federal 
-418.57500 	 	RM	103.5 PL	OSHA EmrgNet 	Occupational Safety and Health Administration - Emergency Net 	FM 	Federal 
-410.70000 	 	RM	103.5 PL	OPM Sec 	Security 	FMN 	Security 
-418.07500 	 	RM	114.8 PL	OPM Mnt 	Maintenance 	FMN 	Federal 
-171.77500 	 	RM	CF9 NAC	USPP Dispatch 	Dispatch 	P25E 	Federal 
-169.78750 	 	RM	CF9 NAC	USPP Admin 	Admin 	P25E 	Federal 
-169.70000 	 	RM	CF9 NAC	USPP Spec Event 	Special Event 	P25E 	Federal 
-166.85000 	 	M	CF9 NAC	USPP Talkaround 	Talkaround 	P25E 	Federal 
-406.33750 	 	RM	482 NAC	PInsp406.337 	Postal Inspectors 	P25E 	Federal 
-407.13750 	 	RM	482 NAC	PInsp407.137 	Postal Inspectors 	P25E 	Federal 
-407.72500 	 	RM	482 NAC	PInsp407.725 	Postal Inspectors 	P25E 	Federal 
-407.77500 	 	RM	482 NAC	PInsp407.775 	Postal Inspectors 	P25E 	Federal 
-414.75000 	 	RM	003 NAC	PInsp 414.75 	Postal Inspectors 	P25E 	Federal 
-165.78750 	 		001 NAC	SS Baker 	Baker 	P25E 	Federal 
-165.37500 	 		001 NAC	SS Charlie 	Charlie 	P25E 	Federal 
-165.21250 	 		001 NAC	SS Mike 	Mike 	P25E 	Federal 
-164.88750 	 		001 NAC	SS Oscar 	Oscar 	P25E 	Federal 
-164.40000 	 		001 NAC	SS Papa 	Papa 	P25E 	Federal 
-164.65000 	 		001 NAC	SS Tango 	Tango 	P25E 	Federal 
-162.07500 	 	RM	201 NAC	UDSS WH 1 	White House 1 	P25E 	Federal 
-163.31250 	 	RM	202 NAC	UDSS WH 2 	White House 2 	P25E 	Federal 
-162.31250 	 	RM	211 NAC	UDSS Emb 1 	Foreign Missions 1 (Embassies) 	P25E 	Federal 
-164.43750 	 	RM	212 NAC	UDSS Emb 2 	Foreign Missions 2 (Embassies) 	P25E 	Federal 
-166.20000 	 	RM	202 NAC	VP Residence 	Vice President's Residence 	P25E 	Federal 
-464.57500 	WPMU445 	RM	CC 1TG 901SL 1	CUA PD 	Police 	DMR 	Law Dispatch 
-461.88750 	WQCI824 	RM	CC 8TG 1500SL 1	GallU PD 	Police 	DMR 	Law Dispatch 
-464.47500 	WQFK576 	RM	025 DPL	GWU Smith 	Smith Center 	FM 	Schools 
-469.55000 	 	M	754 DPL	GWU Lisner 	Lisner Auditorium 	FM 	Schools 
-452.62500 	WPDI396 	RM	CC 1TG 1SL 1	GU Police 	Police 	DMR 	Law Dispatch 
-461.12500 	WNWD828 	RM	734 DPL	GU Transp 	Transportation Department 	FM 	Schools 
-461.37500 	WQBV402 	RM	606 DPL	GULaw Eng 	Law Center - Engineering 	FM 	Schools 
-463.37500 	WQQE588 	RM	CC 1TG 9SL 2	GU Mnt/Eng 	Maintenance/Engineering 	DMR 	Schools 
-463.72500 	KRE804 	RM	132 DPL	GULaw Sec 	Law Center - Security 	FM 	Security 
-464.15000 	WPVB803 	RM	606 DPL	GU ConfHotel 	Conference Hotel 	FM 	Schools 
-461.70000 	KNER375 	RM	CC 1TG 1SL 1	HowU Police 	Police 	DMR 	Law Dispatch 
-463.27500 	KNER375 	RM	136.5 PL	HowU Alarms 	Alarms 	FM 	Schools 
-American University	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington	Audi Field	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Capital One Arena	 DMR Motorola Capacity Plus Single Site (TRBO)
- Washington	Capitol Complex	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Capitol Police	 Project 25 Phase I	 Washington	Catholic University of America
- DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	DC Correctional Treatment Facility	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	DMR-MARC Amateur Radio Network (MD)	 DMR Conventional Networked	 Various
-DMRVA Amateur Radio Network	 DMR Conventional Networked	 Various	Fannie Mae	 LTR Passport	 Various	FleetTalk (DC-Area Connect Plus)	 DMR Motorola Connect Plus (TRBO)
- Various	FleetTalk (Silver Spring LTR)	 LTR Standard and Passport	 Silver Spring	Four Seasons Hotel Washington	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	George Washington University
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Georgetown University	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington	Hillwood Estate, Museum and Gardens	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington
-Integrated Wireless Network (IWN) National Capital Region	 Project 25 Phase I	 Various	International Monetary Fund	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Jefferson Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)
- Washington	Knollwood	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Marriott Marquis (Washington)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington	National Law Enforcement Museum
- Project 25 Phase II	 Washington	Nationals Park	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Navy Federal Credit Union	 Motorola Type II Smartnet	 Washington
-Omni Shoreham Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	State Plaza Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	TeamConnect	 DMR Motorola Connect Plus (TRBO)
- Various	Unidentified Federal P25 (680)	 Project 25 Phase I	 	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	United States Department of Defense (1B5C8-001)
- Project 25 Phase I	 Various	United States Holocaust Memorial Museum	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Walter E. Washington Convention Center	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington
-Washington DC Area Federal SMR	 NXDN Icom IDAS Type D	 Various	Washington Hospital Center (Capacity Plus)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington	Washington Hospital Center (LTR)	 LTR Standard
- Washington	Washington Metropolitan Area Transit Authority	 Motorola Type II Smartnet	 Various	World Bank	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington	
+851.83750 	   	 	M	293 NAC	DCFD 015 	015 Fire/EMS Direct 2 (also 08 VRS20) 	P25 	EMS-Talk 
+851.86250 	   	 	M	293 NAC	DCFD 016 	016 Fire/EMS Direct 1 (also 04 VRS10) 	P25 	EMS-Talk 
+159.15000 	   	KLG615 		653 NAC	DC I-O 1 	DC Interop 1 	P25 	Interop 
+168.87500 	   	 		653 NAC	DC I-O 2 	DC Interop 2 	P25 	Interop 
+161.38500 	160.72500  	KSL841 	RM	CSQ	MetroPD Disp 	Police Ch. 1/2 Dispatch 	FM 	Law Dispatch 
+160.26000 	   	KSL841 	BM	CSQ	Metrorail 1 	Metrorail Ch. 1 Ops-1 (Operations Control Net - Red Line) 	FM 	Transportation 
+160.38000 	   	KSL841 	BM	CSQ	Metrorail 2 	Metrorail Ch. 2 Ops-2 (Operations Control Net - Blue/Orange Lines) 	FM 	Transportation 
+160.62000 	   	KSL841 	BM	CSQ	Metrorail 3 	Metrorail Ch. 3 Ops-3 (Operations Control Net - Blue/Yellow/Green Lines) 	FM 	Transportation 
+161.02500 	   	KSL841 	BM		Metrorail 4 	Metrorail Ch. 4 Maintenance/Paging 	FM 	Transportation 
+161.23500 	   	 	BM		Metrorail 5 	Metrorail Ch. 5 Yards 	FM 	Transportation 
+160.60500 	   	 	BM		Metrorail 6 	Metrorail Ch. 6 Yards 	FM 	Transportation 
+161.41500 	   	KCA285 	BM	CSQ	Metrorail 7 	Metrorail Ch. 7 Ops-7 Start-Up (Yard Control Net) 	FM 	Transportation 
+173.52500 	166.45000  	 	RM	167.9 PL	Cap PD Trav2 	Capitol Police Travel Ch. 2 	FM 	Federal 
+173.87500 	   	 	RM	94.8 PL	Cap PD Trav3 	Capitol Police Travel Ch. 3 (portable repeater) 	FM 	Federal 
+167.88750 	   	 	B	CSQ	HouseRepPage 	House Republican Pager 	FM 	Data 
+168.31250 	   	 	B	CSQ	HouseDemPage 	House Democratic Pager 	FM 	Data 
+407.78750 	   	 	RM	364 DPL	Cap MotPool 	Motor Pool 	FM 	Federal 
+406.42500 	415.42500  	 	RM	12C NAC	Dept Agr HQ 	Headquarters 	P25 	Federal 
+168.35000 	   	 	M	100 NAC	HHSSecDetail 	Secretary's Protective Detail 	P25 	Federal 
+136.37500 	   	 	BM	CSQ	CBP Aircraft 	Customs and Border Protection Aircraft 	AM 	Federal 
+166.46250 	   	 	RM	001 NAC	DHS Common 	Common 	P25E 	Federal 
+173.65000 	163.81250  	 	RM	293 NAC	DOL Sec 	Department of Labor - Security 	P25 	Federal 
+407.60000 	   	 	RM	0F0 NAC	StateDpt Sec 	Security 	P25e 	Federal 
+407.86250 	416.86250  	 	RM	0F0 NAC	StDptHQSec 	Headquarters Security (DC/Maryland Wide-Area Net) 	P25 	Federal 
+408.60000 	417.60000  	 	RM	0F0 NAC	StateDpt Sec 	Security 	P25e 	Federal 
+409.03750 	   	 	RM	0F0 NAC	StateDpt Unk 	Unknown 	P25e 	Federal 
+409.71250 	   	 	RM	0F0 NAC	StDptShuttle 	Shuttle 	P25e 	Federal 
+166.32500 	   	 	RM	546 NAC	DOI HQ Sec 	Headquarters Security 	P25 	Federal 
+163.35000 	   	 	RM	146.2 PL	Treasury Mnt 	Maintenance 	FM 	Federal 
+171.36250 	170.55000  	 	RM	293 NAC	DOT HQ Sec 	Headquarters Security 	P25 	Federal 
+418.75000 	   	 	RM	156 NAC	DEA 418.75 	Operations 	P25E 	Federal 
+418.95000 	   	 	RM	156 NAC	DEA 418.95 	Operations 	P25 	Federal 
+136.27500 	   	 	BM	CSQ	FBI Aircraft 	Aircraft 	AM 	Federal 
+163.10000 	   	 		167 NAC	FBI 163.1 	FBI 	P25E 	Federal 
+164.55000 	   	 	RM	167 NAC	FBI 164.55 	FBI 	P25E 	Federal 
+168.92500 	   	 	RM	167 NAC	FBI 168.925 	FBI 	P25E 	Federal 
+408.20000 	   	 	RM	201 NAC	FPS 408.2 	Federal Protective Service 	P25E 	Federal 
+410.80000 	   	 	RM	201 NAC	FPS 410.8 	Federal Protective Service 	P25E 	Federal 
+417.20000 	   	 	RM	201 NAC	FPS DOL 1 	Department of Labor (Ch. 1) 	P25 	Federal 
+416.02500 	   	 	RM	202 NAC	FPS DOL 2 	Department of Labor (Ch. 2) 	P25 	Federal 
+407.81250 	416.81250  	 	RM	CSQ	GAO Sec 	Security 	FM 	Federal 
+409.51250 	418.51250  	 	RM	073 DPL	GovtPrOffSec 	Security 	FM 	Federal 
+408.12500 	417.12500  	 	RM	136.5 PL	Lib Cong PD 	Police 	FM 	Federal 
+417.88750 	   	 	RM	295 NAC	Mint HQ Sec 	Mint - Headquarters Security 	P25 	Federal 
+163.37500 	   	 	RM	210.7 PL	NGA Mnt 	Maintenance 	FM 	Federal 
+165.41250 	173.11250  	 	RM	210.7 PL	NGA Mnt 	Maintenance 	FM 	Federal 
+406.55000 	415.55000  	 	RM	210.7 PL	NGA Sec 	Security 	FM 	Federal 
+172.47500 	171.67500  	 	RM	4C5 NAC	NPS Cent (R) 	National Capital Parks - Central 	P25 	Federal 
+172.75000 	   	 	M	4C5 NAC	NPS Cent (S) 	National Capital Parks - Central 	P25 	Federal 
+170.51250 	164.57500  	 	RM	4C5 NAC	NPS Cent Med 	National Capital Parks - Central (Medical) 	P25 	Federal 
+168.42500 	170.10000  	 	RM	293 NAC	NPS East 	National Capital Parks - East 	P25 	Federal 
+169.77500 	163.33750  	 	RM	4C5 NAC	NPS GW Pkwy 	George Washington Parkway 	P25 	Federal 
+418.57500 	418.05000  	 	RM	103.5 PL	OSHA EmrgNet 	Occupational Safety and Health Administration - Emergency Net 	FM 	Federal 
+410.70000 	   	 	RM	103.5 PL	OPM Sec 	Security 	FMN 	Security 
+418.07500 	   	 	RM	114.8 PL	OPM Mnt 	Maintenance 	FMN 	Federal 
+171.77500 	   	 	RM	CF9 NAC	USPP Dispatch 	Dispatch 	P25E 	Federal 
+169.78750 	   	 	RM	CF9 NAC	USPP Admin 	Admin 	P25E 	Federal 
+169.70000 	   	 	RM	CF9 NAC	USPP Spec Event 	Special Event 	P25E 	Federal 
+166.85000 	   	 	M	CF9 NAC	USPP Talkaround 	Talkaround 	P25E 	Federal 
+406.33750 	   	 	RM	482 NAC	PInsp406.337 	Postal Inspectors 	P25E 	Federal 
+407.13750 	   	 	RM	482 NAC	PInsp407.137 	Postal Inspectors 	P25E 	Federal 
+407.72500 	   	 	RM	482 NAC	PInsp407.725 	Postal Inspectors 	P25E 	Federal 
+407.77500 	   	 	RM	482 NAC	PInsp407.775 	Postal Inspectors 	P25E 	Federal 
+414.75000 	   	 	RM	003 NAC	PInsp 414.75 	Postal Inspectors 	P25E 	Federal 
+165.78750 	   	 		001 NAC	SS Baker 	Baker 	P25E 	Federal 
+165.37500 	   	 		001 NAC	SS Charlie 	Charlie 	P25E 	Federal 
+165.21250 	   	 		001 NAC	SS Mike 	Mike 	P25E 	Federal 
+164.88750 	   	 		001 NAC	SS Oscar 	Oscar 	P25E 	Federal 
+164.40000 	   	 		001 NAC	SS Papa 	Papa 	P25E 	Federal 
+164.65000 	   	 		001 NAC	SS Tango 	Tango 	P25E 	Federal 
+162.07500 	   	 	RM	201 NAC	UDSS WH 1 	White House 1 	P25E 	Federal 
+163.31250 	   	 	RM	202 NAC	UDSS WH 2 	White House 2 	P25E 	Federal 
+162.31250 	   	 	RM	211 NAC	UDSS Emb 1 	Foreign Missions 1 (Embassies) 	P25E 	Federal 
+164.43750 	   	 	RM	212 NAC	UDSS Emb 2 	Foreign Missions 2 (Embassies) 	P25E 	Federal 
+166.20000 	   	 	RM	202 NAC	VP Residence 	Vice President's Residence 	P25E 	Federal 
+464.57500 	469.57500  	WPMU445 	RM	CC 1TG 901SL 1	CUA PD 	Police 	DMR 	Law Dispatch 
+461.88750 	466.88750  	WQCI824 	RM	CC 8TG 1500SL 1	GallU PD 	Police 	DMR 	Law Dispatch 
+464.47500 	469.47500  	WQFK576 	RM	025 DPL	GWU Smith 	Smith Center 	FM 	Schools 
+469.55000 	   	 	M	754 DPL	GWU Lisner 	Lisner Auditorium 	FM 	Schools 
+452.62500 	457.62500  	WPDI396 	RM	CC 1TG 1SL 1	GU Police 	Police 	DMR 	Law Dispatch 
+461.12500 	466.12500  	WNWD828 	RM	734 DPL	GU Transp 	Transportation Department 	FM 	Schools 
+461.37500 	466.37500  	WQBV402 	RM	606 DPL	GULaw Eng 	Law Center - Engineering 	FM 	Schools 
+463.37500 	468.37500  	WQQE588 	RM	CC 1TG 9SL 2	GU Mnt/Eng 	Maintenance/Engineering 	DMR 	Schools 
+463.72500 	468.72500  	KRE804 	RM	132 DPL	GULaw Sec 	Law Center - Security 	FM 	Security 
+464.15000 	469.15000  	WPVB803 	RM	606 DPL	GU ConfHotel 	Conference Hotel 	FM 	Schools 
+461.70000 	466.70000  	KNER375 	RM	CC 1TG 1SL 1	HowU Police 	Police 	DMR 	Law Dispatch 
+463.27500 	468.27500  	KNER375 	RM	136.5 PL	HowU Alarms 	Alarms 	FM 	Schools 
+American University	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington	Audi Field	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Capital One Arena	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington
+Capitol Complex	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Capitol Police	 Project 25 Phase I	 Washington	Catholic University of America	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington
+DC Correctional Treatment Facility	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	District of Columbia	 Project 25 Phase II	 District of Columbia	DMR-MARC Amateur Radio Network (MD)	 DMR Conventional Networked	 Various
+DMRVA Amateur Radio Network	 DMR Conventional Networked	 Various	FleetTalk (DC-Area Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	FleetTalk (Silver Spring LTR)	 LTR Standard and Passport	 Silver Spring
+Four Seasons Hotel Washington	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	George Washington University	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Georgetown University	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington
+Hillwood Estate, Museum and Gardens	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Integrated Wireless Network (IWN) National Capital Region	 Project 25 Phase I	 Various	International Monetary Fund	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington
+Jefferson Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Joint National Capital Region	 Project 25 Phase I	 Various	Justice Integrated Wireless Network	 Project 25 Phase I	 Various
+Knollwood	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Marriott Marquis (Washington)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington	National Law Enforcement Museum	 Project 25 Phase II	 Washington
+Nationals Park	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Navy Federal Credit Union	 Motorola Type II Smartnet	 Washington	Omni Shoreham Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington
+State Plaza Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Unidentified Federal P25 (680)	 Project 25 Phase I	 
+United States Department of Defense (1B5C8-001)	 Project 25 Phase I	 Various	United States Holocaust Memorial Museum	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	Walter E. Washington Convention Center	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington
+Washington DC Area Federal SMR	 NXDN Icom IDAS Type D	 Various	Washington Hospital Center (Capacity Plus)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington	Washington Hospital Center (LTR)	 LTR Standard	 Washington
+Washington Metropolitan Area Transit Authority	 Motorola Type II Smartnet	 Various	World Bank	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Washington	

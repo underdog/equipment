@@ -1,29 +1,28 @@
-155.43000 	WPCQ805 	RM	CC 1TG 10SL 2	VNBRN SO DISP 	Sheriff Dispatch 	DMR 	Law Dispatch 
-155.43000 	WPCQ805 	BM	CC 1TG 40SL 1	VNBRN SO TAC 	Sheriff - Tactical  	DMRe 	Law Tac 
-155.43000 	WPCQ805 	RM	306 DPL	VN BRN SO A 	Sheriff Analog 	FMN 	Law Dispatch 
-154.19000 	WQUY982 	RM	254.1 PL	RUSHING FD A 	Rushing FD Analog   	FMN 	Fire Dispatch 
-154.19000 	WQUY982 	RM	CC 11TG 1SL 1	RUSHING FD DMR 	Rushing FD DMR 	DMR 	Fire-Tac 
-155.80500 	WQUY982 	RM	CC 8TG 1SL 1	CHIMES FD DMR 	Chimes FD DMR 	DMR 	Fire-Tac 
-155.80500 	WQUY982 	RM	254.1 PL	CHIMES FD ANALOG 	Chimes FD Analog  	FMN 	Fire Dispatch 
-155.80500 	WQUY982 	RM	CC 8TG *SL 1	VBC -911 DMR 	County -911 Dispatch - DMR 	DMR 	Emergency Ops 
-155.80500 	WQUY982 	RM	612 DPL	VBC -911 A 	County -911 Dispatch - Analog 	FMN 	Emergency Ops 
-155.88000 	KNFL237 	RM	167.9 PL	VB-OEM OPS 	Emergency Mgmt.Operations 	FMN 	Fire-Tac 
-155.88000 	KNFL237 	RM	143 DPL	PINNACLE FD A 	Pinnacle Fire - Analog 	FMN 	Fire Dispatch 
-155.88000 	KNFL237 	RM	CC 1TG 1SL 1	PINNACLE FD D 	Pinnacle Fire - DMR 	DMR 	Fire-Tac 
-154.04750 	WQUY982 	RM	612 DPL	ALREAD FD ANALOG 	Alread FD Analog 	FMN 	Fire Dispatch 
-155.04750 	WQUY982 	RM	CC 9TG 1SL 1	ALREAD FD DMR 	Alread FD DMR 	DMR 	Fire-Tac 
-156.18000 	WPEG666 	RM		VN BRN HWY 	Highway Dept. Digital 	DMR 	Public Works 
-154.99500 	WQUY982  	RM	254.1 PL	BBVFD-PAGE 	Volunteer Fire Department - Paging 	FMN 	Fire Dispatch 
-154.99500 	WQUY982  	RM	CC 10TG 1SL 1	BBVFD-OPS 	Volunteer Fire Department Operations 	DMR 	Fire-Tac 
-154.10000 	WNBL359 	BM		BEE BRCH WTR 	Water Department 	FMN 	Public Works 
-154.41500 	KNNI573 	RM	254.1 PL	CFD-PAGE 	Fire - Paging 	FMN 	Fire Dispatch 
-154.41500 	KNNI573 	RM	CC 1TG 1000SL 1	CFD-OPS 	Fire -  Opertaions 	DMR 	Fire-Tac 
-155.31000 	WPWA466 	RM	156.7 PL	CLINTON PD 	Police - Dispatch Analog 	FMN 	Law Dispatch 
-155.31000 	WPWA466 	RM		CPD-TRBO 	Police-Dispatch Digital 	DMR 	Law Dispatch 
-155.98500 	KZJ813 	BM		CLINTON DPW 	Police/Fire/DPW Analog 	FMN 	Interop 
-154.19000 	WQUY982 	RM	612 DPL	FFB FD PAGE 	Fire Paging 	FMN 	Fire Dispatch 
-154.19000 	WQUY982 	RM	CC 1TG *SL 1	FFB FD OPS 	Fire Operations 	DMR 	Fire-Tac 
-154.97250 	WQQS346 	RM	CC 1TG 1SL 1	FFB EMS/PD 1 	EMS and Police Primary 	DMR 	Multi-Dispatch 
-151.77500 	KIV982 	BM		FFB DPW 	Public Works 	FMN 	Public Works 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	
+155.43000 	159.03000  	WPCQ805 	RM	CC 1TG 10SL 2	VNBRN SO DISP 	Sheriff Dispatch 	DMR 	Law Dispatch 
+155.43000 	159.03000  	WPCQ805 	BM	CC 1TG 40SL 1	VNBRN SO TAC 	Sheriff - Tactical  	DMRe 	Law Tac 
+155.43000 	159.03000  	WPCQ805 	RM	306 DPL	VN BRN SO A 	Sheriff Analog 	FMN 	Law Dispatch 
+154.19000 	   	WQUY982 	RM	254.1 PL	RUSHING FD A 	Rushing FD Analog   	FMN 	Fire Dispatch 
+154.19000 	   	WQUY982 	RM	CC 11TG 1SL 1	RUSHING FD DMR 	Rushing FD DMR 	DMR 	Fire-Tac 
+155.80500 	   	WQUY982 	RM	CC 8TG 1SL 1	CHIMES FD DMR 	Chimes FD DMR 	DMR 	Fire-Tac 
+155.80500 	159.07500  	WQUY982 	RM	254.1 PL	CHIMES FD ANALOG 	Chimes FD Analog  	FMN 	Fire Dispatch 
+155.80500 	159.07500  	WQUY982 	RM	CC 8TG *SL 1	VBC -911 DMR 	County -911 Dispatch - DMR 	DMR 	Emergency Ops 
+155.80500 	159.07500  	WQUY982 	RM	612 DPL	VBC -911 A 	County -911 Dispatch - Analog 	FMN 	Emergency Ops 
+155.88000 	158.94000  	KNFL237 	RM	167.9 PL	VB-OEM OPS 	Emergency Mgmt.Operations 	FMN 	Fire-Tac 
+155.88000 	158.94000  	KNFL237 	RM	143 DPL	PINNACLE FD A 	Pinnacle Fire - Analog 	FMN 	Fire Dispatch 
+155.88000 	158.94000  	KNFL237 	RM	CC 1TG 1SL 1	PINNACLE FD D 	Pinnacle Fire - DMR 	DMR 	Fire-Tac 
+154.04750 	159.00000  	WQUY982 	RM	612 DPL	ALREAD FD ANALOG 	Alread FD Analog 	FMN 	Fire Dispatch 
+155.04750 	159.00000  	WQUY982 	RM	CC 9TG 1SL 1	ALREAD FD DMR 	Alread FD DMR 	DMR 	Fire-Tac 
+156.18000 	159.18000  	WPEG666 	RM		VN BRN HWY 	Highway Dept. Digital 	DMR 	Public Works 
+154.99500 	158.99250  	WQUY982  	RM	254.1 PL	BBVFD-PAGE 	Volunteer Fire Department - Paging 	FMN 	Fire Dispatch 
+154.99500 	158.99250  	WQUY982  	RM	CC 10TG 1SL 1	BBVFD-OPS 	Volunteer Fire Department Operations 	DMR 	Fire-Tac 
+154.10000 	   	WNBL359 	BM		BEE BRCH WTR 	Water Department 	FMN 	Public Works 
+154.41500 	153.83000  	KNNI573 	RM	254.1 PL	CFD-PAGE 	Fire - Paging 	FMN 	Fire Dispatch 
+154.41500 	153.83000  	KNNI573 	RM	CC 1TG 1000SL 1	CFD-OPS 	Fire -  Opertaions 	DMR 	Fire-Tac 
+155.31000 	153.99500  	WPWA466 	RM	156.7 PL	CLINTON PD 	Police - Dispatch Analog 	FMN 	Law Dispatch 
+155.31000 	153.99500  	WPWA466 	RM		CPD-TRBO 	Police-Dispatch Digital 	DMR 	Law Dispatch 
+155.98500 	   	KZJ813 	BM		CLINTON DPW 	Police/Fire/DPW Analog 	FMN 	Interop 
+154.19000 	   	WQUY982 	RM	612 DPL	FFB FD PAGE 	Fire Paging 	FMN 	Fire Dispatch 
+154.19000 	   	WQUY982 	RM	CC 1TG *SL 1	FFB FD OPS 	Fire Operations 	DMR 	Fire-Tac 
+154.97250 	158.96250  	WQQS346 	RM	CC 1TG 1SL 1	FFB EMS/PD 1 	EMS and Police Primary 	DMR 	Multi-Dispatch 
+151.77500 	   	KIV982 	BM		FFB DPW 	Public Works 	FMN 	Public Works 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various

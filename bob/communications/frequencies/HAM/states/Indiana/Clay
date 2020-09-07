@@ -1,30 +1,30 @@
-151.40000 	WPHN549 	RM	18 RAN	CLAY FD DISP D 	Fire Dispatch Digital 	NXDN 	Fire Dispatch 
-154.40000 	WPHV686 	RM	173.8 PL	CLAY FD DISP A 	Fire Dispatch Analog 	FMN 	Fire Dispatch 
-154.40000 	WPHV686 	M	173.8 PL	CLAY FD TALK 	Fire Talkaround 	FMN 	Fire-Talk 
-155.26500 	KLP506 	BM	173.8 PL	CLAY FD FG 1 	Fireground 1 	FMN 	Fire-Tac 
-154.28000 	KLP506 	M	CSQ	CLAY FD FG 2 	Fireground 2 	FMN 	Fire-Tac 
-155.02500 	WPCI475 	BM		CLAY SAR 	Search And Resuce Tactical 	FMN 	Fire-Tac 
-151.16000 	WPYW718 	RM	114.8 PL	BRAZIL FD OPS 	Brazil Fire Operations 	FMN 	Fire-Tac 
-156.19500 	KCW648 	BM	173.8 PL	BRAZIL FD TAC 	Brazil Fire Tactical 	FMN 	Fire-Tac 
-154.29500 	KJK523 	M		CORY VFD 	Cory VFD Tactical 	FMN 	Fire-Tac 
-154.49500 	 	M		JACKSON VFD 	Jackson Twp VFD Tactical 	FMN 	Fire-Tac 
-154.37000 	KXO708 	M		LEWIS VFD 	Lewis Twp VFD Tactical 	FMN 	Fire-Tac 
-154.14500 	KZP242 	RM	146.2 PL	OWEN FD DISP 	Owen County VHF Fire Dispatch (Dispatches Poland  FD) 	FMN 	Fire Dispatch 
-154.20500 	KNNP549 	BM	CSQ	POLAND FD TAC 	Poland Fire Tactical 	FMN 	Fire-Tac 
-153.89000 	KNJG589 	M	173.8 PL	VAN BUREN VFD 	Van Buren Twp VFD Tactical 	FMN 	Fire-Tac 
-154.13000 	 	M		DICK JOHNSON FD 	Dick Johnson Township VFD Tactical 	FMN 	Fire-Tac 
-158.40000 	WPRY891 	RM	155 DPL	AEL CNTRPNT 1 	Air Evac Lifeteam - Centerpoint Dispatch 	FMN 	EMS Dispatch 
-158.22000 	WQCD342 	BM	032 DPL	AEL CNTRPNT 2 	Air Evac Lifeteam - Centerpoint Tactical 	FMN 	EMS-Tac 
-155.34000 	KLP506 	M	210.7 PL	IHERN 1 	IHERN 1 (Patient Reports to ER) 	FMN 	Hospital 
-158.73000 	WPHN549 	RM	114.8 PL	11 SHF VHF 	Sheriff - Dispatch (Standby Repeater) 	FMN 	Law Dispatch 
-151.34000 	KLP506 	RM	186.2 PL	CCJC CH 2 	Clay County Justice Center Channel 2 	FMN 	Corrections 
-151.34000 	KLP506 	RM	50 RAN	CCJC CH 1 	Clay County Justice Center Channel 1 	NXDN 	Corrections 
-151.46000 	WPXD512 	RM	114.8 PL	CLAY HIGHWAY 	Highway Department 	FMN 	Public Works 
-153.18500 	WQNL291 	RM	156 DPL	CCS-FACILITIES 	Clay Community Schools - Facilities 	FMN 	Schools 
-153.62000 	WQNL291 	RM	156 DPL	CCS-BUSES 	Clay Community Schools - Buses 	FMN 	Schools 
-452.78750 	WQNL291 	M	156 DPL	CCS-SCHOOL 1 	Clay Community Schools - Portables F1 	FMN 	Schools 
-457.78750 	WQNL291 	M	156 DPL	CCS-SCHOOL 2 	Clay Community Schools - Portables F2 	FMN 	Schools 
-464.50000 	WQNL291 	M	156 DPL	CCS-SCHOOL 3 	Clay Community Schools - Portables F3 	FMN 	Schools 
-469.50000 	WQNL291 	M	156 DPL	CCS-SCHOOL 4 	Clay Community Schools - Portables F4 	FMN 	Schools 
-173.37500 	WQNP838 	BM	CSQ	Water Telem 	Telemetry Data 	FMN 	Utilities 
-Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Utilities District of Western Indiana REMC	 NXDN NEXEDGE 9600	 Multiple	
+151.40000 	159.21000  	WPHN549 	RM	18 RAN	CLAY FD DISP D 	Fire Dispatch Digital 	NXDN 	Fire Dispatch 
+154.40000 	150.79000  	WPHV686 	RM	173.8 PL	CLAY FD DISP A 	Fire Dispatch Analog 	FMN 	Fire Dispatch 
+154.40000 	   	WPHV686 	M	173.8 PL	CLAY FD TALK 	Fire Talkaround 	FMN 	Fire-Talk 
+155.26500 	   	KLP506 	BM	173.8 PL	CLAY FD FG 1 	Fireground 1 	FMN 	Fire-Tac 
+154.28000 	   	KLP506 	M	CSQ	CLAY FD FG 2 	Fireground 2 	FMN 	Fire-Tac 
+155.02500 	   	WPCI475 	BM		CLAY SAR 	Search And Resuce Tactical 	FMN 	Fire-Tac 
+151.16000 	159.30000  	WPYW718 	RM	114.8 PL	BRAZIL FD OPS 	Brazil Fire Operations 	FMN 	Fire-Tac 
+156.19500 	   	KCW648 	BM	173.8 PL	BRAZIL FD TAC 	Brazil Fire Tactical 	FMN 	Fire-Tac 
+154.29500 	   	KJK523 	M		CORY VFD 	Cory VFD Tactical 	FMN 	Fire-Tac 
+154.49500 	   	 	M		JACKSON VFD 	Jackson Twp VFD Tactical 	FMN 	Fire-Tac 
+154.37000 	   	KXO708 	M		LEWIS VFD 	Lewis Twp VFD Tactical 	FMN 	Fire-Tac 
+154.14500 	159.28500  	KZP242 	RM	146.2 PL	OWEN FD DISP 	Owen County VHF Fire Dispatch (Dispatches Poland  FD) 	FMN 	Fire Dispatch 
+154.20500 	   	KNNP549 	BM	CSQ	POLAND FD TAC 	Poland Fire Tactical 	FMN 	Fire-Tac 
+153.89000 	   	KNJG589 	M	173.8 PL	VAN BUREN VFD 	Van Buren Twp VFD Tactical 	FMN 	Fire-Tac 
+154.13000 	   	 	M		DICK JOHNSON FD 	Dick Johnson Township VFD Tactical 	FMN 	Fire-Tac 
+158.40000 	151.50500  	WPRY891 	RM	155 DPL	AEL CNTRPNT 1 	Air Evac Lifeteam - Centerpoint Dispatch 	FMN 	EMS Dispatch 
+158.22000 	   	WQCD342 	BM	032 DPL	AEL CNTRPNT 2 	Air Evac Lifeteam - Centerpoint Tactical 	FMN 	EMS-Tac 
+155.34000 	   	KLP506 	M	210.7 PL	IHERN 1 	IHERN 1 (Patient Reports to ER) 	FMN 	Hospital 
+158.73000 	156.03000  	WPHN549 	RM	114.8 PL	11 SHF VHF 	Sheriff - Dispatch (Standby Repeater) 	FMN 	Law Dispatch 
+151.34000 	159.06000  	KLP506 	RM	186.2 PL	CCJC CH 2 	Clay County Justice Center Channel 2 	FMN 	Corrections 
+151.34000 	159.06000  	KLP506 	RM	50 RAN	CCJC CH 1 	Clay County Justice Center Channel 1 	NXDN 	Corrections 
+151.46000 	151.07000  	WPXD512 	RM	114.8 PL	CLAY HIGHWAY 	Highway Department 	FMN 	Public Works 
+153.18500 	158.32500  	WQNL291 	RM	156 DPL	CCS-FACILITIES 	Clay Community Schools - Facilities 	FMN 	Schools 
+153.62000 	160.09500  	WQNL291 	RM	156 DPL	CCS-BUSES 	Clay Community Schools - Buses 	FMN 	Schools 
+452.78750 	   	WQNL291 	M	156 DPL	CCS-SCHOOL 1 	Clay Community Schools - Portables F1 	FMN 	Schools 
+457.78750 	   	WQNL291 	M	156 DPL	CCS-SCHOOL 2 	Clay Community Schools - Portables F2 	FMN 	Schools 
+464.50000 	   	WQNL291 	M	156 DPL	CCS-SCHOOL 3 	Clay Community Schools - Portables F3 	FMN 	Schools 
+469.50000 	   	WQNL291 	M	156 DPL	CCS-SCHOOL 4 	Clay Community Schools - Portables F4 	FMN 	Schools 
+173.37500 	   	WQNP838 	BM	CSQ	Water Telem 	Telemetry Data 	FMN 	Utilities 
+Utilities District of Western Indiana REMC	 NXDN NEXEDGE 9600	 Multiple	

@@ -1,28 +1,28 @@
-154.08500 	KNNJ509 	RM	51 RAN	Jessamine SO 	Jessamine Co. Sheriff - Dispatch 	NXDN 	Law Dispatch 
-453.17500 	WPQB465 	RM	127.3 PL	Jsmn Jail 	Jessamine Co. Sheriff - Jail Operations 	FM 	Corrections 
-154.32500 	WNQX208 	RM	27 RAN	Jsmn FD DSP 	Jessamine Co. Fire - Dispatch (Used in Mixed Mode) 	NXDN 	Fire Dispatch 
-154.32500 	WNQX208 	RM	103.5 PL	Jsmn FD DSP 	Jessamine Co. Fire - Dispatch 	FM 	Fire Dispatch 
-155.28000 	WNKT353 	M	103.5 PL	Jsmn FD FRG 	Jessamine Co. Fire Fire Ground 	FM 	Fire-Talk 
-155.94000 	WPMA242 	RM	100.0 PL	Jsmn WX Srns 	Jessamine Co. Severe WX Siren Activation 	FM 	Emergency Ops 
-462.97500 	WNUF743 	RM		Jsmn EMS DSP 	Jessamine Co. EMS - Dispatch 	NXDN 	EMS Dispatch 
-453.82500 	WNVX691 	RM	141.3 PL	Jsmn Hsp Ptc 	Jessamine Co. EMS - Hospital (Phone Patch) 	FM 	EMS-Talk 
-463.00000 	WNUF743 	RM	94.8 PL	Jsmn EMS2LEX 	Jessamine Co. EMS-to-Lexington Hospitals 	FM 	Hospital 
-155.65500 	KNJZ421 	RM	1 RAN	Nchvl PD DSP 	Nicholasville Police - Dispatch 	NXDN 	Law Dispatch 
-155.01000 	KNJZ421 	M		Nchvl PD #2 	Nicholasville Police - Secondary 	NXDN 	Law Talk 
-155.47500 	KNJZ421 	M		Nchvl PD #6 	Nicholasville Police - Emergency Response Team 	NXDN 	Law Tac 
-155.37000 	KNJZ421 	B		Nchvl PD IC 	Intercity 	FM 	Interop 
-460.60000 	KCS314 	RM	51 RAN	 NchvlFDDSP- 	Nicholasville Fire Dispatch-NXDN 	NXDN 	Fire Dispatch 
-158.77500 	WQBA908 	RM		Wlmre PD DSP 	Wilmore Police  	NXDN 	Law Dispatch 
-155.71500 	KZR469 	RM		Wlmre FD DSP 	Wilmore Fire Dispatch (Used in Mixed Mode) 	NXDN 	Fire Dispatch 
-155.71500 	KZR469 	RM	156.7 PL	Wlmre FD DSP 	Wilmore Fire  	FM 	Fire Dispatch 
-153.57500 	WPDD658 	BM	127.3 PL	Wlmre Water 	Wilmore Water Department 	FM 	Public Works 
-154.86000 	WPQJ508 	RM	91.5 PL	Wlmre Gvt 	Wilmore Gvt. Services 	FM 	Public Works 
-155.86500 	KIL344 	BM	186.2 PL	Jsmn PW 	Public Works 	FM 	Public Works 
-155.94000 	WPMA242 	RM	97.4 PL	Jsmn Anml Cn 	Animal Control 	FM 	Public Works 
-155.94000 	WPMA242 	RM	107.2 PL	Jsmn Rds  	Valley View Ferry Operations & Road Dept 	FM 	Public Works 
-461.77500 	WNVG413 	RM	141.3 PL	JsmnSklsBus 	Transportation 	FM 	Transportation 
-153.57500 	WPXK802 	M		Ichthus 1 	Operations 	FM 	Business 
-153.63500 	WPXK802 	M		Ichthus 2 	Operations 	FM 	Business 
-153.66500 	WPXK802 	M		Ichthus 3 	Operations 	FM 	Business 
-452.91250 	WPRH288 		67.0 PL	NSRR Yard 	Yard Ops 	FM 	Railroad 
-Kentucky Utilities/ LGE Regional Radio Tier III System	 DMR Tier 3	 Elizabethtown	
+154.08500 	158.95500  	KNNJ509 	RM	51 RAN	Jessamine SO 	Jessamine Co. Sheriff - Dispatch 	NXDN 	Law Dispatch 
+453.17500 	458.17500  	WPQB465 	RM	127.3 PL	Jsmn Jail 	Jessamine Co. Sheriff - Jail Operations 	FM 	Corrections 
+154.32500 	153.95000  	WNQX208 	RM	27 RAN	Jsmn FD DSP 	Jessamine Co. Fire - Dispatch (Used in Mixed Mode) 	NXDN 	Fire Dispatch 
+154.32500 	153.95000  	WNQX208 	RM	103.5 PL	Jsmn FD DSP 	Jessamine Co. Fire - Dispatch 	FM 	Fire Dispatch 
+155.28000 	   	WNKT353 	M	103.5 PL	Jsmn FD FRG 	Jessamine Co. Fire Fire Ground 	FM 	Fire-Talk 
+155.94000 	151.07000  	WPMA242 	RM	100.0 PL	Jsmn WX Srns 	Jessamine Co. Severe WX Siren Activation 	FM 	Emergency Ops 
+462.97500 	467.97500  	WNUF743 	RM	867 NAC	Jsmn EMS DSP 	Jessamine Co. EMS - Dispatch 	P25 	EMS Dispatch 
+453.82500 	458.82500  	WNVX691 	RM	141.3 PL	Jsmn Hsp Ptc 	Jessamine Co. EMS - Hospital (Phone Patch) 	FM 	EMS-Talk 
+463.00000 	468.00000  	WNUF743 	RM	94.8 PL	Jsmn EMS2LEX 	Jessamine Co. EMS-to-Lexington Hospitals 	FM 	Hospital 
+155.65500 	154.95000  	KNJZ421 	RM	1 RAN	Nchvl PD DSP 	Nicholasville Police - Dispatch 	NXDN 	Law Dispatch 
+155.01000 	   	KNJZ421 	M		Nchvl PD #2 	Nicholasville Police - Secondary 	NXDN 	Law Talk 
+155.47500 	   	KNJZ421 	M		Nchvl PD #6 	Nicholasville Police - Emergency Response Team 	NXDN 	Law Tac 
+155.37000 	   	KNJZ421 	B		Nchvl PD IC 	Intercity 	FM 	Interop 
+460.60000 	465.00000  	KCS314 	RM	51 RAN	 NchvlFDDSP- 	Nicholasville Fire Dispatch-NXDN 	NXDN 	Fire Dispatch 
+158.77500 	153.75500  	WQBA908 	RM		Wlmre PD DSP 	Wilmore Police  	NXDN 	Law Dispatch 
+155.71500 	153.81500  	KZR469 	RM		Wlmre FD DSP 	Wilmore Fire Dispatch (Used in Mixed Mode) 	NXDN 	Fire Dispatch 
+155.71500 	153.81500  	KZR469 	RM	156.7 PL	Wlmre FD DSP 	Wilmore Fire  	FM 	Fire Dispatch 
+153.57500 	   	WPDD658 	BM	127.3 PL	Wlmre Water 	Wilmore Water Department 	FM 	Public Works 
+154.86000 	151.22000  	WPQJ508 	RM	91.5 PL	Wlmre Gvt 	Wilmore Gvt. Services 	FM 	Public Works 
+155.86500 	   	KIL344 	BM	186.2 PL	Jsmn PW 	Public Works 	FM 	Public Works 
+155.94000 	151.07000  	WPMA242 	RM	97.4 PL	Jsmn Anml Cn 	Animal Control 	FM 	Public Works 
+155.94000 	151.07000  	WPMA242 	RM	107.2 PL	Jsmn Rds  	Valley View Ferry Operations & Road Dept 	FM 	Public Works 
+461.77500 	466.77500  	WNVG413 	RM	141.3 PL	JsmnSklsBus 	Transportation 	FM 	Transportation 
+153.57500 	   	WPXK802 	M		Ichthus 1 	Operations 	FM 	Business 
+153.63500 	   	WPXK802 	M		Ichthus 2 	Operations 	FM 	Business 
+153.66500 	   	WPXK802 	M		Ichthus 3 	Operations 	FM 	Business 
+452.91250 	457.91250  	WPRH288 		67.0 PL	NSRR Yard 	Yard Ops 	FM 	Railroad 
+Kentucky Utilities/ LGE Regional Radio Tier III System	 DMR Tier 3	 Elizabethtown	Lexington-Fayette Urban County Government (P25)	 Project 25 Phase I	 Lexington	

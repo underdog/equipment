@@ -1,39 +1,39 @@
-158.77500 	WPAK374 	RM	179.9 PL	UnionSheriff 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-155.02500 	WNXK949 	BM	CSQ	ESMARN 	ESDA: Statewide High Band 	FMN 	Emergency Ops 
-159.15000 	KNNJ353 	RM	411 DPL	Union Fire 	Fire/EMS: Dispatch 	FMN 	Fire Dispatch 
-453.25000 	WPPZ707 	F		UnionFireRF1 	Remote Link to 159.15R - Dongola 	FMN 	Fire Dispatch 
-453.42500 	KNNJ353 	F		UnionFireRF2 	Remote Link to 159.15R - Dongola 	FMN 	Fire Dispatch 
-453.97500 	KNNJ353 	F		UnionFireRF3 	Remote Link to 159.15R - Wolf Lake 	FMN 	Fire Dispatch 
-458.25000 	WPPZ707 	F		UnionFireRF4 	Remote Link to 159.15R - Jonesboro 	FMN 	Fire Dispatch 
-458.42500 	KNNJ353 	F		UnionFireRF5 	Remote Link to 159.15R - Jonesboro 	FMN 	Fire Dispatch 
-458.97500 	KNNJ353 	F		UnionFireRF6 	Remote Link to 159.15R - Jonesboro 	FMN 	Fire Dispatch 
-154.40000 	WPKH623 	BM		Union*Fire 	911: Fire (Multiple Towers) 	FMN 	Fire Dispatch 
-155.22000 	WPKH639 	BM		UnionCo EMS 	EMS: Dispatch (also WNAK274) 	FMN 	EMS Dispatch 
-151.02500 	KEO276 	RM		UnionHighway 	Highway Department [Expired 2/06] 	FMN 	Public Works 
-151.49750 	WQLQ677 	RM		Union Enginr 	County Engineers (Alto Pass) 	DMR 	Public Works 
-158.80500 	WXP438 	BM		Union HsAuth 	County Housing Authority (Anna) 	FMN 	Public Works 
-155.38500 	WNHU809 	BM		Anna Hosp 	Operations 	FMN 	Business 
-155.22000 	KZB401 	BM		AnnaHosp EMS 	EMS: Dispatch ? (MERCI-2) 	FMN 	EMS Dispatch 
-155.34000 	KZB401 	BM		MERCI1 	Patient Reports 	FMN 	Hospital 
-153.74000 	KNHA826 	BM	82.5 PL	APass Water 	Water District Operations [Canceled 3/13] 	FMN 	Public Works 
-159.28500 	WQSB732 	RM		Anna Police 	Police 	FMN 	Law Dispatch 
-153.80000 	 	RM	364 DPL	Anna Police 	Police: Dispatch / Car-to-Car [No License] 	FMN 	Law Dispatch 
-154.22000 	WPLS715 	BM		Anna Fire422 	Fire 	FMN 	Fire-Tac 
-153.62000 	WQKV636 	RM		Anna Utility 	City Utilities [Expired 9/19] 	FMN 	Utilities 
-155.04000 	WPFW507 	BM		Cob Vil Ops 	Village Ops 	FMN 	Public Works 
-154.40000 	KNFP509 	BM		Union Fire 	Fire 	FMN 	Fire Dispatch 
-156.10500 	WPWX986 	BM		Dong Vil Ops 	Village Ops 	FMN 	Public Works 
-453.61250 	WPMX695 	M		Dong WDD 1 	Water Distribution Data 	Telm 	Data 
-458.61250 	KD46542 	M		Dong WDD 2 	Water Distribution Data 	Telm 	Data 
-173.28750 	WPMX696 	F		SWaterIncWDD 	South Water Inc. 	Telm 	Data 
-155.84250 	WPMP381 	RM		Jnsb Local 	Public Safety / Utilities 	FMN 	Multi-Dispatch 
-45.52000 	KRU977 	BM		Jnsb 45.52 	ESDA ? 	FM 	Emergency Ops 
-153.14000 	WQID259 	RM		Jnsbr School 	Operations  	FMN 	Schools 
-152.40500 	WPQE286 	RM	CC 4TG *SL *	May TruckingData 	Lindell May Trucking Service (Cobden) (APRS Data*) 	DMR 	Business 
-152.40500 	WPQE286 	RM	CC 4TG 242SL 2	May Trucking 242 	Lindell May Trucking Service (Cobden)  	DMR 	Business 
-157.69500 	WPMM337 	BM	218.1 PL	trash 153.665 	trash pick-up (Christopher?) (Roy Walker) 	FMN 	Business 
-462.12500 	WPKG560 	RM	CC 8TG 47547SL 1	RWC 462125 47547 	Roy Walker (Cobden) 	DMR 	Business 
-463.37500 	WPPH958 	RM	CC 1TG 9881661SL 1	NC 463.375 	transit (Novacom) 	DMR 	Business 
-463.75000 	WPIG784 	RM	054 DPL	rwc 463.75 d054 	buses (Roy Walker - Cobden) 	FMN 	Schools 
-Egyptian Electric Cooperative (S IL)	 DMR Conventional Networked	 Steeleville	Novacom (DMR)	 DMR Conventional Networked	 Southern IL	Roy Walker Communications (DMR)	 DMR Conventional Networked
- Makanda	
+158.77500 	154.77000  	WPAK374 	RM	179.9 PL	UnionSheriff 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+155.02500 	   	WNXK949 	BM	CSQ	ESMARN 	ESDA: Statewide High Band 	FMN 	Emergency Ops 
+159.15000 	153.86000  	KNNJ353 	RM	411 DPL	Union Fire 	Fire/EMS: Dispatch 	FMN 	Fire Dispatch 
+453.25000 	   	WPPZ707 	F		UnionFireRF1 	Remote Link to 159.15R - Dongola 	FMN 	Fire Dispatch 
+453.42500 	   	KNNJ353 	F		UnionFireRF2 	Remote Link to 159.15R - Dongola 	FMN 	Fire Dispatch 
+453.97500 	   	KNNJ353 	F		UnionFireRF3 	Remote Link to 159.15R - Wolf Lake 	FMN 	Fire Dispatch 
+458.25000 	   	WPPZ707 	F		UnionFireRF4 	Remote Link to 159.15R - Jonesboro 	FMN 	Fire Dispatch 
+458.42500 	   	KNNJ353 	F		UnionFireRF5 	Remote Link to 159.15R - Jonesboro 	FMN 	Fire Dispatch 
+458.97500 	   	KNNJ353 	F		UnionFireRF6 	Remote Link to 159.15R - Jonesboro 	FMN 	Fire Dispatch 
+154.40000 	   	WPKH623 	BM		Union*Fire 	911: Fire (Multiple Towers) 	FMN 	Fire Dispatch 
+155.22000 	   	WPKH639 	BM		UnionCo EMS 	EMS: Dispatch (also WNAK274) 	FMN 	EMS Dispatch 
+151.02500 	159.04500  	KEO276 	RM		UnionHighway 	Highway Department [Expired 2/06] 	FMN 	Public Works 
+151.49750 	159.40500  	WQLQ677 	RM		Union Enginr 	County Engineers (Alto Pass) 	DMR 	Public Works 
+158.80500 	   	WXP438 	BM		Union HsAuth 	County Housing Authority (Anna) 	FMN 	Public Works 
+155.38500 	   	WNHU809 	BM		Anna Hosp 	Operations 	FMN 	Business 
+155.22000 	   	KZB401 	BM		AnnaHosp EMS 	EMS: Dispatch ? (MERCI-2) 	FMN 	EMS Dispatch 
+155.34000 	   	KZB401 	BM		MERCI1 	Patient Reports 	FMN 	Hospital 
+153.74000 	   	KNHA826 	BM	82.5 PL	APass Water 	Water District Operations [Canceled 3/13] 	FMN 	Public Works 
+159.28500 	154.82250  	WQSB732 	RM		Anna Police 	Police 	FMN 	Law Dispatch 
+153.80000 	158.86500  	 	RM	364 DPL	Anna Police 	Police: Dispatch / Car-to-Car [No License] 	FMN 	Law Dispatch 
+154.22000 	   	WPLS715 	BM		Anna Fire422 	Fire 	FMN 	Fire-Tac 
+153.62000 	158.13000  	WQKV636 	RM		Anna Utility 	City Utilities [Expired 9/19] 	FMN 	Utilities 
+155.04000 	   	WPFW507 	BM		Cob Vil Ops 	Village Ops 	FMN 	Public Works 
+154.40000 	   	KNFP509 	BM		Union Fire 	Fire 	FMN 	Fire Dispatch 
+156.10500 	   	WPWX986 	BM		Dong Vil Ops 	Village Ops 	FMN 	Public Works 
+453.61250 	   	WPMX695 	M		Dong WDD 1 	Water Distribution Data 	Telm 	Data 
+458.61250 	   	KD46542 	M		Dong WDD 2 	Water Distribution Data 	Telm 	Data 
+173.28750 	   	WPMX696 	F		SWaterIncWDD 	South Water Inc. 	Telm 	Data 
+155.84250 	158.90250  	WPMP381 	RM		Jnsb Local 	Public Safety / Utilities 	FMN 	Multi-Dispatch 
+45.52000 	   	KRU977 	BM		Jnsb 45.52 	ESDA ? 	FM 	Emergency Ops 
+153.14000 	158.21250  	WQID259 	RM		Jnsbr School 	Operations  	FMN 	Schools 
+152.40500 	157.66500  	WPQE286 	RM	CC 4TG *SL *	May TruckingData 	Lindell May Trucking Service (Cobden) (APRS Data*) 	DMR 	Business 
+152.40500 	157.66500  	WPQE286 	RM	CC 4TG 242SL 2	May Trucking 242 	Lindell May Trucking Service (Cobden)  	DMR 	Business 
+157.69500 	   	WPMM337 	BM	218.1 PL	trash 153.665 	trash pick-up (Christopher?) (Roy Walker) 	FMN 	Business 
+462.12500 	467.12500  	WPKG560 	RM	CC 8TG 47547SL 1	RWC 462125 47547 	Roy Walker (Cobden) 	DMR 	Business 
+463.37500 	468.37500  	WPPH958 	RM	CC 1TG 9881661SL 1	NC 463.375 	transit (Novacom) 	DMR 	Business 
+463.75000 	468.75000  	WPIG784 	RM	054 DPL	rwc 463.75 d054 	buses (Roy Walker - Cobden) 	FMN 	Schools 
+Egyptian Electric Cooperative (S IL)	 DMR Conventional Networked	 Steeleville	Novacom (DMR)	 DMR Conventional Networked	 Southern IL	Rides Mass Transit District (DMR)	 DMR Conventional Networked	 Southern IL
+Roy Walker Communications (DMR)	 DMR Conventional Networked	 Makanda	

@@ -1,25 +1,25 @@
-155.08500 	KVF682 	RM	365 NAC	Kerr Co SO 1 	Sheriff Ch 1 Primary 	P25 	Law Dispatch 
-155.55000 	KVF682 	RM	365 NAC	Kerr Co SO 2 	Sheriff Ch 2 	P25 	Law Tac 
-155.52000 	WNPO742 	RM		Kerr Co Narc 	Sheriff Narcotics (not heard in years, active?) 	FMN 	Law Tac 
-154.78500 	WQAY425 	BM		Kerr Co Jail 	Sheriff Jail Primary 	FMN 	Law Tac 
-159.13500 	WQNL894 	RM	365 DPL	Kerr FD Cent 	Firecom Central 	FMN 	Fire Dispatch 
-156.18000 	WQNL894 	RM	365 DPL	Kerr FD West 	Firecom West 	FMN 	Fire Dispatch 
-155.79750 	WQNL894 	BM	365 DPL	Kerr FD East 	Firecom East 	FMN 	Fire Dispatch 
-45.44000 	WPRF989 	RM	203.5 PL	KerrCo Roads 	Road Maintenance 	FM 	Public Works 
-155.11500 	WPFJ638 	RM		Ingram Police 	 Police Dispatch (daytime) 	P25E 	Law Dispatch 
-154.17500 	KNFC853 	BM		Ingram Fire Tac 	Fire Tactical 	FM 	Fire-Tac 
-452.20000 	 	RM	CC 1TG 1SL 1	Ingram ISD Buses 	Ingram ISD Buses 	DMR 	Schools 
-155.41500 	KVF683 	RM	293 NAC	Kerrville PD1 	Police Ch 1 Primary 	P25E 	Law Dispatch 
-154.73250 	WQAV389 	RM	293 NAC	Kerrville PD2 	Police Ch 2 Info 	P25E 	Law Tac 
-155.13000 	KVF683 	BM		Kerrville PD3 	Police Tactical 	P25E 	Law Tac 
-158.75250 	WQKE813 	BM		Kerville PD Evnt 	Police Tactical / Events 	P25E 	Law Tac 
-154.10750 	WQKA361 	RM	365 DPL	Kerrvl PD MA 	Police Mutual Aid 	FMN 	Law Tac 
-154.35500 	WPGV728 	RM	162.2 PL	Kerrvill FD1 	Fire/EMS Primary 	FMN 	Fire Dispatch 
-154.23500 	WPGV728 	BM		Kerrvil FD 2 	Fire Talkaround 	FMN 	Fire-Talk 
-158.84250 	WQLG572 	RM	162.2 PL	Kerrvil FD2A 	Fire 2A 	FMN 	Fire-Talk 
-155.83500 	WPGV728 	RM	162.2 PL	Kerrvil FD W 	Fire/EMS West Repeater 	FMN 	Fire Dispatch 
-154.87500 	WPGV728 	RM	162.2 PL	Kerrvil FD E 	Fire/EMS East Repeater 	FMN 	Fire Dispatch 
-154.06250 	WQKE813 	RM	023 DPL	Kerrvl PW 	Public Works 	FMN 	Public Works 
-452.05000 	 	BM		KervilleISD Bus 	Kerrville ISD Transportation 	FMN 	Transportation 
-154.32500 	WPKI374 	RM		Turtle Creek VFD 	Tactical / Operations 	FM 	Fire-Tac 
-Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	
+155.08500 	159.03000  	KVF682 	RM	365 NAC	Kerr Co SO 1 	Sheriff Ch 1 Primary 	P25 	Law Dispatch 
+155.55000 	154.83000  	KVF682 	RM	365 NAC	Kerr Co SO 2 	Sheriff Ch 2 	P25 	Law Tac 
+155.52000 	   	WNPO742 	RM		Kerr Co Narc 	Sheriff Narcotics (not heard in years, active?) 	FMN 	Law Tac 
+154.78500 	   	WQAY425 	BM		Kerr Co Jail 	Sheriff Jail Primary 	FMN 	Law Tac 
+159.13500 	154.65000  	WQNL894 	RM	365 DPL	Kerr FD Cent 	Firecom Central 	FMN 	Fire Dispatch 
+156.18000 	154.38500  	WQNL894 	RM	365 DPL	Kerr FD West 	Firecom West 	FMN 	Fire Dispatch 
+155.79750 	151.49750  	WQNL894 	BM	365 DPL	Kerr FD East 	Firecom East 	FMN 	Fire Dispatch 
+45.44000 	46.56000  	WPRF989 	RM	203.5 PL	KerrCo Roads 	Road Maintenance 	FM 	Public Works 
+155.11500 	158.92500  	WPFJ638 	RM		Ingram Police 	 Police Dispatch (daytime) 	P25E 	Law Dispatch 
+154.17500 	   	KNFC853 	BM		Ingram Fire Tac 	Fire Tactical 	FM 	Fire-Tac 
+452.20000 	457.20000  	 	RM	CC 1TG 1SL 1	Ingram ISD Buses 	Ingram ISD Buses 	DMR 	Schools 
+155.41500 	156.21000  	KVF683 	RM	293 NAC	Kerrville PD1 	Police Ch 1 Primary 	P25E 	Law Dispatch 
+154.73250 	156.15750  	WQAV389 	RM	293 NAC	Kerrville PD2 	Police Ch 2 Info 	P25E 	Law Tac 
+155.13000 	   	KVF683 	BM		Kerrville PD3 	Police Tactical 	P25E 	Law Tac 
+158.75250 	   	WQKE813 	BM		Kerville PD Evnt 	Police Tactical / Events 	P25E 	Law Tac 
+154.10750 	158.93250  	WQKA361 	RM	365 DPL	Kerrvl PD MA 	Police Mutual Aid 	FMN 	Law Tac 
+154.35500 	158.80500  	WPGV728 	RM	162.2 PL	Kerrvill FD1 	Fire/EMS Primary 	FMN 	Fire Dispatch 
+154.23500 	   	WPGV728 	BM		Kerrvil FD 2 	Fire Talkaround 	FMN 	Fire-Talk 
+158.84250 	153.80750  	WQLG572 	RM	162.2 PL	Kerrvil FD2A 	Fire 2A 	FMN 	Fire-Talk 
+155.83500 	158.80500  	WPGV728 	RM	162.2 PL	Kerrvil FD W 	Fire/EMS West Repeater 	FMN 	Fire Dispatch 
+154.87500 	158.80500  	WPGV728 	RM	162.2 PL	Kerrvil FD E 	Fire/EMS East Repeater 	FMN 	Fire Dispatch 
+154.06250 	154.98750  	WQKE813 	RM	023 DPL	Kerrvl PW 	Public Works 	FMN 	Public Works 
+452.05000 	   	 	BM		KervilleISD Bus 	Kerrville ISD Transportation 	FMN 	Transportation 
+154.32500 	150.77500  	WPKI374 	RM		Turtle Creek VFD 	Tactical / Operations 	FM 	Fire-Tac 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	

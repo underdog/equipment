@@ -1,16 +1,16 @@
-154.80000 	WNHP934 	RM	CC 13TG 3SL 1	PawneeCo SO1 	Sheriff Dispatch 	DMR 	Law Dispatch 
-154.89000 	WNHP934 	BM		PawneeCo SO2 	Sheriff Secondary 	FMN 	Law Tac 
-155.58000 	WNHP934 	M		PawneeCo SO3 	Sheriff -- Car to Car 	FMN 	Law Tac 
-155.11500 	KKZ996 	BM		PawneePolice 	Police Dispatch 	FMN 	Law Dispatch 
-154.05500 	WPFZ373 	RM	CC 9TG 3SL 1	Cleveland PD 	Police Dispatch 	DMR 	Law Dispatch 
-156.03000 	WPFZ373 	BM		Cleveland PD 	Police (dispatch before DMR) 	FMN 	Law Dispatch 
-154.05500 	WPFZ373 	RM	CC 9TG 3SL 2	Cleveland Fire 	Fire Dispatch 	DMR 	Fire Dispatch 
-154.22000 	WPDZ996 	BM		Cleveland FD 	Fire (Dispatch before DMR) 	FMN 	Fire Dispatch 
-461.60000 	WQOH542 	RM	CC 7TG 1SL 1	Mercy EMS 	Mercy EMS Dispatch 	DMR 	EMS Dispatch 
-47.62000 	WQEM749 	BM		ClevlndSchBs 	Public Schools -- School  Buses 	FM 	Schools 
-152.39000 	WQDH337 	RM		JenningsFire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.26500 	WPHX216 	RM	CC 3TG *SL *	North 48 Fire 	North 48 Fire Dispatch 	DMR 	Fire Dispatch 
-154.26500 	WPHX216 	BM	123.0 PL	Basin Fire 	Basin Fire (near Mannford) 	FMN 	Fire Dispatch 
-154.43000 	KNFQ448 	RM	167.9 PL	Peninsula Fire 	Peninsula Fire 	FMN 	Fire Dispatch 
-156.21750 	WQAW470 	RM		PawneTriblPD 	Tribal Police Dispatch 	FMN 	Law Dispatch 
-153.82250 	WQAW470 	BM		PawneeTribal 	Environmental Conservation and Safety 	FMN 	Other 
+154.80000 	155.58000  	WNHP934 	RM	CC 13TG 3SL 1	PawneeCo SO1 	Sheriff Dispatch 	DMR 	Law Dispatch 
+154.89000 	   	WNHP934 	BM		PawneeCo SO2 	Sheriff Secondary 	FMN 	Law Tac 
+155.58000 	   	WNHP934 	M		PawneeCo SO3 	Sheriff -- Car to Car 	FMN 	Law Tac 
+155.11500 	   	KKZ996 	BM		PawneePolice 	Police Dispatch 	FMN 	Law Dispatch 
+154.05500 	159.07500  	WPFZ373 	RM	CC 9TG 3SL 1	Cleveland PD 	Police Dispatch 	DMR 	Law Dispatch 
+156.03000 	   	WPFZ373 	BM		Cleveland PD 	Police (dispatch before DMR) 	FMN 	Law Dispatch 
+154.05500 	159.07500  	WPFZ373 	RM	CC 9TG 3SL 2	Cleveland Fire 	Fire Dispatch 	DMR 	Fire Dispatch 
+154.22000 	   	WPDZ996 	BM		Cleveland FD 	Fire (Dispatch before DMR) 	FMN 	Fire Dispatch 
+461.60000 	466.60000  	WQOH542 	RM	CC 7TG 1SL 1	Mercy EMS 	Mercy EMS Dispatch 	DMR 	EMS Dispatch 
+47.62000 	   	WQEM749 	BM		ClevlndSchBs 	Public Schools -- School  Buses 	FM 	Schools 
+152.39000 	157.65000  	WQDH337 	RM		JenningsFire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.26500 	158.94000  	WPHX216 	RM	CC 3TG *SL *	North 48 Fire 	North 48 Fire Dispatch 	DMR 	Fire Dispatch 
+154.26500 	   	WPHX216 	BM	123.0 PL	Basin Fire 	Basin Fire (near Mannford) 	FMN 	Fire Dispatch 
+154.43000 	150.80500  	KNFQ448 	RM	167.9 PL	Peninsula Fire 	Peninsula Fire 	FMN 	Fire Dispatch 
+156.21750 	159.21750  	WQAW470 	RM		PawneTriblPD 	Tribal Police Dispatch 	FMN 	Law Dispatch 
+153.82250 	   	WQAW470 	BM		PawneeTribal 	Environmental Conservation and Safety 	FMN 	Other 

@@ -1,13 +1,13 @@
-154.86000 	WYG496 	RM	156.7 PL	PCSO DISP 	Sheriff - Dispatch 	FMN 	Law Dispatch 
-154.75500 	WYG496 	RM	100.0 PL	PCSO-VTNMA 	Sheriff - VTNMA 	FMN 	Interop 
-154.38500 	 	RM	146.2 PL	PC FIRE OSW 	Fire 	FMN 	Fire Dispatch 
-155.73750 	WQOP773 	RM	664 DPL	PCEMS DISP 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.95500 	WPLS388 	RM	754 DPL	PCEMA-DISP 	Emergency Management OSW 	FMN 	Emergency Ops 
-154.20500 	KZO491 	RM	100.0 PL	C/BCEMA-PCR 	Cleveland/Bradley County EMA - Polk County Repeater 	FMN 	Emergency Ops 
-852.42500 	WQOZ973 	RM	430 NAC	PC 800 OPS 	County Emergency Services 800 MHz Operations 	P25 	Emergency Ops 
-852.96250 	WQOZ973 	RM	430 NAC	PC 800 OPS 	County Emergency Services 800 MHz Operations 	P25 	Emergency Ops 
-151.11500 	KRZ956 	RM	100.0 PL	PC HWY DEPT 	Highway Dept 	FMN 	Public Works 
-155.34000 	KNHL963 	BM		CBMC-ER 	Copper Basin Medical Center HEAR 	FM 	Hospital 
-155.28000 	KNHL963 	BM		CBMC-OPS 	Copper Basin Medical Center Operations 	FM 	Hospital 
-Communications and Electronics (Benton)	 LTR Standard	 Benton	Mobile Communications America Dalton System 1 DMR	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II
- Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	
+154.86000 	159.17250  	WYG496 	RM	156.7 PL	PCSO DISP 	Sheriff - Dispatch 	FMN 	Law Dispatch 
+154.75500 	156.01500  	WYG496 	RM	100.0 PL	PCSO-VTNMA 	Sheriff - VTNMA 	FMN 	Interop 
+154.38500 	158.79750  	 	RM	146.2 PL	PC FIRE OSW 	Fire 	FMN 	Fire Dispatch 
+155.73750 	159.42750  	WQOP773 	RM	664 DPL	PCEMS DISP 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.95500 	159.90000  	WPLS388 	RM	754 DPL	PCEMA-DISP 	Emergency Management OSW 	FMN 	Emergency Ops 
+154.20500 	   	KZO491 	RM	100.0 PL	C/BCEMA-PCR 	Cleveland/Bradley County EMA - Polk County Repeater 	FMN 	Emergency Ops 
+852.42500 	807.42500  	WQOZ973 	RM	430 NAC	PC 800 OPS 	County Emergency Services 800 MHz Operations 	P25 	Emergency Ops 
+852.96250 	807.96250  	WQOZ973 	RM	430 NAC	PC 800 OPS 	County Emergency Services 800 MHz Operations 	P25 	Emergency Ops 
+151.11500 	156.04500  	KRZ956 	RM	100.0 PL	PC HWY DEPT 	Highway Dept 	FMN 	Public Works 
+155.34000 	   	KNHL963 	BM		CBMC-ER 	Copper Basin Medical Center HEAR 	FM 	Hospital 
+155.28000 	   	KNHL963 	BM		CBMC-OPS 	Copper Basin Medical Center Operations 	FM 	Hospital 
+Communications and Electronics (Benton)	 LTR Standard	 Benton	Mobile Communications America Dalton System 1 DMR	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various
+Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

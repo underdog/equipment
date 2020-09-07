@@ -1,69 +1,68 @@
-460.16250 	WPWZ319 	RM	103.5 PL	BC-EMS-DISP 	Buncombe EMS Dispatch 	FMN 	EMS Dispatch 
-463.10000 	KEG236 	RM	107.2 PL	BC-EMS-MED5 	Buncombe EMS - Patient Reports "MED-5" 	FMN 	Hospital 
-155.34000 	KEG236 	BM	179.9 PL	BC-EMS-340 	Buncombe EMS - Patient Reports "340 HEAR" 	FMN 	Hospital 
-154.81500 	KDC300 	RM	91.5 PL	BC-FIR-PAG 	Buncombe Fire Paging (Also Fire Backup) 	FMN 	Fire Dispatch 
-155.61000 	KDC300 	RM	103.5 PL	BC-FIR-COM 	Buncombe Fire Comm 	FMN 	Fire-Tac 
-158.80500 	KDC300 	RM	103.5 PL	BC-FIR-NET 	Buncombe Fire Mutual Aid Net 	FMN 	Fire-Tac 
-155.56500 	KDC300 	M	103.5 PL	BC-FG-1 	Buncombe Fireground 1 	FMN 	Fire-Tac 
-151.43000 	KDC300 	M	103.5 PL	BC-FG-2 	Buncombe Fireground 2 	FMN 	Fire-Tac 
-155.73000 	KDC300 	M	103.5 PL	BC-FG-3 	Buncombe Fireground 3 	FMN 	Fire-Tac 
-158.86500 	KDC300 	M	103.5 PL	BC-FG-4 	Buncombe Fireground 4 	FMN 	Fire-Tac 
-45.32000 	KDK638 	B	127.3 PL	BC-FIR-DSP 	Buncombe Fire Dispatch 	FM 	Fire Dispatch 
-154.28000 	 	M	CSQ	STATE-FIRE 	State Fire 	FMN 	Fire-Talk 
-155.28000 	KEG236 	M	CSQ	STATE-EMS 	State EMS/Rescue "280" 	FMN 	EMS-Talk 
-155.16000 	 	M	CSQ	SAR-COMMON 	SAR Common 	FMN 	Emergency Ops 
-155.56500 	WPJT733 	BM	167.9 PL	SKYLAND-XMTR 	Buncombe Fire - Skyland Rebroadcast 	FMN 	Fire Dispatch 
-154.06250 	KDC300 	RM	103.5 PL	BC FIR MED 	Buncombe Fire Med 	FMN 	Fire-Tac 
-155.86500 	WPMW778 	RM	136.5 PL	BARN/JUP-VFD 	Barnardsville/Jupiter Repeater 	FMN 	Fire-Talk 
-151.40750 	WQKF270 	RM	251 DPL	BRD-RVR-VFD 	Broad River Repeater 	FMN 	Fire-Talk 
-154.14500 	WQIA441 	RM	167.9 PL	ENKA-VFD 	Enka Repeater 	FMN 	Fire-Talk 
-159.36250 	WQCB291 	RM	125 DPL	FAIRVIEW-VFD 	Fairview Repeater 	FMN 	Fire-Talk 
-155.00250 	WPRF784 	RM	85.4 PL	FRNCH-BRD-FD 	French Broad Repeater 	FMN 	Fire-Talk 
-154.38500 	WQHC403 	RM	464 DPL	LEICSTER-VFD 	Leicester Repeater 	FMN 	Fire-Talk 
-154.32500 	WPDP989 	RM	136.5 PL	REEMS-CRK-VF 	Reems Creek Repeater 	FMN 	Fire-Talk 
-154.17500 	WPQB464 	RM	136.5 PL	REYNOLDS-VFD 	Reynolds Repeater 	FMN 	Fire-Talk 
-154.29500 	WQBD633 	RM	136.5 PL	RICEVILLE-VF 	Riceville Repeater 	FMN 	Fire-Talk 
-154.35500 	WPHE287 	RM	136.5 PL	SKYLAND-VFD 	Skyland Repeater 	FMN 	Fire-Talk 
-155.86500 	 	BM	151.4 PL	SWANNANOA FD 	Swannanoa Ops 	FMN 	Fire-Talk 
-155.07750 	WQJH956 	RM	125 DPL	UPR-HMNY-VFD 	Upper Hominy Repeater 	FMN 	Fire-Talk 
-154.79250 	KNNN908 	RM	516 DPL	WEST-BUNC-VF 	West Buncombe Repeater 	FMN 	Fire-Talk 
-155.40750 	WPRG958 	RM	136.5 PL	WOODFIN-VFD 	Woodfin Repeater 	FMN 	Fire-Talk 
-45.10000 	KJH207 	RM	127.3 PL	BCS Maint 45 	Buncombe Schools - Maintenance 	FM 	Schools 
-46.56000 	KJH207 	RM	127.3 PL	BCS Maint 46 	Buncombe Schools - Maintenance 	FM 	Schools 
-458.45000 	 	M		ClydeErwin45 	Clyde Erwin Middle School 	FMN 	Schools 
-458.85000 	 	M		ClydeErwin85 	Clyde Erwin Middle School 	FMN 	Schools 
-151.83500 	WYB599 	BM	CSQ	ABTC 151.835 	Asheville-Buncombe Technical College 	FMN 	Schools 
-158.84000 	 	BM	131.8 PL	ABTC PD 2 	Asheville-Buncombe Technical College Police Ch. 2 	FMN 	Law Tac 
-159.91500 	WPMN371 	RM	131.8 PL	ABTC Securty 	Asheville-Buncombe Technical College Security 	FMN 	Security 
-155.89500 	WPMZ440 	RM	186.2 PL	BC-AIR 	Buncombe Air Quality/Pollution Control 	FMN 	Public Works 
-156.17250 	WPYR318 	RM		BC-LANDFILL 	Buncombe Landfill 	FMN 	Public Works 
-770.96250 	 	RM	711 NAC	DVRS Buncombe 	Digital Vehicular Repeater System 	P25 	Interop 
-453.60000 	WPPC692 	BM		WNCNatureCtr 	Western North Carolina Nature Center 	FMN 	Public Works 
-154.04000 	WNUS397 	RM	263 DPL	WNC AgCenter 	WNC Agricultural Center 	FMN 	Public Works 
-159.49500 	 		CSQ	WNCAC 159.49 	Fair Security 	FM 	Security 
-159.51000 	 		CSQ	WNCAC 159.51 	Fair Security 	FM 	Security 
-159.70500 	 		CSQ	WNCAC 159.70 	Fair Security 	FM 	Security 
-160.00500 	 		CSQ	WNCAC 160.00 	Fair Security 	FM 	Security 
-160.14750 	 		CSQ	WNCAC 160.14 	Fair Security 	FM 	Security 
-158.82000 	WPWW256 	RM	151.4 PL	AFD-DISP 	Asheville Fire Dispatch (Patched to TRS) 	FMN 	Fire Dispatch 
-851.06250 	 	M	67.0 PL	AFD-T/A 	Asheville Fire Talkaround 	FMN 	Fire-Talk 
-460.46250 	WPNP645 	RM	051 DPL	AshevHousing 	Asheville Housing Authority 	FMN 	Public Works 
-152.40500 	WQKI344 	BM	411 DPL	AVL Schools 	Asheville Schools 	FMN 	Schools 
-155.88000 	KNGB485 	RM	107.2 PL	BLTFRST-PD1 	Biltmore Forest Police 1 	FMN 	Law Dispatch 
-155.94000 	KNGB485 	RM	151.4 PL	BLTFRS-PD2 	Biltmore Forest Police 2 	FMN 	Law Tac 
-155.32500 	WPQZ708 	RM	203.5 PL	BLK-MTN-FD 	Black Mountain Fire Dispatch 	FMN 	Fire Dispatch 
-156.21000 	KTL560 	RM	118.8 PL	BLK-MTN-PD 	Black Mountain Police Dispatch 	FMN 	Law Dispatch 
-155.92500 	WPMD396 	RM	136.5 PL	WEAVERVL-VFD 	Weaverville Repeater 	FMN 	Fire-Talk 
-155.77500 	WPQG610 	RM	167.9 PL	WEAVERVL-PD1 	Weaverville Police 1 	FMN 	Law Dispatch 
-155.06250 	WPQG610 	RM		WEAVERVL-PD2 	Weaverville Police 2 	FMN 	Law Tac 
-453.95000 	WPGA889 	RM		WEAVER-PW-1 	Weaverville Public Works 1 	FM 	Public Works 
-453.10000 	WPGA889 	RM		WEAVER-PW-2 	Weaverville Public Works 2 	FM 	Public Works 
-453.25000 	WPGA889 	M		WEAVER-PW-3 	Weaverville Public Works Radio-to-Radio 	FM 	Public Works 
-154.05500 	KFE408 	RM	151.4 PL	WFINPDTA 	Woodfin Police Talk Around  	FM 	Law Tac 
-155.52000 	WPRR848 	RM	115 DPL	WOOD PW 	Public Works 	FM 	Public Works 
-462.68750 	 	BM	77.0 PL	MC Howerton DH 	Howerton Dining Hall 	FMN 	Schools 
-464.32500 	WPGK858 	RM	526 DPL	MC Public Works 	Public Works 	FMN 	Schools 
-Asheville	 Project 25 Phase I	 Asheville	Asheville Communications, Inc.	 LTR Standard	 Asheville	Asheville Regional Airport (AVL)	 NXDN NEXEDGE 4800
- Fletcher	Biltmore Estate Police Department	 DMR Motorola Capacity Plus Single Site (TRBO)	 Asheville	Buncombe County	 Project 25 Phase II	 Asheville	Carolina Connect
- DMR Motorola Connect Plus (TRBO)	 Charlotte	Duke Energy Asheville Plant	 Motorola Type II Smartnet	 Skyland	North Carolina VIPER	 Project 25 Phase I	 Varies
-Progress Energy	 Motorola Type II SmartZone Omnilink	 Various	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	
+460.16250 	465.16250  	WPWZ319 	RM	103.5 PL	BC-EMS-DISP 	Buncombe EMS Dispatch 	FMN 	EMS Dispatch 
+463.10000 	468.10000  	KEG236 	RM	107.2 PL	BC-EMS-MED5 	Buncombe EMS - Patient Reports "MED-5" 	FMN 	Hospital 
+155.34000 	   	KEG236 	BM	179.9 PL	BC-EMS-340 	Buncombe EMS - Patient Reports "340 HEAR" 	FMN 	Hospital 
+154.81500 	158.99250  	KDC300 	RM	91.5 PL	BC-FIR-PAG 	Buncombe Fire Paging (Also Fire Backup) 	FMN 	Fire Dispatch 
+155.61000 	156.03000  	KDC300 	RM	103.5 PL	BC-FIR-COM 	Buncombe Fire Comm 	FMN 	Fire-Tac 
+158.80500 	155.64000  	KDC300 	RM	103.5 PL	BC-FIR-NET 	Buncombe Fire Mutual Aid Net 	FMN 	Fire-Tac 
+155.56500 	   	KDC300 	M	103.5 PL	BC-FG-1 	Buncombe Fireground 1 	FMN 	Fire-Tac 
+151.43000 	   	KDC300 	M	103.5 PL	BC-FG-2 	Buncombe Fireground 2 	FMN 	Fire-Tac 
+155.73000 	   	KDC300 	M	103.5 PL	BC-FG-3 	Buncombe Fireground 3 	FMN 	Fire-Tac 
+158.86500 	   	KDC300 	M	103.5 PL	BC-FG-4 	Buncombe Fireground 4 	FMN 	Fire-Tac 
+45.32000 	   	KDK638 	B	127.3 PL	BC-FIR-DSP 	Buncombe Fire Dispatch 	FM 	Fire Dispatch 
+154.28000 	   	 	M	CSQ	STATE-FIRE 	State Fire 	FMN 	Fire-Talk 
+155.28000 	   	KEG236 	M	CSQ	STATE-EMS 	State EMS/Rescue "280" 	FMN 	EMS-Talk 
+155.16000 	   	 	M	CSQ	SAR-COMMON 	SAR Common 	FMN 	Emergency Ops 
+155.56500 	   	WPJT733 	BM	167.9 PL	SKYLAND-XMTR 	Buncombe Fire - Skyland Rebroadcast 	FMN 	Fire Dispatch 
+154.06250 	156.05250  	KDC300 	RM	103.5 PL	BC FIR MED 	Buncombe Fire Med 	FMN 	Fire-Tac 
+155.86500 	154.90500  	WPMW778 	RM	136.5 PL	BARN/JUP-VFD 	Barnardsville/Jupiter Repeater 	FMN 	Fire-Talk 
+151.40750 	159.45000  	WQKF270 	RM	251 DPL	BRD-RVR-VFD 	Broad River Repeater 	FMN 	Fire-Talk 
+154.14500 	151.01000  	WQIA441 	RM	167.9 PL	ENKA-VFD 	Enka Repeater 	FMN 	Fire-Talk 
+159.36250 	155.76000  	WQCB291 	RM	125 DPL	FAIRVIEW-VFD 	Fairview Repeater 	FMN 	Fire-Talk 
+155.00250 	154.21250  	WPRF784 	RM	85.4 PL	FRNCH-BRD-FD 	French Broad Repeater 	FMN 	Fire-Talk 
+154.38500 	159.45750  	WQHC403 	RM	464 DPL	LEICSTER-VFD 	Leicester Repeater 	FMN 	Fire-Talk 
+154.32500 	153.83000  	WPDP989 	RM	136.5 PL	REEMS-CRK-VF 	Reems Creek Repeater 	FMN 	Fire-Talk 
+154.17500 	151.08500  	WPQB464 	RM	136.5 PL	REYNOLDS-VFD 	Reynolds Repeater 	FMN 	Fire-Talk 
+154.29500 	153.96500  	WQBD633 	RM	136.5 PL	RICEVILLE-VF 	Riceville Repeater 	FMN 	Fire-Talk 
+154.35500 	151.11500  	WPHE287 	RM	136.5 PL	SKYLAND-VFD 	Skyland Repeater 	FMN 	Fire-Talk 
+155.86500 	   	 	BM	151.4 PL	SWANNANOA FD 	Swannanoa Ops 	FMN 	Fire-Talk 
+155.07750 	159.29250  	WQJH956 	RM	125 DPL	UPR-HMNY-VFD 	Upper Hominy Repeater 	FMN 	Fire-Talk 
+154.79250 	151.03250  	KNNN908 	RM	516 DPL	WEST-BUNC-VF 	West Buncombe Repeater 	FMN 	Fire-Talk 
+155.40750 	158.94750  	WPRG958 	RM	136.5 PL	WOODFIN-VFD 	Woodfin Repeater 	FMN 	Fire-Talk 
+45.10000 	46.52000  	KJH207 	RM	127.3 PL	BCS Maint 45 	Buncombe Schools - Maintenance 	FM 	Schools 
+46.56000 	45.98000  	KJH207 	RM	127.3 PL	BCS Maint 46 	Buncombe Schools - Maintenance 	FM 	Schools 
+458.45000 	   	 	M		ClydeErwin45 	Clyde Erwin Middle School 	FMN 	Schools 
+458.85000 	   	 	M		ClydeErwin85 	Clyde Erwin Middle School 	FMN 	Schools 
+151.83500 	   	WYB599 	BM	CSQ	ABTC 151.835 	Asheville-Buncombe Technical College 	FMN 	Schools 
+158.84000 	   	 	BM	131.8 PL	ABTC PD 2 	Asheville-Buncombe Technical College Police Ch. 2 	FMN 	Law Tac 
+159.91500 	158.34000  	WPMN371 	RM	131.8 PL	ABTC Securty 	Asheville-Buncombe Technical College Security 	FMN 	Security 
+155.89500 	154.10000  	WPMZ440 	RM	186.2 PL	BC-AIR 	Buncombe Air Quality/Pollution Control 	FMN 	Public Works 
+156.17250 	151.12250  	WPYR318 	RM		BC-LANDFILL 	Buncombe Landfill 	FMN 	Public Works 
+770.96250 	800.96250  	 	RM	711 NAC	DVRS Buncombe 	Digital Vehicular Repeater System 	P25 	Interop 
+453.60000 	   	WPPC692 	BM		WNCNatureCtr 	Western North Carolina Nature Center 	FMN 	Public Works 
+154.04000 	   	WNUS397 	RM	263 DPL	WNC AgCenter 	WNC Agricultural Center 	FMN 	Public Works 
+159.49500 	   	 		CSQ	WNCAC 159.49 	Fair Security 	FM 	Security 
+159.51000 	   	 		CSQ	WNCAC 159.51 	Fair Security 	FM 	Security 
+159.70500 	   	 		CSQ	WNCAC 159.70 	Fair Security 	FM 	Security 
+160.00500 	   	 		CSQ	WNCAC 160.00 	Fair Security 	FM 	Security 
+160.14750 	   	 		CSQ	WNCAC 160.14 	Fair Security 	FM 	Security 
+158.82000 	153.92000  	WPWW256 	RM	151.4 PL	AFD-DISP 	Asheville Fire Dispatch (Patched to TRS) 	FMN 	Fire Dispatch 
+851.06250 	   	 	M	67.0 PL	AFD-T/A 	Asheville Fire Talkaround 	FMN 	Fire-Talk 
+460.46250 	465.46250  	WPNP645 	RM	051 DPL	AshevHousing 	Asheville Housing Authority 	FMN 	Public Works 
+152.40500 	   	WQKI344 	BM	411 DPL	AVL Schools 	Asheville Schools 	FMN 	Schools 
+155.88000 	158.31000  	KNGB485 	RM	107.2 PL	BLTFRST-PD1 	Biltmore Forest Police 1 	FMN 	Law Dispatch 
+155.94000 	153.90500  	KNGB485 	RM	151.4 PL	BLTFRS-PD2 	Biltmore Forest Police 2 	FMN 	Law Tac 
+155.32500 	154.01750  	WPQZ708 	RM	203.5 PL	BLK-MTN-FD 	Black Mountain Fire Dispatch 	FMN 	Fire Dispatch 
+156.21000 	154.71000  	KTL560 	RM	118.8 PL	BLK-MTN-PD 	Black Mountain Police Dispatch 	FMN 	Law Dispatch 
+155.92500 	154.98000  	WPMD396 	RM	136.5 PL	WEAVERVL-VFD 	Weaverville Repeater 	FMN 	Fire-Talk 
+155.77500 	   	WPQG610 	RM	167.9 PL	WEAVERVL-PD1 	Weaverville Police 1 	FMN 	Law Dispatch 
+155.06250 	153.86000  	WPQG610 	RM		WEAVERVL-PD2 	Weaverville Police 2 	FMN 	Law Tac 
+453.95000 	458.95000  	WPGA889 	RM		WEAVER-PW-1 	Weaverville Public Works 1 	FM 	Public Works 
+453.10000 	458.10000  	WPGA889 	RM		WEAVER-PW-2 	Weaverville Public Works 2 	FM 	Public Works 
+453.25000 	   	WPGA889 	M		WEAVER-PW-3 	Weaverville Public Works Radio-to-Radio 	FM 	Public Works 
+154.05500 	   	KFE408 	RM	151.4 PL	WFINPDTA 	Woodfin Police Talk Around  	FM 	Law Tac 
+155.52000 	   	WPRR848 	RM	115 DPL	WOOD PW 	Public Works 	FM 	Public Works 
+462.68750 	   	 	BM	77.0 PL	MC Howerton DH 	Howerton Dining Hall 	FMN 	Schools 
+464.32500 	469.32500  	WPGK858 	RM	526 DPL	MC Public Works 	Public Works 	FMN 	Schools 
+Asheville	 Project 25 Phase I	 Asheville	Asheville Communications, Inc.	 LTR Standard	 Asheville	Asheville Regional Airport (AVL)	 NXDN NEXEDGE 4800	 Fletcher
+Biltmore Estate Police Department	 DMR Motorola Capacity Plus Single Site (TRBO)	 Asheville	Buncombe County	 Project 25 Phase II	 Asheville	Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte
+Duke Energy Asheville Plant	 Motorola Type II Smartnet	 Skyland	Progress Energy	 Motorola Type II SmartZone Omnilink	 Various	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville

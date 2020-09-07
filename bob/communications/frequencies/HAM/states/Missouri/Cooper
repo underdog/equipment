@@ -1,32 +1,31 @@
-153.92000 	KOM383 	RM	203.5 PL	Cooper Sheriff  	Sheriff: Dispatch (R on reverse freqs) 	FMN 	Law Dispatch 
-151.11500 	KOM383 	RM		911/Sheriff3 	911/Sheriff 	FMN 	Multi-Dispatch 
-155.70750 	KOM383 	RM		911/Sheriff4 	911/Sheriff 	FMN 	Multi-Dispatch 
-155.80500 	KOM383 	RM	233.6 PL	Cooper Fire 	Fire: Dispatch (or 153.74 input) 	FMN 	Fire Dispatch 
-155.52750 	KOM383 	RM	233.6 PL	Coop FD/PWks 	Fire / Public Works 	FMN 	Multi-Dispatch 
-453.41250 	KOM383 	F		911/Fire RF1 	Remote Links for 911 	FMN 	Multi-Dispatch 
-453.66250 	KOM383 	F		911/Fire RF2 	Remote Links for 911 	FMN 	Multi-Dispatch 
-453.81250 	KOM383 	F		911/Fire RF3 	Remote Links for 911 	FMN 	Multi-Dispatch 
-458.41250 	KOM383 	F		911/Fire RF4 	Remote Links for 911 	FMN 	Multi-Dispatch 
-458.66250 	KOM383 	F		911/Fire RF5 	Remote Links for 911 	FMN 	Multi-Dispatch 
-458.81250 	KOM383 	F		911/Fire RF6 	Remote Links for 911 	FMN 	Multi-Dispatch 
-154.32500 	WNSN365 	BM	100.0 PL	Coop FireTac 	Fire: Tactical 	FMN 	Fire-Tac 
-155.80500 	 	RM	233.6 PL	Cooper Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.32500 	WNSN365 	RM	100.0 PL	Coop FireTac 	Fire: Tactical 	FMN 	Fire Dispatch 
-153.83000 	WNSN365 	M		Cooper FG 2 	Fireground 	FMN 	Fire-Tac 
-153.95000 	WNSN365 	M		Cooper FG 3 	Fireground 	FMN 	Fire-Tac 
-153.74000 	 	M		Cooper FG 4 	Fire 	FMN 	Fire-Tac 
-155.02500 	WQBC928 	BM	100.0 PL	CCMH Paging 	Paging 	FMN 	Business 
-155.34000 	WQBC928 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
-155.49000 	WPYD355 	RM	94.8 PL	BoonvPolice1 	Police: Dispatch 	FMN 	Law Dispatch 
-154.04000 	KDQ210 	BM	100.0 PL	BoonvPolice2 	Police 	FMN 	Law Dispatch 
-154.37000 	KAH377 	BM		Boonv Fire 	Fire 	FMN 	Fire Dispatch 
-155.49000 	WPYD355 	BM	CSQ	Boonv PubWrk 	Services 	FMN 	Public Works 
-952.70625 	WQLK696 	F		Boonv WDD 	Data (at WWP Repeater) 	Telm 	Data 
-154.23500 	WNYJ716 	M		Bunceton Fire  	Fire 	FMN 	Fire Dispatch 
-154.37000 	WNFS607 	BM		Boonv Fire 	Fire 	FMN 	Fire Dispatch 
-155.28000 	WPGT789 	BM		CprR4 SchBus 	Buses 	FMN 	Schools 
-155.17500 	WPTB404 	BM		FS Bus Coopr 	School Buses (also Sedalia-Pettis) 	FMN 	Schools 
-47.58000 	WPJK986 	BM		CooperCoVet 	Cooper County Animal Hospital 	FM 	Business 
-153.20750 	WQJQ821 	RM	107.2 PL	Alpers Farms 	Alpers Brothers Farms 	FMN 	Business 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Isle of Capri Casino (Boonville)	 LTR Standard	 Boonville	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)
- Various	
+153.92000 	155.89500  	KOM383 	RM	203.5 PL	Cooper Sheriff  	Sheriff: Dispatch (R on reverse freqs) 	FMN 	Law Dispatch 
+151.11500 	153.99500  	KOM383 	RM		911/Sheriff3 	911/Sheriff 	FMN 	Multi-Dispatch 
+155.70750 	159.15750  	KOM383 	RM		911/Sheriff4 	911/Sheriff 	FMN 	Multi-Dispatch 
+155.80500 	153.99500  	KOM383 	RM	233.6 PL	Cooper Fire 	Fire: Dispatch (or 153.74 input) 	FMN 	Fire Dispatch 
+155.52750 	158.94750  	KOM383 	RM	233.6 PL	Coop FD/PWks 	Fire / Public Works 	FMN 	Multi-Dispatch 
+453.41250 	   	KOM383 	F		911/Fire RF1 	Remote Links for 911 	FMN 	Multi-Dispatch 
+453.66250 	   	KOM383 	F		911/Fire RF2 	Remote Links for 911 	FMN 	Multi-Dispatch 
+453.81250 	   	KOM383 	F		911/Fire RF3 	Remote Links for 911 	FMN 	Multi-Dispatch 
+458.41250 	   	KOM383 	F		911/Fire RF4 	Remote Links for 911 	FMN 	Multi-Dispatch 
+458.66250 	   	KOM383 	F		911/Fire RF5 	Remote Links for 911 	FMN 	Multi-Dispatch 
+458.81250 	   	KOM383 	F		911/Fire RF6 	Remote Links for 911 	FMN 	Multi-Dispatch 
+154.32500 	   	WNSN365 	BM	100.0 PL	Coop FireTac 	Fire: Tactical 	FMN 	Fire-Tac 
+155.80500 	   	 	RM	233.6 PL	Cooper Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.32500 	158.86500  	WNSN365 	RM	100.0 PL	Coop FireTac 	Fire: Tactical 	FMN 	Fire Dispatch 
+153.83000 	   	WNSN365 	M		Cooper FG 2 	Fireground 	FMN 	Fire-Tac 
+153.95000 	   	WNSN365 	M		Cooper FG 3 	Fireground 	FMN 	Fire-Tac 
+153.74000 	   	 	M		Cooper FG 4 	Fire 	FMN 	Fire-Tac 
+155.02500 	   	WQBC928 	BM	100.0 PL	CCMH Paging 	Paging 	FMN 	Business 
+155.34000 	   	WQBC928 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+155.49000 	159.37500  	WPYD355 	RM	94.8 PL	BoonvPolice1 	Police: Dispatch 	FMN 	Law Dispatch 
+154.04000 	   	KDQ210 	BM	100.0 PL	BoonvPolice2 	Police 	FMN 	Law Dispatch 
+154.37000 	   	KAH377 	BM		Boonv Fire 	Fire 	FMN 	Fire Dispatch 
+155.49000 	   	WPYD355 	BM	CSQ	Boonv PubWrk 	Services 	FMN 	Public Works 
+952.70625 	   	WQLK696 	F		Boonv WDD 	Data (at WWP Repeater) 	Telm 	Data 
+154.23500 	   	WNYJ716 	M		Bunceton Fire  	Fire 	FMN 	Fire Dispatch 
+154.37000 	   	WNFS607 	BM		Boonv Fire 	Fire 	FMN 	Fire Dispatch 
+155.28000 	   	WPGT789 	BM		CprR4 SchBus 	Buses 	FMN 	Schools 
+155.17500 	   	WPTB404 	BM		FS Bus Coopr 	School Buses (also Sedalia-Pettis) 	FMN 	Schools 
+47.58000 	   	WPJK986 	BM		CooperCoVet 	Cooper County Animal Hospital 	FM 	Business 
+153.20750 	160.02750  	WQJQ821 	RM	107.2 PL	Alpers Farms 	Alpers Brothers Farms 	FMN 	Business 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Isle of Capri Casino (Boonville)	 LTR Standard	 Boonville	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various

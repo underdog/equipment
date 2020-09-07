@@ -1,195 +1,195 @@
-857.96250 	WPKX415 	M		CC Police D1 	Police Direct 1 	P25 	Law Talk 
-858.96250 	WPKX415 	M		CC Police D2 	Police Direct 2 	P25 	Law Talk 
-852.38750 	WPUE428 	RM	100.0 PL	CCSO JC Rpt 	County Sheriff - Justice Center Repeater 	FM 	Law Talk 
-852.82500 	WQBN802 	RM	100.0 PL	CCSO GSC Rpt 	County Sheriff - GSC Repeater 	FM 	Law Talk 
-500.88750 	KXS844 	RM	97.4 PL	CC PrisonUHF 	County Prison (Pocopson) 	FMN 	Corrections 
-852.57500 	WPUE333 	RM	100.0 PL	CC PrisonRpt 	County Prison Repeater 	FM 	Corrections 
-852.57500 	WPUE333 	M		CC Prison D1 	County Prison Direct 1 	P25 	Corrections 
-852.07500 	WPUE333 	M		CC Prison D2 	County Prison Direct 2 	P25 	Corrections 
-853.80000 	WPUE333 	M	293 NAC	CC EMA Dir 	EMA Direct Digital 	P25 	Emergency Ops 
-859.96250 	WPKX415 	M	293 NAC	CC EMA ShltD 	EMA Shelter Direct 	P25 	Emergency Ops 
-160.18500 	WPGM325 	B	CSQ	CC Fire Disp 	Fire/EMS Dispatch (voice pagers) 	FMN 	Fire Dispatch 
-159.60000 	WPGM291 	B	CSQ	CC FD West 	West Fire Ops (TRS rebroadcast for pagers) 	FMN 	Fire-Tac 
-159.73500 	WPJM359 	B	CSQ	CC FD E/Cent 	East/Central Fire Ops (TRS rebroadcast for pagers) 	FMN 	Fire-Tac 
-856.46250 	WPKX415 	M	100.0 PL	CC Fire FD1  	Fire FD 1  	FM 	Fire-Talk 
-858.46250 	WPKX415 	M	100.0 PL	CC Fire FD2  	Fire FD 2  	FM 	Fire-Talk 
-852.80000 	WPUE428 	M	293 NAC	CC Fire D1 	Fire Direct 1 	P25 	Fire-Talk 
-852.96250 	WQBN802 	M	293 NAC	CC Fire D2 	Fire Direct 2 	P25 	Fire-Talk 
-859.46250 	WPKX415 	M	100.0 PL	CC FPol A 	Fire Police Analog 	FM 	Fire-Talk 
-852.05000 	WPSN958 	M	293 NAC	CC FPol D 	Fire Police Digital 	P25 	Fire-Talk 
-856.03750 	WQHE606 	M	350 NAC	CC EMS D1 	EMS Direct 1 	P25 	EMS-Talk 
-856.98750 	KNNM504 	M	350 NAC	CC EMS D2 	EMS Direct 2 	P25 	EMS-Talk 
-852.45000 	WPWA449 	M	293 NAC	CC Resq TF D 	Rescue Taskforce Direct 	P25 	Fire-Talk 
-853.30000 	WPUE333 	M	293 NAC	CC FireTF D 	Fire Taskforce Direct 	P25 	Fire-Talk 
-853.60000 	WQBN802 	M	293 NAC	CC EMS TF D  	EMS Taskforce Direct 	P25 	EMS-Talk 
-855.98750 	WPHC512 	M	293 NAC	CC IST Direc 	Incident Support Team (IST) Direct 	P25 	Multi-Tac 
-856.03750 	WQHE606 	M	293 NAC	CC FDTrainD1 	Fire Training Direct 1 	P25 	Fire-Talk 
-856.98750 	KNNM504 	M	293 NAC	CC FDTrainD2 	Fire Training Direct 2 	P25 	Fire-Talk 
-851.51250 	WPFQ222 	RM	110.9 PL	CC 8Ches91 	Interagency Ops 1 	FM 	Interop 
-852.01250 	WPFQ222 	RM	110.9 PL	CC 8Ches92 	Interagency Ops 2 	FM 	Interop 
-852.51250 	WPFQ222 	RM	110.9 PL	CC 8Ches93 	Interagency Ops 3 	FM 	Interop 
-853.01250 	WPFQ222 	RM	110.9 PL	CC 8Ches94 	Interagency Ops 4 	FM 	Interop 
-856.96250 	WPKX415 	M	293 NAC	CC MA FD/PD  	Fire/Police/EMS Mutual Aid Channel 	P25 	Interop 
-860.96250 	WPKX415 	RM	100.0 PL	CC Event Twr 	Events Repeater (Mobile Tower) and Simplex 	FM 	Interop 
-462.00000 	WRDE240 	RM	85.4 PL	AFC 23 Fire Rptr 	Avondale Fire Repeater 	FMN 	Fire-Tac 
-158.82000 	KNAI206 	BM	174 DPL	Caln PW 	Public Works 	FM 	Public Works 
-153.80000 	WNAB766 	BM	71.9 PL	Coatsvl PD 	Police Local 	FM 	Law Talk 
-154.16000 	WQG795 	BM	192.8 PL	Coatsvl FD 	Fire Local 	FM 	Fire-Tac 
-155.04000 	KNHG438 	BM		Coatsvl PW 	City Services 	FM 	Public Works 
-158.80500 	KNAW979 	RM	71.9 PL	Dtown PD/PW 	Police Local/Public Works 	FMN 	Law Talk 
-154.31000 	KGA366 	RM	71.9 PL	Dtown FD/FP Ops 	Fire Local/Fire Police 	FMN 	Multi-Talk 
-155.29500 	KGA366 	RM	186.2 PL	Dtown FD/EMS 	Fire/EMS Tac 	FMN 	EMS-Talk 
-155.29500 	KGA366 	RM	71.9 PL	Dtown FD/EMS 	Fire /EMS Tac 	FMN 	EMS-Talk 
-159.14250 	WPDP839 	RM		EBradford PW 	PW/ Roads 	FMN 	Public Works 
-151.49000 	WPUT610 	RM	110.9 PL	EBrandywn FC 	East Brandywine Fire Company 	FMN 	Fire-Talk 
-154.54000 	 	RM	110.9 PL	EBrandywn FC 	East Brandywine Fire Company 	FMN 	Fire-Talk 
-155.65500 	WQPU681 	RM		E Brndywn PD 	Police Local 	FMN 	Law Talk 
-155.88750 	WPMM472 	BM		Goshen FD FG 	Goshen Fire Co. - Fireground ops 	FM 	Fire-Tac 
-155.88750 	WPMM472 	BM	731 DPL	Goshen FD FP 	Goshen Fire Co. - Fire Police ops 	FM 	Fire-Talk 
-154.07000 	WPMM472 	BM	731 DPL	Goshen EMS 	Goshen Fire Co. - EMS ops 	FM 	EMS-Talk 
-158.98500 	WPAY356 	BM	167.9 PL	E Goshen PW 	Public Works 	FMN 	Public Works 
-151.11500 	WPLE934 	RM	151.4 PL	EMarl Twp PW 	Public Works 	FMN 	Public Works 
-453.38750 	WPOZ661 	RM	025 DPL	Longwood FC 	Longwood Fire Comapny 	FM 	Fire-Talk 
-453.42500 	WPWP223 	RM	306 DPL	PoMarLin FC 	Po Mar Lin Fire Company 	FM 	Fire-Talk 
-159.18000 	WPVJ485 	RM	71.9 PL	E Notting PW 	Public Works 	FMN 	Public Works 
-855.81250 	WQRL377 	RM	123.0 PL	Kimberton 	Kimberton Fire Co Repeater 	FM 	Fire-Talk 
-154.26500 	KGF753 	BM	167.9 PL	E Whtlnd VFA 	East Whiteland Volunteer Fire Association 	FM 	Fire-Talk 
-154.29500 	KGF753 	BM	71.9 PL	E Whtlnd VFA 	East Whiteland Volunteer Fire Association 	FM 	Fire-Talk 
-460.26250 	WPTB446 	RM		E Whtlnd PW 	East Whiteland Twp. - Public Works 	FM 	Public Works 
-460.06250 	KVG806 	RM	186.2 PL	Berwyn Tac 	Berwyn Fire Co. - UHF Ops Repeater 	FMN 	Fire-Talk 
-458.77500 	KVG806 	BM	114.8 PL	Berwyn XBand 	Berwyn Fire Co. - Crossband repeater on apparatus links UHF freq to Chesco FD-1, Interops 4 as needed) 	FMN 	Fire-Talk 
-45.64000 	KLO355 	BM		Easttown PW 	Public Works 	FM 	Public Works 
-153.89750 	 	M	032 DPL	Twin Vly FP 	Twin Valley Fire Fire Police 	FMN 	Fire-Talk 
-155.40000 	WPZP656 	RM	632 DPL	Twin Vly FD 	Twin Valley FD Repeater 	FMN 	Fire-Talk 
-151.36250 	KCE685 	RM	343 DPL	Honey Brk PW 	Public Works 	FMN 	Public Works 
-158.83500 	KLM765 	BM		Kennett SqPW 	Public Works 	FMN 	Public Works 
-155.95500 	WQS456 	RM		Kennett PW 	Township Operations 	FMN 	Public Works 
-463.47500 	KNJA355 	BM	88.5 PL	Lndndery DPW 	Public Works 	FMN 	Public Works 
-155.30250 	KNEJ768 	RM	146.2 PL	Mlvrn FC Rpt 	Malvern Fire Co. 	FMN 	Fire-Talk 
-155.30250 	KNEJ768 	M	186.2 PL	Mlvrn FC 	Malvern Fire Co. 	FMN 	Fire-Talk 
-155.40000 	KNEJ768 	M	146.2 PL	Mlvrn FC 	Malvern Fire Co. 	FMN 	Fire-Talk 
-500.71250 	WIM542 	RM	97.4 PL	Oxford FD 	Oxford FD 	FMN 	Fire-Talk 
-156.10500 	WNYY763 	RM	203.5 PL	Pennsbury PW 	Public Works 	FMN 	Public Works 
-155.71500 	KLK681 	BM	71.9 PL	Phoenixvl PD 	Police Local 	FMN 	Law Talk 
-45.56000 	KDN943 	BM		Phoenixvl PW 	Public Works 	FM 	Public Works 
-153.14000 	WPYL793 	RM	306 DPL	Dive 77 Rptr 	Friendship Diving Rescue Unit 	FMN 	Fire-Talk 
-151.08500 	WNPI593 	RM	025 DPL	Pocopson PW 	Public Works Operations 	FMN 	Public Works 
-154.39250 	 	B	100.0 PL	PFC EastFire 	East Fire Rebroadcast from Chester Co TRS 	FMN 	Fire-Tac 
-460.43750 	WQVR886 	RM	103.5 PL	Paoli Fire Tac 	Paoli Fire Co Tac 	FMN 	Fire-Tac 
-458.30000 	WQIF419 	M	71.9 PL	TredyffrinPD 	Police Tac 	FMN 	Law Talk 
-460.13750 	WQIF419 	RM	127.3 PL	TredyffrinPD 	Police/EOC Repeater 	FMN 	Law Talk 
-460.21250 	WQIF419 	M	71.9 PL	TredyffrinPD 	Police Tac 	FMN 	Law Talk 
-151.07000 	WNKH490 	BM	71.9 PL	U Oxford DPW  	Public Works 	FMN 	Public Works 
-500.43750 	WIE854 	RM	186.2 PL	Upr Uwchlan 	Police / Twp 	FMN 	Law Talk 
-500.96250 	WIK389 	RM	156.7 PL	Lionville FC 	Lionville Fire Co 	FMN 	Fire-Talk 
-500.66250 	WIL333 	RM	131.8 PL	Uwchlan PD 	Police 	FMN 	Law Talk 
-500.96250 	WIK389 	RM	146.2 PL	Uwchlan PW 	Public Works 	FMN 	Public Works 
-155.36250 	WPMQ287 	RM	103.5 PL	Westwood FC 	Westwood Fire Co. 	FMN 	Fire-Talk 
-151.28000 	WQSC719 	RM	CC 11TG *SL 1	Wallace PW 	Public Works Repeater 	DMR 	Public Works 
-151.28000 	WQSC719 	M	CC 11TG *SL 1	Wallace PW T/A 	Public Works Talkaround 	DMR 	Public Works 
-154.80000 	WQSF730 	RM	343 DPL	GMFC Rptr 	Glen Moore Fire Co VHF Repeater 	FMN 	Fire-Tac 
-154.89750 	WQSF730 	M	343 DPL	GMFC VHF T/A 	Glen Moore Fire Co VHF Talkaround 	FMN 	Fire-Tac 
-151.05500 	WPAK260 	RM		Warwick Twp 	Warwick Township 	FMN 	Public Works 
-154.51500 	WQQZ768 	RM	371 DPL	Wst Brndywn 	Police/Twp Services 	FMN 	Law Talk 
-156.24000 	WNAV277 	RM	186.2 PL	W Caln PW 	Public Works 	FMN 	Public Works 
-500.41250 	KWQ485 	RM	293 NAC	WCPD 1/2D 	Police Dispatch 1 Repeater / Talkaround 2 Simplex - Digital 	P25 	Law Dispatch 
-500.41250 	KWQ485 	RM	97.4 PL	WCPD 1/2A 	Police Dispatch 1 Repeater / Talkaround 2 Simplex - Analog 	FM 	Law Dispatch 
-500.51250 	KWQ485 	RM	293 NAC	WCPD 3/4D 	Police Operations 3 Repeater / 4 Simplex - Digital 	P25 	Law Tac 
-500.51250 	KWQ485 	RM	97.4 PL	WCPD 3/4A 	Police Operations 3 Repeater / 4 Simplex - Analog 	FM 	Law Tac 
-48.40000 	WNMA859 	BM	156.7 PL	WC Sanitatn 	Sanitation trucks 	FM 	Public Works 
-463.66250 	WQHA304 	RM	624 DPL	WC Parking 	Parking Enforcement 	FM 	Public Works 
-153.96500 	WPPE572 	BM	71.9 PL	W Fallow DPW  	Public Works 	FMN 	Public Works 
-46.52000 	KFM406 	BM	123.0 PL	W Goshen PW 	Public Works 	FM 	Public Works 
-158.74500 	KRZ861 	RM	71.9 PL	W Goshen PD 	Police / Services 	FMN 	Multi-Talk 
-155.14500 	WPUT955 	BM		W Grove PW 	Township Services 	FMN 	Public Works 
-463.42500 	WNGY331 	RM	100.0 PL	W Grove Fire 	West Grove Fire Company 	FMN 	Fire-Talk 
-460.42500 	KGD597 	RM	100.0 PL	W Grove Fire TA 	West Grove Fire Co Talkaround 	FMN 	Fire-Talk 
-155.52000 	WPJM586 	BM	71.9 PL	W Sadsbury DPW  	Public Works 	FMN 	Public Works 
-158.97000 	KNNL722 	BM		WW PD/FP 	Police and Fire Police 	FM 	Interop 
-500.43750 	WIE854 	RM	127.3 PL	WW PW/Roads 	Public Works & Roads 	FMN 	Public Works 
-155.82000 	KQO365 	M	71.9 PL	Willistown 	Willistown Twp. - Police  	FM 	Law Talk 
-452.38750 	WPKI804 	RM	151.4 PL	AGHS Ops 	High School 	FMN 	Schools 
-452.52500 	 	RM	151.4 PL	AGSD 4 	AGSD Channel 4 	FMN 	Schools 
-463.62500 	WPKI804 	RM	131.8 PL	AGSD Buses 	Buses 	FMN 	Schools 
-462.26250 	WQOE230 	M		DASD HSW Ops 	High School West - Ops 	FMN 	Schools 
-464.83750 	WQOE230 	M		DASD HSW Admin 	High School West - Admin 	FMN 	Schools 
-467.26250 	WQOE230 	M		DASD HSW Sec 	High School West - Security 	FMN 	Security 
-469.83750 	WQOE230 	M		DASD STEM 	STEM Academy 	FMN 	Schools 
-462.25000 	KNJA355 	RM	167.9 PL	OASD Buses 	Transportation 	FMN 	Schools 
-468.41250 	WQUF825 	M	127.3 PL	OASD Ops 	School Operations 	FMN 	Schools 
-451.45000 	WPML925 	RM	CC 14TG 1400SL 1	TE School Buses 	Buses 	DMR 	Schools 
-451.02500 	WPTF871 	RM	CC 10TG 1SL 1	BH Ops 	Operations 	DMR 	Hospital 
-461.08750 	KB90345 	RM	103.5 PL	CCH Sec  	Security 	FMN 	Security 
-461.82500 	WQEP618 	RM	103.5 PL	CCH Mnt/ES  	Maintenance & Environmental Services 	FMN 	Hospital 
-451.83750 	KB90345 	RM	103.5 PL	Hosp FoodSvc 	Food Services 	FMN 	Hospital 
-462.75000 	KB90345 	BM	103.5 PL	Hosp Unknown 	Unknown Use 	FMN 	Hospital 
-453.87500 	KKD503 	RM	156.7 PL	PA DMVA Ops 	Operations 	FMN 	Hospital 
-461.78750 	WQJP899 	RM	174 DPL	DMVA Maint 	Maintenance/Housekeeping 	FMN 	Hospital 
-463.53750 	WQJP899 	RM	223 DPL	DMVA Security 	Security 	FMN 	Security 
-463.26250 	WPYV480 	RM	CC 9TG 31SL 1	PaoliHosp Sec1 	Security Primary 	DMR 	Security 
-463.26250 	WPYV480 	RM	CC 9TG 32SL 2	PaoliHosp Sec2 	Security Talkaround 	DMR 	Security 
-461.83750 	WQZU221 	RM	173.8 PL	Phx Hosp Maint 	Maintenance 	FMN 	Hospital 
-451.68750 	WQZY375 	RM	CC 2TG 1SL 1	RCA PT Super 	Patient Supervision/Transport 	DMR 	Hospital 
-451.68750 	WQZY375 	RM	CC 2TG 1SL 2	RCA PT Facilitie 	Patient Facilities 	DMR 	Hospital 
-165.42500 	 	RM	293 NAC	VA Police 	Police 	P25e 	Law Talk 
-166.13750 	 	RM	173.8 PL	VA Fire 	Fire 	FMN 	Fire-Talk 
-166.71250 	 	RM	156.7 PL	VA Maint 	Maintenance 	FMN 	Public Works 
-121.40000 	 	BM	CSQ	Brandy WX 	Airport Weather 	AM 	Aircraft 
-123.07500 	 	BM	CSQ	Brandy CTAF 	CTAF/Unicom 	AM 	Aircraft 
-122.70000 	 	BM	CSQ	Carlson CTAF 	CTAF/Unicom 	AM 	Aircraft 
-126.25000 	 	BM	CSQ	Carlson WX  	Airport Weather 	AM 	Aircraft 
-128.95000 	 	BM	CSQ	Sikorsky AA 	Sikorsky Global Helicopters Air-to-Air 	AM 	Aircraft 
-452.27500 	WQFB346 	BM		Aviation Srv 	Landmark Aviation Services 	FMN 	Business 
-123.05000 	 	BM	CSQ	NGT CTAF 	CTAF/Unicom 	AM 	Aircraft 
-125.60000 	 	BM	CSQ	NGT CLNC/DEL 	CLNC/DEL 	AM 	Aircraft 
-461.31250 	WPKB659 	RM	151.4 PL	Immac Univ 	Immaculata University 	FMN 	Schools 
-462.06250 	WQHI830 	RM	103.5 PL	WCU PD 	Police (Ch. 1) 	FMN 	Law Tac 
-464.28750 	WQHI830 	RM	91.5 PL	WCU EMS 	EMS (Ch. 2) 	FMN 	EMS-Tac 
-451.72500 	WPQF856 	RM	85.4 PL	WCU Maint 	Maintenance 	FMN 	Schools 
-452.01250 	WPQF856 	RM	123.0 PL	WCU Maint 	Maintenance 	FMN 	Schools 
-47.66000 	KZM741 	BM	100.0 PL	Broodmare Vet 	Broodmare Associates Veterinarian 	FM 	Business 
-152.37500 	WQBJ422 	RM	91.5 PL	Scotts 1 	The Scotts Company 	FMN 	Business 
-152.37500 	WQBJ422 	BM	94.8 PL	Scotts 2 	The Scotts Company 	FMN 	Business 
-463.48750 	WQXL676 	BM	CC 1TG *SL 1	To-Jo Mush 	To-Jo Mushrooms, Avondale 	DMR 	Business 
-462.50000 	WPTK894 	BM	127.3 PL	Barclay Home 	Barclay Friends Home 	FM 	Business 
-462.62500 	 	M	218.1 PL	GolfClubApts 	Golf Club Apartments - Maintenance 	FM 	Business 
-151.73000 	WQCL525 	M	114.8 PL	Hoover Treated W 	Hoover Treated Wood 	FMN 	Business 
-452.46250 	WQJM254 	RM	151.4 PL	Herr Foods O 	Herr Foods Ops 	FMN 	Business 
-461.53750 	WQJM254 	RM	CC 5TG 10SL *	Herr Foods Ops 	Herr Foods Ops 	DMR 	Business 
-461.53750 	WQJM254 	RM	065 DPL	Herr Foods O 	Herr Foods Ops 	FMN 	Business 
-463.53750 	WQTE768 	RM	192.8 PL	Tasty Baking 	Tasty Baking Company 	FMN 	Business 
-463.91250 	WQVI641 	RM	118.8 PL	Herr Foods O 	Herr Foods Ops 	FMN 	Business 
-464.57500 	WQTE768 	RM	77.0 PL	Tasty Baking 	Tasty Baking Company 	FMN 	Business 
-461.21250 	 	RM	047 DPL	LG Ext. Ops 	Outside Ops / Managers 	FM 	Business 
-461.90000 	 	RM	136.5 PL	LG Cnsv mgrs 	Conservatory Managers 	FM 	Business 
-461.90000 	 	RM	250.3 PL	LG Cnsrv ops 	Conservatory Operations 	FM 	Business 
-463.60000 	WPDA641 	RM	77.0 PL	LG Security 	Security 	FM 	Security 
-464.32500 	 	B	77.0 PL	LG WX warnin 	Weather Warning broadcast. 	FM 	Business 
-464.80000 	WPDA641 	RM	047 DPL	LG Maint/show 	Facilities Maintenance/Show control 	FM 	Business 
-464.45000 	WPIS884 	RM	203.5 PL	Krapf GVSD 	Krapf Bus - Great Valley School District Buses 	FMN 	Transportation 
-502.08750 	WNAM420 	RM	203.5 PL	Krapf Buses 	Krapf Bus - Glenmoore 	FMN 	Transportation 
-502.41250 	WPLP507 	RM	203.5 PL	Krapf Buses 	Krapf Bus - West Chester 	FMN 	Transportation 
-502.86250 	WPLP507 	RM	203.5 PL	Krapf Buses 	Krapf Bus - Devault 	FMN 	Transportation 
-502.93750 	WNAM420 	RM	203.5 PL	Krapf Buses 	Krapf Bus - Downingtown 	FMN 	Transportation 
-502.98750 	WNAM420 	RM	203.5 PL	Krapf Buses 	Krapf Bus - Coatesville 	FMN 	Transportation 
-43.06000 	KNDD542 	BM	186.2 PL	Schagrin Gas 	Schagrin Gas 	FM 	Business 
-173.22500 	WQCA275 	BM		TranscontGas 	Transcontinental Gas Pipeline Corp - Maintenance 	FMN 	Business 
-461.97500 	WPKJ249 	BM		Camping Inc 	Camping Inc 	FM 	Business 
-467.26250 	WPNX432 	M		HB Golf Course 	Honey Brook Golf Course 	FMN 	Business 
-467.75000 	 	M		Target Ch 1 	Target - Main Store Channel 	FMN 	Business 
-467.77500 	 	M		Target Ch 2 	Target - Backroom Ops 	FMN 	Business 
-467.92500 	 	M		Target Ch 3 	Target - Backup/Other 	FMN 	Business 
-467.90000 	 	M		Target Ch 4 	Target - Asset Protection Ops 	FMN 	Business 
-464.91250 	WQPE661 	RM	114.8 PL	ESM Manage 	Exton Square Mall - Mall Management 	FMN 	Business 
-461.48750 	WPPY474 	RM	CC 7TG *SL 1	A.Duie Pyle 	A.Duie Pyle (Enc) 	DMR 	Business 
-461.80000 	WPXW851 	RM	CC 1TG 1SL 1	SE Refuse 	Southeast Chesco Refuse (enc) 	DMR 	Business 
-451.50000 	WPIN596 	BM	210.7 PL	Common Tele 	Commonwealth Telephone Co 	FM 	Utilities 
-457.63750 	KD25830 	M	203.5 PL	PECO Crews 	PECO Line crews 	FM 	Utilities 
-457.66250 	KD25830 	M		PECO 	PECO 	FM 	Utilities 
-457.68750 	KD25830 	M		PECO 	PECO 	FM 	Utilities 
- Triangle Communications (Honeybrook)	 LTR Standard	 Honeybrook	Chester County Emergency Services	 Project 25 Phase II	 Chester County	Collegium Charter School	 NXDN Icom IDAS Type D
- Exton	Interstate Repeater System	 DMR Conventional Networked	 Various	Lancaster County-Wide Communications (LCWC)	 Project 25 Phase I	 Lancaster County	Mid-Atlantic Digital Radio Network
- DMR Motorola Connect Plus (TRBO)	 Various	Owen J Roberts School District	 NXDN Icom IDAS Type D	 Pottstown	PECO Energy	 Project 25 Phase I	 Philadelphia
-Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Southeastern Pennsylvania Transportation Authority (SEPTA)	 Motorola Type II Smartnet
- Various	Sunshine Communications (Eagleville)	 LTR Standard	 Eagleville	Sunshine Communications (Malvern)	 LTR Standard	 Malvern	Vanguard Group
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Malvern	
+857.96250 	   	WPKX415 	M		CC Police D1 	Police Direct 1 	P25 	Law Talk 
+858.96250 	   	WPKX415 	M		CC Police D2 	Police Direct 2 	P25 	Law Talk 
+852.38750 	807.38750  	WPUE428 	RM	100.0 PL	CCSO JC Rpt 	County Sheriff - Justice Center Repeater 	FM 	Law Talk 
+852.82500 	807.82500  	WQBN802 	RM	100.0 PL	CCSO GSC Rpt 	County Sheriff - GSC Repeater 	FM 	Law Talk 
+500.88750 	503.88750  	KXS844 	RM	97.4 PL	CC PrisonUHF 	County Prison (Pocopson) 	FMN 	Corrections 
+852.57500 	807.57500  	WPUE333 	RM	100.0 PL	CC PrisonRpt 	County Prison Repeater 	FM 	Corrections 
+852.57500 	   	WPUE333 	M		CC Prison D1 	County Prison Direct 1 	P25 	Corrections 
+852.07500 	   	WPUE333 	M		CC Prison D2 	County Prison Direct 2 	P25 	Corrections 
+853.80000 	   	WPUE333 	M	293 NAC	CC EMA Dir 	EMA Direct Digital 	P25 	Emergency Ops 
+859.96250 	   	WPKX415 	M	293 NAC	CC EMA ShltD 	EMA Shelter Direct 	P25 	Emergency Ops 
+160.18500 	   	WPGM325 	B	CSQ	CC Fire Disp 	Fire/EMS Dispatch (voice pagers) 	FMN 	Fire Dispatch 
+159.60000 	   	WPGM291 	B	CSQ	CC FD West 	West Fire Ops (TRS rebroadcast for pagers) 	FMN 	Fire-Tac 
+159.73500 	   	WPJM359 	B	CSQ	CC FD E/Cent 	East/Central Fire Ops (TRS rebroadcast for pagers) 	FMN 	Fire-Tac 
+856.46250 	   	WPKX415 	M	100.0 PL	CC Fire FD1  	Fire FD 1  	FM 	Fire-Talk 
+858.46250 	   	WPKX415 	M	100.0 PL	CC Fire FD2  	Fire FD 2  	FM 	Fire-Talk 
+852.80000 	   	WPUE428 	M	293 NAC	CC Fire D1 	Fire Direct 1 	P25 	Fire-Talk 
+852.96250 	   	WQBN802 	M	293 NAC	CC Fire D2 	Fire Direct 2 	P25 	Fire-Talk 
+859.46250 	   	WPKX415 	M	100.0 PL	CC FPol A 	Fire Police Analog 	FM 	Fire-Talk 
+852.05000 	   	WPSN958 	M	293 NAC	CC FPol D 	Fire Police Digital 	P25 	Fire-Talk 
+856.03750 	   	WQHE606 	M	350 NAC	CC EMS D1 	EMS Direct 1 	P25 	EMS-Talk 
+856.98750 	   	KNNM504 	M	350 NAC	CC EMS D2 	EMS Direct 2 	P25 	EMS-Talk 
+852.45000 	   	WPWA449 	M	293 NAC	CC Resq TF D 	Rescue Taskforce Direct 	P25 	Fire-Talk 
+853.30000 	   	WPUE333 	M	293 NAC	CC FireTF D 	Fire Taskforce Direct 	P25 	Fire-Talk 
+853.60000 	   	WQBN802 	M	293 NAC	CC EMS TF D  	EMS Taskforce Direct 	P25 	EMS-Talk 
+855.98750 	   	WPHC512 	M	293 NAC	CC IST Direc 	Incident Support Team (IST) Direct 	P25 	Multi-Tac 
+856.03750 	   	WQHE606 	M	293 NAC	CC FDTrainD1 	Fire Training Direct 1 	P25 	Fire-Talk 
+856.98750 	   	KNNM504 	M	293 NAC	CC FDTrainD2 	Fire Training Direct 2 	P25 	Fire-Talk 
+851.51250 	806.51250  	WPFQ222 	RM	110.9 PL	CC 8Ches91 	Interagency Ops 1 	FM 	Interop 
+852.01250 	807.01250  	WPFQ222 	RM	110.9 PL	CC 8Ches92 	Interagency Ops 2 	FM 	Interop 
+852.51250 	807.51250  	WPFQ222 	RM	110.9 PL	CC 8Ches93 	Interagency Ops 3 	FM 	Interop 
+853.01250 	808.01250  	WPFQ222 	RM	110.9 PL	CC 8Ches94 	Interagency Ops 4 	FM 	Interop 
+856.96250 	   	WPKX415 	M	293 NAC	CC MA FD/PD  	Fire/Police/EMS Mutual Aid Channel 	P25 	Interop 
+860.96250 	815.96250  	WPKX415 	RM	100.0 PL	CC Event Twr 	Events Repeater (Mobile Tower) and Simplex 	FM 	Interop 
+462.00000 	467.00000  	WRDE240 	RM	85.4 PL	AFC 23 Fire Rptr 	Avondale Fire Repeater 	FMN 	Fire-Tac 
+158.82000 	   	KNAI206 	BM	174 DPL	Caln PW 	Public Works 	FM 	Public Works 
+153.80000 	   	WNAB766 	BM	71.9 PL	Coatsvl PD 	Police Local 	FM 	Law Talk 
+154.16000 	   	WQG795 	BM	192.8 PL	Coatsvl FD 	Fire Local 	FM 	Fire-Tac 
+155.04000 	   	KNHG438 	BM		Coatsvl PW 	City Services 	FM 	Public Works 
+158.80500 	153.93500  	KNAW979 	RM	71.9 PL	Dtown PD/PW 	Police Local/Public Works 	FMN 	Law Talk 
+154.31000 	150.79000  	KGA366 	RM	71.9 PL	Dtown FD/FP Ops 	Fire Local/Fire Police 	FMN 	Multi-Talk 
+155.29500 	153.89000  	KGA366 	RM	186.2 PL	Dtown FD/EMS 	Fire/EMS Tac 	FMN 	EMS-Talk 
+155.29500 	150.79000  	KGA366 	RM	71.9 PL	Dtown FD/EMS 	Fire /EMS Tac 	FMN 	EMS-Talk 
+159.14250 	154.65750  	WPDP839 	RM		EBradford PW 	PW/ Roads 	FMN 	Public Works 
+151.49000 	   	WPUT610 	RM	110.9 PL	EBrandywn FC 	East Brandywine Fire Company 	FMN 	Fire-Talk 
+154.54000 	   	 	RM	110.9 PL	EBrandywn FC 	East Brandywine Fire Company 	FMN 	Fire-Talk 
+155.65500 	151.01000  	WQPU681 	RM		E Brndywn PD 	Police Local 	FMN 	Law Talk 
+155.88750 	   	WPMM472 	BM		Goshen FD FG 	Goshen Fire Co. - Fireground ops 	FM 	Fire-Tac 
+155.88750 	   	WPMM472 	BM	731 DPL	Goshen FD FP 	Goshen Fire Co. - Fire Police ops 	FM 	Fire-Talk 
+154.07000 	   	WPMM472 	BM	731 DPL	Goshen EMS 	Goshen Fire Co. - EMS ops 	FM 	EMS-Talk 
+158.98500 	   	WPAY356 	BM	167.9 PL	E Goshen PW 	Public Works 	FMN 	Public Works 
+151.11500 	153.99500  	WPLE934 	RM	151.4 PL	EMarl Twp PW 	Public Works 	FMN 	Public Works 
+453.38750 	458.38750  	WPOZ661 	RM	025 DPL	Longwood FC 	Longwood Fire Comapny 	FM 	Fire-Talk 
+453.42500 	458.42500  	WPWP223 	RM	306 DPL	PoMarLin FC 	Po Mar Lin Fire Company 	FM 	Fire-Talk 
+159.18000 	151.01000  	WPVJ485 	RM	71.9 PL	E Notting PW 	Public Works 	FMN 	Public Works 
+855.81250 	810.81250  	WQRL377 	RM	123.0 PL	Kimberton 	Kimberton Fire Co Repeater 	FM 	Fire-Talk 
+154.26500 	   	KGF753 	BM	167.9 PL	E Whtlnd VFA 	East Whiteland Volunteer Fire Association 	FM 	Fire-Talk 
+154.29500 	   	KGF753 	BM	71.9 PL	E Whtlnd VFA 	East Whiteland Volunteer Fire Association 	FM 	Fire-Talk 
+460.26250 	465.26250  	WPTB446 	RM		E Whtlnd PW 	East Whiteland Twp. - Public Works 	FM 	Public Works 
+460.06250 	465.06250  	KVG806 	RM	186.2 PL	Berwyn Tac 	Berwyn Fire Co. - UHF Ops Repeater 	FMN 	Fire-Talk 
+458.77500 	   	KVG806 	BM	114.8 PL	Berwyn XBand 	Berwyn Fire Co. - Crossband repeater on apparatus links UHF freq to Chesco FD-1, Interops 4 as needed) 	FMN 	Fire-Talk 
+45.64000 	   	KLO355 	BM		Easttown PW 	Public Works 	FM 	Public Works 
+153.89750 	   	 	M	032 DPL	Twin Vly FP 	Twin Valley Fire Fire Police 	FMN 	Fire-Talk 
+155.40000 	153.89750  	WPZP656 	RM	632 DPL	Twin Vly FD 	Twin Valley FD Repeater 	FMN 	Fire-Talk 
+151.36250 	158.87250  	KCE685 	RM	343 DPL	Honey Brk PW 	Public Works 	FMN 	Public Works 
+158.83500 	   	KLM765 	BM		Kennett SqPW 	Public Works 	FMN 	Public Works 
+155.95500 	159.09750  	WQS456 	RM		Kennett PW 	Township Operations 	FMN 	Public Works 
+463.47500 	   	KNJA355 	BM	88.5 PL	Lndndery DPW 	Public Works 	FMN 	Public Works 
+155.30250 	150.77500  	KNEJ768 	RM	146.2 PL	Mlvrn FC Rpt 	Malvern Fire Co. 	FMN 	Fire-Talk 
+155.30250 	   	KNEJ768 	M	186.2 PL	Mlvrn FC 	Malvern Fire Co. 	FMN 	Fire-Talk 
+155.40000 	   	KNEJ768 	M	146.2 PL	Mlvrn FC 	Malvern Fire Co. 	FMN 	Fire-Talk 
+500.71250 	503.71250  	WIM542 	RM	97.4 PL	Oxford FD 	Oxford FD 	FMN 	Fire-Talk 
+156.10500 	153.99500  	WNYY763 	RM	203.5 PL	Pennsbury PW 	Public Works 	FMN 	Public Works 
+155.71500 	   	KLK681 	BM	71.9 PL	Phoenixvl PD 	Police Local 	FMN 	Law Talk 
+45.56000 	   	KDN943 	BM		Phoenixvl PW 	Public Works 	FM 	Public Works 
+153.14000 	159.64500  	WPYL793 	RM	306 DPL	Dive 77 Rptr 	Friendship Diving Rescue Unit 	FMN 	Fire-Talk 
+151.08500 	159.00000  	WNPI593 	RM	025 DPL	Pocopson PW 	Public Works Operations 	FMN 	Public Works 
+154.39250 	   	 	B	100.0 PL	PFC EastFire 	East Fire Rebroadcast from Chester Co TRS 	FMN 	Fire-Tac 
+460.43750 	465.43750  	WQVR886 	RM	103.5 PL	Paoli Fire Tac 	Paoli Fire Co Tac 	FMN 	Fire-Tac 
+458.30000 	   	WQIF419 	M	71.9 PL	TredyffrinPD 	Police Tac 	FMN 	Law Talk 
+460.13750 	465.13750  	WQIF419 	RM	127.3 PL	TredyffrinPD 	Police/EOC Repeater 	FMN 	Law Talk 
+460.21250 	   	WQIF419 	M	71.9 PL	TredyffrinPD 	Police Tac 	FMN 	Law Talk 
+151.07000 	   	WNKH490 	BM	71.9 PL	U Oxford DPW  	Public Works 	FMN 	Public Works 
+500.43750 	503.43750  	WIE854 	RM	186.2 PL	Upr Uwchlan 	Police / Twp 	FMN 	Law Talk 
+500.96250 	503.96250  	WIK389 	RM	156.7 PL	Lionville FC 	Lionville Fire Co 	FMN 	Fire-Talk 
+500.66250 	503.66250  	WIL333 	RM	131.8 PL	Uwchlan PD 	Police 	FMN 	Law Talk 
+500.96250 	503.96250  	WIK389 	RM	146.2 PL	Uwchlan PW 	Public Works 	FMN 	Public Works 
+155.36250 	154.33750  	WPMQ287 	RM	103.5 PL	Westwood FC 	Westwood Fire Co. 	FMN 	Fire-Talk 
+151.28000 	156.04500  	WQSC719 	RM	CC 11TG *SL 1	Wallace PW 	Public Works Repeater 	DMR 	Public Works 
+151.28000 	   	WQSC719 	M	CC 11TG *SL 1	Wallace PW T/A 	Public Works Talkaround 	DMR 	Public Works 
+154.80000 	154.89750  	WQSF730 	RM	343 DPL	GMFC Rptr 	Glen Moore Fire Co VHF Repeater 	FMN 	Fire-Tac 
+154.89750 	   	WQSF730 	M	343 DPL	GMFC VHF T/A 	Glen Moore Fire Co VHF Talkaround 	FMN 	Fire-Tac 
+151.05500 	159.27750  	WPAK260 	RM		Warwick Twp 	Warwick Township 	FMN 	Public Works 
+154.51500 	159.91500  	WQQZ768 	RM	371 DPL	Wst Brndywn 	Police/Twp Services 	FMN 	Law Talk 
+156.24000 	150.99500  	WNAV277 	RM	186.2 PL	W Caln PW 	Public Works 	FMN 	Public Works 
+500.41250 	503.41250  	KWQ485 	RM	293 NAC	WCPD 1/2D 	Police Dispatch 1 Repeater / Talkaround 2 Simplex - Digital 	P25 	Law Dispatch 
+500.41250 	503.41250  	KWQ485 	RM	97.4 PL	WCPD 1/2A 	Police Dispatch 1 Repeater / Talkaround 2 Simplex - Analog 	FM 	Law Dispatch 
+500.51250 	503.51250  	KWQ485 	RM	293 NAC	WCPD 3/4D 	Police Operations 3 Repeater / 4 Simplex - Digital 	P25 	Law Tac 
+500.51250 	503.51250  	KWQ485 	RM	97.4 PL	WCPD 3/4A 	Police Operations 3 Repeater / 4 Simplex - Analog 	FM 	Law Tac 
+48.40000 	   	WNMA859 	BM	156.7 PL	WC Sanitatn 	Sanitation trucks 	FM 	Public Works 
+463.66250 	468.66250  	WQHA304 	RM	624 DPL	WC Parking 	Parking Enforcement 	FM 	Public Works 
+153.96500 	   	WPPE572 	BM	71.9 PL	W Fallow DPW  	Public Works 	FMN 	Public Works 
+46.52000 	   	KFM406 	BM	123.0 PL	W Goshen PW 	Public Works 	FM 	Public Works 
+158.74500 	155.82000  	KRZ861 	RM	71.9 PL	W Goshen PD 	Police / Services 	FMN 	Multi-Talk 
+155.14500 	   	WPUT955 	BM		W Grove PW 	Township Services 	FMN 	Public Works 
+463.42500 	468.42500  	WNGY331 	RM	100.0 PL	W Grove Fire 	West Grove Fire Company 	FMN 	Fire-Talk 
+460.42500 	465.52500  	KGD597 	RM	100.0 PL	W Grove Fire TA 	West Grove Fire Co Talkaround 	FMN 	Fire-Talk 
+155.52000 	   	WPJM586 	BM	71.9 PL	W Sadsbury DPW  	Public Works 	FMN 	Public Works 
+158.97000 	   	KNNL722 	BM		WW PD/FP 	Police and Fire Police 	FM 	Interop 
+500.43750 	503.43750  	WIE854 	RM	127.3 PL	WW PW/Roads 	Public Works & Roads 	FMN 	Public Works 
+155.82000 	   	KQO365 	M	71.9 PL	Willistown 	Willistown Twp. - Police  	FM 	Law Talk 
+452.38750 	457.38750  	WPKI804 	RM	151.4 PL	AGHS Ops 	High School 	FMN 	Schools 
+452.52500 	   	 	RM	151.4 PL	AGSD 4 	AGSD Channel 4 	FMN 	Schools 
+463.62500 	468.62500  	WPKI804 	RM	131.8 PL	AGSD Buses 	Buses 	FMN 	Schools 
+462.26250 	   	WQOE230 	M		DASD HSW Ops 	High School West - Ops 	FMN 	Schools 
+464.83750 	   	WQOE230 	M		DASD HSW Admin 	High School West - Admin 	FMN 	Schools 
+467.26250 	   	WQOE230 	M		DASD HSW Sec 	High School West - Security 	FMN 	Security 
+469.83750 	   	WQOE230 	M		DASD STEM 	STEM Academy 	FMN 	Schools 
+462.25000 	467.25000  	KNJA355 	RM	167.9 PL	OASD Buses 	Transportation 	FMN 	Schools 
+463.41250 	   	WQUF825 	M	85.4 PL	OASD Ops 2 	School Operations 2 	FMN 	Schools 
+468.41250 	   	WQUF825 	M	127.3 PL	OASD Ops 	School Operations 	FMN 	Schools 
+451.45000 	456.45000  	WPML925 	RM	CC 14TG 1400SL 1	TE School Buses 	Buses 	DMR 	Schools 
+451.02500 	456.02500  	WPTF871 	RM	CC 10TG 1SL 1	BH Ops 	Operations 	DMR 	Business 
+461.08750 	466.08750  	KB90345 	RM	103.5 PL	CCH Sec  	Security 	FMN 	Security 
+461.82500 	466.82500  	WQEP618 	RM	103.5 PL	CCH Mnt/ES  	Maintenance & Environmental Services 	FMN 	Business 
+451.83750 	456.83750  	KB90345 	RM	103.5 PL	Hosp FoodSvc 	Food Services 	FMN 	Business 
+462.75000 	   	KB90345 	BM	103.5 PL	Hosp Unknown 	Unknown Use 	FMN 	Business 
+453.87500 	458.00000  	KKD503 	RM	156.7 PL	PA DMVA Ops 	Operations 	FMN 	Business 
+461.78750 	466.78750  	WQJP899 	RM	174 DPL	DMVA Maint 	Maintenance/Housekeeping 	FMN 	Business 
+463.53750 	468.53750  	WQJP899 	RM	223 DPL	DMVA Security 	Security 	FMN 	Security 
+463.26250 	468.26250  	WPYV480 	RM	CC 9TG 31SL 1	PaoliHosp Sec1 	Security Primary 	DMR 	Security 
+463.26250 	468.26250  	WPYV480 	RM	CC 9TG 32SL 2	PaoliHosp Sec2 	Security Talkaround 	DMR 	Security 
+461.83750 	466.83750  	WQZU221 	RM	173.8 PL	Phx Hosp Maint 	Maintenance 	FMN 	Business 
+451.68750 	456.68750  	WQZY375 	RM	CC 2TG 1SL 1	RCA PT Super 	Patient Supervision/Transport 	DMR 	Business 
+451.68750 	456.68750  	WQZY375 	RM	CC 2TG 1SL 2	RCA PT Facilitie 	Patient Facilities 	DMR 	Business 
+165.42500 	   	 	RM	293 NAC	VA Police 	Police 	P25e 	Law Talk 
+166.13750 	   	 	RM	173.8 PL	VA Fire 	Fire 	FMN 	Fire-Talk 
+166.71250 	   	 	RM	156.7 PL	VA Maint 	Maintenance 	FMN 	Federal 
+121.40000 	   	 	BM	CSQ	Brandy WX 	Airport Weather 	AM 	Aircraft 
+123.07500 	   	 	BM	CSQ	Brandy CTAF 	CTAF/Unicom 	AM 	Aircraft 
+122.70000 	   	 	BM	CSQ	Carlson CTAF 	CTAF/Unicom 	AM 	Aircraft 
+126.25000 	   	 	BM	CSQ	Carlson WX  	Airport Weather 	AM 	Aircraft 
+128.95000 	   	 	BM	CSQ	Sikorsky AA 	Sikorsky Global Helicopters Air-to-Air 	AM 	Business 
+452.27500 	   	WQFB346 	BM		Aviation Srv 	Landmark Aviation Services 	FMN 	Business 
+123.05000 	   	 	BM	CSQ	NGT CTAF 	CTAF/Unicom 	AM 	Aircraft 
+125.60000 	   	 	BM	CSQ	NGT CLNC/DEL 	CLNC/DEL 	AM 	Aircraft 
+461.31250 	466.31250  	WPKB659 	RM	151.4 PL	Immac Univ 	Immaculata University 	FMN 	Schools 
+462.06250 	467.06250  	WQHI830 	RM	103.5 PL	WCU PD 	Police (Ch. 1) 	FMN 	Law Tac 
+464.28750 	469.28750  	WQHI830 	RM	91.5 PL	WCU EMS 	EMS (Ch. 2) 	FMN 	EMS-Tac 
+451.72500 	456.72500  	WPQF856 	RM	85.4 PL	WCU Maint 	Maintenance 	FMN 	Schools 
+452.01250 	457.01250  	WPQF856 	RM	123.0 PL	WCU Maint 	Maintenance 	FMN 	Schools 
+47.66000 	   	KZM741 	BM	100.0 PL	Broodmare Vet 	Broodmare Associates Veterinarian 	FM 	Business 
+152.37500 	157.63500  	WQBJ422 	RM	91.5 PL	Scotts 1 	The Scotts Company 	FMN 	Business 
+152.37500 	   	WQBJ422 	BM	94.8 PL	Scotts 2 	The Scotts Company 	FMN 	Business 
+463.48750 	   	WQXL676 	BM	CC 1TG *SL 1	To-Jo Mush 	To-Jo Mushrooms, Avondale 	DMR 	Business 
+462.50000 	   	WPTK894 	BM	127.3 PL	Barclay Home 	Barclay Friends Home 	FM 	Business 
+462.62500 	   	 	M	218.1 PL	GolfClubApts 	Golf Club Apartments - Maintenance 	FM 	Business 
+151.73000 	   	WQCL525 	M	114.8 PL	Hoover Treated W 	Hoover Treated Wood 	FMN 	Business 
+452.46250 	457.46250  	WQJM254 	RM	151.4 PL	Herr Foods O 	Herr Foods Ops 	FMN 	Business 
+461.53750 	466.53750  	WQJM254 	RM	CC 5TG 10SL *	Herr Foods Ops 	Herr Foods Ops 	DMR 	Business 
+461.53750 	466.53750  	WQJM254 	RM	065 DPL	Herr Foods O 	Herr Foods Ops 	FMN 	Business 
+463.53750 	468.53750  	WQTE768 	RM	192.8 PL	Tasty Baking 	Tasty Baking Company 	FMN 	Business 
+463.91250 	468.91250  	WQVI641 	RM	118.8 PL	Herr Foods O 	Herr Foods Ops 	FMN 	Business 
+464.57500 	469.57500  	WQTE768 	RM	77.0 PL	Tasty Baking 	Tasty Baking Company 	FMN 	Business 
+461.21250 	   	 	RM	047 DPL	LG Ext. Ops 	Outside Ops / Managers 	FM 	Business 
+461.90000 	   	 	RM	136.5 PL	LG Cnsv mgrs 	Conservatory Managers 	FM 	Business 
+461.90000 	   	 	RM	250.3 PL	LG Cnsrv ops 	Conservatory Operations 	FM 	Business 
+463.60000 	468.60000  	WPDA641 	RM	77.0 PL	LG Security 	Security 	FM 	Security 
+464.32500 	   	 	B	77.0 PL	LG WX warnin 	Weather Warning broadcast. 	FM 	Business 
+464.80000 	469.80000  	WPDA641 	RM	047 DPL	LG Maint/show 	Facilities Maintenance/Show control 	FM 	Business 
+464.45000 	469.45000  	WPIS884 	RM	203.5 PL	Krapf GVSD 	Krapf Bus - Great Valley School District Buses 	FMN 	Transportation 
+502.08750 	505.08750  	WNAM420 	RM	203.5 PL	Krapf Buses 	Krapf Bus - Glenmoore 	FMN 	Transportation 
+502.41250 	505.41250  	WPLP507 	RM	203.5 PL	Krapf Buses 	Krapf Bus - West Chester 	FMN 	Transportation 
+502.86250 	505.86250  	WPLP507 	RM	203.5 PL	Krapf Buses 	Krapf Bus - Devault 	FMN 	Transportation 
+502.93750 	505.93750  	WNAM420 	RM	203.5 PL	Krapf Buses 	Krapf Bus - Downingtown 	FMN 	Transportation 
+502.98750 	505.98750  	WNAM420 	RM	203.5 PL	Krapf Buses 	Krapf Bus - Coatesville 	FMN 	Transportation 
+43.06000 	   	KNDD542 	BM	186.2 PL	Schagrin Gas 	Schagrin Gas 	FM 	Business 
+173.22500 	   	WQCA275 	BM		TranscontGas 	Transcontinental Gas Pipeline Corp - Maintenance 	FMN 	Business 
+461.97500 	   	WPKJ249 	BM		Camping Inc 	Camping Inc 	FM 	Business 
+467.26250 	   	WPNX432 	M		HB Golf Course 	Honey Brook Golf Course 	FMN 	Business 
+467.75000 	   	 	M		Target Ch 1 	Target - Main Store Channel 	FMN 	Business 
+467.77500 	   	 	M		Target Ch 2 	Target - Backroom Ops 	FMN 	Business 
+467.92500 	   	 	M		Target Ch 3 	Target - Backup/Other 	FMN 	Business 
+467.90000 	   	 	M		Target Ch 4 	Target - Asset Protection Ops 	FMN 	Business 
+464.91250 	469.91250  	WQPE661 	RM	114.8 PL	ESM Manage 	Exton Square Mall - Mall Management 	FMN 	Business 
+461.48750 	   	WPPY474 	RM	CC 7TG *SL 1	A.Duie Pyle 	A.Duie Pyle (Enc) 	DMR 	Business 
+461.80000 	   	WPXW851 	RM	CC 1TG 1SL 1	SE Refuse 	Southeast Chesco Refuse (enc) 	DMR 	Business 
+451.50000 	   	WPIN596 	BM	210.7 PL	Common Tele 	Commonwealth Telephone Co 	FM 	Utilities 
+457.63750 	   	KD25830 	M	203.5 PL	PECO Crews 	PECO Line crews 	FM 	Utilities 
+457.66250 	   	KD25830 	M		PECO 	PECO 	FM 	Utilities 
+457.68750 	   	KD25830 	M		PECO 	PECO 	FM 	Utilities 
+ Triangle Communications (Honeybrook)	 LTR Standard	 Honeybrook	Chester County Emergency Services	 Project 25 Phase II	 Chester County	Collegium Charter School	 NXDN Icom IDAS Type D	 Exton
+Interstate Repeater System	 DMR Conventional Networked	 Various	Lancaster County-Wide Communications (LCWC)	 Project 25 Phase I	 Lancaster County	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various
+Owen J Roberts School District	 NXDN Icom IDAS Type D	 Pottstown	PECO Energy	 Project 25 Phase I	 Philadelphia	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various
+Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Southeastern Pennsylvania Transportation Authority (SEPTA)	 Motorola Type II Smartnet	 Various	Sunshine Communications (Eagleville)	 LTR Standard	 Eagleville
+Sunshine Communications (Malvern)	 LTR Standard	 Malvern	Vanguard Group	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Malvern	

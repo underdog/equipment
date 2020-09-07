@@ -1,101 +1,101 @@
-156.22500 	WQFQ834 	RM	114.8 PL	Jack Firecom 	Fire: Countywide Dispatch - FireCom 	FMN 	Fire Dispatch 
-150.80500 	WPNP332 	F		Jack Fire RF 	Fire: Remote Input 	FMN 	Fire-Tac 
-154.41500 	WPMI651 	BM	100.0 PL	Jackson Fire 	Fire: Dispatch - Old (heard 12/19) 	FMN 	Fire Dispatch 
-154.07000 	KSJ743 	BM	CSQ	CoalbeltFire 	Fire: Coalbelt Mutual Aid System 	FMN 	Fire-Tac 
-155.10000 	KMA881 	BM	100.0 PL	Jackson EMS 	EMS: Dispatch / Ava Fire: Dispatch 	FMN 	EMS Dispatch 
-155.22000 	WPMI651 	BM	100.0 PL	JacksonCoEMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-453.31250 	KD40162 	M	CSQ	Jack EMS UHF 	EMS: Remote Link (Carbondale) 	FMN 	EMS-Tac 
-155.01000 	KSB420 	RM	162.2 PL	Jack Sheriff 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-151.20500 	WQPD444 	RM	032 DPL	Jack Shrf Rckwd 	Sheriff: Dispatch (Rockwood - West) 	FMN 	Law Dispatch 
-151.34000 	WQRE847 	RM	156 DPL	Jack Shrf Murph 	Law: Dispatch (Murphysboro) 	FMN 	Law Dispatch 
-159.20250 	WQIF535 	RM		Jack Sheriff DMR 	Sheriff: Ops (Murphysboro) 	DMR 	Law Dispatch 
-156.15000 	KSB420 	M		Jack Sheriff 2 	Sheriff: Operations (Tactical) 	FMN 	Law Tac 
-155.85000 	KSB420 	M		Jack Sheriff 3 	Sheriff: Car-to-Car 	FMN 	Law Tac 
-156.15000 	KSB420 	M		Jack Sheriff 4 	Sheriff: Car-to-Car 	FMN 	Law Tac 
-154.04000 	KZE620 	BM		Jackson EMA 	Emergency Management 	FMN 	Emergency Ops 
-453.36250 	KZE620 	M		Jack EMA*RF1 	EMA: Remote Link 	FMN 	Emergency Ops 
-458.36250 	KZE620 	M		Jack EMA*RF2 	EMA: Remote Link 	FMN 	Emergency Ops 
-151.07750 	WQEH684 	RM		Jack Health 	Health Department  	FMN 	Public Works 
-156.18000 	KNDH927 	RM	179.9 PL	Jack Highway 	Highway Department  	FMN 	Public Works 
-159.13500 	WQUV744 	RM		Jack HsAuth1 	Housing Authority (Murphysboro) 	FMN 	Public Works 
-451.60000 	WQTR512 	RM	141.3 PL	MH Security 	Security 	FMN 	Security 
-464.87500 	KNDT373 	M		MHosp Ops 1 	Operations  	FMN 	Business 
-464.92500 	KNDT373 	BM		MHosp Ops 2 	Operations 	FMN 	Business 
-155.34000 	WPMY809 	BM	114.8 PL	MERCI1 114.8 	Patient Reports 	FMN 	Hospital 
-452.40000 	WPPP211 	RM	365 DPL	SJMH Security 	Security 	FMN 	Security 
-155.22000 	WNPD473 	BM	100.0 PL	JacksonCoEMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.34000 	WNPD473 	B		MERCI-1  	Patient Reports 	FMN 	Hospital 
-156.12000 	WNYG563 	BM		Carb TS Road 	Carbondale Township Highway Department 	FMN 	Public Works 
-453.06250 	WPMG579 	M		ElvradoWater 	Elverado Water District 	FMN 	Public Works 
-158.94000 	WPEZ799 	M		Murp TS Road 	Murphysboro Township: Roads [Expired] 	FMN 	Public Works 
-452.70000 	WQCG339 	F		SHWD Data 	South Highway Water District: Data  	Telm 	Data 
-153.54500 	WPIY615 	BM		SHWD Ops 	South Highway Water District: Operations (Makanda) 	FMN 	Public Works 
-158.80500 	WQPD216 	RM		Ava Police/Fire 	Police / Fire (173.3375 Extenders) 	FMN 	Multi-Dispatch 
-154.25000 	WNKT590 	BM		CmpblHl Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-151.18250 	WQQI205 	RM	293 NAC|TG 1	CarbndalePolice  	Police: Dispatch 	P25E 	Law Dispatch 
-151.30250 	WQQI205 	RM		Carbondale PD 2 	Police 	P25E 	Law Tac 
-154.75500 	KNCH589 	RM	131.8 PL	Carb Police Old 	Police: Back-Up to P25 [Ch 1] 	FMN 	Law Dispatch 
-151.10000 	WQLD873 	RM		Carbndl EMA 	Emergency Management 	FMN 	Emergency Ops 
-155.88000 	KNAK200 	BM		Carb EMA PAS 	EMA: Public Alert System 	FMN 	Emergency Ops 
-154.20500 	WPGA476 	RM	423 DPL	Carb Fire D1 	Fire: Dispatch - City / Township [Ch 1] 	FMN 	Fire Dispatch 
-153.77000 	KSJ743 	BM		Jack Firgrnd 	Fireground 	FMN 	Fire-Tac 
-154.02500 	KFK687 	RM	131.8 PL	Carb PubWrks 	Public Works 	FMN 	Public Works 
-154.98000 	WPKP511 	BM		Carb Local 	Local Government 	FMN 	Public Works 
-155.52000 	WPML552 	BM		Carb PublicWorks 	Public Works Department 	FMN 	Public Works 
-156.14250 	WQJE524 	RM		Carb BldngZoning 	Building and Zoning 	FMN 	Public Works 
-158.13000 	WQGB562 	M		Carb WDD 	Wastewater Treatment Data 	Telm 	Data 
-158.83500 	KVJ696 	BM		Carb SeniorShttl 	Senior Citizens Services 	FMN 	Public Works 
-155.70000 	WQNF973 	RM	031 DPL	Carb Twp Fire  	Fire: Tone-Outs / Dispatch 	FMN 	Fire Dispatch 
-154.32500 	WQJ365 	BM		Carb Twp Fire 2  	Fire (not in use?) 	FMN 	Fire-Tac 
-155.89500 	KNEN208 	BM		deSoto Local 	Local Government 	FMN 	Public Works 
-155.49750 	WPMC775 	RM		Gorham Fire 	Fire 	FMN 	Fire Dispatch 
-153.77000 	WNII830 	BM		Jack Firgrnd 	Fire: Local 	FMN 	Fire-Tac 
-155.59500 	WNIK735 	BM		GTow Local 	Government Services 	FMN 	Public Works 
-155.74500 	WNQG599 	BM		KRCCD Ops 	Operations 	FMN 	Public Works 
-173.26250 	WPHP506 	F		KRCCD Data 	Water Distribution Data 	Telm 	Data 
-154.38500 	WQD707 	BM		MakT FD Loc 	Fire: Local? 	FMN 	Fire-Tac 
-155.56500 	KSB399 	RM	192.8 PL	Murph Police 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-154.11500 	KSI262 	BM		Murph PD Loc 	Police 	FMN 	Law Tac 
-154.11500 	WQLE990 	RM		Murph ESDA 	ESDA: Operations 	FMN 	Emergency Ops 
-153.77000 	KJH205 	RM	192.8 PL	Murph Fire 	Fire: Local 	FMN 	Fire-Tac 
-154.11500 	KSI262 	BM		Murph Local 	Government Services (Public Works) 	FMN 	Public Works 
-153.95000 	WNSP718 	M		MurPonSom FG 	Fireground ? [Expired] 	FMN 	Fire-Tac 
-151.68500 	WPPG570 	M		Carb School1 	Carbondale Elementary School District #95 	FMN 	Schools 
-151.77500 	WPPG570 	M		Carb School2 	Carbondale Elementary School District #95 	FMN 	Schools 
-151.80500 	WPPG570 	M		Carb School3 	Carbondale Elementary School District #95 	FMN 	Schools 
-154.49000 	WPPG570 	M		Carb School4 	Carbondale Elementary School District #95 	FMN 	Schools 
-154.54000 	WPPG570 	M		Carb School5 	Carbondale Elementary School District #95 	FMN 	Schools 
-152.37500 	WQFE665 	RM		Carb HighSch 	Carbondale High School District #165: Maintenance 	FMN 	Schools 
-151.95500 	WPKC408 	BM		Lncln MidSch 	Lincoln Middle School  	FMN 	Schools 
-155.22000 	KXX339 	BM		UPSD Buses 	Unity Point CC School District 140 	FMN 	Schools 
-151.80500 	WPQC510 	BM		deS Sch Ops 	Operations 	FMN 	Schools 
-159.55500 	WQCC481 	RM		Murph School 1 	School-to-School  	DMR 	Schools 
-151.59500 	WQCC481 	RM		Murph School 2 	Operations 	DMR 	Schools 
-151.68500 	WQCC481 	BM	CC 7TG *SL *	Murph Mid Sch 	Middle School: Ops 	DMR 	Schools 
-152.46500 	WRAE913 	RM		Murph Logan Elem 	Logan Elementary 	DMR 	Schools 
-151.54250 	WQXB619 	RM	411 NAC	SIUC Police A 	Police  	P25E 	Law Dispatch 
-153.00500 	WQXB619 	RM	311 NAC	SIUC Police B 	Police  	P25E 	Law Dispatch 
-460.02500 	WQLP432 	M		SIUC Bomb V 	Bomb Disposal Robot (Voice Ops) 	FMN 	Law Tac 
-453.10000 	WNQK878 	RM		SIUC Ops 1 	Operations 	FMN 	Schools 
-453.60000 	KWM756 	RM	127.3 PL	SIUC Maintnc 	Maintenance 	FMN 	Schools 
-453.65000 	KWM756 	RM	127.3 PL	SIUC Ops 2 	Operations 	FMN 	Schools 
-158.74500 	 	RM		SIUC Ops 3 	Operations 	FMN 	Schools 
-453.65000 	KWM756 	RM	103.5 PL	SIUC Shuttle 	Shuttle Transportation 	FMN 	Transportation 
-453.70000 	WPKS735 	RM		SIUC IDAROp1 	Illinois Dept of Agriculture - Research Operations 	FMN 	Schools 
-453.87500 	WPFY983 	RM	110.9 PL	SIUC IDAROp2 	Illinois Dept of Agriculture - Research Operations 	FMN 	Schools 
-151.68500 	 	M		SUIC FdSvc 1 	Food Service 	FMN 	Schools 
-151.71500 	 	M		SUIC FdSvc 2 	Food Service 	FMN 	Schools 
-151.86500 	 	M		SUIC FdSvc 3 	Food Service 	FMN 	Schools 
-453.15000 	 	M		SIUC SOM Op1 	School of Medicine  	FMN 	Schools 
-469.55000 	 	M		SIUC SOM Op2 	School of Medicine 	FMN 	Schools 
-123.50000 	KHK4 	B	CSQ	SIUC Flight 	SIU Flight School 	AM 	Aircraft 
-465.02500 	WQLP432 	M		SIUC Bomb D 	Bomb Disposal Robot (Data) 	Telm 	Data 
-155.11500 	WQG909 	BM		SIAA Ops 	Operations  	FMN 	Public Works 
-119.72500 	 	BM	CSQ	MDH ATIS 	ATIS 	AM 	Aircraft 
-121.80000 	 	BM	CSQ	MDH Ground 	Carbondale Ground 	AM 	Aircraft 
-122.95000 	 	BM	CSQ	MDH UNICOM 	UNICOM 	AM 	Aircraft 
-125.30000 	 	BM	CSQ	Marion RCAG 	Approach/Departure (KC ARTCC) 	AM 	Aircraft 
-125.35000 	 	BM	CSQ	MDH CTAF 	CTAF 	AM 	Aircraft 
-125.35000 	 	BM	CSQ	MDH Tower 	Carbondale Tower 	AM 	Aircraft 
-171.61250 	 	BM	540 NAC	171.6125 N540 	Operations 	P25 	Federal 
+156.22500 	150.80500  	WQFQ834 	RM	114.8 PL	Jack Firecom 	Fire: Countywide Dispatch - FireCom 	FMN 	Fire Dispatch 
+150.80500 	   	WPNP332 	F		Jack Fire RF 	Fire: Remote Input 	FMN 	Fire-Tac 
+154.41500 	   	WPMI651 	BM	100.0 PL	Jackson Fire 	Fire: Dispatch - Old (heard 12/19) 	FMN 	Fire Dispatch 
+154.07000 	   	KSJ743 	BM	CSQ	CoalbeltFire 	Fire: Coalbelt Mutual Aid System 	FMN 	Fire-Tac 
+155.10000 	   	KMA881 	BM	100.0 PL	Jackson EMS 	EMS: Dispatch / Ava Fire: Dispatch 	FMN 	EMS Dispatch 
+155.22000 	   	WPMI651 	BM	100.0 PL	JacksonCoEMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+453.31250 	   	KD40162 	M	CSQ	Jack EMS UHF 	EMS: Remote Link (Carbondale) 	FMN 	EMS-Tac 
+155.01000 	155.85000  	KSB420 	RM	162.2 PL	Jack Sheriff 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+151.20500 	154.09250  	WQPD444 	RM	032 DPL	Jack Shrf Rckwd 	Sheriff: Dispatch (Rockwood - West) 	FMN 	Law Dispatch 
+151.34000 	159.03000  	WQRE847 	RM	156 DPL	Jack Shrf Murph 	Law: Dispatch (Murphysboro) 	FMN 	Law Dispatch 
+159.20250 	153.95000  	WQIF535 	RM		Jack Sheriff DMR 	Sheriff: Ops (Murphysboro) 	DMR 	Law Dispatch 
+156.15000 	   	KSB420 	M		Jack Sheriff 2 	Sheriff: Operations (Tactical) 	FMN 	Law Tac 
+155.85000 	   	KSB420 	M		Jack Sheriff 3 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+156.15000 	   	KSB420 	M		Jack Sheriff 4 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+154.04000 	   	KZE620 	BM		Jackson EMA 	Emergency Management 	FMN 	Emergency Ops 
+453.36250 	   	KZE620 	M		Jack EMA*RF1 	EMA: Remote Link 	FMN 	Emergency Ops 
+458.36250 	   	KZE620 	M		Jack EMA*RF2 	EMA: Remote Link 	FMN 	Emergency Ops 
+151.07750 	156.20250  	WQEH684 	RM		Jack Health 	Health Department  	FMN 	Public Works 
+156.18000 	159.06000  	KNDH927 	RM	179.9 PL	Jack Highway 	Highway Department  	FMN 	Public Works 
+159.13500 	153.87500  	WQUV744 	RM		Jack HsAuth1 	Housing Authority (Murphysboro) 	FMN 	Public Works 
+451.60000 	456.60000  	WQTR512 	RM	141.3 PL	MH Security 	Security 	FMN 	Security 
+464.87500 	   	KNDT373 	M		MHosp Ops 1 	Operations  	FMN 	Business 
+464.92500 	   	KNDT373 	BM		MHosp Ops 2 	Operations 	FMN 	Business 
+155.34000 	   	WPMY809 	BM	114.8 PL	MERCI1 114.8 	Patient Reports 	FMN 	Hospital 
+452.40000 	457.40000  	WPPP211 	RM	365 DPL	SJMH Security 	Security 	FMN 	Security 
+155.22000 	   	WNPD473 	BM	100.0 PL	JacksonCoEMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	WNPD473 	B		MERCI-1  	Patient Reports 	FMN 	Hospital 
+156.12000 	   	WNYG563 	BM		Carb TS Road 	Carbondale Township Highway Department 	FMN 	Public Works 
+453.06250 	   	WPMG579 	M		ElvradoWater 	Elverado Water District 	FMN 	Public Works 
+158.94000 	   	WPEZ799 	M		Murp TS Road 	Murphysboro Township: Roads [Expired] 	FMN 	Public Works 
+452.70000 	   	WQCG339 	F		SHWD Data 	South Highway Water District: Data  	Telm 	Data 
+153.54500 	   	WPIY615 	BM		SHWD Ops 	South Highway Water District: Operations (Makanda) 	FMN 	Public Works 
+158.80500 	153.79250  	WQPD216 	RM		Ava Police/Fire 	Police / Fire (173.3375 Extenders) 	FMN 	Multi-Dispatch 
+154.25000 	   	WNKT590 	BM		CmpblHl Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+151.18250 	154.15250  	WQQI205 	RM	293 NAC|TG 1	CarbndalePolice  	Police: Dispatch 	P25E 	Law Dispatch 
+151.30250 	159.23250  	WQQI205 	RM		Carbondale PD 2 	Police 	P25E 	Law Tac 
+154.75500 	155.91000  	KNCH589 	RM	131.8 PL	Carb Police Old 	Police: Back-Up to P25 [Ch 1] 	FMN 	Law Dispatch 
+151.10000 	158.94000  	WQLD873 	RM		Carbndl EMA 	Emergency Management 	FMN 	Emergency Ops 
+155.88000 	   	KNAK200 	BM		Carb EMA PAS 	EMA: Public Alert System 	FMN 	Emergency Ops 
+154.20500 	155.67750  	WPGA476 	RM	423 DPL	Carb Fire D1 	Fire: Dispatch - City / Township [Ch 1] 	FMN 	Fire Dispatch 
+153.77000 	   	KSJ743 	BM		Jack Firgrnd 	Fireground 	FMN 	Fire-Tac 
+154.02500 	156.01500  	KFK687 	RM	131.8 PL	Carb PubWrks 	Public Works 	FMN 	Public Works 
+154.98000 	   	WPKP511 	BM		Carb Local 	Local Government 	FMN 	Public Works 
+155.52000 	   	WPML552 	BM		Carb PublicWorks 	Public Works Department 	FMN 	Public Works 
+156.14250 	153.94250  	WQJE524 	RM		Carb BldngZoning 	Building and Zoning 	FMN 	Public Works 
+158.13000 	   	WQGB562 	M		Carb WDD 	Wastewater Treatment Data 	Telm 	Data 
+158.83500 	   	KVJ696 	BM		Carb SeniorShttl 	Senior Citizens Services 	FMN 	Public Works 
+155.70000 	159.46500  	WQNF973 	RM	031 DPL	Carb Twp Fire  	Fire: Tone-Outs / Dispatch 	FMN 	Fire Dispatch 
+154.32500 	   	WQJ365 	BM		Carb Twp Fire 2  	Fire (not in use?) 	FMN 	Fire-Tac 
+155.89500 	   	KNEN208 	BM		deSoto Local 	Local Government 	FMN 	Public Works 
+155.49750 	159.39000  	WPMC775 	RM		Gorham Fire 	Fire 	FMN 	Fire Dispatch 
+153.77000 	   	WNII830 	BM		Jack Firgrnd 	Fire: Local 	FMN 	Fire-Tac 
+155.59500 	   	WNIK735 	BM		GTow Local 	Government Services 	FMN 	Public Works 
+155.74500 	   	WNQG599 	BM		KRCCD Ops 	Operations 	FMN 	Public Works 
+173.26250 	   	WPHP506 	F		KRCCD Data 	Water Distribution Data 	Telm 	Data 
+154.38500 	   	WQD707 	BM		MakT FD Loc 	Fire: Local? 	FMN 	Fire-Tac 
+155.56500 	159.09000  	KSB399 	RM	192.8 PL	Murph Police 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+154.11500 	   	KSI262 	BM		Murph PD Loc 	Police 	FMN 	Law Tac 
+154.11500 	159.07500  	WQLE990 	RM		Murph ESDA 	ESDA: Operations 	FMN 	Emergency Ops 
+153.77000 	155.65500  	KJH205 	RM	192.8 PL	Murph Fire 	Fire: Local 	FMN 	Fire-Tac 
+154.11500 	   	KSI262 	BM		Murph Local 	Government Services (Public Works) 	FMN 	Public Works 
+153.95000 	   	WNSP718 	M		MurPonSom FG 	Fireground ? [Expired] 	FMN 	Fire-Tac 
+151.68500 	   	WPPG570 	M		Carb School1 	Carbondale Elementary School District #95 	FMN 	Schools 
+151.77500 	   	WPPG570 	M		Carb School2 	Carbondale Elementary School District #95 	FMN 	Schools 
+151.80500 	   	WPPG570 	M		Carb School3 	Carbondale Elementary School District #95 	FMN 	Schools 
+154.49000 	   	WPPG570 	M		Carb School4 	Carbondale Elementary School District #95 	FMN 	Schools 
+154.54000 	   	WPPG570 	M		Carb School5 	Carbondale Elementary School District #95 	FMN 	Schools 
+152.37500 	157.63500  	WQFE665 	RM		Carb HighSch 	Carbondale High School District #165: Maintenance 	FMN 	Schools 
+151.95500 	   	WPKC408 	BM		Lncln MidSch 	Lincoln Middle School  	FMN 	Schools 
+155.22000 	   	KXX339 	BM		UPSD Buses 	Unity Point CC School District 140 	FMN 	Schools 
+151.80500 	   	WPQC510 	BM		deS Sch Ops 	Operations 	FMN 	Schools 
+159.55500 	151.65500  	WQCC481 	RM		Murph School 1 	School-to-School  	DMR 	Schools 
+151.59500 	154.54000  	WQCC481 	RM		Murph School 2 	Operations 	DMR 	Schools 
+151.68500 	   	WQCC481 	BM	CC 7TG *SL *	Murph Mid Sch 	Middle School: Ops 	DMR 	Schools 
+152.46500 	157.72500  	WRAE913 	RM		Murph Logan Elem 	Logan Elementary 	DMR 	Schools 
+151.54250 	159.65250  	WQXB619 	RM	411 NAC	SIUC Police A 	Police  	P25E 	Law Dispatch 
+153.00500 	159.96750  	WQXB619 	RM	311 NAC	SIUC Police B 	Police  	P25E 	Law Dispatch 
+460.02500 	   	WQLP432 	M		SIUC Bomb V 	Bomb Disposal Robot (Voice Ops) 	FMN 	Law Tac 
+453.10000 	458.10000  	WNQK878 	RM		SIUC Ops 1 	Operations 	FMN 	Schools 
+453.60000 	458.60000  	KWM756 	RM	127.3 PL	SIUC Maintnc 	Maintenance 	FMN 	Schools 
+453.65000 	458.65000  	KWM756 	RM	127.3 PL	SIUC Ops 2 	Operations 	FMN 	Schools 
+158.74500 	155.82000  	 	RM		SIUC Ops 3 	Operations 	FMN 	Schools 
+453.65000 	458.65000  	KWM756 	RM	103.5 PL	SIUC Shuttle 	Shuttle Transportation 	FMN 	Transportation 
+453.70000 	458.70000  	WPKS735 	RM		SIUC IDAROp1 	Illinois Dept of Agriculture - Research Operations 	FMN 	Schools 
+453.87500 	458.87500  	WPFY983 	RM	110.9 PL	SIUC IDAROp2 	Illinois Dept of Agriculture - Research Operations 	FMN 	Schools 
+151.68500 	   	 	M		SUIC FdSvc 1 	Food Service 	FMN 	Schools 
+151.71500 	   	 	M		SUIC FdSvc 2 	Food Service 	FMN 	Schools 
+151.86500 	   	 	M		SUIC FdSvc 3 	Food Service 	FMN 	Schools 
+453.15000 	   	 	M		SIUC SOM Op1 	School of Medicine  	FMN 	Schools 
+469.55000 	   	 	M		SIUC SOM Op2 	School of Medicine 	FMN 	Schools 
+123.50000 	   	KHK4 	B	CSQ	SIUC Flight 	SIU Flight School 	AM 	Aircraft 
+465.02500 	   	WQLP432 	M		SIUC Bomb D 	Bomb Disposal Robot (Data) 	Telm 	Data 
+155.11500 	   	WQG909 	BM		SIAA Ops 	Operations  	FMN 	Public Works 
+119.72500 	   	 	BM	CSQ	MDH ATIS 	ATIS 	AM 	Aircraft 
+121.80000 	   	 	BM	CSQ	MDH Ground 	Carbondale Ground 	AM 	Aircraft 
+122.95000 	   	 	BM	CSQ	MDH UNICOM 	UNICOM 	AM 	Aircraft 
+125.30000 	   	 	BM	CSQ	Marion RCAG 	Approach/Departure (KC ARTCC) 	AM 	Aircraft 
+125.35000 	   	 	BM	CSQ	MDH CTAF 	CTAF 	AM 	Aircraft 
+125.35000 	   	 	BM	CSQ	MDH Tower 	Carbondale Tower 	AM 	Aircraft 
+171.61250 	   	 	BM	540 NAC	171.6125 N540 	Operations 	P25 	Federal 
 Egyptian Electric Cooperative (S IL)	 DMR Conventional Networked	 Steeleville	Roy Walker Communications (DMR)	 DMR Conventional Networked	 Makanda	

@@ -1,61 +1,60 @@
-154.89000 	KMD980 	RM	192.8 PL	MercedCoSOConv E 	Conventional East 	FMN 	Law Tac 
-155.64000 	WQON592 	RM	192.8 PL	MercedCoSOConvW 	Conventional West 	FMN 	Law Tac 
-155.98500 	WQAC485 	RM		MercedCoSO Jail 	Jail Operations 	FM 	Corrections 
-154.40000 	KAZ429 	RM	123.0 PL	Merced Co FD1 	Dispatch (Mariposa ECC) 	FMN 	Fire Dispatch 
-154.34000 	KDL783 	BM	123.0 PL	Merced Co FD2 	Tac "Orange" 	FMN 	Fire-Tac 
-463.15000 	WQX515 	M	123.0 PL	Merced Co Med7 	On Scene Operations 	FMN 	EMS-Tac 
-463.17500 	WQX515 	RM	123.0 PL	Merced Co Med8 	Medic to Hospital 	FM 	Hospital 
-462.95000 	WQX515 	RM	123.0 PL	Merced Co Med9 	Dispatch 	FM 	EMS Dispatch 
-859.46250 	WGG897 	RM	71.9 PL	Riggs Amb 	Riggs Ambulance - Operations 	FM 	EMS Dispatch 
-155.64000 	WQON592 	RM	192.8 PL	XMC CMD W-V 	Interop Command West - VHF 	FMN 	Interop 
-155.89000 	WQAG528 	RM	192.8 PL	XMC CMD E-V 	Interop Command East - VHF 	FMN 	Interop 
-460.41250 	WQOM230 	RM	192.8 PL	XMC CMD W-U 	Interop Command West - UHF 	FMN 	Interop 
-460.18750 	WQOM230 	RM	192.8 PL	XMC CMD E-U 	Interop Command East - UHF 	FMN 	Interop 
-859.21250 	WQOA292 	RM	192.8 PL	XMC CMD W800 	Interop Command West - 800 MHz 	FMN 	Interop 
-854.46250 	WQOA292 	RM	192.8 PL	XMC CMD E800 	Interop Command East - 800 MHz 	FMN 	Interop 
-153.81500 	WQAG514 	M		MMAD Ops 	Merced Mosquito Abatement District 	FM 	Public Works 
-155.10000 	WNPA711 	BM		PW Hwy59 Dump 	Highway 59 Dump - Operations 	FM 	Public Works 
-155.10000 	WNPA711 	BM	032 DPL	PW BW Dump 	Billy Wright Dump - Operations 	FM 	Public Works 
-154.01000 	 	RM	114.8 PL	Atwater FD Cmd 	Fire Command 	FMN 	Fire-Tac 
-154.20500 	 	M	114.8 PL	Atwater FD Tac 	Fire Tac "Yellow" - East County/Atwater 	FMN 	Fire-Talk 
-453.42500 	WQEN383 	RM		Atwater PW 	Public Works 	FM 	Public Works 
-152.07500 	WPVE488 	RM	131.8 PL	Dos Palos PD 	Police Dispatch 	FM 	Law Dispatch 
-155.84250 	WQHG825 	RM		Dos Palos PW 	Public Works/Parks/City Gov 	FMN 	Public Works 
-853.55000 	WQED933 	RM	223 DPL	Gustine PD 	Police Dispatch 	FM 	Law Dispatch 
-155.68500 	KMH518 	RM	114.8 PL	Livingston PD1 	Police Ch 1 	FM 	Law Dispatch 
-154.89000 	KMH518 	BM	192.8 PL	Livingston PD2 	Police Ch 2 ("980 Channel") 	FM 	Law Tac 
-153.78500 	KEG415 	RM		Livingston PW 	Public Works 	FM 	Public Works 
-154.81500 	KMA864 	RM	141.3 PL	Los Banos PD 	Police Dispatch 	FMN 	Law Dispatch 
-154.31000 	WNHM779 	RM	114.8 PL	Los Banos FD Dsp 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.55000 	 	RM	123.0 PL	Los Banos FD Cmd 	Fire Command 	FMN 	Fire-Tac 
-155.90250 	 	M	162.2 PL	Los Banos FD T1 	Fire Tac 1 	FMN 	Fire-Talk 
-155.13750 	 	M	173.8 PL	Los Banos FD T2 	Fire Tac 2 	FMN 	Fire-Talk 
-154.10000 	 	M	136.5 PL	Los Banos FD T3 	Fire Tac 3 	FMN 	Fire-Talk 
-155.02500 	KNAR852 	BM	CSQ	Los Banos LG1 	Local Government Ch 1 	FM 	Public Works 
-154.04000 	KNAR852 	BM		Los Banos LG2 	Local Government Ch 2 	FM 	Public Works 
-153.86000 	KNAR852 	BM		Los Banos LG3 	Local Government Ch 3 	FM 	Public Works 
-858.21250 	WQHM211 	RM		Los Banos MDC 	Mobile Data Computers 	Telm 	Data 
-155.95500 	KMA849 	RM	114 DPL	Merced PD1 	Police Dispatch 	FM 	Law Dispatch 
-155.52000 	KMA849 	RM	114.8 PL	Merced PD2 	Police Secondary 	FM 	Law Tac 
-154.87500 	 	M	411 DPL	Merced PD3 	Police Tac 	FM 	Law Tac 
-466.11250 	 	M	CSQ	Merced PD EOD 	Police EOD  	FMN 	Law Talk 
-155.80500 	WPKZ634 	RM	173.8 PL	Merced FD Cmd1 	Fire Command 1 	FMN 	Fire Dispatch 
-153.90500 	WPKZ634 	RM	173.8 PL	Merced FD Cmd2 	Fire Command 2 	FMN 	Fire-Tac 
-154.13000 	KMB463 	BM	173.8 PL	Merced FD T3 	Fire Tac 3 	FMN 	Fire-Talk 
-154.17500 	KMB463 	BM	173.8 PL	Merced FD T4 	Fire Tac 4 	FMN 	Fire-Talk 
-153.90500 	 	BM	173.8 PL	Merced FD T5 	Fire Tac 5 	FMN 	Fire-Talk 
-154.04000 	WPLX348 	RM	CSQ	Merced PW1 	Public Works 1 	FM 	Public Works 
-154.08500 	WPLX348 	M		Merced PW2 	Public Works 2 	FM 	Public Works 
-155.16000 	WPMM441 	BM		LBUSD Bus 	Buses 	FM 	Schools 
-157.56000 	WPML818 	RM	311 DPL	LBUSD Misc 	Transportation/Buses/General 	FM 	Schools 
-159.57000 	WQMK952 	RM		Pacheco HS1 	Pacheco High 1 	FM 	Schools 
-151.92500 	WQMK952 	M		Pacheco HS2 	Pacheco High 2 	FM 	Schools 
-851.48750 	WQBZ260 	RM	293 NAC	UC M PubSfty 	Public Safety 	P25 	Law Talk 
-851.98750 	WQBZ260 	RM	293 NAC	UC M PubSfty 	Public Safety 	P25 	Law Talk 
-852.48750 	WQBZ260 	RM	293 NAC	UC M PubSfty 	Public Safety 	P25 	Law Talk 
-852.98750 	WQBZ260 	RM	293 NAC	UC M PubSfty 	Public Safety 	P25 	Law Talk 
-853.48750 	WQBZ260 	RM	293 NAC	UC M PubSfty 	Public Safety 	P25 	Law Talk 
-461.77500 	WQEW382 	RM	156.7 PL	LBMH Engnrg 	Engineering 	FM 	Business 
-AirCall Communications	 DMR Motorola Connect Plus (TRBO)	 	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	Merced County (East County)	 Motorola Type I
- Merced County	Merced County (West County)	 Motorola Type II	 Los Banos	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	US Penitentiary Atwater
- Project 25 Phase I	 Atwater	
+154.89000 	159.15750  	KMD980 	RM	192.8 PL	MercedCoSOConv E 	Conventional East 	FMN 	Law Tac 
+155.64000 	154.11500  	WQON592 	RM	192.8 PL	MercedCoSOConvW 	Conventional West 	FMN 	Law Tac 
+155.98500 	153.93500  	WQAC485 	RM		MercedCoSO Jail 	Jail Operations 	FM 	Corrections 
+154.40000 	159.04500  	KAZ429 	RM	123.0 PL	Merced Co FD1 	Dispatch (Mariposa ECC) 	FMN 	Fire Dispatch 
+154.34000 	   	KDL783 	BM	123.0 PL	Merced Co FD2 	Tac "Orange" 	FMN 	Fire-Tac 
+463.15000 	   	WQX515 	M	123.0 PL	Merced Co Med7 	On Scene Operations 	FMN 	EMS-Tac 
+463.17500 	468.17500  	WQX515 	RM	123.0 PL	Merced Co Med8 	Medic to Hospital 	FM 	Hospital 
+462.95000 	467.95000  	WQX515 	RM	123.0 PL	Merced Co Med9 	Dispatch 	FM 	EMS Dispatch 
+859.46250 	814.46250  	WGG897 	RM	71.9 PL	Riggs Amb 	Riggs Ambulance - Operations 	FM 	EMS Dispatch 
+155.64000 	154.11500  	WQON592 	RM	192.8 PL	XMC CMD W-V 	Interop Command West - VHF 	FMN 	Interop 
+155.89000 	159.11750  	WQAG528 	RM	192.8 PL	XMC CMD E-V 	Interop Command East - VHF 	FMN 	Interop 
+460.41250 	465.41250  	WQOM230 	RM	192.8 PL	XMC CMD W-U 	Interop Command West - UHF 	FMN 	Interop 
+460.18750 	465.18750  	WQOM230 	RM	192.8 PL	XMC CMD E-U 	Interop Command East - UHF 	FMN 	Interop 
+859.21250 	809.46250  	WQOA292 	RM	192.8 PL	XMC CMD W800 	Interop Command West - 800 MHz 	FMN 	Interop 
+854.46250 	809.46250  	WQOA292 	RM	192.8 PL	XMC CMD E800 	Interop Command East - 800 MHz 	FMN 	Interop 
+153.81500 	   	WQAG514 	M		MMAD Ops 	Merced Mosquito Abatement District 	FM 	Public Works 
+155.10000 	   	WNPA711 	BM		PW Hwy59 Dump 	Highway 59 Dump - Operations 	FM 	Public Works 
+155.10000 	   	WNPA711 	BM	032 DPL	PW BW Dump 	Billy Wright Dump - Operations 	FM 	Public Works 
+154.01000 	156.10500  	 	RM	114.8 PL	Atwater FD Cmd 	Fire Command 	FMN 	Fire-Tac 
+154.20500 	   	 	M	114.8 PL	Atwater FD Tac 	Fire Tac "Yellow" - East County/Atwater 	FMN 	Fire-Talk 
+453.42500 	458.42500  	WQEN383 	RM		Atwater PW 	Public Works 	FM 	Public Works 
+152.07500 	158.53500  	WPVE488 	RM	131.8 PL	Dos Palos PD 	Police Dispatch 	FM 	Law Dispatch 
+155.84250 	158.81250  	WQHG825 	RM		Dos Palos PW 	Public Works/Parks/City Gov 	FMN 	Public Works 
+853.55000 	808.55000  	WQED933 	RM	223 DPL	Gustine PD 	Police Dispatch 	FM 	Law Dispatch 
+155.68500 	158.98500  	KMH518 	RM	114.8 PL	Livingston PD1 	Police Ch 1 	FM 	Law Dispatch 
+154.89000 	   	KMH518 	BM	192.8 PL	Livingston PD2 	Police Ch 2 ("980 Channel") 	FM 	Law Tac 
+153.78500 	156.22500  	KEG415 	RM		Livingston PW 	Public Works 	FM 	Public Works 
+154.81500 	155.62500  	KMA864 	RM	141.3 PL	Los Banos PD 	Police Dispatch 	FMN 	Law Dispatch 
+154.31000 	150.77500  	WNHM779 	RM	114.8 PL	Los Banos FD Dsp 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.55000 	159.18000  	 	RM	123.0 PL	Los Banos FD Cmd 	Fire Command 	FMN 	Fire-Tac 
+155.90250 	   	 	M	162.2 PL	Los Banos FD T1 	Fire Tac 1 	FMN 	Fire-Talk 
+155.13750 	   	 	M	173.8 PL	Los Banos FD T2 	Fire Tac 2 	FMN 	Fire-Talk 
+154.10000 	   	 	M	136.5 PL	Los Banos FD T3 	Fire Tac 3 	FMN 	Fire-Talk 
+155.02500 	   	KNAR852 	BM	CSQ	Los Banos LG1 	Local Government Ch 1 	FM 	Public Works 
+154.04000 	   	KNAR852 	BM		Los Banos LG2 	Local Government Ch 2 	FM 	Public Works 
+153.86000 	   	KNAR852 	BM		Los Banos LG3 	Local Government Ch 3 	FM 	Public Works 
+858.21250 	813.21250  	WQHM211 	RM		Los Banos MDC 	Mobile Data Computers 	Telm 	Data 
+155.95500 	159.00000  	KMA849 	RM	114 DPL	Merced PD1 	Police Dispatch 	FM 	Law Dispatch 
+155.52000 	159.10500  	KMA849 	RM	114.8 PL	Merced PD2 	Police Secondary 	FM 	Law Tac 
+154.87500 	   	 	M	411 DPL	Merced PD3 	Police Tac 	FM 	Law Tac 
+466.11250 	   	 	M	CSQ	Merced PD EOD 	Police EOD  	FMN 	Law Talk 
+155.80500 	158.93250  	WPKZ634 	RM	173.8 PL	Merced FD Cmd1 	Fire Command 1 	FMN 	Fire Dispatch 
+153.90500 	158.96250  	WPKZ634 	RM	173.8 PL	Merced FD Cmd2 	Fire Command 2 	FMN 	Fire-Tac 
+154.13000 	   	KMB463 	BM	173.8 PL	Merced FD T3 	Fire Tac 3 	FMN 	Fire-Talk 
+154.17500 	   	KMB463 	BM	173.8 PL	Merced FD T4 	Fire Tac 4 	FMN 	Fire-Talk 
+153.90500 	   	 	BM	173.8 PL	Merced FD T5 	Fire Tac 5 	FMN 	Fire-Talk 
+154.04000 	156.15000  	WPLX348 	RM	CSQ	Merced PW1 	Public Works 1 	FM 	Public Works 
+154.08500 	   	WPLX348 	M		Merced PW2 	Public Works 2 	FM 	Public Works 
+155.16000 	   	WPMM441 	BM		LBUSD Bus 	Buses 	FM 	Schools 
+157.56000 	151.71500  	WPML818 	RM	311 DPL	LBUSD Misc 	Transportation/Buses/General 	FM 	Schools 
+159.57000 	151.60250  	WQMK952 	RM		Pacheco HS1 	Pacheco High 1 	FM 	Schools 
+151.92500 	   	WQMK952 	M		Pacheco HS2 	Pacheco High 2 	FM 	Schools 
+851.48750 	806.48750  	WQBZ260 	RM	293 NAC	UC M PubSfty 	Public Safety 	P25 	Law Talk 
+851.98750 	806.98750  	WQBZ260 	RM	293 NAC	UC M PubSfty 	Public Safety 	P25 	Law Talk 
+852.48750 	807.48750  	WQBZ260 	RM	293 NAC	UC M PubSfty 	Public Safety 	P25 	Law Talk 
+852.98750 	807.98750  	WQBZ260 	RM	293 NAC	UC M PubSfty 	Public Safety 	P25 	Law Talk 
+853.48750 	808.48750  	WQBZ260 	RM	293 NAC	UC M PubSfty 	Public Safety 	P25 	Law Talk 
+461.77500 	466.77500  	WQEW382 	RM	156.7 PL	LBMH Engnrg 	Engineering 	FM 	Business 
+AirCall Communications	 DMR Motorola Connect Plus (TRBO)	 	Merced County (East County)	 Motorola Type I	 Merced County	Merced County (West County)	 Motorola Type II	 Los Banos
+Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	US Penitentiary Atwater	 Project 25 Phase I	 Atwater	

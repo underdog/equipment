@@ -1,21 +1,21 @@
-155.10000 	WQBM739 	B		FIRE DISP. 	Fire Dispatch (Simulcast from TRS, new) 	FMN 	Fire Dispatch 
-155.86500 	WQBM739 	B	CSQ	FIRE OPS 	Fire Simulcast of Fire 1, Fire 2 and Fire 3 of TRS (new) 	FMN 	Fire-Tac 
-39.18000 	WNCP545 	BM		WorcCoAviatn 	Aviation Patch 	FM 	Interop 
-155.29500 	WNRD779 	BM		WC BOE Trnsp 	Transportation (patched to trunked system) 	FMN 	Schools 
-453.83750 	WQNK571 	RM		WorcTech HS 	Worcester Technical High School 	FMN 	Schools 
-461.05000 	WPEY214 	RM		StDecaturHS1 	Stephen Decatur High School (Ch. 1) 	FMN 	Schools 
-467.76250 	WPEY214 	M		StDecaturHS2 	Stephen Decatur High School (Ch. 2) 	FMN 	Schools 
-453.65000 	WPPU844 	RM		WC Jail Ops 	Operations 	DMR 	Corrections 
-39.60000 	KZT386 	BM		MSP Berlin 	Berlin Barracks 	FM 	Law Dispatch 
-158.89500 	KNCZ346 	B	CSQ	FE DISP 	Fire Dispatch (Patched to TRS) 	FMN 	Fire Dispatch 
-154.08500 	KNCZ346 	B		FIRE OPS 	Fire Operations 1 (Patched to TRS) 	FMN 	Fire-Tac 
-154.02500 	KSU640 	BM	146.2 PL	MEDEVAC 	Medevac Helicopters (Patch to TRS) 	FMN 	Multi-Tac 
-810.31250 	 	M	025 DPL	OCPD Brdwlk 	Talkaround ("Boardwalk") 	FMN 	Law Tac 
-123.05000 	 	BM	CSQ	OXB CTAF 	Ocean City Municipal Airport CTAF 	AM 	Aircraft 
-119.02500 	 	BM		OXB AWOS 	Ocean City Municipal Airport AWOS ASOS 	AM 	Aircraft 
-121.75000 	 	BM		OXB Clearance 	Ocean City Municipal Airport Clearance Delivery 	AM 	Aircraft 
-123.50000 	 	M	CSQ	AIR BANNER 	Banner Tow Aircraft - Air-to-Air 	AM 	Aircraft 
-170.91250 	 	RM	167 NAC	FBI OceanCty 	Ocean City 	P25 	Federal 
-Casino at Ocean Downs	 DMR Motorola Capacity Plus Single Site (TRBO)	 Berlin	Choptank Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone
- Various	DMR-MARC Amateur Radio Network (MD)	 DMR Conventional Networked	 Various	Teltronic (Whaleyville Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Whaleyville	Teltronic (Whaleyville)
- LTR Standard	 Whaleyville	
+155.10000 	   	WQBM739 	B		FIRE DISP. 	Fire Dispatch (Simulcast from TRS, new) 	FMN 	Fire Dispatch 
+155.86500 	   	WQBM739 	B	CSQ	FIRE OPS 	Fire Simulcast of Fire 1, Fire 2 and Fire 3 of TRS (new) 	FMN 	Fire-Tac 
+39.18000 	   	WNCP545 	BM		WorcCoAviatn 	Aviation Patch 	FM 	Interop 
+155.29500 	   	WNRD779 	BM		WC BOE Trnsp 	Transportation (patched to trunked system) 	FMN 	Schools 
+453.83750 	   	WQNK571 	RM		WorcTech HS 	Worcester Technical High School 	FMN 	Schools 
+461.05000 	466.05000  	WPEY214 	RM		StDecaturHS1 	Stephen Decatur High School (Ch. 1) 	FMN 	Schools 
+467.76250 	   	WPEY214 	M		StDecaturHS2 	Stephen Decatur High School (Ch. 2) 	FMN 	Schools 
+453.65000 	458.65000  	WPPU844 	RM		WC Jail Ops 	Operations 	DMR 	Corrections 
+39.60000 	   	KZT386 	BM		MSP Berlin 	Berlin Barracks 	FM 	Law Dispatch 
+158.89500 	   	KNCZ346 	B	CSQ	FE DISP 	Fire Dispatch (Patched to TRS) 	FMN 	Fire Dispatch 
+154.08500 	   	KNCZ346 	B		FIRE OPS 	Fire Operations 1 (Patched to TRS) 	FMN 	Fire-Tac 
+154.02500 	   	KSU640 	BM	146.2 PL	MEDEVAC 	Medevac Helicopters (Patch to TRS) 	FMN 	Multi-Tac 
+810.31250 	   	 	M	025 DPL	OCPD Brdwlk 	Talkaround ("Boardwalk") 	FMN 	Law Tac 
+123.05000 	   	 	BM	CSQ	OXB CTAF 	Ocean City Municipal Airport CTAF 	AM 	Aircraft 
+119.02500 	   	 	BM		OXB AWOS 	Ocean City Municipal Airport AWOS ASOS 	AM 	Aircraft 
+121.75000 	   	 	BM		OXB Clearance 	Ocean City Municipal Airport Clearance Delivery 	AM 	Aircraft 
+123.50000 	   	 	M	CSQ	AIR BANNER 	Banner Tow Aircraft - Air-to-Air 	AM 	Aircraft 
+170.91250 	173.71250  	 	RM	167 NAC	FBI OceanCty 	Ocean City 	P25 	Federal 
+Casino at Ocean Downs	 DMR Motorola Capacity Plus Single Site (TRBO)	 Berlin	Choptank Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone	 Various
+DMR-MARC Amateur Radio Network (MD)	 DMR Conventional Networked	 Various	First Responders Interoperable Radio System Team (FIRST)	 Project 25 Phase II	 Various	Ocean City	 Project 25 Phase II	 Ocean City
+Teltronic (Whaleyville Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Whaleyville	Teltronic (Whaleyville)	 LTR Standard	 Whaleyville	Worcester County	 Project 25 Phase II	 Various

@@ -1,28 +1,29 @@
-151.23500 	KQA330 	BM		IPD CAR 	Ironton Police car to car 	FM 	Law Talk 
-151.68500 	WPVW781 	BM		OH YOUTH CNT 	Ohio Youth Center 	FM 	Law Talk 
-154.12250 	WPRF534 	RM		LAWCO CH SEC 	Lawrence County Courthouse security 	FM 	Law Talk 
-154.40000 	WPJG904 	RM	156.7 PL	LAWCO SO 	Lawrence Co SO 	FM 	Law Dispatch 
-154.74000 	WPRI231 	BM		CPD TAC 	Chesapeake PD tactical 	FM 	Law Tac 
-154.80000 	KQA330 	RM	100.0 PL	IPD DISPATCH 	Ironton Police dispatch 	FM 	Law Dispatch 
-154.01000 	KNGQ549 	BM	103.5 PL	LAWCO FG  	County Fire fireground/EMS alerting 	FM 	Fire-Tac 
-155.80500 	KNAP207 	BM	100.0 PL	LAWCOFD EMA 	County Fire (EMA) 	FM 	Fire-Tac 
-151.31000 	WPME768 	RM	77.0 PL	LAWCOFD EMA 	County Fire (EMA) 	FM 	Fire-Tac 
-150.99500 	WNHU969 	RM	103.5 PL	IRONTON FIRE 	Ironton Fire 	FM 	Fire Dispatch 
-154.20500 	WSW321 	RM	173.8 PL	PERRYTWP FD 	Perry Twp Fire 	FM 	Fire Dispatch 
-154.20500 	WNVH499 	RM	110.9 PL	LAWTWP FIRE 	Lawrence Twp Fire 	FM 	Fire Dispatch 
-458.05000 	KNGQ549 	F		FD DSF LINK 	154.205 link to/from Dean State Forest site 	FM 	Other 
-460.62500 	KNGQ549 	F		FD IRON LINK 	154.205 link to/from Ironton site 	FM 	Other 
-154.04000 	WNBB960 	BM		IRONTON SVC 	Ironton Service 	FM 	Public Works 
-154.05500 	WNPU642 	BM	151.4 PL	SOPOINT SVC 	South Point service dept 	FM 	Public Works 
-453.15000 	WNKW644 	RM		LAWCO ENG 	Lawrence Co Engineer 	FM 	Public Works 
-451.62500 	WPPH671 	RM		SOPOINT LSD 	South Point Schools 	FM 	Public Works 
-462.02500 	WPJN628 	RM		SYMMESV LSD 	Symmes Valley Schools 	FM 	Public Works 
-463.60000 	 	RM		IRONTON CSD 	Ironton Schools 	FM 	Schools 
-451.13750 	WPNZ664 	RM		COL GAS KY 	Columbia Gas of Kentucky 	P25 	Utilities 
-451.16250 	WPPW273 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
-122.80000 	 	BA		PMH CTAF 	CTAF/Unicom 	AM 	Aircraft 
-125.17500 	KCE8 	B		PMH AWOS 	Automated Weather Observation Station (AWOS) 	AM 	Aircraft 
-132.95000 	 	BA		KHTS APP/DEP 	Huntington Approach/Departure (KHTS)  (0600 - 2300 Local) 	AM 	Aircraft 
-122.70000 	 	BM		KHTW CTAF 	CTAF/Unicom 	AM 	Aircraft 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
- Statewide	
+151.23500 	   	KQA330 	BM		IPD CAR 	Ironton Police car to car 	FM 	Law Talk 
+151.68500 	   	WPVW781 	BM		OH YOUTH CNT 	Ohio Youth Center 	FM 	Law Talk 
+154.12250 	158.88750  	WPRF534 	RM		LAWCO CH SEC 	Lawrence County Courthouse security 	FM 	Law Talk 
+154.40000 	158.92500  	WPJG904 	RM	156.7 PL	LAWCO SO 	Lawrence Co SO 	FM 	Law Dispatch 
+154.74000 	   	WPRI231 	BM		CPD TAC 	Chesapeake PD tactical 	FM 	Law Tac 
+154.80000 	156.09000  	KQA330 	RM	100.0 PL	IPD DISPATCH 	Ironton Police dispatch 	FM 	Law Dispatch 
+154.20500 	151.31000  	WPWA788 	RM	103.5 PL	LawCoFD/EMS Disp 	County Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.01000 	   	KNGQ549 	BM	103.5 PL	LAWCO FG  	County Fire fireground/EMS alerting 	FM 	Fire-Tac 
+155.80500 	   	KNAP207 	BM	100.0 PL	LAWCOFD EMA 	County Fire (EMA) 	FM 	Fire-Tac 
+151.31000 	153.98000  	WPME768 	RM	77.0 PL	LAWCOFD EMA 	County Fire (EMA) 	FM 	Fire-Tac 
+150.99500 	159.18000  	WNHU969 	RM	103.5 PL	IRONTON FIRE 	Ironton Fire 	FM 	Fire Dispatch 
+154.20500 	159.06000  	WSW321 	RM	173.8 PL	PERRYTWP FD 	Perry Twp Fire 	FM 	Fire Dispatch 
+154.20500 	156.00000  	WNVH499 	RM	110.9 PL	LAWTWP FIRE 	Lawrence Twp Fire 	FM 	Fire Dispatch 
+458.05000 	   	KNGQ549 	F		FD DSF LINK 	154.205 link to/from Dean State Forest site 	FM 	Other 
+460.62500 	   	KNGQ549 	F		FD IRON LINK 	154.205 link to/from Ironton site 	FM 	Other 
+154.04000 	   	WNBB960 	BM	127.3 PL	IRONTON SVC 	Ironton Water 	FM 	Utilities 
+154.05500 	   	WNPU642 	BM	151.4 PL	SOPOINT SVC 	South Point service dept 	FM 	Public Works 
+453.15000 	458.15000  	WNKW644 	RM		LAWCO ENG 	Lawrence Co Engineer 	FM 	Public Works 
+451.62500 	456.62500  	WPPH671 	RM		SOPOINT LSD 	South Point Schools 	FM 	Public Works 
+462.02500 	467.02500  	WPJN628 	RM		SYMMESV LSD 	Symmes Valley Schools 	FM 	Public Works 
+463.60000 	468.60000  	 	RM		IRONTON CSD 	Ironton Schools 	FM 	Schools 
+155.43000 	159.27000  	WQBG628 	RM	271 DPL	Rome Twnshp Fire 	Fire 	FMN 	Fire Dispatch 
+451.13750 	456.13750  	WPNZ664 	RM		COL GAS KY 	Columbia Gas of Kentucky 	P25 	Utilities 
+451.16250 	456.16250  	WPPW273 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+122.80000 	   	 	BA		PMH CTAF 	CTAF/Unicom 	AM 	Aircraft 
+125.17500 	   	KCE8 	B		PMH AWOS 	Automated Weather Observation Station (AWOS) 	AM 	Aircraft 
+132.95000 	   	 	BA		KHTS APP/DEP 	Huntington Approach/Departure (KHTS)  (0600 - 2300 Local) 	AM 	Aircraft 
+122.70000 	   	 	BM		KHTW CTAF 	CTAF/Unicom 	AM 	Aircraft 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide

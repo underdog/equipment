@@ -1,14 +1,14 @@
-154.01000 	KDO232 	B	156.7 PL	MCFR Disp 	Fire Alerting  	FM 	Fire Dispatch 
-460.23750 	WQNH585 	RM	226 DPL	Bessey Creek 	Bessey Creek Elementary 	FMN 	Schools 
-462.81250 	 	M	156 DPL	Williams ES 1 	Felix A. Williams Elementary School -1 	FMN 	Schools 
-466.72500 	 	M	664 DPL	Williams ES 2 	Felix A. Williams Elementary School -2  	FMN 	Schools 
-461.57500 	WQFT375 	RM	263 DPL	Murray MS 	Murray Middle School 	FM 	Schools 
-463.28750 	WQFT375 	RM	606 DPL	Murray MS 	Murray Middle School 	FM 	Schools 
-463.48750 	WQFT375 	RM	205 DPL	Murray MS 	Murray Middle School 	FM 	Schools 
-152.39000 	WQHL376 	RM	731 DPL	Stuart MS 	Stuart Middle School 	FM 	Schools 
-464.97500 	WNXM285 	RM		Ocean Br PW 	Services 	FM 	Public Works 
-Car-Comm (DMR)	 DMR Hytera XPT	 Lake Park	Car-Comm (LTR)	 LTR Standard	 Stuart	CEMEX (Stuart)	 LTR Standard
- Stuart	Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various	Florida Power and Light (Indiantown)	 DMR Motorola Connect Plus (TRBO)	 Indiantown	Florida Power and Light (P25)
- Project 25 Phase II	 Varies	Highland Wireless (Palm City)	 LTR Standard	 Palm City	Highland Wireless - Suntalk Linked System (470 Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various
-Martin County Public Services	 Motorola Type II SmartZone	 Martin County	Public Safety Interoperable Communications Network (PSIC)	 Project 25 Phase I	 Various	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I
- Statewide	Treasure Coast Regional Communication System	 Project 25 Phase II	 St. Lucie County	Waste Management (Palm City)	 LTR Standard	 Palm City	
+154.01000 	   	KDO232 	B	156.7 PL	MCFR Disp 	Fire Alerting  	FM 	Fire Dispatch 
+460.23750 	465.23750  	WQNH585 	RM	226 DPL	Bessey Creek 	Bessey Creek Elementary 	FMN 	Schools 
+462.81250 	   	 	M	156 DPL	Williams ES 1 	Felix A. Williams Elementary School -1 	FMN 	Schools 
+466.72500 	   	 	M	664 DPL	Williams ES 2 	Felix A. Williams Elementary School -2  	FMN 	Schools 
+461.57500 	466.57500  	WQFT375 	RM	263 DPL	Murray MS 	Murray Middle School 	FM 	Schools 
+463.28750 	468.28750  	WQFT375 	RM	606 DPL	Murray MS 	Murray Middle School 	FM 	Schools 
+463.48750 	468.48750  	WQFT375 	RM	205 DPL	Murray MS 	Murray Middle School 	FM 	Schools 
+152.39000 	157.65000  	WQHL376 	RM	731 DPL	Stuart MS 	Stuart Middle School 	FM 	Schools 
+464.97500 	469.97500  	WNXM285 	RM		Ocean Br PW 	Services 	FM 	Public Works 
+Car-Comm (DMR)	 DMR Hytera XPT	 Lake Park	Car-Comm (LTR)	 LTR Standard	 Stuart	CEMEX (Stuart)	 LTR Standard	 Stuart
+Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various	Florida Power and Light (Indiantown)	 DMR Motorola Connect Plus (TRBO)	 Indiantown	Highland Wireless (Palm City)	 LTR Standard	 Palm City
+Highland Wireless - Suntalk Linked System (470 Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	Martin County Public Services	 Motorola Type II SmartZone	 Martin County	Public Safety Interoperable Communications Network (PSIC)	 Project 25 Phase I	 Various
+Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	Treasure Coast Regional Communication System	 Project 25 Phase II	 St. Lucie County
+Waste Management (Palm City)	 LTR Standard	 Palm City	

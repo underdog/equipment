@@ -1,55 +1,54 @@
-153.86000 	KYQ440 	B	162.2 PL	JeffCoFDp/At 	Jefferson County Fire/EMS - Alerting / Dispatch 	FM 	Fire Dispatch 
-154.28000 	WYR579 	B	CSQ	JeffCo MuAid 	Jefferson County  - Mutual Aid 	FM 	Interop 
-453.56250 	WQFW516 	BM	466 DPL	JeffConv1 	Jefferson Conventional 1 	FMN 	Multi-Tac 
-453.63750 	WQFW516 	BM	466 DPL	JeffConv2 	Jefferson Conventional 2 	FMN 	Multi-Tac 
-155.34000 	 	BM	179.9 PL	WVUMedcom 	WVU Medcom Medivac Communications 	FM 	EMS-Tac 
-468.00000 	WPSE394 	BM	151.4 PL	HELO 1 	Helicopter to Ground Units 	FMN 	EMS-Tac 
-468.02500 	WPSE394 	BM	151.4 PL	HELO 2 	Helicopter to Ground Units 	FMN 	EMS-Tac 
-463.88750 	WQRM435 	RM	662 DPL	JMC Security 	Jefferson Medical Center Security 	FMN 	Hospital 
-154.54000 	WPEH287 	BM	343 DPL	Shndle ComPt 	Shannondale Community Patrol 	FM 	Security 
-151.04000 	WPIX761 	RM	151.4 PL	WVSP-BCI3 	 West Virginia State Police BCI Ch. 3 - Troop 2 	FM 	Law Talk 
-156.03000 	KB88193 	M	179.9 PL	WVSP Drect 1 	West Virginia State Police - Direct 1 Car to Car 	FM 	Law Talk 
-158.91000 	WNWR720 	M	026 DPL	WVSP Drect 2 	West Virginia State Police - Direct 2 Car to Car 	FM 	Law Talk 
-156.03000 	KB88193 	M	CSQ	WVSP-MRptr 	West Virginia State Police - Mobile Repeaters 	FM 	Law Talk 
-47.36000 	KQF791 	BM	123.0 PL	WVDOH 	West Virginia Department of Highways 	FM 	Transportation 
-47.28000 	KQF791 	BM		WVDOH 	West Virginia Department of Highways 	FM 	Transportation 
-47.14000 	 	BM	127.3 PL	WVDOH 	West Virginia Department of Highways 	FM 	Transportation 
-453.96250 	WPIC547 	BM	123.0 PL	WVDOH Ops 	West Virginia Department of Highways  - Operations (47.36 Simulcast Eastern Panhandle Radio Traffic for Snow Plows & Road Crews) 	FMN 	Transportation 
-170.05000 	 	BM	5C2 NAC	HFNP Ops  	Harpers Ferry National Park - Operations 	P25 	Federal 
-172.75000 	 	RM	4C5 NAC	HFNP Law 	Harpers Ferry National Park - Law Enforcement 	P25 	Federal 
-169.91250 	 	BM	325 NAC	USCBP Security 	U.S. Customs and Border Protection Advanced Training Facility - Security 	P25 	Federal 
-452.52500 	 	RM	411 DPL	NCTC Svcs 	National Conservation Training Center - All Services 	FM 	Federal 
-163.10000 	 	RM	252 NAC	USGS-Ops 	United States Geological Survey - Operations 	P25 	Federal 
-166.55000 	 		054 DPL	DSS Training 	Diplomatic Security Service - Training at Summit Point Raceway 	FM 	Federal 
-460.88750 	KB91394 	RM	127.3 PL	ShepU-PD 	Shepherd University Police & Call Box Patch 	FMN 	Security 
-463.50000 	WQBR581 	RM	146.2 PL	ShepU-Ops 	Shepherd University Operations 	FMN 	Schools 
-463.57500 	WQAW944 	RM		Shphtwn-PW 	Corporation of Shepherdstown 	FM 	Public Works 
-467.76250 	WQHE545 	M	065 DPL	HmDep Rans 1 	Home Depot - Ranson 	FM 	Business 
-467.83750 	WQHE545 	M	263 DPL	HmDep Rans 2 	Home Depot - Ranson 	FM 	Business 
-467.85000 	WQHE545 	M	331 DPL	HmDep Rans 3 	Home Depot - Ranson 	FM 	Business 
-467.87500 	WQHE545 	M	413 DPL	HmDep Rans 4 	Home Depot - Ranson 	FM 	Business 
-467.90000 	WQHE545 	M		HmDep Rans 5 	Home Depot - Ranson 	FM 	Business 
-467.85000 	 	M	023 DPL	KOHLS 	Kohl's Department Store 	FM 	Business 
-154.57000 	 	M	CSQ	WMrtSC ChsTw 	Walmart Super Center-Charles Town 	FM 	Business 
-464.67500 	WPXL321 	RM	025 DPL	SumPt Ch.1 	Main Office / EMS 	FMN 	Business 
-452.00000 	WPXL321 	RM	025 DPL	SumPt Ch.2 	Maintenance 	FMN 	Business 
-463.40000 	WPXL321 	RM	032 DPL	SumPt Ch.3 	Main Circuit 	FMN 	Business 
-463.81250 	WPXL321 	M	156 DPL	SumPt Ch.4 	Main Circuit 	FMN 	Business 
-451.92500 	WPXL321 	M	156 DPL	SumPt Ch.5 	Jefferson Circuit 	FMN 	Business 
-456.92500 	WPXL321 	M	156 DPL	SumPt Ch.6 	Jefferson Circuit 	FMN 	Business 
-452.41500 	WPXL321 	M	156 DPL	SumPt Ch.7 	Shenandoah Circuit 	FMN 	Business 
-457.00000 	WPXL321 	M	156 DPL	SumPt Ch.8 	Shenandoah Circuit 	FMN 	Business 
-452.10000 	WPXL321 	M	156 DPL	SumPt Ch.9 	Channel 9 	FMN 	Business 
-452.25000 	WPXL321 	M	156 DPL	SumPt Ch.10 	Channel 10 	FMN 	Business 
-457.25000 	WPXL321 	M	156 DPL	SumPt Ch.11 	Channel 11 	FMN 	Business 
-452.31250 	WPXL321 	M	156 DPL	SumPt Ch.12 	Kart Track 	FMN 	Business 
-452.41250 	WPXL321 	M	156 DPL	SumPt Ch.13 	Off-Road Course 	FMN 	Business 
-457.31250 	WPXL321 	M	156 DPL	SumPt Ch.14 	Off-Road Course 	FMN 	Business 
-457.41250 	WPXL321 	M	156 DPL	SumPt Ch.15 	Off-Road Course 	FMN 	Business 
-151.62500 	 	BM		SumPt151.625 	Summit Point Raceway 	FM 	Business 
-151.70000 	WQAQ574 	M		SCCA 151.700 	SCCA Washington DC Region 	FMN 	Business 
-159.91500 	WQAQ574 	BM	023 DPL	SCCA 159.915 	SCCA Washington DC Region 	FMN 	Business 
-461.13750 	 			SumPt MARC 	Mid-Atlantic Road Racing Club (cornerworkers for motorcycle races) 	FM 	Business 
-463.91250 	 	BM	047 DPL	HpFy RRiders 	Harpers Ferry Rafting / River Riders 	FMN 	Business 
-First Energy	 Project 25 Phase I	 Various	Hollywood Casino at Charles Town Races	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charles Town	West Virginia Statewide Interoperability Radio Network (SIRN) 	 Project 25 Phase I
- Statewide	
+153.86000 	   	KYQ440 	B	162.2 PL	JeffCoFDp/At 	Jefferson County Fire/EMS - Alerting / Dispatch 	FM 	Fire Dispatch 
+154.28000 	   	WYR579 	B	CSQ	JeffCo MuAid 	Jefferson County  - Mutual Aid 	FM 	Interop 
+453.56250 	   	WQFW516 	BM	466 DPL	JeffConv1 	Jefferson Conventional 1 	FMN 	Multi-Tac 
+453.63750 	   	WQFW516 	BM	466 DPL	JeffConv2 	Jefferson Conventional 2 	FMN 	Multi-Tac 
+155.34000 	   	 	BM	179.9 PL	WVUMedcom 	WVU Medcom Medivac Communications 	FM 	EMS-Tac 
+468.00000 	   	WPSE394 	BM	151.4 PL	HELO 1 	Helicopter to Ground Units 	FMN 	EMS-Tac 
+468.02500 	   	WPSE394 	BM	151.4 PL	HELO 2 	Helicopter to Ground Units 	FMN 	EMS-Tac 
+463.88750 	468.88750  	WQRM435 	RM	662 DPL	JMC Security 	Jefferson Medical Center Security 	FMN 	Hospital 
+154.54000 	   	WPEH287 	BM	343 DPL	Shndle ComPt 	Shannondale Community Patrol 	FM 	Security 
+151.04000 	155.64000  	WPIX761 	RM	151.4 PL	WVSP-BCI3 	 West Virginia State Police BCI Ch. 3 - Troop 2 	FM 	Law Talk 
+156.03000 	   	KB88193 	M	179.9 PL	WVSP Drect 1 	West Virginia State Police - Direct 1 Car to Car 	FM 	Law Talk 
+158.91000 	   	WNWR720 	M	026 DPL	WVSP Drect 2 	West Virginia State Police - Direct 2 Car to Car 	FM 	Law Talk 
+156.03000 	   	KB88193 	M	CSQ	WVSP-MRptr 	West Virginia State Police - Mobile Repeaters 	FM 	Law Talk 
+47.36000 	   	KQF791 	BM	123.0 PL	WVDOH 	West Virginia Department of Highways 	FM 	Transportation 
+47.28000 	   	KQF791 	BM		WVDOH 	West Virginia Department of Highways 	FM 	Transportation 
+47.14000 	   	 	BM	127.3 PL	WVDOH 	West Virginia Department of Highways 	FM 	Transportation 
+453.96250 	   	WPIC547 	BM	123.0 PL	WVDOH Ops 	West Virginia Department of Highways  - Operations (47.36 Simulcast Eastern Panhandle Radio Traffic for Snow Plows & Road Crews) 	FMN 	Transportation 
+170.05000 	   	 	BM	5C2 NAC	HFNP Ops  	Harpers Ferry National Park - Operations 	P25 	Federal 
+172.75000 	   	 	RM	4C5 NAC	HFNP Law 	Harpers Ferry National Park - Law Enforcement 	P25 	Federal 
+169.91250 	   	 	BM	325 NAC	USCBP Security 	U.S. Customs and Border Protection Advanced Training Facility - Security 	P25 	Federal 
+452.52500 	457.52500  	 	RM	411 DPL	NCTC Svcs 	National Conservation Training Center - All Services 	FM 	Federal 
+163.10000 	   	 	RM	252 NAC	USGS-Ops 	United States Geological Survey - Operations 	P25 	Federal 
+166.55000 	   	 		054 DPL	DSS Training 	Diplomatic Security Service - Training at Summit Point Raceway 	FM 	Federal 
+460.88750 	465.88750  	KB91394 	RM	127.3 PL	ShepU-PD 	Shepherd University Police & Call Box Patch 	FMN 	Security 
+463.50000 	468.50000  	WQBR581 	RM	146.2 PL	ShepU-Ops 	Shepherd University Operations 	FMN 	Schools 
+463.57500 	468.57500  	WQAW944 	RM		Shphtwn-PW 	Corporation of Shepherdstown 	FM 	Public Works 
+467.76250 	   	WQHE545 	M	065 DPL	HmDep Rans 1 	Home Depot - Ranson 	FM 	Business 
+467.83750 	   	WQHE545 	M	263 DPL	HmDep Rans 2 	Home Depot - Ranson 	FM 	Business 
+467.85000 	   	WQHE545 	M	331 DPL	HmDep Rans 3 	Home Depot - Ranson 	FM 	Business 
+467.87500 	   	WQHE545 	M	413 DPL	HmDep Rans 4 	Home Depot - Ranson 	FM 	Business 
+467.90000 	   	WQHE545 	M		HmDep Rans 5 	Home Depot - Ranson 	FM 	Business 
+467.85000 	   	 	M	023 DPL	KOHLS 	Kohl's Department Store 	FM 	Business 
+154.57000 	   	 	M	CSQ	WMrtSC ChsTw 	Walmart Super Center-Charles Town 	FM 	Business 
+464.67500 	469.67500  	WPXL321 	RM	025 DPL	SumPt Ch.1 	Main Office / EMS 	FMN 	Business 
+452.00000 	457.00000  	WPXL321 	RM	025 DPL	SumPt Ch.2 	Maintenance 	FMN 	Business 
+463.40000 	468.40000  	WPXL321 	RM	032 DPL	SumPt Ch.3 	Main Circuit 	FMN 	Business 
+463.81250 	   	WPXL321 	M	156 DPL	SumPt Ch.4 	Main Circuit 	FMN 	Business 
+451.92500 	   	WPXL321 	M	156 DPL	SumPt Ch.5 	Jefferson Circuit 	FMN 	Business 
+456.92500 	   	WPXL321 	M	156 DPL	SumPt Ch.6 	Jefferson Circuit 	FMN 	Business 
+452.41500 	   	WPXL321 	M	156 DPL	SumPt Ch.7 	Shenandoah Circuit 	FMN 	Business 
+457.00000 	   	WPXL321 	M	156 DPL	SumPt Ch.8 	Shenandoah Circuit 	FMN 	Business 
+452.10000 	   	WPXL321 	M	156 DPL	SumPt Ch.9 	Channel 9 	FMN 	Business 
+452.25000 	   	WPXL321 	M	156 DPL	SumPt Ch.10 	Channel 10 	FMN 	Business 
+457.25000 	   	WPXL321 	M	156 DPL	SumPt Ch.11 	Channel 11 	FMN 	Business 
+452.31250 	   	WPXL321 	M	156 DPL	SumPt Ch.12 	Kart Track 	FMN 	Business 
+452.41250 	   	WPXL321 	M	156 DPL	SumPt Ch.13 	Off-Road Course 	FMN 	Business 
+457.31250 	   	WPXL321 	M	156 DPL	SumPt Ch.14 	Off-Road Course 	FMN 	Business 
+457.41250 	   	WPXL321 	M	156 DPL	SumPt Ch.15 	Off-Road Course 	FMN 	Business 
+151.62500 	   	 	BM		SumPt151.625 	Summit Point Raceway 	FM 	Business 
+151.70000 	   	WQAQ574 	M		SCCA 151.700 	SCCA Washington DC Region 	FMN 	Business 
+159.91500 	   	WQAQ574 	BM	023 DPL	SCCA 159.915 	SCCA Washington DC Region 	FMN 	Business 
+461.13750 	   	 			SumPt MARC 	Mid-Atlantic Road Racing Club (cornerworkers for motorcycle races) 	FM 	Business 
+463.91250 	468.91250  	 	BM	047 DPL	HpFy RRiders 	Harpers Ferry Rafting / River Riders 	FMN 	Business 
+First Energy	 Project 25 Phase I	 Various	Hollywood Casino at Charles Town Races	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charles Town	

@@ -1,20 +1,19 @@
-155.68500 	KNHC284 	RM	100.0 PL	SilverBowCo LE 1 	Law Enforcement 1 	FMN 	Law Dispatch 
-155.01000 	KNHC284 	M		Butte PD/SO 	Law Enforcement 	FMN 	Law Talk 
-155.91000 	KNHC284 	M		ButtePD/SO 	Law Enforcement 	FMN 	Law Talk 
-161.95000 	 	RM		ButtePD/SO 	Sheriff - Dispatch  Future Use 	FMN 	Law Talk 
-154.43000 	KOG993 	RM	CSQ	Butte FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.13000 	KOG993 	BM		Butte FD Fgrnd 	Fireground 	FMN 	Fire-Tac 
-156.00000 	KOG993 	M		Butte FD Fgrnd 	Fireground 	FMN 	Fire-Tac 
-156.01500 	KOG993 	M		Butte FD Fgrnd 	Fireground 	FMN 	Fire-Tac 
-150.77500 	KOG993 	RM		Butte FD CP 	Command Post 	FMN 	Fire-Tac 
-150.80500 	KOG993 	RM		Butte FD CP 	Command Post 	FMN 	Fire-Tac 
-155.92500 	KNCR940 	RM		SlvrBwCoEM 	Emergency Management 	FMN 	Emergency Ops 
-155.34000 	KNCG430 	BM		EMS to Hosp 	EMS - Ambulance-to-Hospital 	FMN 	Hospital 
-155.28000 	KNCG430 	BM	CSQ	Butte EMS 	EMS 	FMN 	EMS Dispatch 
-155.38500 	KNCG430 	BM		Butte EMS 	EMS 	FMN 	EMS Dispatch 
-154.98000 	KNHD605 	BM		Butte DPW 	DPW 	FMN 	Public Works 
-123.00000 	 	BM		CTAF (Tower) 	CTAF (Tower) 	AM 	Aircraft 
-135.17500 	 	BM		ATIS 	ATIS 	AM 	Aircraft 
-132.40000 	 	BM		Butte RCAG 	Butte RCAG (SLC) 	AM 	Aircraft 
-338.30000 	 	BM		Butte RCAG  	Butte RCAG (SLC) 	AM 	Aircraft 
-Montana Public Safety Communications System	 Project 25 Phase I	 Statewide	
+155.68500 	155.01000  	KNHC284 	RM	100.0 PL	SilverBowCo LE 1 	Law Enforcement 1 	FMN 	Law Dispatch 
+155.01000 	   	KNHC284 	M		Butte PD/SO 	Law Enforcement 	FMN 	Law Talk 
+155.91000 	   	KNHC284 	M		ButtePD/SO 	Law Enforcement 	FMN 	Law Talk 
+161.95000 	159.01500  	 	RM		ButtePD/SO 	Sheriff - Dispatch  Future Use 	FMN 	Law Talk 
+154.43000 	153.89000  	KOG993 	RM	CSQ	Butte FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.13000 	   	KOG993 	BM		Butte FD Fgrnd 	Fireground 	FMN 	Fire-Tac 
+156.00000 	   	KOG993 	M		Butte FD Fgrnd 	Fireground 	FMN 	Fire-Tac 
+156.01500 	   	KOG993 	M		Butte FD Fgrnd 	Fireground 	FMN 	Fire-Tac 
+150.77500 	   	KOG993 	RM		Butte FD CP 	Command Post 	FMN 	Fire-Tac 
+150.80500 	   	KOG993 	RM		Butte FD CP 	Command Post 	FMN 	Fire-Tac 
+155.92500 	158.92500  	KNCR940 	RM		SlvrBwCoEM 	Emergency Management 	FMN 	Emergency Ops 
+155.34000 	   	KNCG430 	BM		EMS to Hosp 	EMS - Ambulance-to-Hospital 	FMN 	Hospital 
+155.28000 	   	KNCG430 	BM	CSQ	Butte EMS 	EMS 	FMN 	EMS Dispatch 
+155.38500 	   	KNCG430 	BM		Butte EMS 	EMS 	FMN 	EMS Dispatch 
+154.98000 	   	KNHD605 	BM		Butte DPW 	DPW 	FMN 	Public Works 
+123.00000 	   	 	BM		CTAF (Tower) 	CTAF (Tower) 	AM 	Aircraft 
+135.17500 	   	 	BM		ATIS 	ATIS 	AM 	Aircraft 
+132.40000 	   	 	BM		Butte RCAG 	Butte RCAG (SLC) 	AM 	Aircraft 
+338.30000 	   	 	BM		Butte RCAG  	Butte RCAG (SLC) 	AM 	Aircraft 

@@ -1,70 +1,70 @@
-155.53500 	KYN987 	BM	293 NAC	FPD DISP 	Fairborn PD Dispatch 	P25 	Law Dispatch 
-155.68500 	WNLS761 	BM		FPD TAC 2 	Fairborn PD TAC 2 	FMN 	Law Tac 
-156.00000 	WNLS761 	BM		FPD TAC 3 	Fairborn PD TAC 3 	FMN 	Law Tac 
-155.14500 	KCI687 	RM	127.3 PL	YSPRGS PD 	Yellow Springs Police 	FMN 	Law Tac 
-155.50500 	 	M	CSQ	BCPD 4 	Beavercreek PD car to car 	FMN 	Law Talk 
-155.64000 	KEY903 	RM	192.8 PL	BCPD 1 	Beavercreek PD Dispatch 	FMN 	Law Dispatch 
-159.33750 	Pending 	RM	532 DPL	Greene Fire 	Greene County Fire Dispatch (Paging Only) 	FMN 	Fire Dispatch 
-154.07000 	WQEF966 	RM	173.8 PL	GFE Disp-VHF  	County Fire Dispatch-VHF (patched to 800 system) 	FMN 	Fire Dispatch 
-154.25000 	KEO321 	RM	100.0 PL	XTFD Disp  	Xenia Township Fire Dispatch (Linked to County TRS) 	FMN 	Fire Dispatch 
-154.38500 	KQD726 	RM	103.5 PL	Bvrck FD Disp 	Beavercreek Fire Dispatch (Linked to County TRS) 	FMN 	Fire Dispatch 
-154.40000 	KNGE376 	RM	88.5 PL	Fbn FD Disp 	Fairborn Fire Dispatch (Linked to County TRS) 	FMN 	Fire Dispatch 
-155.76000 	KNJG580 	RM	127.3 PL	Sgrcrk FD Disp 	Sugarcreek Twp Fire Dispatch (Linked to County TRS) 	FMN 	Fire Dispatch 
-155.94000 	KVX739 	RM	103.5 PL	BBK FD Disp 	Bellbrook Fire Dispatch (Fire Page Tones Only) 	FMN 	Fire Dispatch 
-153.44500 	WNFE699 	BM		BB SERVICES 	Bellbrook City Services 	FMN 	Public Works 
-155.11500 	KNAH333 	BM	131.8 PL	FAIR/BATH PW 	Fairborn/Bath Township Public Works 	FMN 	Public Works 
-155.77500 	KNCU518 	RM	162.2 PL	XENIA DPW 	Xenia Public Works 	FMN 	Public Works 
-156.18000 	WZN320 	RM	141.3 PL	SCTWP ROADS 	Sugarcreek Township Road Dept. 	FMN 	Public Works 
-156.22500 	KVR747 	RM	103.5 PL	XTWP ROADS 	Xenia Township Road Department 	FMN 	Public Works 
-453.10000 	KDB417 	RM	100.0 PL	BC STREETS 	Beavercreek Street Department 	FMN 	Public Works 
-453.72500 	WDQ469 	RM	244 DPL	GREENE SANI 	Greene County Sanitation 	FMN 	Public Works 
-159.96000 	 	M		BCSD Band 	Beavercreek City Schools - Marching Band 	FMN 	Schools 
-451.95000 	WQIM667 	RM	174 DPL	BCSD Buses 	Beavercreek City Schools - Transportation 	FMN 	Schools 
-463.23750 	 	RM		BCSD High 	Beavercreek City Schools - Beavercreek High School 	FMN 	Schools 
-464.67500 	WQIM667 	RM	146.2 PL	BCSD Coy MS 	Beavercreek City Schools - Coy Middle School 	FMN 	Schools 
-469.63750 	 	M		BCSD Elem 	Beavercreek City Schools - Main Elementary School 	FMN 	Schools 
-152.45000 	WPLY483 	RM	88.5 PL	GREVIEW LSD 	Greeneview Local School District 	FMN 	Schools 
-464.77500 	WPYT667 	RM	118.8 PL	MadRiver Ops 	Mad River Local Schools - Operations 	FMN 	Schools 
-453.01250 	WPWC352 	RM	043 DPL	SGRCRK LSD 	Sugarcreek Local Schools - Transportation 	FMN 	Schools 
-151.79000 	WQEU708 	RM	CC 9TG 3720489SL 1	XENIA CS TXP 	Xenia Community Schools - Transportation 	DMR 	Schools 
-155.20500 	KNIZ326 	BM	131.8 PL	XENIA CSD 	Xenia City Schools - Transportation 	FMN 	Schools 
-152.37500 	 	BM	192.8 PL	CdrvUnivSfty 	University Safety 	FMN 	Security 
-157.56000 	 	RM	565 DPL	CSU OPS 	Central State University - Operations 	FMN 	Business 
-152.90000 	WPYD856 	RM	565 DPL	WSU PARK 	Parking Control 	FMN 	Public Works 
-118.52500 	 	B		I19 AWOS 	Automated Weather Observation Station (AWOS) 	AM 	Aircraft 
-118.85000 	 	BM		DAY APP 	Dayton Approach 	AM 	Aircraft 
-122.70000 	 	BM		I19 CTAF 	CTAF/Unicom 	AM 	Aircraft 
-126.50000 	 	BM		DAY DEP 	Dayton Departure 	AM 	Aircraft 
-118.00000 	 	BM		DAY DEP 	Dayton Departure (As Assigned) 	AM 	Aircraft 
-118.85000 	 	BM		DAY APP 	Dayton Approach 	AM 	Aircraft 
-121.80000 	 	BM		KFFO GRND 	Ground VHF 	AM 	Aircraft 
-121.95000 	 	BM		AERO CLUB 	Aero Club Operations 	AM 	Aircraft 
-123.22500 	 	BM		88TH ABW SU 	88TH Air Base Wing - Special Use 	AM 	Aircraft 
-123.55000 	 	BM		CLUB TAC 3 	Aero Club TAC 3 	AM 	Aircraft 
-123.57500 	 	BM		CLUB TAC 4 	Aero Club TAC 4 	AM 	Aircraft 
-123.65000 	 	BM		CLUB TAC 1 	Aero Club TAC 1 	AM 	Aircraft 
-123.67500 	 	BM		CLUB TAC 2 	Aero Club TAC 2 	AM 	Aircraft 
-124.47500 	 	B		KFFO ATIS 	ATIS VHF 	AM 	Aircraft 
-126.20000 	 	BM		KFFO PTD 	Pilot to Dispatcher VHF 	AM 	Aircraft 
-126.50000 	 	BM		DAY DEP 	Dayton Departure 	AM 	Aircraft 
-126.90000 	 	BM		KFFO TOWER 	Tower VHF 	AM 	Aircraft 
-135.82500 	 	BM		NASA TEST 	NASA Flight Test 	AM 	Aircraft 
-135.85000 	 	BM		FLT INSP 	Flight Inspection (FAA)  	AM 	Aircraft 
-135.95000 	 	BM		FLT INSP 	Flight Inspection (FAA) 	AM 	Aircraft 
-251.07500 	 	BM		KFFO ALT TWR 	Tower Backup 	AM 	Aircraft 
-269.90000 	 	B		KFFO ATIS 	ATIS UHF 	AM 	Aircraft 
-281.45000 	 	BM		KFFO TOWER 	Tower UHF 	AM 	Aircraft 
-285.25000 	 	BM		DYNAMIC A/G 	Dynamic Aviation - Air to Ground 	AM 	Aircraft 
-289.40000 	 	BM		88th ABW SU 	88TH Air Base Wing - Special Use 	AM 	Aircraft 
-291.00000 	 	BM		DAY DEP 	Dayton Departure 	AM 	Aircraft 
-327.12500 	 	BM		DAY DEP 	Dayton Departure 	AM 	Aircraft 
-335.80000 	 	BM		KFFO GRND 	Ground UHF 	AM 	Aircraft 
-348.40000 	 	BM		KFFO WX 	Metro (Weather) 	AM 	Aircraft 
-349.40000 	 	BM		BUCKEYE CNTL 	445th AW Command Post "BUCKEYE CONTROL" 	AM 	Military 
-370.87500 	 	BM		DAY DEP 	Dayton Departure (As Assigned) 	AM 	Aircraft 
-372.20000 	 	BM		KFFO PTD 	Pilot to Dispatcher UHF 	AM 	Aircraft 
-379.75000 	 	BM		DYNAMIC PRI 	Dynamic Aviation - Air to Ground Primary 	AM 	Aircraft 
-389.80000 	 	BM		KFFO GCA 	Radar Approach 	AM 	Aircraft 
-Advanced Radio Technology	 LTR Standard	 Various	Greene County Corrections	 DMR Conventional Networked	 Xenia	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I
- Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	P and R Communications Connect Plus (Ohio)	 DMR Motorola Connect Plus (TRBO)	 Various	P and R Spectrum Resources, Inc. Dayton
- LTR Standard	 Dayton	W/S Electronics EDACS	 EDACS Standard	 Xenia	
+155.53500 	   	KYN987 	BM	293 NAC	FPD DISP 	Fairborn PD Dispatch 	P25 	Law Dispatch 
+155.68500 	   	WNLS761 	BM		FPD TAC 2 	Fairborn PD TAC 2 	FMN 	Law Tac 
+156.00000 	   	WNLS761 	BM		FPD TAC 3 	Fairborn PD TAC 3 	FMN 	Law Tac 
+155.14500 	153.92000  	KCI687 	RM	127.3 PL	YSPRGS PD 	Yellow Springs Police 	FMN 	Law Tac 
+155.50500 	   	 	M	CSQ	BCPD 4 	Beavercreek PD car to car 	FMN 	Law Talk 
+155.64000 	159.03000  	KEY903 	RM	192.8 PL	BCPD 1 	Beavercreek PD Dispatch 	FMN 	Law Dispatch 
+159.33750 	154.65750  	Pending 	RM	532 DPL	Greene Fire 	Greene County Fire Dispatch (Paging Only) 	FMN 	Fire Dispatch 
+154.07000 	154.41500  	WQEF966 	RM	173.8 PL	GFE Disp-VHF  	County Fire Dispatch-VHF (patched to 800 system) 	FMN 	Fire Dispatch 
+154.25000 	150.77500  	KEO321 	RM	100.0 PL	XTFD Disp  	Xenia Township Fire Dispatch (Linked to County TRS) 	FMN 	Fire Dispatch 
+154.38500 	159.22500  	KQD726 	RM	103.5 PL	Bvrck FD Disp 	Beavercreek Fire Dispatch (Linked to County TRS) 	FMN 	Fire Dispatch 
+154.40000 	153.99500  	KNGE376 	RM	88.5 PL	Fbn FD Disp 	Fairborn Fire Dispatch (Linked to County TRS) 	FMN 	Fire Dispatch 
+155.76000 	153.96500  	KNJG580 	RM	127.3 PL	Sgrcrk FD Disp 	Sugarcreek Twp Fire Dispatch (Linked to County TRS) 	FMN 	Fire Dispatch 
+155.94000 	158.89500  	KVX739 	RM	103.5 PL	BBK FD Disp 	Bellbrook Fire Dispatch (Fire Page Tones Only) 	FMN 	Fire Dispatch 
+153.44500 	159.87000  	WNFE699 	BM		BB SERVICES 	Bellbrook City Services 	FMN 	Public Works 
+155.11500 	   	KNAH333 	BM	131.8 PL	FAIR/BATH PW 	Fairborn/Bath Township Public Works 	FMN 	Public Works 
+155.77500 	153.98000  	KNCU518 	RM	162.2 PL	XENIA DPW 	Xenia Public Works 	FMN 	Public Works 
+156.18000 	159.19500  	WZN320 	RM	141.3 PL	SCTWP ROADS 	Sugarcreek Township Road Dept. 	FMN 	Public Works 
+156.22500 	159.01500  	KVR747 	RM	103.5 PL	XTWP ROADS 	Xenia Township Road Department 	FMN 	Public Works 
+453.10000 	458.10000  	KDB417 	RM	100.0 PL	BC STREETS 	Beavercreek Street Department 	FMN 	Public Works 
+453.72500 	458.72500  	WDQ469 	RM	244 DPL	GREENE SANI 	Greene County Sanitation 	FMN 	Public Works 
+159.96000 	   	 	M		BCSD Band 	Beavercreek City Schools - Marching Band 	FMN 	Schools 
+451.95000 	456.95000  	WQIM667 	RM	174 DPL	BCSD Buses 	Beavercreek City Schools - Transportation 	FMN 	Schools 
+463.23750 	468.23750  	 	RM		BCSD High 	Beavercreek City Schools - Beavercreek High School 	FMN 	Schools 
+464.67500 	469.67500  	WQIM667 	RM	146.2 PL	BCSD Coy MS 	Beavercreek City Schools - Coy Middle School 	FMN 	Schools 
+469.63750 	   	 	M		BCSD Elem 	Beavercreek City Schools - Main Elementary School 	FMN 	Schools 
+152.45000 	   	WPLY483 	RM	88.5 PL	GREVIEW LSD 	Greeneview Local School District 	FMN 	Schools 
+464.77500 	469.77500  	WPYT667 	RM	118.8 PL	MadRiver Ops 	Mad River Local Schools - Operations 	FMN 	Schools 
+453.01250 	458.01250  	WPWC352 	RM	043 DPL	SGRCRK LSD 	Sugarcreek Local Schools - Transportation 	FMN 	Schools 
+151.79000 	160.02000  	WQEU708 	RM	CC 9TG 3720489SL 1	XENIA CS TXP 	Xenia Community Schools - Transportation 	DMR 	Schools 
+155.20500 	   	KNIZ326 	BM	131.8 PL	XENIA CSD 	Xenia City Schools - Transportation 	FMN 	Schools 
+152.37500 	   	 	BM	192.8 PL	CdrvUnivSfty 	University Safety 	FMN 	Security 
+157.56000 	152.30000  	 	RM	565 DPL	CSU OPS 	Central State University - Operations 	FMN 	Business 
+152.90000 	158.38500  	WPYD856 	RM	565 DPL	WSU PARK 	Parking Control 	FMN 	Public Works 
+118.52500 	   	 	B		I19 AWOS 	Automated Weather Observation Station (AWOS) 	AM 	Aircraft 
+118.85000 	   	 	BM		DAY APP 	Dayton Approach 	AM 	Aircraft 
+122.70000 	   	 	BM		I19 CTAF 	CTAF/Unicom 	AM 	Aircraft 
+126.50000 	   	 	BM		DAY DEP 	Dayton Departure 	AM 	Aircraft 
+118.00000 	   	 	BM		DAY DEP 	Dayton Departure (As Assigned) 	AM 	Aircraft 
+118.85000 	   	 	BM		DAY APP 	Dayton Approach 	AM 	Aircraft 
+121.80000 	   	 	BM		KFFO GRND 	Ground VHF 	AM 	Aircraft 
+121.95000 	   	 	BM		AERO CLUB 	Aero Club Operations 	AM 	Aircraft 
+123.22500 	   	 	BM		88TH ABW SU 	88TH Air Base Wing - Special Use 	AM 	Aircraft 
+123.55000 	   	 	BM		CLUB TAC 3 	Aero Club TAC 3 	AM 	Aircraft 
+123.57500 	   	 	BM		CLUB TAC 4 	Aero Club TAC 4 	AM 	Aircraft 
+123.65000 	   	 	BM		CLUB TAC 1 	Aero Club TAC 1 	AM 	Aircraft 
+123.67500 	   	 	BM		CLUB TAC 2 	Aero Club TAC 2 	AM 	Aircraft 
+124.47500 	   	 	B		KFFO ATIS 	ATIS VHF 	AM 	Aircraft 
+126.20000 	   	 	BM		KFFO PTD 	Pilot to Dispatcher VHF 	AM 	Aircraft 
+126.50000 	   	 	BM		DAY DEP 	Dayton Departure 	AM 	Aircraft 
+126.90000 	   	 	BM		KFFO TOWER 	Tower VHF 	AM 	Aircraft 
+135.82500 	   	 	BM		NASA TEST 	NASA Flight Test 	AM 	Aircraft 
+135.85000 	   	 	BM		FLT INSP 	Flight Inspection (FAA)  	AM 	Aircraft 
+135.95000 	   	 	BM		FLT INSP 	Flight Inspection (FAA) 	AM 	Aircraft 
+251.07500 	   	 	BM		KFFO ALT TWR 	Tower Backup 	AM 	Aircraft 
+269.90000 	   	 	B		KFFO ATIS 	ATIS UHF 	AM 	Aircraft 
+281.45000 	   	 	BM		KFFO TOWER 	Tower UHF 	AM 	Aircraft 
+285.25000 	   	 	BM		DYNAMIC A/G 	Dynamic Aviation - Air to Ground 	AM 	Aircraft 
+289.40000 	   	 	BM		88th ABW SU 	88TH Air Base Wing - Special Use 	AM 	Aircraft 
+291.00000 	   	 	BM		DAY DEP 	Dayton Departure 	AM 	Aircraft 
+327.12500 	   	 	BM		DAY DEP 	Dayton Departure 	AM 	Aircraft 
+335.80000 	   	 	BM		KFFO GRND 	Ground UHF 	AM 	Aircraft 
+348.40000 	   	 	BM		KFFO WX 	Metro (Weather) 	AM 	Aircraft 
+349.40000 	   	 	BM		BUCKEYE CNTL 	445th AW Command Post "BUCKEYE CONTROL" 	AM 	Military 
+370.87500 	   	 	BM		DAY DEP 	Dayton Departure (As Assigned) 	AM 	Aircraft 
+372.20000 	   	 	BM		KFFO PTD 	Pilot to Dispatcher UHF 	AM 	Aircraft 
+379.75000 	   	 	BM		DYNAMIC PRI 	Dynamic Aviation - Air to Ground Primary 	AM 	Aircraft 
+389.80000 	   	 	BM		KFFO GCA 	Radar Approach 	AM 	Aircraft 
+Advanced Radio Technology	 LTR Standard	 Various	Greene County Corrections	 DMR Conventional Networked	 Xenia	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide
+Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	P and R Communications Connect Plus (Ohio)	 DMR Motorola Connect Plus (TRBO)	 Various	P and R Spectrum Resources, Inc. Dayton	 LTR Standard	 Dayton
+W/S Electronics EDACS	 EDACS Standard	 Xenia	

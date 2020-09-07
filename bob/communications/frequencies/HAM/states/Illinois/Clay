@@ -1,40 +1,40 @@
-155.56500 	WNYJ388 	RM	136.5 PL	ClaySheriff1 	Sheriff: Dispatch [Ch 1-County Highband] 	FMN 	Law Dispatch 
-155.31000 	WNYJ388 	RM	136.5 PL	ClaySheriff2 	Sheriff: Law Net [Ch 2] 	FMN 	Law Tac 
-155.12250 	WPZP213 	RM	631 DPL	Flor RsqEMA  	ESDA/Rescue Dispatch - Tones/ Comms [Ch 1] 	FMN 	Emergency Ops 
-154.99500 	 	BM	136.5 PL	Flora EMA F2 	ESDA / Reserve Police [Ch 2] 	FMN 	Emergency Ops 
-155.02500 	 	BM	CSQ	ESMARN 	ESMARN 	FMN 	Emergency Ops 
-159.12000 	KJJ414 	RM	146.2 PL	Clay Highway 	Highway Department [Ch 1] 	FMN 	Public Works 
-155.22000 	KNJR580 	BM	136.5 PL	Clay Co EMS   	EMS: Tone-Outs [Ch 1] 	FMN 	EMS Dispatch 
-155.34000 	KNJR580 	BM	136.5 PL	MERCI1 136.5 	Patient Reports 	FMN 	Hospital 
-155.34000 	KNJR580 	BM	118.8 PL	MERCI1 118.8 	Patient Reports 	FMN 	Hospital 
-154.74000 	WPZP213 	RM	712 DPL	ClayCityFire 	Fire: Dispatch (DB: County 911) 	FMN 	Fire Dispatch 
-154.14500 	WNBV955 	BM		Clay FD Old 	Old Dispatch (Ingraham, Clay City) 	FMN 	Fire Dispatch 
-155.95500 	KNCW986 	BM	146.2 PL	CC PubWrks 	Public Works [Ch 1] 	FMN 	Public Works 
-154.81500 	KNHG985 	RM	CC 5TG 100SL 1	Flora Police 	Police: Dispatch 	DMR 	Law Dispatch 
-155.31000 	KKQ732 	RM	136.5 PL	Clay Sherif2 	Sheriff: Law Net (Ch 2) [Expired] 	FMN 	Law Tac 
-155.56500 	WNYJ388 	RM	136.5 PL	Clay Sheriff 	Sheriff's Department 	FMN 	Law Tac 
-155.12250 	WPZP213 	RM	631 DPL	Flora Rescue EMA 	ESDA/Rescue Dispatch/En Route [Ch 1/D351 in?]  	FMN 	Emergency Ops 
-154.41500 	WQOJ556 	RM	155 DPL	Flora Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-45.60000 	KDT407 	BM		Flora PW LB 	Public Works 	FM 	Public Works 
-453.72500 	WNMG660 	RM	356 DPL	Flora PW UHF  	Public Works 	FMN 	Public Works 
-453.05000 	 	F		Flora WDD 2 	Water Distribution Data  	Telm 	Data 
-453.27500 	WPKF685 	F		Flora WDD 1 	Water Distribution Data 	Telm 	Data 
-155.31000 	WNYJ388 	BM		LouisvilleOp 	City Operations 	FMN 	Multi-Dispatch 
-155.49750 	WPZP213 	RM	465 DPL	N Clay Fire 	North Clay Fire: Dispatch (DB: County 911) 	FMN 	Fire Dispatch 
-154.98000 	WNSN651 	BM		Lsvl PubWrks 	Public Works: Utilities 	FMN 	Public Works 
-453.66250 	WNSN651 	M		Lsvl *WDD 	Public Works: Water Distribution Data 	Telm 	Data 
-155.59500 	WPZP213 	RM	051 DPL	Xenia Fire 	Fire: Dispatch (DB: Clay County) 	FMN 	Fire Dispatch 
-452.40000 	WPNU608 	F		Xenia *WDD 	Water Distribution Data 	FMN 	Data 
-152.27000 	WPZK483 	RM	91.5 PL	CC Sch Bus 	Operations/Buses 	FMN 	Schools 
-157.68000 	WPLI254 	BM		CC HiSchool 	High School Ops 	FMN 	Schools 
-155.23500 	WPSJ878 	BM	186.2 PL	FCUSD Buses 	Buses  	FMN 	Schools 
-452.97500 	WPSK704 	RM		Flora School 	Maintenance/Janitors/Admin 	FMN 	Schools 
-155.28000 	WPGB431 	BM		NClay SchBus 	Buses 	FMN 	Schools 
-154.51500 	WPAW459 	BM		NClay School 	Operations [Terminated 10/02] 	FMN 	Schools 
-120.17500 	WQAV566 	B	CSQ	FOA AWOS-3 	Weather AWOS-3 	FM 	Aircraft 
-122.70000 	 		CSQ	FOA CTAF 	CTAF/UNICOM 	FM 	Aircraft 
-127.70000 	 	BM	CSQ	MtVernonRCAG 	Approach/Departure (KC ARTCC) 	AM 	Aircraft 
-458.03750 	WPLT804 	M		FOA AWOS RF 	RF Link for AWOS (Digital) 	Telm 	Data 
-461.05000 	KNGY960 	RM		DMR Aircomm1 	DMR Aircomm 	FMN 	Business 
-463.72500 	WNZQ577 	RM		DMR Aircomm2 	DMR Aircomm  	FMN 	Business 
-Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Norris Electric Cooperative (IL)	 DMR Conventional Networked	 Newton	
+155.56500 	153.81500  	WNYJ388 	RM	136.5 PL	ClaySheriff1 	Sheriff: Dispatch [Ch 1-County Highband] 	FMN 	Law Dispatch 
+155.31000 	153.92000  	WNYJ388 	RM	136.5 PL	ClaySheriff2 	Sheriff: Law Net [Ch 2] 	FMN 	Law Tac 
+155.12250 	158.95500  	WPZP213 	RM	631 DPL	Flor RsqEMA  	ESDA/Rescue Dispatch - Tones/ Comms [Ch 1] 	FMN 	Emergency Ops 
+154.99500 	   	 	BM	136.5 PL	Flora EMA F2 	ESDA / Reserve Police [Ch 2] 	FMN 	Emergency Ops 
+155.02500 	   	 	BM	CSQ	ESMARN 	ESMARN 	FMN 	Emergency Ops 
+159.12000 	153.87500  	KJJ414 	RM	146.2 PL	Clay Highway 	Highway Department [Ch 1] 	FMN 	Public Works 
+155.22000 	   	KNJR580 	BM	136.5 PL	Clay Co EMS   	EMS: Tone-Outs [Ch 1] 	FMN 	EMS Dispatch 
+155.34000 	   	KNJR580 	BM	136.5 PL	MERCI1 136.5 	Patient Reports 	FMN 	Hospital 
+155.34000 	   	KNJR580 	BM	118.8 PL	MERCI1 118.8 	Patient Reports 	FMN 	Hospital 
+154.74000 	158.85000  	WPZP213 	RM	712 DPL	ClayCityFire 	Fire: Dispatch (DB: County 911) 	FMN 	Fire Dispatch 
+154.14500 	   	WNBV955 	BM		Clay FD Old 	Old Dispatch (Ingraham, Clay City) 	FMN 	Fire Dispatch 
+155.95500 	   	KNCW986 	BM	146.2 PL	CC PubWrks 	Public Works [Ch 1] 	FMN 	Public Works 
+154.81500 	159.06750  	KNHG985 	RM	CC 5TG 100SL 1	Flora Police 	Police: Dispatch 	DMR 	Law Dispatch 
+155.31000 	155.64000  	KKQ732 	RM	136.5 PL	Clay Sherif2 	Sheriff: Law Net (Ch 2) [Expired] 	FMN 	Law Tac 
+155.56500 	   	WNYJ388 	RM	136.5 PL	Clay Sheriff 	Sheriff's Department 	FMN 	Law Tac 
+155.12250 	158.95500  	WPZP213 	RM	631 DPL	Flora Rescue EMA 	ESDA/Rescue Dispatch/En Route [Ch 1/D351 in?]  	FMN 	Emergency Ops 
+154.41500 	150.80500  	WQOJ556 	RM	155 DPL	Flora Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+45.60000 	   	KDT407 	BM		Flora PW LB 	Public Works 	FM 	Public Works 
+453.72500 	458.72500  	WNMG660 	RM	356 DPL	Flora PW UHF  	Public Works 	FMN 	Public Works 
+453.05000 	   	 	F		Flora WDD 2 	Water Distribution Data  	Telm 	Data 
+453.27500 	   	WPKF685 	F		Flora WDD 1 	Water Distribution Data 	Telm 	Data 
+155.31000 	   	WNYJ388 	BM		LouisvilleOp 	City Operations 	FMN 	Multi-Dispatch 
+155.49750 	159.15000  	WPZP213 	RM	465 DPL	N Clay Fire 	North Clay Fire: Dispatch (DB: County 911) 	FMN 	Fire Dispatch 
+154.98000 	   	WNSN651 	BM		Lsvl PubWrks 	Public Works: Utilities 	FMN 	Public Works 
+453.66250 	   	WNSN651 	M		Lsvl *WDD 	Public Works: Water Distribution Data 	Telm 	Data 
+155.59500 	159.27750  	WPZP213 	RM	051 DPL	Xenia Fire 	Fire: Dispatch (DB: Clay County) 	FMN 	Fire Dispatch 
+452.40000 	   	WPNU608 	F		Xenia *WDD 	Water Distribution Data 	FMN 	Data 
+152.27000 	157.73000  	WPZK483 	RM	91.5 PL	CC Sch Bus 	Operations/Buses 	FMN 	Schools 
+157.68000 	   	WPLI254 	BM		CC HiSchool 	High School Ops 	FMN 	Schools 
+155.23500 	   	WPSJ878 	BM	186.2 PL	FCUSD Buses 	Buses  	FMN 	Schools 
+452.97500 	457.97500  	WPSK704 	RM		Flora School 	Maintenance/Janitors/Admin 	FMN 	Schools 
+155.28000 	   	WPGB431 	BM		NClay SchBus 	Buses 	FMN 	Schools 
+154.51500 	   	WPAW459 	BM		NClay School 	Operations [Terminated 10/02] 	FMN 	Schools 
+120.17500 	   	WQAV566 	B	CSQ	FOA AWOS-3 	Weather AWOS-3 	FM 	Aircraft 
+122.70000 	   	 		CSQ	FOA CTAF 	CTAF/UNICOM 	FM 	Aircraft 
+127.70000 	   	 	BM	CSQ	MtVernonRCAG 	Approach/Departure (KC ARTCC) 	AM 	Aircraft 
+458.03750 	   	WPLT804 	M		FOA AWOS RF 	RF Link for AWOS (Digital) 	Telm 	Data 
+461.05000 	466.06000  	KNGY960 	RM		DMR Aircomm1 	DMR Aircomm 	FMN 	Business 
+463.72500 	468.27500  	WNZQ577 	RM		DMR Aircomm2 	DMR Aircomm  	FMN 	Business 
+Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Diga-Talk	 NXDN NEXEDGE 4800	 Various	Norris Electric Cooperative (IL)	 DMR Conventional Networked	 Newton

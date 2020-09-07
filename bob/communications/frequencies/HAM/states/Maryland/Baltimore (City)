@@ -1,68 +1,68 @@
-851.20000 	WQCB503 	M	156.7 PL	BFD A10 Tlk1 	Talk-Around 1 (can be used in duplex mode) 	FM 	Fire-Talk 
-851.93750 	WQCD704 	M	156.7 PL	BFD A11 Tlk2 	Talk-Around 2 	FM 	Fire-Talk 
-154.14500 	KGC220 	RM	156.7 PL	BFD Main 	Fire Main (simulcast with TRS talkgroup 9001 - A1/B1/C1 Main) 	FMN 	Fire-Tac 
-154.41500 	KGC220 	RM	156.7 PL	BFD Disp 	Fire Dispatch (simulcast with TRS talkgroup 9002 - A2/C2 Dispatch) 	FMN 	Fire Dispatch 
-154.31000 	KGC220 	RM	156.7 PL	BFD 154.31 	Fire 154.31 	FMN 	Fire-Tac 
-154.38500 	KGC220 	RM	156.7 PL	BFD 154.385 	Fire 154.385 	FMN 	Fire-Tac 
-453.20000 	WPWY573 	RM	172 DPL	BCC 1 Security 	Convention Center - Security (Ch. 1) 	FMN 	Security 
-453.36250 	WPWY573 	RM	065 DPL	BCC 2 Food 	Convention Center - Food (Ch. 2) 	FMN 	Business 
-460.31250 	WPWY573 	RM	664 DPL	BCC 3 Mnt 	Convention Center - Maintenance (Ch. 3) 	FMN 	Business 
-460.38750 	WPWY573 	RM	311 DPL	BCC 4 Ops 	Convention Center - Operations (Ch. 4) 	FMN 	Business 
-465.11250 	 	M	343 DPL	BCC 5 LoadngDock 	Convention Center - Loading Dock (Ch. 5) 	FMN 	Business 
-453.50000 	KGG371 	RM	141.3 PL	Balt PubWrk5 	Public Works (patched with TRS) 	FM 	Public Works 
-453.60000 	KGG371 	RM	141.3 PL	Balt PubWrk6 	Public Works (patched with TRS) 	FM 	Public Works 
-495.11250 	KXC752 	RM	114.8 PL	BaltParkEnf1 	Parking Enforcement 	FM 	Public Works 
-157.07500 	 	BM		USCG 81A 	Marine Ch. 81A Sector Baltimore 	FM 	Federal 
-157.12500 	 	BM		USCG 82A 	Marine Ch. 82A Sector Baltimore 	FM 	Federal 
-157.15000 	 	BM		USCG 23A 	Marine Ch. 23A Sector Baltimore/Aircraft 	FM 	Federal 
-162.32500 	 	BM		USCG 111 	Ch. CG111 Sector Baltimore 	P25 	Federal 
-345.00000 	 	BM	CSQ	USCG Air 	Aircraft Primary/Air-to-Air 	AM 	Federal 
-409.32500 	 		026 DPL	VA 1 Disastr 	Baltimore Medical Center - Disaster 	FM 	Federal 
-408.00000 	 		026 DPL	VA 2 Maint 	Baltimore Medical Center - Engineering/Maintenance 	FM 	Federal 
-408.37500 	 		026 DPL	VA 3 EMS 	Baltimore Medical Center - EMS/Hazmat/Biologics 	FM 	EMS Dispatch 
-409.43750 	 		026 DPL	VA 4 Police 	Baltimore Medical Center - Police 	FM 	Law Dispatch 
-409.43750 	 	RM	065 DPL	BaltVAHspMnt 	VA Hospital - Maintenance 	FM 	Federal 
-167.63750 	 		167 NAC	FBI 167.6375 	FBI (encryption used) 	P25 	Federal 
-167.66250 	 		167 NAC	FBI 167.6625 	FBI (encryption used) 	P25 	Federal 
-463.26250 	WQEP639 	RM	115 DPL	SoSecBldgSec 	Security 	FM 	Security 
-461.77500 	WQBN701 	RM	141.3 PL	JHU Security 	Hospital Security 	FM 	Security 
-163.25000 	KLL620 	B		JHU Paging 	Hospital Paging (POCSAG) 	Telm 	Data 
-451.67500 	WPKF819 	RM	CC 5TG 10SL 1	JHUCom Sec1 	Commons - Security 1 	DMR 	Security 
-451.67500 	WPKF819 	RM	CC 5TG 20SL 2	JHUCom Cmd 	Commons - Command 	DMR 	Security 
-452.15000 	WPKF819 	RM	CC 5TG 30SL 1	JHUCom Ops 	Commons - Ops 	DMR 	Schools 
-452.15000 	WPKF819 	RM	CC 5TG 40SL 2	JHUCom BPD 	Commons - BPD Northern 	DMR 	Law Dispatch 
-464.82500 	WPKF819 	RM	CC 5TG 50SL 1	JHUCom Sec2 	Commons - Security 2 	DMR 	Security 
-464.82500 	WPKF819 	RM	CC 5TG 60SL 2	JHUComm HERU 	Commons - Hopkins Emergency Response Unit 	DMR 	EMS Dispatch 
-464.57500 	WPKF819 	RM	CC 5TG 10SL 1	JHUWym Sec1 	Wyman - Security 1 	DMR 	Security 
-464.57500 	WPKF819 	RM	CC 5TG 20SL 2	JHUWym Cmd 	Wyman - Command 	DMR 	Security 
-461.38750 	WPKF819 	RM	CC 5TG 30SL 1	JHUWym Ops 	Wyman - Ops 	DMR 	Schools 
-461.38750 	WPKF819 	RM	CC 5TG 40SL 2	JHUWym BPD 	Wyman - BPD Northern 	DMR 	Law Dispatch 
-461.53750 	WPKF819 	RM	CC 5TG 50SL 1	JHUWym Sec2 	Wyman - Security 2 	DMR 	Security 
-461.53750 	WPKF819 	RM	CC 5TG 70SL 2	JHUWym Wyman 	Wyman - Wyman 	DMR 	Schools 
-461.71250 	WPKF819 	RM	CC 5TG 10SL 1	JHUEst Sec1 	Eastern - Security 1 	DMR 	Security 
-461.71250 	WPKF819 	RM	CC 5TG 20SL 2	JHUEst Cmd 	Eastern - Command 	DMR 	Security 
-452.36250 	WPKF819 	RM	CC 5TG 30SL 1	JHUEst Ops 	Eastern - Ops 	DMR 	Schools 
-452.36250 	WPKF819 	RM	CC 5TG 40SL 2	JHUEst BPD 	Eastern - BPD Northern 	DMR 	Law Dispatch 
-453.01250 	WPKF819 	RM	CC 5TG 50SL 1	JHUEst Sec2 	Eastern - Security 2 	DMR 	Security 
-453.01250 	WPKF819 	RM	CC 5TG 80SL 2	JHUEst Estrn 	Eastern - Eastern 	DMR 	Schools 
-461.20000 	WPKF819 	RM	CC 5TG 10SL 1	JHUKes Sec1 	Keswick - Security 1 	DMR 	Security 
-461.20000 	WPKF819 	RM	CC 5TG 20SL 2	JHUKes Cmd 	Keswick - Command 	DMR 	Security 
-461.90000 	WPKF819 	RM	CC 5TG 30SL 1	JHUKes Ops 	Keswick - Ops 	DMR 	Schools 
-461.90000 	WPKF819 	RM	CC 5TG 40SL 2	JHUKes BPD 	Keswick - BPD Northern 	DMR 	Law Dispatch 
-463.31250 	WPKF819 	RM	CC 5TG 50SL 1	JHUKes Sec2 	Keswick - Security 2 	DMR 	Security 
-463.31250 	WPKF819 	RM	CC 5TG 60SL 2	JHUKes HERU 	Keswick - Hopkins Emergency Response Unit 	DMR 	EMS Dispatch 
-451.85000 	WNDC532 	RM		LUM Pub Safety 	Public Safety 	DMR 	Security 
-461.57500 	WPTP793 	RM	71.9 PL	MICA Facil 	Facilities Maintenance 	FMN 	Schools 
-460.18750 	WQBE972 	RM	114 DPL	MSU Police 	Police Dispatch 	FM 	Law Dispatch 
-155.02500 	WNJW552 	RM	94.8 PL	MSU PD 155 	Police (obsolete?) 	FM 	Law Tac 
-490.31250 	KAA296 	RM	073 DPL	UB Police 	Police Dispatch 	FM 	Schools 
-494.91250 	KNS222 	RM	CC 7TG 11SL 2	UMB Police 	Police Primary 	DMR 	Law Dispatch 
-495.23750 	KNS244 	RM		UMB Police2 	Police 	DMR 	Law Tac 
-Baltimore City	 Project 25 Phase I	 Baltimore	Baltimore Gas and Electric	 iDEN Harmony	 Various	Central Maryland Area Regional Communications Committee (CMARC)	 Project 25 Phase I
- Various	Champion Communication (Baltimore)	 LTR Standard	 Baltimore	Chesapeake Detention Facility	 EDACS Standard	 Baltimore	Communications Electronics
- DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	Horseshoe Casino Baltimore	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	Howard Communications (Baltimore NXDN)	 NXDN Icom IDAS Type D	 Baltimore
-Howard Communications (Capacity Pllus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	Integrated Wireless Network (IWN) National Capital Region	 Project 25 Phase I	 Various	Johns Hopkins Bayview Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)
- Baltimore	Johns Hopkins Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	Johns Hopkins School of Public Health	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	Loyola University Maryland
- LTR Standard	 Baltimore	Maryland Port Administration	 Motorola Type II Smartnet	 Dundalk	Maryland Transit Administration	 Motorola Type II Smartnet	 Baltimore
-Maryland Zoo in Baltimore	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	National Aquarium	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	United States Department of Defense (1B5C8-001)	 Project 25 Phase I
- Various	University of Maryland Medical Center	 LTR Standard	 Baltimore	
+851.20000 	   	WQCB503 	M	156.7 PL	BFD A10 Tlk1 	Talk-Around 1 (can be used in duplex mode) 	FM 	Fire-Talk 
+851.93750 	   	WQCD704 	M	156.7 PL	BFD A11 Tlk2 	Talk-Around 2 	FM 	Fire-Talk 
+154.14500 	   	KGC220 	RM	156.7 PL	BFD Main 	Fire Main (simulcast with TRS talkgroup 9001 - A1/B1/C1 Main) 	FMN 	Fire-Tac 
+154.41500 	   	KGC220 	RM	156.7 PL	BFD Disp 	Fire Dispatch (simulcast with TRS talkgroup 9002 - A2/C2 Dispatch) 	FMN 	Fire Dispatch 
+154.31000 	   	KGC220 	RM	156.7 PL	BFD 154.31 	Fire 154.31 	FMN 	Fire-Tac 
+154.38500 	   	KGC220 	RM	156.7 PL	BFD 154.385 	Fire 154.385 	FMN 	Fire-Tac 
+453.20000 	458.20000  	WPWY573 	RM	172 DPL	BCC 1 Security 	Convention Center - Security (Ch. 1) 	FMN 	Security 
+453.36250 	458.36250  	WPWY573 	RM	065 DPL	BCC 2 Food 	Convention Center - Food (Ch. 2) 	FMN 	Business 
+460.31250 	465.31350  	WPWY573 	RM	664 DPL	BCC 3 Mnt 	Convention Center - Maintenance (Ch. 3) 	FMN 	Business 
+460.38750 	465.38750  	WPWY573 	RM	311 DPL	BCC 4 Ops 	Convention Center - Operations (Ch. 4) 	FMN 	Business 
+465.11250 	   	 	M	343 DPL	BCC 5 LoadngDock 	Convention Center - Loading Dock (Ch. 5) 	FMN 	Business 
+453.50000 	458.50000  	KGG371 	RM	141.3 PL	Balt PubWrk5 	Public Works (patched with TRS) 	FM 	Public Works 
+453.60000 	458.60000  	KGG371 	RM	141.3 PL	Balt PubWrk6 	Public Works (patched with TRS) 	FM 	Public Works 
+495.11250 	498.11250  	KXC752 	RM	114.8 PL	BaltParkEnf1 	Parking Enforcement 	FM 	Public Works 
+157.07500 	   	 	BM		USCG 81A 	Marine Ch. 81A Sector Baltimore 	FM 	Federal 
+157.12500 	   	 	BM		USCG 82A 	Marine Ch. 82A Sector Baltimore 	FM 	Federal 
+157.15000 	   	 	BM		USCG 23A 	Marine Ch. 23A Sector Baltimore/Aircraft 	FM 	Federal 
+162.32500 	   	 	BM		USCG 111 	Ch. CG111 Sector Baltimore 	P25 	Federal 
+345.00000 	   	 	BM	CSQ	USCG Air 	Aircraft Primary/Air-to-Air 	AM 	Federal 
+409.32500 	   	 		026 DPL	VA 1 Disastr 	Baltimore Medical Center - Disaster 	FM 	Federal 
+408.00000 	   	 		026 DPL	VA 2 Maint 	Baltimore Medical Center - Engineering/Maintenance 	FM 	Federal 
+408.37500 	   	 		026 DPL	VA 3 EMS 	Baltimore Medical Center - EMS/Hazmat/Biologics 	FM 	EMS Dispatch 
+409.43750 	   	 		026 DPL	VA 4 Police 	Baltimore Medical Center - Police 	FM 	Law Dispatch 
+409.43750 	   	 	RM	065 DPL	BaltVAHspMnt 	VA Hospital - Maintenance 	FM 	Federal 
+167.63750 	   	 		167 NAC	FBI 167.6375 	FBI (encryption used) 	P25 	Federal 
+167.66250 	   	 		167 NAC	FBI 167.6625 	FBI (encryption used) 	P25 	Federal 
+463.26250 	468.26250  	WQEP639 	RM	115 DPL	SoSecBldgSec 	Security 	FM 	Security 
+461.77500 	466.77500  	WQBN701 	RM	141.3 PL	JHU Security 	Hospital Security 	FM 	Security 
+163.25000 	   	KLL620 	B		JHU Paging 	Hospital Paging (POCSAG) 	Telm 	Data 
+451.67500 	456.67500  	WPKF819 	RM	CC 5TG 10SL 1	JHUCom Sec1 	Commons - Security 1 	DMR 	Security 
+451.67500 	456.67500  	WPKF819 	RM	CC 5TG 20SL 2	JHUCom Cmd 	Commons - Command 	DMR 	Security 
+452.15000 	457.15000  	WPKF819 	RM	CC 5TG 30SL 1	JHUCom Ops 	Commons - Ops 	DMR 	Schools 
+452.15000 	457.15000  	WPKF819 	RM	CC 5TG 40SL 2	JHUCom BPD 	Commons - BPD Northern 	DMR 	Law Dispatch 
+464.82500 	469.82500  	WPKF819 	RM	CC 5TG 50SL 1	JHUCom Sec2 	Commons - Security 2 	DMR 	Security 
+464.82500 	469.82500  	WPKF819 	RM	CC 5TG 60SL 2	JHUComm HERU 	Commons - Hopkins Emergency Response Unit 	DMR 	EMS Dispatch 
+464.57500 	469.57500  	WPKF819 	RM	CC 5TG 10SL 1	JHUWym Sec1 	Wyman - Security 1 	DMR 	Security 
+464.57500 	469.57500  	WPKF819 	RM	CC 5TG 20SL 2	JHUWym Cmd 	Wyman - Command 	DMR 	Security 
+461.38750 	466.38750  	WPKF819 	RM	CC 5TG 30SL 1	JHUWym Ops 	Wyman - Ops 	DMR 	Schools 
+461.38750 	466.38750  	WPKF819 	RM	CC 5TG 40SL 2	JHUWym BPD 	Wyman - BPD Northern 	DMR 	Law Dispatch 
+461.53750 	466.53750  	WPKF819 	RM	CC 5TG 50SL 1	JHUWym Sec2 	Wyman - Security 2 	DMR 	Security 
+461.53750 	466.53750  	WPKF819 	RM	CC 5TG 70SL 2	JHUWym Wyman 	Wyman - Wyman 	DMR 	Schools 
+461.71250 	466.71250  	WPKF819 	RM	CC 5TG 10SL 1	JHUEst Sec1 	Eastern - Security 1 	DMR 	Security 
+461.71250 	466.71250  	WPKF819 	RM	CC 5TG 20SL 2	JHUEst Cmd 	Eastern - Command 	DMR 	Security 
+452.36250 	457.36250  	WPKF819 	RM	CC 5TG 30SL 1	JHUEst Ops 	Eastern - Ops 	DMR 	Schools 
+452.36250 	457.36250  	WPKF819 	RM	CC 5TG 40SL 2	JHUEst BPD 	Eastern - BPD Northern 	DMR 	Law Dispatch 
+453.01250 	458.01250  	WPKF819 	RM	CC 5TG 50SL 1	JHUEst Sec2 	Eastern - Security 2 	DMR 	Security 
+453.01250 	458.01250  	WPKF819 	RM	CC 5TG 80SL 2	JHUEst Estrn 	Eastern - Eastern 	DMR 	Schools 
+461.20000 	466.20000  	WPKF819 	RM	CC 5TG 10SL 1	JHUKes Sec1 	Keswick - Security 1 	DMR 	Security 
+461.20000 	466.20000  	WPKF819 	RM	CC 5TG 20SL 2	JHUKes Cmd 	Keswick - Command 	DMR 	Security 
+461.90000 	466.90000  	WPKF819 	RM	CC 5TG 30SL 1	JHUKes Ops 	Keswick - Ops 	DMR 	Schools 
+461.90000 	466.90000  	WPKF819 	RM	CC 5TG 40SL 2	JHUKes BPD 	Keswick - BPD Northern 	DMR 	Law Dispatch 
+463.31250 	468.31250  	WPKF819 	RM	CC 5TG 50SL 1	JHUKes Sec2 	Keswick - Security 2 	DMR 	Security 
+463.31250 	468.31250  	WPKF819 	RM	CC 5TG 60SL 2	JHUKes HERU 	Keswick - Hopkins Emergency Response Unit 	DMR 	EMS Dispatch 
+451.85000 	456.85000  	WNDC532 	RM		LUM Pub Safety 	Public Safety 	DMR 	Security 
+461.57500 	466.57500  	WPTP793 	RM	71.9 PL	MICA Facil 	Facilities Maintenance 	FMN 	Schools 
+460.18750 	465.18750  	WQBE972 	RM	114 DPL	MSU Police 	Police Dispatch 	FM 	Law Dispatch 
+155.02500 	153.86000  	WNJW552 	RM	94.8 PL	MSU PD 155 	Police (obsolete?) 	FM 	Law Tac 
+490.31250 	493.31250  	KAA296 	RM	073 DPL	UB Police 	Police Dispatch 	FM 	Schools 
+494.91250 	497.41250  	KNS222 	RM	CC 7TG 11SL 2	UMB Police 	Police Primary 	DMR 	Law Dispatch 
+495.23750 	498.23750  	KNS244 	RM		UMB Police2 	Police 	DMR 	Law Tac 
+Baltimore City	 Project 25 Phase I	 Baltimore	Baltimore Gas and Electric	 iDEN Harmony	 Various	Central Maryland Area Regional Communications Committee (CMARC)	 Project 25 Phase I	 Various
+Champion Communication (Baltimore)	 LTR Standard	 Baltimore	Chesapeake Detention Facility	 EDACS Standard	 Baltimore	Communications Electronics	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore
+First Responders Interoperable Radio System Team (FIRST)	 Project 25 Phase II	 Various	Horseshoe Casino Baltimore	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	Howard Communications (Baltimore NXDN)	 NXDN Icom IDAS Type D	 Baltimore
+Howard Communications (Capacity Pllus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	Integrated Wireless Network (IWN) National Capital Region	 Project 25 Phase I	 Various	Johns Hopkins Bayview Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore
+Johns Hopkins Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	Johns Hopkins School of Public Health	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	Loyola University Maryland	 LTR Standard	 Baltimore
+Maryland Port Administration	 Motorola Type II Smartnet	 Dundalk	Maryland Transit Administration	 Motorola Type II Smartnet	 Baltimore	Maryland Zoo in Baltimore	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore
+National Aquarium	 DMR Motorola Capacity Plus Single Site (TRBO)	 Baltimore	United States Department of Defense (1B5C8-001)	 Project 25 Phase I	 Various	University of Maryland Medical Center	 LTR Standard	 Baltimore
+University of Maryland, Baltimore	 Motorola Type II Smartnet	 Baltimore	

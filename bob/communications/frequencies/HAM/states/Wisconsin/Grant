@@ -1,47 +1,46 @@
-155.86500 	KVW938 	RM	123.0 PL	GTSO 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.49000 	KVW938 	M	047 DPL	GTJAIL 	Sheriff Car-to-Car 	FMN 	Corrections 
-155.25750 	WQJP675 	RM	173.8 PL	GTCOORD 	Coordination 	FMN 	Multi-Tac 
-155.74500 	KVW938 	RM	91.5 PL	GTFIR 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.34000 	WPKC434 	M	123.0 PL	GTFG 	Fireground 	FMN 	Fire-Tac 
-155.92500 	WPUY436 	B	CSQ	GTPAG 	Paging 	FMN 	Multi-Dispatch 
-155.34000 	WNLQ653 	BM	123.0 PL	EMS to Hosp 	EMS to Grant Co Hospitals 	FMN 	Hospital 
-154.04000 	WNMX269 	BM	123.0 PL	GTAGING 	Aging  	FMN 	Transportation 
-150.99500 	KAV728 	RM	127.3 PL	GTHWY 	Highways 	FMN 	Public Works 
-453.20000 	WPUY436 	RM	100.0 PL	GTPAG Link 	Paging Link 	FMN 	Multi-Dispatch 
-460.18750 	WQVI287 	F	229.1 PL	GTSO Link 	Sheriff Link 	FMN 	Law Dispatch 
-460.28750 	WQVI287 	F	210.7 PL	GTCOORD Link 	Coordination Link 	FMN 	Multi-Dispatch 
-460.36250 	WQVI287 	F	241.8 PL	GTFIR Link 	Fire Link 	FMN 	Fire Dispatch 
-154.05500 	WNDH648 	RM	127.3 PL	Boscobel DPW 	Public Works 	FMN 	Public Works 
-154.15250 	WPMP518 	RM	123.0 PL	Boscobel FD 	Fire 	FMN 	Fire-Talk 
-155.14500 	WQBJ774 	RM	205 DPL	Boscobel EMS 	Rescue 	FMN 	EMS-Talk 
-155.10000 	KNIJ979 	BM	100.0 PL	Cassville PW 	DPW 	FMN 	Public Works 
-154.05500 	WPSE878 	RM	123.0 PL	Cuba City PW 	DPW/EMS 	FMN 	Public Works 
-151.23500 	WQOQ328 	RM	132 DPL	GTDIFD 	Fire 	FMN 	Fire-Talk 
-154.04000 	WNMS686 	BM	173.8 PL	GTDIDPW 	DPW 	FMN 	Public Works 
-155.77500 	WPKG697 	RM		GTDIEMS 	EMS 	FMN 	EMS-Talk 
-155.10000 	WPKA478 	BM	431 DPL	Fennimore DPW 	DPW 	FMN 	Public Works 
-155.38500 	 	RM	206.5 PL	Fennimore EMS 	EMS 	FMN 	EMS-Talk 
-154.04000 	WNWW906 	BM		GTHGDPW 	DPW 	FMN 	Public Works 
-155.80500 	WQDF366 	RM	143 DPL	Hazel Green 	Local Govt 	FMN 	Multi-Talk 
-453.35000 	WNNP656 	RM		Jamestown PW 	DPW 	FMN 	Public Works 
-154.81500 	WPXD519 	RM	125 DPL	Lancaster PD 	Police 	FMN 	Law Talk 
-453.45000 	WNQD298 	RM	100.0 PL	Lancaster PW 	DPW 	FMN 	Public Works 
-155.14500 	WQGH986 	RM	155 DPL	Montfort EMS 	Rescue 	FMN 	EMS-Talk 
-154.20500 	KTS780 	BM		Muscoda FD 	Fire 	FMN 	Fire-Talk 
-453.85000 	WNRG732 	RM		Paris DPW 	DPW 	FMN 	Public Works 
-154.10000 	WQHP691 	BM	123.0 PL	PlattevilDPW 	Public Works 	FMN 	Public Works 
-154.25000 	KFK536 	BM	123.0 PL	PlattevillFD 	Fire 	FMN 	Fire-Talk 
-154.99500 	WQPD249 	RM	251 NAC	PlattevilEMS 	EMS 	P25 	EMS Dispatch 
-155.07000 	WQHP691 	RM	293 NAC	PlattevillPD 	Police 	P25e 	Law Dispatch 
-154.96500 	WPQK259 	RM	131.8 PL	Potosi Fire 	Fire 	FMN 	Fire-Talk 
-155.32500 	WPMA265 	RM	192.8 PL	Potosi EMS 	EMS 	FMN 	EMS-Talk 
-453.80000 	WPNZ285 	RM		Potosi DPW 	DPW 	FMN 	Public Works 
-461.40000 	WPEB968 	M		Ops 	SWWTC Ops 	FMN 	Schools 
-155.89500 	KTI824 	RM	123.0 PL	UW Pltvil PD 	Police Dispatch 	FMN 	Law Dispatch 
-463.27500 	WQQZ351 	RM	123.0 PL	UW Pltvil 	Operations 	FMN 	Schools 
-463.80000 	WQQZ351 	RM	123.0 PL	UW Pltvil 	Operations 	FMN 	Schools 
-464.82500 	WNKU924 	BM	306 DPL	UW Pltvil 	Operations 	FMN 	Schools 
-466.98750 	WQQZ351 	M		UW Pltvil 	Operations 	FMN 	Schools 
-461.47500 	WNYW536 	RM		UW Research 	Lancaster Research Station 	FMN 	Schools 
-Alliant Energy	 DMR Tier 3	 Various	Dairyland Power Cooperative	 DMR Tier 3	 Various	RACOM Network	 EDACS Networked Standard
- Various	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+155.86500 	153.93500  	KVW938 	RM	123.0 PL	GTSO 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.49000 	   	KVW938 	M	047 DPL	GTJAIL 	Sheriff Car-to-Car 	FMN 	Corrections 
+155.25750 	153.95000  	WQJP675 	RM	173.8 PL	GTCOORD 	Coordination 	FMN 	Multi-Tac 
+155.74500 	153.99500  	KVW938 	RM	91.5 PL	GTFIR 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.34000 	   	WPKC434 	M	123.0 PL	GTFG 	Fireground 	FMN 	Fire-Tac 
+155.92500 	453.20000  	WPUY436 	B	CSQ	GTPAG 	Paging 	FMN 	Multi-Dispatch 
+155.34000 	   	WNLQ653 	BM	123.0 PL	EMS to Hosp 	EMS to Grant Co Hospitals 	FMN 	Hospital 
+154.04000 	   	WNMX269 	BM	123.0 PL	GTAGING 	Aging  	FMN 	Transportation 
+150.99500 	159.06000  	KAV728 	RM	127.3 PL	GTHWY 	Highways 	FMN 	Public Works 
+453.20000 	458.20000  	WPUY436 	RM	100.0 PL	GTPAG Link 	Paging Link 	FMN 	Multi-Dispatch 
+460.18750 	   	WQVI287 	F	229.1 PL	GTSO Link 	Sheriff Link 	FMN 	Law Dispatch 
+460.28750 	   	WQVI287 	F	210.7 PL	GTCOORD Link 	Coordination Link 	FMN 	Multi-Dispatch 
+460.36250 	   	WQVI287 	F	241.8 PL	GTFIR Link 	Fire Link 	FMN 	Fire Dispatch 
+154.05500 	156.07500  	WNDH648 	RM	127.3 PL	Boscobel DPW 	Public Works 	FMN 	Public Works 
+154.15250 	156.06000  	WPMP518 	RM	123.0 PL	Boscobel FD 	Fire 	FMN 	Fire-Talk 
+155.14500 	158.91000  	WQBJ774 	RM	205 DPL	Boscobel EMS 	Rescue 	FMN 	EMS-Talk 
+155.10000 	   	KNIJ979 	BM	100.0 PL	Cassville PW 	DPW 	FMN 	Public Works 
+154.05500 	158.92500  	WPSE878 	RM	123.0 PL	Cuba City PW 	DPW/EMS 	FMN 	Public Works 
+151.23500 	155.71500  	WQOQ328 	RM	132 DPL	GTDIFD 	Fire 	FMN 	Fire-Talk 
+154.04000 	   	WNMS686 	BM	173.8 PL	GTDIDPW 	DPW 	FMN 	Public Works 
+155.77500 	158.95500  	WPKG697 	RM		GTDIEMS 	EMS 	FMN 	EMS-Talk 
+155.10000 	   	WPKA478 	BM	431 DPL	Fennimore DPW 	DPW 	FMN 	Public Works 
+155.38500 	150.79000  	 	RM	206.5 PL	Fennimore EMS 	EMS 	FMN 	EMS-Talk 
+154.04000 	   	WNWW906 	BM		GTHGDPW 	DPW 	FMN 	Public Works 
+155.80500 	153.92000  	WQDF366 	RM	143 DPL	Hazel Green 	Local Govt 	FMN 	Multi-Talk 
+453.35000 	458.35000  	WNNP656 	RM		Jamestown PW 	DPW 	FMN 	Public Works 
+154.81500 	156.15000  	WPXD519 	RM	125 DPL	Lancaster PD 	Police 	FMN 	Law Talk 
+453.45000 	458.45000  	WNQD298 	RM	100.0 PL	Lancaster PW 	DPW 	FMN 	Public Works 
+155.14500 	   	WQGH986 	RM	155 DPL	Montfort EMS 	Rescue 	FMN 	EMS-Talk 
+154.20500 	   	KTS780 	BM		Muscoda FD 	Fire 	FMN 	Fire-Talk 
+453.85000 	458.85000  	WNRG732 	RM		Paris DPW 	DPW 	FMN 	Public Works 
+154.10000 	   	WQHP691 	BM	123.0 PL	PlattevilDPW 	Public Works 	FMN 	Public Works 
+154.25000 	155.97000  	KFK536 	BM	123.0 PL	PlattevillFD 	Fire 	FMN 	Fire-Talk 
+154.99500 	153.86000  	WQPD249 	RM	251 NAC	PlattevilEMS 	EMS 	P25 	EMS Dispatch 
+155.07000 	158.85000  	WQHP691 	RM	293 NAC	PlattevillPD 	Police 	P25e 	Law Dispatch 
+154.96500 	153.90500  	WPQK259 	RM	131.8 PL	Potosi Fire 	Fire 	FMN 	Fire-Talk 
+155.32500 	150.77500  	WPMA265 	RM	192.8 PL	Potosi EMS 	EMS 	FMN 	EMS-Talk 
+453.80000 	458.80000  	WPNZ285 	RM		Potosi DPW 	DPW 	FMN 	Public Works 
+461.40000 	   	WPEB968 	M		Ops 	SWWTC Ops 	FMN 	Schools 
+155.89500 	153.75500  	KTI824 	RM	123.0 PL	UW Pltvil PD 	Police Dispatch 	FMN 	Law Dispatch 
+463.27500 	468.27500  	WQQZ351 	RM	123.0 PL	UW Pltvil 	Operations 	FMN 	Schools 
+463.80000 	468.80000  	WQQZ351 	RM	123.0 PL	UW Pltvil 	Operations 	FMN 	Schools 
+464.82500 	   	WNKU924 	BM	306 DPL	UW Pltvil 	Operations 	FMN 	Schools 
+466.98750 	   	WQQZ351 	M		UW Pltvil 	Operations 	FMN 	Schools 
+461.47500 	466.47500  	WNYW536 	RM		UW Research 	Lancaster Research Station 	FMN 	Schools 
+Alliant Energy	 DMR Tier 3	 Various	Dairyland Power Cooperative	 DMR Tier 3	 Various	RACOM Network	 EDACS Networked Standard	 Various

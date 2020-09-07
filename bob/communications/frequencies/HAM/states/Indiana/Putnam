@@ -1,38 +1,37 @@
-153.75500 	WNYQ336 	RM	114.8 PL	Putnam SO DS 	Sheriff - Standby Repeater 	FMN 	Law Dispatch 
-156.22500 	WNYQ336 	RM	114.8 PL	PutnamSO Ops 	Sheriff - Operations 	FMN 	Law Tac 
-153.98000 	WPMF242 	M	114.8 PL	PutnamSO Tac1 	Sheriff - Tactical 1 	FMN 	Law Tac 
-153.99500 	WPMF242 	M	114.8 PL	PutnamSO Tac2 	Sheriff - Tactical 2 	FMN 	Law Tac 
-156.09000 	WNAZ265 	M	114.8 PL	PutnamSO Tac3 	Sheriff - Tactical 3 	FMN 	Law Tac 
-159.03000 	WNAZ265 	M	114.8 PL	PutnamSO Tac4 	Sheriff - Tactical 4 	FMN 	Law Tac 
-854.01250 	WQON322 	RM	156.7 PL	Putnam911 	Putnam County 911 Standby Repeater 	FMN 	Emergency Ops 
-155.70000 	WQOY685 	RM		PutnamEMA 	Putnam County EMA 	FMN 	Emergency Ops 
-151.31000 	WQAY710 	BM		Madison VFD 	Madison Township Volunteer Fire Department 	FMN 	Fire-Tac 
-154.40000 	WSI975 	BM	173.8 PL	Rlsv/lWsh FD 	Reelsville & Washington Township Fire (Clay Fire) 	FMN 	Fire-Tac 
-154.38500 	WPJI578 	BM	186.2 PL	PutnamFD Ops 	County Fire - Dispatch 	FMN 	Fire Dispatch 
-154.41500 	KLF716 	BM	114.8 PL	Clvrdl FD 	Cloverdale Township Fire 	FMN 	Fire Dispatch 
-151.47500 	WQAZ414 	RM		Floyd FD 	Floyd Township Fire District 	FMN 	Fire Dispatch 
-151.19000 	WQRL912 	BM		WalnutTwp FD 	Walnut Township Fire 	FMN 	Fire-Tac 
-155.22000 	KEK746 	BM	100.0 PL	Putnam EMS 	Putnam County Operation Life EMS - Dispatch 	FMN 	EMS Dispatch 
-463.17500 	KEK746 	RM	151.4 PL	Putnam EMS 	Putnam County Operation Life EMS - UHF Operations 	FMN 	EMS-Tac 
-464.32500 	KCJ972 	RM		PutnamHsp 	Putnam County Hospital - Operations 	DMRE 	Hospital 
-159.16500 	WQFM773 	RM		PutnamHwy 	Putnam County Highway Department 	NXDN 	Public Works 
-453.98750 	WPXA798 	BM		PutnamAvaiat 	Putnam County Board of Aviation Data 	FMN 	Public Works 
-461.83750 	WQAU832 	RM		Area10Aging 	Area 10 Council On Aging Transport Services 	DMR 	Transportation 
-151.11500 	WNYS769 	RM	186.2 PL	GrncstlPDDsp 	Police - Standby Repeater 	FMN 	Law Dispatch 
-154.77000 	WNYS769 	M		GrncstlPDTAC 	Police Tactical 	FMN 	Law Tac 
-158.98500 	WPMT308 	M		GrncstlPD TA 	Police Talk-Around 	FMN 	Law Talk 
-151.01000 	WPMT308 	RM	114.8 PL	Grncstl FDEM 	Fire/EMS - Dispatch 	FMN 	Fire Dispatch 
-154.04000 	KDA663 			Grncstl Wate 	Greencastle Water & Sewer Department 	FM 	Public Works 
-156.16500 	WPVY670 			Grncstl Strt 	Greencastle Street Department 	FM 	Public Works 
-153.45500 	WNFR658 			Clvrdle Utlt 	Cloverdale Utilities District 	FM 	Public Works 
-158.74500 	WNDE911 			Rchdale Muni 	Roachdale City Government 	FM 	Public Works 
-152.33000 	WQAH290 	BM	114.8 PL	DePauwPubSft 	DePauw University Public Safety 	FMN 	Security 
-464.47500 	WNVA891 	RM	114.8 PL	DePauwFacMgt 	DePauw University Facilities 	FMN 	Schools 
-451.30000 	WPPY955 	RM		NPtnm Skls 	North Putnam School Corporation 	FM 	Schools 
-451.60000 	WPPY955 	RM		NPtnm Skls 	North Putnam School Corporation 	FM 	Schools 
-452.62500 	WPPY955 	RM		NPtnm Skls 	North Putnam School Corporation 	FM 	Schools 
-452.72500 	WPPY955 	RM		NPtnm Skls 	North Putnam School Corporation 	FM 	Schools 
-461.10000 	WPNW436 	RM		SPtnm Skls 	South Putnam School Corporation 	NXDN 	Schools 
-464.65000 	WPLL536 	RM		Clvrdle Skls 	Cloverdale Community Schools 	NXDN 	Schools 
-Communications Radio Repeater Service	 LTR Standard	 Multiple	Electronic Communications Systems	 LTR Standard	 Multiple	Hendricks County Power Cooperative	 NXDN NEXEDGE 4800
- Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	
+153.75500 	158.85000  	WNYQ336 	RM	114.8 PL	Putnam SO DS 	Sheriff - Standby Repeater 	FMN 	Law Dispatch 
+156.22500 	156.01500  	WNYQ336 	RM	114.8 PL	PutnamSO Ops 	Sheriff - Operations 	FMN 	Law Tac 
+153.98000 	   	WPMF242 	M	114.8 PL	PutnamSO Tac1 	Sheriff - Tactical 1 	FMN 	Law Tac 
+153.99500 	   	WPMF242 	M	114.8 PL	PutnamSO Tac2 	Sheriff - Tactical 2 	FMN 	Law Tac 
+156.09000 	   	WNAZ265 	M	114.8 PL	PutnamSO Tac3 	Sheriff - Tactical 3 	FMN 	Law Tac 
+159.03000 	   	WNAZ265 	M	114.8 PL	PutnamSO Tac4 	Sheriff - Tactical 4 	FMN 	Law Tac 
+854.01250 	809.01250  	WQON322 	RM	156.7 PL	Putnam911 	Putnam County 911 Standby Repeater 	FMN 	Emergency Ops 
+155.70000 	159.21000  	WQOY685 	RM		PutnamEMA 	Putnam County EMA 	FMN 	Emergency Ops 
+151.31000 	   	WQAY710 	BM		Madison VFD 	Madison Township Volunteer Fire Department 	FMN 	Fire-Tac 
+154.40000 	   	WSI975 	BM	173.8 PL	Rlsv/lWsh FD 	Reelsville & Washington Township Fire (Clay Fire) 	FMN 	Fire-Tac 
+154.38500 	   	WPJI578 	BM	186.2 PL	PutnamFD Ops 	County Fire - Dispatch 	FMN 	Fire Dispatch 
+154.41500 	   	KLF716 	BM	114.8 PL	Clvrdl FD 	Cloverdale Township Fire 	FMN 	Fire Dispatch 
+151.47500 	153.93500  	WQAZ414 	RM		Floyd FD 	Floyd Township Fire District 	FMN 	Fire Dispatch 
+151.19000 	   	WQRL912 	BM		WalnutTwp FD 	Walnut Township Fire 	FMN 	Fire-Tac 
+155.22000 	   	KEK746 	BM	100.0 PL	Putnam EMS 	Putnam County Operation Life EMS - Dispatch 	FMN 	EMS Dispatch 
+463.17500 	468.17500  	KEK746 	RM	151.4 PL	Putnam EMS 	Putnam County Operation Life EMS - UHF Operations 	FMN 	EMS-Tac 
+464.32500 	469.32500  	KCJ972 	RM		PutnamHsp 	Putnam County Hospital - Operations 	DMRE 	Hospital 
+159.16500 	156.04500  	WQFM773 	RM		PutnamHwy 	Putnam County Highway Department 	NXDN 	Public Works 
+453.98750 	   	WPXA798 	BM		PutnamAvaiat 	Putnam County Board of Aviation Data 	FMN 	Public Works 
+461.83750 	466.83750  	WQAU832 	RM		Area10Aging 	Area 10 Council On Aging Transport Services 	DMR 	Transportation 
+151.11500 	159.07500  	WNYS769 	RM	186.2 PL	GrncstlPDDsp 	Police - Standby Repeater 	FMN 	Law Dispatch 
+154.77000 	   	WNYS769 	M		GrncstlPDTAC 	Police Tactical 	FMN 	Law Tac 
+158.98500 	   	WPMT308 	M		GrncstlPD TA 	Police Talk-Around 	FMN 	Law Talk 
+151.01000 	158.98500  	WPMT308 	RM	114.8 PL	Grncstl FDEM 	Fire/EMS - Dispatch 	FMN 	Fire Dispatch 
+154.04000 	   	KDA663 			Grncstl Wate 	Greencastle Water & Sewer Department 	FM 	Public Works 
+156.16500 	   	WPVY670 			Grncstl Strt 	Greencastle Street Department 	FM 	Public Works 
+153.45500 	   	WNFR658 			Clvrdle Utlt 	Cloverdale Utilities District 	FM 	Public Works 
+158.74500 	   	WNDE911 			Rchdale Muni 	Roachdale City Government 	FM 	Public Works 
+152.33000 	   	WQAH290 	BM	114.8 PL	DePauwPubSft 	DePauw University Public Safety 	FMN 	Security 
+464.47500 	469.47500  	WNVA891 	RM	114.8 PL	DePauwFacMgt 	DePauw University Facilities 	FMN 	Schools 
+451.30000 	456.30000  	WPPY955 	RM		NPtnm Skls 	North Putnam School Corporation 	FM 	Schools 
+451.60000 	456.60000  	WPPY955 	RM		NPtnm Skls 	North Putnam School Corporation 	FM 	Schools 
+452.62500 	457.62500  	WPPY955 	RM		NPtnm Skls 	North Putnam School Corporation 	FM 	Schools 
+452.72500 	457.72500  	WPPY955 	RM		NPtnm Skls 	North Putnam School Corporation 	FM 	Schools 
+461.10000 	466.10000  	WPNW436 	RM		SPtnm Skls 	South Putnam School Corporation 	NXDN 	Schools 
+464.65000 	469.65000  	WPLL536 	RM		Clvrdle Skls 	Cloverdale Community Schools 	NXDN 	Schools 
+Communications Radio Repeater Service	 LTR Standard	 Multiple	Electronic Communications Systems	 LTR Standard	 Multiple	Hendricks County Power Cooperative	 NXDN NEXEDGE 4800	 Multiple

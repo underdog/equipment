@@ -1,36 +1,36 @@
-154.78500 	KNGF366 	RM	114.8 PL	Pike Co Law 	Sheriff / Countywide Law: Dispatch {123.0 in} 	FMN 	Law Dispatch 
-155.10000 	KIB550 	RM	127.3 PL	Pike911 Page 	Fire/EMS: Paging Only - Countywide {Multiple Input} 	FMN 	Fire Dispatch 
-158.88000 	KIB550 	F	196.6 PL	Pike911 PHil 	Fire/EMS: Paging Link to Pleasant Hill Tower 	FMN 	Fire Dispatch 
-158.88000 	KIB550 	F	141.3 PL	Pike911 Hull 	Fire/EMS: Paging Link to Hull Tower 	FMN 	Fire Dispatch 
-158.88000 	KIB550 	F	365 DPL	Pike911 Bary 	Fire/EMS: Paging Link to Barry Tower 	FMN 	Fire Dispatch 
-158.88000 	KIB550 	F	88.5 PL	Pike911 Pfld 	Fire/EMS: Paging Link to Pittsfield Tower 	FMN 	Fire Dispatch 
-158.88000 	KIB550 	F	94.8 PL	Pike911 Grig 	Fire/EMS: Paging Link to Griggsville Tower 	FMN 	Fire Dispatch 
-154.10000 	KIB550 	RM	114.8 PL	Pike911Alpha 	Fire/EMS: Response / EMS: Incident Command - Alpha {162.2 in} 	FMN 	Fire-Tac 
-151.13000 	KIB550 	RM	114.8 PL	Pike911Bravo 	Fire/EMS: Response / EMS: Incident Command - Bravo {91.5 in} 	FMN 	Fire-Tac 
-453.37500 	KIB550 	RM	114.8 PL	Pike RF Link 	911/Sheriff: Voting System (to Law, Alpha or Bravo)  	FMN 	Multi-Dispatch 
-458.15000 	KIB550 	F	123.0 PL	Pike 911 RF1 	911: Remote Receive Link (Constant Tone Carrier)  	FMN 	Fire Dispatch 
-458.52500 	KIB550 	F	162.2 PL	Pike 911 RF2 	911: Remote Receive Link (Constant Tone Carrier) 	FMN 	Fire Dispatch 
-458.85000 	KIB550 	F	91.5 PL	Pike 911 RF3 	911: Remote Receive Link (Constant Tone Carrier)  	FMN 	Fire Dispatch 
-158.76000 	WPMQ413 	BM	114.8 PL	Pike EMA 	EMA: Ops / Exercises 	FMN 	Emergency Ops 
-151.08500 	KNHZ949 	BM	103.5 PL	Pike Highway 	Roads (County / City / Village / Townships) 	FMN 	Public Works 
-173.23750 	WQPL477 	BM		Pike Co WDD  	Pike County Water District 1: Digital Data (CSQ) [SCADA] 	Telm 	Data 
-155.23500 	KJE989 	RM	114.8 PL	ICH Ops A 	Plant Operations 	FMN 	Business 
-155.23500 	KJE989 	RM	127.3 PL	ICH Ops B 	Operations  	FMN 	Business 
-155.34000 	KJE989 	B	127.3 PL	MERCI1 127.3 	Patient Reports / Air-Evac Inbound (210.7 S/W available) 	FMN 	Hospital 
-155.71500 	WQCH360 	BM	114.8 PL	Griggsv City 	City Operations 	FMN 	Public Works 
-155.88000 	WQEJ370 	RM		Grig FireEMS 	Fire/EMS: Future 	FMN 	Fire Dispatch 
-154.40000 	WRAK507 	RM	143 DPL	MerBluff EMS 	EMS: Paging / Dispatch 	FMN 	EMS Dispatch 
-151.05500 	WQVB551 	RM	10 RAN	Pitts Police 	Police: Simulcast of Sheriff/Law (Voice Decodeable) 	NXDN 	Law Dispatch 
-158.83500 	KNGS341 	RM	315 DPL	Pittsfiled Fire 	Fire: Local / Private 	FMN 	Fire-Talk 
-154.25000 	WNLW578 	BM	114.8 PL	Pitsfld Fire 	Fireground (with Barry) 	FMN 	Fire-Tac 
-154.02500 	KNGS341 	BM	97.4 PL	Ptsfd PubWrk 	Public Works 	FMN 	Public Works 
-160.01250 	WQLP726 	F		Ptsfld WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
-160.10250 	WPYG321 	BM		PHill Water 	Pleasant Hill Water Company (CSQ) 	Telm 	Data 
-118.52500 	WWR2 	B		PeostonAWOS 	AWOS  	Telm 	Aircraft 
-152.43500 	WQTG203 	RM	136.5 PL	1stStdnt GP 	First Student Buses [BK Electric] 	FMN 	Schools 
-463.72500 	WNCZ341 	RM	103.5 PL	Pklnd School 	Ops / Buses [PCS] 	FMN 	Schools 
-154.51500 	KNAC787 	RM	203.5 PL	PH Sch/Villg 	School Ops / PH City Ops, Fire Events [D365 in] 	FMN 	Multi-Dispatch 
-464.27500 	WQNF206 	RM	33 RAN	Western CUSD 	Operations (*see notes) [TG 29000] 	NXDN 	Schools 
-118.52500 	WWR2 	BM		PPQW AWOS-3 	Weather AWOS-3 	AM 	Aircraft 
-122.80000 	 	BM	CSQ	PPQ CTAF 	CTAF/UNICOM [No License] 	AM 	Aircraft 
+154.78500 	159.18000  	KNGF366 	RM	114.8 PL	Pike Co Law 	Sheriff / Countywide Law: Dispatch {123.0 in} 	FMN 	Law Dispatch 
+155.10000 	158.88000  	KIB550 	RM	127.3 PL	Pike911 Page 	Fire/EMS: Paging Only - Countywide {Multiple Input} 	FMN 	Fire Dispatch 
+158.88000 	   	KIB550 	F	196.6 PL	Pike911 PHil 	Fire/EMS: Paging Link to Pleasant Hill Tower 	FMN 	Fire Dispatch 
+158.88000 	   	KIB550 	F	141.3 PL	Pike911 Hull 	Fire/EMS: Paging Link to Hull Tower 	FMN 	Fire Dispatch 
+158.88000 	   	KIB550 	F	365 DPL	Pike911 Bary 	Fire/EMS: Paging Link to Barry Tower 	FMN 	Fire Dispatch 
+158.88000 	   	KIB550 	F	88.5 PL	Pike911 Pfld 	Fire/EMS: Paging Link to Pittsfield Tower 	FMN 	Fire Dispatch 
+158.88000 	   	KIB550 	F	94.8 PL	Pike911 Grig 	Fire/EMS: Paging Link to Griggsville Tower 	FMN 	Fire Dispatch 
+154.10000 	158.98500  	KIB550 	RM	114.8 PL	Pike911Alpha 	Fire/EMS: Response / EMS: Incident Command - Alpha {162.2 in} 	FMN 	Fire-Tac 
+151.13000 	158.92500  	KIB550 	RM	114.8 PL	Pike911Bravo 	Fire/EMS: Response / EMS: Incident Command - Bravo {91.5 in} 	FMN 	Fire-Tac 
+453.37500 	458.37500  	KIB550 	RM	114.8 PL	Pike RF Link 	911/Sheriff: Voting System (to Law, Alpha or Bravo)  	FMN 	Multi-Dispatch 
+458.15000 	   	KIB550 	F	123.0 PL	Pike 911 RF1 	911: Remote Receive Link (Constant Tone Carrier)  	FMN 	Fire Dispatch 
+458.52500 	   	KIB550 	F	162.2 PL	Pike 911 RF2 	911: Remote Receive Link (Constant Tone Carrier) 	FMN 	Fire Dispatch 
+458.85000 	   	KIB550 	F	91.5 PL	Pike 911 RF3 	911: Remote Receive Link (Constant Tone Carrier)  	FMN 	Fire Dispatch 
+158.76000 	   	WPMQ413 	BM	114.8 PL	Pike EMA 	EMA: Ops / Exercises 	FMN 	Emergency Ops 
+151.08500 	   	KNHZ949 	BM	103.5 PL	Pike Highway 	Roads (County / City / Village / Townships) 	FMN 	Public Works 
+173.23750 	   	WQPL477 	BM		Pike Co WDD  	Pike County Water District 1: Digital Data (CSQ) [SCADA] 	Telm 	Data 
+155.23500 	158.91000  	KJE989 	RM	114.8 PL	ICH Ops A 	Plant Operations 	FMN 	Business 
+155.23500 	158.91000  	KJE989 	RM	127.3 PL	ICH Ops B 	Operations  	FMN 	Business 
+155.34000 	   	KJE989 	B	127.3 PL	MERCI1 127.3 	Patient Reports / Air-Evac Inbound (210.7 S/W available) 	FMN 	Hospital 
+155.71500 	   	WQCH360 	BM	114.8 PL	Griggsv City 	City Operations 	FMN 	Public Works 
+155.88000 	159.04500  	WQEJ370 	RM		Grig FireEMS 	Fire/EMS: Future 	FMN 	Fire Dispatch 
+154.40000 	156.01500  	WRAK507 	RM	143 DPL	MerBluff EMS 	EMS: Paging / Dispatch 	FMN 	EMS Dispatch 
+151.05500 	155.81250  	WQVB551 	RM	10 RAN	Pitts Police 	Police: Simulcast of Sheriff/Law (Voice Decodeable) 	NXDN 	Law Dispatch 
+158.83500 	153.80000  	KNGS341 	RM	315 DPL	Pittsfiled Fire 	Fire: Local / Private 	FMN 	Fire-Talk 
+154.25000 	   	WNLW578 	BM	114.8 PL	Pitsfld Fire 	Fireground (with Barry) 	FMN 	Fire-Tac 
+154.02500 	   	KNGS341 	BM	97.4 PL	Ptsfd PubWrk 	Public Works 	FMN 	Public Works 
+160.01250 	   	WQLP726 	F		Ptsfld WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+160.10250 	   	WPYG321 	BM		PHill Water 	Pleasant Hill Water Company (CSQ) 	Telm 	Data 
+118.52500 	   	WWR2 	B		PeostonAWOS 	AWOS  	Telm 	Aircraft 
+152.43500 	157.69500  	WQTG203 	RM	136.5 PL	1stStdnt GP 	First Student Buses [BK Electric] 	FMN 	Schools 
+463.72500 	468.72500  	WNCZ341 	RM	103.5 PL	Pklnd School 	Ops / Buses [PCS] 	FMN 	Schools 
+154.51500 	160.18500  	KNAC787 	RM	203.5 PL	PH Sch/Villg 	School Ops / PH City Ops, Fire Events [D365 in] 	FMN 	Multi-Dispatch 
+464.27500 	469.27500  	WQNF206 	RM	33 RAN	Western CUSD 	Operations (*see notes) [TG 29000] 	NXDN 	Schools 
+118.52500 	   	WWR2 	BM		PPQW AWOS-3 	Weather AWOS-3 	AM 	Aircraft 
+122.80000 	   	 	BM	CSQ	PPQ CTAF 	CTAF/UNICOM [No License] 	AM 	Aircraft 
 Illinois Rural Electric Cooperative	 NXDN NEXEDGE 4800	 Winchester	

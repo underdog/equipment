@@ -1,19 +1,19 @@
-155.62500 	WNKA427 	RM	110.9 PL	Mont JAIL 	Detention Center 	FM 	Corrections 
-154.74000 	WNKA427 	BM	146.2 PL	Mont JAIL 	Detention Center 	FM 	Corrections 
-159.21000 	WNKA427 	M	179.9 PL	Mont JAIL 	Detention Center/Sheriff 	FM 	Corrections 
-460.57500 	WNKJ549 	RM	146.2 PL	Montg FD F-1 	Fire Dispatch (Dispatched here then switches to NXDN) 	FM 	Fire Dispatch 
-460.57500 	WNKJ549 	RM	1 RAN	Montg FD F-1 	Fire  Dispatch (Post Dispatch Traffic) 	NXDN 	Fire Dispatch 
-453.57500 	WNMA403 	RM	146.2 PL	MontgEMS F-1 	EMS - Dispatch 	FM 	EMS Dispatch 
-460.57500 	WNKJ549 	M	141.3 PL	MontgEMS N 	EMS North 	FM 	EMS-Talk 
-155.34000 	KUZ969 	BM	146.2 PL	EMS2StJoeMTS 	EMS to St. Joseph Mt. Sterling Hospital 	FM 	Hospital 
-155.31000 	KIB366 	RM	25 RAN	MontSO/MPD 1 	Sheriff/Police - Dispatch 	NXDN 	Multi-Dispatch 
-154.71000 	KIB366 	M		MontSO/MPD2 	Sheriff/ Police - Operations 	NXDN 	Multi-Talk 
-460.53750 	KIB366 	M	156.7 PL	MTS PD VR 	Police Mobile Repeaters 	FM 	Law Talk 
-153.75500 	WNMA403 	M		Mont SO VR 	Sheriff - Vehicular Repeaters 	FM 	Multi-Talk 
-45.36000 	KWF934 	BM		MTS SEWER 	Water and Sewer 	FM 	Public Works 
-453.06250 	KWF934 	F		MTS SEWER 	Water and Sewer Data Telemetry 	Telm 	Public Works 
-453.67500 	WNWV527 	RM	127.3 PL	MTS HSING AU 	Housing Authority 	FM 	Public Works 
-155.05500 	KNFX294 	RM	103.5 PL	MONT GVT SRV 	Local Government Operations 	FM 	Public Works 
-151.01000 	KWJ379 	BM	107.2 PL	MONT ROADS 	Road Dept 	FM 	Public Works 
-461.10000 	WNQI892 	RM	116 DPL	MONT SKLS 	Schools 	FM 	Schools 
-462.17500 	WNWL950 	RM	100.0 PL	MONT SKLS 	Transportation 	FM 	Schools 
+155.62500 	159.21000  	WNKA427 	RM	110.9 PL	Mont JAIL 	Detention Center 	FM 	Corrections 
+154.74000 	   	WNKA427 	BM	146.2 PL	Mont JAIL 	Detention Center 	FM 	Corrections 
+159.21000 	   	WNKA427 	M	179.9 PL	Mont JAIL 	Detention Center/Sheriff 	FM 	Corrections 
+460.57500 	465.57500  	WNKJ549 	RM	146.2 PL	Montg FD F-1 	Fire Dispatch (Dispatched here then switches to NXDN) 	FM 	Fire Dispatch 
+460.57500 	465.57500  	WNKJ549 	RM	1 RAN	Montg FD F-1 	Fire  Dispatch (Post Dispatch Traffic) 	NXDN 	Fire Dispatch 
+453.57500 	458.57500  	WNMA403 	RM	146.2 PL	MontgEMS F-1 	EMS - Dispatch 	FM 	EMS Dispatch 
+460.57500 	   	WNKJ549 	M	141.3 PL	MontgEMS N 	EMS North 	FM 	EMS-Talk 
+155.34000 	   	KUZ969 	BM	146.2 PL	EMS2StJoeMTS 	EMS to St. Joseph Mt. Sterling Hospital 	FM 	Hospital 
+155.31000 	154.71000  	KIB366 	RM	25 RAN	MontSO/MPD 1 	Sheriff/Police - Dispatch 	NXDN 	Multi-Dispatch 
+154.71000 	   	KIB366 	M		MontSO/MPD2 	Sheriff/ Police - Operations 	NXDN 	Multi-Talk 
+460.53750 	465.53750  	KIB366 	M	156.7 PL	MTS PD VR 	Police Mobile Repeaters 	FM 	Law Talk 
+153.75500 	   	WNMA403 	M		Mont SO VR 	Sheriff - Vehicular Repeaters 	FM 	Multi-Talk 
+45.36000 	   	KWF934 	BM		MTS SEWER 	Water and Sewer 	FM 	Public Works 
+453.06250 	458.06250  	KWF934 	F		MTS SEWER 	Water and Sewer Data Telemetry 	Telm 	Public Works 
+453.67500 	458.67500  	WNWV527 	RM	127.3 PL	MTS HSING AU 	Housing Authority 	FM 	Public Works 
+155.05500 	153.77500  	KNFX294 	RM	103.5 PL	MONT GVT SRV 	Local Government Operations 	FM 	Public Works 
+151.01000 	   	KWJ379 	BM	107.2 PL	MONT ROADS 	Road Dept 	FM 	Public Works 
+461.10000 	466.10000  	WNQI892 	RM	116 DPL	MONT SKLS 	Schools 	FM 	Schools 
+462.17500 	467.17500  	WNWL950 	RM	100.0 PL	MONT SKLS 	Transportation 	FM 	Schools 

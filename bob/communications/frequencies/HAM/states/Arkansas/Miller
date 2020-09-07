@@ -1,16 +1,16 @@
-155.12250 	WQKY467 	BM		MC OEM 	Countywide OEM VHF Operations 	FMN 	Emergency Ops 
-156.22500 	WQKY467 	RM		MCFD PAGE 	Countywide Fire Paging 	FMN 	Fire Dispatch 
-154.43000 	WPIN547 	RM	156.7 PL	MCFD DISP 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
-154.43000 	WPIN547 	RM	192.8 PL	MCFD FG OPS 	Countywide Fireground 	FMN 	Fire-Tac 
-158.91000 	WPIN547 	M		MCFD CMMND 	Countywide Fireground Command 	FMN 	Fire-Tac 
-155.58000 	WQBR435 	RM	131.8 PL	MCSO DISP  	Sheriff - VHF Dispatch (back-up to AWIN?) 	FMN 	Law Dispatch 
-158.74500 	WPCH892 	BM		JAIL SEC 	Sheriff - Jail Security 	FMN 	Corrections 
-856.26250 	WPPX816 	RM		MDC 	Sheriff - MDCs 	Telm 	Data 
-857.48750 	WPPX816 	RM		MDC 	Sheriff - MDCs 	Telm 	Data 
-155.67000 	WPUD418 	RM	243 DPL	SW AR Juv 	South West Arkansas Juvenile Detention Ops 	FMN 	Corrections 
-153.93500 	WPXH624 	RM		HOUSING 	Housing Authority 	FM 	Public Works 
-155.14500 	WNPY481 	BM		DPW 	Dept. of Public Works 	FM 	Public Works 
-461.67500 	 	BM	131.8 PL	Genoa ISD Buses 	Buses 	FMN 	Schools 
-148.15000 	 	RM	5EA NAC	CAP R46 Texarkan 	R-46 Texarkana 	P25 	Military 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Cooper Tire and Rubber Company	 NXDN NEXEDGE 9600
- Texarkana	Entergy 	 Project 25 Phase II	 Various	
+155.12250 	   	WQKY467 	BM		MC OEM 	Countywide OEM VHF Operations 	FMN 	Emergency Ops 
+156.22500 	153.80000  	WQKY467 	RM		MCFD PAGE 	Countywide Fire Paging 	FMN 	Fire Dispatch 
+154.43000 	159.07500  	WPIN547 	RM	156.7 PL	MCFD DISP 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
+154.43000 	159.07500  	WPIN547 	RM	192.8 PL	MCFD FG OPS 	Countywide Fireground 	FMN 	Fire-Tac 
+158.91000 	   	WPIN547 	M		MCFD CMMND 	Countywide Fireground Command 	FMN 	Fire-Tac 
+155.58000 	159.03000  	WQBR435 	RM	131.8 PL	MCSO DISP  	Sheriff - VHF Dispatch (back-up to AWIN?) 	FMN 	Law Dispatch 
+158.74500 	   	WPCH892 	BM		JAIL SEC 	Sheriff - Jail Security 	FMN 	Corrections 
+856.26250 	811.26250  	WPPX816 	RM		MDC 	Sheriff - MDCs 	Telm 	Data 
+857.48750 	812.48750  	WPPX816 	RM		MDC 	Sheriff - MDCs 	Telm 	Data 
+155.67000 	159.00000  	WPUD418 	RM	243 DPL	SW AR Juv 	South West Arkansas Juvenile Detention Ops 	FMN 	Corrections 
+153.93500 	158.88000  	WPXH624 	RM		HOUSING 	Housing Authority 	FM 	Public Works 
+155.14500 	   	WNPY481 	BM		DPW 	Dept. of Public Works 	FM 	Public Works 
+461.67500 	   	 	BM	131.8 PL	Genoa ISD Buses 	Buses 	FMN 	Schools 
+148.15000 	143.70000  	 	RM	5EA NAC	CAP R46 Texarkan 	R-46 Texarkana 	P25 	Military 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Cooper Tire and Rubber Company	 NXDN NEXEDGE 9600	 Texarkana
+Entergy 	 Project 25 Phase II	 Various	

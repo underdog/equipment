@@ -1,32 +1,32 @@
-154.86000 	KJP500 	RM	117 NAC	CarrollShrrf 	Carroll Sheriff (digital) 	P25 	Law Dispatch 
-154.86000 	KJP500 	RM	136.5 PL	CarrollShrrf 	Carroll Sheriff (analog) 	FMN 	Law Dispatch 
-155.53500 	KJP500 	BM	117 NAC	CCSO North 	CCSO North 	P25 	Law Dispatch 
-154.17500 	KSZ959 	RM	136.5 PL	OVMAA Disp 	Fire/EMS Dispatch/Operations/Pagers 	FMN 	Fire Dispatch 
-154.34000 	KSZ959 	BM	136.5 PL	OVMAA Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
-154.26500 	 	BM	136.5 PL	OVMAA Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
-154.29500 	 	BM	136.5 PL	OVMAA Tac 4 	Fire Tactical 4 	FMN 	Fire-Tac 
-153.80000 	WPYS394 	B	136.5 PL	Ctr Ossipee 	Ctr Ossipee 	FMN 	Fire-Tac 
-154.38500 	WPAK227 	B	136.5 PL	Effingham 	Effingham 	FMN 	Fire-Tac 
-154.43000 	WQI465 	B	136.5 PL	Freedom 	Freedom 	FMN 	Fire-Tac 
-154.04000 	WNEC659 	B	136.5 PL	Madison 	Madison 	FMN 	Fire-Tac 
-154.16000 	KNNF878 	B	136.5 PL	Ossipee Cor 	Ossipee Cor 	FMN 	Fire-Tac 
-154.20500 	WPHM775 	B	136.5 PL	Tamworth 	Tamworth 	FMN 	Fire-Tac 
-154.02500 	WNXZ510 	B	136.5 PL	Tuftonboroug 	Tuftonborough 	FMN 	Fire-Tac 
-154.32500 	KXU220 	BM	136.5 PL	Wakefield 	Wakefield 	FMN 	Fire-Tac 
-154.41500 	 	RM	136.5 PL	West Ossipee 	West Ossipee 	FMN 	Fire-Tac 
-155.35000 	 	RM	123.0 PL	MedStar 	MedStar 	FMN 	Fire-Tac 
-154.14500 	KLX212 	BM	173.8 PL	Bartlett FD 	Fire Primary (Washington Valley Area) 	FMN 	Fire Dispatch 
-155.76000 	KNDB818 	RM	114.8 PL	Conway FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.44500 	WQHN302 	B	114.8 PL	Conway FS2 	Fire 2 	FMN 	Fire-Tac 
-155.64000 	KRC763 	RM	817 NAC	Conway PS 	Police Dispatch 	P25 	Law Dispatch 
-155.22000 	WPWU622 	BM	123.0 PL	NConwayAMB 	North Conway Ambulance - Operations 	FMN 	EMS-Talk 
-154.22000 	WNGL408 	BM	225.7 PL	MLTNBR FS 	Fire Local Operations 	FMN 	Fire-Tac 
-155.43000 	KNCF691 	BM	117 NAC	Mltnbr PS 	Police (99.9% digital) (136.5 PL/117 NAC) 	P25 	Law Dispatch 
-151.14500 	WPKE462 	BM	136.5 PL	WakefieldPD1 	Wakefield PD Local 	FMN 	Law Talk 
-151.02500 	KNHU919 	BM	103.5 PL	PW/Buses 	Highway Department (School Buses on same channel) 	FMN 	Transportation 
-154.25000 	KNCN997 	BM	136.5 PL	Wolfe FD Pri 	Fire Primary 	FMN 	Fire Dispatch 
-154.40000 	KNCN997 	B	136.5 PL	Wolfe FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-155.61000 	WPBH301 	BM	117 NAC	Wolfe Police 	Police (rare analog use) 	P25 	Law Dispatch 
-155.16000 	WPIY929 	M		Wolfe Rescue 	Rescue 	FMN 	EMS Dispatch 
-158.82000 	KNBU770 	B	136.5 PL	WolfeboroPW 	Highway Department  	FMN 	Public Works 
+154.86000 	158.97000  	KJP500 	RM	117 NAC	CarrollShrrf 	Carroll Sheriff (digital) 	P25 	Law Dispatch 
+154.86000 	158.97000  	KJP500 	RM	136.5 PL	CarrollShrrf 	Carroll Sheriff (analog) 	FMN 	Law Dispatch 
+155.53500 	   	KJP500 	BM	117 NAC	CCSO North 	CCSO North 	P25 	Law Dispatch 
+154.17500 	159.04500  	KSZ959 	RM	136.5 PL	OVMAA Disp 	Fire/EMS Operations 	FMN 	Fire Dispatch 
+154.34000 	   	KSZ959 	BM	136.5 PL	OVMAA Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
+154.26500 	   	 	BM	136.5 PL	OVMAA Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
+154.29500 	   	 	BM	136.5 PL	OVMAA Tac 4 	Fire Tactical 4 	FMN 	Fire-Tac 
+153.80000 	   	WPYS394 	B	136.5 PL	Ctr Ossipee 	Ctr Ossipee 	FMN 	Fire-Tac 
+154.38500 	   	WPAK227 	B	136.5 PL	Effingham FD 	Effingham Fire Local Ops 	FMN 	Fire-Tac 
+154.43000 	   	WQI465 	B	136.5 PL	Freedom FD 	Freedom Fire Local Ops 	FMN 	Fire-Tac 
+154.04000 	   	WNEC659 	B	136.5 PL	Madison FD 	Madison Fire Local Ops 	FMN 	Fire-Tac 
+154.16000 	   	KNNF878 	B	136.5 PL	Ossipee Cor 	Ossipee Cor Fire Local Ops 	FMN 	Fire-Tac 
+154.20500 	   	WPHM775 	B	136.5 PL	Tamworth FD 	Tamworth Fire Local Ops 	FMN 	Fire-Tac 
+154.02500 	   	WNXZ510 	B	136.5 PL	Tuftonboroug FD 	Tuftonborough Fire Local Ops 	FMN 	Fire-Tac 
+154.32500 	   	KXU220 	BM	136.5 PL	Wakefield FD 	Wakefield Fire Local Ops 	FMN 	Fire-Tac 
+154.41500 	   	 	RM	136.5 PL	West Ossipee FD 	West Ossipee Fire Local Ops 	FMN 	Fire-Tac 
+155.35000 	150.79000  	 	RM	123.0 PL	MedStar 	MedStar 	FMN 	Fire-Tac 
+154.14500 	   	KLX212 	BM	173.8 PL	Bartlett FD 	Fire Primary (Washington Valley Area) 	FMN 	Fire Dispatch 
+155.64000 	153.74000  	KRC763 	RM	817 NAC	Conway PD 	Police Operations 	P25 	Law Dispatch 
+155.76000 	151.04750  	KNDB818 	RM	114.8 PL	Conway FD 	Fire Operations 	FMN 	Fire Dispatch 
+154.44500 	   	WQHN302 	B	114.8 PL	Conway FS2 	Fire 2 	FMN 	Fire-Tac 
+155.22000 	   	WPWU622 	BM	123.0 PL	NConwayAMB 	North Conway Ambulance - Operations 	FMN 	EMS-Talk 
+155.43000 	   	KNCF691 	BM	117 NAC	Moultonboro PD 	Police Operations 	P25 	Law Dispatch 
+154.22000 	   	WNGL408 	BM	225.7 PL	Moultonboro FD 	Fire Local Operations 	FMN 	Fire-Tac 
+151.14500 	159.22500  	WPKE462 	BM	136.5 PL	WakefieldPD1 	Police Local Operations 	FMN 	Law Talk 
+151.02500 	   	KNHU919 	BM	103.5 PL	Wakefield DPW Bu 	Public Works - School Buses 	FMN 	Public Works 
+155.61000 	   	WPBH301 	BM	117 NAC	Wolfe Police 	Police Operations 	P25 	Law Dispatch 
+154.25000 	   	KNCN997 	BM	136.5 PL	Wolfe FD Pri 	Fire Primary 	FMN 	Fire Dispatch 
+154.40000 	   	KNCN997 	B	136.5 PL	Wolfe FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+155.16000 	   	WPIY929 	M		Wolfe Rescue 	Rescue 	FMN 	EMS Dispatch 
+158.82000 	   	KNBU770 	B	136.5 PL	WolfeboroPW 	Public Works 	FMN 	Public Works 
 New Hampshire Department of Natural and Cultural Resources	 DMR Tier 3	 Varies	New Hampshire Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	

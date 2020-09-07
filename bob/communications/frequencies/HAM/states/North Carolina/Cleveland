@@ -1,33 +1,33 @@
-155.68500 	KIC387 		131 DPL	F-2 	Sheriffs Dispatch 	FM 	Law Dispatch 
-154.87500 	KIC394 			F-4 	Sheriffs Mutual Aid 	FM 	Law Talk 
-154.78500 	KO8683 			 Sheriffs Of 	Sheriffs Office 	FM 	Law Tac 
-158.76000 	KIY276 	RM	167.9 PL	Fire Dispath 	Fire Dispatch 	FM 	Fire Dispatch 
-154.28000 	WNGF783 	BM	167.9 PL	State Fire 	Fire Statewide 	FM 	Multi-Talk 
-461.05000 	 		173.8 PL	CleveMedCntr 	Cleveland Regional Medical Center 	FM 	Business 
-461.15000 	 		173.8 PL	ClvlndMedEMS 	Cleveland Regional Medical Center 	FM 	Business 
-155.74500 	WQG899 	RM	167.9 PL	1 	EMS and Rescue Dispatch 	FM 	EMS-Tac 
-464.17500 	 		173.8 PL	CRMC 	Cleveland Regional Medical Center 	FM 	Business 
-156.10500 	KDD634 	BM	167.9 PL	VOL FIRE 	Volunteer Fire 	FM 	EMS-Tac 
-155.28000 	KDW579 	BM	167.9 PL	3 	Rescue Statewide 	FM 	EMS-Tac 
-155.34000 	KDW579 	BM	132 DPL	4 	EMS to Cleveland Medical Center and Kings Mountain Hospital 	FM 	Hospital 
-154.08500 	KGR376 	RM	179.9 PL	Schools 	Schools 	FM 	Schools 
-45.24000 	KTO493 	BM		Schools 	Schools 	FM 	Schools 
-152.29250 	WQID330 	RM	123.0 PL	Kings Mtn HS 	Kings Mountain High School 	FMN 	Schools 
-152.30750 	WQID330 	RM	732 DPL	Crest HS 	Crest High School 	FMN 	Schools 
-153.98000 	WNHT618 	BM	167.9 PL	Cleveland PW 	Public Works 	FM 	Public Works 
-453.97500 	KYF281 	BM		County Govt. 	Services 	FM 	Schools 
-463.32500 	WNJF909 	BM		Sanitary 	Sanitary Services 	FM 	Public Works 
-155.92500 	KQN249 	BM		BoilingSprng 	Services 	FM 	Public Works 
-153.95000 	KMJ806 	BM	167.9 PL	Kings Mtn FD 	Fire 	FM 	Fire-Talk 
-155.08500 	WNBU786 	BM		DPW 	Services 	FM 	Business 
-154.16000 	KAO291 	RM	167.9 PL	Shelby Fire 	Fire (Linked to Shelby TRS) 	FM 	Fire Dispatch 
-156.21000 	KIC394 	RM	167.9 PL	Shelby PD 	Police 	FM 	Law Dispatch 
-154.05500 	KRY953 	BM		Services 	Services 	FM 	Multi-Talk 
-463.36250 	WQIE853 	RM		ClevelndCoCC 	Operations 	FM 	Schools 
-151.74500 	WNNS304 	RM		GrdnrWebbCol 	Operations 	FM 	Schools 
-154.51500 	KUF515 	BM		GrdnrWebbCol 	Operations 	FM 	Schools 
-158.35500 	KUF515 	BM		GrdnrWebbCol 	Operations 	FM 	Schools 
-160.59000 	 	BM		ROAD  	CSX Road AAR32  	FM 	Railroad 
-160.99500 	 	BM		DISPATCHER  	CSX Dispatcher AAR59 	FM 	Railroad 
-Cleveland County	 Project 25 Phase I	 Shelby	Duke Energy - Cleveland	 OpenSky 4800 baud	 Shelby	FleetTalk Carolinas	 NXDN NEXEDGE 4800
- Various	North Carolina VIPER	 Project 25 Phase I	 Varies	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	
+155.68500 	   	KIC387 		131 DPL	F-2 	Sheriffs Dispatch 	FM 	Law Dispatch 
+154.87500 	   	KIC394 			F-4 	Sheriffs Mutual Aid 	FM 	Law Talk 
+154.78500 	   	KO8683 			 Sheriffs Of 	Sheriffs Office 	FM 	Law Tac 
+158.76000 	153.75500  	KIY276 	RM	167.9 PL	Fire Dispath 	Fire Dispatch 	FM 	Fire Dispatch 
+154.28000 	   	WNGF783 	BM	167.9 PL	State Fire 	Fire Statewide 	FM 	Multi-Talk 
+461.05000 	466.05000  	 		173.8 PL	CleveMedCntr 	Cleveland Regional Medical Center 	FM 	Business 
+461.15000 	466.15000  	 		173.8 PL	ClvlndMedEMS 	Cleveland Regional Medical Center 	FM 	Business 
+155.74500 	153.92000  	WQG899 	RM	167.9 PL	1 	EMS and Rescue Dispatch 	FM 	EMS-Tac 
+464.17500 	469.17500  	 		173.8 PL	CRMC 	Cleveland Regional Medical Center 	FM 	Business 
+156.10500 	   	KDD634 	BM	167.9 PL	VOL FIRE 	Volunteer Fire 	FM 	EMS-Tac 
+155.28000 	   	KDW579 	BM	167.9 PL	3 	Rescue Statewide 	FM 	EMS-Tac 
+155.34000 	   	KDW579 	BM	132 DPL	4 	EMS to Cleveland Medical Center and Kings Mountain Hospital 	FM 	Hospital 
+154.08500 	158.86500  	KGR376 	RM	179.9 PL	Schools 	Schools 	FM 	Schools 
+45.24000 	   	KTO493 	BM		Schools 	Schools 	FM 	Schools 
+152.29250 	157.55250  	WQID330 	RM	123.0 PL	Kings Mtn HS 	Kings Mountain High School 	FMN 	Schools 
+152.30750 	   	WQID330 	RM	732 DPL	Crest HS 	Crest High School 	FMN 	Schools 
+153.98000 	   	WNHT618 	BM	167.9 PL	Cleveland PW 	Public Works 	FM 	Public Works 
+453.97500 	   	KYF281 	BM		County Govt. 	Services 	FM 	Schools 
+463.32500 	   	WNJF909 	BM		Sanitary 	Sanitary Services 	FM 	Public Works 
+155.92500 	   	KQN249 	BM		BoilingSprng 	Services 	FM 	Public Works 
+153.95000 	   	KMJ806 	BM	167.9 PL	Kings Mtn FD 	Fire 	FM 	Fire-Talk 
+155.08500 	   	WNBU786 	BM		DPW 	Services 	FM 	Business 
+154.16000 	151.47500  	KAO291 	RM	167.9 PL	Shelby Fire 	Fire (Linked to Shelby TRS) 	FM 	Fire Dispatch 
+156.21000 	158.97000  	KIC394 	RM	167.9 PL	Shelby PD 	Police 	FM 	Law Dispatch 
+154.05500 	   	KRY953 	BM		Services 	Services 	FM 	Multi-Talk 
+463.36250 	468.36250  	WQIE853 	RM		ClevelndCoCC 	Operations 	FM 	Schools 
+151.74500 	158.34000  	WNNS304 	RM		GrdnrWebbCol 	Operations 	FM 	Schools 
+154.51500 	   	KUF515 	BM		GrdnrWebbCol 	Operations 	FM 	Schools 
+158.35500 	   	KUF515 	BM		GrdnrWebbCol 	Operations 	FM 	Schools 
+160.59000 	   	 	BM		ROAD  	CSX Road AAR32  	FM 	Railroad 
+160.99500 	   	 	BM		DISPATCHER  	CSX Dispatcher AAR59 	FM 	Railroad 
+Cleveland County	 Project 25 Phase I	 Shelby	Duke Energy - Cleveland	 OpenSky 4800 baud	 Shelby	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various
+PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	

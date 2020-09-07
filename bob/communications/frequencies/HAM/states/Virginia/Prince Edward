@@ -1,11 +1,11 @@
-460.52500 	WPAH610 	RM	263 DPL	PrEd FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-453.40000 	WPAH610 	M	263 DPL	PrEd FD Tac 	Fire Tac 	FMN 	Fire-Tac 
-155.34000 	 	BM		PrEd EMS-Hsp 	EMS to Southside Community Hospital 	FM 	Hospital 
-460.23750 	WQXX675 	RM	A01 NAC	PrEd SO Disp 	Sheriff Dispatch 	P25 	Law Dispatch 
-155.22000 	WXT517 	BM	413 DPL	PrEd Sch Bus 	School Buses 	FMN 	Schools 
-460.06250 	WPTQ657 	RM	023 DPL	Farmv PD Dsp 	Police Dispatch 	FMN 	Law Dispatch 
-465.11250 	WPTQ657 	M	023 DPL	Farmv PD Tac 	Police Tac 	FMN 	Law Tac 
-453.51250 	WPTQ657 	RM	023 DPL	Farmville PW 	Public Works/Transportation 	FMN 	Public Works 
-453.55000 	WNFG775 	RM	203.5 PL	LU Police 	Police 	FMN 	Law Dispatch 
-464.82500 	WNSC385 	RM	624 DPL	LU Facil 	Facilities 	FMN 	Schools 
+460.52500 	465.52500  	WPAH610 	RM	263 DPL	PrEd FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.40000 	   	WPAH610 	M	263 DPL	PrEd FD Tac 	Fire Tac 	FMN 	Fire-Tac 
+155.34000 	   	 	BM		PrEd EMS-Hsp 	EMS to Southside Community Hospital 	FM 	Hospital 
+460.23750 	465.23750  	WQXX675 	RM	A01 NAC	PrEd SO Disp 	Sheriff Dispatch 	P25 	Law Dispatch 
+155.22000 	   	WXT517 	BM	413 DPL	PrEd Sch Bus 	School Buses 	FMN 	Schools 
+460.06250 	465.06250  	WPTQ657 	RM	023 DPL	Farmv PD Dsp 	Police Dispatch 	FMN 	Law Dispatch 
+465.11250 	   	WPTQ657 	M	023 DPL	Farmv PD Tac 	Police Tac 	FMN 	Law Tac 
+453.51250 	458.51250  	WPTQ657 	RM	023 DPL	Farmville PW 	Public Works/Transportation 	FMN 	Public Works 
+453.55000 	458.55000  	WNFG775 	RM	203.5 PL	LU Police 	Police 	FMN 	Law Dispatch 
+464.82500 	469.82500  	WNSC385 	RM	624 DPL	LU Facil 	Facilities 	FMN 	Schools 
 Piedmont Regional Jail	 DMR Motorola Capacity Plus Single Site (TRBO)	 Farmville	Richmond Area Hospitals	 DMR Conventional Networked	 Various	

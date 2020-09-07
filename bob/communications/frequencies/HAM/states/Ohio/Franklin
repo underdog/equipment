@@ -1,149 +1,148 @@
-857.46250 	WPIF746 	M	025 DPL	DIRECT A 	Countywide simplex A 	FMN 	Multi-Talk 
-857.76250 	WPIF746 	M	025 DPL	DIRECT B 	Countywide simplex B 	FMN 	Multi-Talk 
-856.51250 	WPGV781 	M	025 DPL	DIRECT C 	Countywide simplex C 	FMN 	Multi-Talk 
-155.40000 	WNJW524 	BM	141.3 PL	MEDFLIGHT 	MedFlight backup ops 	FMN 	EMS Dispatch 
-158.92500 	WNKG895 	RM	192.8 PL	FC SIRENS 	County EMA Siren control 	FMN 	Emergency Ops 
-159.42000 	KNCD873 	RM	131.8 PL	MECC PA 	MEC Center PA data/control 	FMN 	Data 
-451.65000 	WPRI412 	RM		CSG 	Columbus School for Girls (note: this is a private institution) 	FMN 	Schools 
-154.11500 	WQH714 	BM	91.5 PL	Bexley Services 	Bexley services 	FMN 	Public Works 
-461.57500 	WPZE297 	RM	114 DPL	BexleySch Mtx 	Bexley City Schools Maintainance 	FMN 	Schools 
-464.82500 	WPWR663 		734 DPL	CanalWin Sch 	Canal Winchester Local Schools 	FMN 	Schools 
-453.35000 	WQJJ890 	RM	351 DPL	Col WstwtrTrPl 	Columbus Wastewater Treatment Plants 	FMN 	Public Works 
-462.05000 	WPTQ884 	M	85.4 PL	Columbus West HS 	Columbus Schools - West High School 	FMN 	Schools 
-155.17500 	WRY290 	BM	712 DPL	DublnSchBus  	Dublin City Schools Transportation 	FMN 	Schools 
-155.89500 	KUR700 	B	127.3 PL	Dublin Sirens 	Dublin siren control 	FMN 	Emergency Ops 
-453.10000 	WPHW865 	BM	114.8 PL	DublnSchMtx 	Dublin City Schools Maintenance 	FMN 	Schools 
-462.37500 	WPFY415 	BM	179.9 PL	Dublin Sch 	Dublin City Schools 	FMN 	Schools 
-46.56000 	KNBB288 	BM	CSQ	FranklinTwp Svc 	Franklin Twp services 	FMN 	Public Works 
-154.10000 	KNHV302 	RM	156.7 PL	Gahanna Svc 	Gahanna Services 	FMN 	Public Works 
-155.23500 	WNLN384 	BM	071 DPL	Gah-Jef Sch 	Gahanna-Jefferson Local Schools 	FMN 	Schools 
-155.74500 	KXX363 	RM	131.8 PL	Jefferson Svc 	Jefferson Twp services 	FMN 	Public Works 
-453.70000 	KQJ234 	RM	131.8 PL	GAH UHF 	Gahanna PD secondary 	FMN 	Law Talk 
-460.22500 	KQJ234 	BM	CSQ	GAH DATA 	Gahanna (data) 	FMN 	Data 
-460.35000 	KQJ234 	BM	131.8 PL	GAH PD 	Gahanna PD (use unknown) 	FMN 	Law Talk 
-153.98000 	KDQ270 	BM	131.8 PL	GrndvwHts Svc 	Grandview Heights 	FMN 	Public Works 
-855.23750 	WNVA696 	RM	162.2 PL	GHPD DSP  	Grandview Heights Police backup 	FMN 	Law Talk 
-855.73750 	WNVA696 	RM	162.2 PL	GHFD DISP 	Grandview Heights Fire secondary 	FMN 	Fire-Talk 
-151.22000 	WPTE418 	RM	123.0 PL	GRVPRT 5 	Groveport Police local 	FMN 	Law Talk 
-461.10000 	WPUS439 	RM	131 DPL	HillSch Mnt 	Hillard City Schools Maintenance 	FMN 	Schools 
-464.70000 	WNNA618 	RM	654 DPL	HillSch Bus 	Hilliard City Schools Transportation 	FMN 	Schools 
-33.10000 	KNAR419 	BM	131.8 PL	MifflinTwp Svc 	Mifflin Twp services 	FMN 	Public Works 
-45.08000 	WYZ547 	BM	CSQ	PlainTwp Svc 	Plain Twp services 	FMN 	Public Works 
-155.20500 	 	BM	226 DPL	Plain Sch 	Plain Local Schools 	FMN 	Schools 
-453.85000 	WPKZ623 	RM	CSQ	Obetz Water 	Obetz water 	FMN 	Public Works 
-155.77500 	KNNT999 	BM		Prairie Svc  	Prairie Twp services 	FMN 	Public Works 
-460.30000 	KQH329 	RM		REYN SVC 	Reynoldsburg city services (UNID digital) 	FMN 	Law Talk 
-460.37500 	KQH329 	RM		REYN SVC 	Reynoldsburg city services (UNID digital) 	FMN 	Law Talk 
-464.82500 	WPIV904 	RM	136.5 PL	ReySch Mnt 	Reynoldsburg City Schools Maintainance 	FMN 	Schools 
-155.88000 	KNHT563 	RM	146.2 PL	Sharon Twp Svc 	Sharon Twp services (also Worthington Fire paging) 	FMN 	Public Works 
-452.06250 	WQGT200 	M		UA Ops 1 	Upper Arlington Schools - school operations 	FMN 	Schools 
-452.12500 	WQET505 	BM	71.9 PL	U-A Bus 	Upper Arlington Schools - buses 	FMN 	Schools 
-452.71250 	WQGT200 	M		UA Ops 2 	Upper Arlington Schools - school operations 	FMN 	Schools 
-452.98750 	WQGT200 	M		UA Ops 3 	Upper Arlington Schools - school operations 	FMN 	Schools 
-457.06250 	WQGT200 	M		UA Ops 4 	Upper Arlington Schools - school operations 	FMN 	Schools 
-457.71250 	WQGT200 	M		UA Ops 5 	Upper Arlington Schools - school operations 	FMN 	Schools 
-463.37500 	WQET505 	RM	71.9 PL	U-A Mtx 	Upper Arlington Schools - maintenance 	FMN 	Schools 
-39.18000 	KGJ218 	BM		Whitehall Svc 	Whitehall services 	FMN 	Public Works 
-159.91500 	 	M	662 DPL	WHI CSD F1  	Whitehall Schools - Channel 1 	FMN 	Schools 
-460.42500 	KQE956 	BM		Whitehall Svc/PD 	Whitehall Service Dept/PD 	FMN 	Multi-Talk 
-151.80500 	WPRU523 	BM	116 DPL	Wor Sch Mtx  	Worthington City Schools Maintainance 	FMN 	Schools 
-152.42000 	WQNV223 	RM	612 DPL	Wor Bus 1  	Worthington Schools Transportation 	FMN 	Schools 
-157.66500 	WPRU523 	M	223 DPL	Wor Bus 2  	Worthington Schools Transportation 	FMN 	Schools 
-453.18750 	WQBD596 	RM		SCOH 1 	Supreme Court of Ohio - security & maintenance 	FMN 	Multi-Talk 
-453.37500 	KUX378 	RM	82.5 PL	OHS? 	possibly Ohio Historical Society 	FMN 	Public Works 
-453.42500 	KDA957 	RM		Ohio,Stateof 	State of Ohio unknown 	FMN 	Public Works 
-453.67500 	KTZ378 	RM	162.2 PL	OHIO UNK 	State of Ohio (unknown agency) 	FMN 	Public Works 
-460.46250 	WQBD596 	RM	712 DPL	SCOH 2 	Supreme Court of Ohio - security & maintenance 	FMN 	Multi-Talk 
-460.52500 	WPLT648 	RM	311 DPL	OSP SECURITY 	Ohio State Highway Patrol (building sec/maint?) 	FMN 	Public Works 
-161.64000 	 			WRFD Rmt 	WRFD-AM (880) 	FM 	Media 
-161.64000 	WYR202 			WTPG Rmt 	Infinity Broadcasting (was WCOL-AM) 	FM 	Media 
-161.67000 	KPK467 			WTVN Rmt 	WTVN-AM (610) remote broadcast 	FM 	Media 
-161.67000 	 			WRFD Rmt 	WRFD-AM (880) 	FM 	Media 
-161.67000 	WYR202 			 WTPG Rmt 	Infinity Broadcasting (was WCOL-AM) 	FM 	Media 
-161.70000 	 			WRFD Rmt 	WRFD-AM (880) 	FM 	Media 
-161.70000 	 			WOSU Rmt 	WOSU-AM (820) / FM (89.7) 	FM 	Media 
-161.73000 	 			WBNS Rmt 	WBNS-AM (1460) / FM (97.1) 	FM 	Media 
-161.74500 	KPL705 		CSQ	WCMH Helo 	WCMH-TV (Ch4) Helicopter audio 	FM 	Media 
-161.76000 	 			WBNS Rmt 	WBNS-AM (1460) / FM (97.1) 	FM 	Media 
-166.25000 	WPSJ783 			WLVQ/WODC Rm 	WLVQ-FM (96.3) & WODC (93.3) live remotes 	FM 	Media 
-170.15000 	KQK756 			WBZX Rmt 	WBZX-FM (99.7) / WEGE-FM (103.9) / WMNI-AM (920) remotes 	FM 	Media 
-173.22500 	KQG254 			DispatchOps 	Columbus Dispatch 	FM 	Media 
-173.22500 	KQG254 		173.8 PL	DispatchCirc 	Columbus Dispatch circulation 	FM 	Media 
-450.01000 	 			WOSU Rmt 	WOSU-AM (820) / FM (89.7) 	FM 	Media 
-450.05000 	KPE620 			WBZX Rmt 	WBZX-FM (99.7) / WEGE-FM (103.9) / WMNI-AM (920) 	FM 	Media 
-450.05000 	KPE636 			WBZX Rmt 	WBZX-FM (99.7) / WEGE-FM (103.9) / WMNI-AM (920) 	FM 	Media 
-450.08750 	KLG684 		156.7 PL	WCMH Control 	WCMH-TV (Ch4) Master control 	FM 	Media 
-450.15000 	KPF943 			WSNY Traffic 	WSNY-FM (94.7) / WVKO (1580) traffic reports secondary 	FM 	Media 
-450.15000 	KPF943 			WSNY Rmt 	WJZA-FM (103.5/104.3) / WSNY-FM (94.7) 	FM 	Media 
-450.21250 	KPM440 		141.3 PL	WBNS-TV Prod 	WBNS-TV (Ch10) Production/Newsroom Back-up (Newsroom primary on Nextel) 	FM 	Media 
-450.25000 	KUQ300 		107.2 PL	WTVN News 	WTVN-AM (610) newsroom 	FM 	Media 
-450.28750 	KPE919 		156.7 PL	WCMH News 	WCMH-TV (Ch4) newsroom 	FM 	Media 
-450.30000 	000000 			WNCI Helo 	WNCI-FM (97.9) Helicopter audio 	FM 	Media 
-450.31250 	 			WLVQ Rmt 	WLVQ-FM (96.3) / WAZU (107.1) 	FM 	Media 
-450.35000 	KPK814 		114.8 PL	WSYX News 1 	WSYX-TV (Ch6) / WTTE-TV (Ch28) "News Center" Newsroom Primary 	FM 	Media 
-450.38750 	 			WLVQ Rmt 	WLVQ-FM (96.3)/WAZU (107.1) 	FM 	Media 
-450.41250 	KPM441 		141.3 PL	WBNS-TV Eng 	WBNS-TV (Ch10) Engineering/Paging 	FM 	Media 
-450.45000 	 			WCVO Rmt 	WCVO-FM (104.9) 	FM 	Media 
-450.48750 	 			WSNY Rmt 	WSNY-FM (94.7) / WVKO (1580) 	FM 	Media 
-450.51250 	 			WLVQ Rmt 	WLVQ-FM (96.3)/WAZU (107.1) 	FM 	Media 
-450.55000 	KAI303 			WBNS Rmt 	WBNS-AM (1460)/FM (97.1) 	FM 	Media 
-450.61250 	KPK371 			WSYX Rmt 	WSYX-TV 	FM 	Media 
-450.70000 	 			WOSU Rmt 	WOSU-AM (820)/FM (89.7) 	FM 	Media 
-450.75000 	WZZ704 		114.8 PL	WSYX News 2 	WSYX-TV (Ch6)/WTTE-TV (Ch28) "News Center" Newsroom Secondary 	FM 	Media 
-450.80000 	KPF943 			WSNY Helo 	WSNY-FM (94.7) / WVKO (1580) helicopter audio 	FM 	Media 
-450.80000 	KPF943 			WJZA Helo 	WJZA-FM (103.5/104.3) / WSNY-FM (94.7) 	FM 	Media 
-450.80000 	000000 		CSQ	WCMH Helo 	WCMH-TV (Ch4) Helicopter audio 	FM 	Media 
-450.85000 	 	BM		WODC Rmt 	WODC (93.3) live remotes 	FMN 	Media 
-450.98000 	KPG894 			WOSU Rmt 	WOSU-AM (820)/FM (89.7) 	FM 	Media 
-452.97500 	WNHV276 		025 DPL	Dispatch ops 	Columbus Dispatch unknown 	FM 	Media 
-453.00000 	WNBB952 		043 DPL	DispatchNews 	Columbus Dispatch newsroom 	FM 	Media 
-455.31250 	WPUK604 			Metro 	Metro Networks Communications 	FM 	Media 
-455.38750 	KC24222 			Citicasters 	Citicasters 	FM 	Media 
-455.45000 	KC25280 			Infinity 	Infinity Broadcasting 	FM 	Media 
-455.45000 	KC25280 			Infinity 	Infinity Radio 	FM 	Media 
-455.70000 	KQK748 			Citicasters 	Citicasters 	FM 	Media 
-455.70000 	KQK747 			Citicasters 	Citicasters 	FM 	Media 
-455.70000 	KQK748 		CSQ	WTVN Rmt 	WTVN-AM (610) remote broadcast 	FM 	Media 
-455.70000 	KQK747 		CSQ	WTVN Rmt 	WTVN-AM (610) remote broadcast 	FM 	Media 
-455.80000 	KQK747 			Citicasters 	Citicasters 	FM 	Media 
-455.80000 	KQK748 			Citicasters 	Citicasters 	FM 	Media 
-464.37500 	WPIJ230 	RM	074 DPL	Cap Univ Sec 	Capital University security 	FM 	Security 
-464.65000 	WPFW540 	RM	243 DPL	Cap Univ Mtx 	Capital University maintenance 	FM 	Schools 
-451.56250 	WQAC639 	M		Cap Univ 	Capital University 	FM 	Schools 
-456.56250 	WQAC639 	M		Cap Univ 	Capital University 	FM 	Schools 
-461.02500 	WPFW540 	M		Cap Univ 	Capital University 	FM 	Schools 
-462.26250 	WQAC639 	M		Cap Univ 	Capital University 	FM 	Schools 
-462.36250 	WQAA619 	M		Cap Univ 	Capital University 	FM 	Schools 
-464.98750 	WQAA619 	M		Cap Univ 	Capital University 	FM 	Schools 
-467.36250 	WQAA619 	M		Cap Univ 	Capital University 	FM 	Schools 
-461.83750 	KD28046 	BM		CCAD 	Columbus College Of Art & Design 	FM 	Schools 
-451.53750 	WQHG858 			CSCC 	Columbus State Community College 	FM 	Schools 
-451.53750 	WQHG858 			CSCC 	Columbus State Community College 	FM 	Schools 
-451.66250 	WQHG858 			CSCC 	Columbus State Community College 	FM 	Schools 
-451.73750 	WQHG858 			CSCC 	Columbus State Community College 	FM 	Schools 
-851.48750 	WPFF561 	RM		CSCC 	Columbus State Community College 	FM 	Schools 
-855.28750 	WPEX861 	RM		CSCC 	Columbus State Community College 	FM 	Schools 
-451.38750 	WQCB236 	RM		DeVry 	DeVry University 	FM 	Schools 
-464.92500 	KNDC948 	RM	271 DPL	Fra Univ Sec 	Franklin University security 	FM 	Schools 
-452.72500 	WPMU280 	RM	151.4 PL	ODU Maint 	Maintenance 	FM 	Schools 
-464.22500 	WPPT299 	RM	85.4 PL	ODU Sec 	Security 	FM 	Security 
-461.15000 	WNJS583 	RM	131.8 PL	Ott Sec 	Otterbein College Security 	FM 	Security 
-463.86250 	WQDK720 	RM	051 DPL	OSU RPAC 1 	Recreation & Physical Activity Center (RPAC) - activity center 	FM 	Schools 
-461.25000 	WQDK720 	RM		OSU RPAC 2 	Recreation & Physical Activity Center (RPAC) - aquatic center 	FM 	Schools 
-463.70000 	 	RM	141.3 PL	OSU-Schott 	Athletics - Schottenstein Center 	FMN 	Schools 
-466.55000 	 	BM		OSU-St John1 	Athletics - St. John Arena 	FMN 	Schools 
-463.52500 	WQPA627 	RM	151.4 PL	OSU-St John2 	Athletics - St. John Arena 	FMN 	Schools 
-Amazon Fulfillment Center Obetz (CMH2)	 DMR Conventional Networked	 Obetz	American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Anheuser-Busch Columbus	 Motorola Type II Smartnet
- Columbus	ARINC (Columbus)	 iDEN Standard	 Columbus	B and C Communications Con+	 DMR Motorola Connect Plus (TRBO)	 Columbus	B and C Communications LTR
- LTR Standard	 Various	CampusParc	 DMR Motorola Capacity Plus Single Site (TRBO)	 Columbus	Carleton Communications	 LTR Standard	 Columbus
-Center of Science and Industry (COSI)	 LTR Standard	 Columbus	Central Communications	 LTR Standard	 Hilliard	Central Ohio Digital Interconnect Group (CODIG) DMR	 DMR Conventional Networked
- Columbus	Central Ohio Interoperable Radio System (COIRS)	 Project 25 Phase I	 Delaware	Columbus Public Schools	 LTR Standard	 Columbus	Comtech Canal WInchester
- LTR Standard	 Canal Winchester	Comtech Columbus UHF	 LTR Standard	 Columbus	Comtech Columbus VHF 1	 LTR Standard	 Columbus
-Comtech Columbus VHF 2	 LTR Standard	 Columbus	Comtech Jersey UHF	 LTR Standard	 Jersey	Comtech Jersey VHF	 LTR Standard
- Jersey	Defense Logistics Agency	 Project 25 Phase I	 Various	Eddie Bauer Fulfillment Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Obetz	Eldorado Scioto Downs
- DMR Motorola Capacity Plus Single Site (TRBO)	 Columbus	Electrocomm (Columbus)	 LTR Standard	 Columbus	Hollywood Casino Columbus	 DMR Motorola Capacity Plus Single Site (TRBO)	 Columbus
-Limited Brands Logistics Services	 DMR Motorola Capacity Plus Multi Site (TRBO)	 various	Nationwide Children's Hospital	 LTR Standard	 Columbus	Ohio Expositions Commission	 LTR Standard
- Columbus	Ohio Health - Central Ohio	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Columbus	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649
- Project 25 Phase I	 Statewide	P and R Communications Connect Plus (Ohio)	 DMR Motorola Connect Plus (TRBO)	 Various	R.E.M. Communications (LTR)	 LTR Standard	 Columbus
-R.E.M. Communications (NXDN)	 NXDN NEXEDGE 9600	 Columbus	Southwestern City Schools	 DMR Motorola Capacity Plus Single Site (TRBO)	 Grove City	The Ohio State University Airport	 DMR Motorola Capacity Plus Single Site (TRBO)
- Columbus	Westerville City Schools	 DMR Hytera XPT	 Westerville	Worthington City Schools	 DMR Motorola Capacity Plus Single Site (TRBO)	 Worthington	
+857.46250 	   	WPIF746 	M	025 DPL	DIRECT A 	Countywide simplex A 	FMN 	Multi-Talk 
+857.76250 	   	WPIF746 	M	025 DPL	DIRECT B 	Countywide simplex B 	FMN 	Multi-Talk 
+856.51250 	   	WPGV781 	M	025 DPL	DIRECT C 	Countywide simplex C 	FMN 	Multi-Talk 
+155.40000 	   	WNJW524 	BM	141.3 PL	MEDFLIGHT 	MedFlight backup ops 	FMN 	EMS Dispatch 
+158.92500 	153.92000  	WNKG895 	RM	192.8 PL	FC SIRENS 	County EMA Siren control 	FMN 	Emergency Ops 
+159.42000 	150.79000  	KNCD873 	RM	131.8 PL	MECC PA 	MEC Center PA data/control 	FMN 	Data 
+451.65000 	456.65000  	WPRI412 	RM		CSG 	Columbus School for Girls (note: this is a private institution) 	FMN 	Schools 
+154.11500 	   	WQH714 	BM	91.5 PL	Bexley Services 	Bexley services 	FMN 	Public Works 
+461.57500 	466.57500  	WPZE297 	RM	114 DPL	BexleySch Mtx 	Bexley City Schools Maintainance 	FMN 	Schools 
+464.82500 	469.82500  	WPWR663 		734 DPL	CanalWin Sch 	Canal Winchester Local Schools 	FMN 	Schools 
+453.35000 	458.35000  	WQJJ890 	RM	351 DPL	Col WstwtrTrPl 	Columbus Wastewater Treatment Plants 	FMN 	Public Works 
+462.05000 	   	WPTQ884 	M	85.4 PL	Columbus West HS 	Columbus Schools - West High School 	FMN 	Schools 
+155.17500 	   	WRY290 	BM	712 DPL	DublnSchBus  	Dublin City Schools Transportation 	FMN 	Schools 
+155.89500 	   	KUR700 	B	127.3 PL	Dublin Sirens 	Dublin siren control 	FMN 	Emergency Ops 
+453.10000 	458.15000  	WPHW865 	BM	114.8 PL	DublnSchMtx 	Dublin City Schools Maintenance 	FMN 	Schools 
+462.37500 	467.37500  	WPFY415 	BM	179.9 PL	Dublin Sch 	Dublin City Schools 	FMN 	Schools 
+46.56000 	   	KNBB288 	BM	CSQ	FranklinTwp Svc 	Franklin Twp services 	FMN 	Public Works 
+154.10000 	158.74500  	KNHV302 	RM	156.7 PL	Gahanna Svc 	Gahanna Services 	FMN 	Public Works 
+155.23500 	   	WNLN384 	BM	071 DPL	Gah-Jef Sch 	Gahanna-Jefferson Local Schools 	FMN 	Schools 
+155.74500 	153.75500  	KXX363 	RM	131.8 PL	Jefferson Svc 	Jefferson Twp services 	FMN 	Public Works 
+453.70000 	458.70000  	KQJ234 	RM	131.8 PL	GAH UHF 	Gahanna PD secondary 	FMN 	Law Talk 
+460.22500 	465.22500  	KQJ234 	BM	CSQ	GAH DATA 	Gahanna (data) 	FMN 	Data 
+460.35000 	465.35000  	KQJ234 	BM	131.8 PL	GAH PD 	Gahanna PD (use unknown) 	FMN 	Law Talk 
+153.98000 	   	KDQ270 	BM	131.8 PL	GrndvwHts Svc 	Grandview Heights 	FMN 	Public Works 
+855.23750 	810.23750  	WNVA696 	RM	162.2 PL	GHPD DSP  	Grandview Heights Police backup 	FMN 	Law Talk 
+855.73750 	810.73750  	WNVA696 	RM	162.2 PL	GHFD DISP 	Grandview Heights Fire secondary 	FMN 	Fire-Talk 
+151.22000 	155.14500  	WPTE418 	RM	123.0 PL	GRVPRT 5 	Groveport Police local 	FMN 	Law Talk 
+461.10000 	466.10000  	WPUS439 	RM	131 DPL	HillSch Mnt 	Hillard City Schools Maintenance 	FMN 	Schools 
+464.70000 	469.70000  	WNNA618 	RM	654 DPL	HillSch Bus 	Hilliard City Schools Transportation 	FMN 	Schools 
+33.10000 	   	KNAR419 	BM	131.8 PL	MifflinTwp Svc 	Mifflin Twp services 	FMN 	Public Works 
+45.08000 	   	WYZ547 	BM	CSQ	PlainTwp Svc 	Plain Twp services 	FMN 	Public Works 
+155.20500 	   	 	BM	226 DPL	Plain Sch 	Plain Local Schools 	FMN 	Schools 
+453.85000 	458.85000  	WPKZ623 	RM	CSQ	Obetz Water 	Obetz water 	FMN 	Public Works 
+155.77500 	   	KNNT999 	BM		Prairie Svc  	Prairie Twp services 	FMN 	Public Works 
+460.30000 	465.30000  	KQH329 	RM		REYN SVC 	Reynoldsburg city services (UNID digital) 	FMN 	Law Talk 
+460.37500 	465.37500  	KQH329 	RM		REYN SVC 	Reynoldsburg city services (UNID digital) 	FMN 	Law Talk 
+464.82500 	469.82500  	WPIV904 	RM	136.5 PL	ReySch Mnt 	Reynoldsburg City Schools Maintainance 	FMN 	Schools 
+155.88000 	154.99500  	KNHT563 	RM	146.2 PL	Sharon Twp Svc 	Sharon Twp services (also Worthington Fire paging) 	FMN 	Public Works 
+452.06250 	   	WQGT200 	M		UA Ops 1 	Upper Arlington Schools - school operations 	FMN 	Schools 
+452.12500 	457.12500  	WQET505 	BM	71.9 PL	U-A Bus 	Upper Arlington Schools - buses 	FMN 	Schools 
+452.71250 	   	WQGT200 	M		UA Ops 2 	Upper Arlington Schools - school operations 	FMN 	Schools 
+452.98750 	   	WQGT200 	M		UA Ops 3 	Upper Arlington Schools - school operations 	FMN 	Schools 
+457.06250 	   	WQGT200 	M		UA Ops 4 	Upper Arlington Schools - school operations 	FMN 	Schools 
+457.71250 	   	WQGT200 	M		UA Ops 5 	Upper Arlington Schools - school operations 	FMN 	Schools 
+463.37500 	468.37500  	WQET505 	RM	71.9 PL	U-A Mtx 	Upper Arlington Schools - maintenance 	FMN 	Schools 
+39.18000 	   	KGJ218 	BM		Whitehall Svc 	Whitehall services 	FMN 	Public Works 
+159.91500 	   	 	M	662 DPL	WHI CSD F1  	Whitehall Schools - Channel 1 	FMN 	Schools 
+460.42500 	   	KQE956 	BM		Whitehall Svc/PD 	Whitehall Service Dept/PD 	FMN 	Multi-Talk 
+151.80500 	159.55500  	WPRU523 	BM	116 DPL	Wor Sch Mtx  	Worthington City Schools Maintainance 	FMN 	Schools 
+152.42000 	   	WQNV223 	RM	612 DPL	Wor Bus 1  	Worthington Schools Transportation 	FMN 	Schools 
+157.66500 	   	WPRU523 	M	223 DPL	Wor Bus 2  	Worthington Schools Transportation 	FMN 	Schools 
+453.18750 	458.18750  	WQBD596 	RM		SCOH 1 	Supreme Court of Ohio - security & maintenance 	FMN 	Multi-Talk 
+453.37500 	458.37500  	KUX378 	RM	82.5 PL	OHS? 	possibly Ohio Historical Society 	FMN 	Public Works 
+453.42500 	458.42500  	KDA957 	RM		Ohio,Stateof 	State of Ohio unknown 	FMN 	Public Works 
+453.67500 	458.67500  	KTZ378 	RM	162.2 PL	OHIO UNK 	State of Ohio (unknown agency) 	FMN 	Public Works 
+460.46250 	465.46250  	WQBD596 	RM	712 DPL	SCOH 2 	Supreme Court of Ohio - security & maintenance 	FMN 	Multi-Talk 
+460.52500 	465.52500  	WPLT648 	RM	311 DPL	OSP SECURITY 	Ohio State Highway Patrol (building sec/maint?) 	FMN 	Public Works 
+161.64000 	   	 			WRFD Rmt 	WRFD-AM (880) 	FM 	Media 
+161.64000 	   	WYR202 			WTPG Rmt 	Infinity Broadcasting (was WCOL-AM) 	FM 	Media 
+161.67000 	   	KPK467 			WTVN Rmt 	WTVN-AM (610) remote broadcast 	FM 	Media 
+161.67000 	   	 			WRFD Rmt 	WRFD-AM (880) 	FM 	Media 
+161.67000 	   	WYR202 			 WTPG Rmt 	Infinity Broadcasting (was WCOL-AM) 	FM 	Media 
+161.70000 	   	 			WRFD Rmt 	WRFD-AM (880) 	FM 	Media 
+161.70000 	   	 			WOSU Rmt 	WOSU-AM (820) / FM (89.7) 	FM 	Media 
+161.73000 	   	 			WBNS Rmt 	WBNS-AM (1460) / FM (97.1) 	FM 	Media 
+161.74500 	   	KPL705 		CSQ	WCMH Helo 	WCMH-TV (Ch4) Helicopter audio 	FM 	Media 
+161.76000 	   	 			WBNS Rmt 	WBNS-AM (1460) / FM (97.1) 	FM 	Media 
+166.25000 	   	WPSJ783 			WLVQ/WODC Rm 	WLVQ-FM (96.3) & WODC (93.3) live remotes 	FM 	Media 
+170.15000 	   	KQK756 			WBZX Rmt 	WBZX-FM (99.7) / WEGE-FM (103.9) / WMNI-AM (920) remotes 	FM 	Media 
+173.22500 	   	KQG254 			DispatchOps 	Columbus Dispatch 	FM 	Media 
+173.22500 	   	KQG254 		173.8 PL	DispatchCirc 	Columbus Dispatch circulation 	FM 	Media 
+450.01000 	   	 			WOSU Rmt 	WOSU-AM (820) / FM (89.7) 	FM 	Media 
+450.05000 	   	KPE620 			WBZX Rmt 	WBZX-FM (99.7) / WEGE-FM (103.9) / WMNI-AM (920) 	FM 	Media 
+450.05000 	   	KPE636 			WBZX Rmt 	WBZX-FM (99.7) / WEGE-FM (103.9) / WMNI-AM (920) 	FM 	Media 
+450.08750 	455.08570  	KLG684 		156.7 PL	WCMH Control 	WCMH-TV (Ch4) Master control 	FM 	Media 
+450.15000 	   	KPF943 			WSNY Traffic 	WSNY-FM (94.7) / WVKO (1580) traffic reports secondary 	FM 	Media 
+450.15000 	   	KPF943 			WSNY Rmt 	WJZA-FM (103.5/104.3) / WSNY-FM (94.7) 	FM 	Media 
+450.21250 	455.21250  	KPM440 		141.3 PL	WBNS-TV Prod 	WBNS-TV (Ch10) Production/Newsroom Back-up (Newsroom primary on Nextel) 	FM 	Media 
+450.25000 	   	KUQ300 		107.2 PL	WTVN News 	WTVN-AM (610) newsroom 	FM 	Media 
+450.28750 	455.28750  	KPE919 		156.7 PL	WCMH News 	WCMH-TV (Ch4) newsroom 	FM 	Media 
+450.30000 	   	000000 			WNCI Helo 	WNCI-FM (97.9) Helicopter audio 	FM 	Media 
+450.31250 	   	 			WLVQ Rmt 	WLVQ-FM (96.3) / WAZU (107.1) 	FM 	Media 
+450.35000 	455.35000  	KPK814 		114.8 PL	WSYX News 1 	WSYX-TV (Ch6) / WTTE-TV (Ch28) "News Center" Newsroom Primary 	FM 	Media 
+450.38750 	   	 			WLVQ Rmt 	WLVQ-FM (96.3)/WAZU (107.1) 	FM 	Media 
+450.41250 	455.41250  	KPM441 		141.3 PL	WBNS-TV Eng 	WBNS-TV (Ch10) Engineering/Paging 	FM 	Media 
+450.45000 	   	 			WCVO Rmt 	WCVO-FM (104.9) 	FM 	Media 
+450.48750 	   	 			WSNY Rmt 	WSNY-FM (94.7) / WVKO (1580) 	FM 	Media 
+450.51250 	   	 			WLVQ Rmt 	WLVQ-FM (96.3)/WAZU (107.1) 	FM 	Media 
+450.55000 	   	KAI303 			WBNS Rmt 	WBNS-AM (1460)/FM (97.1) 	FM 	Media 
+450.61250 	455.61250  	KPK371 			WSYX Rmt 	WSYX-TV 	FM 	Media 
+450.70000 	   	 			WOSU Rmt 	WOSU-AM (820)/FM (89.7) 	FM 	Media 
+450.75000 	455.75000  	WZZ704 		114.8 PL	WSYX News 2 	WSYX-TV (Ch6)/WTTE-TV (Ch28) "News Center" Newsroom Secondary 	FM 	Media 
+450.80000 	   	KPF943 			WSNY Helo 	WSNY-FM (94.7) / WVKO (1580) helicopter audio 	FM 	Media 
+450.80000 	   	KPF943 			WJZA Helo 	WJZA-FM (103.5/104.3) / WSNY-FM (94.7) 	FM 	Media 
+450.80000 	   	000000 		CSQ	WCMH Helo 	WCMH-TV (Ch4) Helicopter audio 	FM 	Media 
+450.85000 	   	 	BM		WODC Rmt 	WODC (93.3) live remotes 	FMN 	Media 
+450.98000 	   	KPG894 			WOSU Rmt 	WOSU-AM (820)/FM (89.7) 	FM 	Media 
+452.97500 	457.97500  	WNHV276 		025 DPL	Dispatch ops 	Columbus Dispatch unknown 	FM 	Media 
+453.00000 	458.00000  	WNBB952 		043 DPL	DispatchNews 	Columbus Dispatch newsroom 	FM 	Media 
+455.31250 	   	WPUK604 			Metro 	Metro Networks Communications 	FM 	Media 
+455.38750 	   	KC24222 			Citicasters 	Citicasters 	FM 	Media 
+455.45000 	   	KC25280 			Infinity 	Infinity Broadcasting 	FM 	Media 
+455.45000 	   	KC25280 			Infinity 	Infinity Radio 	FM 	Media 
+455.70000 	   	KQK748 			Citicasters 	Citicasters 	FM 	Media 
+455.70000 	   	KQK747 			Citicasters 	Citicasters 	FM 	Media 
+455.70000 	   	KQK748 		CSQ	WTVN Rmt 	WTVN-AM (610) remote broadcast 	FM 	Media 
+455.70000 	   	KQK747 		CSQ	WTVN Rmt 	WTVN-AM (610) remote broadcast 	FM 	Media 
+455.80000 	   	KQK747 			Citicasters 	Citicasters 	FM 	Media 
+455.80000 	   	KQK748 			Citicasters 	Citicasters 	FM 	Media 
+464.37500 	469.37500  	WPIJ230 	RM	074 DPL	Cap Univ Sec 	Capital University security 	FM 	Security 
+464.65000 	469.65000  	WPFW540 	RM	243 DPL	Cap Univ Mtx 	Capital University maintenance 	FM 	Schools 
+451.56250 	   	WQAC639 	M		Cap Univ 	Capital University 	FM 	Schools 
+456.56250 	   	WQAC639 	M		Cap Univ 	Capital University 	FM 	Schools 
+461.02500 	   	WPFW540 	M		Cap Univ 	Capital University 	FM 	Schools 
+462.26250 	   	WQAC639 	M		Cap Univ 	Capital University 	FM 	Schools 
+462.36250 	   	WQAA619 	M		Cap Univ 	Capital University 	FM 	Schools 
+464.98750 	   	WQAA619 	M		Cap Univ 	Capital University 	FM 	Schools 
+467.36250 	   	WQAA619 	M		Cap Univ 	Capital University 	FM 	Schools 
+461.83750 	   	KD28046 	BM		CCAD 	Columbus College Of Art & Design 	FM 	Schools 
+451.53750 	   	WQHG858 			CSCC 	Columbus State Community College 	FM 	Schools 
+451.53750 	   	WQHG858 			CSCC 	Columbus State Community College 	FM 	Schools 
+451.66250 	   	WQHG858 			CSCC 	Columbus State Community College 	FM 	Schools 
+451.73750 	   	WQHG858 			CSCC 	Columbus State Community College 	FM 	Schools 
+851.48750 	806.48750  	WPFF561 	RM		CSCC 	Columbus State Community College 	FM 	Schools 
+855.28750 	810.28750  	WPEX861 	RM		CSCC 	Columbus State Community College 	FM 	Schools 
+451.38750 	456.38750  	WQCB236 	RM		DeVry 	DeVry University 	FM 	Schools 
+464.92500 	469.92500  	KNDC948 	RM	271 DPL	Fra Univ Sec 	Franklin University security 	FM 	Schools 
+452.72500 	457.72500  	WPMU280 	RM	151.4 PL	ODU Maint 	Maintenance 	FM 	Schools 
+464.22500 	469.22500  	WPPT299 	RM	85.4 PL	ODU Sec 	Security 	FM 	Security 
+461.15000 	466.15000  	WNJS583 	RM	131.8 PL	Ott Sec 	Otterbein College Security 	FM 	Security 
+463.86250 	468.86250  	WQDK720 	RM	051 DPL	OSU RPAC 1 	Recreation & Physical Activity Center (RPAC) - activity center 	FM 	Schools 
+461.25000 	466.25000  	WQDK720 	RM		OSU RPAC 2 	Recreation & Physical Activity Center (RPAC) - aquatic center 	FM 	Schools 
+463.70000 	468.70000  	 	RM	141.3 PL	OSU-Schott 	Athletics - Schottenstein Center 	FMN 	Schools 
+466.55000 	   	 	BM		OSU-St John1 	Athletics - St. John Arena 	FMN 	Schools 
+463.52500 	468.52500  	WQPA627 	RM	151.4 PL	OSU-St John2 	Athletics - St. John Arena 	FMN 	Schools 
+Amazon Fulfillment Center Obetz (CMH2)	 DMR Conventional Networked	 Obetz	American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Anheuser-Busch Columbus	 Motorola Type II Smartnet	 Columbus
+ARINC (Columbus)	 iDEN Standard	 Columbus	B and C Communications Con+	 DMR Motorola Connect Plus (TRBO)	 Columbus	B and C Communications LTR	 LTR Standard	 Various
+CampusParc	 DMR Motorola Capacity Plus Single Site (TRBO)	 Columbus	Carleton Communications	 LTR Standard	 Columbus	Center of Science and Industry (COSI)	 LTR Standard	 Columbus
+Central Communications	 LTR Standard	 Hilliard	Central Ohio Digital Interconnect Group (CODIG) DMR	 DMR Conventional Networked	 Columbus	Central Ohio Interoperable Radio System (COIRS)	 Project 25 Phase I	 Delaware
+Columbus Public Schools	 LTR Standard	 Columbus	Comtech Canal WInchester	 LTR Standard	 Canal Winchester	Comtech Columbus UHF	 LTR Standard	 Columbus
+Comtech Columbus VHF 1	 LTR Standard	 Columbus	Comtech Columbus VHF 2	 LTR Standard	 Columbus	Comtech Jersey UHF	 LTR Standard	 Jersey
+Comtech Jersey VHF	 LTR Standard	 Jersey	Defense Logistics Agency	 Project 25 Phase I	 Various	Eddie Bauer Fulfillment Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Obetz
+Eldorado Scioto Downs	 DMR Motorola Capacity Plus Single Site (TRBO)	 Columbus	Electrocomm (Columbus)	 LTR Standard	 Columbus	Hollywood Casino Columbus	 DMR Motorola Capacity Plus Single Site (TRBO)	 Columbus
+Limited Brands Logistics Services	 DMR Motorola Capacity Plus Multi Site (TRBO)	 various	Nationwide Children's Hospital	 LTR Standard	 Columbus	Ohio Expositions Commission	 LTR Standard	 Columbus
+Ohio Health - Central Ohio	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Columbus	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide
+P and R Communications Connect Plus (Ohio)	 DMR Motorola Connect Plus (TRBO)	 Various	R.E.M. Communications (LTR)	 LTR Standard	 Columbus	R.E.M. Communications (NXDN)	 NXDN NEXEDGE 9600	 Columbus
+Southwestern City Schools	 DMR Motorola Capacity Plus Single Site (TRBO)	 Grove City	The Ohio State University Airport	 DMR Motorola Capacity Plus Single Site (TRBO)	 Columbus	Westerville City Schools	 DMR Hytera XPT	 Westerville
+Worthington City Schools	 DMR Motorola Capacity Plus Single Site (TRBO)	 Worthington	

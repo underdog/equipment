@@ -1,16 +1,15 @@
-453.95000 	WQCI588 	RM	631 DPL	WebsCoSO WSp 	Webster County Sheriff - Dispatch (Webster Springs Tower) 	FMN 	Law Dispatch 
-453.95000 	WQCI588 	RM	731 DPL	WebsCoSO Cwn 	Webster County Sheriff - Dispatch (Cowen Tower) 	FMN 	Law Dispatch 
-453.32500 	WPWH682 	RM	125 DPL	WebsCoFDpLk 	Webster County Fire - Dispatch (Webster Springs Tower) 	FMN 	Fire Dispatch 
-453.32500 	WPWH682 	RM	132 DPL	WebsCoFDpCwn 	Webster County Fire - Dispatch (Cowen Tower) 	FMN 	Fire Dispatch 
-453.32500 	WPWH682 	BM	032 DPL	WebsCoFDpHV 	Webster County Fire - Dispatch (Hacker Valley Tower) 	FMN 	Fire Dispatch 
-453.72500 	WQCI588 	RM		WebsCoFEMSTc 	Webster County Fire & EMS - Tactical 	FMN 	Multi-Tac 
-154.10000 	WPWH682 	RM		WebsCoEMS 2 	Webster County EMS - Secondary 	FMN 	EMS-Talk 
-155.05500 	WPHW682 	RM	91.5 PL	WebsCoEMSDp 	Webster County EMS - Dispatch 	FMN 	EMS Dispatch 
-155.26500 	 	BM		WebsCoEMSTc 	Webster County EMS - Tactical 	FMN 	EMS-Tac 
-155.34000 	 	BM		WebsCoEMSHsp 	Webster County EMS to MedBase 	FMN 	Hospital 
-155.40000 	 	BM		WebsCoEMSHsp 	Webster County EMS to MedBase 	FMN 	Hospital 
-453.77500 		WPWH682  	RM	432 DPL	WebsCo OES 	Webster County Office of Emergency Services - Repeater  	FMN 	Multi-Dispatch 
-460.92500 	WPQK210 	RM		WebCo BOEbus 	Webster County Board of Education - School Buses (Cowen Tower) 	FM 	Transportation 
-460.92500 	WPQK210 	RM		WebCo BOEbus 	Webster County Board of Education - School Buses (Webster Springs Tower) 	FM 	Transportation 
-460.92500 	WPQK210 	M		WebCo BOEb2b 	Webster County Board of Education - School Buses (Bus To Bus) 	FM 	Transportation 
-West Virginia Statewide Interoperability Radio Network (SIRN) 	 Project 25 Phase I	 Statewide	
+453.95000 	458.95000  	WQCI588 	RM	631 DPL	WebsCoSO WSp 	Webster County Sheriff - Dispatch (Webster Springs Tower) 	FMN 	Law Dispatch 
+453.95000 	458.95000  	WQCI588 	RM	731 DPL	WebsCoSO Cwn 	Webster County Sheriff - Dispatch (Cowen Tower) 	FMN 	Law Dispatch 
+453.32500 	458.32500  	WPWH682 	RM	125 DPL	WebsCoFDpLk 	Webster County Fire - Dispatch (Webster Springs Tower) 	FMN 	Fire Dispatch 
+453.32500 	458.32500  	WPWH682 	RM	132 DPL	WebsCoFDpCwn 	Webster County Fire - Dispatch (Cowen Tower) 	FMN 	Fire Dispatch 
+453.32500 	458.32500  	WPWH682 	BM	032 DPL	WebsCoFDpHV 	Webster County Fire - Dispatch (Hacker Valley Tower) 	FMN 	Fire Dispatch 
+453.72500 	458.72500  	WQCI588 	RM		WebsCoFEMSTc 	Webster County Fire & EMS - Tactical 	FMN 	Multi-Tac 
+154.10000 	158.95500  	WPWH682 	RM		WebsCoEMS 2 	Webster County EMS - Secondary 	FMN 	EMS-Talk 
+155.05500 	156.01500  	WPHW682 	RM	91.5 PL	WebsCoEMSDp 	Webster County EMS - Dispatch 	FMN 	EMS Dispatch 
+155.26500 	   	 	BM		WebsCoEMSTc 	Webster County EMS - Tactical 	FMN 	EMS-Tac 
+155.34000 	   	 	BM		WebsCoEMSHsp 	Webster County EMS to MedBase 	FMN 	Hospital 
+155.40000 	   	 	BM		WebsCoEMSHsp 	Webster County EMS to MedBase 	FMN 	Hospital 
+453.77500 	458.77500  		WPWH682  	RM	432 DPL	WebsCo OES 	Webster County Office of Emergency Services - Repeater  	FMN 	Multi-Dispatch 
+460.92500 	465.92500  	WPQK210 	RM		WebCo BOEbus 	Webster County Board of Education - School Buses (Cowen Tower) 	FM 	Transportation 
+460.92500 	465.92500  	WPQK210 	RM		WebCo BOEbus 	Webster County Board of Education - School Buses (Webster Springs Tower) 	FM 	Transportation 
+460.92500 	465.92500  	WPQK210 	M		WebCo BOEb2b 	Webster County Board of Education - School Buses (Bus To Bus) 	FM 	Transportation 

@@ -1,12 +1,11 @@
-158.74500 	WNLU369 	RM	754 DPL	ClaibnCoJail 	Detention Center Data channel 	FMN 	Data 
-154.12250 	WQES374 	RM		ClaibornCoFD 	County Fire - Dispatch 	FMN 	Fire Dispatch 
-153.89000 	WQES374 	M		Claibrn FDFG 	County Fire - Fireground/Tactical 	FMN 	Fire-Tac 
-45.72000 	WNGN264 	BM	100.0 PL	ClaibrnCoDPW 	Department of Public Works 	FM 	Public Works 
-453.55000 	WPML796 	RM	118.8 PL	ClabCoTranst 	County Transit System 	FM 	Transportation 
-154.05500 	KNAW678 	RM	114.8 PL	PortGibsonFD 	Fire Department Ops 	FMN 	Fire Dispatch 
-154.05500 	KNAW678 	RM	065 DPL	PGDPW/H2O 	Public Works/Water Department 	FMN 	Public Works 
-152.42750 	WQOU586 	RM		ASU-OPS 	Campus Operations/Security 	FMN 	Schools 
-152.27000 	WQCL277 	RM		ClaibrnCoSch 	Claiborne County Public Schools Operations 	FMN 	Schools 
-856.03750 	WNMY857 	RM		MDOC Ops/Dat 	MDOC Data/Special Ops Net 	FM 	Corrections 
-ComSouth DMR - COMNET Mississippi	 DMR Motorola Connect Plus (TRBO)	 Multiple	Entergy 	 Project 25 Phase II	 Various	Mississippi Wireless Integrated Network (MSWIN)	 Project 25 Phase II
- Jackson	
+158.74500 	153.98000  	WNLU369 	RM	754 DPL	ClaibnCoJail 	Detention Center Data channel 	FMN 	Data 
+154.12250 	158.94750  	WQES374 	RM		ClaibornCoFD 	County Fire - Dispatch 	FMN 	Fire Dispatch 
+153.89000 	   	WQES374 	M		Claibrn FDFG 	County Fire - Fireground/Tactical 	FMN 	Fire-Tac 
+45.72000 	   	WNGN264 	BM	100.0 PL	ClaibrnCoDPW 	Department of Public Works 	FM 	Public Works 
+453.55000 	458.55000  	WPML796 	RM	118.8 PL	ClabCoTranst 	County Transit System 	FM 	Transportation 
+154.05500 	159.10500  	KNAW678 	RM	114.8 PL	PortGibsonFD 	Fire Department Ops 	FMN 	Fire Dispatch 
+154.05500 	159.10500  	KNAW678 	RM	065 DPL	PGDPW/H2O 	Public Works/Water Department 	FMN 	Public Works 
+152.42750 	157.68750  	WQOU586 	RM		ASU-OPS 	Campus Operations/Security 	FMN 	Schools 
+152.27000 	157.53000  	WQCL277 	RM		ClaibrnCoSch 	Claiborne County Public Schools Operations 	FMN 	Schools 
+856.03750 	811.03750  	WNMY857 	RM		MDOC Ops/Dat 	MDOC Data/Special Ops Net 	FM 	Corrections 
+ComSouth DMR - COMNET Mississippi	 DMR Motorola Connect Plus (TRBO)	 Multiple	Entergy 	 Project 25 Phase II	 Various	

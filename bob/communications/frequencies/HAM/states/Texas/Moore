@@ -1,26 +1,26 @@
-154.88250 	KEG305 	RM	61F NAC	Moore Co SO 1 	Sheriff Dispatch 	P25 	Law Dispatch 
-158.84250 	WPRJ567 	RM	205 DPL	Moore SO North 	Sheriff Repeater (North PANCOM) 	FMN 	Law Talk 
-158.84250 	WQGM884 	RM	61F NAC	Moore SO North 	Sheriff Repeater (North PANCOM) 	P25 	Law Dispatch 
-155.07750 	WQGM884 	RM	205 DPL	Moore SO South 	Sheriff Repeater (South PANCOM) 	FMN 	Law Dispatch 
-155.07750 	WQGM884 	RM	61F NAC	Moore SO South 	Sheriff Repeater (South PANCOM) 	P25 	Law Dispatch 
-154.21250 	WQGM884 	RM	205 DPL	Moore Fire North 	Fire Dispatch (North PANCOM) 	FMN 	Fire Dispatch 
-154.21250 	WQGM884 	RM	61F NAC	Moore Fire North 	Fire Dispatch (North PANCOM) 	P25 	Fire Dispatch 
-154.09250 	WQGM884 	RM	205 DPL	Moore Fire South 	Fire Dispatch (South PANCOM) 	FMN 	Fire Dispatch 
-154.09250 	WQGM884 	RM	61F NAC	Moore Fire South 	Fire Dispatch (South PANCOM) 	P25 	Fire Dispatch 
-155.84250 	WQGM884 	RM	205 DPL	Moore EMS North 	EMS Dispatch (North PANCOM) 	FMN 	EMS Dispatch 
-155.84250 	WQGM884 	RM	61F NAC	Moore EMS North 	EMS Dispatch (North PANCOM) 	P25 	EMS Dispatch 
-155.23500 	WQGM884 	RM	205 DPL	Moore EMS South 	EMS Dispatch (South PANCOM) 	FMN 	EMS Dispatch 
-155.23500 	WQGM884 	RM	61F NAC	Moore EMS South 	EMS Dispatch (South PANCOM) 	P25 	EMS Dispatch 
-159.11250 	WQGM884 	RM	205 DPL	Moore EOC 	Emergency Ops (North PANCOM) 	FMN 	Emergency Ops 
-159.11250 	WQGM884 	RM	61F NAC	Moore EOC 	Emergency Ops (North PANCOM) 	P25 	Emergency Ops 
-155.62500 	WPKG501 	RM	186.2 PL	Moore Co Roads 	Road and Bridge 	FMN 	Public Works 
-155.54250 	WPKG501 	RM	173.8 PL	Moore Co AVL 	AVL Repeater 	FMN 	Data 
-154.17500 	WZZ225 	RM	131.8 PL	Cactus Fire  	Fire Dispatch 	FMN 	Fire Dispatch 
-155.88000 	WZZ225 	RM	156.7 PL	Cactus Police  	Police Dispatch 	FMN 	Law Dispatch 
-155.56500 	WPUA640 	RM	179.9 PL	Dumas PD 1 	Police Dispatch 	FMN 	Law Dispatch 
-155.03250 	KEG305 	RM	94.8 PL	Dumas PD 2 	Police Tactical 	FMN 	Law Tac 
-154.41500 	WNKY492 	RM	127.3 PL	Dumas Fire 2 	Fire Tactical 	FMN 	Fire Dispatch 
-460.55000 	WPCP849 	RM	136.5 PL	Dumas EMS 	EMS 	FMN 	EMS Dispatch 
-155.13000 	WQEM796 	RM	127.3 PL	Sunray PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
-154.37000 	WQOW300 	RM	146.2 PL	Sunray Fire  	Fire Dispatch 	FMN 	Fire Dispatch 
-Xcel Energy	 Project 25 Phase I	 Various	
+154.88250 	154.65000  	KEG305 	RM	61F NAC	Moore Co SO 1 	Sheriff Dispatch 1 	P25 	Law Dispatch 
+158.84250 	153.98750  	WPRJ567 	RM	205 DPL	Moore SO North 	Sheriff North (North PANCOM FMN) 	FMN 	Law Talk 
+158.84250 	153.98750  	WQGM884 	RM	61F NAC	Moore SO North 	Sheriff North (North PANCOM P25) 	P25 	Law Dispatch 
+155.07750 	153.98750  	WQGM884 	RM	205 DPL	Moore SO South 	Sheriff South (South PANCOM FMN) 	FMN 	Law Dispatch 
+155.07750 	153.98750  	WQGM884 	RM	61F NAC	Moore SO South 	Sheriff South (South PANCOM P25) 	P25 	Law Dispatch 
+154.21250 	153.88250  	WQGM884 	RM	205 DPL	Moore Fire North 	Fire Dispatch North (North PANCOM FMN) 	FMN 	Fire Dispatch 
+154.21250 	153.88250  	WQGM884 	RM	61F NAC	Moore Fire North 	Fire Dispatch North (North PANCOM P25) 	P25 	Fire Dispatch 
+154.09250 	153.88250  	WQGM884 	RM	205 DPL	Moore Fire South 	Fire Dispatch South (South PANCOM FMN) 	FMN 	Fire Dispatch 
+154.09250 	153.88250  	WQGM884 	RM	61F NAC	Moore Fire South 	Fire Dispatch South (South PANCOM P25) 	P25 	Fire Dispatch 
+155.84250 	156.21000  	WQGM884 	RM	205 DPL	Moore EMS North 	EMS Dispatch North (North PANCOM FMN) 	FMN 	EMS Dispatch 
+155.84250 	156.21000  	WQGM884 	RM	61F NAC	Moore EMS North 	EMS Dispatch North (North PANCOM P25) 	P25 	EMS Dispatch 
+155.23500 	156.21000  	WQGM884 	RM	205 DPL	Moore EMS South 	EMS Dispatch North (South PANCOM FMN) 	FMN 	EMS Dispatch 
+155.23500 	156.21000  	WQGM884 	RM	61F NAC	Moore EMS South 	EMS Dispatch South (South PANCOM P25) 	P25 	EMS Dispatch 
+159.11250 	153.80000  	WQGM884 	RM	205 DPL	Moore EOC 	Emergency Ops North (North PANCOM FMN) 	FMN 	Emergency Ops 
+159.11250 	153.80000  	WQGM884 	RM	61F NAC	Moore EOC 	Emergency Ops North (North PANCOM P25) 	P25 	Emergency Ops 
+155.62500 	153.80000  	WPKG501 	RM	186.2 PL	Moore Co Roads 	Road and Bridge 	FMN 	Public Works 
+155.54250 	154.19000  	WPKG501 	RM	173.8 PL	Moore Co AVL 	AVL Repeater 	FMN 	Data 
+155.88000 	158.88750  	WZZ225 	RM	156.7 PL	Cactus Police  	Police 	FMN 	Law Dispatch 
+154.17500 	158.81250  	WZZ225 	RM	131.8 PL	Cactus Fire  	Fire 	FMN 	Fire Dispatch 
+155.56500 	158.91000  	WPUA640 	RM	179.9 PL	Dumas PD 1 	Police Dispatch 	FMN 	Law Dispatch 
+155.03250 	158.93250  	KEG305 	RM	94.8 PL	Dumas PD 2 	Police Tactical 	FMN 	Law Tac 
+154.41500 	153.77000  	WNKY492 	RM	127.3 PL	Dumas Fire 2 	Fire Tactical 	FMN 	Fire Dispatch 
+460.55000 	465.55000  	WPCP849 	RM	136.5 PL	Dumas EMS 	EMS 	FMN 	EMS Dispatch 
+155.13000 	159.15000  	WQEM796 	RM	127.3 PL	Sunray Police 	Police 	FMN 	Law Dispatch 
+154.37000 	154.01000  	WQOW300 	RM	146.2 PL	Sunray Fire  	Fire 	FMN 	Fire Dispatch 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Xcel Energy	 Project 25 Phase I	 Various	

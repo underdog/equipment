@@ -1,21 +1,22 @@
-155.67750 	WNHR488 	RM	CC 1TG 30001SL 1	BCSO Disp Morven 	Sheriff Dispatch - Morven 	DMR 	Law Dispatch 
-155.07000 	WNHR488 	RM		BCSO 070 	Sheriff 070 	DMR 	Law Tac 
-156.06750 	WNHR488 	RM		BCSO 	Sheriff 	DMR 	Law Tac 
-154.37000 	WPPE857 	RM		BCFD Paging 	Fire Dispatch 	DMR 	Fire Dispatch 
-155.52000 	WNHR488 	RM	CC 1TG 40001SL 2	BCFR Disp Quit 	Fire Dispatch - Quitman 	DMR 	Fire Dispatch 
-155.67750 	WNHR488 	RM	CC 1TG 40001SL 2	BCFR Disp Morv 	Fire Dispatch - Morven 	DMR 	Fire Dispatch 
-154.37000 	WNHR488 	RM	CC 1TG 50001SL 1	BC EMS Disp Quit 	EMS Dispatch - Quitman 	DMR 	EMS Dispatch 
-156.24000 	WNHR488 	RM	CC 1TG 50001SL 1	BS EMS Disp Morv 	EMS Dispatch - Morven 	DMR 	EMS Dispatch 
-154.26500 	WPPC341 	RM		BC 911 	911 	DMR 	EMS Dispatch 
-151.26500 	WPKY898 	BM		REMSG 265 	Regional EMS of Georgia 	DMR 	EMS-Tac 
-155.20500 	WPKY898 	BM		REMSG 205 	Regional EMS of Georgia 	DMR 	EMS-Tac 
-155.22000 	WNZJ400 	BM		REMSG 220 	Regional EMS of Georgia 	FMN 	EMS-Tac 
-155.34000 	KTV704 	BM		BC EMS to Hosp 	Brooks County Hospital 	FMN 	Hospital 
-153.81500 	KNBF404 	BM		BC Roads 	Roads 	DMR 	Transportation 
-155.71500 	KVH292 	BM		BC Ext Svc 	Extension Service 	DMR 	Other 
-462.05000 	WQFA628 	RM		BC BOE 	Board of Educaton 	FMN 	Schools 
-463.98750 	WQIJ866 	RM		BC BOE 	Board of Education 	FMN 	Schools 
-464.60000 	WQIJ866 	RM		BC BOE 	Board of Educaton 	FMN 	Schools 
-154.98000 	KNDN558 	BM		Morven Gov 	City Hall 	FMN 	Public Works 
-155.85000 	WPUU482 	BM		QPD Dispatch 	Police Dispatch 	DMR 	Law Dispatch 
-154.10000 	WPUU482 	BM		QPD TAC 	Police TAC 	DMR 	Law Tac 
+155.67750 	151.00250  	WNHR488 	RM	CC 1TG 30001SL 1	BCSO Disp Morven 	Sheriff Dispatch - Morven 	DMR 	Law Dispatch 
+155.52000 	159.03000  	WNHR488 	RM	CC 1TG 30001SL 1	BCSO Disp Quitmn 	Sheriff Dispatch - Quitman 	DMR 	Law Dispatch 
+155.07000 	154.71750  	WNHR488 	RM		BCSO 070 	Sheriff 070 	DMR 	Law Tac 
+156.06750 	158.83500  	WNHR488 	RM		BCSO 	Sheriff 	DMR 	Law Tac 
+154.37000 	150.77500  	WPPE857 	RM		BCFD Paging 	Fire Dispatch 	DMR 	Fire Dispatch 
+155.52000 	159.03000  	WNHR488 	RM	CC 1TG 40001SL 2	BCFR Disp Quit 	Fire Dispatch - Quitman 	DMR 	Fire Dispatch 
+155.67750 	151.00250  	WNHR488 	RM	CC 1TG 40001SL 2	BCFR Disp Morv 	Fire Dispatch - Morven 	DMR 	Fire Dispatch 
+154.37000 	150.77500  	WNHR488 	RM	CC 1TG 50001SL 1	BC EMS Disp Quit 	EMS Dispatch - Quitman 	DMR 	EMS Dispatch 
+156.24000 	153.81500  	WNHR488 	RM	CC 1TG 50001SL 1	BS EMS Disp Morv 	EMS Dispatch - Morven 	DMR 	EMS Dispatch 
+154.26500 	158.74500  	WPPC341 	RM		BC 911 	911 	DMR 	EMS Dispatch 
+151.26500 	   	WPKY898 	BM		REMSG 265 	Regional EMS of Georgia 	DMR 	EMS-Tac 
+155.20500 	   	WPKY898 	BM		REMSG 205 	Regional EMS of Georgia 	DMR 	EMS-Tac 
+155.22000 	   	WNZJ400 	BM		REMSG 220 	Regional EMS of Georgia 	FMN 	EMS-Tac 
+155.34000 	   	KTV704 	BM		BC EMS to Hosp 	Brooks County Hospital 	FMN 	Hospital 
+153.81500 	   	KNBF404 	BM		BC Roads 	Roads 	DMR 	Transportation 
+155.71500 	   	KVH292 	BM		BC Ext Svc 	Extension Service 	DMR 	Other 
+462.05000 	467.05000  	WQFA628 	RM		BC BOE 	Board of Educaton 	FMN 	Schools 
+463.98750 	468.98750  	WQIJ866 	RM		BC BOE 	Board of Education 	FMN 	Schools 
+464.60000 	469.60000  	WQIJ866 	RM		BC BOE 	Board of Educaton 	FMN 	Schools 
+154.98000 	   	KNDN558 	BM		Morven Gov 	City Hall 	FMN 	Public Works 
+155.85000 	   	WPUU482 	BM		QPD Dispatch 	Police Dispatch 	DMR 	Law Dispatch 
+154.10000 	   	WPUU482 	BM		QPD TAC 	Police TAC 	DMR 	Law Tac 

@@ -1,26 +1,26 @@
-158.80500 	WQRD999 	RM	065 NAC	Wise SO Disp 	Dispatch 	P25 	Law Dispatch 
-159.36750 	WQRD999 	RM	065 NAC	Wise SO 159 	Dispatch (multicast with 158.805) 	P25 	Law Dispatch 
-154.44500 	WNQR572 	RM	131.8 PL	Wise Co Fire 	Fire Dispatch Analog (excludes Bridgeport, Decatur) 	FMN 	Fire Dispatch 
-154.44500 	WNQR572 	RM	065 NAC	Wise Co Fire 	Fire Dispatch Digital  	P25 	Fire Dispatch 
-154.99500 	WQRD999 	RM	131.8 PL	Wise CovFire 1 	Fire 1 (Analog) 	FMN 	Fire Dispatch 
-154.99500 	WQRD999 	RM	065 NAC	Wise Co Fire 1 	Fire 1 (Digital) 	P25 	Fire-Tac 
-154.21250 	WQRD999 	RM	065 NAC	Wise Co Fire 2 	Fire 2 	P25 	Fire-Tac 
-155.26500 	WQRD999 	RM	065 NAC	Wise Co Fire 3 	Com 3 	P25 	Fire-Tac 
-154.37750 	WQRD999 	RM	065 NAC	WiseCoFire2W 	Fire 2 W 	P25 	Fire-Tac 
-155.15250 	WQRD999 	RM	065 NAC	WiseCoFire3W 	Com 3 W 	P25 	Fire-Tac 
-151.11500 	WQJC858 	RM	051 DPL	Rhome Fire 	Rhome Fire Operations 	FMN 	Fire-Tac 
-154.13000 	WNCW566 	RM	131.8 PL	Boyd Fire 	Boyd Fire Operations 	FMN 	Fire-Tac 
-453.95000 	WNCW566 	RM		Boyd EMS 	Boyd EMS Dispatch 	FMN 	EMS Dispatch 
-158.84250 	WPUQ209 	RM	131.8 PL	Bridgept PD1 	Bridgeport Police Dispatch 	FMN 	Law Dispatch 
-154.77000 	 	M	131.8 PL	Bridgept PD2 	Bridgeport Police Ch 2 	FMN 	Law Tac 
-154.31000 	WNZA834 	RM	245 DPL	Brdgport FD 	Bridgeport Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-155.80500 	WQOK550 	RM	065 NAC	Dec PD Disp 	Decatur Police Dispatch 	P25 	Law Dispatch 
-154.74000 	WNFT558 	BM	131.8 PL	Dec PD Ana 	Decatur Police Analog 	FMN 	Law Dispatch 
-155.18250 	WQOK550 	RM	065 NAC	Dec FD Ops 	Decatur Fire Ops 	P25 	Fire Dispatch 
-154.35500 	KNFZ699 	RM	131.8 PL	Dec FD Disp 	Decatur Fire Dispatch Only 	FMN 	Fire Dispatch 
-151.11500 	WQJC858 	RM	4E3 NAC	Rhome FD 	Rhome Fire P25 	P25 	Fire Dispatch 
-151.11500 	WQJC858 	RM	051 DPL	Rhome FD Ana 	Rhome Fire Analog 	FMN 	Fire Dispatch 
-Bridgeport Correctional Center, The GEO Group, Inc.	 LTR Standard	 Bridgeport	Devon Gas Services	 Motorola Type II	 Decatur	EnLink Midstream	 NXDN NEXEDGE 4800
- 	Netwave (Rhome)	 LTR Standard	 Rhome	Northwest Independent School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Haslet	Oncor Energy
- EDACS Narrowband Networked	 Various	Self Radio (Boyd)	 LTR Standard	 Boyd	Self Radio (Decatur)	 LTR Standard	 Decatur
+158.80500 	153.87500  	WQRD999 	RM	065 NAC	Wise SO Disp 	Dispatch 	P25 	Law Dispatch 
+159.36750 	   	WQRD999 	RM	065 NAC	Wise SO 159 	Dispatch (multicast with 158.805) 	P25 	Law Dispatch 
+154.44500 	154.01000  	WNQR572 	RM	131.8 PL	Wise Co Fire 	Fire Dispatch Analog (excludes Bridgeport, Decatur) 	FMN 	Fire Dispatch 
+154.44500 	154.01000  	WNQR572 	RM	065 NAC	Wise Co Fire 	Fire Dispatch Digital  	P25 	Fire Dispatch 
+154.99500 	   	WQRD999 	RM	131.8 PL	Wise CovFire 1 	Fire 1 (Analog) 	FMN 	Fire Dispatch 
+154.99500 	   	WQRD999 	RM	065 NAC	Wise Co Fire 1 	Fire 1 (Digital) 	P25 	Fire-Tac 
+154.21250 	   	WQRD999 	RM	065 NAC	Wise Co Fire 2 	Fire 2 	P25 	Fire-Tac 
+155.26500 	   	WQRD999 	RM	065 NAC	Wise Co Fire 3 	Com 3 	P25 	Fire-Tac 
+154.37750 	   	WQRD999 	RM	065 NAC	WiseCoFire2W 	Fire 2 W 	P25 	Fire-Tac 
+155.15250 	   	WQRD999 	RM	065 NAC	WiseCoFire3W 	Com 3 W 	P25 	Fire-Tac 
+151.11500 	159.06750  	WQJC858 	RM	051 DPL	Rhome Fire 	Rhome Fire Operations 	FMN 	Fire-Tac 
+154.13000 	158.88000  	WNCW566 	RM	131.8 PL	Boyd Fire 	Boyd Fire Operations 	FMN 	Fire-Tac 
+453.95000 	458.95000  	WNCW566 	RM		Boyd EMS 	Boyd EMS Dispatch 	FMN 	EMS Dispatch 
+158.84250 	153.80750  	WPUQ209 	RM	131.8 PL	Bridgept PD1 	Bridgeport Police Dispatch 	FMN 	Law Dispatch 
+154.77000 	   	 	M	131.8 PL	Bridgept PD2 	Bridgeport Police Ch 2 	FMN 	Law Tac 
+154.31000 	153.95000  	WNZA834 	RM	245 DPL	Brdgport FD 	Bridgeport Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.80500 	   	WQOK550 	RM	065 NAC	Dec PD Disp 	Decatur Police Dispatch 	P25 	Law Dispatch 
+154.74000 	   	WNFT558 	BM	131.8 PL	Dec PD Ana 	Decatur Police Analog 	FMN 	Law Dispatch 
+155.18250 	159.03750  	WQOK550 	RM	065 NAC	Dec FD Ops 	Decatur Fire Ops 	P25 	Fire Dispatch 
+154.35500 	156.01500  	KNFZ699 	RM	131.8 PL	Dec FD Disp 	Decatur Fire Dispatch Only 	FMN 	Fire Dispatch 
+151.11500 	156.07500  	WQJC858 	RM	4E3 NAC	Rhome FD 	Rhome Fire P25 	P25 	Fire Dispatch 
+151.11500 	156.07500  	WQJC858 	RM	051 DPL	Rhome FD Ana 	Rhome Fire Analog 	FMN 	Fire Dispatch 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Bridgeport Correctional Center, The GEO Group, Inc.	 LTR Standard	 Bridgeport	Devon Gas Services	 Motorola Type II	 Decatur
+EnLink Midstream	 NXDN NEXEDGE 4800	 	Netwave (Rhome)	 LTR Standard	 Rhome	Northwest Independent School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Haslet
+Oncor Energy	 EDACS Narrowband Networked	 Various	Self Radio (Boyd)	 LTR Standard	 Boyd	Self Radio (Decatur)	 LTR Standard	 Decatur
 Self Radio Nexedge	 NXDN NEXEDGE 4800	 Fort Worth	

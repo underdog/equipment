@@ -1,43 +1,43 @@
-154.78500 	KZB383 	RM	127.3 PL	MontCo PD 	Countywide Dispatch 	FMN 	Law Dispatch 
-154.73250 	WQWW619 	BM	CSQ	MontCo FD Disp 	Dispatch 	FMN 	Fire Dispatch 
-151.01750 	WQWW620 	BM	131 DPL	MontCo FD Resp 	Response 	FMN 	Fire Dispatch 
-155.10750 	WQWW619 	M	152 DPL	MontCo FG West 	Fireground West 	FMN 	Fire-Tac 
-155.82750 	WQXN962 	M	445 DPL	MontCo FG Centrl 	Fireground Central 	FMN 	Fire-Tac 
-154.18250 	WQXN962 	M	343 DPL	MontCo FG East 	Fireground East 	FMN 	Fire-Tac 
-159.08250 	WQXN962 	M	526 DPL	MontCo FD Inter 	Interior 	FMN 	Fire-Tac 
-155.09250 	WQWW620 	BM	306 DPL	MontCo FD Cmd 	Command 	FMN 	Fire-Talk 
-154.27250 	 	M	412 DPL	MontCo FD Water 	Water Supply 	FMN 	Fire-Tac 
-155.71500 	KNIL522 	BM	CSQ	MontCo FD LZ 	Landing Zone 	FMN 	Fire-Tac 
-154.28000 	 	M	712 DPL	MontCo FD HazMat 	Hazardous Materials 	FMN 	Fire-Tac 
-154.18250 	WQXN962 	M	261 DPL	MontCo FP West 	Fire Police West 	FMN 	Fire-Talk 
-151.10000 	WPUB630 	M	612 DPL	MontCo FP Centrl 	Fire Police Central 	FMN 	Fire-Talk 
-155.10750 	WQWW619 	M	654 DPL	MontCo FP East 	Fire Police East 	FMN 	Fire-Talk 
-46.10000 	KED486 	B	94.8 PL	MontCo FD Page 	Fire Paging 	FM 	Fire Dispatch 
-46.12000 	KED486 	B	127.3 PL	MontCo FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
-46.22000 	KED486 	B		MontCo FD F2 	Fire F2 	FM 	Fire-Talk 
-46.34000 	WNWZ932 	BM		MontCo FG 	Fireground 	FM 	Fire-Tac 
-46.46000 	WNWZ932 	BM		MontCo FG 	Fireground 	FM 	Fire-Tac 
-46.30000 	WNXU704 	M		MontCo FP 	Fire Police 	FM 	Fire-Tac 
-155.16000 	KNIL522 	BM	103.5 PL	MontCo EMS 	EMS 	FMN 	EMS Dispatch 
-158.76000 	WQU310 	RM	151.4 PL	Mid County EMS 	Mid County Ambulance 	FMN 	EMS Dispatch 
-158.86500 	WNJZ887 	BM	465 DPL	MontCo EMO 	Emergency Management 	FMN 	Emergency Ops 
-156.22500 	KEF521 	B	146.2 PL	MontCo DPW 	Public Works 	FMN 	Public Works 
-153.74000 	KNAR447 	RM	156.7 PL	CoA PD 	Police 	FMN 	Law Dispatch 
-156.22500 	KEF521 	BM	172 DPL	CoA FD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
-159.39750 	WQYN959 	RM	244 DPL	CoA Firegrnd Rpt 	Fireground Repeater 	FMN 	Fire-Tac 
-155.10750 	WQWW619 	M	325 DPL	CoA Fireground 1 	Fireground 1 	FMN 	Fire-Tac 
-453.38750 	WPSJ958 	RM	203.5 PL	CoA FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-453.68750 	 	M		CoA FG A 	Fireground 	FMN 	Fire-Tac 
-458.30000 	 	M		CoA FG B 	Fireground 	FMN 	Fire-Tac 
-153.87500 	KGY249 	RM	123.0 PL	CoA DPW 	Public Works 	FMN 	Public Works 
-154.45250 	 	M	212 DPL	ToA Fire Police 	Fire Police 	FMN 	Fire-Talk 
-154.12250 	WPBA605 	BM	156.7 PL	Cranesville FG 	Fireground 	FMN 	Fire-Tac 
-46.38000 	WPBA605 	BM		Cranesville FG 	Fireground 	FM 	Fire-Tac 
-159.28500 	KB88609 	RM		FJ Repeater 	Fireground Repeater 	FMN 	Fire-Talk 
-155.05500 	KB88609 	BM		FJ Fireground 	Fireground  	FMN 	Fire-Talk 
-46.24000 	KB88609 	BM		FJ Fireground 	Fireground 	FM 	Fire-Talk 
-159.25500 	KZG275 	RM	225.7 PL	Hagaman Rpt 	Fire Repeater 	FMN 	Fire-Tac 
-151.34000 	KZG275 	M	225.7 PL	Hagaman FG 1 	Fireground 1 	FMN 	Fire-Tac 
-151.29500 	KZG275 	M	225.7 PL	Hagaman FG 2 	Fireground 2 	FMN 	Fire-Tac 
-46.50000 	KZG275 	BM		Hagaman FG 	Fireground 	FM 	Fire-Tac 
-462.45000 	 	RM	CC 1TG 21SL *	FtPlain Schl Bus 	Fort Plain School Buses 	DMR 	Schools 
+154.78500 	156.09000  	KZB383 	RM	127.3 PL	MontCo PD 	Countywide Dispatch 	FMN 	Law Dispatch 
+154.73250 	   	WQWW619 	BM	CSQ	MontCo FD Disp 	Dispatch 	FMN 	Fire Dispatch 
+151.01750 	   	WQWW620 	BM	131 DPL	MontCo FD Resp 	Response 	FMN 	Fire Dispatch 
+155.10750 	   	WQWW619 	M	152 DPL	MontCo FG West 	Fireground West 	FMN 	Fire-Tac 
+155.82750 	   	WQXN962 	M	445 DPL	MontCo FG Centrl 	Fireground Central 	FMN 	Fire-Tac 
+154.18250 	   	WQXN962 	M	343 DPL	MontCo FG East 	Fireground East 	FMN 	Fire-Tac 
+159.08250 	   	WQXN962 	M	526 DPL	MontCo FD Inter 	Interior 	FMN 	Fire-Tac 
+155.09250 	   	WQWW620 	BM	306 DPL	MontCo FD Cmd 	Command 	FMN 	Fire-Talk 
+154.27250 	   	 	M	412 DPL	MontCo FD Water 	Water Supply 	FMN 	Fire-Tac 
+155.71500 	   	KNIL522 	BM	CSQ	MontCo FD LZ 	Landing Zone 	FMN 	Fire-Tac 
+154.28000 	   	 	M	712 DPL	MontCo FD HazMat 	Hazardous Materials 	FMN 	Fire-Tac 
+154.18250 	   	WQXN962 	M	261 DPL	MontCo FP West 	Fire Police West 	FMN 	Fire-Talk 
+151.10000 	   	WPUB630 	M	612 DPL	MontCo FP Centrl 	Fire Police Central 	FMN 	Fire-Talk 
+155.10750 	   	WQWW619 	M	654 DPL	MontCo FP East 	Fire Police East 	FMN 	Fire-Talk 
+46.10000 	   	KED486 	B	94.8 PL	MontCo FD Page 	Fire Paging 	FM 	Fire Dispatch 
+46.12000 	   	KED486 	B	127.3 PL	MontCo FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+46.22000 	   	KED486 	B		MontCo FD F2 	Fire F2 	FM 	Fire-Talk 
+46.34000 	   	WNWZ932 	BM		MontCo FG 	Fireground 	FM 	Fire-Tac 
+46.46000 	   	WNWZ932 	BM		MontCo FG 	Fireground 	FM 	Fire-Tac 
+46.30000 	   	WNXU704 	M		MontCo FP 	Fire Police 	FM 	Fire-Tac 
+155.16000 	   	KNIL522 	BM	103.5 PL	MontCo EMS 	EMS 	FMN 	EMS Dispatch 
+158.76000 	151.41500  	WQU310 	RM	151.4 PL	Mid County EMS 	Mid County Ambulance 	FMN 	EMS Dispatch 
+158.86500 	   	WNJZ887 	BM	465 DPL	MontCo EMO 	Emergency Management 	FMN 	Emergency Ops 
+156.22500 	   	KEF521 	B	146.2 PL	MontCo DPW 	Public Works 	FMN 	Public Works 
+153.74000 	156.00000  	KNAR447 	RM	156.7 PL	CoA PD 	Police 	FMN 	Law Dispatch 
+156.22500 	   	KEF521 	BM	172 DPL	CoA FD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
+159.39750 	153.97250  	WQYN959 	RM	244 DPL	CoA Firegrnd Rpt 	Fireground Repeater 	FMN 	Fire-Tac 
+155.10750 	   	WQWW619 	M	325 DPL	CoA Fireground 1 	Fireground 1 	FMN 	Fire-Tac 
+453.38750 	458.38750  	WPSJ958 	RM	203.5 PL	CoA FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.68750 	   	 	M		CoA FG A 	Fireground 	FMN 	Fire-Tac 
+458.30000 	   	 	M		CoA FG B 	Fireground 	FMN 	Fire-Tac 
+153.87500 	158.89500  	KGY249 	RM	123.0 PL	CoA DPW 	Public Works 	FMN 	Public Works 
+154.45250 	   	 	M	212 DPL	ToA Fire Police 	Fire Police 	FMN 	Fire-Talk 
+154.12250 	   	WPBA605 	BM	156.7 PL	Cranesville FG 	Fireground 	FMN 	Fire-Tac 
+46.38000 	   	WPBA605 	BM		Cranesville FG 	Fireground 	FM 	Fire-Tac 
+159.28500 	151.40000  	KB88609 	RM		FJ Repeater 	Fireground Repeater 	FMN 	Fire-Talk 
+155.05500 	   	KB88609 	BM		FJ Fireground 	Fireground  	FMN 	Fire-Talk 
+46.24000 	   	KB88609 	BM		FJ Fireground 	Fireground 	FM 	Fire-Talk 
+159.25500 	   	KZG275 	RM	225.7 PL	Hagaman Rpt 	Fire Repeater 	FMN 	Fire-Tac 
+151.34000 	   	KZG275 	M	225.7 PL	Hagaman FG 1 	Fireground 1 	FMN 	Fire-Tac 
+151.29500 	   	KZG275 	M	225.7 PL	Hagaman FG 2 	Fireground 2 	FMN 	Fire-Tac 
+46.50000 	   	KZG275 	BM		Hagaman FG 	Fireground 	FM 	Fire-Tac 
+462.45000 	467.45000  	 	RM	CC 1TG 21SL *	FtPlain Schl Bus 	Fort Plain School Buses 	DMR 	Schools 

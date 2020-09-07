@@ -1,16 +1,16 @@
-151.48250 	WQAC508 	RM	114.8 PL	GCEMA 	Emergency Management 	FMN 	Emergency Ops 
-453.33750 	WPXT229 	RM	167.9 PL	GCFD-DISP A 	Fire/EMS Dispatch Analog 	FMN 	Fire Dispatch 
-453.48750 	WPRH893 	RM	CC 7TG *SL *	GCEMS-OPS 	EMS Operations 	DMR 	EMS-Tac 
-460.12500 	WPDQ319 	RM	CC 7TG 80SL 1	GCEMS DISP 	County EMS Dispatch 	DMR 	EMS Dispatch 
-453.56250 	WPTN536 	RM	167.9 PL	GC-RESCUE 	Rescue Squad 	FMN 	Emergency Ops 
-155.78250 	WPVM340 	RM	167.9 PL	BSVFD-DISP  	Bean Station Volunteer Fire Department - Dispatch 	FMN 	Fire Dispatch 
-453.62500 	WPPW476 	RM	CC 7TG 10SL 1	PSVFD DIG 	Powder Springs Volunteer Fire Department Digital 	DMR 	Fire-Tac 
-453.62500 	WPPW476 	RM	167.9 PL	PSVFD-DISP A 	Powder Springs Volunteer Fire Department - Dispatch Analog 	FMN 	Fire Dispatch 
-460.03750 	WPPW476 	RM		RVFD-DIG 	Rutledge Volunteer Fire Department Digital 	DMR 	Fire-Tac 
-460.03750 	WPPW476 	RM	167.9 PL	RVFD-DISP A 	Rutledge Volunteer Fire Department -Dispatch Analog 	FMN 	Fire Dispatch 
-460.12500 	WPDQ319 	RM	CC 7TG 10SL 2	GCSO-OPS 	Sheriff 	DMR 	Law Dispatch 
-460.40000 	WPDQ319 	RM	127.3 PL	GC SO UTNMA 	Sheriff Mutual Aid 	FMN 	Interop 
-453.81250 	WQRU705 	RM		GCPS-SOW 	County Public Safety Site On Wheels 	DMR 	Emergency Ops 
-155.52000 	WPDK910 	RM	71.9 PL	GC-HIGHWAYS 	Highway Department 	FMN 	Public Works 
-451.22500 	WQLD698 	RM		GC-SCHOOLS 	School Buses 	FMN 	Schools 
+151.48250 	154.00250  	WQAC508 	RM	114.8 PL	GCEMA 	Emergency Management 	FMN 	Emergency Ops 
+453.33750 	458.33750  	WPXT229 	RM	167.9 PL	GCFD-DISP A 	Fire/EMS Dispatch Analog 	FMN 	Fire Dispatch 
+453.48750 	458.48750  	WPRH893 	RM	CC 7TG *SL *	GCEMS-OPS 	EMS Operations 	DMR 	EMS-Tac 
+460.12500 	465.12500  	WPDQ319 	RM	CC 7TG 80SL 1	GCEMS DISP 	County EMS Dispatch 	DMR 	EMS Dispatch 
+453.56250 	458.56250  	WPTN536 	RM	167.9 PL	GC-RESCUE 	Rescue Squad 	FMN 	Emergency Ops 
+155.78250 	151.03250  	WPVM340 	RM	167.9 PL	BSVFD-DISP  	Bean Station Volunteer Fire Department - Dispatch 	FMN 	Fire Dispatch 
+453.62500 	458.62500  	WPPW476 	RM	CC 7TG 10SL 1	PSVFD DIG 	Powder Springs Volunteer Fire Department Digital 	DMR 	Fire-Tac 
+453.62500 	458.62500  	WPPW476 	RM	167.9 PL	PSVFD-DISP A 	Powder Springs Volunteer Fire Department - Dispatch Analog 	FMN 	Fire Dispatch 
+460.03750 	465.03750  	WPPW476 	RM		RVFD-DIG 	Rutledge Volunteer Fire Department Digital 	DMR 	Fire-Tac 
+460.03750 	465.03750  	WPPW476 	RM	167.9 PL	RVFD-DISP A 	Rutledge Volunteer Fire Department -Dispatch Analog 	FMN 	Fire Dispatch 
+460.12500 	465.12500  	WPDQ319 	RM	CC 7TG 10SL 2	GCSO-OPS 	Sheriff 	DMR 	Law Dispatch 
+460.40000 	465.40000  	WPDQ319 	RM	127.3 PL	GC SO UTNMA 	Sheriff Mutual Aid 	FMN 	Interop 
+453.81250 	458.81250  	WQRU705 	RM		GCPS-SOW 	County Public Safety Site On Wheels 	DMR 	Emergency Ops 
+155.52000 	153.96500  	WPDK910 	RM	71.9 PL	GC-HIGHWAYS 	Highway Department 	FMN 	Public Works 
+451.22500 	456.22500  	WQLD698 	RM		GC-SCHOOLS 	School Buses 	FMN 	Schools 
 Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

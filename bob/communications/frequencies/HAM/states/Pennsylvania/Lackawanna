@@ -1,107 +1,105 @@
-154.87500 	KXX477 	RM	82.5 PL	LackCo PD 1 	Co Zone 1 PD Dispatch 	FMN 	Law Dispatch 
-154.81500 	KXX477 	RM	82.5 PL	LackCo PD 2 	Co Zone 2 PD Dispatch 	FMN 	Law Dispatch 
-155.79000 	KXX477 	RM	82.5 PL	LackCo PD 3 	Co Zone 3 PD Dispatch 	FMN 	Law Dispatch 
-153.99500 	WPCG649 	RM	114 DPL	LackCo Detec 	Co DA - Detectives 	FM 	Law Tac 
-158.85000 	WPCG649 	RM	156.7 PL	LackCoDANrc1 	Co DA - Narcotics (encryption used) 	FM 	Law Tac 
-460.22500 	KXX477 	RM		LackCoDANrc2 	Co DA - Narcotics (encryption used) 	FM 	Law Tac 
-151.49000 	WPLT277 	BM	073 DPL	LackSheriff1 	Co Sheriff 	FM 	Law Dispatch 
-453.25000 	WNUH812 	RM	173.8 PL	LackPRCTrans 	Co Prison Transport(PRC) 	FM 	Corrections 
-151.02500 	WPLT277 	R	125 DPL	LackSheriff3 	Lackawanna County Sheriff 	FM 	Law Dispatch 
-154.31000 	KAG652 	BM	156.7 PL	LCFR Red 	County Fire Dispatch (Red) 	FMN 	Fire Dispatch 
-155.29500 	KAG561 	BM	156.7 PL	LCFR Blue 	County EMS Dispatch (Blue) 	FMN 	EMS Dispatch 
-151.06250 	WQOE759 	RM	114 DPL	LCFR Black 	North Pocono Mutual Aid (Black) 	FMN 	Fire-Tac 
-151.21250 	KAG652 	BM	173.8 PL	LCFR Brown 	Countywide Field Ops (Brown) 	FMN 	Fire-Tac 
-151.10000 	WQCH489 	RM	125 DPL	LCFR Green 	Lower Lackawanna (Green) 	FMN 	Fire-Tac 
-154.28000 	KDR369 	BM	156.7 PL	LCFR Grey 	Mid-Valley Mutual Aid (Grey) 	FMN 	Fire-Tac 
-155.49000 	KAG652 	RM	167.9 PL	LCFR Orange 	Upper Lackawanna  (Orange) 	FMN 	Fire-Tac 
-154.21250 	WPKZ729 	RM	251 DPL	LCFR Yellow 	Abington Area (Yellow) 	FMN 	Fire-Tac 
-463.00000 	WPIV294 	RM	203.5 PL	LCFR MED-1 	County MED-1 	FMN 	EMS-Tac 
-155.22000 	KAG561 	BM	156.7 PL	LackCo EMS2 	 County EMS Backup 	FMN 	EMS Dispatch 
-463.02500 	WPZV810 	RM	203.5 PL	EMSNP Med 2 	EMSNP Med 2 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
-463.07500 	WPZV810 	RM	CSQ	EMSNP Med 4 	EMSNP Med 4 - Ambulance to Hospital Comms (out of area units) 	FM 	EMS-Talk 
-463.12500 	WPZV810 	RM	203.5 PL	EMSNP Med 6 	EMSNP Med 6 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
-463.17500 	WPZV810 	RM	203.5 PL	EMSNP Med 8 	EMSNP Med 8 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
-158.83500 	WPEM692 	BM	82.5 PL	LackCo EMA 	County Emergency Management 	FM 	Emergency Ops 
-151.11500 	WPMP511 	RM		LackCo Jail 	County Jail 	DMR 	Corrections 
-452.75000 	WNFU814 	RM	97.4 PL	COLT Ops 	County Transit System (COLT) - Bus Operations 	FM 	Transportation 
-154.20000 	 			Abington PD 	Abington Twp. Police 	FM 	Law Tac 
-155.55000 	WPHK534 	RM	82.5 PL	Archbald PD 	Archbald Police 	FM 	Law Tac 
-154.04000 	WSL420 	RM		Blakely PD 	Blakely Boro Police 	DMR 	Law Tac 
-154.71000 		WNLY873 	RM	100.0 PL	Cottage FD 	Cottage Hose Fire Repeater 	FMN 	Fire-Tac 
-155.38500 	WNLY873 	M	156.7 PL	Cottage FG 	Cottage Hose Fireground 	FMN 	Fire-Talk 
-155.61000 	WQBP980 	M	82.5 PL	Carbondale F 	Carbondale Fireground 	FMN 	Fire-Tac 
-154.34000 	WPQJ814 	M	156.7 PL	Carbondale F 	Carbondale Twp. Fireground (Meredith & Whites Crossings) 	FM 	Fire-Tac 
-155.71500 	KNBT917 	RM	156.7 PL	Clark Smt PD 	Clarks Summit Police 	FM 	Law Tac 
-153.86000 	 	M	CSQ	Covington FD 	Covington FD 	FM 	Fire-Tac 
-155.77500 	KCN360 	BM		Dickson FG 	Dickson City Fireground 	FM 	Fire-Tac 
-159.09000 	KBP429 	RM	82.5 PL	Dunmore PD 	Dunmore Boro Police 	FM 	Law Tac 
-154.83000 	 			Dunmore PD6 	Dunmore Boro Police (Ch.6) 	FM 	Law Tac 
-154.23500 	KNBV322 	M	156.7 PL	Fell Twp. FG 	Fell Twp. Fireground 	FMN 	Fire-Tac 
-155.10000 	WNMX449 	M	CSQ	GrnFld FG 	Greenfield Twp FD - Fireground 	FMN 	Fire-Talk 
-159.30750 	WNMX449 	RM	100.0 PL	GrnFld FD 	Greenfield Twp FD - Local 	FMN 	Fire-Tac 
-154.13000 	WYF932 	BM	156.7 PL	Jtwp FC pvt 	Jefferson Twp. FC Private 	FM 	Fire-Tac 
-154.43000 	WQL933 	BM	156.7 PL	Jtwp FC Locl 	Jefferson Twp. FC Local 	FM 	Fire-Talk 
-155.40000 	WNQN820 	BM	156.7 PL	Jtwp Ambo P 	Jefferson Twp Ambulance Private 	FM 	EMS-Talk 
-154.71000 	WQFP689 	M	CSQ	Jermyn FD 	Jermyn Fireground 	FMN 	Fire-Tac 
-154.11500 	KDR389 	BM		Jessup PD 	Jessup Boro Police 	FM 	Law Tac 
-153.81500 	WPET831 	BM		Moosic PD  	Moosic Boro Police 	FM 	Law Tac 
-153.81500 	WPET831 	BM		Moosic FG 	Moosic Fireground 	FM 	Fire-Tac 
-460.61250 	WNXY919 	M		Moosic-5 FG 	Moosic-5 Fire Ground 2W-HH 	FM 	Fire-Tac 
-154.98000 	WPCG413 	BM		Moscow PD 	Moscow Boro Police 	FM 	Law Tac 
-158.77500 	WNPG883 	BM	156.7 PL	Newton PD 	Newton Twp. Police 	FM 	Law Tac 
-150.86000 	WPKS223 	BM	241.8 PL	Ntwn Rans FD 	Newton Ransom Fire 	FM 	Fire-Talk 
-151.80500 	WPFC398 	BM		OldForge EMS 	Old Forge EMS-1 	FM 	EMS-Tac 
-154.26500 	WQAX259 	BM	156.7 PL	OldForgeFire 	Old Forge Fire Disp 	FM 	Fire Dispatch 
-154.26500 	KNBL895 	BM		Old Forge FG 	Old Forge Fireground 	FM 	Law Tac 
-453.47500 	WNSG206 	BM		OldForge FG4 	Old Forge-4 	FM 	Law Tac 
-158.88000 	WQEY592 	BM	703 DPL	Olyphant PW 	Olyphant Boro Public Works 	FMN 	Public Works 
-154.09250 	WQEA767 	RM	79.7 PL	Scott Twp 	Scott  Township - Municipal Services 	FMN 	Public Works 
-154.51500 	 	M	156.7 PL	Scott Twp FG 	Scott Twp. Fireground 	FMN 	Fire-Tac 
-155.17500 	WNMG657 	M	156.7 PL	Scott Dive 	Scott Twp. Fireground (Dive Team) 	FMN 	Fire-Tac 
-464.80000 	 	RM		Scranton DPW 	Scranton City - DPW/Streets 	FM 	Public Works 
-453.37500 	WPEM692 	RM	110.9 PL	Scranton PD1 	Scranton City - Police Ch. 1 	FMN 	Law Dispatch 
-453.70000 	WPEM692 	RM	110.9 PL	Scranton PD2 	Scranton City - Police Ch. 2  	FMN 	Law Tac 
-453.50000 	WNKT936 	RM	167.9 PL	Scranton FD1 	Scranton City - Fire 1 	FMN 	Fire Dispatch 
-453.20000 	KNBT899 	RM	167.9 PL	Scranton FD2 	Scranton City - Fire 2 	FMN 	Fire-Tac 
-154.29500 	KAZ307 	BM		Chnchla FG2 	Chinchilla F2 Fireground 	FM 	Fire-Tac 
-153.83000 	WPKZ729 	M		Chnchla FG3 	Chinchilla F3 Fireground 	FMN 	Fire-Tac 
-156.12000 	WNAY909 	BM		S Abngtn PD 	South Abington Twp. Police 	FM 	Law Tac 
-155.88000 	WNPK311 	BM	125 DPL	Taylor FG 	Taylor Fireground 	FM 	Fire-Tac 
-154.78500 	KRB429 	BM	82.5 PL	Throop Fire 	Throop Fire Dept TAC-1 	FM 	Fire-Tac 
-153.77000 	KCN364 	M	032 DPL	Throop FG 1 	Throop Fire ground 	FM 	Fire-Tac 
-155.32500 	 	M	072 DPL	Throop FG 3 	Throop Fire ground 	FM 	Fire-Tac 
-154.37000 	WNKD355 	BM	051 DPL	Throop FG 2 	Throop Fire ground 	FM 	Fire-Tac 
-154.17500 	WPDG622 	BM		Throop FG 4 	Throop Fireground 	FM 	Fire-Tac 
-153.89000 	WPKZ729 	M		Vandling FG 	Vandling Boro Fireground 	FM 	Fire-Tac 
-154.21250 	WPKZ729 	RM	125 DPL	Abngtn Tac 2 	Abington Area Fire Ground (DPL 251 also used) 	FM 	Fire-Tac 
-151.50500 	 	RM	031 DPL	FSSAR Ops 1 	SARCOM-1/Operations 1 	FMN 	EMS-Tac 
-151.50500 	 	RM	734 DPL	FSSAR Ops 2 	SARCOM-2/Operations 2 	FMN 	EMS-Tac 
-151.50500 	 	RM	225.7 PL	FSSAR Ops 3 	SARCOM-3/Operations 3 	FMN 	EMS-Tac 
-151.50500 	 	RM	454 DPL	FSSAR Ops 4 	SARCOM-4/Operations 4 	FMN 	EMS-Tac 
-153.38000 	 	RM	754 DPL	FSSAR COM-5 	SARCOM-5 - Wayne/Pike Operations - Hawley Base (Shared with LARCPST) 	FMN 	EMS-Tac 
-153.38000 	 	M	031 DPL	FSSAR Ops 5 	Operations 5 - Wayne/Pike Operations - Hawley base 	FMN 	EMS-Tac 
-151.70000 	 	M	412 DPL	FSSAR FG Cmd 	Field Ground Command 	FMN 	EMS-Tac 
-151.76000 	 	M	031 DPL	FSSAR FGTac1 	Field Ground Tactical 1 	FMN 	EMS-Tac 
-151.76000 	 	M	734 DPL	FSSAR FGTac2 	Field Ground Tactical 2 	FMN 	EMS-Tac 
-151.76000 	 	M	225.7 PL	FSSAR FGTac3 	Field Ground Tactical 3 	FMN 	EMS-Tac 
-151.76000 	 	M	454 DPL	FSSAR FGTac4 	Field Ground Tactical 4 	FMN 	EMS-Tac 
-151.76000 	 	M	606 DPL	FSSAR FGTac5 	Field Ground Tactical 5 	FMN 	EMS-Tac 
-151.76000 	 	M	131 DPL	FSSAR FGTac6 	Field Ground Tactical 6 	FMN 	EMS-Tac 
-151.51250 	 	M	031 DPL	FSSAR WRMed1 	Wilderness Rescue Med-1 	FMN 	EMS-Tac 
-151.62500 	 	M	311 DPL	FSSAR WRMed2 	Wilderness Rescue Med-2 	FMN 	EMS-Tac 
-154.52750 	 	M	031 DPL	FSSAR WR R 1 	Wilderness Rescue Rescue-1 	FMN 	EMS-Tac 
-154.52750 	 	M	311 DPL	FSSAR WR R 2 	Wilderness Rescue Rescue-2 	FMN 	EMS-Tac 
-453.07500 	WPWF943 	RM	115 DPL	LEMS Disp 	Dispatch/Operations 	FMN 	EMS Dispatch 
-154.01000 	WQOE759 	M		N Pocono FG 	North Pocono Mutual Aid Fireground 	FM 	Fire-Tac 
-152.43500 	WPUY697 	BM	311 DPL	AHSD 	Abington Heights School District 	FM 	Schools 
-157.62000 	WPUY697 	M	125 DPL	AHSD Buses 	Abington Heights School District - Buses 	FM 	Schools 
-452.33750 	WQTD579  	RM	CC 3TG 102SL 1	Lack Col Ops 	Lackawanna College Operations 	DMR 	Schools 
-452.50000 	WPLI745 	RM		Marywood Mnt 	Marywood University - Maintence 	FM 	Schools 
-462.20000 	WPLI745 	RM		Marywood Sec 	Marywood University - Security 	FM 	Security 
-153.05000 	WNJZ673 	RM	CC 1TG 1SL 1	U Of S PD 	U Of Scranton - Police Department 	DMR 	Security 
-154.54000 	WNJZ673 	BM		U Of S PS 	U Of Scranton - Public Safety Simplex 	DMR 	Security 
-153.63500 	WPPZ721 	RM	125 DPL	U Of S Maint 	U Of Scranton - Maintenance 	FM 	Schools 
-453.15000 	WPHS909 	RM	118.8 PL	Merli SVC 	Merli Vet Center Operations 	FMN 	Military 
-Geisinger Community Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Scranton	Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Industrial Electronics (Bald Mountain)	 LTR Standard
- Bald Mountain	Industrial Electronics (Dunmore)	 LTR Standard	 Dunmore	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground
- Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	
+154.87500 	158.97000  	KXX477 	RM	82.5 PL	LackCo PD 1 	Co Zone 1 PD Dispatch 	FMN 	Law Dispatch 
+154.81500 	158.91000  	KXX477 	RM	82.5 PL	LackCo PD 2 	Co Zone 2 PD Dispatch 	FMN 	Law Dispatch 
+155.79000 	159.21000  	KXX477 	RM	82.5 PL	LackCo PD 3 	Co Zone 3 PD Dispatch 	FMN 	Law Dispatch 
+153.99500 	   	WPCG649 	RM	114 DPL	LackCo Detec 	Co DA - Detectives 	FM 	Law Tac 
+158.85000 	   	WPCG649 	RM	156.7 PL	LackCoDANrc1 	Co DA - Narcotics (encryption used) 	FM 	Law Tac 
+460.22500 	465.22500  	KXX477 	RM		LackCoDANrc2 	Co DA - Narcotics (encryption used) 	FM 	Law Tac 
+151.49000 	   	WPLT277 	BM	073 DPL	LackSheriff1 	Co Sheriff 	FM 	Law Dispatch 
+453.25000 	   	WNUH812 	RM	173.8 PL	LackPRCTrans 	Co Prison Transport(PRC) 	FM 	Corrections 
+151.02500 	   	WPLT277 	R	125 DPL	LackSheriff3 	Lackawanna County Sheriff 	FM 	Law Dispatch 
+154.31000 	   	KAG652 	BM	156.7 PL	LCFR Red 	County Fire Dispatch (Red) 	FMN 	Fire Dispatch 
+155.29500 	   	KAG561 	BM	156.7 PL	LCFR Blue 	County EMS Dispatch (Blue) 	FMN 	EMS Dispatch 
+151.06250 	159.06000  	WQOE759 	RM	114 DPL	LCFR Black 	North Pocono Mutual Aid (Black) 	FMN 	Fire-Tac 
+151.21250 	   	KAG652 	BM	173.8 PL	LCFR Brown 	Countywide Field Ops (Brown) 	FMN 	Fire-Tac 
+151.10000 	155.91000  	WQCH489 	RM	125 DPL	LCFR Green 	Lower Lackawanna (Green) 	FMN 	Fire-Tac 
+154.28000 	   	KDR369 	BM	156.7 PL	LCFR Grey 	Mid-Valley Mutual Aid (Grey) 	FMN 	Fire-Tac 
+155.49000 	154.05500  	KAG652 	RM	167.9 PL	LCFR Orange 	Upper Lackawanna  (Orange) 	FMN 	Fire-Tac 
+154.21250 	150.79750  	WPKZ729 	RM	251 DPL	LCFR Yellow 	Abington Area (Yellow) 	FMN 	Fire-Tac 
+463.00000 	468.00000  	WPIV294 	RM	203.5 PL	LCFR MED-1 	County MED-1 	FMN 	EMS-Tac 
+155.22000 	   	KAG561 	BM	156.7 PL	LackCo EMS2 	 County EMS Backup 	FMN 	EMS Dispatch 
+463.02500 	468.02500  	WPZV810 	RM	203.5 PL	EMSNP Med 2 	EMSNP Med 2 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
+463.07500 	468.07500  	WPZV810 	RM	CSQ	EMSNP Med 4 	EMSNP Med 4 - Ambulance to Hospital Comms (out of area units) 	FM 	EMS-Talk 
+463.12500 	468.12500  	WPZV810 	RM	203.5 PL	EMSNP Med 6 	EMSNP Med 6 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
+463.17500 	468.17500  	WPZV810 	RM	203.5 PL	EMSNP Med 8 	EMSNP Med 8 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
+158.83500 	   	WPEM692 	BM	82.5 PL	LackCo EMA 	County Emergency Management 	FM 	Emergency Ops 
+151.11500 	156.07500  	WPMP511 	RM		LackCo Jail 	County Jail 	DMR 	Corrections 
+452.75000 	457.75000  	WNFU814 	RM	97.4 PL	COLT Ops 	County Transit System (COLT) - Bus Operations 	FM 	Transportation 
+154.20000 	   	 			Abington PD 	Abington Twp. Police 	FM 	Law Tac 
+155.55000 	153.78500  	WPHK534 	RM	82.5 PL	Archbald PD 	Archbald Police 	FM 	Law Tac 
+154.04000 	158.65000  	WSL420 	RM		Blakely PD 	Blakely Boro Police 	DMR 	Law Tac 
+154.71000 	159.10500  		WNLY873 	RM	100.0 PL	Cottage FD 	Cottage Hose Fire Repeater 	FMN 	Fire-Tac 
+155.38500 	   	WNLY873 	M	156.7 PL	Cottage FG 	Cottage Hose Fireground 	FMN 	Fire-Talk 
+155.61000 	   	WQBP980 	M	82.5 PL	Carbondale F 	Carbondale Fireground 	FMN 	Fire-Tac 
+154.34000 	   	WPQJ814 	M	156.7 PL	Carbondale F 	Carbondale Twp. Fireground (Meredith & Whites Crossings) 	FM 	Fire-Tac 
+155.71500 	   	KNBT917 	RM	156.7 PL	Clark Smt PD 	Clarks Summit Police 	FM 	Law Tac 
+153.86000 	   	 	M	CSQ	Covington FD 	Covington FD 	FM 	Fire-Tac 
+155.77500 	   	KCN360 	BM		Dickson FG 	Dickson City Fireground 	FM 	Fire-Tac 
+159.09000 	   	KBP429 	RM	82.5 PL	Dunmore PD 	Dunmore Boro Police 	FM 	Law Tac 
+154.83000 	   	 			Dunmore PD6 	Dunmore Boro Police (Ch.6) 	FM 	Law Tac 
+154.23500 	   	KNBV322 	M	156.7 PL	Fell Twp. FG 	Fell Twp. Fireground 	FMN 	Fire-Tac 
+155.10000 	   	WNMX449 	M	CSQ	GrnFld FG 	Greenfield Twp FD - Fireground 	FMN 	Fire-Talk 
+159.30750 	155.97750  	WNMX449 	RM	100.0 PL	GrnFld FD 	Greenfield Twp FD - Local 	FMN 	Fire-Tac 
+154.13000 	   	WYF932 	BM	156.7 PL	Jtwp FC pvt 	Jefferson Twp. FC Private 	FM 	Fire-Tac 
+154.43000 	   	WQL933 	BM	156.7 PL	Jtwp FC Locl 	Jefferson Twp. FC Local 	FM 	Fire-Talk 
+155.40000 	   	WNQN820 	BM	156.7 PL	Jtwp Ambo P 	Jefferson Twp Ambulance Private 	FM 	EMS-Talk 
+154.71000 	   	WQFP689 	M	CSQ	Jermyn FD 	Jermyn Fireground 	FMN 	Fire-Tac 
+154.11500 	   	KDR389 	BM		Jessup PD 	Jessup Boro Police 	FM 	Law Tac 
+153.81500 	   	WPET831 	BM		Moosic PD  	Moosic Boro Police 	FM 	Law Tac 
+153.81500 	   	WPET831 	BM		Moosic FG 	Moosic Fireground 	FM 	Fire-Tac 
+460.61250 	   	WNXY919 	M		Moosic-5 FG 	Moosic-5 Fire Ground 2W-HH 	FM 	Fire-Tac 
+154.98000 	   	WPCG413 	BM		Moscow PD 	Moscow Boro Police 	FM 	Law Tac 
+158.77500 	151.35500  	WNPG883 	BM	156.7 PL	Newton PD 	Newton Twp. Police 	FM 	Law Tac 
+150.86000 	   	WPKS223 	BM	241.8 PL	Ntwn Rans FD 	Newton Ransom Fire 	FM 	Fire-Talk 
+151.80500 	   	WPFC398 	BM		OldForge EMS 	Old Forge EMS-1 	FM 	EMS-Tac 
+154.26500 	   	WQAX259 	BM	156.7 PL	OldForgeFire 	Old Forge Fire Disp 	FM 	Fire Dispatch 
+154.26500 	   	KNBL895 	BM		Old Forge FG 	Old Forge Fireground 	FM 	Law Tac 
+453.47500 	   	WNSG206 	BM		OldForge FG4 	Old Forge-4 	FM 	Law Tac 
+158.88000 	   	WQEY592 	BM	703 DPL	Olyphant PW 	Olyphant Boro Public Works 	FMN 	Public Works 
+154.09250 	155.31750  	WQEA767 	RM	79.7 PL	Scott Twp 	Scott  Township - Municipal Services 	FMN 	Public Works 
+154.51500 	   	 	M	156.7 PL	Scott Twp FG 	Scott Twp. Fireground 	FMN 	Fire-Tac 
+155.17500 	   	WNMG657 	M	156.7 PL	Scott Dive 	Scott Twp. Fireground (Dive Team) 	FMN 	Fire-Tac 
+464.80000 	469.80000  	 	RM		Scranton DPW 	Scranton City - DPW/Streets 	FM 	Public Works 
+453.37500 	458.37500  	WPEM692 	RM	110.9 PL	Scranton PD1 	Scranton City - Police Ch. 1 	FMN 	Law Dispatch 
+453.70000 	458.70000  	WPEM692 	RM	110.9 PL	Scranton PD2 	Scranton City - Police Ch. 2  	FMN 	Law Tac 
+154.29500 	   	KAZ307 	BM		Chnchla FG2 	Chinchilla F2 Fireground 	FM 	Fire-Tac 
+153.83000 	   	WPKZ729 	M		Chnchla FG3 	Chinchilla F3 Fireground 	FMN 	Fire-Tac 
+156.12000 	   	WNAY909 	BM		S Abngtn PD 	South Abington Twp. Police 	FM 	Law Tac 
+155.88000 	   	WNPK311 	BM	125 DPL	Taylor FG 	Taylor Fireground 	FM 	Fire-Tac 
+154.78500 	   	KRB429 	BM	82.5 PL	Throop Fire 	Throop Fire Dept TAC-1 	FM 	Fire-Tac 
+153.77000 	   	KCN364 	M	032 DPL	Throop FG 1 	Throop Fire ground 	FM 	Fire-Tac 
+155.32500 	   	 	M	072 DPL	Throop FG 3 	Throop Fire ground 	FM 	Fire-Tac 
+154.37000 	   	WNKD355 	BM	051 DPL	Throop FG 2 	Throop Fire ground 	FM 	Fire-Tac 
+154.17500 	   	WPDG622 	BM		Throop FG 4 	Throop Fireground 	FM 	Fire-Tac 
+153.89000 	   	WPKZ729 	M		Vandling FG 	Vandling Boro Fireground 	FM 	Fire-Tac 
+154.21250 	150.80000  	WPKZ729 	RM	125 DPL	Abngtn Tac 2 	Abington Area Fire Ground (DPL 251 also used) 	FM 	Fire-Tac 
+151.50500 	158.40000  	 	RM	031 DPL	FSSAR Ops 1 	SARCOM-1/Operations 1 	FMN 	EMS-Tac 
+151.50500 	158.40000  	 	RM	734 DPL	FSSAR Ops 2 	SARCOM-2/Operations 2 	FMN 	EMS-Tac 
+151.50500 	158.40000  	 	RM	225.7 PL	FSSAR Ops 3 	SARCOM-3/Operations 3 	FMN 	EMS-Tac 
+151.50500 	158.40000  	 	RM	454 DPL	FSSAR Ops 4 	SARCOM-4/Operations 4 	FMN 	EMS-Tac 
+153.38000 	160.02750  	 	RM	754 DPL	FSSAR COM-5 	SARCOM-5 - Wayne/Pike Operations - Hawley Base (Shared with LARCPST) 	FMN 	EMS-Tac 
+153.38000 	   	 	M	031 DPL	FSSAR Ops 5 	Operations 5 - Wayne/Pike Operations - Hawley base 	FMN 	EMS-Tac 
+151.70000 	   	 	M	412 DPL	FSSAR FG Cmd 	Field Ground Command 	FMN 	EMS-Tac 
+151.76000 	   	 	M	031 DPL	FSSAR FGTac1 	Field Ground Tactical 1 	FMN 	EMS-Tac 
+151.76000 	   	 	M	734 DPL	FSSAR FGTac2 	Field Ground Tactical 2 	FMN 	EMS-Tac 
+151.76000 	   	 	M	225.7 PL	FSSAR FGTac3 	Field Ground Tactical 3 	FMN 	EMS-Tac 
+151.76000 	   	 	M	454 DPL	FSSAR FGTac4 	Field Ground Tactical 4 	FMN 	EMS-Tac 
+151.76000 	   	 	M	606 DPL	FSSAR FGTac5 	Field Ground Tactical 5 	FMN 	EMS-Tac 
+151.76000 	   	 	M	131 DPL	FSSAR FGTac6 	Field Ground Tactical 6 	FMN 	EMS-Tac 
+151.51250 	   	 	M	031 DPL	FSSAR WRMed1 	Wilderness Rescue Med-1 	FMN 	EMS-Tac 
+151.62500 	   	 	M	311 DPL	FSSAR WRMed2 	Wilderness Rescue Med-2 	FMN 	EMS-Tac 
+154.52750 	   	 	M	031 DPL	FSSAR WR R 1 	Wilderness Rescue Rescue-1 	FMN 	EMS-Tac 
+154.52750 	   	 	M	311 DPL	FSSAR WR R 2 	Wilderness Rescue Rescue-2 	FMN 	EMS-Tac 
+453.07500 	458.07500  	WPWF943 	RM	115 DPL	LEMS Disp 	Dispatch/Operations 	FMN 	EMS Dispatch 
+154.01000 	   	WQOE759 	M		N Pocono FG 	North Pocono Mutual Aid Fireground 	FM 	Fire-Tac 
+152.43500 	   	WPUY697 	BM	311 DPL	AHSD 	Abington Heights School District 	FM 	Schools 
+157.62000 	   	WPUY697 	M	125 DPL	AHSD Buses 	Abington Heights School District - Buses 	FM 	Schools 
+452.33750 	   	WQTD579  	RM	CC 3TG 102SL 1	Lack Col Ops 	Lackawanna College Operations 	DMR 	Schools 
+452.50000 	457.50000  	WPLI745 	RM		Marywood Mnt 	Marywood University - Maintence 	FM 	Schools 
+462.20000 	467.20000  	WPLI745 	RM		Marywood Sec 	Marywood University - Security 	FM 	Security 
+153.05000 	159.57000  	WNJZ673 	RM	CC 1TG 1SL 1	U Of S PD 	U Of Scranton - Police Department 	DMR 	Security 
+154.54000 	   	WNJZ673 	BM		U Of S PS 	U Of Scranton - Public Safety Simplex 	DMR 	Security 
+153.63500 	158.41500  	WPPZ721 	RM	125 DPL	U Of S Maint 	U Of Scranton - Maintenance 	FM 	Schools 
+453.15000 	458.15000  	WPHS909 	RM	118.8 PL	Merli SVC 	Merli Vet Center Operations 	FMN 	Military 
+Geisinger Community Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Scranton	Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Industrial Electronics (Bald Mountain)	 LTR Standard	 Bald Mountain
+Industrial Electronics (Dunmore)	 LTR Standard	 Dunmore	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various
+Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	

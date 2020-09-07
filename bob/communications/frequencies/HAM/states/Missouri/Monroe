@@ -1,15 +1,15 @@
-154.40000 	WPPA507 	RM	162.2 PL	Monr Sheriff 	Sheriff: Dispatch (DB: 911) 	FMN 	Law Dispatch 
-156.15000 	KGW792 	M		Monr Shrfc2c 	Sheriff: Car-to-Car  	FMN 	EMS-Tac 
-154.22000 	WRB485 	RM	141.3 PL	ParisFire/FR 	Paris Fire/First Responders: Dispatch (DB: 911) 	FMN 	Fire Dispatch 
-155.22000 	KYD887 	BM	123.0 PL	MonroeCo EMS 	EMS: Dispatch (Monroe Co Amb Dist) 	FMN 	EMS Dispatch 
-155.54250 	WQDJ542 	RM	712 DPL	Marion 911 	Marion Co ETSB 911 Back-Up PSAP (Monroe City) 	FMN 	Fire Dispatch 
-151.02500 	WPBR402 	RM		Monr Roads 	Roads and Bridges 	FMN 	Public Works 
-151.46000 	WPCZ235 	BM		Monr S&WCD 	Soil and Water Conservation District: Operations 	FMN 	Public Works 
-154.23500 	WPEA912 	BM		Madison Fire 	Fire 	FMN 	Fire Dispatch 
-158.85000 	KSX285 	BM		MCity Police 	Police 	FMN 	Law Dispatch 
-154.96500 	KSX286 	RM	162.2 PL	MCity Fire 	Fire/Rescue: Paging / Dispatch (6pm Test) 	FMN 	Fire Dispatch 
-155.94000 	KYK410 	RM	162.2 PL	MonrCity EMS 	EMS: DIspatch 	FMN 	EMS Dispatch 
-156.24000 	WPPU664 	BM	162.2 PL	MonCity Util 	City Utilities 	FMN 	Public Works 
-153.74000 	WPPU664 	F		MonCity WDD 	City Utllities: Data (CSQ) 	Telm 	Data 
-154.08500 	WQBB998 	BM		Paris City 	Public Safety 	FMN 	Law Dispatch 
-463.77500 	KNCL648 	RM		Monroe High 	High School: Maintenance 	FMN 	Schools 
+154.40000 	150.80500  	WPPA507 	RM	162.2 PL	Monr Sheriff 	Sheriff: Dispatch (DB: 911) 	FMN 	Law Dispatch 
+156.15000 	   	KGW792 	M		Monr Shrfc2c 	Sheriff: Car-to-Car  	FMN 	EMS-Tac 
+154.22000 	150.77500  	WRB485 	RM	141.3 PL	ParisFire/FR 	Paris Fire/First Responders: Dispatch (DB: 911) 	FMN 	Fire Dispatch 
+155.22000 	   	KYD887 	BM	123.0 PL	MonroeCo EMS 	EMS: Dispatch (Monroe Co Amb Dist) 	FMN 	EMS Dispatch 
+155.54250 	158.93250  	WQDJ542 	RM	712 DPL	Marion 911 	Marion Co ETSB 911 Back-Up PSAP (Monroe City) 	FMN 	Fire Dispatch 
+151.02500 	159.00000  	WPBR402 	RM		Monr Roads 	Roads and Bridges 	FMN 	Public Works 
+151.46000 	   	WPCZ235 	BM		Monr S&WCD 	Soil and Water Conservation District: Operations 	FMN 	Public Works 
+154.23500 	   	WPEA912 	BM		Madison Fire 	Fire 	FMN 	Fire Dispatch 
+158.85000 	   	KSX285 	BM		MCity Police 	Police 	FMN 	Law Dispatch 
+154.96500 	158.89500  	KSX286 	RM	162.2 PL	MCity Fire 	Fire/Rescue: Paging / Dispatch (6pm Test) 	FMN 	Fire Dispatch 
+155.94000 	   	KYK410 	RM	162.2 PL	MonrCity EMS 	EMS: DIspatch 	FMN 	EMS Dispatch 
+156.24000 	153.74000  	WPPU664 	BM	162.2 PL	MonCity Util 	City Utilities 	FMN 	Public Works 
+153.74000 	   	WPPU664 	F		MonCity WDD 	City Utllities: Data (CSQ) 	Telm 	Data 
+154.08500 	   	WQBB998 	BM		Paris City 	Public Safety 	FMN 	Law Dispatch 
+463.77500 	468.77500  	KNCL648 	RM		Monroe High 	High School: Maintenance 	FMN 	Schools 

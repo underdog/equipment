@@ -1,54 +1,53 @@
-118.17500 	 	BM	CSQ	UAM ATIS 	ATIS 	AM 	Aircraft 
-121.10000 	 	BM	CSQ	UAM AMC 	AMC Operations 	AM 	Military 
-121.70000 	 	BM	CSQ	UAM GND 	Ground 	AM 	Aircraft 
-126.20000 	 	BM	CSQ	UAM TWR 	Tower 	AM 	Aircraft 
-233.70000 	 	BM	CSQ	UAM TWR 	Tower - UHF 	AM 	Aircraft 
-254.32500 	 	BM	CSQ	UAM ATIS 	ATIS - UHF 	AM 	Aircraft 
-275.80000 	 	BM	CSQ	UAM GND 	Ground - UHF 	AM 	Aircraft 
-281.40000 	 	BM	CSQ	UAM SFA 	SFA 	AM 	Military 
-321.00000 	 	BM	CSQ	COBRA CON 	Cobra Control 	AM 	Military 
-344.60000 	 	BM	CSQ	UAM PMSV 	Pilot to Metro Service 	AM 	Military 
-349.40000 	 	BM	CSQ	36WG CMD 	36TH Air Wing Command Post 	AM 	Military 
-372.20000 	 	BM	CSQ	UAM PTD 	PTD 	AM 	Military 
-118.10000 	 	BM	CSQ	GUM TWR 	Tower 	AM 	Aircraft 
-119.00000 	 	BM	CSQ	GUM ATIS 	ATIS 	AM 	Aircraft 
-121.60000 	 	BM	CSQ	GUM RAMP 	Ramp Control 	AM 	Aircraft 
-121.90000 	 	BM	CSQ	GUM GND 	Ground Control / Clearance Delivery 	AM 	Aircraft 
-129.60000 	KBB4  	BM	CSQ	DAL OPS 	Delta Airlines 	AM 	Business 
-130.90000 	KVD3   	BM	CSQ	UAL OPS 	United Airlines 	AM 	Business 
-131.55000 	 	BM	CSQ	ACARS 	ACARS Data 	AM 	Data 
-131.72500 	 	BM	CSQ	ACARS 	ACARS Data 	AM 	Data 
-131.95000 	WQKA753   	BM	CSQ	ARINC 	ARINC (SFO Radio) 	AM 	Business 
-136.60000 	WQAD491  	BM	CSQ	CAP Ops 	Cape Air 	AM 	Business 
-460.80000 	KUG306   	RM	123.0 PL	JAL 	Japan Airlines 	FMN 	Business 
-461.05000 	WNPG901  	RM	127.3 PL	UAL CS 	United Airlines - Customer Serivce 	FMN 	Business 
-461.27500 	WNPG901  	RM	127.3 PL	UAL Ramp 	United Airlines - Ramp 	FMN 	Business 
-461.47500 	WNPG901  	RM	127.3 PL	UAL Maint 	United Airlines - Maintenance  	FMN 	Business 
-461.95000 	WNPG901  	RM	127.3 PL	UAL CabSvc 	United Airlines - Cabin Service / Security 	FMN 	Business 
-168.96250 	 	RM	002 NAC	CBP 	U.S. Customs and Border Protection 	P25 	Federal 
-169.30000 	 	RM	001 NAC	TSA 	Transportation Security Administration  	P25 	Federal 
-172.15000 	 	RM	001 NAC	TSA 	Transportation Security Administration  	P25 	Federal 
-172.15000 	 	M	123.0 PL	TSA 	Transportation Security Administration - Low power personal radios (voice inversion) 	FMN 	Federal 
-119.80000 	 	BM	CSQ	APP DEP 	Approach - Departure 	AM 	Aircraft 
-269.00000 	 	BM	CSQ	APP UHF 	Approach UHF 	AM 	Aircraft 
-269.50000 	 	BM	CSQ	DEP UHF 	Departure - UHF 	AM 	Aircraft 
-462.50000 	WPWB282 	BM		Bayview 	Bayview Hotel 	DMR 	Business 
-451.40000 		WPJL650   	RM	165 DPL	Guam Plaza 	Guam Plaza 	FMN 	Business 
-451.72500 		WPJL650   	RM	245 DPL	Guam Plaza 	Guam Plaza 	FMN 	Business 
-451.85000 	WPJL650   	RM	115 DPL	Guam Plaza 	Guam Plaza 	FMN 	Business 
-462.03750 	WPJL650   	RM	205 DPL	Guam Plaza 	Guam Plaza 	FMN 	Business 
-464.52500 	WPJL650   	RM	125 DPL	Guam Plaza 	Guam Plaza 	FMN 	Business 
-463.30000 	WPFA735 	RM	67.0 PL	Hilton 	Hilton 	FMN 	Business 
-469.32500 	WPZX322 	RM	67.0 PL	Hilton 	Hilton - Engineering 	FMN 	Business 
-451.30000 	WQKW991 	RM	114 DPL	Nikko 	Hotel Nikko 	FMN 	Business 
-469.35000 	WQTT730 	RM	263 DPL	Outrigger 	Outrigger 	FMN 	Business 
-450.55000 	KPF271   	BM	CSQ	PacBrod IFB 	Pacific Broadcasting - IFB 	FMN 	Media 
-452.32500 	WQCX298 	RM	91.5 PL	Micro Mall 	Micronesia Mall 	FMN 	Business 
-457.12500 	 	RM	723 DPL	Plaza Shop 	Plaza Shopping Center 	FMN 	Business 
-152.42000 	WNDE823 	BM	114.8 PL	Pacific Gas 	Pacific Gas 	FMN 	Utilities 
-159.54750 	WQFS736 	RM		Guam Power 	Guam Power Authority 	DMR 	Utilities 
-159.66750 	WQFS736 	RM		Guam Power 	Guam Power Authority 	DMR 	Utilities 
-159.98250 	WQFS736 	RM		Guam Power 	Guam Power Authority 	DMR 	Utilities 
-160.04250 	WQFS736 	RM		Guam Power 	Guam Power Authority 	DMR 	Utilities 
-Guam Government (GovGuam)	 Motorola Type II SmartZone	 Hagatna	U.S. Department of Defense 	 Project 25 Phase I	 Island Territory	Unknown LTR	 LTR Standard
- Guam	
+118.17500 	   	 	BM	CSQ	UAM ATIS 	ATIS 	AM 	Aircraft 
+121.10000 	   	 	BM	CSQ	UAM AMC 	AMC Operations 	AM 	Military 
+121.70000 	   	 	BM	CSQ	UAM GND 	Ground 	AM 	Aircraft 
+126.20000 	   	 	BM	CSQ	UAM TWR 	Tower 	AM 	Aircraft 
+233.70000 	   	 	BM	CSQ	UAM TWR 	Tower - UHF 	AM 	Aircraft 
+254.32500 	   	 	BM	CSQ	UAM ATIS 	ATIS - UHF 	AM 	Aircraft 
+275.80000 	   	 	BM	CSQ	UAM GND 	Ground - UHF 	AM 	Aircraft 
+281.40000 	   	 	BM	CSQ	UAM SFA 	SFA 	AM 	Military 
+321.00000 	   	 	BM	CSQ	COBRA CON 	Cobra Control 	AM 	Military 
+344.60000 	   	 	BM	CSQ	UAM PMSV 	Pilot to Metro Service 	AM 	Military 
+349.40000 	   	 	BM	CSQ	36WG CMD 	36TH Air Wing Command Post 	AM 	Military 
+372.20000 	   	 	BM	CSQ	UAM PTD 	PTD 	AM 	Military 
+118.10000 	   	 	BM	CSQ	GUM TWR 	Tower 	AM 	Aircraft 
+119.00000 	   	 	BM	CSQ	GUM ATIS 	ATIS 	AM 	Aircraft 
+121.60000 	   	 	BM	CSQ	GUM RAMP 	Ramp Control 	AM 	Aircraft 
+121.90000 	   	 	BM	CSQ	GUM GND 	Ground Control / Clearance Delivery 	AM 	Aircraft 
+129.60000 	   	KBB4  	BM	CSQ	DAL OPS 	Delta Airlines 	AM 	Business 
+130.90000 	   	KVD3   	BM	CSQ	UAL OPS 	United Airlines 	AM 	Business 
+131.55000 	   	 	BM	CSQ	ACARS 	ACARS Data 	AM 	Data 
+131.72500 	   	 	BM	CSQ	ACARS 	ACARS Data 	AM 	Data 
+131.95000 	   	WQKA753   	BM	CSQ	ARINC 	ARINC (SFO Radio) 	AM 	Business 
+136.60000 	   	WQAD491  	BM	CSQ	CAP Ops 	Cape Air 	AM 	Business 
+460.80000 	465.80000  	KUG306   	RM	123.0 PL	JAL 	Japan Airlines 	FMN 	Business 
+461.05000 	466.05000  	WNPG901  	RM	127.3 PL	UAL CS 	United Airlines - Customer Serivce 	FMN 	Business 
+461.27500 	466.27500  	WNPG901  	RM	127.3 PL	UAL Ramp 	United Airlines - Ramp 	FMN 	Business 
+461.47500 	466.47500  	WNPG901  	RM	127.3 PL	UAL Maint 	United Airlines - Maintenance  	FMN 	Business 
+461.95000 	466.95000  	WNPG901  	RM	127.3 PL	UAL CabSvc 	United Airlines - Cabin Service / Security 	FMN 	Business 
+168.96250 	   	 	RM	002 NAC	CBP 	U.S. Customs and Border Protection 	P25 	Federal 
+169.30000 	   	 	RM	001 NAC	TSA 	Transportation Security Administration  	P25 	Federal 
+172.15000 	   	 	RM	001 NAC	TSA 	Transportation Security Administration  	P25 	Federal 
+172.15000 	   	 	M	123.0 PL	TSA 	Transportation Security Administration - Low power personal radios (voice inversion) 	FMN 	Federal 
+119.80000 	   	 	BM	CSQ	APP DEP 	Approach - Departure 	AM 	Aircraft 
+269.00000 	   	 	BM	CSQ	APP UHF 	Approach UHF 	AM 	Aircraft 
+269.50000 	   	 	BM	CSQ	DEP UHF 	Departure - UHF 	AM 	Aircraft 
+462.50000 	467.50000  	WPWB282 	BM		Bayview 	Bayview Hotel 	DMR 	Business 
+451.40000 	456.40000  		WPJL650   	RM	165 DPL	Guam Plaza 	Guam Plaza 	FMN 	Business 
+451.72500 	456.72500  		WPJL650   	RM	245 DPL	Guam Plaza 	Guam Plaza 	FMN 	Business 
+451.85000 	456.85000  	WPJL650   	RM	115 DPL	Guam Plaza 	Guam Plaza 	FMN 	Business 
+462.03750 	467.03750  	WPJL650   	RM	205 DPL	Guam Plaza 	Guam Plaza 	FMN 	Business 
+464.52500 	469.52500  	WPJL650   	RM	125 DPL	Guam Plaza 	Guam Plaza 	FMN 	Business 
+463.30000 	468.30000  	WPFA735 	RM	67.0 PL	Hilton 	Hilton 	FMN 	Business 
+469.32500 	464.32500  	WPZX322 	RM	67.0 PL	Hilton 	Hilton - Engineering 	FMN 	Business 
+451.30000 	456.30000  	WQKW991 	RM	114 DPL	Nikko 	Hotel Nikko 	FMN 	Business 
+469.35000 	464.35000  	WQTT730 	RM	263 DPL	Outrigger 	Outrigger 	FMN 	Business 
+450.55000 	   	KPF271   	BM	CSQ	PacBrod IFB 	Pacific Broadcasting - IFB 	FMN 	Media 
+452.32500 	457.32500  	WQCX298 	RM	91.5 PL	Micro Mall 	Micronesia Mall 	FMN 	Business 
+457.12500 	452.12500  	 	RM	723 DPL	Plaza Shop 	Plaza Shopping Center 	FMN 	Business 
+152.42000 	   	WNDE823 	BM	114.8 PL	Pacific Gas 	Pacific Gas 	FMN 	Utilities 
+159.54750 	   	WQFS736 	RM		Guam Power 	Guam Power Authority 	DMR 	Utilities 
+159.66750 	   	WQFS736 	RM		Guam Power 	Guam Power Authority 	DMR 	Utilities 
+159.98250 	   	WQFS736 	RM		Guam Power 	Guam Power Authority 	DMR 	Utilities 
+160.04250 	   	WQFS736 	RM		Guam Power 	Guam Power Authority 	DMR 	Utilities 
+Guam Government (GovGuam)	 Motorola Type II SmartZone	 Hagatna	U.S. Department of Defense 	 Project 25 Phase I	 Island Territory	Unknown LTR	 LTR Standard	 Guam

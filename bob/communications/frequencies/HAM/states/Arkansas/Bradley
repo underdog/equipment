@@ -1,22 +1,21 @@
-37.36000 	KGL484 	BM		BC Fire 	County Fire 	FM 	Fire Dispatch 
-155.34000 	 	BM		HEAR 1 	EMS to Hospital 	FMN 	Hospital 
-155.88750 	WPTF289 	RM	CC 1TG 63SL 1	BCSO OPS 1D 	Sheriff Dispatch/Tactical TRBO *Encrypted* 	DMRE 	Law Dispatch 
-159.15000 	WPTF289 	RM	023 DPL	BCSO OPS 1A 	Sheriff Dispatch/Tactical Analog 	FMN 	Law Dispatch 
-155.43750 	WPTF289 	RM	023 DPL	BCSO OPS 2A 	Sheriff Dispatch/Tactical Analog 	FMN 	Law Dispatch 
-154.05500 	KBV746 	RM	173.8 PL	BC RURAL FD 	Bradley County Rural Fire Dept 	FMN 	Fire Dispatch 
-155.93250 	WQEL338 	RM		Co Line FD 	County Line VFD Dispatch 	FMN 	Fire Dispatch 
-155.16000 	WNNQ230 	BM		Pafford Disp 	 Pafford EMS Dispatch 	FMN 	EMS Dispatch 
-155.29500 	WNNQ230 	M		Pafford Ext 	Pafford EMS Mobile Extenders 	FMN 	EMS-Talk 
-155.85000 	WQCJ634 	M		LAW TAC 	Police - Tactical 	FM 	Law Tac 
-154.97250 	WQAX915 	RM	032 DPL	Warren Fire 	Warren Fire 	FMN 	Fire Dispatch 
-37.24000 	KJZ921 	BM		Warren FG 	Fireground 	FM 	Fire-Talk 
-153.77750 	WQAF701 	RM	CC 1TG 226SL 1	Warren PD 	Warren PD 	DMRE 	Law Dispatch 
-37.10000 	KZH906 	BM		Warren St  	Street Dept. 	FM 	Public Works 
-37.30000 	KJZ921 	BM		Warren Anml 	Animal Control 	FM 	Public Works 
-155.55000 	WQET486 	RM	143 DPL	Warren Water 	Water & Sewer Dept. 	FM 	Public Works 
-156.01500 	WRA464 	BM		Warren Water 	Water Dept. 	FM 	Public Works 
-152.38000 	WQDY709 	RM		Warren Schl  	Transportation 	FMN 	Schools 
-151.67000 	WQDY709 	M		Warren Schl 	Operations 	FMN 	Schools 
-160.20750 	WQDY709 	M		Warren Schl 	Operations 	FMN 	Schools 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	
+37.36000 	   	KGL484 	BM		BC Fire 	County Fire 	FM 	Fire Dispatch 
+155.34000 	   	 	BM		HEAR 1 	EMS to Hospital 	FMN 	Hospital 
+155.88750 	153.88250  	WPTF289 	RM	CC 1TG 63SL 1	BCSO OPS 1D 	Sheriff Dispatch/Tactical TRBO *Encrypted* 	DMRE 	Law Dispatch 
+159.15000 	155.07000  	WPTF289 	RM	023 DPL	BCSO OPS 1A 	Sheriff Dispatch/Tactical Analog 	FMN 	Law Dispatch 
+155.43750 	153.88250  	WPTF289 	RM	023 DPL	BCSO OPS 2A 	Sheriff Dispatch/Tactical Analog 	FMN 	Law Dispatch 
+154.05500 	158.86500  	KBV746 	RM	173.8 PL	BC RURAL FD 	Bradley County Rural Fire Dept 	FMN 	Fire Dispatch 
+155.93250 	158.94750  	WQEL338 	RM		Co Line FD 	County Line VFD Dispatch 	FMN 	Fire Dispatch 
+155.16000 	   	WNNQ230 	BM		Pafford Disp 	 Pafford EMS Dispatch 	FMN 	EMS Dispatch 
+155.29500 	   	WNNQ230 	M		Pafford Ext 	Pafford EMS Mobile Extenders 	FMN 	EMS-Talk 
+155.85000 	   	WQCJ634 	M		LAW TAC 	Police - Tactical 	FM 	Law Tac 
+154.97250 	155.84250  	WQAX915 	RM	032 DPL	Warren Fire 	Warren Fire 	FMN 	Fire Dispatch 
+37.24000 	   	KJZ921 	BM		Warren FG 	Fireground 	FM 	Fire-Talk 
+153.77750 	158.97750  	WQAF701 	RM	CC 1TG 226SL 1	Warren PD 	Warren PD 	DMRE 	Law Dispatch 
+37.10000 	   	KZH906 	BM		Warren St  	Street Dept. 	FM 	Public Works 
+37.30000 	   	KJZ921 	BM		Warren Anml 	Animal Control 	FM 	Public Works 
+155.55000 	156.00000  	WQET486 	RM	143 DPL	Warren Water 	Water & Sewer Dept. 	FM 	Public Works 
+156.01500 	   	WRA464 	BM		Warren Water 	Water Dept. 	FM 	Public Works 
+152.38000 	159.66000  	WQDY709 	RM		Warren Schl  	Transportation 	FMN 	Schools 
+151.67000 	   	WQDY709 	M		Warren Schl 	Operations 	FMN 	Schools 
+160.20750 	   	WQDY709 	M		Warren Schl 	Operations 	FMN 	Schools 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various

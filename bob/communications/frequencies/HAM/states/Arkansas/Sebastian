@@ -1,34 +1,33 @@
-462.16250 	 	B		SBSTN CO FD 	Fire (Simulcast from VHF) 	FMN 	Fire Dispatch 
-154.38500 	WPGG663 	RM	179.9 PL	SBSTN CO FRN 	First Responder Network 	FMN 	EMS Dispatch 
-154.25000 	WNVC939 	RM	179.9 PL	SBSTN CO RYE 	Fire Network - Rye Hill 	FMN 	Fire Dispatch 
-155.80500 	WNVC939 	RM	179.9 PL	SBSTN CO BRL 	Fire Network - Barling 	FMN 	Fire Dispatch 
-156.16500 	WNVC939 	RM	179.9 PL	SBSTN CO WTC 	Fire Network - Witcherville 	FMN 	Fire Dispatch 
-155.88000 	WPTF694 	RM	179.9 PL	SBSTN PT MTN 	Fire Network - Poteau Mountain 	FMN 	Fire Dispatch 
-155.34000 	KGC366 	BM	CSQ	SBSTN EMS 	EMS All Hospital Patient Reports 	FMN 	Hospital 
-852.01250 	WNVQ344 	RM	043 DPL	SBSTN SO N 	Sheriff Dispatch North 	FM 	Law Dispatch 
-852.98750 	WNVQ344 	RM	043 DPL	SBSTN SO S 	Sheriff Dispatch South 	FM 	Law Dispatch 
-852.38750 	WNVQ344 	RM	043 DPL	SBSTN TAC N 	Sheriff Tactical North 	FM 	Law Tac 
-852.66250 	WNVQ344 	RM	043 DPL	SBSTN TAC S 	Sheriff Tactical South 	FM 	Law Tac 
-855.03750 	WNVQ344 	RM	036 DPL	SCDC OPS 1 	Detention Center 1 	FM 	Corrections 
-855.21250 	WQOQ655 	RM	192.8 PL	SCDC OPS 2 	Detention Center 2 	FM 	Corrections 
-156.19500 	WNVQ912 	RM	179.9 PL	SBSTN RDS 	Road Department 	FMN 	Public Works 
-453.80000 	WPEC343 	RM		GRNWD PD 	Police (Link to Sheriff on 800 MHz) 	FMN 	Law Dispatch 
-452.66250 	WPRF699 	BM	100.0 PL	GRNWD PD 	Police 	FMN 	Law Dispatch 
-452.36250 	WPRF699 	BM	100.0 PL	GRNWD STRTS 	Street Department 	FMN 	Public Works 
-453.55000 	WNVT587 	RM		GRNWD STS 	Street Department 	FMN 	Public Works 
-452.08750 	WPRF699 	BM	100.0 PL	GRNWD WATER 	Water Department 	FMN 	Public Works 
-151.71500 	 	BM	754 DPL	GRNWD JR HGH 	Greenwood Wells Junior High School 	FMN 	Schools 
-151.95500 	 	RM	754 DPL	GRNWD HS 	Greenwood High School 	FMN 	Schools 
-153.74750 	 	BM	754 DPL	GRNWD BUS 	Greenwood School Buses 	FMN 	Schools 
-158.84250 	WPRH496 	RM		GRNWD SCHLS 	Schools 	FMN 	Schools 
-453.40000 	 			GRNWD SCHLS 	Schools 	FMN 	Schools 
-154.10000 	KGP761 	RM		FT SMITH SAN 	Sanitary Services Trash Pick-up 	FMN 	Public Works 
-463.20000 	WQOD414 	RM	CC 1TG 1SL 1	CONVENTION CTR 1 	Convention Center Primary 	DMR 	Public Works 
-461.05000 	 	RM	CC 4TG *SL 1	ACOM 1 Security 	Ch. 1 Security 	DMR 	Security 
-461.05000 	 	RM	CC 4TG *SL 2	ACOM 2 Maint 	Ch. 2 Maintenance 	DMR 	Schools 
-152.30000 	WQJF785 	RM		F-1 	Security/Maintenance 	FMN 	Schools 
-151.52000 	WQDH528 	RM	186.2 PL	RZRBCK CAB 	Razorback Cab Company 	FMN 	Business 
-American Electric Power (AR/LA/TX)	 EDACS Networked Standard	 Various	American Electric Power (Arkansas)	 EDACS Networked Standard	 Various	Arkansas Brandmeister DMR	 DMR Conventional Networked
- Varioius	Arkansas National Guard: Fort Chaffee (Motorola)	 Motorola Type II Smartnet	 Fort Chaffee	Arkansas National Guard: Fort Chaffee (P25)	 Project 25 Phase I	 	Arkansas Wireless Information Network (AWIN)
- Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various	Georgia Pacific	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Fort Smith
-Total Radio Arkansas: Fort Smith	 LTR Standard	 Fort Smith	
+462.16250 	   	 	B		SBSTN CO FD 	Fire (Simulcast from VHF) 	FMN 	Fire Dispatch 
+154.38500 	153.89000  	WPGG663 	RM	179.9 PL	SBSTN CO FRN 	First Responder Network 	FMN 	EMS Dispatch 
+154.25000 	150.79000  	WNVC939 	RM	179.9 PL	SBSTN CO RYE 	Fire Network - Rye Hill 	FMN 	Fire Dispatch 
+155.80500 	153.83000  	WNVC939 	RM	179.9 PL	SBSTN CO BRL 	Fire Network - Barling 	FMN 	Fire Dispatch 
+156.16500 	158.98500  	WNVC939 	RM	179.9 PL	SBSTN CO WTC 	Fire Network - Witcherville 	FMN 	Fire Dispatch 
+155.88000 	153.80000  	WPTF694 	RM	179.9 PL	SBSTN PT MTN 	Fire Network - Poteau Mountain 	FMN 	Fire Dispatch 
+155.34000 	   	KGC366 	BM	CSQ	SBSTN EMS 	EMS All Hospital Patient Reports 	FMN 	Hospital 
+852.01250 	807.01250  	WNVQ344 	RM	043 DPL	SBSTN SO N 	Sheriff Dispatch North 	FM 	Law Dispatch 
+852.98750 	807.98750  	WNVQ344 	RM	043 DPL	SBSTN SO S 	Sheriff Dispatch South 	FM 	Law Dispatch 
+852.38750 	807.38750  	WNVQ344 	RM	043 DPL	SBSTN TAC N 	Sheriff Tactical North 	FM 	Law Tac 
+852.66250 	807.66250  	WNVQ344 	RM	043 DPL	SBSTN TAC S 	Sheriff Tactical South 	FM 	Law Tac 
+855.03750 	810.03750  	WNVQ344 	RM	036 DPL	SCDC OPS 1 	Detention Center 1 	FM 	Corrections 
+855.21250 	810.21250  	WQOQ655 	RM	192.8 PL	SCDC OPS 2 	Detention Center 2 	FM 	Corrections 
+156.19500 	   	WNVQ912 	RM	179.9 PL	SBSTN RDS 	Road Department 	FMN 	Public Works 
+453.80000 	458.80000  	WPEC343 	RM		GRNWD PD 	Police (Link to Sheriff on 800 MHz) 	FMN 	Law Dispatch 
+452.66250 	   	WPRF699 	BM	100.0 PL	GRNWD PD 	Police 	FMN 	Law Dispatch 
+452.36250 	   	WPRF699 	BM	100.0 PL	GRNWD STRTS 	Street Department 	FMN 	Public Works 
+453.55000 	458.55000  	WNVT587 	RM		GRNWD STS 	Street Department 	FMN 	Public Works 
+452.08750 	   	WPRF699 	BM	100.0 PL	GRNWD WATER 	Water Department 	FMN 	Public Works 
+151.71500 	   	 	BM	754 DPL	GRNWD JR HGH 	Greenwood Wells Junior High School 	FMN 	Schools 
+151.95500 	151.99000  	 	RM	754 DPL	GRNWD HS 	Greenwood High School 	FMN 	Schools 
+153.74750 	   	 	BM	754 DPL	GRNWD BUS 	Greenwood School Buses 	FMN 	Schools 
+158.84250 	   	WPRH496 	RM		GRNWD SCHLS 	Schools 	FMN 	Schools 
+453.40000 	   	 			GRNWD SCHLS 	Schools 	FMN 	Schools 
+154.10000 	   	KGP761 	RM		FT SMITH SAN 	Sanitary Services Trash Pick-up 	FMN 	Public Works 
+463.20000 	468.20000  	WQOD414 	RM	CC 1TG 1SL 1	CONVENTION CTR 1 	Convention Center Primary 	DMR 	Public Works 
+461.05000 	466.05000  	 	RM	CC 4TG *SL 1	ACOM 1 Security 	Ch. 1 Security 	DMR 	Security 
+461.05000 	466.05000  	 	RM	CC 4TG *SL 2	ACOM 2 Maint 	Ch. 2 Maintenance 	DMR 	Schools 
+152.30000 	157.56000  	WQJF785 	RM		F-1 	Security/Maintenance 	FMN 	Schools 
+151.52000 	   	WQDH528 	RM	186.2 PL	RZRBCK CAB 	Razorback Cab Company 	FMN 	Business 
+American Electric Power (AR/LA/TX)	 EDACS Networked Standard	 Various	American Electric Power (Arkansas)	 EDACS Networked Standard	 Various	Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius
+Arkansas National Guard: Fort Chaffee (Motorola)	 Motorola Type II Smartnet	 Fort Chaffee	Arkansas National Guard: Fort Chaffee (P25)	 Project 25 Phase I	 	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide
+Entergy 	 Project 25 Phase II	 Various	Georgia Pacific	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Fort Smith	Total Radio Arkansas: Fort Smith	 LTR Standard	 Fort Smith

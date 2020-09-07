@@ -1,18 +1,18 @@
-154.17500 	KNAI721 	RM		BCFD Disp 	Fire Dispatch 	DMR 	Fire Dispatch 
-156.20250 	KNAI721 	RM		BCFD Page 	Fire Page 	DMR 	Fire Dispatch 
-153.86000 	WNVG530 	BM		BCFD 	Fire Department 	DMR 	Fire-Tac 
-155.16000 	WRG598 	BM		OREMS 	EMS 	DMR 	EMS-Tac 
-155.40000 	WRG598 	BM		OREMS 	EMS 	DMR 	EMS-Tac 
-154.10000 	WNML622 	RM		BCBOE Buses 	Board of Education Transportation 	DMR 	Schools 
-154.48250 	WQTT637 	RM		BC BOE 	Board of Education 	FMN 	Schools 
-155.31000 	KIC627 	RM		MPD Dispatch 	Police Dispatch 	DMR 	Law Dispatch 
-155.25000 	KIC627 	BM		MPD TAC 	Police 	DMR 	Law Tac 
-154.14500 	WQKM648 	RM		MPD 	Police  	FMN 	Law Talk 
-155.61750 	WQKM648 	RM		MPD 	Police 	FMN 	Law Talk 
-154.41500 	KLR316 	RM	503 DPL	CSH Forensic 	Forensic Police Operations 	FM 	Law Talk 
-154.86000 	WNIR303 	RM	503 DPL	CSH PD OPS 	Police Department Operations 	FM 	Law Talk 
-155.80500 	WPCN706 	BM	503 DPL	CSH EO 	Emergency Operations 	FM 	Emergency Ops 
-154.02500 	KSV877 	RM		GCSU PD 	Police 	FM 	Law Dispatch 
-153.48500 	WPMI228 	M		GMC Police 	Police 	FM 	Law Dispatch 
-Baldwin County	 Project 25 Phase I	 Milledgeville	C and S Communications MOT	 Motorola Type II	 Milledgeville	Georgia Department of Corrections MOT	 Motorola Type II Smartnet
- Milledgeville	Oconee Areawide Radio System (OARS)	 Project 25 Phase II	 Various	
+154.17500 	159.06000  	KNAI721 	RM		BCFD Disp 	Fire Dispatch 	DMR 	Fire Dispatch 
+156.20250 	   	KNAI721 	RM		BCFD Page 	Fire Page 	DMR 	Fire Dispatch 
+153.86000 	   	WNVG530 	BM		BCFD 	Fire Department 	DMR 	Fire-Tac 
+155.16000 	   	WRG598 	BM		OREMS 	EMS 	DMR 	EMS-Tac 
+155.40000 	   	WRG598 	BM		OREMS 	EMS 	DMR 	EMS-Tac 
+154.10000 	156.00000  	WNML622 	RM		BCBOE Buses 	Board of Education Transportation 	DMR 	Schools 
+154.48250 	159.54000  	WQTT637 	RM		BC BOE 	Board of Education 	FMN 	Schools 
+155.31000 	151.25000  	KIC627 	RM		MPD Dispatch 	Police Dispatch 	DMR 	Law Dispatch 
+155.25000 	   	KIC627 	BM		MPD TAC 	Police 	DMR 	Law Tac 
+154.14500 	151.23500  	WQKM648 	RM		MPD 	Police  	FMN 	Law Talk 
+155.61750 	151.26500  	WQKM648 	RM		MPD 	Police 	FMN 	Law Talk 
+154.41500 	153.95000  	KLR316 	RM	503 DPL	CSH Forensic 	Forensic Police Operations 	FM 	Law Talk 
+154.86000 	159.09000  	WNIR303 	RM	503 DPL	CSH PD OPS 	Police Department Operations 	FM 	Law Talk 
+155.80500 	   	WPCN706 	BM	503 DPL	CSH EO 	Emergency Operations 	FM 	Emergency Ops 
+154.02500 	158.86500  	KSV877 	RM		GCSU PD 	Police 	FM 	Law Dispatch 
+153.48500 	   	WPMI228 	M		GMC Police 	Police 	FM 	Law Dispatch 
+Baldwin County	 Project 25 Phase I	 Milledgeville	C and S Communications MOT	 Motorola Type II	 Milledgeville	Georgia Department of Corrections MOT	 Motorola Type II Smartnet	 Milledgeville
+Oconee Areawide Radio System (OARS)	 Project 25 Phase II	 Various	

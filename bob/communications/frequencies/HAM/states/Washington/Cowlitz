@@ -1,22 +1,22 @@
-154.23500 	WPZR413 	RM	156.7 PL	Cow Fire Dsp 	Fire Dispatch (Patched to NXDN 154.3175) 	FMN 	Fire Dispatch 
-154.31750 	WQWY486 	RM	42 RAN	Cow Fire Disp 	Fire Dispatch (Patched to 154.235) 	NXDN 	Fire Dispatch 
-154.02500 	WPZR413 	M		Cow Fire Ops 	Fire Operations 	FMN 	Fire-Tac 
-154.41500 	WPZR413 	BM		Cow FireTac8 	Longview Area Tac 8 	FMN 	Fire-Tac 
-155.32500 	WPTX797 	BM	107.2 PL	EMS AMR 1 	American Medical Response 1 	FMN 	EMS Dispatch 
-155.22000 	WPTX797 	BM		EMS AMR 2 	American Medical Response 2 	FMN 	EMS Dispatch 
-155.34000 	 	BM		St John Med 	St. Johns Medical Center 	FMN 	EMS-Talk 
-154.81500 	WPZR413 	BM	156.7 PL	COW SO DIS 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.95000 	WPZR413 	BM		COW SO CAR2 	Sheriff Car-to-Car 	FMN 	Law Tac 
-159.39000 	WPZR413 	BM		COW SO SAR 	Sheriff Special Ops (Search and Rescue) 	FMN 	Law Tac 
-155.08500 	WPZR413 	RM		COW LTac 	 LTAC County Wide Special Operations/Tactical Channel 	FMN 	Law Tac 
-151.08500 	 	BM		COW Roads 	Public Works / Road Crews 	FMN 	Public Works 
-153.65000 	WQLK288 	BM		COW PUD 	Public Utilities District 	FMN 	Public Works 
-460.61250 	WQRI764 	RM	123.0 PL	COL Transit 	River Cities Transit 	FMN 	Transportation 
-156.09000 	KNNM308 	RM	156.7 PL	Kelso Police 	Police Dispatch 	FMN 	Law Dispatch 
-155.53500 	KOM529 	BM	156.7 PL	Long PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
-155.94000 	WZX752 	BM		Long PD F-2 	Police F-2 	FMN 	Law Dispatch 
-453.15000 	WPPA226 	RM	CC 8TG 40SL 1	LCC Security 	Security 	DMR 	Security 
-152.37500 	WPMB779 	RM	CC 6TG 6095SL 1	StJohn Security 	St. John Medical Center Security 	DMR 	Security 
-CSI Communications, Inc.	 LTR Standard	 Aberdeen	Kapstone Paper & Packaging	 DMR Motorola Capacity Plus Single Site (TRBO)	 Longview	Pacific NorthWest DMR	 DMR Conventional Networked
- Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	Washington State Department of Transportation	 LTR MultiNet	 Various	Weyerhaeuser
- LTR Standard	 Longview	
+154.23500 	   	WPZR413 	RM	156.7 PL	Cow Fire Dsp 	Fire Dispatch (Patched to NXDN 154.3175) 	FMN 	Fire Dispatch 
+154.31750 	   	WQWY486 	RM	42 RAN	Cow Fire Disp 	Fire Dispatch (Patched to 154.235) 	NXDN 	Fire Dispatch 
+154.02500 	   	WPZR413 	M		Cow Fire Ops 	Fire Operations 	FMN 	Fire-Tac 
+154.41500 	   	WPZR413 	BM		Cow FireTac8 	Longview Area Tac 8 	FMN 	Fire-Tac 
+155.32500 	   	WPTX797 	BM	107.2 PL	EMS AMR 1 	American Medical Response 1 	FMN 	EMS Dispatch 
+155.22000 	   	WPTX797 	BM		EMS AMR 2 	American Medical Response 2 	FMN 	EMS Dispatch 
+155.34000 	   	 	BM		St John Med 	St. Johns Medical Center 	FMN 	EMS-Talk 
+154.81500 	   	WPZR413 	BM	156.7 PL	COW SO DIS 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.95000 	   	WPZR413 	BM		COW SO CAR2 	Sheriff Car-to-Car 	FMN 	Law Tac 
+159.39000 	   	WPZR413 	BM		COW SO SAR 	Sheriff Special Ops (Search and Rescue) 	FMN 	Law Tac 
+155.08500 	   	WPZR413 	RM		COW LTac 	 LTAC County Wide Special Operations/Tactical Channel 	FMN 	Law Tac 
+151.08500 	   	 	BM		COW Roads 	Public Works / Road Crews 	FMN 	Public Works 
+153.65000 	   	WQLK288 	BM		COW PUD 	Public Utilities District 	FMN 	Public Works 
+460.61250 	465.61250  	WQRI764 	RM	123.0 PL	COL Transit 	River Cities Transit 	FMN 	Transportation 
+156.09000 	   	KNNM308 	RM	156.7 PL	Kelso Police 	Police Dispatch 	FMN 	Law Dispatch 
+155.53500 	   	KOM529 	BM	156.7 PL	Long PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+155.94000 	   	WZX752 	BM		Long PD F-2 	Police F-2 	FMN 	Law Dispatch 
+453.15000 	458.15000  	WPPA226 	RM	CC 8TG 40SL 1	LCC Security 	Security 	DMR 	Security 
+152.37500 	157.63500  	WPMB779 	RM	CC 6TG 6095SL 1	StJohn Security 	St. John Medical Center Security 	DMR 	Security 
+CSI Communications, Inc.	 LTR Standard	 Aberdeen	Justice Integrated Wireless Network	 Project 25 Phase I	 Various	Kapstone Paper & Packaging	 DMR Motorola Capacity Plus Single Site (TRBO)	 Longview
+Pacific NorthWest DMR	 DMR Conventional Networked	 Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	Washington State Department of Transportation	 LTR MultiNet	 Various
+Weyerhaeuser	 LTR Standard	 Longview	

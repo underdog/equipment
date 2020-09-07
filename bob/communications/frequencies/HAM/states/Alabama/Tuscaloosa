@@ -1,56 +1,55 @@
-155.12250 	WQGS321 	RM	210 NAC	Tusc SO Dsp1 	Sheriff Primary 1 (Simulcast) 	P25E 	Law Dispatch 
-155.63250 	WPMM643 	RM	210 NAC	Tusc SO Dsp2 	Sheriff Primary 2 (Simulcast) 	P25E 	Law Dispatch 
-156.11250 	WQGS321 	RM	210 NAC	Tusc SO Dsp3 	Sheriff Primary 3 (Simulcast) 	P25 	Law Dispatch 
-155.06250 	WQGS321 	RM	110 NAC	Tusc SO 2nd1 	Sheriff Secondary 1 (Simulcast) 	P25 	Law Talk 
-156.21750 	WQGS321 	RM	110 NAC	Tusc SO 2nd2 	Sheriff Secondary 2 (Simulcast) 	P25 	Law Talk 
-158.85750 	WQGS321 	RM	110 NAC	Tusc SO 2nd3 	Sheriff Secondary 3 (Simulcast) 	P25 	Law Talk 
-151.13000 	WPMM643 	RM	105 NAC	Tusc SO Tac1 	Sheriff Tactical 1 	P25 	Law Tac 
-155.67000 	WPMM643 	RM		Tusc SO Tac2 	Sheriff Tactical 2 	FMN 	Law Tac 
-155.70750 	WPMM643 	RM	210 NAC	Tusc SO Tac3 	Sheriff Tactical 3 	P25 	Law Tac 
-158.85750 	WPMM643 	RM	110 NAC	Tusc SO Tac4 	Sheriff Tactical 4 	P25 	Law Tac 
-159.24750 	WPMM643 	RM	210 NAC	Tusc SO Tac5 	Sheriff Tactical 5 	P25 	Law Tac 
-159.38250 	WPMM643 	RM		Tusc SO Tac6 	Sheriff Tactical 6 	FMN 	Law Tac 
-453.15000 	KNJX279 	RM	115 DPL	Tusc Co FD 1 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.34000 	WQOK944 	BM	210.7 PL	EMS Mut Aid 	EMS Mutual Aid 	FMN 	EMS-Talk 
-154.13000 	KNBW361 	RM	631 DPL	Tusc Sirens 	Emergency Management Agency - Emergency Siren Activation/Emergency Alert Radio System 	FMN 	Emergency Ops 
-457.60000 	WQPT610 	M		OlColonyGolf 	Ol' Colony Golf Complex 	FMN 	Public Works 
-158.74500 	 	BM	411 DPL	Tusc Co Jail 	Jail 	FMN 	Corrections 
-158.82000 	WNQI523 	RM	97.4 PL	Tusc Sch Bus 	School System Buses 	FMN 	Schools 
-453.12500 	WPTW822 	RM	127.3 PL	Carrl Crk FD 	Carrolls Creek Fire 	FMN 	Fire Dispatch 
-453.47500 	WQKM512 	RM		Coaling FD 	Coaling Fire Protection District 	FMN 	Fire Dispatch 
-453.57500 	WPMN660 	RM	97.4 PL	F/R FPD 	Fosters/Ralph Fire Protection District 	FMN 	Fire-Tac 
-460.62500 	WQKU406 	RM	127.3 PL	Montgmry VFD 	Montgomery Volunteer Fire Department  	FMN 	Fire-Tac 
-155.16000 	WNYY773 	BM	127.3 PL	NorthstarEMS 	Northstar EMS 	FMN 	EMS Dispatch 
-453.05000 	WPWC276 	RM	192.8 PL	Romulus VFD 	Romulus Volunteer Fire Department 	FMN 	Fire-Tac 
-463.20000 	WQBZ938 	RM	127.3 PL	Samantha VFD 	Samantha Volunteer Fire Department 	FMN 	Fire-Tac 
-453.81250 	WQKM513 	RM		Tide EMS 	Tide EMS 	FMN 	EMS Dispatch 
-855.71250 	WNJD323 	RM	173.8 PL	Northport PD 	Police (Back-up to Alabama AFRN) 	FMN 	Law Dispatch 
-856.71250 	WNJD323 	RM	173.8 PL	Northport FD 	Fire (Back-up to Alabama AFRN) 	FMN 	Fire Dispatch 
-857.71250 	WNJD323 	RM	173.8 PL	NorthportDPW 	City Services 	FMN 	Public Works 
-158.73000 	KIB470 	RM	223 NAC	Tusc PD 1 	Police 1 Dispatch 	P25E 	Law Dispatch 
-154.69500 	KIB470 	RM	243 DPL	Tusc PD 2 	Police 2 Operations 	FMN 	Law Tac 
-154.84500 	KIB470 	BM	205 NAC	Tusc PD 3 	Police 3 Traffic 	P25 	Law Tac 
-155.97000 	KIB470 	M		Tusc PD 4 	Police 4 Talk-Around 	FMN 	Law Tac 
-155.25000 	WQBI978  	RM	265 NAC	Tusc PD 6 	Police 6 Operations 	P25E 	Law Tac 
-154.40000 	KNBW361 	RM	115 DPL	Tusc FD 1 A 	Fire 1 Dispatch (Analog) 	FMN 	Fire Dispatch 
-154.40000 	KNBW361 	RM	201 NAC	Tusc FD 1 D 	Fire 1 Dispatch (Digital) 	P25 	Fire Dispatch 
-154.38500 	KNBW361 	BM	202 NAC	Tusc FD 2 	Fire 2 Fireground / Logistics / Training 	P25 	Fire-Tac 
-155.40750 	 	BM	204 NAC	Tusc FD 6 	Fire 6 Operations 	P25 	Fire-Tac 
-452.70000 	WPRB391 	RM	606 DPL	Tusc Sch Bus 	School Buses 	FMN 	Schools 
-453.85000 	WQUA610 	RM	CC 7TG *SL *	Tusc Housing 	Housing Authority 	DMRe 	Public Works 
-464.38750 	KNBY988 	RM	CC 1TG *SL *	Tusc Amph 	Tuscaloosa Amphitheater 	DMR 	Public Works 
-452.67500 	WRCS767 	RM	CC 3TG *SL *	Bus Transit 	Buses 	DMR 	Transportation 
-159.15000 	WQBZ299 	RM	303 NAC	UA Police 1 	UA Police Ch.1 	P25E 	Law Dispatch 
-154.88250 	WQBZ799 	RM	303 NAC	UA Police 3 	UA Police Ch.3 	P25 	Law Talk 
-155.78250 	WQBZ799 	RM	303 NAC	UA Police 4 	UA Police Ch.4 	P25E 	Law Tac 
-154.81500 	WQCJ632 	RM	261 DPL	UA Public Safety 	UA Public Safety Operations 	FMN 	Multi-Dispatch 
-460.27500 	WNRE383 	RM	CC 14TG *SL *	UA Stadium Ops 	UA Bryant-Denny Stadium Operations 	DMR 	Schools 
-460.40000 	KNIE695 	RM	CC 1TG *SL *	UA Football  	UA Football Staff Operations  	DMR 	Schools 
-460.15000 	KNIE695 	RM	CC 1TG *SL *	UA RecCenter 	UA Student Recreation Center 	DMR 	Schools 
-464.46250 	WPUH777 	RM	032 DPL	UA Ferguson 	UA Ferguson Center 	FMN 	Schools 
-453.45000 	WNRE383 	RM	CC 10TG *SL *	UA Bus 	UA Campus Bus 	DMR 	Transportation 
-461.03750 	WQOK744 	M		MillionDBand 	UA Million Dollar Band (Also Used While Traveling) 	DMR 	Schools 
-453.70000 	WNRE383 	RM	032 DPL	UA Warning 	UA Outdoor Warning System 	FMN 	Schools 
- Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	AllComm Wireless (LTR)	 LTR Standard	 Various	Hunt Refining	 LTR Standard
- Tuscaloosa	Mercedes Benz USA	 DMR Motorola Connect Plus (TRBO)	 Vance	Shelton State Community College	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tuscaloosa	SmartRadio DMR
- DMR Motorola Connect Plus (TRBO)	 Various	
+155.12250 	159.09000  	WQGS321 	RM	210 NAC	Tusc SO Dsp1 	Sheriff Primary 1 (Simulcast) 	P25E 	Law Dispatch 
+155.63250 	159.09000  	WPMM643 	RM	210 NAC	Tusc SO Dsp2 	Sheriff Primary 2 (Simulcast) 	P25E 	Law Dispatch 
+156.11250 	159.09000  	WQGS321 	RM	210 NAC	Tusc SO Dsp3 	Sheriff Primary 3 (Simulcast) 	P25 	Law Dispatch 
+155.06250 	155.61000  	WQGS321 	RM	110 NAC	Tusc SO 2nd1 	Sheriff Secondary 1 (Simulcast) 	P25 	Law Talk 
+156.21750 	155.61000  	WQGS321 	RM	110 NAC	Tusc SO 2nd2 	Sheriff Secondary 2 (Simulcast) 	P25 	Law Talk 
+158.85750 	155.61000  	WQGS321 	RM	110 NAC	Tusc SO 2nd3 	Sheriff Secondary 3 (Simulcast) 	P25 	Law Talk 
+151.13000 	   	WPMM643 	RM	105 NAC	Tusc SO Tac1 	Sheriff Tactical 1 	P25 	Law Tac 
+155.67000 	   	WPMM643 	RM		Tusc SO Tac2 	Sheriff Tactical 2 	FMN 	Law Tac 
+155.70750 	   	WPMM643 	RM	210 NAC	Tusc SO Tac3 	Sheriff Tactical 3 	P25 	Law Tac 
+158.85750 	   	WPMM643 	RM	110 NAC	Tusc SO Tac4 	Sheriff Tactical 4 	P25 	Law Tac 
+159.24750 	   	WPMM643 	RM	210 NAC	Tusc SO Tac5 	Sheriff Tactical 5 	P25 	Law Tac 
+159.38250 	   	WPMM643 	RM		Tusc SO Tac6 	Sheriff Tactical 6 	FMN 	Law Tac 
+453.15000 	458.15000  	KNJX279 	RM	115 DPL	Tusc Co FD 1 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.34000 	   	WQOK944 	BM	210.7 PL	EMS Mut Aid 	EMS Mutual Aid 	FMN 	EMS-Talk 
+154.13000 	156.00750  	KNBW361 	RM	631 DPL	Tusc Sirens 	Emergency Management Agency - Emergency Siren Activation/Emergency Alert Radio System 	FMN 	Emergency Ops 
+457.60000 	   	WQPT610 	M		OlColonyGolf 	Ol' Colony Golf Complex 	FMN 	Public Works 
+158.74500 	   	 	BM	411 DPL	Tusc Co Jail 	Jail 	FMN 	Corrections 
+158.82000 	153.75500  	WNQI523 	RM	97.4 PL	Tusc Sch Bus 	School System Buses 	FMN 	Schools 
+453.12500 	458.12500  	WPTW822 	RM	127.3 PL	Carrl Crk FD 	Carrolls Creek Fire 	FMN 	Fire Dispatch 
+453.47500 	458.47500  	WQKM512 	RM		Coaling FD 	Coaling Fire Protection District 	FMN 	Fire Dispatch 
+453.57500 	458.57500  	WPMN660 	RM	97.4 PL	F/R FPD 	Fosters/Ralph Fire Protection District 	FMN 	Fire-Tac 
+460.62500 	465.62500  	WQKU406 	RM	127.3 PL	Montgmry VFD 	Montgomery Volunteer Fire Department  	FMN 	Fire-Tac 
+155.16000 	   	WNYY773 	BM	127.3 PL	NorthstarEMS 	Northstar EMS 	FMN 	EMS Dispatch 
+453.05000 	458.05000  	WPWC276 	RM	192.8 PL	Romulus VFD 	Romulus Volunteer Fire Department 	FMN 	Fire-Tac 
+463.20000 	468.20000  	WQBZ938 	RM	127.3 PL	Samantha VFD 	Samantha Volunteer Fire Department 	FMN 	Fire-Tac 
+453.81250 	458.81250  	WQKM513 	RM		Tide EMS 	Tide EMS 	FMN 	EMS Dispatch 
+855.71250 	810.71250  	WNJD323 	RM	173.8 PL	Northport PD 	Police (Back-up to Alabama AFRN) 	FMN 	Law Dispatch 
+856.71250 	811.71250  	WNJD323 	RM	173.8 PL	Northport FD 	Fire (Back-up to Alabama AFRN) 	FMN 	Fire Dispatch 
+857.71250 	812.71250  	WNJD323 	RM	173.8 PL	NorthportDPW 	City Services 	FMN 	Public Works 
+158.73000 	154.95000  	KIB470 	RM	223 NAC	Tusc PD 1 	Police 1 Dispatch 	P25E 	Law Dispatch 
+154.69500 	158.97000  	KIB470 	RM	243 DPL	Tusc PD 2 	Police 2 Operations 	FMN 	Law Tac 
+154.84500 	158.88000  	KIB470 	BM	205 NAC	Tusc PD 3 	Police 3 Traffic 	P25 	Law Tac 
+155.97000 	   	KIB470 	M		Tusc PD 4 	Police 4 Talk-Around 	FMN 	Law Tac 
+155.25000 	   	WQBI978  	RM	265 NAC	Tusc PD 6 	Police 6 Operations 	P25E 	Law Tac 
+154.40000 	153.77000  	KNBW361 	RM	115 DPL	Tusc FD 1 A 	Fire 1 Dispatch (Analog) 	FMN 	Fire Dispatch 
+154.40000 	153.77000  	KNBW361 	RM	201 NAC	Tusc FD 1 D 	Fire 1 Dispatch (Digital) 	P25 	Fire Dispatch 
+154.38500 	   	KNBW361 	BM	202 NAC	Tusc FD 2 	Fire 2 Fireground / Logistics / Training 	P25 	Fire-Tac 
+155.40750 	   	 	BM	204 NAC	Tusc FD 6 	Fire 6 Operations 	P25 	Fire-Tac 
+452.70000 	457.70000  	WPRB391 	RM	606 DPL	Tusc Sch Bus 	School Buses 	FMN 	Schools 
+453.85000 	458.85000  	WQUA610 	RM	CC 7TG *SL *	Tusc Housing 	Housing Authority 	DMRe 	Public Works 
+464.38750 	469.38750  	KNBY988 	RM	CC 1TG *SL *	Tusc Amph 	Tuscaloosa Amphitheater 	DMR 	Public Works 
+452.67500 	457.67500  	WRCS767 	RM	CC 3TG *SL *	Bus Transit 	Buses 	DMR 	Transportation 
+159.15000 	153.92000  	WQBZ299 	RM	303 NAC	UA Police 1 	UA Police Ch.1 	P25E 	Law Dispatch 
+154.88250 	153.97250  	WQBZ799 	RM	303 NAC	UA Police 3 	UA Police Ch.3 	P25 	Law Talk 
+155.78250 	   	WQBZ799 	RM	303 NAC	UA Police 4 	UA Police Ch.4 	P25E 	Law Tac 
+154.81500 	156.03000  	WQCJ632 	RM	261 DPL	UA Public Safety 	UA Public Safety Operations 	FMN 	Multi-Dispatch 
+460.27500 	465.27500  	WNRE383 	RM	CC 14TG *SL *	UA Stadium Ops 	UA Bryant-Denny Stadium Operations 	DMR 	Schools 
+460.40000 	465.40000  	KNIE695 	RM	CC 1TG *SL *	UA Football  	UA Football Staff Operations  	DMR 	Schools 
+460.15000 	465.15000  	KNIE695 	RM	CC 1TG *SL *	UA RecCenter 	UA Student Recreation Center 	DMR 	Schools 
+464.46250 	469.46250  	WPUH777 	RM	032 DPL	UA Ferguson 	UA Ferguson Center 	FMN 	Schools 
+453.45000 	458.45000  	WNRE383 	RM	CC 10TG *SL *	UA Bus 	UA Campus Bus 	DMR 	Transportation 
+461.03750 	   	WQOK744 	M		MillionDBand 	UA Million Dollar Band (Also Used While Traveling) 	DMR 	Schools 
+453.70000 	458.70000  	WNRE383 	RM	032 DPL	UA Warning 	UA Outdoor Warning System 	FMN 	Schools 
+ Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	AllComm Wireless (LTR)	 LTR Standard	 Various	Hunt Refining	 LTR Standard	 Tuscaloosa
+Mercedes Benz USA	 DMR Motorola Connect Plus (TRBO)	 Vance	Shelton State Community College	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tuscaloosa	SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various

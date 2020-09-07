@@ -1,26 +1,26 @@
-155.13000 	KSD283 	BM		PLAN A BASE 	Plan A Base-to-Car 	FMN 	Interop 
-154.89000 	KSD283 	M		PLAN A CAR 	Plan A Car-to-Base 	FMN 	Interop 
-155.98500 	KNFF776 	BM		Pulaski EMA 	EMA Operations 	FMN 	Emergency Ops 
-154.40000 	WNAA622 	RM	94.8 PL	PULASKI FD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-155.20500 	WNMR878 	BM		PULASKI RESCUE 	Rescue Squad 	FMN 	Emergency Ops 
-152.39750 	 	BM		UNITED EMS WD 	United EMS - Winamac Dispatch 	FMN 	EMS Dispatch 
-158.70000 	 	RM		UNITED EMS RPTR 	United EMS - Repeater 	FMN 	EMS-Tac 
-453.22500 	WPMH292 	F	423 DPL	UHF Link 	UHF Link - Winamac 	FMN 	EMS Dispatch 
-453.40000 	WPMH292 	F	464 DPL	UHF Link 	UHF Link - Winamac 	FMN 	EMS Dispatch 
-453.75000 	WPMH292 	F	411 DPL	UHF Link 	UHF Link - Winamac 	FMN 	EMS Dispatch 
-453.92500 	WPMH292 	F	412 DPL	UHF Link 	UHF Link - Winamac 	FMN 	EMS Dispatch 
-458.22500 	WPMH292 	F	431 DPL	UHF Link 	UHF Link - Star City 	FMN 	EMS Dispatch 
-458.40000 	WPMH292 	F	465 DPL	UHF Link 	UHF Link - Francisville 	FMN 	EMS Dispatch 
-458.75000 	WPMH292 	F	411 DPL	UHF Link 	UHF Link - Monteray 	FMN 	EMS Dispatch 
-458.92500 	WPMH292 	F	413 DPL	UHF Link 	UHF Link - Medaryville 	FMN 	EMS Dispatch 
-159.04500 	KGW785 	BM	173.8 PL	Pulaski Hwy 	Highway Department 	FMN 	Public Works 
-155.16000 	KZV870 	BM	85.4 PL	WinamacEMS 	EMS 	FMN 	EMS Dispatch 
-155.25000 	KSE906 	BM	100.0 PL	WinamacFire 	Fire/Ultilities Simplex 	FMN 	Multi-Tac 
-155.53500 	KSE906 	BM	100.0 PL	WinamacFire 	Fire/Ultilities Simplex 	FMN 	Multi-Tac 
-152.45000 	WNKT351 	RM		EPSC-VHF 	Eastern Pulaski School Corporation 	FMN 	Schools 
-461.80000 	WNKT351 	RM		EPSC-UHF 	Eastern Pulaski School Corporation 	FMN 	Schools 
-159.84000 	Pending 	M		WCSC-School1 	West Central School Corporation 	DMR 	Schools 
-159.96000 	Pending 	M		WCSC-School2 	West Central School Corporation 	DMR 	Schools 
-160.03500 	Pending 	M		WCSC-School3 	West Central School Corporation 	DMR 	Schools 
-160.05000 	Pending 	M		WCSC-School4 	West Central School Corporation 	DMR 	Schools 
-Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	
+155.13000 	   	KSD283 	BM		PLAN A BASE 	Plan A Base-to-Car 	FMN 	Interop 
+154.89000 	   	KSD283 	M		PLAN A CAR 	Plan A Car-to-Base 	FMN 	Interop 
+155.98500 	   	KNFF776 	BM		Pulaski EMA 	EMA Operations 	FMN 	Emergency Ops 
+154.40000 	   	WNAA622 	RM	94.8 PL	PULASKI FD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.20500 	   	WNMR878 	BM		PULASKI RESCUE 	Rescue Squad 	FMN 	Emergency Ops 
+152.39750 	   	 	BM		UNITED EMS WD 	United EMS - Winamac Dispatch 	FMN 	EMS Dispatch 
+158.70000 	   	 	RM		UNITED EMS RPTR 	United EMS - Repeater 	FMN 	EMS-Tac 
+453.22500 	   	WPMH292 	F	423 DPL	UHF Link 	UHF Link - Winamac 	FMN 	EMS Dispatch 
+453.40000 	   	WPMH292 	F	464 DPL	UHF Link 	UHF Link - Winamac 	FMN 	EMS Dispatch 
+453.75000 	   	WPMH292 	F	411 DPL	UHF Link 	UHF Link - Winamac 	FMN 	EMS Dispatch 
+453.92500 	   	WPMH292 	F	412 DPL	UHF Link 	UHF Link - Winamac 	FMN 	EMS Dispatch 
+458.22500 	   	WPMH292 	F	431 DPL	UHF Link 	UHF Link - Star City 	FMN 	EMS Dispatch 
+458.40000 	   	WPMH292 	F	465 DPL	UHF Link 	UHF Link - Francisville 	FMN 	EMS Dispatch 
+458.75000 	   	WPMH292 	F	411 DPL	UHF Link 	UHF Link - Monteray 	FMN 	EMS Dispatch 
+458.92500 	   	WPMH292 	F	413 DPL	UHF Link 	UHF Link - Medaryville 	FMN 	EMS Dispatch 
+159.04500 	151.10000  	KGW785 	BM	173.8 PL	Pulaski Hwy 	Highway Department 	FMN 	Public Works 
+155.16000 	   	KZV870 	BM	85.4 PL	WinamacEMS 	EMS 	FMN 	EMS Dispatch 
+155.25000 	   	KSE906 	BM	100.0 PL	WinamacFire 	Fire/Ultilities Simplex 	FMN 	Multi-Tac 
+155.53500 	   	KSE906 	BM	100.0 PL	WinamacFire 	Fire/Ultilities Simplex 	FMN 	Multi-Tac 
+152.45000 	157.71000  	WNKT351 	RM		EPSC-VHF 	Eastern Pulaski School Corporation 	FMN 	Schools 
+461.80000 	466.80000  	WNKT351 	RM		EPSC-UHF 	Eastern Pulaski School Corporation 	FMN 	Schools 
+159.84000 	   	Pending 	M		WCSC-School1 	West Central School Corporation 	DMR 	Schools 
+159.96000 	   	Pending 	M		WCSC-School2 	West Central School Corporation 	DMR 	Schools 
+160.03500 	   	Pending 	M		WCSC-School3 	West Central School Corporation 	DMR 	Schools 
+160.05000 	   	Pending 	M		WCSC-School4 	West Central School Corporation 	DMR 	Schools 
+Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	

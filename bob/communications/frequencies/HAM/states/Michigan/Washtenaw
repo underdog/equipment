@@ -1,188 +1,187 @@
-158.76000 	KDP984 	BM	77.0 PL	Washtenaw EMA 1 	Countywide Emergency Management Repeater (Analog) EAS Disaster Alert Paging 	FMN 	Emergency Ops 
-158.76000 	KDP984 	RM		Washtenaw EMA 2 	Countywide Emergency Management Repeater (Digital) 	P25 	Emergency Ops 
-860.93750 	WQRM266 	RM	023 DPL	WC SD JAIL 	Sheriff: County Jail 	FM 	Corrections 
-463.82500 	WQYJ611 	RM		Child Ser Main 	Child Services 	FMN 	Corrections 
-457.23750 	WQVR322 	M		Youth Home 	Youth Home Operations 	FMN 	Corrections 
-464.78750 	WQVR322 	M		Youth Home 	Youth Home Operations 	FMN 	Corrections 
-466.88750 	WQVR322 	M		Youth Home 	Youth Home Operations 	FMN 	Corrections 
-467.27500 	WQVR322 	M		Youth Home 	Youth Home Operations 	FMN 	Corrections 
-469.78750 	WQVR322 	M		Youth Home 	Youth Home Operations 	FMN 	Corrections 
-159.51000 	WQRH244 	M		Child Services 	Child Services Operations 	FMN 	Corrections 
-159.58500 	WQRH244 	M		Child Services 	Child Services Operations 	FMN 	Corrections 
-159.67500 	WQRH244 	M		Child Services 	Child Services Operations 	FMN 	Corrections 
-159.80250 	WQRH244 	M		Child Services 	Child Services Operations 	FMN 	Corrections 
-159.81000 	WQRH244 	M		Child Services 	Child Services Operations 	FMN 	Corrections 
-154.87500 	KQB271 	BM	CSQ	AnnArbor Sirens1 	Outdoor Warning Sirens 	FMN 	Emergency Ops 
-154.75500 	KQB271 	BM	CSQ	AnnArbor Sirens2 	Outdoor Warning Sirens 	FMN 	Emergency Ops 
-453.91250 	WPRJ279 	F		AA Twp Water 	Water Department Data 	Telm 	Data 
-153.81500 	WNXX895 	BM	162.2 PL	Augusta Twp FD 2 	Fire Secondary (Backup to TRS) 	FMN 	Fire-Talk 
-154.29500 	WPMG847 	BM	CSQ	Augusta Twp FD 3 	M.A.B.A.S. / DNR Fireground 	FMN 	Fire-Tac 
-456.53750 	WQCG345 	F		AugustaTwp Water 	Water Department Data 	Telm 	Public Works 
-158.80500 	WPUJ239 	BM	151.4 PL	Chelsea Police 	Police Dispatch (Station 33) 	FMN 	Law Dispatch 
-158.80500 	WPUJ239 	RM	151.4 PL	Chelsea EOC 	Emergency Operations Center 	FMN 	Multi-Talk 
-153.98000 	WNVR557 	BM	CSQ	Chelsea Fire 	Fire Tactical 	FMN 	Fire-Tac 
-159.82500 	WPPG274 	BM		Chelsea PwerLght 	Power and Light 	FMN 	Utilities 
-150.83000 	WQZD427 	RM	CC 12TG 1563001SL 1	Chelsea DPW 	DPW 	DMR 	Public Works 
-158.76000 	WQRB288 	B		Dexter Sirens 	Outdoor Warning Sirens 	Telm 	Data 
-158.96250 	WQRB288 	F		Dexter Sirens 	Outdoor Warning Sirens 	Telm 	Data 
-854.13750 	 	BM	123.0 PL	Milan PD T/A 	Police - Talkround 	FM 	Law Talk 
-159.09000 	WNZS917 	B	162.2 PL	Milan Fire 	Fire: Paging 	FMN 	Fire Dispatch 
-158.79000 	WPGR512 	BM	162 DPL	Milan Pub Works 	Public Works: Primary 	FMN 	Public Works 
-154.41500 	KNBF268 	BM	162.2 PL	PitsfieldTwp FD2 	Fire Dispatch (Paging) 	FMN 	Fire Dispatch 
-453.81250 	WQTD351 	BM		PitsfieldTwp WDD 	Water Department Data 	Telm 	Public Works 
-854.01250 	WNHE940 	RM	123.0 PL	Saline 10-RP 	Public Works / Police Fallback / Outdoor Warning Sirens [10-RP] 	FM 	Multi-Tac 
-154.02500 	WQJ450 	RM	167.9 PL	State Prison 	State Correctional Facility  	FMN 	Corrections 
-154.74750 	WQPQ839 	BM	71.9 PL	Camp Wlaterloo 	Camp Waterloo Boot Camp 	FMN 	Corrections 
-460.03750 	WQBU450 	BM		SuperiorTwp WD 1 	Water Department Data 	FMN 	Data 
-159.19500 	KB92249 	RM		Manchester DPW 1 	DPW 	FMN 	Public Works 
-453.78750 	KB92249 	RM		Manchester DPW 2 	DPW 	FMN 	Public Works 
-151.43000 	 	M	162.2 PL	WHITE 	Tactical [WHITE] 	FMN 	Fire-Talk 
-154.17500 	 	M	CSQ	GREEN 	Tactical [GREEN] 	FMN 	Fire-Talk 
-154.29500 	 	M	CSQ	RED 	Statewide DNR Fireground 	FMN 	Fire-Talk 
-154.37000 	 	M	CSQ	GREY 	Western Wayne Co. Ops [GREY] 	FMN 	Fire-Talk 
-154.41500 	 	M	162.2 PL	BLUE 	Tactical [BLUE] 	FMN 	Fire-Talk 
-154.43000 	 	M	CSQ	Monroe County 	Monroe County Operations 	FMN 	Fire-Talk 
-155.04000 	KBM396 	BM	CSQ	Ypsilanti DPW 	Department of Public Works Operations 	FMN 	Public Works 
-155.29500 	WNQI549 	BM	162.2 PL	HVA EMS Page 	EMS Dispatch / Paging 	FMN 	EMS Dispatch 
-155.16000 	WNQI549 	BM	97.4 PL	HVA EMS 38 	EMS Operations - Jackson County (38) 	FMN 	EMS-Tac 
-458.02500 	KQZ814 	M	CSQ	HVA EMS MX 1 	EMS Mobile Repeater 1 	FMN 	EMS-Tac 
-458.07500 	KQZ814 	M	CSQ	HVA EMS MX 2 	EMS Mobile Repeater 2 	FMN 	EMS-Tac 
-458.12500 	KQZ814 	M	CSQ	HVA EMS MX 3 	EMS Mobile Repeater 3 	FMN 	EMS-Tac 
-458.17500 	KQZ814 	M	CSQ	HVA EMS MX 4 	EMS Mobile Repeater 4 	FMN 	EMS-Tac 
-151.16750 	WXY367 	RM		CEMS EMS 81 	EMS Dispatch / Operations - Washtenaw County (81) 	FMN 	EMS Dispatch 
-460.56250 	WXY367 	M	CSQ	CEMS MX 1 	EMS Mobile Repeater 1 	FMN 	EMS-Tac 
-465.56250 	WXY367 	M	CSQ	CEMS MX 2 	EMS Mobile Repeater 2 	FMN 	EMS-Tac 
-463.63750 	WQFU486 	M		Chelsea CHs Ops1 	Operations/Security 	FMN 	Business 
-464.02500 	WQFU486 	M		Chelsea CmHosp2  	Operations/Security 	FMN 	Business 
-468.63750 	WQFU486 	M		Chelsea CH Ops 3 	Operations/Security 	FMN 	Business 
-469.01250 	WQFU486 	M		Chelsea CH Ops 4 	Operations/Security 	FMN 	Business 
-469.03750 	WQFU486 	M		Chelsea CH Ops 5 	Operations/Security 	FMN 	Business 
-469.06250 	WQFU486 	M		Chelsea CH Ops 6 	Operations/Security 	FMN 	Business 
-469.08750 	WQFU486 	M		Chelsea CH Ops 7 	Operations/Security 	FMN 	Business 
-469.11250 	WQFU486 	M		Chelsea CH Ops 8 	Operations/Security 	FMN 	Business 
-469.13750 	WQFU486 	M		Chelsea CH Ops 9 	Operations/Security 	FMN 	Business 
-155.34000 	KTE676 	BM	136.5 PL	Chelsea CH HEARN 	EMS to Hospital Notification (VHF Radio Plan - Hospital Base Station Transmits: 97.4 PL) 	FMN 	Hospital 
-464.87500 	WQBZ243 	RM	131.8 PL	St Joe AA Ops. 1 	Security Operations / Shuttles 	FMN 	Business 
-462.07500 	WQBZ243 	RM		St Joe AA Ops. 2 	Security Operations / Shuttles 	FMN 	Business 
-464.60000 	WPNX707 	M		St Joe AA Ops. 3 	Hospital Operations 	FMN 	Business 
-452.80000 	WPPC639 	RM		St Joe AA E.R.T. 	Emergency Room Triage 	FMN 	Hospital 
-157.45000 	KZE629 	B	CSQ	StJoeAA Paging 	Hospital Paging 	FMN 	Data 
-155.34000 	KZE629 	BM	82.5 PL	St Joes AA HEARN 	EMS to Hospital Notification (VHF Radio Plan - Hospital Base Station Transmits: 97.4 PL) 	FMN 	Hospital 
-463.15000 	KZE629 	RM	162.2 PL	St Joe AA Med-7 	EMS to Hospital Notification (MED-7) 	FMN 	Hospital 
-155.34000 	KZE629 	BM	91.5 PL	St JoeHosp HEARN 	EMS to Hospital Notification (VHF Radio Plan 	FMN 	Hospital 
-155.34000 	KZE629 	BM	97.4 PL	St JoeHosp - EMS 	Hospital to EMS 	FMN 	Hospital 
-423.10000 	WPBE766 	RM		UM Hosp Security 	Security 	DMR 	Security 
-422.82500 	WPBX678 	RM		UM Hosp. Ops 1 	Operations 	DMR 	Business 
-424.97500 	WPBX678 	RM		U-M Hosp Ops 2 	Operations 	DMR 	Business 
-424.85000 	WPBX678 	RM		UM Hosp Houskpng 	Housekeeping 	DMR 	Business 
-422.60000 	WPBX678 	RM		UMH HVAC 	Heating and Cooling 	DMR 	Business 
-424.77500 	WPLR519 	RM		U-M Hosp BioMed 	BioMedical Services 	DMR 	Business 
-424.70000 	WPBX678 	RM		U-M Hosp. Nurses 	S.W.A.T. Nurses 	DMR 	Hospital 
-423.32500 	WPBT990 	RM		U-M Hosp Trauma 	Trauma Team 	DMR 	Hospital 
-155.16000 	KRM927 	BM	162.2 PL	UMHSF Disp. 	Survival Flight - Dispatch / Paging 	FMN 	EMS Dispatch 
-130.60000 	WPWF645 	BM	CSQ	UMHSF Air 	Survival Flight - Air Operations 	AM 	Aircraft 
-155.34000 	KRM927 	BM	141.3 PL	UM Hosp HEARN 	EMS to Hospital Notification (VHF Radio Plan - Hospital Base Station Transmits: 97.4 PL) 	FMN 	Hospital 
-422.80000 	WNXK713 	RM	156.7 PL	EMU PhyscalPlant 	Physical Plant [Ch 2] 	FMN 	Public Works 
-461.92500 	WPBK464 	RM	91.5 PL	EMU Grounds 	Operations (Grounds) [Ch 3] 	FMN 	Public Works 
-464.92500 	WQJT234 	RM	023 DPL	EMU Secrity Ops 	Operations 	FMN 	Security 
-452.81250 	WQPS841 	M	162 DPL	EMU Robb RecCntr 	Olds/Robb Student Rec Center 	FMN 	Schools 
-153.52250 	WQPT401 	M		Eagle Crest 	Eagle Crest Resort: Ops 	FMN 	Schools 
-153.61250 	WQPT401 	M		Eagle Crest 	Eagle Crest Resort: Ops 	FMN 	Schools 
-158.30250 	WQPT401 	M		Eagle Crest 	Eagle Crest Resort: Ops 	FMN 	Schools 
-159.53250 	WQPT401 	M		Eagle Crest 	Eagle Crest Resort: Ops 	FMN 	Schools 
-463.38750 	WQTE504 	RM		Concordia Maint. 	Maintenance 	FMN 	Schools 
-464.55000 	WPWG744 	RM	156.7 PL	UM StudentUnion 	Student Union 	FMN 	Schools 
-464.55000 	WPWG744 	RM	162.2 PL	UM League 	League 	FMN 	Schools 
-461.46250 	WPWG744 	RM		UM StudentSrvcs 	Operations 	FMN 	Schools 
-461.63750 	WQJF386 	RM		UM Theatre 1 	Theater Arts Complex 	FMN 	Schools 
-452.38750 	WQJF386 	M		UM Theatre 2 	Theater Arts Complex 	FMN 	Schools 
-452.43750 	WQJF386 	M		UM Theatre 3 	Theater Arts Complex 	FMN 	Schools 
-461.88750 	WQJF386 	M		UM Theatre 4 	Theater Arts Complex 	FMN 	Schools 
-463.53750 	WQJF386 	M		UM Theatre 5 	Theater Arts Complex 	FMN 	Schools 
-463.58750 	WQJF386 	M		UM Theatre 6 	Theater Arts Complex 	FMN 	Schools 
-451.31250 	WPZR904 	M		UM Productions 1 	University Productions 	FMN 	Schools 
-451.41250 	WPZR904 	M		UM Productions 2 	University Productions 	FMN 	Schools 
-452.03750 	WPZR904 	M		UM Productions 3 	University Productions 	FMN 	Schools 
-464.32500 	WPZR904 	M		UM Productions 4 	University Productions 	FMN 	Schools 
-464.82500 	WPZR904 	M		UM Productions 5 	University Productions 	FMN 	Schools 
-464.03750 	WREM675 	M		UM Library 1 	Library 1 	DMR 	Schools 
-464.13750 	WREM675 	M		UM Library 2 	Library 2 	DMR 	Schools 
-464.26250 	WREM675 	M		UM Library 3 	Library 3 	DMR 	Schools 
-469.03750 	WREM675 	M		UM Library 4 	Library 4 	DMR 	Schools 
-469.13750 	WREM675 	M		UM Library 5 	Library 5 	DMR 	Schools 
-451.38750 	WRAC544 	M		Musical Society 	Musical Society 	DMR 	Schools 
-451.43750 	WRAC544 	M		Musical Society 	Musical Society 	DMR 	Schools 
-451.61250 	WRAC544 	M		Musical Society 	Musical Society 	DMR 	Schools 
-452.66250 	WRAC544 	M		Musical Society 	Musical Society 	DMR 	Schools 
-456.61250 	WRAC544 	M		Musical Society 	Musical Society 	DMR 	Schools 
-452.42500 	WPMG321 	RM	023 DPL	UM CPU Techs 	Computer Techs 	FMN 	Schools 
-464.03750 	WQXR890 	M		UM Alumni 1 	Alumni Association 1 	FMN 	Schools 
-464.11250 	WQXR890 	M		UM Alumni 2 	Alumni Association 2 	FMN 	Schools 
-469.03750 	WQXR890 	M		UM Alumni 3 	Alumni Association 3 	DMR 	Schools 
-469.11250 	WQXR890 	M		UM Alumni 4 	Alumni Association 4 	FMN 	Schools 
-469.13750 	WQXR890 	M		UM Alumni 5 	Alumni Association 5 	DMR 	Schools 
-451.87500 	WQYU243 	RM	156.7 PL	WCC Security A 	Security: Dispatch 	FMN 	Security 
-464.95000 	WQYU243 	RM	127.3 PL	WCC Security B 	Security: Secondary 	FMN 	Security 
-452.52500 	WQYU243 	M		WCC Security A 	Security: Talkaround 	FMN 	Security 
-452.57500 	WQYU243 	M		WCC Securty D 	Security 	FMN 	Security 
-464.80000 	WQYU243 	RM	156.7 PL	WCC Security E 	Security: Events 	FMN 	Security 
-452.45000 	WQYU243 	RM	192.8 PL	WCC Maintenance 	Maintenance 	FMN 	Schools 
-452.50000 	WQME939 	RM	127.3 PL	WCC Maint-Elect  	Mechanical and Electrical Systems 	FMN 	Schools 
-456.67500 	WQYU243 	M		WCC Events 1 	Special Events 	FMN 	Schools 
-457.67500 	WQYU243 	M		WCC Events 2 	Special Events 	FMN 	Schools 
-464.32500 	WQMI427 	M	156.7 PL	WCC Events 3 	Off-Site Events 	FMN 	Schools 
-466.08750 	WQMI427 	M	156.7 PL	WCC Events 4 	Off-Site Events 	FMN 	Schools 
-467.10000 	WQMI427 	M	156.7 PL	WCC Events 5 	Off-Site Events 	FMN 	Schools 
-467.87500 	WQMI427 	M	156.7 PL	WCC Events 6 	Off-Site Events 	FMN 	Schools 
-467.92500 	WQMI427 	M	156.7 PL	WCC Events 7 	Off-Site Events 	FMN 	Schools 
-422.87500 	WQWL236 	RM		Ann Arbor Buses 	Transporation: Primary 	NXDN 	Schools 
-452.02500 	WQFX514 	RM		Pioneer High 	Pioneer High School: Security 	FMN 	Security 
-452.12500 	WQFX514 	RM	85.4 PL	PionrHS Security 	Pioneer High School: Security 	FMN 	Security 
-452.85000 	WQFX514 	RM		Huron High 	Huron High School: Security 	FMN 	Security 
-452.97500 	WQFX514 	RM		HuronHS Security 	Huron High School: Security 	FMN 	Security 
-460.68750 	 	RM	192.8 PL	Huron HS Secruty 	Huron High School: Security/Hall Monitors 	FMN 	Schools 
-461.06250 	 	RM	192.8 PL	Skyline High 	Skyline High School (was Citywide - Snowplows) 	FMN 	Schools 
-461.60000 	WQFX514 	RM		PionrHS Security 	Pioneer High School: Security 	FMN 	Schools 
-461.87500 	WQFX514 	RM		AA PS Huron HS 	Huron High School: Security 	FMN 	Schools 
-469.21250 	 			Huron HS Secruty 	Huron High School: Security/Hall Monitors 	FMN 	Schools 
-461.52500 	WYK935 	RM		Chelsea SD Sec 	Security 	FMN 	Schools 
-464.32500 	WYK935 	RM	94.8 PL	Chelsea SD Trans 	Transportation 	FMN 	Schools 
-461.27500 	WPXF742 	RM	97.4 PL	Dexter CS Transp 	Transportation 	FMN 	Schools 
-451.51250 	WQUJ296 	M		Dexter CS Ops 1 	School Operations 	NXDN 	Schools 
-452.06250 	WQUJ296 	M		Dexter CS Ops 2 	School Operations 	NXDN 	Schools 
-452.28750 	WQUJ296 	M		Dexter CS Ops 3 	School Operations 	NXDN 	Schools 
-456.36250 	WQUJ296 	M		Dexter CS Ops 4 	School Operations 	NXDN 	Schools 
-456.41250 	WQUJ296 	M		Dexter CS Ops 5 	School Operations 	NXDN 	Schools 
-456.51250 	WQUJ296 	M		Dexter CS Ops 6 	School Operations 	NXDN 	Schools 
-457.06250 	WQUJ296 	M		Dexter CS Ops 7 	School Operations 	NXDN 	Schools 
-457.13750 	WQUJ296 	M		Dexter CS Ops 8 	School Operations 	NXDN 	Schools 
-457.28750 	WQUJ296 	M		Dexter CS Ops 9 	School Operations 	NXDN 	Schools 
-457.48750 	WQUJ296 	M		Dexter CS Ops 10 	School Operations 	NXDN 	Schools 
-464.82500 	WNLY606 	BM	110.9 PL	Lncln CSch Trans 	Ops 	FMN 	Schools 
-464.67500 	WQE944 	RM	351 DPL	Milan School Bus 	Transportation: Primary  	FMN 	Schools 
-461.07500 	WNHE453 	RM	146.2 PL	Saline Buses 	Transportation [F-1] 	FMN 	Schools 
-452.78750 	WNHE453 	RM	114.8 PL	Saline HS Ops 	High School Operations 	FMN 	Schools 
-452.46250 	WNHE453 	RM		Saline MdlSc Ops 	Middle School Operations 	FMN 	Schools 
-422.55000 	WNHE453 	RM		Saline Schools 	Operations 	DMR 	Schools 
-424.45000 	WNHE453 	RM		Saline Schools 	Operations 	DMR 	Schools 
-457.52500 	WNHE453 	M	203.5 PL	Saline MidSc Sec 	Middle School Security/Hall Monitors 	FMN 	Schools 
-457.55000 	WNHE453 	M	203.5 PL	Saline HS Secrty 	High School Security/Hall Monitors 	FMN 	Schools 
-452.03750 	WNHE453 	M		Saline Schools 	Operations 	FMN 	Schools 
-452.08750 	WNHE453 	M		Saline Schol Ops 	Operations 	FMN 	Schools 
-452.16250 	WNHE453 	M		Saline Schools 	Operations 	FMN 	Schools 
-452.23750 	WNHE453 	M		Saline School 	Operations 	FMN 	Schools 
-452.46250 	WNHE453 	M		Saline TA Direct 	Talkaround 	FMN 	Schools 
-457.46250 	WNHE453 	M		SalneField Trips 	Field Trips 	FMN 	Schools 
-461.35000 	WNYL835 	M		Saline Schls Ops 	Operations 	FMN 	Schools 
-461.40000 	WNYK670 	M		Saline Schools 	Operations 	FMN 	Schools 
-461.42500 	WNYK669 	M		Saline Ops 	Operations 	FMN 	Schools 
-464.47500 	WNYL843 	M		Saline Operation 	Operations 	FMN 	Schools 
-464.82500 	WNYM908 	M		Saline Schl Ops 	Operations 	FMN 	Schools 
-464.97500 	WNYK671 	M		Saline Schol Ops 	Operations 	FMN 	Schools 
-464.00000 	WNXB476 	RM	110.9 PL	WhitmrLkSchl Bus 	Transportation 	FMN 	Schools 
-155.22000 	WPXW562 	BM	91.5 PL	Ypsilanti Bus 2 	Transportation: Secondary 	FM 	Schools 
-Adrian and Blissfield Railroad Company	 NXDN Icom IDAS Type D	 Blissfield	American Center For Mobility	 DMR Motorola Capacity Plus Single Site (TRBO)	 Ypsilanti	Ann Arbor-Washtenaw County Government System	 Motorola Type II Smartnet
- Ann Arbor	ComSource Michigan DMR	 DMR Motorola Connect Plus (TRBO)	 Various	Consumers Energy	 EDACS Networked Standard	 Various	DeltaCom
- NXDN NEXEDGE 4800	 Varies	FCA US: Chelsea Proving Grounds	 DMR Motorola Capacity Plus Single Site (TRBO)	 Chelsea	Federal Correctional Institution: Milan	 Motorola Type II SmartZone	 Milan
-General Motors: Willow Run	 DMR Motorola Capacity Plus Single Site (TRBO)	 Ypsilanti	Repeater Systems	 DMR Motorola Connect Plus (TRBO)	 Various	Thomson Reuters	 DMR Motorola Capacity Plus Single Site (TRBO)
- Ann Arbor	University of Michigan	 Motorola Type II Smartnet	 Ann Arbor	University of Michigan: Athletics Dept.	 DMR Motorola Capacity Plus Single Site (TRBO)	 Ann Arbor	
+158.76000 	156.04500  	KDP984 	BM	77.0 PL	Washtenaw EMA 1 	Countywide Emergency Management Repeater (Analog) EAS Disaster Alert Paging 	FMN 	Emergency Ops 
+158.76000 	156.04500  	KDP984 	RM		Washtenaw EMA 2 	Countywide Emergency Management Repeater (Digital) 	P25 	Emergency Ops 
+860.93750 	815.93750  	WQRM266 	RM	023 DPL	WC SD JAIL 	Sheriff: County Jail 	FM 	Corrections 
+463.82500 	468.82500  	WQYJ611 	RM		Child Ser Main 	Child Services 	FMN 	Corrections 
+457.23750 	   	WQVR322 	M		Youth Home 	Youth Home Operations 	FMN 	Corrections 
+464.78750 	   	WQVR322 	M		Youth Home 	Youth Home Operations 	FMN 	Corrections 
+466.88750 	   	WQVR322 	M		Youth Home 	Youth Home Operations 	FMN 	Corrections 
+467.27500 	   	WQVR322 	M		Youth Home 	Youth Home Operations 	FMN 	Corrections 
+469.78750 	   	WQVR322 	M		Youth Home 	Youth Home Operations 	FMN 	Corrections 
+159.51000 	   	WQRH244 	M		Child Services 	Child Services Operations 	FMN 	Corrections 
+159.58500 	   	WQRH244 	M		Child Services 	Child Services Operations 	FMN 	Corrections 
+159.67500 	   	WQRH244 	M		Child Services 	Child Services Operations 	FMN 	Corrections 
+159.80250 	   	WQRH244 	M		Child Services 	Child Services Operations 	FMN 	Corrections 
+159.81000 	   	WQRH244 	M		Child Services 	Child Services Operations 	FMN 	Corrections 
+154.87500 	   	KQB271 	BM	CSQ	AnnArbor Sirens1 	Outdoor Warning Sirens 	FMN 	Emergency Ops 
+154.75500 	   	KQB271 	BM	CSQ	AnnArbor Sirens2 	Outdoor Warning Sirens 	FMN 	Emergency Ops 
+453.91250 	458.91250  	WPRJ279 	F		AA Twp Water 	Water Department Data 	Telm 	Data 
+153.81500 	   	WNXX895 	BM	162.2 PL	Augusta Twp FD 2 	Fire Secondary (Backup to TRS) 	FMN 	Fire-Talk 
+154.29500 	   	WPMG847 	BM	CSQ	Augusta Twp FD 3 	M.A.B.A.S. / DNR Fireground 	FMN 	Fire-Tac 
+456.53750 	   	WQCG345 	F		AugustaTwp Water 	Water Department Data 	Telm 	Public Works 
+158.80500 	155.86500  	WPUJ239 	BM	151.4 PL	Chelsea Police 	Police Dispatch (Station 33) 	FMN 	Law Dispatch 
+158.80500 	   	WPUJ239 	RM	151.4 PL	Chelsea EOC 	Emergency Operations Center 	FMN 	Multi-Talk 
+153.98000 	   	WNVR557 	BM	CSQ	Chelsea Fire 	Fire Tactical 	FMN 	Fire-Tac 
+159.82500 	   	WPPG274 	BM		Chelsea PwerLght 	Power and Light 	FMN 	Utilities 
+150.83000 	157.48500  	WQZD427 	RM	CC 12TG 1563001SL 1	Chelsea DPW 	DPW 	DMR 	Public Works 
+158.76000 	   	WQRB288 	B		Dexter Sirens 	Outdoor Warning Sirens 	Telm 	Data 
+158.96250 	   	WQRB288 	F		Dexter Sirens 	Outdoor Warning Sirens 	Telm 	Data 
+854.13750 	809.13750  	 	BM	123.0 PL	Milan PD T/A 	Police - Talkround 	FM 	Law Talk 
+159.09000 	   	WNZS917 	B	162.2 PL	Milan Fire 	Fire: Paging 	FMN 	Fire Dispatch 
+158.79000 	   	WPGR512 	BM	162 DPL	Milan Pub Works 	Public Works: Primary 	FMN 	Public Works 
+154.41500 	   	KNBF268 	BM	162.2 PL	PitsfieldTwp FD2 	Fire Dispatch (Paging) 	FMN 	Fire Dispatch 
+453.81250 	458.81250  	WQTD351 	BM		PitsfieldTwp WDD 	Water Department Data 	Telm 	Public Works 
+854.01250 	809.01250  	WNHE940 	RM	123.0 PL	Saline 10-RP 	Public Works / Police Fallback / Outdoor Warning Sirens [10-RP] 	FM 	Multi-Tac 
+154.02500 	155.08500  	WQJ450 	RM	167.9 PL	State Prison 	State Correctional Facility  	FMN 	Corrections 
+154.74750 	155.67750  	WQPQ839 	BM	71.9 PL	Camp Wlaterloo 	Camp Waterloo Boot Camp 	FMN 	Corrections 
+460.03750 	   	WQBU450 	BM		SuperiorTwp WD 1 	Water Department Data 	FMN 	Data 
+159.19500 	156.01500  	KB92249 	RM		Manchester DPW 1 	DPW 	FMN 	Public Works 
+453.78750 	458.78750  	KB92249 	RM		Manchester DPW 2 	DPW 	FMN 	Public Works 
+151.43000 	   	 	M	162.2 PL	WHITE 	Tactical [WHITE] 	FMN 	Fire-Talk 
+154.17500 	   	 	M	CSQ	GREEN 	Tactical [GREEN] 	FMN 	Fire-Talk 
+154.29500 	   	 	M	CSQ	RED 	Statewide DNR Fireground 	FMN 	Fire-Talk 
+154.37000 	   	 	M	CSQ	GREY 	Western Wayne Co. Ops [GREY] 	FMN 	Fire-Talk 
+154.41500 	   	 	M	162.2 PL	BLUE 	Tactical [BLUE] 	FMN 	Fire-Talk 
+154.43000 	   	 	M	CSQ	Monroe County 	Monroe County Operations 	FMN 	Fire-Talk 
+155.04000 	   	KBM396 	BM	CSQ	Ypsilanti DPW 	Department of Public Works Operations 	FMN 	Public Works 
+155.29500 	   	WNQI549 	BM	162.2 PL	HVA EMS Page 	EMS Dispatch / Paging 	FMN 	EMS Dispatch 
+155.16000 	   	WNQI549 	BM	97.4 PL	HVA EMS 38 	EMS Operations - Jackson County (38) 	FMN 	EMS-Tac 
+458.02500 	   	KQZ814 	M	CSQ	HVA EMS MX 1 	EMS Mobile Repeater 1 	FMN 	EMS-Tac 
+458.07500 	   	KQZ814 	M	CSQ	HVA EMS MX 2 	EMS Mobile Repeater 2 	FMN 	EMS-Tac 
+458.12500 	   	KQZ814 	M	CSQ	HVA EMS MX 3 	EMS Mobile Repeater 3 	FMN 	EMS-Tac 
+458.17500 	   	KQZ814 	M	CSQ	HVA EMS MX 4 	EMS Mobile Repeater 4 	FMN 	EMS-Tac 
+151.16750 	159.44750  	WXY367 	RM		CEMS EMS 81 	EMS Dispatch / Operations - Washtenaw County (81) 	FMN 	EMS Dispatch 
+460.56250 	   	WXY367 	M	CSQ	CEMS MX 1 	EMS Mobile Repeater 1 	FMN 	EMS-Tac 
+465.56250 	   	WXY367 	M	CSQ	CEMS MX 2 	EMS Mobile Repeater 2 	FMN 	EMS-Tac 
+463.63750 	   	WQFU486 	M		Chelsea CHs Ops1 	Operations/Security 	FMN 	Business 
+464.02500 	   	WQFU486 	M		Chelsea CmHosp2  	Operations/Security 	FMN 	Business 
+468.63750 	   	WQFU486 	M		Chelsea CH Ops 3 	Operations/Security 	FMN 	Business 
+469.01250 	   	WQFU486 	M		Chelsea CH Ops 4 	Operations/Security 	FMN 	Business 
+469.03750 	   	WQFU486 	M		Chelsea CH Ops 5 	Operations/Security 	FMN 	Business 
+469.06250 	   	WQFU486 	M		Chelsea CH Ops 6 	Operations/Security 	FMN 	Business 
+469.08750 	   	WQFU486 	M		Chelsea CH Ops 7 	Operations/Security 	FMN 	Business 
+469.11250 	   	WQFU486 	M		Chelsea CH Ops 8 	Operations/Security 	FMN 	Business 
+469.13750 	   	WQFU486 	M		Chelsea CH Ops 9 	Operations/Security 	FMN 	Business 
+155.34000 	   	KTE676 	BM	136.5 PL	Chelsea CH HEARN 	EMS to Hospital Notification (VHF Radio Plan - Hospital Base Station Transmits: 97.4 PL) 	FMN 	Hospital 
+464.87500 	469.87500  	WQBZ243 	RM	131.8 PL	St Joe AA Ops. 1 	Security Operations / Shuttles 	FMN 	Business 
+462.07500 	467.07500  	WQBZ243 	RM		St Joe AA Ops. 2 	Security Operations / Shuttles 	FMN 	Business 
+464.60000 	   	WPNX707 	M		St Joe AA Ops. 3 	Hospital Operations 	FMN 	Business 
+452.80000 	457.80000  	WPPC639 	RM		St Joe AA E.R.T. 	Emergency Room Triage 	FMN 	Hospital 
+157.45000 	   	KZE629 	B	CSQ	StJoeAA Paging 	Hospital Paging 	FMN 	Data 
+155.34000 	   	KZE629 	BM	82.5 PL	St Joes AA HEARN 	EMS to Hospital Notification (VHF Radio Plan - Hospital Base Station Transmits: 97.4 PL) 	FMN 	Hospital 
+463.15000 	468.15000  	KZE629 	RM	162.2 PL	St Joe AA Med-7 	EMS to Hospital Notification (MED-7) 	FMN 	Hospital 
+155.34000 	   	KZE629 	BM	91.5 PL	St JoeHosp HEARN 	EMS to Hospital Notification (VHF Radio Plan 	FMN 	Hospital 
+155.34000 	   	KZE629 	BM	97.4 PL	St JoeHosp - EMS 	Hospital to EMS 	FMN 	Hospital 
+423.10000 	428.10000  	WPBE766 	RM		UM Hosp Security 	Security 	DMR 	Security 
+422.82500 	427.82500  	WPBX678 	RM		UM Hosp. Ops 1 	Operations 	DMR 	Business 
+424.97500 	429.97500  	WPBX678 	RM		U-M Hosp Ops 2 	Operations 	DMR 	Business 
+424.85000 	429.85000  	WPBX678 	RM		UM Hosp Houskpng 	Housekeeping 	DMR 	Business 
+422.60000 	427.60000  	WPBX678 	RM		UMH HVAC 	Heating and Cooling 	DMR 	Business 
+424.77500 	429.77500  	WPLR519 	RM		U-M Hosp BioMed 	BioMedical Services 	DMR 	Business 
+424.70000 	429.70000  	WPBX678 	RM		U-M Hosp. Nurses 	S.W.A.T. Nurses 	DMR 	Hospital 
+423.32500 	428.32500  	WPBT990 	RM		U-M Hosp Trauma 	Trauma Team 	DMR 	Hospital 
+155.16000 	   	KRM927 	BM	162.2 PL	UMHSF Disp. 	Survival Flight - Dispatch / Paging 	FMN 	EMS Dispatch 
+130.60000 	   	WPWF645 	BM	CSQ	UMHSF Air 	Survival Flight - Air Operations 	AM 	Aircraft 
+155.34000 	   	KRM927 	BM	141.3 PL	UM Hosp HEARN 	EMS to Hospital Notification (VHF Radio Plan - Hospital Base Station Transmits: 97.4 PL) 	FMN 	Hospital 
+422.80000 	427.20000  	WNXK713 	RM	156.7 PL	EMU PhyscalPlant 	Physical Plant [Ch 2] 	FMN 	Public Works 
+461.92500 	466.92500  	WPBK464 	RM	91.5 PL	EMU Grounds 	Operations (Grounds) [Ch 3] 	FMN 	Public Works 
+464.92500 	469.92500  	WQJT234 	RM	023 DPL	EMU Secrity Ops 	Operations 	FMN 	Security 
+452.81250 	   	WQPS841 	M	162 DPL	EMU Robb RecCntr 	Olds/Robb Student Rec Center 	FMN 	Schools 
+153.52250 	   	WQPT401 	M		Eagle Crest 	Eagle Crest Resort: Ops 	FMN 	Schools 
+153.61250 	   	WQPT401 	M		Eagle Crest 	Eagle Crest Resort: Ops 	FMN 	Schools 
+158.30250 	   	WQPT401 	M		Eagle Crest 	Eagle Crest Resort: Ops 	FMN 	Schools 
+159.53250 	   	WQPT401 	M		Eagle Crest 	Eagle Crest Resort: Ops 	FMN 	Schools 
+463.38750 	468.38750  	WQTE504 	RM		Concordia Maint. 	Maintenance 	FMN 	Schools 
+464.55000 	469.55000  	WPWG744 	RM	156.7 PL	UM StudentUnion 	Student Union 	FMN 	Schools 
+464.55000 	469.55000  	WPWG744 	RM	162.2 PL	UM League 	League 	FMN 	Schools 
+461.46250 	466.46250  	WPWG744 	RM		UM StudentSrvcs 	Operations 	FMN 	Schools 
+461.63750 	466.63750  	WQJF386 	RM		UM Theatre 1 	Theater Arts Complex 	FMN 	Schools 
+452.38750 	   	WQJF386 	M		UM Theatre 2 	Theater Arts Complex 	FMN 	Schools 
+452.43750 	   	WQJF386 	M		UM Theatre 3 	Theater Arts Complex 	FMN 	Schools 
+461.88750 	   	WQJF386 	M		UM Theatre 4 	Theater Arts Complex 	FMN 	Schools 
+463.53750 	   	WQJF386 	M		UM Theatre 5 	Theater Arts Complex 	FMN 	Schools 
+463.58750 	   	WQJF386 	M		UM Theatre 6 	Theater Arts Complex 	FMN 	Schools 
+451.31250 	   	WPZR904 	M		UM Productions 1 	University Productions 	FMN 	Schools 
+451.41250 	   	WPZR904 	M		UM Productions 2 	University Productions 	FMN 	Schools 
+452.03750 	   	WPZR904 	M		UM Productions 3 	University Productions 	FMN 	Schools 
+464.32500 	   	WPZR904 	M		UM Productions 4 	University Productions 	FMN 	Schools 
+464.82500 	   	WPZR904 	M		UM Productions 5 	University Productions 	FMN 	Schools 
+464.03750 	   	WREM675 	M		UM Library 1 	Library 1 	DMR 	Schools 
+464.13750 	   	WREM675 	M		UM Library 2 	Library 2 	DMR 	Schools 
+464.26250 	   	WREM675 	M		UM Library 3 	Library 3 	DMR 	Schools 
+469.03750 	   	WREM675 	M		UM Library 4 	Library 4 	DMR 	Schools 
+469.13750 	   	WREM675 	M		UM Library 5 	Library 5 	DMR 	Schools 
+451.38750 	   	WRAC544 	M		Musical Society 	Musical Society 	DMR 	Schools 
+451.43750 	   	WRAC544 	M		Musical Society 	Musical Society 	DMR 	Schools 
+451.61250 	   	WRAC544 	M		Musical Society 	Musical Society 	DMR 	Schools 
+452.66250 	   	WRAC544 	M		Musical Society 	Musical Society 	DMR 	Schools 
+456.61250 	   	WRAC544 	M		Musical Society 	Musical Society 	DMR 	Schools 
+452.42500 	457.42500  	WPMG321 	RM	023 DPL	UM CPU Techs 	Computer Techs 	FMN 	Schools 
+464.03750 	   	WQXR890 	M		UM Alumni 1 	Alumni Association 1 	FMN 	Schools 
+464.11250 	   	WQXR890 	M		UM Alumni 2 	Alumni Association 2 	FMN 	Schools 
+469.03750 	   	WQXR890 	M		UM Alumni 3 	Alumni Association 3 	DMR 	Schools 
+469.11250 	   	WQXR890 	M		UM Alumni 4 	Alumni Association 4 	FMN 	Schools 
+469.13750 	   	WQXR890 	M		UM Alumni 5 	Alumni Association 5 	DMR 	Schools 
+451.87500 	456.87500  	WQYU243 	RM	156.7 PL	WCC Security A 	Security: Dispatch 	FMN 	Security 
+464.95000 	469.95000  	WQYU243 	RM	127.3 PL	WCC Security B 	Security: Secondary 	FMN 	Security 
+452.52500 	   	WQYU243 	M		WCC Security A 	Security: Talkaround 	FMN 	Security 
+452.57500 	   	WQYU243 	M		WCC Securty D 	Security 	FMN 	Security 
+464.80000 	469.80000  	WQYU243 	RM	156.7 PL	WCC Security E 	Security: Events 	FMN 	Security 
+452.45000 	457.42500  	WQYU243 	RM	192.8 PL	WCC Maintenance 	Maintenance 	FMN 	Schools 
+452.50000 	457.50000  	WQME939 	RM	127.3 PL	WCC Maint-Elect  	Mechanical and Electrical Systems 	FMN 	Schools 
+456.67500 	   	WQYU243 	M		WCC Events 1 	Special Events 	FMN 	Schools 
+457.67500 	   	WQYU243 	M		WCC Events 2 	Special Events 	FMN 	Schools 
+464.32500 	   	WQMI427 	M	156.7 PL	WCC Events 3 	Off-Site Events 	FMN 	Schools 
+466.08750 	   	WQMI427 	M	156.7 PL	WCC Events 4 	Off-Site Events 	FMN 	Schools 
+467.10000 	   	WQMI427 	M	156.7 PL	WCC Events 5 	Off-Site Events 	FMN 	Schools 
+467.87500 	   	WQMI427 	M	156.7 PL	WCC Events 6 	Off-Site Events 	FMN 	Schools 
+467.92500 	   	WQMI427 	M	156.7 PL	WCC Events 7 	Off-Site Events 	FMN 	Schools 
+422.87500 	427.87500  	WQWL236 	RM		Ann Arbor Buses 	Transporation: Primary 	NXDN 	Schools 
+452.02500 	457.02500  	WQFX514 	RM		Pioneer High 	Pioneer High School: Security 	FMN 	Security 
+452.12500 	457.12500  	WQFX514 	RM	85.4 PL	PionrHS Security 	Pioneer High School: Security 	FMN 	Security 
+452.85000 	457.85000  	WQFX514 	RM		Huron High 	Huron High School: Security 	FMN 	Security 
+452.97500 	457.97500  	WQFX514 	RM		HuronHS Security 	Huron High School: Security 	FMN 	Security 
+460.68750 	465.68750  	 	RM	192.8 PL	Huron HS Secruty 	Huron High School: Security/Hall Monitors 	FMN 	Schools 
+461.06250 	466.06000  	 	RM	192.8 PL	Skyline High 	Skyline High School (was Citywide - Snowplows) 	FMN 	Schools 
+461.60000 	466.60000  	WQFX514 	RM		PionrHS Security 	Pioneer High School: Security 	FMN 	Schools 
+461.87500 	466.87500  	WQFX514 	RM		AA PS Huron HS 	Huron High School: Security 	FMN 	Schools 
+469.21250 	   	 			Huron HS Secruty 	Huron High School: Security/Hall Monitors 	FMN 	Schools 
+461.52500 	466.52500  	WYK935 	RM		Chelsea SD Sec 	Security 	FMN 	Schools 
+464.32500 	469.32500  	WYK935 	RM	94.8 PL	Chelsea SD Trans 	Transportation 	FMN 	Schools 
+461.27500 	466.27500  	WPXF742 	RM	97.4 PL	Dexter CS Transp 	Transportation 	FMN 	Schools 
+451.51250 	   	WQUJ296 	M		Dexter CS Ops 1 	School Operations 	NXDN 	Schools 
+452.06250 	   	WQUJ296 	M		Dexter CS Ops 2 	School Operations 	NXDN 	Schools 
+452.28750 	   	WQUJ296 	M		Dexter CS Ops 3 	School Operations 	NXDN 	Schools 
+456.36250 	   	WQUJ296 	M		Dexter CS Ops 4 	School Operations 	NXDN 	Schools 
+456.41250 	   	WQUJ296 	M		Dexter CS Ops 5 	School Operations 	NXDN 	Schools 
+456.51250 	   	WQUJ296 	M		Dexter CS Ops 6 	School Operations 	NXDN 	Schools 
+457.06250 	   	WQUJ296 	M		Dexter CS Ops 7 	School Operations 	NXDN 	Schools 
+457.13750 	   	WQUJ296 	M		Dexter CS Ops 8 	School Operations 	NXDN 	Schools 
+457.28750 	   	WQUJ296 	M		Dexter CS Ops 9 	School Operations 	NXDN 	Schools 
+457.48750 	   	WQUJ296 	M		Dexter CS Ops 10 	School Operations 	NXDN 	Schools 
+464.82500 	   	WNLY606 	BM	110.9 PL	Lncln CSch Trans 	Ops 	FMN 	Schools 
+464.67500 	469.67500  	WQE944 	RM	351 DPL	Milan School Bus 	Transportation: Primary  	FMN 	Schools 
+461.07500 	466.07500  	WNHE453 	RM	146.2 PL	Saline Buses 	Transportation [F-1] 	FMN 	Schools 
+452.78750 	457.78750  	WNHE453 	RM	114.8 PL	Saline HS Ops 	High School Operations 	FMN 	Schools 
+452.46250 	457.46250  	WNHE453 	RM		Saline MdlSc Ops 	Middle School Operations 	FMN 	Schools 
+422.55000 	427.55000  	WNHE453 	RM		Saline Schools 	Operations 	DMR 	Schools 
+424.45000 	429.45000  	WNHE453 	RM		Saline Schools 	Operations 	DMR 	Schools 
+457.52500 	   	WNHE453 	M	203.5 PL	Saline MidSc Sec 	Middle School Security/Hall Monitors 	FMN 	Schools 
+457.55000 	   	WNHE453 	M	203.5 PL	Saline HS Secrty 	High School Security/Hall Monitors 	FMN 	Schools 
+452.03750 	   	WNHE453 	M		Saline Schools 	Operations 	FMN 	Schools 
+452.08750 	   	WNHE453 	M		Saline Schol Ops 	Operations 	FMN 	Schools 
+452.16250 	   	WNHE453 	M		Saline Schools 	Operations 	FMN 	Schools 
+452.23750 	   	WNHE453 	M		Saline School 	Operations 	FMN 	Schools 
+452.46250 	   	WNHE453 	M		Saline TA Direct 	Talkaround 	FMN 	Schools 
+457.46250 	   	WNHE453 	M		SalneField Trips 	Field Trips 	FMN 	Schools 
+461.35000 	   	WNYL835 	M		Saline Schls Ops 	Operations 	FMN 	Schools 
+461.40000 	   	WNYK670 	M		Saline Schools 	Operations 	FMN 	Schools 
+461.42500 	   	WNYK669 	M		Saline Ops 	Operations 	FMN 	Schools 
+464.47500 	   	WNYL843 	M		Saline Operation 	Operations 	FMN 	Schools 
+464.82500 	   	WNYM908 	M		Saline Schl Ops 	Operations 	FMN 	Schools 
+464.97500 	   	WNYK671 	M		Saline Schol Ops 	Operations 	FMN 	Schools 
+464.00000 	469.00000  	WNXB476 	RM	110.9 PL	WhitmrLkSchl Bus 	Transportation 	FMN 	Schools 
+155.22000 	   	WPXW562 	BM	91.5 PL	Ypsilanti Bus 2 	Transportation: Secondary 	FM 	Schools 
+Adrian and Blissfield Railroad Company	 NXDN Icom IDAS Type D	 Blissfield	American Center For Mobility	 DMR Motorola Capacity Plus Single Site (TRBO)	 Ypsilanti	Ann Arbor-Washtenaw County Government System	 Motorola Type II Smartnet	 Ann Arbor
+Consumers Energy	 EDACS Networked Standard	 Various	DeltaCom	 NXDN NEXEDGE 4800	 Varies	FCA US: Chelsea Proving Grounds	 DMR Motorola Capacity Plus Single Site (TRBO)	 Chelsea
+Federal Correctional Institution: Milan	 Motorola Type II SmartZone	 Milan	General Motors: Willow Run	 DMR Motorola Capacity Plus Single Site (TRBO)	 Ypsilanti	Repeater Systems	 DMR Motorola Connect Plus (TRBO)	 Various
+Thomson Reuters	 DMR Motorola Capacity Plus Single Site (TRBO)	 Ann Arbor	University of Michigan: Athletics Dept.	 DMR Motorola Capacity Plus Single Site (TRBO)	 Ann Arbor	

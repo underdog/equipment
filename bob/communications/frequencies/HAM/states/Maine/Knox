@@ -1,47 +1,47 @@
-152.20250 	 	RM	203.5 PL	KNOX RCC 	Knox County Fire/EMS 	FMN 	Fire Dispatch 
-152.56250 	 	BM	127.3 PL	KCFIRENTac 	Knox County Fire/EMS North Tac 	FMN 	Fire-Tac 
-153.99500 	WQNQ903 	BM	203.5 PL	KNOX SO 	Knox County Sheriff's Office 	FMN 	Law Dispatch 
-154.22000 	WNHF254 	RM	151.4 PL	KCLAWTAC 	Knox County Law TAC 	FMN 	Law Tac 
-155.38500 	WNHF254 	RM	103.5 PL	KCFIRESTac 	Knox County Fire/EMS South Tac 	FMN 	Fire-Tac 
-155.67000 	WQEI511 	RM	203.5 PL	KnoxCtyJail 	Jail 	FMN 	Corrections 
-155.74500 	KZC560 	RM	CSQ	Knox EMA 	Knox County EMA 	FMN 	Emergency Ops 
-152.00750 	KJI605 	R		PBMC Paging 	Penobscot Bay Medical Center - paging 	FMN 	Hospital 
-155.34000 	WPQY997 	B	136.5 PL	Pen Bay Med 	Penobscot Bay Medical Center 	FMN 	Hospital 
-153.78500 	WQUT581 	M	141.3 PL	Appleton FD 	Appleton Fire Department 	FM 	Fire-Talk 
-152.75000 	 	RM	192.8 PL	Ski Comps. 	Camden Snow Bowl-Ski Competitions 	FM 	Public Works 
-153.92000 	KA92911 	RM	192.8 PL	Snow Bowl 1 	Camden Snow Bowl-Activities 	FM 	Public Works 
-154.08500 	KA92911 	RM	192.8 PL	Snow Bowl 2 	Camden Snow Bowl-Activities 	FM 	Public Works 
-154.37000 	WNGJ295 	BM	123.0 PL	Camden FD 	Camden Fire Department 	FM 	Fire-Talk 
-154.80000 	KCE796 	BM	141.3 PL	Camden PD 	Police Dispatch 	FM 	Law Dispatch 
-155.08500 	KCF582 	B	67.0 PL	CAMDEN PW 	Camden Public Works 	FM 	Public Works 
-156.00000 	KA92911 	RM	192.8 PL	Snow Bowl 3 	Camden Snow Bowl-Activities 	FM 	Public Works 
-154.02500 	KVX761 	RM	127.3 PL	Cushing FD 	Cushing Fire Department 	FM 	Fire-Talk 
-151.05500 	WPAF994 	BM	94.8 PL	FriendshipPW 	Friendship Public Works 	FM 	Public Works 
-151.29500 	KRZ275 	BM	94.8 PL	FriendshipFD 	Friendship Fire Department 	FM 	Fire-Talk 
-154.41500 	WPKF651 	RM	136.5 PL	Hope Fire 	Hope Fire Department 	FM 	Fire-Talk 
-154.20500 	WPRR642 	RM		N Haven FD  	North Haven Fire Department 	FM 	Fire-Talk 
-155.91000 	WPRR642 	M		N Haven EMS 	North Haven EMS 	FM 	EMS-Talk 
-154.23500 	KFN511 	RM	606 DPL	OwlsHeadFD 	Owls Head Fire Department 	FM 	Fire-Talk 
-151.11500 	KBT789 	B	192.8 PL	RocklandDump 	Rockland Dump 	FM 	Public Works 
-153.68000 	WNWZ862 	RM	141.3 PL	Rockland PD 	Police 	FM 	Law Dispatch 
-154.32500 	WNHF254 	B	241.8 PL	Rockland FD 	Rockland Fire Department 	FM 	Fire-Talk 
-156.16500 	KBT789 	BM	192.8 PL	Rockland PW 	Rockland Public Works 	FM 	Public Works 
-154.19000 	KDL860 	RM	151.4 PL	Rockport FD 	Rockport Fire Department 	FM 	Fire-Talk 
-155.14500 	KTE377 	BM	CSQ	Rockport PW 	Rockport Public Works 	FM 	Multi-Talk 
-152.39000 	 	RM	77.0 PL	RSU 13 	Regional School Unit 13(Cushing, Owls Head,Rockland, South Thomaston, Thomaston) 	FM 	Schools 
-463.30000 	 	RM	155 DPL	RSU 40 	Regional School Unit 40(Friendship, Union, Warren, Washington) 	FM 	Schools 
-154.34000 	WNYA545 	RM	173.8 PL	S Thom FD 	South Thomaston Fire Department 	FM 	Fire-Talk 
-151.47500 	KNDZ358 	RM	110.9 PL	St.GeorgeFD 	St. George Fire Department 	FM 	Fire Dispatch 
-155.01000 	KRI602 	BM	186.2 PL	Thomaston PD 	Police 	FM 	Law Dispatch 
-155.04000 	KRI602 	BM	CSQ	Thomaston PW 	Public Works 	FM 	Public Works 
-155.08500 	WQKU249 	RM	131.8 PL	Thomaston FD 	Fire 	FM 	Fire-Talk 
-158.94000 	WPMV874 	BM		Thomaston PC 	Pollution Control 	FM 	Public Works 
-154.98000 	WNSL330 	B	123.0 PL	Union FD/PW 	Union Fire Department(Shared with DPW) 	FM 	Fire-Talk 
-154.37000 	WQJU892 	BM		V-Haven FD 	Vinalhaven Fire Department 	FM 	Fire-Talk 
-158.83500 	WNRM909 	B		V-Haven PW 	Vinalhaven Public Works 	FM 	Public Works 
-151.08500 	KNFT996 	BM		Warren Hwy 	Highway Department 	FM 	Public Works 
-154.43000 	KLU466 	B	88.5 PL	Warren FD 	Warren Fire Department 	FM 	Fire-Talk 
-154.35500 	WNRO796 	B	88.5 PL	WashingtonFD 	Washington Fire Department 	FM 	Fire-Talk 
-Atlantic Communications	 DMR Conventional Networked	 Various	Atlantic Communications	 LTR Standard	 Various	Central Maine Power	 LTR Standard
- Various	Maine State Communications Network (MSCommNet)	 Project 25 Phase I	 Statewide	MaineStream Solutions	 NXDN Icom IDAS Type D	 Falmouth	MedComm
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Mid-Coast Maine LTR	 LTR Standard	 Midcoast	
+152.20250 	158.66250  	 	RM	203.5 PL	KNOX RCC 	Knox County Fire/EMS 	FMN 	Fire Dispatch 
+152.56250 	   	 	BM	127.3 PL	KCFIRENTac 	Knox County Fire/EMS North Tac 	FMN 	Fire-Tac 
+153.99500 	155.87250  	WQNQ903 	BM	203.5 PL	KNOX SO 	Knox County Sheriff's Office 	FMN 	Law Dispatch 
+154.22000 	150.79000  	WNHF254 	RM	151.4 PL	KCLAWTAC 	Knox County Law TAC 	FMN 	Law Tac 
+155.38500 	159.06000  	WNHF254 	RM	103.5 PL	KCFIRESTac 	Knox County Fire/EMS South Tac 	FMN 	Fire-Tac 
+155.67000 	158.97000  	WQEI511 	RM	203.5 PL	KnoxCtyJail 	Jail 	FMN 	Corrections 
+155.74500 	   	KZC560 	RM	CSQ	Knox EMA 	Knox County EMA 	FMN 	Emergency Ops 
+152.00750 	   	KJI605 	R		PBMC Paging 	Penobscot Bay Medical Center - paging 	FMN 	Hospital 
+155.34000 	   	WPQY997 	B	136.5 PL	Pen Bay Med 	Penobscot Bay Medical Center 	FMN 	Hospital 
+153.78500 	   	WQUT581 	M	141.3 PL	Appleton FD 	Appleton Fire Department 	FM 	Fire-Talk 
+152.75000 	158.01000  	 	RM	192.8 PL	Ski Comps. 	Camden Snow Bowl-Ski Competitions 	FM 	Public Works 
+153.92000 	   	KA92911 	RM	192.8 PL	Snow Bowl 1 	Camden Snow Bowl-Activities 	FM 	Public Works 
+154.08500 	   	KA92911 	RM	192.8 PL	Snow Bowl 2 	Camden Snow Bowl-Activities 	FM 	Public Works 
+154.37000 	   	WNGJ295 	BM	123.0 PL	Camden FD 	Camden Fire Department 	FM 	Fire-Talk 
+154.80000 	156.00000  	KCE796 	BM	141.3 PL	Camden PD 	Police Dispatch 	FM 	Law Dispatch 
+155.08500 	   	KCF582 	B	67.0 PL	CAMDEN PW 	Camden Public Works 	FM 	Public Works 
+156.00000 	   	KA92911 	RM	192.8 PL	Snow Bowl 3 	Camden Snow Bowl-Activities 	FM 	Public Works 
+154.02500 	159.00000  	KVX761 	RM	127.3 PL	Cushing FD 	Cushing Fire Department 	FM 	Fire-Talk 
+151.05500 	   	WPAF994 	BM	94.8 PL	FriendshipPW 	Friendship Public Works 	FM 	Public Works 
+151.29500 	154.28000  	KRZ275 	BM	94.8 PL	FriendshipFD 	Friendship Fire Department 	FM 	Fire-Talk 
+154.41500 	   	WPKF651 	RM	136.5 PL	Hope Fire 	Hope Fire Department 	FM 	Fire-Talk 
+154.20500 	   	WPRR642 	RM		N Haven FD  	North Haven Fire Department 	FM 	Fire-Talk 
+155.91000 	   	WPRR642 	M		N Haven EMS 	North Haven EMS 	FM 	EMS-Talk 
+154.23500 	   	KFN511 	RM	606 DPL	OwlsHeadFD 	Owls Head Fire Department 	FM 	Fire-Talk 
+151.11500 	   	KBT789 	B	192.8 PL	RocklandDump 	Rockland Dump 	FM 	Public Works 
+153.68000 	155.47500  	WNWZ862 	RM	141.3 PL	Rockland PD 	Police 	FM 	Law Dispatch 
+154.32500 	   	WNHF254 	B	241.8 PL	Rockland FD 	Rockland Fire Department 	FM 	Fire-Talk 
+156.16500 	   	KBT789 	BM	192.8 PL	Rockland PW 	Rockland Public Works 	FM 	Public Works 
+154.19000 	   	KDL860 	RM	151.4 PL	Rockport FD 	Rockport Fire Department 	FM 	Fire-Talk 
+155.14500 	   	KTE377 	BM	CSQ	Rockport PW 	Rockport Public Works 	FM 	Multi-Talk 
+152.39000 	   	 	RM	77.0 PL	RSU 13 	Regional School Unit 13(Cushing, Owls Head,Rockland, South Thomaston, Thomaston) 	FM 	Schools 
+463.30000 	   	 	RM	155 DPL	RSU 40 	Regional School Unit 40(Friendship, Union, Warren, Washington) 	FM 	Schools 
+154.34000 	   	WNYA545 	RM	173.8 PL	S Thom FD 	South Thomaston Fire Department 	FM 	Fire-Talk 
+151.47500 	153.95000  	KNDZ358 	RM	110.9 PL	St.GeorgeFD 	St. George Fire Department 	FM 	Fire Dispatch 
+155.01000 	159.15000  	KRI602 	BM	186.2 PL	Thomaston PD 	Police 	FM 	Law Dispatch 
+155.04000 	   	KRI602 	BM	CSQ	Thomaston PW 	Public Works 	FM 	Public Works 
+155.08500 	151.34000  	WQKU249 	RM	131.8 PL	Thomaston FD 	Fire 	FM 	Fire-Talk 
+158.94000 	   	WPMV874 	BM		Thomaston PC 	Pollution Control 	FM 	Public Works 
+154.98000 	   	WNSL330 	B	123.0 PL	Union FD/PW 	Union Fire Department(Shared with DPW) 	FM 	Fire-Talk 
+154.37000 	   	WQJU892 	BM		V-Haven FD 	Vinalhaven Fire Department 	FM 	Fire-Talk 
+158.83500 	   	WNRM909 	B		V-Haven PW 	Vinalhaven Public Works 	FM 	Public Works 
+151.08500 	   	KNFT996 	BM		Warren Hwy 	Highway Department 	FM 	Public Works 
+154.43000 	   	KLU466 	B	88.5 PL	Warren FD 	Warren Fire Department 	FM 	Fire-Talk 
+154.35500 	   	WNRO796 	B	88.5 PL	WashingtonFD 	Washington Fire Department 	FM 	Fire-Talk 
+Atlantic Communications	 DMR Conventional Networked	 Various	Atlantic Communications	 LTR Standard	 Various	Central Maine Power	 LTR Standard	 Various
+Maine State Communications Network (MSCommNet)	 Project 25 Phase I	 Statewide	MaineStream Solutions	 NXDN Icom IDAS Type D	 Falmouth	MedComm	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Mid-Coast Maine LTR	 LTR Standard	 Midcoast	

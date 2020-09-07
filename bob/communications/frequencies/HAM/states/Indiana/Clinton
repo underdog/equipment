@@ -1,39 +1,38 @@
-153.29000 	WPPB519 	BM	365 DPL	12-SAFE-T 	Sheriff & Fire Dispatch (Rebroadcast of SAFE-T) 	FMN 	Multi-Dispatch 
-155.41500 	KY6425 	RM	365 DPL	12-SO-DISP 	Sheriff - Dispatch (Backup) 	FMN 	Law Dispatch 
-156.24000 	KDC973 	RM		12-SO-TAC-2 	Sheriff - Tactical (Backup) 	FMN 	Law Tac 
-156.13500 	KY6425 	M		12-SO-TAC-3 	Sheriff - Tactical (Backup) 	FMN 	Law Tac 
-155.13000 	KY6425 	M		A-BASE-CAR 	Sheriff - Plan A Base-to-Car (Backup) 	FMN 	Interop 
-154.89000 	KY6425 	M		A-CAR-BASE 	Sheriff - Plan A Car-to-Base (Backup) 	FMN 	Interop 
-155.47500 	KY6425 	M		ILEEN 	Sheriff - ILEEN 	FMN 	Interop 
-460.47500 	WPTE525 	RM		12-SO-JAIL 	Sheriff - Jail Operations 	FMN 	Law Tac 
-151.26500 	WPYB565 	RM	114 DPL	12-FPD-DISP 	Frankfort Police Dispatch (Backup) 	FMN 	Law Dispatch 
-154.72500 	KSA869 	BM		12-FPD-TAC 	Frankfort Police Tactical (Backup) 	FMN 	Law Tac 
-154.99500 	KSC975 	BM	71.9 PL	12-FPD-OPS 	Frankfort Police Operations (Backup) 	FMN 	Law Tac 
-47.42000 	WQMN836 	BM		CLINTON RED-X 	American Red Cross 	FM 	Emergency Ops 
-154.22000 	KDN422 	BM	CSQ	12-FD-DISP 	Clinton County Fire Dispatch 	FMN 	Fire Dispatch 
-155.83500 	KZZ773 	RM	110.9 PL	12-EMA-OPS 	Clinton County EMA (Backup) 	FMN 	Emergency Ops 
-155.02500 	KZZ773 	BM		EMA-STATE 	Statewide EMA 	FMN 	Emergency Ops 
-453.03750 	WQMR282 	M		12-FD-EVENTS 	Fire & EMS Events 	FMN 	Fire-Talk 
-154.04000 	KNNP729 	BM		12-FD-ROSS 	Rossville Fire - Secondary 	FMN 	Fire-Tac 
-154.28000 	KDN422 	BM		12-FD-FRANK 	Frankfort Fire - Secondary 	FMN 	Fire-Tac 
-154.34000 	KBR865 	BM		12-FD-HAZMAT 	Frankfort Fire - HazMat Unit 	FMN 	Fire-Tac 
-154.35500 	KNGG919 	BM		12-FD-MICH 	Michigan Twp. VFD - Fireground 	FMN 	Fire-Tac 
-154.44500 	WPAD884 	BM		12-FD-PERRY 	Perry Twp. VFD - Fireground 	FMN 	Fire-Tac 
-151.43000 	WQCL546 	BM		12-FD-MADISN 	Madison Twp. VFD - Fireground 	FMN 	Fire-Tac 
-155.19000 	WQEE283 	BM		12-FD-KIRKLN 	Kirklin VFD - Fireground 	FMN 	Fire-Tac 
-155.59500 	WQJF830 	BM		12-FD-FOREST 	Forest VFD - Fireground 	FMN 	Fire-Tac 
-155.38500 	KZJ503 	BM	CSQ	12-EMS-OPS-1 	Clinton County EMS Operations 	FMN 	EMS-Tac 
-155.34000 	KZJ503 	BM		12-EMS-IHERN 	Clinton County EMS - IHERN 	FMN 	Hospital 
-156.24000 	KDC973 	RM	127.3 PL	12-HWY-MAIN 	Highway Department 	FMN 	Public Works 
-154.99500 	KSC975 	BM	71.9 PL	FFT Streets 	Frankfort Street Department 	FMN 	Public Works 
-153.53000 	KSF564 	BM		FFT Water 1 	Frankfort Water Department 	FMN 	Utilities 
-154.11500 	KNBE928 	BM	CSQ	FFT Water 2 	Frankfort Water Department 	FMN 	Utilities 
-855.16250 	WPRM555 	RM	114.8 PL	FFT CPL 	Frankfort City Power & Light 	FMN 	Utilities 
-151.35500 	WQEE283 	BM		FFT Parks 	Frankfort Parks Department 	FMN 	Public Works 
-160.15500 	WPRH242 	BM		12-DPW-Colfx 	Colfax Municipal Utilities 	FMN 	Utilities 
-464.40000 	KUV704 	RM	192.8 PL	AreaIV-Bus 	Area IV Council on Aging Transport 	FM 	Transportation 
-152.34500 	WPUT631 	RM	136.5 PL	FSC-Schools 	Frankfort Community Schools 	FMN 	Schools 
-152.93000 	WQGY879 	BM		RCSC-Schools 	Rossville Consolidated School Corporation 	FMN 	Schools 
-461.25000 	WPAM707 	RM		CPSC-Schools 	Clinton Prairie School Corporation 	FMN 	Schools 
-463.72500 	WPBT294 	RM		CCSC-Schools 	Clinton Central School Corporation 	FMN 	Schools 
-Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	
+153.29000 	   	WPPB519 	BM	365 DPL	12-SAFE-T 	Sheriff & Fire Dispatch (Rebroadcast of SAFE-T) 	FMN 	Multi-Dispatch 
+155.41500 	   	KY6425 	RM	365 DPL	12-SO-DISP 	Sheriff - Dispatch (Backup) 	FMN 	Law Dispatch 
+156.24000 	   	KDC973 	RM		12-SO-TAC-2 	Sheriff - Tactical (Backup) 	FMN 	Law Tac 
+156.13500 	   	KY6425 	M		12-SO-TAC-3 	Sheriff - Tactical (Backup) 	FMN 	Law Tac 
+155.13000 	   	KY6425 	M		A-BASE-CAR 	Sheriff - Plan A Base-to-Car (Backup) 	FMN 	Interop 
+154.89000 	   	KY6425 	M		A-CAR-BASE 	Sheriff - Plan A Car-to-Base (Backup) 	FMN 	Interop 
+155.47500 	   	KY6425 	M		ILEEN 	Sheriff - ILEEN 	FMN 	Interop 
+460.47500 	465.47500  	WPTE525 	RM		12-SO-JAIL 	Sheriff - Jail Operations 	FMN 	Law Tac 
+151.26500 	   	WPYB565 	RM	114 DPL	12-FPD-DISP 	Frankfort Police Dispatch (Backup) 	FMN 	Law Dispatch 
+154.72500 	   	KSA869 	BM		12-FPD-TAC 	Frankfort Police Tactical (Backup) 	FMN 	Law Tac 
+154.99500 	   	KSC975 	BM	71.9 PL	12-FPD-OPS 	Frankfort Police Operations (Backup) 	FMN 	Law Tac 
+47.42000 	   	WQMN836 	BM		CLINTON RED-X 	American Red Cross 	FM 	Emergency Ops 
+154.22000 	   	KDN422 	BM	CSQ	12-FD-DISP 	Clinton County Fire Dispatch 	FMN 	Fire Dispatch 
+155.83500 	155.14500  	KZZ773 	RM	110.9 PL	12-EMA-OPS 	Clinton County EMA (Backup) 	FMN 	Emergency Ops 
+155.02500 	   	KZZ773 	BM		EMA-STATE 	Statewide EMA 	FMN 	Emergency Ops 
+453.03750 	   	WQMR282 	M		12-FD-EVENTS 	Fire & EMS Events 	FMN 	Fire-Talk 
+154.04000 	   	KNNP729 	BM		12-FD-ROSS 	Rossville Fire - Secondary 	FMN 	Fire-Tac 
+154.28000 	   	KDN422 	BM		12-FD-FRANK 	Frankfort Fire - Secondary 	FMN 	Fire-Tac 
+154.34000 	   	KBR865 	BM		12-FD-HAZMAT 	Frankfort Fire - HazMat Unit 	FMN 	Fire-Tac 
+154.35500 	   	KNGG919 	BM		12-FD-MICH 	Michigan Twp. VFD - Fireground 	FMN 	Fire-Tac 
+154.44500 	   	WPAD884 	BM		12-FD-PERRY 	Perry Twp. VFD - Fireground 	FMN 	Fire-Tac 
+151.43000 	   	WQCL546 	BM		12-FD-MADISN 	Madison Twp. VFD - Fireground 	FMN 	Fire-Tac 
+155.19000 	   	WQEE283 	BM		12-FD-KIRKLN 	Kirklin VFD - Fireground 	FMN 	Fire-Tac 
+155.59500 	   	WQJF830 	BM		12-FD-FOREST 	Forest VFD - Fireground 	FMN 	Fire-Tac 
+155.38500 	   	KZJ503 	BM	CSQ	12-EMS-OPS-1 	Clinton County EMS Operations 	FMN 	EMS-Tac 
+155.34000 	   	KZJ503 	BM		12-EMS-IHERN 	Clinton County EMS - IHERN 	FMN 	Hospital 
+156.24000 	159.10500  	KDC973 	RM	127.3 PL	12-HWY-MAIN 	Highway Department 	FMN 	Public Works 
+154.99500 	   	KSC975 	BM	71.9 PL	FFT Streets 	Frankfort Street Department 	FMN 	Public Works 
+153.53000 	   	KSF564 	BM		FFT Water 1 	Frankfort Water Department 	FMN 	Utilities 
+154.11500 	   	KNBE928 	BM	CSQ	FFT Water 2 	Frankfort Water Department 	FMN 	Utilities 
+855.16250 	810.16250  	WPRM555 	RM	114.8 PL	FFT CPL 	Frankfort City Power & Light 	FMN 	Utilities 
+151.35500 	   	WQEE283 	BM		FFT Parks 	Frankfort Parks Department 	FMN 	Public Works 
+160.15500 	   	WPRH242 	BM		12-DPW-Colfx 	Colfax Municipal Utilities 	FMN 	Utilities 
+464.40000 	469.50000  	KUV704 	RM	192.8 PL	AreaIV-Bus 	Area IV Council on Aging Transport 	FM 	Transportation 
+152.34500 	157.60500  	WPUT631 	RM	136.5 PL	FSC-Schools 	Frankfort Community Schools 	FMN 	Schools 
+152.93000 	   	WQGY879 	BM		RCSC-Schools 	Rossville Consolidated School Corporation 	FMN 	Schools 
+461.25000 	466.25000  	WPAM707 	RM		CPSC-Schools 	Clinton Prairie School Corporation 	FMN 	Schools 
+463.72500 	468.72500  	WPBT294 	RM		CCSC-Schools 	Clinton Central School Corporation 	FMN 	Schools 

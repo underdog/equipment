@@ -1,24 +1,24 @@
-154.23500 	KEC468 	RM	186.2 PL	LPFD North 	North Lafourche Fire Dispatch  	FMN 	Fire Dispatch 
-154.34000 	KNFP363 	BM	136.5 PL	LPFD South 	South Lafourche Fire Dispatch 	FMN 	Fire Dispatch 
-155.23500 	WNWB620 	RM	77.0 PL	LP-EMS Disp 	Lafourche Ambulance Dispatch 	FMN 	EMS Dispatch 
-155.34000 	WNWB620 	BM	CSQ	LP-EMS Net 	Lafourche Ambulance ER Net 	FMN 	EMS-Tac 
-151.04000 	WPZN881 	RM		LPMA/Gheens 	Gheens Fire/Parishwide Mutual Aid 	FMN 	Interop 
-154.14500 	WPJK331 	BM		VGVFD Ground 	Vacherie-Gheens Fireground 	FMN 	Fire-Tac 
-158.80500 	WPRJ562 	RM	114.8 PL	Lkpt/VG Fire 	Lockport, Vacherie-Gheens Fire Dispatch 	FMN 	Fire Dispatch 
-154.43000 	KNGY896 	BM		BBVFD Ground 	Bayou Blue Fireground (Dispatched by Terrebone Parish) 	FMN 	Fire-Tac 
-154.99500 	KNIJ368 	RM	466 DPL	FD1-DISP   	Lafourche Fire Dist 1 VHF Dispatch Backup 	FMN 	Fire Dispatch 
-155.28000 	KNIJ368 	BM	466 DPL	FD1-Fgnd 	Lafourche Fire Dist 1 VHF Fireground (Backup) 	FMN 	Fire-Tac 
-33.90000 	KNIJ368 	BM	CSQ	FD1-LB1    	Lafourche Fire Dist 1 Low Band Dispatch (Backup) 	FM 	Fire Dispatch 
-33.84000 	KNIJ368 	BM	CSQ	FD1-LB2    	Lafourche Fire Dist 1 Low Band Fireground 1 (Backup) 	FM 	Fire-Tac 
-33.74000 	KNIJ368 	BM	CSQ	FD1-LB3    	Lafourche Fire Dist 1 Low Band Fireground 2 (Backup) 	FM 	Fire-Tac 
-155.08500 	KWF961 	BM		LPPW VHF 	Parish Public Works (Most ops on LWIN) 	FMN 	Public Works 
-853.96250 	WPCA427 	RM	8FA NAC	N Lafch Fire BU 	North Lafourche Fire Dispatch (Failsoft for LWIN) 	P25e 	Fire Dispatch 
-854.36250 	WRCB651 	RM	8FA NAC	Lafch D2 Fire BU 	Lafourche Fire District 2 Dispatch (Failsoft for LWIN) 	P25e 	Fire Dispatch 
-155.86500 	KFV893 	RM		LP Schools 	Schools Maintenance 	FMN 	Schools 
-464.50000 	 	M		CLHS 	Central Lafourche High School (Mathews) 	FMN 	Schools 
-151.92500 	WZY967 	BM		NichSt Maint 	Maintenance 	FM 	Schools 
-155.02500 	WPPC759 	RM	114.8 PL	Thibx FD 1 	Thibodaux Fire Dispatch (linked to TG 33521 LWIN) 	FMN 	Fire Dispatch 
-154.02500 	WPRI397 	BM		Thibx FD 2 	Thibodaux Fire Ch. 2 	FMN 	Fire-Tac 
-155.92500 	 	RM		Thibx PubWks 	Thibodaux Public Works 	FMN 	Public Works 
-859.03750 	WRCL596 	RM	8FA NAC	Thib VFD 800 MHz 	Thibodaux VFD (Failsoft to LWIN) 	P25e 	Fire Dispatch 
-Entergy 	 Project 25 Phase II	 Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	
+154.23500 	151.46000  	KEC468 	RM	186.2 PL	LPFD North 	North Lafourche Fire Dispatch  	FMN 	Fire Dispatch 
+154.34000 	150.79000  	KNFP363 	BM	136.5 PL	LPFD South 	South Lafourche Fire Dispatch 	FMN 	Fire Dispatch 
+155.23500 	158.86500  	WNWB620 	RM	77.0 PL	LP-EMS Disp 	Lafourche Ambulance Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	WNWB620 	BM	CSQ	LP-EMS Net 	Lafourche Ambulance ER Net 	FMN 	EMS-Tac 
+151.04000 	159.19500  	WPZN881 	RM		LPMA/Gheens 	Gheens Fire/Parishwide Mutual Aid 	FMN 	Interop 
+154.14500 	   	WPJK331 	BM		VGVFD Ground 	Vacherie-Gheens Fireground 	FMN 	Fire-Tac 
+158.80500 	150.77500  	WPRJ562 	RM	114.8 PL	Lkpt/VG Fire 	Lockport, Vacherie-Gheens Fire Dispatch 	FMN 	Fire Dispatch 
+154.43000 	   	KNGY896 	BM		BBVFD Ground 	Bayou Blue Fireground (Dispatched by Terrebone Parish) 	FMN 	Fire-Tac 
+154.99500 	150.80500  	KNIJ368 	RM	466 DPL	FD1-DISP   	Lafourche Fire Dist 1 VHF Dispatch Backup 	FMN 	Fire Dispatch 
+155.28000 	   	KNIJ368 	BM	466 DPL	FD1-Fgnd 	Lafourche Fire Dist 1 VHF Fireground (Backup) 	FMN 	Fire-Tac 
+33.90000 	   	KNIJ368 	BM	CSQ	FD1-LB1    	Lafourche Fire Dist 1 Low Band Dispatch (Backup) 	FM 	Fire Dispatch 
+33.84000 	   	KNIJ368 	BM	CSQ	FD1-LB2    	Lafourche Fire Dist 1 Low Band Fireground 1 (Backup) 	FM 	Fire-Tac 
+33.74000 	   	KNIJ368 	BM	CSQ	FD1-LB3    	Lafourche Fire Dist 1 Low Band Fireground 2 (Backup) 	FM 	Fire-Tac 
+155.08500 	   	KWF961 	BM		LPPW VHF 	Parish Public Works (Most ops on LWIN) 	FMN 	Public Works 
+853.96250 	808.96250  	WPCA427 	RM	8FA NAC	N Lafch Fire BU 	North Lafourche Fire Dispatch (Failsoft for LWIN) 	P25e 	Fire Dispatch 
+854.36250 	809.36250  	WRCB651 	RM	8FA NAC	Lafch D2 Fire BU 	Lafourche Fire District 2 Dispatch (Failsoft for LWIN) 	P25e 	Fire Dispatch 
+155.86500 	155.11500  	KFV893 	RM		LP Schools 	Schools Maintenance 	FMN 	Schools 
+464.50000 	   	 	M		CLHS 	Central Lafourche High School (Mathews) 	FMN 	Schools 
+151.92500 	   	WZY967 	BM		NichSt Maint 	Maintenance 	FM 	Schools 
+155.02500 	158.76000  	WPPC759 	RM	114.8 PL	Thibx FD 1 	Thibodaux Fire Dispatch (linked to TG 33521 LWIN) 	FMN 	Fire Dispatch 
+154.02500 	   	WPRI397 	BM		Thibx FD 2 	Thibodaux Fire Ch. 2 	FMN 	Fire-Tac 
+155.92500 	   	 	RM		Thibx PubWks 	Thibodaux Public Works 	FMN 	Public Works 
+859.03750 	814.03750  	WRCL596 	RM	8FA NAC	Thib VFD 800 MHz 	Thibodaux VFD (Failsoft to LWIN) 	P25e 	Fire Dispatch 
+Entergy 	 Project 25 Phase II	 Various	

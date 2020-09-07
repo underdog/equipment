@@ -1,46 +1,46 @@
-156.21000 	WPPX386 	RM	CC 10TG 200SL 1	BCSO-VHF D 	Sheriff Primary Dispatch 	DMR 	Law Dispatch 
-156.21000 	WPPX386 	RM	CC 10TG *SL 2	BCSO-VHF D 2 	Sheriff South Operations 	DMR 	Law Dispatch 
-855.96250 	WPUP615 	RM	043 DPL	BAX SO 800 	Sheriff - Secondary Dispatch 	FM 	Law Dispatch 
-155.69250 	WPPX386 	RM	CC 12TG 200SL 1	BSCO-OPS 	Sheriff - Operations 	DMR 	Law Tac 
-155.57250 	WQLT795 	RM	CC 1TG 1SL 1	BC-LAW 1 	Cotter, Gassville, Lakeview Police (Countywide Law) Linked to 154.8600 	DMR 	Law Dispatch 
-154.86000 	WPXN808 	RM	CC 1TG 1SL 1	BC-LAW 2 	Cotter, Gassville, Lakeview Police (Countywide Law) Linked to 155.5725 	DMR 	Law Dispatch 
-154.96500 	WNDV216 	RM	132 DPL	BCFD-DISP A 	Baxter County Fire Dispatch Analog 	FMN 	Fire Dispatch 
-154.96500 	WNDV216 	RM		BCFD-DISP D 	Baxter County Fire Dispatch *Digital* 	DMR 	Fire Dispatch 
-154.81500 	WPBZ871 	M		BAXTER FG A 	Fire - Countywide Fireground *Analog* 	FMN 	Fire-Tac 
-154.81500 	WPBZ871 	M	CC 1TG 1SL 1	BAXTER FG D 	Countywide Fireground *Digital* 	DMR 	Fire-Tac 
-155.32500 	WRB586 	RM	703 DPL	BRMC-EMS PAGE 	Baxter Regional Medical Center EMS - Paging 	FMN 	EMS Dispatch 
-155.58750 	WRB586 	RM	25 RAN	BRMC-EMS OPS1 	Baxter Regional Medical Center EMS - Operations 1 	NXDN 	EMS Dispatch 
-155.61750 	WRB586 	RM	25 RAN	BRMC-EMS NORFORK 	Baxter Regional Medical Center EMS - Norfork 	NXDN 	EMS Dispatch 
-155.78250 	WRB586 	RM		BRMC-EMS OPS2 	Baxter Regional Medical Center EMS - Operations 	NXDN 	EMS-Tac 
-151.01750 	WRB586 	BM		BRMC-EMS ADMIN 	Baxter Regional Medical Center EMS - Admin 	NXDN 	EMS-Talk 
-155.34000 	WRB586 	BM		BRMC-HEAR 	Baxter Regional Medical Center Emergency Department 	FMN 	Hospital 
-154.98000 	WQDW856 	RM	CC 13TG 1SL 1	BUFORD FD DISP 	Buford  Fire Dispatch 	DMR 	Law Talk 
-154.44500 	WPQE974 	RM	CC 8TG 1SL 1	RVFD-OPS D 	Rodney VFD Operations *Digital* 	DMR 	Fire-Tac 
-155.08500 	WPQF824 	RM	CC 11TG 1SL 1	HVFD-OPS D 	Henderson VFD Operations *Digital* 	DMR 	Fire-Tac 
-155.11500 	WPQF825 	RM	CC 6TG 1SL 1	CVFD-OPS D 	Clarkridge VFD Operations *Digital* 	DMR 	Fire-Tac 
-154.31000 	WNYS685 	BM		MIDWAY DISP 	Midway Fire - Dispatch 	FMN 	Fire Dispatch 
-154.26500 	WNYS685 	M		MIDWAY FG 	Midway Fire - Fireground 	FMN 	Fire-Tac 
-154.34000 	WPQG900 	RM	CC 4TG 1SL 1	MVFD-OPS D 	Midway VFD Operations *Digital* 	DMR 	Fire-Tac 
-154.34000 	WPQG900 	RM	115 DPL	MVFD-OPS A 	Midway VFD Operations *Analog* 	FMN 	Fire-Tac 
-155.14500 	WPJQ611 	RM	CC 1TG 1SL 1	BAX ROADS 	County Roads and Bridges 	DMR 	Public Works 
-451.35000 	WQG566 	BM		BXTR RMC HC 	Baxter County Regional Healthcare Operations 	DMR 	Business 
-451.95000 	WQG566 	BM		BXTR RMC HC 	Baxter County Regional Healthcare Operations 	DMR 	Business 
-452.20000 	WQG566 	BM		BXTR RMC HC 	Baxter County Regional Healthcare Operations 	DMR 	Business 
-461.87500 	WQG566 	BM		BXTR RMC HC 	Baxter County Regional Healthcare Operations 	DMR 	Business 
-461.91250 	WPAC625 	RM		BXTR RMS MNT 	Baxter County Regional Maintenance 	DMR 	Business 
-462.20000 	WQG566 	RM		BXTR RMS SEC 	Baxter County Regional Security/Maintenance 	DMR 	Security 
-462.85000 	WPPY350 	B		BXT RMC PAG 	Baxter County Regional Paging 	FM 	Hospital 
-463.32500 	WQG566 	BM		BXTR RMC HC 	Baxter County Regional Healthcare Operations 	DMR 	Business 
-463.91250 	WPAY555 	BM		BXTR RMS SEC 	Baxter County Regional Security/Maintenance 	DMR 	Security 
-468.91250 	WPAY555 	M		BXTR RMS SEC 	Baxter County Regional Security/Maintenance 	DMR 	Security 
-154.75500 	WPLZ956 	BM		SALESVILLE DPS 	Public Safety 	FMN 	Multi-Dispatch 
-453.05000 	WPKZ587 	RM		MTN HOME FD 	Mtn Home Fire - Dispatch (Simulcast from TRS) 	FMN 	Fire Dispatch 
-855.23750 	WPEM573 	RM		MTN HOME PS-BU 	Mtn Home Public Safety - Back up for TRS 	FM 	Multi-Dispatch 
-453.92500 	WPPV222 	RM		MTN HOME MDT 	Mtn Home City MDT's 	FMN 	Data 
-155.23500 	WPQD507 	BM		MTN HOME Sch 	Mountain Home Schools Transportation 	FMN 	Schools 
-163.37500 	 	BM	107.2 PL	ACE Ops 	Ops 	FMN 	Military 
-151.68500 	WQIG914 	BM		ASU MNT/SEC 	Maintenance/Security 	FMN 	Security 
-151.95500 	WQIG914 	BM		ASU MNT/SEC 	Maintenance/Security 	FMN 	Security 
-159.55500 	WQIG914 	BM		ASU MNT/SEC 	Maintenance/Security 	FMN 	Security 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	Mountain Home (NexEDGE)	 NXDN NEXEDGE 4800	 Mountain Home	
+156.21000 	153.96500  	WPPX386 	RM	CC 10TG 200SL 1	BCSO-VHF D 	Sheriff Primary Dispatch 	DMR 	Law Dispatch 
+156.21000 	153.96500  	WPPX386 	RM	CC 10TG *SL 2	BCSO-VHF D 2 	Sheriff South Operations 	DMR 	Law Dispatch 
+855.96250 	810.96250  	WPUP615 	RM	043 DPL	BAX SO 800 	Sheriff - Secondary Dispatch 	FM 	Law Dispatch 
+155.69250 	158.80500  	WPPX386 	RM	CC 12TG 200SL 1	BSCO-OPS 	Sheriff - Operations 	DMR 	Law Tac 
+155.57250 	158.93250  	WQLT795 	RM	CC 1TG 1SL 1	BC-LAW 1 	Cotter, Gassville, Lakeview Police (Countywide Law) Linked to 154.8600 	DMR 	Law Dispatch 
+154.86000 	159.13500  	WPXN808 	RM	CC 1TG 1SL 1	BC-LAW 2 	Cotter, Gassville, Lakeview Police (Countywide Law) Linked to 155.5725 	DMR 	Law Dispatch 
+154.96500 	153.84500  	WNDV216 	RM	132 DPL	BCFD-DISP A 	Baxter County Fire Dispatch Analog 	FMN 	Fire Dispatch 
+154.96500 	153.84500  	WNDV216 	RM		BCFD-DISP D 	Baxter County Fire Dispatch *Digital* 	DMR 	Fire Dispatch 
+154.81500 	   	WPBZ871 	M		BAXTER FG A 	Fire - Countywide Fireground *Analog* 	FMN 	Fire-Tac 
+154.81500 	   	WPBZ871 	M	CC 1TG 1SL 1	BAXTER FG D 	Countywide Fireground *Digital* 	DMR 	Fire-Tac 
+155.32500 	155.05500  	WRB586 	RM	703 DPL	BRMC-EMS PAGE 	Baxter Regional Medical Center EMS - Paging 	FMN 	EMS Dispatch 
+155.58750 	   	WRB586 	RM	25 RAN	BRMC-EMS OPS1 	Baxter Regional Medical Center EMS - Operations 1 	NXDN 	EMS Dispatch 
+155.61750 	   	WRB586 	RM	25 RAN	BRMC-EMS NORFORK 	Baxter Regional Medical Center EMS - Norfork 	NXDN 	EMS Dispatch 
+155.78250 	   	WRB586 	RM		BRMC-EMS OPS2 	Baxter Regional Medical Center EMS - Operations 	NXDN 	EMS-Tac 
+151.01750 	   	WRB586 	BM		BRMC-EMS ADMIN 	Baxter Regional Medical Center EMS - Admin 	NXDN 	EMS-Talk 
+155.34000 	   	WRB586 	BM		BRMC-HEAR 	Baxter Regional Medical Center Emergency Department 	FMN 	Hospital 
+154.98000 	153.90500  	WQDW856 	RM	CC 13TG 1SL 1	BUFORD FD DISP 	Buford  Fire Dispatch 	DMR 	Law Talk 
+154.44500 	150.80500  	WPQE974 	RM	CC 8TG 1SL 1	RVFD-OPS D 	Rodney VFD Operations *Digital* 	DMR 	Fire-Tac 
+155.08500 	150.77500  	WPQF824 	RM	CC 11TG 1SL 1	HVFD-OPS D 	Henderson VFD Operations *Digital* 	DMR 	Fire-Tac 
+155.11500 	158.89500  	WPQF825 	RM	CC 6TG 1SL 1	CVFD-OPS D 	Clarkridge VFD Operations *Digital* 	DMR 	Fire-Tac 
+154.31000 	   	WNYS685 	BM		MIDWAY DISP 	Midway Fire - Dispatch 	FMN 	Fire Dispatch 
+154.26500 	   	WNYS685 	M		MIDWAY FG 	Midway Fire - Fireground 	FMN 	Fire-Tac 
+154.34000 	158.86500  	WPQG900 	RM	CC 4TG 1SL 1	MVFD-OPS D 	Midway VFD Operations *Digital* 	DMR 	Fire-Tac 
+154.34000 	158.86500  	WPQG900 	RM	115 DPL	MVFD-OPS A 	Midway VFD Operations *Analog* 	FMN 	Fire-Tac 
+155.14500 	   	WPJQ611 	RM	CC 1TG 1SL 1	BAX ROADS 	County Roads and Bridges 	DMR 	Public Works 
+451.35000 	   	WQG566 	BM		BXTR RMC HC 	Baxter County Regional Healthcare Operations 	DMR 	Business 
+451.95000 	   	WQG566 	BM		BXTR RMC HC 	Baxter County Regional Healthcare Operations 	DMR 	Business 
+452.20000 	   	WQG566 	BM		BXTR RMC HC 	Baxter County Regional Healthcare Operations 	DMR 	Business 
+461.87500 	   	WQG566 	BM		BXTR RMC HC 	Baxter County Regional Healthcare Operations 	DMR 	Business 
+461.91250 	   	WPAC625 	RM		BXTR RMS MNT 	Baxter County Regional Maintenance 	DMR 	Business 
+462.20000 	467.20000  	WQG566 	RM		BXTR RMS SEC 	Baxter County Regional Security/Maintenance 	DMR 	Security 
+462.85000 	   	WPPY350 	B		BXT RMC PAG 	Baxter County Regional Paging 	FM 	Hospital 
+463.32500 	   	WQG566 	BM		BXTR RMC HC 	Baxter County Regional Healthcare Operations 	DMR 	Business 
+463.91250 	   	WPAY555 	BM		BXTR RMS SEC 	Baxter County Regional Security/Maintenance 	DMR 	Security 
+468.91250 	   	WPAY555 	M		BXTR RMS SEC 	Baxter County Regional Security/Maintenance 	DMR 	Security 
+154.75500 	   	WPLZ956 	BM		SALESVILLE DPS 	Public Safety 	FMN 	Multi-Dispatch 
+453.05000 	458.05000  	WPKZ587 	RM		MTN HOME FD 	Mtn Home Fire - Dispatch (Simulcast from TRS) 	FMN 	Fire Dispatch 
+855.23750 	810.23750  	WPEM573 	RM		MTN HOME PS-BU 	Mtn Home Public Safety - Back up for TRS 	FM 	Multi-Dispatch 
+453.92500 	458.92500  	WPPV222 	RM		MTN HOME MDT 	Mtn Home City MDT's 	FMN 	Data 
+155.23500 	   	WPQD507 	BM		MTN HOME Sch 	Mountain Home Schools Transportation 	FMN 	Schools 
+163.37500 	   	 	BM	107.2 PL	ACE Ops 	Ops 	FMN 	Military 
+151.68500 	   	WQIG914 	BM		ASU MNT/SEC 	Maintenance/Security 	FMN 	Security 
+151.95500 	   	WQIG914 	BM		ASU MNT/SEC 	Maintenance/Security 	FMN 	Security 
+159.55500 	   	WQIG914 	BM		ASU MNT/SEC 	Maintenance/Security 	FMN 	Security 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various
+Mountain Home (NexEDGE)	 NXDN NEXEDGE 4800	 Mountain Home	

@@ -1,79 +1,56 @@
-155.68500 	KRK930 	RM	117 NAC	MCS WEST 	Merrimack County Sheriff Dispatch "West" 	P25 	Law Dispatch 
-155.70000 	KRK930 	BM	117 NAC	MCS EAST 	Merrimack County Sheriff Dspatch "East" 	P25 	Law Dispatch 
-155.47500 	KRK930 	BM	136.5 PL	Natl Law 2 	Police Statewide 	FMN 	Law Talk 
-156.09000 	KCA792 	BM	136.5 PL	NHSP South 	State Police LCL South (Mutual Aid) 	FMN 	Interop 
-155.73000 	WNRR478 	RM	156.7 PL	Dept Of Corr 	Department of Corrections Primary 	FMN 	Law Dispatch 
-159.09000 	WQA717 	RM	317 NAC	East Simul 	Merrimack County Sheriff Dispatch "East" Simulcast 	P25 	Law Talk 
-460.40000 	WQLS989 	RM	131 DPL	MCNH OPS 	Merrimack County Nursing Home Operations 	FMN 	Business 
-154.35500 	KVF642 	BM	136.5 PL	CAFMAC Dsp1 	Dispatch 	FMN 	Fire Dispatch 
-154.23500 	KVF642 	BM	136.5 PL	CAFMAC FG  2 	Fireground 	FMN 	Fire Dispatch 
-154.22000 	KVF642 	BM	136.5 PL	CAFMAC  FG 3 	Fireground / Training 	FMN 	Fire-Tac 
-154.31000 	WYC727 	BM	136.5 PL	CAFMAC FG 5 	Fireground / Deering Tactical 	FMN 	Fire-Tac 
-154.37000 	KB50158 	M	136.5 PL	CAFMAC FG 6 	Fireground 	FMN 	Fire-Tac 
-158.76000 	KNHZ809 	RM	136.5 PL	CAFMAC FG 7 	Hooksett Tactical 	FMN 	Fire-Tac 
-154.22750 	KVF642 	M	136.5 PL	CAFMAC FG 8 	Fireground Mobiles/Portables 	FMN 	Fire-Tac 
-156.23250 	WQKG403 	BM	146.2 PL	CAFMAC CH 10 	Concord Hospital Tactical Operations 	FMN 	Fire-Tac 
-154.99500 	KMA297 	BM	136.5 PL	KVFMAC1 Disp 	Ch. 1 Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-154.16000 	WXP391 	BM	136.5 PL	KVFMAC 2 Tac 	Ch. 2 Tactical Primary 	FMN 	Fire-Tac 
-155.60250 	WQCM608 	BM	136.5 PL	KVFMAC 3 Tac 	Ch. 3 Tactical 	FMN 	Fire-Tac 
-154.28000 	KVF642 	BM	136.5 PL	KVFMAC 4 Stw 	Ch. 4 Statewide Tactical 	FMN 	Fire-Tac 
-154.02500 	WQU418 	BM	136.5 PL	KVFMAC 5 Tac 	Ch. 5 Tactical 	FMN 	Fire-Tac 
-155.83500 	WPLX345 	BM	173.8 PL	KVFMAC 6 Tac 	Ch. 6 Tactical 	FMN 	Fire-Tac 
-153.83000 	 	RM	136.5 PL	KVFMAC 7 Tac 	Ch. 7 Tactical 	FMN 	Fire-Tac 
-154.44500 	 	RM	114.8 PL	KVFMAC 8 Sun 	Ch. 8 Fire/EMS Sunapee Dispatch 	FMN 	Fire-Tac 
-159.90000 	WPUN953 	BM	210.7 PL	LRMFA Disp 1 	Dispatch / Primary Operations 	FMN 	Fire Dispatch 
-159.90000 	WPUN953 	M	331 DPL	LRMFA FG 2 	Secondary Dispatch / Alternate Fireground 	FMN 	Fire-Tac 
-160.15500 	WPUN953 	M	331 DPL	LRMFA FG 3 	Fireground 	FMN 	Fire-Tac 
-154.30250 	WPUN953 	M	331 DPL	LRMFA FG 5 	Fireground 	FMN 	Fire-Tac 
-154.98750 	WPUN983 	RM	331 DPL	LRMFARpt 7 	Belknap, Tecumseh, and Tenney repeaters 	FMN 	Fire-Tac 
-151.15250 	 	BM	225.7 PL	PubWorks 	Allenstwon Highway 	FMN 	Public Works 
-159.42000 	WQDC389 	BM		Andover Hwy 	Highway 	FMN 	Public Works 
-156.16500 	WPPW504 	RM	466 DPL	BscwnHwy/PD2 	Highway Department Primary/Police Secondary 	FMN 	Interop 
-155.76000 	KCH727 	RM	117 NAC	BowDispCentr 	Police Dispatch (includes Weare, New Boston, and Dunbarton Police 	P25 	Law Dispatch 
-151.13000 	WPGY524 	BM	136.5 PL	Bow DPW 	Highway Department 	FMN 	Law Dispatch 
-159.13500 	KD41671 	M		Brdfd HwyDpt 	Bradford Highway Dept 	FMN 	Public Works 
-151.01000 	WPDX479 	BM	151.4 PL	CanterbryHwy 	Highway 	FMN 	Public Works 
-150.99500 	WQIA749 	RM		Chcht EmMgt 	Chichester Emergency Management Interoperability 	FMN 	Emergency Ops 
-151.01000 	WQIA749 	RM	136.5 PL	Chichtr Hwy 	Chichester Highway Department 	FMN 	Public Works 
-453.47500 	WNHW542 	RM	114.8 PL	FAO Ops UHF 	Fire Alarm Operations 	FMN 	Fire-Tac 
-453.11250 	KD44612 	M	179.9 PL	CFA CityLink 	Fire Department Downlink 	FMN 	Fire-Talk 
-155.62500 	KCA792 	RM	117 NAC	Conc PD 1 	Police Operations 	P25 	Law Dispatch 
-155.82000 	KNJK423 	BM	117 NAC	Conc PD 2 	Police Secondary / Special Operations 	P25 	Law Tac 
-155.34000 	WQBB716 	BM	146.2 PL	Med1ConcHosp 	Concord Hospital Med-1 Primary Ambulances 	FMN 	EMS Dispatch 
-155.38500 	WQBB716 	BM	146.2 PL	Med2ConcHosp 	Concord Hospital Med-2 Secondary Ambulances 	FMN 	EMS-Tac 
-155.28000 	WQBB716 	BM	146.2 PL	Med3ConcHosp 	Concord Hospital Med-3 Hospital Coordiration 	FMN 	EMS-Tac 
-155.02500 	WPPW604 	BM	136.5 PL	EOC CH 2 	Emergency Operations Center 	FMN 	Emergency Ops 
-158.80500 	WPTB598 	BM	136.5 PL	ConcGenSvcs 	General Services Department "Citywide" 	FMN 	Public Works 
-159.12000 	WPTB598 	BM	136.5 PL	ConcGenSvHwy 	General Services Department "Highway Division" 	FMN 	Public Works 
-452.12500 	WPNR566 	M	043 DPL	ConcHighSch 	Concord High School 	FMN 	Schools 
-452.22500 	WPNR566 	M	043 DPL	ConcHighSch 	Concord High School 	FMN 	Schools 
-453.90000 	KNEN767 	RM	203.5 PL	Conc SchlBus 	School Buses 	FMN 	Transportation 
-460.75000 	WNUD889 	RM	136.5 PL	MerVlyHS Bus 	Merrimack Valley School Buses 	FM 	Transportation 
-461.37500 	KDA899 	RM	167.9 PL	ConcAreaTran 	Concord Area Transit Buses 	FM 	Transportation 
-158.80500 	QPTB598 	BM	192.8 PL	BvrMedwGolf1 	Beaver Meadow Golf Course Ch-1 	FMN 	Business 
-159.12000 	WPTB598 	BM	192.8 PL	BvrMedwGolf2 	Beaver Meadow Golf Course Ch-2 	FMN 	Business 
-154.98000 	WPMB331 	RM	136.5 PL	Dunb Town 	Town multi usage 	FMN 	Multi-Talk 
-154.51500 	KYM518 	BM		DunbTelphn 	Dunbarton Telephone Company 	FMN 	Utilities 
-153.92000 	WPCY412 	BM	136.5 PL	EpsomTown/PD 	Epsom Town Services (Police use w/P25 Mixed) 	FMN 	Public Works 
-154.78500 	WNSL326 	BM	527 NAC	Frkln PD Dsp 	Police Dispatch 	P25 	Law Dispatch 
-159.16500 	KNEN339 	BM	346 DPL	FrnklnPubWks 	Public Works 	FMN 	Public Works 
-151.07000 	WPMG812 	RM	136.5 PL	HennikerHwy 	Highway Department 	FMN 	Public Works 
-159.66000 	KNDS974 	RM	136.5 PL	W&H Buses 	Weare and Henniker School Buses 	FMN 	Schools 
-155.56500 	WQCE727 	BM	117 NAC	Hooksett PD 	Police 	P25 	Law Dispatch 
-33.06000 	KNJS444 	BM	136.5 PL	HopkintonHwy 	Highway 	FM 	Public Works 
-154.04000 	KVN625 	BM	136.5 PL	Loudon Town 	Loudon Town Services 	FMN 	Public Works 
-151.74500 	 	BM	192.8 PL	NewEngColege 	Campus Safety (Primary) 	FMN 	Security 
-157.56000 	 	BM	192.8 PL	NewEngColg 2 	Campus Safety 	FMN 	Security 
-155.01000 	WNFI996 	BM	136.5 PL	NewLndnPDDsp 	Police Dispatch 	FMN 	Law Dispatch 
-155.34000 	KQM788 	BM	82.5 PL	NL Hosp Med1 	New London Hospital Med-1 Ambulance Primary 	FMN 	Hospital 
-155.38500 	WSV418 	BM	82.5 PL	NL Hosp Med2 	New London Hospital Med-2 Ambulance Secondary 	FMN 	Hospital 
-155.28000 	WSV418 	BM	82.5 PL	NL Hosp Med3 	New London Hospital Med-3 Hospital Coordination 	FMN 	Hospital 
-155.17500 	WSV418 	BM	CSQ	NL Hosp Med4 	New London Hospital Med-4 Mutual Aid/Tactical-1 	FMN 	Interop 
-155.05500 	WNID798 	BM	136.5 PL	Northfld PD 	Police Dispatch - Daytime 	FMN 	Law Dispatch 
-159.10500 	WPRR812 	BM	156.7 PL	Northfld Hwy 	Highway Department 	FMN 	Public Works 
-46.10000 	KCD338 	BM	136.5 PL	PembEmrgMgmt 	Pembroke Emergency Management 	FM 	Emergency Ops 
-155.89500 	KNEN395 	BM	110.9 PL	Pitsfld Town 	Pittsfield Town Services 	FMN 	Public Works 
-154.10000 	WPVC509 	BM	136.5 PL	WarnrPubSfty 	Townwide Public Safety 	FMN 	Multi-Dispatch 
-Concord Hospital	 LTR Standard	 Concord	Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)	 Regional	Industrial Communications and Electronics (Epsom)	 Motorola Type II
- Epsom	MaineStream Solutions	 NXDN Icom IDAS Type D	 Falmouth	New Hampshire Department of Natural and Cultural Resources	 DMR Tier 3	 Varies	New Hampshire Electric Cooperative
- DMR Motorola Connect Plus (TRBO)	 Various	William Quimby	 LTR Standard	 Pembroke	
+155.68500 	155.13000  	KRK930 	RM	117 NAC	MCS WEST 	Sheriff Dispatch "West" 	P25 	Law Dispatch 
+155.70000 	   	KRK930 	BM	117 NAC	MCS EAST 	Sheriff Dspatch "East" 	P25 	Law Dispatch 
+159.09000 	   	WQA717 	RM	317 NAC	East Simul 	Sheriff Dispatch "East" Simulcast 	P25 	Law Talk 
+155.73000 	158.88750  	WNRR478 	RM	156.7 PL	Dept Of Corr 	Department of Corrections Primary 	FMN 	Law Dispatch 
+460.40000 	   	WQLS989 	RM	131 DPL	MCNH OPS 	Merrimack County Nursing Home Operations 	FMN 	Business 
+151.15250 	   	 	BM	225.7 PL	PubWorks 	Public Works 	FMN 	Public Works 
+159.42000 	   	WQDC389 	BM		Andover DPW 	Public Works 	FMN 	Public Works 
+156.16500 	158.98500  	WPPW504 	RM	466 DPL	BscwnHwy/PD2 	Public Works Primary/Police Secondary 	FMN 	Interop 
+155.76000 	154.11500  	KCH727 	RM	117 NAC	BowDispCentr 	Police Operations (includes Weare, New Boston, and Dunbarton Police 	P25 	Law Dispatch 
+151.13000 	   	WPGY524 	BM	136.5 PL	Bow DPW 	Public Works  	FMN 	Public Works 
+159.13500 	   	KD41671 	M		Brdfd DPW 	Public Works 	FMN 	Public Works 
+151.01000 	   	WPDX479 	BM	151.4 PL	Canterbry DPW 	Public Works 	FMN 	Public Works 
+150.99500 	   	WQIA749 	RM		Chcht EmMgt 	Emergency Management Interoperability 	FMN 	Emergency Ops 
+151.01000 	   	WQIA749 	RM	136.5 PL	Chichtr DPW 	Public Works 	FMN 	Public Works 
+155.62500 	154.80000  	KCA792 	RM	117 NAC	Conc PD 1 	Police Operations 	P25 	Law Dispatch 
+155.82000 	   	KNJK423 	BM	117 NAC	Conc PD 2 	Police Secondary / Special Operations 	P25 	Law Tac 
+453.47500 	458.47500  	WNHW542 	RM	114.8 PL	FAO Ops UHF 	Fire Alarm Operations 	FMN 	Fire-Tac 
+453.11250 	   	KD44612 	M	179.9 PL	CFA CityLink 	Fire Department Downlink 	FMN 	Fire-Talk 
+155.34000 	   	WQBB716 	BM	146.2 PL	Med1ConcHosp 	Concord Hospital Med-1 Primary Ambulances 	FMN 	EMS Dispatch 
+155.38500 	   	WQBB716 	BM	146.2 PL	Med2ConcHosp 	Concord Hospital Med-2 Secondary Ambulances 	FMN 	EMS-Tac 
+155.28000 	   	WQBB716 	BM	146.2 PL	Med3ConcHosp 	Concord Hospital Med-3 Hospital Coordiration 	FMN 	EMS-Tac 
+155.02500 	   	WPPW604 	BM	136.5 PL	EOC CH 2 	Emergency Operations Center 	FMN 	Emergency Ops 
+158.80500 	   	WPTB598 	BM	136.5 PL	ConcGenSvcs 	General Services Department "Citywide" 	FMN 	Public Works 
+159.12000 	   	WPTB598 	BM	136.5 PL	ConcGenSvHwy 	General Services Department "Highway Division" 	FMN 	Public Works 
+452.12500 	   	WPNR566 	M	043 DPL	ConcHighSch 	Concord High School 	FMN 	Schools 
+452.22500 	   	WPNR566 	M	043 DPL	ConcHighSch 	Concord High School 	FMN 	Schools 
+453.90000 	458.90000  	KNEN767 	RM	203.5 PL	Conc SchlBus 	School Buses 	FMN 	Transportation 
+460.75000 	465.75000  	WNUD889 	RM	136.5 PL	MerVlyHS Bus 	Merrimack Valley School Buses 	FM 	Transportation 
+461.37500 	466.37500  	KDA899 	RM	167.9 PL	ConcAreaTran 	Concord Area Transit Buses 	FM 	Transportation 
+158.80500 	   	QPTB598 	BM	192.8 PL	BvrMedwGolf1 	Beaver Meadow Golf Course Ch-1 	FMN 	Business 
+159.12000 	   	WPTB598 	BM	192.8 PL	BvrMedwGolf2 	Beaver Meadow Golf Course Ch-2 	FMN 	Business 
+154.98000 	   	WPMB331 	RM	136.5 PL	Dunb Town 	Townwide 	FMN 	Multi-Talk 
+154.51500 	   	KYM518 	BM		DunbTelphn 	Dunbarton Telephone Company 	FMN 	Utilities 
+153.92000 	   	WPCY412 	BM	136.5 PL	EpsomTown/PD 	Town Services (Police use w/P25 Mixed) 	FMN 	Public Works 
+154.78500 	   	WNSL326 	BM	527 NAC	Frkln PD Dsp 	Police Operations 	P25 	Law Dispatch 
+159.16500 	   	KNEN339 	BM	346 DPL	FrnklnPubWks 	Public Works 	FMN 	Public Works 
+151.07000 	159.07500  	WPMG812 	RM	136.5 PL	Henniker DPW 	Public Works 	FMN 	Public Works 
+159.66000 	   	KNDS974 	RM	136.5 PL	W&H Buses 	Weare and Henniker School Buses 	FMN 	Schools 
+155.56500 	   	WQCE727 	BM	117 NAC	Hooksett PD 	Police Operations 	P25 	Law Dispatch 
+33.06000 	   	KNJS444 	BM	136.5 PL	HopkintonHwy 	Public Works 	FM 	Public Works 
+154.04000 	   	KVN625 	BM	136.5 PL	Loudon Town 	Town Services 	FMN 	Public Works 
+151.74500 	   	 	BM	192.8 PL	NewEngColege 	Campus Safety (Primary) 	FMN 	Security 
+157.56000 	   	 	BM	192.8 PL	NewEngColg 2 	Campus Safety 	FMN 	Security 
+155.01000 	   	WNFI996 	BM	136.5 PL	NewLndnPDDsp 	Police Operations 	FMN 	Law Dispatch 
+155.34000 	   	KQM788 	BM	82.5 PL	NL Hosp Med1 	New London Hospital Med-1 Ambulance Primary 	FMN 	Hospital 
+155.38500 	   	WSV418 	BM	82.5 PL	NL Hosp Med2 	New London Hospital Med-2 Ambulance Secondary 	FMN 	Hospital 
+155.28000 	   	WSV418 	BM	82.5 PL	NL Hosp Med3 	New London Hospital Med-3 Hospital Coordination 	FMN 	Hospital 
+155.17500 	   	WSV418 	BM	CSQ	NL Hosp Med4 	New London Hospital Med-4 Mutual Aid/Tactical-1 	FMN 	Interop 
+155.05500 	   	WNID798 	BM	136.5 PL	Northfld PD 	Police Operations - Daytime 	FMN 	Law Dispatch 
+159.10500 	   	WPRR812 	BM	156.7 PL	Northfld DPW 	Public Works 	FMN 	Public Works 
+46.10000 	   	KCD338 	BM	136.5 PL	PembEmrgMgmt 	mergency Management 	FM 	Emergency Ops 
+155.89500 	   	KNEN395 	BM	110.9 PL	Pitsfld Town 	Townwide 	FMN 	Public Works 
+154.10000 	   	WPVC509 	BM	136.5 PL	WarnrPubSfty 	Townwide Public Safety 	FMN 	Multi-Dispatch 
+Concord Hospital	 LTR Standard	 Concord	Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)	 Regional	Industrial Communications and Electronics (Epsom)	 Motorola Type II	 Epsom
+MaineStream Solutions	 NXDN Icom IDAS Type D	 Falmouth	New Hampshire Department of Natural and Cultural Resources	 DMR Tier 3	 Varies	New Hampshire Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various
+William Quimby	 LTR Standard	 Pembroke	

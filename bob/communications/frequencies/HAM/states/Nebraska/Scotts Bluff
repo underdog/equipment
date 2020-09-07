@@ -1,26 +1,26 @@
-860.21250 	WPKU672 	RM	074 NAC	ScotsBlfCoSO 	Sheriff  (P25) TG 1 	P25 	Law Dispatch 
-860.21250 	WPKU672 	RM	074 DPL	ScotsBlfCoSO 	Sheriff (FMN) 	FMN 	Law Dispatch 
-859.73750 	WPZI512 	RM		ScotsBfCoMin 	Sheriff - Minatare Tower 	FMN 	Law Dispatch 
-860.73750 	WPKU672 	RM		SctsBfCoSOCH 	Sheriff - Court House Tower 	FMN 	Law Dispatch 
-155.07000 	WPKC794 	BM	127.3 PL	ScotsBCoJail 	County Jail 	FMN 	Corrections 
-853.81250 	 	RM	127.3 PL	ScotsBCOJail 	County Jail 	FMN 	Corrections 
-158.76000 	WQAQ681 	BM	107.2 PL	ScotsBfCoJuv 	County Juvenile Detention 	FMN 	Corrections 
-39.90000 	KAI875 	BM		SctsBfCoFDPa 	Fire Paging 	FM 	Fire Dispatch 
-854.98750 	WPWM264 	RM		SctBfCoFDTac 	Fire Talkaround 	FMN 	Fire-Tac 
-452.10000 	KAI875 	F	141.3 PL	SctsBfFDLnk 	Fire Dispatch (remote RF link?) 	FMN 	Fire Dispatch 
-453.37500 	WQCL679 	RM		SctsBlfRural 	Scottsbluff Rural/Mitchell/Minetatre Fire Dept's 	FMN 	Fire Dispatch 
-462.97500 	WPIS314 	RM	114.8 PL	Air/Grnd EMS 	EMS 	FMN 	EMS Dispatch 
-153.80000 	KNHS647 	BM	173.8 PL	SctsBfCoRoad 	County Roads / Airport 	FMN 	Public Works 
-451.15000 	WPUB890 	RM	146.2 PL	GrgFtLarIrig 	Gering-Ft Laramie Irrigation Dist. 	FM 	Public Works 
-860.26250 	WPKU672 	RM	051 NAC	GeringPD P25 	Police - Digital 	P25 	Law Dispatch 
-860.26250 	WPKU672 	RM	051 DPL	GeringPD An 	Police - Analog 	FMN 	Law Dispatch 
-453.30000 	WPKV712 	RM		Gering PubSa 	Public Safety 	FMN 	Law Dispatch 
-155.10000 	KDD938 	BM		GeringStreet 	City Streets 	FMN 	Public Works 
-460.57500 	WNUI264 	BM		Min DPW/FD 	Streets/Fire Department 	FMN 	Multi-Tac 
-860.23750 	WPKU672 	RM	131 NAC	ScottsBlufPD 	Police - Digital 	P25 	Law Dispatch 
-860.23750 	WPKU672 	RM	131 DPL	ScottsBlufPD 	Police - Analog 	FM 	Law Dispatch 
-860.48750 	WPKU672 	RM	156 NAC	ScotsBlufFD 	Fire - 800 	P25 	Fire Dispatch 
-154.44500 	WNFU718 	BM	CSQ	ScotsBlufFD 	Fire - VHF 	FMN 	Fire Dispatch 
-155.04000 	KDG300 	BM		SctsBfStreet 	Streets Department 	FMN 	Public Works 
-463.20000 	WQAA634 	RM		RWHosp Sec 	Regional West Hospital Security 	DMR 	Security 
-Action Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Basin Electric Power Cooperative	 MPT-1327 Standard	 Bismarck	
+860.21250 	815.21250  	WPKU672 	RM	074 NAC	ScotsBlfCoSO 	Sheriff  (P25) TG 1 	P25 	Law Dispatch 
+860.21250 	815.21250  	WPKU672 	RM	074 DPL	ScotsBlfCoSO 	Sheriff (FMN) 	FMN 	Law Dispatch 
+859.73750 	814.73750  	WPZI512 	RM		ScotsBfCoMin 	Sheriff - Minatare Tower 	FMN 	Law Dispatch 
+860.73750 	815.73750  	WPKU672 	RM		SctsBfCoSOCH 	Sheriff - Court House Tower 	FMN 	Law Dispatch 
+155.07000 	   	WPKC794 	BM	127.3 PL	ScotsBCoJail 	County Jail 	FMN 	Corrections 
+853.81250 	808.81250  	 	RM	127.3 PL	ScotsBCOJail 	County Jail 	FMN 	Corrections 
+158.76000 	   	WQAQ681 	BM	107.2 PL	ScotsBfCoJuv 	County Juvenile Detention 	FMN 	Corrections 
+39.90000 	   	KAI875 	BM		SctsBfCoFDPa 	Fire Paging 	FM 	Fire Dispatch 
+854.98750 	809.98750  	WPWM264 	RM		SctBfCoFDTac 	Fire Talkaround 	FMN 	Fire-Tac 
+452.10000 	   	KAI875 	F	141.3 PL	SctsBfFDLnk 	Fire Dispatch (remote RF link?) 	FMN 	Fire Dispatch 
+453.37500 	458.37500  	WQCL679 	RM		SctsBlfRural 	Scottsbluff Rural/Mitchell/Minetatre Fire Dept's 	FMN 	Fire Dispatch 
+462.97500 	467.97500  	WPIS314 	RM	114.8 PL	Air/Grnd EMS 	EMS 	FMN 	EMS Dispatch 
+153.80000 	154.10000  	KNHS647 	BM	173.8 PL	SctsBfCoRoad 	County Roads / Airport 	FMN 	Public Works 
+451.15000 	456.15000  	WPUB890 	RM	146.2 PL	GrgFtLarIrig 	Gering-Ft Laramie Irrigation Dist. 	FM 	Public Works 
+860.26250 	815.26250  	WPKU672 	RM	051 NAC	GeringPD P25 	Police - Digital 	P25 	Law Dispatch 
+860.26250 	815.26250  	WPKU672 	RM	051 DPL	GeringPD An 	Police - Analog 	FMN 	Law Dispatch 
+453.30000 	458.30000  	WPKV712 	RM		Gering PubSa 	Public Safety 	FMN 	Law Dispatch 
+155.10000 	   	KDD938 	BM		GeringStreet 	City Streets 	FMN 	Public Works 
+460.57500 	   	WNUI264 	BM		Min DPW/FD 	Streets/Fire Department 	FMN 	Multi-Tac 
+860.23750 	815.23750  	WPKU672 	RM	131 NAC	ScottsBlufPD 	Police - Digital 	P25 	Law Dispatch 
+860.23750 	815.23750  	WPKU672 	RM	131 DPL	ScottsBlufPD 	Police - Analog 	FM 	Law Dispatch 
+860.48750 	815.48750  	WPKU672 	RM	156 NAC	ScotsBlufFD 	Fire - 800 	P25 	Fire Dispatch 
+154.44500 	153.89000  	WNFU718 	BM	CSQ	ScotsBlufFD 	Fire - VHF 	FMN 	Fire Dispatch 
+155.04000 	   	KDG300 	BM		SctsBfStreet 	Streets Department 	FMN 	Public Works 
+463.20000 	468.20000  	WQAA634 	RM		RWHosp Sec 	Regional West Hospital Security 	DMR 	Security 
+Action Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Basin Electric Power Cooperative	 MPT-1327 Standard	 Bismarck	Nebraska State Radio System	 Project 25 Phase I	 Statewide

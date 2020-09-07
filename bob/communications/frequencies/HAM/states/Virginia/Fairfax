@@ -1,30 +1,31 @@
-151.59500 	WQHC668 	BM	CC 3TG 1SL 1	ThomEdison HS 	Thomas Edison High School 	DMR 	Schools 
-152.34500 	WQHG504 	RM	CC 1TG 1SL 1	Mount Vernon HS 	Mount Vernon High School 	DMR 	Schools 
-152.34500 	WQHG504 	RM	CC 3TG 1SL 1	Holmes MS 	Holmes Middle School 	DMR 	Schools 
-152.97500 	WQHC669 	RM	CC 2TG 1SL 1	Mark Twain MS 	Mark Twain Middle School 	DMR 	Schools 
-494.98750 	WIK666 	RM	CC 7TG 1SL 1	FFX CUE Bus 	City-University Energysaver (CUE) Bus System 	DMR 	Transportation 
-451.33750 	WPSQ739 	RM	CC 1TG *SL *	Herndon Wat/Sewr 	Water/Sewer 	DMR 	Public Works 
-453.85000 	KRS401 	RM	CC 1TG *SL *	Herndon PW 	Public Works 	DMR 	Public Works 
-155.70000 	KIK552 	RM	107.2 PL	Vienna PW 	Public Works 	FM 	Public Works 
-47.42000 	WPLX296 	R	146.2 PL	ARC FC 	Falls Church  	FM 	Emergency Ops 
-855.48750 	WNBN410 	RM	107.2 PL	GMU PD 1 	Police (Ch. 1) (47E on county TRS) 	FMN 	Law Dispatch 
-855.71250 	WNBN410 	RM	107.2 PL	GMU Security 3 	Security (Ch. 3) (47F on county TRS) 	FMN 	Security 
-453.00000 	WPPH593 	RM	132 DPL	GMU Dorms 1 	Dorm Operations 	FM 	Schools 
-462.22500 	WPPH593 	RM	132 DPL	GMU Dorms 2 	Dorm Operations 	FM 	Schools 
-467.85000 	WPPH593 	M	132 DPL	GMU Dorms 3 	Dorm Operations 	FM 	Schools 
-469.56250 	WPPH593 	M	132 DPL	GMU Dorms 4 	Dorm Operations 	FM 	Schools 
-463.92500 	WQQI441 	M	88.5 PL	GMUPatriotCt 	Patriot Center Operations 	FM 	Other 
-773.40625 	WRCF881 	RM	293 NAC	NVCC PD 	Police (simulcast among all NVCC campuses) 	P25e 	Law Dispatch 
-857.48750 	WPRR746 	RM	192.8 PL	NVCC-Ann Mnt 	Buildings/Grounds 	FM 	Schools 
-489.28750 	KYJ586 	RM	151.4 PL	UOSA Secndry 	Secondary Dispatch/Operations 	FM 	Public Works 
-495.28750 	KYJ586 	RM	151.4 PL	UOSA Primary 	Primary Dispatch/Operations 	FM 	Public Works 
-162.06250 	 	RM	00F NAC	CIA SPS 	Security Protective Service (encryption used) 	P25 	Federal 
-417.97500 	 	RM	4C5 NAC	Wolf Trap 	Park Rangers 	P25 	Federal 
-Aerospace Data Facility East	 Project 25 Phase I	 Fort Belvoir	AWSVirginia	 DMR Conventional Networked	 Various	Fairfax County (P16)	 Motorola Type II Smartnet
- Fairfax County	Fairfax County (P25)	 Project 25 Phase II	 Fairfax	Fannie Mae	 LTR Passport	 Various	FleetTalk (DC-Area Connect Plus)
- DMR Motorola Connect Plus (TRBO)	 Various	George Mason University	 LTR Standard	 Fairfax	Greenspring Village	 NXDN Icom IDAS Type D	 Springfield
-Inova Fairfax Hospital	 DMR Hytera XPT	 Falls Church	Integrated Wireless Network (IWN) National Capital Region	 Project 25 Phase I	 Various	Metropolitan Washington Airports Authority (P16)	 Motorola Type II SmartZone
- Various	Metropolitan Washington Airports Authority (P25)	 Project 25 Phase I	 Various	Mount Vernon	 NXDN Icom IDAS Type D	 Mount Vernon	Northern Virginia Electric Cooperative
- DMR Conventional Networked	 Various	Prince William Communication (Fairfax)	 LTR Standard	 Fairfax	Rapidan Radio Communications (Fairfax)	 LTR Standard	 Fairfax
-Unidentified Federal P25 (680)	 Project 25 Phase I	 	Unidentified Federal Project 25 BEE00-6FB	 Project 25 Phase I	 Unknown	Washington DC Area Federal SMR	 NXDN Icom IDAS Type D
- Various	Washington Metropolitan Area Transit Authority	 Motorola Type II Smartnet	 Various	
+851.86250 	   	WPPA560 	M	94.8 PL	FCFD 4N T/A1 	Fire/EMS 4N Talk-Around 1 (also 47N - Fairfax City FD Talkaround) 	FMN 	Fire-Talk 
+852.76250 	   	WPPA560 	M	94.8 PL	FCFD 4O T/A2 	Fire/EMS 4O Talk-Around 2 (also 47O - Fairfax City FD Safety) 	FMN 	Fire-Talk 
+151.59500 	   	WQHC668 	BM	CC 3TG 1SL 1	ThomEdison HS 	Thomas Edison High School 	DMR 	Schools 
+152.34500 	   	WQHG504 	RM	CC 1TG 1SL 1	Mount Vernon HS 	Mount Vernon High School 	DMR 	Schools 
+152.34500 	   	WQHG504 	RM	CC 3TG 1SL 1	Holmes MS 	Holmes Middle School 	DMR 	Schools 
+152.97500 	   	WQHC669 	RM	CC 2TG 1SL 1	Mark Twain MS 	Mark Twain Middle School 	DMR 	Schools 
+494.98750 	497.98750  	WIK666 	RM	CC 7TG 1SL 1	FFX CUE Bus 	City-University Energysaver (CUE) Bus System 	DMR 	Transportation 
+451.33750 	456.33750  	WPSQ739 	RM	CC 1TG *SL *	Herndon Wat/Sewr 	Water/Sewer 	DMR 	Public Works 
+453.85000 	458.85000  	KRS401 	RM	CC 1TG *SL *	Herndon PW 	Public Works 	DMR 	Public Works 
+155.70000 	154.80000  	KIK552 	RM	107.2 PL	Vienna PW 	Public Works 	FM 	Public Works 
+47.42000 	46.04000  	WPLX296 	R	146.2 PL	ARC FC 	Falls Church  	FM 	Emergency Ops 
+855.48750 	810.48750  	WNBN410 	RM	107.2 PL	GMU PD 1 	Police (Ch. 1) (47E on county TRS) 	FMN 	Law Dispatch 
+855.71250 	810.71250  	WNBN410 	RM	107.2 PL	GMU Security 3 	Security (Ch. 3) (47F on county TRS) 	FMN 	Security 
+453.00000 	458.00000  	WPPH593 	RM	132 DPL	GMU Dorms 1 	Dorm Operations 	FM 	Schools 
+462.22500 	467.22500  	WPPH593 	RM	132 DPL	GMU Dorms 2 	Dorm Operations 	FM 	Schools 
+467.85000 	   	WPPH593 	M	132 DPL	GMU Dorms 3 	Dorm Operations 	FM 	Schools 
+469.56250 	   	WPPH593 	M	132 DPL	GMU Dorms 4 	Dorm Operations 	FM 	Schools 
+463.92500 	   	WQQI441 	M	88.5 PL	GMUPatriotCt 	Patriot Center Operations 	FM 	Other 
+773.40625 	803.40625  	WRCF881 	RM	293 NAC	NVCC PD 	Police (simulcast among all NVCC campuses) 	P25e 	Law Dispatch 
+857.48750 	812.48750  	WPRR746 	RM	192.8 PL	NVCC-Ann Mnt 	Buildings/Grounds 	FM 	Schools 
+489.28750 	492.28750  	KYJ586 	RM	151.4 PL	UOSA Secndry 	Secondary Dispatch/Operations 	FM 	Public Works 
+495.28750 	498.28750  	KYJ586 	RM	151.4 PL	UOSA Primary 	Primary Dispatch/Operations 	FM 	Public Works 
+162.06250 	   	 	RM	00F NAC	CIA SPS 	Security Protective Service (encryption used) 	P25 	Federal 
+417.97500 	411.77500  	 	RM	4C5 NAC	Wolf Trap 	Park Rangers 	P25 	Federal 
+Aerospace Data Facility East	 Project 25 Phase I	 Fort Belvoir	AWSVirginia	 DMR Conventional Networked	 Various	Fairfax County (P16)	 Motorola Type II Smartnet	 Fairfax County
+FleetTalk (DC-Area Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	George Mason University	 LTR Standard	 Fairfax	Greenspring Village	 NXDN Icom IDAS Type D	 Springfield
+Inova Fairfax Hospital	 DMR Hytera XPT	 Falls Church	Integrated Wireless Network (IWN) National Capital Region	 Project 25 Phase I	 Various	Joint National Capital Region	 Project 25 Phase I	 Various
+Justice Integrated Wireless Network	 Project 25 Phase I	 Various	Metropolitan Washington Airports Authority (P16)	 Motorola Type II SmartZone	 Various	Metropolitan Washington Airports Authority (P25)	 Project 25 Phase I	 Various
+Mount Vernon	 NXDN Icom IDAS Type D	 Mount Vernon	Northern Virginia Electric Cooperative	 DMR Conventional Networked	 Various	Prince William Communication (Fairfax)	 LTR Standard	 Fairfax
+Rapidan Radio Communications (Fairfax)	 LTR Standard	 Fairfax	Unidentified Federal P25 (680)	 Project 25 Phase I	 	Unidentified Federal Project 25 BEE00-6FB	 Project 25 Phase I	 Unknown
+Washington DC Area Federal SMR	 NXDN Icom IDAS Type D	 Various	Washington Metropolitan Area Transit Authority	 Motorola Type II Smartnet	 Various	

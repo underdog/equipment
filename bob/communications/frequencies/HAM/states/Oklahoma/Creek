@@ -1,36 +1,36 @@
-155.70000 	WQVG227 	BM	110.9 PL	Creek Co Sheriff 	Sheriff -- Secondary to OKWIN 	FMN 	Law Dispatch 
-159.03000 	WQVG227 	M	110.9 PL	CreekCo Sheriff2 	Sheriff (Car to Car before OKWIN) 	FMN 	Law Tac 
-853.82500 	WQDR945 	RM		Creek Co Jail 1 	County Jail -- Digital 	P25 	Corrections 
-853.82500 	WQDR945 	RM	205 DPL	Creek Co Jail 2 	County Jail -- Analog 	FM 	Corrections 
-159.81000 	WPLZ576 	RM	107.2 PL	Creek County EMS 	EMS (Dispatch before OKWIN) 	FMN 	EMS Dispatch 
-453.37500 	WQAF276 	RM		Creek County EM 	Emergency Management 	FMN 	Emergency Ops 
-156.22500 	WQRB214 	RM	210.7 PL	Creek Co Roads 	Highway Maintenance 	FMN 	Public Works 
-154.32500 	WQAR969 	BM	632 DPL	Bristow Fire 	Fire (Linked to OKWIN) 	FMN 	Fire Dispatch 
-155.86500 	WQBY209 	BM		Bristow EM 	Emergency Management 	FMN 	Emergency Ops 
-155.29500 	KVP513 	BM		Bristow Hospital 	Memorial Hospital 	FMN 	Hospital 
-154.08500 	WQAR969 	BM		Bristow Pub Wks 	Public Works 	FMN 	Public Works 
-155.17500 	WPWZ484 	BM	141.3 PL	Bristow Schoos 	Public School Buses 	FMN 	Schools 
-155.59500 	WQOC243 	BM	371 DPL	Drumright Police 	Police Dispatch 	FMN 	Law Dispatch 
-462.10000 	KYN802 	RM	131.8 PL	VoTech Buses 	Central Oklahoma Area Vo-Tech Buses 	FMN 	Schools 
-154.68000 	WQBT848 	RM		Kellyville Fire 	Fire Page Out 	FMN 	Fire Dispatch 
-155.37000 	WSB809 	BM	100.0 PL	Kiefer Police 	Police (dispatch before OKWIN) 	FMN 	Law Dispatch 
-154.38500 	WNRB940 	BM		Kiefer Fire 	Fire Page Out 	FMN 	Fire Dispatch 
-155.74500 	WPUR963 	BM		Kiefer PublicWks 	Pulbic Works 	FMN 	Public Works 
-154.75500 	WYK558 	BM	CSQ	Mannford PD 	 Police (Dispatch before OKWIN) 	FM 	Law Dispatch 
-154.34000 	WNUG785 	RM	141.3 PL	Mannford Fire 	Fire Page Out 	FMN 	Fire Dispatch 
-155.43750 	WQRU346 	RM		Mounds Police 	Police Dispatch 	FMN 	Law Dispatch 
-154.37000 	KNAW408 	BM	192.8 PL	Mounds Fire 	Fire Page Out 	FMN 	Fire Dispatch 
-155.59500 	KNDX266 	BM		Oilton Police 	Police Dispatch 	FM 	Law Dispatch 
-851.73750 	WNYR706 	RM	143 DPL	Sapulpa Police C 	Police Tactical C 	FM 	Law Tac 
-851.78750 	WQDV516 	RM		Sapulpa Police D 	Police Tactical D 	FM 	Law Tac 
-155.62500 	WQCR709 	BM	CSQ	Sapulpa PD Cars 	Police Car to Car 	FMN 	Law Talk 
-853.73750 	WQEB467 	RM		Sapulpa Fire C 	Fire Tactical C 	FM 	Fire Dispatch 
-158.83500 	KTL579 	BM		SapulpaPublicWks 	Public Works 	FM 	Public Works 
-155.26500 	KNIQ421 	BM		St John Hospital 	Saint John Hospital 	FMN 	Hospital 
-152.91500 	WQIW905 	RM	371 DPL	Olive Fire 	Olive Fire (near Drumright) 	FMN 	Fire Dispatch 
-152.28500 	WQDB738 	RM		Slick Fire 	Slick Fire 	FMN 	Fire Dispatch 
-154.26500 	WPHX216 	BM	123.0 PL	Basin Fire 	Basin Fire  (near Mannford) 	FMN 	Fire Dispatch 
-166.27500 	 	BM	127.3 PL	MuscogeeTribalPD 	Lighthorse Tribal Police 	FM 	Law Dispatch 
-Chickasaw Personal Communications	 DMR Motorola Connect Plus (TRBO)	 Oklahoma	KAMO Power	 NXDN NEXEDGE 4800	 Various	Oklahoma Department of Transportation (ODOT)	 LTR Passport
- Various	Oklahoma Gas and Electric	 EDACS Networked Standard	 Various	Oklahoma Wireless Interoperability Network (OKWIN) (Motorola)	 Motorola Type II SmartZone	 Various	Paragon Industries
- DMR Motorola Capacity Plus Single Site (TRBO)	 Sapulpa	Saint John Medical System	 DMR Conventional Networked	 Tulsa	
+155.70000 	158.85000  	WQVG227 	BM	110.9 PL	Creek Co Sheriff 	Sheriff -- Secondary to OKWIN 	FMN 	Law Dispatch 
+159.03000 	   	WQVG227 	M	110.9 PL	CreekCo Sheriff2 	Sheriff (Car to Car before OKWIN) 	FMN 	Law Tac 
+853.82500 	808.82500  	WQDR945 	RM		Creek Co Jail 1 	County Jail -- Digital 	P25 	Corrections 
+853.82500 	808.82500  	WQDR945 	RM	205 DPL	Creek Co Jail 2 	County Jail -- Analog 	FM 	Corrections 
+159.81000 	150.79000  	WPLZ576 	RM	107.2 PL	Creek County EMS 	EMS (Dispatch before OKWIN) 	FMN 	EMS Dispatch 
+453.37500 	458.37500  	WQAF276 	RM		Creek County EM 	Emergency Management 	FMN 	Emergency Ops 
+156.22500 	159.06000  	WQRB214 	RM	210.7 PL	Creek Co Roads 	Highway Maintenance 	FMN 	Public Works 
+154.32500 	   	WQAR969 	BM	632 DPL	Bristow Fire 	Fire (Linked to OKWIN) 	FMN 	Fire Dispatch 
+155.86500 	   	WQBY209 	BM		Bristow EM 	Emergency Management 	FMN 	Emergency Ops 
+155.29500 	   	KVP513 	BM		Bristow Hospital 	Memorial Hospital 	FMN 	Hospital 
+154.08500 	   	WQAR969 	BM		Bristow Pub Wks 	Public Works 	FMN 	Public Works 
+155.17500 	   	WPWZ484 	BM	141.3 PL	Bristow Schoos 	Public School Buses 	FMN 	Schools 
+155.59500 	   	WQOC243 	BM	371 DPL	Drumright Police 	Police Dispatch 	FMN 	Law Dispatch 
+462.10000 	467.10000  	KYN802 	RM	131.8 PL	VoTech Buses 	Central Oklahoma Area Vo-Tech Buses 	FMN 	Schools 
+154.68000 	159.09000  	WQBT848 	RM		Kellyville Fire 	Fire Page Out 	FMN 	Fire Dispatch 
+155.37000 	   	WSB809 	BM	100.0 PL	Kiefer Police 	Police (dispatch before OKWIN) 	FMN 	Law Dispatch 
+154.38500 	   	WNRB940 	BM		Kiefer Fire 	Fire Page Out 	FMN 	Fire Dispatch 
+155.74500 	   	WPUR963 	BM		Kiefer PublicWks 	Pulbic Works 	FMN 	Public Works 
+154.75500 	   	WYK558 	BM	CSQ	Mannford PD 	 Police (Dispatch before OKWIN) 	FM 	Law Dispatch 
+154.34000 	154.01000  	WNUG785 	RM	141.3 PL	Mannford Fire 	Fire Page Out 	FMN 	Fire Dispatch 
+155.43750 	159.07500  	WQRU346 	RM		Mounds Police 	Police Dispatch 	FMN 	Law Dispatch 
+154.37000 	   	KNAW408 	BM	192.8 PL	Mounds Fire 	Fire Page Out 	FMN 	Fire Dispatch 
+155.59500 	   	KNDX266 	BM		Oilton Police 	Police Dispatch 	FM 	Law Dispatch 
+851.73750 	806.73750  	WNYR706 	RM	143 DPL	Sapulpa Police C 	Police Tactical C 	FM 	Law Tac 
+851.78750 	806.78750  	WQDV516 	RM		Sapulpa Police D 	Police Tactical D 	FM 	Law Tac 
+155.62500 	   	WQCR709 	BM	CSQ	Sapulpa PD Cars 	Police Car to Car 	FMN 	Law Talk 
+853.73750 	808.73750  	WQEB467 	RM		Sapulpa Fire C 	Fire Tactical C 	FM 	Fire Dispatch 
+158.83500 	   	KTL579 	BM		SapulpaPublicWks 	Public Works 	FM 	Public Works 
+155.26500 	   	KNIQ421 	BM		St John Hospital 	Saint John Hospital 	FMN 	Hospital 
+152.91500 	159.99000  	WQIW905 	RM	371 DPL	Olive Fire 	Olive Fire (near Drumright) 	FMN 	Fire Dispatch 
+152.28500 	157.54500  	WQDB738 	RM		Slick Fire 	Slick Fire 	FMN 	Fire Dispatch 
+154.26500 	   	WPHX216 	BM	123.0 PL	Basin Fire 	Basin Fire  (near Mannford) 	FMN 	Fire Dispatch 
+166.27500 	   	 	BM	127.3 PL	MuscogeeTribalPD 	Lighthorse Tribal Police 	FM 	Law Dispatch 
+Chickasaw Personal Communications	 DMR Motorola Connect Plus (TRBO)	 Oklahoma	KAMO Power	 NXDN NEXEDGE 4800	 Various	Oklahoma Department of Transportation (ODOT)	 LTR Passport	 Various
+Oklahoma Gas and Electric	 EDACS Networked Standard	 Various	Oklahoma Wireless Interoperability Network (OKWIN) (Motorola)	 Motorola Type II SmartZone	 Various	Oklahoma Wireless Interoperability Network (OKWIN) (P25)	 Project 25 Phase I	 Various
+Paragon Industries	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sapulpa	Saint John Medical System	 DMR Conventional Networked	 Tulsa	

@@ -1,39 +1,38 @@
-155.04000 	KXM604 	B	131.8 PL	Volusia FR 	Fire (simulcast of TRS 06-101) 	FM 	Fire Dispatch 
-154.34000 	KBS331 	B	CSQ	Volusia FR 	County Fire - DeBary (simulcast of TRS 02-041) 	FM 	Fire Dispatch 
-463.17500 	WNND423 	RM	167.9 PL	Volusia Med-8 	Ambulance-to-Hospital Patch (outside agencies)  	FMN 	Hospital 
-452.72500 	KZI212 	RM	118.8 PL	VOTRAN DISP 	VOTRAN Dispatch (Daytona Beach) 	FM 	Transportation 
-453.92500 	WPBW703 	RM	118.8 PL	VOTRAN 	VOTRAN (Daytona Beach) 	FM 	Transportation 
-453.26250 	WQFL377 	BM		VOTRAN MDC 	VOTRAN - Vehicle Data (Daytona Beach) 	Telm 	Transportation 
-460.46250 	WQFL377 	BM		VOTRAN MDC 	VOTRAN - Vehicle Data (Daytona Beach) 	Telm 	Transportation 
-453.77500 	KUU382 	F		Volusia WS 	Water and Sewer Data 	Telm 	Data 
-453.42500 	KUU382 	RM	125 DPL	VCS Bus1 	School Buses 	FM 	Transportation 
-464.25000 	WQDJ226 	RM	127.3 PL	VCS Bus2 	School Buses 	FM 	Transportation 
-461.32500 	WQXR831 	RM	125 DPL	VCS Bus3  	School Buses 	FMN 	Transportation 
-452.57500 	WQXC205 	RM	054 DPL	Holly Hill Schl 	Holly Hill School 	FMN 	Schools 
-452.60000 	WQXC205 	RM	054 DPL	Westside ES 	Westside Elementary 	FMN 	Schools 
-453.01250 	WQPQ938 	RM	023 DPL	Seabreeze HS 	Seabreeze High School (Daytona Beach) 	FM 	Schools 
-462.30000 	WQPQ832 	RM	311 DPL	Mainland HS 	Mainland High School (Daytona Beach) 	FMN 	Schools 
-463.31250 	WQXC205 	RM	743 DPL	NSB HS 	New Smyrna Beach High School 	FMN 	Schools 
-464.38750 	WQPR459 	RM	271 DPL	Ormond Beach 	Ormond Beach Middle 	FMN 	Schools 
-464.41250 	WQPQ800 	RM	413 DPL	Pine Ridge HS 	Pine Ridge High School (Deltona) 	FMN 	Schools 
-154.86000 	KVI577 	B	118.8 PL	DB FR 	Fire (simulcast of TRS talkgroup 11-041) 	FM 	Fire Dispatch 
-453.82500 	WPAE670 	RM	97.4 PL	DB HousingA 	Housing Authority 	FM 	Other 
-453.11250 	WQEX646 	M	CSQ	DB Gold Club 	Daytona Beach Golf Club - Grounds Keepers 	FM 	Public Works 
-453.80000 	WPTX515 	B		DB GPS 	GPS Data 	Telm 	Data 
-153.44000 	KCW808 	RM	118.8 PL	Deland PW 	Public Works 	FM 	Public Works 
-151.22000 	WNKB489 	B	192.8 PL	Deltona FR 	Fire Dispatch (Simulcast from TRS) 	FM 	Fire Dispatch 
-159.91500 	WPYA957 	RM	226 DPL	FloridaWater 	Florida Water Services 	FM 	Utilities 
-154.99500 	WQFM220 	RM	118.8 PL	EdgewaterFR 	Fire-Rescue (Backup system to 800) 	FM 	Fire-Tac 
-154.01000 	WPAW634 	B	118.8 PL	NSB FR 	Fire (Simulcast from TRS) 	FM 	Fire Dispatch 
-153.66500 	KNAA278 	BM	118.8 PL	NSB Util Com 	Utilities Commission 	FM 	Utilities 
-452.42500 	WNVD328 	F	CSQ	NSB WS Data 	Water and Sewer Data 	Telm 	Data 
-155.11500 	KNFE733 	B	85.4 PL	PonceInletFR 	Fire/EMS (Simulcast from 800) 	FM 	Fire Dispatch 
-452.20000 	WPNU667 	F		PortOrangeWD 	Water and Sewer Data 	Telm 	Data 
-47.42000 	KLV921 	BM		Red Cross 1 	Florida's Coast-to-Coast Chapter 	FM 	Emergency Ops 
-AALCOMM Communications	 LTR Standard	 Orange City	Bethune Cookman University	 LTR Standard	 Daytona Beach	Daytona International Speedway	 DMR Motorola Capacity Plus Single Site (TRBO)
- Daytona Beach	Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	FDARN Network	 DMR Conventional Networked	 Dunedin	Florida Fleet Talk
- NXDN NEXEDGE 4800	 Various	Florida Power and Light (P25)	 Project 25 Phase II	 Varies	NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional
-Reidy, Rhodes and Taylor (Daytona Beach)	 LTR Standard	 Daytona Beach	Repeater Solutions	 LTR Standard	 Daytona Beach	Rinker Materials (Daytona Beach)	 LTR Standard
- Daytona Beach	Rinker Materials (Orange City)	 LTR Standard	 Orange City	Southern Komfort Luxury Sedan	 EDACS Standard	 Daytona Beach	Statewide Law Enforcement Radio System (P25)
- Project 25 Phase I	 Statewide	Volusia County (EDACS)	 EDACS Networked Standard	 Volusia County	Volusia County (P25)	 Project 25 Phase II	 Volusia County
-VoTran - Volusia County Transit	 LTR Standard	 South Daytona	
+155.04000 	   	KXM604 	B	131.8 PL	Volusia FR 	Fire (simulcast of TRS 06-101) 	FM 	Fire Dispatch 
+154.34000 	   	KBS331 	B	CSQ	Volusia FR 	County Fire - DeBary (simulcast of TRS 02-041) 	FM 	Fire Dispatch 
+463.17500 	468.17500  	WNND423 	RM	167.9 PL	Volusia Med-8 	Ambulance-to-Hospital Patch (outside agencies)  	FMN 	Hospital 
+452.72500 	457.72500  	KZI212 	RM	118.8 PL	VOTRAN DISP 	VOTRAN Dispatch (Daytona Beach) 	FM 	Transportation 
+453.92500 	458.92500  	WPBW703 	RM	118.8 PL	VOTRAN 	VOTRAN (Daytona Beach) 	FM 	Transportation 
+453.26250 	458.26250  	WQFL377 	BM		VOTRAN MDC 	VOTRAN - Vehicle Data (Daytona Beach) 	Telm 	Transportation 
+460.46250 	465.46250  	WQFL377 	BM		VOTRAN MDC 	VOTRAN - Vehicle Data (Daytona Beach) 	Telm 	Transportation 
+453.77500 	   	KUU382 	F		Volusia WS 	Water and Sewer Data 	Telm 	Data 
+453.42500 	458.42500  	KUU382 	RM	125 DPL	VCS Bus1 	School Buses 	FM 	Transportation 
+464.25000 	469.25000  	WQDJ226 	RM	127.3 PL	VCS Bus2 	School Buses 	FM 	Transportation 
+461.32500 	466.32500  	WQXR831 	RM	125 DPL	VCS Bus3  	School Buses 	FMN 	Transportation 
+452.57500 	457.57500  	WQXC205 	RM	054 DPL	Holly Hill Schl 	Holly Hill School 	FMN 	Schools 
+452.60000 	457.60000  	WQXC205 	RM	054 DPL	Westside ES 	Westside Elementary 	FMN 	Schools 
+453.01250 	458.01250  	WQPQ938 	RM	023 DPL	Seabreeze HS 	Seabreeze High School (Daytona Beach) 	FM 	Schools 
+462.30000 	467.30000  	WQPQ832 	RM	311 DPL	Mainland HS 	Mainland High School (Daytona Beach) 	FMN 	Schools 
+463.31250 	468.31250  	WQXC205 	RM	743 DPL	NSB HS 	New Smyrna Beach High School 	FMN 	Schools 
+464.38750 	469.38750  	WQPR459 	RM	271 DPL	Ormond Beach 	Ormond Beach Middle 	FMN 	Schools 
+464.41250 	469.41250  	WQPQ800 	RM	413 DPL	Pine Ridge HS 	Pine Ridge High School (Deltona) 	FMN 	Schools 
+154.86000 	   	KVI577 	B	118.8 PL	DB FR 	Fire (simulcast of TRS talkgroup 11-041) 	FM 	Fire Dispatch 
+453.82500 	458.82500  	WPAE670 	RM	97.4 PL	DB HousingA 	Housing Authority 	FM 	Other 
+453.11250 	   	WQEX646 	M	CSQ	DB Gold Club 	Daytona Beach Golf Club - Grounds Keepers 	FM 	Public Works 
+453.80000 	   	WPTX515 	B		DB GPS 	GPS Data 	Telm 	Data 
+153.44000 	160.32000  	KCW808 	RM	118.8 PL	Deland PW 	Public Works 	FM 	Public Works 
+151.22000 	   	WNKB489 	B	192.8 PL	Deltona FR 	Fire Dispatch (Simulcast from TRS) 	FM 	Fire Dispatch 
+159.91500 	153.59000  	WPYA957 	RM	226 DPL	FloridaWater 	Florida Water Services 	FM 	Utilities 
+154.99500 	158.82000  	WQFM220 	RM	118.8 PL	EdgewaterFR 	Fire-Rescue (Backup system to 800) 	FM 	Fire-Tac 
+154.01000 	   	WPAW634 	B	118.8 PL	NSB FR 	Fire (Simulcast from TRS) 	FM 	Fire Dispatch 
+153.66500 	   	KNAA278 	BM	118.8 PL	NSB Util Com 	Utilities Commission 	FM 	Utilities 
+452.42500 	   	WNVD328 	F	CSQ	NSB WS Data 	Water and Sewer Data 	Telm 	Data 
+155.11500 	   	KNFE733 	B	85.4 PL	PonceInletFR 	Fire/EMS (Simulcast from 800) 	FM 	Fire Dispatch 
+452.20000 	   	WPNU667 	F		PortOrangeWD 	Water and Sewer Data 	Telm 	Data 
+47.42000 	   	KLV921 	BM		Red Cross 1 	Florida's Coast-to-Coast Chapter 	FM 	Emergency Ops 
+AALCOMM Communications	 LTR Standard	 Orange City	Bethune Cookman University	 LTR Standard	 Daytona Beach	Daytona International Speedway	 DMR Motorola Capacity Plus Single Site (TRBO)	 Daytona Beach
+Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	FDARN Network	 DMR Conventional Networked	 Dunedin	Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various
+NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional	Reidy, Rhodes and Taylor (Daytona Beach)	 LTR Standard	 Daytona Beach	Repeater Solutions	 LTR Standard	 Daytona Beach
+Rinker Materials (Daytona Beach)	 LTR Standard	 Daytona Beach	Rinker Materials (Orange City)	 LTR Standard	 Orange City	Southern Komfort Luxury Sedan	 EDACS Standard	 Daytona Beach
+Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	Volusia County (EDACS)	 EDACS Networked Standard	 Volusia County
+Volusia County (P25)	 Project 25 Phase II	 Volusia County	VoTran - Volusia County Transit	 LTR Standard	 South Daytona	

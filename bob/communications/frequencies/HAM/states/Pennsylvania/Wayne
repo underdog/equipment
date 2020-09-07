@@ -1,30 +1,30 @@
-159.15000 	WPUK803 	RM	82.5 PL	WC Pol Disp 	Police Dispatch 	FMN 	Law Dispatch 
-154.00250 	WQKK535 	RM		WCSO Court 	Sheriff - Courthouse Security 	FMN 	Law Tac 
-460.36250 	WQEB606 	RM	186.2 PL	WCSO UHF 	Sheriff 	FMN 	Law Dispatch 
-453.66250 	WQEB606 	RM		WCCF Ops 	Correctional Operations 	FMN 	Corrections 
-151.41500 	WQGD279 	BM	167.9 PL	WayneFD Disp 	Fire 1 / Dispatch 	FMN 	Fire Dispatch 
-155.67750 	WQGD279 	BM	167.9 PL	Wayne FD 2 	Fire 2 / Command 	FMN 	Fire-Tac 
-155.91750 	WQGD279 	M	167.9 PL	Wayne FG 3 	Fireground 3 	FMN 	Fire-Tac 
-156.03750 	WQGD279 	M	167.9 PL	Wayne FG 4 	Fireground 4 	FMN 	Fire-Tac 
-153.91250 	WQKK534 	M	167.9 PL	Wayne FG 5 	Fireground 5 	FMN 	Fire-Tac 
-155.13750 	WQKK534 	M	167.9 PL	Wayne FG 6 	Fireground 6 	FMN 	Fire-Tac 
-153.95750 	WQKG813 	M	167.9 PL	Wayne FP 	Fire Police 	FMN 	Fire-Talk 
-155.31000 	KDU721 	BM	156.7 PL	Wayne EMS 	EMS Dispatch & Operations 	FMN 	EMS Dispatch 
-33.86000 	KYL616 	BM	CSQ	Wayne FD Low 	Fire Dispatch/Operations (being phased out) 	FMN 	Fire Dispatch 
-151.56500 	 	BM	624 DPL	Wayne EMS PV 	Wayne Medics Private Channel 	FMN 	EMS-Tac 
-158.83500 	 	BM	91.5 PL	Wayne EMA 	Emergency Management Agency 	FMN 	Emergency Ops 
-155.89500 	WPUP326 	RM		County Trans 	Transportation/Paging 	FMN 	Transportation 
-159.18750 	WPWP654 	BM	100.0 PL	Damascus DPW 	Public Works 	FMN 	Public Works 
-159.39000 	WQGQ322 	RM	445 DPL	Greene DPW 	Public Works 	FMN 	Public Works 
-155.04250 	WQLL222 	RM		HawleyPolice 	Police Local 	FMN 	Law Tac 
-155.82000 	KGH501 	BM	82.5 PL	HonesdalePD2 	Police Local 	FMN 	Law Tac 
-154.08500 	WPIX458 	BM	CSQ	Manchester DPW 	Public Works 	FMN 	Public Works 
-33.92000 	KZF831 	BM		BeachLake FG 	Station 21 - Beach Lake Fireground 	FM 	Fire-Tac 
-153.83000 	KB91657 	BM		Hawley FG 	Station 9 - Hawley Fireground 	FM 	Fire-Tac 
-153.89000 	 	M		Browndale FG 	Station 43 - Browndale Fireground 	FM 	Fire-Tac 
-153.89000 	 	M	CSQ	Wayne FFG 	Forest Fireground 	FMN 	Fire-Tac 
-154.43000 	KNCB739 	BM	156.7 PL	HamlinFC ops 	Hamlin Fire & Rescue Company 	FMN 	Fire-Talk 
-155.74500 	WQGS322 	BM	82.5 PL	Waymart FD 	Waymart Fireground 	FMN 	Fire-Tac 
-461.86250 	WQGX579 	RM	132 DPL	WHSD Ops 	Wayne Highlands School District - Admin/Maint 	FM 	Schools 
-Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud
- Statewide	
+159.15000 	156.15000  	WPUK803 	RM	82.5 PL	WC Pol Disp 	Police Dispatch 	FMN 	Law Dispatch 
+154.00250 	151.12250  	WQKK535 	RM		WCSO Court 	Sheriff - Courthouse Security 	FMN 	Law Tac 
+460.36250 	465.36250  	WQEB606 	RM	186.2 PL	WCSO UHF 	Sheriff 	FMN 	Law Dispatch 
+453.66250 	458.66250  	WQEB606 	RM		WCCF Ops 	Correctional Operations 	FMN 	Corrections 
+151.41500 	   	WQGD279 	BM	167.9 PL	WayneFD Disp 	Fire 1 / Dispatch 	FMN 	Fire Dispatch 
+155.67750 	   	WQGD279 	BM	167.9 PL	Wayne FD 2 	Fire 2 / Command 	FMN 	Fire-Tac 
+155.91750 	   	WQGD279 	M	167.9 PL	Wayne FG 3 	Fireground 3 	FMN 	Fire-Tac 
+156.03750 	   	WQGD279 	M	167.9 PL	Wayne FG 4 	Fireground 4 	FMN 	Fire-Tac 
+153.91250 	   	WQKK534 	M	167.9 PL	Wayne FG 5 	Fireground 5 	FMN 	Fire-Tac 
+155.13750 	   	WQKK534 	M	167.9 PL	Wayne FG 6 	Fireground 6 	FMN 	Fire-Tac 
+153.95750 	   	WQKG813 	M	167.9 PL	Wayne FP 	Fire Police 	FMN 	Fire-Talk 
+155.31000 	   	KDU721 	BM	156.7 PL	Wayne EMS 	EMS Dispatch & Operations 	FMN 	EMS Dispatch 
+33.86000 	   	KYL616 	BM	CSQ	Wayne FD Low 	Fire Dispatch/Operations (being phased out) 	FMN 	Fire Dispatch 
+151.56500 	   	 	BM	624 DPL	Wayne EMS PV 	Wayne Medics Private Channel 	FMN 	EMS-Tac 
+158.83500 	   	 	BM	91.5 PL	Wayne EMA 	Emergency Management Agency 	FMN 	Emergency Ops 
+155.89500 	158.95500  	WPUP326 	RM		County Trans 	Transportation/Paging 	FMN 	Transportation 
+159.18750 	   	WPWP654 	BM	100.0 PL	Damascus DPW 	Public Works 	FMN 	Public Works 
+159.39000 	153.93500  	WQGQ322 	RM	445 DPL	Greene DPW 	Public Works 	FMN 	Public Works 
+155.04250 	158.89500  	WQLL222 	RM		HawleyPolice 	Police Local 	FMN 	Law Tac 
+155.82000 	   	KGH501 	BM	82.5 PL	HonesdalePD2 	Police Local 	FMN 	Law Tac 
+154.08500 	   	WPIX458 	BM	CSQ	Manchester DPW 	Public Works 	FMN 	Public Works 
+33.92000 	   	KZF831 	BM		BeachLake FG 	Station 21 - Beach Lake Fireground 	FM 	Fire-Tac 
+153.83000 	   	KB91657 	BM		Hawley FG 	Station 9 - Hawley Fireground 	FM 	Fire-Tac 
+153.89000 	   	 	M		Browndale FG 	Station 43 - Browndale Fireground 	FM 	Fire-Tac 
+153.89000 	   	 	M	CSQ	Wayne FFG 	Forest Fireground 	FMN 	Fire-Tac 
+154.43000 	   	KNCB739 	BM	156.7 PL	HamlinFC ops 	Hamlin Fire & Rescue Company 	FMN 	Fire-Talk 
+155.74500 	   	WQGS322 	BM	82.5 PL	Waymart FD 	Waymart Fireground 	FMN 	Fire-Tac 
+461.86250 	466.86250  	WQGX579 	RM	132 DPL	WHSD Ops 	Wayne Highlands School District - Admin/Maint 	FM 	Schools 
+Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide
+United States Penitentiary Canaan	 Motorola Type II Smartnet	 Canaan	

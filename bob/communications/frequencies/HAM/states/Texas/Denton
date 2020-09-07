@@ -1,39 +1,39 @@
-155.83500 	WQRJ486 	BM	118.8 PL	DenCoFD Page 	Fire Department - Paging 	FMN 	Fire Dispatch 
-155.01750 	WQKJ698 	RM	703 DPL	Dent Co ES 	Emergency Services Tactical 	FMN 	Emergency Ops 
-155.23500 	WXP421 	B		Denton Siren 	Warning Siren Activation Data 	Telm 	Data 
-157.50750 	WQNF872 	RM	52 RAN	DCTA Mnt Den 	Operations/Maintenance - Denton (linked with Lewisville) 	NXDN 	Transportation 
-157.47750 	WQNF872 	RM	52 RAN	DCTA Mnt Lew 	Operations/Maintenance - Lewisville (linked with Denton) 	NXDN 	Transportation 
-157.52250 	WQNF872 	RM	52 RAN	DCTA DispDen 	Train Dispatch - Denton (linked with Lewisville) 	NXDN 	Transportation 
-157.49250 	WQNF872 	RM	52 RAN	DCTA DispLew 	Train Dispatch - Lewisville (linked with Denton) 	NXDN 	Transportation 
-154.14500 	KNFL652 	BM	118.8 PL	FM FD Disp 	Fire Dispatch / Warning Siren Control / Public Works 	FMN 	Multi-Dispatch 
-156.00000 	KSJ583 	BM		HV FD Ops 	Fire Operations / Warning Siren Control 	FM 	Fire-Tac 
-158.95500 	KRC865 	RM	074 DPL	LDal PD Disp 	Police 	FMN 	Law Dispatch 
-154.38500 	KWF636 	RM	118.8 PL	Lewsvl Siren 	Warning Siren Control 	FMN 	Data 
-453.80000 	WQDD601 	RM	123.0 PL	Sang PD Talk 	Police Talk-Around 	FMN 	Law Talk 
-154.23500 	WNBW667 	BM		Sang FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.20500 	WXY297 	BM	118.8 PL	TCol FD Page 	Fire Paging 	FMN 	Fire Dispatch 
-451.17500 	WNLQ505 	RM	162.2 PL	TCol PW 	Public Works / Streets 	FMN 	Public Works 
-453.88750 	WQCB283 	RM		TrophyC PD 	Police Dispatch 	FMN 	Law Dispatch 
-461.48750 	WQQH216 	RM	306 DPL	BillyRyan HS 	Billy Ryan High School 	FMN 	Schools 
-461.81250 	 	BM	346 DPL	DISD Calhoun 	Calhoun Middle School 	FMN 	Schools 
-464.65000 	WQCI728 	RM		Denton HS 	Denton High School 	DMR 	Schools 
-463.55000 	 	RM		Guyer HS 	Guyer High School 	FMN 	Schools 
-452.17500 	 	RM		Harpool MS 	Harpool Middle School 	FMN 	Schools 
-462.15000 	 	RM		McMath MS 	McMath Middle School 	FMN 	Schools 
-461.70000 	 	RM		StricklandMS 	Strickland Middle School 	FMN 	Schools 
-155.16000 	WQCS227 	BM	123.0 PL	Lew ISD Bus 	School Buses 	FMN 	Schools 
-452.62500 	WQBD733 	RM	116 DPL	Lew ISD FMHS 	Flower Mound High School 	FMN 	Schools 
-461.30000 	WQPF217 	RM	206.5 PL	UNT Stad 1 	Stadium Operations Channel 1 	FMN 	Schools 
-456.63750 	WQPF217 	M	315 DPL	UNT Stad 2 	Stadium Concessions Channel 2 	FMN 	Schools 
-457.03750 	WQPF217 	M	311 DPL	UNT Stad 3 	Stadium Technical Channel 3 	FMN 	Schools 
-463.23750 	WQXG446 	RM	CC 5TG 1001SL 1	UNT Rec Cntr 	Recreational Center 	DMR 	Schools 
-Aerowave Technologies	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Lewisville	Coserv Electric Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Crosspoint Communications Tier 3	 DMR Tier 3
- Dallas	Dallas P25 / NCTCOG	 Project 25 Phase II	 Dallas, Fort Worth Area	Dallas-Fort Worth International Airport	 Project 25 Phase II	 DFW Airport	Denton City
- Motorola Type II Smartnet	 Denton	Denton County	 Project 25 Phase II	 Denton	Denton Independent School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Denton
-DFW Communications (Justin)	 LTR Standard	 Justin	DFW Communications (Little Elm)	 LTR Standard	 Little Elm	DFW Communications (old Teletouch-Dallas-Fort Worth Passport)	 LTR Passport
- Dallas-Fort Worth Area	FedEx (Alliance Airport)	 Motorola Type II	 Fort Worth	Fort Worth Regional Radio System	 Project 25 Phase II	 Tarrant, Johnson Counties	Lake Dallas Independent School District
- DMR Motorola Capacity Plus Single Site (TRBO)	 Denton	Megahertz DMR Tier 3	 DMR Tier 3	 Dallas	Megahertz Technology	 DMR Motorola Connect Plus (TRBO)	 Dallas/Fort Worth
-Metrocrest Quad Cities Public Safety Radio System	 Project 25 Phase II	 Carrollton	Northwest Independent School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Haslet	Roanoke City Services	 Project 25 Phase I
- Roanoke	Self Radio (Justin)	 LTR Standard	 Justin	Self Radio Nexedge	 NXDN NEXEDGE 4800	 Fort Worth	TeamConnect
- DMR Motorola Connect Plus (TRBO)	 Various	Texas Motor Speedway	 Project 25 Phase I	 Fort Worth	University of North Texas	 DMR Motorola Capacity Plus Single Site (TRBO)	 Denton
+155.83500 	   	WQRJ486 	BM	118.8 PL	DenCoFD Page 	Fire Department - Paging 	FMN 	Fire Dispatch 
+155.01750 	   	WQKJ698 	RM	703 DPL	Dent Co ES 	Emergency Services Tactical 	FMN 	Emergency Ops 
+155.23500 	   	WXP421 	B		Denton Siren 	Warning Siren Activation Data 	Telm 	Data 
+157.50750 	   	WQNF872 	RM	52 RAN	DCTA Mnt Den 	Operations/Maintenance - Denton (linked with Lewisville) 	NXDN 	Transportation 
+157.47750 	   	WQNF872 	RM	52 RAN	DCTA Mnt Lew 	Operations/Maintenance - Lewisville (linked with Denton) 	NXDN 	Transportation 
+157.52250 	   	WQNF872 	RM	52 RAN	DCTA DispDen 	Train Dispatch - Denton (linked with Lewisville) 	NXDN 	Transportation 
+157.49250 	   	WQNF872 	RM	52 RAN	DCTA DispLew 	Train Dispatch - Lewisville (linked with Denton) 	NXDN 	Transportation 
+154.14500 	   	KNFL652 	BM	118.8 PL	FM FD Disp 	Fire Dispatch / Warning Siren Control / Public Works 	FMN 	Multi-Dispatch 
+156.00000 	   	KSJ583 	BM		HV FD Ops 	Fire Operations / Warning Siren Control 	FM 	Fire-Tac 
+158.95500 	154.86000  	KRC865 	RM	074 DPL	LDal PD Disp 	Police 	FMN 	Law Dispatch 
+154.38500 	   	KWF636 	RM	118.8 PL	Lewsvl Siren 	Warning Siren Control 	FMN 	Data 
+453.80000 	458.80000  	WQDD601 	RM	123.0 PL	Sang PD Talk 	Police Talk-Around 	FMN 	Law Talk 
+154.23500 	   	WNBW667 	BM		Sang FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.20500 	   	WXY297 	BM	118.8 PL	TCol FD Page 	Fire Paging 	FMN 	Fire Dispatch 
+451.17500 	   	WNLQ505 	RM	162.2 PL	TCol PW 	Public Works / Streets 	FMN 	Public Works 
+453.88750 	458.88750  	WQCB283 	RM		TrophyC PD 	Police Dispatch 	FMN 	Law Dispatch 
+461.48750 	466.48750  	WQQH216 	RM	306 DPL	BillyRyan HS 	Billy Ryan High School 	FMN 	Schools 
+461.81250 	466.81250  	 	BM	346 DPL	DISD Calhoun 	Calhoun Middle School 	FMN 	Schools 
+464.65000 	469.65000  	WQCI728 	RM		Denton HS 	Denton High School 	DMR 	Schools 
+463.55000 	468.55000  	 	RM		Guyer HS 	Guyer High School 	FMN 	Schools 
+452.17500 	457.17500  	 	RM		Harpool MS 	Harpool Middle School 	FMN 	Schools 
+462.15000 	467.15000  	 	RM		McMath MS 	McMath Middle School 	FMN 	Schools 
+461.70000 	466.70000  	 	RM		StricklandMS 	Strickland Middle School 	FMN 	Schools 
+155.16000 	   	WQCS227 	BM	123.0 PL	Lew ISD Bus 	School Buses 	FMN 	Schools 
+452.62500 	457.62500  	WQBD733 	RM	116 DPL	Lew ISD FMHS 	Flower Mound High School 	FMN 	Schools 
+461.30000 	466.30000  	WQPF217 	RM	206.5 PL	UNT Stad 1 	Stadium Operations Channel 1 	FMN 	Schools 
+456.63750 	   	WQPF217 	M	315 DPL	UNT Stad 2 	Stadium Concessions Channel 2 	FMN 	Schools 
+457.03750 	   	WQPF217 	M	311 DPL	UNT Stad 3 	Stadium Technical Channel 3 	FMN 	Schools 
+463.23750 	468.23750  	WQXG446 	RM	CC 5TG 1001SL 1	UNT Rec Cntr 	Recreational Center 	DMR 	Schools 
+Aerowave Technologies	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Lewisville	BrandMeister Texas	 DMR Conventional Networked	 Various	Coserv Electric Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Crosspoint Communications Tier 3	 DMR Tier 3	 Dallas	Dallas P25 / NCTCOG	 Project 25 Phase II	 Dallas, Fort Worth Area	Dallas-Fort Worth International Airport	 Project 25 Phase II	 DFW Airport
+Denton County	 Project 25 Phase II	 Denton	Denton Independent School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Denton	DFW Communications (Justin)	 LTR Standard	 Justin
+DFW Communications (Little Elm)	 LTR Standard	 Little Elm	DFW Communications (old Teletouch-Dallas-Fort Worth Passport)	 LTR Passport	 Dallas-Fort Worth Area	FedEx (Alliance Airport)	 Motorola Type II	 Fort Worth
+Grandscape	 DMR Motorola Capacity Plus Single Site (TRBO)	 The Colony	Lake Dallas Independent School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Denton	Medical City Lewisville	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lewisville
+Megahertz DMR Tier 3	 DMR Tier 3	 Dallas	Megahertz Technology	 DMR Motorola Connect Plus (TRBO)	 Dallas/Fort Worth	Metrocrest Quad Cities Public Safety Radio System	 Project 25 Phase II	 Carrollton
+Northwest Independent School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Haslet	Plano, Allen, Wylie, Murphy (PAWM)	 Project 25 Phase II	 Plano/Allen	Roanoke City Services	 Project 25 Phase I	 Roanoke
+Self Radio (Justin)	 LTR Standard	 Justin	Self Radio Nexedge	 NXDN NEXEDGE 4800	 Fort Worth	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various
+Texas Motor Speedway	 Project 25 Phase I	 Fort Worth	Toyota Motors of North America	 DMR Motorola Connect Plus (TRBO)	 Plano	University of North Texas	 DMR Motorola Capacity Plus Single Site (TRBO)	 Denton
 Wise Regional Health System	 DMR Tier 3	 Various	

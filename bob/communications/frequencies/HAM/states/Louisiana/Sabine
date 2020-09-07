@@ -1,20 +1,19 @@
-155.13000 	KNIB524 	RM		SPSO-1 	Sheriff Dispatch 1 	FMN 	Law Dispatch 
-155.52000 	KNIB524 	RM	110.9 PL	SPSO-2 	Sheriff Dispatch 2 	FMN 	Law Dispatch 
-155.37000 	KNIB524 	BM		SPSO TAC 	Sheriff Tactical 	FMN 	Law Tac 
-154.20500 	KAW904 	RM		SPFD-DISP 	Parishwide Fire Dispatch 	FMN 	Fire Dispatch 
-154.28000 	KAW904 	BM		SPFD-TAC 	Parishwide Fireground 	FMN 	Fire-Tac 
-154.04750 	WQCY911 	BM		NSFPD 1 	North Sabine Fire Protection District repeater 1 	FMN 	Fire Dispatch 
-154.17500 	WQCY911 	RM	10 RAN	NSFPD 2 	North Sabine Fire Protection District repaeter 2 	NXDN 	Fire Dispatch 
-155.40750 	WQCY911 	RM		NSFPD 3 	North Sabine Fire Protection District repeater 3 	FMN 	Fire Dispatch 
-154.44500 	WNPO548 	RM		WARDS 1&2 FD 	Wards 1 & 2 Fire Protection District 	FMN 	Fire Dispatch 
-155.38500 	WPPE548 	RM		MEDX DISP 	Med Express EMS Dispatch - Many Tower *Also on LWIN* 	FMN 	EMS Dispatch 
-155.05500 	KYU770 	BM		SP-PW 1 	Parish Public Works Main 	FMN 	Public Works 
-158.89500 	KYU770 	M		SP-PW 2 	Parish Public Works Car to Car 	FMN 	Public Works 
-154.32500 	WPPZ768 	BM		Horneck Fire 	Fire 	FMN 	Fire Dispatch 
-155.80500 	WPZX261 	RM	192.8 PL	MPD-DISP 	Police Primary 	FMN 	Law Dispatch 
-155.59500 	WPGF920 	BM		MPD-2 	Police Operations 	FM 	Law Tac 
-155.14500 	KGV232 	RM		TBP Many 155.145 	Many 	FMN 	Public Works 
-155.76000 	KGV232 	RM		TBP Many 155.76 	Many 	FMN 	Public Works 
-158.75250 	WQXE497 	BM		Zwolle Police 	Police 	FMN 	Law Dispatch 
-CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	Entergy 	 Project 25 Phase II	 Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I
- Statewide	
+155.13000 	154.95000  	KNIB524 	RM		SPSO-1 	Sheriff Dispatch 1 	FMN 	Law Dispatch 
+155.52000 	159.03000  	KNIB524 	RM	110.9 PL	SPSO-2 	Sheriff Dispatch 2 	FMN 	Law Dispatch 
+155.37000 	   	KNIB524 	BM		SPSO TAC 	Sheriff Tactical 	FMN 	Law Tac 
+154.20500 	153.77000  	KAW904 	RM		SPFD-DISP 	Parishwide Fire Dispatch 	FMN 	Fire Dispatch 
+154.28000 	   	KAW904 	BM		SPFD-TAC 	Parishwide Fireground 	FMN 	Fire-Tac 
+154.04750 	   	WQCY911 	BM		NSFPD 1 	North Sabine Fire Protection District repeater 1 	FMN 	Fire Dispatch 
+154.17500 	   	WQCY911 	RM	10 RAN	NSFPD 2 	North Sabine Fire Protection District repaeter 2 	NXDN 	Fire Dispatch 
+155.40750 	   	WQCY911 	RM		NSFPD 3 	North Sabine Fire Protection District repeater 3 	FMN 	Fire Dispatch 
+154.44500 	154.07000  	WNPO548 	RM		WARDS 1&2 FD 	Wards 1 & 2 Fire Protection District 	FMN 	Fire Dispatch 
+155.38500 	   	WPPE548 	RM		MEDX DISP 	Med Express EMS Dispatch - Many Tower *Also on LWIN* 	FMN 	EMS Dispatch 
+155.05500 	   	KYU770 	BM		SP-PW 1 	Parish Public Works Main 	FMN 	Public Works 
+158.89500 	   	KYU770 	M		SP-PW 2 	Parish Public Works Car to Car 	FMN 	Public Works 
+154.32500 	   	WPPZ768 	BM		Horneck Fire 	Fire 	FMN 	Fire Dispatch 
+155.80500 	153.90500  	WPZX261 	RM	192.8 PL	MPD-DISP 	Police Primary 	FMN 	Law Dispatch 
+155.59500 	   	WPGF920 	BM		MPD-2 	Police Operations 	FM 	Law Tac 
+155.14500 	   	KGV232 	RM		TBP Many 155.145 	Many 	FMN 	Public Works 
+155.76000 	   	KGV232 	RM		TBP Many 155.76 	Many 	FMN 	Public Works 
+158.75250 	   	WQXE497 	BM		Zwolle Police 	Police 	FMN 	Law Dispatch 
+CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	Entergy 	 Project 25 Phase II	 Various	

@@ -1,11 +1,10 @@
-453.87500 	WPYA610 	RM	162.2 PL	Davison SO 	Sheriff 	FMN 	Law Dispatch 
-453.62500 	WPYA610  	RM	88.5 PL	Davison OEM 	Emergency/S&R/Roads 	FMN 	Multi-Dispatch 
-453.28750 	WPYA610 	RM	CSQ	Davison MEOC 	Mobile Emergency Operations Center (MEOC) 	FMN 	Emergency Ops 
-453.15000 	KXO799 	RM	136.5 PL	Mitchell PD 	Police 	FM 	Law Dispatch 
-154.40000 	WNBJ499 	RM	173.8 PL	Mitchell FDD 	Fire/EMS Dispatch 	FM 	Fire Dispatch 
-154.01000 	WNBJ499 	BM	173.8 PL	Mitchell FDT 	Fire Tactical 	FM 	Fire-Tac 
-154.04000 	KLW216 	RM	173.8 PL	Mitchell PW 	City Engineer 	FM 	Public Works 
-163.25000 	WPMJ590 	B		Avera Page 	Avera Hospital Paging 	FM 	EMS Dispatch 
-461.30000 	WNNX222 	RM	CC 1TG 213SL 2	Avera Hosp 	Avera Hospital 	DMR 	Hospital 
-East River Electric Coop	 DMR Tier 3	 Multiple (SysID 16)	RACOM Network	 EDACS Networked Standard	 Various	South Dakota State Radio System	 Motorola Type II SmartZone
- Statewide	
+453.87500 	458.87500  	WPYA610 	RM	162.2 PL	Davison SO 	Sheriff 	FMN 	Law Dispatch 
+453.62500 	458.62500  	WPYA610  	RM	88.5 PL	Davison OEM 	Emergency/S&R/Roads 	FMN 	Multi-Dispatch 
+453.28750 	458.28750  	WPYA610 	RM	CSQ	Davison MEOC 	Mobile Emergency Operations Center (MEOC) 	FMN 	Emergency Ops 
+453.15000 	458.15000  	KXO799 	RM	136.5 PL	Mitchell PD 	Police 	FM 	Law Dispatch 
+154.40000 	156.00000  	WNBJ499 	RM	173.8 PL	Mitchell FDD 	Fire/EMS Dispatch 	FM 	Fire Dispatch 
+154.01000 	   	WNBJ499 	BM	173.8 PL	Mitchell FDT 	Fire Tactical 	FM 	Fire-Tac 
+154.04000 	158.88000  	KLW216 	RM	173.8 PL	Mitchell PW 	City Engineer 	FM 	Public Works 
+163.25000 	   	WPMJ590 	B		Avera Page 	Avera Hospital Paging 	FM 	EMS Dispatch 
+461.30000 	466.30000  	WNNX222 	RM	CC 1TG 213SL 2	Avera Hosp 	Avera Hospital 	DMR 	Hospital 
+East River Electric Coop	 DMR Tier 3	 Multiple (SysID 16)	RACOM Network	 EDACS Networked Standard	 Various	South Dakota State Radio System	 Motorola Type II SmartZone	 Statewide

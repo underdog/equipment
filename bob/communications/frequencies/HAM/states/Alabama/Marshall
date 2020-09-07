@@ -1,46 +1,46 @@
-155.70000 	WQCG879 	RM	186.2 PL	MCSO Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
-154.88250 	WQFX981 	RM	156.7 PL	MCSO Patrol 	Sheriff Patrol 	FMN 	Law Talk 
-155.31750 	WQAK802 	RM		MCSO TAC 1 	Sheriff Tactical 1 	FMN 	Law Tac 
-151.29500 	WNWA455 	RM	107.2 PL	MC DA/DEU 	DA Office / Drug Enforcement Unit  	FM 	Law Talk 
-155.43000 	WNWA455 	M		DA/DEU TAC 	DA/DEU Tactical 	FM 	Law Talk 
-154.95000 	 	M		MCSO C2C 	Sheriff Car-to-Car 	FM 	Law Talk 
-155.94750 	WQHR807 	BM	CSQ	MCSO Jail 	Sheriff Jail 	FM 	Corrections 
-154.32500 	WPBG769 	RM	151.4 PL	MCFD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
-155.23500 	WPKV360 	RM	CC 1TG *SL *	MMC EMS Disp 	MMC EMS Dispatch - North & South (Digital, Encrypted) 	DMRE 	EMS Dispatch 
-155.23500 	WPKV360 	RM	115 DPL	MMC EMS Disp 	MMC EMS Dispatch - North & South (Analog) 	FMN 	EMS Dispatch 
-151.08500 	WQQH427 	RM	CC 1TG *SL *	MMC EMS Ops 	MMC EMS Operations 	DMR 	EMS-Tac 
-155.34000 	WQOV200 	BM	203.5 PL	MMC-S HEAR 	Marshall Medical Center South 	FMN 	Hospital 
-155.34000 	WQOV200 	BM	107.2 PL	MMC-N HEAR 	Marshall Medical Center North 	FMN 	Hospital 
-37.18000 	WQFG307 	BM		MC 911 VLow 	911 VHF Low 	FM 	Emergency Ops 
-151.02500 	WPMP991 	RM	107.2 PL	EMA/WX Sirens 	Emergency Management Weather Sirens 	FM 	Emergency Ops 
-154.88250 	WQFX981 	RM	411 DPL	MC 911 VHF 	911 VHF 	FMN 	Emergency Ops 
-453.70000 	WQFJ579 	RM		MC 911 UHF 	911 UHF 	FMN 	Emergency Ops 
-853.05000 	WQFP391 	RM		MC 911 800 	911 800 	FM 	Emergency Ops 
-154.44500 	KDB490 	BM		AlbrtvlSiren 	Weather Siren Activation 	FM 	Emergency Ops 
-158.86500 	WZX717 	BM		Albervil DPW 	Public Works/Streets 	FM 	Public Works 
-453.03750 	WPWI838 	F		WeathrStatn 	Automated Weather Observing System 	FM 	Data 
-460.42500 	KNNG275 	BM		AlbrtvlUtili 	Municipal Utilities 	DMR 	Public Works 
-155.05500 	WPXZ836 	RM	186.2 PL	 Arab Fire 	Fire Dispatch 	FM 	Fire Dispatch 
-156.22500 	WPXZ836 	RM	97.4 PL	Arab Police 	Police 	FM 	Law Talk 
-152.45000 	WPWG735 	RM	203.5 PL	Arab Sch Bus 	School Buses 	FMN 	Schools 
-159.85500 	WNPQ605 	BM	156.7 PL	Arab Water 	Water Works 	FMN 	Public Works 
-453.57500 	KNIB952 	RM		Arab Housing 	Housing Authority 	DMR 	Public Works 
-453.62500 	WPXP985 	RM		Boaz Streets 	Streets/Public Works 	FM 	Public Works 
-154.10000 	KNBL821 	BM		 Grant Fire 	Fire/Rescue 	FM 	Fire Dispatch 
-155.79000 	KFF403 	BM		 GrantPolice 	Police 	FM 	Law Dispatch 
-47.86000 	KFZ835 	BM		 Grant Water 	Water Plant 	FM 	Utilities 
-453.77500 	WNBQ384 	RM		GrantService 	Services 	FM 	Public Works 
-155.76000 	WPTR248 	RM	627 DPL	Guntervl FD 	Fire 	FM 	Fire Dispatch 
-155.28000 	KXK974 	BM		GuntrvlEMS 	EMS 	FM 	EMS Dispatch 
-155.13000 	KIA661 	RM	205 DPL	Guntervl PD 	Police 	FM 	Law Dispatch 
-151.26500 	WQOH708 	RM	107.2 PL	GuntervlPDBU 	Police Dispatch Back-up 	FMN 	Law Tac 
-451.07500 	KBM774 	RM	167.9 PL	Guntervl PW 	Public Works 	FMN 	Public Works 
-453.32500 	KNBN568 	BM		GuntrvlHouse 	Housing Authority 	FM 	Public Works 
-154.44500 	WNBS976 	BM		Asbury VFD 	Asbury VFD 	FMN 	Fire-Talk 
-460.57500 	WNXJ334 	RM		Beulah VFD1 	Beulah VFD 1 	FMN 	Fire-Talk 
-154.71750 	WNXJ334 	M		Beulah VFD2 	 	FMN 	Fire-Talk 
-154.20500 	KNAP259 	RM		Douglas VFD 	Douglas VFD 	FMN 	Fire-Talk 
-154.29500 	WQQA338 	M		Ruth VFD 	Ruth VFD 	FMN 	Fire-Talk 
-154.13000 	WRL645 	RM		UnionGroVFD  	Union Grove VFD 	FMN 	Fire-Talk 
- Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Albertville	 Motorola Type II Smartnet	 Albertville	Albertville Utilities	 DMR Motorola Capacity Plus Single Site (TRBO)
- Albertville	SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various	
+155.70000 	154.95000  	WQCG879 	RM	186.2 PL	MCSO Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
+154.88250 	159.07500  	WQFX981 	RM	156.7 PL	MCSO Patrol 	Sheriff Patrol 	FMN 	Law Talk 
+155.31750 	154.74750  	WQAK802 	RM		MCSO TAC 1 	Sheriff Tactical 1 	FMN 	Law Tac 
+151.29500 	154.71000  	WNWA455 	RM	107.2 PL	MC DA/DEU 	DA Office / Drug Enforcement Unit  	FM 	Law Talk 
+155.43000 	   	WNWA455 	M		DA/DEU TAC 	DA/DEU Tactical 	FM 	Law Talk 
+154.95000 	   	 	M		MCSO C2C 	Sheriff Car-to-Car 	FM 	Law Talk 
+155.94750 	   	WQHR807 	BM	CSQ	MCSO Jail 	Sheriff Jail 	FM 	Corrections 
+154.32500 	160.12500  	WPBG769 	RM	151.4 PL	MCFD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+155.23500 	158.90250  	WPKV360 	RM	CC 1TG *SL *	MMC EMS Disp 	MMC EMS Dispatch - North & South (Digital, Encrypted) 	DMRE 	EMS Dispatch 
+155.23500 	158.90250  	WPKV360 	RM	115 DPL	MMC EMS Disp 	MMC EMS Dispatch - North & South (Analog) 	FMN 	EMS Dispatch 
+151.08500 	158.80500  	WQQH427 	RM	CC 1TG *SL *	MMC EMS Ops 	MMC EMS Operations 	DMR 	EMS-Tac 
+155.34000 	   	WQOV200 	BM	203.5 PL	MMC-S HEAR 	Marshall Medical Center South 	FMN 	Hospital 
+155.34000 	   	WQOV200 	BM	107.2 PL	MMC-N HEAR 	Marshall Medical Center North 	FMN 	Hospital 
+37.18000 	   	WQFG307 	BM		MC 911 VLow 	911 VHF Low 	FM 	Emergency Ops 
+151.02500 	156.04500  	WPMP991 	RM	107.2 PL	EMA/WX Sirens 	Emergency Management Weather Sirens 	FM 	Emergency Ops 
+154.88250 	159.09750  	WQFX981 	RM	411 DPL	MC 911 VHF 	911 VHF 	FMN 	Emergency Ops 
+453.70000 	458.70000  	WQFJ579 	RM		MC 911 UHF 	911 UHF 	FMN 	Emergency Ops 
+853.05000 	808.05000  	WQFP391 	RM		MC 911 800 	911 800 	FM 	Emergency Ops 
+154.44500 	   	KDB490 	BM		AlbrtvlSiren 	Weather Siren Activation 	FM 	Emergency Ops 
+158.86500 	   	WZX717 	BM		Albervil DPW 	Public Works/Streets 	FM 	Public Works 
+453.03750 	   	WPWI838 	F		WeathrStatn 	Automated Weather Observing System 	FM 	Data 
+460.42500 	   	KNNG275 	BM		AlbrtvlUtili 	Municipal Utilities 	DMR 	Public Works 
+155.05500 	155.62500  	WPXZ836 	RM	186.2 PL	 Arab Fire 	Fire Dispatch 	FM 	Fire Dispatch 
+156.22500 	158.98500  	WPXZ836 	RM	97.4 PL	Arab Police 	Police 	FM 	Law Talk 
+152.45000 	157.71000  	WPWG735 	RM	203.5 PL	Arab Sch Bus 	School Buses 	FMN 	Schools 
+159.85500 	   	WNPQ605 	BM	156.7 PL	Arab Water 	Water Works 	FMN 	Public Works 
+453.57500 	458.57500  	KNIB952 	RM		Arab Housing 	Housing Authority 	DMR 	Public Works 
+453.62500 	458.62500  	WPXP985 	RM		Boaz Streets 	Streets/Public Works 	FM 	Public Works 
+154.10000 	   	KNBL821 	BM		 Grant Fire 	Fire/Rescue 	FM 	Fire Dispatch 
+155.79000 	   	KFF403 	BM		 GrantPolice 	Police 	FM 	Law Dispatch 
+47.86000 	   	KFZ835 	BM		 Grant Water 	Water Plant 	FM 	Utilities 
+453.77500 	458.77500  	WNBQ384 	RM		GrantService 	Services 	FM 	Public Works 
+155.76000 	150.80500  	WPTR248 	RM	627 DPL	Guntervl FD 	Fire 	FM 	Fire Dispatch 
+155.28000 	   	KXK974 	BM		GuntrvlEMS 	EMS 	FM 	EMS Dispatch 
+155.13000 	158.94000  	KIA661 	RM	205 DPL	Guntervl PD 	Police 	FM 	Law Dispatch 
+151.26500 	159.00000  	WQOH708 	RM	107.2 PL	GuntervlPDBU 	Police Dispatch Back-up 	FMN 	Law Tac 
+451.07500 	456.07500  	KBM774 	RM	167.9 PL	Guntervl PW 	Public Works 	FMN 	Public Works 
+453.32500 	   	KNBN568 	BM		GuntrvlHouse 	Housing Authority 	FM 	Public Works 
+154.44500 	   	WNBS976 	BM		Asbury VFD 	Asbury VFD 	FMN 	Fire-Talk 
+460.57500 	465.57500  	WNXJ334 	RM		Beulah VFD1 	Beulah VFD 1 	FMN 	Fire-Talk 
+154.71750 	   	WNXJ334 	M		Beulah VFD2 	 	FMN 	Fire-Talk 
+154.20500 	155.88750  	KNAP259 	RM		Douglas VFD 	Douglas VFD 	FMN 	Fire-Talk 
+154.29500 	   	WQQA338 	M		Ruth VFD 	Ruth VFD 	FMN 	Fire-Talk 
+154.13000 	   	WRL645 	RM		UnionGroVFD  	Union Grove VFD 	FMN 	Fire-Talk 
+ Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Albertville	 Motorola Type II Smartnet	 Albertville	Albertville Utilities	 DMR Motorola Capacity Plus Single Site (TRBO)	 Albertville
+SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various	

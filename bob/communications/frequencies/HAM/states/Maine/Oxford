@@ -1,45 +1,45 @@
-153.99500 	KUE583 	BM		Oxford Towns 	Town/Municipal Services 	FM 	Public Works 
-154.07000 	KUS561 	BM	110.9 PL	OxfordCntyFD 	Fire 	FM 	Fire Dispatch 
-155.07000 	WPKG622 	BM	192.8 PL	OxfordCntySO 	Sheriff Dispatch 	FM 	Law Dispatch 
-155.29500 	WNQX226 	BM	100.0 PL	Med Care Amb 	Med Care Ambulance (Countywide) 	FM 	EMS Dispatch 
-465.61250 	 	RM	241.8 PL	Oxford FD DL 	Oxford County RCC Downlink  	FM 	Fire Dispatch 
-154.14500 	KNIC498 	B	192.8 PL	FD/PW 	Andover Town 	FMN 	Fire-Talk 
-154.02500 	KSE721 	BM		Bethel Fire 	Fire 	FM 	Fire-Talk 
-154.20500 	WPKG692 	B	103.5 PL	Buckfield 	Buckfield Town 	FMN 	Fire-Talk 
-155.92500 	WPNR918 	R	127.3 PL	Buckfield 	Buckfield Town 	FMN 	Public Works 
-154.38500 	KNAK365 	B	179.9 PL	DixfieldFire 	Dixfield Fire Local 	FMN 	Fire-Tac 
-155.89500 	WNDX987 	BM	179.9 PL	DixfieldPD 	Dixfield Police Local 	FM 	Law Talk 
-150.77500 	WPSD978 	M	225.7 PL	Saco-VallFire 	Saco-Valley Fire 	FMN 	Fire-Talk 
-154.19000 	KCG443 	B	146.2 PL	SacoValley 	Saco Valley Fire 	FMN 	Fire-Talk 
-154.19000 	WPVY985 	BM	306 DPL	Fryeburg FD 	Fire 	FM 	Fire-Talk 
-155.95500 	WPRW385 	BM	225.7 PL	FburgRes 	Fryeburg Rescue 	FMN 	EMS-Talk 
-153.80000 	KQG715 	B	192.8 PL	PW 	Greenwood/Woodstock PW 	FMN 	Public Works 
-158.80500 	WPNP735 	R	94.8 PL	GreenwoodFD 	Greenwood FD 	FMN 	Fire-Talk 
-155.34000 	WRA278 	B	107.2 PL	StephensMem 	Stephens Memorial Hospital-Norway 	FMN 	Hospital 
-154.38500 	KNAK365 	BM		Lovell VFD 	Fire 	FM 	Fire-Talk 
-154.05500 	WQGV540 	BM	123.0 PL	MexicoFire 	Mexico Fire Local 	FMN 	Fire-Tac 
-155.82000 	KNDQ432 	BM		MexicoWater 	Mexico Water District 	FMN 	Public Works 
-153.81500 	KNCK690 	B	156.7 PL	Norway Fire 	Norway Fire 	FMN 	Fire-Talk 
-158.99500 	 	BM	100.0 PL	Otis FD 	Otisfield Fire 	FMN 	Fire-Talk 
-153.87500 	WQY577 	B	100.0 PL	Oxford PW 	Oxford PW 	FMN 	Public Works 
-155.60250 	WQRF938 	R	100.0 PL	Oxford Fire 	Oxford Fire/EMS 	FMN 	Fire-Talk 
-153.74000 	WQLY746 	BM	156.7 PL	SParisPW 	South Paris PW 	FMN 	Public Works 
-154.98000 	WQCR521 	B	156.7 PL	WParisFD 	West Paris FD 	FMN 	Fire-Talk 
-155.02500 	KLV997 	B	156.7 PL	SParisFD 	South Paris Fire 	FMN 	Fire-Talk 
-155.10000 	WNLF942 	BM	97.4 PL	Peru Town 	Peru Town 	FMN 	Public Works 
-150.99000 	 	BM	210.7 PL	Porter FD 	Porter FD 	FMN 	Fire-Talk 
-153.11000 	WQKU201 	RM	172 DPL	RSU10 	RSU 10 Schools 	FMN 	Schools 
-153.93500 	KBK986 	BM	100.0 PL	Rumford Hwy 	Services / Highway 	FM 	Public Works 
-154.26500 	 	M		RumfordFDT1 	Fire Tactical 1 	FM 	Fire-Tac 
-154.28000 	 	M		RumfordFDT2 	Fire Tactical 2 	FM 	Fire-Tac 
-154.29500 	 	M		RumfordFDT3 	Fire Tactical 3 	FM 	Fire-Tac 
-154.34000 	KCJ945 	RM	100.0 PL	Fire PrimOps 	Fire Primary Operations  	FM 	Fire-Tac 
-154.80000 	KCD477 	BM	146.2 PL	Rumford PDD 	Police (Oxford County Dispatch) 	FM 	Law Dispatch 
-153.84500 	WXM676 	BM		Waterford FD 	Fire 	FM 	Fire-Talk 
-153.80000 	KQG715 	B	192.8 PL	PW 	Greenwood/Woodstock PW 	FMN 	Public Works 
-152.28500 	WPMB598 	RM	91.5 PL	SAD 17 Buses 	School Administrative District #17 Buses 	FMN 	Schools 
-155.22000 	WNGA868 	BM	82.5 PL	Paris ESS 	Paris Elementary School South 	FMN 	Schools 
-453.62500 	WPPX445 	R	CC 1TG 1SL *	MtnAbAdmin 	MSAD 44: Mount Abarms School Admin 	DMR 	Schools 
-Atlantic Communications	 LTR Standard	 Various	Atlantic Communications	 DMR Conventional Networked	 Various	Central Maine Power	 LTR Standard
- Various	Industrial Communications (Buckfield)	 Motorola Type II	 Buckfield	Maine Radio	 DMR Motorola Connect Plus (TRBO)	 Various	Maine State Communications Network (MSCommNet)
- Project 25 Phase I	 Statewide	MaineStream Solutions	 NXDN Icom IDAS Type D	 Falmouth	RCM Communications (Hytera XPT)	 DMR Hytera XPT	 Portland
+153.99500 	   	KUE583 	BM		Oxford Towns 	Town/Municipal Services 	FM 	Public Works 
+154.07000 	   	KUS561 	BM	110.9 PL	OxfordCntyFD 	Fire 	FM 	Fire Dispatch 
+155.07000 	   	WPKG622 	BM	192.8 PL	OxfordCntySO 	Sheriff Dispatch 	FM 	Law Dispatch 
+155.29500 	   	WNQX226 	BM	100.0 PL	Med Care Amb 	Med Care Ambulance (Countywide) 	FM 	EMS Dispatch 
+465.61250 	   	 	RM	241.8 PL	Oxford FD DL 	Oxford County RCC Downlink  	FM 	Fire Dispatch 
+154.14500 	   	KNIC498 	B	192.8 PL	FD/PW 	Andover Town 	FMN 	Fire-Talk 
+154.02500 	   	KSE721 	BM		Bethel Fire 	Fire 	FM 	Fire-Talk 
+154.20500 	   	WPKG692 	B	103.5 PL	Buckfield 	Buckfield Town 	FMN 	Fire-Talk 
+155.92500 	   	WPNR918 	R	127.3 PL	Buckfield 	Buckfield Town 	FMN 	Public Works 
+154.38500 	   	KNAK365 	B	179.9 PL	DixfieldFire 	Dixfield Fire Local 	FMN 	Fire-Tac 
+155.89500 	   	WNDX987 	BM	179.9 PL	DixfieldPD 	Dixfield Police Local 	FM 	Law Talk 
+150.77500 	   	WPSD978 	M	225.7 PL	Saco-VallFire 	Saco-Valley Fire 	FMN 	Fire-Talk 
+154.19000 	   	KCG443 	B	146.2 PL	SacoValley 	Saco Valley Fire 	FMN 	Fire-Talk 
+154.19000 	   	WPVY985 	BM	306 DPL	Fryeburg FD 	Fire 	FM 	Fire-Talk 
+155.95500 	   	WPRW385 	BM	225.7 PL	FburgRes 	Fryeburg Rescue 	FMN 	EMS-Talk 
+153.80000 	   	KQG715 	B	192.8 PL	PW 	Greenwood/Woodstock PW 	FMN 	Public Works 
+158.80500 	   	WPNP735 	R	94.8 PL	GreenwoodFD 	Greenwood FD 	FMN 	Fire-Talk 
+155.34000 	   	WRA278 	B	107.2 PL	StephensMem 	Stephens Memorial Hospital-Norway 	FMN 	Hospital 
+154.38500 	   	KNAK365 	BM		Lovell VFD 	Fire 	FM 	Fire-Talk 
+154.05500 	   	WQGV540 	BM	123.0 PL	MexicoFire 	Mexico Fire Local 	FMN 	Fire-Tac 
+155.82000 	   	KNDQ432 	BM		MexicoWater 	Mexico Water District 	FMN 	Public Works 
+153.81500 	   	KNCK690 	B	156.7 PL	Norway Fire 	Norway Fire 	FMN 	Fire-Talk 
+158.99500 	   	 	BM	100.0 PL	Otis FD 	Otisfield Fire 	FMN 	Fire-Talk 
+153.87500 	   	WQY577 	B	100.0 PL	Oxford PW 	Oxford PW 	FMN 	Public Works 
+155.60250 	   	WQRF938 	R	100.0 PL	Oxford Fire 	Oxford Fire/EMS 	FMN 	Fire-Talk 
+153.74000 	   	WQLY746 	BM	156.7 PL	SParisPW 	South Paris PW 	FMN 	Public Works 
+154.98000 	   	WQCR521 	B	156.7 PL	WParisFD 	West Paris FD 	FMN 	Fire-Talk 
+155.02500 	   	KLV997 	B	156.7 PL	SParisFD 	South Paris Fire 	FMN 	Fire-Talk 
+155.10000 	   	WNLF942 	BM	97.4 PL	Peru Town 	Peru Town 	FMN 	Public Works 
+150.99000 	   	 	BM	210.7 PL	Porter FD 	Porter FD 	FMN 	Fire-Talk 
+153.11000 	158.19000  	WQKU201 	RM	172 DPL	RSU10 	RSU 10 Schools 	FMN 	Schools 
+153.93500 	   	KBK986 	BM	100.0 PL	Rumford Hwy 	Services / Highway 	FM 	Public Works 
+154.26500 	   	 	M		RumfordFDT1 	Fire Tactical 1 	FM 	Fire-Tac 
+154.28000 	   	 	M		RumfordFDT2 	Fire Tactical 2 	FM 	Fire-Tac 
+154.29500 	   	 	M		RumfordFDT3 	Fire Tactical 3 	FM 	Fire-Tac 
+154.34000 	159.00000  	KCJ945 	RM	100.0 PL	Fire PrimOps 	Fire Primary Operations  	FM 	Fire-Tac 
+154.80000 	   	KCD477 	BM	146.2 PL	Rumford PDD 	Police (Oxford County Dispatch) 	FM 	Law Dispatch 
+153.84500 	   	WXM676 	BM		Waterford FD 	Fire 	FM 	Fire-Talk 
+153.80000 	   	KQG715 	B	192.8 PL	PW 	Greenwood/Woodstock PW 	FMN 	Public Works 
+152.28500 	157.54500  	WPMB598 	RM	91.5 PL	SAD 17 Buses 	School Administrative District #17 Buses 	FMN 	Schools 
+155.22000 	   	WNGA868 	BM	82.5 PL	Paris ESS 	Paris Elementary School South 	FMN 	Schools 
+453.62500 	   	WPPX445 	R	CC 1TG 1SL *	MtnAbAdmin 	MSAD 44: Mount Abarms School Admin 	DMR 	Schools 
+Atlantic Communications	 LTR Standard	 Various	Atlantic Communications	 DMR Conventional Networked	 Various	Central Maine Power	 LTR Standard	 Various
+Industrial Communications (Buckfield)	 Motorola Type II	 Buckfield	Maine Radio	 DMR Motorola Connect Plus (TRBO)	 Various	Maine State Communications Network (MSCommNet)	 Project 25 Phase I	 Statewide
+MaineStream Solutions	 NXDN Icom IDAS Type D	 Falmouth	RCM Communications (Hytera XPT)	 DMR Hytera XPT	 Portland	

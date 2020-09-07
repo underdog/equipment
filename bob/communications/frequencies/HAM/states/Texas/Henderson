@@ -1,38 +1,38 @@
-155.31000 	KUQ560 	RM	110.9 PL	Hend SO 3 E 	Sheriff Dispatch - East PDs 	FMN 	Law Dispatch 
-155.01000 	KUQ560 	RM	110.9 PL	Hend SO 2 W 	Sheriff Dispatch - West PDs 	FMN 	Law Dispatch 
-154.72500 	WQBA340 	RM	110.9 PL	Hend SO Disp 	Sheriff Dispatch - Sheriff Units 	FMN 	Law Dispatch 
-154.32500 	WNXN455 	RM	110.9 PL	Hend FNet W 	Fire Net West 	FMN 	Fire Dispatch 
-154.43000 	WNXN455 	RM	110.9 PL	Hend FNet E 	Fire Net East 	FMN 	Fire Dispatch 
-150.80500 	WQDI546 	M		Hend CF Tac 	Fire Tactical 	FMN 	Fire-Tac 
-154.98000 	WQBT257 	RM	110.9 PL	Hend Co RoBr 	Road and Bridge 	FMN 	Other 
-155.61000 	KUQ562 	RM	411 DPL	Athens PD 1 	Police Dispatch 	FMN 	Law Dispatch 
-155.89500 	WNYJ408 	RM	110.9 PL	Athens PD 2 	Police Secondary 	FMN 	Law Tac 
-154.40000 	KNEZ933 	RM	261 DPL	Athens FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.05500 	KNGJ604 	BM	186.2 PL	Athens PW 	Public Works 	FMN 	Public Works 
-154.74000 	KNDV381 	BM	110.9 PL	CaneyCty PD 	Police Tactical 	FMN 	Law Tac 
-156.15000 	WNHM486 	BM	110.9 PL	Chandler PD 	Police Tactical 	FMN 	Law Tac 
-154.14500 	WPFD261 	BM		Chandler VFD 	Fire Tactical 	FMN 	Fire-Tac 
-154.86750 	WPXB522 	RM		CoffCty PD 	Police 	FMN 	Law Tac 
-154.71000 	WPN76 	RM	110.9 PL	GunBarl PD 	Police Dispatch 	FMN 	Law Dispatch 
-155.86500 	WNIM701 	RM	131.8 PL	GunBarl FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.49750 	WPXD756 	BM	110.9 PL	Malakoff PD 	Police Dispatch 	FMN 	Law Dispatch 
-158.77500 	WNED343 	BM	110.9 PL	Malakoff PW 	Public Works 	FMN 	Public Works 
-155.65500 	WYV307 	RM	110.9 PL	7 Points PD 	Police Dispatch 	FMN 	Law Dispatch 
-155.37000 	WYV307 	BM		Texas Law 2 	Police Intercity Base 	FMN 	Interop 
-154.25000 	WPPY391 	RM		7 Points VFD 	VFD 	FMN 	Fire Dispatch 
-154.28000 	WPPY391 	BM		Texas Fire 1 	Fire Mutual Aid 	FMN 	Interop 
-155.62500 	WPZS328 	RM	125 DPL	Tool PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
-158.83500 	WPZS330 	RM		Tool PW 	Public Works Ops 	FMN 	Public Works 
-151.14500 	WQGS621 	RM		EnchOaks VFD 	Enchanter Oaks Volunteer Fire Department 	FMN 	Fire-Tac 
-154.16000 	WPEM681 	BM	100.0 PL	Murchison FD 	Murchison Volunteer Fire Department 	FMN 	Fire-Tac 
-154.44500 	WPIY682 	BM		PaynSprgs FD 	Payne Springs Volunteer Fire Department 	FMN 	Fire-Tac 
-151.08500 	WQEN284 	RM		SouthSideVFD 	Southside Volunteer Fire Department 	FMN 	Fire-Tac 
-159.19500 	KNIP861 	RM		Trinidad VFD 	Trinidad Volunteer Fire Department 	FMN 	Fire-Tac 
-151.83500 	WNXV382 	BM		Ath ISD Bus 	Buses 	FMN 	Schools 
-151.86500 	WPVA858 	RM		Ath ISD Mnt 	Maintenance Operations 	FMN 	Schools 
-159.66000 	WNXV382 	BM		Ath ISD Mnt 	Maintenance 	FMN 	Schools 
-152.43500 	WPRU801 	RM	110.9 PL	Athens HS 	Athens High School 	FMN 	Schools 
-153.42500 	WPPF347 	RM		Eustace ISD 	Transportation 	FMN 	Schools 
-462.10000 	WQFL777 	RM		Malakoff ISD 	Transportation, Admin 	FMN 	Schools 
-DFW Communications	 LTR Standard	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various	Texas Wide Area Radio Network (TxWARN)	 Project 25 Phase II
- Various	Trinity Valley Electric Coop	 DMR Motorola Capacity Plus Multi Site (TRBO)	 	
+155.31000 	154.83000  	KUQ560 	RM	110.9 PL	Hend SO 3 E 	Sheriff Dispatch - East PDs 	FMN 	Law Dispatch 
+155.01000 	156.03000  	KUQ560 	RM	110.9 PL	Hend SO 2 W 	Sheriff Dispatch - West PDs 	FMN 	Law Dispatch 
+154.72500 	158.89500  	WQBA340 	RM	110.9 PL	Hend SO Disp 	Sheriff Dispatch - Sheriff Units 	FMN 	Law Dispatch 
+154.32500 	153.77000  	WNXN455 	RM	110.9 PL	Hend FNet W 	Fire Net West 	FMN 	Fire Dispatch 
+154.43000 	154.07000  	WNXN455 	RM	110.9 PL	Hend FNet E 	Fire Net East 	FMN 	Fire Dispatch 
+150.80500 	   	WQDI546 	M		Hend CF Tac 	Fire Tactical 	FMN 	Fire-Tac 
+154.98000 	158.95500  	WQBT257 	RM	110.9 PL	Hend Co RoBr 	Road and Bridge 	FMN 	Other 
+155.61000 	158.80500  	KUQ562 	RM	411 DPL	Athens PD 1 	Police Dispatch 	FMN 	Law Dispatch 
+155.89500 	153.99500  	WNYJ408 	RM	110.9 PL	Athens PD 2 	Police Secondary 	FMN 	Law Tac 
+154.40000 	153.85250  	KNEZ933 	RM	261 DPL	Athens FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.05500 	   	KNGJ604 	BM	186.2 PL	Athens PW 	Public Works 	FMN 	Public Works 
+154.74000 	   	KNDV381 	BM	110.9 PL	CaneyCty PD 	Police Tactical 	FMN 	Law Tac 
+156.15000 	   	WNHM486 	BM	110.9 PL	Chandler PD 	Police Tactical 	FMN 	Law Tac 
+154.14500 	   	WPFD261 	BM		Chandler VFD 	Fire Tactical 	FMN 	Fire-Tac 
+154.86750 	158.91750  	WPXB522 	RM		CoffCty PD 	Police 	FMN 	Law Tac 
+154.71000 	158.85000  	WPN76 	RM	110.9 PL	GunBarl PD 	Police Dispatch 	FMN 	Law Dispatch 
+155.86500 	159.00000  	WNIM701 	RM	131.8 PL	GunBarl FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.49750 	   	WPXD756 	BM	110.9 PL	Malakoff PD 	Police Dispatch 	FMN 	Law Dispatch 
+158.77500 	   	WNED343 	BM	110.9 PL	Malakoff PW 	Public Works 	FMN 	Public Works 
+155.65500 	159.15000  	WYV307 	RM	110.9 PL	7 Points PD 	Police Dispatch 	FMN 	Law Dispatch 
+155.37000 	154.95000  	WYV307 	BM		Texas Law 2 	Police Intercity Base 	FMN 	Interop 
+154.25000 	   	WPPY391 	RM		7 Points VFD 	VFD 	FMN 	Fire Dispatch 
+154.28000 	   	WPPY391 	BM		Texas Fire 1 	Fire Mutual Aid 	FMN 	Interop 
+155.62500 	154.65000  	WPZS328 	RM	125 DPL	Tool PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+158.83500 	153.75500  	WPZS330 	RM		Tool PW 	Public Works Ops 	FMN 	Public Works 
+151.14500 	155.80500  	WQGS621 	RM		EnchOaks VFD 	Enchanter Oaks Volunteer Fire Department 	FMN 	Fire-Tac 
+154.16000 	   	WPEM681 	BM	100.0 PL	Murchison FD 	Murchison Volunteer Fire Department 	FMN 	Fire-Tac 
+154.44500 	   	WPIY682 	BM		PaynSprgs FD 	Payne Springs Volunteer Fire Department 	FMN 	Fire-Tac 
+151.08500 	156.10500  	WQEN284 	RM		SouthSideVFD 	Southside Volunteer Fire Department 	FMN 	Fire-Tac 
+159.19500 	154.14500  	KNIP861 	RM		Trinidad VFD 	Trinidad Volunteer Fire Department 	FMN 	Fire-Tac 
+151.83500 	   	WNXV382 	BM		Ath ISD Bus 	Buses 	FMN 	Schools 
+151.86500 	159.54000  	WPVA858 	RM		Ath ISD Mnt 	Maintenance Operations 	FMN 	Schools 
+159.66000 	   	WNXV382 	BM		Ath ISD Mnt 	Maintenance 	FMN 	Schools 
+152.43500 	157.69500  	WPRU801 	RM	110.9 PL	Athens HS 	Athens High School 	FMN 	Schools 
+153.42500 	159.88500  	WPPF347 	RM		Eustace ISD 	Transportation 	FMN 	Schools 
+462.10000 	467.10000  	WQFL777 	RM		Malakoff ISD 	Transportation, Admin 	FMN 	Schools 
+BrandMeister Texas	 DMR Conventional Networked	 Various	DFW Communications	 LTR Standard	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various
+Trinity Valley Electric Coop	 DMR Motorola Capacity Plus Multi Site (TRBO)	 	

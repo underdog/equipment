@@ -1,17 +1,17 @@
-159.15000 	WPJT684 	RM	1 RAN	GC SO Disp 	Sheriff Dispatch 	NXDN 	Law Dispatch 
-159.15000 	WPJT684 	RM	162 DPL	GC SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.19000 	WPJT684 	BM		GC SO Scnd 	Sheriff Secondary 	FMN 	Law Talk 
-154.95000 	 	M		GCSO MA FL 1 	Sheriff - Mutual Aid with Florida 	FMN 	Interop 
-155.37000 	 	B		GCSO MA FL 2 	Sheriff - Mutual Aid with Florida 	FMN 	Interop 
-153.65000 	WNRE260 	RM		GC Utilities 	Utilities Dept. - Gas Distribution 	FMN 	Utilities 
-159.23250 	WQPP657 	RM	1 RAN	GCRural Fire 	Rural Fire 	NXDN 	Fire Dispatch 
-453.60000 	KNHZ706 	RM	074 DPL	GC Roads 	Highway Dept. 	FMN 	Public Works 
-159.18750 	WNVG881 	BM	1 RAN	Geneva PD 1 	Police Dispatch 	NXDN 	Law Dispatch 
-155.19000 	WNVG881 	BM		Geneva PD 2 	Police 	FMN 	Law Talk 
-154.16000 	WPGY310 	BM	179.9 PL	Geneva FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.75500 	WPFS278 	M		Geneva DPW 	DPW 	FMN 	Public Works 
-155.19000 	WQDJ534 	BM	032 DPL	Hart PD/FD 	Police / Fire 	FMN 	Multi-Dispatch 
-155.57250 	WNSI788 	RM	1 RAN	Samson PD 	Police 	NXDN 	Multi-Dispatch 
-154.98000 	WNZA998 	BM	162 DPL	Slocomb FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-453.55000 	WNJW306 	RM	664 DPL	AFC Fire 1 	Rural Fire Suppression 	FMN 	Fire Dispatch 
+159.15000 	156.15000  	WPJT684 	RM	1 RAN	GC SO Disp 	Sheriff Dispatch 	NXDN 	Law Dispatch 
+159.15000 	156.15000  	WPJT684 	RM	162 DPL	GC SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.19000 	   	WPJT684 	BM		GC SO Scnd 	Sheriff Secondary 	FMN 	Law Talk 
+154.95000 	   	 	M		GCSO MA FL 1 	Sheriff - Mutual Aid with Florida 	FMN 	Interop 
+155.37000 	   	 	B		GCSO MA FL 2 	Sheriff - Mutual Aid with Florida 	FMN 	Interop 
+153.65000 	158.22000  	WNRE260 	RM		GC Utilities 	Utilities Dept. - Gas Distribution 	FMN 	Utilities 
+159.23250 	   	WQPP657 	RM	1 RAN	GCRural Fire 	Rural Fire 	NXDN 	Fire Dispatch 
+453.60000 	458.60000  	KNHZ706 	RM	074 DPL	GC Roads 	Highway Dept. 	FMN 	Public Works 
+159.18750 	153.98000  	WNVG881 	BM	1 RAN	Geneva PD 1 	Police Dispatch 	NXDN 	Law Dispatch 
+155.19000 	   	WNVG881 	BM		Geneva PD 2 	Police 	FMN 	Law Talk 
+154.16000 	   	WPGY310 	BM	179.9 PL	Geneva FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.75500 	   	WPFS278 	M		Geneva DPW 	DPW 	FMN 	Public Works 
+155.19000 	   	WQDJ534 	BM	032 DPL	Hart PD/FD 	Police / Fire 	FMN 	Multi-Dispatch 
+155.57250 	   	WNSI788 	RM	1 RAN	Samson PD 	Police 	NXDN 	Multi-Dispatch 
+154.98000 	   	WNZA998 	BM	162 DPL	Slocomb FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.55000 	458.55000  	WNJW306 	RM	664 DPL	AFC Fire 1 	Rural Fire Suppression 	FMN 	Fire Dispatch 
  Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Wiregrass Electric Cooperative	 DMR Tier 3	 Various	

@@ -1,26 +1,25 @@
-151.16000 	WQBT852 	RM	67.0 PL	PIKE SO 	Pike County SO dispatch 	FM 	Law Dispatch 
-39.58000 	KCJ827 	BM	77.0 PL	PIKE SO 	Pike County SO dispatch 	FM 	Law Tac 
-39.72000 	KCJ827 	BM		PIKE SO 	Pike County SO dispatch (not used) 	FM 	Law Tac 
-155.53500 	WPMJ783 	BM	516 DPL	WAVERLY PD 	Waverly Police (Encrypted) 	FME 	Law Dispatch 
-155.89500 	WPNP404 	BM	CSQ	PIKE SO 	Pike County SO (repeats 39.58) 	FM 	Law Tac 
-159.10500 	WPPC589 	BM		PIKETON PD 	Piketon Police 	FM 	Law Tac 
-154.85250 	WQBT852 	RM	103.5 PL	PIKE FIRE 1 	Pike County Fire Dispatch 	FM 	Fire Dispatch 
-154.43000 	WNAP579 	BM	131.8 PL	PIKE FIRE 2 	Pike County Fire Tac 	FM 	Fire-Tac 
-154.10000 	WPLT236 	BM		BEAVER FD 	Beaver Fire admin 	FM 	Fire-Talk 
-154.22000 	WPVX387 	BM		PEBBLE FD 	Pebble Twp Fire admin 	FM 	Fire-Talk 
-154.37000 	KNCJ894 	BM		PIKETON FD 	Piketon-Seal Twp Fire admin 	FM 	Fire-Talk 
-155.82000 	KLX827 	BM		WAVERLY FD2 	Waverly Fire 	FM 	Fire-Tac 
-155.92500 	KLX827 	BM		WAVERLY FD1 	Waverly Fire dispatch 	FM 	Fire Dispatch 
-155.55750 	WQBT852 	RM	85.4 PL	PIKE EMS1 	Pike County EMS Dispatch/Ops 	FM 	EMS Dispatch 
-155.20500 	WPVN615 	BM	77.0 PL	PIKE EMS2 	Pike County EMS tac 	FM 	EMS-Tac 
-153.44000 	WPIY613 	BM		PIKE WATER 	Pike Water 	FM 	Public Works 
-155.22000 	WNBC694 	BM		PIKE TRANSIT 	Pike County public transit 	FM 	Public Works 
-155.83500 	WPNW647 	BM		WAVERLY SVCS 	Waverly Service 	FM 	Public Works 
-159.13500 	WPPC589 	BM		PIKETON SVCS 	Piketon Service 	FM 	Public Works 
-159.16500 	KVG922 	BM		PIKE ENG 	Pike County Engineer 	FM 	Public Works 
-151.86500 	WPBQ747 	BM		WESTERN LSD 	Western Local Schools 	FM 	Schools 
-155.29500 	WNFD676 	BM		WAVERLY LSD 	Waverly Schools 	FM 	Schools 
-123.00000 	 	BM		KEOP CTAF 	CTAF/Unicom 	AM 	Aircraft 
-127.10000 	 	BM		KEOP AP/D 	Approach/Departure (Provided by Indianapolis ARTCC [ZID] } 	AM 	Aircraft 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
- Statewide	
+151.16000 	155.94750  	WQBT852 	RM	67.0 PL	PIKE SO 	Pike County SO dispatch 	FM 	Law Dispatch 
+39.58000 	   	KCJ827 	BM	77.0 PL	PIKE SO 	Pike County SO dispatch 	FM 	Law Tac 
+39.72000 	   	KCJ827 	BM		PIKE SO 	Pike County SO dispatch (not used) 	FM 	Law Tac 
+155.53500 	   	WPMJ783 	BM	516 DPL	WAVERLY PD 	Waverly Police (Encrypted) 	FME 	Law Dispatch 
+155.89500 	   	WPNP404 	BM	CSQ	PIKE SO 	Pike County SO (repeats 39.58) 	FM 	Law Tac 
+159.10500 	   	WPPC589 	BM		PIKETON PD 	Piketon Police 	FM 	Law Tac 
+154.85250 	159.26250  	WQBT852 	RM	103.5 PL	PIKE FIRE 1 	Pike County Fire Dispatch 	FM 	Fire Dispatch 
+154.43000 	   	WNAP579 	BM	131.8 PL	PIKE FIRE 2 	Pike County Fire Tac 	FM 	Fire-Tac 
+154.10000 	   	WPLT236 	BM		BEAVER FD 	Beaver Fire admin 	FM 	Fire-Talk 
+154.22000 	   	WPVX387 	BM		PEBBLE FD 	Pebble Twp Fire admin 	FM 	Fire-Talk 
+154.37000 	   	KNCJ894 	BM		PIKETON FD 	Piketon-Seal Twp Fire admin 	FM 	Fire-Talk 
+155.82000 	   	KLX827 	BM		WAVERLY FD2 	Waverly Fire 	FM 	Fire-Tac 
+155.92500 	   	KLX827 	BM		WAVERLY FD1 	Waverly Fire dispatch 	FM 	Fire Dispatch 
+155.55750 	151.37750  	WQBT852 	RM	85.4 PL	PIKE EMS1 	Pike County EMS Dispatch/Ops 	FM 	EMS Dispatch 
+155.20500 	   	WPVN615 	BM	77.0 PL	PIKE EMS2 	Pike County EMS tac 	FM 	EMS-Tac 
+153.44000 	   	WPIY613 	BM		PIKE WATER 	Pike Water 	FM 	Public Works 
+155.22000 	   	WNBC694 	BM		PIKE TRANSIT 	Pike County public transit 	FM 	Public Works 
+155.83500 	   	WPNW647 	BM		WAVERLY SVCS 	Waverly Service 	FM 	Public Works 
+159.13500 	   	WPPC589 	BM		PIKETON SVCS 	Piketon Service 	FM 	Public Works 
+159.16500 	   	KVG922 	BM		PIKE ENG 	Pike County Engineer 	FM 	Public Works 
+151.86500 	   	WPBQ747 	BM		WESTERN LSD 	Western Local Schools 	FM 	Schools 
+155.29500 	   	WNFD676 	BM		WAVERLY LSD 	Waverly Schools 	FM 	Schools 
+123.00000 	   	 	BM		KEOP CTAF 	CTAF/Unicom 	AM 	Aircraft 
+127.10000 	   	 	BM		KEOP AP/D 	Approach/Departure (Provided by Indianapolis ARTCC [ZID] } 	AM 	Aircraft 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide

@@ -1,33 +1,32 @@
-155.58000 	WYQ457 	RM	118.8 PL	NMad Sheriff 	Sheriff: Dispatch [Licensed to Ambulance District] 	FMN 	Law Dispatch 
-156.15000 	KCN661 	M		NMad SD c2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
-154.75500 	KJI262 	BM	127.3 PL	NMadrid EMS 	EMS: New Madrid County Ambulance 	FMN 	EMS Dispatch 
-154.96500 	WPMC673 	BM	127.3 PL	NMad EMA Ops 	EMA: Operations (Ambulance ???) 	FMN 	Emergency Ops 
-155.14500 	WPMC673 	BM		NM EMA I-Co 	EMA: Intercounty 	FMN 	Emergency Ops 
-156.22500 	WNYN772 	RM		NMad Highway 	Highway Department 	FMN 	Public Works 
-156.00000 	KB95847 	M		NMad W&SCD 	Water and Soil Conservation District 	FMN 	Public Works 
-155.77500 	WPMC673 	BM	127.3 PL	Portg Police 	Police: Dispatch [Licensed to Sheriff] 	FMN 	Law Dispatch 
-154.96500 	WYQ457 	RM	118.8 PL	NMad EMS Dis 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.22000 	WSW786 	M		NMad EMS Tac 	EMS: Tactical 	FMN 	EMS-Tac 
-453.18750 	WYQ457 	M	136.5 PL	NMad EMS MX 	EMS: Vehiclular Repeaters 	FMN 	EMS-Tac 
-155.32500 	KDA725 	RM	146.2 PL	Miss Co EMS 	EMS: Dispatch [Ch 1] (Sikeston) 	FMN 	EMS Dispatch 
-154.17500 	WPWI522 	BM		Canalou Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-158.85000 	WNIK933 	BM		Matt Police 	Police 	FMN 	Law Dispatch 
-155.08500 	KNJX862 	BM		More DPW/FD 	Public Works / Fire 	FMN 	Public Works 
-154.72500 	WPME522 	RM	118.8 PL	NewM Police 	Police: Dispatch 	FMN 	Law Dispatch 
-155.94000 	KNCX383 	BM		NewM Fire 	Fire? 	FMN 	Fire-Tac 
-151.49750 	WQGF677 	BM		NewM HsAuth 	Housing Authority 	FMN 	Public Works 
-154.75500 	WZZ297 	BM	127.3 PL	NMadrid EMS 	EMS: New Madrid County Ambulance 	FMN 	EMS Dispatch 
-151.01750 	WQPX956 	RM	754 DPL	Prtgv Police 	Police: Dispatch - New 	FMN 	Law Dispatch 
-155.77500 	KNIJ494 	BM	127.3 PL	Portg Police 	Police: Dispatch 	FMN 	Law Dispatch 
-155.14500 	WNAN830 	BM	156.7 PL	Port Fire/CD 	Fire / Civil Defense 	FMN 	Emergency Ops 
-154.34000 	WNPD501 	BM		Portgvl Fire 	Fire: Operations 	FMN 	Fire-Tac 
-158.80500 	WQSI648 	BM		Port PubWrks 	Public Works 	FMN 	Public Works 
-155.61000 	WPPV978 	BM		NW Youth Ctr 	New Madrid Bend Youth Center 	FMN 	Public Works 
-461.25000 	WNXK240 	RM		Gidn Sch Op1 	Operations 	FMN 	Schools 
-461.40000 	WNWK935 	RM		Gidn Sch Op2 	Operations 	FMN 	Schools 
-460.72500 	WPIH791 	BM		Prtgv School 	Operations 	FMN 	Schools 
-151.67750 	WPTT911 	BM		Risco School 	Operations/Buses 	FMN 	Schools 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Battles Communications (NXDN-173)	 NXDN NEXEDGE 9600	 SEMO / NE AR	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard
- Various	Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport	 SouthEast MO	Challenger Construction Company (Buchanan)	 LTR Standard	 Quinlin	G and D Communications (SEMO)
- LTR MultiNet	 Bloomfield	G and D Communications - UHF (SEMO)	 LTR Standard	 Various	Magnitude 7 Metals - New Madrid	 DMR Motorola Capacity Plus Single Site (TRBO)	 New Madrid
-SEMO Electric Cooperative (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 SEMO	
+155.58000 	158.95500  	WYQ457 	RM	118.8 PL	NMad Sheriff 	Sheriff: Dispatch [Licensed to Ambulance District] 	FMN 	Law Dispatch 
+156.15000 	   	KCN661 	M		NMad SD c2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+154.75500 	   	KJI262 	BM	127.3 PL	NMadrid EMS 	EMS: New Madrid County Ambulance 	FMN 	EMS Dispatch 
+154.96500 	   	WPMC673 	BM	127.3 PL	NMad EMA Ops 	EMA: Operations (Ambulance ???) 	FMN 	Emergency Ops 
+155.14500 	   	WPMC673 	BM		NM EMA I-Co 	EMA: Intercounty 	FMN 	Emergency Ops 
+156.22500 	159.06000  	WNYN772 	RM		NMad Highway 	Highway Department 	FMN 	Public Works 
+156.00000 	   	KB95847 	M		NMad W&SCD 	Water and Soil Conservation District 	FMN 	Public Works 
+155.77500 	   	WPMC673 	BM	127.3 PL	Portg Police 	Police: Dispatch [Licensed to Sheriff] 	FMN 	Law Dispatch 
+154.96500 	153.80000  	WYQ457 	RM	118.8 PL	NMad EMS Dis 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.22000 	   	WSW786 	M		NMad EMS Tac 	EMS: Tactical 	FMN 	EMS-Tac 
+453.18750 	458.18750  	WYQ457 	M	136.5 PL	NMad EMS MX 	EMS: Vehiclular Repeaters 	FMN 	EMS-Tac 
+155.32500 	150.80500  	KDA725 	RM	146.2 PL	Miss Co EMS 	EMS: Dispatch [Ch 1] (Sikeston) 	FMN 	EMS Dispatch 
+154.17500 	   	WPWI522 	BM		Canalou Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+158.85000 	   	WNIK933 	BM		Matt Police 	Police 	FMN 	Law Dispatch 
+155.08500 	   	KNJX862 	BM		More DPW/FD 	Public Works / Fire 	FMN 	Public Works 
+154.72500 	155.94000  	WPME522 	RM	118.8 PL	NewM Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.94000 	   	KNCX383 	BM		NewM Fire 	Fire? 	FMN 	Fire-Tac 
+151.49750 	   	WQGF677 	BM		NewM HsAuth 	Housing Authority 	FMN 	Public Works 
+154.75500 	   	WZZ297 	BM	127.3 PL	NMadrid EMS 	EMS: New Madrid County Ambulance 	FMN 	EMS Dispatch 
+151.01750 	156.10500  	WQPX956 	RM	754 DPL	Prtgv Police 	Police: Dispatch - New 	FMN 	Law Dispatch 
+155.77500 	   	KNIJ494 	BM	127.3 PL	Portg Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.14500 	   	WNAN830 	BM	156.7 PL	Port Fire/CD 	Fire / Civil Defense 	FMN 	Emergency Ops 
+154.34000 	   	WNPD501 	BM		Portgvl Fire 	Fire: Operations 	FMN 	Fire-Tac 
+158.80500 	   	WQSI648 	BM		Port PubWrks 	Public Works 	FMN 	Public Works 
+155.61000 	   	WPPV978 	BM		NW Youth Ctr 	New Madrid Bend Youth Center 	FMN 	Public Works 
+461.25000 	466.25000  	WNXK240 	RM		Gidn Sch Op1 	Operations 	FMN 	Schools 
+461.40000 	466.40000  	WNWK935 	RM		Gidn Sch Op2 	Operations 	FMN 	Schools 
+460.72500 	   	WPIH791 	BM		Prtgv School 	Operations 	FMN 	Schools 
+151.67750 	   	WPTT911 	BM		Risco School 	Operations/Buses 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Battles Communications (NXDN-173)	 NXDN NEXEDGE 9600	 SEMO / NE AR	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard	 Various
+Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport	 SouthEast MO	Challenger Construction Company (Buchanan)	 LTR Standard	 Quinlin	G and D Communications (SEMO)	 LTR MultiNet	 Bloomfield
+G and D Communications - UHF (SEMO)	 LTR Standard	 Various	Magnitude 7 Metals - New Madrid	 DMR Motorola Capacity Plus Single Site (TRBO)	 New Madrid	SEMO Electric Cooperative (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 SEMO

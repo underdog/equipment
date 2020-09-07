@@ -1,53 +1,53 @@
-46.58000 	WPEI422 	BM		CivilDefense 	Portland Civil Defense 	FM 	Emergency Ops 
-72.98000 	KNJP412 	F		Svcs 72.98 	Services 	FM 	Public Works 
-153.74000 	 	BM		BlueLakePark 	Blue Lake Regional Park Operations 	FMN 	Public Works 
-154.48250 	WQTT874 	RM		OxbowRegPark 	Oxbow Regional Park - Gresham 	FMN 	Public Works 
-155.68500 	KJV351 	RM	103.5 PL	MC EOC 2 	Emergency Management 2 	FMN 	Public Works 
-155.80500 	KB46121 	M		SearchRescue 	Search and Rescue 	FMN 	Emergency Ops 
-156.04500 	KD35206 	M	141.3 PL	Roads Flag 	Roads - Flagging 	FMN 	Public Works 
-156.24000 	KOE808 	BM	123.0 PL	Roads Disp 	Roads - Dispatch 	FMN 	Public Works 
-158.73000 	KJH601 	BM	103.5 PL	MC EOC 1 	Emergency Management 1 	FMN 	Emergency Ops 
-158.73000 	 	BM	123.0 PL	Mult SAR 	Search and Rescue 	FMN 	Emergency Ops 
-453.35000 	 	RM	606 DPL	Metro Svcs 	Metro Services 	FMN 	Public Works 
-460.35000 	KEG813 	RM		LongJuveHome 	Donald E. Long Juvenile Home (JDH) 	FMN 	Corrections 
-460.43750 	 	RM	103.5 PL	MtnWave SAR 	Mtn Wave Search Rescue - Council Crest 	FMN 	Emergency Ops 
-460.50000 	 	RM	100.0 PL	MC SAR 	Search and Rescue 	FMN 	Emergency Ops 
-154.82250 	KNAO330 	BM	88.5 PL	FView PdTalk 	Fairview Police Law Talk 	FMN 	Law Talk 
-853.43750 	 	BM	074 DPL	Fire Sim1 	Fire Simplex 1 	FM 	Fire-Talk 
-851.03750 	 	BM	114 DPL	Fire Sim2 	Fire Simplex 2 	FM 	Fire-Talk 
-851.95000 	 	BM	131 DPL	Fire Sim3 	Fire Simplex 3 	FM 	Fire-Talk 
-851.17500 	 	BM	143 DPL	Fire Sim4 	Fire Simplex 4 	FM 	Fire-Talk 
-853.38750 	 	BM	025 DPL	Fire Mayday 	Fire Mayday 	FM 	Fire-Talk 
-453.58750 	 	BM		Zoo Ops 1 	Zoo Operations 	DMR 	Public Works 
-453.73750 	WQXX533 	RM	CC 5TG *SL *	Zoo Ops 2 	Zoo Operations 	DMR 	Public Works 
-453.78750 	WQXX533 	RM	CC 5TG *SL *	Zoo Ops 3 	Zoo Operations 	DMR 	Public Works 
-462.10000 	WNQS870 	RM	CC 1TG *SL *	Zoo Ops 4 	Operations 4 	DMR 	Business 
-464.67500 	WNQS870 	RM	CC 1TG *SL *	Zoo Ops 5 	Operations 5 	DMR 	Business 
-464.87500 	WNQS870 	BM	CC 1TG 100SL 1	Zoo SecAllCal 	Security All Call 	DMR 	Security 
-166.71250 	 	RM	127.3 PL	WNC Ops 	Cemetery Ops 	FMN 	Federal 
-163.10000 	 	M	167 NAC	FBI Simplex 	FBI Simplex 	P25 	Federal 
-173.81250 	 	M	167 NAC	FBI Simplex 	FBI Simplex 	P25 	Federal 
-408.20000 	 	RM	107 NAC	FPS Portland 	FPS Portland Dispatch 	P25 	Federal 
-152.92250 	 	RM	351 DPL	Concordia U Sec 	Security Dispatch 	FMN 	Security 
-151.80500 	WQKM681 	BM	173.8 PL	CSD Buses 	School Buses 	FMN 	Schools 
-152.31500 	WPZK421 	RM	431 DPL	Gres High 	Gresham High School 	FMN 	Schools 
-464.81250 	 	M	CC 1TG *SL *	OHSU PD Tac 1 	Police Tac 1 	DMR 	Law Tac 
-457.76250 	 	M	CC 5TG *SL *	OHSU PD Tac 2 	Police Tac 2 	DMR 	Law Tac 
-453.52500 	WPRI682 	RM		PSU Pd 	Police 	FMN 	Law Dispatch 
-453.67500 	 	RM	123.0 PL	PSU RecCent 	Student Rec Center 	FMN 	Schools 
-155.17500 	KLX587 	BM	85.4 PL	RSD ShBuse 	School Buses 	FMN 	Schools 
-461.85000 	WQAU954 	M	047 DPL	RSD H School 	Reynolds High School 	FMN 	Schools 
-461.85000 	WQAU954 	M	100.0 PL	RSD NatAcd 	Natural Resources Academy 	FMN 	Schools 
-461.85000 	WQAU954 	M	103.5 PL	RSD L MidSch 	HB Lee Middle School 	FMN 	Schools 
-461.85000 	WQAU954 	M	127.3 PL	RSD MidSch 	Reynolds Middle School 	FMN 	Schools 
-461.85000 	WQAU954 	M	162.2 PL	RSD M MidSch 	Walt Morey Middle School 	FMN 	Schools 
-461.85000 	WQAU954 	RM	754 DPL	RSD Schools 	Reynolds School District 	FMN 	Schools 
-Boeing P25	 Project 25 Phase I	 Varies	Crystal Communications (Portland)	 Motorola Type I	 Portland	Day Wireless	 LTR Standard
- Multnomah County	FleetNet / Silke Communications	 LTR Standard	 Multnomah County	FleetNet / Silke Communications	 NXDN NEXEDGE 4800	 Various	Gunderson
- Motorola Type II Smartnet	 Portland	Idagon LLC KGON Tower	 Motorola Type II Smartnet	 Portland	Kaiser Permanente Medical Centers	 DMR Conventional Networked	 Various
-Legacy Emanuel Hospital	 LTR Standard	 Portland	Lewis and Clark College	 LTR Standard	 Portland	Northwest Repeater Services	 LTR Standard
- Portland	ON Semiconductor-Gresham	 Motorola Type II Smartnet	 Gresham	Oregon Convention Center	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Portland	Oregon Health Science University
- DMR Conventional Networked	 Various	Oregon State Radio Project	 Project 25 Phase II	 Varies	Oregon Zoo	 DMR Motorola Capacity Plus Single Site (TRBO)	 Portland
-Pacific NorthWest DMR	 DMR Conventional Networked	 Various	Portland	 Project 25 Phase I	 Portland	Portland Air National Guard Base	 Project 25 Phase I
- Portland	Portland General Electric DMR	 DMR Tier 3	 Portland	Providence Medical Centers	 DMR Conventional Networked	 Various	Slater Communications and Electronics
- LTR Standard	 Salem	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	Tri-County Metropolitan Transit (TriMet)	 Project 25 Phase I	 Portland
+46.58000 	   	WPEI422 	BM		CivilDefense 	Portland Civil Defense 	FM 	Emergency Ops 
+72.98000 	   	KNJP412 	F		Svcs 72.98 	Services 	FM 	Public Works 
+153.74000 	   	 	BM		BlueLakePark 	Blue Lake Regional Park Operations 	FMN 	Public Works 
+154.48250 	   	WQTT874 	RM		OxbowRegPark 	Oxbow Regional Park - Gresham 	FMN 	Public Works 
+155.68500 	159.21000  	KJV351 	RM	103.5 PL	MC EOC 2 	Emergency Management 2 	FMN 	Public Works 
+155.80500 	   	KB46121 	M		SearchRescue 	Search and Rescue 	FMN 	Emergency Ops 
+156.04500 	   	KD35206 	M	141.3 PL	Roads Flag 	Roads - Flagging 	FMN 	Public Works 
+156.24000 	   	KOE808 	BM	123.0 PL	Roads Disp 	Roads - Dispatch 	FMN 	Public Works 
+158.73000 	   	KJH601 	BM	103.5 PL	MC EOC 1 	Emergency Management 1 	FMN 	Emergency Ops 
+158.73000 	   	 	BM	123.0 PL	Mult SAR 	Search and Rescue 	FMN 	Emergency Ops 
+453.35000 	458.35000  	 	RM	606 DPL	Metro Svcs 	Metro Services 	FMN 	Public Works 
+460.35000 	465.35000  	KEG813 	RM		LongJuveHome 	Donald E. Long Juvenile Home (JDH) 	FMN 	Corrections 
+460.43750 	465.43750  	 	RM	103.5 PL	MtnWave SAR 	Mtn Wave Search Rescue - Council Crest 	FMN 	Emergency Ops 
+460.50000 	465.50000  	 	RM	100.0 PL	MC SAR 	Search and Rescue 	FMN 	Emergency Ops 
+154.82250 	   	KNAO330 	BM	88.5 PL	FView PdTalk 	Fairview Police Law Talk 	FMN 	Law Talk 
+853.43750 	   	 	BM	074 DPL	Fire Sim1 	Fire Simplex 1 	FM 	Fire-Talk 
+851.03750 	   	 	BM	114 DPL	Fire Sim2 	Fire Simplex 2 	FM 	Fire-Talk 
+851.95000 	   	 	BM	131 DPL	Fire Sim3 	Fire Simplex 3 	FM 	Fire-Talk 
+851.17500 	   	 	BM	143 DPL	Fire Sim4 	Fire Simplex 4 	FM 	Fire-Talk 
+853.38750 	   	 	BM	025 DPL	Fire Mayday 	Fire Mayday 	FM 	Fire-Talk 
+453.58750 	   	 	BM		Zoo Ops 1 	Zoo Operations 	DMR 	Public Works 
+453.73750 	458.73750  	WQXX533 	RM	CC 5TG *SL *	Zoo Ops 2 	Zoo Operations 	DMR 	Public Works 
+453.78750 	458.78750  	WQXX533 	RM	CC 5TG *SL *	Zoo Ops 3 	Zoo Operations 	DMR 	Public Works 
+462.10000 	467.10000  	WNQS870 	RM	CC 1TG *SL *	Zoo Ops 4 	Operations 4 	DMR 	Business 
+464.67500 	469.67500  	WNQS870 	RM	CC 1TG *SL *	Zoo Ops 5 	Operations 5 	DMR 	Business 
+464.87500 	   	WNQS870 	BM	CC 1TG 100SL 1	Zoo SecAllCal 	Security All Call 	DMR 	Security 
+166.71250 	   	 	RM	127.3 PL	WNC Ops 	Cemetery Ops 	FMN 	Federal 
+163.10000 	   	 	M	167 NAC	FBI Simplex 	FBI Simplex 	P25 	Federal 
+173.81250 	   	 	M	167 NAC	FBI Simplex 	FBI Simplex 	P25 	Federal 
+408.20000 	   	 	RM	107 NAC	FPS Portland 	FPS Portland Dispatch 	P25 	Federal 
+152.92250 	   	 	RM	351 DPL	Concordia U Sec 	Security Dispatch 	FMN 	Security 
+151.80500 	   	WQKM681 	BM	173.8 PL	CSD Buses 	School Buses 	FMN 	Schools 
+152.31500 	   	WPZK421 	RM	431 DPL	Gres High 	Gresham High School 	FMN 	Schools 
+464.81250 	   	 	M	CC 1TG *SL *	OHSU PD Tac 1 	Police Tac 1 	DMR 	Law Tac 
+457.76250 	   	 	M	CC 5TG *SL *	OHSU PD Tac 2 	Police Tac 2 	DMR 	Law Tac 
+453.52500 	458.52500  	WPRI682 	RM		PSU Pd 	Police 	FMN 	Law Dispatch 
+453.67500 	   	 	RM	123.0 PL	PSU RecCent 	Student Rec Center 	FMN 	Schools 
+155.17500 	   	KLX587 	BM	85.4 PL	RSD ShBuse 	School Buses 	FMN 	Schools 
+461.85000 	   	WQAU954 	M	047 DPL	RSD H School 	Reynolds High School 	FMN 	Schools 
+461.85000 	   	WQAU954 	M	100.0 PL	RSD NatAcd 	Natural Resources Academy 	FMN 	Schools 
+461.85000 	   	WQAU954 	M	103.5 PL	RSD L MidSch 	HB Lee Middle School 	FMN 	Schools 
+461.85000 	   	WQAU954 	M	127.3 PL	RSD MidSch 	Reynolds Middle School 	FMN 	Schools 
+461.85000 	   	WQAU954 	M	162.2 PL	RSD M MidSch 	Walt Morey Middle School 	FMN 	Schools 
+461.85000 	466.85000  	WQAU954 	RM	754 DPL	RSD Schools 	Reynolds School District 	FMN 	Schools 
+Boeing P25	 Project 25 Phase I	 Varies	Crystal Communications (Portland)	 Motorola Type I	 Portland	Day Wireless	 LTR Standard	 Multnomah County
+FleetNet / Silke Communications	 LTR Standard	 Multnomah County	FleetNet / Silke Communications	 NXDN NEXEDGE 4800	 Various	Gunderson	 Motorola Type II Smartnet	 Portland
+Idagon LLC KGON Tower	 Motorola Type II Smartnet	 Portland	Justice Integrated Wireless Network	 Project 25 Phase I	 Various	Kaiser Permanente Medical Centers	 DMR Conventional Networked	 Various
+Legacy Emanuel Hospital	 LTR Standard	 Portland	Lewis and Clark College	 LTR Standard	 Portland	Northwest Repeater Services	 LTR Standard	 Portland
+ON Semiconductor-Gresham	 Motorola Type II Smartnet	 Gresham	Oregon Convention Center	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Portland	Oregon Health Science University	 DMR Conventional Networked	 Various
+Oregon State Radio Project	 Project 25 Phase II	 Varies	Oregon Zoo	 DMR Motorola Capacity Plus Single Site (TRBO)	 Portland	Pacific NorthWest DMR	 DMR Conventional Networked	 Various
+Portland	 Project 25 Phase I	 Portland	Portland Air National Guard Base	 Project 25 Phase I	 Portland	Portland General Electric DMR	 DMR Tier 3	 Portland
+Providence Medical Centers	 DMR Conventional Networked	 Various	Slater Communications and Electronics	 LTR Standard	 Salem	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various
+Tri-County Metropolitan Transit (TriMet)	 Project 25 Phase I	 Portland	

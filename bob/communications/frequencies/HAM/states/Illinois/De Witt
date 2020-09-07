@@ -1,37 +1,37 @@
-159.35250 	KJC802 	RM	141.3 PL	DeWitt Sheriff A 	Sheriff: Dispatch [Clinton] 	FMN 	Law Dispatch 
-151.23500 	KJC802 	RM	141.3 PL	DeWitt Sheriff B 	Sheriff: Dispatch [Farmer City Simulcast] 	FMN 	Law Dispatch 
-771.26875 	WQPP950 	RM	67.0 PL	DeWitt SheriffMX 	 	FMN 	Law Dispatch 
-155.91000 	KNNP739 	M	CSQ	DeWitt Courths  	Sheriff: Courthouse Security 	FMN 	Corrections 
-155.43000 	KJC802 	BM	118.8 PL	DeWitt EMS 	EMS: County Paging 	FMN 	EMS Dispatch 
-155.43000 	KDQ328 	RM	79.7 PL	DeWitt  Fire 	Fire: Tone-Outs (from ?) (cross from 151.1675?) 	FMN 	Fire Dispatch 
-155.43000 	KJC802 	BM	CSQ	DeWitt Fire Page 	Fire/EMS: Rural Paging / Weather 	FMN 	Fire Dispatch 
-151.16750 	KJC802 	RM	79.7 PL	DeWitt FireEMS  	Fire/EMS: Paging / Dispatch / Response 	FMN 	Fire Dispatch 
-155.10000 	KDQ328 	BM	CSQ	DeW FireEMS 	Fire/EMS 	FMN 	Fire Dispatch 
-72.22000 	KJC802 	F		DeWitt Fire RF1  	Fire/EMS: Remote Link - Weldon 	FMN 	Fire Dispatch 
-72.46000 	KJC802 	F		DeWitt Fire RF2  	Fire/EMS: Remote Link - Waynesville 	FMN 	Fire Dispatch 
-72.64000 	KJC802 	F	CSQ	DeWitt Fire RF3  	Fire/EMS: Remote Link - Farmer City 	FMN 	Fire Dispatch 
-72.78000 	KJC802 	F		DeWitt Fire RF4  	Fire/EMS: Remote Link -  Kenney 	FMN 	Fire Dispatch 
-151.11500 	KFV914 	RM	162.2 PL	DeWt Highway 	Highway Department / Snow Plows 	FMN 	Public Works 
-155.35500 	KZJ485 	BM	123.0 PL	DJWHospital EMS  	EMS: Disptach 	FMN 	EMS Dispatch 
-155.34000 	 	B	167.9 PL	MERCI1 167.9 	Patient Reports (also 210.7) 	FMN 	Hospital 
-151.05500 	KNAR880 	BM		TnbrdgTwp Rd 	Tunbridge Township Road Maintenance 	FMN 	Public Works 
-151.07000 	WQPB574 	BM		BertTwp Road 	Barrett Township Roads (Rutledge Channel*) 	FMN 	Public Works 
-158.92500 	WQRL436 	M		WilsonTwp Rd 	Wilson Township Highway Department (Wapella) [*Expired] 	FMN 	Public Works 
-159.18000 	WPMW633 	RM	423 DPL	Texas Twp Road  	Texas Township Road Maintenance (Clinton) 	FMN 	Public Works 
-155.31000 	KDQ328 	BM		Clntn Police 	Police [131.8 ??) 	FMN 	Law Tac 
-155.10000 	KDQ328 	BM	CSQ	Clntn PD Old 	Police 	FMN 	Law Tac 
-154.95000 	WPCS299 	M		Clintn PDc2c 	Police: Car-to-Car [Expired] 	FMN 	Law Tac 
-453.82500 	WPUG938 	RM	023 DPL	Cltn PubWrks 	Public Works / Snow Plows 	FMN 	Public Works 
-159.14250 	KFX241 	M		FarmerCty FireMX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-158.77500 	KSR924 	RM	141.3 PL	FarmerCity EMS 	EMS: Dispatch / Arrow 	FMN 	EMS Dispatch 
-155.43000 	 	BM	141.3 PL	Kenney Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.10000 	KXV758 	BM		Kenney FG 	Fire 	FMN 	Fire-Tac 
-154.38500 	KRG730 	BM		Wapella Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.02500 	KNNU487 	BM	CSQ	Wapella PubWrks 	Public Works / Street Department 	FMN 	Public Works 
-156.18000 	WPQK778 	BM		Waynesville Fire 	Fire: Local 	FMN 	Fire-Tac 
-154.31000 	KCA821 	BM	141.3 PL	Weldon Fire 	Fire 	FMN 	Fire-Tac 
-461.20000 	WPGP359 	RM	82.5 PL	BlueRidge SchBus 	Buses 	FMN 	Schools 
-155.17500 	KNEX832 	BM	127.3 PL	Clinton Schools 	Buses / Admin / Ops 	FMN 	Schools 
-464.55000 	 	M	123.0 PL	Clinton Sch Ops  	Operations (Basketball Games) 	FMN 	Schools 
-462.32500 	WPRS265 	BM		D-W School Bus  	Buses  	FMN 	Schools 
-Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois	
+159.35250 	154.83000  	KJC802 	RM	141.3 PL	DeWitt Sheriff A 	Sheriff: Dispatch [Clinton] 	FMN 	Law Dispatch 
+151.23500 	154.83000  	KJC802 	RM	141.3 PL	DeWitt Sheriff B 	Sheriff: Dispatch [Farmer City Simulcast] 	FMN 	Law Dispatch 
+771.26875 	801.26875  	WQPP950 	RM	67.0 PL	DeWitt SheriffMX 	 	FMN 	Law Dispatch 
+155.91000 	   	KNNP739 	M	CSQ	DeWitt Courths  	Sheriff: Courthouse Security 	FMN 	Corrections 
+155.43000 	   	KJC802 	BM	118.8 PL	DeWitt EMS 	EMS: County Paging 	FMN 	EMS Dispatch 
+155.43000 	   	KDQ328 	RM	79.7 PL	DeWitt  Fire 	Fire: Tone-Outs (from ?) (cross from 151.1675?) 	FMN 	Fire Dispatch 
+155.43000 	   	KJC802 	BM	CSQ	DeWitt Fire Page 	Fire/EMS: Rural Paging / Weather 	FMN 	Fire Dispatch 
+151.16750 	155.43000  	KJC802 	RM	79.7 PL	DeWitt FireEMS  	Fire/EMS: Paging / Dispatch / Response 	FMN 	Fire Dispatch 
+155.10000 	   	KDQ328 	BM	CSQ	DeW FireEMS 	Fire/EMS 	FMN 	Fire Dispatch 
+72.22000 	   	KJC802 	F		DeWitt Fire RF1  	Fire/EMS: Remote Link - Weldon 	FMN 	Fire Dispatch 
+72.46000 	   	KJC802 	F		DeWitt Fire RF2  	Fire/EMS: Remote Link - Waynesville 	FMN 	Fire Dispatch 
+72.64000 	   	KJC802 	F	CSQ	DeWitt Fire RF3  	Fire/EMS: Remote Link - Farmer City 	FMN 	Fire Dispatch 
+72.78000 	   	KJC802 	F		DeWitt Fire RF4  	Fire/EMS: Remote Link -  Kenney 	FMN 	Fire Dispatch 
+151.11500 	156.06000  	KFV914 	RM	162.2 PL	DeWt Highway 	Highway Department / Snow Plows 	FMN 	Public Works 
+155.35500 	   	KZJ485 	BM	123.0 PL	DJWHospital EMS  	EMS: Disptach 	FMN 	EMS Dispatch 
+155.34000 	   	 	B	167.9 PL	MERCI1 167.9 	Patient Reports (also 210.7) 	FMN 	Hospital 
+151.05500 	   	KNAR880 	BM		TnbrdgTwp Rd 	Tunbridge Township Road Maintenance 	FMN 	Public Works 
+151.07000 	   	WQPB574 	BM		BertTwp Road 	Barrett Township Roads (Rutledge Channel*) 	FMN 	Public Works 
+158.92500 	   	WQRL436 	M		WilsonTwp Rd 	Wilson Township Highway Department (Wapella) [*Expired] 	FMN 	Public Works 
+159.18000 	153.84500  	WPMW633 	RM	423 DPL	Texas Twp Road  	Texas Township Road Maintenance (Clinton) 	FMN 	Public Works 
+155.31000 	   	KDQ328 	BM		Clntn Police 	Police [131.8 ??) 	FMN 	Law Tac 
+155.10000 	   	KDQ328 	BM	CSQ	Clntn PD Old 	Police 	FMN 	Law Tac 
+154.95000 	   	WPCS299 	M		Clintn PDc2c 	Police: Car-to-Car [Expired] 	FMN 	Law Tac 
+453.82500 	458.82500  	WPUG938 	RM	023 DPL	Cltn PubWrks 	Public Works / Snow Plows 	FMN 	Public Works 
+159.14250 	   	KFX241 	M		FarmerCty FireMX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+158.77500 	153.75500  	KSR924 	RM	141.3 PL	FarmerCity EMS 	EMS: Dispatch / Arrow 	FMN 	EMS Dispatch 
+155.43000 	   	 	BM	141.3 PL	Kenney Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.10000 	   	KXV758 	BM		Kenney FG 	Fire 	FMN 	Fire-Tac 
+154.38500 	   	KRG730 	BM		Wapella Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.02500 	   	KNNU487 	BM	CSQ	Wapella PubWrks 	Public Works / Street Department 	FMN 	Public Works 
+156.18000 	   	WPQK778 	BM		Waynesville Fire 	Fire: Local 	FMN 	Fire-Tac 
+154.31000 	   	KCA821 	BM	141.3 PL	Weldon Fire 	Fire 	FMN 	Fire-Tac 
+461.20000 	466.20000  	WPGP359 	RM	82.5 PL	BlueRidge SchBus 	Buses 	FMN 	Schools 
+155.17500 	   	KNEX832 	BM	127.3 PL	Clinton Schools 	Buses / Admin / Ops 	FMN 	Schools 
+464.55000 	   	 	M	123.0 PL	Clinton Sch Ops  	Operations (Basketball Games) 	FMN 	Schools 
+462.32500 	   	WPRS265 	BM		D-W School Bus  	Buses  	FMN 	Schools 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	

@@ -1,26 +1,26 @@
-158.85000 	WPYL364 	RM	41 RAN	ACSO 	ACSO Enc. 	NXDNE 	Law Dispatch 
-151.40000 	WPMK403 	RM	411 DPL	ASO/LPD #4 	Sheriff/PD Opns w/Vox Inversion 	FM 	Multi-Talk 
-155.31000 	WPMK403 	RM	156.7 PL	ASO 	Sheriff  	FM 	Law Talk 
-154.22000 	WNMJ325 	RM	20 RAN	And FD DSP 	Fire Dispatch 	NXDN 	Fire Dispatch 
-154.65000 	 	BM		FG1 	ACFD FG1 	NXDN 	Fire-Tac 
-151.08500 	 	BM		FG2 	ACFD FG2 	NXDN 	Fire-Tac 
-151.47500 	WPMK403 	RM	1 RAN	ACEMS 1 	ACEMS Dispatch 	NXDN 	EMS Dispatch 
-155.16000 	 	BM	103.5 PL	EMSOps 	AC EMS OPS Ch1 	FMN 	EMS-Talk 
-155.16000 	WQM632 	BM	77.0 PL	EMS/Vrs Hsp 	EMS to Versailles Hospital 	FM 	Hospital 
-155.34000 	WQM632 	BM	156.7 PL	EMS/FFT Hsp 	EMS to Frankfort Hospital 	FM 	Hospital 
-154.74750 	WPPZ702 	RM	50 RAN	LPD Dsp 	Police Dispatch ENC 	NXDNE 	Law Dispatch 
-155.55000 	KIP475 	RM		LPD #3 	Police Ops 	NXDN 	Law Talk 
-158.74500 	WPOZ494 	RM	30 RAN	Lbrg FD DSP 	Fire 	NXDN 	Fire Dispatch 
-154.14500 	 	BM	146.2 PL	LFDG 	Lawrenceburg FD Fire Ground 1 	FMN 	Fire-Talk 
-152.39750 	WQOM461 	RM	043 DPL	ACHS A 	Anderson Co. Hich School 	FMN 	Schools 
-157.68000 	WNJS907 	BM	60 RAN	And Skl Bus 	School Buses 	NXDN 	Schools 
-462.66250 	 	M	CSQ	SaffellElem 	Saffell Street Elementary School 	FM 	Schools 
-151.62500 	 	M	151.4 PL	And Skls 	Emma Ward 	FM 	Schools 
-151.62500 	 	M	5 RAN	Middle Sch 	Middle School 	NXDN 	Schools 
-151.40000 	WPMK403 	RM	100.0 PL	And GVT/CP  	Government Services/Command Post Operations 	FM 	Other 
-154.02500 	WZJ217 	RM	186.2 PL	And Pub Wrks 	Public Works 	FM 	Public Works 
-158.22750 	WQKK460 	RM	15 RAN	Gash 	Gash Memorial Chapel  	NXDN 	Business 
-158.22750 	WQKK460 	RM	50 RAN	Gash 	Gash Memorial Chapel  	NXDN 	Business 
-462.58750 	Itinerant 	M		BestWestern 	Lawrenceburg Best Western 	FMN 	Business 
-154.57000 	Itinerant 	M		Wal Mart 	Wal Mart 	FMN 	Business 
+158.85000 	154.72500  	WPYL364 	RM	41 RAN	ACSO 	ACSO Enc. 	NXDNE 	Law Dispatch 
+151.40000 	155.31000  	WPMK403 	RM	411 DPL	ASO/LPD #4 	Sheriff/PD Opns w/Vox Inversion 	FM 	Multi-Talk 
+155.31000 	   	WPMK403 	RM	156.7 PL	ASO 	Sheriff  	FM 	Law Talk 
+154.22000 	153.89000  	WNMJ325 	RM	20 RAN	And FD DSP 	Fire Dispatch 	NXDN 	Fire Dispatch 
+154.65000 	   	WNMJ326 	BM		FG1 	ACFD FG1 	NXDN 	Fire-Tac 
+151.08500 	   	WNMJ326 	BM		FG2 	ACFD FG2 	NXDN 	Fire-Tac 
+151.47500 	155.91000  	WPMK403 	RM	1 RAN	ACEMS 1 	ACEMS Dispatch 	NXDN 	EMS Dispatch 
+155.16000 	   	 	BM	103.5 PL	EMSOps 	AC EMS OPS Ch1 	FMN 	EMS-Talk 
+155.16000 	   	WQM632 	BM	77.0 PL	EMS/Vrs Hsp 	EMS to Versailles Hospital 	FM 	Hospital 
+155.34000 	   	WQM632 	BM	156.7 PL	EMS/FFT Hsp 	EMS to Frankfort Hospital 	FM 	Hospital 
+154.74750 	155.99250  	WPPZ702 	RM	50 RAN	LPD Dsp 	Police Dispatch ENC 	NXDNE 	Law Dispatch 
+155.55000 	   	KIP475 	RM		LPD #3 	Police Ops 	NXDN 	Law Talk 
+158.74500 	153.86000  	WPOZ494 	RM	30 RAN	Lbrg FD DSP 	Fire 	NXDN 	Fire Dispatch 
+154.14500 	   	WZJ218 	BM	146.2 PL	LFDG 	Lawrenceburg FD Fire Ground 1 	FMN 	Fire-Talk 
+152.39750 	157.65750  	WQOM461 	RM	043 DPL	ACHS A 	Anderson Co. Hich School 	FMN 	Schools 
+157.68000 	   	WNJS907 	BM	60 RAN	And Skl Bus 	School Buses 	NXDN 	Schools 
+462.66250 	   	 	M	CSQ	SaffellElem 	Saffell Street Elementary School 	FM 	Schools 
+151.62500 	   	 	M	151.4 PL	And Skls 	Emma Ward 	FM 	Schools 
+151.62500 	   	 	M	5 RAN	Middle Sch 	Middle School 	NXDN 	Schools 
+151.40000 	155.31000  	WPMK403 	RM	100.0 PL	And GVT/CP  	Government Services/Command Post Operations 	FM 	Other 
+154.02500 	151.31000  	WZJ217 	RM	186.2 PL	And Pub Wrks 	Public Works 	FM 	Public Works 
+158.22750 	153.25250  	WQKK460 	RM	15 RAN	Gash 	Gash Memorial Chapel  	NXDNe 	Business 
+158.22750 	153.25250  	WQKK460 	RM	50 RAN	Gash 	Gash Memorial Chapel  	NXDN 	Business 
+462.58750 	   	Itinerant 	M		BestWestern 	Lawrenceburg Best Western 	FMN 	Business 
+154.57000 	   	Itinerant 	M		Wal Mart 	Wal Mart 	FMN 	Business 
 Southern Communications-Lawrenceburg	 LTR Standard	 Lawrenceburg	

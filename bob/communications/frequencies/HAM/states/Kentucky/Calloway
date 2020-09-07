@@ -1,55 +1,55 @@
-156.13500 	WPYE953 	RM	107.2 PL	Clwy SO Dsp 	Sheriff Dispatch 	FMN 	Fire Dispatch 
-460.32500 	WPXB952 	RM	107.2 PL	Clwy SO 1 	Sheriff Dispatch 	FMN 	Law Dispatch 
-460.32500 	WPXB952 	RM		Sheriff Dispatch 	Clwy SO Dsp 	DMR 	Law Dispatch 
-453.53750 	WQFN608 	F		Clwy SO Dsp 	Sheriff Dispatch - Faxon Voting Receiver 	FMN 	Law Dispatch 
-453.68750 	WQFN608 	F		Clwy SO Dsp 	Sheriff Dispatch - Hazel Voting Receiver 	FMN 	Law Dispatch 
-453.73750 	WQFN608 	F		Clwy SO Dsp 	Sheriff Dispatch - Kirksey Voting Receiver 	FMN 	Law Dispatch 
-453.76250 	WQFN608 	F		Clwy SO Dsp 	Sheriff Dispatch - Hamlin Voting Receiver 	FMN 	Law Dispatch 
-460.22500 	WPSH736 	RM		Clwy - MPD 	Link to Murray PD 	FMN 	Law Tac 
-453.52500 	WRAW860 	RM		Clwy Jail 	Jail 	DMR 	Corrections 
-155.41500 	WPXH561 	RM	173.8 PL	Clwy FD Dsp1 	Fire/Rescue Dispatch 	FMN 	Fire Dispatch 
-159.10500 	WPYE953 	RM	136.5 PL	Clwy FD Dsp1 	Fire/Rescue Dispatch - East Repeater (New Concord-Multi-cast of 155.415) 	FMN 	Fire-Tac 
-155.29500 	WQAP802 	RM	127.3 PL	Clwy FD Ops3 	Fire/Rescue - Operations 	FMN 	Fire-Talk 
-155.56500 	WPXH561 	RM	291 NAC	Fire Ops 	Fire/Rescue P25 Operations Channel 	P25 	Fire-Tac 
-153.89000 	WPYE953 	M	136.5 PL	Clwy FD Frg 	Fireground 	FMN 	Fire-Tac 
-154.34000 	WPJW350 	RM	127.3 PL	Clwy FD Dsp1 	Fire/Rescue Dispatch - Mobile Tactical Repeater 	FMN 	Fire Dispatch 
-458.36250 	WPYE953 	F	110.9 PL	Clwy FD Dsp 	Fire/Rescue Dispatch - Hazel Voting Receiver Link 	FMN 	Fire Dispatch 
-458.38750 	WPYE953 	F	141.3 PL	Clwy FD Dsp 	Fire/Rescue Dispatch - Murray Voting Receiver Link 	FMN 	Fire Dispatch 
-458.63750 	WPYE953 	F	79.7 PL	Clwy FD Dsp 	Fire/Rescue Dispatch - Kirksey Voting Receiver Link 	FMN 	Fire Dispatch 
-458.76250 	WPYE953 	F	100.0 PL	Clwy FD Dsp1 	Fire/Rescue Dispatch - New Concord Voting Receiver Link 	FMN 	Fire Dispatch 
-155.38500 	WPQF947 	RM		MCCH EMS T/A 	EMS Dispatch  	NXDN 	EMS Dispatch 
-155.38500 	WPQF947 	RM	192.8 PL	MCCH EMS Dsp 	EMS Talkaround 	FMN 	EMS-Tac 
-155.16000 	WYR834 	BM	192.8 PL	MCCH EMS Ops 	EMS Operations 	FMN 	EMS-Talk 
-155.34000 	KTN318 	BM	192.8 PL	MCCH EMS MED 	EMS to ER 	FMN 	Hospital 
-460.36250 	KNNJ655 	RM	625 NAC	Mry PD F-1 	Murray Police Dispatch 	P25 	Law Dispatch 
-155.70000 	WSV946 	BM	165 DPL	Mry FD DSP 	Murray Fire Dispatch 	FMN 	Fire Dispatch 
-153.83000 	WPBU323 	RM		Mry FD F-2 	Murray Fireground 	FMN 	Fire-Tac 
-154.19000 	WSV946 	RM	331 DPL	Mry FD BU 	Murray Fire Back Up 	FMN 	Fire-Talk 
-152.40500 	WPVW216 	RM	654 DPL	Mry Plnt Brd 	Murray Electric Plant Board - Telephone & Internet Service 	FMN 	Public Works 
-153.68000 	KGH906 	RM	162.2 PL	Mry Plnt Brd 	Murray Electric Plant Board - Electric Service 	FMN 	Public Works 
-460.75000 	WPPA812 	RM		MIS Skls Bs 	Murray Independent Schools - Buses 	FMN 	Schools 
-468.22500 	WRCD463 	M		MIS High Skl 1 	Murray Independent Schools - High School Ch 1 	FMN 	Schools 
-466.57500 	WRCD463 	M		MIS High Skl 2 	Murray Independent Schools - High School Ch 2 	FMN 	Schools 
-453.42500 	WPGK488 	RM		Mry-CCTA 	Murray Transit Authority 	FMN 	Public Works 
-154.86000 	KNNJ655 	RM	110.9 PL	Mry PD BU-1 	Police Dispatch (Back-up) 	FMN 	Law Talk 
-154.78500 	 	M	91.5 PL	Mry PD BU-2 	Police Operations (Back-up) 	FMN 	Law Talk 
-154.72500 	 	M	91.5 PL	Mry PD BU-7 	Police Operations (Back-up) 	FMN 	Law Talk 
-158.80500 	WPPG410 	M	411 DPL	Mry PD BU-8 	Police Operations (Back-up) 	FMN 	Law Talk 
-464.75000 	WPPG410 	RM	445 DPL	Calloway Rds 	Road Department 	FMN 	Public Works 
-154.51500 	KNDU460 	RM	82.5 PL	Clwy Skls Bs 	Calloway County School Buses 	FMN 	Schools 
-152.97500 	KNDU460 	RM		School Maint 	Calloway County School Maintenance 	FMN 	Schools 
-152.97500 	KNDU460 	RM	203.5 PL	High Skl CH1 	Calloway County High School Channel 1 	FMN 	Schools 
-151.98500 	WPRT542 	BM	306 DPL	High Skl CH2 	Calloway County High School Channel 2 	FMN 	Schools 
-152.94500 	WPRT542 	M	306 DPL	E Elementary 	East Calloway County Elementary School 	FMN 	Schools 
-151.98500 	WPRT542 	M	155 DPL	N Elementary 	North Calloway County Elementary School 	FMN 	Schools 
-152.94500 	WPRT542 	M	155 DPL	SW Elementary 	Southwest Calloway County Elementary School 	FMN 	Schools 
-152.45000 	WPRT542 	M	155 DPL	Middle Skl 	Calloway County Middle School 	FMN 	Schools 
-153.08000 	WQGN999 	RM	565 DPL	Mry Hsp Scrt 	Security 	FMN 	Hospital 
-152.00750 	KTN318 	BM		Mry Hsp Pgrs 	Paging System 	FMN 	Hospital 
-453.23750 	WPMG486 	RM	375 NAC	MSU PD 	Police Primary - Digital 	P25 	Law Dispatch 
-460.50000 	WPMG486 	RM	123.0 PL	MSU PD 1A 	Police Primary - Analog 	FMN 	Law Dispatch 
-461.32500 	WNVH472 	RM	127.3 PL	MSU PD 2 	Police Secondary 	FMN 	Law Talk 
-159.21000 	WPMG483 	RM	151.4 PL	MSU Spc Evnt 	Special Events Center 	FMN 	Multi-Talk 
-159.49500 	 	M	91.5 PL	MSU PPD 	Central Plant 	FMN 	Public Works 
-154.96500 	WQPR372 	RM	91.5 PL	MSU Maint 	Maintenance 	FMN 	Public Works 
+156.13500 	153.89000  	WPYE953 	RM	107.2 PL	Clwy SO Dsp 	Sheriff Dispatch 	FMN 	Fire Dispatch 
+460.32500 	465.32500  	WPXB952 	RM	107.2 PL	Clwy SO 1 	Sheriff Dispatch 	FMN 	Law Dispatch 
+460.32500 	465.32500  	WPXB952 	RM		Sheriff Dispatch 	Clwy SO Dsp 	DMR 	Law Dispatch 
+453.53750 	   	WQFN608 	F		Clwy SO Dsp 	Sheriff Dispatch - Faxon Voting Receiver 	FMN 	Law Dispatch 
+453.68750 	   	WQFN608 	F		Clwy SO Dsp 	Sheriff Dispatch - Hazel Voting Receiver 	FMN 	Law Dispatch 
+453.73750 	   	WQFN608 	F		Clwy SO Dsp 	Sheriff Dispatch - Kirksey Voting Receiver 	FMN 	Law Dispatch 
+453.76250 	   	WQFN608 	F		Clwy SO Dsp 	Sheriff Dispatch - Hamlin Voting Receiver 	FMN 	Law Dispatch 
+460.22500 	465.22500  	WPSH736 	RM		Clwy - MPD 	Link to Murray PD 	FMN 	Law Tac 
+453.52500 	458.52500  	WRAW860 	RM		Clwy Jail 	Jail 	DMR 	Corrections 
+155.41500 	154.71000  	WPXH561 	RM	173.8 PL	Clwy FD Dsp1 	Fire/Rescue Dispatch 	FMN 	Fire Dispatch 
+159.10500 	154.71000  	WPYE953 	RM	136.5 PL	Clwy FD Dsp1 	Fire/Rescue Dispatch - East Repeater (New Concord-Multi-cast of 155.415) 	FMN 	Fire-Tac 
+155.29500 	   	WQAP802 	RM	127.3 PL	Clwy FD Ops3 	Fire/Rescue - Operations 	FMN 	Fire-Talk 
+155.56500 	159.03750  	WPXH561 	RM	291 NAC	Fire Ops 	Fire/Rescue P25 Operations Channel 	P25 	Fire-Tac 
+153.89000 	   	WPYE953 	M	136.5 PL	Clwy FD Frg 	Fireground 	FMN 	Fire-Tac 
+154.34000 	159.34500  	WPJW350 	RM	127.3 PL	Clwy FD Dsp1 	Fire/Rescue Dispatch - Mobile Tactical Repeater 	FMN 	Fire Dispatch 
+458.36250 	   	WPYE953 	F	110.9 PL	Clwy FD Dsp 	Fire/Rescue Dispatch - Hazel Voting Receiver Link 	FMN 	Fire Dispatch 
+458.38750 	   	WPYE953 	F	141.3 PL	Clwy FD Dsp 	Fire/Rescue Dispatch - Murray Voting Receiver Link 	FMN 	Fire Dispatch 
+458.63750 	   	WPYE953 	F	79.7 PL	Clwy FD Dsp 	Fire/Rescue Dispatch - Kirksey Voting Receiver Link 	FMN 	Fire Dispatch 
+458.76250 	   	WPYE953 	F	100.0 PL	Clwy FD Dsp1 	Fire/Rescue Dispatch - New Concord Voting Receiver Link 	FMN 	Fire Dispatch 
+155.38500 	150.80500  	WPQF947 	RM	6 RAN	MCCH EMS T/A 	EMS Dispatch  	NXDN 	EMS Dispatch 
+155.38500 	150.80500  	WPQF947 	RM	192.8 PL	MCCH EMS Dsp 	EMS Talkaround 	FMN 	EMS-Tac 
+155.16000 	   	WYR834 	BM	192.8 PL	MCCH EMS Ops 	EMS Operations 	FMN 	EMS-Talk 
+155.34000 	   	KTN318 	BM	192.8 PL	MCCH EMS MED 	EMS to ER 	FMN 	Hospital 
+460.36250 	465.36250  	KNNJ655 	RM	625 NAC	Mry PD F-1 	Murray Police Dispatch 	P25 	Law Dispatch 
+155.70000 	159.37500  	WSV946 	BM	165 DPL	Mry FD DSP 	Murray Fire Dispatch 	FMN 	Fire Dispatch 
+153.83000 	   	WPBU323 	RM		Mry FD F-2 	Murray Fireground 	FMN 	Fire-Tac 
+154.19000 	158.89500  	WSV946 	RM	331 DPL	Mry FD BU 	Murray Fire Back Up 	FMN 	Fire-Talk 
+152.40500 	157.66500  	WPVW216 	RM	654 DPL	Mry Plnt Brd 	Murray Electric Plant Board - Telephone & Internet Service 	FMN 	Public Works 
+153.68000 	158.37000  	KGH906 	RM	162.2 PL	Mry Plnt Brd 	Murray Electric Plant Board - Electric Service 	FMN 	Public Works 
+460.75000 	467.75000  	WPPA812 	RM		MIS Skls Bs 	Murray Independent Schools - Buses 	FMN 	Schools 
+468.22500 	   	WRCD463 	M		MIS High Skl 1 	Murray Independent Schools - High School Ch 1 	FMN 	Schools 
+466.57500 	   	WRCD463 	M		MIS High Skl 2 	Murray Independent Schools - High School Ch 2 	FMN 	Schools 
+453.42500 	458.42500  	WPGK488 	RM		Mry-CCTA 	Murray Transit Authority 	FMN 	Public Works 
+154.86000 	158.97000  	KNNJ655 	RM	110.9 PL	Mry PD BU-1 	Police Dispatch (Back-up) 	FMN 	Law Talk 
+154.78500 	   	 	M	91.5 PL	Mry PD BU-2 	Police Operations (Back-up) 	FMN 	Law Talk 
+154.72500 	   	 	M	91.5 PL	Mry PD BU-7 	Police Operations (Back-up) 	FMN 	Law Talk 
+158.80500 	   	WPPG410 	M	411 DPL	Mry PD BU-8 	Police Operations (Back-up) 	FMN 	Law Talk 
+464.75000 	469.75000  	WPPG410 	RM	445 DPL	Calloway Rds 	Road Department 	FMN 	Public Works 
+154.51500 	   	KNDU460 	RM	82.5 PL	Clwy Skls Bs 	Calloway County School Buses 	FMN 	Schools 
+152.97500 	160.05000  	KNDU460 	RM		School Maint 	Calloway County School Maintenance 	FMN 	Schools 
+152.97500 	160.05000  	KNDU460 	RM	203.5 PL	High Skl CH1 	Calloway County High School Channel 1 	FMN 	Schools 
+151.98500 	   	WPRT542 	BM	306 DPL	High Skl CH2 	Calloway County High School Channel 2 	FMN 	Schools 
+152.94500 	   	WPRT542 	M	306 DPL	E Elementary 	East Calloway County Elementary School 	FMN 	Schools 
+151.98500 	   	WPRT542 	M	155 DPL	N Elementary 	North Calloway County Elementary School 	FMN 	Schools 
+152.94500 	   	WPRT542 	M	155 DPL	SW Elementary 	Southwest Calloway County Elementary School 	FMN 	Schools 
+152.45000 	   	WPRT542 	M	155 DPL	Middle Skl 	Calloway County Middle School 	FMN 	Schools 
+153.08000 	159.57000  	WQGN999 	RM	565 DPL	Mry Hsp Scrt 	Security 	FMN 	Hospital 
+152.00750 	   	KTN318 	BM		Mry Hsp Pgrs 	Paging System 	FMN 	Hospital 
+453.23750 	458.23750  	WPMG486 	RM	375 NAC	MSU PD 	Police Primary - Digital 	P25 	Law Dispatch 
+460.50000 	465.50000  	WPMG486 	RM	123.0 PL	MSU PD 1A 	Police Primary - Analog 	FMN 	Law Dispatch 
+461.32500 	466.32500  	WNVH472 	RM	127.3 PL	MSU PD 2 	Police Secondary 	FMN 	Law Talk 
+159.21000 	153.98000  	WPMG483 	RM	151.4 PL	MSU Spc Evnt 	Special Events Center 	FMN 	Multi-Talk 
+159.49500 	153.74000  	 	M	91.5 PL	MSU PPD 	Central Plant 	FMN 	Public Works 
+154.96500 	   	WQPR372 	RM	91.5 PL	MSU Maint 	Maintenance 	FMN 	Public Works 
 Jennings Communications	 NXDN NEXEDGE 4800	 Various	Murray Natural Gas	 DMR Motorola Capacity Plus Single Site (TRBO)	 Murray	

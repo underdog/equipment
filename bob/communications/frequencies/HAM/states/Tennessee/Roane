@@ -1,23 +1,22 @@
-771.45625 	WQLV703 	BM		RCES-TACN TA 	Roane County Emergency Services TACN Talkaround 	P25 	Emergency Ops 
-154.22000 	KNJM924 	RM	179.9 PL	RCFD-EAST 	County Fire Paging East 	FMN 	Fire Dispatch 
-154.96500 	WQRQ709 	RM	123.0 PL	RCFD-SOUTH 	County Fire Paging South 	FMN 	Fire Dispatch 
-155.62500 	WPGI329 	RM	123.0 PL	RCFD-NORTH 	County Fire Paging North 	FMN 	Fire Dispatch 
-154.32500 	WNML628 	RM	123.0 PL	SRCVFD 	South Roane County Fire Department 	FM 	Fire-Tac 
-158.75250 	WQCC496 	M		BLAIR VFD 	Blair Volunteer Fire Department 	FMN 	Fire-Tac 
-155.68500 	KEC485 	RM		ROANE EMS 	EMS Dispatch - Backup 	FMN 	EMS Dispatch 
-460.15000 	WPYL382 	RM	103.5 PL	ROANE SO 	Sheriff's Department - Dispatch Backup 	FMN 	Law Dispatch 
-460.40000 	WPYL382 	RM	127.3 PL	UTNMA 	Sheriff's Department - UHF Interop Backup 	FMN 	Interop 
-452.10000 	WPPG545 	RM	131 DPL	RCSCHLS BUS 	Schools - Buses 	FMN 	Schools 
-451.32500 	WPPG545 	RM	114.8 PL	RCSCHLS OPS 	Schools 	FMN 	Schools 
-463.06250 	KKR348 	RM	132 DPL	ROANE MED CTR 	EMS transports to Roane Medical Center 	FMN 	Hospital 
-154.04000 	WPBZ784 	RM	123.0 PL	Harriman FD 	Fire 	FMN 	Fire Dispatch 
-460.47500 	WNIA292 	RM	94.8 PL	Harriman PD 	Police 	FM 	Law Dispatch 
-453.86250 	WPOX332 	RM	114.8 PL	Harriman PW 	Streets Department 	FMN 	Public Works 
-155.11500 	WPBZ238 	RM	151.4 PL	Harriman UB 	Utility Board 	FMN 	Utilities 
-158.13000 	KIC280 	RM	167.9 PL	Harriman UB 	Utility Board 	FMN 	Utilities 
-460.07500 	WPKG719 	M		Kingston PD 	Police - Private/Tactical 	FMN 	Law Tac 
-151.05500 	WPNS785 	RM	71.9 PL	Rkwd Streets 	Street Department 	FM 	Public Works 
-151.79000 	KNIC392 	RM		Rkwd Electric 	Electric 	DMR 	Utilities 
-153.45500 	WQMH203 	RM		Rkwd Wtr/Gas 	Water & Gas 	FMN 	Utilities 
-Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	Tennessee Valley Authority	 Project 25 Phase I
- Various	
+771.45625 	   	WQLV703 	BM		RCES-TACN TA 	Roane County Emergency Services TACN Talkaround 	P25 	Emergency Ops 
+154.22000 	156.04500  	KNJM924 	RM	179.9 PL	RCFD-EAST 	County Fire Paging East 	FMN 	Fire Dispatch 
+154.96500 	151.19000  	WQRQ709 	RM	123.0 PL	RCFD-SOUTH 	County Fire Paging South 	FMN 	Fire Dispatch 
+155.62500 	151.19000  	WPGI329 	RM	123.0 PL	RCFD-NORTH 	County Fire Paging North 	FMN 	Fire Dispatch 
+154.32500 	159.06000  	WNML628 	RM	123.0 PL	SRCVFD 	South Roane County Fire Department 	FM 	Fire-Tac 
+158.75250 	   	WQCC496 	M		BLAIR VFD 	Blair Volunteer Fire Department 	FMN 	Fire-Tac 
+155.68500 	153.76250  	KEC485 	RM		ROANE EMS 	EMS Dispatch - Backup 	FMN 	EMS Dispatch 
+460.15000 	465.15000  	WPYL382 	RM	103.5 PL	ROANE SO 	Sheriff's Department - Dispatch Backup 	FMN 	Law Dispatch 
+460.40000 	465.40000  	WPYL382 	RM	127.3 PL	UTNMA 	Sheriff's Department - UHF Interop Backup 	FMN 	Interop 
+452.10000 	457.10000  	WPPG545 	RM	131 DPL	RCSCHLS BUS 	Schools - Buses 	FMN 	Schools 
+451.32500 	456.32500  	WPPG545 	RM	114.8 PL	RCSCHLS OPS 	Schools 	FMN 	Schools 
+463.06250 	468.06250  	KKR348 	RM	132 DPL	ROANE MED CTR 	EMS transports to Roane Medical Center 	FMN 	Hospital 
+154.04000 	158.88000  	WPBZ784 	RM	123.0 PL	Harriman FD 	Fire 	FMN 	Fire Dispatch 
+460.47500 	465.47500  	WNIA292 	RM	94.8 PL	Harriman PD 	Police 	FM 	Law Dispatch 
+453.86250 	458.86250  	WPOX332 	RM	114.8 PL	Harriman PW 	Streets Department 	FMN 	Public Works 
+155.11500 	155.98500  	WPBZ238 	RM	151.4 PL	Harriman UB 	Utility Board 	FMN 	Utilities 
+158.13000 	153.44000  	KIC280 	RM	167.9 PL	Harriman UB 	Utility Board 	FMN 	Utilities 
+460.07500 	   	WPKG719 	M		Kingston PD 	Police - Private/Tactical 	FMN 	Law Tac 
+151.05500 	153.87500  	WPNS785 	RM	71.9 PL	Rkwd Streets 	Street Department 	FM 	Public Works 
+151.79000 	160.00500  	KNIC392 	RM		Rkwd Electric 	Electric 	DMR 	Utilities 
+153.45500 	158.28000  	WQMH203 	RM		Rkwd Wtr/Gas 	Water & Gas 	FMN 	Utilities 
+Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	Tennessee Valley Authority	 Project 25 Phase I	 Various

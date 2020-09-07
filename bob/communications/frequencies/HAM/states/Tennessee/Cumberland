@@ -1,24 +1,23 @@
-155.07000 	WQRB648 	RM	131.8 PL	Cumbld SD 1 	Sheriff's Department - Dispatch (Crab Orchard Repeater) 	FMN 	Law Dispatch 
-158.85750 	WQRB648 	RM		Cumbld SD 2 	Sheriff's Department - Dispatch (Crossville Repeater) 	FMN 	Law Dispatch 
-154.44500 	KXH290 	RM	141.3 PL	Cumbld FD 	County Fire - Dispatch 	FMN 	Fire Dispatch 
-453.35000 	KXH290 	M		Cumbld FG1 	County Fire - Fireground 1 	FMN 	Fire-Tac 
-453.37500 	KXH290 	M		Cumbld FG2 	County Fire - Fireground 2 	FMN 	Fire-Tac 
-155.18250 	WNJS635 	RM	331 DPL	Cumbld EMS 	EMS - Dispatch (Expired) 	FMN 	EMS Dispatch 
-154.25000 	WPGS579 	RM	107.2 PL	Cumbld Rs Sq 	Rescue Squad 	FMN 	EMS Dispatch 
-151.12250 	WNJS635 	RM		Cumbld EMA 	Sheriff's Department / EMA (Expired) 	FMN 	Emergency Ops 
-155.13000 	WPEH753 	RM	413 DPL	Crossvlle PD 	Police Department 	FMN 	Law Dispatch 
-154.19000 	KNFQ723 	RM	131.8 PL	Crossvlle FD 	Fire Department 	FMN 	Fire Dispatch 
-155.70750 	KNFQ723 	M		CRSSVLL FG 	Fireground 	FMN 	Fire-Tac 
-154.40000 	WPIU548 	RM	127.3 PL	FG Pub Sfty 	Public Safety 	FMN 	Multi-Dispatch 
-464.57500 	WNIH793 	RM	627 DPL	FIM Repeater 	Main Operations - Repeater 	FMN 	Business 
-160.95000 	 	BM	CSQ	NS Road 	Norfolk Southern Railroad Interchange - Road Channel 	FMN 	Railroad 
-160.24500 	 	BM	CSQ	NS Dsp/Train 	Norfolk Southern Railroad Interchange - Dispatcher/Trains 	FMN 	Railroad 
-461.77500 	WNIH793 	M	431 DPL	FIM Rail 	Rail Switching at Crab Orchard 	FMN 	Railroad 
-468.20000 	WNIH793 	M		FIM 468.200 	Mobiles 	FMN 	Business 
-468.30000 	WNIH793 	M		FIM 468.300 	Mobiles 	FMN 	Business 
-468.40000 	WNIH793 	M		FIM 468.400 	Mobiles 	FMN 	Business 
-469.10000 	WQFK605 	M		FIM 469.100 	Mobiles 	FMN 	Business 
-469.40000 	WQFK605 	M		FIM 469.400 	Mobiles 	FMN 	Business 
-469.90000 	WQFK605 	M		FIM 469.900 	Mobiles 	FMN 	Business 
-Cumberland County Public Safety	 Project 25 Phase II	 Crossville	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked
- Various	
+155.07000 	155.91000  	WQRB648 	RM	131.8 PL	Cumbld SD 1 	Sheriff's Department - Dispatch (Crab Orchard Repeater) 	FMN 	Law Dispatch 
+158.85750 	154.83000  	WQRB648 	RM		Cumbld SD 2 	Sheriff's Department - Dispatch (Crossville Repeater) 	FMN 	Law Dispatch 
+154.44500 	154.07000  	KXH290 	RM	141.3 PL	Cumbld FD 	County Fire - Dispatch 	FMN 	Fire Dispatch 
+453.35000 	458.35000  	KXH290 	M		Cumbld FG1 	County Fire - Fireground 1 	FMN 	Fire-Tac 
+453.37500 	458.37500  	KXH290 	M		Cumbld FG2 	County Fire - Fireground 2 	FMN 	Fire-Tac 
+155.18250 	150.99500  	WNJS635 	RM	331 DPL	Cumbld EMS 	EMS - Dispatch (Expired) 	FMN 	EMS Dispatch 
+154.25000 	153.95000  	WPGS579 	RM	107.2 PL	Cumbld Rs Sq 	Rescue Squad 	FMN 	EMS Dispatch 
+151.12250 	159.02250  	WNJS635 	RM		Cumbld EMA 	Sheriff's Department / EMA (Expired) 	FMN 	Emergency Ops 
+155.13000 	158.91000  	WPEH753 	RM	413 DPL	Crossvlle PD 	Police Department 	FMN 	Law Dispatch 
+154.19000 	155.83500  	KNFQ723 	RM	131.8 PL	Crossvlle FD 	Fire Department 	FMN 	Fire Dispatch 
+155.70750 	   	KNFQ723 	M		CRSSVLL FG 	Fireground 	FMN 	Fire-Tac 
+154.40000 	154.01000  	WPIU548 	RM	127.3 PL	FG Pub Sfty 	Public Safety 	FMN 	Multi-Dispatch 
+464.57500 	469.57500  	WNIH793 	RM	627 DPL	FIM Repeater 	Main Operations - Repeater 	FMN 	Business 
+160.95000 	   	 	BM	CSQ	NS Road 	Norfolk Southern Railroad Interchange - Road Channel 	FMN 	Railroad 
+160.24500 	160.83000  	 	BM	CSQ	NS Dsp/Train 	Norfolk Southern Railroad Interchange - Dispatcher/Trains 	FMN 	Railroad 
+461.77500 	   	WNIH793 	M	431 DPL	FIM Rail 	Rail Switching at Crab Orchard 	FMN 	Railroad 
+468.20000 	   	WNIH793 	M		FIM 468.200 	Mobiles 	FMN 	Business 
+468.30000 	   	WNIH793 	M		FIM 468.300 	Mobiles 	FMN 	Business 
+468.40000 	   	WNIH793 	M		FIM 468.400 	Mobiles 	FMN 	Business 
+469.10000 	   	WQFK605 	M		FIM 469.100 	Mobiles 	FMN 	Business 
+469.40000 	   	WQFK605 	M		FIM 469.400 	Mobiles 	FMN 	Business 
+469.90000 	   	WQFK605 	M		FIM 469.900 	Mobiles 	FMN 	Business 
+Cumberland County Public Safety	 Project 25 Phase II	 Crossville	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various

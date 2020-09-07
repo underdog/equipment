@@ -1,38 +1,38 @@
-154.78500 	WQFU340 	RM	162.2 PL	Etowah SO W 	Sheriff West (Ch 1) 	FM 	Law Dispatch 
-154.78500 	WQFU340 	RM	203.5 PL	Etowah SO C 	Sheriff Central (Ch 2) 	FM 	Law Dispatch 
-154.78500 	WQFU340 	RM	131.8 PL	Etowah SO E 	Sheriff East (Ch 3) 	FM 	Law Dispatch 
-453.92500 	 	RM		Etowah Jail 	Sheriff Jail (FCC Expired) 	FM 	Corrections 
-453.85000 	KNAU449 	RM	023 DPL	Etowah VFD 	Volunteer Fire Dispatch - 911 (RCFP) 	FMN 	Fire Dispatch 
-460.55000 	WNSA680 	RM		Etowah Resc 	Rescue Squad 	DMR 	EMS Dispatch 
-460.60000 	WPFQ856 	RM	151.4 PL	Ballplay2FD 	Ballplay 2 VFD 	FM 	Fire Dispatch 
-154.37000 	KTI614 	RM	88.5 PL	Etowah MA 1 	Gadsden/Etowah MutualAid 1 	FM 	Interop 
-154.37000 	KTI614 	RM	100.0 PL	Etowah MA 2 	Gadsden/Etowah MutualAid 2 	FM 	Interop 
-460.40000 	WPFX422 	RM	100.0 PL	Etowah MA 3 	Gadsden/Etowah MutualAid 3 	FM 	Interop 
-453.21250 	 	RM	156.7 PL	AL UHF MA 	Gadsden/Etowah MutualAid (AL UHF) 	FM 	Interop 
-154.96500 	WNNS728 	BM		Etowah WX 	Weather Alert Radio (Data only) 	FM 	Data 
-155.34000 	WQOV200 	BM	114.8 PL	GRH HEAR 	Gadsden Regional Hospital 	FMN 	Hospital 
-155.34000 	WQOK958 	BM	85.4 PL	RRMC HEAR 	Riverview Regional Medical Center 	FMN 	Hospital 
-462.12500 	WQF775 	RM		EtowahSchBus 	Board of Education - School Bus 	FM 	Schools 
-154.43000 	WNGU464 	RM	186.2 PL	AltoonaFD 	Fire Dispatch 	FMN 	Fire Dispatch 
-159.30000 	WPJW694 	RM		Attalla PD 1 	Police 	FM 	Law Dispatch 
-155.71500 	WPEP863 	BM		Attalla PD 2 	Police Ch.2 	FM 	Law Tac 
-154.14500 	KNBJ858 	RM	173.8 PL	Attalla FDPW 	Fire and Public  Works 	FMN 	Multi-Dispatch 
-460.20000 	 	RM		Gadsden FD 	Fire  	FM 	Fire Dispatch 
-154.12250 	WNNS728 	RM		Gadsden EMA 	Emergency Mgmt. 	FMN 	Emergency Ops 
-155.95500 	WPJZ971 	BM		Gadsden HA 	Housing Authority 	FM 	Public Works 
-453.82500 	WPBD250 	B		GadsdenPWPag 	Paging 	FM 	Data 
-151.16000 	WQBS753 	RM		Glencoe PD 	Police 	FM 	Law Dispatch 
-158.89500 	WNWV789 	RM	131.8 PL	Glencoe FD 	Fire 	FM 	Fire Dispatch 
-154.08500 	KNCC999 	RM	131.8 PL	Hokes PD 	Police 	FMN 	Law Dispatch 
-154.25000 	KEG606 	RM	031 DPL	Hokes FD 	Fire  	FMN 	Fire Dispatch 
-155.31000 	WPXH856 	RM		Rainbow PD1 	Police 1 	FM 	Law Dispatch 
-158.82750 	WPXH856 	RM	131.8 PL	Rainbow PD2 	Police 2 	FM 	Law Talk 
-154.16000 	WNJZ700 	RM		Rainbow FD 	Fire 	FM 	Fire Dispatch 
-453.92500 	WQAX932 	RM		Reece CMN 	Fire/DPW/Water 	FM 	Multi-Talk 
-156.21000 	WPFU246 	RM	162.2 PL	Sthside PD 1 	Police Primary 	FM 	Law Dispatch 
-154.86750 	WPFU246 	M		Sthside PD 2 	Police Tactical 	FMN 	Law Tac 
-155.25000 	WPFU246 	M		Sthside PD 3 	Police Car-to-Car 	FM 	Law Talk 
-158.85000 	KIA757 	RM	131.8 PL	Sthside FD 1 	Fire Primary 	FM 	Fire Dispatch 
-154.44500 	KIA757 	BM		Sthside FD 2 	Fire Tactical Ops 	FM 	Fire-Tac 
-155.55000 	KIA757 	M		Sthside FD 3 	Fire Command 	FM 	Fire-Talk 
+154.78500 	159.15000  	WQFU340 	RM	162.2 PL	Etowah SO W 	Sheriff West (Ch 1) 	FM 	Law Dispatch 
+154.78500 	159.15000  	WQFU340 	RM	203.5 PL	Etowah SO C 	Sheriff Central (Ch 2) 	FM 	Law Dispatch 
+154.78500 	159.15000  	WQFU340 	RM	131.8 PL	Etowah SO E 	Sheriff East (Ch 3) 	FM 	Law Dispatch 
+453.92500 	458.92500  	 	RM		Etowah Jail 	Sheriff Jail (FCC Expired) 	FM 	Corrections 
+453.85000 	458.85000  	KNAU449 	RM	023 DPL	Etowah VFD 	Volunteer Fire Dispatch - 911 (RCFP) 	FMN 	Fire Dispatch 
+460.55000 	465.55000  	WNSA680 	RM		Etowah Resc 	Rescue Squad 	DMR 	EMS Dispatch 
+460.60000 	465.60000  	WPFQ856 	RM	151.4 PL	Ballplay2FD 	Ballplay 2 VFD 	FM 	Fire Dispatch 
+154.37000 	153.92000  	KTI614 	RM	88.5 PL	Etowah MA 1 	Gadsden/Etowah MutualAid 1 	FM 	Interop 
+154.37000 	153.92000  	KTI614 	RM	100.0 PL	Etowah MA 2 	Gadsden/Etowah MutualAid 2 	FM 	Interop 
+460.40000 	465.40000  	WPFX422 	RM	100.0 PL	Etowah MA 3 	Gadsden/Etowah MutualAid 3 	FM 	Interop 
+453.21250 	458.21250  	 	RM	156.7 PL	AL UHF MA 	Gadsden/Etowah MutualAid (AL UHF) 	FM 	Interop 
+154.96500 	   	WNNS728 	BM		Etowah WX 	Weather Alert Radio (Data only) 	FM 	Data 
+155.34000 	   	WQOV200 	BM	114.8 PL	GRH HEAR 	Gadsden Regional Hospital 	FMN 	Hospital 
+155.34000 	   	WQOK958 	BM	85.4 PL	RRMC HEAR 	Riverview Regional Medical Center 	FMN 	Hospital 
+462.12500 	467.12500  	WQF775 	RM		EtowahSchBus 	Board of Education - School Bus 	FM 	Schools 
+154.43000 	153.89000  	WNGU464 	RM	186.2 PL	AltoonaFD 	Fire Dispatch 	FMN 	Fire Dispatch 
+159.30000 	156.01500  	WPJW694 	RM		Attalla PD 1 	Police 	FM 	Law Dispatch 
+155.71500 	   	WPEP863 	BM		Attalla PD 2 	Police Ch.2 	FM 	Law Tac 
+154.14500 	150.77500  	KNBJ858 	RM	173.8 PL	Attalla FDPW 	Fire and Public  Works 	FMN 	Multi-Dispatch 
+460.20000 	465.20000  	 	RM		Gadsden FD 	Fire  	FM 	Fire Dispatch 
+154.12250 	159.17250  	WNNS728 	RM		Gadsden EMA 	Emergency Mgmt. 	FMN 	Emergency Ops 
+155.95500 	   	WPJZ971 	BM		Gadsden HA 	Housing Authority 	FM 	Public Works 
+453.82500 	   	WPBD250 	B		GadsdenPWPag 	Paging 	FM 	Data 
+151.16000 	159.25500  	WQBS753 	RM		Glencoe PD 	Police 	FM 	Law Dispatch 
+158.89500 	156.03000  	WNWV789 	RM	131.8 PL	Glencoe FD 	Fire 	FM 	Fire Dispatch 
+154.08500 	156.07500  	KNCC999 	RM	131.8 PL	Hokes PD 	Police 	FMN 	Law Dispatch 
+154.25000 	151.34000  	KEG606 	RM	031 DPL	Hokes FD 	Fire  	FMN 	Fire Dispatch 
+155.31000 	153.78500  	WPXH856 	RM		Rainbow PD1 	Police 1 	FM 	Law Dispatch 
+158.82750 	155.63250  	WPXH856 	RM	131.8 PL	Rainbow PD2 	Police 2 	FM 	Law Talk 
+154.16000 	153.75500  	WNJZ700 	RM		Rainbow FD 	Fire 	FM 	Fire Dispatch 
+453.92500 	458.92500  	WQAX932 	RM		Reece CMN 	Fire/DPW/Water 	FM 	Multi-Talk 
+156.21000 	155.49000  	WPFU246 	RM	162.2 PL	Sthside PD 1 	Police Primary 	FM 	Law Dispatch 
+154.86750 	   	WPFU246 	M		Sthside PD 2 	Police Tactical 	FMN 	Law Tac 
+155.25000 	   	WPFU246 	M		Sthside PD 3 	Police Car-to-Car 	FM 	Law Talk 
+158.85000 	151.08500  	KIA757 	RM	131.8 PL	Sthside FD 1 	Fire Primary 	FM 	Fire Dispatch 
+154.44500 	   	KIA757 	BM		Sthside FD 2 	Fire Tactical Ops 	FM 	Fire-Tac 
+155.55000 	   	KIA757 	M		Sthside FD 3 	Fire Command 	FM 	Fire-Talk 
  Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	AllComm Wireless (LTR)	 LTR Standard	 Various	

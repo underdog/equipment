@@ -1,81 +1,61 @@
-154.77000 	WGW80 	RM	117 NAC	GrftnCtyDisp 	Sheriff Office Dispatch 	P25 	Law Dispatch 
-154.77000 	WGW80 	RM	136.5 PL	GraftonCtyPD-An 	Sheriffs Office Dispatch - Analog Backup 	FMN 	Law Dispatch 
-155.04000 	KVZ468 	RM	117 NAC	GraftonCty-West 	Sheriffs Office Dispatch - Grafton West 	P25 	Law Dispatch 
-155.04000 	KVZ468 	RM	136.5 PL	GraftonCty-W-An 	Sheriffs Office Dispatch - Grafton West Analog Backup 	FMN 	Law Dispatch 
-158.83500 	WPGI986 	RM	727 NAC	GraftonCty-North 	Sheriffs Office Dispatch - Grafton North 	P25 	Law Dispatch 
-158.83500 	WPGI986 	RM	136.5 PL	GrafttonCty-N-An 	Sheriffs Office Dispatch - Grafton North Analog Backup 	FMN 	Law Dispatch 
-155.00250 	WQSM396 	BM	229.1 PL	GraftonCourtSec 	Court House Security 	FMN 	Security 
-155.08500 	WQCD564 	RM	136.5 PL	GraftonCty DOC 	Department of Corrections 	FMN 	Corrections 
-159.90000 	WPUN953 	BM	210.7 PL	LRMFA Disp 1 	Fire Dispatch/Primary Operations 	FMN 	Fire Dispatch 
-160.11000 	WPUN953 	BM	331 DPL	LRMFA Disp 2 	Fire Secondary Dispatch/Alternate 	FMN 	Fire Dispatch 
-160.15500 	WPUN953 	BM	331 DPL	LRMFA Tac 3 	Fireground 	FMN 	Fire-Tac 
-154.30250 	WPUN953 	M	331 DPL	LRMFA Tac 5 	Fireground 	FMN 	Fire-Tac 
-154.98750 	WPUN983 	M	331 DPL	LRMFA Tac 6 	Fireground 	FMN 	Fire-Tac 
-154.98750 	WPUN983 	RM	331 DPL	LRMFArptCMD7 	Mt. Belknap Command 	FMN 	Fire-Tac 
-154.98750 	WPUN983 	RM	331 DPL	LRMFArptCMD8 	Tenney Mtn. Command 	FMN 	Fire-Tac 
-154.98750 	WPUN983 	RM	331 DPL	LRMFArptCMD9 	Mt. Tecumseh Command 	FMN 	Fire-Tac 
-154.40000 	KSI676 	BM	136.5 PL	TwinStateDsp 	Fire and Rescue 	FMN 	Fire Dispatch 
-154.16000 	 	BM	136.5 PL	Fire Ground 7 	Fire Ground 7 	FMN 	Fire-Tac 
-154.23500 	 	BM	136.5 PL	Fire Ground 6 	Fire Ground 6 	FMN 	Fire-Tac 
-154.28000 	 	BM	136.5 PL	Fire Ground 5 	Fireground 5 	FMN 	Fire-Tac 
-154.29500 	KSI676 	M	136.5 PL	TwinStateFG 	Fire 	FMN 	Fire-Tac 
-451.75000 	KSI676 	F	118.8 PL	TwinStateLnk 	Link 	FM 	Fire Dispatch 
-453.05000 	WQDH969 	F	136.5 PL	TwinStateLnk 	Link 	FM 	Fire Dispatch 
-453.26250 	 	BM	606 DPL	TwinStateFDMann 	Manns Hill Link 	FMN 	Fire Dispatch 
-453.63750 	 	BM		TwinStateLnk 	MANNS HILL LINK 	FMN 	Fire Dispatch 
-456.75000 	KSI676 	F		TwinStateLnk 	Link 	FM 	Fire Dispatch 
-460.36250 	 	BM		TwinStateLnk 	WEST NEWBURY LINK  	FMN 	Fire Dispatch 
-155.74500 	WQQ925 	BM	156.7 PL	Ashland DPW 	Highway Department 	FMN 	Public Works 
-155.02500 	WNWJ830 	RM	754 DPL	Bath DPW 	Public Works 	FMN 	Public Works 
-154.37750 	KVP505 	RM	417 NAC	Bristol PD 	Police Dispatch  	P25 	Law Dispatch 
-155.04000 	KVZ468 	B	156.7 PL	Bristol PW 	Bristol PW 	FMN 	Public Works 
-159.32250 	WQPP873 	BM	156.7 PL	CamptonDPW 	Highway Department 	FMN 	Public Works 
-452.67500 	 	BM	CSQ	LinktoHR1 	Link to Hear 1 	FMN 	Hospital 
-155.70750 	WQAY459 	B	156.7 PL	Enfield PD 	Police 	FMN 	Law Dispatch 
-154.96500 	 	BM	136.5 PL	FranconiaDPW 	Public Works 	FMN 	Public Works 
-154.13000 	KCD801 	B	141.3 PL	HanoFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-158.82000 	WQIY552 	BM	141.3 PL	HanoFD Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
-154.08500 	WPUX677 	BM	141.3 PL	HanoFD Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
-153.84500 	WPUX677 	M	141.3 PL	HanoFD Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
-154.26500 	 	BM	141.3 PL	HanoFD Tac 4 	Fire Tactical 4 	FMN 	Fire-Tac 
-154.31000 	WQDM219 	BM	141.3 PL	HanoFD Tac 5 	Fire Tactical 5 	FMN 	Fire-Tac 
-154.95000 	WQEJ543 	M	141.3 PL	HanoFD Tac 6 	Fire Tactical 6 	FMN 	Fire-Tac 
-154.37000 	 	BM	141.3 PL	HanoFD Tac 7 	Fire Tactical 7 	FMN 	Fire-Tac 
-153.95000 	KAG480 	B	141.3 PL	HanoFD Tac 8 	Fire Tactical 8 	FMN 	Fire-Tac 
-156.16500 	 	M	141.3 PL	HanoFD Tac 9 	Fire Tactical 9 	FMN 	Fire-Tac 
-153.89000 	KCD354 	M	141.3 PL	HanoFD Tac10 	Fire Tactical 10 	FMN 	Fire-Tac 
-154.14500 	KCD354 	BM	141.3 PL	HanoFD Tac11 	Fire Tactical 11 	FMN 	Fire-Tac 
-155.59500 	KCA362 	BM	141.3 PL	Hanover PD 	Police 	FMN 	Law Dispatch 
-155.47500 	KQL793 	M	136.5 PL	Haverhill C2C 	F2 - Car to Car 	FMN 	Law Tac 
-155.91000 	KAW661 	BM	136.5 PL	HaverhillPD-LPN 	Low Power North 	FMN 	Law Tac 
-155.73000 	 	M	417 NAC	Haverhill QT 	QT Channel 	P25 	Law Tac 
-156.13500 	WNNL953 	BM	136.5 PL	Haverhill DPW 	Highway Department 	FMN 	Public Works 
-461.90000 	 	BM	110.9 PL	CountySeniors 	County Senior Citizens - Vans and Ops 	FMN 	Public Works 
-156.10500 	WQSB562 	BM	136.5 PL	HoldernessDPW 	Public Works 	FMN 	Public Works 
-151.41500 	 	BM	141.3 PL	FD Disp 	Fire Dispatch No Tones 	FMN 	Fire Dispatch 
-159.45000 	 	BM	141.3 PL	FD SIm Tones 	Simulcast Digital w/ Tones 	FMN 	Fire Dispatch 
-155.25000 	KNCR727 	BM	437 NAC	Lebanon PD 	Police 	P25 	Law Dispatch 
-154.05500 	KNBT426 	BM	141.3 PL	LincFireDisp 	Lincoln Fire Dispatch 	FMN 	Fire Dispatch 
-155.19000 	WNPJ237 	B	617 NAC	LincPDDisp 	Lincoln PD Dispatch 	P25 	Law Dispatch 
-155.23500 	WNGB371 	BM	167.9 PL	LinWood EMS 	LinWood EMS (Also covers Woodstock) 	FMN 	EMS Dispatch 
-154.98000 	WPQK295 	RM	117 NAC	Lisbon PD 	Police 	P25 	Law Dispatch 
-154.98000 	 	BM	136.5 PL	LisbonPDBU 	Lisbon Police Backup 	FMN 	Law Tac 
-155.71500 	WNJC992 	BM	136.5 PL	Lisbon TW 	Multi Department Use 	FMN 	Multi-Tac 
-155.31000 	WNJD913 	RM	217 NAC	Littleton PD 	Littleton Police Department Dispatch 	P25 	Law Dispatch 
-153.60500 	KNNG552 	BM	141.3 PL	LittletonLandW 	Light and Water Division 	FMN 	Utilities 
-155.82000 	WQN865 	BM	141.3 PL	LittletonDPW 	Highway Department 	FMN 	Public Works 
-152.42000 	WRCT909 	BM	136.5 PL	Lyman DPW 	Public Works 	FMN 	Public Works 
-155.14500 	 	BM	136.5 PL	MonroeDPW 	Public Works 	FMN 	Public Works 
-154.75500 	WNWC735 	BM	417 NAC	Police Local 	Police (includes other agencies; mixed analog/digital) also has 156.7 PL tone for analog side 	P25 	Law Dispatch 
-156.19500 	WQWI563 	RM	136.5 PL	Plymouth DPW 	Public Works 	FMN 	Public Works 
-152.46500 	WQFZ431 	BM	466 DPL	Plym Mid and HS 	Middle and High School Operations 	FMN 	Schools 
-153.56000 	WQQQ511 	BM	565 DPL	Plymouth Element 	Elementary School Operations 	FMN 	Schools 
-155.05500 	KVN454 	BM		PlymStateU - M 	Plymouth State University - Plant and Shuttle 	DMR 	Schools 
-156.00000 	KD31798 	RM	162.2 PL	PlymouthStateSec 	Plymouth State University - Security and CA interop 	FMN 	Schools 
-150.15000 	 	BM	136.5 PL	Warren DPW 	Public Works 	FMN 	Public Works 
-151.50500 	 	BM	423 DPL	Warren Schools 	Schools 	FMN 	Schools 
-155.83500 	 	BM	136.5 PL	Warren Town Locl 	Town Local 	FMN 	Multi-Tac 
-155.32500 	 	BM	136.5 PL	LinWood EMS 	LinWood EMS 	FMN 	EMS Dispatch 
-151.49000 	 	BM	627 DPL	WoodsvilleFDLigh 	Town Water and Light 	FMN 	Public Works 
-Dartmouth College	 LTR Standard	 Hanover	New Hampshire Department of Natural and Cultural Resources	 DMR Tier 3	 Varies	New Hampshire Electric Cooperative	 DMR Motorola Connect Plus (TRBO)
- Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	
+154.77000 	155.85000  	WGW80 	RM	117 NAC	GrftnCtyDisp 	County Dispatch - Primary Operations 	P25 	Law Dispatch 
+158.83500 	   	WPGI986 	RM	136.5 PL	GrafttonCty-N-An 	County Dispatch - Grafton North Analog Backup 	FMN 	Law Dispatch 
+158.83500 	   	WPGI986 	RM	727 NAC	GraftonCty-North 	County Dispatch - Grafton North 	P25 	Law Dispatch 
+154.77000 	155.85000  	WGW80 	RM	136.5 PL	GraftonCtyPD-An 	County Dispatch - Analog Backup 	FMN 	Law Dispatch 
+155.04000 	158.86500  	KVZ468 	RM	117 NAC	GraftonCty-West 	County Dispatch - Grafton West 	P25 	Law Dispatch 
+155.04000 	158.86500  	KVZ468 	RM	136.5 PL	GraftonCty-W-An 	County Dispatch - Grafton West Analog Backup 	FMN 	Law Dispatch 
+155.00250 	   	WQSM396 	BM	229.1 PL	GraftonCourtSec 	Court House Security 	FMN 	Security 
+155.08500 	158.97750  	WQCD564 	RM	136.5 PL	GraftonCty DOC 	Department of Corrections 	FMN 	Corrections 
+155.74500 	   	WQQ925 	BM	156.7 PL	Ashland DPW 	Public Works 	FMN 	Public Works 
+155.02500 	   	WNWJ830 	RM	754 DPL	Bath DPW 	Public Works 	FMN 	Public Works 
+154.37750 	159.36000  	KVP505 	RM	417 NAC	Bristol PD 	Police Operations 	P25 	Law Dispatch 
+155.04000 	   	KVZ468 	B	156.7 PL	Bristol PW 	Public Works 	FMN 	Public Works 
+159.32250 	   	WQPP873 	BM	156.7 PL	CamptonDPW 	Public Works 	FMN 	Public Works 
+452.67500 	   	 	BM	CSQ	LinktoHR1 	Link to Hear 1 	FMN 	Hospital 
+155.70750 	   	WQAY459 	B	156.7 PL	Enfield PD 	Police Operations 	FMN 	Law Dispatch 
+154.96500 	   	 	BM	136.5 PL	FranconiaDPW 	Public Works 	FMN 	Public Works 
+155.59500 	   	KCA362 	BM	141.3 PL	Hanover PD 	Police Operations 	FMN 	Law Dispatch 
+156.16500 	   	 	M	141.3 PL	HanoFD Tac 9 	Fire Tactical 9 	FMN 	Fire-Tac 
+153.89000 	   	KCD354 	M	141.3 PL	HanoFD Tac10 	Fire Tactical 10 	FMN 	Fire-Tac 
+154.13000 	   	KCD801 	B	141.3 PL	HanoFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.14500 	   	KCD354 	BM	141.3 PL	HanoFD Tac11 	Fire Tactical 11 	FMN 	Fire-Tac 
+158.82000 	   	WQIY552 	BM	141.3 PL	HanoFD Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
+154.08500 	   	WPUX677 	BM	141.3 PL	HanoFD Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
+153.84500 	   	WPUX677 	M	141.3 PL	HanoFD Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
+154.26500 	   	 	BM	141.3 PL	HanoFD Tac 4 	Fire Tactical 4 	FMN 	Fire-Tac 
+154.31000 	   	WQDM219 	BM	141.3 PL	HanoFD Tac 5 	Fire Tactical 5 	FMN 	Fire-Tac 
+154.95000 	   	WQEJ543 	M	141.3 PL	HanoFD Tac 6 	Fire Tactical 6 	FMN 	Fire-Tac 
+154.37000 	   	 	BM	141.3 PL	HanoFD Tac 7 	Fire Tactical 7 	FMN 	Fire-Tac 
+153.95000 	   	KAG480 	B	141.3 PL	HanoFD Tac 8 	Fire Tactical 8 	FMN 	Fire-Tac 
+156.13500 	   	WNNL953 	BM	136.5 PL	Haverhill DPW 	Public Works 	FMN 	Public Works 
+461.90000 	   	 	BM	110.9 PL	CountySeniors 	County Senior Citizens - Vans and Ops 	FMN 	Public Works 
+156.10500 	   	WQSB562 	BM	136.5 PL	HoldernessDPW 	Public Works 	FMN 	Public Works 
+155.25000 	   	KNCR727 	BM	437 NAC	Lebanon PD 	Police Operations 	P25 	Law Dispatch 
+151.23500 	   	WPYI237 	BM	800 NAC	LebFireDisp 	Fire/EMS Main Operations 	P25 	Fire Dispatch 
+151.41500 	   	 	BM	141.3 PL	FD Disp 	Fire Dispatch No Tones 	FMN 	Fire Dispatch 
+159.45000 	   	 	BM	141.3 PL	FD SIm Tones 	Simulcast Digital w/ Tones 	FMN 	Fire Dispatch 
+155.19000 	   	WNPJ237 	B	617 NAC	LincPDDisp 	Police Operations 	P25 	Law Dispatch 
+154.05500 	   	KNBT426 	BM	141.3 PL	LincFireDisp 	Fire Operations 	FMN 	Fire Dispatch 
+155.23500 	   	WNGB371 	BM	167.9 PL	LinWood EMS 	LinWood EMS (Also covers Woodstock) 	FMN 	EMS Dispatch 
+154.98000 	   	WPQK295 	RM	117 NAC	Lisbon PD 	Police Operations 	P25 	Law Dispatch 
+154.98000 	   	 	BM	136.5 PL	LisbonPDBU 	Police Backup 	FMN 	Law Tac 
+155.71500 	   	WNJC992 	BM	136.5 PL	Lisbon TW 	Multi Department Use 	FMN 	Multi-Tac 
+155.31000 	   	WNJD913 	RM	217 NAC	Littleton PD 	Police Operations 	P25 	Law Dispatch 
+153.60500 	   	KNNG552 	BM	141.3 PL	LittletonLandW 	Light and Water Division 	FMN 	Utilities 
+155.82000 	   	WQN865 	BM	141.3 PL	LittletonDPW 	Public Works 	FMN 	Public Works 
+152.42000 	   	WRCT909 	BM	136.5 PL	Lyman DPW 	Public Works 	FMN 	Public Works 
+155.14500 	   	 	BM	136.5 PL	MonroeDPW 	Public Works 	FMN 	Public Works 
+154.75500 	   	WNWC735 	BM	417 NAC	Plymouth PD 	Police Operations 	P25 	Law Dispatch 
+154.75500 	   	WNWC735 	BM	156.7 PL	Plymouth PD-A 	Police Operations - Analog 	FMN 	Law Dispatch 
+156.19500 	150.00000  	WQWI563 	RM	136.5 PL	Plymouth DPW 	Public Works 	FMN 	Public Works 
+152.46500 	   	WQFZ431 	BM	466 DPL	Plym Mid and HS 	Middle and High School Operations 	FMN 	Schools 
+153.56000 	   	WQQQ511 	BM	565 DPL	Plymouth Element 	Elementary School Operations 	FMN 	Schools 
+155.05500 	   	KVN454 	BM		PlymStateU - M 	Plymouth State University - Plant and Shuttle 	DMR 	Schools 
+156.00000 	158.95500  	KD31798 	RM	162.2 PL	PlymouthStateSec 	Plymouth State University - Security and CA interop 	FMN 	Schools 
+150.15000 	   	 	BM	136.5 PL	Warren DPW 	Public Works 	FMN 	Public Works 
+151.50500 	   	 	BM	423 DPL	Warren Schools 	Schools 	FMN 	Schools 
+155.83500 	   	 	BM	136.5 PL	Warren Town Locl 	Town Local 	FMN 	Multi-Tac 
+155.32500 	   	 	BM	136.5 PL	LinWood EMS 	LinWood EMS 	FMN 	EMS Dispatch 
+151.49000 	   	 	BM	627 DPL	Woodsville W&L 	Town Water and Light 	FMN 	Public Works 
+Dartmouth College	 LTR Standard	 Hanover	New Hampshire Department of Natural and Cultural Resources	 DMR Tier 3	 Varies	New Hampshire Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various
+OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	

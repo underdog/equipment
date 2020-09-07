@@ -1,11 +1,10 @@
-155.19000 	KAB233 	RM	100.0 PL	PageCoSherif 	Sheriff Dispatch - Clarinda Repeater 	FMN 	Law Dispatch 
-159.43500 	KAA986 	RM	100.0 PL	PageCoSherif 	Sheriff Dispatch - Shenandoah Repeater 	FMN 	Law Dispatch 
-155.61000 	KAB233 	B		PageCoInfo-B 	Sheriff Information - Base 	FM 	Law Talk 
-155.91000 	KAB233 	M		PageCoInfo-M 	Sheriff Information - Mobiles 	FM 	Law Talk 
-154.34000 	KAB233 	RM	100.0 PL	Page Co Fire 	Fire Dispatch - Clarinda Repeater 	FMN 	Fire Dispatch 
-155.80500 	WNLG686 	RM	100.0 PL	Shen Fr RPTR 	Fire Dispatch - Shenandoah Repeater 	FMN 	Fire Dispatch 
-155.43750 	WQOB924 	RM		PageCoPaging 	Paging 	FMN 	Fire Dispatch 
-157.22500 	 	M	100.0 PL	PageCoGrndOp 	Ground Operations 	FMN 	Fire-Tac 
-155.58000 	 			ShenandoahPD 	Police 	FM 	Law Talk 
-Alliant Energy	 DMR Tier 3	 Various	Iowa Department of Corrections	 DMR Tier 3	 Various	RACOM Network	 EDACS Networked Standard
- Various	
+155.19000 	151.02500  	KAB233 	RM	100.0 PL	PageCoSherif 	Sheriff Dispatch - Clarinda Repeater 	FMN 	Law Dispatch 
+159.43500 	155.58750  	KAA986 	RM	100.0 PL	PageCoSherif 	Sheriff Dispatch - Shenandoah Repeater 	FMN 	Law Dispatch 
+155.61000 	   	KAB233 	B		PageCoInfo-B 	Sheriff Information - Base 	FM 	Law Talk 
+155.91000 	   	KAB233 	M		PageCoInfo-M 	Sheriff Information - Mobiles 	FM 	Law Talk 
+154.34000 	158.98500  	KAB233 	RM	100.0 PL	Page Co Fire 	Fire Dispatch - Clarinda Repeater 	FMN 	Fire Dispatch 
+155.80500 	150.80500  	WNLG686 	RM	100.0 PL	Shen Fr RPTR 	Fire Dispatch - Shenandoah Repeater 	FMN 	Fire Dispatch 
+155.43750 	153.90500  	WQOB924 	RM		PageCoPaging 	Paging 	FMN 	Fire Dispatch 
+157.22500 	   	 	M	100.0 PL	PageCoGrndOp 	Ground Operations 	FMN 	Fire-Tac 
+155.58000 	   	 			ShenandoahPD 	Police 	FM 	Law Talk 
+Alliant Energy	 DMR Tier 3	 Various	Iowa Department of Corrections	 DMR Tier 3	 Various	RACOM Network	 EDACS Networked Standard	 Various

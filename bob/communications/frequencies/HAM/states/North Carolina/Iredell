@@ -1,39 +1,38 @@
-453.65000 	KXC968 	RM	127.3 PL	Sheriff Disp 	Sheriff Dispatch (back-up to VIPER) 	FM 	Law Dispatch 
-460.10000 	KXC968 	RM	127.3 PL	SHERIFF TAC 	Sheriff Tactical (back-up to VIPER) 	FM 	Law Tac 
-453.70000 	KXC968 	RM	CSQ	SO Mut Aid 	Sheriff Mutual Aid (back-up to VIPER) 	FM 	Law Talk 
-460.18750 	WPTF602 	RM	141.3 PL	ICOSO JAIL 	Sheriffs Office Jail Tac 	FM 	Corrections 
-154.38500 	KJD264 	RM	151.4 PL	IreCoFD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
-153.89000 	KJD264 	BM	151.4 PL	IreCoFD Tac2 	Fire Tactical 2 	FM 	Fire-Tac 
-154.01000 	KJD264 	BM	151.4 PL	IreCoFD Tac3 	Fire Tactical 3 	FM 	Fire-Tac 
-154.07000 	KJD264 	BM	151.4 PL	IreCoFD Tac4 	Fire Tactical 4 	FM 	Fire-Tac 
-151.15000 	 	M	250.3 PL	UNION GROVE FD 	Union Grove FD 	FMN 	Fire-Tac 
-151.62500 	 	BM	141.3 PL	CENTRAL FD 	Central FD 	FMN 	Fire-Tac 
-151.62500 	 	BM	192.8 PL	MONTICELLO FD 	Monticello FD 	FMN 	Fire-Tac 
-152.86500 	 	BM	85.4 PL	WAYSIDE FD 	Wayside FD 	FMN 	Fire-Tac 
-153.98750 	WPUQ579 	RM	151.4 PL	SHEPARDS FD 	Shepherds VFD Tactical 	FM 	Fire-Tac 
-154.20500 	KJD269 	BM	151.4 PL	TROUTMAN FD 	Troutman VFD Tactical 	FM 	Fire-Tac 
-154.35500 	KNID835 	RM	179.9 PL	MNTMOURNEFD 	Mount Mourne VFD 	FM 	Fire-Tac 
-155.80500 	KJD271 	BM	151.4 PL	COOL SPRNGS FD 	CET TAC 7 (Cool Springs) 	FM 	Fire-Tac 
-155.92500 	KDT584 	BM	192.8 PL	EBENEZER FD 	CET Tac 5 (Ebenezer) 	FM 	Fire-Tac 
-158.99250 	WPUU219 	RM	151.4 PL	LAKENORMANFD 	Lake Norman VFD Tactical 	FM 	Fire-Tac 
-155.34000 	KGW560 	BM	151.4 PL	Davis Hosp 	Davis Hospital 	FM 	Hospital 
-463.15000 	KAN750 	RM	127.3 PL	Davis-Ired 7 	Davis-Ired Hospital (Med-7) 	FM 	EMS-Tac 
-155.16000 	KAN750 	BM	151.4 PL	EMS Tac 2 	EMS Tactical 2 	FM 	EMS-Tac 
-155.20500 	KAN750 	RM	151.4 PL	EMS/Rescue 	EMS/Rescue Dispatch 	FM 	EMS Dispatch 
-155.34000 	KTR807 	BM	151.4 PL	IredellMemrl 	Iredell Memorial Hospital 	FM 	Hospital 
-159.57000 	 			Iredell Resc 	Iredell Rescue 	FM 	EMS-Tac 
-463.05000 	KAN750 	RM	127.3 PL	LikeNormMed 	Lake Normal Medical Center (Med-3) 	FM 	EMS-Tac 
-155.34000 	KZF868 	BM	151.4 PL	LakeNormnEMS 	Lake Norman Medical Center 	FM 	Hospital 
-151.77500 	 	RM	151.4 PL	NIredellRes 	North Iredell Rescue 	FM 	EMS-Tac 
-155.28000 	KAN750 	BM	151.4 PL	Statewide 	State Rescue 	FM 	EMS-Tac 
-155.28000 	KWE546 	BM	151.4 PL	TroutmanEMS 	Troutman Rescue 	FM 	EMS-Tac 
-155.28000 	KXX473 	BM	151.4 PL	West Iredell 	West Iredell Rescue 	FM 	EMS-Tac 
-155.10000 	KCQ316 	M		IREDELLSCHL 	Iredell Statesville Schools 	FM 	Schools 
-154.05500 	WZC696 	BM	192.8 PL	IREDELL CO 	Iredell County Services 	FM 	Multi-Talk 
-770.96250 	 	RM	749 NAC	Iredell DVRS 	Iredell DVRS 	P25 	Multi-Tac 
-770.96250 	 	RM	749 NAC	DVRS Iredell 	Digital Vehicular Repeater System 	P25 	Interop 
-855.81250 	 	M	192.8 PL	StatesvilFD Talk 	Fire Talk-Around 	FMN 	Fire-Talk 
-868.01250 	 	M	156.7 PL	Statesvil PD SRT 	Police SRT Talk-Around 	FMN 	Law Tac 
-Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Charleston Wireless Group/James White	 DMR Motorola Connect Plus (TRBO)	 Various	Charlotte UASI	 Project 25 Phase I
- Charlotte	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	North Carolina VIPER	 Project 25 Phase I	 Varies	PSNC Energy
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	Statesville Public Safety	 Project 25 Phase I	 Statesville	
+453.65000 	458.65000  	KXC968 	RM	127.3 PL	Sheriff Disp 	Sheriff Dispatch (back-up to VIPER) 	FM 	Law Dispatch 
+460.10000 	465.10000  	KXC968 	RM	127.3 PL	SHERIFF TAC 	Sheriff Tactical (back-up to VIPER) 	FM 	Law Tac 
+453.70000 	458.70000  	KXC968 	RM	CSQ	SO Mut Aid 	Sheriff Mutual Aid (back-up to VIPER) 	FM 	Law Talk 
+460.18750 	465.18750  	WPTF602 	RM	141.3 PL	ICOSO JAIL 	Sheriffs Office Jail Tac 	FM 	Corrections 
+154.38500 	159.33750  	KJD264 	RM	151.4 PL	IreCoFD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+153.89000 	   	KJD264 	BM	151.4 PL	IreCoFD Tac2 	Fire Tactical 2 	FM 	Fire-Tac 
+154.01000 	   	KJD264 	BM	151.4 PL	IreCoFD Tac3 	Fire Tactical 3 	FM 	Fire-Tac 
+154.07000 	   	KJD264 	BM	151.4 PL	IreCoFD Tac4 	Fire Tactical 4 	FM 	Fire-Tac 
+151.15000 	   	 	M	250.3 PL	UNION GROVE FD 	Union Grove FD 	FMN 	Fire-Tac 
+151.62500 	   	 	BM	141.3 PL	CENTRAL FD 	Central FD 	FMN 	Fire-Tac 
+151.62500 	   	 	BM	192.8 PL	MONTICELLO FD 	Monticello FD 	FMN 	Fire-Tac 
+152.86500 	   	 	BM	85.4 PL	WAYSIDE FD 	Wayside FD 	FMN 	Fire-Tac 
+153.98750 	150.78250  	WPUQ579 	RM	151.4 PL	SHEPARDS FD 	Shepherds VFD Tactical 	FM 	Fire-Tac 
+154.20500 	   	KJD269 	BM	151.4 PL	TROUTMAN FD 	Troutman VFD Tactical 	FM 	Fire-Tac 
+154.35500 	153.95000  	KNID835 	RM	179.9 PL	MNTMOURNEFD 	Mount Mourne VFD 	FM 	Fire-Tac 
+155.80500 	   	KJD271 	BM	151.4 PL	COOL SPRNGS FD 	CET TAC 7 (Cool Springs) 	FM 	Fire-Tac 
+155.92500 	   	KDT584 	BM	192.8 PL	EBENEZER FD 	CET Tac 5 (Ebenezer) 	FM 	Fire-Tac 
+158.99250 	151.22500  	WPUU219 	RM	151.4 PL	LAKENORMANFD 	Lake Norman VFD Tactical 	FM 	Fire-Tac 
+155.34000 	   	KGW560 	BM	151.4 PL	Davis Hosp 	Davis Hospital 	FM 	Hospital 
+463.15000 	468.15000  	KAN750 	RM	127.3 PL	Davis-Ired 7 	Davis-Ired Hospital (Med-7) 	FM 	EMS-Tac 
+155.16000 	   	KAN750 	BM	151.4 PL	EMS Tac 2 	EMS Tactical 2 	FM 	EMS-Tac 
+155.20500 	159.45000  	KAN750 	RM	151.4 PL	EMS/Rescue 	EMS/Rescue Dispatch 	FM 	EMS Dispatch 
+155.34000 	   	KTR807 	BM	151.4 PL	IredellMemrl 	Iredell Memorial Hospital 	FM 	Hospital 
+159.57000 	   	 			Iredell Resc 	Iredell Rescue 	FM 	EMS-Tac 
+463.05000 	468.05000  	KAN750 	RM	127.3 PL	LikeNormMed 	Lake Normal Medical Center (Med-3) 	FM 	EMS-Tac 
+155.34000 	   	KZF868 	BM	151.4 PL	LakeNormnEMS 	Lake Norman Medical Center 	FM 	Hospital 
+151.77500 	159.57000  	 	RM	151.4 PL	NIredellRes 	North Iredell Rescue 	FM 	EMS-Tac 
+155.28000 	   	KAN750 	BM	151.4 PL	Statewide 	State Rescue 	FM 	EMS-Tac 
+155.28000 	   	KWE546 	BM	151.4 PL	TroutmanEMS 	Troutman Rescue 	FM 	EMS-Tac 
+155.28000 	   	KXX473 	BM	151.4 PL	West Iredell 	West Iredell Rescue 	FM 	EMS-Tac 
+155.10000 	   	KCQ316 	M		IREDELLSCHL 	Iredell Statesville Schools 	FM 	Schools 
+154.05500 	   	WZC696 	BM	192.8 PL	IREDELL CO 	Iredell County Services 	FM 	Multi-Talk 
+770.96250 	800.96250  	 	RM	749 NAC	Iredell DVRS 	Iredell DVRS 	P25 	Multi-Tac 
+770.96250 	800.96250  	 	RM	749 NAC	DVRS Iredell 	Digital Vehicular Repeater System 	P25 	Interop 
+855.81250 	   	 	M	192.8 PL	StatesvilFD Talk 	Fire Talk-Around 	FMN 	Fire-Talk 
+868.01250 	   	 	M	156.7 PL	Statesvil PD SRT 	Police SRT Talk-Around 	FMN 	Law Tac 
+Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Charleston Wireless Group/James White	 DMR Motorola Connect Plus (TRBO)	 Various	Charlotte UASI	 Project 25 Phase I	 Charlotte
+EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	Statesville Public Safety	 Project 25 Phase I	 Statesville

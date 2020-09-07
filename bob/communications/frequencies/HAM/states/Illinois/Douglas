@@ -1,54 +1,54 @@
-155.70000 	KSC240 	RM	123.0 PL	Dgls Sheriff 	Sheriff: Dispatch / Rural Dispatch: Atwood, Arcola, Tuscola, Newman, Villa Grove / Villa Grove Ambulance 	FMN 	Law Dispatch 
-159.15000 	KSC240 	RM	123.0 PL	DglsLawRural 	Sheriff: Dispatch / Township Police  	FMN 	Law Dispatch 
-155.98500 	 	M	123.0 PL	Dgls Shrf In 	Sheriff: Douglas County/Tuscola units (mobiles? input?) 	FMN 	Law Dispatch 
-156.15000 	KSC240 	M		DglsShrfPort 	Sheriff: Portables ["125"] (possibly 118.8 PL) 	FMN 	Law Tac 
-155.85000 	KSC240 	M		DglsShrfJail 	Sheriff: Jail Ops 	FMN 	Corrections 
-154.13000 	 	BM	123.0 PL	DougCo Fire 	Fire: Countywide Dispatch [KSC240 used] 	FMN 	Fire Dispatch 
-154.13000 	 	B	CSQ	Douglas Fire 	Fire: Dispatch (for Broadlands-Champaign Co) 	FMN 	Fire Dispatch 
-150.99500 	WQFQ647 	BM	023 DPL	Douglas ESDA 	ESDA: Operations  	FMN 	Emergency Ops 
-155.72250 	KSH907 	BM		Douglas Highway 	Highway Department  	FMN 	Public Works 
-45.60000 	KSH907 	BM		Dgld Hwy/ESDA 	Highway Department 	FM 	Public Works 
-453.81250 	KSH907 	F		Douglas Hwy Data 	Highway Department: Data (CSQ) 	Telm 	Data 
-151.34750 	WPTH211 	B	CSQ	ArrowTuscola 	EMS: Paging - Future (Tuscola) 	FMN 	EMS Dispatch 
-173.22500 	WQFV367 	BM		Art/Tus WDD 	Arcola/Tuscola Joint Water Commission (CSQ) 	Telm 	Data 
-464.41250 	WQFW557 	F		Arc/Tusc JWC 	Arcola/Tuscola Joint Water Commission (CSQ) 	Telm 	Data 
-156.24000 	WPWC246 	BM		Brbn/CmrgTwp 	Bourbon/Carmargo Township Roads 	FMN 	Public Works 
-456.11250 	WPZZ805 	F		Embarras WDD 	Embarras Area Water District: Water Distribution Data (CSQ) 	Telm 	Data 
-159.10500 	WPPH999 	BM		Garrett Twp 	Garrett Township Roads (poss. D364) 	FMN 	Public Works 
-159.18000 	WPPH998 	BM		Newman Twp 	Newman Township Road Maintenance 	FMN 	Public Works 
-156.10500 	WPPU375 	BM	364 DPL	TuscTwpRoads 	Tuscola Township Road Maintenance 	FMN 	Public Works 
-452.87500 	WPQB725 	F		WPrairie WD 	West Prairie Water District (CSQ) 	Telm 	Data 
-151.09250 	WPQH279 	RM		Aroola PD DMR A 	Police: Dispatch 	DMR 	Law Dispatch 
-155.54250 	WPQH279 	RM		Aroola PD DMR B 	Police: Dispatch 	DMR 	Law Dispatch 
-154.17500 	WPQH279 	BM	123.0 PL	ArcolaPolice 	Police: Local (Dispatched on 155.7 123.0) 	FMN 	Law Dispatch 
-154.05500 	WPPB306 	BM		Arcola Local 	Police/Fire/ESDA Weather Spotters 	FMN 	Multi-Dispatch 
-154.13000 	WPKY417 	RM	146.2 PL	Arcola Fire 	Fire/EMS: Dispatch - Mobiles (123.0 in) 	FMN 	Fire-Talk 
-154.13000 	WPKY417 	RM	146.2 PL	Arcola Fire  	Fire/EMS: Dispatch - Station Input   	FMN 	Fire Dispatch 
-154.13000 	 	B	CSQ	Douglas Fire 	Fire/EMS: Dispatch - via 911 	FMN 	Fire Dispatch 
-154.13000 	WPGR807 	RM	123.0 PL	Arthur Fire  	Fire: Dispatch [146.2 in] (was 153.77 in) 	FMN 	Fire Dispatch 
-159.45000 	WQQ829 	M	146.2 PL	Arthur FD FG 	Fireground [Expired] 	FMN 	Fire-Tac 
-154.08500 	KNIT470 	BM		Arthur City 	City Services 	FMN 	Public Works 
-451.22500 	WPUE420 	F	125 DPL	Arthur WDD 	Water Distribution Data (some CSQ?) 	FMN 	Data 
-154.13000 	KKR506 	RM		Atwood Fire  	Fire: Dispatch (DB: Douglas or Piatt) (146.2 on input? 	FMN 	Fire Dispatch 
-153.83000 	KKR506 	M		Atwood FG 	Fireground  	FMN 	Fire-Tac 
-154.20500 	WPTW294 	RM		CamargoFire 	Fire: Local (Does not appear to be in use 2/11) 	FMN 	Fire-Tac 
-155.10000 	WNVW270 	BM		Newman City 	Local Government 	FMN 	Public Works 
-156.21000 	WPEC646 	M		Tusc PD/City 	Police / City Ops (Police on 155.7 123.0) 	FMN 	Multi-Dispatch 
-158.94000 	KBS983 	BM	146.2 PL	Tuscola Fire 	Fire: Dispatch / Fireground 	FMN 	Fire Dispatch 
-155.22000 	WPMP608 	BM	186.2 PL	Tuscola EMS 	EMS: Paging / Dispatch - Tuscola  	FMN 	EMS Dispatch 
-453.17500 	WPTH211 	RM	306 DPL	Arrow EMS 	EMS: Local (Simulcasts 155.22) / Tuscola Ambulance 	FMN 	EMS Dispatch 
-451.31250 	WQMH674 	F		Tuscola WDD 	Water Data (CSQ, not constant) 	Telm 	Data 
-154.11500 	WNZF316 	BM	CSQ	Villa Grove 	Police / Fire / Public Works: Local [Expired] 	FMN 	Multi-Tac 
-155.94000 	WQB721 	RM		VG Fire Local 	Fire: Local 	FMN 	Fire Dispatch 
-155.70000 	KS4240 	RM	123.0 PL	Dgls Sheriff 	Villa Grove Ambulance Paging (DB: Sheriff) 	FMN 	Multi-Dispatch 
-159.07500 	WPLH880 	M		ViGrv Street 	Street/Highway Maintenance 	FMN 	Public Works 
-155.17500 	WQJS437 	BM		Miller Bus 	Miller Bus Service (Arthur)  	FMN 	Schools 
-155.22000 	WNVF797 	M		Findlay Bus 	Findlay Bus Services.: Buses [Expired] 	FMN 	Schools 
-155.20500 	KNDD751 	BM	100.0 PL	Arcola SchBus 	Arcola Community Unit School District 306: Buses [Lic. Terminated] 	FMN 	Schools 
-152.31500 	WQPG775 	RM	043 DPL	Arcola School 	Arcola Schools 	FMN 	Schools 
-155.17500 	WNAL343 	BM		Arthur School 	Arthur Community Unit School District 305: School Buses [Expired] 	FMN 	Schools 
-155.20500 	KCT502 	BM		Findlay Sch Bus 	Findlay Community Unit School District: Buses [Expired,in use] 	FMN 	Schools 
-451.91250 	WQOX201 	RM	065 DPL	Tuscola Schools 	Tuscola Schools 	FMN 	Schools 
-153.32000 	WPQK771 	RM	127.3 PL	VlGrv School 	Villa Grove Community Unit School Dist 302: Buses / Admin / Main Office [Ch 3?] 	FMN 	Schools 
-122.90000 	 	BM	CSQ	K96 CTAF 	CTAF 	AM 	Aircraft 
-Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	
+155.70000 	155.41500  	KSC240 	RM	123.0 PL	Dgls Sheriff 	Sheriff: Dispatch / Rural Dispatch: Atwood, Arcola, Tuscola, Newman, Villa Grove / Villa Grove Ambulance 	FMN 	Law Dispatch 
+159.15000 	154.65000  	KSC240 	RM	123.0 PL	DglsLawRural 	Sheriff: Dispatch / Township Police  	FMN 	Law Dispatch 
+155.98500 	   	 	M	123.0 PL	Dgls Shrf In 	Sheriff: Douglas County/Tuscola units (mobiles? input?) 	FMN 	Law Dispatch 
+156.15000 	   	KSC240 	M		DglsShrfPort 	Sheriff: Portables ["125"] (possibly 118.8 PL) 	FMN 	Law Tac 
+155.85000 	   	KSC240 	M		DglsShrfJail 	Sheriff: Jail Ops 	FMN 	Corrections 
+154.13000 	   	 	BM	123.0 PL	DougCo Fire 	Fire: Countywide Dispatch [KSC240 used] 	FMN 	Fire Dispatch 
+154.13000 	   	 	B	CSQ	Douglas Fire 	Fire: Dispatch (for Broadlands-Champaign Co) 	FMN 	Fire Dispatch 
+150.99500 	   	WQFQ647 	BM	023 DPL	Douglas ESDA 	ESDA: Operations  	FMN 	Emergency Ops 
+155.72250 	   	KSH907 	BM		Douglas Highway 	Highway Department  	FMN 	Public Works 
+45.60000 	   	KSH907 	BM		Dgld Hwy/ESDA 	Highway Department 	FM 	Public Works 
+453.81250 	   	KSH907 	F		Douglas Hwy Data 	Highway Department: Data (CSQ) 	Telm 	Data 
+151.34750 	   	WPTH211 	B	CSQ	ArrowTuscola 	EMS: Paging - Future (Tuscola) 	FMN 	EMS Dispatch 
+173.22500 	   	WQFV367 	BM		Art/Tus WDD 	Arcola/Tuscola Joint Water Commission (CSQ) 	Telm 	Data 
+464.41250 	   	WQFW557 	F		Arc/Tusc JWC 	Arcola/Tuscola Joint Water Commission (CSQ) 	Telm 	Data 
+156.24000 	   	WPWC246 	BM		Brbn/CmrgTwp 	Bourbon/Carmargo Township Roads 	FMN 	Public Works 
+456.11250 	   	WPZZ805 	F		Embarras WDD 	Embarras Area Water District: Water Distribution Data (CSQ) 	Telm 	Data 
+159.10500 	   	WPPH999 	BM		Garrett Twp 	Garrett Township Roads (poss. D364) 	FMN 	Public Works 
+159.18000 	   	WPPH998 	BM		Newman Twp 	Newman Township Road Maintenance 	FMN 	Public Works 
+156.10500 	   	WPPU375 	BM	364 DPL	TuscTwpRoads 	Tuscola Township Road Maintenance 	FMN 	Public Works 
+452.87500 	   	WPQB725 	F		WPrairie WD 	West Prairie Water District (CSQ) 	Telm 	Data 
+151.09250 	158.80500  	WPQH279 	RM		Aroola PD DMR A 	Police: Dispatch 	DMR 	Law Dispatch 
+155.54250 	159.45000  	WPQH279 	RM		Aroola PD DMR B 	Police: Dispatch 	DMR 	Law Dispatch 
+154.17500 	   	WPQH279 	BM	123.0 PL	ArcolaPolice 	Police: Local (Dispatched on 155.7 123.0) 	FMN 	Law Dispatch 
+154.05500 	   	WPPB306 	BM		Arcola Local 	Police/Fire/ESDA Weather Spotters 	FMN 	Multi-Dispatch 
+154.13000 	158.98500  	WPKY417 	RM	146.2 PL	Arcola Fire 	Fire/EMS: Dispatch - Mobiles (123.0 in) 	FMN 	Fire-Talk 
+154.13000 	153.77000  	WPKY417 	RM	146.2 PL	Arcola Fire  	Fire/EMS: Dispatch - Station Input   	FMN 	Fire Dispatch 
+154.13000 	   	 	B	CSQ	Douglas Fire 	Fire/EMS: Dispatch - via 911 	FMN 	Fire Dispatch 
+154.13000 	159.26250  	WPGR807 	RM	123.0 PL	Arthur Fire  	Fire: Dispatch [146.2 in] (was 153.77 in) 	FMN 	Fire Dispatch 
+159.45000 	   	WQQ829 	M	146.2 PL	Arthur FD FG 	Fireground [Expired] 	FMN 	Fire-Tac 
+154.08500 	   	KNIT470 	BM		Arthur City 	City Services 	FMN 	Public Works 
+451.22500 	   	WPUE420 	F	125 DPL	Arthur WDD 	Water Distribution Data (some CSQ?) 	FMN 	Data 
+154.13000 	159.45000  	KKR506 	RM		Atwood Fire  	Fire: Dispatch (DB: Douglas or Piatt) (146.2 on input? 	FMN 	Fire Dispatch 
+153.83000 	   	KKR506 	M		Atwood FG 	Fireground  	FMN 	Fire-Tac 
+154.20500 	150.80500  	WPTW294 	RM		CamargoFire 	Fire: Local (Does not appear to be in use 2/11) 	FMN 	Fire-Tac 
+155.10000 	   	WNVW270 	BM		Newman City 	Local Government 	FMN 	Public Works 
+156.21000 	   	WPEC646 	M		Tusc PD/City 	Police / City Ops (Police on 155.7 123.0) 	FMN 	Multi-Dispatch 
+158.94000 	   	KBS983 	BM	146.2 PL	Tuscola Fire 	Fire: Dispatch / Fireground 	FMN 	Fire Dispatch 
+155.22000 	   	WPMP608 	BM	186.2 PL	Tuscola EMS 	EMS: Paging / Dispatch - Tuscola  	FMN 	EMS Dispatch 
+453.17500 	458.17500  	WPTH211 	RM	306 DPL	Arrow EMS 	EMS: Local (Simulcasts 155.22) / Tuscola Ambulance 	FMN 	EMS Dispatch 
+451.31250 	   	WQMH674 	F		Tuscola WDD 	Water Data (CSQ, not constant) 	Telm 	Data 
+154.11500 	   	WNZF316 	BM	CSQ	Villa Grove 	Police / Fire / Public Works: Local [Expired] 	FMN 	Multi-Tac 
+155.94000 	159.23250  	WQB721 	RM		VG Fire Local 	Fire: Local 	FMN 	Fire Dispatch 
+155.70000 	155.41500  	KS4240 	RM	123.0 PL	Dgls Sheriff 	Villa Grove Ambulance Paging (DB: Sheriff) 	FMN 	Multi-Dispatch 
+159.07500 	   	WPLH880 	M		ViGrv Street 	Street/Highway Maintenance 	FMN 	Public Works 
+155.17500 	   	WQJS437 	BM		Miller Bus 	Miller Bus Service (Arthur)  	FMN 	Schools 
+155.22000 	   	WNVF797 	M		Findlay Bus 	Findlay Bus Services.: Buses [Expired] 	FMN 	Schools 
+155.20500 	   	KNDD751 	BM	100.0 PL	Arcola SchBus 	Arcola Community Unit School District 306: Buses [Lic. Terminated] 	FMN 	Schools 
+152.31500 	157.57500  	WQPG775 	RM	043 DPL	Arcola School 	Arcola Schools 	FMN 	Schools 
+155.17500 	   	WNAL343 	BM		Arthur School 	Arthur Community Unit School District 305: School Buses [Expired] 	FMN 	Schools 
+155.20500 	   	KCT502 	BM		Findlay Sch Bus 	Findlay Community Unit School District: Buses [Expired,in use] 	FMN 	Schools 
+451.91250 	456.91250  	WQOX201 	RM	065 DPL	Tuscola Schools 	Tuscola Schools 	FMN 	Schools 
+153.32000 	159.97500  	WPQK771 	RM	127.3 PL	VlGrv School 	Villa Grove Community Unit School Dist 302: Buses / Admin / Main Office [Ch 3?] 	FMN 	Schools 
+122.90000 	   	 	BM	CSQ	K96 CTAF 	CTAF 	AM 	Aircraft 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Diga-Talk	 NXDN NEXEDGE 4800	 Various	

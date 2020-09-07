@@ -1,18 +1,18 @@
-155.43000 	KNHD942 	BM	136.5 PL	Liv Sheriff 	Sheriff: Primary 	FMN 	Law Dispatch 
-159.15000 	KNHD942 	RM		Liv RurFire/Shrf 	Fire: Rural Dispatch / Sheriff: Back-Up (in use) 	FMN 	Multi-Dispatch 
-173.36250 	WNUV341 	F		LivCo PWSD#4 	Public Water Supply District #4 (WPYJ856) 	Telm 	Data 
-155.94750 	WRCD647 	RM	2AF NAC	Chill Police P25 	Police: Dispatch [1AF in] 	P25 	Law Tac 
-158.73000 	KDN535 	RM	365 DPL	Chill Police Old 	Police: Dispatch - Old 	FMN 	Law Dispatch 
-155.57250 	WRCD647 	RM	4AF NAC	Chll Fire P25 	Fire: Dispatch [3AF in] 	P25 	Fire Dispatch 
-154.98000 	KDN535 	BM	179.9 PL	Chill FIre Old 	Fire: Old (includes county EMS) 	FMN 	Fire Dispatch 
-154.02500 	KGL653 	RM		Chil Utility 	Municipal Utilities: Light and Power 	FMN 	Public Works 
-155.08500 	WPCR914 	BM		Chill Street 	Street Department 	FMN 	Public Works 
-453.65000 	WPCE447 	BM		Chill HouseAuth 	Housing Authority 	FMN 	Public Works 
-155.82000 	WNPZ502 	BM		HMC Paging 	Hedrick Medical Center: Paging (lic to City) 	Telm 	Data 
-453.28750 	WQEL640 	F		ChillMA AWOS 	Municipal Airport: AWOS Data 	Telm 	Data 
-156.24000 	WPGM529 	BM		Chill Roads 	Road Maintenance (Township) 	FMN 	Public Works 
-151.10000 	WQAM404 	RM		Chula Rural Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.31000 	WPKS217 	BM		Dawn Fire 	Fire 	FMN 	Fire-Tac 
-155.88000 	WPLG551 	RM		LinnCo Fire 	Linn County Fire Coordination 	FMN 	Fire Dispatch 
-154.17500 	WPLG551 	BM		Wheeling Fire 	Fire 	FMN 	Fire-Tac 
+155.43000 	   	KNHD942 	BM	136.5 PL	Liv Sheriff 	Sheriff: Primary 	FMN 	Law Dispatch 
+159.15000 	154.81500  	KNHD942 	RM		Liv RurFire/Shrf 	Fire: Rural Dispatch / Sheriff: Back-Up (in use) 	FMN 	Multi-Dispatch 
+173.36250 	   	WNUV341 	F		LivCo PWSD#4 	Public Water Supply District #4 (WPYJ856) 	Telm 	Data 
+155.94750 	153.98750  	WRCD647 	RM	2AF NAC	Chill Police P25 	Police: Dispatch [1AF in] 	P25 	Law Tac 
+158.73000 	151.39250  	KDN535 	RM	365 DPL	Chill Police Old 	Police: Dispatch - Old 	FMN 	Law Dispatch 
+155.57250 	151.27250  	WRCD647 	RM	4AF NAC	Chll Fire P25 	Fire: Dispatch [3AF in] 	P25 	Fire Dispatch 
+154.98000 	   	KDN535 	BM	179.9 PL	Chill FIre Old 	Fire: Old (includes county EMS) 	FMN 	Fire Dispatch 
+154.02500 	158.86500  	KGL653 	RM		Chil Utility 	Municipal Utilities: Light and Power 	FMN 	Public Works 
+155.08500 	   	WPCR914 	BM		Chill Street 	Street Department 	FMN 	Public Works 
+453.65000 	   	WPCE447 	BM		Chill HouseAuth 	Housing Authority 	FMN 	Public Works 
+155.82000 	   	WNPZ502 	BM		HMC Paging 	Hedrick Medical Center: Paging (lic to City) 	Telm 	Data 
+453.28750 	   	WQEL640 	F		ChillMA AWOS 	Municipal Airport: AWOS Data 	Telm 	Data 
+156.24000 	   	WPGM529 	BM		Chill Roads 	Road Maintenance (Township) 	FMN 	Public Works 
+151.10000 	156.00000  	WQAM404 	RM		Chula Rural Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.31000 	   	WPKS217 	BM		Dawn Fire 	Fire 	FMN 	Fire-Tac 
+155.88000 	150.79000  	WPLG551 	RM		LinnCo Fire 	Linn County Fire Coordination 	FMN 	Fire Dispatch 
+154.17500 	   	WPLG551 	BM		Wheeling Fire 	Fire 	FMN 	Fire-Tac 
 AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	

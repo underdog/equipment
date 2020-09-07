@@ -1,31 +1,31 @@
-155.84250 	 	RM	186.2 PL	HC Fire Disp 	Fire & Rescue Dispatch 	FM 	Fire Dispatch 
-154.09250 	WPTQ823 	M	023 DPL	HC FD Tac 1 	Fire & Rescue Tactical 1 	FM 	Fire-Tac 
-154.19750 	WPTQ823 	M	025 DPL	HC FD Tac 2 	Fire & Rescue Tactical 2 	FM 	Fire-Tac 
-154.21250 	WPTQ823 	M	026 DPL	HC FD Tac 3 	Fire & Rescue Tactical 3 	FM 	Fire-Tac 
-155.34000 	KWX589 	BM	173.8 PL	HC EMS-Hosp 	EMS-to-Hospital 	FM 	Hospital 
-155.75250 	WPRG490 	RM	127.3 PL	HCSO Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
-156.08250 	WPTQ823 	M	023 DPL	HCSO Tac 1 	Sheriff Tac 1 	FM 	Law Tac 
-151.01750 	WPTQ823 	M	025 DPL	HCSO Tac 2 	Sheriff Tac 2 	FM 	Law Tac 
-151.12250 	WPTQ823 	M	026 DPL	HCSO Tac 3 	Sheriff Tac 3 	FM 	Law Tac 
-154.04000 	WPPV205 	RM	150 NAC	Halifax PD Disp 	Town of Halifax Police Dispatch 	P25 	Law Dispatch 
-155.88000 	KFD537 	BM	131.8 PL	HC Schools 	Schools 	FM 	Schools 
-151.09250 	WNBZ398 	RM	072 DPL	SB PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
-151.09250 	WNBZ398 	RM	150 NAC	SB PD Disp 	Police Dispatch 	P25 	Law Dispatch 
-154.75500 	WNBZ398 	RM	141.3 PL	SB PD 755 	Police 	FM 	Law Tac 
-160.91000 	 	M	141.3 PL	SB PD Tac 4 	Police Tac 4 	FM 	Law Tac 
-150.91000 	 	M	141.3 PL	SB PD Tac 5 	Police Tac 5 (rarely used) 	FM 	Law Tac 
-154.86500 	 	M	141.3 PL	SB PD Tac 6 	Police Tac 6 (rarely used) 	FM 	Law Tac 
-158.74500 	KNGQ666 	RM		SB Pub Works 	Public Works 	FM 	Public Works 
-152.40500 	WQFJ917 	RM	412 DPL	VIR Ambulnce 	Ambulance 	FM 	Business 
-467.85000 	 	M	CSQ	VIR Cor Wrkr 	Corner workers for CCS motorcycle racing 	FM 	Business 
-469.50000 	 	M	CSQ	VIR Cor Wrkr 	Corner workers for CCS motorcycle racing 	FM 	Business 
-152.88500 	WQFJ917 	RM	223 DPL	VIR Cor Wrkr 	Corner workers for car events 	FM 	Business 
-157.57500 	WQFJ917 	M	77.0 PL	VIR Maint 	Maintenance 	FM 	Business 
-160.45500 	 	BM		VIR Open 1 	Open 1 	FM 	Business 
-150.45500 	 	BM		VIR Open 2 	Open 2 	FM 	Business 
-152.31500 	WQFJ917 	RM	263 DPL	VIR Ops/Sec 	Operations and Security (Ch. 4) 	FM 	Business 
-159.90000 	WQFJ917 	M	043 DPL	VIR Padd Sec 	Paddock Security 	FM 	Business 
-160.15500 	WQFJ917 	M	114 DPL	VIR Padd Sec 	Paddock Security 	FM 	Business 
-159.63000 	WQFJ917 	M	125 DPL	VIR Parking 	Parking 	FM 	Business 
-157.66500 	WQFJ917 	M	71.9 PL	VIR SCrsePad 	South Course Paddock Ops 	FM 	Business 
-158.34000 	WQFJ917 	M	67.0 PL	VIR Trk Cntl 	Track Control 	FM 	Business 
+155.84250 	153.85250  	 	RM	186.2 PL	HC Fire Disp 	Fire & Rescue Dispatch 	FM 	Fire Dispatch 
+154.09250 	   	WPTQ823 	M	023 DPL	HC FD Tac 1 	Fire & Rescue Tactical 1 	FM 	Fire-Tac 
+154.19750 	   	WPTQ823 	M	025 DPL	HC FD Tac 2 	Fire & Rescue Tactical 2 	FM 	Fire-Tac 
+154.21250 	   	WPTQ823 	M	026 DPL	HC FD Tac 3 	Fire & Rescue Tactical 3 	FM 	Fire-Tac 
+155.34000 	   	KWX589 	BM	173.8 PL	HC EMS-Hosp 	EMS-to-Hospital 	FM 	Hospital 
+155.75250 	153.89250  	WPRG490 	RM	127.3 PL	HCSO Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
+156.08250 	   	WPTQ823 	M	023 DPL	HCSO Tac 1 	Sheriff Tac 1 	FM 	Law Tac 
+151.01750 	   	WPTQ823 	M	025 DPL	HCSO Tac 2 	Sheriff Tac 2 	FM 	Law Tac 
+151.12250 	   	WPTQ823 	M	026 DPL	HCSO Tac 3 	Sheriff Tac 3 	FM 	Law Tac 
+154.04000 	156.01500  	WPPV205 	RM	150 NAC	Halifax PD Disp 	Town of Halifax Police Dispatch 	P25 	Law Dispatch 
+155.88000 	   	KFD537 	BM	131.8 PL	HC Schools 	Schools 	FM 	Schools 
+151.09250 	158.96250  	WNBZ398 	RM	072 DPL	SB PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+151.09250 	158.96250  	WNBZ398 	RM	150 NAC	SB PD Disp 	Police Dispatch 	P25 	Law Dispatch 
+154.75500 	   	WNBZ398 	RM	141.3 PL	SB PD 755 	Police 	FM 	Law Tac 
+160.91000 	   	 	M	141.3 PL	SB PD Tac 4 	Police Tac 4 	FM 	Law Tac 
+150.91000 	   	 	M	141.3 PL	SB PD Tac 5 	Police Tac 5 (rarely used) 	FM 	Law Tac 
+154.86500 	   	 	M	141.3 PL	SB PD Tac 6 	Police Tac 6 (rarely used) 	FM 	Law Tac 
+158.74500 	   	KNGQ666 	RM		SB Pub Works 	Public Works 	FM 	Public Works 
+152.40500 	   	WQFJ917 	RM	412 DPL	VIR Ambulnce 	Ambulance 	FM 	Business 
+467.85000 	   	 	M	CSQ	VIR Cor Wrkr 	Corner workers for CCS motorcycle racing 	FM 	Business 
+469.50000 	   	 	M	CSQ	VIR Cor Wrkr 	Corner workers for CCS motorcycle racing 	FM 	Business 
+152.88500 	   	WQFJ917 	RM	223 DPL	VIR Cor Wrkr 	Corner workers for car events 	FM 	Business 
+157.57500 	   	WQFJ917 	M	77.0 PL	VIR Maint 	Maintenance 	FM 	Business 
+160.45500 	   	 	BM		VIR Open 1 	Open 1 	FM 	Business 
+150.45500 	   	 	BM		VIR Open 2 	Open 2 	FM 	Business 
+152.31500 	   	WQFJ917 	RM	263 DPL	VIR Ops/Sec 	Operations and Security (Ch. 4) 	FM 	Business 
+159.90000 	   	WQFJ917 	M	043 DPL	VIR Padd Sec 	Paddock Security 	FM 	Business 
+160.15500 	   	WQFJ917 	M	114 DPL	VIR Padd Sec 	Paddock Security 	FM 	Business 
+159.63000 	   	WQFJ917 	M	125 DPL	VIR Parking 	Parking 	FM 	Business 
+157.66500 	   	WQFJ917 	M	71.9 PL	VIR SCrsePad 	South Course Paddock Ops 	FM 	Business 
+158.34000 	   	WQFJ917 	M	67.0 PL	VIR Trk Cntl 	Track Control 	FM 	Business 

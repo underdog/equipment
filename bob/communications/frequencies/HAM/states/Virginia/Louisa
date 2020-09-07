@@ -1,12 +1,13 @@
-155.80500 	KZI263 	RM	173.8 PL	LouFD Disp 	Fire/EMS Dispatch (Ch. 1) 	FMN 	Fire Dispatch 
-155.95500 	KZI263 	RM	173.8 PL	LouFD Ops 	Fire/EMS Operations (Ch. 2) 	FMN 	Fire-Tac 
-153.78500 	KZI263 	M	173.8 PL	LouFD Tac 1 	Fire/EMS Tactical 1 (Ch. 3) 	FMN 	Fire-Tac 
-153.87500 	KZI263 	M	173.8 PL	LouFD Tac 3 	Fire/EMS Tactical 3 (Ch. 7) 	FMN 	Fire-Tac 
-155.34000 	WPPC211 	M	203.5 PL	LouFD Hosp 	EMS to Hospital (EMS-1) 	FMN 	Hospital 
-155.20500 	WPPC211 	M	CSQ	LouFD EMS 	EMS Statewide (Medevac) (EMS-3) 	FMN 	Interop 
-154.74000 	KZI263 	RM	82.5 PL	LouFD LouTwn 	Fire/EMS - "Louisa Town" (Ch. 12) 	FMN 	Fire-Tac 
-155.55000 	KVR893 	RM	125 DPL	Lou SO Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
-155.91000 	KVR893 	M		Lou SO 7 Tac 	Sheriff Tactical (Ch. 7) 	FM 	Law Tac 
-39.46000 	KVR893 	BM		Lou SO Tac 	Sheriff Tactical 	FM 	Law Tac 
-154.11500 	WYF502 	RM	173.8 PL	Lou SchBuses 	School Buses 	FM 	Schools 
-Dominion North Anna Power Station	 Project 25 Phase II	 Centerville	Shenandoah Crossing	 DMR Motorola Capacity Plus Single Site (TRBO)	 Gordonsville	
+155.80500 	153.98000  	KZI263 	RM	173.8 PL	LouFD Disp 	Fire/EMS Dispatch (Ch. 1) 	FMN 	Fire Dispatch 
+155.95500 	153.84500  	KZI263 	RM	173.8 PL	LouFD Ops 	Fire/EMS Operations (Ch. 2) 	FMN 	Fire-Tac 
+153.78500 	   	KZI263 	M	173.8 PL	LouFD Tac 1 	Fire/EMS Tactical 1 (Ch. 3) 	FMN 	Fire-Tac 
+153.87500 	   	KZI263 	M	173.8 PL	LouFD Tac 3 	Fire/EMS Tactical 3 (Ch. 7) 	FMN 	Fire-Tac 
+155.34000 	   	WPPC211 	M	203.5 PL	LouFD Hosp 	EMS to Hospital (EMS-1) 	FMN 	Hospital 
+155.20500 	   	WPPC211 	M	CSQ	LouFD EMS 	EMS Statewide (Medevac) (EMS-3) 	FMN 	Interop 
+154.74000 	155.25000  	KZI263 	RM	82.5 PL	LouFD LouTwn 	Fire/EMS - "Louisa Town" (Ch. 12) 	FMN 	Fire-Tac 
+155.55000 	154.86000  	KVR893 	RM	125 DPL	Lou SO Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
+155.91000 	   	KVR893 	M		Lou SO 7 Tac 	Sheriff Tactical (Ch. 7) 	FM 	Law Tac 
+39.46000 	   	KVR893 	BM		Lou SO Tac 	Sheriff Tactical 	FM 	Law Tac 
+154.11500 	158.86500  	WYF502 	RM	173.8 PL	Lou SchBuses 	School Buses 	FM 	Schools 
+Dominion North Anna Power Station	 Project 25 Phase II	 Centerville	Fluvanna / Louisa	 Project 25 Phase II	 Various	Rappahannock Electric Cooperative	 DMR Tier 3	 Various
+Shenandoah Crossing	 DMR Motorola Capacity Plus Single Site (TRBO)	 Gordonsville	

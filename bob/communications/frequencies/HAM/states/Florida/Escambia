@@ -1,48 +1,47 @@
-460.20000 	KIN947 	RM	E47 NAC	A1 Ops Beach 	A1 Ops Beach 	P25E 	Law Dispatch 
-460.50000 	KIN947 	RM	9B2 NAC	A2 Tac South 	A2 Tac South 	P25E 	Law Tac 
-460.10000 	KIN947 	RM	DC6 NAC	A3 Ops South 	A3 Ops South 	P25E 	Law Dispatch 
-453.72500 	KXB521 	RM	A94 NAC	A4 Ops North 	A4 Ops North 	P25E 	Law Dispatch 
-453.82500 	KIN947 	RM	184 NAC	A5 Tac North 	A5 Tac North 	P25E 	Law Tac 
-460.55000 	KIN947 	RM	F2D NAC	A6 Ops Cntry 	A6 Ops Century 	P25E 	Law Dispatch 
-460.15000 	KIN947 	RM	718 NAC	A7 Info Net 	A7 Info Net (Records Check) 	P25E 	Law Talk 
-460.27500 	KIN947 	RM	203.5 PL	A8 MutualAid 	A8 Mutual Aid (Analog) 	FM 	Interop 
-460.25000 	KIN947 	RM	CB1 NAC	A10 Spec Ops 	A10 Special Ops 	P25E 	Law Tac 
-460.05000 	KNDR560 	RM	BD2 NAC	ECSO Jail 	Jail Main 	P25E 	Corrections 
-460.17500 	KXB521 	RM	C4E NAC	ECSO Book 	Jail Central Booking 	P25E 	Corrections 
-460.45000 	KXB521 	RM	FB2 NAC	Road Prison 	Road Prison 	P25 	Corrections 
-460.42500 	KXB521 	RM	CD3 NAC	ECSO Court 	Court Security 	P25 	Security 
-151.07000 	WRDR622 	RM	118.8 PL	ECFD Disp 	Fire Dispatch (New) 	FMN 	Fire Dispatch 
-154.43000 	WQK918 	RM	118.8 PL	ECFD Disp 	Fire Dispatch (Old VHF) 	FM 	Fire Dispatch 
-460.57500 	WNRU602 	RM	A35 NAC	ECFD Disp 	Fire Dispatch 	P25 	Fire Dispatch 
-453.27500 	KNBX238 	RM	B17 NAC	ECFD Tac 2 	Fire Tac-2 	P25 	Fire-Tac 
-460.60000 	WNRU602 	RM	FD3 NAC	ECFD Tac 3 	Fire Tac-3 	P25 	Fire-Tac 
-453.25000 	WPTP998 	RM	4C4 NAC	ECFD Tac 4 	Fire Tac-4 	P25 	Fire-Tac 
-460.62500 	WNRU602 	RM	1AF NAC	ECFD Tac 5 	Fire Tac-5 	P25 	Fire-Tac 
-453.92500 	WNMG796 	RM	9D6 NAC	ECFD Tac 6 	Fire Tac-6 	P25 	Fire-Tac 
-453.43750 	WQDH423  	RM	BBD NAC	ECFD Tac 7 	Fire Tac-7 	P25 	Fire-Tac 
-453.51250 	WQOP296 	RM	BA1 NAC	ECFD Tac 8 	Fire Tac-8 	P25 	Fire-Tac 
-462.97500 	KFE482 	RM	718 NAC	EMS Dispatch 	EMS Dispatch 	P25 	EMS Dispatch 
-463.02500 	KSO546 	BM	110.9 PL	CMC MED-2 	County Medical Coordination 	FM 	Interop 
-463.16250 	KSO546 	RM	110.9 PL	MED-72 	EMS-to-Baptist Hospital 	FM 	Hospital 
-463.06250 	KSO546 	RM	110.9 PL	MED-32 	EMS-to-Sacred Heart Hospital 	FM 	Hospital 
-463.01250 	KSO546 	BM	110.9 PL	MED-12 	EMS-to-NAS Pensacola Hospital 	FM 	Hospital 
-463.13750 	KSO546 	RM	110.9 PL	MED-62 	EMS-to-West Florida Hospital 	FM 	Hospital 
-155.02500 	KNBG266 	RM	118.8 PL	EOC 	Emergency Operations Center 	FM 	Emergency Ops 
-453.92500 	WNMG796 	RM		EMA ADMIN 	Emergency Management Admin 	DMR 	Emergency Ops 
-460.02500 	KVN762 	RM	DE7 NAC	EC Interop 	County Interop 	P25 	Interop 
-453.62500 	WNMG796 	RM	BD2 NAC	EC Cnty Wide 	County Wide 	P25 	Interop 
-158.74500 	KVR863 	RM	023 DPL	Animal Contr 	Animal Control 	FM 	Public Works 
-152.34500 	WQOZ648 	RM		Ranson MS 	Ranson Middle School 	FMN 	Schools 
-152.38250 	WQML568 	RM	CSQ	Jim BaileyMS 	Jim Bailey Middle School 	FM 	Schools 
-452.83750 	KD52049 	M	85.4 PL	J.H. Workman 	J. H. Workman Middle School 	FM 	Schools 
-461.82500 	WPLJ986 	M		Ferry Pass 	Ferry Pass Elementary School 	FM 	Schools 
-155.28000 	KNJU585 	BM		ESAR VHF 	Search & Rescue (VHF) 	FM 	Emergency Ops 
-458.70000 	KNJU585 	BM		ESAR UHF 	Search & Rescue (UHF) 	FMN 	Emergency Ops 
-460.26250 	WQOP296 	RM	BBB NAC	Life Guards 	Life Guards (Pensacola Beach) 	P25 	Public Works 
-462.42500 	WPMA608 	RM	107.2 PL	PCC Ops 	Operations 	FM 	Schools 
-464.72500 	WPMA608 	RM	107.2 PL	PCC Ops 	Operations 	FM 	Schools 
-463.57500 	WPMA608 	RM	123.0 PL	PCC Maint 	Landscape/Maintenance  	FM 	Schools 
-Ascend Performance Materials LLC	 Motorola Type II Smartnet	 Cantonment	Escambia / Santa Rosa County Public Safety	 Project 25 Phase II	 Various	Escambia County Area Transit (ECAT)	 DMR Motorola Capacity Plus Single Site (TRBO)
- Pensacola	Escambia County School Board	 DMR Motorola Capacity Plus Multi Site (TRBO)	 	Florida Power and Light (P25)	 Project 25 Phase II	 Varies	Statewide Law Enforcement Radio System (P25)
- Project 25 Phase I	 Statewide	Team One Communications	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pensacola	Telecom Network (Pensacola)	 LTR Standard	 Pensacola
-United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	University of West Florida	 Motorola Type II Smartnet	 Pensacola	
+460.20000 	465.20000  	KIN947 	RM	E47 NAC	A1 Ops Beach 	A1 Ops Beach 	P25E 	Law Dispatch 
+460.50000 	465.50000  	KIN947 	RM	9B2 NAC	A2 Tac South 	A2 Tac South 	P25E 	Law Tac 
+460.10000 	465.10000  	KIN947 	RM	DC6 NAC	A3 Ops South 	A3 Ops South 	P25E 	Law Dispatch 
+453.72500 	458.72500  	KXB521 	RM	A94 NAC	A4 Ops North 	A4 Ops North 	P25E 	Law Dispatch 
+453.82500 	458.82500  	KIN947 	RM	184 NAC	A5 Tac North 	A5 Tac North 	P25E 	Law Tac 
+460.55000 	465.55000  	KIN947 	RM	F2D NAC	A6 Ops Cntry 	A6 Ops Century 	P25E 	Law Dispatch 
+460.15000 	465.15000  	KIN947 	RM	718 NAC	A7 Info Net 	A7 Info Net (Records Check) 	P25E 	Law Talk 
+460.27500 	465.27500  	KIN947 	RM	203.5 PL	A8 MutualAid 	A8 Mutual Aid (Analog) 	FM 	Interop 
+460.25000 	465.25000  	KIN947 	RM	CB1 NAC	A10 Spec Ops 	A10 Special Ops 	P25E 	Law Tac 
+460.05000 	465.05000  	KNDR560 	RM	BD2 NAC	ECSO Jail 	Jail Main 	P25E 	Corrections 
+460.17500 	465.17500  	KXB521 	RM	C4E NAC	ECSO Book 	Jail Central Booking 	P25E 	Corrections 
+460.45000 	465.45000  	KXB521 	RM	FB2 NAC	Road Prison 	Road Prison 	P25 	Corrections 
+460.42500 	465.42500  	KXB521 	RM	CD3 NAC	ECSO Court 	Court Security 	P25 	Security 
+151.07000 	   	WRDR622 	RM	118.8 PL	ECFD Disp 	Fire Dispatch (New) 	FMN 	Fire Dispatch 
+154.43000 	   	WQK918 	RM	118.8 PL	ECFD Disp 	Fire Dispatch (Old VHF) 	FM 	Fire Dispatch 
+460.57500 	465.57500  	WNRU602 	RM	A35 NAC	ECFD Disp 	Fire Dispatch 	P25 	Fire Dispatch 
+453.27500 	458.27500  	KNBX238 	RM	B17 NAC	ECFD Tac 2 	Fire Tac-2 	P25 	Fire-Tac 
+460.60000 	465.60000  	WNRU602 	RM	FD3 NAC	ECFD Tac 3 	Fire Tac-3 	P25 	Fire-Tac 
+453.25000 	458.25000  	WPTP998 	RM	4C4 NAC	ECFD Tac 4 	Fire Tac-4 	P25 	Fire-Tac 
+460.62500 	465.62500  	WNRU602 	RM	1AF NAC	ECFD Tac 5 	Fire Tac-5 	P25 	Fire-Tac 
+453.92500 	458.92500  	WNMG796 	RM	9D6 NAC	ECFD Tac 6 	Fire Tac-6 	P25 	Fire-Tac 
+453.43750 	458.43750  	WQDH423  	RM	BBD NAC	ECFD Tac 7 	Fire Tac-7 	P25 	Fire-Tac 
+453.51250 	458.51250  	WQOP296 	RM	BA1 NAC	ECFD Tac 8 	Fire Tac-8 	P25 	Fire-Tac 
+462.97500 	467.97500  	KFE482 	RM	718 NAC	EMS Dispatch 	EMS Dispatch 	P25 	EMS Dispatch 
+463.02500 	468.02500  	KSO546 	BM	110.9 PL	CMC MED-2 	County Medical Coordination 	FM 	Interop 
+463.16250 	468.16250  	KSO546 	RM	110.9 PL	MED-72 	EMS-to-Baptist Hospital 	FM 	Hospital 
+463.06250 	468.06250  	KSO546 	RM	110.9 PL	MED-32 	EMS-to-Sacred Heart Hospital 	FM 	Hospital 
+463.01250 	468.01250  	KSO546 	BM	110.9 PL	MED-12 	EMS-to-NAS Pensacola Hospital 	FM 	Hospital 
+463.13750 	468.13750  	KSO546 	RM	110.9 PL	MED-62 	EMS-to-West Florida Hospital 	FM 	Hospital 
+155.02500 	155.89500  	KNBG266 	RM	118.8 PL	EOC 	Emergency Operations Center 	FM 	Emergency Ops 
+453.92500 	458.92500  	WNMG796 	RM		EMA ADMIN 	Emergency Management Admin 	DMR 	Emergency Ops 
+460.02500 	465.02500  	KVN762 	RM	DE7 NAC	EC Interop 	County Interop 	P25 	Interop 
+453.62500 	458.62500  	WNMG796 	RM	BD2 NAC	EC Cnty Wide 	County Wide 	P25 	Interop 
+158.74500 	154.11500  	KVR863 	RM	023 DPL	Animal Contr 	Animal Control 	FM 	Public Works 
+152.34500 	157.60500  	WQOZ648 	RM		Ranson MS 	Ranson Middle School 	FMN 	Schools 
+152.38250 	157.64250  	WQML568 	RM	CSQ	Jim BaileyMS 	Jim Bailey Middle School 	FM 	Schools 
+452.83750 	   	KD52049 	M	85.4 PL	J.H. Workman 	J. H. Workman Middle School 	FM 	Schools 
+461.82500 	   	WPLJ986 	M		Ferry Pass 	Ferry Pass Elementary School 	FM 	Schools 
+155.28000 	   	KNJU585 	BM		ESAR VHF 	Search & Rescue (VHF) 	FM 	Emergency Ops 
+458.70000 	   	KNJU585 	BM		ESAR UHF 	Search & Rescue (UHF) 	FMN 	Emergency Ops 
+460.26250 	465.26250  	WQOP296 	RM	BBB NAC	Life Guards 	Life Guards (Pensacola Beach) 	P25 	Public Works 
+462.42500 	467.42500  	WPMA608 	RM	107.2 PL	PCC Ops 	Operations 	FM 	Schools 
+464.72500 	469.72500  	WPMA608 	RM	107.2 PL	PCC Ops 	Operations 	FM 	Schools 
+463.57500 	468.57500  	WPMA608 	RM	123.0 PL	PCC Maint 	Landscape/Maintenance  	FM 	Schools 
+Ascend Performance Materials LLC	 Motorola Type II Smartnet	 Cantonment	Escambia / Santa Rosa County Public Safety	 Project 25 Phase II	 Various	Escambia County Area Transit (ECAT)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pensacola
+Escambia County School Board	 DMR Motorola Capacity Plus Multi Site (TRBO)	 	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide
+Team One Communications	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pensacola	Telecom Network (Pensacola)	 LTR Standard	 Pensacola	University of West Florida	 Motorola Type II Smartnet	 Pensacola

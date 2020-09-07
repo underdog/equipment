@@ -1,19 +1,18 @@
-155.70000 	WPMW953 	RM	107.2 PL	NeoshoCo Sheriff 	Sheriff Dispatch 	FMN 	Law Dispatch 
-156.21000 	WQGW879 	RM	107.2 PL	Neosho Co SO 2 	Sheriff Tac 2 	FMN 	Law Tac 
-158.83500 	KNBD589 	RM	94.8 PL	Neosho Co Fire 	Fire Dispatch / Storm Watch / Erie Police 	FMN 	Fire Dispatch 
-158.83500 	KNBD589 	RM	85.4 PL	Neosho Co Fire 	Fire -- Earlton Repeater 	FMN 	Fire Dispatch 
-159.39000 	WQIK991 	RM	103.5 PL	Neosho Co EM 	Emergency Management 	FMN 	Emergency Ops 
-155.49000 	KSZ437 	BM	94.8 PL	Neosho Co Jail 	County Jail 	FMN 	Corrections 
-154.99500 	WNZD473 	RM	132 DPL	Neosho Co Roads 	Highway Maintenance 	FMN 	Public Works 
-158.79000 	KSZ437 	RM	94.8 PL	Chanute Police 	Police Dispatch 	FMN 	Law Dispatch 
-155.49000 	KSZ437 	BM	94.8 PL	Chanute Police 3 	 Police Tac 3 	FMN 	Law Tac 
-851.23750 	WQTB322 	RM		Chanute Fire 	Fire Dispatch 	FM 	Fire Dispatch 
-153.98000 	WPKT225 	RM	94.8 PL	Chanute Fire 	Fire 	FMN 	Fire Dispatch 
-154.98000 	KCZ536 	RM		ChanutePublicWks 	Public Works 	FMN 	Public Works 
-155.52000 	WQPW207 	BM	94.8 PL	Erie Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-39.18000 	KTO431 	BM		Erie PublicWorks 	Public Works -- Streets, Sewer, Water and Electricity 	FM 	Public Works 
-463.40000 	WPKL914 	RM	546 DPL	Erie SchoolBuses 	Public School (USD 101) Buses  	FMN 	Schools 
-155.02500 	WQEP343 	BM	94.8 PL	Galesburg Fire 	Fire Dispatch 	FM 	Fire Dispatch 
-154.05500 	WNNV512 	RM	94.8 PL	St Paul Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.80500 	WNMV763 	RM	94.8 PL	Thayer Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-Kansas Statewide Interoperable Communication System (KSICS)	 Project 25 Phase I	 Statewide	
+155.70000 	153.78500  	WPMW953 	RM	107.2 PL	NeoshoCo Sheriff 	Sheriff Dispatch 	FMN 	Law Dispatch 
+156.21000 	154.01000  	WQGW879 	RM	107.2 PL	Neosho Co SO 2 	Sheriff Tac 2 	FMN 	Law Tac 
+158.83500 	153.80000  	KNBD589 	RM	94.8 PL	Neosho Co Fire 	Fire Dispatch / Storm Watch / Erie Police 	FMN 	Fire Dispatch 
+158.83500 	153.80000  	KNBD589 	RM	85.4 PL	Neosho Co Fire 	Fire -- Earlton Repeater 	FMN 	Fire Dispatch 
+159.39000 	154.89000  	WQIK991 	RM	103.5 PL	Neosho Co EM 	Emergency Management 	FMN 	Emergency Ops 
+155.49000 	   	KSZ437 	BM	94.8 PL	Neosho Co Jail 	County Jail 	FMN 	Corrections 
+154.99500 	156.09000  	WNZD473 	RM	132 DPL	Neosho Co Roads 	Highway Maintenance 	FMN 	Public Works 
+158.79000 	154.95000  	KSZ437 	RM	94.8 PL	Chanute Police 	Police Dispatch 	FMN 	Law Dispatch 
+155.49000 	   	KSZ437 	BM	94.8 PL	Chanute Police 3 	 Police Tac 3 	FMN 	Law Tac 
+851.23750 	806.23750  	WQTB322 	RM		Chanute Fire 	Fire Dispatch 	FM 	Fire Dispatch 
+153.98000 	156.00000  	WPKT225 	RM	94.8 PL	Chanute Fire 	Fire 	FMN 	Fire Dispatch 
+154.98000 	156.18000  	KCZ536 	RM		ChanutePublicWks 	Public Works 	FMN 	Public Works 
+155.52000 	   	WQPW207 	BM	94.8 PL	Erie Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+39.18000 	   	KTO431 	BM		Erie PublicWorks 	Public Works -- Streets, Sewer, Water and Electricity 	FM 	Public Works 
+463.40000 	468.40000  	WPKL914 	RM	546 DPL	Erie SchoolBuses 	Public School (USD 101) Buses  	FMN 	Schools 
+155.02500 	   	WQEP343 	BM	94.8 PL	Galesburg Fire 	Fire Dispatch 	FM 	Fire Dispatch 
+154.05500 	159.03000  	WNNV512 	RM	94.8 PL	St Paul Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.80500 	153.84500  	WNMV763 	RM	94.8 PL	Thayer Fire 	Fire Dispatch 	FMN 	Fire Dispatch 

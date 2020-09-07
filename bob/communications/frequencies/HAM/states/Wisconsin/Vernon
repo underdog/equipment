@@ -1,24 +1,23 @@
-154.99500 	WNLI926 	RM	167.9 PL	VESO1 	Sheriff Repeater 	FMN 	Law Dispatch 
-154.78500 	WQEB750 	RM	110.9 PL	VESO2 	Sheriff Alternate Repeater 	FMN 	Law Talk 
-154.86000 	WQEB750 	RM	136.5 PL	VEFIR 	County Fire 	FMN 	Fire Dispatch 
-154.17500 	WNLF959 	RM	167.9 PL	VEPAG 	County Common/Paging 	FMN 	Fire Dispatch 
-150.99500 	WQGC874 	M		VESO 	Sheriff Portables 	FMN 	Emergency Ops 
-460.20000 	WNNS873 	RM	156.7 PL	VEJAIL 	Sheriff Jail 	FMN 	Corrections 
-151.38500 	WQAL214 	RM		VEHWY 	Highway 	FMN 	Public Works 
-151.38500 	WQAL214 	RM	CC 10TG 1000SL 1	VEHWY 	Highway 	DMR 	Public Works 
-155.89500 	WPGY224 	BM		VEDPW 	County 	FMN 	Public Works 
-154.96500 	WQAQ702 	RM	91.5 PL	VQPD 	Police/DPW 	FMN 	Multi-Dispatch 
-155.17500 	 	RM	143 DPL	VQSCHOOL 	Viroqua Schools 	FMN 	Schools 
-155.04000 	WPZT300 	RM	97.4 PL	TriState1 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.23500 	WPZT300 	BM	97.4 PL	TriState2 	Simplex 	FMN 	EMS-Talk 
-151.10000 	WNVK237 	BM		Stark DPW 	Town of Stark DPW 	FMN 	Public Works 
-151.10000 	WPUJ213 	BM	203.5 PL	WhitestownPW 	Town of Whitestown DPW 	FMN 	Public Works 
-154.02500 	KNEH509 	BM	110.9 PL	Coon DPW 	Town of Coon DPW 	FMN 	Public Works 
-154.08500 	WHA366 	RM	146.2 PL	Kickapoo VR 	Kickapoo Valley Reserve 	FMN 	Public Works 
-155.83500 	WQAA499 	RM		DeSotoDPW 	DeSoto DPW/EMS/Fire 	FMN 	Public Works 
-155.89500 	WPES394 	BM	186.2 PL	HillsboroDPW 	Hillsboro DPW 	FMN 	Public Works 
-155.89500 	WNPF625 	BM		Westby DPW 	Westby DPW 	FMN 	Public Works 
-155.94000 	WPMK884 	RM	114.8 PL	ReadstownEMS 	Readstown EMS 	FMN 	EMS-Talk 
-453.37500 	WPYL939 	RM		Sterling DPW 	Town of Sterling DPW 	FMN 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Croell Redi-Mix	 NXDN Conventional Networked	 Various	Dairyland Power Cooperative	 DMR Tier 3
- Various	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+154.99500 	158.86500  	WNLI926 	RM	167.9 PL	VESO1 	Sheriff Repeater 	FMN 	Law Dispatch 
+154.78500 	159.03000  	WQEB750 	RM	110.9 PL	VESO2 	Sheriff Alternate Repeater 	FMN 	Law Talk 
+154.86000 	158.88000  	WQEB750 	RM	136.5 PL	VEFIR 	County Fire 	FMN 	Fire Dispatch 
+154.17500 	158.95500  	WNLF959 	RM	167.9 PL	VEPAG 	County Common/Paging 	FMN 	Fire Dispatch 
+150.99500 	   	WQGC874 	M		VESO 	Sheriff Portables 	FMN 	Emergency Ops 
+460.20000 	465.20000  	WNNS873 	RM	156.7 PL	VEJAIL 	Sheriff Jail 	FMN 	Corrections 
+151.38500 	156.19500  	WQAL214 	RM		VEHWY 	Highway 	FMN 	Public Works 
+151.38500 	156.19500  	WQAL214 	RM	CC 10TG 1000SL 1	VEHWY 	Highway 	DMR 	Public Works 
+155.89500 	   	WPGY224 	BM		VEDPW 	County 	FMN 	Public Works 
+154.96500 	153.96500  	WQAQ702 	RM	91.5 PL	VQPD 	Police/DPW 	FMN 	Multi-Dispatch 
+155.17500 	156.15000  	 	RM	143 DPL	VQSCHOOL 	Viroqua Schools 	FMN 	Schools 
+155.04000 	158.96250  	WPZT300 	RM	97.4 PL	TriState1 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.23500 	   	WPZT300 	BM	97.4 PL	TriState2 	Simplex 	FMN 	EMS-Talk 
+151.10000 	   	WNVK237 	BM		Stark DPW 	Town of Stark DPW 	FMN 	Public Works 
+151.10000 	   	WPUJ213 	BM	203.5 PL	WhitestownPW 	Town of Whitestown DPW 	FMN 	Public Works 
+154.02500 	   	KNEH509 	BM	110.9 PL	Coon DPW 	Town of Coon DPW 	FMN 	Public Works 
+154.08500 	156.09750  	WHA366 	RM	146.2 PL	Kickapoo VR 	Kickapoo Valley Reserve 	FMN 	Public Works 
+155.83500 	153.98000  	WQAA499 	RM		DeSotoDPW 	DeSoto DPW/EMS/Fire 	FMN 	Public Works 
+155.89500 	   	WPES394 	BM	186.2 PL	HillsboroDPW 	Hillsboro DPW 	FMN 	Public Works 
+155.89500 	   	WNPF625 	BM		Westby DPW 	Westby DPW 	FMN 	Public Works 
+155.94000 	158.94000  	WPMK884 	RM	114.8 PL	ReadstownEMS 	Readstown EMS 	FMN 	EMS-Talk 
+453.37500 	458.37500  	WPYL939 	RM		Sterling DPW 	Town of Sterling DPW 	FMN 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Croell Redi-Mix	 NXDN Conventional Networked	 Various	Dairyland Power Cooperative	 DMR Tier 3	 Various

@@ -1,90 +1,89 @@
-155.31000 	KJR205 	BM	167.9 PL	Lyco PD Disp 	Ch 1 Dispatch 	FMN 	Law Dispatch 
-155.49000 	KNAO439 	BM		Regional Pol 	Ch 2 Regional 	FMN 	Interop 
-156.03000 	KJR205 	BM	167.9 PL	Lyco PD Tac3 	Ch 3 Tactical 	FMN 	Law Tac 
-155.47500 	KJR205 	M		National Pol 	Ch 5 National 	FMN 	Interop 
-159.22500 	 	M		Lyco PD Tac 	PD Tactical 	FMN 	Law Tac 
-154.43000 	WPQF233 	RM	167.9 PL	Lyco Fire 1 	FIre 1 Dispatch/Response 	FMN 	Fire Dispatch 
-153.95000 	KA25502 	BM	167.9 PL	Lyco Fire 2 	Fire 2 Tactical  	FMN 	Fire-Tac 
-154.01000 	KNBY249 	BM	167.9 PL	Lyco Fire 3 	Fire 3 Tactical 	FMN 	Fire-Tac 
-155.34000 	WPDJ646 	BM	167.9 PL	Lyco EMS 4  	EMS 4 Operations 	FMN 	EMS-Tac 
-154.34000 	KA25502 	BM	167.9 PL	Lyco Fire 5 	Fire 5 Tactical 	FMN 	Fire-Tac 
-154.40000 	KA25502 	BM	167.9 PL	Lyco Fire 6 	Fire 6 Tactical 	FMN 	Fire-Tac 
-155.98500 	KA5725 	M	167.9 PL	Lyco FP Ops 	Fire Police Operations 	FMN 	Fire-Talk 
-463.05000 	KJ9361 	BM	173.8 PL	Lyco Med-3 	County EMS Med-3 	FMN 	EMS-Talk 
-463.17500 	KJ9361 	BM	173.8 PL	Lyco Med-8 	County EMS Med-8 	FMN 	EMS-Talk 
-462.95000 	WNAZ563 	RM	173.8 PL	Lyco Med-9 	County EMS Med-9 	FMN 	EMS Dispatch 
-155.26500 	WXK743 	BM		WB SCUBA 	West Branch SCUBA Team 	FM 	Fire-Tac 
-154.80000 	WPQF226 	RM	167.9 PL	Lyco Intop 	Countywide Interops (all agencies) 	FMN 	Interop 
-151.23500 	WQEN785 	RM		Lyco DPS 	Dept. of Public Safety 	FMN 	Emergency Ops 
-154.98000 	WPQF229 	RM	167.9 PL	Lyco EMA 	EMA (also Sheriff, Constables, Coroner) 	FMN 	Emergency Ops 
-453.25000 	KNEZ930 	BM	173.8 PL	Lyco EMA 	EMA 	FMN 	Emergency Ops 
-453.22500 	KNEZ930 	BM		Lyco RMS 	Resource Management Services 	FMN 	Public Works 
-453.27500 	WNAV529 	BM		Lyco Prison 	Prison 	FMN 	Corrections 
-154.11500 	WNNB272 	BM		DuBoistwn PW 	Public Works/Local Govt 	FMN 	Public Works 
-155.64000 	KNAR505 	BM		DuBoistwnPD4 	Police Local Ch. 4 	FMN 	Law Talk 
-154.08500 	 	BM	167.9 PL	Eldred TwpPW 	Public Works 	FMN 	Public Works 
-155.07000 		WQQA404 	RM	331 DPL	Eldred VFC 	Eldred Township VFC 	FMN 	Fire-Tac 
-154.23500 	WPDS270 	BM	167.9 PL	Hepburn VFD 	Hepburn Twp Vol. Fire Co. 	FMN 	Fire-Tac 
-155.97000 	 	M	167.9 PL	Hughes PD 4 	Police Local Ch 4 	FMN 	Law Talk 
-154.96500 	KVX924 	BM		CitHoseJS FC 	Citizen's Hose Co. of Jersey Shore 	FMN 	Fire-Tac 
-154.96500 	 	M	167.9 PL	TVRPD 4 	Tiadaghton Valley Regional PD Ch. 4 	FMN 	Law Talk 
-158.74500 	WQAD762 	BM		Trout Run FC 	Trout Run VFC 	FMN 	Fire-Tac 
-154.16000 	KGF430 	RM	18 RAN	LFC 18 Faxon 	Loyalsock VFC - Faxon Repeater 	NXDN 	Fire-Tac 
-155.85750 	KGF430 	RM	167.9 PL	LFC 18 Creek 	Loyalsock VFC - Creek Repeater 	FMN 	Fire-Tac 
-156.21000 	KGF430 	RM	18 RAN	LFC 18 Heshbon 	Loyalsock VFC - Heshbon Repeater 	NXDN 	Fire-Tac 
-155.92500 	KGV211 	BM	127.3 PL	Loyalsock PW 	Local Govt. Services 	FMN 	Public Works 
-159.17250 	WQWW241 	RM	100.0 PL	Montgmry PD2 	Police Local Ch 2 	FMN 	Law Tac 
-155.94000 	 	RM	167.9 PL	Montgmry PD4 	Police Local Ch 4 	FMN 	Law Talk 
-159.17250 	WQWW241 	RM	167.9 PL	Montgmry EMA 	EMA Operations 	FMN 	Emergency Ops 
-155.80500 	KJS914 	BM	167.9 PL	Montrsvl PW 	Local Govt. 	FMN 	Public Works 
-155.65500 	WPRR847 	BM	167.9 PL	Muncy PD 4  	Police Local Ch 4 	FMN 	Law Talk 
-154.71000 	 	BM		Antes Ft FC 	Antes Fort Fire - Tactical 	FM 	Fire-Tac 
-159.16500 	 	BM		Nippenose FC 	Nippenose VFC 	FM 	Fire-Tac 
-151.01750 	KXO946 	RM		Old Lyco VFC 	Old Lycoming Twp. VFC Repeater 	FMN 	Fire-Tac 
-154.25000 	KXO946 	RM	167.9 PL	Old Lyco VFC 	Old Lycoming Twp. VFC 	FMN 	Fire-Tac 
-154.84500 	 	RM		Old Lyco PD4 	Police Local Ch 4 	FMN 	Law Talk 
-155.10000 	WPTL667 	BM	167.9 PL	Old Lyco PW  	Highway Crew 	FMN 	Public Works 
-155.56500 	KGD434 	BM	167.9 PL	S Wmspt PD 4 	Police Local Ch. 4 	FMN 	Law Talk 
-153.74000 	 	BM		Nisbet FC 	Nisbet FC 	FMN 	Fire-Tac 
-159.15000 	 	BM	167.9 PL	U Fairfld PW 	Public Works 	FMN 	Public Works 
-154.31750 	WPSF696 	RM	131.8 PL	WPD 1 Disp 	Police Dispatch 1 	FMN 	Law Dispatch 
-155.76750 	WPSF696 	RM	131.8 PL	WPD 2 Tac 	Police Tactical 2 	FMN 	Law Tac 
-155.78250 	WPSF696 	RM	167.9 PL	WPD 3 Tac 	Police Tactical 3 	FMN 	Law Tac 
-154.92750 	WPSF696 	RM	167.9 PL	Wlmsprt Comn 	Citywide Common 	FMN 	Interop 
-155.76750 	WPSF696 	RM	110.9 PL	Wlmsprt Code 	Code Enforcement 	FMN 	Public Works 
-155.76750 	WPSF696 	RM	173.8 PL	Wlmsprt Fire 	Bureau of Fire Tactical 	FMN 	Fire-Tac 
-155.78000 	WPFS696 	RM	179.9 PL	Wlmsprt Hwy 	Highway Department 	FMN 	Public Works 
-155.78250 	WPSF696 	RM	123.0 PL	Wlmsprt EMA 	Emergency Management 	FMN 	Emergency Ops 
-453.32500 	KNFE731 	RM	141.3 PL	Wlmsprt Prkg 	Parking Authority 	FMN 	Public Works 
-151.12250 	WPSG380 	RM	346 DPL	WMAA Ops 	Fire & Security 	FMN 	Multi-Dispatch 
-157.62000 	 	BM		LoyalsTwp SD 	Loyalsock Township School District 	NXDN 	Schools 
-152.39750 	WQHR439 	RM	167.9 PL	Montgmry ASD 	Montgomery Area School District 	FMN 	Schools 
-152.28500 	WPPZ245 	RM		WilliamsptSD 	Williamsport Area School District 	FMN 	Schools 
-160.18500 	WPPZ245 	BM		WilliamsptSD 	Williamsport Area School District 	FMN 	Schools 
-152.40500 	WPYY581 	RM	244 DPL	Lyco Coll PS 	Safety & Security Dept. 	FMN 	Security 
-154.72500 	WPQC973 	RM	167.9 PL	PennTech PD 	Police Dept. 	FMN 	Law Talk 
-460.42500 	KNNS792 	RM		PennTech PP 	Phone Patch 	FMN 	Security 
-154.19000 	WPGR765 	RM	167.9 PL	SHS WAAS 	Willamsport Area Ambulance Service 	FMN 	EMS-Talk 
-119.10000 	 	BM		KIPT Tower 	KIPT Tower 	AM 	Aircraft 
-121.90000 	 	BM		KIPT Ground 	KIPT Ground 	AM 	Aircraft 
-122.95000 	 	BM		KIPT Unicom 	KIPT Unicom 	AM 	Aircraft 
-124.90000 	 	BM		KIPT App/Dep 	KIPT Approach/Departure 	AM 	Aircraft 
-153.23000 	WQGY271 	RM	127.3 PL	LL Security 	Security 	FM 	Security 
-464.37500 	WPDA595 	M	127.3 PL	LL Security 	Security 	FM 	Security 
-152.91500 	 	BM	127.3 PL	LL Ushers 	Ushers 	FM 	Business 
-159.57000 	WQGY271 	BM	127.3 PL	LL Park/Mnt 	Parking, Maintenance 	FM 	Business 
-159.84000 	WQGY271 	BM	127.3 PL	LL Grounds 	Grounds crews/Maintenance 	FM 	Business 
-461.17500 	WPDA595 	M	179.9 PL	LL Gate Ops 	Front Gate, Operations 	FM 	Business 
-153.35000 	WQGY271 	RM	127.3 PL	LL Grove 	Grove 	FM 	Business 
-150.95000 	 	BM		AAA Roadside 	AAA Road Side Assistance 	FM 	Business 
-37.64000 	KGC282 	BM	146.2 PL	PPL Electric 	PPL Electric - Line Repair (Wlliamsport) 	FM 	Utilities 
-35.90000 	 	BM		Pickeln Fuel 	Pickelner Fuel Company 	FM 	Utilities 
-48.74000 	KCO551 	BM		Transcon Gas 	Transcontinental Gas Pipe Line  	FM 	Utilities 
-463.35000 	 	BM		UGI Penn Nat 	UGI Penn Natural Gas 	FM 	Utilities 
-463.57500 	 	BM		UGI Penn Nat 	UGI Penn Natural Gas 	FM 	Utilities 
-463.58750 	 	BM		UGI Penn Nat 	UGI Penn Natural Gas 	FM 	Utilities 
-48.50000 	KGD855 	BM		Wmspt Water 	Williamsport Water Authority 	FM 	Utilities 
-462.67500 	WQGU515 	RM	141.3 PL	Wlmsprt GMRS 	Williamsport 	FM 	Other 
-Alta Resources Pennsylvania	 DMR Conventional Networked	 Jersey Shore	Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)
- Various	Pennsylvania General Energy	 NXDN NEXEDGE 4800	 various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)
- OpenSky 9600 baud	 Statewide	
+155.31000 	151.19750  	KJR205 	BM	167.9 PL	Lyco PD Disp 	Ch 1 Dispatch 	FMN 	Law Dispatch 
+155.49000 	   	KNAO439 	BM		Regional Pol 	Ch 2 Regional 	FMN 	Interop 
+156.03000 	   	KJR205 	BM	167.9 PL	Lyco PD Tac3 	Ch 3 Tactical 	FMN 	Law Tac 
+155.47500 	   	KJR205 	M		National Pol 	Ch 5 National 	FMN 	Interop 
+159.22500 	   	 	M		Lyco PD Tac 	PD Tactical 	FMN 	Law Tac 
+154.43000 	158.85000  	WPQF233 	RM	167.9 PL	Lyco Fire 1 	FIre 1 Dispatch/Response 	FMN 	Fire Dispatch 
+153.95000 	   	KA25502 	BM	167.9 PL	Lyco Fire 2 	Fire 2 Tactical  	FMN 	Fire-Tac 
+154.01000 	   	KNBY249 	BM	167.9 PL	Lyco Fire 3 	Fire 3 Tactical 	FMN 	Fire-Tac 
+155.34000 	   	WPDJ646 	BM	167.9 PL	Lyco EMS 4  	EMS 4 Operations 	FMN 	EMS-Tac 
+154.34000 	   	KA25502 	BM	167.9 PL	Lyco Fire 5 	Fire 5 Tactical 	FMN 	Fire-Tac 
+154.40000 	   	KA25502 	BM	167.9 PL	Lyco Fire 6 	Fire 6 Tactical 	FMN 	Fire-Tac 
+155.98500 	   	KA5725 	M	167.9 PL	Lyco FP Ops 	Fire Police Operations 	FMN 	Fire-Talk 
+463.05000 	468.05000  	KJ9361 	BM	173.8 PL	Lyco Med-3 	County EMS Med-3 	FMN 	EMS-Talk 
+463.17500 	468.17500  	KJ9361 	BM	173.8 PL	Lyco Med-8 	County EMS Med-8 	FMN 	EMS-Talk 
+462.95000 	467.95000  	WNAZ563 	RM	173.8 PL	Lyco Med-9 	County EMS Med-9 	FMN 	EMS Dispatch 
+155.26500 	   	WXK743 	BM		WB SCUBA 	West Branch SCUBA Team 	FM 	Fire-Tac 
+154.80000 	151.31750  	WPQF226 	RM	167.9 PL	Lyco Intop 	Countywide Interops (all agencies) 	FMN 	Interop 
+151.23500 	153.87500  	WQEN785 	RM		Lyco DPS 	Dept. of Public Safety 	FMN 	Emergency Ops 
+154.98000 	159.19500  	WPQF229 	RM	167.9 PL	Lyco EMA 	EMA (also Sheriff, Constables, Coroner) 	FMN 	Emergency Ops 
+453.25000 	458.25000  	KNEZ930 	BM	173.8 PL	Lyco EMA 	EMA 	FMN 	Emergency Ops 
+453.22500 	458.22500  	KNEZ930 	BM		Lyco RMS 	Resource Management Services 	FMN 	Public Works 
+453.27500 	   	WNAV529 	BM		Lyco Prison 	Prison 	FMN 	Corrections 
+154.11500 	   	WNNB272 	BM		DuBoistwn PW 	Public Works/Local Govt 	FMN 	Public Works 
+155.64000 	   	KNAR505 	BM		DuBoistwnPD4 	Police Local Ch. 4 	FMN 	Law Talk 
+154.08500 	   	 	BM	167.9 PL	Eldred TwpPW 	Public Works 	FMN 	Public Works 
+155.07000 	151.21250  		WQQA404 	RM	331 DPL	Eldred VFC 	Eldred Township VFC 	FMN 	Fire-Tac 
+154.23500 	   	WPDS270 	BM	167.9 PL	Hepburn VFD 	Hepburn Twp Vol. Fire Co. 	FMN 	Fire-Tac 
+155.97000 	   	 	M	167.9 PL	Hughes PD 4 	Police Local Ch 4 	FMN 	Law Talk 
+154.96500 	   	KVX924 	BM		CitHoseJS FC 	Citizen's Hose Co. of Jersey Shore 	FMN 	Fire-Tac 
+154.96500 	   	 	M	167.9 PL	TVRPD 4 	Tiadaghton Valley Regional PD Ch. 4 	FMN 	Law Talk 
+158.74500 	   	WQAD762 	BM		Trout Run FC 	Trout Run VFC 	FMN 	Fire-Tac 
+154.16000 	158.98500  	KGF430 	RM	18 RAN	LFC 18 Faxon 	Loyalsock VFC - Faxon Repeater 	NXDN 	Fire-Tac 
+155.85750 	151.27250  	KGF430 	RM	167.9 PL	LFC 18 Creek 	Loyalsock VFC - Creek Repeater 	FMN 	Fire-Tac 
+156.21000 	   	KGF430 	RM	18 RAN	LFC 18 Heshbon 	Loyalsock VFC - Heshbon Repeater 	NXDN 	Fire-Tac 
+155.92500 	   	KGV211 	BM	127.3 PL	Loyalsock PW 	Local Govt. Services 	FMN 	Public Works 
+159.17250 	154.99500  	WQWW241 	RM	100.0 PL	Montgmry PD2 	Police Local Ch 2 	FMN 	Law Tac 
+155.94000 	   	 	RM	167.9 PL	Montgmry PD4 	Police Local Ch 4 	FMN 	Law Talk 
+159.17250 	154.99500  	WQWW241 	RM	167.9 PL	Montgmry EMA 	EMA Operations 	FMN 	Emergency Ops 
+155.80500 	   	KJS914 	BM	167.9 PL	Montrsvl PW 	Local Govt. 	FMN 	Public Works 
+155.65500 	   	WPRR847 	BM	167.9 PL	Muncy PD 4  	Police Local Ch 4 	FMN 	Law Talk 
+154.71000 	   	 	BM		Antes Ft FC 	Antes Fort Fire - Tactical 	FM 	Fire-Tac 
+159.16500 	   	 	BM		Nippenose FC 	Nippenose VFC 	FM 	Fire-Tac 
+151.01750 	   	KXO946 	RM		Old Lyco VFC 	Old Lycoming Twp. VFC Repeater 	FMN 	Fire-Tac 
+154.25000 	   	KXO946 	RM	167.9 PL	Old Lyco VFC 	Old Lycoming Twp. VFC 	FMN 	Fire-Tac 
+154.84500 	   	 	RM		Old Lyco PD4 	Police Local Ch 4 	FMN 	Law Talk 
+155.10000 	   	WPTL667 	BM	167.9 PL	Old Lyco PW  	Highway Crew 	FMN 	Public Works 
+155.56500 	   	KGD434 	BM	167.9 PL	S Wmspt PD 4 	Police Local Ch. 4 	FMN 	Law Talk 
+153.74000 	   	 	BM		Nisbet FC 	Nisbet FC 	FMN 	Fire-Tac 
+159.15000 	   	 	BM	167.9 PL	U Fairfld PW 	Public Works 	FMN 	Public Works 
+154.31750 	151.09250  	WPSF696 	RM	131.8 PL	WPD 1 Disp 	Police Dispatch 1 	FMN 	Law Dispatch 
+155.76750 	153.97250  	WPSF696 	RM	131.8 PL	WPD 2 Tac 	Police Tactical 2 	FMN 	Law Tac 
+155.78250 	153.98750  	WPSF696 	RM	167.9 PL	WPD 3 Tac 	Police Tactical 3 	FMN 	Law Tac 
+154.92750 	153.76250  	WPSF696 	RM	167.9 PL	Wlmsprt Comn 	Citywide Common 	FMN 	Interop 
+155.76750 	153.97250  	WPSF696 	RM	110.9 PL	Wlmsprt Code 	Code Enforcement 	FMN 	Public Works 
+155.76750 	153.97250  	WPSF696 	RM	173.8 PL	Wlmsprt Fire 	Bureau of Fire Tactical 	FMN 	Fire-Tac 
+155.78000 	153.98750  	WPFS696 	RM	179.9 PL	Wlmsprt Hwy 	Highway Department 	FMN 	Public Works 
+155.78250 	153.98750  	WPSF696 	RM	123.0 PL	Wlmsprt EMA 	Emergency Management 	FMN 	Emergency Ops 
+453.32500 	458.32500  	KNFE731 	RM	141.3 PL	Wlmsprt Prkg 	Parking Authority 	FMN 	Public Works 
+151.12250 	156.11250  	WPSG380 	RM	346 DPL	WMAA Ops 	Fire & Security 	FMN 	Multi-Dispatch 
+157.62000 	   	 	BM		LoyalsTwp SD 	Loyalsock Township School District 	NXDN 	Schools 
+152.39750 	157.65750  	WQHR439 	RM	167.9 PL	Montgmry ASD 	Montgomery Area School District 	FMN 	Schools 
+152.28500 	   	WPPZ245 	RM		WilliamsptSD 	Williamsport Area School District 	FMN 	Schools 
+160.18500 	   	WPPZ245 	BM		WilliamsptSD 	Williamsport Area School District 	FMN 	Schools 
+152.40500 	   	WPYY581 	RM	244 DPL	Lyco Coll PS 	Safety & Security Dept. 	FMN 	Security 
+154.72500 	159.45000  	WPQC973 	RM	167.9 PL	PennTech PD 	Police Dept. 	FMN 	Law Talk 
+460.42500 	465.42500  	KNNS792 	RM		PennTech PP 	Phone Patch 	FMN 	Security 
+154.19000 	150.77500  	WPGR765 	RM	167.9 PL	SHS WAAS 	Willamsport Area Ambulance Service 	FMN 	EMS-Talk 
+119.10000 	   	 	BM		KIPT Tower 	KIPT Tower 	AM 	Aircraft 
+121.90000 	   	 	BM		KIPT Ground 	KIPT Ground 	AM 	Aircraft 
+122.95000 	   	 	BM		KIPT Unicom 	KIPT Unicom 	AM 	Aircraft 
+124.90000 	   	 	BM		KIPT App/Dep 	KIPT Approach/Departure 	AM 	Aircraft 
+153.23000 	   	WQGY271 	RM	127.3 PL	LL Security 	Security 	FM 	Security 
+464.37500 	   	WPDA595 	M	127.3 PL	LL Security 	Security 	FM 	Security 
+152.91500 	   	 	BM	127.3 PL	LL Ushers 	Ushers 	FM 	Business 
+159.57000 	   	WQGY271 	BM	127.3 PL	LL Park/Mnt 	Parking, Maintenance 	FM 	Business 
+159.84000 	   	WQGY271 	BM	127.3 PL	LL Grounds 	Grounds crews/Maintenance 	FM 	Business 
+461.17500 	   	WPDA595 	M	179.9 PL	LL Gate Ops 	Front Gate, Operations 	FM 	Business 
+153.35000 	   	WQGY271 	RM	127.3 PL	LL Grove 	Grove 	FM 	Business 
+150.95000 	   	 	BM		AAA Roadside 	AAA Road Side Assistance 	FM 	Business 
+37.64000 	   	KGC282 	BM	146.2 PL	PPL Electric 	PPL Electric - Line Repair (Wlliamsport) 	FM 	Utilities 
+35.90000 	   	 	BM		Pickeln Fuel 	Pickelner Fuel Company 	FM 	Utilities 
+48.74000 	   	KCO551 	BM		Transcon Gas 	Transcontinental Gas Pipe Line  	FM 	Utilities 
+463.35000 	   	 	BM		UGI Penn Nat 	UGI Penn Natural Gas 	FM 	Utilities 
+463.57500 	   	 	BM		UGI Penn Nat 	UGI Penn Natural Gas 	FM 	Utilities 
+463.58750 	   	 	BM		UGI Penn Nat 	UGI Penn Natural Gas 	FM 	Utilities 
+48.50000 	   	KGD855 	BM		Wmspt Water 	Williamsport Water Authority 	FM 	Utilities 
+462.67500 	467.67500  	WQGU515 	RM	141.3 PL	Wlmsprt GMRS 	Williamsport 	FM 	Other 
+Alta Resources Pennsylvania	 DMR Conventional Networked	 Jersey Shore	Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various
+Pennsylvania General Energy	 NXDN NEXEDGE 4800	 various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide

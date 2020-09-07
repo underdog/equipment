@@ -1,17 +1,17 @@
-155.62500 	KSI954 	RM	526 NAC	HCSO 1 Disp 	Sheriff Dispatch F2 	P25 	Law Dispatch 
-155.31000 	KSI954 	BM		HCSO 3 C/C 	Sheriff F3 Car to Car 	P25 	Law Tac 
-155.02500 	KKC618 	BM		HCFD/EMS Paging 	Fire/EMS Paging 	FM 	Fire Dispatch 
-153.77000 	WNHQ521 	RM	7F3 NAC	HCFD Tac 	Fire Tactical 	P25 	Fire-Tac 
-155.08500 	WQYJ425 	RM	500 NAC	HCFD Rural Tac 	Rural Fire Tac 	P25 	Fire-Tac 
-155.74500 	WQXK504 	BM	4AA NAC	HC EMS 	EMS Dispatch 	P25 	EMS Dispatch 
-153.98000 	WQYJ425 	RM	585 NAC	Golconda FD Tac1 	Tac 1 	P25 	Fire-Tac 
-153.96500 	WQYJ425 	RM	4CE NAC	Golconda FD Tac2 	Tac 2 	P25 	Fire-Tac 
-158.76000 	WQIC928 	BM		McDermitt FD 	Dispatch 	FMN 	Fire Dispatch 
-154.84500 	KSI954 	RM	972 NAC	WinnemuccaPD 	County/Winnemucca Police Dispatch F1 	P25 	Law Dispatch 
-154.38500 	WPKC352 	RM	777 NAC	WinnemuccaFD 	Winnemucca Fire Tactical 	P25 	Fire Dispatch 
-154.14500 	WPKC352 	BM		Winnemucca C 	City 	FM 	Public Works 
-45.52000 	KD47914 	M		Winnemucca M 	Mobile 	FM 	Public Works 
-153.95000 	WPKC352 	M		Winnemucca ? 	? 	FM 	Public Works 
-153.34250 	 	BM	141.3 PL	SouthwestGas 	Southwest Gas ? 	FM 	Utilities 
-155.58000 	 			LovelockPris 	Prison Ops - Lovelock Correctional Center 	FM 	Security 
+155.62500 	155.01000  	KSI954 	RM	526 NAC	HCSO 1 Disp 	Sheriff Dispatch F2 	P25 	Law Dispatch 
+155.31000 	   	KSI954 	BM		HCSO 3 C/C 	Sheriff F3 Car to Car 	P25 	Law Tac 
+155.02500 	   	KKC618 	BM		HCFD/EMS Paging 	Fire/EMS Paging 	FM 	Fire Dispatch 
+153.77000 	154.41500  	WNHQ521 	RM	7F3 NAC	HCFD Tac 	Fire Tactical 	P25 	Fire-Tac 
+155.08500 	155.88000  	WQYJ425 	RM	500 NAC	HCFD Rural Tac 	Rural Fire Tac 	P25 	Fire-Tac 
+155.74500 	   	WQXK504 	BM	4AA NAC	HC EMS 	EMS Dispatch 	P25 	EMS Dispatch 
+153.98000 	155.80500  	WQYJ425 	RM	585 NAC	Golconda FD Tac1 	Tac 1 	P25 	Fire-Tac 
+153.96500 	155.94000  	WQYJ425 	RM	4CE NAC	Golconda FD Tac2 	Tac 2 	P25 	Fire-Tac 
+158.76000 	   	WQIC928 	BM		McDermitt FD 	Dispatch 	FMN 	Fire Dispatch 
+154.84500 	154.02500  	KSI954 	RM	972 NAC	WinnemuccaPD 	County/Winnemucca Police Dispatch F1 	P25 	Law Dispatch 
+154.38500 	153.95000  	WPKC352 	RM	777 NAC	WinnemuccaFD 	Winnemucca Fire Tactical 	P25 	Fire Dispatch 
+154.14500 	   	WPKC352 	BM		Winnemucca C 	City 	FM 	Public Works 
+45.52000 	   	KD47914 	M		Winnemucca M 	Mobile 	FM 	Public Works 
+153.95000 	   	WPKC352 	M		Winnemucca ? 	? 	FM 	Public Works 
+153.34250 	   	 	BM	141.3 PL	SouthwestGas 	Southwest Gas ? 	FM 	Utilities 
+155.58000 	   	 			LovelockPris 	Prison Ops - Lovelock Correctional Center 	FM 	Security 
 Nevada Shared Radio System	 EDACS Networked Standard	 Various	

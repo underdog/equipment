@@ -1,18 +1,18 @@
-155.95500 	WNQI879 	RM	192.8 PL	FCSO Disp 	Sheriff Dispatch (F1) 	FMN 	Law Dispatch 
-154.78500 	KNBJ864 	RM	192.8 PL	FCSO F2 	Sheriff Backup (F2) 	FMN 	Law Dispatch 
-460.25000 	WQDC611 	RM		FCSO MDT 	Sheriff Mobile Data Terminals 	FM 	Data 
-154.37000 	KNAR440 	RM	0C0 NAC	FC West Fire 	West Fire Repeater 	P25 	Fire Dispatch 
-154.37000 	KNAR440 	RM	29E NAC	FC Cent Fire 	Central Fire Repeater 	P25 	Fire Dispatch 
-154.37000 	KNAR440 	RM	375 NAC	FC East Fire 	East Fire Repeater 	P25 	Fire Dispatch 
-154.37000 	KNAR440 	RM	192.8 PL	FC Old Fire 	Old Fire Net / Paging 	FMN 	Fire Dispatch 
-155.34000 	WQOY827 	BM	210.7 PL	RH HEAR 	Russellville Hospital 	FMN 	Hospital 
-151.02500 	WQBP736 	RM		FC Roads 	Highway Department 	FM 	Public Works 
-153.42500 	WPFA658 	RM		FC Water 	Water Authority 	FM 	Utilities 
-154.06250 	WPLX237 	BM		Hodges CMN 	Fire/DPW 	FMN 	Multi-Dispatch 
-154.41500 	WNHP653 	RM	192.8 PL	PC City Net 	Police/Fire Tactical 	FM 	Multi-Tac 
-155.85000 	KSL951 	RM	192.8 PL	RBPD Disp 	Police Dispatch (voice inversion often used) 	FM 	Law Dispatch 
-155.13000 	WPBR895 	RM	192.8 PL	RPD Disp 	Police Dispatch 	FM 	Law Dispatch 
-155.88750 	WPMK706 	RM	192.8 PL	RFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-158.81250 	WPMK706 	RM		RFD FG 	Fire Fireground 	FMN 	Fire-Tac 
-158.95500 	WPFJ468 	RM		Vina Water 	Water Dept. 	FM 	Utilities 
+155.95500 	153.93500  	WNQI879 	RM	192.8 PL	FCSO Disp 	Sheriff Dispatch (F1) 	FMN 	Law Dispatch 
+154.78500 	159.15000  	KNBJ864 	RM	192.8 PL	FCSO F2 	Sheriff Backup (F2) 	FMN 	Law Dispatch 
+460.25000 	465.25000  	WQDC611 	RM		FCSO MDT 	Sheriff Mobile Data Terminals 	FM 	Data 
+154.37000 	159.10500  	KNAR440 	RM	0C0 NAC	FC West Fire 	West Fire Repeater 	P25 	Fire Dispatch 
+154.37000 	156.04500  	KNAR440 	RM	29E NAC	FC Cent Fire 	Central Fire Repeater 	P25 	Fire Dispatch 
+154.37000 	159.10500  	KNAR440 	RM	375 NAC	FC East Fire 	East Fire Repeater 	P25 	Fire Dispatch 
+154.37000 	156.04500  	KNAR440 	RM	192.8 PL	FC Old Fire 	Old Fire Net / Paging 	FMN 	Fire Dispatch 
+155.34000 	   	WQOY827 	BM	210.7 PL	RH HEAR 	Russellville Hospital 	FMN 	Hospital 
+151.02500 	156.16500  	WQBP736 	RM		FC Roads 	Highway Department 	FM 	Public Works 
+153.42500 	159.96000  	WPFA658 	RM		FC Water 	Water Authority 	FM 	Utilities 
+154.06250 	   	WPLX237 	BM		Hodges CMN 	Fire/DPW 	FMN 	Multi-Dispatch 
+154.41500 	153.83000  	WNHP653 	RM	192.8 PL	PC City Net 	Police/Fire Tactical 	FM 	Multi-Tac 
+155.85000 	154.71000  	KSL951 	RM	192.8 PL	RBPD Disp 	Police Dispatch (voice inversion often used) 	FM 	Law Dispatch 
+155.13000 	158.97000  	WPBR895 	RM	192.8 PL	RPD Disp 	Police Dispatch 	FM 	Law Dispatch 
+155.88750 	158.88750  	WPMK706 	RM	192.8 PL	RFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+158.81250 	153.76250  	WPMK706 	RM		RFD FG 	Fire Fireground 	FMN 	Fire-Tac 
+158.95500 	154.89000  	WPFJ468 	RM		Vina Water 	Water Dept. 	FM 	Utilities 
  Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	

@@ -1,23 +1,24 @@
-159.36750 	WQCT763 	RM	131.8 PL	GRNCO PD DSP 	Police Dispatch 	FMN 	Law Dispatch 
-155.61000 	KIP692 	RM	131.8 PL	GRNCO PD 	Police Dispatch 	FMN 	Law Dispatch 
-151.23500 	WQXK503 	BM		GRNSBG PD 1 	Greensburg Police 1 	FMN 	Law Dispatch 
-156.15750 	WQXK503 	M	654 DPL	GRNSBG PD 2 	Greensburg Police 2 	FMN 	Law Dispatch 
-154.32500 	WYZ396 	RM	156.7 PL	GRN CO FD DS 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.71500 	WYZ396 	BM	156.7 PL	GCFD 	Green County Fire Department 	FMN 	Fire Dispatch 
-154.35500 	WNNJ376 	RM	156.7 PL	SMRVL FD 	Summersville Volunteer Fire Dept. 	FMN 	Fire-Talk 
-155.04000 	WNWT702 	RM	127.3 PL	GRN CO Rsq 	Fire/Rescue Ch 1 	FMN 	EMS-Talk 
-453.76250 	WPWJ580 	RM	127.3 PL	GRN CO EMA 	Emergency Management 	FMN 	Emergency Ops 
-155.55750 	WPKH479 	RM	025 DPL	GCEMS-A 	EMS (Analog) 	FMN 	EMS Dispatch 
-155.55750 	WPKH479 	RM	556 NAC	GCEMS-D 	EMS (Digital) 	P25 	EMS Dispatch 
-151.16750 	WPKH479 	M	131.8 PL	GCEMS 	EMS  	FMN 	EMS-Talk 
-155.04000 	WNWT702 	RM	94.8 PL	GRN CO RSQ 	EMS/Rescue Ch 2 	FMN 	Emergency Ops 
-153.78500 	wnwt702 	M	156.7 PL	GRN CO RSQ 	Rescue Ch 4 	FMN 	EMS-Talk 
-155.34000 	KWO375 	BM	118.8 PL	EMS TO TODD  	EMS to Jane Todd Hospital 	FMN 	Hospital 
-153.66500 	KNKN333 	RM	23 RAN	GRNTLR WATER 	Water District 	NXDN 	Public Works 
-153.66500 	WNKN333 	RM	136.5 PL	GRNTLR WATER 	Water District 	FMN 	Public Works 
-153.66500 	KNKN333 	RM	023 DPL	GRNTLR WATER 	Water District 	FMN 	Public Works 
-151.77500 	WNJH211 		131.8 PL	GRN SKLS 	Board of Education 	FMN 	Schools 
-151.62500 	WNMG907 		127.3 PL	VISTA WOOD 	Vista Wood Products 	FMN 	Business 
-151.52000 	WPZU262 	BM	115 DPL	WENGRED 	Daniel Wengerd 	FMN 	Business 
-158.13000 	KNBJ676 		127.3 PL	EKY POWER 	Eastern KY Power Cooperative Inc. 	FMN 	Utilities 
+159.36750 	154.09250  	WQCT763 	RM	131.8 PL	GRNCO PD DSP 	Police Dispatch 	FMN 	Law Dispatch 
+155.61000 	   	KIP692 	RM	131.8 PL	GRNCO PD 	Police Dispatch 	FMN 	Deprecated 
+151.23500 	156.15750  	WQXK503 	RM		GRNSBG PD 1 	Greensburg Police 1 	FMN 	Law Dispatch 
+156.15750 	   	WQXK503 	M	654 DPL	GRNSBG PD 2 	Greensburg Police 2 	FMN 	Law Dispatch 
+154.32500 	150.77500  	WYZ396 	RM	156.7 PL	GRN CO FD DS 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.71500 	   	WYZ396 	BM	156.7 PL	GCFD 	Green County Fire Department 	FMN 	Fire Dispatch 
+154.35500 	153.83000  	WNNJ376 	RM	156.7 PL	SMRVL FD 	Summersville Volunteer Fire Dept. 	FMN 	Fire-Talk 
+155.04000 	153.78500  	WNWT702 	RM	127.3 PL	GRN CO Rsq 	Fire/Rescue Ch 1 	FMN 	EMS-Talk 
+453.76250 	458.76250  	WPWJ580 	RM	127.3 PL	GRN CO EMA 	Emergency Management 	FMN 	Emergency Ops 
+155.55750 	151.16750  	WPKH479 	RM	025 DPL	GCEMS-A 	EMS (Analog) 	FMN 	EMS Dispatch 
+155.55750 	151.16750  	WPKH479 	RM	556 NAC	GCEMS-D 	EMS (Digital) 	P25 	EMS Dispatch 
+151.16750 	   	WPKH479 	M	131.8 PL	GCEMS 	EMS  	FMN 	EMS-Talk 
+155.04000 	153.78500  	WNWT702 	RM	94.8 PL	GRN CO RSQ 	EMS/Rescue Ch 2 	FMN 	Emergency Ops 
+153.78500 	   	WNWT702 	M	156.7 PL	GRN CO RSQ 	Rescue Ch 4 	FMN 	EMS-Talk 
+155.34000 	   	KWO375 	BM	118.8 PL	EMS TO TODD  	EMS to Jane Todd Hospital 	FMN 	Hospital 
+153.66500 	158.16000  	KNKN333 	RM	23 RAN	GRNTLR WATER 	Water District 	NXDN 	Public Works 
+153.66500 	158.16000  	WNKN333 	RM	136.5 PL	GRNTLR WATER 	Water District 	FMN 	Public Works 
+153.66500 	158.16000  	KNKN333 	RM	023 DPL	GRNTLR WATER 	Water District 	FMN 	Public Works 
+151.77500 	   	WNJH211 		131.8 PL	GRN SKLS 	Board of Education 	FMN 	Schools 
+153.60500 	   	WNJH211 	BM		GRN SKLS 	Board of Education 	FMN 	Schools 
+151.62500 	   	WNMG907 		127.3 PL	VISTA WOOD 	Vista Wood Products 	FMN 	Deprecated 
+151.52000 	   	WPZU262 	BM	115 DPL	WENGRED 	Daniel Wengerd 	FMN 	Business 
+158.13000 	   	KNBJ676 		127.3 PL	EKY POWER 	Eastern KY Power Cooperative Inc. 	FMN 	Utilities 
 Greensburg Manufacturing	 LTR Passport	 Greensburg	

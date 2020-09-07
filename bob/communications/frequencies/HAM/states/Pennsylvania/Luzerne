@@ -1,180 +1,180 @@
-158.73000 	WDK38 	RM	156.7 PL	Lz PD Zone-A 	County PD Zone-A  Westside 	FMN 	Law Dispatch 
-151.26500 	WDK38 	RM	103.5 PL	Lz PD Zone-B 	County PD Zone-B  Central East 	FMN 	Law Dispatch 
-151.37000 	WDK38 	RM	131.8 PL	Lz PD Zone-C 	County PD Zone-C  Central West 	FMN 	Law Dispatch 
-155.07000 	WDK38 	RM	156.7 PL	Lz PD Zone-D 	County PD Zone-D  East 	FMN 	Law Dispatch 
-155.92500 	WDK38 	RM	156.7 PL	Lz PD Zone-E 	County PD Zone-E  South 	FMN 	Law Dispatch 
-155.76000 	WDK38 	RM	127.3 PL	Lz PD Zone-F 	County PD Zone-F  West 	FMN 	Law Dispatch 
-158.80500 	WDK38 	RM	156.7 PL	Lz PD Zone-G 	County PD Zone-G  North 	FMN 	Law Dispatch 
-155.41500 	WDK38 	RM	203.5 PL	LzCo SO Ops 	Sheriffs Dept 	FMN 	Law Dispatch 
-159.06000 	wdk38 	M	123.0 PL	LzCo SO Tac 	Sheriff Tac (Also Fireground) 	FM 	Law Tac 
-155.88000 	WNBV206 	BM	172 DPL	LzCo Prison 	Prison 	FM 	Corrections 
-155.70000 	WDK38 	RM	156.7 PL	Lz PD CoWide 	Police Countywide/Alerts 	FMN 	Law Tac 
-157.45000 	WPQB579 	B		LCFA Page 	Fire & EMS Paging 	FM 	Fire Dispatch 
-159.46500 	WDK38 	RM	156.7 PL	LCFA Primary 	Luzerne County Fire & Ambulance 	FM 	Fire-Tac 
-154.14500 	WDK38 	BM	156.7 PL	LCFA North 	Fire North 	FM 	Fire-Tac 
-154.72500 	KXR807 	RM	114.8 PL	LCFA Central 	Fire Central 	FM 	Fire-Tac 
-155.86500 	WDK38 	BM	156.7 PL	LCFA East 	Fire East 	FM 	Fire-Tac 
-154.32500 	KDY298 	RM	203.5 PL	LCFA South 	Fire South 	FM 	Fire-Tac 
-155.32500 	WDK38 	RM	100.0 PL	LCFA West 	Fire West (Shickshinny/Nescopeck area) 	FM 	Fire-Tac 
-159.06000 	WDK38 	M	206.5 PL	LCFA Firgrnd 	Fireground (Countywide) 	FM 	Fire-Tac 
-154.29500 	WDK38 	RM	114.8 PL	LCFA W-Side 	West Side Mutual Aid 	FM 	Fire-Tac 
-154.35500 	WPPC879 	RM	156.7 PL	LCFA Back Mt 	Back Mountain Mutual Aid 	FM 	Fire-Tac 
-154.41500 	WDK38 	RM	156.7 PL	LCFA Mtn Top 	Mountain Top Mutual Aid 	FM 	Fire-Tac 
-155.16000 	WQAH262 	BM	156.7 PL	LC EMS Pri 	Ambulance to Hospital (Primary) 	FM 	EMS-Tac 
-155.22000 	KDT264 	BM	156.7 PL	LC EMS Sec 	Ambulance to Hospital (Secondary) 	FM 	EMS-Tac 
-463.02500 	KDT264 	RM	203.5 PL	EMSNP Med 2 	EMSNP Med 2 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
-463.07500 	KDT264 	RM	CSQ	EMSNP Med 4 	EMSNP Med 4 - Ambulance to Hospital Comms (out of area units) 	FM 	EMS-Talk 
-463.12500 	KDT264 	RM	203.5 PL	EMSNP Med 6 	EMSNP Med 6 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
-463.17500 	KDT264 	RM	203.5 PL	EMSNP Med 8 	EMSNP Med 8 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
-154.13000 	WNJZ712 	M	67.0 PL	HARLAKE FG 	Harveys Lake Fire - Fireground 	FM 	Fire-Tac 
-154.29500 	 	M	156.7 PL	Hrwd Hzl F2 	Harwood Fire Co./West Hazleton F2 	FM 	Fire-Talk 
-156.06000 	WPSE391 	M	156.7 PL	LC DPW M-M 	County DPW Mobile-Mobile 	FM 	Public Works 
-158.83500 	WDK38 	RM	110.9 PL	LC EMA 	County EMA Repeater 	FM 	Emergency Ops 
-855.71250 	WPMZ512 	RM	CSQ	LC EMA - 911 	County F-1 Com to 911 Center 	FM 	Emergency Ops 
-156.24000 	WDK38 	RM	156.7 PL	LC DPW 	County Public Works / Engineers Office 	FM 	Public Works 
-155.65500 	WDK38 	RM	203.5 PL	LC Spare 	County Spare (Currently testing) 	FM 	Public Works 
-453.55000 	WQLH548 	RM	703 DPL	Luzerne PTA 	County Transit Authority - Buses 	FM 	Transportation 
-159.07500 	WPEQ274 	BM	156.7 PL	Ashley DPW 	Ashley Borough DPW 	FM 	Public Works 
-158.82000 	KBO902 	BM	125 DPL	Avoca FG/PD 	Avoca Fire Ground/PD 	FM 	Multi-Tac 
-153.98000 	WPAG240 	BM	156.7 PL	Back Mtn DPW 	Back Mountain PD/DPW 	FM 	Public Works 
-154.43000 	WNGK978 	BM	156.7 PL	BearCreek FD 	Bear Creek Township FD 	FM 	Fire-Tac 
-156.00000 	KNFQ709 	BM	156.7 PL	Butler PD/FD 	Butler Township PD/DPW/VRFD 	FM 	Multi-Tac 
-151.95500 	 	M	654 DPL	Cony Twp DPW 	Conyngham Township DPW  	FM 	Public Works 
-155.09250 	WQQL339 	BM	156.7 PL	Cony Twp FD 	Conyngham Township FD 	FMN 	Fire-Tac 
-155.04000 	KMA429 	BM	156.7 PL	Dallas PD/PW 	Dallas Borough/Township PD/DPW 	FM 	Multi-Tac 
-159.75750 	WPQG415 	RM	031 DPL	Back Mtn FG 	Dallas Fire FG2 / Back Mtn Fire Tac 1 	FM 	Fire-Tac 
-159.74250 	WQLE369 	RM	047 DPL	Dallas Tac 1 	Dallas Fire Tac 1 	FMN 	Fire-Tac 
-154.22000 	KBG204 	BM	156.7 PL	Dallas FG2 	Dallas Fire Tac-2 	FM 	Fire-Tac 
-154.16000 	WPKQ831 	BM	156.7 PL	Dennison FD 	Dennison Township Fire 	FM 	Fire-Tac 
-153.92000 	 	RM	156.7 PL	Dupont DPW 	DuPont DPW 	FM 	Public Works 
-158.82000 	WNIY654 	RM	125 DPL	Duryea DPW 	Duryea Fire Ops 1/2 DPW 	FM 	Fire-Tac 
-159.15000 	WNRW266 	BM	CSQ	Duryea PD 	Duryea PD 	FM 	Law Tac 
-155.08500 	KNBH979 	BM	156.7 PL	Edwrds PD/PW 	Edwardsville Borough DPW / PD Tac 	FM 	Law Tac 
-151.05500 	WPAB649 	BM		Exeter DPW 	Exeter DPW 	FM 	Public Works 
-154.25000 	KNIP487 	BM	156.7 PL	Exeter FG 	Exeter Fireground 	FM 	Fire-Tac 
-155.14500 	KCR431 	BM	156.7 PL	Exeter FG/PW 	Exeter Twp Zion FC Fireground / DPW 	FM 	Multi-Tac 
-155.12250 	WPRV591 	BM	156.7 PL	FairmntFG/PW 	Fairmont Fire/EMS/DPW 	FMN 	Multi-Tac 
-154.72500 	KXR807 	RM	114.8 PL	FortyFord FD 	Forty Ford/Kingston FD 	FM 	Fire Dispatch 
-159.01500 	WPFR646 	BM	156.7 PL	FFort FD/DPW 	Forty Fort FD/DPW 	FM 	Multi-Tac 
-156.03000 	KDD421 	M	156.7 PL	FFort FD/EMA 	Forty Fort Fire/EMA 	FM 	Fire-Tac 
-153.77000 	WYR712 	BM	156.7 PL	Freeland FD 	Freeland Borough Fire 	FM 	Fire-Tac 
-155.52000 	WNRA657 	BM	156.7 PL	Freeland PD 	Freeland Borough PD 	FM 	Law Tac 
-154.17500 	WNXQ517 	M	156.7 PL	Fearnot FD 	Freeland Fearnots Fire Stn-4 	FM 	Fire-Tac 
-155.84250 	WPLQ648 	BM		Hanover DPW 	Hanover Township DPW 	FM 	Public Works 
-155.77500 	WNFH696 	BM	156.7 PL	Hanover Fire 	Hanover Township Fire Dispatch / FG 	FM 	Fire-Tac 
-155.01000 	KGB259 	BM	156.7 PL	Hanover PD 	Hanover Township PD 	FM 	Law Tac 
-154.17500 	WNJZ712 	M	156.7 PL	Kunkle Fire 	Harveys Lake (Kunkle) Fire 	FM 	Fire-Tac 
-154.86000 	KNNG521 	BM	156.7 PL	H Lake PD/FD 	Harveys Lake PD/FD Fireground 	FM 	Multi-Tac 
-151.02500 	WQAZ677 	BM	162.2 PL	Hazle DPW 	Hazle Township DPW 	FM 	Public Works 
-154.13000 	KOB589 	RM	146.2 PL	Hazle Fire 	Hazle Township Fire 	FM 	Fire-Tac 
-155.28000 	WNQB829 	BM	156.7 PL	Hzltn APTS 	Hazleton American Patient Transport (APTS) 	FM 	EMS-Talk 
-156.21000 	KGB240 	RM	203.5 PL	Hazltn DPW 	Hazleton City DPW 	FMN 	Public Works 
-154.37000 	KDV812 	BM	203.5 PL	Hzltn Fire 	Hazleton City Fireground 	FM 	Fire-Tac 
-155.40000 	WNGB369 	BM		Hzltn EMS 	Hazleton EMS Dispatch 	FM 	Emergency Ops 
-453.26250 	WNZC285 	M		Hzltn PW 	Hazleton Municipal Services 	FM 	Public Works 
-453.28750 	WNZC285 	M		Hzltn PW 	Hazleton Municipal Services 	FM 	Public Works 
-151.11500 	KGB240 	RM	118.8 PL	Hzltn PD 1 	Hazleton Police 1 	FM 	Law Dispatch 
-453.58750 	WPMN564 	RM	032 DPL	Hazleton PTA 	Hazleton Public Transit Authority 	FM 	Transportation 
-158.77500 	WNJM743 	BM		Hollenbk DPW 	Hollenback Township DPW 	FM 	Public Works 
-151.04000 	WQAB837 	BM	CSQ	Hunlock DPW 	Hunlock DPW 	FM 	Public Works 
-154.28000 	WPHT666 	M	156.7 PL	HuntMills FD 	Huntington Mills FD Tac 	FM 	Fire-Tac 
-154.04000 	KNIW899 	BM		Hunt DPW 	Huntington Township DPW 	FM 	Public Works 
-158.92500 	WPCI521 	BM	156.7 PL	Jackson DPW 	Jackson Township DPW 	FM 	Public Works 
-151.77500 	WPHQ980 	BM		Jackson EMS 	Jackson Township EMS 	FM 	EMS-Tac 
-155.76000 	KFO956 	BM	156.7 PL	Jenkins PD 	Jenkins Township PD 	FM 	Law Tac 
-155.11500 	KUJ786 	BM	156.7 PL	Kingston DPW 	Kingston Borough DPW 	FM 	Public Works 
-154.99500 	KXR807 	RM	156.7 PL	Kingston PD1 	Kingston Police Dispatch 	FM 	Law Dispatch 
-153.95000 	WPDV968 	BM		Laflin Fire 	Laflin Fire 	FM 	Fire-Tac 
-159.19500 	WPCS969 	BM	156.7 PL	LarksvillePW 	Larksville DPW 	FM 	Public Works 
-154.98000 	KBG239 	BM	156.7 PL	LarksvilleFG 	Larksville Fire Ground 	FM 	Fire-Tac 
-155.25000 	KGB477 	BM		Lark-Ply PD 	Larksville, Plymouth, Edwardsville PD 	FM 	Law Tac 
-151.02500 	WNIM366 	BM	156.7 PL	Lehman FD/DP 	Lehman FD/DP 	FM 	Fire-Tac 
-151.23500 	KNNT929 	BM	156.7 PL	LzrnBoro DPW 	Luzerne DPW (also Nanticoke) 	FM 	Public Works 
-152.28500 	 	RM	156.7 PL	LzrnBoro EMS 	Luzerne EMS 	FM 	EMS-Tac 
-154.20500 	WPBC924 	BM	156.7 PL	LzrnBoro FD 	Luzerne Fire 	FM 	Fire-Tac 
-154.41500 	KUY447 	BM	156.7 PL	MtnTop Fire 	Mountaintop Hose Company Fire Dispatch / FG 	FM 	Fire-Tac 
-154.96500 	KDD421 	BM	141.3 PL	Nanticok Mtn 	Nanticoke Building Maintenance 	FM 	Public Works 
-155.20500 	KB91721 	M	103.5 PL	Nanticok EMA 	Nanticoke EMA 	FM 	Emergency Ops 
-151.23500 	WPUK273 	BM		Nantk EMS 2 	Nanticoke EMS -2 	FM 	EMS-Tac 
-153.90500 	KD28254 	BM	103.5 PL	Nanticok FD 	Nanticoke Fire 	FM 	Fire-Tac 
-158.94000 	KDD421 	RM	103.5 PL	Nanticok FD1 	Nanticoke Fire Ops 1 	FM 	Fire-Tac 
-154.96500 	KDD421 	BM	114.8 PL	Nanticok FD2 	Nanticoke Fire Ops 2 	FM 	Fire-Tac 
-154.71000 	KDD421 	M	103.5 PL	Nantk PD 	Nanticoke PD 	FM 	Law Tac 
-158.95500 	KDD421 	BM	CSQ	Nantk PD 	Nanticoke PD 	FM 	Law Tac 
-159.31500 	KDD421 	RM	103.5 PL	Nantk PD Tac 	Nanticoke PD Tac 	FM 	Law Tac 
-151.23500 	WPUK273 	BM	94.8 PL	Nanticok DPW 	Nanticoke Public Works 	FMN 	Public Works 
-154.96500 	KDD421 	BM	94.8 PL	Nanticok DPW 	Nanticoke Public Works 	FM 	Public Works 
-154.85250 	WQMR447 	BM		Nescopek DPW 	Nescopeck Boro DPW 	FMN 	Public Works 
-46.12000 	 	BM		Nescopk Col 	Nescopeck Boro Fire (Dispatch for Columbia County) 	FM 	Fire Dispatch 
-155.32500 	KNCC234 	BM		Nescopk LC 	Nescopeck Boro Fire (Dispatch for Luzerne County) 	FM 	Fire Dispatch 
-151.20500 	WPOZ458 	BM	141.3 PL	Nescopk Fire 	Nescopeck Township Fire/DPW/PD 	FM 	Multi-Tac 
-155.62500 	KJD410 	BM	156.7 PL	Newport PD 	NewPort Township PD 	FM 	Law Tac 
-155.62500 	KJD410 	BM	156.7 PL	Newport Fire 	Newport Township Fire 	FM 	Fire-Tac 
-150.99500 	WNXE242 	BM	CSQ	Pittston PD2 	Pittiston PD F-2 Road 	FM 	Law Tac 
-155.74500 	KNFQ489 	BM	CSQ	Pittston EMS 	Pittston Ambulance 	FM 	EMS-Tac 
-154.07000 	KYU924 	BM	156.7 PL	Pittston M/A 	Pittston Area Mutual Aid 	FM 	Interop 
-151.01000 	WPQF572 	BM	156.7 PL	PittstonEMS1 	Pittston EMS 1 	FM 	EMS-Tac 
-155.13000 	WPCA498 	BM	156.7 PL	Pittston PD1 	Pittston PD 	FM 	Law Tac 
-151.07750 	WPQF572 	BM	205 DPL	Pittston FG 	Pittston Township EMS/FG 	FM 	Multi-Tac 
-154.11500 	WNGN646 	BM	156.7 PL	Plains Fire1 	Plains Township PD 	FM 	Law Tac 
-158.86500 	WPJP568 	BM	156.7 PL	Plains Fire2 	Plains Township PD 	FM 	Law Tac 
-159.39000 	WPLD237 	BM	136.5 PL	Plymouth PD 	Plymouth Borough PW PD TAC 	FM 	Law Tac 
-154.44500 	KMA336 	B	156.7 PL	Plymouth FD 	Plymouth FC Dispatch/FG 	FM 	Fire-Tac 
-154.40000 	WNXP862 	BM	156.7 PL	Plymouh FG 	Plymouth Township FG 	FM 	Fire-Tac 
-156.10500 	WNVR656 	BM	162.2 PL	Salem DPW 	Salem Township DPW 	FM 	Public Works 
-153.83000 	WQWZ706 	M		Salem VFD 	Salem Township VFD 	FMN 	Fire-Tac 
-154.16000 	KNAE719 	BM	156.7 PL	Shick FD 	Shickshinny/Hunlock Creek Fire 	FM 	Fire-Tac 
-154.25000 	KNIP487 	RM	156.7 PL	Sloc/DorasFD 	Slocum, Dorrance Fireground 	FM 	Fire-Tac 
-154.01000 	KNFG752 	M	156.7 PL	F-South FG 1 	Suburban Depts Fireground 1 	FM 	Fire-Tac 
-154.40000 	KNFG752 	M	156.7 PL	F-South FG 2 	Suburban Depts Fireground 2 	FM 	Fire-Tac 
-154.38500 	KNFG752 	BM	156.7 PL	F-South IC 	Suburban Incident Command 	FM 	Fire-Tac 
-155.14500 	KCR431 	BM	156.7 PL	Sugarloaf PD 	Sugarloaf Township PD/DPW (Local) 	FM 	Multi-Tac 
-155.98500 	KQF757 	BM	156.7 PL	Swoyervil PD 	Swoyerville PD/DPW 	FM 	Multi-Tac 
-152.94500 	WQQB682   	RM	172 DPL	Trucksvil FD 	Trucksville Fire 	FMN 	Fire-Tac 
-155.26500 	WPUN748 	BM	156.7 PL	VR EMS 1 	Valley Regional (ex Butler) EMS 1 	FM 	EMS-Tac 
-155.71500 	WNSG906 	BM	156.7 PL	VR East 	Valley Regional (ex Conyngham) Fire Stn-2 	FM 	Fire-Tac 
-154.38500 	KNCP971 	BM	156.7 PL	WRun-SN FD 	Warrior Run, Laurel Run, Sugar Notch Fire 	FM 	Fire-Tac 
-155.10000 	KTI536 	BM	156.7 PL	W Hzl FD/PW 	West Hazleton Borough FD/DPW 	FM 	Multi-Tac 
-155.13000 	WPCA498 	BM	156.7 PL	W Pitts PD 	West Pittston Borough PD 	FM 	Law Tac 
-154.34000 	WNFT507 	BM	156.7 PL	W Pitts FD 	West Pittston Fire 	FM 	Fire-Tac 
-153.77000 	WYR712 	BM	114.8 PL	WSMA FG2 	West Side Mutual Aid FG 	FM 	Interop 
-153.95000 	WNSU338 	M	114.8 PL	WSMA FG1 	West Side Mutual Aid FG 	FM 	Interop 
-155.25000 	KBQ785 	BM	156.7 PL	W-side PD 	West Side Police 	FM 	Law Tac 
-155.28000 	WNKW605 	BM	156.7 PL	Wht Hvn EMS 	White Haven EMS 	FM 	EMS-Talk 
-154.20500 	KDY298 	BM	156.7 PL	W Haven FD 	White Haven FC FP/FG 	FM 	Fire-Tac 
-154.19000 	KYG751 	BM		WB Twp Fire 	Wilkes-Barre Township Fire - VHF Backup 	FM 	Fire-Tac 
-155.61000 	KLI392 	BM	156.7 PL	WB Twp PD 	Wilkes-Barre Township PD 	FM 	Law Tac 
-156.18000 	WNNS573 	BM	156.7 PL	Wright DPW 	Wright Township DPW & Fire Tac Ch 3 	FM 	Multi-Tac 
-151.07000 	WQIG398 	RM	365 DPL	Wright FD 	Wright Township FD 	FM 	Fire-Tac 
-155.89500 	WPMW630 	RM	156.7 PL	Wright PD 	Wright Township PD Tac/FD Ch-2 	FM 	Law Tac 
-154.23500 	WNBS978 	BM	156.7 PL	Wyoming Fire 	Wyoming Borough Fire Ground 	FM 	Fire-Tac 
-155.94000 	WPXQ425 	RM	82.5 PL	WB Fire Disp 	Wilkes Barre Fire Dispatch (different tone on input) 	FM 	Fire Dispatch 
-153.83000 	KD49896 	M	82.5 PL	WB Frgrnd 	Wilkes Barre Fire Fireground 	FM 	Fire-Tac 
-154.84500 	KGB256 	RM	82.5 PL	WB City PD 1 	Wilkes Barre Police 1 	FM 	Law Dispatch 
-154.80000 	WPKW723 	RM	146.2 PL	WB City PD 2 	Wilkes Barre Police 2 	FM 	Law Tac 
-155.97000 	WPKW723 	BM	151.4 PL	WB City PD 3 	Wilkes Barre Police 3 - Tactical 	FM 	Law Tac 
-151.13000 	KFG524 	BM		WB City PW 	Wilkes Barre Public Works 	FM 	Public Works 
-461.30000 	 WQHN871  	RM	CC 1TG 100SL 1	GWV Security 	Security 	DMR 	Security 
-461.30000 	WQHN871 	RM	CC 1TG 200SL 2	GWV Maintenance  	Maintenance  	DMR 	Hospital 
-152.37500 	WPVB928 		205 DPL	Pace Trans 	Pace Transport (Wyoming Area SD Buses) 	FM 	Schools 
-155.20500 	WPQF645 	RM	156.7 PL	Pitt Schools 	Pittston Area School District 	FM 	Schools 
-159.66250 	WPQG415 	RM	125 DPL	LL Sch Bus 	Back Mtn Transit, Lake Lehman School Dist 	FM 	Schools 
-467.87500 	 	M	CSQ	Hazelton SD 	Hazleton Area School District, Security and Janitors 	FM 	Schools 
-467.90000 	 	M		Castle Elem  	The Castle Elementry School (HASD) 	FM 	Schools 
-853.48750 	 	RM		WB Schools 	 Wilkes-Barre Area School District 	FM 	Schools 
-152.36000 	WPXP933 	RM	250.3 PL	Kings Sec 	Kings College - Security 	FM 	Security 
-157.68000 	WPXP933 	BM	141.3 PL	Kings Sec2 	Kings College - Security 2 	FM 	Security 
-152.90000 	WPXP933 	RM	125 DPL	Kings Sports 	Kings College - Sports Activities Support 	FM 	Schools 
-159.84000 	WPXP933 		223 DPL	Kings Maint 	Kings College Maintenance  	FM 	Schools 
-152.42000 	WPXP933 	BM	125 DPL	Kings Maint2 	Kings College Maintenance 2 	FM 	Schools 
-152.30000 	WQJL937 	BM	371 DPL	LCC Security 	Luzerne Community College - Security 	FM 	Security 
-154.50500 	 	RM	047 DPL	MisUniv Sec 	Misercordia University - Security   	FMN 	Security 
-151.68500 	KWG766 	RM	110.9 PL	PSU PD Lehmn 	Penn State University Lehman - Police 	FM 	Law Tac 
-151.68500 	KWG766 	RM	156.7 PL	PSU Lehman 	Penn State University Lehman - Security 	FM 	Security 
-153.44750 	WPRA678 	RM	CC 1TG 1SL 1	Wilkes DPS 	Wilkes University - Dept. of Public Safety 	DMR 	Security 
-461.10000 	 		CSQ	Wilkes Sec 	Wilkes University - Security (LTR) 	FM 	Security 
-461.60000 	WPRA678 	RM	156.7 PL	Wilkes Univ 	Wilkes University 	FM 	Schools 
-Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Industrial Electronics (Hazleton)	 LTR Standard	 Hazleton	Industrial Electronics (Mountain Top)	 LTR Standard
- Mountain Top	Interstate Repeater System	 DMR Conventional Networked	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Mohegan Sun Pocono
- DMR Motorola Capacity Plus Single Site (TRBO)	 Wilkes-Barre	Mol Communications and Electronics	 LTR Standard	 Mountain Top	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various
-Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Susquehanna Nuclear Power Plant	 LTR Standard	 Salem	
+158.73000 	155.59500  	WDK38 	RM	156.7 PL	Lz PD Zone-A 	County PD Zone-A  Westside 	FMN 	Law Dispatch 
+151.26500 	158.98500  	WDK38 	RM	103.5 PL	Lz PD Zone-B 	County PD Zone-B  Central East 	FMN 	Law Dispatch 
+151.37000 	155.56500  	WDK38 	RM	131.8 PL	Lz PD Zone-C 	County PD Zone-C  Central West 	FMN 	Law Dispatch 
+155.07000 	155.53500  	WDK38 	RM	156.7 PL	Lz PD Zone-D 	County PD Zone-D  East 	FMN 	Law Dispatch 
+155.92500 	158.74500  	WDK38 	RM	156.7 PL	Lz PD Zone-E 	County PD Zone-E  South 	FMN 	Law Dispatch 
+155.76000 	153.86000  	WDK38 	RM	127.3 PL	Lz PD Zone-F 	County PD Zone-F  West 	FMN 	Law Dispatch 
+158.80500 	156.22500  	WDK38 	RM	156.7 PL	Lz PD Zone-G 	County PD Zone-G  North 	FMN 	Law Dispatch 
+155.41500 	151.31000  	WDK38 	RM	203.5 PL	LzCo SO Ops 	Sheriffs Dept 	FMN 	Law Dispatch 
+159.06000 	   	wdk38 	M	123.0 PL	LzCo SO Tac 	Sheriff Tac (Also Fireground) 	FM 	Law Tac 
+155.88000 	   	WNBV206 	BM	172 DPL	LzCo Prison 	Prison 	FM 	Corrections 
+155.70000 	154.74000  	WDK38 	RM	156.7 PL	Lz PD CoWide 	Police Countywide/Alerts 	FMN 	Law Tac 
+157.45000 	   	WPQB579 	B		LCFA Page 	Fire & EMS Paging 	FM 	Fire Dispatch 
+159.46500 	155.02500  	WDK38 	RM	156.7 PL	LCFA Primary 	Luzerne County Fire & Ambulance 	FM 	Fire-Tac 
+154.14500 	   	WDK38 	BM	156.7 PL	LCFA North 	Fire North 	FM 	Fire-Tac 
+154.72500 	159.24000  	KXR807 	RM	114.8 PL	LCFA Central 	Fire Central 	FM 	Fire-Tac 
+155.86500 	   	WDK38 	BM	156.7 PL	LCFA East 	Fire East 	FM 	Fire-Tac 
+154.32500 	153.89000  	KDY298 	RM	203.5 PL	LCFA South 	Fire South 	FM 	Fire-Tac 
+155.32500 	   	WDK38 	RM	100.0 PL	LCFA West 	Fire West (Shickshinny/Nescopeck area) 	FM 	Fire-Tac 
+159.06000 	   	WDK38 	M	206.5 PL	LCFA Firgrnd 	Fireground (Countywide) 	FM 	Fire-Tac 
+154.29500 	   	WDK38 	RM	114.8 PL	LCFA W-Side 	West Side Mutual Aid 	FM 	Fire-Tac 
+154.35500 	150.79000  	WPPC879 	RM	156.7 PL	LCFA Back Mt 	Back Mountain Mutual Aid 	FM 	Fire-Tac 
+154.41500 	   	WDK38 	RM	156.7 PL	LCFA Mtn Top 	Mountain Top Mutual Aid 	FM 	Fire-Tac 
+155.16000 	   	WQAH262 	BM	156.7 PL	LC EMS Pri 	Ambulance to Hospital (Primary) 	FM 	EMS-Tac 
+155.22000 	   	KDT264 	BM	156.7 PL	LC EMS Sec 	Ambulance to Hospital (Secondary) 	FM 	EMS-Tac 
+463.02500 	468.02500  	KDT264 	RM	203.5 PL	EMSNP Med 2 	EMSNP Med 2 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
+463.07500 	468.07500  	KDT264 	RM	CSQ	EMSNP Med 4 	EMSNP Med 4 - Ambulance to Hospital Comms (out of area units) 	FM 	EMS-Talk 
+463.12500 	468.12500  	KDT264 	RM	203.5 PL	EMSNP Med 6 	EMSNP Med 6 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
+463.17500 	468.17500  	KDT264 	RM	203.5 PL	EMSNP Med 8 	EMSNP Med 8 - Ambulance to Hospital Comms 	FM 	EMS-Talk 
+154.13000 	   	WNJZ712 	M	67.0 PL	HARLAKE FG 	Harveys Lake Fire - Fireground 	FM 	Fire-Tac 
+154.29500 	   	 	M	156.7 PL	Hrwd Hzl F2 	Harwood Fire Co./West Hazleton F2 	FM 	Fire-Talk 
+156.06000 	   	WPSE391 	M	156.7 PL	LC DPW M-M 	County DPW Mobile-Mobile 	FM 	Public Works 
+158.83500 	154.10000  	WDK38 	RM	110.9 PL	LC EMA 	County EMA Repeater 	FM 	Emergency Ops 
+855.71250 	810.71250  	WPMZ512 	RM	CSQ	LC EMA - 911 	County F-1 Com to 911 Center 	FM 	Emergency Ops 
+156.24000 	159.16500  	WDK38 	RM	156.7 PL	LC DPW 	County Public Works / Engineers Office 	FM 	Public Works 
+155.65500 	   	WDK38 	RM	203.5 PL	LC Spare 	County Spare (Currently testing) 	FM 	Public Works 
+453.55000 	458.55000  	WQLH548 	RM	703 DPL	Luzerne PTA 	County Transit Authority - Buses 	FM 	Transportation 
+159.07500 	   	WPEQ274 	BM	156.7 PL	Ashley DPW 	Ashley Borough DPW 	FM 	Public Works 
+158.82000 	   	KBO902 	BM	125 DPL	Avoca FG/PD 	Avoca Fire Ground/PD 	FM 	Multi-Tac 
+153.98000 	   	WPAG240 	BM	156.7 PL	Back Mtn DPW 	Back Mountain PD/DPW 	FM 	Public Works 
+154.43000 	   	WNGK978 	BM	156.7 PL	BearCreek FD 	Bear Creek Township FD 	FM 	Fire-Tac 
+156.00000 	   	KNFQ709 	BM	156.7 PL	Butler PD/FD 	Butler Township PD/DPW/VRFD 	FM 	Multi-Tac 
+151.95500 	   	 	M	654 DPL	Cony Twp DPW 	Conyngham Township DPW  	FM 	Public Works 
+155.09250 	   	WQQL339 	BM	156.7 PL	Cony Twp FD 	Conyngham Township FD 	FMN 	Fire-Tac 
+155.04000 	   	KMA429 	BM	156.7 PL	Dallas PD/PW 	Dallas Borough/Township PD/DPW 	FM 	Multi-Tac 
+159.75750 	151.85000  	WPQG415 	RM	031 DPL	Back Mtn FG 	Dallas Fire FG2 / Back Mtn Fire Tac 1 	FM 	Fire-Tac 
+159.74250 	151.58750  	WQLE369 	RM	047 DPL	Dallas Tac 1 	Dallas Fire Tac 1 	FMN 	Fire-Tac 
+154.22000 	   	KBG204 	BM	156.7 PL	Dallas FG2 	Dallas Fire Tac-2 	FM 	Fire-Tac 
+154.16000 	   	WPKQ831 	BM	156.7 PL	Dennison FD 	Dennison Township Fire 	FM 	Fire-Tac 
+153.92000 	   	 	RM	156.7 PL	Dupont DPW 	DuPont DPW 	FM 	Public Works 
+158.82000 	156.13500  	WNIY654 	RM	125 DPL	Duryea DPW 	Duryea Fire Ops 1/2 DPW 	FM 	Fire-Tac 
+159.15000 	   	WNRW266 	BM	CSQ	Duryea PD 	Duryea PD 	FM 	Law Tac 
+155.08500 	   	KNBH979 	BM	156.7 PL	Edwrds PD/PW 	Edwardsville Borough DPW / PD Tac 	FM 	Law Tac 
+151.05500 	   	WPAB649 	BM		Exeter DPW 	Exeter DPW 	FM 	Public Works 
+154.25000 	   	KNIP487 	BM	156.7 PL	Exeter FG 	Exeter Fireground 	FM 	Fire-Tac 
+155.14500 	   	KCR431 	BM	156.7 PL	Exeter FG/PW 	Exeter Twp Zion FC Fireground / DPW 	FM 	Multi-Tac 
+155.12250 	   	WPRV591 	BM	156.7 PL	FairmntFG/PW 	Fairmont Fire/EMS/DPW 	FMN 	Multi-Tac 
+154.72500 	   	KXR807 	RM	114.8 PL	FortyFord FD 	Forty Ford/Kingston FD 	FM 	Fire Dispatch 
+159.01500 	   	WPFR646 	BM	156.7 PL	FFort FD/DPW 	Forty Fort FD/DPW 	FM 	Multi-Tac 
+156.03000 	   	KDD421 	M	156.7 PL	FFort FD/EMA 	Forty Fort Fire/EMA 	FM 	Fire-Tac 
+153.77000 	   	WYR712 	BM	156.7 PL	Freeland FD 	Freeland Borough Fire 	FM 	Fire-Tac 
+155.52000 	   	WNRA657 	BM	156.7 PL	Freeland PD 	Freeland Borough PD 	FM 	Law Tac 
+154.17500 	   	WNXQ517 	M	156.7 PL	Fearnot FD 	Freeland Fearnots Fire Stn-4 	FM 	Fire-Tac 
+155.84250 	   	WPLQ648 	BM		Hanover DPW 	Hanover Township DPW 	FM 	Public Works 
+155.77500 	   	WNFH696 	BM	156.7 PL	Hanover Fire 	Hanover Township Fire Dispatch / FG 	FM 	Fire-Tac 
+155.01000 	   	KGB259 	BM	156.7 PL	Hanover PD 	Hanover Township PD 	FM 	Law Tac 
+154.17500 	   	WNJZ712 	M	156.7 PL	Kunkle Fire 	Harveys Lake (Kunkle) Fire 	FM 	Fire-Tac 
+154.86000 	   	KNNG521 	BM	156.7 PL	H Lake PD/FD 	Harveys Lake PD/FD Fireground 	FM 	Multi-Tac 
+151.02500 	   	WQAZ677 	BM	162.2 PL	Hazle DPW 	Hazle Township DPW 	FM 	Public Works 
+154.13000 	150.77500  	KOB589 	RM	146.2 PL	Hazle Fire 	Hazle Township Fire 	FM 	Fire-Tac 
+155.28000 	   	WNQB829 	BM	156.7 PL	Hzltn APTS 	Hazleton American Patient Transport (APTS) 	FM 	EMS-Talk 
+156.21000 	158.97000  	KGB240 	RM	203.5 PL	Hazltn DPW 	Hazleton City DPW 	FMN 	Public Works 
+154.37000 	   	KDV812 	BM	203.5 PL	Hzltn Fire 	Hazleton City Fireground 	FM 	Fire-Tac 
+155.40000 	   	WNGB369 	BM		Hzltn EMS 	Hazleton EMS Dispatch 	FM 	Emergency Ops 
+453.26250 	   	WNZC285 	M		Hzltn PW 	Hazleton Municipal Services 	FM 	Public Works 
+453.28750 	   	WNZC285 	M		Hzltn PW 	Hazleton Municipal Services 	FM 	Public Works 
+151.11500 	156.04500  	KGB240 	RM	118.8 PL	Hzltn PD 1 	Hazleton Police 1 	FM 	Law Dispatch 
+453.58750 	458.58750  	WPMN564 	RM	032 DPL	Hazleton PTA 	Hazleton Public Transit Authority 	FM 	Transportation 
+158.77500 	   	WNJM743 	BM		Hollenbk DPW 	Hollenback Township DPW 	FM 	Public Works 
+151.04000 	   	WQAB837 	BM	CSQ	Hunlock DPW 	Hunlock DPW 	FM 	Public Works 
+154.28000 	   	WPHT666 	M	156.7 PL	HuntMills FD 	Huntington Mills FD Tac 	FM 	Fire-Tac 
+154.04000 	   	KNIW899 	BM		Hunt DPW 	Huntington Township DPW 	FM 	Public Works 
+158.92500 	   	WPCI521 	BM	156.7 PL	Jackson DPW 	Jackson Township DPW 	FM 	Public Works 
+151.77500 	   	WPHQ980 	BM		Jackson EMS 	Jackson Township EMS 	FM 	EMS-Tac 
+155.76000 	   	KFO956 	BM	156.7 PL	Jenkins PD 	Jenkins Township PD 	FM 	Law Tac 
+155.11500 	   	KUJ786 	BM	156.7 PL	Kingston DPW 	Kingston Borough DPW 	FM 	Public Works 
+154.99500 	159.27000  	KXR807 	RM	156.7 PL	Kingston PD1 	Kingston Police Dispatch 	FM 	Law Dispatch 
+153.95000 	   	WPDV968 	BM		Laflin Fire 	Laflin Fire 	FM 	Fire-Tac 
+159.19500 	   	WPCS969 	BM	156.7 PL	LarksvillePW 	Larksville DPW 	FM 	Public Works 
+154.98000 	   	KBG239 	BM	156.7 PL	LarksvilleFG 	Larksville Fire Ground 	FM 	Fire-Tac 
+155.25000 	   	KGB477 	BM		Lark-Ply PD 	Larksville, Plymouth, Edwardsville PD 	FM 	Law Tac 
+151.02500 	   	WNIM366 	BM	156.7 PL	Lehman FD/DP 	Lehman FD/DP 	FM 	Fire-Tac 
+151.23500 	   	KNNT929 	BM	156.7 PL	LzrnBoro DPW 	Luzerne DPW (also Nanticoke) 	FM 	Public Works 
+152.28500 	   	 	RM	156.7 PL	LzrnBoro EMS 	Luzerne EMS 	FM 	EMS-Tac 
+154.20500 	   	WPBC924 	BM	156.7 PL	LzrnBoro FD 	Luzerne Fire 	FM 	Fire-Tac 
+154.41500 	   	KUY447 	BM	156.7 PL	MtnTop Fire 	Mountaintop Hose Company Fire Dispatch / FG 	FM 	Fire-Tac 
+154.96500 	   	KDD421 	BM	141.3 PL	Nanticok Mtn 	Nanticoke Building Maintenance 	FM 	Public Works 
+155.20500 	   	KB91721 	M	103.5 PL	Nanticok EMA 	Nanticoke EMA 	FM 	Emergency Ops 
+151.23500 	   	WPUK273 	BM		Nantk EMS 2 	Nanticoke EMS -2 	FM 	EMS-Tac 
+153.90500 	   	KD28254 	BM	103.5 PL	Nanticok FD 	Nanticoke Fire 	FM 	Fire-Tac 
+158.94000 	153.90500  	KDD421 	RM	103.5 PL	Nanticok FD1 	Nanticoke Fire Ops 1 	FM 	Fire-Tac 
+154.96500 	   	KDD421 	BM	114.8 PL	Nanticok FD2 	Nanticoke Fire Ops 2 	FM 	Fire-Tac 
+154.71000 	   	KDD421 	M	103.5 PL	Nantk PD 	Nanticoke PD 	FM 	Law Tac 
+158.95500 	   	KDD421 	BM	CSQ	Nantk PD 	Nanticoke PD 	FM 	Law Tac 
+159.31500 	156.03000  	KDD421 	RM	103.5 PL	Nantk PD Tac 	Nanticoke PD Tac 	FM 	Law Tac 
+151.23500 	   	WPUK273 	BM	94.8 PL	Nanticok DPW 	Nanticoke Public Works 	FMN 	Public Works 
+154.96500 	   	KDD421 	BM	94.8 PL	Nanticok DPW 	Nanticoke Public Works 	FM 	Public Works 
+154.85250 	   	WQMR447 	BM		Nescopek DPW 	Nescopeck Boro DPW 	FMN 	Public Works 
+46.12000 	   	 	BM		Nescopk Col 	Nescopeck Boro Fire (Dispatch for Columbia County) 	FM 	Fire Dispatch 
+155.32500 	   	KNCC234 	BM		Nescopk LC 	Nescopeck Boro Fire (Dispatch for Luzerne County) 	FM 	Fire Dispatch 
+151.20500 	   	WPOZ458 	BM	141.3 PL	Nescopk Fire 	Nescopeck Township Fire/DPW/PD 	FM 	Multi-Tac 
+155.62500 	   	KJD410 	BM	156.7 PL	Newport PD 	NewPort Township PD 	FM 	Law Tac 
+155.62500 	   	KJD410 	BM	156.7 PL	Newport Fire 	Newport Township Fire 	FM 	Fire-Tac 
+150.99500 	   	WNXE242 	BM	CSQ	Pittston PD2 	Pittiston PD F-2 Road 	FM 	Law Tac 
+155.74500 	   	KNFQ489 	BM	CSQ	Pittston EMS 	Pittston Ambulance 	FM 	EMS-Tac 
+154.07000 	   	KYU924 	BM	156.7 PL	Pittston M/A 	Pittston Area Mutual Aid 	FM 	Interop 
+151.01000 	   	WPQF572 	BM	156.7 PL	PittstonEMS1 	Pittston EMS 1 	FM 	EMS-Tac 
+155.13000 	   	WPCA498 	BM	156.7 PL	Pittston PD1 	Pittston PD 	FM 	Law Tac 
+151.07750 	   	WPQF572 	BM	205 DPL	Pittston FG 	Pittston Township EMS/FG 	FM 	Multi-Tac 
+154.11500 	   	WNGN646 	BM	156.7 PL	Plains Fire1 	Plains Township PD 	FM 	Law Tac 
+158.86500 	   	WPJP568 	BM	156.7 PL	Plains Fire2 	Plains Township PD 	FM 	Law Tac 
+159.39000 	   	WPLD237 	BM	136.5 PL	Plymouth PD 	Plymouth Borough PW PD TAC 	FM 	Law Tac 
+154.44500 	   	KMA336 	B	156.7 PL	Plymouth FD 	Plymouth FC Dispatch/FG 	FM 	Fire-Tac 
+154.40000 	   	WNXP862 	BM	156.7 PL	Plymouh FG 	Plymouth Township FG 	FM 	Fire-Tac 
+156.10500 	   	WNVR656 	BM	162.2 PL	Salem DPW 	Salem Township DPW 	FM 	Public Works 
+153.83000 	   	WQWZ706 	M		Salem VFD 	Salem Township VFD 	FMN 	Fire-Tac 
+154.16000 	   	KNAE719 	BM	156.7 PL	Shick FD 	Shickshinny/Hunlock Creek Fire 	FM 	Fire-Tac 
+154.25000 	   	KNIP487 	RM	156.7 PL	Sloc/DorasFD 	Slocum, Dorrance Fireground 	FM 	Fire-Tac 
+154.01000 	   	KNFG752 	M	156.7 PL	F-South FG 1 	Suburban Depts Fireground 1 	FM 	Fire-Tac 
+154.40000 	   	KNFG752 	M	156.7 PL	F-South FG 2 	Suburban Depts Fireground 2 	FM 	Fire-Tac 
+154.38500 	   	KNFG752 	BM	156.7 PL	F-South IC 	Suburban Incident Command 	FM 	Fire-Tac 
+155.14500 	   	KCR431 	BM	156.7 PL	Sugarloaf PD 	Sugarloaf Township PD/DPW (Local) 	FM 	Multi-Tac 
+155.98500 	   	KQF757 	BM	156.7 PL	Swoyervil PD 	Swoyerville PD/DPW 	FM 	Multi-Tac 
+152.94500 	159.94500  	WQQB682   	RM	172 DPL	Trucksvil FD 	Trucksville Fire 	FMN 	Fire-Tac 
+155.26500 	   	WPUN748 	BM	156.7 PL	VR EMS 1 	Valley Regional (ex Butler) EMS 1 	FM 	EMS-Tac 
+155.71500 	   	WNSG906 	BM	156.7 PL	VR East 	Valley Regional (ex Conyngham) Fire Stn-2 	FM 	Fire-Tac 
+154.38500 	   	KNCP971 	BM	156.7 PL	WRun-SN FD 	Warrior Run, Laurel Run, Sugar Notch Fire 	FM 	Fire-Tac 
+155.10000 	   	KTI536 	BM	156.7 PL	W Hzl FD/PW 	West Hazleton Borough FD/DPW 	FM 	Multi-Tac 
+155.13000 	   	WPCA498 	BM	156.7 PL	W Pitts PD 	West Pittston Borough PD 	FM 	Law Tac 
+154.34000 	   	WNFT507 	BM	156.7 PL	W Pitts FD 	West Pittston Fire 	FM 	Fire-Tac 
+153.77000 	   	WYR712 	BM	114.8 PL	WSMA FG2 	West Side Mutual Aid FG 	FM 	Interop 
+153.95000 	   	WNSU338 	M	114.8 PL	WSMA FG1 	West Side Mutual Aid FG 	FM 	Interop 
+155.25000 	   	KBQ785 	BM	156.7 PL	W-side PD 	West Side Police 	FM 	Law Tac 
+155.28000 	   	WNKW605 	BM	156.7 PL	Wht Hvn EMS 	White Haven EMS 	FM 	EMS-Talk 
+154.20500 	   	KDY298 	BM	156.7 PL	W Haven FD 	White Haven FC FP/FG 	FM 	Fire-Tac 
+154.19000 	   	KYG751 	BM		WB Twp Fire 	Wilkes-Barre Township Fire - VHF Backup 	FM 	Fire-Tac 
+155.61000 	   	KLI392 	BM	156.7 PL	WB Twp PD 	Wilkes-Barre Township PD 	FM 	Law Tac 
+156.18000 	   	WNNS573 	BM	156.7 PL	Wright DPW 	Wright Township DPW & Fire Tac Ch 3 	FM 	Multi-Tac 
+151.07000 	159.22500  	WQIG398 	RM	365 DPL	Wright FD 	Wright Township FD 	FM 	Fire-Tac 
+155.89500 	   	WPMW630 	RM	156.7 PL	Wright PD 	Wright Township PD Tac/FD Ch-2 	FM 	Law Tac 
+154.23500 	   	WNBS978 	BM	156.7 PL	Wyoming Fire 	Wyoming Borough Fire Ground 	FM 	Fire-Tac 
+155.94000 	158.76000  	WPXQ425 	RM	82.5 PL	WB Fire Disp 	Wilkes Barre Fire Dispatch (different tone on input) 	FM 	Fire Dispatch 
+153.83000 	   	KD49896 	M	82.5 PL	WB Frgrnd 	Wilkes Barre Fire Fireground 	FM 	Fire-Tac 
+154.84500 	156.09000  	KGB256 	RM	82.5 PL	WB City PD 1 	Wilkes Barre Police 1 	FM 	Law Dispatch 
+154.80000 	158.89500  	WPKW723 	RM	146.2 PL	WB City PD 2 	Wilkes Barre Police 2 	FM 	Law Tac 
+155.97000 	   	WPKW723 	BM	151.4 PL	WB City PD 3 	Wilkes Barre Police 3 - Tactical 	FM 	Law Tac 
+151.13000 	   	KFG524 	BM		WB City PW 	Wilkes Barre Public Works 	FM 	Public Works 
+461.30000 	466.30000  	 WQHN871  	RM	CC 1TG 100SL 1	GWV Security 	Security 	DMR 	Security 
+461.30000 	466.30000  	WQHN871 	RM	CC 1TG 200SL 2	GWV Maintenance  	Maintenance  	DMR 	Hospital 
+152.37500 	   	WPVB928 		205 DPL	Pace Trans 	Pace Transport (Wyoming Area SD Buses) 	FM 	Schools 
+155.20500 	   	WPQF645 	RM	156.7 PL	Pitt Schools 	Pittston Area School District 	FM 	Schools 
+159.66250 	151.67000  	WPQG415 	RM	125 DPL	LL Sch Bus 	Back Mtn Transit, Lake Lehman School Dist 	FM 	Schools 
+467.87500 	   	 	M	CSQ	Hazelton SD 	Hazleton Area School District, Security and Janitors 	FM 	Schools 
+467.90000 	   	 	M		Castle Elem  	The Castle Elementry School (HASD) 	FM 	Schools 
+853.48750 	   	 	RM		WB Schools 	 Wilkes-Barre Area School District 	FM 	Schools 
+152.36000 	157.62000  	WPXP933 	RM	250.3 PL	Kings Sec 	Kings College - Security 	FM 	Security 
+157.68000 	   	WPXP933 	BM	141.3 PL	Kings Sec2 	Kings College - Security 2 	FM 	Security 
+152.90000 	   	WPXP933 	RM	125 DPL	Kings Sports 	Kings College - Sports Activities Support 	FM 	Schools 
+159.84000 	   	WPXP933 		223 DPL	Kings Maint 	Kings College Maintenance  	FM 	Schools 
+152.42000 	   	WPXP933 	BM	125 DPL	Kings Maint2 	Kings College Maintenance 2 	FM 	Schools 
+152.30000 	157.56000  	WQJL937 	BM	371 DPL	LCC Security 	Luzerne Community College - Security 	FM 	Security 
+154.50500 	158.34750  	 	RM	047 DPL	MisUniv Sec 	Misercordia University - Security   	FMN 	Security 
+151.68500 	   	KWG766 	RM	110.9 PL	PSU PD Lehmn 	Penn State University Lehman - Police 	FM 	Law Tac 
+151.68500 	   	KWG766 	RM	156.7 PL	PSU Lehman 	Penn State University Lehman - Security 	FM 	Security 
+153.44750 	158.22000  	WPRA678 	RM	CC 1TG 1SL 1	Wilkes DPS 	Wilkes University - Dept. of Public Safety 	DMR 	Security 
+461.10000 	   	 		CSQ	Wilkes Sec 	Wilkes University - Security (LTR) 	FM 	Security 
+461.60000 	   	WPRA678 	RM	156.7 PL	Wilkes Univ 	Wilkes University 	FM 	Schools 
+Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Industrial Electronics (Hazleton)	 LTR Standard	 Hazleton	Industrial Electronics (Mountain Top)	 LTR Standard	 Mountain Top
+Interstate Repeater System	 DMR Conventional Networked	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Mohegan Sun Pocono	 DMR Motorola Capacity Plus Single Site (TRBO)	 Wilkes-Barre
+Mol Communications and Electronics	 LTR Standard	 Mountain Top	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide
+Susquehanna Nuclear Power Plant	 LTR Standard	 Salem	

@@ -1,35 +1,35 @@
-155.52000 	KVU461 	BM	94.8 PL	Branch Central 	Police: 911 Central Dispatch (Union City, Quincy) 	FMN 	Law Dispatch 
-155.79000 	WPQC403 	RM	94.8 PL	Branch LEIN 3 	Police: 911 Central LEIN 	FMN 	Law Talk 
-156.21000 	WPQC409 	BM	94.8 PL	Branch Tac-A 	Police: Tactical 	FMN 	Law Tac 
-155.74500 	WPTP341 	RM	94.8 PL	Branch EMD 	Emergency Management 	FMN 	Multi-Tac 
-151.38500 	WNFE693 	BM		Branch Jail 	Jail ? / OEM? (Coldwater) (replacing 154.055) 	FMN 	Corrections 
-154.05500 	WNFE693 	BM	94.8 PL	Branch COM 	Sheriff/Emergency Management 	FMN 	Multi-Tac 
-153.77000 	WPKK420 	RM	94.8 PL	Branch Fire 	Fire: Countywide Dispatch (911/Central) 	FMN 	Fire Dispatch 
-155.34000 	WPQH746 	BM	CSQ	HEARN1 CSQ 	EMS: Patient Transport 	FMN 	Hospital 
-156.18000 	WQBA509 	RM	118.8 PL	Branch Roads 	Road Commission 	FMN 	Public Works 
-453.30000 	WQHB328 	RM		BATA Disp. 	Transit Bus Dispatch / Operations 	DMR 	Transportation 
-155.34000 	KNHJ736 	BM	CSQ	HEARN 	Ambulance-to-Hospital 	FMN 	Hospital 
-155.32500 	KNNJ533 	BM	205 DPL	Lifecare EMS 	EMS: Dispatch (Coldwater) 	FMN 	EMS Dispatch 
-453.05000 	KNNJ533 	F		Lifecare RF1 	EMS: Remote Link 	FMN 	Data 
-458.05000 	KNNJ533 	F		Lifecare RF2 	EMS: Remote Link 	FMN 	EMS Dispatch 
-460.51250 	KNNJ533 	M		Lifecare MX1 	EMS: Mobile Extender 	FMN 	EMS-Tac 
-462.96250 	KNNJ533 	M		Lifecare MX2 	EMS: Mobile Extender 	FMN 	EMS-Tac 
-154.10000 	KNEH506 	BM	94.8 PL	Bronson DPW 	Public Works / /Fire 	FMN 	Multi-Talk 
-154.87500 	WPQB846 	BM	94.8 PL	Coldwater Police 	Police - Dispatch 	FMN 	Law Dispatch 
-154.08500 	WQX221 	RM	94.8 PL	Coldwater All 	Public Works / Fire / Police Tac [Ch 14] 	FMN 	Multi-Tac 
-154.38500 	WNZJ403 	BM	94.8 PL	Coldwater FG 	Fireground 	FMN 	Fire-Tac 
-156.06000 	WQBU245 	M		Coldwater Util 1 	Public Utilities 	FMN 	Public Works 
-159.10500 	WQBU245 	M		Coldwater Util 2 	Public Utilities 	FMN 	Public Works 
-159.13500 	WQBU245 	M		Coldwater Util 3 	Public Utilities 	FMN 	Public Works 
-154.34000 	WPCZ292 	BM	103.5 PL	Montgomery Fire 	Fire: Dispatch (Via Hillsdale County 9-1-1) 	FMN 	Fire Dispatch 
-154.44500 	WPCZ292 	BM		Montgomery FG 	Fireground 	FMN 	Fire-Tac 
-155.83500 	WNPU430 	BM	94.8 PL	Quincy DPW 	Public Works 	FMN 	Public Works 
-154.05500 	KEQ804 	RM		Union City 	Public Works / Fire / Police 	FMN 	Interop 
-460.82500 	WPFZ255 	RM		Bronson Schl Bus 	Transportation - Primary 	FMN 	Schools 
-464.52500 	WPEB247 	M		Bronson Sch Ops1 	Operations 	FMN 	Schools 
-464.67500 	WPEB247 	M		Bronson Sch Ops2 	Operations 	FMN 	Schools 
-464.37500 	KEM836 	RM		Coldwter SchBus1 	Transportation - Secondary 	FMN 	Schools 
-464.77500 	KEM836 	RM	118.8 PL	Coldwter SchBus2 	Transportation - Primary 	FMN 	Schools 
-464.37500 	KNCE488 	RM		UnionCitySchBus1 	Transportation - Garage 	FMN 	Schools 
-464.87500 	KNCE488 	RM	179.9 PL	UnionCitySchBus2 	Transportation - Primary 	FMN 	Schools 
+155.52000 	154.77000  	KVU461 	BM	94.8 PL	Branch Central 	Police: 911 Central Dispatch (Union City, Quincy) 	FMN 	Law Dispatch 
+155.79000 	153.80750  	WPQC403 	RM	94.8 PL	Branch LEIN 3 	Police: 911 Central LEIN 	FMN 	Law Talk 
+156.21000 	   	WPQC409 	BM	94.8 PL	Branch Tac-A 	Police: Tactical 	FMN 	Law Tac 
+155.74500 	155.04000  	WPTP341 	RM	94.8 PL	Branch EMD 	Emergency Management 	FMN 	Multi-Tac 
+151.38500 	   	WNFE693 	BM		Branch Jail 	Jail ? / OEM? (Coldwater) (replacing 154.055) 	FMN 	Corrections 
+154.05500 	   	WNFE693 	BM	94.8 PL	Branch COM 	Sheriff/Emergency Management 	FMN 	Multi-Tac 
+153.77000 	150.79000  	WPKK420 	RM	94.8 PL	Branch Fire 	Fire: Countywide Dispatch (911/Central) 	FMN 	Fire Dispatch 
+155.34000 	   	WPQH746 	BM	CSQ	HEARN1 CSQ 	EMS: Patient Transport 	FMN 	Hospital 
+156.18000 	159.07500  	WQBA509 	RM	118.8 PL	Branch Roads 	Road Commission 	FMN 	Public Works 
+453.30000 	458.30000  	WQHB328 	RM		BATA Disp. 	Transit Bus Dispatch / Operations 	DMR 	Transportation 
+155.34000 	   	KNHJ736 	BM	CSQ	HEARN 	Ambulance-to-Hospital 	FMN 	Hospital 
+155.32500 	   	KNNJ533 	BM	205 DPL	Lifecare EMS 	EMS: Dispatch (Coldwater) 	FMN 	EMS Dispatch 
+453.05000 	   	KNNJ533 	F		Lifecare RF1 	EMS: Remote Link 	FMN 	Data 
+458.05000 	   	KNNJ533 	F		Lifecare RF2 	EMS: Remote Link 	FMN 	EMS Dispatch 
+460.51250 	465.51250  	KNNJ533 	M		Lifecare MX1 	EMS: Mobile Extender 	FMN 	EMS-Tac 
+462.96250 	467.96250  	KNNJ533 	M		Lifecare MX2 	EMS: Mobile Extender 	FMN 	EMS-Tac 
+154.10000 	   	KNEH506 	BM	94.8 PL	Bronson DPW 	Public Works / /Fire 	FMN 	Multi-Talk 
+154.87500 	156.00000  	WPQB846 	BM	94.8 PL	Coldwater Police 	Police - Dispatch 	FMN 	Law Dispatch 
+154.08500 	155.98500  	WQX221 	RM	94.8 PL	Coldwater All 	Public Works / Fire / Police Tac [Ch 14] 	FMN 	Multi-Tac 
+154.38500 	   	WNZJ403 	BM	94.8 PL	Coldwater FG 	Fireground 	FMN 	Fire-Tac 
+156.06000 	   	WQBU245 	M		Coldwater Util 1 	Public Utilities 	FMN 	Public Works 
+159.10500 	   	WQBU245 	M		Coldwater Util 2 	Public Utilities 	FMN 	Public Works 
+159.13500 	   	WQBU245 	M		Coldwater Util 3 	Public Utilities 	FMN 	Public Works 
+154.34000 	   	WPCZ292 	BM	103.5 PL	Montgomery Fire 	Fire: Dispatch (Via Hillsdale County 9-1-1) 	FMN 	Fire Dispatch 
+154.44500 	   	WPCZ292 	BM		Montgomery FG 	Fireground 	FMN 	Fire-Tac 
+155.83500 	   	WNPU430 	BM	94.8 PL	Quincy DPW 	Public Works 	FMN 	Public Works 
+154.05500 	151.31000  	KEQ804 	RM		Union City 	Public Works / Fire / Police 	FMN 	Interop 
+460.82500 	465.82500  	WPFZ255 	RM		Bronson Schl Bus 	Transportation - Primary 	FMN 	Schools 
+464.52500 	   	WPEB247 	M		Bronson Sch Ops1 	Operations 	FMN 	Schools 
+464.67500 	   	WPEB247 	M		Bronson Sch Ops2 	Operations 	FMN 	Schools 
+464.37500 	469.37500  	KEM836 	RM		Coldwter SchBus1 	Transportation - Secondary 	FMN 	Schools 
+464.77500 	469.77500  	KEM836 	RM	118.8 PL	Coldwter SchBus2 	Transportation - Primary 	FMN 	Schools 
+464.37500 	469.37500  	KNCE488 	RM		UnionCitySchBus1 	Transportation - Garage 	FMN 	Schools 
+464.87500 	469.87500  	KNCE488 	RM	179.9 PL	UnionCitySchBus2 	Transportation - Primary 	FMN 	Schools 
 Clemens Food Group	 DMR Motorola Capacity Plus Single Site (TRBO)	 Coldwater	Consumers Energy	 EDACS Networked Standard	 Various	

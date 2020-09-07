@@ -1,16 +1,16 @@
-156.22500 	KDE713 	RM	203.5 PL	BristolFD 	Fire Dispatch 	FM 	Fire Dispatch 
-155.59500 	WXK580 	RM	100.0 PL	BristolPD 	Police Dispatch 	FM 	Law Dispatch 
-154.32500 	WQWP224 	BM	116 DPL	BristolPDNew 	Police Dispatch 2 	FMN 	Law Dispatch 
-153.96500 	WPKF557 	M	141.3 PL	BristolPDTac 	Police Tac 	FM 	Law Tac 
-157.63500 	KM9909 	M		BristolPDTac 	Police Tac 	FM 	Law Tac 
-155.70000 	KM9909 	BM	100.0 PL	BristolPDI/O 	Police Inter Op w/Bristol TN PD 	FM 	Law Tac 
-158.97000 	KM9909 	M		BristolPDTac 	Police Tac 	FM 	Law Tac 
-451.62500 	KFH849 	RM	146.2 PL	Brist Util 1 	Utilities 1 	FM 	Utilities 
-451.17500 	KFH849 	RM	146.2 PL	Brist Util 2 	Utilities 2 	FM 	Utilities 
-452.62500 	KFH849 	RM	146.2 PL	Brist UtilHQ 	Utilities Headquarters 	FM 	Utilities 
-158.77500 	WPYV709 	BM	CSQ	Brist Housng 	Housing Authority 	FM 	Public Works 
-159.09750 	WQWP224 	BM		BristolPDNew 	Law Enforcement *new* 	FMN 	Law Dispatch 
-453.22500 	KNDS615 	RM	192.8 PL	BristTransit 	Transit 	FM 	Transportation 
-453.25000 	WYK268 	RM	023 DPL	Bristol PW 	Public Works 	FM 	Public Works 
-461.53750 	WQVK916 	RM		Brist School 	Public Schools Operations 	DMR 	Schools 
+156.22500 	153.77000  	KDE713 	RM	203.5 PL	BristolFD 	Fire Dispatch 	FM 	Fire Dispatch 
+155.59500 	154.80000  	WXK580 	RM	100.0 PL	BristolPD 	Police Dispatch 	FM 	Law Dispatch 
+154.32500 	151.10000  	WQWP224 	BM	116 DPL	BristolPDNew 	Police Dispatch 2 	FMN 	Law Dispatch 
+153.96500 	   	WPKF557 	M	141.3 PL	BristolPDTac 	Police Tac 	FM 	Law Tac 
+157.63500 	   	KM9909 	M		BristolPDTac 	Police Tac 	FM 	Law Tac 
+155.70000 	   	KM9909 	BM	100.0 PL	BristolPDI/O 	Police Inter Op w/Bristol TN PD 	FM 	Law Tac 
+158.97000 	   	KM9909 	M		BristolPDTac 	Police Tac 	FM 	Law Tac 
+451.62500 	456.62500  	KFH849 	RM	146.2 PL	Brist Util 1 	Utilities 1 	FM 	Utilities 
+451.17500 	456.17500  	KFH849 	RM	146.2 PL	Brist Util 2 	Utilities 2 	FM 	Utilities 
+452.62500 	457.62500  	KFH849 	RM	146.2 PL	Brist UtilHQ 	Utilities Headquarters 	FM 	Utilities 
+158.77500 	   	WPYV709 	BM	CSQ	Brist Housng 	Housing Authority 	FM 	Public Works 
+159.09750 	153.98750  	WQWP224 	BM		BristolPDNew 	Law Enforcement *new* 	FMN 	Law Dispatch 
+453.22500 	458.22500  	KNDS615 	RM	192.8 PL	BristTransit 	Transit 	FM 	Transportation 
+453.25000 	458.25000  	WYK268 	RM	023 DPL	Bristol PW 	Public Works 	FM 	Public Works 
+461.53750 	466.53750  	WQVK916 	RM		Brist School 	Public Schools Operations 	DMR 	Schools 
 American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	

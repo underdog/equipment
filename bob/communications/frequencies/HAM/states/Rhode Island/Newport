@@ -1,23 +1,23 @@
-153.95000 	KCE673 	BM	110.9 PL	Jamestwn FD 	Fire Operations 	FMN 	Fire Dispatch 
-155.07000 	KLK534 	BM	85.4 PL	JamestownDPW 	Public Works 	FMN 	Public Works 
-155.41500 	KCF295 	BM	118.8 PL	Little Comp PD 	Police Operations 	FMN 	Law Dispatch 
-453.48750 	WPVR599 	RM	146.2 PL	Little Comp FD 	Fire Operations 	FMN 	Fire Dispatch 
-151.05500 	KCC635 	RM	315 DPL	Mdltwn FD 	Fire Operations 	FMN 	Fire Dispatch 
-151.11500 	KBA205 	BM	118.8 PL	Mdltwn DPW 	Public Works 	FMN 	Public Works 
-154.16750 	KCD292 	RM	532 DPL	Newport FD 	Fire Operations 	FMN 	Fire Dispatch 
-154.22000 	KCD292 	M	67.0 PL	Newport FD 	Fire (portable radios) 	FMN 	Fire-Tac 
-154.40000 	KCD292 	M	67.0 PL	Newport EMS 	EMS (portable radios) 	FMN 	EMS-Tac 
-158.76000 	WNUQ306 	BM	110.9 PL	Newport DPW 	Public Works 	FMN 	Public Works 
-155.34000 	KWI721 	BM	118.8 PL	Newport HOSP 	Newport Hospital 	FMN 	Hospital 
-155.38500 	KWI721 	BM	118.8 PL	Newport HOSP 	Newport Hospital 	FMN 	Hospital 
-151.92500 	WNUS566 	RM	131 DPL	SalveRegSec 	Salve Regina - Security 	FMN 	Security 
-151.95500 	WPWR923 	RM	131 DPL	SalveRegMnt 	Salve Regina - Maintenance 	FMN 	Schools 
-154.32500 	WPBW830 	RM	032 DPL	Prtsmth FD 	Fire Operations 	FMN 	Fire Dispatch 
-159.12000 	KLR457 	RM	162.2 PL	Prtsmth DPW 	Public Works 	FMN 	Public Works 
-155.10000 	KSU429 	BM	118.8 PL	Prtsmth Wtr 	Water Department 	FMN 	Public Works 
-154.41500 	WPMG328 	RM	047 DPL	Prud Isl FD 	Fire Operations 	FMN 	Fire Dispatch 
-482.96250 	WPMC285 	RM	065 DPL	Tiverton PD 	Police Operations - Patch 	FM 	Law Tac 
-471.78750 	WPMC283 	RM	223 DPL	Tiverton FD 	Fire Operations 	FM 	Fire Dispatch 
-45.12000 	KRA511 	BM	118.8 PL	Tiverton DPW 	Public Works 	FM 	Public Works 
-Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)	 Regional	National Grid - RI	 LTR Standard	 Statewide	Radio-Phone Communications	 NXDN NEXEDGE 4800
- 	Rhode Island Statewide Communications Network (RISCON)	 Project 25 Phase I	 Statewide	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	
+153.95000 	   	KCE673 	BM	110.9 PL	Jamestwn FD 	Fire Operations 	FMN 	Fire Dispatch 
+155.07000 	   	KLK534 	BM	85.4 PL	JamestownDPW 	Public Works 	FMN 	Public Works 
+155.41500 	155.74500  	KCF295 	BM	118.8 PL	Little Comp PD 	Police Operations 	FMN 	Law Dispatch 
+453.48750 	458.48750  	WPVR599 	RM	146.2 PL	Little Comp FD 	Fire Operations 	FMN 	Fire Dispatch 
+151.05500 	156.17500  	KCC635 	RM	315 DPL	Mdltwn FD 	Fire Operations 	FMN 	Fire Dispatch 
+151.11500 	   	KBA205 	BM	118.8 PL	Mdltwn DPW 	Public Works 	FMN 	Public Works 
+154.16750 	150.78250  	KCD292 	RM	532 DPL	Newport FD 	Fire Operations 	FMN 	Fire Dispatch 
+154.22000 	   	KCD292 	M	67.0 PL	Newport FD 	Fire (portable radios) 	FMN 	Fire-Tac 
+154.40000 	   	KCD292 	M	67.0 PL	Newport EMS 	EMS (portable radios) 	FMN 	EMS-Tac 
+158.76000 	   	WNUQ306 	BM	110.9 PL	Newport DPW 	Public Works 	FMN 	Public Works 
+155.34000 	   	KWI721 	BM	118.8 PL	Newport HOSP 	Newport Hospital 	FMN 	Hospital 
+155.38500 	   	KWI721 	BM	118.8 PL	Newport HOSP 	Newport Hospital 	FMN 	Hospital 
+151.92500 	157.72500  	WNUS566 	RM	131 DPL	SalveRegSec 	Salve Regina - Security 	FMN 	Security 
+151.95500 	158.38500  	WPWR923 	RM	131 DPL	SalveRegMnt 	Salve Regina - Maintenance 	FMN 	Schools 
+154.32500 	153.89000  	WPBW830 	RM	032 DPL	Prtsmth FD 	Fire Operations 	FMN 	Fire Dispatch 
+159.12000 	151.10000  	KLR457 	RM	162.2 PL	Prtsmth DPW 	Public Works 	FMN 	Public Works 
+155.10000 	   	KSU429 	BM	118.8 PL	Prtsmth Wtr 	Water Department 	FMN 	Public Works 
+154.41500 	150.80500  	WPMG328 	RM	047 DPL	Prud Isl FD 	Fire Operations 	FMN 	Fire Dispatch 
+482.96250 	485.96250  	WPMC285 	RM	065 DPL	Tiverton PD 	Police Operations - Patch 	FM 	Law Tac 
+471.78750 	474.78750  	WPMC283 	RM	223 DPL	Tiverton FD 	Fire Operations 	FM 	Fire Dispatch 
+45.12000 	   	KRA511 	BM	118.8 PL	Tiverton DPW 	Public Works 	FM 	Public Works 
+Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)	 Regional	National Grid - RI	 LTR Standard	 Statewide	Radio-Phone Communications	 NXDN NEXEDGE 4800	 
+Rhode Island Statewide Communications Network (RISCON)	 Project 25 Phase I	 Statewide	

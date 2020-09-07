@@ -1,33 +1,33 @@
-154.99500 	KNHP862 	RM	156.7 PL	ChkCo FD W 	Fire Dispatch - West 	FMN 	Fire Dispatch 
-155.56500 	KNHP862 	RM	712 DPL	ChkCoFDTacWN 	Fire Tactical West/North 	FMN 	Fire-Tac 
-154.13000 	KX9535 	M	156.7 PL	ChkCo FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-154.29500 	KX9535 	M	156.7 PL	ChkCo FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-155.94750 	WRDJ852 	RM	CC 1TG 16777215SL 1	Valleytown FD 1 	Valleytown Fire & Rescue DMR 	DMR 	Fire Dispatch 
-155.94750 	WRDJ852 	RM	CC 1TG 16777215SL 2	Valleytown FD 2 	Valleytown Fire & Rescue DMR 	DMR 	Fire Dispatch 
-154.44500 	WPVX261 	RM	77.0 PL	Valleytown Anlg 	Valleytown Fire & Rescue Analog (multicast with 154.995) 	FMN 	Fire Dispatch 
-155.16000 	KXD266 	BM	151.4 PL	ChkCo EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.28000 	WREQ634 	BM	151.4 PL	EMS-Erlanger 	EMS to Erlanger Western North Carolina Hospital 	FMN 	Hospital 
-155.34000 	WREQ634 	BM	151.4 PL	EMS-Erlanger 	EMS to Erlanger Western North Carolina Hospital 	FMN 	Hospital 
-158.97000 	WNQE698 	RM		ChkCo SD Car-Car 	Car-to-Car 	DMRE 	Law Tac 
-158.97000 	WNQE698 	RM	88.5 PL	ChkCo SD Disp 	Dispatch 	FMN 	Law Dispatch 
-159.10500 	WQAG825 	RM		ChkCo SD Tac 	Tactical 	FMN 	Law Tac 
-159.10500 	WQAG825 	RM	CC 1TG 1SL 2	ChkCo SD Tac DMR 	Tactical 	DMR 	Law Tac 
-155.85000 	WPUE544 	M	88.5 PL	ChkCo SD Tac 	Tactical 	FMN 	Law Tac 
-155.91000 	WPUE544 	M	88.5 PL	ChkCo SD Tac 	Tactical 	FMN 	Law Tac 
-155.97000 	WPUE544 	M	88.5 PL	ChkCo SD Tac 	Tactical 	FMN 	Law Tac 
-154.87500 	KTI744 	BM	88.5 PL	ChkCo SD MA 	Mutual Aid 	FMN 	Interop 
-151.71500 	WQGP486 	RM	186.2 PL	CCSchBusDisp 	Bus Garage/Dispatch 	FMN 	Schools 
-154.14500 	WNXN542 	BM	156.7 PL	AndrwsFD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-154.72500 	WNXN917 	BM	88.5 PL	AndrwsPD 	Police Dispatch 	FMN 	Law Dispatch 
-154.89000 	KD45070 	M	88.5 PL	AndrwsPD Tac 	Police Tactical 	FMN 	Law Tac 
-154.87500 	KTI744 	BM	88.5 PL	AndrwsPD MA 	Police Mutual Aid 	FMN 	Law Talk 
-458.37500 	WPQZ490 	F		Andrews Wtr 458 	Water Department - Data 	Telm 	Data 
-460.36250 	WPUA392 	F		Andrews Wtr 460 	Water Department - Data 	Telm 	Data 
-154.22000 	KNNT268 	M	156.7 PL	MurphyFD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-154.37000 	KNNT268 	M	156.7 PL	MurphyFD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-156.21750 	WPQZ690 	RM	151.4 PL	MurphyPD Dsp 	Police Dispatch 	FMN 	Law Dispatch 
-158.79000 	WNQY772 	BM	151.4 PL	MurphyPD Tac 	Police Tactical 	FMN 	Law Tac 
-158.19000 	WPAD554 	RM	50 RAN	Murphy Electric 	Electric Department 	NXDN 	Utilities 
-453.05000 	KYK423 	RM	127.3 PL	Murphy Water 	Water Department 	FMN 	Utilities 
-158.19000 	WPAD554 	RM	146.2 PL	Murphy Electric 	Electric Department 	FMN 	Utilities 
-Harrahs Cherokee Valley River Casino and Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Murphy	North Carolina VIPER	 Project 25 Phase I	 Varies	
+154.99500 	153.81500  	KNHP862 	RM	156.7 PL	ChkCo FD W 	Fire Dispatch - West 	FMN 	Fire Dispatch 
+155.56500 	158.88000  	KNHP862 	RM	712 DPL	ChkCoFDTacWN 	Fire Tactical West/North 	FMN 	Fire-Tac 
+154.13000 	   	WPVX261 	M	156.7 PL	ChkCo FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+154.29500 	   	WPVX261 	M	156.7 PL	ChkCo FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+155.94750 	159.21750  	WRDJ852 	RM	CC 1TG 16777215SL 1	Valleytown FD 1 	Valleytown Fire & Rescue DMR 	DMR 	Fire Dispatch 
+155.94750 	159.21750  	WRDJ852 	RM	CC 1TG 16777215SL 2	Valleytown FD 2 	Valleytown Fire & Rescue DMR 	DMR 	Fire Dispatch 
+154.44500 	153.77000  	WPVX261 	RM	77.0 PL	Valleytown Anlg 	Valleytown Fire & Rescue Analog (multicast with 154.995) 	FMN 	Fire Dispatch 
+155.16000 	155.80500  	KXD266 	BM	151.4 PL	ChkCo EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.28000 	   	WREQ634 	BM	151.4 PL	EMS-Erlanger 	EMS to Erlanger Western North Carolina Hospital 	FMN 	Hospital 
+155.34000 	   	WREQ634 	BM	151.4 PL	EMS-Erlanger 	EMS to Erlanger Western North Carolina Hospital 	FMN 	Hospital 
+158.97000 	154.95000  	WNQE698 	RM		ChkCo SD Car-Car 	Car-to-Car 	DMRE 	Law Tac 
+158.97000 	154.95000  	WNQE698 	RM	88.5 PL	ChkCo SD Disp 	Dispatch 	FMN 	Law Dispatch 
+159.10500 	154.84500  	WQAG825 	RM		ChkCo SD Tac 	Tactical 	FMN 	Law Tac 
+159.10500 	154.84500  	WQAG825 	RM	CC 1TG 1SL 2	ChkCo SD Tac DMR 	Tactical 	DMR 	Law Tac 
+155.85000 	   	WPUE544 	M	88.5 PL	ChkCo SD Tac 	Tactical 	FMN 	Law Tac 
+155.91000 	   	WPUE544 	M	88.5 PL	ChkCo SD Tac 	Tactical 	FMN 	Law Tac 
+155.97000 	   	WPUE544 	M	88.5 PL	ChkCo SD Tac 	Tactical 	FMN 	Law Tac 
+154.87500 	   	KTI744 	BM	88.5 PL	ChkCo SD MA 	Mutual Aid 	FMN 	Interop 
+151.71500 	159.91500  	WQGP486 	RM	186.2 PL	CCSchBusDisp 	Bus Garage/Dispatch 	FMN 	Schools 
+154.14500 	   	WNXN542 	BM	156.7 PL	AndrwsFD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+154.72500 	   	WNXN917 	BM	88.5 PL	AndrwsPD 	Police Dispatch 	FMN 	Law Dispatch 
+154.89000 	   	KD45070 	M	88.5 PL	AndrwsPD Tac 	Police Tactical 	FMN 	Law Tac 
+154.87500 	   	KTI744 	BM	88.5 PL	AndrwsPD MA 	Police Mutual Aid 	FMN 	Law Talk 
+458.37500 	   	WPQZ490 	F		Andrews Wtr 458 	Water Department - Data 	Telm 	Data 
+460.36250 	   	WPUA392 	F		Andrews Wtr 460 	Water Department - Data 	Telm 	Data 
+154.22000 	   	KNNT268 	M	156.7 PL	MurphyFD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+154.37000 	   	KNNT268 	M	156.7 PL	MurphyFD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+156.21750 	153.98750  	WPQZ690 	RM	151.4 PL	MurphyPD Dsp 	Police Dispatch 	FMN 	Law Dispatch 
+158.79000 	   	WNQY772 	BM	151.4 PL	MurphyPD Tac 	Police Tactical 	FMN 	Law Tac 
+158.19000 	153.51500  	WPAD554 	RM	50 RAN	Murphy Electric 	Electric Department 	NXDN 	Utilities 
+453.05000 	458.05000  	KYK423 	RM	127.3 PL	Murphy Water 	Water Department 	FMN 	Utilities 
+158.19000 	153.51500  	WPAD554 	RM	146.2 PL	Murphy Electric 	Electric Department 	FMN 	Utilities 
+Harrahs Cherokee Valley River Casino and Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Murphy	

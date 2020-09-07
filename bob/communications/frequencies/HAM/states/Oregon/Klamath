@@ -1,23 +1,23 @@
-155.53500 	KSQ544 	RM	127.3 PL	KCSO/KF Disp 	Sheriff 1 Dispatch 	FMN 	Law Dispatch 
-155.97000 	KOA724 	BM		KCSO/KFPD 2 	Sheriff 2 	FMN 	Law Talk 
-155.01000 	KNFG816 	BM		KCSO/KFPD 3 	Sheriff 3 	FMN 	Law Tac 
-155.07000 	 	BM		KCSO/KFPD 4 	Sheriff 4 	FMN 	Law Tac 
-155.73000 	 	BM		KCSO/KFPD 5 	Sheriff 5 	FMN 	Law Tac 
-155.70000 	 	BM		KPD Disp 	Klamath Falls PD 	FMN 	Law Dispatch 
-155.85000 	 	BM		KlmthFllsPD7 	Klamath Falls PD 7 	FMN 	Law Dispatch 
-154.07000 	KNIQ200 	RM	192.8 PL	KCFD Firecom 	Fire District - Firecom 	FMN 	Fire Dispatch 
-154.17500 	 	BM		KCFD North 	Fire District - North County Working 	FMN 	Fire-Tac 
-153.95000 	WZU636 	BM		KCFD Central 	Fire District - Central County Working 	FMN 	Fire-Tac 
-154.35500 	KNBL289 	BM		KCFD South 1 	Fire District - South County Working (1) 	FMN 	Fire-Talk 
-153.89000 	WPKF637 	M		KCFD East 	Fire District - East County Working 	FMN 	Fire-Tac 
-153.89000 	KNAW669 	RM	151.4 PL	KCFD Tac 	County Fire Tactical 	FMN 	Fire-Tac 
-155.82000 	KON936 	BM		KCFD South 2 	Fire District - South County Working (2) 	FMN 	Fire-Tac 
-155.16000 	KTO395 	BM		SAR 	Search and Rescue 	FMN 	Emergency Ops 
-154.44500 	 	BM		KlamathFD2 	Fire District 2 	FMN 	Fire Dispatch 
-453.71250 	 	BM		KlamathFD4 	Fire District 4 	FMN 	Fire Dispatch 
-458.71250 	 	BM		KlamathFD5 	Fire District 5 	FMN 	Fire Dispatch 
-159.06000 	KWX654 	RM	CSQ	KC PubWrks 	Public Works 	FMN 	Public Works 
-155.74500 	 	BM		OIT Security 	Security 	FMN 	Security 
-451.25000 	 	RM	100.0 PL	Midstate ELT 	Midstate Electric - Walker Mtn 	FMN 	Utilities 
-Avista Utilities	 MPT-1327 Standard	 Various	Northwest Communications	 LTR Standard	 Klamath Falls	Oregon State Radio Project	 Project 25 Phase II
- Varies	Pacific Klamath Energy	 EDACS Standard	 Klamath Falls	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	
+155.53500 	156.15000  	KSQ544 	RM	127.3 PL	KCSO/KF Disp 	Sheriff 1 Dispatch 	FMN 	Law Dispatch 
+155.97000 	   	KOA724 	BM		KCSO/KFPD 2 	Sheriff 2 	FMN 	Law Talk 
+155.01000 	   	KNFG816 	BM		KCSO/KFPD 3 	Sheriff 3 	FMN 	Law Tac 
+155.07000 	   	 	BM		KCSO/KFPD 4 	Sheriff 4 	FMN 	Law Tac 
+155.73000 	   	 	BM		KCSO/KFPD 5 	Sheriff 5 	FMN 	Law Tac 
+155.70000 	   	 	BM		KPD Disp 	Klamath Falls PD 	FMN 	Law Dispatch 
+155.85000 	   	 	BM		KlmthFllsPD7 	Klamath Falls PD 7 	FMN 	Law Dispatch 
+154.07000 	   	KNIQ200 	RM	192.8 PL	KCFD Firecom 	Fire District - Firecom 	FMN 	Fire Dispatch 
+154.17500 	   	 	BM		KCFD North 	Fire District - North County Working 	FMN 	Fire-Tac 
+153.95000 	   	WZU636 	BM		KCFD Central 	Fire District - Central County Working 	FMN 	Fire-Tac 
+154.35500 	   	KNBL289 	BM		KCFD South 1 	Fire District - South County Working (1) 	FMN 	Fire-Talk 
+153.89000 	   	WPKF637 	M		KCFD East 	Fire District - East County Working 	FMN 	Fire-Tac 
+153.89000 	154.41500  	KNAW669 	RM	151.4 PL	KCFD Tac 	County Fire Tactical 	FMN 	Fire-Tac 
+155.82000 	   	KON936 	BM		KCFD South 2 	Fire District - South County Working (2) 	FMN 	Fire-Tac 
+155.16000 	   	KTO395 	BM		SAR 	Search and Rescue 	FMN 	Emergency Ops 
+154.44500 	   	 	BM		KlamathFD2 	Fire District 2 	FMN 	Fire Dispatch 
+453.71250 	   	 	BM		KlamathFD4 	Fire District 4 	FMN 	Fire Dispatch 
+458.71250 	   	 	BM		KlamathFD5 	Fire District 5 	FMN 	Fire Dispatch 
+159.06000 	156.22500  	KWX654 	RM	CSQ	KC PubWrks 	Public Works 	FMN 	Public Works 
+155.74500 	   	 	BM		OIT Security 	Security 	FMN 	Security 
+451.25000 	   	 	RM	100.0 PL	Midstate ELT 	Midstate Electric - Walker Mtn 	FMN 	Utilities 
+Avista Utilities	 MPT-1327 Standard	 Various	Justice Integrated Wireless Network	 Project 25 Phase I	 Various	Northwest Communications	 LTR Standard	 Klamath Falls
+Oregon State Radio Project	 Project 25 Phase II	 Varies	Pacific Klamath Energy	 EDACS Standard	 Klamath Falls	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various

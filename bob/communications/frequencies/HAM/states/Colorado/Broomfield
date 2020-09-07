@@ -1,9 +1,8 @@
-460.55000 	WPDV509 	RM	151.4 PL	NorthMetroFD 	North Metro Fire - Broomfield County Paging Tones 	FMN 	Fire Dispatch 
-464.00000 	WQCZ772 	BM	107.2 PL	Legacy HS 	Legacy High School Campus Operations 	FM 	Schools 
-153.41000 	WPWA681 	BM	025 DPL	LafayetteBus 	Boulder Valley School District - Lafayette Bus Terminal 	FM 	Schools 
-Adams County School District 12 System 1	 DMR Conventional Networked	 Thorton	Adams County School District 12 System 2	 DMR Conventional Networked	 Thorton	American Medical Response	 LTR Standard and Passport
- Various	American Medical Response (Denver)	 LTR Standard	 Plainview	Boulder Valley School District (BVSD) System 1	 DMR Conventional Networked	 	Boulder Valley School District System 2
- DMR Conventional Networked	 Boulder	Children's Hospital Colorado	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Aurora	Denver Area Federal / Military	 Motorola Type II SmartZone	 Aurora
-Front Range Communications Consortium (FRCC)	 Project 25 Phase II	 Weld County	HCI Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greeley	JP Morgan Chase	 DMR Motorola Capacity Plus Single Site (TRBO)
- Broomfield	Mobile Relay Associates (NEXEDGE)	 NXDN NEXEDGE 4800	 Various	Mullarkey LTR	 LTR Standard	 Denver	Omni Interlocken Hotel
- DMR Motorola Capacity Plus Single Site (TRBO)	 Broomfield	Xcel Energy	 Project 25 Phase I	 Various	
+460.55000 	465.55000  	WPDV509 	RM	151.4 PL	NorthMetroFD 	North Metro Fire - Broomfield County Paging Tones 	FMN 	Fire Dispatch 
+464.00000 	469.00000  	WQCZ772 	BM	107.2 PL	Legacy HS 	Legacy High School Campus Operations 	FM 	Schools 
+153.41000 	158.31000  	WPWA681 	BM	025 DPL	LafayetteBus 	Boulder Valley School District - Lafayette Bus Terminal 	FM 	Schools 
+Adams County School District 12 System 1	 DMR Conventional Networked	 Thorton	Adams County School District 12 System 2	 DMR Conventional Networked	 Thorton	American Medical Response	 LTR Standard and Passport	 Various
+American Medical Response (Denver)	 LTR Standard	 Plainview	Boulder Valley School District (BVSD) System 1	 DMR Conventional Networked	 	Boulder Valley School District System 2	 DMR Conventional Networked	 Boulder
+Children's Hospital Colorado	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Aurora	Denver Area Federal / Military	 Motorola Type II SmartZone	 Aurora	Front Range Communications Consortium (FRCC)	 Project 25 Phase II	 Weld County
+HCI Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greeley	JP Morgan Chase	 DMR Motorola Capacity Plus Single Site (TRBO)	 Broomfield	Mobile Relay Associates (NEXEDGE)	 NXDN NEXEDGE 4800	 Various
+Mullarkey LTR	 LTR Standard	 Denver	Omni Interlocken Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Broomfield	Xcel Energy	 Project 25 Phase I	 Various

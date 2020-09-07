@@ -1,92 +1,91 @@
-153.12500 	WQKB503 	BM	179.9 PL	TN Dispatch 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-33.44000 	KCD346 	BM	179.9 PL	TN Ops 33.44 	Fire Operations - South 	FM 	Fire Dispatch 
-33.86000 	KCD346 	BM	179.9 PL	TN Ops 33.86 	Fire Operations - North 	FM 	Fire Dispatch 
-33.48000 	WNFA251 	BM	179.9 PL	TN Ops 33.48 	Fire Operations - Vernon 	FM 	Fire Dispatch 
-465.56250 	WNHV903 	M	205 DPL	TN Tac-1 	TN Tac-1 	FMN 	Fire-Tac 
-460.51250 	WNHV903 	M	245 DPL	TN Tac-2 	TN Tac-2 	FMN 	Fire-Tac 
-465.51250 	WNHV903 	M	265 DPL	TN Tac-3 	TN Tac-3 	FMN 	Fire-Tac 
-458.11250 	WNHV903 	M	315 DPL	TN Tac-4 	TN Tac-4 	FMN 	Fire-Tac 
-460.56250 	WNHV903 	M	365 DPL	TN Tac-15 	TN Tac-15 	FMN 	Fire-Tac 
-458.91250 	WNHV903 	M	445 DPL	TN Tac-16 	TN Tac-16 	FMN 	Fire-Tac 
-453.35000 	WNHV903 	RM	664 DPL	TN FD M/ASvc 	Fire Mutal Aid Service 	FMN 	Fire-Tac 
-453.13750 	WNHV903 	F	151.4 PL	TN UHF 33.44 	UHF Link to 33.44 	FMN 	Fire Dispatch 
-464.85000 	WQFE809 	RM	141.3 PL	TN UHF 33.44 	UHF Link to 33.44 - Box Mountain 	FMN 	Fire Dispatch 
-452.22500 	KNFQ523 	RM	151.4 PL	TN Somers UHF 	Somers - Soapstone UHF 	FMN 	Fire Dispatch 
-452.22500 	WPZK808 	RM	173.8 PL	TN SoapXBand 	Somers - Soapstone X Band - Link to 33.86 	FMN 	Fire Dispatch 
-453.43750 	WPWD538 	RM	151.4 PL	TN JMH UHF 	Johnson Memorial - UHF Operations 	FMN 	Fire Dispatch 
-453.43750 	WPWD538 	RM	173.8 PL	TN JMH to 33.86 	Johnson Memorial X-Band - Link to 33.86 	FMN 	Fire Dispatch 
-460.26250 	WNHV903 	RM	143 DPL	TN UHF 33.86 	Hampden Rd (Stafford) - Link to 33.86/UHF 	FMN 	Fire Dispatch 
-463.37500 	WQFC366 	RM	151.4 PL	TN Ashford XBand 	Ashford X Band - Link to 33.44 	FMN 	Fire Dispatch 
-453.37500 	WPDV738 	RM	103.5 PL	TN Union XBnd/UH 	Union - XBand to 33.86/UHF 	FMN 	Fire Dispatch 
-460.18750 	WNZW987 	RM	143 DPL	TN Storrs XBandU 	Storrs - XBand to 33.44/UHF 	FMN 	Fire Dispatch 
-464.47500 	WQFC366 	RM	151.4 PL	TN MansfieldXBan 	Mansfield - XBand to 33.44 	FMN 	Fire Dispatch 
-453.21250 	KQM586 	RM	203.5 PL	TN CoventryX44 	Coventry - XBand to 33.44 	FMN 	Fire Dispatch 
-453.96250 	WNHV903 	RM	114.8 PL	TN CoventryX78 	Coventry - XBand to 33.78 	FMN 	Fire Dispatch 
-453.18750 	WQXV554 	RM	743 DPL	TN VernonX3386 	Vernon - Box Mtn - XBand to 33.86 	FMN 	Fire Dispatch 
-453.27500 	WNHV903 	RM	141.3 PL	TN Vernon UHF275 	Vernon - Box Mtn - UHF 275 	FMN 	Fire Dispatch 
-464.85000 	WQFE809 	RM	151.4 PL	TN VernonX3344 	Vernon - Box Mtn - XBand to 33.44 	FMN 	Fire Dispatch 
-461.37500 	WQHS931 	RM	343 DPL	TN TollandX33.86 	Tolland - Old Post Rd - XBand to 33.86 	FMN 	Fire Dispatch 
-460.48750 	WNHV903 	RM	114.8 PL	TollandXB33.78 	Tolland - Bald Hill - XBand to 33.78 	FMN 	Fire Dispatch 
-462.22500 	WQFC366 	RM	151.4 PL	TN HebronXB/UHF 	Hebron - XBand to 33.44/UHF 	FMN 	Fire Dispatch 
-453.93750 	WNHV903 	RM	203.5 PL	TN Lebanon XB44 	Lebanon - Gates Hill - XBand44 	FMN 	Fire Dispatch 
-453.37500 	WNHV903 	RM	123.0 PL	TN Lebanon UHF 	Lebanon - Gates Hill - UHF 375 	FMN 	Fire Dispatch 
-453.61250 	WQXV551 	RM	151.4 PL	Birch XBand4590 	Birch Mountain - XBand to 45.90 	FMN 	Fire Dispatch 
-453.31250 	 	RM	151.4 PL	TN NMain XB4590 	North Main - XBand to 45.90 	FMN 	Fire Dispatch 
-45.14000 	KCZ470 	BM	156.7 PL	Coventry PD1 	Police 	FM 	Law Dispatch 
-453.56250 	KQM586 	M	186.2 PL	Coventry PD2 	Police Cross-band to 45.14 MHz 	FMN 	Law Dispatch 
-155.14500 	WQFJ204 	B		Coventry FD1 	Fire - Link to 33.80 	FMN 	Fire Dispatch 
-45.40000 	KQM586 	BM	141.3 PL	Coventry DPW 	Public Works 	FM 	Public Works 
-453.76250 	KQM586 	M	123.0 PL	Coventry DPW 	Public Works - Link to 45.4 MHz 	FMN 	Public Works 
-453.52500 	WNCB878 	RM	100.0 PL	Ellington PD 	Police/Public Works 	FMN 	Multi-Dispatch 
-153.75500 	WQBP350 	BM		Ellington FD 	Fire - Link to 33.80 	FMN 	Fire Dispatch 
-453.52500 	WNCB878 	RM	107.2 PL	Ellington SB 	School Buses 	FMN 	Schools 
-453.28750 	WPVI840 	RM	151.4 PL	Hebron FD 1 	Fire 	FMN 	Fire-Tac 
-154.32500 	WPVI840 	BM	74.4 PL	Hebron FD 2 	Fire - Link to 33.90 	FMN 	Fire Dispatch 
-460.77500 	 	RM	74.4 PL	Hebron FD 3 	Fire/EMS Administration 	FMN 	Fire-Tac 
-458.03750 	WNHV903 	M	100.0 PL	Hebron FD 4 	Fire Vehicle Repeaters 	FMN 	Fire-Tac 
-46.54000 	KNAR851 	BM	141.3 PL	Hebron DPW 	Public Works 	FM 	Public Works 
-33.80000 	KBV999 	BM	179.9 PL	Lebanon Fire 	Fire 	FM 	Fire-Talk 
-453.91250 	 	BM	151.4 PL	Mansfld FD 1 	Fire - Link to 33.44 	FMN 	Fire-Tac 
-458.41250 	 	RM		Mansfld FG R 	Fireground Red 	FMN 	Fire-Tac 
-456.58750 	 	RM	179.9 PL	Mansfld FG B 	Fireground Blue 	FMN 	Fire-Tac 
-452.18750 	 	RM	203.5 PL	Mansfld FD 2 	Fire Police 	FMN 	Fire-Tac 
-453.86250 	 	RM		Mansfld FD 3 	Fire Private 	FMN 	Fire-Tac 
-453.92500 	WQPX299 	BM	100.0 PL	Somers DPW 	Public Works 	FMN 	Public Works 
-463.65000 	WQNS945 	RM		Somers BOE 	Board of Education/Maintenance 	FMN 	Schools 
-464.15000 	WQNS945 	RM	156.7 PL	Somers ScBus 	School Bus 	FMN 	Schools 
-154.75500 	WQAY754 	BM	74.4 PL	Stafford PD 	Police Local 	FMN 	Law Dispatch 
-155.82000 	WPNP883 	RM	167.9 PL	Stafford FD 	Fire - Link to 33.44 	FMN 	Fire-Tac 
-155.83500 	WPNP883 	M	167.9 PL	Stafford FG1 	Fireground 1 	FMN 	Fire-Tac 
-155.94000 	WPNP883 	M	167.9 PL	Stafford FG2 	Fireground 2 	FMN 	Fire-Tac 
-153.95000 	WQGL767 	BM		Stafford EMA 	Emergency Management 	FMN 	Emergency Ops 
-155.07750 	WQCX473 	RM	94.8 PL	Stafford Twn 	Townwide 	FMN 	Public Works 
-156.04500 	 	BM	CSQ	Stafford DPW 	Public Works 	FMN 	Public Works 
-460.02500 	KLP936 	RM	141.3 PL	TollandFire1 	Fire - XBand to 33.86 	FMN 	Fire Dispatch 
-154.74000 	KNET258 	RM	CSQ	TollandFire2 	Fire - Link to 460.025 	FMN 	Fire Dispatch 
-154.10000 	KLP936 	RM	156.7 PL	Tolland DPW 	Public Works 	FMN 	Public Works 
-453.57500 	WQKE381 	RM	167.9 PL	Union Fire 	Fire - Link to 33.86 	FMN 	Fire-Tac 
-453.81250 	WPMK375 	RM	046 NAC	Vernon PD 1 	Police Operations 1 	P25 	Law Dispatch 
-460.32500 	KSI977 	RM	046 NAC	Vernon PD 2 	Police Secondary 2 	P25 	Law Tac 
-460.16250 	WQAY713 	BM	100.0 PL	Vernon PD1A 	Police Ch 1 Analog Simulcast  	FMN 	Law Dispatch 
-451.88750 	WPWX946 	RM	100.0 PL	Vernon FD-PD 	Fire/Police Coordination 	FMN 	Interop 
-155.22750 	WQFV902 	B	179.9 PL	Vernon FD 1 	Fire Dispatch 	FMN 	Fire Dispatch 
-460.38750 	WQAY713 	RM	118.8 PL	Vernon FD 2 	Fire Operations 	FMN 	Fire-Tac 
-453.98750 	WNFA251 	RM	151.4 PL	Vernon FD 3 	Fire 	FMN 	Fire-Tac 
-461.78750 	WPWX946 	RM	162.2 PL	Vernon FD 4 	Fire Police Operations 	FMN 	Fire-Tac 
-466.78750 	WPWX946 	M		Vernon FD 5 	Fire Police On-Scene 	FMN 	Fire-Tac 
-451.88750 	WPWX946 	RM	107.2 PL	Vernon FD 6 	Fire Officers 	FMN 	Fire-Tac 
-451.88750 	WPWX946 	RM	141.3 PL	Vernon FD 8 	Fire Marshal 	FMN 	Fire-Tac 
-451.88750 	WPWX946 	RM	162.2 PL	Vernon EMS 	EMS Operations 	FMN 	EMS-Tac 
-453.10000 	KNCR220 	RM	100.0 PL	Vernon DPW 	Public Works 	FMN 	Public Works 
-461.78750 	WPWX946 	RM	141.3 PL	Vernon Parks 	Parks and Recreation  	FMN 	Public Works 
-461.78750 	WPWX946 	RM	107.2 PL	Vernon Town 	Town Administration 	FMN 	Public Works 
-463.43750 	WPWX946 	RM	100.0 PL	Vernon Intrp 	Townwide interoperations 	FMN 	Interop 
-852.87500 	WPQK585 	RM	223 DPL	UCONN PD 1 	Police Operations 1 	FMN 	Law Dispatch 
-853.11250 	WPQK585 	RM	125 DPL	UCONN PD 2 	Police Secondary 2 	FMN 	Law Dispatch 
-853.36250 	WPQK585 	RM	174 DPL	UCONN PD Sop 	Police Special Operations 	FMN 	Law Tac 
-853.85000 	WPQK585 	RM	047 DPL	UCONN StPtrl 	Student Patrol/Husky Watch 	FMN 	Law Talk 
-453.40000 	KXX301 	RM	167.9 PL	UCONN Fire 1 	Fire Operations 1 	FMN 	Fire-Tac 
-453.90000 	 	BM	167.9 PL	UCONN Fire 2 	Fire 2 	FMN 	Fire-Tac 
-464.87500 	 	RM	156.7 PL	UCONN Elect 	Electricians 	FMN 	Utilities 
-Connecticut Land Mobile Radio Network (CLMRN)	 Project 25 Phase II	 Statewide	Marcus Communications - Statewide	 LTR Standard and Passport	 Various	Marcus Spectrum Holdings, LLC	 DMR Tier 3
- Various	Somers Board of Health	 DMR Motorola Capacity Plus Single Site (TRBO)	 Somers	
+153.12500 	   	WQKB503 	BM	179.9 PL	TN Dispatch 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+33.44000 	   	KCD346 	BM	179.9 PL	TN Ops 33.44 	Fire Operations - South 	FM 	Fire Dispatch 
+33.86000 	   	KCD346 	BM	179.9 PL	TN Ops 33.86 	Fire Operations - North 	FM 	Fire Dispatch 
+33.48000 	   	WNFA251 	BM	179.9 PL	TN Ops 33.48 	Fire Operations - Vernon 	FM 	Fire Dispatch 
+465.56250 	   	WNHV903 	M	205 DPL	TN Tac-1 	TN Tac-1 	FMN 	Fire-Tac 
+460.51250 	   	WNHV903 	M	245 DPL	TN Tac-2 	TN Tac-2 	FMN 	Fire-Tac 
+465.51250 	   	WNHV903 	M	265 DPL	TN Tac-3 	TN Tac-3 	FMN 	Fire-Tac 
+458.11250 	   	WNHV903 	M	315 DPL	TN Tac-4 	TN Tac-4 	FMN 	Fire-Tac 
+460.56250 	   	WNHV903 	M	365 DPL	TN Tac-15 	TN Tac-15 	FMN 	Fire-Tac 
+458.91250 	   	WNHV903 	M	445 DPL	TN Tac-16 	TN Tac-16 	FMN 	Fire-Tac 
+453.35000 	458.35000  	WNHV903 	RM	664 DPL	TN FD M/ASvc 	Fire Mutal Aid Service 	FMN 	Fire-Tac 
+453.13750 	458.13750  	WNHV903 	F	151.4 PL	TN UHF 33.44 	UHF Link to 33.44 	FMN 	Fire Dispatch 
+464.85000 	469.85000  	WQFE809 	RM	141.3 PL	TN UHF 33.44 	UHF Link to 33.44 - Box Mountain 	FMN 	Fire Dispatch 
+452.22500 	457.22500  	KNFQ523 	RM	151.4 PL	TN Somers UHF 	Somers - Soapstone UHF 	FMN 	Fire Dispatch 
+452.22500 	457.22500  	WPZK808 	RM	173.8 PL	TN SoapXBand 	Somers - Soapstone X Band - Link to 33.86 	FMN 	Fire Dispatch 
+453.43750 	458.43750  	WPWD538 	RM	151.4 PL	TN JMH UHF 	Johnson Memorial - UHF Operations 	FMN 	Fire Dispatch 
+453.43750 	458.43750  	WPWD538 	RM	173.8 PL	TN JMH to 33.86 	Johnson Memorial X-Band - Link to 33.86 	FMN 	Fire Dispatch 
+460.26250 	465.26250  	WNHV903 	RM	143 DPL	TN UHF 33.86 	Hampden Rd (Stafford) - Link to 33.86/UHF 	FMN 	Fire Dispatch 
+463.37500 	468.37500  	WQFC366 	RM	151.4 PL	TN Ashford XBand 	Ashford X Band - Link to 33.44 	FMN 	Fire Dispatch 
+453.37500 	458.37500  	WPDV738 	RM	103.5 PL	TN Union XBnd/UH 	Union - XBand to 33.86/UHF 	FMN 	Fire Dispatch 
+460.18750 	465.18750  	WNZW987 	RM	143 DPL	TN Storrs XBandU 	Storrs - XBand to 33.44/UHF 	FMN 	Fire Dispatch 
+464.47500 	469.47500  	WQFC366 	RM	151.4 PL	TN MansfieldXBan 	Mansfield - XBand to 33.44 	FMN 	Fire Dispatch 
+453.21250 	458.21250  	KQM586 	RM	203.5 PL	TN CoventryX44 	Coventry - XBand to 33.44 	FMN 	Fire Dispatch 
+453.96250 	458.96250  	WNHV903 	RM	114.8 PL	TN CoventryX78 	Coventry - XBand to 33.78 	FMN 	Fire Dispatch 
+453.18750 	458.18750  	WQXV554 	RM	743 DPL	TN VernonX3386 	Vernon - Box Mtn - XBand to 33.86 	FMN 	Fire Dispatch 
+453.27500 	458.27500  	WNHV903 	RM	141.3 PL	TN Vernon UHF275 	Vernon - Box Mtn - UHF 275 	FMN 	Fire Dispatch 
+464.85000 	469.85000  	WQFE809 	RM	151.4 PL	TN VernonX3344 	Vernon - Box Mtn - XBand to 33.44 	FMN 	Fire Dispatch 
+461.37500 	466.37500  	WQHS931 	RM	343 DPL	TN TollandX33.86 	Tolland - Old Post Rd - XBand to 33.86 	FMN 	Fire Dispatch 
+460.48750 	465.48750  	WNHV903 	RM	114.8 PL	TollandXB33.78 	Tolland - Bald Hill - XBand to 33.78 	FMN 	Fire Dispatch 
+462.22500 	467.22500  	WQFC366 	RM	151.4 PL	TN HebronXB/UHF 	Hebron - XBand to 33.44/UHF 	FMN 	Fire Dispatch 
+453.93750 	458.93750  	WNHV903 	RM	203.5 PL	TN Lebanon XB44 	Lebanon - Gates Hill - XBand44 	FMN 	Fire Dispatch 
+453.37500 	458.37500  	WNHV903 	RM	123.0 PL	TN Lebanon UHF 	Lebanon - Gates Hill - UHF 375 	FMN 	Fire Dispatch 
+453.61250 	458.61250  	WQXV551 	RM	151.4 PL	Birch XBand4590 	Birch Mountain - XBand to 45.90 	FMN 	Fire Dispatch 
+453.31250 	458.31250  	 	RM	151.4 PL	TN NMain XB4590 	North Main - XBand to 45.90 	FMN 	Fire Dispatch 
+45.14000 	   	KCZ470 	BM	156.7 PL	Coventry PD1 	Police 	FM 	Law Dispatch 
+453.56250 	   	KQM586 	M	186.2 PL	Coventry PD2 	Police Cross-band to 45.14 MHz 	FMN 	Law Dispatch 
+155.14500 	   	WQFJ204 	B		Coventry FD1 	Fire - Link to 33.80 	FMN 	Fire Dispatch 
+45.40000 	   	KQM586 	BM	141.3 PL	Coventry DPW 	Public Works 	FM 	Public Works 
+453.76250 	   	KQM586 	M	123.0 PL	Coventry DPW 	Public Works - Link to 45.4 MHz 	FMN 	Public Works 
+453.52500 	458.52500  	WNCB878 	RM	100.0 PL	Ellington PD 	Police/Public Works 	FMN 	Multi-Dispatch 
+153.75500 	   	WQBP350 	BM		Ellington FD 	Fire - Link to 33.80 	FMN 	Fire Dispatch 
+453.52500 	458.52500  	WNCB878 	RM	107.2 PL	Ellington SB 	School Buses 	FMN 	Schools 
+453.28750 	458.28750  	WPVI840 	RM	151.4 PL	Hebron FD 1 	Fire 	FMN 	Fire-Tac 
+154.32500 	   	WPVI840 	BM	74.4 PL	Hebron FD 2 	Fire - Link to 33.90 	FMN 	Fire Dispatch 
+460.77500 	   	 	RM	74.4 PL	Hebron FD 3 	Fire/EMS Administration 	FMN 	Fire-Tac 
+458.03750 	   	WNHV903 	M	100.0 PL	Hebron FD 4 	Fire Vehicle Repeaters 	FMN 	Fire-Tac 
+46.54000 	   	KNAR851 	BM	141.3 PL	Hebron DPW 	Public Works 	FM 	Public Works 
+33.80000 	   	KBV999 	BM	179.9 PL	Lebanon Fire 	Fire 	FM 	Fire-Talk 
+453.91250 	   	 	BM	151.4 PL	Mansfld FD 1 	Fire - Link to 33.44 	FMN 	Fire-Tac 
+458.41250 	   	 	RM		Mansfld FG R 	Fireground Red 	FMN 	Fire-Tac 
+456.58750 	   	 	RM	179.9 PL	Mansfld FG B 	Fireground Blue 	FMN 	Fire-Tac 
+452.18750 	   	 	RM	203.5 PL	Mansfld FD 2 	Fire Police 	FMN 	Fire-Tac 
+453.86250 	458.86250  	 	RM		Mansfld FD 3 	Fire Private 	FMN 	Fire-Tac 
+453.92500 	   	WQPX299 	BM	100.0 PL	Somers DPW 	Public Works 	FMN 	Public Works 
+463.65000 	468.65000  	WQNS945 	RM		Somers BOE 	Board of Education/Maintenance 	FMN 	Schools 
+464.15000 	469.15000  	WQNS945 	RM	156.7 PL	Somers ScBus 	School Bus 	FMN 	Schools 
+154.75500 	   	WQAY754 	BM	74.4 PL	Stafford PD 	Police Local 	FMN 	Law Dispatch 
+155.82000 	   	WPNP883 	RM	167.9 PL	Stafford FD 	Fire - Link to 33.44 	FMN 	Fire-Tac 
+155.83500 	   	WPNP883 	M	167.9 PL	Stafford FG1 	Fireground 1 	FMN 	Fire-Tac 
+155.94000 	   	WPNP883 	M	167.9 PL	Stafford FG2 	Fireground 2 	FMN 	Fire-Tac 
+153.95000 	   	WQGL767 	BM		Stafford EMA 	Emergency Management 	FMN 	Emergency Ops 
+155.07750 	153.77750  	WQCX473 	RM	94.8 PL	Stafford Twn 	Townwide 	FMN 	Public Works 
+156.04500 	   	 	BM	CSQ	Stafford DPW 	Public Works 	FMN 	Public Works 
+460.02500 	465.02500  	KLP936 	RM	141.3 PL	TollandFire1 	Fire - XBand to 33.86 	FMN 	Fire Dispatch 
+154.74000 	   	KNET258 	RM	CSQ	TollandFire2 	Fire - Link to 460.025 	FMN 	Fire Dispatch 
+154.10000 	   	KLP936 	RM	156.7 PL	Tolland DPW 	Public Works 	FMN 	Public Works 
+453.57500 	458.57500  	WQKE381 	RM	167.9 PL	Union Fire 	Fire - Link to 33.86 	FMN 	Fire-Tac 
+453.81250 	458.81250  	WPMK375 	RM	046 NAC	Vernon PD 1 	Police Operations 1 	P25 	Law Dispatch 
+460.32500 	465.32500  	KSI977 	RM	046 NAC	Vernon PD 2 	Police Secondary 2 	P25 	Law Tac 
+460.16250 	   	WQAY713 	BM	100.0 PL	Vernon PD1A 	Police Ch 1 Analog Simulcast  	FMN 	Law Dispatch 
+451.88750 	456.88750  	WPWX946 	RM	100.0 PL	Vernon FD-PD 	Fire/Police Coordination 	FMN 	Interop 
+155.22750 	   	WQFV902 	B	179.9 PL	Vernon FD 1 	Fire Dispatch 	FMN 	Fire Dispatch 
+460.38750 	465.38750  	WQAY713 	RM	118.8 PL	Vernon FD 2 	Fire Operations 	FMN 	Fire-Tac 
+453.98750 	458.98750  	WNFA251 	RM	151.4 PL	Vernon FD 3 	Fire 	FMN 	Fire-Tac 
+461.78750 	466.78750  	WPWX946 	RM	162.2 PL	Vernon FD 4 	Fire Police Operations 	FMN 	Fire-Tac 
+466.78750 	   	WPWX946 	M		Vernon FD 5 	Fire Police On-Scene 	FMN 	Fire-Tac 
+451.88750 	456.88750  	WPWX946 	RM	107.2 PL	Vernon FD 6 	Fire Officers 	FMN 	Fire-Tac 
+451.88750 	456.88750  	WPWX946 	RM	141.3 PL	Vernon FD 8 	Fire Marshal 	FMN 	Fire-Tac 
+451.88750 	456.88750  	WPWX946 	RM	162.2 PL	Vernon EMS 	EMS Operations 	FMN 	EMS-Tac 
+453.10000 	458.10000  	KNCR220 	RM	100.0 PL	Vernon DPW 	Public Works 	FMN 	Public Works 
+461.78750 	466.78750  	WPWX946 	RM	141.3 PL	Vernon Parks 	Parks and Recreation  	FMN 	Public Works 
+461.78750 	466.78750  	WPWX946 	RM	107.2 PL	Vernon Town 	Town Administration 	FMN 	Public Works 
+463.43750 	468.43750  	WPWX946 	RM	100.0 PL	Vernon Intrp 	Townwide interoperations 	FMN 	Interop 
+852.87500 	   	WPQK585 	RM	223 DPL	UCONN PD 1 	Police Operations 1 	FMN 	Law Dispatch 
+853.11250 	   	WPQK585 	RM	125 DPL	UCONN PD 2 	Police Secondary 2 	FMN 	Law Dispatch 
+853.36250 	   	WPQK585 	RM	174 DPL	UCONN PD Sop 	Police Special Operations 	FMN 	Law Tac 
+853.85000 	   	WPQK585 	RM	047 DPL	UCONN StPtrl 	Student Patrol/Husky Watch 	FMN 	Law Talk 
+453.40000 	458.40000  	KXX301 	RM	167.9 PL	UCONN Fire 1 	Fire Operations 1 	FMN 	Fire-Tac 
+453.90000 	   	 	BM	167.9 PL	UCONN Fire 2 	Fire 2 	FMN 	Fire-Tac 
+464.87500 	   	 	RM	156.7 PL	UCONN Elect 	Electricians 	FMN 	Utilities 
+Marcus Communications - Statewide	 LTR Standard and Passport	 Various	Somers Board of Health	 DMR Motorola Capacity Plus Single Site (TRBO)	 Somers	

@@ -1,22 +1,22 @@
-155.07000 	KAD520 	RM	009 NAC	BremerShP25 	Sheriff Dispatch 	P25e 	Law Dispatch 
-155.07000 	KAD520 	RM	136.5 PL	Bremer Sh 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.58000 	KAD520 	B	167.9 PL	Bremer InfoB 	Sheriff Information - Base  	FMN 	Law Talk 
-155.91000 	KAD520 	M		Bremer InfoM 	Sheriff Information - Mobiles 	FMN 	Law Talk 
-154.98000 	WQZZ621 	RM	331 DPL	Bremer Jail 	Jail Operations 	FMN 	Corrections 
-154.34000 	KQR545 	BM	167.9 PL	Bremer Fire 	Fire and Ambulance Dispatch 	FMN 	Fire Dispatch 
-154.07000 	KQR545 	M	167.9 PL	Bremer SandR 	Search and Rescue 	FMN 	Emergency Ops 
-159.28500 	KQR545 	RM	173.8 PL	BremerCoTAC 	County TAC - Interop for all county departments 	FMN 	Interop 
-155.34000 	KZR449 	BM	94.8 PL	Bremer EMS 	EMS - Response 	FMN 	EMS-Tac 
-151.02500 	KAK453 	RM	146.2 PL	Bremer Roads 	Road Department 	FMN 	Public Works 
-453.07500 	WQXC653 	F	192.8 PL	FireUHFTripo 	UHF Link for 154.340 - Tripoli Site 	FMN 	Fire Dispatch 
-453.20000 	WQOX203 	F	167.9 PL	FireUHFLarab 	UHF Link for 154.340 - Larabee Site 	FMN 	Fire Dispatch 
-155.04000 	WPTR822 	RM	203.5 PL	Denver PW 	Public Works 	FMN 	Public Works 
-155.94000 	WRE351 	BM	94.8 PL	Sumner Page 	Police / Fire / EMS Paging 	FMN 	Multi-Dispatch 
-156.22500 	WQKZ839 	RM	432 DPL	ComHosSumner 	Community Hospital 	FMN 	Business 
-153.98000 	WNDP665 	BM	103.5 PL	Tripoli EMS 	Tripoli EMS 	FMN 	EMS-Talk 
-151.28750 	KAD520 	RM	009 NAC	Waverly Law 	Waverly Law - linked to 155.070 	P25e 	Law Dispatch 
-151.58000 	WQEK397 	RM	94.8 PL	Waverly Hosp 	Health Center Maintennace 	FMN 	Business 
-153.72500 	WQBZ226 	RM	127.3 PL	WaverlyLight 	Light and Power 	FMN 	Public Works 
-158.80500 	KEF963 	RM	192.8 PL	Waverly City 	Public Works 	FMN 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	Mid American Energy	 MPT-1327 Standard
- Various	RACOM Network	 EDACS Networked Standard	 Various	
+155.07000 	156.03000  	KAD520 	RM	009 NAC	BremerShP25 	Sheriff Dispatch 	P25e 	Law Dispatch 
+155.07000 	156.03000  	KAD520 	RM	136.5 PL	Bremer Sh 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.58000 	   	KAD520 	B	167.9 PL	Bremer InfoB 	Sheriff Information - Base  	FMN 	Law Talk 
+155.91000 	   	KAD520 	M		Bremer InfoM 	Sheriff Information - Mobiles 	FMN 	Law Talk 
+154.98000 	159.31500  	WQZZ621 	RM	331 DPL	Bremer Jail 	Jail Operations 	FMN 	Corrections 
+154.34000 	   	KQR545 	BM	167.9 PL	Bremer Fire 	Fire and Ambulance Dispatch 	FMN 	Fire Dispatch 
+154.07000 	   	KQR545 	M	167.9 PL	Bremer SandR 	Search and Rescue 	FMN 	Emergency Ops 
+159.28500 	151.16000  	KQR545 	RM	173.8 PL	BremerCoTAC 	County TAC - Interop for all county departments 	FMN 	Interop 
+155.34000 	   	KZR449 	BM	94.8 PL	Bremer EMS 	EMS - Response 	FMN 	EMS-Tac 
+151.02500 	156.19500  	KAK453 	RM	146.2 PL	Bremer Roads 	Road Department 	FMN 	Public Works 
+453.07500 	   	WQXC653 	F	192.8 PL	FireUHFTripo 	UHF Link for 154.340 - Tripoli Site 	FMN 	Fire Dispatch 
+453.20000 	   	WQOX203 	F	167.9 PL	FireUHFLarab 	UHF Link for 154.340 - Larabee Site 	FMN 	Fire Dispatch 
+155.04000 	153.78500  	WPTR822 	RM	203.5 PL	Denver PW 	Public Works 	FMN 	Public Works 
+155.94000 	   	WRE351 	BM	94.8 PL	Sumner Page 	Police / Fire / EMS Paging 	FMN 	Multi-Dispatch 
+156.22500 	150.80500  	WQKZ839 	RM	432 DPL	ComHosSumner 	Community Hospital 	FMN 	Business 
+153.98000 	   	WNDP665 	BM	103.5 PL	Tripoli EMS 	Tripoli EMS 	FMN 	EMS-Talk 
+151.28750 	   	KAD520 	RM	009 NAC	Waverly Law 	Waverly Law - linked to 155.070 	P25e 	Law Dispatch 
+151.58000 	159.72000  	WQEK397 	RM	94.8 PL	Waverly Hosp 	Health Center Maintennace 	FMN 	Business 
+153.72500 	158.16000  	WQBZ226 	RM	127.3 PL	WaverlyLight 	Light and Power 	FMN 	Public Works 
+158.80500 	153.80000  	KEF963 	RM	192.8 PL	Waverly City 	Public Works 	FMN 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	Mid American Energy	 MPT-1327 Standard	 Various
+RACOM Network	 EDACS Networked Standard	 Various	

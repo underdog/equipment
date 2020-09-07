@@ -1,26 +1,27 @@
-155.93250 	WQYC573 	RM	300 NAC	Medina SO 1D 	Law Enforcement Primary 	P25 	Law Dispatch 
-155.93250 	WQYC573 	RM	203.5 PL	Medina SO 1A 	Law Enforcement Primary - Analog Side 	FMN 	Law Dispatch 
-155.64000 	KVF684 	RM	300 NAC	Medina SO 2D 	Law Enforcement Secondary 	P25 	Law Tac 
-155.64000 	KVF684 	RM	203.5 PL	Medina SO 2A 	Law Enforcement Secondary - Analog Side 	FMN 	Law Dispatch 
-155.30250 	WQYC573 	RM	186.2 PL	MedinaFire/EMS 1 	Fire/EMS Primary  	FMN 	Fire Dispatch 
-155.30250 	WQYC573 	RM	300 NAC	MedinaFire/EMS D 	Fire/EMS Primary - Digital Side 	P25 	Fire Dispatch 
-158.76000 	KVF684 	RM	203.5 PL	MedinaFire/EMS 2 	Fire/EMS Secondary 	FMN 	Fire Dispatch 
-155.76750 	WQGW269 	RM	203.5 PL	Castroville MA 1 	Mutual Aid - Castroville Repeater 	FMN 	Multi-Tac 
-155.01750 	WQEZ464 	RM	203.5 PL	D'Hanis MA 1 	Mutual Aid - D'Hanis Repeater 	FMN 	Multi-Tac 
-155.81250 	WQUE654 	RM	203.5 PL	Dunlay MA 1 	Mutual Aid - Dunlay Repeater 	FMN 	Multi-Tac 
-155.13750 	WQFG832 	RM	203.5 PL	Mico MA 1 	Mutual Aid - Mico Repeater 	FMN 	Multi-Tac 
-158.82750 	WQEZ337 	RM	203.5 PL	Natalia MA 1 	Mutual Aid - Natalia Repeater 	FMN 	Multi-Tac 
-158.82000 	WPFQ323 	RM	203.5 PL	Medina Co RB 	Road and Bridge 	FMN 	Public Works 
-153.59000 	WXN587 	RM		E Medina Uti 	East Medina County Special Utility District 	FMN 	Public Works 
-453.32500 	WPVQ896 	RM		MCSO Links 	Medina Co. Tower Links 	FMN 	Data 
-453.42500 	WPVQ896 	RM		MCSO Links 	Medina Co. Tower Links 	FMN 	Data 
-154.05500 	WNAS200 	BM		Castrovil PD 	Castroville Police Car-Car 	FMN 	Law Tac 
-154.34000 	WNJK593 	BM		Castrovil FD 	Castroville Fire Tactical 	FMN 	Fire-Tac 
-155.92500 	WQGW269 	RM		Castrovil PW 	Castroville Public Works 	FMN 	Public Works 
-154.84500 	KNHQ883 	RM	203.5 PL	Devine PDEMS 	Devine Police/EMS Primary 	FMN 	Multi-Dispatch 
-154.19000 	KLP915 	RM	123.0 PL	Devine VFD 	Devine Fire Dispatch 	FMN 	Fire Dispatch 
-155.87250 	WQRK323 	RM	FF1 NAC	Hondo PD 	Hondo Police Dispatch 	P25 	Law Dispatch 
-156.00000 	KNEU559 	RM		Hondo Police 	Hondo Police Analog 	FMN 	Law Dispatch 
-153.92000 	KNHS786 	BM		Hondo PW 	Hondo Public Works 	FMN 	Public Works 
-155.77500 	KNHS786 	RM		Hondo Water 	Hondo Water/Sewer 	FMN 	Public Works 
-156.18000 	KNDJ496 	RM		Natalia VFD 	Natalia Volunteer Fire Primary 	FMN 	Fire Dispatch 
+155.93250 	159.03750  	WQYC573 	RM	300 NAC	Medina SO 1D 	Law Enforcement Primary 	P25 	Law Dispatch 
+155.93250 	159.03750  	WQYC573 	RM	203.5 PL	Medina SO 1A 	Law Enforcement Primary - Analog Side 	FMN 	Law Dispatch 
+155.64000 	154.75500  	KVF684 	RM	300 NAC	Medina SO 2D 	Law Enforcement Secondary 	P25 	Law Tac 
+155.64000 	154.75500  	KVF684 	RM	203.5 PL	Medina SO 2A 	Law Enforcement Secondary - Analog Side 	FMN 	Law Dispatch 
+155.30250 	158.86500  	WQYC573 	RM	186.2 PL	MedinaFire/EMS 1 	Fire/EMS Primary  	FMN 	Fire Dispatch 
+155.30250 	158.86500  	WQYC573 	RM	300 NAC	MedinaFire/EMS D 	Fire/EMS Primary - Digital Side 	P25 	Fire Dispatch 
+158.76000 	154.10000  	KVF684 	RM	203.5 PL	MedinaFire/EMS 2 	Fire/EMS Secondary 	FMN 	Fire Dispatch 
+155.76750 	158.92500  	WQGW269 	RM	203.5 PL	Castroville MA 1 	Mutual Aid - Castroville Repeater 	FMN 	Multi-Tac 
+155.01750 	155.61750  	WQEZ464 	RM	203.5 PL	D'Hanis MA 1 	Mutual Aid - D'Hanis Repeater 	FMN 	Multi-Tac 
+155.81250 	158.93250  	WQUE654 	RM	203.5 PL	Dunlay MA 1 	Mutual Aid - Dunlay Repeater 	FMN 	Multi-Tac 
+155.13750 	155.67750  	WQFG832 	RM	203.5 PL	Mico MA 1 	Mutual Aid - Mico Repeater 	FMN 	Multi-Tac 
+158.82750 	154.77750  	WQEZ337 	RM	203.5 PL	Natalia MA 1 	Mutual Aid - Natalia Repeater 	FMN 	Multi-Tac 
+158.82000 	153.80000  	WPFQ323 	RM	203.5 PL	Medina Co RB 	Road and Bridge 	FMN 	Public Works 
+153.59000 	   	WXN587 	RM		E Medina Uti 	East Medina County Special Utility District 	FMN 	Public Works 
+453.32500 	458.32500  	WPVQ896 	RM		MCSO Links 	Medina Co. Tower Links 	FMN 	Data 
+453.42500 	458.42500  	WPVQ896 	RM		MCSO Links 	Medina Co. Tower Links 	FMN 	Data 
+154.05500 	   	WNAS200 	BM		Castrovil PD 	Castroville Police Car-Car 	FMN 	Law Tac 
+154.34000 	   	WNJK593 	BM		Castrovil FD 	Castroville Fire Tactical 	FMN 	Fire-Tac 
+155.92500 	   	WQGW269 	RM		Castrovil PW 	Castroville Public Works 	FMN 	Public Works 
+154.84500 	158.80500  	KNHQ883 	RM	203.5 PL	Devine PDEMS 	Devine Police/EMS Primary 	FMN 	Multi-Dispatch 
+154.19000 	   	KLP915 	RM	123.0 PL	Devine VFD 	Devine Fire Dispatch 	FMN 	Fire Dispatch 
+155.87250 	159.40500  	WQRK323 	RM	FF1 NAC	Hondo PD 	Hondo Police Dispatch 	P25 	Law Dispatch 
+156.00000 	153.96500  	KNEU559 	RM		Hondo Police 	Hondo Police Analog 	FMN 	Law Dispatch 
+153.92000 	   	KNHS786 	BM		Hondo PW 	Hondo Public Works 	FMN 	Public Works 
+155.77500 	158.94000  	KNHS786 	RM		Hondo Water 	Hondo Water/Sewer 	FMN 	Public Works 
+156.18000 	153.93500  	KNDJ496 	RM		Natalia VFD 	Natalia Volunteer Fire Primary 	FMN 	Fire Dispatch 
+BrandMeister Texas	 DMR Conventional Networked	 Various	

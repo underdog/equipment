@@ -1,19 +1,18 @@
-154.31000 	WQSC604 	RM		BP -911 3100 	Parish -911 Repeater (Fire/Rescue) 	FMN 	Fire-Tac 
-154.34000 	WPCI842 	RM	172 DPL	BP -911 3400 	Parish -911 Repeater (Fire/EMS Dispatch) 	FMN 	Fire Dispatch 
-154.44500 	WQSC604 	RM		BP -911 4450 	Parish -911 Repeater (Fire/Rescue) 	FMN 	Fire-Tac 
-155.26500 	WPCI842 	RM		BP -911 2650 	Parish -911 Repeater (Fire/Rescue) 	FMN 	Fire-Tac 
-155.55000 	WPCI842 	RM		BP -911 5500 	Parish -911 Repeater (Fire/Rescue) 	FMN 	Fire-Tac 
-155.76750 	WPCI842 	RM		BP -911 7675 	Parish -911 Repeater (Fire/Rescue) 	FMN 	Fire-Tac 
-155.01000 	WPMQ703 	RM		BP FD1 	East Central Bossier Fire District 1 	DMR 	Fire-Tac 
-154.43000 	WNHQ387 	RM		BP FD2 1 	South Bossier Fire District 2 Tactical 1 	DMR 	Fire-Tac 
-154.37000 	WNHQ387 	RM		BP FD2 2 	South Bossier Fire District 2 Tactical 2 	DMR 	Fire-Tac 
-151.10000 	WRZ567 	RM		BP FD4 NEO 	Benton Fire District 4 Non Emergency Operations 	DMR 	Fire-Tac 
-154.13000 	WRZ567 	BM		BP FD4 TAC 	Benton Fire District 4 Tactical/Fireground 	DMR 	Fire-Tac 
-856.48750 	WPGU282 	RM		BPSO TA/TAC 	Sheriff Talkaround/Tactical 	FM 	Law Tac 
-155.67000 	KLV691 	RM	162.2 PL	BC Fire VHF 	Bossier City Fire/EMS E-911 Voice Paging 	FM 	Fire Dispatch 
-855.46250 	WPJM408 	RM	143 DPL	BC Fire Conv 	Bossier City Fire/EMS Conventional Repeater 	FM 	Fire-Tac 
-159.13500 	WNWK779 	RM		HaughtonFire 	Haughton City Fire/EMS Dispatch 	FM 	Fire Dispatch 
-45.12000 	WNAE301 	BM		Haughton PW 	Haughton City Public Works 	FM 	Public Works 
-American Electric Power (AR/LA/TX)	 EDACS Networked Standard	 Various	Barksdale Air Force Base	 Motorola Type II Smartnet	 Bossier City	Barksdale Air Force Base (P-25)	 Project 25 Phase I
- Bossier City, LA	Bossier City Public Works	 Motorola Type II Smartnet	 Bossier City	Bossier Parish Sheriff	 Motorola Type II SmartZone	 Fillmore	Entergy 
- Project 25 Phase II	 Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	
+154.31000 	   	WQSC604 	RM		BP -911 3100 	Parish -911 Repeater (Fire/Rescue) 	FMN 	Fire-Tac 
+154.34000 	159.01500  	WPCI842 	RM	172 DPL	BP -911 3400 	Parish -911 Repeater (Fire/EMS Dispatch) 	FMN 	Fire Dispatch 
+154.44500 	   	WQSC604 	RM		BP -911 4450 	Parish -911 Repeater (Fire/Rescue) 	FMN 	Fire-Tac 
+155.26500 	   	WPCI842 	RM		BP -911 2650 	Parish -911 Repeater (Fire/Rescue) 	FMN 	Fire-Tac 
+155.55000 	   	WPCI842 	RM		BP -911 5500 	Parish -911 Repeater (Fire/Rescue) 	FMN 	Fire-Tac 
+155.76750 	   	WPCI842 	RM		BP -911 7675 	Parish -911 Repeater (Fire/Rescue) 	FMN 	Fire-Tac 
+155.01000 	153.90500  	WPMQ703 	RM		BP FD1 	East Central Bossier Fire District 1 	DMR 	Fire-Tac 
+154.43000 	   	WNHQ387 	RM		BP FD2 1 	South Bossier Fire District 2 Tactical 1 	DMR 	Fire-Tac 
+154.37000 	   	WNHQ387 	RM		BP FD2 2 	South Bossier Fire District 2 Tactical 2 	DMR 	Fire-Tac 
+151.10000 	154.07000  	WRZ567 	RM		BP FD4 NEO 	Benton Fire District 4 Non Emergency Operations 	DMR 	Fire-Tac 
+154.13000 	   	WRZ567 	BM		BP FD4 TAC 	Benton Fire District 4 Tactical/Fireground 	DMR 	Fire-Tac 
+856.48750 	811.48750  	WPGU282 	RM		BPSO TA/TAC 	Sheriff Talkaround/Tactical 	FM 	Law Tac 
+155.67000 	158.73000  	KLV691 	RM	162.2 PL	BC Fire VHF 	Bossier City Fire/EMS E-911 Voice Paging 	FM 	Fire Dispatch 
+855.46250 	810.46250  	WPJM408 	RM	143 DPL	BC Fire Conv 	Bossier City Fire/EMS Conventional Repeater 	FM 	Fire-Tac 
+159.13500 	156.19500  	WNWK779 	RM		HaughtonFire 	Haughton City Fire/EMS Dispatch 	FM 	Fire Dispatch 
+45.12000 	   	WNAE301 	BM		Haughton PW 	Haughton City Public Works 	FM 	Public Works 
+American Electric Power (AR/LA/TX)	 EDACS Networked Standard	 Various	Barksdale Air Force Base	 Motorola Type II Smartnet	 Bossier City	Barksdale Air Force Base (P-25)	 Project 25 Phase I	 Bossier City, LA
+Bossier City Public Works	 Motorola Type II Smartnet	 Bossier City	Bossier Parish Sheriff	 Motorola Type II SmartZone	 Fillmore	Entergy 	 Project 25 Phase II	 Various

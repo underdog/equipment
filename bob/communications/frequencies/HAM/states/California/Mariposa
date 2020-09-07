@@ -1,20 +1,19 @@
-153.99500 	WPET562 	RM	131.8 PL	Mariposa Co SO 	Dispatch 	FM 	Law Dispatch 
-158.76000 	 	BM	206.5 PL	XMPCMDS 	Interop Command South - VHF 	FMN 	Interop 
-155.19000 	 	BM	206.5 PL	XMPCMDN 	Interop Command North - VHF 	FMN 	Interop 
-460.11250 	 	BM	206.5 PL	XMPCMDS 	Interop Command South - UHF 	FMN 	Interop 
-460.43750 	 	BM	206.5 PL	XMPCMDN 	Interop Command North - UHF 	FMN 	Interop 
-859.96250 	 	BM	206.5 PL	XMPCMDS 	Interop Command South - 800 MHz 	FMN 	Interop 
-856.48750 	 	BM	206.5 PL	XMPCMDN 	Interop Command North - 800 MHz 	FMN 	Interop 
-156.19500 	KA89523 	M		MariposaCoPW 	Public Works 	FM 	Public Works 
-153.65000 	WQJY911 	BM		DNC OPS 	Operations 	FM 	Business 
-158.22000 	WQJY911 	BM		DNC OPS 	Operations 	FM 	Business 
-451.30000 	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
-451.90000 	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
-451.95000 	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
-452.17500 	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
-452.45000 	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
-452.80000 	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
-ATT (LTR)	 LTR Standard	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	Fresno Mobile Radio	 LTR Standard
- Various	GR Partnership (Mt Bullion)	 Motorola Type I	 Mount Bullion	Mobile Communications	 LTR Standard	 Bear Valley	Pacific Gas and Electric (PG&E)
- MPT-1327 Standard	 Various	Ray's Radio Shop (DMR)	 DMR Motorola Connect Plus (TRBO)	 Modesto	Silke Communications	 NXDN NEXEDGE 4800	 Northern California
+153.99500 	158.89500  	WPET562 	RM	131.8 PL	Mariposa Co SO 	Dispatch 	FM 	Law Dispatch 
+158.76000 	156.04500  	 	BM	206.5 PL	XMPCMDS 	Interop Command South - VHF 	FMN 	Interop 
+155.19000 	153.83000  	 	BM	206.5 PL	XMPCMDN 	Interop Command North - VHF 	FMN 	Interop 
+460.11250 	465.11250  	 	BM	206.5 PL	XMPCMDS 	Interop Command South - UHF 	FMN 	Interop 
+460.43750 	465.43750  	 	BM	206.5 PL	XMPCMDN 	Interop Command North - UHF 	FMN 	Interop 
+859.96250 	814.96250  	 	BM	206.5 PL	XMPCMDS 	Interop Command South - 800 MHz 	FMN 	Interop 
+856.48750 	811.48750  	 	BM	206.5 PL	XMPCMDN 	Interop Command North - 800 MHz 	FMN 	Interop 
+156.19500 	   	KA89523 	M		MariposaCoPW 	Public Works 	FM 	Public Works 
+153.65000 	   	WQJY911 	BM		DNC OPS 	Operations 	FM 	Business 
+158.22000 	   	WQJY911 	BM		DNC OPS 	Operations 	FM 	Business 
+451.30000 	   	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
+451.90000 	   	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
+451.95000 	   	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
+452.17500 	   	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
+452.45000 	   	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
+452.80000 	   	WPTK638 	BM		DNC OPS 	Operations 	FM 	Business 
+ATT (LTR)	 LTR Standard	 Various	Fresno Mobile Radio	 LTR Standard	 Various	GR Partnership (Mt Bullion)	 Motorola Type I	 Mount Bullion
+Mobile Communications	 LTR Standard	 Bear Valley	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Ray's Radio Shop (DMR)	 DMR Motorola Connect Plus (TRBO)	 Modesto
 TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	

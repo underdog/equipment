@@ -1,61 +1,60 @@
-454.02500 	WQCS595 	RM	146.2 PL	Clfd Co Disp 	Fire Dispatch Countywide 	FM 	Fire Dispatch 
-453.48750 	WQCS595 	RM	156.7 PL	Clfd Co FG 2 	Fireground Rockton 	FM 	Fire-Tac 
-460.63750 	WQCS595 	RM	100.0 PL	Clfd Co FG 3 	Fireground Boggs 	FM 	Fire-Tac 
-453.46250 	WQCS595 	RM	146.2 PL	Clfd Co FG 4 	Fireground Sandy Township 	FM 	Fire-Tac 
-453.07500 	WQCS595 	RM	162.2 PL	Clfd Co FG 5 	Fireground Clover Run 	FM 	Fire-Tac 
-453.86250 	WQCS595 	RM	167.9 PL	Clfd Co FG 6 	Fireground Boone 	FM 	Fire-Tac 
-453.07500 	WQCS595 	RM	151.4 PL	Clfd Co FG 7 	Fireground Karthaus 	FM 	Fire-Tac 
-453.86250 	WQCS595 	RM	141.3 PL	Clfd Co FG 8 	Fireground Chest 	FM 	Fire-Tac 
-453.63750 	WQCS594 	RM	136.5 PL	Clfd Co FG 9 	Fireground Copper 	FM 	Fire-Tac 
-453.15000 	WQCS594 	RM	131.8 PL	ClfdCo FG 10 	Fireground Sandy Ridge 	FM 	Fire-Tac 
-460.33750 	WQCS594 	RM	173.8 PL	ClfdCo FG 11 	Fireground Olanta  	FM 	Fire-Tac 
-460.36250 	WQCS595 	RM	127.3 PL	ClfdCo FG 12 	Fireground Rockton  	FM 	Fire-Tac 
-460.58750 	WQCS595 	BM	114.8 PL	ClfdCo FO 13 	Fire Operations Countywide 	FM 	Fire-Talk 
-460.06250 	WQCS595 	BM	110.9 PL	ClfdCo FO 14 	Fire Operations Countywide 	FM 	Fire-Talk 
-453.17500 	WQCS595 	BM	107.2 PL	ClfdCo FO 15 	Fire Operations Countywide 	FM 	Fire-Talk 
-465.43750 	WQCS595 	BM	103.5 PL	ClfdCo FO 16 	Fire Operations Countywide 	FM 	Fire-Talk 
-460.46250 	KNDR626 	RM	131.8 PL	EMS DISP 	County EMS Dispatch (new) 	FM 	EMS Dispatch 
-462.95000 	KNDR626 	RM	141.3 PL	EMS Med-9 	County EMS F-9  Dispatch 	FM 	EMS Dispatch 
-468.10000 	KNDR626 	M	151.4 PL	EMS Med-5 	Dubois Regional Medical Center patch (Ambulance side) 	FM 	Hospital 
-463.10000 	KNBQ206 	B	141.3 PL	EMS Med-5 	Dubois Regional Medical Center patch (hospital side) 	FM 	Hospital 
-463.12500 	KNBQ206 	B	141.3 PL	EMS Med-6 	Clearfield Hospital to EMS (Alt EMS Dispatch) 	FM 	Hospital 
-468.12500 	KNBQ206 	M	151.4 PL	EMS Med-6 	EMS To Clearfield Hospital 	FM 	Hospital 
-461.42500 	 			Private EMS 	Private Ambulance Provider 	FM 	EMS-Talk 
-454.47500 	 	RM	151.4 PL	Co PD Disp 1 	County Police Dispatch 	FMN 	Law Dispatch 
-460.26250 	WQBY757 	M	97.4 PL	Co PD Tac 1 	Countywide Police Tac 1 	FMN 	Law Tac 
-460.43750 	WQBY757 	M	94.8 PL	Co PD Tac 2 	Countywide Police Tac 2 	FMN 	Law Tac 
-465.23750 	WQBY757 	M	91.5 PL	Co PD Tac 3 	Countywide Police Tac 3 	FMN 	Law Tac 
-465.26250 	WQBY757 	M	88.5 PL	Co PD Tac 4 	Countywide Police Tac 4 	FMN 	Law Tac 
-460.23750 	WQBY757 	M		Co Police 	Countywide Police 	FMN 	Law Tac 
-465.43750 	WQBY757 	M		Co Police 	Countywide Police 	FMN 	Law Tac 
-460.03750 	 	RM		Co Sheriff 	County Sheriff/ PD Ch 2 	FMN 	Law Dispatch 
-453.32500 	KNAK336 	RM		County Jail 	County Jail Operations 	FMN 	Corrections 
-453.47500 	KB54782 		412 DPL	Clearfield 1 	Operations 	FM 	Multi-Talk 
-453.62500 	WQFI474 			Clearfield 2 	Operations 	FM 	Multi-Talk 
-453.40000 	WPXG749 	RM	203.5 PL	DuBois F Dsp 	Fire Dispatch / Fireground 	FM 	Fire Dispatch 
-453.25000 	WPXG749 	RM	131.8 PL	DuBois Fire2 	Fire Alternate 	FM 	Fire Dispatch 
-458.42500 	WPXG749 	RM	186.2 PL	Days Ops 	Fire Dept Community Days Ops 	FM 	Fire-Talk 
-37.18000 	KWH407 	BM	110.9 PL	DuBois DPW 	Public Works Dispatch and Operations 	FM 	Public Works 
-453.10000 	KNNU382 	M		DuBois Water 	Water Department Operations 	FM 	Public Works 
-453.85000 	KWH407 	BM		DuBois Strts 	Street Department 	FM 	Public Works 
-453.70000 	WNSP858 	RM	203.5 PL	Sandy PD/DPW 	Police / PW and Treasure Lake 	FM 	Multi-Dispatch 
-461.95000 	 	RM	162.2 PL	DuBois Schls 	DuBois Area School District 	FM 	Schools 
-462.63750 	 		CSQ	DuBois MS 	DuBois Area Middle School 	FM 	Schools 
-462.66250 	 		CSQ	DuBois HS 	DuBois Area High School 	FM 	Schools 
-464.32500 	WNYH316 	RM	186.2 PL	PSU DuBois 	Penn State DuBois 	FM 	Schools 
-452.10000 	WQAN617 	RM		ClrfldHosp 1 	Clearfield Hospital Ops 1 	FM 	Hospital 
-452.70000 	WQAN617 	RM		ClrfldHosp 2 	Clearfield Hospital Ops 2 	FM 	Hospital 
-464.47500 	WNRD978 	RM	432 DPL	DRMC Ch 13 	Dubois Regional Medical Center 	FM 	Hospital 
-468.81250 	 		179.9 PL	DRMC Trnsprt 	DuBois Regional Medical Center West Transport Ops 	FM 	Hospital 
-452.00000 	WQFE619 	RM		Cornell Ops1 	Cornell Corrections 	FM 	Corrections 
-452.05000 	WQFE619 	RM		Cornell Ops2 	Cornell Corrections 	FM 	Corrections 
-452.97500 	WQFE619 	RM		Cornell Ops3 	Cornell Corrections 	FM 	Corrections 
-461.07500 	WQFE619 	RM		Cornell Ops4 	Cornell Corrections 	FM 	Corrections 
-452.67500 	WNRV818 	RM	110.9 PL	Dufast Trans 	Dufast Transit (DuBois) 	FM 	Transportation 
-463.77500 	 	RM	167.9 PL	ClepperBuses 	Clepper Bus Service 	FM 	Transportation 
-461.20000 	WPJL562 	RM		Chapman Auto 	Chapman Auto Parts And Sales 	FM 	Business 
-451.40000 	WQG478 	RM		DuBrook Conc 	DuBrook Concrete 	FM 	Business 
-460.92500 	WPLD525 	RM		TriangleAuto 	Triangle Auto Springs 	FM 	Business 
-154.57000 	 	M	67.0 PL	Wal-Mart 	Walmart (DuBois) 	FM 	Business 
-Centre Communications	 LTR Standard	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud
- Statewide	
+454.02500 	459.02500  	WQCS595 	RM	146.2 PL	Clfd Co Disp 	Fire Dispatch Countywide 	FM 	Fire Dispatch 
+453.48750 	458.48750  	WQCS595 	RM	156.7 PL	Clfd Co FG 2 	Fireground Rockton 	FM 	Fire-Tac 
+460.63750 	465.63750  	WQCS595 	RM	100.0 PL	Clfd Co FG 3 	Fireground Boggs 	FM 	Fire-Tac 
+453.46250 	458.46250  	WQCS595 	RM	146.2 PL	Clfd Co FG 4 	Fireground Sandy Township 	FM 	Fire-Tac 
+453.07500 	458.07500  	WQCS595 	RM	162.2 PL	Clfd Co FG 5 	Fireground Clover Run 	FM 	Fire-Tac 
+453.86250 	458.86250  	WQCS595 	RM	167.9 PL	Clfd Co FG 6 	Fireground Boone 	FM 	Fire-Tac 
+453.07500 	458.07500  	WQCS595 	RM	151.4 PL	Clfd Co FG 7 	Fireground Karthaus 	FM 	Fire-Tac 
+453.86250 	458.86250  	WQCS595 	RM	141.3 PL	Clfd Co FG 8 	Fireground Chest 	FM 	Fire-Tac 
+453.63750 	458.63750  	WQCS594 	RM	136.5 PL	Clfd Co FG 9 	Fireground Copper 	FM 	Fire-Tac 
+453.15000 	458.15000  	WQCS594 	RM	131.8 PL	ClfdCo FG 10 	Fireground Sandy Ridge 	FM 	Fire-Tac 
+460.33750 	465.33750  	WQCS594 	RM	173.8 PL	ClfdCo FG 11 	Fireground Olanta  	FM 	Fire-Tac 
+460.36250 	465.36250  	WQCS595 	RM	127.3 PL	ClfdCo FG 12 	Fireground Rockton  	FM 	Fire-Tac 
+460.58750 	   	WQCS595 	BM	114.8 PL	ClfdCo FO 13 	Fire Operations Countywide 	FM 	Fire-Talk 
+460.06250 	   	WQCS595 	BM	110.9 PL	ClfdCo FO 14 	Fire Operations Countywide 	FM 	Fire-Talk 
+453.17500 	   	WQCS595 	BM	107.2 PL	ClfdCo FO 15 	Fire Operations Countywide 	FM 	Fire-Talk 
+465.43750 	   	WQCS595 	BM	103.5 PL	ClfdCo FO 16 	Fire Operations Countywide 	FM 	Fire-Talk 
+460.46250 	465.46250  	KNDR626 	RM	131.8 PL	EMS DISP 	County EMS Dispatch (new) 	FM 	EMS Dispatch 
+462.95000 	467.95000  	KNDR626 	RM	141.3 PL	EMS Med-9 	County EMS F-9  Dispatch 	FM 	EMS Dispatch 
+468.10000 	   	KNDR626 	M	151.4 PL	EMS Med-5 	Dubois Regional Medical Center patch (Ambulance side) 	FM 	Hospital 
+463.10000 	   	KNBQ206 	B	141.3 PL	EMS Med-5 	Dubois Regional Medical Center patch (hospital side) 	FM 	Hospital 
+463.12500 	   	KNBQ206 	B	141.3 PL	EMS Med-6 	Clearfield Hospital to EMS (Alt EMS Dispatch) 	FM 	Hospital 
+468.12500 	   	KNBQ206 	M	151.4 PL	EMS Med-6 	EMS To Clearfield Hospital 	FM 	Hospital 
+461.42500 	466.42500  	 			Private EMS 	Private Ambulance Provider 	FM 	EMS-Talk 
+454.47500 	459.47500  	 	RM	151.4 PL	Co PD Disp 1 	County Police Dispatch 	FMN 	Law Dispatch 
+460.26250 	   	WQBY757 	M	97.4 PL	Co PD Tac 1 	Countywide Police Tac 1 	FMN 	Law Tac 
+460.43750 	   	WQBY757 	M	94.8 PL	Co PD Tac 2 	Countywide Police Tac 2 	FMN 	Law Tac 
+465.23750 	   	WQBY757 	M	91.5 PL	Co PD Tac 3 	Countywide Police Tac 3 	FMN 	Law Tac 
+465.26250 	   	WQBY757 	M	88.5 PL	Co PD Tac 4 	Countywide Police Tac 4 	FMN 	Law Tac 
+460.23750 	   	WQBY757 	M		Co Police 	Countywide Police 	FMN 	Law Tac 
+465.43750 	   	WQBY757 	M		Co Police 	Countywide Police 	FMN 	Law Tac 
+460.03750 	   	 	RM		Co Sheriff 	County Sheriff/ PD Ch 2 	FMN 	Law Dispatch 
+453.32500 	458.32500  	KNAK336 	RM		County Jail 	County Jail Operations 	FMN 	Corrections 
+453.47500 	   	KB54782 		412 DPL	Clearfield 1 	Operations 	FM 	Multi-Talk 
+453.62500 	   	WQFI474 			Clearfield 2 	Operations 	FM 	Multi-Talk 
+453.40000 	458.40000  	WPXG749 	RM	203.5 PL	DuBois F Dsp 	Fire Dispatch / Fireground 	FM 	Fire Dispatch 
+453.25000 	458.25000  	WPXG749 	RM	131.8 PL	DuBois Fire2 	Fire Alternate 	FM 	Fire Dispatch 
+458.42500 	   	WPXG749 	RM	186.2 PL	Days Ops 	Fire Dept Community Days Ops 	FM 	Fire-Talk 
+37.18000 	   	KWH407 	BM	110.9 PL	DuBois DPW 	Public Works Dispatch and Operations 	FM 	Public Works 
+453.10000 	   	KNNU382 	M		DuBois Water 	Water Department Operations 	FM 	Public Works 
+453.85000 	   	KWH407 	BM		DuBois Strts 	Street Department 	FM 	Public Works 
+453.70000 	458.70000  	WNSP858 	RM	203.5 PL	Sandy PD/DPW 	Police / PW and Treasure Lake 	FM 	Multi-Dispatch 
+461.95000 	466.95000  	 	RM	162.2 PL	DuBois Schls 	DuBois Area School District 	FM 	Schools 
+462.63750 	   	 		CSQ	DuBois MS 	DuBois Area Middle School 	FM 	Schools 
+462.66250 	   	 		CSQ	DuBois HS 	DuBois Area High School 	FM 	Schools 
+464.32500 	469.32500  	WNYH316 	RM	186.2 PL	PSU DuBois 	Penn State DuBois 	FM 	Schools 
+452.10000 	   	WQAN617 	RM		ClrfldHosp 1 	Clearfield Hospital Ops 1 	FM 	Hospital 
+452.70000 	   	WQAN617 	RM		ClrfldHosp 2 	Clearfield Hospital Ops 2 	FM 	Hospital 
+464.47500 	   	WNRD978 	RM	432 DPL	DRMC Ch 13 	Dubois Regional Medical Center 	FM 	Hospital 
+468.81250 	   	 		179.9 PL	DRMC Trnsprt 	DuBois Regional Medical Center West Transport Ops 	FM 	Hospital 
+452.00000 	457.00000  	WQFE619 	RM		Cornell Ops1 	Cornell Corrections 	FM 	Corrections 
+452.05000 	457.05000  	WQFE619 	RM		Cornell Ops2 	Cornell Corrections 	FM 	Corrections 
+452.97500 	457.97500  	WQFE619 	RM		Cornell Ops3 	Cornell Corrections 	FM 	Corrections 
+461.07500 	466.07500  	WQFE619 	RM		Cornell Ops4 	Cornell Corrections 	FM 	Corrections 
+452.67500 	   	WNRV818 	RM	110.9 PL	Dufast Trans 	Dufast Transit (DuBois) 	FM 	Transportation 
+463.77500 	468.77500  	 	RM	167.9 PL	ClepperBuses 	Clepper Bus Service 	FM 	Transportation 
+461.20000 	   	WPJL562 	RM		Chapman Auto 	Chapman Auto Parts And Sales 	FM 	Business 
+451.40000 	   	WQG478 	RM		DuBrook Conc 	DuBrook Concrete 	FM 	Business 
+460.92500 	   	WPLD525 	RM		TriangleAuto 	Triangle Auto Springs 	FM 	Business 
+154.57000 	   	 	M	67.0 PL	Wal-Mart 	Walmart (DuBois) 	FM 	Business 
+Centre Communications	 LTR Standard	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide

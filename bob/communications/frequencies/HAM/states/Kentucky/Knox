@@ -1,27 +1,32 @@
-453.77500 	WPTP774 	RM	45 RAN	Knox SO East 	Sheriff East 	NXDNE 	Law Dispatch 
-453.62500 	WPTP774 	RM	45 RAN	Knox SO West 	Sheriff West 	NXDNE 	Law Dispatch 
-453.97500 	WPTP774 	RM	45 RAN	Knox SO 	Sheriff  	NXDNE 	Law Talk 
-453.50000 	WPTP774 	BM	311 DPL	Knox FD Dsp 	Fire Dispatch 	FME 	Fire Dispatch 
-453.12500 	WPQZ266 	RM	074 DPL	Knox FD  	Artemus Fire 	FME 	Fire-Talk 
-453.07500 	WPTP774 	RM	311 DPL	Knox FD 	Fire Department 	FM 	Fire-Talk 
-453.42500 	WQAB353 	RM	311 DPL	Rchlnd FD 	Richland Volunteer Fire Dept. 	FME 	Fire-Talk 
-453.25000 	WPTP774 	RM	311 DPL	Knox FD  	Fire Department 	FM 	Emergency Ops 
-453.56250 	WQD454 	RM	205 DPL	W Knox FD  	West Knox Fire 	FMN 	Fire-Talk 
-460.37500 	WPTP774 	RM	743 DPL	Knox RSQ W 	Rescue West 	FM 	Emergency Ops 
-460.47500 	WPTP774 	RM	546 DPL	Knox RSQ E 	Rescue East 	FM 	Emergency Ops 
-155.89500 	WNIN584 	RM		Knox RSQ 	Rescue 	FM 	Emergency Ops 
-453.73750 	WPTP774 	F		Knox RSQ 	Rescue 	FM 	Emergency Ops 
-460.56250 	WPTP774 	F		Knox PubSfty 	Public Safety 	FM 	Emergency Ops 
-453.40000 	WPTP774 	RM	205 DPL	EMS 	Knox EMS 	FMNE 	EMS Dispatch 
-155.32500 	WPFA589 	RM	151.4 PL	Knox EMS 	EMS 	FM 	EMS Dispatch 
-155.34000 	WNIL234 	BM	136.5 PL	Knox2Hsp 	EMS to Hospital 	FM 	EMS-Talk 
-453.82500 	WPTC836 	RM	45 RAN	Brbrvl PD 	Police 	NXDNE 	Law Dispatch 
-453.82500 	WPTC836 	RM	565 DPL	Brbrvl PD 	Police 	FM 	Law Talk 
-453.22500 	WPTC836 	RM	627 DPL	Brbrvl FD 	 Fire 	FM 	Fire-Talk 
-155.83500 	KSP295 	BM	203.5 PL	BrbrvlUtlts 	Utilities Commission 	FM 	Public Works 
-154.86000 	KDG907 	BM	203.5 PL	BvlleStreets 	Street Dept. 	FM 	Public Works 
-155.65500 	KNED738 	RM	162.2 PL	Crbn PD F-1 	Police-Disp 	FM 	Law Dispatch 
-154.02500 	WNHK630 	BM	203.5 PL	Crbn All GVT 	All City Agencies Talk Around 	FM 	Interop 
-151.07000 	KEC560 	RM	107.2 PL	Crbn FD  	Fire 	FM 	Fire-Talk 
-155.73000 	KNHJ279 	BM	151.4 PL	Knox Roads 	Knox Co. Road Department 	FM 	Public Works 
-155.89500 	WNIN584 	BM	156.7 PL	EKnox Water 	East Knox Water District 	FM 	Public Works 
+453.77500 	458.77500  	WPTP774 	RM	50 RAN	Knox SO East 	Sheriff East 	NXDNE 	Law Dispatch 
+453.62500 	458.62500  	WPTP774 	RM	50 RAN	Knox SO West 	Sheriff West 	NXDNE 	Law Dispatch 
+453.97500 	458.97500  	WPTP774 	RM	50 RAN	Knox SO 	Sheriff  	NXDNE 	Law Talk 
+453.50000 	   	WPTP774 	BM	311 DPL	Knox FD Dsp 	Fire Dispatch 	FME 	Fire Dispatch 
+453.12500 	458.12500  	WPQZ266 	RM	074 DPL	Knox FD  	Artemus Fire 	FME 	Fire-Talk 
+453.07500 	   	WPTP774 	RM	311 DPL	Knox FD 	Fire Department 	FM 	Fire-Talk 
+453.42500 	458.42500  	WQAB353 	RM	311 DPL	Rchlnd FD 	Richland Volunteer Fire Dept. 	FME 	Fire-Talk 
+453.25000 	   	WPTP774 	RM	311 DPL	Knox FD  	Fire Department 	FM 	Emergency Ops 
+453.56250 	458.56250  	WQD454 	RM	205 DPL	W Knox FD  	West Knox Fire 	FMN 	Fire-Talk 
+460.37500 	465.37500  	WPTP774 	RM	743 DPL	Knox RSQ W 	Rescue West 	FM 	Emergency Ops 
+460.47500 	465.47500  	WPTP774 	RM	546 DPL	Knox RSQ E 	Rescue East 	FM 	Emergency Ops 
+155.89500 	158.86500  	WNIN584 	RM		Knox RSQ 	Rescue 	FM 	Emergency Ops 
+453.73750 	   	WPTP774 	F		Knox RSQ 	Rescue 	FM 	Emergency Ops 
+460.56250 	   	WPTP774 	F		Knox PubSfty 	Public Safety 	FM 	Emergency Ops 
+453.40000 	458.40000  	WPTP774 	RM	9 RAN	Knox EMS 	Knox EMS 	NXDNE 	EMS Dispatch 
+453.15000 	458.15000  	WPTP774 	RM	9 RAN	Knox EMS 	Knox EMS 	NXDNE 	EMS Dispatch 
+453.40000 	458.40000  	WPTP774 	RM	205 DPL	EMS 	Knox EMS 	FMNE 	EMS Dispatch 
+155.32500 	   	WPFA589 	RM	151.4 PL	Knox EMS 	EMS 	FM 	EMS Dispatch 
+155.34000 	   	WNIL234 	BM	136.5 PL	Knox2Hsp 	EMS to Hospital 	FM 	EMS-Talk 
+453.82500 	458.82500  	WPTC836 	RM	30 RAN	Brbrvl PD 	Police 	NXDNE 	Law Dispatch 
+453.82500 	458.82500  	WPTC836 	RM	565 DPL	Brbrvl PD 	Police 	FM 	Law Talk 
+453.22500 	458.22500  	WPTC836 	RM	627 DPL	Brbrvl FD 	 Fire 	FM 	Fire-Talk 
+155.83500 	   	KSP295 	BM	203.5 PL	BrbrvlUtlts 	Utilities Commission 	FM 	Public Works 
+154.86000 	   	KDG907 	BM	203.5 PL	BvlleStreets 	Street Dept. 	FM 	Public Works 
+153.63500 	   	WNDM798 	BM		BWC 	Barbourville Water Company 	FMN 	Public Works 
+155.65500 	158.85000  	KNED738 	RM	162.2 PL	Crbn PD F-1 	Police-Disp 	FM 	Law Dispatch 
+154.02500 	156.01500  	WNHK630 	BM	203.5 PL	Crbn All GVT 	All City Agencies Talk Around 	FM 	Interop 
+151.07000 	153.95000  	KEC560 	RM	107.2 PL	Crbn FD  	Fire 	FM 	Fire-Talk 
+155.73000 	   	KNHJ279 	BM	151.4 PL	Knox Roads 	Knox Co. Road Department 	FM 	Public Works 
+155.89500 	   	WNIN584 	BM	156.7 PL	EKnox Water 	East Knox Water District 	FM 	Public Works 
+452.21250 	   	WQDS314 	BM		UC Sec 	Union College Security/Operations 	FMN 	Schools 
+452.33750 	   	WQDS314 	BM		UC Sec 	Union College Security/Operations 	FMN 	Schools 

@@ -1,14 +1,14 @@
-154.86000 	WQI568 	RM	075 NAC	Plymouth SO1 	Sheriff Dispatch 	P25 	Law Dispatch 
-460.50000 	WQI568 	RM		Plymouth SO2 	Sheriff Operations 	FM 	Law Dispatch 
-154.22000 	WQK920 	RM	311 DPL	Plymouth FD1 	Fire/EMS paging 1 	FMN 	Fire Dispatch 
-154.28000 	KQ7633 	BM		Plymouth Fgr1 	Fireground 1 	FM 	Fire-Tac 
-158.94000 	WQK920 	BM		Plymouth Fgr2 	Fireground 2 	FM 	Fire-Tac 
-155.10000 	WNLC601 	BM	CSQ	Plymth Consr 	Conservation 	FM 	Public Works 
-155.15250 	WQAJ213 	RM	664 DPL	Plymth RoadE 	Road Department East 	FM 	Public Works 
-159.26250 	WQAJ213 	RM	664 DPL	Plymth RoadW 	Road Department West 	FM 	Public Works 
-155.88000 	KNAT359 	RM	146.2 PL	Akron PD/FD 	Police and Fire 	FM 	Multi-Dispatch 
-153.93500 	KNAB459 	RM	075 NAC	LeMars PD 	Police 	P25 	Law Dispatch 
-158.88000 	KNAB459 	M	075 NAC	LeMars PD Ex 	Police Mobile Extenders 	P25 	Law Dispatch 
-155.83500 	WNMJ238 	RM	146.2 PL	Remsen PD 	Police 	FM 	Law Dispatch 
-Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	Iowa DMR Users Group	 DMR Conventional Networked
- Various	Mid American Energy	 MPT-1327 Standard	 Various	RACOM Network	 EDACS Networked Standard	 Various	
+154.86000 	156.15000  	WQI568 	RM	075 NAC	Plymouth SO1 	Sheriff Dispatch 	P25 	Law Dispatch 
+460.50000 	465.50000  	WQI568 	RM		Plymouth SO2 	Sheriff Operations 	FM 	Law Dispatch 
+154.22000 	159.42750  	WQK920 	RM	311 DPL	Plymouth FD1 	Fire/EMS paging 1 	FMN 	Fire Dispatch 
+154.28000 	   	KQ7633 	BM		Plymouth Fgr1 	Fireground 1 	FM 	Fire-Tac 
+158.94000 	   	WQK920 	BM		Plymouth Fgr2 	Fireground 2 	FM 	Fire-Tac 
+155.10000 	   	WNLC601 	BM	CSQ	Plymth Consr 	Conservation 	FM 	Public Works 
+155.15250 	151.06250  	WQAJ213 	RM	664 DPL	Plymth RoadE 	Road Department East 	FM 	Public Works 
+159.26250 	153.89750  	WQAJ213 	RM	664 DPL	Plymth RoadW 	Road Department West 	FM 	Public Works 
+155.88000 	153.78500  	KNAT359 	RM	146.2 PL	Akron PD/FD 	Police and Fire 	FM 	Multi-Dispatch 
+153.93500 	154.02500  	KNAB459 	RM	075 NAC	LeMars PD 	Police 	P25 	Law Dispatch 
+158.88000 	   	KNAB459 	M	075 NAC	LeMars PD Ex 	Police Mobile Extenders 	P25 	Law Dispatch 
+155.83500 	153.99500  	WNMJ238 	RM	146.2 PL	Remsen PD 	Police 	FM 	Law Dispatch 
+Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	Mid American Energy	 MPT-1327 Standard	 Various
+RACOM Network	 EDACS Networked Standard	 Various	

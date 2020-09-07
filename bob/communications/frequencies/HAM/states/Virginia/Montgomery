@@ -1,46 +1,29 @@
-453.31250 	WRAF638 	RM	123.0 PL	Mont F/R 1 	Fire/Rescue 1 	FMN 	Fire Dispatch 
-460.45000 	WRAF638 	RM	123.0 PL	Mont F/R South 3 	Fire/Rescue - South 3 	FMN 	Fire-Tac 
-460.41250 	WRAF638 	RM	107.2 PL	Mont F/R South 5 	Fire/Rescue - South 5 	FMN 	Fire-Tac 
-460.05000 	WRAF638 	RM	94.8 PL	Mont F/R South 7 	Fire/Rescue - South 7 	FMN 	Fire-Tac 
-460.16250 	WRAF638 	RM	94.8 PL	Mont F/R South 9 	Fire/Rescue - South 9 	FMN 	Fire-Tac 
-453.83750 	WRAF638 	RM	107.2 PL	Mont F/R South11 	Fire/Rescue - South 11 	FMN 	Fire-Tac 
-451.78750 	 	RM	114.8 PL	Lngshp-McCoy 	Longshop-McCoy Fire  	FM 	Fire-Talk 
-452.30000 	KII403 	RM	123.0 PL	MontSO Fishers 	Sheriff - Fishers 	FMN 	Law Dispatch 
-452.35000 	KII403 	RM		Mont Sheriff 	Sheriff 	FM 	Law Dispatch 
-453.20000 	 	RM	123.0 PL	MontSO Prices 	Sheriff - Prices 	FMN 	Law Dispatch 
-451.37500 	 	M		MontSO Sp Ops 	Sheriff - Special Ops 	FMN 	Law Tac 
-453.97500 	KNIX220 	RM		MontSO Court 	Sheriff - Courts 	FMN 	Law Tac 
-453.72500 	KNIX220 	RM		MontSO Jail 	Sheriff - Jail 	FMN 	Corrections 
-451.10000 	WQNQ445 	RM	107.2 PL	Blksbrg FD 1 	Fire Dispatch 	FM 	Fire Dispatch 
-451.27500 	WQNQ445 	RM	107.2 PL	Blksbrg FD T 	Fire Tac 	FMN 	Fire-Tac 
-460.02500 	WQXG939 	RM	123.0 PL	BlksbgEMSUHF 	Rescue 	FMN 	EMS Dispatch 
-453.48750 	WPUV376 	RM	94.8 PL	BlksbgPD Dsp 	Police Dispatch 	FM 	Law Dispatch 
-453.85000 	WNAP482 	RM	CC 1TG 8000SL 1	BT Fixed Rt 	Blacksburg Transit Fixed Route Buses 	DMR 	Transportation 
-453.85000 	WNAP482 	RM	CC 1TG 8000SL 2	BT Access 	Blacksburg Transit Accessible Service 	DMR 	Transportation 
-453.23750 	KNJN767 	RM	103.5 PL	Chr Fire Dsp 	Fire Dispatch 	FM 	Fire-Tac 
-452.25000 	 	BM	131.8 PL	Chr Rescue 	Resuce 	FM 	EMS-Tac 
-460.11250 	WQAM356 	RM		Chr Rescue 	Christiansburg Rescue Squad 	FM 	EMS-Tac 
-460.52500 	KNEA253 	RM	136.5 PL	Chr Police 1 	Police 	FMN 	Law Dispatch 
-461.78750 	WQLY273 	RM	107.2 PL	VT Resc Sq 1 	Rescue Squad 1 	FMN 	EMS Dispatch 
-464.76250 	WQLY273 	RM	107.2 PL	VT Resc Tac 	Rescue Tac 	FMN 	EMS-Tac 
-453.87500 	KNCW547 	RM	94.8 PL	VT Police 1 	Police 1 	FMN 	Law Dispatch 
-155.11500 	WNWL783 	RM	192.8 PL	VT Safe Ride 	Safe Ride 	FM 	Schools 
-151.92500 	WPEJ706 	M	123.0 PL	VT Golf Crse 	Golf Course 	FM 	Schools 
-153.92000 	KVG844 	RM	114.8 PL	VT Plant 920 	Physical Plant 	FM 	Schools 
-154.11500 	KVG844 	RM	71.9 PL	VT Plant 115 	Physical Plant 	FM 	Schools 
-155.59500 	KVG844 	RM	97.4 PL	VT Plant 595 	Physical Plant 	FM 	Schools 
-451.86250 	WQLY302 	RM	77.0 PL	VT Parking 	Parking Services 	FMN 	Schools 
-452.00000 	WQKX589 	RM	103.5 PL	VT CommNetwk 	Communication Network Services 	FMN 	Schools 
-452.20000 	WPRJ740 	RM	167.9 PL	VT SpEvt 	Special Events 	FMN 	Schools 
-452.97500 	WQNY425 	RM	432 DPL	VA-MD RCVM 	Virginia-Maryland Regional College of Veterinary Medicine 	FMN 	Schools 
-453.01250 	WQNS711 	RM	132 DPL	VT Union/Act 	University Unions and Student Activities 	FMN 	Schools 
-461.51250 	WQQR397 	RM	165 DPL	VT FacSrv1 	Facilities Services 1 	FMN 	Schools 
-461.88750 	WQQR397 	RM	165 DPL	VT FacSrv2 	Facilities Services 2 	FMN 	Schools 
-461.93750 	WNXJ480 	RM	346 DPL	VT Electric 	Electric Service 	FMN 	Schools 
-462.91250 	WPEB288 	RM		VT SpEvt 	Special Events 	FMN 	Schools 
-463.48750 	WQFT551 	RM	141.3 PL	VT Athletics 	Athletics 	FMN 	Schools 
-464.58750 	WQFT551 	RM	192.8 PL	VT Athletics 	Athletics 	FMN 	Schools 
-155.23500 	KMA913 	BM		Mont Sch Bus 	School Buses 	FM 	Schools 
-451.66250 	 	RM	88.5 PL	E Mont HS 	Eastern Montgomery High School 	FM 	Schools 
-467.85000 	 	M		Christiansbrg HS 	Christiansburg High School 	FMN 	Schools 
+453.31250 	458.31250  	WRAF638 	RM	123.0 PL	Mont F/R 1 	Fire/Rescue 1 	FMN 	Fire Dispatch 
+460.45000 	465.45000  	WRAF638 	RM	123.0 PL	Mont F/R South 3 	Fire/Rescue - South 3 	FMN 	Fire-Tac 
+460.41250 	465.41250  	WRAF638 	RM	107.2 PL	Mont F/R South 5 	Fire/Rescue - South 5 	FMN 	Fire-Tac 
+460.05000 	465.05000  	WRAF638 	RM	94.8 PL	Mont F/R South 7 	Fire/Rescue - South 7 	FMN 	Fire-Tac 
+460.16250 	465.16250  	WRAF638 	RM	94.8 PL	Mont F/R South 9 	Fire/Rescue - South 9 	FMN 	Fire-Tac 
+453.83750 	458.83750  	WRAF638 	RM	107.2 PL	Mont F/R South11 	Fire/Rescue - South 11 	FMN 	Fire-Tac 
+453.97500 	458.97500  	KNIX220 	RM		MontSO Court 	Sheriff - Courts 	FMN 	Law Tac 
+453.72500 	458.72500  	KNIX220 	RM		MontSO Jail 	Sheriff - Jail 	FMN 	Corrections 
+453.85000 	458.85000  	WNAP482 	RM	CC 1TG 8000SL 1	BT Fixed Rt 	Blacksburg Transit Fixed Route Buses 	DMR 	Transportation 
+453.85000 	458.85000  	WNAP482 	RM	CC 1TG 8000SL 2	BT Access 	Blacksburg Transit Accessible Service 	DMR 	Transportation 
+453.87500 	458.87500  	KNCW547 	RM	94.8 PL	VT Police 1 	Police 1 	FMN 	Law Dispatch 
+155.11500 	158.92500  	WNWL783 	RM	192.8 PL	VT Safe Ride 	Safe Ride 	FM 	Schools 
+151.92500 	   	WPEJ706 	M	123.0 PL	VT Golf Crse 	Golf Course 	FM 	Schools 
+153.92000 	156.01500  	KVG844 	RM	114.8 PL	VT Plant 920 	Physical Plant 	FM 	Schools 
+154.11500 	155.98500  	KVG844 	RM	71.9 PL	VT Plant 115 	Physical Plant 	FM 	Schools 
+155.59500 	154.65000  	KVG844 	RM	97.4 PL	VT Plant 595 	Physical Plant 	FM 	Schools 
+451.86250 	456.86250  	WQLY302 	RM	77.0 PL	VT Parking 	Parking Services 	FMN 	Schools 
+452.00000 	457.00000  	WQKX589 	RM	103.5 PL	VT CommNetwk 	Communication Network Services 	FMN 	Schools 
+452.20000 	457.20000  	WPRJ740 	RM	167.9 PL	VT SpEvt 	Special Events 	FMN 	Schools 
+452.97500 	457.97500  	WQNY425 	RM	432 DPL	VA-MD RCVM 	Virginia-Maryland Regional College of Veterinary Medicine 	FMN 	Schools 
+453.01250 	458.01250  	WQNS711 	RM	132 DPL	VT Union/Act 	University Unions and Student Activities 	FMN 	Schools 
+461.51250 	466.51250  	WQQR397 	RM	165 DPL	VT FacSrv1 	Facilities Services 1 	FMN 	Schools 
+461.88750 	466.88750  	WQQR397 	RM	165 DPL	VT FacSrv2 	Facilities Services 2 	FMN 	Schools 
+461.93750 	466.93750  	WNXJ480 	RM	346 DPL	VT Electric 	Electric Service 	FMN 	Schools 
+462.91250 	467.91250  	WPEB288 	RM		VT SpEvt 	Special Events 	FMN 	Schools 
+463.48750 	468.48750  	WQFT551 	RM	141.3 PL	VT Athletics 	Athletics 	FMN 	Schools 
+464.58750 	469.58750  	WQFT551 	RM	192.8 PL	VT Athletics 	Athletics 	FMN 	Schools 
+451.66250 	   	 	RM	88.5 PL	E Mont HS 	Eastern Montgomery High School 	FM 	Schools 
 American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	

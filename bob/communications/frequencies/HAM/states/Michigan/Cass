@@ -1,23 +1,23 @@
-151.26500 	WPVI994 	RM	173.8 PL	Cass Fire 	Fire: Countywide Dispatch / Tone-Outs 	FMN 	Fire Dispatch 
-153.89000 	WPVI994 	M	173.8 PL	Cass Fireground1 	Fireground 1 	FMN 	Fire-Tac 
-151.19000 	WPVI994 	M	173.8 PL	Cass Fireground2 	Fireground 2 	FMN 	Fire-Tac 
-151.44500 	WPVI994 	M	173.8 PL	Cass Fireground3 	Fireground 3 	FMN 	Fire-Tac 
-159.36000 	WPVI994 	M	173.8 PL	Cass Fireground4 	Fireground 4 	FMN 	Fire-Tac 
-151.05500 	WNYN768 	RM		Cass Roads 	Road Commission 	DMR 	Public Works 
-155.34000 	KVQ534 	B		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
-163.25000 	KVQ534 	B		BorgLeeMH Paging 	Paging / Data 	Telm 	Hospital 
-453.15000 	WPTD292 	RM		Dowagiac DPW 	Public Works 	FMN 	Public Works 
-159.28500 	KDA673 	RM		Edwardsburg Fire 	Fire 	FMN 	Fire Dispatch 
-155.31000 	KNBU370 	BM		SEPubSaft Police 	Police - Dispatch 	FMN 	Law Dispatch 
-154.81500 	KNBU370 	M		SEPubSaftA PD/FD 	Fire/Police - Tactical 	FMN 	Multi-Tac 
-159.34500 	KNO522 	BM		Swiss Valley 	EMS: Operations 	FMN 	EMS Dispatch 
-452.30000 	WPWT498 	RM		SW College Ops 2 	Operations 	FMN 	Schools 
-464.77500 	WPWT498 	RM		SW College Ops 1 	Operations (Phone Patch) 	FMN 	Schools 
-42.96000 	WQGQ846 	BM		Cass School Bus 	Transportation - Garage 	FM 	Schools 
-45.92000 	KAG816 	BM		DowagUn Sch Bus1 	Transportation - Primary [Ch 1] 	FMN 	Schools 
-45.96000 	KAG816 	BM		DowagUn Bus 2 	Transportation - Secondary [Ch 2] 	FMN 	Schools 
-453.63750 	KAG816 	RM	331 DPL	Dowgac Schl Bus3 	Transportation 	FMN 	Schools 
-155.22000 	KAG815 	BM		Edwrdsbrg SchBus 	Transportation 	FMN 	Schools 
-47.66000 	WNUR537 	BM		LewisCas Sch Bus 	Transportation 	FMN 	Schools 
-47.66000 	WPMU738 	BM		Marcelus Sch Bus 	Buses 	FM 	Schools 
+151.26500 	159.22500  	WPVI994 	RM	173.8 PL	Cass Fire 	Fire: Countywide Dispatch / Tone-Outs 	FMN 	Fire Dispatch 
+153.89000 	   	WPVI994 	M	173.8 PL	Cass Fireground1 	Fireground 1 	FMN 	Fire-Tac 
+151.19000 	   	WPVI994 	M	173.8 PL	Cass Fireground2 	Fireground 2 	FMN 	Fire-Tac 
+151.44500 	   	WPVI994 	M	173.8 PL	Cass Fireground3 	Fireground 3 	FMN 	Fire-Tac 
+159.36000 	   	WPVI994 	M	173.8 PL	Cass Fireground4 	Fireground 4 	FMN 	Fire-Tac 
+151.05500 	156.12000  	WNYN768 	RM		Cass Roads 	Road Commission 	DMR 	Public Works 
+155.34000 	   	KVQ534 	B		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+163.25000 	   	KVQ534 	B		BorgLeeMH Paging 	Paging / Data 	Telm 	Hospital 
+453.15000 	458.15000  	WPTD292 	RM		Dowagiac DPW 	Public Works 	FMN 	Public Works 
+159.28500 	153.86000  	KDA673 	RM		Edwardsburg Fire 	Fire 	FMN 	Fire Dispatch 
+155.31000 	   	KNBU370 	BM		SEPubSaft Police 	Police - Dispatch 	FMN 	Law Dispatch 
+154.81500 	   	KNBU370 	M		SEPubSaftA PD/FD 	Fire/Police - Tactical 	FMN 	Multi-Tac 
+159.34500 	   	KNO522 	BM		Swiss Valley 	EMS: Operations 	FMN 	EMS Dispatch 
+452.30000 	457.30000  	WPWT498 	RM		SW College Ops 2 	Operations 	FMN 	Schools 
+464.77500 	469.77000  	WPWT498 	RM		SW College Ops 1 	Operations (Phone Patch) 	FMN 	Schools 
+42.96000 	   	WQGQ846 	BM		Cass School Bus 	Transportation - Garage 	FM 	Schools 
+45.92000 	   	KAG816 	BM		DowagUn Sch Bus1 	Transportation - Primary [Ch 1] 	FMN 	Schools 
+45.96000 	   	KAG816 	BM		DowagUn Bus 2 	Transportation - Secondary [Ch 2] 	FMN 	Schools 
+453.63750 	458.63750  	KAG816 	RM	331 DPL	Dowgac Schl Bus3 	Transportation 	FMN 	Schools 
+155.22000 	   	KAG815 	BM		Edwrdsbrg SchBus 	Transportation 	FMN 	Schools 
+47.66000 	   	WNUR537 	BM		LewisCas Sch Bus 	Transportation 	FMN 	Schools 
+47.66000 	   	WPMU738 	BM		Marcelus Sch Bus 	Buses 	FM 	Schools 
 American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	

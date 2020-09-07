@@ -1,26 +1,26 @@
-154.96500 	WPVL992 	RM	100.0 PL	Dallas Sheriff 	Sheriff: Dispatch (103.5, 107.2, 110.9 in) 	FMN 	Law Dispatch 
-155.31000 	KJS732 	BM		Dallas Shrf c2c 	Sheriff: Car-to-Car / Mutual Aid  	FMN 	Law Tac 
-159.46500 	WPVL992 	M		Dallas Shrf MX 	Sheriff: Mobile Extenders  	FMN 	Law Tac 
-150.99500 	WPVL992 	BM	82.5 PL	Dallas Fire Loc 	Fire: Local 	FMN 	Fire Dispatch 
-150.99500 	WPVL992 	RM	82.5 PL	Dallas Fire S 	Fire: South  	FMN 	Fire Dispatch 
-154.98750 	WPVL992 	RM	82.5 PL	Dallas Fire N 	Fire: North  	FMN 	Fire Dispatch 
-155.96250 	WPVL992 	RM	82.5 PL	Dallas Fire NE 	Fire: Northeast  	FMN 	Fire Dispatch 
-155.25000 	WPVL992 	BM	91.5 PL	Dallas EMS 	EMS: Dispatch 	FMN 	Fire Dispatch 
-151.11500 	WNLV724 	RM		Dallas Highway 	Highway Department  	FMN 	Public Works 
-151.34000 	WZX647 	RM	265 DPL	Mercy Dallas 	EMS: Dispatch (Buffalo) 	FMN 	EMS Dispatch 
-154.43000 	WNVU958 	RM		S Dal Fire 	Fire: 	FMN 	Fire Dispatch 
-154.01000 	WNVU958 	BM		S Dal Frgnrd 	Fireground (Foose) 	FMN 	Fire-Tac 
-154.80000 	KOM976 	RM	134 DPL	Buffalo Police  	Police: Dispatch 	FMN 	Law Dispatch 
-155.25000 	WPVL992 	RM	151.4 PL	Buffalo Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.32500 	WQDW633 	BM		Buffalo FG 	Fire: Tac/Fireground (Rural/CitY) 	FMN 	Fire-Tac 
-154.87500 	WPMG497 	BM	71.9 PL	Buff Fire/Resq  	City Fire and Rescue: Tac/Fireground 	FMN 	Fire-Tac 
-151.11500 	WPMU962 	BM		Buffalo Water 1  	Water Department  	FMN 	Public Works 
-154.10000 	WPMU952 	BM		Buffalo Water 2  	Water Department 	FMN 	Public Works 
-154.25000 	WPJU410 	BM		Long Lane Fire  	Fire 	FMN 	Fire Dispatch 
-153.80000 	WPQZ665 	RM		Louisburg Fire  	Fire 	FMN 	Fire Dispatch 
-154.34000 	WPBT562 	BM		Urbana Fire 	Fire - Rural 	FMN 	Fire Dispatch 
-153.83000 	WPBT562 	M		Urbana FG 	Fireground - Rural 	FMN 	Fire-Tac 
-155.83500 	WNQW913 	BM		Urbana City 	City Operations 	FMN 	Multi-Dispatch 
-152.40500 	WQAT515 	RM	CC 1TG 1SL 1	Dallas Schools A 	Buses 	DMR 	Schools 
-153.38000 	WQAT515 	RM	CC 2TG 1SL 1	Dallas Schools B 	Buses / Ops 	DMR 	Schools 
+154.96500 	156.24000  	WPVL992 	RM	100.0 PL	Dallas Sheriff 	Sheriff: Dispatch (103.5, 107.2, 110.9 in) 	FMN 	Law Dispatch 
+155.31000 	   	KJS732 	BM		Dallas Shrf c2c 	Sheriff: Car-to-Car / Mutual Aid  	FMN 	Law Tac 
+159.46500 	   	WPVL992 	M		Dallas Shrf MX 	Sheriff: Mobile Extenders  	FMN 	Law Tac 
+150.99500 	   	WPVL992 	BM	82.5 PL	Dallas Fire Loc 	Fire: Local 	FMN 	Fire Dispatch 
+150.99500 	159.16500  	WPVL992 	RM	82.5 PL	Dallas Fire S 	Fire: South  	FMN 	Fire Dispatch 
+154.98750 	156.15750  	WPVL992 	RM	82.5 PL	Dallas Fire N 	Fire: North  	FMN 	Fire Dispatch 
+155.96250 	153.85250  	WPVL992 	RM	82.5 PL	Dallas Fire NE 	Fire: Northeast  	FMN 	Fire Dispatch 
+155.25000 	   	WPVL992 	BM	91.5 PL	Dallas EMS 	EMS: Dispatch 	FMN 	Fire Dispatch 
+151.11500 	159.13500  	WNLV724 	RM		Dallas Highway 	Highway Department  	FMN 	Public Works 
+151.34000 	159.93250  	WZX647 	RM	265 DPL	Mercy Dallas 	EMS: Dispatch (Buffalo) 	FMN 	EMS Dispatch 
+154.43000 	159.04500  	WNVU958 	RM		S Dal Fire 	Fire: 	FMN 	Fire Dispatch 
+154.01000 	   	WNVU958 	BM		S Dal Frgnrd 	Fireground (Foose) 	FMN 	Fire-Tac 
+154.80000 	159.37500  	KOM976 	RM	134 DPL	Buffalo Police  	Police: Dispatch 	FMN 	Law Dispatch 
+155.25000 	159.18750  	WPVL992 	RM	151.4 PL	Buffalo Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.32500 	   	WQDW633 	BM		Buffalo FG 	Fire: Tac/Fireground (Rural/CitY) 	FMN 	Fire-Tac 
+154.87500 	   	WPMG497 	BM	71.9 PL	Buff Fire/Resq  	City Fire and Rescue: Tac/Fireground 	FMN 	Fire-Tac 
+151.11500 	   	WPMU962 	BM		Buffalo Water 1  	Water Department  	FMN 	Public Works 
+154.10000 	   	WPMU952 	BM		Buffalo Water 2  	Water Department 	FMN 	Public Works 
+154.25000 	   	WPJU410 	BM		Long Lane Fire  	Fire 	FMN 	Fire Dispatch 
+153.80000 	150.79000  	WPQZ665 	RM		Louisburg Fire  	Fire 	FMN 	Fire Dispatch 
+154.34000 	   	WPBT562 	BM		Urbana Fire 	Fire - Rural 	FMN 	Fire Dispatch 
+153.83000 	   	WPBT562 	M		Urbana FG 	Fireground - Rural 	FMN 	Fire-Tac 
+155.83500 	   	WNQW913 	BM		Urbana City 	City Operations 	FMN 	Multi-Dispatch 
+152.40500 	157.66500  	WQAT515 	RM	CC 1TG 1SL 1	Dallas Schools A 	Buses 	DMR 	Schools 
+153.38000 	158.43750  	WQAT515 	RM	CC 2TG 1SL 1	Dallas Schools B 	Buses / Ops 	DMR 	Schools 
 KAMO Power	 NXDN NEXEDGE 4800	 Various	Rayfield Communications - UHF (SWMO)	 LTR Standard	 Southern Missouri	

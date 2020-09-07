@@ -1,52 +1,51 @@
-154.28000 	WNIV911 	BM		Fire Mut Aid 	Fire Mutual Aid 	FM 	Interop 
-155.11500 	WNNC389 	RM	110.9 PL	GalvCo EMS 	EMS 	FM 	EMS Dispatch 
-155.26500 	KWI958 	BM	100.0 PL	GalvCoEmMgtV 	Emergency Management 	FM 	Emergency Ops 
-453.10000 	WQFL423 	RM	146.2 PL	GalvCoEmMgtU 	Emergency Management 	FM 	Emergency Ops 
-453.25000 	KNBT344 	RM	173.8 PL	Dickinson PD 	Police (simulcast with trunked system) 	FM 	Law Dispatch 
-159.22500 	WNYE384 	RM	179.9 PL	FrdswdFD/EMS 	Fire/EMS Dispatch (patch from TxWARN P25 talkgroup 1251) 	FMN 	Fire Dispatch 
-866.41250 	WPKN398 	M	734 DPL	FrdswdFDTac1 	Fire Talk-Around 1 	FM 	Fire-Talk 
-866.16250 	WQET713 	M	734 DPL	FrdswdFDTac2 	Fire Talk-Around 2 	FM 	Fire-Talk 
-154.37000 	WPRI207 	B	136.5 PL	GalvFireDisp 	Fire Dispatch/Paging (simulcast from trunked system) 	FM 	Fire Dispatch 
-155.52000 	KAV996 	BM		KemahVFD Pri 	Volunteer Fire Department 	FM 	Fire Dispatch 
-156.15000 	 			KemahVFD Tac 	Volunteer Fire Department Tactical 	FM 	Fire-Tac 
-154.19000 	KDY347 	B	732 DPL	LaMarqueFire 	Fire Dispatch/Paging (simulcast from STARNET) 	FM 	Fire Dispatch 
-154.17500 	KNAQ596 	BM	146.2 PL	LeagueCtyVFD 	Fire 	FM 	Fire-Tac 
-154.37000 	KAW387 	RM	91.5 PL	Santa Fe Fire 	Fire 	FMN 	Fire Dispatch 
-453.27500 	KNAN656 	RM	91.5 PL	Santa Fe PD 	Police (back-up to TxWARN) 	FM 	Law Dispatch 
-156.70000 	KOK780 	BM	CSQ	GalvPilots14 	Galveston-Texas CIty Pilots (Marine Ch. 14) Primary 	FM 	Business 
-156.67500 	KOK780 	BM	CSQ	GalvPilots73 	Galveston-Texas CIty Pilots (Marine Ch. 73) 	FM 	Business 
-463.50000 	WNDV808 	RM	192.8 PL	Gal/TC Pilot/Tug 	Galveston-Texas CIty Pilots (and Tugs) 	FMN 	Business 
-451.81250 	 	M	043 DPL	Carnival 	Carnival  	FMN 	Business 
-464.55000 	 	M	71.9 PL	Carnival 	Carnival (obsolete?) 	FMN 	Business 
-467.85000 	 	M	156.7 PL	EZ CruisePkg 	EZ Cruise Parking 	FMN 	Business 
-464.55000 	 	M	156 DPL	Royal Carbbn 	Royal Caribbean 	FMN 	Business 
-159.04500 	WYR882 	RM	223 DPL	CCISD Buses 	Buses 	FMN 	Schools 
-451.53750 	WQWG232 	RM	CC 8TG 1SL 1	Clear Creek HS 	Clear Creek High School 	DMR 	Schools 
-464.61250 	WQWG232 	RM	CC 6TG 1SL 1	Clear Lake HS 	Clear Lake High School 	DMR 	Schools 
-154.51500 	WNBT974 	RM	CC 5TG 101SL 1	DickinsonISD Bus 	Buses 	DMR 	Schools 
-461.05000 	WQBV635 	RM	146.2 PL	Dickinson HS 	Dickinson High School 	FMN 	Schools 
-460.20000 	WPPX904 	RM	192.8 PL	FISD Buses 	Buses 	FMN 	Schools 
-463.86250 	WQNG898 	RM	210.7 PL	Friendswood HS 	Friendswood High School 	FMN 	Schools 
-452.68750 	KNAZ449 	RM	CC 5TG 1SL 1	Friendswood JS  	Friendswood Junior High School 	DMR 	Schools 
-153.51500 	WQVM256 	RM	CC 1TG 101SL *	SFISD Buses 1 	Buses - Primary 	DMR 	Schools 
-153.08000 	WQVM256 	RM	CC 1TG 102SL 2	SFISD Buses 2 	Buses - Secondary 	DMR 	Schools 
-153.08000 	WQVM256 	RM	CC 1TG 105SL *	SFISD Maint 	Maintenance 	DMR 	Schools 
-461.12500 	WQDA623 	RM	146.2 PL	TAMUG Maint 	Maintenance 	FMN 	Schools 
-151.65500 	KIG341 	BM	100.0 PL	TCISD Buses 	Buses 	FMN 	Schools 
-852.27500 	WQXW974 	RM	156 DPL	UTMB Police1 	Police 1 Dispatch 	FM 	Law Dispatch 
-155.23500 	KVA490 	BM	136.5 PL	LifeFlt-UTMB 	LifeFlight to UTMB 	FM 	Hospital 
-155.34000 	KVA490 	BM	CSQ	PHI Med-UTMB 	PHI Air Med to UTMB 	FM 	Hospital 
-155.34000 	KVA490 	BM	141.3 PL	JSHospSec155 	John Sealy Hospital - Public Safety 	FM 	Security 
-453.12500 	WPCX811 	RM	141.3 PL	JSHospSec453 	John Sealy Hospital - Public Safety 	FM 	Security 
-453.62500 	WPMU969 	RM	074 DPL	UTMB Ops 	Operations 	FM 	Schools 
-163.41250 	 	BM	100 NAC	ACE Galvestn 	Galveston 	P25 	Military 
-170.10000 	 	RM	301 NAC	CBP D-Net200 	D-Net 200 Galveston 	P25 	Federal 
-409.95000 	 	RM	156 NAC	DEA 10 Galv 	Ch. 10 Galveston - Surveillance 	P25e 	Federal 
-170.75000 	 	RM	293 NAC	USMS Crthous 	Federal Courthouse 	P25e 	Federal 
-BP Texas City Chemicals	 Motorola Type II Smartnet	 Texas City	CenterPoint Energy Houston Electric	 OpenSky 9600 baud	 Houston	D and G Communications (Galveston)	 LTR Standard
- Galveston	D and G Communications (Santa Fe)	 LTR Standard	 Santa Fe	Disney Cruise Lines: Disney Wonder	 Motorola Type II Smartnet	 Lake Buena Vista	Entergy 
- Project 25 Phase II	 Various	Harris County DMR-MARC	 DMR Conventional Networked	 Houston	Marathon Petroleum Galveston Bay Refinery	 Project 25 Phase II	 Texas City
-Sprint Safety (Hitchcock)	 LTR Standard	 Hitchcock	Sprint Safety (Texas City)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Texas City	TeamConnect	 DMR Motorola Connect Plus (TRBO)
- Various	Texas Bigfoot Communications (Santa Fe)	 LTR Standard	 Santa Fe	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	Texas Wide Area Radio Network (TxWARN)
- Project 25 Phase II	 Various	Unidentified Motorola 3B36	 Motorola Type II	 Ship at Sea	Union Carbide (Texas City)	 Project 25 Phase I	 Texas City
-Valero Refining	 DMR Motorola Connect Plus (TRBO)	 Texas City	
+154.28000 	   	WNIV911 	BM		Fire Mut Aid 	Fire Mutual Aid 	FM 	Interop 
+155.11500 	   	WNNC389 	RM	110.9 PL	GalvCo EMS 	EMS 	FM 	EMS Dispatch 
+155.26500 	   	KWI958 	BM	100.0 PL	GalvCoEmMgtV 	Emergency Management 	FM 	Emergency Ops 
+453.10000 	458.10000  	WQFL423 	RM	146.2 PL	GalvCoEmMgtU 	Emergency Management 	FM 	Emergency Ops 
+453.25000 	458.25000  	KNBT344 	RM	173.8 PL	Dickinson PD 	Police (simulcast with trunked system) 	FM 	Law Dispatch 
+159.22500 	151.44500  	WNYE384 	RM	179.9 PL	FrdswdFD/EMS 	Fire/EMS Dispatch (patch from TxWARN P25 talkgroup 1251) 	FMN 	Fire Dispatch 
+866.41250 	   	WPKN398 	M	734 DPL	FrdswdFDTac1 	Fire Talk-Around 1 	FM 	Fire-Talk 
+866.16250 	   	WQET713 	M	734 DPL	FrdswdFDTac2 	Fire Talk-Around 2 	FM 	Fire-Talk 
+154.37000 	   	WPRI207 	B	136.5 PL	GalvFireDisp 	Fire Dispatch/Paging (simulcast from trunked system) 	FM 	Fire Dispatch 
+155.52000 	   	KAV996 	BM		KemahVFD Pri 	Volunteer Fire Department 	FM 	Fire Dispatch 
+156.15000 	   	 			KemahVFD Tac 	Volunteer Fire Department Tactical 	FM 	Fire-Tac 
+154.19000 	   	KDY347 	B	732 DPL	LaMarqueFire 	Fire Dispatch/Paging (simulcast from STARNET) 	FM 	Fire Dispatch 
+154.17500 	   	KNAQ596 	BM	146.2 PL	LeagueCtyVFD 	Fire 	FM 	Fire-Tac 
+154.37000 	157.45000  	KAW387 	RM	91.5 PL	Santa Fe Fire 	Fire 	FMN 	Fire Dispatch 
+453.27500 	458.27500  	KNAN656 	RM	91.5 PL	Santa Fe PD 	Police (back-up to TxWARN) 	FM 	Law Dispatch 
+156.70000 	   	KOK780 	BM	CSQ	GalvPilots14 	Galveston-Texas CIty Pilots (Marine Ch. 14) Primary 	FM 	Business 
+156.67500 	   	KOK780 	BM	CSQ	GalvPilots73 	Galveston-Texas CIty Pilots (Marine Ch. 73) 	FM 	Business 
+463.50000 	468.50000  	WNDV808 	RM	192.8 PL	Gal/TC Pilot/Tug 	Galveston-Texas CIty Pilots (and Tugs) 	FMN 	Business 
+451.81250 	   	 	M	043 DPL	Carnival 	Carnival  	FMN 	Business 
+464.55000 	   	 	M	71.9 PL	Carnival 	Carnival (obsolete?) 	FMN 	Business 
+467.85000 	   	 	M	156.7 PL	EZ CruisePkg 	EZ Cruise Parking 	FMN 	Business 
+464.55000 	   	 	M	156 DPL	Royal Carbbn 	Royal Caribbean 	FMN 	Business 
+159.04500 	151.07000  	WYR882 	RM	223 DPL	CCISD Buses 	Buses 	FMN 	Schools 
+451.53750 	456.53750  	WQWG232 	RM	CC 8TG 1SL 1	Clear Creek HS 	Clear Creek High School 	DMR 	Schools 
+464.61250 	469.61250  	WQWG232 	RM	CC 6TG 1SL 1	Clear Lake HS 	Clear Lake High School 	DMR 	Schools 
+154.51500 	   	WNBT974 	RM	CC 5TG 101SL 1	DickinsonISD Bus 	Buses 	DMR 	Schools 
+461.05000 	466.05000  	WQBV635 	RM	146.2 PL	Dickinson HS 	Dickinson High School 	FMN 	Schools 
+460.20000 	465.20000  	WPPX904 	RM	192.8 PL	FISD Buses 	Buses 	FMN 	Schools 
+463.86250 	468.86250  	WQNG898 	RM	210.7 PL	Friendswood HS 	Friendswood High School 	FMN 	Schools 
+452.68750 	457.68750  	KNAZ449 	RM	CC 5TG 1SL 1	Friendswood JS  	Friendswood Junior High School 	DMR 	Schools 
+153.51500 	   	WQVM256 	RM	CC 1TG 101SL *	SFISD Buses 1 	Buses - Primary 	DMR 	Schools 
+153.08000 	   	WQVM256 	RM	CC 1TG 102SL 2	SFISD Buses 2 	Buses - Secondary 	DMR 	Schools 
+153.08000 	   	WQVM256 	RM	CC 1TG 105SL *	SFISD Maint 	Maintenance 	DMR 	Schools 
+461.12500 	466.12500  	WQDA623 	RM	146.2 PL	TAMUG Maint 	Maintenance 	FMN 	Schools 
+151.65500 	   	KIG341 	BM	100.0 PL	TCISD Buses 	Buses 	FMN 	Schools 
+852.27500 	807.27500  	WQXW974 	RM	156 DPL	UTMB Police1 	Police 1 Dispatch 	FM 	Law Dispatch 
+155.23500 	   	KVA490 	BM	136.5 PL	LifeFlt-UTMB 	LifeFlight to UTMB 	FM 	Hospital 
+155.34000 	   	KVA490 	BM	CSQ	PHI Med-UTMB 	PHI Air Med to UTMB 	FM 	Hospital 
+155.34000 	   	KVA490 	BM	141.3 PL	JSHospSec155 	John Sealy Hospital - Public Safety 	FM 	Security 
+453.12500 	458.12500  	WPCX811 	RM	141.3 PL	JSHospSec453 	John Sealy Hospital - Public Safety 	FM 	Security 
+453.62500 	458.62500  	WPMU969 	RM	074 DPL	UTMB Ops 	Operations 	FM 	Schools 
+163.41250 	   	 	BM	100 NAC	ACE Galvestn 	Galveston 	P25 	Military 
+170.10000 	166.28750  	 	RM	301 NAC	CBP D-Net200 	D-Net 200 Galveston 	P25 	Federal 
+409.95000 	418.95000  	 	RM	156 NAC	DEA 10 Galv 	Ch. 10 Galveston - Surveillance 	P25e 	Federal 
+170.75000 	   	 	RM	293 NAC	USMS Crthous 	Federal Courthouse 	P25e 	Federal 
+BP Texas City Chemicals	 Motorola Type II Smartnet	 Texas City	BrandMeister Texas	 DMR Conventional Networked	 Various	CenterPoint Energy Houston Electric	 OpenSky 9600 baud	 Houston
+D and G Communications (Galveston)	 LTR Standard	 Galveston	D and G Communications (Santa Fe)	 LTR Standard	 Santa Fe	Disney Cruise Lines: Disney Wonder	 Motorola Type II Smartnet	 Lake Buena Vista
+Entergy 	 Project 25 Phase II	 Various	Harris County DMR-MARC	 DMR Conventional Networked	 Houston	Marathon Petroleum Galveston Bay Refinery	 Project 25 Phase II	 Texas City
+Sprint Safety (Hitchcock)	 LTR Standard	 Hitchcock	Sprint Safety (Texas City)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Texas City	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various
+Texas Bigfoot Communications (Santa Fe)	 LTR Standard	 Santa Fe	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	Unidentified Motorola 3B36	 Motorola Type II	 Ship at Sea
+Union Carbide (Texas City)	 Project 25 Phase I	 Texas City	Valero Refining	 DMR Motorola Connect Plus (TRBO)	 Texas City	

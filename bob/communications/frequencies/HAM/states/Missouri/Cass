@@ -1,88 +1,88 @@
-159.12750 	WPXT244 	RM	073 DPL	Cass Shrf 1 	Sheriff: Dispatch 2 (Sheriff) 	FMN 	Law Dispatch 
-154.85250 	WPXT244 	RM	071 DPL	Cass Shrf 2 	Sheriff: Dispatch 1 (Rural City Dispatch) 	FMN 	Law Dispatch 
-155.01000 	KAA432 	BM	131.8 PL	Cass Shrf 3 	Sheriff / Local Government 	FMN 	Law Tac 
-159.40500 	KAA432 	BM	131.8 PL	CassShrf c2c 	Sheriff: Old Car to Car 	FMN 	Law Tac 
-155.68500 	KAA432 	BM	131.8 PL	Cass ShrfOld 	Sheriff: Old Dispatch / Local Government 	FMN 	Law Tac 
-155.58000 	KAA432 	RM	205 DPL	CassShrfJail 	Sheriff: Jail Operations 	FMN 	Corrections 
-154.77000 	WQBR339 	M	073 DPL	Cass JuvDCtr 	Cass County Juvenile Detention Center [Expired 11/14] 	FMN 	Law Tac 
-156.10500 	WZX874 	BM	CSQ	Cass Roads 	Roads and Bridges / Emergency Management 	FMN 	Public Works 
-154.35500 	WQEX558 	RM	186.2 PL	CCFPD Disp1 	Fire: Dispatch - Main [Ch 1] 	FMN 	Fire Dispatch 
-154.35500 	WQEX558 	M	186.2 PL	CCFPD T/A 2 	Fire: Talk Around [Ch 2] 	FMN 	Fire-Tac 
-453.77500 	WQEX558 	F		CCFPD RF 	Fire: Remote Link (Harrisonville) 	FMN 	Fire-Tac 
-151.20500 	WPMG228 	RM	123.0 PL	WPFPD Disp 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
-154.16000 	KJJ424 	BM	131.8 PL	WPFPD Tac 	Fire: Tac 	FMN 	Fire-Tac 
-154.32500 	KNHB502 	BM		WCFD TAC 	Fire: Western Cass 	FMN 	Fire-Tac 
-154.45625 	WPVZ511 	F		TCWA WDD 	Tri-County Water Authority: Water Distribution Data (multiple location) 	Telm 	Data 
-154.45625 	WPGU996 	F		PWSD12 WDD1 	PWSD 12 of Cass & Bates County 	Telm 	Data 
-154.61000 	WPGU996 	F		PWSD12 WDD2 	PWSD 12 of Cass & Bates County  	Telm 	Data 
-458.40625 	WQEZ606 	F		CCPWSD WDD 	Cass County PWSD#3  	Telm 	Data 
-155.68500 	KNAB705 	BM	131.8 PL	ArchiePolice 	Police (Dispatched by County) 	FMN 	Law Dispatch 
-154.87500 	KNAB705 	BM		Archie Local 	Local Goverment 	FMN 	Public Works 
-453.60000 	KAJ500 	RM	023 DPL	BeltonPolice 	Police: Dispatch - Main / Car-to-Car 	FMN 	Law Dispatch 
-458.05000 	 	M		Belt PD Park 	Police: Park - Foot/Bikes (in portables) [NO LICENSE] 	FMN 	Law Tac 
-155.14500 	KNIY580 	BM	136.5 PL	Belton EMA 	Emergency Management 	FMN 	Emergency Ops 
-151.29500 	WPQE227 	RM	136.5 PL	Belton Fire 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
-154.99500 	WPQE227 	M	136.5 PL	Belton Fire Tac1 	Fireground/Tactical Ops 1 	FMN 	Fire-Tac 
-153.83000 	KDA424 	M		Belt FD Tac2 	Fireground/Tactical Ops 2 	FMN 	Fire-Tac 
-451.13750 	WPMY261 	F		Belton WDD 	Water Works Data/Telemetry 	FMN 	Data 
-159.19500 	WNMF966 	BM		MPTs Roads 	Mount Pleasant Township: Roads 	FMN 	Public Works 
-155.64000 	WPXW830 	BM		ClvlndPD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
-453.98750 	WPPH391 	F		Clvlnd WDD 1 	Water Distribution Data (SCADA) 	FMN 	Data 
-458.98750 	WPPH391 	F		Clvlnd WDD 2 	Water Distribution Data 	Telm 	Data 
-154.14500 	WNSB844 	RM	186.2 PL	Creightn Fire 	Fire: Dispatch/Operations 	FMN 	Fire Dispatch 
-154.65000 	WNPU640 	RM	186.2 PL	W/Dolan Fire 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
-155.29500 	WPMZ920 	RM	186.2 PL	Drexel Fire 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
-155.76000 	KAO631 	BM		Drexel LocGV 	Local Goverment 	FMN 	Multi-Talk 
-153.78500 	WPTL240 	M		ELyn Police MX 	Police: Mobile Extenders [was 458.83750] 	FMN 	Law Tac 
-155.22000 	WPMZ941 	RM	186.2 PL	EL-GC Fire 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
-155.65500 	WPLZ786 	BM		Freeman LG 	Local Government 	FMN 	Multi-Talk 
-154.38500 	WRA213 	RM	91.5 PL	GrdnCty Fire 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
-154.05500 	KVT732 	BM		GrdnCity LocGovt 	Local Government 	FMN 	Public Works 
-155.07000 	KAH295 	BM	110.9 PL	HV Police 1 	Police: Dispatch - Main 	FMN 	Law Dispatch 
-154.87500 	KAH295 	BM	110.9 PL	HV Police 2 	Police: Car-to-Car [Ch 2] 	FMN 	Law Talk 
-154.02500 	KCT250 	RM	CSQ	HarrisonvilleEMS 	Fire/EMS: Dispatch (input 131.8?) 	FMN 	EMS Dispatch 
-453.06250 	KCT250 	M	131.8 PL	HV Fire MX 	Fire: Extenders 	FMN 	Fire-Talk 
-453.17500 	WPML239 	RM		HV EMS UHF 	EMS 	FMN 	EMS Dispatch 
-150.99500 	WPPV979 	RM	110.9 PL	HV Utility 1 	Utilities Department 	FMN 	Public Works 
-156.18000 	WQCP655 	RM		HV Utility 2 	Utilities (also Fire?) 	FMN 	Public Works 
-155.88000 	KCT250 	RM		HV Water 	Water 	FMN 	Public Works 
-451.23125 	WPPZ366 	F		Hv WtrData 	Water Distribution Data (CSQ) 	Telm 	Data 
-158.83500 	WPXT243 	BM		LkWinnPolice 	Local - Repeats Sheriff 2 (154.8525R) [Ch 1] 	FMN 	Law Dispatch 
-154.45625 	WPXQ600 	F		LkWinn WDD 1 	Water Distribution Data 	Telm 	Data 
-154.64000 	WPXQ600 	F		LkWinn WDD 2 	Water Distribution Data  	Telm 	Data 
-155.53500 	KNET693 	RM	241.8 PL	Pec Police 	Police: Dispatch - Main (DB: Raymore Police) 	FMN 	Law Dispatch 
-151.20500 	WPMG228 		123.0 PL	PeculiarFire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.16000 	WPMG228 		131.8 PL	Pec FireTac1 	Fire: Tactical 1 	FMN 	Fire-Tac 
-155.09250 	WYJ718 	RM	141.3 PL	PH Police 	Police: Dispatch - Main [Ch 1/2] 	FMN 	Law Dispatch 
-154.08500 	KAN614 	BM	107.2 PL	PH Polie Tac 3 	Police: Car-to-Car/Tac [Ch 3] 	FMN 	Law Tac 
-154.40000 	WPXU425 	BM	CSQ	Cass CW Fire 	Fire: Countywide Fire 	FMN 	Fire Dispatch 
-151.09250 	WQHA812 	RM	82.5 PL	PH Fire/EMS 	Fire/Rescue: Dispatch  	FMN 	Fire Dispatch 
-155.76000 	KAN614 	BM	107.2 PL	PH LocalGovt 	Local Government 	FMN 	Public Works 
-453.23750 	WQHA812 	F		PH 911 RF 	Link for Remote RX at 911 Center 	FMN 	Fire-Tac 
-158.79000 	WPZJ759 	RM	210.7 PL	Raym Police1 	Police: Dispatch - Main [Ch 1] 	FMN 	Law Dispatch 
-155.41500 	KWE668 	BM	131.8 PL	Raym Police2 	Police: Tac [Ch 2] 	FMN 	Multi-Talk 
-460.20000 	WPMV709 	F		Raym PD RF 	Police: Remote Link to 158.79 R 	FMN 	Law Dispatch 
-154.32500 	KZV446 	RM	131.8 PL	SMFD Disp 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
-150.80500 	KZV446 	M		SMFD MX 	Fire: Mobile Extenders  	FMN 	Fire-Tac 
-158.94750 	KZV446 	M	131.8 PL	SMFD Tac 1 	Fire: Tactical Ops 1 	FMN 	Fire-Tac 
-155.12250 	KZV446 	M	131.8 PL	SMFD Tac 2 	Fire: Tactical Ops 2 	FMN 	Fire-Tac 
-155.83500 	KWE669 	BM	131.8 PL	Raym EMA F3 	Emergency Management [Ch 3] 	FMN 	Emergency Ops 
-155.60250 	WPZI840 	RM	152 DPL	Raym PubWrks 	Public Works 	FMN 	Public Works 
-451.23125 	WQHC948 	F		Raym WDD 1 	Water Distribution Data  	Telm 	Data 
-451.23125 	WPYZ431 	F		Raym WDD 2 	Water Distribution Data 	Telm 	Data 
-155.20500 	WNQC903 	BM		Durham 1 	Bus Operations 	FMN 	Schools 
-155.26500 	KNFZ444 	BM		Durham 2 	Bus Operations 	FMN 	Schools 
-155.26500 	WNQC903 	BM		Durham 3 	Bus Operations 	FMN 	Schools 
-154.54000 	WNJP943 	BM		CCR8 Schools 	Operations 	FMN 	Schools 
-155.20500 	WNUW665 	BM		Drex SchBus 	Buses 	FMN 	Schools 
-155.23500 	WQDZ556 	BM		CM R1 SchBus 	Buses 	FMN 	Schools 
-461.35000 	WQOR967 	RM		RP MiddleSch 	Operations (linked to Middle School on special CTCSS) 	FMN 	Schools 
-464.37500 	WQOR967 	RM		RP High Sch 	Operations (linked to High School on special CTCSS) 	FMN 	Schools 
-461.90000 	WQOR967 	BM		RP School 3  	Transportation / Sports Department 	FMN 	Schools 
-464.02500 	WQOR967 	BM		RP School 4  	Transportation / Sports Department 	FMN 	Schools 
-453.36250 	WQHP666 	M		RP School 5  	Operations 	FMN 	Schools 
-453.93750 	WQHP666 	M		RP School 6  	Operations 	FMN 	Schools 
-453.96250 	WQHP666 	M		RP School 7  	Operations 	FMN 	Schools 
-458.06250 	WQHP666 	M		RP School 8  	Operations 	FMN 	Schools 
-Central Communications Service Company	 LTR Standard	 Dayton	KAMO Power	 NXDN NEXEDGE 4800	 Various	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)
- Various	
+159.12750 	154.00250  	WPXT244 	RM	073 DPL	Cass Shrf 1 	Sheriff: Dispatch 2 (Sheriff) 	FMN 	Law Dispatch 
+154.85250 	159.38250  	WPXT244 	RM	071 DPL	Cass Shrf 2 	Sheriff: Dispatch 1 (Rural City Dispatch) 	FMN 	Law Dispatch 
+155.01000 	   	KAA432 	BM	131.8 PL	Cass Shrf 3 	Sheriff / Local Government 	FMN 	Law Tac 
+159.40500 	   	KAA432 	BM	131.8 PL	CassShrf c2c 	Sheriff: Old Car to Car 	FMN 	Law Tac 
+155.68500 	   	KAA432 	BM	131.8 PL	Cass ShrfOld 	Sheriff: Old Dispatch / Local Government 	FMN 	Law Tac 
+155.58000 	159.40500  	KAA432 	RM	205 DPL	CassShrfJail 	Sheriff: Jail Operations 	FMN 	Corrections 
+154.77000 	   	WQBR339 	M	073 DPL	Cass JuvDCtr 	Cass County Juvenile Detention Center [Expired 11/14] 	FMN 	Law Tac 
+156.10500 	   	WZX874 	BM	CSQ	Cass Roads 	Roads and Bridges / Emergency Management 	FMN 	Public Works 
+154.35500 	153.84500  	WQEX558 	RM	186.2 PL	CCFPD Disp1 	Fire: Dispatch - Main [Ch 1] 	FMN 	Fire Dispatch 
+154.35500 	   	WQEX558 	M	186.2 PL	CCFPD T/A 2 	Fire: Talk Around [Ch 2] 	FMN 	Fire-Tac 
+453.77500 	   	WQEX558 	F		CCFPD RF 	Fire: Remote Link (Harrisonville) 	FMN 	Fire-Tac 
+151.20500 	159.61500  	WPMG228 	RM	123.0 PL	WPFPD Disp 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
+154.16000 	   	KJJ424 	BM	131.8 PL	WPFPD Tac 	Fire: Tac 	FMN 	Fire-Tac 
+154.32500 	   	KNHB502 	BM		WCFD TAC 	Fire: Western Cass 	FMN 	Fire-Tac 
+154.45625 	   	WPVZ511 	F		TCWA WDD 	Tri-County Water Authority: Water Distribution Data (multiple location) 	Telm 	Data 
+154.45625 	   	WPGU996 	F		PWSD12 WDD1 	PWSD 12 of Cass & Bates County 	Telm 	Data 
+154.61000 	   	WPGU996 	F		PWSD12 WDD2 	PWSD 12 of Cass & Bates County  	Telm 	Data 
+458.40625 	   	WQEZ606 	F		CCPWSD WDD 	Cass County PWSD#3  	Telm 	Data 
+155.68500 	   	KNAB705 	BM	131.8 PL	ArchiePolice 	Police (Dispatched by County) 	FMN 	Law Dispatch 
+154.87500 	   	KNAB705 	BM		Archie Local 	Local Goverment 	FMN 	Public Works 
+453.60000 	458.60000  	KAJ500 	RM	023 DPL	BeltonPolice 	Police: Dispatch - Main / Car-to-Car 	FMN 	Law Dispatch 
+458.05000 	   	 	M		Belt PD Park 	Police: Park - Foot/Bikes (in portables) [NO LICENSE] 	FMN 	Law Tac 
+155.14500 	   	KNIY580 	BM	136.5 PL	Belton EMA 	Emergency Management 	FMN 	Emergency Ops 
+151.29500 	154.89000  	WPQE227 	RM	136.5 PL	Belton Fire 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
+154.99500 	   	WPQE227 	M	136.5 PL	Belton Fire Tac1 	Fireground/Tactical Ops 1 	FMN 	Fire-Tac 
+153.83000 	   	KDA424 	M		Belt FD Tac2 	Fireground/Tactical Ops 2 	FMN 	Fire-Tac 
+451.13750 	   	WPMY261 	F		Belton WDD 	Water Works Data/Telemetry 	FMN 	Data 
+159.19500 	   	WNMF966 	BM		MPTs Roads 	Mount Pleasant Township: Roads 	FMN 	Public Works 
+155.64000 	   	WPXW830 	BM		ClvlndPD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
+453.98750 	   	WPPH391 	F		Clvlnd WDD 1 	Water Distribution Data (SCADA) 	FMN 	Data 
+458.98750 	   	WPPH391 	F		Clvlnd WDD 2 	Water Distribution Data 	Telm 	Data 
+154.14500 	150.80500  	WNSB844 	RM	186.2 PL	Creightn Fire 	Fire: Dispatch/Operations 	FMN 	Fire Dispatch 
+154.65000 	156.09000  	WNPU640 	RM	186.2 PL	W/Dolan Fire 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
+155.29500 	154.07000  	WPMZ920 	RM	186.2 PL	Drexel Fire 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
+155.76000 	   	KAO631 	BM		Drexel LocGV 	Local Goverment 	FMN 	Multi-Talk 
+153.78500 	   	WPTL240 	M		ELyn Police MX 	Police: Mobile Extenders [was 458.83750] 	FMN 	Law Tac 
+155.22000 	150.79000  	WPMZ941 	RM	186.2 PL	EL-GC Fire 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
+155.65500 	   	WPLZ786 	BM		Freeman LG 	Local Government 	FMN 	Multi-Talk 
+154.38500 	150.77500  	WRA213 	RM	91.5 PL	GrdnCty Fire 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
+154.05500 	   	KVT732 	BM		GrdnCity LocGovt 	Local Government 	FMN 	Public Works 
+155.07000 	153.92000  	KAH295 	BM	110.9 PL	HV Police 1 	Police: Dispatch - Main 	FMN 	Law Dispatch 
+154.87500 	   	KAH295 	BM	110.9 PL	HV Police 2 	Police: Car-to-Car [Ch 2] 	FMN 	Law Talk 
+154.02500 	154.96500  	KCT250 	RM	CSQ	HarrisonvilleEMS 	Fire/EMS: Dispatch (input 131.8?) 	FMN 	EMS Dispatch 
+453.06250 	458.06250  	KCT250 	M	131.8 PL	HV Fire MX 	Fire: Extenders 	FMN 	Fire-Talk 
+453.17500 	458.17500  	WPML239 	RM		HV EMS UHF 	EMS 	FMN 	EMS Dispatch 
+150.99500 	154.95000  	WPPV979 	RM	110.9 PL	HV Utility 1 	Utilities Department 	FMN 	Public Works 
+156.18000 	153.89000  	WQCP655 	RM		HV Utility 2 	Utilities (also Fire?) 	FMN 	Public Works 
+155.88000 	154.77000  	KCT250 	RM		HV Water 	Water 	FMN 	Public Works 
+451.23125 	   	WPPZ366 	F		Hv WtrData 	Water Distribution Data (CSQ) 	Telm 	Data 
+158.83500 	   	WPXT243 	BM		LkWinnPolice 	Local - Repeats Sheriff 2 (154.8525R) [Ch 1] 	FMN 	Law Dispatch 
+154.45625 	   	WPXQ600 	F		LkWinn WDD 1 	Water Distribution Data 	Telm 	Data 
+154.64000 	   	WPXQ600 	F		LkWinn WDD 2 	Water Distribution Data  	Telm 	Data 
+155.53500 	153.98000  	KNET693 	RM	241.8 PL	Pec Police 	Police: Dispatch - Main (DB: Raymore Police) 	FMN 	Law Dispatch 
+151.20500 	   	WPMG228 		123.0 PL	PeculiarFire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.16000 	   	WPMG228 		131.8 PL	Pec FireTac1 	Fire: Tactical 1 	FMN 	Fire-Tac 
+155.09250 	158.99250  	WYJ718 	RM	141.3 PL	PH Police 	Police: Dispatch - Main [Ch 1/2] 	FMN 	Law Dispatch 
+154.08500 	   	KAN614 	BM	107.2 PL	PH Polie Tac 3 	Police: Car-to-Car/Tac [Ch 3] 	FMN 	Law Tac 
+154.40000 	   	WPXU425 	BM	CSQ	Cass CW Fire 	Fire: Countywide Fire 	FMN 	Fire Dispatch 
+151.09250 	153.74750  	WQHA812 	RM	82.5 PL	PH Fire/EMS 	Fire/Rescue: Dispatch  	FMN 	Fire Dispatch 
+155.76000 	   	KAN614 	BM	107.2 PL	PH LocalGovt 	Local Government 	FMN 	Public Works 
+453.23750 	   	WQHA812 	F		PH 911 RF 	Link for Remote RX at 911 Center 	FMN 	Fire-Tac 
+158.79000 	156.15000  	WPZJ759 	RM	210.7 PL	Raym Police1 	Police: Dispatch - Main [Ch 1] 	FMN 	Law Dispatch 
+155.41500 	   	KWE668 	BM	131.8 PL	Raym Police2 	Police: Tac [Ch 2] 	FMN 	Multi-Talk 
+460.20000 	465.20000  	WPMV709 	F		Raym PD RF 	Police: Remote Link to 158.79 R 	FMN 	Law Dispatch 
+154.32500 	158.92500  	KZV446 	RM	131.8 PL	SMFD Disp 	Fire: Dispatch - Main 	FMN 	Fire Dispatch 
+150.80500 	   	KZV446 	M		SMFD MX 	Fire: Mobile Extenders  	FMN 	Fire-Tac 
+158.94750 	   	KZV446 	M	131.8 PL	SMFD Tac 1 	Fire: Tactical Ops 1 	FMN 	Fire-Tac 
+155.12250 	   	KZV446 	M	131.8 PL	SMFD Tac 2 	Fire: Tactical Ops 2 	FMN 	Fire-Tac 
+155.83500 	   	KWE669 	BM	131.8 PL	Raym EMA F3 	Emergency Management [Ch 3] 	FMN 	Emergency Ops 
+155.60250 	151.24250  	WPZI840 	RM	152 DPL	Raym PubWrks 	Public Works 	FMN 	Public Works 
+451.23125 	   	WQHC948 	F		Raym WDD 1 	Water Distribution Data  	Telm 	Data 
+451.23125 	   	WPYZ431 	F		Raym WDD 2 	Water Distribution Data 	Telm 	Data 
+155.20500 	   	WNQC903 	BM		Durham 1 	Bus Operations 	FMN 	Schools 
+155.26500 	   	KNFZ444 	BM		Durham 2 	Bus Operations 	FMN 	Schools 
+155.26500 	   	WNQC903 	BM		Durham 3 	Bus Operations 	FMN 	Schools 
+154.54000 	   	WNJP943 	BM		CCR8 Schools 	Operations 	FMN 	Schools 
+155.20500 	   	WNUW665 	BM		Drex SchBus 	Buses 	FMN 	Schools 
+155.23500 	   	WQDZ556 	BM		CM R1 SchBus 	Buses 	FMN 	Schools 
+461.35000 	466.35000  	WQOR967 	RM		RP MiddleSch 	Operations (linked to Middle School on special CTCSS) 	FMN 	Schools 
+464.37500 	469.37500  	WQOR967 	RM		RP High Sch 	Operations (linked to High School on special CTCSS) 	FMN 	Schools 
+461.90000 	   	WQOR967 	BM		RP School 3  	Transportation / Sports Department 	FMN 	Schools 
+464.02500 	   	WQOR967 	BM		RP School 4  	Transportation / Sports Department 	FMN 	Schools 
+453.36250 	   	WQHP666 	M		RP School 5  	Operations 	FMN 	Schools 
+453.93750 	   	WQHP666 	M		RP School 6  	Operations 	FMN 	Schools 
+453.96250 	   	WQHP666 	M		RP School 7  	Operations 	FMN 	Schools 
+458.06250 	   	WQHP666 	M		RP School 8  	Operations 	FMN 	Schools 
+Central Communications Service Company	 LTR Standard	 Dayton	KAMO Power	 NXDN NEXEDGE 4800	 Various	Metropolitan Area Regional Radio System (MARRS)	 Project 25 Phase II	 Kansas City Metro Area
+MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	

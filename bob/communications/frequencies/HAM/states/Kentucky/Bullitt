@@ -1,31 +1,31 @@
-155.43000 	KIW798 	RM	141.3 PL	Bllt Law 1 	Law Enforcement Dispatch 1 	FMN 	Law Dispatch 
-155.13000 	KIW798 	RM	77.0 PL	Bllt Law 2 	Law Enforcement Dispatch 2 	FMN 	Law Dispatch 
-159.09000 	KIW798 	M	186.2 PL	BlltCar2Car 	Law Enforcement Car-to-Car 	FMN 	Law Talk 
-151.46750 	 	RM	146.2 PL	BCDC 	Detention Center 	FMN 	Corrections 
-155.74500 	KIW798 	B	141.3 PL	Knock Out 	County Fire Dispatch 	FMN 	Fire Dispatch 
-154.32500 	WPUD294 	RM	77.0 PL	Fire 1 	County Fire 1 	FMN 	Fire-Talk 
-155.50500 	 	RM	79.7 PL	Fire 2 	County Fire 2 	FMN 	Fire-Talk 
-154.41500 	WPUD294 	M		SE Bllt FD-1 	Southeast Bullitt Fire Protection District 	FMN 	Fire-Talk 
-153.83000 	WPUD294 	M		SE Bllt FD-2 	Southeast Bullitt Fire Protection District 	FMN 	Fire-Talk 
-154.35500 	WPKY430 	RM	110.9 PL	LbnJnct FD  	Lebanon Junction Fire Department 	FMN 	Fire-Talk 
-154.99500 	WQA512 	RM	79.7 PL	Nichols FD 	Nichols Fire Department 	FMN 	Fire-Talk 
-153.95000 	KNCH562 	M		MtWash VFD 	Mt Washington Volunteer Fire Department 	FMN 	Fire-Talk 
-155.04750 	WQEX821 	RM		MtWash FD 	Mt Washington Fire Protection District 	FMN 	Fire-Talk 
-154.34000 	WPKG747 	M		Zoneton FD 	Zoneton Fire Department 	FMN 	Fire-Talk 
-154.28000 	WPXL902 	M		ChiefsAssoc1 	Bullitt County Fire Chief's Association 	FMN 	Fire-Tac 
-154.26500 	WPXL902 	M	79.7 PL	ChiefsAssoc2 	Bullitt County Fire Chief's Association 	FMN 	Fire-Tac 
-154.29500 	WPXL902 	M	151.4 PL	ChiefsAssoc3 	Bullitt County Fire Chief's Association 	FMN 	Fire-Tac 
-159.18750 	WPBN950 	BM	79.7 PL	EMS1 	EMS - Dispatch 	FMN 	EMS Dispatch 
-155.22000 	WPBN950 	M	173.8 PL	EMS Simplex 	EMS - Simplex 	FMN 	EMS-Talk 
-155.26500 	 	BM	151.4 PL	BCEMA 	Bullitt County Emergency Management Agency    	FMN 	EMS-Tac 
-156.24000 	WPYR320 	RM	1 RAN	 PD FD Disp 	Police and Fire Dispatch 	NXDN 	Multi-Dispatch 
-159.00750 	WNWU660 	M	20 RAN 	SPD Digital  	SPD Digital 3 	NXDN 	Law Talk 
-156.00000 	WPYR320 	M		 FD C2C 	Fire Car to Car 	FMN 	Fire-Talk 
-39.82000 	WNML571 	M		Public Works 	Public Works 	FM 	Public Works 
-155.91000 	 	M	186.2 PL	Police 9 	Police Channel 9  	FMN 	Law Talk 
-155.94000 	 	M	186.2 PL	Public Works 	Public Works 	FMN 	Public Works 
-154.96500 	 	M	94.8 PL	Police 8 	Police 8 	FMN 	Law Talk 
-159.15000 	WQYM928  	RM	10 RAN	MWPD 	Mt. Washington PD 	NXDN 	Law Talk 
-453.25000 	WPPH648 	RM	412 DPL	Road Dept 	 Road Department 	FMN 	Public Works 
-Bullitt County Board Of Education	 DMR Motorola Capacity Plus Single Site (TRBO)	 Shepherdsville	Davis Electronics (Louisville Metro Area LTR)	 LTR Standard	 Louisville Metro Area	Louisville Emergency Communications Network:  MetroSafe	 Project 25 Phase I
- Multiple	
+155.43000 	159.46500  	KIW798 	RM	141.3 PL	Bllt Law 1 	Law Enforcement Dispatch 1 	FMN 	Law Dispatch 
+155.13000 	159.03000  	KIW798 	RM	77.0 PL	Bllt Law 2 	Law Enforcement Dispatch 2 	FMN 	Law Dispatch 
+159.09000 	   	KIW798 	M	186.2 PL	BlltCar2Car 	Law Enforcement Car-to-Car 	FMN 	Law Talk 
+151.46750 	158.89500  	 	RM	146.2 PL	BCDC 	Detention Center 	FMN 	Corrections 
+155.74500 	   	KIW798 	B	141.3 PL	Knock Out 	County Fire Dispatch 	FMN 	Fire Dispatch 
+154.32500 	151.32500  	WPUD294 	RM	77.0 PL	Fire 1 	County Fire 1 	FMN 	Fire-Talk 
+155.50500 	150.80500  	 	RM	79.7 PL	Fire 2 	County Fire 2 	FMN 	Fire-Talk 
+154.41500 	   	WPUD294 	M		SE Bllt FD-1 	Southeast Bullitt Fire Protection District 	FMN 	Fire-Talk 
+153.83000 	   	WPUD294 	M		SE Bllt FD-2 	Southeast Bullitt Fire Protection District 	FMN 	Fire-Talk 
+154.35500 	150.80500  	WPKY430 	RM	110.9 PL	LbnJnct FD  	Lebanon Junction Fire Department 	FMN 	Fire-Talk 
+154.99500 	153.93500  	WQA512 	RM	79.7 PL	Nichols FD 	Nichols Fire Department 	FMN 	Fire-Talk 
+153.95000 	   	KNCH562 	M		MtWash VFD 	Mt Washington Volunteer Fire Department 	FMN 	Fire-Talk 
+155.04750 	156.13500  	WQEX821 	RM		MtWash FD 	Mt Washington Fire Protection District 	FMN 	Fire-Talk 
+154.34000 	   	WPKG747 	M		Zoneton FD 	Zoneton Fire Department 	FMN 	Fire-Talk 
+154.28000 	   	WPXL902 	M		ChiefsAssoc1 	Bullitt County Fire Chief's Association 	FMN 	Fire-Tac 
+154.26500 	   	WPXL902 	M	79.7 PL	ChiefsAssoc2 	Bullitt County Fire Chief's Association 	FMN 	Fire-Tac 
+154.29500 	   	WPXL902 	M	151.4 PL	ChiefsAssoc3 	Bullitt County Fire Chief's Association 	FMN 	Fire-Tac 
+159.18750 	151.12250  	WPBN950 	BM	79.7 PL	EMS1 	EMS - Dispatch 	FMN 	EMS Dispatch 
+155.22000 	   	WPBN950 	M	173.8 PL	EMS Simplex 	EMS - Simplex 	FMN 	EMS-Talk 
+155.26500 	   	 	BM	151.4 PL	BCEMA 	Bullitt County Emergency Management Agency    	FMN 	EMS-Tac 
+156.24000 	159.13500  	WPYR320 	RM	1 RAN	 PD FD Disp 	Police and Fire Dispatch 	NXDN 	Multi-Dispatch 
+159.00750 	156.19500  	WNWU660 	M	20 RAN 	SPD Digital  	SPD Digital 3 	NXDN 	Law Talk 
+156.00000 	   	WPYR320 	M		 FD C2C 	Fire Car to Car 	FMN 	Fire-Talk 
+39.82000 	   	WNML571 	M		Public Works 	Public Works 	FM 	Public Works 
+155.91000 	   	 	M	186.2 PL	Police 9 	Police Channel 9  	FMN 	Law Talk 
+155.94000 	   	 	M	186.2 PL	Public Works 	Public Works 	FMN 	Public Works 
+154.96500 	   	 	M	94.8 PL	Police 8 	Police 8 	FMN 	Law Talk 
+159.15000 	154.06250  	WQYM928  	RM	10 RAN	MWPD 	Mt. Washington PD 	NXDN 	Law Talk 
+453.25000 	458.25000  	WPPH648 	RM	412 DPL	Road Dept 	 Road Department 	FMN 	Public Works 
+Bullitt County Board Of Education	 DMR Motorola Capacity Plus Single Site (TRBO)	 Shepherdsville	Davis Electronics (Louisville Metro Area LTR)	 LTR Standard	 Louisville Metro Area	Louisville Emergency Communications Network:  MetroSafe	 Project 25 Phase I	 Multiple
+US Army Fort Knox	 Project 25 Phase I	 Fort Knox	

@@ -1,86 +1,85 @@
-154.05500 	KNEJ770 	RM	71.9 PL	LanCo Cons1 	Constables 	FM 	Law Dispatch 
-154.57000 	 	M	71.9 PL	LanCo Cons2 	Constables 	FM 	Law Tac 
-33.90000 	KGC755 	BM	CSQ	LCo FD/EMS Dsp  	County Fire/EMS Dispatch 	FM 	Fire Dispatch 
-72.58000 	WPUU748 	F	025 DPL	LCo FD/EMS Dsp  	County Fire/EMS Dispatch 	FM 	Fire Dispatch 
-33.82000 	KGC755 	BM	CSQ	Lancaster FD 	Lancaster City Fire Dispatch 	FM 	Fire Dispatch 
-33.60000 	KGC755 	BM	CSQ	Siren Activ 	House Siren Activations 	FM 	Fire Dispatch 
-33.64000 	KGC755 	BM	CSQ	Fire/EMS A 	Fire/EMS Dispatch A (Northwest) TRS Rebroadcast 	FM 	Fire-Tac 
-33.56000 	KGC755 	BM	CSQ	Fire/EMS B 	Fire/EMS Dispatch B (Northeast) TRS Rebroadcast 	FM 	Fire-Tac 
-33.72000 	KGC755 	BM	CSQ	Fire/EMS C 	Fire/EMS Dispatch C (City/South) TRS Rebroadcast 	FM 	Fire-Tac 
-453.52500 	 	BM		Lanco Alpha 	Alpha Paging (POCSAG) 	FMN 	Data 
-462.77500 	 	RM	114.8 PL	LanCo Fire Simul 	Crossband Repeats 33.56, 33.72,and 33.64 	FMN 	Fire-Tac 
-451.11250 	WPVS228 	B		TMI Siren 	Three Mile Island Siren Control 	FMN 	Emergency Ops 
-156.24000 	KNAK735 	BM	413 DPL	Fulton LCL 	Fulton Township 	FMN 	Public Works 
-154.98000 	KNEZ872 	BM	71.9 PL	Caern PW 	Twp Public Works 	FMN 	Public Works 
-155.13000 	KGA443 	BM	71.9 PL	Columbia PD 	Columbia PD 	FMN 	Law Tac 
-154.02500 	 	RM	94.8 PL	Conestoga Twp 	Conestoga Twp PW 	FMN 	Public Works 
-156.24000 	KNBG332 	BM	71.9 PL	Susq Reg PD 	Susquehanna Regional Police 	FMN 	Law Tac 
-156.24000 	KNAL298 	BM	413 DPL	Drumore PW 	Public Works 	FMN 	Public Works 
-151.25000 	WQLD665 	BM	79.7 PL	Martindle FC 	Martindale Fire Company 	FMN 	Fire-Talk 
-155.14500 	WQFU680 	BM	146.2 PL	E Cocalico 	Public Works 	FMN 	Public Works 
-154.04000 	KSJ283 	BM	71.9 PL	E Drumore LCL 	East Drumore PW 	FMN 	Public Works 
-154.37000 	WQMB501 	RM	71.9 PL	GSFR NE FD 	Garden Spot Fire Rescue - NE FD Response TRS Rebroadcast 	FMN 	Fire-Tac 
-155.10000 	WNZX817 	RM	71.9 PL	East Earl PW 	Public Works/Police 	FMN 	Public Works 
-155.88000 	KWX521 	RM	71.9 PL	EHempfld PD 	Police Local 	FMN 	Law Tac 
-155.59500 	WNCY310 	BM	71.9 PL	ELampeter PD 	East Lampeter PD 	FMN 	Law Tac 
-453.16250 	WQJY507 	RM	141.3 PL	BIHFC Disp 	Bird in Hand Fire Company - Fire/EMS Dispatch B (Northeast) TRS Rebroadcast  	FMN 	Fire Dispatch 
-155.52000 	WNEB858 	BM	71.9 PL	Elizabth PD 	Police Local 	FMN 	Law Tac 
-154.84500 	KGC558 	BM	71.9 PL	Ephrata Boro 	Ephrata Boro 	FMN 	Public Works 
-154.89000 	KGC558 	RM	162.2 PL	EphrataBo PD 	Police Local 	FMN 	Law Tac 
-453.47500 	KGC558 	M	051 DPL	Ephrata DPW 	Public Works 	FMN 	Public Works 
-154.02500 	WXK779 	RM	71.9 PL	Ephrata Twp 	Public Works/Police 	FMN 	Law Tac 
-453.68750 	WNCR672 	RM	343 DPL	Ephrata Fire 	Pioneer Fire Co UHF 	FMN 	Fire-Talk 
-458.58750 	WNCR672 	M	151.4 PL	EPFC MblRpt 	Pioneer Fire Co Mobile Repeater 	FMN 	Fire-Tac 
-156.24000 	KNAS769 	BM	743 DPL	L Britain PW 	Public Works 	FMN 	Public Works 
-158.95500 	WNSB283 	BM	103.5 PL	Manheim Boro PW 	Manheim Boro 	FMN 	Public Works 
-153.86000 	WNJZ206 	BM		Manheim Twp 	Manheim Twp 	FMN 	Public Works 
-155.31000 	KKL546 	M	71.9 PL	Mville PW 	Public Works 	FMN 	Public Works 
-155.71500 	KKL546 	BM	71.9 PL	Mville PD 	Police Local 	FMN 	Law Tac 
-155.14500 	KWF838 	BM	71.9 PL	Mt Joy PW 	Public Works 	FMN 	Public Works 
-158.74500 	 	RM	71.9 PL	Mt Joy PD 	Police 	FMN 	Law Tac 
-150.99500 	WNXP264 	BM	71.9 PL	Mountville PW 	Public Works 	FMN 	Public Works 
-151.20500 	WPLG864 	RM	71.9 PL	New Holland PW 	Public Works/Police 	FMN 	Public Works 
-156.01500 	WYG415 	RM	71.9 PL	Penn Twp 	Public Works/Police 	FMN 	Public Works 
-155.08500 	KVI620  	BM	127.3 PL	Rapho Twp 	Public Works/Police 	FMN 	Public Works 
-155.11500 	KOL954 	BM	71.9 PL	ULT PW 	Public Works 	FMN 	Public Works 
-155.77500 	WPMY355 	BM	71.9 PL	Warwick Twp PD 	Police Local 	FMN 	Law Tac 
-155.92500 	KNGZ248 	BM	71.9 PL	Warwck Twp PW 	Public Works 	FMN 	Public Works 
-158.80500 	KCS306 	BM	71.9 PL	West Donegal 	West Donegal 	FMN 	Public Works 
-154.10000 	WNMY443 	BM	CSQ	W Hempfld PD 	Police Local 	FMN 	Law Tac 
-151.08500 	KWN440 	BM	110.9 PL	W Lampeter 	Public Works 	FMN 	Public Works 
-453.73750 	WQVF539 	RM		Lampeter FC 	Lampeter Fire Company 	FMN 	Fire-Talk 
-152.33750 	WQOL223 	RM		FivePointEMS Rpt 	Repeater 	FMN 	EMS-Tac 
-154.00250 	WQHC999 	M		FivePointEMS 	Tactical 	FMN 	EMS-Tac 
-155.34000 	WNFC381 	BM	192.8 PL	LancasterEMS 	Lancaster EMS 	FMN 	EMS-Talk 
-155.40750 	WPQK401 	RM	025 DPL	LancasterEMS 	Lancaster EMS Association 	FMN 	EMS-Talk 
-155.01750 	WQJL673 	RM	179.9 PL	New Holland EMS 	New Holland EMS 	FMN 	EMS-Tac 
-463.20000 	WPBN561 	RM	192.8 PL	NW EMS Ops 	NWEMS Repeater 	FMN 	EMS-Talk 
-463.60000 	KST561 	RM	243 DPL	ElizColl Sec 	Security Dispatch 	FMN 	Security 
-451.28750 	WQEH990 	RM	CC 5TG 300SL 1	F&M Ops 	Facility and Operations 	DMR 	Schools 
-464.52500 	WPYG397 	RM	114.8 PL	F&M Coll Mnt 	Maintenance 	FM 	Schools 
-464.63750 	WQEH990 	RM	315 DPL	F&M Shuttles 	Student Shuttles 	FMN 	Transportation 
-464.63750 	WQEH990 	RM	343 DPL	F&M EMT 	EMT Team 	FM 	EMS-Tac 
-451.12500 	WPTM511 	RM	627 DPL	HACC-L IT 	Information Technology 	FMN 	Schools 
-461.82500 	WPTM511 	RM	136.5 PL	HACC-L 	Lancaster Campus 	FMN 	Schools 
-464.82500 	WPTM511 	RM	CC 1TG 3101SL 1	HACC-L Sec 	Security 	DMR 	Security 
-464.82500 	WPTM511 	RM	CC 1TG 1600SL 2	HACC-L Fac2 	Facilities & Operations 	DMR 	Schools 
-464.91250 	WPTM511 	RM	606 DPL	HACC-L Fac1 	Facilities & Operations 	FMN 	Schools 
-451.96250 	WPVZ387 	RM	703 DPL	LancBibleClg 	Lancaster Bible College 	FMN 	Schools 
-462.68750 	 	M	107.2 PL	MU Sp Event 	Special Events 	FMN 	Schools 
-453.87500 	KUO582 	RM	107.2 PL	MU Maintenan 	Facilities Maintenance 1 	FMN 	Schools 
-458.87500 	KUO582 	M	107.2 PL	MU Maint T/A 	Facilities Maintenance 2 	FMN 	Schools 
-464.66250 	KNNJ628 	M	107.2 PL	MU Fitness C 	SMC Fitness Center 	FMN 	Schools 
-466.48750 	KNNJ628 	M	107.2 PL	MU Info Desk 	SMC Information Desk 	FMN 	Schools 
-469.77500 	WNVT763 	M	703 DPL	MU Intramura 	Intramurals 	FMN 	Schools 
-466.05000 	WNVT763 	M	107.2 PL	MU Ticket Sa 	Ticket Sales 	FMN 	Schools 
-456.85000 	WNVT763 	M	073 DPL	MU Athletics 	Athletics 	FMN 	Schools 
-451.85000 	WNVT763 	RM	073 DPL	MU Sports 1 	Sports 1 	FMN 	Schools 
-464.77500 	WNVT763 	RM	703 DPL	MU Sports 2 	Sports 2 	FMN 	Schools 
-451.38750 	WQDR767 	RM	343 DPL	Stevens Sec 	Security 	FMN 	Security 
-451.58750 	WQDR767 	RM	464 DPL	Stevens Mnt 	Maintenance 	FMN 	Schools 
-451.11875 	KGD997 	RM	12 RAN	PPL ESO/LR 	PPL Electric system operations and line restoration 	NXDN 	Utilities 
-FBN Wireless (Penn)	 LTR Standard	 Penn Township	Lancaster County-Wide Communications (LCWC)	 Project 25 Phase I	 Lancaster County	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)
- Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Radio Maintenance (New Holland)
- LTR Standard	 New Holland	Triangle Communications (Holtwood)	 LTR Standard	 Holtwood	Triangle Communications (Lancaster City)	 LTR Standard	 Lancaster
-Triangle Communications (New Holland)	 LTR Standard	 New Holland	Triangle Communications (Penn)	 LTR Standard	 Penn Township	WellSpan Health Radio Network	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Various	York County	 Project 25 Phase II	 York	
+154.05500 	158.92500  	KNEJ770 	RM	71.9 PL	LanCo Cons1 	Constables 	FM 	Law Dispatch 
+154.57000 	   	 	M	71.9 PL	LanCo Cons2 	Constables 	FM 	Law Tac 
+33.90000 	   	KGC755 	BM	CSQ	LCo FD/EMS Dsp  	County Fire/EMS Dispatch 	FM 	Fire Dispatch 
+72.58000 	   	WPUU748 	F	025 DPL	LCo FD/EMS Dsp  	County Fire/EMS Dispatch 	FM 	Fire Dispatch 
+33.82000 	   	KGC755 	BM	CSQ	Lancaster FD 	Lancaster City Fire Dispatch 	FM 	Fire Dispatch 
+33.60000 	   	KGC755 	BM	CSQ	Siren Activ 	House Siren Activations 	FM 	Fire Dispatch 
+33.64000 	   	KGC755 	BM	CSQ	Fire/EMS A 	Fire/EMS Dispatch A (Northwest) TRS Rebroadcast 	FM 	Fire-Tac 
+33.56000 	   	KGC755 	BM	CSQ	Fire/EMS B 	Fire/EMS Dispatch B (Northeast) TRS Rebroadcast 	FM 	Fire-Tac 
+33.72000 	   	KGC755 	BM	CSQ	Fire/EMS C 	Fire/EMS Dispatch C (City/South) TRS Rebroadcast 	FM 	Fire-Tac 
+453.52500 	   	 	BM		Lanco Alpha 	Alpha Paging (POCSAG) 	FMN 	Data 
+462.77500 	   	 	RM	114.8 PL	LanCo Fire Simul 	Crossband Repeats 33.56, 33.72,and 33.64 	FMN 	Fire-Tac 
+451.11250 	   	WPVS228 	B		TMI Siren 	Three Mile Island Siren Control 	FMN 	Emergency Ops 
+156.24000 	   	KNAK735 	BM	413 DPL	Fulton LCL 	Fulton Township 	FMN 	Public Works 
+154.98000 	   	KNEZ872 	BM	71.9 PL	Caern PW 	Twp Public Works 	FMN 	Public Works 
+155.13000 	   	KGA443 	BM	71.9 PL	Columbia PD 	Columbia PD 	FMN 	Law Tac 
+154.02500 	   	 	RM	94.8 PL	Conestoga Twp 	Conestoga Twp PW 	FMN 	Public Works 
+156.24000 	   	KNBG332 	BM	71.9 PL	Susq Reg PD 	Susquehanna Regional Police 	FMN 	Law Tac 
+156.24000 	   	KNAL298 	BM	413 DPL	Drumore PW 	Public Works 	FMN 	Public Works 
+151.25000 	   	WQLD665 	BM	79.7 PL	Martindle FC 	Martindale Fire Company 	FMN 	Fire-Talk 
+155.14500 	   	WQFU680 	BM	146.2 PL	E Cocalico 	Public Works 	FMN 	Public Works 
+154.04000 	   	KSJ283 	BM	71.9 PL	E Drumore LCL 	East Drumore PW 	FMN 	Public Works 
+154.37000 	159.17250  	WQMB501 	RM	71.9 PL	GSFR NE FD 	Garden Spot Fire Rescue - NE FD Response TRS Rebroadcast 	FMN 	Fire-Tac 
+155.10000 	153.81500  	WNZX817 	RM	71.9 PL	East Earl PW 	Public Works/Police 	FMN 	Public Works 
+155.88000 	   	KWX521 	RM	71.9 PL	EHempfld PD 	Police Local 	FMN 	Law Tac 
+155.59500 	   	WNCY310 	BM	71.9 PL	ELampeter PD 	East Lampeter PD 	FMN 	Law Tac 
+453.16250 	458.16250  	WQJY507 	RM	141.3 PL	BIHFC Disp 	Bird in Hand Fire Company - Fire/EMS Dispatch B (Northeast) TRS Rebroadcast  	FMN 	Fire Dispatch 
+155.52000 	   	WNEB858 	BM	71.9 PL	Elizabth PD 	Police Local 	FMN 	Law Tac 
+154.84500 	   	KGC558 	BM	71.9 PL	Ephrata Boro 	Ephrata Boro 	FMN 	Public Works 
+154.89000 	156.09000  	KGC558 	RM	162.2 PL	EphrataBo PD 	Police Local 	FMN 	Law Tac 
+453.47500 	   	KGC558 	M	051 DPL	Ephrata DPW 	Public Works 	FMN 	Public Works 
+154.02500 	156.00000  	WXK779 	RM	71.9 PL	Ephrata Twp 	Public Works/Police 	FMN 	Law Tac 
+453.68750 	458.68750  	WNCR672 	RM	343 DPL	Ephrata Fire 	Pioneer Fire Co UHF 	FMN 	Fire-Talk 
+458.58750 	   	WNCR672 	M	151.4 PL	EPFC MblRpt 	Pioneer Fire Co Mobile Repeater 	FMN 	Fire-Tac 
+156.24000 	   	KNAS769 	BM	743 DPL	L Britain PW 	Public Works 	FMN 	Public Works 
+158.95500 	   	WNSB283 	BM	103.5 PL	Manheim Boro PW 	Manheim Boro 	FMN 	Public Works 
+153.86000 	   	WNJZ206 	BM		Manheim Twp 	Manheim Twp 	FMN 	Public Works 
+155.31000 	   	KKL546 	M	71.9 PL	Mville PW 	Public Works 	FMN 	Public Works 
+155.71500 	   	KKL546 	BM	71.9 PL	Mville PD 	Police Local 	FMN 	Law Tac 
+155.14500 	   	KWF838 	BM	71.9 PL	Mt Joy PW 	Public Works 	FMN 	Public Works 
+158.74500 	   	 	RM	71.9 PL	Mt Joy PD 	Police 	FMN 	Law Tac 
+150.99500 	   	WNXP264 	BM	71.9 PL	Mountville PW 	Public Works 	FMN 	Public Works 
+151.20500 	153.78500  	WPLG864 	RM	71.9 PL	New Holland PW 	Public Works/Police 	FMN 	Public Works 
+156.01500 	   	WYG415 	RM	71.9 PL	Penn Twp 	Public Works/Police 	FMN 	Public Works 
+155.08500 	158.86500  	KVI620  	BM	127.3 PL	Rapho Twp 	Public Works/Police 	FMN 	Public Works 
+155.11500 	   	KOL954 	BM	71.9 PL	ULT PW 	Public Works 	FMN 	Public Works 
+155.77500 	   	WPMY355 	BM	71.9 PL	Warwick Twp PD 	Police Local 	FMN 	Law Tac 
+155.92500 	   	KNGZ248 	BM	71.9 PL	Warwck Twp PW 	Public Works 	FMN 	Public Works 
+158.80500 	   	KCS306 	BM	71.9 PL	West Donegal 	West Donegal 	FMN 	Public Works 
+154.10000 	   	WNMY443 	BM	CSQ	W Hempfld PD 	Police Local 	FMN 	Law Tac 
+151.08500 	   	KWN440 	BM	110.9 PL	W Lampeter 	Public Works 	FMN 	Public Works 
+453.73750 	458.73750  	WQVF539 	RM		Lampeter FC 	Lampeter Fire Company 	FMN 	Fire-Talk 
+152.33750 	157.59750  	WQOL223 	RM		FivePointEMS Rpt 	Repeater 	FMN 	EMS-Tac 
+154.00250 	   	WQHC999 	M		FivePointEMS 	Tactical 	FMN 	EMS-Tac 
+155.34000 	   	WNFC381 	BM	192.8 PL	LancasterEMS 	Lancaster EMS 	FMN 	EMS-Talk 
+155.40750 	150.79750  	WPQK401 	RM	025 DPL	LancasterEMS 	Lancaster EMS Association 	FMN 	EMS-Talk 
+155.01750 	   	WQJL673 	RM	179.9 PL	New Holland EMS 	New Holland EMS 	FMN 	EMS-Tac 
+463.20000 	468.20000  	WPBN561 	RM	192.8 PL	NW EMS Ops 	NWEMS Repeater 	FMN 	EMS-Talk 
+463.60000 	468.60000  	KST561 	RM	243 DPL	ElizColl Sec 	Security Dispatch 	FMN 	Security 
+451.28750 	456.28750  	WQEH990 	RM	CC 5TG 300SL 1	F&M Ops 	Facility and Operations 	DMR 	Schools 
+464.52500 	469.52500  	WPYG397 	RM	114.8 PL	F&M Coll Mnt 	Maintenance 	FM 	Schools 
+464.63750 	469.63750  	WQEH990 	RM	315 DPL	F&M Shuttles 	Student Shuttles 	FMN 	Transportation 
+464.63750 	469.63750  	WQEH990 	RM	343 DPL	F&M EMT 	EMT Team 	FM 	EMS-Tac 
+451.12500 	456.12500  	WPTM511 	RM	627 DPL	HACC-L IT 	Information Technology 	FMN 	Schools 
+461.82500 	466.82500  	WPTM511 	RM	136.5 PL	HACC-L 	Lancaster Campus 	FMN 	Schools 
+464.82500 	469.82500  	WPTM511 	RM	CC 1TG 3101SL 1	HACC-L Sec 	Security 	DMR 	Security 
+464.82500 	469.82500  	WPTM511 	RM	CC 1TG 1600SL 2	HACC-L Fac2 	Facilities & Operations 	DMR 	Schools 
+464.91250 	469.91250  	WPTM511 	RM	606 DPL	HACC-L Fac1 	Facilities & Operations 	FMN 	Schools 
+451.96250 	   	WPVZ387 	RM	703 DPL	LancBibleClg 	Lancaster Bible College 	FMN 	Schools 
+462.68750 	   	 	M	107.2 PL	MU Sp Event 	Special Events 	FMN 	Schools 
+453.87500 	   	KUO582 	RM	107.2 PL	MU Maintenan 	Facilities Maintenance 1 	FMN 	Schools 
+458.87500 	   	KUO582 	M	107.2 PL	MU Maint T/A 	Facilities Maintenance 2 	FMN 	Schools 
+464.66250 	   	KNNJ628 	M	107.2 PL	MU Fitness C 	SMC Fitness Center 	FMN 	Schools 
+466.48750 	   	KNNJ628 	M	107.2 PL	MU Info Desk 	SMC Information Desk 	FMN 	Schools 
+469.77500 	   	WNVT763 	M	703 DPL	MU Intramura 	Intramurals 	FMN 	Schools 
+466.05000 	   	WNVT763 	M	107.2 PL	MU Ticket Sa 	Ticket Sales 	FMN 	Schools 
+456.85000 	   	WNVT763 	M	073 DPL	MU Athletics 	Athletics 	FMN 	Schools 
+451.85000 	   	WNVT763 	RM	073 DPL	MU Sports 1 	Sports 1 	FMN 	Schools 
+464.77500 	   	WNVT763 	RM	703 DPL	MU Sports 2 	Sports 2 	FMN 	Schools 
+451.38750 	   	WQDR767 	RM	343 DPL	Stevens Sec 	Security 	FMN 	Security 
+451.58750 	   	WQDR767 	RM	464 DPL	Stevens Mnt 	Maintenance 	FMN 	Schools 
+451.11875 	456.11875  	KGD997 	RM	12 RAN	PPL ESO/LR 	PPL Electric system operations and line restoration 	NXDN 	Utilities 
+FBN Wireless (Penn)	 LTR Standard	 Penn Township	Lancaster County-Wide Communications (LCWC)	 Project 25 Phase I	 Lancaster County	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various
+Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Radio Maintenance (New Holland)	 LTR Standard	 New Holland
+Triangle Communications (Holtwood)	 LTR Standard	 Holtwood	Triangle Communications (Lancaster City)	 LTR Standard	 Lancaster	Triangle Communications (New Holland)	 LTR Standard	 New Holland
+Triangle Communications (Penn)	 LTR Standard	 Penn Township	WellSpan Health Radio Network	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	York County	 Project 25 Phase II	 York

@@ -1,25 +1,24 @@
-154.78500 	KJC962 	RM	123.0 PL	Shelby SO 	Sheriff Dispatch 	FM 	Law Dispatch 
-155.83500 	KUY626 	RM	107.2 PL	Shelby 911 	911 Dispatch (Multiple Departments) 	FM 	Multi-Dispatch 
-155.34000 	WQOK944 	BM	103.5 PL	SMC HEAR 	Shelby Medical Center 	FMN 	Hospital 
-154.89000 	WNIT846 	RM	85.4 PL	AlabasterPD1 	Police Dispatch 	FM 	Law Dispatch 
-153.53000 	WNCL866 	RM	192.8 PL	AlabasterPD2 	Police 2 	FM 	Law Dispatch 
-154.23500 	KLW266 	RM	151.4 PL	AlabasterFD1 	Fire Dispatch 	FM 	Fire Dispatch 
-154.40000 	KNFA343 	RM	156.7 PL	CV Fire/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-159.24000 	WNKW866 	RM	203.5 PL	Calera PD 1 	Police Dispatch 	FM 	Law Dispatch 
-155.72250 	WPUL453 	RM		Calera PD 2 	Police 	FM 	Law Dispatch 
-155.11500 	WNKW866 	RM	71.9 PL	Calera FD 1 	Fire Dispatch 	FM 	Fire Dispatch 
-151.03250 	WPVP572 	RM		Chelsea DPW 	Public Works 	FM 	Public Works 
-151.29500 	KEX316 	RM	123.0 PL	ColumbianaPD 	Police 	FM 	Law Dispatch 
-155.05500 	KEX316 	RM		ColumbianaFD 	Fire 	FM 	Fire Dispatch 
-154.74000 	WHK88 	RM	123.0 PL	Helena PD 	Police Dispatch 	FM 	Law Dispatch 
-159.30000 	WPHS455 	BM		Helena DPW 	Street Dept. / Utilities 	FM 	Public Works 
-155.70000 	KNHX835 	RM	123.0 PL	MontevalloPD 	Police Ch.1 	FM 	Law Dispatch 
-154.90500 	WPGW820 	RM	210.7 PL	MontevalloFD 	Fire Ch.1 	FM 	Fire Dispatch 
-460.10000 	KNAW780 	RM	127.3 PL	Pelham PD 1 	Police Main Dispatch 	FM 	Law Dispatch 
-460.45000 	WNNX331 	RM		Pelham PD 2 	Police (Encrypted?) 	P25E 	Law Tac 
-453.87500 	WPRH357 	RM		Pelham PD 3 	Police 	FM 	Law Talk 
-453.82500 	WPRH357 	RM		Pelham PD 4 	Police 	FM 	Law Talk 
-154.14500 	WYR669 	RM	131.8 PL	Pelham FD 	Fire 	FM 	Fire Dispatch 
-154.31000 	WPBR367 	RM		Vincent FD 	Fire 	FM 	Fire Dispatch 
- Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	AllComm Wireless (LTR)	 LTR Standard	 Various	Sullivan Communications	 LTR Standard
- Various	
+154.78500 	   	KJC962 	RM	123.0 PL	Shelby SO 	Sheriff Dispatch 	FM 	Law Dispatch 
+155.83500 	153.99500  	KUY626 	RM	107.2 PL	Shelby 911 	911 Dispatch (Multiple Departments) 	FM 	Multi-Dispatch 
+155.34000 	   	WQOK944 	BM	103.5 PL	SMC HEAR 	Shelby Medical Center 	FMN 	Hospital 
+154.89000 	155.62500  	WNIT846 	RM	85.4 PL	AlabasterPD1 	Police Dispatch 	FM 	Law Dispatch 
+153.53000 	159.87000  	WNCL866 	RM	192.8 PL	AlabasterPD2 	Police 2 	FM 	Law Dispatch 
+154.23500 	153.81500  	KLW266 	RM	151.4 PL	AlabasterFD1 	Fire Dispatch 	FM 	Fire Dispatch 
+154.40000 	151.11500  	KNFA343 	RM	156.7 PL	CV Fire/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+159.24000 	154.93500  	WNKW866 	RM	203.5 PL	Calera PD 1 	Police Dispatch 	FM 	Law Dispatch 
+155.72250 	158.87250  	WPUL453 	RM		Calera PD 2 	Police 	FM 	Law Dispatch 
+155.11500 	159.55500  	WNKW866 	RM	71.9 PL	Calera FD 1 	Fire Dispatch 	FM 	Fire Dispatch 
+151.03250 	159.14250  	WPVP572 	RM		Chelsea DPW 	Public Works 	FM 	Public Works 
+151.29500 	155.91000  	KEX316 	RM	123.0 PL	ColumbianaPD 	Police 	FM 	Law Dispatch 
+155.05500 	153.86000  	KEX316 	RM		ColumbianaFD 	Fire 	FM 	Fire Dispatch 
+154.74000 	158.94000  	WHK88 	RM	123.0 PL	Helena PD 	Police Dispatch 	FM 	Law Dispatch 
+159.30000 	   	WPHS455 	BM		Helena DPW 	Street Dept. / Utilities 	FM 	Public Works 
+155.70000 	150.77500  	KNHX835 	RM	123.0 PL	MontevalloPD 	Police Ch.1 	FM 	Law Dispatch 
+154.90500 	156.06000  	WPGW820 	RM	210.7 PL	MontevalloFD 	Fire Ch.1 	FM 	Fire Dispatch 
+460.10000 	465.10000  	KNAW780 	RM	127.3 PL	Pelham PD 1 	Police Main Dispatch 	FM 	Law Dispatch 
+460.45000 	465.45000  	WNNX331 	RM		Pelham PD 2 	Police (Encrypted?) 	P25E 	Law Tac 
+453.87500 	458.87500  	WPRH357 	RM		Pelham PD 3 	Police 	FM 	Law Talk 
+453.82500 	458.82500  	WPRH357 	RM		Pelham PD 4 	Police 	FM 	Law Talk 
+154.14500 	151.14500  	WYR669 	RM	131.8 PL	Pelham FD 	Fire 	FM 	Fire Dispatch 
+154.31000 	159.55500  	WPBR367 	RM		Vincent FD 	Fire 	FM 	Fire Dispatch 
+ Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	AllComm Wireless (LTR)	 LTR Standard	 Various	Sullivan Communications	 LTR Standard	 Various

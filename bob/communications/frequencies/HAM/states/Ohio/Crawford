@@ -1,34 +1,33 @@
-154.86000 	KQB660 	RM	82.5 PL	Crestline PD  	Crestline Police 	FM 	Law Talk 
-159.40500 	KQB660 	RM	82.5 PL	Crestline PD Dsp 	Crestline Police Primary 	FM 	Law Dispatch 
-155.73000 	KQB225 	RM	241.8 PL	Galion PD Disp 	Galion Police Primary 	FM 	Law Dispatch 
-155.56500 	KQB225 	M		Galion PD  	Galion Police 	FM 	Law Talk 
-158.73000 	KQB225 	M		Galion PD  	Galion Police 	FM 	Law Talk 
-154.25000 	KNJS832 	BM	156.7 PL	Crawford FD Disp 	County Fire Dispatch 	FM 	Fire Dispatch 
-151.21250 	WQGM518 	RM	156.7 PL	Crawford Fire 	County Fire Repeater 	FMN 	Fire-Tac 
-155.07000 	WQGM518 	M	172 DPL	Crawford FG-1  	County Fire - Fireground 1 	FMN 	Fire-Tac 
-151.46000 	WQGM518 	M	172 DPL	Crawford FG-2  	County Fire - Fireground 2 	FMN 	Fire-Tac 
-151.21250 	WQGM518 	M	156.7 PL	Crawford FG-3 	County Fire - Fireground 3 	FMN 	Fire-Tac 
-151.30250 	WPYD306 	RM	172 DPL	Crawford 911   	County 911 - Portsmouth Ambulance 	FMN 	EMS Dispatch 
-154.32500 	KNFL655 	BM	156.7 PL	Galion Fire 	Galion FD 	FM 	Fire-Tac 
-155.17500 	WPJM385 	BM	156.7 PL	Crawford EMS  	County EMS 	FM 	EMS Dispatch 
-156.24000 	KQD738 	RM	156.7 PL	Crawford Eng 	County Engineer 	FMN 	Public Works 
-154.05500 	KCN703 	RM	156.7 PL	Crawford Twps 	Crawford County Townships 	FM 	Public Works 
-154.02500 	WPYH736 	BM		Bucyrus Srvc 	Bucyrus Services 	FM 	Public Works 
-45.52000 	 	M		Crestline PW  	Crestline 	FM 	Public Works 
-153.71000 	KRS445 	BM		Galion LG  	Galion 	FM 	Public Works 
-158.83500 	WNFM874 	RM		Galion PW  	Galion 	FM 	Public Works 
-453.25000 	WNFM874 	RM	103.5 PL	Galion LG  	Galion 	FM 	Public Works 
-37.18000 	 	M		Sandusky Twp PW  	Sandusky Twp 	FM 	Public Works 
-151.19000 	WNWU327 	RM	156.7 PL	Liberty Twp PW  	Liberty Twp Services 	FMN 	Public Works 
-154.10000 	KYT255 	M		Auburn Twp PW  	Auburn Twp 	FM 	Public Works 
-159.13500 	WNWS590 	M		Jackson Twp PW  	Jackson Twp 	FM 	Public Works 
-122.80000 	 	BA		GQQ CTAF 	CTAF/Unicom 	AM 	Aircraft 
-124.20000 	 	BA		MANS APP/DEP 	Mansfeild Approach/Departure 	AM 	Aircraft 
-126.80000 	 	BA		GQQ CD 	Clearance Delivery 	AM 	Aircraft 
-134.90000 	 	BA		GQQ APP/DEP 	Approach/Departure (Provided by Cleveland ARTCC when Mansfield Approach is closed) 	AM 	Aircraft 
-317.70000 	 	BA		GQQ APP/DEP 	Approach/Departure (Provided by Cleveland ARTCC when Mansfield Approach is closed) 	AM 	Aircraft 
-122.80000 	 	BA		17G CTAF 	CTAF/Unicom 	AM 	Aircraft 
-124.20000 	 	BA		MANS APP/DEP 	Mansfield Approach/Departure 	AM 	Aircraft 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Bucyrus Police	 DMR Conventional Networked	 Bucyrus	Crawford County SO	 DMR Conventional Networked
- Bucyrus	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649
- Project 25 Phase I	 Statewide	
+154.86000 	155.85000  	KQB660 	RM	82.5 PL	Crestline PD  	Crestline Police 	FM 	Law Talk 
+159.40500 	156.09000  	KQB660 	RM	82.5 PL	Crestline PD Dsp 	Crestline Police Primary 	FM 	Law Dispatch 
+155.73000 	155.85000  	KQB225 	RM	241.8 PL	Galion PD Disp 	Galion Police Primary 	FM 	Law Dispatch 
+155.56500 	   	KQB225 	M		Galion PD  	Galion Police 	FM 	Law Talk 
+158.73000 	   	KQB225 	M		Galion PD  	Galion Police 	FM 	Law Talk 
+154.25000 	   	KNJS832 	BM	156.7 PL	Crawford FD Disp 	County Fire Dispatch 	FM 	Fire Dispatch 
+151.21250 	156.06000  	WQGM518 	RM	156.7 PL	Crawford Fire 	County Fire Repeater 	FMN 	Fire-Tac 
+155.07000 	   	WQGM518 	M	172 DPL	Crawford FG-1  	County Fire - Fireground 1 	FMN 	Fire-Tac 
+151.46000 	   	WQGM518 	M	172 DPL	Crawford FG-2  	County Fire - Fireground 2 	FMN 	Fire-Tac 
+151.21250 	   	WQGM518 	M	156.7 PL	Crawford FG-3 	County Fire - Fireground 3 	FMN 	Fire-Tac 
+151.30250 	159.19500  	WPYD306 	RM	172 DPL	Crawford 911   	County 911 - Portsmouth Ambulance 	FMN 	EMS Dispatch 
+154.32500 	   	KNFL655 	BM	156.7 PL	Galion Fire 	Galion FD 	FM 	Fire-Tac 
+155.17500 	   	WPJM385 	BM	156.7 PL	Crawford EMS  	County EMS 	FM 	EMS Dispatch 
+156.24000 	159.04500  	KQD738 	RM	156.7 PL	Crawford Eng 	County Engineer 	FMN 	Public Works 
+154.05500 	154.86000  	KCN703 	RM	156.7 PL	Crawford Twps 	Crawford County Townships 	FM 	Public Works 
+154.02500 	   	WPYH736 	BM		Bucyrus Srvc 	Bucyrus Services 	FM 	Public Works 
+45.52000 	   	 	M		Crestline PW  	Crestline 	FM 	Public Works 
+153.71000 	158.19000  	KRS445 	BM		Galion LG  	Galion 	FM 	Public Works 
+158.83500 	153.98000  	WNFM874 	RM		Galion PW  	Galion 	FM 	Public Works 
+453.25000 	458.25000  	WNFM874 	RM	103.5 PL	Galion LG  	Galion 	FM 	Public Works 
+37.18000 	   	 	M		Sandusky Twp PW  	Sandusky Twp 	FM 	Public Works 
+151.19000 	159.30000  	WNWU327 	RM	156.7 PL	Liberty Twp PW  	Liberty Twp Services 	FMN 	Public Works 
+154.10000 	   	KYT255 	M		Auburn Twp PW  	Auburn Twp 	FM 	Public Works 
+159.13500 	   	WNWS590 	M		Jackson Twp PW  	Jackson Twp 	FM 	Public Works 
+122.80000 	   	 	BA		GQQ CTAF 	CTAF/Unicom 	AM 	Aircraft 
+124.20000 	   	 	BA		MANS APP/DEP 	Mansfeild Approach/Departure 	AM 	Aircraft 
+126.80000 	   	 	BA		GQQ CD 	Clearance Delivery 	AM 	Aircraft 
+134.90000 	   	 	BA		GQQ APP/DEP 	Approach/Departure (Provided by Cleveland ARTCC when Mansfield Approach is closed) 	AM 	Aircraft 
+317.70000 	   	 	BA		GQQ APP/DEP 	Approach/Departure (Provided by Cleveland ARTCC when Mansfield Approach is closed) 	AM 	Aircraft 
+122.80000 	   	 	BA		17G CTAF 	CTAF/Unicom 	AM 	Aircraft 
+124.20000 	   	 	BA		MANS APP/DEP 	Mansfield Approach/Departure 	AM 	Aircraft 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Bucyrus Police	 DMR Conventional Networked	 Bucyrus	Crawford County SO	 DMR Conventional Networked	 Bucyrus
+Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide

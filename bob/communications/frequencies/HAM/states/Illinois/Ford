@@ -1,30 +1,30 @@
-154.19000 	WNZW397 	RM	151.4 PL	Ford County Fire 	Fire: Countywide Dispatch 	FMN 	Fire Dispatch 
-154.40000 	WNZW397 	RM	151.4 PL	Ford Fire Rural 	Fire: Rural Departments  	FMN 	Fire Dispatch 
-453.73750 	WNZW397 	F	411 DPL	Ford Co Fire RF1 	Fire: Remote Link (Tone Carrier) 	FMN 	Fire Dispatch 
-154.41500 	WNZW397 	RM	151.4 PL	Gibson City Fire 	Fire: Gibson City (Old County Dispatch) 	FMN 	Fire Dispatch 
-156.16500 	WPUL281 	RM	179.9 PL	Ford Sheriff W 	Sheriff/Law: Dispatch (Patch with SC21) 	FMN 	Law Dispatch 
-156.22500 	WPUL281 	RM	179.9 PL	Ford Sheriff E 	Sheriff/Law: Dispatch (Patch with SC21) 	FMN 	Law Dispatch 
-156.22500 	WPUL281 	RM	179.9 PL	Ford Sheriff 	Sheriff: Future Input (Gibson City) 	FMN 	Law Dispatch 
-153.74000 	WPUL281 	M	179.9 PL	Ford Sheriff C2C 	Sheriff: Car-to-Car 	FMN 	Law Tac 
-453.21250 	WPUL281 	F	CSQ	Ford Sheriff RF1 	Remote Link to 156.225R - Steele (Tone Carrier) 	FMN 	Law Dispatch 
-453.23750 	WPUL281 	F	023 DPL	Ford SheriffRF2A 	Remote Link to 156.225R - Piper City (also D023?)  (Tone Carrier) 	FMN 	Law Dispatch 
-453.23750 	WPUL281 	F	CSQ	Ford SheriffRF2B 	Remote Link to 156.225R - Piper City (also D023?)  (Tone Carrier) 	FMN 	Law Dispatch 
-458.21250 	WPUL281 	F	CSQ	Ford Sheriff RF3 	Remote Link to 156.225R - Roberts (Tone Carrier/CSQ Voice) 	FMN 	Law Dispatch 
-458.23750 	WPUL281 	F	023 DPL	Ford SheriffRF4A 	Remote Link to 156.225R - Gibson City (Tone Carrier) 	FMN 	Law Dispatch 
-458.23750 	WPUL281 	F	CSQ	Ford SheriffRF4  	Remote Link to 156.225R - Gibson City 	FMN 	Law Dispatch 
-155.74500 	KNFE726 	BM	179.9 PL	Ford County EMA 	EMA: Local Ops 	FMN 	Emergency Ops 
-151.04000 	KDA702 	RM	032 DPL	Ford Highway A  	Highway Department  	FMN 	Public Works 
-151.04000 	KDA702 	RM	165 DPL	Ford Highway B  	Highway Department / Snow Plows 	FMN 	Public Works 
-154.11500 	KDA702 	RM	165 DPL	Ford Highway Ops 	Highway Department 	FMN 	Public Works 
-37.90000 	 	BM	141.3 PL	Ford Highway LB 	Highway Department - Old 	FM 	Public Works 
-451.91250 	WQDM252 	RM	445 DPL	GCH Sec/Mnt 	Security / Maintenance 	FMN 	Business 
-155.41500 	WPWL508 	RM	343 DPL	GibsnCityAmb 	EMS: Dispatch (Gibson City/Paxton) 	FMN 	EMS Dispatch 
-155.34000 	KWS500 	BM	136.5 PL	MERCI1 136.5 	Patient Reports 	FMN 	Hospital 
-453.02500 	WPWL508 	F	CSQ	GC Amb RF1 	EMS: Receive Link - Gibson City (Tone Carrier) 	FMN 	EMS Dispatch 
-453.10000 	WPWL508 	F	CSQ	GC Amb RF2 	EMS: Receive Link - Paxton (Tone Carrier, CSQ Voice) 	FMN 	EMS Dispatch 
-453.48750 	WPTW608 	F		Gibson WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
-155.08500 	KNBW228 	BM	179.9 PL	Paxton ESDA 	ESDA: Local 	FMN 	Emergency Ops 
-452.10000 	WQBD998 	RM		FS Bus Paxton 	First Student: Ops (Paxton, Danville) 	FMN 	Schools 
-464.96250 	WQTM586 	RM	051 DPL	PBL Buses 	Buses 	FMN 	Schools 
-122.80000 	 	B	CSQ	1C1 CTAF 	CTAF (Unicom) 	AM 	Aircraft 
-Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	
+154.19000 	   	WNZW397 	RM	151.4 PL	Ford County Fire 	Fire: Countywide Dispatch 	FMN 	Fire Dispatch 
+154.40000 	   	WNZW397 	RM	151.4 PL	Ford Fire Rural 	Fire: Rural Departments  	FMN 	Fire Dispatch 
+453.73750 	   	WNZW397 	F	411 DPL	Ford Co Fire RF1 	Fire: Remote Link (Tone Carrier) 	FMN 	Fire Dispatch 
+154.41500 	   	WNZW397 	RM	151.4 PL	Gibson City Fire 	Fire: Gibson City (Old County Dispatch) 	FMN 	Fire Dispatch 
+156.16500 	153.74000  	WPUL281 	RM	179.9 PL	Ford Sheriff W 	Sheriff/Law: Dispatch (Patch with SC21) 	FMN 	Law Dispatch 
+156.22500 	158.98500  	WPUL281 	RM	179.9 PL	Ford Sheriff E 	Sheriff/Law: Dispatch (Patch with SC21) 	FMN 	Law Dispatch 
+156.22500 	151.07000  	WPUL281 	RM	179.9 PL	Ford Sheriff 	Sheriff: Future Input (Gibson City) 	FMN 	Law Dispatch 
+153.74000 	   	WPUL281 	M	179.9 PL	Ford Sheriff C2C 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+453.21250 	   	WPUL281 	F	CSQ	Ford Sheriff RF1 	Remote Link to 156.225R - Steele (Tone Carrier) 	FMN 	Law Dispatch 
+453.23750 	   	WPUL281 	F	023 DPL	Ford SheriffRF2A 	Remote Link to 156.225R - Piper City (also D023?)  (Tone Carrier) 	FMN 	Law Dispatch 
+453.23750 	   	WPUL281 	F	CSQ	Ford SheriffRF2B 	Remote Link to 156.225R - Piper City (also D023?)  (Tone Carrier) 	FMN 	Law Dispatch 
+458.21250 	   	WPUL281 	F	CSQ	Ford Sheriff RF3 	Remote Link to 156.225R - Roberts (Tone Carrier/CSQ Voice) 	FMN 	Law Dispatch 
+458.23750 	   	WPUL281 	F	023 DPL	Ford SheriffRF4A 	Remote Link to 156.225R - Gibson City (Tone Carrier) 	FMN 	Law Dispatch 
+458.23750 	   	WPUL281 	F	CSQ	Ford SheriffRF4  	Remote Link to 156.225R - Gibson City 	FMN 	Law Dispatch 
+155.74500 	   	KNFE726 	BM	179.9 PL	Ford County EMA 	EMA: Local Ops 	FMN 	Emergency Ops 
+151.04000 	155.98500  	KDA702 	RM	032 DPL	Ford Highway A  	Highway Department  	FMN 	Public Works 
+151.04000 	155.98500  	KDA702 	RM	165 DPL	Ford Highway B  	Highway Department / Snow Plows 	FMN 	Public Works 
+154.11500 	159.07500  	KDA702 	RM	165 DPL	Ford Highway Ops 	Highway Department 	FMN 	Public Works 
+37.90000 	   	 	BM	141.3 PL	Ford Highway LB 	Highway Department - Old 	FM 	Public Works 
+451.91250 	456.91250  	WQDM252 	RM	445 DPL	GCH Sec/Mnt 	Security / Maintenance 	FMN 	Business 
+155.41500 	150.80500  	WPWL508 	RM	343 DPL	GibsnCityAmb 	EMS: Dispatch (Gibson City/Paxton) 	FMN 	EMS Dispatch 
+155.34000 	   	KWS500 	BM	136.5 PL	MERCI1 136.5 	Patient Reports 	FMN 	Hospital 
+453.02500 	   	WPWL508 	F	CSQ	GC Amb RF1 	EMS: Receive Link - Gibson City (Tone Carrier) 	FMN 	EMS Dispatch 
+453.10000 	   	WPWL508 	F	CSQ	GC Amb RF2 	EMS: Receive Link - Paxton (Tone Carrier, CSQ Voice) 	FMN 	EMS Dispatch 
+453.48750 	   	WPTW608 	F		Gibson WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+155.08500 	   	KNBW228 	BM	179.9 PL	Paxton ESDA 	ESDA: Local 	FMN 	Emergency Ops 
+452.10000 	457.10000  	WQBD998 	RM		FS Bus Paxton 	First Student: Ops (Paxton, Danville) 	FMN 	Schools 
+464.96250 	469.96250  	WQTM586 	RM	051 DPL	PBL Buses 	Buses 	FMN 	Schools 
+122.80000 	   	 	B	CSQ	1C1 CTAF 	CTAF (Unicom) 	AM 	Aircraft 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Diga-Talk	 NXDN NEXEDGE 4800	 Various	

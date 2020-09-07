@@ -1,347 +1,346 @@
-769.86250 	WQLR212 	RM		OC I/O 1 	Public Safety Inter-Op (Warren) Open Sky 	FMN 	Data 
-772.81250 	WQLR225 	RM		OC I/O 2 	Public Safety Inter-Op (Waterford) Open Sky 	FMN 	Data 
-769.36250 	WQLQ997 	RM		OC I/O 3 	Public Safety Inter-Op (Pontiac) Open Sky 	FMN 	Data 
-771.71250 	 	RM		OC I/O 4 	Public Safety Inter-Op (W Bloomfield) Open Sky 	FMN 	Data 
-769.61250 	WQLQ999 	RM		OC I/O 5 	Public Safety Inter-Op (Waterford Twp) Open Sky 	FMN 	Data 
-770.11250 	WQLR200 	RM		OC I/O 6 	Public Safety Inter-Op (Bloomfield Twp) Open Sky 	FMN 	Data 
-770.76250 	WQLR207 	RM		OC I/O 7 	Public Safety Inter-Op (Walled Lake) Open Sky 	FMN 	Data 
-772.41250 	WQLR208 	RM		OC I/O 8 	Public Safety Inter-Op Open Sky 	FMN 	Data 
-774.13750 	WQME418 	RM		OC I/O 9 	Public Safety Inter-Op Open Sky 	FMN 	Data 
-771.18750 	WQLR210 	RM		OC I/O 10 	Public Safety Inter-Op (West Bloomfield) Open Sky      ) 	FMN 	Data 
-773.71250 	WQMZ208 	RM		OC I/O 11 	Public Safety Inter-Op (Birmingham) Open Sky 	FMN 	Data 
-155.26500 	WZJ375 	BM	127.3 PL	Oakland EMD 1 	Emergency Management - E.A.S. Alerting / Tornado Sirens 	FMN 	Emergency Ops 
-154.98000 	KCR931 	RM	203.5 PL	Oakland EMD 2 	Emergency Management - E.A.S. Alerting / Tornado Sirens (Data) 	FMN 	Emergency Ops 
-769.89375 	 	M		OC FG 63D 	Countywide Fireground 1 	FMN 	Fire-Tac 
-769.99375 	 	M		OC FG 64D 	Countywide Fireground 2 	FMN 	Fire-Tac 
-773.50625 	 	M		OC FG 83D 	Countywide Fireground 3 	FMN 	Fire-Tac 
-773.85625 	 	M		OC FG 84D 	Countywide Fireground 4 	FMN 	Fire-Tac 
-154.26500 	KD35944 	M	CSQ	FireCom 265 	Fire Inter-City 	FMN 	Fire-Talk 
-153.83000 	KD35944 	M	CSQ	FireCom 830 	M.A.B.A.S. Fireground Tactical 	FMN 	Fire-Tac 
-154.28000 	WPCH571 	M	CSQ	FireCom 280 	M.A.B.A.S. Fireground Tactical 	FMN 	Fire-Tac 
-460.27500 	WQZC247 	RM	CC 2TG 3002SL 2	Hatzalah Amblnce 	Hatzalah Ambulance 	DMRE 	EMS Dispatch 
-156.16500 	KQB708 	RM	88.5 PL	Oakland Roads 1 	Road Commission 	FMN 	Public Works 
-156.22500 	KJW618 	RM	88.5 PL	Oakland Roads 2 	Road Commission 	FMN 	Public Works 
-153.95000 	WQPE822 	BM		AddisonTwp Fire2 	Fire: Dispatch (Station 26) 	FMN 	Fire Dispatch 
-154.99500 	WQPE822 	BM		OC FD Local 	Fireground [Ch 3] 	FMN 	Fire-Talk 
-159.24000 	WQPU425 	BM	023 DPL	Addison Fire 	Addison Township Fire 	FMN 	Fire Dispatch 
-423.15000 	WNKG538 	RM	110.9 PL	AuburnHills Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-423.17500 	WNKG538 	RM	CC 1TG 100SL 1	Auburn Hills DPW 	Public Works 	DMR 	Public Works 
-158.25000 	KNEN280 	BM	156.7 PL	Berkley PD c2c 	DPW/DPS - Car-to-Car 	FMN 	Multi-Talk 
-154.34000 	KNDV371 	BM		Birmingham Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.99500 	KNBU631 	RM	CC 1TG 20SL 1	Birmingham DPW 1 	Public Works 1 	DMR 	Public Works 
-153.99500 	KNBU631 	RM	CC 1TG 30SL 2	Birmingham DPW 2 	Public Works 2 	DMR 	Public Works 
-156.06000 	WPTH330 	M	CC 1TG *SL 1	Birmingham DPW 3 	Public Works 3 Talkaround Simplex) 	DMR 	Public Works 
-156.10500 	WPTH330 	M		Birmingham DPW 4 	Public Works 4 	FMN 	Public Works 
-453.50000 	KCU262 	RM	CC 1TG *SL *	Blomfield TwpDPW 	Public Works 	DMR 	Public Works 
-151.34750 	WQQH792 	RM	114 DPL	Brandon Twp FD 1 	Brandon Township Fire Dispatch 	FMN 	Fire Dispatch 
-154.08500 	WQOV319 	RM	114 DPL	Brandon Twp FD 2 	Brandon Township Fire Tactical 	FMN 	Fire-Tac 
-154.96500 	KNJM361 	BM	114 DPL	Brandon Twp FD 3 	Brandon Township Fire Tactical 	FMN 	Fire-Tac 
-154.23500 	WNWD495 	RM	100.0 PL	OC FD Red1/2 	Fire: Dispatch [RED 1/2] 	FMN 	Fire Dispatch 
-155.80500 	KNFF507 	BM	100.0 PL	ComerceTwp FD/PW 	Commerce Fire / Public Works 	FMN 	Interop 
-425.37500 	WNPE572 	M		UMEPSS 	Police - Tactical 	FMN 	Law Tac 
-423.37500 	WNPQ911 	RM		FarmngHills Fire 	Fire - Dispatch (Station 23) 	FMN 	Fire Dispatch 
-425.32500 	WNPQ911 	M		Farmngt Hillx FG 	Fireground 	FMN 	Fire-Tac 
-424.25000 	WNPQ911 	RM		FarmngnHills DPW 	Public Works: Dispatch 	DMR 	Public Works 
-423.27500 	WNPE572 	RM	CC 1TG 215SL 1	FarmnHills PW/PD 	Public Works/Police/DPW 	DMR 	Multi-Talk 
-154.74000 	KQF367 	BM	100.0 PL	Ferndale Police 	Police Reserves use 	FMN 	Law Dispatch 
-156.15000 	KQF367 	M	CSQ	Ferndale PD Det 	Police: Detectives 	FMN 	Law Talk 
-155.82000 	KAW380 	BM	173.8 PL	Ferndale PD c2c 	Police: Car-to-Car/Reserves [Ch 3] 	FMN 	Public Works 
-154.34000 	KNHX861 	BM	203.5 PL	Ferndale Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-453.85000 	WQGP807 	BM		Ferndale lWater 	Water Department 	FMN 	Public Works 
-154.38500 	KQG259 	RM	136.5 PL	FrkBngFarms Fire 	Fire: Dispatch [Ch 2] 	FMN 	Fire Dispatch 
-158.77500 	KQG259 	BM		FrkBngFarms FD 5 	Fire [Ch 5] 	FMN 	Fire-Talk 
-153.80000 	WPKL946 	BM	97.4 PL	GrovlandTwp Fire 	Fire: Dispatch (Station 25) 	FMN 	Fire Dispatch 
-151.14500 	WPZS948 	RM	065 DPL	HazlPrk PD NWtch 	Police: Neighborhood Watch 	FMN 	Law Talk 
-154.34000 	KQE958 	BM	167.9 PL	Hazel Park Fire 	Fire: Dispatch 	FM 	Fire Dispatch 
-151.22750 	WQDM263 	RM	167.9 PL	HazelPark PubWk1 	Public Works 	FMN 	Public Works 
-153.74000 		WQDM263 	BM	167.9 PL	Hazel Park Govt. 	Hazel Park Government 	FMN 	Public Works 
-154.43000 	KNHQ532 	BM	100.0 PL	Highland Fire 	Highland Township Fire Dispatch 	FMN 	Fire Dispatch 
-154.43000 	WPGJ435 	BM	151.4 PL	Holly Fire 	North Oakland County Fire Authority Dispatch 	FMN 	Fire Dispatch 
-158.88000 	WQEH562 	BM	151.4 PL	Holly Police 	Police Secondary 	FMN 	Law Tac 
-154.04000 	KQH826 	BM	156.7 PL	HuntngtnWood DPS 	Police/Fire: Dispatch (DB Berkley) 	FM 	Interop 
-423.57500 	WQFR693 	RM	732 DPL	Indpnce Twp Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-423.22500 	WQEM241 	RM	103.5 PL	LakeOrion Police 	Police: Dispatch 	FMN 	Law Dispatch 
-155.74500 	WNRS504 	BM	732 DPL	Lyon Fire 1 	Lyon / South Lyon Fire Dispatch (Paging) 	FMN 	Fire Dispatch 
-155.82000 	KBB998 	BM	100.0 PL	MadisonHeights W 	Public Works 	FMN 	Public Works 
-155.71500 	KNNJ371 	BM	203.5 PL	MadisonHeghts FD 	Fire Paging/Station Alerting 	FMN 	Fire Dispatch 
-453.15000 	WPXL298 	RM	141.3 PL	MadsnHghts Parks 	Parks Department 	FMN 	Public Works 
-424.12500 	WQDU506 	RM	123.0 PL	Milford Police 	Police: Dispatch 	FMN 	Law Dispatch 
-154.43000 	KNEA292 	BM	CSQ	Milford Fire 	Fire: Dispatch (Station 15) 	FMN 	Fire Dispatch 
-453.05000 	KQI922 	RM	103.5 PL	Camp Dearborn 	Camp Dearborn 	FMN 	Law Talk 
-155.59500 	WNMN458 	RM	151.4 PL	N.Oaklnd FA Main 	North Oakland Fire Authority Main 	FMN 	Fire Dispatch 
-154.43000 	WNMN458 	BM	CSQ	NOFA M/A 1 	County Fire Dispatch / Mutual Aid 	FMN 	Fire Dispatch 
-154.29500 	WNMN458 	BM	CSQ	NOFA M/A 2 	DNR Fireground / MABAS Tactical 	FMN 	Fire-Tac 
-423.05000 	KDK655 	RM	156.7 PL	Novi FD 1 	Novi Fire Dispatch 	FMN 	Fire Dispatch 
-425.25000 	KDK655 	M	156.7 PL	Novi Fire 2 	Novi Fire Tactical 	FMN 	Fire-Tac 
-154.99500 	WNLK543 	RM	103.5 PL	Novi DPW 	Novi Public Works 	FMN 	Public Works 
-423.42500 	WPKB632 	RM	123.0 PL	Oakland Twp Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.74500 	KNAR428 	BM		Orcrd Lake PubWk 	Public Works 	FMN 	Public Works 
-154.05500 	KNAR428 	M		OrchrdLake Water 	Water Department 	FMN 	Public Works 
-154.43000 	KBC207 	BM		Orion Twp Fire 	Fire: Dispatch (Station 20) 	FMN 	Fire Dispatch 
-154.99500 	WQBA518 	M		Orion Twp FGrund 	Fireground 	FMN 	Fire-Tac 
-423.75000 	WNUY386 	RM	100.0 PL	Oxford Police 	Police: Dispatch  	FMN 	Law Dispatch 
-425.37500 	WNUY386 	BM		Oxford PD Tac 	Police: Tactical 	FMN 	Law Tac 
-154.31000 	WQBH461 	BM	432 DPL	Oxford Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.99500 	KKD722 	BM		OC FD Local 	Fireground 	FMN 	Fire-Tac 
-423.85000 	WPPA510 	RM		Oxford PubWorks 	Public Works 	FMN 	Public Works 
-425.27500 	WNQQ345 	M		Rochester 1 	Fire/Police 	FMN 	Multi-Tac 
-425.37500 	WNQQ345 	BM		Rochester 2 	Fire/Police 	FMN 	Multi-Tac 
-424.30000 	WNQQ345 	BM	100.0 PL	Rochester Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-453.62500 	WQSD627 	BM	67.0 PL	Senior Transp. 	Senior Transportation services 	FMN 	Transportation 
-155.83500 	WNMQ354 	BM	210.7 PL	RochstrHills EMA 	Fire/Emergency Management [RED 2] 	FMN 	Emergency Ops 
-154.41500 	KMA256 	RM	210.7 PL	RochstrHils Fire 	Fire: Dispatch [RED 1] 	FMN 	Fire Dispatch 
-154.17500 	KMA256 	BM	210.7 PL	RochHils FG Red3 	Fireground [RED 3] 	FMN 	Fire-Tac 
-151.37000 	WNRX400 	BM	CSQ	OC FD Red 6 	Fire/Parks  	FMN 	Multi-Talk 
-159.16500 	WNAH631 	BM		Roch Hill PubWrk 	Public Works [ORANGE 1] 	FMN 	Public Works 
-155.94000 	KQJ463 	RM	100.0 PL	RoyalOak PubWrks 	Public Works 	FMN 	Public Works 
-155.94000 	KQJ463 	RM		RoyalOak PubWrks 	Public Works 	DMR 	Public Works 
-155.01000 	WPEI574 	RM	100.0 PL	ArtsBeatsEats 	Arts, Beats and Eats: Parking 	FMN 	Public Works 
-453.21250 	WNRS504 	RM	141.3 PL	SouthLyon Fire 2 	Lyon / South Lyon Fire Secondary (Low Power) 	FMN 	Fire-Tac 
-154.31750 	WQLE303 	M		South Lyon DPW 	South Lyon Department of Public Works 	FMN 	Public Works 
-424.32500 	WNPC747 	RM	131.8 PL	SoutfieldPolice1 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-423.82500 	WNPC747 	RM	94.8 PL	Soutfield PD Sec 	Police: Secondary 	FMN 	Law Talk 
-424.37500 	WNPC747 	RM	162.2 PL	SoutfieldPD Spec 	Police: Special Events 	FMN 	Law Tac 
-423.97500 	WNPC747 	RM	100.0 PL	Soutfield PD Det 	Police: Detectives 	FMN 	Law Talk 
-424.02500 	WNPC747 	RM	107.2 PL	Soutfield PD Tac 	Police: Tactical 	FMN 	Law Talk 
-423.67500 	WNPC747 	RM	136.5 PL	Soutfield EMD/NW 	Emergency Management / Neighborhood Watch 	FMN 	Multi-Talk 
-423.62500 	WNPC747 	RM	114.8 PL	Soutfield Fire 1 	Fire: Dispatch (Station 7) [Ch 1] 	FMN 	Fire Dispatch 
-425.30000 	WNPC747 	BM	127.3 PL	SouthfieldFire 2 	Fire: Secondary [Ch 2] 	FMN 	Fire-Tac 
-460.60000 	KYG527 	RM	156.7 PL	Southfeld Fire 3 	Fire 	FMN 	Fire-Talk 
-423.00000 	WNPC747 	RM	151.4 PL	Southfld Park-Rc 	Parks - Recreation 	FMN 	Public Works 
-423.35000 	WNPC747 	RM	146.2 PL	SouthfeldPubWrks 	Public Works 	FMN 	Public Works 
-154.23500 	KCQ401 	RM	100.0 PL	Troy Fire 	Fire: Dispatch [RED 1] 	FMN 	Fire Dispatch 
-153.75500 	KNEX752 	RM	100.0 PL	Troy PubWorks 	Public Works [ORANGE 1] 	FMN 	Public Works 
-153.48500 	WRH315 	RM	100.0 PL	Troy Water P1 	Water Department [PINK 1] 	FMN 	Public Works 
-151.46000 	WZX734 	RM	100.0 PL	OC Green 1 	Parks and Recreation [GREEN 1] 	FMN 	Public Works 
-155.80500 	KBC657 	BM	100.0 PL	Walled Lake Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.38500 	WQKP474 	BM	110.9 PL	WatrfordTwp Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-453.67500 	WPKM940 	BM	127.3 PL	Waterford DPW 	Waterford Dept of Public Works 	FMN 	Public Works 
-425.27500 	WNPC938 	M		WestBlmfldPD/FD1 	Police/Fire 	FMN 	Multi-Tac 
-425.32500 	WNSS741 	M		WestBlmfl PD/FD2 	Police/Fire 	FMN 	Multi-Tac 
-424.17500 	WNPC938 	RM	100.0 PL	WestBlmfeld Fire 	Fire: Dispatch (Station 6) 	FMN 	Fire Dispatch 
-425.35000 	WNSS741 	BM		WestBlmfld FGrnd 	Fireground 	FMN 	Fire-Tac 
-453.82500 	WPXP923 	RM		WestBlomfeld DPW 	Public Works 	FMN 	Public Works 
-154.16000 	WYG396 	BM	118.8 PL	White Lake Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.05500 	KJP383 	BM	127.3 PL	WhiteLake PubWrk 	Public Works 	FM 	Public Works 
-453.38750 	WPKC503 	RM	CSQ	White Lake Water 	Water Department 	FM 	Public Works 
-460.10000 	KNEV372 	RM	156.7 PL	Wixom Police 	Police: Alternate 	FMN 	Law Talk 
-154.43000 	KNAE819 	BM	136.5 PL	Wixom Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.83500 	WZX981 	BM	127.3 PL	Wixom PubWorks 	Public Works 	FMN 	Data 
-155.83500 	WNRO233 	BM	103.5 PL	WolvrneLk PubWrk 	Public Works 	FMN 	Public Works 
-151.25000 	WQMZ257 	RM		HurCln Metroprk1 	Huron-Clinton Metroparks Authority 1. - Milford 	FMN 	Law Talk 
-159.30000 	WQMZ257 	RM		HurCln Metroprk2 	Huron-Clinton Metroparks Authority 2 - Milford 	FMN 	Law Talk 
-424.15000 	WPWC594 	RM		47th Dist. Court 	47th District Court (Farmington Hills) 	FMN 	Corrections 
-461.03750 	WQKX481 	M		Comm. EMS Evnts1 	Special Events - Statewide 	FMN 	EMS-Tac 
-461.08750 	WQKX481 	M		Comm. EMS Event 	Special Events - Statewide 	FMN 	EMS-Tac 
-461.13750 	WQKX481 	M		Comm. EMS Evnts3 	Special Events - Statewide 	FMN 	EMS-Tac 
-461.18750 	WQKX481 	M		Comm. EMS Evnts4 	Special Events - Statewide 	FMN 	EMS-Tac 
-461.23750 	WQKX481 	M		Comm. EMS Evnts5 	Special Events - Statewide 	FMN 	EMS-Tac 
-466.03750 	WQKX481 	M		CommEMS Events 6 	Special Events - Statewide 	FMN 	EMS-Tac 
-466.08750 	WQKX481 	M		CommEMS Events 7 	Special Events - Statewide 	FMN 	EMS-Tac 
-466.13750 	WQKX481 	M		CommEMS Events 8 	Special Events - Statewide 	FMN 	EMS-Tac 
-466.18750 	WQKX481 	M		CommEMS Events 9 	Special Events - Statewide 	FMN 	EMS-Tac 
-466.23750 	WQKX481 	M		ComEMS Events 10 	Special Events - Statewide 	FMN 	EMS-Tac 
-458.02500 	KQZ814 	M	CSQ	HrVlyAmb EMS MX1 	EMS Mobile Repeater 1 	FMN 	EMS-Tac 
-458.07500 	KQZ814 	M	CSQ	HrVlyAmb EMS MX2 	EMS Mobile Repeater 2 	FMN 	EMS-Tac 
-458.12500 	KQZ814 	M	CSQ	HrVlyAmb EMS MX3 	EMS Mobile Repeater 3 	FMN 	EMS-Tac 
-458.17500 	KQZ814 	M	CSQ	HrVlyAmbEMS MX 4 	EMS Mobile Repeater 4 	FMN 	EMS-Tac 
-852.21250 	WPRS652 	RM		HurValAmb OAK FB 	Oakland County Fallback 	FM 	EMS Dispatch 
-154.54000 	WSP898 	BM	100.0 PL	AscnCrH Security 	Security: Dispatch 	FMN 	Security 
-154.51500 	WNRZ615 	M		AscnCH Scrty Tac 	Security: Tactical 	FMN 	Security 
-155.34000 	KSM306 	BM	179.9 PL	AscnCrHspHEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
-155.40000 	KSM306 	BM	97.4 PL	AscnCH HEARN 2 	EMS to Hospital Notification 	FMN 	Hospital 
-464.35000 	WSP898 	BM		AscnCrtnSecurity 	Crittenton Hospital Security/Ops 	NXDN 	Security 
-155.34000 	 	BM	173.8 PL	DocHosp. HEARN 	EMS to Hospital Notification (VHF Radio Plan - Hospital Base Station Transmits: 97.4 PL) 	FMN 	Hospital 
-423.95000 	WNNG460 	RM		HnryFrHWB Sec. 1 	Hospital Security Operations - Primary 	DMR 	Security 
-424.05000 	WNNG460 	RM		HnryFrHWB Sec. 2 	Hospital Security Operations - Secondary 	DMR 	Security 
-424.57500 	WQFP517 	RM	CC 1TG 100SL 1	HnryFrHWB PD 	Hospital Security 	DMR 	Security 
-155.34000 	WPZS460 	BM		HnryFrHWB HEARN1 	EMS to Hospital Notification 	FMN 	Hospital 
-155.40000 	WPZS460 	BM	97.4 PL	HnryFrHWB HEARN2 	EMS to Hospital Notification 	FMN 	Hospital 
-464.92500 	WQSF379 	RM		HurValSHsp Sec. 	Security 	FMN 	Security 
-152.00750 	WQNJ627 	B		HurnValSH Paging 	Paging 	FMN 	Data 
-155.34000 	WQNJ627 	BM	229.1 PL	HurValSH HEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
-155.40000 	WQNJ627 	BM	97.4 PL	HurValSH HEARN 2 	EMS to Hospital Notification  	FMN 	Hospital 
-464.67500 	KA87535 	RM		Mclaren Security 	Security - Dispatch 	FMN 	Security 
-461.32500 	KA87535 	M		Mclaren Ops 1 	Operations 	FMN 	Business 
-461.33750 	KA87535 	M		Mclaren Ops 2 	Operations 	FMN 	Business 
-461.42500 	KA87535 	M		Mclaren Ops 3 	Operations 	FMN 	Business 
-464.20000 	 	BM	CC 8TG 6000SL 2	Hosp. Security 	McLaren Oakland hospital security 	DMR 	Security 
-155.34000 	WPYQ647 	BM	91.5 PL	MclarenOak HEARN 	EMS to Hospital Notification Hospital Base Station Transmits: 97.4 PL) 	FM 	Hospital 
-464.02500 	WQFP201 	RM	CC 12TG 1001SL 1	ProvHsp Security 	Security: Dispatch 	DMR 	Security 
-464.02500 	WQFP201 	RM	CC 12TG 1005SL 2	Engineering 	Engineering 	DMR 	Business 
-464.95000 	 	M	225.7 PL	ProvPHsp Sec T/A 	Security: Talkaround 	FMN 	Security 
-461.60000 	WQFP201 	M		Prov. Hosp Ops 1 	Operations 	FMN 	Business 
-462.03750 	WQNT915 	RM		Prov. Hosp Ops 2 	Ops (Southfield) 	FMN 	Business 
-456.68750 	WQNT915 	M		Prov. Hosp Ops 3 	Ops (Southfield/Novi) 	FMN 	Business 
-457.48750 	WQNT915 	M		Prov. Hosp Ops 4 	Ops (Southfield/Novi) 	FMN 	Business 
-457.78750 	WQNT915 	M		Prov. Hosp Ops 5 	Ops (Southfield/Novi) 	FMN 	Business 
-457.81250 	WQNT915 	M		Prov. Hosp Ops 6 	Ops (Southfield/Novi) 	FMN 	Business 
-457.88750 	WQNT915 	M		Prov. Hosp Ops 7 	Ops (Southfield/Novi) 	FMN 	Business 
-155.34000 	WPYG238 	BM	107.2 PL	ProvHosp HEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
-155.40000 	WPYG238 	BM	97.4 PL	ProvHosp HEARN 2 	EMS to Hospital Notification 	FMN 	Hospital 
-461.07500 	KNEK922 	RM	36 RAN	StJoeMrcyOH Sec. 	Security Operations 	NXDN 	Security 
-463.31250 	WQUJ947 	RM	179.9 PL	BmntHsp Enginrng 	Hospital Engineering 	FMN 	Hospital 
-467.85000 	WQUJ947 	M		Bmnt Hosp Ops 	Hospital Ops 	FMN 	Hospital 
-464.00000 	WQUJ947 	RM	203.5 PL	BmntHsp Security 	Hospital Security - Dispatch 	FMN 	Security 
-155.34000 	KGV403 	BM	151.4 PL	BmntHosp HEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
-155.40000 	KGV403 	BM	97.4 PL	BmntHosp HEARN 2 	EMS to Hospital Notification 	FMN 	Hospital 
-155.34000 	WQDI531 	BM	156.7 PL	BmntHR HEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
-155.40000 	WQDI531 	BM	97.4 PL	BmntHR HEARN 2 	EMS to Hospital Notification 	FMN 	Hospital 
-461.40000 	WQWR898 	BM	107.2 PL	BmntSecurity 	William Beaumont Hospital Security 	FMN 	Security 
-463.10000 	 	BM	631 DPL	Beaumont EMS5 	Beaumont Royal Oak Ch. 5 - EMS to Hospital 	FMN 	EMS-Talk 
-151.16750 	WXY367 	RM	411 DPL	BmntHTry Medevac 	Beaumont Medical Helicopter (Community EMS) 	FMN 	EMS Dispatch 
-155.34000 	KGV403 	BM	162.2 PL	Bmnt HT HEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
-155.40000 	KGV403 	BM	97.4 PL	BmntHspTrHEARN 2 	EMS to Hospital Notification 	FMN 	Hospital 
-47.54000 	KQI281 	BM	100.0 PL	AMRedCross Tac-1 	Tac-1 	FM 	Emergency Ops 
-47.58000 	KQI281 	BM	100.0 PL	AMRedCross Tac-2 	Tac-2 	FM 	Emergency Ops 
-47.66000 	KQI281 	BM	100.0 PL	AMRedCross ac-3 	Tac-3 	FM 	Emergency Ops 
-152.46500 	WPZI234 	RM		FrstSt Bus Oklnd 	Operations/Security 	DMR 	Transportation 
-155.22000 	KQR330 	BM		Ryder Buses 	Ryder Buses 	FMN 	Transportation 
-855.11250 	WPHY925 	RM		Robinson Bus 	Bus: Dispatch 	FM 	Transportation 
-461.30000 	KNNJ793 	M		Berkley HS Ops 1 	Security/Ops 	FMN 	Schools 
-461.42500 	KNNJ793 	M		Berkley HS Ops 2 	Security/Ops 	FMN 	Schools 
-461.58750 	KNNJ793 	M		Berkley HS Ops 3 	Operations 	FMN 	Schools 
-463.41250 	KNNJ793 	M		Berkley HS Ops 4 	Operations 	FMN 	Schools 
-464.46250 	KNNJ793 	M		Berkley HS Ops 5 	Operations 	FMN 	Schools 
-462.71250 	 	M	136.5 PL	Birmingham Sch 1 	District Administration Office - Operations 	FMN 	Schools 
-468.47500 	WQEX752 	M	503 DPL	Birmingham Sch 2 	District-Wide (Events/Emergency Operations) 	FMN 	Schools 
-468.32500 	WQEX752 	M	606 DPL	Birmingham Sch 3 	Seaholm High School - Primary (Operations/Security) 	FMN 	Schools 
-467.87500 	 	M	94.8 PL	Birmingham Sch 4 	Seaholm High School - Athletic Events 1 	FMN 	Schools 
-467.82500 	 	M	167.9 PL	Birmingham Sch 5 	Seaholm High School - Athletic Events 2 	FMN 	Schools 
-468.40000 	WQEX752 	M	503 DPL	Birmingham Sch 6 	Groves High School - Primary (Operations/Security) 	FMN 	Schools 
-468.25000 	WQEX752 	M	411 DPL	Birmingham Sch 7 	Groves High School - Secondary (Special Events) 	FMN 	Schools 
-468.20000 	WQEX752 	M		Birmingham Sch 8 	Security/Special Events 	FMN 	Schools 
-468.22500 	WQEX752 	M		Birmingham Sch 9 	Security/Special Events 	FMN 	Schools 
-468.42500 	WQEX752 	M		BirminghamSch 10 	Security/Special Events 	FMN 	Schools 
-468.50000 	WQEX752 	M		BirminghamSch 11 	Security/Special Events 	FMN 	Schools 
-464.32500 	WQAI667 	RM		BlmfHils School1 	Transportation - Primary / Andover High School 	FMN 	Schools 
-463.28750 	WQAI667 	M		BlmflHil School2 	Andover High School 	FMN 	Schools 
-463.98750 	WQAI667 	M		BlmflHil School3 	Andover High School 	FMN 	Schools 
-467.92500 	KNNV715 	M		Ops/Sec 	Operations/Security 	FMN 	Schools 
-152.37500 	WQJI361 	RM	229.1 PL	Brandon Schl Bus 	Brandon Township School Buses 	FMN 	Schools 
-464.82500 	WNSF564 	RM		ClrncvlPSD Buses 	Transportation - Primary 	FMN 	Schools 
-464.97500 	KQT986 	RM	114 DPL	ClarkstnCS Buses 	School Buses 	FMN 	Schools 
-451.82500 	WPXK450 	RM		Clawson Trans 	Transportation - Primary 	FMN 	Schools 
-452.30000 	WPXK450 	M		Schools Ops 	Operations 	FMN 	Schools 
-462.08750 	WPXK450 	M		ClawsonSchls Ops 	Operations 	FMN 	Schools 
-463.48750 	WPXK450 	M		Clawson SD 	Operations 	FMN 	Schools 
-463.88750 	WPXK450 	M		Clawson Schools 	Ops 	FMN 	Schools 
-463.93750 	WPXK450 	M		Clawson 	Operations 	FMN 	Schools 
-424.47500 	WQQK451 	RM	CC 2TG 45000SL 2	CrnbEdu School 1 	Operations 	DMR 	Schools 
-424.85000 	WQQK451 	RM	CC 3TG *SL *	CrnbEdu School 2 	Operations 	DMR 	Schools 
-424.95000 	WQQK451 	RM	CC 1TG 10000SL 1	CrnbEdu School 3 	Security 	DMR 	Security 
-463.36250 	WPJW775 	M		Det CnDayS Ops 1 	Detroit Country Day School 	FMN 	Schools 
-462.06250 	WPJW775 	BM	466 DPL	Det CntDaSc Ops5 	Detroit Country Day School Ops 	FMN 	Schools 
-464.60000 	WPJW775 	M		DetCntDaSc Ops 2 	Detroit Country Day School 	FMN 	Schools 
-464.87500 	WPJW775 	M		DetCntDaSc Ops 3 	Detroit Country Day School 	FMN 	Schools 
-464.97500 	WPJW775 	BM	173.8 PL	DetCntDaSc Ops 4 	Detroit Country Day School 	FMN 	Schools 
-452.38750 	WPRL355 	M		EdsnOakland Schl 	Operations 	FMN 	Schools 
-463.50000 	WPRL355 	M		Edison Oak Ops  	Operations 	FMN 	Schools 
-151.65500 	WQRK827 	BM	151.4 PL	Farmngton HS Ops 	High School - Operations / Security 	FMN 	Schools 
-154.51500 	WNDL478 	BM		Farmngtn Sch Ops 	Operations / Security 	FMN 	Schools 
-155.22000 	WNFA231 	BM	026 DPL	Farmngton SchBus 	Transportation 	FMN 	Schools 
-422.70000 	WQWM401 	BM		Farmngtn.Schools 	Farmington School District 422.700 	DMR 	Schools 
-422.72500 	WQWM401 	BM		Farmngton School 	Farmington School District 422.725 	DMR 	Schools 
-464.27500 	WQEJ381 	RM	043 DPL	Ferndale Sch Bus 	Transportation - Primary 	FMN 	Schools 
-424.45000 	WQPU644  	RM	CC 1TG 1SL 1	Holly Sclh Bus 	Transportation 	DMR 	Schools 
-452.97500 	WQCG689 	RM		HuronValleySchol 	Operations/Security 	FMN 	Schools 
-464.57500 	WQOI429 	RM		LakeOrn Sch Bus1 	Transportation - Primary 	FMN 	Schools 
-463.83750 	WQCE252 	RM		LakeOr HiSchool 	High School - Operations/Security 	FMN 	Schools 
-464.52500 	WQDC925 	RM		Madison Schools 	Transportation - Primary 	FMN 	Schools 
-461.06250 	 	M	88.5 PL	MarianHS Ops 1 	Operations 1 	FMN 	Schools 
-464.50000 	 	M	67.0 PL	Marian HS Ops 2 	Operations 2 	FMN 	Schools 
-152.36000 	WQVN387 	RM		Novi Schools 	In-Building School Operations 	FMN 	Schools 
-422.60000 	WPLE692 	RM		Novi Schools 	Operations/Security 	DMR 	Schools 
-422.92500 	WPLE692 	M		Novi Schools 	Operations/Security 	FMN 	Schools 
-464.17500 	WPQD891 	RM		OakParkSch Trans 	Transportation 	FMN 	Schools 
-465.01250 	WPUH819 	M		Oakland Schools 	Operations/Security 	FMN 	Schools 
-466.87500 	WPUH819 	M		OakComSc Ops/Sec 	Operations/Security 	FMN 	Schools 
-467.76250 	WPUH819 	M		Oakland Schools 	Operations/Security 	FMN 	Schools 
-468.32500 	WPUH819 	M		Oakland Schools 	Operations/Security 	FMN 	Schools 
-468.87500 	WPUH819 	M		Oakland Schools 	Operations/Security 	FMN 	Schools 
-457.73750 	 	RM	654 DPL	StMP Police 	Police 	FMN 	Law Dispatch 
-456.32500 	 	RM	047 DPL	StMP Security 	Security 	FMN 	Schools 
-463.28750 	 	RM	503 DPL	StMP Parking 	Parking 	FMN 	Schools 
-469.50000 	 	M	662 DPL	StMP Bingo 	Bingo 	FMN 	Schools 
-469.55000 	 	M	664 DPL	StMP Raffle 	Raffle 	FMN 	Schools 
-469.83750 	 	M	654 DPL	StMP Vegas 	Vegas 	FMN 	Schools 
-469.26250 	 	M	632 DPL	StMP Utility 	Utility 	FMN 	Schools 
-461.28750 	 	RM	664 DPL	StMP Spare 1 	Spare 1 	FMN 	Schools 
-462.28750 	 	RM	503 DPL	StMP Spare 2 	Spare 2 	FMN 	Schools 
-451.96250 	 	RM	023 DPL	StMP Personnel 	Personnel 	FMN 	Schools 
-456.96250 	 	RM	624 DPL	StMP Kid Zone 	Kid Zone 	FMN 	Schools 
-461.28750 	 	RM	432 DPL	StMP Chairs 	Chairs 	FMN 	Schools 
-462.28750 	 	RM	466 DPL	StMP Eaglet 	Eaglet 	FMN 	Schools 
-464.26250 	 	RM	624 DPL	StMP MNY Gate 	MNY Gate 	FMN 	Schools 
-464.83750 	 	RM	627 DPL	StMP Food 	Food 	FMN 	Schools 
-467.11250 	 	M	631 DPL	StMP Beverage 	Beverage 	FMN 	Schools 
-424.03750 	WREL982 	RM	CC 4TG 100SL 2	Bus transport 	School bus transportation 	DMR 	Schools 
-424.06250 	WREL982 	M	CC 6TG *SL *	Oxford High 	Oxford High School Administration/Safety 	DMR 	Schools 
-464.47500 	WQQ378 	RM		Oxford Tran-Prim 	Transportation - Primary 	FMN 	Schools 
-469.37500 	WQQ378 	M		Oxford Talkround 	Talkaround 	FMN 	Schools 
-451.97500 	 	RM	CC 4TG 48340SL 1	PontCitySAdm Ops 	Pontiac School Administration / Operations 	DMR 	Schools 
-461.61250 	WPYM925 	M		PntCity Sch Sec1 	Security 	FMN 	Security 
-463.33750 	WPYM925 	M		PntCity SchEvent 	Special Events 	FMN 	Schools 
-463.58750 	WPYM925 	RM		PntCity Sch Ops1 	Operations 	DMR 	Schools 
-463.73750 	WPYM925 	M		PntCitySch Event 	Special Events 	FMN 	Schools 
-463.81250 	WPYM925 	M		PntCitySch Event 	Special Events 	FMN 	Schools 
-463.96250 	WPYM925 	M		PntCity Sch Sec2 	Security 	FMN 	Security 
-464.78750 	WPYM925 	RM		PntCity Sch Ops2 	Operations 	FMN 	Schools 
-464.73750 	WQTE928 	RM		Rochester High 	High School - Security 	FMN 	Schools 
-464.37500 	WQHC698 	RM		Rochester Schols 	Transportation - Primary 	FMN 	Schools 
-464.97500 	WQHC698 	RM		Rochester Bus 	Transportation - Secondary 	FMN 	Schools 
-463.33750 	WQTE928 	M		RochComSc HS Ops 	High School - Ops 	FMN 	Schools 
-463.96250 	WQTE928 	M		High School Op 	High School - Ops 	FMN 	Schools 
-463.26250 	WQTK500 	RM	CC 4TG *SL *	Royal Oak Middle 	Royal Oak Middle School 	DMR 	Schools 
-464.82500 	KNIT217 	RM	77.0 PL	Royal Oak SchBus 	Transportation 	FMN 	Schools 
-155.17500 	WPDJ789 	BM		South Lyon Buses 	Transportation 	NXDN 	Schools 
-464.87500 	 	BM	173.8 PL	Southfid Sch Bus 	Southfield Schools (Unlicensed Operations) 	FMN 	Schools 
-452.26250 	WQBR890 	RM	462 DPL	Southfld HighSch 	Southfield High School: Primary 	FMN 	Schools 
-451.31250 	WQBR890 	M		Southfld Sch Op1 	Security 	FMN 	Schools 
-452.11250 	WQBR890 	M		SouthfeldSch Op2 	Security 	FMN 	Schools 
-452.63750 	WQBR890 	M		Southfld Sch Op3 	Security 	FMN 	Schools 
-452.66250 	WQBR890 	M		Southfld Sch Op4 	Security 	FMN 	Schools 
-452.68750 	WQBR890 	M		Southfld Sch Op5 	Security 	FMN 	Schools 
-456.31250 	WQBR890 	M		Southfel Sch Op6 	Security 	FMN 	Schools 
-457.11250 	WQBR890 	M		Southfld Sch Op7 	Security 	FMN 	Schools 
-457.63750 	WQBR890 	M		Soutfeld Sch Op8 	Security 	FMN 	Schools 
-457.66250 	WQBR890 	M		Soutfeld Sch Op9 	Security 	FMN 	Schools 
-457.68750 	WQBR890 	M		Sfld Sch OpA 	Security 	FMN 	Schools 
-451.67500 	WPQD245 	M		Troy PS Security 	Security 	FMN 	Schools 
-452.15000 	WPQD245 	M		Troy Security 	Security 	FMN 	Schools 
-461.82500 	WQAU513 	RM		Troy Schools 	Security/Maintenance 	FMN 	Schools 
-464.47500 	KL7609 	RM	CC 9TG 456SL 1	Troy Buses 	Transportation - Primary 	DMR 	Schools 
-464.77500 	WPRV739 	RM	141.3 PL	WaledLake SchBus 	Transportation - Primary 	FMN 	Schools 
-463.61250 	WPCH823 	M		WaledLake SchSec 	Security 	FMN 	Security 
-463.86250 	WQER887 	RM	CC 5TG 1SL 1	Waterford Mott 	Waterford Mott High School 	DMR 	Schools 
-155.20500 	 	BM	107.2 PL	WaterfidSch Tran 	Transportation 	FMN 	Schools 
-464.20000 	WQGV893 	RM		WaterfrdSchMaint 	Maintenance 	FMN 	Schools 
-464.77500 	WQER887 	RM		WatefordSch Ops1 	Operations/Security 	FMN 	Schools 
-451.81250 	 	RM	CC 9TG 4000SL 2	Waterford Buses 	Waterford schools bus transportation 	DMR 	Schools 
-461.41250 	WQER887 	M		WatrfordSch Ops2 	Operations/Security 	FMN 	Schools 
-461.71250 	WQER887 	M		WatefordSch Ops3 	Operations/Security 	FMN 	Schools 
-461.83750 	WQER887 	M		Waterford Ops4 	Operations/Security 	FMN 	Schools 
-461.86250 	WQER887 	M		Wateford SchOps5 	Operations/Security 	FMN 	Schools 
-461.91250 	WQER887 	M		WaterfrdSch Ops6 	Operations/Security 	FMN 	Schools 
-462.01250 	WQER887 	M		WaterfrdSch Ops7 	Operations/Security 	FMN 	Schools 
-463.21250 	WQER887 	M		WaterfrdSch Ops8 	Operations/Security 	FMN 	Schools 
-463.53750 	WQER887 	M		WaterfrdSch Ops9 	Operations/Security 	FMN 	Schools 
-463.86250 	WQER887 	M		WatrfordSch Op10 	Operations/Security 	FMN 	Schools 
-464.37500 	WQER887 	M		WaterfrdSch Op11 	Operations/Security 	FMN 	Schools 
-464.96250 	WQER887 	M		WatrfordSch Op12 	Operations/Security 	FMN 	Schools 
-469.37500 	WQER887 	M		WaterfordSch Ops 	Operations/Security 	FMN 	Schools 
-464.72500 	KNHF912 	RM	91.5 PL	WestBlmf SchTrn1 	Transportation 	FMN 	Schools 
-464.95000 	 	RM	CC 11TG 1SL 1	WestBlmf SchTrn1 	Transportation [New] 	DMR 	Schools 
-152.40500 	WPZL629 	RM		OU Ops 1 	Operations 	FMN 	Schools 
-451.62500 	WQGV532 	RM		OU Housing 	Housing 	FMN 	Schools 
-461.41250 	WQGP800 	M		OU Faclite Mgt 1 	Facilities Mgmt. 	FMN 	Schools 
-466.41250 	WQGP800 	M		OU Fac Mngmnt 2 	Facilities Mgmt. 	FMN 	Schools 
-166.21500 	 	BM	365 DPL	GLkeNatVetCm Ops 	Great Lakes National Veterans Cemetary (Holly) 	FMN 	Federal 
-CLEMIS (OakWIN) Public Safety Communications	 OpenSky 9600 baud	 Oakland County	ComSource Michigan DMR	 DMR Motorola Connect Plus (TRBO)	 Various	ComSource Michigan NEXEDGE	 NXDN NEXEDGE 9600
- Varies	Comsource: Southfield	 DMR Motorola Capacity Plus Single Site (TRBO)	 Southfield	Consumers Energy	 EDACS Networked Standard	 Various	DeltaCom
- NXDN NEXEDGE 4800	 Varies	Detroit Newspaper Agency	 LTR Standard	 Detroit	Detroit Zoological Society	 DMR Motorola Capacity Plus Single Site (TRBO)	 Royal Oak
-FCA US: Global Headquarters	 DMR Motorola Capacity Plus Single Site (TRBO)	 Auburn Hills	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	General Mobile Radio Service NEXEDGE	 NXDN NEXEDGE 9600
- Varies	General Motors (USA)	 DMR Motorola Connect Plus (TRBO)	 Various	General Motors Proving Grounds	 DMR Motorola Capacity Plus Single Site (TRBO)	 Milford	General Motors Research Service Parts Operations
- DMR Motorola Capacity Plus Single Site (TRBO)	 Pontiac	Natural Aggregates Corporation	 LTR Standard	 Milford	Palace Sports and Entertainment Complex (DTE Energy Music Theater)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Auburn Hills
-Repeater Systems	 DMR Motorola Connect Plus (TRBO)	 Various	Suburban Mobility Authority for Regional Transportation (SMART)	 Motorola Type II Smartnet	 Beverly Hills	Superior Ambulance 	 DMR Conventional Networked
- Various	William Beaumont Hospital: Royal Oak	 NXDN NEXEDGE 9600	 Royal Oak	William Beaumont Hospital: Troy	 NXDN NEXEDGE 4800	 Troy	
+769.86250 	799.86250  	WQLR212 	RM		OC I/O 1 	Public Safety Inter-Op (Warren) Open Sky 	FMN 	Data 
+772.81250 	802.81250  	WQLR225 	RM		OC I/O 2 	Public Safety Inter-Op (Waterford) Open Sky 	FMN 	Data 
+769.36250 	799.36250  	WQLQ997 	RM		OC I/O 3 	Public Safety Inter-Op (Pontiac) Open Sky 	FMN 	Data 
+771.71250 	801.71250  	 	RM		OC I/O 4 	Public Safety Inter-Op (W Bloomfield) Open Sky 	FMN 	Data 
+769.61250 	799.61250  	WQLQ999 	RM		OC I/O 5 	Public Safety Inter-Op (Waterford Twp) Open Sky 	FMN 	Data 
+770.11250 	800.11250  	WQLR200 	RM		OC I/O 6 	Public Safety Inter-Op (Bloomfield Twp) Open Sky 	FMN 	Data 
+770.76250 	800.76250  	WQLR207 	RM		OC I/O 7 	Public Safety Inter-Op (Walled Lake) Open Sky 	FMN 	Data 
+772.41250 	802.41250  	WQLR208 	RM		OC I/O 8 	Public Safety Inter-Op Open Sky 	FMN 	Data 
+774.13750 	804.13750  	WQME418 	RM		OC I/O 9 	Public Safety Inter-Op Open Sky 	FMN 	Data 
+771.18750 	801.18750  	WQLR210 	RM		OC I/O 10 	Public Safety Inter-Op (West Bloomfield) Open Sky      ) 	FMN 	Data 
+773.71250 	803.71250  	WQMZ208 	RM		OC I/O 11 	Public Safety Inter-Op (Birmingham) Open Sky 	FMN 	Data 
+155.26500 	   	WZJ375 	BM	127.3 PL	Oakland EMD 1 	Emergency Management - E.A.S. Alerting / Tornado Sirens 	FMN 	Emergency Ops 
+154.98000 	153.92000  	KCR931 	RM	203.5 PL	Oakland EMD 2 	Emergency Management - E.A.S. Alerting / Tornado Sirens (Data) 	FMN 	Emergency Ops 
+769.89375 	   	 	M		OC FG 63D 	Countywide Fireground 1 	FMN 	Fire-Tac 
+769.99375 	   	 	M		OC FG 64D 	Countywide Fireground 2 	FMN 	Fire-Tac 
+773.50625 	   	 	M		OC FG 83D 	Countywide Fireground 3 	FMN 	Fire-Tac 
+773.85625 	   	 	M		OC FG 84D 	Countywide Fireground 4 	FMN 	Fire-Tac 
+154.26500 	   	KD35944 	M	CSQ	FireCom 265 	Fire Inter-City 	FMN 	Fire-Talk 
+153.83000 	   	KD35944 	M	CSQ	FireCom 830 	M.A.B.A.S. Fireground Tactical 	FMN 	Fire-Tac 
+154.28000 	   	WPCH571 	M	CSQ	FireCom 280 	M.A.B.A.S. Fireground Tactical 	FMN 	Fire-Tac 
+460.27500 	465.36250  	WQZC247 	RM	CC 2TG 3002SL 2	Hatzalah Amblnce 	Hatzalah Ambulance 	DMRE 	EMS Dispatch 
+156.16500 	158.98500  	KQB708 	RM	88.5 PL	Oakland Roads 1 	Road Commission 	FMN 	Public Works 
+156.22500 	159.04500  	KJW618 	RM	88.5 PL	Oakland Roads 2 	Road Commission 	FMN 	Public Works 
+153.95000 	   	WQPE822 	BM		AddisonTwp Fire2 	Fire: Dispatch (Station 26) 	FMN 	Fire Dispatch 
+154.99500 	   	WQPE822 	BM		OC FD Local 	Fireground [Ch 3] 	FMN 	Fire-Talk 
+159.24000 	156.09000  	WQPU425 	BM	023 DPL	Addison Fire 	Addison Township Fire 	FMN 	Fire Dispatch 
+423.15000 	428.15000  	WNKG538 	RM	110.9 PL	AuburnHills Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+423.17500 	428.17500  	WNKG538 	RM	CC 1TG 100SL 1	Auburn Hills DPW 	Public Works 	DMR 	Public Works 
+158.25000 	   	KNEN280 	BM	156.7 PL	Berkley PD c2c 	DPW/DPS - Car-to-Car 	FMN 	Multi-Talk 
+154.34000 	   	KNDV371 	BM		Birmingham Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.99500 	156.06000  	KNBU631 	RM	CC 1TG 20SL 1	Birmingham DPW 1 	Public Works 1 	DMR 	Public Works 
+153.99500 	156.06000  	KNBU631 	RM	CC 1TG 30SL 2	Birmingham DPW 2 	Public Works 2 	DMR 	Public Works 
+156.06000 	   	WPTH330 	M	CC 1TG *SL 1	Birmingham DPW 3 	Public Works 3 Talkaround Simplex) 	DMR 	Public Works 
+156.10500 	   	WPTH330 	M		Birmingham DPW 4 	Public Works 4 	FMN 	Public Works 
+453.50000 	458.50000  	KCU262 	RM	CC 1TG *SL *	Blomfield TwpDPW 	Public Works 	DMR 	Public Works 
+151.34750 	158.91000  	WQQH792 	RM	114 DPL	Brandon Twp FD 1 	Brandon Township Fire Dispatch 	FMN 	Fire Dispatch 
+154.08500 	156.04500  	WQOV319 	RM	114 DPL	Brandon Twp FD 2 	Brandon Township Fire Tactical 	FMN 	Fire-Tac 
+154.96500 	   	KNJM361 	BM	114 DPL	Brandon Twp FD 3 	Brandon Township Fire Tactical 	FMN 	Fire-Tac 
+154.23500 	   	WNWD495 	RM	100.0 PL	OC FD Red1/2 	Fire: Dispatch [RED 1/2] 	FMN 	Fire Dispatch 
+155.80500 	   	KNFF507 	BM	100.0 PL	ComerceTwp FD/PW 	Commerce Fire / Public Works 	FMN 	Interop 
+425.37500 	   	WNPE572 	M		UMEPSS 	Police - Tactical 	FMN 	Law Tac 
+423.37500 	428.37500  	WNPQ911 	RM		FarmngHills Fire 	Fire - Dispatch (Station 23) 	FMN 	Fire Dispatch 
+425.32500 	   	WNPQ911 	M		Farmngt Hillx FG 	Fireground 	FMN 	Fire-Tac 
+424.25000 	429.25000  	WNPQ911 	RM		FarmngnHills DPW 	Public Works: Dispatch 	DMR 	Public Works 
+423.27500 	428.27500  	WNPE572 	RM	CC 1TG 215SL 1	FarmnHills PW/PD 	Public Works/Police/DPW 	DMR 	Multi-Talk 
+154.74000 	158.92500  	KQF367 	BM	100.0 PL	Ferndale Police 	Police Reserves use 	FMN 	Law Dispatch 
+156.15000 	   	KQF367 	M	CSQ	Ferndale PD Det 	Police: Detectives 	FMN 	Law Talk 
+155.82000 	   	KAW380 	BM	173.8 PL	Ferndale PD c2c 	Police: Car-to-Car/Reserves [Ch 3] 	FMN 	Public Works 
+154.34000 	   	KNHX861 	BM	203.5 PL	Ferndale Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+453.85000 	   	WQGP807 	BM		Ferndale lWater 	Water Department 	FMN 	Public Works 
+154.38500 	150.79000  	KQG259 	RM	136.5 PL	FrkBngFarms Fire 	Fire: Dispatch [Ch 2] 	FMN 	Fire Dispatch 
+158.77500 	   	KQG259 	BM		FrkBngFarms FD 5 	Fire [Ch 5] 	FMN 	Fire-Talk 
+153.80000 	   	WPKL946 	BM	97.4 PL	GrovlandTwp Fire 	Fire: Dispatch (Station 25) 	FMN 	Fire Dispatch 
+151.14500 	158.82000  	WPZS948 	RM	065 DPL	HazlPrk PD NWtch 	Police: Neighborhood Watch 	FMN 	Law Talk 
+154.34000 	   	KQE958 	BM	167.9 PL	Hazel Park Fire 	Fire: Dispatch 	FM 	Fire Dispatch 
+151.22750 	153.94250  	WQDM263 	RM	167.9 PL	HazelPark PubWk1 	Public Works 	FMN 	Public Works 
+153.74000 	151.39250  		WQDM263 	BM	167.9 PL	Hazel Park Govt. 	Hazel Park Government 	FMN 	Public Works 
+154.43000 	   	KNHQ532 	BM	100.0 PL	Highland Fire 	Highland Township Fire Dispatch 	FMN 	Fire Dispatch 
+154.43000 	   	WPGJ435 	BM	151.4 PL	Holly Fire 	North Oakland County Fire Authority Dispatch 	FMN 	Fire Dispatch 
+158.88000 	   	WQEH562 	BM	151.4 PL	Holly Police 	Police Secondary 	FMN 	Law Tac 
+154.04000 	158.95500  	KQH826 	BM	156.7 PL	HuntngtnWood DPS 	Police/Fire: Dispatch (DB Berkley) 	FM 	Interop 
+423.57500 	428.57500  	WQFR693 	RM	732 DPL	Indpnce Twp Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+423.22500 	428.22500  	WQEM241 	RM	103.5 PL	LakeOrion Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.74500 	   	WNRS504 	BM	732 DPL	Lyon Fire 1 	Lyon / South Lyon Fire Dispatch (Paging) 	FMN 	Fire Dispatch 
+155.82000 	   	KBB998 	BM	100.0 PL	MadisonHeights W 	Public Works 	FMN 	Public Works 
+155.71500 	   	KNNJ371 	BM	203.5 PL	MadisonHeghts FD 	Fire Paging/Station Alerting 	FMN 	Fire Dispatch 
+453.15000 	458.15000  	WPXL298 	RM	141.3 PL	MadsnHghts Parks 	Parks Department 	FMN 	Public Works 
+424.12500 	429.12500  	WQDU506 	RM	123.0 PL	Milford Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.43000 	   	KNEA292 	BM	CSQ	Milford Fire 	Fire: Dispatch (Station 15) 	FMN 	Fire Dispatch 
+453.05000 	458.05000  	KQI922 	RM	103.5 PL	Camp Dearborn 	Camp Dearborn 	FMN 	Law Talk 
+155.59500 	153.96500  	WNMN458 	RM	151.4 PL	N.Oaklnd FA Main 	North Oakland Fire Authority Main 	FMN 	Fire Dispatch 
+154.43000 	   	WNMN458 	BM	CSQ	NOFA M/A 1 	County Fire Dispatch / Mutual Aid 	FMN 	Fire Dispatch 
+154.29500 	   	WNMN458 	BM	CSQ	NOFA M/A 2 	DNR Fireground / MABAS Tactical 	FMN 	Fire-Tac 
+423.05000 	428.05000  	KDK655 	RM	156.7 PL	Novi FD 1 	Novi Fire Dispatch 	FMN 	Fire Dispatch 
+425.25000 	   	KDK655 	M	156.7 PL	Novi Fire 2 	Novi Fire Tactical 	FMN 	Fire-Tac 
+154.99500 	   	WNLK543 	RM	103.5 PL	Novi DPW 	Novi Public Works 	FMN 	Public Works 
+423.42500 	428.42500  	WPKB632 	RM	123.0 PL	Oakland Twp Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.74500 	   	KNAR428 	BM		Orcrd Lake PubWk 	Public Works 	FMN 	Public Works 
+154.05500 	   	KNAR428 	M		OrchrdLake Water 	Water Department 	FMN 	Public Works 
+154.43000 	   	KBC207 	BM		Orion Twp Fire 	Fire: Dispatch (Station 20) 	FMN 	Fire Dispatch 
+154.99500 	   	WQBA518 	M		Orion Twp FGrund 	Fireground 	FMN 	Fire-Tac 
+423.75000 	428.75000  	WNUY386 	RM	100.0 PL	Oxford Police 	Police: Dispatch  	FMN 	Law Dispatch 
+425.37500 	   	WNUY386 	BM		Oxford PD Tac 	Police: Tactical 	FMN 	Law Tac 
+154.31000 	   	WQBH461 	BM	432 DPL	Oxford Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.99500 	   	KKD722 	BM		OC FD Local 	Fireground 	FMN 	Fire-Tac 
+423.85000 	428.85000  	WPPA510 	RM		Oxford PubWorks 	Public Works 	FMN 	Public Works 
+425.27500 	   	WNQQ345 	M		Rochester 1 	Fire/Police 	FMN 	Multi-Tac 
+425.37500 	   	WNQQ345 	BM		Rochester 2 	Fire/Police 	FMN 	Multi-Tac 
+424.30000 	429.30000  	WNQQ345 	BM	100.0 PL	Rochester Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+453.62500 	458.62500  	WQSD627 	BM	67.0 PL	Senior Transp. 	Senior Transportation services 	FMN 	Transportation 
+155.83500 	   	WNMQ354 	BM	210.7 PL	RochstrHills EMA 	Fire/Emergency Management [RED 2] 	FMN 	Emergency Ops 
+154.41500 	154.01000  	KMA256 	RM	210.7 PL	RochstrHils Fire 	Fire: Dispatch [RED 1] 	FMN 	Fire Dispatch 
+154.17500 	   	KMA256 	BM	210.7 PL	RochHils FG Red3 	Fireground [RED 3] 	FMN 	Fire-Tac 
+151.37000 	   	WNRX400 	BM	CSQ	OC FD Red 6 	Fire/Parks  	FMN 	Multi-Talk 
+159.16500 	   	WNAH631 	BM		Roch Hill PubWrk 	Public Works [ORANGE 1] 	FMN 	Public Works 
+155.94000 	155.04000  	KQJ463 	RM	100.0 PL	RoyalOak PubWrks 	Public Works 	FMN 	Public Works 
+155.94000 	155.04000  	KQJ463 	RM		RoyalOak PubWrks 	Public Works 	DMR 	Public Works 
+155.01000 	154.83000  	WPEI574 	RM	100.0 PL	ArtsBeatsEats 	Arts, Beats and Eats: Parking 	FMN 	Public Works 
+453.21250 	458.21250  	WNRS504 	RM	141.3 PL	SouthLyon Fire 2 	Lyon / South Lyon Fire Secondary (Low Power) 	FMN 	Fire-Tac 
+154.31750 	   	WQLE303 	M		South Lyon DPW 	South Lyon Department of Public Works 	FMN 	Public Works 
+424.32500 	429.32500  	WNPC747 	RM	131.8 PL	SoutfieldPolice1 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+423.82500 	428.82500  	WNPC747 	RM	94.8 PL	Soutfield PD Sec 	Police: Secondary 	FMN 	Law Talk 
+424.37500 	429.37500  	WNPC747 	RM	162.2 PL	SoutfieldPD Spec 	Police: Special Events 	FMN 	Law Tac 
+423.97500 	428.97500  	WNPC747 	RM	100.0 PL	Soutfield PD Det 	Police: Detectives 	FMN 	Law Talk 
+424.02500 	429.02500  	WNPC747 	RM	107.2 PL	Soutfield PD Tac 	Police: Tactical 	FMN 	Law Talk 
+423.67500 	428.67500  	WNPC747 	RM	136.5 PL	Soutfield EMD/NW 	Emergency Management / Neighborhood Watch 	FMN 	Multi-Talk 
+423.62500 	428.62500  	WNPC747 	RM	114.8 PL	Soutfield Fire 1 	Fire: Dispatch (Station 7) [Ch 1] 	FMN 	Fire Dispatch 
+425.30000 	   	WNPC747 	BM	127.3 PL	SouthfieldFire 2 	Fire: Secondary [Ch 2] 	FMN 	Fire-Tac 
+460.60000 	465.60000  	KYG527 	RM	156.7 PL	Southfeld Fire 3 	Fire 	FMN 	Fire-Talk 
+423.00000 	428.00000  	WNPC747 	RM	151.4 PL	Southfld Park-Rc 	Parks - Recreation 	FMN 	Public Works 
+423.35000 	428.35000  	WNPC747 	RM	146.2 PL	SouthfeldPubWrks 	Public Works 	FMN 	Public Works 
+154.23500 	150.99500  	KCQ401 	RM	100.0 PL	Troy Fire 	Fire: Dispatch [RED 1] 	FMN 	Fire Dispatch 
+153.75500 	153.96500  	KNEX752 	RM	100.0 PL	Troy PubWorks 	Public Works [ORANGE 1] 	FMN 	Public Works 
+153.48500 	158.26500  	WRH315 	RM	100.0 PL	Troy Water P1 	Water Department [PINK 1] 	FMN 	Public Works 
+151.46000 	159.00000  	WZX734 	RM	100.0 PL	OC Green 1 	Parks and Recreation [GREEN 1] 	FMN 	Public Works 
+155.80500 	   	KBC657 	BM	100.0 PL	Walled Lake Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.38500 	150.77500  	WQKP474 	BM	110.9 PL	WatrfordTwp Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+453.67500 	458.67500  	WPKM940 	BM	127.3 PL	Waterford DPW 	Waterford Dept of Public Works 	FMN 	Public Works 
+425.27500 	   	WNPC938 	M		WestBlmfldPD/FD1 	Police/Fire 	FMN 	Multi-Tac 
+425.32500 	   	WNSS741 	M		WestBlmfl PD/FD2 	Police/Fire 	FMN 	Multi-Tac 
+424.17500 	429.17500  	WNPC938 	RM	100.0 PL	WestBlmfeld Fire 	Fire: Dispatch (Station 6) 	FMN 	Fire Dispatch 
+425.35000 	   	WNSS741 	BM		WestBlmfld FGrnd 	Fireground 	FMN 	Fire-Tac 
+453.82500 	458.82500  	WPXP923 	RM		WestBlomfeld DPW 	Public Works 	FMN 	Public Works 
+154.16000 	   	WYG396 	BM	118.8 PL	White Lake Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.05500 	   	KJP383 	BM	127.3 PL	WhiteLake PubWrk 	Public Works 	FM 	Public Works 
+453.38750 	458.38750  	WPKC503 	RM	CSQ	White Lake Water 	Water Department 	FM 	Public Works 
+460.10000 	465.10000  	KNEV372 	RM	156.7 PL	Wixom Police 	Police: Alternate 	FMN 	Law Talk 
+154.43000 	   	KNAE819 	BM	136.5 PL	Wixom Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.83500 	   	WZX981 	BM	127.3 PL	Wixom PubWorks 	Public Works 	FMN 	Data 
+155.83500 	   	WNRO233 	BM	103.5 PL	WolvrneLk PubWrk 	Public Works 	FMN 	Public Works 
+151.25000 	   	WQMZ257 	RM		HurCln Metroprk1 	Huron-Clinton Metroparks Authority 1. - Milford 	FMN 	Law Talk 
+159.30000 	   	WQMZ257 	RM		HurCln Metroprk2 	Huron-Clinton Metroparks Authority 2 - Milford 	FMN 	Law Talk 
+424.15000 	429.15000  	WPWC594 	RM		47th Dist. Court 	47th District Court (Farmington Hills) 	FMN 	Corrections 
+461.03750 	   	WQKX481 	M		Comm. EMS Evnts1 	Special Events - Statewide 	FMN 	EMS-Tac 
+461.08750 	   	WQKX481 	M		Comm. EMS Event 	Special Events - Statewide 	FMN 	EMS-Tac 
+461.13750 	   	WQKX481 	M		Comm. EMS Evnts3 	Special Events - Statewide 	FMN 	EMS-Tac 
+461.18750 	   	WQKX481 	M		Comm. EMS Evnts4 	Special Events - Statewide 	FMN 	EMS-Tac 
+461.23750 	   	WQKX481 	M		Comm. EMS Evnts5 	Special Events - Statewide 	FMN 	EMS-Tac 
+466.03750 	   	WQKX481 	M		CommEMS Events 6 	Special Events - Statewide 	FMN 	EMS-Tac 
+466.08750 	   	WQKX481 	M		CommEMS Events 7 	Special Events - Statewide 	FMN 	EMS-Tac 
+466.13750 	   	WQKX481 	M		CommEMS Events 8 	Special Events - Statewide 	FMN 	EMS-Tac 
+466.18750 	   	WQKX481 	M		CommEMS Events 9 	Special Events - Statewide 	FMN 	EMS-Tac 
+466.23750 	   	WQKX481 	M		ComEMS Events 10 	Special Events - Statewide 	FMN 	EMS-Tac 
+458.02500 	   	KQZ814 	M	CSQ	HrVlyAmb EMS MX1 	EMS Mobile Repeater 1 	FMN 	EMS-Tac 
+458.07500 	   	KQZ814 	M	CSQ	HrVlyAmb EMS MX2 	EMS Mobile Repeater 2 	FMN 	EMS-Tac 
+458.12500 	   	KQZ814 	M	CSQ	HrVlyAmb EMS MX3 	EMS Mobile Repeater 3 	FMN 	EMS-Tac 
+458.17500 	   	KQZ814 	M	CSQ	HrVlyAmbEMS MX 4 	EMS Mobile Repeater 4 	FMN 	EMS-Tac 
+852.21250 	807.21250  	WPRS652 	RM		HurValAmb OAK FB 	Oakland County Fallback 	FM 	EMS Dispatch 
+154.54000 	   	WSP898 	BM	100.0 PL	AscnCrH Security 	Security: Dispatch 	FMN 	Security 
+154.51500 	   	WNRZ615 	M		AscnCH Scrty Tac 	Security: Tactical 	FMN 	Security 
+155.34000 	   	KSM306 	BM	179.9 PL	AscnCrHspHEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
+155.40000 	   	KSM306 	BM	97.4 PL	AscnCH HEARN 2 	EMS to Hospital Notification 	FMN 	Hospital 
+464.35000 	469.35000  	WSP898 	BM		AscnCrtnSecurity 	Crittenton Hospital Security/Ops 	NXDN 	Security 
+155.34000 	   	 	BM	173.8 PL	DocHosp. HEARN 	EMS to Hospital Notification (VHF Radio Plan - Hospital Base Station Transmits: 97.4 PL) 	FMN 	Hospital 
+423.95000 	428.95000  	WNNG460 	RM		HnryFrHWB Sec. 1 	Hospital Security Operations - Primary 	DMR 	Security 
+424.05000 	429.05000  	WNNG460 	RM		HnryFrHWB Sec. 2 	Hospital Security Operations - Secondary 	DMR 	Security 
+424.57500 	469.57500  	WQFP517 	RM	CC 1TG 100SL 1	HnryFrHWB PD 	Hospital Security 	DMR 	Security 
+155.34000 	   	WPZS460 	BM		HnryFrHWB HEARN1 	EMS to Hospital Notification 	FMN 	Hospital 
+155.40000 	   	WPZS460 	BM	97.4 PL	HnryFrHWB HEARN2 	EMS to Hospital Notification 	FMN 	Hospital 
+464.92500 	469.92500  	WQSF379 	RM		HurValSHsp Sec. 	Security 	FMN 	Security 
+152.00750 	   	WQNJ627 	B		HurnValSH Paging 	Paging 	FMN 	Data 
+155.34000 	   	WQNJ627 	BM	229.1 PL	HurValSH HEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
+155.40000 	   	WQNJ627 	BM	97.4 PL	HurValSH HEARN 2 	EMS to Hospital Notification  	FMN 	Hospital 
+464.67500 	469.67500  	KA87535 	RM		Mclaren Security 	Security - Dispatch 	FMN 	Security 
+461.32500 	   	KA87535 	M		Mclaren Ops 1 	Operations 	FMN 	Business 
+461.33750 	   	KA87535 	M		Mclaren Ops 2 	Operations 	FMN 	Business 
+461.42500 	   	KA87535 	M		Mclaren Ops 3 	Operations 	FMN 	Business 
+464.20000 	   	 	BM	CC 8TG 6000SL 2	Hosp. Security 	McLaren Oakland hospital security 	DMR 	Security 
+155.34000 	   	WPYQ647 	BM	91.5 PL	MclarenOak HEARN 	EMS to Hospital Notification Hospital Base Station Transmits: 97.4 PL) 	FM 	Hospital 
+464.02500 	469.02500  	WQFP201 	RM	CC 12TG 1001SL 1	ProvHsp Security 	Security: Dispatch 	DMR 	Security 
+464.02500 	469.02500  	WQFP201 	RM	CC 12TG 1005SL 2	Engineering 	Engineering 	DMR 	Business 
+464.95000 	   	 	M	225.7 PL	ProvPHsp Sec T/A 	Security: Talkaround 	FMN 	Security 
+461.60000 	   	WQFP201 	M		Prov. Hosp Ops 1 	Operations 	FMN 	Business 
+462.03750 	467.03750  	WQNT915 	RM		Prov. Hosp Ops 2 	Ops (Southfield) 	FMN 	Business 
+456.68750 	   	WQNT915 	M		Prov. Hosp Ops 3 	Ops (Southfield/Novi) 	FMN 	Business 
+457.48750 	   	WQNT915 	M		Prov. Hosp Ops 4 	Ops (Southfield/Novi) 	FMN 	Business 
+457.78750 	   	WQNT915 	M		Prov. Hosp Ops 5 	Ops (Southfield/Novi) 	FMN 	Business 
+457.81250 	   	WQNT915 	M		Prov. Hosp Ops 6 	Ops (Southfield/Novi) 	FMN 	Business 
+457.88750 	   	WQNT915 	M		Prov. Hosp Ops 7 	Ops (Southfield/Novi) 	FMN 	Business 
+155.34000 	   	WPYG238 	BM	107.2 PL	ProvHosp HEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
+155.40000 	   	WPYG238 	BM	97.4 PL	ProvHosp HEARN 2 	EMS to Hospital Notification 	FMN 	Hospital 
+461.07500 	466.07500  	KNEK922 	RM	36 RAN	StJoeMrcyOH Sec. 	Security Operations 	NXDN 	Security 
+463.31250 	468.31250  	WQUJ947 	RM	179.9 PL	BmntHsp Enginrng 	Hospital Engineering 	FMN 	Hospital 
+467.85000 	   	WQUJ947 	M		Bmnt Hosp Ops 	Hospital Ops 	FMN 	Hospital 
+464.00000 	469.00000  	WQUJ947 	RM	203.5 PL	BmntHsp Security 	Hospital Security - Dispatch 	FMN 	Security 
+155.34000 	   	KGV403 	BM	151.4 PL	BmntHosp HEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
+155.40000 	   	KGV403 	BM	97.4 PL	BmntHosp HEARN 2 	EMS to Hospital Notification 	FMN 	Hospital 
+155.34000 	   	WQDI531 	BM	156.7 PL	BmntHR HEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
+155.40000 	   	WQDI531 	BM	97.4 PL	BmntHR HEARN 2 	EMS to Hospital Notification 	FMN 	Hospital 
+461.40000 	466.40000  	WQWR898 	BM	107.2 PL	BmntSecurity 	William Beaumont Hospital Security 	FMN 	Security 
+463.10000 	   	 	BM	631 DPL	Beaumont EMS5 	Beaumont Royal Oak Ch. 5 - EMS to Hospital 	FMN 	EMS-Talk 
+151.16750 	   	WXY367 	RM	411 DPL	BmntHTry Medevac 	Beaumont Medical Helicopter (Community EMS) 	FMN 	EMS Dispatch 
+155.34000 	   	KGV403 	BM	162.2 PL	Bmnt HT HEARN 1 	EMS to Hospital Notification 	FMN 	Hospital 
+155.40000 	   	KGV403 	BM	97.4 PL	BmntHspTrHEARN 2 	EMS to Hospital Notification 	FMN 	Hospital 
+47.54000 	   	KQI281 	BM	100.0 PL	AMRedCross Tac-1 	Tac-1 	FM 	Emergency Ops 
+47.58000 	   	KQI281 	BM	100.0 PL	AMRedCross Tac-2 	Tac-2 	FM 	Emergency Ops 
+47.66000 	   	KQI281 	BM	100.0 PL	AMRedCross ac-3 	Tac-3 	FM 	Emergency Ops 
+152.46500 	157.72500  	WPZI234 	RM		FrstSt Bus Oklnd 	Operations/Security 	DMR 	Transportation 
+155.22000 	   	KQR330 	BM		Ryder Buses 	Ryder Buses 	FMN 	Transportation 
+855.11250 	810.11250  	WPHY925 	RM		Robinson Bus 	Bus: Dispatch 	FM 	Transportation 
+461.30000 	   	KNNJ793 	M		Berkley HS Ops 1 	Security/Ops 	FMN 	Schools 
+461.42500 	   	KNNJ793 	M		Berkley HS Ops 2 	Security/Ops 	FMN 	Schools 
+461.58750 	   	KNNJ793 	M		Berkley HS Ops 3 	Operations 	FMN 	Schools 
+463.41250 	   	KNNJ793 	M		Berkley HS Ops 4 	Operations 	FMN 	Schools 
+464.46250 	   	KNNJ793 	M		Berkley HS Ops 5 	Operations 	FMN 	Schools 
+462.71250 	   	 	M	136.5 PL	Birmingham Sch 1 	District Administration Office - Operations 	FMN 	Schools 
+468.47500 	   	WQEX752 	M	503 DPL	Birmingham Sch 2 	District-Wide (Events/Emergency Operations) 	FMN 	Schools 
+468.32500 	   	WQEX752 	M	606 DPL	Birmingham Sch 3 	Seaholm High School - Primary (Operations/Security) 	FMN 	Schools 
+467.87500 	   	 	M	94.8 PL	Birmingham Sch 4 	Seaholm High School - Athletic Events 1 	FMN 	Schools 
+467.82500 	   	 	M	167.9 PL	Birmingham Sch 5 	Seaholm High School - Athletic Events 2 	FMN 	Schools 
+468.40000 	   	WQEX752 	M	503 DPL	Birmingham Sch 6 	Groves High School - Primary (Operations/Security) 	FMN 	Schools 
+468.25000 	   	WQEX752 	M	411 DPL	Birmingham Sch 7 	Groves High School - Secondary (Special Events) 	FMN 	Schools 
+468.20000 	   	WQEX752 	M		Birmingham Sch 8 	Security/Special Events 	FMN 	Schools 
+468.22500 	   	WQEX752 	M		Birmingham Sch 9 	Security/Special Events 	FMN 	Schools 
+468.42500 	   	WQEX752 	M		BirminghamSch 10 	Security/Special Events 	FMN 	Schools 
+468.50000 	   	WQEX752 	M		BirminghamSch 11 	Security/Special Events 	FMN 	Schools 
+464.32500 	469.32500  	WQAI667 	RM		BlmfHils School1 	Transportation - Primary / Andover High School 	FMN 	Schools 
+463.28750 	   	WQAI667 	M		BlmflHil School2 	Andover High School 	FMN 	Schools 
+463.98750 	   	WQAI667 	M		BlmflHil School3 	Andover High School 	FMN 	Schools 
+467.92500 	   	KNNV715 	M		Ops/Sec 	Operations/Security 	FMN 	Schools 
+152.37500 	157.63500  	WQJI361 	RM	229.1 PL	Brandon Schl Bus 	Brandon Township School Buses 	FMN 	Schools 
+464.82500 	469.82500  	WNSF564 	RM		ClrncvlPSD Buses 	Transportation - Primary 	FMN 	Schools 
+464.97500 	469.97500  	KQT986 	RM	114 DPL	ClarkstnCS Buses 	School Buses 	FMN 	Schools 
+451.82500 	456.82500  	WPXK450 	RM		Clawson Trans 	Transportation - Primary 	FMN 	Schools 
+452.30000 	   	WPXK450 	M		Schools Ops 	Operations 	FMN 	Schools 
+462.08750 	   	WPXK450 	M		ClawsonSchls Ops 	Operations 	FMN 	Schools 
+463.48750 	   	WPXK450 	M		Clawson SD 	Operations 	FMN 	Schools 
+463.88750 	   	WPXK450 	M		Clawson Schools 	Ops 	FMN 	Schools 
+463.93750 	   	WPXK450 	M		Clawson 	Operations 	FMN 	Schools 
+424.47500 	429.47500  	WQQK451 	RM	CC 2TG 45000SL 2	CrnbEdu School 1 	Operations 	DMR 	Schools 
+424.85000 	429.85000  	WQQK451 	RM	CC 3TG *SL *	CrnbEdu School 2 	Operations 	DMR 	Schools 
+424.95000 	429.95000  	WQQK451 	RM	CC 1TG 10000SL 1	CrnbEdu School 3 	Security 	DMR 	Security 
+463.36250 	   	WPJW775 	M		Det CnDayS Ops 1 	Detroit Country Day School 	FMN 	Schools 
+462.06250 	467.06250  	WPJW775 	BM	466 DPL	Det CntDaSc Ops5 	Detroit Country Day School Ops 	FMN 	Schools 
+464.60000 	   	WPJW775 	M		DetCntDaSc Ops 2 	Detroit Country Day School 	FMN 	Schools 
+464.87500 	   	WPJW775 	M		DetCntDaSc Ops 3 	Detroit Country Day School 	FMN 	Schools 
+464.97500 	469.97500  	WPJW775 	BM	173.8 PL	DetCntDaSc Ops 4 	Detroit Country Day School 	FMN 	Schools 
+452.38750 	   	WPRL355 	M		EdsnOakland Schl 	Operations 	FMN 	Schools 
+463.50000 	   	WPRL355 	M		Edison Oak Ops  	Operations 	FMN 	Schools 
+151.65500 	   	WQRK827 	BM	151.4 PL	Farmngton HS Ops 	High School - Operations / Security 	FMN 	Schools 
+154.51500 	   	WNDL478 	BM		Farmngtn Sch Ops 	Operations / Security 	FMN 	Schools 
+155.22000 	   	WNFA231 	BM	026 DPL	Farmngton SchBus 	Transportation 	FMN 	Schools 
+422.70000 	   	WQWM401 	BM		Farmngtn.Schools 	Farmington School District 422.700 	DMR 	Schools 
+422.72500 	   	WQWM401 	BM		Farmngton School 	Farmington School District 422.725 	DMR 	Schools 
+464.27500 	469.27500  	WQEJ381 	RM	043 DPL	Ferndale Sch Bus 	Transportation - Primary 	FMN 	Schools 
+424.45000 	429.45000  	WQPU644  	RM	CC 1TG 1SL 1	Holly Sclh Bus 	Transportation 	DMR 	Schools 
+452.97500 	457.97500  	WQCG689 	RM		HuronValleySchol 	Operations/Security 	FMN 	Schools 
+464.57500 	469.57500  	WQOI429 	RM		LakeOrn Sch Bus1 	Transportation - Primary 	FMN 	Schools 
+463.83750 	468.83750  	WQCE252 	RM		LakeOr HiSchool 	High School - Operations/Security 	FMN 	Schools 
+464.52500 	469.52500  	WQDC925 	RM		Madison Schools 	Transportation - Primary 	FMN 	Schools 
+461.06250 	   	 	M	88.5 PL	MarianHS Ops 1 	Operations 1 	FMN 	Schools 
+464.50000 	   	 	M	67.0 PL	Marian HS Ops 2 	Operations 2 	FMN 	Schools 
+152.36000 	   	WQVN387 	RM		Novi Schools 	In-Building School Operations 	FMN 	Schools 
+422.60000 	427.60000  	WPLE692 	RM		Novi Schools 	Operations/Security 	DMR 	Schools 
+422.92500 	   	WPLE692 	M		Novi Schools 	Operations/Security 	FMN 	Schools 
+464.17500 	469.17500  	WPQD891 	RM		OakParkSch Trans 	Transportation 	FMN 	Schools 
+465.01250 	   	WPUH819 	M		Oakland Schools 	Operations/Security 	FMN 	Schools 
+466.87500 	   	WPUH819 	M		OakComSc Ops/Sec 	Operations/Security 	FMN 	Schools 
+467.76250 	   	WPUH819 	M		Oakland Schools 	Operations/Security 	FMN 	Schools 
+468.32500 	   	WPUH819 	M		Oakland Schools 	Operations/Security 	FMN 	Schools 
+468.87500 	   	WPUH819 	M		Oakland Schools 	Operations/Security 	FMN 	Schools 
+457.73750 	   	 	RM	654 DPL	StMP Police 	Police 	FMN 	Law Dispatch 
+456.32500 	   	 	RM	047 DPL	StMP Security 	Security 	FMN 	Schools 
+463.28750 	   	 	RM	503 DPL	StMP Parking 	Parking 	FMN 	Schools 
+469.50000 	   	 	M	662 DPL	StMP Bingo 	Bingo 	FMN 	Schools 
+469.55000 	   	 	M	664 DPL	StMP Raffle 	Raffle 	FMN 	Schools 
+469.83750 	   	 	M	654 DPL	StMP Vegas 	Vegas 	FMN 	Schools 
+469.26250 	   	 	M	632 DPL	StMP Utility 	Utility 	FMN 	Schools 
+461.28750 	   	 	RM	664 DPL	StMP Spare 1 	Spare 1 	FMN 	Schools 
+462.28750 	   	 	RM	503 DPL	StMP Spare 2 	Spare 2 	FMN 	Schools 
+451.96250 	   	 	RM	023 DPL	StMP Personnel 	Personnel 	FMN 	Schools 
+456.96250 	   	 	RM	624 DPL	StMP Kid Zone 	Kid Zone 	FMN 	Schools 
+461.28750 	   	 	RM	432 DPL	StMP Chairs 	Chairs 	FMN 	Schools 
+462.28750 	   	 	RM	466 DPL	StMP Eaglet 	Eaglet 	FMN 	Schools 
+464.26250 	   	 	RM	624 DPL	StMP MNY Gate 	MNY Gate 	FMN 	Schools 
+464.83750 	   	 	RM	627 DPL	StMP Food 	Food 	FMN 	Schools 
+467.11250 	   	 	M	631 DPL	StMP Beverage 	Beverage 	FMN 	Schools 
+424.03750 	429.03750  	WREL982 	RM	CC 4TG 100SL 2	Bus transport 	School bus transportation 	DMR 	Schools 
+424.06250 	   	WREL982 	M	CC 6TG *SL *	Oxford High 	Oxford High School Administration/Safety 	DMR 	Schools 
+464.47500 	469.47500  	WQQ378 	RM		Oxford Tran-Prim 	Transportation - Primary 	FMN 	Schools 
+469.37500 	   	WQQ378 	M		Oxford Talkround 	Talkaround 	FMN 	Schools 
+451.97500 	456.97500  	 	RM	CC 4TG 48340SL 1	PontCitySAdm Ops 	Pontiac School Administration / Operations 	DMR 	Schools 
+461.61250 	   	WPYM925 	M		PntCity Sch Sec1 	Security 	FMN 	Security 
+463.33750 	   	WPYM925 	M		PntCity SchEvent 	Special Events 	FMN 	Schools 
+463.58750 	468.58750  	WPYM925 	RM		PntCity Sch Ops1 	Operations 	DMR 	Schools 
+463.73750 	   	WPYM925 	M		PntCitySch Event 	Special Events 	FMN 	Schools 
+463.81250 	   	WPYM925 	M		PntCitySch Event 	Special Events 	FMN 	Schools 
+463.96250 	   	WPYM925 	M		PntCity Sch Sec2 	Security 	FMN 	Security 
+464.78750 	469.78750  	WPYM925 	RM		PntCity Sch Ops2 	Operations 	FMN 	Schools 
+464.73750 	469.73750  	WQTE928 	RM		Rochester High 	High School - Security 	FMN 	Schools 
+464.37500 	469.37500  	WQHC698 	RM		Rochester Schols 	Transportation - Primary 	FMN 	Schools 
+464.97500 	469.97500  	WQHC698 	RM		Rochester Bus 	Transportation - Secondary 	FMN 	Schools 
+463.33750 	   	WQTE928 	M		RochComSc HS Ops 	High School - Ops 	FMN 	Schools 
+463.96250 	   	WQTE928 	M		High School Op 	High School - Ops 	FMN 	Schools 
+463.26250 	468.26250  	WQTK500 	RM	CC 4TG *SL *	Royal Oak Middle 	Royal Oak Middle School 	DMR 	Schools 
+464.82500 	469.82500  	KNIT217 	RM	77.0 PL	Royal Oak SchBus 	Transportation 	FMN 	Schools 
+155.17500 	   	WPDJ789 	BM		South Lyon Buses 	Transportation 	NXDN 	Schools 
+464.87500 	   	 	BM	173.8 PL	Southfid Sch Bus 	Southfield Schools (Unlicensed Operations) 	FMN 	Schools 
+452.26250 	457.26250  	WQBR890 	RM	462 DPL	Southfld HighSch 	Southfield High School: Primary 	FMN 	Schools 
+451.31250 	   	WQBR890 	M		Southfld Sch Op1 	Security 	FMN 	Schools 
+452.11250 	   	WQBR890 	M		SouthfeldSch Op2 	Security 	FMN 	Schools 
+452.63750 	   	WQBR890 	M		Southfld Sch Op3 	Security 	FMN 	Schools 
+452.66250 	   	WQBR890 	M		Southfld Sch Op4 	Security 	FMN 	Schools 
+452.68750 	   	WQBR890 	M		Southfld Sch Op5 	Security 	FMN 	Schools 
+456.31250 	   	WQBR890 	M		Southfel Sch Op6 	Security 	FMN 	Schools 
+457.11250 	   	WQBR890 	M		Southfld Sch Op7 	Security 	FMN 	Schools 
+457.63750 	   	WQBR890 	M		Soutfeld Sch Op8 	Security 	FMN 	Schools 
+457.66250 	   	WQBR890 	M		Soutfeld Sch Op9 	Security 	FMN 	Schools 
+457.68750 	   	WQBR890 	M		Sfld Sch OpA 	Security 	FMN 	Schools 
+451.67500 	   	WPQD245 	M		Troy PS Security 	Security 	FMN 	Schools 
+452.15000 	   	WPQD245 	M		Troy Security 	Security 	FMN 	Schools 
+461.82500 	466.82500  	WQAU513 	RM		Troy Schools 	Security/Maintenance 	FMN 	Schools 
+464.47500 	469.47500  	KL7609 	RM	CC 9TG 456SL 1	Troy Buses 	Transportation - Primary 	DMR 	Schools 
+464.77500 	469.77500  	WPRV739 	RM	141.3 PL	WaledLake SchBus 	Transportation - Primary 	FMN 	Schools 
+463.61250 	   	WPCH823 	M		WaledLake SchSec 	Security 	FMN 	Security 
+463.86250 	   	WQER887 	RM	CC 5TG 1SL 1	Waterford Mott 	Waterford Mott High School 	DMR 	Schools 
+155.20500 	   	 	BM	107.2 PL	WaterfidSch Tran 	Transportation 	FMN 	Schools 
+464.20000 	469.20000  	WQGV893 	RM		WaterfrdSchMaint 	Maintenance 	FMN 	Schools 
+464.77500 	469.77500  	WQER887 	RM		WatefordSch Ops1 	Operations/Security 	FMN 	Schools 
+451.81250 	456.81250  	 	RM	CC 9TG 4000SL 2	Waterford Buses 	Waterford schools bus transportation 	DMR 	Schools 
+461.41250 	   	WQER887 	M		WatrfordSch Ops2 	Operations/Security 	FMN 	Schools 
+461.71250 	   	WQER887 	M		WatefordSch Ops3 	Operations/Security 	FMN 	Schools 
+461.83750 	   	WQER887 	M		Waterford Ops4 	Operations/Security 	FMN 	Schools 
+461.86250 	   	WQER887 	M		Wateford SchOps5 	Operations/Security 	FMN 	Schools 
+461.91250 	   	WQER887 	M		WaterfrdSch Ops6 	Operations/Security 	FMN 	Schools 
+462.01250 	   	WQER887 	M		WaterfrdSch Ops7 	Operations/Security 	FMN 	Schools 
+463.21250 	   	WQER887 	M		WaterfrdSch Ops8 	Operations/Security 	FMN 	Schools 
+463.53750 	   	WQER887 	M		WaterfrdSch Ops9 	Operations/Security 	FMN 	Schools 
+463.86250 	   	WQER887 	M		WatrfordSch Op10 	Operations/Security 	FMN 	Schools 
+464.37500 	   	WQER887 	M		WaterfrdSch Op11 	Operations/Security 	FMN 	Schools 
+464.96250 	   	WQER887 	M		WatrfordSch Op12 	Operations/Security 	FMN 	Schools 
+469.37500 	   	WQER887 	M		WaterfordSch Ops 	Operations/Security 	FMN 	Schools 
+464.72500 	469.72500  	KNHF912 	RM	91.5 PL	WestBlmf SchTrn1 	Transportation 	FMN 	Schools 
+464.95000 	469.95000  	 	RM	CC 11TG 1SL 1	WestBlmf SchTrn1 	Transportation [New] 	DMR 	Schools 
+152.40500 	157.66500  	WPZL629 	RM		OU Ops 1 	Operations 	FMN 	Schools 
+451.62500 	456.62500  	WQGV532 	RM		OU Housing 	Housing 	FMN 	Schools 
+461.41250 	   	WQGP800 	M		OU Faclite Mgt 1 	Facilities Mgmt. 	FMN 	Schools 
+466.41250 	   	WQGP800 	M		OU Fac Mngmnt 2 	Facilities Mgmt. 	FMN 	Schools 
+166.21500 	   	 	BM	365 DPL	GLkeNatVetCm Ops 	Great Lakes National Veterans Cemetary (Holly) 	FMN 	Federal 
+CLEMIS (OakWIN) Public Safety Communications	 OpenSky 9600 baud	 Oakland County	ComSource Michigan NEXEDGE	 NXDN NEXEDGE 9600	 Varies	Comsource: Southfield	 DMR Motorola Capacity Plus Single Site (TRBO)	 Southfield
+Consumers Energy	 EDACS Networked Standard	 Various	DeltaCom	 NXDN NEXEDGE 4800	 Varies	Detroit Newspaper Agency	 LTR Standard	 Detroit
+Detroit Zoological Society	 DMR Motorola Capacity Plus Single Site (TRBO)	 Royal Oak	FCA US: Global Headquarters	 DMR Motorola Capacity Plus Single Site (TRBO)	 Auburn Hills	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various
+General Mobile Radio Service NEXEDGE	 NXDN NEXEDGE 9600	 Varies	General Motors (USA)	 DMR Motorola Connect Plus (TRBO)	 Various	General Motors Proving Grounds	 DMR Motorola Capacity Plus Single Site (TRBO)	 Milford
+General Motors Research Service Parts Operations	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pontiac	Natural Aggregates Corporation	 LTR Standard	 Milford	Palace Sports and Entertainment Complex (DTE Energy Music Theater)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Auburn Hills
+Repeater Systems	 DMR Motorola Connect Plus (TRBO)	 Various	Suburban Mobility Authority for Regional Transportation (SMART)	 Motorola Type II Smartnet	 Beverly Hills	Superior Ambulance 	 DMR Conventional Networked	 Various
+William Beaumont Hospital: Royal Oak	 NXDN NEXEDGE 9600	 Royal Oak	William Beaumont Hospital: Troy	 NXDN NEXEDGE 4800	 Troy	

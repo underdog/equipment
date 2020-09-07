@@ -1,30 +1,30 @@
-155.19000 	KNAE714 	BM	97.4 PL	TAOS SO DISP 	Taos SO / Taos Central Disp (North Repeater) 	FMN 	Law Dispatch 
-155.97000 	 	BM		TAOS CO EMS 	Taos SO / Central Dsp / County Amb (South Repeater) 	FMN 	EMS Dispatch 
-159.40500 	WPWV316 	BM	156.7 PL	TAOS CO FD  	Taos Country Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-159.05250 	WPWV316 	BM	156.7 PL	Rio Fern FD 	Rio Fernando Fire Department 	FMN 	Fire Dispatch 
-154.16000 	WPDA673 	BM	156.7 PL	Rio Fern FD Tac 	Rio Fernando Fire Department Tac 	FMN 	Fire-Tac 
-155.04000 	KNCH648 	RM		Dixon FD 	Dixon Fire Dept 	FMN 	Fire Dispatch 
-155.10750 		WQLI895 	BM	156.7 PL	Hondo-Seco FD 	Hondo-Seco Fire Department 	FMN 	Fire Dispatch 
-154.87500 	WQAW514 	RM	97.4 PL	TAOS PD 	Police Department 	FM 	Law Dispatch 
-151.10000 	WPWV31 	BM		Taos PD Tac 	Police Tactical 	FMN 	Law Tac 
-154.37000 	WQEP222 	BM		TAOS FD 	Volunteer Fire Department 	FM 	Fire Dispatch 
-155.28000 	WPVZ38 	BM		Taos S 	Search  	FMN 	Emergency Ops 
-158.89500 	WPKT970 	BM	103.5 PL	ChileLineBus 	Chile Line Bus Operations 	FM 	Transportation 
-168.05000 	 	BM	CSQ	WLDLND TAC1 	Wildland Tac-1 	FM 	Fire-Tac 
-168.20000 	 	BM	CSQ	WLDLND TAC2 	Wildland Tac-2 	FM 	Fire-Tac 
-168.60000 	 	BM	CSQ	WLDLND TAC3 	Wildland Tac-3 	FM 	Fire-Tac 
-154.11500 	 	BM	CSQ	STR/EMS TAC4 	Structure/EMS Tac-4 	FM 	Fire-Tac 
-154.20500 	 	BM	CSQ	STR/EMS TAC5 	Structure/EMS Tac-5 	FM 	Fire-Tac 
-153.83000 	 	BM	CSQ	STR/EMS TAC6 	Structure/EMS Tac-6 	FM 	Fire-Tac 
-154.31000 	 	BM	CSQ	ST FIRE 	NM State Fire 	FM 	Interop 
-155.89500 	 	RM		CMD FLG MTN 	Command Flag Mountain 	FM 	Fire-Tac 
-154.98000 	 	RM		CMD ANGEL FD 	Command Angel Fire 	FM 	Fire-Tac 
-154.37000 	 	RM		CMD TAOS 	Command Taos 	FM 	Fire-Tac 
-154.25000 	 	RM		CMD MORENO V 	Command Moreno Valley Fire 	FM 	Fire-Tac 
-154.29500 	 	BM	CSQ	AIR-2-GROUND 	State Medevac Air-to-Ground 	FM 	Interop 
-154.23500 	WQCQ787 	BM		RR FD/EMS 	Fire/EMS 	FM 	EMS Dispatch 
-154.66500 	WPMA260  	RM		RRFD RPT 1 	Fire 1 Repeater 	FMN 	Fire-Tac 
-155.02500 	WPLV542 	BM		RR PU WK 	Public Works 	FM 	Public Works 
-155.05500 	KOL885 	BM		RR MARSHAL 	Marshall 	FM 	Law Dispatch 
-460.60000 	WPKC350 	RM		TS VALLEY FD 	Fire Department 	FM 	Fire Dispatch 
+155.19000 	153.90500  	KNAE714 	BM	97.4 PL	TAOS SO DISP 	Taos SO / Taos Central Disp (North Repeater) 	FMN 	Law Dispatch 
+155.97000 	154.95000  	 	BM		TAOS CO EMS 	Taos SO / Central Dsp / County Amb (South Repeater) 	FMN 	EMS Dispatch 
+159.40500 	   	WPWV316 	BM	156.7 PL	TAOS CO FD  	Taos Country Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+159.05250 	   	WPWV316 	BM	156.7 PL	Rio Fern FD 	Rio Fernando Fire Department 	FMN 	Fire Dispatch 
+154.16000 	   	WPDA673 	BM	156.7 PL	Rio Fern FD Tac 	Rio Fernando Fire Department Tac 	FMN 	Fire-Tac 
+155.04000 	   	KNCH648 	RM		Dixon FD 	Dixon Fire Dept 	FMN 	Fire Dispatch 
+155.10750 	   		WQLI895 	BM	156.7 PL	Hondo-Seco FD 	Hondo-Seco Fire Department 	FMN 	Fire Dispatch 
+154.87500 	159.07500  	WQAW514 	RM	97.4 PL	TAOS PD 	Police Department 	FM 	Law Dispatch 
+151.10000 	   	WPWV31 	BM		Taos PD Tac 	Police Tactical 	FMN 	Law Tac 
+154.37000 	   	WQEP222 	BM		TAOS FD 	Volunteer Fire Department 	FM 	Fire Dispatch 
+155.28000 	   	WPVZ38 	BM		Taos S 	Search  	FMN 	Emergency Ops 
+158.89500 	   	WPKT970 	BM	103.5 PL	ChileLineBus 	Chile Line Bus Operations 	FM 	Transportation 
+168.05000 	   	 	BM	CSQ	WLDLND TAC1 	Wildland Tac-1 	FM 	Fire-Tac 
+168.20000 	   	 	BM	CSQ	WLDLND TAC2 	Wildland Tac-2 	FM 	Fire-Tac 
+168.60000 	   	 	BM	CSQ	WLDLND TAC3 	Wildland Tac-3 	FM 	Fire-Tac 
+154.11500 	   	 	BM	CSQ	STR/EMS TAC4 	Structure/EMS Tac-4 	FM 	Fire-Tac 
+154.20500 	   	 	BM	CSQ	STR/EMS TAC5 	Structure/EMS Tac-5 	FM 	Fire-Tac 
+153.83000 	   	 	BM	CSQ	STR/EMS TAC6 	Structure/EMS Tac-6 	FM 	Fire-Tac 
+154.31000 	   	 	BM	CSQ	ST FIRE 	NM State Fire 	FM 	Interop 
+155.89500 	154.05500  	 	RM		CMD FLG MTN 	Command Flag Mountain 	FM 	Fire-Tac 
+154.98000 	153.96500  	 	RM		CMD ANGEL FD 	Command Angel Fire 	FM 	Fire-Tac 
+154.37000 	150.80500  	 	RM		CMD TAOS 	Command Taos 	FM 	Fire-Tac 
+154.25000 	158.99500  	 	RM		CMD MORENO V 	Command Moreno Valley Fire 	FM 	Fire-Tac 
+154.29500 	   	 	BM	CSQ	AIR-2-GROUND 	State Medevac Air-to-Ground 	FM 	Interop 
+154.23500 	   	WQCQ787 	BM		RR FD/EMS 	Fire/EMS 	FM 	EMS Dispatch 
+154.66500 	159.21000  	WPMA260  	RM		RRFD RPT 1 	Fire 1 Repeater 	FMN 	Fire-Tac 
+155.02500 	   	WPLV542 	BM		RR PU WK 	Public Works 	FM 	Public Works 
+155.05500 	   	KOL885 	BM		RR MARSHAL 	Marshall 	FM 	Law Dispatch 
+460.60000 	465.60000  	WPKC350 	RM		TS VALLEY FD 	Fire Department 	FM 	Fire Dispatch 
 New Mexico DTRS	 Project 25 Phase II	 Various	

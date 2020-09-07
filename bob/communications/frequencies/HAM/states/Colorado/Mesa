@@ -1,40 +1,40 @@
-462.95000 	WNLV232 	BM	141.3 PL	Mesa EMS 	EMS 	FM 	EMS Dispatch 
-155.22000 	KSM888 	BM		Mesa Search 	Search and Rescue 	FM 	Emergency Ops 
-155.62500 	WNUF770 	BM	141.3 PL	Mesa Jail 	County Jail 	FM 	Law Talk 
-154.05500 	WNQN382 	BM		MESA AN CTL 	County Animal Control 	FM 	Public Works 
-154.10000 	KAX779 	BM	131.8 PL	Mesa Roads 	County Road Dept 	FM 	Transportation 
-452.32500 	 	RM	CC 1TG *SL 1	GVT Bus Routes 	Grand Valley Transit - Bus Routes 	DMR 	Transportation 
-452.32500 	 	RM	CC 1TG *SL 2	GVT Para/Supv 	Grand Valley Transit - ParaTranist/Supervisors 	DMR 	Transportation 
-151.83500 	 		123.0 PL	DIST 51 BUS 	District 51 School Busses 	FM 	Schools 
-153.44000 	 		141.3 PL	XCEL ENERGY 	XCEL Energy 	FM 	Utilities 
-154.16000 	KNGZ317 	RM	162.2 PL	Clifton FD T 	Fire Tac 	FM 	Fire-Tac 
-153.41000 	KSE432 		123.0 PL	CliftonWater 	Water Department 	FM 	Public Works 
-153.90500 	WNPK343 	RM	100.0 PL	Dbque FD Tac 	Marshal / Fire Tactical 	FMN 	Fire-Tac 
-452.97500 	WNMK337 	F		Dbque PW DAT 	Public Works Telemetry 	FM 	Public Works 
-158.83500 	WXK697 	BM	141.3 PL	FruitaPDTac 	Police Tac 	FM 	Law Tac 
-158.83500 	WXK697 	BM	141.3 PL	Fruita Town 	Town Services 	FM 	Public Works 
-156.01500 	 	M	88.5 PL	GladePark FD 	Fireground 	FMN 	Fire-Tac 
-154.44500 	KNIE337 	BM	146.2 PL	GJ FIRE-A 	Fire-A Valley Dispatch 	FM 	Fire Dispatch 
-154.40000 	KNIE337 	BM	173.8 PL	GJ FIRE-B 	Fire-B Rural Dispatch 	FM 	Fire Dispatch 
-151.10750 	WPSI315 	RM	146.2 PL	GJ FIRE-C 	Fireground 	FM 	Fire-Tac 
-153.74000 	WPRF842 	BM	127.3 PL	GJ PUB WORKS 	Grand Junction Public Works 	FM 	Public Works 
-151.20500 	WPMX356 	BM	131.8 PL	MESA COLLEGE 	Mesa State College 	FM 	Schools 
-453.57500 	WPXJ578 	BM	127.3 PL	2 RIVERS CC 	Two Rivers Convention Center 	FM 	Business 
-854.98750 	WQLX610 	BM	136.5 PL	KGJT CH-1 	Grand Junction Regional Airport Channel-1 	FM 	Business 
-855.98750 	WQLX610 	BM	136.5 PL	KGJT CH-2 	Grand Junction Regional Airport Channel-2 	FM 	Business 
-453.32500 	WPQE745 	RM	136.5 PL	WALKER AA 	Walker Field Airport Authority 	FM 	Business 
-155.78250 	WQGJ679 	RM		WALKER AA 	Walker Field Airport Authority 	FM 	Business 
-122.70000 	 	M		CAREFLT PAD 	St. Mary's Careflight - Primary/Pad 	AM 	EMS Dispatch 
-123.02500 	 	M		CAREFLT GND 	St. Mary's Careflight - Secondary/Ground & Air-to-Air 	AM 	EMS-Tac 
-155.34000 	KAQ521 	BM		CAREFLT PAGE 	St. Mary's Careflight - Paging 	FM 	Hospital 
-463.17500 	WNNV614 	BM	141.3 PL	MED-8 	St. Mary's Hospital (including Careflight) 	FM 	EMS-Tac 
-464.40000 	WNPA523 	BM	127.3 PL	STMRYHSP SEC 	St. Mary's Hospital Security (HSS Security) 	FM 	Security 
-151.02500 	WPXZ742 	RM	167.9 PL	PalasdePD/FD 	Palisade Police & Fire Tactical 	FMN 	Multi-Tac 
-154.23500 	WQAN957 	BM		PalasadeFire 	Palisade FD Fireground 	FMN 	Fire-Tac 
-155.10000 	KTL540 	BM	CSQ	PalasideCity 	City Services 	FMN 	Public Works 
-154.19000 	WPJR479 	BM	146.2 PL	C ORCHARD FD 	Central Orchard Fire Protection District 	FM 	Fire Dispatch 
-155.55000 	WPWZ982 	RM	114.8 PL	LNDS END TAC 	Lands End Fire Protection District 	FM 	Fire-Tac 
-154.82250 	WQLI890 	BM	146.2 PL	LOW VALY TAC 	Lower Valley Fire Protection District TAC 	FM 	Fire-Tac 
-154.41500 	WNMT211 	RM	131.8 PL	PLTU VLY TAC 	Plateau Valley Fire Tac 	FM 	Fire-Tac 
-Mountain  Communications and Electronics (DMR Tier III)	 DMR Tier 3	 COS & Denver Metro, I-70 	Mountain Communications and Electronics	 DMR Motorola Connect Plus (TRBO)	 COS & Denver Metro, I-70 	Two Way Communications	 LTR Standard
- Palisade Point	Two Way Communications NXDN	 NXDN NEXEDGE 4800	 Multiple	
+462.95000 	467.95000  	WNLV232 	BM	141.3 PL	Mesa EMS 	EMS 	FM 	EMS Dispatch 
+155.22000 	   	KSM888 	BM		Mesa Search 	Search and Rescue 	FM 	Emergency Ops 
+155.62500 	159.10500  	WNUF770 	BM	141.3 PL	Mesa Jail 	County Jail 	FM 	Law Talk 
+154.05500 	   	WNQN382 	BM		MESA AN CTL 	County Animal Control 	FM 	Public Works 
+154.10000 	153.80000  	KAX779 	BM	131.8 PL	Mesa Roads 	County Road Dept 	FM 	Transportation 
+452.32500 	457.32500  	 	RM	CC 1TG *SL 1	GVT Bus Routes 	Grand Valley Transit - Bus Routes 	DMR 	Transportation 
+452.32500 	457.32500  	 	RM	CC 1TG *SL 2	GVT Para/Supv 	Grand Valley Transit - ParaTranist/Supervisors 	DMR 	Transportation 
+151.83500 	   	 		123.0 PL	DIST 51 BUS 	District 51 School Busses 	FM 	Schools 
+153.44000 	   	 		141.3 PL	XCEL ENERGY 	XCEL Energy 	FM 	Utilities 
+154.16000 	150.77500  	KNGZ317 	RM	162.2 PL	Clifton FD T 	Fire Tac 	FM 	Fire-Tac 
+153.41000 	159.73500  	KSE432 		123.0 PL	CliftonWater 	Water Department 	FM 	Public Works 
+153.90500 	155.98500  	WNPK343 	RM	100.0 PL	Dbque FD Tac 	Marshal / Fire Tactical 	FMN 	Fire-Tac 
+452.97500 	   	WNMK337 	F		Dbque PW DAT 	Public Works Telemetry 	FM 	Public Works 
+158.83500 	   	WXK697 	BM	141.3 PL	FruitaPDTac 	Police Tac 	FM 	Law Tac 
+158.83500 	154.04000  	WXK697 	BM	141.3 PL	Fruita Town 	Town Services 	FM 	Public Works 
+156.01500 	   	 	M	88.5 PL	GladePark FD 	Fireground 	FMN 	Fire-Tac 
+154.44500 	154.01000  	KNIE337 	BM	146.2 PL	GJ FIRE-A 	Fire-A Valley Dispatch 	FM 	Fire Dispatch 
+154.40000 	153.95000  	KNIE337 	BM	173.8 PL	GJ FIRE-B 	Fire-B Rural Dispatch 	FM 	Fire Dispatch 
+151.10750 	155.93250  	WPSI315 	RM	146.2 PL	GJ FIRE-C 	Fireground 	FM 	Fire-Tac 
+153.74000 	158.97000  	WPRF842 	BM	127.3 PL	GJ PUB WORKS 	Grand Junction Public Works 	FM 	Public Works 
+151.20500 	   	WPMX356 	BM	131.8 PL	MESA COLLEGE 	Mesa State College 	FM 	Schools 
+453.57500 	   	WPXJ578 	BM	127.3 PL	2 RIVERS CC 	Two Rivers Convention Center 	FM 	Business 
+854.98750 	809.98750  	WQLX610 	BM	136.5 PL	KGJT CH-1 	Grand Junction Regional Airport Channel-1 	FM 	Business 
+855.98750 	810.98750  	WQLX610 	BM	136.5 PL	KGJT CH-2 	Grand Junction Regional Airport Channel-2 	FM 	Business 
+453.32500 	458.32500  	WPQE745 	RM	136.5 PL	WALKER AA 	Walker Field Airport Authority 	FM 	Business 
+155.78250 	159.06750  	WQGJ679 	RM		WALKER AA 	Walker Field Airport Authority 	FM 	Business 
+122.70000 	   	 	M		CAREFLT PAD 	St. Mary's Careflight - Primary/Pad 	AM 	EMS Dispatch 
+123.02500 	   	 	M		CAREFLT GND 	St. Mary's Careflight - Secondary/Ground & Air-to-Air 	AM 	EMS-Tac 
+155.34000 	   	KAQ521 	BM		CAREFLT PAGE 	St. Mary's Careflight - Paging 	FM 	Hospital 
+463.17500 	468.17500  	WNNV614 	BM	141.3 PL	MED-8 	St. Mary's Hospital (including Careflight) 	FM 	EMS-Tac 
+464.40000 	469.40000  	WNPA523 	BM	127.3 PL	STMRYHSP SEC 	St. Mary's Hospital Security (HSS Security) 	FM 	Security 
+151.02500 	156.10500  	WPXZ742 	RM	167.9 PL	PalasdePD/FD 	Palisade Police & Fire Tactical 	FMN 	Multi-Tac 
+154.23500 	   	WQAN957 	BM		PalasadeFire 	Palisade FD Fireground 	FMN 	Fire-Tac 
+155.10000 	   	KTL540 	BM	CSQ	PalasideCity 	City Services 	FMN 	Public Works 
+154.19000 	150.80500  	WPJR479 	BM	146.2 PL	C ORCHARD FD 	Central Orchard Fire Protection District 	FM 	Fire Dispatch 
+155.55000 	159.28500  	WPWZ982 	RM	114.8 PL	LNDS END TAC 	Lands End Fire Protection District 	FM 	Fire-Tac 
+154.82250 	159.03750  	WQLI890 	BM	146.2 PL	LOW VALY TAC 	Lower Valley Fire Protection District TAC 	FM 	Fire-Tac 
+154.41500 	153.89000  	WNMT211 	RM	131.8 PL	PLTU VLY TAC 	Plateau Valley Fire Tac 	FM 	Fire-Tac 
+Mountain  Communications and Electronics (DMR Tier III)	 DMR Tier 3	 North Central CO	Mountain Communications and Electronics	 DMR Motorola Connect Plus (TRBO)	 COS & Denver Metro, I-70 	Two Way Communications	 LTR Standard	 Palisade Point
+Two Way Communications NXDN	 NXDN NEXEDGE 4800	 Multiple	

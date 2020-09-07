@@ -1,48 +1,47 @@
-155.34000 	Various 	BM	131.8 PL	COUNTYWIDE-HEAR 	Countywide Emergency Rooms *ALL Hospitals* 	FMN 	Hospital 
-151.31000 	WPVC268 	RM	205 DPL	LIFENET-EMS-CH1 	Lifenet EMS Primary *Hot Springs Repeater* 	FMN 	EMS Dispatch 
-152.36750 	WQCR613 	RM	205 DPL	LIFENET-EMS-CH2 	Lifenet EMS Secondary *Hot Springs Village Repeater* 	FMN 	EMS Dispatch 
-152.95250 	WQBX214 	RM	311 DPL	BUCKVILLE-VFD 1 	Buckville Volunteer Fire Department Backup 1 	FMN 	Fire-Tac 
-158.75250 	WPZV760 	RM		BUCKVILLE-VFD 2 	Buckville Volunteer Fire Department Backup 2 	FMN 	Fire-Tac 
-154.23500 	WPZP204 	RM	141.3 PL	FNTN-LAKE FD 	Fountain Lake Fire Department Backup 	FMN 	Fire-Tac 
-154.41500 	KUI665 	RM	346 DPL	HIGHWAY-70-W FD 	Highway 70 West Fire Department Backup 	FMN 	Fire-Tac 
-155.07000 	WPNU642 	RM	151.4 PL	JESSIEVILLE FD 1 	Jessieville Fire Department Primary Backup 	FMN 	Fire-Tac 
-151.54250 	WQJX614 	RM	156 DPL	JESSIEVILLE FD 2 	Jessieville Fire Department Secondary Backup 	FMN 	Fire-Tac 
-154.44500 	KTR614 	RM	205 DPL	LAKE HAMILTON FD 	Lake Hamilton Fire Department Backup 	FMN 	Fire-Tac 
-151.16000 	WNCD274 	RM		LONSDALE VFD 1 	Lonsdale Volunteer Fire Department - Backup 	FMN 	Fire-Tac 
-154.40000 	WNCD274 	BM		LONSDALE VFD FG 	Lonsdale Volunteer Fire Department - Fireground Backup 	FMN 	Fire-Tac 
-154.26500 	KNIK462 	RM	107.2 PL	MORNING STAR FD 	Morning Star Fire Department Backup 	FMN 	Fire-Tac 
-151.14500 	WPXZ936 	RM	311 DPL	PINEY FD OPS 	Piney Fire Department Backup 	FMN 	Fire-Tac 
-154.22000 	WNSL462 	RM	136.5 PL	GCOEM-MUTAID 	Office of Emergency Management - Mutual Aid Backup 	FMN 	Emergency Ops 
-155.44500 	WNUN898 	RM	94.8 PL	GCSO-SOUTH/MPPD 	Sheriff - Backup Dispatch for AWIN & Mountain Pine Police 	FMN 	Law Dispatch 
-155.04000 	WPME983 	RM	141.3 PL	GCSO-CH5-JAIL 	Sheriff - County Jail VHF 	FMN 	Corrections 
-453.62500 	KWQ594 	RM	173.8 PL	GCDPW-ROADS 	County Road Dept. Backup 	FMN 	Public Works 
-855.71250 	WQUV833 	RM		GCDC 1 	Garland County Detention Center 	FM 	Corrections 
-856.23750 	WQUV833 	RM		GCDC 2 	Garland County Detention Center 	FM 	Corrections 
-857.96250 	WQUV833 	RM		GCDC 3 	Garland County Detention Center 	FM 	Corrections 
-858.96250 	WQUV833 	RM		GCDC 4 	Garland County Detention Center 	FM 	Corrections 
-453.55000 	WPCM200 	RM	032 DPL	HSFD-DISP 	Fire - Dispatch 	FMN 	Fire Dispatch 
-453.37500 	WPCM200 	RM	047 DPL	HSFD-TAC 1 	Fire - Tactical 1 	FMN 	Fire-Tac 
-453.32500 	WPCM200 	RM	132 DPL	HSFD-TAC 2 	Fire - Tactical 2 	FMN 	Fire-Tac 
-453.13750 	WQBA889 	M		HSFD MOBX1 	Fire - Mobile Extender 1 	FMN 	Fire-Tac 
-453.91250 	WQBA889 	M		HSFD MOBX2 	Fire - Mobile Extender 2 	FMN 	Fire-Tac 
-151.04000 	KYY956 	RM	82.5 PL	HS STREETS 	Street Dept. 	FMN 	Public Works 
-155.88000 	KSK968 	RM	351 DPL	HS SANIT 	Sanitation Dept. 	FMN 	Public Works 
-155.84250 	WXY227 	RM	155 DPL	HSAC-1 	Animal Control *Also on GCSO, & Hot Springs TRS* 	FMN 	Law Tac 
-156.00000 	WXY227 	BM		HSAC-2 	Animal Control Tactical 	FMN 	Law Tac 
-158.82000 	WNFM812 	BM	82.5 PL	HS PARKS 	Parks Department Operations 	FMN 	Public Works 
-453.47500 	WPBU574 	RM	606 DPL	HSAC-OPS 	Housing Authority *Expired* 	FM 	Public Works 
-453.67500 	WNBZ925 	RM		HS-OPS 	Operations 	FMN 	Public Works 
-453.77500 	KNCG394 	BM		HS-OPS 	Operations 	FMN 	Public Works 
-854.43750 	WNEC236 	RM	411 DPL	HSPD-BU 	Police Back Up  *Leased repeater from C and W SMR * 	FM 	Law Tac 
-154.43000 	WZC533 	RM	CC 3TG 15SL 1	HSVFD DISP DMR 	Fire Digital 	DMRE 	Fire Dispatch 
-154.43000 	WZC533 	RM	82.5 PL	HSVFD-DISP 	Fire 	FMN 	Fire Dispatch 
-153.86000 	KAA945 	RM	031 DPL	HSVPD-DISP 	Police 	FMN 	Law Dispatch 
-155.77500 	WPWA427 	RM	023 DPL	HSV-DPW 	DPW 	FMN 	Public Works 
-155.62500 	WQGJ912 	RM	612 DPL	DPD-DISPATCH 	Police - Dispatch 	FMN 	Law Dispatch 
-155.71500 	WPWL665 	RM	031 DPL	DPD-TAC 	Police - Secondary 	FMN 	Law Tac 
-155.71500 	WPWL665 	RM	125 DPL	DMNDHD-DPW 	Maintenace Ops 	FMN 	Public Works 
-154.98000 	WPNS387 	RM	364 DPL	MPPD-TACTICAL 	Police - Tactical  	FMN 	Law Tac 
-155.71500 	WPWW370 	RM	226 DPL	MPFD-BACKUP 	Fire - Backup 	FMN 	Fire-Tac 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	C and W Communications (Hot Springs)	 Motorola Type IIi Hybrid
- Hot Springs	Entergy 	 Project 25 Phase II	 Various	Hot Springs	 Motorola Type II Smartnet	 Hot Springs	Hot Springs Public Safety
- Project 25 Phase II	 Hot Springs	
+155.34000 	   	Various 	BM	131.8 PL	COUNTYWIDE-HEAR 	Countywide Emergency Rooms *ALL Hospitals* 	FMN 	Hospital 
+151.31000 	150.79000  	WPVC268 	RM	205 DPL	LIFENET-EMS-CH1 	Lifenet EMS Primary *Hot Springs Repeater* 	FMN 	EMS Dispatch 
+152.36750 	157.62750  	WQCR613 	RM	205 DPL	LIFENET-EMS-CH2 	Lifenet EMS Secondary *Hot Springs Village Repeater* 	FMN 	EMS Dispatch 
+152.95250 	160.04250  	WQBX214 	RM	311 DPL	BUCKVILLE-VFD 1 	Buckville Volunteer Fire Department Backup 1 	FMN 	Fire-Tac 
+158.75250 	153.97250  	WPZV760 	RM		BUCKVILLE-VFD 2 	Buckville Volunteer Fire Department Backup 2 	FMN 	Fire-Tac 
+154.23500 	158.86500  	WPZP204 	RM	141.3 PL	FNTN-LAKE FD 	Fountain Lake Fire Department Backup 	FMN 	Fire-Tac 
+154.41500 	154.01000  	KUI665 	RM	346 DPL	HIGHWAY-70-W FD 	Highway 70 West Fire Department Backup 	FMN 	Fire-Tac 
+155.07000 	153.99500  	WPNU642 	RM	151.4 PL	JESSIEVILLE FD 1 	Jessieville Fire Department Primary Backup 	FMN 	Fire-Tac 
+151.54250 	159.87750  	WQJX614 	RM	156 DPL	JESSIEVILLE FD 2 	Jessieville Fire Department Secondary Backup 	FMN 	Fire-Tac 
+154.44500 	159.04500  	KTR614 	RM	205 DPL	LAKE HAMILTON FD 	Lake Hamilton Fire Department Backup 	FMN 	Fire-Tac 
+151.16000 	153.75500  	WNCD274 	RM		LONSDALE VFD 1 	Lonsdale Volunteer Fire Department - Backup 	FMN 	Fire-Tac 
+154.40000 	   	WNCD274 	BM		LONSDALE VFD FG 	Lonsdale Volunteer Fire Department - Fireground Backup 	FMN 	Fire-Tac 
+154.26500 	159.75000  	KNIK462 	RM	107.2 PL	MORNING STAR FD 	Morning Star Fire Department Backup 	FMN 	Fire-Tac 
+151.14500 	155.37000  	WPXZ936 	RM	311 DPL	PINEY FD OPS 	Piney Fire Department Backup 	FMN 	Fire-Tac 
+154.22000 	159.13500  	WNSL462 	RM	136.5 PL	GCOEM-MUTAID 	Office of Emergency Management - Mutual Aid Backup 	FMN 	Emergency Ops 
+155.44500 	159.07500  	WNUN898 	RM	94.8 PL	GCSO-SOUTH/MPPD 	Sheriff - Backup Dispatch for AWIN & Mountain Pine Police 	FMN 	Law Dispatch 
+155.04000 	159.03000  	WPME983 	RM	141.3 PL	GCSO-CH5-JAIL 	Sheriff - County Jail VHF 	FMN 	Corrections 
+453.62500 	458.62500  	KWQ594 	RM	173.8 PL	GCDPW-ROADS 	County Road Dept. Backup 	FMN 	Public Works 
+855.71250 	810.71250  	WQUV833 	RM		GCDC 1 	Garland County Detention Center 	FM 	Corrections 
+856.23750 	811.23750  	WQUV833 	RM		GCDC 2 	Garland County Detention Center 	FM 	Corrections 
+857.96250 	812.96250  	WQUV833 	RM		GCDC 3 	Garland County Detention Center 	FM 	Corrections 
+858.96250 	813.96250  	WQUV833 	RM		GCDC 4 	Garland County Detention Center 	FM 	Corrections 
+453.55000 	458.55000  	WPCM200 	RM	032 DPL	HSFD-DISP 	Fire - Dispatch 	FMN 	Fire Dispatch 
+453.37500 	458.37500  	WPCM200 	RM	047 DPL	HSFD-TAC 1 	Fire - Tactical 1 	FMN 	Fire-Tac 
+453.32500 	458.32500  	WPCM200 	RM	132 DPL	HSFD-TAC 2 	Fire - Tactical 2 	FMN 	Fire-Tac 
+453.13750 	458.13750  	WQBA889 	M		HSFD MOBX1 	Fire - Mobile Extender 1 	FMN 	Fire-Tac 
+453.91250 	458.91250  	WQBA889 	M		HSFD MOBX2 	Fire - Mobile Extender 2 	FMN 	Fire-Tac 
+151.04000 	159.18000  	KYY956 	RM	82.5 PL	HS STREETS 	Street Dept. 	FMN 	Public Works 
+155.88000 	158.73000  	KSK968 	RM	351 DPL	HS SANIT 	Sanitation Dept. 	FMN 	Public Works 
+155.84250 	158.90250  	WXY227 	RM	155 DPL	HSAC-1 	Animal Control *Also on GCSO, & Hot Springs TRS* 	FMN 	Law Tac 
+156.00000 	   	WXY227 	BM		HSAC-2 	Animal Control Tactical 	FMN 	Law Tac 
+158.82000 	   	WNFM812 	BM	82.5 PL	HS PARKS 	Parks Department Operations 	FMN 	Public Works 
+453.47500 	458.47500  	WPBU574 	RM	606 DPL	HSAC-OPS 	Housing Authority *Expired* 	FM 	Public Works 
+453.67500 	458.67500  	WNBZ925 	RM		HS-OPS 	Operations 	FMN 	Public Works 
+453.77500 	   	KNCG394 	BM		HS-OPS 	Operations 	FMN 	Public Works 
+854.43750 	   	WNEC236 	RM	411 DPL	HSPD-BU 	Police Back Up  *Leased repeater from C and W SMR * 	FM 	Law Tac 
+154.43000 	158.95500  	WZC533 	RM	CC 3TG 15SL 1	HSVFD DISP DMR 	Fire Digital 	DMRE 	Fire Dispatch 
+154.43000 	153.95000  	WZC533 	RM	82.5 PL	HSVFD-DISP 	Fire 	FMN 	Fire Dispatch 
+153.86000 	155.86500  	KAA945 	RM	031 DPL	HSVPD-DISP 	Police 	FMN 	Law Dispatch 
+155.77500 	154.72500  	WPWA427 	RM	023 DPL	HSV-DPW 	DPW 	FMN 	Public Works 
+155.62500 	159.15750  	WQGJ912 	RM	612 DPL	DPD-DISPATCH 	Police - Dispatch 	FMN 	Law Dispatch 
+155.71500 	153.93500  	WPWL665 	RM	031 DPL	DPD-TAC 	Police - Secondary 	FMN 	Law Tac 
+155.71500 	153.93500  	WPWL665 	RM	125 DPL	DMNDHD-DPW 	Maintenace Ops 	FMN 	Public Works 
+154.98000 	156.09000  	WPNS387 	RM	364 DPL	MPPD-TACTICAL 	Police - Tactical  	FMN 	Law Tac 
+155.71500 	153.93500  	WPWW370 	RM	226 DPL	MPFD-BACKUP 	Fire - Backup 	FMN 	Fire-Tac 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	C and W Communications (Hot Springs)	 Motorola Type IIi Hybrid	 Hot Springs
+Entergy 	 Project 25 Phase II	 Various	Hot Springs	 Motorola Type II Smartnet	 Hot Springs	Hot Springs Public Safety	 Project 25 Phase II	 Hot Springs

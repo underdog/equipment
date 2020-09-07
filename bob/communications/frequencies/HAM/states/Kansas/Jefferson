@@ -1,22 +1,22 @@
-154.84500 	WNQN694 	RM	100.0 PL	Jefferson Co SO 	Sheriff (Dispatch before KSICS) 	FMN 	Law Dispatch 
-154.87500 	WNQN694 	BM	114.8 PL	Jefferson Co SO3 	Sheriff 3 (Tactical before KSICS) 	FMN 	Law Tac 
-154.65750 	WQFD498 	RM		JeffCoComndPost 	Public Safety Command Post 	FMN 	Multi-Tac 
-158.85750 	WQFD498 	RM		JeffCo PubSafety 	Public Safety 	FMN 	Multi-Talk 
-158.82000 	WNDY292 	RM	100.0 PL	Jefferson Co FD 	Fire and EMS Dispatch 	FMN 	Fire Dispatch 
-155.68500 	WPME270 	BM	100.0 PL	Jefferson Co EM 	Emergency Management 	FMN 	Emergency Ops 
-153.95000 	KA87133 	M	CSQ	JeffersnCoFDTac1 	Fire District  1 -- Kaw Township 	FMN 	Fire-Tac 
-151.20500 	WQDA251 	BM	100.0 PL	JeffersnCoFDTac3 	Fire District 3 -- Williamstown 	FMN 	Fire-Tac 
-156.20250 	WQGA285 	BM	100.0 PL	JeffersnCoFDTac4 	Fire District 4 	FMN 	Fire-Tac 
-154.32500 	WQG931 	RM	100.0 PL	JeffersnCoFDTac5 	Fire District 5 	FMN 	Fire-Tac 
-154.37000 	WPYH297 	RM	100.0 PL	JeffersnCoFDTac6 	Fire District 6 -- Fairview 	FMN 	Fire-Tac 
-154.23500 	WQBC946 	BM	100.0 PL	JeffersnCoFDTac7 	Fire District 7 -- Ozwakie 	FMN 	Fire-Tac 
-154.14500 	KNNT802 	BM	100.0 PL	JeffersnCoFDTac8 	Fire District 8 -- Oskaloosa 	FMN 	Fire-Tac 
-154.08500 	WPGV990 	RM	100.0 PL	JeffersnCoFDTac9 	Fire District 9 -- McLouth 	FMN 	Fire-Tac 
-155.74500 	WNPM588 	BM	100.0 PL	JeffrsnCoFDTac10 	Fire District  10 -- Winchester 	FMN 	Fire-Tac 
-154.73250 	WNPM588 	RM	110.9 PL	JeffrsnCoFDTac10 	Fire District 10 -- Winchester 	FMN 	Fire-Tac 
-154.44500 	WPGF978 	RM	100.0 PL	Valley Falls FD 	Fire District 11 -- Valley Falls 	FMN 	Fire-Tac 
-154.17500 	WPGF978 	BM	100.0 PL	JeffrsnCoFDTac11 	Fire District  11 -- Valley Falls 	FMN 	Fire-Tac 
-154.22000 	WQHB600 	BM	100.0 PL	JeffrsnCoFDTac12 	Fire District 12 -- Norton Township 	FMN 	Fire-Tac 
-453.55000 	KNDG265 	RM	100.0 PL	JeffersonCoRoads 	Highway Maintenance 	FMN 	Public Works 
-151.16750 	WQFC320 	RM	79.7 PL	Oskaloosa Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-Kansas Statewide Interoperable Communication System (KSICS)	 Project 25 Phase I	 Statewide	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	
+154.84500 	156.03000  	WNQN694 	RM	100.0 PL	Jefferson Co SO 	Sheriff (Dispatch before KSICS) 	FMN 	Law Dispatch 
+154.87500 	   	WNQN694 	BM	114.8 PL	Jefferson Co SO3 	Sheriff 3 (Tactical before KSICS) 	FMN 	Law Tac 
+154.65750 	159.33750  	WQFD498 	RM		JeffCoComndPost 	Public Safety Command Post 	FMN 	Multi-Tac 
+158.85750 	153.80750  	WQFD498 	RM		JeffCo PubSafety 	Public Safety 	FMN 	Multi-Talk 
+158.82000 	153.98000  	WNDY292 	RM	100.0 PL	Jefferson Co FD 	Fire and EMS Dispatch 	FMN 	Fire Dispatch 
+155.68500 	   	WPME270 	BM	100.0 PL	Jefferson Co EM 	Emergency Management 	FMN 	Emergency Ops 
+153.95000 	   	KA87133 	M	CSQ	JeffersnCoFDTac1 	Fire District  1 -- Kaw Township 	FMN 	Fire-Tac 
+151.20500 	   	WQDA251 	BM	100.0 PL	JeffersnCoFDTac3 	Fire District 3 -- Williamstown 	FMN 	Fire-Tac 
+156.20250 	   	WQGA285 	BM	100.0 PL	JeffersnCoFDTac4 	Fire District 4 	FMN 	Fire-Tac 
+154.32500 	153.89000  	WQG931 	RM	100.0 PL	JeffersnCoFDTac5 	Fire District 5 	FMN 	Fire-Tac 
+154.37000 	159.00000  	WPYH297 	RM	100.0 PL	JeffersnCoFDTac6 	Fire District 6 -- Fairview 	FMN 	Fire-Tac 
+154.23500 	   	WQBC946 	BM	100.0 PL	JeffersnCoFDTac7 	Fire District 7 -- Ozwakie 	FMN 	Fire-Tac 
+154.14500 	   	KNNT802 	BM	100.0 PL	JeffersnCoFDTac8 	Fire District 8 -- Oskaloosa 	FMN 	Fire-Tac 
+154.08500 	158.92500  	WPGV990 	RM	100.0 PL	JeffersnCoFDTac9 	Fire District 9 -- McLouth 	FMN 	Fire-Tac 
+155.74500 	   	WNPM588 	BM	100.0 PL	JeffrsnCoFDTac10 	Fire District  10 -- Winchester 	FMN 	Fire-Tac 
+154.73250 	   	WNPM588 	RM	110.9 PL	JeffrsnCoFDTac10 	Fire District 10 -- Winchester 	FMN 	Fire-Tac 
+154.44500 	154.01000  	WPGF978 	RM	100.0 PL	Valley Falls FD 	Fire District 11 -- Valley Falls 	FMN 	Fire-Tac 
+154.17500 	   	WPGF978 	BM	100.0 PL	JeffrsnCoFDTac11 	Fire District  11 -- Valley Falls 	FMN 	Fire-Tac 
+154.22000 	   	WQHB600 	BM	100.0 PL	JeffrsnCoFDTac12 	Fire District 12 -- Norton Township 	FMN 	Fire-Tac 
+453.55000 	458.55000  	KNDG265 	RM	100.0 PL	JeffersonCoRoads 	Highway Maintenance 	FMN 	Public Works 
+151.16750 	153.85250  	WQFC320 	RM	79.7 PL	Oskaloosa Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	

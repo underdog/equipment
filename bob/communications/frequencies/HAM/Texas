@@ -29,7 +29,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 443.00000,448.00000,114.8 PL,,KE5AMB,KE5AMB Open Repeater - Dale/Flag Hill,Bastrop
 443.17500,448.17500,114.8 PL,,WB6ARE,WB6ARE Open Repeater - Bastrop,Bastrop
 444.30000,449.30000,203.5 PL,,WB5UGT,WB5UGT Open Repeater - Bastrop,Bastrop
-444.92500,0.00000,192.8 PL,,,Baylor County,Baylor
+147.10000,147.70000,192.8 PL,,KC5NJP,KC5NJP Repeater, Baylor County,Baylor
+444.92500,449.92500,192.8 PL,,N5LEZ,N5LEZ Repeater, Baylor County,Baylor
 145.71500,0.00000,100.0 PL,,K5DJS,IRLP/Echolink - Beeville Simplex,Bee
 147.30000,147.90000,103.5 PL,103.5 PL,WD5IEH,Beeville Main (2824 tower),Bee
 444.70000,449.70000,,,W5DTW,Beeville (2824 tower),Bee
@@ -138,6 +139,7 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 444.85000,449.85000,192.8 PL,192.8 PL,KA5WLR,Henrietta (Skywarn),Clay
 146.74000,146.14000,110.9 PL,,W5MRC,Collin Co ARES (Secondary),Collin
 147.18000,147.78000,107.2 PL,,WD5ERD,Collin Co ARES (Primary),Collin
+440.35000,445.35000,110.9 PL,,W5SRA,Sachse Amateur Radio Association ,Collin
 442.80000,0.00000,,,,North Central Texas Connection Richardson (ARES to NWS FTW) ,Collin
 444.17500,0.00000,110.9 PL,,,North Central Texas Connection Plano (ARES to NWS FTW) ,Collin
 444.25000,449.25000,79.7 PL,,K5PRK,Collin ARES Command Channel,Collin

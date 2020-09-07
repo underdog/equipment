@@ -1,39 +1,39 @@
-154.31000 	KIQ248 	RM	136.5 PL	SC Fire Dispatch 	Fire Dispatch (includes Albemarle) 	FM 	Fire Dispatch 
-154.11500 	KFV801 	BM	136.5 PL	SC Fire Tactical 	Fire Tactical 	FM 	Fire-Tac 
-155.37000 	Fire-Tac 	M	136.5 PL	SC Fire Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
-155.62500 	Fire-Tac 	M	136.5 PL	SC Fire Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
-154.28000 	KIV675 	BM	103.5 PL	State Fire 	Fire Statewide 	FM 	Fire-Tac 
-155.04000 	WYR621 	RM	136.5 PL	SC EMS Disp 	EMS Dispatch 	FM 	EMS Dispatch 
-155.22000 	WYR621 	BM	136.5 PL	SC EMS Tactical 	EMS Tactical 	FM 	EMS-Tac 
-155.34000 	KUJ508 	BM	136.5 PL	SC EMS-Hospital 	EMS to Hospital 	FM 	EMS-Tac 
-155.16000 	WPCH933 	BM		SC Rescue Tac 	Rescue Tactical 	FM 	EMS-Tac 
-155.28000 	KUJ508 	BM	136.5 PL	Stwd Rescue 	Rescue Statewide 	FM 	EMS-Tac 
-453.32500 	KDE760 	RM	100.0 PL	Sher/Small PD 	Sheriff & Small Town Police Dispatch 	FM 	Law Tac 
-453.56250 	WPRI686 	F		SCSO Tactical 	Sheriff Tactical 	FM 	Law Tac 
-453.70000 	KDE760 	M	114.8 PL	SC LE M/A 	Law Enforcement Mutual Aid 	FM 	Law Talk 
-46.04000 	KNIC735 	B		SC EM 46.04 	Emergency Management 	FM 	Emergency Ops 
-47.50000 	KNIC735 	BM		SC EM 47.5 	Emergency Management 	FM 	Emergency Ops 
-47.58000 	KNIC735 	BM		SC EM 47.58 	Emergency Management 	FM 	Emergency Ops 
-46.00000 	KKV871 	BM		SC Svcs 46.0 	Services 	FM 	Public Works 
-155.74500 	KVF707 	BM		SC Svcs 155.745 	Services 	FM 	Public Works 
-769.00625 	 	M	CSQ	StanlyFDTac1 	Fire/EMS Tactical 1/Talk-Around 	FMN 	Fire-Tac 
-769.01875 	 	M	CSQ	StanlyFDTac2 	Fire/EMS Tactical 2/Talk-Around 	FMN 	Fire-Tac 
-769.03125 	 	M	CSQ	StanlyFDTac3 	Fire/EMS Tactical 3/Talk-Around 	FMN 	Fire-Tac 
-769.04375 	 	M	CSQ	StanlyFDTac4 	Fire/EMS Tactical 4/Talk-Around 	FMN 	Fire-Tac 
-770.96250 	 	RM	784 NAC	DVRS Stanly 	Digital Vehicular Repeater System 	P25 	Interop 
-154.19000 	KIV866 	M		EastSideFD 	East Side Fire Department Private 	FM 	Fire-Talk 
-154.35500 	KNFZ488 	RM		RR Fire 	Rocky River Fire Department Private 	FM 	Fire-Talk 
-453.10000 	KP8682 	BM	100.00 PL	Albemarle PD 	Police Dispatch 	FM 	Law Dispatch 
-453.51250 	KRJ855 	RM		Albemarle PD 	Police Tactical 	FM 	Law Tac 
-453.81250 	KRJ855 	BM		APD TAC 	Police Tactical 	FM 	Law Tac 
-153.83000 	KIV675 	M	136.5 PL	Fire Private 	Fire Private 	FM 	Fire-Tac 
-460.27500 	WPRR678 	RM		LPD 	Police 	FM 	Law Dispatch 
-155.31000 	WPPC339 	RM		Locust 	Services 	FM 	Multi-Talk 
-121.75000 	 	BM	CSQ	VUJ Ground/Clear 	Ground/Clearance VHF 	AM 	Aircraft 
-123.00000 	 	BM	CSQ	VUJ Unicom 	Unicom 	AM 	Aircraft 
-126.27500 	 	BM	CSQ	VUJ CTAF/Tower 	CTAF/Tower  	AM 	Aircraft 
-128.75000 	 	BM	CSQ	VUJAWOS 	Automated Weather Observing System (AWOS) 	AM 	Aircraft 
-254.37500 	 	BM	CSQ	VUJ Ground UHF 	Ground UHF 	AM 	Aircraft 
-291.90000 	 	BM	CSQ	VUJ Tower UHF 	Tower UHF 	AM 	Aircraft 
-Charlotte UASI	 Project 25 Phase I	 Charlotte	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	North Carolina VIPER	 Project 25 Phase I
- Varies	Pee Dee Electric	 DMR Motorola Capacity Plus Multi Site (TRBO)	 	Union Power Co-op	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Monroe	
+154.31000 	153.95000  	KIQ248 	RM	136.5 PL	SC Fire Dispatch 	Fire Dispatch (includes Albemarle) 	FM 	Fire Dispatch 
+154.11500 	   	KFV801 	BM	136.5 PL	SC Fire Tactical 	Fire Tactical 	FM 	Fire-Tac 
+155.37000 	   	Fire-Tac 	M	136.5 PL	SC Fire Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
+155.62500 	   	Fire-Tac 	M	136.5 PL	SC Fire Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
+154.28000 	   	KIV675 	BM	103.5 PL	State Fire 	Fire Statewide 	FM 	Fire-Tac 
+155.04000 	   	WYR621 	RM	136.5 PL	SC EMS Disp 	EMS Dispatch 	FM 	EMS Dispatch 
+155.22000 	   	WYR621 	BM	136.5 PL	SC EMS Tactical 	EMS Tactical 	FM 	EMS-Tac 
+155.34000 	   	KUJ508 	BM	136.5 PL	SC EMS-Hospital 	EMS to Hospital 	FM 	EMS-Tac 
+155.16000 	   	WPCH933 	BM		SC Rescue Tac 	Rescue Tactical 	FM 	EMS-Tac 
+155.28000 	   	KUJ508 	BM	136.5 PL	Stwd Rescue 	Rescue Statewide 	FM 	EMS-Tac 
+453.32500 	   	KDE760 	RM	100.0 PL	Sher/Small PD 	Sheriff & Small Town Police Dispatch 	FM 	Law Tac 
+453.56250 	   	WPRI686 	F		SCSO Tactical 	Sheriff Tactical 	FM 	Law Tac 
+453.70000 	   	KDE760 	M	114.8 PL	SC LE M/A 	Law Enforcement Mutual Aid 	FM 	Law Talk 
+46.04000 	   	KNIC735 	B		SC EM 46.04 	Emergency Management 	FM 	Emergency Ops 
+47.50000 	   	KNIC735 	BM		SC EM 47.5 	Emergency Management 	FM 	Emergency Ops 
+47.58000 	   	KNIC735 	BM		SC EM 47.58 	Emergency Management 	FM 	Emergency Ops 
+46.00000 	   	KKV871 	BM		SC Svcs 46.0 	Services 	FM 	Public Works 
+155.74500 	   	KVF707 	BM		SC Svcs 155.745 	Services 	FM 	Public Works 
+769.00625 	   	 	M	CSQ	StanlyFDTac1 	Fire/EMS Tactical 1/Talk-Around 	FMN 	Fire-Tac 
+769.01875 	   	 	M	CSQ	StanlyFDTac2 	Fire/EMS Tactical 2/Talk-Around 	FMN 	Fire-Tac 
+769.03125 	   	 	M	CSQ	StanlyFDTac3 	Fire/EMS Tactical 3/Talk-Around 	FMN 	Fire-Tac 
+769.04375 	   	 	M	CSQ	StanlyFDTac4 	Fire/EMS Tactical 4/Talk-Around 	FMN 	Fire-Tac 
+770.96250 	800.96250  	 	RM	784 NAC	DVRS Stanly 	Digital Vehicular Repeater System 	P25 	Interop 
+154.19000 	   	KIV866 	M		EastSideFD 	East Side Fire Department Private 	FM 	Fire-Talk 
+154.35500 	   	KNFZ488 	RM		RR Fire 	Rocky River Fire Department Private 	FM 	Fire-Talk 
+453.10000 	   	KP8682 	BM	100.00 PL	Albemarle PD 	Police Dispatch 	FM 	Law Dispatch 
+453.51250 	458.51250  	KRJ855 	RM		Albemarle PD 	Police Tactical 	FM 	Law Tac 
+453.81250 	   	KRJ855 	BM		APD TAC 	Police Tactical 	FM 	Law Tac 
+153.83000 	   	KIV675 	M	136.5 PL	Fire Private 	Fire Private 	FM 	Fire-Tac 
+460.27500 	465.27500  	WPRR678 	RM		LPD 	Police 	FM 	Law Dispatch 
+155.31000 	   	WPPC339 	RM		Locust 	Services 	FM 	Multi-Talk 
+121.75000 	   	 	BM	CSQ	VUJ Ground/Clear 	Ground/Clearance VHF 	AM 	Aircraft 
+123.00000 	   	 	BM	CSQ	VUJ Unicom 	Unicom 	AM 	Aircraft 
+126.27500 	   	 	BM	CSQ	VUJ CTAF/Tower 	CTAF/Tower  	AM 	Aircraft 
+128.75000 	   	 	BM	CSQ	VUJAWOS 	Automated Weather Observing System (AWOS) 	AM 	Aircraft 
+254.37500 	   	 	BM	CSQ	VUJ Ground UHF 	Ground UHF 	AM 	Aircraft 
+291.90000 	   	 	BM	CSQ	VUJ Tower UHF 	Tower UHF 	AM 	Aircraft 
+Charlotte UASI	 Project 25 Phase I	 Charlotte	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Pee Dee Electric	 DMR Motorola Capacity Plus Multi Site (TRBO)	 
+Union Power Co-op	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Monroe	

@@ -1,25 +1,24 @@
-151.37750 	KAD303 	RM	162.2 PL	Buch Sh Law1 	Sheriff Law 1 Ops - Dispatch 	FMN 	Law Dispatch 
-154.84500 	KAD303 	BM	127.3 PL	Buch Sh Law2 	Sheriff Law 2 Ops 	FMN 	Law Tac 
-155.52000 	KAD303 	B	162.2 PL	Buch Info-B 	Sheriff Information - Base 	FMN 	Law Tac 
-155.91000 	KAD303 	M	162.2 PL	Buch Info-M 	Sheriff Information - Mobiles 	FMN 	Law Tac 
-154.96500 	WPYN357 	M	162.2 PL	Buch Sh Car 	Sheriff Car-to-Car 	FMN 	Law Talk 
-154.88250 	KAD303 	BM		BuchJailOps 	Jail Ops 	FMN 	Corrections 
-155.49750 	WQMZ813 	B	CSQ	Buch Paging 	Fire/EMS Paging 	FMN 	Fire Dispatch 
-154.19000 	KFV900 	RM	162.2 PL	Buch Fire 1 	Fire 1 Ops 	FMN 	Fire Dispatch 
-154.23500 	KFV900 	BM	162.2 PL	Buch Fire 2 	Fire 2 	FMN 	Fire-Tac 
-154.77750 	KFV900 	BM	162.2 PL	BuchFireTAC1 	Fire TAC 1 	FMN 	Fire-Tac 
-151.30250 	KFV900 	BM	162.2 PL	BuchFireTAC2 	Fire TAC 2 	FMN 	Fire-Tac 
-151.41500 	WQJA776 	RM	127.3 PL	Buchanan EMA 	Emergency Management Repeater 	FMN 	Emergency Ops 
-151.07000 	KUL839 	RM	146.2 PL	Buch Roads 	Road Department 	FMN 	Public Works 
-151.27250 	KAD303 	RM	4F9 NAC	Buch Law Secure 	Law Secure 	P25E 	Law Tac 
-151.58000 	WQEL955 	M		BCHC Maint 	Maintenance 	FM 	Business 
-153.74000 	WNWB609 	M	127.3 PL	FairbankCity 	Public Works / Fire Talk-Around 	FMN 	Public Works 
-153.86000 	WQHL828  	BM	127.3 PL	FairbankCity 	City services 	FMN 	Public Works 
-153.80000 	 	BM		HazletonCity 	City Services 	FMN 	Public Works 
-153.59000 	WNWV454 	BM	127.3 PL	Indy Light 	Light and Power 	FMN 	Public Works 
-155.77500 	KXZ884 	BM	127.3 PL	Indy City 	Services 	FMN 	Public Works 
-151.25000 	WQAX753 	RM	127.3 PL	Jesup ShLink 	Police (Simulcast with 151.3775 MHz) 	FMN 	Law Dispatch 
-155.11500 	WNQH959 	BM	94.8 PL	Jesup City 	City Services 	FMN 	Public Works 
-153.99500 	 	BM	CSQ	Lamont City 	Public Works 	FMN 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	East Central Iowa Rural Electric Cooperative	 DMR Conventional Networked	 	Iowa DMR Users Group	 DMR Conventional Networked
- Various	RACOM Network	 EDACS Networked Standard	 Various	
+151.37750 	159.33000  	KAD303 	RM	162.2 PL	Buch Sh Law1 	Sheriff Law 1 Ops - Dispatch 	FMN 	Law Dispatch 
+154.84500 	   	KAD303 	BM	127.3 PL	Buch Sh Law2 	Sheriff Law 2 Ops 	FMN 	Law Tac 
+155.52000 	   	KAD303 	B	162.2 PL	Buch Info-B 	Sheriff Information - Base 	FMN 	Law Tac 
+155.91000 	   	KAD303 	M	162.2 PL	Buch Info-M 	Sheriff Information - Mobiles 	FMN 	Law Tac 
+154.96500 	   	WPYN357 	M	162.2 PL	Buch Sh Car 	Sheriff Car-to-Car 	FMN 	Law Talk 
+154.88250 	   	KAD303 	BM		BuchJailOps 	Jail Ops 	FMN 	Corrections 
+155.49750 	159.21000  	WQMZ813 	B	CSQ	Buch Paging 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+154.19000 	159.42750  	KFV900 	RM	162.2 PL	Buch Fire 1 	Fire 1 Ops 	FMN 	Fire Dispatch 
+154.23500 	   	KFV900 	BM	162.2 PL	Buch Fire 2 	Fire 2 	FMN 	Fire-Tac 
+154.77750 	   	KFV900 	BM	162.2 PL	BuchFireTAC1 	Fire TAC 1 	FMN 	Fire-Tac 
+151.30250 	   	KFV900 	BM	162.2 PL	BuchFireTAC2 	Fire TAC 2 	FMN 	Fire-Tac 
+151.41500 	159.40500  	WQJA776 	RM	127.3 PL	Buchanan EMA 	Emergency Management Repeater 	FMN 	Emergency Ops 
+151.07000 	159.01500  	KUL839 	RM	146.2 PL	Buch Roads 	Road Department 	FMN 	Public Works 
+151.27250 	   	KAD303 	RM	4F9 NAC	Buch Law Secure 	Law Secure 	P25E 	Law Tac 
+151.58000 	   	WQEL955 	M		BCHC Maint 	Maintenance 	FM 	Business 
+153.74000 	   	WNWB609 	M	127.3 PL	FairbankCity 	Public Works / Fire Talk-Around 	FMN 	Public Works 
+153.86000 	   	WQHL828  	BM	127.3 PL	FairbankCity 	City services 	FMN 	Public Works 
+153.80000 	   	 	BM		HazletonCity 	City Services 	FMN 	Public Works 
+153.59000 	   	WNWV454 	BM	127.3 PL	Indy Light 	Light and Power 	FMN 	Public Works 
+155.77500 	   	KXZ884 	BM	127.3 PL	Indy City 	Services 	FMN 	Public Works 
+151.25000 	159.30000  	WQAX753 	RM	127.3 PL	Jesup ShLink 	Police (Simulcast with 151.3775 MHz) 	FMN 	Law Dispatch 
+155.11500 	   	WNQH959 	BM	94.8 PL	Jesup City 	City Services 	FMN 	Public Works 
+153.99500 	   	 	BM	CSQ	Lamont City 	Public Works 	FMN 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	East Central Iowa Rural Electric Cooperative	 DMR Conventional Networked	 	RACOM Network	 EDACS Networked Standard	 Various

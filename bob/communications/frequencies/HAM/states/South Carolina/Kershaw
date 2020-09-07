@@ -1,38 +1,38 @@
-154.35500 	KQX213 	BM	123.0 PL	KC FD Disp 	Dispatch 	FM 	Fire Dispatch 
-154.34000 	WNDE921 	BM		KC FD Tac 	Tac 	FM 	Fire-Tac 
-158.74500 	KIF820 	BM	146.2 PL	KC FD Ch 3 	Ch 3 	FM 	Fire-Tac 
-153.83000 	WPCG858 	M		Antioch FD 	Antioch FD 	FM 	Fire-Tac 
-155.26500 	KNBS878 	RM	123.0 PL	Buf/MtPis FD 	Buffalo/Mt.Pisgah FD Dispatch 	FM 	Fire Dispatch 
-154.29500 	KQX213 	BM	156.7 PL	Buff/MtPisFD 	Buffalo/Mt.Pisgah FD Tac 	FM 	Fire-Tac 
-851.22500 	 	M	100.0 PL	KC FD FG A 	Fireground A 	FMN 	Fire-Tac 
-851.68750 	 	M	100.0 PL	KC FD FG B 	Fireground B 	FMN 	Fire-Tac 
-852.77500 	 	M	100.0 PL	KC FD FG C 	Fireground C 	FMN 	Fire-Tac 
-853.63750 	 	M	100.0 PL	KC FD FG D 	Fireground D 	FMN 	Fire-Tac 
-853.97500 	 	M	100.0 PL	KC FD FG E 	Fireground E 	FMN 	Fire-Tac 
-155.74500 	KLH985 	RM	156.7 PL	KC EMS Disp 	Kershaw Co. EMS Dispatch 	FM 	EMS Dispatch 
-155.28000 	KLH985 	BM		KC EMS Tac 	Kershaw Co. EMS 	FM 	EMS-Tac 
-155.40000 	KLH985 	BM	156.7 PL	KC EMS KCMC 	Kershaw Co. EMS to KCMC ER 	FM 	Hospital 
-155.34000 	KLH985 	BM	156.7 PL	KC EMS Hosp 	Kershaw Co. EMS HEAR Channel 	FM 	Hospital 
-154.17500 	WPGV658 	M		KC Rescue 	Kershaw Co. Rescue 	FM 	EMS-Tac 
-155.49000 	KEC404 	BM	123.0 PL	KC SD Disp 	Kershaw Co. SD Dispatch 	FM 	Law Dispatch 
-153.78500 	WNXH403 	M		KC SD Talk 	Kershaw Co. SD Talk? 	FM 	Law Tac 
-155.55000 	WYR893 	BM	123.0 PL	KC SD Regnl 	Kershaw Co. SD Regional Mutial Aid 	FM 	Interop 
-155.26500 	KNBS878 	BM	123.0 PL	KC SD Tac 	Kershaw Co. SD (Also used by Buffalo/Mt.Pisgah FD) 	FM 	Law Tac 
-453.67500 	WPVA533 	BM		Keershaw 911 	Kershaw County 911 	FM 	Emergency Ops 
-155.98500 	WNNI651 	RM		KC Govt 	Kershaw, County of 	FM 	Public Works 
-156.21000 	WNNI651 	RM		KC Govt 	Kershaw, County of 	FM 	Public Works 
-158.82000 	KNHR444 	BM	146.2 PL	Camden FD Ds 	Camden FD Dispatch 	FM 	Fire Dispatch 
-154.32500 	KNNF502 	M		Camden FD 	Camden FD 	FM 	Fire-Tac 
-154.14500 	WPAW958 	M	146.2 PL	Camden FD 	Camden FD Ch. 3 	FM 	Fire-Tac 
-155.31000 	KEC404 	BM	123.0 PL	Camden PD Ds 	Camden PD Dispatch 	FM 	Law Dispatch 
-154.95000 	WPBY561 	M	123.0 PL	Camden PD Tc 	Camden PD Tactical 	FM 	Law Tac 
-156.03000 	WYR892 	BM		Camden PD Tc 	Camden PD 	FM 	Law Tac 
-158.82000 	KNHR444 	BM		Camden Gov 	Camden, City of 	FM 	Public Works 
-158.92500 	WNKT523 	BM		Camden Gov 	Camden, City of 	FM 	Public Works 
-153.95000 	WPGU219 	BM	146.2 PL	Lugoff FD Ds 	Lugoff FD Dispatch 	FM 	Fire Dispatch 
-154.44500 	WPGU219 	BM		Lugoff FD 	Lugoff FD 	FM 	Fire-Tac 
-158.23500 	WPHR991 	RM		CassWaterCo 	Casset Water Company 	FM 	Public Works 
-158.77500 	WGM593 	BM		Camden Util 	Camden Utilities 	FM 	Public Works 
-453.25000 	KXZ989 	RM		Lugoff Water 	Lugoff Water 	FM 	Public Works 
-FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	SC Public Service Authority	 Project 25 Phase II	 Various	SCANA/SCE and G	 DMR Tier 3
- Various	Target Distribution Center 594: Lugoff	 LTR Standard	 Lugoff	
+154.35500 	   	KQX213 	BM	123.0 PL	KC FD Disp 	Dispatch 	FM 	Fire Dispatch 
+154.34000 	   	WNDE921 	BM		KC FD Tac 	Tac 	FM 	Fire-Tac 
+158.74500 	   	KIF820 	BM	146.2 PL	KC FD Ch 3 	Ch 3 	FM 	Fire-Tac 
+153.83000 	   	WPCG858 	M		Antioch FD 	Antioch FD 	FM 	Fire-Tac 
+155.26500 	150.77500  	KNBS878 	RM	123.0 PL	Buf/MtPis FD 	Buffalo/Mt.Pisgah FD Dispatch 	FM 	Fire Dispatch 
+154.29500 	   	KQX213 	BM	156.7 PL	Buff/MtPisFD 	Buffalo/Mt.Pisgah FD Tac 	FM 	Fire-Tac 
+851.22500 	   	 	M	100.0 PL	KC FD FG A 	Fireground A 	FMN 	Fire-Tac 
+851.68750 	   	 	M	100.0 PL	KC FD FG B 	Fireground B 	FMN 	Fire-Tac 
+852.77500 	   	 	M	100.0 PL	KC FD FG C 	Fireground C 	FMN 	Fire-Tac 
+853.63750 	   	 	M	100.0 PL	KC FD FG D 	Fireground D 	FMN 	Fire-Tac 
+853.97500 	   	 	M	100.0 PL	KC FD FG E 	Fireground E 	FMN 	Fire-Tac 
+155.74500 	   	KLH985 	RM	156.7 PL	KC EMS Disp 	Kershaw Co. EMS Dispatch 	FM 	EMS Dispatch 
+155.28000 	   	KLH985 	BM		KC EMS Tac 	Kershaw Co. EMS 	FM 	EMS-Tac 
+155.40000 	   	KLH985 	BM	156.7 PL	KC EMS KCMC 	Kershaw Co. EMS to KCMC ER 	FM 	Hospital 
+155.34000 	   	KLH985 	BM	156.7 PL	KC EMS Hosp 	Kershaw Co. EMS HEAR Channel 	FM 	Hospital 
+154.17500 	   	WPGV658 	M		KC Rescue 	Kershaw Co. Rescue 	FM 	EMS-Tac 
+155.49000 	   	KEC404 	BM	123.0 PL	KC SD Disp 	Kershaw Co. SD Dispatch 	FM 	Law Dispatch 
+153.78500 	   	WNXH403 	M		KC SD Talk 	Kershaw Co. SD Talk? 	FM 	Law Tac 
+155.55000 	   	WYR893 	BM	123.0 PL	KC SD Regnl 	Kershaw Co. SD Regional Mutial Aid 	FM 	Interop 
+155.26500 	   	KNBS878 	BM	123.0 PL	KC SD Tac 	Kershaw Co. SD (Also used by Buffalo/Mt.Pisgah FD) 	FM 	Law Tac 
+453.67500 	   	WPVA533 	BM		Keershaw 911 	Kershaw County 911 	FM 	Emergency Ops 
+155.98500 	   	WNNI651 	RM		KC Govt 	Kershaw, County of 	FM 	Public Works 
+156.21000 	   	WNNI651 	RM		KC Govt 	Kershaw, County of 	FM 	Public Works 
+158.82000 	   	KNHR444 	BM	146.2 PL	Camden FD Ds 	Camden FD Dispatch 	FM 	Fire Dispatch 
+154.32500 	   	KNNF502 	M		Camden FD 	Camden FD 	FM 	Fire-Tac 
+154.14500 	   	WPAW958 	M	146.2 PL	Camden FD 	Camden FD Ch. 3 	FM 	Fire-Tac 
+155.31000 	   	KEC404 	BM	123.0 PL	Camden PD Ds 	Camden PD Dispatch 	FM 	Law Dispatch 
+154.95000 	   	WPBY561 	M	123.0 PL	Camden PD Tc 	Camden PD Tactical 	FM 	Law Tac 
+156.03000 	   	WYR892 	BM		Camden PD Tc 	Camden PD 	FM 	Law Tac 
+158.82000 	   	KNHR444 	BM		Camden Gov 	Camden, City of 	FM 	Public Works 
+158.92500 	   	WNKT523 	BM		Camden Gov 	Camden, City of 	FM 	Public Works 
+153.95000 	   	WPGU219 	BM	146.2 PL	Lugoff FD Ds 	Lugoff FD Dispatch 	FM 	Fire Dispatch 
+154.44500 	   	WPGU219 	BM		Lugoff FD 	Lugoff FD 	FM 	Fire-Tac 
+158.23500 	153.60500  	WPHR991 	RM		CassWaterCo 	Casset Water Company 	FM 	Public Works 
+158.77500 	   	WGM593 	BM		Camden Util 	Camden Utilities 	FM 	Public Works 
+453.25000 	   	KXZ989 	RM		Lugoff Water 	Lugoff Water 	FM 	Public Works 
+FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	SC Public Service Authority	 Project 25 Phase II	 Various	SCANA/SCE and G	 DMR Tier 3	 Various
+Target Distribution Center 594: Lugoff	 LTR Standard	 Lugoff	

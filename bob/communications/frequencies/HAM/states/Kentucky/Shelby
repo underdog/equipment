@@ -1,31 +1,31 @@
-155.41500 	KRO276 	RM	100 NAC	Shelby SO 	Sheriff - Dispatch 	P25 	Law Dispatch 
-159.43500 	KRO276 	M	186.2 PL	Shelby SO 2 	Sheriff - Channel 2 	FM 	Law Talk 
-155.66250 	WQIE933 	RM	125 DPL	Shelby Jail 	Detention Center - Operations 	FM 	Corrections 
-154.04000 	WQNE278 	RM	114 DPL	ShelbyFDDisp 	Fire/EMS - Dispatch 	FMN 	Fire Dispatch 
-154.14500 	WQDA202 	RM	186.2 PL	ShelbyFDOps1 	Fire/EMS - Ops 1 	FMN 	Fire-Talk 
-154.14500 	WQDA202 	RM	101 NAC	Ops 1 Dig 	Shelby FD Ops 1 Digital 	P25 	Fire-Talk 
-153.83000 	WPBN512 	M	186.2 PL	ShelbyFDOps2 	Fire/EMS - Ops 2 	FMN 	Fire-Talk 
-155.26500 	KA68756 	M	151.4 PL	ShelbyFD-HZM 	Fire - HAZMAT 	FM 	Fire-Talk 
-151.08500 	WQNE278 	RM	114 DPL	Shelby FD MA 	Mutual Aid 	FM 	Interop 
-155.92500 	WQDU554 	RM	102 NAC	ShelbyEMSOps 	EMS - Operations 	P25 	EMS-Tac 
-155.16000 	WQDW431 	BM	186.2 PL	Shelby EMS 1 	EMS - Channel 1 	FMN 	EMS-Talk 
-453.37500 	WPTU798 	RM	186.2 PL	Shelby EMS 2 	EMS - Channel 2 	FMN 	EMS-Talk 
-453.82500 	WPTU798 	RM	186.2 PL	Shelby EMS 3 	EMS - Channel 3 	FMN 	EMS-Talk 
-155.34000 	WQDW431 	BM	186.2 PL	EMS TO HSP 	EMS to Jewish Hospital 	FMN 	Hospital 
-151.04000 	WPNY951 	RM	114 DPL	Shelby EMA 1 	EMA - Dispatch 	FMN 	Emergency Ops 
-154.65750 	WQNE278 	RM	114 DPL	Shelby EMA 2 	EMA - Operations 	FMN 	Emergency Ops 
-151.71500 	KNEN761 	M	186.2 PL	Bagdad VFD 2 	Fire  - Channel 2 	FM 	Fire-Talk 
-155.23500 	KNBP441 	M	186.2 PL	MtEden VFD 2 	Fire - Channel 2 	FM 	Fire-Talk 
-155.49000 	KSI266 	RM	104 NAC	ShlbyvillePD 	Police- Dispatch 	P25 	Law Dispatch 
-154.10750 	KSI266 	M	110.9 PL	SPD-DrugTask 	Police - Drug Task Force 	FM 	Law Talk 
-154.23500 	WNWX620 	M	186.2 PL	ShlbyvillFD2 	Fire - Channel 2 	FM 	Fire-Talk 
-153.50000 	WPBT917 	RM	151.4 PL	ShlbyvlWater 	Water Department 	FM 	Public Works 
-156.19500 	WPTX738 	RM	186.2 PL	ShlbyvlRoads 	Road Department 	FM 	Public Works 
-153.77000 	KNBU766 	M	186.2 PL	SimpsnvllFD2 	Fire - Channel 2 	FM 	Fire-Talk 
-155.69250 	WQWH626 	RM	2AF NAC	SimpsnvllPD1 	Simpsonville PD 	P25 	Law Dispatch 
-154.54000 	 	M	114.8 PL	E60/WaddyVFD 	Fire - Channel 2 	FMN 	Fire-Talk 
-153.51500 	WPRM256 	RM	127.3 PL	WShelbyWater 	West Shelby Water 	FM 	Public Works 
-464.82500 	KBQ627 	RM	151.4 PL	Shelby SKLS 	Schools - Operations 	FM 	Schools 
-154.60000 	 	M		ShelbySKLS-2 	Schools - Operations 	FM 	Schools 
-Davis Electronics (Louisville Metro Area LTR)	 LTR Standard	 Louisville Metro Area	Louisville Emergency Communications Network:  MetroSafe	 Project 25 Phase I	 Multiple	RCS Team Communications	 DMR Motorola Connect Plus (TRBO)
- Various	Shelby County School System	 DMR Motorola Capacity Plus Single Site (TRBO)	 Shelbyville	
+155.41500 	159.43500  	KRO276 	RM	100 NAC	Shelby SO 	Sheriff - Dispatch 	P25 	Law Dispatch 
+159.43500 	   	KRO276 	M	186.2 PL	Shelby SO 2 	Sheriff - Channel 2 	FM 	Law Talk 
+155.66250 	158.76750  	WQIE933 	RM	125 DPL	Shelby Jail 	Detention Center - Operations 	FM 	Corrections 
+154.04000 	156.05250  	WQNE278 	RM	114 DPL	ShelbyFDDisp 	Fire/EMS - Dispatch 	FMN 	Fire Dispatch 
+154.14500 	156.03000  	WQDA202 	RM	186.2 PL	ShelbyFDOps1 	Fire/EMS - Ops 1 	FMN 	Fire-Talk 
+154.14500 	156.03000  	WQDA202 	RM	101 NAC	Ops 1 Dig 	Shelby FD Ops 1 Digital 	P25 	Fire-Talk 
+153.83000 	   	WPBN512 	M	186.2 PL	ShelbyFDOps2 	Fire/EMS - Ops 2 	FMN 	Fire-Talk 
+155.26500 	   	KA68756 	M	151.4 PL	ShelbyFD-HZM 	Fire - HAZMAT 	FM 	Fire-Talk 
+151.08500 	155.78250  	WQNE278 	RM	114 DPL	Shelby FD MA 	Mutual Aid 	FM 	Interop 
+155.92500 	153.74000  	WQDU554 	RM	102 NAC	ShelbyEMSOps 	EMS - Operations 	P25 	EMS-Tac 
+155.16000 	   	WQDW431 	BM	186.2 PL	Shelby EMS 1 	EMS - Channel 1 	FMN 	EMS-Talk 
+453.37500 	458.37500  	WPTU798 	RM	186.2 PL	Shelby EMS 2 	EMS - Channel 2 	FMN 	EMS-Talk 
+453.82500 	458.82500  	WPTU798 	RM	186.2 PL	Shelby EMS 3 	EMS - Channel 3 	FMN 	EMS-Talk 
+155.34000 	   	WQDW431 	BM	186.2 PL	EMS TO HSP 	EMS to Jewish Hospital 	FMN 	Hospital 
+151.04000 	153.81500  	WPNY951 	RM	114 DPL	Shelby EMA 1 	EMA - Dispatch 	FMN 	Emergency Ops 
+154.65750 	154.95000  	WQNE278 	RM	114 DPL	Shelby EMA 2 	EMA - Operations 	FMN 	Emergency Ops 
+151.71500 	   	KNEN761 	M	186.2 PL	Bagdad VFD 2 	Fire  - Channel 2 	FM 	Fire-Talk 
+155.23500 	   	KNBP441 	M	186.2 PL	MtEden VFD 2 	Fire - Channel 2 	FM 	Fire-Talk 
+155.49000 	154.83000  	KSI266 	RM	104 NAC	ShlbyvillePD 	Police- Dispatch 	P25 	Law Dispatch 
+154.10750 	   	KSI266 	M	110.9 PL	SPD-DrugTask 	Police - Drug Task Force 	FM 	Law Talk 
+154.23500 	   	WNWX620 	M	186.2 PL	ShlbyvillFD2 	Fire - Channel 2 	FM 	Fire-Talk 
+153.50000 	158.16000  	WPBT917 	RM	151.4 PL	ShlbyvlWater 	Water Department 	FM 	Public Works 
+156.19500 	   	WPTX738 	RM	186.2 PL	ShlbyvlRoads 	Road Department 	FM 	Public Works 
+153.77000 	   	KNBU766 	M	186.2 PL	SimpsnvllFD2 	Fire - Channel 2 	FM 	Fire-Talk 
+155.69250 	151.29500  	WQWH626 	RM	2AF NAC	SimpsnvllPD1 	Simpsonville PD 	P25 	Law Dispatch 
+154.54000 	   	 	M	114.8 PL	E60/WaddyVFD 	Fire - Channel 2 	FMN 	Fire-Talk 
+153.51500 	158.38500  	WPRM256 	RM	127.3 PL	WShelbyWater 	West Shelby Water 	FM 	Public Works 
+464.82500 	469.82500  	KBQ627 	RM	151.4 PL	Shelby SKLS 	Schools - Operations 	FM 	Schools 
+154.60000 	   	 	M		ShelbySKLS-2 	Schools - Operations 	FM 	Schools 
+Betner Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Davis Electronics (Louisville Metro Area LTR)	 LTR Standard	 Louisville Metro Area	Louisville Emergency Communications Network:  MetroSafe	 Project 25 Phase I	 Multiple
+RCS Team Communications	 DMR Motorola Connect Plus (TRBO)	 Various	Shelby County School System	 DMR Motorola Capacity Plus Single Site (TRBO)	 Shelbyville	

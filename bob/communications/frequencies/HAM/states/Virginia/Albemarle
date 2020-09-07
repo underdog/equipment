@@ -1,10 +1,10 @@
-460.25000 	WNAG949 	B	151.4 PL	ACFR Disp 	ACFR Dispatch (patched to trunk system) 	FM 	Fire Dispatch 
-460.47500 	WNAG949 	B	127.3 PL	ACFR Resp 	ACFR Response and Tac talkgroups (patched to trunk system) 	FM 	Fire-Tac 
-155.83500 	KNGS260 	B	167.9 PL	ACFR VAlb1 	Not used - Replaced by ACFR talkgroups 	FMN 	EMS-Tac 
-155.22000 	WXP594 	BM		WARS Adm/Tac 	Western Albemarle Rescue Squad (WARS) Admin/Tac 	FM 	EMS-Tac 
-155.95500 	 	BM		ACFR VAlb2 	Not used - Replaced by ACFR talkgroups 	FMN 	EMS-Tac 
-155.34000 	WXP594 	BM		ACFR Hosp 	Rescue - EMS to UVA and Martha Jefferson Hospitals 	FM 	Hospital 
-453.26250 	WQYA926 	RM	CC 1TG 1SL 1	CharAlb RJ 	Charlottesville-Albemarle Regional Jail 	DMR 	Corrections 
-Albemarle / Charlottesville	 Motorola Type II Smartnet	 Various	American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Cavalier Communications	 LTR Standard
- Charlottesville	Communication Specialists (Charlottesville)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charlottesville	DMRVA Amateur Radio Network	 DMR Conventional Networked	 Various	Piedmont Electronics
- LTR Standard	 Charlottesville	
+460.25000 	   	WNAG949 	B	151.4 PL	ACFR Disp 	ACFR Dispatch (patched to trunk system) 	FM 	Fire Dispatch 
+460.47500 	   	WNAG949 	B	127.3 PL	ACFR Resp 	ACFR Response and Tac talkgroups (patched to trunk system) 	FM 	Fire-Tac 
+155.83500 	   	KNGS260 	B	167.9 PL	ACFR VAlb1 	Not used - Replaced by ACFR talkgroups 	FMN 	EMS-Tac 
+155.22000 	   	WXP594 	BM		WARS Adm/Tac 	Western Albemarle Rescue Squad (WARS) Admin/Tac 	FM 	EMS-Tac 
+155.95500 	   	 	BM		ACFR VAlb2 	Not used - Replaced by ACFR talkgroups 	FMN 	EMS-Tac 
+155.34000 	   	WXP594 	BM		ACFR Hosp 	Rescue - EMS to UVA and Martha Jefferson Hospitals 	FM 	Hospital 
+453.26250 	458.26250  	WQYA926 	RM	CC 1TG 1SL 1	CharAlb RJ 	Charlottesville-Albemarle Regional Jail 	DMR 	Corrections 
+Albemarle / Charlottesville	 Motorola Type II Smartnet	 Various	American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Cavalier Communications	 LTR Standard	 Charlottesville
+Communication Specialists (Charlottesville)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charlottesville	DMRVA Amateur Radio Network	 DMR Conventional Networked	 Various	Joint National Capital Region	 Project 25 Phase I	 Various
+Piedmont Electronics	 LTR Standard	 Charlottesville	Rappahannock Electric Cooperative	 DMR Tier 3	 Various	

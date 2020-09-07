@@ -1,30 +1,30 @@
-156.18750 	WRDA886 	RM	127.3 PL	Ktn PD Disp 	Police Dispatch 	FM 	Law Dispatch 
-155.55000 	KWA905 	RM	114.8 PL	KTN Rescue 	Rescue Squad 	FM 	Law Dispatch 
-154.20500 	KCZ461 	RM	127.3 PL	Ktn FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
-155.03250 	WQOK717 	RM		N Tongas Fire 	North Tongass Fire 	FMN 	Fire Dispatch 
-155.28000 	KNEX787 	BM	CSQ	Ktn FD Tac 2 	Fire Tactical 2 	FM 	Fire-Tac 
-154.25000 	KNFG835 	BM	CSQ	Ktn FD Tac 3 	Fire Tactical 3 	FM 	Fire-Tac 
-154.32500 	 	BM	CSQ	Ktn FD Tac 4 	Fire Tactical 4 	FM 	Fire-Tac 
-155.29500 	 	BM	CSQ	Ktn FD Tac 5 	Fire Tactical 5 	FM 	Fire-Tac 
-153.71000 	KWA873 	BM	CSQ	Ktn Util/ FD 	Utilities & Fire Tactical 6 	FM 	Public Works 
-153.65000 	WGN403 	BM		Ktn Util 	Utilities 	FM 	Public Works 
-155.92500 	WNIL239 	BM		Ktn PW 1 	Public Works 	FM 	Public Works 
-155.95500 	KQY878 	BM	CSQ	Ktn PW 2 	Public Works 	FM 	Public Works 
-155.34000 	WPZJ600 	BM	127.3 PL	KTN Hospital 	General Hospital 	FM 	Hospital 
-154.10000 	WQUY791 	BM	110.9 PL	Ketchikan Transi 	Ketchikan Transit 	FMN 	Transportation 
-154.98000 	WNFD647 	BM	CSQ	KTN Harbor 	City Harbor 	FM 	Public Works 
-155.82000 	KXO952 	BM	CSQ	KTN AirportS 	Airport Security 	FM 	Security 
-155.49000 	KXO950 	BM	CSQ	KTN Airport 	Airport 	FM 	Public Works 
-461.20000 	WPCF834 	RM	151.4 PL	KTN Schools 	Schools 	FM 	Schools 
-464.95000 	WPZI535 	RM	127.3 PL	KTN SchBuses 	First Student School Buses 	FM 	Schools 
-155.37000 	KNGV997 	BM	293 NAC	Met PD Disp 	Police Dispatch 	P25 	Law Dispatch 
-155.37000 	KNGV997 	BM	123.0 PL	Met PD Mobile 	Police Mobiles 	FM 	Law Tac 
-119.90000 	 	B		Ktn ATIS 	ATIS 	AM 	Aircraft 
-120.90000 	 	BM		Ktn FlightSv 	Flight Service 	AM 	Aircraft 
-123.60000 	 	BM		Ktn CTAF 	Common Traffic Advisory (CTAF) 	AM 	Aircraft 
-134.45000 	 	BM		Ktn AirDock2 	Airport dock 	AM 	Aircraft 
-149.20000 	 	B		Ktn Air WX 	Weather Recording 	FM 	Aircraft 
-243.00000 	 	BM		Ktn Mil Emer 	Emergency 	AM 	Military 
-122.85000 	 	BM		Taquan Air 	Taquan Air 	AM 	Aircraft 
-122.95000 	 	BM		Aero Service 	Aero Services 	AM 	Aircraft 
+156.18750 	153.84500  	WRDA886 	RM	127.3 PL	Ktn PD Disp 	Police Dispatch 	FM 	Law Dispatch 
+155.55000 	158.94000  	KWA905 	RM	114.8 PL	KTN Rescue 	Rescue Squad 	FM 	Law Dispatch 
+154.20500 	156.01500  	KCZ461 	RM	127.3 PL	Ktn FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+155.03250 	158.80500  	WQOK717 	RM		N Tongas Fire 	North Tongass Fire 	FMN 	Fire Dispatch 
+155.28000 	   	KNEX787 	BM	CSQ	Ktn FD Tac 2 	Fire Tactical 2 	FM 	Fire-Tac 
+154.25000 	   	KNFG835 	BM	CSQ	Ktn FD Tac 3 	Fire Tactical 3 	FM 	Fire-Tac 
+154.32500 	   	 	BM	CSQ	Ktn FD Tac 4 	Fire Tactical 4 	FM 	Fire-Tac 
+155.29500 	   	 	BM	CSQ	Ktn FD Tac 5 	Fire Tactical 5 	FM 	Fire-Tac 
+153.71000 	   	KWA873 	BM	CSQ	Ktn Util/ FD 	Utilities & Fire Tactical 6 	FM 	Public Works 
+153.65000 	   	WGN403 	BM		Ktn Util 	Utilities 	FM 	Public Works 
+155.92500 	   	WNIL239 	BM		Ktn PW 1 	Public Works 	FM 	Public Works 
+155.95500 	   	KQY878 	BM	CSQ	Ktn PW 2 	Public Works 	FM 	Public Works 
+155.34000 	   	WPZJ600 	BM	127.3 PL	KTN Hospital 	General Hospital 	FM 	Hospital 
+154.10000 	   	WQUY791 	BM	110.9 PL	Ketchikan Transi 	Ketchikan Transit 	FMN 	Transportation 
+154.98000 	   	WNFD647 	BM	CSQ	KTN Harbor 	City Harbor 	FM 	Public Works 
+155.82000 	   	KXO952 	BM	CSQ	KTN AirportS 	Airport Security 	FM 	Security 
+155.49000 	   	KXO950 	BM	CSQ	KTN Airport 	Airport 	FM 	Public Works 
+461.20000 	466.20000  	WPCF834 	RM	151.4 PL	KTN Schools 	Schools 	FM 	Schools 
+464.95000 	469.95000  	WPZI535 	RM	127.3 PL	KTN SchBuses 	First Student School Buses 	FM 	Schools 
+155.37000 	   	KNGV997 	BM	293 NAC	Met PD Disp 	Police Dispatch 	P25 	Law Dispatch 
+155.37000 	   	KNGV997 	BM	123.0 PL	Met PD Mobile 	Police Mobiles 	FM 	Law Tac 
+119.90000 	   	 	B		Ktn ATIS 	ATIS 	AM 	Aircraft 
+120.90000 	   	 	BM		Ktn FlightSv 	Flight Service 	AM 	Aircraft 
+123.60000 	   	 	BM		Ktn CTAF 	Common Traffic Advisory (CTAF) 	AM 	Aircraft 
+134.45000 	   	 	BM		Ktn AirDock2 	Airport dock 	AM 	Aircraft 
+149.20000 	   	 	B		Ktn Air WX 	Weather Recording 	FM 	Aircraft 
+243.00000 	   	 	BM		Ktn Mil Emer 	Emergency 	AM 	Military 
+122.85000 	   	 	BM		Taquan Air 	Taquan Air 	AM 	Aircraft 
+122.95000 	   	 	BM		Aero Service 	Aero Services 	AM 	Aircraft 
 Alaska Land Mobile Radio (ALMR)	 Project 25 Phase I	 Statewide	

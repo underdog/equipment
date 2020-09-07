@@ -1,16 +1,15 @@
-159.09000 	KAD761 	RM	141.3 PL	Monona Disp 	Sheriff-Fire-EMS 	FM 	Multi-Dispatch 
-159.09000 	KAD761 	RM	067 NAC	Monona P25 	Sheriff-Fire-EMS Digital 	P25 	Multi-Dispatch 
-155.53500 	KAD761 	BM		Monona Info 	Sheriff Information 	FM 	Law Talk 
-155.22000 	WQCP655 	BM		Monona EMS D 	Burgess Health Center EMS Dispatch 	FM 	EMS Dispatch 
-155.34000 	WQCP655 	BM		Monona EMS A 	Burgess Health Center EMS Ambulance 	FM 	EMS-Talk 
-462.95000 	WNDP401 	RM		Ute EMS Disp 	Ute Ambulance Dispatch 	FM 	EMS Dispatch 
-151.07000 	WPLP715 	RM	734 DPL	Monona Roads 	Highway Department 	FM 	Public Works 
-154.96500 	KQY289 	BM		Mapleton PD2 	Police Dispatch 	FM 	Law Dispatch 
-37.10000 	KQY289 	BM		Mapleton PD1 	Police Intersystem 	FM 	Law Talk 
-154.20500 	WNVK656 	BM		Mapleton FD 	Fire Dispatch 	FM 	Fire Dispatch 
-152.87000 	WQII845 	BM		Mapleton Sch 	Schools 	FMN 	Schools 
-453.57500 	WNWK758 	RM	203.5 PL	Onawa PS 1 	Public Safety 1 	FM 	Multi-Dispatch 
-458.90000 	WNWK758 	M		Onawa PS 2 	Public Safety 2 	FM 	Multi-Talk 
-154.20500 	WXT804 	BM		Onawa FD 	Fire Dispatch 	FM 	Fire Dispatch 
-Alliant Energy	 DMR Tier 3	 Various	Mid American Energy	 MPT-1327 Standard	 Various	RACOM Network	 EDACS Networked Standard
- Various	
+159.09000 	156.03000  	KAD761 	RM	141.3 PL	Monona Disp 	Sheriff-Fire-EMS 	FM 	Multi-Dispatch 
+159.09000 	156.03000  	KAD761 	RM	067 NAC	Monona P25 	Sheriff-Fire-EMS Digital 	P25 	Multi-Dispatch 
+155.53500 	155.91000  	KAD761 	BM		Monona Info 	Sheriff Information 	FM 	Law Talk 
+155.22000 	   	WQCP655 	BM		Monona EMS D 	Burgess Health Center EMS Dispatch 	FM 	EMS Dispatch 
+155.34000 	   	WQCP655 	BM		Monona EMS A 	Burgess Health Center EMS Ambulance 	FM 	EMS-Talk 
+462.95000 	467.95000  	WNDP401 	RM		Ute EMS Disp 	Ute Ambulance Dispatch 	FM 	EMS Dispatch 
+151.07000 	158.98500  	WPLP715 	RM	734 DPL	Monona Roads 	Highway Department 	FM 	Public Works 
+154.96500 	   	KQY289 	BM		Mapleton PD2 	Police Dispatch 	FM 	Law Dispatch 
+37.10000 	   	KQY289 	BM		Mapleton PD1 	Police Intersystem 	FM 	Law Talk 
+154.20500 	   	WNVK656 	BM		Mapleton FD 	Fire Dispatch 	FM 	Fire Dispatch 
+152.87000 	159.88500  	WQII845 	BM		Mapleton Sch 	Schools 	FMN 	Schools 
+453.57500 	458.57500  	WNWK758 	RM	203.5 PL	Onawa PS 1 	Public Safety 1 	FM 	Multi-Dispatch 
+458.90000 	   	WNWK758 	M		Onawa PS 2 	Public Safety 2 	FM 	Multi-Talk 
+154.20500 	   	WXT804 	BM		Onawa FD 	Fire Dispatch 	FM 	Fire Dispatch 
+Alliant Energy	 DMR Tier 3	 Various	Mid American Energy	 MPT-1327 Standard	 Various	RACOM Network	 EDACS Networked Standard	 Various

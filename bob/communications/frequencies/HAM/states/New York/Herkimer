@@ -1,60 +1,59 @@
-155.61000 	KEG979 	RM	131.8 PL	HERKMRDNorth 	911 MRD North (Inlet/Webb) 	FMN 	Law Dispatch 
-155.61000 	WPRH589 	RM	162.2 PL	HERKMRDSouth 	911 MRD South 	FMN 	Law Dispatch 
-154.43000 	WGC287 	BM	162.2 PL	HC911TAC/DAT 	Tactical/Data (Primarily Southern Agencies) 	FMN 	Law Tac 
-154.89000 	WPMZ985 	M	123.0 PL	HCSO Jail 	Sheriff Jail 	FMN 	Corrections 
-154.20500 	WPRH900 	RM	203.5 PL	HCFD South 	Fire Control - South Tower 	FMN 	Fire Dispatch 
-154.20500 	WPYX513 	RM	210.7 PL	HCFD North 	Fire Control - North Tower (Inlet/Webb) 	FMN 	Fire Dispatch 
-154.29500 	WPLS590 	M	162.2 PL	HCFD F/G - 1 	Fireground 1 	FMN 	Fire-Tac 
-154.28000 	WPLS590 	M	162.2 PL	HCFD F/G - 2 	Fireground 2 	FMN 	Fire-Tac 
-155.16000 	WYG225 	BM	162.2 PL	KVAC 	Kuyahoora Ambulance 	FMN 	EMS Dispatch 
-155.16000 	WQV959 	BM	203.5 PL	MOVAC 	MOVAC Amulance 	FMN 	EMS Dispatch 
-154.16000 	WPYX513 	M	186.2 PL	FD/PD  I/A 	Fire Department/Police Department Interagency 	FMN 	Interop 
-33.10000 	KNHA875 	BM	141.3 PL	County Hwy 	Highway 	FM 	Public Works 
-156.20250 	WPCR907 	RM		CoBldgMaint 	Building Maintenance 	FMN 	Public Works 
-159.33750 	WQJE753 	BM	110.9 PL	Herk PubHeal 	Public Health/Red Cross 	FMN 	Public Works 
-156.22500 	WQJ324 	BM	167.9 PL	ColumbiaDPW 	Highway Dept 	FMN 	Public Works 
-156.07500 	WPFW610 	BM	203.5 PL	DolgvilleDPW 	DPW 	FMN 	Public Works 
-156.11250 	WQAW455 	BM	103.5 PL	FairfieldDPW 	DPW 	FMN 	Public Works 
-151.13000 	KNHB948 	RM	100.0 PL	FrankfortHwy 	Highway Department/Police Car to Car 	FMN 	Multi-Tac 
-153.83000 	WPES803 	M		FFD F-Ground 	Fireground 	FMN 	Fire-Tac 
-155.77500 	KXB605 	BM	192.8 PL	FFD Alerts 	Frankfort Fire Department Home Alert 	FMN 	Fire Dispatch 
-158.82000 	WPNS288 	BM	123.0 PL	GermFlatDPW 	DPW 	FMN 	Public Works 
-153.86000 	WNQU503 	BM	203.5 PL	HerkTwnDPW 	DPW 	FMN 	Public Works 
-158.74500 	KRP698 	BM	88.5 PL	HerkVillage 	DPW and Police F-6 	FMN 	Multi-Tac 
-154.04000 	KNEN768 	BM	156.7 PL	Ilion PD/DPW 	Police and Public Works 	FMN 	Multi-Tac 
-154.16000 	KWH592 	BM	123.0 PL	IFD Ops 1 	Fire Ops 1 	FMN 	Fire-Tac 
-154.13000 	KWH592 	BM	131.8 PL	IFD Ops 2 	Fire Ops 2 	FMN 	Fire-Tac 
-156.22500 	KNDN915 	BM	167.9 PL	LitchfeldDPW 	DPW 	FMN 	Public Works 
-155.76000 	WQJV308 	BM		LF PD/DPW 	Police and Public Works 	FMN 	Multi-Dispatch 
-154.31000 	WNUC532 	BM	131.8 PL	LF FD/EMS 	Off-Duty Fire/EMS Paging 	FMN 	Fire-Tac 
-153.75500 	KNGZ325 	BM	100.0 PL	LF Housing 	Housing Authority 	FMN 	Public Works 
-159.01500 	KNDS851 	BM	123.0 PL	NewportTwnPW 	DPW 	FMN 	Public Works 
-453.07500 	WPPB781 	RM	82.5 PL	TwnOhioDPW 	DPW and Highway 	FMN 	Public Works 
-462.02500 	WPPU436 	RM	125 DPL	Russia Hwy 	Highway (community repeater) 	FMN 	Public Works 
-159.13500 	KNBF668 	RM		SalisburyDPW 	DPW 	FMN 	Public Works 
-151.07000 	KTH494 	BM		SchuylerDPW 	DPW 	FMN 	Public Works 
-155.65500 	KEG979 	BM	131.8 PL	Webb PD / FD 	Police and Fire Police 	FMN 	Multi-Tac 
-155.85000 	KEG979 	M	131.8 PL	Webb PD Talk 	Police Car to Car 	FMN 	Law Talk 
-461.10000 	WNQB259 	RM	173.8 PL	Webb Hwy/DPW 	Highway and DPW 	FMN 	Public Works 
-461.22500 	WPGX290 	RM		Trail Maint 	Snowmobile Trail Grooming/Maintenance 	FMN 	Public Works 
-155.92500 	KLM639 	BM	210.7 PL	Mohawk FD 	Fire 	FMN 	Fire-Talk 
-158.94000 	WQAT492 	RM	146.2 PL	PFD Ops 	Operations 	FMN 	Fire-Tac 
-154.41500 	WQAT492 	BM	118.8 PL	PFD Tac 1 	Tac 1 	FMN 	Fire-Tac 
-154.38500 	WQAT492 	BM	118.8 PL	PFD Tac 2 	Tac 2 	FMN 	Fire-Tac 
-154.28000 	WQAT492 	BM	162.2 PL	PFD Grnd 1 	Mutual Aid 	FMN 	Fire-Tac 
-154.29500 	WQAT492 	BM	162.2 PL	PFD Grnd 2 	Mutual Aid 	FMN 	Fire-Tac 
-154.44500 	WQX959 	RM	110.9 PL	SFD Dispatch 	Fire Dispatch/Home Alerting 	FMN 	Fire Dispatch 
-151.65500 	KNJX856 	BM	151.4 PL	AdirSchBuses 	Adirondack Central School Buses 	FMN 	Schools 
-464.65000 	WNLJ901 	RM	162.2 PL	FSCSD Buses 	Frankfort-Schuyler Central School District Buses 	FMN 	Schools 
-461.37500 	KNHF831 	RM	123.0 PL	HCSD Buses 	Herkimer Central School District Buses 	FMN 	Schools 
-461.05000 	WNLQ596 	RM	226 DPL	HCCC Maint 	Herkimer County Community College Maintenance 	FMN 	Schools 
-462.25000 	WPRU340 	RM	203.5 PL	HCCC Safety 	Herkimer County Community College Public Safety 	FMN 	Security 
-151.65500 	KNFE274 	BM		LFSD Buses 	Little Falls Scool District 	FMN 	Schools 
-151.86500 	WXE322 	BM	065 DPL	Mt Markam Buses 	Mount Markam School 	FMN 	Schools 
-452.00000 	WPPV890 	RM		ODYCSD Buses 	Owen D. Young Central School District (Warren)-School Buses 	FMN 	Schools 
-462.02500 	WPPU436 	RM	503 DPL	Poland Buses 	Poland Central School (community repeater) 	FMN 	Schools 
-461.10000 	WNQB259 	RM	173.8 PL	WebbSchBuses 	Town of Webb Union Free School District Buses 	FMN 	Schools 
-462.02500 	WPPU436 	RM	731 DPL	WCanadaBuses 	West Canada Valley Schools (community repeater) 	FMN 	Schools 
-BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	JPJ Communications (EDACS)	 EDACS Standard	 Utica area	Mobiletech Communications	 LTR Net
- Various	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	Oneida Herkimer Madison School Cooperative	 MPT-1327 Standard	 Regional	UpstateNY Linked Amateur Radio Network
- DMR Conventional Networked	 Regional	
+155.61000 	158.97000  	KEG979 	RM	131.8 PL	HERKMRDNorth 	911 MRD North (Inlet/Webb) 	FMN 	Law Dispatch 
+155.61000 	158.97000  	WPRH589 	RM	162.2 PL	HERKMRDSouth 	911 MRD South 	FMN 	Law Dispatch 
+154.43000 	   	WGC287 	BM	162.2 PL	HC911TAC/DAT 	Tactical/Data (Primarily Southern Agencies) 	FMN 	Law Tac 
+154.89000 	   	WPMZ985 	M	123.0 PL	HCSO Jail 	Sheriff Jail 	FMN 	Corrections 
+154.20500 	153.77000  	WPRH900 	RM	203.5 PL	HCFD South 	Fire Control - South Tower 	FMN 	Fire Dispatch 
+154.20500 	153.77000  	WPYX513 	RM	210.7 PL	HCFD North 	Fire Control - North Tower (Inlet/Webb) 	FMN 	Fire Dispatch 
+154.29500 	   	WPLS590 	M	162.2 PL	HCFD F/G - 1 	Fireground 1 	FMN 	Fire-Tac 
+154.28000 	   	WPLS590 	M	162.2 PL	HCFD F/G - 2 	Fireground 2 	FMN 	Fire-Tac 
+155.16000 	   	WYG225 	BM	162.2 PL	KVAC 	Kuyahoora Ambulance 	FMN 	EMS Dispatch 
+155.16000 	   	WQV959 	BM	203.5 PL	MOVAC 	MOVAC Amulance 	FMN 	EMS Dispatch 
+154.16000 	   	WPYX513 	M	186.2 PL	FD/PD  I/A 	Fire Department/Police Department Interagency 	FMN 	Interop 
+33.10000 	   	KNHA875 	BM	141.3 PL	County Hwy 	Highway 	FM 	Public Works 
+156.20250 	153.96500  	WPCR907 	RM		CoBldgMaint 	Building Maintenance 	FMN 	Public Works 
+159.33750 	   	WQJE753 	BM	110.9 PL	Herk PubHeal 	Public Health/Red Cross 	FMN 	Public Works 
+156.22500 	   	WQJ324 	BM	167.9 PL	ColumbiaDPW 	Highway Dept 	FMN 	Public Works 
+156.07500 	   	WPFW610 	BM	203.5 PL	DolgvilleDPW 	DPW 	FMN 	Public Works 
+156.11250 	   	WQAW455 	BM	103.5 PL	FairfieldDPW 	DPW 	FMN 	Public Works 
+151.13000 	159.07500  	KNHB948 	RM	100.0 PL	FrankfortHwy 	Highway Department/Police Car to Car 	FMN 	Multi-Tac 
+153.83000 	   	WPES803 	M		FFD F-Ground 	Fireground 	FMN 	Fire-Tac 
+155.77500 	   	KXB605 	BM	192.8 PL	FFD Alerts 	Frankfort Fire Department Home Alert 	FMN 	Fire Dispatch 
+158.82000 	   	WPNS288 	BM	123.0 PL	GermFlatDPW 	DPW 	FMN 	Public Works 
+153.86000 	   	WNQU503 	BM	203.5 PL	HerkTwnDPW 	DPW 	FMN 	Public Works 
+158.74500 	   	KRP698 	BM	88.5 PL	HerkVillage 	DPW and Police F-6 	FMN 	Multi-Tac 
+154.04000 	   	KNEN768 	BM	156.7 PL	Ilion PD/DPW 	Police and Public Works 	FMN 	Multi-Tac 
+154.16000 	   	KWH592 	BM	123.0 PL	IFD Ops 1 	Fire Ops 1 	FMN 	Fire-Tac 
+154.13000 	   	KWH592 	BM	131.8 PL	IFD Ops 2 	Fire Ops 2 	FMN 	Fire-Tac 
+156.22500 	   	KNDN915 	BM	167.9 PL	LitchfeldDPW 	DPW 	FMN 	Public Works 
+155.76000 	   	WQJV308 	BM		LF PD/DPW 	Police and Public Works 	FMN 	Multi-Dispatch 
+154.31000 	   	WNUC532 	BM	131.8 PL	LF FD/EMS 	Off-Duty Fire/EMS Paging 	FMN 	Fire-Tac 
+153.75500 	   	KNGZ325 	BM	100.0 PL	LF Housing 	Housing Authority 	FMN 	Public Works 
+159.01500 	   	KNDS851 	BM	123.0 PL	NewportTwnPW 	DPW 	FMN 	Public Works 
+453.07500 	458.07500  	WPPB781 	RM	82.5 PL	TwnOhioDPW 	DPW and Highway 	FMN 	Public Works 
+462.02500 	467.02500  	WPPU436 	RM	125 DPL	Russia Hwy 	Highway (community repeater) 	FMN 	Public Works 
+159.13500 	156.07500  	KNBF668 	RM		SalisburyDPW 	DPW 	FMN 	Public Works 
+151.07000 	   	KTH494 	BM		SchuylerDPW 	DPW 	FMN 	Public Works 
+155.65500 	   	KEG979 	BM	131.8 PL	Webb PD / FD 	Police and Fire Police 	FMN 	Multi-Tac 
+155.85000 	   	KEG979 	M	131.8 PL	Webb PD Talk 	Police Car to Car 	FMN 	Law Talk 
+461.10000 	466.10000  	WNQB259 	RM	173.8 PL	Webb Hwy/DPW 	Highway and DPW 	FMN 	Public Works 
+461.22500 	466.22500  	WPGX290 	RM		Trail Maint 	Snowmobile Trail Grooming/Maintenance 	FMN 	Public Works 
+155.92500 	   	KLM639 	BM	210.7 PL	Mohawk FD 	Fire 	FMN 	Fire-Talk 
+158.94000 	153.80000  	WQAT492 	RM	146.2 PL	PFD Ops 	Operations 	FMN 	Fire-Tac 
+154.41500 	   	WQAT492 	BM	118.8 PL	PFD Tac 1 	Tac 1 	FMN 	Fire-Tac 
+154.38500 	   	WQAT492 	BM	118.8 PL	PFD Tac 2 	Tac 2 	FMN 	Fire-Tac 
+154.28000 	   	WQAT492 	BM	162.2 PL	PFD Grnd 1 	Mutual Aid 	FMN 	Fire-Tac 
+154.29500 	   	WQAT492 	BM	162.2 PL	PFD Grnd 2 	Mutual Aid 	FMN 	Fire-Tac 
+154.44500 	159.04500  	WQX959 	RM	110.9 PL	SFD Dispatch 	Fire Dispatch/Home Alerting 	FMN 	Fire Dispatch 
+151.65500 	   	KNJX856 	BM	151.4 PL	AdirSchBuses 	Adirondack Central School Buses 	FMN 	Schools 
+464.65000 	469.65000  	WNLJ901 	RM	162.2 PL	FSCSD Buses 	Frankfort-Schuyler Central School District Buses 	FMN 	Schools 
+461.37500 	466.37500  	KNHF831 	RM	123.0 PL	HCSD Buses 	Herkimer Central School District Buses 	FMN 	Schools 
+461.05000 	466.05000  	WNLQ596 	RM	226 DPL	HCCC Maint 	Herkimer County Community College Maintenance 	FMN 	Schools 
+462.25000 	457.25000  	WPRU340 	RM	203.5 PL	HCCC Safety 	Herkimer County Community College Public Safety 	FMN 	Security 
+151.65500 	   	KNFE274 	BM		LFSD Buses 	Little Falls Scool District 	FMN 	Schools 
+151.86500 	   	WXE322 	BM	065 DPL	Mt Markam Buses 	Mount Markam School 	FMN 	Schools 
+452.00000 	457.00000  	WPPV890 	RM		ODYCSD Buses 	Owen D. Young Central School District (Warren)-School Buses 	FMN 	Schools 
+462.02500 	467.02500  	WPPU436 	RM	503 DPL	Poland Buses 	Poland Central School (community repeater) 	FMN 	Schools 
+461.10000 	466.10000  	WNQB259 	RM	173.8 PL	WebbSchBuses 	Town of Webb Union Free School District Buses 	FMN 	Schools 
+462.02500 	467.02500  	WPPU436 	RM	731 DPL	WCanadaBuses 	West Canada Valley Schools (community repeater) 	FMN 	Schools 
+BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	JPJ Communications (EDACS)	 EDACS Standard	 Utica area	Mobiletech Communications	 LTR Net	 Various
+New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	Oneida Herkimer Madison School Cooperative	 MPT-1327 Standard	 Regional	UpstateNY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional

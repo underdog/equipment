@@ -1,48 +1,48 @@
-154.87500 	WPJP872 	RM	118.8 PL	Buterl Sheriff 	Sheriff: Dispatch (Speech Inversion capable) 	FMN 	Law Dispatch 
-159.15000 	WPGW551 	RM	100.0 PL	Bulter EMA R 	Emergency Management 	FMN 	Emergency Ops 
-154.83000 	WPGW551 	M	241.8 PL	Butler EMA M 	Emergency Management 	FMN 	Emergency Ops 
-155.14500 	KXA404 	B		Butler EMA 	Emergency Management (Intercounty) 	FMN 	Emergency Ops 
-152.30000 	WQKS329 	RM	734 DPL	Butler Co Sev Wx 	Butler County Severe Weather Storm Team  	FMN 	Emergency Ops 
-154.44500 	WPLX408 	RM	167.9 PL	Butler Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-153.89000 	WQET759 	M		ButlerFireground 	Fireground 	FMN 	Fire-Tac 
-152.40500 	WQSY399 	RM	754 DPL	Butler Co EMS 	Butler County EMS: Dispatch 	FMN 	EMS Dispatch 
-155.87250 	WPVN876 	RM	100.0 PL	Butler Health 	Health Department 	FMN 	Public Works 
-173.33750 	WNYI552 	F		PWSD#1 Data 	Public Water Supply District #1 Data 	Telm 	Data 
-173.36250 	WPWU697 	F		PWSD#2 Data 	Public Water Supply District #2 Data 	Telm 	Data 
-451.05000 	WPWV993 	F	754 DPL	WB PWSD4 Data 	Wayne Bulter PWSD #4: Data  	FMN 	Data 
-173.23750 	WNMY258 	F		Butler WDD 	Water Department Data 	Telm 	Data 
-159.10500 	WNWG982 	BM	136.5 PL	Butler Highway 	Highway Department 	FMN 	Public Works 
-154.40000 	WRAT407 	RM	107.2 PL	SEMO Search 	Search and Rescue Ops 	FMN 	Emergency Ops 
-461.96250 	WQXS589 	RM	CC 5TG 1050SL 1	Medic One 1050 	EMS: Dispatch (Reyno, Randolph Co AR) 	DMR 	EMS Dispatch 
-461.96250 	WQXS589 	RM	CC 5TG 2050SL 2	Medic One 2050 	EMS: Dispatch (Reyno, Randolph Co AR) 	DMR 	EMS Dispatch 
-155.28000 	WQJZ607 	BM		RMA 155.28 	EMS: Operations 	FMN 	Hospital 
-408.23750 	 	RM	293 NAC	JPMC Securty 	Security 	P25e 	Security 
-154.50500 	WQIW935 	BM		Nlyvl Sewer 	Wasterwater Treatment Operations 	FMN 	Public Works 
-155.55000 	WPWD880 	RM	107.2 PL	PBlf Police 	Police: Dispatch 	FMN 	Law Dispatch 
-453.48750 	WPWD880 	F		PBlf Police RF-A 	Police: Receive Link to 155.55 R 	FMN 	Law Dispatch 
-458.48750 	WPWD880 	F		PBlf Police RF-B 	Police: Receive Link to 155.55 R 	FMN 	Law Dispatch 
-151.04750 	WQJH499 	RM		PBlf Police New 	Police: Future  	FMN 	Law Dispatch 
-151.04750 	WQJH499 	RM	107 NAC	PBlf Police P25 	Police: Dispatch (Temporary) 	P25 	Law Dispatch 
-453.36250 	WQJH499 	F		PBlf Police RF1 	Police: Voter Site to Central Dispatch (FX2) 	FMN 	Law Dispatch 
-453.63750 	WQJH499 	F		PBlf Police RF2 	Police: Voter Site to Central Dispatch (FX2) 	FMN 	Law Dispatch 
-458.36250 	WQJH499 	F		PBlf Poilice RF3 	Police: Voter Site to Central Dispatch (FX1) 	FMN 	Law Dispatch 
-458.63750 	WQJH499 	F		PBlf Police RF4 	Police: Voter Site to Central Dispatch (FX1) 	FMN 	Law Dispatch 
-154.22000 	KXK945 	RM	186.2 PL	PplrBlf Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.11500 	KDO244 	RM	107.2 PL	PBlf Serv1 	Services [Analog Encrypted] 	FMNE 	Public Works 
-158.83500 	WNKP890 	RM		PBlf Serv2 	Services 	FMN 	Public Works 
-153.84500 	WPKS324 	BM		PBlf Services 3 	Services 	FMN 	Public Works 
-150.99500 	WPVS635 	RM		PBlf Util/Cable 	Municipal Utilities / City Cable  	FMN 	Public Works 
-153.53000 	KAB783 	RM	114.8 PL	PBlf PubWrks 	Public Works (also 153.59 Mobiles) 	FMN 	Public Works 
-153.87500 	WPFJ405 	BM		PBlf Parks 	Parks 	FMN 	Public Works 
-158.76000 	KNAG595 	BM		PBlf Plannng 	Planning Commission 	FMN 	Public Works 
-153.53000 	KAB783 	BM	114.8 PL	PBlf Utilities 	Municpal Utilities: Operations 	FMN 	Public Works 
-158.16000 	KAB783 	F		PBlf WDD 1 	Municpal Utilities: Water Data? 	Telm 	Data 
-173.31250 	WNRQ225 	F		PBlf WDD 2 	Municpal Utilities: Water Distribution Data 	Telm 	Data 
-453.97500 	WNKN952 	RM	103.5 PL	PBlf HouseAuth 	Housing Authority 	FMN 	Public Works 
-154.13000 	WPNP919 	RM	100.0 PL	Qulin FG 	Fireground 	FMN 	Fire-Tac 
-464.76250 	WQRP884 	RM	203.5 PL	Neelyvl School 	Buses 	FMN 	Schools 
-461.66250 	WQTH601 	RM	136.5 PL	PopBlf Schools 1 	Operations 	FMN 	Schools 
-451.95000 	WQTH601 	RM	167.9 PL	PopBlf Schools 2 	Operations 	FMN 	Schools 
-159.03000 	WQEV612 	M		3RCC Security 	Security (Portables) 	FMN 	Schools 
-Battles Communications (NXDN-173)	 NXDN NEXEDGE 9600	 SEMO / NE AR	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard	 Various	Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport
- SouthEast MO	Challenger Construction Company (Buchanan)	 LTR Standard	 Quinlin	Mo-Ark Communications and Electronics - 800 MHz	 LTR Standard	 Various	
+154.87500 	156.09000  	WPJP872 	RM	118.8 PL	Buterl Sheriff 	Sheriff: Dispatch (Speech Inversion capable) 	FMN 	Law Dispatch 
+159.15000 	154.83000  	WPGW551 	RM	100.0 PL	Bulter EMA R 	Emergency Management 	FMN 	Emergency Ops 
+154.83000 	   	WPGW551 	M	241.8 PL	Butler EMA M 	Emergency Management 	FMN 	Emergency Ops 
+155.14500 	   	KXA404 	B		Butler EMA 	Emergency Management (Intercounty) 	FMN 	Emergency Ops 
+152.30000 	157.56000  	WQKS329 	RM	734 DPL	Butler Co Sev Wx 	Butler County Severe Weather Storm Team  	FMN 	Emergency Ops 
+154.44500 	150.77500  	WPLX408 	RM	167.9 PL	Butler Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+153.89000 	   	WQET759 	M		ButlerFireground 	Fireground 	FMN 	Fire-Tac 
+152.40500 	157.66500  	WQSY399 	RM	754 DPL	Butler Co EMS 	Butler County EMS: Dispatch 	FMN 	EMS Dispatch 
+155.87250 	153.97250  	WPVN876 	RM	100.0 PL	Butler Health 	Health Department 	FMN 	Public Works 
+173.33750 	   	WNYI552 	F		PWSD#1 Data 	Public Water Supply District #1 Data 	Telm 	Data 
+173.36250 	   	WPWU697 	F		PWSD#2 Data 	Public Water Supply District #2 Data 	Telm 	Data 
+451.05000 	   	WPWV993 	F	754 DPL	WB PWSD4 Data 	Wayne Bulter PWSD #4: Data  	FMN 	Data 
+173.23750 	   	WNMY258 	F		Butler WDD 	Water Department Data 	Telm 	Data 
+159.10500 	   	WNWG982 	BM	136.5 PL	Butler Highway 	Highway Department 	FMN 	Public Works 
+154.40000 	159.18750  	WRAT407 	RM	107.2 PL	SEMO Search 	Search and Rescue Ops 	FMN 	Emergency Ops 
+461.96250 	466.96250  	WQXS589 	RM	CC 5TG 1050SL 1	Medic One 1050 	EMS: Dispatch (Reyno, Randolph Co AR) 	DMR 	EMS Dispatch 
+461.96250 	466.96250  	WQXS589 	RM	CC 5TG 2050SL 2	Medic One 2050 	EMS: Dispatch (Reyno, Randolph Co AR) 	DMR 	EMS Dispatch 
+155.28000 	   	WQJZ607 	BM		RMA 155.28 	EMS: Operations 	FMN 	Hospital 
+408.23750 	   	 	RM	293 NAC	JPMC Securty 	Security 	P25e 	Security 
+154.50500 	   	WQIW935 	BM		Nlyvl Sewer 	Wasterwater Treatment Operations 	FMN 	Public Works 
+155.55000 	158.97000  	WPWD880 	RM	107.2 PL	PBlf Police 	Police: Dispatch 	FMN 	Law Dispatch 
+453.48750 	   	WPWD880 	F		PBlf Police RF-A 	Police: Receive Link to 155.55 R 	FMN 	Law Dispatch 
+458.48750 	   	WPWD880 	F		PBlf Police RF-B 	Police: Receive Link to 155.55 R 	FMN 	Law Dispatch 
+151.04750 	155.91750  	WQJH499 	RM		PBlf Police New 	Police: Future  	FMN 	Law Dispatch 
+151.04750 	155.91750  	WQJH499 	RM	107 NAC	PBlf Police P25 	Police: Dispatch (Temporary) 	P25 	Law Dispatch 
+453.36250 	   	WQJH499 	F		PBlf Police RF1 	Police: Voter Site to Central Dispatch (FX2) 	FMN 	Law Dispatch 
+453.63750 	   	WQJH499 	F		PBlf Police RF2 	Police: Voter Site to Central Dispatch (FX2) 	FMN 	Law Dispatch 
+458.36250 	   	WQJH499 	F		PBlf Poilice RF3 	Police: Voter Site to Central Dispatch (FX1) 	FMN 	Law Dispatch 
+458.63750 	   	WQJH499 	F		PBlf Police RF4 	Police: Voter Site to Central Dispatch (FX1) 	FMN 	Law Dispatch 
+154.22000 	153.77000  	KXK945 	RM	186.2 PL	PplrBlf Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.11500 	158.88000  	KDO244 	RM	107.2 PL	PBlf Serv1 	Services [Analog Encrypted] 	FMNE 	Public Works 
+158.83500 	153.80000  	WNKP890 	RM		PBlf Serv2 	Services 	FMN 	Public Works 
+153.84500 	   	WPKS324 	BM		PBlf Services 3 	Services 	FMN 	Public Works 
+150.99500 	159.00000  	WPVS635 	RM		PBlf Util/Cable 	Municipal Utilities / City Cable  	FMN 	Public Works 
+153.53000 	158.16000  	KAB783 	RM	114.8 PL	PBlf PubWrks 	Public Works (also 153.59 Mobiles) 	FMN 	Public Works 
+153.87500 	159.82500  	WPFJ405 	BM		PBlf Parks 	Parks 	FMN 	Public Works 
+158.76000 	   	KNAG595 	BM		PBlf Plannng 	Planning Commission 	FMN 	Public Works 
+153.53000 	   	KAB783 	BM	114.8 PL	PBlf Utilities 	Municpal Utilities: Operations 	FMN 	Public Works 
+158.16000 	   	KAB783 	F		PBlf WDD 1 	Municpal Utilities: Water Data? 	Telm 	Data 
+173.31250 	   	WNRQ225 	F		PBlf WDD 2 	Municpal Utilities: Water Distribution Data 	Telm 	Data 
+453.97500 	458.97500  	WNKN952 	RM	103.5 PL	PBlf HouseAuth 	Housing Authority 	FMN 	Public Works 
+154.13000 	150.80500  	WPNP919 	RM	100.0 PL	Qulin FG 	Fireground 	FMN 	Fire-Tac 
+464.76250 	469.76250  	WQRP884 	RM	203.5 PL	Neelyvl School 	Buses 	FMN 	Schools 
+461.66250 	466.66250  	WQTH601 	RM	136.5 PL	PopBlf Schools 1 	Operations 	FMN 	Schools 
+451.95000 	456.95000  	WQTH601 	RM	167.9 PL	PopBlf Schools 2 	Operations 	FMN 	Schools 
+159.03000 	   	WQEV612 	M		3RCC Security 	Security (Portables) 	FMN 	Schools 
+Battles Communications (NXDN-173)	 NXDN NEXEDGE 9600	 SEMO / NE AR	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard	 Various	Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport	 SouthEast MO
+Challenger Construction Company (Buchanan)	 LTR Standard	 Quinlin	Mo-Ark Communications and Electronics - 800 MHz	 LTR Standard	 Various	

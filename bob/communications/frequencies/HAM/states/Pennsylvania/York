@@ -1,33 +1,33 @@
-453.60000 	WNFB585 	B	CSQ	YC AlphaPage 	York Co Alpha Paging Dispatch (POCSAG) 	FM 	Data 
-462.97500 	WSL717 	BM	186.2 PL	YC EMS Med10 	York Co Med-10 (Patched to TRS) 	FM 	EMS-Tac 
-154.11500 	KTO446 	BM	103.5 PL	E Manch PW 	Township Services 	FM 	Public Works 
-151.20500 	WPHZ826 	RM		FairviewPD 	Fairview Twp PD 	DMR 	Law Tac 
-453.76250 	WQEU723 	RM	173.8 PL	Fairview FD  	Fairview Township FD 	FM 	Fire-Tac 
-453.66250 	WNNY579 	RM	156.7 PL	Hvr FD UHF 	Hanover FD (Crossband Repeater) 	FM 	Fire-Tac 
-39.98000 	KLV204 	BM	CSQ	Hnvr Pw 	Public Works, Water, Sewer Depts 	FM 	Public Works 
-155.77500 	KNCS594 	RM	192.8 PL	HellamTwp PD 	Police / Township Services 	FM 	Multi-Dispatch 
-156.10500 	WPJP762 	RM	136.5 PL	Hopewell PW 	 Public Works 	FM 	Public Works 
-154.10000 	KVP709 	BM		Mnchstr PW 	Public Works 	FM 	Public Works 
-45.40000 	KXQ976 	BM		PennTwp PD 	Police 	FM 	Law Tac 
-155.82000 	KNCW550 	BM	186.2 PL	Shrewsbury 	Police Talk-Around / Township Services 	FM 	Multi-Tac 
-155.70000 	WNWA387 	RM		Spgtbry PD 	Police Talk-Around 	FM 	Law Tac 
-156.07500 	KTK764 	RM		Spgtbry PW 	Township Services 	FM 	Public Works 
-155.97000 	KNDF347 	BM		W Manch PD 1 	Police 1 	FM 	Law Tac 
-155.92500 	KJE205 	BM		W Manch PD 2 	Police 2 	FM 	Law Tac 
-154.19000 	KGD750 	BM	151.4 PL	York City F1 	York City Fire Main (Backup) 	FM 	Fire Dispatch 
-154.25000 	KGD750 	BM	179.9 PL	York Fd Adm 	York City Fire Admin (Backup) 	FM 	Fire-Tac 
-453.47500 	KNIA601 	RM	141.3 PL	RabTrns Main 	Rabbit Transit - Main 	FM 	Transportation 
-453.20000 	WPOX729 	RM	141.3 PL	RabTrns Alt 	Rabbit Transit - Alternate 	FM 	Transportation 
-153.75500 	KYD970 	M		YrkTwp PW 	Township Services 	FM 	Public Works 
-155.80500 	KYD970 	RM	192.8 PL	YrkTwp PD Y 	Police Talk Around York Twp Area 	FM 	Law Tac 
-159.43500 	KYD970 	RM	192.8 PL	YrkTwp PD D 	Police Talk Around Dallastown Area 	FM 	Law Tac 
-461.77500 	WQKJ581 	RM	156.7 PL	CYSD Buses 	School Buses 	FMN 	Schools 
-464.45000 	WPAK323 	RM	226 DPL	WSSD Buses 	School Buses 	FMN 	Schools 
-152.34500 	WQJH218 	RM	146.2 PL	York City SD 	District Ops 	FMN 	Schools 
-461.82500 	KNDK936 	RM	136.5 PL	Schl of Tech 	York County School of Technology 	FM 	Schools 
-462.20000 	WPTE210 	RM	723 DPL	PSU York 	Penn State University York Campus 	FM 	Schools 
-461.48750 	WQRE666 	RM		York Col 1 	York College Ops 	DMR 	Schools 
-462.13750 	WQRE666 	RM		York Col 2 	York College Ops 	DMR 	Schools 
-Defense Logistics Agency	 Project 25 Phase I	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Mills Communications	 NXDN NEXEDGE 4800
- Hanover	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	WellSpan Health Radio Network
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	York County	 Project 25 Phase II	 York	
+453.60000 	   	WNFB585 	B	CSQ	YC AlphaPage 	York Co Alpha Paging Dispatch (POCSAG) 	FM 	Data 
+462.97500 	467.97500  	WSL717 	BM	186.2 PL	YC EMS Med10 	York Co Med-10 (Patched to TRS) 	FM 	EMS-Tac 
+154.11500 	   	KTO446 	BM	103.5 PL	E Manch PW 	Township Services 	FM 	Public Works 
+151.20500 	   	WPHZ826 	RM		FairviewPD 	Fairview Twp PD 	DMR 	Law Tac 
+453.76250 	458.76250  	WQEU723 	RM	173.8 PL	Fairview FD  	Fairview Township FD 	FM 	Fire-Tac 
+453.66250 	   	WNNY579 	RM	156.7 PL	Hvr FD UHF 	Hanover FD (Crossband Repeater) 	FM 	Fire-Tac 
+39.98000 	   	KLV204 	BM	CSQ	Hnvr Pw 	Public Works, Water, Sewer Depts 	FM 	Public Works 
+155.77500 	158.86500  	KNCS594 	RM	192.8 PL	HellamTwp PD 	Police / Township Services 	FM 	Multi-Dispatch 
+156.10500 	   	WPJP762 	RM	136.5 PL	Hopewell PW 	 Public Works 	FM 	Public Works 
+154.10000 	   	KVP709 	BM		Mnchstr PW 	Public Works 	FM 	Public Works 
+45.40000 	   	KXQ976 	BM		PennTwp PD 	Police 	FM 	Law Tac 
+155.82000 	   	KNCW550 	BM	186.2 PL	Shrewsbury 	Police Talk-Around / Township Services 	FM 	Multi-Tac 
+155.70000 	   	WNWA387 	RM		Spgtbry PD 	Police Talk-Around 	FM 	Law Tac 
+156.07500 	   	KTK764 	RM		Spgtbry PW 	Township Services 	FM 	Public Works 
+155.97000 	   	KNDF347 	BM		W Manch PD 1 	Police 1 	FM 	Law Tac 
+155.92500 	   	KJE205 	BM		W Manch PD 2 	Police 2 	FM 	Law Tac 
+154.19000 	   	KGD750 	BM	151.4 PL	York City F1 	York City Fire Main (Backup) 	FM 	Fire Dispatch 
+154.25000 	   	KGD750 	BM	179.9 PL	York Fd Adm 	York City Fire Admin (Backup) 	FM 	Fire-Tac 
+453.47500 	458.47500  	KNIA601 	RM	141.3 PL	RabTrns Main 	Rabbit Transit - Main 	FM 	Transportation 
+453.20000 	458.20000  	WPOX729 	RM	141.3 PL	RabTrns Alt 	Rabbit Transit - Alternate 	FM 	Transportation 
+153.75500 	   	KYD970 	M		YrkTwp PW 	Township Services 	FM 	Public Works 
+155.80500 	   	KYD970 	RM	192.8 PL	YrkTwp PD Y 	Police Talk Around York Twp Area 	FM 	Law Tac 
+159.43500 	   	KYD970 	RM	192.8 PL	YrkTwp PD D 	Police Talk Around Dallastown Area 	FM 	Law Tac 
+461.77500 	466.77500  	WQKJ581 	RM	156.7 PL	CYSD Buses 	School Buses 	FMN 	Schools 
+464.45000 	469.45000  	WPAK323 	RM	226 DPL	WSSD Buses 	School Buses 	FMN 	Schools 
+152.34500 	   	WQJH218 	RM	146.2 PL	York City SD 	District Ops 	FMN 	Schools 
+461.82500 	   	KNDK936 	RM	136.5 PL	Schl of Tech 	York County School of Technology 	FM 	Schools 
+462.20000 	   	WPTE210 	RM	723 DPL	PSU York 	Penn State University York Campus 	FM 	Schools 
+461.48750 	466.48750  	WQRE666 	RM		York Col 1 	York College Ops 	DMR 	Schools 
+462.13750 	467.13750  	WQRE666 	RM		York Col 2 	York College Ops 	DMR 	Schools 
+Defense Logistics Agency	 Project 25 Phase I	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Mills Communications	 NXDN NEXEDGE 4800	 Hanover
+Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	WellSpan Health Radio Network	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+York County	 Project 25 Phase II	 York	

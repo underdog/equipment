@@ -1,22 +1,21 @@
-155.58000 	WQBJ202 	RM	100.0 PL	JCSO WEST 	Sheriff's Department Dispatch West 	FMN 	Law Dispatch 
-155.58000 	WQBJ202 	RM	118.8 PL	JCSO EAST 	Sheriff's Department Dispatch East 	FMN 	Law Dispatch 
-155.58000 	WQBJ202 	BM	127.3 PL	JCSO TA 	Sheriff's Department Dispatch Talkaround 	FMN 	Law Dispatch 
-158.79000 	WQPG687 	BM		JOCO EMA 	EMA Operations 	FMN 	Emergency Ops 
-155.89500 	WNAA296 	RM	100.0 PL	JOCO VFD DSP 	County Fire Dispatch 	FMN 	Fire Dispatch 
-154.44500 	WNAA296 	BM	110.9 PL	JOCO VFD ALT 	County Fire Alternate 	FMN 	Fire Dispatch 
-154.13000 	WNAA296 	M		JOCO VFD FG 	County Fire Ground 	FMN 	Fire-Tac 
-154.31000 	WNXW215 	RM	88.5 PL	JOCO EMS 	EMS Dispatch 	FMN 	Emergency Ops 
-155.34000 	WQCH615 	BM		JOCO HOSP 	Johnson County Memorial Hospital EMS Encode 	FMN 	Hospital 
-465.56250 	WQCH615 	F	205 DPL	JCMH 340 LNK 	Medical 340 Link 	FMN 	Hospital 
-154.86000 	WQOP800 	RM	151.4 PL	JOCO HWY DPT 	Highway Department 	FMN 	Public Works 
-151.08500 	WPQI962 	RM		JOCO HWY DPT 	Highway Deparment 	FM 	Public Works 
-159.11250 	WQQH400 	RM		JOCO HWY DPT 	Highway Department 	FMN 	Public Works 
-154.98000 	WPQI517 	RM	516 DPL	JOCO SCHOOLS 	Schools 	FMN 	Schools 
-152.45750 	WQOD511 	RM	072 DPL	JOCO SCH BUS 	County Schools - Buses - Security 	FMN 	Schools 
-151.14500 	WQBD234 	RM	072 DPL	Mtn City PD 	Police Department 	FMN 	Law Dispatch 
-154.02500 	WQAY705 	BM	100.0 PL	Mtn City FD 	Fire Department 	FMN 	Fire Dispatch 
-151.49750 	WQEJ549 	RM		Mtn City Wtr 	Water Department 	FMN 	Utilities 
-153.60500 	WQBG639 	BM	114.8 PL	Mtn City Utl 	City Utilities 	FMN 	Utilities 
-155.94750 	WQQG487 	RM	118.8 PL	MtnCityGovt 	City Government 	FMN 	Public Works 
-Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	Tri-Cities Communications Capacity Plus System	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Elizabethton	
+155.58000 	154.65000  	WQBJ202 	RM	100.0 PL	JCSO WEST 	Sheriff's Department Dispatch West 	FMN 	Law Dispatch 
+155.58000 	154.65000  	WQBJ202 	RM	118.8 PL	JCSO EAST 	Sheriff's Department Dispatch East 	FMN 	Law Dispatch 
+155.58000 	154.65000  	WQBJ202 	BM	127.3 PL	JCSO TA 	Sheriff's Department Dispatch Talkaround 	FMN 	Law Dispatch 
+158.79000 	   	WQPG687 	BM		JOCO EMA 	EMA Operations 	FMN 	Emergency Ops 
+155.89500 	150.80500  	WNAA296 	RM	100.0 PL	JOCO VFD DSP 	County Fire Dispatch 	FMN 	Fire Dispatch 
+154.44500 	   	WNAA296 	BM	110.9 PL	JOCO VFD ALT 	County Fire Alternate 	FMN 	Fire Dispatch 
+154.13000 	   	WNAA296 	M		JOCO VFD FG 	County Fire Ground 	FMN 	Fire-Tac 
+154.31000 	153.77000  	WNXW215 	RM	88.5 PL	JOCO EMS 	EMS Dispatch 	FMN 	Emergency Ops 
+155.34000 	   	WQCH615 	BM		JOCO HOSP 	Johnson County Memorial Hospital EMS Encode 	FMN 	Hospital 
+465.56250 	   	WQCH615 	F	205 DPL	JCMH 340 LNK 	Medical 340 Link 	FMN 	Hospital 
+154.86000 	156.06750  	WQOP800 	RM	151.4 PL	JOCO HWY DPT 	Highway Department 	FMN 	Public Works 
+151.08500 	159.07500  	WPQI962 	RM		JOCO HWY DPT 	Highway Deparment 	FM 	Public Works 
+159.11250 	154.37750  	WQQH400 	RM		JOCO HWY DPT 	Highway Department 	FMN 	Public Works 
+154.98000 	156.13500  	WPQI517 	RM	516 DPL	JOCO SCHOOLS 	Schools 	FMN 	Schools 
+152.45750 	157.71750  	WQOD511 	RM	072 DPL	JOCO SCH BUS 	County Schools - Buses - Security 	FMN 	Schools 
+151.14500 	154.89000  	WQBD234 	RM	072 DPL	Mtn City PD 	Police Department 	FMN 	Law Dispatch 
+154.02500 	   	WQAY705 	BM	100.0 PL	Mtn City FD 	Fire Department 	FMN 	Fire Dispatch 
+151.49750 	155.97750  	WQEJ549 	RM		Mtn City Wtr 	Water Department 	FMN 	Utilities 
+153.60500 	   	WQBG639 	BM	114.8 PL	Mtn City Utl 	City Utilities 	FMN 	Utilities 
+155.94750 	151.01750  	WQQG487 	RM	118.8 PL	MtnCityGovt 	City Government 	FMN 	Public Works 
+Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	Tri-Cities Communications Capacity Plus System	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Elizabethton

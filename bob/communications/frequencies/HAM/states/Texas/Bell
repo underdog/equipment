@@ -1,15 +1,15 @@
-155.65500 	KVJ750 	RM	162.2 PL	Bell SO VHF 	Bell Co. Sheriff Conventional Dispatch (primary on TRS) 	FM 	Law Dispatch 
-460.52500 	WNWD264 	B	167.9 PL	Bell Co Fire 	Bell Co. Fire Conventional Dispatch (Paging) 	FM 	Fire Dispatch 
-460.60000 	WPNT606 	RM	173.8 PL	EMS Dispatch 	Scott and White Hospital - EMS Dispatch Conventional 	FM 	EMS Dispatch 
-462.95000 	WRA268 	RM		EMS-HospMed9 	Scott and White Hospital - EMS to Hospital 	FM 	Hospital 
-463.17500 	WRA268 	RM		EMS-HospMed8 	Scott and White Hospital - EMS to Hospital (Phone Patch) 	FM 	Hospital 
-154.50500 	WPLX481 	RM	025 DPL	Belton ISD 	Belton ISD Buses 	FM 	Schools 
-154.98000 	WRE537 	RM	464 DPL	Killeen ISD 	Killeen ISD Buses 	FM 	Schools 
-155.26500 	WPDZ592 	BM	156.7 PL	TempleISDBus 	Temple ISD School Buses 	FM 	Schools 
-461.10000 	WNYM676 	RM	136.5 PL	Maintenance 	Maintenance 	FM 	Public Works 
-All Points Communications of Austin (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Austin	BearCom (Belton)	 NXDN NEXEDGE 9600	 Belton	BearCom (Central Texas NexEdge)	 NXDN NEXEDGE 4800
- Various	Bell County (EDACS)	 EDACS Standard	 Various	Bell County (P25)	 Project 25 Phase II	 Bell County	Bosshard Radio Service (450 MHz)
- LTR Standard	 Killeen	Bosshard Radio Service (850 MHz)	 LTR Standard	 Killeen	Commercial Mobile Radio Service (Temple 450 MHz)	 LTR Standard	 Temple
-Commercial Mobile Radio Service (Temple 850 MHz)	 LTR Standard	 Temple	Commercial Mobile Radio Service (Troy)	 LTR Standard	 Troy	Department of Veterans Affairs Central Texas	 Project 25 Phase II
- Various	Fort Hood	 Project 25 Phase I	 Killeen	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	Oncor Energy
- EDACS Narrowband Networked	 Various	Scott and White Hospital	 LTR Standard	 Temple	Wear Radio Service (Temple LTR)	 LTR Standard	 Nolanville
+155.65500 	154.71000  	KVJ750 	RM	162.2 PL	Bell SO VHF 	Bell Co. Sheriff Conventional Dispatch (primary on TRS) 	FM 	Law Dispatch 
+460.52500 	   	WNWD264 	B	167.9 PL	Bell Co Fire 	Bell Co. Fire Conventional Dispatch (Paging) 	FM 	Fire Dispatch 
+460.60000 	465.60000  	WPNT606 	RM	173.8 PL	EMS Dispatch 	Scott and White Hospital - EMS Dispatch Conventional 	FM 	EMS Dispatch 
+462.95000 	467.95000  	WRA268 	RM		EMS-HospMed9 	Scott and White Hospital - EMS to Hospital 	FM 	Hospital 
+463.17500 	468.17500  	WRA268 	RM		EMS-HospMed8 	Scott and White Hospital - EMS to Hospital (Phone Patch) 	FM 	Hospital 
+154.50500 	159.54000  	WPLX481 	RM	025 DPL	Belton ISD 	Belton ISD Buses 	FM 	Schools 
+154.98000 	153.92000  	WRE537 	RM	464 DPL	Killeen ISD 	Killeen ISD Buses 	FM 	Schools 
+155.26500 	   	WPDZ592 	BM	156.7 PL	TempleISDBus 	Temple ISD School Buses 	FM 	Schools 
+461.10000 	466.10000  	WNYM676 	RM	136.5 PL	Maintenance 	Maintenance 	FM 	Public Works 
+All Points Communications of Austin (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Austin	BearCom (Belton)	 NXDN NEXEDGE 9600	 Belton	BearCom (Central Texas NexEdge)	 NXDN NEXEDGE 4800	 Various
+Bell County (EDACS)	 EDACS Standard	 Various	Bell County (P25)	 Project 25 Phase II	 Bell County	Bosshard Radio Service (450 MHz)	 LTR Standard	 Killeen
+Bosshard Radio Service (850 MHz)	 LTR Standard	 Killeen	BrandMeister Texas	 DMR Conventional Networked	 Various	Commercial Mobile Radio Service (Temple 450 MHz)	 LTR Standard	 Temple
+Commercial Mobile Radio Service (Temple 850 MHz)	 LTR Standard	 Temple	Commercial Mobile Radio Service (Troy)	 LTR Standard	 Troy	Department of Veterans Affairs Central Texas	 Project 25 Phase II	 Various
+Fort Hood	 Project 25 Phase I	 Killeen	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various
+Scott and White Hospital	 LTR Standard	 Temple	Wear Radio Service (Temple LTR)	 LTR Standard	 Nolanville	

@@ -1,26 +1,25 @@
-154.73250 	WQRF681 	RM	5B6 NAC|TG 1	Wapello Sh  	Sheriff Dispatch 	P25e 	Law Dispatch 
-154.10750 	WPHA688 	RM		Wapello Co Fire 	Rural Fire Dispatch 	FMN 	Fire Dispatch 
-154.03250 	WPHA688 	RM		Agency/Blksbrg 	Agency / Blakesburg Fire Dispatch 	FMN 	Fire Dispatch 
-154.19000 	WPNS535 	RM	123.0 PL	WapelloFireR 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.13000 	WPNS535 	BM	156.7 PL	WapelloFire 	Fire Dispatch 	FMN 	Fire Dispatch 
-158.76000 	KNET534 	RM	167.9 PL	WapelloRoads 	Road Department 	FMN 	Public Works 
-453.17500 	WPFG438 	RM		Eddyvl Fire1 	Fire 	FM 	Fire-Tac 
-453.65000 	WPFG438 	RM		Eddyvl Fire2 	Fire 	FM 	Fire-Tac 
-158.84250 	WQRM922 	RM		Eldon Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-159.46500 	WPUL704 	RM	346 DPL	Eldon FG 	Fireground 	FMN 	Fire-Tac 
-155.58750 	WQRM922  	RM	107 NAC	Ottumwa PD 	Police 	P25e 	Law Dispatch 
-155.63250 	WQRM922  	RM	307 NAC | TG 1	Ottumwa PD 	Police 	P25e 	Law Dispatch 
-453.95000 	KAB234 	RM	734 DPL	OttumwaAid 	Ottumwa Police - Law Mutual Aid Patch 	FM 	Law Talk 
-154.35500 	WPNS535 	RM	107.2 PL	Ottumwa FD 	Fire Dispatch 	FM 	Fire Dispatch 
-153.75500 	 	BM		OttmwHazMat1 	HAZMAT 	FM 	Fire-Tac 
-155.82000 	 	BM		OttmwHazMat2 	HAZMAT 	FM 	Fire-Tac 
-151.15250 	WQRM922 	M		Ottumwa SE 	Special Event 	FMN 	Multi-Tac 
-155.17500 	KCE662 	BM	85.4 PL	OttumwaEMS1 	Regional EMS 	FM 	Hospital 
-155.20500 	KCE662 	RM	85.4 PL	OttumwaEMS2 	Regional EMS 	FM 	Hospital 
-157.35000 	KAK357 	BM		Ottumwa PW1 	Public Works 	FM 	Public Works 
-453.20000 	WPNW250 	RM	023 DPL	Ottumwa PW2 	Public Works 	FM 	Public Works 
-451.25000 	KU3583 	RM	114.8 PL	OttumwaWater 	Water Works 	FM 	Public Works 
-453.83750 	WPNW250 	RM		Ottumwa PW 	Public Works 	DMR 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Deere and Company - DMR (IL/IA)	 DMR Motorola Connect Plus (TRBO)	 Multiple	Electronic Engineering (Ottumwa)	 Motorola Type II Smartnet
- Ottumwa	Iowa DMR Users Group	 DMR Conventional Networked	 Various	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	RACOM Network
- EDACS Networked Standard	 Various	T.I.P. Rural Electric Cooperative	 DMR Conventional Networked	 Brooklyn	
+154.73250 	159.07500  	WQRF681 	RM	5B6 NAC|TG 1	Wapello Sh  	Sheriff Dispatch 	P25e 	Law Dispatch 
+154.10750 	   	WPHA688 	RM		Wapello Co Fire 	Rural Fire Dispatch 	FMN 	Fire Dispatch 
+154.03250 	   	WPHA688 	RM		Agency/Blksbrg 	Agency / Blakesburg Fire Dispatch 	FMN 	Fire Dispatch 
+154.19000 	158.92500  	WPNS535 	RM	123.0 PL	WapelloFireR 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.13000 	   	WPNS535 	BM	156.7 PL	WapelloFire 	Fire Dispatch 	FMN 	Fire Dispatch 
+158.76000 	153.96500  	KNET534 	RM	167.9 PL	WapelloRoads 	Road Department 	FMN 	Public Works 
+453.17500 	458.17500  	WPFG438 	RM		Eddyvl Fire1 	Fire 	FM 	Fire-Tac 
+453.65000 	458.65000  	WPFG438 	RM		Eddyvl Fire2 	Fire 	FM 	Fire-Tac 
+158.84250 	   	WQRM922 	RM		Eldon Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+159.46500 	153.77000  	WPUL704 	RM	346 DPL	Eldon FG 	Fireground 	FMN 	Fire-Tac 
+155.58750 	153.74750  	WQRM922  	RM	107 NAC	Ottumwa PD 	Police 	P25e 	Law Dispatch 
+155.63250 	151.31750  	WQRM922  	RM	307 NAC | TG 1	Ottumwa PD 	Police 	P25e 	Law Dispatch 
+453.95000 	458.95000  	KAB234 	RM	734 DPL	OttumwaAid 	Ottumwa Police - Law Mutual Aid Patch 	FM 	Law Talk 
+154.35500 	158.95500  	WPNS535 	RM	107.2 PL	Ottumwa FD 	Fire Dispatch 	FM 	Fire Dispatch 
+153.75500 	   	 	BM		OttmwHazMat1 	HAZMAT 	FM 	Fire-Tac 
+155.82000 	   	 	BM		OttmwHazMat2 	HAZMAT 	FM 	Fire-Tac 
+151.15250 	   	WQRM922 	M		Ottumwa SE 	Special Event 	FMN 	Multi-Tac 
+155.17500 	   	KCE662 	BM	85.4 PL	OttumwaEMS1 	Regional EMS 	FM 	Hospital 
+155.20500 	150.77500  	KCE662 	RM	85.4 PL	OttumwaEMS2 	Regional EMS 	FM 	Hospital 
+157.35000 	   	KAK357 	BM		Ottumwa PW1 	Public Works 	FM 	Public Works 
+453.20000 	458.20000  	WPNW250 	RM	023 DPL	Ottumwa PW2 	Public Works 	FM 	Public Works 
+451.25000 	456.25000  	KU3583 	RM	114.8 PL	OttumwaWater 	Water Works 	FM 	Public Works 
+453.83750 	458.83750  	WPNW250 	RM		Ottumwa PW 	Public Works 	DMR 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Deere and Company - DMR (IL/IA)	 DMR Motorola Connect Plus (TRBO)	 Multiple	Electronic Engineering (Ottumwa)	 Motorola Type II Smartnet	 Ottumwa
+Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	RACOM Network	 EDACS Networked Standard	 Various	T.I.P. Rural Electric Cooperative	 DMR Conventional Networked	 Brooklyn

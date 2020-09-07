@@ -1,37 +1,37 @@
-156.15000 	KEU979 	M	225.7 PL	Marion Shrf c2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
-465.18750 	KEU979 	M		Marion Shrf MX 	Sheriff: Mobile Extenders 	FMN 	Law Tac 
-154.04000 	WNKT666 	BM		Marion Shrf Jail 	Jail (Palmyra) [Terminated] 	FMN 	Corrections 
-151.34750 	KBP401 	RM		Marion-Han EMA R 	Emergency Management - New 	FMN 	Emergency Ops 
-155.22000 	KBP400 	BM		Marion-Han EMA 	Emergency Management 	FMN 	Emergency Ops 
-155.25000 	WQKW326 	F	118.8 PL	Marion SirenData 	Siren DTMF Data 	FMN 	Emergency Ops 
-155.54250 	WQKW326 	RM	712 DPL	Marion 911 Fire 	Fire/EMS: Dispatch  	FMN 	Fire Dispatch 
-453.85000 	WPHA282 	RM	074 DPL	Marion Highway 	Highway Department  	FMN 	Public Works 
-154.47125 	WQBP924 	F		Marion PWSD 	Marion County Public Water Supply District #1 (CSQ) 	Telm 	Data 
-155.88750 	WPVM330 	RM	465 DPL	MarionCounty EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.34000 	WPCH304 	B		HEAR-340 	Patient Reports (Hannibal Regional) 	FMN 	Hospital 
-154.04000 	WPWH465 	BM		MarR2 Fire1 	Fire 	FMN 	Fire Dispatch 
-154.19000 	WPWH465 	RM		MarR2 Fire2 	Fire (123.0?) 	FMN 	Fire Dispatch 
-155.58000 	KAB232 	RM	225.7 PL	Hannibal Police  	Police: Dispatch (131.8 in) 	FMN 	Law Dispatch 
-155.25000 	KAB232 	BM		Hannibal PD 2 	Police: Local 	FMN 	Law Tac 
-159.33000 	KAB232 	M	114.8 PL	Hannibal PD c2c  	Police: Car-to-Car  	FMN 	Law Tac 
-155.07750 	KAB232 	BM	114.8 PL	Hannibal AnCntrl 	Animal Control ? 	FMN 	Public Works 
-158.80500 	KFF358 	RM	123.0 PL	Hannibal EMA 	Emergency Management  	FMN 	Public Works 
-154.13000 	KCX435 	RM	118.8 PL	HannibalFire 	Fire/First Responders: Dispatch /Tone-Outs 	FMN 	Fire Dispatch 
-156.20250 	KCX435 	M	205 DPL	Hnbl FG 2 	Fireground 	FMN 	Fire-Tac 
-159.40500 	KCX435 	M		Hnbl Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-153.68000 	KBK271 	RM	CC 1TG *SL *	Hnbl PW 1 	Public Works / City Utilities  	DMR 	Public Works 
-153.68000 	KBK271 	RM	CC 2TG *SL *	Hnbl PW 2 	Public Works / City Utilities 	DMR 	Public Works 
-159.97500 	KBK271 	M		Hnbl Util M 	Public Works / City Utilities  	FMN 	Public Works 
-159.20250 	WNLL526 	RM	118.8 PL	HanRuralFire 	Fire: Rural Dispatch (New London) 	FMN 	Fire Dispatch 
-151.46000 	WNLL526 	M	118.8 PL	HanRurFireMX 	Fire: Mobile Extender (to repeater input) 	FMN 	Fire Dispatch 
-154.21250 	WNLL526 	M		HanRurFD MX 	Fire: Mobile Extenders / Fireground 	FMN 	Fire-Tac 
-154.35500 	WNLL526 	BM	118.8 PL	Han Rur FG2 	Fireground 	FMN 	Fire-Tac 
-159.16500 	KDQ340 	BM	107.2 PL	Palmyra Police 1 	Police: Dispatch 	FMN 	Law Dispatch 
-154.04000 	KDQ340 	BM	107.2 PL	Palmyra Police 2 	Police 	FMN 	Law Dispatch 
-154.32500 	WNSR269 	RM	107.2 PL	Palmyra Fire 	Fire: Dispatch (Rural) (was 114.8 PL) 	FMN 	Fire Dispatch 
-153.93500 	WNSR269 	M		Palmyra FG 	Fireground 	FMN 	Fire-Tac 
-173.21000 	WPYI614 	F		Palmyra PW Data 	Public Works Telemetry (CSQ) 	Telm 	Data 
-152.36000 	WNRF559 	BM		Marion Co School 	Operations 	FMN 	Schools 
-463.42500 	WPGC588 	RM		PalmyraR1 School 	Operations (poss. 167.9 4/15) 	FMN 	Schools 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	BASF - Palmyra MO	 NXDN NEXEDGE 4800	 Palmyra	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Palmyra	Quincy 2-Way Communications 	 LTR Standard	 Quincy	
+156.15000 	   	KEU979 	M	225.7 PL	Marion Shrf c2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+465.18750 	   	KEU979 	M		Marion Shrf MX 	Sheriff: Mobile Extenders 	FMN 	Law Tac 
+154.04000 	   	WNKT666 	BM		Marion Shrf Jail 	Jail (Palmyra) [Terminated] 	FMN 	Corrections 
+151.34750 	154.00250  	KBP401 	RM		Marion-Han EMA R 	Emergency Management - New 	FMN 	Emergency Ops 
+155.22000 	   	KBP400 	BM		Marion-Han EMA 	Emergency Management 	FMN 	Emergency Ops 
+155.25000 	   	WQKW326 	F	118.8 PL	Marion SirenData 	Siren DTMF Data 	FMN 	Emergency Ops 
+155.54250 	158.93250  	WQKW326 	RM	712 DPL	Marion 911 Fire 	Fire/EMS: Dispatch  	FMN 	Fire Dispatch 
+453.85000 	458.85000  	WPHA282 	RM	074 DPL	Marion Highway 	Highway Department  	FMN 	Public Works 
+154.47125 	   	WQBP924 	F		Marion PWSD 	Marion County Public Water Supply District #1 (CSQ) 	Telm 	Data 
+155.88750 	151.14500  	WPVM330 	RM	465 DPL	MarionCounty EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	WPCH304 	B		HEAR-340 	Patient Reports (Hannibal Regional) 	FMN 	Hospital 
+154.04000 	   	WPWH465 	BM		MarR2 Fire1 	Fire 	FMN 	Fire Dispatch 
+154.19000 	159.07500  	WPWH465 	RM		MarR2 Fire2 	Fire (123.0?) 	FMN 	Fire Dispatch 
+155.58000 	153.78500  	KAB232 	RM	225.7 PL	Hannibal Police  	Police: Dispatch (131.8 in) 	FMN 	Law Dispatch 
+155.25000 	   	KAB232 	BM		Hannibal PD 2 	Police: Local 	FMN 	Law Tac 
+159.33000 	   	KAB232 	M	114.8 PL	Hannibal PD c2c  	Police: Car-to-Car  	FMN 	Law Tac 
+155.07750 	   	KAB232 	BM	114.8 PL	Hannibal AnCntrl 	Animal Control ? 	FMN 	Public Works 
+158.80500 	151.03250  	KFF358 	RM	123.0 PL	Hannibal EMA 	Emergency Management  	FMN 	Public Works 
+154.13000 	156.08250  	KCX435 	RM	118.8 PL	HannibalFire 	Fire/First Responders: Dispatch /Tone-Outs 	FMN 	Fire Dispatch 
+156.20250 	   	KCX435 	M	205 DPL	Hnbl FG 2 	Fireground 	FMN 	Fire-Tac 
+159.40500 	   	KCX435 	M		Hnbl Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+153.68000 	158.16000  	KBK271 	RM	CC 1TG *SL *	Hnbl PW 1 	Public Works / City Utilities  	DMR 	Public Works 
+153.68000 	158.16000  	KBK271 	RM	CC 2TG *SL *	Hnbl PW 2 	Public Works / City Utilities 	DMR 	Public Works 
+159.97500 	   	KBK271 	M		Hnbl Util M 	Public Works / City Utilities  	FMN 	Public Works 
+159.20250 	156.11250  	WNLL526 	RM	118.8 PL	HanRuralFire 	Fire: Rural Dispatch (New London) 	FMN 	Fire Dispatch 
+151.46000 	156.11250  	WNLL526 	M	118.8 PL	HanRurFireMX 	Fire: Mobile Extender (to repeater input) 	FMN 	Fire Dispatch 
+154.21250 	   	WNLL526 	M		HanRurFD MX 	Fire: Mobile Extenders / Fireground 	FMN 	Fire-Tac 
+154.35500 	   	WNLL526 	BM	118.8 PL	Han Rur FG2 	Fireground 	FMN 	Fire-Tac 
+159.16500 	   	KDQ340 	BM	107.2 PL	Palmyra Police 1 	Police: Dispatch 	FMN 	Law Dispatch 
+154.04000 	   	KDQ340 	BM	107.2 PL	Palmyra Police 2 	Police 	FMN 	Law Dispatch 
+154.32500 	156.09750  	WNSR269 	RM	107.2 PL	Palmyra Fire 	Fire: Dispatch (Rural) (was 114.8 PL) 	FMN 	Fire Dispatch 
+153.93500 	   	WNSR269 	M		Palmyra FG 	Fireground 	FMN 	Fire-Tac 
+173.21000 	   	WPYI614 	F		Palmyra PW Data 	Public Works Telemetry (CSQ) 	Telm 	Data 
+152.36000 	   	WNRF559 	BM		Marion Co School 	Operations 	FMN 	Schools 
+463.42500 	468.42500  	WPGC588 	RM		PalmyraR1 School 	Operations (poss. 167.9 4/15) 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	BASF - Palmyra MO	 NXDN NEXEDGE 4800	 Palmyra	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra
+Quincy 2-Way Communications 	 LTR Standard	 Quincy	

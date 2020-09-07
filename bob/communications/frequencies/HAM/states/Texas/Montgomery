@@ -1,64 +1,63 @@
-158.82000 	WQKZ358 	RM	107.2 PL	Montg FD 1 	Countywide Dispatch (except Conroe) with 00-136 on MCHD TRS 	FMN 	Fire Dispatch 
-158.79000 	WQKZ358 	RM	107.2 PL	Montg FD 2 	Countywide Fire Response (except Conroe) with 00-137 on MCHD TRS 	FMN 	Fire-Tac 
-154.96500 	WQKZ403 	RM	107.2 PL	Montg FD 3 	Countywide EMS Response (except Conroe) with 01-091 on MCHD TRS (Patched to Med-Tac 3 operated by MCHD)  	FMN 	Fire-Tac 
-158.87250 	 	RM	146.2 PL	MCFD Tac 9 	County Fire Tactical 9/Fireground 9 	FMN 	Fire-Tac 
-155.19000 	KVN497 	RM	072 DPL	MCFD Tac 10 	County Fire Tactical 10/Fireground 10 "Tac North" (with 01-102 on MCHD TRS) 	FMN 	Fire-Tac 
-155.58000 	WQNP803 	RM	115 DPL	MCFD Tac 11 	County Fire Tactical 11/Fireground 11 "Tac North East" (Splendora Area) 	FMN 	Fire-Tac 
-154.43000 	KNHE638 	RM	073 DPL	MCFD Tac 12 	County Fire Tactical 12/Fireground 12 "Tac East" (with 01-103 on MCHD TRS) 	FMN 	Fire-Tac 
-154.35500 	KNFX297 	RM	146.2 PL	MCFD Tac 13 	County Fire Tactical 13/Fireground 13 	FMN 	Fire-Tac 
-155.04000 	KYD971 	RM	114 DPL	MCFD Tac 14 	County Fire Tactical 14/Fireground 14 "Tac South" (with 01-104 on MCHD TRS) 	FMN 	Fire-Tac 
-154.74000 	WQMC202 	RM	074 DPL	MCFD Tac 15 	County Fire Tactical 15/Fireground 15 "Tac West" (with 01-105 on MCHD TRS) 	FMN 	Fire-Tac 
-154.40000 	KNGX604 	RM	116 DPL	MCFD Tac 16 	County Fire Tactical 16/Fireground 16 	FMN 	Fire-Tac 
-154.34000 	KNGG510 	BM	146.2 PL	CutNSht VFD3 	Cut N Shoot Fireground 	FMN 	Fire-Tac 
-154.23500 	WNWN648 	M	146.2 PL	Gngrland FD3 	Grangerland Fireground 	FMN 	Fire-Tac 
-154.17500 	WPRR346 	BM	146.2 PL	LkConroe FD3 	Lake Conroe Fireground 	FMN 	Fire-Tac 
-154.34000 	KNGG510 	RM	146.2 PL	Magnolia FD3 	Magnolia Fireground 	FM 	Fire-Tac 
-154.20500 	WSR812 	BM	146.2 PL	NewCaney FD3 	New Caney Fireground 	FMN 	Fire-Tac 
-154.22000 	KMA701 	BM	146.2 PL	NMontgom FD3 	North Montgomery County Fireground 	FMN 	Fire-Tac 
-154.35500 	KNFX297 	RM	293 NAC	SMontgomFD3D 	South Montgomery County Fireground Staging (Digital) 	P25 	Fire-Tac 
-153.83000 	KNFX297 	M	146.2 PL	SMontgom FD7 	South Montgomery County Talkaround 	FM 	Fire-Tac 
-154.14500 	 	RM	146.2 PL	Splendra FD3 	Splendora Fireground 	FMN 	Fire-Tac 
-154.07000 	KNHW619 	BM	146.2 PL	Timbrlks FD3 	Timberlakes Fireground 	FMN 	Fire-Tac 
-154.40000 	KNGX604 	BM	146.2 PL	MontgomeryFD 	Montgomery Fire Department 	FMN 	Fire-Tac 
-154.81500 	WNYH569 	BM	146.2 PL	FD 154.815 	Fire Department 	FMN 	Fire-Tac 
-155.87250 	WQMP715 	BM	146.2 PL	RiverPlantat 	River Plantation Fire Department 	FMN 	Fire-Tac 
-158.81250 	 	BM	311 DPL	FD 158.8125 	Fire Department 	FMN 	Fire-Tac 
-158.92500 	 	BM	107.2 PL	Woodlands FD 	The Woodlands Fire Department 	FMN 	Fire-Tac 
-155.32500 	KFM395 	RM	146.2 PL	MCHD EMS 1 	EMS 1 Dispatch/Paging (with 02-011 on MCHD TRS) 	FMN 	EMS Dispatch 
-155.40000 	WPXC448 	BM	146.2 PL	MCHD MedTac2 	EMS Tactical 2 	FM 	EMS-Tac 
-460.18750 	WQKC830 	RM	054 DPL	MCHD Tac1875 	EMS Tactical South 	FMN 	EMS-Tac 
-460.26250 	WQKC831 	RM	114 DPL	MCHD Tac2625 	EMS Tactical South 	FMN 	EMS-Tac 
-155.49000 	WNAU966 	RM	146.2 PL	Mont Con5 C5 	Montgomery Co. Pct. 5 Constable Talkaround 	FM 	Law Talk 
-155.08500 	WNCZ423 	RM	146.2 PL	Mont SO VHF1 	Montgomery Co. Sheriff VHF Backup 1 	FM 	Law Tac 
-155.25000 	WNCZ423 	RM	146.2 PL	Mont SO VHF2 	Montgomery Co. Sheriff VHF Backup 2 	FM 	Law Tac 
-154.95000 	KKD302 	M	CSQ	Texas Law 1 	Statewide Law Enforcement Car-Car 	FM 	Interop 
-155.37000 	KKD302 	BM	CSQ	Texas Law 2 	Statewide Law Enforcement Base-Car 	FM 	Interop 
-155.98500 	KKD302 	M	146.2 PL	Mont SO VHF5 	Montgomery Co. Sheriff VHF Backup 5 (old supervisors channel) 	FM 	Law Tac 
-155.43000 	WNFE910 	BM	146.2 PL	Mont SO VHF8 	Montgomery Co. Sheriff VHF Backup 8 (old detectives channel) 	FM 	Law Tac 
-154.19000 	KKH773 	RM	146.2 PL	Conroe FD 1 	Fire 1 Dispatch (with 02-031 on MCHD TRS) 	FM 	Fire Dispatch 
-154.25000 	KKH773 	RM	146.2 PL	Conroe FD 2 	Fire 2 Operations (with 02-032 on MCHD TRS) 	FM 	Fire-Tac 
-154.32500 	KKH773 	RM	146.2 PL	Conroe FD 3 	Fire 3 (with 01-101 on MCHD TRS) 	FMN 	Fire-Tac 
-155.38500 	WPXC448 	BM	146.2 PL	MCHD MedTac1 	EMS Tactical 1 	FM 	EMS-Tac 
-155.10000 	KVN497 	RM		Conroe PW 	Public Works 	FM 	Public Works 
-153.00500 	WQHS252 	RM		Conroe ISD E 	Conroe ISD East School Buses (Caney Creek Feeder Zone) 	FM 	Schools 
-489.91250 	WPJT465 	RM		CISD Mainten 	Conroe ISD Maintenance 	FM 	Schools 
-154.51500 	KLI517 	BM	026 DPL	Conroe ISD N 	Conroe ISD North School Buses (Conroe High Feeder Zone) 	FM 	Schools 
-151.71500 	KNFR577 	BM		Conroe ISD 	Conroe ISD Operations 	FM 	Schools 
-152.37500 	WQDN340 	RM	026 DPL	Conroe ISD S 	Conroe ISD South School Buses (Woodlands, Oak Ridge, College Park Feeder Zones) 	FM 	Schools 
-152.94500 	WQDN340 	BM		Conroe ISD 	Conroe ISD Transportation 	FM 	Schools 
-159.99000 	WQDN340 	BM	026 DPL	Conroe ISD 	Conroe ISD Transportation 	FM 	Schools 
-151.07000 	WPWE839 	RM		MagnISD BusR 	Magnolia ISD Buses 	FM 	Schools 
-157.56000 	 	M	244 DPL	MagnISD BusS 	Magnolia ISD Buses Bus-to-Bus 	FM 	Schools 
-462.15000 	WPIH714 	RM		Magn ISD Ops 	Magnolia ISD Maintenance, Admin 	FM 	Schools 
-155.20500 	KNJV887 	BM	141.3 PL	NewCaney ISD 	Buses Primary 	FM 	Schools 
-461.65000 	WQBN490 	RM		NHMCCD Secur 	Security and Maintenance 	FM 	Security 
-461.10000 	WPHV966 	RM	054 DPL	WISD Buses 	Buses 	FMN 	Schools 
-148.15000 	 	RM	167.9 PL	CAP HouNorth Ana 	Houston North (Ch. R-14, Splendora, Analog) 	FMN 	Military 
-148.15000 	 	RM	68F NAC	CAP HouNorth Dig 	Houston North (Ch. R-14, Splendora, Digital) 	P25 	Military 
-172.06250 	 	RM	301 NAC	CBP DNet 202 	D-Net 202 Conroe 	P25 	Federal 
-CenterPoint Energy Houston Electric	 OpenSky 9600 baud	 Houston	Entergy 	 Project 25 Phase II	 Various	FleetTalk (Houston Connect Plus)	 DMR Motorola Connect Plus (TRBO)
- Houston	FleetTalk (The Woodlands)	 LTR Standard	 The Woodlands	Harris County DMR-MARC	 DMR Conventional Networked	 Houston	Montgomery County (EDACS)
- EDACS Standard	 Montgomery County	Montgomery County (P25)	 Project 25 Phase II	 Conroe	Montgomery County Ham DMR	 DMR Conventional Networked	 The Woodlands
-NW Radio (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Houston	NW Radio (NXDN)	 NXDN NEXEDGE 4800	 Various	Sam Houston Electric Cooperative	 DMR Motorola Connect Plus (TRBO)
- Various	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	Texas Wide Area Radio Network (TxWARN)
- Project 25 Phase II	 Various	
+158.82000 	151.44500  	WQKZ358 	RM	107.2 PL	Montg FD 1 	Countywide Dispatch (except Conroe) with 00-136 on MCHD TRS 	FMN 	Fire Dispatch 
+158.79000 	150.80500  	WQKZ358 	RM	107.2 PL	Montg FD 2 	Countywide Fire Response (except Conroe) with 00-137 on MCHD TRS 	FMN 	Fire-Tac 
+154.96500 	153.78500  	WQKZ403 	RM	107.2 PL	Montg FD 3 	Countywide EMS Response (except Conroe) with 01-091 on MCHD TRS (Patched to Med-Tac 3 operated by MCHD)  	FMN 	Fire-Tac 
+158.87250 	159.04500  	 	RM	146.2 PL	MCFD Tac 9 	County Fire Tactical 9/Fireground 9 	FMN 	Fire-Tac 
+155.19000 	150.79000  	KVN497 	RM	072 DPL	MCFD Tac 10 	County Fire Tactical 10/Fireground 10 "Tac North" (with 01-102 on MCHD TRS) 	FMN 	Fire-Tac 
+155.58000 	154.65000  	WQNP803 	RM	115 DPL	MCFD Tac 11 	County Fire Tactical 11/Fireground 11 "Tac North East" (Splendora Area) 	FMN 	Fire-Tac 
+154.43000 	156.01500  	KNHE638 	RM	073 DPL	MCFD Tac 12 	County Fire Tactical 12/Fireground 12 "Tac East" (with 01-103 on MCHD TRS) 	FMN 	Fire-Tac 
+154.35500 	153.77000  	KNFX297 	RM	146.2 PL	MCFD Tac 13 	County Fire Tactical 13/Fireground 13 	FMN 	Fire-Tac 
+155.04000 	153.84500  	KYD971 	RM	114 DPL	MCFD Tac 14 	County Fire Tactical 14/Fireground 14 "Tac South" (with 01-104 on MCHD TRS) 	FMN 	Fire-Tac 
+154.74000 	156.00000  	WQMC202 	RM	074 DPL	MCFD Tac 15 	County Fire Tactical 15/Fireground 15 "Tac West" (with 01-105 on MCHD TRS) 	FMN 	Fire-Tac 
+154.40000 	156.09750  	KNGX604 	RM	116 DPL	MCFD Tac 16 	County Fire Tactical 16/Fireground 16 	FMN 	Fire-Tac 
+154.34000 	   	KNGG510 	BM	146.2 PL	CutNSht VFD3 	Cut N Shoot Fireground 	FMN 	Fire-Tac 
+154.23500 	   	WNWN648 	M	146.2 PL	Gngrland FD3 	Grangerland Fireground 	FMN 	Fire-Tac 
+154.17500 	   	WPRR346 	BM	146.2 PL	LkConroe FD3 	Lake Conroe Fireground 	FMN 	Fire-Tac 
+154.34000 	156.07500  	KNGG510 	RM	146.2 PL	Magnolia FD3 	Magnolia Fireground 	FM 	Fire-Tac 
+154.20500 	   	WSR812 	BM	146.2 PL	NewCaney FD3 	New Caney Fireground 	FMN 	Fire-Tac 
+154.22000 	   	KMA701 	BM	146.2 PL	NMontgom FD3 	North Montgomery County Fireground 	FMN 	Fire-Tac 
+154.35500 	153.77000  	KNFX297 	RM	293 NAC	SMontgomFD3D 	South Montgomery County Fireground Staging (Digital) 	P25 	Fire-Tac 
+153.83000 	   	KNFX297 	M	146.2 PL	SMontgom FD7 	South Montgomery County Talkaround 	FM 	Fire-Tac 
+154.14500 	   	 	RM	146.2 PL	Splendra FD3 	Splendora Fireground 	FMN 	Fire-Tac 
+154.07000 	   	KNHW619 	BM	146.2 PL	Timbrlks FD3 	Timberlakes Fireground 	FMN 	Fire-Tac 
+154.40000 	   	KNGX604 	BM	146.2 PL	MontgomeryFD 	Montgomery Fire Department 	FMN 	Fire-Tac 
+154.81500 	   	WNYH569 	BM	146.2 PL	FD 154.815 	Fire Department 	FMN 	Fire-Tac 
+155.87250 	   	WQMP715 	BM	146.2 PL	RiverPlantat 	River Plantation Fire Department 	FMN 	Fire-Tac 
+158.81250 	   	 	BM	311 DPL	FD 158.8125 	Fire Department 	FMN 	Fire-Tac 
+158.92500 	   	 	BM	107.2 PL	Woodlands FD 	The Woodlands Fire Department 	FMN 	Fire-Tac 
+155.32500 	158.99500  	KFM395 	RM	146.2 PL	MCHD EMS 1 	EMS 1 Dispatch/Paging (with 02-011 on MCHD TRS) 	FMN 	EMS Dispatch 
+155.40000 	   	WPXC448 	BM	146.2 PL	MCHD MedTac2 	EMS Tactical 2 	FM 	EMS-Tac 
+460.18750 	465.18750  	WQKC830 	RM	054 DPL	MCHD Tac1875 	EMS Tactical South 	FMN 	EMS-Tac 
+460.26250 	465.26250  	WQKC831 	RM	114 DPL	MCHD Tac2625 	EMS Tactical South 	FMN 	EMS-Tac 
+155.49000 	158.86500  	WNAU966 	RM	146.2 PL	Mont Con5 C5 	Montgomery Co. Pct. 5 Constable Talkaround 	FM 	Law Talk 
+155.08500 	155.64000  	WNCZ423 	RM	146.2 PL	Mont SO VHF1 	Montgomery Co. Sheriff VHF Backup 1 	FM 	Law Tac 
+155.25000 	153.86000  	WNCZ423 	RM	146.2 PL	Mont SO VHF2 	Montgomery Co. Sheriff VHF Backup 2 	FM 	Law Tac 
+154.95000 	   	KKD302 	M	CSQ	Texas Law 1 	Statewide Law Enforcement Car-Car 	FM 	Interop 
+155.37000 	154.95000  	KKD302 	BM	CSQ	Texas Law 2 	Statewide Law Enforcement Base-Car 	FM 	Interop 
+155.98500 	   	KKD302 	M	146.2 PL	Mont SO VHF5 	Montgomery Co. Sheriff VHF Backup 5 (old supervisors channel) 	FM 	Law Tac 
+155.43000 	   	WNFE910 	BM	146.2 PL	Mont SO VHF8 	Montgomery Co. Sheriff VHF Backup 8 (old detectives channel) 	FM 	Law Tac 
+154.19000 	154.38500  	KKH773 	RM	146.2 PL	Conroe FD 1 	Fire 1 Dispatch (with 02-031 on MCHD TRS) 	FM 	Fire Dispatch 
+154.25000 	153.89000  	KKH773 	RM	146.2 PL	Conroe FD 2 	Fire 2 Operations (with 02-032 on MCHD TRS) 	FM 	Fire-Tac 
+154.32500 	154.01000  	KKH773 	RM	146.2 PL	Conroe FD 3 	Fire 3 (with 01-101 on MCHD TRS) 	FMN 	Fire-Tac 
+155.38500 	   	WPXC448 	BM	146.2 PL	MCHD MedTac1 	EMS Tactical 1 	FM 	EMS-Tac 
+155.10000 	151.20500  	KVN497 	RM		Conroe PW 	Public Works 	FM 	Public Works 
+153.00500 	159.49500  	WQHS252 	RM		Conroe ISD E 	Conroe ISD East School Buses (Caney Creek Feeder Zone) 	FM 	Schools 
+489.91250 	492.91250  	WPJT465 	RM		CISD Mainten 	Conroe ISD Maintenance 	FM 	Schools 
+154.51500 	   	KLI517 	BM	026 DPL	Conroe ISD N 	Conroe ISD North School Buses (Conroe High Feeder Zone) 	FM 	Schools 
+151.71500 	   	KNFR577 	BM		Conroe ISD 	Conroe ISD Operations 	FM 	Schools 
+152.37500 	157.63500  	WQDN340 	RM	026 DPL	Conroe ISD S 	Conroe ISD South School Buses (Woodlands, Oak Ridge, College Park Feeder Zones) 	FM 	Schools 
+152.94500 	   	WQDN340 	BM		Conroe ISD 	Conroe ISD Transportation 	FM 	Schools 
+159.99000 	   	WQDN340 	BM	026 DPL	Conroe ISD 	Conroe ISD Transportation 	FM 	Schools 
+151.07000 	159.01500  	WPWE839 	RM		MagnISD BusR 	Magnolia ISD Buses 	FM 	Schools 
+157.56000 	   	 	M	244 DPL	MagnISD BusS 	Magnolia ISD Buses Bus-to-Bus 	FM 	Schools 
+462.15000 	467.15000  	WPIH714 	RM		Magn ISD Ops 	Magnolia ISD Maintenance, Admin 	FM 	Schools 
+155.20500 	   	KNJV887 	BM	141.3 PL	NewCaney ISD 	Buses Primary 	FM 	Schools 
+461.65000 	466.65000  	WQBN490 	RM		NHMCCD Secur 	Security and Maintenance 	FM 	Security 
+461.10000 	466.10000  	WPHV966 	RM	054 DPL	WISD Buses 	Buses 	FMN 	Schools 
+148.15000 	143.70000  	 	RM	167.9 PL	CAP HouNorth Ana 	Houston North (Ch. R-14, Splendora, Analog) 	FMN 	Military 
+148.15000 	143.70000  	 	RM	68F NAC	CAP HouNorth Dig 	Houston North (Ch. R-14, Splendora, Digital) 	P25 	Military 
+172.06250 	165.23750  	 	RM	301 NAC	CBP DNet 202 	D-Net 202 Conroe 	P25 	Federal 
+BrandMeister Texas	 DMR Conventional Networked	 Various	CenterPoint Energy Houston Electric	 OpenSky 9600 baud	 Houston	Entergy 	 Project 25 Phase II	 Various
+FleetTalk (Houston Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Houston	FleetTalk (The Woodlands)	 LTR Standard	 The Woodlands	Harris County DMR-MARC	 DMR Conventional Networked	 Houston
+Montgomery County (EDACS)	 EDACS Standard	 Montgomery County	Montgomery County (P25)	 Project 25 Phase II	 Conroe	Montgomery County Ham DMR	 DMR Conventional Networked	 The Woodlands
+NW Radio (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Houston	NW Radio (NXDN)	 NXDN NEXEDGE 4800	 Various	Sam Houston Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various
+TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	

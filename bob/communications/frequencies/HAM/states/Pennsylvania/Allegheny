@@ -1,243 +1,243 @@
-453.41250 	WPLH761 	RM	203.5 PL	AC IncCmdA 	AC Incident Command Analog 	FMN 	Emergency Ops 
-453.41250 	WPLH761 	RM	ACE NAC	AC IncCmdD 	AC Incident Command Digital 	P25e 	Emergency Ops 
-494.35000 	WQJH473 	RM	107.2 PL	ACES Psfty 1 	Public Safety 1 	FMN 	Emergency Ops 
-494.92500 	WQJH473 	RM	173.8 PL	ACES Psfty 2/DPW 	Public Safety 2 / DPW 	FMN 	Emergency Ops 
-473.51250 	WQKI226 	M	179.9 PL	ACES Psfty 3 	Public Safety 3 	FMN 	Emergency Ops 
-453.93750 	WPLH761 	M	82.5 PL	C/W FD Tac1N 	Countywide Fire Tac 1 (North) 	FMN 	Fire-Tac 
-458.31250 	KD34400 	M	97.4 PL	C/W FD Tac2N 	Countywide Fire Tac 2 (North) 	FMN 	Fire-Tac 
-453.33750 	KD34400 	M	91.5 PL	C/W FD Tac3E 	Countywide Fire Tac 3 (East) 	FMN 	Fire-Tac 
-453.66250 	KD34400 	M	210.7 PL	C/W FD Tac4E 	Countywide Fire Tac 4 (East) 	FMN 	Fire-Tac 
-458.33750 	KD34400 	M	94.8 PL	C/W FD Tac5S 	Countywide Fire Tac 5 (South) 	FMN 	Fire-Tac 
-458.66250 	KD34400 	M	218.1 PL	C/W FD Tac6S 	Countywide Fire Tac 6 (South) 	FMN 	Fire-Tac 
-453.21250 	KD34400 	M	71.9 PL	C/W FD Tac7W 	Countywide Fire Tac 7 (West) 	FMN 	Fire-Tac 
-458.23750 	KD34400 	M	225.7 PL	C/W FD Tac8W 	Countywide Fire Tac 8 (West) 	FMN 	Fire-Tac 
-458.18750 	WPLH761 	M	77.0 PL	C/W EMS Tac1 	Countywide EMS Tac 1 	FMN 	EMS-Tac 
-458.93750 	WPLH761 	M	100.0 PL	C/W EMS Tac2 	Countywide EMS Tac 2 	FMN 	EMS-Tac 
-458.21250 	KD34400 	M	79.7 PL	C/W EMS Tac3 	Countywide EMS Tac 3 	FMN 	EMS-Tac 
-453.23750 	KD34400 	M	88.5 PL	C/W EMS Tac4 	Countywide EMS Tac 4 	FMN 	EMS-Tac 
-453.26250 	WPLH761 	M	233.6 PL	C/W PD Tac 1 	Countywide Police Tac 1 	FMN 	Law Tac 
-458.16250 	KD34400 	M	241.8 PL	C/W PD Tac 2 	Countywide Police Tac 2 	FMN 	Law Tac 
-453.13750 	KD34400 	M	131.8 PL	C/W PD Tac 3 	Countywide Police Tac 3 	FMN 	Law Tac 
-453.23750 	KD34400 	M	250.3 PL	C/W PD Tac 4 	Countywide Police Tac 4 	FMN 	Law Tac 
-458.13750 	KD34400 	M	241.8 PL	C/W FP Tac 	Countywide Fire Police Tac 	FMN 	Multi-Tac 
-453.53750 	KD34400 	M	186.2 PL	Landing Zone 	Landing Zone Tac 	FMN 	Multi-Tac 
-453.71250 	KD34400 	M	CSQ	Pub Sfty Tac 	Public Safety Tac 	FMN 	Multi-Tac 
-453.52500 	WQEQ857 	RM	210.7 PL	PEMARS 	AC PEMA UHF 	FMN 	Emergency Ops 
-453.11250 	KD34400 	RM	131.8 PL	EMS Mob Rp1 	Countywide - EMSI Mobile Repeater 1 	FMN 	EMS-Tac 
-453.13750 	KD34400 	RM	131.8 PL	EMS Mob Rp2 	Countywide - EMSI Mobile Repeater 2 	FMN 	EMS-Tac 
-453.16250 	KD34400 	RM	131.8 PL	EMS Mob Rp3 	Countywide - EMSI Mobile Repeater 3 	FMN 	EMS-Tac 
-453.21250 	KD34400 	RM	131.8 PL	EMS Mob Rp4 	Countywide - EMSI Mobile Repeater 4 	FMN 	EMS-Tac 
-458.63750 	KD34400 	M	186.2 PL	Hazmat 1 	Countywide - Emergency Services Hazmat 1 	FMN 	Fire-Tac 
-458.53750 	KD34400 	M	186.2 PL	Hazmat 2 	Countywide - Emergency Services Hazmat 2 	FMN 	Fire-Tac 
-471.13750 	WIL941 	RM	156.7 PL	ES Regional 	Countywide - Emergency Services Regional 	FM 	EMS-Tac 
-453.06250 	KD34400 	RM	186.2 PL	EMS Mob Rp1 	Countywide - Ems Mobile Repeater 1 	FMN 	EMS-Tac 
-155.34000 	WNAB885 	BM	CSQ	HEAR 340 	Countywide - HEAR 340 	FMN 	Hospital 
-155.40000 	WNAB885 	BM	CSQ	HEAR 400 	Countywide - HEAR 400 	FMN 	Hospital 
-463.10000 	WNAB885 	RM	186.2 PL	Jfsn Med 5 	Countywide - Jefferson ER Med 5 	FMN 	Hospital 
-463.00000 	WNAB885 	BM	77.0 PL	Med 1 	Countywide - Medic Command Ch 1 	FMN 	Hospital 
-463.02500 	WNAB885 	BM	79.7 PL	Med 2 	Countywide - Medic Command Ch 2 	FMN 	Hospital 
-463.05000 	WNAB885 	BM	123.0 PL	Med 3 	Countywide - Medic Command Ch 3 	FMN 	Hospital 
-463.07500 	WNAB885 	BM	100.0 PL	Med 4 	Countywide - Medic Command Ch 4 	FMN 	Hospital 
-463.10000 	WNAB885 	BM	229.1 PL	Med 5 	Countywide - Medic Command Ch 5 	FMN 	Hospital 
-463.12500 	WNAB885 	BM	82.5 PL	Med 6 	Countywide - Medic Command Ch 6 	FMN 	Hospital 
-463.15000 	WNAB885 	BM	233.6 PL	Med 7 	Countywide - Medic Command Ch 7 	FMN 	Hospital 
-463.17500 	WNAB885 	BM	85.4 PL	Med 8 	Countywide - Medic Command Ch 8 	FMN 	Hospital 
-470.38750 	WQKE816 	RM	123.0 PL	East Fire 1 	East Fire Dispatch 	FMN 	Fire Dispatch 
-470.32500 	WQIW705 	RM	131.8 PL	East FD Ops2 	East Fire Ops 2 	FMN 	Fire-Tac 
-460.35000 	WQKB502 	RM	179.9 PL	East FD Ops3 	East Fire Ops 3 	FMN 	Fire-Tac 
-470.41250 	WIL944 	RM	103.5 PL	East FD Ops4 	East Fire Ops 4 	FMN 	Fire-Tac 
-472.83750 	WQKE816 	RM	203.5 PL	East Pub Sft 	East Public Safety 	FMN 	Multi-Tac 
-471.31250 	WPWF330 	RM	146.2 PL	East EMS Dsp 	East EMS Dispatch 	FMN 	EMS Dispatch 
-154.07000 	 	M	107.2 PL	Hmstd FD Ops 	Homestead Fire Operations 	FMN 	Fire-Tac 
-154.29500 	WPAU852 	BM	025 DPL	MVFD SteelVa 	Mon Valley Fire Operations - Steel Valley 	FMN 	Fire-Tac 
-471.56250 	WPJS265 	RM	103.5 PL	North Fire 1 	North Fire Dispatch 1 	FM 	Fire Dispatch 
-471.71250 	WPJS265 	RM	103.5 PL	North Fire 2 	North Fire Ops 2 	FM 	Fire-Tac 
-471.76250 	WPJS265 	RM	107.2 PL	North Fire 3 	North Fire Ops 3 	FM 	Fire-Tac 
-494.63750 	 	RM	167.9 PL	North Fire 4 	North Fire Dispatch 4 	FMN 	Fire Dispatch 
-495.51250 	 	RM	162.2 PL	North Fire 5 	North Fire Ops 5 	FMN 	Fire-Tac 
-460.16250 	WQBJ516 	RM	025 DPL	North Fire 6 	North Fire Dispatch 6 	FMN 	Fire Dispatch 
-496.58750 	WPLT696 	RM	606 DPL	North Fire 7 	North Fire Dispatch 7 	FM 	Fire Dispatch 
-472.03750 	WPJS265 	RM	103.5 PL	North P-Sfty 	North Public Safety 	FM 	Multi-Tac 
-460.28750 	WQBJ516 	RM	023 DPL	AK Valley Ps 	AK Valley Public Safety 	FMN 	Multi-Tac 
-494.41250 	 	RM	179.9 PL	QV Pub Sfty 	Quaker Valley Pub Sfty 	FMN 	Multi-Tac 
-471.83750 	WPJS265 	RM	103.5 PL	North EMS 1 	North EMS 1 	FM 	EMS-Tac 
-471.88750 	WPJS265 	RM	107.2 PL	North EMS 3 	North EMS 3 	FM 	EMS-Tac 
-471.33750 	WPWF330 	RM	151.4 PL	S EMS Disp 	South Zone - EMS Dispatch 	FMN 	EMS Dispatch 
-453.62500 	WPGU992 	RM	156.7 PL	S EMS Ops 2 	South Zone - South EMS Ops 2 	FMN 	EMS-Talk 
-453.12500 	WNVC986 	RM		S EMS Ops 	South Zone - South EMS Ops 	FM 	EMS-Talk 
-452.30000 	WPLY429 	RM	131.8 PL	TriCo S-EMS 	South Zone - Tri-Community South EMS Operations 	FM 	EMS-Talk 
-460.60000 	WYK602 	RM	118.8 PL	S Fire Disp1 	South Zone - Fire Dispatch 	FMN 	Fire Dispatch 
-460.62500 	KGC764 	RM	192.8 PL	S Fire Ops 2 	South Zone - South Fire Ops 2 	FMN 	Fire-Tac 
-471.10000 	WPPY371 	RM	210.7 PL	S Fire Ops 3 	South Zone - South Fire Ops 3 	FMN 	Fire-Tac 
-453.77500 	KNNM958 	RM	131.8 PL	S Fire Ops 4 	South Zone - South Fire Ops 4 	FM 	Fire-Tac 
-472.31250 	WQDU636 	RM	127.3 PL	S Fire Ops 5 	South Zone - South Fire Ops 5 	FMN 	Fire-Tac 
-460.20000 	KTH468 	RM	110.9 PL	So Pub Sfty 	South Zone - Public Safety 	FMN 	Fire-Tac 
-472.17500 	WPNS314 	RM	100.0 PL	Mt Lebo Psft 	South Zone - Mt Lebanon Pub Sfty 	FMN 	Emergency Ops 
-452.15000 	WPNY658 	RM	103.5 PL	MTLFD Fire15 	South Zone - Mount Lebanon Volunteer Fire Dept. - FD Business 	FM 	Fire-Talk 
-453.35000 	WNWU443 	RM	131.8 PL	USTC FDisp 	South Zone - Upper St Clair Fire Dispatch 	FM 	Fire Dispatch 
-453.36250 	KD34400 	M	114.8 PL	S Fire Tac11 	South Zone - South Tactical 11 	FM 	Fire-Tac 
-453.58750 	KD34400 	M	114.8 PL	S Fire Tac12 	South Zone - South Tactical 12 	FM 	Fire-Tac 
-460.62500 	KGC764 	M	192.8 PL	S Fire T/A 9 	South Zone - South Fire T/A 09 Ops 1 	FM 	Fire-Tac 
-460.63750 	KGC764 	RM	103.5 PL	MLFD Tac 14 	South Zone - Mt. Lebanon Fire Dept. Port Rptr 	FM 	Fire-Tac 
-465.53750 	WPQA805 	M	114.8 PL	S Fire Tac13 	South Zone - South Tactical 13 	FM 	Fire-Tac 
-471.10000 	WPPY371 	M	210.7 PL	S Fire T/A10 	South Zone - South Fire T/A 10 Ops 2 	FM 	Fire-Tac 
-472.22500 	WQDU636 	RM	116 DPL	Brntwd FD Op 	South Zone - Brentwood FD Ops 	FMN 	Fire-Tac 
-470.43750 	WIL941 	RM	123.0 PL	West EMS Dsp 	West EMS Dispatch 	FMN 	EMS Dispatch 
-471.73750 	WPKL604 	RM	114.8 PL	West Fire 1 	West Fire 1 Dispatch 	FMN 	Fire Dispatch 
-471.63750 	WPKL604 	RM	073 DPL	West Fire 2 	West Fire 2 Operations 	FMN 	Fire-Tac 
-472.73750 	WPKL604 	RM	241.8 PL	West Fire 3 	West Fire 3 Operations 	FMN 	Fire-Tac 
-471.46250 	WPKL604 	RM	606 DPL	West Fire 4 	West Fire 4 Operations 	FM 	Fire-Tac 
-472.41250 	WQEY858 	RM	023 DPL	West Fire 5 	West Fire 5 North Fayette Operations 	FM 	Fire-Tac 
-460.37500 	KTM984 	RM	131.8 PL	West Pub Sft 	West Public Safety 	FMN 	Multi-Tac 
-460.25000 	KNEP919 	RM	131.8 PL	Bthl Prk EMS 	Bethel Park EMS / Police Disp 	FMN 	Multi-Dispatch 
-472.52500 	WQIH566 	RM	206.5 PL	Bthl Prk FD 	Bethel Park Fire 	FMN 	Fire Dispatch 
-460.26250 	WQWQ289 	RM	136.5 PL	Cora FD Disp 	Coraopolis Fire Dispatch 	FMN 	Fire Dispatch 
-151.20500 	 	RM	624 DPL	CoraopolisFD 	Coraopolis Fire Dispatch/DPW 	FMN 	Fire Dispatch 
-39.98000 	 	BM	CSQ	CoraopolisFD 	Coraopolis Fire Operations 	FM 	Fire-Tac 
-470.50000 	WPTG499 	RM	151.4 PL	Imperial FD 	Imperial Fire 	FMN 	Fire Dispatch 
-453.90000 	WNMP787 	RM	127.3 PL	Monvle FDisp 	Monroeville Fire Dispatch 	FMN 	Fire Dispatch 
-453.42500 	WNMP787 	RM	110.9 PL	Monvle PSfty 	Monroeville Public Safety 	FMN 	Multi-Tac 
-472.71250 	WQDS391 	RM	173.8 PL	Moon Fire 	Moon Township Fire 	FMN 	Fire-Tac 
-451.91250 	 	RM	025 DPL	PH FIRE 	Pleasant Hills Fire Channel 2 	FMN 	Fire-Tac 
-453.07500 	WPRU677 	RM	210.7 PL	PH FIRE PRIV 	Pleasant Hills Fire Private 	FMN 	Fire-Tac 
-452.26250 	WQRF854 	RM	179.9 PL	PH PUB SAFTY 	Pleasant Hills Public Safety 	FMN 	Multi-Tac 
-464.40000 	WNCY371 	RM	114.8 PL	SteelVal EMS 	Steel Valley Ambulance 	FMN 	EMS Dispatch 
-155.77500 	WNJX678 	RM	146.2 PL	Valley EMS 	Valley EMS 	FMN 	Fire Dispatch 
-471.40000 	WQGC649 	RM	072 DPL	Whitehall FD 	Whitehall Boro. Fire Department  	FMN 	Fire-Talk 
-471.13750 	WIL941 	RM	156.7 PL	ACES Regnl 	County - Regional (Backup PD Ch) 	FM 	Law Tac 
-494.80000 	WQJH472 	RM	141.3 PL	AC PD/SHRF 	County Police / Sheriff Dispatch 	FMN 	Law Dispatch 
-494.50000 	WQJH473 	RM	127.3 PL	County Index 	Countywide Index 	FMN 	Law Tac 
-460.40000 	WQKC489 	RM	114.8 PL	East PD 1 	East Police 1 	FMN 	Law Dispatch 
-472.58750 	WPWF330 	RM	167.9 PL	East PD 2 	East Police 2 	FMN 	Law Dispatch 
-472.16250 	WQKI226 	RM	162.2 PL	East PD 3 	East Police 3 	FMN 	Law Dispatch 
-470.33750 	KIA858 	RM	141.3 PL	East PD 4 	East Police 4 	FMN 	Law Dispatch 
-470.31250 	KKL956 	RM	107.2 PL	East PD 5 	East Police 5 	FMN 	Law Dispatch 
-470.36250 	KKL956 	RM	206.5 PL	East PD 6 	East Police 6 	FMN 	Law Dispatch 
-471.58750 	WPJS265 	RM	103.5 PL	Nrth P Disp1 	North Police Ch 1 	FM 	Law Dispatch 
-472.06250 	 	RM	103.5 PL	North Pd 10 	North Police Ch 10 	FM 	Law Dispatch 
-495.01250 	WPLT696 	RM	186.2 PL	Nrth PD Ch11 	North Police Ch 11 	FMN 	Law Dispatch 
-471.86250 	WPJS265 	RM	103.5 PL	Nrth P Disp2 	North Police Ch 2 	FM 	Law Dispatch 
-471.61250 	WPJS265 	RM	107.2 PL	Nrth PD Ch3 	North Police Ch. 3 	FM 	Law Tac 
-471.98750 	WPJS265 	RM	107.2 PL	Nrth PD Ch4 	North Police Ch. 4 	FM 	Law Tac 
-470.81250 	WPJS265 	RM	107.2 PL	Nrth PD Ch5 	North Police Ch. 5 	FM 	Law Tac 
-494.86250 	WPLT696 	RM	432 DPL	McC PD EMA 1 	North Zone - McCandless Police Tac and EMA 1 	FM 	Law Tac 
-494.71250 	WPLT696 	RM	432 DPL	McC PD EMA 2 	North Zone - McCandless Police Tac and EMA 2 	FM 	Law Tac 
-155.88000 	KCT217 	RM	162.2 PL	PD VHF Inter 	Police VHF Interop 	FMN 	Law Tac 
-472.57500 	WQKI225 	RM	192.8 PL	South PD 1 	South Police 1 	FMN 	Law Dispatch 
-470.48750 	WQKI225 	RM	136.5 PL	South PD 2 	South Police 2 	FMN 	Law Dispatch 
-453.72500 	WNMC871 	RM	123.0 PL	Collier PD 	South Zone - Collier Twp. Police Ch. 6 	FMN 	Law Tac 
-453.67500 	WQAJ560 	RM	94.8 PL	Scott PD Tac 	South Zone - Scott Twp. Police Tac 	FMN 	Law Tac 
-470.51250 	WQKI226 	M	167.9 PL	Tactical 	Tactical Ops 	FMN 	Law Tac 
-460.50000 	KTM984 	RM	103.5 PL	W PD Disp1 	West Police Ch 1 	FMN 	Law Dispatch 
-460.42500 	WPMV338 	RM	131.8 PL	W PD Ch 3 	West Police Ch 3 	FMN 	Law Talk 
-460.02500 	KBU516 	BM	131.8 PL	W PD S1 	West Police S-1 	FMN 	Law Dispatch 
-460.12500 	KGB236 	RM	131.8 PL	W PD S2 	West Police S-2 	FMN 	Law Dispatch 
-460.48750 	 	M	265 DPL	West Pd Tac7 	West Police Tac 7 	FMN 	Law Talk 
-460.25000 	KNEP920 	RM	131.8 PL	BethPark PD 	Bethel Park Police 	FMN 	Law Dispatch 
-460.15000 	KNEN257 	RM	179.9 PL	Findlay PD A 	Findlay Police Analog 	FMN 	Law Dispatch 
-460.15000 	KNEN257 	RM	293 NAC	Findlay PD D 	Findlay Police Digital 	P25 	Law Dispatch 
-460.17500 	KNNG714 	RM	131.8 PL	KenTwp PD 	Kennedy Twp Police 	FMN 	Law Talk 
-453.61250 	WNMP787  	RM	141.3 PL	Monrvl PD UHF 	Monroeville/Pitcairn Police 	FMN 	Law Dispatch 
-460.05000 	KGB710 	RM	114.8 PL	Moon PD 	Moon, Crescent Police Dispatch 	FMN 	Law Dispatch 
-471.16250 	WQCH250 	RM	131.8 PL	NFayte PD 	North Fayette Police Dispatch 	FM 	Law Dispatch 
-460.10000 	KGD539 	RM	141.3 PL	NVrsls PDisp 	North Versailles Police Dispatch 	FMN 	Law Dispatch 
-494.31250 	 	M	023 DPL	Ohio PD 7 	Ohio Twp PD Ch 7 	FM 	Law Tac 
-45.48000 	KEC552 	BM	CSQ	Stowe PD/PW 	Stowe Police and DPW 	FM 	Law Talk 
-460.55000 	KNEP921 	RM	131.8 PL	UpStCl PDisp 	Upper St. Clair Police 	FMN 	Law Dispatch 
-155.11500 	WPWY520 	RM	107.2 PL	W Mfln PD 	West Mifflin Police 	FMN 	Law Dispatch 
-460.47500 	KNNF322 	RM	91.5 PL	W Mfln PD 	West Mifflin Police 	FMN 	Law Dispatch 
-460.45000 	KDQ343 	RM	131.8 PL	Whitehall PD 	Whitehall Police 	FMN 	Law Dispatch 
-857.48750 	WPJG234 	M	023 DPL	ACJ Direct 1 	Direct 1 Low Power 	FM 	Corrections 
-858.21250 	WPJG234 	M	023 DPL	ACJ Direct 2 	Direct 2 Low Power 	FM 	Corrections 
-858.48750 	WPJG234 	M	023 DPL	ACJ Direct 3 	Direct 3 Low Power 	FM 	Corrections 
-458.16250 	KD34400 	M	173.8 PL	Courthouse 1 	Courthouse Ops 1 	FMN 	Security 
-458.63750 	KD34400 	M	173.8 PL	Courthouse 2 	Courthouse Ops 2 	FMN 	Security 
-452.77500 	KTQ235 	RM	192.8 PL	PAT Police 	PAT Police Dispatch 	FMN 	Law Dispatch 
-453.75000 	WNWW689 	RM	192.8 PL	PAT Road Ops 	Road Operations 	FMN 	Transportation 
-30.82000 	KGB732 	BM	192.8 PL	PAT Maint 	Maintenance 	FM 	Transportation 
-453.20000 	WNWW689 	RM	192.8 PL	PAT Ross Twp 	Ross Township 	FMN 	Transportation 
-453.30000 	WNWW689 	RM	192.8 PL	PAT W Miflin 	West Mifflin 	FMN 	Transportation 
-453.50000 	WNWW689 	RM	192.8 PL	PAT Collier 	Collier Twp 	FMN 	Transportation 
-470.66250 	KNS870 	RM	88.5 PL	PAT LRT 	LRT 	FMN 	Transportation 
-470.68750 	WPZK225 	RM	88.5 PL	PAT LRT Yard 	LRT Yard 	FMN 	Transportation 
-470.73750 	KNS870 	RM	88.5 PL	PAT LRT Supp 	LRT Support 	FMN 	Transportation 
-471.81250 	KNS870 	RM	88.5 PL	PAT LRT Mant 	LRT Maintenance 	FMN 	Transportation 
-470.61250 	KNS870 	B	88.5 PL	PAT LRT Data 	Light Rail Transit (LRT) Data 	FMN 	Transportation 
-494.92500 	WQJH473 	RM	173.8 PL	AC Pub Works/PS2 	County DPW / Psfty 2 	FMN 	Public Works 
-453.82500 	KQX267 	RM	123.0 PL	ACA Maint 	Allegheny Co Airport Maint (W Mifflin) 	FMN 	Multi-Talk 
-464.33750 	WQAH337 	RM	127.3 PL	ALCOSAN TP 	ALCOSAN Treatment Plant 	FMN 	Utilities 
-472.11250 	WPJS265 	RM	103.5 PL	Aspinwall PW 	Aspinwall DPW 	FM 	Public Works 
-151.08500 	WZT851 	RM	162.2 PL	Baldwin DPW 	Baldwin DPW 	FMN 	Public Works 
-155.04000 	KDL815 	BM	114.8 PL	Bellevue PW 	Bellevue DPW 	FMN 	Public Works 
-151.65500 	 	BM	023 DPL	Ben Avon DPW 	Ben Avon DPW 	FMN 	Public Works 
-158.82000 	KDN545 	BM	156.7 PL	Bethel Pk PW 	Bethel Park Public Works 	FMN 	Public Works 
-472.11250 	WPJS265 	RM	173.8 PL	Blawnox PW 	Blawnox DPW 	FM 	Public Works 
-159.24750 	WPWW715 	RM	114 DPL	Castle Shn 	Castle Shannon DPW 	FMN 	Public Works 
-155.04000 	KDL815 	BM	186.2 PL	CastShn DPW 	Castle Shannon Public Works 	FMN 	Public Works 
-453.72500 	WNMC871 	RM	88.5 PL	Dormont DPW 	Dormont DPW 	FMN 	Public Works 
-155.02500 	KXQ738 	RM	134 DPL	Eliz Twp PW 	Elizabeth Twp Public Works 	FMN 	Public Works 
-155.55000 	WPLR560 	RM	123.0 PL	Emsworth PW 	Emsworth DPW 	FMN 	Public Works 
-472.11250 	WPJS265 	RM	118.8 PL	Etna PW 	Etna DPW 	FM 	Public Works 
-155.74500 	WPMM308 	RM	179.9 PL	Findlay DPW 	Findlay Township Public Works 	FMN 	Public Works 
-472.11250 	WPJS265 	RM	192.8 PL	FoxChapel PW 	Fox Chapel DPW 	FM 	Public Works 
-156.16500 	WNCR995 	BM	103.5 PL	Harrison PW 	Harrison Twp Pub Works 	FMN 	Public Works 
-471.91250 	WPJS265 	RM	156.7 PL	Indiana DPW 	Indiana Twp DPW 	FM 	Public Works 
-150.99500 	WPIV794 	RM	131.8 PL	Jefferson DPW 	Jefferson Hills DPW 	FMN 	Public Works 
-471.93750 	WPJS265 	RM	114.8 PL	Marshall PW 	Marshall Twp DPW 	FM 	Public Works 
-494.53750 	WPLT696 	RM	606 DPL	Mcandless PW 	Mccandless DPW 	FM 	Public Works 
-472.11250 	WPJS265 	RM	131.8 PL	Millvale PW 	Millvale DPW 	FMN 	Public Works 
-158.20500 	KLU919 	RM	146.2 PL	Monr Water 	Monroeville Water Authority 	FMN 	Public Works 
-155.82000 	WNNS622 	RM	162.2 PL	Monrvl DPW 	Monroeville DPW 	FMN 	Public Works 
-154.02500 	KEX276 	RM	107.2 PL	MoonTwp DPW 	Moon Twp  DPW 	FMN 	Public Works 
-156.22500 	WQPX605 	RM	45 RAN	N Fayette DPW 	North Fayette DPW 	NXDN 	Public Works 
-472.36250 	KGD539 	RM	141.3 PL	N Vers PW 	N Versailles Pub Works 	FMN 	Public Works 
-472.11250 	WPJS265 	RM	114.8 PL	Ohara PW 	Ohara Twp DPW 	FM 	Public Works 
-153.60500 	WPLX907 	RM	743 DPL	PAWC Ops 	Pennsylvania American Water Company 	FMN 	Public Works 
-158.77500 	KDZ436 	RM	364 DPL	PH Boro DPW 	Pleasant Hills DPW 	FMN 	Public Works 
-471.93750 	WPJS265 	RM	127.3 PL	Pine Twp PW 	Pine Twp DPW 	FM 	Public Works 
-155.62500 	WNPZ628 	RM	162.2 PL	Plum Boro PW 	Plum Borough DPW 	FMN 	Public Works 
-472.11250 	WPJS265 	RM	127.3 PL	Reserve PW 	Reserve Twp DPW 	FM 	Public Works 
-471.91250 	WPJS265 	RM	114.8 PL	Richland PW 	Richland Twp DPW 	FM 	Public Works 
-155.94000 	KGH440 	RM	192.8 PL	Ross DPW 	Ross Twp DPW 	FMN 	Public Works 
-471.88750 	WPJS265 	RM	118.8 PL	Shaler PW 	Shaler Twp DPW 	FM 	Public Works 
-472.11250 	WPJS265 	RM	141.3 PL	Sharpsbrg PW 	Sharpsburg DPW 	FM 	Public Works 
-151.14500 	WPSP352 	RM	226 DPL	So Park DPW 	South Park DPW 	FMN 	Public Works 
-453.35000 	WNWU443 	RM	146.2 PL	UpStClair PW 	Upper Saint Clair PW 	FMN 	Public Works 
-471.91250 	WPJS265 	RM	103.5 PL	West Deer PW 	West Deer Twp DPW 	FM 	Public Works 
-156.18000 	KNIR716 	BM	192.8 PL	West View PW 	West View Public Works 	FMN 	Public Works 
-153.54500 	KAW954 	RM	10 RAN	Westvw Water 	West View Water Authority(TG1) 	NXDN 	Public Works 
-451.20000 	KGE297 	RM	118.8 PL	WPJ Water 	Wilkinsburg Penn Joint Water 	FMN 	Utilities 
-453.70000 	KGB327 	RM	71.9 PL	PGH Fir 1 	Fire Dispatch Ch 1 	FMN 	Fire Dispatch 
-453.85000 	KGB327 	RM	118.8 PL	PGH Fir 2 	Fire Operations Ch 2 	FMN 	Fire-Tac 
-462.95000 	WNAB885 	RM	91.5 PL	PGH EMS 1 	EMS Dispatch Ch 1 	FMN 	EMS Dispatch 
-462.97500 	WNAB885 	RM	136.5 PL	PGH EMS 2 	EMS Operations Ch 2 	FMN 	EMS-Tac 
-453.10000 	KGB327 	RM	218.1 PL	Pgh Pol 1 	Police Ch 1 Dispatch - Zones 1/2 	FMN 	Law Dispatch 
-453.25000 	KGB327 	RM	67.0 PL	Pgh Pol 2 	Police Ch 2 Dispatch - Zones 3/6 	FMN 	Law Dispatch 
-453.40000 	KGB327 	RM	114.8 PL	Pgh Pol 3 	Police Ch 3 Dispatch - Zones 4/5 	FMN 	Law Dispatch 
-453.55000 	KGB327 	RM	69.3 PL	Pgh Pol 4 	Police Citywide Index Ch 4 	FMN 	Law Talk 
-453.45000 	WNKK745 	RM	74.4 PL	Pgh Ops 5 	Police Operations Ch 5 	FMN 	Law Talk 
-453.95000 	WQH261 	RM	225.7 PL	Pgh Admin 6 	Police Administration Ch 6 	FMN 	Law Talk 
-458.36250 	KD34400 	M	186.2 PL	Pgh T/A 12 	Police T/A Ch 12 	FMN 	Law Talk 
-453.13750 	KD34400 	M	ACE NAC	Police Tac 3 	Police Tac 3  	P25E 	Law Tac 
-453.23750 	KD34400 	M	ACE NAC	Police Tac 4 	Police Tac 4 	P25E 	Law Tac 
-458.33750 	KD34400 	M	186.2 PL	Pgh PD T/A 1 	PD - Low Power Talkaround F-1 	FM 	Law Talk 
-453.33750 	KD34400 	M	186.2 PL	Pgh PD T/A 2 	PD - Low Power Talkaround F-2 	FM 	Law Talk 
-453.36250 	KD34400 	M	186.2 PL	Pgh PD T/A 3 	PD - Low Power Talkaround F-3 	FM 	Law Talk 
-453.53750 	KD34400 	M	186.2 PL	Pgh PD T/A 4 	PD - Low Power Talkaround F-4 	FM 	Law Talk 
-453.58750 	KD34400 	M	186.2 PL	Pgh PD T/A 5 	PD - Low Power Talkaround F-5 	FM 	Law Talk 
-458.06250 	KD34400 	M	186.2 PL	Pgh PD T/A 6 	PD - Low Power Tertiary Six 	FM 	Law Talk 
-458.11250 	KD34400 	M	186.2 PL	Pgh PD T/A 7 	PD - Low Power Tertiary Seven 	FM 	Law Talk 
-458.13750 	KD34400 	M	186.2 PL	Pgh PD T/A 8 	PD - Low Power Tertiary Eight 	FM 	Law Talk 
-458.16250 	KD34400 	M	186.2 PL	Pgh PD T/A 9 	PD - Low Power Tertiary Nine 	FM 	Law Talk 
-458.21250 	KD34400 	M	186.2 PL	Pgh PD T/A10 	PD - Low Power Tertiary Ten 	FM 	Law Talk 
-458.23750 	KD34400 	M	186.2 PL	Pgh PD T/A11 	PD - Low Power Tertiary Eleven 	FM 	Law Talk 
-458.31250 	KD34400 	M	186.2 PL	Pgh PD T/A12 	PD - Low Power Tertiary Twelve 	FM 	Law Talk 
-154.54000 	KAF414 	BM	91.5 PL	PD Sp Events 	Police Special Events (Aux) 	FM 	Security 
-471.48750 	WPWB211 	RM	F18 NAC	Pgh Sch Pd 	Pittsburgh School Police 	P25 	Law Dispatch 
-Allegheny County Government	 OpenSky 9600 baud	 Pittsburgh	Allegheny County Jail	 Project 25 Phase I	 Pittsburgh	Allegheny Ludlum	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Brackenridge	American Airlines (Pittsburgh International Airport)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Moon	Bettis Atomic Power Laboratory	 Project 25 Phase I	 West Mifflin	Equitable Gas
- EDACS Standard	 Pittsburgh	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Gordon Food Service	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Imperial
-Mobile Radio Service	 LTR Standard	 Pittsburgh	Omni William Penn Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pittsburgh	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I
- Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Pittsburgh DPW-Heinz Field	 DMR Motorola Connect Plus (TRBO)	 Pittsburgh	Staley Communications (Pittsburgh)
- LTR Standard	 Pittsburgh	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH	United States Air Force (3D6)	 Project 25 Phase I	 Various
-University of Pittsburgh	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pittsburgh	US Steel Corporation	 LTR Standard	 Various	
+453.41250 	458.41250  	WPLH761 	RM	203.5 PL	AC IncCmdA 	AC Incident Command Analog 	FMN 	Emergency Ops 
+453.41250 	458.41250  	WPLH761 	RM	ACE NAC	AC IncCmdD 	AC Incident Command Digital 	P25e 	Emergency Ops 
+494.35000 	497.35000  	WQJH473 	RM	107.2 PL	ACES Psfty 1 	Public Safety 1 	FMN 	Emergency Ops 
+494.92500 	497.92500  	WQJH473 	RM	173.8 PL	ACES Psfty 2/DPW 	Public Safety 2 / DPW 	FMN 	Emergency Ops 
+473.51250 	   	WQKI226 	M	179.9 PL	ACES Psfty 3 	Public Safety 3 	FMN 	Emergency Ops 
+453.93750 	   	WPLH761 	M	82.5 PL	C/W FD Tac1N 	Countywide Fire Tac 1 (North) 	FMN 	Fire-Tac 
+458.31250 	   	KD34400 	M	97.4 PL	C/W FD Tac2N 	Countywide Fire Tac 2 (North) 	FMN 	Fire-Tac 
+453.33750 	   	KD34400 	M	91.5 PL	C/W FD Tac3E 	Countywide Fire Tac 3 (East) 	FMN 	Fire-Tac 
+453.66250 	   	KD34400 	M	210.7 PL	C/W FD Tac4E 	Countywide Fire Tac 4 (East) 	FMN 	Fire-Tac 
+458.33750 	   	KD34400 	M	94.8 PL	C/W FD Tac5S 	Countywide Fire Tac 5 (South) 	FMN 	Fire-Tac 
+458.66250 	   	KD34400 	M	218.1 PL	C/W FD Tac6S 	Countywide Fire Tac 6 (South) 	FMN 	Fire-Tac 
+453.21250 	   	KD34400 	M	71.9 PL	C/W FD Tac7W 	Countywide Fire Tac 7 (West) 	FMN 	Fire-Tac 
+458.23750 	   	KD34400 	M	225.7 PL	C/W FD Tac8W 	Countywide Fire Tac 8 (West) 	FMN 	Fire-Tac 
+458.18750 	   	WPLH761 	M	77.0 PL	C/W EMS Tac1 	Countywide EMS Tac 1 	FMN 	EMS-Tac 
+458.93750 	   	WPLH761 	M	100.0 PL	C/W EMS Tac2 	Countywide EMS Tac 2 	FMN 	EMS-Tac 
+458.21250 	   	KD34400 	M	79.7 PL	C/W EMS Tac3 	Countywide EMS Tac 3 	FMN 	EMS-Tac 
+453.23750 	   	KD34400 	M	88.5 PL	C/W EMS Tac4 	Countywide EMS Tac 4 	FMN 	EMS-Tac 
+453.26250 	   	WPLH761 	M	233.6 PL	C/W PD Tac 1 	Countywide Police Tac 1 	FMN 	Law Tac 
+458.16250 	   	KD34400 	M	241.8 PL	C/W PD Tac 2 	Countywide Police Tac 2 	FMN 	Law Tac 
+453.13750 	   	KD34400 	M	131.8 PL	C/W PD Tac 3 	Countywide Police Tac 3 	FMN 	Law Tac 
+453.23750 	   	KD34400 	M	250.3 PL	C/W PD Tac 4 	Countywide Police Tac 4 	FMN 	Law Tac 
+458.13750 	   	KD34400 	M	241.8 PL	C/W FP Tac 	Countywide Fire Police Tac 	FMN 	Multi-Tac 
+453.53750 	   	KD34400 	M	186.2 PL	Landing Zone 	Landing Zone Tac 	FMN 	Multi-Tac 
+453.71250 	   	KD34400 	M	CSQ	Pub Sfty Tac 	Public Safety Tac 	FMN 	Multi-Tac 
+453.52500 	458.52500  	WQEQ857 	RM	210.7 PL	PEMARS 	AC PEMA UHF 	FMN 	Emergency Ops 
+453.11250 	458.11250  	KD34400 	RM	131.8 PL	EMS Mob Rp1 	Countywide - EMSI Mobile Repeater 1 	FMN 	EMS-Tac 
+453.13750 	458.13750  	KD34400 	RM	131.8 PL	EMS Mob Rp2 	Countywide - EMSI Mobile Repeater 2 	FMN 	EMS-Tac 
+453.16250 	458.16250  	KD34400 	RM	131.8 PL	EMS Mob Rp3 	Countywide - EMSI Mobile Repeater 3 	FMN 	EMS-Tac 
+453.21250 	458.21250  	KD34400 	RM	131.8 PL	EMS Mob Rp4 	Countywide - EMSI Mobile Repeater 4 	FMN 	EMS-Tac 
+458.63750 	   	KD34400 	M	186.2 PL	Hazmat 1 	Countywide - Emergency Services Hazmat 1 	FMN 	Fire-Tac 
+458.53750 	   	KD34400 	M	186.2 PL	Hazmat 2 	Countywide - Emergency Services Hazmat 2 	FMN 	Fire-Tac 
+471.13750 	474.13750  	WIL941 	RM	156.7 PL	ES Regional 	Countywide - Emergency Services Regional 	FM 	EMS-Tac 
+453.06250 	458.06250  	KD34400 	RM	186.2 PL	EMS Mob Rp1 	Countywide - Ems Mobile Repeater 1 	FMN 	EMS-Tac 
+155.34000 	   	WNAB885 	BM	CSQ	HEAR 340 	Countywide - HEAR 340 	FMN 	Hospital 
+155.40000 	   	WNAB885 	BM	CSQ	HEAR 400 	Countywide - HEAR 400 	FMN 	Hospital 
+463.10000 	468.10000  	WNAB885 	RM	186.2 PL	Jfsn Med 5 	Countywide - Jefferson ER Med 5 	FMN 	Hospital 
+463.00000 	468.00000  	WNAB885 	BM	77.0 PL	Med 1 	Countywide - Medic Command Ch 1 	FMN 	Hospital 
+463.02500 	468.02500  	WNAB885 	BM	79.7 PL	Med 2 	Countywide - Medic Command Ch 2 	FMN 	Hospital 
+463.05000 	468.05000  	WNAB885 	BM	123.0 PL	Med 3 	Countywide - Medic Command Ch 3 	FMN 	Hospital 
+463.07500 	468.07500  	WNAB885 	BM	100.0 PL	Med 4 	Countywide - Medic Command Ch 4 	FMN 	Hospital 
+463.10000 	468.10000  	WNAB885 	BM	229.1 PL	Med 5 	Countywide - Medic Command Ch 5 	FMN 	Hospital 
+463.12500 	468.12500  	WNAB885 	BM	82.5 PL	Med 6 	Countywide - Medic Command Ch 6 	FMN 	Hospital 
+463.15000 	468.15000  	WNAB885 	BM	233.6 PL	Med 7 	Countywide - Medic Command Ch 7 	FMN 	Hospital 
+463.17500 	468.17500  	WNAB885 	BM	85.4 PL	Med 8 	Countywide - Medic Command Ch 8 	FMN 	Hospital 
+470.38750 	473.38750  	WQKE816 	RM	123.0 PL	East Fire 1 	East Fire Dispatch 	FMN 	Fire Dispatch 
+470.32500 	473.32500  	WQIW705 	RM	131.8 PL	East FD Ops2 	East Fire Ops 2 	FMN 	Fire-Tac 
+460.35000 	465.35000  	WQKB502 	RM	179.9 PL	East FD Ops3 	East Fire Ops 3 	FMN 	Fire-Tac 
+470.41250 	473.41250  	WIL944 	RM	103.5 PL	East FD Ops4 	East Fire Ops 4 	FMN 	Fire-Tac 
+472.83750 	475.83750  	WQKE816 	RM	203.5 PL	East Pub Sft 	East Public Safety 	FMN 	Multi-Tac 
+471.31250 	474.31250  	WPWF330 	RM	146.2 PL	East EMS Dsp 	East EMS Dispatch 	FMN 	EMS Dispatch 
+154.07000 	   	 	M	107.2 PL	Hmstd FD Ops 	Homestead Fire Operations 	FMN 	Fire-Tac 
+154.29500 	   	WPAU852 	BM	025 DPL	MVFD SteelVa 	Mon Valley Fire Operations - Steel Valley 	FMN 	Fire-Tac 
+471.56250 	474.56250  	WPJS265 	RM	103.5 PL	North Fire 1 	North Fire Dispatch 1 	FM 	Fire Dispatch 
+471.71250 	474.71250  	WPJS265 	RM	103.5 PL	North Fire 2 	North Fire Ops 2 	FM 	Fire-Tac 
+471.76250 	474.76250  	WPJS265 	RM	107.2 PL	North Fire 3 	North Fire Ops 3 	FM 	Fire-Tac 
+494.63750 	497.63750  	 	RM	167.9 PL	North Fire 4 	North Fire Dispatch 4 	FMN 	Fire Dispatch 
+495.51250 	498.51250  	 	RM	162.2 PL	North Fire 5 	North Fire Ops 5 	FMN 	Fire-Tac 
+460.16250 	465.16250  	WQBJ516 	RM	025 DPL	North Fire 6 	North Fire Dispatch 6 	FMN 	Fire Dispatch 
+496.58750 	499.58750  	WPLT696 	RM	606 DPL	North Fire 7 	North Fire Dispatch 7 	FM 	Fire Dispatch 
+472.03750 	475.03750  	WPJS265 	RM	103.5 PL	North P-Sfty 	North Public Safety 	FM 	Multi-Tac 
+460.28750 	465.28750  	WQBJ516 	RM	023 DPL	AK Valley Ps 	AK Valley Public Safety 	FMN 	Multi-Tac 
+494.41250 	497.41250  	 	RM	179.9 PL	QV Pub Sfty 	Quaker Valley Pub Sfty 	FMN 	Multi-Tac 
+471.83750 	474.83750  	WPJS265 	RM	103.5 PL	North EMS 1 	North EMS 1 	FM 	EMS-Tac 
+471.88750 	474.88750  	WPJS265 	RM	107.2 PL	North EMS 3 	North EMS 3 	FM 	EMS-Tac 
+471.33750 	474.33750  	WPWF330 	RM	151.4 PL	S EMS Disp 	South Zone - EMS Dispatch 	FMN 	EMS Dispatch 
+453.62500 	458.62500  	WPGU992 	RM	156.7 PL	S EMS Ops 2 	South Zone - South EMS Ops 2 	FMN 	EMS-Talk 
+453.12500 	458.12500  	WNVC986 	RM		S EMS Ops 	South Zone - South EMS Ops 	FM 	EMS-Talk 
+452.30000 	457.30000  	WPLY429 	RM	131.8 PL	TriCo S-EMS 	South Zone - Tri-Community South EMS Operations 	FM 	EMS-Talk 
+460.60000 	465.60000  	WYK602 	RM	118.8 PL	S Fire Disp1 	South Zone - Fire Dispatch 	FMN 	Fire Dispatch 
+460.62500 	465.62500  	KGC764 	RM	192.8 PL	S Fire Ops 2 	South Zone - South Fire Ops 2 	FMN 	Fire-Tac 
+471.10000 	474.10000  	WPPY371 	RM	210.7 PL	S Fire Ops 3 	South Zone - South Fire Ops 3 	FMN 	Fire-Tac 
+453.77500 	458.77500  	KNNM958 	RM	131.8 PL	S Fire Ops 4 	South Zone - South Fire Ops 4 	FM 	Fire-Tac 
+472.31250 	475.31250  	WQDU636 	RM	127.3 PL	S Fire Ops 5 	South Zone - South Fire Ops 5 	FMN 	Fire-Tac 
+460.20000 	465.20000  	KTH468 	RM	110.9 PL	So Pub Sfty 	South Zone - Public Safety 	FMN 	Fire-Tac 
+472.17500 	475.17500  	WPNS314 	RM	100.0 PL	Mt Lebo Psft 	South Zone - Mt Lebanon Pub Sfty 	FMN 	Emergency Ops 
+452.15000 	457.15000  	WPNY658 	RM	103.5 PL	MTLFD Fire15 	South Zone - Mount Lebanon Volunteer Fire Dept. - FD Business 	FM 	Fire-Talk 
+453.35000 	458.35000  	WNWU443 	RM	131.8 PL	USTC FDisp 	South Zone - Upper St Clair Fire Dispatch 	FM 	Fire Dispatch 
+453.36250 	   	KD34400 	M	114.8 PL	S Fire Tac11 	South Zone - South Tactical 11 	FM 	Fire-Tac 
+453.58750 	   	KD34400 	M	114.8 PL	S Fire Tac12 	South Zone - South Tactical 12 	FM 	Fire-Tac 
+460.62500 	   	KGC764 	M	192.8 PL	S Fire T/A 9 	South Zone - South Fire T/A 09 Ops 1 	FM 	Fire-Tac 
+460.63750 	465.63750  	KGC764 	RM	103.5 PL	MLFD Tac 14 	South Zone - Mt. Lebanon Fire Dept. Port Rptr 	FM 	Fire-Tac 
+465.53750 	   	WPQA805 	M	114.8 PL	S Fire Tac13 	South Zone - South Tactical 13 	FM 	Fire-Tac 
+471.10000 	   	WPPY371 	M	210.7 PL	S Fire T/A10 	South Zone - South Fire T/A 10 Ops 2 	FM 	Fire-Tac 
+472.22500 	475.22500  	WQDU636 	RM	116 DPL	Brntwd FD Op 	South Zone - Brentwood FD Ops 	FMN 	Fire-Tac 
+470.43750 	473.43750  	WIL941 	RM	123.0 PL	West EMS Dsp 	West EMS Dispatch 	FMN 	EMS Dispatch 
+471.73750 	474.73750  	WPKL604 	RM	114.8 PL	West Fire 1 	West Fire 1 Dispatch 	FMN 	Fire Dispatch 
+471.63750 	474.63750  	WPKL604 	RM	073 DPL	West Fire 2 	West Fire 2 Operations 	FMN 	Fire-Tac 
+472.73750 	475.73750  	WPKL604 	RM	241.8 PL	West Fire 3 	West Fire 3 Operations 	FMN 	Fire-Tac 
+471.46250 	474.46250  	WPKL604 	RM	606 DPL	West Fire 4 	West Fire 4 Operations 	FM 	Fire-Tac 
+472.41250 	475.41250  	WQEY858 	RM	023 DPL	West Fire 5 	West Fire 5 North Fayette Operations 	FM 	Fire-Tac 
+460.37500 	465.37500  	KTM984 	RM	131.8 PL	West Pub Sft 	West Public Safety 	FMN 	Multi-Tac 
+460.25000 	465.25000  	KNEP919 	RM	131.8 PL	Bthl Prk EMS 	Bethel Park EMS / Police Disp 	FMN 	Multi-Dispatch 
+472.52500 	475.52500  	WQIH566 	RM	206.5 PL	Bthl Prk FD 	Bethel Park Fire 	FMN 	Fire Dispatch 
+460.26250 	465.26250  	WQWQ289 	RM	136.5 PL	Cora FD Disp 	Coraopolis Fire Dispatch 	FMN 	Fire Dispatch 
+151.20500 	   	 	RM	624 DPL	CoraopolisFD 	Coraopolis Fire Dispatch/DPW 	FMN 	Fire Dispatch 
+39.98000 	   	 	BM	CSQ	CoraopolisFD 	Coraopolis Fire Operations 	FM 	Fire-Tac 
+470.50000 	473.50000  	WPTG499 	RM	151.4 PL	Imperial FD 	Imperial Fire 	FMN 	Fire Dispatch 
+453.90000 	458.90000  	WNMP787 	RM	127.3 PL	Monvle FDisp 	Monroeville Fire Dispatch 	FMN 	Fire Dispatch 
+453.42500 	458.42500  	WNMP787 	RM	110.9 PL	Monvle PSfty 	Monroeville Public Safety 	FMN 	Multi-Tac 
+472.71250 	475.71250  	WQDS391 	RM	173.8 PL	Moon Fire 	Moon Township Fire 	FMN 	Fire-Tac 
+451.91250 	456.91250  	 	RM	025 DPL	PH FIRE 	Pleasant Hills Fire Channel 2 	FMN 	Fire-Tac 
+453.07500 	458.07500  	WPRU677 	RM	210.7 PL	PH FIRE PRIV 	Pleasant Hills Fire Private 	FMN 	Fire-Tac 
+452.26250 	457.26250  	WQRF854 	RM	179.9 PL	PH PUB SAFTY 	Pleasant Hills Public Safety 	FMN 	Multi-Tac 
+464.40000 	469.40000  	WNCY371 	RM	114.8 PL	SteelVal EMS 	Steel Valley Ambulance 	FMN 	EMS Dispatch 
+155.77500 	154.10000  	WNJX678 	RM	146.2 PL	Valley EMS 	Valley EMS 	FMN 	Fire Dispatch 
+471.40000 	474.40000  	WQGC649 	RM	072 DPL	Whitehall FD 	Whitehall Boro. Fire Department  	FMN 	Fire-Talk 
+471.13750 	474.13750  	WIL941 	RM	156.7 PL	ACES Regnl 	County - Regional (Backup PD Ch) 	FM 	Law Tac 
+494.80000 	497.80000  	WQJH472 	RM	141.3 PL	AC PD/SHRF 	County Police / Sheriff Dispatch 	FMN 	Law Dispatch 
+494.50000 	497.50000  	WQJH473 	RM	127.3 PL	County Index 	Countywide Index 	FMN 	Law Tac 
+460.40000 	465.40000  	WQKC489 	RM	114.8 PL	East PD 1 	East Police 1 	FMN 	Law Dispatch 
+472.58750 	475.58750  	WPWF330 	RM	167.9 PL	East PD 2 	East Police 2 	FMN 	Law Dispatch 
+472.16250 	475.16250  	WQKI226 	RM	162.2 PL	East PD 3 	East Police 3 	FMN 	Law Dispatch 
+470.33750 	473.33750  	KIA858 	RM	141.3 PL	East PD 4 	East Police 4 	FMN 	Law Dispatch 
+470.31250 	473.31250  	KKL956 	RM	107.2 PL	East PD 5 	East Police 5 	FMN 	Law Dispatch 
+470.36250 	473.36250  	KKL956 	RM	206.5 PL	East PD 6 	East Police 6 	FMN 	Law Dispatch 
+471.58750 	474.58750  	WPJS265 	RM	103.5 PL	Nrth P Disp1 	North Police Ch 1 	FM 	Law Dispatch 
+472.06250 	475.06250  	 	RM	103.5 PL	North Pd 10 	North Police Ch 10 	FM 	Law Dispatch 
+495.01250 	498.01250  	WPLT696 	RM	186.2 PL	Nrth PD Ch11 	North Police Ch 11 	FMN 	Law Dispatch 
+471.86250 	474.86250  	WPJS265 	RM	103.5 PL	Nrth P Disp2 	North Police Ch 2 	FM 	Law Dispatch 
+471.61250 	474.61250  	WPJS265 	RM	107.2 PL	Nrth PD Ch3 	North Police Ch. 3 	FM 	Law Tac 
+471.98750 	474.98750  	WPJS265 	RM	107.2 PL	Nrth PD Ch4 	North Police Ch. 4 	FM 	Law Tac 
+470.81250 	473.81250  	WPJS265 	RM	107.2 PL	Nrth PD Ch5 	North Police Ch. 5 	FM 	Law Tac 
+494.86250 	497.86250  	WPLT696 	RM	432 DPL	McC PD EMA 1 	North Zone - McCandless Police Tac and EMA 1 	FM 	Law Tac 
+494.71250 	497.71250  	WPLT696 	RM	432 DPL	McC PD EMA 2 	North Zone - McCandless Police Tac and EMA 2 	FM 	Law Tac 
+155.88000 	153.80000  	KCT217 	RM	162.2 PL	PD VHF Inter 	Police VHF Interop 	FMN 	Law Tac 
+472.57500 	475.57500  	WQKI225 	RM	192.8 PL	South PD 1 	South Police 1 	FMN 	Law Dispatch 
+470.48750 	473.48750  	WQKI225 	RM	136.5 PL	South PD 2 	South Police 2 	FMN 	Law Dispatch 
+453.72500 	458.72500  	WNMC871 	RM	123.0 PL	Collier PD 	South Zone - Collier Twp. Police Ch. 6 	FMN 	Law Tac 
+453.67500 	458.67500  	WQAJ560 	RM	94.8 PL	Scott PD Tac 	South Zone - Scott Twp. Police Tac 	FMN 	Law Tac 
+470.51250 	   	WQKI226 	M	167.9 PL	Tactical 	Tactical Ops 	FMN 	Law Tac 
+460.50000 	465.50000  	KTM984 	RM	103.5 PL	W PD Disp1 	West Police Ch 1 	FMN 	Law Dispatch 
+460.42500 	465.42500  	WPMV338 	RM	131.8 PL	W PD Ch 3 	West Police Ch 3 	FMN 	Law Talk 
+460.42500 	465.42500  	WPMV338 	RM	375 NAC	W PD 3 Digital 	West Police Ch 3 Digital 	P25e 	Law Talk 
+460.02500 	465.02500  	KBU516 	BM	131.8 PL	W PD S1 	West Police S-1 	FMN 	Law Dispatch 
+460.12500 	465.12500  	KGB236 	RM	131.8 PL	W PD S2 	West Police S-2 	FMN 	Law Dispatch 
+460.48750 	   	 	M	265 DPL	West Pd Tac7 	West Police Tac 7 	FMN 	Law Talk 
+460.25000 	465.25000  	KNEP920 	RM	131.8 PL	BethPark PD 	Bethel Park Police 	FMN 	Law Dispatch 
+460.15000 	465.15000  	KNEN257 	RM	179.9 PL	Findlay PD A 	Findlay Police Analog 	FMN 	Law Dispatch 
+460.15000 	465.15000  	KNEN257 	RM	293 NAC	Findlay PD D 	Findlay Police Digital 	P25 	Law Dispatch 
+460.17500 	465.17500  	KNNG714 	RM	131.8 PL	KenTwp PD 	Kennedy Twp Police 	FMN 	Law Talk 
+453.61250 	458.61250  	WNMP787  	RM	141.3 PL	Monrvl PD 	Monroeville/Pitcairn Police 	FMN 	Law Dispatch 
+460.05000 	465.05000  	KGB710 	RM	114.8 PL	Moon PD 	Moon, Crescent Police Dispatch 	FMN 	Law Dispatch 
+471.16250 	474.16250  	WQCH250 	RM	131.8 PL	NFayte PD 	North Fayette Police Dispatch 	FM 	Law Dispatch 
+460.10000 	465.10000  	KGD539 	RM	141.3 PL	NVrsls PDisp 	North Versailles Police Dispatch 	FMN 	Law Dispatch 
+494.31250 	   	 	M	023 DPL	Ohio PD 7 	Ohio Twp PD Ch 7 	FM 	Law Tac 
+45.48000 	   	KEC552 	BM	CSQ	Stowe PD/PW 	Stowe Police and DPW 	FM 	Law Talk 
+460.55000 	465.55000  	KNEP921 	RM	131.8 PL	UpStCl PDisp 	Upper St. Clair Police 	FMN 	Law Dispatch 
+155.11500 	158.95500  	WPWY520 	RM	107.2 PL	W Mfln PD 	West Mifflin Police 	FMN 	Law Dispatch 
+460.47500 	465.47500  	KNNF322 	RM	91.5 PL	W Mfln PD 	West Mifflin Police 	FMN 	Law Dispatch 
+460.45000 	465.45000  	KDQ343 	RM	131.8 PL	Whitehall PD 	Whitehall Police 	FMN 	Law Dispatch 
+857.48750 	   	WPJG234 	M	023 DPL	ACJ Direct 1 	Direct 1 Low Power 	FM 	Corrections 
+858.21250 	   	WPJG234 	M	023 DPL	ACJ Direct 2 	Direct 2 Low Power 	FM 	Corrections 
+858.48750 	   	WPJG234 	M	023 DPL	ACJ Direct 3 	Direct 3 Low Power 	FM 	Corrections 
+458.16250 	   	KD34400 	M	173.8 PL	Courthouse 1 	Courthouse Ops 1 	FMN 	Security 
+458.63750 	   	KD34400 	M	173.8 PL	Courthouse 2 	Courthouse Ops 2 	FMN 	Security 
+452.77500 	457.77500  	KTQ235 	RM	192.8 PL	PAT Police 	PAT Police Dispatch 	FMN 	Law Dispatch 
+453.75000 	458.75000  	WNWW689 	RM	192.8 PL	PAT Road Ops 	Road Operations 	FMN 	Transportation 
+30.82000 	   	KGB732 	BM	192.8 PL	PAT Maint 	Maintenance 	FM 	Transportation 
+453.20000 	458.20000  	WNWW689 	RM	192.8 PL	PAT Ross Twp 	Ross Township 	FMN 	Transportation 
+453.30000 	458.30000  	WNWW689 	RM	192.8 PL	PAT W Miflin 	West Mifflin 	FMN 	Transportation 
+453.50000 	458.50000  	WNWW689 	RM	192.8 PL	PAT Collier 	Collier Twp 	FMN 	Transportation 
+470.66250 	473.66250  	KNS870 	RM	88.5 PL	PAT LRT 	LRT 	FMN 	Transportation 
+470.68750 	473.68750  	WPZK225 	RM	88.5 PL	PAT LRT Yard 	LRT Yard 	FMN 	Transportation 
+470.73750 	473.73750  	KNS870 	RM	88.5 PL	PAT LRT Supp 	LRT Support 	FMN 	Transportation 
+471.81250 	474.81250  	KNS870 	RM	88.5 PL	PAT LRT Mant 	LRT Maintenance 	FMN 	Transportation 
+470.61250 	473.61250  	KNS870 	B	88.5 PL	PAT LRT Data 	Light Rail Transit (LRT) Data 	FMN 	Transportation 
+494.92500 	497.92500  	WQJH473 	RM	173.8 PL	AC Pub Works/PS2 	County DPW / Psfty 2 	FMN 	Public Works 
+453.82500 	458.82500  	KQX267 	RM	123.0 PL	ACA Maint 	Allegheny Co Airport Maint (W Mifflin) 	FMN 	Multi-Talk 
+464.33750 	469.33750  	WQAH337 	RM	127.3 PL	ALCOSAN TP 	ALCOSAN Treatment Plant 	FMN 	Utilities 
+472.11250 	475.11250  	WPJS265 	RM	103.5 PL	Aspinwall PW 	Aspinwall DPW 	FM 	Public Works 
+151.08500 	156.04500  	WZT851 	RM	162.2 PL	Baldwin DPW 	Baldwin DPW 	FMN 	Public Works 
+155.04000 	   	KDL815 	BM	114.8 PL	Bellevue PW 	Bellevue DPW 	FMN 	Public Works 
+151.65500 	   	 	BM	023 DPL	Ben Avon DPW 	Ben Avon DPW 	FMN 	Public Works 
+158.82000 	   	KDN545 	BM	156.7 PL	Bethel Pk PW 	Bethel Park Public Works 	FMN 	Public Works 
+472.11250 	475.11250  	WPJS265 	RM	173.8 PL	Blawnox PW 	Blawnox DPW 	FM 	Public Works 
+159.24750 	153.80000  	WPWW715 	RM	114 DPL	Castle Shn 	Castle Shannon DPW 	FMN 	Public Works 
+155.04000 	   	KDL815 	BM	186.2 PL	CastShn DPW 	Castle Shannon Public Works 	FMN 	Public Works 
+453.72500 	458.72500  	WNMC871 	RM	88.5 PL	Dormont DPW 	Dormont DPW 	FMN 	Public Works 
+155.02500 	153.78500  	KXQ738 	RM	134 DPL	Eliz Twp PW 	Elizabeth Twp Public Works 	FMN 	Public Works 
+155.55000 	   	WPLR560 	RM	123.0 PL	Emsworth PW 	Emsworth DPW 	FMN 	Public Works 
+472.11250 	475.11250  	WPJS265 	RM	118.8 PL	Etna PW 	Etna DPW 	FM 	Public Works 
+155.74500 	150.99500  	WPMM308 	RM	179.9 PL	Findlay DPW 	Findlay Township Public Works 	FMN 	Public Works 
+472.11250 	475.11250  	WPJS265 	RM	192.8 PL	FoxChapel PW 	Fox Chapel DPW 	FM 	Public Works 
+156.16500 	   	WNCR995 	BM	103.5 PL	Harrison PW 	Harrison Twp Pub Works 	FMN 	Public Works 
+471.91250 	474.91250  	WPJS265 	RM	156.7 PL	Indiana DPW 	Indiana Twp DPW 	FM 	Public Works 
+150.99500 	158.86500  	WPIV794 	RM	131.8 PL	Jefferson DPW 	Jefferson Hills DPW 	FMN 	Public Works 
+471.93750 	474.93750  	WPJS265 	RM	114.8 PL	Marshall PW 	Marshall Twp DPW 	FM 	Public Works 
+494.53750 	497.53750  	WPLT696 	RM	606 DPL	Mcandless PW 	Mccandless DPW 	FM 	Public Works 
+472.11250 	475.11250  	WPJS265 	RM	131.8 PL	Millvale PW 	Millvale DPW 	FMN 	Public Works 
+158.20500 	153.51500  	KLU919 	RM	146.2 PL	Monr Water 	Monroeville Water Authority 	FMN 	Public Works 
+155.82000 	153.98000  	WNNS622 	RM	162.2 PL	Monrvl DPW 	Monroeville DPW 	FMN 	Public Works 
+154.02500 	155.98500  	KEX276 	RM	107.2 PL	MoonTwp DPW 	Moon Twp  DPW 	FMN 	Public Works 
+156.22500 	159.01500  	WQPX605 	RM	45 RAN	N Fayette DPW 	North Fayette DPW 	NXDN 	Public Works 
+472.36250 	475.36250  	KGD539 	RM	141.3 PL	N Vers PW 	N Versailles Pub Works 	FMN 	Public Works 
+472.11250 	475.11250  	WPJS265 	RM	114.8 PL	Ohara PW 	Ohara Twp DPW 	FM 	Public Works 
+153.60500 	159.90000  	WPLX907 	RM	743 DPL	PAWC Ops 	Pennsylvania American Water Company 	FMN 	Public Works 
+158.77500 	150.77500  	KDZ436 	RM	364 DPL	PH Boro DPW 	Pleasant Hills DPW 	FMN 	Public Works 
+471.93750 	474.93750  	WPJS265 	RM	127.3 PL	Pine Twp PW 	Pine Twp DPW 	FM 	Public Works 
+155.62500 	158.85000  	WNPZ628 	RM	162.2 PL	Plum Boro PW 	Plum Borough DPW 	FMN 	Public Works 
+472.11250 	475.11250  	WPJS265 	RM	127.3 PL	Reserve PW 	Reserve Twp DPW 	FM 	Public Works 
+471.91250 	474.91250  	WPJS265 	RM	114.8 PL	Richland PW 	Richland Twp DPW 	FM 	Public Works 
+155.94000 	153.92000  	KGH440 	RM	192.8 PL	Ross DPW 	Ross Twp DPW 	FMN 	Public Works 
+471.88750 	474.88750  	WPJS265 	RM	118.8 PL	Shaler PW 	Shaler Twp DPW 	FM 	Public Works 
+472.11250 	475.11250  	WPJS265 	RM	141.3 PL	Sharpsbrg PW 	Sharpsburg DPW 	FM 	Public Works 
+151.14500 	155.79000  	WPSP352 	RM	226 DPL	So Park DPW 	South Park DPW 	FMN 	Public Works 
+453.35000 	458.35000  	WNWU443 	RM	146.2 PL	UpStClair PW 	Upper Saint Clair PW 	FMN 	Public Works 
+471.91250 	474.91250  	WPJS265 	RM	103.5 PL	West Deer PW 	West Deer Twp DPW 	FM 	Public Works 
+156.18000 	   	KNIR716 	BM	192.8 PL	West View PW 	West View Public Works 	FMN 	Public Works 
+153.54500 	158.13000  	KAW954 	RM	10 RAN	Westvw Water 	West View Water Authority(TG1) 	NXDN 	Public Works 
+451.20000 	456.20000  	KGE297 	RM	118.8 PL	WPJ Water 	Wilkinsburg Penn Joint Water 	FMN 	Utilities 
+453.70000 	458.70000  	KGB327 	RM	71.9 PL	PGH Fir 1 	Fire Dispatch Ch 1 	FMN 	Fire Dispatch 
+453.85000 	458.85000  	KGB327 	RM	118.8 PL	PGH Fir 2 	Fire Operations Ch 2 	FMN 	Fire-Tac 
+462.95000 	467.95000  	WNAB885 	RM	91.5 PL	PGH EMS 1 	EMS Dispatch Ch 1 	FMN 	EMS Dispatch 
+462.97500 	467.97500  	WNAB885 	RM	136.5 PL	PGH EMS 2 	EMS Operations Ch 2 	FMN 	EMS-Tac 
+453.10000 	458.10000  	KGB327 	RM	218.1 PL	Pgh Pol 1 	Police Ch 1 Dispatch - Zones 1/2 	FMN 	Law Dispatch 
+453.25000 	458.25000  	KGB327 	RM	67.0 PL	Pgh Pol 2 	Police Ch 2 Dispatch - Zones 3/6 	FMN 	Law Dispatch 
+453.40000 	458.40000  	KGB327 	RM	114.8 PL	Pgh Pol 3 	Police Ch 3 Dispatch - Zones 4/5 	FMN 	Law Dispatch 
+453.55000 	458.55000  	KGB327 	RM	69.3 PL	Pgh Pol 4 	Police Citywide Index Ch 4 	FMN 	Law Talk 
+453.45000 	458.45000  	WNKK745 	RM	74.4 PL	Pgh Ops 5 	Police Operations Ch 5 	FMN 	Law Talk 
+453.95000 	458.95000  	WQH261 	RM	225.7 PL	Pgh Admin 6 	Police Administration Ch 6 	FMN 	Law Talk 
+458.36250 	   	KD34400 	M	186.2 PL	Pgh T/A 12 	Police T/A Ch 12 	FMN 	Law Talk 
+453.13750 	   	KD34400 	M	ACE NAC	Police Tac 3 	Police Tac 3  	P25E 	Law Tac 
+453.23750 	   	KD34400 	M	ACE NAC	Police Tac 4 	Police Tac 4 	P25E 	Law Tac 
+458.33750 	   	KD34400 	M	186.2 PL	Pgh PD T/A 1 	PD - Low Power Talkaround F-1 	FM 	Law Talk 
+453.33750 	   	KD34400 	M	186.2 PL	Pgh PD T/A 2 	PD - Low Power Talkaround F-2 	FM 	Law Talk 
+453.36250 	   	KD34400 	M	186.2 PL	Pgh PD T/A 3 	PD - Low Power Talkaround F-3 	FM 	Law Talk 
+453.53750 	   	KD34400 	M	186.2 PL	Pgh PD T/A 4 	PD - Low Power Talkaround F-4 	FM 	Law Talk 
+453.58750 	   	KD34400 	M	186.2 PL	Pgh PD T/A 5 	PD - Low Power Talkaround F-5 	FM 	Law Talk 
+458.06250 	   	KD34400 	M	186.2 PL	Pgh PD T/A 6 	PD - Low Power Tertiary Six 	FM 	Law Talk 
+458.11250 	   	KD34400 	M	186.2 PL	Pgh PD T/A 7 	PD - Low Power Tertiary Seven 	FM 	Law Talk 
+458.13750 	   	KD34400 	M	186.2 PL	Pgh PD T/A 8 	PD - Low Power Tertiary Eight 	FM 	Law Talk 
+458.16250 	   	KD34400 	M	186.2 PL	Pgh PD T/A 9 	PD - Low Power Tertiary Nine 	FM 	Law Talk 
+458.21250 	   	KD34400 	M	186.2 PL	Pgh PD T/A10 	PD - Low Power Tertiary Ten 	FM 	Law Talk 
+458.23750 	   	KD34400 	M	186.2 PL	Pgh PD T/A11 	PD - Low Power Tertiary Eleven 	FM 	Law Talk 
+458.31250 	   	KD34400 	M	186.2 PL	Pgh PD T/A12 	PD - Low Power Tertiary Twelve 	FM 	Law Talk 
+154.54000 	   	KAF414 	BM	91.5 PL	PD Sp Events 	Police Special Events (Aux) 	FM 	Security 
+471.48750 	474.48750  	WPWB211 	RM	F18 NAC	Pgh Sch Pd 	Pittsburgh School Police 	P25 	Law Dispatch 
+Allegheny County Government	 OpenSky 9600 baud	 Pittsburgh	Allegheny County Jail	 Project 25 Phase I	 Pittsburgh	Allegheny Ludlum	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Brackenridge
+American Airlines (Pittsburgh International Airport)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Moon	Bettis Atomic Power Laboratory	 Project 25 Phase I	 West Mifflin	Equitable Gas	 EDACS Standard	 Pittsburgh
+Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Gordon Food Service	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Imperial	Mobile Radio Service	 LTR Standard	 Pittsburgh
+Omni William Penn Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pittsburgh	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide
+Pittsburgh DPW-Heinz Field	 DMR Motorola Connect Plus (TRBO)	 Pittsburgh	Staley Communications (Pittsburgh)	 LTR Standard	 Pittsburgh	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH
+United States Air Force (3D6)	 Project 25 Phase I	 Various	University of Pittsburgh	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pittsburgh	US Steel Corporation	 LTR Standard	 Various

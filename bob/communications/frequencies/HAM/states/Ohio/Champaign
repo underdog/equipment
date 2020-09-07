@@ -1,36 +1,36 @@
-154.87500 	KZE754 	BM	192.8 PL	CHAMP SO 1 	Champaign County Sheriff Primary 	FMN 	Law Dispatch 
-154.84500 	KZE754 	BM	343 DPL	CHAMP SO 2 	Champaign County Sheriff TAC 	FMN 	Law Tac 
-154.87500 	KZE754 	BM	100.0 PL	CHAMP SO W 	Champaign County Sheriff - West Repeater 	FMN 	Law Dispatch 
-155.05500 	KQA422 	RM	631 DPL	Urbana PD 	Urbana Police 	FMN 	Law Dispatch 
-153.89000 	Varies 	BM	CSQ	Champaign FG 	Countywide simplex fireground 	FMN 	Fire-Tac 
-151.34000 	KNAX701 	RM	123.0 PL	AdamsTwp FD 	Adams Twp Fire Dispatch (dispatched by Champaign County 911) 	FMN 	Fire Dispatch 
-155.74500 	WPIG995 	RM	179.9 PL	Mechbg FD 2  	Mechanicsburg Fire/EMS F2 Dispatch 	FMN 	Fire Dispatch 
-153.89000 	KQH258 	BM		Mechbg FG  	Mechanicsburg Fireground 	FMN 	Fire-Tac 
-151.86500 	 	BM		MechFD Train 	Mechanicsburg Fire - Training 	FMN 	Fire-Tac 
-151.35500 	WQGE387 	RM	431 DPL	N Lwsbrg FD 	North Lewisburg Fire 	FMN 	Fire Dispatch 
-155.16000 	WQGE387 	BM	127.3 PL	N Lwsbrg FG  	North Lewisburg fireground 	FMN 	Fire-Tac 
-151.43000 	WQMR205 	RM	103.5 PL	StParis Fire 	St Paris Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-151.43000 	WQMR205 	BM	123.0 PL	StParis C-C 	St Paris Fire Car to Car 	FMN 	Fire-Tac 
-151.37000 	KCW649 	RM	192.8 PL	Urbana Fire 	Urbana Fire Dispatch 	FMN 	Fire Dispatch 
-154.26500 	KCW649 	M		Urbana FG 1 	Urbana Fireground 1 	FMN 	Fire-Tac 
-154.29500 	KCW649 	M		Urbana FG 2 	Urbana Fireground 2 	FMN 	Fire-Tac 
-153.83000 	KCW649 	M		Urbana FG 	Urbana Fireground 	FMN 	Fire-Tac 
-154.19000 	WQHN970 	RM	179.9 PL	Christbrg FD 	Christiansburg Fire/EMS Dispatch (Dispatched by Champaign County 911) 	FMN 	Fire Dispatch 
-155.80500 	KNCG856 	BM		CHAMP EMA 	Champaign County EMA 	FMN 	Public Works 
-151.07000 	WQBD553 	RM	146.2 PL	Urbana Svc 	Urbana City Services 	FMN 	Public Works 
-151.88000 	 	M		Champ Fair 	Champaign County Fairgrounds - Operations 	FMN 	Public Works 
-156.07500 	 	BM	123.0 PL	Urbana Trfc 	Urbana Traffic Maintenance 	FMN 	Public Works 
-463.50000 	WPDT881 	RM	107.2 PL	ChampTransit 	Champaign County Transit 	FMN 	Transportation 
-151.79000 	WPQG321 	RM		Mech LSD 	Mechanicsburg Exempted Village Schools 	FMN 	Schools 
-152.94500 	WPUN554 	RM	94.8 PL	Triad LSD 	Triad Local Schools 	FMN 	Schools 
-463.53750 	WQIJ938 	RM		WLiberty LSD 	West Liberty-Salem Schools 	FMN 	Schools 
-463.87500 	WNGB532 	RM	103.5 PL	Graham LSD 	Graham Local Schools - Transportation/Maintenance/Administration 	FMN 	Schools 
-464.20000 	WPHP337 	RM	151.4 PL	Urbana CSD 	Urbana City Schools - Transportation 	FMN 	Schools 
-158.13000 	KQC458 	BM		Pioneer RECC 	Pioneer Rural Electric Co-Op 	FMN 	Utilities 
-118.32500 	WQED746 	B		I74 AWOS 	Automated Weather Observation Station (AWOS) 	AM 	Aircraft 
-122.70000 	KYB5 	BM		I74 CTAF 	CTAF/Unicom 	AM 	Aircraft 
-127.65000 	 	BM		DAY A/D 	Dayton Approach/Departure 	AM 	Aircraft 
-123.00000 	 	BA		38I CTAF 	CTAF/Unicom 	AM 	Aircraft 
-462.08750 	 	RM	103.5 PL	URBANA U 	Urbana University - Security 	FMN 	Law Dispatch 
-Advanced Radio Technology	 LTR Standard	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
- Statewide	
+154.87500 	155.97000  	KZE754 	BM	192.8 PL	Chmpgn SO 1  	Champaign County Sheriff Primary 	FMN 	Law Dispatch 
+154.84500 	   	KZE754 	BM	343 DPL	Chmpgn SO 2  	Champaign County Sheriff TAC 	FMN 	Law Tac 
+154.87500 	155.97000  	KZE754 	BM	100.0 PL	Chmpgn SO W  	Champaign County Sheriff - West Repeater 	FMN 	Law Dispatch 
+155.05500 	158.89500  	KQA422 	RM	631 DPL	Urbana PD 	Urbana Police 	FMN 	Law Dispatch 
+153.89000 	   	Varies 	BM	CSQ	Champaign FG 	Countywide simplex fireground 	FMN 	Fire-Tac 
+151.34000 	158.86500  	KNAX701 	RM	123.0 PL	AdamsTwp FD 	Adams Twp Fire Dispatch 	FMN 	Fire Dispatch 
+155.74500 	153.80000  	WPIG995 	RM	179.9 PL	Mechbg FD 2  	Mechanicsburg Fire/EMS F2 Dispatch 	FMN 	Fire Dispatch 
+153.89000 	   	KQH258 	BM		Mechbg FG  	Mechanicsburg Fireground 	FMN 	Fire-Tac 
+151.86500 	   	 	BM		MechFD Train 	Mechanicsburg Fire - Training 	FMN 	Fire-Tac 
+151.35500 	159.45750  	WQGE387 	RM	431 DPL	N Lwsbrg FD 	North Lewisburg Fire 	FMN 	Fire Dispatch 
+155.16000 	   	WQGE387 	BM	127.3 PL	N Lwsbrg FG  	North Lewisburg fireground 	FMN 	Fire-Tac 
+151.43000 	159.34500  	WQMR205 	RM	103.5 PL	StParis Fire 	St Paris Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+151.43000 	159.34500  	WQMR205 	BM	123.0 PL	StParis C-C 	St Paris Fire Car to Car 	FMN 	Fire-Tac 
+151.37000 	150.79000  	KCW649 	RM	192.8 PL	Urbana Fire 	Urbana Fire Dispatch 	FMN 	Fire Dispatch 
+154.26500 	   	KCW649 	M		Urbana FG 1 	Urbana Fireground 1 	FMN 	Fire-Tac 
+154.29500 	   	KCW649 	M		Urbana FG 2 	Urbana Fireground 2 	FMN 	Fire-Tac 
+153.83000 	   	KCW649 	M		Urbana FG 	Urbana Fireground 	FMN 	Fire-Tac 
+154.19000 	159.43500  	WQHN970 	RM	179.9 PL	Christbrg FD 	Christiansburg Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.80500 	   	KNCG856 	BM		Chmpgn EMA 	Champaign County EMA 	FMN 	Public Works 
+151.07000 	156.07500  	WQBD553 	RM	146.2 PL	Urbana Svc 	Urbana City Services 	FMN 	Public Works 
+151.88000 	   	 	M		Champ Fair 	Champaign County Fairgrounds - Operations 	FMN 	Public Works 
+156.07500 	   	 	BM	123.0 PL	Urbana Trfc 	Urbana Traffic Maintenance 	FMN 	Public Works 
+463.50000 	468.50000  	WPDT881 	RM	107.2 PL	ChampTransit 	Champaign County Transit 	FMN 	Transportation 
+151.79000 	153.54500  	WPQG321 	RM		Mech LSD 	Mechanicsburg Exempted Village Schools 	FMN 	Schools 
+152.94500 	160.15500  	WPUN554 	RM	94.8 PL	Triad LSD 	Triad Local Schools 	FMN 	Schools 
+453.95000 	458.95000  	WPVA425 	RM	103.5 PL	Chmpgn Co Eng  	County Engineer operations 	FMN 	Public Works 
+463.53750 	468.53750  	WQIJ938 	RM		WLiberty LSD 	West Liberty-Salem Schools 	FMN 	Schools 
+463.87500 	468.87500  	WNGB532 	RM	103.5 PL	Graham LSD 	Graham Local Schools - Transportation/Maintenance/Administration 	FMN 	Schools 
+464.20000 	469.20000  	WPHP337 	RM	151.4 PL	Urbana CSD 	Urbana City Schools - Transportation 	FMN 	Schools 
+158.13000 	   	KQC458 	BM		Pioneer RECC 	Pioneer Rural Electric Co-Op 	FMN 	Utilities 
+118.32500 	   	WQED746 	B		I74 AWOS 	Automated Weather Observation Station (AWOS) 	AM 	Aircraft 
+122.70000 	   	KYB5 	BM		I74 CTAF 	CTAF/Unicom 	AM 	Aircraft 
+127.65000 	   	 	BM		DAY A/D 	Dayton Approach/Departure 	AM 	Aircraft 
+123.00000 	   	 	BA		38I CTAF 	CTAF/Unicom 	AM 	Aircraft 
+462.08750 	467.08750  	 	RM	103.5 PL	URBANA U 	Urbana University - Security 	FMN 	Law Dispatch 
+Advanced Radio Technology	 LTR Standard	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide

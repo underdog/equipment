@@ -1,44 +1,44 @@
-460.17500 	WNUN583 	RM	127.3 PL	BLOUNT SHERIFF 	Sheriff's Department - Dispatch 	FMN 	Law Dispatch 
-453.30000 	WPEH260 	BM	179.9 PL	BLOUNT JAIL 	County Jail 	FMN 	Corrections 
-453.10000 	WPRZ903 	RM	127.3 PL	BLOUNT FIRE 	Fire Protection District 	FMN 	Fire Dispatch 
-453.90000 	 	RM	127.3 PL	BLOUNT HAZMAT 	Hazmat Operations 	FMN 	Fire-Tac 
-154.35500 	WCT254 	RM	532 DPL	BLOUNT EMS 	County Rescue and AMR Dispatch 	FMN 	EMS Dispatch 
-154.01000 	WCT254 	BM		AMR EMS 	AMR Emergency Services 	FMN 	EMS-Tac 
-159.15000 	WCT254 	RM	025 DPL	AMR EMS 	AMR Emergency Services 	FMN 	EMS-Tac 
-460.70000 	KYZ427 	RM	88.5 PL	BLOUNT RESCUE 	Rescue Squad UHF 	FMN 	EMS Dispatch 
-37.90000 	KNHU754 	BM		TN EMS LOW 	Rescue Squad Low Band 	FM 	Interop 
-154.05500 	WRA239 	RM		BLOUNT RESCUE OP 	Rescue Squad Operations 	FMN 	EMS-Tac 
-155.20500 	WRA239 	BM		State EMS 	Rescue Squad - State EMS 	FMN 	Interop 
-155.34000 	WRA239 	BM		Medcom 340 	Blount Memorial Hospital Medcom 340 	FMN 	Hospital 
-451.55000 	WQXQ213 	RM	186.2 PL	PRIORITY AMB DSP 	Priority Ambulance Service 	FMN 	EMS Dispatch 
-156.16500 	KNGP475 	RM	156.7 PL	BLOUNT DOT 	Department of Transportation 	FMN 	Public Works 
-451.31250 	WRBM353 	M		Blount Schools 1 	County Schools 	FMN 	Schools 
-452.81250 	WRBM353 	M		Blount Schools 2 	County Schools 2 	FMN 	Schools 
-456.31250 	WRBM353 	M		Blount Schools 3 	County Schools 3 	FMN 	Schools 
-457.41250 	WRBM353 	M		Blount Schools 4 	County Schools 4 	FMN 	Schools 
-457.81250 	WRBM353 	M		Blount Schools 5 	County Schools 5 	FMN 	Schools 
-467.85000 	 	M		Eagleton Elem 	Eagleton Elementary 	FMN 	Schools 
-464.50000 	 	M	162.2 PL	Eagleton Elem 	Eagleton Elementary 	FMN 	Schools 
-461.95000 	WRCQ720 	RM		WB High School 1 	William Blount High School Channel 1 	DMR 	Schools 
-462.01250 	WRCQ720 	BM		WB High School 3 	William Blount High School Channel 3 	DMR 	Schools 
-460.37500 	WNUF768 	RM	127.3 PL	Alcoa Police 	Police Department 	FMN 	Law Dispatch 
-453.75000 	WRA239 	RM	127.3 PL	Alcoa Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-451.67500 	WQQ593 	RM	127.3 PL	ALCOA ED UHF 	Electric Department UHF 	FMN 	Utilities 
-460.65000 	WPHJ735 	RM	074 DPL	ACS/RTT OPS 	Alcoa City Schools Buses and Rocky Top Tours 	FMN 	Schools 
-151.03250 	WQFM867 	RM		ALCOA ED VHF 	Electric Department VHF 	FMN 	Utilities 
-453.35000 	WNIR502 	RM	127.3 PL	Frndsvl VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
-460.12500 	KSL257 	RM	127.3 PL	Maryvl PD 	Police Department 	FMN 	Law Dispatch 
-453.25000 	WPFH229 	RM	127.3 PL	Maryvl FD 	Fire Department 	FMN 	Fire Dispatch 
-451.62500 	 	RM	179.9 PL	Maryvl Elect 	Electric Department 	FMN 	Utilities 
-451.62500 	 	RM	127.3 PL	Maryvl Water 	Water Department 	FMN 	Utilities 
-453.20000 	KNHT884 	RM	127.3 PL	MaryvlPubWrk 	Public Works 	FMN 	Public Works 
-453.20000 	KNHT884 	RM	136.5 PL	Maryvl Engin 	Engineering 	FMN 	Public Works 
-453.07500 	WPGV880 	RM	94.8 PL	Townsend FD 	Fire Department 	FMN 	Fire Dispatch 
-145.27000 	WB3JKQ 	RM	127.3 PL	BC ARES/RACES 1 	Blount County ARES/RACES 1 	FM 	Ham 
-146.62500 	WB3JKQ 	RM	118.8 PL	BC ARES/RACES 2 	Blount County ARES/RACES 2 	FM 	Ham 
-444.77500 	WB3JKQ 	RM	94.8 PL	BC ARES/RACES 3 	Blount County ARES/RACES 3 	FM 	Ham 
-151.52750 	WRDA966 	M	CC 8TG *SL *	MC Athletic 	Maryville College Athletics 	DMR 	Schools 
-153.28250 	WQLQ785 	RM	79.7 PL	MC CCA 	Maryville College Clayton Center for the Arts 	FMN 	Schools 
-Arconic Inc	 NXDN Icom IDAS Type D	 Alcoa	Cartwright Communication Technology (Maryville)	 LTR Standard	 Maryville	Dalton Communications	 NXDN NEXEDGE 4800
- Various	Fort Loudoun Electrical Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	Metropolitan Knoxville Airport Authority	 LTR Standard	 Knoxville	Tennessee Advanced Communications Network (TACN)
- Project 25 Phase II	 Various	Tennessee Air National Guard McGhee Tyson	 LTR Standard	 Alcoa	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various
+460.17500 	465.17500  	WNUN583 	RM	127.3 PL	BLOUNT SHERIFF 	Sheriff's Department - Dispatch 	FMN 	Law Dispatch 
+453.30000 	   	WPEH260 	BM	179.9 PL	BLOUNT JAIL 	County Jail 	FMN 	Corrections 
+453.10000 	458.10000  	WPRZ903 	RM	127.3 PL	BLOUNT FIRE 	Fire Protection District 	FMN 	Fire Dispatch 
+453.90000 	458.90000  	 	RM	127.3 PL	BLOUNT HAZMAT 	Hazmat Operations 	FMN 	Fire-Tac 
+154.35500 	154.84500  	WCT254 	RM	532 DPL	BLOUNT EMS 	County Rescue and AMR Dispatch 	FMN 	EMS Dispatch 
+154.01000 	   	WCT254 	BM		AMR EMS 	AMR Emergency Services 	FMN 	EMS-Tac 
+159.15000 	   	WCT254 	RM	025 DPL	AMR EMS 	AMR Emergency Services 	FMN 	EMS-Tac 
+460.70000 	465.70000  	KYZ427 	RM	88.5 PL	BLOUNT RESCUE 	Rescue Squad UHF 	FMN 	EMS Dispatch 
+37.90000 	   	KNHU754 	BM		TN EMS LOW 	Rescue Squad Low Band 	FM 	Interop 
+154.05500 	158.91750  	WRA239 	RM		BLOUNT RESCUE OP 	Rescue Squad Operations 	FMN 	EMS-Tac 
+155.20500 	   	WRA239 	BM		State EMS 	Rescue Squad - State EMS 	FMN 	Interop 
+155.34000 	   	WRA239 	BM		Medcom 340 	Blount Memorial Hospital Medcom 340 	FMN 	Hospital 
+451.55000 	456.55000  	WQXQ213 	RM	186.2 PL	PRIORITY AMB DSP 	Priority Ambulance Service 	FMN 	EMS Dispatch 
+156.16500 	159.12000  	KNGP475 	RM	156.7 PL	BLOUNT DOT 	Department of Transportation 	FMN 	Public Works 
+451.31250 	   	WRBM353 	M		Blount Schools 1 	County Schools 	FMN 	Schools 
+452.81250 	   	WRBM353 	M		Blount Schools 2 	County Schools 2 	FMN 	Schools 
+456.31250 	   	WRBM353 	M		Blount Schools 3 	County Schools 3 	FMN 	Schools 
+457.41250 	   	WRBM353 	M		Blount Schools 4 	County Schools 4 	FMN 	Schools 
+457.81250 	   	WRBM353 	M		Blount Schools 5 	County Schools 5 	FMN 	Schools 
+467.85000 	   	 	M		Eagleton Elem 	Eagleton Elementary 	FMN 	Schools 
+464.50000 	   	 	M	162.2 PL	Eagleton Elem 	Eagleton Elementary 	FMN 	Schools 
+461.95000 	466.95000  	WRCQ720 	RM		WB High School 1 	William Blount High School Channel 1 	DMR 	Schools 
+462.01250 	   	WRCQ720 	BM		WB High School 3 	William Blount High School Channel 3 	DMR 	Schools 
+460.37500 	465.37500  	WNUF768 	RM	127.3 PL	Alcoa Police 	Police Department 	FMN 	Law Dispatch 
+453.75000 	458.75000  	WRA239 	RM	127.3 PL	Alcoa Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+451.67500 	456.67500  	WQQ593 	RM	127.3 PL	ALCOA ED UHF 	Electric Department UHF 	FMN 	Utilities 
+460.65000 	465.65000  	WPHJ735 	RM	074 DPL	ACS/RTT OPS 	Alcoa City Schools Buses and Rocky Top Tours 	FMN 	Schools 
+151.03250 	155.56500  	WQFM867 	RM		ALCOA ED VHF 	Electric Department VHF 	FMN 	Utilities 
+453.35000 	458.35000  	WNIR502 	RM	127.3 PL	Frndsvl VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
+460.12500 	465.12500  	KSL257 	RM	127.3 PL	Maryvl PD 	Police Department 	FMN 	Law Dispatch 
+453.25000 	458.25000  	WPFH229 	RM	127.3 PL	Maryvl FD 	Fire Department 	FMN 	Fire Dispatch 
+451.62500 	456.62500  	 	RM	179.9 PL	Maryvl Elect 	Electric Department 	FMN 	Utilities 
+451.62500 	456.62500  	 	RM	127.3 PL	Maryvl Water 	Water Department 	FMN 	Utilities 
+453.20000 	458.20000  	KNHT884 	RM	127.3 PL	MaryvlPubWrk 	Public Works 	FMN 	Public Works 
+453.20000 	458.20000  	KNHT884 	RM	136.5 PL	Maryvl Engin 	Engineering 	FMN 	Public Works 
+453.07500 	458.07500  	WPGV880 	RM	94.8 PL	Townsend FD 	Fire Department 	FMN 	Fire Dispatch 
+145.27000 	144.67000  	WB3JKQ 	RM	127.3 PL	BC ARES/RACES 1 	Blount County ARES/RACES 1 	FM 	Ham 
+146.62500 	146.02500  	WB3JKQ 	RM	118.8 PL	BC ARES/RACES 2 	Blount County ARES/RACES 2 	FM 	Ham 
+444.77500 	449.77500  	WB3JKQ 	RM	94.8 PL	BC ARES/RACES 3 	Blount County ARES/RACES 3 	FM 	Ham 
+151.52750 	   	WRDA966 	M	CC 8TG *SL *	MC Athletic 	Maryville College Athletics 	DMR 	Schools 
+153.28250 	158.23500  	WQLQ785 	RM	79.7 PL	MC CCA 	Maryville College Clayton Center for the Arts 	FMN 	Schools 
+Arconic Inc	 NXDN Icom IDAS Type D	 Alcoa	Cartwright Communication Technology (Maryville)	 LTR Standard	 Maryville	Dalton Communications	 NXDN NEXEDGE 4800	 Various
+Fort Loudoun Electrical Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	Metropolitan Knoxville Airport Authority	 LTR Standard	 Knoxville	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various
+Tennessee Air National Guard McGhee Tyson	 LTR Standard	 Alcoa	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

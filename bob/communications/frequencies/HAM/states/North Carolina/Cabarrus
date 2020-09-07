@@ -1,14 +1,14 @@
-155.05500 	WPXE744 	BM	146.2 PL	CCEMS-DISP 	Cabarrus EMS/Rescue Disp 	FMN 	EMS Dispatch 
-154.34000 	WQAI833 	BM	146.2 PL	CCVFD-DISP 	Cabarrus Fire Dispatch 	FMN 	Fire Dispatch 
-154.01000 	KAV464 	BM	146.2 PL	CCVFD-TAC 	Cabarrus Fire Tac 	FM 	Fire-Tac 
-154.17500 	KCZ907 	BM	146.2 PL	CONCORD-PW 	Concord Public Works--Old Concord Fire Dispatch 	FM 	Public Works 
-155.16000 	KNJN708 	BM	146.2 PL	CCEMS-TAC 	Cabarrus EMS Tac 	FM 	EMS-Tac 
-155.29500 	KJN733 	BM	146.2 PL	CCRSQ-TAC 	Cabarrus Rescue Tac 	FM 	Fire-Tac 
-155.34000 	KNJN708 	BM	146.2 PL	ST-HOSP 	Northeast Med Center 	FM 	Hospital 
-770.96250 	 	RM	713 NAC	DVRS Cabarrus 	Digital Vehicular Repeater System 	P25 	Interop 
-154.43000 	WNRW315 	BM	146.2 PL	KFD-DISP 	Kannapolis Fire Dispatch 	FMN 	Fire Dispatch 
-154.98750 	WQQI286 	RM	146.2 PL	KFD-FUTURE 	Kannapolis Fire - Mooresville Rd. 	FMN 	Fire-Talk 
-155.88750 	WQQI286 	RM	146.2 PL	KFD-FUTURE 	Kannapolis Fire - Barr Rd. 	FMN 	Fire-Talk 
-Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Charlotte UASI	 Project 25 Phase I	 Charlotte	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)
- Statesville	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Great Wolf Lodge - Concord	 LTR Standard	 Concord	North Carolina VIPER
- Project 25 Phase I	 Varies	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	Union Power Co-op	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Monroe
+155.05500 	   	WPXE744 	BM	146.2 PL	CCEMS-DISP 	Cabarrus EMS/Rescue Disp 	FMN 	EMS Dispatch 
+154.34000 	   	WQAI833 	BM	146.2 PL	CCVFD-DISP 	Cabarrus Fire Dispatch 	FMN 	Fire Dispatch 
+154.01000 	   	KAV464 	BM	146.2 PL	CCVFD-TAC 	Cabarrus Fire Tac 	FM 	Fire-Tac 
+154.17500 	   	KCZ907 	BM	146.2 PL	CONCORD-PW 	Concord Public Works--Old Concord Fire Dispatch 	FM 	Public Works 
+155.16000 	   	KNJN708 	BM	146.2 PL	CCEMS-TAC 	Cabarrus EMS Tac 	FM 	EMS-Tac 
+155.29500 	   	KJN733 	BM	146.2 PL	CCRSQ-TAC 	Cabarrus Rescue Tac 	FM 	Fire-Tac 
+155.34000 	   	KNJN708 	BM	146.2 PL	ST-HOSP 	Northeast Med Center 	FM 	Hospital 
+770.96250 	800.96250  	 	RM	713 NAC	DVRS Cabarrus 	Digital Vehicular Repeater System 	P25 	Interop 
+154.43000 	   	WNRW315 	BM	146.2 PL	KFD-DISP 	Kannapolis Fire Dispatch 	FMN 	Fire Dispatch 
+154.98750 	159.12000  	WQQI286 	RM	146.2 PL	KFD-FUTURE 	Kannapolis Fire - Mooresville Rd. 	FMN 	Fire-Talk 
+155.88750 	159.13500  	WQQI286 	RM	146.2 PL	KFD-FUTURE 	Kannapolis Fire - Barr Rd. 	FMN 	Fire-Talk 
+Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Charlotte UASI	 Project 25 Phase I	 Charlotte	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville
+FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Great Wolf Lodge - Concord	 LTR Standard	 Concord	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville
+Union Power Co-op	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Monroe	

@@ -1,54 +1,47 @@
-154.78500 	KNEN685 	RM	156.7 PL	Lee Sheriff 	Sheriff: Dispatch (167.9 Mob, 162.2 Base in) [Ch 1/2] 	FMN 	Law Dispatch 
-154.78500 	KNEN685 	RM	167.9 PL	Lee Law East 	Law: East Side County Dispatch 	FMN 	Law Dispatch 
-158.85000 	WQCC521 	RM	023 DPL	Lee Co Maint 	County: Court and Jail Maintenance 	FMN 	Public Works 
-154.14500 	WPVK584 	RM	315 DPL	Lee Fire Dixon  	Fire: Dispatch - Dixon City/Dixon Rural (Dixon)  	FMN 	Fire Dispatch 
-159.39000 	WPVK584 	RM		Lee Fire Comptn  	Fire: Dispatch - Compton 	FMN 	Fire Dispatch 
-159.39000 	WPVK584 	RM		Lee Fire Ashton  	Fire: Dispatch - Ashton 	FMN 	Fire Dispatch 
-159.39000 	WPVK584 	RM	464 DPL	Lee Fire FrnGrv  	Fire: Dispatch - Franklin Grove 	FMN 	Fire Dispatch 
-159.39000 	WPVK584 	RM	664 DPL	Lee Fire AmbSub  	Fire: Dispatch - Amboy/Sublette 	FMN 	Fire Dispatch 
-154.19000 	 	BM	CSQ	Lee Fire Ops/PG 	Fire: Ops (Simulcast of Paging) 	FMN 	Fire Dispatch 
-155.93250 	WQCP517 	RM	114.8 PL	Lee Highway 	Highway Department 	FMN 	Public Works 
-151.10000 	KNFQ688 	BM		Lee HighwayTwp 	Highway Department - Townships 	FMN 	Public Works 
-154.16000 	WQUT208 	BM	156.7 PL	RochOgleLeeFD 	Fire: Dispatch - Rochelle/Ogle-Lee Fire Protection 	FMN 	Fire Dispatch 
-154.17500 	WPRF283 	BM		OLFPD Fireground 	Fireground/Local 	FMN 	Fire-Tac 
-155.34000	 	 	B	146.2 PL	MERCI1 146.2	Mendota Community Hospital	155.22000 
-WNUK948 	BM	151.4 PL	Advanced EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 	461.90000 
-WPXB352 	RM	023 DPL	KSBH Sec/Mnt 	Security / Maintenance 	FMN 	Business 	460.70000 
-WPXB352 	RM	506 DPL	KSBH Parking 	Parking / Valet Ops 	FMN 	Business 	461.12500 
-WPXB352 	RM	306 DPL	KSBH Ops  	Operations 	FMN 	Business 	155.34000 
-WNBE757 	B	151.4 PL	MERCI1 151.4 	Patient Reports 	FMN 	Hospital 	163.25000 
-KNJD560 	B		KSBH Paging 	Paging 	Telm 	Data 	155.10000 
-KNFQ688 	BM		Alto Twp Roads 	Alto Township Highway Department 	FMN 	Public Works 	159.16500 
-WPOX596 	BM		Amboy Twp Road  	Amboy Township Road Maintenance 	FMN 	Public Works 	158.85750 
-WAU560 	BM	162 DPL	Dixon Twp Roads  	Dixon Township (was 154.025 151.4) 	FMN 	Public Works 	151.07000 
-WPWD829 	BM		Hamilton TwpRoad 	Hamilton Township Road District 	FMN 	Public Works 	159.16500 
-WNJS201 	BM		LeeCntr TwpRoad  	Lee Center Township 	FMN 	Public Works 	151.07000 
-WNYB221 	BM		May Twp Roads  	May Township 	FMN 	Public Works 	156.10500 
-WPEE275 	RM		Palmyra Twp Road 	Palmyra Township 	FMN 	Public Works 	155.08500 
-WNDA549 	BM	141.3 PL	Brdf Twp Roads  	Reynolds / Bradford Township Roads [Expired] 	FMN 	Public Works 	151.10000 
-KNEX796 	BM		Sublette Twp Rds 	Sublette Township 	FMN 	Public Works 	155.11500 
-WNDZ915 	BM		Viola Twp Road  	Viola Township 	FMN 	Public Works 	155.11500 
-KNAB681 	BM		Wllwcrk TwpRoad  	Willowcreek Township (Lee/Steward) 	FMN 	Public Works 	151.13000 
-WQRE336       	M	226 DPL	Wyoming TwpRds 	Wyoming Township: Road Maintenance 	FMN 	Public Works 	154.78500 
-KNEN685 	RM	156.7 PL	Amboy Police 	Police: Dispatch (County License) 	FMN 	Law Dispatch 	151.80500 
-WPZZ273 	RM	162.2 PL	Amboy ESDA 	ESDA: Disaster Relief [Expired 4/13*] 	FMN 	Emergency Ops 	155.04000 
-WNWD490 	BM	241.8 PL	Amboy PublicWrks 	Public Works / Police: Car-to-Car 	FMN 	Public Works 	153.89000 
-WPTZ994 	M		Ashton Fire 	Fire: Local Use 	FMN 	Fire-Tac 	151.21250 
-KAS760 	RM	293 NAC	Dixon Police 	Police: Dispatch [Dispatch ENC] 	P25e 	Law Dispatch 	155.25000 
-KAS760 	RM	146.2 PL	Dix Police TacA  	Police: Training / Surveillance 	FMNe 	Law Dispatch 	155.19000 
- 	BM	146.2 PL	Dix Police TacB  	Police: Tactical Surveillance [No License] 	FMN 	Law Tac 	154.14500 
-KSD674 	BM	315 DPL	Dixon Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 	154.02500 
-KNCW953 	BM	114.8 PL	Dixon Water1 	Public Works / Water Department 	FMN 	Public Works 	153.80000 
-KB67739 	BM	114.8 PL	Dixon Water2 	Water Department 	FMN 	Public Works 	155.17500 
-KNFY943 	BM	100.0 PL	Kreider Bus 	Kreider Services (Dixon) 	FMN 	Transportation 	155.20500 
-WPRR507 	BM		Laidlaw Bus 	Laidlaw Transit (See Central IL School Bus) 	FMN 	Transportation 	464.96250 
-WQCU510 	RM	051 DPL	ILCS Bus Dixon 	Illinois-Central School Bus (Dixon area grade school transport) 	FMN 	Transportation 	155.17500 
-WQAX349 	BM		Amboy School Bus 	Amboy Buses 	FMN 	Schools 	461.57500 
-WNYD615 	RM		Earlville School 	Operations (Compton) 	FMN 	Schools 	461.57500 
-WPKH396 	RM		Mendota School  	Operations (Compton) 	FMN 	Schools 	155.28000 
-WNVL612 	BM		PPaw Sch Bus 	Buses  	FMN 	Schools 	451.32500 
-WPUD419 	RM		SVCC Security 	Security [was 100.0] 	DMR 	Security 	158.46000 
-KNAT675 	B		SVCC Paging 	Paging 	Telm 	Schools 	123.00000 
-WJO8 	BM	CSQ	C82 CTAF 	CTAF/UNICOM 	AM 	Aircraft 	123.05000 
-KYP8 	BM	CSQ	C73 CTAF 	CTAF/UNICOM 	AM 	Aircraft 	 A-Beep / Tri-Star Communications - UHF (NW IL)
- LTR Standard	 Loves Park	A-Beep / Tri-Star Communications - VHF (NW IL)	 LTR Standard	 Plato Center	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL
+154.78500 	158.91000  	KNEN685 	RM	167.9 PL	Lee Law East 	Law: East Side County Dispatch 	FMN 	Law Dispatch 
+158.85000 	151.16000  	WQCC521 	RM	023 DPL	Lee Co Maint 	County: Court and Jail Maintenance 	FMN 	Public Works 
+155.93250 	158.88000  	WQCP517 	RM	114.8 PL	Lee Highway 	Highway Department 	FMN 	Public Works 
+151.10000 	   	KNFQ688 	BM		Lee HighwayTwp 	Highway Department - Townships 	FMN 	Public Works 
+154.16000 	   	WQUT208 	BM	156.7 PL	RochOgleLeeFD 	Fire: Dispatch - Rochelle/Ogle-Lee Fire Protection 	FMN 	Fire Dispatch 
+154.17500 	   	WPRF283 	BM		OLFPD Fireground 	Fireground/Local 	FMN 	Fire-Tac 
+155.34000	 	 	B	146.2 PL	MERCI1 146.2	Mendota Community Hospital	155.22000 	   
+WNUK948 	BM	151.4 PL	Advanced EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 	461.90000 	466.90000  
+WPXB352 	RM	023 DPL	KSBH Sec/Mnt 	Security / Maintenance 	FMN 	Business 	460.70000 	465.70000  
+WPXB352 	RM	506 DPL	KSBH Parking 	Parking / Valet Ops 	FMN 	Business 	461.12500 	466.12500  
+WPXB352 	RM	306 DPL	KSBH Ops  	Operations 	FMN 	Business 	155.34000 	   
+WNBE757 	B	151.4 PL	MERCI1 151.4 	Patient Reports 	FMN 	Hospital 	163.25000 	   
+KNJD560 	B		KSBH Paging 	Paging 	Telm 	Data 	155.10000 	   
+KNFQ688 	BM		Alto Twp Roads 	Alto Township Highway Department 	FMN 	Public Works 	159.16500 	   
+WPOX596 	BM		Amboy Twp Road  	Amboy Township Road Maintenance 	FMN 	Public Works 	158.85750 	155.71500  
+WAU560 	BM	162 DPL	Dixon Twp Roads  	Dixon Township (was 154.025 151.4) 	FMN 	Public Works 	151.07000 	   
+WPWD829 	BM		Hamilton TwpRoad 	Hamilton Township Road District 	FMN 	Public Works 	159.16500 	   
+WNJS201 	BM		LeeCntr TwpRoad  	Lee Center Township 	FMN 	Public Works 	151.07000 	   
+WNYB221 	BM		May Twp Roads  	May Township 	FMN 	Public Works 	156.10500 	   
+WPEE275 	RM		Palmyra Twp Road 	Palmyra Township 	FMN 	Public Works 	155.08500 	   
+WNDA549 	BM	141.3 PL	Brdf Twp Roads  	Reynolds / Bradford Township Roads [Expired] 	FMN 	Public Works 	151.10000 	   
+KNEX796 	BM		Sublette Twp Rds 	Sublette Township 	FMN 	Public Works 	155.11500 	   
+WNDZ915 	BM		Viola Twp Road  	Viola Township 	FMN 	Public Works 	155.11500 	   
+KNAB681 	BM		Wllwcrk TwpRoad  	Willowcreek Township (Lee/Steward) 	FMN 	Public Works 	151.13000 	   
+WQRE336       	M	226 DPL	Wyoming TwpRds 	Wyoming Township: Road Maintenance 	FMN 	Public Works 	154.78500 	158.91000  
+KNEN685 	RM	156.7 PL	Amboy Police 	Police: Dispatch (County License) 	FMN 	Law Dispatch 	151.80500 	158.34000  
+WPZZ273 	RM	162.2 PL	Amboy ESDA 	ESDA: Disaster Relief [Expired 4/13*] 	FMN 	Emergency Ops 	155.04000 	   
+WNWD490 	BM	241.8 PL	Amboy PublicWrks 	Public Works / Police: Car-to-Car 	FMN 	Public Works 	153.89000 	   
+WPTZ994 	M		Ashton Fire 	Fire: Local Use 	FMN 	Fire-Tac 	151.21250 	156.06000  
+KAS760 	RM	293 NAC	Dixon Police 	Police: Dispatch [Dispatch ENC] 	P25e 	Law Dispatch 	155.25000 	153.99500  
+KAS760 	RM	146.2 PL	Dix Police TacA  	Police: Training / Surveillance 	FMNe 	Law Dispatch 	155.19000 	   
+ 	BM	146.2 PL	Dix Police TacB  	Police: Tactical Surveillance [No License] 	FMN 	Law Tac 	154.14500 	   
+KSD674 	BM	315 DPL	Dixon Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 	154.02500 	   
+KNCW953 	BM	114.8 PL	Dixon Water1 	Public Works / Water Department 	FMN 	Public Works 	153.80000 	   
+KB67739 	BM	114.8 PL	Dixon Water2 	Water Department 	FMN 	Public Works 	155.17500 	   
+KNFY943 	BM	100.0 PL	Kreider Bus 	Kreider Services (Dixon) 	FMN 	Transportation 	155.20500 	   
+WPRR507 	BM		Laidlaw Bus 	Laidlaw Transit (See Central IL School Bus) 	FMN 	Transportation 	464.96250 	469.96250  
+WQCU510 	RM	051 DPL	ILCS Bus Dixon 	Illinois-Central School Bus (Dixon area grade school transport) 	FMN 	Transportation 	155.17500 	   
+WQAX349 	BM		Amboy School Bus 	Amboy Buses 	FMN 	Schools 	461.57500 	466.57500  
+WNYD615 	RM		Earlville School 	Operations (Compton) 	FMN 	Schools 	461.57500 	466.57500  
+WPKH396 	RM		Mendota School  	Operations (Compton) 	FMN 	Schools 	155.28000 	   
+WNVL612 	BM		PPaw Sch Bus 	Buses  	FMN 	Schools 	451.32500 	456.32500  
+WPUD419 	RM		SVCC Security 	Security [was 100.0] 	DMR 	Security 	158.46000 	   
+KNAT675 	B		SVCC Paging 	Paging 	Telm 	Schools 	123.00000 	   
+WJO8 	BM	CSQ	C82 CTAF 	CTAF/UNICOM 	AM 	Aircraft 	123.05000 	   
+KYP8 	BM	CSQ	C73 CTAF 	CTAF/UNICOM 	AM 	Aircraft 	A-Beep / Tri-Star Communications - VHF (NW IL)	 LTR Standard
+ Plato Center	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL	Diga-Talk	 NXDN NEXEDGE 4800	 Various	

@@ -1,109 +1,108 @@
-853.97500 	 	M		COMM D 	COMM D 	FM 	Interop 
-852.37500 	 	M		Critical 1D 	Critical 1D 	FM 	Interop 
-852.45000 	 	M		Critical 2D 	Critical 2D 	FM 	Interop 
-154.96500 	KLX853 	RM	110.9 PL	Austin Fire Disp 	Station Alert (with TG 1147) 	FMN 	Fire Dispatch 
-155.34000 	 	BM	CSQ	Medevac-Hosp 	Medevac to Hospitals 	FMN 	Hospital 
-851.97500 	 	M		AFD Direct16 	Fire Direct 16 	FM 	Fire-Tac 
-453.27500 	KSS813 	BM	156.7 PL	Aus AniShltr 	Austin Animal Center (Dog Shelter) 	FM 	Public Works 
-155.74500 	WNFV780 	BM		Aus Golf 	Golf Course 	FM 	Public Works 
-453.42500 	 	RM		Aus HsngAuth 	Housing Authority 	FM 	Public Works 
-169.50000 	WQRJ798 	F		FEWS 169.5 	Flood Early Warning System 	Telm 	Data 
-170.27500 	WQRJ798 	F		FEWS 170.275 	Flood Early Warning System 	Telm 	Data 
-453.22500 	WQA770 	RM	186.2 PL	Aus CtyHall2 	City Hall Security 	FM 	Security 
-171.90500 	 	M		Aus WireMics 	Wireless Mics for press conferences 	FM 	Public Works 
-453.23750 	 	RM		DAA Ranger 1 	Rangers Ch. 1 	FM 	Security 
-453.33750 	 	RM		DAA Ranger 2 	Rangers Ch. 2 	FM 	Security 
-462.88750 	 	M	134 DPL	Dwntwn Maint 	Maintenance 	FMN 	Public Works 
-453.70000 	KNDC797 	RM	114.8 PL	TC CH Sec 	Courthouse Security & Prisoner Transport 	FM 	Security 
-154.17500 	WPSG448 	BM	110.9 PL	TCFD Disp West 	Fire Dispatch West 	FMN 	Fire Dispatch 
-154.20500 	WQJB314 	BM	110.9 PL	TCFD Disp East 	Fire Dispatch East 	FMN 	Fire Dispatch 
-154.07000 	WXY584 	RM	186.2 PL	TC CF Tac 1 	North Lake Travis Fire and Rescue (formerly Lago Vista) 	FMN 	Fire Dispatch 
-154.14500 	WZS980 	RM	186.2 PL	TC CF Tac 2 	Pflugerville Fire 	FMN 	Fire Dispatch 
-154.41500 	WNZQ923 	RM	127.3 PL	TC CF Tac 3 	Oak Hill Fire 	FMN 	Fire Dispatch 
-156.15000 	KNEY536 	RM	210.7 PL	TC CF Tac 5 	Manchaca Fire 	FMN 	Fire Dispatch 
-154.44500 	KIQ334 	RM	151.4 PL	TC CF Tac 6 	Lake Travis Fire and Rescue 	FMN 	Fire Dispatch 
-159.39000 	WPMG860 	RM	151.4 PL	TC CF Tac 7 	North Lake Travis Fire and Rescue 	FMN 	Fire Dispatch 
-154.22000 	WYC571 	RM	186.2 PL	TC CF Tac 8 	Pedernales Fire 	FMN 	Fire Dispatch 
-153.98000 	WPUA630 	RM	110.9 PL	TC CF Tac 9 	Westlake Fire 	FMN 	Fire Dispatch 
-154.13000 	WNXD775 	RM	203.5 PL	TC CF Tac 10 	CeBar Fire 	FMN 	Fire Dispatch 
-151.11500 	WNHQ333 	RM	151.4 PL	TC CF Tac 12 	Manor Fire 	FMN 	Fire Dispatch 
-154.19750 	WRA319 	RM	031 DPL	TC CF Tac 14 	Volente Fire 	FMN 	Fire Dispatch 
-171.84500 	 	M		CommCrt Mics 	Wireless Microphone 	FM 	Other 
-453.33750 	WNRU599 	M		Prison 1 	Building 1 	FM 	Corrections 
-453.48750 	WNRU599 	M		Prison 2 	Buildings 2 and 10 	FM 	Corrections 
-453.53750 	WNRU599 	M	151.4 PL	Prison 3 	Buildings 3, 5 and 9 	FM 	Corrections 
-453.63750 	WNRU599 	M	203.5 PL	Prison 4 	Building 4/ISD 	FM 	Corrections 
-453.43750 	WNRU599 	M		Prison Admin 	Administration/Security/Honors 	FM 	Corrections 
-453.58750 	WNRU599 	M	151.4 PL	Prison Med 	Medical 	FM 	Corrections 
-158.85000 	WNGI640 	RM	79.7 PL	LagoVista Police 	Police 	FMN 	Law Dispatch 
-154.07000 	WXY584 	RM	192.8 PL	TC CF Tac 1 	Fire Tactical 1 (rarely used) 	FMN 	Fire-Tac 
-153.54500 	WNAE520 	RM	103.5 PL	LVista Utilities 	Utilities 	FMN 	Public Works 
-154.02500 	KNFA358 	RM	151.4 PL	Lak PD Disp 	Police 	FMN 	Law Dispatch 
-155.67000 	WNFQ375 	BM	151.4 PL	ManorPolice Talk 	Police Talk-Around 	FMN 	Law Talk 
-151.11500 	WNHQ333 	RM	151.4 PL	TC CF Tac 12 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.87500 	WZX486 	BM		SV Police Tac  	Police TAC 	FMN 	Law Tac 
-857.93750 	WPKH874 	RM	115 DPL	WLk Police Disp  	Police 800 MHz Primary 	FMN 	Law Dispatch 
-860.93750 	KSP328 	RM		WLk PD/FD 	Fire & Police 	FMN 	Multi-Tac 
-155.91000 	KNDD788 	RM	151.4 PL	WLk PD Tac 	Police VHF TAC 	FMN 	Law Tac 
-154.37000 	WNZD684 	BM	151.4 PL	WLk FD Talk 	Fire Talk-Around 	FMN 	Fire-Talk 
-153.98000 	WPWM377 	RM	110.9 PL	TC CF Tac 9 	Fire  	FMN 	Multi-Dispatch 
-154.25000 	WNGG279 	M		CEB VFD FG 	Fireground 	FMN 	Fire-Tac 
-154.13000 	WNXD775 	RM	203.5 PL	FC CF Tac 10 	Tactical 	FMN 	Fire-Tac 
-154.43000 	KIQ334 	BM		LT FR FireGround 	Fireground 	FMN 	Fire-Tac 
-154.44500 	KIQ334 	RM	151.4 PL	TC CF Tac 6 	County Fire Tac 6 	FMN 	Fire-Tac 
-159.39000 	WPMG860 	RM	151.4 PL	TC CF Tac 7 	Northshore / Sandy Creek fire 	FM 	Fire Dispatch 
-154.22000 	WYC571 	RM	186.2 PL	TC CF Tac 8 	Pedernales Fire 	FM 	Fire Dispatch 
-154.19750 	WRA319 	RM	031 DPL	TC CF Tac14 	Volente Fire (ESD 14) 	FMN 	Fire-Tac 
-170.25000 	 	M		Aus HS Band 	Austin High School - Band (wireless microphone) 	FM 	Schools 
-460.87500 	WNHN702 	RM	110.9 PL	Aus Martin 	Martin Middle School - Security 	FM 	Security 
-463.20000 	WNJL999 	RM	110.9 PL	Aus HS 	Reported used by most schools, esp. Austin HS 	FM 	Schools 
-461.72500 	WPBW665 	RM	203.5 PL	DV ISD Bus 	Buses 	FM 	Schools 
-464.55000 	 	M	167.9 PL	DV Pop ES 	Popham Elementary School 	FM 	Schools 
-151.86500 	 		206.5 PL	WLk HS Band 	Westlake High School - Chaparral Video Crew 	FM 	Schools 
-451.80000 	 		432 DPL	WLk HS Evnt 	Westlake High School - Event Staff and Stadium Operations 	FM 	Schools 
-451.28750 	WQKM244 	M	241.8 PL	LVISD Ch 1 	Channel 1 	FMN 	Schools 
-451.58750 	WQKM244 	M		LagoVista HS 	Lago Vista High School    	FMN 	Schools 
-452.11250 	WQKM244 	M		LVISD Ch 3 	Channel 3 	FMN 	Schools 
-457.11250 	WQKM244 	M		LVISD Ch 4 	Channel 4 	FMN 	Schools 
-457.16250 	WQKM244 	M		LVISD Ch 5 	Channel 5 	FMN 	Schools 
-461.86250 	WQKM244 	RM	186.2 PL	LVISD Ch 6 Rept 	Channel 6 Repeater 	FMN 	Schools 
-466.86250 	WQKM244 	M	203.5 PL	LVISD Ch 7 	Channel 7 	FMN 	Schools 
-151.65500 	WPFP382 	RM		LT ISD Buses 	Lake Travis Buses, Football Games 	FM 	Schools 
-152.46500 	WPFP382 	RM	371 DPL	LTISD Buses 	Lake Travis ISD Buses 	FMN 	Schools 
-451.95000 	WPFP382 	RM	245 DPL	LTISD Ops 	Lake Travis ISD Ops 	FMN 	Schools 
-460.75000 	 		654 DPL	LT HS Parkin 	Lake Travis HS Parking Control 	FM 	Schools 
-461.75000 	 		103.5 PL	LT HS 	Lake Travis HS 	FM 	Schools 
-464.50000 	 		91.5 PL	LT HS Stad 	Lake Travis HS Stadium Ops 	FM 	Schools 
-461.78750 	 		464 DPL	Man ISD Bus 	Buses 	FM 	Schools 
-466.51250 	 	M	CSQ	Man HS 	Manor High School 	FM 	Schools 
-467.87500 	 	M	67.0 PL	Man HS Stad 	Football Stadium Security (at the middle school) 	FM 	Security 
-151.71500 	 		131 DPL	Pfl ISD PCMS 	Park Crest Middle School - Staff/Security 	FM 	Schools 
-452.11250 	WPZK423 		131 DPL	Pfl ISD 	Pflugerville ISD 	FM 	Schools 
-452.65000 	 	RM		Pfl ISD Bus 	Pflugerville ISD Buses 	FM 	Schools 
-461.05000 	 	RM	151.4 PL	Pfl HS 	Pflugerville High School 	FM 	Schools 
-461.83750 	WQFC525 	RM	506 DPL	Con HS Sec 	Conally High School Security and Staff 	FM 	Schools 
-464.55000 	 	M	77.0 PL	Con HS Band 	Conally High School Band 	FM 	Schools 
-453.22500 	WQA770 	RM	186.2 PL	ACC Police 	Police 	FM 	Law Dispatch 
-451.95000 	WPNQ425 	RM	79.7 PL	ConcordiaUni 	Concordia University 	FM 	Schools 
-464.72500 	WYY952 	RM	136.5 PL	SEU Security 	Security 	FM 	Security 
-453.65000 	KMA522 	RM	146.2 PL	UT Erwin 1 	Frank Erwin Center Ch. 1 - Maintenance, Facilities, Stage, Administration 	FM 	Schools 
-453.65000 	KMA522 	M	146.2 PL	UT Erwin 2 	Frank Erwin Center Ch. 2 	FM 	Schools 
-469.67500 	 	RM	174 DPL	UT Erwin 3 	Frank Erwin Center Ch. 3 	FM 	Schools 
-469.67500 	 	M	174 DPL	UT Erwin 4 	Frank Erwin Center Ch. 4 	FM 	Schools 
-451.65000 	WQFK712 	RM	371 DPL	UT Erwin 451 	Frank Erwin Center 	FM 	Schools 
-451.60000 	WQQV463 	RM	172 DPL	UT Erwin 7 	Frank Erwin Center Ch. 7 Ushers 	FM 	Schools 
-462.47500 	WQQV463 	RM	731 DPL	UT Erwin 8 	Frank Erwin Center Ch. 8 Ushers 	FMN 	Schools 
-151.67000 	WQQH701 	RM	174 DPL	UT Maintenance 	Maintenance 	FMN 	Schools 
-152.94500 	WQRM499 	RM	423 DPL	UT ES AV 	Engineering Services (Audio Visual) 	FMN 	Schools 
-158.92500 	WXP568 	RM	136.5 PL	UT Maint 	Maintenance 	FM 	Schools 
-452.97500 	WPTD949 	BM	155 DPL	UT Housing 	UT Housing and Food 	FMN 	Schools 
-453.95000 	WPQJ514 	RM		UT Perf Art 	Performing Arts Center 	FM 	Schools 
-467.80000 	 	M		UT Band 	School Band 	FM 	Schools 
-3M Plant	 Motorola Type I	 Austin	All Points Communications of Austin (Connect Plus - System 486)	 DMR Motorola Connect Plus (TRBO)	 Various	All Points Communications of Austin (Connect Plus)	 DMR Motorola Connect Plus (TRBO)
- Austin	BearCom	 DMR Motorola Capacity Plus Single Site (TRBO)	 Austin	BearCom (Austin)	 LTR Standard	 Austin	BearCom (Central Texas NexEdge)
- NXDN NEXEDGE 4800	 Various	BearCom (Passport)	 LTR Passport	 Multiple	Circuit of the Americas	 DMR Motorola Capacity Plus Single Site (TRBO)	 Austin
-Constant Communications	 Motorola Type II	 Austin	CTS All Points Communications (Austin)	 Motorola Type I	 Austin	Department of Veterans Affairs Central Texas	 Project 25 Phase II
- Various	Freescale Semiconductor	 Motorola Type II	 Austin	Freescale Semiconductor (WPDA684)	 Motorola Type IIi Hybrid	 Austin	Intrinsic Solutions
- DMR Motorola Capacity Plus Single Site (TRBO)	 Austin	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	Nextel (Austin-3)	 Motorola Type I	 Austin
-TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	Texas Wide Area Radio Network (TxWARN)	 Project 25 Phase II	 Various	UNID Project 25: System 267	 Project 25 Phase I
- Austin	W Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Austin	
+853.97500 	   	 	M		COMM D 	COMM D 	FM 	Interop 
+852.37500 	   	 	M		Critical 1D 	Critical 1D 	FM 	Interop 
+852.45000 	   	 	M		Critical 2D 	Critical 2D 	FM 	Interop 
+154.96500 	   	KLX853 	RM	110.9 PL	Austin Fire Disp 	Station Alert (with TG 1147) 	FMN 	Fire Dispatch 
+155.34000 	   	 	BM	CSQ	Medevac-Hosp 	Medevac to Hospitals 	FMN 	Hospital 
+851.97500 	   	 	M		AFD Direct16 	Fire Direct 16 	FM 	Fire-Tac 
+453.27500 	458.27500  	KSS813 	BM	156.7 PL	Aus AniShltr 	Austin Animal Center (Dog Shelter) 	FM 	Public Works 
+155.74500 	153.75500  	WNFV780 	BM		Aus Golf 	Golf Course 	FM 	Public Works 
+453.42500 	458.42500  	 	RM		Aus HsngAuth 	Housing Authority 	FM 	Public Works 
+169.50000 	   	WQRJ798 	F		FEWS 169.5 	Flood Early Warning System 	Telm 	Data 
+170.27500 	   	WQRJ798 	F		FEWS 170.275 	Flood Early Warning System 	Telm 	Data 
+453.22500 	458.22500  	WQA770 	RM	186.2 PL	Aus CtyHall2 	City Hall Security 	FM 	Security 
+171.90500 	   	 	M		Aus WireMics 	Wireless Mics for press conferences 	FM 	Public Works 
+453.23750 	458.23750  	 	RM		DAA Ranger 1 	Rangers Ch. 1 	FM 	Security 
+453.33750 	458.33750  	 	RM		DAA Ranger 2 	Rangers Ch. 2 	FM 	Security 
+462.88750 	   	 	M	134 DPL	Dwntwn Maint 	Maintenance 	FMN 	Public Works 
+453.70000 	458.70000  	KNDC797 	RM	114.8 PL	TC CH Sec 	Courthouse Security & Prisoner Transport 	FM 	Security 
+154.17500 	   	WPSG448 	BM	110.9 PL	TCFD Disp West 	Fire Dispatch West 	FMN 	Fire Dispatch 
+154.20500 	   	WQJB314 	BM	110.9 PL	TCFD Disp East 	Fire Dispatch East 	FMN 	Fire Dispatch 
+154.07000 	151.46000  	WXY584 	RM	186.2 PL	TC CF Tac 1 	North Lake Travis Fire and Rescue (formerly Lago Vista) 	FMN 	Fire Dispatch 
+154.14500 	159.06000  	WZS980 	RM	186.2 PL	TC CF Tac 2 	Pflugerville Fire 	FMN 	Fire Dispatch 
+154.41500 	154.01000  	WNZQ923 	RM	127.3 PL	TC CF Tac 3 	Oak Hill Fire 	FMN 	Fire Dispatch 
+156.15000 	151.23500  	KNEY536 	RM	210.7 PL	TC CF Tac 5 	Manchaca Fire 	FMN 	Fire Dispatch 
+154.44500 	154.16000  	KIQ334 	RM	151.4 PL	TC CF Tac 6 	Lake Travis Fire and Rescue 	FMN 	Fire Dispatch 
+159.39000 	151.19000  	WPMG860 	RM	151.4 PL	TC CF Tac 7 	North Lake Travis Fire and Rescue 	FMN 	Fire Dispatch 
+154.22000 	159.16500  	WYC571 	RM	186.2 PL	TC CF Tac 8 	Pedernales Fire 	FMN 	Fire Dispatch 
+153.98000 	156.12000  	WPUA630 	RM	110.9 PL	TC CF Tac 9 	Westlake Fire 	FMN 	Fire Dispatch 
+154.13000 	158.95500  	WNXD775 	RM	203.5 PL	TC CF Tac 10 	CeBar Fire 	FMN 	Fire Dispatch 
+151.11500 	158.98500  	WNHQ333 	RM	151.4 PL	TC CF Tac 12 	Manor Fire 	FMN 	Fire Dispatch 
+154.19750 	154.98750  	WRA319 	RM	031 DPL	TC CF Tac 14 	Volente Fire 	FMN 	Fire Dispatch 
+171.84500 	   	 	M		CommCrt Mics 	Wireless Microphone 	FM 	Other 
+453.33750 	   	WNRU599 	M		Prison 1 	Building 1 	FM 	Corrections 
+453.48750 	   	WNRU599 	M		Prison 2 	Buildings 2 and 10 	FM 	Corrections 
+453.53750 	   	WNRU599 	M	151.4 PL	Prison 3 	Buildings 3, 5 and 9 	FM 	Corrections 
+453.63750 	   	WNRU599 	M	203.5 PL	Prison 4 	Building 4/ISD 	FM 	Corrections 
+453.43750 	   	WNRU599 	M		Prison Admin 	Administration/Security/Honors 	FM 	Corrections 
+453.58750 	   	WNRU599 	M	151.4 PL	Prison Med 	Medical 	FM 	Corrections 
+158.85000 	155.55000  	WNGI640 	RM	79.7 PL	LagoVista Police 	Police 	FMN 	Law Dispatch 
+154.07000 	151.46000  	WXY584 	RM	192.8 PL	TC CF Tac 1 	Fire Tactical 1 (rarely used) 	FMN 	Fire-Tac 
+153.54500 	158.14500  	WNAE520 	RM	103.5 PL	LVista Utilities 	Utilities 	FMN 	Public Works 
+154.02500 	155.94000  	KNFA358 	RM	151.4 PL	Lak PD Disp 	Police 	FMN 	Law Dispatch 
+155.67000 	   	WNFQ375 	BM	151.4 PL	ManorPolice Talk 	Police Talk-Around 	FMN 	Law Talk 
+151.11500 	158.98500  	WNHQ333 	RM	151.4 PL	TC CF Tac 12 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.87500 	   	WZX486 	BM		SV Police Tac  	Police TAC 	FMN 	Law Tac 
+857.93750 	812.93750  	WPKH874 	RM	115 DPL	WLk Police Disp  	Police 800 MHz Primary 	FMN 	Law Dispatch 
+860.93750 	815.93750  	KSP328 	RM		WLk PD/FD 	Fire & Police 	FMN 	Multi-Tac 
+155.91000 	155.11500  	KNDD788 	RM	151.4 PL	WLk PD Tac 	Police VHF TAC 	FMN 	Law Tac 
+154.37000 	   	WNZD684 	BM	151.4 PL	WLk FD Talk 	Fire Talk-Around 	FMN 	Fire-Talk 
+153.98000 	156.12000  	WPWM377 	RM	110.9 PL	TC CF Tac 9 	Fire  	FMN 	Multi-Dispatch 
+154.25000 	   	WNGG279 	M		CEB VFD FG 	Fireground 	FMN 	Fire-Tac 
+154.13000 	158.95500  	WNXD775 	RM	203.5 PL	FC CF Tac 10 	Tactical 	FMN 	Fire-Tac 
+154.43000 	   	KIQ334 	BM		LT FR FireGround 	Fireground 	FMN 	Fire-Tac 
+154.44500 	154.16000  	KIQ334 	RM	151.4 PL	TC CF Tac 6 	County Fire Tac 6 	FMN 	Fire-Tac 
+159.39000 	151.19000  	WPMG860 	RM	151.4 PL	TC CF Tac 7 	Northshore / Sandy Creek fire 	FM 	Fire Dispatch 
+154.22000 	159.16500  	WYC571 	RM	186.2 PL	TC CF Tac 8 	Pedernales Fire 	FM 	Fire Dispatch 
+154.19750 	154.98750  	WRA319 	RM	031 DPL	TC CF Tac14 	Volente Fire (ESD 14) 	FMN 	Fire-Tac 
+170.25000 	   	 	M		Aus HS Band 	Austin High School - Band (wireless microphone) 	FM 	Schools 
+460.87500 	465.87500  	WNHN702 	RM	110.9 PL	Aus Martin 	Martin Middle School - Security 	FM 	Security 
+463.20000 	468.20000  	WNJL999 	RM	110.9 PL	Aus HS 	Reported used by most schools, esp. Austin HS 	FM 	Schools 
+461.72500 	466.72500  	WPBW665 	RM	203.5 PL	DV ISD Bus 	Buses 	FM 	Schools 
+464.55000 	   	 	M	167.9 PL	DV Pop ES 	Popham Elementary School 	FM 	Schools 
+151.86500 	   	 		206.5 PL	WLk HS Band 	Westlake High School - Chaparral Video Crew 	FM 	Schools 
+451.80000 	   	 		432 DPL	WLk HS Evnt 	Westlake High School - Event Staff and Stadium Operations 	FM 	Schools 
+451.28750 	   	WQKM244 	M	241.8 PL	LVISD Ch 1 	Channel 1 	FMN 	Schools 
+451.58750 	   	WQKM244 	M		LagoVista HS 	Lago Vista High School    	FMN 	Schools 
+452.11250 	   	WQKM244 	M		LVISD Ch 3 	Channel 3 	FMN 	Schools 
+457.11250 	   	WQKM244 	M		LVISD Ch 4 	Channel 4 	FMN 	Schools 
+457.16250 	   	WQKM244 	M		LVISD Ch 5 	Channel 5 	FMN 	Schools 
+461.86250 	466.86250  	WQKM244 	RM	186.2 PL	LVISD Ch 6 Rept 	Channel 6 Repeater 	FMN 	Schools 
+466.86250 	   	WQKM244 	M	203.5 PL	LVISD Ch 7 	Channel 7 	FMN 	Schools 
+151.65500 	159.90000  	WPFP382 	RM		LT ISD Buses 	Lake Travis Buses, Football Games 	FM 	Schools 
+152.46500 	157.72500  	WPFP382 	RM	371 DPL	LTISD Buses 	Lake Travis ISD Buses 	FMN 	Schools 
+451.95000 	456.95000  	WPFP382 	RM	245 DPL	LTISD Ops 	Lake Travis ISD Ops 	FMN 	Schools 
+460.75000 	465.75000  	 		654 DPL	LT HS Parkin 	Lake Travis HS Parking Control 	FM 	Schools 
+461.75000 	466.75000  	 		103.5 PL	LT HS 	Lake Travis HS 	FM 	Schools 
+464.50000 	   	 		91.5 PL	LT HS Stad 	Lake Travis HS Stadium Ops 	FM 	Schools 
+461.78750 	   	 		464 DPL	Man ISD Bus 	Buses 	FM 	Schools 
+466.51250 	   	 	M	CSQ	Man HS 	Manor High School 	FM 	Schools 
+467.87500 	   	 	M	67.0 PL	Man HS Stad 	Football Stadium Security (at the middle school) 	FM 	Security 
+151.71500 	   	 		131 DPL	Pfl ISD PCMS 	Park Crest Middle School - Staff/Security 	FM 	Schools 
+452.11250 	   	WPZK423 		131 DPL	Pfl ISD 	Pflugerville ISD 	FM 	Schools 
+452.65000 	   	 	RM		Pfl ISD Bus 	Pflugerville ISD Buses 	FM 	Schools 
+461.05000 	466.05000  	 	RM	151.4 PL	Pfl HS 	Pflugerville High School 	FM 	Schools 
+461.83750 	466.83750  	WQFC525 	RM	506 DPL	Con HS Sec 	Conally High School Security and Staff 	FM 	Schools 
+464.55000 	   	 	M	77.0 PL	Con HS Band 	Conally High School Band 	FM 	Schools 
+453.22500 	458.22500  	WQA770 	RM	186.2 PL	ACC Police 	Police 	FM 	Law Dispatch 
+451.95000 	456.95000  	WPNQ425 	RM	79.7 PL	ConcordiaUni 	Concordia University 	FM 	Schools 
+464.72500 	469.72500  	WYY952 	RM	136.5 PL	SEU Security 	Security 	FM 	Security 
+453.65000 	458.65000  	KMA522 	RM	146.2 PL	UT Erwin 1 	Frank Erwin Center Ch. 1 - Maintenance, Facilities, Stage, Administration 	FM 	Schools 
+453.65000 	   	KMA522 	M	146.2 PL	UT Erwin 2 	Frank Erwin Center Ch. 2 	FM 	Schools 
+469.67500 	464.67500  	 	RM	174 DPL	UT Erwin 3 	Frank Erwin Center Ch. 3 	FM 	Schools 
+469.67500 	   	 	M	174 DPL	UT Erwin 4 	Frank Erwin Center Ch. 4 	FM 	Schools 
+451.65000 	456.65000  	WQFK712 	RM	371 DPL	UT Erwin 451 	Frank Erwin Center 	FM 	Schools 
+451.60000 	456.60000  	WQQV463 	RM	172 DPL	UT Erwin 7 	Frank Erwin Center Ch. 7 Ushers 	FM 	Schools 
+462.47500 	467.42500  	WQQV463 	RM	731 DPL	UT Erwin 8 	Frank Erwin Center Ch. 8 Ushers 	FMN 	Schools 
+151.67000 	159.69000  	WQQH701 	RM	174 DPL	UT Maintenance 	Maintenance 	FMN 	Schools 
+152.94500 	159.52500  	WQRM499 	RM	423 DPL	UT ES AV 	Engineering Services (Audio Visual) 	FMN 	Schools 
+158.92500 	   	WXP568 	RM	136.5 PL	UT Maint 	Maintenance 	FM 	Schools 
+452.97500 	457.97500  	WPTD949 	BM	155 DPL	UT Housing 	UT Housing and Food 	FMN 	Schools 
+453.95000 	458.95000  	WPQJ514 	RM		UT Perf Art 	Performing Arts Center 	FM 	Schools 
+467.80000 	   	 	M		UT Band 	School Band 	FM 	Schools 
+3M Plant	 Motorola Type I	 Austin	All Points Communications of Austin (Connect Plus - System 486)	 DMR Motorola Connect Plus (TRBO)	 Various	All Points Communications of Austin (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Austin
+BearCom	 DMR Motorola Capacity Plus Single Site (TRBO)	 Austin	BearCom (Austin)	 LTR Standard	 Austin	BearCom (Central Texas NexEdge)	 NXDN NEXEDGE 4800	 Various
+BearCom (Passport)	 LTR Passport	 Multiple	BrandMeister Texas	 DMR Conventional Networked	 Various	Circuit of the Americas	 DMR Motorola Capacity Plus Single Site (TRBO)	 Austin
+Constant Communications	 Motorola Type II	 Austin	CTS All Points Communications (Austin)	 Motorola Type I	 Austin	Department of Veterans Affairs Central Texas	 Project 25 Phase II	 Various
+Freescale Semiconductor	 Motorola Type II	 Austin	Freescale Semiconductor (WPDA684)	 Motorola Type IIi Hybrid	 Austin	Intrinsic Solutions	 DMR Motorola Capacity Plus Single Site (TRBO)	 Austin
+Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	Nextel (Austin-3)	 Motorola Type I	 Austin	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various
+UNID Project 25: System 267	 Project 25 Phase I	 Austin	W Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Austin	

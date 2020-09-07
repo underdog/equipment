@@ -1,26 +1,25 @@
-154.07000 	WPKC428 	RM	186.2 PL	LCFD-DISP 	Fire - Dispatch All Repeaters (Differing input tones on each.) 	FMN 	Fire Dispatch 
-151.01750 	WPKC428 	RM		LCFD 	Fire 	FMN 	Fire Dispatch 
-151.10000 	WPKC428 	RM		LCFD 	Fire 	FMN 	Fire Dispatch 
-155.07000 	WNJZ207 	RM	179.9 PL	LCSO VHF OPS 	Sheriff - VHF Operations All Repeaters(Differing input tones on each.)  	FMN 	Law Dispatch 
-154.40750 	WQQG266 	RM	131.8 PL	C/S/MZ VFD 	Campground, Sylvania, and Mt. Zion VFD Private 	FMN 	Fire-Tac 
-154.26500 	WPMJ524 	BM		Mtn Spgs FD 	Mountain Springs Volunteer Fire Department - Fireground 	FMN 	Fire-Tac 
-151.16000 	WPWJ647 	RM	206.5 PL	Scott Fire 	Scott Fire Department Fireground 	FMN 	Fire-Tac 
-151.14500 	WNAQ486 	RM	131.8 PL	Sth Bnd FD 2 	South Bend Volunteer Fire Department  	FMN 	Fire-Tac 
-154.23500 	WNAQ486 	RM	131.8 PL	Sth Bnd FD 	South Bend Volunteer Fire Department 	FMN 	Fire Dispatch 
-154.14500 	WPKM363 	RM	631 DPL	TriComm FD 	Tri-Community Volunteer Fire Department / Butlerville Fire 	FM 	Fire Dispatch 
-154.20500 	WPCF481 	RM	179.9 PL	CFD-ANALOG 	Cabot Fire Analog 	FMN 	Fire Dispatch 
-154.20500 	WPCF481 	RM		CFD-TRBO 	Cabot Fire TRBO 	DMR 	Fire Dispatch 
-155.53500 	WQQE632 	RM	103.5 PL	Cabot Police 	Police 	FMN 	Law Dispatch 
-154.78500 	WQQE632 	BM		Cabot PD Tac 	Police Tactical 	FMN 	Law Tac 
-155.14500 	 	BM		Cabot Svcs 	Services 	FMN 	Public Works 
-154.44500 	WPKV442 	RM	205 NAC	Carlisle FD 	Fire Paging 	P25 	Fire Dispatch 
-155.59500 	WQBX425 	RM	CC 12TG 293SL 1	Carlisle PD 	Police 	DMR 	Law Dispatch 
-154.87500 	WPHY674 	RM	203.5 PL	England PD 	Police 	FMN 	Law Dispatch 
-159.16500 	WPLG993 	BM		Housing 	Housing Authority 	FM 	Public Works 
-154.76250 	WQEW658 	RM		KFD-DISP 	Fire Department 	FMN 	Fire Dispatch 
-154.86000 	KKD553 	RM	203.5 PL	LPD VHF 	Police - Dispatch (VHF) 	FM 	Law Dispatch 
-155.08500 	KKD553 	BM		Lonoke Ops 	City Services 	FM 	Public Works 
-154.34000 	WQAS700 	BM		Ward FireGrd 	Fireground 	FMN 	Fire-Tac 
-159.09000 	 	RM	131.8 PL	WARD PD VHF 	Police - Dispatch VHF 	FMN 	Law Dispatch 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	
+154.07000 	159.04500  	WPKC428 	RM	186.2 PL	LCFD-DISP 	Fire - Dispatch All Repeaters (Differing input tones on each.) 	FMN 	Fire Dispatch 
+151.01750 	155.11500  	WPKC428 	RM		LCFD 	Fire 	FMN 	Fire Dispatch 
+151.10000 	156.24000  	WPKC428 	RM		LCFD 	Fire 	FMN 	Fire Dispatch 
+155.07000 	158.73000  	WNJZ207 	RM	179.9 PL	LCSO VHF OPS 	Sheriff - VHF Operations All Repeaters(Differing input tones on each.)  	FMN 	Law Dispatch 
+154.40750 	159.00750  	WQQG266 	RM	131.8 PL	C/S/MZ VFD 	Campground, Sylvania, and Mt. Zion VFD Private 	FMN 	Fire-Tac 
+154.26500 	   	WPMJ524 	BM		Mtn Spgs FD 	Mountain Springs Volunteer Fire Department - Fireground 	FMN 	Fire-Tac 
+151.16000 	155.57250  	WPWJ647 	RM	206.5 PL	Scott Fire 	Scott Fire Department Fireground 	FMN 	Fire-Tac 
+151.14500 	156.00750  	WNAQ486 	RM	131.8 PL	Sth Bnd FD 2 	South Bend Volunteer Fire Department  	FMN 	Fire-Tac 
+154.23500 	157.53000  	WNAQ486 	RM	131.8 PL	Sth Bnd FD 	South Bend Volunteer Fire Department 	FMN 	Fire Dispatch 
+154.14500 	150.79000  	WPKM363 	RM	631 DPL	TriComm FD 	Tri-Community Volunteer Fire Department / Butlerville Fire 	FM 	Fire Dispatch 
+154.20500 	150.77500  	WPCF481 	RM	179.9 PL	CFD-ANALOG 	Cabot Fire Analog 	FMN 	Fire Dispatch 
+154.20500 	150.77500  	WPCF481 	RM		CFD-TRBO 	Cabot Fire TRBO 	DMR 	Fire Dispatch 
+155.53500 	154.74000  	WQQE632 	RM	103.5 PL	Cabot Police 	Police 	FMN 	Law Dispatch 
+154.78500 	   	WQQE632 	BM		Cabot PD Tac 	Police Tactical 	FMN 	Law Tac 
+155.14500 	   	 	BM		Cabot Svcs 	Services 	FMN 	Public Works 
+154.44500 	153.89000  	WPKV442 	RM	205 NAC	Carlisle FD 	Fire Paging 	P25 	Fire Dispatch 
+155.59500 	158.97000  	WQBX425 	RM	CC 12TG 293SL 1	Carlisle PD 	Police 	DMR 	Law Dispatch 
+154.87500 	155.98500  	WPHY674 	RM	203.5 PL	England PD 	Police 	FMN 	Law Dispatch 
+159.16500 	   	WPLG993 	BM		Housing 	Housing Authority 	FM 	Public Works 
+154.76250 	159.08250  	WQEW658 	RM		KFD-DISP 	Fire Department 	FMN 	Fire Dispatch 
+154.86000 	156.03000  	KKD553 	RM	203.5 PL	LPD VHF 	Police - Dispatch (VHF) 	FM 	Law Dispatch 
+155.08500 	   	KKD553 	BM		Lonoke Ops 	City Services 	FM 	Public Works 
+154.34000 	   	WQAS700 	BM		Ward FireGrd 	Fireground 	FMN 	Fire-Tac 
+159.09000 	155.85000  	 	RM	131.8 PL	WARD PD VHF 	Police - Dispatch VHF 	FMN 	Law Dispatch 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various

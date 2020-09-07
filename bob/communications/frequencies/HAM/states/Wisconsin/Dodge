@@ -1,56 +1,56 @@
-155.74500 	KUB996 	RM	141.3 PL	DOLAW1 	Police Dispatch 	FMN 	Law Dispatch 
-154.78500 	KSB421 	RM	69.3 PL	DOSO3 	Sheriff Dispatch 	FMN 	Law Dispatch 
-151.42250 	KSB421 	RM	140 NAC	DOSO4 	Law Encrypted 	P25E 	Law Tac 
-155.32500 	KSB421 	RM	97.4 PL	DOEM5 	Emergency Management/Traffic Details 	FMN 	EMS-Tac 
-155.85000 	KSB421 	M	293 NAC	DOSO Tac 	Sheriff Tac 	P25 	Law Tac 
-154.32500 	KFY426 	RM	79.7 PL	DOFIR1 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-154.44500 	KFY426 	RM	107.2 PL	DOPAGE 	Fire/EMS Paging 	FMN 	Multi-Dispatch 
-155.34000 	KTH569 	BM	114.8 PL	Bvr Dam Hosp 	EMS to Beaver Dam Community Hospital 	FMN 	Hospital 
-155.34000 	WPML506 	BM	71.9 PL	Waupun Hosp 	EMS to Waupun Memorial Hospital 	FMN 	Hospital 
-151.11500 	KTS527 	RM	127.3 PL	DOHWY1 	Highway 1 	FMN 	Public Works 
-155.11500 	KXZ266 	M	141.3 PL	DOHWY2 	Highway 2  	FMN 	Public Works 
-155.89500 	KXZ266 	BM	141.3 PL	DOCOM 	Countywide DPW 	FMN 	Multi-Talk 
-152.31500 	WQVX850 	RM	141.3 PL	DCERT1 	Dodge County Emergency Response Team  	FMN 	Emergency Ops 
-157.56000 	WQVX850 	M	141.3 PL	DCERT3 	Dodge County Emergency Response Team 3 	FMN 	Emergency Ops 
-453.05000 	KNFF803 	B	CSQ	DOGOVT Page 	Paging 	FMN 	Public Works 
-453.55000 	KNFF803 	RM		DOGOVT 	County Govt Agencies 	FMN 	Public Works 
-453.58750 	KNFF803 	RM	100.0 PL	DOMAINT 	County Bldg Maintenance 	FMN 	Public Works 
-453.11250 	KNFF803 	RM		DOJAIL 	Jail 	FMN 	Corrections 
-453.16250 	KNFF803 	RM	151.4 PL	DOJAIL Ops 	Jail Operations 	FMN 	Corrections 
-453.48750 	KNFF803 	RM	167.9 PL	DOJAIL Admin 	Jail Admin 	FMN 	Corrections 
-453.86250 	KNFF803 	RM		DOJAIL 	Jail 	FMN 	Corrections 
-453.96250 	KNFF803 	M		DOJAIL 	Jail 	FMN 	Corrections 
-460.03750 	KNFF803 	RM	186.2 PL	DOJAIL 	Jail 	FMN 	Corrections 
-460.38750 	KNFF803 	RM	118.8 PL	DOJAIL 	Jail 	FMN 	Corrections 
-460.56250 	KNFF803 	RM	071 DPL	DOJAIL Shf 	Jail Link to Sheriff Dispatch on 154.785 	FMN 	Law Dispatch 
-155.89500 	KFX372 	BM	173.8 PL	Ashippun DPW 	Public Works 	FM 	Public Works 
-154.72500 	KSA741 	RM	141.3 PL	Beaver Dam PD 	Police 	FMN 	Law Dispatch 
-453.45000 	KVW810 	RM	173.8 PL	Beaver Dam DPW 	Public Works 	FMN 	Public Works 
-453.06250 	WPKZ504 	F		BD Water Data 	Water Dept - Well Data 	Telm 	Data 
-155.89500 	WPBR615 	BM	210.7 PL	TnBvrDam DPW 	DPW 	FM 	Public Works 
-155.89500 	 	BM	77.0 PL	Burnett DPW 	Public Works 	FM 	Public Works 
-155.89500 	KNHR404 	BM	79.7 PL	Calamus DPW 	Public Works 	FM 	Public Works 
-155.89500 	 	BM	91.5 PL	Emmet DPW 	Public Works 	FM 	Public Works 
-155.89500 	 	BM	88.5 PL	Fox Lake DPW 	Public Works 	FM 	Public Works 
-154.02500 	KNES986 	RM	141.3 PL	Horicon DPW 	Public Works 	FM 	Public Works 
-155.64000 	KSA605 	RM	100.0 PL	Horicon PD 	Police 	FMN 	Law Dispatch 
-155.89500 	KNES986 	BM	203.5 PL	Horicon EG 	Emergency Govt 	FMN 	Emergency Ops 
-155.74500 	KEN867 	BM	141.3 PL	DOLAW1 	Police 	FMN 	Law Dispatch 
-155.89500 	KEN867 	BM	162.2 PL	Juneau DPW 	Public Works 	FMN 	Public Works 
-158.76000 	KNDM545 	BM	131.8 PL	TnLomira DPW 	Public Works 	FM 	Public Works 
-155.58000 	KBM924 	RM	141.3 PL	Mayville PD 	Police Dispatch 	FMN 	Law Dispatch 
-155.89500 	KBM924 	BM	85.4 PL	Mayville DPW 	Public Works 	FMN 	Public Works 
-173.26250 	WNUH580 	F	CSQ	MayvilleData 	Water Department Well Data 	FMN 	Data 
-155.89500 	KXW996 	BM	118.8 PL	Hubbard DPW 	Town of Hubbard DPW 	FM 	Public Works 
-155.89500 	 	BM	110.9 PL	Lebanon DPW 	Town of Lebanon DPW 	FM 	Public Works 
-155.89500 	KNGR882 	BM	179.9 PL	Lomira DPW 	Village of Lomira DPW 	FM 	Public Works 
-155.89500 	 	BM	206.5 PL	Lowell DPW 	Town of Lowell DPW 	FM 	Public Works 
-155.89500 	KFW789 	BM	156.7 PL	Rubicon DPW 	Town of Rubicon DPW 	FM 	Public Works 
-155.89500 	KNEN889 	BM	103.5 PL	Theresa DPW 	Town of Theresa DPW 	FM 	Public Works 
-155.89500 	KNCT562 	BM	131.8 PL	Trenton DPW 	Town of Trenton DPW 	FM 	Public Works 
-153.62000 	KNHZ646 	RM	71.9 PL	Waupun Util 	Utilities 	FM 	Public Works 
-155.11500 	WPWK909 	BM	71.9 PL	Waupun DPW 	Public Works 	FM 	Public Works 
-145.35000 	WB9KPG 	RM	123.0 PL	Rubicon 	Rubicon 	FM 	Ham 
-146.64000 	W9TCH 	RM	123.0 PL	Rock RiverRC 	Rock River Radio Club Juneau 	FM 	Ham 
-Alliant Energy	 DMR Tier 3	 Various	Bertram Communications	 DMR Tier 3	 Varies	John Deere Horicon Works	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Horicon	Tom Borchert (Fox Lake)	 LTR Standard	 Fox Lake	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+155.74500 	153.78500  	KUB996 	RM	141.3 PL	DOLAW1 	Police Dispatch 	FMN 	Law Dispatch 
+154.78500 	159.03000  	KSB421 	RM	69.3 PL	DOSO3 	Sheriff Dispatch 	FMN 	Law Dispatch 
+151.42250 	153.95000  	KSB421 	RM	140 NAC	DOSO4 	Law Encrypted 	P25E 	Law Tac 
+155.32500 	159.20250  	KSB421 	RM	97.4 PL	DOEM5 	Emergency Management/Traffic Details 	FMN 	EMS-Tac 
+155.85000 	   	KSB421 	M	293 NAC	DOSO Tac 	Sheriff Tac 	P25 	Law Tac 
+154.32500 	158.88000  	KFY426 	RM	79.7 PL	DOFIR1 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.44500 	159.30000  	KFY426 	RM	107.2 PL	DOPAGE 	Fire/EMS Paging 	FMN 	Multi-Dispatch 
+155.34000 	   	KTH569 	BM	114.8 PL	Bvr Dam Hosp 	EMS to Beaver Dam Community Hospital 	FMN 	Hospital 
+155.34000 	   	WPML506 	BM	71.9 PL	Waupun Hosp 	EMS to Waupun Memorial Hospital 	FMN 	Hospital 
+151.11500 	156.06000  	KTS527 	RM	127.3 PL	DOHWY1 	Highway 1 	FMN 	Public Works 
+155.11500 	   	KXZ266 	M	141.3 PL	DOHWY2 	Highway 2  	FMN 	Public Works 
+155.89500 	   	KXZ266 	BM	141.3 PL	DOCOM 	Countywide DPW 	FMN 	Multi-Talk 
+152.31500 	157.57500  	WQVX850 	RM	141.3 PL	DCERT1 	Dodge County Emergency Response Team  	FMN 	Emergency Ops 
+157.56000 	   	WQVX850 	M	141.3 PL	DCERT3 	Dodge County Emergency Response Team 3 	FMN 	Emergency Ops 
+453.05000 	   	KNFF803 	B	CSQ	DOGOVT Page 	Paging 	FMN 	Public Works 
+453.55000 	458.55000  	KNFF803 	RM		DOGOVT 	County Govt Agencies 	FMN 	Public Works 
+453.58750 	458.58750  	KNFF803 	RM	100.0 PL	DOMAINT 	County Bldg Maintenance 	FMN 	Public Works 
+453.11250 	458.11250  	KNFF803 	RM		DOJAIL 	Jail 	FMN 	Corrections 
+453.16250 	458.16250  	KNFF803 	RM	151.4 PL	DOJAIL Ops 	Jail Operations 	FMN 	Corrections 
+453.48750 	458.48750  	KNFF803 	RM	167.9 PL	DOJAIL Admin 	Jail Admin 	FMN 	Corrections 
+453.86250 	458.86250  	KNFF803 	RM		DOJAIL 	Jail 	FMN 	Corrections 
+453.96250 	   	KNFF803 	M		DOJAIL 	Jail 	FMN 	Corrections 
+460.03750 	465.03750  	KNFF803 	RM	186.2 PL	DOJAIL 	Jail 	FMN 	Corrections 
+460.38750 	465.38750  	KNFF803 	RM	118.8 PL	DOJAIL 	Jail 	FMN 	Corrections 
+460.56250 	465.56250  	KNFF803 	RM	071 DPL	DOJAIL Shf 	Jail Link to Sheriff Dispatch on 154.785 	FMN 	Law Dispatch 
+155.89500 	   	KFX372 	BM	173.8 PL	Ashippun DPW 	Public Works 	FM 	Public Works 
+154.72500 	159.12750  	KSA741 	RM	141.3 PL	Beaver Dam PD 	Police 	FMN 	Law Dispatch 
+453.45000 	458.45000  	KVW810 	RM	173.8 PL	Beaver Dam DPW 	Public Works 	FMN 	Public Works 
+453.06250 	   	WPKZ504 	F		BD Water Data 	Water Dept - Well Data 	Telm 	Data 
+155.89500 	   	WPBR615 	BM	210.7 PL	TnBvrDam DPW 	DPW 	FM 	Public Works 
+155.89500 	   	 	BM	77.0 PL	Burnett DPW 	Public Works 	FM 	Public Works 
+155.89500 	   	KNHR404 	BM	79.7 PL	Calamus DPW 	Public Works 	FM 	Public Works 
+155.89500 	   	 	BM	91.5 PL	Emmet DPW 	Public Works 	FM 	Public Works 
+155.89500 	   	 	BM	88.5 PL	Fox Lake DPW 	Public Works 	FM 	Public Works 
+154.02500 	158.94000  	KNES986 	RM	141.3 PL	Horicon DPW 	Public Works 	FM 	Public Works 
+155.64000 	153.74000  	KSA605 	RM	100.0 PL	Horicon PD 	Police 	FMN 	Law Dispatch 
+155.89500 	   	KNES986 	BM	203.5 PL	Horicon EG 	Emergency Govt 	FMN 	Emergency Ops 
+155.74500 	   	KEN867 	BM	141.3 PL	DOLAW1 	Police 	FMN 	Law Dispatch 
+155.89500 	   	KEN867 	BM	162.2 PL	Juneau DPW 	Public Works 	FMN 	Public Works 
+158.76000 	   	KNDM545 	BM	131.8 PL	TnLomira DPW 	Public Works 	FM 	Public Works 
+155.58000 	158.79000  	KBM924 	RM	141.3 PL	Mayville PD 	Police Dispatch 	FMN 	Law Dispatch 
+155.89500 	   	KBM924 	BM	85.4 PL	Mayville DPW 	Public Works 	FMN 	Public Works 
+173.26250 	   	WNUH580 	F	CSQ	MayvilleData 	Water Department Well Data 	FMN 	Data 
+155.89500 	   	KXW996 	BM	118.8 PL	Hubbard DPW 	Town of Hubbard DPW 	FM 	Public Works 
+155.89500 	   	 	BM	110.9 PL	Lebanon DPW 	Town of Lebanon DPW 	FM 	Public Works 
+155.89500 	   	KNGR882 	BM	179.9 PL	Lomira DPW 	Village of Lomira DPW 	FM 	Public Works 
+155.89500 	   	 	BM	206.5 PL	Lowell DPW 	Town of Lowell DPW 	FM 	Public Works 
+155.89500 	   	KFW789 	BM	156.7 PL	Rubicon DPW 	Town of Rubicon DPW 	FM 	Public Works 
+155.89500 	   	KNEN889 	BM	103.5 PL	Theresa DPW 	Town of Theresa DPW 	FM 	Public Works 
+155.89500 	   	KNCT562 	BM	131.8 PL	Trenton DPW 	Town of Trenton DPW 	FM 	Public Works 
+153.62000 	158.20500  	KNHZ646 	RM	71.9 PL	Waupun Util 	Utilities 	FM 	Public Works 
+155.11500 	   	WPWK909 	BM	71.9 PL	Waupun DPW 	Public Works 	FM 	Public Works 
+145.35000 	144.75000  	WB9KPG 	RM	123.0 PL	Rubicon 	Rubicon 	FM 	Ham 
+146.64000 	146.04000  	W9TCH 	RM	123.0 PL	Rock RiverRC 	Rock River Radio Club Juneau 	FM 	Ham 
+Alliant Energy	 DMR Tier 3	 Various	Bertram Communications	 DMR Tier 3	 Varies	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+John Deere Horicon Works	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Horicon	Tom Borchert (Fox Lake)	 LTR Standard	 Fox Lake	

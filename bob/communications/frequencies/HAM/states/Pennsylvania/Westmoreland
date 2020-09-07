@@ -1,49 +1,49 @@
-154.04000 	WQRE245 	BM	CSQ	Fire Pager 	Fire Paging 	FMN 	Fire Dispatch 
-154.25000 	KGB939 	RM	131 DPL	GrnsbgFire 1 	Greensburg City FD - Ch 1 	FMN 	Fire Dispatch 
-154.14500 	KGB939 	BM	516 DPL	GrnsbgFire 2 	Greensburg City FD - Ch 2 	FMN 	Fire-Tac 
-154.35500 	WNUI265 	RM	103.5 PL	Hemp Fire 1 	Hempfield Fire - Ch 1 	FMN 	Fire-Tac 
-154.01000 	WNUI265 	M	103.5 PL	Hemp Fire 2 	Hempfield Fire - Ch 2 	FMN 	Fire-Tac 
-159.31500 	KGH706 	RM	131.8 PL	Jeanette VFD 	Jeanette VFD - Pagers 	FMN 	Fire Dispatch 
-154.38500 	WQXE701 	RM	141.3 PL	Latrobe VFD  	Latrobe VFD - Dispatch 	FMN 	Fire Dispatch 
-158.73000 	WPUA255 	M	141.3 PL	LatrobeVFD  	Latrobe VFD  	FMN 	Fire-Talk 
-154.17500 	WQXE701 	BM	146.2 PL	LatrobeVFD 2 	Latrobe VFD 	FMN 	Fire-Tac 
-852.01250 	WQJX622 	M	CSQ	Fire T/A 	Fire Talkaround 	FM 	Fire-Talk 
-854.01250 	WPDH225 	RM	ACE NAC	Jnte Fire 2D 	Jeanette Fire Dispatch 	P25 	Fire Dispatch 
-155.16000 	WNLK563 	BM	CSQ	EMS Dispatch 	EMS Dispatch 	FMN 	EMS Dispatch 
-154.34000 	WPHZ827 	BM	91.5 PL	Mon Valley EMS 	Mon Valley EMS Operations 	FMN 	EMS Dispatch 
-155.28000 	KDK752 	BM	CSQ	EMs to Hosp 	Countywide EMS Ambulance to Hospital 	FMN 	EMS-Tac 
-155.34000 	KDK752 	BM	CSQ	EMS to W Mor 	EMS Ch 2 (old) 	FMN 	EMS-Tac 
-851.51250 	WQJX622 	M	CSQ	EMS T/A 	EMS Talkaround 	FM 	EMS-Talk 
-151.04000 	WPSE301 	RM		Latrobe PD  	Latrobe PD (private) 	FMN 	Law Tac 
-154.10000 	KNGS471 	BM	127.3 PL	N Hunting PD 	North Huntington Police / DPW Ch 11 	FMN 	Law Tac 
-154.77000 	KNGY521 	BM	162.2 PL	N Hunting PD 	North Huntington Police 	FMN 	Law Tac 
-155.47500 	KXH375 	BM	CSQ	National LE 	North Huntington Police Ch 9 	FM 	Law Tac 
-155.80500 	WNMU917 	BM	127.3 PL	Irwin FD/PD 	Irwin Fire/Police/DPW common 	FMN 	Law Tac 
-851.01250 	WQJX622 	M	CSQ	Police T/A 	Police Talkaround 	FM 	Law Talk 
-852.51250 	WQJX622 	M	CSQ	EMA T/A 	EMA Talkaround 	FM 	Emergency Ops 
-853.01250 	WQJX622 	M	CSQ	911 TA 	911 Talkaround 	FM 	Multi-Talk 
-154.87500 	WPCE411 	BM		Ligonier 	Borough of Ligonier 	FM 	Public Works 
-159.15000 	WPCE411 	M		Ligonier 	Borough of Ligonier 	FM 	Public Works 
-39.90000 	KOE354 	BM		Cook Twp 	Cook Township 	FM 	Public Works 
-151.10000 	WPOX727 	RM	445 DPL	Delmont DPW 	Delmont Borough 	FMN 	Public Works 
-45.52000 	WYG259 	BM		Derry Twp Ma 	Derry Township - Maintenance & Supervisors 	FM 	Public Works 
-155.89500 	KWV550 	BM		E Huntingdon 	East Huntingdon Township 	FM 	Public Works 
-155.92500 	KYY985 	BM		Fairfield Tw 	Fairfield Township 	FM 	Public Works 
-154.96500 	KFB858 	RM	712 DPL	Greensbrg PW 	Greensburg Public Works 	FMN 	Public Works 
-453.32500 	KXL246 	BM	071 DPL	Hempfield Tw 	Hempfield Township DPW 	FMN 	Public Works 
-155.80500 	WNMU917 	BM	127.3 PL	Irwin DPW 	Irwin Borough DPW 	FMN 	Public Works 
-158.80500 	WNND854 	BM		Latrobe  	Latrobe Public Works 	FMN 	Public Works 
-151.06250 	WPMB625 	RM	754 DPL	Ligonier Twp 	Ligonier Township DPW 	FMN 	Public Works 
-154.10000 	KNGS471 	BM	127.3 PL	NHunt PW Analog 	N Huntingdon PW Analog 	FMN 	Public Works 
-154.10000 	KNGS471 	BM	8 RAN	N Hunt PW 	North Huntingdon DPW  	NXDN 	Public Works 
-453.77500 	WNME476 	RM	146.2 PL	Penn Twp DPW 	Penn Township DPW 	FMN 	Public Works 
-151.07000 	KOB259 	RM		Salem Twp 	Salem Township 	FMN 	Public Works 
-472.13750 	WPLQ815 	RM	123.0 PL	Sewickley PW 	Sewickley Township Public Works 	FMN 	Public Works 
-453.27500 	WNAN841 	RM	110.9 PL	Unity Twp  	Unity Township DPW 	FMN 	Public Works 
-118.37500 	 	BM		WC Airport ATIS 	Arnold Palmer Regional Airport ATIS 	AM 	Aircraft 
-121.80000 	 	BM		WC Airport Grnd 	Arnold Palmer Regional Airport Ground 	AM 	Aircraft 
-125.00000 	 	BM		WC Airport Twr 	Arnold Palmer Regional Airport Tower 	AM 	Aircraft 
-152.27000 	WQYF318 	RM	174 DPL	WCAA Maint 	Westmoreland Couny Airport Authority - Maintenance 	FMN 	Transportation 
-CNX Gas Co LLC	 NXDN Icom IDAS Type D	 	Hempfield Area School District	 LTR Standard	 GREENSBURG  	ICORRS (Inter County Regional Radio System)	 Project 25 Phase II
- Multiple	Murrysville Municipal Services	 NXDN NEXEDGE 4800	 Murrysville	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)
- OpenSky 9600 baud	 Statewide	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH	
+154.04000 	   	WQRE245 	BM	CSQ	Fire Pager 	Fire Paging 	FMN 	Fire Dispatch 
+154.25000 	153.95000  	KGB939 	RM	131 DPL	GrnsbgFire 1 	Greensburg City FD - Ch 1 	FMN 	Fire Dispatch 
+154.14500 	   	KGB939 	BM	516 DPL	GrnsbgFire 2 	Greensburg City FD - Ch 2 	FMN 	Fire-Tac 
+154.35500 	156.13500  	WNUI265 	RM	103.5 PL	Hemp Fire 1 	Hempfield Fire - Ch 1 	FMN 	Fire-Tac 
+154.01000 	   	WNUI265 	M	103.5 PL	Hemp Fire 2 	Hempfield Fire - Ch 2 	FMN 	Fire-Tac 
+159.31500 	151.13000  	KGH706 	RM	131.8 PL	Jeanette VFD 	Jeanette VFD - Pagers 	FMN 	Fire Dispatch 
+154.38500 	153.77000  	WQXE701 	RM	141.3 PL	Latrobe VFD  	Latrobe VFD - Dispatch 	FMN 	Fire Dispatch 
+158.73000 	   	WPUA255 	M	141.3 PL	LatrobeVFD  	Latrobe VFD  	FMN 	Fire-Talk 
+154.17500 	   	WQXE701 	BM	146.2 PL	LatrobeVFD 2 	Latrobe VFD 	FMN 	Fire-Tac 
+852.01250 	   	WQJX622 	M	CSQ	Fire T/A 	Fire Talkaround 	FM 	Fire-Talk 
+854.01250 	809.01250  	WPDH225 	RM	ACE NAC	Jnte Fire 2D 	Jeanette Fire Dispatch 	P25 	Fire Dispatch 
+155.16000 	   	WNLK563 	BM	CSQ	EMS Dispatch 	EMS Dispatch 	FMN 	EMS Dispatch 
+154.34000 	   	WPHZ827 	BM	91.5 PL	Mon Valley EMS 	Mon Valley EMS Operations 	FMN 	EMS Dispatch 
+155.28000 	   	KDK752 	BM	CSQ	EMs to Hosp 	Countywide EMS Ambulance to Hospital 	FMN 	EMS-Tac 
+155.34000 	   	KDK752 	BM	CSQ	EMS to W Mor 	EMS Ch 2 (old) 	FMN 	EMS-Tac 
+851.51250 	   	WQJX622 	M	CSQ	EMS T/A 	EMS Talkaround 	FM 	EMS-Talk 
+151.04000 	   	WPSE301 	RM		Latrobe PD  	Latrobe PD (private) 	FMN 	Law Tac 
+154.10000 	   	KNGS471 	BM	127.3 PL	N Hunting PD 	North Huntington Police / DPW Ch 11 	FMN 	Law Tac 
+154.77000 	158.91000  	KNGY521 	BM	162.2 PL	N Hunting PD 	North Huntington Police 	FMN 	Law Tac 
+155.47500 	   	KXH375 	BM	CSQ	National LE 	North Huntington Police Ch 9 	FM 	Law Tac 
+155.80500 	   	WNMU917 	BM	127.3 PL	Irwin FD/PD 	Irwin Fire/Police/DPW common 	FMN 	Law Tac 
+851.01250 	   	WQJX622 	M	CSQ	Police T/A 	Police Talkaround 	FM 	Law Talk 
+852.51250 	   	WQJX622 	M	CSQ	EMA T/A 	EMA Talkaround 	FM 	Emergency Ops 
+853.01250 	   	WQJX622 	M	CSQ	911 TA 	911 Talkaround 	FM 	Multi-Talk 
+154.87500 	   	WPCE411 	BM		Ligonier 	Borough of Ligonier 	FM 	Public Works 
+159.15000 	   	WPCE411 	M		Ligonier 	Borough of Ligonier 	FM 	Public Works 
+39.90000 	   	KOE354 	BM		Cook Twp 	Cook Township 	FM 	Public Works 
+151.10000 	156.07500  	WPOX727 	RM	445 DPL	Delmont DPW 	Delmont Borough 	FMN 	Public Works 
+45.52000 	   	WYG259 	BM		Derry Twp Ma 	Derry Township - Maintenance & Supervisors 	FM 	Public Works 
+155.89500 	   	KWV550 	BM		E Huntingdon 	East Huntingdon Township 	FM 	Public Works 
+155.92500 	   	KYY985 	BM		Fairfield Tw 	Fairfield Township 	FM 	Public Works 
+154.96500 	153.99500  	KFB858 	RM	712 DPL	Greensbrg PW 	Greensburg Public Works 	FMN 	Public Works 
+453.32500 	458.32500  	KXL246 	BM	071 DPL	Hempfield Tw 	Hempfield Township DPW 	FMN 	Public Works 
+155.80500 	   	WNMU917 	BM	127.3 PL	Irwin DPW 	Irwin Borough DPW 	FMN 	Public Works 
+158.80500 	   	WNND854 	BM		Latrobe  	Latrobe Public Works 	FMN 	Public Works 
+151.06250 	156.06750  	WPMB625 	RM	754 DPL	Ligonier Twp 	Ligonier Township DPW 	FMN 	Public Works 
+154.10000 	   	KNGS471 	BM	127.3 PL	NHunt PW Analog 	N Huntingdon PW Analog 	FMN 	Public Works 
+154.10000 	   	KNGS471 	BM	8 RAN	N Hunt PW 	North Huntingdon DPW  	NXDN 	Public Works 
+453.77500 	458.77500  	WNME476 	RM	146.2 PL	Penn Twp DPW 	Penn Township DPW 	FMN 	Public Works 
+151.07000 	   	KOB259 	RM		Salem Twp 	Salem Township 	FMN 	Public Works 
+472.13750 	475.13750  	WPLQ815 	RM	123.0 PL	Sewickley PW 	Sewickley Township Public Works 	FMN 	Public Works 
+453.27500 	458.27500  	WNAN841 	RM	110.9 PL	Unity Twp  	Unity Township DPW 	FMN 	Public Works 
+118.37500 	   	 	BM		WC Airport ATIS 	Arnold Palmer Regional Airport ATIS 	AM 	Aircraft 
+121.80000 	   	 	BM		WC Airport Grnd 	Arnold Palmer Regional Airport Ground 	AM 	Aircraft 
+125.00000 	   	 	BM		WC Airport Twr 	Arnold Palmer Regional Airport Tower 	AM 	Aircraft 
+152.27000 	157.53000  	WQYF318 	RM	174 DPL	WCAA Maint 	Westmoreland Couny Airport Authority - Maintenance 	FMN 	Transportation 
+CNX Gas Co LLC	 NXDN Icom IDAS Type D	 	Hempfield Area School District	 LTR Standard	 GREENSBURG  	ICORRS (Inter County Regional Radio System)	 Project 25 Phase II	 Multiple
+Murrysville Municipal Services	 NXDN NEXEDGE 4800	 Murrysville	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide
+TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH	

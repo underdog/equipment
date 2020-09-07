@@ -1,23 +1,22 @@
-154.72500 	WQA714 	RM	306 DPL	HIGHCO SO 	Highland County Sheriff 	FM 	Law Dispatch 
-154.80000 	KQD320 	RM	065 DPL	GREENFLD PD 	Greenfield Police Dispatch 	FM 	Law Dispatch 
-155.43000 	KQE379 	RM	110.9 PL	HILLSBORO PD 	Hillsboro Police Dispatch 	FM 	Law Dispatch 
-158.76750 	WQAF513 	RM	151.4 PL	LYNCHBRG PD 	Lynchburg Police Dispatch 	FMN 	Law Dispatch 
-33.94000 	KNAI204 	BM		HIGHCO FD LO 	County Fire Dispatch 	FM 	Fire Dispatch 
-154.34000 	KKG914 	RM	103.5 PL	HIGHCO FIRE 	County Fire/EMS Dispatch 	FM 	Fire Dispatch 
-154.38500 	WPJZ245 	BM	103.5 PL	GFD DISP 	Greenfield Fire Dispatch 	FM 	Fire Dispatch 
-154.40000 	KNAI298 	BM		BCTFD DISP 	Brushcreek Twp Fire Dispatch 	FM 	Fire Dispatch 
-155.08000 	 	BM		D300 FG 	District 300 Fireground 	FM 	Fire-Tac 
-155.14500 	 	BM		HILLSFD FG 	Hillsboro Fire/EMS - Fireground 	FM 	Fire-Tac 
-155.23500 	 	BM		GFD EMS CHAT 	Greenfield EMS - Chatter Channel 	FM 	EMS-Talk 
-155.26500 	KKG914 	BM	110.9 PL	HIGHCO EMS 	County Fire/EMS 	FM 	EMS Dispatch 
-155.34000 	KNDZ249 	BM		HDH ER 	Highland District Hospital - EMS to ER 	FM 	Hospital 
-155.34000 	 	BM		GAMC ER 	Greenfield Area Medical Center - EMS to ER 	FM 	Hospital 
-155.38500 	WPNT787 	RM		BCTFD 	Brushcreek Twp Fire Dispatch? 	FM 	Fire Dispatch 
-151.02500 	WPYX841 	RM		HIGHCO ENG 	County Engineer 	FM 	Public Works 
-155.22000 	KNIU434 	BM		GREENFLD LSD 	Greenfield Local Schools - Buses 	FM 	Schools 
-464.87500 	WPGT912 	RM	5 RAN	BRIGHT TXP 	Bright Local School District - TG 1 - Transportation 	NXDN 	Schools 
-118.17500 	WPTE430 	BA		HOC AWOS 	Automated Weather Observation Station (AWOS) 	AM 	Aircraft 
-123.05000 	 	BA		HOC CTAF 	CTAF/Unicom 	AM 	Aircraft 
-134.00000 	 	BA		HOC APP/DEP 	Approach/Departure (Provided for by Indianapolis ARTCC [ZID] ) 	AM 	Aircraft 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
- Statewide	
+154.72500 	158.97000  	WQA714 	RM	306 DPL	HIGHCO SO 	Highland County Sheriff 	FM 	Law Dispatch 
+154.80000 	158.94000  	KQD320 	RM	065 DPL	GREENFLD PD 	Greenfield Police Dispatch 	FM 	Law Dispatch 
+155.43000 	159.34500  	KQE379 	RM	110.9 PL	HILLSBORO PD 	Hillsboro Police Dispatch 	FM 	Law Dispatch 
+158.76750 	153.93750  	WQAF513 	RM	151.4 PL	LYNCHBRG PD 	Lynchburg Police Dispatch 	FMN 	Law Dispatch 
+33.94000 	   	KNAI204 	BM		HIGHCO FD LO 	County Fire Dispatch 	FM 	Fire Dispatch 
+154.34000 	150.80500  	KKG914 	RM	103.5 PL	HIGHCO FIRE 	County Fire/EMS Dispatch 	FM 	Fire Dispatch 
+154.38500 	   	WPJZ245 	BM	103.5 PL	GFD DISP 	Greenfield Fire Dispatch 	FM 	Fire Dispatch 
+154.40000 	   	KNAI298 	BM		BCTFD DISP 	Brushcreek Twp Fire Dispatch 	FM 	Fire Dispatch 
+155.08000 	   	 	BM		D300 FG 	District 300 Fireground 	FM 	Fire-Tac 
+155.14500 	   	 	BM		HILLSFD FG 	Hillsboro Fire/EMS - Fireground 	FM 	Fire-Tac 
+155.23500 	   	 	BM		GFD EMS CHAT 	Greenfield EMS - Chatter Channel 	FM 	EMS-Talk 
+155.26500 	   	KKG914 	BM	110.9 PL	HIGHCO EMS 	County Fire/EMS 	FM 	EMS Dispatch 
+155.34000 	   	KNDZ249 	BM		HDH ER 	Highland District Hospital - EMS to ER 	FM 	Hospital 
+155.34000 	   	 	BM		GAMC ER 	Greenfield Area Medical Center - EMS to ER 	FM 	Hospital 
+155.38500 	150.79000  	WPNT787 	RM		BCTFD 	Brushcreek Twp Fire Dispatch? 	FM 	Fire Dispatch 
+151.02500 	159.01500  	WPYX841 	RM		HIGHCO ENG 	County Engineer 	FM 	Public Works 
+155.22000 	   	KNIU434 	BM		GREENFLD LSD 	Greenfield Local Schools - Buses 	FM 	Schools 
+464.87500 	469.87500  	WPGT912 	RM	5 RAN	BRIGHT TXP 	Bright Local School District - TG 1 - Transportation 	NXDN 	Schools 
+118.17500 	   	WPTE430 	BA		HOC AWOS 	Automated Weather Observation Station (AWOS) 	AM 	Aircraft 
+123.05000 	   	 	BA		HOC CTAF 	CTAF/Unicom 	AM 	Aircraft 
+134.00000 	   	 	BA		HOC APP/DEP 	Approach/Departure (Provided for by Indianapolis ARTCC [ZID] ) 	AM 	Aircraft 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide

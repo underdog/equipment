@@ -1,65 +1,61 @@
-154.38500 	KFV933 	BM		N. Cnty VFD 	North County VFD (Pager) 	FM 	Fire Dispatch 
-154.44500 	KFV933 	BM		C. Cnty VFD 	Central County VFD (Pager) 	FM 	Fire Dispatch 
-154.17500 	KFV933 	BM		S. Cnty VFD 	South County VFD (Pager) 	FM 	Fire Dispatch 
-155.92500 	WQGM258 	BM		Cape C. VFD 	Cape Canaveral VFD (Pager) 	FM 	Fire Dispatch 
-155.80500 	WQEK863 	BM		Malabar VFD 	Malabar VFD (Pager) 	FM 	Fire Dispatch 
-154.25000 	WNKU436 	RM		GMS VFD 	Grant, Mims, Scottsmoor VFD 	FM 	Fire Dispatch 
-154.44500 	KFO878 	BM		Merritt VFD 	Merritt Island VFD 	FM 	Fire Dispatch 
-460.30000 	WQCW384 	RM	127.3 PL	Brevard Jail 1 	Jail Complex 1 (Cocoa) 	FM 	Corrections 
-460.11250 	WQCW384 	RM	127.3 PL	Brevard Jail 2 	Jail Complex 2 (Cocoa) 	FMN 	Corrections 
-463.12500 	WQCH402 	RM	127.3 PL	CMC-M6 	County Medical Control Med-6 	FM 	EMS-Tac 
-463.03750 	WQCH402 	RM	173.8 PL	CCH-M22 	EMS-to-Cape Canaveral Hospital 	FM 	Hospital 
-463.11250 	WQCH402 	RM	131.8 PL	HRMC-M52 	EMS-to-Holmes Regional Medical Center 	FM 	Hospital 
-463.13750 	WQCH402 	RM	146.2 PL	KSC-M62 	EMS-to-Kennedy Space Center 	FM 	Hospital 
-463.01250 	WQCH402 	RM	173.8 PL	PBCH-M12 	EMS-to-Palm Bay Community Hospital 	FM 	Hospital 
-463.08750 	WQCH402 	RM	127.3 PL	PMC-M42 	EMS-to-Parrish Medical Center 	FM 	Hospital 
-463.16250 	WQCH402 	RM	146.2 PL	WMCM-M72 	EMS-to-Wuesthoff Medical Center Melbourne 	FM 	Hospital 
-463.06250 	WQCH402 	RM	146.2 PL	WMH-M32 	EMS-to-Wuesthoff Memorial Hospital 	FM 	Hospital 
-155.16000 	KTV767 	BM	203.5 PL	HRMC LZ 	Holmes Regional Medical Center - Incoming Rescue Helicopter 	FM 	EMS-Tac 
-453.02500 	 	BM	203.5 PL	HRMC DISP 	Holmes Regional Medical Center - Rescue Helicopter Dispatch 	FM 	EMS Dispatch 
-453.47500 	KNNJ508 	RM	127.3 PL	Viera CGC 	Viera County Government Complex - Maintenance 	FM 	Other 
-461.93125 	 	RM	110.9 PL	Clearlake EC Ch1 	Clearlake Education Center Ch 1 	FMN 	Schools 
-464.50000 	 	M	67.0 PL	Clearlake EC Ch2 	Clearlake Education Center Ch 2 	FMN 	Schools 
-464.55000 	 	M	131.8 PL	Clearlake EC Ch3 	Clearlake Education Center Ch 3 	FMN 	Schools 
-467.81250 	 	M	254.1 PL	Clearlake EC Ch4 	Clearlake Education Center Ch 4 	FMN 	Schools 
-451.80000 	 	M	023 DPL	Clearlake EC Ch5 	Clearlake Education Center Ch 5 	FMN 	Schools 
-463.45000 	 	M	250.3 PL	Croton ES Ch 1 	Croton Elementary School Ch 1 	FMN 	Schools 
-462.71250 	 	M	250.3 PL	Croton ES Ch 2 	Croton Elementary School Ch 2 	FMN 	Schools 
-461.45000 	WRCZ545 	RM	315 DPL	Edgewood Jr/Sr 	Edgewood Jr/Sr High School 	FMN 	Schools 
-461.15000 	 	M	151.4 PL	Lockmar Ch 1 	Lockmar Elementary Ch 1 	FMN 	Schools 
-466.15000 	 	M	151.4 PL	Lockmar Ch2 	Lockmar Elementary Ch 2 	FMN 	Schools 
-464.50000 	 	M	151.4 PL	Lockmar Ch 3 	Lockmar Elementary Ch 3 	FMN 	Schools 
-464.55000 	 	M	151.4 PL	Lockmar Ch 4 	Lockmar Elementary Ch 4 	FMN 	Schools 
-467.76250 	 	M	151.4 PL	Lockmar Ch 5 	Lockmar Elementary Ch 5 	FMN 	Schools 
-467.81250 	 	M	151.4 PL	Lockmar CH 6 	Lockmar Elementary Ch 6 	FMN 	Schools 
-464.46250 	WQGH724 	M	151.4 PL	PBHS 	Palm Bay High School 	FMN 	Schools 
-451.85000 	WQTY818 	M	110.9 PL	Port Malabar 	Port Malabar Elementary 	FMN 	Schools 
-451.62500 	WRAL568 	RM	516 DPL	Ronald McNair 	Ronald McNair Middle School 	FMN 	Schools 
-152.87000 	WQQV750 	RM	206.5 PL	BCPS Central 	School Buses - Central Area 	FMN 	Transportation 
-152.38250 	WQRL936 	RM	206.5 PL	BCPS Mid S 	School Buses - Mid South Area 	FMN 	Transportation 
-152.29250 	WNUZ477 	BM	206.5 PL	BCPS North 	School Buses - North Area 	FMN 	Transportation 
-152.94500 	WQRL936 	RM	206.5 PL	BCPS South 	School Buses - South Area 	FMN 	Transportation 
-153.80000 	KFX275 	RM	516 DPL	BCPS Maint 	School District Maintenance 	FMN 	Schools 
-464.62500 	WQVH567 	M	167.9 PL	Space Coast  	Space Coast Jr/Sr High School 	FMN 	Schools 
-451.78750 	 	M	205 DPL	VHS-1 	Viera High School Ch. 1 	FMN 	Schools 
-451.83750 	 	RM	205 DPL	VHS-2 	Viera High School Ch. 2 	FMN 	Schools 
-452.73750 	 	RM	205 DPL	VHS-3 	Viera High School Ch. 3 	FMN 	Schools 
-153.90500 	KJY676 	RM		Cocoa PW 	Public Works 	FM 	Public Works 
-158.17500 	KJ3440 	RM	94.8 PL	Cocoa Util 	Utilities Department 	FM 	Public Works 
-452.75000 	WQGW729 	RM	100.0 PL	EFSCPalmBay 	Palm Bay Campus Operations/ Security 	FM 	Schools 
-453.00000 	WQGW729 	RM	100.0 PL	EFSC Cocoa 	Cocoa Campus Operations/ Security 	FM 	Schools 
-453.22500 	 	RM	103.5 PL	EFSCMelbrne 	Melbourne Campus Operations/ Security 	FM 	Schools 
-158.86500 	WNMH876 	RM		MelbournePW 	Public Works 	FM 	Public Works 
-155.80500 	WNKG248 	BM		PB Park&Rec 	Parks and Recreation 	FM 	Public Works 
-155.67000 	WQEQ353 	RM	293 NAC	PCA1 	Operations - Main 	P25 	Security 
-155.52000 	WQEQ353 	RM	293 NAC	PCA2 	Operations - Secondary 	P25 	Security 
-159.09000 	WQEQ353 	RM	293 NAC	PCA3 	Operations 	P25 	Security 
-155.08500 	KWJ291 	BM	127.3 PL	RockledgePW1 	Public Works 	FM 	Public Works 
-155.11500 	KFT464 	BM		RockledgePW2 	Public Works 	FM 	Public Works 
-154.99500 	KNCZ205 	B		SB Fire 	Fire Alerting 	FM 	Fire Dispatch 
-156.12000 	KVS256 	BM		W Melbrne PW 	Public Works 	FM 	Public Works 
-Blue Origin	 DMR Motorola Capacity Plus Single Site (TRBO)	 Merritt Island	Brevard County	 EDACS Networked Standard	 Brevard County	Disney Cruise Lines: Disney Magic	 Motorola Type II Smartnet
- Lake Buena Vista	Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Florida Power and Light (P25)	 Project 25 Phase II	 Varies	Health First
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Melbourne	Kennedy Space Center	 Project 25 Phase II	 Cape Canaveral	Kennedy Space Center Visitors Complex	 DMR Motorola Capacity Plus Single Site (TRBO)	 Cape Canaveral
-SpaceX (900MHz Capacity Plus)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Cape Canaveral	SpaceX (UHF Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Cape Canaveral 	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I
- Statewide	United Launch Alliance	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Cape Canaveral	
+154.38500 	   	KFV933 	BM		N. Cnty VFD 	North County VFD (Pager) 	FM 	Fire Dispatch 
+154.44500 	   	KFV933 	BM		C. Cnty VFD 	Central County VFD (Pager) 	FM 	Fire Dispatch 
+154.17500 	   	KFV933 	BM		S. Cnty VFD 	South County VFD (Pager) 	FM 	Fire Dispatch 
+155.92500 	   	WQGM258 	BM		Cape C. VFD 	Cape Canaveral VFD (Pager) 	FM 	Fire Dispatch 
+155.80500 	   	WQEK863 	BM		Malabar VFD 	Malabar VFD (Pager) 	FM 	Fire Dispatch 
+154.25000 	151.32500  	WNKU436 	RM		GMS VFD 	Grant, Mims, Scottsmoor VFD 	FM 	Fire Dispatch 
+154.44500 	   	KFO878 	BM		Merritt VFD 	Merritt Island VFD 	FM 	Fire Dispatch 
+460.30000 	465.30000  	WQCW384 	RM	127.3 PL	Brevard Jail 1 	Jail Complex 1 (Cocoa) 	FM 	Corrections 
+460.11250 	465.11250  	WQCW384 	RM	127.3 PL	Brevard Jail 2 	Jail Complex 2 (Cocoa) 	FMN 	Corrections 
+463.12500 	468.12500  	WQCH402 	RM	127.3 PL	CMC-M6 	County Medical Control Med-6 	FM 	EMS-Tac 
+463.03750 	468.03750  	WQCH402 	RM	173.8 PL	CCH-M22 	EMS-to-Cape Canaveral Hospital 	FM 	Hospital 
+463.11250 	468.11250  	WQCH402 	RM	131.8 PL	HRMC-M52 	EMS-to-Holmes Regional Medical Center 	FM 	Hospital 
+463.13750 	468.13750  	WQCH402 	RM	146.2 PL	KSC-M62 	EMS-to-Kennedy Space Center 	FM 	Hospital 
+463.01250 	468.01250  	WQCH402 	RM	173.8 PL	PBCH-M12 	EMS-to-Palm Bay Community Hospital 	FM 	Hospital 
+463.08750 	468.08700  	WQCH402 	RM	127.3 PL	PMC-M42 	EMS-to-Parrish Medical Center 	FM 	Hospital 
+463.16250 	468.16250  	WQCH402 	RM	146.2 PL	WMCM-M72 	EMS-to-Wuesthoff Medical Center Melbourne 	FM 	Hospital 
+463.06250 	468.06250  	WQCH402 	RM	146.2 PL	WMH-M32 	EMS-to-Wuesthoff Memorial Hospital 	FM 	Hospital 
+155.16000 	   	KTV767 	BM	203.5 PL	HRMC LZ 	Holmes Regional Medical Center - Incoming Rescue Helicopter 	FM 	EMS-Tac 
+453.02500 	   	 	BM	203.5 PL	HRMC DISP 	Holmes Regional Medical Center - Rescue Helicopter Dispatch 	FM 	EMS Dispatch 
+453.47500 	458.47500  	KNNJ508 	RM	127.3 PL	Viera CGC 	Viera County Government Complex - Maintenance 	FM 	Other 
+461.93125 	466.93125  	 	RM	110.9 PL	Clearlake EC Ch1 	Clearlake Education Center Ch 1 	FMN 	Schools 
+464.50000 	   	 	M	67.0 PL	Clearlake EC Ch2 	Clearlake Education Center Ch 2 	FMN 	Schools 
+464.55000 	   	 	M	131.8 PL	Clearlake EC Ch3 	Clearlake Education Center Ch 3 	FMN 	Schools 
+467.81250 	   	 	M	254.1 PL	Clearlake EC Ch4 	Clearlake Education Center Ch 4 	FMN 	Schools 
+451.80000 	   	 	M	023 DPL	Clearlake EC Ch5 	Clearlake Education Center Ch 5 	FMN 	Schools 
+463.45000 	   	 	M	250.3 PL	Croton ES Ch 1 	Croton Elementary School Ch 1 	FMN 	Schools 
+462.71250 	   	 	M	250.3 PL	Croton ES Ch 2 	Croton Elementary School Ch 2 	FMN 	Schools 
+461.45000 	466.45000  	WRCZ545 	RM	315 DPL	Edgewood Jr/Sr 	Edgewood Jr/Sr High School 	FMN 	Schools 
+461.15000 	   	 	M	151.4 PL	Lockmar Ch 1 	Lockmar Elementary Ch 1 	FMN 	Schools 
+466.15000 	   	 	M	151.4 PL	Lockmar Ch2 	Lockmar Elementary Ch 2 	FMN 	Schools 
+464.50000 	   	 	M	151.4 PL	Lockmar Ch 3 	Lockmar Elementary Ch 3 	FMN 	Schools 
+464.55000 	   	 	M	151.4 PL	Lockmar Ch 4 	Lockmar Elementary Ch 4 	FMN 	Schools 
+467.76250 	   	 	M	151.4 PL	Lockmar Ch 5 	Lockmar Elementary Ch 5 	FMN 	Schools 
+467.81250 	   	 	M	151.4 PL	Lockmar CH 6 	Lockmar Elementary Ch 6 	FMN 	Schools 
+464.46250 	469.46250  	WQGH724 	M	151.4 PL	PBHS 	Palm Bay High School 	FMN 	Schools 
+451.85000 	456.85000  	WQTY818 	M	110.9 PL	Port Malabar 	Port Malabar Elementary 	FMN 	Schools 
+451.62500 	456.62500  	WRAL568 	RM	516 DPL	Ronald McNair 	Ronald McNair Middle School 	FMN 	Schools 
+152.87000 	158.39250  	WQQV750 	RM	206.5 PL	BCPS Central 	School Buses - Central Area 	FMN 	Transportation 
+152.38250 	157.64250  	WQRL936 	RM	206.5 PL	BCPS Mid S 	School Buses - Mid South Area 	FMN 	Transportation 
+152.29250 	157.55250  	WNUZ477 	BM	206.5 PL	BCPS North 	School Buses - North Area 	FMN 	Transportation 
+152.94500 	159.55500  	WQRL936 	RM	206.5 PL	BCPS South 	School Buses - South Area 	FMN 	Transportation 
+153.80000 	158.95500  	KFX275 	RM	516 DPL	BCPS Maint 	School District Maintenance 	FMN 	Schools 
+464.62500 	469.62500  	WQVH567 	M	167.9 PL	Space Coast  	Space Coast Jr/Sr High School 	FMN 	Schools 
+451.78750 	   	 	M	205 DPL	VHS-1 	Viera High School Ch. 1 	FMN 	Schools 
+451.83750 	   	 	RM	205 DPL	VHS-2 	Viera High School Ch. 2 	FMN 	Schools 
+452.73750 	   	 	RM	205 DPL	VHS-3 	Viera High School Ch. 3 	FMN 	Schools 
+153.90500 	   	KJY676 	RM		Cocoa PW 	Public Works 	FM 	Public Works 
+158.17500 	153.41000  	KJ3440 	RM	94.8 PL	Cocoa Util 	Utilities Department 	FM 	Public Works 
+158.86500 	   	WNMH876 	RM		MelbournePW 	Public Works 	FM 	Public Works 
+155.80500 	   	WNKG248 	BM		PB Park&Rec 	Parks and Recreation 	FM 	Public Works 
+155.67000 	   	WQEQ353 	RM	293 NAC	PCA1 	Operations - Main 	P25 	Security 
+155.52000 	   	WQEQ353 	RM	293 NAC	PCA2 	Operations - Secondary 	P25 	Security 
+159.09000 	   	WQEQ353 	RM	293 NAC	PCA3 	Operations 	P25 	Security 
+155.08500 	   	KWJ291 	BM	127.3 PL	RockledgePW1 	Public Works 	FM 	Public Works 
+155.11500 	   	KFT464 	BM		RockledgePW2 	Public Works 	FM 	Public Works 
+154.99500 	   	KNCZ205 	B		SB Fire 	Fire Alerting 	FM 	Fire Dispatch 
+156.12000 	   	KVS256 	BM		W Melbrne PW 	Public Works 	FM 	Public Works 
+Blue Origin	 DMR Motorola Capacity Plus Single Site (TRBO)	 Merritt Island	Brevard County	 EDACS Networked Standard	 Brevard County	Disney Cruise Lines: Disney Magic	 Motorola Type II Smartnet	 Lake Buena Vista
+Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Health First	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Melbourne	Kennedy Space Center	 Project 25 Phase II	 Cape Canaveral
+Kennedy Space Center Visitors Complex	 DMR Motorola Capacity Plus Single Site (TRBO)	 Cape Canaveral	SpaceX (900MHz Capacity Plus)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Cape Canaveral	SpaceX (UHF Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Cape Canaveral 
+Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	United Launch Alliance	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Cape Canaveral

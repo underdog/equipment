@@ -1,27 +1,27 @@
-453.05000 	WNVV717 	RM	432 DPL	MCnlsvlle PD 	McConnellsville Police - Dispatch 	FM 	Law Dispatch 
-155.92500 	WPIB492 	RM	243 DPL	MCSO 1 	Morgan Co SO (when not on MARCS) 	FM 	Law Talk 
-39.48000 	KB85472 	BM	82.5 PL	MCSO LB Ops 	Morgan Co Sheriff 	FM 	Law Tac 
-39.70000 	KB85472 	M		MCSO LB TAC 	Morgan Co Sheriff 	FM 	Law Tac 
-465.03750 	KQD750 	M		MCSO MRE 	Morgan Co Sheriff - handhelds / mobile extenders 	FM 	Law Tac 
-465.06250 	KQD750 	M		MCSO MRE 	Morgan Co Sheriff - handhelds / mobile extenders 	FM 	Law Tac 
-33.68000 	KBH343 	BM		MC Fire Disp 	Morgan County Fire Dispatch (including Stockport, Reinersville, Malta-McConnelsville, Chesterhill and Center Twp) 	FM 	Fire Dispatch 
-33.86000 	KBH343 	BM		MC Fire TAC 	Morgan County Fire (including Malta-McConnellsville, Chesterhill, etc.) 	FM 	Fire-Tac 
-154.37000 	WPUD591 	RM	343 DPL	MMFD Disp 	Malta-McConnellsville Fire Dispatch 	FM 	Fire Dispatch 
-155.22000 	KNGU730 	BM	103.5 PL	MMFD Rescue 	Malta-McConnellsville Rescue 	FM 	EMS Dispatch 
-453.68750 	WPUE377 	BM		MC EMA 	Morgan County EMA 	FM 	Emergency Ops 
-151.04000 	KRE245 	RM	82.5 PL	MorgCo Eng 	Morgan Co Engineer 	FM 	Public Works 
-154.12250 	WPTN954 	BM		MeigsTwp PW 	Meigsville Township 	FM 	Public Works 
-155.92500 	WPIB492 	RM		Morgan LG 	Morgan, County of 	FM 	Public Works 
-453.05000 	WNVV717 	RM		McConvl Pw 	McConnellsville services 	FM 	Public Works 
-453.18750 	WPYL998 	F		McConvl Link 	City of McConnellsville link 	FM 	Public Works 
-453.28750 	WPYL998 	RM		McConvl 	City of McConnellsville 	FM 	Public Works 
-458.18750 	WPYL998 	M		McConvl 	City of McConnellsville 	FM 	Public Works 
-458.28750 	WPYL998 	F		McConvl Link 	City of McConnellsville link 	FM 	Public Works 
-458.58750 	WPYL998 	M		McConvl 	City of McConnellsville 	FM 	Public Works 
-458.63750 	WPYL998 	M		McConvl 	City of McConnellsville 	FM 	Public Works 
-452.97500 	WPLZ775 	RM		AEP Alt 	American Electric Power backup 	FM 	Utilities 
-456.02500 	WNZP233 	M		AEP Alt 	American Electric Power backup 	FM 	Utilities 
-456.07500 	WNZP233 	M		AEP Alt 	American Electric Power backup 	FM 	Utilities 
-456.12500 	WNZP233 	M		AEP Alt 	American Electric Power backup 	FM 	Utilities 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
- Statewide	United Telephone of Ohio	 Motorola Type II Smartnet	 Various	
+453.05000 	458.05000  	WNVV717 	RM	432 DPL	MCnlsvlle PD 	McConnellsville Police - Dispatch 	FM 	Law Dispatch 
+155.92500 	153.96500  	WPIB492 	RM	243 DPL	MCSO 1 	Morgan Co SO (when not on MARCS) 	FM 	Law Talk 
+39.48000 	   	KB85472 	BM	82.5 PL	MCSO LB Ops 	Morgan Co Sheriff 	FM 	Law Tac 
+39.70000 	   	KB85472 	M		MCSO LB TAC 	Morgan Co Sheriff 	FM 	Law Tac 
+465.03750 	   	KQD750 	M		MCSO MRE 	Morgan Co Sheriff - handhelds / mobile extenders 	FM 	Law Tac 
+465.06250 	   	KQD750 	M		MCSO MRE 	Morgan Co Sheriff - handhelds / mobile extenders 	FM 	Law Tac 
+33.68000 	   	KBH343 	BM		MC Fire Disp 	Morgan County Fire Dispatch (including Stockport, Reinersville, Malta-McConnelsville, Chesterhill and Center Twp) 	FM 	Fire Dispatch 
+33.86000 	   	KBH343 	BM		MC Fire TAC 	Morgan County Fire (including Malta-McConnellsville, Chesterhill, etc.) 	FM 	Fire-Tac 
+154.37000 	150.80500  	WPUD591 	RM	343 DPL	MMFD Disp 	Malta-McConnellsville Fire Dispatch 	FM 	Fire Dispatch 
+155.22000 	   	KNGU730 	BM	103.5 PL	MMFD Rescue 	Malta-McConnellsville Rescue 	FM 	EMS Dispatch 
+453.68750 	   	WPUE377 	BM		MC EMA 	Morgan County EMA 	FM 	Emergency Ops 
+151.04000 	159.04500  	KRE245 	RM	82.5 PL	MorgCo Eng 	Morgan Co Engineer 	FM 	Public Works 
+154.12250 	   	WPTN954 	BM		MeigsTwp PW 	Meigsville Township 	FM 	Public Works 
+155.92500 	153.96500  	WPIB492 	RM		Morgan LG 	Morgan, County of 	FM 	Public Works 
+453.05000 	458.05000  	WNVV717 	RM		McConvl Pw 	McConnellsville services 	FM 	Public Works 
+453.18750 	   	WPYL998 	F		McConvl Link 	City of McConnellsville link 	FM 	Public Works 
+453.28750 	458.28750  	WPYL998 	RM		McConvl 	City of McConnellsville 	FM 	Public Works 
+458.18750 	   	WPYL998 	M		McConvl 	City of McConnellsville 	FM 	Public Works 
+458.28750 	   	WPYL998 	F		McConvl Link 	City of McConnellsville link 	FM 	Public Works 
+458.58750 	   	WPYL998 	M		McConvl 	City of McConnellsville 	FM 	Public Works 
+458.63750 	   	WPYL998 	M		McConvl 	City of McConnellsville 	FM 	Public Works 
+452.97500 	457.97500  	WPLZ775 	RM		AEP Alt 	American Electric Power backup 	FM 	Utilities 
+456.02500 	   	WNZP233 	M		AEP Alt 	American Electric Power backup 	FM 	Utilities 
+456.07500 	   	WNZP233 	M		AEP Alt 	American Electric Power backup 	FM 	Utilities 
+456.12500 	   	WNZP233 	M		AEP Alt 	American Electric Power backup 	FM 	Utilities 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide
+United Telephone of Ohio	 Motorola Type II Smartnet	 Various	

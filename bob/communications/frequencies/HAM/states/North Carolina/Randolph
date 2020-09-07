@@ -1,28 +1,27 @@
-154.41500 	KNJF413 	BM	151.4 PL	RANDCOFD 	Randolph Fire Dispatch - Simulcast on VIPER 	FM 	Fire Dispatch 
-154.29500 	WPKU905 	RM	233.6 PL	RANDCOFD1 	Randleman Fire Channel 1 	FM 	Fire-Tac 
-159.10500 	WPKV931 	RM	123.0 PL	ASHEBOROFG 	Asheboro Fireground/Admin 	FM 	Fire-Tac 
-155.89500 	WPPW449 		151.4 PL	RC-FIRE-TALK 	Randolph Fire Talk (Ch. 3) - Simulcast on VIPER 	FM 	Fire-Talk 
-153.89000 	KIY367 	M	203.5 PL	Co Fire 4 	County Fireground 4 	FM 	Fire-Tac 
-154.13000 	KNJF413 	M	151.4 PL	Co Fire 5 	County Fireground 5 	FM 	Fire-Tac 
-154.17500 	KNJG413 	M	151.4 PL	Co Fire 6 	County Fireground 6 	FM 	Fire-Tac 
-153.83000 	KNJF413 	M	151.4 PL	Co Fire 7 	County Fireground 7 	FM 	Fire-Tac 
-155.05500 	 		151.4 PL	Co Fire 8 	County Fireground 8 	FM 	Fire-Tac 
-154.28000 	 			Co Fire 9 	County Fireground 9 	FM 	Fire-Tac 
-462.95000 	KA44373 	RM	155 DPL	EMSDISP 	EMS Dispatch 	FM 	EMS Dispatch 
-463.10000 	 		265 DPL	MED5 	MED 5 EMS 	FM 	EMS-Tac 
-453.47500 	KMA780 	RM	192.8 PL	Randolph CO 	Sheriff Channel 1 	FM 	Law Tac 
-453.47500 	 	RM	186.2 PL	Randoplh CO2 	Sheriff Channel 2 	FM 	Law Tac 
-453.47500 	 	BM	192.8 PL	Randoplh CO3 	Sheriff Channel 3 Talk Around 	FM 	Law Talk 
-453.30000 	WNPG729 	RM	192.8 PL	Randolph CO4 	Sheriff Channel 4 	FM 	Law Tac 
-453.70000 	KMA780 	BM	192.8 PL	Mutual Aid 	Sheriff Mutual Aid 	FM 	Law Talk 
-453.37500 	 	BM	192.8 PL	RCO TAC 10 	Sheriff Tactical 10 	FM 	Law Tac 
-453.82500 	 	BM	192.8 PL	RCO Tac 11 	Sheriff Tactical 11 	FM 	Law Tac 
-453.52500 	KMA780 	BM	192.8 PL	Asheboro PD1 	Asheboro Police 	FM 	Law Dispatch 
-453.42500 	KMA780 	BM		Asheboro PD2 	Asheboro Police CH.2 	FM 	Law Tac 
-453.90000 	WQBT479 	RM	192.8 PL	Archdale PD 	Archdale Police CH.1 	FM 	Law Dispatch 
-453.62500 	WPJW789 	RM	192.8 PL	Randleman PD 	Randleman Police 	FM 	Law Dispatch 
-453.92500 	WPGS284 	RM	192.8 PL	Liberty PD 	Liberty Police 	FM 	Law Dispatch 
-158.77500 	KVN639 	RM	141.3 PL	N.C. ZooPark 	N.C. Zoo Park 	FM 	Public Works 
-Duke Energy	 OpenSky 4800 baud	 Various	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	FleetTalk Carolinas	 NXDN NEXEDGE 4800
- Various	Greensboro / Guilford County	 Project 25 Phase I	 Greensboro	North Carolina VIPER	 Project 25 Phase I	 Varies	Progress Energy
- Motorola Type II SmartZone Omnilink	 Various	
+154.41500 	   	KNJF413 	BM	151.4 PL	RANDCOFD 	Randolph Fire Dispatch - Simulcast on VIPER 	FM 	Fire Dispatch 
+154.29500 	   	WPKU905 	RM	233.6 PL	RANDCOFD1 	Randleman Fire Channel 1 	FM 	Fire-Tac 
+159.10500 	   	WPKV931 	RM	123.0 PL	ASHEBOROFG 	Asheboro Fireground/Admin 	FM 	Fire-Tac 
+155.89500 	153.74000  	WPPW449 		151.4 PL	RC-FIRE-TALK 	Randolph Fire Talk (Ch. 3) - Simulcast on VIPER 	FM 	Fire-Talk 
+153.89000 	   	KIY367 	M	203.5 PL	Co Fire 4 	County Fireground 4 	FM 	Fire-Tac 
+154.13000 	   	KNJF413 	M	151.4 PL	Co Fire 5 	County Fireground 5 	FM 	Fire-Tac 
+154.17500 	   	KNJG413 	M	151.4 PL	Co Fire 6 	County Fireground 6 	FM 	Fire-Tac 
+153.83000 	   	KNJF413 	M	151.4 PL	Co Fire 7 	County Fireground 7 	FM 	Fire-Tac 
+155.05500 	   	 		151.4 PL	Co Fire 8 	County Fireground 8 	FM 	Fire-Tac 
+154.28000 	   	 			Co Fire 9 	County Fireground 9 	FM 	Fire-Tac 
+462.95000 	467.95000  	KA44373 	RM	155 DPL	EMSDISP 	EMS Dispatch 	FM 	EMS Dispatch 
+463.10000 	   	 		265 DPL	MED5 	MED 5 EMS 	FM 	EMS-Tac 
+453.47500 	458.47500  	KMA780 	RM	192.8 PL	Randolph CO 	Sheriff Channel 1 	FM 	Law Tac 
+453.47500 	458.47500  	 	RM	186.2 PL	Randoplh CO2 	Sheriff Channel 2 	FM 	Law Tac 
+453.47500 	   	 	BM	192.8 PL	Randoplh CO3 	Sheriff Channel 3 Talk Around 	FM 	Law Talk 
+453.30000 	458.30000  	WNPG729 	RM	192.8 PL	Randolph CO4 	Sheriff Channel 4 	FM 	Law Tac 
+453.70000 	458.70000  	KMA780 	BM	192.8 PL	Mutual Aid 	Sheriff Mutual Aid 	FM 	Law Talk 
+453.37500 	   	 	BM	192.8 PL	RCO TAC 10 	Sheriff Tactical 10 	FM 	Law Tac 
+453.82500 	   	 	BM	192.8 PL	RCO Tac 11 	Sheriff Tactical 11 	FM 	Law Tac 
+453.52500 	458.52500  	KMA780 	BM	192.8 PL	Asheboro PD1 	Asheboro Police 	FM 	Law Dispatch 
+453.42500 	   	KMA780 	BM		Asheboro PD2 	Asheboro Police CH.2 	FM 	Law Tac 
+453.90000 	458.90000  	WQBT479 	RM	192.8 PL	Archdale PD 	Archdale Police CH.1 	FM 	Law Dispatch 
+453.62500 	458.62500  	WPJW789 	RM	192.8 PL	Randleman PD 	Randleman Police 	FM 	Law Dispatch 
+453.92500 	458.92500  	WPGS284 	RM	192.8 PL	Liberty PD 	Liberty Police 	FM 	Law Dispatch 
+158.77500 	   	KVN639 	RM	141.3 PL	N.C. ZooPark 	N.C. Zoo Park 	FM 	Public Works 
+Duke Energy	 OpenSky 4800 baud	 Various	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various
+Greensboro / Guilford County	 Project 25 Phase I	 Greensboro	Progress Energy	 Motorola Type II SmartZone Omnilink	 Various	

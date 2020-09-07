@@ -1,28 +1,29 @@
-151.25000 	WQNY534 	RM	114 DPL	Taylor Jail 	Detentioin Center 	FMN 	Corrections 
-153.07500 	WQNY534 	BM	CSQ	Taylor Jail 	Detention Center 	FMN 	Corrections 
-154.25000 	WQHR893 	RM	74.4 PL	CTCFD Dsp 	Campbellsville-Taylor Co Fire Dispatch 	FMN 	Fire Dispatch 
-155.78250 	WQJH637 	RM	025 DPL	CTCFFireOps 	Campbellsville-Taylor Co Fire Operations 	FMN 	Fire-Talk 
-155.29500 	WQAQ393 	M	123.0 PL	TYLR RSQ F-1 	Rescue Squad 	FMN 	Emergency Ops 
-155.29500 	WQHR893 	RM	123.0 PL	CTC Rsq 	Campbellsville-Taylor Co Rescue Squad 	FMN 	Emergency Ops 
-461.97500 	WPGJ834 	RM	131.8 PL	TYLCMPTAC-7 	Campbellsville-Taylor Co Rescue Squad 	FMN 	Emergency Ops 
-153.86750 	WQJD818 	M	173.8 PL	CTCFD VRS 	Campbellsville-Taylor Co Fire Dept. Vehicle Repeater System 	FMN 	Fire-Tac 
-155.34000 	 	BM	123.0 PL	EMS2TYLR HSP 	EMS to Taylor Regional Hospital 	FMN 	EMS-Talk 
-463.10000 	 		156.7 PL	EMS2TYLR HSP 	EMS/Rescue to Taylor County Hospital 	FMN 	Hospital 
-155.34000 	KNGD550 	BM	146.2 PL	EMS2SPNG HSP 	EMS/Rescue to Springview Hospital 	FMN 	Hospital 
-155.49000 	KNHE691 	BM	429 NAC	CMPBL PD D 	Police P25 	P25 	Law Dispatch 
-155.49000 	KNHE691 	RM	131.8 PL	CMPBL PD F-2 	Police 	FMN 	Law Talk 
-155.61000 	KNHE691 	BM	131.8 PL	CMPBL PD F-1 	Police - Dispatch 	FMN 	Law Dispatch 
-154.25000 	WNQJ433 	RM	131.8 PL	CMPBL FD F-1 	 Fire - Dispatch 	FMN 	Fire Dispatch 
-155.78250 	WQJH637 	RM	247 NAC	CMPBL FD Opn 	Fire - Operations 	P25 	Fire-Talk 
-154.07000 	WNQJ433 	BM	100.0 PL	CMPBL FD F-5 	Fire - Operations 	FMN 	Fire-Talk 
-153.78500 	 	M		CMPBL FDF-6 	Fire - Operations 	FMN 	Fire-Talk 
-155.08500 	WNVH246 	BM	131.8 PL	CMPBL STF-10 	Street Department 	FMN 	Public Works 
-453.00000 	WPMS829 	RM	503 DPL	TAYLOR SKLS1 	Operations 	FMN 	Schools 
-464.20000 	WPMS829 	RM	503 DPL	TAYLOR SKLS2 	Operations 	FMN 	Schools 
-462.80000 	WNLF457 	B	CSQ	TAYLOR HSP 	Taylor Regional Hospital Paging 	FMN 	Hospital 
-48.66000 	KIE801 	BM	136.5 PL	TGP 	Tennessee Gas Pipeline 	FM 	Business 
-464.41250 	WPTH685 	RM	156.7 PL	AMAZON 	Amazon.com 	FMN 	Business 
-464.80000 	WPTH685 	BM	88.5 PL	AMAZON 	Amazon.com 	FMN 	Business 
-462.30000 	WPAG922 	RM	179.9 PL	Cox IntCH-1 	Cox Interior CH-1 	FMN 	Business 
-463.52500 	WPAG922 	RM	100.0 PL	Cox IntCH-3 	Cox Interior CH-3 	FMN 	Business 
-155.26500 	WQAR338 	BM	192.8 PL	Crossroads  	Crossroads Animal Clinic 	FMN 	Business 
+151.25000 	158.80500  	WQNY534 	RM	114 DPL	Taylor Jail 	Detentioin Center 	FMN 	Corrections 
+153.07500 	   	WQNY534 	BM	CSQ	Taylor Jail 	Detention Center 	FMN 	Corrections 
+154.25000 	151.22000  	WQHR893 	RM	74.4 PL	CTCFD Dsp 	Campbellsville-Taylor Co Fire Dispatch 	FMN 	Fire Dispatch 
+155.78250 	151.19750  	WRFL672 	RM	025 DPL	CTCFFireOps 	Campbellsville-Taylor Co Fire Operations 	FMN 	Fire-Talk 
+155.29500 	   	WQHR893  	M	123.0 PL	TYLR RSQ F-1 	Rescue Squad 	FMN 	Emergency Ops 
+155.29500 	154.01000  	WQHR893 	RM	123.0 PL	CTC Rsq 	Campbellsville-Taylor Co Rescue Squad 	FMN 	Emergency Ops 
+461.97500 	466.97500  	WPGJ834 	RM	131.8 PL	TYLCMPTAC-7 	Campbellsville-Taylor Co Rescue Squad 	FMN 	Emergency Ops 
+153.86750 	   	WQHR893   	M	173.8 PL	CTCFD VRS 	Campbellsville-Taylor Co Fire Dept. Vehicle Repeater System 	FMN 	Fire-Tac 
+155.34000 	   	KNGD550  	BM	123.0 PL	EMS2TYLR HSP 	EMS to Taylor Regional Hospital 	FMN 	EMS-Talk 
+463.10000 	468.10000  	 		156.7 PL	EMS2TYLR HSP 	EMS/Rescue to Taylor County Hospital 	FMN 	Hospital 
+155.34000 	   	KNGD550 	BM	146.2 PL	EMS2SPNG HSP 	EMS/Rescue to Springview Hospital 	FMN 	Hospital 
+155.49000 	154.89000  	WQHR893  	BM	429 NAC	CMPBL PD D 	Police P25 	P25 	Law Dispatch 
+155.49000 	154.89000  	WQHR893  	RM	131.8 PL	CMPBL PD F-2 	Police 	FMN 	Law Talk 
+155.61000 	   	WQHR893  	BM	131.8 PL	CMPBL PD F-1 	Police - Dispatch 	FMN 	Law Dispatch 
+154.25000 	154.01000  	WNQJ433 	RM	131.8 PL	CMPBL FD F-1 	 Fire - Dispatch 	FMN 	Fire Dispatch 
+155.78250 	151.19750  	WRFL672 	RM	247 NAC	CMPBL FD Opn 	Fire - Operations 	P25 	Fire-Talk 
+154.07000 	   	WQHR893 	BM	100.0 PL	CMPBL FD F-5 	Fire - Operations 	FMN 	Fire-Talk 
+153.78500 	   	 	M		CMPBL FDF-6 	Fire - Operations 	FMN 	Fire-Talk 
+155.08500 	   	WQHR893 	BM	131.8 PL	CMPBL STF-10 	Street Department 	FMN 	Public Works 
+453.00000 	458.00000  	WPMS829 	RM	503 DPL	TAYLOR SKLS1 	Operations 	FMN 	Schools 
+464.20000 	469.20000  	WPMS829 	RM	503 DPL	TAYLOR SKLS2 	Operations 	FMN 	Schools 
+462.80000 	   	WNLF457 	B	CSQ	TAYLOR HSP 	Taylor Regional Hospital Paging 	FMN 	Hospital 
+48.66000 	   	KIE801 	BM	136.5 PL	TGP 	Tennessee Gas Pipeline 	FM 	Business 
+464.41250 	469.41250  	WPTH685 	RM	156.7 PL	AMAZON 	Amazon.com 	FMN 	Business 
+464.80000 	469.80000  	WPTH685 	BM	88.5 PL	AMAZON 	Amazon.com 	FMN 	Business 
+461.15000 	466.15000  	 	RM		Cox Interior 	Cox Interio 	FMN 	Business 
+462.30000 	467.30000  	WQIV380  	RM	179.9 PL	Cox IntCH-1 	Cox Interior CH-1 	FMN 	Business 
+463.52500 	468.52500  	WQQC801 	RM	100.0 PL	Cox IntCH-3 	Cox Interior CH-3 	FMN 	Business 
+155.26500 	   	WQAR338 	BM	192.8 PL	Crossroads  	Crossroads Animal Clinic 	FMN 	Business 

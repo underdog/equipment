@@ -1,24 +1,24 @@
-158.73000 	KXV315 	RM	141.3 PL	FCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.62500 	KXV315 	BM	141.3 PL	FCSO TAC 1 	Sheriff TAC 1 	FMN 	Law Tac 
-157.12500 	KXV315 	BM		FCSO TAC 2 	Sheriff TAC 2 	FMN 	Law Tac 
-46.10000 	WZJ515 	BM		FCVFD Lo 	VFD 	FM 	Fire-Talk 
-154.44500 	WZJ515 	RM	127.3 PL	FCVFD Disp 	VFD Dispatch 	FMN 	Fire Dispatch 
-154.32500 	WZJ515 	BM	127.3 PL	FCVFD FGND 	VFD Fireground 	FMN 	Fire-Tac 
-156.11250 	WZJ515 	RM		FCVFD Rptr 	VFD Repeater 	FMN 	Fire-Tac 
-453.10000 	WQTQ498 	BM		FCPS  	Public Safety 	FMN 	Emergency Ops 
-458.10000 	WQTQ498 	BM		FCPS 	Public Safety 	FMN 	Emergency Ops 
-159.04500 	WNGZ680 	RM	141.3 PL	FC Pub Works 	Public Works 	FMN 	Public Works 
-155.88000 	WNMC603 	RM	127.3 PL	FC Loc Gov 	Transportation Net Dispatch 	FMN 	Public Works 
-155.11500 	WPLU300 	BM		FC Loc Gov 	Local Government 	FMN 	Public Works 
-151.49000 	WQEE506 	BM		FCBOE FCMS 	Board of Education - Fannin County Middle School 	FMN 	Schools 
-151.56500 	WQEE506 	BM		FCBOE FCMS 	Board of Education - Fannin County Middle School 	FMN 	Schools 
-151.59500 	WQEE506 	BM		FCBOE FCMS 	Board of Education - Fannin County Middle School 	FMN 	Schools 
-151.65500 	WQEE506 	BM		FCBOE FCMS 	Board of Education - Fannin County Middle School 	FMN 	Schools 
-156.17250 	WQJC714 	RM		FCBOE Buses 	Board of Education - Transportation (encrypted) 	FMNE 	Schools 
-467.21250 	WQUW483 	BM		FCBOE School 	Board of Educations - All Schools 	FMN 	Schools 
-156.12750 	WPZH277 	RM	50 RAN	BRPD Disptch 	Police Dispatch 	NXDN 	Law Dispatch 
-155.62500 	WQCS502 	BM		BRPD MRD 	Police MRD 	FMN 	Interop 
-158.77500 	KNHK590 	RM	115 DPL	BR Pub Works 	Public Works 	FMN 	Public Works 
-154.25750 	WRBK668 	RM	CC 12TG *SL *	MPD Dispatch 	Police Dispatch 	DMR 	Law Dispatch 
-463.31250 	WQMJ585 	BM		Public Works 	Public Works 	FMN 	Public Works 
+158.73000 	154.65000  	KXV315 	RM	141.3 PL	FCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.62500 	   	KXV315 	BM	141.3 PL	FCSO TAC 1 	Sheriff TAC 1 	FMN 	Law Tac 
+157.12500 	   	KXV315 	BM		FCSO TAC 2 	Sheriff TAC 2 	FMN 	Law Tac 
+46.10000 	   	WZJ515 	BM		FCVFD Lo 	VFD 	FM 	Fire-Talk 
+154.44500 	154.07000  	WZJ515 	RM	127.3 PL	FCVFD Disp 	VFD Dispatch 	FMN 	Fire Dispatch 
+154.32500 	   	WZJ515 	BM	127.3 PL	FCVFD FGND 	VFD Fireground 	FMN 	Fire-Tac 
+156.11250 	151.19000  	WZJ515 	RM		FCVFD Rptr 	VFD Repeater 	FMN 	Fire-Tac 
+453.10000 	   	WQTQ498 	BM		FCPS  	Public Safety 	FMN 	Emergency Ops 
+458.10000 	   	WQTQ498 	BM		FCPS 	Public Safety 	FMN 	Emergency Ops 
+159.04500 	156.04500  	WNGZ680 	RM	141.3 PL	FC Pub Works 	Public Works 	FMN 	Public Works 
+155.88000 	151.31750  	WNMC603 	RM	127.3 PL	FC Loc Gov 	Transportation Net Dispatch 	FMN 	Public Works 
+155.11500 	   	WPLU300 	BM		FC Loc Gov 	Local Government 	FMN 	Public Works 
+151.49000 	   	WQEE506 	BM		FCBOE FCMS 	Board of Education - Fannin County Middle School 	FMN 	Schools 
+151.56500 	   	WQEE506 	BM		FCBOE FCMS 	Board of Education - Fannin County Middle School 	FMN 	Schools 
+151.59500 	   	WQEE506 	BM		FCBOE FCMS 	Board of Education - Fannin County Middle School 	FMN 	Schools 
+151.65500 	   	WQEE506 	BM		FCBOE FCMS 	Board of Education - Fannin County Middle School 	FMN 	Schools 
+156.17250 	153.99500  	WQJC714 	RM		FCBOE Buses 	Board of Education - Transportation (encrypted) 	FMNE 	Schools 
+467.21250 	   	WQUW483 	BM		FCBOE School 	Board of Educations - All Schools 	FMN 	Schools 
+156.12750 	154.04750  	WPZH277 	RM	50 RAN	BRPD Disptch 	Police Dispatch 	NXDN 	Law Dispatch 
+155.62500 	   	WQCS502 	BM		BRPD MRD 	Police MRD 	FMN 	Interop 
+158.77500 	153.87500  	KNHK590 	RM	115 DPL	BR Pub Works 	Public Works 	FMN 	Public Works 
+154.25750 	159.20250  	WRBK668 	RM	CC 12TG *SL *	MPD Dispatch 	Police Dispatch 	DMR 	Law Dispatch 
+463.31250 	   	WQMJ585 	BM		Public Works 	Public Works 	FMN 	Public Works 
 Fort Benning	 Project 25 Phase I	 Columbus	

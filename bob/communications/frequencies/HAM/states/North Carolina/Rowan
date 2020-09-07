@@ -1,18 +1,17 @@
-453.05000 	KUL818 	RM	146.2 PL	Sheriff Explorer 	Sheriff Explorers 	FMN 	Law Talk 
-154.25000 	KIJ497 	BM	146.2 PL	Fire Dispatch 	Fire Dispatch (Patched to TRS) 	FMN 	Fire Dispatch 
-154.07000 	KIP456 	BM	146.2 PL	Fireground 1 	Fireground 1 	FMN 	Fire-Tac 
-153.77000 	KIJ497 	BM	146.2 PL	Fireground 2 	Fireground 2 	FMN 	Fire-Tac 
-153.92000 	KXZ673 	BM	146.2 PL	Fireground 3 	Fireground 3 	FMN 	Fire-Tac 
-154.08500 	WRL689 	BM	146.2 PL	Fireground 4 	Fireground 4 	FMN 	Fire-Tac 
-154.28000 	WPQG573 	BM	146.2 PL	State Fire 	State Fire (Patched to TRS) 	FMN 	Fire-Tac 
-155.71500 	KWQ469 	RM	146.2 PL	EMS Dispatch 	EMS/Rescue Dispatch (Patched to TRS) 	FMN 	EMS Dispatch 
-155.10000 	KWQ469 	BM	146.2 PL	Rescue Tac 2 	Rescue Tactical 2 	FMN 	EMS-Tac 
-154.55500 	 	BM	146.2 PL	Rescue Tac 3 	Rescue Tactical 3 	FMN 	EMS-Tac 
-155.28000 	KFE550 	BM	146.2 PL	State EMS 	State EMS/Rescue 	FMN 	EMS-Tac 
-155.34000 	KFE550 	BM	146.2 PL	State Hosp 	EMS to Hospital 	FMN 	EMS-Tac 
-152.46500 	WQZF749 	RM	44 RAN	Landis Pub works 	Landis Public Works 	NXDN 	Public Works 
-770.96250 	 	RM	780 NAC	County DVRS 	Digital Vehicle Repeaters 	P25 	Multi-Tac 
-Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Duke Energy	 OpenSky 4800 baud	 Various	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)
- Statesville	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	North Carolina VIPER	 Project 25 Phase I	 Varies	PSNC Energy
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	Rowan County	 Project 25 Phase I	 Salisbury	Salisbury VA Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Salisbury
-Union Power Co-op	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Monroe	
+453.05000 	458.05000  	KUL818 	RM	146.2 PL	Sheriff Explorer 	Sheriff Explorers 	FMN 	Law Talk 
+154.25000 	   	KIJ497 	BM	146.2 PL	Fire Dispatch 	Fire Dispatch (Patched to TRS) 	FMN 	Fire Dispatch 
+154.07000 	   	KIP456 	BM	146.2 PL	Fireground 1 	Fireground 1 	FMN 	Fire-Tac 
+153.77000 	   	KIJ497 	BM	146.2 PL	Fireground 2 	Fireground 2 	FMN 	Fire-Tac 
+153.92000 	   	KXZ673 	BM	146.2 PL	Fireground 3 	Fireground 3 	FMN 	Fire-Tac 
+154.08500 	   	WRL689 	BM	146.2 PL	Fireground 4 	Fireground 4 	FMN 	Fire-Tac 
+154.28000 	   	WPQG573 	BM	146.2 PL	State Fire 	State Fire (Patched to TRS) 	FMN 	Fire-Tac 
+155.71500 	158.86500  	KWQ469 	RM	146.2 PL	EMS Dispatch 	EMS/Rescue Dispatch (Patched to TRS) 	FMN 	EMS Dispatch 
+155.10000 	   	KWQ469 	BM	146.2 PL	Rescue Tac 2 	Rescue Tactical 2 	FMN 	EMS-Tac 
+154.55500 	   	 	BM	146.2 PL	Rescue Tac 3 	Rescue Tactical 3 	FMN 	EMS-Tac 
+155.28000 	   	KFE550 	BM	146.2 PL	State EMS 	State EMS/Rescue 	FMN 	EMS-Tac 
+155.34000 	   	KFE550 	BM	146.2 PL	State Hosp 	EMS to Hospital 	FMN 	EMS-Tac 
+152.46500 	157.72500  	WQZF749 	RM	44 RAN	Landis Pub works 	Landis Public Works 	NXDN 	Public Works 
+770.96250 	800.96250  	 	RM	780 NAC	County DVRS 	Digital Vehicle Repeaters 	P25 	Multi-Tac 
+Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Duke Energy	 OpenSky 4800 baud	 Various	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville
+FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	Rowan County	 Project 25 Phase I	 Salisbury
+Salisbury VA Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Salisbury	Union Power Co-op	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Monroe	

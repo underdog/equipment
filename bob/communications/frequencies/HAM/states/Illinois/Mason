@@ -1,50 +1,49 @@
-155.58000 	KBG225 	RM	55 RAN	MasonCo Sheriff 	Sheriff: Dispatch (Teheran)  	NXDNe 	Law Dispatch 
-155.58000 	KBG225 	RM	162.2 PL	Mason SheriffOld 	(OLD*) Sheriff: Dispatch (Teheran) [Ch 1]  	FMN 	Law Dispatch 
-158.89500 	KBG225 	F	127.3 PL	Mason Shrf InC  	Sheriff: Remote Input Tone (at ?) 	FMN 	Law Dispatch 
-158.89500 	KBG225 	F	114.8 PL	Mason Shrf InB  	Sheriff: Remote Input Tone (at ?) 	FMN 	Law Dispatch 
-158.89500 	KBG225 	F	110.9 PL	Mason Shrf InA  	Sheriff: Remote Input Tone 	FMN 	Law Dispatch 
-173.27500 	 	M	CSQ	Mason Shrf MXA 	Sheriff: Mobile Extenders (155.88 DMR 9/17) 	FMN 	Law Dispatch 
-467.91250 	 	M	CSQ	Mason Shrf MXC 	Sheriff: Mobile Extenders (155.88 DMR 9/17) 	FMN 	Law Dispatch 
-173.37500 	 	M	516 DPL	Mason Shrf MXB1  	Sheriff: Mobile Extenders (Havana) [No License] 	FMN 	Law Dispatch 
-173.37500 	 	M	74.4 PL	Mason Shrf MXB2 	Sheriff: Mobile Extenders  	FMN 	Law Dispatch 
-467.91250 	 	M	114.8 PL	Mason Shrf MXD 	Sheriff: Mobile Extenders  	FMN 	Law Dispatch 
-467.88750 	 	M	306 DPL	Mason Shrf MXE 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
-462.70000 	GMRS 	F	225.7 PL	Mason Shrf MXF 	Sheriff: Mobile Extenders  	FMN 	Law Dispatch 
-151.30250 	KBG235 	RM		Mason Shrf Law 	Sheriff / Law (San Jose) 	NXDN 	Law Dispatch 
-155.97000 	KBG225 	M	155 DPL	Mason Shrf Jail  	Sheriff: Jail 	FMN 	Corrections 
-155.74500 	WPGW802 	B	162.2 PL	Mason Co ESDA  	ESDA/Dive Team Paging 	FMN 	Emergency Ops 
-154.34000 	WQOI776 	RM	77.0 PL	Mason Fire/EMS  	Fire/EMS: Dispatch - Countywide (Teheran) 	FMN 	Fire Dispatch 
-159.13500 	WQOI776 	F	241.8 PL	Mason Fire RF A 	Fire/EMS: Sheriff/911 (Havana) to Remote Tower 	FMN 	Fire Dispatch 
-461.41250 	WQYX915 	F	074 DPL	Mason Fire RF C 	Fire/EMS: RF Link to 154.34 (Forman Ambulance) 	FMN 	Fire Dispatch 
-461.41250 	WQYX915 	F	77.0 PL	Mason Fire RF B 	Fire/EMS: RF Link to 154.34 	FMN 	Fire Dispatch 
-151.02500 	 	M	123.0 PL	Mason Fire MX 	Fire: Mobile Extenders to 154.34 (other tones?) 	FMN 	Fire Dispatch 
-151.30250 	WQYM949  	RM	162.2 PL	Masn Highway 	Road Maintenance (Teheran) 	FMN 	Public Works 
-156.10500 	KCY591 	RM	162.2 PL	Masn Highway B 	Road Maintenance (on air 2/18) 	FMN 	Public Works 
-155.22000 	KNAB277 	B	192.8 PL	Mason EMS PG 	EMS: Paging 	FMN 	EMS Dispatch 
-155.35500 	KNAB277 	BM	192.8 PL	Mason EMS 	EMS: Paging / Dispatch 	FMN 	EMS Dispatch 
-152.00750 	KNAB277 	B		MDH Paging 	Paging 	Telm 	Data 
-155.34000 	KNAB277 	B	192.8 PL	MERCI1 192.8 	Patient Reports / Medical Control 	FMN 	Hospital 
-155.76000 	WQNV499 	RM	162.2 PL	Havana Twp Roads 	Havana Township Roads (Havana) 	FMN 	Public Works 
-159.01500 	WQFT353 	M		Quiver Twp Roads 	Quiver Township: Road Maintenance (Topeka) 	FMN 	Public Works 
-453.17500 	WQFW856 	RM	131.8 PL	ManitoTwp Roads 	Manito Township Road District 	FMN 	Public Works 
-155.94000 	WQDU461 	BM		FC EMA Siren 	ESDA: Warning Sirens 	FMN 	Emergency Ops 
-453.45000 	KUV920 	RM	167.9 PL	HavanaPolice 	Police: Dispatch 	FMN 	Law Dispatch 
-453.72500 	KUV920 	M		HavanaPD C2C 	Police Car-to-Car  	FMN 	Law Talk 
-154.04000 	WPYS792 	BM		Hav Rur Fire 	Fire: Rural 	FMN 	Fire-Tac 
-453.42500 	WPZQ251 	M		Havana Park1 	Havana Park District: Unit-to-Unit 	FMN 	Public Works 
-458.42500 	WPZQ251 	M		Havana Park2 	Havana Park District: Unit-to-Unit 	FMN 	Public Works 
-151.22750 	KDK714 	RM	5 RAN|TG 1	FormanAmbulance 	EMS: Dispatch / Ops 	NXDN 	EMS Dispatch 
-173.22500 	WQIP403 	M		Forman Amb MX 	EMS: Mobile Extenders 	NXDN 	EMS Dispatch 
-151.31750 	KDK714 	RM	3 RAN	Forman Fire/Amb  	Fire/EMS: Operations 	NXDN 	EMS-Tac 
-469.55000 	 	M	074 DPL	Mason Fire MXB 	(Link from Havana to) 151.2275? EMS 	FMN 	EMS Dispatch 
-157.51500 	 	M		MnCy Police6 	Police: Channel 6 [Ch ] (poss. 151.4, 192.8) 	FMN 	Law Tac 
-155.83500 	WPEZ937 	BM	74.4 PL	MnCy Local 	Local Government 	FMN 	Public Works 
-154.85250 	WQYC631 	RM	CC 3TG 62644SL 1	Havana Schools 	Buses / Operations 	DMR 	Schools 
-160.02000 	WQDF257 	BM		DurSchBusHav 	Durham School Services: Bus Ops 	FMN 	Schools 
-152.92250 	WQFU352 	RM	565 DPL	IllCntrl Sch 	Buses / Operations 	FMN 	Schools 
-155.29500 	WNRF445 	BM	167.9 PL	FS Bus Manito 	First Student Buses 	FMN 	Schools 
-462.56250 	 	M	023 DPL	Midwest Prim Sch 	Primary School - Admin / Ops 	FMN 	Schools 
-451.08750 	WQZP515 	RM	CC 5TG 230SL 1	Midwest Schools 	Operations (RIDs 6xx) 	DMR 	Schools 
-122.90000 	 	BM	CSQ	9I0 CTAF 	CTAF 	AM 	Aircraft 
-122.80000 	 	BM	CSQ	C45 CTAF 	CTAF/UNICOM [NL] 	AM 	Aircraft 
-Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois	
+155.58000 	158.89500  	KBG225 	RM	55 RAN	MasonCo Sheriff 	Sheriff: Dispatch (Teheran)  	NXDNe 	Law Dispatch 
+155.58000 	158.89500  	KBG225 	RM	162.2 PL	Mason SheriffOld 	(OLD*) Sheriff: Dispatch (Teheran) [Ch 1]  	FMN 	Law Dispatch 
+158.89500 	   	KBG225 	F	127.3 PL	Mason Shrf InC  	Sheriff: Remote Input Tone (at ?) 	FMN 	Law Dispatch 
+158.89500 	   	KBG225 	F	114.8 PL	Mason Shrf InB  	Sheriff: Remote Input Tone (at ?) 	FMN 	Law Dispatch 
+158.89500 	   	KBG225 	F	110.9 PL	Mason Shrf InA  	Sheriff: Remote Input Tone 	FMN 	Law Dispatch 
+173.27500 	   	 	M	CSQ	Mason Shrf MXA 	Sheriff: Mobile Extenders (155.88 DMR 9/17) 	FMN 	Law Dispatch 
+467.91250 	   	 	M	CSQ	Mason Shrf MXC 	Sheriff: Mobile Extenders (155.88 DMR 9/17) 	FMN 	Law Dispatch 
+173.37500 	   	 	M	516 DPL	Mason Shrf MXB1  	Sheriff: Mobile Extenders (Havana) [No License] 	FMN 	Law Dispatch 
+173.37500 	   	 	M	74.4 PL	Mason Shrf MXB2 	Sheriff: Mobile Extenders  	FMN 	Law Dispatch 
+467.91250 	   	 	M	114.8 PL	Mason Shrf MXD 	Sheriff: Mobile Extenders  	FMN 	Law Dispatch 
+467.88750 	   	 	M	306 DPL	Mason Shrf MXE 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
+462.70000 	   	GMRS 	F	225.7 PL	Mason Shrf MXF 	Sheriff: Mobile Extenders  	FMN 	Law Dispatch 
+151.30250 	154.16750  	KBG235 	RM		Mason Shrf Law 	Sheriff / Law (San Jose) 	NXDN 	Law Dispatch 
+155.97000 	   	KBG225 	M	155 DPL	Mason Shrf Jail  	Sheriff: Jail 	FMN 	Corrections 
+155.74500 	   	WPGW802 	B	162.2 PL	Mason Co ESDA  	ESDA/Dive Team Paging 	FMN 	Emergency Ops 
+154.34000 	159.13500  	WQOI776 	RM	77.0 PL	Mason Fire/EMS  	Fire/EMS: Dispatch - Countywide (Teheran) 	FMN 	Fire Dispatch 
+159.13500 	   	WQOI776 	F	241.8 PL	Mason Fire RF A 	Fire/EMS: Sheriff/911 (Havana) to Remote Tower 	FMN 	Fire Dispatch 
+461.41250 	   	WQYX915 	F	074 DPL	Mason Fire RF C 	Fire/EMS: RF Link to 154.34 (Forman Ambulance) 	FMN 	Fire Dispatch 
+461.41250 	   	WQYX915 	F	77.0 PL	Mason Fire RF B 	Fire/EMS: RF Link to 154.34 	FMN 	Fire Dispatch 
+151.02500 	   	 	M	123.0 PL	Mason Fire MX 	Fire: Mobile Extenders to 154.34 (other tones?) 	FMN 	Fire Dispatch 
+151.30250 	155.15250  	WQYM949  	RM	162.2 PL	Masn Highway 	Road Maintenance (Teheran) 	FMN 	Public Works 
+156.10500 	159.07500  	KCY591 	RM	162.2 PL	Masn Highway B 	Road Maintenance (on air 2/18) 	FMN 	Public Works 
+155.22000 	   	KNAB277 	B	192.8 PL	Mason EMS PG 	EMS: Paging 	FMN 	EMS Dispatch 
+155.35500 	   	KNAB277 	BM	192.8 PL	Mason EMS 	EMS: Paging / Dispatch 	FMN 	EMS Dispatch 
+152.00750 	   	KNAB277 	B		MDH Paging 	Paging 	Telm 	Data 
+155.34000 	   	KNAB277 	B	192.8 PL	MERCI1 192.8 	Patient Reports / Medical Control 	FMN 	Hospital 
+155.76000 	153.74000  	WQNV499 	RM	162.2 PL	Havana Twp Roads 	Havana Township Roads (Havana) 	FMN 	Public Works 
+159.01500 	   	WQFT353 	M		Quiver Twp Roads 	Quiver Township: Road Maintenance (Topeka) 	FMN 	Public Works 
+453.17500 	458.17500  	WQFW856 	RM	131.8 PL	ManitoTwp Roads 	Manito Township Road District 	FMN 	Public Works 
+155.94000 	   	WQDU461 	BM		FC EMA Siren 	ESDA: Warning Sirens 	FMN 	Emergency Ops 
+453.45000 	458.45000  	KUV920 	RM	167.9 PL	HavanaPolice 	Police: Dispatch 	FMN 	Law Dispatch 
+453.72500 	   	KUV920 	M		HavanaPD C2C 	Police Car-to-Car  	FMN 	Law Talk 
+154.04000 	   	WPYS792 	BM		Hav Rur Fire 	Fire: Rural 	FMN 	Fire-Tac 
+453.42500 	   	WPZQ251 	M		Havana Park1 	Havana Park District: Unit-to-Unit 	FMN 	Public Works 
+458.42500 	   	WPZQ251 	M		Havana Park2 	Havana Park District: Unit-to-Unit 	FMN 	Public Works 
+151.22750 	159.24000  	KDK714 	RM	5 RAN|TG 1	FormanAmbulance 	EMS: Dispatch / Ops 	NXDN 	EMS Dispatch 
+173.22500 	   	WQIP403 	M		Forman Amb MX 	EMS: Mobile Extenders 	NXDN 	EMS Dispatch 
+151.31750 	159.34500  	KDK714 	RM	3 RAN	Forman Fire/Amb  	Fire/EMS: Operations 	NXDN 	EMS-Tac 
+469.55000 	   	 	M	074 DPL	Mason Fire MXB 	(Link from Havana to) 151.2275? EMS 	FMN 	EMS Dispatch 
+157.51500 	   	 	M		MnCy Police6 	Police: Channel 6 [Ch ] (poss. 151.4, 192.8) 	FMN 	Law Tac 
+155.83500 	   	WPEZ937 	BM	74.4 PL	MnCy Local 	Local Government 	FMN 	Public Works 
+154.85250 	156.08250  	WQYC631 	RM	CC 3TG 62644SL 1	Havana Schools 	Buses / Operations 	DMR 	Schools 
+160.02000 	   	WQDF257 	BM		DurSchBusHav 	Durham School Services: Bus Ops 	FMN 	Schools 
+152.92250 	158.18250  	WQFU352 	RM	565 DPL	IllCntrl Sch 	Buses / Operations 	FMN 	Schools 
+155.29500 	   	WNRF445 	BM	167.9 PL	FS Bus Manito 	First Student Buses 	FMN 	Schools 
+462.56250 	   	 	M	023 DPL	Midwest Prim Sch 	Primary School - Admin / Ops 	FMN 	Schools 
+451.08750 	456.08750  	WQZP515 	RM	CC 5TG 230SL 1	Midwest Schools 	Operations (RIDs 6xx) 	DMR 	Schools 
+122.90000 	   	 	BM	CSQ	9I0 CTAF 	CTAF 	AM 	Aircraft 
+122.80000 	   	 	BM	CSQ	C45 CTAF 	CTAF/UNICOM [NL] 	AM 	Aircraft 

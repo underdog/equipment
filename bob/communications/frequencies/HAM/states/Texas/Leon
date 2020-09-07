@@ -1,15 +1,15 @@
-155.49000 	KVX807 	RM	141.3 PL	Leon Co SO 1 	Law Enforcement Dispatch 	FM 	Law Dispatch 
-158.76750 	WQGP605 	M	141.3 PL	Leon Co SO 2 	Sheriff Tactical 	FM 	Law Tac 
-154.44500 	WNXC835 	RM	156.7 PL	Leon Fire S 	Fire/EMS South/Central Repeater (linked w/North) 	FM 	Fire Dispatch 
-155.12250 	WQGP605 	RM	156.7 PL	Leon Fire N 	Fire/EMS North Repeater (linked w/South) 	FM 	Fire Dispatch 
-154.38500 	WNMJ291 	RM	141.3 PL	Mad/Leon Fir 	Leon/Madison Fire Common (not dispatch anymore) 	FM 	Fire-Tac 
-154.04750 	WPWY769 	RM	152 DPL	Buffalo Tac 	Buffalo Public Works, PD, FD 	FM 	Multi-Tac 
-158.74500 	KNNU365 	RM	141.3 PL	Centrvill PD 	Centerville Police / Public Works 	FM 	Law Tac 
-154.40000 	WPGB872 	RM		HilltopLksFD 	Hilltop Lakes Fire/EMS Primary 	FM 	Fire Dispatch 
-155.94750 	WXM666 	BM	143 DPL	Jewett PubWk 	Jewett Public Works 	FM 	Public Works 
-153.92000 	WPNS524 	BM	346 DPL	Marquez PbWk 	Marquez Public Works 	FM 	Public Works 
-155.29500 	WPNX623 	RM	141.3 PL	NormangFDops 	Normangee Fire/EMS Repeater 	FM 	Fire-Tac 
-155.26500 	WPAS520 	BM		NormangFDtac 	Normangee Fire/EMS Secondary/Tactical 	FM 	Fire-Tac 
-461.73750 	WQIF962 	RM	546 DPL	Leon ISD Bus 	Leon ISD Transportation (Buses) 	FM 	Schools 
-Baytown Communications (Centerville)	 LTR Standard	 Centerville	La Grange Acquisition (Flynn)	 Motorola Type II Smartnet	 Flynn	Nalcom (Buffalo)	 LTR Standard
- Buffalo	Nalcom (NEXEDGE)	 NXDN NEXEDGE 9600	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various	
+155.49000 	156.15000  	KVX807 	RM	141.3 PL	Leon Co SO 1 	Law Enforcement Dispatch 	FM 	Law Dispatch 
+158.76750 	   	WQGP605 	M	141.3 PL	Leon Co SO 2 	Sheriff Tactical 	FM 	Law Tac 
+154.44500 	153.95000  	WNXC835 	RM	156.7 PL	Leon Fire S 	Fire/EMS South/Central Repeater (linked w/North) 	FM 	Fire Dispatch 
+155.12250 	154.01750  	WQGP605 	RM	156.7 PL	Leon Fire N 	Fire/EMS North Repeater (linked w/South) 	FM 	Fire Dispatch 
+154.38500 	153.89000  	WNMJ291 	RM	141.3 PL	Mad/Leon Fir 	Leon/Madison Fire Common (not dispatch anymore) 	FM 	Fire-Tac 
+154.04750 	158.90250  	WPWY769 	RM	152 DPL	Buffalo Tac 	Buffalo Public Works, PD, FD 	FM 	Multi-Tac 
+158.74500 	153.99500  	KNNU365 	RM	141.3 PL	Centrvill PD 	Centerville Police / Public Works 	FM 	Law Tac 
+154.40000 	154.07000  	WPGB872 	RM	107.2 PL	HilltopLksFD 	Hilltop Lakes Fire/EMS Primary 	FM 	Fire Dispatch 
+155.94750 	   	WXM666 	BM	143 DPL	Jewett PubWk 	Jewett Public Works 	FM 	Public Works 
+153.92000 	   	WPNS524 	BM	346 DPL	Marquez PbWk 	Marquez Public Works 	FM 	Public Works 
+155.29500 	153.77000  	WPNX623 	RM	141.3 PL	NormangFDops 	Normangee Fire/EMS Repeater 	FM 	Fire-Tac 
+155.26500 	   	WPAS520 	BM		NormangFDtac 	Normangee Fire/EMS Secondary/Tactical 	FM 	Fire-Tac 
+461.73750 	466.73750  	WQIF962 	RM	546 DPL	Leon ISD Bus 	Leon ISD Transportation (Buses) 	FM 	Schools 
+Baytown Communications (Centerville)	 LTR Standard	 Centerville	BrandMeister Texas	 DMR Conventional Networked	 Various	La Grange Acquisition (Flynn)	 Motorola Type II Smartnet	 Flynn
+Nalcom (Buffalo)	 LTR Standard	 Buffalo	Nalcom (NEXEDGE)	 NXDN NEXEDGE 9600	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various

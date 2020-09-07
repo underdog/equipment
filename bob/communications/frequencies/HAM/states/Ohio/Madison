@@ -1,28 +1,28 @@
-159.33000 	WPED252 	RM	74.4 PL	MADISON FIRE 	County Fire Dispatch 	FM 	Fire Dispatch 
-154.44500 	KBV843 	RM	192.8 PL	PLS-VLY FIRE 	Pleasant Valley Fire dispatch 	FM 	Fire Dispatch 
-154.26500 	WPED252 	M	192.8 PL	MADISON FG3A 	County Fireground 3A / Pleasant Valley Fire Ch. 3 	FM 	Fire-Tac 
-154.26500 	WPED252 	M	162.2 PL	MADISON FG4A 	County Fireground 4A 	FM 	Fire-Tac 
-154.29500 	WPED252 	M	192.8 PL	MADISON FG5B 	County Fireground 5B 	FM 	Fire-Tac 
-154.29500 	WPED252 	M	162.2 PL	MADISON FG6B 	County Fireground 6B 	FM 	Fire-Tac 
-154.28000 	WPED252 	M	CSQ	STATE FG 	State Fireground 	FM 	Fire-Tac 
-155.17500 	WPYP456 	BM	127.3 PL	MADISON EMS 	County EMS Tac 	FM 	Fire-Tac 
-33.86000 	KNFM581 	BM	CSQ	TRI-CNTY FD 	Tri County Joint Fire District 	FM 	Fire-Tac 
-153.83000 	 	M	131.8 PL	TCF PAC-RT 	Tri County Fire PAC/RT 	FM 	Fire-Tac 
-155.17500 	KKC624 	BM	192.8 PL	STERLING EMS 	Sterling Joint EMS TAC - Used for comms with MedFlight 	FM 	Fire-Tac 
-462.93750 	KKC624 	M	162.2 PL	STERLING EMS 	Sterling Joint EMS PAC/RT 	FM 	Fire-Tac 
-155.34000 	KZR694 	BM	CSQ	MCCH ER 	Madison County Community Hospital ER 	FM 	EMS-Tac 
-154.81500 	KNAT896 	RM	192.8 PL	MADISON SO 	County Sheriff Dispatch/Car to Car 	FMN 	Law Dispatch 
-154.74000 	KDB456 	RM	192.8 PL	LONDON PD 	London Police 	FM 	Law Dispatch 
-150.99500 	KNAT896 	RM	107.2 PL	MADISON ENG 	County Engineer 	FMN 	Public Works 
-154.98000 	WNFD621 	BM	141.3 PL	PL CITY SVC 	Plain City Services 	FMN 	Public Works 
-155.56500 	WPMY617 	RM		W JEFF SVC 	West Jefferson Service 	DMR 	Law Dispatch 
-155.92500 	WQAZ294 	BM	192.8 PL	LONDON SVC 	London Services 	FMN 	Public Works 
-159.16500 	WPMY617 	RM	205 DPL	WJEFF DPW 	West Jefferson Street Department 	FMN 	Public Works 
-152.30750 	WQOH750 	BM	411 DPL	JONALDER LS 	Jonathan Alder Schools 	FMN 	Schools 
-152.90000 	WPWZ623 	BM	731 DPL	MADPLAINS LS 	Madison Plains Local Schools 	FMN 	Schools 
-153.38000 	WPQI578 	RM	131 DPL	LONDON CSD 	London City Schools 	FM 	Schools 
-463.72500 	WQFN692 	RM	074 DPL	FAIRHAVEN LS 	Fairhaven School 	FM 	Schools 
-464.92500 	WNKB682 	RM	351 DPL	JEFFERSON LS 	Jefferson Local Schools 	FM 	Schools 
-153.50000 	WPCX808 	F		AEP ALT 	American Electric Power backup (link to low-band) 	FM 	Utilities 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
- Statewide	Target Stores Regional Distribution Center	 LTR Standard	 West Jefferson	
+159.33000 	151.46000  	WPED252 	RM	74.4 PL	MADISON FIRE 	County Fire Dispatch 	FM 	Fire Dispatch 
+154.44500 	153.95000  	KBV843 	RM	192.8 PL	PLS-VLY FIRE 	Pleasant Valley Fire dispatch 	FM 	Fire Dispatch 
+154.26500 	   	WPED252 	M	192.8 PL	MADISON FG3A 	County Fireground 3A / Pleasant Valley Fire Ch. 3 	FM 	Fire-Tac 
+154.26500 	   	WPED252 	M	162.2 PL	MADISON FG4A 	County Fireground 4A 	FM 	Fire-Tac 
+154.29500 	   	WPED252 	M	192.8 PL	MADISON FG5B 	County Fireground 5B 	FM 	Fire-Tac 
+154.29500 	   	WPED252 	M	162.2 PL	MADISON FG6B 	County Fireground 6B 	FM 	Fire-Tac 
+154.28000 	   	WPED252 	M	CSQ	STATE FG 	State Fireground 	FM 	Fire-Tac 
+155.17500 	   	WPYP456 	BM	127.3 PL	MADISON EMS 	County EMS Tac 	FM 	Fire-Tac 
+33.86000 	   	KNFM581 	BM	CSQ	TRI-CNTY FD 	Tri County Joint Fire District 	FM 	Fire-Tac 
+153.83000 	   	 	M	131.8 PL	TCF PAC-RT 	Tri County Fire PAC/RT 	FM 	Fire-Tac 
+155.17500 	   	KKC624 	BM	192.8 PL	STERLING EMS 	Sterling Joint EMS TAC - Used for comms with MedFlight 	FM 	Fire-Tac 
+462.93750 	   	KKC624 	M	162.2 PL	STERLING EMS 	Sterling Joint EMS PAC/RT 	FM 	Fire-Tac 
+155.34000 	   	KZR694 	BM	CSQ	MCCH ER 	Madison County Community Hospital ER 	FM 	EMS-Tac 
+154.81500 	155.91000  	KNAT896 	RM	192.8 PL	MADISON SO 	County Sheriff Dispatch/Car to Car 	FMN 	Law Dispatch 
+154.74000 	156.15000  	KDB456 	RM	192.8 PL	LONDON PD 	London Police 	FM 	Law Dispatch 
+150.99500 	156.04500  	KNAT896 	RM	107.2 PL	MADISON ENG 	County Engineer 	FMN 	Public Works 
+154.98000 	   	WNFD621 	BM	141.3 PL	PL CITY SVC 	Plain City Services 	FMN 	Public Works 
+155.56500 	158.97000  	WPMY617 	RM		W JEFF SVC 	West Jefferson Service 	DMR 	Law Dispatch 
+155.92500 	   	WQAZ294 	BM	192.8 PL	LONDON SVC 	London Services 	FMN 	Public Works 
+159.16500 	   	WPMY617 	RM	205 DPL	WJEFF DPW 	West Jefferson Street Department 	FMN 	Public Works 
+152.30750 	157.56750  	WQOH750 	BM	411 DPL	JONALDER LS 	Jonathan Alder Schools 	FMN 	Schools 
+152.90000 	159.49500  	WPWZ623 	BM	731 DPL	MADPLAINS LS 	Madison Plains Local Schools 	FMN 	Schools 
+153.38000 	158.17500  	WPQI578 	RM	131 DPL	LONDON CSD 	London City Schools 	FM 	Schools 
+463.72500 	468.72500  	WQFN692 	RM	074 DPL	FAIRHAVEN LS 	Fairhaven School 	FM 	Schools 
+464.92500 	469.92500  	WNKB682 	RM	351 DPL	JEFFERSON LS 	Jefferson Local Schools 	FM 	Schools 
+153.50000 	   	WPCX808 	F		AEP ALT 	American Electric Power backup (link to low-band) 	FM 	Utilities 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide
+Target Stores Regional Distribution Center	 LTR Standard	 West Jefferson	

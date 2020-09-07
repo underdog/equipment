@@ -1,100 +1,99 @@
-155.17500 	KOI720 	BM	CSQ	AMR EMS Disp 	American Medical Response - Dispatch 	FMN 	EMS Dispatch 
-157.69500 	WPJZ996 	RM	065 DPL	AMR EMS Tac 	American Medical Response - Tactical 	FMN 	EMS-Tac 
-152.00750 	WQNR397 	F		SC Pager 	Countywide Pager Network 	FMN 	Data 
-123.05000 	 	BM	CSQ	SC EMS Air 	EMS to Helicopter Liaison 	AM 	EMS-Tac 
-453.30000 	WNHW951 	RM	110.9 PL	SC EBS 	Emergency Broadcast 	FMN 	Emergency Ops 
-453.95000 	WNPH939 	RM	136.5 PL	SC DEM 	Emergency Management  	FMN 	Emergency Ops 
-460.60000 	WNKI993 	RM	127.3 PL	SC FD4 ADM 	Fire Dist 4 Command Staff 	FMN 	Fire-Talk 
-154.14500 	WNKI993 	BM	123.0 PL	SC FD4 FG 	Fire Dist 4 Fireground 	FMN 	Fire-Talk 
-155.41500 	WNKI993 	RM	432 DPL	SC FD4 T2 	Fire Dist 4 Tac 2 	FMN 	Fire-Tac 
-154.37000 	WPGQ928 	BM	127.3 PL	SC FD9 FG 	Fire Dist 9 Fireground 	FMN 	Fire-Tac 
-154.05500 	WNBX916 	BM	173.8 PL	SFD Blue 	Fire Tactical Blue 	FMN 	Fire-Talk 
-154.22000 	KA77659 	M	127.3 PL	SFD Green 	Fire Tactical Green 	FMN 	Fire-Talk 
-154.34000 	WNGR551 	RM	203.5 PL	SFD Orange 	Fire Tactical Orange 	FMN 	Fire-Talk 
-154.01000 	WBV857 	BM	186.2 PL	SFD White 	Fire Tactical White 	FMN 	Fire-Talk 
-154.40000 	WPMM779 	BM	179.9 PL	SFD Yellow 	Fire Tactical Yellow 	FMN 	Fire-Talk 
-159.57000 	WNBB825 	RM	203.5 PL	IEES EMS 	Inland Empire Emergency Services - Dispatch 	FMN 	EMS Dispatch 
-453.38750 	Expired 	RM	251 DPL	SCSO JDC 	Juvenile Detention Center 	FMN 	Corrections 
-462.97500 	WNCT261 	RM	88.5 PL	LifeFlight Disp 	LifeFlight Dispatch 	FMN 	EMS Dispatch 
-460.57500 	WNJG993 	RM		SRECS 575 	SRECS 460.575 	FMN 	Multi-Talk 
-460.62500 	WNJG993 	RM		SRECS 625 	SRECS 460.625 	FMN 	Multi-Talk 
-851.47500 	WQTJ952 	RM		TempRPTR 1 	Temporary Repeater 1 	P25 	Multi-Tac 
-852.42500 	WQTJ952 	RM		TempRPTR 2 	Temporary Repeater 2 	P25 	Multi-Tac 
-853.21250 	WQTJ952 	RM		TempRPTR 3 	Temporary Repeater 3 	P25 	Multi-Tac 
-154.80000 	WNIW728 	RM	173.8 PL	SRMA 1 	Spokane Regional Mutual Aid 1 	FMN 	Interop 
-155.13000 	WQSE818 	RM	103.5 PL	SRMA 2 	Spokane Regional Mutual Aid 2 	FMN 	Interop 
-153.93500 	WQSE818 	RM	110.9 PL	SRMA 3 	Spokane Regional Mutual Aid 3 	FMN 	Interop 
-154.74000 	WQSE818 	RM	127.3 PL	SRMA 4 	Spokane Regional Mutual Aid 4 	FMN 	Interop 
-453.27500 	WNFF982 	RM	151.4 PL	SC Bld Maint 	Building Maintenance 	FMN 	Public Works 
-453.05000 	WZX496 	RM	131.8 PL	SC Radio 	Electronic Services Shop  	FMN 	Public Works 
-155.55000 	WNNF302 	M	103.5 PL	SC Parks 1 	Parks Recreation Department - Ch 1 	FMN 	Public Works 
-154.83000 	WNSG940 	M	103.5 PL	SC Parks 2 	Parks Recreation Department - Ch 2 	FMN 	Public Works 
-155.92500 	WZJ436 	RM	103.5 PL	SC Roads 1 	Roads Department - Ch 1 Primary 	FMN 	Public Works 
-156.22500 	KNJN828 	RM	103.5 PL	SC Roads 2 	Roads Department - Ch 2 Supervisors 	FMN 	Public Works 
-159.16500 	WNVB931 	RM	146.2 PL	SC Roads 3 	Roads Department - Ch 3 Operations 	FMN 	Public Works 
-159.00000 	WNWC558 	M	103.5 PL	SC Roads 4 	Roads Department - Ch 4 North Simplex 	FMN 	Public Works 
-153.56000 	WPZC204 	BM	136.5 PL	SC Water Dep 	Water Department District 3 	FMN 	Public Works 
-154.08500 	KNCE367 	RM	103.5 PL	WW Water 	Whitworth Water District 2 	FMN 	Public Works 
-453.22500 	WNVL396 	RM	136.5 PL	S Radio 	Electronic Services Radio Shop 	FMN 	Public Works 
-460.18750 	WQHK720 	RM	371 DPL	S Facilities 	Facilities 	FMN 	Public Works 
-458.48750 	WQHK720 	M	136.5 PL	S Facilities 	Facilities Electrical 	FMN 	Public Works 
-453.18750 	WQHK720 	RM	116 DPL	SPFD IT Svcs 	Facilities IT Department 	FMN 	Public Works 
-465.23750 	WQHK720 	M	136.5 PL	S Faclty Jan 	Facilities Janitorial 	FMN 	Public Works 
-465.11250 	WQHK720 	M	136.5 PL	S Faclty Kit 	Facilities Kitchen 	FMN 	Public Works 
-460.46250 	WQHK720 	RM	031 DPL	S Faclty Ops 	Facilities Operations 	FMN 	Public Works 
-465.13750 	WQHK720 	M	136.5 PL	S Faclty Ops 	Facilities Operations 	FMN 	Public Works 
-458.83750 	WQHK720 	M	146.2 PL	S Faclty Prk 	Facilities Parking Control 	FMN 	Public Works 
-460.33750 	WQHK720 	RM	423 DPL	S Faclty Pri 	Facilities Primary 	FMN 	Public Works 
-155.89500 	KLE739 	BM	74.4 PL	S Parks 	Parks Department Primary 	FMN 	Public Works 
-158.74500 	KSP324 	M	67.0 PL	SWM Yard 	SWM Transfer Station 	FMN 	Public Works 
-158.80500 	KSP324 	RM	167.9 PL	SWM C   	Solid Waste Management Commercial 	FMN 	Public Works 
-158.74500 	KSP324 	RM	141.3 PL	SWM R   	Solid Waste Management Residential 	FMN 	Public Works 
-159.18000 	KOI828 	RM	114.8 PL	S Street 1 	Street Department  Ch 1 Primary 	FMN 	Public Works 
-156.19500 	WRX794 	BM	94.8 PL	S Street 2 	Street Department Ch 2 Simplex 	FMN 	Public Works 
-453.65000 	WNKE585 	RM	123.0 PL	S WWater 	Wastewater Treatment Plant 	FMN 	Public Works 
-153.59000 	WPWY712 	RM	123.0 PL	SWHE 1  	Water Hydroelectric 	FMN 	Public Works 
-153.53000 	KOK316 	BM		Green IR Dis 	Greenacres Irrigation District 	FMN 	Public Works 
-152.74500 	 	M	174 DPL	SValley Plow 	Roads Snow Removal  	FMN 	Public Works 
-153.41000 	KFO531 	RM		VeraUtility 	Veradale Power and Water crews 	FMN 	Public Works 
-153.78500 	WNFU451 	BM	118.8 PL	AH Engineers 	Public Works 	FMN 	Public Works 
-155.02500 	WNFU451 	RM	346 DPL	AH Engineers 	Public Works 	FMN 	Public Works 
-154.04000 	KOM855 	BM		Cheney PW 	Street Department 	FMN 	Public Works 
-154.72500 	WNPH922 	RM	192.8 PL	Cheney Fire 	Cheney Fire Tac 	FMN 	Fire-Tac 
-155.64000 	KOM855 	RM	123.0 PL	Cheney PUD 	Public Utilities Engineers 	FMN 	Public Works 
-156.24000 	WPAV394 	RM	141.3 PL	DP Engineers 	Deer Park Engineers  	FMN 	Public Works 
-155.52750 	WNIN228 	RM	152 DPL	DP AMB Disp 	Deer Park Ambulance Dispatch 	FMN 	EMS Dispatch 
-155.05500 	KNBY582 	BM		MLPW 	Public Works 	FMN 	Public Works 
-150.93500 	 	RM	186.2 PL	CVdist356Adm 	Central Valley School District - Admin 	FMN 	Schools 
-152.45750 	WQOQ531 	RM		CVdist356ADM 	Central Valley School District - Admin 	FMN 	Schools 
-152.87750 	WQOQ531 	RM	103.5 PL	CVdist356Bus 	Central Valley School District - Buses 	FMN 	Schools 
-152.99750 	KQN289 	RM	118.8 PL	CheneySDbus 	Cheney School District - Buses 	FMN 	Schools 
-152.90750 	WQJX710 	BM	118.8 PL	DeerPark SD 	Deer Park School District - Buses 	FMN 	Schools 
-152.30750 	WQJF382 	RM	CSQ	DeerPark SD 	Deer Park School District - Maintenance 	FMN 	Schools 
-154.51500 	KVP391 	BM	123.0 PL	EastValleySD 	East Valley School District - Buses 	FMN 	Schools 
-454.40000 	 	RM	1 RAN	EVSD Bus 	East Valley School District - Buses 	NXDN 	Schools 
-151.92500 	KNBC858 	RM	210.7 PL	FreemanSDbus 	Freeman School District - Buses 	FMN 	Schools 
-461.55000 	KLB444 	RM	5 RAN	Mead SD 	Mead School District - Buses 	NXDN 	Schools 
-151.71500 	KYO790 	BM	131.8 PL	MedLk SD bus 	Medical Lake School District - Buses 	FMN 	Schools 
-151.83500 	WZR658 	BM	162 DPL	9MileSDbus 	Nine Mile Falls School District - Buses 	FMN 	Schools 
-151.89500 	KB68011 	BM	132 DPL	RSD416Bus 	Riverside School District - Buses 	FMN 	Schools 
-464.47500 	KB68011 	RM	110.9 PL	RSD416Maint 	Riverside School District - Maintenance 	FMN 	Schools 
-151.86500 	WQAP925 	BM	74.4 PL	SD81 Bus 	Spokane District - Buses 	FMN 	Schools 
-462.25000 	WQIN560 	M	331 DPL	SD81 CrossG 	Spokane District - Crossing Guards 	FMN 	Schools 
-461.32500 	WPLW487 	RM	371 DPL	WValleySD 	West Valley School District - Maintenance 	FMN 	Schools 
-463.95000 	WNRB924 	RM	67.0 PL	CCS Ch 1 	CCS Ch 1 - Operations 	FMN 	Schools 
-463.27500 	WNRB924 	M	127.3 PL	CCS Ch 2 	CCS Ch 2 - Student Activities 	FMN 	Schools 
-468.32500 	WNRB924 	M	103.5 PL	CCS Ch 3 	CCS Ch 3 - Various Use 	FMN 	Schools 
-463.32500 	WNRB924 	M	100.0 PL	CCS Ch 4 	CCS Ch 4 - Various Use 	FMN 	Schools 
-461.80000 	WQJJ300 	RM	205 DPL	CCS Ch 5 	CCS Ch 5 - SCC Security 	FMN 	Security 
-451.83750 	 	BM	01 RAN	WSU Maint 	Maintenance 	NXDN 	Schools 
-453.01250 	 	BM	01 RAN	WSU Security 	Security 	NXDN 	Schools 
-462.07500 	WNGL5654 	RM	186.2 PL	WWColl Sec 	Campus Security 	FMN 	Security 
-462.78750 	WPJW639 	M		WWColl ITS 	Campus Information Technology Dept 	FMN 	Schools 
-Avista Utilities	 MPT-1327 Standard	 Various	Community Colleges of Spokane	 NXDN NEXEDGE 4800	 Spokane	Day Wireless UHF	 LTR Standard
- Spokane	Eastern Washington University	 NXDN NEXEDGE 9600	 Cheney	Gonzaga University	 NXDN NEXEDGE 4800	 Spokane	Huntwood Industries
- LTR Standard	 Liberty Lake	Meadowwood Partnership	 LTR Standard	 Liberty Lake	Mobile Talk Wireless	 NXDN NEXEDGE 4800	 Various
-Northern Quest Casino	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Airway Heights	Pacific NorthWest DMR	 DMR Conventional Networked	 Various	Providence Medical Centers	 DMR Conventional Networked
- Various	Spokane Regional Emergency Communications System	 Project 25 Phase I	 Spokane	Spokane Transit Authority	 Project 25 Phase II	 Spokane	Spokane Tribe Casino
- NXDN NEXEDGE 4800	 Airway Heights	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	United States Air Force (57C)	 Project 25 Phase I	 Multiple
-Washington DOC	 Project 25 Phase I	 Various	Washington State Department of Transportation	 LTR MultiNet	 Various	Wiztronics Inc	 NXDN NEXEDGE 4800
- Various	
+155.17500 	   	KOI720 	BM	CSQ	AMR EMS Disp 	American Medical Response - Dispatch 	FMN 	EMS Dispatch 
+157.69500 	152.43500  	WPJZ996 	RM	065 DPL	AMR EMS Tac 	American Medical Response - Tactical 	FMN 	EMS-Tac 
+152.00750 	   	WQNR397 	F		SC Pager 	Countywide Pager Network 	FMN 	Data 
+123.05000 	   	 	BM	CSQ	SC EMS Air 	EMS to Helicopter Liaison 	AM 	EMS-Tac 
+453.30000 	458.30000  	WNHW951 	RM	110.9 PL	SC EBS 	Emergency Broadcast 	FMN 	Emergency Ops 
+453.95000 	458.95000  	WNPH939 	RM	136.5 PL	SC DEM 	Emergency Management  	FMN 	Emergency Ops 
+460.60000 	465.60000  	WNKI993 	RM	127.3 PL	SC FD4 ADM 	Fire Dist 4 Command Staff 	FMN 	Fire-Talk 
+154.14500 	   	WNKI993 	BM	123.0 PL	SC FD4 FG 	Fire Dist 4 Fireground 	FMN 	Fire-Talk 
+155.41500 	158.76750  	WNKI993 	RM	432 DPL	SC FD4 T2 	Fire Dist 4 Tac 2 	FMN 	Fire-Tac 
+154.37000 	   	WPGQ928 	BM	127.3 PL	SC FD9 FG 	Fire Dist 9 Fireground 	FMN 	Fire-Tac 
+154.05500 	   	WNBX916 	BM	173.8 PL	SFD Blue 	Fire Tactical Blue 	FMN 	Fire-Talk 
+154.22000 	   	KA77659 	M	127.3 PL	SFD Green 	Fire Tactical Green 	FMN 	Fire-Talk 
+154.34000 	154.14500  	WNGR551 	RM	203.5 PL	SFD Orange 	Fire Tactical Orange 	FMN 	Fire-Talk 
+154.01000 	   	WBV857 	BM	186.2 PL	SFD White 	Fire Tactical White 	FMN 	Fire-Talk 
+154.40000 	   	WPMM779 	BM	179.9 PL	SFD Yellow 	Fire Tactical Yellow 	FMN 	Fire-Talk 
+159.57000 	154.48250  	WNBB825 	RM	203.5 PL	IEES EMS 	Inland Empire Emergency Services - Dispatch 	FMN 	EMS Dispatch 
+453.38750 	458.38750  	Expired 	RM	251 DPL	SCSO JDC 	Juvenile Detention Center 	FMN 	Corrections 
+462.97500 	467.97500  	WNCT261 	RM	88.5 PL	LifeFlight Disp 	LifeFlight Dispatch 	FMN 	EMS Dispatch 
+460.57500 	465.57500  	WNJG993 	RM		SRECS 575 	SRECS 460.575 	FMN 	Multi-Talk 
+460.62500 	465.62500  	WNJG993 	RM		SRECS 625 	SRECS 460.625 	FMN 	Multi-Talk 
+851.47500 	806.47500  	WQTJ952 	RM		TempRPTR 1 	Temporary Repeater 1 	P25 	Multi-Tac 
+852.42500 	807.42500  	WQTJ952 	RM		TempRPTR 2 	Temporary Repeater 2 	P25 	Multi-Tac 
+853.21250 	808.21250  	WQTJ952 	RM		TempRPTR 3 	Temporary Repeater 3 	P25 	Multi-Tac 
+154.80000 	159.21000  	WNIW728 	RM	173.8 PL	SRMA 1 	Spokane Regional Mutual Aid 1 	FMN 	Interop 
+155.13000 	159.03000  	WQSE818 	RM	103.5 PL	SRMA 2 	Spokane Regional Mutual Aid 2 	FMN 	Interop 
+153.93500 	159.09000  	WQSE818 	RM	110.9 PL	SRMA 3 	Spokane Regional Mutual Aid 3 	FMN 	Interop 
+154.74000 	158.98500  	WQSE818 	RM	127.3 PL	SRMA 4 	Spokane Regional Mutual Aid 4 	FMN 	Interop 
+453.27500 	458.27500  	WNFF982 	RM	151.4 PL	SC Bld Maint 	Building Maintenance 	FMN 	Public Works 
+453.05000 	458.05000  	WZX496 	RM	131.8 PL	SC Radio 	Electronic Services Shop  	FMN 	Public Works 
+155.55000 	   	WNNF302 	M	103.5 PL	SC Parks 1 	Parks Recreation Department - Ch 1 	FMN 	Public Works 
+154.83000 	   	WNSG940 	M	103.5 PL	SC Parks 2 	Parks Recreation Department - Ch 2 	FMN 	Public Works 
+155.92500 	158.95500  	WZJ436 	RM	103.5 PL	SC Roads 1 	Roads Department - Ch 1 Primary 	FMN 	Public Works 
+156.22500 	159.06000  	KNJN828 	RM	103.5 PL	SC Roads 2 	Roads Department - Ch 2 Supervisors 	FMN 	Public Works 
+159.16500 	151.10000  	WNVB931 	RM	146.2 PL	SC Roads 3 	Roads Department - Ch 3 Operations 	FMN 	Public Works 
+159.00000 	   	WNWC558 	M	103.5 PL	SC Roads 4 	Roads Department - Ch 4 North Simplex 	FMN 	Public Works 
+153.56000 	   	WPZC204 	BM	136.5 PL	SC Water Dep 	Water Department District 3 	FMN 	Public Works 
+154.08500 	158.92500  	KNCE367 	RM	103.5 PL	WW Water 	Whitworth Water District 2 	FMN 	Public Works 
+453.22500 	458.22500  	WNVL396 	RM	136.5 PL	S Radio 	Electronic Services Radio Shop 	FMN 	Public Works 
+460.18750 	465.18750  	WQHK720 	RM	371 DPL	S Facilities 	Facilities 	FMN 	Public Works 
+458.48750 	   	WQHK720 	M	136.5 PL	S Facilities 	Facilities Electrical 	FMN 	Public Works 
+453.18750 	458.18750  	WQHK720 	RM	116 DPL	SPFD IT Svcs 	Facilities IT Department 	FMN 	Public Works 
+465.23750 	   	WQHK720 	M	136.5 PL	S Faclty Jan 	Facilities Janitorial 	FMN 	Public Works 
+465.11250 	   	WQHK720 	M	136.5 PL	S Faclty Kit 	Facilities Kitchen 	FMN 	Public Works 
+460.46250 	465.46250  	WQHK720 	RM	031 DPL	S Faclty Ops 	Facilities Operations 	FMN 	Public Works 
+465.13750 	   	WQHK720 	M	136.5 PL	S Faclty Ops 	Facilities Operations 	FMN 	Public Works 
+458.83750 	   	WQHK720 	M	146.2 PL	S Faclty Prk 	Facilities Parking Control 	FMN 	Public Works 
+460.33750 	465.33750  	WQHK720 	RM	423 DPL	S Faclty Pri 	Facilities Primary 	FMN 	Public Works 
+155.89500 	   	KLE739 	BM	74.4 PL	S Parks 	Parks Department Primary 	FMN 	Public Works 
+158.74500 	   	KSP324 	M	67.0 PL	SWM Yard 	SWM Transfer Station 	FMN 	Public Works 
+158.80500 	155.77500  	KSP324 	RM	167.9 PL	SWM C   	Solid Waste Management Commercial 	FMN 	Public Works 
+158.74500 	153.99500  	KSP324 	RM	141.3 PL	SWM R   	Solid Waste Management Residential 	FMN 	Public Works 
+159.18000 	156.04500  	KOI828 	RM	114.8 PL	S Street 1 	Street Department  Ch 1 Primary 	FMN 	Public Works 
+156.19500 	   	WRX794 	BM	94.8 PL	S Street 2 	Street Department Ch 2 Simplex 	FMN 	Public Works 
+453.65000 	458.65000  	WNKE585 	RM	123.0 PL	S WWater 	Wastewater Treatment Plant 	FMN 	Public Works 
+153.59000 	155.71500  	WPWY712 	RM	123.0 PL	SWHE 1  	Water Hydroelectric 	FMN 	Public Works 
+153.53000 	   	KOK316 	BM		Green IR Dis 	Greenacres Irrigation District 	FMN 	Public Works 
+152.74500 	   	 	M	174 DPL	SValley Plow 	Roads Snow Removal  	FMN 	Public Works 
+153.41000 	   	KFO531 	RM		VeraUtility 	Veradale Power and Water crews 	FMN 	Public Works 
+153.78500 	   	WNFU451 	BM	118.8 PL	AH Engineers 	Public Works 	FMN 	Public Works 
+155.02500 	153.92000  	WNFU451 	RM	346 DPL	AH Engineers 	Public Works 	FMN 	Public Works 
+154.04000 	   	KOM855 	BM		Cheney PW 	Street Department 	FMN 	Public Works 
+154.72500 	155.88000  	WNPH922 	RM	192.8 PL	Cheney Fire 	Cheney Fire Tac 	FMN 	Fire-Tac 
+155.64000 	159.13500  	KOM855 	RM	123.0 PL	Cheney PUD 	Public Utilities Engineers 	FMN 	Public Works 
+156.24000 	150.77500  	WPAV394 	RM	141.3 PL	DP Engineers 	Deer Park Engineers  	FMN 	Public Works 
+155.52750 	150.79000  	WNIN228 	RM	152 DPL	DP AMB Disp 	Deer Park Ambulance Dispatch 	FMN 	EMS Dispatch 
+155.05500 	   	KNBY582 	BM		MLPW 	Public Works 	FMN 	Public Works 
+150.93500 	   	 	RM	186.2 PL	CVdist356Adm 	Central Valley School District - Admin 	FMN 	Schools 
+152.45750 	157.71750  	WQOQ531 	RM		CVdist356ADM 	Central Valley School District - Admin 	FMN 	Schools 
+152.87750 	152.72750  	WQOQ531 	RM	103.5 PL	CVdist356Bus 	Central Valley School District - Buses 	FMN 	Schools 
+152.99750 	159.92250  	KQN289 	RM	118.8 PL	CheneySDbus 	Cheney School District - Buses 	FMN 	Schools 
+152.90750 	   	WQJX710 	BM	118.8 PL	DeerPark SD 	Deer Park School District - Buses 	FMN 	Schools 
+152.30750 	157.56750  	WQJF382 	RM	CSQ	DeerPark SD 	Deer Park School District - Maintenance 	FMN 	Schools 
+154.51500 	   	KVP391 	BM	123.0 PL	EastValleySD 	East Valley School District - Buses 	FMN 	Schools 
+454.40000 	459.40000  	 	RM	1 RAN	EVSD Bus 	East Valley School District - Buses 	NXDN 	Schools 
+151.92500 	158.34000  	KNBC858 	RM	210.7 PL	FreemanSDbus 	Freeman School District - Buses 	FMN 	Schools 
+461.55000 	466.55000  	KLB444 	RM	5 RAN	Mead SD 	Mead School District - Buses 	NXDN 	Schools 
+151.71500 	   	KYO790 	BM	131.8 PL	MedLk SD bus 	Medical Lake School District - Buses 	FMN 	Schools 
+151.83500 	   	WZR658 	BM	162 DPL	9MileSDbus 	Nine Mile Falls School District - Buses 	FMN 	Schools 
+151.89500 	   	KB68011 	BM	132 DPL	RSD416Bus 	Riverside School District - Buses 	FMN 	Schools 
+464.47500 	469.47500  	KB68011 	RM	110.9 PL	RSD416Maint 	Riverside School District - Maintenance 	FMN 	Schools 
+151.86500 	   	WQAP925 	BM	74.4 PL	SD81 Bus 	Spokane District - Buses 	FMN 	Schools 
+462.25000 	   	WQIN560 	M	331 DPL	SD81 CrossG 	Spokane District - Crossing Guards 	FMN 	Schools 
+461.32500 	466.32500  	WPLW487 	RM	371 DPL	WValleySD 	West Valley School District - Maintenance 	FMN 	Schools 
+463.95000 	468.95000  	WNRB924 	RM	67.0 PL	CCS Ch 1 	CCS Ch 1 - Operations 	FMN 	Schools 
+463.27500 	   	WNRB924 	M	127.3 PL	CCS Ch 2 	CCS Ch 2 - Student Activities 	FMN 	Schools 
+468.32500 	   	WNRB924 	M	103.5 PL	CCS Ch 3 	CCS Ch 3 - Various Use 	FMN 	Schools 
+463.32500 	   	WNRB924 	M	100.0 PL	CCS Ch 4 	CCS Ch 4 - Various Use 	FMN 	Schools 
+461.80000 	466.80000  	WQJJ300 	RM	205 DPL	CCS Ch 5 	CCS Ch 5 - SCC Security 	FMN 	Security 
+451.83750 	   	 	BM	01 RAN	WSU Maint 	Maintenance 	NXDN 	Schools 
+453.01250 	   	 	BM	01 RAN	WSU Security 	Security 	NXDN 	Schools 
+462.07500 	467.07500  	WNGL5654 	RM	186.2 PL	WWColl Sec 	Campus Security 	FMN 	Security 
+462.78750 	   	WPJW639 	M		WWColl ITS 	Campus Information Technology Dept 	FMN 	Schools 
+Avista Utilities	 MPT-1327 Standard	 Various	Community Colleges of Spokane	 NXDN NEXEDGE 4800	 Spokane	Day Wireless UHF	 LTR Standard	 Spokane
+Eastern Washington University	 NXDN NEXEDGE 9600	 Cheney	Gonzaga University	 NXDN NEXEDGE 4800	 Spokane	Huntwood Industries	 LTR Standard	 Liberty Lake
+Justice Integrated Wireless Network	 Project 25 Phase I	 Various	Meadowwood Partnership	 LTR Standard	 Liberty Lake	Mobile Talk Wireless	 NXDN NEXEDGE 4800	 Various
+Northern Quest Casino	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Airway Heights	Pacific NorthWest DMR	 DMR Conventional Networked	 Various	Providence Medical Centers	 DMR Conventional Networked	 Various
+Spokane Regional Emergency Communications System	 Project 25 Phase I	 Spokane	Spokane Transit Authority	 Project 25 Phase II	 Spokane	Spokane Tribe Casino	 NXDN NEXEDGE 4800	 Airway Heights
+TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	United States Air Force (57C)	 Project 25 Phase I	 Multiple	Washington State Department of Transportation	 LTR MultiNet	 Various
+Wiztronics Inc	 NXDN NEXEDGE 4800	 Various	

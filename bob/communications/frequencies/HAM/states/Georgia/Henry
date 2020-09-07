@@ -1,22 +1,21 @@
-154.77500 	KTG583 	RM		HCSO 7750 	Sheriff  	FMN 	Law Talk 
-155.97000 	KTG583 	BM		HSCO 9700 	Sheriff 	FMN 	Law Talk 
-155.61000 	WNWK590 	RM	103.5 PL	HCD 6100 	Police 	FMN 	Law Dispatch 
-156.19500 	WPIF498 	RM		HCPD 1950 	Police 	FMN 	Law Talk 
-154.37000 	WNVC783 	RM	100.0 PL	HCFD Paging 	Fire SCADA Data 	FMN 	Fire Dispatch 
-155.38500 	KXZ491  	BM		HCEMS 3850 	EMS 	FMN 	EMS-Talk 
-158.22000 	KVO602  	RM		HC H2O 	Water & Sewage 	FMN 	Utilities 
-453.11250 	WNWU674 	RM		HC H2O 	Water & Sewage 	FMN 	Utilities 
-453.43750 	WNWU672 	RM		HC H2O 	Water & Sewage 	FMN 	Utilities 
-453.56250 	WNWU675  	RM		HC H2O 	Water & Sewage 	FMN 	Utilities 
-463.36250 	WQSB889 	RM		HC H2O 	Water & Sewage 	FMN 	Utilities 
-453.37500 	WNFQ521 	RM		HC Transp 	Transportation Department 	FMN 	Transportation 
-159.15000 	WNWD261 	RM		HPD 1500 	Police Department 	FMN 	Law Talk 
-155.59500 	KTE364 	BM		LGPD 5950 	Police 	FMN 	Law Talk 
-155.97000 	KTE364 	BM		LGPD 9700 	Police 	FMN 	Law Talk 
-451.36250 	WPYP665 	BM		LG Pub Works 	Public Works 	FMN 	Public Works 
-155.97000 	KSU625 	BM		McDPD 9700 	Police Department 	FMN 	Law Talk 
-159.15000 	KSU625 	BM		McDPD 1500 	Police Department 	FMN 	Law Talk 
-154.43000 	KLW368 	RM		McDFD 4300 	Fire Department 	FMN 	Fire-Talk 
-153.83000 	KLW368 	BM		McDFD 8300 	Fire Department 	FMN 	Fire-Talk 
-Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800	 Various	Henry County (P25)	 Project 25 Phase II	 Various	Henry County Board of Education NXDN	 NXDN NEXEDGE 9600
- McDonough	
+154.77500 	155.59500  	KTG583 	RM		HCSO 7750 	Sheriff  	FMN 	Law Talk 
+155.97000 	   	KTG583 	BM		HSCO 9700 	Sheriff 	FMN 	Law Talk 
+155.61000 	158.95500  	WNWK590 	RM	103.5 PL	HCD 6100 	Police 	FMN 	Law Dispatch 
+156.19500 	159.73500  	WPIF498 	RM		HCPD 1950 	Police 	FMN 	Law Talk 
+154.37000 	153.77000  	WNVC783 	RM	100.0 PL	HCFD Paging 	Fire SCADA Data 	FMN 	Fire Dispatch 
+155.38500 	   	KXZ491  	BM		HCEMS 3850 	EMS 	FMN 	EMS-Talk 
+158.22000 	153.69500  	KVO602  	RM		HC H2O 	Water & Sewage 	FMN 	Utilities 
+453.11250 	458.11250  	WNWU674 	RM		HC H2O 	Water & Sewage 	FMN 	Utilities 
+453.43750 	458.43750  	WNWU672 	RM		HC H2O 	Water & Sewage 	FMN 	Utilities 
+453.56250 	458.56250  	WNWU675  	RM		HC H2O 	Water & Sewage 	FMN 	Utilities 
+463.36250 	468.36250  	WQSB889 	RM		HC H2O 	Water & Sewage 	FMN 	Utilities 
+453.37500 	458.37500  	WNFQ521 	RM		HC Transp 	Transportation Department 	FMN 	Transportation 
+159.15000 	154.95000  	WNWD261 	RM		HPD 1500 	Police Department 	FMN 	Law Talk 
+155.59500 	   	KTE364 	BM		LGPD 5950 	Police 	FMN 	Law Talk 
+155.97000 	   	KTE364 	BM		LGPD 9700 	Police 	FMN 	Law Talk 
+451.36250 	   	WPYP665 	BM		LG Pub Works 	Public Works 	FMN 	Public Works 
+155.97000 	   	KSU625 	BM		McDPD 9700 	Police Department 	FMN 	Law Talk 
+159.15000 	   	KSU625 	BM		McDPD 1500 	Police Department 	FMN 	Law Talk 
+154.43000 	150.79000  	KLW368 	RM		McDFD 4300 	Fire Department 	FMN 	Fire-Talk 
+153.83000 	   	KLW368 	BM		McDFD 8300 	Fire Department 	FMN 	Fire-Talk 
+Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800	 Various	Henry County (P25)	 Project 25 Phase II	 Various	Henry County Board of Education NXDN	 NXDN NEXEDGE 9600	 McDonough

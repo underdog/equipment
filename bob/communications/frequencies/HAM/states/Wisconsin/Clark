@@ -1,27 +1,27 @@
-155.25000 	KNIS907 	RM	100 NAC	CLSO 	Sheriff Dispatch 	P25 	Law Dispatch 
-155.25000 	KNIS907 	RM	127.3 PL	CLSO 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.80500 	KYU837 	RM	127.3 PL	CL PD/EMS 	Police / EMS (Coordination?) 	FMN 	Multi-Dispatch 
-154.80000 	WBE358 	BM	100.0 PL	CLJAIL 	Jail 	FMN 	Corrections 
-155.95500 	KYU837 	RM	192.8 PL	CLFIRE 	County Fire / EM 	FMN 	Fire Dispatch 
-154.37000 	WNDZ368 	BM	192.8 PL	CLFG 	Countywide Fireground 	FMN 	Fire-Tac 
-155.13000 	KSA348 	RM	77.0 PL	CLEM 	Emergency Management 	FMN 	Interop 
-156.18000 	WNWS548 	RM	192.8 PL	CLHWY 	Highways 	FMN 	Public Works 
-155.05500 	WPBV858 	M	192.8 PL	CL HWYS 	Highways - Truck-to-Truck, Town/Village DPW 	FMN 	Public Works 
-151.29500 	WPCM352 	BM	110.9 PL	CLPARK 	Forests & Parks 	FMN 	Public Works 
-154.05500 	WNHE554 	BM	156 DPL	CLHCCPAG 	County Health Care Center - Paging 	FMN 	Public Works 
-453.48750 	WNHE554 	RM	100.0 PL	CLHCC 	County Health Care Center - Ops 	FMN 	Public Works 
-154.14500 	WPGQ764 	RM	127.3 PL	AbbotsfordFD 	Fire 	FMN 	Fire-Talk 
-154.40000 	WNDZ968 	RM	127.3 PL	Colby Fire 	Fire 	FMN 	Fire-Talk 
-154.98000 	KNJW776 	BM	127.3 PL	Colby DPW 	DPW 	FMN 	Public Works 
-155.05500 	WNQA349 	BM		Tn Colby DPW 	DPW 	FMN 	Public Works 
-154.25000 	WPIW356 	BM	88.5 PL	DorchesterFD 	Fire 	FMN 	Fire-Talk 
-155.03250 	WQVY696 	RM		CLDOES 	Emergency Services 	FMN 	Multi-Talk 
-154.13000 	WNQA377 	RM	127.3 PL	Greenwood FD 	Fire 	FM 	Fire-Talk 
-155.08500 	KB61154 	RM	127.3 PL	Loyal DPW 	DPW/EMS 	FMN 	Multi-Talk 
-154.37000 	WQAB874 	RM	192.8 PL	OWFD 	Fire 	FMN 	Fire-Talk 
-154.25000 	WQQP546 	BM	CSQ	Thorp FD 	Fire District 	FMN 	Fire-Talk 
-453.23750 	WPQA350 	RM	100.0 PL	Thorp DPW 	Public Works 	FMN 	Public Works 
-155.05500 	WNSH824 	BM	173.8 PL	Unity DPW 	DPW 	FMN 	Public Works 
-146.77500 	N9RRF 	RM	114.8 PL	Skywarn 	Skywarn 	FM 	Ham 
-Abbyland Foods	 DMR Hytera XPT	 Various	Air Communications of Wisconsin (Curtiss)	 LTR Standard	 Curtiss	Dairyland Power Cooperative	 DMR Tier 3
- Various	Vital Communications	 DMR Hytera XPT	 Various	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+155.25000 	159.00000  	KNIS907 	RM	100 NAC	CLSO 	Sheriff Dispatch 	P25 	Law Dispatch 
+155.25000 	159.00000  	KNIS907 	RM	127.3 PL	CLSO 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.80500 	158.95500  	KYU837 	RM	127.3 PL	CL PD/EMS 	Police / EMS (Coordination?) 	FMN 	Multi-Dispatch 
+154.80000 	   	WBE358 	BM	100.0 PL	CLJAIL 	Jail 	FMN 	Corrections 
+155.95500 	153.92000  	KYU837 	RM	192.8 PL	CLFIRE 	County Fire / EM 	FMN 	Fire Dispatch 
+154.37000 	   	WNDZ368 	BM	192.8 PL	CLFG 	Countywide Fireground 	FMN 	Fire-Tac 
+155.13000 	156.07500  	KSA348 	RM	77.0 PL	CLEM 	Emergency Management 	FMN 	Interop 
+156.18000 	159.18000  	WNWS548 	RM	192.8 PL	CLHWY 	Highways 	FMN 	Public Works 
+155.05500 	   	WPBV858 	M	192.8 PL	CL HWYS 	Highways - Truck-to-Truck, Town/Village DPW 	FMN 	Public Works 
+151.29500 	   	WPCM352 	BM	110.9 PL	CLPARK 	Forests & Parks 	FMN 	Public Works 
+154.05500 	   	WNHE554 	BM	156 DPL	CLHCCPAG 	County Health Care Center - Paging 	FMN 	Public Works 
+453.48750 	458.48750  	WNHE554 	RM	100.0 PL	CLHCC 	County Health Care Center - Ops 	FMN 	Public Works 
+154.14500 	150.80500  	WPGQ764 	RM	127.3 PL	AbbotsfordFD 	Fire 	FMN 	Fire-Talk 
+154.40000 	159.09000  	WNDZ968 	RM	127.3 PL	Colby Fire 	Fire 	FMN 	Fire-Talk 
+154.98000 	   	KNJW776 	BM	127.3 PL	Colby DPW 	DPW 	FMN 	Public Works 
+155.05500 	   	WNQA349 	BM		Tn Colby DPW 	DPW 	FMN 	Public Works 
+154.25000 	   	WPIW356 	BM	88.5 PL	DorchesterFD 	Fire 	FMN 	Fire-Talk 
+155.03250 	159.21000  	WQVY696 	RM		CLDOES 	Emergency Services 	FMN 	Multi-Talk 
+154.13000 	150.77500  	WNQA377 	RM	127.3 PL	Greenwood FD 	Fire 	FM 	Fire-Talk 
+155.08500 	153.98000  	KB61154 	RM	127.3 PL	Loyal DPW 	DPW/EMS 	FMN 	Multi-Talk 
+154.37000 	159.03750  	WQAB874 	RM	192.8 PL	OWFD 	Fire 	FMN 	Fire-Talk 
+154.25000 	   	WQQP546 	BM	CSQ	Thorp FD 	Fire District 	FMN 	Fire-Talk 
+453.23750 	458.23750  	WPQA350 	RM	100.0 PL	Thorp DPW 	Public Works 	FMN 	Public Works 
+155.05500 	   	WNSH824 	BM	173.8 PL	Unity DPW 	DPW 	FMN 	Public Works 
+146.77500 	146.17500  	N9RRF 	RM	114.8 PL	Skywarn 	Skywarn 	FM 	Ham 
+Abbyland Foods	 DMR Hytera XPT	 Various	Air Communications of Wisconsin (Curtiss)	 LTR Standard	 Curtiss	Dairyland Power Cooperative	 DMR Tier 3	 Various
+Vital Communications	 DMR Hytera XPT	 Various	

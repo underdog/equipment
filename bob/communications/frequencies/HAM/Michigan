@@ -56,12 +56,13 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 443.55000,448.55000,,,N8VPZ,Midwest,Cass
 146.74000,146.14000,103.5 PL,103.5 PL,W8IPQ ,Charlevoix,Cheboygan,Emmet public service communications,Charlevoix
 146.74000,146.14000,103.5 PL,103.5 PL,W8IPQ,Charlevoix,Cheboygan,Emmet public service communications,Cheboygan
-146.64000,146.04000,107.2 PL,107.2 PL,W8EUP,EUPAR (Pickford),Chippewa
-146.98500,146.38500,,,W8EUP,D-Star W8EUP Rockview,Chippewa
-147.21000,147.81000,107.2 PL,107.2 PL,W8EUP,EUPAR (Sault Ste Marie - LSSU campus),Chippewa
-147.33000,147.93000,107.2 PL,107.2 PL,W8ARS,Strongs  ACARN  (Strongs),Chippewa
-147.36000,147.96000,110.9 PL,110.9 PL,110.9 PL,W8ON Dummond Island,Chippewa
-444.90000,449.90000,131.8 PL,,W8EUP,W8EUP 70 CM Link for 146.640, 147.210, 147.330,Chippewa
+146.64000,146.04000,107.2 PL,107.2 PL,W8EUP,EUPAR Rockview,Chippewa
+146.98500,146.38500,107.2 PL,107.2 PL,W8EUP,W8EUP Rockview,Chippewa
+147.21000,147.81000,107.2 PL,107.2 PL,W8EUP,EUPARC (Sault Ste Marie - LSSU campus),Chippewa
+147.33000,147.93000,107.2 PL,107.2 PL,W8ARS,EUPARC McNearny,Chippewa
+147.36000,147.96000,110.9 PL,110.9 PL,W8ON,Dummond Island,Chippewa
+444.13750,449.13750,,,KE8FJW,KE8FJW SSM DMR,Chippewa
+444.90000,449.90000,107.2 PL,107.2 PL,W8EUP,W8EUP 70 CM Link to EUPARC repeaters 146.640, 147.210, 147.330,Chippewa
 147.20000,147.80000,103.5 PL,103.5 PL,KD8TUV	,Skywarn,Clare
 145.44000,144.84000,,,KD8GLJ,ARPSC - Skywarn Primary,Clinton
 147.48000,0.00000,,,,Skywarn - Fallback,Clinton

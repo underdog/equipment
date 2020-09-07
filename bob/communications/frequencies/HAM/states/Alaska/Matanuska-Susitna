@@ -1,25 +1,25 @@
-154.29500 	KNIQ544 	RM	146.2 PL	MatSu FD 1 	Fire/EMS Areawide Repeater (ALMR 13601) 	FMN 	Fire Dispatch 
-154.44500 	WQOE902 	RM	127.3 PL	MatSu FD N 	Fire/EMS Willow Creek Repeater 	FMN 	Fire-Tac 
-154.22000 	WQOE902 	RM	114.8 PL	MatSu FD S 	Fire/EMS Sutton Repeater 	FMN 	Fire-Talk 
-154.22000 	WQRF501 	RM	107.2 PL	MatSu FD Tlk 	Fire/EMS Talkeetna Bald Mountain Repeater 	FMN 	Fire-Tac 
-151.10750 	WNIG611 	RM	CSQ	MatSu FD T 	Fire/EMS Talkeetna VOR Site 	FMN 	Fire-Tac 
-151.10750 	WQRF900 	RM	136.5 PL	MatSu FD M 	Fire/EMS Pt Mackenzie Repeater 	FMN 	Fire-Tac 
-153.78500 	WQRF900 	BM	CSQ	MatSu FD Tc3 	Fire/EMS Tac 3 	FMN 	Fire-Tac 
-154.19000 	KNIQ544 	BM	CSQ	MatSu FD Tc4 	Fire/EMS Tac 5 	FMN 	Fire-Tac 
-154.34000 	WNIG611 	BM	CSQ	MatSu FD Tc6 	Fire/EMS Tac 6 	FMN 	Fire-Tac 
-154.40000 	WNIG611 	BM		MatSu FD Tc9 	Fire/EMS Tac 9 (Air to Ground) 	FM 	Fire-Tac 
-155.58000 	 	BM		MatSu Trial 	Pre-Trial 	FM 	Public Works 
-453.27500 	WPXW939 	RM		MatSu A/C 	Animal Control/Shelter 	FM 	Public Works 
-464.17500 	KNGC836 	BM	203.5 PL	MatSu Sch 1 	First Student School Buses 1 	FM 	Schools 
-461.72500 	WPPB437 	BM	123.0 PL	MatSu Sch 2 	First Student School Buses 2 	FM 	Schools 
-155.37000 	WPEP453 	BM	123.0 PL	Palmer PD Ds 	Police Dispatch 	FM 	Law Dispatch 
-153.86000 	WPEP453 	BM	CSQ	Palmer PD T1 	Police Tac 1 	FM 	Law Tac 
-158.95500 	WPEP453 	BM	CSQ	Palmer PD T2 	Police Tac 2 	FM 	Law Tac 
-154.37000 	KZB358 	BM	100.0 PL	Palmer FD Ds 	Fire Dispatch 	FM 	Fire Dispatch 
-154.07000 	WNUE315 	BM		Palmer FD Tc 	Fire Tactical 	FM 	Fire-Tac 
-155.71500 	KUP232 	BM		Palmer PW 	Public Works 	FM 	Public Works 
-769.10000 	WQIW915 	M		Wasilla Dat1 	Wasilla Police Data 1 	Telm 	Data 
-774.90000 	WQIW915 	M		Wasilla Dat2 	Wasilla Police Data 2 	Telm 	Data 
-150.79000 	KNIQ544 	BM		Wasilla EMS 	Wasilla EMS   	FM 	EMS-Talk 
-Alaska Land Mobile Radio (ALMR)	 Project 25 Phase I	 Statewide	Chugach Electric Association	 LTR Net	 Anchorage	Southcentral Alaska Private Radio Network (ArctiCom)	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Anchorage	TRBONorth	 DMR Motorola Connect Plus (TRBO)	 Anchorage	
+154.29500 	   	KNIQ544 	RM	146.2 PL	MatSu FD 1 	Fire/EMS Areawide Repeater (ALMR 13601) 	FMN 	Fire Dispatch 
+154.44500 	   	WQOE902 	RM	127.3 PL	MatSu FD N 	Fire/EMS Willow Creek Repeater 	FMN 	Fire-Tac 
+154.22000 	   	WQOE902 	RM	114.8 PL	MatSu FD S 	Fire/EMS Sutton Repeater 	FMN 	Fire-Talk 
+154.22000 	   	WQRF501 	RM	107.2 PL	MatSu FD Tlk 	Fire/EMS Talkeetna Bald Mountain Repeater 	FMN 	Fire-Tac 
+151.10750 	   	WNIG611 	RM	CSQ	MatSu FD T 	Fire/EMS Talkeetna VOR Site 	FMN 	Fire-Tac 
+151.10750 	   	WQRF900 	RM	136.5 PL	MatSu FD M 	Fire/EMS Pt Mackenzie Repeater 	FMN 	Fire-Tac 
+153.78500 	   	WQRF900 	BM	CSQ	MatSu FD Tc3 	Fire/EMS Tac 3 	FMN 	Fire-Tac 
+154.19000 	   	KNIQ544 	BM	CSQ	MatSu FD Tc4 	Fire/EMS Tac 5 	FMN 	Fire-Tac 
+154.34000 	   	WNIG611 	BM	CSQ	MatSu FD Tc6 	Fire/EMS Tac 6 	FMN 	Fire-Tac 
+154.40000 	   	WNIG611 	BM		MatSu FD Tc9 	Fire/EMS Tac 9 (Air to Ground) 	FM 	Fire-Tac 
+155.58000 	   	 	BM		MatSu Trial 	Pre-Trial 	FM 	Public Works 
+453.27500 	458.27500  	WPXW939 	RM		MatSu A/C 	Animal Control/Shelter 	FM 	Public Works 
+464.17500 	   	KNGC836 	BM	203.5 PL	MatSu Sch 1 	First Student School Buses 1 	FM 	Schools 
+461.72500 	   	WPPB437 	BM	123.0 PL	MatSu Sch 2 	First Student School Buses 2 	FM 	Schools 
+155.37000 	   	WPEP453 	BM	123.0 PL	Palmer PD Ds 	Police Dispatch 	FM 	Law Dispatch 
+153.86000 	   	WPEP453 	BM	CSQ	Palmer PD T1 	Police Tac 1 	FM 	Law Tac 
+158.95500 	   	WPEP453 	BM	CSQ	Palmer PD T2 	Police Tac 2 	FM 	Law Tac 
+154.37000 	   	KZB358 	BM	100.0 PL	Palmer FD Ds 	Fire Dispatch 	FM 	Fire Dispatch 
+154.07000 	   	WNUE315 	BM		Palmer FD Tc 	Fire Tactical 	FM 	Fire-Tac 
+155.71500 	   	KUP232 	BM		Palmer PW 	Public Works 	FM 	Public Works 
+769.10000 	   	WQIW915 	M		Wasilla Dat1 	Wasilla Police Data 1 	Telm 	Data 
+774.90000 	   	WQIW915 	M		Wasilla Dat2 	Wasilla Police Data 2 	Telm 	Data 
+150.79000 	   	KNIQ544 	BM		Wasilla EMS 	Wasilla EMS   	FM 	EMS-Talk 
+Alaska Land Mobile Radio (ALMR)	 Project 25 Phase I	 Statewide	Chugach Electric Association	 LTR Net	 Anchorage	Southcentral Alaska Private Radio Network (ArctiCom)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Anchorage
+TRBONorth	 DMR Motorola Connect Plus (TRBO)	 Anchorage	

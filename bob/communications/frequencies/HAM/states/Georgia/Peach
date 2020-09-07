@@ -1,26 +1,26 @@
-159.37500 	WQQA980 	RM	49 RAN	PCFD Disp D 	Fire Dispatch - Digital 	NXDNE 	Fire Dispatch 
-155.23500 	WNYN797 	RM	88.5 PL	PCFD Disp A 	Fire Dispatch - Analog 	FMN 	Fire Dispatch 
-154.20500 	KNBW244 	BM	67.0 PL	PCFD TAC 	Fire Tactical 	FMN 	Fire-Tac 
-155.32500 	 	BM	49 RAN	PEMS 911 	EMS Dispatch 	NXDNE 	EMS Dispatch 
-155.34000 	KNAW431 	BM	88.5 PL	NHPC HEAR 	EMS to Navicent Hospital of Peach County 	FMN 	Hospital 
-155.68500 	KYB954 	RM	88.5 PL	PCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-159.09000 	WNNV623 	RM	49 RAN	PCSO Inv 	Sheriff Investigations 	NXDNE 	Law Tac 
-460.22500 	KIJ953 	RM	131.8 PL	PCSO UHF 	Sheriff 	FMN 	Law Talk 
-156.16500 	WNNV623 	RM	23 RAN	PCSO NXDN 	Sheriff 	NXDNE 	Law Tac 
-151.42250 	WQQC620 	RM	49 RAN	PCSO NXDN 	Sheriff Operations 	NXDNE 	Law Tac 
-151.46750 	WQQC620 	RM	49 RAN	PCSO JAIL 	Sheriff Jail Operations 	NXDNE 	Corrections 
-453.05000 	WQHF764 	RM		PC Pub Safty 	Public Safety 	FMN 	Interop 
-453.22500 	WPMF239 	RM	12 RAN	PC WOLF 	Public Safety 	NXDNE 	Interop 
-453.62500 	WQQC895 	RM		PC Pub Works 	Public Works 	NXDNE 	Public Works 
-453.52500 	WQVI380 	RM	118.8 PL	PCBOE Buses 	Board of Education - School Buses 	FMN 	Schools 
-154.75500 	WQTL938 	RM	49 RAN	BPD Dispatch 	Police Dispatch 	NXDNE 	Law Dispatch 
-155.49000 	KVR916 	RM	49 RAN	BPD TAC 	Police TAC 	NXDNE 	Law Tac 
-155.67000 	KVR916 	BM		BPD Simplex 	Police 	NXDNE 	Law Talk 
-154.23500 	 	BM		BFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.23500 	 	BM	27 RAN	BFD Ops 	Fire Operations 	NXDNE 	Fire-Tac 
-151.13000 	WQQA262 	B	49 RAN	FVPD 911 	Police Department 911 	NXDNE 	Law Dispatch 
-156.18000 	WQQA262 	RM	49 RAN	FVPD Disp 	Police Dispatch 	NXDNE 	Law Dispatch 
-151.00250 	WQQA262 	RM	49 RAN	FVFD Disp 	Fire Dispatch 	NXDN 	Fire Dispatch 
-451.25000 	WNRW740 	RM	1 RAN	FVUC Utils 	Utility Commission 	NXDN 	Utilities 
-463.70000 	 	RM	CC 3TG 777SL *	FVSU Security 	Fort Valley State University Security 	DMR 	Security 
+159.37500 	   	WQQA980 	RM	49 RAN	PCFD Disp D 	Fire Dispatch - Digital 	NXDNE 	Fire Dispatch 
+155.23500 	150.79000  	WNYN797 	RM	88.5 PL	PCFD Disp A 	Fire Dispatch - Analog 	FMN 	Fire Dispatch 
+154.20500 	   	KNBW244 	BM	67.0 PL	PCFD TAC 	Fire Tactical 	FMN 	Fire-Tac 
+155.32500 	   	 	BM	49 RAN	PEMS 911 	EMS Dispatch 	NXDNE 	EMS Dispatch 
+155.34000 	   	KNAW431 	BM	88.5 PL	NHPC HEAR 	EMS to Navicent Hospital of Peach County 	FMN 	Hospital 
+155.68500 	   	KYB954 	RM	88.5 PL	PCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+159.09000 	   	WNNV623 	RM	49 RAN	PCSO Inv 	Sheriff Investigations 	NXDNE 	Law Tac 
+460.22500 	465.22500  	KIJ953 	RM	131.8 PL	PCSO UHF 	Sheriff 	FMN 	Law Talk 
+156.16500 	   	WNNV623 	RM	23 RAN	PCSO NXDN 	Sheriff 	NXDNE 	Law Tac 
+151.42250 	154.81500  	WQQC620 	RM	49 RAN	PCSO NXDN 	Sheriff Operations 	NXDNE 	Law Tac 
+151.46750 	154.95000  	WQQC620 	RM	49 RAN	PCSO JAIL 	Sheriff Jail Operations 	NXDNE 	Corrections 
+453.05000 	458.05000  	WQHF764 	RM		PC Pub Safty 	Public Safety 	FMN 	Interop 
+453.22500 	458.22500  	WPMF239 	RM	12 RAN	PC WOLF 	Public Safety 	NXDNE 	Interop 
+453.62500 	458.62500  	WQQC895 	RM		PC Pub Works 	Public Works 	NXDNE 	Public Works 
+453.52500 	458.52500  	WQVI380 	RM	118.8 PL	PCBOE Buses 	Board of Education - School Buses 	FMN 	Schools 
+154.75500 	159.30750  	WQTL938 	RM	49 RAN	BPD Dispatch 	Police Dispatch 	NXDNE 	Law Dispatch 
+155.49000 	155.79000  	KVR916 	RM	49 RAN	BPD TAC 	Police TAC 	NXDNE 	Law Tac 
+155.67000 	   	KVR916 	BM		BPD Simplex 	Police 	NXDNE 	Law Talk 
+154.23500 	   	 	BM		BFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.23500 	   	 	BM	27 RAN	BFD Ops 	Fire Operations 	NXDNE 	Fire-Tac 
+151.13000 	   	WQQA262 	B	49 RAN	FVPD 911 	Police Department 911 	NXDNE 	Law Dispatch 
+156.18000 	   	WQQA262 	RM	49 RAN	FVPD Disp 	Police Dispatch 	NXDNE 	Law Dispatch 
+151.00250 	   	WQQA262 	RM	49 RAN	FVFD Disp 	Fire Dispatch 	NXDN 	Fire Dispatch 
+451.25000 	456.25000  	WNRW740 	RM	1 RAN	FVUC Utils 	Utility Commission 	NXDN 	Utilities 
+463.70000 	468.70000  	 	RM	CC 3TG 777SL *	FVSU Security 	Fort Valley State University Security 	DMR 	Security 
 Houston Peach Regional Radio System (HPRRS)	 Project 25 Phase II	 Various	

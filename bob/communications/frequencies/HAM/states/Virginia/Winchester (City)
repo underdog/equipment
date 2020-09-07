@@ -1,11 +1,13 @@
-154.25000 	WQWY454 	B	110.9 PL	WFRD IO 1 	IO 1 - Paging/Patch to Fire 1 	FMN 	Fire Dispatch 
-155.34000 	KFQ968 	BM	CSQ	EMS HEAR 	EMS HEAR 	FM 	Hospital 
-462.95000 	 	RM	151.4 PL	EMS Call 1 	EMS Call-1 	FM 	Hospital 
-463.07500 	KFQ968 	RM	151.4 PL	EMS Med 4 	EMS Med-4 	FM 	Hospital 
-463.17500 	KFQ968 	RM	151.4 PL	EMS Med 8 	EMS Med-8 	FM 	Hospital 
-159.21000 	WQWY454 	RM	244 DPL	Winc PD VHF 	Police VHF 	FMN 	Law Tac 
-159.06000 	WQWY454 	B	271 DPL	Winc PW/Legacy 	Public Works (Legacy) 	FMN 	Public Works 
-461.92500 	WQSA366 	BM		Handley HS 	Handley High School 	FMN 	Schools 
-47.42000 	WQEL773 		146.2 PL	ARC Winchstr 	American Red Cross - Winchester 	FM 	Emergency Ops 
-47.50000 	WPLX296 		146.2 PL	ARC Linden 	American Red Cross - Linden RPTR 	FM 	Emergency Ops 
+154.25000 	   	WQWY454 	B	110.9 PL	WFRD IO 1 	IO 1 - Paging/Patch to Fire 1 	FMN 	Fire Dispatch 
+155.96250 	   	KAR780 	BM	251 DPL	WFRD IO 2 	IO 2 - TRS talkgroup patch 	FMN 	Fire-Tac 
+154.41500 	   	WQWY454 	B	251 DPL	WFRD IO 3 	IO 3 - TRS talkgroup patch 	FMN 	Fire-Tac 
+155.34000 	   	KFQ968 	BM	CSQ	EMS HEAR 	EMS HEAR 	FM 	Hospital 
+462.95000 	467.95000  	 	RM	151.4 PL	EMS Call 1 	EMS Call-1 	FM 	Hospital 
+463.07500 	468.07500  	KFQ968 	RM	151.4 PL	EMS Med 4 	EMS Med-4 	FM 	Hospital 
+463.17500 	468.17500  	KFQ968 	RM	151.4 PL	EMS Med 8 	EMS Med-8 	FM 	Hospital 
+159.21000 	155.91000  	WQWY454 	RM	244 DPL	Winc PD VHF 	Police VHF 	FMN 	Law Tac 
+159.06000 	   	WQWY454 	B	271 DPL	Winc PW/Legacy 	Public Works (Legacy) 	FMN 	Public Works 
+461.92500 	   	WQSA366 	BM		Handley HS 	Handley High School 	FMN 	Schools 
+47.42000 	   	WQEL773 		146.2 PL	ARC Winchstr 	American Red Cross - Winchester 	FM 	Emergency Ops 
+47.50000 	46.04000  	WPLX296 		146.2 PL	ARC Linden 	American Red Cross - Linden RPTR 	FM 	Emergency Ops 
 Winchester	 Project 25 Phase II	 Winchester	

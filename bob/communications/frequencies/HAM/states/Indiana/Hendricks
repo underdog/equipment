@@ -1,41 +1,42 @@
-154.81500 	WQXR996 	RM	110.9 PL	HNDRKS LAW DISP  	Central Dispatch - Law Enforcement VHF Backup 	FMN 	Law Dispatch 
-156.13500 	WQAI396 	RM	141.3 PL	HNDRKS JAIL OPS 	County Jail Fallback 	FMN 	Corrections 
-155.53500 	KSE404 	RM	110.9 PL	BROWNSBURG PD 	Brownsburg Police  VHF Talkaround 	FMN 	Law Talk 
-155.96250 	KSP309 	RM	023 DPL	HCEMA-VHF OPS 	County Emergency Management VHF 	FMN 	Emergency Ops 
-154.13000 	KSP309 	BM	162 DPL	HC-FIRE NORTH 	County Fire Paging - North 	FMN 	Fire Dispatch 
-153.89000 	KSP309 	BM	162 DPL	HC-FIRE SOUTH 	County Fire Paging - South 	FMN 	Fire Dispatch 
-158.83500 	KSP309 	BM		HC-FIRE OPS1 VHF 	County Fire Operations 1 Backup 	FMN 	Fire-Tac 
-159.29250 	KSP309 	BM		HC-FIRE OPS2 VHF 	County Fire Operations 2 Backup 	FMN 	Fire-Tac 
-151.23500 	KSJ631 	RM	162.2 PL	HNDRKS HWY 1 	Hendricks County Highway Department Ch. 1 	FMN 	Public Works 
-151.13000 	KSJ631 	RM	192.8 PL	HNDRKS HWY 2 	Hendricks County Highway Department Ch. 2 	FMN 	Public Works 
-453.70000 	KNBI611 	RM	110.9 PL	BROWNSBURG PW 	Brownsburg Public Works 	FMN 	Public Works 
-458.16250 	WQBY609 	M		Plnfld Prks1 	Plainfield Parks Department 	FMN 	Public Works 
-458.41250 	WQBY609 	M		Plnfld Prks2 	Plainfield Parks Department 	FMN 	Public Works 
-458.43750 	WQBY609 	M		Plnfld Prks3 	Plainfield Parks Department 	FMN 	Public Works 
-458.83750 	WQBY609 	M		Plnfld Prks4 	Plainfield Parks Department 	FMN 	Public Works 
-463.68750 	WQBY774 	RM		IU Health W 	Security, Maintenance, Disaster Response 	DMR 	Business 
-463.90000 	WQBY774 	RM		IU Health W 	Security, Maintenance, Disaster Response 	DMR 	Business 
-461.10000 	WQLQ746 	RM		ACSD-BUS OPS? 	Avon Community Schools - Bus Operations??? 	FMN 	Schools 
-452.15000 	WQCP513 	RM		ACSD-OPS 1 	Avon Community Schools - Operations 1 	NXDN 	Schools 
-452.97500 	WQCP513 	RM		ACSD-OPS 2 	Avon Community Schools - Operations 2 	NXDN 	Schools 
-464.77500 	WQCP513 	RM		ACSD-OPS 3 	Avon Community Schools - Operations 3 	NXDN 	Schools 
-451.75000 	WQCP513 	RM		ACSD-OPS 4 	Avon Community Schools - Operations 4 	NXDN 	Schools 
-452.12500 	WQCP513 	RM		ACSD-OPS 5 	Avon Community Schools - Operations 5 	NXDN 	Schools 
-461.32500 	WNII734 	RM		BCSC-SAFETY 	Brownsburg Community School Corporation - Security And Safety 	FMN 	Security 
-452.55000 	WPML515 	RM		BCSC-MAINT 	Brownsburg Community School Corporation - Maintenance  	FMN 	Schools 
-451.20000 	WPYV223 	BM		BCSC-OPS1 	Brownsburg Community School Corporation - Operations 1 	NXDN 	Schools 
-452.27500 	WPYV223 	BM		BCSC-OPS2 	Brownsburg Community School Corporation - Operations 2 	NXDN 	Schools 
-452.45000 	WPYV223 	BM		BCSC-OPS3 	Brownsburg Community School Corporation - Operations 3 	NXDN 	Schools 
-461.22500 	WPYV223 	BM		BCSC-OPS4 	Brownsburg Community School Corporation - Operations 4 	NXDN 	Schools 
-461.37500 	WPYV223 	BM		BCSC-OPS5 	Brownsburg Community School Corporation - Operations 5 	NXDN 	Schools 
-461.92500 	WPYV223 	BM		BCSC-OPS6 	Brownsburg Community School Corporation - Operations 6 	NXDN 	Schools 
-462.25000 	WPYV223 	BM		BCSC-OPS7 	Brownsburg Community School Corporation - Operations 7 	NXDN 	Schools 
-151.74500 	WNUC431 	BM		CLRK CRK ES1 	Clarks Creek Elementary School 	FMN 	Schools 
-160.20000 	WNUC431 	RM		CLRK CRK ES 	Clarks Creek Elementary School 	FMN 	Schools 
-452.20000 	WNNA416 	RM		DCS-OPS1 	Danville Community Schools - Operations 1 	NXDN 	Schools 
-463.52500 	WNNA416 	RM		DCS-OPS2 	Danville Community Schools - Operations 2 	NXDN 	Schools 
-464.76250 	WNNA416 	RM		DCS-OPS3 	Danville Community Schools - Operations 3 	NXDN 	Schools 
-452.23750 	WQIB492 	RM	CC 1TG 16776414SL 1	ITCC AVON SEC 	Ivy Tech Community College Avon - Security 	DMR 	Security 
-Eli Lilly	 DMR Motorola Connect Plus (TRBO)	 Various	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Harlan Bakeries	 LTR Standard
- Avon	Hendricks County Power Cooperative	 NXDN NEXEDGE 4800	 Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	J E S and Sons
- LTR Standard	 Indianapolis	
+154.81500 	153.84500  	WQXR996 	RM	110.9 PL	HNDRKS LAW DISP  	Central Dispatch - Law Enforcement VHF Backup 	FMN 	Law Dispatch 
+156.13500 	153.92000  	WQAI396 	RM	141.3 PL	HNDRKS JAIL OPS 	County Jail Fallback 	FMN 	Corrections 
+155.53500 	154.65000  	KSE404 	RM	110.9 PL	BROWNSBURG PD 	Brownsburg Police  VHF Talkaround 	FMN 	Law Talk 
+155.96250 	   	KSP309 	RM	023 DPL	HCEMA-VHF OPS 	County Emergency Management VHF 	FMN 	Emergency Ops 
+154.13000 	   	KSP309 	BM	162 DPL	HC-FIRE NORTH 	County Fire Paging - North 	FMN 	Fire Dispatch 
+153.89000 	   	KSP309 	BM	162 DPL	HC-FIRE SOUTH 	County Fire Paging - South 	FMN 	Fire Dispatch 
+158.83500 	   	KSP309 	BM		HC-FIRE OPS1 VHF 	County Fire Operations 1 Backup 	FMN 	Fire-Tac 
+159.29250 	   	KSP309 	BM		HC-FIRE OPS2 VHF 	County Fire Operations 2 Backup 	FMN 	Fire-Tac 
+151.23500 	159.13500  	KSJ631 	RM	162.2 PL	HNDRKS HWY 1 	Hendricks County Highway Department Ch. 1 	FMN 	Public Works 
+151.13000 	   	KSJ631 	RM	192.8 PL	HNDRKS HWY 2 	Hendricks County Highway Department Ch. 2 	FMN 	Public Works 
+453.70000 	458.70000  	KNBI611 	RM	110.9 PL	BROWNSBURG PW 	Brownsburg Public Works 	FMN 	Public Works 
+458.16250 	   	WQBY609 	M		Plnfld Prks1 	Plainfield Parks Department 	FMN 	Public Works 
+458.41250 	   	WQBY609 	M		Plnfld Prks2 	Plainfield Parks Department 	FMN 	Public Works 
+458.43750 	   	WQBY609 	M		Plnfld Prks3 	Plainfield Parks Department 	FMN 	Public Works 
+458.83750 	   	WQBY609 	M		Plnfld Prks4 	Plainfield Parks Department 	FMN 	Public Works 
+463.68750 	468.68750  	WQBY774 	RM		IU Health W 	Security, Maintenance, Disaster Response 	DMR 	Business 
+463.90000 	468.90000  	WQBY774 	RM		IU Health W 	Security, Maintenance, Disaster Response 	DMR 	Business 
+461.10000 	466.10000  	WQLQ746 	RM		ACSD-BUS OPS? 	Avon Community Schools - Bus Operations??? 	FMN 	Schools 
+452.15000 	457.15000  	WQCP513 	RM		ACSD-OPS 1 	Avon Community Schools - Operations 1 	NXDN 	Schools 
+452.97500 	457.97500  	WQCP513 	RM		ACSD-OPS 2 	Avon Community Schools - Operations 2 	NXDN 	Schools 
+464.77500 	469.77500  	WQCP513 	RM		ACSD-OPS 3 	Avon Community Schools - Operations 3 	NXDN 	Schools 
+451.75000 	456.75000  	WQCP513 	RM		ACSD-OPS 4 	Avon Community Schools - Operations 4 	NXDN 	Schools 
+452.12500 	457.12500  	WQCP513 	RM		ACSD-OPS 5 	Avon Community Schools - Operations 5 	NXDN 	Schools 
+461.32500 	466.32500  	WNII734 	RM		BCSC-SAFETY 	Brownsburg Community School Corporation - Security And Safety 	FMN 	Security 
+452.55000 	457.55000  	WPML515 	RM		BCSC-MAINT 	Brownsburg Community School Corporation - Maintenance  	FMN 	Schools 
+451.20000 	456.20000  	WPYV223 	BM		BCSC-OPS1 	Brownsburg Community School Corporation - Operations 1 	NXDN 	Schools 
+452.27500 	457.27500  	WPYV223 	BM		BCSC-OPS2 	Brownsburg Community School Corporation - Operations 2 	NXDN 	Schools 
+452.45000 	457.45000  	WPYV223 	BM		BCSC-OPS3 	Brownsburg Community School Corporation - Operations 3 	NXDN 	Schools 
+461.22500 	466.22500  	WPYV223 	BM		BCSC-OPS4 	Brownsburg Community School Corporation - Operations 4 	NXDN 	Schools 
+461.37500 	466.37500  	WPYV223 	BM		BCSC-OPS5 	Brownsburg Community School Corporation - Operations 5 	NXDN 	Schools 
+461.92500 	466.92500  	WPYV223 	BM		BCSC-OPS6 	Brownsburg Community School Corporation - Operations 6 	NXDN 	Schools 
+462.25000 	467.25000  	WPYV223 	BM		BCSC-OPS7 	Brownsburg Community School Corporation - Operations 7 	NXDN 	Schools 
+151.74500 	   	WNUC431 	BM		CLRK CRK ES1 	Clarks Creek Elementary School 	FMN 	Schools 
+160.20000 	153.42500  	WNUC431 	RM		CLRK CRK ES 	Clarks Creek Elementary School 	FMN 	Schools 
+452.20000 	457.20000  	WNNA416 	RM		DCS-OPS1 	Danville Community Schools - Operations 1 	NXDN 	Schools 
+463.52500 	468.52500  	WNNA416 	RM		DCS-OPS2 	Danville Community Schools - Operations 2 	NXDN 	Schools 
+464.76250 	469.76250  	WNNA416 	RM		DCS-OPS3 	Danville Community Schools - Operations 3 	NXDN 	Schools 
+152.42000 	   	WPZZ428 	RM		PCSC-BUS 1 	Plainfield Community School Corp Buses Ch. 3 	NXDN 	Schools 
+152.88500 	   	WPZZ428 	RM		PCSC-BUS 2 	Plainfield Community School Corp Buses Ch. 1 	NXDN 	Schools 
+452.23750 	457.23750  	WQIB492 	RM	CC 1TG 16776414SL 1	ITCC AVON SEC 	Ivy Tech Community College Avon - Security 	DMR 	Security 
+Eli Lilly	 DMR Motorola Connect Plus (TRBO)	 Various	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Harlan Bakeries	 LTR Standard	 Avon
+Hendricks County Power Cooperative	 NXDN NEXEDGE 4800	 Multiple	J E S and Sons	 LTR Standard	 Indianapolis	

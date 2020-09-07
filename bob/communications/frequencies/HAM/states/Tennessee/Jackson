@@ -1,17 +1,17 @@
-155.53500 	WYG217 	RM	CC 1TG 2SL 1	JCSD 1D 	Sheriff - Digital 	DMR 	Law Dispatch 
-155.53500 	WYG217 	RM	127.3 PL	JCSD 1A 	Sheriff - Analog 	FMN 	Law Dispatch 
-155.40000 	WPRJ559 	RM		JCEMS D 	EMS - Digital  	DMR 	EMS Dispatch 
-155.40000 	WPRJ559 	RM	127.3 PL	JCEMS A 	EMS - Analog (May not be used anymore) 	FMN 	EMS Dispatch 
-154.19000 	WPRJ560 	RM		JC Fire D 	Fire - Digital 	DMR 	Fire Dispatch 
-154.19000 	WPRJ560 	RM	151.4 PL	JC Fire A 	Fire - Analog 	FMN 	Fire Dispatch 
-155.16000 	WNHB748 	BM	CSQ	JC Paging 	Paging (All Agencies) 	FMN 	Multi-Dispatch 
-154.22000 	WNRU437 	RM		JC Rescue 	Rescue Squad - Analog 	FMN 	Emergency Ops 
-155.71500 	WPFJ406 	RM		JC Rescue 	Rescue Squad - Digital 	DMR 	Emergency Ops 
-155.80500 	WPSK495 	RM	CC 1TG 1SL 1	JC Schools 	Schools 	DMR 	Schools 
-156.22500 	KNGK219 	RM		JC Gov't 	County Government 	FMN 	Other 
-154.36250 	 	RM	CC 9TG 85855SL 1	Jcksn Co Highway 	Highway Department - Digital 	DMR 	Public Works 
-154.36250 	 	RM	CC 9TG 8521454SL 2	Jcksn Co Water 	Water Department - Digital 	DMR 	Public Works 
-155.60250 	WPXK597 	RM	91.5 PL	Gainesboro PD 	Police Department 	FMN 	Law Dispatch 
-155.60250 	WPXK597 	RM	CC 6TG 800SL 1	G-boro PD DMR 	Gainesboro Police DMR 	DMR 	Law Dispatch 
-155.89500 	WPYN813 	BM		Gainesboro 	City Government Citywide Simplex 	FMN 	Multi-Tac 
+155.53500 	154.65000  	WYG217 	RM	CC 1TG 2SL 1	JCSD 1D 	Sheriff - Digital 	DMR 	Law Dispatch 
+155.53500 	154.65000  	WYG217 	RM	127.3 PL	JCSD 1A 	Sheriff - Analog 	FMN 	Law Dispatch 
+155.40000 	150.79000  	WPRJ559 	RM		JCEMS D 	EMS - Digital  	DMR 	EMS Dispatch 
+155.40000 	150.79000  	WPRJ559 	RM	127.3 PL	JCEMS A 	EMS - Analog (May not be used anymore) 	FMN 	EMS Dispatch 
+154.19000 	159.01500  	WPRJ560 	RM		JC Fire D 	Fire - Digital 	DMR 	Fire Dispatch 
+154.19000 	159.01500  	WPRJ560 	RM	151.4 PL	JC Fire A 	Fire - Analog 	FMN 	Fire Dispatch 
+155.16000 	   	WNHB748 	BM	CSQ	JC Paging 	Paging (All Agencies) 	FMN 	Multi-Dispatch 
+154.22000 	153.89000  	WNRU437 	RM		JC Rescue 	Rescue Squad - Analog 	FMN 	Emergency Ops 
+155.71500 	158.88000  	WPFJ406 	RM		JC Rescue 	Rescue Squad - Digital 	DMR 	Emergency Ops 
+155.80500 	155.98000  	WPSK495 	RM	CC 1TG 1SL 1	JC Schools 	Schools 	DMR 	Schools 
+156.22500 	158.98500  	KNGK219 	RM		JC Gov't 	County Government 	FMN 	Other 
+154.36250 	158.98500  	 	RM	CC 9TG 85855SL 1	Jcksn Co Highway 	Highway Department - Digital 	DMR 	Public Works 
+154.36250 	158.98500  	 	RM	CC 9TG 8521454SL 2	Jcksn Co Water 	Water Department - Digital 	DMR 	Public Works 
+155.60250 	159.12750  	WPXK597 	RM	91.5 PL	Gainesboro PD 	Police Department 	FMN 	Law Dispatch 
+155.60250 	159.12750  	WPXK597 	RM	CC 6TG 800SL 1	G-boro PD DMR 	Gainesboro Police DMR 	DMR 	Law Dispatch 
+155.89500 	   	WPYN813 	BM		Gainesboro 	City Government Citywide Simplex 	FMN 	Multi-Tac 
 Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

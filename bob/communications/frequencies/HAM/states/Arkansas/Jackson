@@ -1,32 +1,31 @@
-154.87500 	WPJR470 	RM	107.2 PL	JACK SO VHF 	Sheriff VHF (Primary Ops on AWIN) 	FMN 	Law Dispatch 
-154.87500 	WPJR470 	RM	218.1 PL	JCOEM HIGH OPS 	OEM and Sheriff - High Band Operations 	FMNe 	Emergency Ops 
-155.16000 	WQEB915 	BM		WR EMS DISP 	White River EMS Dispatch (Expired) 	FMN 	EMS Dispatch 
-37.20000 	KSL896 	M		JCOEM LOW CALL 	OEM and Sheriff - OEM 1 Calling 	FM 	Emergency Ops 
-37.22000 	KSL896 	M		JCOEM LOW TAC 	OEM and Sheriff - OEM 2 Tactical 	FM 	Emergency Ops 
-37.24000 	KSL896 	M		JCOEM LOW OPS 	OEM and Sheriff - OEM 3 Operations 	FM 	Emergency Ops 
-37.40000 	KSL896 	M		JCOEM LOW SECURE 	OEM and Sheriff - OEM 4 Secure 	FMe 	Emergency Ops 
-155.95500 	WPVA267 	RM		JACKSON SVCS 	County Government 	FMN 	Multi-Talk 
-154.98750 	WQEU669 	RM		GRUBBS FIRE 	Grubbs Fire - Dispatch 	FMN 	Fire Dispatch 
-154.22000 	WNIM360 	BM		GRUBBS FD 2 	Grubbs Fire - Tactical 	FMN 	Fire-Tac 
-154.20500 	WNYK879 	BM		AM-RICH FD 	Amagon-Richwood Vol. Fire Dept. Dispatch 	FMN 	Fire Dispatch 
-451.12500 	WPUV477 	RM		CCRWS GRUBBS WP 	Cross County Rural Water Systems (Grubbs Water Patrol) 	FMN 	Utilities 
-154.32500 	WPVS222 	RM		DIAZ FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
-155.59500 	WQHJ922 	RM	250.3 PL	JPORT FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
-153.74000 	KAO300 	RM	156.7 PL	NEWPORT FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-155.20500 	KXZ555 	BM		UNITY HEALTH EMS 	EMS - Dispatch 	FMN 	EMS Dispatch 
-155.31000 	WNUB258 	RM	156.7 PL	NEWPORT PD 	Police - Dispatch 	FMN 	Law Dispatch 
-155.34000 	WSL780 	BM	CSQ	NHH SERN 	Newport Harris Hospital ER (SERN) 	FMN 	Hospital 
-154.05500 	KFP299 	BM		NEWPORT WP 	Water Patrol  	FMN 	Utilities 
-154.46375 	WFM406 	BM		FECC SCADA 	Farmers Electric Coop (SCADA for system) 	FMN 	Utilities 
-155.02500 	WNSU385 	RM		NEWPORT DPW 	DPW 	FMN 	Public Works 
-453.22500 	WNXA395 	RM		NEWPORT SVCS 	City Services 	FMN 	Public Works 
-461.22500 	WPLV302 	RM		WCMC-NEWPORT 	White County Medical Center Newport - Security/Operations 	FMN 	Business 
-154.11500 	WQAP307 	RM		SWIFTON FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
-154.75500 	WPMI545 	RM		SWIFTON POLICE 	Police - Dispatch 	FMN 	Law Dispatch 
-154.41500 	WPJR470 	RM	183.5 PL	TUCK SVCS DISP 	City Services (Fire/Police/EMS/DPW) - Dispatch 	FMN 	Multi-Dispatch 
-153.74000 	KAO300 	RM	156.7 PL	EMFD Dispatch 	Dispatch 	FMN 	Fire Dispatch 
-154.60000 	 	M	072 DPL	EMFD OPS (MURS) 	Operations (MURS) 	FMN 	Fire-Tac 
-151.82000 	 	M	732 DPL	EMFD TAC (MURS) 	Tactical (MURS) 	FMN 	Fire-Tac 
-153.77000 	WQTN374 	BM		Weldon VFD 	Fire 	FMN 	Fire Dispatch 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	
+154.87500 	159.01500  	WPJR470 	RM	107.2 PL	JACK SO VHF 	Sheriff VHF (Primary Ops on AWIN) 	FMN 	Law Dispatch 
+154.87500 	150.01500  	WPJR470 	RM	218.1 PL	JCOEM HIGH OPS 	OEM and Sheriff - High Band Operations 	FMNe 	Emergency Ops 
+155.16000 	   	WQEB915 	BM		WR EMS DISP 	White River EMS Dispatch (Expired) 	FMN 	EMS Dispatch 
+37.20000 	   	KSL896 	M		JCOEM LOW CALL 	OEM and Sheriff - OEM 1 Calling 	FM 	Emergency Ops 
+37.22000 	   	KSL896 	M		JCOEM LOW TAC 	OEM and Sheriff - OEM 2 Tactical 	FM 	Emergency Ops 
+37.24000 	   	KSL896 	M		JCOEM LOW OPS 	OEM and Sheriff - OEM 3 Operations 	FM 	Emergency Ops 
+37.40000 	   	KSL896 	M		JCOEM LOW SECURE 	OEM and Sheriff - OEM 4 Secure 	FMe 	Emergency Ops 
+155.95500 	153.96500  	WPVA267 	RM		JACKSON SVCS 	County Government 	FMN 	Multi-Talk 
+154.98750 	153.79250  	WQEU669 	RM		GRUBBS FIRE 	Grubbs Fire - Dispatch 	FMN 	Fire Dispatch 
+154.22000 	   	WNIM360 	BM		GRUBBS FD 2 	Grubbs Fire - Tactical 	FMN 	Fire-Tac 
+154.20500 	   	WNYK879 	BM		AM-RICH FD 	Amagon-Richwood Vol. Fire Dept. Dispatch 	FMN 	Fire Dispatch 
+451.12500 	456.12500  	WPUV477 	RM		CCRWS GRUBBS WP 	Cross County Rural Water Systems (Grubbs Water Patrol) 	FMN 	Utilities 
+154.32500 	150.79000  	WPVS222 	RM		DIAZ FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
+155.59500 	151.04000  	WQHJ922 	RM	250.3 PL	JPORT FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
+153.74000 	158.77500  	KAO300 	RM	156.7 PL	NEWPORT FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+155.20500 	   	KXZ555 	BM		UNITY HEALTH EMS 	EMS - Dispatch 	FMN 	EMS Dispatch 
+155.31000 	155.91000  	WNUB258 	RM	156.7 PL	NEWPORT PD 	Police - Dispatch 	FMN 	Law Dispatch 
+155.34000 	   	WSL780 	BM	CSQ	NHH SERN 	Newport Harris Hospital ER (SERN) 	FMN 	Hospital 
+154.05500 	   	KFP299 	BM		NEWPORT WP 	Water Patrol  	FMN 	Utilities 
+154.46375 	   	WFM406 	BM		FECC SCADA 	Farmers Electric Coop (SCADA for system) 	FMN 	Utilities 
+155.02500 	153.92000  	WNSU385 	RM		NEWPORT DPW 	DPW 	FMN 	Public Works 
+453.22500 	458.22500  	WNXA395 	RM		NEWPORT SVCS 	City Services 	FMN 	Public Works 
+461.22500 	466.22500  	WPLV302 	RM		WCMC-NEWPORT 	White County Medical Center Newport - Security/Operations 	FMN 	Business 
+154.11500 	151.11500  	WQAP307 	RM		SWIFTON FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.75500 	155.79000  	WPMI545 	RM		SWIFTON POLICE 	Police - Dispatch 	FMN 	Law Dispatch 
+154.41500 	159.07500  	WPJR470 	RM	183.5 PL	TUCK SVCS DISP 	City Services (Fire/Police/EMS/DPW) - Dispatch 	FMN 	Multi-Dispatch 
+153.74000 	158.77500  	KAO300 	RM	156.7 PL	EMFD Dispatch 	Dispatch 	FMN 	Fire Dispatch 
+154.60000 	   	 	M	072 DPL	EMFD OPS (MURS) 	Operations (MURS) 	FMN 	Fire-Tac 
+151.82000 	   	 	M	732 DPL	EMFD TAC (MURS) 	Tactical (MURS) 	FMN 	Fire-Tac 
+153.77000 	   	WQTN374 	BM		Weldon VFD 	Fire 	FMN 	Fire Dispatch 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various

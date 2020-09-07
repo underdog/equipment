@@ -1,26 +1,25 @@
-151.13000 	WPMS287 	B	CSQ	Lapeer Fire 	County Fire Dispatch 	FMN 	Fire Dispatch 
-461.52500 	KNDK672 	RM		MclLapHosp Sec. 	Hospital Security 	FMN 	Security 
-463.00000 	WPIN723 	RM	151.4 PL	MclLapHosp MED 1 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
-463.02500 	WPIN723 	RM	151.4 PL	MclLapHosp MED 2 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
-463.05000 	WPIN723 	RM	151.4 PL	MclLapHosp MED 3 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
-463.07500 	WPIN723 	RM	151.4 PL	MclLapHosp MED 4 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
-463.10000 	WPIN723 	RM	151.4 PL	MclLapHosp MED 5 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
-463.12500 	WPIN723 	RM	151.4 PL	MclLapHosp MED 6 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
-463.15000 	WPIN723 	RM	151.4 PL	MclLapHosp MED 7 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
-463.17500 	WPIN723 	RM	151.4 PL	MclLapHosp MED 8 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
-152.00750 	KSS934 	BM		MclLaprHosp Page 	Hospital Paging 	FMN 	Hospital 
-461.47500 	WPBZ623 	RM		Almont Schl Bus 	Transportation 	FMN 	Schools 
-464.52500 	WNGA577 	RM		Imlay CitySchBus 	Transportation 	FMN 	Schools 
-452.80000 	WRI586 	RM	CC 1TG 810SL 1	CommSchl Buses 1 	School Bus Transportation 1 	DMR 	Schools 
-464.92500 	WRI586 	RM	CC 1TG *SL *	CommSchl Buses 2 	School Bus Transportation 2 	DMR 	Schools 
-456.43750 	WQNI276 	M		Lapeer Sch Sec 	Security/Ops 	FMN 	Schools 
-456.83750 	WQNI276 	M		Lapeer Sch Sec 	Security/Ops 	FMN 	Schools 
-456.90000 	WQNI276 	M		Lapeer Sch Sec 	Security/Ops 	FMN 	Schools 
-457.23750 	WQNI276 	M		Lapeer Sch Sec 	Security/Ops 	FMN 	Schools 
-457.50000 	WQNI276 	M		Lapeer Sch Sec 	Security/Ops 	FMN 	Schools 
-151.74500 	KXA791 	BM		Lapeer Int. Sch 	Transportation - Primary 	FM 	Schools 
-464.77500 	WNCG984 	RM	306 DPL	 NBranch Sch Bus 	Transportation (Middle/High School) 	FMN 	Schools 
-123.00000 	WQBK640 	RM		CTAF 	Common Traffic Advisory Frequency (CTAF) 	AM 	Aircraft 
-134.05000 	WQOT991 	RM		AWOS 	Automated Weather Observing Station (AWOS) 	AM 	Aircraft 
-Consumers Energy	 EDACS Networked Standard	 Various	Lapeer County Medical Facility (Suncrest Daycare)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lapeer	Robinson Communications	 NXDN NEXEDGE 9600
- Bad Axe	
+151.13000 	   	WPMS287 	B	CSQ	Lapeer Fire 	County Fire Dispatch 	FMN 	Fire Dispatch 
+461.52500 	466.52500  	KNDK672 	RM		MclLapHosp Sec. 	Hospital Security 	FMN 	Security 
+463.00000 	468.00000  	WPIN723 	RM	151.4 PL	MclLapHosp MED 1 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
+463.02500 	468.02500  	WPIN723 	RM	151.4 PL	MclLapHosp MED 2 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
+463.05000 	468.05000  	WPIN723 	RM	151.4 PL	MclLapHosp MED 3 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
+463.07500 	468.07500  	WPIN723 	RM	151.4 PL	MclLapHosp MED 4 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
+463.10000 	468.10000  	WPIN723 	RM	151.4 PL	MclLapHosp MED 5 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
+463.12500 	468.12500  	WPIN723 	RM	151.4 PL	MclLapHosp MED 6 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
+463.15000 	468.15000  	WPIN723 	RM	151.4 PL	MclLapHosp MED 7 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
+463.17500 	468.17500  	WPIN723 	RM	151.4 PL	MclLapHosp MED 8 	ALS Ambulance-to-Hospital 	FMN 	Hospital 
+152.00750 	   	KSS934 	BM		MclLaprHosp Page 	Hospital Paging 	FMN 	Hospital 
+461.47500 	466.47500  	WPBZ623 	RM		Almont Schl Bus 	Transportation 	FMN 	Schools 
+464.52500 	469.52500  	WNGA577 	RM		Imlay CitySchBus 	Transportation 	FMN 	Schools 
+452.80000 	457.80000  	WRI586 	RM	CC 1TG 810SL 1	CommSchl Buses 1 	School Bus Transportation 1 	DMR 	Schools 
+464.92500 	469.92500  	WRI586 	RM	CC 1TG *SL *	CommSchl Buses 2 	School Bus Transportation 2 	DMR 	Schools 
+456.43750 	   	WQNI276 	M		Lapeer Sch Sec 	Security/Ops 	FMN 	Schools 
+456.83750 	   	WQNI276 	M		Lapeer Sch Sec 	Security/Ops 	FMN 	Schools 
+456.90000 	   	WQNI276 	M		Lapeer Sch Sec 	Security/Ops 	FMN 	Schools 
+457.23750 	   	WQNI276 	M		Lapeer Sch Sec 	Security/Ops 	FMN 	Schools 
+457.50000 	   	WQNI276 	M		Lapeer Sch Sec 	Security/Ops 	FMN 	Schools 
+151.74500 	   	KXA791 	BM		Lapeer Int. Sch 	Transportation - Primary 	FM 	Schools 
+464.77500 	469.77500  	WNCG984 	RM	306 DPL	 NBranch Sch Bus 	Transportation (Middle/High School) 	FMN 	Schools 
+123.00000 	   	WQBK640 	RM		CTAF 	Common Traffic Advisory Frequency (CTAF) 	AM 	Aircraft 
+134.05000 	   	WQOT991 	RM		AWOS 	Automated Weather Observing Station (AWOS) 	AM 	Aircraft 
+Consumers Energy	 EDACS Networked Standard	 Various	Lapeer County Medical Facility (Suncrest Daycare)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lapeer	Robinson Communications	 NXDN NEXEDGE 9600	 Bad Axe

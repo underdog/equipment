@@ -1,33 +1,33 @@
-151.38500 	KTR546 	RM	118.8 PL	CCSO 1 Disp 	Sheriff Dispatch  	FMN 	Law Dispatch 
-155.01000 	KIL390 	RM	118.8 PL	CCSO 2 Alt 	Sheriff Alternate (Shared with Landfill and Road Dept. 	FMN 	Law Tac 
-154.65000 	 	M	118.8 PL	CCSO 3 Survl 	Sheriff Surveillance  NOT LICENSED 	FMN 	Law Tac 
-154.84500 	KTR546 	BM	118.8 PL	CCSO 8 MRD 	Sheriff MRD / Search and Rescue 	FMN 	Interop 
-158.94500 	KIL390 	BM		CCSO  	Sheriff 	FMN 	Law Talk 
-155.88000 	KXX311 	RM	118.8 PL	CCFD Disp 	Fire/EMS Dispatch (County Wide) 	FMN 	Fire Dispatch 
-155.16000 	WYZ563 	BM	118.8 PL	CCFD Tac 	Fire/EMS Tac 	FMN 	Fire-Tac 
-154.35500 	 	RM	118.8 PL	CCFD 	Fire  NOT LICENSED 	FMN 	Fire-Tac 
-155.11500 	KXX311 	RM		CCFD/EMS 	Fire/EMS 	FMN 	Fire-Talk 
-159.06000 	WNZY952 	BM		CC Loc Gov 	Local Government 	FMN 	Other 
-158.73000 	WNZY952 	BM		CCLoc Gov 	Local Government 	FMN 	Other 
-155.01000 	KIL390 	RM	118.8 PL	CC Roads 	Road Department and Landfill 	FMN 	Public Works 
-452.07500 	WPFY615 	RM		CCBOE Buses 	Board of Education School Buses (TG 5000 - Encrypted) 	DMRE 	Schools 
-461.20000 	WPFY615 	BM		CCBOE 	Board of Education 	FMN 	Schools 
-464.10000 	WPFY615 	BM		CCBOE 	Board of Education 	FMN 	Schools 
-464.97500 	WQNV502 	RM		CCBOE CCHS 	Board of Education Camden County High School 	FMN 	Schools 
-155.11500 	KXX311 	BM	118.8 PL	KPD Dispatch 	Police Dispatch LISTED AS CAMDEN FIRE 	FMN 	Law Dispatch 
-154.84500 	KTZ309 	BM		KPD MRD 	Police MRD 	FMN 	Interop 
-158.73000 	KTZ309 	BM	118.8 PL	KPD TAC 5 	Police Tactical   	FMN 	Law Tac 
-155.88000 	WNKQ608 	BM		KFD Dispatch 	Fire (Dispatched by Camden County) 	FMN 	Fire Dispatch 
-154.34000 	 		118.8 PL	KFD Ch 4 	Fireground  NOT LICENSED 	FMN 	Fire-Tac 
-453.88750 	WNKQ608 	BM		KFD PAC/RT 	Fire Vehicle Extender 	FMN 	Fire-Talk 
-453.75000 	WNLC411 	RM	223 DPL	Public Works 	Public Works 	FMN 	Public Works 
-156.24000 	KIM245 	RM	118.8 PL	SMPD Disp 	Police Dispatch 	FMN 	Law Dispatch 
-154.84500 	KTR546 	BM		SMPD MRD 	Police MRD 	FMN 	Interop 
-460.02500 	KIM245 	RM		SMPD UHF 	Police UHF 	FMN 	Law Talk 
-154.32500 	WPTL538 	RM	118.8 PL	SMFD FG 	Fireground 	FMN 	Fire-Tac 
-153.86750 	WQEY446 	RM		SM Loc Gov 	Local Government 	FMN 	Other 
-151.25750 	WQEY446 	RM		PAC/RT 	Vehicle Repeater 	FMN 	Other 
-153.79250 	WQEY446 	BM		PAC/RT 	Vehicle Repeater 	FMN 	Other 
-154.98000 	WNDR558 	RM	118.8 PL	Public Works 	Public Works 	FMN 	Public Works 
-155.74500 	WNGW938 	BM	118.8 PL	Public Works 	Public Works  EXPIRED 09/2011 	FMN 	Public Works 
-FDARN Network	 DMR Conventional Networked	 Dunedin	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	
+151.38500 	156.06000  	KTR546 	RM	118.8 PL	CCSO 1 Disp 	Sheriff Dispatch  	FMN 	Law Dispatch 
+155.01000 	153.96500  	KIL390 	RM	118.8 PL	CCSO 2 Alt 	Sheriff Alternate (Shared with Landfill and Road Dept. 	FMN 	Law Tac 
+154.65000 	   	 	M	118.8 PL	CCSO 3 Survl 	Sheriff Surveillance  NOT LICENSED 	FMN 	Law Tac 
+154.84500 	   	KTR546 	BM	118.8 PL	CCSO 8 MRD 	Sheriff MRD / Search and Rescue 	FMN 	Interop 
+158.94500 	   	KIL390 	BM		CCSO  	Sheriff 	FMN 	Law Talk 
+155.88000 	153.75500  	KXX311 	RM	118.8 PL	CCFD Disp 	Fire/EMS Dispatch (County Wide) 	FMN 	Fire Dispatch 
+155.16000 	   	WYZ563 	BM	118.8 PL	CCFD Tac 	Fire/EMS Tac 	FMN 	Fire-Tac 
+154.35500 	   	 	RM	118.8 PL	CCFD 	Fire  NOT LICENSED 	FMN 	Fire-Tac 
+155.11500 	153.81500  	KXX311 	RM		CCFD/EMS 	Fire/EMS 	FMN 	Fire-Talk 
+159.06000 	   	WNZY952 	BM		CC Loc Gov 	Local Government 	FMN 	Other 
+158.73000 	   	WNZY952 	BM		CCLoc Gov 	Local Government 	FMN 	Other 
+155.01000 	153.96500  	KIL390 	RM	118.8 PL	CC Roads 	Road Department and Landfill 	FMN 	Public Works 
+452.07500 	457.07500  	WPFY615 	RM		CCBOE Buses 	Board of Education School Buses (TG 5000 - Encrypted) 	DMRE 	Schools 
+461.20000 	   	WPFY615 	BM		CCBOE 	Board of Education 	FMN 	Schools 
+464.10000 	   	WPFY615 	BM		CCBOE 	Board of Education 	FMN 	Schools 
+464.97500 	469.97500  	WQNV502 	RM		CCBOE CCHS 	Board of Education Camden County High School 	FMN 	Schools 
+155.11500 	153.81500  	KXX311 	BM	118.8 PL	KPD Dispatch 	Police Dispatch LISTED AS CAMDEN FIRE 	FMN 	Law Dispatch 
+154.84500 	   	KTZ309 	BM		KPD MRD 	Police MRD 	FMN 	Interop 
+158.73000 	   	KTZ309 	BM	118.8 PL	KPD TAC 5 	Police Tactical   	FMN 	Law Tac 
+155.88000 	153.77500  	WNKQ608 	BM		KFD Dispatch 	Fire (Dispatched by Camden County) 	FMN 	Fire Dispatch 
+154.34000 	   	 		118.8 PL	KFD Ch 4 	Fireground  NOT LICENSED 	FMN 	Fire-Tac 
+453.88750 	   	WNKQ608 	BM		KFD PAC/RT 	Fire Vehicle Extender 	FMN 	Fire-Talk 
+453.75000 	458.75000  	WNLC411 	RM	223 DPL	Public Works 	Public Works 	FMN 	Public Works 
+156.24000 	159.06000  	KIM245 	RM	118.8 PL	SMPD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+154.84500 	   	KTR546 	BM		SMPD MRD 	Police MRD 	FMN 	Interop 
+460.02500 	465.02500  	KIM245 	RM		SMPD UHF 	Police UHF 	FMN 	Law Talk 
+154.32500 	150.80500  	WPTL538 	RM	118.8 PL	SMFD FG 	Fireground 	FMN 	Fire-Tac 
+153.86750 	159.06750  	WQEY446 	RM		SM Loc Gov 	Local Government 	FMN 	Other 
+151.25750 	159.79750  	WQEY446 	RM		PAC/RT 	Vehicle Repeater 	FMN 	Other 
+153.79250 	159.11250  	WQEY446 	BM		PAC/RT 	Vehicle Repeater 	FMN 	Other 
+154.98000 	151.32500  	WNDR558 	RM	118.8 PL	Public Works 	Public Works 	FMN 	Public Works 
+155.74500 	   	WNGW938 	BM	118.8 PL	Public Works 	Public Works  EXPIRED 09/2011 	FMN 	Public Works 
+FDARN Network	 DMR Conventional Networked	 Dunedin	

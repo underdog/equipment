@@ -1,88 +1,95 @@
-154.86000 	WPXU646 	RM	141.3 PL	DeKalb Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
-154.77000 	KSA291 	M	141.3 PL	DeK Sherif Tac10 	Sheriff: Tactical (Tac 10) 	FMN 	Law Tac 
-155.25000 	KSA291 	BM	77.0 PL	DeKalb Police 	{Link to/Back-Up} DeKalb City Police Dispatch (rarely used) 	FMN 	Law Dispatch 
-154.01000 	WPEX986 	BM	114.8 PL	DeKalb SheriffBM 	Sheriff (DeKalb, Sycamore) 	FMN 	Law Tac 
-460.58750 	WPEX986 	M		DeK Sheriff RF1 	Sheriff: Receive Links to 154.01 	FMN 	Law Tac 
-465.58750 	WPEX986 	M		DeK Sheriff RF2 	Sheriff: Receive Links to 154.01 	FMN 	Law Tac 
-153.48500 	WPJP732 	RM	192.8 PL	DeKalbCountyFire 	Fire: Countywide Dispatch  	FMN 	Fire Dispatch 
-154.07000 	KAS657 	BM	CSQ	DeKalb Fire Main 	Fire: Main (Fireground) 	FMN 	Fire-Tac 
-159.12000 	KFF244 	RM	146.2 PL	DeKalb Highway 1 	Highway Department (Road Maintenance, Plows) 	FMN 	Public Works 
-159.18000 	KFF244 	RM		DeKalb Highway 2 	Highway Department (may not be used) 	FMN 	Public Works 
-453.83750 	WNWU479 	M		DeKalb Highway U 	Highway Department  	FMN 	Public Works 
-154.95000 	KA5825 	M	110.9 PL	NCNTF Ops 	Primary Ground/Aircraft Surveillance - Old (see SC21) 	FMN 	Law Tac 
-155.05500 	KA5825 	M	110.9 PL	I-REACH 1109 	Statewide Interagency Mutual Aid (backup to SC21 ops) 	FMN 	Interop 
-155.40000 	WPVT262 	M		aTec EMS 	EMS 	FMN 	EMS Dispatch 
-464.42500 	WNHU864 	RM		KCH Ops 	Operations 	FMN 	Business 
-155.34000 	WNXP458 	B	88.5 PL	MERCI1 88.5 	Patient Reports 	FMN 	Hospital 
-463.00000 	WQCJ679 	RM	103.5 PL	MED-1 103.5 	Patient Reports 	FMN 	Hospital 
-462.85000 	WQGM441 	B		KCH Paging 	Paging 	Telm 	Data 
-155.34000 	WPRF621 	B	91.5 PL	MERCI1 91.5  	Patient Reports 	FMN 	Hospital 
-462.87500 	WQJG315 	B		VWCH Paging 	Staff Paging  	Telm 	Data 
-158.74500 	KYX915 	BM	141.3 PL	DeKalb Twp Roads 	DeKalb Township Roads (All townships?) 	FMN 	Public Works 
-155.86500 	KJC531 	RM	100.0 PL	Cortland PubWrks 	Public Works 	FMN 	Public Works 
-155.25000 	KNEQ824 	RM	77.0 PL	DeKalb Police 	Police: Dispatch (Backup to Starcom21) 	FMN 	Law Dispatch 
-155.58750 	WPHP218 	RM	311 DPL	DeKalb City Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-153.95000 	KAS657 	M	311 DPL	DeKCity Fire Tac 	Fire: Special Ops 	FMN 	Fire Dispatch 
-458.93750 	WPQE905 	M		DeKalb Water 	Public Works: Water Division 	FMN 	Public Works 
-155.41500 	WPHP218 	RM	136.5 PL	DeKalb Zone 	Building / Code Enforcement Division 	FMN 	Public Works 
-453.67500 	WPLX336 	RM		DeKalb Parks 1 	Parks Department 	FMN 	Public Works 
-155.82000 	WQX225 	BM		DeKlb Sanitary 	De Kalb Sanitary District 	FMN 	Public Works 
-155.64000 	WPUK791 	RM	141.3 PL	Sy/Ge Police 	(OLD) Police: Dispatch - Mobiles (w/ Sycamore) 	FMN 	Law Dispatch 
-154.80000 	KTN241 	RM	141.3 PL	Genea PD Tac 	(OLD) Police: Dispatch - Portables (w/ Sycamore) 	FMN 	Law Dispatch 
-154.74000 	KTN241 	RM		Genea Police 	Police 	FMN 	Law Tac 
-453.42500 	WPBT707 	RM		Geneoa PubWrks 	Publc Works 	FMN 	Public Works 
-154.44500 	WPRR345 	BM		G-K Fire ?? 	Fire 	FMN 	Fire Dispatch 
-155.29500 	KVK304 	BM		G-K RescueSquad  	G-K Rescue Squad  	FMN 	Fire-Tac 
-153.98000 	WPNV575 	M		Kirlklnd PubWrks 	Public Works: Street 	FMN 	Public Works 
-453.55000 	WQBT607 	M		Shabbona PW1 	Village / Public Works 	FMN 	Public Works 
-458.55000 	WQBT607 	M		Shabbona PW2 	Village / Public Works 	FMN 	Public Works 
-158.74500 	WPFS751 	BM		Somo Village 	Village Ops 	FMN 	Public Works 
-154.14500 	KSD584 	BM	156.7 PL	Sycamore Fire 	Fire: Local 	FMN 	Fire-Tac 
-150.80500 	WQFK699 	M		Sycamr Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-158.79750 	WPSD859 	RM		Sycamore Gvt 	City Operations 	FMN 	Public Works 
-461.81250 	WQKA318 	F		Sycamore WDD 	Water Distribution Data  	Telm 	Data 
-860.18750 	WNVE333 	RM		Laidlaw DeKalb 	Bus Ops (De Kalb) 	FMN 	Schools 
-464.57500 	WNWV422 	RM		DeK Schools A 	Security / Maintenance (800 W. Locust) 	FMN 	Schools 
-452.35000 	WNWV422 	RM		DeK Schools B 	Security / Maintenance (1515 S. 4th.) 	FMN 	Schools 
-464.70000 	WNWV422 	RM		DeK Schools C 	Security / Maintenance (507 E. Taylor)  	FMN 	Schools 
-453.97500 	WQPX971 	RM		GK School Ops 	Operations [was 464.575 100.0 Expired 2013] 	FMN 	Schools 
-155.22000 	KNDA341 	BM		Dist 425 Buses 	School Buses 	FMN 	Schools 
-45.96000 	KNFP391 	BM		Malta School Bus 	Buses 	FMN 	Schools 
-154.54000 	WNGB314 	BM	CSQ	Sand School VHF 	Operations 	FMN 	Schools 
-463.22500 	WPFC911 	RM		Sand Sch UHF 	Operations 	FMN 	Schools 
-464.92500 	WNDN322 	RM	82.5 PL	Sycamore Sch Bus 	Buses 	FMN 	Schools 
-451.32500 	WPVS836 	RM	CC 8TG *SL *	Kish College 1 	Security 	DMR 	Security 
-464.47500 	WNRP767 	M		Kish College 2 	Operations / Maintenance 	DMR 	Schools 
-453.60000 	WNGN215 	RM	162.2 PL	NIU Police 2 	Campus Police  	FMN 	Law Dispatch 
-453.87500 	 	RM	141.3 PL	NIU Transporttn 	Transportation [Ch 7] [NO LICENSE] 	FMN 	Law Dispatch 
-453.60000 	KNGJ627 	RM	162.2 PL	NIU Campus Ops 	Campus Operations  	FMN 	Law Dispatch 
-453.65000 	KNGJ628 	RM	162.2 PL	NIU Maint A 	Campus Maintenance (Police Secondary?) 	FMN 	Schools 
-452.77500 	WQVI737 	RM	189.9 PL	NIU Maint B 	Maintenance 	FMN 	Schools 
-461.90000 	WPXN985 	RM	141.3 PL	NIU Campus 	Holmes Student Center /or/ stadium fitness center 	FMN 	Schools 
-463.85000 	 	M	88.5 PL	NIU Weather 	Weather Research (was 82.5 ?) 	FMN 	Schools 
-462.82500 	KDU803 	B		NIU Paging 	Campus Paging 	Telm 	Data 
-452.36250 	WQIP449 	RM	100.0 PL	URH Ops 1 	University Residence Hall 	FMN 	Schools 
-452.45000 	WQIP449 	RM		URH Ops 2 	University Residence Hall 	FMN 	Schools 
-453.60000 	WNGN215 	RM	141.3 PL	NIU Stadium 	Stadium Operations 	FMN 	Schools 
-451.45000 	WPWD335 	RM	073 DPL	NIU Conv 1 	Convention Center (Low Power Repeater?) 	FMN 	Schools 
-452.40000 	WPWD335 	RM	073 DPL	NIU Conv 2 	Convention Center/Football Stadium Operations (Low Power) 	FMN 	Schools 
-461.40000 	WPWD335 	RM	073 DPL	NIU Conv 3 	Convention Center (Low Power Repeater?) 	FMN 	Schools 
-462.17500 	WPWD335 	RM	073 DPL	NIU Conv 4 	Convention Center/Football Stadium Operations (Low Power) 	FMN 	Schools 
-463.62500 	WPWD335 	RM	073 DPL	NIU Conv 5 	Convention Center/Football Stadium Operations (Low Power) 	FMN 	Schools 
-464.51250 	 	RM	073 DPL	NIU Conv 6 	Convention Center [NO LICENSE?] 	FMN 	Schools 
-461.02500 	WPWD335 	M		NIU Conv 7 	Convention Center 	FMN 	Schools 
-462.27500 	WPWD335 	M	141.3 PL	NIU Conv 8 	Convention Center/Football Stadium Operations 	FMN 	Schools 
-464.15000 	WPWD335 	M		NIU Conv 9 	Convention Center 	FMN 	Schools 
-466.02500 	WPWD335 	M	141.3 PL	NIU Conv 10 	Convention Center/Football Stadium Operations  	FMN 	Schools 
-467.27500 	WPWD335 	M		NIU Conv 11 	Convention Center 	FMN 	Schools 
-469.15000 	WPWD335 	M	141.3 PL	NIU Conv 12 	Convention Center/Football Stadium Operations  	FMN 	Schools 
-161.64000 	KLY306 	B		NIU Remote 1 	Remote Pickup for Radio Station 	FM 	Media 
-161.67000 	KLY306 	B		NIU Remote 2 	Remote Pickup for Radio Station 	FM 	Media 
-155.14500 	KBV745 	BM		DKB Airport 	DeKalb Taylor Municipal Airport  	FMN 	Public Works 
-133.50000 	 	B	CSQ	Chi Apr/Dep 	Approach/Departure (Chicago) 	AM 	Aircraft 
-122.70000 	KIE7 	B	CSQ	DKB UNICOM 	UNICOM/CTAF 	AM 	Aircraft 
-458.08750 	WPLT672 	M		DKB AWOS 	Airport: AWOS 	Telm 	Data 
-119.07500 	WCM2 	BM		DKB AWOS 	Weather AWOS-3 	AM 	Data 
- A-Beep / Tri-Star Communications - UHF (NW IL)	 LTR Standard	 Loves Park	A-Beep / Tri-Star Communications - VHF (NW IL)	 LTR Standard	 Plato Center	A-Beep UHF - De Kalb	 LTR Standard
- De Kalb	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL	DeKalb County Public Safety	 Project 25 Phase II	 	Ventronics (Metro Chicago)
- LTR Standard	 Metro Chicago	
+154.86000 	155.97000  	WPXU646 	RM	141.3 PL	DeKalb Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
+154.77000 	   	KSA291 	M	141.3 PL	DeK Sherif Tac10 	Sheriff: Tactical (Tac 10) 	FMN 	Law Tac 
+155.25000 	   	KSA291 	BM	77.0 PL	DeKalb Police 	{Link to/Back-Up} DeKalb City Police Dispatch (rarely used) 	FMN 	Law Dispatch 
+154.01000 	   	WPEX986 	BM	114.8 PL	DeKalb SheriffBM 	Sheriff (DeKalb, Sycamore) 	FMN 	Law Tac 
+460.58750 	   	WPEX986 	M		DeK Sheriff RF1 	Sheriff: Receive Links to 154.01 	FMN 	Law Tac 
+465.58750 	   	WPEX986 	M		DeK Sheriff RF2 	Sheriff: Receive Links to 154.01 	FMN 	Law Tac 
+153.48500 	159.01500  	WPJP732 	RM	192.8 PL	DeKalbCountyFire 	Fire: Countywide Dispatch  	FMN 	Fire Dispatch 
+154.07000 	   	KAS657 	BM	CSQ	DeKalb Fire Main 	Fire: Main (Fireground) 	FMN 	Fire-Tac 
+159.12000 	150.92000  	KFF244 	RM	146.2 PL	DeKalb Highway 1 	Highway Department (Road Maintenance, Plows) 	FMN 	Public Works 
+159.18000 	   	KFF244 	RM		DeKalb Highway 2 	Highway Department (may not be used) 	FMN 	Public Works 
+453.83750 	   	WNWU479 	M		DeKalb Highway U 	Highway Department  	FMN 	Public Works 
+154.95000 	   	KA5825 	M	110.9 PL	NCNTF Ops 	Primary Ground/Aircraft Surveillance - Old (see SC21) 	FMN 	Law Tac 
+155.05500 	   	KA5825 	M	110.9 PL	I-REACH 1109 	Statewide Interagency Mutual Aid (backup to SC21 ops) 	FMN 	Interop 
+155.40000 	   	WPVT262 	M		aTec EMS 	EMS 	FMN 	EMS Dispatch 
+464.42500 	469.42500  	WNHU864 	RM		KCH Ops 	Operations 	FMN 	Business 
+155.34000 	   	WNXP458 	B	88.5 PL	MERCI1 88.5 	Patient Reports 	FMN 	Hospital 
+463.00000 	468.00000  	WQCJ679 	RM	103.5 PL	MED-1 103.5 	Patient Reports 	FMN 	Hospital 
+462.85000 	   	WQGM441 	B		KCH Paging 	Paging 	Telm 	Data 
+155.34000 	   	WPRF621 	B	91.5 PL	MERCI1 91.5  	Patient Reports 	FMN 	Hospital 
+462.87500 	   	WQJG315 	B		VWCH Paging 	Staff Paging  	Telm 	Data 
+158.74500 	   	KYX915 	BM	141.3 PL	DeKalb Twp Roads 	DeKalb Township Roads (All townships?) 	FMN 	Public Works 
+155.86500 	153.75500  	KJC531 	RM	100.0 PL	Cortland PubWrks 	Public Works 	FMN 	Public Works 
+155.25000 	156.09000  	KNEQ824 	RM	77.0 PL	DeKalb Police 	Police: Dispatch (Backup to Starcom21) 	FMN 	Law Dispatch 
+155.58750 	153.81500  	WPHP218 	RM	311 DPL	DeKalb City Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+153.95000 	   	KAS657 	M	311 DPL	DeKCity Fire Tac 	Fire: Special Ops 	FMN 	Fire Dispatch 
+458.93750 	   	WPQE905 	M		DeKalb Water 	Public Works: Water Division 	FMN 	Public Works 
+155.41500 	153.81500  	WPHP218 	RM	136.5 PL	DeKalb Zone 	Building / Code Enforcement Division 	FMN 	Public Works 
+453.67500 	458.67500  	WPLX336 	RM		DeKalb Parks 1 	Parks Department 	FMN 	Public Works 
+155.82000 	   	WQX225 	BM		DeKlb Sanitary 	De Kalb Sanitary District 	FMN 	Public Works 
+155.64000 	156.03000  	WPUK791 	RM	141.3 PL	Sy/Ge Police 	(OLD) Police: Dispatch - Mobiles (w/ Sycamore) 	FMN 	Law Dispatch 
+154.80000 	156.03000  	KTN241 	RM	141.3 PL	Genea PD Tac 	(OLD) Police: Dispatch - Portables (w/ Sycamore) 	FMN 	Law Dispatch 
+154.74000 	155.67000  	KTN241 	RM		Genea Police 	Police 	FMN 	Law Tac 
+453.42500 	458.42500  	WPBT707 	RM		Geneoa PubWrks 	Publc Works 	FMN 	Public Works 
+154.44500 	   	WPRR345 	BM		G-K Fire ?? 	Fire 	FMN 	Fire Dispatch 
+155.29500 	   	KVK304 	BM		G-K RescueSquad  	G-K Rescue Squad  	FMN 	Fire-Tac 
+153.98000 	   	WPNV575 	M		Kirlklnd PubWrks 	Public Works: Street 	FMN 	Public Works 
+154.99500 	153.90500  	WSI994 	RM	103.5 PL	Sandwich EMA 1 	Emergency Management [Ch 1] 	FMN 	Emergency Ops 
+155.80500 	   	WQU318 	BM	315 DPL	Sandwich EMA 2 	Emergency Management [Ch 2] 	FMN 	Emergency Ops 
+155.92500 	   	WSI994 	BM		Sandwich EMA 3 	Emergency Management [Ch 3] 	FMN 	Emergency Ops 
+155.92500 	   	WSI994 	BM		Sandwich EMA 5 	Emergency Management [Ch 5] 	FMN 	Emergency Ops 
+39.18000 	   	WSI994 	BM	CSQ	Sandwich EMA L1 	Emergency Management [L1] 	FM 	Emergency Ops 
+39.90000 	   	WSI994 	BM		Sand Police Port 	Emergency Management [L2] 	FM 	Emergency Ops 
+45.28000 	   	WSI994 	B	315 DPL	Sand EMA Alerts 	EMA: Alerting Receivers 	FM 	Emergency Ops 
+460.55000 	465.55000  	KNCC851 	RM	162 DPL	Sand PublicWorks 	Public Works (D114 in) 	FMN 	Public Works 
+453.55000 	   	WQBT607 	M		Shabbona PW1 	Village / Public Works 	FMN 	Public Works 
+458.55000 	   	WQBT607 	M		Shabbona PW2 	Village / Public Works 	FMN 	Public Works 
+158.74500 	   	WPFS751 	BM		Somo Village 	Village Ops 	FMN 	Public Works 
+154.14500 	   	KSD584 	BM	156.7 PL	Sycamore Fire 	Fire: Local 	FMN 	Fire-Tac 
+150.80500 	   	WQFK699 	M		Sycamr Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+158.79750 	154.71750  	WPSD859 	RM		Sycamore Gvt 	City Operations 	FMN 	Public Works 
+461.81250 	   	WQKA318 	F		Sycamore WDD 	Water Distribution Data  	Telm 	Data 
+860.18750 	815.18750  	WNVE333 	RM		Laidlaw DeKalb 	Bus Ops (De Kalb) 	FMN 	Schools 
+464.57500 	469.57500  	WNWV422 	RM		DeK Schools A 	Security / Maintenance (800 W. Locust) 	FMN 	Schools 
+452.35000 	457.35000  	WNWV422 	RM		DeK Schools B 	Security / Maintenance (1515 S. 4th.) 	FMN 	Schools 
+464.70000 	469.70000  	WNWV422 	RM		DeK Schools C 	Security / Maintenance (507 E. Taylor)  	FMN 	Schools 
+453.97500 	458.97500  	WQPX971 	RM		GK School Ops 	Operations [was 464.575 100.0 Expired 2013] 	FMN 	Schools 
+155.22000 	   	KNDA341 	BM		Dist 425 Buses 	School Buses 	FMN 	Schools 
+45.96000 	   	KNFP391 	BM		Malta School Bus 	Buses 	FMN 	Schools 
+154.54000 	   	WNGB314 	BM	CSQ	Sand School VHF 	Operations 	FMN 	Schools 
+463.22500 	468.22500  	WPFC911 	RM		Sand Sch UHF 	Operations 	FMN 	Schools 
+464.92500 	469.92500  	WNDN322 	RM	82.5 PL	Sycamore Sch Bus 	Buses 	FMN 	Schools 
+451.32500 	456.32500  	WPVS836 	RM	CC 8TG *SL *	Kish College 1 	Security 	DMR 	Security 
+464.47500 	   	WNRP767 	M		Kish College 2 	Operations / Maintenance 	DMR 	Schools 
+453.60000 	458.60000  	WNGN215 	RM	162.2 PL	NIU Police 2 	Campus Police  	FMN 	Law Dispatch 
+453.87500 	458.87500  	 	RM	141.3 PL	NIU Transporttn 	Transportation [Ch 7] [NO LICENSE] 	FMN 	Law Dispatch 
+453.60000 	458.60000  	KNGJ627 	RM	162.2 PL	NIU Campus Ops 	Campus Operations  	FMN 	Law Dispatch 
+453.65000 	458.65000  	KNGJ628 	RM	162.2 PL	NIU Maint A 	Campus Maintenance (Police Secondary?) 	FMN 	Schools 
+452.77500 	457.77500  	WQVI737 	RM	189.9 PL	NIU Maint B 	Maintenance 	FMN 	Schools 
+461.90000 	466.90000  	WPXN985 	RM	141.3 PL	NIU Campus 	Holmes Student Center /or/ stadium fitness center 	FMN 	Schools 
+463.85000 	   	 	M	88.5 PL	NIU Weather 	Weather Research (was 82.5 ?) 	FMN 	Schools 
+462.82500 	   	KDU803 	B		NIU Paging 	Campus Paging 	Telm 	Data 
+452.36250 	457.36250  	WQIP449 	RM	100.0 PL	URH Ops 1 	University Residence Hall 	FMN 	Schools 
+452.45000 	457.45000  	WQIP449 	RM		URH Ops 2 	University Residence Hall 	FMN 	Schools 
+453.60000 	458.60000  	WNGN215 	RM	141.3 PL	NIU Stadium 	Stadium Operations 	FMN 	Schools 
+451.45000 	456.45000  	WPWD335 	RM	073 DPL	NIU Conv 1 	Convention Center (Low Power Repeater?) 	FMN 	Schools 
+452.40000 	457.40000  	WPWD335 	RM	073 DPL	NIU Conv 2 	Convention Center/Football Stadium Operations (Low Power) 	FMN 	Schools 
+461.40000 	466.40000  	WPWD335 	RM	073 DPL	NIU Conv 3 	Convention Center (Low Power Repeater?) 	FMN 	Schools 
+462.17500 	467.17500  	WPWD335 	RM	073 DPL	NIU Conv 4 	Convention Center/Football Stadium Operations (Low Power) 	FMN 	Schools 
+463.62500 	468.62500  	WPWD335 	RM	073 DPL	NIU Conv 5 	Convention Center/Football Stadium Operations (Low Power) 	FMN 	Schools 
+464.51250 	469.51250  	 	RM	073 DPL	NIU Conv 6 	Convention Center [NO LICENSE?] 	FMN 	Schools 
+461.02500 	   	WPWD335 	M		NIU Conv 7 	Convention Center 	FMN 	Schools 
+462.27500 	   	WPWD335 	M	141.3 PL	NIU Conv 8 	Convention Center/Football Stadium Operations 	FMN 	Schools 
+464.15000 	   	WPWD335 	M		NIU Conv 9 	Convention Center 	FMN 	Schools 
+466.02500 	   	WPWD335 	M	141.3 PL	NIU Conv 10 	Convention Center/Football Stadium Operations  	FMN 	Schools 
+467.27500 	   	WPWD335 	M		NIU Conv 11 	Convention Center 	FMN 	Schools 
+469.15000 	   	WPWD335 	M	141.3 PL	NIU Conv 12 	Convention Center/Football Stadium Operations  	FMN 	Schools 
+161.64000 	   	KLY306 	B		NIU Remote 1 	Remote Pickup for Radio Station 	FM 	Media 
+161.67000 	   	KLY306 	B		NIU Remote 2 	Remote Pickup for Radio Station 	FM 	Media 
+155.14500 	   	KBV745 	BM		DKB Airport 	DeKalb Taylor Municipal Airport  	FMN 	Public Works 
+133.50000 	   	 	B	CSQ	Chi Apr/Dep 	Approach/Departure (Chicago) 	AM 	Aircraft 
+122.70000 	   	KIE7 	B	CSQ	DKB UNICOM 	UNICOM/CTAF 	AM 	Aircraft 
+458.08750 	   	WPLT672 	M		DKB AWOS 	Airport: AWOS 	Telm 	Data 
+119.07500 	   	WCM2 	BM		DKB AWOS 	Weather AWOS-3 	AM 	Data 
+A-Beep / Tri-Star Communications - VHF (NW IL)	 LTR Standard	 Plato Center	A-Beep UHF - De Kalb	 LTR Standard	 De Kalb	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL
+DeKalb County Public Safety	 Project 25 Phase II	 	Diga-Talk	 NXDN NEXEDGE 4800	 Various	Ventronics (Metro Chicago)	 LTR Standard	 Metro Chicago

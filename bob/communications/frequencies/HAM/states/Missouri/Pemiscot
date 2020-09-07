@@ -1,40 +1,39 @@
-154.06250 	KAB243 	RM	146.2 PL	Pem Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
-155.70750 	KAB243 	RM		Pem Sheriff B 	Sheriff: Testing 7/17 	FMN 	Law Dispatch 
-156.15000 	KAB243 	M	203.5 PL	Pem Shrf TacV 	Sheriff: Tactical (also Marine F-3) 	FMN 	Law Tac 
-453.38750 	WPXQ473 	RM	71.9 PL	Pem Shrf Tac U 	Sheriff: Tactical 	FMN 	Law Tac 
-155.79000 	 	BM	700 NAC	Bootheel DTF 	Bootheel Drug Task Force (BDTF) (encrypted) 	P25E 	Law Tac 
-155.73000 	KAB243 	BM	CSQ	MO S/W Shrf 	Sheriff: Statewide Net (former Dispatch) 	FMN 	Law Talk 
-155.05500 	WQQ330 	BM	141.3 PL	Pem EMS/EMA 	EMS: Paging/EMA Alerting 	FMN 	Multi-Dispatch 
-155.22000 	WNXM325 	RM		PMH Sec/Ops 	Operations 	FMN 	Business 
-155.16000 	WNXM325 	BM	146.2 PL	PHM MedSquad 	EMS: Dispatch [Medsquad] 	FMN 	EMS Dispatch 
-155.34000 	WNXM325 	BM		HEAR-340 	Patient Reports 	FMN 	Hospital 
-463.88750 	WQUD313 	RM	CC 5TG 1050SL 1	Medic1 AR Steele 	1050- Medic One: Dispatch - Arkansas (Steele) 	DMR 	EMS Dispatch 
-463.88750 	WQUD313 	RM	CC 5TG 2050SL 2	Medic1 MO Steele 	2050- Medic One: Dispatch - Missouri (Steele) 	DMR 	EMS Dispatch 
-153.02000 	WQXL475 	RM	CC 1TG 299SL 2	Caruth Police 	Police: Dispatch 	DMRE 	Law Dispatch 
-154.86000 	WQCB628 	RM	290 NAC	Caru Police Tac 	Police: Tac 	P25E 	Law Tac 
-155.89500 	KXC934 	BM	203.5 PL	Caru PD Back-Up 	Police: Back-Up 	FMN 	Law Dispatch 
-154.22750 	WQIL849 	RM	203.5 PL	Caruthr Fire 	Fire: Dispatch 	FMN 	Law Talk 
-155.11500 	KXC934 	BM		Caruth Local 	Public Works / Police / Fire / EMA 	FMN 	Multi-Dispatch 
-154.41500 	KXA232 	BM	131.8 PL	Caru Fireground 	Fireground 	FMN 	Fire-Tac 
-159.87750 	WQIN400 	F		Caruth Water 	Water Data 	Telm 	Public Works 
-151.20500 	KVT550 	BM		StFR Levee 	St. Francis Levee District (Caruthersville) 	FMN 	Public Works 
-154.37000 	WQNI452 	RM		Cooter Police  	Police: Dispatch (unidentified Digital Mode) 	NXDN 	Law Dispatch 
-154.37000 	WQNI452 	RM		Cooter Fire 	Fire: Tone Outs 	FMN 	Fire Dispatch 
-155.74500 	KNHY869 	BM		Hayti Police 	Police: Dispatch 	FMN 	Law Dispatch 
-155.88000 	KNHY869 	BM	141.3 PL	Hayti Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-153.81500 	WPBT706 	BM		Hayti Water 	Water Department 	FMN 	Public Works 
-154.99500 	WNXS938 	BM		Hayti HsAuth 	Housing Authority 	FMN 	Public Works 
-158.82000 	WQOE276 	BM		Hayti PublicWork 	Public Works 	FMN 	Public Works 
-155.59500 	WNWK647 	BM		Holland Police 	Police 	FMN 	Law Dispatch 
-155.92500 	WNWA340 	BM		Steele Police 	Police: Dispatch 	FMN 	Law Dispatch 
-154.16000 	WPKW542 	RM		Steele FireN 	Fire: Dispatch (155.8 listed as 146.2) 	FMN 	Fire Dispatch 
-155.77500 	KUU404 	BM		Stelle DPW 	Public Works (Fire/Police Backup) 	FMN 	Public Works 
-154.07000 	WPXJ552 	BM	67.0 PL	Wardell Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-151.74500 	WNMW767 	RM	031 DPL	Caruth School 	Operations 	FMN 	Schools 
-151.55000 	WPTN397 	RM		PCSSD Ops 1 	Operations 	FMN 	Schools 
-151.67000 	WPTN397 	RM		PCSSD Ops 2 	Operations 	FMN 	Schools 
-151.73000 	WPTN397 	RM		PCSSD Ops 3 	Operations 	FMN 	Schools 
-167.26250 	 	RM	167 NAC	FBI Hayti MO 	FBI Repeater (Hayti) 	P25 	Federal 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Battles Communications (NXDN-173)	 NXDN NEXEDGE 9600	 SEMO / NE AR	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard
- Various	Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport	 SouthEast MO	Lady Luck Casino (Caruthersville)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Caruthersville	West Tennessee Communications
- DMR Motorola Capacity Plus Single Site (TRBO)	 Steele	
+154.06250 	   	KAB243 	RM	146.2 PL	Pem Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
+155.70750 	   	KAB243 	RM		Pem Sheriff B 	Sheriff: Testing 7/17 	FMN 	Law Dispatch 
+156.15000 	   	KAB243 	M	203.5 PL	Pem Shrf TacV 	Sheriff: Tactical (also Marine F-3) 	FMN 	Law Tac 
+453.38750 	458.38750  	WPXQ473 	RM	71.9 PL	Pem Shrf Tac U 	Sheriff: Tactical 	FMN 	Law Tac 
+155.79000 	   	 	BM	700 NAC	Bootheel DTF 	Bootheel Drug Task Force (BDTF) (encrypted) 	P25E 	Law Tac 
+155.73000 	   	KAB243 	BM	CSQ	MO S/W Shrf 	Sheriff: Statewide Net (former Dispatch) 	FMN 	Law Talk 
+155.05500 	   	WQQ330 	BM	141.3 PL	Pem EMS/EMA 	EMS: Paging/EMA Alerting 	FMN 	Multi-Dispatch 
+155.22000 	159.39000  	WNXM325 	RM		PMH Sec/Ops 	Operations 	FMN 	Business 
+155.16000 	   	WNXM325 	BM	146.2 PL	PHM MedSquad 	EMS: Dispatch [Medsquad] 	FMN 	EMS Dispatch 
+155.34000 	   	WNXM325 	BM		HEAR-340 	Patient Reports 	FMN 	Hospital 
+463.88750 	468.88750  	WQUD313 	RM	CC 5TG 1050SL 1	Medic1 AR Steele 	1050- Medic One: Dispatch - Arkansas (Steele) 	DMR 	EMS Dispatch 
+463.88750 	468.88750  	WQUD313 	RM	CC 5TG 2050SL 2	Medic1 MO Steele 	2050- Medic One: Dispatch - Missouri (Steele) 	DMR 	EMS Dispatch 
+153.02000 	159.64500  	WQXL475 	RM	CC 1TG 299SL 2	Caruth Police 	Police: Dispatch 	DMRE 	Law Dispatch 
+154.86000 	158.89500  	WQCB628 	RM	290 NAC	Caru Police Tac 	Police: Tac 	P25E 	Law Tac 
+155.89500 	   	KXC934 	BM	203.5 PL	Caru PD Back-Up 	Police: Back-Up 	FMN 	Law Dispatch 
+154.22750 	158.94750  	WQIL849 	RM	203.5 PL	Caruthr Fire 	Fire: Dispatch 	FMN 	Law Talk 
+155.11500 	   	KXC934 	BM		Caruth Local 	Public Works / Police / Fire / EMA 	FMN 	Multi-Dispatch 
+154.41500 	   	KXA232 	BM	131.8 PL	Caru Fireground 	Fireground 	FMN 	Fire-Tac 
+159.87750 	   	WQIN400 	F		Caruth Water 	Water Data 	Telm 	Public Works 
+151.20500 	   	KVT550 	BM		StFR Levee 	St. Francis Levee District (Caruthersville) 	FMN 	Public Works 
+154.37000 	156.03000  	WQNI452 	RM		Cooter Police  	Police: Dispatch (unidentified Digital Mode) 	NXDN 	Law Dispatch 
+154.37000 	156.03000  	WQNI452 	RM		Cooter Fire 	Fire: Tone Outs 	FMN 	Fire Dispatch 
+155.74500 	   	KNHY869 	BM		Hayti Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.88000 	   	KNHY869 	BM	141.3 PL	Hayti Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+153.81500 	   	WPBT706 	BM		Hayti Water 	Water Department 	FMN 	Public Works 
+154.99500 	   	WNXS938 	BM		Hayti HsAuth 	Housing Authority 	FMN 	Public Works 
+158.82000 	   	WQOE276 	BM		Hayti PublicWork 	Public Works 	FMN 	Public Works 
+155.59500 	   	WNWK647 	BM		Holland Police 	Police 	FMN 	Law Dispatch 
+155.92500 	   	WNWA340 	BM		Steele Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.16000 	155.79750  	WPKW542 	RM		Steele FireN 	Fire: Dispatch (155.8 listed as 146.2) 	FMN 	Fire Dispatch 
+155.77500 	   	KUU404 	BM		Stelle DPW 	Public Works (Fire/Police Backup) 	FMN 	Public Works 
+154.07000 	   	WPXJ552 	BM	67.0 PL	Wardell Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+151.74500 	158.14500  	WNMW767 	RM	031 DPL	Caruth School 	Operations 	FMN 	Schools 
+151.55000 	159.54000  	WPTN397 	RM		PCSSD Ops 1 	Operations 	FMN 	Schools 
+151.67000 	159.61500  	WPTN397 	RM		PCSSD Ops 2 	Operations 	FMN 	Schools 
+151.73000 	159.67500  	WPTN397 	RM		PCSSD Ops 3 	Operations 	FMN 	Schools 
+167.26250 	   	 	RM	167 NAC	FBI Hayti MO 	FBI Repeater (Hayti) 	P25 	Federal 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Battles Communications (NXDN-173)	 NXDN NEXEDGE 9600	 SEMO / NE AR	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard	 Various
+Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport	 SouthEast MO	Lady Luck Casino (Caruthersville)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Caruthersville	West Tennessee Communications	 DMR Motorola Capacity Plus Single Site (TRBO)	 Steele

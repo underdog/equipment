@@ -1,20 +1,20 @@
-154.25000 	KFK524 	RM	365 DPL	FD Disp/Tac1 	Fire Tactical 1 / Dispatch 	FMN 	Fire Dispatch 
-159.34500 	WPOX402 	M	CSQ	BCFD FG/Tac3 	Fire Tactical 3 / Fireground 	FM 	Fire-Tac 
-151.32500 	WPOX402 	RM	203.5 PL	BCFD FG/Tac4 	Fire Tactical 4 / Fireground 	FM 	Fire-Tac 
-155.25750 	WQPB770 	RM	100.0 PL	BCFD FG/Tac6 	Fire Tactical 6 / Fireground 	FMN 	Fire-Tac 
-463.00000 	WPKE663 	BM	94.8 PL	MED-1 	EMS Dispatch 	FM 	EMS Dispatch 
-463.02500 	WPKE663 	BM	94.8 PL	MED-2 	County Medical Coordination 	FM 	EMS-Tac 
-463.06250 	WPKE663 	BM	118.8 PL	MED-32 	EMS-to-Shands AGH 	FM 	Hospital 
-463.07500 	WPKE663 	BM	118.8 PL	MED-62 	EMS-to-Shands University of Florida 	FM 	Hospital 
-463.08750 	WPKE663 	BM	118.8 PL	MED-42 	EMS-to-N.Florida Regional Medical Center 	FM 	Hospital 
-463.16250 	WQDL726 	RM	94.8 PL	MED-72 	EMS-to-Shands Starke 	FM 	Hospital 
-463.17500 	WPKE663 	BM	118.8 PL	MED 8 	EMS-to-Gainesville VA Medical Center 	FM 	Hospital 
-462.95000 	WQDL726 	RM		MED 9 	VC-1 (Assigned by JFRD Dispatch) 	FM 	EMS-Talk 
-462.97500 	WQDL726 	RM		MED10 	VC-2 	FM 	EMS-Talk 
-154.74000 	WQH444 	RM	156.7 PL	Bradford SO1 	Sheriff Primary [110.9 PL input] 	FM 	Law Dispatch 
-155.17500 	WPKE663 	BM		Road Dept 	Road and Bridge Department 	FM 	Public Works 
-155.22000 	WNJS472 	BM	156.7 PL	BradfordSchl 	District Schools - Buses 	FM 	Schools 
-151.95500 	 	M	203.5 PL	BHS 	Bradford High School 	FMN 	Schools 
-153.98000 	KNNN920 	RM	162.2 PL	Starke PD 	Police Dispatch 	FM 	Law Dispatch 
-158.85750 	WQGW302 	RM		Starke DPW 	Department of Public Works 	FMN 	Public Works 
-Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	
+154.25000 	159.34500  	KFK524 	RM	365 DPL	FD Disp/Tac1 	Fire Tactical 1 / Dispatch 	FMN 	Fire Dispatch 
+159.34500 	   	WPOX402 	M	CSQ	BCFD FG/Tac3 	Fire Tactical 3 / Fireground 	FM 	Fire-Tac 
+151.32500 	153.81500  	WPOX402 	RM	203.5 PL	BCFD FG/Tac4 	Fire Tactical 4 / Fireground 	FM 	Fire-Tac 
+155.25750 	151.16750  	WQPB770 	RM	100.0 PL	BCFD FG/Tac6 	Fire Tactical 6 / Fireground 	FMN 	Fire-Tac 
+463.00000 	468.00000  	WPKE663 	BM	94.8 PL	MED-1 	EMS Dispatch 	FM 	EMS Dispatch 
+463.02500 	468.02500  	WPKE663 	BM	94.8 PL	MED-2 	County Medical Coordination 	FM 	EMS-Tac 
+463.06250 	468.06250  	WPKE663 	BM	118.8 PL	MED-32 	EMS-to-Shands AGH 	FM 	Hospital 
+463.07500 	468.07500  	WPKE663 	BM	118.8 PL	MED-62 	EMS-to-Shands University of Florida 	FM 	Hospital 
+463.08750 	468.08750  	WPKE663 	BM	118.8 PL	MED-42 	EMS-to-N.Florida Regional Medical Center 	FM 	Hospital 
+463.16250 	468.16250  	WQDL726 	RM	94.8 PL	MED-72 	EMS-to-Shands Starke 	FM 	Hospital 
+463.17500 	468.17500  	WPKE663 	BM	118.8 PL	MED 8 	EMS-to-Gainesville VA Medical Center 	FM 	Hospital 
+462.95000 	467.95000  	WQDL726 	RM		MED 9 	VC-1 (Assigned by JFRD Dispatch) 	FM 	EMS-Talk 
+462.97500 	467.97500  	WQDL726 	RM		MED10 	VC-2 	FM 	EMS-Talk 
+154.74000 	155.83500  	WQH444 	RM	156.7 PL	Bradford SO1 	Sheriff Primary [110.9 PL input] 	FM 	Law Dispatch 
+155.17500 	   	WPKE663 	BM		Road Dept 	Road and Bridge Department 	FM 	Public Works 
+155.22000 	   	WNJS472 	BM	156.7 PL	BradfordSchl 	District Schools - Buses 	FM 	Schools 
+151.95500 	   	 	M	203.5 PL	BHS 	Bradford High School 	FMN 	Schools 
+153.98000 	155.55000  	KNNN920 	RM	162.2 PL	Starke PD 	Police Dispatch 	FM 	Law Dispatch 
+158.85750 	153.74750  	WQGW302 	RM		Starke DPW 	Department of Public Works 	FMN 	Public Works 
+Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	

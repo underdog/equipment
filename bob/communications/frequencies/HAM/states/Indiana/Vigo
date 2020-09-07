@@ -1,63 +1,62 @@
-453.27500 	WQOL652 	RM	88.5 PL	VCFD-SOUTHLINK 	County Fire South Link 	FMN 	Fire Dispatch 
-154.31000 	WPBX841 	BM	186.2 PL	84VCF-OPS  	Countywide Fire Tone Out (Locution) 	FMN 	Fire Dispatch 
-155.34000 	KZ9451 	M	210.7 PL	THFDIHERN 	Terre Haute Fire Paramedic Units 	FMN 	Hospital 
-154.13000 	WQJ940 	BM	186.2 PL	84-OCVFD 	Otter Creek Township VFD Tactical 	FMN 	Fire-Talk 
-154.19000 	WPDV970 	BM	186.2 PL	84VCF-OPS 	Countywide Fire Response (800 Select Simulcast) 	FMN 	Fire Dispatch 
-153.44000 	WPUW596 	RM	10 RAN	TC1 EMS Disp 	EMS Dispatch (Ch 1) 	NXDNE 	EMS Dispatch 
-159.55500 	WPUW596 	RM	82.5 PL	TC2 WhlchrDi 	Wheelchair Dispatch (Ch 2) 	FMN 	Business 
-158.29500 	WQFR305 	BM	127.3 PL	Lifeline F-1 	Terre Haute Dispatch 	FMN 	EMS Dispatch 
-155.56500 	WNIY771 	RM	186.2 PL	Vigo Law Simlcst 	Dispatch (Hoosier SAFE-T Dispatch Simulcast) 	FMN 	Law Dispatch 
-155.08500 	WPXP953 	RM	CC 3TG 10SL 1	Vigo Jail/Crthse 	Jail and Courthouse 	DMRE 	Corrections 
-153.38750 	KJX406 	RM	CC 3TG 20SL 2	Vigo JVJC 	Juvenile Justice Center 	DMRE 	Corrections 
-158.76000 	WPRI203 	RM	186.2 PL	Vigo EMA 	EMA 	FMN 	Emergency Ops 
-151.02500 	KNIN984 	RM	10 RAN	Vigo Hiway D 	Highway Department 	NXDN 	Public Works 
-453.30000 	WNUZ442 	RM	CC 4TG 1000SL 1	Vigo Park CW 	Parks Dept Countywide 	DMR 	Public Works 
-453.31250 	WNUZ442 	RM	CC 4TG 3000SL 1	Vigo Park HT 	Parks Dept Hawthorn Park 	DMR 	Public Works 
-453.41250 	WNUZ442 	RM		Vigo Park PC 	Parks Dept Prairie Creek Park 	DMR 	Public Works 
-453.51250 	WRBM233 	RM		Vigo Park FW 	Parks Dept Fowler Park 	DMR 	Public Works 
-451.90000 	WPXF808 	RM	CC 3TG 71009SL 1	TH Hous Sec 	Housing Authority Security 	DMRE 	Security 
-453.32500 	WQSZ925 	RM	CC 5TG 9902SL 1	TH Hous Mnt 	Housing Authority Maintenance 	DMR 	Public Works 
-453.43750 	WQSZ925 	RM	CC 5TG 9902SL 1	TH Hous Mnt 	Housing Authority Maintenance 	DMR 	Public Works 
-857.73750 	WQCM664 	RM	156.7 PL	TH AirAuth 	Terre Haute International Airport Authority 	FMN 	Public Works 
-461.35000 	WPOY671 	RM	131.8 PL	ISU FM Main 	Main Channel 	FMN 	Schools 
-464.02500 	WPOY671 	RM	131.8 PL	ISU FM Scndr 	Secondary Channel 	FMN 	Schools 
-461.65000 	WPOY671 	RM	131.8 PL	ISU FM Bldng 	Building Operations 	FMN 	Schools 
-461.87500 	WPOY671 	RM	131.8 PL	ISU FM Elec  	Electrical Dept 	FMN 	Schools 
-463.25000 	WPOY671 	RM	131.8 PL	ISU FM Grnds 	Grounds Division 	FMN 	Schools 
-463.72500 	WPOY671 	RM	131.8 PL	ISU FM Cust  	Custodial Dept 	FMN 	Schools 
-463.70000 	WNIL690 	RM	186.2 PL	ISU ResLife1 	Residential Life 1 	FMN 	Schools 
-464.02500 	WPOY671 	RM	203.5 PL	ISU ResLife2 	Residential Life 2 	FMN 	Schools 
-463.30000 	WPEF875 	RM	131.8 PL	ISU Telecom 	Telecom Dept 	FMN 	Schools 
-451.55000 	WNUU718 	RM	82.5 PL	ISU StdntUn 	Student Union 	FMN 	Schools 
-464.97500 	KJT782 	BM	156.7 PL	 Hulman CH 1 	Channel 1 	FMN 	Schools 
-464.87500 	KJT782 	M	156.7 PL	 Hulman CH 2 	Channel 2 	FMN 	Schools 
-158.82000 	KNCJ863 	RM	131.8 PL	ISU DriverEd 	Drivers Ed 	FMN 	Schools 
-153.24500 	KJX406 	RM	072 DPL	VCSC1BusDisp 	Ch. 1 Bus Dispatch 	FMN 	Schools 
-152.27000 	KJX406 	RM	CC 3TG 101SL 1	VCSC2SpNeeds 	Ch. 2 Special Needs 	DMRE 	Schools 
-155.16000 	KRZ392 	BM	77.0 PL	VCSC3Bus-Bus 	Ch. 3 Bus to Bus 	FMN 	Schools 
-153.16250 	KJX406 	RM	CC 3TG 102SL 1	VCSC4Schools 	Ch. 4 School Operations 	DMRE 	Schools 
-151.89500 	KJX406 	RM	CC 3TG 103SL 1	VCSC5Facilities 	Ch. 5 School Facilities  	DMRE 	Schools 
-153.16250 	KJX406 	RM	CC 3TG 104SL 2	VCSC6Admin 	Ch. 6 Administration 	DMRE 	Schools 
-151.89500 	KJX406 	RM	CC 3TG 105SL 2	VCSC7Services 	Ch. 7 General Services 	DMRE 	Schools 
-150.99500 	KRZ392 	M	77.0 PL	VCSC8Mechani 	Ch. 8 Mechanics 	FMN 	Schools 
-457.65000 	WQJN657 	M	186.2 PL	VSSC Portable 1 	School Portables Channel 1 	FMN 	Schools 
-451.35000 	WQJN657 	M	186.2 PL	VSSC Portable 2 	School Portables Channel 2 	FMN 	Schools 
-456.35000 	WQJN657 	M	186.2 PL	VSSC Portable 3 	School Portables Channel 3 	FMN 	Schools 
-451.75000 	WQJN657 	M	186.2 PL	VSSC Portable 4 	School Portables Channel 4 	FMN 	Schools 
-456.95000 	WQJN657 	M	186.2 PL	VSSC Portable 5 	School Portables Channel 5 	FMN 	Schools 
-467.90000 	WQJN657 	M	186.2 PL	VSSC Portable 6 	School Portables Channel 6 	FMN 	Schools 
-452.21250 	WQDW918 	RM	CC 4TG 500SL 1	IVY TECH 	Campus Maintenance and Security 	DMR 	Schools 
-452.25000 	WPFS262 	RM	114 DPL	RHITSafe1A 	Public Safety 1 - Analog 	FMN 	Security 
-452.25000 	WPFS262 	RM	50 RAN	RHITSafe1D 	Public Safety 1 - Digital 	NXDN 	Security 
-461.17500 	WPFS262 	RM	50 RAN	RHITSafe2D 	Public Safety 2 - Digital 	NXDN 	Security 
-461.77500 	WNPL819 	RM	612 DPL	StMaryFclty1 	Facilities 1 	FMN 	Schools 
-452.67500 	WNPL819 	RM	186.2 PL	StMaryFclty2 	Facilities 2 	FMN 	Schools 
-451.85000 	WRDT630 	RM	18 RAN	SMWC SEC 	St Mary of the Woods College Security 	NXDNE 	Security 
-452.27500 	WNPL819 	RM	223 DPL	SP SEC 	Sisters of Providence Security 	FMN 	Security 
-452.70000 	WRDT630 	RM	18 RAN	SMWC SEC 	St Mary of the Woods College Security 	NXDN 	Security 
-452.70000 	WRDT630 	RM	365 DPL	SMWC SEC 	St Mary of the Woods College Security 	FMN 	Security 
-Bemis Company	 LTR Standard	 Terre Haute	Communications Radio Repeater Service	 LTR Standard	 Multiple	Duke Energy Indiana - MOTOTRBO	 DMR Motorola Capacity Plus Single Site (TRBO)
- Terre Haute	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Federal Correctional Complex Terre Haute	 Motorola Type II	 Terre Haute	Indiana BrandMeister DMR Netowrk
- DMR Conventional Networked	 Indianapolis	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Sony DADC	 LTR Standard	 Terre Haute
-Terre Haute Government Services	 EDACS Standard	 Terre Haute	Union Hospital	 NXDN NEXEDGE 9600	 Terre Haute	VEI Communications FleetTalk	 NXDN NEXEDGE 4800
- Various	
+453.27500 	458.27500  	WQOL652 	RM	88.5 PL	VCFD-SOUTHLINK 	County Fire South Link 	FMN 	Fire Dispatch 
+154.31000 	   	WPBX841 	BM	186.2 PL	84VCF-OPS  	Countywide Fire Tone Out (Locution) 	FMN 	Fire Dispatch 
+155.34000 	   	KZ9451 	M	210.7 PL	THFDIHERN 	Terre Haute Fire Paramedic Units 	FMN 	Hospital 
+154.13000 	   	WQJ940 	BM	186.2 PL	84-OCVFD 	Otter Creek Township VFD Tactical 	FMN 	Fire-Talk 
+154.19000 	   	WPDV970 	BM	186.2 PL	84VCF-OPS 	Countywide Fire Response (800 Select Simulcast) 	FMN 	Fire Dispatch 
+153.44000 	160.05000  	WPUW596 	RM	10 RAN	TC1 EMS Disp 	EMS Dispatch (Ch 1) 	NXDNE 	EMS Dispatch 
+159.55500 	153.35000  	WPUW596 	RM	82.5 PL	TC2 WhlchrDi 	Wheelchair Dispatch (Ch 2) 	FMN 	Business 
+158.29500 	   	WQFR305 	BM	127.3 PL	Lifeline F-1 	Terre Haute Dispatch 	FMN 	EMS Dispatch 
+155.56500 	158.91000  	WNIY771 	RM	186.2 PL	Vigo Law Simlcst 	Dispatch (Hoosier SAFE-T Dispatch Simulcast) 	FMN 	Law Dispatch 
+155.08500 	159.01500  	WPXP953 	RM	CC 3TG 10SL 1	Vigo Jail/Crthse 	Jail and Courthouse 	DMRE 	Corrections 
+153.38750 	158.42250  	KJX406 	RM	CC 3TG 20SL 2	Vigo JVJC 	Juvenile Justice Center 	DMRE 	Corrections 
+158.76000 	153.74000  	WPRI203 	RM	186.2 PL	Vigo EMA 	EMA 	FMN 	Emergency Ops 
+151.02500 	156.07500  	KNIN984 	RM	10 RAN	Vigo Hiway D 	Highway Department 	NXDN 	Public Works 
+453.30000 	458.30000  	WNUZ442 	RM	CC 4TG 1000SL 1	Vigo Park CW 	Parks Dept Countywide 	DMR 	Public Works 
+453.31250 	458.31250  	WNUZ442 	RM	CC 4TG 3000SL 1	Vigo Park HT 	Parks Dept Hawthorn Park 	DMR 	Public Works 
+453.41250 	458.41250  	WNUZ442 	RM		Vigo Park PC 	Parks Dept Prairie Creek Park 	DMR 	Public Works 
+453.51250 	458.51250  	WRBM233 	RM		Vigo Park FW 	Parks Dept Fowler Park 	DMR 	Public Works 
+451.90000 	457.90000  	WPXF808 	RM	CC 3TG 71009SL 1	TH Hous Sec 	Housing Authority Security 	DMRE 	Security 
+453.32500 	458.32500  	WQSZ925 	RM	CC 5TG 9902SL 1	TH Hous Mnt 	Housing Authority Maintenance 	DMR 	Public Works 
+453.43750 	458.43750  	WQSZ925 	RM	CC 5TG 9902SL 1	TH Hous Mnt 	Housing Authority Maintenance 	DMR 	Public Works 
+857.73750 	   	WQCM664 	RM	156.7 PL	TH AirAuth 	Terre Haute International Airport Authority 	FMN 	Public Works 
+461.35000 	466.35000  	WPOY671 	RM	131.8 PL	ISU FM Main 	Main Channel 	FMN 	Schools 
+464.02500 	469.02500  	WPOY671 	RM	131.8 PL	ISU FM Scndr 	Secondary Channel 	FMN 	Schools 
+461.65000 	466.65000  	WPOY671 	RM	131.8 PL	ISU FM Bldng 	Building Operations 	FMN 	Schools 
+461.87500 	466.87500  	WPOY671 	RM	131.8 PL	ISU FM Elec  	Electrical Dept 	FMN 	Schools 
+463.25000 	468.25000  	WPOY671 	RM	131.8 PL	ISU FM Grnds 	Grounds Division 	FMN 	Schools 
+463.72500 	468.72500  	WPOY671 	RM	131.8 PL	ISU FM Cust  	Custodial Dept 	FMN 	Schools 
+463.70000 	468.70000  	WNIL690 	RM	186.2 PL	ISU ResLife1 	Residential Life 1 	FMN 	Schools 
+464.02500 	469.02500  	WPOY671 	RM	203.5 PL	ISU ResLife2 	Residential Life 2 	FMN 	Schools 
+463.30000 	468.30000  	WPEF875 	RM	131.8 PL	ISU Telecom 	Telecom Dept 	FMN 	Schools 
+451.55000 	456.55000  	WNUU718 	RM	82.5 PL	ISU StdntUn 	Student Union 	FMN 	Schools 
+464.97500 	469.97500  	KJT782 	BM	156.7 PL	 Hulman CH 1 	Channel 1 	FMN 	Schools 
+464.87500 	   	KJT782 	M	156.7 PL	 Hulman CH 2 	Channel 2 	FMN 	Schools 
+158.82000 	156.01500  	KNCJ863 	RM	131.8 PL	ISU DriverEd 	Drivers Ed 	FMN 	Schools 
+153.24500 	159.51750  	KJX406 	RM	072 DPL	VCSC1BusDisp 	Ch. 1 Bus Dispatch 	FMN 	Schools 
+152.27000 	157.53000  	KJX406 	RM	CC 3TG 101SL 1	VCSC2SpNeeds 	Ch. 2 Special Needs 	DMRE 	Schools 
+155.16000 	   	KRZ392 	BM	77.0 PL	VCSC3Bus-Bus 	Ch. 3 Bus to Bus 	FMN 	Schools 
+153.16250 	158.33250  	KJX406 	RM	CC 3TG 102SL 1	VCSC4Schools 	Ch. 4 School Operations 	DMRE 	Schools 
+151.89500 	159.58500  	KJX406 	RM	CC 3TG 103SL 1	VCSC5Facilities 	Ch. 5 School Facilities  	DMRE 	Schools 
+153.16250 	158.33250  	KJX406 	RM	CC 3TG 104SL 2	VCSC6Admin 	Ch. 6 Administration 	DMRE 	Schools 
+151.89500 	159.58500  	KJX406 	RM	CC 3TG 105SL 2	VCSC7Services 	Ch. 7 General Services 	DMRE 	Schools 
+150.99500 	   	KRZ392 	M	77.0 PL	VCSC8Mechani 	Ch. 8 Mechanics 	FMN 	Schools 
+457.65000 	   	WQJN657 	M	186.2 PL	VSSC Portable 1 	School Portables Channel 1 	FMN 	Schools 
+451.35000 	   	WQJN657 	M	186.2 PL	VSSC Portable 2 	School Portables Channel 2 	FMN 	Schools 
+456.35000 	   	WQJN657 	M	186.2 PL	VSSC Portable 3 	School Portables Channel 3 	FMN 	Schools 
+451.75000 	   	WQJN657 	M	186.2 PL	VSSC Portable 4 	School Portables Channel 4 	FMN 	Schools 
+456.95000 	   	WQJN657 	M	186.2 PL	VSSC Portable 5 	School Portables Channel 5 	FMN 	Schools 
+467.90000 	   	WQJN657 	M	186.2 PL	VSSC Portable 6 	School Portables Channel 6 	FMN 	Schools 
+452.21250 	457.21250  	WQDW918 	RM	CC 4TG 500SL 1	IVY TECH 	Campus Maintenance and Security 	DMR 	Schools 
+452.25000 	457.25000  	WPFS262 	RM	114 DPL	RHITSafe1A 	Public Safety 1 - Analog 	FMN 	Security 
+452.25000 	457.25000  	WPFS262 	RM	50 RAN	RHITSafe1D 	Public Safety 1 - Digital 	NXDN 	Security 
+461.17500 	466.17500  	WPFS262 	RM	50 RAN	RHITSafe2D 	Public Safety 2 - Digital 	NXDN 	Security 
+461.77500 	466.77500  	WNPL819 	RM	612 DPL	StMaryFclty1 	Facilities 1 	FMN 	Schools 
+452.67500 	457.67500  	WNPL819 	RM	186.2 PL	StMaryFclty2 	Facilities 2 	FMN 	Schools 
+451.85000 	456.85000  	WRDT630 	RM	18 RAN	SMWC SEC 	St Mary of the Woods College Security 	NXDNE 	Security 
+452.27500 	457.27500  	WNPL819 	RM	223 DPL	SP SEC 	Sisters of Providence Security 	FMN 	Security 
+452.70000 	457.70000  	WRDT630 	RM	18 RAN	SMWC SEC 	St Mary of the Woods College Security 	NXDN 	Security 
+452.70000 	457.70000  	WRDT630 	RM	365 DPL	SMWC SEC 	St Mary of the Woods College Security 	FMN 	Security 
+Bemis Company	 LTR Standard	 Terre Haute	Communications Radio Repeater Service	 LTR Standard	 Multiple	Duke Energy Indiana - MOTOTRBO	 DMR Motorola Capacity Plus Single Site (TRBO)	 Terre Haute
+ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Federal Correctional Complex Terre Haute	 Motorola Type II	 Terre Haute	Indiana BrandMeister DMR Netowrk	 DMR Conventional Networked	 Indianapolis
+Sony DADC	 LTR Standard	 Terre Haute	Terre Haute Government Services	 EDACS Standard	 Terre Haute	Union Hospital	 NXDN NEXEDGE 9600	 Terre Haute
+VEI Communications FleetTalk	 NXDN NEXEDGE 4800	 Various	

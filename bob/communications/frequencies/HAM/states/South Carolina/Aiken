@@ -1,46 +1,46 @@
-453.07500 	WPTF362 	RM	118.8 PL	Akn Co FD A Rptr 	A Repeater Aiken 	FMN 	Fire Dispatch 
-453.17500 	WPTF362 	RM	118.8 PL	Akn Co FD B Rptr 	B Repeater Foxtown 	FMN 	Fire Dispatch 
-453.02500 	WPTF362 	RM	118.8 PL	Akn Co FD C Rptr 	C Repeater Kitchings Mill 	FMN 	Fire Dispatch 
-453.42500 	WPTF362 	RM	118.8 PL	Akn Co FD D Rptr 	D Repeater Beech Island 	FMN 	Fire Dispatch 
-453.90000 	WPTF362 	RM	118.8 PL	Akn Co FD E Rptr 	E Repeater Graniteville 	FMN 	Fire Dispatch 
-453.05000 	WQJU891 	RM	131.8 PL	Akn Co FD F Rptr 	F Repeater New Ellenton 	FMN 	Fire Dispatch 
-453.23750 	 	RM	118.8 PL	Akn Co FD G Rptr 	G Repeater Kirkland Hill 	FMN 	Fire Dispatch 
-462.56250 	 	M	CSQ	AknCoFD FG 1 	Fireground 1 	FMN 	Fire-Tac 
-462.58750 	 	M	CSQ	AknCoFD FG 2 	Fireground 2 	FMN 	Fire-Tac 
-462.61250 	 	M	CSQ	AknCoFD FG 3 	Fireground 3 	FMN 	Fire-Tac 
-462.63750 	 	M	CSQ	AknCoFD FG 4 	Fireground 4 	FMN 	Fire-Tac 
-462.66250 	 	M	CSQ	AknCoFD FG 5 	Fireground 5 	FMN 	Fire-Tac 
-453.15000 	 	M	156.7 PL	AkenCoFD Regnl 	Fire Regional 	FMN 	Fire-Talk 
-154.05500 	KJD885 	RM	94.8 PL	Akn EMS Disp 	EMS Primary Dispatch (also EMS Talk-around 1 Simplex) 	FM 	EMS Dispatch 
-155.28000 	KAN411 	BM	151.4 PL	Aiken EMS TA 2 	EMS Talk-around 2 	FM 	EMS-Tac 
-155.34000 	KAN411 	BM	151.4 PL	Akn EMS Hosp 	EMS to Hospital 	FM 	Hospital 
-453.55000 	WZU407 	RM	118.8 PL	ACSO 1 Backup 	SD Dispatch Backup to 800Mhz 	FM 	Law Dispatch 
-453.15000 	 	M	118.8 PL	Aiken SD Talk 	Talk-around/Mutual Aid 	FMN 	Law Talk 
-158.77500 	WPCK961 	RM	114.8 PL	AknCo PW 	Public Works 	FM 	Public Works 
-153.65750 	WPUH968 	RM	118.8 PL	AknCo School 	Aiken Co. Schools 	FM 	Schools 
-153.93500 	WNUW244 	M	118.8 PL	AknCo School 	Aiken Co. Schools 	FM 	Schools 
-453.65000 	KNCH463 	RM	131.8 PL	Akn DPS Main 	Aiken DPS Dispatch Ch.1 patched to TG 20851 PP25 	FM 	Multi-Dispatch 
-460.13750 	WQPM655 	RM	131.8 PL	AKN Common 	Aiken DPS Common 	FMN 	Law Tac 
-453.15000 	KNCH463 	BM	118.8 PL	Akn DPS Car-Car 	Aiken DPS Car-to-Car 	FM 	Law Tac 
-155.82000 	WNSB279 	BM		Akn Housing 	Aiken Housing Authority 	FM 	Public Works 
-155.14500 	WNHE839 	BM		Akn Rec Dept 	Aiken Recreation Department 	FM 	Public Works 
-155.86500 	KNBH862 	RM	114.8 PL	Akn ParksRec 	Aiken Parks and Recreation 	FM 	Public Works 
-460.06250 	WQPM656 	RM	131.8 PL	AKN Park Rec 	Aiken Parks and Recreation 	FMN 	Public Works 
-460.21250 	WQPP386 	RM	131.8 PL	AKN Pub Srvc 	Aiken Public Service 	FMN 	Public Works 
-453.61250 	WQPM657 	RM	131.8 PL	AKN E & U 	Aiken Public Service E&U 	FMN 	Public Works 
-453.26250 	WQPM661 	M	131.8 PL	AKN Event 1 	Aiken Events 1 	FMN 	Interop 
-458.92500 	WQPM660 	M	131.8 PL	AKN Event 2 	Aiken Events 2 	FMN 	Interop 
-458.33750 	WQPM659 	M	131.8 PL	AKN Event 3 	Aiken Events 3 	FMN 	Interop 
-458.26250 	WQPM658 	M	131.8 PL	AKN Event 4 	Aiken Events 4 	FMN 	Interop 
-451.88750 	WRBQ807 		CC 1TG 2SL 1	Akn High School 	Aiken High School 	DMR 	Schools 
-453.75000 	KNBW397 	RM	131.8 PL	N Aug DPS TO 	North Augusta Dept of Public Safety Fire Tone-out 	FM 	Fire Dispatch 
-460.40000 	WPCK951 	RM	118.8 PL	N Aug PD 	North Augusta PD/Fire Ch 2 	FM 	Law Tac 
-453.27500 	KNCN358 	RM	118.8 PL	N Aug Parks 	North Augusta Parks and Recreation/PD Ch.6 	FM 	Public Works 
-453.56250 	WPVC328 	RM		N Aug Water 	North Augusta Water Service 	FM 	Public Works 
-173.31250 	WPED941 	BM		N Aug Water 	North Augusta Water Service Telemetry 	FMN 	Data 
-453.40000 	WQLB451 	RM	118.8 PL	GVWFD Talk 	Graniteville-Vaucluse-Warrenville FD Talk-around 	FMN 	Fire-Talk 
-151.59500 	KNAC642 	BM		BrzHill Water 	Breezy Hill Water Co. 	FMN 	Utilities 
-155.67000 	KNNK381 	BM		NewEllen DPW 	New Ellenton Public Works 	FM 	Public Works 
-FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Kimberly Clark	 DMR Motorola Capacity Plus Single Site (TRBO)	 Beech Island	Savannah River Site	 Project 25 Phase I
- Aiken	SC HEART DMR Network	 DMR Conventional Networked	 Mulitple	SC Public Service Authority	 Project 25 Phase II	 Various	SCANA/SCE and G
- DMR Tier 3	 Various	US Department of Energy: Savannah River Site	 Motorola Type II SmartZone	 Aiken	
+453.07500 	458.07500  	WPTF362 	RM	118.8 PL	Akn Co FD A Rptr 	A Repeater Aiken 	FMN 	Fire Dispatch 
+453.17500 	458.17500  	WPTF362 	RM	118.8 PL	Akn Co FD B Rptr 	B Repeater Foxtown 	FMN 	Fire Dispatch 
+453.02500 	458.02500  	WPTF362 	RM	118.8 PL	Akn Co FD C Rptr 	C Repeater Kitchings Mill 	FMN 	Fire Dispatch 
+453.42500 	458.42500  	WPTF362 	RM	118.8 PL	Akn Co FD D Rptr 	D Repeater Beech Island 	FMN 	Fire Dispatch 
+453.90000 	458.90000  	WPTF362 	RM	118.8 PL	Akn Co FD E Rptr 	E Repeater Graniteville 	FMN 	Fire Dispatch 
+453.05000 	458.05000  	WQJU891 	RM	131.8 PL	Akn Co FD F Rptr 	F Repeater New Ellenton 	FMN 	Fire Dispatch 
+453.23750 	458.23750  	 	RM	118.8 PL	Akn Co FD G Rptr 	G Repeater Kirkland Hill 	FMN 	Fire Dispatch 
+462.56250 	   	 	M	CSQ	AknCoFD FG 1 	Fireground 1 	FMN 	Fire-Tac 
+462.58750 	   	 	M	CSQ	AknCoFD FG 2 	Fireground 2 	FMN 	Fire-Tac 
+462.61250 	   	 	M	CSQ	AknCoFD FG 3 	Fireground 3 	FMN 	Fire-Tac 
+462.63750 	   	 	M	CSQ	AknCoFD FG 4 	Fireground 4 	FMN 	Fire-Tac 
+462.66250 	   	 	M	CSQ	AknCoFD FG 5 	Fireground 5 	FMN 	Fire-Tac 
+453.15000 	   	 	M	156.7 PL	AkenCoFD Regnl 	Fire Regional 	FMN 	Fire-Talk 
+154.05500 	158.88000  	KJD885 	RM	94.8 PL	Akn EMS Disp 	EMS Primary Dispatch (also EMS Talk-around 1 Simplex) 	FM 	EMS Dispatch 
+155.28000 	   	KAN411 	BM	151.4 PL	Aiken EMS TA 2 	EMS Talk-around 2 	FM 	EMS-Tac 
+155.34000 	   	KAN411 	BM	151.4 PL	Akn EMS Hosp 	EMS to Hospital 	FM 	Hospital 
+453.55000 	458.55000  	WZU407 	RM	118.8 PL	ACSO 1 Backup 	SD Dispatch Backup to 800Mhz 	FM 	Law Dispatch 
+453.15000 	   	 	M	118.8 PL	Aiken SD Talk 	Talk-around/Mutual Aid 	FMN 	Law Talk 
+158.77500 	156.00000  	WPCK961 	RM	114.8 PL	AknCo PW 	Public Works 	FM 	Public Works 
+153.65750 	158.13750  	WPUH968 	RM	118.8 PL	AknCo School 	Aiken Co. Schools 	FM 	Schools 
+153.93500 	   	WNUW244 	M	118.8 PL	AknCo School 	Aiken Co. Schools 	FM 	Schools 
+453.65000 	458.65000  	KNCH463 	RM	131.8 PL	Akn DPS Main 	Aiken DPS Dispatch Ch.1 patched to TG 20851 PP25 	FM 	Multi-Dispatch 
+460.13750 	465.13750  	WQPM655 	RM	131.8 PL	AKN Common 	Aiken DPS Common 	FMN 	Law Tac 
+453.15000 	   	KNCH463 	BM	118.8 PL	Akn DPS Car-Car 	Aiken DPS Car-to-Car 	FM 	Law Tac 
+155.82000 	   	WNSB279 	BM		Akn Housing 	Aiken Housing Authority 	FM 	Public Works 
+155.14500 	   	WNHE839 	BM		Akn Rec Dept 	Aiken Recreation Department 	FM 	Public Works 
+155.86500 	158.94000  	KNBH862 	RM	114.8 PL	Akn ParksRec 	Aiken Parks and Recreation 	FM 	Public Works 
+460.06250 	465.06250  	WQPM656 	RM	131.8 PL	AKN Park Rec 	Aiken Parks and Recreation 	FMN 	Public Works 
+460.21250 	465.21250  	WQPP386 	RM	131.8 PL	AKN Pub Srvc 	Aiken Public Service 	FMN 	Public Works 
+453.61250 	458.61250  	WQPM657 	RM	131.8 PL	AKN E & U 	Aiken Public Service E&U 	FMN 	Public Works 
+453.26250 	   	WQPM661 	M	131.8 PL	AKN Event 1 	Aiken Events 1 	FMN 	Interop 
+458.92500 	   	WQPM660 	M	131.8 PL	AKN Event 2 	Aiken Events 2 	FMN 	Interop 
+458.33750 	   	WQPM659 	M	131.8 PL	AKN Event 3 	Aiken Events 3 	FMN 	Interop 
+458.26250 	   	WQPM658 	M	131.8 PL	AKN Event 4 	Aiken Events 4 	FMN 	Interop 
+451.88750 	456.88750  	WRBQ807 		CC 1TG 2SL 1	Akn High School 	Aiken High School 	DMR 	Schools 
+453.75000 	458.75000  	KNBW397 	RM	131.8 PL	N Aug DPS TO 	North Augusta Dept of Public Safety Fire Tone-out 	FM 	Fire Dispatch 
+460.40000 	465.40000  	WPCK951 	RM	118.8 PL	N Aug PD 	North Augusta PD/Fire Ch 2 	FM 	Law Tac 
+453.27500 	458.27500  	KNCN358 	RM	118.8 PL	N Aug Parks 	North Augusta Parks and Recreation/PD Ch.6 	FM 	Public Works 
+453.56250 	458.56250  	WPVC328 	RM		N Aug Water 	North Augusta Water Service 	FM 	Public Works 
+173.31250 	   	WPED941 	BM		N Aug Water 	North Augusta Water Service Telemetry 	FMN 	Data 
+453.40000 	458.40000  	WQLB451 	RM	118.8 PL	GVWFD Talk 	Graniteville-Vaucluse-Warrenville FD Talk-around 	FMN 	Fire-Talk 
+151.59500 	   	KNAC642 	BM		BrzHill Water 	Breezy Hill Water Co. 	FMN 	Utilities 
+155.67000 	   	KNNK381 	BM		NewEllen DPW 	New Ellenton Public Works 	FM 	Public Works 
+FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Kimberly Clark	 DMR Motorola Capacity Plus Single Site (TRBO)	 Beech Island	Savannah River Site	 Project 25 Phase I	 Aiken
+SC HEART DMR Network	 DMR Conventional Networked	 Mulitple	SC Public Service Authority	 Project 25 Phase II	 Various	SCANA/SCE and G	 DMR Tier 3	 Various
+US Department of Energy: Savannah River Site	 Motorola Type II SmartZone	 Aiken	

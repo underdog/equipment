@@ -1,36 +1,35 @@
-461.75000 	WNCB634 	RM	131.8 PL	EMT-DISP 	Crittenden EMS Dispatch 	FMN 	EMS Dispatch 
-155.29500 	WQGL672 	BM		CMH-PAGING 	Crittenden Memorial Hospital Paging 	FMN 	Hospital 
-154.20500 	WPGV973 	RM	172 DPL	CRIT-SAR 	Search & Rescue 	FMN 	EMS-Talk 
-151.09250 	WQIU603 	RM	632 DPL	CCOEM/EMS 	Office of Emergency Management / EMS DISPATCH 	FMN 	Emergency Ops 
-153.53000 	WPHQ261 	RM	754 DPL	CCSO-VHF 	Sheriff - VHF Dispatch 	FMN 	Law Dispatch 
-856.66250 	WNRU557 	RM	226 DPL	CCSO-800 BU 	Sheriff - 800 MHz Backup (Includes Marion Police) 	FM 	Law Dispatch 
-155.42250 	WQIM279 	RM		CCSO-SWAT 	Sheriff - SWAT Team VHF (Some Encryption Used) 	FMN 	Law Tac 
-155.70750 	WPRR853 	RM	411 DPL	CCSO-CDC 	Crittenden Detention Center 	FMN 	Law Talk 
-460.17500 	WQGH688 	RM		CCSO-VEHRPTR 	Sheriff - Mobile Extenders 	FMN 	Law Talk 
-151.32500 	WQFR953 	RM		JERICHO FD 	Jericho Fire 	FMN 	Fire Dispatch 
-154.14500 	WPZD900 	RM		HRSHOE FD 	Horshoe Lake Fire 	FMN 	Fire Dispatch 
-155.40750 	WPWW396 	RM	423 DPL	BLK OAK VFD 	Black Oak Fire 	FMN 	Fire Dispatch 
-464.15000 	WQFI677 	RM		CRH MAINT 	Physical Plant Maintanence 	FMN 	Hospital 
-154.34750 	WPUF748 	M		ANTNYVLL FG 	Anthonyville Fireground 	FMN 	Fire-Tac 
-460.62500 	WPRH265 	RM	031 DPL	CRWFRDVLL FD 	Fire (phone patch set-up) (Expired) 	FM 	Fire-Tac 
-156.22500 	WQPJ912 	RM		CFD-DISP 	Crawfordsville Fire Department *New System* 	FMN 	Fire Dispatch 
-156.19500 	WPJZ690 	RM	77.0 PL	EARL FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
-155.59500 	WPRI236 	RM	77.0 PL	EARL POLICE 	Police - Dispatch 	FMN 	Law Dispatch 
-154.86750 	WPUP277 	BM		EARL WATER 	Water Dept.  	FMN 	Public Works 
-155.10000 	WPUT579 	RM		EDMNSN-FD 1 	Fire - Dispatch 	FMN 	Fire Dispatch 
-153.83000 	WPUT579 	M		EDMNSN-FD 2 	Fire- Fireground 	FMN 	Fire-Tac 
-154.14500 	WNHP961 	RM	156.7 PL	MARION FD 	Fire - Dispatch  (TRBO capable) 	FMN 	Fire Dispatch 
-155.05500 	WQPT538 	BM	141.3 PL	MARION VHF 	City Services/Police VHF (TRBO capable) 	FMN 	Interop 
-856.66250 	WNRU557 	RM	226 DPL	MPD/CCSO 2 	Police/SO - Backup channel [Heavy usage] 	FM 	Law Talk 
-154.51500 	WNSY571 	BM		MARION SCHL 	Marion Schools (TRBO capable) 	FMN 	Schools 
-151.26500 	WPUT436 	RM	CAB NAC	WST MEMPHIS FD 	Fire - Dispatch (TG 1) 	P25 	Fire Dispatch 
-158.93250 	WPUT436 	M		WST MEMPHIS FG 	Fire - Fireground 	P25 	Fire-Tac 
-151.24250 	WQIM871 	M		WM CODE/ADMN 	West Memphis Code and Admin 	FMN 	Public Works 
-154.04000 	KWL560 	BM		WM DPW 	West Memphis Department of Public Works 	FMN 	Public Works 
-153.30500 	WPKA447 	RM	654 DPL	WM UTILITY 1 	West Memphis Utiities 1 	FMN 	Utilities 
-153.47000 	WPKA447 	RM		WM UTILITY 2 	West Memphis Utilities 2 	FMN 	Utilities 
-155.82000 	KKZ358 	RM		WM UTILITY 3 	West Memphis Utilities 3 	FMN 	Utilities 
-159.79500 	WQEM820 	M		WM UTILITY D 	West Memphis Utilities Data 	Telm 	Utilities 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	Hino Motor Manufacturing USA, Inc.	 LTR Standard	 Marion	Southland Racing Corporation	 LTR Standard	 West Memphis	West Memphis Police
- DMR Motorola Capacity Plus Single Site (TRBO)	 West Memphis	
+461.75000 	466.75000  	WNCB634 	RM	131.8 PL	EMT-DISP 	Crittenden EMS Dispatch 	FMN 	EMS Dispatch 
+155.29500 	   	WQGL672 	BM		CMH-PAGING 	Crittenden Memorial Hospital Paging 	FMN 	Hospital 
+154.20500 	155.23500  	WPGV973 	RM	172 DPL	CRIT-SAR 	Search & Rescue 	FMN 	EMS-Talk 
+151.09250 	154.83750  	WQIU603 	RM	632 DPL	CCOEM/EMS 	Office of Emergency Management / EMS DISPATCH 	FMN 	Emergency Ops 
+153.53000 	150.84500  	WPHQ261 	RM	754 DPL	CCSO-VHF 	Sheriff - VHF Dispatch 	FMN 	Law Dispatch 
+856.66250 	811.66250  	WNRU557 	RM	226 DPL	CCSO-800 BU 	Sheriff - 800 MHz Backup (Includes Marion Police) 	FM 	Law Dispatch 
+155.42250 	158.91750  	WQIM279 	RM		CCSO-SWAT 	Sheriff - SWAT Team VHF (Some Encryption Used) 	FMN 	Law Tac 
+155.70750 	158.87250  	WPRR853 	RM	411 DPL	CCSO-CDC 	Crittenden Detention Center 	FMN 	Law Talk 
+460.17500 	   	WQGH688 	RM		CCSO-VEHRPTR 	Sheriff - Mobile Extenders 	FMN 	Law Talk 
+151.32500 	155.86500  	WQFR953 	RM		JERICHO FD 	Jericho Fire 	FMN 	Fire Dispatch 
+154.14500 	151.04000  	WPZD900 	RM		HRSHOE FD 	Horshoe Lake Fire 	FMN 	Fire Dispatch 
+155.40750 	154.01750  	WPWW396 	RM	423 DPL	BLK OAK VFD 	Black Oak Fire 	FMN 	Fire Dispatch 
+464.15000 	469.15000  	WQFI677 	RM		CRH MAINT 	Physical Plant Maintanence 	FMN 	Hospital 
+154.34750 	   	WPUF748 	M		ANTNYVLL FG 	Anthonyville Fireground 	FMN 	Fire-Tac 
+460.62500 	465.62500  	WPRH265 	RM	031 DPL	CRWFRDVLL FD 	Fire (phone patch set-up) (Expired) 	FM 	Fire-Tac 
+156.22500 	151.47500  	WQPJ912 	RM		CFD-DISP 	Crawfordsville Fire Department *New System* 	FMN 	Fire Dispatch 
+156.19500 	159.04500  	WPJZ690 	RM	77.0 PL	EARL FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
+155.59500 	153.90500  	WPRI236 	RM	77.0 PL	EARL POLICE 	Police - Dispatch 	FMN 	Law Dispatch 
+154.86750 	   	WPUP277 	BM		EARL WATER 	Water Dept.  	FMN 	Public Works 
+155.10000 	159.00000  	WPUT579 	RM		EDMNSN-FD 1 	Fire - Dispatch 	FMN 	Fire Dispatch 
+153.83000 	   	WPUT579 	M		EDMNSN-FD 2 	Fire- Fireground 	FMN 	Fire-Tac 
+154.14500 	159.10500  	WNHP961 	RM	156.7 PL	MARION FD 	Fire - Dispatch  (TRBO capable) 	FMN 	Fire Dispatch 
+155.05500 	   	WQPT538 	BM	141.3 PL	MARION VHF 	City Services/Police VHF (TRBO capable) 	FMN 	Interop 
+856.66250 	811.66250  	WNRU557 	RM	226 DPL	MPD/CCSO 2 	Police/SO - Backup channel [Heavy usage] 	FM 	Law Talk 
+154.51500 	   	WNSY571 	BM		MARION SCHL 	Marion Schools (TRBO capable) 	FMN 	Schools 
+151.26500 	158.93250  	WPUT436 	RM	CAB NAC	WST MEMPHIS FD 	Fire - Dispatch (TG 1) 	P25 	Fire Dispatch 
+158.93250 	   	WPUT436 	M		WST MEMPHIS FG 	Fire - Fireground 	P25 	Fire-Tac 
+151.24250 	   	WQIM871 	M		WM CODE/ADMN 	West Memphis Code and Admin 	FMN 	Public Works 
+154.04000 	   	KWL560 	BM		WM DPW 	West Memphis Department of Public Works 	FMN 	Public Works 
+153.30500 	158.23500  	WPKA447 	RM	654 DPL	WM UTILITY 1 	West Memphis Utiities 1 	FMN 	Utilities 
+153.47000 	159.85500  	WPKA447 	RM		WM UTILITY 2 	West Memphis Utilities 2 	FMN 	Utilities 
+155.82000 	154.89000  	KKZ358 	RM		WM UTILITY 3 	West Memphis Utilities 3 	FMN 	Utilities 
+159.79500 	   	WQEM820 	M		WM UTILITY D 	West Memphis Utilities Data 	Telm 	Utilities 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various
+Hino Motor Manufacturing USA, Inc.	 LTR Standard	 Marion	Southland Racing Corporation	 LTR Standard	 West Memphis	West Memphis Police	 DMR Motorola Capacity Plus Single Site (TRBO)	 West Memphis

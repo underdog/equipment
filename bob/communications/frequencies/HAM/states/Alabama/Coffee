@@ -1,27 +1,27 @@
-155.97000 	WQET641 	RM	1 RAN	Coffee SO 	Sheriff Dispatch 	NXDNe 	Law Dispatch 
-453.70000 	WQEZ911 	RM	466 DPL	Coffee Fire 	Rural Fire Dispatch 	FMN 	Fire Dispatch 
-153.75500 	WQEQ901 	M		Coffee CMN 1 	Public Safety 1 	FM 	Multi-Tac 
-158.80500 	WQEQ901 	BM	162 DPL	Coffee CMN 2 	Public Safety 2 	FM 	Multi-Tac 
-158.86500 	WQET641 	BM		Coffee CMN 3 	Public Safety 3 	FM 	Multi-Tac 
-155.34000 	WQPY557 	BM	100.0 PL	MCE HEAR 	Medical Center Enterprise 	FMN 	Hospital 
-155.34000 	WQOL212 	BM	82.5 PL	EGH HEAR 	Elba General Hospital 	FMN 	Hospital 
-156.22500 	KWX559 	RM		Coffee Roads 	Highway Dept. 	FM 	Public Works 
-153.80000 	 	BM	162 DPL	Elba PD Disp 	Police Dispatch 	FM 	Law Dispatch 
-154.19000 	WNLH696 	BM		Elba Fire 	Fire Dispatch 	FM 	Fire Dispatch 
-155.04000 	WQNH776 	BM		Elba DPW 	Public Works 	FM 	Public Works 
-155.89500 	WQNH776 	BM		Elba Util 	Utilities 	FM 	Utilities 
-158.82000 	WPQG862 	RM	118.8 PL	Eprise Resc 	Rescue Dispatch 	FM 	EMS Dispatch 
-153.57500 	WNGS671 	RM		Eprise CMN 	Local Govt. 	FM 	Public Works 
-156.19500 	WNLK596 	RM	9 RAN	Eprise Strts 	Streets 	NXDN 	Public Works 
-155.86500 	WNJP251 	RM	CC 4TG *SL *	Kinston CMN 	DPW/Fire/Police 	DMR 	Multi-Dispatch 
-155.59500 	KVG826 	BM	CC 7TG *SL *	Kinston PD 	Police 	DMR 	Law Talk 
-155.23500 	WPKA732 	BM		MCE EMS Dsp 	EMS Dispatch 	FM 	EMS Dispatch 
-154.25000 	WNNC293 	RM	114.8 PL	New Brock FD 	Fire Dispatch 	FM 	Fire Dispatch 
-153.83000 	WNNC293 	M		NewBrockFDFG 	Fireground 	FM 	Fire-Tac 
-153.84500 	KWX510 	BM		NewBrock CMN 	Police / Fire/DPW 	FM 	Multi-Tac 
-462.02500 	WPLZ678 	RM		Elba Sch Sec 	Operations / Security 	FM 	Security 
-461.27500 	WPKA421 	RM		EpriseSchBus 	Transportation - Primary 	FM 	Schools 
-462.02500 	WPKA421 	M		EprseSchSec1 	Operations / Security 	FM 	Security 
-463.32500 	WPKA421 	M		EprseSchSec2 	Operations / Security 	FM 	Security 
- Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	City of Enterprise Public Services System	 NXDN NEXEDGE 9600	 Enterprise	Metrolink LTR	 LTR Standard
- Webb	PowerSouth Energy Cooperative	 DMR Motorola Connect Plus (TRBO)	 Andalusia	S and P Communications	 NXDN NEXEDGE 9600	 Various	
+155.97000 	158.86500  	WQET641 	RM	1 RAN	Coffee SO 	Sheriff Dispatch 	NXDNe 	Law Dispatch 
+453.70000 	458.70000  	WQEZ911 	RM	466 DPL	Coffee Fire 	Rural Fire Dispatch 	FMN 	Fire Dispatch 
+153.75500 	   	WQEQ901 	M		Coffee CMN 1 	Public Safety 1 	FM 	Multi-Tac 
+158.80500 	   	WQEQ901 	BM	162 DPL	Coffee CMN 2 	Public Safety 2 	FM 	Multi-Tac 
+158.86500 	   	WQET641 	BM		Coffee CMN 3 	Public Safety 3 	FM 	Multi-Tac 
+155.34000 	   	WQPY557 	BM	100.0 PL	MCE HEAR 	Medical Center Enterprise 	FMN 	Hospital 
+155.34000 	   	WQOL212 	BM	82.5 PL	EGH HEAR 	Elba General Hospital 	FMN 	Hospital 
+156.22500 	159.16500  	KWX559 	RM		Coffee Roads 	Highway Dept. 	FM 	Public Works 
+153.80000 	   	 	BM	162 DPL	Elba PD Disp 	Police Dispatch 	FM 	Law Dispatch 
+154.19000 	   	WNLH696 	BM		Elba Fire 	Fire Dispatch 	FM 	Fire Dispatch 
+155.04000 	   	WQNH776 	BM		Elba DPW 	Public Works 	FM 	Public Works 
+155.89500 	   	WQNH776 	BM		Elba Util 	Utilities 	FM 	Utilities 
+158.82000 	150.79000  	WPQG862 	RM	118.8 PL	Eprise Resc 	Rescue Dispatch 	FM 	EMS Dispatch 
+153.57500 	158.16000  	WNGS671 	RM		Eprise CMN 	Local Govt. 	FM 	Public Works 
+156.19500 	159.12000  	WNLK596 	RM	9 RAN	Eprise Strts 	Streets 	NXDN 	Public Works 
+155.86500 	153.96500  	WNJP251 	RM	CC 4TG *SL *	Kinston CMN 	DPW/Fire/Police 	DMR 	Multi-Dispatch 
+155.59500 	   	KVG826 	BM	CC 7TG *SL *	Kinston PD 	Police 	DMR 	Law Talk 
+155.23500 	   	WPKA732 	BM		MCE EMS Dsp 	EMS Dispatch 	FM 	EMS Dispatch 
+154.25000 	153.83000  	WNNC293 	RM	114.8 PL	New Brock FD 	Fire Dispatch 	FM 	Fire Dispatch 
+153.83000 	   	WNNC293 	M		NewBrockFDFG 	Fireground 	FM 	Fire-Tac 
+153.84500 	   	KWX510 	BM		NewBrock CMN 	Police / Fire/DPW 	FM 	Multi-Tac 
+462.02500 	467.02500  	WPLZ678 	RM		Elba Sch Sec 	Operations / Security 	FM 	Security 
+461.27500 	466.27500  	WPKA421 	RM		EpriseSchBus 	Transportation - Primary 	FM 	Schools 
+462.02500 	   	WPKA421 	M		EprseSchSec1 	Operations / Security 	FM 	Security 
+463.32500 	   	WPKA421 	M		EprseSchSec2 	Operations / Security 	FM 	Security 
+ Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	City of Enterprise Public Services System	 NXDN NEXEDGE 9600	 Enterprise	Metrolink LTR	 LTR Standard	 Webb
+PowerSouth Energy Cooperative	 DMR Motorola Connect Plus (TRBO)	 Andalusia	S and P Communications	 NXDN NEXEDGE 9600	 Various	

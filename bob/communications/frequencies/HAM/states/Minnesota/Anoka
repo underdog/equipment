@@ -1,26 +1,26 @@
-154.28000 	KNBY453 	B	131.8 PL	ANKA FIRE PG 	Paging 	FMN 	Fire Dispatch 
-453.58750 	 	RM	100.0 PL	AMRTC SO 	Sheriff Security AMRTC 	FMN 	Security 
-453.58750 	 	RM	110.9 PL	AMRTC 	Unknown user AMRTC 	FMN 	Other 
-453.58750 	 	RM	123.0 PL	AMRTC 	Unknown user AMRTC 	FMN 	Other 
-453.58750 	 	RM	179.9 PL	AMRTC 	Unknown user AMRTC 	FMN 	Other 
-460.55000 	KNCG805 	RM	110.9 PL	ANKA SO JAIL 	Jail 	FMN 	Law Talk 
-854.66250 	WPCI250 	BM		ANKA SO MDT 	Sheriff MDTs 	Telm 	Data 
-855.48750 	WNNS503 	RM	131.8 PL	ANKA CO PARK 	Parks 	FM 	Public Works 
-156.24000 	KAH924 	RM	131.8 PL	ANKA ROADS 	Public Works 	FMN 	Public Works 
-158.98500 	WNWP372 	M		ANKA WORKS 	Public Works 	FMN 	Public Works 
-159.04500 	WNYL746 	M		ANKA WORKS 	Public Works 	FMN 	Public Works 
-453.57500 	WNXK962 	RM	131.8 PL	ANKA GOVT CR 	Gvt Ct 	FMN 	Public Works 
-155.64000 	KVN696 	BM		AN CNRPDS FD 	Coon Rapids Fire - Analog Patch 	FMN 	Fire Dispatch 
-120.62500 	 	BM		ANE ATIS AWS 	ATIS / AWOS 	AM 	Aircraft 
-121.30000 	 	BM		ANE CLR DEL 	Clearance Delivery 	AM 	Aircraft 
-121.85000 	 	BM		ANE GROUND 	Ground 	AM 	Aircraft 
-122.55000 	 	BM		ANE FSS RCO 	RCO FSS - Princeton 	AM 	Aircraft 
-122.95000 	 	BM		ANE CIRRUS 	Cirrus Flight Operations 	AM 	Aircraft 
-123.30000 	 	BM		ANE CRSROADS 	Crossroads Aviation 	AM 	Aircraft 
-126.05000 	 	BM		ANE TWR CTAF 	Tower / CTAF 	AM 	Aircraft 
-126.50000 	 	BM		MPLS APP DEP 	Minneapolis Approach/Departure 	AM 	Aircraft 
-132.40000 	 	BM		ANE TOWER 	Tower 	AM 	Aircraft 
-357.40000 	 	BM		MPLS DEP 	Minneapolis Departure 	AM 	Aircraft 
-122.90000 	8Y4 	BM		SURF CTAF 	CTAF 	AM 	Aircraft 
-Mobile Radio Engineering (NXDN)	 NXDN NEXEDGE 4800	 Varies	Target Distribution Center T551	 LTR Standard	 Fridley	Xcel Energy (MN)	 Motorola Type II
- Minneapolis-St. Paul	
+154.28000 	   	KNBY453 	B	131.8 PL	ANKA FIRE PG 	Paging 	FMN 	Fire Dispatch 
+453.58750 	458.58750  	 	RM	100.0 PL	AMRTC SO 	Sheriff Security AMRTC 	FMN 	Security 
+453.58750 	458.58750  	 	RM	110.9 PL	AMRTC 	Unknown user AMRTC 	FMN 	Other 
+453.58750 	458.58750  	 	RM	123.0 PL	AMRTC 	Unknown user AMRTC 	FMN 	Other 
+453.58750 	458.58750  	 	RM	179.9 PL	AMRTC 	Unknown user AMRTC 	FMN 	Other 
+460.55000 	465.55000  	KNCG805 	RM	110.9 PL	ANKA SO JAIL 	Jail 	FMN 	Law Talk 
+854.66250 	809.66250  	WPCI250 	BM		ANKA SO MDT 	Sheriff MDTs 	Telm 	Data 
+855.48750 	810.48750  	WNNS503 	RM	131.8 PL	ANKA CO PARK 	Parks 	FM 	Public Works 
+156.24000 	159.13500  	KAH924 	RM	131.8 PL	ANKA ROADS 	Public Works 	FMN 	Public Works 
+158.98500 	   	WNWP372 	M		ANKA WORKS 	Public Works 	FMN 	Public Works 
+159.04500 	   	WNYL746 	M		ANKA WORKS 	Public Works 	FMN 	Public Works 
+453.57500 	458.57500  	WNXK962 	RM	131.8 PL	ANKA GOVT CR 	Gvt Ct 	FMN 	Public Works 
+155.64000 	   	KVN696 	BM		AN CNRPDS FD 	Coon Rapids Fire - Analog Patch 	FMN 	Fire Dispatch 
+120.62500 	   	 	BM		ANE ATIS AWS 	ATIS / AWOS 	AM 	Aircraft 
+121.30000 	   	 	BM		ANE CLR DEL 	Clearance Delivery 	AM 	Aircraft 
+121.85000 	   	 	BM		ANE GROUND 	Ground 	AM 	Aircraft 
+122.55000 	   	 	BM		ANE FSS RCO 	RCO FSS - Princeton 	AM 	Aircraft 
+122.95000 	   	 	BM		ANE CIRRUS 	Cirrus Flight Operations 	AM 	Aircraft 
+123.30000 	   	 	BM		ANE CRSROADS 	Crossroads Aviation 	AM 	Aircraft 
+126.05000 	   	 	BM		ANE TWR CTAF 	Tower / CTAF 	AM 	Aircraft 
+126.50000 	   	 	BM		MPLS APP DEP 	Minneapolis Approach/Departure 	AM 	Aircraft 
+132.40000 	   	 	BM		ANE TOWER 	Tower 	AM 	Aircraft 
+357.40000 	   	 	BM		MPLS DEP 	Minneapolis Departure 	AM 	Aircraft 
+122.90000 	   	8Y4 	BM		SURF CTAF 	CTAF 	AM 	Aircraft 
+Allied Radio Matrix for Emergency Response (ARMER)	 Project 25 Phase I	 Various	Mobile Radio Engineering (NXDN)	 NXDN NEXEDGE 4800	 Varies	Target Distribution Center T551	 LTR Standard	 Fridley
+Xcel Energy (MN)	 Motorola Type II	 Minneapolis-St. Paul	

@@ -1,16 +1,16 @@
-453.73750 	WPLY992 	RM	162.2 PL	CC Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-458.85000 	WPLY922 	M	162.2 PL	CC Fire FG 1 	Fireground 1 	FMN 	Fire-Tac 
-458.30000 	WPLY922 	M	162.2 PL	CC Fire FG 2 	Fireground 2 	FMN 	Fire-Tac 
-458.81250 	WPLY922 	M	162.2 PL	CC Fire FG 3 	Fireground 3 	FMN 	Fire-Tac 
-453.23750 	WPLY992 	RM	141.3 PL	CC Fire Witt 	Wittimore Repeater 	FMN 	Fire-Talk 
-453.66250 	WPLY992 	RM	141.3 PL	CC Fire GrvH 	Grove Hill Repeater 	FMN 	Fire-Talk 
-458.81250 	WPLY992 	M	162.2 PL	CC Fire LZ 	Landing Zone Coordination 	FMN 	Fire-Talk 
-458.68750 	WPLY992 	M	162.2 PL	CC Fire FP 	Fire Police Ops 	FMN 	Fire-Talk 
-462.97500 	KNDS655 	RM		CC EMS Disp 	County EMS Med-10 - Dispatch 	FM 	EMS Dispatch 
-462.95000 	KNDS655 	RM		CC EMS Alt 	County EMS Med-9 - Alternate Dispatch 	FM 	EMS Dispatch 
-155.22000 	KA92940 	BM		CCAA EMS F1 	Cameron County Ambulance Association F-1 	FM 	EMS-Talk 
-155.34000 	KA92940 	BM		CCAA EMS F2 	Cameron County Ambulance Association F-2 	FM 	EMS-Talk 
-453.37500 	WPYL987 	RM	100.0 PL	CamCo LG S 	Local Govt South 	FMN 	Interop 
-453.37500 	WPYL987 	RM	156.7 PL	CamCo LG N 	Local Govt North 	FMN 	Interop 
-460.30000 	WPLY922 	RM	173.8 PL	Emporium PD 	Emporium Police Dispatch 	FMN 	Law Dispatch 
+453.73750 	458.73750  	WPLY992 	RM	162.2 PL	CC Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+458.85000 	   	WPLY922 	M	162.2 PL	CC Fire FG 1 	Fireground 1 	FMN 	Fire-Tac 
+458.30000 	   	WPLY922 	M	162.2 PL	CC Fire FG 2 	Fireground 2 	FMN 	Fire-Tac 
+458.81250 	   	WPLY922 	M	162.2 PL	CC Fire FG 3 	Fireground 3 	FMN 	Fire-Tac 
+453.23750 	458.23750  	WPLY992 	RM	141.3 PL	CC Fire Witt 	Wittimore Repeater 	FMN 	Fire-Talk 
+453.66250 	458.66250  	WPLY992 	RM	141.3 PL	CC Fire GrvH 	Grove Hill Repeater 	FMN 	Fire-Talk 
+458.81250 	   	WPLY992 	M	162.2 PL	CC Fire LZ 	Landing Zone Coordination 	FMN 	Fire-Talk 
+458.68750 	   	WPLY992 	M	162.2 PL	CC Fire FP 	Fire Police Ops 	FMN 	Fire-Talk 
+462.97500 	467.97500  	KNDS655 	RM		CC EMS Disp 	County EMS Med-10 - Dispatch 	FM 	EMS Dispatch 
+462.95000 	467.95000  	KNDS655 	RM		CC EMS Alt 	County EMS Med-9 - Alternate Dispatch 	FM 	EMS Dispatch 
+155.22000 	   	KA92940 	BM		CCAA EMS F1 	Cameron County Ambulance Association F-1 	FM 	EMS-Talk 
+155.34000 	   	KA92940 	BM		CCAA EMS F2 	Cameron County Ambulance Association F-2 	FM 	EMS-Talk 
+453.37500 	458.37500  	WPYL987 	RM	100.0 PL	CamCo LG S 	Local Govt South 	FMN 	Interop 
+453.37500 	458.37500  	WPYL987 	RM	156.7 PL	CamCo LG N 	Local Govt North 	FMN 	Interop 
+460.30000 	465.30000  	WPLY922 	RM	173.8 PL	Emporium PD 	Emporium Police Dispatch 	FMN 	Law Dispatch 
 Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	

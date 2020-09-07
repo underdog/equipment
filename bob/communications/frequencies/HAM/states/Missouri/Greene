@@ -1,94 +1,94 @@
-860.71250 	WPKP318 	M		Greene Shrf Tac1 	Sheriff: Talk-Around [TAC-1] 	FM 	Law Tac 
-859.96250 	WPKP318 	M		Greene Shrf Tac2 	Sheriff: Talk-Around [TAC-2] 	FM 	Law Tac 
-460.25000 	WQKR246 	RM		Greene Juv ERC 	Juvenile: Evening Reporting Center 	FMN 	Corrections 
-458.91250 	WQIY663 	M		Greene Juv Svc 	Juvenile Services 	FMN 	Corrections 
-154.40000 	KVF718 	BM	151.4 PL	Greene Fire/EMS 	Fire/EMS: Countywide Dispatch (Patched with TRS TG#17264*) 	FMN 	Fire Dispatch 
-460.56250 	KVF718 	M		Greene FireRF1 	Fire/EMS: Remote Links to 154.4 	FMN 	Fire Dispatch 
-460.61250 	KVF718 	M		Greene FireRF2 	Fire/EMS: Remote Links to 154.4 	FMN 	Fire Dispatch 
-465.56250 	KVF718 	M		Greene FireRF3 	Fire/EMS: Remote Links to 154.4 	FMN 	Fire Dispatch 
-465.61250 	KVF718 	M		Greene FireRF4 	Fire/EMS: Remote Links to 154.4 	FMN 	Fire Dispatch 
-860.96250 	WPKP318 	RM		Greene Fire T/A1 	Fire: Talk Around 1 	FM 	Fire-Tac 
-860.43750 	WPKP318 	M		Greene Fire T/A2 	Fire: Talk Around 2 	FM 	Fire-Tac 
-155.20500 	KNEE675 	BM		CHosp EMS 	EMS [Terminated] 	FMN 	EMS Dispatch 
-150.77500 	KNEE675 	M		CHosp EMS MX 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
-155.34000 	KNEE675 	BM		HEAR 340 	HEAR340 	FMN 	Hospital 
-463.37500 	WQVD937 	RM	CC 9TG 201SL 1	CoxNH Sec N 	North - Security 	DMR 	Security 
-452.07500 	WPUT532 	RM	CC 9TG 202SL 1	CoxSH Sec S2 	South - Security (Springfield) 	DMR 	Security 
-462.95000 	WNBM832 	RM	127.3 PL	CoxSH Maint 	South - Maintenance/Housekeeping 	FMN 	Security 
-159.52500 	WPWQ841 	BM		LECMS PG V 	Data (CSQ Paging?) 	FMN 	Data 
-150.93500 	WRDX263 	RM		Cox Health EMS 	EMS: Dispatch 	DMR 	Data 
-152.96750 	WQXD633 	RM	CC 6TG 101SL 1	Cox EMS Greene 	EMS: Dispatch - Greene County 	DMR 	EMS Dispatch 
-155.20500 	WNLP860 	BM	114.8 PL	LECMS RurEMS 	Rural Ambulance Dispatch (Republic) 	FMN 	EMS Dispatch 
-155.34000 	WQIK268 	BM		HEAR 340 	Patient Reports 	FMN 	Hospital 
-452.27500 	WQVY897 	RM	CC 1TG 1100SL 1	Mercy S Sec 	Security 	DMR 	Security 
-452.85000 	WQVY897 	RM	123.0 PL	Mercy Security 1 	Security  	FMN 	Security 
-463.25000 	KNCJ355 	RM	179.9 PL	Mercy Security 2 	Security 	FMN 	Security 
-464.97500 	WNQA866 	RM		Mercy Maint 1 	Maintenance 	FMN 	Business 
-461.72500 	WNQA866 	RM		Mercy Maint 2 	Maintenance  	FMN 	Business 
-463.32500 	WNQA866 	RM		Mercy Maint 3 	Maintenance  	FMN 	Business 
-451.11250 	WQWU333 	RM	CC 0TG 1SL 2	Mercy Surgical 1 	Surgical Suite Ops 	DMR 	Business 
-154.51500 	KB24808 	M		Mercy BioEng 	Biomedical Engineering 	FMN 	Business 
-453.48750 	WQFT759 	RM	073 DPL	Lifeline A 	Lifeline Helicopter: EMS Dispatch 	FMN 	EMS Dispatch 
-453.48750 	WQFT759 	RM	226 DPL	Mercy Helo 	Mercy EMS - Helicopter Ops (Old?) 	FMN 	EMS Dispatch 
-155.23500 	WZX647 	BM	151.4 PL	Mercy EMS Alt 	EMS: Private / Aircraft Operations  	FMN 	EMS Dispatch 
-462.92500 	KNCB445 	B		Mercy Paging 1 	RHC: Paging (CSQ) 	Telm 	Data 
-465.00000 	WQGW982 	B		Mercy Paging 2 	RHC: Paging [Expired 5/17] 	FMN 	Data 
-154.41500 	WPUZ422 	BM		FairGrove FG 	Fireground 	FMN 	Fire-Tac 
-154.25000 	KNAF258 	RM		LR Fire 1 	Fire: 	FMN 	Fire Dispatch 
-154.01500 	KNAF258 	F		LR Fire 2 	Fire (input base or mistake on license?) 	FMN 	Fire-Tac 
-154.23500 	KNAF258 	RM		LR Fire FG 	Fireground 	FMN 	Fire-Tac 
-860.76250 	WPKP318 	M		Spfld PD Tc1 	Springfield Police: Talk-Around [TAC-1] 	FM 	Law Tac 
-860.21250 	WPKP318 	M		Spfld PD Tc2 	Springfield Police: Talk-Around [TAC-2] 	FM 	Law Tac 
-855.21250 	WPKH242 	BM		Spfld MDT 1 	Police/Fire - Digital (MDTs?) 	Telm 	Data 
-856.73750 	WPKH242 	BM		Spfld MDT 2 	Police/Fire - Digital (MDTs?) 	Telm 	Data 
-453.30000 	WYF503 	BM		Sfpld Util A 	Springfield City Utilities 	FMN 	Public Works 
-451.15000 	WQHD584 	RM		Sfpld Util B 	Utilities: Power Plant Ops/Maintenance 	FMN 	Public Works 
-451.25000 	WQHD711 	RM		Sfpld Util C 	Utilities: Power Plant Ops/Maintenance  	FMN 	Public Works 
-452.32500 	WQLU904 	F		Spfld UtilD1 	Utility Data (also WQLU905) 	Telm 	Data 
-854.85250 	WQAU423 	RM		Spfld PW Wtr 	Public Works: Water Plant Ops  	FM 	Public Works 
-154.20500 	WNHI773 	RM		StraffrdFire 	Fire 	FMN 	Fire Dispatch 
-154.75500 	KDT309 	BM		WGrv Police 	Police: Dispatch 	FMN 	Law Dispatch 
-155.13000 	KDT309 	BM		WGrv PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
-155.02500 	WPFE785 	BM		WlnrGrov FD 	Fire: 	FMN 	Fire-Tac 
-154.07000 	WNXJ272 	M		WRepblc Fire 	WRFPD Fire: 	FMN 	Fire-Tac 
-154.98000 	KSS835 	BM		Will Police 	Police 	FMN 	Law Dispatch 
-154.44500 	WPIS455 	RM		Will Fire 1 	Fire: 	FMN 	Fire Dispatch 
-155.38500 	WPIS455 	RM		Will Fire 2 	WFPD Fire: 	FMN 	Fire Dispatch 
-458.13750 	WPIS455 	M		Will Fire MX 	WFPD Fire: Mobile Extenders ? 	FMN 	Fire-Tac 
-461.17500 	WNUE993 	RM		AGSDR4 AGrv 	Operations (Ash Grove) 	FMN 	Schools 
-464.32500 	WNUE993 	BM		AGSDR4 BDArc 	Operations (Bois D Arc) 	FMN 	Schools 
-464.90000 	WNWS838 	RM		LRR8SD Ops1 	Operations 	FMN 	Schools 
-451.33750 	WNWS838 	RM		LRR8SD Ops2 	Operations 	FMN 	Schools 
-451.76250 	WNWS838 	RM		LRR8SD Ops3 	Operations 	FMN 	Schools 
-464.72500 	WNND338 	RM	CC 1TG 4SL 1	Republic Sch Bus 	Buses 	DMR 	Schools 
-461.35000 	WNND338 	RM		RepMid/HS 1 	Middle/High School (Phone Patch) 	FMN 	Schools 
-464.81250 	WNND338 	RM		RepMid/HS 2 	Middle/High School  	FMN 	Schools 
-464.71250 	WNND338 	M		RepMid/HS 3 	Middle/High School  	FMN 	Schools 
-464.83750 	WNND338 	RM		Rep PriceSch 	Price Elementary 	FMN 	Schools 
-464.50000 	WNND338 	M		Rep Sch S/W 	Operations - Statewide Events 	FMN 	Schools 
-858.26250 	WQYC313 	RM	141.3 PL	Spfld School Bus 	Buses 	FMN 	Schools 
-461.85000 	WQEM377 	RM	151.4 PL	Spfld School 	Operations 	FMN 	Schools 
-467.76250 	WQJQ332 	M		StEliz Sch 1 	Operations 	FMN 	Schools 
-467.81250 	WQJQ332 	M		StEliz Sch 2 	Operations 	FMN 	Schools 
-467.82500 	WQJQ332 	M		StEliz Sch 3 	Operations 	FMN 	Schools 
-467.92500 	WQJQ332 	M		StEliz Sch 4 	Operations 	FMN 	Schools 
-463.42500 	WNRO734 	RM		Stfrd School 	Operations 	FMN 	Schools 
-451.32500 	WNPZ841 	RM	CC 1TG 1703696SL 1	Willard Sch Bus 	Buses 	DMR 	Schools 
-464.42500 	WNRS521 	RM	91.5 PL	BBC Security 	Security  	FMN 	Security 
-154.57000 	KW3067 	M		BBC Ops 	Operations 	FMN 	Schools 
-151.65500 	KNAV607 	BM		CBC Ops 1 	Operations 	FMN 	Schools 
-151.86500 	KNAV607 	BM		CBC Ops 2 	Operations 	FMN 	Schools 
-464.57500 	WQLY474 	RM	131 DPL	Drury Univ Ops 	Operations 	FMN 	Schools 
-462.17500 	WPWM819 	BM		EUniv Ops 1 	Operations 	FMN 	Schools 
-463.40000 	WPWM819 	BM		EUniv Ops 2 	Operations 	FMN 	Schools 
-464.00000 	WPWM819 	BM		EUniv Ops 3 	Operations 	FMN 	Schools 
-155.89500 	KRB480 	BM		MSU Spf Ops 	Operations 	FMN 	Schools 
-464.65000 	WQGV451 	BM	254.1 PL	MSU Spf PG 	Physical Plant: Paging 	FMN 	Data 
-451.77500 	WPWT271 	RM	3 RAN	OTCC Ops 1 	Admin/Security [TG 0] 	NXDN 	Security 
-451.82500 	WPWT271 	RM	10 RAN	OTCC Ops 2 	Admin/Security [TG 0] 	NXDN 	Security 
-168.88750 	 	BM		USM Spfld 	US Marshal Service 	P25e 	Law Dispatch 
-Bass Pro Shops - Springfield MO	 NXDN NEXEDGE 9600	 Springfield	Communications Associates - 800 MHz (Southern MO)	 EDACS Standard	 Springfield	KAMO Power	 NXDN NEXEDGE 4800
- Various	McLane Ozark	 DMR Motorola Capacity Plus Single Site (TRBO)	 Republic	Medical Center for Federal Prisoners (MCFP Springfield) P25	 Project 25 Phase I	 Springfield	Missouri State University
- NXDN NEXEDGE 9600	 Springfield	Ozark Electric Cooperative (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Mount Vernon	Prime (Springfield MO)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Springfield
-Radio Communications Specialists - UHF (SW MO)	 LTR Standard	 Springfield/Joplin	Rayfield Communications - DMR (SWMO)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Southwest MO	Rayfield Communications - UHF (SWMO)	 LTR Standard
- Southern Missouri	Springfield / Greene County Public Safety/Services	 Motorola Type II SmartZone	 Springfield	Springfield MO Public Schools	 Motorola Type I	 Springfield	
+860.71250 	   	WPKP318 	M		Greene Shrf Tac1 	Sheriff: Talk-Around [TAC-1] 	FM 	Law Tac 
+859.96250 	   	WPKP318 	M		Greene Shrf Tac2 	Sheriff: Talk-Around [TAC-2] 	FM 	Law Tac 
+460.25000 	465.25000  	WQKR246 	RM		Greene Juv ERC 	Juvenile: Evening Reporting Center 	FMN 	Corrections 
+458.91250 	   	WQIY663 	M		Greene Juv Svc 	Juvenile Services 	FMN 	Corrections 
+154.40000 	   	KVF718 	BM	151.4 PL	Greene Fire/EMS 	Fire/EMS: Countywide Dispatch (Patched with TRS TG#17264*) 	FMN 	Fire Dispatch 
+460.56250 	   	KVF718 	M		Greene FireRF1 	Fire/EMS: Remote Links to 154.4 	FMN 	Fire Dispatch 
+460.61250 	   	KVF718 	M		Greene FireRF2 	Fire/EMS: Remote Links to 154.4 	FMN 	Fire Dispatch 
+465.56250 	   	KVF718 	M		Greene FireRF3 	Fire/EMS: Remote Links to 154.4 	FMN 	Fire Dispatch 
+465.61250 	   	KVF718 	M		Greene FireRF4 	Fire/EMS: Remote Links to 154.4 	FMN 	Fire Dispatch 
+860.96250 	806.96250  	WPKP318 	RM		Greene Fire T/A1 	Fire: Talk Around 1 	FM 	Fire-Tac 
+860.43750 	   	WPKP318 	M		Greene Fire T/A2 	Fire: Talk Around 2 	FM 	Fire-Tac 
+155.20500 	   	KNEE675 	BM		CHosp EMS 	EMS [Terminated] 	FMN 	EMS Dispatch 
+150.77500 	155.20500  	KNEE675 	M		CHosp EMS MX 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+155.34000 	   	KNEE675 	BM		HEAR 340 	HEAR340 	FMN 	Hospital 
+463.37500 	468.37500  	WQVD937 	RM	CC 9TG 201SL 1	CoxNH Sec N 	North - Security 	DMR 	Security 
+452.07500 	457.07500  	WPUT532 	RM	CC 9TG 202SL 1	CoxSH Sec S2 	South - Security (Springfield) 	DMR 	Security 
+462.95000 	467.95000  	WNBM832 	RM	127.3 PL	CoxSH Maint 	South - Maintenance/Housekeeping 	FMN 	Security 
+159.52500 	   	WPWQ841 	BM		LECMS PG V 	Data (CSQ Paging?) 	FMN 	Data 
+150.93500 	159.60000  	WRDX263 	RM		Cox Health EMS 	EMS: Dispatch 	DMR 	Data 
+152.96750 	158.34750  	WQXD633 	RM	CC 6TG 101SL 1	Cox EMS Greene 	EMS: Dispatch - Greene County 	DMR 	EMS Dispatch 
+155.20500 	   	WNLP860 	BM	114.8 PL	LECMS RurEMS 	Rural Ambulance Dispatch (Republic) 	FMN 	EMS Dispatch 
+155.34000 	   	WQIK268 	BM		HEAR 340 	Patient Reports 	FMN 	Hospital 
+452.27500 	457.27500  	WQVY897 	RM	CC 1TG 1100SL 1	Mercy S Sec 	Security 	DMR 	Security 
+452.85000 	457.85000  	WQVY897 	RM	123.0 PL	Mercy Security 1 	Security  	FMN 	Security 
+463.25000 	468.25000  	KNCJ355 	RM	179.9 PL	Mercy Security 2 	Security 	FMN 	Security 
+464.97500 	469.97500  	WNQA866 	RM		Mercy Maint 1 	Maintenance 	FMN 	Business 
+461.72500 	466.72500  	WNQA866 	RM		Mercy Maint 2 	Maintenance  	FMN 	Business 
+463.32500 	468.32500  	WNQA866 	RM		Mercy Maint 3 	Maintenance  	FMN 	Business 
+451.11250 	456.11250  	WQWU333 	RM	CC 0TG 1SL 2	Mercy Surgical 1 	Surgical Suite Ops 	DMR 	Business 
+154.51500 	   	KB24808 	M		Mercy BioEng 	Biomedical Engineering 	FMN 	Business 
+453.48750 	458.48750  	WQFT759 	RM	073 DPL	Lifeline A 	Lifeline Helicopter: EMS Dispatch 	FMN 	EMS Dispatch 
+453.48750 	458.48750  	WQFT759 	RM	226 DPL	Mercy Helo 	Mercy EMS - Helicopter Ops (Old?) 	FMN 	EMS Dispatch 
+155.23500 	   	WZX647 	BM	151.4 PL	Mercy EMS Alt 	EMS: Private / Aircraft Operations  	FMN 	EMS Dispatch 
+462.92500 	   	KNCB445 	B		Mercy Paging 1 	RHC: Paging (CSQ) 	Telm 	Data 
+465.00000 	   	WQGW982 	B		Mercy Paging 2 	RHC: Paging [Expired 5/17] 	FMN 	Data 
+154.41500 	   	WPUZ422 	BM		FairGrove FG 	Fireground 	FMN 	Fire-Tac 
+154.25000 	159.01500  	KNAF258 	RM		LR Fire 1 	Fire: 	FMN 	Fire Dispatch 
+154.01500 	   	KNAF258 	F		LR Fire 2 	Fire (input base or mistake on license?) 	FMN 	Fire-Tac 
+154.23500 	   	KNAF258 	RM		LR Fire FG 	Fireground 	FMN 	Fire-Tac 
+860.76250 	   	WPKP318 	M		Spfld PD Tc1 	Springfield Police: Talk-Around [TAC-1] 	FM 	Law Tac 
+860.21250 	   	WPKP318 	M		Spfld PD Tc2 	Springfield Police: Talk-Around [TAC-2] 	FM 	Law Tac 
+855.21250 	810.21250  	WPKH242 	BM		Spfld MDT 1 	Police/Fire - Digital (MDTs?) 	Telm 	Data 
+856.73750 	811.73750  	WPKH242 	BM		Spfld MDT 2 	Police/Fire - Digital (MDTs?) 	Telm 	Data 
+453.30000 	   	WYF503 	BM		Sfpld Util A 	Springfield City Utilities 	FMN 	Public Works 
+451.15000 	456.15000  	WQHD584 	RM		Sfpld Util B 	Utilities: Power Plant Ops/Maintenance 	FMN 	Public Works 
+451.25000 	456.25000  	WQHD711 	RM		Sfpld Util C 	Utilities: Power Plant Ops/Maintenance  	FMN 	Public Works 
+452.32500 	   	WQLU904 	F		Spfld UtilD1 	Utility Data (also WQLU905) 	Telm 	Data 
+854.85250 	809.85250  	WQAU423 	RM		Spfld PW Wtr 	Public Works: Water Plant Ops  	FM 	Public Works 
+154.20500 	158.91000  	WNHI773 	RM		StraffrdFire 	Fire 	FMN 	Fire Dispatch 
+154.75500 	   	KDT309 	BM		WGrv Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.13000 	   	KDT309 	BM		WGrv PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
+155.02500 	   	WPFE785 	BM		WlnrGrov FD 	Fire: 	FMN 	Fire-Tac 
+154.07000 	   	WNXJ272 	M		WRepblc Fire 	WRFPD Fire: 	FMN 	Fire-Tac 
+154.98000 	   	KSS835 	BM		Will Police 	Police 	FMN 	Law Dispatch 
+154.44500 	150.80500  	WPIS455 	RM		Will Fire 1 	Fire: 	FMN 	Fire Dispatch 
+155.38500 	153.75500  	WPIS455 	RM		Will Fire 2 	WFPD Fire: 	FMN 	Fire Dispatch 
+458.13750 	   	WPIS455 	M		Will Fire MX 	WFPD Fire: Mobile Extenders ? 	FMN 	Fire-Tac 
+461.17500 	466.17500  	WNUE993 	RM		AGSDR4 AGrv 	Operations (Ash Grove) 	FMN 	Schools 
+464.32500 	   	WNUE993 	BM		AGSDR4 BDArc 	Operations (Bois D Arc) 	FMN 	Schools 
+464.90000 	469.90000  	WNWS838 	RM		LRR8SD Ops1 	Operations 	FMN 	Schools 
+451.33750 	456.33750  	WNWS838 	RM		LRR8SD Ops2 	Operations 	FMN 	Schools 
+451.76250 	456.76250  	WNWS838 	RM		LRR8SD Ops3 	Operations 	FMN 	Schools 
+464.72500 	469.72500  	WNND338 	RM	CC 1TG 4SL 1	Republic Sch Bus 	Buses 	DMR 	Schools 
+461.35000 	466.35000  	WNND338 	RM		RepMid/HS 1 	Middle/High School (Phone Patch) 	FMN 	Schools 
+464.81250 	469.81250  	WNND338 	RM		RepMid/HS 2 	Middle/High School  	FMN 	Schools 
+464.71250 	   	WNND338 	M		RepMid/HS 3 	Middle/High School  	FMN 	Schools 
+464.83750 	469.83750  	WNND338 	RM		Rep PriceSch 	Price Elementary 	FMN 	Schools 
+464.50000 	   	WNND338 	M		Rep Sch S/W 	Operations - Statewide Events 	FMN 	Schools 
+858.26250 	813.26250  	WQYC313 	RM	141.3 PL	Spfld School Bus 	Buses 	FMN 	Schools 
+461.85000 	466.85000  	WQEM377 	RM	151.4 PL	Spfld School 	Operations 	FMN 	Schools 
+467.76250 	   	WQJQ332 	M		StEliz Sch 1 	Operations 	FMN 	Schools 
+467.81250 	   	WQJQ332 	M		StEliz Sch 2 	Operations 	FMN 	Schools 
+467.82500 	   	WQJQ332 	M		StEliz Sch 3 	Operations 	FMN 	Schools 
+467.92500 	   	WQJQ332 	M		StEliz Sch 4 	Operations 	FMN 	Schools 
+463.42500 	468.42500  	WNRO734 	RM		Stfrd School 	Operations 	FMN 	Schools 
+451.32500 	466.32500  	WNPZ841 	RM	CC 1TG 1703696SL 1	Willard Sch Bus 	Buses 	DMR 	Schools 
+464.42500 	469.42500  	WNRS521 	RM	91.5 PL	BBC Security 	Security  	FMN 	Security 
+154.57000 	   	KW3067 	M		BBC Ops 	Operations 	FMN 	Schools 
+151.65500 	   	KNAV607 	BM		CBC Ops 1 	Operations 	FMN 	Schools 
+151.86500 	   	KNAV607 	BM		CBC Ops 2 	Operations 	FMN 	Schools 
+464.57500 	469.57500  	WQLY474 	RM	131 DPL	Drury Univ Ops 	Operations 	FMN 	Schools 
+462.17500 	   	WPWM819 	BM		EUniv Ops 1 	Operations 	FMN 	Schools 
+463.40000 	   	WPWM819 	BM		EUniv Ops 2 	Operations 	FMN 	Schools 
+464.00000 	   	WPWM819 	BM		EUniv Ops 3 	Operations 	FMN 	Schools 
+155.89500 	   	KRB480 	BM		MSU Spf Ops 	Operations 	FMN 	Schools 
+464.65000 	   	WQGV451 	BM	254.1 PL	MSU Spf PG 	Physical Plant: Paging 	FMN 	Data 
+451.77500 	456.77500  	WPWT271 	RM	3 RAN	OTCC Ops 1 	Admin/Security [TG 0] 	NXDN 	Security 
+451.82500 	456.82500  	WPWT271 	RM	10 RAN	OTCC Ops 2 	Admin/Security [TG 0] 	NXDN 	Security 
+168.88750 	   	 	BM		USM Spfld 	US Marshal Service 	P25e 	Law Dispatch 
+Bass Pro Shops - Springfield MO	 NXDN NEXEDGE 9600	 Springfield	Communications Associates - 800 MHz (Southern MO)	 EDACS Standard	 Springfield	KAMO Power	 NXDN NEXEDGE 4800	 Various
+McLane Ozark	 DMR Motorola Capacity Plus Single Site (TRBO)	 Republic	Medical Center for Federal Prisoners (MCFP Springfield) P25	 Project 25 Phase I	 Springfield	Missouri State University	 NXDN NEXEDGE 9600	 Springfield
+Ozark Electric Cooperative (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Mount Vernon	Prime (Springfield MO)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Springfield	Radio Communications Specialists - UHF (SW MO)	 LTR Standard	 Springfield/Joplin
+Rayfield Communications - DMR (SWMO)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Southwest MO	Rayfield Communications - UHF (SWMO)	 LTR Standard	 Southern Missouri	Springfield / Greene County Public Safety/Services	 Motorola Type II SmartZone	 Springfield
+Springfield MO Public Schools	 Motorola Type I	 Springfield	

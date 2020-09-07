@@ -1,23 +1,23 @@
-159.09000 	WQBU609 	RM	200 NAC|TG 1	Rall Sheriff 	Sheriff: Dispatch (was D245) 	P25 	Law Dispatch 
-156.15000 	 	M	CSQ	Rall Shrfc2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
-158.13000 	 	M	77.0 PL	Rall ShrfTac 	Sheriff: Tactical 	FMN 	Law Tac 
-154.35500 	WPMR447 	B		Hann Fire 	{Link to} Hannibal Fire (New London) 	FMN 	Law Tac 
-159.12000 	WNYM826 	BM	103.5 PL	Rall Highway 	Highway Department 	FMN 	Public Works 
-151.42250 	WQKM735 	RM		NEMO NarcTF 	NE MO Narcotics Task Force (Center) 	FMN 	Law Tac 
-155.14500 	WPMR447 	RM	118.8 PL	Rall 911Fire 	Fire: Dispatch - Center/Perry/New London 	FMN 	Fire Dispatch 
-155.54250 	WQDJ542 	RM	712 DPL	Marion 911 	Marion County 911 (Multiple Repeaters) 	FMN 	Fire Dispatch 
-155.86500 	WYC663 	RM	77.0 PL	Ralls Co EMS 	EMS: Dispatch (w/ Vandalia EMS) 	FMN 	EMS Dispatch 
-151.73000 	WPYG421 	BM		RallsCo Watr 	Ralls County Water Company (CSQ) 	Telm 	Data 
-153.50000 	KUU740 	B		PWSD#1 WDD 	Public Water Supply District #1 	FMN 	Public Works 
-153.66500 	WNMW948 	BM		Cannon Water 	Cannon Water Supply District #1 	FMN 	Public Works 
-154.45625 	WPLP592 	F		CCWWC WDD 	Clarence Cannon Wholesale Water Comission (CSQ) 	Telm 	Data 
-154.46375 	WPSY987 	F		Cannon WDD1 	Cannon Water Supply District #1 (Perry) (CSQ) 	Telm 	Data 
-451.61250 	WPGK932 	F		Cannon WDD2 	Cannon Water Supply District #1 (CSQ; Carrier) 	Telm 	Data 
-456.25000 	WPGK824 	F		MonroeCo WDD 	Monroe County Public Water Supply (Vandalia) 	Telm 	Data 
-155.31000 	KUO515 	BM		Cntr Police 	Police 	FMN 	Law Dispatch 
-155.14500 	KSI598 	BM		Cntr Utility 	City Utilities  	FMN 	Public Works 
-155.14500 	KSZ868 	BM		PerryUtility 	City Utilities  	FMN 	Public Works 
-461.57500 	WPVA852 	RM		RallR2School 	Operations (Center) 	FMN 	Schools 
-163.53500 	 	M	100 NAC	MarkTwn Lake 	Mark Twain Lake USCE 	P25 	Federal 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Continental Cement Company - Hannibal MO	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hannibal	General Mills - Hannibal MO	 DMR Motorola Capacity Plus Single Site (TRBO)
- Hannibal 	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	Quincy 2-Way Communications 	 LTR Standard	 Quincy	
+159.09000 	155.43000  	WQBU609 	RM	200 NAC|TG 1	Rall Sheriff 	Sheriff: Dispatch (was D245) 	P25 	Law Dispatch 
+156.15000 	   	 	M	CSQ	Rall Shrfc2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+158.13000 	   	 	M	77.0 PL	Rall ShrfTac 	Sheriff: Tactical 	FMN 	Law Tac 
+154.35500 	   	WPMR447 	B		Hann Fire 	{Link to} Hannibal Fire (New London) 	FMN 	Law Tac 
+159.12000 	   	WNYM826 	BM	103.5 PL	Rall Highway 	Highway Department 	FMN 	Public Works 
+151.42250 	159.45750  	WQKM735 	RM		NEMO NarcTF 	NE MO Narcotics Task Force (Center) 	FMN 	Law Tac 
+155.14500 	153.95000  	WPMR447 	RM	118.8 PL	Rall 911Fire 	Fire: Dispatch - Center/Perry/New London 	FMN 	Fire Dispatch 
+155.54250 	158.93250  	WQDJ542 	RM	712 DPL	Marion 911 	Marion County 911 (Multiple Repeaters) 	FMN 	Fire Dispatch 
+155.86500 	159.00000  	WYC663 	RM	77.0 PL	Ralls Co EMS 	EMS: Dispatch (w/ Vandalia EMS) 	FMN 	EMS Dispatch 
+151.73000 	   	WPYG421 	BM		RallsCo Watr 	Ralls County Water Company (CSQ) 	Telm 	Data 
+153.50000 	   	KUU740 	B		PWSD#1 WDD 	Public Water Supply District #1 	FMN 	Public Works 
+153.66500 	   	WNMW948 	BM		Cannon Water 	Cannon Water Supply District #1 	FMN 	Public Works 
+154.45625 	   	WPLP592 	F		CCWWC WDD 	Clarence Cannon Wholesale Water Comission (CSQ) 	Telm 	Data 
+154.46375 	   	WPSY987 	F		Cannon WDD1 	Cannon Water Supply District #1 (Perry) (CSQ) 	Telm 	Data 
+451.61250 	   	WPGK932 	F		Cannon WDD2 	Cannon Water Supply District #1 (CSQ; Carrier) 	Telm 	Data 
+456.25000 	   	WPGK824 	F		MonroeCo WDD 	Monroe County Public Water Supply (Vandalia) 	Telm 	Data 
+155.31000 	   	KUO515 	BM		Cntr Police 	Police 	FMN 	Law Dispatch 
+155.14500 	   	KSI598 	BM		Cntr Utility 	City Utilities  	FMN 	Public Works 
+155.14500 	   	KSZ868 	BM		PerryUtility 	City Utilities  	FMN 	Public Works 
+461.57500 	466.57500  	WPVA852 	RM		RallR2School 	Operations (Center) 	FMN 	Schools 
+163.53500 	   	 	M	100 NAC	MarkTwn Lake 	Mark Twain Lake USCE 	P25 	Federal 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Continental Cement Company - Hannibal MO	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hannibal	General Mills - Hannibal MO	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hannibal 
+Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	Quincy 2-Way Communications 	 LTR Standard	 Quincy	

@@ -1,77 +1,77 @@
-151.40750 	WPDH420 	RM	100.0 PL	Comm 3 	Fire Dispatch Comm 3(See Subcategory description for more info) 	FMN 	Fire Dispatch 
-151.55000 	WQDI501 	BM	114 DPL	NothernLightsEMS 	Northern Lights EMS(Formerly Capital EMS) 	FMN 	EMS Dispatch 
-152.99500 	 	BM	CC 14TG 101SL *	NorthenLightsEMS 	Northern Lights EMS 	DMR 	EMS Dispatch 
-153.74000 	WPDH420 	RM	100.0 PL	Comm 2 Dixmont 	Fire Dispatch Dixmont 	FM 	Fire Dispatch 
-153.74000 	WPDH420 	BM	107.2 PL	Comm 2 Bull Hill 	Fire Dispatch Bull Hill 	FMN 	Fire Dispatch 
-153.74000 	WPDH420 	RM	114.8 PL	Comm 2 Blackcap 	Fire Dispatch Black Cap Mountain 	FM 	Fire Dispatch 
-153.74000 	WQGJ953 	BM	118.8 PL	Comm 2 Millinock 	Fire Dispatch Millinocket 	FM 	Fire Dispatch 
-153.74000 	WPDH420 	RM	136.5 PL	Comm 2 Dexter 	Fire Dispatch Mayo/Dexter Area 	FM 	Fire Dispatch 
-153.74000 	WQGJ953 	BM	167.9 PL	Comm 2 Medway 	Fire Dispatch Medway 	FM 	Fire Dispatch 
-153.74000 	WPDH420 	RM	77.0 PL	Comm 2 Patten 	Fire Dispatch Patten 	FM 	Fire Dispatch 
-153.74000 	WQGQ531 	BM	82.5 PL	Comm 2 Spring 	Fire Dispatch Springfield/Lakeville 	FM 	Fire Dispatch 
-153.74000 	WPDH420 	BM	94.8 PL	Comm 2 Fish Hill 	Fire Dispatch Lincoln Area 	FM 	Fire Dispatch 
-154.87500 	WPEV717 	BM	100.0 PL	SO Tac 4 	Sheriff Tactical 4 	FMN 	Law Tac 
-155.31000 	WPPY800 	BM	118.8 PL	PD Multi 	Police - East Millinocket, Medway, Millinocket 	FMN 	Multi-Dispatch 
-155.49000 	WNHI300 	BM	100.0 PL	Tac 1 Blackcap 	Sheriff Dispatch/Primary Black Cap Mountain 	FMN 	Law Dispatch 
-155.49000 	WNHI300 	F	107.2 PL	Tac 1 Bull Hill 	Sheriff Dispatch/Primary Bull Hill 	FM 	Law Dispatch 
-155.49000 	WQGQ531 	RM	114.8 PL	Tac 1 Dixmont 	Sheriff Dispatch Dixmouth/South 	FM 	Law Dispatch 
-155.49000 	WQGQ531 	F	118.8 PL	Tac 1 Medway 	Sheriff Disaptch Medway 	FM 	Law Dispatch 
-155.49000 	WQGQ531 	BM	167.9 PL	Tac 1 East Mill 	Sheriff Dispatch East Millinocket 	FMN 	Law Dispatch 
-155.49000 	WQGQ531 	BM	77.0 PL	Tac 1 Patten 	Sheriff Dispatch Patten 	FMN 	Law Dispatch 
-155.49000 	WQGQ531 	BM	82.5 PL	Tac1 Springfield 	Sheriff Dispatch Springfield/Lakeville 	FMN 	Law Dispatch 
-155.49000 	WNHI300 	F	94.8 PL	Tac 1 Fish Hill 	Sheriff Dispatch/Primary Fish Hill 	FM 	Law Dispatch 
-465.47500 	WNHI300 	F	664 DPL	PD Multi UHF 	Penobscot RCC - Point-to-Point link for 155.31 MHz 	FM 	Multi-Talk 
-154.14500 	WQAY558 	BM		Alton PW/FD Tac 	Alton PW and Fire Tac 	FMN 	Public Works 
-151.28750 	WQMY619 	BM	203.5 PL	BangorFDTac2 	Fire Tactical(Repeater) 	FM 	Fire-Tac 
-152.94500 	 	BM	CC 1TG 7501SL 1	BAT Buses 	BAT Community Connector 	DMR 	Transportation 
-153.96500 	WPZH905 	BM	114 DPL	BAT Buses 	BAT Community Connector Buses 	FM 	Transportation 
-154.22000 	KIC465 	BM	203.5 PL	BangorFDTac1 	Fire Tactical(Base/Mobile) 	FM 	Fire-Tac 
-154.28000 	WPMI358 	RM	023 DPL	BangorFDDisp 	Fire 	FM 	Fire Dispatch 
-155.04000 	WPMG838 	BM	143 DPL	BangorPW 	Bangor Public Works 	FMN 	Public Works 
-155.55000 	WPDJ991 	RM	203.5 PL	BangorPolice 	Police Dispatch/Primary 	FM 	Law Dispatch 
-155.61000 	WBY453 	RM	123.0 PL	BangrPolice2 	Police Secondary 	FM 	Law Talk 
-159.13500 	 	RM	146.2 PL	Bngr PD C2C  	Police Car-to-Car 	FM 	Law Talk 
-153.77000 	WPQJ706 	RM		Brewer Emer 	Emergency 	FM 	Emergency Ops 
-154.41500 	KCH880 	BM	186.2 PL	Brewer Fire 	Fire 	FM 	Fire Dispatch 
-155.58000 	KVD566 	BM	032 DPL	Brewer PD 	Police Dispatch / Primary 	FM 	Law Dispatch 
-154.02500 	WPXC628 	BM	192.8 PL	Carmel FD 	Fire 	FM 	Fire-Talk 
-153.74000 	KVI469 	BM	136.5 PL	Dexter FD  	Fire - Dispatch 	FM 	Fire Dispatch 
-154.84500 	KSZ787 	RM	141.3 PL	Dexter/NewportPD 	Police - Dispatch 	FM 	Law Dispatch 
-154.96500 	KSZ787 	RM	97.4 PL	Dexter Local 	Dexter Local 	FM 	Multi-Talk 
-158.83500 	WNNG333 	BM		Dextr Utilit 	Utility District 	FM 	Utilities 
-453.08750 	KSZ787 	M		DexterPDTAC1 	Police - Tactical 	FMN 	Law Tac 
-458.08750 	KSZ787 	M		DexterPDTAC2 	Police - Tactical 	FMN 	Law Tac 
-158.89500 	WNQF778 	BM		Dixmont FD  	Fire 	FM 	Fire-Talk 
-155.77500 	WNQU531 	BM		EMFD 	East Millinocket FD 	FMN 	Fire-Tac 
-158.97000 	WNXI486 	BF		EMPD 	East Millinocket PD 	FMN 	Law Dispatch 
-154.26500 	KNNS784 	B		EddingtonPW 	Eddington Public Works and Fire Tac 	FMN 	Public Works 
-155.11500 	WQOF645 	B		Etna Fire 	Etna Fire Department 	FM 	Fire-Talk 
-159.11250 	KNAK539 	RM	162.2 PL	Glenburn Fire 	Glenburn Fire 	FMN 	Fire-Tac 
-155.88000 	KBF504 	RM	114.8 PL	HampdenPD/FD 	Police and Fire Dispatch 	FM 	Fire Dispatch 
-154.13000 	KCH795 	RM	100.0 PL	Hermon FD 	Fire 	FM 	Fire-Talk 
-155.35500 	KMJ803 	B		Hospitals 	Hospitals-Penobscot County Area 	FM 	Hospital 
-153.80000 	KTS681 	RM	114.8 PL	Lincoln PD 	Police Dispatch/Primary (Shared with Fire) 	FM 	Law Dispatch 
-153.95000 	KNIS324 	BM		Milford FD 	Milford FD Local 	FMN 	Fire-Tac 
-155.77500 	WNQU531 	BM		Milford FDD 	Milford FD Dispatch 	FMN 	Fire Dispatch 
-155.31000 	WPPY800 	RM	118.8 PL	Mlnrckt PD 	Millinocket Police 	FM 	Law Dispatch 
-154.40000 	WPYZ394 	BM		Newport FD 	Fire Dispatch 	FM 	Fire Dispatch 
-154.84500 	WQGR400 	F		Dexter/NewportPD 	Dexter/Newport Police Dispatch 	FM 	Law Dispatch 
-153.86000 	WYV363 	BM		Old Town PW 	Public Works 	FM 	Public Works 
-155.41500 	KNDR604 	R	114.8 PL	Old/Orono PD 	Old Town and Orono Police Dispatch  	FMN 	Law Dispatch 
-155.77500 	WPGS219 	BM	136.5 PL	Old/Orono Fire 	Old Town, Orono, Mildford Fire Dispatch 	FMN 	Fire Dispatch 
-155.41500 	KNDR604 	RM	114.8 PL	Old/Orono PD 	Old Town and Orono Police Dispatch 	FM 	Law Dispatch 
-155.62500 	WPGJ337 	RM		OT/O PD B/U 	Old Town and Orono Police (Backup Repeater) 	FM 	Law Talk 
-155.77500 	WNQU531 	RM	136.5 PL	Old/Orono FD 	Old Town and Orono Fire 	FM 	Fire Dispatch 
-153.93500 	KTZ283 	BM		Orrington PS 	Police Car-to-Car (Shared with Fire and Public Works) 	FM 	Public Works 
-153.87500 	KIG639 	BM		IndIslnd FD 	Indian Island Fire Department Paging 	FM 	Fire Dispatch 
-155.91000 	WPOX925 	BM	192.8 PL	PenNat Polic 	Police Dispatch/Primary 	FM 	Law Dispatch 
-154.17500 	WNLC556 	BM		Plymouth Dsp 	Plymouth Fire Dispatch 	FM 	Fire Dispatch 
-154.31000 	WNLC556 	BM		Plymouth Loc 	Plymouth Fire Local 	FM 	Fire-Talk 
-155.11500 	WPXL378 	RM	100.0 PL	UMO PD Disp 	Police Dispatch/Primary 	FM 	Law Dispatch 
-155.25000 	WPPY546 	RM	100.0 PL	UMO PD TAC 	Police Tactical 	FM 	Law Tac 
-158.76000 	KRT75 	F		UMO PD 	Police (Encrypted) 	FME 	Law Talk 
-153.87500 	KYS860 	BM		Veazie FD 	Fire Local 	FM 	Fire-Talk 
-158.86500 	WNNE288 	B		Veazie Sewer 	Veazie Sewer District 	FM 	Public Works 
-Atlantic Communications	 DMR Conventional Networked	 Various	Atlantic Communications	 LTR Standard	 Various	Central Maine Power	 LTR Standard
- Various	Maine State Communications Network (MSCommNet)	 Project 25 Phase I	 Statewide	MaineStream Solutions	 NXDN Icom IDAS Type D	 Falmouth	MedComm
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Nextel (Eddington)	 LTR Standard	 Eddington	
+151.40750 	   	WPDH420 	RM	100.0 PL	Comm 3 	Fire Dispatch Comm 3(See Subcategory description for more info) 	FMN 	Fire Dispatch 
+151.55000 	   	WQDI501 	BM	114 DPL	NothernLightsEMS 	Northern Lights EMS(Formerly Capital EMS) 	FMN 	EMS Dispatch 
+152.99500 	   	 	BM	CC 14TG 101SL *	NorthenLightsEMS 	Northern Lights EMS 	DMR 	EMS Dispatch 
+153.74000 	158.77500  	WPDH420 	RM	100.0 PL	Comm 2 Dixmont 	Fire Dispatch Dixmont 	FM 	Fire Dispatch 
+153.74000 	158.77500  	WPDH420 	BM	107.2 PL	Comm 2 Bull Hill 	Fire Dispatch Bull Hill 	FMN 	Fire Dispatch 
+153.74000 	158.77500  	WPDH420 	RM	114.8 PL	Comm 2 Blackcap 	Fire Dispatch Black Cap Mountain 	FM 	Fire Dispatch 
+153.74000 	   	WQGJ953 	BM	118.8 PL	Comm 2 Millinock 	Fire Dispatch Millinocket 	FM 	Fire Dispatch 
+153.74000 	158.77500  	WPDH420 	RM	136.5 PL	Comm 2 Dexter 	Fire Dispatch Mayo/Dexter Area 	FM 	Fire Dispatch 
+153.74000 	   	WQGJ953 	BM	167.9 PL	Comm 2 Medway 	Fire Dispatch Medway 	FM 	Fire Dispatch 
+153.74000 	   	WPDH420 	RM	77.0 PL	Comm 2 Patten 	Fire Dispatch Patten 	FM 	Fire Dispatch 
+153.74000 	158.77500  	WQGQ531 	BM	82.5 PL	Comm 2 Spring 	Fire Dispatch Springfield/Lakeville 	FM 	Fire Dispatch 
+153.74000 	158.77500  	WPDH420 	BM	94.8 PL	Comm 2 Fish Hill 	Fire Dispatch Lincoln Area 	FM 	Fire Dispatch 
+154.87500 	   	WPEV717 	BM	100.0 PL	SO Tac 4 	Sheriff Tactical 4 	FMN 	Law Tac 
+155.31000 	158.98500  	WPPY800 	BM	118.8 PL	PD Multi 	Police - East Millinocket, Medway, Millinocket 	FMN 	Multi-Dispatch 
+155.49000 	   	WNHI300 	BM	100.0 PL	Tac 1 Blackcap 	Sheriff Dispatch/Primary Black Cap Mountain 	FMN 	Law Dispatch 
+155.49000 	   	WNHI300 	F	107.2 PL	Tac 1 Bull Hill 	Sheriff Dispatch/Primary Bull Hill 	FM 	Law Dispatch 
+155.49000 	   	WQGQ531 	RM	114.8 PL	Tac 1 Dixmont 	Sheriff Dispatch Dixmouth/South 	FM 	Law Dispatch 
+155.49000 	   	WQGQ531 	F	118.8 PL	Tac 1 Medway 	Sheriff Disaptch Medway 	FM 	Law Dispatch 
+155.49000 	   	WQGQ531 	BM	167.9 PL	Tac 1 East Mill 	Sheriff Dispatch East Millinocket 	FMN 	Law Dispatch 
+155.49000 	   	WQGQ531 	BM	77.0 PL	Tac 1 Patten 	Sheriff Dispatch Patten 	FMN 	Law Dispatch 
+155.49000 	   	WQGQ531 	BM	82.5 PL	Tac1 Springfield 	Sheriff Dispatch Springfield/Lakeville 	FMN 	Law Dispatch 
+155.49000 	158.73000  	WNHI300 	F	94.8 PL	Tac 1 Fish Hill 	Sheriff Dispatch/Primary Fish Hill 	FM 	Law Dispatch 
+465.47500 	   	WNHI300 	F	664 DPL	PD Multi UHF 	Penobscot RCC - Point-to-Point link for 155.31 MHz 	FM 	Multi-Talk 
+154.14500 	   	WQAY558 	BM		Alton PW/FD Tac 	Alton PW and Fire Tac 	FMN 	Public Works 
+151.28750 	156.07500  	WQMY619 	BM	203.5 PL	BangorFDTac2 	Fire Tactical(Repeater) 	FM 	Fire-Tac 
+152.94500 	   	 	BM	CC 1TG 7501SL 1	BAT Buses 	BAT Community Connector 	DMR 	Transportation 
+153.96500 	   	WPZH905 	BM	114 DPL	BAT Buses 	BAT Community Connector Buses 	FM 	Transportation 
+154.22000 	   	KIC465 	BM	203.5 PL	BangorFDTac1 	Fire Tactical(Base/Mobile) 	FM 	Fire-Tac 
+154.28000 	150.79000  	WPMI358 	RM	023 DPL	BangorFDDisp 	Fire 	FM 	Fire Dispatch 
+155.04000 	   	WPMG838 	BM	143 DPL	BangorPW 	Bangor Public Works 	FMN 	Public Works 
+155.55000 	   	WPDJ991 	RM	203.5 PL	BangorPolice 	Police Dispatch/Primary 	FM 	Law Dispatch 
+155.61000 	   	WBY453 	RM	123.0 PL	BangrPolice2 	Police Secondary 	FM 	Law Talk 
+159.13500 	   	 	RM	146.2 PL	Bngr PD C2C  	Police Car-to-Car 	FM 	Law Talk 
+153.77000 	   	WPQJ706 	RM		Brewer Emer 	Emergency 	FM 	Emergency Ops 
+154.41500 	   	KCH880 	BM	186.2 PL	Brewer Fire 	Fire 	FM 	Fire Dispatch 
+155.58000 	158.97000  	KVD566 	BM	032 DPL	Brewer PD 	Police Dispatch / Primary 	FM 	Law Dispatch 
+154.02500 	   	WPXC628 	BM	192.8 PL	Carmel FD 	Fire 	FM 	Fire-Talk 
+153.74000 	   	KVI469 	BM	136.5 PL	Dexter FD  	Fire - Dispatch 	FM 	Fire Dispatch 
+154.84500 	   	KSZ787 	RM	141.3 PL	Dexter/NewportPD 	Police - Dispatch 	FM 	Law Dispatch 
+154.96500 	155.98500  	KSZ787 	RM	97.4 PL	Dexter Local 	Dexter Local 	FM 	Multi-Talk 
+158.83500 	   	WNNG333 	BM		Dextr Utilit 	Utility District 	FM 	Utilities 
+453.08750 	   	KSZ787 	M		DexterPDTAC1 	Police - Tactical 	FMN 	Law Tac 
+458.08750 	   	KSZ787 	M		DexterPDTAC2 	Police - Tactical 	FMN 	Law Tac 
+158.89500 	   	WNQF778 	BM		Dixmont FD  	Fire 	FM 	Fire-Talk 
+155.77500 	   	WNQU531 	BM		EMFD 	East Millinocket FD 	FMN 	Fire-Tac 
+158.97000 	   	WNXI486 	BF		EMPD 	East Millinocket PD 	FMN 	Law Dispatch 
+154.26500 	   	KNNS784 	B		EddingtonPW 	Eddington Public Works and Fire Tac 	FMN 	Public Works 
+155.11500 	   	WQOF645 	B		Etna Fire 	Etna Fire Department 	FM 	Fire-Talk 
+159.11250 	156.18000  	KNAK539 	RM	162.2 PL	Glenburn Fire 	Glenburn Fire 	FMN 	Fire-Tac 
+155.88000 	153.83000  	KBF504 	RM	114.8 PL	HampdenPD/FD 	Police and Fire Dispatch 	FM 	Fire Dispatch 
+154.13000 	158.81250  	KCH795 	RM	100.0 PL	Hermon FD 	Fire 	FM 	Fire-Talk 
+155.35500 	   	KMJ803 	B		Hospitals 	Hospitals-Penobscot County Area 	FM 	Hospital 
+153.80000 	   	KTS681 	RM	114.8 PL	Lincoln PD 	Police Dispatch/Primary (Shared with Fire) 	FM 	Law Dispatch 
+153.95000 	   	KNIS324 	BM		Milford FD 	Milford FD Local 	FMN 	Fire-Tac 
+155.77500 	   	WNQU531 	BM		Milford FDD 	Milford FD Dispatch 	FMN 	Fire Dispatch 
+155.31000 	   	WPPY800 	RM	118.8 PL	Mlnrckt PD 	Millinocket Police 	FM 	Law Dispatch 
+154.40000 	   	WPYZ394 	BM		Newport FD 	Fire Dispatch 	FM 	Fire Dispatch 
+154.84500 	   	WQGR400 	F		Dexter/NewportPD 	Dexter/Newport Police Dispatch 	FM 	Law Dispatch 
+153.86000 	   	WYV363 	BM		Old Town PW 	Public Works 	FM 	Public Works 
+155.41500 	   	KNDR604 	R	114.8 PL	Old/Orono PD 	Old Town and Orono Police Dispatch  	FMN 	Law Dispatch 
+155.77500 	   	WPGS219 	BM	136.5 PL	Old/Orono Fire 	Old Town, Orono, Mildford Fire Dispatch 	FMN 	Fire Dispatch 
+155.41500 	154.74000  	KNDR604 	RM	114.8 PL	Old/Orono PD 	Old Town and Orono Police Dispatch 	FM 	Law Dispatch 
+155.62500 	   	WPGJ337 	RM		OT/O PD B/U 	Old Town and Orono Police (Backup Repeater) 	FM 	Law Talk 
+155.77500 	154.07000  	WNQU531 	RM	136.5 PL	Old/Orono FD 	Old Town and Orono Fire 	FM 	Fire Dispatch 
+153.93500 	   	KTZ283 	BM		Orrington PS 	Police Car-to-Car (Shared with Fire and Public Works) 	FM 	Public Works 
+153.87500 	   	KIG639 	BM		IndIslnd FD 	Indian Island Fire Department Paging 	FM 	Fire Dispatch 
+155.91000 	   	WPOX925 	BM	192.8 PL	PenNat Polic 	Police Dispatch/Primary 	FM 	Law Dispatch 
+154.17500 	   	WNLC556 	BM		Plymouth Dsp 	Plymouth Fire Dispatch 	FM 	Fire Dispatch 
+154.31000 	   	WNLC556 	BM		Plymouth Loc 	Plymouth Fire Local 	FM 	Fire-Talk 
+155.11500 	158.94000  	WPXL378 	RM	100.0 PL	UMO PD Disp 	Police Dispatch/Primary 	FM 	Law Dispatch 
+155.25000 	   	WPPY546 	RM	100.0 PL	UMO PD TAC 	Police Tactical 	FM 	Law Tac 
+158.76000 	   	KRT75 	F		UMO PD 	Police (Encrypted) 	FME 	Law Talk 
+153.87500 	   	KYS860 	BM		Veazie FD 	Fire Local 	FM 	Fire-Talk 
+158.86500 	   	WNNE288 	B		Veazie Sewer 	Veazie Sewer District 	FM 	Public Works 
+Atlantic Communications	 DMR Conventional Networked	 Various	Atlantic Communications	 LTR Standard	 Various	Central Maine Power	 LTR Standard	 Various
+Maine State Communications Network (MSCommNet)	 Project 25 Phase I	 Statewide	MaineStream Solutions	 NXDN Icom IDAS Type D	 Falmouth	MedComm	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Nextel (Eddington)	 LTR Standard	 Eddington	

@@ -1,22 +1,22 @@
-156.15000 	KVT880 	RM	110.9 PL	MCSO Jail 	County Jail 	FMN 	Corrections 
-155.14500 	WQPZ503 	BM	CSQ	MC EMS-MedFl 	EMS to MedFlight 	FMN 	EMS-Tac 
-154.79250 	WPQI933 	RM		MC 911 	E-911 District 	FMN 	Emergency Ops 
-155.69250 	WPQI933 	RM		MC 911 	E-911 District 	FMN 	Emergency Ops 
-154.43000 	KZQ612 	RM		MC WX Sirens 	EMA Weather Siren Activation 	Telm 	Emergency Ops 
-453.37500 	WPWY714 	RM		MC Indus Net 	EMA Industrial Net 	FMN 	Emergency Ops 
-453.45000 	KCS456 	RM	123.0 PL	MC Highways 	Highway Dept. 	FMN 	Public Works 
-452.88750 	WPMV370 	RM	205 DPL	MC Landfill 	Landfill 	FMN 	Public Works 
-453.52500 	KJG969 	RM	123.0 PL	NE MC Water 	Water Authority 	FMN 	Public Works 
-453.76250 	WPEI598 	M		MC Court Mnt 	Courthouse Maintenance 	FMN 	Public Works 
-155.34000 	WQOU652 	BM	123.0 PL	Decatur GH 	Decatur General Hospital 	FMN 	Hospital 
-155.34000 	WQOU652 	BM	146.2 PL	Parkway MCH 	Parkway Medical Center Hospital 	FMN 	Hospital 
-460.17500 	WQBD572 	RM		BM VFD FG 	Fireground 	FM 	Fire-Tac 
-45.80000 	WPIY522 	BM		Dec Str/San 	Street & Sanitation 	FM 	Public Works 
-451.02500 	WPYT245 	RM	114.8 PL	Decatur Utl1 	Utilities Operations 	FMN 	Utilities 
-451.15000 	WPYS752 	RM		Decatur Utl2 	Utilities 2 	FMN 	Utilities 
-451.25000 	KIK248 	RM	114.8 PL	Decatur Utl3 	Utilities Admin 	FMN 	Utilities 
-153.63500 	WQBR555 	RM		Hartsl Utils 	Utilities (Gas/Water/Electric) 	FMN 	Public Works 
-154.08500 	KNBL863 	BM		Pricev PD/PW 	Police / Public Works 	FMN 	Multi-Dispatch 
-460.60000 	WPCM956 	BM		Pricev VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
- Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Decatur Electronic Communications	 LTR Standard	 Trinity	Indorama Ventures Xylenes & PTA	 Motorola Type II Smartnet
- Decatur	Nucor Steel Decatur	 NXDN NEXEDGE 4800	 Decatur	SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various	
+156.15000 	158.97000  	KVT880 	RM	110.9 PL	MCSO Jail 	County Jail 	FMN 	Corrections 
+155.14500 	   	WQPZ503 	BM	CSQ	MC EMS-MedFl 	EMS to MedFlight 	FMN 	EMS-Tac 
+154.79250 	158.96250  	WPQI933 	RM		MC 911 	E-911 District 	FMN 	Emergency Ops 
+155.69250 	153.80750  	WPQI933 	RM		MC 911 	E-911 District 	FMN 	Emergency Ops 
+154.43000 	153.77000  	KZQ612 	RM		MC WX Sirens 	EMA Weather Siren Activation 	Telm 	Emergency Ops 
+453.37500 	458.37500  	WPWY714 	RM		MC Indus Net 	EMA Industrial Net 	FMN 	Emergency Ops 
+453.45000 	458.45000  	KCS456 	RM	123.0 PL	MC Highways 	Highway Dept. 	FMN 	Public Works 
+452.88750 	457.88750  	WPMV370 	RM	205 DPL	MC Landfill 	Landfill 	FMN 	Public Works 
+453.52500 	458.52500  	KJG969 	RM	123.0 PL	NE MC Water 	Water Authority 	FMN 	Public Works 
+453.76250 	   	WPEI598 	M		MC Court Mnt 	Courthouse Maintenance 	FMN 	Public Works 
+155.34000 	   	WQOU652 	BM	123.0 PL	Decatur GH 	Decatur General Hospital 	FMN 	Hospital 
+155.34000 	   	WQOU652 	BM	146.2 PL	Parkway MCH 	Parkway Medical Center Hospital 	FMN 	Hospital 
+460.17500 	465.17500  	WQBD572 	RM		BM VFD FG 	Fireground 	FM 	Fire-Tac 
+45.80000 	   	WPIY522 	BM		Dec Str/San 	Street & Sanitation 	FM 	Public Works 
+451.02500 	456.02500  	WPYT245 	RM	114.8 PL	Decatur Utl1 	Utilities Operations 	FMN 	Utilities 
+451.15000 	456.15000  	WPYS752 	RM		Decatur Utl2 	Utilities 2 	FMN 	Utilities 
+451.25000 	456.25000  	KIK248 	RM	114.8 PL	Decatur Utl3 	Utilities Admin 	FMN 	Utilities 
+153.63500 	159.91500  	WQBR555 	RM		Hartsl Utils 	Utilities (Gas/Water/Electric) 	FMN 	Public Works 
+154.08500 	   	KNBL863 	BM		Pricev PD/PW 	Police / Public Works 	FMN 	Multi-Dispatch 
+460.60000 	   	WPCM956 	BM		Pricev VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
+ Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Decatur Electronic Communications	 LTR Standard	 Trinity	Indorama Ventures Xylenes & PTA	 Motorola Type II Smartnet	 Decatur
+Nucor Steel Decatur	 NXDN NEXEDGE 4800	 Decatur	SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various	

@@ -1,14 +1,13 @@
-155.62500 	KAD530 	RM	100.0 PL	Jackson Co SO 1 	Sheriff (Dispatch before KSICS) 	FMN 	Law Dispatch 
-159.03000 	KAD530 	M		Jackson Co SO 2 	Sheriff (Car to Car before KSICS) 	FMN 	Law Tac 
-155.08500 	WPUB475 	RM	100.0 PL	Jackson Co SO 	Sheriff  (before KSICS) 	FMN 	Law Tac 
-155.35500 	 	BM	100.0 PL	Jackson Co Jail 	County Jail 	FMN 	Corrections 
-155.95500 	WPUB475 	RM	67.0 PL	Jackson Co Fire 	Rural Fire Dispatch 	FMN 	Fire Dispatch 
-158.94750 	WQOI988 	RM	131.8 PL	Holton Police 	Police Dispatch 	FMN 	Law Dispatch 
-154.04500 	 	BM	131.8 PL	Holton Police 	Police (same traffic as 158.9475) 	FMN 	Law Tac 
-155.89500 	WNED317 	BM	131.8 PL	Holton Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.20500 	WNWR492 	RM		Holton Rural FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.41500 	WPWH879 	BM		Hoyt Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.20500 	WPVB736 	BM		Mayetta Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.61000 	WPWR905 	BM		Netwaka Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-Kansas Statewide Interoperable Communication System (KSICS)	 Project 25 Phase I	 Statewide	Midwest Mobile Radio Service - Kansas	 LTR Passport	 Hiawatha	Westar Energy (KS/MO)	 Motorola Type II SmartZone
- Various	
+155.62500 	159.03000  	KAD530 	RM	100.0 PL	Jackson Co SO 1 	Sheriff (Dispatch before KSICS) 	FMN 	Law Dispatch 
+159.03000 	   	KAD530 	M		Jackson Co SO 2 	Sheriff (Car to Car before KSICS) 	FMN 	Law Tac 
+155.08500 	156.01500  	WPUB475 	RM	100.0 PL	Jackson Co SO 	Sheriff  (before KSICS) 	FMN 	Law Tac 
+155.35500 	   	 	BM	100.0 PL	Jackson Co Jail 	County Jail 	FMN 	Corrections 
+155.95500 	153.84500  	WPUB475 	RM	67.0 PL	Jackson Co Fire 	Rural Fire Dispatch 	FMN 	Fire Dispatch 
+158.94750 	153.76250  	WQOI988 	RM	131.8 PL	Holton Police 	Police Dispatch 	FMN 	Law Dispatch 
+154.04500 	   	 	BM	131.8 PL	Holton Police 	Police (same traffic as 158.9475) 	FMN 	Law Tac 
+155.89500 	   	WNED317 	BM	131.8 PL	Holton Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.20500 	150.77500  	WNWR492 	RM		Holton Rural FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.41500 	   	WPWH879 	BM		Hoyt Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.20500 	   	WPVB736 	BM		Mayetta Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.61000 	   	WPWR905 	BM		Netwaka Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+Midwest Mobile Radio Service - Kansas	 LTR Passport	 Hiawatha	Westar Energy (KS/MO)	 Motorola Type II SmartZone	 Various	

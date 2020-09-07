@@ -1,46 +1,45 @@
-155.52000 	KQD729 	RM	85.4 PL	ALLEN SO 	Allen County Sheriff 	FMN 	Law Dispatch 
-158.91000 	 	M		ALLEN SO TAC 	Allen County Sheriff - TAC 	FMN 	Law Tac 
-158.77500 	 	M		ALLEN SO TAC 	Allen County Sheriff - TAC 	FMN 	Law Tac 
-155.59500 	WPLV639 	RM	155 DPL	Bluffton PD 	Bluffton Police Dispatch 	FMN 	Law Dispatch 
-155.52000 	WQRJ267 	BM		Delphos PD 	Delphos Police Dispatch 	FMN 	Law Dispatch 
-154.80000 	KQA818 	RM	85.4 PL	Lima Police 	Lima Police Dispatch 	FMN 	Law Dispatch 
-151.04750 	KQA818 	RM	051 DPL	LPD TAC 	Lima Police TAC 	FMN 	Law Tac 
-155.98500 	N/A 	M		LPD TAC/MC 	Lima Police TAC/Municipal Court 	FMN 	Law Tac 
-159.15000 	WPZT321 	M	85.4 PL	SHAWTWP PD 	Shawnee Township Police 	FMN 	Law Tac 
-851.03750 	WPUD609 	RM		ACSO MDT 	Allen County Sheriff - MDTs 	FM 	Data 
-155.05500 	WNQN437 	BM	243 DPL	ALLEN FIRE 	County Fire Dispatch 	FMN 	Fire Dispatch 
-151.22000 	WQEW246 	RM	136.5 PL	DFD DISP 	Delphos Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-154.31000 	KTL681 	BM	136.5 PL	DFD PAGE 	Delphos Fire Paging 	FMN 	Fire Dispatch 
-154.22000 	KUL776 	RM	85.4 PL	LIMA FIRE 	Lima Fire Dispatch/Ops 	FMN 	Fire Dispatch 
-151.19000 	KUL776 	BM	85.4 PL	LFD FG 	Lima Fire Fireground 	FMN 	Fire-Tac 
-153.77000 	KUL776 	M	85.4 PL	LFD TAC 	Lima Fire TAC 	FMN 	Fire-Tac 
-151.02500 	WQHK886 	RM	315 DPL	AMTWP FIRE 	American Township Fire - Dispatch 	FMN 	Fire Dispatch 
-154.40000 	KBD695 	RM	627 DPL	AMTWP TRAIN 	American Township Fire - Training 	FMN 	Fire Dispatch 
-154.23500 	KQK599 	RM	412 DPL	SWTWP FIRE 	Shawnee Townthip FD Dispatch/Ops 	FMN 	Fire Dispatch 
-154.43000 	KQJ946 	BM	107.2 PL	PERRY FG 	Perry FD Fireground/Ops 	FMN 	Fire-Tac 
-866.17500 	 	M	CSQ	FG-1 	County fireground (used as needed) 	FM 	Fire-Tac 
-866.53750 	 	M	CSQ	FG-2 	County fireground (used as needed) 	FM 	Fire-Tac 
-867.31250 	 	M	CSQ	FG-3 	County fireground (used as needed) 	FM 	Fire-Tac 
-868.31250 	 	M	CSQ	FG-4 	County fireground (used as needed) 	FM 	Fire-Tac 
-868.57500 	 	M	CSQ	FG-5 	County fireground (used as needed) 	FM 	Fire-Tac 
-155.05500 	 	BM	136.5 PL	DEL EMS PAGE 	Delphos EMS Paging 	FMN 	EMS Dispatch 
-155.05500 	WNQN437 	BM	243 DPL	AC EMS DISP 	Allen County EMS Dispatch 	FMN 	EMS Dispatch 
-155.08500 	KMB202 	RM	85.4 PL	ALLEN EMA 	Allen County EMA/Homeland Security 	FMN 	Emergency Ops 
-151.16000 	KNFQ474 	RM	85.4 PL	Metroparks 	Johnny Appleseed Metropolitan Park District 	FMN 	Public Works 
-152.33000 	WPWW998 	RM	723 DPL	Lima Util 	Lima Utilities 	FMN 	Utilities 
-155.77500 	KRX398 	BM	85.4 PL	Bluffton Str 	Bluffton Street Department 	FMN 	Public Works 
-158.83500 	KAZ446 	BM	85.4 PL	Lima PW 	Lima Public Works 	FMN 	Public Works 
-453.72500 	 	RM	162.2 PL	ACRTA 	Allen County Regional Transit Authority - Operations 	FMN 	Transportation 
-855.28750 	WPQG771 	RM	CSQ	Head Start 	Lima-Allen County Head Start Buses 	FM 	Transportation 
-463.21250 	WQPP758 	RM	218.1 PL	PERRY LSD 	Perry Local School District - Transportation 	FMN 	Schools 
-120.80000 	 	BM		Toledo A/D 	Toledo Approach/Departure (0600-0000) 	AM 	Aircraft 
-122.80000 	 	BM		5G7 CTAF 	CTAF/Unicom 	AM 	Aircraft 
-108.40000 	 	B		AOH ASOS 	Automated Surface Observation Station (ASOS) 	AM 	Aircraft 
-122.70000 	WXL6 	BM		AOH CTAF 	CTAF/Unicom 	AM 	Aircraft 
-128.07500 	 	BM		AOH A/D 	Approach/Departure (Provided for by Indianapolis ARTCC [ZID] } 	AM 	Aircraft 
-151.65500 	WPVC485 	M	631 DPL	BU SEC/OPS 	Bluffton University ops and security 	FMN 	Business 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Husky Energy Lima Refinery	 DMR Motorola Connect Plus (TRBO)
- Lima	INEOS Nitriles Lima	 DMR Motorola Connect Plus (TRBO)	 Lima	McAfees Communication Service	 LTR Standard	 Lima	Ohio MARCS-IP: Mobile Site 5A1
- Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	P and R Communications Connect Plus (Ohio)	 DMR Motorola Connect Plus (TRBO)	 Various
-Radio Hospital	 LTR Standard	 Findlay/Lima	Smart Link Systems	 LTR Standard	 Various	United Telephone of Ohio	 Motorola Type II Smartnet
- Various	
+155.52000 	154.83000  	KQD729 	RM	85.4 PL	ALLEN SO 	Allen County Sheriff 	FMN 	Law Dispatch 
+158.91000 	   	 	M		ALLEN SO TAC 	Allen County Sheriff - TAC 	FMN 	Law Tac 
+158.77500 	   	 	M		ALLEN SO TAC 	Allen County Sheriff - TAC 	FMN 	Law Tac 
+155.59500 	159.03000  	WPLV639 	RM	155 DPL	Bluffton PD 	Bluffton Police Dispatch 	FMN 	Law Dispatch 
+155.52000 	   	WQRJ267 	BM		Delphos PD 	Delphos Police Dispatch 	FMN 	Law Dispatch 
+154.80000 	155.97000  	KQA818 	RM	85.4 PL	Lima Police 	Lima Police Dispatch 	FMN 	Law Dispatch 
+151.04750 	156.06750  	KQA818 	RM	051 DPL	LPD TAC 	Lima Police TAC 	FMN 	Law Tac 
+155.98500 	   	N/A 	M		LPD TAC/MC 	Lima Police TAC/Municipal Court 	FMN 	Law Tac 
+159.15000 	   	WPZT321 	M	85.4 PL	SHAWTWP PD 	Shawnee Township Police 	FMN 	Law Tac 
+851.03750 	806.03750  	WPUD609 	RM		ACSO MDT 	Allen County Sheriff - MDTs 	FM 	Data 
+155.05500 	   	WNQN437 	BM	243 DPL	ALLEN FIRE 	County Fire Dispatch 	FMN 	Fire Dispatch 
+151.22000 	159.33000  	WQEW246 	RM	136.5 PL	DFD DISP 	Delphos Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.31000 	   	KTL681 	BM	136.5 PL	DFD PAGE 	Delphos Fire Paging 	FMN 	Fire Dispatch 
+154.22000 	159.19500  	KUL776 	RM	85.4 PL	LIMA FIRE 	Lima Fire Dispatch/Ops 	FMN 	Fire Dispatch 
+151.19000 	   	KUL776 	BM	85.4 PL	LFD FG 	Lima Fire Fireground 	FMN 	Fire-Tac 
+153.77000 	   	KUL776 	M	85.4 PL	LFD TAC 	Lima Fire TAC 	FMN 	Fire-Tac 
+151.02500 	156.23250  	WQHK886 	RM	315 DPL	AMTWP FIRE 	American Township Fire - Dispatch 	FMN 	Fire Dispatch 
+154.40000 	153.83000  	KBD695 	RM	627 DPL	AMTWP TRAIN 	American Township Fire - Training 	FMN 	Fire Dispatch 
+154.23500 	150.79000  	KQK599 	RM	412 DPL	SWTWP FIRE 	Shawnee Townthip FD Dispatch/Ops 	FMN 	Fire Dispatch 
+154.43000 	   	KQJ946 	BM	107.2 PL	PERRY FG 	Perry FD Fireground/Ops 	FMN 	Fire-Tac 
+866.17500 	   	 	M	CSQ	FG-1 	County fireground (used as needed) 	FM 	Fire-Tac 
+866.53750 	   	 	M	CSQ	FG-2 	County fireground (used as needed) 	FM 	Fire-Tac 
+867.31250 	   	 	M	CSQ	FG-3 	County fireground (used as needed) 	FM 	Fire-Tac 
+868.31250 	   	 	M	CSQ	FG-4 	County fireground (used as needed) 	FM 	Fire-Tac 
+868.57500 	   	 	M	CSQ	FG-5 	County fireground (used as needed) 	FM 	Fire-Tac 
+155.05500 	   	 	BM	136.5 PL	DEL EMS PAGE 	Delphos EMS Paging 	FMN 	EMS Dispatch 
+155.05500 	   	WNQN437 	BM	243 DPL	AC EMS DISP 	Allen County EMS Dispatch 	FMN 	EMS Dispatch 
+155.08500 	158.89500  	KMB202 	RM	85.4 PL	ALLEN EMA 	Allen County EMA/Homeland Security 	FMN 	Emergency Ops 
+151.16000 	159.27000  	KNFQ474 	RM	85.4 PL	Metroparks 	Johnny Appleseed Metropolitan Park District 	FMN 	Public Works 
+152.33000 	157.59000  	WPWW998 	RM	723 DPL	Lima Util 	Lima Utilities 	FMN 	Utilities 
+155.77500 	   	KRX398 	BM	85.4 PL	Bluffton Str 	Bluffton Street Department 	FMN 	Public Works 
+158.83500 	   	KAZ446 	BM	85.4 PL	Lima PW 	Lima Public Works 	FMN 	Public Works 
+453.72500 	458.72500  	 	RM	162.2 PL	ACRTA 	Allen County Regional Transit Authority - Operations 	FMN 	Transportation 
+855.28750 	810.28750  	WPQG771 	RM	CSQ	Head Start 	Lima-Allen County Head Start Buses 	FM 	Transportation 
+463.21250 	468.21250  	WQPP758 	RM	218.1 PL	PERRY LSD 	Perry Local School District - Transportation 	FMN 	Schools 
+120.80000 	   	 	BM		Toledo A/D 	Toledo Approach/Departure (0600-0000) 	AM 	Aircraft 
+122.80000 	   	 	BM		5G7 CTAF 	CTAF/Unicom 	AM 	Aircraft 
+108.40000 	   	 	B		AOH ASOS 	Automated Surface Observation Station (ASOS) 	AM 	Aircraft 
+122.70000 	   	WXL6 	BM		AOH CTAF 	CTAF/Unicom 	AM 	Aircraft 
+128.07500 	   	 	BM		AOH A/D 	Approach/Departure (Provided for by Indianapolis ARTCC [ZID] } 	AM 	Aircraft 
+151.65500 	   	WPVC485 	M	631 DPL	BU SEC/OPS 	Bluffton University ops and security 	FMN 	Business 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Husky Energy Lima Refinery	 DMR Motorola Connect Plus (TRBO)	 Lima
+INEOS Nitriles Lima	 DMR Motorola Connect Plus (TRBO)	 Lima	McAfees Communication Service	 LTR Standard	 Lima	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide
+Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	P and R Communications Connect Plus (Ohio)	 DMR Motorola Connect Plus (TRBO)	 Various	Radio Hospital	 LTR Standard	 Findlay/Lima
+Smart Link Systems	 LTR Standard	 Various	United Telephone of Ohio	 Motorola Type II Smartnet	 Various	

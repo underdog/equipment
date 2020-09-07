@@ -1,44 +1,43 @@
-46.50000 	varies 	BM	CSQ	HOCKCO FIRE 	Hocking County Fire 	FM 	Fire Dispatch 
-154.21250 	WQBB924 	RM	67.0 PL	HCFD CALICO 	Hocking County Fire - Calico tower 	FM 	Fire Dispatch 
-154.21250 	WQBB924 	RM	91.5 PL	HCFD GIBBVLE 	Hocking County Fire - Gibbisonville tower 	FM 	Fire Dispatch 
-154.21250 	WQBB924 	RM	77.0 PL	HCFD LAURVLE 	Hocking County Fire - Laurelville tower 	FM 	Fire Dispatch 
-154.21250 	WQBB924 	RM	103.5 PL	HCFD SNAKHOL 	Hocking County Fire - Snake Hollow tower 	FM 	Fire Dispatch 
-154.21250 	WQBB924 	RM	103.5 PL	HCFD MURRCTY 	Hocking County Fire - Murray City Tower (input PL is 71.9) 	FM 	Fire Dispatch 
-153.90500 	WQBB924 	M	85.4 PL	HCFD TAC 1 	Hocking County Fireground 1 	FM 	Fire-Tac 
-154.38500 	WQBB924 	M	85.4 PL	HCFD TAC 2 	Hocking County Fireground 2/Medflight 	FM 	Fire-Tac 
-155.38500 	 	M	85.4 PL	HCFD TAC 3 	Hocking County Fireground 3 	FM 	Fire-Tac 
-155.80500 	 	BM	CSQ	HCFD EMA 	Hocking County Fire EMA/Hazmat Ops (Input tone is 84.5 PL) 	FM 	Fire-Tac 
-151.80500 	 	M		HCFD VRE 	Hocking County Fire - TAC/Vehicle Repeaters (Tone varies among departments) 	FM 	Fire-Tac 
-155.22000 	KNDY864 	BM	85.4 PL	HOCKCO EMS 	Hocking County EMS 	FM 	EMS Dispatch 
-154.21250 	 	M	67.0 PL	MARION FD 	Marion Township Fire 	FM 	Fire-Tac 
-154.29500 	 	BM	162.2 PL	GHTWPFD T/A 	Good Hope Twp Fire talkaround 	FM 	Fire-Tac 
-155.37500 	 	BM	85.4 PL	HOCKCO EMA 	Hocking County EMA 	FM 	Emergency Ops 
-453.63750 	KNAB656 	RM	100.0 PL	LAURVLE FD 	Laurelville Fire/EMS (patch to 33.86) 	FM 	Fire Dispatch 
-39.30000 	KDQ224 	M		HCSO LO MOB 	Hocking Co SO low-band mobiles (paired with 39.64) 	FM 	Law Dispatch 
-39.64000 	KDQ224 	B	94.8 PL	HCSO LO BASE 	Hocking Co SO low band base (paired with 39.30) 	FM 	Law Dispatch 
-153.90500 	WQBB924 	M	85.4 PL	HCSO TAC 1 	Sheriff TAC 1 	FM 	Law Tac 
-154.38500 	WQBB924 	M	85.4 PL	HCSO TAC 2 	Sheriff TAC 2 	FM 	Law Tac 
-154.65000 	KDQ224 	BM	118.8 PL	HCSO CAR 	Sheriff Car to Car 	FM 	Law Talk 
-155.59500 	KDQ224 	RM	118.8 PL	HCSO DISP 	Sheriff Dispatch 	FM 	Law Dispatch 
-453.23750 	WPZT275 	F		HCSOR SBLOOM 	Sheriff RX link from S Bloomingville 	FM 	Law Dispatch 
-453.38750 	WPZT275 	F		HCSOR LOGAN 	Sheriff RX link from Logan 	FM 	Law Dispatch 
-453.41250 	WPZT275 	F	192.8 PL	HCSOR CARBON 	Sheriff RX link from Carbon Hill 	FM 	Law Dispatch 
-453.48750 	WPZT275 	F	127.3 PL	HCSOR CLIFFS 	Sheriff RX link from Cantwell Cliffs 	FM 	Law Dispatch 
-453.61250 	WPZT275 	F	151.4 PL	HCSOR RCKBRG 	Sheriff RX link from Rockbridge 	FM 	Law Dispatch 
-453.73750 	WPZT275 	F	179.9 PL	HCSOR LAURVL 	Sheriff RX link from Laurelville 	FM 	Law Dispatch 
-458.23750 	WPZT278 	F		HCSOR SBLOOM 	Sheriff TX link to S Bloomingville 	FM 	Law Dispatch 
-458.38750 	WPZT278 	F	118.8 PL	HCSOT LOGAN 	Sheriff TX link to Logan 	FM 	Law Dispatch 
-458.41250 	WPZT278 	F		HCSOT CARBON 	Sheriff TX link to Carbon Hill 	FM 	Law Dispatch 
-458.48750 	WPZT278 	F		HCSOT CLIFFS 	Sheriff TX link to Cantwell Cliffs 	FM 	Law Dispatch 
-458.61250 	WPZT278 	F		HCSOT RCKBRG 	Sheriff TX link to Rockbridge 	FM 	Law Dispatch 
-458.73750 	WPZT278 	F	100.0 PL	HCSOT LAURVL 	Sheriff TX link to Laurelville 	FM 	Law Dispatch 
-39.64000 	KNBD407 	BM		LOGAN PD LB 	Logan Police low band 	FM 	Law Dispatch 
-155.43000 	KNBD407 	RM	151.4 PL	LOGAN PDISP 	Logan Police dispatch 	FM 	Law Dispatch 
-151.57500 	 	BM	754 DPL	LAURLPD CAR 	Laurelville PD car to car 	FM 	Law Talk 
-151.01000 	KGV200 	RM	173.8 PL	HOCKCO ENG 	Hocking County Engineer 	FM 	Public Works 
-453.30000 	WPMH344 	RM		LOGAN DPW 	Logan, City of 	FM 	Public Works 
-152.37500 	WQEB482 	RM	516 DPL	LOG-HOCK LSD 	Logan-Hocking Schools 	FM 	Schools 
-155.23500 	KNBV942 	BM	516 DPL	LOG-HOCK LSD 	Logan-Hocking Schools 	FM 	Schools 
-451.13750 	WPOX259 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
- Statewide	
+46.50000 	   	varies 	BM	CSQ	HOCKCO FIRE 	Hocking County Fire 	FM 	Fire Dispatch 
+154.21250 	159.05250  	WQBB924 	RM	67.0 PL	HCFD CALICO 	Hocking County Fire - Calico tower 	FM 	Fire Dispatch 
+154.21250 	159.05250  	WQBB924 	RM	91.5 PL	HCFD GIBBVLE 	Hocking County Fire - Gibbisonville tower 	FM 	Fire Dispatch 
+154.21250 	159.05250  	WQBB924 	RM	77.0 PL	HCFD LAURVLE 	Hocking County Fire - Laurelville tower 	FM 	Fire Dispatch 
+154.21250 	159.05250  	WQBB924 	RM	103.5 PL	HCFD SNAKHOL 	Hocking County Fire - Snake Hollow tower 	FM 	Fire Dispatch 
+154.21250 	151.80500  	WQBB924 	RM	103.5 PL	HCFD MURRCTY 	Hocking County Fire - Murray City Tower (input PL is 71.9) 	FM 	Fire Dispatch 
+153.90500 	   	WQBB924 	M	85.4 PL	HCFD TAC 1 	Hocking County Fireground 1 	FM 	Fire-Tac 
+154.38500 	   	WQBB924 	M	85.4 PL	HCFD TAC 2 	Hocking County Fireground 2/Medflight 	FM 	Fire-Tac 
+155.38500 	   	 	M	85.4 PL	HCFD TAC 3 	Hocking County Fireground 3 	FM 	Fire-Tac 
+155.80500 	   	 	BM	CSQ	HCFD EMA 	Hocking County Fire EMA/Hazmat Ops (Input tone is 84.5 PL) 	FM 	Fire-Tac 
+151.80500 	   	 	M		HCFD VRE 	Hocking County Fire - TAC/Vehicle Repeaters (Tone varies among departments) 	FM 	Fire-Tac 
+155.22000 	   	KNDY864 	BM	85.4 PL	HOCKCO EMS 	Hocking County EMS 	FM 	EMS Dispatch 
+154.21250 	   	 	M	67.0 PL	MARION FD 	Marion Township Fire 	FM 	Fire-Tac 
+154.29500 	   	 	BM	162.2 PL	GHTWPFD T/A 	Good Hope Twp Fire talkaround 	FM 	Fire-Tac 
+155.37500 	   	 	BM	85.4 PL	HOCKCO EMA 	Hocking County EMA 	FM 	Emergency Ops 
+453.63750 	458.63750  	KNAB656 	RM	100.0 PL	LAURVLE FD 	Laurelville Fire/EMS (patch to 33.86) 	FM 	Fire Dispatch 
+39.30000 	   	KDQ224 	M		HCSO LO MOB 	Hocking Co SO low-band mobiles (paired with 39.64) 	FM 	Law Dispatch 
+39.64000 	   	KDQ224 	B	94.8 PL	HCSO LO BASE 	Hocking Co SO low band base (paired with 39.30) 	FM 	Law Dispatch 
+153.90500 	   	WQBB924 	M	85.4 PL	HCSO TAC 1 	Sheriff TAC 1 	FM 	Law Tac 
+154.38500 	   	WQBB924 	M	85.4 PL	HCSO TAC 2 	Sheriff TAC 2 	FM 	Law Tac 
+154.65000 	   	KDQ224 	BM	118.8 PL	HCSO CAR 	Sheriff Car to Car 	FM 	Law Talk 
+155.59500 	158.88000  	KDQ224 	RM	118.8 PL	HCSO DISP 	Sheriff Dispatch 	FM 	Law Dispatch 
+453.23750 	   	WPZT275 	F		HCSOR SBLOOM 	Sheriff RX link from S Bloomingville 	FM 	Law Dispatch 
+453.38750 	   	WPZT275 	F		HCSOR LOGAN 	Sheriff RX link from Logan 	FM 	Law Dispatch 
+453.41250 	   	WPZT275 	F	192.8 PL	HCSOR CARBON 	Sheriff RX link from Carbon Hill 	FM 	Law Dispatch 
+453.48750 	   	WPZT275 	F	127.3 PL	HCSOR CLIFFS 	Sheriff RX link from Cantwell Cliffs 	FM 	Law Dispatch 
+453.61250 	   	WPZT275 	F	151.4 PL	HCSOR RCKBRG 	Sheriff RX link from Rockbridge 	FM 	Law Dispatch 
+453.73750 	   	WPZT275 	F	179.9 PL	HCSOR LAURVL 	Sheriff RX link from Laurelville 	FM 	Law Dispatch 
+458.23750 	   	WPZT278 	F		HCSOR SBLOOM 	Sheriff TX link to S Bloomingville 	FM 	Law Dispatch 
+458.38750 	   	WPZT278 	F	118.8 PL	HCSOT LOGAN 	Sheriff TX link to Logan 	FM 	Law Dispatch 
+458.41250 	   	WPZT278 	F		HCSOT CARBON 	Sheriff TX link to Carbon Hill 	FM 	Law Dispatch 
+458.48750 	   	WPZT278 	F		HCSOT CLIFFS 	Sheriff TX link to Cantwell Cliffs 	FM 	Law Dispatch 
+458.61250 	   	WPZT278 	F		HCSOT RCKBRG 	Sheriff TX link to Rockbridge 	FM 	Law Dispatch 
+458.73750 	   	WPZT278 	F	100.0 PL	HCSOT LAURVL 	Sheriff TX link to Laurelville 	FM 	Law Dispatch 
+39.64000 	   	KNBD407 	BM		LOGAN PD LB 	Logan Police low band 	FM 	Law Dispatch 
+155.43000 	151.17500  	KNBD407 	RM	151.4 PL	LOGAN PDISP 	Logan Police dispatch 	FM 	Law Dispatch 
+151.57500 	   	 	BM	754 DPL	LAURLPD CAR 	Laurelville PD car to car 	FM 	Law Talk 
+151.01000 	158.98500  	KGV200 	RM	173.8 PL	HOCKCO ENG 	Hocking County Engineer 	FM 	Public Works 
+453.30000 	458.30000  	WPMH344 	RM		LOGAN DPW 	Logan, City of 	FM 	Public Works 
+152.37500 	157.63500  	WQEB482 	RM	516 DPL	LOG-HOCK LSD 	Logan-Hocking Schools 	FM 	Schools 
+155.23500 	   	KNBV942 	BM	516 DPL	LOG-HOCK LSD 	Logan-Hocking Schools 	FM 	Schools 
+451.13750 	456.13750  	WPOX259 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide

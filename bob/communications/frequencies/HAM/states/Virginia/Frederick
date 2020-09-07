@@ -1,35 +1,35 @@
-154.22000 	KAR780 	RM	110.9 PL	FCFRD 911 EFR 	Fire/Rescue Dispatch (Ch. 1/2) 	FM 	Fire Dispatch 
-155.29500 	KAR780 	RM	074 DPL	FCFRD County 	Fire/Rescue County (Ch. 3/4) 	FM 	Fire-Tac 
-154.34000 	KAR780 	M	125 DPL	FCFRD Tasker 	Fire/Rescue Tasker Fireground (Ch. 5) 	FM 	Fire-Tac 
-155.26500 	KAR780 	M	143 DPL	FCFRD Brown 	Fire/Rescue Brown Fireground (Ch. 6) 	FM 	Fire-Tac 
-155.17500 	KAR780 	M	051 DPL	FCFRD CrossJunct 	Fire/Rescue Cross Junction Fireground (Ch. 7) 	FM 	Fire-Tac 
-154.43000 	KAR780 	M	065 DPL	FCFRD Tac 8 	Fire/Rescue Countywide Tac (Ch. 8) 	FM 	Fire-Tac 
-154.10750 	KAR780 	RM	245 DPL	Fred FD Evnt 	Fire/Rescue Event (Ch. 9/10) 	FM 	Fire-Tac 
-155.96250 	KAR780 	RM	411 DPL	Fred FD Adm 	Fire/Rescue Admin 	FM 	Fire-Talk 
-460.33750 	KAR780 	RM	110.9 PL	Fred FD Disp 	Fire/Rescue Dispatch Simulcast 	FMN 	Fire Dispatch 
-463.07500 	KFQ968 	RM	151.4 PL	WMC Med 4 	Winchester Medical Center Med 4 	FM 	Hospital 
-463.17500 	KFQ968 	RM	151.4 PL	WMC Med 8 	Winchester Medical Center Med 8 	FM 	Hospital 
-155.01000 	WNNQ983 	RM	311 DPL	FredCo Law Disp 	Law Dispatch 	FM 	Law Dispatch 
-155.55000 	WNNQ983 	RM	311 DPL	FredCo SO 2 	Sheriff 2 (Secondary Dispatch) 	FM 	Law Dispatch 
-154.72500 	WNNQ983 	RM	311 DPL	FredCo Law Tac 3 	Law Tac 3 	FM 	Law Tac 
-154.81500 	WNNQ983 	RM	311 DPL	FredCo Law Tac 4 	Law Tac 4 	FM 	Law Tac 
-158.85000 	WNNQ983 	M	311 DPL	FredCo Law Tac 5 	Law Tac 5 	FM 	Law Tac 
-159.09000 	WNNQ983 	M	311 DPL	FredCo Law Tac 6 	Law Tac 6 	FM 	Law Tac 
-463.58750 	WQLX696 	RM	CSQ	Millbrook HS 	Millbrook High School 	FM 	Schools 
-463.97500 	WPDE222 	RM	165 DPL	JamesWood HS 	James Wood High School 	FM 	Schools 
-464.50000 	 	M	114.8 PL	Sherando HS 	Sherando High School 	FM 	Schools 
-453.26250 	WQCY770 	M	110.9 PL	GainesboroFD 	Vehicle Extenders 	FM 	Fire-Tac 
-453.90000 	WNUZ478 	RM	754 DPL	NW Jail 1 	Jail 	FM 	Corrections 
-453.45000 	WNUZ478 	BM	754 DPL	NW Jail 2 	Jail 	FM 	Corrections 
-453.80000 	WNUZ478 	BM	754 DPL	NW Jail 3 	Jail 	FM 	Corrections 
-453.45000 	WNUZ478 	BM	125 DPL	JailTransprt 	Transportation 	FM 	Corrections 
-453.80000 	WNUZ478 	BM	506 DPL	JailMaint 	Maintenance 	FM 	Corrections 
-453.80000 	WNUZ478 	BM	CSQ	Jail Suprv 	Supervisors 	FM 	Corrections 
-458.90000 	WNUZ478 	M		Jail Private 	Jail Private 	FM 	Corrections 
-153.90500 	WNUZ478 	M		Jail MobExt 	Jail Mobile Extender 	FM 	Corrections 
-453.80000 	WNUZ478 	BM		JuvDetCtr 1 	Juvenile Detention Center 	FM 	Corrections 
-453.45000 	WNUZ478 	BM		JuvDetCtr 2 	Juvenile Detention Center 	FM 	Corrections 
-453.45000 	WNUZ478 	BM		JuvDetCtrSup 	Juvenile Detention Center Supervisors 	FM 	Corrections 
-47.42000 	WQEL773 		146.2 PL	RC Wincheste 	American Red Cross - Winchester Base 	FM 	Emergency Ops 
-47.50000 	WPLX296 		146.2 PL	RC Linden RP 	American Red Cross - Linden RPTR 	FM 	Emergency Ops 
-Frederick County Public Schools	 LTR Standard	 Frederick County	Valley Two-Way (Gore)	 Motorola Type II	 Gore	
+154.22000 	158.94750  	KAR780 	RM	110.9 PL	FCFRD 911 EFR 	Fire/Rescue Dispatch (Ch. 1/2) 	FM 	Fire Dispatch 
+155.29500 	158.96250  	KAR780 	RM	074 DPL	FCFRD County 	Fire/Rescue County (Ch. 3/4) 	FM 	Fire-Tac 
+154.34000 	   	KAR780 	M	125 DPL	FCFRD Tasker 	Fire/Rescue Tasker Fireground (Ch. 5) 	FM 	Fire-Tac 
+155.26500 	   	KAR780 	M	143 DPL	FCFRD Brown 	Fire/Rescue Brown Fireground (Ch. 6) 	FM 	Fire-Tac 
+155.17500 	   	KAR780 	M	051 DPL	FCFRD CrossJunct 	Fire/Rescue Cross Junction Fireground (Ch. 7) 	FM 	Fire-Tac 
+154.43000 	   	KAR780 	M	065 DPL	FCFRD Tac 8 	Fire/Rescue Countywide Tac (Ch. 8) 	FM 	Fire-Tac 
+154.10750 	158.90250  	KAR780 	RM	245 DPL	Fred FD Evnt 	Fire/Rescue Event (Ch. 9/10) 	FM 	Fire-Tac 
+155.96250 	150.80500  	KAR780 	RM	411 DPL	Fred FD Adm 	Fire/Rescue Admin 	FM 	Fire-Talk 
+460.33750 	465.33750  	KAR780 	RM	110.9 PL	Fred FD Disp 	Fire/Rescue Dispatch Simulcast 	FMN 	Fire Dispatch 
+463.07500 	468.07500  	KFQ968 	RM	151.4 PL	WMC Med 4 	Winchester Medical Center Med 4 	FM 	Hospital 
+463.17500 	468.17500  	KFQ968 	RM	151.4 PL	WMC Med 8 	Winchester Medical Center Med 8 	FM 	Hospital 
+155.01000 	159.03000  	WNNQ983 	RM	311 DPL	FredCo Law Disp 	Law Dispatch 	FM 	Law Dispatch 
+155.55000 	158.79000  	WNNQ983 	RM	311 DPL	FredCo SO 2 	Sheriff 2 (Secondary Dispatch) 	FM 	Law Dispatch 
+154.72500 	   	WNNQ983 	RM	311 DPL	FredCo Law Tac 3 	Law Tac 3 	FM 	Law Tac 
+154.81500 	   	WNNQ983 	RM	311 DPL	FredCo Law Tac 4 	Law Tac 4 	FM 	Law Tac 
+158.85000 	   	WNNQ983 	M	311 DPL	FredCo Law Tac 5 	Law Tac 5 	FM 	Law Tac 
+159.09000 	   	WNNQ983 	M	311 DPL	FredCo Law Tac 6 	Law Tac 6 	FM 	Law Tac 
+463.58750 	468.58750  	WQLX696 	RM	CSQ	Millbrook HS 	Millbrook High School 	FM 	Schools 
+463.97500 	468.97500  	WPDE222 	RM	165 DPL	JamesWood HS 	James Wood High School 	FM 	Schools 
+464.50000 	   	 	M	114.8 PL	Sherando HS 	Sherando High School 	FM 	Schools 
+453.26250 	458.26250  	WQCY770 	M	110.9 PL	GainesboroFD 	Vehicle Extenders 	FM 	Fire-Tac 
+453.90000 	458.90000  	WNUZ478 	RM	754 DPL	NW Jail 1 	Jail 	FM 	Corrections 
+453.45000 	   	WNUZ478 	BM	754 DPL	NW Jail 2 	Jail 	FM 	Corrections 
+453.80000 	   	WNUZ478 	BM	754 DPL	NW Jail 3 	Jail 	FM 	Corrections 
+453.45000 	   	WNUZ478 	BM	125 DPL	JailTransprt 	Transportation 	FM 	Corrections 
+453.80000 	   	WNUZ478 	BM	506 DPL	JailMaint 	Maintenance 	FM 	Corrections 
+453.80000 	   	WNUZ478 	BM	CSQ	Jail Suprv 	Supervisors 	FM 	Corrections 
+458.90000 	   	WNUZ478 	M		Jail Private 	Jail Private 	FM 	Corrections 
+153.90500 	   	WNUZ478 	M		Jail MobExt 	Jail Mobile Extender 	FM 	Corrections 
+453.80000 	   	WNUZ478 	BM		JuvDetCtr 1 	Juvenile Detention Center 	FM 	Corrections 
+453.45000 	   	WNUZ478 	BM		JuvDetCtr 2 	Juvenile Detention Center 	FM 	Corrections 
+453.45000 	   	WNUZ478 	BM		JuvDetCtrSup 	Juvenile Detention Center Supervisors 	FM 	Corrections 
+47.42000 	   	WQEL773 		146.2 PL	RC Wincheste 	American Red Cross - Winchester Base 	FM 	Emergency Ops 
+47.50000 	46.04000  	WPLX296 		146.2 PL	RC Linden RP 	American Red Cross - Linden RPTR 	FM 	Emergency Ops 
+Frederick County Public Schools	 LTR Standard	 Frederick County	Rappahannock Electric Cooperative	 DMR Tier 3	 Various	Valley Two-Way (Gore)	 Motorola Type II	 Gore

@@ -1,43 +1,43 @@
-159.42000 	WPUC762 	BM	179.9 PL	Windham SO 1 	Sheriff Primary 	FMN 	Law Dispatch 
-460.47500 	 	RM	118.8 PL	Windham SO 2 	Sheriff Secondary 	FMN 	Law Dispatch 
-460.45000 	KNCD876 	RM	380 NAC	Windham SO 3 	Sheriff Statewide 	P25 	Law Dispatch 
-152.37500 	WQDT274 	BM		GCH EMS Disp 	EMS Paging/Dispatch 	FMN 	EMS Dispatch 
-154.23500 	WPAM483 	BM	136.5 PL	BellFalls FD 	Fire 	FMN 	Fire-Talk 
-460.20000 	KSU596 	RM	117 NAC	Brat PD 1 	Police Operations 	P25 	Law Dispatch 
-460.50000 	KSU596 	BM	118.8 PL	Brat PD C2C 	Police Car-to-Car 	FMN 	Law Talk 
-155.03250 	WQAG816 	RM	123.0 PL	Brattle Fire 	Fire Operations 	FMN 	Fire Dispatch 
-155.96250 	WQAG816 	M	123.0 PL	Brat FD Tac1 	Fire Tactical 1 	FMN 	Fire-Tac 
-153.89750 	WQAG816 	M	123.0 PL	Brat FD Tac2 	Fire Tactical 2 	FMN 	Fire-Tac 
-155.16000 	KGV302 	BM	136.5 PL	Brat EMS/Res 	EMS/Rescue 	FMN 	EMS Dispatch 
-155.82000 	KBW801 	BM	103.5 PL	Brattle Hwys 	Public Works 	FMN 	Public Works 
-155.88000 	KBW801 	BM	103.5 PL	Brattle Hwys 	Public Works 	FMN 	Public Works 
-155.26500 	KDX768 	BM	82.5 PL	DeerVal Resc 	EMS 	FMN 	EMS Dispatch 
-453.72500 	WQFY398 	RM	136.5 PL	Dover PD 1 	Police Main 	FMN 	Law Dispatch 
-153.77000 	KNGW669 	M	136.5 PL	Grafton Fire 	Fire 	FMN 	Fire Dispatch 
-151.29500 	WPGQ927 	RM	141.3 PL	LondonRescue 	Volunteer Rescue Squad 	FMN 	EMS Dispatch 
-39.10000 	WQGU624 	M	136.5 PL	Newfane Hwys 	Public Works (includes Williamsville) 	FM 	Public Works 
-155.34000 	 	BM	141.3 PL	SM Rescue 	Stratton Mountain Rescue Squad 	FMN 	EMS-Tac 
-156.16500 	KD28990 	BM	141.3 PL	Stratton PS 	Stratton Mountain Public Safety 	FMN 	Multi-Tac 
-154.08500 	WPRI691 	BM		TownshendSvc 	Services 	FMN 	Public Works 
-155.35500 	 	BM	136.5 PL	Highway 	Townshend Highway 	FMN 	Public Works 
-33.54000 	KCP596 	BM		Vernon Fire 	Fire 	FM 	Fire Dispatch 
-153.87500 	 	BM		Vernon PW 	Public Works 	FMN 	Public Works 
-121.72500 	 	BM		BurlingtonFS 	Burlington Flight Services 	AM 	Aircraft 
-122.80000 	 	BM		Unicom/CTAF 	Unicom/CTAF 	AM 	Aircraft 
-132.82500 	 	BM		Alb App/Dep 	Albany Approach/Departure 	AM 	Aircraft 
-151.80500 	WQCY626 	RM	141.3 PL	LT Resort 	Resort 	FMN 	Business 
-153.50000 	 	BM	141.3 PL	LT Security 	Security 	FMN 	Security 
-461.35000 	KNHA230 	RM		MtSnow Ch 1 	Ch 1 - Administration & Ski Lifts 	FMN 	Business 
-461.70000 	WQCG842 	RM		MtSnow Ch 2 	Ch 2 - Snowmaking & Grooming 	FMN 	Business 
-462.32500 	WPMY796 	RM		MtSnow Ch 7 	Ch 7 - Ski Patrol & Rescue 	FMN 	Business 
-151.77500 	WQCY626 	RM	141.3 PL	SM Ski Snow 	Snowmaking 	FMN 	Business 
-151.95500 	WQCY626 	RM	141.3 PL	SM SkiResort 	Operations 	FMN 	Business 
-159.67500 	WQCY626 	BM	141.3 PL	SM Ski Ops 1 	Mountain Ops 1 	FMN 	Business 
-159.93000 	WQCY626 	BM	141.3 PL	SM Ski Ops 2 	Mountain Ops 2 	FMN 	Business 
-160.09500 	WQCY626 	BM	141.3 PL	SM Ski Ops 3 	Mountain Ops 3 / Ski Patrol 	FMN 	Business 
-33.16000 	WPTY209 	M	110.9 PL	Cota Fuel 	Cota & Cota Fuel (Bellows Falls) 	FM 	Business 
-47.80000 	WPPB580 	BM	94.8 PL	GrnMtn Power 	Green Mountain Power 	FM 	Utilities 
-153.27500 	WPYE603 	BM		Lafevre Amb 	Lafevre Ambulance Service 	FMN 	Business 
-151.65500 	 	BM		Noe Elect 	Noe Electronics 	FMN 	Business 
-464.98750 	 	BM		Norand Corp 	Norand Coporation 	FMN 	Business 
+159.42000 	   	WPUC762 	BM	179.9 PL	Windham SO 1 	Sheriff Primary 	FMN 	Law Dispatch 
+460.47500 	465.47500  	 	RM	118.8 PL	Windham SO 2 	Sheriff Secondary 	FMN 	Law Dispatch 
+460.45000 	465.45000  	KNCD876 	RM	380 NAC	Windham SO 3 	Sheriff Statewide 	P25 	Law Dispatch 
+152.37500 	   	WQDT274 	BM		GCH EMS Disp 	EMS Paging/Dispatch 	FMN 	EMS Dispatch 
+154.23500 	   	WPAM483 	BM	136.5 PL	BellFalls FD 	Fire 	FMN 	Fire-Talk 
+460.20000 	465.20000  	KSU596 	RM	117 NAC	Brat PD 1 	Police Operations 	P25 	Law Dispatch 
+460.50000 	   	KSU596 	BM	118.8 PL	Brat PD C2C 	Police Car-to-Car 	FMN 	Law Talk 
+155.03250 	   	WQAG816 	RM	123.0 PL	Brattle Fire 	Fire Operations 	FMN 	Fire Dispatch 
+155.96250 	   	WQAG816 	M	123.0 PL	Brat FD Tac1 	Fire Tactical 1 	FMN 	Fire-Tac 
+153.89750 	   	WQAG816 	M	123.0 PL	Brat FD Tac2 	Fire Tactical 2 	FMN 	Fire-Tac 
+155.16000 	   	KGV302 	BM	136.5 PL	Brat EMS/Res 	EMS/Rescue 	FMN 	EMS Dispatch 
+155.82000 	   	KBW801 	BM	103.5 PL	Brattle Hwys 	Public Works 	FMN 	Public Works 
+155.88000 	   	KBW801 	BM	103.5 PL	Brattle Hwys 	Public Works 	FMN 	Public Works 
+155.26500 	   	KDX768 	BM	82.5 PL	DeerVal Resc 	EMS 	FMN 	EMS Dispatch 
+453.72500 	458.72500  	WQFY398 	RM	136.5 PL	Dover PD 1 	Police Main 	FMN 	Law Dispatch 
+153.77000 	   	KNGW669 	M	136.5 PL	Grafton Fire 	Fire 	FMN 	Fire Dispatch 
+151.29500 	150.79000  	WPGQ927 	RM	141.3 PL	LondonRescue 	Volunteer Rescue Squad 	FMN 	EMS Dispatch 
+39.10000 	   	WQGU624 	M	136.5 PL	Newfane Hwys 	Public Works (includes Williamsville) 	FM 	Public Works 
+155.34000 	   	 	BM	141.3 PL	SM Rescue 	Stratton Mountain Rescue Squad 	FMN 	EMS-Tac 
+156.16500 	   	KD28990 	BM	141.3 PL	Stratton PS 	Stratton Mountain Public Safety 	FMN 	Multi-Tac 
+154.08500 	   	WPRI691 	BM		TownshendSvc 	Services 	FMN 	Public Works 
+155.35500 	   	 	BM	136.5 PL	Highway 	Townshend Highway 	FMN 	Public Works 
+33.54000 	   	KCP596 	BM		Vernon Fire 	Fire 	FM 	Fire Dispatch 
+153.87500 	   	 	BM		Vernon PW 	Public Works 	FMN 	Public Works 
+121.72500 	   	 	BM		BurlingtonFS 	Burlington Flight Services 	AM 	Aircraft 
+122.80000 	   	 	BM		Unicom/CTAF 	Unicom/CTAF 	AM 	Aircraft 
+132.82500 	   	 	BM		Alb App/Dep 	Albany Approach/Departure 	AM 	Aircraft 
+151.80500 	   	WQCY626 	RM	141.3 PL	LT Resort 	Resort 	FMN 	Business 
+153.50000 	   	 	BM	141.3 PL	LT Security 	Security 	FMN 	Security 
+461.35000 	466.35000  	KNHA230 	RM		MtSnow Ch 1 	Ch 1 - Administration & Ski Lifts 	FMN 	Business 
+461.70000 	466.70000  	WQCG842 	RM		MtSnow Ch 2 	Ch 2 - Snowmaking & Grooming 	FMN 	Business 
+462.32500 	467.32500  	WPMY796 	RM		MtSnow Ch 7 	Ch 7 - Ski Patrol & Rescue 	FMN 	Business 
+151.77500 	   	WQCY626 	RM	141.3 PL	SM Ski Snow 	Snowmaking 	FMN 	Business 
+151.95500 	   	WQCY626 	RM	141.3 PL	SM SkiResort 	Operations 	FMN 	Business 
+159.67500 	   	WQCY626 	BM	141.3 PL	SM Ski Ops 1 	Mountain Ops 1 	FMN 	Business 
+159.93000 	   	WQCY626 	BM	141.3 PL	SM Ski Ops 2 	Mountain Ops 2 	FMN 	Business 
+160.09500 	   	WQCY626 	BM	141.3 PL	SM Ski Ops 3 	Mountain Ops 3 / Ski Patrol 	FMN 	Business 
+33.16000 	   	WPTY209 	M	110.9 PL	Cota Fuel 	Cota & Cota Fuel (Bellows Falls) 	FM 	Business 
+47.80000 	   	WPPB580 	BM	94.8 PL	GrnMtn Power 	Green Mountain Power 	FM 	Utilities 
+153.27500 	   	WPYE603 	BM		Lafevre Amb 	Lafevre Ambulance Service 	FMN 	Business 
+151.65500 	   	 	BM		Noe Elect 	Noe Electronics 	FMN 	Business 
+464.98750 	   	 	BM		Norand Corp 	Norand Coporation 	FMN 	Business 
 Central Vermont Public Service (UHF)	 LTR Standard	 Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	

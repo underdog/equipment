@@ -1,17 +1,20 @@
-155.73000 	KEF699 	RM	186.2 PL	SCSO 1 Disp 	Sheriff/Police Dispatch 	FMN 	Law Dispatch 
-155.04000 	WPUT571 	RM	156.7 PL	SCSO 3 Admin 	Sheriff/Police Administration 	FMN 	Law Talk 
-155.88000 	WPTW669 	RM		SCSO 5 South 	Sheriff/Police Southern end of County ch 5 	FMN 	Law Tac 
-156.21000 	 	M		SCSO 13 	Sheriff  Ch. 13 "Analog" 	FMN 	Law Talk 
-46.18000 	KEF700 	BM	151.4 PL	Fire 1 Disp 	Fire Dispatch 	FM 	Fire Dispatch 
-151.07750 	WQEJ928 	RM	179.9 PL	Fire VHF Sim 	Fire VHF Simulcast - Jefferson 	FMN 	Fire Dispatch 
-46.22000 	KEF472 	M	CSQ	Fire 2 F/G 	Fireground 	FM 	Fire-Tac 
-45.08000 	KEF700 	M	151.4 PL	Fire 3 F/G 	Fireground 	FM 	Fire-Tac 
-45.48000 	KEF700 	M	151.4 PL	Fire 4 Inter 	Fire Interior Operations 	FM 	Fire-Tac 
-155.41500 	WQEJ928 	RM	156.7 PL	Jeff Fire 	Jefferson Fire District 	FMN 	Fire-Tac 
-155.22000 	KSO959 	B	186.2 PL	EMS Dispatch 	EMS Dispatch 	FMN 	EMS Dispatch 
-151.10000 	WPYZ393 	RM	136.5 PL	SchoCo Hwy 	Highway Department Dispatch Ch. 1  	FMN 	Public Works 
-152.96750 	WQQM809 	RM	82.5 PL	MCSD Buses 	Middleburgh Central School District Buses 	FMN 	Schools 
-461.55000 	WNQQ531 	RM	88.5 PL	JCSD 	Jefferson Central School District 	FMN 	Schools 
-154.11500 	WQUK307 	RM	243 DPL	SUNY Police 	Police 	FMN 	Law Talk 
-158.94000 	WNWW696 	RM	243 DPL	SUNY Maint 	Maintenance 	FMN 	Public Works 
+155.73000 	154.83000  	KEF699 	RM	186.2 PL	SCSO Dispatch 	Sheriff/Police Dispatch 	FMN 	Law Dispatch 
+155.04000 	155.88000  	WPUT571 	RM	156.7 PL	SCSO 3 Admin 	Sheriff/Police Administration 	FMN 	Law Talk 
+155.88000 	   	WPTW669 	RM		SCSO South 	Sheriff/Police South 	FMN 	Law Tac 
+156.21000 	   	 	M		SCSO Ch 13 	Sheriff Ch 13 	FMN 	Law Talk 
+151.07750 	   	KEF700 	B	179.9 PL	SC Paging 	Paging Simulcast 	FMN 	Fire Dispatch 
+154.31750 	159.41250  	KEF700 	RM	151.4 PL	SC Fire 1 Simul 	Fire 1 - Simulcast 	FMN 	Fire-Tac 
+155.52750 	151.12250  	WPUT571 	RM	151.4 PL	SC Fire 3 Oak 	Fire 3 - Oak Hill Repeater 	FMN 	Fire-Tac 
+154.39250 	151.40750  	WPTW669 	RM	151.4 PL	SC Fire 5 Brown 	Fire 5 - Brown Mtn Repeater 	FMN 	Fire-Tac 
+46.18000 	   	KEF700 	BM	151.4 PL	SC Fire Dispatch 	Fire Dispatch 	FM 	Fire Dispatch 
+46.22000 	   	KEF472 	M	CSQ	SC Fire 2 F/G 	Fireground 	FM 	Fire-Tac 
+45.08000 	   	KEF700 	M	151.4 PL	SC Fire 3 F/G 	Fireground 	FM 	Fire-Tac 
+45.48000 	   	KEF700 	M	151.4 PL	SC Fire 4 Inter 	Fire Interior Operations 	FM 	Fire-Tac 
+155.41500 	150.80500  	WQEJ928 	RM	156.7 PL	Jefferson FD 	Jefferson FD Ops 	FMN 	Fire-Tac 
+155.22000 	   	KSO959 	B	186.2 PL	SC EMS Dispatch 	EMS Dispatch 	FMN 	EMS Dispatch 
+151.10000 	156.13500  	WPYZ393 	RM	136.5 PL	SchoCo Hwy 	Highway Department 	FMN 	Public Works 
+152.96750 	160.18500  	WQQM809 	RM	82.5 PL	MCSD Buses 	Middleburgh Central School District Buses 	FMN 	Schools 
+461.55000 	466.55000  	WNQQ531 	RM	88.5 PL	JCSD 	Jefferson Central School District 	FMN 	Schools 
+154.11500 	158.77500  	WQUK307 	RM	243 DPL	SUNY Police 	Police 	FMN 	Law Talk 
+158.94000 	153.93500  	WNWW696 	RM	243 DPL	SUNY Maint 	Maintenance 	FMN 	Public Works 
 New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	

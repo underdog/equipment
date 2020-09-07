@@ -1,50 +1,49 @@
-154.43000 	KFF271 	BM	88.5 PL	TC Fire Disp 	Fire Dispatch Countywide 	FMN 	Fire Dispatch 
-151.00250 	KFE781 	RM		TC FD Fire 9 	Fire 9 Olympia 	FMN 	Fire-Tac 
-154.37000 	WNWZ894 	RM	173.8 PL	TC FD Olymp 	Fire Tactical - Olympia 	FMN 	Fire-Tac 
-153.80000 	WNWZ894 	RM	94.8 PL	TC FD Tumwtr 	Fire Tactical - Tumwater 	FMN 	Fire-Tac 
-154.01000 	WNWZ894 	RM	203.5 PL	TC FD NE Tac 	Fire Tactical 5 - Northeast 	FMN 	Fire-Tac 
-154.17500 	WNWZ894 	RM	77.0 PL	TC FD SW Tac 	Fire Tactical 6 - Southwest 	FMN 	Fire-Tac 
-154.19000 	KQT456 	M	88.5 PL	TC FD Lewis 	Fire Coordination - Lewis 	FMN 	Fire-Talk 
-855.16250 	WNHD745 	RM		TC EMS AMR 	American Medical Response 	FM 	EMS Dispatch 
-155.29500 	WQNT311 	BM	293 NAC	Airlift NW 	Airlift NW Dispatch 	P25 	EMS Dispatch 
-129.82500 	 	BM		Airlift NW 	Airlift NW Ops 	AM 	EMS-Tac 
-151.62500 	 	RM		TC SPSM SAR 	South Puget Sound Mobile SAR 	FMN 	Emergency Ops 
-155.14500 	KXX445 	RM		TC SAR 	Thurston County SAR 	FMN 	Emergency Ops 
-155.55000 	WYC826 	RM	136.5 PL	TCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-156.15000 	KNAS381 	RM	88.5 PL	TC PD Disp 	Police Tac 2 Lacey/Tumwater PD 	FMN 	Law Dispatch 
-155.01000 	WYC826 	M	88.5 PL	TC PD Tac 3 	Police Tac 3 	FMN 	Law Talk 
-154.80000 	KQ4369 	M	88.5 PL	TCSO Tac 5 	Sheriff Tac 5 C2C 	FMN 	Law Talk 
-154.87500 	WPKB953 	BM	146.2 PL	TC PD Tac 6 	Police Data Tac 6 	FMN 	Law Talk 
-155.28000 	KB61831 	M		TCSO JeepPat 	Sheriff Jeep Patrol 	FMN 	Law Tac 
-158.85750 	WQBH840 	RM	107.2 PL	Olympia PD 	Olympia Police Dispatch 	FMN 	Law Dispatch 
-453.27500 	 	BM		TC Anim Cntl 	Animal Control 	FMN 	Law Tac 
-453.52500 	 	RM	110.9 PL	Transit 	Intercity Transit 	FMN 	Transportation 
-453.97500 	KLO348 	RM	110.9 PL	Public Works 	Public Works 	FMN 	Public Works 
-166.63750 	 	M		Nisq TPD Car 	Nisqually Tribal Police C2C 	FMN 	Law Talk 
-453.36250 	WRCT667 	BM	565 DPL	City 1 	Rainier Emergency Management 	FMN 	Emergency Ops 
-453.53750 	WRCT667 	BM	565 DPL	City 2 	Rainier Public Works 	FMN 	Public Works 
-45.56000 	 	BM	88.5 PL	Tumwater PW 	Tumwater Snow Plows 	FM 	Public Works 
-155.41500 	 	M		Yelm PD C2C 	Yelm Police C2C 	FMN 	Law Talk 
-121.10000 	 	BM		Oly App/Dep 	Olympia App/Dep 	AM 	Aircraft 
-121.60000 	 	BM		Oly Ground 	Olympia Ground 	AM 	Aircraft 
-122.95000 	 	BM		Oly Unicom 	Olympia Unicom 	AM 	Aircraft 
-124.40000 	 	BM		Oly CTAF 	Olympia CTAF 	AM 	Aircraft 
-135.72500 	 	BM		Oly Atis 	ATIS 	AM 	Aircraft 
-290.90000 	 	BM		Oly App/Dep 	App/Dep UHF 	AM 	Aircraft 
-151.46000 	 		100.0 PL	TESC Poilce 	Evergreen State College Police 	FMN 	Law Talk 
-155.68500 	 			TESC  	Evergreen State College 	FMN 	Schools 
-156.04500 	 	RM	100.0 PL	TESC PD Dis 	Evergreen State College Police 	FMN 	Law Dispatch 
-463.68750 	WPDH367 	RM		Maintenance 	Campus Maintenance 	DMR 	Schools 
-151.80500 	 	BM	103.5 PL	Tumwater HS 	Tumwater High School 	FMN 	Schools 
-151.99500 	 	BM		Blk Hills HS 	Black Hills High School 	FMN 	Schools 
-152.90000 	WQSD304 	BM		NThurSDBuses 	North Thurston School District Buses 	DMR 	Schools 
-154.54000 	 	BM		NM SkillsCtr 	New Market Skills Center 	FMN 	Schools 
-157.56000 	 	BM	205 DPL	Tumwater SD 	Tumwater School District Buses 	FMN 	Schools 
-157.68000 	 	BM	94.8 PL	Oly SD Buses 	Olympia School District Buses 	FMN 	Schools 
-153.02000 	 			Spscc Main 	Maintenence 	FMN 	Schools 
-155.82000 	 			Spscc Sec 	Security  	FMN 	Security 
-FleetNet / Silke Communications	 NXDN NEXEDGE 4800	 Various	Great Wolf Resorts, Inc.	 LTR Standard	 Centralia	Pacific NorthWest DMR	 DMR Conventional Networked
- Various	Providence Medical Centers	 DMR Conventional Networked	 Various	Puget Sound Energy	 MPT-1327 Standard	 Various	TRBOWEST (WA-OR-ID-CA)
- DMR Motorola Connect Plus (TRBO)	 Various	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	WA State Patrol	 Project 25 Phase II	 Various
-Washington State Capitol	 Motorola Type II Smartnet	 Olympia	Washington State Department of Transportation	 LTR MultiNet	 Various	Wiztronics Inc	 NXDN NEXEDGE 4800
- Various	
+154.43000 	   	KFF271 	BM	88.5 PL	TC Fire Disp 	Fire Dispatch Countywide 	FMN 	Fire Dispatch 
+151.00250 	159.18750  	KFE781 	RM		TC FD Fire 9 	Fire 9 Olympia 	FMN 	Fire-Tac 
+154.37000 	   	WNWZ894 	RM	173.8 PL	TC FD Olymp 	Fire Tactical - Olympia 	FMN 	Fire-Tac 
+153.80000 	   	WNWZ894 	RM	94.8 PL	TC FD Tumwtr 	Fire Tactical - Tumwater 	FMN 	Fire-Tac 
+154.01000 	150.77500  	WNWZ894 	RM	203.5 PL	TC FD NE Tac 	Fire Tactical 5 - Northeast 	FMN 	Fire-Tac 
+154.17500 	150.80500  	WNWZ894 	RM	77.0 PL	TC FD SW Tac 	Fire Tactical 6 - Southwest 	FMN 	Fire-Tac 
+154.19000 	   	KQT456 	M	88.5 PL	TC FD Lewis 	Fire Coordination - Lewis 	FMN 	Fire-Talk 
+855.16250 	810.16250  	WNHD745 	RM		TC EMS AMR 	American Medical Response 	FM 	EMS Dispatch 
+155.29500 	   	WQNT311 	BM	293 NAC	Airlift NW 	Airlift NW Dispatch 	P25 	EMS Dispatch 
+129.82500 	   	 	BM		Airlift NW 	Airlift NW Ops 	AM 	EMS-Tac 
+151.62500 	   	 	RM		TC SPSM SAR 	South Puget Sound Mobile SAR 	FMN 	Emergency Ops 
+155.14500 	   	KXX445 	RM		TC SAR 	Thurston County SAR 	FMN 	Emergency Ops 
+155.55000 	154.83000  	WYC826 	RM	136.5 PL	TCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+156.15000 	155.07000  	KNAS381 	RM	88.5 PL	TC PD Disp 	Police Tac 2 Lacey/Tumwater PD 	FMN 	Law Dispatch 
+155.01000 	   	WYC826 	M	88.5 PL	TC PD Tac 3 	Police Tac 3 	FMN 	Law Talk 
+154.80000 	   	KQ4369 	M	88.5 PL	TCSO Tac 5 	Sheriff Tac 5 C2C 	FMN 	Law Talk 
+154.87500 	155.98500  	WPKB953 	BM	146.2 PL	TC PD Tac 6 	Police Data Tac 6 	FMN 	Law Talk 
+155.28000 	   	KB61831 	M		TCSO JeepPat 	Sheriff Jeep Patrol 	FMN 	Law Tac 
+158.85750 	155.91750  	WQBH840 	RM	107.2 PL	Olympia PD 	Olympia Police Dispatch 	FMN 	Law Dispatch 
+453.27500 	   	 	BM		TC Anim Cntl 	Animal Control 	FMN 	Law Tac 
+453.52500 	458.52500  	 	RM	110.9 PL	Transit 	Intercity Transit 	FMN 	Transportation 
+453.97500 	458.97500  	KLO348 	RM	110.9 PL	Public Works 	Public Works 	FMN 	Public Works 
+166.63750 	   	 	M		Nisq TPD Car 	Nisqually Tribal Police C2C 	FMN 	Law Talk 
+453.36250 	   	WRCT667 	BM	565 DPL	City 1 	Rainier Emergency Management 	FMN 	Emergency Ops 
+453.53750 	   	WRCT667 	BM	565 DPL	City 2 	Rainier Public Works 	FMN 	Public Works 
+45.56000 	   	 	BM	88.5 PL	Tumwater PW 	Tumwater Snow Plows 	FM 	Public Works 
+155.41500 	   	 	M		Yelm PD C2C 	Yelm Police C2C 	FMN 	Law Talk 
+121.10000 	   	 	BM		Oly App/Dep 	Olympia App/Dep 	AM 	Aircraft 
+121.60000 	   	 	BM		Oly Ground 	Olympia Ground 	AM 	Aircraft 
+122.95000 	   	 	BM		Oly Unicom 	Olympia Unicom 	AM 	Aircraft 
+124.40000 	   	 	BM		Oly CTAF 	Olympia CTAF 	AM 	Aircraft 
+135.72500 	   	 	BM		Oly Atis 	ATIS 	AM 	Aircraft 
+290.90000 	   	 	BM		Oly App/Dep 	App/Dep UHF 	AM 	Aircraft 
+151.46000 	156.04500  	 		100.0 PL	TESC Poilce 	Evergreen State College Police 	FMN 	Law Talk 
+155.68500 	   	 			TESC  	Evergreen State College 	FMN 	Schools 
+156.04500 	   	 	RM	100.0 PL	TESC PD Dis 	Evergreen State College Police 	FMN 	Law Dispatch 
+463.68750 	468.68750  	WPDH367 	RM		Maintenance 	Campus Maintenance 	DMR 	Schools 
+151.80500 	   	 	BM	103.5 PL	Tumwater HS 	Tumwater High School 	FMN 	Schools 
+151.99500 	   	 	BM		Blk Hills HS 	Black Hills High School 	FMN 	Schools 
+152.90000 	   	WQSD304 	BM		NThurSDBuses 	North Thurston School District Buses 	DMR 	Schools 
+154.54000 	   	 	BM		NM SkillsCtr 	New Market Skills Center 	FMN 	Schools 
+157.56000 	   	 	BM	205 DPL	Tumwater SD 	Tumwater School District Buses 	FMN 	Schools 
+157.68000 	   	 	BM	94.8 PL	Oly SD Buses 	Olympia School District Buses 	FMN 	Schools 
+153.02000 	   	 			Spscc Main 	Maintenence 	FMN 	Schools 
+155.82000 	   	 			Spscc Sec 	Security  	FMN 	Security 
+FleetNet / Silke Communications	 NXDN NEXEDGE 4800	 Various	Great Wolf Resorts, Inc.	 LTR Standard	 Centralia	Justice Integrated Wireless Network	 Project 25 Phase I	 Various
+Pacific NorthWest DMR	 DMR Conventional Networked	 Various	Providence Medical Centers	 DMR Conventional Networked	 Various	Puget Sound Energy	 MPT-1327 Standard	 Various
+TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	WA State Patrol	 Project 25 Phase II	 Various	Washington State Capitol	 Motorola Type II Smartnet	 Olympia
+Washington State Department of Transportation	 LTR MultiNet	 Various	Wiztronics Inc	 NXDN NEXEDGE 4800	 Various	

@@ -1,57 +1,55 @@
-158.73000 	 	RM	250 NAC	Stan Co SO1 VHF 	Sheriff 1 VHF 	P25 	Law Dispatch 
-158.86500 	 	RM	246 NAC	Stan Co SO2 VHF 	Sheriff 2 VHF 	P25 	Law Tac 
-155.37000 	WPZX312 	RM	67.0 PL	Stan Co SO3 	Sheriff 3 	FM 	Law Tac 
-156.03000 	WPGN379 	RM	703 DPL	Stan Co SO6 	Court Security 	FM 	Law Tac 
-155.88000 	KNDY263 	BM	565 NAC	Stan Co SO8 	Juvenile Hall 	P25 	Corrections 
-155.91000 	WPUU274 	RM	103.5 PL	Stan Co SO9 	Downtown Jail 	FM 	Corrections 
-453.05000 	WNZI322 	RM	223 DPL	Stan Co SO HF1 	Honor Farm 	FM 	Corrections 
-453.95000 	WNZI322 	RM	223 DPL	Stan Co SO HF2 	Honor Farm 	FM 	Corrections 
-453.32500 	WNZI322 	RM	223 DPL	Stan Co SO MJ 	Main Jail 	FM 	Corrections 
-453.76250 	KD20561 	F	223 DPL	Stan SO/Mod PD 	Modesto PD Dispatch Link for Jails? 	FM 	Law Tac 
-151.95500 	 	M	732 DPL	Stan Co SO EVOC1 	Training Center Crows Landing - EVOC Course - 1 	FM 	Law Tac 
-153.77000 	 	B	123.0 PL	Stan Co FD 	Dispatch 	FM 	Fire Dispatch 
-154.43000 	 	RM	123.0 PL	Stan Co FD Cmd2 	Command 2 	FM 	Fire-Tac 
-151.01000 	KMG969 	RM	82.5 PL	Stan Co FD Cmd3 	Command 3 	FM 	Fire-Tac 
-155.08500 	KMG969 	RM	464 DPL	Stan Co FD Cmd4 	Command 4 	FM 	Fire-Tac 
-155.94000 	WDF949 	RM	125 NAC	Stan Co FD Cmd5 	Command 5/Modesto Fire 1 	P25 	Fire-Tac 
-154.37000 	 	BM	123.0 PL	Stan Co FD Tac7 	Tac 7/Modesto Fire 2 	FM 	Fire-Talk 
-153.90500 	 	BM	123.0 PL	Stan Co FD Tac8 	Tac 8/Modesto Fire 3 	FM 	Fire-Talk 
-154.32500 	WPZQ357 	BM	123.0 PL	Stan Co FD Tac9 	Tac 9/Oakdale Fire 	FM 	Fire-Talk 
-153.89000 	KC8641 	BM	123.0 PL	Stan Co FD Tac10 	Tac 10 	FM 	Fire-Talk 
-154.41500 	WDF952 	BM	131 NAC	Stan Co FD Tac11 	Tac 11/Modesto Fire 4 	P25 	Fire-Talk 
-154.19000 	KNAT234 	BM	123.0 PL	Stan Co FD Tac12 	Tac 12/Turlock Fire 	FM 	Fire-Talk 
-453.52500 	WPZL259 	RM	073 DPL	Stan Co FD Cntl1 	Control 1 	FM 	Fire-Tac 
-462.97500 	KNEJ838 	RM	123.0 PL	Stan Co EMS Disp 	Dispatch (Med 10) 	FM 	EMS Dispatch 
-152.41250 	WPVY844 	RM	100.0 PL	AMR Disp 	AMR Dispatch 	FMN 	EMS Dispatch 
-155.29500 	 	BM	88.5 PL	AMR 2 	AMR Channel 2 	FMN 	EMS-Tac 
-155.38500 	WPED438 	BM	CSQ	VHF MedNet 	VHF Mednet - Air to Hospital 	FMN 	Hospital 
-463.00000 	KNEJ838 	RM	179.9 PL	UHF MedNet 	UHF Mednet - Medic to Hospital 	FM 	Hospital 
-131.07500 	KHP4 	BM		AirMed VHF 	Doctors Med Center - Air to Hospital VHF 	AM 	Hospital 
-461.57500 	WQBZ939 	RM	131.8 PL	AirMed UHF 	Doctors Med Center - Air to Hospital UHF 	FMN 	Hospital 
-155.32500 	WNHR823 	BM		MedFlight 	Memorial Med Center-  Air to Hospital 	FMN 	Hospital 
-155.11500 	WPZP779 	RM	103.5 PL	Stan Co AC 	Animal Control Dispatch 	FM 	Public Works 
-151.11500 	WPZU249 	RM	723 DPL	Stan Co Interop 	Interoperability Link 	FM 	Interop 
-453.17500 	WPZU249 	RM	205 DPL	Modesto PD9 	Police Interoperability Link 	FM 	Interop 
-854.56250 	WNDY914 	RM	911 NAC	Modesto PD P25 	Police Vice 	P25E 	Law Tac 
-857.46250 	WNDY914 	RM	911 NAC	Modesto PD P25 	Police Narcotics/Vice 	P25E 	Law Tac 
-451.20000 	WRD927 	RM		Modesto Water 	Water Department 	FMN 	Utilities 
-153.96500 	KRZ977 	RM	464 DPL	Newman PD 	Police Dispatch 	FMN 	Law Dispatch 
-155.92500 	KMG323 	RM	245 NAC	Oakdale PD1 	Police Dispatch 	P25 	Law Dispatch 
-158.76000 	KMG323 	RM	244 NAC	Oakdale PD2 	Police Channel 2 	P25 	Law Tac 
-154.32500 	WPZQ357 	BM	123.0 PL	Oakdale FD 	Fire Dispatch 	FM 	Fire Dispatch 
-151.65500 	 	RM	351 DPL	Stan Co Buses 	Stanislaus Co School Transportations 	FMN 	Schools 
-152.28500 	KNCS643 	RM	172 DPL	CUSD Ops 	Administration/Campus Security/School Resource Officers 	FM 	Schools 
-153.06500 	WQTR342 	RM	CC 12TG 1112SL 1	CUSD Ops 	District Ops 	DMR 	Schools 
-463.91250 	WQIM922 	RM		MUSD Ops 	District Operations 	FMN 	Schools 
-153.31250 	WQHG482 	RM		RUSD Bus 	School Buses 	FMN 	Schools 
-152.37500 	WPZZ203 	RM	315 DPL	SUESD Bus 	Buses 	FMN 	Schools 
-453.83750 	KNIC289 	RM	CC 8TG 12689SL 1	MJC Security 	Modesto Junior College Security 	DMR 	Security 
-452.67500 	WRM792 	RM	141.3 PL	MAX Bus 	Operations 	FM 	Transportation 
-AirCall Communications	 DMR Motorola Connect Plus (TRBO)	 	ATT (LTR)	 LTR Standard	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I
- Multiple	Central Valley DMR	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Ceres	 Motorola Type II Smartnet	 Ceres	Mid Valley Communications
- Motorola Type II	 Westley	Modesto Irrigation District	 NXDN NEXEDGE 4800	 Westley	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various
-PDV Spectrum Holding	 Motorola Type II	 Patterson	PDV Spectrum Holding Company	 LTR Standard	 Various	Ray's Radio Shop (DMR)	 DMR Motorola Connect Plus (TRBO)
- Modesto	Sam Gardali System 1	 LTR Standard	 Patterson	Sam Gardali System 2	 LTR Standard	 Patterson	Signature Wireless Group iDAS Multitrunk (Bay Area)
- NXDN Icom IDAS Type D	 San Rafael	Silke Communications	 NXDN NEXEDGE 4800	 Northern California	Stanislaus Regional 911	 Project 25 Phase I	 Various
-TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	Ten Four Communications Inc	 LTR Standard	 Patterson	The Radio Guys	 NXDN NEXEDGE 4800
- Various	Turlock P25	 Project 25 Phase I	 Turlock	Unknown LTR Stanislaus	 LTR Standard	 	
+158.73000 	159.21000  	 	RM	250 NAC	Stan Co SO1 VHF 	Sheriff 1 VHF 	P25 	Law Dispatch 
+158.86500 	155.74500  	 	RM	246 NAC	Stan Co SO2 VHF 	Sheriff 2 VHF 	P25 	Law Tac 
+155.37000 	155.79000  	WPZX312 	RM	67.0 PL	Stan Co SO3 	Sheriff 3 	FM 	Law Tac 
+156.03000 	154.75500  	WPGN379 	RM	703 DPL	Stan Co SO6 	Court Security 	FM 	Law Tac 
+155.88000 	   	KNDY263 	BM	565 NAC	Stan Co SO8 	Juvenile Hall 	P25 	Corrections 
+155.91000 	158.92500  	WPUU274 	RM	103.5 PL	Stan Co SO9 	Downtown Jail 	FM 	Corrections 
+453.05000 	458.05000  	WNZI322 	RM	223 DPL	Stan Co SO HF1 	Honor Farm 	FM 	Corrections 
+453.95000 	458.95000  	WNZI322 	RM	223 DPL	Stan Co SO HF2 	Honor Farm 	FM 	Corrections 
+453.32500 	458.32500  	WNZI322 	RM	223 DPL	Stan Co SO MJ 	Main Jail 	FM 	Corrections 
+453.76250 	   	KD20561 	F	223 DPL	Stan SO/Mod PD 	Modesto PD Dispatch Link for Jails? 	FM 	Law Tac 
+151.95500 	   	 	M	732 DPL	Stan Co SO EVOC1 	Training Center Crows Landing - EVOC Course - 1 	FM 	Law Tac 
+153.77000 	   	 	B	123.0 PL	Stan Co FD 	Dispatch 	FM 	Fire Dispatch 
+154.43000 	154.05500  	 	RM	123.0 PL	Stan Co FD Cmd2 	Command 2 	FM 	Fire-Tac 
+151.01000 	153.87500  	KMG969 	RM	82.5 PL	Stan Co FD Cmd3 	Command 3 	FM 	Fire-Tac 
+155.08500 	156.09000  	KMG969 	RM	464 DPL	Stan Co FD Cmd4 	Command 4 	FM 	Fire-Tac 
+155.94000 	154.14500  	WDF949 	RM	125 NAC	Stan Co FD Cmd5 	Command 5/Modesto Fire 1 	P25 	Fire-Tac 
+154.37000 	   	 	BM	123.0 PL	Stan Co FD Tac7 	Tac 7/Modesto Fire 2 	FM 	Fire-Talk 
+153.90500 	   	 	BM	123.0 PL	Stan Co FD Tac8 	Tac 8/Modesto Fire 3 	FM 	Fire-Talk 
+154.32500 	   	WPZQ357 	BM	123.0 PL	Stan Co FD Tac9 	Tac 9/Oakdale Fire 	FM 	Fire-Talk 
+153.89000 	   	KC8641 	BM	123.0 PL	Stan Co FD Tac10 	Tac 10 	FM 	Fire-Talk 
+154.41500 	   	WDF952 	BM	131 NAC	Stan Co FD Tac11 	Tac 11/Modesto Fire 4 	P25 	Fire-Talk 
+154.19000 	   	KNAT234 	BM	123.0 PL	Stan Co FD Tac12 	Tac 12/Turlock Fire 	FM 	Fire-Talk 
+453.52500 	458.52500  	WPZL259 	RM	073 DPL	Stan Co FD Cntl1 	Control 1 	FM 	Fire-Tac 
+462.97500 	467.97500  	KNEJ838 	RM	123.0 PL	Stan Co EMS Disp 	Dispatch (Med 10) 	FM 	EMS Dispatch 
+152.41250 	157.61250  	WPVY844 	RM	100.0 PL	AMR Disp 	AMR Dispatch 	FMN 	EMS Dispatch 
+155.29500 	   	 	BM	88.5 PL	AMR 2 	AMR Channel 2 	FMN 	EMS-Tac 
+155.38500 	   	WPED438 	BM	CSQ	VHF MedNet 	VHF Mednet - Air to Hospital 	FMN 	Hospital 
+463.00000 	468.00000  	KNEJ838 	RM	179.9 PL	UHF MedNet 	UHF Mednet - Medic to Hospital 	FM 	Hospital 
+131.07500 	   	KHP4 	BM		AirMed VHF 	Doctors Med Center - Air to Hospital VHF 	AM 	Hospital 
+461.57500 	466.57500  	WQBZ939 	RM	131.8 PL	AirMed UHF 	Doctors Med Center - Air to Hospital UHF 	FMN 	Hospital 
+155.32500 	   	WNHR823 	BM		MedFlight 	Memorial Med Center-  Air to Hospital 	FMN 	Hospital 
+155.11500 	   	WPZP779 	RM	103.5 PL	Stan Co AC 	Animal Control Dispatch 	FM 	Public Works 
+151.11500 	159.01500  	WPZU249 	RM	723 DPL	Stan Co Interop 	Interoperability Link 	FM 	Interop 
+453.17500 	458.17500  	WPZU249 	RM	205 DPL	Modesto PD9 	Police Interoperability Link 	FM 	Interop 
+854.56250 	809.56250  	WNDY914 	RM	911 NAC	Modesto PD P25 	Police Vice 	P25E 	Law Tac 
+857.46250 	812.46250  	WNDY914 	RM	911 NAC	Modesto PD P25 	Police Narcotics/Vice 	P25E 	Law Tac 
+451.20000 	456.20000  	WRD927 	RM		Modesto Water 	Water Department 	FMN 	Utilities 
+153.96500 	158.80500  	KRZ977 	RM	464 DPL	Newman PD 	Police Dispatch 	FMN 	Law Dispatch 
+155.92500 	153.84500  	KMG323 	RM	245 NAC	Oakdale PD1 	Police Dispatch 	P25 	Law Dispatch 
+158.76000 	154.80000  	KMG323 	RM	244 NAC	Oakdale PD2 	Police Channel 2 	P25 	Law Tac 
+154.32500 	   	WPZQ357 	BM	123.0 PL	Oakdale FD 	Fire Dispatch 	FM 	Fire Dispatch 
+151.65500 	   	 	RM	351 DPL	Stan Co Buses 	Stanislaus Co School Transportations 	FMN 	Schools 
+152.28500 	   	KNCS643 	RM	172 DPL	CUSD Ops 	Administration/Campus Security/School Resource Officers 	FM 	Schools 
+153.06500 	   	WQTR342 	RM	CC 12TG 1112SL 1	CUSD Ops 	District Ops 	DMR 	Schools 
+463.91250 	468.91250  	WQIM922 	RM		MUSD Ops 	District Operations 	FMN 	Schools 
+153.31250 	158.21250  	WQHG482 	RM		RUSD Bus 	School Buses 	FMN 	Schools 
+152.37500 	157.63500  	WPZZ203 	RM	315 DPL	SUESD Bus 	Buses 	FMN 	Schools 
+453.83750 	458.83750  	KNIC289 	RM	CC 8TG 12689SL 1	MJC Security 	Modesto Junior College Security 	DMR 	Security 
+452.67500 	457.67500  	WRM792 	RM	141.3 PL	MAX Bus 	Operations 	FM 	Transportation 
+AirCall Communications	 DMR Motorola Connect Plus (TRBO)	 	ATT (LTR)	 LTR Standard	 Various	Central Valley DMR	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Ceres	 Motorola Type II Smartnet	 Ceres	Mid Valley Communications	 Motorola Type II	 Westley	Modesto Irrigation District	 NXDN NEXEDGE 4800	 Westley
+Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	PDV Spectrum Holding	 Motorola Type II	 Patterson	PDV Spectrum Holding Company	 LTR Standard	 Various
+Ray's Radio Shop (DMR)	 DMR Motorola Connect Plus (TRBO)	 Modesto	Sam Gardali System 1	 LTR Standard	 Patterson	Sam Gardali System 2	 LTR Standard	 Patterson
+Signature Wireless Group iDAS Multitrunk (Bay Area)	 NXDN Icom IDAS Type D	 San Rafael	Stanislaus Regional 911	 Project 25 Phase I	 Various	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various
+Ten Four Communications Inc	 LTR Standard	 Patterson	The Radio Guys	 NXDN NEXEDGE 4800	 Various	Unknown LTR Stanislaus	 LTR Standard	 

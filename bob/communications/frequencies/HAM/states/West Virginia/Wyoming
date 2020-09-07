@@ -1,23 +1,23 @@
-159.09000 	KQD870 	RM	114.8 PL	WymgCoSO Dp 	Wyoming County Sheriff - Dispatch 	FMN 	Law Dispatch 
-151.31000 	WQRJ838 	BM	CC 1TG 3310SL 1	Oceana PD Pv 	Oceana PD -  Private 	DMRE 	Law Talk 
-154.16000 	WNQS562 	RM	136.5 PL	WymgCoFD Dp 	Wyoming County Fire - Dispatch 	FMN 	Fire Dispatch 
-154.16000 	WNQS562 	M	CSQ	WymgCoFD TkA 	Wyoming County Fire - ( Talk-Around ) 	FMN 	Fire-Talk 
-154.28000 	 	BM	CSQ	WymgCo MuAd 	Wyoming County Fire - ( Mutual Aid ) 	FM 	Interop 
-154.16000 	 	BM	114.8 PL	WymCo FDTc1 	Wyoming County Fire - Tactical Ch. 1 	FMN 	Fire-Tac 
-154.57000 	 	BM	156.7 PL	WymCo FDTc2 	Wyoming County Fire - Tactical Ch. 2 	FMN 	Fire-Tac 
-463.81250 	WQGW539 	BM		PinevilleVFD 	Pineville VFD - Tactical 	FMN 	Fire-Tac 
-155.71500 	WNPG845 	BM		MullensVFDPv 	Mullens VFD - Private 	FM 	Fire-Tac 
-156.70000 	 	M	114.8 PL	OceanaVFDPv 	Oceana VFD - Private 	FM 	Fire-Tac 
-155.11500 	WQQV901 	BM		WymgCoFireC 	Wyoming County Fire Company Inc 	FMN 	Fire-Tac 
-155.81250 	KQD870 	RM	071 DPL	WymCoEMS Dp 	Wyoming County EMS - Dispatch 	FMN 	EMS Dispatch 
-452.83750 	WQYC302 	RM	156 DPL	Jan-Care EMS 	Jan-Care EMS - Bolt Repeater 	FMN 	EMS-Tac 
-152.90000 	WQPM747 	RM	263 DPL	STAT Amb VHF 	STAT Ambulance Service - VHF 	FMN 	EMS-Tac 
-463.62500 	WNYZ390 	RM		STAT Amb UHF 	STAT Ambulance Service - UHF 	FMN 	EMS-Tac 
-153.45500 	WPQB843  	BM	151.4 PL	Ameri Water  	West Virginia American Water Company - Wyoming Division 	FMN 	Public Works 
-464.80000 	WPHH714 	BM	125 DPL	Oceana PbWks 	Oceana Public Works 	FMN 	Public Works 
-463.38750 	WPIW921 	RM		WyomCoBuses 	Wyoming County School Buses 	DMR 	Schools 
-463.53750 	WPIW921 	RM	CC 7TG 60003SL 2	WyomCoBuses 	Wyoming County School Buses 	DMRE 	Schools 
-463.87500 	WPIW921 	RM	CC 7TG 60003SL 2	WyomCoBuses 	Wyoming County School Buses 	DMRE 	Schools 
-451.50000 	WPIW921 	F		WyomCoBuses 	Wyoming County School Buses (link) 	DMRE 	Schools 
-452.85000 	WPIW921 	F		WyomCoBuses 	Wyoming County School Buses (link) 	DMRE 	Schools 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	West Virginia Statewide Interoperability Radio Network (SIRN) 	 Project 25 Phase I	 Statewide	
+159.09000 	154.83000  	KQD870 	RM	114.8 PL	WymgCoSO Dp 	Wyoming County Sheriff - Dispatch 	FMN 	Law Dispatch 
+151.31000 	   	WQRJ838 	BM	CC 1TG 3310SL 1	Oceana PD Pv 	Oceana PD -  Private 	DMRE 	Law Talk 
+154.16000 	156.00000  	WNQS562 	RM	136.5 PL	WymgCoFD Dp 	Wyoming County Fire - Dispatch 	FMN 	Fire Dispatch 
+154.16000 	   	WNQS562 	M	CSQ	WymgCoFD TkA 	Wyoming County Fire - ( Talk-Around ) 	FMN 	Fire-Talk 
+154.28000 	   	 	BM	CSQ	WymgCo MuAd 	Wyoming County Fire - ( Mutual Aid ) 	FM 	Interop 
+154.16000 	   	 	BM	114.8 PL	WymCo FDTc1 	Wyoming County Fire - Tactical Ch. 1 	FMN 	Fire-Tac 
+154.57000 	   	 	BM	156.7 PL	WymCo FDTc2 	Wyoming County Fire - Tactical Ch. 2 	FMN 	Fire-Tac 
+463.81250 	   	WQGW539 	BM		PinevilleVFD 	Pineville VFD - Tactical 	FMN 	Fire-Tac 
+155.71500 	   	WNPG845 	BM		MullensVFDPv 	Mullens VFD - Private 	FM 	Fire-Tac 
+156.70000 	   	 	M	114.8 PL	OceanaVFDPv 	Oceana VFD - Private 	FM 	Fire-Tac 
+155.11500 	151.20500  	WQQV901 	BM		WymgCoFireC 	Wyoming County Fire Company Inc 	FMN 	Fire-Tac 
+155.81250 	151.45250  	KQD870 	RM	071 DPL	WymCoEMS Dp 	Wyoming County EMS - Dispatch 	FMN 	EMS Dispatch 
+452.83750 	457.83750  	WQYC302 	RM	156 DPL	Jan-Care EMS 	Jan-Care EMS - Bolt Repeater 	FMN 	EMS-Tac 
+152.90000 	159.99000  	WQPM747 	RM	263 DPL	STAT Amb VHF 	STAT Ambulance Service - VHF 	FMN 	EMS-Tac 
+463.62500 	468.62500  	WNYZ390 	RM		STAT Amb UHF 	STAT Ambulance Service - UHF 	FMN 	EMS-Tac 
+153.45500 	159.97500  	WPQB843  	BM	151.4 PL	Ameri Water  	West Virginia American Water Company - Wyoming Division 	FMN 	Public Works 
+464.80000 	469.80000  	WPHH714 	BM	125 DPL	Oceana PbWks 	Oceana Public Works 	FMN 	Public Works 
+463.38750 	468.38750  	WPIW921 	RM		WyomCoBuses 	Wyoming County School Buses 	DMR 	Schools 
+463.53750 	468.53750  	WPIW921 	RM	CC 7TG 60003SL 2	WyomCoBuses 	Wyoming County School Buses 	DMRE 	Schools 
+463.87500 	468.87500  	WPIW921 	RM	CC 7TG 60003SL 2	WyomCoBuses 	Wyoming County School Buses 	DMRE 	Schools 
+451.50000 	   	WPIW921 	F		WyomCoBuses 	Wyoming County School Buses (link) 	DMRE 	Schools 
+452.85000 	   	WPIW921 	F		WyomCoBuses 	Wyoming County School Buses (link) 	DMRE 	Schools 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	

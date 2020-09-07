@@ -1,24 +1,24 @@
-151.40000 	WRHU999 	RM	156.7 PL	GASTON-FIRE 	Gaston Fire Dispatch 	FMN 	Fire Dispatch 
-769.00625 	 	BM	736 NAC	GC DIRECT 1 	GC Direct 1 	P25 	Fire-Tac 
-769.01875 	 	BM	836 NAC	GC DIRECT 2 	GC Direct 2 	P25 	Fire-Tac 
-770.96250 	 	RM	736 NAC	GC DVRS 	GC DVRS 	P25 	Interop 
-47.50000 	KGC256 	BM	173.8 PL	CivilDefense 	Civil Defense 	FM 	Emergency Ops 
-47.54000 	KGC256 	M	173.8 PL	Gaston CD 	Civil Defense 	FM 	Emergency Ops 
-47.58000 	KGC256 	BM	173.8 PL	CD DukeAlert 	Civil Defense/Duke Energy Nuclear Alert 	FM 	Emergency Ops 
-47.62000 	KGC256 	BM	173.8 PL	EBS 	EBS Notification 	FM 	Emergency Ops 
-155.88000 	KWQ475 	B	192.8 PL	GPW Rptr 	Gastonia Public Works Repeater 	FM 	Public Works 
-453.62500 	WNND306 	BM		Belmont  	Belmont Town Services 	FM 	Public Works 
-153.84500 	WPGU509 	BM		CheryvileSrv 	Cherryville Services 	FM 	Multi-Talk 
-155.65500 	WPGZ721 	BM		CheryvileSvc 	Cherryville Services 	FM 	Multi-Talk 
-154.10000 	KVM230 	BM		CramertonOps 	Cramerton Services 	FM 	Multi-Talk 
-156.21750 	KVM230 	BM		Cramerton 	Cramerton Services 	FM 	Multi-Talk 
-155.04000 	KGN475 	BM		DallasSer 	Dallas Services 	FM 	Public Works 
-453.27500 	WPLX389 	RM		 Dallas Serv 	Dallas Services 	FM 	Multi-Talk 
-155.79000 	KIC290 	BM	162.2 PL	GAST RADIO 	Police Radio Shop 	FM 	Law Tac 
-154.23500 	KAO271 	BM	162.2 PL	FireD/FireG 	Fire Dispatch/Fire ground 	FM 	Fire Dispatch 
-154.04000 	KDY362 	BM		MtHolly Serv 	Mt. Holly Services 	FM 	Public Works 
-158.80500 	KWI893 	BM		Mt Holly Svc 	Mt. Holly Services 	FM 	Multi-Talk 
-453.85000 	WPHR569 	RM		StanleySrvce 	Stanley Services 	FM 	Multi-Talk 
-Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Charleston Wireless Group/James White	 DMR Motorola Connect Plus (TRBO)	 Various	Charlotte UASI	 Project 25 Phase I
- Charlotte	Duke Energy (Gastonia)	 OpenSky 4800 baud	 Gastonia	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	FleetTalk Carolinas
- NXDN NEXEDGE 4800	 Various	North Carolina VIPER	 Project 25 Phase I	 Varies	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville
+151.40000 	154.01000  	WRHU999 	RM	156.7 PL	GASTON-FIRE 	Gaston Fire Dispatch 	FMN 	Fire Dispatch 
+769.00625 	   	 	BM	736 NAC	GC DIRECT 1 	GC Direct 1 	P25 	Fire-Tac 
+769.01875 	   	 	BM	836 NAC	GC DIRECT 2 	GC Direct 2 	P25 	Fire-Tac 
+770.96250 	800.96250  	 	RM	736 NAC	GC DVRS 	GC DVRS 	P25 	Interop 
+47.50000 	   	KGC256 	BM	173.8 PL	CivilDefense 	Civil Defense 	FM 	Emergency Ops 
+47.54000 	   	KGC256 	M	173.8 PL	Gaston CD 	Civil Defense 	FM 	Emergency Ops 
+47.58000 	   	KGC256 	BM	173.8 PL	CD DukeAlert 	Civil Defense/Duke Energy Nuclear Alert 	FM 	Emergency Ops 
+47.62000 	   	KGC256 	BM	173.8 PL	EBS 	EBS Notification 	FM 	Emergency Ops 
+155.88000 	153.80000  	KWQ475 	B	192.8 PL	GPW Rptr 	Gastonia Public Works Repeater 	FM 	Public Works 
+453.62500 	   	WNND306 	BM		Belmont  	Belmont Town Services 	FM 	Public Works 
+153.84500 	   	WPGU509 	BM		CheryvileSrv 	Cherryville Services 	FM 	Multi-Talk 
+155.65500 	   	WPGZ721 	BM		CheryvileSvc 	Cherryville Services 	FM 	Multi-Talk 
+154.10000 	   	KVM230 	BM		CramertonOps 	Cramerton Services 	FM 	Multi-Talk 
+156.21750 	158.91750  	KVM230 	BM		Cramerton 	Cramerton Services 	FM 	Multi-Talk 
+155.04000 	   	KGN475 	BM		DallasSer 	Dallas Services 	FM 	Public Works 
+453.27500 	458.27500  	WPLX389 	RM		 Dallas Serv 	Dallas Services 	FM 	Multi-Talk 
+155.79000 	   	KIC290 	BM	162.2 PL	GAST RADIO 	Police Radio Shop 	FM 	Law Tac 
+154.23500 	153.77000  	KAO271 	BM	162.2 PL	FireD/FireG 	Fire Dispatch/Fire ground 	FM 	Fire Dispatch 
+154.04000 	   	KDY362 	BM		MtHolly Serv 	Mt. Holly Services 	FM 	Public Works 
+158.80500 	   	KWI893 	BM		Mt Holly Svc 	Mt. Holly Services 	FM 	Multi-Talk 
+453.85000 	458.85000  	WPHR569 	RM		StanleySrvce 	Stanley Services 	FM 	Multi-Talk 
+Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Charleston Wireless Group/James White	 DMR Motorola Connect Plus (TRBO)	 Various	Charlotte UASI	 Project 25 Phase I	 Charlotte
+Duke Energy (Gastonia)	 OpenSky 4800 baud	 Gastonia	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various
+PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	

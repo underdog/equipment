@@ -1,154 +1,153 @@
-471.65000 	WQDV597 	RM	203.5 PL	BRCOFDNET1 	County Fire Network Dispatch 	FMN 	Fire Dispatch 
-471.47500 	WQDV597 	RM	203.5 PL	BRCOFDNET2 	County Fire Network Central 	FMN 	Fire-Tac 
-471.45000 	WQDV597 	RM	203.5 PL	BRCOFDNET3 	County Fire Network South 	FMN 	Fire-Tac 
-472.95000 	WQDV597 	RM	203.5 PL	BRCOFDNET4 	County Fire Network North 	FMN 	Fire-Tac 
-482.38750 	 	M	203.5 PL	BRCOCAR 	County Police Car to Car 	FM 	Law Talk 
-482.51250 	WPQF378 	RM	203.5 PL	BRCOPDNET 	County Police Intercity Channel 	FM 	Law Tac 
-158.97000 	 		CSQ	BRCORIINT 	County Police Tie Into Rhode Island Police 	FMN 	Law Tac 
-146.59500 	WA1EMA 	M	67.0 PL	Bris EMA Ham 	Emergency Management 2M Ham 	FM 	Emergency Ops 
-147.00000 	W1AEC 	RM	67.0 PL	MEMA RACES 	MEMA RACES Region 2a 	FM 	Emergency Ops 
-145.49000 	W1SMA 	RM	67.0 PL	Southcst NWS 	Skywarn Southcoast 	FM 	Emergency Ops 
-155.17500 	 		85.4 PL	STAT Amb 	STAT Ambulance, Dartmouth 911, Fall River and New Bedford Transfers 	FMN 	EMS Dispatch 
-155.35500 	 		023 DPL	AMR Taunton 	Taunton, Middleboro 911, SEMA Transfer Trucks 	FMN 	EMS Dispatch 
-452.72500 	KKD354 	RM	371 DPL	SRTA NewBedfd 	SRTA - New Bedford Buses and Vans 	FMN 	Transportation 
-464.26250 	KKD354 	RM	371 DPL	SRTA Fall River 	SRTA - Fall River Buses and Vans 	FMN 	Transportation 
-482.81250 	KZM468 	RM	203.5 PL	Acushnet PD 	Police Operations  	FM 	Law Dispatch 
-453.87500 	WPMW811 	RM	051 DPL	Acushnet FD 	Fire Operations  	FMN 	Fire Dispatch 
-453.78750 	WPPC558 	RM	77.0 PL	Acushnt DPW 	Department of Public Works/EMA 	FMN 	Emergency Ops 
-460.15000 	WQHF728 	RM	351 DPL	Attlebro PD1 	Police Operations  	FMN 	Law Dispatch 
-460.46250 	WQHF728 	RM	411 DPL	Attlebro PD2 	Police Secondary 	FMN 	Law Tac 
-471.60000 	WQHJ518 	RM	343 DPL	Attleboro FD 	Fire Operations  	FMN 	Fire Dispatch 
-460.26250 	WQHF728 	RM	67.0 PL	Attleboro FD2 	Fire Secondary 	FMN 	Fire-Tac 
-151.44500 	KCA887 	RM	218.1 PL	Attleboro PW 	Public Works 	FMN 	Public Works 
-156.16500 	KNDV936 	BM	74.4 PL	Attlboro DPW 	Public Works Secondary 	FMN 	Public Works 
-160.12500 	WQIH317 	RM	79.7 PL	Atl Sch Bus 	Public Schools Bus Dispatch 	FM 	Schools 
-155.20500 	 	BM	754 DPL	Atl Sch Bus 	Public School Buses (H And L Bloom Bus) 	FM 	Schools 
-464.57500 	 	RM	103.5 PL	SturdyH Sec 	Sturdy Hospital - Security 	FMN 	Security 
-462.57500 	 	RM	226 DPL	SturdyH Ops 	Sturdy Hospital - Operations/Janitorial 	FMN 	Business 
-451.90000 	 	RM	100.0 PL	SturdyH Maint 	Sturdy Hospital - Maintenance 	FMN 	Business 
-483.58750 	WEC762 	RM	203.5 PL	Berkley PD 	Police Operations  	FM 	Law Dispatch 
-460.36250 	KFZ756 	RM	100.0 PL	Berkley FD 	Fire Operations  	FMN 	Fire Dispatch 
-151.13000 	KNFN756 	BM	411 DPL	Berkley DPW 	Public Works 	FMN 	Public Works 
-453.55000 	KCA937 	RM	293 NAC	Dartmouth PD 	Police Operations  	P25 	Law Dispatch 
-460.06250 	KCA937 	RM	065 DPL	Dartmth PD2 	Police Channel 2 (Interoop w/ FD And EMS) 	FMN 	Multi-Dispatch 
-460.28750 	KCC452 	RM	91.5 PL	Dartmth FD1 	Fire District 1 	FMN 	Fire Dispatch 
-460.08750 	KNFF850 	RM	411 DPL	Dartmth FD2 	Fire District 2 	FMN 	Fire-Tac 
-453.43750 	KCC922 	RM	311 DPL	Dartmth FD3 	Fire District 3 	FMN 	Fire-Tac 
-155.25000 	KCA937 	RM	127.3 PL	Dartmth DPW2 	Dartmouth DPW Secondary / Council on Aging 	FMN 	Public Works 
-483.52500 	WQGD805 	RM	203.5 PL	Dighton PD 	Police Operations  	FM 	Law Dispatch 
-453.31250 	KNDU337 	RM	100.0 PL	Dighton FD 	Fire Operations  	FMN 	Fire Dispatch 
-460.33750 	WQOA897 	RM	85.4 PL	DightonDPW 	Highway Department 	FMN 	Public Works 
-453.42500 	WQJI324 	RM	179.9 PL	Easton PD 	Police Operations  	FMN 	Law Dispatch 
-471.17500 	WPMJ965 	RM	203.5 PL	Easton FD 	Fire Operations  	FM 	Fire Dispatch 
-453.92500 	WQEB640 	RM	156.7 PL	Easton DPW 	Public Works 	FMN 	Public Works 
-451.58750 	KSR296 	RM	423 DPL	SRVTHS-Ops 	Southern Regional Vocational Tech. HS. - Operations 	FMN 	Schools 
-482.81250 	WBN818 	RM	203.5 PL	Fairhaven PD 	Police Operations (Channel 1 Main) 	FM 	Law Dispatch 
-453.02500 	WPGG651 	RM	023 DPL	Fairhaven FD 	Fire Operations 	FMN 	Fire Dispatch 
-460.56250 	 	M	CSQ	FH Fire TAC4 	Fire TAC-4 	FMN 	Fire-Tac 
-452.32500 	KNNJ544 	RM	103.5 PL	Fairhavn DPW 	Fairhaven DPW 	FMN 	Public Works 
-464.12500 	 	RM		FairSchools 	Schools 	FM 	Schools 
-482.36250 	KWJ364 	RM	203.5 PL	Fall Rivr PD 	Police Operations  	FM 	Law Dispatch 
-482.68750 	KWJ364 	RM	203.5 PL	Fall Riv PD2 	Police Secondary 	FM 	Law Tac 
-453.37500 	KRO335 	RM	203.5 PL	Fall Rivr FD 	Fire Operations  	FMN 	Fire Dispatch 
-453.85000 	WIPF200 	RM	203.5 PL	Fall Riv FD2 	Fire Secondary 	FMN 	Fire-Tac 
-471.51250 	 	RM	71.9 PL	FR EMA 	Emergency Management Agency 	FM 	Emergency Ops 
-464.32500 	WPPF304 	M	186.2 PL	Char Hos Sec 	Charlton Memorial Hospital Security 	FM 	Security 
-470.92500 	WPWU761 	RM	203.5 PL	Freetown PD 	Police Operations  	FM 	Law Dispatch 
-155.94750 	 	BM	065 DPL	Freetown PD V 	Police - Repeats Mobile and Portable Units 	FMN 	Law Dispatch 
-155.95500 	 	RM	065 DPL	Freetown PD V 	Police - Repeats Mobile and Portable Units 	FMN 	Law Dispatch 
-460.62500 	WNNT775 	RM	103.5 PL	Freetown FD 	Fire Operations  	FMN 	Fire Dispatch 
-155.90250 	 	RM	065 DPL	Freetown FD V 	Fire - Repeats Mobile and Portable Units. 	FMN 	Fire Dispatch 
-156.15750 	 	BM	271 DPL	Freetown FD V 	Fire - Repeats Mobile and Portable Units 	FMN 	Fire Dispatch 
-45.28000 	WYE383 	BM	118.8 PL	FreetownDPW 	Public Works 	FM 	Public Works 
-470.50000 	WQCX441 	RM	293 NAC	Mansfield PD 	Police Operations  	P25 	Law Dispatch 
-472.25000 	WQCX441 	RM	293 NAC	MansfieldPD2 	Police Secondary  	P25 	Law Tac 
-453.83750 	WPPV462 	RM	261 DPL	Mansfield FD 	Fire Operations  	FMN 	Fire Dispatch 
-460.60000 	WPPV462 	RM	261 DPL	Mansfld EMA 	Emergency Management 	FMN 	Emergency Ops 
-453.23750 	WPPB642 	RM	261 DPL	Mansfld DPW 	Public Works 	FMN 	Public Works 
-453.28750 	WPPB641 	RM	261 DPL	MansfldMMLED 	Municipal Electric Department 	FMN 	Utilities 
-470.88750 	WPRG294 	RM	1AF NAC	N.Atlbro PD 	Police Operations  	P25 	Law Dispatch 
-471.36250 	WPRG294 	RM	2AF NAC	N.Atlbro PD2 	Police Secondary 	P25 	Law Tac 
-453.51250 	WQVU498 	RM	074 DPL	N.Atlbro FD 	Fire Operations  	FMN 	Fire Dispatch 
-453.60000 	WQVU498 	RM	114 DPL	N.AttleboroFDSim 	Fire - Simulcasts Dispatch Voice 	FMN 	Fire Dispatch 
-453.35000 	WPTR547 	RM	131.8 PL	NAttlebo DPW 	Public Works 	FMN 	Public Works 
-47.70000 	KCC903 	BM	88.5 PL	NAttle Electric 	Electric Department  	FM 	Utilities 
-155.22000 	WXT528 	BM	186.2 PL	NAtl Sch Bus 	School Buses (W T Holmes Transportation) 	FMN 	Schools 
-482.58750 	KVX916 	RM	232 NAC	NBPD P25 	Police Operations  	P25 	Law Dispatch 
-482.91250 	WQAK392 	RM	233 NAC	NBPD F2 P25 	Police Secondary Records  	P25 	Law Tac 
-482.58750 	KXV916 	BM	233 NAC	NBPD F3 	PD F3 (Simplex of F1) 	P25 	Law Talk 
-470.51250 	WPJV325 	RM	143 DPL	New Bdfd FD 	Fire Operations  	FM 	Fire Dispatch 
-471.03750 	WPJV325 	RM	143 DPL	New Bdfd FD2 	Fire Secondary 	FM 	Fire-Tac 
-471.15000 	WPJV325 	RM	143 DPL	New Bedfd FG 	Fireground 	FM 	Fire-Talk 
-471.15000 	WPJV325 	RM	868 NAC	NewBed FG-D 	Fireground Digital 	P25 	Fire-Talk 
-463.71250 	 	RM	243 DPL	NB EMS 	New Bedford EMS Dispatch 	FM 	EMS Dispatch 
-154.34000 	 	RM	141.3 PL	NB Port Auth 	Port Authority 	FM 	Public Works 
-464.82500 	WPXD913 	RM	654 DPL	GNBVHS 	Greater New Bedford Vocational High School 	FMN 	Schools 
-471.00000 	WQEK932 	RM	624 DPL	Norton PD 	Police Operations  	FMN 	Law Dispatch 
-471.20000 	WQER932 	RM	412 DPL	Norton PD2 	Police Secondary 	FMN 	Law Tac 
-471.20000 	WQER932 	RM	293 NAC	Norton PD2-E 	Police Secondary 	P25E 	Law Tac 
-460.18750 	WQJB517 	RM		Norton PD F3 	PD - F3 (Bristol County Taskforce) 	FMN 	Law Talk 
-453.86250 	WPMZ691 	RM	351 DPL	Norton FD 	Fire Operations  	FMN 	Fire Dispatch 
-453.98750 	WPMZ691 	RM	351 DPL	Norton FD Simcst 	Fire Operations Simulcast 	FMN 	Fire Dispatch 
-460.11250 	WPMZ691 	RM	351 DPL	Norton FD F2 	Fire Operations - Channel 2 	FMN 	Fire-Talk 
-472.10000 	WQIN640 	RM	351 DPL	Norton DPW 	Public Works 	FMN 	Public Works 
-464.36250 	WQLX246 	RM	351 DPL	Norton PSch 	Public Schools - Primary Operations 	FM 	Schools 
-451.23750 	WQLX246 	M	351 DPL	Norton PSch 	Public Schools - School Buses/School Dep't 	FM 	Schools 
-451.71250 	WQLX246 	M	351 DPL	Norton PSch 	Public Schools - School Buses/School Dep't 	FM 	Schools 
-451.76250 	WQLX246 	M	351 DPL	Norton PSch 	Public Schools - School Buses/School Dep't 	FM 	Schools 
-483.32500 	KZM469 	RM	203.5 PL	Raynham PD 	Police Operations  	FM 	Law Dispatch 
-453.90000 	KCD371 	RM	371 DPL	Raynham FD 	Fire Operations  	FMN 	Fire Dispatch 
-37.96000 	KTX694 	BM	754 DPL	Raynham DPW 	Public Works 	FM 	Public Works 
-452.80000 	WRCQ817 	RM	CC 4TG 1SL 1	Raynham DPW 	Public Works 	DMR 	Public Works 
-452.52500 	WRBQ632 	RM	CC 10TG 2100SL 1	RaynhamMS 	Middle School Ops 	DMR 	Schools 
-460.03750 	WQKN317 	RM	203.5 PL	Rehoboth PD 	Police Operations  	FMN 	Law Dispatch 
-470.45000 	KAZ443 	RM	77.0 PL	Rehoboth FD 	Fire Operations  	FM 	Fire Dispatch 
-154.10000 	KAZ443 	RM	100.0 PL	Rehoboth DPW 	Public Works 	FMN 	Public Works 
-470.81250 	WQDD844 	RM	351 DPL	Seekonk PD 	Police Operations  	FM 	Law Dispatch 
-483.45000 	WPVZ522 	RM	125 DPL	Seekonk FD 	Fire Operations  	FM 	Fire Dispatch 
-155.94000 	KDS668 	RM	85.4 PL	Seekonk DPW 	Public Works 	FMN 	Public Works 
-482.85000 	WQCE245 	RM	203.5 PL	Somerset PD 	Police Operations  	FM 	Law Dispatch 
-482.76250 	KZM465 	M	203.5 PL	Somerset PD2 	Details/ Events 	FM 	Law Talk 
-483.00000 	WQCE245 	RM	203.5 PL	Somerset FD 	Fire Operations  	FM 	Fire Dispatch 
-453.10000 	WPDA669 	RM		Somerset FD2 	Fire Secondary 	FMN 	Fire-Tac 
-155.71500 	KNJN710 	RM	114.8 PL	Somerset EMA 	Emergency Management Agency 	FMN 	Emergency Ops 
-155.95500 	KNJN710 	RM		Somerset EMA 	Emergency Management Agency CH2 	P25 	Emergency Ops 
-154.08500 	KNJN710 	RM	210.7 PL	Somerset EMA 	Emergency Management Agency - Area 2 Tie-In 	FMN 	Emergency Ops 
-45.24000 	WPVQ732 	BM		Somerset COA 	Council on Aging - Minibuses 	FM 	Transportation 
-483.75000 	WQCE245 	RM	203.5 PL	Somerset SVC 	Services (highway, sewer, water, parks) 	FM 	Public Works 
-453.50000 	WQVH865 	RM	293 NAC	Swansea PD 	Police Operations 	P25 	Law Dispatch 
-470.53750 	WPTT552 	RM	315 DPL	Swansea FD 	Fire Operations  	FM 	Fire Dispatch 
-460.58750 	 	BM	315 DPL	Swans FD TAC 	Fire Tactical 	FMN 	Fire-Tac 
-484.92500 	 	RM	167.9 PL	Swansea EMA 	Emergency Management and Fire Secondary 	FM 	Emergency Ops 
-483.88750 	 	RM	103.5 PL	Swansea DPW 	Public Works 	FMN 	Public Works 
-154.02500 	 	BM	127.3 PL	Swansea WTR 	Water Department 	FMN 	Public Works 
-483.06250 	WBN840 	RM	203.5 PL	Taunton PD 	Police Operations  	FM 	Law Dispatch 
-482.63750 	WPTR302 	RM	203.5 PL	Taunton PD2 	Police Secondary 	FM 	Law Tac 
-453.70000 	WPKI645 	RM	218.1 PL	Taunton FD 	Fire Operations 	FMN 	Fire Dispatch 
-483.30000 	WQCE661 	RM	411 DPL	Taunton FD2 	Fire Secondary 	FMN 	Fire-Tac 
-158.13000 	KCA983 	BM	162.2 PL	TMLP Crews 	Taunton Municipal Lighting Plant - Crews 	FMN 	Utilities 
-158.19000 	KCA983 	BM	162.2 PL	TMLP Const 	Taunton Municipal Lighting Plant - Construction 	FMN 	Utilities 
-462.07500 	WQNA324 	RM	103.5 PL	Taunton HS 	Taunton High School Operations 	FMN 	Schools 
-452.21250 	WQNA324 	RM	CC 6TG 8SL 1	ParkerMS Ops 	Parker Middle School - Operations 	DMR 	Schools 
-452.21250 	WQNA324 	RM	CC 6TG 9SL 2	ParkerMS Fac 	Parker Middle School - Facilities/Maintenance 	DMR 	Schools 
-451.38750 	WQNA324 	BM	CC 7TG 18SL 1	ChamberldSchool 	Joseph Chamberlain School 	DMR 	Schools 
-452.41250 	WQNA324 	BM	CC 7TG 30SL 1	MulcaheySchool 	James L Mulcahey School 	DMR 	Schools 
-456.43750 	WQNA324 	BM	CC 7TG 42SL 1	GalliganSchool 	Harold Galligan School 	DMR 	Schools 
-152.31500 	KNFH320 	RM	179.9 PL	BPRHS-Sec 1 	Bristol Plymouth Reg. H.S. - Security 	FMN 	Schools 
-159.33750 	WQUQ959 	RM	179.9 PL	BPRHS-Maint3 	Bristol Plymouth Reg. H.S. - Maintenance 	FMN 	Schools 
-464.01250 	WPXC922 	RM	205 DPL	Mtn Hos SC1 	Morton Hospital Security Ops 1 	FMN 	Security 
-464.41250 	WPXC922 	RM	205 DPL	Mtn Hos SC2 	Morton Hospital Security Ops 2 	FMN 	Security 
-451.92500 	WQKX994 	RM	205 DPL	Morton Maint 	Morton Hospital Maintenance 	FMN 	Business 
-471.40000 	WPXC762 	RM	71.9 PL	Westport PD 	Police Operations  	FM 	Law Dispatch 
-460.55000 	WPTH774 	RM	94.8 PL	Westport FD 	Fire Operations  	FMN 	Fire Dispatch 
-460.22500 	WQLQ255 	RM	431 DPL	Westport DPW 	Public Works 	FMN 	Public Works 
-464.01250 	WQKB749 	BM	103.5 PL	BristolCC PD 	Campus Police 	FMN 	Law Dispatch 
-463.52500 	WPTS382 	RM	411 DPL	Stonehill PD 	Campus Police 	FMN 	Security 
-464.37500 	WPTS382 	RM	203.5 PL	Stonehill Mt 	Maintenance 	FMN 	Schools 
-462.12500 	WPTS382 	RM	88.5 PL	Res Life Ops 	Residence Life Operations 	FM 	Schools 
-453.35000 	WPJK702 	RM	143 DPL	UMD - Police 	Campus Police 	FMN 	Law Dispatch 
-451.70000 	WPLY647 	RM	141.3 PL	UMD - Maint 	Maintenance 	FMN 	Schools 
-464.82500 	WQBI219 	RM	754 DPL	Wheaton PD 	Security 	FMN 	Security 
-461.38750 	WQBI219 	RM	754 DPL	Wheaton Mnt 	Maintenance 	FMN 	Schools 
-Bristol County	 Motorola Type II Smartnet	 Taunton	Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)	 Regional	Massachusetts State Police	 Motorola Type II SmartZone
- Statewide	New Bedford Municipal	 DMR Motorola Capacity Plus Single Site (TRBO)	 New Bedford	RDC Communications - Network 178	 NXDN NEXEDGE 4800	 Various	Stop and Shop Distribution Warehouse
- DMR Motorola Capacity Plus Single Site (TRBO)	 Assonet (Freetown)	
+471.65000 	474.65000  	WQDV597 	RM	203.5 PL	BRCOFDNET1 	County Fire Network Dispatch 	FMN 	Fire Dispatch 
+471.47500 	474.47500  	WQDV597 	RM	203.5 PL	BRCOFDNET2 	County Fire Network Central 	FMN 	Fire-Tac 
+471.45000 	474.45000  	WQDV597 	RM	203.5 PL	BRCOFDNET3 	County Fire Network South 	FMN 	Fire-Tac 
+472.95000 	475.95000  	WQDV597 	RM	203.5 PL	BRCOFDNET4 	County Fire Network North 	FMN 	Fire-Tac 
+482.38750 	   	 	M	203.5 PL	BRCOCAR 	County Police Car to Car 	FM 	Law Talk 
+482.51250 	485.51250  	WPQF378 	RM	203.5 PL	BRCOPDNET 	County Police Intercity Channel 	FM 	Law Tac 
+158.97000 	   	 		CSQ	BRCORIINT 	County Police Tie Into Rhode Island Police 	FMN 	Law Tac 
+146.59500 	   	WA1EMA 	M	67.0 PL	Bris EMA Ham 	Emergency Management 2M Ham 	FM 	Emergency Ops 
+147.00000 	   	W1AEC 	RM	67.0 PL	MEMA RACES 	MEMA RACES Region 2a 	FM 	Emergency Ops 
+145.49000 	   	W1SMA 	RM	67.0 PL	Southcst NWS 	Skywarn Southcoast 	FM 	Emergency Ops 
+155.17500 	   	 		85.4 PL	STAT Amb 	STAT Ambulance, Dartmouth 911, Fall River and New Bedford Transfers 	FMN 	EMS Dispatch 
+155.35500 	   	 		023 DPL	AMR Taunton 	Taunton, Middleboro 911, SEMA Transfer Trucks 	FMN 	EMS Dispatch 
+452.72500 	457.72500  	KKD354 	RM	371 DPL	SRTA NewBedfd 	SRTA - New Bedford Buses and Vans 	FMN 	Transportation 
+464.26250 	469.26250  	KKD354 	RM	371 DPL	SRTA Fall River 	SRTA - Fall River Buses and Vans 	FMN 	Transportation 
+482.81250 	485.81250  	KZM468 	RM	203.5 PL	Acushnet PD 	Police Operations  	FM 	Law Dispatch 
+453.87500 	458.87500  	WPMW811 	RM	051 DPL	Acushnet FD 	Fire Operations  	FMN 	Fire Dispatch 
+453.78750 	458.78750  	WPPC558 	RM	77.0 PL	Acushnt DPW 	Department of Public Works/EMA 	FMN 	Emergency Ops 
+460.15000 	465.15000  	WQHF728 	RM	351 DPL	Attlebro PD1 	Police Operations  	FMN 	Law Dispatch 
+460.46250 	465.46250  	WQHF728 	RM	411 DPL	Attlebro PD2 	Police Secondary 	FMN 	Law Tac 
+471.60000 	474.60000  	WQHJ518 	RM	343 DPL	Attleboro FD 	Fire Operations  	FMN 	Fire Dispatch 
+460.26250 	465.26250  	WQHF728 	RM	67.0 PL	Attleboro FD2 	Fire Secondary 	FMN 	Fire-Tac 
+151.44500 	156.01500  	KCA887 	RM	218.1 PL	Attleboro PW 	Public Works 	FMN 	Public Works 
+156.16500 	   	KNDV936 	BM	74.4 PL	Attlboro DPW 	Public Works Secondary 	FMN 	Public Works 
+160.12500 	   	WQIH317 	RM	79.7 PL	Atl Sch Bus 	Public Schools Bus Dispatch 	FM 	Schools 
+155.20500 	   	 	BM	754 DPL	Atl Sch Bus 	Public School Buses (H And L Bloom Bus) 	FM 	Schools 
+464.57500 	469.57500  	 	RM	103.5 PL	SturdyH Sec 	Sturdy Hospital - Security 	FMN 	Security 
+462.57500 	467.57500  	 	RM	226 DPL	SturdyH Ops 	Sturdy Hospital - Operations/Janitorial 	FMN 	Business 
+451.90000 	456.90000  	 	RM	100.0 PL	SturdyH Maint 	Sturdy Hospital - Maintenance 	FMN 	Business 
+483.58750 	486.58750  	WEC762 	RM	203.5 PL	Berkley PD 	Police Operations  	FM 	Law Dispatch 
+460.36250 	465.36250  	KFZ756 	RM	100.0 PL	Berkley FD 	Fire Operations  	FMN 	Fire Dispatch 
+151.13000 	   	KNFN756 	BM	411 DPL	Berkley DPW 	Public Works 	FMN 	Public Works 
+453.55000 	458.55000  	KCA937 	RM	293 NAC	Dartmouth PD 	Police Operations  	P25 	Law Dispatch 
+460.06250 	465.06250  	KCA937 	RM	065 DPL	Dartmth PD2 	Police Channel 2 (Interoop w/ FD And EMS) 	FMN 	Multi-Dispatch 
+460.28750 	465.28750  	KCC452 	RM	91.5 PL	Dartmth FD1 	Fire District 1 	FMN 	Fire Dispatch 
+460.08750 	465.08750  	KNFF850 	RM	411 DPL	Dartmth FD2 	Fire District 2 	FMN 	Fire-Tac 
+453.43750 	458.43750  	KCC922 	RM	311 DPL	Dartmth FD3 	Fire District 3 	FMN 	Fire-Tac 
+155.25000 	158.74500  	KCA937 	RM	127.3 PL	Dartmth DPW2 	Dartmouth DPW Secondary / Council on Aging 	FMN 	Public Works 
+483.52500 	486.52500  	WQGD805 	RM	203.5 PL	Dighton PD 	Police Operations  	FM 	Law Dispatch 
+453.31250 	458.31250  	KNDU337 	RM	100.0 PL	Dighton FD 	Fire Operations  	FMN 	Fire Dispatch 
+460.33750 	465.33750  	WQOA897 	RM	85.4 PL	DightonDPW 	Highway Department 	FMN 	Public Works 
+453.42500 	458.42500  	WQJI324 	RM	179.9 PL	Easton PD 	Police Operations  	FMN 	Law Dispatch 
+471.17500 	474.17500  	WPMJ965 	RM	203.5 PL	Easton FD 	Fire Operations  	FM 	Fire Dispatch 
+453.92500 	458.92500  	WQEB640 	RM	156.7 PL	Easton DPW 	Public Works 	FMN 	Public Works 
+451.58750 	456.58750  	KSR296 	RM	423 DPL	SRVTHS-Ops 	Southern Regional Vocational Tech. HS. - Operations 	FMN 	Schools 
+482.81250 	485.81250  	WBN818 	RM	203.5 PL	Fairhaven PD 	Police Operations (Channel 1 Main) 	FM 	Law Dispatch 
+453.02500 	458.02500  	WPGG651 	RM	023 DPL	Fairhaven FD 	Fire Operations 	FMN 	Fire Dispatch 
+460.56250 	   	 	M	CSQ	FH Fire TAC4 	Fire TAC-4 	FMN 	Fire-Tac 
+452.32500 	457.32500  	KNNJ544 	RM	103.5 PL	Fairhavn DPW 	Fairhaven DPW 	FMN 	Public Works 
+464.12500 	   	 	RM		FairSchools 	Schools 	FM 	Schools 
+482.36250 	485.36250  	KWJ364 	RM	203.5 PL	Fall Rivr PD 	Police Operations  	FM 	Law Dispatch 
+482.68750 	485.68750  	KWJ364 	RM	203.5 PL	Fall Riv PD2 	Police Secondary 	FM 	Law Tac 
+453.37500 	458.37500  	KRO335 	RM	203.5 PL	Fall Rivr FD 	Fire Operations  	FMN 	Fire Dispatch 
+453.85000 	458.85000  	WIPF200 	RM	203.5 PL	Fall Riv FD2 	Fire Secondary 	FMN 	Fire-Tac 
+471.51250 	474.51250  	 	RM	71.9 PL	FR EMA 	Emergency Management Agency 	FM 	Emergency Ops 
+464.32500 	   	WPPF304 	M	186.2 PL	Char Hos Sec 	Charlton Memorial Hospital Security 	FM 	Security 
+470.92500 	473.92500  	WPWU761 	RM	203.5 PL	Freetown PD 	Police Operations  	FM 	Law Dispatch 
+155.94750 	   	 	BM	065 DPL	Freetown PD V 	Police - Repeats Mobile and Portable Units 	FMN 	Law Dispatch 
+155.95500 	   	 	RM	065 DPL	Freetown PD V 	Police - Repeats Mobile and Portable Units 	FMN 	Law Dispatch 
+460.62500 	465.62500  	WNNT775 	RM	103.5 PL	Freetown FD 	Fire Operations  	FMN 	Fire Dispatch 
+155.90250 	   	 	RM	065 DPL	Freetown FD V 	Fire - Repeats Mobile and Portable Units. 	FMN 	Fire Dispatch 
+156.15750 	   	 	BM	271 DPL	Freetown FD V 	Fire - Repeats Mobile and Portable Units 	FMN 	Fire Dispatch 
+45.28000 	   	WYE383 	BM	118.8 PL	FreetownDPW 	Public Works 	FM 	Public Works 
+470.50000 	474.50000  	WQCX441 	RM	293 NAC	Mansfield PD 	Police Operations  	P25 	Law Dispatch 
+472.25000 	475.25000  	WQCX441 	RM	293 NAC	MansfieldPD2 	Police Secondary  	P25 	Law Tac 
+453.83750 	458.83750  	WPPV462 	RM	261 DPL	Mansfield FD 	Fire Operations  	FMN 	Fire Dispatch 
+460.60000 	465.60000  	WPPV462 	RM	261 DPL	Mansfld EMA 	Emergency Management 	FMN 	Emergency Ops 
+453.23750 	458.23750  	WPPB642 	RM	261 DPL	Mansfld DPW 	Public Works 	FMN 	Public Works 
+453.28750 	458.28750  	WPPB641 	RM	261 DPL	MansfldMMLED 	Municipal Electric Department 	FMN 	Utilities 
+470.88750 	473.88750  	WPRG294 	RM	1AF NAC	N.Atlbro PD 	Police Operations  	P25 	Law Dispatch 
+471.36250 	474.36250  	WPRG294 	RM	2AF NAC	N.Atlbro PD2 	Police Secondary 	P25 	Law Tac 
+453.51250 	458.51250  	WQVU498 	RM	074 DPL	N.Atlbro FD 	Fire Operations  	FMN 	Fire Dispatch 
+453.60000 	458.60000  	WQVU498 	RM	114 DPL	N.AttleboroFDSim 	Fire - Simulcasts Dispatch Voice 	FMN 	Fire Dispatch 
+453.35000 	458.35000  	WPTR547 	RM	131.8 PL	NAttlebo DPW 	Public Works 	FMN 	Public Works 
+47.70000 	   	KCC903 	BM	88.5 PL	NAttle Electric 	Electric Department  	FM 	Utilities 
+155.22000 	   	WXT528 	BM	186.2 PL	NAtl Sch Bus 	School Buses (W T Holmes Transportation) 	FMN 	Schools 
+482.58750 	485.58750  	KVX916 	RM	232 NAC	NBPD P25 	Police Operations  	P25 	Law Dispatch 
+482.91250 	485.91250  	WQAK392 	RM	233 NAC	NBPD F2 P25 	Police Secondary Records  	P25 	Law Tac 
+482.58750 	   	KXV916 	BM	233 NAC	NBPD F3 	PD F3 (Simplex of F1) 	P25 	Law Talk 
+470.51250 	473.51250  	WPJV325 	RM	143 DPL	New Bdfd FD 	Fire Operations  	FM 	Fire Dispatch 
+471.03750 	474.03750  	WPJV325 	RM	143 DPL	New Bdfd FD2 	Fire Secondary 	FM 	Fire-Tac 
+471.15000 	474.15000  	WPJV325 	RM	143 DPL	New Bedfd FG 	Fireground 	FM 	Fire-Talk 
+471.15000 	474.15000  	WPJV325 	RM	868 NAC	NewBed FG-D 	Fireground Digital 	P25 	Fire-Talk 
+463.71250 	468.71250  	 	RM	243 DPL	NB EMS 	New Bedford EMS Dispatch 	FM 	EMS Dispatch 
+154.34000 	   	 	RM	141.3 PL	NB Port Auth 	Port Authority 	FM 	Public Works 
+464.82500 	469.82500  	WPXD913 	RM	654 DPL	GNBVHS 	Greater New Bedford Vocational High School 	FMN 	Schools 
+471.00000 	474.00000  	WQEK932 	RM	624 DPL	Norton PD 	Police Operations  	FMN 	Law Dispatch 
+471.20000 	474.20000  	WQER932 	RM	412 DPL	Norton PD2 	Police Secondary 	FMN 	Law Tac 
+471.20000 	474.20000  	WQER932 	RM	293 NAC	Norton PD2-E 	Police Secondary 	P25E 	Law Tac 
+460.18750 	465.18750  	WQJB517 	RM		Norton PD F3 	PD - F3 (Bristol County Taskforce) 	FMN 	Law Talk 
+453.86250 	458.86250  	WPMZ691 	RM	351 DPL	Norton FD 	Fire Operations  	FMN 	Fire Dispatch 
+453.98750 	458.98750  	WPMZ691 	RM	351 DPL	Norton FD Simcst 	Fire Operations Simulcast 	FMN 	Fire Dispatch 
+460.11250 	465.11250  	WPMZ691 	RM	351 DPL	Norton FD F2 	Fire Operations - Channel 2 	FMN 	Fire-Talk 
+472.10000 	475.10000  	WQIN640 	RM	351 DPL	Norton DPW 	Public Works 	FMN 	Public Works 
+464.36250 	469.36250  	WQLX246 	RM	351 DPL	Norton PSch 	Public Schools - Primary Operations 	FM 	Schools 
+451.23750 	   	WQLX246 	M	351 DPL	Norton PSch 	Public Schools - School Buses/School Dep't 	FM 	Schools 
+451.71250 	   	WQLX246 	M	351 DPL	Norton PSch 	Public Schools - School Buses/School Dep't 	FM 	Schools 
+451.76250 	   	WQLX246 	M	351 DPL	Norton PSch 	Public Schools - School Buses/School Dep't 	FM 	Schools 
+483.32500 	486.32500  	KZM469 	RM	203.5 PL	Raynham PD 	Police Operations  	FM 	Law Dispatch 
+453.90000 	458.90000  	KCD371 	RM	371 DPL	Raynham FD 	Fire Operations  	FMN 	Fire Dispatch 
+37.96000 	   	KTX694 	BM	754 DPL	Raynham DPW 	Public Works 	FM 	Public Works 
+452.80000 	457.80000  	WRCQ817 	RM	CC 4TG 1SL 1	Raynham DPW 	Public Works 	DMR 	Public Works 
+452.52500 	457.52500  	WRBQ632 	RM	CC 10TG 2100SL 1	RaynhamMS 	Middle School Ops 	DMR 	Schools 
+460.03750 	463.03750  	WQKN317 	RM	203.5 PL	Rehoboth PD 	Police Operations  	FMN 	Law Dispatch 
+470.45000 	473.45000  	KAZ443 	RM	77.0 PL	Rehoboth FD 	Fire Operations  	FM 	Fire Dispatch 
+154.10000 	155.67000  	KAZ443 	RM	100.0 PL	Rehoboth DPW 	Public Works 	FMN 	Public Works 
+470.81250 	473.81250  	WQDD844 	RM	351 DPL	Seekonk PD 	Police Operations  	FM 	Law Dispatch 
+483.45000 	486.45000  	WPVZ522 	RM	125 DPL	Seekonk FD 	Fire Operations  	FM 	Fire Dispatch 
+155.94000 	159.25500  	KDS668 	RM	85.4 PL	Seekonk DPW 	Public Works 	FMN 	Public Works 
+482.85000 	485.85000  	WQCE245 	RM	203.5 PL	Somerset PD 	Police Operations  	FM 	Law Dispatch 
+482.76250 	   	KZM465 	M	203.5 PL	Somerset PD2 	Details/ Events 	FM 	Law Talk 
+483.00000 	486.00000  	WQCE245 	RM	203.5 PL	Somerset FD 	Fire Operations  	FM 	Fire Dispatch 
+453.10000 	458.10000  	WPDA669 	RM		Somerset FD2 	Fire Secondary 	FMN 	Fire-Tac 
+155.71500 	153.75500  	KNJN710 	RM	114.8 PL	Somerset EMA 	Emergency Management Agency 	FMN 	Emergency Ops 
+155.95500 	153.86000  	KNJN710 	RM		Somerset EMA 	Emergency Management Agency CH2 	P25 	Emergency Ops 
+154.08500 	156.13500  	KNJN710 	RM	210.7 PL	Somerset EMA 	Emergency Management Agency - Area 2 Tie-In 	FMN 	Emergency Ops 
+45.24000 	   	WPVQ732 	BM		Somerset COA 	Council on Aging - Minibuses 	FM 	Transportation 
+483.75000 	486.75000  	WQCE245 	RM	203.5 PL	Somerset SVC 	Services (highway, sewer, water, parks) 	FM 	Public Works 
+453.50000 	458.50000  	WQVH865 	RM	293 NAC	Swansea PD 	Police Operations 	P25 	Law Dispatch 
+470.53750 	473.53750  	WPTT552 	RM	315 DPL	Swansea FD 	Fire Operations  	FM 	Fire Dispatch 
+460.58750 	   	 	BM	315 DPL	Swans FD TAC 	Fire Tactical 	FMN 	Fire-Tac 
+484.92500 	487.92500  	 	RM	167.9 PL	Swansea EMA 	Emergency Management and Fire Secondary 	FM 	Emergency Ops 
+483.88750 	486.88750  	 	RM	103.5 PL	Swansea DPW 	Public Works 	FMN 	Public Works 
+154.02500 	   	 	BM	127.3 PL	Swansea WTR 	Water Department 	FMN 	Public Works 
+483.06250 	486.06250  	WBN840 	RM	203.5 PL	Taunton PD 	Police Operations  	FM 	Law Dispatch 
+482.63750 	485.63750  	WPTR302 	RM	203.5 PL	Taunton PD2 	Police Secondary 	FM 	Law Tac 
+453.70000 	458.70000  	WPKI645 	RM	218.1 PL	Taunton FD 	Fire Operations 	FMN 	Fire Dispatch 
+483.30000 	486.30000  	WQCE661 	RM	411 DPL	Taunton FD2 	Fire Secondary 	FMN 	Fire-Tac 
+158.13000 	   	KCA983 	BM	162.2 PL	TMLP Crews 	Taunton Municipal Lighting Plant - Crews 	FMN 	Utilities 
+158.19000 	   	KCA983 	BM	162.2 PL	TMLP Const 	Taunton Municipal Lighting Plant - Construction 	FMN 	Utilities 
+462.07500 	467.07500  	WQNA324 	RM	103.5 PL	Taunton HS 	Taunton High School Operations 	FMN 	Schools 
+452.21250 	457.21250  	WQNA324 	RM	CC 6TG 8SL 1	ParkerMS Ops 	Parker Middle School - Operations 	DMR 	Schools 
+452.21250 	456.21250  	WQNA324 	RM	CC 6TG 9SL 2	ParkerMS Fac 	Parker Middle School - Facilities/Maintenance 	DMR 	Schools 
+451.38750 	   	WQNA324 	BM	CC 7TG 18SL 1	ChamberldSchool 	Joseph Chamberlain School 	DMR 	Schools 
+452.41250 	   	WQNA324 	BM	CC 7TG 30SL 1	MulcaheySchool 	James L Mulcahey School 	DMR 	Schools 
+456.43750 	   	WQNA324 	BM	CC 7TG 42SL 1	GalliganSchool 	Harold Galligan School 	DMR 	Schools 
+152.31500 	157.57500  	KNFH320 	RM	179.9 PL	BPRHS-Sec 1 	Bristol Plymouth Reg. H.S. - Security 	FMN 	Schools 
+159.33750 	151.46000  	WQUQ959 	RM	179.9 PL	BPRHS-Maint3 	Bristol Plymouth Reg. H.S. - Maintenance 	FMN 	Schools 
+464.01250 	   	WPXC922 	RM	205 DPL	Mtn Hos SC1 	Morton Hospital Security Ops 1 	FMN 	Security 
+464.41250 	   	WPXC922 	RM	205 DPL	Mtn Hos SC2 	Morton Hospital Security Ops 2 	FMN 	Security 
+451.92500 	   	WQKX994 	RM	205 DPL	Morton Maint 	Morton Hospital Maintenance 	FMN 	Business 
+471.40000 	474.40000  	WPXC762 	RM	71.9 PL	Westport PD 	Police Operations  	FM 	Law Dispatch 
+460.55000 	465.50000  	WPTH774 	RM	94.8 PL	Westport FD 	Fire Operations  	FMN 	Fire Dispatch 
+460.22500 	465.22500  	WQLQ255 	RM	431 DPL	Westport DPW 	Public Works 	FMN 	Public Works 
+464.01250 	   	WQKB749 	BM	103.5 PL	BristolCC PD 	Campus Police 	FMN 	Law Dispatch 
+463.52500 	468.52500  	WPTS382 	RM	411 DPL	Stonehill PD 	Campus Police 	FMN 	Security 
+464.37500 	469.37500  	WPTS382 	RM	203.5 PL	Stonehill Mt 	Maintenance 	FMN 	Schools 
+462.12500 	467.12500  	WPTS382 	RM	88.5 PL	Res Life Ops 	Residence Life Operations 	FM 	Schools 
+453.35000 	458.35000  	WPJK702 	RM	143 DPL	UMD - Police 	Campus Police 	FMN 	Law Dispatch 
+451.70000 	456.70000  	WPLY647 	RM	141.3 PL	UMD - Maint 	Maintenance 	FMN 	Schools 
+464.82500 	469.82500  	WQBI219 	RM	754 DPL	Wheaton PD 	Security 	FMN 	Security 
+461.38750 	466.38750  	WQBI219 	RM	754 DPL	Wheaton Mnt 	Maintenance 	FMN 	Schools 
+Bristol County	 Motorola Type II Smartnet	 Taunton	Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)	 Regional	Massachusetts State Police	 Motorola Type II SmartZone	 Statewide
+New Bedford Municipal	 DMR Motorola Capacity Plus Single Site (TRBO)	 New Bedford	RDC Communications - Network 178	 NXDN NEXEDGE 4800	 Various	Stop and Shop Distribution Warehouse	 DMR Motorola Capacity Plus Single Site (TRBO)	 Assonet (Freetown)

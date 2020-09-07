@@ -1,33 +1,33 @@
-154.84500 	KNAP205 	BM	023 DPL	Ray Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
-159.25500 	WPMQ390 	RM	152 DPL	Ray Shrf/Lwsn  	Sheriff: Dispatch/Lawson Police 	FMN 	Law Dispatch 
-155.58000 	KNAP205 	BM	CSQ	Ray Co SO-3 	Sheriff/County Ops [SO-3] 	FMN 	Multi-Talk 
-154.23500 	WPMI656 	RM	152 DPL	Ray Co Fire 	Fire: Dispatch -- Orrick, Richmond, Lawson 	FMN 	Fire Dispatch 
-156.19500 	KNHX440 	RM	132 DPL	Ray Rds/Brdg 	Roads / Public Works  	FMN 	Public Works 
-154.45625 	WGZ733 	F		RayCo WDD 	Ray County: Water Distribution Data  	Telm 	Data 
-152.34500 	WPOY841 	RM		RayCo Transp 	Ray County Transportation  	FMN 	Transportation 
-155.15250 	WQEG486 	RM	423 DPL	Ray EMS 1 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.23500 	WQEG486 	BM		Ray EMS 2 	EMS: Tac 	FMN 	Fire-Talk 
-159.21000 	WQCA484 	RM		Hrdn Police 	Police: Dispatch 	FMN 	Law Dispatch 
-154.25000 	WQOS814 	BM		Hardin Fire 	Fire  	FMN 	Fire Dispatch 
-153.75500 	WPLW443 	M		Henrietta LG 	City Activities 	FMN 	Multi-Talk 
-155.10000 	WZM962 	BM		LawsonLocGov 	Local Government   	FMN 	Multi-Talk 
-154.10000 	WZM962 	RM	271 DPL	Lawson Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-153.98000 	WZM962 	M		Lawson FG 	Fireground 	FMN 	Fire-Talk 
-173.33750 	WGH303 	F		Lawson WDD 	Water Distribtion Data 	Telm 	Data 
-155.58000 	KNFG787 	BM	179.9 PL	RchmndPolice 	Police: Dispatch 	FMN 	Law Dispatch 
-155.82000 	WSL600 	BM		Fire Ops 	Fire 	FMN 	Fire-Talk 
-155.10000 	KNFJ263 	BM		Rchmnd Local 	City Ops / Police 	FMN 	Multi-Talk 
-158.81250 	WPRI705 	RM	023 DPL	Stet RurFire 	Fire  Dispatch 	FMN 	Fire Dispatch 
-155.64000 	WPRI705 	BM		Fire Tac 	Fire 	FMN 	Fire-Talk 
-154.35500 	WQFG898 	RM	103.5 PL	WoodHts Fire 	Fire: Dispatch (131.8 in) 	FMN 	Fire Dispatch 
-154.23500 	WQFG898 	BM	251 DPL	WH Fire Tac1 	Fire: Tac 1 	FMN 	Fire-Tac 
-154.17500 	WQFG898 	BM	251 DPL	WH Fire Tac2 	Fire: Tac 2 	FMN 	Fire-Tac 
-153.42500 	WQCD665 	RM		CPWSD#2 Ops 	Consolidated Public Water Supply District #2: Operations (Rayville) 	FMN 	Public Works 
-173.20375 	WNQJ909 	F		CPWSD#2 WDD1 	Consolidated Public Water Supply District #2: Data 	Telm 	Data 
-173.20375 	WPRM264 	F		CPWSD#2 WDD2 	Consolidated Public Water Supply District #2: Data  	Telm 	Data 
-173.20375 	WAT561 	F		CPWSD#2 WDD3 	Consolidated Public Water Supply District #2: Data 	Telm 	Data 
-173.23750 	WGE755 	F		CPWSD#2 WDD4 	Consolidated Public Water Supply District #3: Data  	Telm 	Data 
-153.23000 	WQHI842 	BM		Durham Bus 	Durham Bus Servcies (Lawson)  	FMN 	Schools 
-155.29500 	WQS834 	BM		Fowler Bus 	Fowler Bus Company: School Buses 	FMN 	Schools 
-462.20000 	WQFV813 	M		ElkhnElemSch 	Elkhorn Elementary School (Excelsior Springs) 	FMN 	Schools 
+154.84500 	   	KNAP205 	BM	023 DPL	Ray Sheriff 	Sheriff: Dispatch 	FMN 	Law Dispatch 
+159.25500 	153.92000  	WPMQ390 	RM	152 DPL	Ray Shrf/Lwsn  	Sheriff: Dispatch/Lawson Police 	FMN 	Law Dispatch 
+155.58000 	   	KNAP205 	BM	CSQ	Ray Co SO-3 	Sheriff/County Ops [SO-3] 	FMN 	Multi-Talk 
+154.23500 	150.80500  	WPMI656 	RM	152 DPL	Ray Co Fire 	Fire: Dispatch -- Orrick, Richmond, Lawson 	FMN 	Fire Dispatch 
+156.19500 	159.06000  	KNHX440 	RM	132 DPL	Ray Rds/Brdg 	Roads / Public Works  	FMN 	Public Works 
+154.45625 	   	WGZ733 	F		RayCo WDD 	Ray County: Water Distribution Data  	Telm 	Data 
+152.34500 	157.60500  	WPOY841 	RM		RayCo Transp 	Ray County Transportation  	FMN 	Transportation 
+155.15250 	159.33000  	WQEG486 	RM	423 DPL	Ray EMS 1 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.23500 	   	WQEG486 	BM		Ray EMS 2 	EMS: Tac 	FMN 	Fire-Talk 
+159.21000 	155.66250  	WQCA484 	RM		Hrdn Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.25000 	   	WQOS814 	BM		Hardin Fire 	Fire  	FMN 	Fire Dispatch 
+153.75500 	   	WPLW443 	M		Henrietta LG 	City Activities 	FMN 	Multi-Talk 
+155.10000 	   	WZM962 	BM		LawsonLocGov 	Local Government   	FMN 	Multi-Talk 
+154.10000 	158.91000  	WZM962 	RM	271 DPL	Lawson Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+153.98000 	   	WZM962 	M		Lawson FG 	Fireground 	FMN 	Fire-Talk 
+173.33750 	   	WGH303 	F		Lawson WDD 	Water Distribtion Data 	Telm 	Data 
+155.58000 	   	KNFG787 	BM	179.9 PL	RchmndPolice 	Police: Dispatch 	FMN 	Law Dispatch 
+155.82000 	   	WSL600 	BM		Fire Ops 	Fire 	FMN 	Fire-Talk 
+155.10000 	   	KNFJ263 	BM		Rchmnd Local 	City Ops / Police 	FMN 	Multi-Talk 
+158.81250 	153.79250  	WPRI705 	RM	023 DPL	Stet RurFire 	Fire  Dispatch 	FMN 	Fire Dispatch 
+155.64000 	   	WPRI705 	BM		Fire Tac 	Fire 	FMN 	Fire-Talk 
+154.35500 	159.37500  	WQFG898 	RM	103.5 PL	WoodHts Fire 	Fire: Dispatch (131.8 in) 	FMN 	Fire Dispatch 
+154.23500 	   	WQFG898 	BM	251 DPL	WH Fire Tac1 	Fire: Tac 1 	FMN 	Fire-Tac 
+154.17500 	   	WQFG898 	BM	251 DPL	WH Fire Tac2 	Fire: Tac 2 	FMN 	Fire-Tac 
+153.42500 	158.23500  	WQCD665 	RM		CPWSD#2 Ops 	Consolidated Public Water Supply District #2: Operations (Rayville) 	FMN 	Public Works 
+173.20375 	   	WNQJ909 	F		CPWSD#2 WDD1 	Consolidated Public Water Supply District #2: Data 	Telm 	Data 
+173.20375 	   	WPRM264 	F		CPWSD#2 WDD2 	Consolidated Public Water Supply District #2: Data  	Telm 	Data 
+173.20375 	   	WAT561 	F		CPWSD#2 WDD3 	Consolidated Public Water Supply District #2: Data 	Telm 	Data 
+173.23750 	   	WGE755 	F		CPWSD#2 WDD4 	Consolidated Public Water Supply District #3: Data  	Telm 	Data 
+153.23000 	   	WQHI842 	BM		Durham Bus 	Durham Bus Servcies (Lawson)  	FMN 	Schools 
+155.29500 	   	WQS834 	BM		Fowler Bus 	Fowler Bus Company: School Buses 	FMN 	Schools 
+462.20000 	   	WQFV813 	M		ElkhnElemSch 	Elkhorn Elementary School (Excelsior Springs) 	FMN 	Schools 
 Midwest Mobile Radio Service - UHF 2 (Northern MO)	 LTR Passport	 Trenton	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	

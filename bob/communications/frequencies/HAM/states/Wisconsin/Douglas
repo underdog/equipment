@@ -1,30 +1,29 @@
-154.37000 	WRB471 	RM	77.0 PL	DGFIR 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.38500 	WRB471 	M	77.0 PL	DGTAC1 	Fireground 	FMN 	Fire-Tac 
-155.34000 	KNBT423 	BM	151.4 PL	Sup Hosp B 	EMS to Superior Hospital 	FMN 	Hospital 
-151.01750 	KVH232 	RM		DGSODAI 	Sheriff - Dairyland 	FMN 	Law Dispatch 
-151.01750 	KVH232 	RM	160 NAC	DGSODAI 	Sheriff - Dairyland 	P25e 	Law Dispatch 
-155.25000 	KVH232 	RM	151.4 PL	DGSOCHA 	Sheriff - Chaffey 	FMN 	Law Dispatch 
-155.49000 	KVH232 	RM	151.4 PL	DGSOGOR 	Sheriff - Gordon 	FMN 	Law Dispatch 
-155.49000 	KVH232 	RM	160 NAC	DGLAWGOR 	Sheriff - Gordon 	P25e 	Law Dispatch 
-155.92500 	KVH232 	RM	151.4 PL	DGSOSUP 	Sheriff - Superior  	FMN 	Law Dispatch 
-155.92500 	KVH232 	RM	160 NAC	DGSOSUP 	Sheriff - Superior 	P25e 	Law Dispatch 
-158.73000 	KVH232 	RM	151.4 PL	DGSOMAP 	Sheriff - Maple 	FMN 	Law Dispatch 
-158.73000 	KVH232 	RM	160 NAC	DGLAWMAP 	Sheriff - Maple 	P25e 	Law Dispatch 
-159.21000 	KVH232 	RM	151.4 PL	DGSOPAT 	Sheriff - Patzau 	FMN 	Law Dispatch 
-155.58000 	WQEQ255 	RM	71.9 PL	DGLG 	Local Government 	FMN 	Emergency Ops 
-453.37500 	WQEQ255 	RM		DGEM 	Emergency Management 	FMN 	Emergency Ops 
-460.57500 	WQEQ255 	M		DGEM 	Emergency Management 	FMN 	Emergency Ops 
-460.62500 	WQEQ255 	M		DGEM 	Emergency Management 	FMN 	Emergency Ops 
-158.77500 	KKD285 	RM	127.3 PL	DGHWY 	Highways 	FMN 	Public Works 
-154.04000 	 	BM		Town DPW 	Town DPW 	FMN 	Public Works 
-155.68500 	KVF525 	RM	151.4 PL	Superior PD 	Police Dispatch 	FMN 	Law Dispatch 
-154.11500 	KVF525 	RM	664 DPL	Superior PD 	Police Portable Repeater 	FMN 	Law Talk 
-154.34000 	KNBJ865 	RM	151.4 PL	Superior FD 	Fire 1 Dispatch 	FMN 	Fire Dispatch 
-151.10000 	KNBJ865 	RM	127.3 PL	Superior FD 	Fire Tac 	FMN 	Fire-Tac 
-154.19000 	KNBJ865 	BM	151.4 PL	Superior FG 	Fire 3 Fireground 	FMN 	Fire-Tac 
-453.05000 	WXB856 	RM	CC 13TG *SL *	Superior DPW 	Public Works 	DMR 	Public Works 
-154.08500 	KLY214 	RM	411 DPL	UWS Ops 	Operations 	FM 	Schools 
-155.19750 	KLY214 	RM	411 DPL	UWS Ops 	Maintenance 	FMN 	Schools 
-ALLETE Minnesota Power	 MPT-1327 Standard	 	Dairyland Power Cooperative	 DMR Tier 3	 Various	Duluth Superior Communications Connect Plus	 DMR Motorola Connect Plus (TRBO)
- Duluth	Great River Energy	 Project 25 Phase I	 	SMDC Health Systems	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Duluth, MN	Wisconsin Interoperable System for Communications (WISCOM)
- Project 25 Phase I	 Statewide	
+154.37000 	153.89000  	WRB471 	RM	77.0 PL	DGFIR 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.38500 	   	WRB471 	M	77.0 PL	DGTAC1 	Fireground 	FMN 	Fire-Tac 
+155.34000 	   	KNBT423 	BM	151.4 PL	Sup Hosp B 	EMS to Superior Hospital 	FMN 	Hospital 
+151.01750 	154.83000  	KVH232 	RM		DGSODAI 	Sheriff - Dairyland 	FMN 	Law Dispatch 
+151.01750 	154.83000  	KVH232 	RM	160 NAC	DGSODAI 	Sheriff - Dairyland 	P25e 	Law Dispatch 
+155.25000 	154.83000  	KVH232 	RM	151.4 PL	DGSOCHA 	Sheriff - Chaffey 	FMN 	Law Dispatch 
+155.49000 	154.83000  	KVH232 	RM	151.4 PL	DGSOGOR 	Sheriff - Gordon 	FMN 	Law Dispatch 
+155.49000 	154.83000  	KVH232 	RM	160 NAC	DGLAWGOR 	Sheriff - Gordon 	P25e 	Law Dispatch 
+155.92500 	154.83000  	KVH232 	RM	151.4 PL	DGSOSUP 	Sheriff - Superior  	FMN 	Law Dispatch 
+155.92500 	154.83000  	KVH232 	RM	160 NAC	DGSOSUP 	Sheriff - Superior 	P25e 	Law Dispatch 
+158.73000 	154.83000  	KVH232 	RM	151.4 PL	DGSOMAP 	Sheriff - Maple 	FMN 	Law Dispatch 
+158.73000 	154.83000  	KVH232 	RM	160 NAC	DGLAWMAP 	Sheriff - Maple 	P25e 	Law Dispatch 
+159.21000 	154.83000  	KVH232 	RM	151.4 PL	DGSOPAT 	Sheriff - Patzau 	FMN 	Law Dispatch 
+155.58000 	158.98500  	WQEQ255 	RM	71.9 PL	DGLG 	Local Government 	FMN 	Emergency Ops 
+453.37500 	458.37500  	WQEQ255 	RM		DGEM 	Emergency Management 	FMN 	Emergency Ops 
+460.57500 	   	WQEQ255 	M		DGEM 	Emergency Management 	FMN 	Emergency Ops 
+460.62500 	   	WQEQ255 	M		DGEM 	Emergency Management 	FMN 	Emergency Ops 
+158.77500 	153.78500  	KKD285 	RM	127.3 PL	DGHWY 	Highways 	FMN 	Public Works 
+154.04000 	   	 	BM		Town DPW 	Town DPW 	FMN 	Public Works 
+155.68500 	158.86500  	KVF525 	RM	151.4 PL	Superior PD 	Police Dispatch 	FMN 	Law Dispatch 
+154.11500 	158.84250  	KVF525 	RM	664 DPL	Superior PD 	Police Portable Repeater 	FMN 	Law Talk 
+154.34000 	155.98500  	KNBJ865 	RM	151.4 PL	Superior FD 	Fire 1 Dispatch 	FMN 	Fire Dispatch 
+151.10000 	156.06000  	KNBJ865 	RM	127.3 PL	Superior FD 	Fire Tac 	FMN 	Fire-Tac 
+154.19000 	   	KNBJ865 	BM	151.4 PL	Superior FG 	Fire 3 Fireground 	FMN 	Fire-Tac 
+453.05000 	458.05000  	WXB856 	RM	CC 13TG *SL *	Superior DPW 	Public Works 	DMR 	Public Works 
+154.08500 	156.01500  	KLY214 	RM	411 DPL	UWS Ops 	Operations 	FM 	Schools 
+155.19750 	158.79000  	KLY214 	RM	411 DPL	UWS Ops 	Maintenance 	FMN 	Schools 
+ALLETE Minnesota Power	 MPT-1327 Standard	 	Dairyland Power Cooperative	 DMR Tier 3	 Various	Duluth Superior Communications Connect Plus	 DMR Motorola Connect Plus (TRBO)	 Duluth
+Great River Energy	 Project 25 Phase I	 	SMDC Health Systems	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Duluth, MN	

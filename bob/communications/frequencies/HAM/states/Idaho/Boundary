@@ -1,33 +1,33 @@
-151.05500 	WPAF990 	RM	77.0 PL	Boun SODspRed 	Sheriff Dispatch Red 	FMN 	Law Dispatch 
-453.76250 	WDQ347 	RM		Boun SODspBlk 	Sheriff Dispatch Black 	FMN 	Law Dispatch 
-460.35000 	WDQ347 	RM		Boun SO Dsp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.16000 	WNSQ755 	M		Boun SO Talk 	Sheriff Talk 	FMN 	Law Talk 
-155.09250 	WQDH983 	RM	88.5 PL	Boun Fire/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-156.19500 	WQKF922 	RM		Boun Amb Tac1 	Ambulance Tac 1 	FMN 	EMS-Tac 
-152.36750 	WQLI933 	RM	71.9 PL	Boun Amb Tac2 	Ambulance Tac 2 	FMN 	EMS-Tac 
-159.19500 	WQKF922 	M		Boun Amb Car1 	Ambulance Car 1 	FMN 	EMS-Talk 
-152.36750 	WQLI933 	M		Boun Amb Car2 	Ambulance Car 2 	FMN 	EMS-Talk 
-155.20500 	WNSQ755 	BM		SAR Mob Base 	SAR Mobile Base 	FMN 	Emergency Ops 
-155.61000 	KNNV318 	M		BoundaryDump 	Landfill/Recycling Center 	FMN 	Public Works 
-155.82000 	KXC750 	BM		BoundaryRoad 	Road/Bridge 	FMN 	Public Works 
-154.41500 	WQAI277 	RM		CurlCrkFD Dsp 	Dispatch 	FMN 	Fire Dispatch 
-153.89000 	KD24190 	M		CurlCrkFD Tac 	Tactical 	FMN 	Fire-Tac 
-154.43000 	WNSN991 	BM	100.0 PL	Hall Mntn Dsp 	Dispatch 	FMN 	Fire Dispatch 
-154.43000 	WNSN991 	M	100.0 PL	Mall Mtn Car 	Car-Car 	FMN 	Fire-Talk 
-153.83000 	WNSN991 	BM	100.0 PL	Hall Mtn Tac 	Tactical/Command 	FMN 	Fire-Tac 
-154.35500 	 	BM		Moyie V FD 	Fire 	FMN 	Fire Dispatch 
-154.38500 	KNCX354 	RM	127.3 PL	N Bench FD Dsp 	Dispatch 	FMN 	Fire Dispatch 
-154.38500 	KNCX354 	M		N Bench FD Car 	Car-Car 	FMN 	Fire-Talk 
-154.14500 	KNCX354 	M	CSQ	N Bench FD Tac 	Tactical 	FMN 	Fire-Tac 
-155.05500 	WQNA818 	RM	103.5 PL	PVFD Disp 	Dispatch 	FMN 	Fire Dispatch 
-155.05500 	WQNA818 	M	103.5 PL	PVFD Car 	Car-car 	FMN 	Fire-Talk 
-153.95750 	WPXV825 	RM		So Boun FD Dsp 	Dispatch 	FMN 	Fire Dispatch 
-153.95750 	WPXV825 	M	94.8 PL	So Boun FD Car 	Car-Car 	FMN 	Fire-Talk 
-154.10000 	KAS614 	RM	127.3 PL	BF City Dsp 	City Dsp 	FMN 	Multi-Dispatch 
-154.19000 	 	M	179.9 PL	BF Fire Tac 	Fire Tactical 	FMN 	Fire-Tac 
-155.28000 	KVA401 	BM		EMS TonOuts 	EMS - Dispatch [Tone Outs] 	FMN 	EMS Dispatch 
-156.19500 	WQKF922 	RM		EMS Dsp 	EMS - Dispatch 	FMN 	EMS Dispatch 
-457.12500 	WPML747 	M		BndryHospSec 	Security/Maintenance 	FMN 	Security 
-462.93750 	KVA401 	M		BndryCoEMSMo 	EMS - Mobile Extenders 	FMN 	EMS-Talk 
-453.12500 	WPPU870 	RM	71.9 PL	D101 Transp 	Transportation 	FMN 	Schools 
-Avista Utilities	 MPT-1327 Standard	 Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	
+151.05500 	156.07500  	WPAF990 	RM	77.0 PL	Boun SODspRed 	Sheriff Dispatch Red 	FMN 	Law Dispatch 
+453.76250 	458.76250  	WDQ347 	RM		Boun SODspBlk 	Sheriff Dispatch Black 	FMN 	Law Dispatch 
+460.35000 	465.35000  	WDQ347 	RM		Boun SO Dsp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.16000 	   	WNSQ755 	M		Boun SO Talk 	Sheriff Talk 	FMN 	Law Talk 
+155.09250 	158.90250  	WQDH983 	RM	88.5 PL	Boun Fire/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+156.19500 	159.09000  	WQKF922 	RM		Boun Amb Tac1 	Ambulance Tac 1 	FMN 	EMS-Tac 
+152.36750 	157.62750  	WQLI933 	RM	71.9 PL	Boun Amb Tac2 	Ambulance Tac 2 	FMN 	EMS-Tac 
+159.19500 	   	WQKF922 	M		Boun Amb Car1 	Ambulance Car 1 	FMN 	EMS-Talk 
+152.36750 	   	WQLI933 	M		Boun Amb Car2 	Ambulance Car 2 	FMN 	EMS-Talk 
+155.20500 	   	WNSQ755 	BM		SAR Mob Base 	SAR Mobile Base 	FMN 	Emergency Ops 
+155.61000 	   	KNNV318 	M		BoundaryDump 	Landfill/Recycling Center 	FMN 	Public Works 
+155.82000 	   	KXC750 	BM		BoundaryRoad 	Road/Bridge 	FMN 	Public Works 
+154.41500 	158.92500  	WQAI277 	RM		CurlCrkFD Dsp 	Dispatch 	FMN 	Fire Dispatch 
+153.89000 	   	KD24190 	M		CurlCrkFD Tac 	Tactical 	FMN 	Fire-Tac 
+154.43000 	   	WNSN991 	BM	100.0 PL	Hall Mntn Dsp 	Dispatch 	FMN 	Fire Dispatch 
+154.43000 	   	WNSN991 	M	100.0 PL	Mall Mtn Car 	Car-Car 	FMN 	Fire-Talk 
+153.83000 	   	WNSN991 	BM	100.0 PL	Hall Mtn Tac 	Tactical/Command 	FMN 	Fire-Tac 
+154.35500 	   	 	BM		Moyie V FD 	Fire 	FMN 	Fire Dispatch 
+154.38500 	159.00000  	KNCX354 	RM	127.3 PL	N Bench FD Dsp 	Dispatch 	FMN 	Fire Dispatch 
+154.38500 	   	KNCX354 	M		N Bench FD Car 	Car-Car 	FMN 	Fire-Talk 
+154.14500 	   	KNCX354 	M	CSQ	N Bench FD Tac 	Tactical 	FMN 	Fire-Tac 
+155.05500 	155.80500  	WQNA818 	RM	103.5 PL	PVFD Disp 	Dispatch 	FMN 	Fire Dispatch 
+155.05500 	   	WQNA818 	M	103.5 PL	PVFD Car 	Car-car 	FMN 	Fire-Talk 
+153.95750 	150.78250  	WPXV825 	RM		So Boun FD Dsp 	Dispatch 	FMN 	Fire Dispatch 
+153.95750 	   	WPXV825 	M	94.8 PL	So Boun FD Car 	Car-Car 	FMN 	Fire-Talk 
+154.10000 	155.02500  	KAS614 	RM	127.3 PL	BF City Dsp 	City Dsp 	FMN 	Multi-Dispatch 
+154.19000 	   	 	M	179.9 PL	BF Fire Tac 	Fire Tactical 	FMN 	Fire-Tac 
+155.28000 	   	KVA401 	BM		EMS TonOuts 	EMS - Dispatch [Tone Outs] 	FMN 	EMS Dispatch 
+156.19500 	159.09000  	WQKF922 	RM		EMS Dsp 	EMS - Dispatch 	FMN 	EMS Dispatch 
+457.12500 	   	WPML747 	M		BndryHospSec 	Security/Maintenance 	FMN 	Security 
+462.93750 	467.93750  	KVA401 	M		BndryCoEMSMo 	EMS - Mobile Extenders 	FMN 	EMS-Talk 
+453.12500 	458.12500  	WPPU870 	RM	71.9 PL	D101 Transp 	Transportation 	FMN 	Schools 
+Avista Utilities	 MPT-1327 Standard	 Various	Idaho Cooperative Agencies Wireless Interoperable Network (ICAWIN)	 Project 25 Phase I	 Statewide	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various

@@ -1,90 +1,90 @@
-460.02500 	WQGI409 	RM		SevierSO-D 	Sheriff Digital Operations 	NXDN 	Law Dispatch 
-464.55000 	 		411 DPL	SevierCOURT 	Court Security 	FMN 	Law Tac 
-462.95000 	KNCZ203 	RM	127.3 PL	SC-EMS-DISP 	EMS 	FMN 	EMS Dispatch 
-463.02500 	KNCZ203 	BM	82.5 PL	SCEMS-M2 	EMS Med 2 	FMN 	EMS-Talk 
-155.34000 	KXH285 	BM	100.0 PL	SERN 	EMS HEAR Net 	FMN 	Hospital 
-463.00000 	KNCZ203 	RM	127.3 PL	SCEMS-FSSH 	EMS to Fort Sanders Sevier Medical Center 	FMN 	Hospital 
-155.20500 	KXH285 	BM	100.0 PL	SC-MEDCOM 	MedComm 	FMN 	Hospital 
-155.28000 	KNCP274 	BM	173.8 PL	HOSPNET 	Hospital to Hospital Net 	FMN 	Hospital 
-453.65000 	WNPZ631 	RM	94.8 PL	SC-RESCUE 	Rescue Squad 	FMN 	EMS Dispatch 
-451.85000 	WNAK540 	RM	346 DPL	SC-RESCUE 	Rescue Squad 	FMN 	EMS Dispatch 
-155.69250 	WPWX466 	RM	127.3 PL	SCEMA 	Emergency Management 	FMN 	Emergency Ops 
-453.87500 	WPWX466 	RM	073 DPL	SCEMA 	Emergency Management 	FMN 	Emergency Ops 
-453.51250 	 	RM	141.3 PL	CCVFD1 	Catons Chapel VFD 	FMN 	Fire Dispatch 
-460.62500 	WQRD897 	RM	203.5 PL	SCFIRE 	County Fire Bluff Mtn Repeater 	FMN 	Fire Dispatch 
-155.29500 	WNNC292 	BM	229.1 PL	UTMC MCI NET 	University of Tennessee Medical Center - Mass Causality Net 	FMN 	Emergency Ops 
-156.19500 	KNIM464 	RM	94.8 PL	SC-HIGHWAY 	Highway Department 	FMN 	Public Works 
-451.20000 	WYQ273 	RM	100.0 PL	SC ELECTRIC 	Electric System (May be using DMR now) 	FMN 	Utilities 
-451.07500 	WYQ273 	M	100.0 PL	SC ELECTRIC 	Electric System (May be using DMR now) 	FMN 	Utilities 
-153.51500 	WQEK371 	RM	203.5 PL	SCUDBluffMtn 	Sevier County Utility District (SCUD) - Bluff Mountain 	FMN 	Public Works 
-153.51500 	WQEK371 	RM	136.5 PL	SCUDGatlinbg 	Sevier County Utility District (SCUD) - Gatlinburg 	FMN 	Public Works 
-453.77500 	 	M	179.9 PL	SCFTAC-1 	Tac 1 Sevierville Fire Dept. 	FMN 	Fire-Tac 
-464.17500 	 	M	100.0 PL	SCFTAC-2 	Tac 2 Pigeon Forge Fire Dept. 	FMN 	Fire-Tac 
-451.45000 	 	M	100.0 PL	SCFTAC-3 	Tac 3 Gatlinburg Fire Dept. 	FMN 	Fire-Tac 
-464.65000 	 	M	100.0 PL	SCFTAC-4 	Tac 4 Northview Fire Dept. 	FMN 	Fire-Tac 
-452.10000 	 	M	100.0 PL	SCFTAC-5 	Tac 5 Catons Chapel Fire Dept. 	FMN 	Fire-Tac 
-452.22500 	 	M	100.0 PL	SCFTAC-6 	Tac 6 Waldens Creek Fire Dept. 	FMN 	Fire-Tac 
-464.40000 	 	M	100.0 PL	SCFTAC-7 	Tac 7 Seymour Fire Dept. 	FMN 	Fire-Tac 
-462.22500 	 	M	100.0 PL	SCFTAC-8 	Tac 8 Wears Valley Fire Dept. 	FMN 	Fire-Tac 
-463.25000 	 	M	100.0 PL	SCFTAC-9 	Tac 9 English Mtn Fire Dept. 	FMN 	Fire-Tac 
-464.97500 	 	M	100.0 PL	SCFTAC-10 	Tac10 Sevier Co. Fire Dept. 	FMN 	Fire-Tac 
-456.38750 	 	M	100.0 PL	SCFTAC-11 	Tac 11 Pitman Center Fire 	FMN 	Fire-Tac 
-456.41250 	WQGC558 	M	100.0 PL	SCFTAC-12 	Tac 12 Sevier Co Rescue Squad 	FMN 	Fire-Tac 
-451.40000 	KXH285 	RM	136.5 PL	SC-PAGE 	Page Channel 	FMN 	Fire Dispatch 
-451.85000 	WNAK540 	RM	371 DPL	SC-RESCUE 	County Rescue Squad Backup 	FMN 	EMS-Tac 
-453.41250 	WQRD897 	RM	346 DPL	CCRC VFD TAC 	Catons Chapel - Richardson Cove Volunteer Fire Department - Backup 	FMN 	Fire-Tac 
-453.51250 	WPWE399 	RM	173.8 PL	CCRC-VFD DISP 	Catons Chapel-Richardson Cove Fire Department 	FMN 	Fire Dispatch 
-453.12500 	WPGW693 	RM	100.0 PL	EMGLISH MTN VFD 	English Mountain Volunteer Fire Department 	FMN 	Fire-Tac 
-453.41250 	WQRD897 	RM	516 DPL	NVIEW KODAK BU 	Northview - Kodak Volunteer Fire Department - Backup 	FMN 	Fire-Tac 
-154.44500 	KNFA325 	RM	073 DPL	NVIEW KODAK VFD 	Northview-Kodak Volunteer Fire Department 	FMN 	Fire-Tac 
-453.73750 	WNXN454 	RM	136.5 PL	PITMANN CTR VFD 	Pitman Center VFD 	FMN 	Fire Dispatch 
-460.57500 	WNXN454 	RM	167.9 PL	PITTMAN CTR FIRE 	Pittman Center Fire Department 	FMN 	Fire Dispatch 
-460.62500 	WQRD897 	RM	127.3 PL	SCVFD RIDGECREST 	Sevier County VFD Ridgecrest Repeater 	FMN 	Fire-Tac 
-453.41250 	WQRD897 	F	115 DPL	SCVFD OPS 	Sevier County Volunteer Fire Department 	FMN 	Fire-Tac 
-453.41250 	WQRD897 	RM	732 DPL	SCVFD EXPLORERS 	Sevier County Volunteer Fire Department - Explorers 	FMN 	Fire-Tac 
-154.31000 	KXM811 	RM	103.5 PL	SEYMOUR VFD 1 	Seymour Volunteer Fire Department 	FMN 	Fire Dispatch 
-155.77500 	WNIR306 	BM		SEYMOUR VFD 2 	Seymour Volunteer Fire Department 	FMN 	Fire-Tac 
-453.41250 	WQRD897 	RM	712 DPL	SEYMOUR VFD BU 	Seymour Volunteer Fire Department - Backup *Bluff Mtn.* 	FMN 	Fire-Tac 
-154.25000 	KUE623 	BM		WALDENS CREEK FD 	Waldens Creek Fire Department 	FMN 	Fire-Tac 
-154.17500 	KUE623 	BM		WEARS VALLEY VFD 	Wears Valley Volunteer Fire Department 	FMN 	Fire-Tac 
-460.25000 	WNJP833 	RM	100.0 PL	GatbgPD 	Police Department *Analog* 	FMN 	Law Tac 
-460.25000 	WNJP833 	RM	28 RAN	Gatbg PD 	Police Department 	NXDN 	Law Tac 
-460.50000 	WNJP833 	RM		Gatbg CLE 	Countywide Law Enforcement Dispatch (911) 	NXDN 	Law Dispatch 
-460.50000 	WNJP833 	RM	100.0 PL	Gatbg CW LE 	Countywide Law Enforcement (911) *Analog* 	FMN 	Law Dispatch 
-453.85000 	WNVS923 	RM	100.0 PL	GatbgFD1 	Fire Department - 1 *Analog* 	FMN 	Fire Dispatch 
-453.85000 	WNVS923 	RM	17 RAN	Gatbg FD1 D 	Fire Department - 1 *Digital* 	NXDN 	Fire Dispatch 
-458.30000 	WNVS923 	M		Gatbg FD2 D 	Fire Department - 2 *Digital* 	NXDN 	Fire-Tac 
-458.30000 	WNVS923 	M	100.0 PL	GatbgFD2 	Fire Department - 2 *Analog* 	FMN 	Fire-Tac 
-453.55000 	WNVS923 	RM		Gatbg FD3 D 	Fire Department - 3 *Digital* 	NXDN 	Fire-Tac 
-453.55000 	WNVS923 	RM	100.0 PL	GatbgFD3 	Fire Department - 3 *Analog* 	FMN 	Fire-Tac 
-453.27500 	WNXN697 	RM	103.5 PL	GatbgTrolley 	Trolleys / Street Department 1 *Analog* 	FMN 	Public Works 
-453.27500 	WNXN697 	RM	44 RAN	GatbgTrolley 	Department of Transportation - Trolleys *Digital* 	NXDN 	Public Works 
-453.97500 	WNXN697 	RM	100.0 PL	Gatbg DOT A 	Department of Transportation *Analog* 	FMN 	Public Works 
-453.97500 	WNXN697 	RM	44 RAN	Gatbg DOT D 	Department of Transportation *Digital* 	NXDN 	Public Works 
-453.80000 	WPRG663 	RM		GatbgParks 	Parks and Recreation 	FMN 	Public Works 
-154.45625 	WNZS315 	F		GWWTC 	Watewater Treatment Facility 	Telm 	Utilities 
-452.35000 	WRAX987 	RM	073 DPL	GatbgUTIL 	City Utilities 	FMN 	Utilities 
-462.07500 	WQEM741 	RM	118.8 PL	PIttman Elem Sch 	Pittman Elementary School 	FMN 	Schools 
-460.05000 	WNJC274 	RM	100.0 PL	PFPD ANALOG 	Police Department *Analog* 	FMN 	Law Tac 
-461.00000 	WQCM739 	RM		PFFD-DISP 	Fire  	NXDN 	Fire Dispatch 
-464.17500 	WQCM739 	BM		PFFD-EVENT 	Fire Events Tactical (Simplex) 	NXDN 	Fire-Tac 
-453.41250 	WQRD897 	RM	371 DPL	PFFD-BUR 	Fire Back Up Repeater *Bluff Mtn* 	FMN 	Fire Dispatch 
-155.74500 	WPDH422 	RM	127.3 PL	PgnFgPWks 	Public Works 	FMN 	Public Works 
-37.96000 	WPWR245 	BM	CSQ	PgnFgStrts 	Street Department / Special Events 	FM 	Public Works 
-453.32500 	WNJC391 	RM	103.5 PL	PgnFgTrolley 	Trolleys 	FMN 	Transportation 
-173.31250 	WNZL897 	F		PgnFgTelem 	Water Treatment Plant - Telemetry 	Telm 	Data 
-464.63750 	WQKC254 	RM	103.5 PL	PigForgTrly 	Trolley Dispatch 	FMN 	Transportation 
-460.50000 	WNJC274 	RM		SvrvlPD CLE 	Police Countywide Law Enforcement  	FMN 	Interop 
-451.40000 	KXH285 	RM	136.5 PL	SvrvlFDPagng 	Fire Department - Paging 	FMN 	Fire Dispatch 
-460.28750 	WPWD502 	RM	179.9 PL	SvrvlFDOpns 	Fire Department - Operations 	FMN 	Fire-Tac 
-451.20000 	WYQ273 	RM	CC 10TG *SL 1	SCElectric 1 	Sevier County Electric Ops 1 	DMR 	Utilities 
-451.08750 	WQJD837 	RM	CC 10TG *SL 1	SCElectric 2 	Sevier County Electric Ops 2 	DMR 	Utilities 
-451.20000 	WYQ273 	RM	CC 10TG *SL 2	SCElectric 1 	Sevier County Electric GPS 1 	DMR 	Utilities 
-451.08750 	WYQ273 	RM	CC 10TG *SL 2	SCElectric 2 	Sevier County Electric GPS 2 	DMR 	Utilities 
-123.00000 	WBY9 	BM		KGKT Unicom 	Unicom 	AM 	Aircraft 
-132.80000 	 	BM		KGKT Ap/Dep 	Knoxville Approach / Departure 	AM 	Aircraft 
-126.87500 	KGJ2 	B		KGKT AWOS 	AWOS 	AM 	Aircraft 
-Central Communications and Electronics (Sevierville Motorola)	 Motorola Type IIi Hybrid	 Sevierville	Dollywood	 LTR Standard	 Pigeon Forge	Land Air Communications (LTR)	 LTR Standard
- Multiple	Land Air Communications (NXDN)	 NXDN NEXEDGE 4800	 Various	LeConte Medical Center	 LTR Standard	 Sevierville	Metro Communications (Dupont)
- Motorola Type IIi Hybrid	 Dupont	Pigeon Forge Public Safety 	 Project 25 Phase I	 Pigeon Forge	Sevier County (800 MHz)	 LTR Standard	 Sevier County
+460.02500 	465.02500  	WQGI409 	RM		SevierSO-D 	Sheriff Digital Operations 	NXDN 	Law Dispatch 
+464.55000 	   	 		411 DPL	SevierCOURT 	Court Security 	FMN 	Law Tac 
+462.95000 	467.95000  	KNCZ203 	RM	127.3 PL	SC-EMS-DISP 	EMS 	FMN 	EMS Dispatch 
+463.02500 	468.02500  	KNCZ203 	BM	82.5 PL	SCEMS-M2 	EMS Med 2 	FMN 	EMS-Talk 
+155.34000 	   	KXH285 	BM	100.0 PL	SERN 	EMS HEAR Net 	FMN 	Hospital 
+463.00000 	468.00000  	KNCZ203 	RM	127.3 PL	SCEMS-FSSH 	EMS to Fort Sanders Sevier Medical Center 	FMN 	Hospital 
+155.20500 	   	KXH285 	BM	100.0 PL	SC-MEDCOM 	MedComm 	FMN 	Hospital 
+155.28000 	   	KNCP274 	BM	173.8 PL	HOSPNET 	Hospital to Hospital Net 	FMN 	Hospital 
+453.65000 	458.65000  	WNPZ631 	RM	94.8 PL	SC-RESCUE 	Rescue Squad 	FMN 	EMS Dispatch 
+451.85000 	456.85000  	WNAK540 	RM	346 DPL	SC-RESCUE 	Rescue Squad 	FMN 	EMS Dispatch 
+155.69250 	   	WPWX466 	RM	127.3 PL	SCEMA 	Emergency Management 	FMN 	Emergency Ops 
+453.87500 	458.87500  	WPWX466 	RM	073 DPL	SCEMA 	Emergency Management 	FMN 	Emergency Ops 
+453.51250 	   	 	RM	141.3 PL	CCVFD1 	Catons Chapel VFD 	FMN 	Fire Dispatch 
+460.62500 	465.62500  	WQRD897 	RM	203.5 PL	SCFIRE 	County Fire Bluff Mtn Repeater 	FMN 	Fire Dispatch 
+155.29500 	   	WNNC292 	BM	229.1 PL	UTMC MCI NET 	University of Tennessee Medical Center - Mass Causality Net 	FMN 	Emergency Ops 
+156.19500 	159.07500  	KNIM464 	RM	94.8 PL	SC-HIGHWAY 	Highway Department 	FMN 	Public Works 
+451.20000 	456.20000  	WYQ273 	RM	100.0 PL	SC ELECTRIC 	Electric System (May be using DMR now) 	FMN 	Utilities 
+451.07500 	   	WYQ273 	M	100.0 PL	SC ELECTRIC 	Electric System (May be using DMR now) 	FMN 	Utilities 
+153.51500 	452.27500  	WQEK371 	RM	203.5 PL	SCUDBluffMtn 	Sevier County Utility District (SCUD) - Bluff Mountain 	FMN 	Public Works 
+153.51500 	158.25000  	WQEK371 	RM	136.5 PL	SCUDGatlinbg 	Sevier County Utility District (SCUD) - Gatlinburg 	FMN 	Public Works 
+453.77500 	   	 	M	179.9 PL	SCFTAC-1 	Tac 1 Sevierville Fire Dept. 	FMN 	Fire-Tac 
+464.17500 	   	 	M	100.0 PL	SCFTAC-2 	Tac 2 Pigeon Forge Fire Dept. 	FMN 	Fire-Tac 
+451.45000 	   	 	M	100.0 PL	SCFTAC-3 	Tac 3 Gatlinburg Fire Dept. 	FMN 	Fire-Tac 
+464.65000 	   	 	M	100.0 PL	SCFTAC-4 	Tac 4 Northview Fire Dept. 	FMN 	Fire-Tac 
+452.10000 	   	 	M	100.0 PL	SCFTAC-5 	Tac 5 Catons Chapel Fire Dept. 	FMN 	Fire-Tac 
+452.22500 	   	 	M	100.0 PL	SCFTAC-6 	Tac 6 Waldens Creek Fire Dept. 	FMN 	Fire-Tac 
+464.40000 	   	 	M	100.0 PL	SCFTAC-7 	Tac 7 Seymour Fire Dept. 	FMN 	Fire-Tac 
+462.22500 	   	 	M	100.0 PL	SCFTAC-8 	Tac 8 Wears Valley Fire Dept. 	FMN 	Fire-Tac 
+463.25000 	   	 	M	100.0 PL	SCFTAC-9 	Tac 9 English Mtn Fire Dept. 	FMN 	Fire-Tac 
+464.97500 	   	 	M	100.0 PL	SCFTAC-10 	Tac10 Sevier Co. Fire Dept. 	FMN 	Fire-Tac 
+456.38750 	   	 	M	100.0 PL	SCFTAC-11 	Tac 11 Pitman Center Fire 	FMN 	Fire-Tac 
+456.41250 	   	WQGC558 	M	100.0 PL	SCFTAC-12 	Tac 12 Sevier Co Rescue Squad 	FMN 	Fire-Tac 
+451.40000 	456.40000  	KXH285 	RM	136.5 PL	SC-PAGE 	Page Channel 	FMN 	Fire Dispatch 
+451.85000 	456.85000  	WNAK540 	RM	371 DPL	SC-RESCUE 	County Rescue Squad Backup 	FMN 	EMS-Tac 
+453.41250 	458.41250  	WQRD897 	RM	346 DPL	CCRC VFD TAC 	Catons Chapel - Richardson Cove Volunteer Fire Department - Backup 	FMN 	Fire-Tac 
+453.51250 	458.51250  	WPWE399 	RM	173.8 PL	CCRC-VFD DISP 	Catons Chapel-Richardson Cove Fire Department 	FMN 	Fire Dispatch 
+453.12500 	458.12500  	WPGW693 	RM	100.0 PL	EMGLISH MTN VFD 	English Mountain Volunteer Fire Department 	FMN 	Fire-Tac 
+453.41250 	458.41250  	WQRD897 	RM	516 DPL	NVIEW KODAK BU 	Northview - Kodak Volunteer Fire Department - Backup 	FMN 	Fire-Tac 
+154.44500 	158.95500  	KNFA325 	RM	073 DPL	NVIEW KODAK VFD 	Northview-Kodak Volunteer Fire Department 	FMN 	Fire-Tac 
+453.73750 	458.73750  	WNXN454 	RM	136.5 PL	PITMANN CTR VFD 	Pitman Center VFD 	FMN 	Fire Dispatch 
+460.57500 	465.57500  	WNXN454 	RM	167.9 PL	PITTMAN CTR FIRE 	Pittman Center Fire Department 	FMN 	Fire Dispatch 
+460.62500 	465.62500  	WQRD897 	RM	127.3 PL	SCVFD RIDGECREST 	Sevier County VFD Ridgecrest Repeater 	FMN 	Fire-Tac 
+453.41250 	458.41250  	WQRD897 	F	115 DPL	SCVFD OPS 	Sevier County Volunteer Fire Department 	FMN 	Fire-Tac 
+453.41250 	458.41250  	WQRD897 	RM	732 DPL	SCVFD EXPLORERS 	Sevier County Volunteer Fire Department - Explorers 	FMN 	Fire-Tac 
+154.31000 	153.77000  	KXM811 	RM	103.5 PL	SEYMOUR VFD 1 	Seymour Volunteer Fire Department 	FMN 	Fire Dispatch 
+155.77500 	   	WNIR306 	BM		SEYMOUR VFD 2 	Seymour Volunteer Fire Department 	FMN 	Fire-Tac 
+453.41250 	458.41250  	WQRD897 	RM	712 DPL	SEYMOUR VFD BU 	Seymour Volunteer Fire Department - Backup *Bluff Mtn.* 	FMN 	Fire-Tac 
+154.25000 	   	KUE623 	BM		WALDENS CREEK FD 	Waldens Creek Fire Department 	FMN 	Fire-Tac 
+154.17500 	   	KUE623 	BM		WEARS VALLEY VFD 	Wears Valley Volunteer Fire Department 	FMN 	Fire-Tac 
+460.25000 	465.25000  	WNJP833 	RM	100.0 PL	GatbgPD 	Police Department *Analog* 	FMN 	Law Tac 
+460.25000 	465.25000  	WNJP833 	RM	28 RAN	Gatbg PD 	Police Department 	NXDN 	Law Tac 
+460.50000 	465.50000  	WNJP833 	RM		Gatbg CLE 	Countywide Law Enforcement Dispatch (911) 	NXDN 	Law Dispatch 
+460.50000 	465.50000  	WNJP833 	RM	100.0 PL	Gatbg CW LE 	Countywide Law Enforcement (911) *Analog* 	FMN 	Law Dispatch 
+453.85000 	458.85000  	WNVS923 	RM	100.0 PL	GatbgFD1 	Fire Department - 1 *Analog* 	FMN 	Fire Dispatch 
+453.85000 	458.85000  	WNVS923 	RM	17 RAN	Gatbg FD1 D 	Fire Department - 1 *Digital* 	NXDN 	Fire Dispatch 
+458.30000 	   	WNVS923 	M		Gatbg FD2 D 	Fire Department - 2 *Digital* 	NXDN 	Fire-Tac 
+458.30000 	   	WNVS923 	M	100.0 PL	GatbgFD2 	Fire Department - 2 *Analog* 	FMN 	Fire-Tac 
+453.55000 	458.55000  	WNVS923 	RM		Gatbg FD3 D 	Fire Department - 3 *Digital* 	NXDN 	Fire-Tac 
+453.55000 	458.55000  	WNVS923 	RM	100.0 PL	GatbgFD3 	Fire Department - 3 *Analog* 	FMN 	Fire-Tac 
+453.27500 	458.27500  	WNXN697 	RM	103.5 PL	GatbgTrolley 	Trolleys / Street Department 1 *Analog* 	FMN 	Public Works 
+453.27500 	458.27500  	WNXN697 	RM	44 RAN	GatbgTrolley 	Department of Transportation - Trolleys *Digital* 	NXDN 	Public Works 
+453.97500 	458.97500  	WNXN697 	RM	100.0 PL	Gatbg DOT A 	Department of Transportation *Analog* 	FMN 	Public Works 
+453.97500 	458.97500  	WNXN697 	RM	44 RAN	Gatbg DOT D 	Department of Transportation *Digital* 	NXDN 	Public Works 
+453.80000 	458.80000  	WPRG663 	RM		GatbgParks 	Parks and Recreation 	FMN 	Public Works 
+154.45625 	   	WNZS315 	F		GWWTC 	Watewater Treatment Facility 	Telm 	Utilities 
+452.35000 	457.35000  	WRAX987 	RM	073 DPL	GatbgUTIL 	City Utilities 	FMN 	Utilities 
+462.07500 	467.07500  	WQEM741 	RM	118.8 PL	PIttman Elem Sch 	Pittman Elementary School 	FMN 	Schools 
+460.05000 	465.05000  	WNJC274 	RM	100.0 PL	PFPD ANALOG 	Police Department *Analog* 	FMN 	Law Tac 
+461.00000 	466.00000  	WQCM739 	RM		PFFD-DISP 	Fire  	NXDN 	Fire Dispatch 
+464.17500 	   	WQCM739 	BM		PFFD-EVENT 	Fire Events Tactical (Simplex) 	NXDN 	Fire-Tac 
+453.41250 	458.41250  	WQRD897 	RM	371 DPL	PFFD-BUR 	Fire Back Up Repeater *Bluff Mtn* 	FMN 	Fire Dispatch 
+155.74500 	153.74000  	WPDH422 	RM	127.3 PL	PgnFgPWks 	Public Works 	FMN 	Public Works 
+37.96000 	   	WPWR245 	BM	CSQ	PgnFgStrts 	Street Department / Special Events 	FM 	Public Works 
+453.32500 	458.32500  	WNJC391 	RM	103.5 PL	PgnFgTrolley 	Trolleys 	FMN 	Transportation 
+173.31250 	   	WNZL897 	F		PgnFgTelem 	Water Treatment Plant - Telemetry 	Telm 	Data 
+464.63750 	469.63750  	WQKC254 	RM	103.5 PL	PigForgTrly 	Trolley Dispatch 	FMN 	Transportation 
+460.50000 	465.50000  	WNJC274 	RM		SvrvlPD CLE 	Police Countywide Law Enforcement  	FMN 	Interop 
+451.40000 	456.40000  	KXH285 	RM	136.5 PL	SvrvlFDPagng 	Fire Department - Paging 	FMN 	Fire Dispatch 
+460.28750 	465.28750  	WPWD502 	RM	179.9 PL	SvrvlFDOpns 	Fire Department - Operations 	FMN 	Fire-Tac 
+451.20000 	456.20000  	WYQ273 	RM	CC 10TG *SL 1	SCElectric 1 	Sevier County Electric Ops 1 	DMR 	Utilities 
+451.08750 	456.08750  	WQJD837 	RM	CC 10TG *SL 1	SCElectric 2 	Sevier County Electric Ops 2 	DMR 	Utilities 
+451.20000 	456.20000  	WYQ273 	RM	CC 10TG *SL 2	SCElectric 1 	Sevier County Electric GPS 1 	DMR 	Utilities 
+451.08750 	456.08750  	WYQ273 	RM	CC 10TG *SL 2	SCElectric 2 	Sevier County Electric GPS 2 	DMR 	Utilities 
+123.00000 	   	WBY9 	BM		KGKT Unicom 	Unicom 	AM 	Aircraft 
+132.80000 	   	 	BM		KGKT Ap/Dep 	Knoxville Approach / Departure 	AM 	Aircraft 
+126.87500 	   	KGJ2 	B		KGKT AWOS 	AWOS 	AM 	Aircraft 
+Central Communications and Electronics (Sevierville Motorola)	 Motorola Type IIi Hybrid	 Sevierville	Dollywood	 LTR Standard	 Pigeon Forge	Land Air Communications (LTR)	 LTR Standard	 Multiple
+Land Air Communications (NXDN)	 NXDN NEXEDGE 4800	 Various	LeConte Medical Center	 LTR Standard	 Sevierville	Metro Communications (Capacity Plus)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Metro Communications (Dupont)	 Motorola Type IIi Hybrid	 Dupont	Pigeon Forge Public Safety 	 Project 25 Phase I	 Pigeon Forge	Sevier County (800 MHz)	 LTR Standard	 Sevier County
 Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

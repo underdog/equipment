@@ -1,34 +1,34 @@
-155.42500 	 	RM	CC 1TG 10SL 1	SHERIFF DISP 	Sheriff Dispatch 	DMR 	Law Dispatch 
-154.13000 	WNAH507 	RM	151.4 PL	FIRE DISP A 	Fire Dispatch/Paging 	FMN 	Fire Dispatch 
-154.28000 	KNFZ538 	RM		FIRE 2ND A 	Fire Dispatch Secondary 	FMN 	Fire Dispatch 
-153.02000 	WPSN418 	RM	151.4 PL	FIRE SE A 	Fire Southeast (Liberty/Vilonia/Etc.) Dispatch/Paging/Operations 	FMN 	Fire Dispatch 
-155.53500 	WNKV998 	RM	654 DPL	FIRE NE A 	Fire Northeast Dispatch/Paging 	FMN 	Fire Dispatch 
-155.73000 	WNKV998 	RM	173.8 PL	FIRE NO A 	Fire North (patched with Fire Northeast) Dispatch/Paging 	FMN 	Fire Dispatch 
-154.07000 	WPPA732 	BM	127.3 PL	WESCONFDTAC 	Wescon Volunteer Fire Department - Tactical 	FMN 	Fire-Tac 
-154.17500 	WNKN427 	RM	127.3 PL	BVRFKFD TACA 	Beaverfork Volunteer Fire Department - Tactical (Analog) 	FMN 	Fire-Tac 
-154.35500 	KNCY968 	BM		HWY286FDTAC 	Highway 286 Volunteer Fire Department - Tactical 	FMN 	Fire-Tac 
-153.02000 	 	BM	351 DPL	Liberty FD Talk 	Liberty Fire Department - Talk-Around 	FMN 	Fire-Talk 
-155.65500 	KOB676 	RM	118.8 PL	EMGY SQD A 	Emergency Squad - Analog 	FMN 	EMS Dispatch 
-155.65500 	KOB676 	RM	CC 1TG 10SL 1	EMGY SQD D 	Emergency Squad - Digital Dispatch 	DMR 	EMS Dispatch 
-153.98000 	KKL669 	RM		ROADS 	Road Department (back-up to AWIN talkgroup) 	FMN 	Public Works 
-154.25000 	KJP495 	BM		Conway Fire 	Fire Dispatch/Operations (back-up use only) 	FMN 	Fire Dispatch 
-155.34000 	KJF950 	BM		Cnwy Med Ctr 	Conway Regional Medical Center - Hospital Net 	FMN 	Hospital 
-158.79000 	WNRS275 	RM	141.3 PL	GFD Ops Ana 	Fire Operations Main (Analog) 	FMN 	Fire Dispatch 
-158.79000 	WNRS275 	RM	CC 10TG 1SL 1	GFD Ops Dig 	Fire Operations 	DMR 	Fire Dispatch 
-152.33000 	WPLZ514 	RM	186.2 PL	GSD-4 	Greenbrier School District 4 	FM 	Schools 
-153.18500 	WPUY356 	BM	94.8 PL	GWC 	Greenbrier Water Com. 	FMN 	Public Works 
-154.84500 	KNBJ852 	BM		VFD-FGRND 	Fire Department - Fireground 	FMN 	Fire-Tac 
-155.12250 	WPYM641 	RM	CC 1TG 10SL 1	VPD DISP 	Police Department - Dispatch 	DMR 	Law Dispatch 
-156.21000 	WPYM641 	RM		VPD TAC 	Police Department - Tactical (Encryption Used) 	DMR 	Law Tac 
-151.13750 	 	RM	CC 1TG 1000SL 1	Hilltop FD FG 1 	Fireground 	DMR 	Fire-Tac 
-151.13750 	 	RM	CC 1TG 2000SL 2	Hilltop FD FG 2 	Fireground 	DMR 	Fire-Tac 
-151.13750 	 	RM	100.0 PL	Hilltop FD FG A 	Fireground 	FMN 	Fire-Tac 
-154.45250 	 	RM	CC 1TG 1001SL 1	Hilltop FD Trn 1 	Training 	DMR 	Fire-Talk 
-154.45250 	 	RM	CC 1TG 1002SL 2	Hilltop FD Trn 2 	Training 	DMR 	Fire-Talk 
-161.85000 	 	RM	CC 15TG 6584SL 1	Hilltop FD Dis 1 	District 	DMR 	Fire-Talk 
-161.85000 	 	RM	CC 15TG 6585SL 2	Hilltop FD Dis 2 	District - Hospital Patient Reports 	DMRE 	Fire-Talk 
-155.62500 	WXF739 	RM	162.2 PL	UCA PD Disp 	Police - Dispatch (back-up use only) 	FMN 	Law Dispatch 
-155.41500 	WXF739 	RM		UCA PD 2 	Police - Secondary (back-up use only) 	FMN 	Law Tac 
-153.38750 	WQXM711 	RM		ADCOCK FAULKNER 	ADCOCK Inc., Faulkner County 	FMN 	Business 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Conway Wireless Information Network (CWIN)	 Project 25 Phase II
- Conway	Entergy 	 Project 25 Phase II	 Various	Faulkner County Ham DMR	 DMR Conventional Networked	 Conway	
+155.42500 	   	 	RM	CC 1TG 10SL 1	SHERIFF DISP 	Sheriff Dispatch 	DMR 	Law Dispatch 
+154.13000 	156.01500  	WNAH507 	RM	151.4 PL	FIRE DISP A 	Fire Dispatch/Paging 	FMN 	Fire Dispatch 
+154.28000 	158.86500  	KNFZ538 	RM		FIRE 2ND A 	Fire Dispatch Secondary 	FMN 	Fire Dispatch 
+153.02000 	160.03500  	WPSN418 	RM	151.4 PL	FIRE SE A 	Fire Southeast (Liberty/Vilonia/Etc.) Dispatch/Paging/Operations 	FMN 	Fire Dispatch 
+155.53500 	150.99500  	WNKV998 	RM	654 DPL	FIRE NE A 	Fire Northeast Dispatch/Paging 	FMN 	Fire Dispatch 
+155.73000 	158.80500  	WNKV998 	RM	173.8 PL	FIRE NO A 	Fire North (patched with Fire Northeast) Dispatch/Paging 	FMN 	Fire Dispatch 
+154.07000 	   	WPPA732 	BM	127.3 PL	WESCONFDTAC 	Wescon Volunteer Fire Department - Tactical 	FMN 	Fire-Tac 
+154.17500 	156.00000  	WNKN427 	RM	127.3 PL	BVRFKFD TACA 	Beaverfork Volunteer Fire Department - Tactical (Analog) 	FMN 	Fire-Tac 
+154.35500 	   	KNCY968 	BM		HWY286FDTAC 	Highway 286 Volunteer Fire Department - Tactical 	FMN 	Fire-Tac 
+153.02000 	   	 	BM	351 DPL	Liberty FD Talk 	Liberty Fire Department - Talk-Around 	FMN 	Fire-Talk 
+155.65500 	154.75500  	KOB676 	RM	118.8 PL	EMGY SQD A 	Emergency Squad - Analog 	FMN 	EMS Dispatch 
+155.65500 	154.75500  	KOB676 	RM	CC 1TG 10SL 1	EMGY SQD D 	Emergency Squad - Digital Dispatch 	DMR 	EMS Dispatch 
+153.98000 	158.92500  	KKL669 	RM		ROADS 	Road Department (back-up to AWIN talkgroup) 	FMN 	Public Works 
+154.25000 	   	KJP495 	BM		Conway Fire 	Fire Dispatch/Operations (back-up use only) 	FMN 	Fire Dispatch 
+155.34000 	   	KJF950 	BM		Cnwy Med Ctr 	Conway Regional Medical Center - Hospital Net 	FMN 	Hospital 
+158.79000 	154.95000  	WNRS275 	RM	141.3 PL	GFD Ops Ana 	Fire Operations Main (Analog) 	FMN 	Fire Dispatch 
+158.79000 	154.95000  	WNRS275 	RM	CC 10TG 1SL 1	GFD Ops Dig 	Fire Operations 	DMR 	Fire Dispatch 
+152.33000 	157.59000  	WPLZ514 	RM	186.2 PL	GSD-4 	Greenbrier School District 4 	FM 	Schools 
+153.18500 	159.61500  	WPUY356 	BM	94.8 PL	GWC 	Greenbrier Water Com. 	FMN 	Public Works 
+154.84500 	   	KNBJ852 	BM		VFD-FGRND 	Fire Department - Fireground 	FMN 	Fire-Tac 
+155.12250 	159.35250  	WPYM641 	RM	CC 1TG 10SL 1	VPD DISP 	Police Department - Dispatch 	DMR 	Law Dispatch 
+156.21000 	159.18000  	WPYM641 	RM		VPD TAC 	Police Department - Tactical (Encryption Used) 	DMR 	Law Tac 
+151.13750 	159.47250  	 	RM	CC 1TG 1000SL 1	Hilltop FD FG 1 	Fireground 	DMR 	Fire-Tac 
+151.13750 	159.47250  	 	RM	CC 1TG 2000SL 2	Hilltop FD FG 2 	Fireground 	DMR 	Fire-Tac 
+151.13750 	159.47250  	 	RM	100.0 PL	Hilltop FD FG A 	Fireground 	FMN 	Fire-Tac 
+154.45250 	158.73750  	 	RM	CC 1TG 1001SL 1	Hilltop FD Trn 1 	Training 	DMR 	Fire-Talk 
+154.45250 	158.73750  	 	RM	CC 1TG 1002SL 2	Hilltop FD Trn 2 	Training 	DMR 	Fire-Talk 
+161.85000 	157.25000  	 	RM	CC 15TG 6584SL 1	Hilltop FD Dis 1 	District 	DMR 	Fire-Talk 
+161.85000 	157.25000  	 	RM	CC 15TG 6585SL 2	Hilltop FD Dis 2 	District - Hospital Patient Reports 	DMRE 	Fire-Talk 
+155.62500 	158.94000  	WXF739 	RM	162.2 PL	UCA PD Disp 	Police - Dispatch (back-up use only) 	FMN 	Law Dispatch 
+155.41500 	158.97000  	WXF739 	RM		UCA PD 2 	Police - Secondary (back-up use only) 	FMN 	Law Tac 
+153.38750 	159.80250  	WQXM711 	RM		ADCOCK FAULKNER 	ADCOCK Inc., Faulkner County 	FMN 	Business 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Conway Wireless Information Network (CWIN)	 Project 25 Phase II	 Conway
+Entergy 	 Project 25 Phase II	 Various	Faulkner County Ham DMR	 DMR Conventional Networked	 Conway	

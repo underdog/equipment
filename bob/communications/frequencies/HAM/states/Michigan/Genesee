@@ -1,60 +1,59 @@
-158.94000 	KBW427 	BM	146.2 PL	Burton DPW 	Public Works Operations 	FMN 	Public Works 
-452.32500 	KAW878 	RM		Davison Water 	Water Department Operations 	FMN 	Public Works 
-155.82000 	KQJ398 	BM	CSQ	Fenton Fire 	Fire Dispatch (Simulcast on MPSCS Talkgroup "393FE911") 	FMN 	Fire Dispatch 
-154.80000 	KQB515 	BM	107.2 PL	Fenton DPW 	Public Works Operations 	FMN 	Public Works 
-453.65000 	WPTR533 	RM	114.8 PL	Flint DPW 1 	Public Works 	FMN 	Public Works 
-453.22500 	WPTR533 	RM	114.8 PL	Flint DPW 2 	Public Works 	FMN 	Public Works 
-153.65000 	KQF705 	RM		Flint Water 	Water and Sewer Maintenance Department 	FMN 	Public Works 
-453.87500 	WPLS389 	RM	107.2 PL	Flint House Comm 	Flint Housing Commission 	FMN 	Public Works 
-155.07000 	KQA920 	BM	107.2 PL	FlntCitzen Ptrl2 	Flint City Police - Citizens Radio Patrol channel 2 	FMN 	Law Talk 
-155.25000 	KQA920 	BM	107.2 PL	FlntCitzen Ptrl1 	Flint City Police - Citizens Radio Patrol channel 1 	FMN 	Law Talk 
-151.01000 	WPPF386 	BM	127.3 PL	Flint Twp. Tac 6 	Flint Township Fire Department - Tac 6 	FMN 	Fire-Tac 
-461.62500 	WPSK926 	RM	CC 1TG 350SL 1	Stat Trans 	Stat Trans Patient Transports. 	DMR 	EMS-Talk 
-461.41250 	WQMG466 	BM	136.5 PL	Mott ChildrenHos 	Mott Children's Health Center 	FMN 	Hospital 
-155.40000 	WPJN870 	BM	365 DPL	Swartz Ambulance 	Dispatch for Van Services - Secondary for Ambulance Services 	FMN 	EMS-Talk 
-463.42500 	WPPZ741 	RM	CC 1TG 1SL 1	GenysRH Security 	Hospital Security 	DMR 	Security 
-155.34000 	KBY818 	BM	114.8 PL	Genysys RH HEARN 	Ambulance-to-Hospital Notifications 	FMN 	Hospital 
-35.64000 	WZC606 	B		HurleyMC Paging1 	Paging 	FM 	Data 
-155.22000 	WZC606 	BM	134 DPL	Hurley MC Mntnce 	Maintenance Crews 	FMN 	Business 
-155.34000 	WZC606 	BM	74.4 PL	HEARN 	Ambulance-to-Hospital Ops 	FMN 	Hospital 
-463.75000 	WQON742 	BM	134 DPL	Hurley Alerts 	Emergency alerts 	FMN 	Hospital 
-463.95000 	WPHE738 	BM	134 DPL	Hurley Fac Mang. 	Facilities Management 	FMN 	Business 
-464.70000 	WNHU495 	RM	134 DPL	HurlyMC Security 	Security 	FMN 	Security 
-451.55000 	WPPV342 	RM	026 DPL	McLrnRMC Securty 	Security 	FMN 	Security 
-155.34000 	KNAP565 	BM	71.9 PL	HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
-464.15000 	WQYB387 	RM	136.5 PL	McLr RMC Maint 1 	Maintenance 	FMN 	Business 
-464.47500 	WQYB387 	M	136.5 PL	McLnRMC Maint 2 	Maintenance 2 	FMN 	Business 
-464.32500 	WNWG332 	RM	271 DPL	AthertnCSc Buses 	School Buses 	FMN 	Schools 
-464.97500 	WQDI200 	RM	179.9 PL	Bendle Buses 	School Buses 	FMN 	Schools 
-464.37500 	WZL977 	RM	156.7 PL	Bently CSc Buses 	School Buses 	FMN 	Schools 
-463.70000 	KGF842 	BM	107.2 PL	Davison CS Buses 	School Buses 	FMN 	Schools 
-464.42500 	WYD550 	RM		Fenton ASc Buses 	School Buses 	DMR 	Schools 
-154.50500 	WQRD381 	BM	131.8 PL	Flint Area Schl 	School Buses  	FMN 	Schools 
-452.17500 	WQEQ404 	BM	CC 1TG 600SL 1	Flint Com, Schls 	Flint Community Schools 	DMR 	Schools 
-452.17500 	WQEQ404 	BM	CC 1TG 600SL 2	Fllint Com.Schl2 	Flint Community Schools 2 	DMR 	Schools 
-452.50000 	KBD774 	RM	167.9 PL	FlushingCScBuses 	School Buses 	FMN 	Schools 
-461.27500 	WQEQ404 	RM	88.5 PL	GISD Sch Buses 	GISD School Buses 	FMN 	Schools 
-462.07500 	WQEQ404 	BM	67.0 PL	GISD Sch Ops 	GISD School Operations - Secondary 	FMN 	Schools 
-464.75000 	WQEQ404 	RM	67.0 PL	GISD Sch Bus 	GISD School Bus 	FMN 	Schools 
-452.35000 	WQAD735 	RM		GoodRichS Buses 	School Buses 	DMR 	Schools 
-462.52500 	WYY364 	RM	054 DPL	GrndBlnc CSc Ops 	School Operations 	FMN 	Schools 
-464.37500 	WYY364 	RM	CC 10TG 1100SL 1	GrndBlancCSc Ops 	School Operations 	DMR 	Schools 
-464.82500 	WYY364 	RM		GrBlancCSc Buses 	School Buses 	DMR 	Schools 
-461.27500 	WQEQ404 	RM	464 DPL	LkFentonCS Buses 	Transportation 	FMN 	Schools 
-464.42500 	WYD550 	RM	CC 1TG *SL *	School Buses 	Community School buses 	DMR 	Schools 
-462.27500 	WQEP457 	RM	464 DPL	Linden CSc Buses 	Transportation 	FMN 	Schools 
-451.72500 	WQGC381 	M	97.4 PL	Mt Morris Schols 	Mt. Morris Consolidated Schools Ops 	FMN 	Schools 
-462.12500 	WQGC381 	M	69.3 PL	Mt. MorrisSchl 2 	Mt. Morris Consolidated Schools Ops 2 	FMN 	Schools 
-451.42500 	WPPB403 	BM	100.0 PL	Swartz Creek Sch 	Swartz Creek Schools 	FMN 	Schools 
-451.60000 	WPPB403 	RM	100.0 PL	SwrtzCrkCS Buses 	School Buses 	FMN 	Schools 
-452.67500 	WPPB403 	BM	100.0 PL	Swartz CreekSch2 	Swartz Creek Schools 2 	FMN 	Schools 
-461.02500 	KLS289 	RM	CC 1TG 501SL 1	KttrngU Police 	Police Dispatch 	DMR 	Law Dispatch 
-452.82500 	WPNY447 	RM		KettngU Maint. 1 	Grounds and Maintenance 1 	DMR 	Schools 
-456.17500 	WPNY447 	BM		KttrngU Maint. 2 	Grounds and Maintenance 2 	DMR 	Schools 
-456.40000 	WPNY447 	M		KttrngU Maint. 3 	Grounds and Maintenance 3 	DMR 	Schools 
-461.30000 	KNEL630 	RM	118.8 PL	U-M Flint PD 2 	Campus Police Car to Car 	FMN 	Law Talk 
-463.77500 	KNEL630 	RM	118.8 PL	U-M Flint PD 3 	Special Event 1 	FMN 	Law Tac 
-452.00000 	KNEL630 	RM	118.8 PL	U-M Flint PD 4 	Special Event 2 	FMN 	Law Tac 
-461.75000 	KNEL630 	RM	118.8 PL	U-M Flint PD 5 	Special Event 3 	FMN 	Law Tac 
-ComSource Michigan DMR	 DMR Motorola Connect Plus (TRBO)	 Various	Consumers Energy	 EDACS Networked Standard	 Various	Electro-Pro LLC	 DMR Motorola Connect Plus (TRBO)
- Flint	
+158.94000 	   	KBW427 	BM	146.2 PL	Burton DPW 	Public Works Operations 	FMN 	Public Works 
+452.32500 	457.32500  	KAW878 	RM		Davison Water 	Water Department Operations 	FMN 	Public Works 
+155.82000 	   	KQJ398 	BM	CSQ	Fenton Fire 	Fire Dispatch (Simulcast on MPSCS Talkgroup "393FE911") 	FMN 	Fire Dispatch 
+154.80000 	   	KQB515 	BM	107.2 PL	Fenton DPW 	Public Works Operations 	FMN 	Public Works 
+453.65000 	458.65000  	WPTR533 	RM	114.8 PL	Flint DPW 1 	Public Works 	FMN 	Public Works 
+453.22500 	458.22500  	WPTR533 	RM	114.8 PL	Flint DPW 2 	Public Works 	FMN 	Public Works 
+153.65000 	158.25000  	KQF705 	RM		Flint Water 	Water and Sewer Maintenance Department 	FMN 	Public Works 
+453.87500 	458.87500  	WPLS389 	RM	107.2 PL	Flint House Comm 	Flint Housing Commission 	FMN 	Public Works 
+155.07000 	   	KQA920 	BM	107.2 PL	FlntCitzen Ptrl2 	Flint City Police - Citizens Radio Patrol channel 2 	FMN 	Law Talk 
+155.25000 	   	KQA920 	BM	107.2 PL	FlntCitzen Ptrl1 	Flint City Police - Citizens Radio Patrol channel 1 	FMN 	Law Talk 
+151.01000 	   	WPPF386 	BM	127.3 PL	Flint Twp. Tac 6 	Flint Township Fire Department - Tac 6 	FMN 	Fire-Tac 
+461.62500 	466.62500  	WPSK926 	RM	CC 1TG 350SL 1	Stat Trans 	Stat Trans Patient Transports. 	DMR 	EMS-Talk 
+461.41250 	466.41250  	WQMG466 	BM	136.5 PL	Mott ChildrenHos 	Mott Children's Health Center 	FMN 	Hospital 
+155.40000 	   	WPJN870 	BM	365 DPL	Swartz Ambulance 	Dispatch for Van Services - Secondary for Ambulance Services 	FMN 	EMS-Talk 
+463.42500 	468.42500  	WPPZ741 	RM	CC 1TG 1SL 1	GenysRH Security 	Hospital Security 	DMR 	Security 
+155.34000 	   	KBY818 	BM	114.8 PL	Genysys RH HEARN 	Ambulance-to-Hospital Notifications 	FMN 	Hospital 
+35.64000 	   	WZC606 	B		HurleyMC Paging1 	Paging 	FM 	Data 
+155.22000 	   	WZC606 	BM	134 DPL	Hurley MC Mntnce 	Maintenance Crews 	FMN 	Business 
+155.34000 	   	WZC606 	BM	74.4 PL	HEARN 	Ambulance-to-Hospital Ops 	FMN 	Hospital 
+463.75000 	468.75000  	WQON742 	BM	134 DPL	Hurley Alerts 	Emergency alerts 	FMN 	Hospital 
+463.95000 	468.95000  	WPHE738 	BM	134 DPL	Hurley Fac Mang. 	Facilities Management 	FMN 	Business 
+464.70000 	469.70000  	WNHU495 	RM	134 DPL	HurlyMC Security 	Security 	FMN 	Security 
+451.55000 	456.55000  	WPPV342 	RM	026 DPL	McLrnRMC Securty 	Security 	FMN 	Security 
+155.34000 	   	KNAP565 	BM	71.9 PL	HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+464.15000 	469.15000  	WQYB387 	RM	136.5 PL	McLr RMC Maint 1 	Maintenance 	FMN 	Business 
+464.47500 	   	WQYB387 	M	136.5 PL	McLnRMC Maint 2 	Maintenance 2 	FMN 	Business 
+464.32500 	469.32500  	WNWG332 	RM	271 DPL	AthertnCSc Buses 	School Buses 	FMN 	Schools 
+464.97500 	469.97500  	WQDI200 	RM	179.9 PL	Bendle Buses 	School Buses 	FMN 	Schools 
+464.37500 	469.37500  	WZL977 	RM	156.7 PL	Bently CSc Buses 	School Buses 	FMN 	Schools 
+463.70000 	   	KGF842 	BM	107.2 PL	Davison CS Buses 	School Buses 	FMN 	Schools 
+464.42500 	469.42500  	WYD550 	RM		Fenton ASc Buses 	School Buses 	DMR 	Schools 
+154.50500 	159.52500  	WQRD381 	BM	131.8 PL	Flint Area Schl 	School Buses  	FMN 	Schools 
+452.17500 	457.17500  	WQEQ404 	BM	CC 1TG 600SL 1	Flint Com, Schls 	Flint Community Schools 	DMR 	Schools 
+452.17500 	457.17500  	WQEQ404 	BM	CC 1TG 600SL 2	Fllint Com.Schl2 	Flint Community Schools 2 	DMR 	Schools 
+452.50000 	457.50000  	KBD774 	RM	167.9 PL	FlushingCScBuses 	School Buses 	FMN 	Schools 
+461.27500 	466.27500  	WQEQ404 	RM	88.5 PL	GISD Sch Buses 	GISD School Buses 	FMN 	Schools 
+462.07500 	   	WQEQ404 	BM	67.0 PL	GISD Sch Ops 	GISD School Operations - Secondary 	FMN 	Schools 
+464.75000 	469.75000  	WQEQ404 	RM	67.0 PL	GISD Sch Bus 	GISD School Bus 	FMN 	Schools 
+452.35000 	457.35000  	WQAD735 	RM		GoodRichS Buses 	School Buses 	DMR 	Schools 
+462.52500 	467.52500  	WYY364 	RM	054 DPL	GrndBlnc CSc Ops 	School Operations 	FMN 	Schools 
+464.37500 	469.37500  	WYY364 	RM	CC 10TG 1100SL 1	GrndBlancCSc Ops 	School Operations 	DMR 	Schools 
+464.82500 	469.82500  	WYY364 	RM		GrBlancCSc Buses 	School Buses 	DMR 	Schools 
+461.27500 	466.27500  	WQEQ404 	RM	464 DPL	LkFentonCS Buses 	Transportation 	FMN 	Schools 
+464.42500 	469.42500  	WYD550 	RM	CC 1TG *SL *	School Buses 	Community School buses 	DMR 	Schools 
+462.27500 	467.27500  	WQEP457 	RM	464 DPL	Linden CSc Buses 	Transportation 	FMN 	Schools 
+451.72500 	   	WQGC381 	M	97.4 PL	Mt Morris Schols 	Mt. Morris Consolidated Schools Ops 	FMN 	Schools 
+462.12500 	   	WQGC381 	M	69.3 PL	Mt. MorrisSchl 2 	Mt. Morris Consolidated Schools Ops 2 	FMN 	Schools 
+451.42500 	456.42500  	WPPB403 	BM	100.0 PL	Swartz Creek Sch 	Swartz Creek Schools 	FMN 	Schools 
+451.60000 	456.60000  	WPPB403 	RM	100.0 PL	SwrtzCrkCS Buses 	School Buses 	FMN 	Schools 
+452.67500 	457.67500  	WPPB403 	BM	100.0 PL	Swartz CreekSch2 	Swartz Creek Schools 2 	FMN 	Schools 
+461.02500 	466.02500  	KLS289 	RM	CC 1TG 501SL 1	KttrngU Police 	Police Dispatch 	DMR 	Law Dispatch 
+452.82500 	457.82500  	WPNY447 	RM		KettngU Maint. 1 	Grounds and Maintenance 1 	DMR 	Schools 
+456.17500 	   	WPNY447 	BM		KttrngU Maint. 2 	Grounds and Maintenance 2 	DMR 	Schools 
+456.40000 	   	WPNY447 	M		KttrngU Maint. 3 	Grounds and Maintenance 3 	DMR 	Schools 
+461.30000 	466.30000  	KNEL630 	RM	118.8 PL	U-M Flint PD 2 	Campus Police Car to Car 	FMN 	Law Talk 
+463.77500 	468.77500  	KNEL630 	RM	118.8 PL	U-M Flint PD 3 	Special Event 1 	FMN 	Law Tac 
+452.00000 	457.00000  	KNEL630 	RM	118.8 PL	U-M Flint PD 4 	Special Event 2 	FMN 	Law Tac 
+461.75000 	466.75000  	KNEL630 	RM	118.8 PL	U-M Flint PD 5 	Special Event 3 	FMN 	Law Tac 
+Consumers Energy	 EDACS Networked Standard	 Various	Electro-Pro LLC	 DMR Motorola Connect Plus (TRBO)	 Flint	

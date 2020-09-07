@@ -1,45 +1,45 @@
-154.87500 	KJN737 	RM	156.7 PL	Madison SO 1 	Sheriff Dispatch - Backup 	FM 	Law Dispatch 
-154.01000 	WPYD514 	RM	156.7 PL	Madison FD W 	Fire West (Capshaw) - Backup 	FM 	Fire Dispatch 
-154.17500 	WPYD514 	RM	141.3 PL	Madison FD E 	Fire East (Ledges) - Backup 	FM 	Fire Dispatch 
-155.41500 	KJA965 	RM	156.7 PL	MCEMA Rptr 	EMA Repeater 	FM 	Emergency Ops 
-155.34000 	WQOU652 	BM	127.3 PL	UABSM HEAR 	UAB School of Medicine (Huntsville) 	FMN 	Hospital 
-155.34000 	WQOU652 	BM	225.7 PL	CH HEAR 	Crestwood Healthcare 	FMN 	Hospital 
-155.34000 	WQOU652 	BM	67.0 PL	HHWC HEAR 	Huntsville Hospital for Women & Children 	FMN 	Hospital 
-155.34000 	 	BM	71.9 PL	MH HEAR 	Madison Hospital 	FMN 	Hospital 
-462.90000 	WQHG545 	RM	254.1 PL	HH Paging 	Huntsville Hospital Paging 	FM 	Data 
-463.26250 	WQCN835 	RM	CC 1TG 2SL *	Crestwood MC 	Crestwood Medical Center 	DMR 	Hospital 
-464.62500 	WQYB935 	RM	CC 9TG 1SL *	Morris ES 	Morris Elementary School 	DMR 	Schools 
-466.08750 	 	BM		Riverton ES Play 	Riverton Elementary School - Playground Intercom 	FMN 	Schools 
-154.41500 	WQNJ280 	RM	156.7 PL	GrnMountVFD 	Green Mountain Volunteer Fire Department Paging (Huntsville Fire back-up) 	FM 	Fire Dispatch 
-155.29500 	WPCR655 	M	136.5 PL	HuntsvlRescu 	Rescue Tactical (high-angle/rough terrain) 	FM 	EMS-Tac 
-155.71500 	KBL639 	RM		HuntsvlHouse 	Housing Authority 	FM 	Public Works 
-453.22500 	WNHH854 	RM		VonBraunCnt1 	Von Braun Center 	FM 	Public Works 
-453.47500 	 	M		VonBraunCnt2 	Von Braun Center Simplex 	FM 	Public Works 
-460.52500 	KWF775 	RM		AirprtBackup 	Airport Repeater Backup 	FM 	Public Works 
-463.35000 	 	RM	454 DPL	HuntsvSchBus 	School Buses 	FMN 	Schools 
-462.97500 	WZU625 	RM	118.8 PL	HEMSI Dsptch 	EMS Dispatch 	FMN 	EMS Dispatch 
-462.95000 	WZU625 	RM	118.8 PL	HEMSI PAR 	EMS PAR (inbound non-Madison County units) 	FMN 	EMS-Tac 
-463.17500 	WZU625 	RM	118.8 PL	HEMSI 3 	EMS HEMSI 3 	FMN 	EMS-Tac 
-463.07500 	WZU625 	RM	118.8 PL	Hsv MedFlght 	EMS Medflight 	FMN 	EMS Dispatch 
-463.00000 	WZU625 	RM	118.8 PL	HEMSI Tac 1 	EMS Tactical (only in paramedic handheld radios) 	FMN 	EMS-Tac 
-463.15000 	WZU625 	RM	118.8 PL	HEMSI Tac 2 	EMS Tactical 2 (non-emergency operations) 	FMN 	EMS-Tac 
-463.02500 	WZU625 	BM	118.8 PL	HEMSI AVL 	EMS Automatic Vehicle Location (AVL) 	FMN 	Data 
-153.81500 	KNHB756 	BM		Gurley CMN 	Services 	FM 	Multi-Dispatch 
-855.56250 	WPSH506 	RM	754 DPL	MPD Dispatch 	Police Dispatch 	FM 	Law Dispatch 
-855.98750 	WQFT765 	RM	411 DPL	MFD Dispatch 	Fire Dispatch 	FM 	Fire Dispatch 
-155.74500 	WNAE303 	RM		MFD Backup 	Fire Backup Repeater 	FM 	Fire-Tac 
-453.28750 	WPWH864 	RM	100.0 PL	MCS Bus Ops 	Madison City Schools - Buses 	FMN 	Schools 
-855.11250 	WPCJ857 	RM	331 DPL	Water Telem 	Madison Water & Wastewater Telemetry 	FM 	Data 
-155.64000 	KNBZ613 	BM		New Hope PD 	Police - Traffic 	FM 	Law Talk 
-460.37500 	WNIU296 	M		HMCAAIMTerm 	Intermodal Terminal - Operations 	FM 	Public Works 
-154.08500 	KNFJ220 	BM		HuntsvlMarin 	Marina Operations/Security 	FM 	Public Works 
-154.51500 	KNCS601 	RM	94.8 PL	OakwoodU Sec 	Security 	FMN 	Security 
-413.07500 	 			Redstone PD1 	Military Police - Main (can be encrypted) 	FME 	Law Dispatch 
-413.55000 	 			Redstone PD2 	Military Police - Tactical/Secondary (can be encrypted) 	FME 	Law Tac 
-413.47500 	 			Redstone FD 	Fire/Rescue/Crash 	FM 	Fire Dispatch 
-453.66250 	 	BM	155 DPL	US S&RC Ops 	U.S. Space & Rocket Center - Operations 	FMN 	Business 
-467.76250 	 	M	103.5 PL	US S&RC Ride 	U.S. Space & Rocket Center - Ride Operations 	FMN 	Business 
- Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Boeing Company	 Motorola Type I	 Huntsville	Huntsville Radio Service (Huntsville)	 Motorola Type IIi Hybrid
- Huntsville	Huntsville-Madison County Airport Authority	 EDACS Standard	 Huntsville	Madison County Schools	 DMR Motorola Capacity Plus Single Site (TRBO)	 Monte Sano	Marshall Space Flight Center  / Redstone Arsenal
- Motorola Type II SmartZone	 Huntsville	Marshall Space Flight Center / Redstone Arsenal P25	 Project 25 Phase I	 Huntsville	Merrimack Hall Performing Arts Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Huntsville
-SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various	Von Braun Center	 LTR Standard	 Huntsville	
+154.87500 	155.97000  	KJN737 	RM	156.7 PL	Madison SO 1 	Sheriff Dispatch - Backup 	FM 	Law Dispatch 
+154.01000 	156.00000  	WPYD514 	RM	156.7 PL	Madison FD W 	Fire West (Capshaw) - Backup 	FM 	Fire Dispatch 
+154.17500 	150.79000  	WPYD514 	RM	141.3 PL	Madison FD E 	Fire East (Ledges) - Backup 	FM 	Fire Dispatch 
+155.41500 	154.72500  	KJA965 	RM	156.7 PL	MCEMA Rptr 	EMA Repeater 	FM 	Emergency Ops 
+155.34000 	   	WQOU652 	BM	127.3 PL	UABSM HEAR 	UAB School of Medicine (Huntsville) 	FMN 	Hospital 
+155.34000 	   	WQOU652 	BM	225.7 PL	CH HEAR 	Crestwood Healthcare 	FMN 	Hospital 
+155.34000 	   	WQOU652 	BM	67.0 PL	HHWC HEAR 	Huntsville Hospital for Women & Children 	FMN 	Hospital 
+155.34000 	   	 	BM	71.9 PL	MH HEAR 	Madison Hospital 	FMN 	Hospital 
+462.90000 	467.90000  	WQHG545 	RM	254.1 PL	HH Paging 	Huntsville Hospital Paging 	FM 	Data 
+463.26250 	468.26250  	WQCN835 	RM	CC 1TG 2SL *	Crestwood MC 	Crestwood Medical Center 	DMR 	Hospital 
+464.62500 	469.62500  	WQYB935 	RM	CC 9TG 1SL *	Morris ES 	Morris Elementary School 	DMR 	Schools 
+466.08750 	   	 	BM		Riverton ES Play 	Riverton Elementary School - Playground Intercom 	FMN 	Schools 
+154.41500 	153.93500  	WQNJ280 	RM	156.7 PL	GrnMountVFD 	Green Mountain Volunteer Fire Department Paging (Huntsville Fire back-up) 	FM 	Fire Dispatch 
+155.29500 	   	WPCR655 	M	136.5 PL	HuntsvlRescu 	Rescue Tactical (high-angle/rough terrain) 	FM 	EMS-Tac 
+155.71500 	153.93500  	KBL639 	RM		HuntsvlHouse 	Housing Authority 	FM 	Public Works 
+453.22500 	458.22500  	WNHH854 	RM		VonBraunCnt1 	Von Braun Center 	FM 	Public Works 
+453.47500 	   	 	M		VonBraunCnt2 	Von Braun Center Simplex 	FM 	Public Works 
+460.52500 	465.52500  	KWF775 	RM		AirprtBackup 	Airport Repeater Backup 	FM 	Public Works 
+463.35000 	468.35000  	 	RM	454 DPL	HuntsvSchBus 	School Buses 	FMN 	Schools 
+462.97500 	467.97500  	WZU625 	RM	118.8 PL	HEMSI Dsptch 	EMS Dispatch 	FMN 	EMS Dispatch 
+462.95000 	467.95000  	WZU625 	RM	118.8 PL	HEMSI PAR 	EMS PAR (inbound non-Madison County units) 	FMN 	EMS-Tac 
+463.17500 	468.17500  	WZU625 	RM	118.8 PL	HEMSI 3 	EMS HEMSI 3 	FMN 	EMS-Tac 
+463.07500 	468.07500  	WZU625 	RM	118.8 PL	Hsv MedFlght 	EMS Medflight 	FMN 	EMS Dispatch 
+463.00000 	468.00000  	WZU625 	RM	118.8 PL	HEMSI Tac 1 	EMS Tactical (only in paramedic handheld radios) 	FMN 	EMS-Tac 
+463.15000 	468.15000  	WZU625 	RM	118.8 PL	HEMSI Tac 2 	EMS Tactical 2 (non-emergency operations) 	FMN 	EMS-Tac 
+463.02500 	468.02500  	WZU625 	BM	118.8 PL	HEMSI AVL 	EMS Automatic Vehicle Location (AVL) 	FMN 	Data 
+153.81500 	   	KNHB756 	BM		Gurley CMN 	Services 	FM 	Multi-Dispatch 
+855.56250 	810.56250  	WPSH506 	RM	754 DPL	MPD Dispatch 	Police Dispatch 	FM 	Law Dispatch 
+855.98750 	810.98750  	WQFT765 	RM	411 DPL	MFD Dispatch 	Fire Dispatch 	FM 	Fire Dispatch 
+155.74500 	154.22000  	WNAE303 	RM		MFD Backup 	Fire Backup Repeater 	FM 	Fire-Tac 
+453.28750 	   	WPWH864 	RM	100.0 PL	MCS Bus Ops 	Madison City Schools - Buses 	FMN 	Schools 
+855.11250 	810.11250  	WPCJ857 	RM	331 DPL	Water Telem 	Madison Water & Wastewater Telemetry 	FM 	Data 
+155.64000 	   	KNBZ613 	BM		New Hope PD 	Police - Traffic 	FM 	Law Talk 
+460.37500 	   	WNIU296 	M		HMCAAIMTerm 	Intermodal Terminal - Operations 	FM 	Public Works 
+154.08500 	   	KNFJ220 	BM		HuntsvlMarin 	Marina Operations/Security 	FM 	Public Works 
+154.51500 	159.52500  	KNCS601 	RM	94.8 PL	OakwoodU Sec 	Security 	FMN 	Security 
+413.07500 	   	 			Redstone PD1 	Military Police - Main (can be encrypted) 	FME 	Law Dispatch 
+413.55000 	   	 			Redstone PD2 	Military Police - Tactical/Secondary (can be encrypted) 	FME 	Law Tac 
+413.47500 	   	 			Redstone FD 	Fire/Rescue/Crash 	FM 	Fire Dispatch 
+453.66250 	   	 	BM	155 DPL	US S&RC Ops 	U.S. Space & Rocket Center - Operations 	FMN 	Business 
+467.76250 	   	 	M	103.5 PL	US S&RC Ride 	U.S. Space & Rocket Center - Ride Operations 	FMN 	Business 
+ Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Boeing Company	 Motorola Type I	 Huntsville	Huntsville Radio Service (Huntsville)	 Motorola Type IIi Hybrid	 Huntsville
+Huntsville-Madison County Airport Authority	 EDACS Standard	 Huntsville	Madison County Schools	 DMR Motorola Capacity Plus Single Site (TRBO)	 Monte Sano	Marshall Space Flight Center  / Redstone Arsenal	 Motorola Type II SmartZone	 Huntsville
+Marshall Space Flight Center / Redstone Arsenal P25	 Project 25 Phase I	 Huntsville	Merrimack Hall Performing Arts Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Huntsville	SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various
+Von Braun Center	 LTR Standard	 Huntsville	

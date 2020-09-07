@@ -1,37 +1,37 @@
-155.67000 	WPYL626 	RM	156.7 PL	OteroCo SO North 	Sheriff North 	FMN 	Law Dispatch 
-159.24000 	WQRF879 	RM	156.7 PL	OteroCo SO South 	Sheriff South 	FMN 	Law Dispatch 
-155.01000 	 	RM		OteroCo Jail 1 	Prision Security/Primary Ops  	FMN 	Corrections 
-159.15000 	 	M		OteroCo Jail 2 	Prison Operations 	FMN 	Corrections 
-154.20500 	WPLX405 	RM	114.8 PL	OteroCo FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.14500 	WPLX405 	BM	114.8 PL	OteroCo FD Tac 1 	Fire Tac 1 	FMN 	Fire-Tac 
-154.25000 	WPLX405 	BM	114.8 PL	OteroCo FD Tac 2 	Fire Tac 2 	FMN 	Fire-Tac 
-154.26500 	WPLX405 	BM	114.8 PL	OteroCo FD Tac 3 	Fire Tac 3 	FMN 	Fire-Tac 
-153.78500 	KYW911 	RM	186.2 PL	OteroCo DPW  	Public Works 	FMN 	Public Works 
-155.29500 	WQAN633 	BM	CSQ	AlamogordoSeach 	Alamogordo Search  	FMN 	Interop 
-155.76000 	WNXZ512 	B	127.3 PL	Alamogordo PD 1 	Police 1/2/3 (FMN) 	FMN 	Law Dispatch 
-155.76000 	WNXZ512 	RM	293 NAC	Alamogordo PD 1 	Police 1/2/3 (P25) 	P25E 	Law Dispatch 
-155.43000 	WNXZ512 	RM	151.4 PL	Alamogordo PD 4 	Police 4 / Events (FMN) 	FMN 	Law Tac 
-155.43000 	WNXZ512 	RM	293 NAC	Alamogordo PD 4 	Police 4 / Events (P25) 	P25E 	Law Tac 
-154.37000 	WQAF229 	RM	151.4 PL	Alamogordo SWAT 	Police SWAT (FMN) 	FMN 	Law Tac 
-154.37000 	WQAF229 	RM	293 NAC	Alamogordo SWAT 	Police SWAT (P25) 	P25E 	Law Tac 
-855.73750 	WQGL235 	RM		Alamogordo MDT 	Police Data Terminals 	Telm 	Data 
-158.82000 	WPMC466 	RM	127.3 PL	Alamogordo FD 1 	Fire 1/2/3 Disptach/Operations 	FMN 	Fire Dispatch 
-155.38500 	WNXZ512 	RM	167.9 PL	Alamogordo EMS 	EMS Dispatch (AMR) 	FMN 	EMS Dispatch 
-158.92500 	WNAL804 	M	100.0 PL	Alamogordo Bus 	Senior Center Buses 	FMN 	Transportation 
-153.96500 	WPMD901 	RM	392 NAC	Alamogordo City 	City Services 	P25E 	Public Works 
-155.82000 	KBU512 	M	156.7 PL	Alamogordo DPW 	Public Works / Regional Landfill 	FMN 	Public Works 
-155.82000 	KBU512 	M	293 NAC	Alamogordo DPW 	Public Works / Regional Landfill 	P25e 	Public Works 
-155.95500 	WPDH439 	RM	127.3 PL	Alamogordo ACO 	Animal Control/Code Enforcement 	FMN 	Public Works 
-155.96250 	WQRE705 	RM	606 DPL	Alamogordo DPW 	Streets / Billing / Utilities / Water 	FMN 	Public Works 
-158.83500 	WPMD901 	M	156.7 PL	Alamogordo Parks 	Parks / Recreation 	FMN 	Public Works 
-173.36250 	KNDH664 	M	156.7 PL	Water Plant 	Water Plant (Telementry CSQ) 	FMN 	Utilities 
-153.96500 	WPMD901 	M		Alamogordo Radio 	Ops/P25 Testing 	P25 	Public Works 
-155.11500 	KNIK930 	RM	127.3 PL	Cloudcroft Fire 	Fire/EMS 	FMN 	Fire Dispatch 
-155.89500 	 	BM	127.3 PL	Cloudcroft DPW 	Public Works 	FMN 	Public Works 
-154.51500 	WQNP600 	BM		TWSD Plant 	Water & Sanitation District 	FMN 	Utilities 
-155.04000 	WPUL212 	BM		Tularosa Interop 	Town Interop 	FMN 	Interop 
-158.79000 	WPUN500 	RM	162.2 PL	Tularosa PD 	Police 	FMN 	Law Dispatch 
-154.44500 	WNRQ319 	RM	100.0 PL	Tularosa FD 	Fire 	FMN 	Fire Dispatch 
-154.05500 	WPKF414 	M	CSQ	Tularosa DPW 	Maintenance 	FMN 	Public Works 
-Fort Bliss and White Sands Missile Range	 Project 25 Phase I	 Various	New Mexico DTRS	 Project 25 Phase II	 Various	Public Service Company of New Mexico	 NXDN NEXEDGE 9600
- Various	Southwestern Wireless Connect Plus	 DMR Motorola Connect Plus (TRBO)	 Various	
+155.67000 	   	WPYL626 	RM	156.7 PL	OteroCo SO North 	Sheriff North 	FMN 	Law Dispatch 
+159.24000 	   	WQRF879 	RM	156.7 PL	OteroCo SO South 	Sheriff South 	FMN 	Law Dispatch 
+155.01000 	159.15000  	 	RM		OteroCo Jail 1 	Prision Security/Primary Ops  	FMN 	Corrections 
+159.15000 	   	 	M		OteroCo Jail 2 	Prison Operations 	FMN 	Corrections 
+154.20500 	150.79000  	WPLX405 	RM	114.8 PL	OteroCo FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.14500 	   	WPLX405 	BM	114.8 PL	OteroCo FD Tac 1 	Fire Tac 1 	FMN 	Fire-Tac 
+154.25000 	   	WPLX405 	BM	114.8 PL	OteroCo FD Tac 2 	Fire Tac 2 	FMN 	Fire-Tac 
+154.26500 	   	WPLX405 	BM	114.8 PL	OteroCo FD Tac 3 	Fire Tac 3 	FMN 	Fire-Tac 
+153.78500 	   	KYW911 	RM	186.2 PL	OteroCo DPW  	Public Works 	FMN 	Public Works 
+155.29500 	   	WQAN633 	BM	CSQ	AlamogordoSeach 	Alamogordo Search  	FMN 	Interop 
+155.76000 	   	WNXZ512 	B	127.3 PL	Alamogordo PD 1 	Police 1/2/3 (FMN) 	FMN 	Law Dispatch 
+155.76000 	   	WNXZ512 	RM	293 NAC	Alamogordo PD 1 	Police 1/2/3 (P25) 	P25E 	Law Dispatch 
+155.43000 	155.77500  	WNXZ512 	RM	151.4 PL	Alamogordo PD 4 	Police 4 / Events (FMN) 	FMN 	Law Tac 
+155.43000 	155.77500  	WNXZ512 	RM	293 NAC	Alamogordo PD 4 	Police 4 / Events (P25) 	P25E 	Law Tac 
+154.37000 	   	WQAF229 	RM	151.4 PL	Alamogordo SWAT 	Police SWAT (FMN) 	FMN 	Law Tac 
+154.37000 	   	WQAF229 	RM	293 NAC	Alamogordo SWAT 	Police SWAT (P25) 	P25E 	Law Tac 
+855.73750 	810.73750  	WQGL235 	RM		Alamogordo MDT 	Police Data Terminals 	Telm 	Data 
+158.82000 	159.27000  	WPMC466 	RM	127.3 PL	Alamogordo FD 1 	Fire 1/2/3 Disptach/Operations 	FMN 	Fire Dispatch 
+155.38500 	155.71500  	WNXZ512 	RM	167.9 PL	Alamogordo EMS 	EMS Dispatch (AMR) 	FMN 	EMS Dispatch 
+158.92500 	   	WNAL804 	M	100.0 PL	Alamogordo Bus 	Senior Center Buses 	FMN 	Transportation 
+153.96500 	   	WPMD901 	RM	392 NAC	Alamogordo City 	City Services 	P25E 	Public Works 
+155.82000 	   	KBU512 	M	156.7 PL	Alamogordo DPW 	Public Works / Regional Landfill 	FMN 	Public Works 
+155.82000 	   	KBU512 	M	293 NAC	Alamogordo DPW 	Public Works / Regional Landfill 	P25e 	Public Works 
+155.95500 	   	WPDH439 	RM	127.3 PL	Alamogordo ACO 	Animal Control/Code Enforcement 	FMN 	Public Works 
+155.96250 	   	WQRE705 	RM	606 DPL	Alamogordo DPW 	Streets / Billing / Utilities / Water 	FMN 	Public Works 
+158.83500 	153.96500  	WPMD901 	M	156.7 PL	Alamogordo Parks 	Parks / Recreation 	FMN 	Public Works 
+173.36250 	   	KNDH664 	M	156.7 PL	Water Plant 	Water Plant (Telementry CSQ) 	FMN 	Utilities 
+153.96500 	   	WPMD901 	M		Alamogordo Radio 	Ops/P25 Testing 	P25 	Public Works 
+155.11500 	153.81500  	KNIK930 	RM	127.3 PL	Cloudcroft Fire 	Fire/EMS 	FMN 	Fire Dispatch 
+155.89500 	   	 	BM	127.3 PL	Cloudcroft DPW 	Public Works 	FMN 	Public Works 
+154.51500 	   	WQNP600 	BM		TWSD Plant 	Water & Sanitation District 	FMN 	Utilities 
+155.04000 	   	WPUL212 	BM		Tularosa Interop 	Town Interop 	FMN 	Interop 
+158.79000 	154.86000  	WPUN500 	RM	162.2 PL	Tularosa PD 	Police 	FMN 	Law Dispatch 
+154.44500 	   	WNRQ319 	RM	100.0 PL	Tularosa FD 	Fire 	FMN 	Fire Dispatch 
+154.05500 	   	WPKF414 	M	CSQ	Tularosa DPW 	Maintenance 	FMN 	Public Works 
+Fort Bliss and White Sands Missile Range	 Project 25 Phase I	 Various	New Mexico DTRS	 Project 25 Phase II	 Various	Public Service Company of New Mexico	 NXDN NEXEDGE 9600	 Various
+Southwestern Wireless Connect Plus	 DMR Motorola Connect Plus (TRBO)	 Various	

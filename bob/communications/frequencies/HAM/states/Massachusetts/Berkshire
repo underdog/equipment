@@ -1,100 +1,100 @@
-154.31000 	WPBG767 	BM	107.2 PL	Brkshre Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-152.98250 	WQFD787 	BM	131.8 PL	Brk FD Resp 	Fire Response 	FMN 	Fire Dispatch 
-154.16000 	WPBG767 	BM	107.2 PL	Brkshre FG1 	Fireground 1 (North) 	FMN 	Fire-Tac 
-158.80500 	WQAD819 	M	107.2 PL	Brkshre FG2 	Fireground 2 (South) 	FMN 	Fire-Tac 
-153.88250 	WQAD819 	BM	343 DPL	Berkshre FG3 	Fireground 3 (Countywide Overflow/Training) 	FMN 	Fire-Tac 
-155.80500 	WQAD819 	M	107.2 PL	Brk FD Int. 	Fireground Interior 	FMN 	Fire-Tac 
-159.75750 	WQFD787 	BM	413 DPL	Brk FD Cmd 	Fireground Command 	FMN 	Fire-Tac 
-153.96500 	KZF949 	BM	107.2 PL	BerkCty PD 1 	County Police Dispatch - Primary 	FMN 	Law Dispatch 
-155.77500 	WXM323 	BM	107.2 PL	BerkCty PD S 	County Police Dispatch South - Warner Mountain Tower 	FMN 	Law Dispatch 
-154.74000 	KZF949 	BM	107.2 PL	Berk Cty PDI 	County Police "Interagency" 	FMN 	Law Talk 
-153.96500 	WQCC994 	RM	206.5 PL	Berk WMLEC 	WMLEC (Western Mass Intercity) - Tie 	FMN 	Interop 
-460.38750 	WQIZ231 	RM	107.2 PL	BC PD Icity 	County Police Intercity  	FMN 	Interop 
-460.22500 	WQKV738 	RM	206.5 PL	WMLEC Berk 	WMLEC (Western Mass Intercity) - Berkshire Link 	FMN 	Interop 
-851.05000 	WPSK801 	RM	CC 1TG 1000SL 1	BCSO Jail A 	County Jail Ops 	DMRE 	Corrections 
-852.88750 	WPSK801 	RM		BCSO Jail B 	County Jail Ops 	FM 	Corrections 
-853.50000 	WPSK801 	BM		BCSO Jail C 	County Jail Ops 	FM 	Corrections 
-155.38500 	WQYV748 	RM	107.2 PL	BerkCMED 385-S 	Berkshire CMED - South (Warner Mtn) 	FMN 	Hospital 
-155.38500 	WQYV749 	RM	107.2 PL	BerkCMED 385-C 	Berkshire CMED - Central (Lenox Mtn) 	FMN 	Hospital 
-155.34000 	WQYV748 	BM	107.2 PL	BerkCMED 340-Dir 	Berkshire CMED - Direct 	FMN 	Hospital 
-155.13000 	KNDA824 	BM	107.2 PL	Adams PD 	Police Department 	FMN 	Law Dispatch 
-153.89000 	WNQM572 	BM	107.2 PL	Adams FD B 	Fire Operations/Fireground 	FMN 	Fire-Tac 
-155.22000 	WPWM565 	BM	107.2 PL	Adams EMS 	EMS 	FMN 	EMS-Tac 
-154.44500 	KNGY914 	BM	107.2 PL	Adams Forest 	Forest Wardens 	FM 	Public Works 
-156.22500 	KNIQ430 	BM	107.2 PL	Adams DPW 	Highway Department 	FMN 	Public Works 
-154.41500 	KNBU762 	BM	107.2 PL	Cheshire FG 	Fireground 	FMN 	Fire-Tac 
-151.07000 	WQFL817 	BM	107.2 PL	Cheshire DPW 	Public Works 	FMN 	Public Works 
-154.87500 	KXQ866 	BM	107.2 PL	Dalton PD 	Police 	FMN 	Law Dispatch 
-153.81500 	KDO270 	BM	107.2 PL	Dalton FD 	Fire Operations 	FMN 	Fire Dispatch 
-152.28500 	WPQD282 	RM	167.9 PL	CBRSD-Ops 	Central Berkshire Regional School District - Operations 	FMN 	Schools 
-155.43000 	KXF667 	RM	146.2 PL	Eg Tie to NY 	Tie to Columbia County NY 	FMN 	Law Talk 
-156.12000 	WPVA248 	BM	107.2 PL	EgremontDPW 	Public Works 	FMN 	Public Works 
-158.91000 	WQKR543 	BM		Gr.Barr PD16 	Police Tactical - Ch. 16  	DMRE 	Law Tac 
-155.76000 	KBA482 	BM	118.8 PL	Gr.Bar DPW 	Public Works/Water 	FMN 	Public Works 
-154.72500 	WPGN359 	BM	413 DPL	Hinsdale PD 	Police Department 	FMN 	Law Dispatch 
-155.64000 	WQIA456 	RM	107.2 PL	Hinsdale FD 	Fire Operations 	FMN 	Fire Dispatch 
-159.63750 	 	RM	107.2 PL	Hinsdle FD-R 	FD VHF Repeater (Repeats County 154.310) 	FMN 	Fire Dispatch 
-154.07000 	WQIA496 	M	107.2 PL	Hinsdale FG 	Fireground 	FMN 	Fire-Tac 
-453.50000 	WQJH830 	RM	107.2 PL	LanesboFDXP1 	FD UHF Crosspatch (w/ 154.310) - Summer St Repeater 	FMN 	Fire-Tac 
-453.92500 	WQJH830 	RM	107.2 PL	LanesboFDXP2 	FD UHF Crosspatch (w/ 154.310) - Cheshire Rd Repeater 	FMN 	Fire-Tac 
-155.86500 	WPES850 	BM	107.2 PL	Lnsbro DPW 	Highway Department 	FMN 	Public Works 
-154.75500 	WQDM638 	RM	107.2 PL	Lee PD 	Police 	FMN 	Law Dispatch 
-154.04000 	KNIZ329 	BM	107.2 PL	Lee DPW 	Public Works 	FMN 	Public Works 
-152.40500 	WQSM230 	BM	243 DPL	Lenox Schools 	Public Schools Maintenance 	FMN 	Schools 
-156.01500 	WPFE671 	BM		MontereyPD2 	PD - Secondary (Secure) 	DMRE 	Law Talk 
-151.05500 	WNFS588 	BM	107.2 PL	Monterey DPW 	Highway (Also used by FD) 	FMN 	Public Works 
-155.94000 	 	RM	107.2 PL	NM Fire Tac 	Fire - Tac 	FMN 	Fire-Tac 
-156.21000 	WPVU259 	RM	118.8 PL	NAPD Disp 	Police Operations 	FMN 	Law Dispatch 
-154.23500 	KNEX803 	BM	107.2 PL	NAPD 2 	Police - Tie with Williamstown Police 	FMN 	Law Tac 
-170.15000 	KNGE762 	RM	107.2 PL	NAFD Disp 	Fire Operations 	FM 	Fire Dispatch 
-155.84250 	WXK700 	RM	151.4 PL	NA EMS 1 	EMS Ch. 1  	FMN 	EMS Dispatch 
-155.17500 	WXK700 	BM	151.4 PL	NA EMS 2 	EMS Ch. 2  	FMN 	EMS-Tac 
-155.83500 	 	BM		NA Ambulance 	Ambulance Svc 	FMN 	EMS Dispatch 
-156.13500 	WQID668 	BM	107.2 PL	NA DPW 	Public Works 	FMN 	Public Works 
-154.05500 	KNCU927 	BM		Peru PD 	Police (Local Operations) 	FMN 	Law Dispatch 
-154.13000 	KDU371 	M	107.2 PL	Peru FG 	Fireground 	FMN 	Fire-Tac 
-154.80000 	WQGY792 	RM	172 DPL	Police1 Disp 	Police Ch. 1 Primary Operations 	FMN 	Law Dispatch 
-155.07000 	WQGY792 	RM	118.8 PL	Police 2 Sec 	Police Ch. 2 Secondary Operations 	FMN 	Law Dispatch 
-154.34000 	KNCG444 	RM	107.2 PL	Fire/EMS 	Fire/EMS 	FMN 	Fire Dispatch 
-154.22000 	KNCG444 	BM	107.2 PL	Fireground 	Fireground 	FMN 	Fire-Tac 
-155.28000 	KNFG805 	RM	88.5 PL	Cnty Amb Svc 	County Ambulance Service 	FMN 	EMS Dispatch 
-151.40000 	KNGF805 	BM	546 DPL	Cnty Amb Svc 	County Ambulance Service 	FMN 	EMS Dispatch 
-152.39000 	WQNM511 	RM	77.0 PL	ActionPitts 	Action Ambulance - Pittsfield Dispatch 	FM 	EMS Dispatch 
-37.94000 	WPEX798 	BM	179.9 PL	PittsfildDPW 	Public Works 	FM 	Public Works 
-37.76000 	WPEZ485 	BM	179.9 PL	Pittsfld H2O 	Water Department 	FM 	Public Works 
-153.00500 	WQII970 	BM	051 DPL	Pittsfd Schl 	School Department 	FMN 	Schools 
-152.93000 	WRCY987 	RM	CC 13TG 4700SL 1	HerbergMS 	Herberg Middle School 	DMR 	Schools 
-151.68500 	WQIE516 	BM	051 DPL	Conte School 	Conte Elementary School 	FMN 	Schools 
-151.68500 	WQIE516 	BM	143 DPL	Pittsfd Bus 	School Busses 	FMN 	Schools 
-151.77500 	WQIE516 	BM	143 DPL	Pittsfd Bus 	School Busses 	FMN 	Schools 
-157.62000 	WPMC645 	BM	151.4 PL	PittsfieldHousin 	Housing Authority 	FMN 	Public Works 
-453.37500 	WPYM237 	RM	413 DPL	Pitsfld Park 	Parks Department 	FMN 	Public Works 
-462.42500 	 	BM	103.5 PL	WaconahPark 	Waconah Park - Operations 	FMN 	Business 
-154.10000 	WQSH201 	BM	107.2 PL	Richmond DPW 	Public Works 	FMN 	Public Works 
-154.31000 	WQKA635 	RM	107.2 PL	Sandisfld FD 	Fire (County Dispatch) (Tolland Tower Repeater) 	FMN 	Fire Dispatch 
-154.20500 	WPBG767 	BM	107.2 PL	Savoy FG 	Fireground 	FMN 	Fire-Tac 
-154.95000 	WPNZ202 	BM	107.2 PL	Sheffield PD 	Police Secondary 	FMN 	Law Talk 
-154.78500 	WPNZ724 	BM	107.2 PL	SPD PTAC 	Police - Tactical 	FMN 	Law Tac 
-155.95500 	WNAN683 	BM	107.2 PL	Sheffld DPW 	Public Works 	FMN 	Public Works 
-155.28000 	 	RM	031 DPL	SBVAS-Talk 	SBVAS - Ambulance Secondary (Simplex also used) 	FMN 	EMS-Talk 
-156.19500 	WNJR471 	BM	107.2 PL	Tyringhm DPW 	Public Works 	FMN 	Public Works 
-153.99500 	WQQV693 	BM	107.2 PL	WStockDPW-PD2 	DPW / PD Secondary 	FMN 	Multi-Dispatch 
-155.25000 	KNAK468 	BM	107.2 PL	Wlmstwn PD 	Police 	FMN 	Law Dispatch 
-154.23500 	KNEX803 	BM	107.2 PL	Area PD Tie 	Police - Tie with North Adams Police 	FMN 	Law Talk 
-153.74000 	KD29801 	M	107.2 PL	Area PD F3 	Police 	FMN 	Law Tac 
-154.13000 	KNEX803 	BM	107.2 PL	Wlmstwn FD 	Fire 	FMN 	Fire Dispatch 
-155.22000 	WPWM565 	BM	127.3 PL	Wlmstwn EMS 	EMS 	FMN 	EMS Dispatch 
-155.71500 	WXY514 	RM	192.8 PL	Windsor FD 	Police/Fire Dispatch 	FMN 	Multi-Dispatch 
-152.95250 	WQWR765 	RM	107.2 PL	BCC SecurityOps 	Security / Operations 	FMN 	Security 
-155.88000 	KNBU623 	RM	107.2 PL	BCC Security 2 	Security/Operations 	FMN 	Security 
-152.44250 	WQKE436 	RM	CC 1TG 16777215SL 1	MMRHS 	Monument Mountain Reg. High School 	DMR 	Schools 
-152.35250 	WQOV326 	RM	CC 1TG 100SL 1	MCLA Securty 	Campus Security 	DMR 	Security 
-152.33750 	WQOV326 	RM	071 DPL	MCLA Maint 	Campus Maintenance 	FMN 	Schools 
-452.01250 	WQAR378 	RM	97.4 PL	MissHallSec 	Security 	FMN 	Security 
-157.62000 	KB43944 	RM	371 DPL	Simons Rock 	Campus Security 	FMN 	Security 
-461.77500 	KQY579 	RM	146.2 PL	Wlms CollSec 	Campus Security 	FM 	Security 
-464.87500 	KQY579 	RM	146.2 PL	Wlms CollMnt 	Campus Maintenance 	FM 	Schools 
-152.28500 	WPQD287 	RM	167.9 PL	CBRSD 	CBRSD School Operations 	FMN 	Schools 
-152.42750 	WQPP543 	RM	627 DPL	SBRSD 	SBRSD Operations 	FMN 	Schools 
-Commonwealth Of Massachusetts Interoperable Radio System (CoMIRS)	 Project 25 Phase II	 Regional	Massachusetts State Police	 Motorola Type II SmartZone	 Statewide	Northeast Utilities (EDACS)	 EDACS Narrowband Networked
- Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	
+154.31000 	   	WPBG767 	BM	107.2 PL	Brkshre Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+152.98250 	   	WQFD787 	BM	131.8 PL	Brk FD Resp 	Fire Response 	FMN 	Fire Dispatch 
+154.16000 	   	WPBG767 	BM	107.2 PL	Brkshre FG1 	Fireground 1 (North) 	FMN 	Fire-Tac 
+158.80500 	   	WQAD819 	M	107.2 PL	Brkshre FG2 	Fireground 2 (South) 	FMN 	Fire-Tac 
+153.88250 	   	WQAD819 	BM	343 DPL	Berkshre FG3 	Fireground 3 (Countywide Overflow/Training) 	FMN 	Fire-Tac 
+155.80500 	   	WQAD819 	M	107.2 PL	Brk FD Int. 	Fireground Interior 	FMN 	Fire-Tac 
+159.75750 	   	WQFD787 	BM	413 DPL	Brk FD Cmd 	Fireground Command 	FMN 	Fire-Tac 
+153.96500 	   	KZF949 	BM	107.2 PL	BerkCty PD 1 	County Police Dispatch - Primary 	FMN 	Law Dispatch 
+155.77500 	   	WXM323 	BM	107.2 PL	BerkCty PD S 	County Police Dispatch South - Warner Mountain Tower 	FMN 	Law Dispatch 
+154.74000 	   	KZF949 	BM	107.2 PL	Berk Cty PDI 	County Police "Interagency" 	FMN 	Law Talk 
+153.96500 	   	WQCC994 	RM	206.5 PL	Berk WMLEC 	WMLEC (Western Mass Intercity) - Tie 	FMN 	Interop 
+460.38750 	465.38750  	WQIZ231 	RM	107.2 PL	BC PD Icity 	County Police Intercity  	FMN 	Interop 
+460.22500 	465.22500  	WQKV738 	RM	206.5 PL	WMLEC Berk 	WMLEC (Western Mass Intercity) - Berkshire Link 	FMN 	Interop 
+851.05000 	806.05000  	WPSK801 	RM	CC 1TG 1000SL 1	BCSO Jail A 	County Jail Ops 	DMRE 	Corrections 
+852.88750 	807.88750  	WPSK801 	RM		BCSO Jail B 	County Jail Ops 	FM 	Corrections 
+853.50000 	808.50000  	WPSK801 	BM		BCSO Jail C 	County Jail Ops 	FM 	Corrections 
+155.38500 	151.46750  	WQYV748 	RM	107.2 PL	BerkCMED 385-S 	Berkshire CMED - South (Warner Mtn) 	FMN 	Hospital 
+155.38500 	151.03250  	WQYV749 	RM	107.2 PL	BerkCMED 385-C 	Berkshire CMED - Central (Lenox Mtn) 	FMN 	Hospital 
+155.34000 	   	WQYV748 	BM	107.2 PL	BerkCMED 340-Dir 	Berkshire CMED - Direct 	FMN 	Hospital 
+155.13000 	   	KNDA824 	BM	107.2 PL	Adams PD 	Police Department 	FMN 	Law Dispatch 
+153.89000 	   	WNQM572 	BM	107.2 PL	Adams FD B 	Fire Operations/Fireground 	FMN 	Fire-Tac 
+155.22000 	   	WPWM565 	BM	107.2 PL	Adams EMS 	EMS 	FMN 	EMS-Tac 
+154.44500 	   	KNGY914 	BM	107.2 PL	Adams Forest 	Forest Wardens 	FM 	Public Works 
+156.22500 	   	KNIQ430 	BM	107.2 PL	Adams DPW 	Highway Department 	FMN 	Public Works 
+154.41500 	   	KNBU762 	BM	107.2 PL	Cheshire FG 	Fireground 	FMN 	Fire-Tac 
+151.07000 	   	WQFL817 	BM	107.2 PL	Cheshire DPW 	Public Works 	FMN 	Public Works 
+154.87500 	   	KXQ866 	BM	107.2 PL	Dalton PD 	Police 	FMN 	Law Dispatch 
+153.81500 	   	KDO270 	BM	107.2 PL	Dalton FD 	Fire Operations 	FMN 	Fire Dispatch 
+152.28500 	157.54500  	WPQD282 	RM	167.9 PL	CBRSD-Ops 	Central Berkshire Regional School District - Operations 	FMN 	Schools 
+155.43000 	159.42000  	KXF667 	RM	146.2 PL	Eg Tie to NY 	Tie to Columbia County NY 	FMN 	Law Talk 
+156.12000 	   	WPVA248 	BM	107.2 PL	EgremontDPW 	Public Works 	FMN 	Public Works 
+158.91000 	   	WQKR543 	BM		Gr.Barr PD16 	Police Tactical - Ch. 16  	DMRE 	Law Tac 
+155.76000 	   	KBA482 	BM	118.8 PL	Gr.Bar DPW 	Public Works/Water 	FMN 	Public Works 
+154.72500 	   	WPGN359 	BM	413 DPL	Hinsdale PD 	Police Department 	FMN 	Law Dispatch 
+155.64000 	159.07500  	WQIA456 	RM	107.2 PL	Hinsdale FD 	Fire Operations 	FMN 	Fire Dispatch 
+159.63750 	154.31000  	 	RM	107.2 PL	Hinsdle FD-R 	FD VHF Repeater (Repeats County 154.310) 	FMN 	Fire Dispatch 
+154.07000 	   	WQIA496 	M	107.2 PL	Hinsdale FG 	Fireground 	FMN 	Fire-Tac 
+453.50000 	458.50000  	WQJH830 	RM	107.2 PL	LanesboFDXP1 	FD UHF Crosspatch (w/ 154.310) - Summer St Repeater 	FMN 	Fire-Tac 
+453.92500 	458.92500  	WQJH830 	RM	107.2 PL	LanesboFDXP2 	FD UHF Crosspatch (w/ 154.310) - Cheshire Rd Repeater 	FMN 	Fire-Tac 
+155.86500 	   	WPES850 	BM	107.2 PL	Lnsbro DPW 	Highway Department 	FMN 	Public Works 
+154.75500 	159.39000  	WQDM638 	RM	107.2 PL	Lee PD 	Police 	FMN 	Law Dispatch 
+154.04000 	   	KNIZ329 	BM	107.2 PL	Lee DPW 	Public Works 	FMN 	Public Works 
+152.40500 	   	WQSM230 	BM	243 DPL	Lenox Schools 	Public Schools Maintenance 	FMN 	Schools 
+156.01500 	   	WPFE671 	BM		MontereyPD2 	PD - Secondary (Secure) 	DMRE 	Law Talk 
+151.05500 	   	WNFS588 	BM	107.2 PL	Monterey DPW 	Highway (Also used by FD) 	FMN 	Public Works 
+155.94000 	   	 	RM	107.2 PL	NM Fire Tac 	Fire - Tac 	FMN 	Fire-Tac 
+156.21000 	159.25500  	WPVU259 	RM	118.8 PL	NAPD Disp 	Police Operations 	FMN 	Law Dispatch 
+154.23500 	   	KNEX803 	BM	107.2 PL	NAPD 2 	Police - Tie with Williamstown Police 	FMN 	Law Tac 
+170.15000 	158.98500  	KNGE762 	RM	107.2 PL	NAFD Disp 	Fire Operations 	FM 	Fire Dispatch 
+155.84250 	159.06750  	WXK700 	RM	151.4 PL	NA EMS 1 	EMS Ch. 1  	FMN 	EMS Dispatch 
+155.17500 	   	WXK700 	BM	151.4 PL	NA EMS 2 	EMS Ch. 2  	FMN 	EMS-Tac 
+155.83500 	   	 	BM		NA Ambulance 	Ambulance Svc 	FMN 	EMS Dispatch 
+156.13500 	   	WQID668 	BM	107.2 PL	NA DPW 	Public Works 	FMN 	Public Works 
+154.05500 	   	KNCU927 	BM		Peru PD 	Police (Local Operations) 	FMN 	Law Dispatch 
+154.13000 	   	KDU371 	M	107.2 PL	Peru FG 	Fireground 	FMN 	Fire-Tac 
+154.80000 	158.94000  	WQGY792 	RM	172 DPL	Police1 Disp 	Police Ch. 1 Primary Operations 	FMN 	Law Dispatch 
+155.07000 	153.77000  	WQGY792 	RM	118.8 PL	Police 2 Sec 	Police Ch. 2 Secondary Operations 	FMN 	Law Dispatch 
+154.34000 	158.97000  	KNCG444 	RM	107.2 PL	Fire/EMS 	Fire/EMS 	FMN 	Fire Dispatch 
+154.22000 	   	KNCG444 	BM	107.2 PL	Fireground 	Fireground 	FMN 	Fire-Tac 
+155.28000 	   	KNFG805 	RM	88.5 PL	Cnty Amb Svc 	County Ambulance Service 	FMN 	EMS Dispatch 
+151.40000 	   	KNGF805 	BM	546 DPL	Cnty Amb Svc 	County Ambulance Service 	FMN 	EMS Dispatch 
+152.39000 	157.65000  	WQNM511 	RM	77.0 PL	ActionPitts 	Action Ambulance - Pittsfield Dispatch 	FM 	EMS Dispatch 
+37.94000 	   	WPEX798 	BM	179.9 PL	PittsfildDPW 	Public Works 	FM 	Public Works 
+37.76000 	   	WPEZ485 	BM	179.9 PL	Pittsfld H2O 	Water Department 	FM 	Public Works 
+153.00500 	   	WQII970 	BM	051 DPL	Pittsfd Schl 	School Department 	FMN 	Schools 
+152.93000 	   	WRCY987 	RM	CC 13TG 4700SL 1	HerbergMS 	Herberg Middle School 	DMR 	Schools 
+151.68500 	   	WQIE516 	BM	051 DPL	Conte School 	Conte Elementary School 	FMN 	Schools 
+151.68500 	   	WQIE516 	BM	143 DPL	Pittsfd Bus 	School Busses 	FMN 	Schools 
+151.77500 	   	WQIE516 	BM	143 DPL	Pittsfd Bus 	School Busses 	FMN 	Schools 
+157.62000 	   	WPMC645 	BM	151.4 PL	PittsfieldHousin 	Housing Authority 	FMN 	Public Works 
+453.37500 	458.37500  	WPYM237 	RM	413 DPL	Pitsfld Park 	Parks Department 	FMN 	Public Works 
+462.42500 	   	 	BM	103.5 PL	WaconahPark 	Waconah Park - Operations 	FMN 	Business 
+154.10000 	   	WQSH201 	BM	107.2 PL	Richmond DPW 	Public Works 	FMN 	Public Works 
+154.31000 	158.75250  	WQKA635 	RM	107.2 PL	Sandisfld FD 	Fire (County Dispatch) (Tolland Tower Repeater) 	FMN 	Fire Dispatch 
+154.20500 	   	WPBG767 	BM	107.2 PL	Savoy FG 	Fireground 	FMN 	Fire-Tac 
+154.95000 	   	WPNZ202 	BM	107.2 PL	Sheffield PD 	Police Secondary 	FMN 	Law Talk 
+154.78500 	   	WPNZ724 	BM	107.2 PL	SPD PTAC 	Police - Tactical 	FMN 	Law Tac 
+155.95500 	   	WNAN683 	BM	107.2 PL	Sheffld DPW 	Public Works 	FMN 	Public Works 
+155.28000 	155.22000  	 	RM	031 DPL	SBVAS-Talk 	SBVAS - Ambulance Secondary (Simplex also used) 	FMN 	EMS-Talk 
+156.19500 	   	WNJR471 	BM	107.2 PL	Tyringhm DPW 	Public Works 	FMN 	Public Works 
+153.99500 	   	WQQV693 	BM	107.2 PL	WStockDPW-PD2 	DPW / PD Secondary 	FMN 	Multi-Dispatch 
+155.25000 	   	KNAK468 	BM	107.2 PL	Wlmstwn PD 	Police 	FMN 	Law Dispatch 
+154.23500 	   	KNEX803 	BM	107.2 PL	Area PD Tie 	Police - Tie with North Adams Police 	FMN 	Law Talk 
+153.74000 	   	KD29801 	M	107.2 PL	Area PD F3 	Police 	FMN 	Law Tac 
+154.13000 	   	KNEX803 	BM	107.2 PL	Wlmstwn FD 	Fire 	FMN 	Fire Dispatch 
+155.22000 	   	WPWM565 	BM	127.3 PL	Wlmstwn EMS 	EMS 	FMN 	EMS Dispatch 
+155.71500 	158.74500  	WXY514 	RM	192.8 PL	Windsor FD 	Police/Fire Dispatch 	FMN 	Multi-Dispatch 
+152.95250 	   	WQWR765 	RM	107.2 PL	BCC SecurityOps 	Security / Operations 	FMN 	Security 
+155.88000 	153.93500  	KNBU623 	RM	107.2 PL	BCC Security 2 	Security/Operations 	FMN 	Security 
+152.44250 	157.70250  	WQKE436 	RM	CC 1TG 16777215SL 1	MMRHS 	Monument Mountain Reg. High School 	DMR 	Schools 
+152.35250 	157.61250  	WQOV326 	RM	CC 1TG 100SL 1	MCLA Securty 	Campus Security 	DMR 	Security 
+152.33750 	157.59750  	WQOV326 	RM	071 DPL	MCLA Maint 	Campus Maintenance 	FMN 	Schools 
+452.01250 	457.01250  	WQAR378 	RM	97.4 PL	MissHallSec 	Security 	FMN 	Security 
+157.62000 	160.02000  	KB43944 	RM	371 DPL	Simons Rock 	Campus Security 	FMN 	Security 
+461.77500 	466.77500  	KQY579 	RM	146.2 PL	Wlms CollSec 	Campus Security 	FM 	Security 
+464.87500 	469.87500  	KQY579 	RM	146.2 PL	Wlms CollMnt 	Campus Maintenance 	FM 	Schools 
+152.28500 	157.54500  	WPQD287 	RM	167.9 PL	CBRSD 	CBRSD School Operations 	FMN 	Schools 
+152.42750 	157.68750  	WQPP543 	RM	627 DPL	SBRSD 	SBRSD Operations 	FMN 	Schools 
+Commonwealth Of Massachusetts Interoperable Radio System (CoMIRS)	 Project 25 Phase II	 Regional	Massachusetts State Police	 Motorola Type II SmartZone	 Statewide	Northeast Utilities	 MPT-1327 Standard	 Various
+Northeast Utilities (EDACS)	 EDACS Narrowband Networked	 Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	

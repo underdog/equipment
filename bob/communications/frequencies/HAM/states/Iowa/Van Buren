@@ -1,17 +1,16 @@
-156.21000 	WPME285 	RM	891 NAC | TG 1	VanB Sheriff 	Sheriff 	P25 	Law Dispatch 
-155.01000 	KAG661 	BM		VanB Sh Disp 	Sheriff	 	FMN 	Law Dispatch 
-155.53500 	KAG661 	B		VanB ShInfoB 	Sheriff Information - Base 	FMN 	Law Talk 
-155.91000 	KAG661 	M		VanB ShInfoM 	Sheriff Information - Mobiles 	FMN 	Law Talk 
-154.31000 	WQEL597 	RM	141.3 PL	VanBurenFire 	Fire: Dispatch	 	FMN 	Fire Dispatch 
-151.09250 	WRL675 	BM		VBC Fire Can 	Fire Dispatch - Cantril Tower	 	FMN 	Fire Dispatch 
-154.11500 	WRL675 	BM		VBC Fire Har 	Fire Dispatch - Harrisburg Tower 	FMN 	Fire Dispatch 
-156.18750 	WRL675 	BM		VBC Fire Sto 	Fire Dispatch - Stockport Tower	 	FMN 	Fire Dispatch 
-158.75250 	WRL675 	BM		VBC Fire MtS 	Fire Dispatch - Mt. Sterling Tower 	FMN 	Fire Dispatch 
-156.13500 	WQDY263 	RM	CC 1TG *SL *	VBC Roads 	Road Department 	DMR 	Public Works 
-155.20500 	WZY441 	BM		VanBrn Hosp1 	Van Buren County Hospital 	FM 	Hospital 
-155.26500 	WZY441 	BM		VanBrn Hosp2 	Van Buren County Hospital 	FM 	Hospital 
-158.94000 	WQDD264 	BM		Douds FG 	Fireground 	FMN 	Fire-Tac 
-155.88000 	WNJZ533 	BM	123.0 PL	Frmngtn Fire 	Fire: Dispatch / Tone-Outs 	FMN 	Fire Dispatch 
-464.07500 	WPLH750 	RM	107.2 PL	Harmony Sch Bus 	Buses  	FMN 	Schools 
-Alliant Energy	 DMR Tier 3	 Various	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	RACOM Network	 EDACS Networked Standard
- Various	
+156.21000 	153.80000  	WPME285 	RM	891 NAC | TG 1	VanB Sheriff 	Sheriff 	P25 	Law Dispatch 
+155.01000 	   	KAG661 	BM		VanB Sh Disp 	Sheriff	 	FMN 	Law Dispatch 
+155.53500 	   	KAG661 	B		VanB ShInfoB 	Sheriff Information - Base 	FMN 	Law Talk 
+155.91000 	   	KAG661 	M		VanB ShInfoM 	Sheriff Information - Mobiles 	FMN 	Law Talk 
+154.31000 	159.04500  	WQEL597 	RM	141.3 PL	VanBurenFire 	Fire: Dispatch	 	FMN 	Fire Dispatch 
+151.09250 	   	WRL675 	BM		VBC Fire Can 	Fire Dispatch - Cantril Tower	 	FMN 	Fire Dispatch 
+154.11500 	   	WRL675 	BM		VBC Fire Har 	Fire Dispatch - Harrisburg Tower 	FMN 	Fire Dispatch 
+156.18750 	   	WRL675 	BM		VBC Fire Sto 	Fire Dispatch - Stockport Tower	 	FMN 	Fire Dispatch 
+158.75250 	   	WRL675 	BM		VBC Fire MtS 	Fire Dispatch - Mt. Sterling Tower 	FMN 	Fire Dispatch 
+156.13500 	159.40500  	WQDY263 	RM	CC 1TG *SL *	VBC Roads 	Road Department 	DMR 	Public Works 
+155.20500 	   	WZY441 	BM		VanBrn Hosp1 	Van Buren County Hospital 	FM 	Hospital 
+155.26500 	   	WZY441 	BM		VanBrn Hosp2 	Van Buren County Hospital 	FM 	Hospital 
+158.94000 	   	WQDD264 	BM		Douds FG 	Fireground 	FMN 	Fire-Tac 
+155.88000 	   	WNJZ533 	BM	123.0 PL	Frmngtn Fire 	Fire: Dispatch / Tone-Outs 	FMN 	Fire Dispatch 
+464.07500 	469.07500  	WPLH750 	RM	107.2 PL	Harmony Sch Bus 	Buses  	FMN 	Schools 
+Alliant Energy	 DMR Tier 3	 Various	Northeast Missouri Electric Power Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Palmyra	RACOM Network	 EDACS Networked Standard	 Various
