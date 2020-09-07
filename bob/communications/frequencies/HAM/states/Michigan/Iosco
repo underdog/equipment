@@ -1,28 +1,28 @@
-155.76000 	WPLR578 	RM		Iosco EMA 	Emergency Management (unknown input) 	FMN 	Emergency Ops 
-154.41500 	WNJV936 	RM	103.5 PL	Iosco Fire 	Fire - Countywide Dispatch 	FMN 	Fire Dispatch 
-153.81500 	WPLR578 	M		Iosco Local 	Local Government 	FMN 	Public Works 
-156.24000 	KNDR715 	RM		Iosco Roads 	Road Commission 	DMR 	Public Works 
-151.14500 	 	BM		Iosco Parks 	Parks [No License] 	FMN 	Public Works 
-155.80500 	KNNP721 	BM		AuSable DPW/FD 	Fire/Public Works 	FMN 	Multi-Talk 
-154.16000 	KUX252 	BM		E.Tawas FD Local 	Fire: Local 	FMN 	Fire Dispatch 
-155.08500 	WNDC776 	BM	731 DPL	East Tawas DPW 	Public Works 	FMN 	Public Works 
-154.17500 	KWV516 	RM		Grant Twp Fire 	Fire: Local 	FMN 	Fire-Tac 
-155.82000 	WQFJ404 	RM		PlainfieldFD Ops 	Fire Department Operations 	FMN 	Fire-Talk 
-154.20500 	KNCA549 	BM		Tawas Fire 	Fire - City Ops 	FMN 	Fire Dispatch 
-155.34000 	KIT918 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
-167.11250 	 	BM	293 NAC	CoastGuard AG101 	Coast Guard AG101 	P25e 	Federal 
-463.25000 	WQEM339 	RM	88.5 PL	Oscoda Buses 	Transportation [F-1] 	FMN 	Schools 
-461.57500 	WPYU265 	RM	131.8 PL	Tawas School Bus 	Transportation [F-1] 	FMN 	Schools 
-151.68500 	KNNU594 	BM		OSC AA Ops 	Operations 	FMN 	Public Works 
-116.10000 	 	BM	CSQ	OSC AWOS-3 	AWOS-3 	AM 	Aircraft 
-123.00000 	 	BM	CSQ	OSC Tower 	CTAF/UNICOM 	AM 	Aircraft 
-118.52500 	 	BM	CSQ	MPLS App/Dep 	Minneapolis Center - Approach / Departure  	AM 	Aircraft 
-464.03750 	WQYI967 	M		Kalitta 1 	Operations 1 	FMN 	Business 
-464.08750 	WQYI967 	M		Kalitta 2 	Operations 2 	FMN 	Business 
-464.16250 	WQYI967 	M		Kalitta 3 	Operations 3 	FMN 	Business 
-469.03750 	WQYI967 	M		Kalitta 4 	Operations 4 	FMN 	Business 
-469.08750 	WQYI967 	M		Kalitta 5 	Operations 5 	FMN 	Business 
-469.16250 	WQYI967 	M		Kalitta 6 	Operations 6 	FMN 	Business 
-251.15000 	 	BM	CSQ	Tower UHF 	Tower 	AM 	Aircraft 
-Consumers Energy	 EDACS Networked Standard	 Various	Louchart Enterprises (800 MHz)	 Motorola Type II SmartZone	 Bay City	Louchart Enterprises (UHF)	 LTR Standard and Passport
- Bay City	United States Gypsum Company	 LTR Standard	 Tawas City	
+155.76000 	   	WPLR578 	RM		Iosco EMA 	Emergency Management (unknown input) 	FMN 	Emergency Ops 
+154.41500 	153.77000  	WNJV936 	RM	103.5 PL	Iosco Fire 	Fire - Countywide Dispatch 	FMN 	Fire Dispatch 
+153.81500 	   	WPLR578 	M		Iosco Local 	Local Government 	FMN 	Public Works 
+156.24000 	159.10500  	KNDR715 	RM		Iosco Roads 	Road Commission 	DMR 	Public Works 
+151.14500 	   	 	BM		Iosco Parks 	Parks [No License] 	FMN 	Public Works 
+155.80500 	   	KNNP721 	BM		AuSable DPW/FD 	Fire/Public Works 	FMN 	Multi-Talk 
+154.16000 	   	KUX252 	BM		E.Tawas FD Local 	Fire: Local 	FMN 	Fire Dispatch 
+155.08500 	   	WNDC776 	BM	731 DPL	East Tawas DPW 	Public Works 	FMN 	Public Works 
+154.17500 	150.77500  	KWV516 	RM		Grant Twp Fire 	Fire: Local 	FMN 	Fire-Tac 
+155.82000 	154.07000  	WQFJ404 	RM		PlainfieldFD Ops 	Fire Department Operations 	FMN 	Fire-Talk 
+154.20500 	   	KNCA549 	BM		Tawas Fire 	Fire - City Ops 	FMN 	Fire Dispatch 
+155.34000 	   	KIT918 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+167.11250 	   	 	BM	293 NAC	CoastGuard AG101 	Coast Guard AG101 	P25e 	Federal 
+463.25000 	468.25000  	WQEM339 	RM	88.5 PL	Oscoda Buses 	Transportation [F-1] 	FMN 	Schools 
+461.57500 	466.57500  	WPYU265 	RM	131.8 PL	Tawas School Bus 	Transportation [F-1] 	FMN 	Schools 
+151.68500 	   	KNNU594 	BM		OSC AA Ops 	Operations 	FMN 	Public Works 
+116.10000 	   	 	BM	CSQ	OSC AWOS-3 	AWOS-3 	AM 	Aircraft 
+123.00000 	   	 	BM	CSQ	OSC Tower 	CTAF/UNICOM 	AM 	Aircraft 
+118.52500 	   	 	BM	CSQ	MPLS App/Dep 	Minneapolis Center - Approach / Departure  	AM 	Aircraft 
+464.03750 	   	WQYI967 	M		Kalitta 1 	Operations 1 	FMN 	Business 
+464.08750 	   	WQYI967 	M		Kalitta 2 	Operations 2 	FMN 	Business 
+464.16250 	   	WQYI967 	M		Kalitta 3 	Operations 3 	FMN 	Business 
+469.03750 	   	WQYI967 	M		Kalitta 4 	Operations 4 	FMN 	Business 
+469.08750 	   	WQYI967 	M		Kalitta 5 	Operations 5 	FMN 	Business 
+469.16250 	   	WQYI967 	M		Kalitta 6 	Operations 6 	FMN 	Business 
+251.15000 	   	 	BM	CSQ	Tower UHF 	Tower 	AM 	Aircraft 
+Consumers Energy	 EDACS Networked Standard	 Various	Louchart Enterprises (800 MHz)	 Motorola Type II SmartZone	 Bay City	Louchart Enterprises (UHF)	 LTR Standard and Passport	 Bay City
+United States Gypsum Company	 LTR Standard	 Tawas City	

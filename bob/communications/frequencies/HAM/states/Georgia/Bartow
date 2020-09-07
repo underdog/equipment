@@ -1,44 +1,43 @@
-151.38500 	KCN347 	RM	192.8 PL	BCSO Disp 	OLD Sheriff Dispatch 	FMN 	Law Dispatch 
-151.19000 	WNUQ307 	RM	103.5 PL	BCSO TAC 	OLD Sheriff 	FMN 	Law Talk 
-155.01000 	WNVX586 	B	127.3 PL	BC COUNTY 	OLD Sheriff (Interagency) 	FMN 	Interop 
-155.25000 	WNVX586 	B	186.2 PL	BCSO TAC 	OLD Sheriff 	FMN 	Law Talk 
-159.30000 	WNSO682 	RM	103.5 PL	BCSO Jail 	OLD Sheriff Jail Operations 	FMN 	Corrections 
-158.97750 	WQSE630 	BM		BCSO TRBO 	OLD Sheriff (TRBO) Vehicle Repeater 	DMR 	Law Talk 
-155.58750 	 	RM	206.5 PL	BC Sheriff 	OLD Sheriff 	FMN 	Law Dispatch 
-46.08000 	WNPV364 	BM	151.4 PL	BCFD Disp 	Fire Dispatch (+Adairsville) 	FMN 	Fire Dispatch 
-154.28000 	WNWQ701 	BM		BCFD M/A 	Fire Mutual Aid 	FMN 	Interop 
-159.31500 	WNPV364 	BM		BCFD PAC/RT 	Fire Vehicle Repeaters 	FMN 	Fire-Talk 
-154.01000 	WPAD568 	BM	114.8 PL	Alltoona FR1 	Allatoona Fire-Rescue 	FM 	Fire-Tac 
-154.20500 	WNWQ701 	BM		Alltoona FR2 	Allatoona Fire-Rescue 	FM 	Fire-Tac 
-155.29500 	KTV640 	BM	100.0 PL	BCEMS 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.17500 	WPGM220 	M		BCEMS TAC 	EMS 	FMN 	EMS-Tac 
-155.40000 	WNWA767 	BM		BCEMS 	EMS 	FMN 	EMS-Talk 
-46.58000 	KQP429 	BM		BC EMA VHFL 	Emergency Management Agency 	FM 	Emergency Ops 
-460.23750 	WQAK797 	RM		BC EMA UHF 	Emergency Management Agency 	FMN 	Emergency Ops 
-158.78250 	WPPC340 	RM		BC L Gov 	County Government 	FMN 	Other 
-453.31250 	WQPL400 	BM		BC BOE TIME 	Board of Education - Time Clocks 	FMN 	Data 
-453.52500 	WQIV730 	RM	100.0 PL	BC BOE 	Board of Educaton 	FMN 	Schools 
-461.95000 	WQOM699 	RM		Adairs HS 	Board of Education - Adairsville HS - Security/Maintenance 	FMN 	Schools 
-463.35000 	WQOM699 	RM		Adairs MS 	Board of Education - Adairsville MS - Security/Maintenance 	FMN 	Schools 
-452.38750 	WQOM700 	RM		White ES 	Board of Education - White ES Security/Maintenance 	FMN 	Schools 
-463.61250 	WQOM701 	RM		Woodland HS 	Board of Education - Woodland HS Security/Maintenance 	FMN 	Schools 
-155.25000 	KJK222 	BM		APD Dispatch 	Police Dispatch 	FM 	Law Dispatch 
-155.01000 	KJK222 	BM		APD M/A 	Police Interagency 	FMN 	Interop 
-156.08250 	WPDP927 	BM		Adair H2O 	Water Department Telemetry 	FMN 	Data 
-151.49750 	WNWT700 	RM	136.5 PL	CPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-155.01000 	KIA214 	BM		CPD M/A 	Police Interagency 	FMN 	Interop 
-154.20500 	WNRX797 	RM	103.5 PL	CFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
-151.01000 	WQBA997 	RM		C DOT 	Streets and Highway 	FMN 	Public Works 
-453.15000 	WNHU890 	RM		C BOE 	Board of Education 	FMN 	Schools 
-151.67000 	WPRU334 	RM	343 DPL	CLG 670 	City Government 	FMN 	Other 
-153.81500 	KNDV462 	RM		CLG 815 	City Government 	FMN 	Other 
-155.76000 	KBJ637 	BM		CLG 760 	City Government 	FMN 	Other 
-153.56000 	WQDR633 	RM		C Pub Works 	Public Works 	FMN 	Public Works 
-155.95500 	WQPD557 	BM		EPD 955 	Police Department 	FMN 	Law Talk 
-155.01000 	WQPD557 	BM		EPD M/A 	Police Interagency 	FMN 	Interop 
-451.08750 	WQBZ532 	RM	192.8 PL	Emerson H2O 	Emerson Water (Scada System) 	FM 	Utilities 
-159.14250 	WPWC861 	M		EPD Dispatch 	Police Dispatch 	FM 	Law Dispatch 
-155.01000 	WPMF573  	BM		KPD M/A 	Police Department Interagency (KPD dispatched by BCSO) 	FMN 	Interop 
-155.01000 	WRL674 	BM		WPD M/A 	Police Department Interagency (WPD Dispatched by BCSO) 	FMN 	Interop 
-Anheuser Busch Cartersville MOT	 Motorola Type II Smartnet	 Cartersville	Cobb Regional Radio System	 Project 25 Phase II	 Various	Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800
- Various	
+151.38500 	159.34500  	KCN347 	RM	192.8 PL	BCSO Disp 	OLD Sheriff Dispatch 	FMN 	Law Dispatch 
+151.19000 	155.98500  	WNUQ307 	RM	103.5 PL	BCSO TAC 	OLD Sheriff 	FMN 	Law Talk 
+155.01000 	   	WNVX586 	B	127.3 PL	BC COUNTY 	OLD Sheriff (Interagency) 	FMN 	Interop 
+155.25000 	   	WNVX586 	B	186.2 PL	BCSO TAC 	OLD Sheriff 	FMN 	Law Talk 
+159.30000 	153.75500  	WNSO682 	RM	103.5 PL	BCSO Jail 	OLD Sheriff Jail Operations 	FMN 	Corrections 
+158.97750 	150.81500  	WQSE630 	BM		BCSO TRBO 	OLD Sheriff (TRBO) Vehicle Repeater 	DMR 	Law Talk 
+155.58750 	   	 	RM	206.5 PL	BC Sheriff 	OLD Sheriff 	FMN 	Law Dispatch 
+46.08000 	47.66000  	WNPV364 	BM	151.4 PL	BCFD Disp 	Fire Dispatch (+Adairsville) 	FMN 	Fire Dispatch 
+154.28000 	   	WNWQ701 	BM		BCFD M/A 	Fire Mutual Aid 	FMN 	Interop 
+159.31500 	   	WNPV364 	BM		BCFD PAC/RT 	Fire Vehicle Repeaters 	FMN 	Fire-Talk 
+154.01000 	   	WPAD568 	BM	114.8 PL	Alltoona FR1 	Allatoona Fire-Rescue 	FM 	Fire-Tac 
+154.20500 	   	WNWQ701 	BM		Alltoona FR2 	Allatoona Fire-Rescue 	FM 	Fire-Tac 
+155.29500 	   	KTV640 	BM	100.0 PL	BCEMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.17500 	   	WPGM220 	M		BCEMS TAC 	EMS 	FMN 	EMS-Tac 
+155.40000 	   	WNWA767 	BM		BCEMS 	EMS 	FMN 	EMS-Talk 
+46.58000 	   	KQP429 	BM		BC EMA VHFL 	Emergency Management Agency 	FM 	Emergency Ops 
+460.23750 	465.23750  	WQAK797 	RM		BC EMA UHF 	Emergency Management Agency 	FMN 	Emergency Ops 
+158.78250 	153.94250  	WPPC340 	RM		BC L Gov 	County Government 	FMN 	Other 
+453.31250 	   	WQPL400 	BM		BC BOE TIME 	Board of Education - Time Clocks 	FMN 	Data 
+453.52500 	458.52500  	WQIV730 	RM	100.0 PL	BC BOE 	Board of Educaton 	FMN 	Schools 
+461.95000 	466.95000  	WQOM699 	RM		Adairs HS 	Board of Education - Adairsville HS - Security/Maintenance 	FMN 	Schools 
+463.35000 	468.35000  	WQOM699 	RM		Adairs MS 	Board of Education - Adairsville MS - Security/Maintenance 	FMN 	Schools 
+452.38750 	457.38750  	WQOM700 	RM		White ES 	Board of Education - White ES Security/Maintenance 	FMN 	Schools 
+463.61250 	468.61250  	WQOM701 	RM		Woodland HS 	Board of Education - Woodland HS Security/Maintenance 	FMN 	Schools 
+155.25000 	   	KJK222 	BM		APD Dispatch 	Police Dispatch 	FM 	Law Dispatch 
+155.01000 	   	KJK222 	BM		APD M/A 	Police Interagency 	FMN 	Interop 
+156.08250 	   	WPDP927 	BM		Adair H2O 	Water Department Telemetry 	FMN 	Data 
+151.49750 	155.66250  	WNWT700 	RM	136.5 PL	CPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+155.01000 	   	KIA214 	BM		CPD M/A 	Police Interagency 	FMN 	Interop 
+154.20500 	153.77000  	WNRX797 	RM	103.5 PL	CFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
+151.01000 	159.19500  	WQBA997 	RM		C DOT 	Streets and Highway 	FMN 	Public Works 
+453.15000 	458.15000  	WNHU890 	RM		C BOE 	Board of Education 	FMN 	Schools 
+151.67000 	159.63000  	WPRU334 	RM	343 DPL	CLG 670 	City Government 	FMN 	Other 
+153.81500 	158.95500  	KNDV462 	RM		CLG 815 	City Government 	FMN 	Other 
+155.76000 	   	KBJ637 	BM		CLG 760 	City Government 	FMN 	Other 
+153.56000 	158.14500  	WQDR633 	RM		C Pub Works 	Public Works 	FMN 	Public Works 
+155.95500 	   	WQPD557 	BM		EPD 955 	Police Department 	FMN 	Law Talk 
+155.01000 	   	WQPD557 	BM		EPD M/A 	Police Interagency 	FMN 	Interop 
+451.08750 	456.08750  	WQBZ532 	RM	192.8 PL	Emerson H2O 	Emerson Water (Scada System) 	FM 	Utilities 
+159.14250 	   	WPWC861 	M		EPD Dispatch 	Police Dispatch 	FM 	Law Dispatch 
+155.01000 	   	WPMF573  	BM		KPD M/A 	Police Department Interagency (KPD dispatched by BCSO) 	FMN 	Interop 
+155.01000 	   	WRL674 	BM		WPD M/A 	Police Department Interagency (WPD Dispatched by BCSO) 	FMN 	Interop 
+Anheuser Busch Cartersville MOT	 Motorola Type II Smartnet	 Cartersville	Cobb Regional Radio System	 Project 25 Phase II	 Various	Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800	 Various

@@ -1,70 +1,69 @@
-151.11500 	WQAB208 	BM	114.8 PL	Knox County Fire 	Fire: Tone-Outs / Dispatch - Countywide 	FMN 	Fire Dispatch 
-453.48750 	WPLW646 	F		Knox 911 RF-T1 	Fire: Link to Remote Tx on 151.115 (not D023) 	FMN 	Fire Dispatch 
-453.56250 	WPLW646 	F	156.7 PL	Knox 911 RF-T2 	Fire: Link to Remote Tx on 151.115 	FMN 	Fire Dispatch 
-458.48750 	WPLW646 	F		Knox 911 RF3 	Fire: Remote Link (Rio) 	FMN 	Fire Dispatch 
-458.56250 	WPLW646 	F	156.7 PL	Knox 911 RF4 	Fire: Remote Link (Maquon) 	FMN 	Fire Dispatch 
-154.19000 	WQLW553 	BM		KnoxFire Glv/Clv 	Fire: Dispatch - Galva / Clover Township 	FMN 	Fire Dispatch 
-154.82250 	WQDI399 	RM	167.9 PL	Knox Fire AVL   	Fire: Automatic Vehicle Locators (Data) 	FMN 	Data 
-155.53500 	KSC430 	RM	136.5 PL	Knox Sheriff 	Sheriff: Dispatch [Ch 1] (Simulcast SC21 TG 1926) 	FMN 	Law Dispatch 
-151.14500 	KSC430 	M		Knox Sheriff MX  	Sheriff: Mobile Extenders 	FMN 	Law Tac 
-155.49000 	KSC430 	BM	136.5 PL	Knox Shrf Alt2  	Sheriff: Alternate [Ch 2]  	FMN 	Law Tac 
-159.15750 	KSC430 	RM	CC 1TG 1SL *	Knox Shrf Jail  	Sheriff: Jail (TG 1/2) 	DMR 	Corrections 
-453.70000 	KNDZ876 	RM		Knox ESDA 	ESDA 	FMN 	Emergency Ops 
-159.12000 	KSE372 	RM	179.9 PL	Knox Highway  	Highway Department 	FMN 	Public Works 
-453.81250 	WPOX945 	RM	074 DPL	Knox HouseAuth  	County Housing Authority 	FMN 	Public Works 
-155.34000 	 	B	71.9 PL	MERCI1 71.9 	Patient Reports 	FMN 	Hospital 
-461.65000 	WPPT913 	RM	127.3 PL	GCH Maintnce 	Maintenance 	FMN 	Business 
-153.48500 	WPNQ326 	RM	107.2 PL	GlsbHosp EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.29500 	WQBR240 	BM	107.2 PL	GH EMS B/U 	EMS: Backup 	FMN 	EMS-Tac 
-155.34000 	KRJ659 	B	107.2 PL	MERCI1 107.2 	Patient Reports 	FMN 	Hospital 
-152.00750 	KWY201 	B		GCH Paging 	Paging 	FMN 	Data 
-163.25000 	WQBR240 	B		GH EMS PG 	Paging 	Telm 	Data 
-155.34000 	KTZ472 	BM	107.2 PL	MERCI1 107.2 	Patient Reports 	FMN 	Hospital 
-463.00000 	 	BM	107.2 PL	MED-1 107.2  	Patient Reports 	FMN 	Hospital 
-461.51250 	WQZR456 	RM	CC 5TG 61401SL 1	OSF StMary Maint 	Maintenance 	DMR 	Business 
-153.98000 	WNBG890 	BM		RioTwpRoads  	Rio Township Road Maintenance 	FMN 	Public Works 
-453.77500 	KNDD750 	RM	100.0 PL	KnoxTwpRoads 	Knox Township Road Maintenance  	FMN 	Public Works 
-151.34750 	KNCE324 	RM	CC 1TG 1048677SL 1	Abingdon Police 	Police: Dispatch 	DMR 	Law Dispatch 
-155.76000 	KNCE324 	RM	203.5 PL	Abin Police B/U 	Police: Dispatch - Back-up to DMR 	FMN 	Law Dispatch 
-151.41500 	WPWF260 	RM	155 DPL	Abin FirstRespnd 	First Repsonders: Dispatch 	FMN 	Fire Dispatch 
-155.68500 	WPWF260 	RM	118.8 PL	Abngdn/LM Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
-453.18750 	KNCE324 	RM	155 DPL	Abngdn PublcWrks 	Public Works 	FMN 	Public Works 
-465.63750 	WQAI688 	M		Altona CityM 	City Marshall  	FMN 	Public Works 
-156.16500 	WPXF300 	M		EGal Maint 	City Maintenance 	FMN 	Public Works 
-154.17500 	KBB989 	BM		ElbSalm Fire 	Fire 	FMN 	Fire-Tac 
-460.10000 	KCP286 	RM	156.7 PL	Galesburg Police 	Police: Primary 	FMN 	Law Dispatch 
-460.45000 	KCP286 	RM	CC 1TG 1SL 1	Gale Police DMR 	Police: Tactical 	DMR 	Law Tac 
-460.45000 	KCP286 	RM	156.7 PL	Gale Police Ops  	Police: Operations/Explorers 	FMN 	Law Tac 
-151.29500 	WPCK995 	RM	156.7 PL	Galesburg Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
-154.01000 	WPCK995 	M		GalesburgFireMX  	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-159.26250 	WPCK995 	RM		Galesburg Fire B 	Fire 	FMN 	Fire-Tac 
-154.04000 	KSH388 	BM	CSQ	Gale W/St/Pk 	Water / Streets / Parks 	FMN 	Public Works 
-451.05000 	WPTY879 	F	125 DPL	Galesburg WDD 	Water Data (to Mississippi River) 	FMN 	Data 
-155.83500 	KCJ548 	RM	88.5 PL	Gale Sanitary 	Sanitary District 	FMN 	Public Works 
-453.16250 	KCJ548 	RM		Gale Sanit Data 	Sanitary District: Data (CSQ) 	Telm 	Data 
-453.42500 	WQX209 	RM	156.7 PL	GalesburgTransit 	Galesburg Transit: Buses 	FMN 	Transportation 
-154.80000 	WPPZ758 	BM	162.2 PL	Knxvl Police 	Police 	FMN 	Law Dispatch 
-155.94000 	KNBQ243 	BM	136.5 PL	Knoxville PW 	Public Works 	FMN 	Public Works 
-154.43000 	KSF683 	BM	103.5 PL	Knox Fireground 	Fireground 	FMN 	Fire-Tac 
-154.23500 	WNNI653 	BM		Maquon Fire 	Fire 	FMN 	Fire Dispatch 
-159.36000 	WQX257 	RM		OngWatgaFire 	Fire: Local (103.5?) 	FMN 	Fire-Tac 
-154.11500 	WQX257 	BM		OndWatga FG 	Fire 	FMN 	Fire-Tac 
-453.31250 	WQEW661 	M		StAugstn WDD 	Water Distribution Data 	Telm 	Data 
-155.17500 	WPQI308 	M		Wllmsfld EMA 	Emergency Management 	FMN 	Emergency Ops 
-464.90000 	WQSW976 	RM	97.4 PL	AbAvon School 	Ops / Buses 	FMN 	Schools 
-155.26500 	KNEV518 	BM	114.8 PL	Galesburg SchBus 	Buses 	FMN 	Schools 
-152.28500 	WPRJ625 	RM	364 DPL	Galesburg Hi Sch 	High School Ops 	FMN 	Schools 
-152.33750 	WRAD583 	RM	11 RAN	Gales USD 205 	Operations 	NXDN 	Schools 
-463.90000 	WPXJ745 	RM	131.8 PL	Knxvl School 	Buses / Ops (Galesburg Comm) 	FMN 	Schools 
-452.46250 	KB88268 	RM	141.3 PL	CSC Sec/Mnt 	Security/Maintenance 	FMN 	Schools 
-463.52500 	KB88268 	M		CSC Ops 	Operations 	FMN 	Schools 
-452.35000 	WPYL679 	M		KC SAP Sec 	Student Activity Post: Security/Admin  	FMN 	Security 
-462.12500 	WQOK735 	RM	167.9 PL	KC Ops UHF  	Operations 	FMN 	Schools 
-151.77500 	WPBY437 	BM		KC Maintnce 	Maintenance 	FMN 	Schools 
-109.80000 	 	BM	CSQ	GBG AWOS-3 	Weather AWOS-3 [NL] 	AM 	Aircraft 
-120.70000 	 	BM	CSQ	GBG ClrDlvry 	Clearance Delivery 	AM 	Aircraft 
-123.00000 	 	BM	CSQ	GBG CTAF 	CTAF/UNICOM [NL] 	AM 	Aircraft 
-458.26250 	WPAC589 	M		GBG AWOS RF 	UHF Link to AWOS/Data (CSQ) 	Telm 	Data 
-122.90000 	 	BM	CSQ	2C6 CTAF 	CTAF [NL] 	AM 	Aircraft 
-Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Galesburg Communications (Knox)	 LTR Standard	 Galesburg	Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Central Illinois	Supreme Radio Communications (Knox)	 Motorola Type II	 Rio	United Facilities (Galesburg IL)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Galesburg IL	
+151.11500 	   	WQAB208 	BM	114.8 PL	Knox County Fire 	Fire: Tone-Outs / Dispatch - Countywide 	FMN 	Fire Dispatch 
+453.48750 	   	WPLW646 	F		Knox 911 RF-T1 	Fire: Link to Remote Tx on 151.115 (not D023) 	FMN 	Fire Dispatch 
+453.56250 	   	WPLW646 	F	156.7 PL	Knox 911 RF-T2 	Fire: Link to Remote Tx on 151.115 	FMN 	Fire Dispatch 
+458.48750 	   	WPLW646 	F		Knox 911 RF3 	Fire: Remote Link (Rio) 	FMN 	Fire Dispatch 
+458.56250 	   	WPLW646 	F	156.7 PL	Knox 911 RF4 	Fire: Remote Link (Maquon) 	FMN 	Fire Dispatch 
+154.19000 	   	WQLW553 	BM		KnoxFire Glv/Clv 	Fire: Dispatch - Galva / Clover Township 	FMN 	Fire Dispatch 
+154.82250 	156.09750  	WQDI399 	RM	167.9 PL	Knox Fire AVL   	Fire: Automatic Vehicle Locators (Data) 	FMN 	Data 
+155.53500 	158.91000  	KSC430 	RM	136.5 PL	Knox Sheriff 	Sheriff: Dispatch [Ch 1] (Simulcast SC21 TG 1926) 	FMN 	Law Dispatch 
+151.14500 	   	KSC430 	M		Knox Sheriff MX  	Sheriff: Mobile Extenders 	FMN 	Law Tac 
+155.49000 	   	KSC430 	BM	136.5 PL	Knox Shrf Alt2  	Sheriff: Alternate [Ch 2]  	FMN 	Law Tac 
+159.15750 	153.94250  	KSC430 	RM	CC 1TG 1SL *	Knox Shrf Jail  	Sheriff: Jail (TG 1/2) 	DMR 	Corrections 
+453.70000 	458.70000  	KNDZ876 	RM		Knox ESDA 	ESDA 	FMN 	Emergency Ops 
+159.12000 	156.07500  	KSE372 	RM	179.9 PL	Knox Highway  	Highway Department 	FMN 	Public Works 
+453.81250 	458.81250  	WPOX945 	RM	074 DPL	Knox HouseAuth  	County Housing Authority 	FMN 	Public Works 
+155.34000 	   	 	B	71.9 PL	MERCI1 71.9 	Patient Reports 	FMN 	Hospital 
+461.65000 	466.65000  	WPPT913 	RM	127.3 PL	GCH Maintnce 	Maintenance 	FMN 	Business 
+153.48500 	160.08000  	WPNQ326 	RM	107.2 PL	GlsbHosp EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.29500 	   	WQBR240 	BM	107.2 PL	GH EMS B/U 	EMS: Backup 	FMN 	EMS-Tac 
+155.34000 	   	KRJ659 	B	107.2 PL	MERCI1 107.2 	Patient Reports 	FMN 	Hospital 
+152.00750 	   	KWY201 	B		GCH Paging 	Paging 	FMN 	Data 
+163.25000 	   	WQBR240 	B		GH EMS PG 	Paging 	Telm 	Data 
+155.34000 	   	KTZ472 	BM	107.2 PL	MERCI1 107.2 	Patient Reports 	FMN 	Hospital 
+463.00000 	468.00000  	 	BM	107.2 PL	MED-1 107.2  	Patient Reports 	FMN 	Hospital 
+461.51250 	466.51250  	WQZR456 	RM	CC 5TG 61401SL 1	OSF StMary Maint 	Maintenance 	DMR 	Business 
+153.98000 	   	WNBG890 	BM		RioTwpRoads  	Rio Township Road Maintenance 	FMN 	Public Works 
+453.77500 	458.77500  	KNDD750 	RM	100.0 PL	KnoxTwpRoads 	Knox Township Road Maintenance  	FMN 	Public Works 
+151.34750 	159.33750  	KNCE324 	RM	CC 1TG 1048677SL 1	Abingdon Police 	Police: Dispatch 	DMR 	Law Dispatch 
+155.76000 	153.80000  	KNCE324 	RM	203.5 PL	Abin Police B/U 	Police: Dispatch - Back-up to DMR 	FMN 	Law Dispatch 
+151.41500 	154.02500  	WPWF260 	RM	155 DPL	Abin FirstRespnd 	First Repsonders: Dispatch 	FMN 	Fire Dispatch 
+155.68500 	158.94000  	WPWF260 	RM	118.8 PL	Abngdn/LM Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
+453.18750 	458.18750  	KNCE324 	RM	155 DPL	Abngdn PublcWrks 	Public Works 	FMN 	Public Works 
+465.63750 	   	WQAI688 	M		Altona CityM 	City Marshall  	FMN 	Public Works 
+156.16500 	   	WPXF300 	M		EGal Maint 	City Maintenance 	FMN 	Public Works 
+154.17500 	   	KBB989 	BM		ElbSalm Fire 	Fire 	FMN 	Fire-Tac 
+460.10000 	465.10000  	KCP286 	RM	156.7 PL	Galesburg Police 	Police: Primary 	FMN 	Law Dispatch 
+460.45000 	456.45000  	KCP286 	RM	CC 1TG 1SL 1	Gale Police DMR 	Police: Tactical 	DMR 	Law Tac 
+460.45000 	465.45000  	KCP286 	RM	156.7 PL	Gale Police Ops  	Police: Operations/Explorers 	FMN 	Law Tac 
+151.29500 	159.39000  	WPCK995 	RM	156.7 PL	Galesburg Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
+154.01000 	   	WPCK995 	M		GalesburgFireMX  	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+159.26250 	156.00750  	WPCK995 	RM		Galesburg Fire B 	Fire 	FMN 	Fire-Tac 
+154.04000 	   	KSH388 	BM	CSQ	Gale W/St/Pk 	Water / Streets / Parks 	FMN 	Public Works 
+451.05000 	   	WPTY879 	F	125 DPL	Galesburg WDD 	Water Data (to Mississippi River) 	FMN 	Data 
+155.83500 	153.87500  	KCJ548 	RM	88.5 PL	Gale Sanitary 	Sanitary District 	FMN 	Public Works 
+453.16250 	458.16250  	KCJ548 	RM		Gale Sanit Data 	Sanitary District: Data (CSQ) 	Telm 	Data 
+453.42500 	458.42500  	WQX209 	RM	156.7 PL	GalesburgTransit 	Galesburg Transit: Buses 	FMN 	Transportation 
+154.80000 	   	WPPZ758 	BM	162.2 PL	Knxvl Police 	Police 	FMN 	Law Dispatch 
+155.94000 	   	KNBQ243 	BM	136.5 PL	Knoxville PW 	Public Works 	FMN 	Public Works 
+154.43000 	   	KSF683 	BM	103.5 PL	Knox Fireground 	Fireground 	FMN 	Fire-Tac 
+154.23500 	   	WNNI653 	BM		Maquon Fire 	Fire 	FMN 	Fire Dispatch 
+159.36000 	156.06750  	WQX257 	RM		OngWatgaFire 	Fire: Local (103.5?) 	FMN 	Fire-Tac 
+154.11500 	   	WQX257 	BM		OndWatga FG 	Fire 	FMN 	Fire-Tac 
+453.31250 	   	WQEW661 	M		StAugstn WDD 	Water Distribution Data 	Telm 	Data 
+155.17500 	   	WPQI308 	M		Wllmsfld EMA 	Emergency Management 	FMN 	Emergency Ops 
+464.90000 	469.90000  	WQSW976 	RM	97.4 PL	AbAvon School 	Ops / Buses 	FMN 	Schools 
+155.26500 	   	KNEV518 	BM	114.8 PL	Galesburg SchBus 	Buses 	FMN 	Schools 
+152.28500 	157.54500  	WPRJ625 	RM	364 DPL	Galesburg Hi Sch 	High School Ops 	FMN 	Schools 
+152.33750 	157.59750  	WRAD583 	RM	11 RAN	Gales USD 205 	Operations 	NXDN 	Schools 
+463.90000 	468.90000  	WPXJ745 	RM	131.8 PL	Knxvl School 	Buses / Ops (Galesburg Comm) 	FMN 	Schools 
+452.46250 	457.46250  	KB88268 	RM	141.3 PL	CSC Sec/Mnt 	Security/Maintenance 	FMN 	Schools 
+463.52500 	   	KB88268 	M		CSC Ops 	Operations 	FMN 	Schools 
+452.35000 	   	WPYL679 	M		KC SAP Sec 	Student Activity Post: Security/Admin  	FMN 	Security 
+462.12500 	467.12500  	WQOK735 	RM	167.9 PL	KC Ops UHF  	Operations 	FMN 	Schools 
+151.77500 	   	WPBY437 	BM		KC Maintnce 	Maintenance 	FMN 	Schools 
+109.80000 	   	 	BM	CSQ	GBG AWOS-3 	Weather AWOS-3 [NL] 	AM 	Aircraft 
+120.70000 	   	 	BM	CSQ	GBG ClrDlvry 	Clearance Delivery 	AM 	Aircraft 
+123.00000 	   	 	BM	CSQ	GBG CTAF 	CTAF/UNICOM [NL] 	AM 	Aircraft 
+458.26250 	   	WPAC589 	M		GBG AWOS RF 	UHF Link to AWOS/Data (CSQ) 	Telm 	Data 
+122.90000 	   	 	BM	CSQ	2C6 CTAF 	CTAF [NL] 	AM 	Aircraft 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Supreme Radio Communications (Knox)	 Motorola Type II	 Rio	United Facilities (Galesburg IL)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Galesburg IL

@@ -1,62 +1,62 @@
-154.78500 	KNBW703 	RM	192.8 PL	Rand Sheriff 	Sheriff: Dispatch/Rural Law Dispatch 	FMN 	Law Dispatch 
-453.63750 	WPVV761 	F	343 DPL	Rand SD RF1 	Remote Receive Link - Sparta (to 158.91) 	FMN 	Law Dispatch 
-453.78750 	WPVV761 	F		Rand SD RF2 	Remote Receive Link - Ruma (to 158.91) 	FMN 	Law Dispatch 
-155.88000 	KBE816 	RM	192.8 PL	Chester ESDA 	Weather Spotters - Paging (licensed to Chester) 	FMN 	Emergency Ops 
-156.24000 	WQNY423 	BM	85.4 PL	RandolphFire 	Fire: Countywide Paging / Dispatch 	FMN 	Fire Dispatch 
-453.20000 	WQON422 	RM	343 DPL	Rand Fire RF 	Fire: Paging - Links to Remote Towers (Ellis Grove) 	FMN 	Fire Dispatch 
-154.26500 	WYX388 	BM	CSQ	IFERN CSQ 	Fire: Countywide Dispatch -- Evansville [OLD] 	FMN 	Fire Dispatch 
-453.62500 	WPRH418 	F		PerryCo911RF 	Remote Link to Perry County 911 Back Up PSAP (Sparta) 	FMN 	Fire Dispatch 
-453.50000 	WQNZ797 	RM	67.0 PL	Rand Road D1 	Road District #1 (Sparta) 	FMN 	Public Works 
-453.67500 	WPLW739 	RM		Rand Road D2 	Road District #2 (Chester) 	FMN 	Public Works 
-154.51500 	WPMN541 	BM	88.5 PL	MedStar EMS 	EMS: Dispatch (Sparta)  	FMN 	EMS Dispatch 
-155.80500 	KYN923 	BM		CMH Ops/PG 	Ops / Paging 	FM 	Business 
-155.34000 	WRX750 	BM	167.9 PL	MERCI1 167.9 	Patient Reports 	FMN 	Hospital 
-155.34000 	WRB391 	B	82.5 PL	MERCI-1 82.5 	 	FMN 	Hospital 
-155.16000 	WRB391 	B	82.5 PL	MERCI-3 82.5 	 	FMN 	Hospital 
-151.95500 	KCC823 	BM		Sparta Hosp 	Operations 	FMN 	Business 
-155.34000 	KVA233 	BM	91.5 PL	MERCI-1 91.5 	 	FMN 	Hospital 
-155.16000 	KVA233 	BM	91.5 PL	MERCI-3 91.5 	 	FMN 	Hospital 
-159.22500 	KNHS528 	BM		Baldwin Fire 	Fire: Local (was 154.31) 	FMN 	Fire-Tac 
-154.31000 	KNHS528 	BM		Bald FD Old 	FIre: Local 	FMN 	Fire-Tac 
-155.59500 	WPDS717 	RM	179.9 PL	Chstr Police 	Police: Dispatch 	FMN 	Law Dispatch 
-158.88000 	WGC799 	F	192.8 PL	Chstr ESDA 	ESDA (input for 155.88) 	FMN 	Emergency Ops 
-154.14500 	WYX388 	BM	123.0 PL	Chester Fire 	Fire:  Local 	FMN 	Fire-Tac 
-453.58750 	WQAP392 	F		Chester WDD1 	Water Distribution Data 	Telm 	Data 
-456.23750 	WPRK889 	F		Chester WDD2 	Water Distribution Data (CSQ) 	Telm 	Data 
-154.14500 	WQEY476 	BM	CSQ	Coultrv Fire 	Fire/EMS: Dispatch (Oakdale-Washington) (DB: Sparta "WNVK861") 	FMN 	Fire Dispatch 
-154.43000 	WQKM853 	BM		Coul FireNew 	Fire: Future 	FMN 	Fire Dispatch 
-154.98000 	KB65564 	BM		Cltrv Local 	City Ops 	FMN 	Public Works 
-154.44500 	WNNQ554 	BM		ElGrov Local 	Fireground / Local / Police 	FMN 	Fire-Tac 
-154.34000 	KXX687 	BM		Evan Police 	Police: Dispatch 	FMN 	Law Dispatch 
-159.15750 	KXX687 	M		Evan PD MX 	Police: Mobile Extenders  	FMN 	Law Tac 
-456.02500 	WPPZ434 	F		Evnsvl WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
-154.34000 	WNJH995 	BM		Percy Local 	Fireground / Local / Police 	FMN 	Fire-Tac 
-154.25000 	WNPR855 	BM		PDR Frgrnd 	Fireground / Local 	FMN 	Fire-Tac 
-159.09000 	KXJ332 	BM		RdBd Police 	Police: Dispatch 	FMN 	Law Dispatch 
-159.03750 	KXJ332 	M		RdBd PD MX 	Police: Mobile Extenders 	FMN 	Law Tac 
-156.21750 	KSS836 	RM	136.5 PL	RdBd Firegrd 	Fireground 	FMN 	Fire-Tac 
-154.31000 	KSS836 	BM		RedBud Fire 	Fire: Tone-Outs / Dispatch 	FMN 	Fire-Tac 
-158.82000 	KNBF443 	BM		RdBd Utility 	Utility Department 	FMN 	Public Works 
-451.03750 	WNZK935 	F		RdBd WDD1 	Water Distribution Data (CSQ) 	Telm 	Data 
-456.03750 	WNZK935 	F		RdBd WDD2 	Water Distribution Data (CSQ) 	Telm 	Data 
-155.77500 	WNVK861 	RM	664 DPL	SpartaPolice 	Police: Dispatch (Voice Inversion capable) 	FMN 	Law Dispatch 
-453.05000 	KNCP311 	RM		Sparta UHF 	Police / Fire 	FMN 	Multi-Dispatch 
-154.37000 	WQCU370 	BM		Sparta PWks 	Public Works / Fire 	FMN 	Public Works 
-153.71000 	WQBU286 	BM		Sparta Water 	Water Department: Ops (Data?) 	FMN 	Public Works 
-153.71000 	WQBU286 	F		Sparta WDD 	Water Deparment Data (CSQ) 	Telm 	Data 
-158.85000 	WPKF546 	BM	88.5 PL	Stvl Police 	Police: Dispatch - Local 	FMN 	Law Dispatch 
-154.99500 	WXV931 	BM	192.8 PL	Stvl Fire/PW 	Fire: Paging/Fireground / Public Works 	FMN 	Multi-Dispatch 
-159.39750 	WXV931 	M		Stvl Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-155.86500 	WNRX408 	BM		Tilden City 	City Services 	FMN 	Multi-Dispatch 
-159.75000 	WPRL693 	BM		Zweigart Bus 	Zweigart Bus Service: Public Transit 	FMN 	Transportation 
-155.17500 	WXP597 	BM		Zwgrt Bus Ev 	Zweigart Bus Service (Evansville School District) 	FMN 	Schools 
-155.20500 	KRR944 	BM	186.2 PL	EggemeyerBus 	Southwestern Illinois Bus Company LLC (Chester)  	FMN 	Schools 
-152.43500 	WPXV831 	RM	218.1 PL	PDR School 	Ops / Bus Transportation  	FMN 	Schools 
-153.18500 	WPQK361 	RM	243 DPL	RedBudSchool A 	Maintenance / Security / Buses  	FMN 	Schools 
-152.38250 	WRCP226 	RM		RedBud School B 	Operations 	FMN 	Schools 
-155.20500 	KZR425 	BM		SpartaSchBus 	Buses [Expired] 	FMN 	Schools 
-157.68000 	WPJK796 	BM		WG HP Buses 	Buses (poss 203.5 PL) 	FMN 	Schools 
-462.12500 	WNWY282 	BM		SWIC RedBud 	Operations 	FMN 	Schools 
-118.37500 	KYH5 	BM	CSQ	SAR AWOS-3 	Weather AWOS-3 	AM 	Aircraft 
-123.07500 	WQDT220 	BM	CSQ	SAR UNICOM 	UNICOM 	AM 	Aircraft 
+154.78500 	158.91000  	KNBW703 	RM	192.8 PL	Rand Sheriff 	Sheriff: Dispatch/Rural Law Dispatch 	FMN 	Law Dispatch 
+453.63750 	   	WPVV761 	F	343 DPL	Rand SD RF1 	Remote Receive Link - Sparta (to 158.91) 	FMN 	Law Dispatch 
+453.78750 	   	WPVV761 	F		Rand SD RF2 	Remote Receive Link - Ruma (to 158.91) 	FMN 	Law Dispatch 
+155.88000 	158.88000  	KBE816 	RM	192.8 PL	Chester ESDA 	Weather Spotters - Paging (licensed to Chester) 	FMN 	Emergency Ops 
+156.24000 	   	WQNY423 	BM	85.4 PL	RandolphFire 	Fire: Countywide Paging / Dispatch 	FMN 	Fire Dispatch 
+453.20000 	458.20000  	WQON422 	RM	343 DPL	Rand Fire RF 	Fire: Paging - Links to Remote Towers (Ellis Grove) 	FMN 	Fire Dispatch 
+154.26500 	   	WYX388 	BM	CSQ	IFERN CSQ 	Fire: Countywide Dispatch -- Evansville [OLD] 	FMN 	Fire Dispatch 
+453.62500 	   	WPRH418 	F		PerryCo911RF 	Remote Link to Perry County 911 Back Up PSAP (Sparta) 	FMN 	Fire Dispatch 
+453.50000 	458.50000  	WQNZ797 	RM	67.0 PL	Rand Road D1 	Road District #1 (Sparta) 	FMN 	Public Works 
+453.67500 	458.67500  	WPLW739 	RM		Rand Road D2 	Road District #2 (Chester) 	FMN 	Public Works 
+154.51500 	   	WPMN541 	BM	88.5 PL	MedStar EMS 	EMS: Dispatch (Sparta)  	FMN 	EMS Dispatch 
+155.80500 	   	KYN923 	BM		CMH Ops/PG 	Ops / Paging 	FM 	Business 
+155.34000 	   	WRX750 	BM	167.9 PL	MERCI1 167.9 	Patient Reports 	FMN 	Hospital 
+155.34000 	   	WRB391 	B	82.5 PL	MERCI-1 82.5 	 	FMN 	Hospital 
+155.16000 	   	WRB391 	B	82.5 PL	MERCI-3 82.5 	 	FMN 	Hospital 
+151.95500 	   	KCC823 	BM		Sparta Hosp 	Operations 	FMN 	Business 
+155.34000 	   	KVA233 	BM	91.5 PL	MERCI-1 91.5 	 	FMN 	Hospital 
+155.16000 	   	KVA233 	BM	91.5 PL	MERCI-3 91.5 	 	FMN 	Hospital 
+159.22500 	   	KNHS528 	BM		Baldwin Fire 	Fire: Local (was 154.31) 	FMN 	Fire-Tac 
+154.31000 	   	KNHS528 	BM		Bald FD Old 	FIre: Local 	FMN 	Fire-Tac 
+155.59500 	154.65000  	WPDS717 	RM	179.9 PL	Chstr Police 	Police: Dispatch 	FMN 	Law Dispatch 
+158.88000 	   	WGC799 	F	192.8 PL	Chstr ESDA 	ESDA (input for 155.88) 	FMN 	Emergency Ops 
+154.14500 	   	WYX388 	BM	123.0 PL	Chester Fire 	Fire:  Local 	FMN 	Fire-Tac 
+453.58750 	   	WQAP392 	F		Chester WDD1 	Water Distribution Data 	Telm 	Data 
+456.23750 	   	WPRK889 	F		Chester WDD2 	Water Distribution Data (CSQ) 	Telm 	Data 
+154.14500 	   	WQEY476 	BM	CSQ	Coultrv Fire 	Fire/EMS: Dispatch (Oakdale-Washington) (DB: Sparta "WNVK861") 	FMN 	Fire Dispatch 
+154.43000 	   	WQKM853 	BM		Coul FireNew 	Fire: Future 	FMN 	Fire Dispatch 
+154.98000 	   	KB65564 	BM		Cltrv Local 	City Ops 	FMN 	Public Works 
+154.44500 	   	WNNQ554 	BM		ElGrov Local 	Fireground / Local / Police 	FMN 	Fire-Tac 
+154.34000 	   	KXX687 	BM		Evan Police 	Police: Dispatch 	FMN 	Law Dispatch 
+159.15750 	   	KXX687 	M		Evan PD MX 	Police: Mobile Extenders  	FMN 	Law Tac 
+456.02500 	   	WPPZ434 	F		Evnsvl WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+154.34000 	   	WNJH995 	BM		Percy Local 	Fireground / Local / Police 	FMN 	Fire-Tac 
+154.25000 	   	WNPR855 	BM		PDR Frgrnd 	Fireground / Local 	FMN 	Fire-Tac 
+159.09000 	   	KXJ332 	BM		RdBd Police 	Police: Dispatch 	FMN 	Law Dispatch 
+159.03750 	   	KXJ332 	M		RdBd PD MX 	Police: Mobile Extenders 	FMN 	Law Tac 
+156.21750 	153.94250  	KSS836 	RM	136.5 PL	RdBd Firegrd 	Fireground 	FMN 	Fire-Tac 
+154.31000 	   	KSS836 	BM		RedBud Fire 	Fire: Tone-Outs / Dispatch 	FMN 	Fire-Tac 
+158.82000 	   	KNBF443 	BM		RdBd Utility 	Utility Department 	FMN 	Public Works 
+451.03750 	   	WNZK935 	F		RdBd WDD1 	Water Distribution Data (CSQ) 	Telm 	Data 
+456.03750 	   	WNZK935 	F		RdBd WDD2 	Water Distribution Data (CSQ) 	Telm 	Data 
+155.77500 	153.92000  	WNVK861 	RM	664 DPL	SpartaPolice 	Police: Dispatch (Voice Inversion capable) 	FMN 	Law Dispatch 
+453.05000 	458.05000  	KNCP311 	RM		Sparta UHF 	Police / Fire 	FMN 	Multi-Dispatch 
+154.37000 	   	WQCU370 	BM		Sparta PWks 	Public Works / Fire 	FMN 	Public Works 
+153.71000 	   	WQBU286 	BM		Sparta Water 	Water Department: Ops (Data?) 	FMN 	Public Works 
+153.71000 	   	WQBU286 	F		Sparta WDD 	Water Deparment Data (CSQ) 	Telm 	Data 
+158.85000 	   	WPKF546 	BM	88.5 PL	Stvl Police 	Police: Dispatch - Local 	FMN 	Law Dispatch 
+154.99500 	   	WXV931 	BM	192.8 PL	Stvl Fire/PW 	Fire: Paging/Fireground / Public Works 	FMN 	Multi-Dispatch 
+159.39750 	   	WXV931 	M		Stvl Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+155.86500 	   	WNRX408 	BM		Tilden City 	City Services 	FMN 	Multi-Dispatch 
+159.75000 	   	WPRL693 	BM		Zweigart Bus 	Zweigart Bus Service: Public Transit 	FMN 	Transportation 
+155.17500 	   	WXP597 	BM		Zwgrt Bus Ev 	Zweigart Bus Service (Evansville School District) 	FMN 	Schools 
+155.20500 	   	KRR944 	BM	186.2 PL	EggemeyerBus 	Southwestern Illinois Bus Company LLC (Chester)  	FMN 	Schools 
+152.43500 	157.69500  	WPXV831 	RM	218.1 PL	PDR School 	Ops / Bus Transportation  	FMN 	Schools 
+153.18500 	158.16000  	WPQK361 	RM	243 DPL	RedBudSchool A 	Maintenance / Security / Buses  	FMN 	Schools 
+152.38250 	157.64250  	WRCP226 	RM		RedBud School B 	Operations 	FMN 	Schools 
+155.20500 	   	KZR425 	BM		SpartaSchBus 	Buses [Expired] 	FMN 	Schools 
+157.68000 	   	WPJK796 	BM		WG HP Buses 	Buses (poss 203.5 PL) 	FMN 	Schools 
+462.12500 	   	WNWY282 	BM		SWIC RedBud 	Operations 	FMN 	Schools 
+118.37500 	   	KYH5 	BM	CSQ	SAR AWOS-3 	Weather AWOS-3 	AM 	Aircraft 
+123.07500 	   	WQDT220 	BM	CSQ	SAR UNICOM 	UNICOM 	AM 	Aircraft 
 Egyptian Electric Cooperative (S IL)	 DMR Conventional Networked	 Steeleville	Menard Correctional Center - IDOC (Randolph)	 Motorola Type II Smartnet	 Chester	

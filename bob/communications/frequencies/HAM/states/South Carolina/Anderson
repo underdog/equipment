@@ -1,38 +1,38 @@
-153.95000 	KDA392 	BM	151.4 PL	AndCo FD Dsp 	County Fire Dispatch 	FM 	Fire Dispatch 
-155.90250 	KDA393 	BM	464 DPL	AndCo FD 2 	County Fire Ch 2 	FMN 	Fire-Tac 
-154.29500 	WPAN380 	BM	151.4 PL	AndCo FD FG 	Fireground 	FM 	Fire-Tac 
-151.08500 	WQCK923 	M	162.2 PL	AndCo FD MA 	Fire Mutual Aid 	FM 	Interop 
-155.36250 	KL4487 	BM	464 DPL	AndCo EMS Ds 	EMS/Rescue Dispatch (Simulcast from Palmetto 800) 	FMN 	EMS Dispatch 
-155.38500 	WXF759 	BM	203.5 PL	Medshore Amb 	EMS Medshore (Blue Ridge area) 	FM 	EMS Dispatch 
-155.34000 	KUY340 	BM		AndCo EMS Hs 	Ambulance to Hospital 	FM 	Hospital 
-155.26500 	KUY340 	BM	146.2 PL	AND AMC 	Anderson AMC 	FM 	Hospital 
-155.41500 	KRY916 	RM	162.2 PL	AndCo SD Dis 	Anderson Co. SD Ch. 1 Dispatch 	FM 	Law Tac 
-155.49000 	KRY916 	RM	162.2 PL	AndCo Twn PD 	Anderson Co. SD  Ch. 2 Small Towns Repeater 	FM 	Law Tac 
-453.28750 	WQRF996 	RM	CC 1TG 70003SL 1	And Co Det Ctr 	Detention Center Operations 	DMR 	Law Tac 
-453.28750 	WQRF996 	RM	CC 1TG 70007SL 1	And Co Det Ctr 	Detention Center Maintenance 	DMR 	Law Tac 
-155.56500 	KRY916 	RM	464 DPL	And FD Disp 	Anderson FD and Technical Rescue Dispatch 	FM 	Fire Dispatch 
-453.21250 	 	M	156.7 PL	And FD Commd 	Anderson FD National Fire Command 	FM 	Fire-Tac 
-453.46250 	 	M	156.7 PL	And PD TAC4 	Anderson FD National Fire Tactical 	FM 	Fire-Tac 
-453.71250 	 	M	156.7 PL	And PD TAC5 	Anderson FD National Fire Tactical 	FM 	Fire-Tac 
-453.86250 	 	M	156.7 PL	And PD TAC6 	Anderson FD National Fire Tactical 	FM 	Fire-Tac 
-158.97000 	 	M	162.2 PL	And PD 5 TA 	Anderson PD Ch. 5 Talk-around 	FM 	Law Tac 
-154.16000 	KCZ850 	BM		And Tech Res 	Anderson PD Technical Rescue 	FM 	Law Tac 
-854.16250 	WNPP664 	RM	CC 1TG 1000SL 1	And Veh Maint 	Vehicle Maintenance 	DMR 	Public Works 
-854.16250 	WNPP664 	RM	CC 1TG 1500SL 1	And Park Maint 	Park Maintenance 	DMR 	Public Works 
-854.16250 	WNPP664 	RM	CC 1TG 2000SL 1	And Street Maint 	Street Maintenance 	DMR 	Public Works 
-854.16250 	WNPP664 	RM	CC 1TG 5000SL 1	And Street Maint 	Street Maintenance 	DMR 	Public Works 
-854.73750 	WNPP664 	RM	CC 1TG 9000SL 1	And Transit 	Transit Buses 	DMR 	Transportation 
-854.73750 	WNPP664 	RM	CC 1TG 7000SL 1	And Trash 	Trash Collection 	DMR 	Public Works 
-154.32500 	WNUB347 	BM	162.2 PL	Belton FD 	Belton FD 	FM 	Fire-Tac 
-154.35500 	WNUB347 	BM	162.2 PL	Belton FD 	Belton FD Fireground 	FM 	Fire-Tac 
-156.19500 	WQEG711 	RM	162.2 PL	Belton FD 	Belton FD 	FM 	Fire-Tac 
-158.80500 	WNRB973 	BM	464 DPL	HoneaPath FD 	Honea Path FD 	FM 	Fire-Tac 
-158.94000 	WNRB973 	BM	162.2 PL	HoneaPath FD 	Honea Path FD 	FM 	Fire-Tac 
-155.85000 	WPLX486 	RM	464 DPL	Willmstn FD 	Williamston FD 	FM 	Fire Dispatch 
-151.52000 	WQPP980 	RM	261 DPL	Wlllmstn EMS 	Williamston EMS 	FMN 	EMS Dispatch 
-153.75500 	WQAL413 	RM	134 DPL	Willmstn PD 	Williamston PD 	FM 	Law Dispatch 
-154.40000 	 	BM	107.2 PL	Piedmont FD 	Piedmont FD 	FM 	Fire-Tac 
-158.76000 	 	BM	203.5 PL	W Pelzer PD 	West Pelzer PD 	FM 	Law Tac 
-464.42500 	 	RM	CC 1TG 100SL 1	Tri Co Tech 	Tri-County Technical College Security 	DMR 	Security 
-Duke Energy - Anderson	 OpenSky 9600 baud	 Anderson	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	SC HEART DMR Network	 DMR Conventional Networked
- Mulitple	SC Public Service Authority	 Project 25 Phase II	 Various	
+153.95000 	   	KDA392 	BM	151.4 PL	AndCo FD Dsp 	County Fire Dispatch 	FM 	Fire Dispatch 
+155.90250 	   	KDA393 	BM	464 DPL	AndCo FD 2 	County Fire Ch 2 	FMN 	Fire-Tac 
+154.29500 	   	WPAN380 	BM	151.4 PL	AndCo FD FG 	Fireground 	FM 	Fire-Tac 
+151.08500 	   	WQCK923 	M	162.2 PL	AndCo FD MA 	Fire Mutual Aid 	FM 	Interop 
+155.36250 	   	KL4487 	BM	464 DPL	AndCo EMS Ds 	EMS/Rescue Dispatch (Simulcast from Palmetto 800) 	FMN 	EMS Dispatch 
+155.38500 	150.99500  	WXF759 	BM	203.5 PL	Medshore Amb 	EMS Medshore (Blue Ridge area) 	FM 	EMS Dispatch 
+155.34000 	   	KUY340 	BM		AndCo EMS Hs 	Ambulance to Hospital 	FM 	Hospital 
+155.26500 	   	KUY340 	BM	146.2 PL	AND AMC 	Anderson AMC 	FM 	Hospital 
+155.41500 	   	KRY916 	RM	162.2 PL	AndCo SD Dis 	Anderson Co. SD Ch. 1 Dispatch 	FM 	Law Tac 
+155.49000 	   	KRY916 	RM	162.2 PL	AndCo Twn PD 	Anderson Co. SD  Ch. 2 Small Towns Repeater 	FM 	Law Tac 
+453.28750 	458.23750  	WQRF996 	RM	CC 1TG 70003SL 1	And Co Det Ctr 	Detention Center Operations 	DMR 	Law Tac 
+453.28750 	458.28750  	WQRF996 	RM	CC 1TG 70007SL 1	And Co Det Ctr 	Detention Center Maintenance 	DMR 	Law Tac 
+155.56500 	   	KRY916 	RM	464 DPL	And FD Disp 	Anderson FD and Technical Rescue Dispatch 	FM 	Fire Dispatch 
+453.21250 	   	 	M	156.7 PL	And FD Commd 	Anderson FD National Fire Command 	FM 	Fire-Tac 
+453.46250 	   	 	M	156.7 PL	And PD TAC4 	Anderson FD National Fire Tactical 	FM 	Fire-Tac 
+453.71250 	   	 	M	156.7 PL	And PD TAC5 	Anderson FD National Fire Tactical 	FM 	Fire-Tac 
+453.86250 	   	 	M	156.7 PL	And PD TAC6 	Anderson FD National Fire Tactical 	FM 	Fire-Tac 
+158.97000 	   	 	M	162.2 PL	And PD 5 TA 	Anderson PD Ch. 5 Talk-around 	FM 	Law Tac 
+154.16000 	   	KCZ850 	BM		And Tech Res 	Anderson PD Technical Rescue 	FM 	Law Tac 
+854.16250 	809.16250  	WNPP664 	RM	CC 1TG 1000SL 1	And Veh Maint 	Vehicle Maintenance 	DMR 	Public Works 
+854.16250 	809.16250  	WNPP664 	RM	CC 1TG 1500SL 1	And Park Maint 	Park Maintenance 	DMR 	Public Works 
+854.16250 	809.16250  	WNPP664 	RM	CC 1TG 2000SL 1	And Street Maint 	Street Maintenance 	DMR 	Public Works 
+854.16250 	809.16250  	WNPP664 	RM	CC 1TG 5000SL 1	And Street Maint 	Street Maintenance 	DMR 	Public Works 
+854.73750 	809.73750  	WNPP664 	RM	CC 1TG 9000SL 1	And Transit 	Transit Buses 	DMR 	Transportation 
+854.73750 	809.73750  	WNPP664 	RM	CC 1TG 7000SL 1	And Trash 	Trash Collection 	DMR 	Public Works 
+154.32500 	   	WNUB347 	BM	162.2 PL	Belton FD 	Belton FD 	FM 	Fire-Tac 
+154.35500 	   	WNUB347 	BM	162.2 PL	Belton FD 	Belton FD Fireground 	FM 	Fire-Tac 
+156.19500 	   	WQEG711 	RM	162.2 PL	Belton FD 	Belton FD 	FM 	Fire-Tac 
+158.80500 	   	WNRB973 	BM	464 DPL	HoneaPath FD 	Honea Path FD 	FM 	Fire-Tac 
+158.94000 	   	WNRB973 	BM	162.2 PL	HoneaPath FD 	Honea Path FD 	FM 	Fire-Tac 
+155.85000 	153.86000  	WPLX486 	RM	464 DPL	Willmstn FD 	Williamston FD 	FM 	Fire Dispatch 
+151.52000 	   	WQPP980 	RM	261 DPL	Wlllmstn EMS 	Williamston EMS 	FMN 	EMS Dispatch 
+153.75500 	   	WQAL413 	RM	134 DPL	Willmstn PD 	Williamston PD 	FM 	Law Dispatch 
+154.40000 	   	 	BM	107.2 PL	Piedmont FD 	Piedmont FD 	FM 	Fire-Tac 
+158.76000 	   	 	BM	203.5 PL	W Pelzer PD 	West Pelzer PD 	FM 	Law Tac 
+464.42500 	469.42500  	 	RM	CC 1TG 100SL 1	Tri Co Tech 	Tri-County Technical College Security 	DMR 	Security 
+Duke Energy - Anderson	 OpenSky 9600 baud	 Anderson	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	SC HEART DMR Network	 DMR Conventional Networked	 Mulitple
+SC Public Service Authority	 Project 25 Phase II	 Various	

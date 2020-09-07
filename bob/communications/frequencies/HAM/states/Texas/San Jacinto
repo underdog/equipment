@@ -1,11 +1,10 @@
-155.97750 	WQFW945 	RM	192.8 PL	San Jac EMS 	EMS Dispatch (Allegiance Ambulance) 	FMN 	EMS Dispatch 
-155.69250 	WQFT874 	RM	192.8 PL	San Jac OEM 	Emergency Management, South Fire Operations 	FMN 	Emergency Ops 
-155.78250 	WQDA616 	RM	123.0 PL	San Jac Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.44500 	WRZ822 	M	123.0 PL	San Jac FG 	Fireground 	FM 	Fire-Tac 
-154.84500 	WPZA831 	RM	064 NAC	San Jac SO 1 	Sheriff Dispatch 	P25 	Law Dispatch 
-155.52000 	WQAF646 	M	CSQ	San Jac SO10 	Sheriff Talk-around 	FM 	Law Talk 
-153.75500 	KNHW253 	BM		Shepherd PbW 	Shepherd Public Works 	FM 	Public Works 
-154.16000 	WPVT933 	BM	123.0 PL	Waterwood FD 	Waterwood Fireground 	FM 	Fire-Tac 
-Entergy 	 Project 25 Phase II	 Various	Grevemburg Communications	 LTR Standard	 Livingston	NW Radio (NXDN)	 NXDN NEXEDGE 4800
- Various	Sam Houston Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	Texas Wide Area Radio Network (TxWARN)
- Project 25 Phase II	 Various	
+155.97750 	159.05250  	WQFW945 	RM	192.8 PL	San Jac EMS 	EMS Dispatch (Allegiance Ambulance) 	FMN 	EMS Dispatch 
+155.69250 	158.87250  	WQFT874 	RM	192.8 PL	San Jac OEM 	Emergency Management, South Fire Operations 	FMN 	Emergency Ops 
+155.78250 	159.12750  	WQDA616 	RM	123.0 PL	San Jac Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.44500 	   	WRZ822 	M	123.0 PL	San Jac FG 	Fireground 	FM 	Fire-Tac 
+154.84500 	151.01000  	WPZA831 	RM	064 NAC	San Jac SO 1 	Sheriff Dispatch 	P25 	Law Dispatch 
+155.52000 	   	WQAF646 	M	CSQ	San Jac SO10 	Sheriff Talk-around 	FM 	Law Talk 
+153.75500 	   	KNHW253 	BM		Shepherd PbW 	Shepherd Public Works 	FM 	Public Works 
+154.16000 	   	WPVT933 	BM	123.0 PL	Waterwood FD 	Waterwood Fireground 	FM 	Fire-Tac 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Entergy 	 Project 25 Phase II	 Various	Grevemburg Communications	 LTR Standard	 Livingston
+NW Radio (NXDN)	 NXDN NEXEDGE 4800	 Various	Sam Houston Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston

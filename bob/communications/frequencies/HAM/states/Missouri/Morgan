@@ -1,46 +1,46 @@
-155.64000 	WPHK660 	RM	179.9 PL	Morg Sheriff 	Sheriff: Dispatch  	FMN 	Law Dispatch 
-155.64000 	WPHK660 	RM	141.3 PL	Morg SD Enc2 	Sheriff: Encrypted 	FMNE 	Data 
-155.31000 	WPHK660 	M		Mrgn SD C2C 	Sheriff: Car-to-Car  	FMN 	Law Tac 
-173.27500 	WPHK660 	M	CSQ	Morg SD MX 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
-154.02500 	WNPM871 	BM		Mrgn Crthse 	Courthouse Ops 	FMN 	Public Works 
-453.37500 	WNSV369 	BM		Morg GPSAVL1 	Sheriff: GPS/AVL (CSQ) 	Telm 	Data 
-453.90000 	WNSV369 	BM		Morg GPSAVL2 	Sheriff: GPS/AVL (CSQ) 	Telm 	Data 
-154.05500 	KNHV344 	BM		Mrgn Civ Def 	Civil Defense  	FMN 	Emergency Ops 
-151.02500 	WPLX357 	RM	88.5 PL	Mrgn Highway 	Highway Department  	FMN 	Public Works 
-155.04000 	WQW913 	RM		Cam-MO EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.14500 	WZJ516 	RM	88.5 PL	Mid-MO EMS 	Ambulance 	FMN 	EMS Dispatch 
-154.22000 	KNBJ227 	BM		Mrgn Fire422 	Fire 	FMN 	Fire Dispatch 
-154.38500 	WQF609 	RM	173.8 PL	Gravios Fire 	Fire: Dispatch (N & S Towers; DB: Sheriff) 	FMN 	Fire Dispatch 
-154.38500 	WQF609 	M	167.9 PL	Grav FireMob 	Fire: Mobiles (Talk-around) 	FMN 	Fire Dispatch 
-154.22000 	WQF609 	M		Mrgn Fire422 	Fire: 	FMN 	Fire-Tac 
-154.32500 	WQF609 	M		Grav Firgrnd 	Fire: 	FMN 	Fire-Tac 
-159.19500 	WQFT696 	RM		Grav RoadDst 	Road Maintenance  	FMN 	Public Works 
-155.70000 	WNQJ336 	RM	71.9 PL	Laur Police 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
-155.61000 	WNQJ336 	BM		LauriePbWrk1 	Public Works 	FMN 	Public Works 
-155.70000 	WNQJ336 	BM	179.9 PL	LauriePbWrk2 	Public Works 	FMN 	Public Works 
-173.36250 	WQGQ325 	F		Laurie WDD 	Water Distribution Data  	Telm 	Data 
-154.14500 	WPWE578 	BM	123.0 PL	Moreau Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.35500 	WPKR388 	RM	114.8 PL	RckyMnt Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.22000 	KNIF847 	BM		Mrgn Fire422 	Fire: Local  	FMN 	Fire-Tac 
-155.05500 	KNFW808 	BM	146.2 PL	MrgnSD/VerPD 	Sheriff/Versailles Police 	FMN 	Public Works 
-155.43000 	KNDH889 	BM	97.4 PL	StoverPolice 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
-154.17500 	WNPH544 	RM	146.2 PL	IvyBend Fire 	Fire: Dispatch - Ivy Bend FPD 	FMN 	Fire Dispatch 
-154.22000 	WNDH250 	B		Mrgn Fire422 	Fire 	FMN 	Fire Dispatch 
-156.10500 	WPAV857 	RM	162.2 PL	Stover Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
-156.10500 	WPAV857 	M	114.8 PL	Florenc Fire 	Florence Fire 	FMN 	Fire-Tac 
-156.10500 	WPAV857 	M	136.5 PL	StvrFire T/A 	Fire: Talk-Around 	FMN 	Fire-Tac 
-150.77500 	WPAV857 	M		Stover FG 	Fireground 	FMN 	Fire-Tac 
-154.22000 	WPAV857 	BM		Mrgn Fire422 	Fire: 	FMN 	Fire-Tac 
-155.88000 	KNFW808 	BM		Stov CityOps 	City Ops 	FMN 	Public Works 
-151.29500 	WPYG363 	RM		SBch Police 	Police: Disptach 	FMN 	Law Dispatch 
-155.05500 	WQBR928 	RM	146.2 PL	Vers Police 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
-155.05500 	WQBR928 	RM	114.8 PL	Vers PD Encr 	Police: Encrypted (DB: Sheriff) 	FMNE 	Data 
-159.13500 	WQHP613 	BM	654 DPL	Vers FD City 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.22000 	KZJ985 	BM		Mrgn Fire422 	Fire: Multi-County Mutual Aid 	FMN 	Fire Dispatch 
-155.76000 	WQJC213 	BM	110.9 PL	Vers PubWrks 	Public Works 	FMN 	Public Works 
-154.17500 	WNJE695 	RM		VersRFireFut 	Fire: Future Repeater 	FMN 	Fire Dispatch 
-154.17500 	WNJE695 	BM	88.5 PL	Vers RurFire 	Fire: Dispatch/Operations 	FMN 	Fire Dispatch 
-158.82000 	WNJE695 	M		VersRFire MX 	Fire: Mobile Extenders to 154.175 	FMN 	Fire Dispatch 
-155.23500 	WNQC222 	BM	225.7 PL	MrgnR2 Buses 	Buses / Admin 	FMN 	Schools 
-450.66250 	WPUG917 	B		UCMO Radio1 	Radio Link (Syracuse) 	FMN 	Media 
-466.86250 	WPUG917 	B		UCMO Radio2 	Radio Link (Syracuse) 	FMN 	Media 
+155.64000 	153.81500  	WPHK660 	RM	179.9 PL	Morg Sheriff 	Sheriff: Dispatch  	FMN 	Law Dispatch 
+155.64000 	153.81500  	WPHK660 	RM	141.3 PL	Morg SD Enc2 	Sheriff: Encrypted 	FMNE 	Data 
+155.31000 	   	WPHK660 	M		Mrgn SD C2C 	Sheriff: Car-to-Car  	FMN 	Law Tac 
+173.27500 	   	WPHK660 	M	CSQ	Morg SD MX 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
+154.02500 	   	WNPM871 	BM		Mrgn Crthse 	Courthouse Ops 	FMN 	Public Works 
+453.37500 	458.37500  	WNSV369 	BM		Morg GPSAVL1 	Sheriff: GPS/AVL (CSQ) 	Telm 	Data 
+453.90000 	458.90000  	WNSV369 	BM		Morg GPSAVL2 	Sheriff: GPS/AVL (CSQ) 	Telm 	Data 
+154.05500 	   	KNHV344 	BM		Mrgn Civ Def 	Civil Defense  	FMN 	Emergency Ops 
+151.02500 	158.95500  	WPLX357 	RM	88.5 PL	Mrgn Highway 	Highway Department  	FMN 	Public Works 
+155.04000 	151.43000  	WQW913 	RM		Cam-MO EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.14500 	156.00000  	WZJ516 	RM	88.5 PL	Mid-MO EMS 	Ambulance 	FMN 	EMS Dispatch 
+154.22000 	   	KNBJ227 	BM		Mrgn Fire422 	Fire 	FMN 	Fire Dispatch 
+154.38500 	153.77000  	WQF609 	RM	173.8 PL	Gravios Fire 	Fire: Dispatch (N & S Towers; DB: Sheriff) 	FMN 	Fire Dispatch 
+154.38500 	   	WQF609 	M	167.9 PL	Grav FireMob 	Fire: Mobiles (Talk-around) 	FMN 	Fire Dispatch 
+154.22000 	   	WQF609 	M		Mrgn Fire422 	Fire: 	FMN 	Fire-Tac 
+154.32500 	   	WQF609 	M		Grav Firgrnd 	Fire: 	FMN 	Fire-Tac 
+159.19500 	155.96250  	WQFT696 	RM		Grav RoadDst 	Road Maintenance  	FMN 	Public Works 
+155.70000 	155.19000  	WNQJ336 	RM	71.9 PL	Laur Police 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
+155.61000 	   	WNQJ336 	BM		LauriePbWrk1 	Public Works 	FMN 	Public Works 
+155.70000 	   	WNQJ336 	BM	179.9 PL	LauriePbWrk2 	Public Works 	FMN 	Public Works 
+173.36250 	   	WQGQ325 	F		Laurie WDD 	Water Distribution Data  	Telm 	Data 
+154.14500 	159.04500  	WPWE578 	BM	123.0 PL	Moreau Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.35500 	150.77500  	WPKR388 	RM	114.8 PL	RckyMnt Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.22000 	   	KNIF847 	BM		Mrgn Fire422 	Fire: Local  	FMN 	Fire-Tac 
+155.05500 	   	KNFW808 	BM	146.2 PL	MrgnSD/VerPD 	Sheriff/Versailles Police 	FMN 	Public Works 
+155.43000 	   	KNDH889 	BM	97.4 PL	StoverPolice 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
+154.17500 	159.40500  	WNPH544 	RM	146.2 PL	IvyBend Fire 	Fire: Dispatch - Ivy Bend FPD 	FMN 	Fire Dispatch 
+154.22000 	   	WNDH250 	B		Mrgn Fire422 	Fire 	FMN 	Fire Dispatch 
+156.10500 	153.95000  	WPAV857 	RM	162.2 PL	Stover Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
+156.10500 	   	WPAV857 	M	114.8 PL	Florenc Fire 	Florence Fire 	FMN 	Fire-Tac 
+156.10500 	   	WPAV857 	M	136.5 PL	StvrFire T/A 	Fire: Talk-Around 	FMN 	Fire-Tac 
+150.77500 	   	WPAV857 	M		Stover FG 	Fireground 	FMN 	Fire-Tac 
+154.22000 	   	WPAV857 	BM		Mrgn Fire422 	Fire: 	FMN 	Fire-Tac 
+155.88000 	   	KNFW808 	BM		Stov CityOps 	City Ops 	FMN 	Public Works 
+151.29500 	155.91000  	WPYG363 	RM		SBch Police 	Police: Disptach 	FMN 	Law Dispatch 
+155.05500 	154.81500  	WQBR928 	RM	146.2 PL	Vers Police 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
+155.05500 	154.81500  	WQBR928 	RM	114.8 PL	Vers PD Encr 	Police: Encrypted (DB: Sheriff) 	FMNE 	Data 
+159.13500 	   	WQHP613 	BM	654 DPL	Vers FD City 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.22000 	   	KZJ985 	BM		Mrgn Fire422 	Fire: Multi-County Mutual Aid 	FMN 	Fire Dispatch 
+155.76000 	   	WQJC213 	BM	110.9 PL	Vers PubWrks 	Public Works 	FMN 	Public Works 
+154.17500 	151.14500  	WNJE695 	RM		VersRFireFut 	Fire: Future Repeater 	FMN 	Fire Dispatch 
+154.17500 	   	WNJE695 	BM	88.5 PL	Vers RurFire 	Fire: Dispatch/Operations 	FMN 	Fire Dispatch 
+158.82000 	   	WNJE695 	M		VersRFire MX 	Fire: Mobile Extenders to 154.175 	FMN 	Fire Dispatch 
+155.23500 	   	WNQC222 	BM	225.7 PL	MrgnR2 Buses 	Buses / Admin 	FMN 	Schools 
+450.66250 	   	WPUG917 	B		UCMO Radio1 	Radio Link (Syracuse) 	FMN 	Media 
+466.86250 	   	WPUG917 	B		UCMO Radio2 	Radio Link (Syracuse) 	FMN 	Media 

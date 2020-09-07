@@ -1,27 +1,26 @@
-158.73000 	WPNY929 	RM		TCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.17500 	WNLA311 	B	CSQ	TCFD Paging 	800 DTRS Simulcast 	FMN 	Fire Dispatch 
-159.70500 	KDP273 	RM	179.9 PL	TCFD Disp 	Fire Response 	FMN 	Fire-Tac 
-159.70500 	KDP273 	M	179.9 PL	TCFD Ground 	Fireground 	FMN 	Fire-Tac 
-152.42000 	 	M	205 DPL	TCFD/EMS 	Fire/EMS 	FMN 	Fire-Tac 
-155.40000 	WZU394 	BM		TC EMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.34000 	WZU394 	BM	179.9 PL	H.E.A.R. 	EMS to Archbold Hospital 	FMN 	Hospital 
-853.48750 	 	M	155 DPL	800 T/A 	800 MHz Talk-Around 	FMN 	Multi-Talk 
-155.73000 	WPFC260 	BM		TC Gov 	Local Government 	FMN 	Other 
-458.62500 	WPLD200 	BM		TC Gov 	Local Government 	FMN 	Other 
-458.98750 	WPLD200 	BM		TC Gov 	Local Government 	FMN 	Other 
-151.62500 	 	M	CSQ	TC BOE 1 	Schools (principals, etc.) 	FMN 	Schools 
-159.60000 	WQCI902 	BM		McIntyre MS 	McIntyre Park Middle School 	FMN 	Schools 
-151.95500 	 	M	CSQ	TC BOE 2 	Schools (principals, etc.) 	FMN 	Schools 
-159.91500 	WQCI902 	BM		McIntyre MS 	McIntyre Park Middle School 	FMN 	Schools 
-452.83750 	WPYJ353 	BM		Meigs H2O 	Water Department 	FMN 	Utilities 
-159.70500 	KDP273 	RM		TPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-453.07500 	WNSX403 	BM		Thomasville 	Local Government 	FMN 	Public Works 
-451.17500 	WPDU886 	RM		Thomasville 	Local Government 	FMN 	Public Works 
-154.46375 	WQM612 	BM		H2O & Power 	Power & Water 	FMN 	Utilities 
-451.20000 	WQM612 	RM		H2O & Power 	Power & Water 	FMN 	Utilities 
-158.76000 	WXP639 	RM		Board of Ed 	Board of Education 	FMN 	Schools 
-453.50000 	WPTL709 	RM		Sanitation 	Sanitation Department 	FMN 	Public Works 
-866.62500 	WQFV868 	BM		TFD FG 1 	Fireground 	FMN 	Fire-Tac 
-867.37500 	WQFV868 	BM		TFD FG 2 	Fireground 	FMN 	Fire-Tac 
-Scruggs Concrete	 DMR Conventional Networked	 Various	Southwest Georgia Regional Radio System	 Motorola Type II SmartZone	 Albany	Southwest Georgia Regional Radio System (P25)	 Project 25 Phase II
- Varies	
+158.73000 	155.97000  	WPNY929 	RM		TCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.17500 	   	WNLA311 	B	CSQ	TCFD Paging 	800 DTRS Simulcast 	FMN 	Fire Dispatch 
+159.70500 	155.10000  	KDP273 	RM	179.9 PL	TCFD Disp 	Fire Response 	FMN 	Fire-Tac 
+159.70500 	   	KDP273 	M	179.9 PL	TCFD Ground 	Fireground 	FMN 	Fire-Tac 
+152.42000 	   	 	M	205 DPL	TCFD/EMS 	Fire/EMS 	FMN 	Fire-Tac 
+155.40000 	   	WZU394 	BM		TC EMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	WZU394 	BM	179.9 PL	H.E.A.R. 	EMS to Archbold Hospital 	FMN 	Hospital 
+853.48750 	   	 	M	155 DPL	800 T/A 	800 MHz Talk-Around 	FMN 	Multi-Talk 
+155.73000 	   	WPFC260 	BM		TC Gov 	Local Government 	FMN 	Other 
+458.62500 	   	WPLD200 	BM		TC Gov 	Local Government 	FMN 	Other 
+458.98750 	   	WPLD200 	BM		TC Gov 	Local Government 	FMN 	Other 
+151.62500 	   	 	M	CSQ	TC BOE 1 	Schools (principals, etc.) 	FMN 	Schools 
+159.60000 	   	WQCI902 	BM		McIntyre MS 	McIntyre Park Middle School 	FMN 	Schools 
+151.95500 	   	 	M	CSQ	TC BOE 2 	Schools (principals, etc.) 	FMN 	Schools 
+159.91500 	   	WQCI902 	BM		McIntyre MS 	McIntyre Park Middle School 	FMN 	Schools 
+452.83750 	   	WPYJ353 	BM		Meigs H2O 	Water Department 	FMN 	Utilities 
+159.70500 	155.10000  	KDP273 	RM		TPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+453.07500 	   	WNSX403 	BM		Thomasville 	Local Government 	FMN 	Public Works 
+451.17500 	456.17500  	WPDU886 	RM		Thomasville 	Local Government 	FMN 	Public Works 
+154.46375 	   	WQM612 	BM		H2O & Power 	Power & Water 	FMN 	Utilities 
+451.20000 	456.20000  	WQM612 	RM		H2O & Power 	Power & Water 	FMN 	Utilities 
+158.76000 	153.78500  	WXP639 	RM		Board of Ed 	Board of Education 	FMN 	Schools 
+453.50000 	458.50000  	WPTL709 	RM		Sanitation 	Sanitation Department 	FMN 	Public Works 
+866.62500 	821.62500  	WQFV868 	BM		TFD FG 1 	Fireground 	FMN 	Fire-Tac 
+867.37500 	822.37500  	WQFV868 	BM		TFD FG 2 	Fireground 	FMN 	Fire-Tac 
+Scruggs Concrete	 DMR Conventional Networked	 Various	Southwest Georgia Regional Radio System	 Motorola Type II SmartZone	 Albany	Southwest Georgia Regional Radio System (P25)	 Project 25 Phase II	 Varies

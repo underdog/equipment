@@ -1,26 +1,25 @@
-152.00750 	WQAL287 	B		MC Fire Disp 	County Fire Dispatch 	FM 	Fire Dispatch 
-154.35500 	WQBD681 	BM		MC Fire F1 	County Fire F1 	FM 	Fire-Tac 
-154.21250 	WQBD681 	BM		MC Fire F2 	County Fire F2 	FM 	Fire-Tac 
-154.40000 	WQBD681 	BM		MC Fire F3 	County Fire F3 	FM 	Fire-Tac 
-153.83000 	WQBD681 	M		MC Fire F4 	County Fire F4  Fireground 	FM 	Fire-Tac 
-154.31000 	WQBD681 	M		MC Fire F5 	County Fire F5  Water Supply 	FM 	Fire-Tac 
-154.14500 	WQBD681 	M		MC Fire F6 	County Fire F6  Interior Attack 	FM 	Fire-Tac 
-154.43000 	WQBD681 	M		MC Fire F7 	County Fire F7  Staging 	FM 	Fire-Tac 
-155.32500 	WQBD681 	M		MC Fire F8 	County Fire F8  Tactical 	FM 	Fire-Tac 
-154.16000 	WQBD681 	M		MC Fire F9 	County Fire F9  Fire-Police 	FM 	Fire-Tac 
-462.95000 	WNYT792 	RM		EMS Dispatch 	McKean Co. - EMS Dispatch MED-9 	FM 	EMS Dispatch 
-154.02500 	WNSZ304 	RM	114.8 PL	McKean PD 	County Police Dispatch (County Control) 	FM 	Law Dispatch 
-155.47500 	 	BM		National PD 	Police National 	FM 	Law Tac 
-159.09000 	WNPL338 	RM		Bradford PD 	Bradford Township - Police 	FM 	Law Tac 
-154.96500 	WNQF662 	M		BrdfrdPD Tac 	Bradford Township - Police Tac 	FM 	Law Tac 
-155.94000 	WNPU324 	RM		Kane LG 	Kane Borough - Local Government Services 	FM 	Public Works 
-151.62500 	WPCZ603 	BM		BeaconLt BHS 	Beacon Light Behavioral Health Systems 	FM 	Business 
-151.80500 	WPCZ603 	BM		BeaconLt BHS 	Beacon Light Behavioral Health Systems 	FM 	Business 
-151.89500 	WPCZ603 	BM		BeaconLt BHS 	Beacon Light Behavioral Health Systems 	FM 	Business 
-451.02500 	WNDM905 	RM		BradCtyWater 	Bradford City Water Authority 	FM 	Public Works 
-461.32500 	WPEW938 	RM		Bradford RMC 	Bradford Regional Medical Center Ops 	FM 	Business 
-464.32500 	WPWK244 	RM		Brad Forest 	Bradford Forest Products Inc 	FM 	Business 
-464.77500 	 	BM		MC Raceway 	McKean County Raceway 	FM 	Business 
-464.92500 	WPPG513 	RM		Bradford HS 	Bradford Area High School 	FM 	Schools 
-Federal Correctional Institution McKean	 Motorola Type II Smartnet	 Bradford	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud
- Statewide	
+152.00750 	   	WQAL287 	B		MC Fire Disp 	County Fire Dispatch 	FM 	Fire Dispatch 
+154.35500 	   	WQBD681 	BM		MC Fire F1 	County Fire F1 	FM 	Fire-Tac 
+154.21250 	   	WQBD681 	BM		MC Fire F2 	County Fire F2 	FM 	Fire-Tac 
+154.40000 	   	WQBD681 	BM		MC Fire F3 	County Fire F3 	FM 	Fire-Tac 
+153.83000 	   	WQBD681 	M		MC Fire F4 	County Fire F4  Fireground 	FM 	Fire-Tac 
+154.31000 	   	WQBD681 	M		MC Fire F5 	County Fire F5  Water Supply 	FM 	Fire-Tac 
+154.14500 	   	WQBD681 	M		MC Fire F6 	County Fire F6  Interior Attack 	FM 	Fire-Tac 
+154.43000 	   	WQBD681 	M		MC Fire F7 	County Fire F7  Staging 	FM 	Fire-Tac 
+155.32500 	   	WQBD681 	M		MC Fire F8 	County Fire F8  Tactical 	FM 	Fire-Tac 
+154.16000 	   	WQBD681 	M		MC Fire F9 	County Fire F9  Fire-Police 	FM 	Fire-Tac 
+462.95000 	467.95000  	WNYT792 	RM		EMS Dispatch 	McKean Co. - EMS Dispatch MED-9 	FM 	EMS Dispatch 
+154.02500 	158.94000  	WNSZ304 	RM	114.8 PL	McKean PD 	County Police Dispatch (County Control) 	FM 	Law Dispatch 
+155.47500 	   	 	BM		National PD 	Police National 	FM 	Law Tac 
+159.09000 	155.55000  	WNPL338 	RM		Bradford PD 	Bradford Township - Police 	FM 	Law Tac 
+154.96500 	   	WNQF662 	M		BrdfrdPD Tac 	Bradford Township - Police Tac 	FM 	Law Tac 
+155.94000 	   	WNPU324 	RM		Kane LG 	Kane Borough - Local Government Services 	FM 	Public Works 
+151.62500 	   	WPCZ603 	BM		BeaconLt BHS 	Beacon Light Behavioral Health Systems 	FM 	Business 
+151.80500 	   	WPCZ603 	BM		BeaconLt BHS 	Beacon Light Behavioral Health Systems 	FM 	Business 
+151.89500 	   	WPCZ603 	BM		BeaconLt BHS 	Beacon Light Behavioral Health Systems 	FM 	Business 
+451.02500 	   	WNDM905 	RM		BradCtyWater 	Bradford City Water Authority 	FM 	Public Works 
+461.32500 	   	WPEW938 	RM		Bradford RMC 	Bradford Regional Medical Center Ops 	FM 	Business 
+464.32500 	   	WPWK244 	RM		Brad Forest 	Bradford Forest Products Inc 	FM 	Business 
+464.77500 	   	 	BM		MC Raceway 	McKean County Raceway 	FM 	Business 
+464.92500 	   	WPPG513 	RM		Bradford HS 	Bradford Area High School 	FM 	Schools 
+Federal Correctional Institution McKean	 Motorola Type II Smartnet	 Bradford	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide

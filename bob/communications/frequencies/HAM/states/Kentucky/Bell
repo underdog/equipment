@@ -1,29 +1,30 @@
-453.41250 	WPMD858 	RM	565 DPL	Bell SO 1 	Sheriff Dispatch 	FMN 	Law Dispatch 
-460.50000 	WPMD858 	RM	136.5 PL	Bell SO 1 	Sheriff Dispatch - Middlesboro Repeater 	FMN 	Law Dispatch 
-453.88750 	 	BM		BCSO VRS 	Sheriff Vehicle Repeater System 	FMN 	Law Dispatch 
-152.96750 	WQHQ549 	BM	103.5 PL	Bell VFD 1 	Fire - Dispatch 	FMN 	Fire Dispatch 
-154.31000 	WQCH864 	BM	103.5 PL	Bell VFD 2 	Fire - Tactical 	FMN 	Fire-Talk 
-155.32500 	WQRL209 	BM	82.5 PL	Bell EMS 	 EMS Dispatch 	FMN 	EMS Dispatch 
-155.34000 	 	BM		Bell EMS-KHERN 	EMS-to-Hospital 	FMN 	Hospital 
-453.10000 	WQDU490 	RM	173.8 PL	BCRsq 	Rescue 	FMN 	Emergency Ops 
-460.18750 	WQQQ884 	BM		Road Dept. 	Road Department 	FMN 	Public Works 
-151.07000 	KIA516 	BM	77.0 PL	Mddlboro PD1 	Police - Dispatch 	FMN 	Law Dispatch 
-154.71000 	KIA516 	M		Mddlboro PD2 	Police - Tactical 	FMN 	Law Tac 
-155.64000 	WQLX811  	BM	114.8 PL	Midbro FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-159.11250 	WQYT460 	BM		MWD 	Water District 	FMN 	Public Works 
-460.12500 	WNRM277 	RM	023 DPL	Pnvl PD 1 	Police 	FMN 	Law Dispatch 
-154.04000 	WPVZ400 	RM	162.2 PL	Pnvl Fire 	Fire 	FMN 	Fire Dispatch 
-155.04000 	WQYT460 	BM	192.8 PL	PWD 	Water District 	FMN 	Public Works 
-154.97250 	WQEH996 	BM		PSWU 	Street Department 	FMN 	Public Works 
-453.05000 	WNCT876 	RM	118.8 PL	FVFD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-453.70000 	WNCT876 	RM		FVFD 	Fire - Pineville Repeater 	FMN 	Fire-Tac 
-452.40000 	WNPK474 	BM	100.0 PL	BCBE Ch1 	Bell Co Board of Ed Ch1 	FMN 	Schools 
-457.40000 	WNPK474 	BM		BCBE Ch2 	Bell Co Board of Ed Ch2 	FMN 	Schools 
-464.20000 	WQTU507 	BM	074 DPL	M Ch1 	Middlesboro Ch1 	FMN 	Schools 
-452.12500 	WQBA380 	RM	118.8 PL	MdboroARH 	Middlesboro ARH Hospital 	FMN 	Hospital 
-451.83750 	WQBA381 	RM	179.9 PL	Pnv lHosp 	Pineville Community Hospital 	FMN 	Hospital 
-453.47500 	WPUD278 	BM		PCH 	Pineville Community Hospital 	FMN 	Hospital 
-463.50000 	WPJV331 	RM	110.9 PL	TM-OPS-1 	Tunnel - Safety & Maintenance 	FMN 	Public Works 
-464.85000 	WQAA616 	BM		BTS 	Brooks Tire Service 	FMN 	Business 
-463.56250 	WQJY693 	BM		Covol Fuels 	Covol Fuels 	FMN 	Business 
-159.88500 	WQUG393  	BM		Mall 	Middlesboro Mall Security 	FMN 	Security 
+453.41250 	458.41250  	WPMD858 	RM	565 DPL	Bell SO 1 	Sheriff Dispatch 	FMN 	Law Dispatch 
+460.50000 	465.50000  	WPMD858 	RM	136.5 PL	Bell SO 1 	Sheriff Dispatch - Middlesboro Repeater 	FMN 	Law Dispatch 
+453.88750 	   	 	BM		BCSO VRS 	Sheriff Vehicle Repeater System 	FMN 	Law Dispatch 
+152.96750 	157.65750  	WQHQ549 	BM	103.5 PL	Bell VFD 1 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.31000 	   	WQCH864 	BM	103.5 PL	Bell VFD 2 	Fire - Tactical 	FMN 	Fire-Talk 
+155.32500 	   	WQRL209 	BM	82.5 PL	Bell EMS 	 EMS Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	 	BM		Bell EMS-KHERN 	EMS-to-Hospital 	FMN 	Hospital 
+453.10000 	458.10000  	WQDU490 	RM	173.8 PL	BCRsq 	Rescue 	FMN 	Emergency Ops 
+460.18750 	   	WQQQ884 	BM		Road Dept. 	Road Department 	FMN 	Public Works 
+151.07000 	   	KIA516 	BM	77.0 PL	Mddlboro PD1 	Police - Dispatch 	FMN 	Law Dispatch 
+154.71000 	   	KIA516 	M		Mddlboro PD2 	Police - Tactical 	FMN 	Law Tac 
+155.64000 	153.99500  	WQLX811  	BM	114.8 PL	Midbro FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+159.11250 	   	WQYT460 	BM		MWD 	Water District 	FMN 	Public Works 
+460.12500 	465.12500  	WNRM277 	RM	023 DPL	Pnvl PD 1 	Police 	FMN 	Law Dispatch 
+154.04000 	158.89500  	WPVZ400 	RM	162.2 PL	Pnvl Fire 	Fire 	FMN 	Fire Dispatch 
+155.04000 	   	WQYT460 	BM	192.8 PL	PWD 	Water District 	FMN 	Public Works 
+154.97250 	   	WQEH996 	BM		PSWU 	Street Department 	FMN 	Public Works 
+453.05000 	458.05000  	WNCT876 	RM	118.8 PL	FVFD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+453.70000 	458.70000  	WNCT876 	RM		FVFD 	Fire - Pineville Repeater 	FMN 	Fire-Tac 
+452.40000 	   	WNPK474 	BM	100.0 PL	BCBE Ch1 	Bell Co Board of Ed Ch1 	FMN 	Schools 
+457.40000 	   	WNPK474 	BM		BCBE Ch2 	Bell Co Board of Ed Ch2 	FMN 	Schools 
+464.20000 	   	WQTU507 	BM	074 DPL	M Ch1 	Middlesboro Ch1 	FMN 	Schools 
+452.12500 	457.12500  	WQBA380 	RM	118.8 PL	MdboroARH 	Middlesboro ARH Hospital 	FMN 	Hospital 
+451.83750 	456.83750  	WQBA381 	RM	179.9 PL	Pnv lHosp 	Pineville Community Hospital 	FMN 	Hospital 
+453.47500 	   	WPUD278 	BM		PCH 	Pineville Community Hospital 	FMN 	Hospital 
+463.50000 	468.50000  	WPJV331 	RM	110.9 PL	TM-OPS-1 	Tunnel - Safety & Maintenance 	FMN 	Public Works 
+464.85000 	   	WQAA616 	BM		BTS 	Brooks Tire Service 	FMN 	Business 
+463.56250 	   	WQJY693 	BM		Covol Fuels 	Covol Fuels 	FMN 	Business 
+159.88500 	   	WQUG393  	BM		Mall 	Middlesboro Mall Security 	FMN 	Security 
+464.45000 	   	WNWV495 	BM		RTEC 	Rural Transit Enterprises Coordinated 	FMN 	Business 

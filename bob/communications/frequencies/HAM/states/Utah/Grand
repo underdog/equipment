@@ -1,22 +1,22 @@
-154.11500 	WNXW914 	RM	103.5 PL	Grand SO Disp 	Sheriff Dispatch (Bald Mesa, linked to UCA 35904) 	FMN 	Law Dispatch 
-153.97250 	WQIR916 	RM	103.5 PL	Grand SO North 	Sheriff North (Willow Peak, linked to UCA 35904) 	FMN 	Law Dispatch 
-158.85000 	WNXW914 	BM	103.5 PL	Grand SO Moab 	Sheriff Local (Moab, linked to UCA 35904) 	FMN 	Law Dispatch 
-155.73000 	KXE585 	RM	103.5 PL	Grand SO Tac 	Sheriff Tactical (SL2, linked to UCA 35936) 	FMN 	Law Tac 
-153.77000 	WNHT416 	BM	103.5 PL	Grand FD Dsp 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.43000 	WNHT416 	BM	103.5 PL	Grand FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-155.83500 	KNIC398 	RM	100.0 PL	Grand EMS 	EMS (linked to UCA 36064) 	FMN 	EMS Dispatch 
-155.10000 	WPEC778 	BM	233.6 PL	Grand Jail 	Jail 	FMN 	Law Talk 
-152.27000 	WPBT975 	RM	167.9 PL	Grand Sch 1 	Schools 1 	FMN 	Schools 
-151.74500 	WPBT975 	BM	103.5 PL	Grand Sch 2 	Schools 2 	FMN 	Schools 
-155.94000 	WQEA723 	BM	127.3 PL	Grand Senior 	Senior Center 	FMN 	Public Works 
-155.76000 	WNGC887 	RM	103.5 PL	Grand Roads 	Road Department 	FMN 	Public Works 
-158.95500 	WNWW820 	BM		Grand Water 	Water Conservation District 	FMN 	Public Works 
-155.06250 	WQII852 	M	123.0 PL	Sand Flats 	Sand Flats Recreation Area 	FMN 	Public Works 
-155.41500 	WPEK380 	RM	100.0 PL	Moab PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
-153.99500 	WPEK380 	BM	123.0 PL	Moab PD Tac 	Police Tactical 	FMN 	Law Tac 
-158.76000 	WQBB996 	RM	151.4 PL	Moab PW 	Public Works 	FMN 	Public Works 
-155.21250 	WQKY663 	RM	123.0 PL	Moab Hosp Rpt 	Moab Regional Hospital Repeater 	FMN 	Hospital 
-154.05500 	WQKY663 	BM	CSQ	Moab Hosp Paging 	Moab Regional Hospital Paging 	FMN 	Hospital 
-Carbon and Emery County Digital System	 NXDN NEXEDGE 4800	 Castle Dale	Intrepid Potash	 NXDN NEXEDGE 9600	 Moab	Peak Wireless Services	 NXDN NEXEDGE 9600
- Multiple	Questar-Dominion DT3	 DMR Tier 3	 Multiple	Rocky Mountain Power	 MPT-1327 Standard	 Multiple	Two Way Communications NXDN
- NXDN NEXEDGE 4800	 Multiple	
+154.11500 	158.85000  	WNXW914 	RM	103.5 PL	Grand SO 1 Disp 	Sheriff 1 Dispatch (UCA 35904) 	FMN 	Law Dispatch 
+155.73000 	151.37000  	KXE585 	RM	100.0 PL	Grand SO 2 Tac 	Sheriff 2 Tactical (UCA 35936) 	FMN 	Law Tac 
+153.97250 	158.85000  	WQIR916 	RM	103.5 PL	Grand SO 3 N Dis 	Sheriff 3 North (UCA 35904) 	FMN 	Law Dispatch 
+155.04000 	151.37000  	WQIR916 	RM	100.0 PL	Grand SO 4 N Tac 	Sheriff 4 North Tac (UCA 35936) 	FMN 	Law Tac 
+155.10000 	   	WPEC778 	BM	233.6 PL	Grand SO Jail 	Sheriff Jail 	FMN 	Law Talk 
+153.77000 	   	WNHT416 	BM	103.5 PL	GrandCo FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.43000 	   	WNHT416 	BM	103.5 PL	GrandCo FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+155.83500 	151.34000  	KNIC398 	RM	100.0 PL	GrandCo EMS 	EMS (UCA 36064) 	FMN 	EMS Dispatch 
+155.13000 	151.34000  	WQIR916 	RM	100.0 PL	GrandCo EMS N 	EMS North (UCA 36064) 	FMN 	EMS Dispatch 
+155.06250 	   	WQII852 	M	123.0 PL	Sand Flats 	Sand Flats Recreation Area 	FMN 	Public Works 
+155.76000 	155.04000  	WNGC887 	RM	103.5 PL	GrandCo Roads 	Road Department 	FMN 	Public Works 
+155.94000 	   	WQEA723 	BM	127.3 PL	GrandCo Senior 	Senior Center 	FMN 	Public Works 
+158.95500 	   	WNWW820 	BM	CSQ	GrandCo Water 	Water Conservation District 	FMN 	Public Works 
+152.27000 	157.53000  	WPBT975 	RM	167.9 PL	GrandCo Sch 1 	Schools 1 	FMN 	Schools 
+151.74500 	   	WPBT975 	BM	103.5 PL	GrandCo Sch 2 	Schools 2 	FMN 	Schools 
+155.41500 	154.72500  	WPEK380 	RM	100.0 PL	Moab PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+153.99500 	   	WPEK380 	BM	123.0 PL	Moab PD Tac 	Police Tactical 	FMN 	Law Tac 
+158.76000 	155.53500  	WQBB996 	RM	151.4 PL	Moab PW 	Public Works 	FMN 	Public Works 
+155.21250 	158.87250  	WQKY663 	RM	123.0 PL	Moab Hosp Rpt 	Moab Regional Hospital Repeater 	FMN 	Hospital 
+154.05500 	   	WQKY663 	BM	CSQ	Moab Hosp Paging 	Moab Regional Hospital Paging 	FMN 	Hospital 
+Carbon and Emery County Digital System	 NXDN NEXEDGE 4800	 Castle Dale	Intrepid Potash	 NXDN NEXEDGE 9600	 Moab	Peak Wireless Services	 NXDN NEXEDGE 9600	 Multiple
+Questar-Dominion DT3	 DMR Tier 3	 Multiple	Rocky Mountain Power	 MPT-1327 Standard	 Multiple	Two Way Communications NXDN	 NXDN NEXEDGE 4800	 Multiple

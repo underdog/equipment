@@ -1,12 +1,13 @@
-154.44500 	KJP497 	RM	91.5 PL	Wrck Fire 	Warrick County Fire - VHF Dispatch 	FMN 	Fire Dispatch 
-453.28750 	WPUW590 	M	91.5 PL	Wrrck Law TA 	Warrick Co Law Enforcement Talkaround 	FMN 	Law Talk 
-453.68750 	WPUW590 	M	91.5 PL	WrckFD/EMSTA 	Warrick Co Fire/EMS Talkaround 	FMN 	Fire-Talk 
-453.83750 	WPUW590 	M	91.5 PL	Wrck T/A - 1 	Warrick Co Trunked System Talkaround Channel 1 	FMN 	Interop 
-458.68750 	WPUW590 	M	91.5 PL	Wrck T/A - 2 	Warrick Co Trunked System Talkaround Channel 2 	FMN 	Interop 
-451.31250 	WQDF985 	RM	2 RAN	Deacon Secty 	Deaconess Security 	NXDN 	Security 
-452.68750 	WQDF985 	RM	2 RAN	Deacon Maint 	Deaconess Maintenance 	NXDN 	Business 
-461.32500 	WQDB509 	RM	110.9 PL	Deacon Maint 	Deaconess Maintenance 	FMN 	Business 
-153.60500 	KTG597 	BM		Boon Nat Gas 	Boonville Natural Gas 	NXDN 	Utilities 
-153.33500 	WQLA398 	BM	186.2 PL	Vectren 	Vectren 	FMN 	Utilities 
-Alcoa Warrick Operations	 LTR Standard	 Yankeetown	Alcoa Warrick Operations	 NXDN NEXEDGE 9600	 Yankeetown	Indiana Project Hoosier SAFE-T	 Project 25 Phase I
- Statewide	Newburgh Government Services	 LTR Standard	 Newburgh	
+154.44500 	159.36000  	KJP497 	RM	91.5 PL	Wrck Fire 	Warrick County Fire - VHF Dispatch 	FMN 	Fire Dispatch 
+453.28750 	   	WPUW590 	M	91.5 PL	Wrrck Law TA 	Warrick Co Law Enforcement Talkaround 	FMN 	Law Talk 
+453.68750 	   	WPUW590 	M	91.5 PL	WrckFD/EMSTA 	Warrick Co Fire/EMS Talkaround 	FMN 	Fire-Talk 
+453.71250 	   	 	BM	1 RAN	WARRICK SCHOOL 	Warrick County School Buses (Transportation Dept) 	NXDN 	Schools 
+453.83750 	   	WPUW590 	M	91.5 PL	Wrck T/A - 1 	Warrick Co Trunked System Talkaround Channel 1 	FMN 	Interop 
+458.68750 	   	WPUW590 	M	91.5 PL	Wrck T/A - 2 	Warrick Co Trunked System Talkaround Channel 2 	FMN 	Interop 
+451.31250 	456.31250  	WQDF985 	RM	2 RAN	Deacon Secty 	Deaconess Security 	NXDN 	Security 
+452.68750 	457.68750  	WQDF985 	RM	2 RAN	Deacon Maint 	Deaconess Maintenance 	NXDN 	Business 
+461.32500 	466.32500  	WQDB509 	RM	110.9 PL	Deacon Maint 	Deaconess Maintenance 	FMN 	Business 
+153.60500 	159.51000  	KTG597 	BM		Boon Nat Gas 	Boonville Natural Gas 	NXDN 	Utilities 
+153.33500 	   	WQLA398 	BM	186.2 PL	Vectren 	Vectren 	FMN 	Utilities 
+Alcoa Warrick Operations	 LTR Standard	 Yankeetown	Alcoa Warrick Operations	 NXDN NEXEDGE 9600	 Yankeetown	Newburgh Government Services	 LTR Standard	 Newburgh
+Warrick County Government	 DMR Motorola Capacity Plus Single Site (TRBO)	 Boonville	

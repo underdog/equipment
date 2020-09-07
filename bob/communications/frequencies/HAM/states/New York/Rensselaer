@@ -1,67 +1,67 @@
-155.85750 	WQPN764 	RM	173 NAC	RensCo SO 	Sheriff Dispatch 	P25 	Law Dispatch 
-154.81500 	KVX660 	BM		RensCo SO 	Law Enforcement 	FMN 	Law Talk 
-154.72500 	WPEJ882 	RM	167.9 PL	RensCo Jail 	Corrections 	FMN 	Corrections 
-155.65500 	KEC598 	BM	94.8 PL	RensCo FD Paging 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-853.86250 	WPWY908 	M		RensCo FG 1 	Fireground Ch. 1 	FM 	Fire-Tac 
-853.88750 	WPWY908 	M		RensCo FG 2 	Fireground Ch. 2 	FM 	Fire-Tac 
-853.91250 	WPWY908 	M		RensCo FG 3 	Fireground Ch. 3 (FAST) 	FM 	Fire-Tac 
-853.98750 	WPWY908 	M		RensCo FG 4 	Fireground Ch. 4 (Fire Police) 	FM 	Fire-Tac 
-46.22000 	KED775 	BM		RensCo F2 	Fireground 	FM 	Fire-Tac 
-153.83000 	KB95989 	M		RensCo FDPol 	Fire Police 	FMN 	Emergency Ops 
-155.22000 	KAF561 	BM		RensCO SAR 	Search and Rescue 	FMN 	EMS-Tac 
-855.48750 	WPJS218 	M		FairbanksRd 	Fairbanks Road Talkaround 	FM 	Fire-Talk 
-854.01250 	WPJS218 	RM		RensCo TRS B/U 6 	Trunked System Backup Ch 6 	FM 	Interop 
-859.03750 	WPJS218 	RM		RensCo TRS B/U 9 	Trunked System Backup Ch 9 	FM 	Interop 
-155.04000 	KDN541 	BM		BrunswickDPW 	DPW 	FMN 	Public Works 
-155.04000 	KDN541 	BM		CastletonVil 	DPW 	FMN 	Public Works 
-856.23750 	WQTT687 	BM	7B1 NAC	EGreenb PD1 	Police 1 	P25 	Law Dispatch 
-857.71250 	WQTT687 	BM		EGreenb PD2 	Police 2 	P25 	Law Tac 
-154.99500 	KVX660 	RM	94.8 PL	EGreen PD 	Police (Analog) 	FMN 	Law Dispatch 
-46.16000 	WNLC502 	BM	210.7 PL	EGreenFire1 	Fire Operations 	FM 	Fire-Tac 
-46.28000 	WNLC502 	BM		EGreenFire3 	Fire Police 	FM 	Fire-Talk 
-153.98000 	WPRR641 	BM		EGreenFire3 	Fire Operations 	FMN 	Fire-Talk 
-155.16000 	WQJV871 	BM		WFB EMS Disp 	WF Bruen Rescue Squad Dispatch 	FMN 	EMS Dispatch 
-860.48750 	 	BM	123.0 PL	WFB EMS Disp 	WF Bruen Rescue Simulcast of 155.160 	FM 	EMS Dispatch 
-45.96000 	WPXM761 	BM		WFB EMS OPS 	WF Bruen Rescue Squad Operations 	FM 	EMS-Tac 
-150.99500 	KDF572 	RM		EGreen Hwy 	Highway Department 	FMN 	Public Works 
-46.18000 	WPFV593 	M		Hoosick F FD 	Fireground 	FM 	Fire-Tac 
-154.78500 	KIB858 	BM		Hoosick F PD 	Police 	FMN 	Law Dispatch 
-151.01000 	KNIU446 	BM	110.9 PL	Nassau DPW 	DPW 	FMN 	Public Works 
-155.59500 	KNAK329 	RM	411 DPL	NGPD 	Police 	FMN 	Law Dispatch 
-156.12000 	KSK416 	BM		NG DPW 	DPW 	FMN 	Public Works 
-45.72000 	KD25671 	M		Pburgh DPW 	DPW 	FM 	Public Works 
-460.12500 	KUY644 	RM	110.9 PL	Rens PD 1 	Police F1 	FMN 	Law Dispatch 
-460.22500 	WPEC636 	RM	110.9 PL	Rens PD 2 	Police F2 	FMN 	Law Tac 
-460.55000 	WNSV962 	RM	146.2 PL	Rens FD 1 	Fire F1 	FMN 	Fire Dispatch 
-460.17500 	 	RM	146.2 PL	Rens FD 2 	Fire F2 	FMN 	Fire-Tac 
-151.13000 	KRJ661 	BM		SchagtickePW 	DPW 	FMN 	Public Works 
-154.08500 	KJW459 	BM	107.2 PL	Schodack PW 	DPW 	FMN 	Public Works 
-155.41500 	WQDX548 	BM	186.2 PL	Schodack PD 	Police 	FMN 	Law Dispatch 
-166.25000 	WQNI211 	RM	432 DPL	Schodack PD 	Police 	FMN 	Law Dispatch 
-460.47500 	WNSD736 	RM	110.9 PL	Troy FD1 	Fire Dispatch/Operations 	FMN 	Fire Dispatch 
-460.07500 	WNSD736 	RM	110.9 PL	Troy FD2 	Fire Ch. 2 	FMN 	Fire-Talk 
-458.62500 	KAV468 	M		Troy FG 	Fireground 	FMN 	Fire-Tac 
-46.18000 	WPZE780 	BM		Averill Park 	Fireground 	FM 	Fire-Tac 
-160.20000 	WPZQ707 	BM	173.8 PL	Empire Ambulance 	Dispatch (Troy Ambulance) 	FMN 	EMS Dispatch 
-45.96000 	KUJ779 	BM		Hoosick Resc 	Operations 	FM 	EMS-Talk 
-155.23500 	WPJW668 	BM	364 DPL	Mohawk Amb 1 	Mohawk Ambulance Service 	FMN 	EMS Dispatch 
-154.05500 	WPJW668 	RM	364 DPL	Mohawk Amb 2 	Albany/Rensselaer County 	FMN 	EMS Dispatch 
-151.05500 	WQGK791 	RM		WynantskilFD 	Wynantskill Fire Department 	FMN 	Fire-Tac 
-46.30000 	WPHN530 	M		PoestenkilFD 	Fireground 	FM 	Fire-Tac 
-453.95000 	WPPA234 	RM		HudsonValley 	Hudson Valley Community College 	FMN 	Schools 
-155.22000 	WNFR574 	BM	156.7 PL	RPI Ambulanc 	RPI Ambulance 	FMN 	EMS Dispatch 
-460.28750 	WNFR574 	RM		RPI Ambulanc 	RPI Ambulance 	FMN 	EMS-Tac 
-152.30000 	WPZX349 	RM	632 DPL	RPIPubSfty 	RPI Public Safety 	FMN 	Security 
-151.68500 	 	BM	612 DPL	RPIPubSfty2 	RPI Public Safety 2 	FMN 	Security 
-151.83500 	WPAY495 	BM	632 DPL	RPICallBoxes 	RPI Public Safety call boxes 	FMN 	Security 
-151.65500 	WSZ347 	BM	156.7 PL	RPITransport 	RPI Transportation  	FMN 	Schools 
-152.37500 	WQAB861 	RM	331 DPL	RPI Envirom 	RPI Environmental Services 	FMN 	Schools 
-151.95500 	KEQ508 	RM	156.7 PL	RPI Physical 	RPI Physical Facilities 	FMN 	Schools 
-151.62500 	 	BM	100.0 PL	RPI FieldHse 	RPI Houston Field House Operations 	FMN 	Schools 
-464.30000 	 	RM	110.9 PL	Sage College 	The Sage College Maintenance and Security 	FMN 	Schools 
-460.61250 	WQGX389 	RM	712 DPL	Berlin 	Berlin School District Bus Operations 	FMN 	Schools 
-464.12500 	 	RM	127.3 PL	Lansingburg 	Lansingburg Central School District - Troy 	FMN 	Schools 
-Adirondack 2-Way Radio	 NXDN Icom IDAS Type D	 Various	Business Radio Communications	 LTR Standard	 Grafton	Capital Digitronics (Capital District Public Safety)	 EDACS Networked Standard
- Various	Capital District Transportation Authority	 Project 25 Phase II	 Regional	Goin Mobile (Brunswick)	 LTR Standard	 Brunswick	New York State Electric and Gas (NYSEG)
- Project 25 Phase I	 Statewide	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Troy	 Project 25 Phase I	 Troy
+155.85750 	159.02250  	WQPN764 	RM	173 NAC	RensCo SO 	Sheriff Dispatch 	P25 	Law Dispatch 
+154.81500 	   	KVX660 	BM		RensCo SO 	Law Enforcement 	FMN 	Law Talk 
+154.72500 	159.39000  	WPEJ882 	RM	167.9 PL	RensCo Jail 	Corrections 	FMN 	Corrections 
+155.65500 	   	KEC598 	BM	94.8 PL	RensCo FD Paging 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+853.86250 	   	WPWY908 	M		RensCo FG 1 	Fireground Ch. 1 	FM 	Fire-Tac 
+853.88750 	   	WPWY908 	M		RensCo FG 2 	Fireground Ch. 2 	FM 	Fire-Tac 
+853.91250 	   	WPWY908 	M		RensCo FG 3 	Fireground Ch. 3 (FAST) 	FM 	Fire-Tac 
+853.98750 	   	WPWY908 	M		RensCo FG 4 	Fireground Ch. 4 (Fire Police) 	FM 	Fire-Tac 
+46.22000 	   	KED775 	BM		RensCo F2 	Fireground 	FM 	Fire-Tac 
+153.83000 	   	KB95989 	M		RensCo FDPol 	Fire Police 	FMN 	Emergency Ops 
+155.22000 	   	KAF561 	BM		RensCO SAR 	Search and Rescue 	FMN 	EMS-Tac 
+855.48750 	810.48750  	WPJS218 	M		FairbanksRd 	Fairbanks Road Talkaround 	FM 	Fire-Talk 
+854.01250 	815.46250  	WPJS218 	RM		RensCo TRS B/U 6 	Trunked System Backup Ch 6 	FM 	Interop 
+859.03750 	815.96250  	WPJS218 	RM		RensCo TRS B/U 9 	Trunked System Backup Ch 9 	FM 	Interop 
+155.04000 	   	KDN541 	BM		BrunswickDPW 	DPW 	FMN 	Public Works 
+155.04000 	   	KDN541 	BM		CastletonVil 	DPW 	FMN 	Public Works 
+856.23750 	811.23750  	WQTT687 	BM	7B1 NAC	EGreenb PD1 	Police 1 	P25 	Law Dispatch 
+857.71250 	812.71250  	WQTT687 	BM		EGreenb PD2 	Police 2 	P25 	Law Tac 
+154.99500 	   	KVX660 	RM	94.8 PL	EGreen PD 	Police (Analog) 	FMN 	Law Dispatch 
+46.16000 	   	WNLC502 	BM	210.7 PL	EGreenFire1 	Fire Operations 	FM 	Fire-Tac 
+46.28000 	   	WNLC502 	BM		EGreenFire3 	Fire Police 	FM 	Fire-Talk 
+153.98000 	   	WPRR641 	BM		EGreenFire3 	Fire Operations 	FMN 	Fire-Talk 
+155.16000 	   	WQJV871 	BM		WFB EMS Disp 	WF Bruen Rescue Squad Dispatch 	FMN 	EMS Dispatch 
+860.48750 	   	 	BM	123.0 PL	WFB EMS Disp 	WF Bruen Rescue Simulcast of 155.160 	FM 	EMS Dispatch 
+45.96000 	   	WPXM761 	BM		WFB EMS OPS 	WF Bruen Rescue Squad Operations 	FM 	EMS-Tac 
+150.99500 	159.04500  	KDF572 	RM		EGreen Hwy 	Highway Department 	FMN 	Public Works 
+46.18000 	   	WPFV593 	M		Hoosick F FD 	Fireground 	FM 	Fire-Tac 
+154.78500 	   	KIB858 	BM		Hoosick F PD 	Police 	FMN 	Law Dispatch 
+151.01000 	   	KNIU446 	BM	110.9 PL	Nassau DPW 	DPW 	FMN 	Public Works 
+155.59500 	153.80750  	KNAK329 	RM	411 DPL	NGPD 	Police 	FMN 	Law Dispatch 
+156.12000 	   	KSK416 	BM		NG DPW 	DPW 	FMN 	Public Works 
+45.72000 	   	KD25671 	M		Pburgh DPW 	DPW 	FM 	Public Works 
+460.12500 	465.12500  	KUY644 	RM	110.9 PL	Rens PD 1 	Police F1 	FMN 	Law Dispatch 
+460.22500 	465.22500  	WPEC636 	RM	110.9 PL	Rens PD 2 	Police F2 	FMN 	Law Tac 
+460.55000 	465.55000  	WNSV962 	RM	146.2 PL	Rens FD 1 	Fire F1 	FMN 	Fire Dispatch 
+460.17500 	465.17500  	 	RM	146.2 PL	Rens FD 2 	Fire F2 	FMN 	Fire-Tac 
+151.13000 	   	KRJ661 	BM		SchagtickePW 	DPW 	FMN 	Public Works 
+154.08500 	   	KJW459 	BM	107.2 PL	Schodack PW 	DPW 	FMN 	Public Works 
+155.41500 	   	WQDX548 	BM	186.2 PL	Schodack PD 	Police 	FMN 	Law Dispatch 
+166.25000 	154.89000  	WQNI211 	RM	432 DPL	Schodack PD 	Police 	FMN 	Law Dispatch 
+460.47500 	465.47500  	WNSD736 	RM	110.9 PL	Troy FD1 	Fire Dispatch/Operations 	FMN 	Fire Dispatch 
+460.07500 	465.07500  	WNSD736 	RM	110.9 PL	Troy FD2 	Fire Ch. 2 	FMN 	Fire-Talk 
+458.62500 	   	KAV468 	M		Troy FG 	Fireground 	FMN 	Fire-Tac 
+46.18000 	   	WPZE780 	BM		Averill Park 	Fireground 	FM 	Fire-Tac 
+160.20000 	   	WPZQ707 	BM	173.8 PL	Empire Ambulance 	Dispatch (Troy Ambulance) 	FMN 	EMS Dispatch 
+45.96000 	   	KUJ779 	BM		Hoosick Resc 	Operations 	FM 	EMS-Talk 
+155.23500 	   	WPJW668 	BM	364 DPL	Mohawk Amb 1 	Mohawk Ambulance Service 	FMN 	EMS Dispatch 
+154.05500 	151.20500  	WPJW668 	RM	364 DPL	Mohawk Amb 2 	Albany/Rensselaer County 	FMN 	EMS Dispatch 
+151.05500 	156.03000  	WQGK791 	RM		WynantskilFD 	Wynantskill Fire Department 	FMN 	Fire-Tac 
+46.30000 	   	WPHN530 	M		PoestenkilFD 	Fireground 	FM 	Fire-Tac 
+453.95000 	458.95000  	WPPA234 	RM		HudsonValley 	Hudson Valley Community College 	FMN 	Schools 
+155.22000 	   	WNFR574 	BM	156.7 PL	RPI Ambulanc 	RPI Ambulance 	FMN 	EMS Dispatch 
+460.28750 	465.28750  	WNFR574 	RM		RPI Ambulanc 	RPI Ambulance 	FMN 	EMS-Tac 
+152.30000 	157.56000  	WPZX349 	RM	632 DPL	RPIPubSfty 	RPI Public Safety 	FMN 	Security 
+151.68500 	   	 	BM	612 DPL	RPIPubSfty2 	RPI Public Safety 2 	FMN 	Security 
+151.83500 	   	WPAY495 	BM	632 DPL	RPICallBoxes 	RPI Public Safety call boxes 	FMN 	Security 
+151.65500 	   	WSZ347 	BM	156.7 PL	RPITransport 	RPI Transportation  	FMN 	Schools 
+152.37500 	157.63500  	WQAB861 	RM	331 DPL	RPI Envirom 	RPI Environmental Services 	FMN 	Schools 
+151.95500 	159.54000  	KEQ508 	RM	156.7 PL	RPI Physical 	RPI Physical Facilities 	FMN 	Schools 
+151.62500 	   	 	BM	100.0 PL	RPI FieldHse 	RPI Houston Field House Operations 	FMN 	Schools 
+464.30000 	469.30000  	 	RM	110.9 PL	Sage College 	The Sage College Maintenance and Security 	FMN 	Schools 
+460.61250 	465.61250  	WQGX389 	RM	712 DPL	Berlin 	Berlin School District Bus Operations 	FMN 	Schools 
+464.12500 	466.12500  	 	RM	127.3 PL	Lansingburg 	Lansingburg Central School District - Troy 	FMN 	Schools 
+Adirondack 2-Way Radio	 NXDN Icom IDAS Type D	 Various	Business Radio Communications	 LTR Standard	 Grafton	Capital Digitronics (Capital District Public Safety)	 EDACS Networked Standard	 Various
+Capital District Transportation Authority	 Project 25 Phase II	 Regional	Goin Mobile (Brunswick)	 LTR Standard	 Brunswick	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide
+OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	Rensselaer County	 Project 25 Phase I	 Rensselaer County	Troy	 Project 25 Phase I	 Troy
 Wells Communications (New Salem DMR 1)	 DMR Motorola Capacity Plus Single Site (TRBO)	 New Salem	Wells Communications (New Salem DMR 2)	 DMR Motorola Capacity Plus Single Site (TRBO)	 New Salem	

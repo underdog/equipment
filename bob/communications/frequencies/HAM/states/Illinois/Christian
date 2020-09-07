@@ -1,60 +1,60 @@
-151.43000 	WQOS935 	RM	125 DPL	Christian911 	Fire/EMS: Dispatch (Taylorville Tower - D125 in) 	FMN 	Multi-Dispatch 
-155.96250 	WQOS935 	F	114 DPL	Chr 911 Pana 	Fire/EMS: Dispatch - Pana? Tower input 	FMN 	Fire Dispatch 
-155.96250 	WQOS938 	F	205 DPL	Chr 911 Kinc 	Fire/EMS: Dispatch - Sharpesburg Tower input  	FMN 	Fire Dispatch 
-155.96250 	WQOS935 	F	306 DPL	Chr 911 Stng 	Fire/EMS: Dispatch - Stonington Tower input  	FMN 	Fire Dispatch 
-155.96250 	WQOS935 	F	411 DPL	Chr 911 D411 	Fire/EMS: Dispatch - ??? Tower input (Dunns Ambulance) 	FMN 	Fire Dispatch 
-155.96250 	WQOS935 	F	464 DPL	Chr 911 D464 	Fire/EMS: Dispatch - Pana? Tower input   	FMN 	Fire Dispatch 
-155.96250 	WQOS938 	F	506 DPL	Chr 911 Morr 	Fire/EMS: Dispatch - Morrisonville Tower input 	FMN 	Fire Dispatch 
-155.70000 	WQYD971 	RM	127 NAC	ChristianSheriff 	Sheriff: Dispatch [TG 1] 	P25E 	Law Dispatch 
-151.40750 	WQYD971 	M		Chr Sheriff MX2 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
-156.15000 	KA87078 	M	179.9 PL	Chr Sheriff Tac 	Sheriff: Tactical [Ch 3] [Expired 11/11] 	FMN 	Law Tac 
-156.24000 	KTA998 	RM	173.8 PL	Chr Highway 	Highway Department 	FMN 	Public Works 
-156.24000 	KTA998 	RM		Chr Highway DMR 	Highway Department 	DMR 	Public Works 
-155.22000 	WQIT800 	BM		Dunns Ambulance 	EMS: Local 	FMN 	EMS-Tac 
-460.26250 	KDN350 	RM	CC 6TG 5626SL 1	DAS Pana 1 	EMS: Dispatch (Pana; decodeable) 	DMR 	EMS Dispatch 
-460.26250 	KDN350 	RM	CC 6TG 6375SL 2	DAS Pana 2 	EMS: Dispatch (Pana; decodeable) 	DMR 	EMS Dispatch 
-462.07500 	WPLR946 	RM	107.2 PL	ARCH Ltchfld 	Helicopter EMS (Lakewood) 	FMN 	EMS Dispatch 
-155.76000 	KAR754 	BM		PCHosp Ops 	Operations (D174?) 	FMN 	EMS Dispatch 
-155.34000 	KAR754 	BM	77.0 PL	MERCI-1 77.0 	Patient Reports 	FMN 	Hospital 
-464.47500 	WQQH763 	RM		TMHosp Ops 	Operations 	FMN 	Business 
-155.34000 	WNAL838 	B	141.3 PL	MERCI1 141.3 	Patient Reports 	FMN 	Hospital 
-462.92500 	WQCD254 	B		TMH Paging 	Paging (Data) (CSQ/254.1) 	Telm 	Data 
-156.24000 	KUG770 	BM	173.8 PL	ChristianHighway 	Taylorville Township Roads / County Highway Dept 	FMN 	Public Works 
-151.01000 	KNM287 	BM		L/P/S Twp Rds 	Locust Township Roads 	FMN 	Public Works 
-151.01000 	KWH703 	BM		L/P/S Twp Rds 	Pana Township Roads 	FMN 	Public Works 
-151.04000 	WRCX964 	BM	754 DPL	Mosq Twp Rds 	Mosquito Township Roads (Osbernville) 	FMN 	Public Works 
-153.74000 	WPLS491 	BM	265 DPL	Asmptn Police 	Police: Dispatch (Still in use?) 	FMN 	Law Dispatch 
-155.11500 	WPLW512 	BM		Asmptn Water 	Water Department 	FMN 	Public Works 
-159.33000 	KNEM440 	RM		Ednbrg FG/Local 	Fireground 	FMN 	Fire-Tac 
-160.08000 	WPXP421 	M		Mrsnv EMS MX 	EMS: Vehicular Extender  	FMN 	EMS-Tac 
-460.53750 	WQCB785 	M		Mt Auburn WDD 	Water Data 	Telm 	Public Works 
-154.38500 	WNGJ407 	BM		Owaneco FG 	Fireground 	FMN 	Fire-Tac 
-154.75500 	KWY217 	RM	94.8 PL	Pana Police 	Police: Dispatch  	FMN 	Law Dispatch 
-155.83500 	KNEB768 	BM	CSQ	Pana ESDA 	ESDA: Local 	FMN 	Emergency Ops 
-155.61000 	WQIP784 	RM		Pana Fire 	Fire: Dispatch/Operations (D115?) 	FMN 	Fire Dispatch 
-453.67500 	WQNW994 	RM		Pana PublicWorks 	Public Works  	FMN 	Public Works 
-154.47125 	WQRU900 	F		Pana WDD 	Water Telemetry (CSQ)  	Telm 	Data 
-153.86000 	KNBU769 	RM	127.3 PL	StngtnPolice 	Police: Dispatch 	FMN 	Law Dispatch 
-460.61250 	KUF669 	F	CSQ	ChrCo 911*R1 	Fire: Receive Link (154.145 back to 911) 	FMN 	Fire Dispatch 
-154.38500 	KUF669 	BM		Stoningtn FG 	Fireground 	FMN 	Fire-Tac 
-154.08500 	WQKX765 	RM	122 NAC|TG 1	Tayl Police 	Police: Dispatch 	P25E 	Law Dispatch 
-159.19500 	WQDI539 	RM	111 NAC|TG 1	Tayl Fire/EMS 	Fire/EMS: Paging / Dispatch 	P25 	Fire Dispatch 
-153.87500 	KNGN389 	BM		Tayl Sanitry 	Sanitary District  	FMN 	Public Works 
-154.10000 	KVJ478 	BM	152 DPL	Tayl Streets 	Street Department 	FMN 	Public Works 
-151.60250 	WQNS338 	F		Tayl WDD 2 	Water Control System - Data (CSQ) 	FMN 	Data 
-154.45625 	WQLW856 	F		Tayl WDD Old 	Water Distribution Data   	Telm 	Data 
-456.33750 	WPQJ395 	M		Tovey WDD 	Water Distribution Data (CSQ Bursts) 	Telm 	Data 
-151.96250 	WQUM968 	RM		S Fork Elem Kinc 	South Fork Elementary (Kinkcid) 	FMN 	Schools 
-155.17500 	WQAX928 	BM	118.8 PL	Edinb SchBus 	Edinburg Community Unit School District 4 - Buses 	FMN 	Schools 
-155.22000 	WPCH568 	BM		Pana Sch Bus 	Pana Community Unit School District - Buses 	FMN 	Schools 
-155.29500 	KIM798 	BM	612 DPL	Mrsnvle Schl 	Morrisonville CUSD 1: Buses / Ops 	FMN 	Schools 
-155.28000 	KNP358 	BM	103.5 PL	Cntrl AM Sch 	Buses 	FMN 	Schools 
-464.65000 	WQRD746 	RM	CC 1TG 301SL 1	CAM Ops 301 	Operations 	DMR 	Schools 
-157.74000 	WQLS894 	B	82.5 PL	LLCC Paging 	Paging 	FMN 	Data 
-464.55000 	 	M	67.0 PL	Tay High Sch 	High School: Ops  	FMN 	Schools 
-118.60000 	 	B	CSQ	SPI App/Dep 	Springfield Approach/Departure (0600-2200) 	AM 	Aircraft 
-122.80000 	WXY5 	B	CSQ	YAZ CTAF 	CTAF/UNICOM 	AM 	Aircraft 
-123.87500 	 	B	CSQ	TAZ AWOS 	WX AWOS-3 	AM 	Aircraft 
-124.45000 	 	B	CSQ	KCC App/Dep 	Kansas City ARTCC Approach/Departure (2200-0600) 	AM 	Aircraft 
-CK Communications / MJM Electric Cooperative (DMR)	 DMR Conventional Networked	 Carlinville	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3
- Multiple	Craig Antenna Service (Central IL)	 LTR Standard	 Harristown	
+151.43000 	155.96250  	WQOS935 	RM	125 DPL	Christian911 	Fire/EMS: Dispatch (Taylorville Tower - D125 in) 	FMN 	Multi-Dispatch 
+155.96250 	   	WQOS935 	F	114 DPL	Chr 911 Pana 	Fire/EMS: Dispatch - Pana? Tower input 	FMN 	Fire Dispatch 
+155.96250 	   	WQOS938 	F	205 DPL	Chr 911 Kinc 	Fire/EMS: Dispatch - Sharpesburg Tower input  	FMN 	Fire Dispatch 
+155.96250 	   	WQOS935 	F	306 DPL	Chr 911 Stng 	Fire/EMS: Dispatch - Stonington Tower input  	FMN 	Fire Dispatch 
+155.96250 	   	WQOS935 	F	411 DPL	Chr 911 D411 	Fire/EMS: Dispatch - ??? Tower input (Dunns Ambulance) 	FMN 	Fire Dispatch 
+155.96250 	   	WQOS935 	F	464 DPL	Chr 911 D464 	Fire/EMS: Dispatch - Pana? Tower input   	FMN 	Fire Dispatch 
+155.96250 	   	WQOS938 	F	506 DPL	Chr 911 Morr 	Fire/EMS: Dispatch - Morrisonville Tower input 	FMN 	Fire Dispatch 
+155.70000 	159.06000  	WQYD971 	RM	127 NAC	ChristianSheriff 	Sheriff: Dispatch [TG 1] 	P25E 	Law Dispatch 
+151.40750 	   	WQYD971 	M		Chr Sheriff MX2 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
+156.15000 	   	KA87078 	M	179.9 PL	Chr Sheriff Tac 	Sheriff: Tactical [Ch 3] [Expired 11/11] 	FMN 	Law Tac 
+156.24000 	151.07000  	KTA998 	RM	173.8 PL	Chr Highway 	Highway Department 	FMN 	Public Works 
+156.24000 	151.07000  	KTA998 	RM		Chr Highway DMR 	Highway Department 	DMR 	Public Works 
+155.22000 	   	WQIT800 	BM		Dunns Ambulance 	EMS: Local 	FMN 	EMS-Tac 
+460.26250 	465.26250  	KDN350 	RM	CC 6TG 5626SL 1	DAS Pana 1 	EMS: Dispatch (Pana; decodeable) 	DMR 	EMS Dispatch 
+460.26250 	465.26250  	KDN350 	RM	CC 6TG 6375SL 2	DAS Pana 2 	EMS: Dispatch (Pana; decodeable) 	DMR 	EMS Dispatch 
+462.07500 	467.07500  	WPLR946 	RM	107.2 PL	ARCH Ltchfld 	Helicopter EMS (Lakewood) 	FMN 	EMS Dispatch 
+155.76000 	   	KAR754 	BM		PCHosp Ops 	Operations (D174?) 	FMN 	EMS Dispatch 
+155.34000 	   	KAR754 	BM	77.0 PL	MERCI-1 77.0 	Patient Reports 	FMN 	Hospital 
+464.47500 	469.47500  	WQQH763 	RM		TMHosp Ops 	Operations 	FMN 	Business 
+155.34000 	   	WNAL838 	B	141.3 PL	MERCI1 141.3 	Patient Reports 	FMN 	Hospital 
+462.92500 	   	WQCD254 	B		TMH Paging 	Paging (Data) (CSQ/254.1) 	Telm 	Data 
+156.24000 	   	KUG770 	BM	173.8 PL	ChristianHighway 	Taylorville Township Roads / County Highway Dept 	FMN 	Public Works 
+151.01000 	   	KNM287 	BM		L/P/S Twp Rds 	Locust Township Roads 	FMN 	Public Works 
+151.01000 	   	KWH703 	BM		L/P/S Twp Rds 	Pana Township Roads 	FMN 	Public Works 
+151.04000 	   	WRCX964 	BM	754 DPL	Mosq Twp Rds 	Mosquito Township Roads (Osbernville) 	FMN 	Public Works 
+153.74000 	   	WPLS491 	BM	265 DPL	Asmptn Police 	Police: Dispatch (Still in use?) 	FMN 	Law Dispatch 
+155.11500 	   	WPLW512 	BM		Asmptn Water 	Water Department 	FMN 	Public Works 
+159.33000 	154.01750  	KNEM440 	RM		Ednbrg FG/Local 	Fireground 	FMN 	Fire-Tac 
+160.08000 	   	WPXP421 	M		Mrsnv EMS MX 	EMS: Vehicular Extender  	FMN 	EMS-Tac 
+460.53750 	   	WQCB785 	M		Mt Auburn WDD 	Water Data 	Telm 	Public Works 
+154.38500 	   	WNGJ407 	BM		Owaneco FG 	Fireground 	FMN 	Fire-Tac 
+154.75500 	153.81500  	KWY217 	RM	94.8 PL	Pana Police 	Police: Dispatch  	FMN 	Law Dispatch 
+155.83500 	   	KNEB768 	BM	CSQ	Pana ESDA 	ESDA: Local 	FMN 	Emergency Ops 
+155.61000 	158.98500  	WQIP784 	RM		Pana Fire 	Fire: Dispatch/Operations (D115?) 	FMN 	Fire Dispatch 
+453.67500 	458.67500  	WQNW994 	RM		Pana PublicWorks 	Public Works  	FMN 	Public Works 
+154.47125 	   	WQRU900 	F		Pana WDD 	Water Telemetry (CSQ)  	Telm 	Data 
+153.86000 	158.92500  	KNBU769 	RM	127.3 PL	StngtnPolice 	Police: Dispatch 	FMN 	Law Dispatch 
+460.61250 	   	KUF669 	F	CSQ	ChrCo 911*R1 	Fire: Receive Link (154.145 back to 911) 	FMN 	Fire Dispatch 
+154.38500 	   	KUF669 	BM		Stoningtn FG 	Fireground 	FMN 	Fire-Tac 
+154.08500 	151.23500  	WQKX765 	RM	122 NAC|TG 1	Tayl Police 	Police: Dispatch 	P25E 	Law Dispatch 
+159.19500 	156.18000  	WQDI539 	RM	111 NAC|TG 1	Tayl Fire/EMS 	Fire/EMS: Paging / Dispatch 	P25 	Fire Dispatch 
+153.87500 	   	KNGN389 	BM		Tayl Sanitry 	Sanitary District  	FMN 	Public Works 
+154.10000 	   	KVJ478 	BM	152 DPL	Tayl Streets 	Street Department 	FMN 	Public Works 
+151.60250 	   	WQNS338 	F		Tayl WDD 2 	Water Control System - Data (CSQ) 	FMN 	Data 
+154.45625 	   	WQLW856 	F		Tayl WDD Old 	Water Distribution Data   	Telm 	Data 
+456.33750 	   	WPQJ395 	M		Tovey WDD 	Water Distribution Data (CSQ Bursts) 	Telm 	Data 
+151.96250 	159.90750  	WQUM968 	RM		S Fork Elem Kinc 	South Fork Elementary (Kinkcid) 	FMN 	Schools 
+155.17500 	   	WQAX928 	BM	118.8 PL	Edinb SchBus 	Edinburg Community Unit School District 4 - Buses 	FMN 	Schools 
+155.22000 	   	WPCH568 	BM		Pana Sch Bus 	Pana Community Unit School District - Buses 	FMN 	Schools 
+155.29500 	   	KIM798 	BM	612 DPL	Mrsnvle Schl 	Morrisonville CUSD 1: Buses / Ops 	FMN 	Schools 
+155.28000 	   	KNP358 	BM	103.5 PL	Cntrl AM Sch 	Buses 	FMN 	Schools 
+464.65000 	469.65000  	WQRD746 	RM	CC 1TG 301SL 1	CAM Ops 301 	Operations 	DMR 	Schools 
+157.74000 	   	WQLS894 	B	82.5 PL	LLCC Paging 	Paging 	FMN 	Data 
+464.55000 	   	 	M	67.0 PL	Tay High Sch 	High School: Ops  	FMN 	Schools 
+118.60000 	   	 	B	CSQ	SPI App/Dep 	Springfield Approach/Departure (0600-2200) 	AM 	Aircraft 
+122.80000 	   	WXY5 	B	CSQ	YAZ CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+123.87500 	   	 	B	CSQ	TAZ AWOS 	WX AWOS-3 	AM 	Aircraft 
+124.45000 	   	 	B	CSQ	KCC App/Dep 	Kansas City ARTCC Approach/Departure (2200-0600) 	AM 	Aircraft 
+CK Communications / MJM Electric Cooperative (DMR)	 DMR Conventional Networked	 Carlinville	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple
+Craig Antenna Service (Central IL)	 LTR Standard	 Harristown	Diga-Talk	 NXDN NEXEDGE 4800	 Various	

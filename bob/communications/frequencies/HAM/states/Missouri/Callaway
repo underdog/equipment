@@ -1,34 +1,34 @@
-155.77500 	WNCQ324 	RM	203.5 PL	Callaway Sheriff 	Sheriff: Dispatch (in use 5/17) 	FMN 	Law Dispatch 
-155.94000 	KNCQ747 	BM		Callaway EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-159.18000 	WNED333 	BM		Call Highway 	Highway Department 	FMN 	Public Works 
-159.18000 	WNED333 	RM		Call Highway 	Highway Department - New (Fulton) 	FMN 	Public Works 
-451.18750 	WNPY813 	RM		Call WtrDst1 	Public Water Supply District #1 	FMN 	Public Works 
-453.82500 	WPVZ968 	RM		Call WtrDst2 	Callaway 2 Water District 	FMN 	Public Works 
-853.91250 	WRPB787 	RM		Callaway EMS MX 	EMS: Mobile Extenders (to MOSWIN) 	FMN 	EMS Dispatch 
-159.20250 	KNCQ747 	RM		Callaway EMS 	EMS: Dispatch (Fulton/Holts Summit/Kingdom City/Linn) 	FMN 	EMS Dispatch 
-453.15000 	KNCQ747 	F		Cal Amb RF 1 	EMS: Remote Link - Auxuasse (FX2) 	FMN 	EMS Dispatch 
-453.63750 	KNCQ747 	F		Cal Amb RF 2 	EMS: Remote Link - Summit (FX2) 	FMN 	EMS Dispatch 
-155.94000 	KNCQ747 	BM		Callaway EMS 	EMS: Dispatch (Holts Summit, Fulton) 	FMN 	EMS Dispatch 
-155.34000 	KTH617 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
-153.77000 	WNPO628 	BM	100.0 PL	Call Fire Purple 	Fire/EMS: Dispatch "Purple" 	FMN 	Fire Dispatch 
-153.77000 	WNPO628 	RM		Call Fire Purp R 	Fire/EMS: Future Repeater 	FMN 	Fire Dispatch 
-155.64000 	WQJR880 	M		CCFPD MX 	Fire: Mobile Extenders to 153.77  	FMN 	Fire Dispatch 
-155.56500 	WQMQ820 	RM	203.5 PL	Fulton Police 1 	Police: Dispatch (DB: County) 	FMN 	Law Dispatch 
-153.77000 	WNPO628 	BM	100.0 PL	Call Fire Purple 	Fire/EMS: Dispatch [Purple] 	FMN 	Fire Dispatch 
-154.14500 	KNNR620 	BM		Fulton Fire 	Fire 	FMN 	Fire Dispatch 
-154.99500 	WNSU584 	RM		Fulton HouseAuth 	Housing Authority 	FMN 	Public Works 
-154.80000 	WQXE436 	BM		HSmt Police 1 	Police: Dispatch  	FMN 	Law Dispatch 
-151.01750 	WNIV336 	BM		HSmt Police MX 	Police: Mobile Extenders 	FMN 	Law Dispatch 
-159.15000 	WNIV336 	BM		HSmt Police2 	Police: 911 (Telephone Interconnect) 	FMN 	Law Dispatch 
-460.07500 	WNIV336 	F		HSmt Police RF 	Police: Remote Receive Links to 159.15? 	FMN 	Law Tac 
-154.35500 	WQRA837 	BM		HSummit Fire 	Fire 	FMN 	Fire Dispatch 
-453.93750 	WQRA837 	M		HSmt Fire MX 	Fire: Vehicular Repeater 	FMN 	Fire Dispatch 
-154.98000 	WNKW995 	BM		NBloomfield 	Police?/Local? 	FMN 	Multi-Dispatch 
-154.35500 	WNDZ972 	B		HSummit Fire 	Fire 	FMN 	Fire-Tac 
-154.22000 	WPMA415 	M		NCallaway FG 	Fire 	FMN 	Fire-Tac 
-154.13000 	WPSJ656 	BM		SCallaway FG 	Fire 	FMN 	Fire-Tac 
-155.17500 	WNJF646 	BM		FltnSD Buses 	Buses 	FMN 	Schools 
-155.28000 	WNHE953 	BM		NBmfd Buses 	Buses 	FMN 	Schools 
-155.29500 	WNNG255 	BM		SCR2SD Buses 	Buses 	FMN 	Schools 
-152.36750 	WQJB599 	RM		WWU SecMaint 	Security/Maintenance (McNutt Campus Center) 	FMN 	Schools 
+155.77500 	153.93500  	WNCQ324 	RM	203.5 PL	Callaway Sheriff 	Sheriff: Dispatch (in use 5/17) 	FMN 	Law Dispatch 
+155.94000 	   	KNCQ747 	BM		Callaway EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+159.18000 	   	WNED333 	BM		Call Highway 	Highway Department 	FMN 	Public Works 
+159.18000 	155.10000  	WNED333 	RM		Call Highway 	Highway Department - New (Fulton) 	FMN 	Public Works 
+451.18750 	456.18750  	WNPY813 	RM		Call WtrDst1 	Public Water Supply District #1 	FMN 	Public Works 
+453.82500 	458.82500  	WPVZ968 	RM		Call WtrDst2 	Callaway 2 Water District 	FMN 	Public Works 
+853.91250 	808.91250  	WRPB787 	RM		Callaway EMS MX 	EMS: Mobile Extenders (to MOSWIN) 	FMN 	EMS Dispatch 
+159.20250 	154.89750  	KNCQ747 	RM		Callaway EMS 	EMS: Dispatch (Fulton/Holts Summit/Kingdom City/Linn) 	FMN 	EMS Dispatch 
+453.15000 	   	KNCQ747 	F		Cal Amb RF 1 	EMS: Remote Link - Auxuasse (FX2) 	FMN 	EMS Dispatch 
+453.63750 	   	KNCQ747 	F		Cal Amb RF 2 	EMS: Remote Link - Summit (FX2) 	FMN 	EMS Dispatch 
+155.94000 	   	KNCQ747 	BM		Callaway EMS 	EMS: Dispatch (Holts Summit, Fulton) 	FMN 	EMS Dispatch 
+155.34000 	   	KTH617 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+153.77000 	   	WNPO628 	BM	100.0 PL	Call Fire Purple 	Fire/EMS: Dispatch "Purple" 	FMN 	Fire Dispatch 
+153.77000 	151.25000  	WNPO628 	RM		Call Fire Purp R 	Fire/EMS: Future Repeater 	FMN 	Fire Dispatch 
+155.64000 	   	WQJR880 	M		CCFPD MX 	Fire: Mobile Extenders to 153.77  	FMN 	Fire Dispatch 
+155.56500 	154.65000  	WQMQ820 	RM	203.5 PL	Fulton Police 1 	Police: Dispatch (DB: County) 	FMN 	Law Dispatch 
+153.77000 	   	WNPO628 	BM	100.0 PL	Call Fire Purple 	Fire/EMS: Dispatch [Purple] 	FMN 	Fire Dispatch 
+154.14500 	   	KNNR620 	BM		Fulton Fire 	Fire 	FMN 	Fire Dispatch 
+154.99500 	159.07500  	WNSU584 	RM		Fulton HouseAuth 	Housing Authority 	FMN 	Public Works 
+154.80000 	   	WQXE436 	BM		HSmt Police 1 	Police: Dispatch  	FMN 	Law Dispatch 
+151.01750 	   	WNIV336 	BM		HSmt Police MX 	Police: Mobile Extenders 	FMN 	Law Dispatch 
+159.15000 	   	WNIV336 	BM		HSmt Police2 	Police: 911 (Telephone Interconnect) 	FMN 	Law Dispatch 
+460.07500 	   	WNIV336 	F		HSmt Police RF 	Police: Remote Receive Links to 159.15? 	FMN 	Law Tac 
+154.35500 	   	WQRA837 	BM		HSummit Fire 	Fire 	FMN 	Fire Dispatch 
+453.93750 	458.93750  	WQRA837 	M		HSmt Fire MX 	Fire: Vehicular Repeater 	FMN 	Fire Dispatch 
+154.98000 	   	WNKW995 	BM		NBloomfield 	Police?/Local? 	FMN 	Multi-Dispatch 
+154.35500 	   	WNDZ972 	B		HSummit Fire 	Fire 	FMN 	Fire-Tac 
+154.22000 	   	WPMA415 	M		NCallaway FG 	Fire 	FMN 	Fire-Tac 
+154.13000 	   	WPSJ656 	BM		SCallaway FG 	Fire 	FMN 	Fire-Tac 
+155.17500 	   	WNJF646 	BM		FltnSD Buses 	Buses 	FMN 	Schools 
+155.28000 	   	WNHE953 	BM		NBmfd Buses 	Buses 	FMN 	Schools 
+155.29500 	   	WNNG255 	BM		SCR2SD Buses 	Buses 	FMN 	Schools 
+152.36750 	157.62750  	WQJB599 	RM		WWU SecMaint 	Security/Maintenance (McNutt Campus Center) 	FMN 	Schools 
 AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	WirelessUSA (Columbia) 	 Motorola Type II Smartnet	 Columbia	

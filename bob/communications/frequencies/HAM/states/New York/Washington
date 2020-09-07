@@ -1,64 +1,65 @@
-155.74500 	WQEP250 	RM	110.9 PL	CoW Law Enfrcmnt 	Law Enforcement 	FMN 	Law Dispatch 
-155.89500 	WQEP250 	BM	155 DPL	CoW Law Interop 	Law Interop 	FMN 	Law Tac 
-155.25000 	WQEP250 	BM	110.9 PL	FTE/HFL PD 	Ft Edward/Hudson Falls PD 	FMN 	Law Dispatch 
-155.65500 	WQEP250 	M		CoW Corrections 	Corrections 	FMN 	Corrections 
-154.16000 	WQEP250 	B	306 DPL	CoW FD/EMS Alert 	Fire/EMS Alerting 	FMN 	Fire Dispatch 
-151.38500 	WQEP250 	BM	306 DPL	CoW Alert North 	Fire/EMS Alerting North (repeats 154.160) 	FMN 	Fire Dispatch 
-46.38000 	WQEP250 	BM	91.5 PL	CoW FD Sirens 	Firehouse Siren Activation 	FM 	Fire-Tac 
-173.27500 	WRCX360 	BM	125 DPL	CoW Fire F1 	Fire Control F1 	FMN 	Fire Dispatch 
-154.28750 	WQZQ677 	M	156.7 PL	CoW Fire F2 	Truck to Truck F2 	FMN 	Fire-Tac 
-154.07000 	WQEP250 	M	110.9 PL	CoW FG F3 	Fireground F3 	FMN 	Fire-Tac 
-154.27250 	WQZQ677 	M	156.7 PL	CoW FG F4 	Fireground F4 	FMN 	Fire-Tac 
-154.28000 	WQZQ677 	M	156.7 PL	CoW FG F5 	Fireground F5 	FMN 	Fire-Tac 
-154.29500 	WQZQ677 	M	156.7 PL	CoW FG F6 	Fireground F6 	FMN 	Fire-Tac 
-153.83000 	WQEP250 	M	110.9 PL	CoW FP F7 	Fire Police F7 	FMN 	Fire-Talk 
-158.76000 	WQEP250 	RM	110.9 PL	CoW EMS Control 	EMS Control F1 	FMN 	EMS Dispatch 
-155.28000 	WQEP250 	BM	110.9 PL	CoW EMS Ops 	EMS Ops F2 	FMN 	EMS-Tac 
-45.56000 	KKH213 	BM	CSQ	CoW Emerg Mangmt 	Emergency Mangement 	FM 	Emergency Ops 
-156.06000 	WQEP250 	RM	110.9 PL	CoW DPW F1 	DPW 	FMN 	Public Works 
-156.22500 	WQEP250 	M	91.5 PL	CoW DPW F2 	DPW Portables 	FMN 	Public Works 
-158.74500 	WQEP250 	RM	100.0 PL	CoW Towns DPW 	Dresden, Fort Ann, Hartford, Hebron, Kingsbury DPW 	FMN 	Public Works 
-453.37500 	WQKW608 	RM		CoW Bldg/Grnds 	County Center Buildings and Grounds 	FMN 	Public Works 
-156.22500 	WQEP250 	M	023 DPL	CoW Sewers 	Sewer District 2 	FMN 	Public Works 
-151.04000 	WNRD904 	BM	051 DPL	T/Cambridge DPW 	DPW 	FMN 	Public Works 
-151.04000 	WNRD904 	BM	251 DPL	V/Cambridge DPW 	DPW 	FMN 	Public Works 
-156.13500 	WNZS291 	BM		Easton DPW 	DPW 	FMN 	Public Works 
-47.50000 	WQDZ559 	BM	67.0 PL	Ft Ann Firegrnd 	Fireground 	FM 	Fire-Tac 
-154.34000 	WQDZ559 	BM	67.0 PL	Ft Ann PS Ops 	Public Safety Ops 	FMN 	Multi-Tac 
-155.94750 	WQDZ559 	RM	67.0 PL	Ft Ann PS Rprtr 	Public Safety Repeater 	FMN 	Interop 
-155.00250 	WQMD857 	RM	271 DPL	Ft Edward FG 	Fireground 	FMN 	Fire-Tac 
-46.52000 	WQMD857 	BM	91.5 PL	Ft Edward FG 	Fireground 	FM 	Fire-Tac 
-155.22000 	KTV915 	BM	107.2 PL	Ft Edward Rescue 	Rescue Squad Ops 	FMN 	EMS-Tac 
-155.86500 	WQM321 	BM		Ft Edward DPW  	DPW 	FMN 	Public Works 
-155.25000 	KIT997 	BM	110.9 PL	Ft Edward PD 	Police 	FMN 	Law Dispatch 
-453.91250 	WQAV361 	F		Ft Edward Water 	Water Plant 	Telm 	Data 
-158.74500 	KSQ892 	BM	100.0 PL	Granville DPW 	DPW 	FMN 	Public Works 
-155.52000 	WNSD681 	RM		Greenwich DPW 	 DPW 	FMN 	Public Works 
-155.25000 	KEC599 	BM	110.9 PL	HudFalls Police 	Police 	FMN 	Law Dispatch 
-155.03250 	WQXY812 	BM	271 DPL	HudFalls FG 	Fireground 	FMN 	Fire-Tac 
-151.01000 	WNZS295 	BM	703 DPL	HudFalls DPW 	DPW 	FMN 	Public Works 
-151.10000 	WNXA720 	BM		Jackson DPW 	DPW 	FMN 	Public Works 
-154.04750 	WQZT510 	BM	445 DPL	Salem FD Base 	Fire Base 	FMN 	Fire-Tac 
-159.36000 	WQZT510 	M	445 DPL	Salem FD Trucks 	Fire Truck to Truck 	FMN 	Fire-Talk 
-150.95000 	 		CSQ	WhtCreek DPW 	DPW 	FMN 	Public Works 
-153.93500 	 		110.9 PL	Whitehall DPW 	DPW 	FMN 	Public Works 
-155.61750 	WQGE316 	BM	103.5 PL	Argyle FG High-7 	Fireground "High-7" 	FMN 	Fire-Tac 
-46.16000 	WQGE316 	BM	203.5 PL	Argyle FG-7 	Fireground 	FM 	Fire-Tac 
-156.13500 	WQGC664 	BM		Easton FG 	Fireground 	FMN 	Fire-Tac 
-156.03000 	WRDT603 	M	186.2 PL	KingsbryHoseTac1 	Tac 1 	FMN 	Fire-Tac 
-155.91000 	WRDT603 	M	136.5 PL	KingsbryHoseTac2 	Tac 2 	FMN 	Fire-Tac 
-47.66000 	WQIB654 	BM		MFall FG LB 	Fireground 	FM 	Fire-Tac 
-156.13500 	WQIB654 	BM		MFall FireOp 	Operations 	FMN 	Fire-Tac 
-155.26500 	WPXE996 	BM	110.9 PL	ArgyleSchBus 	Buses 	FMN 	Schools 
-155.08500 	WPTL913 	RM	100.0 PL	Hartford Bus 	Buses - Hartford 	FMN 	Schools 
-155.08500 	WPTL913 	RM	103.5 PL	Hud Falls Bu 	Buses - Hudson Falls 	FMN 	Schools 
-155.08500 	WPTL913 	RM	127.3 PL	Ft Ann Bus 	Buses - Fort Ann 	FMN 	Schools 
-155.08500 	WPTL913 	RM	151.4 PL	G-Wich Bus 	Buses - Greenwich 	FMN 	Schools 
-155.26500 	WNVW299 	BM	503 DPL	CambrSchBus 	Buses 	FMN 	Schools 
-155.23500 	WNVZ996 	BM	023 DPL	FEU Sch Bus 	Buses 	FMN 	Schools 
-155.16000 	WNXE411 	BM		GrnwchSchBus 	Buses 	FMN 	Schools 
-155.23500 	WNVZ996 	BM	503 DPL	SalemSchBus 	Buses 	FMN 	Schools 
-151.83500 	 		125 DPL	WhallSchB_G 	Buildings and Grounds 	FMN 	Schools 
-155.26500 	WNRF521 	BM	110.9 PL	WhallSbhBus 	Buses 	FMN 	Schools 
-Adirondack 2-Way Radio	 NXDN Icom IDAS Type D	 Various	Capital Digitronics (Capital District Public Safety)	 EDACS Networked Standard	 Various	Goin Mobile (Easton)	 LTR Standard
- Easton	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	UpstateNY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	
+155.74500 	153.81500  	WQEP250 	RM	110.9 PL	CoW Law Enfrcmnt 	Law Enforcement 	FMN 	Law Dispatch 
+155.89500 	   	WQEP250 	BM	155 DPL	CoW Law Interop 	Law Interop 	FMN 	Law Tac 
+155.25000 	   	WQEP250 	BM	110.9 PL	FTE/HFL PD 	Ft Edward/Hudson Falls PD 	FMN 	Law Dispatch 
+155.65500 	   	WQEP250 	M		CoW Corrections 	Corrections 	FMN 	Corrections 
+154.16000 	   	WQEP250 	B	306 DPL	CoW FD/EMS Alert 	Fire/EMS Alerting 	FMN 	Fire Dispatch 
+151.38500 	   	WQEP250 	BM	306 DPL	CoW Alert North 	Fire/EMS Alerting North (repeats 154.160) 	FMN 	Fire Dispatch 
+46.38000 	   	WQEP250 	BM	91.5 PL	CoW FD Sirens 	Firehouse Siren Activation 	FM 	Fire-Tac 
+173.27500 	   	WRCX360 	BM	125 DPL	CoW Fire F1 	Fire Control F1 	FMN 	Fire Dispatch 
+154.28750 	   	WQZQ677 	M	156.7 PL	CoW Fire F2 	Truck to Truck F2 	FMN 	Fire-Tac 
+154.07000 	   	WQEP250 	M	110.9 PL	CoW FG F3 	Fireground F3 	FMN 	Fire-Tac 
+154.27250 	   	WQZQ677 	M	156.7 PL	CoW FG F4 	Fireground F4 	FMN 	Fire-Tac 
+154.28000 	   	WQZQ677 	M	156.7 PL	CoW FG F5 	Fireground F5 	FMN 	Fire-Tac 
+154.29500 	   	WQZQ677 	M	156.7 PL	CoW FG F6 	Fireground F6 	FMN 	Fire-Tac 
+153.83000 	   	WQEP250 	M	110.9 PL	CoW FP F7 	Fire Police F7 	FMN 	Fire-Talk 
+158.76000 	153.86000  	WQEP250 	RM	110.9 PL	CoW EMS Control 	EMS Control F1 	FMN 	EMS Dispatch 
+155.28000 	   	WQEP250 	BM	110.9 PL	CoW EMS Ops 	EMS Ops F2 	FMN 	EMS-Tac 
+45.56000 	   	KKH213 	BM	CSQ	CoW Emerg Mangmt 	Emergency Mangement 	FM 	Emergency Ops 
+156.06000 	159.00000  	WQEP250 	RM	110.9 PL	CoW DPW F1 	DPW 	FMN 	Public Works 
+156.22500 	   	WQEP250 	M	91.5 PL	CoW DPW F2 	DPW Portables 	FMN 	Public Works 
+158.74500 	153.75500  	WQEP250 	RM	100.0 PL	CoW Towns DPW 	Dresden, Fort Ann, Hartford, Hebron, Kingsbury DPW 	FMN 	Public Works 
+453.37500 	458.37500  	WQKW608 	RM		CoW Bldg/Grnds 	County Center Buildings and Grounds 	FMN 	Public Works 
+156.22500 	   	WQEP250 	M	023 DPL	CoW Sewers 	Sewer District 2 	FMN 	Public Works 
+151.04000 	   	WNRD904 	BM	051 DPL	T/Cambridge DPW 	DPW 	FMN 	Public Works 
+151.04000 	   	WNRD904 	BM	251 DPL	V/Cambridge DPW 	DPW 	FMN 	Public Works 
+156.13500 	   	WNZS291 	BM		Easton DPW 	DPW 	FMN 	Public Works 
+47.50000 	   	WQDZ559 	BM	67.0 PL	Ft Ann Firegrnd 	Fireground 	FM 	Fire-Tac 
+154.34000 	   	WQDZ559 	BM	67.0 PL	Ft Ann PS Ops 	Public Safety Ops 	FMN 	Multi-Tac 
+155.94750 	150.78250  	WQDZ559 	RM	67.0 PL	Ft Ann PS Rprtr 	Public Safety Repeater 	FMN 	Interop 
+155.00250 	158.97000  	WQMD857 	RM	271 DPL	Ft Edward FG 	Fireground 	FMN 	Fire-Tac 
+46.52000 	   	WQMD857 	BM	91.5 PL	Ft Edward FG 	Fireground 	FM 	Fire-Tac 
+155.22000 	   	KTV915 	BM	107.2 PL	Ft Edward Rescue 	Rescue Squad Ops 	FMN 	EMS-Tac 
+155.67750 	151.44500  	KTV915 	RM	754 DPL	Ft Edward Rescue 	Rescue Squad Repeater 	FMN 	EMS-Tac 
+155.86500 	   	WQM321 	BM		Ft Edward DPW  	DPW 	FMN 	Public Works 
+155.25000 	   	KIT997 	BM	110.9 PL	Ft Edward PD 	Police 	FMN 	Law Dispatch 
+453.91250 	   	WQAV361 	F		Ft Edward Water 	Water Plant 	Telm 	Data 
+158.74500 	153.75500  	KSQ892 	BM	100.0 PL	Granville DPW 	DPW 	FMN 	Public Works 
+155.52000 	151.07000  	WNSD681 	RM		Greenwich DPW 	 DPW 	FMN 	Public Works 
+155.25000 	   	KEC599 	BM	110.9 PL	HudFalls Police 	Police 	FMN 	Law Dispatch 
+155.03250 	   	WQXY812 	BM	271 DPL	HudFalls FG 	Fireground 	FMN 	Fire-Tac 
+151.01000 	   	WNZS295 	BM	703 DPL	HudFalls DPW 	DPW 	FMN 	Public Works 
+151.10000 	   	WNXA720 	BM		Jackson DPW 	DPW 	FMN 	Public Works 
+154.04750 	   	WQZT510 	BM	445 DPL	Salem FD Base 	Fire Base 	FMN 	Fire-Tac 
+159.36000 	   	WQZT510 	M	445 DPL	Salem FD Trucks 	Fire Truck to Truck 	FMN 	Fire-Talk 
+150.95000 	   	 		CSQ	WhtCreek DPW 	DPW 	FMN 	Public Works 
+153.93500 	   	 		110.9 PL	Whitehall DPW 	DPW 	FMN 	Public Works 
+155.61750 	   	WQGE316 	BM	103.5 PL	Argyle FG High-7 	Fireground "High-7" 	FMN 	Fire-Tac 
+46.16000 	   	WQGE316 	BM	203.5 PL	Argyle FG-7 	Fireground 	FM 	Fire-Tac 
+156.13500 	   	WQGC664 	BM		Easton FG 	Fireground 	FMN 	Fire-Tac 
+156.03000 	   	WRDT603 	M	186.2 PL	KingsbryHoseTac1 	Tac 1 	FMN 	Fire-Tac 
+155.91000 	   	WRDT603 	M	136.5 PL	KingsbryHoseTac2 	Tac 2 	FMN 	Fire-Tac 
+47.66000 	   	WQIB654 	BM		MFall FG LB 	Fireground 	FM 	Fire-Tac 
+156.13500 	   	WQIB654 	BM		MFall FireOp 	Operations 	FMN 	Fire-Tac 
+155.26500 	   	WPXE996 	BM	110.9 PL	ArgyleSchBus 	Buses 	FMN 	Schools 
+155.08500 	153.99500  	WPTL913 	RM	100.0 PL	Hartford Bus 	Buses - Hartford 	FMN 	Schools 
+155.08500 	153.99500  	WPTL913 	RM	103.5 PL	Hud Falls Bu 	Buses - Hudson Falls 	FMN 	Schools 
+155.08500 	153.99500  	WPTL913 	RM	127.3 PL	Ft Ann Bus 	Buses - Fort Ann 	FMN 	Schools 
+155.08500 	153.99500  	WPTL913 	RM	151.4 PL	G-Wich Bus 	Buses - Greenwich 	FMN 	Schools 
+155.26500 	   	WNVW299 	BM	503 DPL	CambrSchBus 	Buses 	FMN 	Schools 
+155.23500 	   	WNVZ996 	BM	023 DPL	FEU Sch Bus 	Buses 	FMN 	Schools 
+155.16000 	   	WNXE411 	BM		GrnwchSchBus 	Buses 	FMN 	Schools 
+155.23500 	   	WNVZ996 	BM	503 DPL	SalemSchBus 	Buses 	FMN 	Schools 
+151.83500 	   	 		125 DPL	WhallSchB_G 	Buildings and Grounds 	FMN 	Schools 
+155.26500 	   	WNRF521 	BM	110.9 PL	WhallSbhBus 	Buses 	FMN 	Schools 
+Adirondack 2-Way Radio	 NXDN Icom IDAS Type D	 Various	Capital Digitronics (Capital District Public Safety)	 EDACS Networked Standard	 Various	Goin Mobile (Easton)	 LTR Standard	 Easton
+New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	UpstateNY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	

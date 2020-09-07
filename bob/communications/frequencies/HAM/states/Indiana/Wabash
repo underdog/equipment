@@ -1,28 +1,28 @@
-159.39000 	KSA432 	RM	151.4 PL	WCSO Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
-154.77000 	KSA432 	M		WCSO Tac 	Sheriff Tactical 	FM 	Law Tac 
-154.81500 	KSA432 	BM		WCSO OldDisp 	Sheriff Old Dispatch 	FM 	Law Dispatch 
-155.62500 	WNRU883 	BM		WCSO Jail 	Jail 	FM 	Law Tac 
-154.31000 	KNDT246 	RM	151.4 PL	WbashFireSth 	Fire/EMS South Dispatch 	FM 	Fire Dispatch 
-154.31000 	KNDT246 	RM	151.4 PL	WbashFireNor 	Fire/EMS North Dispatch 	FM 	Fire Dispatch 
-154.31000 	KNDT246 	RM	151.4 PL	WbashFireCnt 	Fire/EMS Central Dispatch 	FM 	Fire Dispatch 
-154.07000 	WPLU983 	M	114.8 PL	WbashFireT1 	Fire Tac 1 	FM 	Fire-Tac 
-154.44500 	KBZ944 	B		WbashFireT2 	Fire Tac 2 	FM 	Fire-Tac 
-153.90500 	 	BM		WbashFireT3 	Fire Tac 3 	FM 	Fire-Tac 
-159.21000 	WQI971 	M		Wabash EMA 1 	EMA Tac 1 	FMN 	Emergency Ops 
-155.80500 	WQI971 	RM	712 DPL	Wabash EMA Rptr 	EMA Repeater 	FMN 	Emergency Ops 
-158.97000 	WQI971 	M		Wabash EMA 3 	EMA Tac 3 	FMN 	Emergency Ops 
-154.44500 	KBZ944 	BM		ChesTwpFire2 	Fire CH 2 	FM 	Fire-Tac 
-151.05500 	KSJ501 	RM	141.3 PL	WabCoHwy 	County Highway 	FM 	Public Works 
-154.07000 	WPLU983 	M	114.8 PL	N.ManFireTac 	Fire Tactical 	FM 	Fire-Tac 
-155.52000 	KSD262 	BM	162.2 PL	N.ManPD 	Police 	FM 	Law Dispatch 
-155.92500 	WNSE928 	BM	88.5 PL	N.ManUtil 	Utilites & Street Department 	FM 	Utilities 
-158.77500 	WQBR341 	RM	1 RAN	WABASH PD DISP 	Police Dispatch 	NXDN 	Law Dispatch 
-154.86750 	WQBR341 	RM	1 RAN	WABASH PD 2 	Police Secondary 	NXDN 	Law Dispatch 
-155.26500 	WNGC774 	BM		LifeMedDisp 	Primary Dispatch 	FM 	EMS Dispatch 
-155.23500 	WNGC774 	BM		LifeMedSouth 	South Channel 	FM 	EMS-Tac 
-462.17500 	WNWC751 	RM	173.8 PL	LifeMedRptr 	LifeMed Repeater 	FM 	EMS-Tac 
-154.54000 	WPUW949 	BM		MadColgSec 	Security 	FM 	Schools 
-855.56250 	WPUW949 			MadColgSec 	Security 	FM 	Security 
-155.17500 	KZZ735 	BM		ManSchlOps 	Operations 	FM 	Schools 
-American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I
- Statewide	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	Parkview Health	 NXDN NEXEDGE 4800	 Various	
+159.39000 	151.29500  	KSA432 	RM	151.4 PL	WCSO Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
+154.77000 	   	KSA432 	M		WCSO Tac 	Sheriff Tactical 	FM 	Law Tac 
+154.81500 	   	KSA432 	BM		WCSO OldDisp 	Sheriff Old Dispatch 	FM 	Law Dispatch 
+155.62500 	   	WNRU883 	BM		WCSO Jail 	Jail 	FM 	Law Tac 
+154.31000 	150.80500  	KNDT246 	RM	151.4 PL	WbashFireSth 	Fire/EMS South Dispatch 	FM 	Fire Dispatch 
+154.31000 	159.28500  	KNDT246 	RM	151.4 PL	WbashFireNor 	Fire/EMS North Dispatch 	FM 	Fire Dispatch 
+154.31000 	151.16000  	KNDT246 	RM	151.4 PL	WbashFireCnt 	Fire/EMS Central Dispatch 	FM 	Fire Dispatch 
+154.07000 	   	WPLU983 	M	114.8 PL	WbashFireT1 	Fire Tac 1 	FM 	Fire-Tac 
+154.44500 	   	KBZ944 	B		WbashFireT2 	Fire Tac 2 	FM 	Fire-Tac 
+153.90500 	   	 	BM		WbashFireT3 	Fire Tac 3 	FM 	Fire-Tac 
+159.21000 	   	WQI971 	M		Wabash EMA 1 	EMA Tac 1 	FMN 	Emergency Ops 
+155.80500 	158.97000  	WQI971 	RM	712 DPL	Wabash EMA Rptr 	EMA Repeater 	FMN 	Emergency Ops 
+158.97000 	   	WQI971 	M		Wabash EMA 3 	EMA Tac 3 	FMN 	Emergency Ops 
+154.44500 	   	KBZ944 	BM		ChesTwpFire2 	Fire CH 2 	FM 	Fire-Tac 
+151.05500 	156.08250  	KSJ501 	RM	141.3 PL	WabCoHwy 	County Highway 	FM 	Public Works 
+154.07000 	   	WPLU983 	M	114.8 PL	N.ManFireTac 	Fire Tactical 	FM 	Fire-Tac 
+155.52000 	   	KSD262 	BM	162.2 PL	N.ManPD 	Police 	FM 	Law Dispatch 
+155.92500 	   	WNSE928 	BM	88.5 PL	N.ManUtil 	Utilites & Street Department 	FM 	Utilities 
+158.77500 	154.71000  	WQBR341 	RM	1 RAN	WABASH PD DISP 	Police Dispatch 	NXDN 	Law Dispatch 
+154.86750 	159.03750  	WQBR341 	RM	1 RAN	WABASH PD 2 	Police Secondary 	NXDN 	Law Dispatch 
+155.26500 	   	WNGC774 	BM		LifeMedDisp 	Primary Dispatch 	FM 	EMS Dispatch 
+155.23500 	   	WNGC774 	BM		LifeMedSouth 	South Channel 	FM 	EMS-Tac 
+462.17500 	467.17500  	WNWC751 	RM	173.8 PL	LifeMedRptr 	LifeMed Repeater 	FM 	EMS-Tac 
+154.54000 	   	WPUW949 	BM		MadColgSec 	Security 	FM 	Schools 
+855.56250 	   	WPUW949 			MadColgSec 	Security 	FM 	Security 
+155.17500 	   	KZZ735 	BM		ManSchlOps 	Operations 	FM 	Schools 
+American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple
+Parkview Health	 NXDN NEXEDGE 4800	 Various	

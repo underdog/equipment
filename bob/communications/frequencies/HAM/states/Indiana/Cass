@@ -1,27 +1,26 @@
-154.77000 	WPWS755 	M		Cass SO 	Cass County Sheriff Operations 	FMN 	Law Tac 
-155.37000 	KSA813 	B		ISP Pnt2Pnt 	Cass County Sheriff State/Point 	FMN 	Interop 
-155.47500 	WPWS755 	M		ILEEN 	Cass County I.L.E.E.N 	FMN 	Interop 
-155.43000 	WPWS755 	RM	118.8 PL	Cass FD Dsp 	Cass County Fire Dispatch 	FMN 	Fire Dispatch 
-453.85000 	KGS762 	F		Cass FD Link 	Cass County Fire Link 	FMN 	Fire-Tac 
-153.95000 	WPAG280 	BM		Adams TWP 	Adams Township Fire Tactical 	FMN 	Fire-Tac 
-154.37000 	WNJB880 	BM		Cass FD Tac-2 	Cass County Fire Tac 2 	FMN 	Fire-Tac 
-154.38500 	WNKK848 	BM		Harrison 	Harrison Township Fire Tactical 	FMN 	Fire-Tac 
-154.34000 	KNCW934 	BM		Royal Center 	Royal Center Fire Tactical 	FMN 	Fire-Tac 
-154.26500 	 	RM	032 DPL	NWFD FG RPTR 	New Waverly Fireground Repetear 	FMN 	Fire-Tac 
-155.08500 	WPYV596 	RM	118.8 PL	Cass EMA 	Cass County EMA Operations 	FMN 	Emergency Ops 
-155.02500 	WPYV596 	BM		State EMA 	Cass County EMA State Net 	FMN 	Emergency Ops 
-151.02500 	WPYV596 	BM		Cass DPW 	Cass County Department of Public Works 	FMN 	Public Works 
-855.98750 	KAU450 	RM	172 DPL	Cass DptTrns 	Cass County Department of Transportation 	FMN 	Public Works 
-453.95000 	WCO838 	RM		Walton DPW 	Walton Department of Public Works 	FMN 	Public Works 
-858.43750 	WPYW560 	RM	411 DPL	Lgnprt PD 	Logansport Police Dispatch 	FMN 	Law Dispatch 
-460.17500 	KSA813 	RM		Lgnprt PD 	Logansport Police Operations 	FMN 	Law Tac 
-154.19000 	WQU314 	RM	118.8 PL	Lgnprt FD 	Logansport Fire Dispatch 	FMN 	Fire Dispatch 
-151.07000 	KXM233 	BM	103.5 PL	Lgnprt Strts 	Logansport Street Department 	FMN 	Public Works 
-854.86250 	KNHH511 	RM	107.2 PL	Lgnspt Elect 	Logansport Municipal Electric 	FMN 	Public Works 
-464.85000 	KUL392 	RM		LCSC-School 	Logansport Community School Corporation 	DMR 	Schools 
-151.86500 	 	BM	118.8 PL	FSSA OPS-1 	FSSA State Hopsital Operations 	FMN 	Hospital 
-155.77500 	 	BM	118.8 PL	FSSA OPS-2 	FSSA State Hopsital Operations 	FMN 	Hospital 
-158.76000 	 	BM	79.7 PL	FSSA OPS-3 	FSSA State Hopsital Operations 	FMN 	Hospital 
-860.23750 	WPIQ344 	BM	072 DPL	FSSA OPS-4 	FSSA State Hopsital Operations 	FMN 	Corrections 
-ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Logansport Municipal Utilities	 LTR Standard
- Logansport	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	
+154.77000 	   	WPWS755 	M		Cass SO 	Cass County Sheriff Operations 	FMN 	Law Tac 
+155.37000 	   	KSA813 	B		ISP Pnt2Pnt 	Cass County Sheriff State/Point 	FMN 	Interop 
+155.47500 	   	WPWS755 	M		ILEEN 	Cass County I.L.E.E.N 	FMN 	Interop 
+155.43000 	154.77000  	WPWS755 	RM	118.8 PL	Cass FD Dsp 	Cass County Fire Dispatch 	FMN 	Fire Dispatch 
+453.85000 	458.85000  	KGS762 	F		Cass FD Link 	Cass County Fire Link 	FMN 	Fire-Tac 
+153.95000 	   	WPAG280 	BM		Adams TWP 	Adams Township Fire Tactical 	FMN 	Fire-Tac 
+154.37000 	   	WNJB880 	BM		Cass FD Tac-2 	Cass County Fire Tac 2 	FMN 	Fire-Tac 
+154.38500 	   	WNKK848 	BM		Harrison 	Harrison Township Fire Tactical 	FMN 	Fire-Tac 
+154.34000 	   	KNCW934 	BM		Royal Center 	Royal Center Fire Tactical 	FMN 	Fire-Tac 
+154.26500 	155.97750  	 	RM	032 DPL	NWFD FG RPTR 	New Waverly Fireground Repetear 	FMN 	Fire-Tac 
+155.08500 	   	WPYV596 	RM	118.8 PL	Cass EMA 	Cass County EMA Operations 	FMN 	Emergency Ops 
+155.02500 	   	WPYV596 	BM		State EMA 	Cass County EMA State Net 	FMN 	Emergency Ops 
+151.02500 	   	WPYV596 	BM		Cass DPW 	Cass County Department of Public Works 	FMN 	Public Works 
+855.98750 	810.98750  	KAU450 	RM	172 DPL	Cass DptTrns 	Cass County Department of Transportation 	FMN 	Public Works 
+453.95000 	458.95000  	WCO838 	RM		Walton DPW 	Walton Department of Public Works 	FMN 	Public Works 
+858.43750 	813.43750  	WPYW560 	RM	411 DPL	Lgnprt PD 	Logansport Police Dispatch 	FMN 	Law Dispatch 
+460.17500 	465.17500  	KSA813 	RM		Lgnprt PD 	Logansport Police Operations 	FMN 	Law Tac 
+154.19000 	159.09000  	WQU314 	RM	118.8 PL	Lgnprt FD 	Logansport Fire Dispatch 	FMN 	Fire Dispatch 
+151.07000 	   	KXM233 	BM	103.5 PL	Lgnprt Strts 	Logansport Street Department 	FMN 	Public Works 
+854.86250 	809.86250  	KNHH511 	RM	107.2 PL	Lgnspt Elect 	Logansport Municipal Electric 	FMN 	Public Works 
+464.85000 	469.85000  	KUL392 	RM		LCSC-School 	Logansport Community School Corporation 	DMR 	Schools 
+151.86500 	   	 	BM	118.8 PL	FSSA OPS-1 	FSSA State Hopsital Operations 	FMN 	Hospital 
+155.77500 	   	 	BM	118.8 PL	FSSA OPS-2 	FSSA State Hopsital Operations 	FMN 	Hospital 
+158.76000 	   	 	BM	79.7 PL	FSSA OPS-3 	FSSA State Hopsital Operations 	FMN 	Hospital 
+860.23750 	815.23750  	WPIQ344 	BM	072 DPL	FSSA OPS-4 	FSSA State Hopsital Operations 	FMN 	Corrections 
+ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Logansport Municipal Utilities	 LTR Standard	 Logansport	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple

@@ -1,44 +1,44 @@
-154.44500 	WRZ612 	RM	114.8 PL	ONEMR1 	EMS/Fire 	FMN 	EMS Dispatch 
-154.35500 	WRZ612 	BM	114.8 PL	ONFG 	Fireground 	FMN 	Fire-Tac 
-155.07750 	KTK556 	RM	1E1 NAC	ONPAG 	Paging @ Woodruff 	P25 	EMS Dispatch 
-155.30250 	WXP614 	RM	179.9 PL	ONPAG 	Paging @ Lennox 	FMN 	Fire Dispatch 
-155.80500 	WXP614 	RM	118.8 PL	ONEMR2 	EMS - Howard Young Medical Center Ambulances (Minocqua, 186.2 PL on input) 	FMN 	Fire Dispatch 
-155.80500 	WXP614 	RM	118.8 PL	ONEMR2 	EMS - Fire District Alpha (Shoepke, Pelican Lake Area, 167.9 PL on input) 	FMN 	Fire Dispatch 
-155.80500 	WXP614 	RM	118.8 PL	ONEMR2 	EMS - Three Lakes Fire (114.8 PL on input) 	FMN 	Fire Dispatch 
-155.34000 	KTT980 	BM	114.8 PL	StMarys EMSB 	EMS to St. Mary's Hospital 	FMN 	Hospital 
-155.70000 	WRZ612 	RM	440 NAC	ONLAW1 	Sheriff 1 Dispatch 	P25e 	Law Dispatch 
-154.72500 	WRZ612 	RM	114.8 PL	ONLAW2 A 	Sheriff 2 Analog 	FMN 	Law Talk 
-154.72500 	WRZ612 	RM	440 NAC	ONLAW2 D 	Sheriff 2 Digital 	P25 	Law Talk 
-155.64000 	KTK556 	RM	114.8 PL	ONLAW3 	Sheriff 3 	FMN 	Law Talk 
-155.04000 	WPEX618 	M		ONCOM 	County LG 	FMN 	Multi-Talk 
-854.98750 	WPJI700 	BM	115 DPL	ONJAIL1 	Jail 	FM 	Corrections 
-855.98750 	WPJI700 	BM	125 DPL	ONJAIL2 	Jail 	FM 	Corrections 
-155.87250 	WPPC715 	RM	100.0 PL	ONMAINT 	Courthouse - Security/Maintenance 	FMN 	Public Works 
-154.04000 	WPEX618 	RM	136.5 PL	ONLANDFILL 	County Landfill 	FMN 	Public Works 
-155.04000 	WNRM906 	BM	206.5 PL	ONAGING 	Dept of Aging Transportation 	FMN 	Transportation 
-151.17500 	KSE551 	RM	146.2 PL	ONHWY 	Highway Department 	FMN 	Public Works 
-155.04000 	WNPS437 	BM		Cassian DPW 	DPW 	FMN 	Public Works 
-155.74500 	KB69389 	RM	114.8 PL	LakeTomahawk 	DPW 	FMN 	Public Works 
-151.19000 	KNAR929 	BM		McNaughtonCC 	Operations 	FMN 	Corrections 
-159.24750 	KNAR929 	BM		McNaughtonCC 	Operations 	FMN 	Corrections 
-155.92500 	WXP614 	RM	440 NAC	ONEMR3 	Minocqua and Woodruff Police 	P25 	Law Dispatch 
-154.99500 	KRA573 	RM	71.9 PL	Minocqua DPW 	Public Works/Fire 	FMN 	Public Works 
-154.21250 	WNC632 	RM	114.8 PL	Newbold FD 	Fire 	FMN 	Fire-Talk 
-154.10000 	WPKS953 	RM	114.8 PL	NATC 	Operations 	FMN 	Schools 
-155.10000 	WPKS953 	BM	114.8 PL	NATC 	Operations 	FMN 	Schools 
-158.74500 	WPKS953 	BM	114.8 PL	NATC 	Operations 	FMN 	Schools 
-154.96500 	KNEF383 	RM	94.8 PL	Fire/DPW 	Fire/DPW 	FMN 	Multi-Talk 
-155.04000 	KNEF383 	BM		DPW 	DPW 	FM 	Public Works 
-154.25000 	WNQQ712 	RM	114.8 PL	Pelican FD 	Fire 	FM 	Fire-Talk 
-154.14500 	KNEJ761 	RM	114.8 PL	Pine Lake FD 	Fire 	FM 	Fire-Talk 
-155.05500 	WPEX623 	RM	103.5 PL	RhinelandrFD 	Fire 	FM 	Fire-Tac 
-155.25000 	KSF352 	RM	440 NAC	RhinelandrPD 	Police 	P25e 	Law Dispatch 
-155.13000 	KSF352 	BM		RHPD 	Police 	FMN 	Law Talk 
-154.05500 	WNWK754 	BM	107.2 PL	RhinelandrPW 	Public Works 	FM 	Public Works 
-155.04000 	WNIU597 	BM		RhinelandrWW 	Wastewater Plant 	FM 	Public Works 
-464.95000 	WQBZ257 	RM	85.4 PL	RhinelndrSch 	Rhinelander School District 	FM 	Schools 
-462.76250 	WQBZ257 	RM		Schools 	Rhinelander School District 	FMN 	Schools 
-155.04000 	WNWF903 	BM	114 DPL	Sugar Camp 	DPW 	FMN 	Public Works 
-154.32500 	WQRX900 	RM		 Three Lakes FD 	Fire 	FMN 	Fire-Talk 
-151.10000 	WPPE754 	RM	123.0 PL	Woodruff DPW 	DPW 	FMN 	Public Works 
-Air Communications of Central WI (Rhinelander)	 LTR Standard	 Rhinelander	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+154.44500 	153.89000  	WRZ612 	RM	114.8 PL	ONEMR1 	EMS/Fire 	FMN 	EMS Dispatch 
+154.35500 	   	WRZ612 	BM	114.8 PL	ONFG 	Fireground 	FMN 	Fire-Tac 
+155.07750 	   	KTK556 	RM	1E1 NAC	ONPAG 	Paging @ Woodruff 	P25 	EMS Dispatch 
+155.30250 	   	WXP614 	RM	179.9 PL	ONPAG 	Paging @ Lennox 	FMN 	Fire Dispatch 
+155.80500 	158.95500  	WXP614 	RM	118.8 PL	ONEMR2 	EMS - Howard Young Medical Center Ambulances (Minocqua, 186.2 PL on input) 	FMN 	Fire Dispatch 
+155.80500 	158.95500  	WXP614 	RM	118.8 PL	ONEMR2 	EMS - Fire District Alpha (Shoepke, Pelican Lake Area, 167.9 PL on input) 	FMN 	Fire Dispatch 
+155.80500 	158.95500  	WXP614 	RM	118.8 PL	ONEMR2 	EMS - Three Lakes Fire (114.8 PL on input) 	FMN 	Fire Dispatch 
+155.34000 	   	KTT980 	BM	114.8 PL	StMarys EMSB 	EMS to St. Mary's Hospital 	FMN 	Hospital 
+155.70000 	153.95000  	WRZ612 	RM	440 NAC	ONLAW1 	Sheriff 1 Dispatch 	P25e 	Law Dispatch 
+154.72500 	156.11250  	WRZ612 	RM	114.8 PL	ONLAW2 A 	Sheriff 2 Analog 	FMN 	Law Talk 
+154.72500 	156.11250  	WRZ612 	RM	440 NAC	ONLAW2 D 	Sheriff 2 Digital 	P25 	Law Talk 
+155.64000 	158.91000  	KTK556 	RM	114.8 PL	ONLAW3 	Sheriff 3 	FMN 	Law Talk 
+155.04000 	   	WPEX618 	M		ONCOM 	County LG 	FMN 	Multi-Talk 
+854.98750 	   	WPJI700 	BM	115 DPL	ONJAIL1 	Jail 	FM 	Corrections 
+855.98750 	   	WPJI700 	BM	125 DPL	ONJAIL2 	Jail 	FM 	Corrections 
+155.87250 	153.79250  	WPPC715 	RM	100.0 PL	ONMAINT 	Courthouse - Security/Maintenance 	FMN 	Public Works 
+154.04000 	158.94000  	WPEX618 	RM	136.5 PL	ONLANDFILL 	County Landfill 	FMN 	Public Works 
+155.04000 	   	WNRM906 	BM	206.5 PL	ONAGING 	Dept of Aging Transportation 	FMN 	Transportation 
+151.17500 	156.19500  	KSE551 	RM	146.2 PL	ONHWY 	Highway Department 	FMN 	Public Works 
+155.04000 	   	WNPS437 	BM		Cassian DPW 	DPW 	FMN 	Public Works 
+155.74500 	153.87500  	KB69389 	RM	114.8 PL	LakeTomahawk 	DPW 	FMN 	Public Works 
+151.19000 	   	KNAR929 	BM		McNaughtonCC 	Operations 	FMN 	Corrections 
+159.24750 	   	KNAR929 	BM		McNaughtonCC 	Operations 	FMN 	Corrections 
+155.92500 	158.86500  	WXP614 	RM	440 NAC	ONEMR3 	Minocqua and Woodruff Police 	P25 	Law Dispatch 
+154.99500 	158.94000  	KRA573 	RM	71.9 PL	Minocqua DPW 	Public Works/Fire 	FMN 	Public Works 
+154.21250 	159.18750  	WNC632 	RM	114.8 PL	Newbold FD 	Fire 	FMN 	Fire-Talk 
+154.10000 	156.01500  	WPKS953 	RM	114.8 PL	NATC 	Operations 	FMN 	Schools 
+155.10000 	   	WPKS953 	BM	114.8 PL	NATC 	Operations 	FMN 	Schools 
+158.74500 	   	WPKS953 	BM	114.8 PL	NATC 	Operations 	FMN 	Schools 
+154.96500 	158.78250  	KNEF383 	RM	94.8 PL	Fire/DPW 	Fire/DPW 	FMN 	Multi-Talk 
+155.04000 	   	KNEF383 	BM		DPW 	DPW 	FM 	Public Works 
+154.25000 	150.77500  	WNQQ712 	RM	114.8 PL	Pelican FD 	Fire 	FM 	Fire-Talk 
+154.14500 	155.98500  	KNEJ761 	RM	114.8 PL	Pine Lake FD 	Fire 	FM 	Fire-Talk 
+155.05500 	158.95500  	WPEX623 	RM	103.5 PL	RhinelandrFD 	Fire 	FM 	Fire-Tac 
+155.25000 	156.15000  	KSF352 	RM	440 NAC	RhinelandrPD 	Police 	P25e 	Law Dispatch 
+155.13000 	   	KSF352 	BM		RHPD 	Police 	FMN 	Law Talk 
+154.05500 	   	WNWK754 	BM	107.2 PL	RhinelandrPW 	Public Works 	FM 	Public Works 
+155.04000 	   	WNIU597 	BM		RhinelandrWW 	Wastewater Plant 	FM 	Public Works 
+464.95000 	469.95000  	WQBZ257 	RM	85.4 PL	RhinelndrSch 	Rhinelander School District 	FM 	Schools 
+462.76250 	467.76250  	WQBZ257 	RM		Schools 	Rhinelander School District 	FMN 	Schools 
+155.04000 	   	WNWF903 	BM	114 DPL	Sugar Camp 	DPW 	FMN 	Public Works 
+154.32500 	155.97750  	WQRX900 	RM		 Three Lakes FD 	Fire 	FMN 	Fire-Talk 
+151.10000 	156.06000  	WPPE754 	RM	123.0 PL	Woodruff DPW 	DPW 	FMN 	Public Works 
+Air Communications of Central WI (Rhinelander)	 LTR Standard	 Rhinelander	

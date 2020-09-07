@@ -1,29 +1,29 @@
-151.05500 	WQLP600 	RM	CC 1TG 1SL 1	Tuscola Road Com 	Road Commission 	DMR 	Public Works 
-453.85000 	WQFX508 	M		Tuscola Health 	Health Department 	FMN 	EMS-Talk 
-855.26250 	WPGN494 	RM	162 DPL	Tuscola Sheriff 	Sheriff - Fallback/Talkaround 	FM 	Law Talk 
-155.94000 	WPCY419 	BM	CSQ	CaroCenter Maint 	Maintenance 	FMN 	Public Works 
-453.75000 	WNKR258 	BM	125 DPL	Caro Center 	Caro Center 	FMNE 	Hospital 
-153.36500 	WQKB398 	RM		HDGH Security 	Security 	FMN 	Security 
-155.34000 	WNCH889 	BM	127.3 PL	HEARN 	Ambulance-to-Hospital 	FMN 	Hospital 
-159.54000 	WQKB398 	M		HDGH Ops 1 	Operations 	FMN 	Business 
-159.76500 	WQKB398 	M		HDGH Ops 2 	Operations 	FMN 	Business 
-159.85500 	WQKB398 	M		HDGH Ops 3 	Operations 	FMN 	Business 
-159.96000 	WQKB398 	M		HDGH Ops 4 	Operations 	FMN 	Business 
-160.15500 	WQKB398 	M		HDGH Ops 5 	Operations 	FMN 	Business 
-160.18500 	WQKB398 	M		HDGH Ops 6 	Operations 	FMN 	Business 
-155.34000 	KZR592 	BM	114.8 PL	HEARN 	Ambulance-to-Hospital 	FMN 	Hospital 
-453.77500 	KNAW777 	RM		Cass City DPW 	Public Works 	FMN 	Public Works 
-453.36250 	WPXI232 	RM		Mayville PubWrks 	Public Works 	FMN 	Public Works 
-463.62500 	WQOQ573 	RM	118.8 PL	CassCity SchlBus 	Transportation 	FMN 	Schools 
-451.62500 	WPZP730 	RM	131.8 PL	Kingston Sch Bus 	Transportation 	FMN 	Schools 
-155.16000 	WRG887 	BM	141.3 PL	Mayville Buses 	Transportation 	FMN 	Schools 
-155.23500 	WXP456 	BM	110.9 PL	Millington Buses 	Transportation 	FMN 	Schools 
-461.30000 	WQEH638 	RM	031 DPL	Reese Buses 	Transportation 	FMN 	Schools 
-461.85000 	WQFH345 	RM	85.4 PL	Tusc.IntSc Buses 	Transportation 	FMN 	Schools 
-464.77500 	KNNU581 	RM	173.8 PL	Vassar Buses 	Transportation 	FMN 	Schools 
-153.56000 	KQB281 	RM	131.8 PL	DTE Caro 	DTE Energy Operations (Caro) 	FMN 	Utilities 
-153.62000 	KQB281 	BM	107.2 PL	DTE Caro 2 	DTE Energy Operations 	FMN 	Utilities 
-153.71000 	WGE825 	RM	107.2 PL	Thumb Elec 1 	Thumb Electric Operations 1 	FMN 	Utilities 
-456.03750 	WGE825 	M		Thumb Elec 3 	Mobile Extenders 	FMN 	Data 
-Consumers Energy	 EDACS Networked Standard	 Various	Louchart Enterprises (800 MHz)	 Motorola Type II SmartZone	 Bay City	Louchart Enterprises (UHF)	 LTR Standard and Passport
- Bay City	Louchart Enterprises MOTOTRBO System	 DMR Motorola Capacity Plus Single Site (TRBO)	 Varies	
+151.05500 	159.00000  	WQLP600 	RM	CC 1TG 1SL 1	Tuscola Road Com 	Road Commission 	DMR 	Public Works 
+453.85000 	   	WQFX508 	M		Tuscola Health 	Health Department 	FMN 	EMS-Talk 
+855.26250 	810.26250  	WPGN494 	RM	162 DPL	Tuscola Sheriff 	Sheriff - Fallback/Talkaround 	FM 	Law Talk 
+155.94000 	   	WPCY419 	BM	CSQ	CaroCenter Maint 	Maintenance 	FMN 	Public Works 
+453.75000 	458.75000  	WNKR258 	BM	125 DPL	Caro Center 	Caro Center 	FMNE 	Hospital 
+153.36500 	   	WQKB398 	RM		HDGH Security 	Security 	FMN 	Security 
+155.34000 	   	WNCH889 	BM	127.3 PL	HEARN 	Ambulance-to-Hospital 	FMN 	Hospital 
+159.54000 	   	WQKB398 	M		HDGH Ops 1 	Operations 	FMN 	Business 
+159.76500 	   	WQKB398 	M		HDGH Ops 2 	Operations 	FMN 	Business 
+159.85500 	   	WQKB398 	M		HDGH Ops 3 	Operations 	FMN 	Business 
+159.96000 	   	WQKB398 	M		HDGH Ops 4 	Operations 	FMN 	Business 
+160.15500 	   	WQKB398 	M		HDGH Ops 5 	Operations 	FMN 	Business 
+160.18500 	   	WQKB398 	M		HDGH Ops 6 	Operations 	FMN 	Business 
+155.34000 	   	KZR592 	BM	114.8 PL	HEARN 	Ambulance-to-Hospital 	FMN 	Hospital 
+453.77500 	458.77500  	KNAW777 	RM		Cass City DPW 	Public Works 	FMN 	Public Works 
+453.36250 	458.36250  	WPXI232 	RM		Mayville PubWrks 	Public Works 	FMN 	Public Works 
+463.62500 	468.62500  	WQOQ573 	RM	118.8 PL	CassCity SchlBus 	Transportation 	FMN 	Schools 
+451.62500 	456.62500  	WPZP730 	RM	131.8 PL	Kingston Sch Bus 	Transportation 	FMN 	Schools 
+155.16000 	   	WRG887 	BM	141.3 PL	Mayville Buses 	Transportation 	FMN 	Schools 
+155.23500 	   	WXP456 	BM	110.9 PL	Millington Buses 	Transportation 	FMN 	Schools 
+461.30000 	466.30000  	WQEH638 	RM	031 DPL	Reese Buses 	Transportation 	FMN 	Schools 
+461.85000 	466.85000  	WQFH345 	RM	85.4 PL	Tusc.IntSc Buses 	Transportation 	FMN 	Schools 
+464.77500 	469.77500  	KNNU581 	RM	173.8 PL	Vassar Buses 	Transportation 	FMN 	Schools 
+153.56000 	159.64500  	KQB281 	RM	131.8 PL	DTE Caro 	DTE Energy Operations (Caro) 	FMN 	Utilities 
+153.62000 	   	KQB281 	BM	107.2 PL	DTE Caro 2 	DTE Energy Operations 	FMN 	Utilities 
+153.71000 	158.14500  	WGE825 	RM	107.2 PL	Thumb Elec 1 	Thumb Electric Operations 1 	FMN 	Utilities 
+456.03750 	   	WGE825 	M		Thumb Elec 3 	Mobile Extenders 	FMN 	Data 
+Consumers Energy	 EDACS Networked Standard	 Various	Louchart Enterprises (800 MHz)	 Motorola Type II SmartZone	 Bay City	Louchart Enterprises (UHF)	 LTR Standard and Passport	 Bay City
+Louchart Enterprises MOTOTRBO System	 DMR Motorola Capacity Plus Single Site (TRBO)	 Varies	

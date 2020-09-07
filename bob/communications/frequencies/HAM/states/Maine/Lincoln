@@ -1,38 +1,38 @@
-151.40000 	WQBR956 	R	118.8 PL	2FDCNTRL 	Lincoln County Fire Central (Nobleboro) 	FMN 	Fire Dispatch 
-151.40000 	WQBR956 	R	79.7 PL	FDSimulcast 	Lincoln County Fire (Simulcast from 155.985) 	FMN 	Fire Dispatch 
-153.79250 	KCH953 	M	152 DPL	6 LC FG2 	Lincoln County Fire Ground 2 	FMN 	Fire-Talk 
-154.04750 	WQBP289 	RM	110.9 PL	LC LAW NORTH 	Lincoln County Law North (Wiscasset) 	FMN 	Law Dispatch 
-154.13000 	WPAX935 	BM	127.3 PL	5 LC FG1 	Lincoln County Fire Ground 1 	FMN 	Fire-Talk 
-154.81500 	KCH953 	RM	110.9 PL	LC CNTRL 	Lincoln County Law Central (Nobleboro) 	FM 	Law Dispatch 
-154.95000 	 	RM	173.8 PL	LC LAW SEC 	Lincoln County Law Secondary (Law Tac 4) 	FM 	Law Talk 
-155.00250 	WQBP289 	RM	110.9 PL	LC COAST 	Lincoln County Law Coast (Boothbay) 	FMN 	Law Dispatch 
-155.06250 	WQBR956 	R	118.8 PL	FD NEW HBR 	Lincoln Cnty Fire New Harbor Tower 	FMN 	Fire Dispatch 
-155.41500 	WQBR956 	R	118.8 PL	3FDCOAST 	Lincoln County Fire Coast(Boothbay) 	FM 	Fire Dispatch 
-155.74500 	KKL582 	B	192.8 PL	LSO CID 	Lincoln SO TAC 1(LCSO ONLY) 	FM 	Law Tac 
-155.98500 	KKL582 	RM	118.8 PL	1FDNORTH 	Lincoln County Fire North 	FM 	Fire Dispatch 
-159.12750 	KCH953 	M	152 DPL	7 LC FG3 	Lincoln County Fire Ground 3 	FM 	Fire-Talk 
-159.75000 	WQBF748 	RM	127.3 PL	CLC 1 	Central Lincoln County Ambulance 	FM 	EMS Dispatch 
-151.02500 	WPNP949 	M		BthbyHPubWrk 	Public Works 	FM 	Public Works 
-153.94250 	WQCH204 	RM	025 DPL	BthbyH PD/FD 	Police/Fire 	FMN 	Multi-Talk 
-155.31000 	WNCZ338 	BM	192.8 PL	BthbyH PD 3 	Police Ch. 3 Tactical 	FM 	Law Tac 
-158.82750 	WQGU622 	RM	351 DPL	BthbyH EMS 	EMS (dispatched by Lincoln County RCC) 	FM 	EMS Dispatch 
-154.19750 	WQOF796 	B		BremenFD 	Fire Local 	FMN 	Fire-Tac 
-158.93250 	WPXQ910 	RM	69.3 PL	Bristol Fire 	Fire Local 	FMN 	Fire-Tac 
-154.41500 	KZV359 	RM	127.3 PL	Dresden Fire 	Fire Local 	FMN 	Fire-Tac 
-151.28000 	KNHA795 	B	051 DPL	Edgecomb FD 	Fire Local 	FMN 	Fire-Tac 
-155.32500 	KVN540 	B	110.9 PL	ST ANDREW 	St. Andrews Hospital (Boothbay Harbor) 	FM 	Hospital 
-155.32500 	KVN540 	B	127.3 PL	MILES 	Miles Memorial Hospital (Damariscotta) 	FM 	Hospital 
-154.44500 	KJI798 	BM	127.3 PL	Jefferson FD 	Fire Local 	FM 	Fire-Tac 
-154.07000 	KFI520 	B	123.0 PL	Nobleboro FD 	Nobleboro Fire 	FMN 	Fire-Tac 
-463.30000 	 	RM	155 DPL	RSU 40 	Regional School Unit 40(Waldoboro) 	FM 	Schools 
-154.35500 	KNDS827 	BM		S Bristol FD 	Fire Local 	FMN 	Fire-Tac 
-155.12250 	WNUZ343 	R	186.2 PL	WALD PW 	Waldoboro Public Works 	FM 	Public Works 
-155.77500 	KUJ521 	RM	179.9 PL	WALD FD 	Waldoboro Fire 	FM 	Fire Dispatch 
-155.83500 	WNUZ343 	B	179.9 PL	WALD FD TAC 	Waldoboro FD Tac 	FM 	Fire-Tac 
-155.28000 	WNQZ799 	BM	162 DPL	WhitefieldFD 	Fire or EMS 	FM 	Fire-Tac 
-154.35500 	KCI217 	BM	94.8 PL	Wiscasset FD 	Fire Local 	FMN 	Fire Dispatch 
-155.04000 	KUG640 	B		WiscPubWrks 	Public Works 	FMN 	Public Works 
-158.75250 	 	BM	94.8 PL	Wisc FDTac 	Wiscasset FD Tac 	FMN 	Fire-Tac 
-Atlantic Communications	 DMR Conventional Networked	 Various	Atlantic Communications	 LTR Standard	 Various	Central Maine Power	 LTR Standard
- Various	Maine State Communications Network (MSCommNet)	 Project 25 Phase I	 Statewide	MedComm	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Mid-Coast Maine LTR
- LTR Standard	 Midcoast	RCM Communications (Hytera XPT)	 DMR Hytera XPT	 Portland	
+151.40000 	158.77500  	WQBR956 	R	118.8 PL	2FDCNTRL 	Lincoln County Fire Central (Nobleboro) 	FMN 	Fire Dispatch 
+151.40000 	158.77500  	WQBR956 	R	79.7 PL	FDSimulcast 	Lincoln County Fire (Simulcast from 155.985) 	FMN 	Fire Dispatch 
+153.79250 	   	KCH953 	M	152 DPL	6 LC FG2 	Lincoln County Fire Ground 2 	FMN 	Fire-Talk 
+154.04750 	155.52750  	WQBP289 	RM	110.9 PL	LC LAW NORTH 	Lincoln County Law North (Wiscasset) 	FMN 	Law Dispatch 
+154.13000 	   	WPAX935 	BM	127.3 PL	5 LC FG1 	Lincoln County Fire Ground 1 	FMN 	Fire-Talk 
+154.81500 	155.52750  	KCH953 	RM	110.9 PL	LC CNTRL 	Lincoln County Law Central (Nobleboro) 	FM 	Law Dispatch 
+154.95000 	   	 	RM	173.8 PL	LC LAW SEC 	Lincoln County Law Secondary (Law Tac 4) 	FM 	Law Talk 
+155.00250 	155.52750  	WQBP289 	RM	110.9 PL	LC COAST 	Lincoln County Law Coast (Boothbay) 	FMN 	Law Dispatch 
+155.06250 	158.77500  	WQBR956 	R	118.8 PL	FD NEW HBR 	Lincoln Cnty Fire New Harbor Tower 	FMN 	Fire Dispatch 
+155.41500 	158.77500  	WQBR956 	R	118.8 PL	3FDCOAST 	Lincoln County Fire Coast(Boothbay) 	FM 	Fire Dispatch 
+155.74500 	   	KKL582 	B	192.8 PL	LSO CID 	Lincoln SO TAC 1(LCSO ONLY) 	FM 	Law Tac 
+155.98500 	158.77500  	KKL582 	RM	118.8 PL	1FDNORTH 	Lincoln County Fire North 	FM 	Fire Dispatch 
+159.12750 	   	KCH953 	M	152 DPL	7 LC FG3 	Lincoln County Fire Ground 3 	FM 	Fire-Talk 
+159.75000 	152.96000  	WQBF748 	RM	127.3 PL	CLC 1 	Central Lincoln County Ambulance 	FM 	EMS Dispatch 
+151.02500 	   	WPNP949 	M		BthbyHPubWrk 	Public Works 	FM 	Public Works 
+153.94250 	158.96250  	WQCH204 	RM	025 DPL	BthbyH PD/FD 	Police/Fire 	FMN 	Multi-Talk 
+155.31000 	   	WNCZ338 	BM	192.8 PL	BthbyH PD 3 	Police Ch. 3 Tactical 	FM 	Law Tac 
+158.82750 	150.99500  	WQGU622 	RM	351 DPL	BthbyH EMS 	EMS (dispatched by Lincoln County RCC) 	FM 	EMS Dispatch 
+154.19750 	   	WQOF796 	B		BremenFD 	Fire Local 	FMN 	Fire-Tac 
+158.93250 	153.92750  	WPXQ910 	RM	69.3 PL	Bristol Fire 	Fire Local 	FMN 	Fire-Tac 
+154.41500 	151.17500  	KZV359 	RM	127.3 PL	Dresden Fire 	Fire Local 	FMN 	Fire-Tac 
+151.28000 	   	KNHA795 	B	051 DPL	Edgecomb FD 	Fire Local 	FMN 	Fire-Tac 
+155.32500 	   	KVN540 	B	110.9 PL	ST ANDREW 	St. Andrews Hospital (Boothbay Harbor) 	FM 	Hospital 
+155.32500 	   	KVN540 	B	127.3 PL	MILES 	Miles Memorial Hospital (Damariscotta) 	FM 	Hospital 
+154.44500 	   	KJI798 	BM	127.3 PL	Jefferson FD 	Fire Local 	FM 	Fire-Tac 
+154.07000 	   	KFI520 	B	123.0 PL	Nobleboro FD 	Nobleboro Fire 	FMN 	Fire-Tac 
+463.30000 	   	 	RM	155 DPL	RSU 40 	Regional School Unit 40(Waldoboro) 	FM 	Schools 
+154.35500 	   	KNDS827 	BM		S Bristol FD 	Fire Local 	FMN 	Fire-Tac 
+155.12250 	   	WNUZ343 	R	186.2 PL	WALD PW 	Waldoboro Public Works 	FM 	Public Works 
+155.77500 	150.80500  	KUJ521 	RM	179.9 PL	WALD FD 	Waldoboro Fire 	FM 	Fire Dispatch 
+155.83500 	   	WNUZ343 	B	179.9 PL	WALD FD TAC 	Waldoboro FD Tac 	FM 	Fire-Tac 
+155.28000 	   	WNQZ799 	BM	162 DPL	WhitefieldFD 	Fire or EMS 	FM 	Fire-Tac 
+154.35500 	   	KCI217 	BM	94.8 PL	Wiscasset FD 	Fire Local 	FMN 	Fire Dispatch 
+155.04000 	   	KUG640 	B		WiscPubWrks 	Public Works 	FMN 	Public Works 
+158.75250 	   	 	BM	94.8 PL	Wisc FDTac 	Wiscasset FD Tac 	FMN 	Fire-Tac 
+Atlantic Communications	 DMR Conventional Networked	 Various	Atlantic Communications	 LTR Standard	 Various	Central Maine Power	 LTR Standard	 Various
+Maine State Communications Network (MSCommNet)	 Project 25 Phase I	 Statewide	MedComm	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Mid-Coast Maine LTR	 LTR Standard	 Midcoast
+RCM Communications (Hytera XPT)	 DMR Hytera XPT	 Portland	

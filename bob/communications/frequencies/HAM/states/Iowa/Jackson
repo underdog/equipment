@@ -1,17 +1,17 @@
-154.86000 	KNEJ488 	RM	156.7 PL	JacksonCo Sh 	Sheriff Dispatch (various input tones, see above) 	FMN 	Law Dispatch 
-158.79000 	WPCQ813 	RM	051 DPL	JacksonShRe 	Sheriff (Preston Remote Site) 	FMN 	Law Dispatch 
-155.31000 	KAF497 	B	156.7 PL	JacksonInfoB 	Sheriff Information - Base 	FM 	Law Tac 
-155.91000 	KAF497 	M		JacksonInfoM 	Sheriff Information - Mobile 	FM 	Law Tac 
-155.76000 	KAF497 	BM		Maquoketa PW 	Maquoketa Public Works 	FM 	Public Works 
-154.20500 	WPGQ342 	BM	CSQ	JacksonCoFr 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.20500 	WPGQ342 	RM	162.2 PL	JacksonCoFr 	Fire Dispatch - Baldwin Tower 	FMN 	Fire Dispatch 
-154.20500 	WPGQ342 	RM	167.9 PL	JackosonCoFr 	Fire Dispatch -  La Motte Tower 	FMN 	Fire Dispatch 
-154.20500 	WPGQ342 	RM	173.8 PL	JackCoFrBvew 	Fire Dispatch - Bellevue Tower 	FMN 	Fire Dispatch 
-154.20500 	WPGQ342 	RM	179.9 PL	JackCoFrMaq 	Fire Dispatch - Maquoketa Tower 	FMN 	Fire Dispatch 
-154.20500 	WPGQ342 	RM	186.2 PL	JackCoFrPrre 	Fire Dispatch - Preston Tower 	FMN 	Fire Dispatch 
-154.20500 	WPGQ342 	RM	203.5 PL	JacksonCoFr 	Fire Dispatch - Andrew Tower 	FMN 	Fire Dispatch 
-154.85250 	WQLJ354 	RM	243 DPL	JackEMAbelle 	EMA - Bellevue Tower, input  205 DPL 	FMN 	Emergency Ops 
-154.85250 	WQLJ354 	RM	205 DPL	JackEMAmaquo 	EMA - Maquoketa Tower, input 205 DPL 	FMN 	Emergency Ops 
-154.85250 	WQLJ354 	RM	306 DPL	JackEMAprest 	EMA - Preston Tower, input 205 DPL 	FMN 	Emergency Ops 
-158.83500 	WBY232 	RM	146.2 PL	JacksonCoRds 	Road Deparment 	FM 	Public Works 
+154.86000 	159.03000  	KNEJ488 	RM	156.7 PL	JacksonCo Sh 	Sheriff Dispatch (various input tones, see above) 	FMN 	Law Dispatch 
+158.79000 	154.86000  	WPCQ813 	RM	051 DPL	JacksonShRe 	Sheriff (Preston Remote Site) 	FMN 	Law Dispatch 
+155.31000 	   	KAF497 	B	156.7 PL	JacksonInfoB 	Sheriff Information - Base 	FM 	Law Tac 
+155.91000 	   	KAF497 	M		JacksonInfoM 	Sheriff Information - Mobile 	FM 	Law Tac 
+155.76000 	   	KAF497 	BM		Maquoketa PW 	Maquoketa Public Works 	FM 	Public Works 
+154.20500 	   	WPGQ342 	BM	CSQ	JacksonCoFr 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.20500 	159.46500  	WPGQ342 	RM	162.2 PL	JacksonCoFr 	Fire Dispatch - Baldwin Tower 	FMN 	Fire Dispatch 
+154.20500 	159.46500  	WPGQ342 	RM	167.9 PL	JackosonCoFr 	Fire Dispatch -  La Motte Tower 	FMN 	Fire Dispatch 
+154.20500 	159.46500  	WPGQ342 	RM	173.8 PL	JackCoFrBvew 	Fire Dispatch - Bellevue Tower 	FMN 	Fire Dispatch 
+154.20500 	159.46500  	WPGQ342 	RM	179.9 PL	JackCoFrMaq 	Fire Dispatch - Maquoketa Tower 	FMN 	Fire Dispatch 
+154.20500 	159.46500  	WPGQ342 	RM	186.2 PL	JackCoFrPrre 	Fire Dispatch - Preston Tower 	FMN 	Fire Dispatch 
+154.20500 	159.46500  	WPGQ342 	RM	203.5 PL	JacksonCoFr 	Fire Dispatch - Andrew Tower 	FMN 	Fire Dispatch 
+154.85250 	156.17250  	WQLJ354 	RM	243 DPL	JackEMAbelle 	EMA - Bellevue Tower, input  205 DPL 	FMN 	Emergency Ops 
+154.85250 	156.17250  	WQLJ354 	RM	205 DPL	JackEMAmaquo 	EMA - Maquoketa Tower, input 205 DPL 	FMN 	Emergency Ops 
+154.85250 	156.17250  	WQLJ354 	RM	306 DPL	JackEMAprest 	EMA - Preston Tower, input 205 DPL 	FMN 	Emergency Ops 
+158.83500 	153.93500  	WBY232 	RM	146.2 PL	JacksonCoRds 	Road Deparment 	FM 	Public Works 
 Alliant Energy	 DMR Tier 3	 Various	RACOM Network	 EDACS Networked Standard	 Various	

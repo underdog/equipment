@@ -1,23 +1,22 @@
-154.96500 	KKW203 	RM	506 DPL	Polk FD/EMS 	Fire & EMS - Dispatch 	FMN 	Multi-Dispatch 
-153.78500 	KKW203 	BM	186.2 PL	Polk FD 5 	Fire Tac 5 	FM 	Fire-Tac 
-463.10000 	 	RM	173.8 PL	St. Lukes 	Saint Luke's Hospital/Columbus Patient Reports 	FM 	Hospital 
-151.89500 	WPJI634 	M	77.0 PL	Saluda FD 	Saluda FD Tac 	FM 	Fire-Tac 
-152.34500 	WPJI634 	RM	107.2 PL	Saluda FD 	Saluda FD Private 	FM 	Fire-Talk 
-153.44500 	 	RM	114.8 PL	GCFD-RPTR 	Green Creek Fire Repeater 	FM 	Fire-Talk 
-153.69500 	 	M	114.8 PL	GCFD-OPS-1 	Green Creek Fire Ops 1 	FM 	Fire-Tac 
-158.22000 	 	M	114.8 PL	GCFD-OPS-2 	Green Creek Fire Ops 2 	FM 	Fire-Tac 
-152.36000 	WQKZ312 	RM		Mill Sprg FD 	Mill Spring FD Ops 1 	FM 	Fire-Tac 
-159.76500 	WQKZ312 	M		Mill Sprg FD 	Mill Spring FD Ops 2 	FM 	Fire-Talk 
-152.39750 	WQLY210 	RM		Sunnyview FD 	Sunnyview FD Tac 	FM 	Fire-Tac 
-151.13000 	KUI701 	RM	516 DPL	Polk SO Disp 	Dispatch 	FMN 	Law Dispatch 
-452.32500 	WNPZ659 	RM	173.8 PL	Polk Transp 	Transportation 	FM 	Transportation 
-461.92500 	KNNW372 	RM	662 DPL	Polk Schools 	Schools 	FM 	Schools 
-152.38250 	WQLX991 	RM	192.8 PL	Columbus FD 	Fire "Columbus Repeater" 	FM 	Law Tac 
-159.06000 	WQBI986 	M	186.2 PL	Columbus FD 	Fire 	FM 	Fire-Tac 
-155.07000 	KLU261 	RM	12 RAN	Tryon FD Dsp 	Fire Dispatch 	NXDN 	Fire Dispatch 
-151.30250 	WQKU332 	BM	88.5 PL	TryonFDOps1 	Fire Ops Channel 1 	FM 	Fire-Tac 
-158.82000 	WQPJ990 	BM	88.5 PL	TryonFDOps2 	Fire Ops Channel 2 	FM 	Fire-Tac 
-154.05500 	WQPJ990 	BM	88.5 PL	TryonFDOps3 	Fire Ops Channel 3 	FM 	Fire-Tac 
-155.58000 	KIQ247 	RM	12 RAN	Tryon PD Dsp 	Police Dispatch  	NXDN 	Law Dispatch 
-Duke Energy	 OpenSky 4800 baud	 Various	Duke Energy - Polk	 OpenSky 4800 baud	 Tryon	North Carolina VIPER	 Project 25 Phase I
- Varies	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	
+154.96500 	158.95500  	KKW203 	RM	506 DPL	Polk FD/EMS 	Fire & EMS - Dispatch 	FMN 	Multi-Dispatch 
+153.78500 	   	KKW203 	BM	186.2 PL	Polk FD 5 	Fire Tac 5 	FM 	Fire-Tac 
+463.10000 	   	 	RM	173.8 PL	St. Lukes 	Saint Luke's Hospital/Columbus Patient Reports 	FM 	Hospital 
+151.89500 	   	WPJI634 	M	77.0 PL	Saluda FD 	Saluda FD Tac 	FM 	Fire-Tac 
+152.34500 	157.60500  	WPJI634 	RM	107.2 PL	Saluda FD 	Saluda FD Private 	FM 	Fire-Talk 
+153.44500 	159.82500  	 	RM	114.8 PL	GCFD-RPTR 	Green Creek Fire Repeater 	FM 	Fire-Talk 
+153.69500 	   	 	M	114.8 PL	GCFD-OPS-1 	Green Creek Fire Ops 1 	FM 	Fire-Tac 
+158.22000 	   	 	M	114.8 PL	GCFD-OPS-2 	Green Creek Fire Ops 2 	FM 	Fire-Tac 
+152.36000 	157.62000  	WQKZ312 	RM		Mill Sprg FD 	Mill Spring FD Ops 1 	FM 	Fire-Tac 
+159.76500 	   	WQKZ312 	M		Mill Sprg FD 	Mill Spring FD Ops 2 	FM 	Fire-Talk 
+152.39750 	157.65750  	WQLY210 	RM		Sunnyview FD 	Sunnyview FD Tac 	FM 	Fire-Tac 
+151.13000 	159.21000  	KUI701 	RM	516 DPL	Polk SO Disp 	Dispatch 	FMN 	Law Dispatch 
+452.32500 	457.32500  	WNPZ659 	RM	173.8 PL	Polk Transp 	Transportation 	FM 	Transportation 
+461.92500 	466.92500  	KNNW372 	RM	662 DPL	Polk Schools 	Schools 	FM 	Schools 
+152.38250 	157.64250  	WQLX991 	RM	192.8 PL	Columbus FD 	Fire "Columbus Repeater" 	FM 	Law Tac 
+159.06000 	   	WQBI986 	M	186.2 PL	Columbus FD 	Fire 	FM 	Fire-Tac 
+155.07000 	153.98750  	KLU261 	RM	12 RAN	Tryon FD Dsp 	Fire Dispatch 	NXDN 	Fire Dispatch 
+151.30250 	   	WQKU332 	BM	88.5 PL	TryonFDOps1 	Fire Ops Channel 1 	FM 	Fire-Tac 
+158.82000 	   	WQPJ990 	BM	88.5 PL	TryonFDOps2 	Fire Ops Channel 2 	FM 	Fire-Tac 
+154.05500 	   	WQPJ990 	BM	88.5 PL	TryonFDOps3 	Fire Ops Channel 3 	FM 	Fire-Tac 
+155.58000 	156.03000  	KIQ247 	RM	12 RAN	Tryon PD Dsp 	Police Dispatch  	NXDN 	Law Dispatch 
+Duke Energy	 OpenSky 4800 baud	 Various	Duke Energy - Polk	 OpenSky 4800 baud	 Tryon	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville

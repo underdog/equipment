@@ -1,30 +1,31 @@
-151.24250 	WQZU447 	RM	57 RAN	Greene Law Rdhse 	Sheriff/Rural Law: Dispatch (Roodhouse-Simulcast) 	NXDNE 	Law Dispatch 
-151.42250 	WQZU447 	RM	57 RAN	Greene Law Grnfd 	Sheriff/Rural Law: Dispatch (Greenfield-Simulcast) 	NXDNE 	Law Dispatch 
-151.01750 	WQZU447 	RM	57 RAN	Greene Law Crltn 	Sheriff/Rural Law: Dispatch (Carrollton-Simulcast) 	NXDNE 	Law Dispatch 
-154.86750 	WQZU447 	RM	57 RAN	Greene Law Kmpsv 	Sheriff/Rural Law: Dispatch (Kampsville-Simulcast) 	NXDNE 	Law Dispatch 
-154.40750 	WPOX944 	RM	411 DPL	Greene Sheriff W 	(OLD) Sheriff: Dispatch - West (Carrollton) 	FMN 	Law Dispatch 
-173.28750 	WPOX944 	M		GreeneSheriffMX 	Sheriff: Mobile Extenders  	FMN 	Law Dispatch 
-154.40750 	WPOX944 	RM	411 DPL	Greene Sheriff E 	(OLD) Sheriff: Dispatch - East (Greenfield D226 in) [No license] 	FMN 	Law Dispatch 
-158.84250 	WQZU446 	RM	172 DPL	Greene 911 Disp 	911: Dispatch (DB: West Central JDC) 	FMN 	Multi-Dispatch 
-151.00250 	WPTN432 	RM	125 DPL	Greene Highway  	Highway Department 	FMN 	Public Works 
-159.45750 	WQHM522 	RM	712 DPL	Greene Co EMS 	EMS: Dispatch (Carrollton) [License Canceled 2008] 	FMN 	EMS Dispatch 
-151.05500 	WPTA974 	M	205 DPL	BluffdaleTwpRoad 	Bluffdale Township Road Maintenance [Expired 2/11] 	FMN 	Public Works 
-153.68000 	WPYG317 	BM		GrnCo Water 	Greene County Water Co: Data (CSQ) 	Telm 	Data 
-159.76500 	WQQP981 	F		SMGWC WDD 	Scott-Morgan-Greene Water Cooperative (CSQ) 	Telm 	Data 
-155.68500 	WPLX299 	RM	411 DPL	Carr Police  	(OLD) Police: Dispatch  	FMN 	Law Dispatch 
-155.82000 	WNRD867 	BM		Carr PubWrks 	Public Works 	FMN 	Public Works 
-855.98750 	WPYR406 	RM		Carr PW 800 	Public Works 	FM 	Public Works 
-158.82750 	WQFV606 	RM	94.8 PL	CarrlltnFire 	Fire: Dispatch [Terminated*] 	FMN 	Fire Dispatch 
-155.87250 	WQFV606 	M	205 DPL	Carrltn FG2 	Fireground  [Terminated*] 	FMN 	Fire-Tac 
-153.85250 	WPQA353 	M		Carrltn FG1 	Firerground [Expired] 	FMN 	Fire-Tac 
-154.19750 	WQXQ360 	RM	532 DPL	Greenfield Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
-155.64000 	WPMH621 	RM	155 DPL	Rdhs Police 	Police: Local [Expired 7/13; in use 7/17] 	FMN 	Law Dispatch 
-154.17500 	WQW917 	BM	CSQ	Rdhs Fire Local 	Fire: Dispatch / Fireground [Expired 2/05] 	FMN 	Fire-Tac 
-151.18250 	WQXE430 	BM		Rdhs Fire New 	Fire: New 	FMN 	Fire-Tac 
-155.14500 	WPGN797 	BM	271 DPL	Rdhs PubWrks 	Public Works / FPD Alternate 	FMN 	Public Works 
-154.37000 	WPOX635 	RM	271 DPL	WhHl Police/Fire 	Police: Dispatch / Fire: Dispatch  	FMN 	Multi-Dispatch 
-154.29500 	WPJK212 	BM	271 DPL	WhtHall Fire 	Fire: Dispatch [Expired 2001] (3/13) 	FMN 	Fire Dispatch 
-154.74000 	WPGV406 	BM	662 DPL	WhHl Utilities 	Utilities (also D114?) 	FMN 	Public Works 
-155.11500 	 	BM	662 DPL	WH PubWrks 	Public Works [No License] 	FMN 	Public Works 
-464.55000 	 	RM	85.4 PL	WH Schools 	Ops / Buses [No License?] 	FMN 	Schools 
-CK Communications / MJM Electric Cooperative (DMR)	 DMR Conventional Networked	 Carlinville	Illinois Rural Electric Cooperative	 NXDN NEXEDGE 4800	 Winchester	
+151.24250 	153.77750  	WQZU447 	RM	57 RAN	Greene Law Rdhse 	Sheriff/Rural Law: Dispatch (Roodhouse-Simulcast) 	NXDNE 	Law Dispatch 
+151.42250 	154.03250  	WQZU447 	RM	57 RAN	Greene Law Grnfd 	Sheriff/Rural Law: Dispatch (Greenfield-Simulcast) 	NXDNE 	Law Dispatch 
+151.01750 	159.25500  	WQZU447 	RM	57 RAN	Greene Law Crltn 	Sheriff/Rural Law: Dispatch (Carrollton-Simulcast) 	NXDNE 	Law Dispatch 
+154.86750 	159.46500  	WQZU447 	RM	57 RAN	Greene Law Kmpsv 	Sheriff/Rural Law: Dispatch (Kampsville-Simulcast) 	NXDNE 	Law Dispatch 
+154.40750 	150.80500  	WPOX944 	RM	411 DPL	Greene Sheriff W 	(OLD) Sheriff: Dispatch - West (Carrollton) 	FMN 	Law Dispatch 
+173.28750 	   	WPOX944 	M		GreeneSheriffMX 	Sheriff: Mobile Extenders  	FMN 	Law Dispatch 
+154.40750 	150.80500  	WPOX944 	RM	411 DPL	Greene Sheriff E 	(OLD) Sheriff: Dispatch - East (Greenfield D226 in) [No license] 	FMN 	Law Dispatch 
+158.84250 	156.02250  	WQZU446 	RM	172 DPL	Greene 911 Disp 	911: Dispatch (DB: West Central JDC) 	FMN 	Multi-Dispatch 
+151.00250 	159.00750  	WPTN432 	RM	125 DPL	Greene Highway  	Highway Department 	FMN 	Public Works 
+159.45750 	153.80750  	WQHM522 	RM	712 DPL	Greene Co EMS 	EMS: Dispatch (Carrollton) [License Canceled 2008] 	FMN 	EMS Dispatch 
+151.05500 	   	WPTA974 	M	205 DPL	BluffdaleTwpRoad 	Bluffdale Township Road Maintenance [Expired 2/11] 	FMN 	Public Works 
+153.68000 	   	WPYG317 	BM		GrnCo Water 	Greene County Water Co: Data (CSQ) 	Telm 	Data 
+159.76500 	   	WQQP981 	F		SMGWC WDD 	Scott-Morgan-Greene Water Cooperative (CSQ) 	Telm 	Data 
+155.68500 	153.87500  	WPLX299 	RM	411 DPL	Carr Police  	(OLD) Police: Dispatch  	FMN 	Law Dispatch 
+155.82000 	   	WNRD867 	BM		Carr PubWrks 	Public Works 	FMN 	Public Works 
+855.98750 	810.98750  	WPYR406 	RM		Carr PW 800 	Public Works 	FM 	Public Works 
+158.82750 	155.87250  	WQFV606 	RM	94.8 PL	CarrlltnFire 	Fire: Dispatch [Terminated*] 	FMN 	Fire Dispatch 
+155.87250 	   	WQFV606 	M	205 DPL	Carrltn FG2 	Fireground  [Terminated*] 	FMN 	Fire-Tac 
+153.85250 	   	WPQA353 	M		Carrltn FG1 	Firerground [Expired] 	FMN 	Fire-Tac 
+154.19750 	159.32250  	WQXQ360 	RM	532 DPL	Greenfield Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
+155.64000 	158.89500  	WPMH621 	RM	155 DPL	Rdhs Police 	Police: Local [Expired 7/13; in use 7/17] 	FMN 	Law Dispatch 
+154.17500 	   	WQW917 	BM	CSQ	Rdhs Fire Local 	Fire: Dispatch / Fireground [Expired 2/05] 	FMN 	Fire-Tac 
+151.18250 	   	WQXE430 	BM		Rdhs Fire New 	Fire: New 	FMN 	Fire-Tac 
+155.14500 	   	WPGN797 	BM	271 DPL	Rdhs PubWrks 	Public Works / FPD Alternate 	FMN 	Public Works 
+154.37000 	158.94000  	WPOX635 	RM	271 DPL	WhHl Police/Fire 	Police: Dispatch / Fire: Dispatch  	FMN 	Multi-Dispatch 
+154.29500 	   	WPJK212 	BM	271 DPL	WhtHall Fire 	Fire: Dispatch [Expired 2001] (3/13) 	FMN 	Fire Dispatch 
+154.74000 	   	WPGV406 	BM	662 DPL	WhHl Utilities 	Utilities (also D114?) 	FMN 	Public Works 
+155.11500 	   	 	BM	662 DPL	WH PubWrks 	Public Works [No License] 	FMN 	Public Works 
+464.55000 	469.55000  	 	RM	85.4 PL	WH Schools 	Ops / Buses [No License?] 	FMN 	Schools 
+CK Communications / MJM Electric Cooperative (DMR)	 DMR Conventional Networked	 Carlinville	Diga-Talk	 NXDN NEXEDGE 4800	 Various	Illinois Rural Electric Cooperative	 NXDN NEXEDGE 4800	 Winchester
+United Communications - Macoupin	 LTR Standard	 Various	

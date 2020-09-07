@@ -1,53 +1,53 @@
-154.75500 	KEC896 	RM	110.9 PL	Sheriff Disp 	Sheriff Dispatch (also all villages) 	FMN 	Law Dispatch 
-159.09000 	WQPB289 	RM	110.9 PL	Jeff Co Jail 	Sheriff Jail 	FMN 	Corrections 
-155.14500 	WQWJ720 	B		FD/EMS VHF 	Fire/EMS VHF Paging 	FMN 	Fire Dispatch 
-453.82500 	WNPQ856 	B		FD/EMS UHF 	Fire/EMS UHF Paging 	FMN 	Fire Dispatch 
-46.18000 	KNDK966 	BM	82.5 PL	Jeff Fire 1 	Fire Ch. 1 - Dispatch 	FM 	Fire Dispatch 
-46.22000 	KNDK966 	BM	CSQ	Jeff Fire 2 	Fire Ch. 2 - Fireground 	FM 	Fire-Tac 
-46.08000 	KNDK966 	BM	CSQ	Jeff Fire 3 	Fire Ch. 3 - Fireground 	FM 	Fire-Tac 
-46.40000 	KNDK966 	BM	CSQ	Jeff Fire 4 	Fire Ch. 4 - Fireground (used as Command) 	FM 	Fire-Tac 
-46.04000 	 	BM	CSQ	Jeff Fire 5 	Fire Ch. 5 - EMS 	FM 	EMS-Tac 
-46.28000 	 	BM	CSQ	Jeff Fire 6 	Fire Ch. 6 - Fire Police 	FM 	Fire-Tac 
-39.18000 	WPGQ996 	BM	110.9 PL	Jeff Co Dump 	County Dump 	FM 	Public Works 
-158.78250 	KNEA305 	BM		Jeff Co EMO 	Emergency Management Office 	FMNE 	Emergency Ops 
-453.17500 	 	RM	025 DPL	JeffCoBldgs 	Building Services 	FMN 	Public Works 
-453.75000 	WPGC918 	RM		Adams DPW 	DPW 	FMN 	Public Works 
-151.50500 	 	BM	127.3 PL	Antwerp FD 	FD Crossband Repeater 	FMN 	Fire Dispatch 
-158.44500 	 	BM	127.3 PL	AntwrpFD Tac 	FD Tactical 	FMN 	Fire-Tac 
-159.42000 	WQKH416 	B	110.9 PL	B-ville Fire 	Fire Crossband repeat 46.18 	FMN 	Fire Dispatch 
-159.47250 	 	BM	032 DPL	Calcium FD 	FD Crossband Repeater 	FMN 	Fire Dispatch 
-151.19000 	WQOD662 	RM	054 DPL	CapeVincntFD 	FD Crossband Repeater 	FMN 	Fire Dispatch 
-155.04000 	KDT231 	BM	110.9 PL	Carthage PD 	Police 	FMN 	Law Tac 
-155.22000 	WNCF498 	BM		Carthage EMS 	Rescue Squad 	FMN 	EMS Dispatch 
-155.26500 	WNCF498 	BM		Amb/Hosp265 	Rescue Squad - Ambulance/Hospital 	FMN 	Hospital 
-154.13750 	KEC565 	BM	82.5 PL	Chmnt XBand 	Fire Crossband 	FMN 	Fire Dispatch 
-158.81250 	WQCA809 	BM	110.9 PL	ClytnFD Xbnd 	Fire - Cross Band Repeat 46.18 	FMN 	Fire Dispatch 
-152.28500 	 	RM	110.9 PL	ClytnFD Xbnd 	Cross Band Repeat of 46.18 in Clayton 	FMN 	Fire Dispatch 
-156.22500 	WPDK550 	BM		Clayton DPW 	DPW 	FMN 	Public Works 
-154.24250 	WQOR959 	BM	127.3 PL	EMVFD TAC 	FD Tactical 	FMN 	Fire-Tac 
-154.62500 	 	BM	127.3 PL	EMVFD 1 	FD Crossband Repeater 	FMN 	Fire Dispatch 
-154.62500 	 	BM	192.8 PL	EMVFD 2 	FD Tac 	FMN 	Fire-Tac 
-151.95500 	 	BM		EMVFD Tac2 	FD Interior 	FMN 	Fire-Tac 
-151.77500 	 	BM	141.3 PL	NorthpoleVFD 	FD Crossband Repeater 	FMN 	Fire Dispatch 
-153.87500 	KUZ771 	BM	146.2 PL	Orleans Hwy 	Highway Department 	FMN 	Public Works 
-453.42500 	WQNX388 	RM	293 NAC	Watn Police 	Police 	P25 	Law Dispatch 
-460.60000 	WQNX388 	RM	82.5 PL	WatnFire UHF 	UHF Fire Repeater 	FMN 	Fire Dispatch 
-154.40000 	KNIQ540 	BM		Watn FD VHF 	VHF Paging / Simulcast UHF Repeater 	FMN 	Fire Dispatch 
-154.17500 	KNIQ540 	BM		Watn Fire 2 	Fire 2 	FMN 	Fire-Tac 
-158.88000 	KNIQ540 	RM		WatnFireRptr 	Fire Repeater 	FMN 	Fire-Talk 
-156.18000 	WNWU593 	RM	CSQ	Watn DPW 	Public Works 	FMN 	Public Works 
-453.30000 	KIU491 	RM	203.5 PL	WatnHsgAuth 	Housing Authority 	FMN 	Public Works 
-154.04000 	WQSJ700 	BM	88.5 PL	TWFD X-Band 	Crossband repeat of 46.18 	FMN 	Fire Dispatch 
-451.52500 	WQTJ727 	BM	743 DPL	Lifeflight 	Air Methods - Lifeflight Medevac 	FMN 	EMS-Talk 
-155.40000 	KNGY668 	RM	123.0 PL	GEMS 	Guilfoyle Emergency Medical Services 	FMN 	EMS Dispatch 
-150.89000 	 	RM	123.0 PL	GEMS Disp 	Guilfoyle Ambulance New Dispatch 	FMN 	EMS Dispatch 
-46.00000 	KNFY408 	BM		SJRS Talk 	South Jefferson Rescue Talk  	FM 	EMS-Talk 
-152.51000 	 	BM	127.3 PL	TIERS X-Band 	Thousand Islands Emgcy Rescue Squad Crossband Repeater 	FMN 	EMS-Tac 
-157.77000 	 	BM	127.3 PL	TIERS OPS 1 	Thousand Islands Emgcy Rescue Squad Ops 1 	FMN 	EMS-Tac 
-151.95500 	 	M	127.3 PL	TIERS OPS 2 	Thousand Islands Emgcy Rescue Squad Ops 2 	FMN 	EMS-Tac 
-155.22000 	KTL444 	BM	82.5 PL	Gen Brown 	General Brown School District 	FMN 	Schools 
-155.23500 	WQCA805 	BM	82.5 PL	IndianRvrBus 	Indian River School District Buses 	FMN 	Schools 
-461.12500 	WPJN836 	RM	205 DPL	Carthage Sch 	Carthage Central School 	FMN 	Schools 
-464.47500 	 	RM	110.9 PL	JeffCommColl 	Jefferson Community College 	FMN 	Schools 
-165.23750 	 	RM		Customs Net1 	US Customs 	P25 	Federal 
-Fort Drum	 Project 25 Phase I	 Fort Drum	Mobiletech Communications	 LTR Net	 Various	
+154.75500 	155.91000  	KEC896 	RM	110.9 PL	Sheriff Disp 	Sheriff Dispatch (also all villages) 	FMN 	Law Dispatch 
+159.09000 	155.06250  	WQPB289 	RM	110.9 PL	Jeff Co Jail 	Sheriff Jail 	FMN 	Corrections 
+155.14500 	   	WQWJ720 	B		FD/EMS VHF 	Fire/EMS VHF Paging 	FMN 	Fire Dispatch 
+453.82500 	   	WNPQ856 	B		FD/EMS UHF 	Fire/EMS UHF Paging 	FMN 	Fire Dispatch 
+46.18000 	   	KNDK966 	BM	82.5 PL	Jeff Fire 1 	Fire Ch. 1 - Dispatch 	FM 	Fire Dispatch 
+46.22000 	   	KNDK966 	BM	CSQ	Jeff Fire 2 	Fire Ch. 2 - Fireground 	FM 	Fire-Tac 
+46.08000 	   	KNDK966 	BM	CSQ	Jeff Fire 3 	Fire Ch. 3 - Fireground 	FM 	Fire-Tac 
+46.40000 	   	KNDK966 	BM	CSQ	Jeff Fire 4 	Fire Ch. 4 - Fireground (used as Command) 	FM 	Fire-Tac 
+46.04000 	   	 	BM	CSQ	Jeff Fire 5 	Fire Ch. 5 - EMS 	FM 	EMS-Tac 
+46.28000 	   	 	BM	CSQ	Jeff Fire 6 	Fire Ch. 6 - Fire Police 	FM 	Fire-Tac 
+39.18000 	   	WPGQ996 	BM	110.9 PL	Jeff Co Dump 	County Dump 	FM 	Public Works 
+158.78250 	   	KNEA305 	BM		Jeff Co EMO 	Emergency Management Office 	FMNE 	Emergency Ops 
+453.17500 	458.17500  	 	RM	025 DPL	JeffCoBldgs 	Building Services 	FMN 	Public Works 
+453.75000 	458.75000  	WPGC918 	RM		Adams DPW 	DPW 	FMN 	Public Works 
+151.50500 	   	 	BM	127.3 PL	Antwerp FD 	FD Crossband Repeater 	FMN 	Fire Dispatch 
+158.44500 	   	 	BM	127.3 PL	AntwrpFD Tac 	FD Tactical 	FMN 	Fire-Tac 
+159.42000 	   	WQKH416 	B	110.9 PL	B-ville Fire 	Fire Crossband repeat 46.18 	FMN 	Fire Dispatch 
+159.47250 	   	 	BM	032 DPL	Calcium FD 	FD Crossband Repeater 	FMN 	Fire Dispatch 
+151.19000 	158.73000  	WQOD662 	RM	054 DPL	CapeVincntFD 	FD Crossband Repeater 	FMN 	Fire Dispatch 
+155.04000 	   	KDT231 	BM	110.9 PL	Carthage PD 	Police 	FMN 	Law Tac 
+155.22000 	   	WNCF498 	BM		Carthage EMS 	Rescue Squad 	FMN 	EMS Dispatch 
+155.26500 	   	WNCF498 	BM		Amb/Hosp265 	Rescue Squad - Ambulance/Hospital 	FMN 	Hospital 
+154.13750 	   	KEC565 	BM	82.5 PL	Chmnt XBand 	Fire Crossband 	FMN 	Fire Dispatch 
+158.81250 	   	WQCA809 	BM	110.9 PL	ClytnFD Xbnd 	Fire - Cross Band Repeat 46.18 	FMN 	Fire Dispatch 
+152.28500 	   	 	RM	110.9 PL	ClytnFD Xbnd 	Cross Band Repeat of 46.18 in Clayton 	FMN 	Fire Dispatch 
+156.22500 	   	WPDK550 	BM		Clayton DPW 	DPW 	FMN 	Public Works 
+154.24250 	   	WQOR959 	BM	127.3 PL	EMVFD TAC 	FD Tactical 	FMN 	Fire-Tac 
+154.62500 	   	 	BM	127.3 PL	EMVFD 1 	FD Crossband Repeater 	FMN 	Fire Dispatch 
+154.62500 	   	 	BM	192.8 PL	EMVFD 2 	FD Tac 	FMN 	Fire-Tac 
+151.95500 	   	 	BM		EMVFD Tac2 	FD Interior 	FMN 	Fire-Tac 
+151.77500 	   	 	BM	141.3 PL	NorthpoleVFD 	FD Crossband Repeater 	FMN 	Fire Dispatch 
+153.87500 	   	KUZ771 	BM	146.2 PL	Orleans Hwy 	Highway Department 	FMN 	Public Works 
+453.42500 	458.42500  	WQNX388 	RM	293 NAC	Watn Police 	Police 	P25 	Law Dispatch 
+460.60000 	465.60000  	WQNX388 	RM	82.5 PL	WatnFire UHF 	UHF Fire Repeater 	FMN 	Fire Dispatch 
+154.40000 	   	KNIQ540 	BM		Watn FD VHF 	VHF Paging / Simulcast UHF Repeater 	FMN 	Fire Dispatch 
+154.17500 	   	KNIQ540 	BM		Watn Fire 2 	Fire 2 	FMN 	Fire-Tac 
+158.88000 	154.31000  	KNIQ540 	RM		WatnFireRptr 	Fire Repeater 	FMN 	Fire-Talk 
+156.18000 	151.02500  	WNWU593 	RM	CSQ	Watn DPW 	Public Works 	FMN 	Public Works 
+453.30000 	458.30000  	KIU491 	RM	203.5 PL	WatnHsgAuth 	Housing Authority 	FMN 	Public Works 
+154.04000 	   	WQSJ700 	BM	88.5 PL	TWFD X-Band 	Crossband repeat of 46.18 	FMN 	Fire Dispatch 
+451.52500 	   	WQTJ727 	BM	743 DPL	Lifeflight 	Air Methods - Lifeflight Medevac 	FMN 	EMS-Talk 
+155.40000 	150.77500  	KNGY668 	RM	123.0 PL	GEMS 	Guilfoyle Emergency Medical Services 	FMN 	EMS Dispatch 
+150.89000 	157.68000  	 	RM	123.0 PL	GEMS Disp 	Guilfoyle Ambulance New Dispatch 	FMN 	EMS Dispatch 
+46.00000 	   	KNFY408 	BM		SJRS Talk 	South Jefferson Rescue Talk  	FM 	EMS-Talk 
+152.51000 	   	 	BM	127.3 PL	TIERS X-Band 	Thousand Islands Emgcy Rescue Squad Crossband Repeater 	FMN 	EMS-Tac 
+157.77000 	   	 	BM	127.3 PL	TIERS OPS 1 	Thousand Islands Emgcy Rescue Squad Ops 1 	FMN 	EMS-Tac 
+151.95500 	   	 	M	127.3 PL	TIERS OPS 2 	Thousand Islands Emgcy Rescue Squad Ops 2 	FMN 	EMS-Tac 
+155.22000 	   	KTL444 	BM	82.5 PL	Gen Brown 	General Brown School District 	FMN 	Schools 
+155.23500 	   	WQCA805 	BM	82.5 PL	IndianRvrBus 	Indian River School District Buses 	FMN 	Schools 
+461.12500 	466.12500  	WPJN836 	RM	205 DPL	Carthage Sch 	Carthage Central School 	FMN 	Schools 
+464.47500 	469.47500  	 	RM	110.9 PL	JeffCommColl 	Jefferson Community College 	FMN 	Schools 
+165.23750 	   	 	RM		Customs Net1 	US Customs 	P25 	Federal 
+Central New York Interoperable Communications Consortium (CNYICC)	 Project 25 Phase II	 Regional	Fort Drum	 Project 25 Phase I	 Fort Drum	Mobiletech Communications	 LTR Net	 Various

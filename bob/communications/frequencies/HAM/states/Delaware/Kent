@@ -1,26 +1,25 @@
-861.16250 	 	RM	156.7 PL	K VRS 2 	K Vehicle Repeater 2 	FMN 	Law Tac 
-861.23750 	 	RM	156.7 PL	K VRS 1 	K Vehicle Repeater 1 	FMN 	Law Tac 
-460.62500 	KGC277 	RM		Carlisle FC 	Carlisle Fire Company 	FM 	Fire-Talk 
-154.34000 	WQAJ530 	BM	043 DPL	Cheswold FC 	Cheswold 	FM 	Fire-Talk 
-151.40000 	WNGR526 	BM	CSQ	County Fire 	County Fire - rebroadcast 	FM 	Fire-Talk 
-157.45000 	KSZ256 	B		FarmingtnVFC 	Farmington Volunteer Fire Company 	FM 	Fire-Talk 
-152.00750 	 	B	CSQ	Fredrica FD 	Fredrica 800 Fire - simulcast (Sta 49) 	FM 	EMS-Talk 
-155.50500 	KBN499 	RM	155 DPL	HarringtonFD 	Harrington FD EMS/FD - rebroadcast of TRS (All county FD EMS is repeated) 	FM 	Fire-Talk 
-155.07000 	WPZA549 	BM		Marydel VFC 	Marydel Volunteer Fire Company 	FM 	Fire-Talk 
-154.44500 	WNGP583 	RM	CSQ	Robbins Fire 	Robbins Hose Company/ Kent county 	FM 	Fire-Talk 
-453.26250 	WPPC678 	B	CSQ	DHCI Page 	DE Hosp. for the Chronically ill Pagers 	FM 	Data 
-460.26250 	WPPC678 	RM	606 DPL	DHCI Ops 	DE Hosp. for the Chronically ill Ops  	FM 	Hospital 
-463.76250 	 	M	CC 1TG *SL *	DVH DMR 	Delaware Veterans Home (Milford) (S:1 TG:10 	DMR 	Hospital 
-461.80000 	WQDK294 	RM	074 DPL	DovDownsSlotTech 	Slot Techs 	FMN 	Business 
-461.92500 	WQDK294 	RM	174 DPL	DovDownsSec 	Security 	FMN 	Security 
-462.20000 	 	RM	CC 8TG *SL *	Purdue (dig) 	Purdue Farms (Milford)  TG2 S1 	DMR 	Business 
-467.85000 	 	M	631 DPL	Harbor Frt 1 	Harbor Freight 2 	FMN 	Business 
-467.87500 	 	M	411 DPL	Harbor Frt 2 	Harbor Freight 1 	FMN 	Business 
-467.90000 	 	M	346 DPL	Harbor Frt 3 	Harbor Freight 4 	FMN 	Business 
-467.92500 	 	M	343 DPL	Harbor Frt 4 	Harbor Freight 3 	FMN 	Business 
-153.42500 	WPOZ754 	RM		Dover Elec 	Dover Electric Utility 	FM 	Utilities 
-158.77500 	 	RM		Dover Water 	Dover Water Department 	FMN 	Utilities 
-American Industrial and Marine (Frederica)	 LTR Standard	 Frederica	Delaware Wireless Interoperability Network (DELWIN)	 Project 25 Phase I	 Varies	Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone
- Various	Firefly Music Festival (2013)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dover	FleetCall	 NXDN NEXEDGE 4800	 Various	Mid-Atlantic Digital Radio Network
- DMR Motorola Connect Plus (TRBO)	 Various	Milford Electric Department	 DMR Motorola Capacity Plus Single Site (TRBO)	 Milford	State of Delaware Public Safety	 Motorola Type II SmartZone	 Statewide
-United States Air Force (57C)	 Project 25 Phase I	 Multiple	
+861.16250 	   	 	RM	156.7 PL	K VRS 2 	K Vehicle Repeater 2 	FMN 	Law Tac 
+861.23750 	   	 	RM	156.7 PL	K VRS 1 	K Vehicle Repeater 1 	FMN 	Law Tac 
+460.62500 	465.62500  	KGC277 	RM		Carlisle FC 	Carlisle Fire Company 	FM 	Fire-Talk 
+154.34000 	   	WQAJ530 	BM	043 DPL	Cheswold FC 	Cheswold 	FM 	Fire-Talk 
+151.40000 	   	WNGR526 	BM	CSQ	County Fire 	County Fire - rebroadcast 	FM 	Fire-Talk 
+157.45000 	   	KSZ256 	B		FarmingtnVFC 	Farmington Volunteer Fire Company 	FM 	Fire-Talk 
+152.00750 	   	 	B	CSQ	Fredrica FD 	Fredrica 800 Fire - simulcast (Sta 49) 	FM 	EMS-Talk 
+155.50500 	   	KBN499 	RM	155 DPL	HarringtonFD 	Harrington FD EMS/FD - rebroadcast of TRS (All county FD EMS is repeated) 	FM 	Fire-Talk 
+155.07000 	   	WPZA549 	BM		Marydel VFC 	Marydel Volunteer Fire Company 	FM 	Fire-Talk 
+154.44500 	   	WNGP583 	RM	CSQ	Robbins Fire 	Robbins Hose Company/ Kent county 	FM 	Fire-Talk 
+453.26250 	   	WPPC678 	B	CSQ	DHCI Page 	DE Hosp. for the Chronically ill Pagers 	FM 	Data 
+460.26250 	465.26250  	WPPC678 	RM	606 DPL	DHCI Ops 	DE Hosp. for the Chronically ill Ops  	FM 	Hospital 
+463.76250 	   	 	M	CC 1TG *SL *	DVH DMR 	Delaware Veterans Home (Milford) (S:1 TG:10 	DMR 	Hospital 
+461.80000 	466.80000  	WQDK294 	RM	074 DPL	DovDownsSlotTech 	Slot Techs 	FMN 	Business 
+461.92500 	466.92500  	WQDK294 	RM	174 DPL	DovDownsSec 	Security 	FMN 	Security 
+462.20000 	   	 	RM	CC 8TG *SL *	Purdue (dig) 	Purdue Farms (Milford)  TG2 S1 	DMR 	Business 
+467.85000 	   	 	M	631 DPL	Harbor Frt 1 	Harbor Freight 2 	FMN 	Business 
+467.87500 	   	 	M	411 DPL	Harbor Frt 2 	Harbor Freight 1 	FMN 	Business 
+467.90000 	   	 	M	346 DPL	Harbor Frt 3 	Harbor Freight 4 	FMN 	Business 
+467.92500 	   	 	M	343 DPL	Harbor Frt 4 	Harbor Freight 3 	FMN 	Business 
+153.42500 	   	WPOZ754 	RM		Dover Elec 	Dover Electric Utility 	FM 	Utilities 
+158.77500 	   	 	RM		Dover Water 	Dover Water Department 	FMN 	Utilities 
+American Industrial and Marine (Frederica)	 LTR Standard	 Frederica	Delaware Wireless Interoperability Network (DELWIN)	 Project 25 Phase I	 Varies	Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone	 Various
+Firefly Music Festival (2013)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dover	FleetCall	 NXDN NEXEDGE 4800	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various
+Milford Electric Department	 DMR Motorola Capacity Plus Single Site (TRBO)	 Milford	State of Delaware Public Safety	 Motorola Type II SmartZone	 Statewide	United States Air Force (57C)	 Project 25 Phase I	 Multiple

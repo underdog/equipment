@@ -1,25 +1,25 @@
-154.87500 	KNNI569 	RM	186.2 PL	DEF SO 1 	Sheriff - Main Dispatch 	FMN 	Law Dispatch 
-155.62500 	KZZ646 	RM	141.3 PL	DEF SO 2 	Sheriff - Secondary Dispatch 	FMN 	Law Talk 
-154.10000 	WPGW654 	BM		DEF SO CORR 	Sheriff - Corrections - Highway clean-up crews 	FMN 	Corrections 
-159.22500 	KQA361 	M	94.8 PL	DEF SO 	Sheriff - Unknown use 	FMN 	Law Talk 
-155.58000 	KQA361 	BM	167.9 PL	Def Police 	Defiance Police - Dispatch 	FMN 	Law Dispatch 
-151.43000 	KXT872 	RM	218.1 PL	Hicksvle PD 	Hicksville Police - Dispatch 	FMN 	Law Talk 
-154.25000 	KDA369 	RM	110.9 PL	DEFCO FIRE 	Defiance Fire - County Net 	FMN 	Fire Dispatch 
-154.20500 	KDA369 	RM	110.9 PL	Def Fire 4 	Defiance City - Dispatch 	FMN 	Fire Dispatch 
-151.05500 	KDA369 	RM	118.8 PL	Def Fire 1 	Defiance Fire - Secondary 	FMN 	Fire-Tac 
-151.07000 	KDA369 	BM		Def Fire 2 	Defiance Fire 	FMN 	Fire-Tac 
-151.10000 	KDA369 	BM		Def Fire 3 	Defiance Fire 	FMN 	Fire-Tac 
-155.16000 	WPNR830 	BM		RT Rescue  	Richland Township Rescue 	FMN 	EMS Dispatch 
-155.34000 	KNCN266 	BM		HEARN 	EMS to Hospital 	FMN 	Hospital 
-156.19500 	KJZ886 	RM		DefCo ENG 	County Highway Dept. 	FMN 	Public Works 
-150.99500 	WPJQ650 	BM		DelTwp DPW 	Delaware Township DPW 	FMN 	Public Works 
-154.05500 	WNBX893 	BM		NobTwp DPW 	Noble Township DPW 	FMN 	Public Works 
-155.10000 	KNDQ898 	BM		RichTwp DPW 	Richland Township DPW 	FMN 	Public Works 
-155.71500 	KNEZ932 	BM		Def DPW 	Defiance DPW 	FMN 	Public Works 
-155.77500 	KNEK969 	BM		Sherwd DPW 	Sherwood DPW 	FMN 	Public Works 
-158.83500 	WPUF519 	BM		Hicksvle DPW 	Hicksville DPW 	FMN 	Public Works 
-159.12000 	KNEA296 	BM		WashTwp DPW 	Washington Township DPW 	FMN 	Public Works 
-155.28000 	WNUE972 	BM		Hickvle ESD 	Hicksville Exempted School District Buses 	FMN 	Schools 
-155.29500 	WNQM477 	BM		Central LSD 	Central Local School District Buses 	FMN 	Schools 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
- Statewide	ProMedica	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Toledo	
+154.87500 	156.15000  	KNNI569 	RM	186.2 PL	DEF SO 1 	Sheriff - Main Dispatch 	FMN 	Law Dispatch 
+155.62500 	154.65000  	KZZ646 	RM	141.3 PL	DEF SO 2 	Sheriff - Secondary Dispatch 	FMN 	Law Talk 
+154.10000 	   	WPGW654 	BM		DEF SO CORR 	Sheriff - Corrections - Highway clean-up crews 	FMN 	Corrections 
+159.22500 	   	KQA361 	M	94.8 PL	DEF SO 	Sheriff - Unknown use 	FMN 	Law Talk 
+155.58000 	159.22500  	KQA361 	BM	167.9 PL	Def Police 	Defiance Police - Dispatch 	FMN 	Law Dispatch 
+151.43000 	159.31500  	KXT872 	RM	218.1 PL	Hicksvle PD 	Hicksville Police - Dispatch 	FMN 	Law Talk 
+154.25000 	153.89000  	KDA369 	RM	110.9 PL	DEFCO FIRE 	Defiance Fire - County Net 	FMN 	Fire Dispatch 
+154.20500 	150.80500  	KDA369 	RM	110.9 PL	Def Fire 4 	Defiance City - Dispatch 	FMN 	Fire Dispatch 
+151.05500 	153.74000  	KDA369 	RM	118.8 PL	Def Fire 1 	Defiance Fire - Secondary 	FMN 	Fire-Tac 
+151.07000 	   	KDA369 	BM		Def Fire 2 	Defiance Fire 	FMN 	Fire-Tac 
+151.10000 	   	KDA369 	BM		Def Fire 3 	Defiance Fire 	FMN 	Fire-Tac 
+155.16000 	   	WPNR830 	BM		RT Rescue  	Richland Township Rescue 	FMN 	EMS Dispatch 
+155.34000 	   	KNCN266 	BM		HEARN 	EMS to Hospital 	FMN 	Hospital 
+156.19500 	159.06000  	KJZ886 	RM		DefCo ENG 	County Highway Dept. 	FMN 	Public Works 
+150.99500 	   	WPJQ650 	BM		DelTwp DPW 	Delaware Township DPW 	FMN 	Public Works 
+154.05500 	   	WNBX893 	BM		NobTwp DPW 	Noble Township DPW 	FMN 	Public Works 
+155.10000 	   	KNDQ898 	BM		RichTwp DPW 	Richland Township DPW 	FMN 	Public Works 
+155.71500 	   	KNEZ932 	BM		Def DPW 	Defiance DPW 	FMN 	Public Works 
+155.77500 	   	KNEK969 	BM		Sherwd DPW 	Sherwood DPW 	FMN 	Public Works 
+158.83500 	   	WPUF519 	BM		Hicksvle DPW 	Hicksville DPW 	FMN 	Public Works 
+159.12000 	   	KNEA296 	BM		WashTwp DPW 	Washington Township DPW 	FMN 	Public Works 
+155.28000 	   	WNUE972 	BM		Hickvle ESD 	Hicksville Exempted School District Buses 	FMN 	Schools 
+155.29500 	   	WNQM477 	BM		Central LSD 	Central Local School District Buses 	FMN 	Schools 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide
+ProMedica	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Toledo	

@@ -1,14 +1,13 @@
-154.22000 	KWX986 	RM	CSQ	Clinton FD Disp. 	Countywide Fire Dispatch (Simulcast on TRS) 	FMN 	Fire Dispatch 
-453.75000 	WPEX646 	RM	546 DPL	Tri-County Fire 	Tri-County Fire Mutual Aid Network (Clinton, Eaton, Ingham) 	FMN 	Interop 
-460.05000 	WQPW730 	RM	162.2 PL	Tri-County PD 	Tri-County Police Mutual Aid Network (Clinton , Eaton, Ingham) 	FMN 	Interop 
-460.25000 	WQVD303 	RM		Clinton Co. Jail 	Clinton County Corrections 	DMR 	Corrections 
-159.51000 	WQRZ695 	RM	CC 7TG 8092013SL 1	Clinton Roads 	County Road Commission - Patched to the county TRS 	DMR 	Public Works 
-463.00000 	WPKP371 	RM		MED 1 	ALS-to-Hospital (All MED Channels) 	FMN 	Hospital 
-452.21250 	WQGK335 	RM		SJ SPARROW 	Environmental Services 	DMR 	Hospital 
-463.07500 	WPKP371 	RM	141.3 PL	Med Channel.4 	Med Channel.4 - Ems to Hospital 	FMN 	Hospital 
-155.20500 	WNDM928 	BM		Bath School Bus 	Transportation 	DMR 	Schools 
-159.49500 	WQBN731 	BM		Dean Transit 	Dean Transportation - School Bus Operations 	NXDN 	Transportation 
-451.62500 	WPPC923 	RM	233.6 PL	Ovid Elsie Buses 	School Buses 	FMN 	Schools 
-464.58750 	WQFJ398 	RM	210.7 PL	StJohns Schl Bus 	School Buses 	FMN 	Transportation 
-Clinton County Public Safety	 EDACS Standard	 Clinton County	Consumers Energy	 EDACS Networked Standard	 Various	Ingham County Public Safety	 EDACS Standard
- Lansing	
+154.22000 	150.80500  	KWX986 	RM	CSQ	Clinton FD Disp. 	Countywide Fire Dispatch (Simulcast on TRS) 	FMN 	Fire Dispatch 
+453.75000 	458.75000  	WPEX646 	RM	546 DPL	Tri-County Fire 	Tri-County Fire Mutual Aid Network (Clinton, Eaton, Ingham) 	FMN 	Interop 
+460.05000 	465.05000  	WQPW730 	RM	162.2 PL	Tri-County PD 	Tri-County Police Mutual Aid Network (Clinton , Eaton, Ingham) 	FMN 	Interop 
+460.25000 	465.25000  	WQVD303 	RM		Clinton Co. Jail 	Clinton County Corrections 	DMR 	Corrections 
+159.51000 	154.48250  	WQRZ695 	RM	CC 7TG 8092013SL 1	Clinton Roads 	County Road Commission - Patched to the county TRS 	DMR 	Public Works 
+463.00000 	468.00000  	WPKP371 	RM		MED 1 	ALS-to-Hospital (All MED Channels) 	FMN 	Hospital 
+452.21250 	457.21250  	WQGK335 	RM		SJ SPARROW 	Environmental Services 	DMR 	Hospital 
+463.07500 	468.07500  	WPKP371 	RM	141.3 PL	Med Channel.4 	Med Channel.4 - Ems to Hospital 	FMN 	Hospital 
+155.20500 	   	WNDM928 	BM		Bath School Bus 	Transportation 	DMR 	Schools 
+159.49500 	   	WQBN731 	BM		Dean Transit 	Dean Transportation - School Bus Operations 	NXDN 	Transportation 
+451.62500 	456.62500  	WPPC923 	RM	233.6 PL	Ovid Elsie Buses 	School Buses 	FMN 	Schools 
+464.58750 	469.58750  	WQFJ398 	RM	210.7 PL	StJohns Schl Bus 	School Buses 	FMN 	Transportation 
+Clinton County Public Safety	 EDACS Standard	 Clinton County	Consumers Energy	 EDACS Networked Standard	 Various	Ingham County Public Safety	 EDACS Standard	 Lansing

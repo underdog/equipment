@@ -1,34 +1,33 @@
-155.31000 	WNLQ440 	BM	156.7 PL	Clark SO Dsp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-460.32500 	WNVD656 	M	311 DPL	Clark Jail1 	Jail 	FMN 	Law Tac 
-465.43750 	WNVD656 	M		Clark Jail2 	Clark Co. Jail - Simplex - Ch. 2 	FMN 	Law Tac 
-154.43000 	KXX381 	B	110.9 PL	Clark FD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-156.18750 	WPXM793 	RM	186.2 PL	Clark EMS 	EMS 	FMN 	EMS-Tac 
-154.14500 	KXX381 	M	110.9 PL	Clrk FG-1 	Fireground 1 	FMN 	Fire-Tac 
-154.20500 	KXX381 	M	110.9 PL	Clrk FG-2 	Fireground 2 	FMN 	Fire-Tac 
-154.28000 	KXX381 	M	110.9 PL	Clrk FG-3 	Fireground 3 	FMN 	Fire-Tac 
-153.83000 	KXX381 	M	110.9 PL	EMA Tornado 	Disaster Response Ops 	FMN 	Emergency Ops 
-155.08500 	KTO566 	RM	103.5 PL	Monroe FD 	Monroe Township Fire Department 	FMN 	Fire-Tac 
-155.38500 	WQAN793 	RM	156.7 PL	New Wash FD 	New Washington Fireground/Ops 	FMN 	Fire-Tac 
-151.08500 	KNBU296 	RM		ClarkCoHghwy 	County Highway 	DMR 	Public Works 
-158.76000 	KSD623 	BM	100.0 PL	 Chrlstwn PD 	Charlestown PD Talk (Previously DISP - moved to SAFE-T) 	FMN 	Law Dispatch 
-154.05500 	KJF713 	BM		Chrlstwn GVT 	Charlestown Public Works 	FMN 	Public Works 
-154.34000 	WPJT419 	BM	110.9 PL	Chrlstwn VFD 	Charlestown FD Operations 	FMN 	Fire-Tac 
-460.27500 	KNBI405 	RM	179.9 PL	Clrksvl Ch-1 	Safety Patrol Units and Backup for SAFE-T System 	FMN 	Law Dispatch 
-460.27500 	KNBI405 	BM	179.9 PL	Clrksvl Ch-2 	UHF Car-to-Car 2 	FMN 	Law Talk 
-453.75000 	KNBI405 	BM	179.9 PL	Clrksvl Ch-3 	UHF Car-to-Car 3 	FMN 	Law Talk 
-453.15000 	KNBI405 	BM	179.9 PL	Clrksvl Ch-4 	UHF Car-to-Car 4 	FMN 	Law Talk 
-154.35500 	KXX381 	BM	110.9 PL	Clrksvl PAGING 	Clarksville FD Paging Frequency 	FMN 	Fire-Tac 
-158.78250 	WQFL433 	RM	173.8 PL	Jeffvl FrDsp 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.89750 	WQFL433 	BM	173.8 PL	JeffvlFD 	Fire Tactical 	FMN 	Fire-Tac 
-857.98750 	WQJS853 	RM	110 NAC	JeffvlFD 	Fire Tactical 	P25 	Fire-Tac 
-854.61250 	WNQZ343 	RM		Jeffvl PD1 	Police 	FMN 	Law Dispatch 
-858.03750 	WNQZ343 	RM		Jeffvl PD2 	Police 	FMN 	Law Tac 
-154.75500 	WPHH546 	BM	103.5 PL	 Sllrbrg PD  	Police Dispatch 	FMN 	Law Dispatch 
-155.67000 	KIZ566 	BM		 Sllrbrg PD3 	Police CH 3 	FMN 	Law Tac 
-155.23500 	WNZE495 	RM	110.9 PL	 Sllrbrg FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.09250 	WPXM793 	M		 Sllrbrg EMS 	EMS 	FMN 	EMS-Tac 
-452.30000 	KNEJ305 	RM	CC 1TG 1SL 1	AMR EMS INDIANA 	American Medical Response EMS Indiana 	DMR 	EMS Dispatch 
-461.95000 	WQR539 	RM	159.8 PL	 Clrk School 	Buses/School Ops 	FMN 	Schools 
-461.95000 	WQR539 	RM	162.2 PL	Clrk Schools 	Buses/School Ops 	FMN 	Schools 
-Business Radio	 LTR Standard	 New Albany	Davis Electronics (Louisville Metro Area LTR)	 LTR Standard	 Louisville Metro Area	Indiana Project Hoosier SAFE-T	 Project 25 Phase I
- Statewide	New Albany Public Safety	 Project 25 Phase II	 New Albany	
+155.31000 	158.88000  	WNLQ440 	BM	156.7 PL	Clark SO Dsp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+460.32500 	465.32500  	WNVD656 	M	311 DPL	Clark Jail1 	Jail 	FMN 	Law Tac 
+465.43750 	   	WNVD656 	M		Clark Jail2 	Clark Co. Jail - Simplex - Ch. 2 	FMN 	Law Tac 
+154.43000 	159.36000  	KXX381 	B	110.9 PL	Clark FD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+156.18750 	154.09250  	WPXM793 	RM	186.2 PL	Clark EMS 	EMS 	FMN 	EMS-Tac 
+154.14500 	   	KXX381 	M	110.9 PL	Clrk FG-1 	Fireground 1 	FMN 	Fire-Tac 
+154.20500 	   	KXX381 	M	110.9 PL	Clrk FG-2 	Fireground 2 	FMN 	Fire-Tac 
+154.28000 	   	KXX381 	M	110.9 PL	Clrk FG-3 	Fireground 3 	FMN 	Fire-Tac 
+153.83000 	   	KXX381 	M	110.9 PL	EMA Tornado 	Disaster Response Ops 	FMN 	Emergency Ops 
+155.08500 	   	KTO566 	RM	103.5 PL	Monroe FD 	Monroe Township Fire Department 	FMN 	Fire-Tac 
+155.38500 	151.10750  	WQAN793 	RM	156.7 PL	New Wash FD 	New Washington Fireground/Ops 	FMN 	Fire-Tac 
+151.08500 	159.00000  	KNBU296 	RM		ClarkCoHghwy 	County Highway 	DMR 	Public Works 
+158.76000 	153.80000  	KSD623 	BM	100.0 PL	 Chrlstwn PD 	Charlestown PD Talk (Previously DISP - moved to SAFE-T) 	FMN 	Law Dispatch 
+154.05500 	   	KJF713 	BM		Chrlstwn GVT 	Charlestown Public Works 	FMN 	Public Works 
+154.34000 	151.13000  	WPJT419 	BM	110.9 PL	Chrlstwn VFD 	Charlestown FD Operations 	FMN 	Fire-Tac 
+460.27500 	465.27500  	KNBI405 	RM	179.9 PL	Clrksvl Ch-1 	Safety Patrol Units and Backup for SAFE-T System 	FMN 	Law Dispatch 
+460.27500 	   	KNBI405 	BM	179.9 PL	Clrksvl Ch-2 	UHF Car-to-Car 2 	FMN 	Law Talk 
+453.75000 	   	KNBI405 	BM	179.9 PL	Clrksvl Ch-3 	UHF Car-to-Car 3 	FMN 	Law Talk 
+453.15000 	   	KNBI405 	BM	179.9 PL	Clrksvl Ch-4 	UHF Car-to-Car 4 	FMN 	Law Talk 
+154.35500 	155.98500  	KXX381 	BM	110.9 PL	Clrksvl PAGING 	Clarksville FD Paging Frequency 	FMN 	Fire-Tac 
+158.78250 	151.04750  	WQFL433 	RM	173.8 PL	Jeffvl FrDsp 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.89750 	   	WQFL433 	BM	173.8 PL	JeffvlFD 	Fire Tactical 	FMN 	Fire-Tac 
+857.98750 	812.98750  	WQJS853 	RM	110 NAC	JeffvlFD 	Fire Tactical 	P25 	Fire-Tac 
+854.61250 	   	WNQZ343 	RM		Jeffvl PD1 	Police 	FMN 	Law Dispatch 
+858.03750 	   	WNQZ343 	RM		Jeffvl PD2 	Police 	FMN 	Law Tac 
+154.75500 	   	WPHH546 	BM	103.5 PL	 Sllrbrg PD  	Police Dispatch 	FMN 	Law Dispatch 
+155.67000 	   	KIZ566 	BM		 Sllrbrg PD3 	Police CH 3 	FMN 	Law Tac 
+155.23500 	159.88500  	WNZE495 	RM	110.9 PL	 Sllrbrg FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.09250 	   	WPXM793 	M		 Sllrbrg EMS 	EMS 	FMN 	EMS-Tac 
+452.30000 	457.30000  	KNEJ305 	RM	CC 1TG 1SL 1	AMR EMS INDIANA 	American Medical Response EMS Indiana 	DMR 	EMS Dispatch 
+461.95000 	466.95000  	WQR539 	RM	159.8 PL	 Clrk School 	Buses/School Ops 	FMN 	Schools 
+461.95000 	466.95000  	WQR539 	RM	162.2 PL	Clrk Schools 	Buses/School Ops 	FMN 	Schools 
+Business Radio	 LTR Standard	 New Albany	Davis Electronics (Louisville Metro Area LTR)	 LTR Standard	 Louisville Metro Area	New Albany Public Safety	 Project 25 Phase II	 New Albany

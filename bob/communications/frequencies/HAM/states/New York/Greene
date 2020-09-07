@@ -1,66 +1,66 @@
-155.91000 	WNMH370 	RM	263 DPL	GC 911 Polling 	911 Polling 	FMN 	Law Dispatch 
-159.12750 	WRAF917 	BM	243 DPL	CG Law Response 	Law Response 	FMN 	Law Dispatch 
-155.06250 	KEG324 	M	243 DPL	GC Law Car-Car 	Law Car to Car 	FMN 	Law Talk 
-453.81250 	WQGH734 	RM	331 DPL	GC Repeater 	Chair Mountain Repeater 	FMN 	Law Talk 
-465.52500 	WQGH734 	M	331 DPL	GC Mobile Extndr 	Mobile Extender 	FMN 	Law Talk 
-453.28750 	WQGH734 	M	331 DPL	GC Incident Cmd 	Incident Command Complex 	FMN 	Law Talk 
-155.89500 	KEG324 	BM	331 DPL	GC FD/EMS Alerts 	Fire/EMS Alerting 	FMN 	Fire Dispatch 
-154.98750 	KEG324 	BM	152 DPL	GC Fire Response 	Fire Response 	FMN 	Fire Dispatch 
-153.75500 	KEG324 	M	107.2 PL	GC Fireground 1 	Fireground 1 	FMN 	Fire-Tac 
-154.77750 	KEG324 	M	107.2 PL	GC Fireground 2 	Fireground 2 	FMN 	Fire-Tac 
-156.15750 	KEG324 	M	107.2 PL	GC Fireground 3 	Fireground 3 	FMN 	Fire-Tac 
-151.46750 	KEG324 	M	107.2 PL	GC Fireground 4 	Fireground 4 	FMN 	Fire-Tac 
-151.48250 	KEG324 	RM	331 DPL	GC EMS Response 	EMS Response 	FMN 	EMS Dispatch 
-46.14000 	KEG324 	M		GC Fire 46.14 	Fire 46.14 	FM 	Fire-Talk 
-46.26000 	KEG324 	M		GC Fire 46.26 	Fire 46.26 	FM 	Fire-Talk 
-46.30000 	KEG324 	M		GC Fire 46.30 	Fire 46.30 	FM 	Fire-Talk 
-154.79250 	KEG324 	BM	172 DPL	GC Response 2 	Response 2 	FMN 	Multi-Dispatch 
-45.32000 	KEG324 	BM		GC Civil Defense 	Civil Defense 	FM 	Emergency Ops 
-45.40000 	KEG324 	BM		GC Civil Defense 	Civil Defense 	FM 	Emergency Ops 
-151.02500 	KVL96 	RM	118.8 PL	GC Hwy/SolidWst 	Highway Department / Solid Waste 	FMN 	Public Works 
-460.26250 	WQZD586 	RM	506 DPL	T/Athens DPW 	DPW 	FMN 	Public Works 
-453.92500 	WNPO939 	RM	031 DPL	V/Athens DPW 	DPW 	FMN 	Public Works 
-453.10000 	WPII566 	M	025 DPL	T/Catskill FG 	Town Fireground 	FMN 	Fire-Tac 
-46.40000 	WPII566 	BM		T/Catskill  FD 	Town Fire 	FM 	Fire-Tac 
-46.00000 	WPII567 	BM	146.2 PL	T/Catskill EMS 	Catskill-Athens Rescue Squad 	FM 	EMS Dispatch 
-159.10500 	KFA427 	BM		T/Catskill Hwy 	Highway 	FMN 	Public Works 
-155.77500 	WPDE377 	RM	364 DPL	V/Catskill PD 	Village Police 	FMN 	Law Dispatch 
-159.01500 	KMA239 	BM		V/Catskill DPW 	Village DPW 	FMN 	Public Works 
-155.16000 	WQIC736 	BM		T/Coxsackie EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
-45.68000 	WPUQ285 	BM		T/Coxsackie Hwy 	Highway Department 	FM 	Public Works 
-155.01000 	KYI863 	BM		V/Coxsackie PD 	Village Police 	FMN 	Law Dispatch 
-153.02000 	WQCG862 	RM		V/Coxsackie EMS 	Rescue Squad 	FMN 	Fire Dispatch 
-159.18000 	WNSI270 	BM		V/Coxsackie Hwy 	Village Highway Department 	FMN 	Public Works 
-151.62500 	 	M	136.5 PL	Durham PD C-to-C 	Police Car to Car 	FMN 	Law Talk 
-156.11250 	WQXJ774 	BM		Durham Hwy 	Highway Department 	FMN 	Public Works 
-45.80000 	KNJB404 	BM		Durham Hwy 	Highway Department 	FM 	Public Works 
-155.26500 	WQVJ203 	BM	192.8 PL	EDFD Firegnd 	Fireground 	FMN 	Fire-Tac 
-154.86000 	KVA264 	BM	110.9 PL	Hunter PD 	Hunter Town Police 	FMN 	Law Tac 
-156.22500 	KNIK332 	BM	110.9 PL	Hunter DPW 	Hunter Town DPW 	FMN 	Public Works 
-151.13000 	WPEK842 	BM	110.9 PL	Jewett DPW 	Jewett Town Highway 	FMN 	Public Works 
-46.44000 	KNAG239 	BM		Lxngton FG 	Fireground 	FM 	Fire-Tac 
-154.13750 	WNRO676 	BM	97.4 PL	Lxngton Hwy 	Highway Department 	FMN 	Public Works 
-151.04000 	WPOY781 	RM	210.7 PL	New Balt FD 	New Baltimore and Medway Grapeville Fire 	FMN 	Fire-Tac 
-45.96000 	 	BM	123.0 PL	TnnrsvilleRS 	Town Rescue Squad 	FM 	Fire-Tac 
-154.16000 	 	BM	205 DPL	TnnrsvilleRS 	Town Rescue Squad 	FMN 	EMS-Tac 
-156.21000 	KZC413 	BM	141.3 PL	Windham PD 	Police 	FMN 	Law Dispatch 
-45.68000 	KTR698 	BM	123.0 PL	Windham DPW 	Windham Town Highway 	FM 	Public Works 
-46.20000 	WPNV877 	M		Ashland FD 	Ashland Fireground 	FM 	Fire-Tac 
-460.23750 	WQFK472 	M	025 DPL	Athens FD 	Athens Fire 	FMN 	Fire-Tac 
-152.42750 	WPTP804 	RM	110.9 PL	Cairo FD Ops 	Cairo Fire Operations 	FMN 	Fire-Tac 
-154.60000 	 	M		Cairo FP 	Cairo Fire Police 	FMN 	Fire-Tac 
-154.57000 	 	M		Cairo FG 	Cairo Fireground 	FMN 	Fire-Tac 
-151.49750 	WQWF697 	BM		Earlton FG 	Earlton Fireground 	FMN 	Fire-Tac 
-151.64750 	WQYC475 	BM		Freehold FG 	Freehold Fireground 	FMN 	Fire-Tac 
-154.19750 	WPIN409 	RM	88.5 PL	Kiskatom FD 	Kiskatom Fire 	FMN 	Fire-Tac 
-458.32500 	WQYH594 	M	174 DPL	Leeds FG 	Leeds Fireground 	FMN 	Fire-Tac 
-458.35000 	WQYH594 	M	712 DPL	Leeds FD Ops 	Leeds Operations 	FMN 	Fire-Tac 
-151.09250 	WQUK656 	RM	311 DPL	Palenville FD 	Palenville Fire 	FMN 	Fire-Tac 
-465.23750 	WQFK472 	M	025 DPL	W Athens FD 	West Athens Fire 	FMN 	Fire-Tac 
-451.65000 	WPMB780 	RM	131.8 PL	GCSD Buses 	Greenville CSD Buses 	FMN 	Schools 
-461.20000 	WPWF566 	RM		CACSD Buses 	Coxsackie-Athens CSD Buses 	DMR 	Schools 
-463.63750 	WPPA706 	RM	143 DPL	CDCSD Buses 	Cairo Durham CSD Buses 	FMN 	Schools 
-453.66250 	 	BM	125 DPL	NYC DEP 	Tannersville Wastewater Treatment Facility 	FMN 	Public Works 
-458.76250 	 	BM	125 DPL	NYC DEP 	Tannersville Wastewater Treatment Facility 	FMN 	Public Works 
-BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	New York State Bridge Authority	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Hudson Valley	New York State Electric and Gas (NYSEG)	 Project 25 Phase I
- Statewide	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	
+155.91000 	159.25500  	WNMH370 	RM	263 DPL	GC 911 Polling 	911 Polling 	FMN 	Law Dispatch 
+159.12750 	   	WRAF917 	BM	243 DPL	CG Law Response 	Law Response 	FMN 	Law Dispatch 
+155.06250 	   	KEG324 	M	243 DPL	GC Law Car-Car 	Law Car to Car 	FMN 	Law Talk 
+453.81250 	458.81250  	WQGH734 	RM	331 DPL	GC Repeater 	Chair Mountain Repeater 	FMN 	Law Talk 
+465.52500 	   	WQGH734 	M	331 DPL	GC Mobile Extndr 	Mobile Extender 	FMN 	Law Talk 
+453.28750 	   	WQGH734 	M	331 DPL	GC Incident Cmd 	Incident Command Complex 	FMN 	Law Talk 
+155.89500 	   	KEG324 	BM	331 DPL	GC FD/EMS Alerts 	Fire/EMS Alerting 	FMN 	Fire Dispatch 
+154.98750 	   	KEG324 	BM	152 DPL	GC Fire Response 	Fire Response 	FMN 	Fire Dispatch 
+153.75500 	   	KEG324 	M	107.2 PL	GC Fireground 1 	Fireground 1 	FMN 	Fire-Tac 
+154.77750 	   	KEG324 	M	107.2 PL	GC Fireground 2 	Fireground 2 	FMN 	Fire-Tac 
+156.15750 	   	KEG324 	M	107.2 PL	GC Fireground 3 	Fireground 3 	FMN 	Fire-Tac 
+151.46750 	   	KEG324 	M	107.2 PL	GC Fireground 4 	Fireground 4 	FMN 	Fire-Tac 
+151.48250 	   	KEG324 	RM	331 DPL	GC EMS Response 	EMS Response 	FMN 	EMS Dispatch 
+46.14000 	   	KEG324 	M		GC Fire 46.14 	Fire 46.14 	FM 	Fire-Talk 
+46.26000 	   	KEG324 	M		GC Fire 46.26 	Fire 46.26 	FM 	Fire-Talk 
+46.30000 	   	KEG324 	M		GC Fire 46.30 	Fire 46.30 	FM 	Fire-Talk 
+154.79250 	   	KEG324 	BM	172 DPL	GC Response 2 	Response 2 	FMN 	Multi-Dispatch 
+45.32000 	   	KEG324 	BM		GC Civil Defense 	Civil Defense 	FM 	Emergency Ops 
+45.40000 	   	KEG324 	BM		GC Civil Defense 	Civil Defense 	FM 	Emergency Ops 
+151.02500 	158.98500  	KVL96 	RM	118.8 PL	GC Hwy/SolidWst 	Highway Department / Solid Waste 	FMN 	Public Works 
+460.26250 	465.26250  	WQZD586 	RM	506 DPL	T/Athens DPW 	DPW 	FMN 	Public Works 
+453.92500 	458.92500  	WNPO939 	RM	031 DPL	V/Athens DPW 	DPW 	FMN 	Public Works 
+453.10000 	   	WPII566 	M	025 DPL	T/Catskill FG 	Town Fireground 	FMN 	Fire-Tac 
+46.40000 	   	WPII566 	BM		T/Catskill  FD 	Town Fire 	FM 	Fire-Tac 
+46.00000 	   	WPII567 	BM	146.2 PL	T/Catskill EMS 	Catskill-Athens Rescue Squad 	FM 	EMS Dispatch 
+159.10500 	   	KFA427 	BM		T/Catskill Hwy 	Highway 	FMN 	Public Works 
+155.77500 	151.38500  	WPDE377 	RM	364 DPL	V/Catskill PD 	Village Police 	FMN 	Law Dispatch 
+159.01500 	   	KMA239 	BM		V/Catskill DPW 	Village DPW 	FMN 	Public Works 
+155.16000 	   	WQIC736 	BM		T/Coxsackie EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+45.68000 	   	WPUQ285 	BM		T/Coxsackie Hwy 	Highway Department 	FM 	Public Works 
+155.01000 	   	KYI863 	BM		V/Coxsackie PD 	Village Police 	FMN 	Law Dispatch 
+153.02000 	159.99000  	WQCG862 	RM		V/Coxsackie EMS 	Rescue Squad 	FMN 	Fire Dispatch 
+159.18000 	   	WNSI270 	BM		V/Coxsackie Hwy 	Village Highway Department 	FMN 	Public Works 
+151.62500 	   	 	M	136.5 PL	Durham PD C-to-C 	Police Car to Car 	FMN 	Law Talk 
+156.11250 	   	WQXJ774 	BM		Durham Hwy 	Highway Department 	FMN 	Public Works 
+45.80000 	   	KNJB404 	BM		Durham Hwy 	Highway Department 	FM 	Public Works 
+155.26500 	   	WQVJ203 	BM	192.8 PL	EDFD Firegnd 	Fireground 	FMN 	Fire-Tac 
+154.86000 	   	KVA264 	BM	110.9 PL	Hunter PD 	Hunter Town Police 	FMN 	Law Tac 
+156.22500 	   	KNIK332 	BM	110.9 PL	Hunter DPW 	Hunter Town DPW 	FMN 	Public Works 
+151.13000 	   	WPEK842 	BM	110.9 PL	Jewett DPW 	Jewett Town Highway 	FMN 	Public Works 
+46.44000 	   	KNAG239 	BM		Lxngton FG 	Fireground 	FM 	Fire-Tac 
+154.13750 	   	WNRO676 	BM	97.4 PL	Lxngton Hwy 	Highway Department 	FMN 	Public Works 
+151.04000 	159.00000  	WPOY781 	RM	210.7 PL	New Balt FD 	New Baltimore and Medway Grapeville Fire 	FMN 	Fire-Tac 
+45.96000 	   	 	BM	123.0 PL	TnnrsvilleRS 	Town Rescue Squad 	FM 	Fire-Tac 
+154.16000 	   	 	BM	205 DPL	TnnrsvilleRS 	Town Rescue Squad 	FMN 	EMS-Tac 
+156.21000 	   	KZC413 	BM	141.3 PL	Windham PD 	Police 	FMN 	Law Dispatch 
+45.68000 	   	KTR698 	BM	123.0 PL	Windham DPW 	Windham Town Highway 	FM 	Public Works 
+46.20000 	   	WPNV877 	M		Ashland FD 	Ashland Fireground 	FM 	Fire-Tac 
+460.23750 	   	WQFK472 	M	025 DPL	Athens FD 	Athens Fire 	FMN 	Fire-Tac 
+152.42750 	157.68750  	WPTP804 	RM	110.9 PL	Cairo FD Ops 	Cairo Fire Operations 	FMN 	Fire-Tac 
+154.60000 	   	 	M		Cairo FP 	Cairo Fire Police 	FMN 	Fire-Tac 
+154.57000 	   	 	M		Cairo FG 	Cairo Fireground 	FMN 	Fire-Tac 
+151.49750 	   	WQWF697 	BM		Earlton FG 	Earlton Fireground 	FMN 	Fire-Tac 
+151.64750 	   	WQYC475 	BM		Freehold FG 	Freehold Fireground 	FMN 	Fire-Tac 
+154.19750 	159.05250  	WPIN409 	RM	88.5 PL	Kiskatom FD 	Kiskatom Fire 	FMN 	Fire-Tac 
+458.32500 	   	WQYH594 	M	174 DPL	Leeds FG 	Leeds Fireground 	FMN 	Fire-Tac 
+458.35000 	   	WQYH594 	M	712 DPL	Leeds FD Ops 	Leeds Operations 	FMN 	Fire-Tac 
+151.09250 	155.70000  	WQUK656 	RM	311 DPL	Palenville FD 	Palenville Fire 	FMN 	Fire-Tac 
+465.23750 	   	WQFK472 	M	025 DPL	W Athens FD 	West Athens Fire 	FMN 	Fire-Tac 
+451.65000 	456.65000  	WPMB780 	RM	131.8 PL	GCSD Buses 	Greenville CSD Buses 	FMN 	Schools 
+461.20000 	466.20000  	WPWF566 	RM		CACSD Buses 	Coxsackie-Athens CSD Buses 	DMR 	Schools 
+463.63750 	468.63750  	WPPA706 	RM	143 DPL	CDCSD Buses 	Cairo Durham CSD Buses 	FMN 	Schools 
+453.66250 	   	 	BM	125 DPL	NYC DEP 	Tannersville Wastewater Treatment Facility 	FMN 	Public Works 
+458.76250 	   	 	BM	125 DPL	NYC DEP 	Tannersville Wastewater Treatment Facility 	FMN 	Public Works 
+BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	New York State Bridge Authority	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Hudson Valley	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide
+NYCOMCO (MOTOTRBO)	 DMR Motorola Connect Plus (TRBO)	 Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	

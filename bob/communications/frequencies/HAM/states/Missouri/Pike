@@ -1,36 +1,36 @@
-155.55750 	KAI786 	BM	141.3 PL	Pike Sheriff 	Sheriff: Dispatch  	FMN 	Law Dispatch 
-155.70000 	KAI786 	BM	141.3 PL	PikeShrf Old 	Sheriff: Dispatch (Old) 	FMN 	Law Dispatch 
-460.31250 	KAI786 	M		Pike Shrf MX 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
-460.31250 	KAI786 	M	127.3 PL	PikeShrf MX1 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
-156.15000 	KAI786 	M		Pike Shrfc2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
-151.01000 	KIB683 	RM	141.3 PL	Pike LawDisp 	Sheriff: Police Dispatch (Louisiana, Bowling Green, Curryville) 	FMN 	Law Dispatch 
-154.34000 	 	BM	141.3 PL	Pike CW Fire 	Fire: Countywide Dispatch (Louisiana, Bowling Green, Curryville, Buffalo, Ashland, Eolia) 	FMN 	Fire Dispatch 
-453.50000 	WNQU223 	RM		PWSD#1 	Public Water Supply District #1 	FMN 	Public Works 
-154.47875 	WPLZ877 	F		PWSD12 WDD 	Pike County Public Water Supply District #1: Data (CSQ) 	FMN 	Data 
-153.84500 	WQEE634 	RM	141.3 PL	Pike EMS Frnkfrd 	EMS (Frankford) (simulcast with 158.82) 	FMN 	EMS Dispatch 
-158.82000 	WQEE634 	RM	141.3 PL	Pike EMS Clrksvl 	EMS (Clarksville) (simulcast with 153.845) 	FMN 	EMS Dispatch 
-460.23750 	WQEE634 	M		Pike EMS RF 2 	Remote Link (Frankford) 	FMN 	EMS Dispatch 
-158.82000 	WQEE634 	RM	173.8 PL	Pike EMS 2A 	Patient Reports (Inbound) (Clarksville) 	FMN 	Hospital 
-453.51250 	WQEE634 	M	CSQ	Pike EMS RF 1 	Receive Link - Clarksville (repeats 155.115 173.8) 	FMN 	EMS Dispatch 
-155.34000 	KUN452 	BM		HEAR340 	Patient Reports (156.7?) 	FMN 	Hospital 
-155.76000 	WPRX541 	BM	141.3 PL	BGrn Police 	Police: Dispatch 	FMN 	Law Dispatch 
-154.98000 	WPAM676 	BM	100.0 PL	BGrn Water 	Water/Waste Water Operations 	FMN 	Public Works 
-451.03750 	WPLH807 	M		BGrn WDD 1 	Water Distribution Data (CSQ) 	Telm 	Data 
-458.73750 	WNYX876 	M		BGrn WDD 2 	Water Department Data 	Telm 	Data 
-154.05500 	WNZP370 	RM	114.8 PL	Clrk Police 	Police: Dispatch (141.3 in) (Repeats Sheriff) 	FMN 	Law Dispatch 
-460.45750 	WNZP370 	M		Clrk Police RF 	Police: Remote Link for 154.055 	FMN 	Law Dispatch 
-453.83750 	KNCB849 	F		Clksv Fire RF1 	Fire: Remote Link (Bowling Green) 	FMN 	Fire Dispatch 
-458.83750 	KNCB849 	F	162.2 PL	Clksv Fire RF2 	Fire: Remote Link - Mobiles (Clarksville) 	FMN 	Fire Dispatch 
-173.33750 	WPXY092 	F		Ckrsvl WDD 	Water Distribution Data 	Telm 	Data 
-154.34000 	WPIC665 	RM	141.3 PL	Eolia Fire 	Fire: Countywide Dispatch (Local; 173.8 in) 	FMN 	Fire Dispatch 
-154.34000 	WPIC665 	RM	173.8 PL	Eolia Fire* 	Fire: Countywide Dispatch (Local; 173.8 in) 	FMN 	Fire Dispatch 
-153.93500 	WPLR642 	BM		Eol Vil Ops 	Village Ops 	FMN 	Multi-Dispatch 
-154.34000 	WQPD235 	RM	141.3 PL	Frankford Fire 	Fire: Dispatch (Local at Frankford) 	FMN 	Fire Dispatch 
-155.01000 	WQGH487 	BM	141.3 PL	Lou Police 	Police: Dispatch (141.3 also Shelby Co) 	FMN 	Law Dispatch 
-155.52750 	WQOG460 	BM	141.3 PL	Louis Police 	Police: Dispatch (not in use?) 	FMN 	Law Dispatch 
-154.01000 	KWV482 	M	173.8 PL	Louisiana FG 	Fireground 	FMN 	Fire-Tac 
-155.84250 	KWV482 	RM	173.8 PL	Louis FG R 	Fireground (New) 	FMN 	Fire-Tac 
-155.16000 	WQBZ925 	BM		Louisiana SchBus 	Buses 	FMN 	Schools 
-461.02500 	WPJJ730 	RM	141.3 PL	PikeR1 Schools 	Operations 	FM 	Schools 
-461.12500 	WPHW981 	RM	141.3 PL	PikeR3 Schools 	Buses  	FMN 	Schools 
+155.55750 	   	KAI786 	BM	141.3 PL	Pike Sheriff 	Sheriff: Dispatch  	FMN 	Law Dispatch 
+155.70000 	   	KAI786 	BM	141.3 PL	PikeShrf Old 	Sheriff: Dispatch (Old) 	FMN 	Law Dispatch 
+460.31250 	   	KAI786 	M		Pike Shrf MX 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
+460.31250 	   	KAI786 	M	127.3 PL	PikeShrf MX1 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
+156.15000 	   	KAI786 	M		Pike Shrfc2c 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+151.01000 	156.07500  	KIB683 	RM	141.3 PL	Pike LawDisp 	Sheriff: Police Dispatch (Louisiana, Bowling Green, Curryville) 	FMN 	Law Dispatch 
+154.34000 	   	 	BM	141.3 PL	Pike CW Fire 	Fire: Countywide Dispatch (Louisiana, Bowling Green, Curryville, Buffalo, Ashland, Eolia) 	FMN 	Fire Dispatch 
+453.50000 	458.50000  	WNQU223 	RM		PWSD#1 	Public Water Supply District #1 	FMN 	Public Works 
+154.47875 	   	WPLZ877 	F		PWSD12 WDD 	Pike County Public Water Supply District #1: Data (CSQ) 	FMN 	Data 
+153.84500 	155.93250  	WQEE634 	RM	141.3 PL	Pike EMS Frnkfrd 	EMS (Frankford) (simulcast with 158.82) 	FMN 	EMS Dispatch 
+158.82000 	155.93250  	WQEE634 	RM	141.3 PL	Pike EMS Clrksvl 	EMS (Clarksville) (simulcast with 153.845) 	FMN 	EMS Dispatch 
+460.23750 	   	WQEE634 	M		Pike EMS RF 2 	Remote Link (Frankford) 	FMN 	EMS Dispatch 
+158.82000 	155.93250  	WQEE634 	RM	173.8 PL	Pike EMS 2A 	Patient Reports (Inbound) (Clarksville) 	FMN 	Hospital 
+453.51250 	   	WQEE634 	M	CSQ	Pike EMS RF 1 	Receive Link - Clarksville (repeats 155.115 173.8) 	FMN 	EMS Dispatch 
+155.34000 	   	KUN452 	BM		HEAR340 	Patient Reports (156.7?) 	FMN 	Hospital 
+155.76000 	   	WPRX541 	BM	141.3 PL	BGrn Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.98000 	   	WPAM676 	BM	100.0 PL	BGrn Water 	Water/Waste Water Operations 	FMN 	Public Works 
+451.03750 	   	WPLH807 	M		BGrn WDD 1 	Water Distribution Data (CSQ) 	Telm 	Data 
+458.73750 	   	WNYX876 	M		BGrn WDD 2 	Water Department Data 	Telm 	Data 
+154.05500 	155.55750  	WNZP370 	RM	114.8 PL	Clrk Police 	Police: Dispatch (141.3 in) (Repeats Sheriff) 	FMN 	Law Dispatch 
+460.45750 	   	WNZP370 	M		Clrk Police RF 	Police: Remote Link for 154.055 	FMN 	Law Dispatch 
+453.83750 	   	KNCB849 	F		Clksv Fire RF1 	Fire: Remote Link (Bowling Green) 	FMN 	Fire Dispatch 
+458.83750 	   	KNCB849 	F	162.2 PL	Clksv Fire RF2 	Fire: Remote Link - Mobiles (Clarksville) 	FMN 	Fire Dispatch 
+173.33750 	   	WPXY092 	F		Ckrsvl WDD 	Water Distribution Data 	Telm 	Data 
+154.34000 	150.77500  	WPIC665 	RM	141.3 PL	Eolia Fire 	Fire: Countywide Dispatch (Local; 173.8 in) 	FMN 	Fire Dispatch 
+154.34000 	150.77500  	WPIC665 	RM	173.8 PL	Eolia Fire* 	Fire: Countywide Dispatch (Local; 173.8 in) 	FMN 	Fire Dispatch 
+153.93500 	   	WPLR642 	BM		Eol Vil Ops 	Village Ops 	FMN 	Multi-Dispatch 
+154.34000 	155.19000  	WQPD235 	RM	141.3 PL	Frankford Fire 	Fire: Dispatch (Local at Frankford) 	FMN 	Fire Dispatch 
+155.01000 	   	WQGH487 	BM	141.3 PL	Lou Police 	Police: Dispatch (141.3 also Shelby Co) 	FMN 	Law Dispatch 
+155.52750 	   	WQOG460 	BM	141.3 PL	Louis Police 	Police: Dispatch (not in use?) 	FMN 	Law Dispatch 
+154.01000 	   	KWV482 	M	173.8 PL	Louisiana FG 	Fireground 	FMN 	Fire-Tac 
+155.84250 	154.01000  	KWV482 	RM	173.8 PL	Louis FG R 	Fireground (New) 	FMN 	Fire-Tac 
+155.16000 	   	WQBZ925 	BM		Louisiana SchBus 	Buses 	FMN 	Schools 
+461.02500 	466.02500  	WPJJ730 	RM	141.3 PL	PikeR1 Schools 	Operations 	FM 	Schools 
+461.12500 	466.12500  	WPHW981 	RM	141.3 PL	PikeR3 Schools 	Buses  	FMN 	Schools 
 AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	

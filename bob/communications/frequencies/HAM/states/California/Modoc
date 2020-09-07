@@ -1,13 +1,12 @@
-153.92000 	WQHU542 	RM		Modoc Co SO1 	Dispatch 	FM 	Law Dispatch 
-159.09000 	WQHU542 	RM		Modoc Co SO2 	Channel 2 	FMN 	Law Tac 
-155.64000 	WQHU542 	BM		Modoc Co SO3 	Channel 3 	FMN 	Law Tac 
-153.92000 	KNHE603 	RM	CSQ	Modoc Co FD DSP 	Dispatch 	FMN 	Fire Dispatch 
-153.86000 	 	RM	CSQ	Modoc Co FD GRN 	Green Tac 	FMN 	Fire-Tac 
-155.14500 	WQHT698 	M	CSQ	Modoc Co FD GLD 	Gold Tac 	FMN 	Fire-Tac 
-156.18000 	WQHT698 	M	CSQ	Modoc Co FD YEL 	Yellow Tac 	FMN 	Fire-Tac 
-153.92000 	 	RM		Modoc Co EMS 	Dispatch 	FM 	EMS Dispatch 
-156.24000 	WNCT931 	RM		Modoc Co PW 	Public Works 	FM 	Public Works 
-154.74000 	WQAF440 	RM		Alturas PD1 	Police Dispatch 	FM 	Law Dispatch 
-155.85000 	WNYY436 	BM		Alturas PD2 	Police Tac 	FM 	Law Tac 
-California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	Nevada Shared Radio System	 EDACS Networked Standard	 Various	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard
- Various	Sierra Pacific Power (Alturas)	 EDACS Standard	 Alturas	
+153.92000 	158.83500  	WQHU542 	RM		Modoc Co SO1 	Dispatch 	FM 	Law Dispatch 
+159.09000 	153.86000  	WQHU542 	RM		Modoc Co SO2 	Channel 2 	FMN 	Law Tac 
+155.64000 	   	WQHU542 	BM		Modoc Co SO3 	Channel 3 	FMN 	Law Tac 
+153.92000 	158.83500  	KNHE603 	RM	CSQ	Modoc Co FD DSP 	Dispatch 	FMN 	Fire Dispatch 
+153.86000 	158.85750  	 	RM	CSQ	Modoc Co FD GRN 	Green Tac 	FMN 	Fire-Tac 
+155.14500 	   	WQHT698 	M	CSQ	Modoc Co FD GLD 	Gold Tac 	FMN 	Fire-Tac 
+156.18000 	   	WQHT698 	M	CSQ	Modoc Co FD YEL 	Yellow Tac 	FMN 	Fire-Tac 
+153.92000 	   	 	RM		Modoc Co EMS 	Dispatch 	FM 	EMS Dispatch 
+156.24000 	159.00000  	WNCT931 	RM		Modoc Co PW 	Public Works 	FM 	Public Works 
+154.74000 	158.91000  	WQAF440 	RM		Alturas PD1 	Police Dispatch 	FM 	Law Dispatch 
+155.85000 	   	WNYY436 	BM		Alturas PD2 	Police Tac 	FM 	Law Tac 
+Nevada Shared Radio System	 EDACS Networked Standard	 Various	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Sierra Pacific Power (Alturas)	 EDACS Standard	 Alturas

@@ -1,152 +1,151 @@
-155.64000 	KEA368 	RM	141.3 PL	DCSO Dispatch 	Sheriff Dispatch 	FMN 	Law Dispatch 
-151.34000 	KEA368 	RM	131 DPL	DCSO TAC 	Sheriff Tactical (Illinois) 	FMN 	Law Tac 
-155.83500 	KEA368 	RM	131 DPL	DCSO TAC 	Sheriff Tactical (Silver) 	FMN 	Law Tac 
-156.13500 	KEA368 	RM	131 DPL	DCSO TAC 	Sheriff Tactical (Clove) 	FMN 	Law Tac 
-159.21000 	KEA368 	RM	131 DPL	DCSO TAC 	Sheriff Tactical (East Mountain) 	FMN 	Law Tac 
-159.21000 	KEA368 	RM	132 DPL	DCSO TAC 	Sheriff Tactical (Wood Row) 	FMN 	Law Tac 
-159.24000 	KEA368 	M	94.8 PL	DCSO Car-Car 	Sheriff Car to Car 	FMN 	Law Talk 
-155.41500 	WPNQ461 	RM	654 DPL	DC 911 Dispatch 	911 Dispatch 	FMN 	Law Dispatch 
-151.20500 	WPNQ461 	RM	632 DPL	DC 911 Police 2 	911 Police 2 	FMN 	Law Talk 
-460.03750 	KEA368 	RM		DC Jail 	Jail 	FMN 	Law Talk 
-460.46250 	KB70013 	M	94.8 PL	DC Jail 	Jail 	FMN 	Law Talk 
-453.90000 	KED348 	B	114.8 PL	DC FD Dispatch 	Dispatch 1 	FMN 	Fire Dispatch 
-453.92500 	KED348 	RM	114.8 PL	DC FD Response 	Response 2 	FMN 	Fire Dispatch 
-453.80000 	KED348 	RM	114.8 PL	DC Fire Command 	Command 3/4 	FMN 	Fire-Talk 
-453.05000 	KED348 	RM	114.8 PL	DC FG 5/6 	Fireground 5/6 	FMN 	Fire-Tac 
-453.45000 	KED348 	RM	82.5 PL	DC FG 7/8 	Fireground 7/8 	FMN 	Fire-Tac 
-453.62500 	KED348 	RM	82.5 PL	DC FG 9/10 	Fireground 9/10 	FMN 	Fire-Tac 
-453.95000 	KED348 	RM	114.8 PL	DC FG 11/12 	Fireground 11/12 	FMN 	Fire-Tac 
-453.85000 	KED348 	RM	114.8 PL	DC FG 13/14 	Fireground 13/14 	FMN 	Fire-Tac 
-460.45000 	WPQD608 	RM	114.8 PL	DC Fld Ops 15/16 	Field Ops 15/16 	FMN 	Fire-Tac 
-453.60000 	KED348 	M	114.8 PL	DC FG Tac A 	Tactical A 	FMN 	Fire-Tac 
-453.82500 	KED348 	M	114.8 PL	DC FG Tac B 	Tactical B 	FMN 	Fire-Tac 
-453.91250 	KED348 	M	136.5 PL	DC Fire Police 	Fire Police 	FMN 	Fire-Talk 
-460.52500 	KED348 	M		DC HazMat Team 	Hazardous Materials Team 	FMN 	Fire-Tac 
-465.52500 	KED348 	M		DC HazMat Team 	Hazardous Materials Team 	FMN 	Fire-Tac 
-460.60000 	KED348 	M	82.5 PL	DC Fire Investg 	Fire Investigation Division 	FMN 	Fire-Talk 
-465.57500 	KED348 	M	114.8 PL	DC Training FG 	Training Fireground 	FMN 	Fire-Talk 
-46.36000 	KED348 	BM		DC FD Pagers 	Fire Pagers 	FM 	Fire Dispatch 
-155.04000 	KTC893 	BM		DC ARFF Ops 	Airport Operations and ARFF Dispatch 	FMN 	Fire Dispatch 
-155.74500 	WNNQ226 	BM	136.5 PL	DC EMS Control 1 	Control Primary 	FMN 	EMS-Tac 
-155.76000 	WNNQ226 	BM	136.5 PL	DC EMS Control 2 	Control Secondary 	FMN 	EMS-Tac 
-155.28000 	KZK253 	B		DC 911 to Hosp 	911 to Hospital 	FMN 	Hospital 
-462.95000 	KZK253 	BM	192.8 PL	DC MED 9 ALS 	Med-9 ALS Coordination 	FMN 	Hospital 
-468.01250 	WPLV871 	M	412 DPL	MLSS Tac 1 	Mobile Life Support Tac 1 	FMN 	EMS-Tac 
-468.03750 	WPLV871 	M	412 DPL	MLSS Tac 2 	Mobile Life Support Tac 2 	FMN 	EMS-Tac 
-468.06250 	WPLV871 	M	412 DPL	MLSS Tac 3 	Mobile Life Support Tac 3 	FMN 	EMS-Tac 
-154.11500 	WNNQ226 	RM	263 DPL	DER MACC 	Dept of Emergency Response Multi Agency Command Channel 	FMN 	Interop 
-151.07000 	WNAS261 	RM	263 DPL	DER MACC 2 	Dept of Emergency Response Multi Agency Command Channel 2 	FMN 	Interop 
-460.40000 	KGW661 	BM	114.8 PL	Beacon Fire 	Fire Operations 	FMN 	Fire-Tac 
-452.81250 	WQAW905 	RM	074 DPL	Beacon EMS 	EMS Operations 	FMN 	EMS-Tac 
-453.32500 	KNAK515 	B		BeaconIntrcm 	Municipal Intercom 	FMN 	Public Works 
-453.27500 	WPKF915 	RM	82.5 PL	Dover Hwy 	Highway Department 	FMN 	Public Works 
-460.37500 	KSZ753 	BM	043 DPL	EFPD 1 	Police 1 	FMN 	Law Talk 
-460.18750 	WPQE389 	BM	043 DPL	EFPD 2 	Police 2 (link to DC911 155.415) 	FMN 	Law Talk 
-453.15000 	WPUV891 	RM	114.8 PL	EFFD FG 	Operations/Fireground EFFD 39/40 	FMN 	Fire-Tac 
-458.97500 	WPUV891 	M	043 DPL	EFFD Interior 	Interior Ops 	FMN 	Fire-Tac 
-453.50000 	WQXL767 	RM	343 DPL	EFFD Fire 2 	Fire 2 	FMN 	Fire-Tac 
-460.56250 	WQXL767 	M	343 DPL	EFFD Ops 1 	Fire Ops 1 	FMN 	Fire-Tac 
-460.48750 	WQXL767 	M	343 DPL	EFFD Ops 2 	Fire Ops 2 	FMN 	Fire-Tac 
-460.51250 	WQXL767 	M	343 DPL	EFFD Ops 3 	Fire Ops 3 	FMN 	Fire-Tac 
-458.88750 	WQXL767 	M	343 DPL	EFFD Ops 4 	Fire Ops 4 	FMN 	Fire-Tac 
-460.05000 	KSZ753 	RM	043 DPL	EFFD TrafOp1 	Traffic Ops 1 	FMN 	Fire-Talk 
-467.91250 	 	M	136.5 PL	EFFD TrafOp2 	Traffic Ops 2 	FMN 	Fire-Talk 
-462.61250 	 	M	74.4 PL	EFFD HQ Mnt 	Fire Headquarters Maintenance 	FMN 	Public Works 
-460.17500 	WQSL542 	RM	114.8 PL	Rombout FG 	Rombout Fireground 	FMN 	Fire-Tac 
-156.21000 	KIG615 	BM	123.0 PL	FshklVil/Twn 	Fishkill Village/Town Interlink 	FMN 	Public Works 
-151.17500 	KTH670 	RM	79.7 PL	Fshkl Vil PD 	Police 	FMN 	Law Dispatch 
-453.70000 	WQCY607 	RM	047 DPL	Fshkl Vil FD 	Fire 	FMN 	Fire-Tac 
-453.10000 	WYK538 	RM	136.5 PL	HWY / LGvt 	Highway Dept / Local Govt 	FMN 	Public Works 
-155.13000 	KNFU860 	BM	107.2 PL	PPD Ops/Backup 	Police Ops/Backup to EDACS 	FMN 	Law Tac 
-453.65000 	KEB891 	RM	136.5 PL	PFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
-458.48750 	KEB891 	M	136.5 PL	PFD FG 1 	Fireground 1 	FMN 	Fire-Tac 
-453.48750 	KEB891 	RM	136.5 PL	PFD Ops 1 	Fire Operations 1 	FMN 	Fire-Tac 
-453.75000 	KEB891 	M	136.5 PL	PFD FG 4 	Fireground 2 	FMN 	Fire-Tac 
-453.53750 	KEB891 	M	136.5 PL	PFD FG 3 	Fireground 3 	FMN 	Fire-Tac 
-465.32500 	WQON381 	M	203.5 PL	PFD FG 2 	Fireground 4 	FMN 	Fire-Tac 
-460.32500 	WQON381 	RM	136.5 PL	PFD EMS Ops 	EMS Operations 	FMN 	EMS-Tac 
-460.10000 	WQON381 	RM	203.5 PL	PFD Cmd 	Command 	FMN 	Fire-Tac 
-458.53750 	KEB891 	M	136.5 PL	PFD FAST Ops 	FAST Operations 	FMN 	Fire-Tac 
-461.37500 	WQWS428 	RM	CC 9TG *SL *	Poughkeepsie Sch 	School District 	DMR 	Schools 
-460.50000 	KDZ465 	RM	223 DPL	RhinebeckFD 	Fire 	FMN 	Fire-Tac 
-453.67500 	WDT386 	RM	114.8 PL	UnionvaleSrv 	Services 	FMN 	Public Works 
-452.95000 	WPMQ955 	RM	072 DPL	Wap Falls PD 	Police 	FMN 	Law Dispatch 
-465.48750 	KEB706 	M	67.0 PL	Wap Falls XBand 	Police Crossband to Dutchess 911 	FMN 	Law Dispatch 
-453.58750 	WQOF296 	RM		Wap Falls FG 	Fire Ground 	FMN 	Fire-Talk 
-469.38750 	 	BM	114.8 PL	Wap Falls FD 	Fire 	FMN 	Fire-Talk 
-150.99500 	WPWB525 	RM	82.5 PL	Wap Falls Hwy 	Highway 	FMN 	Public Works 
-460.08750 	WPVC879 	BM	114.8 PL	Amenia FD 31 	Amenia Fire District Ch. 31 	FMN 	Fire-Tac 
-453.00000 	WPUQ892 	RM	82.5 PL	Arling FG Rpt 1 	Arlington FG Repeater 1 	FMN 	Fire-Tac 
-465.20000 	WNMK750 	M	114.8 PL	Arling FG 1 	Arlington Fire 1 - Primary FG 	FMN 	Fire-Tac 
-460.20000 	WNMK750 	RM	114.8 PL	Arling FG 1 Rpt 	Arlington Fire 1 - Repeater 	FMN 	Fire-Tac 
-463.12500 	WPEW348 	RM	114.8 PL	Arling FG 2 Rpt 	Arlington Fire 2 - Repeater 	FMN 	Fire-Tac 
-468.12500 	WPEW348 	M	114.8 PL	Arling FG 2 	Arlington Fire 2 - Secondary FG 	FMN 	Fire-Tac 
-453.31250 	WQTP470 	M	114.8 PL	Arling FG 3 	Arlington Fire 3 - Backup FG 	FMN 	Fire-Tac 
-453.07500 	KNNI813 	RM	114.8 PL	BeekmanFD 	Beekman Fire District 	FMN 	Fire-Tac 
-453.86250 	WPZU836 	RM	114.8 PL	BeekmanFD 	Beekman Fire District 	FMN 	Fire-Tac 
-453.37500 	WPEE933 	RM	82.5 PL	BeekmanFD 19 	Beekman Fire District Ch. 19 	FMN 	Fire-Tac 
-460.16250 	WPUN394 	RM	114.8 PL	BeekmanFD 21 	Beekman Fire District Ch. 21 	FMN 	Fire-Tac 
-463.22500 	 	BM	047 DPL	Chelsea Fire 	Chelsea Fire District 	FMN 	Fire-Tac 
-465.58750 	KB90825 	M	114.8 PL	FairviewFgnd 	Fairview Fire District - Ch. 41B - Fireground 	FMN 	Fire-Tac 
-453.30000 	WNWW418 	RM	114.8 PL	FairviewFD 	Fairview Fire District - Fireground 	FMN 	Fire-Tac 
-463.25000 	 	BM	151.4 PL	HughsnvleFD 	Hughsonville Fire District - Fireground 	FMN 	Fire-Tac 
-460.25000 	WPIX258 	RM	110.9 PL	HydeParkFD 	Hyde Park Fire District - Fireground 	FMN 	Fire-Tac 
-453.85000 	WNNA408 	RM	82.5 PL	JHKetchamFD 	JH Ketcham Hose Company (Dover Ch. 17) 	FMN 	Fire-Tac 
-453.20000 	WPIC967 	RM	110.9 PL	LagrangeFD 	Lagrange Fire District - Fireground 	FMN 	Fire-Tac 
-460.02500 	WQBC392 	RM	82.5 PL	MilanFD 	Milan Volunteer Fire Department 	FMN 	Fire-Tac 
-460.28750 	WPLQ935 	RM	043 DPL	MillbrkFD 	Millbrook Fire District 	FMN 	Fire-Tac 
-460.41250 	WPLQ935 	RM	754 DPL	MillbrkFD 	Millbrook Fire District 	FMN 	Fire-Tac 
-453.77500 	WRJ454 	RM	173.8 PL	MillrtnFD 	Millerton Fire District 	FMN 	Fire-Tac 
-453.12500 	WPKK717 	RM	100.0 PL	NewHackFD 	New Hackensack Fire District - Fireground 	FMN 	Fire-Tac 
-453.75000 	WQCP823 	RM	114.8 PL	NewHambFD 	New Hamburg Fire District - Fireground 	FMN 	Fire-Tac 
-453.35000 	WPMG728 	RM	82.5 PL	PlsntValFD 	Pleasant Valley Fire District - Fireground 	FMN 	Fire-Tac 
-453.25000 	WNXP858 	RM	167.9 PL	RoosvltFD 	Roosevelt Fire District - Fireground 	FMN 	Fire-Tac 
-460.62500 	WPGU781 	RM	118.8 PL	StandfrdFD 	Standford Fire District 	FMN 	Fire-Tac 
-460.06250 	WPYQ889 	RM	051 DPL	UnionvleFD67 	Unionvale Fire District Ch. 67 	FMN 	Fire-Tac 
-452.42500 	WNYY321 	RM	165 DPL	NorDutchALS 	Northern Dutchess Paramedics EMS 	FMN 	EMS-Tac 
-452.10000 	WPLT628 	RM	165 DPL	NorDutchALS 	Northern Dutchess Paramedics EMS 	FMN 	EMS-Tac 
-461.17500 	 	RM		Arlington HS 	Arlington High School 	FMN 	Schools 
-463.42500 	 	RM		ArlingtonBus 	Arlington Bus 	FMN 	Schools 
-464.32500 	 	RM	CC 1TG 1SL 1	Dutchess Sec 	Security 	DMR 	Security 
-468.22500 	 	M	116 DPL	FDR Maintnce 	FD Roosevelt High School Maintenance 	FMN 	Schools 
-461.35000 	WQHF259 	RM	023 DPL	FDR Ops 	FD Roosevelt High School Operations 	FMN 	Schools 
-466.15000 	 	M	025 DPL	FDR Private 	FD Roosevelt High School Private 	FMN 	Schools 
-468.22500 	 	M	116 DPL	HMS Admin 	Haviland Middle School Adminstration 	FMN 	Schools 
-469.50000 	 	M	023 DPL	HMS Cafteria 	Haviland Middle School Cafeteria 	FMN 	Schools 
-464.50000 	 	M	023 DPL	HMS Custodns 	Haviland Middle School Custodians 	FMN 	Schools 
-452.97500 	 	M	023 DPL	HMS Lobby 	Haviland Middle School Lobby 	FMN 	Schools 
-452.45000 	 	M	023 DPL	HMS Office 	Haviland Middle School Main Office 	FMN 	Schools 
-452.27500 	 	M	023 DPL	HMS Nurse 	Haviland Middle School Nurse 	FMN 	Schools 
-461.17500 	WQHF259 	RM	023 DPL	HMS Ops 	Haviland Middle School Operations 	FMN 	Schools 
-469.55000 	 	M	023 DPL	HMS Phys Ed 	Haviland Middle School Physical Education 	FMN 	Schools 
-464.55000 	 	M	023 DPL	HMS Std Srvc 	Haviland Middle School Student Services 	FMN 	Schools 
-464.50000 	 	M	023 DPL	HPES Ch 4 	Hyde Park Elementary School Ch 4 	FMN 	Schools 
-461.72500 	WQHF259 	RM	023 DPL	HPES Ops 	Hyde Park Elementary School Operations 	FMN 	Schools 
-464.50000 	 	M	025 DPL	NES Ch 4 	Netherwood Elementary School Ch 4 	FMN 	Schools 
-461.35000 	WQHF259 	RM	025 DPL	NES Ops 	Netherwood Elementary School Operations 	FMN 	Schools 
-464.50000 	 	M	031 DPL	NPES Ch 4 	North Park Elementary School Ch 4 	FMN 	Schools 
-461.17500 	WQHF259 	RM	025 DPL	NPES Ops 	North Park Elementary School Operations 	FMN 	Schools 
-461.35000 	WQHF259 	RM	026 DPL	RRSES Ops 	Ralph R Smith Elementary School Ops 	FMN 	Schools 
-461.35000 	WQFU494 	RM	031 DPL	VAES Ops 	Violet Avenue Elementary School Operations 	FMN 	Schools 
-152.27000 	WNNQ694 	RM	423 DPL	RHCSD Buses 	School Buses 	FMN 	Schools 
-152.43500 	WNNQ694 	RM	423 DPL	RHCSD B/G 	Buildings and Grounds 	FMN 	Schools 
-464.47500 	WQFB452 	RM	123.0 PL	Vassar EMS 	EMS 	FMN 	EMS-Talk 
-464.07500 	WQTT551 	RM	CC 6TG 1100SL 1	Vassar Sec 	Security 	DMR 	Security 
-464.37500 	WPDM384 	RM	CC 1TG 1050SL 1	Vassar Fac Maint 	Facilities Maintenance 	DMR 	Schools 
-464.37500 	WPDM384 	RM	CC 1TG 1000SL 2	Vassar Custodial 	Custodial Services 	DMR 	Schools 
-151.32500 	 	M		DCCS Pough, Bcn 	Poughkeepsie, Beacon 	FMN 	Law Tac 
-153.96500 	 	M	192.8 PL	DCCS Ch 5 	Court Security Ch 5 	FMN 	Law Tac 
-154.75500 	 	M	192.8 PL	DCCS Ch 1 	Court Security Ch 1 	FMN 	Law Tac 
-155.31000 	 	M	192.8 PL	DCCS Ch 2 	Court Security Ch 2 	FMN 	Law Tac 
-158.92000 	 	M	192.8 PL	DCCS Ch 4 	Court Security Ch 4 	FMN 	Law Tac 
-158.97000 	 	M	192.8 PL	DCCS Ch 3 	Court Security Ch 3 	FMN 	Law Tac 
-166.95000 	 	BM	555 NAC	NPS FDR Home 	FDR Home and Vanderbilt Mansion 	P25 	Federal 
-164.06250 	 	BM	74.4 PL	VA Castle Pt 	Castle Point Medical Center Fire/Police 	FMN 	Federal 
-461.10000 	 	BM	91.5 PL	Red Cross 	Red Cross - Kingston 	FMN 	Emergency Ops 
-463.45000 	 	BM	151.4 PL	Red Cross 	Red Cross - Highland 	FMN 	Emergency Ops 
-464.05000 	 	BM	203.5 PL	Red Cross 	Red Cross - Millerton 	FMN 	Emergency Ops 
-464.45000 	 	BM	226 DPL	Red Cross 	Red Cross - Beekman 	FMN 	Emergency Ops 
-East Mountain Communications	 DMR Tier 3	 Regional	Global Foundries	 DMR Motorola Capacity Plus Single Site (TRBO)	 East Fishkill	Hudson River Psychiatric Center	 DMR Motorola Capacity Plus Single Site (TRBO)
- Poughkeepsie	Metro-25/MTA MRRS	 Project 25 Phase II	 Regional	MidHudson Regional Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Poughkeepsie	New York State Bridge Authority
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Hudson Valley	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional
+155.64000 	159.04500  	KEA368 	RM	141.3 PL	DCSO Dispatch 	Sheriff Dispatch 	FMN 	Law Dispatch 
+151.34000 	   	KEA368 	RM	131 DPL	DCSO TAC 	Sheriff Tactical (Illinois) 	FMN 	Law Tac 
+155.83500 	   	KEA368 	RM	131 DPL	DCSO TAC 	Sheriff Tactical (Silver) 	FMN 	Law Tac 
+156.13500 	   	KEA368 	RM	131 DPL	DCSO TAC 	Sheriff Tactical (Clove) 	FMN 	Law Tac 
+159.21000 	   	KEA368 	RM	131 DPL	DCSO TAC 	Sheriff Tactical (East Mountain) 	FMN 	Law Tac 
+159.21000 	   	KEA368 	RM	132 DPL	DCSO TAC 	Sheriff Tactical (Wood Row) 	FMN 	Law Tac 
+159.24000 	   	KEA368 	M	94.8 PL	DCSO Car-Car 	Sheriff Car to Car 	FMN 	Law Talk 
+155.41500 	158.97000  	WPNQ461 	RM	654 DPL	DC 911 Dispatch 	911 Dispatch 	FMN 	Law Dispatch 
+151.20500 	159.36000  	WPNQ461 	RM	632 DPL	DC 911 Police 2 	911 Police 2 	FMN 	Law Talk 
+460.03750 	465.03750  	KEA368 	RM		DC Jail 	Jail 	FMN 	Law Talk 
+460.46250 	   	KB70013 	M	94.8 PL	DC Jail 	Jail 	FMN 	Law Talk 
+453.90000 	   	KED348 	B	114.8 PL	DC FD Dispatch 	Dispatch 1 	FMN 	Fire Dispatch 
+453.92500 	458.92500  	KED348 	RM	114.8 PL	DC FD Response 	Response 2 	FMN 	Fire Dispatch 
+453.80000 	458.80000  	KED348 	RM	114.8 PL	DC Fire Command 	Command 3/4 	FMN 	Fire-Talk 
+453.05000 	458.05000  	KED348 	RM	114.8 PL	DC FG 5/6 	Fireground 5/6 	FMN 	Fire-Tac 
+453.45000 	458.45000  	KED348 	RM	82.5 PL	DC FG 7/8 	Fireground 7/8 	FMN 	Fire-Tac 
+453.62500 	458.62500  	KED348 	RM	82.5 PL	DC FG 9/10 	Fireground 9/10 	FMN 	Fire-Tac 
+453.95000 	458.95000  	KED348 	RM	114.8 PL	DC FG 11/12 	Fireground 11/12 	FMN 	Fire-Tac 
+453.85000 	458.85000  	KED348 	RM	114.8 PL	DC FG 13/14 	Fireground 13/14 	FMN 	Fire-Tac 
+460.45000 	465.45000  	WPQD608 	RM	114.8 PL	DC Fld Ops 15/16 	Field Ops 15/16 	FMN 	Fire-Tac 
+453.60000 	   	KED348 	M	114.8 PL	DC FG Tac A 	Tactical A 	FMN 	Fire-Tac 
+453.82500 	   	KED348 	M	114.8 PL	DC FG Tac B 	Tactical B 	FMN 	Fire-Tac 
+453.91250 	   	KED348 	M	136.5 PL	DC Fire Police 	Fire Police 	FMN 	Fire-Talk 
+460.52500 	   	KED348 	M		DC HazMat Team 	Hazardous Materials Team 	FMN 	Fire-Tac 
+465.52500 	   	KED348 	M		DC HazMat Team 	Hazardous Materials Team 	FMN 	Fire-Tac 
+460.60000 	   	KED348 	M	82.5 PL	DC Fire Investg 	Fire Investigation Division 	FMN 	Fire-Talk 
+465.57500 	   	KED348 	M	114.8 PL	DC Training FG 	Training Fireground 	FMN 	Fire-Talk 
+46.36000 	   	KED348 	BM		DC FD Pagers 	Fire Pagers 	FM 	Fire Dispatch 
+155.04000 	   	KTC893 	BM		DC ARFF Ops 	Airport Operations and ARFF Dispatch 	FMN 	Fire Dispatch 
+155.74500 	   	WNNQ226 	BM	136.5 PL	DC EMS Control 1 	Control Primary 	FMN 	EMS-Tac 
+155.76000 	   	WNNQ226 	BM	136.5 PL	DC EMS Control 2 	Control Secondary 	FMN 	EMS-Tac 
+155.28000 	   	KZK253 	B		DC 911 to Hosp 	911 to Hospital 	FMN 	Hospital 
+462.95000 	467.95000  	KZK253 	BM	192.8 PL	DC MED 9 ALS 	Med-9 ALS Coordination 	FMN 	Hospital 
+468.01250 	   	WPLV871 	M	412 DPL	MLSS Tac 1 	Mobile Life Support Tac 1 	FMN 	EMS-Tac 
+468.03750 	   	WPLV871 	M	412 DPL	MLSS Tac 2 	Mobile Life Support Tac 2 	FMN 	EMS-Tac 
+468.06250 	   	WPLV871 	M	412 DPL	MLSS Tac 3 	Mobile Life Support Tac 3 	FMN 	EMS-Tac 
+154.11500 	158.88000  	WNNQ226 	RM	263 DPL	DER MACC 	Dept of Emergency Response Multi Agency Command Channel 	FMN 	Interop 
+151.07000 	155.92500  	WNAS261 	RM	263 DPL	DER MACC 2 	Dept of Emergency Response Multi Agency Command Channel 2 	FMN 	Interop 
+460.40000 	   	KGW661 	BM	114.8 PL	Beacon Fire 	Fire Operations 	FMN 	Fire-Tac 
+452.81250 	457.81250  	WQAW905 	RM	074 DPL	Beacon EMS 	EMS Operations 	FMN 	EMS-Tac 
+453.32500 	   	KNAK515 	B		BeaconIntrcm 	Municipal Intercom 	FMN 	Public Works 
+453.27500 	458.27500  	WPKF915 	RM	82.5 PL	Dover Hwy 	Highway Department 	FMN 	Public Works 
+460.37500 	   	KSZ753 	BM	043 DPL	EFPD 1 	Police 1 	FMN 	Law Talk 
+460.18750 	   	WPQE389 	BM	043 DPL	EFPD 2 	Police 2 (link to DC911 155.415) 	FMN 	Law Talk 
+453.15000 	458.15000  	WPUV891 	RM	114.8 PL	EFFD FG 	Operations/Fireground EFFD 39/40 	FMN 	Fire-Tac 
+458.97500 	   	WPUV891 	M	043 DPL	EFFD Interior 	Interior Ops 	FMN 	Fire-Tac 
+453.50000 	458.50000  	WQXL767 	RM	343 DPL	EFFD Fire 2 	Fire 2 	FMN 	Fire-Tac 
+460.56250 	   	WQXL767 	M	343 DPL	EFFD Ops 1 	Fire Ops 1 	FMN 	Fire-Tac 
+460.48750 	   	WQXL767 	M	343 DPL	EFFD Ops 2 	Fire Ops 2 	FMN 	Fire-Tac 
+460.51250 	   	WQXL767 	M	343 DPL	EFFD Ops 3 	Fire Ops 3 	FMN 	Fire-Tac 
+458.88750 	   	WQXL767 	M	343 DPL	EFFD Ops 4 	Fire Ops 4 	FMN 	Fire-Tac 
+460.05000 	465.05000  	KSZ753 	RM	043 DPL	EFFD TrafOp1 	Traffic Ops 1 	FMN 	Fire-Talk 
+467.91250 	   	 	M	136.5 PL	EFFD TrafOp2 	Traffic Ops 2 	FMN 	Fire-Talk 
+462.61250 	   	 	M	74.4 PL	EFFD HQ Mnt 	Fire Headquarters Maintenance 	FMN 	Public Works 
+460.17500 	465.17500  	WQSL542 	RM	114.8 PL	Rombout FG 	Rombout Fireground 	FMN 	Fire-Tac 
+156.21000 	   	KIG615 	BM	123.0 PL	FshklVil/Twn 	Fishkill Village/Town Interlink 	FMN 	Public Works 
+151.17500 	158.92500  	KTH670 	RM	79.7 PL	Fshkl Vil PD 	Police 	FMN 	Law Dispatch 
+453.70000 	458.70000  	WQCY607 	RM	047 DPL	Fshkl Vil FD 	Fire 	FMN 	Fire-Tac 
+453.10000 	458.10000  	WYK538 	RM	136.5 PL	HWY / LGvt 	Highway Dept / Local Govt 	FMN 	Public Works 
+155.13000 	158.91000  	KNFU860 	BM	107.2 PL	PPD Ops/Backup 	Police Ops/Backup to EDACS 	FMN 	Law Tac 
+453.65000 	458.65000  	KEB891 	RM	136.5 PL	PFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
+458.48750 	   	KEB891 	M	136.5 PL	PFD FG 1 	Fireground 1 	FMN 	Fire-Tac 
+453.48750 	458.48750  	KEB891 	RM	136.5 PL	PFD Ops 1 	Fire Operations 1 	FMN 	Fire-Tac 
+453.75000 	   	KEB891 	M	136.5 PL	PFD FG 4 	Fireground 2 	FMN 	Fire-Tac 
+453.53750 	   	KEB891 	M	136.5 PL	PFD FG 3 	Fireground 3 	FMN 	Fire-Tac 
+465.32500 	   	WQON381 	M	203.5 PL	PFD FG 2 	Fireground 4 	FMN 	Fire-Tac 
+460.32500 	465.32500  	WQON381 	RM	136.5 PL	PFD EMS Ops 	EMS Operations 	FMN 	EMS-Tac 
+460.10000 	465.10000  	WQON381 	RM	203.5 PL	PFD Cmd 	Command 	FMN 	Fire-Tac 
+458.53750 	   	KEB891 	M	136.5 PL	PFD FAST Ops 	FAST Operations 	FMN 	Fire-Tac 
+461.37500 	466.37500  	WQWS428 	RM	CC 9TG *SL *	Poughkeepsie Sch 	School District 	DMR 	Schools 
+460.50000 	465.50000  	KDZ465 	RM	223 DPL	RhinebeckFD 	Fire 	FMN 	Fire-Tac 
+453.67500 	458.67500  	WDT386 	RM	114.8 PL	UnionvaleSrv 	Services 	FMN 	Public Works 
+452.95000 	457.95000  	WPMQ955 	RM	072 DPL	Wap Falls PD 	Police 	FMN 	Law Dispatch 
+465.48750 	   	KEB706 	M	67.0 PL	Wap Falls XBand 	Police Crossband to Dutchess 911 	FMN 	Law Dispatch 
+453.58750 	458.58750  	WQOF296 	RM		Wap Falls FG 	Fire Ground 	FMN 	Fire-Talk 
+469.38750 	   	 	BM	114.8 PL	Wap Falls FD 	Fire 	FMN 	Fire-Talk 
+150.99500 	159.01500  	WPWB525 	RM	82.5 PL	Wap Falls Hwy 	Highway 	FMN 	Public Works 
+460.08750 	465.08750  	WPVC879 	BM	114.8 PL	Amenia FD 31 	Amenia Fire District Ch. 31 	FMN 	Fire-Tac 
+453.00000 	458.00000  	WPUQ892 	RM	82.5 PL	Arling FG Rpt 1 	Arlington FG Repeater 1 	FMN 	Fire-Tac 
+465.20000 	   	WNMK750 	M	114.8 PL	Arling FG 1 	Arlington Fire 1 - Primary FG 	FMN 	Fire-Tac 
+460.20000 	465.20000  	WNMK750 	RM	114.8 PL	Arling FG 1 Rpt 	Arlington Fire 1 - Repeater 	FMN 	Fire-Tac 
+463.12500 	468.12500  	WPEW348 	RM	114.8 PL	Arling FG 2 Rpt 	Arlington Fire 2 - Repeater 	FMN 	Fire-Tac 
+468.12500 	   	WPEW348 	M	114.8 PL	Arling FG 2 	Arlington Fire 2 - Secondary FG 	FMN 	Fire-Tac 
+453.31250 	   	WQTP470 	M	114.8 PL	Arling FG 3 	Arlington Fire 3 - Backup FG 	FMN 	Fire-Tac 
+453.07500 	458.07500  	KNNI813 	RM	114.8 PL	BeekmanFD 	Beekman Fire District 	FMN 	Fire-Tac 
+453.86250 	458.86250  	WPZU836 	RM	114.8 PL	BeekmanFD 	Beekman Fire District 	FMN 	Fire-Tac 
+453.37500 	458.37500  	WPEE933 	RM	82.5 PL	BeekmanFD 19 	Beekman Fire District Ch. 19 	FMN 	Fire-Tac 
+460.16250 	465.16250  	WPUN394 	RM	114.8 PL	BeekmanFD 21 	Beekman Fire District Ch. 21 	FMN 	Fire-Tac 
+463.22500 	   	 	BM	047 DPL	Chelsea Fire 	Chelsea Fire District 	FMN 	Fire-Tac 
+465.58750 	   	KB90825 	M	114.8 PL	FairviewFgnd 	Fairview Fire District - Ch. 41B - Fireground 	FMN 	Fire-Tac 
+453.30000 	458.30000  	WNWW418 	RM	114.8 PL	FairviewFD 	Fairview Fire District - Fireground 	FMN 	Fire-Tac 
+463.25000 	   	 	BM	151.4 PL	HughsnvleFD 	Hughsonville Fire District - Fireground 	FMN 	Fire-Tac 
+460.25000 	465.25000  	WPIX258 	RM	110.9 PL	HydeParkFD 	Hyde Park Fire District - Fireground 	FMN 	Fire-Tac 
+453.85000 	458.85000  	WNNA408 	RM	82.5 PL	JHKetchamFD 	JH Ketcham Hose Company (Dover Ch. 17) 	FMN 	Fire-Tac 
+453.20000 	458.20000  	WPIC967 	RM	110.9 PL	LagrangeFD 	Lagrange Fire District - Fireground 	FMN 	Fire-Tac 
+460.02500 	465.02500  	WQBC392 	RM	82.5 PL	MilanFD 	Milan Volunteer Fire Department 	FMN 	Fire-Tac 
+460.28750 	465.28750  	WPLQ935 	RM	043 DPL	MillbrkFD 	Millbrook Fire District 	FMN 	Fire-Tac 
+460.41250 	465.41250  	WPLQ935 	RM	754 DPL	MillbrkFD 	Millbrook Fire District 	FMN 	Fire-Tac 
+453.77500 	458.77500  	WRJ454 	RM	173.8 PL	MillrtnFD 	Millerton Fire District 	FMN 	Fire-Tac 
+453.12500 	458.12500  	WPKK717 	RM	100.0 PL	NewHackFD 	New Hackensack Fire District - Fireground 	FMN 	Fire-Tac 
+453.75000 	458.75000  	WQCP823 	RM	114.8 PL	NewHambFD 	New Hamburg Fire District - Fireground 	FMN 	Fire-Tac 
+453.35000 	458.35000  	WPMG728 	RM	82.5 PL	PlsntValFD 	Pleasant Valley Fire District - Fireground 	FMN 	Fire-Tac 
+453.25000 	458.25000  	WNXP858 	RM	167.9 PL	RoosvltFD 	Roosevelt Fire District - Fireground 	FMN 	Fire-Tac 
+460.62500 	465.62500  	WPGU781 	RM	118.8 PL	StandfrdFD 	Standford Fire District 	FMN 	Fire-Tac 
+460.06250 	465.06250  	WPYQ889 	RM	051 DPL	UnionvleFD67 	Unionvale Fire District Ch. 67 	FMN 	Fire-Tac 
+452.42500 	457.42500  	WNYY321 	RM	165 DPL	NorDutchALS 	Northern Dutchess Paramedics EMS 	FMN 	EMS-Tac 
+452.10000 	457.10000  	WPLT628 	RM	165 DPL	NorDutchALS 	Northern Dutchess Paramedics EMS 	FMN 	EMS-Tac 
+461.17500 	466.17500  	 	RM		Arlington HS 	Arlington High School 	FMN 	Schools 
+463.42500 	468.42500  	 	RM		ArlingtonBus 	Arlington Bus 	FMN 	Schools 
+464.32500 	469.32500  	 	RM	CC 1TG 1SL 1	Dutchess Sec 	Security 	DMR 	Security 
+468.22500 	   	 	M	116 DPL	FDR Maintnce 	FD Roosevelt High School Maintenance 	FMN 	Schools 
+461.35000 	466.35000  	WQHF259 	RM	023 DPL	FDR Ops 	FD Roosevelt High School Operations 	FMN 	Schools 
+466.15000 	   	 	M	025 DPL	FDR Private 	FD Roosevelt High School Private 	FMN 	Schools 
+468.22500 	   	 	M	116 DPL	HMS Admin 	Haviland Middle School Adminstration 	FMN 	Schools 
+469.50000 	   	 	M	023 DPL	HMS Cafteria 	Haviland Middle School Cafeteria 	FMN 	Schools 
+464.50000 	   	 	M	023 DPL	HMS Custodns 	Haviland Middle School Custodians 	FMN 	Schools 
+452.97500 	   	 	M	023 DPL	HMS Lobby 	Haviland Middle School Lobby 	FMN 	Schools 
+452.45000 	   	 	M	023 DPL	HMS Office 	Haviland Middle School Main Office 	FMN 	Schools 
+452.27500 	   	 	M	023 DPL	HMS Nurse 	Haviland Middle School Nurse 	FMN 	Schools 
+461.17500 	466.17500  	WQHF259 	RM	023 DPL	HMS Ops 	Haviland Middle School Operations 	FMN 	Schools 
+469.55000 	   	 	M	023 DPL	HMS Phys Ed 	Haviland Middle School Physical Education 	FMN 	Schools 
+464.55000 	   	 	M	023 DPL	HMS Std Srvc 	Haviland Middle School Student Services 	FMN 	Schools 
+464.50000 	   	 	M	023 DPL	HPES Ch 4 	Hyde Park Elementary School Ch 4 	FMN 	Schools 
+461.72500 	466.72500  	WQHF259 	RM	023 DPL	HPES Ops 	Hyde Park Elementary School Operations 	FMN 	Schools 
+464.50000 	   	 	M	025 DPL	NES Ch 4 	Netherwood Elementary School Ch 4 	FMN 	Schools 
+461.35000 	466.35000  	WQHF259 	RM	025 DPL	NES Ops 	Netherwood Elementary School Operations 	FMN 	Schools 
+464.50000 	   	 	M	031 DPL	NPES Ch 4 	North Park Elementary School Ch 4 	FMN 	Schools 
+461.17500 	466.17500  	WQHF259 	RM	025 DPL	NPES Ops 	North Park Elementary School Operations 	FMN 	Schools 
+461.35000 	466.35000  	WQHF259 	RM	026 DPL	RRSES Ops 	Ralph R Smith Elementary School Ops 	FMN 	Schools 
+461.35000 	466.35000  	WQFU494 	RM	031 DPL	VAES Ops 	Violet Avenue Elementary School Operations 	FMN 	Schools 
+152.27000 	157.53000  	WNNQ694 	RM	423 DPL	RHCSD Buses 	School Buses 	FMN 	Schools 
+152.43500 	157.69500  	WNNQ694 	RM	423 DPL	RHCSD B/G 	Buildings and Grounds 	FMN 	Schools 
+464.47500 	469.47500  	WQFB452 	RM	123.0 PL	Vassar EMS 	EMS 	FMN 	EMS-Talk 
+464.07500 	469.07050  	WQTT551 	RM	CC 6TG 1100SL 1	Vassar Sec 	Security 	DMR 	Security 
+464.37500 	469.37500  	WPDM384 	RM	CC 1TG 1050SL 1	Vassar Fac Maint 	Facilities Maintenance 	DMR 	Schools 
+464.37500 	469.37500  	WPDM384 	RM	CC 1TG 1000SL 2	Vassar Custodial 	Custodial Services 	DMR 	Schools 
+151.32500 	   	 	M		DCCS Pough, Bcn 	Poughkeepsie, Beacon 	FMN 	Law Tac 
+153.96500 	   	 	M	192.8 PL	DCCS Ch 5 	Court Security Ch 5 	FMN 	Law Tac 
+154.75500 	   	 	M	192.8 PL	DCCS Ch 1 	Court Security Ch 1 	FMN 	Law Tac 
+155.31000 	   	 	M	192.8 PL	DCCS Ch 2 	Court Security Ch 2 	FMN 	Law Tac 
+158.92000 	   	 	M	192.8 PL	DCCS Ch 4 	Court Security Ch 4 	FMN 	Law Tac 
+158.97000 	   	 	M	192.8 PL	DCCS Ch 3 	Court Security Ch 3 	FMN 	Law Tac 
+166.95000 	   	 	BM	555 NAC	NPS FDR Home 	FDR Home and Vanderbilt Mansion 	P25 	Federal 
+461.10000 	   	 	BM	91.5 PL	Red Cross 	Red Cross - Kingston 	FMN 	Emergency Ops 
+463.45000 	   	 	BM	151.4 PL	Red Cross 	Red Cross - Highland 	FMN 	Emergency Ops 
+464.05000 	   	 	BM	203.5 PL	Red Cross 	Red Cross - Millerton 	FMN 	Emergency Ops 
+464.45000 	   	 	BM	226 DPL	Red Cross 	Red Cross - Beekman 	FMN 	Emergency Ops 
+East Mountain Communications	 DMR Tier 3	 Regional	Global Foundries	 DMR Motorola Capacity Plus Single Site (TRBO)	 East Fishkill	Hudson River Psychiatric Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Poughkeepsie
+Metro-25/MTA MRRS	 Project 25 Phase II	 Regional	MidHudson Regional Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Poughkeepsie	New York State Bridge Authority	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Hudson Valley
+New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional	NYCOMCO (MOTOTRBO)	 DMR Motorola Connect Plus (TRBO)	 Various
 OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	

@@ -1,33 +1,33 @@
-154.78500 	KQI821 	RM	131.8 PL	Marion SO 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.86000 	KQI821 	BM	131.8 PL	MCSO Records  	Sheriff Records 	FMN 	Law Talk 
-155.02500 	WPNP436 	BM		MC CORR CENT 	Multi-County Correctional Center 	FMN 	Corrections 
-159.17500 	WPNP436 	RM	CC 15TG *SL 1	MC CORR CENT 	Multi-County Correctional Center 	DMR 	Corrections 
-155.77500 	WNNI260 	M		MC JDC 	Juvenile Detention Center 	FMN 	Law Talk 
-154.75500 	KRG858 	RM	91.5 PL	Marion PD 	Marion Police 	FMN 	Law Talk 
-154.87500 	KRG858 	BM		MPDCAR2CAR 	Marion Police Car to Car 	FMN 	Law Tac 
-154.13000 	WNKM761 	RM	131.8 PL	Marion Co Fire 	Marion County Fire 	FMN 	Fire Dispatch 
-154.17500 	WNKX207 	RM	131.8 PL	Marion FD 	Marion FD 	FMN 	Fire Dispatch 
-154.20500 	KSQ387 	RM	123.0 PL	Marion Twp FD 	Marion Twp FD 	FMN 	Fire Dispatch 
-453.02500 	KSQ387 	RM		MARITWP FD 	Marion Twp FD 	FMN 	Fire-Tac 
-453.10000 	KSQ387 	M		MARITWP FMRE 	Marion Twp FD MRE? 	FMN 	Fire-Tac 
-154.22000 	KTE653 	BM		SALTROCK FD 	Salt Rock Twp VFD 	FMN 	Fire-Talk 
-154.37000 	 	M		1STCON FIRE 	1st Consolidated Fire Department 	FMN 	Fire-Tac 
-155.28000 	 	M		BRFD EMS 1 	Battle Run Fire Department 	FMN 	EMS-Tac 
-155.32500 	 	M		BRFD EMS 2 	Battle Run Fire Department 	FMN 	EMS-Tac 
-155.28000 	KNCS884 	BM		MGH ER  	Marion General Hospital 	FMN 	EMS-Tac 
-155.32500 	KNCS884 	BM		MGH ER 	Marion General Hospital 	FMN 	EMS-Tac 
-155.34000 	KNCS884 	BM		MGH ER 	Marion General Hospital 	FMN 	EMS-Tac 
-155.40000 	KNCS884 	BM		MGH 	Marion General Hospital 	FMN 	EMS-Tac 
-155.22000 	WNLC277 	BM		R/M AMB 	Rural-Metro Ambulance 	FMN 	EMS-Tac 
-151.13000 	KFG433 	RM	CC 2TG *SL 1	MARIONCO ENG 	County Engineer 	DMR 	Public Works 
-453.32500 	WQGJ234 	RM		MARIONCO LG 	Marion, County of 	FMN 	Public Works 
-155.14500 	KSW934 	RM	1 RAN	MARION CG 	Marion City Garage (Encrypted) 	NXDNE 	Public Works 
-453.83750 	WPQI422 	BM		MARI MUNI AP 	Marion Municipal Airport 	FMN 	Public Works 
-153.53000 	WSX996 	BM		PROSPECT LG 	Prospect, Village of 	FMN 	Public Works 
-154.98000 	KNCK649 	BM	131.8 PL	MARIONTWP LG 	Marion Twp 	FMN 	Public Works 
-155.20500 	KNAD771 	BM		RIVER VAL SD 	River Valley Schools 	FMN 	Schools 
-451.03750 	WPNX443 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
-464.05000 	WPKG495 	RM	203.5 PL	OSUM MAINT 	Ohio State University Marion - Maintenance 	FMN 	Schools 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Marion City Schools	 DMR Conventional Networked	 Marion	Marion County	 LTR Standard
- Marion	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	POET Biorefining
- DMR Conventional Networked	 Marion	Union Tank Car	 DMR Conventional Networked	 Marion	Wenigs, Inc.	 DMR Conventional Networked	 Marion
+154.78500 	155.85000  	KQI821 	RM	131.8 PL	Marion SO 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.86000 	   	KQI821 	BM	131.8 PL	MCSO Records  	Sheriff Records 	FMN 	Law Talk 
+155.02500 	156.00000  	WPNP436 	BM		MC CORR CENT 	Multi-County Correctional Center 	FMN 	Corrections 
+159.17500 	153.92750  	WPNP436 	RM	CC 15TG *SL 1	MC CORR CENT 	Multi-County Correctional Center 	DMR 	Corrections 
+155.77500 	   	WNNI260 	M		MC JDC 	Juvenile Detention Center 	FMN 	Law Talk 
+154.75500 	156.03000  	KRG858 	RM	91.5 PL	Marion PD 	Marion Police 	FMN 	Law Talk 
+154.87500 	   	KRG858 	BM		MPDCAR2CAR 	Marion Police Car to Car 	FMN 	Law Tac 
+154.13000 	159.31500  	WNKM761 	RM	131.8 PL	Marion Co Fire 	Marion County Fire 	FMN 	Fire Dispatch 
+154.17500 	159.10500  	WNKX207 	RM	131.8 PL	Marion FD 	Marion FD 	FMN 	Fire Dispatch 
+154.20500 	159.36000  	KSQ387 	RM	123.0 PL	Marion Twp FD 	Marion Twp FD 	FMN 	Fire Dispatch 
+453.02500 	458.02500  	KSQ387 	RM		MARITWP FD 	Marion Twp FD 	FMN 	Fire-Tac 
+453.10000 	   	KSQ387 	M		MARITWP FMRE 	Marion Twp FD MRE? 	FMN 	Fire-Tac 
+154.22000 	   	KTE653 	BM		SALTROCK FD 	Salt Rock Twp VFD 	FMN 	Fire-Talk 
+154.37000 	   	 	M		1STCON FIRE 	1st Consolidated Fire Department 	FMN 	Fire-Tac 
+155.28000 	   	 	M		BRFD EMS 1 	Battle Run Fire Department 	FMN 	EMS-Tac 
+155.32500 	   	 	M		BRFD EMS 2 	Battle Run Fire Department 	FMN 	EMS-Tac 
+155.28000 	   	KNCS884 	BM		MGH ER  	Marion General Hospital 	FMN 	EMS-Tac 
+155.32500 	   	KNCS884 	BM		MGH ER 	Marion General Hospital 	FMN 	EMS-Tac 
+155.34000 	   	KNCS884 	BM		MGH ER 	Marion General Hospital 	FMN 	EMS-Tac 
+155.40000 	   	KNCS884 	BM		MGH 	Marion General Hospital 	FMN 	EMS-Tac 
+155.22000 	   	WNLC277 	BM		R/M AMB 	Rural-Metro Ambulance 	FMN 	EMS-Tac 
+151.13000 	156.07500  	KFG433 	RM	CC 2TG *SL 1	MARIONCO ENG 	County Engineer 	DMR 	Public Works 
+453.32500 	458.32500  	WQGJ234 	RM		MARIONCO LG 	Marion, County of 	FMN 	Public Works 
+155.14500 	158.95500  	KSW934 	RM	1 RAN	MARION CG 	Marion City Garage (Encrypted) 	NXDNE 	Public Works 
+453.83750 	   	WPQI422 	BM		MARI MUNI AP 	Marion Municipal Airport 	FMN 	Public Works 
+153.53000 	   	WSX996 	BM		PROSPECT LG 	Prospect, Village of 	FMN 	Public Works 
+154.98000 	   	KNCK649 	BM	131.8 PL	MARIONTWP LG 	Marion Twp 	FMN 	Public Works 
+155.20500 	   	KNAD771 	BM		RIVER VAL SD 	River Valley Schools 	FMN 	Schools 
+451.03750 	456.03750  	WPNX443 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+464.05000 	469.05000  	WPKG495 	RM	203.5 PL	OSUM MAINT 	Ohio State University Marion - Maintenance 	FMN 	Schools 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Marion City Schools	 DMR Conventional Networked	 Marion	Marion County	 LTR Standard	 Marion
+Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	POET Biorefining	 DMR Conventional Networked	 Marion
+Union Tank Car	 DMR Conventional Networked	 Marion	Wenigs, Inc.	 DMR Conventional Networked	 Marion	

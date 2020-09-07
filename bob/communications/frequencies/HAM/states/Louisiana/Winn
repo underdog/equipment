@@ -1,18 +1,18 @@
-155.73000 	WQH724 	RM	162.2 PL	WINN SO 1 	Sheriff - VHF Dispatch 	FMN 	Law Dispatch 
-155.53500 	WQH724 	RM		WINN SO 2 	Sheriff - VHF Secondary 	FMN 	Law Tac 
-155.91000 	WQH724 	M		WINN SO 14 	Sheriff - Car to Car 	FMN 	Law Talk 
-156.10500 	WPUC293 	RM		AEMS-DISP 	Advanced EMS 	FMN 	EMS Dispatch 
-155.38500 	WPPE548 	RM		MEDX-DISP 	Med Express EMS 	FMN 	EMS Dispatch 
-156.22500 	KNAT826 	RM	123.0 PL	WINN-ROAD 1 	Parish Roads 1 	FMN 	Public Works 
-156.01500 	KNAT826 	BM	123.0 PL	WINN ROAD 2 	Parish Roads 2 	FMN 	Public Works 
-155.23500 	WPOX340 	RM	79.7 PL	WPFD3-WNFLD 	Winnfield Tower 	FMN 	Fire Dispatch 
-155.23500 	WPOX340 	RM	79.7 PL	WPFD3-CCA 	CCA Tower 	FMN 	Fire Dispatch 
-155.23500 	WPOX340 	RM	79.7 PL	WPFD3-SIKES 	Sikes Tower 	FMN 	Fire Dispatch 
-155.23500 	WPOX340 	RM	79.7 PL	WPFD3-MILL 	Brewton's Mill Tower 	FMN 	Fire Dispatch 
-155.23500 	WPOX340 	RM		WPFD3-PW 	Parishwide 	FMN 	Fire Dispatch 
-159.04500 	KDE214 	RM	703 DPL	WFD-DISP 	Fire - VHF Dispatch 	FM 	Fire Dispatch 
-154.28000 	KDE214 	BM		WFD-2 	Fire - Secondary/Interop 	FM 	Fire-Tac 
-159.04500 	KDE214 	M		WFD-3 	Fire - Fireground 	FM 	Fire-Tac 
-155.68500 	WPZZ201 	RM	136.5 PL	WPD-DISP 	Police - VHF Dispatch 	FM 	Law Dispatch 
-158.82000 	 	RM	127.3 PL	WDPW 	Utilities (Unlicensed) 	FM 	Public Works 
-Entergy 	 Project 25 Phase II	 Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	
+155.73000 	155.91000  	WQH724 	RM	162.2 PL	WINN SO 1 	Sheriff - VHF Dispatch 	FMN 	Law Dispatch 
+155.53500 	151.48250  	WQH724 	RM		WINN SO 2 	Sheriff - VHF Secondary 	FMN 	Law Tac 
+155.91000 	   	WQH724 	M		WINN SO 14 	Sheriff - Car to Car 	FMN 	Law Talk 
+156.10500 	151.07000  	WPUC293 	RM		AEMS-DISP 	Advanced EMS 	FMN 	EMS Dispatch 
+155.38500 	159.00000  	WPPE548 	RM		MEDX-DISP 	Med Express EMS 	FMN 	EMS Dispatch 
+156.22500 	154.04000  	KNAT826 	RM	123.0 PL	WINN-ROAD 1 	Parish Roads 1 	FMN 	Public Works 
+156.01500 	   	KNAT826 	BM	123.0 PL	WINN ROAD 2 	Parish Roads 2 	FMN 	Public Works 
+155.23500 	154.01000  	WPOX340 	RM	79.7 PL	WPFD3-WNFLD 	Winnfield Tower 	FMN 	Fire Dispatch 
+155.23500 	154.01000  	WPOX340 	RM	79.7 PL	WPFD3-CCA 	CCA Tower 	FMN 	Fire Dispatch 
+155.23500 	151.05500  	WPOX340 	RM	79.7 PL	WPFD3-SIKES 	Sikes Tower 	FMN 	Fire Dispatch 
+155.23500 	151.05500  	WPOX340 	RM	79.7 PL	WPFD3-MILL 	Brewton's Mill Tower 	FMN 	Fire Dispatch 
+155.23500 	151.31000  	WPOX340 	RM		WPFD3-PW 	Parishwide 	FMN 	Fire Dispatch 
+159.04500 	154.13000  	KDE214 	RM	703 DPL	WFD-DISP 	Fire - VHF Dispatch 	FM 	Fire Dispatch 
+154.28000 	   	KDE214 	BM		WFD-2 	Fire - Secondary/Interop 	FM 	Fire-Tac 
+159.04500 	   	KDE214 	M		WFD-3 	Fire - Fireground 	FM 	Fire-Tac 
+155.68500 	154.74000  	WPZZ201 	RM	136.5 PL	WPD-DISP 	Police - VHF Dispatch 	FM 	Law Dispatch 
+158.82000 	153.81500  	 	RM	127.3 PL	WDPW 	Utilities (Unlicensed) 	FM 	Public Works 
+Entergy 	 Project 25 Phase II	 Various	

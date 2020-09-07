@@ -1,59 +1,59 @@
-453.50000 	KNCG425 	RM	131.8 PL	FCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-453.18750 	KNCG425 	RM		FCSO TAC 	Sheriff Tac 	FMN 	Law Tac 
-460.27500 	WPMT948 	RM	131.8 PL	FC Jail 	County Jail 	FMN 	Corrections 
-853.35000 	WQPU509 	BM	F17 NAC	FC Jail 	County Jail 	P25 	Corrections 
-769.08125 	WQQF492 	RM		700 PAC R/T 	Vehicular Repeater 	FMN 	Law Talk 
-770.03125 	WQQF492 	BM		700 PAC R/T 	Vehicular Repeater 	FMN 	Law Talk 
-453.70000 	KNCG426 	RM	131.8 PL	FCPD Disp 	Police Dispatch 	FMN 	Law Dispatch 
-460.33750 	WQNE480  	RM		FCPD 3375 	Police 	FMN 	Law Talk 
-154.37000 	KRL288 	RM	141.3 PL	FCFD/EMS 	Fire / EMS Dispatch 	FMN 	Fire Dispatch 
-154.35500 	KD37369 	M		FCFD 3550 	Fire 	FMN 	Fire-Tac 
-154.34000 	 	RM		FCFD 3400 	Fire  NOT LICENSED 	FMN 	Fire-Tac 
-452.25000 	WPMT477 	RM	243 DPL	FMC EMS 1 	Floyd Medical Center EMS - 1 	FMN 	EMS Dispatch 
-452.32500 	WPMT477 	RM		FMC EMS 2 	Floyd Medical Center EMS - 2 	FMN 	EMS-Tac 
-45.16000 	WNDK515  	BM		FCEMA Lo 	Emergency Management Agency 	FMN 	Emergency Ops 
-451.11250 	WPVL551  	BM		FC H2O Tele 	Water Department Telemetry 	Telm 	Data 
-453.20000 	WQBN726 	RM	131.8 PL	FC PW 	Public Works 	FMN 	Public Works 
-453.35000 	WPSJ241 	RM	205 DPL	FC Animal 	Animal Control 	FMN 	Public Works 
-451.95000 	WPQK374 	RM		FCBOE Buses 	Board of Education - School Buses 	DMR 	Schools 
-452.22500 	WPQK374 	RM		FCBOE Buses 	Board of Education - School Buses 	DMR 	Schools 
-452.72500 	WPQK374 	RM		FCBOE Buses 	Board of Education - School Buses 	DMR 	Schools 
-451.38750 	WQSA385  	BM		FC BOE 3875 	Board of Education 	FMN 	Schools 
-451.46250 	WQSA385  	BM		FCBOE 4625 	Board of Education 	FMN 	Schools 
-452.48750 	WQSA385  	BM		FCBOE 4875 	Board of Education 	FMN 	Schools 
-452.68750 	WQSA385  	BM		FCBOE 6875 	Board of Education 	FMN 	Schools 
-456.38750 	WQSA385  	BM		FCBOE 3875 	Board of Education 	FMN 	Schools 
-155.08500 	WPXD408 	BM	103.5 PL	CSPD/FD Disp 	Police and Fire Departments 	FMN 	Multi-Dispatch 
-154.19000 	WPXD408 	BM		CSFD Disp 	Fire Department 	FMN 	Fire Dispatch 
-154.05500 	WXP689 	BM	103.5 PL	CS Pub Works 	Public Works 	FMN 	Public Works 
-451.87500 	WQLI591 	BM		CS H2O 	Water Department 	FMN 	Utilities 
-460.17500 	WPFZ363 	RM		MB 1750 	Local Government 	FMN 	Other 
-460.25000 	WPFZ363 	RM		MB 2500 	Local Government 	FMN 	Other 
-460.38750 	WPFZ363 	RM		MB 3875 	Local Government  	FMN 	Other 
-460.57500 	WPFZ363 	RM		MB 5250 	Local Government 	FMN 	Other 
-151.09250 	WPTZ995 	RM	703 DPL	REMS Disp 	Redmond EMS Dispatch 	FM 	EMS Dispatch 
-158.85000 	KIC242 	RM	141.3 PL	RPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-155.70000 	KIC242 	RM	127.3 PL	RPD TAC 2 	Police Tac 2 	FMN 	Law Tac 
-155.83500 	KJD316 	RM	141.3 PL	RPD TAC 3 	Police Tac 3 / Public Works 	FMN 	Law Tac 
-155.47500 	 	RM		RPD TAC 5 	Police Tac 5 	FMN 	Law Tac 
-154.74000 	 	RM		RPD ALT 	Police Alternate  NOT LICENSED 	FMN 	Law Tac 
-154.35500 	KD37369 	BM		RFD 3550 	Fire Department 	FMN 	Fire-Talk 
-154.37000 	KRL288  	BM		RFD 3700 	Fire Department 	FMN 	Fire-Talk 
-153.39500 	KNNG245 	RM	141.3 PL	R Loc Gov 	City Government 	FMN 	Public Works 
-154.96500 	WNPA794  	BM		R H2O  	Water Department 	FMN 	Utilities 
-159.13500 	WOGQ216 	RM	244 DPL	R Housing 	Housing Authority 	FMN 	Public Works 
-453.90000 	WPGQ214 	RM	192.8 PL	R Rec Auth 	Recreation Authority 	FMN 	Public Works 
-153.90500 	WFR381 	BM		R Loc Gov 	Local Government 	FMN 	Other 
-460.45000 	WPQD239 	RM		R Loc Gov 	Local Government 	FMN 	Other 
-453.77500 	WPXP567 	BM		R Loc Gov 	Local Government 	FMN 	Other 
-467.83750 	WPFY871 	BM		Stonebridge 	Stonebridge Golf Club (City Owned) 	FMN 	Other 
-152.33750 	WQFQ361 	RM		Rome HS 	Board of Education - Rome High School 	FMN 	Schools 
-464.65000 	WSG603 	RM		RBOE Buses 	Board of Education - School Buses 	FMN 	Schools 
-769.08125 	WQQF492 	M		Mob Relay1 	Vehicular Repeater - Mobile Relay 1 	P25 	Other 
-770.03125 	WQQF492 	M		Mob Relay2 	Vehicular Repeater - Mobile Relay 2 	P25 	Other 
-852.61250 	WQPU509 	RM		Prison 	Prison 	P25 	Corrections 
-852.76250 	WPUP754 	RM		Rome H2O 	Water Department - Telemetry 	Telm 	Data 
-853.35000 	WQPU509 	RM		Jail DC 	Jail (Detention Center)  	P25 	Corrections 
-855.28750 	WNSK561 	RM		Floyd MC 	Floyd Medical Center 	DMR 	Hospital 
-855.96250 	KNCD412 	RM	245 DPL	Rome Bus 	Rome Transit Department 	FM 	Transportation 
+453.50000 	458.50000  	KNCG425 	RM	131.8 PL	FCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+453.18750 	458.18750  	KNCG425 	RM		FCSO TAC 	Sheriff Tac 	FMN 	Law Tac 
+460.27500 	465.27500  	WPMT948 	RM	131.8 PL	FC Jail 	County Jail 	FMN 	Corrections 
+853.35000 	808.35000  	WQPU509 	BM	F17 NAC	FC Jail 	County Jail 	P25 	Corrections 
+769.08125 	799.08125  	WQQF492 	RM		700 PAC R/T 	Vehicular Repeater 	FMN 	Law Talk 
+770.03125 	   	WQQF492 	BM		700 PAC R/T 	Vehicular Repeater 	FMN 	Law Talk 
+453.70000 	458.70000  	KNCG426 	RM	131.8 PL	FCPD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+460.33750 	465.33750  	WQNE480  	RM		FCPD 3375 	Police 	FMN 	Law Talk 
+154.37000 	153.77000  	KRL288 	RM	141.3 PL	FCFD/EMS 	Fire / EMS Dispatch 	FMN 	Fire Dispatch 
+154.35500 	   	KD37369 	M		FCFD 3550 	Fire 	FMN 	Fire-Tac 
+154.34000 	   	 	RM		FCFD 3400 	Fire  NOT LICENSED 	FMN 	Fire-Tac 
+452.25000 	457.25000  	WPMT477 	RM	243 DPL	FMC EMS 1 	Floyd Medical Center EMS - 1 	FMN 	EMS Dispatch 
+452.32500 	457.32500  	WPMT477 	RM		FMC EMS 2 	Floyd Medical Center EMS - 2 	FMN 	EMS-Tac 
+45.16000 	   	WNDK515  	BM		FCEMA Lo 	Emergency Management Agency 	FMN 	Emergency Ops 
+451.11250 	   	WPVL551  	BM		FC H2O Tele 	Water Department Telemetry 	Telm 	Data 
+453.20000 	458.20000  	WQBN726 	RM	131.8 PL	FC PW 	Public Works 	FMN 	Public Works 
+453.35000 	458.35000  	WPSJ241 	RM	205 DPL	FC Animal 	Animal Control 	FMN 	Public Works 
+451.95000 	456.95000  	WPQK374 	RM		FCBOE Buses 	Board of Education - School Buses 	DMR 	Schools 
+452.22500 	457.22500  	WPQK374 	RM		FCBOE Buses 	Board of Education - School Buses 	DMR 	Schools 
+452.72500 	457.72500  	WPQK374 	RM		FCBOE Buses 	Board of Education - School Buses 	DMR 	Schools 
+451.38750 	   	WQSA385  	BM		FC BOE 3875 	Board of Education 	FMN 	Schools 
+451.46250 	   	WQSA385  	BM		FCBOE 4625 	Board of Education 	FMN 	Schools 
+452.48750 	   	WQSA385  	BM		FCBOE 4875 	Board of Education 	FMN 	Schools 
+452.68750 	   	WQSA385  	BM		FCBOE 6875 	Board of Education 	FMN 	Schools 
+456.38750 	   	WQSA385  	BM		FCBOE 3875 	Board of Education 	FMN 	Schools 
+155.08500 	   	WPXD408 	BM	103.5 PL	CSPD/FD Disp 	Police and Fire Departments 	FMN 	Multi-Dispatch 
+154.19000 	   	WPXD408 	BM		CSFD Disp 	Fire Department 	FMN 	Fire Dispatch 
+154.05500 	   	WXP689 	BM	103.5 PL	CS Pub Works 	Public Works 	FMN 	Public Works 
+451.87500 	   	WQLI591 	BM		CS H2O 	Water Department 	FMN 	Utilities 
+460.17500 	465.17500  	WPFZ363 	RM		MB 1750 	Local Government 	FMN 	Other 
+460.25000 	465.25000  	WPFZ363 	RM		MB 2500 	Local Government 	FMN 	Other 
+460.38750 	465.38750  	WPFZ363 	RM		MB 3875 	Local Government  	FMN 	Other 
+460.57500 	465.57500  	WPFZ363 	RM		MB 5250 	Local Government 	FMN 	Other 
+151.09250 	156.17250  	WPTZ995 	RM	703 DPL	REMS Disp 	Redmond EMS Dispatch 	FM 	EMS Dispatch 
+158.85000 	154.71000  	KIC242 	RM	141.3 PL	RPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+155.70000 	154.77000  	KIC242 	RM	127.3 PL	RPD TAC 2 	Police Tac 2 	FMN 	Law Tac 
+155.83500 	153.90500  	KJD316 	RM	141.3 PL	RPD TAC 3 	Police Tac 3 / Public Works 	FMN 	Law Tac 
+155.47500 	   	 	RM		RPD TAC 5 	Police Tac 5 	FMN 	Law Tac 
+154.74000 	   	 	RM		RPD ALT 	Police Alternate  NOT LICENSED 	FMN 	Law Tac 
+154.35500 	   	KD37369 	BM		RFD 3550 	Fire Department 	FMN 	Fire-Talk 
+154.37000 	   	KRL288  	BM		RFD 3700 	Fire Department 	FMN 	Fire-Talk 
+153.39500 	159.66000  	KNNG245 	RM	141.3 PL	R Loc Gov 	City Government 	FMN 	Public Works 
+154.96500 	   	WNPA794  	BM		R H2O  	Water Department 	FMN 	Utilities 
+159.13500 	160.06500  	WOGQ216 	RM	244 DPL	R Housing 	Housing Authority 	FMN 	Public Works 
+453.90000 	458.90000  	WPGQ214 	RM	192.8 PL	R Rec Auth 	Recreation Authority 	FMN 	Public Works 
+153.90500 	   	WFR381 	BM		R Loc Gov 	Local Government 	FMN 	Other 
+460.45000 	465.45000  	WPQD239 	RM		R Loc Gov 	Local Government 	FMN 	Other 
+453.77500 	   	WPXP567 	BM		R Loc Gov 	Local Government 	FMN 	Other 
+467.83750 	   	WPFY871 	BM		Stonebridge 	Stonebridge Golf Club (City Owned) 	FMN 	Other 
+152.33750 	157.59750  	WQFQ361 	RM		Rome HS 	Board of Education - Rome High School 	FMN 	Schools 
+464.65000 	   	WSG603 	RM		RBOE Buses 	Board of Education - School Buses 	FMN 	Schools 
+769.08125 	799.08125  	WQQF492 	M		Mob Relay1 	Vehicular Repeater - Mobile Relay 1 	P25 	Other 
+770.03125 	800.03125  	WQQF492 	M		Mob Relay2 	Vehicular Repeater - Mobile Relay 2 	P25 	Other 
+852.61250 	807.61250  	WQPU509 	RM		Prison 	Prison 	P25 	Corrections 
+852.76250 	807.76250  	WPUP754 	RM		Rome H2O 	Water Department - Telemetry 	Telm 	Data 
+853.35000 	808.35000  	WQPU509 	RM		Jail DC 	Jail (Detention Center)  	P25 	Corrections 
+855.28750 	810.28750  	WNSK561 	RM		Floyd MC 	Floyd Medical Center 	DMR 	Hospital 
+855.96250 	810.96250  	KNCD412 	RM	245 DPL	Rome Bus 	Rome Transit Department 	FM 	Transportation 
 Floyd County	 Project 25 Phase I	 Rome	Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800	 Various	

@@ -1,14 +1,13 @@
-154.86000 	WNWT797 	BM	103.5 PL	SHRF DISP 	Sheriff Dispatch 	FM 	Law Dispatch 
-155.56500 	KSB329 	BM		CNTY JAILVHF 	Jail - VHF Frequency 	FM 	Law Talk 
-154.37000 	WXL702 	B	127.3 PL	CNTY FIRE D 	Fire/EMS Dispatch 	FM 	Fire Dispatch 
-769.00625 	WQPT256 	RM		CNTY FD700 	Fire - Mobile Repeater 	FM 	Fire-Tac 
-155.02500 	KMB636 	BM		AdamCntyEMA 	EMA 	FM 	Emergency Ops 
-151.05500 	KSI356 	RM	127.3 PL	AdamCntyHwy 	Highway Dept. 	FM 	Public Works 
-155.65500 	KUF583 	RM	114 DPL	DpdDispatch 	Police Dispatch 	FM 	Law Dispatch 
-155.73000 	KUF583 	BM		DpdPrimary 	Police Primary 	FM 	Law Tac 
-155.49000 	KUF583 	BM		DpdSecondary 	Police Secondary 	FM 	Law Tac 
-154.10000 	KCW712 	BM		DecaturUtil 	Utilities 	FM 	Public Works 
-152.33000 	WNUY289 	BM		N Adams Bus  	Buses 	DMR 	Transportation 
-155.17500 	KFR805 	BM		S Adams Bus 	Buses 	FM 	Transportation 
-American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3
- Multiple	
+154.86000 	   	WNWT797 	BM	103.5 PL	SHRF DISP 	Sheriff Dispatch 	FM 	Law Dispatch 
+155.56500 	   	KSB329 	BM		CNTY JAILVHF 	Jail - VHF Frequency 	FM 	Law Talk 
+154.37000 	   	WXL702 	B	127.3 PL	CNTY FIRE D 	Fire/EMS Dispatch 	FM 	Fire Dispatch 
+769.00625 	799.00625  	WQPT256 	RM		CNTY FD700 	Fire - Mobile Repeater 	FM 	Fire-Tac 
+155.02500 	   	KMB636 	BM		AdamCntyEMA 	EMA 	FM 	Emergency Ops 
+151.05500 	159.01500  	KSI356 	RM	127.3 PL	AdamCntyHwy 	Highway Dept. 	FM 	Public Works 
+155.65500 	   	KUF583 	RM	114 DPL	DpdDispatch 	Police Dispatch 	FM 	Law Dispatch 
+155.73000 	   	KUF583 	BM		DpdPrimary 	Police Primary 	FM 	Law Tac 
+155.49000 	   	KUF583 	BM		DpdSecondary 	Police Secondary 	FM 	Law Tac 
+154.10000 	   	KCW712 	BM		DecaturUtil 	Utilities 	FM 	Public Works 
+152.33000 	   	WNUY289 	BM		N Adams Bus  	Buses 	DMR 	Transportation 
+155.17500 	   	KFR805 	BM		S Adams Bus 	Buses 	FM 	Transportation 
+American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	

@@ -1,35 +1,35 @@
-155.49000 	KQE658 	RM	1 RAN	HCSO Disp 	Huron County Sheriff Dispatch 	NXDN 	Law Dispatch 
-154.81500 	KQE658 	RM	162.2 PL	HCSO Jail 	Huron County Jail 	FMN 	Corrections 
-151.23500 	KQA455 	RM		Willard PD 	Willard Police Dispatch 	NXDN 	Law Dispatch 
-155.01000 	KNBI612 	RM	127.3 PL	Bellevue PD 	Bellevue Police Dispatch 	FMN 	Law Dispatch 
-155.06250 	WPQE378 	RM		Plymouth PD 	Plymouth Police Dispatch 	FMN 	Law Dispatch 
-155.31000 	WQAG237 	RM	136.5 PL	NewLondon PD 	New London Police Dispatch 	FMN 	Law Dispatch 
-155.56500 	WQOM872 	RM	445 DPL	Norwalk PD 	Norwalk Police Dispatch 	FMN 	Law Dispatch 
-155.70750 	KQB724 	RM	146.2 PL	MonrovillePD 	Monroeville PD Dispatch 	FMN 	Law Dispatch 
-46.06000 	WNQS527 	BM	CSQ	HuronCo Fire 	County Fire Dispatch 	FMN 	Fire Dispatch 
-151.07750 	WQBG758 	RM		NFAIR FDISP 	North Fairfield Fire Department 	FMN 	Fire Dispatch 
-154.22000 	WPXC651 	RM	186.2 PL	TRI-COM Fire 	Tri Community Joint Fire Dist Dispatch 	FMN 	Fire Dispatch 
-154.26500 	WNQS527 	BM	77.0 PL	HRIVER FDISP 	Huron River Fire Dispatch 	FMN 	Fire Dispatch 
-154.29500 	KDN490 	RM	306 DPL	WILLFD DISP 	Willard Fire Dispatch 	FMN 	Fire Dispatch 
-154.31000 	WNGC929 	RM	85.4 PL	TWNTWP FDISP 	Townsend Twp Fire Dispatch 	FMN 	Fire Dispatch 
-154.37000 	WNVE204 	RM	123.0 PL	WakemanFDisp 	Wakeman Fire Dispatch 	FMN 	Fire Dispatch 
-155.11500 	KSM916 	RM	127.3 PL	BELLV FDISP 	Bellvue Fire Dispatch 	FMN 	Fire Dispatch 
-158.75250 	WPXF783 	RM	146.2 PL	NLOND FDISP 	New London Fire Department 	FMN 	Fire Dispatch 
-151.28750 	WQNV785 	RM	245 DPL	NorwalkFDisp 	Norwalk Fire Dispatch 	FMN 	Fire Dispatch 
-460.62500 	KNAK311 	RM	103.5 PL	NorwalkFDisp 	Norwalk Fire Dispatch 	FMN 	Fire Dispatch 
-458.17500 	KNAK311 	M	103.5 PL	NorwalkFD FG 	Norwalk Fire Dept - fireground 	FMN 	Fire-Tac 
-458.78750 	KNAK311 	M		NorwalkFD VR 	Norwalk Fire Dept - vehicular repeater 	FMN 	Fire-Talk 
-463.72500 	WPZK451 	RM	186.2 PL	NCEMS DISP 	North Central EMS - Dispatch 	FMN 	EMS Dispatch 
-154.51500 	WQQR733 	BM	77.0 PL	NCEMS AMBLT 	North Central EMS - Ambulette 	FMN 	EMS-Tac 
-453.73750 	 	RM	CSQ	NCEMS MDTs 	North Central EMS MDTs 	FMN 	Data 
-155.17500 	WQRB858 	BM	054 DPL	NCEMS TAC 	North Central EMS - TAC 	FMN 	EMS-Tac 
-151.16750 	WFF765 	RM	74.4 PL	FIRELND AMB 	Firelands Ambulance Service 	FMN 	EMS Dispatch 
-155.04750 	WQCV640 	RM		HURON EMA 	County EMA 	FMN 	Emergency Ops 
-154.04000 	WNYM665 	RM		HURON DPW 	Huron County DPW 	FMN 	Public Works 
-154.11500 	WQAE794 	RM		NLOND DPW 	New London DPW 	FMN 	Public Works 
-156.19500 	KQE670 	RM		HURON DPW 	Huron County DPW 	FMN 	Public Works 
-453.55000 	KNJX801 	BM	110.9 PL	NorwalkWater 	Norwalk Water Dept 	FMN 	Public Works 
-461.07500 	WNAH895 	RM	043 DPL	WILLARD SCH 	Willard City Schools 	FMN 	Schools 
-451.03750 	WPPH787 	RM	121 NAC	COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I
- Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	
+155.49000 	153.87500  	KQE658 	RM	1 RAN	HCSO Disp 	Huron County Sheriff Dispatch 	NXDN 	Law Dispatch 
+154.81500 	158.92500  	KQE658 	RM	162.2 PL	HCSO Jail 	Huron County Jail 	FMN 	Corrections 
+151.23500 	159.34500  	KQA455 	RM		Willard PD 	Willard Police Dispatch 	NXDN 	Law Dispatch 
+155.01000 	158.79000  	KNBI612 	RM	127.3 PL	Bellevue PD 	Bellevue Police Dispatch 	FMN 	Law Dispatch 
+155.06250 	158.87250  	WPQE378 	RM		Plymouth PD 	Plymouth Police Dispatch 	FMN 	Law Dispatch 
+155.31000 	153.99500  	WQAG237 	RM	136.5 PL	NewLondon PD 	New London Police Dispatch 	FMN 	Law Dispatch 
+155.56500 	153.95000  	WQOM872 	RM	445 DPL	Norwalk PD 	Norwalk Police Dispatch 	FMN 	Law Dispatch 
+155.70750 	153.76250  	KQB724 	RM	146.2 PL	MonrovillePD 	Monroeville PD Dispatch 	FMN 	Law Dispatch 
+46.06000 	   	WNQS527 	BM	CSQ	HuronCo Fire 	County Fire Dispatch 	FMN 	Fire Dispatch 
+151.07750 	153.74750  	WQBG758 	RM		NFAIR FDISP 	North Fairfield Fire Department 	FMN 	Fire Dispatch 
+154.22000 	159.28500  	WPXC651 	RM	186.2 PL	TRI-COM Fire 	Tri Community Joint Fire Dist Dispatch 	FMN 	Fire Dispatch 
+154.26500 	   	WNQS527 	BM	77.0 PL	HRIVER FDISP 	Huron River Fire Dispatch 	FMN 	Fire Dispatch 
+154.29500 	159.42000  	KDN490 	RM	306 DPL	WILLFD DISP 	Willard Fire Dispatch 	FMN 	Fire Dispatch 
+154.31000 	151.14500  	WNGC929 	RM	85.4 PL	TWNTWP FDISP 	Townsend Twp Fire Dispatch 	FMN 	Fire Dispatch 
+154.37000 	154.01000  	WNVE204 	RM	123.0 PL	WakemanFDisp 	Wakeman Fire Dispatch 	FMN 	Fire Dispatch 
+155.11500 	153.78500  	KSM916 	RM	127.3 PL	BELLV FDISP 	Bellvue Fire Dispatch 	FMN 	Fire Dispatch 
+158.75250 	154.85250  	WPXF783 	RM	146.2 PL	NLOND FDISP 	New London Fire Department 	FMN 	Fire Dispatch 
+151.28750 	156.08250  	WQNV785 	RM	245 DPL	NorwalkFDisp 	Norwalk Fire Dispatch 	FMN 	Fire Dispatch 
+460.62500 	465.62500  	KNAK311 	RM	103.5 PL	NorwalkFDisp 	Norwalk Fire Dispatch 	FMN 	Fire Dispatch 
+458.17500 	   	KNAK311 	M	103.5 PL	NorwalkFD FG 	Norwalk Fire Dept - fireground 	FMN 	Fire-Tac 
+458.78750 	   	KNAK311 	M		NorwalkFD VR 	Norwalk Fire Dept - vehicular repeater 	FMN 	Fire-Talk 
+463.72500 	468.72500  	WPZK451 	RM	186.2 PL	NCEMS DISP 	North Central EMS - Dispatch 	FMN 	EMS Dispatch 
+154.51500 	   	WQQR733 	BM	77.0 PL	NCEMS AMBLT 	North Central EMS - Ambulette 	FMN 	EMS-Tac 
+453.73750 	458.73750  	 	RM	CSQ	NCEMS MDTs 	North Central EMS MDTs 	FMN 	Data 
+155.17500 	   	WQRB858 	BM	054 DPL	NCEMS TAC 	North Central EMS - TAC 	FMN 	EMS-Tac 
+151.16750 	159.30750  	WFF765 	RM	74.4 PL	FIRELND AMB 	Firelands Ambulance Service 	FMN 	EMS Dispatch 
+155.04750 	159.09750  	WQCV640 	RM		HURON EMA 	County EMA 	FMN 	Emergency Ops 
+154.04000 	158.88000  	WNYM665 	RM		HURON DPW 	Huron County DPW 	FMN 	Public Works 
+154.11500 	153.80000  	WQAE794 	RM		NLOND DPW 	New London DPW 	FMN 	Public Works 
+156.19500 	159.01500  	KQE670 	RM		HURON DPW 	Huron County DPW 	FMN 	Public Works 
+453.55000 	   	KNJX801 	BM	110.9 PL	NorwalkWater 	Norwalk Water Dept 	FMN 	Public Works 
+461.07500 	466.07500  	WNAH895 	RM	043 DPL	WILLARD SCH 	Willard City Schools 	FMN 	Schools 
+451.03750 	456.03750  	WPPH787 	RM	121 NAC	COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide
+Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	

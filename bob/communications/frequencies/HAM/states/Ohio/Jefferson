@@ -1,29 +1,28 @@
-853.48750 	WPGX742 	M	156.7 PL	Local 	Trunked System talk-around 	FM 	Interop 
-452.55000 	WPHR563 	B	CSQ	JC911 Paging 	Paging 	FM 	Fire Dispatch 
-155.35500 	KTT827 	BM	156.7 PL	EMS-Trinity 	EMS to Trinity Medical Center 	FM 	Hospital 
-155.40000 	 	BM	CSQ	JC911 LZ Ops 	Landing Zone Ops 	FM 	Fire-Tac 
-45.80000 	WNFY313 	BM		Wells Twp PW 	Wells Twp Roads 	FM 	Public Works 
-464.12500 	WNWW982 	RM	205 DPL	MtPlsntTwpPW 	Mt Pleasant Twp Roads 	FM 	Public Works 
-464.12500 	WNWW982 	RM	103.5 PL	SmthfldTwpPW 	Smithfield Twp Roads 	FM 	Public Works 
-151.07000 	KRT942 	RM	13 RAN	JeffCo Eng 	Jefferson Co Engineer (nxdn48) 	NXDN 	Public Works 
-155.31000 	WQNQ363 	RM	69.3 PL	SalineTwp PW 	Saline Twp Roads/Local Interop (new) 	FMN 	Public Works 
-453.15000 	WNCL976 	RM	71.9 PL	CrossCrkDPW 	Cross Creek Twp DPW (plows / streets) 	FM 	Public Works 
-454.45000 	 	RM	123.0 PL	IslandCrk PW 	Island Creek Twp Roads 	FMN 	Public Works 
-461.90000 	 	RM	186.2 PL	SVRTA 	Steel Valley Regional Transit 	FM 	Transportation 
-154.32500 	KDD973 	RM		Mingo PW 	Public Works / Private 	DMR 	Public Works 
-154.11500 	KFM477 	RM	100.0 PL	Stbnvle PW 	Street Department 	FM 	Public Works 
-159.24000 	KRG728 	RM	CC 1TG 1SL 1	ASI TRBO 	Ambulance Service Inc (group 1) 	DMR 	EMS Dispatch 
-460.22500 	WNQM783 	RM	506 DPL	Toronto LG 	Local Govt 	FM 	Public Works 
-155.26500 	KQL934 	BM	103.5 PL	STAT MedEvac 	Dispatch 	FM 	EMS Dispatch 
-464.12500 	WNWW982 	RM	131 DPL	Buckeye LSD 	Buses 	FMN 	Schools 
-464.75000 	WPEJ812 	RM	10 RAN	EdisonSchls 	Buses 	NXDN 	Schools 
-461.20000 	WPSF781 	RM	CC 3TG 12SL 1	SteubCitySch 	Buses 	DMR 	Schools 
-462.56250 	 	BM		TorontoSch 	Toronto Buses 	FMN 	Schools 
-451.32500 	WPQG509 	RM	032 DPL	FUS Traffic 	Traffic Control / Parking 	FMN 	Schools 
-461.61250 	WQHA325 	RM		FUS Events 	Events 	FMN 	Schools 
-463.41250 	WQHA325 	RM	627 DPL	FUS Hsptlty 	Transportation / Hospitality 	FMN 	Schools 
-464.42500 	WNWM415 	RM	432 DPL	FUS Maint 	Maintenance / Physical Plant 	FMN 	Schools 
-464.77500 	WPVX844 	RM	244 DPL	FUS Security 	Campus Security 	FMN 	Security 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Chesapeake Energy	 DMR Conventional Networked	 various	First Energy - Sammis Plant	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Stratton	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649
- Project 25 Phase I	 Statewide	
+853.48750 	   	WPGX742 	M	156.7 PL	Local 	Trunked System talk-around 	FM 	Interop 
+452.55000 	   	WPHR563 	B	CSQ	JC911 Paging 	Paging 	FM 	Fire Dispatch 
+155.35500 	   	KTT827 	BM	156.7 PL	EMS-Trinity 	EMS to Trinity Medical Center 	FM 	Hospital 
+155.40000 	   	 	BM	CSQ	JC911 LZ Ops 	Landing Zone Ops 	FM 	Fire-Tac 
+45.80000 	   	WNFY313 	BM		Wells Twp PW 	Wells Twp Roads 	FM 	Public Works 
+464.12500 	469.12500  	WNWW982 	RM	205 DPL	MtPlsntTwpPW 	Mt Pleasant Twp Roads 	FM 	Public Works 
+464.12500 	469.12500  	WNWW982 	RM	103.5 PL	SmthfldTwpPW 	Smithfield Twp Roads 	FM 	Public Works 
+151.07000 	156.07500  	KRT942 	RM	13 RAN	JeffCo Eng 	Jefferson Co Engineer (nxdn48) 	NXDN 	Public Works 
+155.31000 	153.84500  	WQNQ363 	RM	69.3 PL	SalineTwp PW 	Saline Twp Roads/Local Interop (new) 	FMN 	Public Works 
+453.15000 	458.15000  	WNCL976 	RM	71.9 PL	CrossCrkDPW 	Cross Creek Twp DPW (plows / streets) 	FM 	Public Works 
+454.45000 	459.45000  	 	RM	123.0 PL	IslandCrk PW 	Island Creek Twp Roads 	FMN 	Public Works 
+461.90000 	466.90000  	 	RM	186.2 PL	SVRTA 	Steel Valley Regional Transit 	FM 	Transportation 
+154.32500 	154.01000  	KDD973 	RM		Mingo PW 	Public Works / Private 	DMR 	Public Works 
+154.11500 	153.75500  	KFM477 	RM	100.0 PL	Stbnvle PW 	Street Department 	FM 	Public Works 
+159.24000 	154.65000  	KRG728 	RM	CC 1TG 1SL 1	ASI TRBO 	Ambulance Service Inc (group 1) 	DMR 	EMS Dispatch 
+460.22500 	465.22500  	WNQM783 	RM	506 DPL	Toronto LG 	Local Govt 	FM 	Public Works 
+155.26500 	   	KQL934 	BM	103.5 PL	STAT MedEvac 	Dispatch 	FM 	EMS Dispatch 
+464.12500 	469.12500  	WNWW982 	RM	131 DPL	Buckeye LSD 	Buses 	FMN 	Schools 
+464.75000 	469.75000  	WPEJ812 	RM	10 RAN	EdisonSchls 	Buses 	NXDN 	Schools 
+461.20000 	466.20000  	WPSF781 	RM	CC 3TG 12SL 1	SteubCitySch 	Buses 	DMR 	Schools 
+462.56250 	   	 	BM		TorontoSch 	Toronto Buses 	FMN 	Schools 
+451.32500 	456.32500  	WPQG509 	RM	032 DPL	FUS Traffic 	Traffic Control / Parking 	FMN 	Schools 
+461.61250 	466.61250  	WQHA325 	RM		FUS Events 	Events 	FMN 	Schools 
+463.41250 	468.41250  	WQHA325 	RM	627 DPL	FUS Hsptlty 	Transportation / Hospitality 	FMN 	Schools 
+464.42500 	469.42500  	WNWM415 	RM	432 DPL	FUS Maint 	Maintenance / Physical Plant 	FMN 	Schools 
+464.77500 	469.77500  	WPVX844 	RM	244 DPL	FUS Security 	Campus Security 	FMN 	Security 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Chesapeake Energy	 DMR Conventional Networked	 various	First Energy - Sammis Plant	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Stratton
+Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide

@@ -1,25 +1,24 @@
-159.15000 	WPBH661 	RM	156 DPL	Bolivar SO Jail 	Bolivar Sheriff Correctional Facility 	FM 	Corrections 
-154.44500 	KWQ687 	RM	631 DPL	Bolivar VFD 	Bolivar County VFD Dispatch 	FM 	Fire Dispatch 
-154.26500 	KIC360 	M		Bolivar FG 1 	Bolivar County Fireground 1 	FM 	Fire-Tac 
-154.28000 	KIC360 	M		Bolivar FG 2 	Bolivar County Fireground 2 	FM 	Fire-Tac 
-154.29500 	KIC360 	M		Bolivar FG 3 	Bolivar County Fireground 3 	FM 	Fire-Tac 
-154.41500 	KIC360 	M		Bolivar FG 4 	Bolivar County Fireground 4 	FM 	Fire-Tac 
-155.20500 	WQAP386 	BM		BolivarEMS 1 	Bolivar County EMS 1 	FM 	EMS Dispatch 
-453.07500 	KNNR487 	RM		BolivarEMS 2 	Bolivar County EMS 2 	FM 	EMS Dispatch 
-155.80500 	WNIA933 	RM	179.9 PL	Bolivar EMA1 	Emergency Management 1 	FM 	Emergency Ops 
-453.87500 	WPMF307 	RM		Bolivar EMA2 	Emergency Management 2 	FM 	Emergency Ops 
-855.21250 	WPNS494 	RM	361 NAC	Bolivar EMA3 	Emergency Management 3 	P25 	Emergency Ops 
-155.02500 	WAM898 	RM		Bolivar Rds 	Bolivar County Road Department 	FM 	Public Works 
-856.26250 	WQAS673 	RM		MBPD-TA 	Police Tactical/Talkaround 	FM 	Law Tac 
-155.13000 	WPKM925 	RM		CPD-VHF  	Cleveland Police Dispatch back up 	FM 	Law Dispatch 
-155.84250 	KBU282 	RM	162.2 PL	CFD-VHF 	Cleveland Fire Department VHF Tone Out 	FMN 	Fire Dispatch 
-154.11500 	KFB914 	BM		Cleveland PW 	Cleveland Public Works 	FM 	Public Works 
-155.70000 	WPLR556 	BM		Rosedale PD 	Rosedale Police 	FM 	Law Dispatch 
-460.55000 	WPHB824 	RM		Rosedale FD1 	Rosedale Fire 1 	FM 	Fire Dispatch 
-154.22000 	WNJV670 	BM		Rosedale FD2 	Rosedale Fire 2 (Old Rarely Used) 	FM 	Fire-Talk 
-453.65000 	WNNN673 	RM		Port Rosdale 	Port of Rosedale Ops 	FM 	Public Works 
-155.10000 	WQDU901 	BM		SFD-VHF 	Fire VHF 	FM 	Fire Dispatch 
-856.76250 	WQBJ723 	RM		SPD-TA 	Police Talkaround/Tactical 	FM 	Law Tac 
-155.22750 	WQIS572 	RM		PEMS/DA1 	Pafford EMS Ambulance/Delta Air One 	FMN 	EMS Dispatch 
-Bolivar County 911	 Motorola Type II SmartZone	 Cleveland	Entergy 	 Project 25 Phase II	 Various	Mississippi Wireless Integrated Network (MSWIN)	 Project 25 Phase II
- Jackson	Modern Communications	 Motorola Type II	 Greenville	
+159.15000 	154.95000  	WPBH661 	RM	156 DPL	Bolivar SO Jail 	Bolivar Sheriff Correctional Facility 	FM 	Corrections 
+154.44500 	153.77000  	KWQ687 	RM	631 DPL	Bolivar VFD 	Bolivar County VFD Dispatch 	FM 	Fire Dispatch 
+154.26500 	   	KIC360 	M		Bolivar FG 1 	Bolivar County Fireground 1 	FM 	Fire-Tac 
+154.28000 	   	KIC360 	M		Bolivar FG 2 	Bolivar County Fireground 2 	FM 	Fire-Tac 
+154.29500 	   	KIC360 	M		Bolivar FG 3 	Bolivar County Fireground 3 	FM 	Fire-Tac 
+154.41500 	   	KIC360 	M		Bolivar FG 4 	Bolivar County Fireground 4 	FM 	Fire-Tac 
+155.20500 	   	WQAP386 	BM		BolivarEMS 1 	Bolivar County EMS 1 	FM 	EMS Dispatch 
+453.07500 	458.07500  	KNNR487 	RM		BolivarEMS 2 	Bolivar County EMS 2 	FM 	EMS Dispatch 
+155.80500 	153.86000  	WNIA933 	RM	179.9 PL	Bolivar EMA1 	Emergency Management 1 	FM 	Emergency Ops 
+453.87500 	458.87500  	WPMF307 	RM		Bolivar EMA2 	Emergency Management 2 	FM 	Emergency Ops 
+855.21250 	810.21250  	WPNS494 	RM	361 NAC	Bolivar EMA3 	Emergency Management 3 	P25 	Emergency Ops 
+155.02500 	153.93500  	WAM898 	RM		Bolivar Rds 	Bolivar County Road Department 	FM 	Public Works 
+856.26250 	811.26250  	WQAS673 	RM		MBPD-TA 	Police Tactical/Talkaround 	FM 	Law Tac 
+155.13000 	158.88000  	WPKM925 	RM		CPD-VHF  	Cleveland Police Dispatch back up 	FM 	Law Dispatch 
+155.84250 	153.89000  	KBU282 	RM	162.2 PL	CFD-VHF 	Cleveland Fire Department VHF Tone Out 	FMN 	Fire Dispatch 
+154.11500 	   	KFB914 	BM		Cleveland PW 	Cleveland Public Works 	FM 	Public Works 
+155.70000 	   	WPLR556 	BM		Rosedale PD 	Rosedale Police 	FM 	Law Dispatch 
+460.55000 	465.55000  	WPHB824 	RM		Rosedale FD1 	Rosedale Fire 1 	FM 	Fire Dispatch 
+154.22000 	   	WNJV670 	BM		Rosedale FD2 	Rosedale Fire 2 (Old Rarely Used) 	FM 	Fire-Talk 
+453.65000 	458.65000  	WNNN673 	RM		Port Rosdale 	Port of Rosedale Ops 	FM 	Public Works 
+155.10000 	   	WQDU901 	BM		SFD-VHF 	Fire VHF 	FM 	Fire Dispatch 
+856.76250 	811.76250  	WQBJ723 	RM		SPD-TA 	Police Talkaround/Tactical 	FM 	Law Tac 
+155.22750 	159.00750  	WQIS572 	RM		PEMS/DA1 	Pafford EMS Ambulance/Delta Air One 	FMN 	EMS Dispatch 
+Bolivar County 911	 Motorola Type II SmartZone	 Cleveland	Entergy 	 Project 25 Phase II	 Various	Modern Communications	 Motorola Type II	 Greenville

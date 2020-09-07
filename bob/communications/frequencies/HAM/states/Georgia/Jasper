@@ -1,12 +1,12 @@
-158.85000 	WPDY523 	RM	20 RAN	JCSO Disp D 	Sheriff Dispatch - Digital 	NXDNE 	Law Dispatch 
-154.83750 	WPDY523 	BM	16 RAN	JCSO TAC D 	Sheriff Tac - Digital 	NXDNE 	Law Tac 
-158.85000 	WPDY523 	RM	151.4 PL	JCSO Disp A 	Sheriff Dispatch - Analog 	FMN 	Law Dispatch 
-155.25000 	KTL495 	BM		JCSD TAC A 	Sheriff Tac - Analog 	FMN 	Law Tac 
-154.16000 	WQN786 	RM	16 RAN	JCFD Disp D 	Fire Dispatch - Digital 	NXDN 	Fire Dispatch 
-154.16000 	WQN786 	RM	85.4 PL	JCFD Disp A 	Fire Dispatch - Analog 	FMN 	Fire Dispatch 
-155.40000 	KWF632 	RM	16 RAN	JCEMS Disp D 	EMS Dispatch - Digital 	NXDN 	EMS Dispatch 
-155.40000 	KWF632 	RM	85.4 PL	JCEMS Disp A 	EMS Dispatch - Analog 	FMN 	EMS Dispatch 
-153.86000 	WNKK916 	BM		JC Roads 	Roads Department 	FMN 	Public Works 
-463.87500 	KNNU568 	RM	346 DPL	JCBOE BUS A 	School Buses - Analog 	FMN 	Schools 
-463.87500 	KNNU568 	RM	CC 1TG *SL *	JCBOE BUS D 	School Buses - Digital 	DMR 	Schools 
-154.05500 	WNHM231 	BM		M EMA 	Emergency Management Agency 	FMN 	Emergency Ops 
+158.85000 	156.09000  	WPDY523 	RM	20 RAN	JCSO Disp D 	Sheriff Dispatch - Digital 	NXDNE 	Law Dispatch 
+154.83750 	   	WPDY523 	BM	16 RAN	JCSO TAC D 	Sheriff Tac - Digital 	NXDNE 	Law Tac 
+158.85000 	156.09000  	WPDY523 	RM	151.4 PL	JCSO Disp A 	Sheriff Dispatch - Analog 	FMN 	Law Dispatch 
+155.25000 	   	KTL495 	BM		JCSD TAC A 	Sheriff Tac - Analog 	FMN 	Law Tac 
+154.16000 	150.77500  	WQN786 	RM	16 RAN	JCFD Disp D 	Fire Dispatch - Digital 	NXDN 	Fire Dispatch 
+154.16000 	150.77500  	WQN786 	RM	85.4 PL	JCFD Disp A 	Fire Dispatch - Analog 	FMN 	Fire Dispatch 
+155.40000 	154.05500  	KWF632 	RM	16 RAN	JCEMS Disp D 	EMS Dispatch - Digital 	NXDN 	EMS Dispatch 
+155.40000 	154.05500  	KWF632 	RM	85.4 PL	JCEMS Disp A 	EMS Dispatch - Analog 	FMN 	EMS Dispatch 
+153.86000 	   	WNKK916 	BM		JC Roads 	Roads Department 	FMN 	Public Works 
+463.87500 	468.87500  	KNNU568 	RM	346 DPL	JCBOE BUS A 	School Buses - Analog 	FMN 	Schools 
+463.87500 	468.87500  	KNNU568 	RM	CC 1TG *SL *	JCBOE BUS D 	School Buses - Digital 	DMR 	Schools 
+154.05500 	   	WNHM231 	BM		M EMA 	Emergency Management Agency 	FMN 	Emergency Ops 

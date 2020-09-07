@@ -1,22 +1,22 @@
-154.72500 	WNJR314 	RM	293 NAC	Fan SO Primary 	Sheriff Primary (Bonham Police Ch. 3) 	P25 	Law Dispatch 
-155.16000 	 	BM	173.8 PL	Fan SO 6 Talk 	Sheriff Ch. 6 Talk 	FMN 	Law Tac 
-156.26000 	 	M		Fan SO CODE 	Sheriff CODE (CID/Narcotics) 	P25 	Law Tac 
-154.50500 	WQJI697 	RM	254.1 PL	FCFD Ladonia 	Fire Ladonia (links to 155.5725) 	FMN 	Fire Dispatch 
-155.57250 	WPYN387 	RM	023 DPL	FCFD South 	South Paging/Dispatch 	FMN 	Fire Dispatch 
-154.41500 	WPYN387 	RM	172 DPL	FCFD North 	North Paging/Dispatch 	FMN 	Fire Dispatch 
-151.82000 	 	BM	173.8 PL	FCFD MA 	Mutual Aid 	FMN 	Interop 
-155.77500 	WNRD782 	RM	186.2 PL	Fann Commiss 	Commissioners 	FMN 	Public Works 
-156.07500 	WNFA505 	RM	420 NAC	Bonham PD 1 Disp 	Police 1 Dispatch (Ch. 2 Tactical, simplex) 	P25 	Law Dispatch 
-154.89000 	WNFA505 	RM	509 NAC	Bonham FD 1 Disp 	Fire 1 Dispatch 	P25 	Fire Dispatch 
-154.89000 	WNFA505 	RM	210.7 PL	Bonham FD 1 Disp 	Fire 1 Dispatch (Ch. 2 Tactical, simplex) 	FMN 	Fire Dispatch 
-154.08500 	WNHR418 	BM	131.8 PL	Bonham FD 3 Disa 	Fire 3 Disaster 	FMN 	Fire-Tac 
-155.10000 	WNXW743 	BM	315 DPL	Bonham PW 1 	Public Works 1 	FMN 	Public Works 
-155.55000 	KNGX639 	BM	173.8 PL	HoneyGrovePD 	Police 	FMN 	Law Tac 
-154.32500 	WPKE621 	BM	243 DPL	HoneyGroveFD 	Fire Pagers/City Services 	FMN 	Fire-Tac 
-37.18000 	KKI244 	BM		HonGrov Util 	Services (and County Constables) 	FM 	Public Works 
-37.26000 	KKI244 	BM		HonGrov PbWk 	Public Works 	FM 	Public Works 
-158.82000 	WQPP961 	BM	143 DPL	Leonard PS 	Leonard Police/Fire/Services 	FMN 	Multi-Dispatch 
-159.90000 	WQJI697 	RM	145 DPL	TPD/FCSO Lnk 	Trenton Police Link to FCSO: 154.725 Repeater 	FMN 	Law Dispatch 
-159.90000 	WQJI697 	BM	145 DPL	Trenton City 	Trenton PD/FD/PW Talkaround w/City Hall Dispatch (simplex) 	FMN 	Multi-Tac 
-463.46250 	WQPB884 	RM	265 DPL	Bonham ISD 	Bonham ISD All Operations 	FMN 	Schools 
-Oncor Energy	 EDACS Narrowband Networked	 Various	Shipman Communications (Bells-Savoy)	 LTR Standard	 Bells-Savoy	
+154.72500 	155.91000  	WNJR314 	RM	293 NAC	Fan SO Primary 	Sheriff Primary (Bonham Police Ch. 3) 	P25 	Law Dispatch 
+155.16000 	   	 	BM	173.8 PL	Fan SO 6 Talk 	Sheriff Ch. 6 Talk 	FMN 	Law Tac 
+156.26000 	   	 	M		Fan SO CODE 	Sheriff CODE (CID/Narcotics) 	P25 	Law Tac 
+154.50500 	159.57000  	WQJI697 	RM	254.1 PL	FCFD Ladonia 	Fire Ladonia (links to 155.5725) 	FMN 	Fire Dispatch 
+155.57250 	153.95750  	WPYN387 	RM	023 DPL	FCFD South 	South Paging/Dispatch 	FMN 	Fire Dispatch 
+154.41500 	158.98500  	WPYN387 	RM	172 DPL	FCFD North 	North Paging/Dispatch 	FMN 	Fire Dispatch 
+151.82000 	   	 	BM	173.8 PL	FCFD MA 	Mutual Aid 	FMN 	Interop 
+155.77500 	153.87500  	WNRD782 	RM	186.2 PL	Fann Commiss 	Commissioners 	FMN 	Public Works 
+156.07500 	154.19000  	WNFA505 	RM	420 NAC	Bonham PD 1 Disp 	Police 1 Dispatch (Ch. 2 Tactical, simplex) 	P25 	Law Dispatch 
+154.89000 	153.81500  	WNFA505 	RM	509 NAC	Bonham FD 1 Disp 	Fire 1 Dispatch 	P25 	Fire Dispatch 
+154.89000 	153.81500  	WNFA505 	RM	210.7 PL	Bonham FD 1 Disp 	Fire 1 Dispatch (Ch. 2 Tactical, simplex) 	FMN 	Fire Dispatch 
+154.08500 	   	WNHR418 	BM	131.8 PL	Bonham FD 3 Disa 	Fire 3 Disaster 	FMN 	Fire-Tac 
+155.10000 	   	WNXW743 	BM	315 DPL	Bonham PW 1 	Public Works 1 	FMN 	Public Works 
+155.55000 	   	KNGX639 	BM	173.8 PL	HoneyGrovePD 	Police 	FMN 	Law Tac 
+154.32500 	   	WPKE621 	BM	243 DPL	HoneyGroveFD 	Fire Pagers/City Services 	FMN 	Fire-Tac 
+37.18000 	   	KKI244 	BM		HonGrov Util 	Services (and County Constables) 	FM 	Public Works 
+37.26000 	   	KKI244 	BM		HonGrov PbWk 	Public Works 	FM 	Public Works 
+158.82000 	   	WQPP961 	BM	143 DPL	Leonard PS 	Leonard Police/Fire/Services 	FMN 	Multi-Dispatch 
+159.90000 	154.54000  	WQJI697 	RM	145 DPL	TPD/FCSO Lnk 	Trenton Police Link to FCSO: 154.725 Repeater 	FMN 	Law Dispatch 
+159.90000 	   	WQJI697 	BM	145 DPL	Trenton City 	Trenton PD/FD/PW Talkaround w/City Hall Dispatch (simplex) 	FMN 	Multi-Tac 
+463.46250 	468.46250  	WQPB884 	RM	265 DPL	Bonham ISD 	Bonham ISD All Operations 	FMN 	Schools 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various	Shipman Communications (Bells-Savoy)	 LTR Standard	 Bells-Savoy

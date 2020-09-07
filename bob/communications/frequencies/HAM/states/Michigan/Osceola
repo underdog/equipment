@@ -1,25 +1,25 @@
-158.82000 	WQJU714 	RM	134 DPL	Osceola Dispatch 	Sheriff: 911 Central Dispatch - Patch for MPSCS 	FMN 	Law Dispatch 
-153.84500 	KNNP728 	M		Osceola Jail Low 	Sheriff - Court Security/Jail Low Power 	FMN 	Corrections 
-856.21250 	WQWK407 	RM		Osceola Jail 	Sheriff - Court Security/Jail 	NXDN 	Corrections 
-154.34000 	KFQ644 	RM	654 DPL	Osceola Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.17500 	KFQ644 	BM	123.0 PL	Osceola EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-156.16500 	KQG260 	RM		Osceola Road 	Road Commission 	DMR 	Public Works 
-453.70000 	KSX922  	RM		Osceola MOTA 	MOTA Transportation  	DMR 	Transportation 
-465.20000 	WQJU714 	F	074 DPL	MeclaConsol RF 1 	Remote Link (Evart/Paris) 	FMN 	Multi-Dispatch 
-460.20000 	WQJU714 	F	026 DPL	MeclaConsol RF 2 	Remote Link (Reed City?) 	FMN 	Multi-Dispatch 
-460.47500 	WQJU714 	F	023 DPL	MeclaConsol RF3 	Remote Link - Constant Carrier 	FMN 	Multi-Dispatch 
-465.47500 	WQJU714 	F	023 DPL	MeclaConsol RF 4 	Remote Link 	FMN 	Multi-Dispatch 
-452.76250 	WQLJ950 	M		SpHelthHospMaint 	Maintenance Ops 	FMN 	Business 
-155.34000 	WQN862 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
-155.04000 	KWX690 	BM		Evart DPW 	Public Works 	FMN 	Public Works 
-39.98000 	KYW992 	BM		Marion DPW 	Public Works 	FM 	Public Works 
-151.39250 	WQBV647 	RM		Marion Fire 	Fire (@ Dighton) 	FMN 	Fire-Tac 
-154.81500 	WQBV647 	M		Marion FGround 1 	Fireground 1 	FMN 	Fire-Tac 
-155.52750 	WQBV647 	M		Marion FGround 2 	Fireground 2 	FMN 	Fire-Tac 
-156.18750 	WQBV647 	M		Marion FGround 3 	Fireground 3 	FMN 	Fire-Tac 
-159.14250 	WQBV647 	M		Marion FGround 4 	Fireground 4 	FMN 	Fire-Tac 
-155.04000 	KDP317 	BM		Reed City DPW 	Public Works 	FMN 	Public Works 
-151.67000 	WQEP831 	BM		PineRiver School 	Transportation 	FMN 	Schools 
-154.67000 	 	BM	146.2 PL	PineRiver SchOps 	Ops 	FMN 	Schools 
-464.22500 	WPTN607 	RM		Reed City School 	Reed City Area Public Schools 	DMR 	Schools 
+158.82000 	154.89000  	WQJU714 	RM	134 DPL	Osceola Dispatch 	Sheriff: 911 Central Dispatch - Patch for MPSCS 	FMN 	Law Dispatch 
+153.84500 	   	KNNP728 	M		Osceola Jail Low 	Sheriff - Court Security/Jail Low Power 	FMN 	Corrections 
+856.21250 	811.21250  	WQWK407 	RM		Osceola Jail 	Sheriff - Court Security/Jail 	NXDN 	Corrections 
+154.34000 	153.89000  	KFQ644 	RM	654 DPL	Osceola Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.17500 	   	KFQ644 	BM	123.0 PL	Osceola EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+156.16500 	156.07500  	KQG260 	RM		Osceola Road 	Road Commission 	DMR 	Public Works 
+453.70000 	458.70000  	KSX922  	RM		Osceola MOTA 	MOTA Transportation  	DMR 	Transportation 
+465.20000 	   	WQJU714 	F	074 DPL	MeclaConsol RF 1 	Remote Link (Evart/Paris) 	FMN 	Multi-Dispatch 
+460.20000 	   	WQJU714 	F	026 DPL	MeclaConsol RF 2 	Remote Link (Reed City?) 	FMN 	Multi-Dispatch 
+460.47500 	   	WQJU714 	F	023 DPL	MeclaConsol RF3 	Remote Link - Constant Carrier 	FMN 	Multi-Dispatch 
+465.47500 	   	WQJU714 	F	023 DPL	MeclaConsol RF 4 	Remote Link 	FMN 	Multi-Dispatch 
+452.76250 	   	WQLJ950 	M		SpHelthHospMaint 	Maintenance Ops 	FMN 	Business 
+155.34000 	   	WQN862 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+155.04000 	   	KWX690 	BM		Evart DPW 	Public Works 	FMN 	Public Works 
+39.98000 	   	KYW992 	BM		Marion DPW 	Public Works 	FM 	Public Works 
+151.39250 	153.77750  	WQBV647 	RM		Marion Fire 	Fire (@ Dighton) 	FMN 	Fire-Tac 
+154.81500 	   	WQBV647 	M		Marion FGround 1 	Fireground 1 	FMN 	Fire-Tac 
+155.52750 	   	WQBV647 	M		Marion FGround 2 	Fireground 2 	FMN 	Fire-Tac 
+156.18750 	   	WQBV647 	M		Marion FGround 3 	Fireground 3 	FMN 	Fire-Tac 
+159.14250 	   	WQBV647 	M		Marion FGround 4 	Fireground 4 	FMN 	Fire-Tac 
+155.04000 	   	KDP317 	BM		Reed City DPW 	Public Works 	FMN 	Public Works 
+151.67000 	   	WQEP831 	BM		PineRiver School 	Transportation 	FMN 	Schools 
+154.67000 	   	 	BM	146.2 PL	PineRiver SchOps 	Ops 	FMN 	Schools 
+464.22500 	469.22500  	WPTN607 	RM		Reed City School 	Reed City Area Public Schools 	DMR 	Schools 
 Consumers Energy	 EDACS Networked Standard	 Various	

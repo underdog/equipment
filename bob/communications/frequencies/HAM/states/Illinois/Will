@@ -1,192 +1,192 @@
-155.14500 	KUJ776 	RM	173.8 PL	Will EMA 2 	Emergency Management (Frankfort, Peotone) 	FMN 	Emergency Ops 
-155.76000 	KSI571 	RM	173.8 PL	Will EMA Offce  	Emergency Management (patched with TG 1334) 	FMN 	Emergency Ops 
-163.32500 	 	F		EMWIN Data 	EMWIN Data 	Telm 	Data 
-458.02500 	WPPC480 	M		WIll Health 	Health Department: Ops 	FMN 	Public Works 
-154.09250 	WPST382 	RM	173.8 PL	Will Data 	Data (Periodic data bursts) 	FMN 	Data 
-464.80000 	WNKJ240 	RM	503 DPL	First Care EMS  	EMS: Dispatch (Plainfield) [Expired 10/12] 	FMN 	EMS Dispatch 
-155.34000 	WQLF204 	BM	192.8 PL	MERCI1 192.8 	Patient Reports (Silver Cross-Homer Glen) 	FMN 	Hospital 
-155.34000 	KQY609 	B	91.5 PL	MERCI1 91.5 	Patient Reports (St. Joseph's Medical Center - Joliet) 	FMN 	Hospital 
-155.34000 	WQSA325 	B	91.5 PL	MERCI1 91.5 	Patient Reports (Silver Cross-New Lenox)  	FMN 	Hospital 
-463.00000 	 	BM	192.8 PL	MED-1 192.8 	Patient Reports (Silver Cross) 	FMN 	Hospital 
-464.82500 	WQOV528 	RM		BMC Security 	Security 	FMN 	Security 
-464.88750 	WRFD659 	RM	331 DPL	BMC Sec / Maint 	Security / Maintenance 	FMN 	Business 
-452.87500 	WPPY617 	RM	423 DPL	STMC Secur 1 	Security 	FMN 	Security 
-461.77500 	WPPY617 	RM	423 DPL	STMC Secur 2 	Grounds 	FMN 	Security 
-463.20000 	WPPY617 	RM	423 DPL	STMC Secur 3 	Security 	FMN 	Security 
-457.20000 	WPPY617 	M		STMC Secur 4 	Security (possibly DMR now) 	FMN 	Security 
-463.27500 	WPPY617 	M		STMC Secur 5 	Security (possibly DMR now) 	FMN 	Security 
-451.72500 	WQFN614 	RM		STMC Ops 1 	Operations 	FMN 	Business 
-451.45000 	WQFN614 	M		STMC Ops 2 	Operations 	FMN 	Business 
-452.15000 	WQFN614 	M		STMC Ops 3 	Operations 	FMN 	Business 
-451.03750 	WPPY617 	RM	423 DPL	STMC Ops 4 	Operations (in use) 	FMN 	Business 
-463.85000 	WNPI836 	RM	114 DPL	SCH Security HG 	Security / Maintenance (Homer Glen) 	FMN 	Security 
-464.20000 	WNPI836 	RM		SCH Security NL 	Security / Maintenance (New Lenox-in use) 	DMR 	Security 
-154.23500 	WPOZ493 	RM	97.4 PL	Laraway FireEast 	Fire: Dispatch - Beecher, Crete, Crete Twp, Monee, Peotone, South Chicago Heights, Steger, Steger Estates, University Park 	FMN 	Fire Dispatch 
-151.18250 	WQJS838 	RM	123.0 PL	Laraway FireWest 	Fire: Dispatch - East Joliet, Frankfort, Manhattan, Mokena, New Lenox, Romeoville 	FMN 	Fire Dispatch 
-158.85000 	WPCV634 	RM	88.5 PL	WES Police 1 	Police: Dispatch - Channahon, Shorewood, Elwood, Wilmington [Ch 1/c2c1] 	FMN 	Law Dispatch 
-155.31000 	WQPK263 	RM	118.8 PL	WES Police 1P 	Police Dispatch - Patch to 158.850 	FMN 	Law Dispatch 
-155.73000 	WQPC963 	RM	123.0 PL	WES Police 2 	Police: Dispatch - Crest Hill/Lockport (backup to Will County Public Safety P25) 	FMN 	Law Dispatch 
-154.74750 	WPWL581 	RM	91.5 PL	WES Fire S 	911: South - Channahon, Elwood, Minooka, Troy and Wilmington FPDs 	FMN 	Fire Dispatch 
-154.85250 	WPWL581 	RM	91.5 PL	WES Fire N 	911: North - Lockport Twp, Homer Twp. NW Homer Twp. and Plainfield. 	FMN 	Fire Dispatch 
-155.35500 	WPWL581 	RM	91.5 PL	WES Fire TF 	Fire: Task Force 	FMN 	Fire-Talk 
-151.94000 	MURS 	RM	532 DPL	WES WESTAC1 	Training, Radio Techs, etc. 	FMN 	Multi-Talk 
-854.66250 	WQQZ591 	RM	452 NAC	WESTAC 80 	Events (Plainfield Police/EMA) 	P25 	Interop 
-854.88750 	WQZT877 	RM	452 NAC	WES 854.8875 	(patched w/SC21 TG 33931 WM PD 5 Bolingbrook PD) 	P25 	Law Dispatch 
-855.61250 	WQZT878 	RM	452 NAC	WES 855.6125 	Interop 	P25 	Interop 
-858.66250 	WQZT877 	RM		WES 858.6625 	Interop 	P25 	Interop 
-859.36250 	WQZT877 	RM	452 NAC	WES 859.3625 	Interop 	P25 	Interop 
-155.14500 	KUJ776 	RM	225.7 PL	EastCom LawV 	Police: Peotone, Beecher, Monee 	FMN 	Law Dispatch 
-159.40500 	WPMT612 	M	CSQ	BeechrPD c2c 	Police: Beecher Car-to-Car 	FMN 	Law Tac 
-45.36000 	 	BM	67.0 PL	Lckpt Twp Roads 	Lockport Township: Road Maintenance 	FM 	Public Works 
-151.04000 	KXC498 	BM	100.0 PL	Joliet Twp Roads 	Joliet Township: Road Maintenance 	FMN 	Public Works 
-151.13000 	 	BM	91.5 PL	Chan Twp Roads 	Channahon Township : Road Maintenance 	FMN 	Public Works 
-151.20500 	WNSO609 	RM	67.0 PL	Lkpt Twp ParkPD 	Lockport Township Park District: Police [Ch 6] 	FMN 	Law Tac 
-151.37750 	WQQH312 	BM		CreteTwp Roads 	Crete Township Highway Department (Crete) 	FMN 	Public Works 
-154.96500 	 	BM		Frnkt Twp Roads 	Frankfort Township: Road Maintenance 	FMN 	Public Works 
-452.83750 	WPVS634 	F		Beecher Data 	Utility Data 	Telm 	Data 
-854.88750 	WQZT877 	RM	452 NAC	Bbrk PD Simulcst 	Police: Simulcast with SC21 TG 33931 [Lic to WESCOM] 	P25 	Law Dispatch 
-155.11500 	KZJ504 	BM	250.3 PL	Bbrk EMA Ops 	EMA: Operations 	FMN 	Emergency Ops 
-155.02500 	KZJ504 	BM	107.2 PL	ESMARN 1072 	Emergency Management 	FMN 	Emergency Ops 
-155.32500 	WPHM584 	RM	156.7 PL	Bbrk Fire / EMS 	Fire/EMS: Dispatch [Ch 1] 	FMN 	Fire Dispatch 
-465.58750 	KQN451 	M	107.2 PL	Bbrk Fire RF 	Fire: Remote Station Link (Old?) 	FMN 	Fire-Tac 
-154.25000 	KQN451 	M	127.3 PL	Bbrk Fire A* 	Fire (unknown use) 	FMN 	Fire-Tac 
-154.40000 	KQN451 	M	107.2 PL	Bbrk Fire B 	Fire (unknown use) 	FMN 	Fire-Tac 
-470.97500 	WQJY328 	RM	50 RAN	Bbrk PW/SnwCmnd 	Public Works / Snow Command 	NXDN 	Public Works 
-854.63750 	WNNB544 	RM	023 DPL	Bbrk PubWrks 	Public Works [Lic to County] 	FMN 	Public Works 
-159.19500 	WPRI457 	RM	192.8 PL	Braidwood Police 	Police (Patched w/ P25 TG 20001) 	FMN 	Law Tac 
-155.82750 	WPPV420 	RM		Braidwood Fire A 	Fire (DB WesCom) 	FMN 	Fire-Tac 
-155.88750 	WPPV420 	RM		Braidwood Fire B 	Fire 	FMN 	Fire-Tac 
-151.10750 	 	WPPV420  	BM	136.5 PL	ESDA 	Braidwood ESDA 	FMN 	Emergency Ops 
-456.03750 	WQFN332 	F		Braidwood WDD 	Water District Data (CSQ) 	Telm 	Data 
-158.82000 	WPIV579 	BM	127.3 PL	Chan PubWrks 	Public Works / aslo Police? [Ch 6] 	FMN 	Public Works 
-159.25500 	WNAH456 	BM	71.9 PL	Chan Parks 	Park District [Canceled 5/11] 	FMN 	Public Works 
-155.94000 	KTC992 	BM	162.2 PL	CHill PubWrk 	Public Works / Snow Plows / Police [Ch 4] 	FMN 	Public Works 
-470.56250 	KZJ478 	RM	203.5 PL	Crete Police 1   	Police: Dispatch (DB: EASTCOM) 	FMN 	Law Dispatch 
-158.83500 	KDN339 	RM		Crete PublicWrks 	Public Works [Also Police Ch 4] 	FMN 	Public Works 
-456.13750 	WQEN318 	M		Crete Water 	Water Ops (Voice)  	FMN 	Public Works 
-451.08750 	WQBY612 	F		Crete WDD 1 	Water/Wastewater Data 	Telm 	Data 
-456.13750 	WQEN318 	F		Crete WDD 2 	Water Distribution Data 	Telm 	Data 
-469.26250 	WPTB427 	M		Crete L/A TV 	Local Access TV Production  	FMN 	Media 
-154.35500 	 	BM	CSQ	Elwood Fire 	Fire 	FMN 	Fire-Tac 
-151.31750 	WQRG510 	RM	365 DPL	Elwood PW 	Public Works 	FMN 	Public Works 
-154.35500 	KJH320 	BM	CSQ	Frnkft FireA 	Fire 	FMN 	Fire-Tac 
-154.37000 	KJH320 	BM	CSQ	Frnkft FireB 	Fire 	FMN 	Fire-Tac 
-463.81250 	WNXA292 	M		Frnkft CofC 	Chamber of Commerce  	FMN 	Business 
-154.04000 	KNIV274 	RM	632 DPL	FrnkftPubWrk 	Public Works 	FMN 	Public Works 
-151.45250 	WQJW712 	RM	205 DPL	HmrGlen EMA 	Emergency Management Agency 	FMN 	Emergency Ops 
-453.85000 	WSJ230 	RM	114.8 PL	HGlen PubWrk 	Public Works/Roads 	FMN 	Public Works 
-154.35500 	KSC280 	BM	156.7 PL	Joliet Fire 	Fire: Dispatch (Simulcast of TRS) 	FMN 	Fire Dispatch 
-48.38000 	WPEI351 	BM		Joliet IR Plant 	Public Works (Iron Removal Plant)  	FM 	Public Works 
-451.06250 	WQET520 	F		Joliet WDD 1 	Water Distribution Data (CSQ) 	Telm 	Data 
-451.12500 	WQET521 	F		Joliet WDD 2 	Water Distribution Data  	Telm 	Data 
-451.26250 	WQET522 	F		Joliet WDD 3 	Water Distribution Data (CSQ) 	Telm 	Data 
-451.82500 	WQET526 	F		Joliet WDD 4 	Water Distribution Data  	Telm 	Data 
-452.38750 	WQET526 	F		Joliet WDD 5 	Water Distribution Data (CSQ) 	Telm 	Data 
-155.11500 	KXZ350 	RM	123.0 PL	Lkpt PD C2C1 	City Hall / ESDA (Police on simplex) 	FMN 	Emergency Ops 
-155.11500 	KXZ350 	BM	151.4 PL	LkptbEMA Siren  	Outdoor Siren Signalling 	FMN 	Emergency Ops 
-155.02500 	KXZ350 	BM	123.0 PL	ESMARN 1230 	ESMARN 	FMN 	Emergency Ops 
-155.77500 	KET300 	BM	123.0 PL	Lkpt PW F-4 	Public Works / Police [Ch 19?] 	FMN 	Public Works 
-464.32500 	 	RM	261 DPL	Lkpt Parks 	Park District: Ops [No license]  	FMN 	Public Works 
-156.18000 	WQGB944 	RM	226 DPL	Manh PW/Watr 	Public Works / Water Department 	FMN 	Public Works 
-451.56250 	WPVA966 	M		Manh WDD 1 	Water Distribution Data 	Telm 	Data 
-456.56250 	WPVA966 	M		Manh WDD 2 	Water Distribution Data 	Telm 	Data 
-155.65500 	KZZ683 	RM	94.8 PL	Mnka Police 	Police: Old Dispatch 	FMN 	Law Dispatch 
-158.91000 	KZZ683 	M	CSQ	Mnka Police Tac 	Police: Tac 	FMN 	Law Tac 
-158.91000 	KZZ683 	M		Minka Police MX 	Police: Mobile Extenders 	FMN 	Law Tac 
-158.76000 	 	BM	94.8 PL	Mnka PubWrks 	Public Works 	FMN 	Public Works 
-155.02500 	WQV998 	RM		Mokena EMS 	EMA: ESMARN - Local Repeater 	FMN 	Emergency Ops 
-45.36000 	WQV998 	B	CSQ	Mokena EMA1 	Emergency Management Intersystem (with IEMA) 	FM 	Emergency Ops 
-154.16000 	KD43536 	M		Mokena Fire 	Fireground ? 	FMN 	Fire-Tac 
-155.10000 	WZH656 	BM		Mokena PbWks 	Public Works 	FMN 	Public Works 
-155.94000 	WQQU399 	RM	CC 6TG 5200SL 1	Monee Streets 	Streets/Public Works 	DMR 	Public Works 
-155.10000 	WPZT334 	BM		NLnx PubWrks 	Public Works [Expired 3/14] 	FMN 	Public Works 
-151.40000 	WPHE730 	BM		NLenox Parks 	New Lenox Park District 	FMN 	Public Works 
-158.96250 	KNFB456 	RM	79.7 PL	NWHFD Local 	Fire: Local (Backup/Interop) 	FMN 	Fire-Tac 
-155.88000 	KNFP292 	RM	173.8 PL	Orlnd PubWrk 	Public Works (also Police Tac-3) 	FMN 	Public Works 
-155.98500 	KNFP292 	M		Orland PW 	Public Works 	FMN 	Public Works 
-478.66250 	WPUJ785 	RM		OPark Data 	Data (CSQ) 	Telm 	Data 
-854.63750 	WNNB544 	RM	452 NAC	PlnfldPolice 	Plainfield Police: Dispatch (Backup to SC21) 	P25 	Law Dispatch 
-151.43750 	WQVF215 	RM	413 DPL	Plainfld EMA 	EMA: Operations  	FMN 	Emergency Ops 
-151.54250 	WPXU633 	B	88.5 PL	Plfd EMA EOC 	Emergency Operations Center 	FMN 	Emergency Ops 
-158.80500 	WNZY675 	BM	88.5 PL	Plfd PEMA 6 	Emergency Management Agency [Ch 6] 	FMN 	Emergency Ops 
-453.85000 	KGM472 	B	123.0 PL	Plfd Sirens1 	Outdoor Siren Signaling 	FMN 	Data 
-458.85000 	KGM472 	M	123.0 PL	Pfld Sirens2 	Outdoor Siren Signaling 	FMN 	Data 
-155.29500 	WNKC949 	BM	91.5 PL	Plainfld EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.02500 	KWO819 	BM	88.5 PL	Plfd PW/Snow 	Public Works / Snowplows [Ch 5] 	FMN 	Public Works 
-151.29500 	KNHB627 	BM	127.3 PL	Plfd TS Park 	Plainfield Township Park District 	FMN 	Public Works 
-159.16500 	WQBB981 	RM	127.3 PL	Romeovlle PD1  	Police: Dispatch [Ch.1] 	FMN 	Law Dispatch 
-156.16500 	WNCW258 	RM	346 DPL	Romeovlle EMA 	EMA: Operations 	FMN 	Emergency Ops 
-159.23250 	KFG465 	RM	107.2 PL	Romeoville Fire  	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.40000 	KFG465 	BM	107.2 PL	Fire Ops 	Fire EMS Ops 	FMN 	Fire-Tac 
-151.34750 	WQNJ942 	RM	118.8 PL	Romeovlle PW 	Public Works  	FMN 	Public Works 
-155.92500 	 	M	118.8 PL	Shrwd Police C2c 	Police: Car-to-Car [No License] 	FMN 	Law Talk 
-155.08500 	KNID218 	BM		Wlmng PD/PW 	Police: Tac / Public Works 	FMN 	Law Tac 
-154.13750 	WQLQ284 	RM	118.8 PL	Wlngtn ESDA 	ESDA: Local  	FMN 	Emergency Ops 
-461.73750 	 	RM	051 DPL	FS 461.7375 	First Student? (heard like 464.45 Joliet) 	FMN 	Business 
-854.41250 	WPIT844 	RM		FS Bus 85441 	Buses (Multiple Locations)  	FMN 	Business 
-463.35000 	WPOD874 	RM	051 DPL	FS Bus Jol-1 	First Student (Joliet) 	FMN 	Business 
-463.60000 	WPOD874 	RM		FS Bus Jol-2 	First Student (Joliet) 	FMN 	Business 
-464.22500 	WPOD874 	RM	203.5 PL	FS Bus UPk-1 	First Student: Vans (University Park) 	FMN 	Business 
-464.35000 	WPOD874 	RM	051 DPL	FS Bus UPk-2 	First Student (University Park) 	FMN 	Business 
-464.65000 	WPOD874 	RM	051 DPL	FS Bus UPk-3 	First Student (University Park) 	FMN 	Business 
-451.98750 	WPTZ256 	RM	223 DPL	GrandPrarie 	Grand Prairie School Bus: Special Needs (Cook IL Corp) 	FMN 	Business 
-461.58750 	WQMG699 	RM	054 DPL	ICSB UnPark1 	Illinois Central School Bus (University Park) 	FMN 	Business 
-461.71250 	WQMG699 	RM		ICSB UnPark2 	Illinois Central School Bus (University Park) 	FMN 	Business 
-854.73750 	WNQL839 	RM	143 DPL	SeptranPlfld 	Septran School Bus Service (Plainfield) 	FM 	Business 
-461.43750 	WQNX650 	RM	047 DPL	Wstwy Lemont 	Westway Coach (Lemont Yard) 	FMN 	Business 
-451.18750 	WQBD915 	RM	162 DPL	BHS Security 	High School Security [Ch 1] 	FMN 	Schools 
-451.48750 	WQBD915 	RM	411 DPL	BHS Maintenc 	High School Maintenance [Ch 2] 	FMN 	Schools 
-155.17500 	KNFA351 	BM	91.5 PL	CSD17 Bus3 	Buses (*possible tone, heard on I-80 "on 3") 	FMN 	Schools 
-151.89500 	WNZN727 	BM	91.5 PL	RchlndSchool 	Richland School (Crest Hill) 	FMN 	Schools 
-463.90000 	WPWW234 	RM	412 DPL	Crete-Monee HS 	Operations 	FMN 	Schools 
-463.68750 	WQGZ499 	RM	244 DPL	LWASE Ops 1 	Lincoln-Way Area Special Education 	FMN 	Schools 
-464.42500 	WZH838 	RM	167.9 PL	Lway Sch Bus 	Lincoln-Way East HS: Transportation? 	FMN 	Schools 
-451.45000 	WQYY719 	RM	CC 7TG 1SL 1	Homer 33C Bus 	Buses 	DMR 	Schools 
-451.45000 	WQYY719 	RM	CC 7TG 1SL 2	Homer 33C Schill 	Schilling School 	DMR 	Schools 
-452.88750 	WQYY719 	RM	CC 7TG 1SL 1	Homer 33C Maint 	Maintenance & Grounds 	DMR 	Schools 
-452.88750 	WQYY719 	RM	CC 7TG 2SL 2	Homer 33C Young 	Young School 	DMR 	Schools 
-461.60000 	WPMR282 	RM	162.2 PL	IPSD N Op5 	Security/Maintenance (Naperville) 	FMN 	Schools 
-463.65000 	WPMR282 	RM	364 DPL	IPSD N Op6 	Security/Maintenance (Naperville) 	FMN 	Schools 
-452.10000 	WPMR282 	M	100.0 PL	NVHS Sec/Admin 	Neuqua Valley High School: Security/Admin 	FMN 	Schools 
-461.55000 	WPMR282 	M	203.5 PL	NVHS Sec/Admin 	Neuqua Valley High School: Security/Admin 	FMN 	Schools 
-464.52500 	KCZ302 	RM	031 DPL	JTCHS Sec 	Joliet Township Central High School Security [Ch 1] 	FMN 	Schools 
-453.00000 	WPRL958 	RM	031 DPL	JTWHS Sec 	Joliet Township West High School Security [Ch 2] 	FMN 	Schools 
-464.97500 	KCZ302 	RM	031 DPL	JolTwpSchBus 	Joliet Township Transportation [Ch 3]  	FMN 	Schools 
-461.92500 	WQHN273 	RM	031 DPL	JTHS Teacher 	Joliet Township High School: Teacher Ops 	FMN 	Schools 
-152.92250 	WQOW215 	RM	043 DPL	LTHS Buses 	LTHS: Transportation Ops 	FMN 	Schools 
-155.22000 	KJQ621 	BM	67.0 PL	LTHS Bus  	LTHS District 205: Buses (occasionally used) 	FMN 	Schools 
-152.42750 	WPOY378 	RM	69.3 PL	LTHS East 	Lockport Township High School East campus operations 	FMN 	Schools 
-152.99000 	WPSY587 	RM	71.9 PL	LTHS Central 	Lockport Township High School Central campus operations 	FMN 	Schools 
-152.41250 	WPPH536 	RM	127.3 PL	HomrSch OpsB 	Homer Community Consolidated School District: Maintenance/Security  	FMN 	Schools 
-152.41250 	WPPH536 	RM	85.4 PL	HomrSch OpsA 	Homer Community Consolidated School District 	FMN 	Schools 
-451.35000 	WPZK772 	RM		Dist 91 Elem 	Milne-Kelvin Grove (Lockport Elementary) School District 91 	FMN 	Schools 
-155.23500 	 	BM	179.9 PL	Mink Sch Bus 	Buses [No License] 	FMN 	Schools 
-152.98250 	WQIY398 	RM	261 DPL	Mokena SchoolBus 	Buses 	FMN 	Schools 
-155.26500 	KJB391 	BM	141.3 PL	Mokena School 	Ops 	FMN 	Schools 
-464.67500 	WPHZ523 	RM	365 DPL	Pfld Sch Bus 	Buses (at High School) 	FMN 	Schools 
-461.40000 	WQIB499 	RM	118.8 PL	Pfld HS E 2 	East High School 	FMN 	Schools 
-464.45000 	WPOD874 	RM	051 DPL	FS Bus Jol-3 	First Student: Plainfield South (Joliet) 	FMN 	Schools 
-461.38750 	WPTQ636 	RM	506 DPL	PTSHS Ops 	Township South High School 	FMN 	Schools 
-461.47500 	WQIB499 	RM	074 DPL	PTNHS Ops 	Township North High School: Ops 	FMN 	Schools 
-452.70000 	WQIB499 	RM	114 DPL	PTSHS Maint 	Tonwship South High School: Maintenance 	FMN 	Schools 
-451.30000 	WPOX272 	RM	110.9 PL	RdCstrSchBus 	Buses 	FMN 	Schools 
-464.57500 	WPXL518 	RM		Troy30 Schools 	Operations/Transportation (203.5?) 	FMN 	Schools 
-451.18750 	WQDB915 	RM	162 DPL	VVSD Ops 1 	Operations (Bollingbrook) (*poss tone, hrd I-55) 	FMN 	Schools 
-461.42500 	KSZ591 	RM	103.5 PL	VVSD Ops 2 	Operations 	FMN 	Schools 
-463.28750 	WQYM400 	RM	CC 1TG *SL *	Dist 92 Schools 	District 92 Schools 	DMR 	Schools 
-453.90000 	KZZ721 	RM	167.9 PL	GSU Police 	Campus Police 	FMN 	Law Dispatch 
-464.50000 	 	BM	516 DPL	JJC Police 	Police: Dispatch [No License] [Old, deprecated?] 	FM 	Law Dispatch 
-461.88750 	KD54000 	RM		LewisU Ops 	Ops (LP R w/ Phone Patch) 	FMN 	Schools 
-461.27500 	WQII933 	RM	114 DPL	USF Maintenance 	University of St. Francis: Maintenance 	FMN 	Schools 
-461.41250 	 	RM	192.8 PL	USF Maintenance 	University of St. Francis: Maintenance 	FMN 	Schools 
-463.68750 	WQII933 	RM	CC 3TG 201SL 1	USF Security 	University of St. Francis: Security 	DMR 	Schools 
-166.71250 	 	M	CSQ	ALN Cemetary 	Abraham Lincoln National Cemetary (Elwood) 	FMN 	Federal 
-406.33750 	 	BM	482 NAC	USPIS NLECC 	United States Postal Service - Inspectors (Base ENC) 	P25 	Federal 
-A-Beep / Tri-Star Communications - VHF (NW IL)	 LTR Standard	 Plato Center	A-Beep Chicago-area LTR	 LTR Standard	 Chicago	Aurora / Naperville Public Safety (OpenSky)	 OpenSky 9600 baud
- Aurora	Citgo Refinery (Romeoville)	 Motorola Type II	 Romeoville	Comlink Wireless (Metro Chicago Passport) 	 LTR Standard and Passport	 Chicago	Comlink Wireless (NXDN-61)
- NXDN NEXEDGE 4800	 Various	Comlink Wireless/Chicago Equipment Company (Metro Chicago)	 LTR Standard	 Metro Chicago	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL
-ESP Wireless 3 - 900 MHz (Chicago)	 LTR Standard	 Chicago	ESP Wireless/Champion Communications (Mokena)	 LTR Standard	 Mokena	Exxon Communications (Will)	 Motorola Type II
- Channahon	Flint Hills Resources/ESP Wireless (Channahon)	 LTR Standard	 Channahon	Harrahs Joliet Casino and Hotel	 LTR Standard	 Joliet	Lewis University (Romeoville)
- LTR Standard	 Romeoville	Lockport City	 LTR Standard	 Lockport	MacNeil Automotive Products (dba WeatherTech)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bolingbrook
-TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	TRBOconnection-TRBOnexus	 DMR Motorola Connect Plus (TRBO)	 Various	Ventronics (Metro Chicago)	 LTR Standard
- Metro Chicago	Will County (EDACS)	 EDACS Standard	 Simulcast	Will County (P25)	 Project 25 Phase II	 Joliet	
+155.14500 	158.94000  	KUJ776 	RM	173.8 PL	Will EMA 2 	Emergency Management (Frankfort, Peotone) 	FMN 	Emergency Ops 
+155.76000 	153.80000  	KSI571 	RM	173.8 PL	Will EMA Offce  	Emergency Management (patched with TG 1334) 	FMN 	Emergency Ops 
+163.32500 	   	 	F		EMWIN Data 	EMWIN Data 	Telm 	Data 
+458.02500 	   	WPPC480 	M		WIll Health 	Health Department: Ops 	FMN 	Public Works 
+154.09250 	159.38250  	WPST382 	RM	173.8 PL	Will Data 	Data (Periodic data bursts) 	FMN 	Data 
+464.80000 	469.80000  	WNKJ240 	RM	503 DPL	First Care EMS  	EMS: Dispatch (Plainfield) [Expired 10/12] 	FMN 	EMS Dispatch 
+155.34000 	   	WQLF204 	BM	192.8 PL	MERCI1 192.8 	Patient Reports (Silver Cross-Homer Glen) 	FMN 	Hospital 
+155.34000 	   	KQY609 	B	91.5 PL	MERCI1 91.5 	Patient Reports (St. Joseph's Medical Center - Joliet) 	FMN 	Hospital 
+155.34000 	   	WQSA325 	B	91.5 PL	MERCI1 91.5 	Patient Reports (Silver Cross-New Lenox)  	FMN 	Hospital 
+463.00000 	468.00000  	 	BM	192.8 PL	MED-1 192.8 	Patient Reports (Silver Cross) 	FMN 	Hospital 
+464.82500 	469.82500  	WQOV528 	RM		BMC Security 	Security 	FMN 	Security 
+464.88750 	469.88750  	WRFD659 	RM	331 DPL	BMC Sec / Maint 	Security / Maintenance 	FMN 	Business 
+452.87500 	457.87500  	WPPY617 	RM	423 DPL	STMC Secur 1 	Security 	FMN 	Security 
+461.77500 	466.87500  	WPPY617 	RM	423 DPL	STMC Secur 2 	Grounds 	FMN 	Security 
+463.20000 	468.20000  	WPPY617 	RM	423 DPL	STMC Secur 3 	Security 	FMN 	Security 
+457.20000 	   	WPPY617 	M		STMC Secur 4 	Security (possibly DMR now) 	FMN 	Security 
+463.27500 	   	WPPY617 	M		STMC Secur 5 	Security (possibly DMR now) 	FMN 	Security 
+451.72500 	456.72500  	WQFN614 	RM		STMC Ops 1 	Operations 	FMN 	Business 
+451.45000 	   	WQFN614 	M		STMC Ops 2 	Operations 	FMN 	Business 
+452.15000 	   	WQFN614 	M		STMC Ops 3 	Operations 	FMN 	Business 
+451.03750 	456.03750  	WPPY617 	RM	423 DPL	STMC Ops 4 	Operations (in use) 	FMN 	Business 
+463.85000 	468.85000  	WNPI836 	RM	114 DPL	SCH Security HG 	Security / Maintenance (Homer Glen) 	FMN 	Security 
+464.20000 	469.20000  	WNPI836 	RM		SCH Security NL 	Security / Maintenance (New Lenox-in use) 	DMR 	Security 
+154.23500 	150.80500  	WPOZ493 	RM	97.4 PL	Laraway FireEast 	Fire: Dispatch - Beecher, Crete, Crete Twp, Monee, Peotone, South Chicago Heights, Steger, Steger Estates, University Park 	FMN 	Fire Dispatch 
+151.18250 	154.88250  	WQJS838 	RM	123.0 PL	Laraway FireWest 	Fire: Dispatch - East Joliet, Frankfort, Manhattan, Mokena, New Lenox, Romeoville 	FMN 	Fire Dispatch 
+158.85000 	154.86750  	WPCV634 	RM	88.5 PL	WES Police 1 	Police: Dispatch - Channahon, Shorewood, Elwood, Wilmington [Ch 1/c2c1] 	FMN 	Law Dispatch 
+155.31000 	159.21000  	WQPK263 	RM	118.8 PL	WES Police 1P 	Police Dispatch - Patch to 158.850 	FMN 	Law Dispatch 
+155.73000 	156.03750  	WQPC963 	RM	123.0 PL	WES Police 2 	Police: Dispatch - Crest Hill/Lockport (backup to Will County Public Safety P25) 	FMN 	Law Dispatch 
+154.74750 	158.99250  	WPWL581 	RM	91.5 PL	WES Fire S 	911: South - Channahon, Elwood, Minooka, Troy and Wilmington FPDs 	FMN 	Fire Dispatch 
+154.85250 	158.93250  	WPWL581 	RM	91.5 PL	WES Fire N 	911: North - Lockport Twp, Homer Twp. NW Homer Twp. and Plainfield. 	FMN 	Fire Dispatch 
+155.35500 	156.00750  	WPWL581 	RM	91.5 PL	WES Fire TF 	Fire: Task Force 	FMN 	Fire-Talk 
+151.94000 	   	MURS 	RM	532 DPL	WES WESTAC1 	Training, Radio Techs, etc. 	FMN 	Multi-Talk 
+854.66250 	809.66250  	WQQZ591 	RM	452 NAC	WESTAC 80 	Events (Plainfield Police/EMA) 	P25 	Interop 
+854.88750 	809.88750  	WQZT877 	RM	452 NAC	WES 854.8875 	(patched w/SC21 TG 33931 WM PD 5 Bolingbrook PD) 	P25 	Law Dispatch 
+855.61250 	810.61250  	WQZT878 	RM	452 NAC	WES 855.6125 	Interop 	P25 	Interop 
+858.66250 	813.66250  	WQZT877 	RM		WES 858.6625 	Interop 	P25 	Interop 
+859.36250 	814.36250  	WQZT877 	RM	452 NAC	WES 859.3625 	Interop 	P25 	Interop 
+155.14500 	158.94000  	KUJ776 	RM	225.7 PL	EastCom LawV 	Police: Peotone, Beecher, Monee 	FMN 	Law Dispatch 
+159.40500 	   	WPMT612 	M	CSQ	BeechrPD c2c 	Police: Beecher Car-to-Car 	FMN 	Law Tac 
+45.36000 	   	 	BM	67.0 PL	Lckpt Twp Roads 	Lockport Township: Road Maintenance 	FM 	Public Works 
+151.04000 	   	KXC498 	BM	100.0 PL	Joliet Twp Roads 	Joliet Township: Road Maintenance 	FMN 	Public Works 
+151.13000 	   	 	BM	91.5 PL	Chan Twp Roads 	Channahon Township : Road Maintenance 	FMN 	Public Works 
+151.20500 	159.27000  	WNSO609 	RM	67.0 PL	Lkpt Twp ParkPD 	Lockport Township Park District: Police [Ch 6] 	FMN 	Law Tac 
+151.37750 	   	WQQH312 	BM		CreteTwp Roads 	Crete Township Highway Department (Crete) 	FMN 	Public Works 
+154.96500 	   	 	BM		Frnkt Twp Roads 	Frankfort Township: Road Maintenance 	FMN 	Public Works 
+452.83750 	   	WPVS634 	F		Beecher Data 	Utility Data 	Telm 	Data 
+854.88750 	809.88750  	WQZT877 	RM	452 NAC	Bbrk PD Simulcst 	Police: Simulcast with SC21 TG 33931 [Lic to WESCOM] 	P25 	Law Dispatch 
+155.11500 	   	KZJ504 	BM	250.3 PL	Bbrk EMA Ops 	EMA: Operations 	FMN 	Emergency Ops 
+155.02500 	   	KZJ504 	BM	107.2 PL	ESMARN 1072 	Emergency Management 	FMN 	Emergency Ops 
+155.32500 	150.79000  	WPHM584 	RM	156.7 PL	Bbrk Fire / EMS 	Fire/EMS: Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+465.58750 	   	KQN451 	M	107.2 PL	Bbrk Fire RF 	Fire: Remote Station Link (Old?) 	FMN 	Fire-Tac 
+154.25000 	   	KQN451 	M	127.3 PL	Bbrk Fire A* 	Fire (unknown use) 	FMN 	Fire-Tac 
+154.40000 	   	KQN451 	M	107.2 PL	Bbrk Fire B 	Fire (unknown use) 	FMN 	Fire-Tac 
+470.97500 	473.97500  	WQJY328 	RM	50 RAN	Bbrk PW/SnwCmnd 	Public Works / Snow Command 	NXDN 	Public Works 
+854.63750 	809.63750  	WNNB544 	RM	023 DPL	Bbrk PubWrks 	Public Works [Lic to County] 	FMN 	Public Works 
+159.19500 	153.86000  	WPRI457 	RM	192.8 PL	Braidwood Police 	Police (Patched w/ P25 TG 20001) 	FMN 	Law Tac 
+155.82750 	150.78250  	WPPV420 	RM		Braidwood Fire A 	Fire (DB WesCom) 	FMN 	Fire-Tac 
+155.88750 	150.79750  	WPPV420 	RM		Braidwood Fire B 	Fire 	FMN 	Fire-Tac 
+151.10750 	   	 	WPPV420  	BM	136.5 PL	ESDA 	Braidwood ESDA 	FMN 	Emergency Ops 
+456.03750 	   	WQFN332 	F		Braidwood WDD 	Water District Data (CSQ) 	Telm 	Data 
+158.82000 	   	WPIV579 	BM	127.3 PL	Chan PubWrks 	Public Works / aslo Police? [Ch 6] 	FMN 	Public Works 
+159.25500 	   	WNAH456 	BM	71.9 PL	Chan Parks 	Park District [Canceled 5/11] 	FMN 	Public Works 
+155.94000 	   	KTC992 	BM	162.2 PL	CHill PubWrk 	Public Works / Snow Plows / Police [Ch 4] 	FMN 	Public Works 
+470.56250 	473.56250  	KZJ478 	RM	203.5 PL	Crete Police 1   	Police: Dispatch (DB: EASTCOM) 	FMN 	Law Dispatch 
+158.83500 	159.05250  	KDN339 	RM		Crete PublicWrks 	Public Works [Also Police Ch 4] 	FMN 	Public Works 
+456.13750 	   	WQEN318 	M		Crete Water 	Water Ops (Voice)  	FMN 	Public Works 
+451.08750 	   	WQBY612 	F		Crete WDD 1 	Water/Wastewater Data 	Telm 	Data 
+456.13750 	   	WQEN318 	F		Crete WDD 2 	Water Distribution Data 	Telm 	Data 
+469.26250 	   	WPTB427 	M		Crete L/A TV 	Local Access TV Production  	FMN 	Media 
+154.35500 	   	 	BM	CSQ	Elwood Fire 	Fire 	FMN 	Fire-Tac 
+151.31750 	159.08250  	WQRG510 	RM	365 DPL	Elwood PW 	Public Works 	FMN 	Public Works 
+154.35500 	   	KJH320 	BM	CSQ	Frnkft FireA 	Fire 	FMN 	Fire-Tac 
+154.37000 	   	KJH320 	BM	CSQ	Frnkft FireB 	Fire 	FMN 	Fire-Tac 
+463.81250 	   	WNXA292 	M		Frnkft CofC 	Chamber of Commerce  	FMN 	Business 
+154.04000 	158.76000  	KNIV274 	RM	632 DPL	FrnkftPubWrk 	Public Works 	FMN 	Public Works 
+151.45250 	154.01250  	WQJW712 	RM	205 DPL	HmrGlen EMA 	Emergency Management Agency 	FMN 	Emergency Ops 
+453.85000 	458.85000  	WSJ230 	RM	114.8 PL	HGlen PubWrk 	Public Works/Roads 	FMN 	Public Works 
+154.35500 	   	KSC280 	BM	156.7 PL	Joliet Fire 	Fire: Dispatch (Simulcast of TRS) 	FMN 	Fire Dispatch 
+48.38000 	   	WPEI351 	BM		Joliet IR Plant 	Public Works (Iron Removal Plant)  	FM 	Public Works 
+451.06250 	   	WQET520 	F		Joliet WDD 1 	Water Distribution Data (CSQ) 	Telm 	Data 
+451.12500 	   	WQET521 	F		Joliet WDD 2 	Water Distribution Data  	Telm 	Data 
+451.26250 	   	WQET522 	F		Joliet WDD 3 	Water Distribution Data (CSQ) 	Telm 	Data 
+451.82500 	   	WQET526 	F		Joliet WDD 4 	Water Distribution Data  	Telm 	Data 
+452.38750 	   	WQET526 	F		Joliet WDD 5 	Water Distribution Data (CSQ) 	Telm 	Data 
+155.11500 	153.75500  	KXZ350 	RM	123.0 PL	Lkpt PD C2C1 	City Hall / ESDA (Police on simplex) 	FMN 	Emergency Ops 
+155.11500 	   	KXZ350 	BM	151.4 PL	LkptbEMA Siren  	Outdoor Siren Signalling 	FMN 	Emergency Ops 
+155.02500 	   	KXZ350 	BM	123.0 PL	ESMARN 1230 	ESMARN 	FMN 	Emergency Ops 
+155.77500 	   	KET300 	BM	123.0 PL	Lkpt PW F-4 	Public Works / Police [Ch 19?] 	FMN 	Public Works 
+464.32500 	469.32500  	 	RM	261 DPL	Lkpt Parks 	Park District: Ops [No license]  	FMN 	Public Works 
+156.18000 	159.32250  	WQGB944 	RM	226 DPL	Manh PW/Watr 	Public Works / Water Department 	FMN 	Public Works 
+451.56250 	   	WPVA966 	M		Manh WDD 1 	Water Distribution Data 	Telm 	Data 
+456.56250 	   	WPVA966 	M		Manh WDD 2 	Water Distribution Data 	Telm 	Data 
+155.65500 	158.91000  	KZZ683 	RM	94.8 PL	Mnka Police 	Police: Old Dispatch 	FMN 	Law Dispatch 
+158.91000 	   	KZZ683 	M	CSQ	Mnka Police Tac 	Police: Tac 	FMN 	Law Tac 
+158.91000 	   	KZZ683 	M		Minka Police MX 	Police: Mobile Extenders 	FMN 	Law Tac 
+158.76000 	   	 	BM	94.8 PL	Mnka PubWrks 	Public Works 	FMN 	Public Works 
+155.02500 	153.80000  	WQV998 	RM		Mokena EMS 	EMA: ESMARN - Local Repeater 	FMN 	Emergency Ops 
+45.36000 	   	WQV998 	B	CSQ	Mokena EMA1 	Emergency Management Intersystem (with IEMA) 	FM 	Emergency Ops 
+154.16000 	   	KD43536 	M		Mokena Fire 	Fireground ? 	FMN 	Fire-Tac 
+155.10000 	   	WZH656 	BM		Mokena PbWks 	Public Works 	FMN 	Public Works 
+155.94000 	159.09750  	WQQU399 	RM	CC 6TG 5200SL 1	Monee Streets 	Streets/Public Works 	DMR 	Public Works 
+155.10000 	   	WPZT334 	BM		NLnx PubWrks 	Public Works [Expired 3/14] 	FMN 	Public Works 
+151.40000 	   	WPHE730 	BM		NLenox Parks 	New Lenox Park District 	FMN 	Public Works 
+158.96250 	153.77750  	KNFB456 	RM	79.7 PL	NWHFD Local 	Fire: Local (Backup/Interop) 	FMN 	Fire-Tac 
+155.88000 	159.06000  	KNFP292 	RM	173.8 PL	Orlnd PubWrk 	Public Works (also Police Tac-3) 	FMN 	Public Works 
+155.98500 	   	KNFP292 	M		Orland PW 	Public Works 	FMN 	Public Works 
+478.66250 	481.66250  	WPUJ785 	RM		OPark Data 	Data (CSQ) 	Telm 	Data 
+854.63750 	809.63750  	WNNB544 	RM	452 NAC	PlnfldPolice 	Plainfield Police: Dispatch (Backup to SC21) 	P25 	Law Dispatch 
+151.43750 	159.28000  	WQVF215 	RM	413 DPL	Plainfld EMA 	EMA: Operations  	FMN 	Emergency Ops 
+151.54250 	   	WPXU633 	B	88.5 PL	Plfd EMA EOC 	Emergency Operations Center 	FMN 	Emergency Ops 
+158.80500 	   	WNZY675 	BM	88.5 PL	Plfd PEMA 6 	Emergency Management Agency [Ch 6] 	FMN 	Emergency Ops 
+453.85000 	   	KGM472 	B	123.0 PL	Plfd Sirens1 	Outdoor Siren Signaling 	FMN 	Data 
+458.85000 	   	KGM472 	M	123.0 PL	Pfld Sirens2 	Outdoor Siren Signaling 	FMN 	Data 
+155.29500 	   	WNKC949 	BM	91.5 PL	Plainfld EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.02500 	   	KWO819 	BM	88.5 PL	Plfd PW/Snow 	Public Works / Snowplows [Ch 5] 	FMN 	Public Works 
+151.29500 	   	KNHB627 	BM	127.3 PL	Plfd TS Park 	Plainfield Township Park District 	FMN 	Public Works 
+159.16500 	153.90500  	WQBB981 	RM	127.3 PL	Romeovlle PD1  	Police: Dispatch [Ch.1] 	FMN 	Law Dispatch 
+156.16500 	153.87500  	WNCW258 	RM	346 DPL	Romeovlle EMA 	EMA: Operations 	FMN 	Emergency Ops 
+159.23250 	154.83750  	KFG465 	RM	107.2 PL	Romeoville Fire  	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.40000 	   	KFG465 	BM	107.2 PL	Fire Ops 	Fire EMS Ops 	FMN 	Fire-Tac 
+151.34750 	153.94250  	WQNJ942 	RM	118.8 PL	Romeovlle PW 	Public Works  	FMN 	Public Works 
+155.92500 	   	 	M	118.8 PL	Shrwd Police C2c 	Police: Car-to-Car [No License] 	FMN 	Law Talk 
+155.08500 	   	KNID218 	BM		Wlmng PD/PW 	Police: Tac / Public Works 	FMN 	Law Tac 
+154.13750 	158.78250  	WQLQ284 	RM	118.8 PL	Wlngtn ESDA 	ESDA: Local  	FMN 	Emergency Ops 
+461.73750 	466.73750  	 	RM	051 DPL	FS 461.7375 	First Student? (heard like 464.45 Joliet) 	FMN 	Business 
+854.41250 	809.41250  	WPIT844 	RM		FS Bus 85441 	Buses (Multiple Locations)  	FMN 	Business 
+463.35000 	468.35000  	WPOD874 	RM	051 DPL	FS Bus Jol-1 	First Student (Joliet) 	FMN 	Business 
+463.60000 	468.60000  	WPOD874 	RM		FS Bus Jol-2 	First Student (Joliet) 	FMN 	Business 
+464.22500 	469.22500  	WPOD874 	RM	203.5 PL	FS Bus UPk-1 	First Student: Vans (University Park) 	FMN 	Business 
+464.35000 	469.35000  	WPOD874 	RM	051 DPL	FS Bus UPk-2 	First Student (University Park) 	FMN 	Business 
+464.65000 	469.65000  	WPOD874 	RM	051 DPL	FS Bus UPk-3 	First Student (University Park) 	FMN 	Business 
+451.98750 	456.98750  	WPTZ256 	RM	223 DPL	GrandPrarie 	Grand Prairie School Bus: Special Needs (Cook IL Corp) 	FMN 	Business 
+461.58750 	466.58750  	WQMG699 	RM	054 DPL	ICSB UnPark1 	Illinois Central School Bus (University Park) 	FMN 	Business 
+461.71250 	466.71250  	WQMG699 	RM		ICSB UnPark2 	Illinois Central School Bus (University Park) 	FMN 	Business 
+854.73750 	809.73750  	WNQL839 	RM	143 DPL	SeptranPlfld 	Septran School Bus Service (Plainfield) 	FM 	Business 
+461.43750 	466.43750  	WQNX650 	RM	047 DPL	Wstwy Lemont 	Westway Coach (Lemont Yard) 	FMN 	Business 
+451.18750 	456.18750  	WQBD915 	RM	162 DPL	BHS Security 	High School Security [Ch 1] 	FMN 	Schools 
+451.48750 	456.48750  	WQBD915 	RM	411 DPL	BHS Maintenc 	High School Maintenance [Ch 2] 	FMN 	Schools 
+155.17500 	   	KNFA351 	BM	91.5 PL	CSD17 Bus3 	Buses (*possible tone, heard on I-80 "on 3") 	FMN 	Schools 
+151.89500 	   	WNZN727 	BM	91.5 PL	RchlndSchool 	Richland School (Crest Hill) 	FMN 	Schools 
+463.90000 	468.90000  	WPWW234 	RM	412 DPL	Crete-Monee HS 	Operations 	FMN 	Schools 
+463.68750 	468.68750  	WQGZ499 	RM	244 DPL	LWASE Ops 1 	Lincoln-Way Area Special Education 	FMN 	Schools 
+464.42500 	469.42500  	WZH838 	RM	167.9 PL	Lway Sch Bus 	Lincoln-Way East HS: Transportation? 	FMN 	Schools 
+451.45000 	456.45000  	WQYY719 	RM	CC 7TG 1SL 1	Homer 33C Bus 	Buses 	DMR 	Schools 
+451.45000 	456.45000  	WQYY719 	RM	CC 7TG 1SL 2	Homer 33C Schill 	Schilling School 	DMR 	Schools 
+452.88750 	457.88750  	WQYY719 	RM	CC 7TG 1SL 1	Homer 33C Maint 	Maintenance & Grounds 	DMR 	Schools 
+452.88750 	457.88750  	WQYY719 	RM	CC 7TG 2SL 2	Homer 33C Young 	Young School 	DMR 	Schools 
+461.60000 	466.50000  	WPMR282 	RM	162.2 PL	IPSD N Op5 	Security/Maintenance (Naperville) 	FMN 	Schools 
+463.65000 	468.65000  	WPMR282 	RM	364 DPL	IPSD N Op6 	Security/Maintenance (Naperville) 	FMN 	Schools 
+452.10000 	   	WPMR282 	M	100.0 PL	NVHS Sec/Admin 	Neuqua Valley High School: Security/Admin 	FMN 	Schools 
+461.55000 	   	WPMR282 	M	203.5 PL	NVHS Sec/Admin 	Neuqua Valley High School: Security/Admin 	FMN 	Schools 
+464.52500 	469.52500  	KCZ302 	RM	031 DPL	JTCHS Sec 	Joliet Township Central High School Security [Ch 1] 	FMN 	Schools 
+453.00000 	458.00000  	WPRL958 	RM	031 DPL	JTWHS Sec 	Joliet Township West High School Security [Ch 2] 	FMN 	Schools 
+464.97500 	469.97500  	KCZ302 	RM	031 DPL	JolTwpSchBus 	Joliet Township Transportation [Ch 3]  	FMN 	Schools 
+461.92500 	466.92500  	WQHN273 	RM	031 DPL	JTHS Teacher 	Joliet Township High School: Teacher Ops 	FMN 	Schools 
+152.92250 	159.59250  	WQOW215 	RM	043 DPL	LTHS Buses 	LTHS: Transportation Ops 	FMN 	Schools 
+155.22000 	   	KJQ621 	BM	67.0 PL	LTHS Bus  	LTHS District 205: Buses (occasionally used) 	FMN 	Schools 
+152.42750 	157.68750  	WPOY378 	RM	69.3 PL	LTHS East 	Lockport Township High School East campus operations 	FMN 	Schools 
+152.99000 	159.88500  	WPSY587 	RM	71.9 PL	LTHS Central 	Lockport Township High School Central campus operations 	FMN 	Schools 
+152.41250 	157.67250  	WPPH536 	RM	127.3 PL	HomrSch OpsB 	Homer Community Consolidated School District: Maintenance/Security  	FMN 	Schools 
+152.41250 	157.67250  	WPPH536 	RM	85.4 PL	HomrSch OpsA 	Homer Community Consolidated School District 	FMN 	Schools 
+451.35000 	456.35000  	WPZK772 	RM		Dist 91 Elem 	Milne-Kelvin Grove (Lockport Elementary) School District 91 	FMN 	Schools 
+155.23500 	   	 	BM	179.9 PL	Mink Sch Bus 	Buses [No License] 	FMN 	Schools 
+152.98250 	159.86250  	WQIY398 	RM	261 DPL	Mokena SchoolBus 	Buses 	FMN 	Schools 
+155.26500 	   	KJB391 	BM	141.3 PL	Mokena School 	Ops 	FMN 	Schools 
+464.67500 	469.67500  	WPHZ523 	RM	365 DPL	Pfld Sch Bus 	Buses (at High School) 	FMN 	Schools 
+461.40000 	466.40000  	WQIB499 	RM	118.8 PL	Pfld HS E 2 	East High School 	FMN 	Schools 
+464.45000 	469.45000  	WPOD874 	RM	051 DPL	FS Bus Jol-3 	First Student: Plainfield South (Joliet) 	FMN 	Schools 
+461.38750 	466.38750  	WPTQ636 	RM	506 DPL	PTSHS Ops 	Township South High School 	FMN 	Schools 
+461.47500 	466.47500  	WQIB499 	RM	074 DPL	PTNHS Ops 	Township North High School: Ops 	FMN 	Schools 
+452.70000 	457.70000  	WQIB499 	RM	114 DPL	PTSHS Maint 	Tonwship South High School: Maintenance 	FMN 	Schools 
+451.30000 	456.30000  	WPOX272 	RM	110.9 PL	RdCstrSchBus 	Buses 	FMN 	Schools 
+464.57500 	469.57500  	WPXL518 	RM		Troy30 Schools 	Operations/Transportation (203.5?) 	FMN 	Schools 
+451.18750 	456.18750  	WQDB915 	RM	162 DPL	VVSD Ops 1 	Operations (Bollingbrook) (*poss tone, hrd I-55) 	FMN 	Schools 
+461.42500 	466.42500  	KSZ591 	RM	103.5 PL	VVSD Ops 2 	Operations 	FMN 	Schools 
+463.28750 	468.28750  	WQYM400 	RM	CC 1TG *SL *	Dist 92 Schools 	District 92 Schools 	DMR 	Schools 
+453.90000 	458.90000  	KZZ721 	RM	167.9 PL	GSU Police 	Campus Police 	FMN 	Law Dispatch 
+464.50000 	   	 	BM	516 DPL	JJC Police 	Police: Dispatch [No License] [Old, deprecated?] 	FM 	Law Dispatch 
+461.88750 	466.88750  	KD54000 	RM		LewisU Ops 	Ops (LP R w/ Phone Patch) 	FMN 	Schools 
+461.27500 	466.27500  	WQII933 	RM	114 DPL	USF Maintenance 	University of St. Francis: Maintenance 	FMN 	Schools 
+461.41250 	466.41250  	 	RM	192.8 PL	USF Maintenance 	University of St. Francis: Maintenance 	FMN 	Schools 
+463.68750 	468.68750  	WQII933 	RM	CC 3TG 201SL 1	USF Security 	University of St. Francis: Security 	DMR 	Schools 
+166.71250 	   	 	M	CSQ	ALN Cemetary 	Abraham Lincoln National Cemetary (Elwood) 	FMN 	Federal 
+406.33750 	   	 	BM	482 NAC	USPIS NLECC 	United States Postal Service - Inspectors (Base ENC) 	P25 	Federal 
+A-Beep / Tri-Star Communications - VHF (NW IL)	 LTR Standard	 Plato Center	A-Beep Chicago-area LTR	 LTR Standard	 Chicago	Aurora / Naperville Public Safety (OpenSky)	 OpenSky 9600 baud	 Aurora
+Citgo Refinery (Romeoville)	 Motorola Type II	 Romeoville	Comlink Wireless (Metro Chicago Passport) 	 LTR Standard and Passport	 Chicago	Comlink Wireless (NXDN-61)	 NXDN NEXEDGE 4800	 Various
+Comlink Wireless/Chicago Equipment Company (Metro Chicago)	 LTR Standard	 Metro Chicago	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+ESP Wireless 3 - 900 MHz (Chicago)	 LTR Standard	 Chicago	ESP Wireless/Champion Communications (Mokena)	 LTR Standard	 Mokena	Exxon Communications (Will)	 Motorola Type II	 Channahon
+Flint Hills Resources/ESP Wireless (Channahon)	 LTR Standard	 Channahon	Harrahs Joliet Casino and Hotel	 LTR Standard	 Joliet	Lewis University (Romeoville)	 LTR Standard	 Romeoville
+Lockport City	 LTR Standard	 Lockport	MacNeil Automotive Products (dba WeatherTech)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bolingbrook	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various
+TRBOconnection-TRBOnexus	 DMR Motorola Connect Plus (TRBO)	 Various	Ventronics (Metro Chicago)	 LTR Standard	 Metro Chicago	Will County (EDACS)	 EDACS Standard	 Simulcast
+Will County (P25)	 Project 25 Phase II	 Joliet	

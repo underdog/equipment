@@ -1,110 +1,109 @@
-500.66250 	WIM582 	RM	203.5 PL	NC PD East 1 	Police Dispatch - East 1 	FMN 	Law Dispatch 
-501.03750 	WIM582 	RM	203.5 PL	NC PD East 2 	Police Dispatch - East 2 	FMN 	Law Tac 
-502.38750 	WIM582 	RM	192.8 PL	NC PD South1 	Police Dispatch - South 1 	FMN 	Law Dispatch 
-500.41250 	WIM582 	RM	192.8 PL	NC PD South2 	Police Dispatch - South 2 	FMN 	Law Tac 
-500.51250 	WIM582 	RM	203.5 PL	NC PD North 	Police Dispatch - North 	FMN 	Law Dispatch 
-500.31250 	WIM582 	RM	203.5 PL	Easton PD 1 	Police Dispatch - Easton City 1 	FMN 	Law Dispatch 
-500.46250 	WIM582 	RM	203.5 PL	Easton PD 2 	Police Dispatch - Easton City 2 	FMN 	Law Tac 
-501.53750 	WIM582 	M	179.9 PL	NC PD T/A 1 	Police Talkabout 1 (Car-Car) 	FMN 	Law Talk 
-501.53750 	WIM582 	M	203.5 PL	NC PD T/A 2 	Police Talkabout 2 (Car-Car) 	FMN 	Law Talk 
-453.10000 	KA21074 	RM	203.5 PL	NC Prison 	County Prison - Link from 460.0875 	FMN 	Corrections 
-460.08750 	KA21074 	RM	203.5 PL	NC Prison 1 	County Prison 1 	FMN 	Corrections 
-460.05000 	KA21074 	M	203.5 PL	NC Prison 2 	County Prison  2 	FMN 	Corrections 
-500.76250 	 	RM	173.8 PL	NC CourtRptr 	County Sheriff - Courthouse Repeater 	FM 	Law Talk 
-460.02500 	WPIA226 	RM	67.0 PL	NC Const Prv 	Constables (Private Repeater) 	FMN 	Law Tac 
-460.02500 	WPIA226 	RM	88.5 PL	NC Const Cty 	Constables (County Repeater) 	FMN 	Law Dispatch 
-154.34000 	KNGQ560 	BM	136.5 PL	NC Disp 1 	Dispatch 1 	FMN 	Fire Dispatch 
-154.05500 	KFB870 	RM	186.2 PL	NC Disp 2 	Dispatch 2 	FMN 	Fire Dispatch 
-500.63750 	WIM582 	RM	192.8 PL	NC Ops 1 	Ops 1 (South Fire) 	FMN 	Fire-Tac 
-500.71250 	WIM582 	RM	203.5 PL	NC Ops 2 	Ops 2 (North Fire) 	FMN 	Fire-Tac 
-501.18750 	WIM582 	RM	192.8 PL	NC Co Wide 	Countywide (Simulcast of VHF) 	FMN 	Fire Dispatch 
-501.41250 	WIM582 	RM	192.8 PL	NC Reg Med U 	UHF Regional Med 	FMN 	EMS-Talk 
-500.88750 	WIM582 	RM	192.8 PL	NC UHF Tac 1 	UHF Tac 1 	FMN 	Fire-Tac 
-500.81250 	WIM582 	RM	192.8 PL	NC UHF Tac 2 	UHF Tac 2 	FMN 	Fire-Tac 
-501.43750 	WIM582 	RM	192.8 PL	NC UHF Tac2A 	UHF Tac 2-A 	FMN 	Fire-Tac 
-500.83750 	WIM582 	RM	203.5 PL	NC UHF Tac 3 	UHF Tac 3 (Easton City Fire) 	FMN 	Fire-Tac 
-501.26250 	WIM582 	RM	192.8 PL	NC UHF Tac 4 	UHF Tac 4 	FMN 	Fire-Tac 
-501.13750 	WIM582 	RM	192.8 PL	NC UHF Tac 5 	UHF Tac 5 	FMN 	Fire-Tac 
-500.73750 	WIM582 	RM	203.5 PL	NC UHF Tac 6 	UHF Tac 6 	FMN 	Fire-Tac 
-501.96250 	WIM582 	M	179.9 PL	NC UHF T/A 1 	Talkabout 1 	FMN 	Fire-Talk 
-501.96250 	WIM582 	M	203.5 PL	NC UHF T/A 2 	Talkabout 2 	FMN 	Fire-Talk 
-501.96250 	WIM582 	M	192.8 PL	NC UHF T/A 3 	Talkabout 3 	FMN 	Fire-Talk 
-155.34000 	KXL362 	BM	173.8 PL	NC Reg Med V 	VHF Regional Med 	FM 	EMS-Talk 
-155.68500 	WPDC736 	RM	167.9 PL	NC VHF Tac 3 	VHF Tac 3 (Easton City Fire) 	FM 	Fire-Tac 
-154.38500 	KEL459 	BM	136.5 PL	NC VHF Tac 8 	VHF Tac 8 	FM 	Fire-Tac 
-154.19000 	KGC619 	BM	206.5 PL	NC VHF Tac 9 	VHF Tac 9 	FM 	Fire-Tac 
-155.23500 	KXL362 	BM	173.8 PL	NC VHF Tac10 	VHF Tac 10 	FM 	Fire-Tac 
-462.95000 	 	RM	173.8 PL	NC MED 9 	Med 9 	FM 	EMS-Tac 
-500.96250 	WIM582 	RM	192.8 PL	NC EMA 	Emergency Management 	FMN 	Emergency Ops 
-500.93750 	WIM582 	RM	203.5 PL	NC PW UHF A1 	Public Works - Wind Gap Tower (also used by North Police) 	FM 	Public Works 
-501.48750 	WIM582 	RM	203.5 PL	NC PW UHF A2 	Public Works - Paxanosia Tower 	FM 	Public Works 
-154.02500 	KFB870 	B	186.2 PL	NC PW VHF A1 	Public Works - Transco Tower 	FM 	Public Works 
-158.82000 	KGH769 	BM	167.9 PL	NC PW VHF A2 	Public Works - Paxanosia Tower 	FM 	Public Works 
-154.98000 	KDG244 	RM	114.8 PL	NC PW VHF A3 	Public Works - Paxanosia Tower 	FM 	Public Works 
-155.74500 	KUV571 	BM	107.2 PL	NC PW VHF A4 	Public Works - Lehigh University Building 	FM 	Public Works 
-453.25000 	WQFW832 	RM	136.5 PL	Allen Twp PW 	Allen Township Highway Dept 	FMN 	Public Works 
-154.41500 	WPZY571 	BM		KRFC Ops 	Klecknersville Rangers Fire Company 	FMN 	Fire-Tac 
-158.80500 	KYQ528 	BM	192.8 PL	BethTwp DPW 	Public Works/Physical Plant 	FMN 	Public Works 
-502.42500 	WQHX497 	RM	192.8 PL	Nancy FD 	Nancy Run Fire Co. - Private Channel 	FMN 	Fire-Talk 
-155.11500 	KNFU694 	BM	136.5 PL	E Allen PW 	Public Works Dept. 	FMN 	Public Works 
-460.31250 	 	RM	100.0 PL	E Allen FDPW 	Fire and Public Works Tac 	FMN 	Fire-Tac 
-460.45000 	KTX792 	BM	CC 1TG *SL *	Easton PD 	Police Tactical  	DMR 	Law Tac 
-453.30000 	WQGM976 	RM	71.9 PL	Forks Fire 	Fire Department 	FMN 	Fire-Talk 
-501.53750 	WIM582 	M	136.5 PL	Frmansbrg PD 	Police Tac 	FMN 	Law Tac 
-458.85000 	WQHW529 	M	664 DPL	Fburg FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-460.58750 	WQIC360 	RM	115 DPL	Hnvr NBco PW 	Hanover Township, Northco Public Works 	FMN 	Public Works 
-460.56250 	KNNN904 	M	136.5 PL	HBFD Pvt 	Fire Department Private 	FMN 	Fire-Talk 
-460.41250 	WQFU683 	M	136.5 PL	LehighFDPW 	Fire Tactical/Public Works 	FMN 	Fire-Tac 
-453.08750 	WMWV784 	M	156.7 PL	LNazFD Pvt 	Fire Private 	FMN 	Fire-Tac 
-154.71000 	KUQ784 	BM	107.2 PL	LwrSaucon PD 	Police Local 	FMN 	Law Talk 
-458.35000 	WQHI718 	M	664 DPL	LwrSaucon FR 	Fire Rescue Private 	FMN 	Fire-Talk 
-453.17500 	WQIE902 	RM	100.0 PL	MtBethel VFC 	Mount Bethel VFC Private 	FMN 	Fire-Talk 
-453.81250 	WQGX391 	M	71.9 PL	NazFD Pvt1 	Fire Private 1 	FMN 	Fire-Tac 
-458.81250 	WQGX391 	M	71.9 PL	NazFD Pvt2 	Fire Private 2 	FMN 	Fire-Tac 
-460.35000 	KD37922 	M	203.5 PL	Palmer DPW 	Public Works 	FMN 	Public Works 
-460.37500 	WRBN707 	RM	627 DPL	Palmer FD Pvt 	Fire Private 	FMN 	Fire-Talk 
-453.66250 	WQGF320 	M	032 DPL	PenArgylFD 	Fire Private 	FMN 	Fire-Tac 
-461.60000 	WNJX543 	RM	243 DPL	PlnfldFDTc36 	Fire Tactical 36 	FMN 	Fire-Tac 
-453.23750 	WQJP428 	BM	100.0 PL	PortlandFD 	Fire Department Private 	FMN 	Fire-Talk 
-458.72500 	WQIA698 	M	77.0 PL	TatamyFD Pvt 	Fire Private 	FMN 	Fire-Tac 
-453.17500 	WQIE902 	RM	100.0 PL	MBVFD Prvt 	Mount Bethel Volunteer Fire - Private 	FMN 	Fire-Talk 
-453.56260 	WQHP732 	M	71.9 PL	UprNazFDPvt  	Fire Private 	FMN 	Fire-Tac 
-451.90000 	 	RM	91.5 PL	WTFD TAC-38 	 Washington Township Fire 	FMN 	Fire-Tac 
-500.35000 	WQIB480 	RM	77.0 PL	Wlms Twp PW 	Public Works/Highway Dept. 	FM 	Public Works 
-464.92500 	WPPA654 	RM	146.2 PL	BASD Ops 	Operations 	FMN 	Schools 
-463.70000 	WNJU339 	RM	155 DPL	BASD Trans 	Transportation 	FM 	Schools 
-464.82500 	WQBF259 	RM	91.5 PL	BASD Maint. 	Maintenance 	FM 	Schools 
-452.23750 	WQDG495 	RM	074 DPL	BASD Freedom 	Freedom High 	FM 	Schools 
-464.62500 	WPQF322 	RM	612 DPL	BASD Liberty 	Liberty High 	FMN 	Schools 
-461.88750 	WQJE739 	RM	025 DPL	BethlehemAVS 	Bethlehem Area Vocational School 	FM 	Schools 
-461.71250 	WPRI992 	BM		EASD Sec 	School Security 	DMR 	Schools 
-463.68750 	WPRI992 	RM	146.2 PL	EASD Ops 	District Operations 	FMN 	Schools 
-463.85000 	WPRB405 	RM	065 DPL	EASD HighSch 	High School 	FMN 	Schools 
-453.00000 	WPLY700 	RM	CC 3TG *SL *	NazarethBOE 	School Operations (ID 102 Slot 2) 	DMR 	Schools 
-154.51500 	WPDS800 	RM	167.9 PL	NASD Ops/Sec 	Operations/Security 	FM 	Schools 
-151.71500 	WPDS800 	RM	CSQ	NASD 	Northampton Area School District 	FM 	Schools 
-151.74500 	WPDS800 	RM	CSQ	NASD 	Northampton Area School District 	FM 	Schools 
-152.91500 	WPRJ517 	RM	218.1 PL	NASD Maint 	Maintenance Department  	FM 	Schools 
-159.82500 	WPRJ517 	BM	CSQ	NASD 	Northampton Area School District 	FM 	Schools 
-502.46250 	WIL266 	RM	261 DPL	NASD FS #2 	First Student Transportation Base #2 	FMN 	Schools 
-464.02500 	WNCP958 	RM	054 DPL	PASD Trans 	Pen Argyl School District (Primary/Buses) 	FMN 	Schools 
-461.61250 	WPYU348 	M	100.0 PL	PASD HS 	Pen Argyl School District (High School) 	FMN 	Schools 
-464.35000 	 	BM	74.4 PL	WASD Ops 	Wilson Area School District (200 Units - Trans) 	FM 	Schools 
-452.01250 	WQVM403 	RM		Lafeyette Op 	Operations 	DMR 	Business 
-461.37500 	KNIS534 	RM	CC 3TG 1SL 1	Laf Col PD 	Public Safety/Police Dispatch 	DMR 	Law Dispatch 
-461.37500 	KNIS534 	RM	CC 3TG 8SL 2	Laf Col EHS 	Public Safety/EH&S Ops 	DMR 	Business 
-464.42500 	WPRG976 	RM	CC 2TG 4SL 2	Laf Col Mnt1 	Maintenance Operations 1 	DMR 	Business 
-464.42500 	WPRG976 	RM	CC 2TG 6SL 2	Laf Col Mnt2 	Maintenance Operations 2 	DMR 	Business 
-151.92500 	WPSE812 	M	127.3 PL	LUSC Parking 	Stabler Center Parking 	FM 	Business 
-157.54500 	WPSE812 	M	127.3 PL	LUSC Parking 	Stabler Center Parking 	FM 	Business 
-159.60000 	 	BM	127.3 PL	LUSC Stabler 	Stabler Center 	FM 	Business 
-451.96250 	WPVS303 	RM	065 DPL	Moravian Ops 	Operations 	FM 	Schools 
-462.81250 	 	M	612 DPL	Moravian Hsk 	Housekeeping 	FM 	Schools 
-451.50000 	KNNF338 	RM	136.5 PL	NCC Call Box 	Security Call Boxes 	FMN 	Security 
-464.43750 	KNNF338 	RM	CC 5TG 192SL 1	NCC Security 	Security 	DMR 	Security 
-464.43750 	KNNF338 	RM	CC 5TG 292SL 2	NCC Maint 	Maintenance 	DMR 	Schools 
-Bethlehem Public Safety	 Project 25 Phase I	 Bethlehem	Industrial Communications (Northampton)	 LTR Standard	 Easton	Lehigh University	 LTR Standard
- Bethlehem	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	New Jersey Interoperability Communications System (NJICS)	 Project 25 Phase II	 Statewide	New Jersey State Police
- Motorola Type II SmartZone Omnilink	 Statewide	New Jersey Transit	 TETRA Standard	 Statewide	NJ-TRBO Linked Amateur Radio Network	 DMR Conventional Networked	 Various
-Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Sands Beth Works Casino	 LTR Standard	 Bethlehem	TRBOCOM	 DMR Motorola Connect Plus (TRBO)
- Various	TuWAY Communications	 DMR Motorola Connect Plus (TRBO)	 Various	
+500.66250 	503.66250  	WIM582 	RM	203.5 PL	NC PD East 1 	Police Dispatch - East 1 	FMN 	Law Dispatch 
+501.03750 	504.03750  	WIM582 	RM	203.5 PL	NC PD East 2 	Police Dispatch - East 2 	FMN 	Law Tac 
+502.38750 	505.38750  	WIM582 	RM	192.8 PL	NC PD South1 	Police Dispatch - South 1 	FMN 	Law Dispatch 
+500.41250 	503.41250  	WIM582 	RM	192.8 PL	NC PD South2 	Police Dispatch - South 2 	FMN 	Law Tac 
+500.51250 	503.51250  	WIM582 	RM	203.5 PL	NC PD North 	Police Dispatch - North 	FMN 	Law Dispatch 
+500.31250 	503.31250  	WIM582 	RM	203.5 PL	Easton PD 1 	Police Dispatch - Easton City 1 	FMN 	Law Dispatch 
+500.46250 	503.46250  	WIM582 	RM	203.5 PL	Easton PD 2 	Police Dispatch - Easton City 2 	FMN 	Law Tac 
+501.53750 	   	WIM582 	M	179.9 PL	NC PD T/A 1 	Police Talkabout 1 (Car-Car) 	FMN 	Law Talk 
+501.53750 	   	WIM582 	M	203.5 PL	NC PD T/A 2 	Police Talkabout 2 (Car-Car) 	FMN 	Law Talk 
+453.10000 	458.10000  	KA21074 	RM	203.5 PL	NC Prison 	County Prison - Link from 460.0875 	FMN 	Corrections 
+460.08750 	   	KA21074 	RM	203.5 PL	NC Prison 1 	County Prison 1 	FMN 	Corrections 
+460.05000 	   	KA21074 	M	203.5 PL	NC Prison 2 	County Prison  2 	FMN 	Corrections 
+500.76250 	503.76250  	 	RM	173.8 PL	NC CourtRptr 	County Sheriff - Courthouse Repeater 	FM 	Law Talk 
+460.02500 	465.02500  	WPIA226 	RM	67.0 PL	NC Const Prv 	Constables (Private Repeater) 	FMN 	Law Tac 
+460.02500 	465.02500  	WPIA226 	RM	88.5 PL	NC Const Cty 	Constables (County Repeater) 	FMN 	Law Dispatch 
+154.34000 	   	KNGQ560 	BM	136.5 PL	NC Disp 1 	Dispatch 1 	FMN 	Fire Dispatch 
+154.05500 	158.89000  	KFB870 	RM	186.2 PL	NC Disp 2 	Dispatch 2 	FMN 	Fire Dispatch 
+500.63750 	503.63750  	WIM582 	RM	192.8 PL	NC Ops 1 	Ops 1 (South Fire) 	FMN 	Fire-Tac 
+500.71250 	503.71250  	WIM582 	RM	203.5 PL	NC Ops 2 	Ops 2 (North Fire) 	FMN 	Fire-Tac 
+501.18750 	504.18750  	WIM582 	RM	192.8 PL	NC Co Wide 	Countywide (Simulcast of VHF) 	FMN 	Fire Dispatch 
+501.41250 	504.41250  	WIM582 	RM	192.8 PL	NC Reg Med U 	UHF Regional Med 	FMN 	EMS-Talk 
+500.88750 	503.88750  	WIM582 	RM	192.8 PL	NC UHF Tac 1 	UHF Tac 1 	FMN 	Fire-Tac 
+500.81250 	503.81250  	WIM582 	RM	192.8 PL	NC UHF Tac 2 	UHF Tac 2 	FMN 	Fire-Tac 
+501.43750 	504.43750  	WIM582 	RM	192.8 PL	NC UHF Tac2A 	UHF Tac 2-A 	FMN 	Fire-Tac 
+500.83750 	503.83750  	WIM582 	RM	203.5 PL	NC UHF Tac 3 	UHF Tac 3 (Easton City Fire) 	FMN 	Fire-Tac 
+501.26250 	504.26250  	WIM582 	RM	192.8 PL	NC UHF Tac 4 	UHF Tac 4 	FMN 	Fire-Tac 
+501.13750 	504.13750  	WIM582 	RM	192.8 PL	NC UHF Tac 5 	UHF Tac 5 	FMN 	Fire-Tac 
+500.73750 	503.73750  	WIM582 	RM	203.5 PL	NC UHF Tac 6 	UHF Tac 6 	FMN 	Fire-Tac 
+501.96250 	   	WIM582 	M	179.9 PL	NC UHF T/A 1 	Talkabout 1 	FMN 	Fire-Talk 
+501.96250 	   	WIM582 	M	203.5 PL	NC UHF T/A 2 	Talkabout 2 	FMN 	Fire-Talk 
+501.96250 	   	WIM582 	M	192.8 PL	NC UHF T/A 3 	Talkabout 3 	FMN 	Fire-Talk 
+155.34000 	   	KXL362 	BM	173.8 PL	NC Reg Med V 	VHF Regional Med 	FM 	EMS-Talk 
+155.68500 	153.92000  	WPDC736 	RM	167.9 PL	NC VHF Tac 3 	VHF Tac 3 (Easton City Fire) 	FM 	Fire-Tac 
+154.38500 	   	KEL459 	BM	136.5 PL	NC VHF Tac 8 	VHF Tac 8 	FM 	Fire-Tac 
+154.19000 	   	KGC619 	BM	206.5 PL	NC VHF Tac 9 	VHF Tac 9 	FM 	Fire-Tac 
+155.23500 	   	KXL362 	BM	173.8 PL	NC VHF Tac10 	VHF Tac 10 	FM 	Fire-Tac 
+462.95000 	467.95000  	 	RM	173.8 PL	NC MED 9 	Med 9 	FM 	EMS-Tac 
+500.96250 	503.96250  	WIM582 	RM	192.8 PL	NC EMA 	Emergency Management 	FMN 	Emergency Ops 
+500.93750 	503.93750  	WIM582 	RM	203.5 PL	NC PW UHF A1 	Public Works - Wind Gap Tower (also used by North Police) 	FM 	Public Works 
+501.48750 	504.48750  	WIM582 	RM	203.5 PL	NC PW UHF A2 	Public Works - Paxanosia Tower 	FM 	Public Works 
+154.02500 	158.94000  	KFB870 	B	186.2 PL	NC PW VHF A1 	Public Works - Transco Tower 	FM 	Public Works 
+158.82000 	153.81500  	KGH769 	BM	167.9 PL	NC PW VHF A2 	Public Works - Paxanosia Tower 	FM 	Public Works 
+154.98000 	158.86500  	KDG244 	RM	114.8 PL	NC PW VHF A3 	Public Works - Paxanosia Tower 	FM 	Public Works 
+155.74500 	   	KUV571 	BM	107.2 PL	NC PW VHF A4 	Public Works - Lehigh University Building 	FM 	Public Works 
+453.25000 	458.25000  	WQFW832 	RM	136.5 PL	Allen Twp PW 	Allen Township Highway Dept 	FMN 	Public Works 
+154.41500 	   	WPZY571 	BM		KRFC Ops 	Klecknersville Rangers Fire Company 	FMN 	Fire-Tac 
+158.80500 	   	KYQ528 	BM	192.8 PL	BethTwp DPW 	Public Works/Physical Plant 	FMN 	Public Works 
+502.42500 	505.42500  	WQHX497 	RM	192.8 PL	Nancy FD 	Nancy Run Fire Co. - Private Channel 	FMN 	Fire-Talk 
+155.11500 	   	KNFU694 	BM	136.5 PL	E Allen PW 	Public Works Dept. 	FMN 	Public Works 
+460.31250 	465.31250  	 	RM	100.0 PL	E Allen FDPW 	Fire and Public Works Tac 	FMN 	Fire-Tac 
+460.45000 	   	KTX792 	BM	CC 1TG *SL *	Easton PD 	Police Tactical  	DMR 	Law Tac 
+453.30000 	458.30000  	WQGM976 	RM	71.9 PL	Forks Fire 	Fire Department 	FMN 	Fire-Talk 
+501.53750 	   	WIM582 	M	136.5 PL	Frmansbrg PD 	Police Tac 	FMN 	Law Tac 
+458.85000 	   	WQHW529 	M	664 DPL	Fburg FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+460.58750 	   	WQIC360 	RM	115 DPL	Hnvr NBco PW 	Hanover Township, Northco Public Works 	FMN 	Public Works 
+460.56250 	   	KNNN904 	M	136.5 PL	HBFD Pvt 	Fire Department Private 	FMN 	Fire-Talk 
+460.41250 	   	WQFU683 	M	136.5 PL	LehighFDPW 	Fire Tactical/Public Works 	FMN 	Fire-Tac 
+453.08750 	   	WMWV784 	M	156.7 PL	LNazFD Pvt 	Fire Private 	FMN 	Fire-Tac 
+154.71000 	   	KUQ784 	BM	107.2 PL	LwrSaucon PD 	Police Local 	FMN 	Law Talk 
+458.35000 	   	WQHI718 	M	664 DPL	LwrSaucon FR 	Fire Rescue Private 	FMN 	Fire-Talk 
+453.17500 	   	WQIE902 	RM	100.0 PL	MtBethel VFC 	Mount Bethel VFC Private 	FMN 	Fire-Talk 
+453.81250 	   	WQGX391 	M	71.9 PL	NazFD Pvt1 	Fire Private 1 	FMN 	Fire-Tac 
+458.81250 	   	WQGX391 	M	71.9 PL	NazFD Pvt2 	Fire Private 2 	FMN 	Fire-Tac 
+460.35000 	   	KD37922 	M	203.5 PL	Palmer DPW 	Public Works 	FMN 	Public Works 
+460.37500 	   	WRBN707 	RM	627 DPL	Palmer FD Pvt 	Fire Private 	FMN 	Fire-Talk 
+453.66250 	   	WQGF320 	M	032 DPL	PenArgylFD 	Fire Private 	FMN 	Fire-Tac 
+461.60000 	465.60000  	WNJX543 	RM	243 DPL	PlnfldFDTc36 	Fire Tactical 36 	FMN 	Fire-Tac 
+453.23750 	   	WQJP428 	BM	100.0 PL	PortlandFD 	Fire Department Private 	FMN 	Fire-Talk 
+458.72500 	   	WQIA698 	M	77.0 PL	TatamyFD Pvt 	Fire Private 	FMN 	Fire-Tac 
+453.17500 	458.17500  	WQIE902 	RM	100.0 PL	MBVFD Prvt 	Mount Bethel Volunteer Fire - Private 	FMN 	Fire-Talk 
+453.56260 	   	WQHP732 	M	71.9 PL	UprNazFDPvt  	Fire Private 	FMN 	Fire-Tac 
+451.90000 	465.90000  	 	RM	91.5 PL	WTFD TAC-38 	 Washington Township Fire 	FMN 	Fire-Tac 
+500.35000 	503.35000  	WQIB480 	RM	77.0 PL	Wlms Twp PW 	Public Works/Highway Dept. 	FM 	Public Works 
+464.92500 	469.92500  	WPPA654 	RM	146.2 PL	BASD Ops 	Operations 	FMN 	Schools 
+463.70000 	468.70000  	WNJU339 	RM	155 DPL	BASD Trans 	Transportation 	FM 	Schools 
+464.82500 	469.82500  	WQBF259 	RM	91.5 PL	BASD Maint. 	Maintenance 	FM 	Schools 
+452.23750 	457.23750  	WQDG495 	RM	074 DPL	BASD Freedom 	Freedom High 	FM 	Schools 
+464.62500 	469.62500  	WPQF322 	RM	612 DPL	BASD Liberty 	Liberty High 	FMN 	Schools 
+461.88750 	466.88750  	WQJE739 	RM	025 DPL	BethlehemAVS 	Bethlehem Area Vocational School 	FM 	Schools 
+461.71250 	   	WPRI992 	BM		EASD Sec 	School Security 	DMR 	Schools 
+463.68750 	468.68750  	WPRI992 	RM	146.2 PL	EASD Ops 	District Operations 	FMN 	Schools 
+463.85000 	468.85000  	WPRB405 	RM	065 DPL	EASD HighSch 	High School 	FMN 	Schools 
+453.00000 	458.00000  	WPLY700 	RM	CC 3TG *SL *	NazarethBOE 	School Operations (ID 102 Slot 2) 	DMR 	Schools 
+154.51500 	   	WPDS800 	RM	167.9 PL	NASD Ops/Sec 	Operations/Security 	FM 	Schools 
+151.71500 	   	WPDS800 	RM	CSQ	NASD 	Northampton Area School District 	FM 	Schools 
+151.74500 	   	WPDS800 	RM	CSQ	NASD 	Northampton Area School District 	FM 	Schools 
+152.91500 	   	WPRJ517 	RM	218.1 PL	NASD Maint 	Maintenance Department  	FM 	Schools 
+159.82500 	   	WPRJ517 	BM	CSQ	NASD 	Northampton Area School District 	FM 	Schools 
+502.46250 	505.46250  	WIL266 	RM	261 DPL	NASD FS #2 	First Student Transportation Base #2 	FMN 	Schools 
+464.02500 	469.02500  	WNCP958 	RM	054 DPL	PASD Trans 	Pen Argyl School District (Primary/Buses) 	FMN 	Schools 
+461.61250 	   	WPYU348 	M	100.0 PL	PASD HS 	Pen Argyl School District (High School) 	FMN 	Schools 
+464.35000 	   	 	BM	74.4 PL	WASD Ops 	Wilson Area School District (200 Units - Trans) 	FM 	Schools 
+452.01250 	457.01250  	WQVM403 	RM		Lafeyette Op 	Operations 	DMR 	Business 
+461.37500 	466.37500  	KNIS534 	RM	CC 3TG 1SL 1	Laf Col PD 	Public Safety/Police Dispatch 	DMR 	Law Dispatch 
+461.37500 	466.37500  	KNIS534 	RM	CC 3TG 8SL 2	Laf Col EHS 	Public Safety/EH&S Ops 	DMR 	Business 
+464.42500 	469.42500  	WPRG976 	RM	CC 2TG 4SL 2	Laf Col Mnt1 	Maintenance Operations 1 	DMR 	Business 
+464.42500 	469.42500  	WPRG976 	RM	CC 2TG 6SL 2	Laf Col Mnt2 	Maintenance Operations 2 	DMR 	Business 
+151.92500 	   	WPSE812 	M	127.3 PL	LUSC Parking 	Stabler Center Parking 	FM 	Business 
+157.54500 	   	WPSE812 	M	127.3 PL	LUSC Parking 	Stabler Center Parking 	FM 	Business 
+159.60000 	   	 	BM	127.3 PL	LUSC Stabler 	Stabler Center 	FM 	Business 
+451.96250 	456.96250  	WPVS303 	RM	065 DPL	Moravian Ops 	Operations 	FM 	Schools 
+462.81250 	   	 	M	612 DPL	Moravian Hsk 	Housekeeping 	FM 	Schools 
+451.50000 	456.50000  	KNNF338 	RM	136.5 PL	NCC Call Box 	Security Call Boxes 	FMN 	Security 
+464.43750 	469.43750  	KNNF338 	RM	CC 5TG 192SL 1	NCC Security 	Security 	DMR 	Security 
+464.43750 	469.43750  	KNNF338 	RM	CC 5TG 292SL 2	NCC Maint 	Maintenance 	DMR 	Schools 
+Bethlehem Public Safety	 Project 25 Phase I	 Bethlehem	Industrial Communications (Northampton)	 LTR Standard	 Easton	Lehigh University	 LTR Standard	 Bethlehem
+Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	New Jersey Transit	 TETRA Standard	 Statewide	NJ-TRBO Linked Amateur Radio Network	 DMR Conventional Networked	 Various
+Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Sands Beth Works Casino	 LTR Standard	 Bethlehem	TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various
+TuWAY Communications	 DMR Motorola Connect Plus (TRBO)	 Various	

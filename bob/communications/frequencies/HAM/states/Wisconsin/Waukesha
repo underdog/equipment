@@ -1,36 +1,35 @@
-154.43000 	WPGB871 	B	CSQ	WKPAG 	Countywide Fire Paging 	FMN 	Fire Dispatch 
-453.56250 	WQPQ226 	RM	331 DPL	WKJAIL 	Jail 	FMN 	Corrections 
-855.46250 	WQXF252 	RM	351 DPL	WKWIDE2 	County Backup 	FMN 	Multi-Dispatch 
-858.26250 	WQXF252 	RM	351 DPL	WKWIDE1 	County Backup 	FMN 	Multi-Dispatch 
-854.98750 	WPNZ291 	M	125 DPL	WKDIR1 	Direct 1 	FM 	Multi-Talk 
-856.26250 	WPNZ291 	M	125 DPL	WKDIR2 	Direct 2 	FM 	Multi-Talk 
-860.26250 	WPNZ291 	M	125 DPL	WKDIR3 	Direct 3 	FM 	Multi-Talk 
-45.86000 	KSB426 	B	103.5 PL	MAC 1 	Milwaukee Area Coordination - Calling 	FM 	Interop 
-46.02000 	KSB426 	B	103.5 PL	MAC 2 	Milwaukee Area Coordination - Working 	FM 	Interop 
-154.04000 	WPHW597 	RM		WK Siren 	Siren Control 	FMN 	Data 
-463.63750 	KNNJ633 	RM		WK North R 	Waukesha North HS repeater 	DMR 	Schools 
-451.61250 	KNNJ633 	M		WK North P1 	Waukesha North HS portables 	FMN 	Schools 
-452.83750 	KNNJ633 	M		WK North P2 	Waukesha North HS portables 	FMN 	Schools 
-463.96250 	KNNJ633 	RM		WK South R 	Waukesha South HS repeater 	DMR 	Schools 
-155.88000 	KLJ223 	BM	85.4 PL	WKBRSIREN 	Siren control telemetry 	FMN 	Data 
-155.94000 	KGT546 	BM	107.2 PL	Butler DPW 	Village Public Works 	FMN 	Public Works 
-154.43000 	KSI829 	BM	107.2 PL	WKELG Paging 	Paging 	FMN 	Fire Dispatch 
-154.20500 	WQEH944 	B	CSQ	WKFDDISPA VHF 	OASIS WKFDDISPA Simulcast 	FMN 	Fire-Tac 
-155.77500 	KTL575 	RM	118.8 PL	Lisbon DPW 	Town Public Works 	FMN 	Public Works 
-155.94000 	KCI486 	RM	136.5 PL	WKMFFD 	Fire Patch to WKFDDISPA 	FMN 	Fire Dispatch 
-159.10500 	WPGF986 	RM	167.9 PL	WKMFDPW 	Public Works 	FMN 	Public Works 
-159.15000 	WNVX572 	RM	74.4 PL	MK PD 	Police 	FMN 	Law Dispatch 
-154.43000 	WPLV592 	RM	118.8 PL	MK FD Page 	Fire Paging 	FMN 	Fire Dispatch 
-154.08500 	KLS214 	BM	141.3 PL	MK DPW 	Public Works 	FMN 	Public Works 
-155.35500 	WPQA239 	RM	100.0 PL	MGF Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.17000 	WQCA824 	RM	118.8 PL	MN SD 	Muskego Norway School District 	FMN 	Schools 
-464.82500 	WPCQ694 	BM	118.8 PL	NBSD 	Ops 	FMN 	Schools 
-151.25000 	KSE633 	BM	131.8 PL	OWCITYWD 	Citywide Emergency Channel 	FMN 	Multi-Talk 
-155.10000 	WQBD583 	BM	100.0 PL	WKOLMD 	Operations 	FM 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Arrowhead Union High School	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hartland	Dousman Transport Co	 LTR Standard
- New Berlin	Flipco	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	General Communications (Hartland)	 LTR Standard	 Hartland	General Communications (Muskego)
- LTR Standard	 Muskego	General Communications (New Berlin)	 LTR Standard	 New Berlin	General Communications NexWave	 NXDN NEXEDGE 4800	 Madison
-Lamers Bus Lines	 LTR Standard	 New Berlin	Milwaukee Repeater Service (Muskego)	 LTR Standard	 Muskego	Target Distribution Center (Oconomowoc)	 LTR Standard
- Oconomowoc	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Three Pillars Senior Living Communities	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dousman	TRBOconnection-TRBOnexus
- DMR Motorola Connect Plus (TRBO)	 Various	Viking Communications (New Berlin 800)	 LTR Standard	 New Berlin	Viking Communications (New Berlin)	 LTR Standard	 New Berlin
-Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+154.43000 	   	WPGB871 	B	CSQ	WKPAG 	Countywide Fire Paging 	FMN 	Fire Dispatch 
+453.56250 	458.56250  	WQPQ226 	RM	331 DPL	WKJAIL 	Jail 	FMN 	Corrections 
+855.46250 	810.46250  	WQXF252 	RM	351 DPL	WKWIDE2 	County Backup 	FMN 	Multi-Dispatch 
+858.26250 	813.26250  	WQXF252 	RM	351 DPL	WKWIDE1 	County Backup 	FMN 	Multi-Dispatch 
+854.98750 	   	WPNZ291 	M	125 DPL	WKDIR1 	Direct 1 	FM 	Multi-Talk 
+856.26250 	   	WPNZ291 	M	125 DPL	WKDIR2 	Direct 2 	FM 	Multi-Talk 
+860.26250 	   	WPNZ291 	M	125 DPL	WKDIR3 	Direct 3 	FM 	Multi-Talk 
+45.86000 	   	KSB426 	B	103.5 PL	MAC 1 	Milwaukee Area Coordination - Calling 	FM 	Interop 
+46.02000 	   	KSB426 	B	103.5 PL	MAC 2 	Milwaukee Area Coordination - Working 	FM 	Interop 
+154.04000 	   	WPHW597 	RM		WK Siren 	Siren Control 	FMN 	Data 
+463.63750 	468.63750  	KNNJ633 	RM		WK North R 	Waukesha North HS repeater 	DMR 	Schools 
+451.61250 	   	KNNJ633 	M		WK North P1 	Waukesha North HS portables 	FMN 	Schools 
+452.83750 	   	KNNJ633 	M		WK North P2 	Waukesha North HS portables 	FMN 	Schools 
+463.96250 	468.96250  	KNNJ633 	RM		WK South R 	Waukesha South HS repeater 	DMR 	Schools 
+155.88000 	   	KLJ223 	BM	85.4 PL	WKBRSIREN 	Siren control telemetry 	FMN 	Data 
+155.94000 	   	KGT546 	BM	107.2 PL	Butler DPW 	Village Public Works 	FMN 	Public Works 
+154.43000 	   	KSI829 	BM	107.2 PL	WKELG Paging 	Paging 	FMN 	Fire Dispatch 
+154.20500 	   	WQEH944 	B	CSQ	WKFDDISPA VHF 	OASIS WKFDDISPA Simulcast 	FMN 	Fire-Tac 
+155.77500 	   	KTL575 	RM	118.8 PL	Lisbon DPW 	Town Public Works 	FMN 	Public Works 
+155.94000 	153.92000  	KCI486 	RM	136.5 PL	WKMFFD 	Fire Patch to WKFDDISPA 	FMN 	Fire Dispatch 
+159.10500 	156.07500  	WPGF986 	RM	167.9 PL	WKMFDPW 	Public Works 	FMN 	Public Works 
+159.15000 	153.96500  	WNVX572 	RM	74.4 PL	MK PD 	Police 	FMN 	Law Dispatch 
+154.43000 	158.89500  	WPLV592 	RM	118.8 PL	MK FD Page 	Fire Paging 	FMN 	Fire Dispatch 
+154.08500 	   	KLS214 	BM	141.3 PL	MK DPW 	Public Works 	FMN 	Public Works 
+155.35500 	   	WPQA239 	RM	100.0 PL	MGF Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.17000 	158.32500  	WQCA824 	RM	118.8 PL	MN SD 	Muskego Norway School District 	FMN 	Schools 
+464.82500 	469.82500  	WPCQ694 	BM	118.8 PL	NBSD 	Ops 	FMN 	Schools 
+151.25000 	   	KSE633 	BM	131.8 PL	OWCITYWD 	Citywide Emergency Channel 	FMN 	Multi-Talk 
+155.10000 	   	WQBD583 	BM	100.0 PL	WKOLMD 	Operations 	FM 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Arrowhead Union High School	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hartland	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+Dousman Transport Co	 LTR Standard	 New Berlin	Flipco	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	General Communications (Hartland)	 LTR Standard	 Hartland
+General Communications (Muskego)	 LTR Standard	 Muskego	General Communications (New Berlin)	 LTR Standard	 New Berlin	General Communications NexWave	 NXDN NEXEDGE 4800	 Madison
+Lamers Bus Lines	 LTR Standard	 New Berlin	Milwaukee Repeater Service (Muskego)	 LTR Standard	 Muskego	Organization of Affiliated Secure Interoperable RF Subsystems (OASIS)	 Project 25 Phase I	 Milwaukee & Waukesha
+Target Distribution Center (Oconomowoc)	 LTR Standard	 Oconomowoc	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Three Pillars Senior Living Communities	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dousman
+TRBOconnection-TRBOnexus	 DMR Motorola Connect Plus (TRBO)	 Various	Viking Communications (New Berlin 800)	 LTR Standard	 New Berlin	Viking Communications (New Berlin)	 LTR Standard	 New Berlin

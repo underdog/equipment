@@ -1,11 +1,11 @@
-154.77000 	KR3665 	M		Coma SO Talk 	Sheriff Ch. 1 Mobile 	FMN 	Law Tac 
-155.52000 	KVF649 	RM	94.8 PL	Coma SO Ana 	Sheriff Ch. 2 Dispatch Analog 	FMN 	Law Dispatch 
-155.52000 	KVF649 	RM	047 NAC	Coma SO P25 	Sheriff Ch. 3 Dispatch Digital 	P25 	Law Dispatch 
-155.80500 	WNXN811 	RM	94.8 PL	Coma Rural Fire 	Rural Fire Dispatch (De Leon, Sipe Springs, Proctor, Promontory Park, Gustine; Sheriff Ch. 4) 	FMN 	Fire Dispatch 
-154.41500 	WPDE433 	BM	151.4 PL	Coma CF Disp 	Fire Dispatch (Sheriff Ch. 5) 	FMN 	Fire Dispatch 
-155.66250 	WQLC404 	RM		Coma Co OEM 	Office of Emergency Management (Sheriff Ch. 6) 	FMN 	Emergency Ops 
-155.82750 	 	BM	143 DPL	Coma EMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.56500 	WQMY741 	RM	CC 10TG 910SL 1	CRRRTD Dispatch 	Dispatch 	DMR 	Transportation 
-159.12750 	WQBM696 	RM	94.8 PL	Comanche VFD 	Fire Dispatch/EMS (Sheriff Ch. 7) 	FMN 	Fire Dispatch 
-158.89500 	WPMJ248 	BM		De Leon PbWk 	Public Works 	FMN 	Public Works 
-Oncor Energy	 EDACS Narrowband Networked	 Various	
+154.77000 	   	KR3665 	M		Coma SO Talk 	Sheriff Ch. 1 Mobile 	FMN 	Law Tac 
+155.52000 	154.77000  	KVF649 	RM	94.8 PL	Coma SO Ana 	Sheriff Ch. 2 Dispatch Analog 	FMN 	Law Dispatch 
+155.52000 	154.77000  	KVF649 	RM	047 NAC	Coma SO P25 	Sheriff Ch. 3 Dispatch Digital 	P25 	Law Dispatch 
+155.80500 	153.96500  	WNXN811 	RM	94.8 PL	Coma Rural Fire 	Rural Fire Dispatch (De Leon, Sipe Springs, Proctor, Promontory Park, Gustine; Sheriff Ch. 4) 	FMN 	Fire Dispatch 
+154.41500 	   	WPDE433 	BM	151.4 PL	Coma CF Disp 	Fire Dispatch (Sheriff Ch. 5) 	FMN 	Fire Dispatch 
+155.66250 	158.73750  	WQLC404 	RM		Coma Co OEM 	Office of Emergency Management (Sheriff Ch. 6) 	FMN 	Emergency Ops 
+155.82750 	   	 	BM	143 DPL	Coma EMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.56500 	159.11250  	WQMY741 	RM	CC 10TG 910SL 1	CRRRTD Dispatch 	Dispatch 	DMR 	Transportation 
+159.12750 	155.87250  	WQBM696 	RM	94.8 PL	Comanche VFD 	Fire Dispatch/EMS (Sheriff Ch. 7) 	FMN 	Fire Dispatch 
+158.89500 	   	WPMJ248 	BM		De Leon PbWk 	Public Works 	FMN 	Public Works 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various	

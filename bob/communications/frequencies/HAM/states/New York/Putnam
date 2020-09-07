@@ -1,57 +1,57 @@
-155.98500 	KEC202 	RM	107.2 PL	Putnam 911 E 	Puntam 911 - East 	FMN 	Law Dispatch 
-156.03000 	KEC202 	BM	103.5 PL	Putnam 911 W 	Putnam 911 - West 	FMN 	Law Dispatch 
-153.91250 	WPOY984 	RM	107.2 PL	Putnam SO-E 	Sheriff - East 	FMN 	Law Dispatch 
-155.58750 	WQCE655 	RM	110.9 PL	Putnam SO-W 	Sheriff - West 	FMN 	Law Dispatch 
-460.13750 	KEC202 	RM	CC 9TG *SL 2	Putnam SO-Jl 	Sheriff - Jail 	DMR 	Corrections 
-46.38000 	KED862 	BM	123.0 PL	Putnam FD Ds 	Fire 1 - Fire/EMS Dispatch 	FM 	Fire Dispatch 
-46.50000 	KNFB981 	BM	123.0 PL	Putnam Fire2 	Fire 2 - Fireground 	FM 	Fire-Tac 
-46.30000 	KED862 	M	123.0 PL	Putnam Fire3 	Fire 3 - Fireground 	FM 	Fire-Tac 
-46.04000 	KNDL866 	B	123.0 PL	Putnam FD 4 	Fire 4 - Fireground  	FM 	Fire-Tac 
-46.44000 	WPPD340 	BM	127.3 PL	Putnam FD 5 	Fire 5 - Fireground 	FM 	Fire Dispatch 
-46.10000 	WPPD340 	M	123.0 PL	Putnam FD 7 	Fire 7 - Fireground/Landing Zone 	FM 	Fire-Tac 
-46.54000 	WPPD340 	M	127.3 PL	Putnam FD 13 	Fire 13 - Mobiles 	FM 	Fire Dispatch 
-453.93750 	 	BM		Putnam FD Lk 	Fire Link to 46.38 	FMN 	Fire Dispatch 
-155.20500 	KSS219 	BM	162.2 PL	Putnam EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
-453.18750 	WPWP237 	BM	123.0 PL	Putnam EMS L 	Putnam 911 EMS - Link to 155.205 	FMN 	EMS Dispatch 
-154.43750 	KED862 	RM	131.8 PL	Putnam EMS C 	EMS Countywide 	FMN 	EMS-Tac 
-155.28000 	KSS219 	BM	123.0 PL	Putnam EMS 	EMS 	FMN 	EMS-Talk 
-155.22000 	KSS219 	BM	123.0 PL	Putnam EMS H 	EMS to Hudson Valley Hospital 	FMN 	Hospital 
-156.24000 	WQKY699 	RM	546 DPL	Putnam DPW 	Highway Department 	FMN 	Public Works 
-153.80750 	WQKC740 	BM		Brewster PD 	Police 	FMN 	Law Dispatch 
-154.37000 	KJD401 	RM	123.0 PL	Brewster FD1 	Fireground 1 	FMN 	Fire-Tac 
-170.15000 	KJD401 	M	123.0 PL	Brewster FD2 	Fireground 2 	FMN 	Fire-Tac 
-154.02500 	KEG777 	RM	91.5 PL	Carmel PD 	Police 	FMN 	Law Dispatch 
-154.43750 	WPAD580 	RM	243 DPL	Carmel Fire 	Carmel FD 	FMN 	Fire-Tac 
-46.34000 	 	BM		Mahopac FD 	Mahopac Falls Fireground 	FM 	Fire-Tac 
-151.14500 	KLM606 	RM	606 DPL	Mahopac FD 	Mahopac Fire Department 	FMN 	Fire-Tac 
-159.17250 	WQOM638 	M	123.0 PL	Carmel EMS 	EMS 	FMN 	EMS-Tac 
-155.10000 	KCT253 	RM		Carmel DPW 	Highway Department 	DMR 	Public Works 
-153.93500 	KYQ563 	RM	91.5 PL	Kent Police 	Police 	FMN 	Law Dispatch 
-453.28750 	WSB916 	RM	503 DPL	Kent Fire 	Fire Operations 	FMN 	Fire-Tac 
-155.69250 	KUG794 	RM	306 DPL	Fire Command 	Lake Carmel Fire - Command 	FMN 	Fire-Tac 
-155.80500 	KUG794 	M	110.9 PL	Fireground 1 	Lake Carmel Fire - Fireground 1 	FMN 	Fire-Tac 
-154.65750 	KUG794 	RM	125 DPL	FireFastTeam 	Lake Carmel Fire - Fast Team 	FMN 	Fire-Tac 
-453.66250 	KUG794 	RM	125 DPL	X-band 46.38 	Lake Carmel Fire - Link to 46.38 	FMN 	Fire-Tac 
-158.74500 	KRP774 	RM	118.8 PL	Kent Highway 	Highway (also Police back-up) 	FMN 	Public Works 
-159.40500 	WQBG617 	BM	114.8 PL	Pattrsn FG 1 	Patterson Fireground 1 	FMN 	Fire-Tac 
-156.10500 	WQBG617 	BM	114.8 PL	Pattrsn FG 2 	Patterson Fireground 2 	FMN 	Fire-Tac 
-151.37750 	WQBG617 	RM	114.8 PL	Pattrsn FG 3 	Patterson Fireground 3 	FMN 	Fire-Tac 
-159.24000 	WQHB873 	RM	271 DPL	Put Lake FD 	Putnam Lake Fire 	FMN 	Fire-Tac 
-471.57500 	WQKH394 	RM	266 DPL	ColdSpringFD 	Cold Spring Fire 	FMN 	Fire-Tac 
-460.53750 	WNXD782 	M	192.8 PL	Garrison FD1 	Garrison Fire 	FMN 	Fire Dispatch 
-477.45000 	WQMN942  	RM	411 DPL	Garrison FD2 	Garrison Fire - Fireground 2 	FMN 	Fire-Tac 
-45.96000 	WNXD782 	BM	123.0 PL	Garrison FD3 	Garrison Fire - Rescue Operations 	FM 	Fire-Tac 
-476.56250 	WQBA551 	RM	243 DPL	NHFD Rptr 	North Highland Fire 	FMN 	Fire-Tac 
-476.58750 	WQBA551 	B	100.0 PL	NHFD Tac 1 	North Highland Fire Tac 1 	FMN 	Fire-Tac 
-479.56250 	 	BM	243 DPL	NHFD Tac 2 	North Highland Fire Tac 2 	FMN 	Fire-Tac 
-479.58750 	 	BM	100.0 PL	NHFD Tac 3 	North Highland Fire Tac 3 	FMN 	Fire-Tac 
-462.96250 	WNPA788 	RM		Garrison EMS 	Garrison Ambulance Squad 	FMN 	EMS-Tac 
-151.02500 	KSX248 	RM		Philipstown Hwy 	Highway Department 	FMN 	Public Works 
-453.78750 	 	RM	503 DPL	PVFD Link 	Putnam Valley Fire - Link to 46.38 	FMN 	Fire Dispatch 
-151.34750 	KCP618 	M	244 DPL	PVFD FG 1 	Fireground 1 	FMN 	Fire-Tac 
-151.44500 	KCP618 	M	233.6 PL	PVFD FG  2 	Fireground 2 	FMN 	Fire-Tac 
-155.14500 	KWF837 	BM	123.0 PL	PutVal DPW 	Public Works 	FMN 	Public Works 
-154.23500 	 	M		PC Courts 	Carmel, Putnam County Courts 	FMN 	Law Tac 
-Metro-25/MTA MRRS	 Project 25 Phase II	 Regional	New York State Bridge Authority	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Hudson Valley	New York State Electric and Gas (NYSEG)	 Project 25 Phase I
- Statewide	NJ-TRBO Linked Amateur Radio Network	 DMR Conventional Networked	 Various	NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional	OneVoice Network
- DMR Motorola Connect Plus (TRBO)	 Various	
+155.98500 	151.36250  	KEC202 	RM	107.2 PL	Putnam 911 E 	Puntam 911 - East 	FMN 	Law Dispatch 
+156.03000 	   	KEC202 	BM	103.5 PL	Putnam 911 W 	Putnam 911 - West 	FMN 	Law Dispatch 
+153.91250 	159.45750  	WPOY984 	RM	107.2 PL	Putnam SO-E 	Sheriff - East 	FMN 	Law Dispatch 
+155.58750 	159.29250  	WQCE655 	RM	110.9 PL	Putnam SO-W 	Sheriff - West 	FMN 	Law Dispatch 
+460.13750 	465.13750  	KEC202 	RM	CC 9TG *SL 2	Putnam SO-Jl 	Sheriff - Jail 	DMR 	Corrections 
+46.38000 	   	KED862 	BM	123.0 PL	Putnam FD Ds 	Fire 1 - Fire/EMS Dispatch 	FM 	Fire Dispatch 
+46.50000 	   	KNFB981 	BM	123.0 PL	Putnam Fire2 	Fire 2 - Fireground 	FM 	Fire-Tac 
+46.30000 	   	KED862 	M	123.0 PL	Putnam Fire3 	Fire 3 - Fireground 	FM 	Fire-Tac 
+46.04000 	   	KNDL866 	B	123.0 PL	Putnam FD 4 	Fire 4 - Fireground  	FM 	Fire-Tac 
+46.44000 	   	WPPD340 	BM	127.3 PL	Putnam FD 5 	Fire 5 - Fireground 	FM 	Fire Dispatch 
+46.10000 	   	WPPD340 	M	123.0 PL	Putnam FD 7 	Fire 7 - Fireground/Landing Zone 	FM 	Fire-Tac 
+46.54000 	   	WPPD340 	M	127.3 PL	Putnam FD 13 	Fire 13 - Mobiles 	FM 	Fire Dispatch 
+453.93750 	   	 	BM		Putnam FD Lk 	Fire Link to 46.38 	FMN 	Fire Dispatch 
+155.20500 	   	KSS219 	BM	162.2 PL	Putnam EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+453.18750 	   	WPWP237 	BM	123.0 PL	Putnam EMS L 	Putnam 911 EMS - Link to 155.205 	FMN 	EMS Dispatch 
+154.43750 	150.79000  	KED862 	RM	131.8 PL	Putnam EMS C 	EMS Countywide 	FMN 	EMS-Tac 
+155.28000 	   	KSS219 	BM	123.0 PL	Putnam EMS 	EMS 	FMN 	EMS-Talk 
+155.22000 	   	KSS219 	BM	123.0 PL	Putnam EMS H 	EMS to Hudson Valley Hospital 	FMN 	Hospital 
+156.24000 	151.36250  	WQKY699 	RM	546 DPL	Putnam DPW 	Highway Department 	FMN 	Public Works 
+153.80750 	   	WQKC740 	BM		Brewster PD 	Police 	FMN 	Law Dispatch 
+154.37000 	153.89000  	KJD401 	RM	123.0 PL	Brewster FD1 	Fireground 1 	FMN 	Fire-Tac 
+170.15000 	   	KJD401 	M	123.0 PL	Brewster FD2 	Fireground 2 	FMN 	Fire-Tac 
+154.02500 	158.90250  	KEG777 	RM	91.5 PL	Carmel PD 	Police 	FMN 	Law Dispatch 
+154.43750 	158.98500  	WPAD580 	RM	243 DPL	Carmel Fire 	Carmel FD 	FMN 	Fire-Tac 
+46.34000 	   	 	BM		Mahopac FD 	Mahopac Falls Fireground 	FM 	Fire-Tac 
+151.14500 	159.46500  	KLM606 	RM	606 DPL	Mahopac FD 	Mahopac Fire Department 	FMN 	Fire-Tac 
+159.17250 	   	WQOM638 	M	123.0 PL	Carmel EMS 	EMS 	FMN 	EMS-Tac 
+155.10000 	   	KCT253 	RM		Carmel DPW 	Highway Department 	DMR 	Public Works 
+153.93500 	154.95000  	KYQ563 	RM	91.5 PL	Kent Police 	Police 	FMN 	Law Dispatch 
+453.28750 	458.28750  	WSB916 	RM	503 DPL	Kent Fire 	Fire Operations 	FMN 	Fire-Tac 
+155.69250 	153.99500  	KUG794 	RM	306 DPL	Fire Command 	Lake Carmel Fire - Command 	FMN 	Fire-Tac 
+155.80500 	   	KUG794 	M	110.9 PL	Fireground 1 	Lake Carmel Fire - Fireground 1 	FMN 	Fire-Tac 
+154.65750 	155.69250  	KUG794 	RM	125 DPL	FireFastTeam 	Lake Carmel Fire - Fast Team 	FMN 	Fire-Tac 
+453.66250 	458.66250  	KUG794 	RM	125 DPL	X-band 46.38 	Lake Carmel Fire - Link to 46.38 	FMN 	Fire-Tac 
+158.74500 	153.84500  	KRP774 	RM	118.8 PL	Kent Highway 	Highway (also Police back-up) 	FMN 	Public Works 
+159.40500 	   	WQBG617 	BM	114.8 PL	Pattrsn FG 1 	Patterson Fireground 1 	FMN 	Fire-Tac 
+156.10500 	   	WQBG617 	BM	114.8 PL	Pattrsn FG 2 	Patterson Fireground 2 	FMN 	Fire-Tac 
+151.37750 	159.22500  	WQBG617 	RM	114.8 PL	Pattrsn FG 3 	Patterson Fireground 3 	FMN 	Fire-Tac 
+159.24000 	151.32500  	WQHB873 	RM	271 DPL	Put Lake FD 	Putnam Lake Fire 	FMN 	Fire-Tac 
+471.57500 	474.57500  	WQKH394 	RM	266 DPL	ColdSpringFD 	Cold Spring Fire 	FMN 	Fire-Tac 
+460.53750 	   	WNXD782 	M	192.8 PL	Garrison FD1 	Garrison Fire 	FMN 	Fire Dispatch 
+477.45000 	480.45000  	WQMN942  	RM	411 DPL	Garrison FD2 	Garrison Fire - Fireground 2 	FMN 	Fire-Tac 
+45.96000 	   	WNXD782 	BM	123.0 PL	Garrison FD3 	Garrison Fire - Rescue Operations 	FM 	Fire-Tac 
+476.56250 	479.56250  	WQBA551 	RM	243 DPL	NHFD Rptr 	North Highland Fire 	FMN 	Fire-Tac 
+476.58750 	   	WQBA551 	B	100.0 PL	NHFD Tac 1 	North Highland Fire Tac 1 	FMN 	Fire-Tac 
+479.56250 	   	 	BM	243 DPL	NHFD Tac 2 	North Highland Fire Tac 2 	FMN 	Fire-Tac 
+479.58750 	   	 	BM	100.0 PL	NHFD Tac 3 	North Highland Fire Tac 3 	FMN 	Fire-Tac 
+462.96250 	467.96250  	WNPA788 	RM		Garrison EMS 	Garrison Ambulance Squad 	FMN 	EMS-Tac 
+151.02500 	155.89500  	KSX248 	RM		Philipstown Hwy 	Highway Department 	FMN 	Public Works 
+453.78750 	458.78750  	 	RM	503 DPL	PVFD Link 	Putnam Valley Fire - Link to 46.38 	FMN 	Fire Dispatch 
+151.34750 	   	KCP618 	M	244 DPL	PVFD FG 1 	Fireground 1 	FMN 	Fire-Tac 
+151.44500 	   	KCP618 	M	233.6 PL	PVFD FG  2 	Fireground 2 	FMN 	Fire-Tac 
+155.14500 	   	KWF837 	BM	123.0 PL	PutVal DPW 	Public Works 	FMN 	Public Works 
+154.23500 	   	 	M		PC Courts 	Carmel, Putnam County Courts 	FMN 	Law Tac 
+Metro-25/MTA MRRS	 Project 25 Phase II	 Regional	New York State Bridge Authority	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Hudson Valley	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide
+NJ-TRBO Linked Amateur Radio Network	 DMR Conventional Networked	 Various	NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional	NYCOMCO (MOTOTRBO)	 DMR Motorola Connect Plus (TRBO)	 Various
+OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	

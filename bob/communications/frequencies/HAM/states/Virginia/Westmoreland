@@ -1,2 +1,10 @@
-460.28750 	WPPW805 	RM	193 NAC	WCSO Disp 	Sheriff Dispatch 	P25 	Law Dispatch 
-461.48750 	WQRF212 	M	023 DPL	WandL HS 	Washington and Lee High School 	FMN 	Schools 
+453.71250 	458.71250  	WPPW805 	RM	193 NAC	WCFR Disp 	Fire/Rescue Dispatch (multicast with 453.8000) 	P25 	Fire Dispatch 
+453.80000 	458.80000  	WPPW805 	RM	107.2 PL	WCFR Disp Pagers 	Fire/Rescue Dispatch - Pagers (multicast with 453.7125) 	FMN 	Fire Dispatch 
+453.46250 	458.46250  	WPPW805 	RM	193 NAC	WCFR 2 	Fire/Rescue 2 	P25 	Fire-Tac 
+453.48750 	458.48750  	WPPW805 	RM	193 NAC	WCFR 3 	Fire/Rescue 3 	P25 	Fire-Tac 
+460.28750 	465.28750  	WPPW805 	RM	193 NAC	WCSO Disp 	Sheriff Dispatch 	P25 	Law Dispatch 
+460.63750 	465.63750  	WPPW805 	RM	193 NAC	WCSO 2 	Sheriff 2 	P25 	Law Tac 
+460.03750 	465.03750  	WPPW805 	RM		WCSO 460.0375 	Sheriff 	P25 	Law Tac 
+461.48750 	   	WQRF212 	M	023 DPL	WandL HS 	Washington and Lee High School 	FMN 	Schools 
+460.21250 	465.21250  	WQIQ425 	RM	193 NAC	ColonialBch PD 1 	Police 1 	P25 	Law Dispatch 
+460.61250 	465.61250  	WQIQ425 	RM	193 NAC	ColonialBch PD 2 	Police 2 	P25 	Law Tac 

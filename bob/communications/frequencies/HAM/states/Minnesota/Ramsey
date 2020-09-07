@@ -1,20 +1,20 @@
-154.19000 	KFA449 	BM	162.2 PL	RAM E PAGE 	Fire - Paging All 	FMN 	Fire Dispatch 
-155.16000 	KJG394 	BM	162.2 PL	RMSY EMG  1 	Emergency Services 1 	FMN 	Emergency Ops 
-155.29500 	WNBW590 	BM	162.2 PL	RMSY EMG  2 	Emergency Services 2 	FMN 	Emergency Ops 
-155.29500 	WNBW590 	RM	186.2 PL	RMSY EMG 3-4 	Emergency Services 3-4 	FMN 	Emergency Ops 
-462.95000 	 	RM	192.8 PL	E Metro EMS 	East Metro EMS Call In 	FMN 	EMS Dispatch 
-155.83500 	KNNL729 	BM		RmsyJuvCtr 1 	Juvenile Center 	FMN 	Corrections 
-156.00000 	WPKF784 	RM	85.4 PL	RmsyJuvCtr 2 	Juvenile Center 	FMN 	Corrections 
-156.22500 	KB73465 	M		Rmsy PubWrks 	County Public Works 	FMN 	Public Works 
-154.34000 	WQWY309 	RM		MOUND VW PW 	MOUNDS VIEW - City Public Works 	FMN 	Public Works 
-151.25750 	KNEE254 	RM	265 DPL	ST FAIR PD 	Police main  	FMN 	Law Dispatch 
-153.96500 	KNEE254 	RM	91.5 PL	ST FAIR SEC 	Police 	FMN 	Law Tac 
-155.88000 	KNHA821 	RM	162.2 PL	WBL PAGING 	Fire Paging 	FMN 	Law Dispatch 
-158.94000 	KNHA821 	M	162.2 PL	WBL Police2 	Police 	FMN 	Law Tac 
-154.26500 	KNNS705 	BM	162.2 PL	WBL Fire 3 	Fire 	FMN 	Fire-Tac 
-453.05000 	KNDQ460 	RM	114.8 PL	WBL PubWrks 	Public Works 	FMN 	Public Works 
-Action Radio - St. Paul	 LTR Standard	 St Paul	Action Radio - West St. Paul	 LTR Standard	 West St Paul	Ancom Wireless - Arden Hills 1	 DMR Motorola Capacity Plus Single Site (TRBO)
- Arden Hills	Ancom Wireless - Arden Hills 2	 LTR Standard	 Arden Hills	AVR Concrete - Arden Hills	 Motorola Type II	 Arden Hills	Cemstone Concrete (St. Paul)
- LTR Standard	 St. Paul	Great River Energy	 Project 25 Phase I	 	Minnesota Mining and Manufacturing (3M)	 Motorola Type II	 Various
-Minnesota Mobile Telephone - St. Paul	 LTR Standard	 St. Paul	Mobile Radio Engineering (NXDN)	 NXDN NEXEDGE 4800	 Varies	Mobile Radio Engineering - St. Paul	 LTR Standard
- St. Paul	Xcel Arena/RiverCentre	 DMR Motorola Capacity Plus Single Site (TRBO)	 Saint Paul	
+154.19000 	   	KFA449 	BM	162.2 PL	RAM E PAGE 	Fire - Paging All 	FMN 	Fire Dispatch 
+155.16000 	   	KJG394 	BM	162.2 PL	RMSY EMG  1 	Emergency Services 1 	FMN 	Emergency Ops 
+155.29500 	   	WNBW590 	BM	162.2 PL	RMSY EMG  2 	Emergency Services 2 	FMN 	Emergency Ops 
+155.29500 	154.11500  	WNBW590 	RM	186.2 PL	RMSY EMG 3-4 	Emergency Services 3-4 	FMN 	Emergency Ops 
+462.95000 	467.95000  	 	RM	192.8 PL	E Metro EMS 	East Metro EMS Call In 	FMN 	EMS Dispatch 
+155.83500 	   	KNNL729 	BM		RmsyJuvCtr 1 	Juvenile Center 	FMN 	Corrections 
+156.00000 	153.93500  	WPKF784 	RM	85.4 PL	RmsyJuvCtr 2 	Juvenile Center 	FMN 	Corrections 
+156.22500 	   	KB73465 	M		Rmsy PubWrks 	County Public Works 	FMN 	Public Works 
+154.34000 	159.11250  	WQWY309 	RM		MOUND VW PW 	MOUNDS VIEW - City Public Works 	FMN 	Public Works 
+151.25750 	158.92500  	KNEE254 	RM	265 DPL	ST FAIR PD 	Police main  	FMN 	Law Dispatch 
+153.96500 	155.92500  	KNEE254 	RM	91.5 PL	ST FAIR SEC 	Police 	FMN 	Law Tac 
+155.88000 	153.84500  	KNHA821 	RM	162.2 PL	WBL PAGING 	Fire Paging 	FMN 	Law Dispatch 
+158.94000 	   	KNHA821 	M	162.2 PL	WBL Police2 	Police 	FMN 	Law Tac 
+154.26500 	   	KNNS705 	BM	162.2 PL	WBL Fire 3 	Fire 	FMN 	Fire-Tac 
+453.05000 	458.05000  	KNDQ460 	RM	114.8 PL	WBL PubWrks 	Public Works 	FMN 	Public Works 
+Action Radio - St. Paul	 LTR Standard	 St Paul	Action Radio - West St. Paul	 LTR Standard	 West St Paul	Allied Radio Matrix for Emergency Response (ARMER)	 Project 25 Phase I	 Various
+Ancom Wireless - Arden Hills 1	 DMR Motorola Capacity Plus Single Site (TRBO)	 Arden Hills	Ancom Wireless - Arden Hills 2	 LTR Standard	 Arden Hills	AVR Concrete - Arden Hills	 Motorola Type II	 Arden Hills
+Cemstone Concrete (St. Paul)	 LTR Standard	 St. Paul	Great River Energy	 Project 25 Phase I	 	Minnesota Mining and Manufacturing (3M)	 Motorola Type II	 Various
+Minnesota Mobile Telephone - St. Paul	 LTR Standard	 St. Paul	Mobile Radio Engineering (NXDN)	 NXDN NEXEDGE 4800	 Varies	Mobile Radio Engineering - St. Paul	 LTR Standard	 St. Paul
+Xcel Arena/RiverCentre	 DMR Motorola Capacity Plus Single Site (TRBO)	 Saint Paul	

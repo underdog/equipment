@@ -1,21 +1,19 @@
-155.35500 	 	BM	173.8 PL	USCF Med Helo 	UCSF to Medic Helicopters 	FMN 	Hospital 
-852.17500 	WQYG201 	M	506 DPL	SF PS-TA 1 	Public Safety Talkaround 1 - Shared Police/Fire C16 	FM 	Multi-Talk 
-851.05000 	WQYG201 	M	506 DPL	SFPD C14/TA1 	Police C14 - Talkaround 1 	FM 	Law Talk 
-852.65000 	 	M	506 DPL	SFPD C15/TA2 	Police C15 - Talkaround 2 	FM 	Law Talk 
-851.93750 	WQYG201 	M	506 DPL	SFFD C14/TA1 	Fire C14 - Talkaround 1 	FM 	Fire-Talk 
-852.31250 	WQYG201 	M	506 DPL	SFFD C15/TA2 	Fire C15 - Talkaround 2 	FM 	Fire-Talk 
-45.10000 	KMA438 	BM	131.8 PL	SFPD Low Ch1 	Police Lowband Ch 1 - Backup Div 2 G H I 	FM 	Law Dispatch 
-45.14000 	WNHH873 	BM	131.8 PL	SFPD Low Ch2 	Police Lowband Ch 2 - Backup Div 2 C D 	FM 	Law Dispatch 
-45.58000 	KMA438 	BM	131.8 PL	SFPD Low Ch3 	Police Lowband Ch 3 - Backup Div 1 A B J 	FM 	Law Dispatch 
-45.46000 	KMA438 	BM	131.8 PL	SFPD Low Ch4 	Police Lowband Ch 4 - Backup Div 1 E F 	FM 	Law Dispatch 
-453.22500 	KNFZ464 	RM	151.4 PL	SF MA 450 	UHF Mutual Aid 	FMN 	Interop 
-457.60000 	 	M	051 DPL	Cruise Term Sec 	Herman Cruise Terminal - Security 	FMN 	Security 
-853.53750 	WPSH605 	RM	CSQ	BART Conv BU 	Conventional Backup 	FM 	Transportation 
-ATT (LTR)	 LTR Standard	 Various	Bay Area Rapid Transit (BART)	 EDACS Standard	 Bay Area	California Radio Interoperable System (CRIS)	 Project 25 Phase I
- Multiple	CALTrans (District 04 - South)	 Motorola Type II Smartnet	 None	Fisher Wireless (San Bruno Mtn.)	 LTR Standard	 None	Fisher Wireless (San Francisco)
- LTR Standard	 San Francisco	Golden Gate Bridge Highway and Transportation District	 Project 25 Phase I	 San Rafael	Lawrence Livermore National Laboratory	 Project 25 Phase I	 Livermore
-Oracle Park	 DMR Motorola Capacity Plus Single Site (TRBO)	 San Francisco	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	RFC Wireless (DMR)	 DMR Motorola Connect Plus (TRBO)
- Various (Bay Area)	San Francisco County/City	 Motorola Type II SmartZone	 San Francisco	San Francisco County/City P25	 Project 25 Phase I	 San Francisco	San Francisco Municipal Transportation Agency (SFMTA)
- Project 25 Phase II	 San Francisco City/County	San Francisco Zoo	 DMR Motorola Capacity Plus Single Site (TRBO)	 San Francisco	Signature Wireless Group iDAS Multitrunk (Bay Area)	 NXDN Icom IDAS Type D	 San Rafael
-Silke Communications	 NXDN NEXEDGE 4800	 Northern California	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	The Radio Guys	 NXDN NEXEDGE 4800
- Various	University of California (San Francisco)	 DMR Motorola Connect Plus (TRBO)	 San Francisco	
+155.35500 	   	 	BM	173.8 PL	USCF Med Helo 	UCSF to Medic Helicopters 	FMN 	Hospital 
+852.17500 	   	WQYG201 	M	506 DPL	SF PS-TA 1 	Public Safety Talkaround 1 - Shared Police/Fire C16 	FM 	Multi-Talk 
+851.05000 	   	WQYG201 	M	506 DPL	SFPD C14/TA1 	Police C14 - Talkaround 1 	FM 	Law Talk 
+852.65000 	   	 	M	506 DPL	SFPD C15/TA2 	Police C15 - Talkaround 2 	FM 	Law Talk 
+851.93750 	   	WQYG201 	M	506 DPL	SFFD C14/TA1 	Fire C14 - Talkaround 1 	FM 	Fire-Talk 
+852.31250 	   	WQYG201 	M	506 DPL	SFFD C15/TA2 	Fire C15 - Talkaround 2 	FM 	Fire-Talk 
+45.10000 	   	KMA438 	BM	131.8 PL	SFPD Low Ch1 	Police Lowband Ch 1 - Backup Div 2 G H I 	FM 	Law Dispatch 
+45.14000 	   	WNHH873 	BM	131.8 PL	SFPD Low Ch2 	Police Lowband Ch 2 - Backup Div 2 C D 	FM 	Law Dispatch 
+45.58000 	   	KMA438 	BM	131.8 PL	SFPD Low Ch3 	Police Lowband Ch 3 - Backup Div 1 A B J 	FM 	Law Dispatch 
+45.46000 	   	KMA438 	BM	131.8 PL	SFPD Low Ch4 	Police Lowband Ch 4 - Backup Div 1 E F 	FM 	Law Dispatch 
+453.22500 	458.22500  	KNFZ464 	RM	151.4 PL	SF MA 450 	UHF Mutual Aid 	FMN 	Interop 
+457.60000 	   	 	M	051 DPL	Cruise Term Sec 	Herman Cruise Terminal - Security 	FMN 	Security 
+853.53750 	808.53750  	WPSH605 	RM	CSQ	BART Conv BU 	Conventional Backup 	FM 	Transportation 
+ATT (LTR)	 LTR Standard	 Various	Bay Area Rapid Transit (BART)	 EDACS Standard	 Bay Area	CALTrans (District 04 - South)	 Motorola Type II Smartnet	 None
+Fisher Wireless (San Bruno Mtn.)	 LTR Standard	 None	Fisher Wireless (San Francisco)	 LTR Standard	 San Francisco	Golden Gate Bridge Highway and Transportation District	 Project 25 Phase I	 San Rafael
+Lawrence Livermore National Laboratory	 Project 25 Phase I	 Livermore	Oracle Park	 DMR Motorola Capacity Plus Single Site (TRBO)	 San Francisco	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various
+RFC Wireless (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various (Bay Area)	San Francisco County/City	 Motorola Type II SmartZone	 San Francisco	San Francisco County/City P25	 Project 25 Phase I	 San Francisco
+San Francisco Municipal Transportation Agency (SFMTA)	 Project 25 Phase II	 San Francisco City/County	San Francisco Zoo	 DMR Motorola Capacity Plus Single Site (TRBO)	 San Francisco	Signature Wireless Group iDAS Multitrunk (Bay Area)	 NXDN Icom IDAS Type D	 San Rafael
+TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	The Radio Guys	 NXDN NEXEDGE 4800	 Various	University of California (San Francisco)	 DMR Motorola Connect Plus (TRBO)	 San Francisco

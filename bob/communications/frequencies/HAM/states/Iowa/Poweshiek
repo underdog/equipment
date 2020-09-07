@@ -1,25 +1,24 @@
-151.16750 	WPSS220 	RM	791 NAC | TG 1	Pow Sheriff P25 	Sheriff Dispach 	P25 	Law Dispatch 
-151.32500 	WPSS220 	RM	192.8 PL	Pow Sheriff Old 	Sheriff Dispatch 	FMN 	Law Dispatch 
-153.88250 	WQJG337 	M	151.4 PL	Pow Co Jail 	Jail Operations 	FMN 	Corrections 
-154.23500 	WPJX412 	RM	CSQ	Poweshiek Fire  	Fire Dispatch 	FMN 	Fire Dispatch 
-155.23500 	KJW587 	BM	192.8 PL	Midwest Amb 	Midwest Ambulance 	FMN 	Deprecated 
-453.43750 	WNRG658 	RM	CC 1TG 1SL 1	Pow Roads Ops 	Road Department 	DMR 	Public Works 
-453.43750 	WNRG658 	RM	CC 1TG *SL 2	Pow Roads GPS 	Road Department 	DMR 	Data 
-172.92500 	 	M		Pow MO3 	Mobile Extender 	FMN 	Law Dispatch 
-453.56250 	WPYU590 	F	192.8 PL	Pow Co FX1 	Relay for Fire Dispatch - Brooklyn Site 	FMN 	Fire Dispatch 
-453.58750 	WPYU590 	F	192.8 PL	Pow Co FX1 	Relay for Sheriff Dispatch - Brooklyn Site 	FMN 	Law Dispatch 
-453.61250 	WPYU590 	F	179.9 PL	Pow Co FX1 	Relay for Fire Dispatch - Grinnell Site 	FMN 	Fire Dispatch 
-453.81250 	WPYU590 	F	179.9 PL	Pow Co FX 	Relay for Sheriff Dispatch - Grinnell Site 	FMN 	Law Dispatch 
-453.63750 	WPYU590 	F	203.5 PL	Pow Co FX1 	Relay for Fire Dispatch - Deep River Site 	FMN 	Fire Dispatch 
-453.68750 	WPYU590 	F	203.5 PL	Pow Co FX1 	Relay for Sheriff Dispatch - Deep River Site 	FMN 	Law Dispatch 
-453.51250 	WPYU590 	F	186.2 PL	Pow Co FX1 	Relay for Sheriff Dispatch - Searsboro Site Site 	FMN 	Law Dispatch 
-151.18250 	WQUN766 	RM	79C NAC | TG 1	Grinnell Police 	Police Dispatch 	P25 	Law Dispatch 
-155.52000 	KAF474 	B	CSQ	Grin PD 2-B 	Police Ch 2 - Information - Base 	FMN 	Law Talk 
-155.91000 	KAF474 	M	192.8 PL	Grin PD 2-M 	Police Ch 2 - Information - Mobile 	FMN 	Law Talk 
-154.08500 	 	RM	CSQ	Grin PD Car 	Police Car-to-Car 	FMN 	Law Talk 
-154.96500 	KDX395 	RM	265 DPL	Grinnell Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.54000 	KAJ827 	BM	192.8 PL	Grin Hospital 	Hospital 	FMN 	Business 
-159.22500 	WQLV671 	BM	311 DPL	Grinnell PubWrks 	Public Works 	FMN 	Public Works 
-154.13000 	WNGI739 	BM	CSQ	Hartwick FG 	Fireground 	FMN 	Fire-Tac 
-Alliant Energy	 DMR Tier 3	 Various	Mid American Energy	 MPT-1327 Standard	 Various	RACOM Network	 EDACS Networked Standard
- Various	T.I.P. Rural Electric Cooperative	 DMR Conventional Networked	 Brooklyn	
+151.16750 	158.91750  	WPSS220 	RM	791 NAC | TG 1	Pow Sheriff P25 	Sheriff Dispach 	P25 	Law Dispatch 
+151.32500 	158.97000  	WPSS220 	RM	192.8 PL	Pow Sheriff Old 	Sheriff Dispatch 	FMN 	Law Dispatch 
+153.88250 	   	WQJG337 	M	151.4 PL	Pow Co Jail 	Jail Operations 	FMN 	Corrections 
+154.23500 	154.95000  	WPJX412 	RM	CSQ	Poweshiek Fire  	Fire Dispatch 	FMN 	Fire Dispatch 
+453.43750 	458.43750  	WNRG658 	RM	CC 1TG 1SL 1	Pow Roads Ops 	Road Department 	DMR 	Public Works 
+453.43750 	458.43750  	WNRG658 	RM	CC 1TG *SL 2	Pow Roads GPS 	Road Department 	DMR 	Data 
+172.92500 	   	 	M		Pow MO3 	Mobile Extender 	FMN 	Law Dispatch 
+453.56250 	   	WPYU590 	F	192.8 PL	Pow Co FX1 	Relay for Fire Dispatch - Brooklyn Site 	FMN 	Fire Dispatch 
+453.58750 	   	WPYU590 	F	192.8 PL	Pow Co FX1 	Relay for Sheriff Dispatch - Brooklyn Site 	FMN 	Law Dispatch 
+453.61250 	   	WPYU590 	F	179.9 PL	Pow Co FX1 	Relay for Fire Dispatch - Grinnell Site 	FMN 	Fire Dispatch 
+453.81250 	   	WPYU590 	F	179.9 PL	Pow Co FX 	Relay for Sheriff Dispatch - Grinnell Site 	FMN 	Law Dispatch 
+453.63750 	   	WPYU590 	F	203.5 PL	Pow Co FX1 	Relay for Fire Dispatch - Deep River Site 	FMN 	Fire Dispatch 
+453.68750 	   	WPYU590 	F	203.5 PL	Pow Co FX1 	Relay for Sheriff Dispatch - Deep River Site 	FMN 	Law Dispatch 
+453.51250 	   	WPYU590 	F	186.2 PL	Pow Co FX1 	Relay for Sheriff Dispatch - Searsboro Site Site 	FMN 	Law Dispatch 
+151.18250 	158.76750  	WQUN766 	RM	79C NAC | TG 1	Grinnell Police 	Police Dispatch 	P25 	Law Dispatch 
+155.52000 	   	KAF474 	B	CSQ	Grin PD 2-B 	Police Ch 2 - Information - Base 	FMN 	Law Talk 
+155.91000 	   	KAF474 	M	192.8 PL	Grin PD 2-M 	Police Ch 2 - Information - Mobile 	FMN 	Law Talk 
+154.08500 	   	 	RM	CSQ	Grin PD Car 	Police Car-to-Car 	FMN 	Law Talk 
+154.96500 	158.95500  	KDX395 	RM	265 DPL	Grinnell Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.54000 	   	KAJ827 	BM	192.8 PL	Grin Hospital 	Hospital 	FMN 	Business 
+159.22500 	   	WQLV671 	BM	311 DPL	Grinnell PubWrks 	Public Works 	FMN 	Public Works 
+154.13000 	   	WNGI739 	BM	CSQ	Hartwick FG 	Fireground 	FMN 	Fire-Tac 
+Alliant Energy	 DMR Tier 3	 Various	Mid American Energy	 MPT-1327 Standard	 Various	RACOM Network	 EDACS Networked Standard	 Various
+T.I.P. Rural Electric Cooperative	 DMR Conventional Networked	 Brooklyn	

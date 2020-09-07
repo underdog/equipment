@@ -1,50 +1,50 @@
-155.84250 	KGD763 	BM		TC Fire Disp 	F1 Dispatch 	FMN 	Fire Dispatch 
-159.27000 	KGD763 	RM	110.9 PL	TC Fire Resp 	F2 Response 	FMN 	Fire-Tac 
-155.32500 	WPOZ890 	BM	110.9 PL	TC Fire FG 1 	F3 Fireground 1 	FMN 	Fire-Tac 
-154.17500 	WPOZ890 	BM	110.9 PL	TC Fire FG 2 	F4 Fireground 2 	FMN 	Fire-Tac 
-156.01500 	WPOZ890 	BM	110.9 PL	TC Fire FG 3 	F5 Fireground 3 	FMN 	Fire-Tac 
-155.17500 	 	M	151.4 PL	TC Fire FP 	F6 Fire Police Ops 	FMN 	Fire-Talk 
-154.17500 	 	RM	110.9 PL	TC Fire TCFA 	F7 Tioga Co. Firemen's Assoc. Repeater 	FMN 	Fire-Talk 
-154.31000 	 	M		TC Fire T-T 	Truck to Truck  	FMN 	Fire-Talk 
-154.44500 	 	BM	110.9 PL	TC Fire FG 4 	Tioga Fireground 4 	FMN 	Fire-Tac 
-154.43000 	KGD763 	BM		TC Fire 	County Fire  	FMN 	Interop 
-154.83750 	 	BM	186.2 PL	TC Interagency 	Tioga County Interagency 	FMN 	Interop 
-154.20500 	WPRI241 	BM		Blossburg FD 	Blossburg Fire Department 	FM 	Fire-Talk 
-153.96500 	WPSJ640 	BM		Liberty FC 	Liberty Fire Company 	FM 	Fire-Tac 
-155.61000 	WPMS202 	RM		Mansfield FD 	Mansfield Fire Department 	FM 	Fire-Talk 
-153.92000 	WPMS202 	M		Mansfield FD 	Mansfield Fire Department (Crossband Repeater) 	FM 	Fire-Talk 
-155.55000 	WPMS202 	BM		Mansfield FD 	Mansfield Fire Department 	FM 	Fire-Talk 
-151.07000 	KGF353 	RM		MorrisTwp FD 	Morris Township Fire Company 	FM 	Fire-Talk 
-154.29500 	KGF353 	BM		MorrisTwp FD 	Morris Township Fire Company 	FM 	Fire-Talk 
-159.17250 	WQGX629 	RM		Morris FC 	Morris Fire Company (Talkaround Repeater) 	FM 	Fire-Talk 
-154.35500 	WPMA431 	RM		Wllsbro FD 1 	Wellsboro Fire Dept. - F1 Repeater/Command Channel 	FM 	Fire-Tac 
-153.89000 	WPMA431 	M		Wllsbro FD 2 	Wellsboro Fire Dept. - F2 Simplex 	FM 	Fire-Talk 
-152.28500 	WPMC692 	BM		Wllsbro FD 3 	Wellsboro Fire Dept. - F3 Business 	FM 	Fire-Talk 
-150.86000 	WPMC692 	BM		Wllsbro FD 4 	Wellsboro Fire Dept. - F4 Business 	FM 	Fire-Talk 
-155.29500 	 	M		Wllsbro FD 5 	Wellsboro Fire Dept. - F5 Rescue/Fireground 	FM 	Fire-Tac 
-155.20500 	WPMP500 	BM		Wlsbro EMS 	Wellsboro Ambulance Association 	FM 	EMS-Tac 
-155.23500 	WPMP500 	BM		Wlsbro EMS 	Wellsboro Ambulance Association 	FM 	EMS-Tac 
-462.95000 	WXM689 	BM		Med-9 	Med-9 Dispatch 	FM 	EMS Dispatch 
-462.97500 	WXM689 	BM		Med-10 	Med-10 Dispatch 	FM 	EMS Dispatch 
-463.00000 	WXM689 	BM		Med-1 	Med-1 Hospital Communications 	FM 	EMS-Talk 
-463.02500 	WXM689 	BM		Med-2 	Med-2 Hospital Communications 	FM 	EMS-Talk 
-463.05000 	WXM689 	BM		Med-3 	Med-3 Hospital Communications 	FM 	EMS-Talk 
-463.07500 	WXM689 	BM		Med-4 	Med-4 Hospital Communications 	FM 	EMS-Talk 
-463.10000 	WXM689 	BM		Med-5 	Med-5 Hospital Communications 	FM 	EMS-Talk 
-463.12500 	WXM689 	BM		Med-6 	Med-6 Hospital Communications 	FM 	EMS-Talk 
-463.15000 	WXM689 	BM		Med-7 	Med-7 Hospital Communications 	FM 	EMS-Talk 
-463.17500 	WXM689 	BM		Med-8 	Med-8 Hospital Communications 	FM 	EMS-Talk 
-159.09750 	WQAW487 	RM	141.3 PL	Tioga PD Dis 	Police Dispatch 	FM 	Law Dispatch 
-155.49000 	 	BM		Tioga PD Reg 	Police Regional 	FM 	Interop 
-155.47500 	KGD929 	BM		Tioga PD Nat 	Police National 	FM 	Interop 
-154.89000 	WNZS326 	BM		Tioga Sherif 	County Sheriff Ops 	FM 	Law Tac 
-154.65000 	 			Wlsbro PD 	Wellsboro Police Dept. 	FM 	Law Talk 
-154.83750 	WQAW487 	BM		Tioga Intop 	County Interagency Coordination 	FM 	Interop 
-45.56000 	WNJE316 	BM		Tioga LG Dis 	Local Government Dispatch (County Comm Center) 	FM 	Public Works 
-453.38750 	WPZJ735 	RM		Tioga EMA 	County Emergency Management 	FM 	Emergency Ops 
-453.63750 	WPZJ735 	RM		Tioga EMA 	County Emergency Management 	FM 	Emergency Ops 
-154.73250 	WQFH386 	RM		Wlsbro PW 	Wellsboro Municipal Services 	FM 	Public Works 
-154.86750 	WQFH386 	RM		Wlsbro PW 	Wellsboro Municipal Services 	FM 	Public Works 
-155.14500 	WQWY864 	RM	71.9 PL	Mansfield U PD 	Police Dispatch 	FMN 	Law Dispatch 
-Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud
- Statewide	Smith Radio	 NXDN Icom IDAS Type D	 Sylvania	
+155.84250 	   	KGD763 	BM		TC Fire Disp 	F1 Dispatch 	FMN 	Fire Dispatch 
+159.27000 	154.71250  	KGD763 	RM	110.9 PL	TC Fire Resp 	F2 Response 	FMN 	Fire-Tac 
+155.32500 	   	WPOZ890 	BM	110.9 PL	TC Fire FG 1 	F3 Fireground 1 	FMN 	Fire-Tac 
+154.17500 	   	WPOZ890 	BM	110.9 PL	TC Fire FG 2 	F4 Fireground 2 	FMN 	Fire-Tac 
+156.01500 	   	WPOZ890 	BM	110.9 PL	TC Fire FG 3 	F5 Fireground 3 	FMN 	Fire-Tac 
+155.17500 	   	 	M	151.4 PL	TC Fire FP 	F6 Fire Police Ops 	FMN 	Fire-Talk 
+154.17500 	156.01500  	 	RM	110.9 PL	TC Fire TCFA 	F7 Tioga Co. Firemen's Assoc. Repeater 	FMN 	Fire-Talk 
+154.31000 	   	 	M		TC Fire T-T 	Truck to Truck  	FMN 	Fire-Talk 
+154.44500 	   	 	BM	110.9 PL	TC Fire FG 4 	Tioga Fireground 4 	FMN 	Fire-Tac 
+154.43000 	   	KGD763 	BM		TC Fire 	County Fire  	FMN 	Interop 
+154.83750 	   	 	BM	186.2 PL	TC Interagency 	Tioga County Interagency 	FMN 	Interop 
+154.20500 	   	WPRI241 	BM		Blossburg FD 	Blossburg Fire Department 	FM 	Fire-Talk 
+153.96500 	   	WPSJ640 	BM		Liberty FC 	Liberty Fire Company 	FM 	Fire-Tac 
+155.61000 	158.92500  	WPMS202 	RM		Mansfield FD 	Mansfield Fire Department 	FM 	Fire-Talk 
+153.92000 	33.66000  	WPMS202 	M		Mansfield FD 	Mansfield Fire Department (Crossband Repeater) 	FM 	Fire-Talk 
+155.55000 	   	WPMS202 	BM		Mansfield FD 	Mansfield Fire Department 	FM 	Fire-Talk 
+151.07000 	153.80000  	KGF353 	RM		MorrisTwp FD 	Morris Township Fire Company 	FM 	Fire-Talk 
+154.29500 	   	KGF353 	BM		MorrisTwp FD 	Morris Township Fire Company 	FM 	Fire-Talk 
+159.17250 	155.74500  	WQGX629 	RM		Morris FC 	Morris Fire Company (Talkaround Repeater) 	FM 	Fire-Talk 
+154.35500 	153.89000  	WPMA431 	RM		Wllsbro FD 1 	Wellsboro Fire Dept. - F1 Repeater/Command Channel 	FM 	Fire-Tac 
+153.89000 	   	WPMA431 	M		Wllsbro FD 2 	Wellsboro Fire Dept. - F2 Simplex 	FM 	Fire-Talk 
+152.28500 	   	WPMC692 	BM		Wllsbro FD 3 	Wellsboro Fire Dept. - F3 Business 	FM 	Fire-Talk 
+150.86000 	   	WPMC692 	BM		Wllsbro FD 4 	Wellsboro Fire Dept. - F4 Business 	FM 	Fire-Talk 
+155.29500 	   	 	M		Wllsbro FD 5 	Wellsboro Fire Dept. - F5 Rescue/Fireground 	FM 	Fire-Tac 
+155.20500 	   	WPMP500 	BM		Wlsbro EMS 	Wellsboro Ambulance Association 	FM 	EMS-Tac 
+155.23500 	   	WPMP500 	BM		Wlsbro EMS 	Wellsboro Ambulance Association 	FM 	EMS-Tac 
+462.95000 	467.95000  	WXM689 	BM		Med-9 	Med-9 Dispatch 	FM 	EMS Dispatch 
+462.97500 	467.97500  	WXM689 	BM		Med-10 	Med-10 Dispatch 	FM 	EMS Dispatch 
+463.00000 	468.00000  	WXM689 	BM		Med-1 	Med-1 Hospital Communications 	FM 	EMS-Talk 
+463.02500 	468.02500  	WXM689 	BM		Med-2 	Med-2 Hospital Communications 	FM 	EMS-Talk 
+463.05000 	468.05000  	WXM689 	BM		Med-3 	Med-3 Hospital Communications 	FM 	EMS-Talk 
+463.07500 	468.07500  	WXM689 	BM		Med-4 	Med-4 Hospital Communications 	FM 	EMS-Talk 
+463.10000 	468.10000  	WXM689 	BM		Med-5 	Med-5 Hospital Communications 	FM 	EMS-Talk 
+463.12500 	468.12500  	WXM689 	BM		Med-6 	Med-6 Hospital Communications 	FM 	EMS-Talk 
+463.15000 	468.15000  	WXM689 	BM		Med-7 	Med-7 Hospital Communications 	FM 	EMS-Talk 
+463.17500 	468.17500  	WXM689 	BM		Med-8 	Med-8 Hospital Communications 	FM 	EMS-Talk 
+159.09750 	   	WQAW487 	RM	141.3 PL	Tioga PD Dis 	Police Dispatch 	FM 	Law Dispatch 
+155.49000 	   	 	BM		Tioga PD Reg 	Police Regional 	FM 	Interop 
+155.47500 	   	KGD929 	BM		Tioga PD Nat 	Police National 	FM 	Interop 
+154.89000 	   	WNZS326 	BM		Tioga Sherif 	County Sheriff Ops 	FM 	Law Tac 
+154.65000 	   	 			Wlsbro PD 	Wellsboro Police Dept. 	FM 	Law Talk 
+154.83750 	   	WQAW487 	BM		Tioga Intop 	County Interagency Coordination 	FM 	Interop 
+45.56000 	   	WNJE316 	BM		Tioga LG Dis 	Local Government Dispatch (County Comm Center) 	FM 	Public Works 
+453.38750 	458.38750  	WPZJ735 	RM		Tioga EMA 	County Emergency Management 	FM 	Emergency Ops 
+453.63750 	458.63750  	WPZJ735 	RM		Tioga EMA 	County Emergency Management 	FM 	Emergency Ops 
+154.73250 	156.12750  	WQFH386 	RM		Wlsbro PW 	Wellsboro Municipal Services 	FM 	Public Works 
+154.86750 	156.21000  	WQFH386 	RM		Wlsbro PW 	Wellsboro Municipal Services 	FM 	Public Works 
+155.14500 	158.77500  	WQWY864 	RM	71.9 PL	Mansfield U PD 	Police Dispatch 	FMN 	Law Dispatch 
+Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide
+Smith Radio	 NXDN Icom IDAS Type D	 Sylvania	

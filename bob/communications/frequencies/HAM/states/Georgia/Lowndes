@@ -1,80 +1,78 @@
-155.53500 	WNSH203 	RM	107.2 PL	LSCO Ch 1 	Sheriff Ch.1  EXPIRED 09/01/2003 	FMN 	Law Dispatch 
-155.77500 	WPWK624 	RM	107.2 PL	LCSO Ch 2 	Sheriff Ch.2 	FMN 	Law Dispatch 
-159.21000 	WNSH203 	RM	107.2 PL	LCSO NARC 	Sheriff Drug Units  EXPIRED 09/01/2003 	FMN 	Law Tac 
-460.13750 	 	M		LCSO Mics 	Sheriff Wireless Mics 	FMN 	Law Talk 
-465.41250 	 	M		LCSO Mics 	Sheriff Wireless Mics 	FMN 	Law Talk 
-154.22000 	WNHT221 	RM	210.7 PL	LCFR Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-156.18000 	KNGC666 	BM	71.9 PL	LCFR Paging 	Fire Paging and Highway Department 	FMN 	Fire Dispatch 
-155.17500 	KGQ246 	BM	107.2 PL	LCEMS TAC 	EMS TAC 	FMN 	EMS-Tac 
-460.58750 	WPBX460 	RM		LCFR UHF 	Fire Rescue  EXPIRED 03/25/2013 	FMN 	Fire-Talk 
-460.61250 	WPBX460 	RM		LCFR UHF 	Fire Rescue  EXPIRED 03/25/2013 	FMN 	Fire-Talk 
-460.63750 	WPBX460 	RM		LCFR UHF 	Fire Rescue  EXPIRED 03/25/2013 	FMN 	Law Talk 
-154.02500 	KZB268 	BM		LC EMA 	Emergency Management  EXPIRED 02/12/2011 	FMN 	Emergency Ops 
-155.31000 	WNSH203 	RM	107.2 PL	LC Animal 	Animal Control  EXPIRED 09/01/2003 	FMN 	Public Works 
-151.85000 	WQCI903 	RM		LCBOE Mtce 	Schools - Maintainence Department 	FMN 	Schools 
-153.16250 	WQGM211 	BM		LCBOE 1625 	Board of Education 	FMN 	Schools 
-153.20000 	WQGM211 	BM		LCBOE 2000 	Board of Education 	FMN 	Schools 
-153.34250 	WQGM211 	RM		LCBOE 3425 	Board of Education 	FMN 	Schools 
-155.28000 	KDZ473 	BM		LCBOE Bus 	School Buses 	DMR 	Schools 
-160.08000 	WQJE935 	RM		Hahira MS 	Board of Education - Hahira Middle School 	FMN 	Schools 
-155.68500 	WPRH250 	BM		HPD 6850 	Police Department 	FMN 	Law Talk 
-155.13000 	WQX973 	BM		HPD 1300 	Police Department 	FMN 	Law Talk 
-154.43000 	WNCR658 	BM		HFD 4300 	Fire Department 	FMN 	Fire-Talk 
-154.05500 	WPKI701 	RM		LPPD/FD Disp 	Fire/Police Dispatch 	FMN 	Multi-Dispatch 
-154.74000 	KUQ844 	RM	107.2 PL	VPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-159.15000 	KUQ844 	BM		VPD 1500 	Police Department 	FMN 	Law Talk 
-159.45750 	KUQ844 	RM		VPD 4575 	Police Department 	FMN 	Law Talk 
-151.42250 	KUQ844 	BM		VPD 4225 	Police Department 	FMN 	Law Talk 
-153.77750 	KUQ844 	BM		VPD 7775 	Police Department 	FMN 	Law Talk 
-153.79250 	KUQ844 	BM		VPD 7925 	Police Department 	FMN 	Law Talk 
-154.16750 	KUQ844 	BM		VPD 1675 	Police Department 	FMN 	Law Talk 
-154.20500 	KUQ844 	BM		VPD 2050 	Police Department 	FMN 	Law Talk 
-154.21250 	KUQ844 	BM		VPD 2125 	Police Department 	FMN 	Law Talk 
-453.77500 	WQKG820 	BM		VPD Bomb 	Bomb Robot 	Telm 	Data 
-458.77500 	WQKG820 	BM		VPD Bomb 	Bomb Robot 	Telm 	Data 
-154.35500 	WNPZ965 	RM	167.9 PL	VFD Dispatch 	Fire/EMS Dispatch  TERMINATED 	FMN 	Multi-Dispatch 
-154.14500 	WQEY407 	BM		VFD 1450 	Fire Department 	FMN 	Fire-Talk 
-151.01000 	WPGW697 	M		Forestry/Con 	Forestry/Conservation  EXPIRED 06/30/2012 	FMN 	Public Works 
-153.68000 	WPDP967 	RM		V H2O 	Water Department 	FMN 	Utilities 
-155.05500 	WPSZ206 	BM		V Enginring 	Engineering 	FMN 	Public Works 
-158.82000 	KBG753 	BM		V Pub Works 	Public Works 	FMN 	Public Works 
-155.22000 	WPCY915 	BM		BOE Bus 	School Buses  EXPIRED 08/18/2013 	FMN 	Schools 
-451.90000 	WQPW928 	BM		VBOE 9000 	Board of Education 	DMR 	Schools 
-452.12500 	WQPW928 	BM		VBOE 1250  	Board of Education 	DMR 	Schools 
-452.20000 	WQPW928 	BM		VBOE 2000 	Board of Education 	DMR 	Schools 
-452.25000 	WQPW928 	BM		VBOE 2500 	Board of Education 	DMR 	Schools 
-461.43750 	WQPW928 	BM		VBOE 4375 	Board of Education 	DMR 	Schools 
-461.60000 	WQPW928 	BM		VBOE 6000 	Board of Education 	DMR 	Schools 
-461.68750 	WQPW928 	BM		VBOE 6875 	Board of Education 	DMR 	Schools 
-461.86250 	WQPW928 	BM		VBOE 8625 	Board of Education 	DMR 	Schools 
-462.11250 	WQPW928 	BM		VBOE 1125 	Board of Education 	DMR 	Schools 
-462.27500 	WQPW928 	BM		VBOE 2750 	Board of Education 	DMR 	Schools 
-462.40000 	WQPW928 	BM		VBOE 4000 	Board of Education 	DMR 	Schools 
-463.31250 	WQPW928 	BM		VBOE 3125 	Board of Education 	DMR 	Schools 
-463.38750 	WQPW928 	BM		VBOE 3875 	Board of Education 	DMR 	Schools 
-463.41250 	WQPW928 	BM		VBOE 4125 	Board of Education 	DMR 	Schools 
-463.46250 	WQPW928 	BM		VBOE 4625 	Board of Education 	DMR 	Schools 
-463.46250 	WQPW928 	RM		VBOE 4625R 	Board of Education 	DMR 	Schools 
-463.61250 	WQPW928 	BM		VBOE 6125 	Board of Education 	DMR 	Schools 
-463.66250 	WQPW928 	BM		VBOE 6625 	Board of Education 	DMR 	Schools 
-463.76250 	WQPW928 	BM		VBOE 7625 	Board of Education 	DMR 	Schools 
-463.82500 	WQPW928 	BM		VBOE 8250 	Board of Education 	DMR 	Schools 
-463.88750 	WQPW928 	BM		VBOE 8875 	Board of Education 	DMR 	Schools 
-463.96250 	WQPW928 	BM		VBOE 9625 	Board of Education 	DMR 	Schools 
-464.21250 	WQPW928 	BM		VBOE 2125 	Board of Education 	DMR 	Schools 
-464.23750 	WQPW928 	BM		VBOE 2375 	Board of Education 	DMR 	Schools 
-464.31250 	WQPW928 	BM		VBOE 3125 	Board of Education 	DMR 	Schools 
-464.36250 	WQPW928 	BM		VBOE 3625 	Board of Education 	DMR 	Schools 
-464.43750 	WQPW928 	BM		VBOE 4375 	Board of Education 	DMR 	Schools 
-464.46250 	WQPW928 	BM		VBOE 4625 	Board of Education 	DMR 	Schools 
-464.61250 	WQPW928 	BM		VBOE 6125 	Board of Education 	DMR 	Schools 
-464.78750 	WQPW928 	BM		VBOE 7875 	Board of Education 	DMR 	Schools 
-464.81250 	WQPW928 	BM		VBOE 8125 	Board of Education 	DMR 	Schools 
-464.88750 	WQPW928 	BM		VBOE 8875 	Board of Education 	DMR 	Schools 
-464.93750 	WQPW928 	RM		VBOE 9375R 	Board of Education 	DMR 	Schools 
-464.93750 	WQPW928 	BM		VBOE 9375 	Board of Education 	DMR 	Schools 
-855.11250 	WPNU634 	RM		VSUPD Disp 	Police Ch. 1 	FMN 	Law Dispatch 
-451.11250 	WQFT226 	BM		VSU Grounds 	Grounds and Maintenance 	FMN 	Schools 
-466.63750 	WQFT226 	BM		VSU Mtce 	Grounds and Maintenance 	FMN 	Schools 
-151.68500 	WNSX743 	BM		VTC 	Valdosta Technical College 	FMN 	Schools 
+155.53500 	   	WNSH203 	RM	107.2 PL	LSCO Ch 1 	Sheriff Ch.1  EXPIRED 09/01/2003 	FMN 	Law Dispatch 
+155.77500 	153.99500  	WPWK624 	RM	107.2 PL	LCSO Ch 2 	Sheriff Ch.2 	FMN 	Law Dispatch 
+159.21000 	   	WNSH203 	RM	107.2 PL	LCSO NARC 	Sheriff Drug Units  EXPIRED 09/01/2003 	FMN 	Law Tac 
+460.13750 	   	 	M		LCSO Mics 	Sheriff Wireless Mics 	FMN 	Law Talk 
+465.41250 	   	 	M		LCSO Mics 	Sheriff Wireless Mics 	FMN 	Law Talk 
+154.22000 	   	WNHT221 	RM	210.7 PL	LCFR Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+156.18000 	   	KNGC666 	BM	71.9 PL	LCFR Paging 	Fire Paging and Highway Department 	FMN 	Fire Dispatch 
+155.17500 	   	KGQ246 	BM	107.2 PL	LCEMS TAC 	EMS TAC 	FMN 	EMS-Tac 
+460.58750 	465.58750  	WPBX460 	RM		LCFR UHF 	Fire Rescue  EXPIRED 03/25/2013 	FMN 	Fire-Talk 
+460.61250 	465.61250  	WPBX460 	RM		LCFR UHF 	Fire Rescue  EXPIRED 03/25/2013 	FMN 	Fire-Talk 
+460.63750 	465.63750  	WPBX460 	RM		LCFR UHF 	Fire Rescue  EXPIRED 03/25/2013 	FMN 	Law Talk 
+154.02500 	   	KZB268 	BM		LC EMA 	Emergency Management  EXPIRED 02/12/2011 	FMN 	Emergency Ops 
+155.31000 	   	WNSH203 	RM	107.2 PL	LC Animal 	Animal Control  EXPIRED 09/01/2003 	FMN 	Public Works 
+151.85000 	159.51000  	WQCI903 	RM		LCBOE Mtce 	Schools - Maintainence Department 	FMN 	Schools 
+153.16250 	158.21250  	WQGM211 	BM		LCBOE 1625 	Board of Education 	FMN 	Schools 
+153.20000 	158.26250  	WQGM211 	BM		LCBOE 2000 	Board of Education 	FMN 	Schools 
+153.34250 	159.62250  	WQGM211 	RM		LCBOE 3425 	Board of Education 	FMN 	Schools 
+160.08000 	150.84500  	WQJE935 	RM		Hahira MS 	Board of Education - Hahira Middle School 	FMN 	Schools 
+155.68500 	   	WPRH250 	BM		HPD 6850 	Police Department 	FMN 	Law Talk 
+155.13000 	   	WQX973 	BM		HPD 1300 	Police Department 	FMN 	Law Talk 
+154.43000 	   	WNCR658 	BM		HFD 4300 	Fire Department 	FMN 	Fire-Talk 
+154.05500 	158.88000  	WPKI701 	RM		LPPD/FD Disp 	Fire/Police Dispatch 	FMN 	Multi-Dispatch 
+154.74000 	155.49000  	KUQ844 	RM	107.2 PL	VPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+159.15000 	155.91000  	KUQ844 	BM		VPD 1500 	Police Department 	FMN 	Law Talk 
+159.45750 	159.47250  	KUQ844 	RM		VPD 4575 	Police Department 	FMN 	Law Talk 
+151.42250 	   	KUQ844 	BM		VPD 4225 	Police Department 	FMN 	Law Talk 
+153.77750 	   	KUQ844 	BM		VPD 7775 	Police Department 	FMN 	Law Talk 
+153.79250 	   	KUQ844 	BM		VPD 7925 	Police Department 	FMN 	Law Talk 
+154.16750 	   	KUQ844 	BM		VPD 1675 	Police Department 	FMN 	Law Talk 
+154.20500 	   	KUQ844 	BM		VPD 2050 	Police Department 	FMN 	Law Talk 
+154.21250 	   	KUQ844 	BM		VPD 2125 	Police Department 	FMN 	Law Talk 
+453.77500 	   	WQKG820 	BM		VPD Bomb 	Bomb Robot 	Telm 	Data 
+458.77500 	   	WQKG820 	BM		VPD Bomb 	Bomb Robot 	Telm 	Data 
+154.35500 	   	WNPZ965 	RM	167.9 PL	VFD Dispatch 	Fire/EMS Dispatch  TERMINATED 	FMN 	Multi-Dispatch 
+154.14500 	   	WQEY407 	BM		VFD 1450 	Fire Department 	FMN 	Fire-Talk 
+151.01000 	   	WPGW697 	M		Forestry/Con 	Forestry/Conservation  EXPIRED 06/30/2012 	FMN 	Public Works 
+153.68000 	158.61000  	WPDP967 	RM		V H2O 	Water Department 	FMN 	Utilities 
+155.05500 	   	WPSZ206 	BM		V Enginring 	Engineering 	FMN 	Public Works 
+158.82000 	   	KBG753 	BM		V Pub Works 	Public Works 	FMN 	Public Works 
+155.22000 	   	WPCY915 	BM		BOE Bus 	School Buses  EXPIRED 08/18/2013 	FMN 	Schools 
+451.90000 	   	WQPW928 	BM		VBOE 9000 	Board of Education 	DMR 	Schools 
+452.12500 	   	WQPW928 	BM		VBOE 1250  	Board of Education 	DMR 	Schools 
+452.20000 	   	WQPW928 	BM		VBOE 2000 	Board of Education 	DMR 	Schools 
+452.25000 	   	WQPW928 	BM		VBOE 2500 	Board of Education 	DMR 	Schools 
+461.43750 	   	WQPW928 	BM		VBOE 4375 	Board of Education 	DMR 	Schools 
+461.60000 	   	WQPW928 	BM		VBOE 6000 	Board of Education 	DMR 	Schools 
+461.68750 	   	WQPW928 	BM		VBOE 6875 	Board of Education 	DMR 	Schools 
+461.86250 	   	WQPW928 	BM		VBOE 8625 	Board of Education 	DMR 	Schools 
+462.11250 	   	WQPW928 	BM		VBOE 1125 	Board of Education 	DMR 	Schools 
+462.27500 	   	WQPW928 	BM		VBOE 2750 	Board of Education 	DMR 	Schools 
+462.40000 	   	WQPW928 	BM		VBOE 4000 	Board of Education 	DMR 	Schools 
+463.31250 	   	WQPW928 	BM		VBOE 3125 	Board of Education 	DMR 	Schools 
+463.38750 	   	WQPW928 	BM		VBOE 3875 	Board of Education 	DMR 	Schools 
+463.41250 	   	WQPW928 	BM		VBOE 4125 	Board of Education 	DMR 	Schools 
+463.46250 	   	WQPW928 	BM		VBOE 4625 	Board of Education 	DMR 	Schools 
+463.46250 	468.46250  	WQPW928 	RM		VBOE 4625R 	Board of Education 	DMR 	Schools 
+463.61250 	   	WQPW928 	BM		VBOE 6125 	Board of Education 	DMR 	Schools 
+463.66250 	   	WQPW928 	BM		VBOE 6625 	Board of Education 	DMR 	Schools 
+463.76250 	   	WQPW928 	BM		VBOE 7625 	Board of Education 	DMR 	Schools 
+463.82500 	   	WQPW928 	BM		VBOE 8250 	Board of Education 	DMR 	Schools 
+463.88750 	   	WQPW928 	BM		VBOE 8875 	Board of Education 	DMR 	Schools 
+463.96250 	   	WQPW928 	BM		VBOE 9625 	Board of Education 	DMR 	Schools 
+464.21250 	   	WQPW928 	BM		VBOE 2125 	Board of Education 	DMR 	Schools 
+464.23750 	   	WQPW928 	BM		VBOE 2375 	Board of Education 	DMR 	Schools 
+464.31250 	   	WQPW928 	BM		VBOE 3125 	Board of Education 	DMR 	Schools 
+464.36250 	   	WQPW928 	BM		VBOE 3625 	Board of Education 	DMR 	Schools 
+464.43750 	   	WQPW928 	BM		VBOE 4375 	Board of Education 	DMR 	Schools 
+464.46250 	   	WQPW928 	BM		VBOE 4625 	Board of Education 	DMR 	Schools 
+464.61250 	   	WQPW928 	BM		VBOE 6125 	Board of Education 	DMR 	Schools 
+464.78750 	   	WQPW928 	BM		VBOE 7875 	Board of Education 	DMR 	Schools 
+464.81250 	   	WQPW928 	BM		VBOE 8125 	Board of Education 	DMR 	Schools 
+464.88750 	   	WQPW928 	BM		VBOE 8875 	Board of Education 	DMR 	Schools 
+464.93750 	   	WQPW928 	BM		VBOE 9375 	Board of Education 	DMR 	Schools 
+855.11250 	810.11250  	WPNU634 	RM		VSUPD Disp 	Police Ch. 1 	FMN 	Law Dispatch 
+451.11250 	   	WQFT226 	BM		VSU Grounds 	Grounds and Maintenance 	FMN 	Schools 
+466.63750 	   	WQFT226 	BM		VSU Mtce 	Grounds and Maintenance 	FMN 	Schools 
+151.68500 	   	WNSX743 	BM		VTC 	Valdosta Technical College 	FMN 	Schools 
 Lowndes County Public Safety P25	 Project 25 Phase II	 Valdosta	Scruggs Concrete	 DMR Conventional Networked	 Various	

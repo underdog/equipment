@@ -1,18 +1,18 @@
-159.14250 	WQCW989 	RM	287 NAC	Wash SO Dsp 	Dispatch 	P25 	Law Dispatch 
-159.14250 	WQCW989 	RM	67.0 PL	Wash SO Dsp 	Dispatch 	FM 	Law Dispatch 
-460.32500 	WPFG917 	RM	146.2 PL	Wash SO(VRS) 	Vehicle Repeaters 	FM 	Law Talk 
-151.05500 	WQCW989 	RM	290 NAC	Wash FD-DG 	Fire (Mixed Mode Repeater) 	P25 	Fire-Talk 
-151.05500 	WQCW989 	RM	79.7 PL	Wash FD  	Fire (Pagers) 	FM 	Fire-Talk 
-154.98000 	WQAT448 	BM	146.2 PL	Wash FD Dsp 	Dispatch & Pagers (Old) 	FM 	Fire Dispatch 
-151.14500 	WQCW989 	RM	293 NAC 	Wash EMS 1 	Dispatch (Mixed mode repeater) 	P25 	EMS Dispatch 
-151.14500 	WQCW989 	RM	74.4 PL	Wash EMS 2 	Dispatch 	FM 	EMS Dispatch 
-156.00000 	WQCW989 	BM	118.8 PL	WCEMS Page 	Pagers 	FM 	EMS Dispatch 
-155.34000 	KKC650 	BM	146.2 PL	EMS2Sprngvw 	EMS - Springview Hospital 	FM 	Hospital 
-155.16000 	KKC650 	BM	82.5 PL	Wash EMS 3 	EMS - Springfield 	FM 	EMS-Talk 
-462.95000 	KKC650 	RM	103.5 PL	EMS2Hsp 	EMS - Hospital 	FM 	Hospital 
-155.13000 	WQBR812 	RM	15 RAN	Spngfld PD 	Police - Dispatch 	NXDN 	Law Dispatch 
-154.99500 	WPMB826 	RM	103.5 PL	Wash Roads 	Road Department 	FM 	Public Works 
-461.27500 	 	RM	754 DPL	Wash Schools 	Board of Education 	FM 	Schools 
-151.53500 	WPMS671 	BM	723 DPL	Irvg Mtrls 	Irving Materials Inc. 	FM 	Business 
-463.26250 	WQHT419  	RM	CC 3TG *SL *	Inoac 	INOAC AUTOMOTIVE, LLC 	DMR 	Business 
-453.01250 	WQJK350 	RM	043 DPL	TOYOTOMI 	TOYOTOMI AMERICA CORP (Springfield) 	FM 	Business 
+159.14250 	153.78500  	WQCW989 	RM	287 NAC	Wash SO Dsp 	Dispatch 	P25 	Law Dispatch 
+159.14250 	153.78500  	WQCW989 	RM	67.0 PL	Wash SO Dsp 	Dispatch 	FM 	Deprecated 
+460.32500 	465.32500  	WPFG917 	RM	146.2 PL	Wash SO(VRS) 	Vehicle Repeaters 	FM 	Law Talk 
+151.05500 	156.22500  	WQCW989 	RM	290 NAC	Wash FD-DG 	Fire (Mixed Mode Repeater) 	P25 	Fire-Talk 
+151.05500 	156.22500  	WQCW989 	RM	79.7 PL	Wash FD  	Fire (Pagers) 	FM 	Fire-Talk 
+154.98000 	   	WQAT448 	BM	146.2 PL	Wash FD Dsp 	Dispatch & Pagers (Old) 	FM 	Fire Dispatch 
+151.14500 	156.00000  	WQCW989 	RM	293 NAC 	Wash EMS 1 	Dispatch (Mixed mode repeater) 	P25 	EMS Dispatch 
+151.14500 	156.00000  	WQCW989 	RM	74.4 PL	Wash EMS 2 	Dispatch 	FM 	EMS Dispatch 
+156.00000 	   	WQCW989 	BM	118.8 PL	WCEMS Page 	Pagers 	FM 	EMS Dispatch 
+155.34000 	   	KKC650 	BM	146.2 PL	EMS2Sprngvw 	EMS - Springview Hospital 	FM 	Hospital 
+155.16000 	   	KKC650 	BM	82.5 PL	Wash EMS 3 	EMS - Springfield 	FM 	EMS-Talk 
+462.95000 	467.95000  	KKC650 	RM	103.5 PL	EMS2Hsp 	EMS - Hospital 	FM 	Hospital 
+155.13000 	159.03000  	WQBR812 	RM	15 RAN	Spngfld PD 	Police - Dispatch 	NXDN 	Law Dispatch 
+154.99500 	158.83500  	WPMB826 	RM	103.5 PL	Wash Roads 	Road Department 	FM 	Public Works 
+461.27500 	466.27500  	WNZP324 	RM	754 DPL	Wash Schools 	Board of Education 	FM 	Schools 
+151.53500 	   	WPMS671 	BM	723 DPL	Irvg Mtrls 	Irving Materials Inc. 	FM 	Business 
+463.26250 	468.26250  	WQHT419  	RM	CC 3TG *SL *	Inoac 	INOAC AUTOMOTIVE, LLC 	DMR 	Business 
+453.01250 	458.01250  	WQJK350 	RM	043 DPL	TOYOTOMI 	TOYOTOMI AMERICA CORP (Springfield) 	FM 	Business 

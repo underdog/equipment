@@ -1,136 +1,135 @@
-155.10750 	WPTL616 	BM	82.5 PL	LCD Disp 1 	Dispatch 1 	FMN 	Fire Dispatch 
-155.12250 	WPTL616 	RM	532 DPL	LCD Cmd 2/3 	Command 2 (Reptr) / 3 (Direct) 	FMN 	Fire-Tac 
-155.81250 	WPTL616 	BM	072 DPL	LCD Scene 4 	Scene 4 - Barkhamsted, Kent, and Salisbury 	FMN 	Fire-Tac 
-155.82750 	WPTL616 	BM	025 DPL	LCD Scene 5 	Scene 5 - New Hartford and North Canaan 	FMN 	Fire-Tac 
-156.00750 	WPTL616 	BM	051 DPL	LCD Scene 6 	Scene 6 - Falls Village and Harwinton 	FMN 	Fire-Tac 
-155.81250 	WPTL616 	BM	172 DPL	LCD Scene 7 	Scene 7 - Norfolk and Litchfield 	FMN 	Fire-Tac 
-155.82750 	WPTL616 	BM	125 DPL	LCD Scene 8 	Scene 8 - Warren and Colebrook 	FMN 	Fire-Tac 
-156.00750 	WPTL616 	BM	152 DPL	LCD Scene 9 	Scene 9 - Harland and Washington 	FMN 	Fire-Tac 
-155.81250 	WPTL616 	BM	271 DPL	LCD Scene 10 	Scene 10 - Cornwall and Sherman 	FMN 	Fire-Tac 
-155.82750 	WPTL616 	BM	205 DPL	LCD Scene 11 	Scene 11 - Goshen and Morris 	FMN 	Fire-Tac 
-156.00750 	WPTL616 	BM	244 DPL	LCD Scene 12 	Scene 12 - Bridgewater and Sharon 	FMN 	Fire-Tac 
-158.30250 	 	BM	532 DPL	LCD Scene 13 	Fire Police 	FMN 	Fire-Tac 
-150.79000 	WPYW998 	BM	203.5 PL	LCD Airtac 1 	Airtac 14 	FMN 	Aircraft 
-154.66500 	 		141.3 PL	LCD Iop15 	Interops 15 	FMN 	Interop 
-155.09250 	WPTL616 	BM	465 DPL	LCD Admin 	Admin 	FMN 	Fire-Talk 
-163.25000 	WPQB999 	B		LCD Paging 	Paging 	FMN 	Data 
-159.11250 	 	RM	465 DPL	LDC OPS 	LCD Operations - Admin 	FMN 	Law Talk 
-463.92500 	WPBJ248 	RM	192.8 PL	LCD IntraCom 	Intra County 	FMN 	Interop 
-154.01750 	WQTF602 	BM	74.4 PL	Bethlehem FD 	Fire/EMS Operations 	FMN 	Fire Dispatch 
-154.71000 	 	BM	CSQ	Bethlehem FG 	Fireground 	FMN 	Fire-Tac 
-33.88000 	KCE526 	BM	127.3 PL	Bethlehem FD 	Fire/EMS Operations 	FM 	Fire Dispatch 
-33.62000 	KCE526 	M		Bethlhm FG 	Fireground 	FM 	Fire-Tac 
-45.68000 	KSV602 	BM	136.5 PL	Bethlhm DPW 	Public Works 	FM 	Public Works 
-159.13500 	KNAB467 	RM	203.5 PL	Bridgewtr DP 	Public Works 	FM 	Public Works 
-151.10000 	KNHJ867 	BM	136.5 PL	Canaan DPW 	Public Works 	FM 	Public Works 
-156.04500 	WXY252 	RM	141.3 PL	Goshen FG 	Fireground Primary / Public Works 	FM 	Multi-Dispatch 
-154.40000 	KCT676 	RM	156.7 PL	Harwinton FD FG 	Fireground ("676") 	FM 	Fire-Tac 
-155.40000 	WNSU505 	RM	127.3 PL	HarwiFirePol 	Fire Police 	FM 	Fire-Tac 
-155.40000 	WQBC205 	BM	156.7 PL	HarwiAmbU-U 	Ambulance Unit-to-Unit 	FM 	EMS-Tac 
-155.02500 	KNBG241 	BM	156.7 PL	Harwi Svcs 	Services (Streets, Selectmen, Dog Warden) 	FM 	Public Works 
-157.69500 	WQGK914 	RM	703 DPL	Kent FG Rptr 	Fireground Repeater 	FMN 	Fire-Tac 
-452.22500 	WNUN217 	RM	662 DPL	Bantam FD 	Bantam Fire Company Dispatch (LCD)   	FM 	Fire Dispatch 
-152.42000 	WQEJ633 	RM	612 DPL	Bantam FG 	Bantam Fireground 	FM 	Fire-Tac 
-158.79000 	KD31168 	BM	162.2 PL	Litch PD 	Police (Local Troopers) 	FM 	Law Dispatch 
-154.10000 	KCU222 	RM	146.2 PL	Litch EMS 	Ambulance and Constables 	FM 	Multi-Dispatch 
-151.04000 	KNHG757 	RM	110.9 PL	Litch Hwy 	Public Works 	FM 	Public Works 
-160.01250 	 	BM	431 DPL	FormanSchool 	 Faculty/Campus Ops 	FM 	Schools 
-153.74000 	WNRR230 	BM		Morris EMA 5 	Emergency Management Region 5 	FM 	Emergency Ops 
-156.10500 	KKM225 	RM	072 DPL	Morris FG/DP 	Fireground Primary / Public Works 	FM 	Multi-Dispatch 
-155.89500 	KUG863 	RM	110.9 PL	Highway / Co 	Public Works / Constable Operations 	FMN 	Multi-Tac 
-155.29500 	WPXV832 	RM	172 DPL	NH EMERG MGM 	Emergency Mgmt 	FMN 	Emergency Ops 
-153.74000 	KUG863 	BM		Emergency Ma 	Emergency Management Region 5 	FM 	Emergency Ops 
-155.17500 	KOB360 	BM	67.0 PL	Ski Sundown 	Ski Sundown Ski Patrol 	FM 	Business 
-154.86000 	KQW521 	RM	290 NAC	NM Police 1 	Police 1 Operations 	P25 	Law Dispatch 
-159.70500 	WQQF861 	M	411 NAC	NM Police 2 	Police 2 Secure 	P25 	Law Tac 
-158.34750 	WQQF861 	M	343 NAC	NM Police 3 	Police 3 Special Duty 	P25 	Law Talk 
-154.34750 	WPYN330 	RM	445 DPL	NM Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-151.29500 	KQW521 	M	226 DPL	NMFD Scene 1 	Fire Scene 1 	FMN 	Fire-Tac 
-156.06750 	KQW521 	M	026 DPL	NMFD Scene 2 	Fire Scene 2 	FMN 	Fire-Tac 
-159.07500 	KQW521 	M	026 DPL	NMFD Scene 3 	Fire Scene 3 	FMN 	Fire-Tac 
-160.12500 	WQQF861 	M	411 DPL	NMFD Scene 4 	Fire Scene 4 	FMN 	Fire-Tac 
-159.60000 	WQQF861 	M	445 DPL	NMFD Fire PD 	New Milford Fire Police 	FMN 	Fire-Tac 
-154.71750 	WPRU917 	M	251 DPL	GFD Scene 1 	Gaylordsville Scene 1 	FMN 	Fire-Tac 
-155.87250 	WPRU917 	RM	251 DPL	GFD Ops 	Gaylordsville Fire Operations  	FMN 	Fire-Tac 
-154.25750 	WPRU917 	BM	445 DPL	GFD FG 	Gaylordsville Fire Fireground 	FMN 	Fire-Tac 
-158.30250 	 	M	532 DPL	GFD Fire PD 	Gaylordsville Fire Police 	FMN 	Fire-Tac 
-159.35250 	WQFN889 	RM	226 DPL	NMEMS Disp 	EMS Operations 	FMN 	EMS Dispatch 
-150.77500 	WPFV586 	BM	203.5 PL	NM EMS Tac 1 	EMS Tac 1 	FMN 	EMS-Tac 
-150.79000 	WPFV586 	BM	203.5 PL	NM EMS Tac 2 	EMS Tac 2 	FMN 	EMS-Tac 
-461.05000 	WPGQ893 	BM	662 DPL	Trinity H EMS 	Trinity Health Ambulance Service 	FMN 	EMS-Tac 
-151.13750 	 	M	156.7 PL	NM CERT 	Community Emergency Response Team 	FMN 	Emergency Ops 
-152.31500 	WQQF861 	RM	315 DPL	NM DPW 	Public Works 	FMN 	Public Works 
-153.02000 	WQQF861 	RM	026 DPL	NM SenCenter 	Senior Center 	FMN 	Public Works 
-160.08000 	WQQF861 	M	343 DPL	NM Town Wide 	Town Wide 	FMN 	Public Works 
-464.87500 	WPTN732 	BM	71.9 PL	NM TwnMaintc 	Town Maintenance 	FMN 	Public Works 
-155.05500 	WNAB323 	BM	743 DPL	NewMilfd Sewer 	Sewer Commission  	FMN 	Public Works 
-463.77500 	WQIK678 	RM	94.8 PL	NM Schools 	Schools 	FMN 	Schools 
-153.74000 	WQHU722 	BM		Norfolk EMA 	Emergency Mgmt. 	FM 	Emergency Ops 
-154.99500 	KMA459 	BM	364 DPL	Norfolk DPW 	Public Works 	FM 	Public Works 
-153.74000 	WQGX608 	BM		NCanaan EMA 	Emergency Mgmt. 	FMN 	Emergency Ops 
-155.17500 	KOB360 	BM	186.2 PL	NCannan EMSD 	EMS Dispatch (LCD) 	FM 	EMS Dispatch 
-151.11500 	KNHN776 	BM	82.5 PL	NCanaan DPW 	Public Works 	FM 	Public Works 
-453.35000 	WNDD470 	RM	155 DPL	Plymouth PD 	Police Operations 	FM 	Law Dispatch 
-453.56250 	KJF264 	RM	565 DPL	Plymouth EMS 	EMS Operations 	FM 	EMS Dispatch 
-453.67500 	WDE657 	RM	141.3 PL	Plymth DPW 	Street Department / Police Secondary 	FM 	Law Tac 
-153.98000 	WPMK215 	RM	365 DPL	Roxbury FD 	Fire/EMS Operations 	FM 	Multi-Dispatch 
-153.98000 	WPMK215 	M	365 DPL	Roxbury FG 	Fireground 	FM 	Fire-Tac 
-156.04500 	KNDQ356 	BM	100.0 PL	Roxbury FDPD 	Fire Police 	FM 	Fire-Tac 
-155.16000 	KFE388 	BM	82.5 PL	Roxbury EMST 	EMS Tactical 	FM 	EMS-Tac 
-153.74000 	WQGW303 	BM		Roxbury EMA 	Emergency Mgmt. 	FMN 	Emergency Ops 
-156.04500 	KNDQ356 	BM	82.5 PL	Roxbury DPW 	Public Works 	FM 	Public Works 
-453.38750 	KNDQ356 	F		Roxbury Link 	Remote RF Link to/from 156.045 MHz 	FM 	Public Works 
-155.23500 	WNUZ598 	BM	141.3 PL	SalisburyEMS 	EMS Dispatch (LCD) 	FM 	EMS Dispatch 
-45.64000 	WZN327 	BM	71.9 PL	SalisburyDPW 	Public Works 	FM 	Public Works 
-464.67500 	WQDZ864 	RM	71.9 PL	Hotchkiss Ops 	Hotchkiss School - Operations 	FMN 	Schools 
-464.45000 	WQUN733 	RM	77.0 PL	SalisburySchool 	Salisbury School - Operations 	FMN 	Schools 
-155.34000 	KNJB600 	BM	141.3 PL	Sharon Hosp 	Sharon Hospital HEAR/Internal 	FM 	Hospital 
-45.76000 	KWM887 	BM	74.4 PL	Sharon DPW 	Public Works 	FM 	Public Works 
-453.73750 	WPZQ405 	RM	114 DPL	TerryvilleFD 	Fire Operations (includes Plymouth) 	FM 	Multi-Dispatch 
-460.60000 	WNID971 	RM	293 NAC	Thomastn PD 	Police Operations 	P25 	Law Dispatch 
-39.96000 	WNID971 	RM	162.2 PL	Thomstn PD 	Police Operations 	FM 	Law Dispatch 
-45.64000 	KCR916 	RM	82.5 PL	Thomstn Fire 	Fire/EMS Operations 	FM 	Fire Dispatch 
-453.22500 	WNID971 	RM	223 DPL	Thomastn FD 	Fire / EMS Operations 	FMN 	Fire Dispatch 
-46.34000 	WPAV856 	M	82.5 PL	ThomastnFG 	Fireground 	FM 	Fire-Tac 
-458.20000 	WNID971 	BM	223 DPL	Thomastn FG 	Fireground 	FMN 	Fire-Tac 
-460.30000 	WNID971 	BM	223 DPL	ThomastnFG2 	Fireground 2 	FMN 	Fire-Tac 
-453.97500 	WNID971 	RM		ThomastnDPW 	Public Works 	FMN 	Public Works 
-152.32250 	WQTH284 	RM	033 NAC	Torring PD 	Police 	P25 	Law Dispatch 
-154.14500 	WPYW998 	RM	162.2 PL	Torrington FC1 	Fire Command 1 	FMN 	Fire Dispatch 
-159.69750 	 	RM	271 DPL	Torrington FC2 	Fire Command 2 	FMN 	Fire-Tac 
-153.83000 	WPYW998 	M	162.2 PL	TorringFDTAC 	Fireground 	FMN 	Fire-Tac 
-461.07500 	WPGQ893 	RM	662 DPL	Trinity H EMS 	Trinity Health Ambulance 	FMN 	EMS Dispatch 
-151.08500 	WPPX227 	RM	114 DPL	Torring DPW 	Public Works 	FMN 	Public Works 
-153.71000 	KCD994 	BM	114.8 PL	TorringWater 	Water Department 	FMN 	Utilities 
-153.74000 	WQHA264 	BM		Warren EMA 	Emergency Mgmt. 	FM 	Emergency Ops 
-154.98000 	KNEH505 	RM	423 DPL	Warren FG/DP 	Fireground Primary / Public Works 	FM 	Multi-Dispatch 
-158.77500 	KXX561 	RM	343 DPL	Washtn TW 	Fire / EMS / Police / Public Works 	FM 	Multi-Dispatch 
-460.32500 	KCD362 	RM	203.5 PL	WatertownPD1 	Police Operations 1 	FMN 	Law Dispatch 
-460.41250 	KCD362 	RM	203.5 PL	WatertownPD2 	Police Operations 2 	FMN 	Law Tac 
-33.66000 	KCI233 	RM		Watertown FD 	Fire Operations 	FM 	Fire Dispatch 
-154.03250 	WPBM543 	RM	432 DPL	Watertown FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.70000 	 	M		WatertownFD3 	Fire 3 	FMN 	Fire-Tac 
-158.99250 	 	BM	432 DPL	Watertown FG4 	Fireground 4 	FMN 	Fire-Tac 
-155.32500 	KCH682 	BM	162.2 PL	AMR Watertwn 	American Medical Response 	FMN 	EMS Dispatch 
-453.18750 	 	BM	311 DPL	WatertownDPW 	Public Works 	FMN 	Public Works 
-464.87500 	WPXY741 	BM	546 DPL	Taft School 	Taft School Security 	FMN 	Schools 
-460.30000 	KCD362 	M	203.5 PL	Watertown HL 	Area Hotline 	FM 	Interop 
-155.56500 	KTZ506 	RM	162.2 PL	Winstead PD 	Police Operations 	FM 	Law Dispatch 
-33.60000 	WPVL820 	BM	103.5 PL	Winst FD Sim 	Fire Simulcast of 158.8575 MHz 	FM 	Fire Dispatch 
-158.85750 	WPVL820 	RM	210.7 PL	Winstd Fire 	Fire Operations 	FM 	Fire Dispatch 
-156.19500 	WPHB880 	BM	186.2 PL	Winstd FG 	Fireground 1 	FM 	Fire-Tac 
-154.28000 	WPVL820 	BM	203.5 PL	Winstd FG 2 	Fireground 2  	FM 	Fire-Tac 
-153.74000 	KKV395 	BM	94.8 PL	Winstd EMA 3 	Fireground 3 	FM 	Fire-Tac 
-154.20500 	WPVL820 	BM	210.7 PL	Winstd RIT 	Fire - Regional RIT Channel 	FM 	Fire-Tac 
-153.86000 	 	M	67.0 PL	Winstd FDPD 	Fire Police 	FM 	Fire-Tac 
-151.19750 	WQEF650 	RM	82.5 PL	Winstd EMS 	EMS 	FM 	EMS Dispatch 
-45.44000 	KCS487 	BM	103.5 PL	Winstd DPW 	Public Works 	FM 	Public Works 
-155.57250 	KNNJ985 	RM	123 NAC	Woodbury PD 	Police Operations 	P25 	Law Dispatch 
-159.18750 	WQES345 	B	94.8 PL	Woodbury FD 	Fire Operations 	FMN 	Fire-Tac 
-155.13750 	WQES345 	RM	168 NAC	Woodbury FD 	Fire Operations 	P25 	Fire-Tac 
-155.13750 	WQES345 	RM	203.5 PL	Woodbury FD 	Fire Operations 	FMN 	Fire-Tac 
-155.94750 	WQES345 	M	203.5 PL	Woodbury FG 	Fireground 	FMN 	Fire-Tac 
-46.56000 	KNAO467 	BM	127.3 PL	Woodbury Amb 	Ambulance/Constables 	FM 	Multi-Dispatch 
-155.99250 	WQES345 	RM	268 NAC	Woodbury Twn 	Town Services 	P25 	Public Works 
-Connecticut Land Mobile Radio Network (CLMRN)	 Project 25 Phase II	 Statewide	Marcus Communications - Statewide	 LTR Standard and Passport	 Various	Marcus Spectrum Holdings, LLC	 DMR Tier 3
- Various	New Milford Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 New Milford	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	
+155.10750 	   	WPTL616 	BM	82.5 PL	LCD Disp 1 	Dispatch 1 	FMN 	Fire Dispatch 
+155.12250 	158.42250  	WPTL616 	RM	532 DPL	LCD Cmd 2/3 	Command 2 (Reptr) / 3 (Direct) 	FMN 	Fire-Tac 
+155.81250 	   	WPTL616 	BM	072 DPL	LCD Scene 4 	Scene 4 - Barkhamsted, Kent, and Salisbury 	FMN 	Fire-Tac 
+155.82750 	   	WPTL616 	BM	025 DPL	LCD Scene 5 	Scene 5 - New Hartford and North Canaan 	FMN 	Fire-Tac 
+156.00750 	   	WPTL616 	BM	051 DPL	LCD Scene 6 	Scene 6 - Falls Village and Harwinton 	FMN 	Fire-Tac 
+155.81250 	   	WPTL616 	BM	172 DPL	LCD Scene 7 	Scene 7 - Norfolk and Litchfield 	FMN 	Fire-Tac 
+155.82750 	   	WPTL616 	BM	125 DPL	LCD Scene 8 	Scene 8 - Warren and Colebrook 	FMN 	Fire-Tac 
+156.00750 	   	WPTL616 	BM	152 DPL	LCD Scene 9 	Scene 9 - Harland and Washington 	FMN 	Fire-Tac 
+155.81250 	   	WPTL616 	BM	271 DPL	LCD Scene 10 	Scene 10 - Cornwall and Sherman 	FMN 	Fire-Tac 
+155.82750 	   	WPTL616 	BM	205 DPL	LCD Scene 11 	Scene 11 - Goshen and Morris 	FMN 	Fire-Tac 
+156.00750 	   	WPTL616 	BM	244 DPL	LCD Scene 12 	Scene 12 - Bridgewater and Sharon 	FMN 	Fire-Tac 
+158.30250 	   	 	BM	532 DPL	LCD Scene 13 	Fire Police 	FMN 	Fire-Tac 
+150.79000 	   	WPYW998 	BM	203.5 PL	LCD Airtac 1 	Airtac 14 	FMN 	Aircraft 
+154.66500 	   	 		141.3 PL	LCD Iop15 	Interops 15 	FMN 	Interop 
+155.09250 	   	WPTL616 	BM	465 DPL	LCD Admin 	Admin 	FMN 	Fire-Talk 
+163.25000 	   	WPQB999 	B		LCD Paging 	Paging 	FMN 	Data 
+159.11250 	155.09250  	 	RM	465 DPL	LDC OPS 	LCD Operations - Admin 	FMN 	Law Talk 
+463.92500 	468.92500  	WPBJ248 	RM	192.8 PL	LCD IntraCom 	Intra County 	FMN 	Interop 
+154.01750 	   	WQTF602 	BM	74.4 PL	Bethlehem FD 	Fire/EMS Operations 	FMN 	Fire Dispatch 
+154.71000 	   	 	BM	CSQ	Bethlehem FG 	Fireground 	FMN 	Fire-Tac 
+33.88000 	   	KCE526 	BM	127.3 PL	Bethlehem FD 	Fire/EMS Operations 	FM 	Fire Dispatch 
+33.62000 	   	KCE526 	M		Bethlhm FG 	Fireground 	FM 	Fire-Tac 
+45.68000 	   	KSV602 	BM	136.5 PL	Bethlhm DPW 	Public Works 	FM 	Public Works 
+159.13500 	156.08250  	KNAB467 	RM	203.5 PL	Bridgewtr DP 	Public Works 	FM 	Public Works 
+151.10000 	   	KNHJ867 	BM	136.5 PL	Canaan DPW 	Public Works 	FM 	Public Works 
+156.04500 	159.39000  	WXY252 	RM	141.3 PL	Goshen FG 	Fireground Primary / Public Works 	FM 	Multi-Dispatch 
+154.40000 	155.43000  	KCT676 	RM	156.7 PL	Harwinton FD FG 	Fireground ("676") 	FM 	Fire-Tac 
+155.40000 	153.83000  	WNSU505 	RM	127.3 PL	HarwiFirePol 	Fire Police 	FM 	Fire-Tac 
+155.40000 	   	WQBC205 	BM	156.7 PL	HarwiAmbU-U 	Ambulance Unit-to-Unit 	FM 	EMS-Tac 
+155.02500 	   	KNBG241 	BM	156.7 PL	Harwi Svcs 	Services (Streets, Selectmen, Dog Warden) 	FM 	Public Works 
+157.69500 	152.43500  	WQGK914 	RM	703 DPL	Kent FG Rptr 	Fireground Repeater 	FMN 	Fire-Tac 
+452.22500 	457.22500  	WNUN217 	RM	662 DPL	Bantam FD 	Bantam Fire Company Dispatch (LCD)   	FM 	Fire Dispatch 
+152.42000 	157.68000  	WQEJ633 	RM	612 DPL	Bantam FG 	Bantam Fireground 	FM 	Fire-Tac 
+158.79000 	   	KD31168 	BM	162.2 PL	Litch PD 	Police (Local Troopers) 	FM 	Law Dispatch 
+154.10000 	158.88000  	KCU222 	RM	146.2 PL	Litch EMS 	Ambulance and Constables 	FM 	Multi-Dispatch 
+151.04000 	158.98500  	KNHG757 	RM	110.9 PL	Litch Hwy 	Public Works 	FM 	Public Works 
+160.01250 	   	 	BM	431 DPL	FormanSchool 	 Faculty/Campus Ops 	FM 	Schools 
+153.74000 	   	WNRR230 	BM		Morris EMA 5 	Emergency Management Region 5 	FM 	Emergency Ops 
+156.10500 	159.04500  	KKM225 	RM	072 DPL	Morris FG/DP 	Fireground Primary / Public Works 	FM 	Multi-Dispatch 
+155.89500 	151.26500  	KUG863 	RM	110.9 PL	Highway / Co 	Public Works / Constable Operations 	FMN 	Multi-Tac 
+155.29500 	158.83500  	WPXV832 	RM	172 DPL	NH EMERG MGM 	Emergency Mgmt 	FMN 	Emergency Ops 
+153.74000 	   	KUG863 	BM		Emergency Ma 	Emergency Management Region 5 	FM 	Emergency Ops 
+155.17500 	   	KOB360 	BM	67.0 PL	Ski Sundown 	Ski Sundown Ski Patrol 	FM 	Business 
+154.86000 	155.91000  	KQW521 	RM	290 NAC	NM Police 1 	Police 1 Operations 	P25 	Law Dispatch 
+159.70500 	   	WQQF861 	M	411 NAC	NM Police 2 	Police 2 Secure 	P25 	Law Tac 
+158.34750 	   	WQQF861 	M	343 NAC	NM Police 3 	Police 3 Special Duty 	P25 	Law Talk 
+154.34750 	150.80500  	WPYN330 	RM	445 DPL	NM Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+151.29500 	   	KQW521 	M	226 DPL	NMFD Scene 1 	Fire Scene 1 	FMN 	Fire-Tac 
+156.06750 	   	KQW521 	M	026 DPL	NMFD Scene 2 	Fire Scene 2 	FMN 	Fire-Tac 
+159.07500 	   	KQW521 	M	026 DPL	NMFD Scene 3 	Fire Scene 3 	FMN 	Fire-Tac 
+160.12500 	   	WQQF861 	M	411 DPL	NMFD Scene 4 	Fire Scene 4 	FMN 	Fire-Tac 
+159.60000 	   	WQQF861 	M	445 DPL	NMFD Fire PD 	New Milford Fire Police 	FMN 	Fire-Tac 
+154.71750 	   	WPRU917 	M	251 DPL	GFD Scene 1 	Gaylordsville Scene 1 	FMN 	Fire-Tac 
+155.87250 	   	WPRU917 	RM	251 DPL	GFD Ops 	Gaylordsville Fire Operations  	FMN 	Fire-Tac 
+154.25750 	   	WPRU917 	BM	445 DPL	GFD FG 	Gaylordsville Fire Fireground 	FMN 	Fire-Tac 
+158.30250 	   	 	M	532 DPL	GFD Fire PD 	Gaylordsville Fire Police 	FMN 	Fire-Tac 
+159.35250 	155.85750  	WQFN889 	RM	226 DPL	NMEMS Disp 	EMS Operations 	FMN 	EMS Dispatch 
+150.77500 	   	WPFV586 	BM	203.5 PL	NM EMS Tac 1 	EMS Tac 1 	FMN 	EMS-Tac 
+150.79000 	   	WPFV586 	BM	203.5 PL	NM EMS Tac 2 	EMS Tac 2 	FMN 	EMS-Tac 
+461.05000 	   	WPGQ893 	BM	662 DPL	Trinity H EMS 	Trinity Health Ambulance Service 	FMN 	EMS-Tac 
+151.13750 	   	 	M	156.7 PL	NM CERT 	Community Emergency Response Team 	FMN 	Emergency Ops 
+152.31500 	157.57500  	WQQF861 	RM	315 DPL	NM DPW 	Public Works 	FMN 	Public Works 
+153.02000 	160.18500  	WQQF861 	RM	026 DPL	NM SenCenter 	Senior Center 	FMN 	Public Works 
+160.08000 	   	WQQF861 	M	343 DPL	NM Town Wide 	Town Wide 	FMN 	Public Works 
+464.87500 	469.87500  	WPTN732 	BM	71.9 PL	NM TwnMaintc 	Town Maintenance 	FMN 	Public Works 
+155.05500 	   	WNAB323 	BM	743 DPL	NewMilfd Sewer 	Sewer Commission  	FMN 	Public Works 
+463.77500 	468.77500  	WQIK678 	RM	94.8 PL	NM Schools 	Schools 	FMN 	Schools 
+153.74000 	   	WQHU722 	BM		Norfolk EMA 	Emergency Mgmt. 	FM 	Emergency Ops 
+154.99500 	   	KMA459 	BM	364 DPL	Norfolk DPW 	Public Works 	FM 	Public Works 
+153.74000 	   	WQGX608 	BM		NCanaan EMA 	Emergency Mgmt. 	FMN 	Emergency Ops 
+155.17500 	   	KOB360 	BM	186.2 PL	NCannan EMSD 	EMS Dispatch (LCD) 	FM 	EMS Dispatch 
+151.11500 	   	KNHN776 	BM	82.5 PL	NCanaan DPW 	Public Works 	FM 	Public Works 
+453.35000 	458.35000  	WNDD470 	RM	155 DPL	Plymouth PD 	Police Operations 	FM 	Law Dispatch 
+453.56250 	458.56250  	KJF264 	RM	565 DPL	Plymouth EMS 	EMS Operations 	FM 	EMS Dispatch 
+453.67500 	458.67500  	WDE657 	RM	141.3 PL	Plymth DPW 	Street Department / Police Secondary 	FM 	Law Tac 
+153.98000 	158.76000  	WPMK215 	RM	365 DPL	Roxbury FD 	Fire/EMS Operations 	FM 	Multi-Dispatch 
+153.98000 	   	WPMK215 	M	365 DPL	Roxbury FG 	Fireground 	FM 	Fire-Tac 
+156.04500 	   	KNDQ356 	BM	100.0 PL	Roxbury FDPD 	Fire Police 	FM 	Fire-Tac 
+155.16000 	   	KFE388 	BM	82.5 PL	Roxbury EMST 	EMS Tactical 	FM 	EMS-Tac 
+153.74000 	   	WQGW303 	BM		Roxbury EMA 	Emergency Mgmt. 	FMN 	Emergency Ops 
+156.04500 	   	KNDQ356 	BM	82.5 PL	Roxbury DPW 	Public Works 	FM 	Public Works 
+453.38750 	458.38750  	KNDQ356 	F		Roxbury Link 	Remote RF Link to/from 156.045 MHz 	FM 	Public Works 
+155.23500 	   	WNUZ598 	BM	141.3 PL	SalisburyEMS 	EMS Dispatch (LCD) 	FM 	EMS Dispatch 
+45.64000 	   	WZN327 	BM	71.9 PL	SalisburyDPW 	Public Works 	FM 	Public Works 
+464.67500 	469.67500  	WQDZ864 	RM	71.9 PL	Hotchkiss Ops 	Hotchkiss School - Operations 	FMN 	Schools 
+464.45000 	469.45000  	WQUN733 	RM	77.0 PL	SalisburySchool 	Salisbury School - Operations 	FMN 	Schools 
+155.34000 	   	KNJB600 	BM	141.3 PL	Sharon Hosp 	Sharon Hospital HEAR/Internal 	FM 	Hospital 
+45.76000 	   	KWM887 	BM	74.4 PL	Sharon DPW 	Public Works 	FM 	Public Works 
+453.73750 	458.73750  	WPZQ405 	RM	114 DPL	TerryvilleFD 	Fire Operations (includes Plymouth) 	FM 	Multi-Dispatch 
+460.60000 	465.60000  	WNID971 	RM	293 NAC	Thomastn PD 	Police Operations 	P25 	Law Dispatch 
+39.96000 	39.40000  	WNID971 	RM	162.2 PL	Thomstn PD 	Police Operations 	FM 	Law Dispatch 
+45.64000 	45.04000  	KCR916 	RM	82.5 PL	Thomstn Fire 	Fire/EMS Operations 	FM 	Fire Dispatch 
+453.22500 	458.22500  	WNID971 	RM	223 DPL	Thomastn FD 	Fire / EMS Operations 	FMN 	Fire Dispatch 
+46.34000 	   	WPAV856 	M	82.5 PL	ThomastnFG 	Fireground 	FM 	Fire-Tac 
+458.20000 	   	WNID971 	BM	223 DPL	Thomastn FG 	Fireground 	FMN 	Fire-Tac 
+460.30000 	   	WNID971 	BM	223 DPL	ThomastnFG2 	Fireground 2 	FMN 	Fire-Tac 
+453.97500 	458.97500  	WNID971 	RM		ThomastnDPW 	Public Works 	FMN 	Public Works 
+152.32250 	157.58250  	WQTH284 	RM	033 NAC	Torring PD 	Police 	P25 	Law Dispatch 
+154.14500 	150.79000  	WPYW998 	RM	162.2 PL	Torrington FC1 	Fire Command 1 	FMN 	Fire Dispatch 
+159.69750 	153.87500  	 	RM	271 DPL	Torrington FC2 	Fire Command 2 	FMN 	Fire-Tac 
+153.83000 	   	WPYW998 	M	162.2 PL	TorringFDTAC 	Fireground 	FMN 	Fire-Tac 
+461.07500 	466.07500  	WPGQ893 	RM	662 DPL	Trinity H EMS 	Trinity Health Ambulance 	FMN 	EMS Dispatch 
+151.08500 	156.22500  	WPPX227 	RM	114 DPL	Torring DPW 	Public Works 	FMN 	Public Works 
+153.71000 	   	KCD994 	BM	114.8 PL	TorringWater 	Water Department 	FMN 	Utilities 
+153.74000 	   	WQHA264 	BM		Warren EMA 	Emergency Mgmt. 	FM 	Emergency Ops 
+154.98000 	158.84250  	KNEH505 	RM	423 DPL	Warren FG/DP 	Fireground Primary / Public Works 	FM 	Multi-Dispatch 
+158.77500 	153.92000  	KXX561 	RM	343 DPL	Washtn TW 	Fire / EMS / Police / Public Works 	FM 	Multi-Dispatch 
+460.32500 	465.32500  	KCD362 	RM	203.5 PL	WatertownPD1 	Police Operations 1 	FMN 	Law Dispatch 
+460.41250 	465.41250  	KCD362 	RM	203.5 PL	WatertownPD2 	Police Operations 2 	FMN 	Law Tac 
+33.66000 	33.96000  	KCI233 	RM		Watertown FD 	Fire Operations 	FM 	Fire Dispatch 
+154.03250 	150.78750  	WPBM543 	RM	432 DPL	Watertown FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.70000 	   	 	M		WatertownFD3 	Fire 3 	FMN 	Fire-Tac 
+158.99250 	   	 	BM	432 DPL	Watertown FG4 	Fireground 4 	FMN 	Fire-Tac 
+155.32500 	   	KCH682 	BM	162.2 PL	AMR Watertwn 	American Medical Response 	FMN 	EMS Dispatch 
+453.18750 	   	 	BM	311 DPL	WatertownDPW 	Public Works 	FMN 	Public Works 
+464.87500 	   	WPXY741 	BM	546 DPL	Taft School 	Taft School Security 	FMN 	Schools 
+460.30000 	   	KCD362 	M	203.5 PL	Watertown HL 	Area Hotline 	FM 	Interop 
+155.56500 	156.09000  	KTZ506 	RM	162.2 PL	Winstead PD 	Police Operations 	FM 	Law Dispatch 
+33.60000 	   	WPVL820 	BM	103.5 PL	Winst FD Sim 	Fire Simulcast of 158.8575 MHz 	FM 	Fire Dispatch 
+158.85750 	150.77500  	WPVL820 	RM	210.7 PL	Winstd Fire 	Fire Operations 	FM 	Fire Dispatch 
+156.19500 	   	WPHB880 	BM	186.2 PL	Winstd FG 	Fireground 1 	FM 	Fire-Tac 
+154.28000 	   	WPVL820 	BM	203.5 PL	Winstd FG 2 	Fireground 2  	FM 	Fire-Tac 
+153.74000 	   	KKV395 	BM	94.8 PL	Winstd EMA 3 	Fireground 3 	FM 	Fire-Tac 
+154.20500 	   	WPVL820 	BM	210.7 PL	Winstd RIT 	Fire - Regional RIT Channel 	FM 	Fire-Tac 
+153.86000 	   	 	M	67.0 PL	Winstd FDPD 	Fire Police 	FM 	Fire-Tac 
+151.19750 	159.39750  	WQEF650 	RM	82.5 PL	Winstd EMS 	EMS 	FM 	EMS Dispatch 
+45.44000 	   	KCS487 	BM	103.5 PL	Winstd DPW 	Public Works 	FM 	Public Works 
+155.57250 	   	KNNJ985 	RM	123 NAC	Woodbury PD 	Police Operations 	P25 	Law Dispatch 
+159.18750 	   	WQES345 	B	94.8 PL	Woodbury FD 	Fire Operations 	FMN 	Fire-Tac 
+155.13750 	153.85250  	WQES345 	RM	168 NAC	Woodbury FD 	Fire Operations 	P25 	Fire-Tac 
+155.13750 	153.85250  	WQES345 	RM	203.5 PL	Woodbury FD 	Fire Operations 	FMN 	Fire-Tac 
+155.94750 	   	WQES345 	M	203.5 PL	Woodbury FG 	Fireground 	FMN 	Fire-Tac 
+46.56000 	   	KNAO467 	BM	127.3 PL	Woodbury Amb 	Ambulance/Constables 	FM 	Multi-Dispatch 
+155.99250 	155.61750  	WQES345 	RM	268 NAC	Woodbury Twn 	Town Services 	P25 	Public Works 
+Marcus Communications - Statewide	 LTR Standard and Passport	 Various	New Milford Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 New Milford	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various

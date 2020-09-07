@@ -1,132 +1,131 @@
-155.62500 	KIA532  	BM		APD 6250 	Police 	FMN 	Law Talk 
-155.70000 	KIA532 	BM		APD 7000 	Police 	FMN 	Law Talk 
-156.21000 	KIA532  	BM		APD 2100 	Police 	FMN 	Law Talk 
-158.80500 	KUE501 	RM		APD 8050 	Police 	FMN 	Law Talk 
-453.25000 	WQGT306 	RM	103.5 PL	APD COMNET 	Police COMNET 	FMN 	Interop 
-460.02500 	KNGY890 	BM		APD 0250 	Police 	FMN 	Law Talk 
-460.07500 	KNGY890 	BM		APD 0750 	Police 	FMN 	Law Talk 
-460.15000 	KNGY890 	BM		APD 1500 	Police 	FMN 	Law Talk 
-460.20000 	KNGY890 	BM		APD 2000 	Police 	FMN 	Law Talk 
-460.30000 	KNGY890 	BM		APD 3000 	Police 	FMN 	Law Talk 
-460.35000 	KNGY890 	BM		APD 3500 	Police 	FMN 	Law Talk 
-460.42500 	KNGY890 	BM		APD 4250 	Police 	FMN 	Law Talk 
-460.47500 	KNGY890 	BM		APD 4750  	Police  	FMN 	Law Talk 
-460.52500 	WQLD690  	BM		APD Bomb 	Police - Bomb Squad Robot 	Telm 	Data 
-852.06250 	WQJZ530 	RM		APD TA 0625 	Police - Talk Around 	FMN 	Law Talk 
-852.46250 	WQJZ530 	RM		APD TA 4625 	Police - Talk Around 	FMN 	Law Talk 
-855.11250 	WQJZ530 	RM	103.5 PL	APD TA 1125 	Police - Talk Around  	FMN 	Law Talk 
-2467.50000 	WQLD690  	BM		APD Bomb 	Police Bomb Squad Robot 	Telm 	Data 
-156.45000 	KIK462 	BM		A Loc Gov 	Local Government 	FMN 	Public Works 
-452.66250 	WQUR786  	BM		A H2O 6625 	Water Department 	FMN 	Public Works 
-456.23750 	WQUR786  	BM		A H2O 2375 	Water Department 	FMN 	Public Works 
-456.33750 	WQUR786  	BM		A H2O 3375 	Water Department 	FMN 	Public Works 
-456.73750 	WQUR786  	BM		A H2O 7375 	Water Department 	FMN 	Public Works 
-457.66250 	WQUR786  	BM		A H2O 6625 	Water Department 	FMN 	Public Works 
-464.27500 	WQUR786  	RM		A H2O Rptr 	Water Department Repeater 	FMN 	Public Works 
-463.21250 	WQHI512 	RM		APS 2125 	Public Schools 	FMN 	Schools 
-467.21250 	WQQP798  	BM		APS 2125 	Public Schools 	FMN 	Schools 
-467.23750 	WQQP798  	BM		APS 2375 	Public Schools 	FMN 	Schools 
-467.26250 	WQQP798  	BM		APS 2625 	Public Schools 	FMN 	Schools 
-467.28750 	WQQP798  	BM		APS 2875 	Public Schools 	FMN 	Schools 
-467.33750 	WQQP798  	BM		APS 3375 	Public Schools 	FMN 	Schools 
-155.41500 	WPMG871 	RM		FCPD 4150 	Police 	FMN 	Law Dispatch 
-158.82000 	KIW644 	RM		FCSO 8200 	Sheriff Pre-Trial 	FMN 	Law Dispatch 
-453.23750 	WQQN281 	BM		FCSO Bomb 	Sheriff - Bomb Squad Robot 	Telm 	Data 
-458.90000 	WQQN281 	BM		FCSO Bomb 	Sheriff - Bobm Squad Robot 	Telm 	Data 
-154.32500 	KNIP933 	RM		FCFD 3250 	Fire  	FMN 	Fire Dispatch 
-866.01250 	WQLQ526 	RM		ITAC 1 	ITAC 1 	FMN 	Interop 
-866.51250 	WQLQ526 	RM		ITAC 2 	ITAC 2 	FMN 	Interop 
-867.01250 	WQLQ526 	RM		ITAC 3 	ITAC 3 	FMN 	Interop 
-867.51250 	WQLQ526 	RM		ITAC 4 	ITAC 4 	FMN 	Interop 
-868.01250 	WQLQ526 	RM		ITAC 5 	ITAC 5 	FMN 	Interop 
-45.08000 	KYT287 	BM		FC/A EMOC 08 	Fulton County/Atlanta Emergency Management Agency 	FM 	Emergency Ops 
-45.12000 	KYT287 	BM		FC/A EMOC 12 	Fulton County/Atlanta Emergency Management Agency 	FM 	Emergency Ops 
-854.53750 	WPMB930 	RM		FC ES 	Emergency Services 	FMN 	Emergency Ops 
-854.58750 	WPMB930 	RM		FC ES 	Emergency Services 	FMN 	Emergency Ops 
-856.63750 	WPMB930 	RM		FC ES 	Emergency Services 	FMN 	Emergency Ops 
-857.16250 	WPMB930 	RM		FC ES 	Emergency Services 	FMN 	Emergency Ops 
-173.39000 	WPDF680 	M		FC H20 	Water SCADA 	Telm 	Data 
-451.82500 	WPFQ889 	RM		FC H20 Treat 	Water Treatment 	FMN 	Public Works 
-452.30000 	WQVG315 	RM		Creekside HS 	Board of Education - Creekside High School 	FMN 	Schools 
-452.75000 	WQNY504 	RM		Crabapple MS 	Board of Education - Crabapple Middle School 	FMN 	Schools 
-452.80000 	WNSH262 	RM		FCBOE 8000 	Board of Education   PENDING TERMINATION 	FMN 	Schools 
-461.01250 	WQFR563 	RM		Sandtown MS 	Board of Education - Sandtown Middle School 	FMN 	Schools 
-461.97500 	WQMD876 	RM		River Trail  	Board of Education - River Trail Middle School 	FMN 	Schools 
-463.73750 	WQJM389 	RM		PD West MS 	Board of Education - Paul D West Middle School 	FMN 	Schools 
-463.87500 	WQHZ990 	RM		N Springs HS 	Board of Education - North Springs High School 	FMN 	Schools 
-464.37500 	WNSH262 	RM		FCBOE 3750 	Board of Education   PENDING TERMINATION 	FMN 	Schools 
-464.66250 	WQUV725 	RM		Woodland MS 	Board of Education - Woodland Middle School 	FMN 	Schools 
-464.82500 	WNSH262 	BM		FCBOE 8250 	Board of Education 	FMN 	Schools 
-464.87500 	WNSH262 	BM		FCBOE 8750 	Board of Education  	FMN 	Schools 
-467.21250 	WQOL523  	BM		FCBOE Mtce S 	Board of Education - Maintenance South 	FMN 	Schools 
-467.28750 	WQOL523  	BM		FCBOE Mtce S 	Board of Education - Maintenance South 	FMN 	Schools 
-453.57500 	WQCP373 	B		AFD Simul 	Fire Dispatch - Simulcast from TRS 	FMN 	Fire Dispatch 
-854.06250 	WNNF373 	RM		Alpha PS 	Public Safety 	FM 	Emergency Ops 
-855.21250 	WNBN463 	RM		Alpha PS 	Public Safety 	FMN 	Emergency Ops 
-856.26250 	KNGY779 	RM		Alpha PW 	Public Works 	FMN 	Public Works 
-4940.00000 	WQBM411 	RM		Alphar MDC 	Police/Fire Mobile Data Link   EXPIRED 11/04/2014 	Telm 	Data 
-453.97500 	WPVW386 	RM		CPPD 9750 	Police Department 	FMN 	Law Talk 
-460.25000 	KIB202 	RM	162.2 PL	CPPD Disp 	Police Dispatch  EXPIRED 01/28/2012 	FMN 	Law Dispatch 
-460.46250 	WQCQ849  	BM		CPPD 4625 	Police Department 	FMN 	Law Talk 
-154.26500 	WQSF703 	BM		CPFD Disp 	Fire Dispatch (Back Up) 	FMN 	Fire Dispatch 
-151.01750 	WQAB387 	RM		CP Loc Gov 	Local Government 	FMN 	Public Works 
-154.04750 	WQAB387 	RM		CP Loc Gov 	Local Government 	FMN 	Public Works 
-154.97250 	WQAB387 	RM		CP Loc Gov 	Local Government 	FMN 	Public Works 
-155.88000 	WQAB387 	RM		CP Loc Gov 	Local Government 	FMN 	Public Works 
-456.85000 	WQIV345 	BM		CP Pub Works 	Public Works 	FMN 	Public Works 
-158.77500 	KFV817 	RM		EPFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.13000 	KIS436 	BM		EPFD TAC 	Fire Tac 	FMN 	EMS-Tac 
-155.14500 	KFV817  	BM		EPFD 1450 	Fire Department 	FMN 	Fire-Talk 
-460.38750 	WNUR541 	M		EPFD UHF 	Fire Tac 	FMN 	EMS-Tac 
-158.25000 	WNDA736 	RM		EP Services 	City Services 	FMN 	Public Works 
-159.21000 	KIC376 	RM	107.2 PL	EP Meters 	Meter Services 	FMN 	Public Works 
-453.75000 	KJS774 	BM		FPD 7500 	Police Department 	FMN 	Law Talk 
-155.82000 	WPMY547 	RM		HPD 8200 	Police Department 	FMN 	Law Talk 
-158.80500 	KIA704 	RM		HPD 8050 	Police Department 	FMN 	Law Talk 
-460.55000 	KIA704 	RM		HPD 5500 U 	Police Department 	FMN 	Law Talk 
-154.35500 	WPWC879 	RM		HFD 3550 	Fire Department 	FMN 	Fire-Talk 
-461.07500 	WQLK549 	BM		JC 075 Smplx 	Parades and Special Events 	NXDN 	Multi-Talk 
-461.25000 	WQLK549 	BM		JC 250 Smplx 	Parades and Special Events 	NXDN 	Multi-Talk 
-461.35000 	WQLK549 	BM		JC 350 Smplx 	Parades and Special Events 	NXDN 	Multi-Talk 
-461.40000 	WQLK549 	BM		JC 400 Smplx 	Parades and Special Events 	NXDN 	Multi-Talk 
-461.55000 	WQLK549 	BM		JC 550 Smplx 	Parades and Special Events 	NXDN 	Multi-Talk 
-464.95000 	WQLK549 	RM	466 DPL	JC 950 Rpt 	Parades and Special Events 	FMN 	Multi-Talk 
-154.98000 	WPLS353 	BM		P Pub Util 	City Utilities 	FMN 	Public Works 
-460.60000 	WPZD908 	RM		RFD Dispatch 	Fire Dispatch (Simulcast from TRS) 	FMN 	Fire Dispatch 
-453.82500 	KNEB701 	RM		Roswell 	City of Roswell Data 	Telm 	Data 
-855.01250 	 	M	103.5 PL	SSPD T/A 	Police Talkaround (Direct) 	FM 	Law Talk 
-155.71500 	WQOJ400 	BM		SS Loc Gov 	Local Government 	FMN 	Public Works 
-159.18000 	WQOJ400 	BM		SS Loc Gov 	Local Government 	FMN 	Public Works 
-451.75000 	WPMT851 	BM		SFMRJ 	South Fulton Municipal Regional Jail 	FMN 	Corrections 
-155.83500 	WFE658 	BM		UC Loc Gov 	Local Government 	FMN 	Public Works 
-461.77500 	WQFQ694 	RM		Atlanta Tech 	Atlanta Technical College 	DMR 	Schools 
-464.95000 	WQFQ694 	RM		Atlanta Tech 	Atlanta Technical College 	DMR 	Schools 
-464.67500 	WQGC372 	RM	703 DPL	GSU Opns 1 	Operations 1 	FMN 	Schools 
-461.46250 	WQHJ973 	RM	032 DPL	GSU Opns 2 	Operations 2 	FMN 	Schools 
-461.57500 	WQGC372 	M	132 DPL	GSU Opns Smp 	Operations Simplex 	FMN 	Schools 
-462.35000 	WQGC372 	M	432 DPL	GSU Simp 2 	Simplex 2 	FMN 	Schools 
-463.20000 	WQGC372 	M	167.9 PL	GSU Simp 3 	Simplex 3 	FMN 	Schools 
-451.43750 	WQSW245 	BM		GSU TRBO A 	Operations 	DMR 	Schools 
-452.63750 	WQSW245 	BM		GSU TRBO B 	Operations 	DMR 	Schools 
-456.43750 	WQSW245 	BM		GSU TRBO C 	Operations 	DMR 	Schools 
-456.66250 	WQSW245 	BM		GSU TRBO D 	Operations 	DMR 	Schools 
-457.63750 	WQSW245 	BM		GSU TRBO E 	Operations 	DMR 	Schools 
-853.31250 	WPPB420 	RM		GT Police Old 	OLD Police (Now on P25 Trunked System) 	P25E 	Law Dispatch 
-463.81250 	WQLT405 	RM	CC 1TG 1SL 2	GT Park/Trans  	Parking / Transportation 	DMR 	Schools 
-461.22500 	WPRA617 	RM	565 DPL	GaTech Maint A 	Maintenance 	FMN 	Schools 
-463.82500 	WPRA617 	RM	703 DPL	GaTech Maint B 	Maintenance 	FMN 	Schools 
-463.97500 	WPRA617 	RM	114.8 PL	GT Facilities 	Facilities 	FMN 	Schools 
-451.70000 	WPHR610 	RM	67.0 PL	MH College PD 1 	Morehouse College Police Dispatch 	FMN 	Law Dispatch 
-453.15000 	WPHR610 	BM		MH College PD 2 	Morehouse College Police Operations 	FMN 	Law Tac 
-451.78750 	WQAL312 	RM		MH College SoM 	Morehouse College School of Medicine 	FMN 	Schools 
-463.36250 	WQHG585 	RM	031 DPL	Spelman College 	Operations 	FMN 	Schools 
-Americas Mart Atlanta LTR	 LTR Standard	 Atlanta	Atlanta Public Safety P25	 Project 25 Phase II	 Atlanta	Coca Cola Company MOT	 Motorola Type II Smartnet
- Atlanta	Emory University	 Motorola Type II SmartZone	 Various	Federal Protective Service Atlanta MOT	 Motorola Type II SmartZone	 Various	FedEx Hartsfield-Jackson Airport MOT
- Motorola Type II	 Atlanta	Fulton County Public Safety P25	 Project 25 Phase II	 Atlanta	Fulton County Services DMR	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Atlanta
-Georgia Aquarium	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Atlanta	Georgia Fleet Talk (LTR)	 LTR Standard	 Atlanta	Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800
- Various	Georgia World Congress Center 800 LTR	 LTR Standard	 Atlanta	Georgia World Congress Center UHF LTR	 LTR Standard	 Atlanta	Greystone Power LTR
- LTR Standard and Passport	 Dallas	Hyatt Regency Atlanta MOT	 Motorola Type II Smartnet	 Atlanta	Mercedes Benz Stadium	 DMR Tier 3	 Atlanta
-Metro Atlanta Rapid Transit Authority MOT	 Motorola Type II SmartZone	 Atlanta	North Fulton Regional Radio System Authority (NFRRSA)	 Project 25 Phase II	 Various	Philips Arena LTR	 LTR Standard
- Atlanta	SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various	State of Georgia Atlanta Trunked Radio System	 Project 25 Phase II	 Atlanta	TeamConnect
- DMR Motorola Connect Plus (TRBO)	 Various	Turner Broadcasting System DMR	 DMR Motorola Connect Plus (TRBO)	 Atlanta	Union City Public Safety DMR	 DMR Motorola Connect Plus (TRBO)	 Union City
+155.62500 	   	KIA532  	BM		APD 6250 	Police 	FMN 	Law Talk 
+155.70000 	   	KIA532 	BM		APD 7000 	Police 	FMN 	Law Talk 
+156.21000 	   	KIA532  	BM		APD 2100 	Police 	FMN 	Law Talk 
+158.80500 	153.87500  	KUE501 	RM		APD 8050 	Police 	FMN 	Law Talk 
+453.25000 	458.25000  	WQGT306 	RM	103.5 PL	APD COMNET 	Police COMNET 	FMN 	Interop 
+460.02500 	   	KNGY890 	BM		APD 0250 	Police 	FMN 	Law Talk 
+460.07500 	   	KNGY890 	BM		APD 0750 	Police 	FMN 	Law Talk 
+460.15000 	   	KNGY890 	BM		APD 1500 	Police 	FMN 	Law Talk 
+460.20000 	   	KNGY890 	BM		APD 2000 	Police 	FMN 	Law Talk 
+460.30000 	   	KNGY890 	BM		APD 3000 	Police 	FMN 	Law Talk 
+460.35000 	   	KNGY890 	BM		APD 3500 	Police 	FMN 	Law Talk 
+460.42500 	   	KNGY890 	BM		APD 4250 	Police 	FMN 	Law Talk 
+460.47500 	   	KNGY890 	BM		APD 4750  	Police  	FMN 	Law Talk 
+460.52500 	   	WQLD690  	BM		APD Bomb 	Police - Bomb Squad Robot 	Telm 	Data 
+852.06250 	407.06250  	WQJZ530 	RM		APD TA 0625 	Police - Talk Around 	FMN 	Law Talk 
+852.46250 	807.46250  	WQJZ530 	RM		APD TA 4625 	Police - Talk Around 	FMN 	Law Talk 
+855.11250 	810.11250  	WQJZ530 	RM	103.5 PL	APD TA 1125 	Police - Talk Around  	FMN 	Law Talk 
+2467.50000 	   	WQLD690  	BM		APD Bomb 	Police Bomb Squad Robot 	Telm 	Data 
+156.45000 	   	KIK462 	BM		A Loc Gov 	Local Government 	FMN 	Public Works 
+452.66250 	   	WQUR786  	BM		A H2O 6625 	Water Department 	FMN 	Public Works 
+456.23750 	   	WQUR786  	BM		A H2O 2375 	Water Department 	FMN 	Public Works 
+456.33750 	   	WQUR786  	BM		A H2O 3375 	Water Department 	FMN 	Public Works 
+456.73750 	   	WQUR786  	BM		A H2O 7375 	Water Department 	FMN 	Public Works 
+457.66250 	   	WQUR786  	BM		A H2O 6625 	Water Department 	FMN 	Public Works 
+464.27500 	469.27500  	WQUR786  	RM		A H2O Rptr 	Water Department Repeater 	FMN 	Public Works 
+463.21250 	468.21250  	WQHI512 	RM		APS 2125 	Public Schools 	FMN 	Schools 
+467.21250 	   	WQQP798  	BM		APS 2125 	Public Schools 	FMN 	Schools 
+467.23750 	   	WQQP798  	BM		APS 2375 	Public Schools 	FMN 	Schools 
+467.26250 	   	WQQP798  	BM		APS 2625 	Public Schools 	FMN 	Schools 
+467.28750 	   	WQQP798  	BM		APS 2875 	Public Schools 	FMN 	Schools 
+467.33750 	   	WQQP798  	BM		APS 3375 	Public Schools 	FMN 	Schools 
+155.41500 	156.09000  	WPMG871 	RM		FCPD 4150 	Police 	FMN 	Law Dispatch 
+158.82000 	153.99500  	KIW644 	RM		FCSO 8200 	Sheriff Pre-Trial 	FMN 	Law Dispatch 
+453.23750 	   	WQQN281 	BM		FCSO Bomb 	Sheriff - Bomb Squad Robot 	Telm 	Data 
+458.90000 	   	WQQN281 	BM		FCSO Bomb 	Sheriff - Bobm Squad Robot 	Telm 	Data 
+154.32500 	154.23500  	KNIP933 	RM		FCFD 3250 	Fire  	FMN 	Fire Dispatch 
+866.01250 	821.01250  	WQLQ526 	RM		ITAC 1 	ITAC 1 	FMN 	Interop 
+866.51250 	821.51250  	WQLQ526 	RM		ITAC 2 	ITAC 2 	FMN 	Interop 
+867.01250 	822.01250  	WQLQ526 	RM		ITAC 3 	ITAC 3 	FMN 	Interop 
+867.51250 	822.51250  	WQLQ526 	RM		ITAC 4 	ITAC 4 	FMN 	Interop 
+868.01250 	823.01250  	WQLQ526 	RM		ITAC 5 	ITAC 5 	FMN 	Interop 
+45.08000 	   	KYT287 	BM		FC/A EMOC 08 	Fulton County/Atlanta Emergency Management Agency 	FM 	Emergency Ops 
+45.12000 	   	KYT287 	BM		FC/A EMOC 12 	Fulton County/Atlanta Emergency Management Agency 	FM 	Emergency Ops 
+854.53750 	809.53750  	WPMB930 	RM		FC ES 	Emergency Services 	FMN 	Emergency Ops 
+854.58750 	809.58750  	WPMB930 	RM		FC ES 	Emergency Services 	FMN 	Emergency Ops 
+856.63750 	811.63750  	WPMB930 	RM		FC ES 	Emergency Services 	FMN 	Emergency Ops 
+857.16250 	812.16250  	WPMB930 	RM		FC ES 	Emergency Services 	FMN 	Emergency Ops 
+173.39000 	   	WPDF680 	M		FC H20 	Water SCADA 	Telm 	Data 
+451.82500 	456.82500  	WPFQ889 	RM		FC H20 Treat 	Water Treatment 	FMN 	Public Works 
+452.30000 	457.30000  	WQVG315 	RM		Creekside HS 	Board of Education - Creekside High School 	FMN 	Schools 
+452.75000 	457.75000  	WQNY504 	RM		Crabapple MS 	Board of Education - Crabapple Middle School 	FMN 	Schools 
+452.80000 	457.80000  	WNSH262 	RM		FCBOE 8000 	Board of Education   PENDING TERMINATION 	FMN 	Schools 
+461.01250 	466.01250  	WQFR563 	RM		Sandtown MS 	Board of Education - Sandtown Middle School 	FMN 	Schools 
+461.97500 	466.97500  	WQMD876 	RM		River Trail  	Board of Education - River Trail Middle School 	FMN 	Schools 
+463.73750 	469.73750  	WQJM389 	RM		PD West MS 	Board of Education - Paul D West Middle School 	FMN 	Schools 
+463.87500 	468.87500  	WQHZ990 	RM		N Springs HS 	Board of Education - North Springs High School 	FMN 	Schools 
+464.37500 	469.37500  	WNSH262 	RM		FCBOE 3750 	Board of Education   PENDING TERMINATION 	FMN 	Schools 
+464.66250 	469.66250  	WQUV725 	RM		Woodland MS 	Board of Education - Woodland Middle School 	FMN 	Schools 
+464.82500 	   	WNSH262 	BM		FCBOE 8250 	Board of Education 	FMN 	Schools 
+464.87500 	   	WNSH262 	BM		FCBOE 8750 	Board of Education  	FMN 	Schools 
+467.21250 	   	WQOL523  	BM		FCBOE Mtce S 	Board of Education - Maintenance South 	FMN 	Schools 
+467.28750 	   	WQOL523  	BM		FCBOE Mtce S 	Board of Education - Maintenance South 	FMN 	Schools 
+453.57500 	   	WQCP373 	B		AFD Simul 	Fire Dispatch - Simulcast from TRS 	FMN 	Fire Dispatch 
+854.06250 	809.06250  	WNNF373 	RM		Alpha PS 	Public Safety 	FM 	Emergency Ops 
+855.21250 	810.21250  	WNBN463 	RM		Alpha PS 	Public Safety 	FMN 	Emergency Ops 
+856.26250 	811.26250  	KNGY779 	RM		Alpha PW 	Public Works 	FMN 	Public Works 
+4940.00000 	   	WQBM411 	RM		Alphar MDC 	Police/Fire Mobile Data Link   EXPIRED 11/04/2014 	Telm 	Data 
+453.97500 	458.97500  	WPVW386 	RM		CPPD 9750 	Police Department 	FMN 	Law Talk 
+460.25000 	465.25000  	KIB202 	RM	162.2 PL	CPPD Disp 	Police Dispatch  EXPIRED 01/28/2012 	FMN 	Law Dispatch 
+460.46250 	   	WQCQ849  	BM		CPPD 4625 	Police Department 	FMN 	Law Talk 
+154.26500 	   	WQSF703 	BM		CPFD Disp 	Fire Dispatch (Back Up) 	FMN 	Fire Dispatch 
+151.01750 	158.98500  	WQAB387 	RM		CP Loc Gov 	Local Government 	FMN 	Public Works 
+154.04750 	159.01500  	WQAB387 	RM		CP Loc Gov 	Local Government 	FMN 	Public Works 
+154.97250 	159.06000  	WQAB387 	RM		CP Loc Gov 	Local Government 	FMN 	Public Works 
+155.88000 	159.18750  	WQAB387 	RM		CP Loc Gov 	Local Government 	FMN 	Public Works 
+456.85000 	   	WQIV345 	BM		CP Pub Works 	Public Works 	FMN 	Public Works 
+158.77500 	153.78500  	KFV817 	RM		EPFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.13000 	   	KIS436 	BM		EPFD TAC 	Fire Tac 	FMN 	EMS-Tac 
+155.14500 	   	KFV817  	BM		EPFD 1450 	Fire Department 	FMN 	Fire-Talk 
+460.38750 	   	WNUR541 	M		EPFD UHF 	Fire Tac 	FMN 	EMS-Tac 
+158.25000 	173.25000  	WNDA736 	RM		EP Services 	City Services 	FMN 	Public Works 
+159.21000 	154.77000  	KIC376 	RM	107.2 PL	EP Meters 	Meter Services 	FMN 	Public Works 
+453.75000 	   	KJS774 	BM		FPD 7500 	Police Department 	FMN 	Law Talk 
+155.82000 	158.86500  	WPMY547 	RM		HPD 8200 	Police Department 	FMN 	Law Talk 
+158.80500 	154.83000  	KIA704 	RM		HPD 8050 	Police Department 	FMN 	Law Talk 
+460.55000 	465.55000  	KIA704 	RM		HPD 5500 U 	Police Department 	FMN 	Law Talk 
+154.35500 	153.98000  	WPWC879 	RM		HFD 3550 	Fire Department 	FMN 	Fire-Talk 
+461.07500 	   	WQLK549 	BM		JC 075 Smplx 	Parades and Special Events 	NXDN 	Multi-Talk 
+461.25000 	   	WQLK549 	BM		JC 250 Smplx 	Parades and Special Events 	NXDN 	Multi-Talk 
+461.35000 	   	WQLK549 	BM		JC 350 Smplx 	Parades and Special Events 	NXDN 	Multi-Talk 
+461.40000 	   	WQLK549 	BM		JC 400 Smplx 	Parades and Special Events 	NXDN 	Multi-Talk 
+461.55000 	   	WQLK549 	BM		JC 550 Smplx 	Parades and Special Events 	NXDN 	Multi-Talk 
+464.95000 	469.95000  	WQLK549 	RM	466 DPL	JC 950 Rpt 	Parades and Special Events 	FMN 	Multi-Talk 
+154.98000 	   	WPLS353 	BM		P Pub Util 	City Utilities 	FMN 	Public Works 
+460.60000 	465.60000  	WPZD908 	RM		RFD Dispatch 	Fire Dispatch (Simulcast from TRS) 	FMN 	Fire Dispatch 
+453.82500 	458.82500  	KNEB701 	RM		Roswell 	City of Roswell Data 	Telm 	Data 
+855.01250 	   	 	M	103.5 PL	SSPD T/A 	Police Talkaround (Direct) 	FM 	Law Talk 
+155.71500 	   	WQOJ400 	BM		SS Loc Gov 	Local Government 	FMN 	Public Works 
+159.18000 	   	WQOJ400 	BM		SS Loc Gov 	Local Government 	FMN 	Public Works 
+451.75000 	   	WPMT851 	BM		SFMRJ 	South Fulton Municipal Regional Jail 	FMN 	Corrections 
+155.83500 	   	WFE658 	BM		UC Loc Gov 	Local Government 	FMN 	Public Works 
+461.77500 	465.77500  	WQFQ694 	RM		Atlanta Tech 	Atlanta Technical College 	DMR 	Schools 
+464.95000 	469.95000  	WQFQ694 	RM		Atlanta Tech 	Atlanta Technical College 	DMR 	Schools 
+464.67500 	469.67500  	WQGC372 	RM	703 DPL	GSU Opns 1 	Operations 1 	FMN 	Schools 
+461.46250 	466.46250  	WQHJ973 	RM	032 DPL	GSU Opns 2 	Operations 2 	FMN 	Schools 
+461.57500 	   	WQGC372 	M	132 DPL	GSU Opns Smp 	Operations Simplex 	FMN 	Schools 
+462.35000 	   	WQGC372 	M	432 DPL	GSU Simp 2 	Simplex 2 	FMN 	Schools 
+463.20000 	   	WQGC372 	M	167.9 PL	GSU Simp 3 	Simplex 3 	FMN 	Schools 
+451.43750 	   	WQSW245 	BM		GSU TRBO A 	Operations 	DMR 	Schools 
+452.63750 	   	WQSW245 	BM		GSU TRBO B 	Operations 	DMR 	Schools 
+456.43750 	   	WQSW245 	BM		GSU TRBO C 	Operations 	DMR 	Schools 
+456.66250 	   	WQSW245 	BM		GSU TRBO D 	Operations 	DMR 	Schools 
+457.63750 	   	WQSW245 	BM		GSU TRBO E 	Operations 	DMR 	Schools 
+853.31250 	808.31250  	WPPB420 	RM		GT Police Old 	OLD Police (Now on P25 Trunked System) 	P25E 	Law Dispatch 
+463.81250 	468.81250  	WQLT405 	RM	CC 1TG 1SL 2	GT Park/Trans  	Parking / Transportation 	DMR 	Schools 
+461.22500 	466.22500  	WPRA617 	RM	565 DPL	GaTech Maint A 	Maintenance 	FMN 	Schools 
+463.82500 	468.82500  	WPRA617 	RM	703 DPL	GaTech Maint B 	Maintenance 	FMN 	Schools 
+463.97500 	468.97500  	WPRA617 	RM	114.8 PL	GT Facilities 	Facilities 	FMN 	Schools 
+451.70000 	456.70000  	WPHR610 	RM	67.0 PL	MH College PD 1 	Morehouse College Police Dispatch 	FMN 	Law Dispatch 
+453.15000 	   	WPHR610 	BM		MH College PD 2 	Morehouse College Police Operations 	FMN 	Law Tac 
+451.78750 	456.78750  	WQAL312 	RM		MH College SoM 	Morehouse College School of Medicine 	FMN 	Schools 
+463.36250 	468.36250  	WQHG585 	RM	031 DPL	Spelman College 	Operations 	FMN 	Schools 
+Americas Mart Atlanta LTR	 LTR Standard	 Atlanta	Atlanta Public Safety P25	 Project 25 Phase II	 Atlanta	Coca Cola Company MOT	 Motorola Type II Smartnet	 Atlanta
+Emory University	 Motorola Type II SmartZone	 Various	Federal Protective Service Atlanta MOT	 Motorola Type II SmartZone	 Various	FedEx Hartsfield-Jackson Airport MOT	 Motorola Type II	 Atlanta
+Fulton County Public Safety P25	 Project 25 Phase II	 Atlanta	Fulton County Services DMR	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Atlanta	Georgia Aquarium	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Atlanta
+Georgia Fleet Talk (LTR)	 LTR Standard	 Atlanta	Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800	 Various	Georgia World Congress Center 800 LTR	 LTR Standard	 Atlanta
+Georgia World Congress Center UHF LTR	 LTR Standard	 Atlanta	Greystone Power LTR	 LTR Standard and Passport	 Dallas	Hyatt Regency Atlanta MOT	 Motorola Type II Smartnet	 Atlanta
+Mercedes Benz Stadium	 DMR Tier 3	 Atlanta	Metro Atlanta Rapid Transit Authority MOT	 Motorola Type II SmartZone	 Atlanta	North Fulton Regional Radio System Authority (NFRRSA)	 Project 25 Phase II	 Various
+Philips Arena LTR	 LTR Standard	 Atlanta	SmartRadio DMR	 DMR Motorola Connect Plus (TRBO)	 Various	State of Georgia Atlanta Trunked Radio System	 Project 25 Phase II	 Atlanta
+TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	Turner Broadcasting System DMR	 DMR Motorola Connect Plus (TRBO)	 Atlanta	Union City Public Safety DMR	 DMR Motorola Connect Plus (TRBO)	 Union City
 US BOP Atlanta MOT	 Motorola Type II Smartnet	 Atlanta	Westin Peachtree Plaza Hotel LTR	 LTR Standard	 Atlanta	

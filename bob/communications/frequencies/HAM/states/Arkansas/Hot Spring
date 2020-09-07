@@ -1,34 +1,33 @@
-154.31000 	KNJF928 	RM	156.7 PL	HSC FIRE 	Fire - Countywide Dispatch  	FMN 	Fire Dispatch 
-156.11250 	WQUP806 	RM		HSC DEM TAC 	Countywide Emergency Management Tactical/Data 	DMR 	Emergency Ops 
-158.74500 	KNJF928 	BM		HSC DEM 	Fire - Emergency Management  	FMN 	Emergency Ops 
-152.99250 	WQCR613 	RM	205 DPL	LIFENET EMS 	LifeNet EMS - Malvern Repeater 	FMN 	EMS Dispatch 
-154.93500 	KKA267 	RM	CC 9TG 551100SL 1	HSC SO DISP 	Sheriff - Patrol Dispatch 	DMR 	Law Dispatch 
-153.72500 	WPLG795 	BM		HS Co Water 	Water Authority 	FM 	Public Works 
-155.25000 	WNFE730 	RM	77.0 PL	HS Co Roads 	Road Dept. / County Judge 	FMN 	Public Works 
-155.34000 	Various 	BM	131.8 PL	SERN-ALL 	Countywide EMS - Ambulance-to-Hospital 	FMN 	Hospital 
-155.38500 	WNII221 	BM		HSMC-EMS 	Hot Springs Medical Center EMS - Dispatch 	FMN 	Hospital 
-453.01250 	WNXR559 	M		SJRMC-TAC 	St. Joseph Regional Medical Center Tactical 	FMN 	Hospital 
-453.17500 	WNXR559 	BM		SJRMC-OPS 	St. Joseph Regional Medical Center Operations 	FMN 	Hospital 
-154.35500 	WPCU903 	RM	CC 15TG 8570100SL 1	BVFD TAC 	Bismark Volunteer Fire Department Tactical 	DMRE 	Fire-Tac 
-154.35500 	WPCU903 	RM	156.7 PL	BVFD-DISP 	Bismark Volunteer Fire Department Dispatch 	FMN 	Fire Dispatch 
-158.84250 	WQBP729 	RM		NDVFD-TAC 	New Deroche Volunteer Fire Department Tactical 	FMN 	Fire-Tac 
-151.23500 	KNFX409 	RM	423 DPL	OVFD-TAC 1 	Ouchita Volunteer Fire Department Tactical 1 	FMN 	Fire-Tac 
-154.13000 	KNFX409 	BM		OVFD-TAC 2 	Ouchita Volunteer Fire Department Tactical 2 	FMN 	Fire-Tac 
-155.76000 	WNCX686 	RM	174 DPL	LRVFD-DISP 	Lono Rolla Volunteer Fire Department Dispatch 	FMN 	Fire Dispatch 
-155.76000 	WNCX686 	RM	CC 2TG 8630100SL 1	LRVFD-TAC 	Lono Rolla Volunteer Fire Department Tactical 	DMR 	Fire-Tac 
-151.02500 	WPBE213 	RM	CC 7TG 854100SL 1	SWRVFD-TAC 	Southwest Rural Volunteer Fire Department Tactical 	DMRE 	Fire-Tac 
-154.35500 	WPBE213 	RM	CC 15TG 8880100SL 2	SWRVFD-DISP 	Southwest Rural Volunteer Fire Department Dispatch 	DMR 	Fire Dispatch 
-154.69500 	WPBE978 	RM		MCVFD-TAC 	Magnet Cove Volunteer Fire Department Tactical 	FMN 	Fire-Tac 
-158.76750 	WQJY498 	RM	CC 1TG 8530100SL 1	SMVFD-DISP 	South Malvern Volunteer Fire Department Dispatch 	DMRE 	Fire Dispatch 
-154.32500 	WQGZ307 	RM	CC 1TG 8590100SL 1	PCVFD Dispatch 	Point Cedar Volunteer Fire Department Dispatch 	DMR 	Fire Dispatch 
-154.28000 	WQGZ307 	BM		PCVFD-TAC 	Point Cedar Volunteer Fire Department Tactical 	FMN 	Fire-Tac 
-154.04000 	WQBB980 	RM		RVFD-DISP 	Rockport Volunteer Fire Department Dispatch 	FMN 	Fire Dispatch 
-154.16000 	WQBB980 	BM		RVFD-TAC 	Rockport Volunteer Fire Department Tactical 	FMN 	Fire-Tac 
-159.01500 	WPAA252 	RM	CC 1TG 8460104SL 1	GRVFD Disp 	GlenRose Volunteer Fire Department Dispatch 	DMR 	Fire Dispatch 
-159.01500 	WPAA252 	RM	CC 1TG 8460101SL 1	GRVFD FG 1 	GlenRose Volunteer Fire Department Fireground 1 	DMR 	Fire-Tac 
-158.80500 	WPBT703 	RM	CC 10TG 840200SL 1	Malvern FD 	Fire - Dispatch 	DMR 	Fire Dispatch 
-154.78500 	WNLQ246 	RM	CC 1TG 99SL 1	MPD-DIGITAL 	Police Digital (Encrypted) 	DMRE 	Law Dispatch 
-154.78500 	WNLQ246 	RM	146.2 PL	MPD-ANALOG 	Police Analog Backup 	FMN 	Law Dispatch 
-156.18000 	WPUR588 	RM	343 DPL	MPD-TAC A 	Police  Tactical Analog *Rarely Used* 	FMN 	Law Tac 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	
+154.31000 	153.95000  	KNJF928 	RM	156.7 PL	HSC FIRE 	Fire - Countywide Dispatch  	FMN 	Fire Dispatch 
+156.11250 	154.80750  	WQUP806 	RM		HSC DEM TAC 	Countywide Emergency Management Tactical/Data 	DMR 	Emergency Ops 
+158.74500 	   	KNJF928 	BM		HSC DEM 	Fire - Emergency Management  	FMN 	Emergency Ops 
+152.99250 	157.59000  	WQCR613 	RM	205 DPL	LIFENET EMS 	LifeNet EMS - Malvern Repeater 	FMN 	EMS Dispatch 
+154.93500 	156.03000  	KKA267 	RM	CC 9TG 551100SL 1	HSC SO DISP 	Sheriff - Patrol Dispatch 	DMR 	Law Dispatch 
+153.72500 	   	WPLG795 	BM		HS Co Water 	Water Authority 	FM 	Public Works 
+155.25000 	155.89500  	WNFE730 	RM	77.0 PL	HS Co Roads 	Road Dept. / County Judge 	FMN 	Public Works 
+155.34000 	   	Various 	BM	131.8 PL	SERN-ALL 	Countywide EMS - Ambulance-to-Hospital 	FMN 	Hospital 
+155.38500 	   	WNII221 	BM		HSMC-EMS 	Hot Springs Medical Center EMS - Dispatch 	FMN 	Hospital 
+453.01250 	   	WNXR559 	M		SJRMC-TAC 	St. Joseph Regional Medical Center Tactical 	FMN 	Hospital 
+453.17500 	   	WNXR559 	BM		SJRMC-OPS 	St. Joseph Regional Medical Center Operations 	FMN 	Hospital 
+154.35500 	159.16500  	WPCU903 	RM	CC 15TG 8570100SL 1	BVFD TAC 	Bismark Volunteer Fire Department Tactical 	DMRE 	Fire-Tac 
+154.35500 	159.16500  	WPCU903 	RM	156.7 PL	BVFD-DISP 	Bismark Volunteer Fire Department Dispatch 	FMN 	Fire Dispatch 
+158.84250 	153.74750  	WQBP729 	RM		NDVFD-TAC 	New Deroche Volunteer Fire Department Tactical 	FMN 	Fire-Tac 
+151.23500 	158.91000  	KNFX409 	RM	423 DPL	OVFD-TAC 1 	Ouchita Volunteer Fire Department Tactical 1 	FMN 	Fire-Tac 
+154.13000 	   	KNFX409 	BM		OVFD-TAC 2 	Ouchita Volunteer Fire Department Tactical 2 	FMN 	Fire-Tac 
+155.76000 	150.80500  	WNCX686 	RM	174 DPL	LRVFD-DISP 	Lono Rolla Volunteer Fire Department Dispatch 	FMN 	Fire Dispatch 
+155.76000 	150.80500  	WNCX686 	RM	CC 2TG 8630100SL 1	LRVFD-TAC 	Lono Rolla Volunteer Fire Department Tactical 	DMR 	Fire-Tac 
+151.02500 	153.90500  	WPBE213 	RM	CC 7TG 854100SL 1	SWRVFD-TAC 	Southwest Rural Volunteer Fire Department Tactical 	DMRE 	Fire-Tac 
+154.35500 	   	WPBE213 	RM	CC 15TG 8880100SL 2	SWRVFD-DISP 	Southwest Rural Volunteer Fire Department Dispatch 	DMR 	Fire Dispatch 
+154.69500 	159.10500  	WPBE978 	RM		MCVFD-TAC 	Magnet Cove Volunteer Fire Department Tactical 	FMN 	Fire-Tac 
+158.76750 	155.90250  	WQJY498 	RM	CC 1TG 8530100SL 1	SMVFD-DISP 	South Malvern Volunteer Fire Department Dispatch 	DMRE 	Fire Dispatch 
+154.32500 	150.80500  	WQGZ307 	RM	CC 1TG 8590100SL 1	PCVFD Dispatch 	Point Cedar Volunteer Fire Department Dispatch 	DMR 	Fire Dispatch 
+154.28000 	   	WQGZ307 	BM		PCVFD-TAC 	Point Cedar Volunteer Fire Department Tactical 	FMN 	Fire-Tac 
+154.04000 	158.94000  	WQBB980 	RM		RVFD-DISP 	Rockport Volunteer Fire Department Dispatch 	FMN 	Fire Dispatch 
+154.16000 	   	WQBB980 	BM		RVFD-TAC 	Rockport Volunteer Fire Department Tactical 	FMN 	Fire-Tac 
+159.01500 	156.22500  	WPAA252 	RM	CC 1TG 8460104SL 1	GRVFD Disp 	GlenRose Volunteer Fire Department Dispatch 	DMR 	Fire Dispatch 
+159.01500 	156.22500  	WPAA252 	RM	CC 1TG 8460101SL 1	GRVFD FG 1 	GlenRose Volunteer Fire Department Fireground 1 	DMR 	Fire-Tac 
+158.80500 	156.01500  	WPBT703 	RM	CC 10TG 840200SL 1	Malvern FD 	Fire - Dispatch 	DMR 	Fire Dispatch 
+154.78500 	155.97000  	WNLQ246 	RM	CC 1TG 99SL 1	MPD-DIGITAL 	Police Digital (Encrypted) 	DMRE 	Law Dispatch 
+154.78500 	155.97000  	WNLQ246 	RM	146.2 PL	MPD-ANALOG 	Police Analog Backup 	FMN 	Law Dispatch 
+156.18000 	158.98500  	WPUR588 	RM	343 DPL	MPD-TAC A 	Police  Tactical Analog *Rarely Used* 	FMN 	Law Tac 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various

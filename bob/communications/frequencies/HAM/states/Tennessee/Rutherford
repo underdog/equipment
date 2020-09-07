@@ -1,51 +1,51 @@
-154.75500 	WQQP235 	RM	051 DPL	VTNMA LOCAL 	VTNMA Local Access 	FMN 	Interop 
-154.75500 	WQQP235 	RM	100.0 PL	VTNMA STATE 	VTNMA Statewide Access 	FMN 	Interop 
-460.40000 	WSB879 	RM	051 DPL	UTNMA LOCAL 	UTNMA Local Access 	FMN 	Interop 
-460.40000 	WSB879 	RM	127.3 PL	UTNMA STATE 	UTNMA Statewide Acess 	FMN 	Interop 
-158.80500 	WPHQ774 	BM	110.9 PL	MED/FIRE MAIN A 	MED/FIRE Dispatch (Analog) Simulcast on P25 	FMN 	Fire Dispatch 
-151.49000 	WQQP235 	RM	293 NAC	MED/FIRE MAIN D 	MED/FIRE Dispatch (P25) Simulcast on Analog 	P25 	Fire Dispatch 
-158.74500 	KAG384 	RM	136.5 PL	MED/FIRE OPS A 	MED/FIRE Operations Alpha 	FMN 	Fire-Tac 
-155.08500 	WQQP235 	RM	146.2 PL	MED/FIRE OPS B 	MED/FIRE  Operations Bravo 	FMN 	Fire-Tac 
-155.55000 	WPFW511 	RM	136.5 PL	MED/FIRE OPS C 	MED/FIRE  Operations Charlie 	FMN 	Fire-Tac 
-155.28000 	 	BM	CSQ	MED/FIRE OPS D 	MED/FIRE  Operations Delta 	FMN 	Fire-Tac 
-155.88000 	 	BM	054 DPL	MED/FIRE  EVENTS 	MED/FIRE  Events 	FMN 	Fire-Tac 
-151.04000 	 	BM	136.5 PL	MED/FIRE  CONF A 	MED/FIRE  Conference A 	FMN 	Fire-Talk 
-155.23500 	KXX626 	BM	CSQ	MED/FIRE XTNDRS 	MED/FIRE  Unit Repeaters 	FMN 	EMS-Tac 
-151.74500 	 	M		RESCUE TALK 	Rescue Squad - Talkaround 	FMN 	EMS-Talk 
-462.97500 	WQQP235 	RM	110.9 PL	EMS UHF DISPATCH 	EMS UHF Dispatch 	FMN 	EMS Dispatch 
-460.25000 	WFS750 	RM	293 NAC	SO DISPATCH D 	Sheriff Dispatch - Digital 	P25 	Law Dispatch 
-460.20000 	WFS750 	RM	131.8 PL	SO DISPATCH A 	Sheriff Dispatch - Analog 	FMN 	Law Dispatch 
-460.16250 	WFS750 	RM	071 DPL	SO DETECTIVES 	Sheriff Detectives 	FMN 	Law Tac 
-458.90000 	WFS750 	M	131.8 PL	SO CAR to CAR 	Sheriff Car-to-Car Simplex 	FMN 	Law Talk 
-460.42500 	WFS750 	RM	131.8 PL	SO CAR to CAR 	Sheriff Car-to-Car Repeater 	FMN 	Law Talk 
-453.83750 	WQQP235 	RM	118.8 PL	SO OPS 1 	Sheriff Operations 1 	FMN 	Law Tac 
-453.75000 	WQQP235 	RM	146.2 PL	SO OPS 2 	Sheriff Operations 2 	FMN 	Law Tac 
-460.25000 	WQQP235 	RM	131.8 PL	SO OPS 3 	Sheriff Operations 3 	FMN 	Law Tac 
-460.46250 	WQQP235 	RM	051 DPL	SO OPS 4 	Sheriff Operations 4 	FMN 	Law Tac 
-460.28750 	WFS750 	RM	141.3 PL	SO Jail 	Sheriff Jail 	FMN 	Corrections 
-453.16250 	WPEE501 	RM	023 DPL	Workhouse 	County Workhouse 	FMN 	Corrections 
-452.13750 	WQGC948 	RM	346 DPL	Schools 1 	County Schools 	FMN 	Schools 
-452.63750 	WQGC948 	RM	454 DPL	Schools 2 	County Schools 	FMN 	Schools 
-463.42500 	WQHJ521 	RM	141.3 PL	OAKLAND HIGH 	Oakland High School 	FMN 	Schools 
-460.37500 	WSB879 	RM	131.8 PL	MPD DISP EAST 	Police Dispatch East 	FMN 	Law Dispatch 
-453.32500 	WQUL987 	RM	141.3 PL	MPD DISP WEST 	Police Dispatch West 	FMN 	Law Dispatch 
-460.35000 	WSB879 	RM	131.8 PL	MPD CAR-CAR 	Police Car-to-Car 	FMN 	Law Talk 
-452.87500 	WSB879 	RM	114.8 PL	MPD ADMIN 	Police Administration 	FMN 	Law Talk 
-154.98000 	KNDZ235 	RM	123.0 PL	MFD MAIN 	Fire Dispatch Main 	FMN 	Fire Dispatch 
-159.21000 	KNDZ235 	RM	051 DPL	MFD STNDBY 	Fire Dispatch Standby CH. 	FMN 	Fire-Tac 
-154.22000 	WPJR992 	BM		MFD MOSCAD 	Fire MOSCAD Tone Out Data For Dispatch 	Telm 	Data 
-154.49000 	WPNQ355 	RM	071 DPL	MW-S OP1 	Water & Sewer 	FMN 	Utilities 
-159.79500 	WPPE463 	RM	054 DPL	MW-S OP2 	Water & Sewer 	FMN 	Utilities 
-453.40000 	WNNB992 	RM	71.9 PL	MSTREETS 	Street Department 	FMN 	Public Works 
-453.53750 	WQRL419 	RM		MTRANSIT 	Public Transit 	FMN 	Transportation 
-461.95000 	KNDS534 	RM	141.3 PL	MSCHOOL BUS 	City Schools - Buses 	FMN 	Schools 
-462.51250 	WQUV743 	RM	179.9 PL	MSCHOOL OPS 	City Schools 	FMN 	Schools 
-460.05000 	WNNI348 	RM	131.8 PL	LVPD BACKUP 	Police Department - (Backup) 	FMN 	Law Dispatch 
-155.16000 	WPKL705 	RM	136.5 PL	LVFD BU 1 	Fire Department - Backup 	FMN 	Fire Dispatch 
-154.34000 	WPKL705 	BM	192.8 PL	LVFD BU 2 	Fire Department - Backup 	FMN 	Fire-Tac 
-37.90000 	KWX355 	BM		LVRS Car-Car 	Rescue Squad Car-to-Car 	FM 	EMS-Tac 
-462.47500 	WNPK819 	RM		LaVergne PW 	Public Works 	FMN 	Public Works 
-452.15000 	KNNV449 	RM	131.8 PL	Smyrna Fire 	Fire Department (linked to Smyrna TRS) 	FMN 	Fire Dispatch 
-General Mills - Pillsbury Factory	 DMR Motorola Capacity Plus Single Site (TRBO)	 Murfreesboro	General Mills - Yoplait Factory	 DMR Motorola Capacity Plus Single Site (TRBO)	 Murfreesboro	Nissan Manufacturing Plant - Smyrna	 DMR Motorola Capacity Plus Single Site (TRBO)
- Smryna	Rutherford County Public Safety	 Project 25 Phase II	 Murfreesboro	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network
- DMR Conventional Networked	 Various	
+154.75500 	156.01500  	WQQP235 	RM	051 DPL	VTNMA LOCAL 	VTNMA Local Access 	FMN 	Interop 
+154.75500 	156.01500  	WQQP235 	RM	100.0 PL	VTNMA STATE 	VTNMA Statewide Access 	FMN 	Interop 
+460.40000 	465.40000  	WSB879 	RM	051 DPL	UTNMA LOCAL 	UTNMA Local Access 	FMN 	Interop 
+460.40000 	465.40000  	WSB879 	RM	127.3 PL	UTNMA STATE 	UTNMA Statewide Acess 	FMN 	Interop 
+158.80500 	150.79000  	WPHQ774 	BM	110.9 PL	MED/FIRE MAIN A 	MED/FIRE Dispatch (Analog) Simulcast on P25 	FMN 	Fire Dispatch 
+151.49000 	154.95000  	WQQP235 	RM	293 NAC	MED/FIRE MAIN D 	MED/FIRE Dispatch (P25) Simulcast on Analog 	P25 	Fire Dispatch 
+158.74500 	155.98500  	KAG384 	RM	136.5 PL	MED/FIRE OPS A 	MED/FIRE Operations Alpha 	FMN 	Fire-Tac 
+155.08500 	158.89500  	WQQP235 	RM	146.2 PL	MED/FIRE OPS B 	MED/FIRE  Operations Bravo 	FMN 	Fire-Tac 
+155.55000 	159.76500  	WPFW511 	RM	136.5 PL	MED/FIRE OPS C 	MED/FIRE  Operations Charlie 	FMN 	Fire-Tac 
+155.28000 	   	 	BM	CSQ	MED/FIRE OPS D 	MED/FIRE  Operations Delta 	FMN 	Fire-Tac 
+155.88000 	   	 	BM	054 DPL	MED/FIRE  EVENTS 	MED/FIRE  Events 	FMN 	Fire-Tac 
+151.04000 	   	 	BM	136.5 PL	MED/FIRE  CONF A 	MED/FIRE  Conference A 	FMN 	Fire-Talk 
+155.23500 	   	KXX626 	BM	CSQ	MED/FIRE XTNDRS 	MED/FIRE  Unit Repeaters 	FMN 	EMS-Tac 
+151.74500 	   	 	M		RESCUE TALK 	Rescue Squad - Talkaround 	FMN 	EMS-Talk 
+462.97500 	467.97500  	WQQP235 	RM	110.9 PL	EMS UHF DISPATCH 	EMS UHF Dispatch 	FMN 	EMS Dispatch 
+460.25000 	465.25000  	WFS750 	RM	293 NAC	SO DISPATCH D 	Sheriff Dispatch - Digital 	P25 	Law Dispatch 
+460.20000 	465.20000  	WFS750 	RM	131.8 PL	SO DISPATCH A 	Sheriff Dispatch - Analog 	FMN 	Law Dispatch 
+460.16250 	465.16250  	WFS750 	RM	071 DPL	SO DETECTIVES 	Sheriff Detectives 	FMN 	Law Tac 
+458.90000 	   	WFS750 	M	131.8 PL	SO CAR to CAR 	Sheriff Car-to-Car Simplex 	FMN 	Law Talk 
+460.42500 	465.42500  	WFS750 	RM	131.8 PL	SO CAR to CAR 	Sheriff Car-to-Car Repeater 	FMN 	Law Talk 
+453.83750 	458.83750  	WQQP235 	RM	118.8 PL	SO OPS 1 	Sheriff Operations 1 	FMN 	Law Tac 
+453.75000 	458.75000  	WQQP235 	RM	146.2 PL	SO OPS 2 	Sheriff Operations 2 	FMN 	Law Tac 
+460.25000 	465.25000  	WQQP235 	RM	131.8 PL	SO OPS 3 	Sheriff Operations 3 	FMN 	Law Tac 
+460.46250 	465.46250  	WQQP235 	RM	051 DPL	SO OPS 4 	Sheriff Operations 4 	FMN 	Law Tac 
+460.28750 	   	WFS750 	RM	141.3 PL	SO Jail 	Sheriff Jail 	FMN 	Corrections 
+453.16250 	   	WPEE501 	RM	023 DPL	Workhouse 	County Workhouse 	FMN 	Corrections 
+452.13750 	   	WQGC948 	RM	346 DPL	Schools 1 	County Schools 	FMN 	Schools 
+452.63750 	   	WQGC948 	RM	454 DPL	Schools 2 	County Schools 	FMN 	Schools 
+463.42500 	   	WQHJ521 	RM	141.3 PL	OAKLAND HIGH 	Oakland High School 	FMN 	Schools 
+460.37500 	465.37500  	WSB879 	RM	131.8 PL	MPD DISP EAST 	Police Dispatch East 	FMN 	Law Dispatch 
+453.32500 	458.32500  	WQUL987 	RM	141.3 PL	MPD DISP WEST 	Police Dispatch West 	FMN 	Law Dispatch 
+460.35000 	465.35000  	WSB879 	RM	131.8 PL	MPD CAR-CAR 	Police Car-to-Car 	FMN 	Law Talk 
+452.87500 	457.87500  	WSB879 	RM	114.8 PL	MPD ADMIN 	Police Administration 	FMN 	Law Talk 
+154.98000 	154.01000  	KNDZ235 	RM	123.0 PL	MFD MAIN 	Fire Dispatch Main 	FMN 	Fire Dispatch 
+159.21000 	156.16500  	KNDZ235 	RM	051 DPL	MFD STNDBY 	Fire Dispatch Standby CH. 	FMN 	Fire-Tac 
+154.22000 	   	WPJR992 	BM		MFD MOSCAD 	Fire MOSCAD Tone Out Data For Dispatch 	Telm 	Data 
+154.49000 	   	WPNQ355 	RM	071 DPL	MW-S OP1 	Water & Sewer 	FMN 	Utilities 
+159.79500 	   	WPPE463 	RM	054 DPL	MW-S OP2 	Water & Sewer 	FMN 	Utilities 
+453.40000 	   	WNNB992 	RM	71.9 PL	MSTREETS 	Street Department 	FMN 	Public Works 
+453.53750 	458.53750  	WQRL419 	RM		MTRANSIT 	Public Transit 	FMN 	Transportation 
+461.95000 	   	KNDS534 	RM	141.3 PL	MSCHOOL BUS 	City Schools - Buses 	FMN 	Schools 
+462.51250 	   	WQUV743 	RM	179.9 PL	MSCHOOL OPS 	City Schools 	FMN 	Schools 
+460.05000 	465.05000  	WNNI348 	RM	131.8 PL	LVPD BACKUP 	Police Department - (Backup) 	FMN 	Law Dispatch 
+155.16000 	154.07000  	WPKL705 	RM	136.5 PL	LVFD BU 1 	Fire Department - Backup 	FMN 	Fire Dispatch 
+154.34000 	   	WPKL705 	BM	192.8 PL	LVFD BU 2 	Fire Department - Backup 	FMN 	Fire-Tac 
+37.90000 	   	KWX355 	BM		LVRS Car-Car 	Rescue Squad Car-to-Car 	FM 	EMS-Tac 
+462.47500 	467.47500  	WNPK819 	RM		LaVergne PW 	Public Works 	FMN 	Public Works 
+452.15000 	457.15000  	KNNV449 	RM	131.8 PL	Smyrna Fire 	Fire Department (linked to Smyrna TRS) 	FMN 	Fire Dispatch 
+General Mills - Pillsbury Factory	 DMR Motorola Capacity Plus Single Site (TRBO)	 Murfreesboro	General Mills - Yoplait Factory	 DMR Motorola Capacity Plus Single Site (TRBO)	 Murfreesboro	Middle Tennessee Regional Trunked Radio System	 Project 25 Phase II	 Multiple
+Nissan Manufacturing Plant - Smyrna	 DMR Motorola Capacity Plus Single Site (TRBO)	 Smryna	Rutherford County Public Safety	 Project 25 Phase II	 Murfreesboro	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various
+Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

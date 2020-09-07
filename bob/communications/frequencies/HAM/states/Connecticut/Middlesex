@@ -1,111 +1,110 @@
-46.18000 	WQF238 	BM	141.3 PL	MC Fire Disp 	Middlesex County Fire Dispatch 	FM 	Fire Dispatch 
-453.38750 	WQXZ848 	RM	141.3 PL	Simulcast Dispat 	Middlesex County Dispatch Simulcast 	FMN 	Fire Dispatch 
-460.41250 	 	BM	141.3 PL	VS911 InAttk 	Interior Attack  	FMN 	Fire-Tac 
-458.88750 	 	BM	141.3 PL	VS RIT Team 	Rapid Intervention 	FMN 	Fire-Tac 
-458.66250 	 	BM	141.3 PL	VS FirePolic 	Fire Police 	FMN 	Fire-Tac 
-453.46250 	 	BM	156.7 PL	VS WtrSupply 	Water Supply 	FMN 	Fire-Tac 
-468.01250 	 	BM	141.3 PL	VS EMSTac 	EMS Tac 	FMN 	EMS-Tac 
-154.26500 	KJJ377 	M	107.2 PL	FireMA North 	Fire Intercity North 	FM 	Fire-Tac 
-154.29500 	KJJ377 	M	107.2 PL	FireMA South 	Fire Intercity South 	FM 	Fire-Tac 
-46.16000 	KJJ377 	BM	141.3 PL	Fire Statewd 	Fire Statewide Fire Chiefs 	FM 	Fire-Tac 
-155.40000 	WNKK348 	BM	203.5 PL	MiddlesexHos 	Middlesex Hospital Paramedics 	FM 	EMS Dispatch 
-155.34000 	WPBM422 	BM	203.5 PL	EMS to Hosp 	EMS to Hospital (Statewide Med Net) 	FM 	Hospital 
-460.26250 	 	RM	023 DPL	Chester Fire 	Command (FG-Tac is Simplex) 	FMN 	Fire-Tac 
-451.85000 	 	RM	023 DPL	Chester Gov 	Local Government Repeater 	FMN 	Public Works 
-45.28000 	WQAS236 	BM	118.8 PL	Chester DPW 	Public Works 	FM 	Public Works 
-453.28750 	WQLS925 	RM	145 NAC	Clinton PD 1 	Police Operations 	P25 	Law Dispatch 
-460.56250 	WNMG300 	M		Clinton PD 2 	Police Secondary 	P25 	Law Tac 
-453.05000 	WNMG300 	RM	141.3 PL	Clinton FD 	Fire Operations 	FMN 	Fire Dispatch 
-155.88000 	WQV467 	BM	146.2 PL	Clinton SVCS 	Services 	FMN 	Public Works 
-860.96250 	WNKR770 	RM	167.9 PL	Cromwell PD 	Police Operations 	FM 	Law Dispatch 
-159.31500 	KJJ377 	RM	072 DPL	Cromwell FD4 	Fire Command 	FM 	Fire-Tac 
-154.43000 	KJJ377 	RM	94.8 PL	Cromwell FD5 	Fire Operations (repeats 46.10 MHz) 	FM 	Fire-Tac 
-156.20250 	KJJ377 	RM		Cromwell FD2 	Fire Secondary 	FM 	Fire-Tac 
-153.83000 	KJJ377 	M	94.8 PL	Cromwell FD6 	Fire Vehicle Repeaters 	FM 	Fire-Tac 
-154.98000 	KNGB660 	BM	146.2 PL	Cromwell EMA 	Civil Defense/Homeland Security 	FM 	Emergency Ops 
-45.20000 	WNYN691 	BM	127.3 PL	Cromwell DPW 	Public Works 	FM 	Public Works 
-462.50000 	WPYU793 	M		Cromwell ED1 	Board of Education 	FM 	Schools 
-463.65000 	WPYU793 	M		Cromwell ED2 	Board of Education 	FM 	Schools 
-464.97500 	WPYU793 	RM		Cromwell ED3 	Board of Education 	FM 	Schools 
-453.11250 	 	BM	141.3 PL	DeepRiver FG 	Fireground 	FMN 	Fire-Tac 
-453.33750 	 	RM	023 DPL	Deep River FD Cm 	Fire Command 	FMN 	Fire-Tac 
-453.83750 	WPWH748 	RM	156.7 PL	FD Link45.72 	Fire Operations (link to 45.72 MHz) 	FM 	Fire-Tac 
-453.42500 	WPUX760 	RM	141.3 PL	Durham EMS 	EMS Operations 	FM 	EMS-Tac 
-46.22000 	KGC263 	BM	141.3 PL	EHaddam FD1 	Fire/EMS Operations 	FM 	Fire Dispatch 
-453.03750 	 	M	203.5 PL	EHaddam FD2 	Fire/EMS Vehicle Repeaters 	FM 	Fire-Talk 
-46.58000 	WQU491 	BM	146.2 PL	EHaddam DPW 	Public Works/Services 	FM 	Public Works 
-155.49000 	KTT856 	RM	162.2 PL	EHamptonPD 1 	Police Operations 	FM 	Law Dispatch 
-155.49000 	KTT856 	M	162.2 PL	EHamptonPD 2 	Police Talk-Around 	FM 	Law Dispatch 
-155.47500 	KTT856 	BM	162.2 PL	EHPD/NLEEF 	EHPD/National Law Mutual Aid 	FM 	Law Tac 
-453.06250 	WPPD521 	M	151.4 PL	EHFD Link 	Fire/EMS - Baker Hill Tower (link 46.18/46.22) 	FM 	Fire Dispatch 
-453.63750 	WNXP462 	M	151.4 PL	EHFD Link 	Fire/EMS - Cobalt Tower (link 46.18/46.22) 	FM 	Fire Dispatch 
-460.03750 	WQHT308 	RM		EHFD/EHEMS 	Fire/EMS - Tactical 	FMN 	Fire-Tac 
-460.53750 	WQHT308 	RM		EHFD CmndPst 	Fire/EMS - Command Post 	FMN 	Fire-Tac 
-458.66250 	WQFG841 	BM	114.8 PL	EHFD MobRptr 	Fire Vehicle Repeaters 	FM 	Fire-Tac 
-458.93750 	 		210.7 PL	EMS MobRptr 	EMS Vehicle Repeaters 	FM 	Fire-Talk 
-153.93500 	KNCS295 	BM	162.2 PL	Civil Def 1 	Civil Defense - Area 3 	FM 	Emergency Ops 
-153.96500 	KNCS295 	BM	162.2 PL	Civil Def 4 	Civil Defense - Area 4 (Siren Activation) 	FM 	Emergency Ops 
-150.99500 	KCG257 	BM	162.2 PL	Public Works 	Public Works / Fire Police 	FM 	Emergency Ops 
-46.00000 	WPPA906 	BM	141.3 PL	Senior Bus 	Senior Center Bus / Fire/EMS Alternate 	FM 	Transportation 
-453.26250 	WQHB728 	BM	125 DPL	Essex FG 	Fire/EMS Operations 	FMN 	Fire-Tac 
-45.76000 	KNHU683 	BM	141.3 PL	Essex Town 	Town Services 	FM 	Public Works 
-453.97500 	KNHZ596 	RM	141.3 PL	Haddam Fire 	Fire Operations 	FMN 	Fire Dispatch 
-453.97500 	KNHZ596 	RM	031 DPL	Haddam Fire 	Fire Operations 	FMN 	Fire-Tac 
-453.36250 	KEY812 	RM	162.2 PL	Haddam FD 3 	Cross-band to County Low Band 	FMN 	Fire-Tac 
-467.36250 	WQBU768 	M		Haddam EMS 1 	EMS 	FMN 	EMS-Tac 
-462.36250 	WQBU768 	M	103.5 PL	Haddam EMS 2 	EMS Vehicle Repeaters 	FMN 	EMS-Tac 
-453.10000 	WPQZ400 	RM	431 DPL	Haddam Svcs 	Services 	FMN 	Public Works 
-460.06250 	WPKS538 	RM	023 DPL	Killingworth FD 	Fire Operations 	FMN 	Fire Dispatch 
-453.10000 	WPQZ843 	RM	134 DPL	Killworth Svcs 	Services 	FMN 	Public Works 
-453.25000 	WPWH748 	RM	167.9 PL	MiddlefldFD1 	Fire Operations 	FM 	Fire-Tac 
-465.53750 	WPXB698 	M	203.5 PL	MiddlefldFD2 	Fire Vehicle Repeaters 	FM 	Fire-Tac 
-155.37000 	KCA662 	RM	114.8 PL	Mtown PD 1 	Police 1 	FM 	Law Dispatch 
-159.45000 	WPLW328 	RM	85.4 PL	Mtown PD 2 	Police 2 	FM 	Law Tac 
-155.67000 	WPKB578 	BM	218.1 PL	Mtown PD 3 	Police 3 	FM 	Law Tac 
-155.53500 	WPKR461 	BM	71.9 PL	Mtown PD 4 	Police 4 	FM 	Law Tac 
-46.14000 	KLY251 	BM	141.3 PL	Mtown Fire 	Fire Operations 	FM 	Fire-Tac 
-155.08500 	WPWS596 	RM	91.5 PL	MtownCityFD1 	City Fire District 	FM 	Fire-Tac 
-160.03500 	WQBT695 	M	162.2 PL	MtownCityFD2 	City Fire Vehicle Repeaters 	FM 	Fire-Tac 
-151.32500 	KLY251 	RM	79.7 PL	SouthFire1 	South Fire District 	FM 	Fire-Tac 
-160.00500 	WQBT695 	M	162.2 PL	SouthFire2 	South Fire Vehicle Repeaters 	FM 	Fire-Tac 
-160.12500 	WQAS200 	BM	71.9 PL	WestfieldFD1 	Westfield Fire Dispatch (repeats 46.18 MHz)  	FM 	Fire Dispatch 
-159.27000 	KNAB668 	RM	71.9 PL	WestfieldFD2 	Fire Operations (repeats 46.32 MHz)  	FM 	Fire-Tac 
-46.32000 	KNAB668 	BM	141.3 PL	WestfieldFD3 	Westfield Fire Operations (repeats 159.27 MHz)  	FM 	Fire-Tac 
-153.86000 	KNAB668 	BM	CSQ	WestfieldFD4 	Westfield Fireground 251 DPL/Repeater 74.4 PL 	FM 	Fire-Tac 
-170.15000 	KNAB668 	BM	74.4 PL	WestfieldFD5 	Westfield Vehicle Repeater 	FM 	Fire-Tac 
-154.92000 	 	M	74.4 PL	WestfieldFD6 	Westfield Fire Police 	FM 	Fire-Tac 
-152.88500 	WQAX360 	RM	431 DPL	Mtown School 	Board of Education 	FM 	Schools 
-155.83500 	KJH385 	RM	206.5 PL	Mtown EMA 	Emergency Management/Alarms Division 	FM 	Emergency Ops 
-157.50000 	 	M	162.2 PL	Mtown Common 	Townwide Common 	FM 	Multi-Tac 
-159.13500 	KNCX729 	RM	203.5 PL	Mtown DPW 	Public Works 	FM 	Public Works 
-453.73750 	WQAP741 	RM	91.5 PL	OldSybrk PD1 	Police/EMS 	FMN 	Multi-Dispatch 
-460.41250 	WQAP741 	RM	88.5 PL	OldSaybrookMulti 	Fire Tones and Public Works 	FMN 	Multi-Dispatch 
-453.23750 	WQAL766 	RM	97.4 PL	OldSybrkFD 1 	Fire Operations 	FMN 	Fire-Tac 
-465.23750 	WQAL766 	M	179.9 PL	OldSybrkFD 2 	Fireground 2 	FMN 	Fire-Tac 
-460.23750 	WQAP741 	B	179.9 PL	OldSaybrook PD2 	Police Tac 2 	FMN 	Law Tac 
-460.32500 	WNMG300 	BM	118.8 PL	OldSybrk EMA 	Emergency Management 	FMN 	Emergency Ops 
-155.53500 	WPKR461 	BM	71.9 PL	Portland PD 	Police Operations 	FM 	Law Dispatch 
-154.04750 	WQBS617 	RM	431 DPL	Portland FD1 	Fire Operations 	FM 	Fire Dispatch 
-158.77500 	WPKV568 	M	141.3 PL	Portland FD2 	Fireground 	FM 	Fire-Tac 
-158.94000 	WPKV568 	M	141.3 PL	Portland FD3 	Fireground 	FM 	Fire-Tac 
-154.08500 	WPKV568 	M	141.3 PL	Portland FD4 	Fire Vehicle Repeaters 	FM 	Fire-Tac 
-46.24000 	KCG960 	BM	141.3 PL	Portland FD4 	Fire Police 	FM 	Fire-Tac 
-45.08000 	WQCM778 	BM	118.8 PL	Portland DPW 	Public Works 	FM 	Public Works 
-453.81250 	WQFG841 	M	023 DPL	WestbrookFD1 	Fire/EMS Operations 	FMN 	Fire Dispatch 
-453.90000 	WQFG841 	BM	023 DPL	WestbrookFD2 	Fireground 2 	FMN 	Fire-Tac 
-458.60000 	WQFG841 	BM	023 DPL	WestbrookFD3 	Fireground 3 	FMN 	Fire-Tac 
-154.14500 	KCF824 	BM	162.2 PL	WesbrookEMA 	Emergency Management 	FMN 	Emergency Ops 
-155.23500 	KCF824 	BM	162.2 PL	WestbrookTwn 	Town Services 	FMN 	Law Talk 
-159.75000 	KCF824 	BM	118.8 PL	WestbrookDPW 	Public Works 	FMN 	Public Works 
-155.92500 	KUG599 	RM		CTS Security 	Security 	FM 	Security 
-154.54000 	 		110.9 PL	CTS Ops 	Connecticut Juvenile Training School 	FM 	Schools 
-45.42000 	WQBL821 	BM	123.0 PL	CHV Police 	Police 	FM 	Law Dispatch 
-46.40000 	KUQ791 	BM	173.8 PL	CHV Fire 1 	Fire Operations 	FM 	Fire-Tac 
-154.20500 	KUQ791 	M		CVH Fire 2 	Fireground 	FM 	Fire-Tac 
-154.01000 	KUQ791 	M		CVH Fire 3 	Fire Vehicle Repeaters 	FM 	Fire-Tac 
-46.54000 	KJR218 	BM	141.3 PL	CVH Fire 4 	Fire and Police (South Fire District responds to all fire calls) 	FM 	Fire-Tac 
-153.38000 	KJA372 	BM	107.2 PL	P&W Fire/EMS 	Fire/EMS Dispatch/Operations 	FM 	Fire Dispatch 
-461.70000 	KNBX324 	RM	131.8 PL	Wesleyan Sec 	Security 	FM 	Security 
-Connecticut Land Mobile Radio Network (CLMRN)	 Project 25 Phase II	 Statewide	Cromwell	 LTR Standard	 Cromwell	Marcus Communications - Statewide	 LTR Standard and Passport
- Various	Marcus Spectrum Holdings, LLC	 DMR Tier 3	 Various	Marcus Spectrum Holdings, LLC	 DMR Tier 3	 Various	Middletown
- Project 25 Phase II	 Middletown	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	
+46.18000 	   	WQF238 	BM	141.3 PL	MC Fire Disp 	Middlesex County Fire Dispatch 	FM 	Fire Dispatch 
+453.38750 	458.38750  	WQXZ848 	RM	141.3 PL	Simulcast Dispat 	Middlesex County Dispatch Simulcast 	FMN 	Fire Dispatch 
+460.41250 	   	 	BM	141.3 PL	VS911 InAttk 	Interior Attack  	FMN 	Fire-Tac 
+458.88750 	   	 	BM	141.3 PL	VS RIT Team 	Rapid Intervention 	FMN 	Fire-Tac 
+458.66250 	   	 	BM	141.3 PL	VS FirePolic 	Fire Police 	FMN 	Fire-Tac 
+453.46250 	   	 	BM	156.7 PL	VS WtrSupply 	Water Supply 	FMN 	Fire-Tac 
+468.01250 	   	 	BM	141.3 PL	VS EMSTac 	EMS Tac 	FMN 	EMS-Tac 
+154.26500 	   	KJJ377 	M	107.2 PL	FireMA North 	Fire Intercity North 	FM 	Fire-Tac 
+154.29500 	   	KJJ377 	M	107.2 PL	FireMA South 	Fire Intercity South 	FM 	Fire-Tac 
+46.16000 	   	KJJ377 	BM	141.3 PL	Fire Statewd 	Fire Statewide Fire Chiefs 	FM 	Fire-Tac 
+155.40000 	   	WNKK348 	BM	203.5 PL	MiddlesexHos 	Middlesex Hospital Paramedics 	FM 	EMS Dispatch 
+155.34000 	   	WPBM422 	BM	203.5 PL	EMS to Hosp 	EMS to Hospital (Statewide Med Net) 	FM 	Hospital 
+460.26250 	465.26250  	 	RM	023 DPL	Chester Fire 	Command (FG-Tac is Simplex) 	FMN 	Fire-Tac 
+451.85000 	456.85000  	 	RM	023 DPL	Chester Gov 	Local Government Repeater 	FMN 	Public Works 
+45.28000 	   	WQAS236 	BM	118.8 PL	Chester DPW 	Public Works 	FM 	Public Works 
+453.28750 	458.28750  	WQLS925 	RM	145 NAC	Clinton PD 1 	Police Operations 	P25 	Law Dispatch 
+460.56250 	   	WNMG300 	M		Clinton PD 2 	Police Secondary 	P25 	Law Tac 
+453.05000 	458.05000  	WNMG300 	RM	141.3 PL	Clinton FD 	Fire Operations 	FMN 	Fire Dispatch 
+155.88000 	   	WQV467 	BM	146.2 PL	Clinton SVCS 	Services 	FMN 	Public Works 
+860.96250 	815.96250  	WNKR770 	RM	167.9 PL	Cromwell PD 	Police Operations 	FM 	Law Dispatch 
+159.31500 	151.23500  	KJJ377 	RM	072 DPL	Cromwell FD4 	Fire Command 	FM 	Fire-Tac 
+154.43000 	159.69000  	KJJ377 	RM	94.8 PL	Cromwell FD5 	Fire Operations (repeats 46.10 MHz) 	FM 	Fire-Tac 
+156.20250 	   	KJJ377 	RM		Cromwell FD2 	Fire Secondary 	FM 	Fire-Tac 
+153.83000 	   	KJJ377 	M	94.8 PL	Cromwell FD6 	Fire Vehicle Repeaters 	FM 	Fire-Tac 
+154.98000 	   	KNGB660 	BM	146.2 PL	Cromwell EMA 	Civil Defense/Homeland Security 	FM 	Emergency Ops 
+45.20000 	   	WNYN691 	BM	127.3 PL	Cromwell DPW 	Public Works 	FM 	Public Works 
+462.50000 	   	WPYU793 	M		Cromwell ED1 	Board of Education 	FM 	Schools 
+463.65000 	   	WPYU793 	M		Cromwell ED2 	Board of Education 	FM 	Schools 
+464.97500 	469.47500  	WPYU793 	RM		Cromwell ED3 	Board of Education 	FM 	Schools 
+453.11250 	   	 	BM	141.3 PL	DeepRiver FG 	Fireground 	FMN 	Fire-Tac 
+453.33750 	458.33750  	 	RM	023 DPL	Deep River FD Cm 	Fire Command 	FMN 	Fire-Tac 
+453.83750 	458.83750  	WPWH748 	RM	156.7 PL	FD Link45.72 	Fire Operations (link to 45.72 MHz) 	FM 	Fire-Tac 
+453.42500 	458.42500  	WPUX760 	RM	141.3 PL	Durham EMS 	EMS Operations 	FM 	EMS-Tac 
+46.22000 	   	KGC263 	BM	141.3 PL	EHaddam FD1 	Fire/EMS Operations 	FM 	Fire Dispatch 
+453.03750 	   	 	M	203.5 PL	EHaddam FD2 	Fire/EMS Vehicle Repeaters 	FM 	Fire-Talk 
+46.58000 	   	WQU491 	BM	146.2 PL	EHaddam DPW 	Public Works/Services 	FM 	Public Works 
+155.49000 	154.78500  	KTT856 	RM	162.2 PL	EHamptonPD 1 	Police Operations 	FM 	Law Dispatch 
+155.49000 	   	KTT856 	M	162.2 PL	EHamptonPD 2 	Police Talk-Around 	FM 	Law Dispatch 
+155.47500 	   	KTT856 	BM	162.2 PL	EHPD/NLEEF 	EHPD/National Law Mutual Aid 	FM 	Law Tac 
+453.06250 	   	WPPD521 	M	151.4 PL	EHFD Link 	Fire/EMS - Baker Hill Tower (link 46.18/46.22) 	FM 	Fire Dispatch 
+453.63750 	   	WNXP462 	M	151.4 PL	EHFD Link 	Fire/EMS - Cobalt Tower (link 46.18/46.22) 	FM 	Fire Dispatch 
+460.03750 	465.03750  	WQHT308 	RM		EHFD/EHEMS 	Fire/EMS - Tactical 	FMN 	Fire-Tac 
+460.53750 	465.53750  	WQHT308 	RM		EHFD CmndPst 	Fire/EMS - Command Post 	FMN 	Fire-Tac 
+458.66250 	   	WQFG841 	BM	114.8 PL	EHFD MobRptr 	Fire Vehicle Repeaters 	FM 	Fire-Tac 
+458.93750 	   	 		210.7 PL	EMS MobRptr 	EMS Vehicle Repeaters 	FM 	Fire-Talk 
+153.93500 	   	KNCS295 	BM	162.2 PL	Civil Def 1 	Civil Defense - Area 3 	FM 	Emergency Ops 
+153.96500 	   	KNCS295 	BM	162.2 PL	Civil Def 4 	Civil Defense - Area 4 (Siren Activation) 	FM 	Emergency Ops 
+150.99500 	   	KCG257 	BM	162.2 PL	Public Works 	Public Works / Fire Police 	FM 	Emergency Ops 
+46.00000 	   	WPPA906 	BM	141.3 PL	Senior Bus 	Senior Center Bus / Fire/EMS Alternate 	FM 	Transportation 
+453.26250 	   	WQHB728 	BM	125 DPL	Essex FG 	Fire/EMS Operations 	FMN 	Fire-Tac 
+45.76000 	   	KNHU683 	BM	141.3 PL	Essex Town 	Town Services 	FM 	Public Works 
+453.97500 	458.97500  	KNHZ596 	RM	141.3 PL	Haddam Fire 	Fire Operations 	FMN 	Fire Dispatch 
+453.97500 	458.97500  	KNHZ596 	RM	031 DPL	Haddam Fire 	Fire Operations 	FMN 	Fire-Tac 
+453.36250 	458.36250  	KEY812 	RM	162.2 PL	Haddam FD 3 	Cross-band to County Low Band 	FMN 	Fire-Tac 
+467.36250 	   	WQBU768 	M		Haddam EMS 1 	EMS 	FMN 	EMS-Tac 
+462.36250 	   	WQBU768 	M	103.5 PL	Haddam EMS 2 	EMS Vehicle Repeaters 	FMN 	EMS-Tac 
+453.10000 	458.10000  	WPQZ400 	RM	431 DPL	Haddam Svcs 	Services 	FMN 	Public Works 
+460.06250 	465.06250  	WPKS538 	RM	023 DPL	Killingworth FD 	Fire Operations 	FMN 	Fire Dispatch 
+453.10000 	458.10000  	WPQZ843 	RM	134 DPL	Killworth Svcs 	Services 	FMN 	Public Works 
+453.25000 	   	WPWH748 	RM	167.9 PL	MiddlefldFD1 	Fire Operations 	FM 	Fire-Tac 
+465.53750 	   	WPXB698 	M	203.5 PL	MiddlefldFD2 	Fire Vehicle Repeaters 	FM 	Fire-Tac 
+155.37000 	158.91000  	KCA662 	RM	114.8 PL	Mtown PD 1 	Police 1 	FM 	Law Dispatch 
+159.45000 	155.01000  	WPLW328 	RM	85.4 PL	Mtown PD 2 	Police 2 	FM 	Law Tac 
+155.67000 	   	WPKB578 	BM	218.1 PL	Mtown PD 3 	Police 3 	FM 	Law Tac 
+155.53500 	   	WPKR461 	BM	71.9 PL	Mtown PD 4 	Police 4 	FM 	Law Tac 
+46.14000 	   	KLY251 	BM	141.3 PL	Mtown Fire 	Fire Operations 	FM 	Fire-Tac 
+155.08500 	156.10500  	WPWS596 	RM	91.5 PL	MtownCityFD1 	City Fire District 	FM 	Fire-Tac 
+160.03500 	   	WQBT695 	M	162.2 PL	MtownCityFD2 	City Fire Vehicle Repeaters 	FM 	Fire-Tac 
+151.32500 	153.57500  	KLY251 	RM	79.7 PL	SouthFire1 	South Fire District 	FM 	Fire-Tac 
+160.00500 	   	WQBT695 	M	162.2 PL	SouthFire2 	South Fire Vehicle Repeaters 	FM 	Fire-Tac 
+160.12500 	   	WQAS200 	BM	71.9 PL	WestfieldFD1 	Westfield Fire Dispatch (repeats 46.18 MHz)  	FM 	Fire Dispatch 
+159.27000 	150.79000  	KNAB668 	RM	71.9 PL	WestfieldFD2 	Fire Operations (repeats 46.32 MHz)  	FM 	Fire-Tac 
+46.32000 	   	KNAB668 	BM	141.3 PL	WestfieldFD3 	Westfield Fire Operations (repeats 159.27 MHz)  	FM 	Fire-Tac 
+153.86000 	   	KNAB668 	BM	CSQ	WestfieldFD4 	Westfield Fireground 251 DPL/Repeater 74.4 PL 	FM 	Fire-Tac 
+170.15000 	   	KNAB668 	BM	74.4 PL	WestfieldFD5 	Westfield Vehicle Repeater 	FM 	Fire-Tac 
+154.92000 	   	 	M	74.4 PL	WestfieldFD6 	Westfield Fire Police 	FM 	Fire-Tac 
+152.88500 	159.51000  	WQAX360 	RM	431 DPL	Mtown School 	Board of Education 	FM 	Schools 
+155.83500 	154.81500  	KJH385 	RM	206.5 PL	Mtown EMA 	Emergency Management/Alarms Division 	FM 	Emergency Ops 
+157.50000 	   	 	M	162.2 PL	Mtown Common 	Townwide Common 	FM 	Multi-Tac 
+159.13500 	155.82000  	KNCX729 	RM	203.5 PL	Mtown DPW 	Public Works 	FM 	Public Works 
+453.73750 	   	WQAP741 	RM	91.5 PL	OldSybrk PD1 	Police/EMS 	FMN 	Multi-Dispatch 
+460.41250 	465.41250  	WQAP741 	RM	88.5 PL	OldSaybrookMulti 	Fire Tones and Public Works 	FMN 	Multi-Dispatch 
+453.23750 	   	WQAL766 	RM	97.4 PL	OldSybrkFD 1 	Fire Operations 	FMN 	Fire-Tac 
+465.23750 	   	WQAL766 	M	179.9 PL	OldSybrkFD 2 	Fireground 2 	FMN 	Fire-Tac 
+460.23750 	   	WQAP741 	B	179.9 PL	OldSaybrook PD2 	Police Tac 2 	FMN 	Law Tac 
+460.32500 	   	WNMG300 	BM	118.8 PL	OldSybrk EMA 	Emergency Management 	FMN 	Emergency Ops 
+155.53500 	   	WPKR461 	BM	71.9 PL	Portland PD 	Police Operations 	FM 	Law Dispatch 
+154.04750 	155.78250  	WQBS617 	RM	431 DPL	Portland FD1 	Fire Operations 	FM 	Fire Dispatch 
+158.77500 	   	WPKV568 	M	141.3 PL	Portland FD2 	Fireground 	FM 	Fire-Tac 
+158.94000 	   	WPKV568 	M	141.3 PL	Portland FD3 	Fireground 	FM 	Fire-Tac 
+154.08500 	   	WPKV568 	M	141.3 PL	Portland FD4 	Fire Vehicle Repeaters 	FM 	Fire-Tac 
+46.24000 	   	KCG960 	BM	141.3 PL	Portland FD4 	Fire Police 	FM 	Fire-Tac 
+45.08000 	   	WQCM778 	BM	118.8 PL	Portland DPW 	Public Works 	FM 	Public Works 
+453.81250 	   	WQFG841 	M	023 DPL	WestbrookFD1 	Fire/EMS Operations 	FMN 	Fire Dispatch 
+453.90000 	   	WQFG841 	BM	023 DPL	WestbrookFD2 	Fireground 2 	FMN 	Fire-Tac 
+458.60000 	   	WQFG841 	BM	023 DPL	WestbrookFD3 	Fireground 3 	FMN 	Fire-Tac 
+154.14500 	   	KCF824 	BM	162.2 PL	WesbrookEMA 	Emergency Management 	FMN 	Emergency Ops 
+155.23500 	   	KCF824 	BM	162.2 PL	WestbrookTwn 	Town Services 	FMN 	Law Talk 
+159.75000 	   	KCF824 	BM	118.8 PL	WestbrookDPW 	Public Works 	FMN 	Public Works 
+155.92500 	158.82000  	KUG599 	RM		CTS Security 	Security 	FM 	Security 
+154.54000 	   	 		110.9 PL	CTS Ops 	Connecticut Juvenile Training School 	FM 	Schools 
+45.42000 	   	WQBL821 	BM	123.0 PL	CHV Police 	Police 	FM 	Law Dispatch 
+46.40000 	   	KUQ791 	BM	173.8 PL	CHV Fire 1 	Fire Operations 	FM 	Fire-Tac 
+154.20500 	   	KUQ791 	M		CVH Fire 2 	Fireground 	FM 	Fire-Tac 
+154.01000 	   	KUQ791 	M		CVH Fire 3 	Fire Vehicle Repeaters 	FM 	Fire-Tac 
+46.54000 	   	KJR218 	BM	141.3 PL	CVH Fire 4 	Fire and Police (South Fire District responds to all fire calls) 	FM 	Fire-Tac 
+153.38000 	   	KJA372 	BM	107.2 PL	P&W Fire/EMS 	Fire/EMS Dispatch/Operations 	FM 	Fire Dispatch 
+461.70000 	466.70000  	KNBX324 	RM	131.8 PL	Wesleyan Sec 	Security 	FM 	Security 
+Cromwell	 LTR Standard	 Cromwell	Marcus Communications - Statewide	 LTR Standard and Passport	 Various	Middletown	 Project 25 Phase II	 Middletown
+OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	

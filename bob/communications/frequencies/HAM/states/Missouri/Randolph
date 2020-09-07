@@ -1,25 +1,24 @@
-155.52000 	WQIU947 	RM		Rand Sheriff 	Sheriff: Dispatch (Huntsville) 	FMN 	Law Dispatch 
-155.10000 	KNFJ257 	RM		Rand FireEMS 	Fire/EMS: Dispatch  	FMN 	Fire Dispatch 
-453.37500 	WNJZ829 	RM		Rand Highwy1 	Highway Department 	FMN 	Public Works 
-151.08500 	 	M		Rand Highwy2 	Highway Department 	FMN 	Public Works 
-155.10000 	KNFJ257 	RM	103.5 PL	Rand FireEMS 	EMS: Dispatch 	FMN 	Fire Dispatch 
-155.22000 	KVT844 	BM		Randolph EMS 	EMS/Fire: Dispatch/Paging 	FMN 	EMS Dispatch 
-160.19250 	WPXH888 	BM		MRMC PhysPt1 	Physical Plant: Engineering/Housekeeping  	FMN 	Business 
-461.25000 	WPXH888 	RM		MRMC PhysPt2 	Physical Plant: Engineering/Housekeeping 	FMN 	Business 
-155.22000 	WZJ441 	BM		MRMC EMS 	EMS 	FMN 	EMS Dispatch 
-155.34000 	WZJ441 	BM		HEAR-340 	Patient Reports 	FMN 	Hospital 
-155.01000 	KNEN252 	BM	162.2 PL	Higbee Police 	Police [Expired 12/02] 	FMN 	Law Dispatch 
-155.83500 	KZO428 	BM		Hntsvl City 	City Ops 	FMN 	Multi-Dispatch 
-154.80000 	KAB416 	BM		Moberly Police 1 	Police: Dispatch 	FMN 	Law Dispatch 
-158.79000 	WPFJ644 	BM		Moberly Police 2 	Police 	FMN 	Law Tac 
-154.17500 	KNFP521 	BM		Moberly Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.89000 	WPQE229 	M		Moberly City Ops 	City Activities (Sanitary/Public Works?) 	FMN 	Public Works 
-158.76000 	WQM676 	BM		Moberly Roads 	Special Road District 	FMN 	Public Works 
-458.50000 	WPQE229 	M		Moberly WDD 	Water Data 	Telm 	Data 
-154.98000 	KDA715 	BM		Omar Airport 	Omar N Bradley Airport (KMBY/MBY) 	FMN 	Public Works 
-453.65000 	WPES853 	RM		Moberly HsAuth 	Moberly Housing Authority 	FMN 	Public Works 
-156.00000 	KD22031 	M		THPWSD1 Ops 	Ops (mobile only) 	FMN 	Public Works 
-458.93750 	KD22031 	F		THPWSD1 WDD 	Water Distribution Data 	Telm 	Data 
-155.20500 	WNCT838 	BM		Rnck Schools 	Buses 	FMN 	Schools 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	WirelessUSA (Columbia) 	 Motorola Type II Smartnet
- Columbia	
+155.52000 	154.65000  	WQIU947 	RM		Rand Sheriff 	Sheriff: Dispatch (Huntsville) 	FMN 	Law Dispatch 
+155.10000 	158.88000  	KNFJ257 	RM		Rand FireEMS 	Fire/EMS: Dispatch  	FMN 	Fire Dispatch 
+453.37500 	458.37500  	WNJZ829 	RM		Rand Highwy1 	Highway Department 	FMN 	Public Works 
+151.08500 	   	 	M		Rand Highwy2 	Highway Department 	FMN 	Public Works 
+155.10000 	158.88000  	KNFJ257 	RM	103.5 PL	Rand FireEMS 	EMS: Dispatch 	FMN 	Fire Dispatch 
+155.22000 	   	KVT844 	BM		Randolph EMS 	EMS/Fire: Dispatch/Paging 	FMN 	EMS Dispatch 
+160.19250 	   	WPXH888 	BM		MRMC PhysPt1 	Physical Plant: Engineering/Housekeeping  	FMN 	Business 
+461.25000 	466.25000  	WPXH888 	RM		MRMC PhysPt2 	Physical Plant: Engineering/Housekeeping 	FMN 	Business 
+155.22000 	   	WZJ441 	BM		MRMC EMS 	EMS 	FMN 	EMS Dispatch 
+155.34000 	   	WZJ441 	BM		HEAR-340 	Patient Reports 	FMN 	Hospital 
+155.01000 	   	KNEN252 	BM	162.2 PL	Higbee Police 	Police [Expired 12/02] 	FMN 	Law Dispatch 
+155.83500 	   	KZO428 	BM		Hntsvl City 	City Ops 	FMN 	Multi-Dispatch 
+154.80000 	   	KAB416 	BM		Moberly Police 1 	Police: Dispatch 	FMN 	Law Dispatch 
+158.79000 	   	WPFJ644 	BM		Moberly Police 2 	Police 	FMN 	Law Tac 
+154.17500 	   	KNFP521 	BM		Moberly Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.89000 	   	WPQE229 	M		Moberly City Ops 	City Activities (Sanitary/Public Works?) 	FMN 	Public Works 
+158.76000 	   	WQM676 	BM		Moberly Roads 	Special Road District 	FMN 	Public Works 
+458.50000 	   	WPQE229 	M		Moberly WDD 	Water Data 	Telm 	Data 
+154.98000 	   	KDA715 	BM		Omar Airport 	Omar N Bradley Airport (KMBY/MBY) 	FMN 	Public Works 
+453.65000 	458.65000  	WPES853 	RM		Moberly HsAuth 	Moberly Housing Authority 	FMN 	Public Works 
+156.00000 	   	KD22031 	M		THPWSD1 Ops 	Ops (mobile only) 	FMN 	Public Works 
+458.93750 	   	KD22031 	F		THPWSD1 WDD 	Water Distribution Data 	Telm 	Data 
+155.20500 	   	WNCT838 	BM		Rnck Schools 	Buses 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	WirelessUSA (Columbia) 	 Motorola Type II Smartnet	 Columbia

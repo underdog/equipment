@@ -1,37 +1,37 @@
-39.50000 	KYB947 	BM	110.9 PL	Wise FD Disp 	Fire Dispatch (Simulcast from 151.22 MHz) 	FM 	Fire Dispatch 
-151.22000 	WPQA874 	RM	110.9 PL	Wise FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
-155.17500 	KNFF509 	BM	229.1 PL	Wise EMS Dsp 	EMS Dispatch 	FM 	EMS Dispatch 
-155.26500 	WQEN978 	RM		Wise EMS 1 	EMS 1 	FM 	EMS-Tac 
-151.67000 	WQTC965 	RM	44 RAN	Wise LE Agencies 	County Law Enforcement Agencies 	NXDN 	Law Dispatch 
-151.86500 	WQXR325 	RM	44 RAN	Wise LE Secondry 	County Law Enforcement Secondary 	NXDN 	Law Tac 
-155.56500 	WPDP739 	RM	136.5 PL	Wise SO Pri 	Sheriff Primary 	FM 	Law Dispatch 
-156.06000 	 	RM		Wise SO Sec 	Sheriff Secondary/Surveillance 	FM 	Law Tac 
-156.03000 	 	RM	229.1 PL	Wise SO Tac 	Sheriff Tactical (Countywide) 	FM 	Law Tac 
-460.10000 	WPKZ372 	BM	203.5 PL	Wise Sch Bus 	School Buses 	FM 	Schools 
-171.08750 	 	RM	173.8 PL	Wise IFLOWS 	IFLOWS 	FM 	Data 
-156.21750 	WQZJ858 	RM		Wise SO 	Sheriff 	FMN 	Law Tac 
-155.68500 	WPSA277 	RM	743 DPL	AppalachiaPD 	Police 	FMN 	Law Dispatch 
-154.21250 	 	RM		AppalachiaFD 	Appalachia Fire Dept 	FMN 	Fire Dispatch 
-153.89000 	WPXP549 	RM		BSG Fire 	Fire 	FM 	Fire-Talk 
-154.43000 	WPXP549 	BM		GSG Fire 	Fire 	FM 	Fire Dispatch 
-153.51500 	WSH418 	BM		GSG Fire/PW 	Fire / Public Works 	FM 	Public Works 
-154.95000 	KIH889 	M		BSG PD/FD 	Fire / Police 	FM 	Multi-Dispatch 
-159.03000 	KIH889 	M		BSG PD/FD 	Fire / Police 	FM 	Law Dispatch 
-155.65500 	KIH889 	RM	71.9 PL	BSG Police 	Police (voice inversion) 	FMN 	Law Tac 
-155.12500 	 	BM		Coeburn PD 	Police 	FM 	Law Talk 
-155.71500 	WPEY674 	BM		Coebrn PD/PW 	Police / Public Works 	FM 	Public Works 
-155.28000 	KYL844 	BM		EMS-to-Hosp 	EMS-to-Hospital (Lonesome Pine Hospital) 	FM 	EMS-Talk 
-155.38500 	KYL844 	BM		EMS-Hosp 2 	EMS-to-Hospital (Lonesome Pine Hospital) - 2 	FM 	EMS-Tac 
-159.81000 	WPTC602 	RM		Pound  Fire  	Fire 	FM 	Fire-Tac 
-155.52000 	WPSD759 	RM	210.7 PL	Pound Fire/EMS 	Fire/EMS 	FM 	Fire Dispatch 
-154.98000 	WPQF339 	RM	151.4 PL	Saint PaulPD 	Police 	FM 	Law Tac 
-156.03000 	 	M	CSQ	PD C2C 	Police Car-to-Car 	FM 	Law Tac 
-154.26500 	WNMT502 	BM		Wise City FD 	Fire 	FM 	Fire Dispatch 
-154.23500 	WNMT502 	M		Wise City FD 	Fire 	FM 	Fire-Talk 
-158.76000 	WPKC504 	RM	136.5 PL	Wise City PD 	Police 	FM 	Law Tac 
-154.77000 	 	RM		Wise City PD 	Police 	FM 	Law Dispatch 
-156.13000 	 	BM	67.0 PL	WiseCityPD16 	Police Tactical 	FM 	Law Tac 
-464.60000 	 	RM	156.7 PL	UVA Wise PD 	Police 	FM 	Law Dispatch 
-170.27500 	 	BM	186.2 PL	NatonalGuard 	National Guard 	FM 	Military 
-170.30000 	 	BM	186.2 PL	NatonalGuard 	National Guard 	FM 	Military 
+39.50000 	   	KYB947 	BM	110.9 PL	Wise FD Disp 	Fire Dispatch (Simulcast from 151.22 MHz) 	FM 	Fire Dispatch 
+151.22000 	156.00000  	WPQA874 	RM	110.9 PL	Wise FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+155.17500 	   	KNFF509 	BM	229.1 PL	Wise EMS Dsp 	EMS Dispatch 	FM 	EMS Dispatch 
+155.26500 	   	WQEN978 	RM		Wise EMS 1 	EMS 1 	FM 	EMS-Tac 
+151.67000 	   	WQTC965 	RM	44 RAN	Wise LE Agencies 	County Law Enforcement Agencies 	NXDN 	Law Dispatch 
+151.86500 	   	WQXR325 	RM	44 RAN	Wise LE Secondry 	County Law Enforcement Secondary 	NXDN 	Law Tac 
+155.56500 	154.89000  	WPDP739 	RM	136.5 PL	Wise SO Pri 	Sheriff Primary 	FM 	Law Dispatch 
+156.06000 	   	 	RM		Wise SO Sec 	Sheriff Secondary/Surveillance 	FM 	Law Tac 
+156.03000 	   	 	RM	229.1 PL	Wise SO Tac 	Sheriff Tactical (Countywide) 	FM 	Law Tac 
+460.10000 	465.10000  	WPKZ372 	BM	203.5 PL	Wise Sch Bus 	School Buses 	FM 	Schools 
+171.08750 	170.22500  	 	RM	173.8 PL	Wise IFLOWS 	IFLOWS 	FM 	Data 
+156.21750 	154.72500  	WQZJ858 	RM		Wise SO 	Sheriff 	FMN 	Law Tac 
+155.68500 	153.74000  	WPSA277 	RM	743 DPL	AppalachiaPD 	Police 	FMN 	Law Dispatch 
+154.21250 	159.18750  	 	RM		AppalachiaFD 	Appalachia Fire Dept 	FMN 	Fire Dispatch 
+153.89000 	   	WPXP549 	RM		BSG Fire 	Fire 	FM 	Fire-Talk 
+154.43000 	   	WPXP549 	BM		GSG Fire 	Fire 	FM 	Fire Dispatch 
+153.51500 	   	WSH418 	BM		GSG Fire/PW 	Fire / Public Works 	FM 	Public Works 
+154.95000 	   	KIH889 	M		BSG PD/FD 	Fire / Police 	FM 	Multi-Dispatch 
+159.03000 	   	KIH889 	M		BSG PD/FD 	Fire / Police 	FM 	Law Dispatch 
+155.65500 	156.09000  	KIH889 	RM	71.9 PL	BSG Police 	Police (voice inversion) 	FMN 	Law Tac 
+155.12500 	   	 	BM		Coeburn PD 	Police 	FM 	Law Talk 
+155.71500 	   	WPEY674 	BM		Coebrn PD/PW 	Police / Public Works 	FM 	Public Works 
+155.28000 	   	KYL844 	BM		EMS-to-Hosp 	EMS-to-Hospital (Lonesome Pine Hospital) 	FM 	EMS-Talk 
+155.38500 	   	KYL844 	BM		EMS-Hosp 2 	EMS-to-Hospital (Lonesome Pine Hospital) - 2 	FM 	EMS-Tac 
+159.81000 	155.07000  	WPTC602 	RM		Pound  Fire  	Fire 	FM 	Fire-Tac 
+155.52000 	153.92000  	WPSD759 	RM	210.7 PL	Pound Fire/EMS 	Fire/EMS 	FM 	Fire Dispatch 
+154.98000 	158.88000  	WPQF339 	RM	151.4 PL	Saint PaulPD 	Police 	FM 	Law Tac 
+156.03000 	   	 	M	CSQ	PD C2C 	Police Car-to-Car 	FM 	Law Tac 
+154.26500 	   	WNMT502 	BM		Wise City FD 	Fire 	FM 	Fire Dispatch 
+154.23500 	   	WNMT502 	M		Wise City FD 	Fire 	FM 	Fire-Talk 
+158.76000 	153.96500  	WPKC504 	RM	136.5 PL	Wise City PD 	Police 	FM 	Law Tac 
+154.77000 	   	 	RM		Wise City PD 	Police 	FM 	Law Dispatch 
+156.13000 	   	 	BM	67.0 PL	WiseCityPD16 	Police Tactical 	FM 	Law Tac 
+464.60000 	   	 	RM	156.7 PL	UVA Wise PD 	Police 	FM 	Law Dispatch 
+170.27500 	   	 	BM	186.2 PL	NatonalGuard 	National Guard 	FM 	Military 
+170.30000 	   	 	BM	186.2 PL	NatonalGuard 	National Guard 	FM 	Military 
 American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	

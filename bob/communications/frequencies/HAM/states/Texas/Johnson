@@ -1,30 +1,30 @@
-158.74500 	WQAS208 	BM	136.5 PL	JCSO WEST 	Sheriff CH 1 Dispatch West  (patched with 155.6625) 	FM 	Law Dispatch 
-155.66250 	WQAS208 	RM	423 DPL	JCSO EAST 	Sheriff Dispatch East (patched with 158.7450) 	FMN 	Law Dispatch 
-158.74500 	WQAS208 	BM		JCSO TALK 	Sheriff CH 2 Talkaround 	FM 	Law Tac 
-155.71500 	WNJY395 	BM		JCSO COURT 	Johnson Co Courthouse 	FM 	Law Tac 
-453.95000 	WQCR400 	RM	CC 4TG 101SL 1	JCSO Jail Ops 	Jail Operations 	DMR 	Corrections 
-453.95000 	WQCR400 	RM	CC 4TG 102SL 2	JCSO Jail Maint 	Jail Maintenance 	DMR 	Public Works 
-154.14500 	WQJH550 	RM	026 DPL	JC FireAlarm 	Johnson Co. Fire Alarm 	FMN 	Fire Dispatch 
-154.42250 	WQJH550 	RM	172 DPL	JC Fire Ops 	Johnson Co. Fire Main Operations 	FMN 	Fire Dispatch 
-155.29500 	WQJI225 	RM	116 DPL	JC Fire East 	Johnson Co. Fire East Operations 	FM 	Fire Dispatch 
-155.41500 	 	RM	411 DPL	JC Fire N 	Johnson Co Fire North Operations 	FM 	Fire Dispatch 
-462.17500 	WPOX387 	RM	123.0 PL	Careflt CdrH 	Careflite Ground - Cedar Hill Tower 	FM 	EMS Dispatch 
-154.09250 	WQJI225 	RM	051 DPL	Alva FD TAC 	Alvarado Fire Tactical 	FMN 	Fire-Tac 
-153.89000 	KQG446 	RM	173.8 PL	Alvarado VFD 	Alvarado Fire Operations 	FM 	Fire-Tac 
-453.10000 	WPSI332 	BM	100.0 PL	Burleson PD 	Burleson Police Dispatch (Now on Burleson TRS) 	FM 	Law Dispatch 
-453.50000 	KRX370 	RM	100.0 PL	Burleson FD 	Burleson Fire Dispatch (Now on Burleson TRS) 	FM 	Fire Dispatch 
-453.27500 	KRX370 	RM	100.0 PL	Burles FD/PD 	Burleson Fire/Police Talkaround (Now on Burleson TRS) 	FM 	Multi-Talk 
-155.01000 	KYQ513 	RM	136.5 PL	Cleburne PD1 	Cleburne Police Dispatch 	FM 	Law Dispatch 
-155.14500 	WQJI225 	RM	67.0 PL	Cleburne FD 	Cleburne Fire Dispatch 	FM 	Fire Dispatch 
-155.74500 	KUU545 	RM	203.5 PL	Cleburne PW 	Cleburne Public Works 	FM 	Public Works 
-152.93000 	WQOD688 	RM		Cleburne Bus 	City County Transportation (NEW) 	FM 	Transportation 
-158.19000 	KNHG733 	RM	136.5 PL	Cleburne PW2 	City County Transportation OLD (public bus service) 	FM 	Transportation 
-155.65500 	WNYJ380 	BM	136.5 PL	Joshua Fire 	Joshua Fire 	FM 	Fire-Tac 
-155.96250 	KNIN966 	RM	546 DPL	Keene PD 1 	Keene Police Dispatch 	FMN 	Law Dispatch 
-154.05500 	KNIN966 	BM	136.5 PL	Keene PD 2 	Keene Police Back Channel 	FMN 	Law Tac 
-158.94000 	WNZR489 	RM	71.9 PL	Keene Fire 	Keene Fire Dispatch 	FM 	Fire Dispatch 
-155.64000 	WNDM759 	BM	162.2 PL	Rio Vista PD 	Rio Vista PD Talkaround 	FM 	Law Talk 
-155.10000 	WNQM851 	RM	103.5 PL	Venus PubWks 	Venus Utilities 	FM 	Public Works 
-Azle Communications (Cleburne)	 LTR Standard	 Cleburne	CSSI (Cleburne)	 LTR Standard	 Cleburne	Fort Worth Regional Radio System	 Project 25 Phase II
- Tarrant, Johnson Counties	Netwave Communications (Godley)	 LTR Standard	 Godley	Oncor Energy	 EDACS Narrowband Networked	 Various	Self Radio (Crowley)
- LTR Standard	 Crowley	Self Radio Nexedge	 NXDN NEXEDGE 4800	 Fort Worth	
+158.74500 	153.92000  	WQAS208 	BM	136.5 PL	JCSO WEST 	Sheriff CH 1 Dispatch West  (patched with 155.6625) 	FM 	Law Dispatch 
+155.66250 	158.81250  	WQAS208 	RM	423 DPL	JCSO EAST 	Sheriff Dispatch East (patched with 158.7450) 	FMN 	Law Dispatch 
+158.74500 	   	WQAS208 	BM		JCSO TALK 	Sheriff CH 2 Talkaround 	FM 	Law Tac 
+155.71500 	   	WNJY395 	BM		JCSO COURT 	Johnson Co Courthouse 	FM 	Law Tac 
+453.95000 	458.95000  	WQCR400 	RM	CC 4TG 101SL 1	JCSO Jail Ops 	Jail Operations 	DMR 	Corrections 
+453.95000 	458.95000  	WQCR400 	RM	CC 4TG 102SL 2	JCSO Jail Maint 	Jail Maintenance 	DMR 	Public Works 
+154.14500 	159.19500  	WQJH550 	RM	026 DPL	JC FireAlarm 	Johnson Co. Fire Alarm 	FMN 	Fire Dispatch 
+154.42250 	159.14250  	WQJH550 	RM	172 DPL	JC Fire Ops 	Johnson Co. Fire Main Operations 	FMN 	Fire Dispatch 
+155.29500 	158.84250  	WQJI225 	RM	116 DPL	JC Fire East 	Johnson Co. Fire East Operations 	FM 	Fire Dispatch 
+155.41500 	   	 	RM	411 DPL	JC Fire N 	Johnson Co Fire North Operations 	FM 	Fire Dispatch 
+462.17500 	467.17500  	WPOX387 	RM	123.0 PL	Careflt CdrH 	Careflite Ground - Cedar Hill Tower 	FM 	EMS Dispatch 
+154.09250 	158.84250  	WQJI225 	RM	051 DPL	Alva FD TAC 	Alvarado Fire Tactical 	FMN 	Fire-Tac 
+153.89000 	154.44500  	KQG446 	RM	173.8 PL	Alvarado VFD 	Alvarado Fire Operations 	FM 	Fire-Tac 
+453.10000 	458.10000  	WPSI332 	BM	100.0 PL	Burleson PD 	Burleson Police Dispatch (Now on Burleson TRS) 	FM 	Law Dispatch 
+453.50000 	458.50000  	KRX370 	RM	100.0 PL	Burleson FD 	Burleson Fire Dispatch (Now on Burleson TRS) 	FM 	Fire Dispatch 
+453.27500 	458.27500  	KRX370 	RM	100.0 PL	Burles FD/PD 	Burleson Fire/Police Talkaround (Now on Burleson TRS) 	FM 	Multi-Talk 
+155.01000 	151.14500  	KYQ513 	RM	136.5 PL	Cleburne PD1 	Cleburne Police Dispatch 	FM 	Law Dispatch 
+155.14500 	150.79000  	WQJI225 	RM	67.0 PL	Cleburne FD 	Cleburne Fire Dispatch 	FM 	Fire Dispatch 
+155.74500 	158.86500  	KUU545 	RM	203.5 PL	Cleburne PW 	Cleburne Public Works 	FM 	Public Works 
+152.93000 	159.51000  	WQOD688 	RM		Cleburne Bus 	City County Transportation (NEW) 	FM 	Transportation 
+158.19000 	153.66500  	KNHG733 	RM	136.5 PL	Cleburne PW2 	City County Transportation OLD (public bus service) 	FM 	Transportation 
+155.65500 	   	WNYJ380 	BM	136.5 PL	Joshua Fire 	Joshua Fire 	FM 	Fire-Tac 
+155.96250 	154.85250  	KNIN966 	RM	546 DPL	Keene PD 1 	Keene Police Dispatch 	FMN 	Law Dispatch 
+154.05500 	   	KNIN966 	BM	136.5 PL	Keene PD 2 	Keene Police Back Channel 	FMN 	Law Tac 
+158.94000 	153.98000  	WNZR489 	RM	71.9 PL	Keene Fire 	Keene Fire Dispatch 	FM 	Fire Dispatch 
+155.64000 	   	WNDM759 	BM	162.2 PL	Rio Vista PD 	Rio Vista PD Talkaround 	FM 	Law Talk 
+155.10000 	158.89500  	WNQM851 	RM	103.5 PL	Venus PubWks 	Venus Utilities 	FM 	Public Works 
+Azle Communications (Cleburne)	 LTR Standard	 Cleburne	Azle Communications (Tier 3)	 DMR Tier 3	 Various	BrandMeister Texas	 DMR Conventional Networked	 Various
+CSSI (Cleburne)	 LTR Standard	 Cleburne	Netwave Communications (Godley)	 LTR Standard	 Godley	Oncor Energy	 EDACS Narrowband Networked	 Various
+Self Radio (Crowley)	 LTR Standard	 Crowley	Self Radio Nexedge	 NXDN NEXEDGE 4800	 Fort Worth	

@@ -1,29 +1,29 @@
-155.59500 	KNBH392 	BM	162.2 PL	Harr SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.80000 	KNBH392 	RM		Harr SO 2 	Sheriff Secondary 	FMN 	Law Tac 
-156.19500 	WPNZ974 	BM		Harr DA 	District Attorney 	FMN 	Law Tac 
-154.34000 	KNGS982 	RM	156.7 PL	Harr CF Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-151.04000 	WPAM420 	RM		Harr ESD2 	Fire District 2 Dispatch 	FMN 	Fire Dispatch 
-151.08500 	WNNS991 	RM	146.2 PL	Harr Roads 	Road and Bridge Department 	FMN 	Public Works 
-155.70000 	KUQ559 	RM	203 NAC	Marshall PD Disp 	Police Dispatch (multicast with TRBO trunked system) 	P25 	Law Dispatch 
-154.11500 	WXT749 	RM	141.3 PL	Mar FD Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-155.08500 	WPPH752 	RM		Mar FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-460.17500 	WNRX772 	RM		Mar PW 1 	Public Works 1 	FMN 	Public Works 
-460.42500 	WNRX772 	RM		Mar PW 2 	Public Works 2 	FMN 	Public Works 
-153.87500 	KMA306 	RM		Halls FD/EMS 	Fire/EMS Dispatch 	P25 	Fire Dispatch 
-155.38500 	WPVA459 	RM		Wask FD/PD 	Fire/EMS Dispatch, Police Use Also 	FMN 	Multi-Dispatch 
-154.37000 	KFF623 	RM		Wask FD Rptr 	Fire/EMS Repeater 	FMN 	Fire-Tac 
-154.20500 	WQCJ937 	RM		W Harr VFD 	Fire Dispatch 	P25 	Fire Dispatch 
-154.17500 	KNGQ600 	BM		Woodlawn FD 	Fire Tactical 	FMN 	Fire-Tac 
-152.41250 	WQGK634 	RM	136.5 PL	EF ISD Maint 	Maintenance 	FMN 	Schools 
-155.92500 	WQCG471 	RM		EF ISD Buses 	Buses Dispatch 	FMN 	Schools 
-152.36000 	WRE995 	BM	734 DPL	Hall ISD Mnt 	Maintenance 	FMN 	Schools 
-152.42000 	WNGZ289 	BM		Hall HS 	High School 	FMN 	Schools 
-159.72000 	WPMR997 	BM		Hall ISD Bus 	Buses 	FMN 	Schools 
-151.38500 	WPKE367 	BM		Harl ISD Bus 	Buses 	FMN 	Schools 
-151.80500 	WNRX440 	BM		Mar ISD Ops 	Operations 	FMN 	Schools 
-154.51500 	WNLN487 	BM		Mar ISD Bus 	Buses 	FMN 	Schools 
-154.54000 	WNRX440 	BM		Mar ISD Ops 	Operations 	FMN 	Schools 
-151.56500 	WPWU442 	RM	245 DPL	Wask ISD Mnt 	Maintenance, Admin 	FMN 	Schools 
-153.02000 	WPWU442 	RM		Wask ISD Bus 	Buses 	FMN 	Schools 
-American Electric Power (AR/LA/TX)	 EDACS Networked Standard	 Various	DFW Communications (Marshall)	 LTR Standard	 Marshall	Marshall	 DMR Motorola Connect Plus (TRBO)
- Marshall	
+155.59500 	154.71000  	KNBH392 	BM	162.2 PL	Harr SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.80000 	158.97000  	KNBH392 	RM		Harr SO 2 	Sheriff Secondary 	FMN 	Law Tac 
+156.19500 	   	WPNZ974 	BM		Harr DA 	District Attorney 	FMN 	Law Tac 
+154.34000 	153.77000  	KNGS982 	RM	156.7 PL	Harr CF Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+151.04000 	158.92500  	WPAM420 	RM		Harr ESD2 	Fire District 2 Dispatch 	FMN 	Fire Dispatch 
+151.08500 	155.14500  	WNNS991 	RM	146.2 PL	Harr Roads 	Road and Bridge Department 	FMN 	Public Works 
+155.70000 	154.71000  	KUQ559 	RM	203 NAC	Marshall PD Disp 	Police Dispatch (multicast with TRBO trunked system) 	P25 	Law Dispatch 
+154.11500 	153.74000  	WXT749 	RM	141.3 PL	Mar FD Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.08500 	153.90500  	WPPH752 	RM		Mar FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+460.17500 	465.17500  	WNRX772 	RM		Mar PW 1 	Public Works 1 	FMN 	Public Works 
+460.42500 	465.42500  	WNRX772 	RM		Mar PW 2 	Public Works 2 	FMN 	Public Works 
+153.87500 	155.95500  	KMA306 	RM		Halls FD/EMS 	Fire/EMS Dispatch 	P25 	Fire Dispatch 
+155.38500 	150.77500  	WPVA459 	RM		Wask FD/PD 	Fire/EMS Dispatch, Police Use Also 	FMN 	Multi-Dispatch 
+154.37000 	153.98000  	KFF623 	RM		Wask FD Rptr 	Fire/EMS Repeater 	FMN 	Fire-Tac 
+154.20500 	155.29500  	WQCJ937 	RM		W Harr VFD 	Fire Dispatch 	P25 	Fire Dispatch 
+154.17500 	   	KNGQ600 	BM		Woodlawn FD 	Fire Tactical 	FMN 	Fire-Tac 
+152.41250 	157.67250  	WQGK634 	RM	136.5 PL	EF ISD Maint 	Maintenance 	FMN 	Schools 
+155.92500 	153.79250  	WQCG471 	RM		EF ISD Buses 	Buses Dispatch 	FMN 	Schools 
+152.36000 	   	WRE995 	BM	734 DPL	Hall ISD Mnt 	Maintenance 	FMN 	Schools 
+152.42000 	   	WNGZ289 	BM		Hall HS 	High School 	FMN 	Schools 
+159.72000 	   	WPMR997 	BM		Hall ISD Bus 	Buses 	FMN 	Schools 
+151.38500 	   	WPKE367 	BM		Harl ISD Bus 	Buses 	FMN 	Schools 
+151.80500 	   	WNRX440 	BM		Mar ISD Ops 	Operations 	FMN 	Schools 
+154.51500 	   	WNLN487 	BM		Mar ISD Bus 	Buses 	FMN 	Schools 
+154.54000 	   	WNRX440 	BM		Mar ISD Ops 	Operations 	FMN 	Schools 
+151.56500 	158.34000  	WPWU442 	RM	245 DPL	Wask ISD Mnt 	Maintenance, Admin 	FMN 	Schools 
+153.02000 	160.11000  	WPWU442 	RM		Wask ISD Bus 	Buses 	FMN 	Schools 
+American Electric Power (AR/LA/TX)	 EDACS Networked Standard	 Various	BrandMeister Texas	 DMR Conventional Networked	 Various	DFW Communications (Marshall)	 LTR Standard	 Marshall
+Marshall	 DMR Motorola Connect Plus (TRBO)	 Marshall	

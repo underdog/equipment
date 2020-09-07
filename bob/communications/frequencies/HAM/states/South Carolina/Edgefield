@@ -1,16 +1,16 @@
-154.41500 	WNRO386 	RM	127.3 PL	EC FD Disp 	FD Dispatch 	FMN 	Fire Dispatch 
-154.07000 	 	M		EC FD Firegnd 	Fireground 	FMN 	Fire-Tac 
-169.05000 	 	M	162.2 PL	EC FD MTAC3 	Fire Tac "MTAC 3" 	FMN 	Fire-Tac 
-150.93500 	WQAV303 	RM	114.8 PL	EC EMS Disp 	EMS Dispatch 	FM 	EMS Dispatch 
-155.16000 	KWT677 	BM		EC EMS 	EMS 	FM 	EMS-Tac 
-155.26500 	KFE209 	BM	141.3 PL	EC EMS 	EMS 	FM 	EMS-Tac 
-155.28000 	KUG666 	BM		EC EMS 	EMS 	FM 	EMS-Tac 
-155.34000 	KUG666 	BM	141.3 PL	EC EMS Hosp 	EMS to Self Memorial Hospital 	FM 	Hospital 
-155.34000 	 	BM	151.4 PL	EC EMS AirMed 	EMS AirMed 	FMN 	Hospital 
-453.35000 	KAN719 	BM	107.2 PL	EC SD Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
-460.30000 	WQCY532 	BM		EC SD Tac 	Sheriff 	FM 	Law Tac 
-453.45000 	KAN719 	BM	107.2 PL	LE Mut Aid 	Regional Mutial Aid Channel 	FM 	Law Tac 
-158.19000 	WYL911 	BM		EC Water 	Water and Sewer 	FM 	Public Works 
-151.74500 	KNET397 	BM	173.8 PL	EC Schools 	School District 	FM 	Schools 
-Federal Correctional Institution Edgefield	 Motorola Type II SmartZone	 Edgefield	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	SC Public Service Authority	 Project 25 Phase II
- Various	SCANA/SCE and G	 DMR Tier 3	 Various	
+154.41500 	154.07000  	WNRO386 	RM	127.3 PL	EC FD Disp 	FD Dispatch 	FMN 	Fire Dispatch 
+154.07000 	   	 	M		EC FD Firegnd 	Fireground 	FMN 	Fire-Tac 
+169.05000 	   	 	M	162.2 PL	EC FD MTAC3 	Fire Tac "MTAC 3" 	FMN 	Fire-Tac 
+150.93500 	159.78000  	WQAV303 	RM	114.8 PL	EC EMS Disp 	EMS Dispatch 	FM 	EMS Dispatch 
+155.16000 	   	KWT677 	BM		EC EMS 	EMS 	FM 	EMS-Tac 
+155.26500 	   	KFE209 	BM	141.3 PL	EC EMS 	EMS 	FM 	EMS-Tac 
+155.28000 	   	KUG666 	BM		EC EMS 	EMS 	FM 	EMS-Tac 
+155.34000 	   	KUG666 	BM	141.3 PL	EC EMS Hosp 	EMS to Self Memorial Hospital 	FM 	Hospital 
+155.34000 	   	 	BM	151.4 PL	EC EMS AirMed 	EMS AirMed 	FMN 	Hospital 
+453.35000 	   	KAN719 	BM	107.2 PL	EC SD Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
+460.30000 	   	WQCY532 	BM		EC SD Tac 	Sheriff 	FM 	Law Tac 
+453.45000 	   	KAN719 	BM	107.2 PL	LE Mut Aid 	Regional Mutial Aid Channel 	FM 	Law Tac 
+158.19000 	   	WYL911 	BM		EC Water 	Water and Sewer 	FM 	Public Works 
+151.74500 	   	KNET397 	BM	173.8 PL	EC Schools 	School District 	FM 	Schools 
+Federal Correctional Institution Edgefield	 Motorola Type II SmartZone	 Edgefield	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	SC Public Service Authority	 Project 25 Phase II	 Various
+SCANA/SCE and G	 DMR Tier 3	 Various	

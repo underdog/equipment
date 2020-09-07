@@ -1,22 +1,21 @@
-155.43000 	KUJ606 	RM	167.9 PL	PCSO Disp 	Sheriff Dispatch Ch 1  	FMN 	Law Dispatch 
-159.09000 	KUJ606 	RM	107.2 PL	PCSO Ch 2 	Sheriff Alternate Ch 2 	FMN 	Law Tac 
-155.52000 	KUJ606 	BM	123.0 PL	PCSO MRD 	Sheriff MRD 	FMN 	Law Tac 
-154.31000 	WNCX657 	RM		PCSO-FD 	Sheriff-Fire Interopt 	FMN 	Interop 
-154.17500 	WNCX657 	RM	107.2 PL	PCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-159.51000 	WNCX657 	BM		PCFD TAC 	Fire Tac 	FMN 	Fire-Tac 
-150.88250 	WQML873 	RM		Metro Disp 	MetroAtlanta EMS Dispatch 	NXDN 	EMS Dispatch 
-45.16000 	WNGY651 	BM		PC H2O 	Water Department 	FMN 	Utilities 
-153.61250 	WPRK888 	BM		PC H2O 	Water Department 	FMN 	Utilities 
-461.27500 	WQKG220 	BM		PC H2O 	Water Department 	FMN 	Utilities 
-466.61250 	WQRG983 	BM		PC H2O 	Water Department 	FMN 	Utilities 
-451.55000 	 	WQFQ391 	BM		PC Sewers 	Sewage 	FMN 	Utilities 
-160.00500 	WNXI496 	BM		PCBOE 	Board of Education 	FMN 	Schools 
-160.12500 	WNXI496 	BM		PCBOE 	Board of Education 	FMN 	Schools 
-451.93750 	WQRQ712 	RM		PCBOE Bus 	Board of Education - Busses 	FMN 	Schools 
-461.66250 	WQMK719 	BM		Hiram HS 	Hiram High School 	FMN 	Schools 
-464.00000 	WQKB434 	RM		SPaulding HS 	South Paulding High School 	FMN 	Schools 
-464.60000 	WQJS626 	RM		NPaulding HS 	North Paulding High School 	FMN 	Schools 
-155.52000 	KYI847 	BM		HPD Dispatch 	Hiram Police Department 	FMN 	Law Dispatch 
-460.06250 	WQOK694 	RM		CTCPD Disp 	CTC Police 	FMN 	Law Dispatch 
-Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800	 Various	Greystone Power LTR	 LTR Standard and Passport	 Dallas	Paulding County	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Dallas	
+155.43000 	153.96500  	KUJ606 	RM	167.9 PL	PCSO Disp 	Sheriff Dispatch Ch 1  	FMN 	Law Dispatch 
+159.09000 	   	KUJ606 	RM	107.2 PL	PCSO Ch 2 	Sheriff Alternate Ch 2 	FMN 	Law Tac 
+155.52000 	   	KUJ606 	BM	123.0 PL	PCSO MRD 	Sheriff MRD 	FMN 	Law Tac 
+154.31000 	159.06750  	WNCX657 	RM		PCSO-FD 	Sheriff-Fire Interopt 	FMN 	Interop 
+154.17500 	159.51000  	WNCX657 	RM	107.2 PL	PCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+159.51000 	   	WNCX657 	BM		PCFD TAC 	Fire Tac 	FMN 	Fire-Tac 
+150.88250 	154.54750  	WQML873 	RM		Metro Disp 	MetroAtlanta EMS Dispatch 	NXDN 	EMS Dispatch 
+45.16000 	   	WNGY651 	BM		PC H2O 	Water Department 	FMN 	Utilities 
+153.61250 	   	WPRK888 	BM		PC H2O 	Water Department 	FMN 	Utilities 
+461.27500 	   	WQKG220 	BM		PC H2O 	Water Department 	FMN 	Utilities 
+466.61250 	   	WQRG983 	BM		PC H2O 	Water Department 	FMN 	Utilities 
+451.55000 	   	 	WQFQ391 	BM		PC Sewers 	Sewage 	FMN 	Utilities 
+160.00500 	   	WNXI496 	BM		PCBOE 	Board of Education 	FMN 	Schools 
+160.12500 	   	WNXI496 	BM		PCBOE 	Board of Education 	FMN 	Schools 
+451.93750 	456.93750  	WQRQ712 	RM		PCBOE Bus 	Board of Education - Busses 	FMN 	Schools 
+461.66250 	466.66250  	WQMK719 	BM		Hiram HS 	Hiram High School 	FMN 	Schools 
+464.00000 	469.00000  	WQKB434 	RM		SPaulding HS 	South Paulding High School 	FMN 	Schools 
+464.60000 	469.60000  	WQJS626 	RM		NPaulding HS 	North Paulding High School 	FMN 	Schools 
+155.52000 	   	KYI847 	BM		HPD Dispatch 	Hiram Police Department 	FMN 	Law Dispatch 
+460.06250 	465.06250  	WQOK694 	RM		CTCPD Disp 	CTC Police 	FMN 	Law Dispatch 
+Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800	 Various	Greystone Power LTR	 LTR Standard and Passport	 Dallas	Paulding County	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Dallas

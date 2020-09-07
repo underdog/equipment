@@ -1,25 +1,24 @@
-155.80500 	WPLS955 	RM	662 DPL	STONE OES W 	OES/Fire - West Dispatch 	FMN 	Fire Dispatch 
-154.35500 	WPLS955 	RM	662 DPL	STONE OES E 	OES/Fire - East Dispatch 	FMN 	Fire Dispatch 
-151.19000 	WQBC533 	RM	CC 13TG 1SL 1	STONE EMS OPS 	Vital Link EMS - Operations 	DMR 	EMS Dispatch 
-151.19000 	WQBC533 	RM	516 DPL	STONE EMS PAGE 	Vital Link EMS Paging 	FMN 	EMS Dispatch 
-154.04750 	WRAN563 	RM	462 DPL	DODD MTN VFD 	Dodd Mountian Volunteer Fire Department 	FMN 	Fire Dispatch 
-155.55000 	WPEM296 	RM		SCSO-CLAW D 	Sheriff - Countywide Law Digital 	DMR 	Interop 
-155.68500 	KNNP534 	RM	CC 2TG 5SL 1	SCSO WEST D 	Sheriff - West Operations Digital 	DMR 	Law Dispatch 
-155.19000 	KNNP534 	RM		SCSO NORTH D 	Sheriff - North 	DMR 	Law Dispatch 
-155.19000 	KNNP534 	RM		SCSO EAST D 	Sheriff - East Operations Digital 	DMR 	Law Dispatch 
-155.55000 	WPEM296 	RM	186.2 PL	STONE CO SO 	Sheriff - Countywide Law Analog 	FMN 	Interop 
-155.19000 	KNNP534 	RM	732 DPL	STONE SO E 	Sheriff - East Operations Analog 	FMN 	Law Dispatch 
-155.68500 	KNNP534 	RM		STONE SO W 	Sheriff - West Operations Analog 	FMN 	Law Dispatch 
-155.77500 	WPLS955 	RM	131.8 PL	STONE ROADS 	Highway Dept. 	FMN 	Public Works 
-155.55000 	WPEM296 	RM		MVPD/CLAW D 	Police - Dispatch/Countywide Law Digital 	DMR 	Law Dispatch 
-155.55000 	WPEM296 	RM	734 DPL	MVPD-DISP A 	Police - Dispatch Analog 	FMN 	Law Dispatch 
-154.11500 	WQNV422 	RM		MVFD-OPS D 	Fire - Operations Digital 	DMR 	Fire Dispatch 
-154.11500 	WQNV422 	RM	125 DPL	MVFD-OPS A 	Fire - Operations Analog 	FMN 	Fire Dispatch 
-155.11500 	WNQJ439 	BM		MtVw Water 155 	Water Department 	FMN 	Utilities 
-154.06250 	WPNZ936 	BM		MtVw Water Data 	Water Department - Water Pressure 	Telm 	Data 
-461.65000 	 	BM		MtVw Water 461 	Water Department 	FMN 	Utilities 
-151.31750 	WQQH468 	RM	CC 4TG *SL 1	ASVFD-OPS D 	Allison Sylamore Volunteer Fire Department - Digital Operations 	DMR 	Fire Dispatch 
-151.31750 	WQQH468 	RM	462 DPL	ASVFD-OPS A 	Allison Sylamore Volunteer Fire Department - Analog Operations 	FMN 	Fire Dispatch 
-147.10500 	K5GNT 	RM	94.8 PL	K5GNT 2 METER 	K5GNT Dual Mode Repeater (YSF/Analog) 	FM 	Ham 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	
+155.80500 	153.78500  	WPLS955 	RM	662 DPL	STONE OES W 	OES/Fire - West Dispatch 	FMN 	Fire Dispatch 
+154.35500 	158.98500  	WPLS955 	RM	662 DPL	STONE OES E 	OES/Fire - East Dispatch 	FMN 	Fire Dispatch 
+151.19000 	155.63250  	WQBC533 	RM	CC 13TG 1SL 1	STONE EMS OPS 	Vital Link EMS - Operations 	DMR 	EMS Dispatch 
+151.19000 	155.63250  	WQBC533 	RM	516 DPL	STONE EMS PAGE 	Vital Link EMS Paging 	FMN 	EMS Dispatch 
+154.04750 	158.73000  	WRAN563 	RM	462 DPL	DODD MTN VFD 	Dodd Mountian Volunteer Fire Department 	FMN 	Fire Dispatch 
+155.55000 	159.21000  	WPEM296 	RM		SCSO-CLAW D 	Sheriff - Countywide Law Digital 	DMR 	Interop 
+155.68500 	159.89500  	KNNP534 	RM	CC 2TG 5SL 1	SCSO WEST D 	Sheriff - West Operations Digital 	DMR 	Law Dispatch 
+155.19000 	159.12000  	KNNP534 	RM		SCSO NORTH D 	Sheriff - North 	DMR 	Law Dispatch 
+155.19000 	159.12000  	KNNP534 	RM		SCSO EAST D 	Sheriff - East Operations Digital 	DMR 	Law Dispatch 
+155.55000 	159.21000  	WPEM296 	RM	186.2 PL	STONE CO SO 	Sheriff - Countywide Law Analog 	FMN 	Interop 
+155.19000 	159.12000  	KNNP534 	RM	732 DPL	STONE SO E 	Sheriff - East Operations Analog 	FMN 	Law Dispatch 
+155.68500 	159.89500  	KNNP534 	RM		STONE SO W 	Sheriff - West Operations Analog 	FMN 	Law Dispatch 
+155.77500 	153.75500  	WPLS955 	RM	131.8 PL	STONE ROADS 	Highway Dept. 	FMN 	Public Works 
+155.55000 	159.21000  	WPEM296 	RM		MVPD/CLAW D 	Police - Dispatch/Countywide Law Digital 	DMR 	Law Dispatch 
+155.55000 	159.21000  	WPEM296 	RM	734 DPL	MVPD-DISP A 	Police - Dispatch Analog 	FMN 	Law Dispatch 
+154.11500 	156.00000  	WQNV422 	RM		MVFD-OPS D 	Fire - Operations Digital 	DMR 	Fire Dispatch 
+154.11500 	156.00000  	WQNV422 	RM	125 DPL	MVFD-OPS A 	Fire - Operations Analog 	FMN 	Fire Dispatch 
+155.11500 	   	WNQJ439 	BM		MtVw Water 155 	Water Department 	FMN 	Utilities 
+154.06250 	   	WPNZ936 	BM		MtVw Water Data 	Water Department - Water Pressure 	Telm 	Data 
+461.65000 	   	 	BM		MtVw Water 461 	Water Department 	FMN 	Utilities 
+151.31750 	155.66000  	WQQH468 	RM	CC 4TG *SL 1	ASVFD-OPS D 	Allison Sylamore Volunteer Fire Department - Digital Operations 	DMR 	Fire Dispatch 
+151.31750 	155.66000  	WQQH468 	RM	462 DPL	ASVFD-OPS A 	Allison Sylamore Volunteer Fire Department - Analog Operations 	FMN 	Fire Dispatch 
+147.10500 	147.70500  	K5GNT 	RM	94.8 PL	K5GNT 2 METER 	K5GNT Dual Mode Repeater (YSF/Analog) 	FM 	Ham 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various

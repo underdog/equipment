@@ -1,40 +1,39 @@
-460.32500 	KNDC808 	RM	114.8 PL	Cowley Co SO 1 	Sheriff / Rural Police Dispatch 	FMN 	Law Dispatch 
-460.43750 	KNDC808 	RM	114.8 PL	Cowley Co Jail 	County Jail 	FMN 	Corrections 
-453.30000 	KNCH501 	RM	151.4 PL	Cowley Co Fire 	Countywide Fire and EMS Dispatch 	FMN 	Fire Dispatch 
-458.43750 	WPUJ834 	BM	151.4 PL	CowleyCoFD Tac15 	Fire / EMS Tac 15 	FMN 	Fire-Tac 
-453.23750 	WPUJ834 	BM	151.4 PL	ColweyCoFD Tac16 	Fire / EMS Tac 16 	FMN 	Fire-Tac 
-458.51250 	WPUJ834 	BM	151.4 PL	CowleyCoFD Tac17 	Fire / EMS Tac 17 	FMN 	Fire-Tac 
-458.36250 	WPUJ834 	BM	151.4 PL	CowleyCoFD Tac18 	Fire / EMS Tac 18 	FMN 	Fire-Tac 
-453.43750 	WVY623 	BM	192.8 PL	CowleyCoFD Tac19 	Fire / EMS Tac 19 	FMN 	Fire-Tac 
-453.97500 	KNHW926 	RM	114.8 PL	Cowley Co EM 1 	Emergency Management Dispatch 	FMN 	Emergency Ops 
-460.23750 	KNHW926 	RM	114.8 PL	Cowley Co EM 3 	Emergency Management 3 -- Portable Repeater 	FMN 	Emergency Ops 
-453.92500 	KNHW926 	BM	114.8 PL	Cowley Co EM 21 	Emergency Management Tac 21 	FMN 	Emergency Ops 
-453.32500 	KNHW926 	BM	114.8 PL	Cowley Co EM 22 	Emergency Management Tac 22 	FMN 	Emergency Ops 
-465.23750 	 	BM		Cowley Co EM 23 	Emergency Management Tac 23 	FMN 	Emergency Ops 
-453.16250 		KNHW926 	RM		Cowley Co Roads 	Highway Maintenance / EM 2 	FMN 	Public Works 
-460.10000 	KNDK572 	RM	114.8 PL	Winfield PD 1 	Police Dispatch 	FMN 	Law Dispatch 
-460.38750 	KNDK572 	RM	114.8 PL	Winfield PD Ops 	Police Operations 	FMN 	Law Tac 
-453.63750 	WPUJ834 	BM	151.4 PL	Winfield FD Ops7 	Winfield Fire Operations -- County Fire Ops 7 	FMN 	Fire-Tac 
-460.16250 	WQFP210 	RM	151.4 PL	Winfield FD Ops9 	Winfield Fire Operations -- County Fire Ops 9 	FMN 	Fire-Tac 
-453.27500 	WNLR550 	RM	026 DPL	WinfieldElectric 	Electric System Maintenance 	FMN 	Public Works 
-453.77500 	WNNU938 	RM	026 DPL	Winfield PubWks 	Public Works 	FMN 	Public Works 
-461.65000 	WNRX439 	RM		Winfield Schools 	Public Schools (USD 465) -- School Buses 	FMN 	Schools 
-155.31000 	KNIR731 	RM	103.5 PL	Winfield Prison 	Prison Security 	FMN 	Corrections 
-460.20000 	KNDC809 	RM	114.8 PL	Arkansas City PD 	Police Dispatch 	FMN 	Law Dispatch 
-453.02500 	KGY218 	RM	151.4 PL	Ark City PD Ops 	Police Operations 	FMN 	Law Tac 
-460.62500 	WYV623 	RM	114.8 PL	Ark City FD Ops5 	Fire Operations -- County Fire Ops 5 	FMN 	Fire-Tac 
-453.58750 	WYV623 	RM	114.8 PL	ArkCity EMS Ops6 	EMS Patient Reports -- County Fire Ops 6 	FMN 	Fire-Tac 
-158.82000 	KGY218 	RM	114.8 PL	Ark City Pub Wks 	Public Works 	FMN 	Public Works 
-152.45000 	WPSV768 	RM	114.8 PL	School Buses 	Public Schools (USD 470) 	FMN 	Schools 
-453.53750 	WPVJ283 	RM	151.4 PL	Atlanta Fire Ops 	Fire Operations -- County Fire Ops 2 	FMN 	Fire-Tac 
-453.56250 	WQGL299 	RM	151.4 PL	Burden Fire 	Burden / Cambridge Fire Operations -- County Fire Ops 3 	FMN 	Fire-Tac 
-453.98750 	WPTB889 	RM		Dexter Police Op 	Police Operations 	FMN 	Law Tac 
-453.10000 	WNDB557 	RM	114.8 PL	Dexter Fire 	Dexter / Cambridge Fire -- County Fire Ops 1 	FMN 	Fire-Tac 
-461.80000 	WNVH258 	RM	114.8 PL	Dexter Schools 	Public Schools (USD 471) -- School Buses 	FM 	Schools 
-460.02500 	WNUS678 	RM		Udall Police Ops 	Police Operations 	FMN 	Law Tac 
-460.06250 	WQDM286 	RM	151.4 PL	Udall Fire Ops 	Udall Fire Operations -- County Fire Ops 4 	FMN 	Fire-Tac 
-151.86500 	WNIJ972 	BM	114.8 PL	Udall Schools 	Udall Public Schools (USD 463) -- School Buses 	FMN 	Schools 
-853.55000 	WQQD587 	RM	023 DPL	KHP Link 	KHPLink to KSICS 	FM 	Law Dispatch 
-851.31250 	WQQD587 	RM	023 DPL	KDOT Link 	KDOT Link to KSICS  	FM 	Public Works 
-First Digital Holdings (UHF)	 LTR Standard	 Wichita	Kansas Statewide Interoperable Communication System (KSICS)	 Project 25 Phase I	 Statewide	Westar Energy (KS/MO)	 Motorola Type II SmartZone
- Various	
+460.32500 	465.32500  	KNDC808 	RM	114.8 PL	Cowley Co SO 1 	Sheriff / Rural Police Dispatch 	FMN 	Law Dispatch 
+460.43750 	465.43750  	KNDC808 	RM	114.8 PL	Cowley Co Jail 	County Jail 	FMN 	Corrections 
+453.30000 	458.30000  	KNCH501 	RM	151.4 PL	Cowley Co Fire 	Countywide Fire and EMS Dispatch 	FMN 	Fire Dispatch 
+458.43750 	   	WPUJ834 	BM	151.4 PL	CowleyCoFD Tac15 	Fire / EMS Tac 15 	FMN 	Fire-Tac 
+453.23750 	   	WPUJ834 	BM	151.4 PL	ColweyCoFD Tac16 	Fire / EMS Tac 16 	FMN 	Fire-Tac 
+458.51250 	   	WPUJ834 	BM	151.4 PL	CowleyCoFD Tac17 	Fire / EMS Tac 17 	FMN 	Fire-Tac 
+458.36250 	   	WPUJ834 	BM	151.4 PL	CowleyCoFD Tac18 	Fire / EMS Tac 18 	FMN 	Fire-Tac 
+453.43750 	   	WVY623 	BM	192.8 PL	CowleyCoFD Tac19 	Fire / EMS Tac 19 	FMN 	Fire-Tac 
+453.97500 	458.97500  	KNHW926 	RM	114.8 PL	Cowley Co EM 1 	Emergency Management Dispatch 	FMN 	Emergency Ops 
+460.23750 	465.23750  	KNHW926 	RM	114.8 PL	Cowley Co EM 3 	Emergency Management 3 -- Portable Repeater 	FMN 	Emergency Ops 
+453.92500 	   	KNHW926 	BM	114.8 PL	Cowley Co EM 21 	Emergency Management Tac 21 	FMN 	Emergency Ops 
+453.32500 	   	KNHW926 	BM	114.8 PL	Cowley Co EM 22 	Emergency Management Tac 22 	FMN 	Emergency Ops 
+465.23750 	   	 	BM		Cowley Co EM 23 	Emergency Management Tac 23 	FMN 	Emergency Ops 
+453.16250 	458.16250  		KNHW926 	RM		Cowley Co Roads 	Highway Maintenance / EM 2 	FMN 	Public Works 
+460.10000 	465.10000  	KNDK572 	RM	114.8 PL	Winfield PD 1 	Police Dispatch 	FMN 	Law Dispatch 
+460.38750 	465.38750  	KNDK572 	RM	114.8 PL	Winfield PD Ops 	Police Operations 	FMN 	Law Tac 
+453.63750 	   	WPUJ834 	BM	151.4 PL	Winfield FD Ops7 	Winfield Fire Operations -- County Fire Ops 7 	FMN 	Fire-Tac 
+460.16250 	465.16250  	WQFP210 	RM	151.4 PL	Winfield FD Ops9 	Winfield Fire Operations -- County Fire Ops 9 	FMN 	Fire-Tac 
+453.27500 	458.27500  	WNLR550 	RM	026 DPL	WinfieldElectric 	Electric System Maintenance 	FMN 	Public Works 
+453.77500 	458.77500  	WNNU938 	RM	026 DPL	Winfield PubWks 	Public Works 	FMN 	Public Works 
+461.65000 	466.65000  	WNRX439 	RM		Winfield Schools 	Public Schools (USD 465) -- School Buses 	FMN 	Schools 
+155.31000 	   	KNIR731 	RM	103.5 PL	Winfield Prison 	Prison Security 	FMN 	Corrections 
+460.20000 	465.20000  	KNDC809 	RM	114.8 PL	Arkansas City PD 	Police Dispatch 	FMN 	Law Dispatch 
+453.02500 	458.02500  	KGY218 	RM	151.4 PL	Ark City PD Ops 	Police Operations 	FMN 	Law Tac 
+460.62500 	465.62500  	WYV623 	RM	114.8 PL	Ark City FD Ops5 	Fire Operations -- County Fire Ops 5 	FMN 	Fire-Tac 
+453.58750 	458.58750  	WYV623 	RM	114.8 PL	ArkCity EMS Ops6 	EMS Patient Reports -- County Fire Ops 6 	FMN 	Fire-Tac 
+158.82000 	153.98000  	KGY218 	RM	114.8 PL	Ark City Pub Wks 	Public Works 	FMN 	Public Works 
+152.45000 	157.71000  	WPSV768 	RM	114.8 PL	School Buses 	Public Schools (USD 470) 	FMN 	Schools 
+453.53750 	458.53750  	WPVJ283 	RM	151.4 PL	Atlanta Fire Ops 	Fire Operations -- County Fire Ops 2 	FMN 	Fire-Tac 
+453.56250 	458.56250  	WQGL299 	RM	151.4 PL	Burden Fire 	Burden / Cambridge Fire Operations -- County Fire Ops 3 	FMN 	Fire-Tac 
+453.98750 	458.98750  	WPTB889 	RM		Dexter Police Op 	Police Operations 	FMN 	Law Tac 
+453.10000 	458.10000  	WNDB557 	RM	114.8 PL	Dexter Fire 	Dexter / Cambridge Fire -- County Fire Ops 1 	FMN 	Fire-Tac 
+461.80000 	466.80000  	WNVH258 	RM	114.8 PL	Dexter Schools 	Public Schools (USD 471) -- School Buses 	FM 	Schools 
+460.02500 	465.02500  	WNUS678 	RM		Udall Police Ops 	Police Operations 	FMN 	Law Tac 
+460.06250 	465.06250  	WQDM286 	RM	151.4 PL	Udall Fire Ops 	Udall Fire Operations -- County Fire Ops 4 	FMN 	Fire-Tac 
+151.86500 	   	WNIJ972 	BM	114.8 PL	Udall Schools 	Udall Public Schools (USD 463) -- School Buses 	FMN 	Schools 
+853.55000 	808.55000  	WQQD587 	RM	023 DPL	KHP Link 	KHPLink to KSICS 	FM 	Law Dispatch 
+851.31250 	806.31250  	WQQD587 	RM	023 DPL	KDOT Link 	KDOT Link to KSICS  	FM 	Public Works 
+First Digital Holdings (UHF)	 LTR Standard	 Wichita	Westar Energy (KS/MO)	 Motorola Type II SmartZone	 Various	

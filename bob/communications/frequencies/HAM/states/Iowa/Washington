@@ -1,16 +1,16 @@
-154.87500 	WZX836 	RM	311 DPL	WashCoOps 	Sheriff Dispatch - South Tower 	FMN 	Law Dispatch 
-151.16000 	WZX836 	RM	311 DPL	WashCoOpsN 	Sheriff Dispatch - North Tower 	FMN 	Law Dispatch 
-170.57500 	 			WashCoEvent 	Special Events 	FMN 	Law Tac 
-155.25000 	KAA474 	B	167.9 PL	WashCoInfoB 	Sheriff Information - Base 	FMN 	Law Talk 
-155.91000 	KAA474 	M	167.9 PL	WashCoInfoM 	Sheriff Information - Mobiles 	FMN 	Law Talk 
-154.96500 	WZX836 	BM	167.9 PL	WashCoFire 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.83000 	WQCD452 	M		WashFGnd1 	Fireground 1 	FMN 	Fire-Tac 
-153.95000 	WQCD452 	M		WashFGnd2 	Fireground 2 	FMN 	Fire-Tac 
-154.01000 	WQCD452 	M		WashFGnd3 	Fireground 3 	FMN 	Fire-Tac 
-155.22000 	KZG279 	BM		Wash Co EMS 	EMS (192.8 PL on Base) 	FMN 	EMS Dispatch 
-158.74500 	WPGI651 	RM	CC 1TG 100SL *	Wash Roads Ops 	Road Department Operations 	DMR 	Public Works 
-158.74500 	WPGI651 	RM	CC 1TG 1SL *	Wash Co Rds Data 	Road Department Data 	DMR 	Data 
-154.37000 	WQCD452 	BM	167.9 PL	 Wash Fire D 	Fire Dispatch 	FMN 	Fire Dispatch 
-453.05000 	WNKX203 	RM		Wash PubWrks 	Public Works 	FMN 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	RACOM Network	 EDACS Networked Standard
- Various	T.I.P. Rural Electric Cooperative	 DMR Conventional Networked	 Brooklyn	
+154.87500 	158.88000  	WZX836 	RM	311 DPL	WashCoOps 	Sheriff Dispatch - South Tower 	FMN 	Law Dispatch 
+151.16000 	158.83500  	WZX836 	RM	311 DPL	WashCoOpsN 	Sheriff Dispatch - North Tower 	FMN 	Law Dispatch 
+170.57500 	   	 			WashCoEvent 	Special Events 	FMN 	Law Tac 
+155.25000 	   	KAA474 	B	167.9 PL	WashCoInfoB 	Sheriff Information - Base 	FMN 	Law Talk 
+155.91000 	   	KAA474 	M	167.9 PL	WashCoInfoM 	Sheriff Information - Mobiles 	FMN 	Law Talk 
+154.96500 	158.83500  	WZX836 	BM	167.9 PL	WashCoFire 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.83000 	   	WQCD452 	M		WashFGnd1 	Fireground 1 	FMN 	Fire-Tac 
+153.95000 	   	WQCD452 	M		WashFGnd2 	Fireground 2 	FMN 	Fire-Tac 
+154.01000 	   	WQCD452 	M		WashFGnd3 	Fireground 3 	FMN 	Fire-Tac 
+155.22000 	   	KZG279 	BM		Wash Co EMS 	EMS (192.8 PL on Base) 	FMN 	EMS Dispatch 
+158.74500 	153.75000  	WPGI651 	RM	CC 1TG 100SL *	Wash Roads Ops 	Road Department Operations 	DMR 	Public Works 
+158.74500 	153.75000  	WPGI651 	RM	CC 1TG 1SL *	Wash Co Rds Data 	Road Department Data 	DMR 	Data 
+154.37000 	   	WQCD452 	BM	167.9 PL	 Wash Fire D 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.05000 	458.05000  	WNKX203 	RM		Wash PubWrks 	Public Works 	FMN 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	RACOM Network	 EDACS Networked Standard	 Various
+T.I.P. Rural Electric Cooperative	 DMR Conventional Networked	 Brooklyn	

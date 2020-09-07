@@ -1,33 +1,32 @@
-453.40000 	KTQ240 	RM	173.8 PL	CFD NE Disp 	Northeast Columbia 	FM 	Fire Dispatch 
-453.45000 	KTQ240 	RM	173.8 PL	CFD NW Disp 	Northwest Columbia 	FM 	Fire Dispatch 
-453.92500 	KRL281 	RM	173.8 PL	CFD SE Disp 	Southeast Richland County 	FM 	Fire Dispatch 
-453.97500 	WXT672 	RM	173.8 PL	CFD N Disp 	Blythewood/Northern Richland County 	FM 	Fire Dispatch 
-851.65000 	WPYK673 	M	131.8 PL	CFD 800 FG1 	Fireground 1 	FM 	Fire-Tac 
-852.22500 	WPYK673 	M	131.8 PL	CFD 800 FG2 	Fireground 2 	FM 	Fire-Tac 
-853.18750 	WPYK673 	M	131.8 PL	CFD 800 FG3 	Fireground 3 	FM 	Fire-Tac 
-853.57500 	WPYK673 	M	131.8 PL	CFD 800 FG4 	Fireground 4 	FM 	Fire-Tac 
-158.80500 	WPMI735 	R	203.5 PL	RC EMS Page 	Richland Co. EMS Paging Only 	FM 	Data 
-155.16000 	KRP872 	BM	203.5 PL	LifeNet Helo 	LifeNet Helicopter 	FM 	EMS Dispatch 
-153.84500 	KRP872 	BM	71.9 PL	PlmRch Sec 	Palmetto Richland Hospital Security 	FM 	Security 
-469.50000 	 	M	023 DPL	Provdnc Hosp 	Providence Hospital Security 	FM 	Security 
-153.92000 	KB49788 	M		RC DPW 	Richland County Public Works 	FM 	Public Works 
-45.36000 	KXZ686 	BM		RC DPW 	Richland County Public Works 	FM 	Public Works 
-45.16000 	KXZ686 	BM		RC DPW 	Richland County Public Works 	FM 	Public Works 
-47.42000 	KGJ670 	B		Red Cross 	American Red Cross 	FM 	Emergency Ops 
-460.12500 	KYK490 	RM	173.8 PL	Cola Anml Cn 	Columbia Animal Control 	FM 	Public Works 
-453.77500 	KRL282 	RM	173.8 PL	Cola Blgs 	Building and Ground Maintenance 	FM 	Public Works 
-46.58000 	KSM229 	BM		Cola Housing 	Housing Authority 	FM 	Public Works 
-453.27500 	WXR254 	RM	173.8 PL	Cola Housing 	Housing Authority 	FM 	Public Works 
-155.37000 	KIB667 	RM	173.8 PL	Cola Parking 	Parking Enforcement/Engineering 	FM 	Public Works 
-156.24000 	KIL786 	RM	173.8 PL	Cola Rd Mnt 	Road Maintenance 	FM 	Public Works 
-453.37500 	 		173.8 PL	Cola Traffic 	Traffic Engineering 	FM 	Public Works 
-452.87500 	WNFH720 	RM	CSQ	Cola Buses 	Transportation/Buses (Moved to Mid-State TRS) 	FM 	Public Works 
-153.48500 	KXS494 	RM	173.8 PL	Cola Water 	Water Service 	FM 	Public Works 
-151.31000 	WNDP430 	RM		Cola Unknown 	Columbia City Unknown 	FM 	Public Works 
-453.90000 	WYU975 	RM	315 DPL	USC PD Prkg 	USC Shuttle Buses 	FM 	Schools 
-460.50000 	WQQF849 	RM	565 DPL	Cola College PD 	Columbia College Police Back-up channel 	FM 	Law Tac 
-Charleston Wireless Group/James White	 DMR Motorola Connect Plus (TRBO)	 Various	Eastman Chemical Company	 Motorola Type II	 Columbia	FleetTalk Carolinas	 NXDN NEXEDGE 4800
- Various	Mid-State Electronics	 LTR Standard	 Columbia	Palmetto TRBO/Capital City TRBO	 DMR Motorola Connect Plus (TRBO)	 Columbia	SC HEART DMR Network
- DMR Conventional Networked	 Mulitple	SC Public Service Authority	 Project 25 Phase II	 Various	SCANA/SCE and G	 DMR Tier 3	 Various
-South Carolina Pipeline Corporation	 LTR Standard	 Various	United States Army (58A)	 Project 25 Phase I	 Various	University of South Carolina	 DMR Motorola Capacity Plus Single Site (TRBO)
- Columbia	VoiceLink Communications	 Motorola Type I	 Columbia	
+453.40000 	458.40000  	KTQ240 	RM	173.8 PL	CFD NE Disp 	Northeast Columbia 	FM 	Fire Dispatch 
+453.45000 	458.45000  	KTQ240 	RM	173.8 PL	CFD NW Disp 	Northwest Columbia 	FM 	Fire Dispatch 
+453.92500 	458.92500  	KRL281 	RM	173.8 PL	CFD SE Disp 	Southeast Richland County 	FM 	Fire Dispatch 
+453.97500 	458.97500  	WXT672 	RM	173.8 PL	CFD N Disp 	Blythewood/Northern Richland County 	FM 	Fire Dispatch 
+851.65000 	   	WPYK673 	M	131.8 PL	CFD 800 FG1 	Fireground 1 	FM 	Fire-Tac 
+852.22500 	   	WPYK673 	M	131.8 PL	CFD 800 FG2 	Fireground 2 	FM 	Fire-Tac 
+853.18750 	   	WPYK673 	M	131.8 PL	CFD 800 FG3 	Fireground 3 	FM 	Fire-Tac 
+853.57500 	   	WPYK673 	M	131.8 PL	CFD 800 FG4 	Fireground 4 	FM 	Fire-Tac 
+158.80500 	   	WPMI735 	R	203.5 PL	RC EMS Page 	Richland Co. EMS Paging Only 	FM 	Data 
+155.16000 	   	KRP872 	BM	203.5 PL	LifeNet Helo 	LifeNet Helicopter 	FM 	EMS Dispatch 
+153.84500 	   	KRP872 	BM	71.9 PL	PlmRch Sec 	Palmetto Richland Hospital Security 	FM 	Security 
+469.50000 	   	 	M	023 DPL	Provdnc Hosp 	Providence Hospital Security 	FM 	Security 
+153.92000 	   	KB49788 	M		RC DPW 	Richland County Public Works 	FM 	Public Works 
+45.36000 	   	KXZ686 	BM		RC DPW 	Richland County Public Works 	FM 	Public Works 
+45.16000 	   	KXZ686 	BM		RC DPW 	Richland County Public Works 	FM 	Public Works 
+47.42000 	   	KGJ670 	B		Red Cross 	American Red Cross 	FM 	Emergency Ops 
+460.12500 	465.12500  	KYK490 	RM	173.8 PL	Cola Anml Cn 	Columbia Animal Control 	FM 	Public Works 
+453.77500 	   	KRL282 	RM	173.8 PL	Cola Blgs 	Building and Ground Maintenance 	FM 	Public Works 
+46.58000 	   	KSM229 	BM		Cola Housing 	Housing Authority 	FM 	Public Works 
+453.27500 	458.27500  	WXR254 	RM	173.8 PL	Cola Housing 	Housing Authority 	FM 	Public Works 
+155.37000 	159.09000  	KIB667 	RM	173.8 PL	Cola Parking 	Parking Enforcement/Engineering 	FM 	Public Works 
+156.24000 	159.00000  	KIL786 	RM	173.8 PL	Cola Rd Mnt 	Road Maintenance 	FM 	Public Works 
+453.37500 	   	 		173.8 PL	Cola Traffic 	Traffic Engineering 	FM 	Public Works 
+452.87500 	457.87500  	WNFH720 	RM	CSQ	Cola Buses 	Transportation/Buses (Moved to Mid-State TRS) 	FM 	Public Works 
+153.48500 	   	KXS494 	RM	173.8 PL	Cola Water 	Water Service 	FM 	Public Works 
+151.31000 	159.24000  	WNDP430 	RM		Cola Unknown 	Columbia City Unknown 	FM 	Public Works 
+453.90000 	458.90000  	WYU975 	RM	315 DPL	USC PD Prkg 	USC Shuttle Buses 	FM 	Schools 
+460.50000 	465.50000  	WQQF849 	RM	565 DPL	Cola College PD 	Columbia College Police Back-up channel 	FM 	Law Tac 
+Charleston Wireless Group/James White	 DMR Motorola Connect Plus (TRBO)	 Various	Eastman Chemical Company	 Motorola Type II	 Columbia	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various
+Mid-State Electronics	 LTR Standard	 Columbia	Palmetto TRBO/Capital City TRBO	 DMR Motorola Connect Plus (TRBO)	 Columbia	SC HEART DMR Network	 DMR Conventional Networked	 Mulitple
+SC Public Service Authority	 Project 25 Phase II	 Various	SCANA/SCE and G	 DMR Tier 3	 Various	South Carolina Pipeline Corporation	 LTR Standard	 Various
+United States Army (58A)	 Project 25 Phase I	 Various	University of South Carolina	 DMR Motorola Capacity Plus Single Site (TRBO)	 Columbia	VoiceLink Communications	 Motorola Type I	 Columbia

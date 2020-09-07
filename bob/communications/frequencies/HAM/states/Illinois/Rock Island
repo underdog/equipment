@@ -1,118 +1,117 @@
-154.31000 	KNHH754 	RM	134 DPL	RICo Fire R 	Fire: Dispatch (Port Byron/Coal Valley R's) 	FMN 	Fire Dispatch 
-154.31000 	WNIP898 	BM	134 DPL	RICO Fire 	Fire: Countywide Dispatch  	FMN 	Fire Dispatch 
-154.98000 	WPYW766 	M	192.8 PL	B/H/A Fire 	Bar?/Hampton/Andalusia Fire: Paging/Dispatch (by Sheriff) 	FMN 	Fire Dispatch 
-154.98000 	KDD967 	RM	732 DPL	RICo FD/ESDA 	Fire: Dispatch / ESDA 	FMN 	Emergency Ops 
-154.28000 	KNGG526 	BM	CSQ	MO Fire M/A 	{Link to} MO Fire Mutual Aid (Scott Co) 	FMN 	Fire-Talk 
-159.15000 	WPMP978 	RM	192.8 PL	RICo Sheriff 1 	Sheriff: Dispatch / Rural Dispatch 	FMN 	Law Dispatch 
-155.71500 	KDD967 	BM	192.8 PL	RICo Sheriff 2 	Sheriff: Tactical / Secondary 	FMN 	Law Tac 
-154.98000 	KDD967 	BM	192.8 PL	RICo Sheriff 3 	Sheriff / ESDA (Local Government/Paging) 	FMN 	Law Tac 
-460.05000 	WPMP978 	M	192.8 PL	RICo Sheriff MX 	Sheriff: Mobile Extenders [Ch 2] 	FMN 	Law Tac 
-460.55000 	KNAW668 	RM	192.8 PL	RICo Sheriff 10 	Sheriff: Tac-10 / City Police [Ch 1/3] 	FMN 	Law Tac 
-154.74750 	WQFA617 	M		RICo ShrfHazMat1 	Sheriff: Haz Mat Robot  	Telm 	Data 
-453.36250 	WQFA617 	M		RICo ShrfHazMat2 	Sheriff: Haz Mat Robot 	FMN 	Data 
-155.37000 	WPMP978 	B	CSQ	ISP S/W P2P 	Quad-City Net / ISP Point-to-Point 	FMN 	Law Talk 
-460.08750 	WPMP978 	BM		RICo SDJail1 	Sheriff: Jail 	FMN 	Corrections 
-460.52500 	WPVA239 	RM		RICo SDJail2 	Sheriff: Jail Operations 	FMN 	Corrections 
-453.32500 	WAS519 	RM	203.5 PL	METRO Bus 	Bus Operations [Ch 1] 	FMN 	Transportation 
-453.50000 	WAS519 	RM	203.5 PL	METRO Ptrans 	Secondary - Paratransit [Ch 2] 	FMN 	Transportation 
-460.42500 	WAS519 	RM		METRO New 	Operations - Future 	FMN 	Transportation 
-453.80000 	WAS519 	RM		METRO Data 	AVLS Data (CSQ) 	Telm 	Data 
-155.82750 	WQDV498 	M		RICo Health 	Public Health Department 	FMN 	Public Works 
-453.97500 	KNHQ979 	RM	CC 1TG 100SL 1	RICo Highway 	Highway Department 	DMR 	Public Works 
-453.82500 	WPEH755 	RM	192.8 PL	GRICo House 	Greater Rock Island County Housing Department 	FMN 	Public Works 
-155.73750 	WQTP379 	RM		RICo For Preserv 	Ops / Law 	FMN 	Multi-Dispatch 
-152.27000 	WQBZ783 	RM	162.2 PL	IlliniHosp Sec 	Security / Maintenance 	FMN 	Business 
-159.51000 	WQBZ783 	RM		IlliniHosp Ops 	Operations 	FMN 	Business 
-155.22000 	KWK449 	BM		MERCI-220 	EMS Communications 	FMN 	EMS Dispatch 
-155.34000 	KWK449 	BM	110.9 PL	MERCI1 110.9 	Patient Reports (also 179.9?) 	FMN 	Hospital 
-155.40000 	KWK449 	M		MERCI-4 	Patient Reports 	FMN 	Hospital 
-461.65000 	KD34868 	RM		UPH N Ops  	North - Maintenance/Operations (Bettendorf) 	FMN 	Business 
-464.70000 	KD34868 	RM	225.7 PL	UPH N Hskpng 	North - Housekeeping (Bettendorf) 	FMN 	Business 
-462.97500 	WNZZ983 	RM	100.0 PL	Trinity EMS 	Trinity Ambulance Service 	FMN 	EMS Dispatch 
-451.92500 	KD34868 	RM	210.7 PL	TMC E Secrty 	Security 	FMN 	Security 
-464.02500 	KD34868 	RM		TMC E Ops 	Operations (not 146.2) 	FMN 	Business 
-155.34000 	KVM556 	B	179.9 PL	MERCI1 179.9 	Trinity East Medical Center (Moline) 	FMN 	Hospital 
-463.12500 	WNXK282 	RM	179.9 PL	MED-6 179.9 	Trinity East Medical Center  	FMN 	Hospital 
-464.67500 	KD34868 	RM		TMC W Maint 	West - Maintenance 	FMN 	Business 
-452.45000 	KD34868 	RM		TMC Ops A-2 	Maintenance/Operations  	FMN 	Business 
-461.55000 	KD34868 	RM		TMC E Maint 	East - Maintenance 	FMN 	Business 
-464.57500 	KD34868 	BM		TMC Ops B-1 	Maintenance/Operations 	FMN 	Business 
-155.34000 	KVM556 	B	179.9 PL	MERCI1 179.9 	Trinity West Medical Center (Rock Island) 	FMN 	Hospital 
-151.04000 	WNMR718 	BM	127.3 PL	CordTwp Road 	Cordova Township Road Maintenance 	FMN 	Public Works 
-151.04000 	WQPD388 	BM	67.0 PL	HampTwp Road 	Hampton Township Roads 	FMN 	Public Works 
-151.64000 	WQIF890 	BM		BlkhkTwpRoad 	Blackhawk Township Road Maintenance (Milan)  	FMN 	Public Works 
-153.96500 	WQHM963 	M		Anda FireLoc 	Fire: Local 	FMN 	Fire-Tac 
-458.53750 	KD22023 	M		Anda Fire RF 	Fire: Mobile Extender / RF Links  [Canceled 12/12] 	FMN 	Fire-Tac 
-154.16000 	KCQ290 	RM	244 DPL	Blackhawk Fire 	Fire: Dispatch (patch to RACOM 490) 	FMN 	Fire Dispatch 
-153.83000 	KCQ290 	M		Blackhawk FG 	Fireground 	FMN 	Fire-Tac 
-453.03750 	KCQ290 	M		Blkhk Fire RF1 	Fire: Receive Link  	FMN 	Fire-Tac 
-458.03750 	KCQ290 	M		Blkhk Fire RF2 	Fire: Receive Link  	FMN 	Fire-Tac 
-155.01000 	WNXY774 	BM		CClf Police 	Police: Dispatch (David 2x Units) 	FMN 	Law Dispatch 
-155.14500 	WNZA807 	BM		CCliff Village 	Village Ops 	FMN 	Public Works 
-154.05500 	KUH532 	BM	192.8 PL	CV Pub Works 	Public Works 	FMN 	Public Works 
-154.32500 	KXC494 	BM		Cordov Fire2 	Fire [Ch 2] 	FMN 	Fire-Tac 
-154.22000 	KXC494 	BM		ScottCo Fire 	Fire: Interop w/ Scott Co IA Fire 	FMN 	Fire-Tac 
-154.19000 	WQCV201 	BM	CSQ	RICO Fire Rural 	Fire: Dispatch 	FMN 	Fire Dispatch 
-156.01500 	WQID457 	M	118.8 PL	EMol PD c2c 	Police: Car-to-Car [Ch 2] 	FMN 	Law Tac 
-151.07750 	WQQQ965 	M		Hamp PD MX 	Police: Mobile Extenders  	FMN 	Law Tac 
-155.89500 	WPYW766 	RM	192.8 PL	Hampton Fire 	Fire: Dispatch (also Silvis FD, DB: Silvis) 	FMN 	Fire Dispatch 
-154.37000 	WPYW766 	BM		Barstw Fire2 	Fire: (mobiles heard) [Ch 2] 	FMN 	Fire-Tac 
-158.86500 	WQBP720 	M		Hmptn PubWks 	Public Works  	FMN 	Public Works 
-155.07000 	WQQQ965 	RM	186.2 PL	Hamp PW S/P 	Snow Plows (was Police) 	FMN 	Public Works 
-154.81500 	WQCD547 	RM	162.2 PL	Milan Police 	Police: Dispatch  	FMN 	Law Dispatch 
-151.37000 	WQCD547 	RM		Milan Police Fut 	Police: Future 	FMN 	Law Dispatch 
-155.13000 	KSA330 	BM		Moline Siren 	Emergency Siren Data (was 123.0) 	Telm 	Data 
-158.92500 	KB62921 	M		Mol Water 	South Slope Water Treatment Plant 	FMN 	Data 
-155.31750 	WQPB648 	RM		PByron PublicWrk 	Public Works 	FMN 	Public Works 
-460.25000 	KNAG297 	RM	192.8 PL	RICOMM Law 	Police: Dispatch [Ch 1/2] (repeats RACOM TG 1597) 	FMN 	Law Dispatch 
-460.55000 	KNAW668 	RM	192.8 PL	RICOMM Tac1 	Police: Tac-1 [Ch 3/4] 	FMN 	Law Tac 
-460.02500 	KNAW668 	RM	192.8 PL	RICOMM Tac2 	Police: Tac-2 [Ch 5/6] 	FMN 	Law Tac 
-461.85000 	WNYM678 	RM	072 DPL	JRICas Sec-1 	{Link to} Jumers Casino Rock Island: Security [Ch 1] 	FMN 	Law Tac 
-154.34000 	KDA707 	RM	107.2 PL	RICOMM Fire 	Fire: Dispatch [Ch 1] 	FMN 	Fire Dispatch 
-155.61000 	WNWV945 	BM	107.2 PL	RI Yellow FG 	Fireground: Yellow 	FMN 	Fire-Tac 
-465.63750 	KDA707 	M		RICi FD Mask 	Fire: Mask Radios 	FMN 	Fire-Tac 
-155.34000 	KNNK415 	BM	179.9 PL	MERCI-1 1799 	Ambulances to Trinity West ER [Ch 4] 	FMN 	Hospital 
-150.99500 	KSG717 	RM	107.2 PL	RICi PubWrks 	Public Works 	FMN 	Public Works 
-453.95000 	WPWI772 	RM		RICi PW UHF 	Public Works 	FMN 	Public Works 
-158.76000 	KXE622 	BM	CSQ	RICi Water 	Water Department [Expired] 	FMN 	Public Works 
-453.51250 	WNWR508 	M		RICi PW UHF1 	Public Works 	FMN 	Public Works 
-458.51250 	WNWR508 	M		RICi PW UHF1 	Public Works  	FMN 	Public Works 
-451.28750 	WPWM376 	M		RICi Util-1 	Utilities  	FMN 	Public Works 
-456.28750 	WPWM376 	M		RICi Util-2 	Utilities  	FMN 	Public Works 
-151.20500 	KZD217 	BM	023 DPL	RICi Parks 	Parks and Recreation 	FMN 	Public Works 
-460.50000 	WPXG751 	RM	754 DPL	RICi Housing 	Housing Authority 	FMN 	Public Works 
-453.67500 	KNCM826 	RM	123.0 PL	Silvis Police 	Police: Dispatch - Old/Backup? 	FMN 	Law Dispatch 
-453.42500 	KNCM826 	F	131.8 PL	Silvis Police 2 	Police: Remote Link to 453.675 - Old/Backup? 	FMN 	Law Dispatch 
-453.90000 	KNCM826 	F	146.2 PL	Silvis Police 3 	Police: Remote Link to 453.675 - Old/Backup? 	FMN 	Law Dispatch 
-458.90000 	KNCM826 	F		Silvis Police 4 	Police: Remote Link to 453.675 - Old/Backup? 	FMN 	Law Dispatch 
-155.89500 	KAQ929 	RM	192.8 PL	Silvis FIre 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.44500 	WNGQ575 	BM		Silvis FireLocal 	Fire: Local 	FMN 	Fire-Tac 
-453.55000 	KNJV667 	RM	186.2 PL	Silvis PublcWrks 	Public Works 	FMN 	Public Works 
-451.60000 	WPNV707 	RM	123.0 PL	Johann Bus 2 	Buses (for schools?) 	FMN 	Schools 
-460.52500 	 	RM	146.2 PL	Johann Bus 1 	Buses [Licensed to County] 	FMN 	Schools 
-463.47500 	WNDX743 	RM		Atwd School OpsR 	Operations (Milan) 	FMN 	Schools 
-464.52500 	WNDX743 	BM		Atwd School OpsS 	Operations (Woodhill-Henry CO) 	FMN 	Schools 
-451.38750 	WQHJ524 	RM	054 DPL	EMSD Mnt/Sec 	Maintenance / Security 	FMN 	Schools 
-453.07500 	KDG928 	RM	134 DPL	EMSD37 Ops 	Operations 	FMN 	Schools 
-464.92500 	WPEV809 	RM	225 DPL	MolineSchool 	Operation/Security 	FMN 	Schools 
-461.35000 	WNAP851 	RM	606 DPL	RSD100 OpsR 	Operations 	FMN 	Schools 
-464.47500 	WNAP851 	M		RSD100 OpsS 	Operations 	FMN 	Schools 
-453.71250 	 	M	131.8 PL	RI School Sec  	Security [Reported in use - No license] 	FMN 	Schools 
-158.76000 	KXE622 	BM		RI School S/F/A  	Security/Faculty/Admin 	FMN 	Schools 
-453.66250 	KXE622 	RM	131.8 PL	RI High School 	High School - Ops at Football Game 	FMN 	Schools 
-463.32500 	 	RM	186.2 PL	Rockrdge School  	Rockridge School District [No License] 	FMN 	Schools 
-155.17500 	WPOY937 	BM		Silvis SchoolBus 	Buses 	FMN 	Schools 
-152.90000 	WQBZ825 	RM	173.8 PL	UTHS Ops 1 	Operations 	FMN 	Schools 
-160.14000 	WQBZ825 	RM	173.8 PL	UTHS Ops 2 	Operations 	FMN 	Schools 
-151.52000 	WQBZ825 	RM	173.8 PL	UTHS Ops 3 	Operations 	FMN 	Schools 
-452.40000 	 	RM	110.9 PL	AC Security 	Security [License?] 	FMN 	Security 
-464.37500 	WNQN513 	RM	167.9 PL	AC Maint/Esc 	Maintenance/Student Escorts 	FMN 	Schools 
-153.90500 	KNNS311 	BM		BHC Police 	Police: Dispatch 	FMN 	Law Dispatch 
-151.49000 	WPQG966 	RM	77.0 PL	BHC Janitor 	Janitorial 	FMN 	Schools 
-151.49000 	WPQG966 	RM	167.9 PL	BHC Maint 	Maintenance  	FMN 	Schools 
-154.54000 	KXH749 	BM		BHC 15454 	Operations 	FMN 	Schools 
-451.18750 	WQHJ487 	M		WIU FacMaint 	Facilities  	FMN 	Schools 
-Deere and Company - DMR (IL/IA)	 DMR Motorola Connect Plus (TRBO)	 Multiple	East Moline School District 37	 NXDN Icom IDAS Type D	 East Moline	John Deere - System 112	 DMR Motorola Connect Plus (TRBO)
- Various	Megacomm Corporation	 LTR Standard	 Davenport	Mid American Energy	 MPT-1327 Standard	 Various	Moline IL Public Works
- NXDN Icom IDAS Type D	 Moline	RACOM Network	 EDACS Networked Standard	 Various	Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois
+154.31000 	158.98500  	KNHH754 	RM	134 DPL	RICo Fire R 	Fire: Dispatch (Port Byron/Coal Valley R's) 	FMN 	Fire Dispatch 
+154.31000 	   	WNIP898 	BM	134 DPL	RICO Fire 	Fire: Countywide Dispatch  	FMN 	Fire Dispatch 
+154.98000 	   	WPYW766 	M	192.8 PL	B/H/A Fire 	Bar?/Hampton/Andalusia Fire: Paging/Dispatch (by Sheriff) 	FMN 	Fire Dispatch 
+154.98000 	156.03000  	KDD967 	RM	732 DPL	RICo FD/ESDA 	Fire: Dispatch / ESDA 	FMN 	Emergency Ops 
+154.28000 	159.27000  	KNGG526 	BM	CSQ	MO Fire M/A 	{Link to} MO Fire Mutual Aid (Scott Co) 	FMN 	Fire-Talk 
+159.15000 	153.81500  	WPMP978 	RM	192.8 PL	RICo Sheriff 1 	Sheriff: Dispatch / Rural Dispatch 	FMN 	Law Dispatch 
+155.71500 	   	KDD967 	BM	192.8 PL	RICo Sheriff 2 	Sheriff: Tactical / Secondary 	FMN 	Law Tac 
+154.98000 	   	KDD967 	BM	192.8 PL	RICo Sheriff 3 	Sheriff / ESDA (Local Government/Paging) 	FMN 	Law Tac 
+460.05000 	   	WPMP978 	M	192.8 PL	RICo Sheriff MX 	Sheriff: Mobile Extenders [Ch 2] 	FMN 	Law Tac 
+460.55000 	465.55000  	KNAW668 	RM	192.8 PL	RICo Sheriff 10 	Sheriff: Tac-10 / City Police [Ch 1/3] 	FMN 	Law Tac 
+154.74750 	   	WQFA617 	M		RICo ShrfHazMat1 	Sheriff: Haz Mat Robot  	Telm 	Data 
+453.36250 	   	WQFA617 	M		RICo ShrfHazMat2 	Sheriff: Haz Mat Robot 	FMN 	Data 
+155.37000 	   	WPMP978 	B	CSQ	ISP S/W P2P 	Quad-City Net / ISP Point-to-Point 	FMN 	Law Talk 
+460.08750 	   	WPMP978 	BM		RICo SDJail1 	Sheriff: Jail 	FMN 	Corrections 
+460.52500 	465.52500  	WPVA239 	RM		RICo SDJail2 	Sheriff: Jail Operations 	FMN 	Corrections 
+453.32500 	458.32500  	WAS519 	RM	203.5 PL	METRO Bus 	Bus Operations [Ch 1] 	FMN 	Transportation 
+453.50000 	458.35000  	WAS519 	RM	203.5 PL	METRO Ptrans 	Secondary - Paratransit [Ch 2] 	FMN 	Transportation 
+460.42500 	465.42500  	WAS519 	RM		METRO New 	Operations - Future 	FMN 	Transportation 
+453.80000 	458.50000  	WAS519 	RM		METRO Data 	AVLS Data (CSQ) 	Telm 	Data 
+155.82750 	   	WQDV498 	M		RICo Health 	Public Health Department 	FMN 	Public Works 
+453.97500 	458.97500  	KNHQ979 	RM	CC 1TG 100SL 1	RICo Highway 	Highway Department 	DMR 	Public Works 
+453.82500 	458.82500  	WPEH755 	RM	192.8 PL	GRICo House 	Greater Rock Island County Housing Department 	FMN 	Public Works 
+155.73750 	159.39000  	WQTP379 	RM		RICo For Preserv 	Ops / Law 	FMN 	Multi-Dispatch 
+152.27000 	157.53000  	WQBZ783 	RM	162.2 PL	IlliniHosp Sec 	Security / Maintenance 	FMN 	Business 
+159.51000 	151.73000  	WQBZ783 	RM		IlliniHosp Ops 	Operations 	FMN 	Business 
+155.22000 	   	KWK449 	BM		MERCI-220 	EMS Communications 	FMN 	EMS Dispatch 
+155.34000 	   	KWK449 	BM	110.9 PL	MERCI1 110.9 	Patient Reports (also 179.9?) 	FMN 	Hospital 
+155.40000 	   	KWK449 	M		MERCI-4 	Patient Reports 	FMN 	Hospital 
+461.65000 	466.65000  	KD34868 	RM		UPH N Ops  	North - Maintenance/Operations (Bettendorf) 	FMN 	Business 
+464.70000 	469.70000  	KD34868 	RM	225.7 PL	UPH N Hskpng 	North - Housekeeping (Bettendorf) 	FMN 	Business 
+462.97500 	467.97500  	WNZZ983 	RM	100.0 PL	Trinity EMS 	Trinity Ambulance Service 	FMN 	EMS Dispatch 
+451.92500 	456.92500  	KD34868 	RM	210.7 PL	TMC E Secrty 	Security 	FMN 	Security 
+464.02500 	469.02500  	KD34868 	RM		TMC E Ops 	Operations (not 146.2) 	FMN 	Business 
+155.34000 	   	KVM556 	B	179.9 PL	MERCI1 179.9 	Trinity East Medical Center (Moline) 	FMN 	Hospital 
+463.12500 	468.12500  	WNXK282 	RM	179.9 PL	MED-6 179.9 	Trinity East Medical Center  	FMN 	Hospital 
+464.67500 	469.67500  	KD34868 	RM		TMC W Maint 	West - Maintenance 	FMN 	Business 
+452.45000 	457.45000  	KD34868 	RM		TMC Ops A-2 	Maintenance/Operations  	FMN 	Business 
+461.55000 	466.55000  	KD34868 	RM		TMC E Maint 	East - Maintenance 	FMN 	Business 
+464.57500 	   	KD34868 	BM		TMC Ops B-1 	Maintenance/Operations 	FMN 	Business 
+155.34000 	   	KVM556 	B	179.9 PL	MERCI1 179.9 	Trinity West Medical Center (Rock Island) 	FMN 	Hospital 
+151.04000 	   	WNMR718 	BM	127.3 PL	CordTwp Road 	Cordova Township Road Maintenance 	FMN 	Public Works 
+151.04000 	   	WQPD388 	BM	67.0 PL	HampTwp Road 	Hampton Township Roads 	FMN 	Public Works 
+151.64000 	   	WQIF890 	BM		BlkhkTwpRoad 	Blackhawk Township Road Maintenance (Milan)  	FMN 	Public Works 
+153.96500 	   	WQHM963 	M		Anda FireLoc 	Fire: Local 	FMN 	Fire-Tac 
+458.53750 	   	KD22023 	M		Anda Fire RF 	Fire: Mobile Extender / RF Links  [Canceled 12/12] 	FMN 	Fire-Tac 
+154.16000 	   	KCQ290 	RM	244 DPL	Blackhawk Fire 	Fire: Dispatch (patch to RACOM 490) 	FMN 	Fire Dispatch 
+153.83000 	   	KCQ290 	M		Blackhawk FG 	Fireground 	FMN 	Fire-Tac 
+453.03750 	   	KCQ290 	M		Blkhk Fire RF1 	Fire: Receive Link  	FMN 	Fire-Tac 
+458.03750 	   	KCQ290 	M		Blkhk Fire RF2 	Fire: Receive Link  	FMN 	Fire-Tac 
+155.01000 	   	WNXY774 	BM		CClf Police 	Police: Dispatch (David 2x Units) 	FMN 	Law Dispatch 
+155.14500 	   	WNZA807 	BM		CCliff Village 	Village Ops 	FMN 	Public Works 
+154.05500 	   	KUH532 	BM	192.8 PL	CV Pub Works 	Public Works 	FMN 	Public Works 
+154.32500 	   	KXC494 	BM		Cordov Fire2 	Fire [Ch 2] 	FMN 	Fire-Tac 
+154.22000 	   	KXC494 	BM		ScottCo Fire 	Fire: Interop w/ Scott Co IA Fire 	FMN 	Fire-Tac 
+154.19000 	   	WQCV201 	BM	CSQ	RICO Fire Rural 	Fire: Dispatch 	FMN 	Fire Dispatch 
+156.01500 	   	WQID457 	M	118.8 PL	EMol PD c2c 	Police: Car-to-Car [Ch 2] 	FMN 	Law Tac 
+151.07750 	   	WQQQ965 	M		Hamp PD MX 	Police: Mobile Extenders  	FMN 	Law Tac 
+155.89500 	153.95000  	WPYW766 	RM	192.8 PL	Hampton Fire 	Fire: Dispatch (also Silvis FD, DB: Silvis) 	FMN 	Fire Dispatch 
+154.37000 	   	WPYW766 	BM		Barstw Fire2 	Fire: (mobiles heard) [Ch 2] 	FMN 	Fire-Tac 
+158.86500 	   	WQBP720 	M		Hmptn PubWks 	Public Works  	FMN 	Public Works 
+155.07000 	159.09000  	WQQQ965 	RM	186.2 PL	Hamp PW S/P 	Snow Plows (was Police) 	FMN 	Public Works 
+154.81500 	158.97000  	WQCD547 	RM	162.2 PL	Milan Police 	Police: Dispatch  	FMN 	Law Dispatch 
+151.37000 	153.79250  	WQCD547 	RM		Milan Police Fut 	Police: Future 	FMN 	Law Dispatch 
+155.13000 	   	KSA330 	BM		Moline Siren 	Emergency Siren Data (was 123.0) 	Telm 	Data 
+158.92500 	   	KB62921 	M		Mol Water 	South Slope Water Treatment Plant 	FMN 	Data 
+155.31750 	153.84500  	WQPB648 	RM		PByron PublicWrk 	Public Works 	FMN 	Public Works 
+460.25000 	465.25000  	KNAG297 	RM	192.8 PL	RICOMM Law 	Police: Dispatch [Ch 1/2] (repeats RACOM TG 1597) 	FMN 	Law Dispatch 
+460.55000 	465.55000  	KNAW668 	RM	192.8 PL	RICOMM Tac1 	Police: Tac-1 [Ch 3/4] 	FMN 	Law Tac 
+460.02500 	465.02500  	KNAW668 	RM	192.8 PL	RICOMM Tac2 	Police: Tac-2 [Ch 5/6] 	FMN 	Law Tac 
+461.85000 	466.85000  	WNYM678 	RM	072 DPL	JRICas Sec-1 	{Link to} Jumers Casino Rock Island: Security [Ch 1] 	FMN 	Law Tac 
+154.34000 	159.24000  	KDA707 	RM	107.2 PL	RICOMM Fire 	Fire: Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+155.61000 	   	WNWV945 	BM	107.2 PL	RI Yellow FG 	Fireground: Yellow 	FMN 	Fire-Tac 
+465.63750 	   	KDA707 	M		RICi FD Mask 	Fire: Mask Radios 	FMN 	Fire-Tac 
+155.34000 	   	KNNK415 	BM	179.9 PL	MERCI-1 1799 	Ambulances to Trinity West ER [Ch 4] 	FMN 	Hospital 
+150.99500 	156.24000  	KSG717 	RM	107.2 PL	RICi PubWrks 	Public Works 	FMN 	Public Works 
+453.95000 	458.95000  	WPWI772 	RM		RICi PW UHF 	Public Works 	FMN 	Public Works 
+158.76000 	   	KXE622 	BM	CSQ	RICi Water 	Water Department [Expired] 	FMN 	Public Works 
+453.51250 	   	WNWR508 	M		RICi PW UHF1 	Public Works 	FMN 	Public Works 
+458.51250 	   	WNWR508 	M		RICi PW UHF1 	Public Works  	FMN 	Public Works 
+451.28750 	   	WPWM376 	M		RICi Util-1 	Utilities  	FMN 	Public Works 
+456.28750 	   	WPWM376 	M		RICi Util-2 	Utilities  	FMN 	Public Works 
+151.20500 	   	KZD217 	BM	023 DPL	RICi Parks 	Parks and Recreation 	FMN 	Public Works 
+460.50000 	465.50000  	WPXG751 	RM	754 DPL	RICi Housing 	Housing Authority 	FMN 	Public Works 
+453.67500 	458.67500  	KNCM826 	RM	123.0 PL	Silvis Police 	Police: Dispatch - Old/Backup? 	FMN 	Law Dispatch 
+453.42500 	   	KNCM826 	F	131.8 PL	Silvis Police 2 	Police: Remote Link to 453.675 - Old/Backup? 	FMN 	Law Dispatch 
+453.90000 	   	KNCM826 	F	146.2 PL	Silvis Police 3 	Police: Remote Link to 453.675 - Old/Backup? 	FMN 	Law Dispatch 
+458.90000 	   	KNCM826 	F		Silvis Police 4 	Police: Remote Link to 453.675 - Old/Backup? 	FMN 	Law Dispatch 
+155.89500 	153.95000  	KAQ929 	RM	192.8 PL	Silvis FIre 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.44500 	   	WNGQ575 	BM		Silvis FireLocal 	Fire: Local 	FMN 	Fire-Tac 
+453.55000 	458.55000  	KNJV667 	RM	186.2 PL	Silvis PublcWrks 	Public Works 	FMN 	Public Works 
+451.60000 	456.60000  	WPNV707 	RM	123.0 PL	Johann Bus 2 	Buses (for schools?) 	FMN 	Schools 
+460.52500 	465.52500  	 	RM	146.2 PL	Johann Bus 1 	Buses [Licensed to County] 	FMN 	Schools 
+463.47500 	468.47500  	WNDX743 	RM		Atwd School OpsR 	Operations (Milan) 	FMN 	Schools 
+464.52500 	   	WNDX743 	BM		Atwd School OpsS 	Operations (Woodhill-Henry CO) 	FMN 	Schools 
+451.38750 	456.38750  	WQHJ524 	RM	054 DPL	EMSD Mnt/Sec 	Maintenance / Security 	FMN 	Schools 
+453.07500 	458.07500  	KDG928 	RM	134 DPL	EMSD37 Ops 	Operations 	FMN 	Schools 
+464.92500 	469.92500  	WPEV809 	RM	225 DPL	MolineSchool 	Operation/Security 	FMN 	Schools 
+461.35000 	466.35000  	WNAP851 	RM	606 DPL	RSD100 OpsR 	Operations 	FMN 	Schools 
+464.47500 	   	WNAP851 	M		RSD100 OpsS 	Operations 	FMN 	Schools 
+453.71250 	   	 	M	131.8 PL	RI School Sec  	Security [Reported in use - No license] 	FMN 	Schools 
+158.76000 	   	KXE622 	BM		RI School S/F/A  	Security/Faculty/Admin 	FMN 	Schools 
+453.66250 	458.66250  	KXE622 	RM	131.8 PL	RI High School 	High School - Ops at Football Game 	FMN 	Schools 
+463.32500 	468.32500  	 	RM	186.2 PL	Rockrdge School  	Rockridge School District [No License] 	FMN 	Schools 
+155.17500 	   	WPOY937 	BM		Silvis SchoolBus 	Buses 	FMN 	Schools 
+152.90000 	159.64500  	WQBZ825 	RM	173.8 PL	UTHS Ops 1 	Operations 	FMN 	Schools 
+160.14000 	   	WQBZ825 	RM	173.8 PL	UTHS Ops 2 	Operations 	FMN 	Schools 
+151.52000 	160.14000  	WQBZ825 	RM	173.8 PL	UTHS Ops 3 	Operations 	FMN 	Schools 
+452.40000 	457.40000  	 	RM	110.9 PL	AC Security 	Security [License?] 	FMN 	Security 
+464.37500 	468.37500  	WNQN513 	RM	167.9 PL	AC Maint/Esc 	Maintenance/Student Escorts 	FMN 	Schools 
+153.90500 	   	KNNS311 	BM		BHC Police 	Police: Dispatch 	FMN 	Law Dispatch 
+151.49000 	154.49000  	WPQG966 	RM	77.0 PL	BHC Janitor 	Janitorial 	FMN 	Schools 
+151.49000 	154.49000  	WPQG966 	RM	167.9 PL	BHC Maint 	Maintenance  	FMN 	Schools 
+154.54000 	   	KXH749 	BM		BHC 15454 	Operations 	FMN 	Schools 
+451.18750 	   	WQHJ487 	M		WIU FacMaint 	Facilities  	FMN 	Schools 
+Deere and Company - DMR (IL/IA)	 DMR Motorola Connect Plus (TRBO)	 Multiple	East Moline School District 37	 NXDN Icom IDAS Type D	 East Moline	Megacomm Corporation	 LTR Standard	 Davenport
+Mid American Energy	 MPT-1327 Standard	 Various	Moline IL Public Works	 NXDN Icom IDAS Type D	 Moline	RACOM Network	 EDACS Networked Standard	 Various
 US Army - Rock Island Arsenal 	 Project 25 Phase I	 Rock Island	

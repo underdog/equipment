@@ -1,85 +1,84 @@
-460.02500 	KNEF739 	RM	023 DPL	Macon Courthouse 	Sheriff: Courthouse Security 	FMN 	Corrections 
-460.16250 	KNEF739 	RM	025 DPL	Macon Shrf CS  	Sheriff / Courthouse: Security / Ops [CS] 	FMN 	Corrections 
-460.18750 	KNEF739 	RM	023 DPL	Macon Jail Ops 1 	Sheriff: Jail - Prisoner Ops (Food) 	FMN 	Corrections 
-460.13750 	KNEF739 	RM	051 DPL	Macon Jail Ops 2 	Sheriff: Jail - Maintenance? (Deliveries, etc) 	FMN 	Corrections 
-460.18750 	KNEF739 	RM	271 DPL	Macon Jail Ops 3 	Sheriff: Jail - Ops 	FMN 	Corrections 
-154.98000 	KBW832 	BM	97.4 PL	Macon Fire 	Fire: Countywide Dispatch -- Rural Fire/EMS [Ch 1] 	FMN 	Fire Dispatch 
-153.89000 	KSG439 	BM	123.0 PL	Macon Fireground 	Fire: Countywide Fireground [Ch 2] 	FMN 	Fire-Tac 
-458.66250 	WPRX861 	F	118.8 PL	Macon Co RF  	Remote Link (Back PSAP for Piatt County 911) 	FMN 	Fire Dispatch 
-460.20000 	KNEF739 	F	156 DPL	MaconFire RF Mac 	Fire: Remote Link (Macon) (Tone Carrier) 	FMN 	Fire Dispatch 
-465.20000 	KNEF739 	F	156 DPL	Macon Fire RF Wb 	Fire: Remote Link (Warrensburg) (Tone Carrier) 	FMN 	Fire Dispatch 
-464.00000 	WPYL657 	RM		Macon Health Boa 	Mental Health Board: Administration [Expired 9/13] 	FMN 	Public Works 
-460.05000 	WNVT878 	RM		Macon EMA UHF  	EMA 	FMN 	Emergency Ops 
-155.25000 	KNEF739 	RM	131.8 PL	Macon ESDA 	EMA / Sheriff: Alerts (like ISPERN) 	FMN 	Emergency Ops 
-460.13750 	KNEF739 	M	127.3 PL	Macon EMA RF5b  	Remote Receive Links/Extenders? (Low power) 	FMN 	Emergency Ops 
-460.38750 	KNEF739 	F	162 DPL	Macon RL 4603875 	Remote Link (Constant Tone Carrier) 	FMN 	Multi-Dispatch 
-155.74500 	KBW832 	BM		Macon EMA Siren  	ESDA: Outdoor Warning Sirens (123.0 ?) 	Telm 	Data 
-75.74000 	KNEF739 	F		Macon EMA RF2  	EMA: Emergency Siren Links (Macon) 	FM 	Emergency Ops 
-75.80000 	KNEF739 	F		Macon EMA RF3  	EMA: Emergency Siren Links (Oreana) 	FM 	Emergency Ops 
-75.98000 	KNEF739 	F		Macon EMA RF4  	EMA: Emergency Siren Links (Warrensburg) 	FM 	Emergency Ops 
-453.48750 	KNEF739 	F	023 DPL	Macon EMA RF1  	EMA: Emergency Siren Links (Mt Zion) 	FMN 	Emergency Ops 
-151.13000 	KWX965 	RM	131.8 PL	MaconCo Highway  	Highway Department / Snow Plows 	FMN 	Public Works 
-453.56250 	KDN350 	RM	CC 1TG 5626SL 1	DAS Decatur N 1A 	EMS: Dispatch (Decatur-North)  	DMR 	EMS Dispatch 
-453.56250 	KDN350 	RM	CC 1TG 6375SL 2	DAS Shelby6375DN 	EMS: Dispatch (Decatur-North)  	DMR 	EMS Dispatch 
-453.63750 	KDN350 	RM	CC 2TG 5626SL 1	DAS Decatur N 2  	EMS: Dispatch (Decatur-North) 	DMR 	EMS Dispatch 
-462.97500 	KDN350 	RM	CC 3TG 5626SL 1	DAS Decatur S 3A 	EMS: Dispatch (Decatur-South) 	DMR 	EMS Dispatch 
-453.52500 	KDN350 	RM	CC 4TG 6375SL 1	DAS Shelby6375DS 	EMS: Dispatch (Decatur-South) 	DMR 	EMS Dispatch 
-464.45000 	WNDC942 	RM	CC 1TG 301SL *	DMH Security 	Security  	DMR 	Security 
-464.45000 	WNDC942 	RM	CC 1TG 304SL 2	DMH Ops 304 	Operations 	DMR 	Business 
-463.97500 	WNDC942 	RM	CC 1TG 302SL 2	DMH Maintenance 	Maintenance 	DMR 	Business 
-151.77500 	WPBZ641 	BM	CSQ	DMH Ops/Paging 	Paging (Analog/Digital) 	FMN 	Business 
-155.34000 	KNAS254 	B	118.8 PL	MERCI1 118.8 	Patient Reports 	FMN 	Hospital 
-155.34000 	KNAS254 	B	151.4 PL	MERCI1 151.4 	Patient Reports 	FMN 	Hospital 
-451.40000 	WQVM300 	RM	136.5 PL	SMH Admn/Sec 	Admin / Security  	FMN 	Business 
-453.63750 	KDN350 	RM	047 DPL	SMH Ops A 	Operations (also DAS Digital) 	FMN 	Business 
-460.87500 	WPHU421 	RM	127.3 PL	SMH Ops B 	Operations 	FMN 	Business 
-464.32500 	WPZQ983 	RM	186.2 PL	SMH Maint 	Maintenance 	FMN 	Business 
-152.00750 	WPZS554 	B		SMH Paging 	Paging (CSQ Data) 	Telm 	Data 
-155.34000 	KNDJ500 	BM	151.4 PL	MERCI1 151.4 	Patient Reports  	FMN 	Hospital 
-463.00000 	 	BM	151.4 PL	MED-1 151.4 	Patient Reports  	FMN 	Hospital 
-453.10000 	KAR805 	RM		HickryPtTwp 	Hickory Point Township Road District (in use 1/14) 	DMR 	Public Works 
-151.10000 	WNLQ705 	RM	107.2 PL	PlsntViewTwp 	Pleasant View Township Roads (Blue Mound) (also NXDN?) 	FMN 	Public Works 
-45.72000 	KNCY892 	BM		S MaconTwp 	South Macon Township Road Maintenance 	FM 	Public Works 
-154.98000 	KUJ877 	RM	97.4 PL	Macon Fire 	Fire: Local Repeater on County Fire 	FMN 	Fire Dispatch 
-460.37500 	WQFG356 	RM		BMnd Police 	Police: Dispatch 	FMN 	Law Dispatch 
-154.14500 	WQK315 	BM		BlueMound FG 	Fireground  	FMN 	Fire-Tac 
-451.03750 	WQCC824 	F		Dec WDD1 	Water Distribution Data (CSQ) 	Telm 	Data 
-451.06250 	WQCC593 	F		Dec WDD2 	Water Distribution Data (CSQ) 	Telm 	Data 
-453.98750 	WQBZ744 	M		Dec Parks1 	Park District Ops 	FMN 	Public Works 
-458.98750 	WQBZ744 	M		Dec Parks2 	Park District Ops 	FMN 	Public Works 
-453.80000 	KXO730 	BM		Dec HsAuth 	Housing Authority: Maintenance 	FMN 	Public Works 
-453.32500 	KNHK409 	BM	155 DPL	DSD Survey 	Sanitary District: Ops / Alarms 	FMN 	Public Works 
-453.95000 	KNHK409 	RM		DSD GPS/RTK 	Sanitary District: GPS RTK (Voice/Digital) 	FMN 	Data 
-460.06250 	KUK356 	F	CSQ	SWhtlnd Fire RF 	South Wheatland Fire: Remote Link (Carrier) 	FMN 	Fire Dispatch 
-451.08750 	KD44854 	F		Forsyth WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
-154.74000 	KWH776 	BM		MtZn Police 	Police: Local (rare use?) 	FMN 	Law Tac 
-155.14500 	KUO877 	BM	131.8 PL	MountZion FG 	Fireground 	FMN 	Fire-Tac 
-155.98500 	WPKS454 	RM	CC 1TG *SL *	MtZn PubWrks 	Public Works (Data detected) 	DMR 	Public Works 
-151.33250 	KXW343 	RM		Niantic Fire 	Fire (repeats County Fire) 	FMN 	Fire Dispatch 
-451.08250 	WQRT794 	F		Oreana WDD 	Water Data 	Telm 	Data 
-465.06250 	KUK356 	F	CSQ	SWhtlnd FD RF 	Fire: Remote Link (Carrier, no tone) 	FMN 	Fire Dispatch 
-153.92000 	KSH295 	BM		Wrrnsbg Fire 	Fire 	FMN 	Fire-Tac 
-155.23500 	 	BM	114.8 PL	FS Bus Ntown 	First Student: Buses (Norristown-NASD contracted buses and private schools) 	FMN 	Schools 
-155.23500 	KVB394 	RM	251 DPL	WLSD11 Bus 	Warrensburg-Latham School District 11: Buses 	FMN 	Schools 
-155.26500 	 	BM	82.5 PL	Trans Srv Sd 	Transportation Services (Franconia) [No License] 	FMN 	Schools 
-159.54000 	WPTK252 	BM	203.5 PL	FS Bus MtZ/M 	First Student: Buses (Mt Zion) [or Macon WPTJ249] 	FMN 	Schools 
-159.61500 	WPWL843 	BM	203.5 PL	FS Bus BMnd 	First Student: Buses (Blue Mound)  	FMN 	Schools 
-460.12500 	WPZN846 	RM	141.3 PL	FS Bus Colon 	First Student: Main Dispatch (Colonial School) 	FMN 	Schools 
-462.17500 	WPJT277 	RM	192.8 PL	Balgo Transp 	Balgo Company (Norristown) 	FMN 	Schools 
-463.35000 	WNKT662 	RM	91.5 PL	NHSD6 Ops 	Niantic-Harristown Community Unit School District 6: Ops  	FMN 	Schools 
-460.67500 	WNRL266 	RM	85.4 PL	MF Schools 	Maroa-Forsyth School District 	FMN 	Schools 
-463.35000 	WNKT662 	RM	712 DPL	SV Schools 	Sangamon Valley CUSD 9 (Niantic) 	FMN 	Schools 
-157.48500 	WQQZ864 	BM	131.8 PL	FS Bus Argnt 	First Student Buses (Argenta) 	FMN 	Schools 
-453.85000 	WQOE702 	RM	CC 1TG 8SL *	ArOr Schools 	Operations (see notes) 	DMR 	Schools 
-464.40000 	KRC791 	RM	506 DPL	Dec Sch Bus 	Buses  	FMN 	Schools 
-451.57500 	WPLX982 	RM	CC 12TG 10SL 1	Alltown Bus Dec 	Alltown Bus Service 	DMR 	Schools 
-451.02500 	WQVZ500 	RM	CC 2TG 3SL *	Meridian SchOps3 	Operations 	DMRE 	Schools 
-464.52500 	WQJN644 	RM	754 DPL	MtZionSchBus 	Buses / Admin 	FMN 	Schools 
-452.25000 	WPQC740 	RM	71.9 PL	MU Security1 	Security 	FMN 	Security 
-463.42500 	WPOD896 	RM	023 DPL	MU Security2 	Security 	FMN 	Security 
-461.02500 	WPNZ985 	RM	051 DPL	MU FacMaint 	Facilities Maintenance 	FMN 	Schools 
-461.30000 	WPIS913 	RM	271 DPL	RCC Ops 1 	Operations  	FMN 	Schools 
-855.26250 	WPIT628 	RM	CC 7TG *SL *	RCC Ops 2 	Operations 	DMR 	Schools 
-Archer Daniels Midland - Decatur IL (Tier 3)	 DMR Tier 3	 Decatur	Barbeck Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central IL	Caterpillar Corporation (DMR)	 DMR Motorola Connect Plus (TRBO)
- Decatur	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Craig Antenna Service (Central IL)
- LTR Standard	 Harristown	Tate and Lyle - Decatur IL (DMR)	 DMR Motorola Connect Plus (TRBO)	 Decatur	
+460.02500 	465.02500  	KNEF739 	RM	023 DPL	Macon Courthouse 	Sheriff: Courthouse Security 	FMN 	Corrections 
+460.16250 	465.16250  	KNEF739 	RM	025 DPL	Macon Shrf CS  	Sheriff / Courthouse: Security / Ops [CS] 	FMN 	Corrections 
+460.18750 	465.18750  	KNEF739 	RM	023 DPL	Macon Jail Ops 1 	Sheriff: Jail - Prisoner Ops (Food) 	FMN 	Corrections 
+460.13750 	465.13750  	KNEF739 	RM	051 DPL	Macon Jail Ops 2 	Sheriff: Jail - Maintenance? (Deliveries, etc) 	FMN 	Corrections 
+460.18750 	465.18750  	KNEF739 	RM	271 DPL	Macon Jail Ops 3 	Sheriff: Jail - Ops 	FMN 	Corrections 
+154.98000 	   	KBW832 	BM	97.4 PL	Macon Fire 	Fire: Countywide Dispatch -- Rural Fire/EMS [Ch 1] 	FMN 	Fire Dispatch 
+153.89000 	   	KSG439 	BM	123.0 PL	Macon Fireground 	Fire: Countywide Fireground [Ch 2] 	FMN 	Fire-Tac 
+458.66250 	   	WPRX861 	F	118.8 PL	Macon Co RF  	Remote Link (Back PSAP for Piatt County 911) 	FMN 	Fire Dispatch 
+460.20000 	   	KNEF739 	F	156 DPL	MaconFire RF Mac 	Fire: Remote Link (Macon) (Tone Carrier) 	FMN 	Fire Dispatch 
+465.20000 	   	KNEF739 	F	156 DPL	Macon Fire RF Wb 	Fire: Remote Link (Warrensburg) (Tone Carrier) 	FMN 	Fire Dispatch 
+464.00000 	469.00000  	WPYL657 	RM		Macon Health Boa 	Mental Health Board: Administration [Expired 9/13] 	FMN 	Public Works 
+460.05000 	465.05000  	WNVT878 	RM		Macon EMA UHF  	EMA 	FMN 	Emergency Ops 
+155.25000 	155.91000  	KNEF739 	RM	131.8 PL	Macon ESDA 	EMA / Sheriff: Alerts (like ISPERN) 	FMN 	Emergency Ops 
+460.13750 	   	KNEF739 	M	127.3 PL	Macon EMA RF5b  	Remote Receive Links/Extenders? (Low power) 	FMN 	Emergency Ops 
+460.38750 	   	KNEF739 	F	162 DPL	Macon RL 4603875 	Remote Link (Constant Tone Carrier) 	FMN 	Multi-Dispatch 
+155.74500 	   	KBW832 	BM		Macon EMA Siren  	ESDA: Outdoor Warning Sirens (123.0 ?) 	Telm 	Data 
+75.74000 	   	KNEF739 	F		Macon EMA RF2  	EMA: Emergency Siren Links (Macon) 	FM 	Emergency Ops 
+75.80000 	   	KNEF739 	F		Macon EMA RF3  	EMA: Emergency Siren Links (Oreana) 	FM 	Emergency Ops 
+75.98000 	   	KNEF739 	F		Macon EMA RF4  	EMA: Emergency Siren Links (Warrensburg) 	FM 	Emergency Ops 
+453.48750 	   	KNEF739 	F	023 DPL	Macon EMA RF1  	EMA: Emergency Siren Links (Mt Zion) 	FMN 	Emergency Ops 
+151.13000 	156.12000  	KWX965 	RM	131.8 PL	MaconCo Highway  	Highway Department / Snow Plows 	FMN 	Public Works 
+453.56250 	458.56250  	KDN350 	RM	CC 1TG 5626SL 1	DAS Decatur N 1A 	EMS: Dispatch (Decatur-North)  	DMR 	EMS Dispatch 
+453.56250 	458.56250  	KDN350 	RM	CC 1TG 6375SL 2	DAS Shelby6375DN 	EMS: Dispatch (Decatur-North)  	DMR 	EMS Dispatch 
+453.63750 	458.63750  	KDN350 	RM	CC 2TG 5626SL 1	DAS Decatur N 2  	EMS: Dispatch (Decatur-North) 	DMR 	EMS Dispatch 
+462.97500 	467.97500  	KDN350 	RM	CC 3TG 5626SL 1	DAS Decatur S 3A 	EMS: Dispatch (Decatur-South) 	DMR 	EMS Dispatch 
+453.52500 	458.52500  	KDN350 	RM	CC 4TG 6375SL 1	DAS Shelby6375DS 	EMS: Dispatch (Decatur-South) 	DMR 	EMS Dispatch 
+464.45000 	469.45000  	WNDC942 	RM	CC 1TG 301SL *	DMH Security 	Security  	DMR 	Security 
+464.45000 	469.45000  	WNDC942 	RM	CC 1TG 304SL 2	DMH Ops 304 	Operations 	DMR 	Business 
+463.97500 	468.97500  	WNDC942 	RM	CC 1TG 302SL 2	DMH Maintenance 	Maintenance 	DMR 	Business 
+151.77500 	   	WPBZ641 	BM	CSQ	DMH Ops/Paging 	Paging (Analog/Digital) 	FMN 	Business 
+155.34000 	   	KNAS254 	B	118.8 PL	MERCI1 118.8 	Patient Reports 	FMN 	Hospital 
+155.34000 	   	KNAS254 	B	151.4 PL	MERCI1 151.4 	Patient Reports 	FMN 	Hospital 
+451.40000 	456.40000  	WQVM300 	RM	136.5 PL	SMH Admn/Sec 	Admin / Security  	FMN 	Business 
+453.63750 	458.63750  	KDN350 	RM	047 DPL	SMH Ops A 	Operations (also DAS Digital) 	FMN 	Business 
+460.87500 	465.87500  	WPHU421 	RM	127.3 PL	SMH Ops B 	Operations 	FMN 	Business 
+464.32500 	469.32500  	WPZQ983 	RM	186.2 PL	SMH Maint 	Maintenance 	FMN 	Business 
+152.00750 	   	WPZS554 	B		SMH Paging 	Paging (CSQ Data) 	Telm 	Data 
+155.34000 	   	KNDJ500 	BM	151.4 PL	MERCI1 151.4 	Patient Reports  	FMN 	Hospital 
+463.00000 	468.00000  	 	BM	151.4 PL	MED-1 151.4 	Patient Reports  	FMN 	Hospital 
+453.10000 	458.10000  	KAR805 	RM		HickryPtTwp 	Hickory Point Township Road District (in use 1/14) 	DMR 	Public Works 
+151.10000 	156.12000  	WNLQ705 	RM	107.2 PL	PlsntViewTwp 	Pleasant View Township Roads (Blue Mound) (also NXDN?) 	FMN 	Public Works 
+45.72000 	   	KNCY892 	BM		S MaconTwp 	South Macon Township Road Maintenance 	FM 	Public Works 
+154.98000 	159.04500  	KUJ877 	RM	97.4 PL	Macon Fire 	Fire: Local Repeater on County Fire 	FMN 	Fire Dispatch 
+460.37500 	465.37500  	WQFG356 	RM		BMnd Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.14500 	   	WQK315 	BM		BlueMound FG 	Fireground  	FMN 	Fire-Tac 
+451.03750 	   	WQCC824 	F		Dec WDD1 	Water Distribution Data (CSQ) 	Telm 	Data 
+451.06250 	   	WQCC593 	F		Dec WDD2 	Water Distribution Data (CSQ) 	Telm 	Data 
+453.98750 	   	WQBZ744 	M		Dec Parks1 	Park District Ops 	FMN 	Public Works 
+458.98750 	   	WQBZ744 	M		Dec Parks2 	Park District Ops 	FMN 	Public Works 
+453.80000 	458.80000  	KXO730 	BM		Dec HsAuth 	Housing Authority: Maintenance 	FMN 	Public Works 
+453.32500 	   	KNHK409 	BM	155 DPL	DSD Survey 	Sanitary District: Ops / Alarms 	FMN 	Public Works 
+453.95000 	458.95000  	KNHK409 	RM		DSD GPS/RTK 	Sanitary District: GPS RTK (Voice/Digital) 	FMN 	Data 
+460.06250 	   	KUK356 	F	CSQ	SWhtlnd Fire RF 	South Wheatland Fire: Remote Link (Carrier) 	FMN 	Fire Dispatch 
+451.08750 	   	KD44854 	F		Forsyth WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+154.74000 	   	KWH776 	BM		MtZn Police 	Police: Local (rare use?) 	FMN 	Law Tac 
+155.14500 	   	KUO877 	BM	131.8 PL	MountZion FG 	Fireground 	FMN 	Fire-Tac 
+155.98500 	153.90500  	WPKS454 	RM	CC 1TG *SL *	MtZn PubWrks 	Public Works (Data detected) 	DMR 	Public Works 
+151.33250 	154.98000  	KXW343 	RM		Niantic Fire 	Fire (repeats County Fire) 	FMN 	Fire Dispatch 
+451.08250 	   	WQRT794 	F		Oreana WDD 	Water Data 	Telm 	Data 
+465.06250 	   	KUK356 	F	CSQ	SWhtlnd FD RF 	Fire: Remote Link (Carrier, no tone) 	FMN 	Fire Dispatch 
+153.92000 	   	KSH295 	BM		Wrrnsbg Fire 	Fire 	FMN 	Fire-Tac 
+155.23500 	   	 	BM	114.8 PL	FS Bus Ntown 	First Student: Buses (Norristown-NASD contracted buses and private schools) 	FMN 	Schools 
+155.23500 	159.25500  	KVB394 	RM	251 DPL	WLSD11 Bus 	Warrensburg-Latham School District 11: Buses 	FMN 	Schools 
+155.26500 	   	 	BM	82.5 PL	Trans Srv Sd 	Transportation Services (Franconia) [No License] 	FMN 	Schools 
+159.54000 	   	WPTK252 	BM	203.5 PL	FS Bus MtZ/M 	First Student: Buses (Mt Zion) [or Macon WPTJ249] 	FMN 	Schools 
+159.61500 	   	WPWL843 	BM	203.5 PL	FS Bus BMnd 	First Student: Buses (Blue Mound)  	FMN 	Schools 
+460.12500 	465.12500  	WPZN846 	RM	141.3 PL	FS Bus Colon 	First Student: Main Dispatch (Colonial School) 	FMN 	Schools 
+462.17500 	467.17500  	WPJT277 	RM	192.8 PL	Balgo Transp 	Balgo Company (Norristown) 	FMN 	Schools 
+463.35000 	468.35000  	WNKT662 	RM	91.5 PL	NHSD6 Ops 	Niantic-Harristown Community Unit School District 6: Ops  	FMN 	Schools 
+460.67500 	465.67500  	WNRL266 	RM	85.4 PL	MF Schools 	Maroa-Forsyth School District 	FMN 	Schools 
+463.35000 	468.35000  	WNKT662 	RM	712 DPL	SV Schools 	Sangamon Valley CUSD 9 (Niantic) 	FMN 	Schools 
+157.48500 	   	WQQZ864 	BM	131.8 PL	FS Bus Argnt 	First Student Buses (Argenta) 	FMN 	Schools 
+453.85000 	458.85000  	WQOE702 	RM	CC 1TG 8SL *	ArOr Schools 	Operations (see notes) 	DMR 	Schools 
+464.40000 	469.40000  	KRC791 	RM	506 DPL	Dec Sch Bus 	Buses  	FMN 	Schools 
+451.57500 	456.57500  	WPLX982 	RM	CC 12TG 10SL 1	Alltown Bus Dec 	Alltown Bus Service 	DMR 	Schools 
+451.02500 	456.02500  	WQVZ500 	RM	CC 2TG 3SL *	Meridian SchOps3 	Operations 	DMRE 	Schools 
+464.52500 	469.52500  	WQJN644 	RM	754 DPL	MtZionSchBus 	Buses / Admin 	FMN 	Schools 
+452.25000 	457.25000  	WPQC740 	RM	71.9 PL	MU Security1 	Security 	FMN 	Security 
+463.42500 	468.42500  	WPOD896 	RM	023 DPL	MU Security2 	Security 	FMN 	Security 
+461.02500 	466.02500  	WPNZ985 	RM	051 DPL	MU FacMaint 	Facilities Maintenance 	FMN 	Schools 
+461.30000 	466.30000  	WPIS913 	RM	271 DPL	RCC Ops 1 	Operations  	FMN 	Schools 
+855.26250 	810.26250  	WPIT628 	RM	CC 7TG *SL *	RCC Ops 2 	Operations 	DMR 	Schools 
+Archer Daniels Midland - Decatur IL (Tier 3)	 DMR Tier 3	 Decatur	Caterpillar Corporation (DMR)	 DMR Motorola Connect Plus (TRBO)	 Decatur	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide
+Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Craig Antenna Service (Central IL)	 LTR Standard	 Harristown	Tate and Lyle - Decatur IL (DMR)	 DMR Motorola Connect Plus (TRBO)	 Decatur

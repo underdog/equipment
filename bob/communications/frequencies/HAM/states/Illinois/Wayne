@@ -1,39 +1,40 @@
-155.53500 	WSL593 	RM	131.8 PL	Wayne Sheriff 1 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-155.53500 	WSL593 	RM	131.8 PL	Wayne Sheriff 1 	Sheriff: Scrambled [Ch 8]  	FMNE 	Law Dispatch 
-458.26250 	WRCA326 	F	CSQ	Wayne Shrf RF1 	Sheriff: Remote Link - Mt Erie 	FMN 	Law Dispatch 
-458.33750 	WRCA326 	F		Wayne Shrf RF3 	Sheriff: Remote Link - Wayne City [NEW] 	FMN 	Law Dispatch 
-458.47500 	WRCA326 	F	CSQ	Wayne Shrf RF2 	Sheriff: Remote Link - Fairfield 	FMN 	Law Dispatch 
-458.83750 	WRCA326 	F	CSQ	Wayne Shrf RF4 	Sheriff: Remote Link - Johnsonville 	FMN 	Law Dispatch 
-154.86000 	KNIK563 	BM	85.4 PL	Wayne Sheriff 2 	Sheriff: Operations [Ch 2]  	FMN 	Law Tac 
-155.39250 	WQEK969 	BM		WayneHealth1 	Health Department 	FMN 	Public Works 
-156.18000 	WQEQ906 	BM	131.8 PL	Wayne ESDA 	Emergency Management 	FMN 	Emergency Ops 
-154.16750 	WQEK969 	M		WayneHealth2 	Health Department 	FMN 	Public Works 
-154.43000 	KDX393 	BM	77.0 PL	Wayn FireEMS 	Fire/EMS: Countywide Dispatch [Ch 1] 	FMN 	Fire Dispatch 
-155.80500 	 	BM	151.4 PL	NWayne EMS 	North Wayne Ambulance: Dispatch 	FMN 	EMS Dispatch 
-156.24000 	KJH215 	RM	103.5 PL	WayneHighway 	Highway Department (also D606?) 	FMN 	Public Works 
-154.19000 	WQKU819 	RM	151.4 PL	NWayne EMS 	EMS: Paging/Dispatch (DB: County) 	FMN 	EMS Dispatch 
-151.37000 	WQIH362 	RM	261 DPL	Fairfield EMS 	EMS: Tone-Outs / Dispatch 	FMN 	EMS Dispatch 
-159.94000 	WPZJ709 	RM		FMH Ops 	Operations 	FMN 	Business 
-155.34000 	WNDH765 	B	151.4 PL	MERCI1 151.4 	Patient Reports 	FMN 	Hospital 
-155.34000 	WNDH765 	BM	210.7 PL	MERCI1 210.7 	Patient Reports / Air-Evac Landing Zone 	FMN 	Hospital 
-153.74000 	WPKE702 	M		KeithTs Road 	Keith Township: Road Maintenance  	FMN 	Public Works 
-155.14500 	WPCB561 	BM		OrchdTs Road 	Orchard Township: Road Maintenance 	FMN 	Public Works 
-151.41500 	WQCG936 	RM		FairfieldPolice 	Police: Dispatch (in use) 	NXDN 	Law Dispatch 
-154.32500 	WPYP230 	RM	156 DPL	Fairfield Fire 	Fairfield Fire: Paging / Dispatch / Ops 	FMN 	Fire Dispatch 
-154.38500 	KNIC338 	RM	97.4 PL	FairfieldRurFire 	Fairfield Rural Fire: Ops 	FMN 	Fire-Tac 
-453.67500 	WPYP230 	F		Frfld Fire RF1 	Fire: Remote Link - Dispatch to 154.43 tower (108 N West 7th) 	FMN 	Fire Dispatch 
-458.67500 	WPYP230 	F		Frfld Fire RF2 	Fire: Remote Link - 154.43 tower to Dispatch (2.6m NE of Fairfield) 	FMN 	Fire Dispatch 
-155.83500 	WQCU564 	RM	167.9 PL	Fairfield PubWrk 	Public Works / City Services 	FMN 	Public Works 
-452.35000 	WNYW370 	F		Fairfield PW WDD 	Public Works: Water Distribution Data 	Telm 	Public Works 
-119.42500 	WRLB2834 	F	CSQ	Fairfield Airprt 	Fairfield Municipal Airport 	AM 	Aircraft 
-154.01000 	WNYH747 	BM		WCtyFPD Ops 	Fire: Operations / Fireground   	FMN 	Fire-Tac 
-158.74500 	KIB245 	BM		WayC Utility 	Utilities 	FMN 	Public Works 
-453.03750 	WPYJ339 	M		WayC PW WDD 	Public Works: Water Distribution Data 	Telm 	Data 
-155.29500 	WQH275 	BM		NWayn SchBus 	Buses 	FMN 	Schools 
-152.45000 	WPNR813 	RM	411 DPL	NWayn SchOps 	Ops (Cisne) 	FMN 	Schools 
-151.65500 	WPKJ320 	BM	411 DPL	WayneCity SchBus 	Buses 	FMN 	Schools 
-119.42500 	 	BM	CSQ	FWC AWOS 	Weather AWOS-3 	AM 	Aircraft 
-123.05000 	 	BM	CSQ	FWC CTAF 	CTAF/UNICOM 	AM 	Aircraft 
-127.70000 	 	BM	CSQ	MtVernonRCAG 	Approach/Departure (KC ARTCC) 	AM 	Aircraft 
-153.15500 	KVB496 	RM	131.8 PL	Podolsky 	Podolsky, Bernard: Machine and Tool? (Fairfield) 	FMN 	Business 
-153.63500 	KSA238 	RM	100.0 PL	WW Elec Coop 	Wayne-White County Electric Coop (Fairfield) 	FMN 	Utilities 
+155.53500 	153.80000  	WSL593 	RM	131.8 PL	Wayne Sheriff 1 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+155.53500 	153.80000  	WSL593 	RM	131.8 PL	Wayne Sheriff 1 	Sheriff: Scrambled [Ch 8]  	FMNE 	Law Dispatch 
+458.26250 	   	WRCA326 	F	CSQ	Wayne Shrf RF1 	Sheriff: Remote Link - Mt Erie 	FMN 	Law Dispatch 
+458.33750 	   	WRCA326 	F		Wayne Shrf RF3 	Sheriff: Remote Link - Wayne City [NEW] 	FMN 	Law Dispatch 
+458.47500 	   	WRCA326 	F	CSQ	Wayne Shrf RF2 	Sheriff: Remote Link - Fairfield 	FMN 	Law Dispatch 
+458.83750 	   	WRCA326 	F	CSQ	Wayne Shrf RF4 	Sheriff: Remote Link - Johnsonville 	FMN 	Law Dispatch 
+154.86000 	   	KNIK563 	BM	85.4 PL	Wayne Sheriff 2 	Sheriff: Operations [Ch 2]  	FMN 	Law Tac 
+155.39250 	   	WQEK969 	BM		WayneHealth1 	Health Department 	FMN 	Public Works 
+156.18000 	   	WQEQ906 	BM	131.8 PL	Wayne ESDA 	Emergency Management 	FMN 	Emergency Ops 
+154.16750 	   	WQEK969 	M		WayneHealth2 	Health Department 	FMN 	Public Works 
+154.43000 	   	KDX393 	BM	77.0 PL	Wayn FireEMS 	Fire/EMS: Countywide Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+155.80500 	   	 	BM	151.4 PL	NWayne EMS 	North Wayne Ambulance: Dispatch 	FMN 	EMS Dispatch 
+156.24000 	159.07500  	KJH215 	RM	103.5 PL	WayneHighway 	Highway Department (also D606?) 	FMN 	Public Works 
+154.19000 	150.80500  	WQKU819 	RM	151.4 PL	NWayne EMS 	EMS: Paging/Dispatch (DB: County) 	FMN 	EMS Dispatch 
+151.37000 	154.71000  	WQIH362 	RM	261 DPL	Fairfield EMS 	EMS: Tone-Outs / Dispatch 	FMN 	EMS Dispatch 
+159.94000 	152.87000  	WPZJ709 	RM		FMH Ops 	Operations 	FMN 	Business 
+155.34000 	   	WNDH765 	B	151.4 PL	MERCI1 151.4 	Patient Reports 	FMN 	Hospital 
+155.34000 	   	WNDH765 	BM	210.7 PL	MERCI1 210.7 	Patient Reports / Air-Evac Landing Zone 	FMN 	Hospital 
+153.74000 	   	WPKE702 	M		KeithTs Road 	Keith Township: Road Maintenance  	FMN 	Public Works 
+155.14500 	   	WPCB561 	BM		OrchdTs Road 	Orchard Township: Road Maintenance 	FMN 	Public Works 
+151.41500 	158.97000  	WQCG936 	RM		FairfieldPolice 	Police: Dispatch (in use) 	NXDN 	Law Dispatch 
+154.32500 	159.25500  	WPYP230 	RM	156 DPL	Fairfield Fire 	Fairfield Fire: Paging / Dispatch / Ops 	FMN 	Fire Dispatch 
+154.38500 	151.31000  	KNIC338 	RM	97.4 PL	FairfieldRurFire 	Fairfield Rural Fire: Ops 	FMN 	Fire-Tac 
+453.67500 	   	WPYP230 	F		Frfld Fire RF1 	Fire: Remote Link - Dispatch to 154.43 tower (108 N West 7th) 	FMN 	Fire Dispatch 
+458.67500 	   	WPYP230 	F		Frfld Fire RF2 	Fire: Remote Link - 154.43 tower to Dispatch (2.6m NE of Fairfield) 	FMN 	Fire Dispatch 
+155.83500 	158.92500  	WQCU564 	RM	167.9 PL	Fairfield PubWrk 	Public Works / City Services 	FMN 	Public Works 
+452.35000 	   	WNYW370 	F		Fairfield PW WDD 	Public Works: Water Distribution Data 	Telm 	Public Works 
+119.42500 	   	WRLB2834 	F	CSQ	Fairfield Airprt 	Fairfield Municipal Airport 	AM 	Aircraft 
+154.01000 	   	WNYH747 	BM		WCtyFPD Ops 	Fire: Operations / Fireground   	FMN 	Fire-Tac 
+158.74500 	   	KIB245 	BM		WayC Utility 	Utilities 	FMN 	Public Works 
+453.03750 	458.03750  	WPYJ339 	M		WayC PW WDD 	Public Works: Water Distribution Data 	Telm 	Data 
+155.29500 	   	WQH275 	BM		NWayn SchBus 	Buses 	FMN 	Schools 
+152.45000 	157.71000  	WPNR813 	RM	411 DPL	NWayn SchOps 	Ops (Cisne) 	FMN 	Schools 
+151.65500 	   	WPKJ320 	BM	411 DPL	WayneCity SchBus 	Buses 	FMN 	Schools 
+119.42500 	   	 	BM	CSQ	FWC AWOS 	Weather AWOS-3 	AM 	Aircraft 
+123.05000 	   	 	BM	CSQ	FWC CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+127.70000 	   	 	BM	CSQ	MtVernonRCAG 	Approach/Departure (KC ARTCC) 	AM 	Aircraft 
+153.15500 	158.41500  	KVB496 	RM	131.8 PL	Podolsky 	Podolsky, Bernard: Machine and Tool? (Fairfield) 	FMN 	Business 
+153.63500 	160.20000  	KSA238 	RM	100.0 PL	WW Elec Coop 	Wayne-White County Electric Coop (Fairfield) 	FMN 	Utilities 
+Rides Mass Transit District (DMR)	 DMR Conventional Networked	 Southern IL	

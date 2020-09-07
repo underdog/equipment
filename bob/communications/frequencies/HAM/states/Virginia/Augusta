@@ -1,23 +1,23 @@
-460.55000 	WPKQ976 	B	CSQ	1 	Fire/Rescue Paging/Dispatch Only 	FM 	Fire Dispatch 
-453.75000 	WNMW815 	RM	156.7 PL	2/3 	Fire/Rescue Administration (County-1) 	FM 	Fire-Tac 
-453.92500 	WNMW815 	RM	156.7 PL	4/5 	Fire/Rescue Operations (County-2) 	FM 	Fire-Tac 
-451.07500 	KDA670 	RM	156.7 PL	6/7 	Fire/Rescue Operations (County-3) 	FM 	Fire-Tac 
-451.02500 	KDA670 	RM	156.7 PL	8/9 	Fire/Rescue Operations (County-4) 	FM 	Fire-Tac 
-463.00000 	WZM674 	M	156.7 PL	12 	Fire/Rescue Operations (County-5) 	FM 	Fire-Tac 
-33.74000 	KDA670 	BM		Mutual Aid 	Fire/Rescue (for Rockingham County units on mutual aid) 	FM 	Interop 
-453.67500 	WPLZ524 	RM	156.7 PL	AgustaEMSMVA 	EMS and MVA operations in Staunton (SARS-1) 	FM 	EMS-Talk 
-462.95000 	WZM674 	RM		Med 9 	Med 9, Channel Requests 	FM 	Hospital 
-463.02500 	WZM674 	RM		Med 2 	Med 2, EMS to Hospital 	FM 	Hospital 
-463.07500 	WZM674 	RM		Med 4 	Med 4, EMS to Hospital 	FM 	Hospital 
-463.10000 	WZM674 	RM		MED 5 	Med 5, EMS to Hospital 	FM 	Hospital 
-463.12500 	WZM674 	RM		Med 6 	Med 6, EMS to Hospital 	FM 	EMS-Talk 
-460.40000 	KNFY393 	RM	065 DPL	1 	Sheriff Primary 	FM 	Law Dispatch 
-460.30000 	WPHE291 	RM	065 DPL	3 	Sheriff Secondary 	FM 	Law Talk 
-39.72000 	KV1513 			Augusta Shrf 	Sheriff Tactical 	FM 	Law Tac 
-45.58000 	WPKC262 	BM	162.2 PL	Aug Landfill 	Landfill 	FM 	Public Works 
-452.85000 	WPPD874 	RM	192.8 PL	CATS Bus 	CATS Bus 	FM 	Transportation 
-453.40000 	WPBT281 		115 DPL	ShenVallApt 	Shenandoah Valley Regional Airport Commission - Security/Operations 	FM 	Public Works 
-453.28750 	WQDW873 	RM		Jail Ops 	Operations (may be trunked) 	FM 	Law Talk 
-453.51250 	WQDW873 	RM		Ops 	Operations (may be trunked) 	FM 	Law Talk 
-453.78750 	WQDW873 	RM		MR Jail Ops 	Operations (may be trunked) 	FM 	Law Talk 
-453.16250 	WPUN934 	RM		ShenValleyJuvDet 	Shenandoah Valley Juvenile Detention Home 	DMR 	Corrections 
+460.55000 	   	WPKQ976 	B	CSQ	1 	Fire/Rescue Paging/Dispatch Only 	FM 	Fire Dispatch 
+453.75000 	458.75000  	WNMW815 	RM	156.7 PL	2/3 	Fire/Rescue Administration (County-1) 	FM 	Fire-Tac 
+453.92500 	458.92500  	WNMW815 	RM	156.7 PL	4/5 	Fire/Rescue Operations (County-2) 	FM 	Fire-Tac 
+451.07500 	456.07500  	KDA670 	RM	156.7 PL	6/7 	Fire/Rescue Operations (County-3) 	FM 	Fire-Tac 
+451.02500 	456.02500  	KDA670 	RM	156.7 PL	8/9 	Fire/Rescue Operations (County-4) 	FM 	Fire-Tac 
+463.00000 	   	WZM674 	M	156.7 PL	12 	Fire/Rescue Operations (County-5) 	FM 	Fire-Tac 
+33.74000 	   	KDA670 	BM		Mutual Aid 	Fire/Rescue (for Rockingham County units on mutual aid) 	FM 	Interop 
+453.67500 	   	WPLZ524 	RM	156.7 PL	AgustaEMSMVA 	EMS and MVA operations in Staunton (SARS-1) 	FM 	EMS-Talk 
+462.95000 	467.95000  	WZM674 	RM		Med 9 	Med 9, Channel Requests 	FM 	Hospital 
+463.02500 	468.02500  	WZM674 	RM		Med 2 	Med 2, EMS to Hospital 	FM 	Hospital 
+463.07500 	468.07500  	WZM674 	RM		Med 4 	Med 4, EMS to Hospital 	FM 	Hospital 
+463.10000 	468.10000  	WZM674 	RM		MED 5 	Med 5, EMS to Hospital 	FM 	Hospital 
+463.12500 	468.12500  	WZM674 	RM		Med 6 	Med 6, EMS to Hospital 	FM 	EMS-Talk 
+460.40000 	465.40000  	KNFY393 	RM	065 DPL	1 	Sheriff Primary 	FM 	Law Dispatch 
+460.30000 	465.30000  	WPHE291 	RM	065 DPL	3 	Sheriff Secondary 	FM 	Law Talk 
+39.72000 	   	KV1513 			Augusta Shrf 	Sheriff Tactical 	FM 	Law Tac 
+45.58000 	   	WPKC262 	BM	162.2 PL	Aug Landfill 	Landfill 	FM 	Public Works 
+452.85000 	457.85000  	WPPD874 	RM	192.8 PL	CATS Bus 	CATS Bus 	FM 	Transportation 
+453.40000 	   	WPBT281 		115 DPL	ShenVallApt 	Shenandoah Valley Regional Airport Commission - Security/Operations 	FM 	Public Works 
+453.28750 	458.28750  	WQDW873 	RM		Jail Ops 	Operations (may be trunked) 	FM 	Law Talk 
+453.51250 	458.51250  	WQDW873 	RM		Ops 	Operations (may be trunked) 	FM 	Law Talk 
+453.78750 	458.78750  	WQDW873 	RM		MR Jail Ops 	Operations (may be trunked) 	FM 	Law Talk 
+453.16250 	458.16250  	WPUN934 	RM		ShenValleyJuvDet 	Shenandoah Valley Juvenile Detention Home 	DMR 	Corrections 

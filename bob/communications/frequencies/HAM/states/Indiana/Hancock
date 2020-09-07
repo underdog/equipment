@@ -1,50 +1,50 @@
-155.67000 	KSB982 	RM	203.5 PL	Hnck SO 1 	Sheriff - Dispatch 	FMN 	Law Dispatch 
-155.67000 	KSB982 	M	199.5 PL	Hnck SO 2 	Sheriff - Car-to-Car 	FMN 	Law Talk 
-460.27500 	KSB982 	RM	162.2 PL	Hnck Jail 	Jail 	FMN 	Law Tac 
-154.75500 	KDL894 	RM	186.2 PL	GrnfldPDDsp 	Greenfield Police Dispatch 	FMN 	Law Dispatch 
-852.58750 	WPSQ512 	RM		Hnck SO MDT 	Sheriff - MDT Frequency 	FMN 	Data 
-155.82000 	WNSX425 	BM	203.5 PL	Hnck FD Dsp 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.14500 	WNKX220 	BM	146.2 PL	Hnck FD Frg1 	Fireground 1 	FMN 	Fire-Tac 
-156.22500 	WPGA634 	M		Hnck FD Frg2 	Fireground 2 	FMN 	Fire-Tac 
-159.13500 	WPGA634 	M		Hnck FD Frg3 	Fireground 3 	FMN 	Fire-Tac 
-156.01500 	WPGA634 	M		Hnck FD Frg4 	Fireground 4 	FMN 	Fire-Tac 
-154.40000 	WPGA634 	M		Hnck FD Frg5 	Fireground 5 	FMN 	Fire-Tac 
-155.10000 	WPGA634 	M		Hnck FD Frg6 	Fireground 6 	FMN 	Fire-Tac 
-154.40000 	KNJG725 	BM		SgrCrk FD Ch 	Sugar Creek Twp. Fire Channel 2 	FMN 	Fire-Tac 
-155.88000 	WQFA215 	RM		Hnck EMA D 	EMA Digital 	DMR 	Emergency Ops 
-155.88000 	WQAF215 	RM	100.0 PL	 Hnck EMA A 	EMA Analog 	FMN 	Emergency Ops 
-151.07000 	KFV815 	RM	192.8 PL	Hnck Co DOT 	D.O.T 	FMN 	Public Works 
-159.13500 	 	M	114.8 PL	Hancock Ops1 	Countywide Common Channel 	FMN 	Interop 
-156.22500 	 	M		Hancock Ops2 	Countywide Common Channel 	FMN 	Interop 
-159.19500 	WPNX745 	BM		McCrdsvl Mun 	Town Ops 	FMN 	Multi-Tac 
-153.39500 	KD35383 	RM	100.0 PL	HRH OPERATIONS 	Operations 	FMN 	Hospital 
-153.50000 	KD35383 	RM	85.4 PL	HRH OPERATIONS 	Operations 	FMN 	Hospital 
-158.23500 	KD35383 	M	94.8 PL	HRH OPS TALK 	Operations Talkaround 	FMN 	Hospital 
-151.83500 	WPDU920 	M	77.0 PL	EHCS School1 	School Operations & Buses 	FMN 	Schools 
-153.36500 	WPDU920 	BM		EHCS School2 	School Operations & Buses 	FMN 	Schools 
-153.42500 	WPDU920 	M		EHCS School3 	School Operations & Buses 	FMN 	Schools 
-158.20500 	WPDU920 	M		EHCS School4 	School Operations & Buses 	FMN 	Schools 
-151.52750 	WQBE862 	RM	151.4 PL	GrnfldSkls B 	School & Bus Operations 	FMN 	Schools 
-151.64750 	WQBE862 	BM		 GrnfldSkls 	Ch1 (Schools) 	FMN 	Schools 
-158.39250 	WQBE862 	BM	151.4 PL	GrnfldSkls1 	Ch1 (Schools) 	FMN 	Schools 
-159.62250 	WQBE862 	BM		GrnfldSkls2 	Ch2 	FMN 	Schools 
-151.73000 	WQBE862 	BM		GrnfldSkls3 	Ch3 	FMN 	Schools 
-159.74250 	WQBE862 	BM		GrnfldSkls4 	Ch4 	FMN 	Schools 
-151.73750 	WQBE862 	BM		GrnfldSkls5 	Ch5 	FMN 	Schools 
-159.83250 	WQBE862 	BM	151.4 PL	GrnfldSkls6 	Ch6 (Busses) 	FMN 	Schools 
-151.79000 	WQBE862 	BM	156.7 PL	GrnfldSkls7 	Ch7 (Schools) 	FMN 	Schools 
-159.84750 	WQBE862 	BM		GrnfldSkls8 	Ch8 	FMN 	Schools 
-151.79750 	WQBE862 	BM		GrnfldSkls9 	Ch9 	FMN 	Schools 
-159.87750 	WQBE862 	BM		GrnfldSkls10 	Ch10 	FMN 	Schools 
-153.26000 	WQMY765 	BM	88.5 PL	GCHS Admin 	Greenfield Central High School Administration 	FMN 	Schools 
-158.29500 	WQMY765 	M		GCHS Ops 	Greenfield Central High School Operations 	FMN 	Schools 
-153.65750 	 			GrnfldJrJigh 	Greenfield Jr High School 	FMN 	Schools 
-151.77500 	WRI222 	BM		MVS Admin 1 	Administration 1 (Fortville) 	NXDN 	Schools 
-153.24500 	WRI222 	RM		MVS Admin 2 	Administration 2 (Mt. Comfort) 	NXDN 	Schools 
-152.31500 	WRI222 	RM		MVS Maint 	Maintenance (Fortville) 	NXDN 	Schools 
-152.27000 	WRI222 	RM		MVS OPS 	Operations  (McCordsville 	NXDN 	Schools 
-152.39750 	WRI222 	RM		MVS OPS 	Operations (Fortville) 	NXDN 	Schools 
-463.73750 	WQGM969 	RM		SHCC Bus 463 	Buses 	DMR 	Schools 
-464.76250 	WQGM969 	RM		SHCC Bus 464 	Buses 	DMR 	Schools 
-Avery Dennison	 DMR Motorola Connect Plus (TRBO)	 Greenfield	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Auto Fasteners	 DMR Motorola Capacity Plus Single Site (TRBO)
- Greenfield	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	J E S and Sons	 LTR Standard	 Indianapolis	
+155.67000 	159.03000  	KSB982 	RM	203.5 PL	Hnck SO 1 	Sheriff - Dispatch 	FMN 	Law Dispatch 
+155.67000 	   	KSB982 	M	199.5 PL	Hnck SO 2 	Sheriff - Car-to-Car 	FMN 	Law Talk 
+460.27500 	465.27500  	KSB982 	RM	162.2 PL	Hnck Jail 	Jail 	FMN 	Law Tac 
+154.75500 	155.59500  	KDL894 	RM	186.2 PL	GrnfldPDDsp 	Greenfield Police Dispatch 	FMN 	Law Dispatch 
+852.58750 	807.58750  	WPSQ512 	RM		Hnck SO MDT 	Sheriff - MDT Frequency 	FMN 	Data 
+155.82000 	   	WNSX425 	BM	203.5 PL	Hnck FD Dsp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.14500 	   	WNKX220 	BM	146.2 PL	Hnck FD Frg1 	Fireground 1 	FMN 	Fire-Tac 
+156.22500 	   	WPGA634 	M		Hnck FD Frg2 	Fireground 2 	FMN 	Fire-Tac 
+159.13500 	   	WPGA634 	M		Hnck FD Frg3 	Fireground 3 	FMN 	Fire-Tac 
+156.01500 	   	WPGA634 	M		Hnck FD Frg4 	Fireground 4 	FMN 	Fire-Tac 
+154.40000 	   	WPGA634 	M		Hnck FD Frg5 	Fireground 5 	FMN 	Fire-Tac 
+155.10000 	   	WPGA634 	M		Hnck FD Frg6 	Fireground 6 	FMN 	Fire-Tac 
+154.40000 	   	KNJG725 	BM		SgrCrk FD Ch 	Sugar Creek Twp. Fire Channel 2 	FMN 	Fire-Tac 
+155.88000 	158.83500  	WQFA215 	RM		Hnck EMA D 	EMA Digital 	DMR 	Emergency Ops 
+155.88000 	158.83500  	WQAF215 	RM	100.0 PL	 Hnck EMA A 	EMA Analog 	FMN 	Emergency Ops 
+151.07000 	159.01500  	KFV815 	RM	192.8 PL	Hnck Co DOT 	D.O.T 	FMN 	Public Works 
+159.13500 	   	 	M	114.8 PL	Hancock Ops1 	Countywide Common Channel 	FMN 	Interop 
+156.22500 	   	 	M		Hancock Ops2 	Countywide Common Channel 	FMN 	Interop 
+159.19500 	   	WPNX745 	BM		McCrdsvl Mun 	Town Ops 	FMN 	Multi-Tac 
+153.39500 	   	KD35383 	RM	100.0 PL	HRH OPERATIONS 	Operations 	FMN 	Hospital 
+153.50000 	   	KD35383 	RM	85.4 PL	HRH OPERATIONS 	Operations 	FMN 	Hospital 
+158.23500 	   	KD35383 	M	94.8 PL	HRH OPS TALK 	Operations Talkaround 	FMN 	Hospital 
+151.83500 	   	WPDU920 	M	77.0 PL	EHCS School1 	School Operations & Buses 	FMN 	Schools 
+153.36500 	   	WPDU920 	BM		EHCS School2 	School Operations & Buses 	FMN 	Schools 
+153.42500 	   	WPDU920 	M		EHCS School3 	School Operations & Buses 	FMN 	Schools 
+158.20500 	   	WPDU920 	M		EHCS School4 	School Operations & Buses 	FMN 	Schools 
+151.52750 	159.39250  	WQBE862 	RM	151.4 PL	GrnfldSkls B 	School & Bus Operations 	FMN 	Schools 
+151.64750 	   	WQBE862 	BM		 GrnfldSkls 	Ch1 (Schools) 	FMN 	Schools 
+158.39250 	   	WQBE862 	BM	151.4 PL	GrnfldSkls1 	Ch1 (Schools) 	FMN 	Schools 
+159.62250 	   	WQBE862 	BM		GrnfldSkls2 	Ch2 	FMN 	Schools 
+151.73000 	   	WQBE862 	BM		GrnfldSkls3 	Ch3 	FMN 	Schools 
+159.74250 	   	WQBE862 	BM		GrnfldSkls4 	Ch4 	FMN 	Schools 
+151.73750 	   	WQBE862 	BM		GrnfldSkls5 	Ch5 	FMN 	Schools 
+159.83250 	   	WQBE862 	BM	151.4 PL	GrnfldSkls6 	Ch6 (Busses) 	FMN 	Schools 
+151.79000 	   	WQBE862 	BM	156.7 PL	GrnfldSkls7 	Ch7 (Schools) 	FMN 	Schools 
+159.84750 	   	WQBE862 	BM		GrnfldSkls8 	Ch8 	FMN 	Schools 
+151.79750 	   	WQBE862 	BM		GrnfldSkls9 	Ch9 	FMN 	Schools 
+159.87750 	   	WQBE862 	BM		GrnfldSkls10 	Ch10 	FMN 	Schools 
+153.26000 	   	WQMY765 	BM	88.5 PL	GCHS Admin 	Greenfield Central High School Administration 	FMN 	Schools 
+158.29500 	   	WQMY765 	M		GCHS Ops 	Greenfield Central High School Operations 	FMN 	Schools 
+153.65750 	   	 			GrnfldJrJigh 	Greenfield Jr High School 	FMN 	Schools 
+151.77500 	   	WRI222 	BM		MVS Admin 1 	Administration 1 (Fortville) 	NXDN 	Schools 
+153.24500 	   	WRI222 	RM		MVS Admin 2 	Administration 2 (Mt. Comfort) 	NXDN 	Schools 
+152.31500 	   	WRI222 	RM		MVS Maint 	Maintenance (Fortville) 	NXDN 	Schools 
+152.27000 	   	WRI222 	RM		MVS OPS 	Operations  (McCordsville 	NXDN 	Schools 
+152.39750 	   	WRI222 	RM		MVS OPS 	Operations (Fortville) 	NXDN 	Schools 
+463.73750 	468.73750  	WQGM969 	RM		SHCC Bus 463 	Buses 	DMR 	Schools 
+464.76250 	469.76250  	WQGM969 	RM		SHCC Bus 464 	Buses 	DMR 	Schools 
+Avery Dennison	 DMR Motorola Connect Plus (TRBO)	 Greenfield	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Auto Fasteners	 DMR Motorola Capacity Plus Single Site (TRBO)	 Greenfield
+J E S and Sons	 LTR Standard	 Indianapolis	

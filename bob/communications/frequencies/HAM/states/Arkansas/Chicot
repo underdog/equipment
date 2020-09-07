@@ -1,27 +1,26 @@
-155.58000 	WPHZ477 	RM	CC 7TG 135SL 1	CC SO DISP 	Sheriff  Dispatch 	DMR 	Law Dispatch 
-155.58000 	WPHZ477 	RM	CC 7TG *SL 2	CC SO TAC 	Sheriff Tactical 	DMR 	Law Tac 
-155.58000 	WPHZ477 	RM	146.2 PL	CC SO ANALOG 	Sheriff Analog Operations 	FMN 	Law Tac 
-467.52500 	 			Chicot SO 	Sheriff 	FM 	Law Tac 
-155.70750 	WQOF995 	RM	CC 5TG 125SL 1	CC EMS Disp 	EMS Dispatch 	DMR 	EMS Dispatch 
-155.70750 	WQOF995 	RM	CC 5TG 125SL 2	CC OEM Ops 	OEM Operations 	DMR 	Emergency Ops 
-154.34000 	WPPA321 	RM	146.2 PL	CC OEM A 	Emergency Management Analog 	FMN 	Emergency Ops 
-156.11250 	WQQD328 	RM	265 DPL	F/L Fire 	Fawnwood/Lakeport Fire Operations 	FMN 	Fire-Tac 
-154.96500 	 	RM	023 DPL	RVN FD Disp 	Ross Van Ness Fire Dispatch 	FMN 	Fire Dispatch 
-150.99500 	WQPW952 	RM		RVN FD FG 	Ross Van Ness Fireground (Slot 1) 	DMR 	Fire-Tac 
-156.24000 	 	RM	032 DPL	CC Road Dept 	Road Department 	FMN 	Public Works 
-37.04000 	KLY647 	BM		OEM SIRENS 	Emergency Management - Outdoor Warning Sirens 	FM 	Data 
-158.96250 	WQHN615 	RM	110.9 PL	DERMOTT FD  	Fire 	FMN 	Fire Dispatch 
-154.78500 	WPJZ731 	RM	CC 1TG 1SL 1	DERMOTT PD DISP 	Police Dispatch 	DMR 	Law Dispatch 
-154.78500 	WPJZ731 	RM	CC 1TG *SL 2	DERMOTT PD TAC 	Police Tactical 	DMR 	Law Tac 
-39.58000 	KLY647 	BM		DERMOTT STREETS 	Street Department 	FM 	Public Works 
-153.82250 	WQHU812 	RM		Eudora PD D 	Police Dispatch (Slot 1)/Tactical (Slot 2) 	DMR 	Law Dispatch 
-155.19000 	 	RM	223 DPL	EudoraFD Dis 	Fire Dispatch 	FMN 	Fire Dispatch 
-150.99500 	WQPW952 	RM		Eudora FD FG 	Fireground (Slot 2) 	DMR 	Fire Dispatch 
-155.19000 	 	B	CSQ	EudoraSirens 	Sirens 	FMN 	Emergency Ops 
-155.94750 	WQEJ518 	RM	CC 1TG 65SL 1	LV PD/FD D 	Police Dispatch  	DMR 	Law Dispatch 
-155.94750 	QEJ518 	RM	CC 1TG *SL 2	LV PD TAC 	Police Tactical 	DMR 	Law Tac 
-460.42500 	WPMF349 	RM	179.9 PL	LV PD A 	Police Analog Operations 	FMN 	Law Tac 
-154.03250 	WQEJ518 	RM	065 DPL	LV FD A 	Fire Department Analog Paging 	FMN 	Fire Dispatch 
-155.10000 	 	BM	CSQ	LV Services 	Services 	FMN 	Public Works 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	
+155.58000 	154.75500  	WPHZ477 	RM	CC 7TG 135SL 1	CC SO DISP 	Sheriff  Dispatch 	DMR 	Law Dispatch 
+155.58000 	154.75500  	WPHZ477 	RM	CC 7TG *SL 2	CC SO TAC 	Sheriff Tactical 	DMR 	Law Tac 
+155.58000 	154.75500  	WPHZ477 	RM	146.2 PL	CC SO ANALOG 	Sheriff Analog Operations 	FMN 	Law Tac 
+467.52500 	   	 			Chicot SO 	Sheriff 	FM 	Law Tac 
+155.70750 	158.97750  	WQOF995 	RM	CC 5TG 125SL 1	CC EMS Disp 	EMS Dispatch 	DMR 	EMS Dispatch 
+155.70750 	158.97750  	WQOF995 	RM	CC 5TG 125SL 2	CC OEM Ops 	OEM Operations 	DMR 	Emergency Ops 
+154.34000 	150.77500  	WPPA321 	RM	146.2 PL	CC OEM A 	Emergency Management Analog 	FMN 	Emergency Ops 
+156.11250 	159.40500  	WQQD328 	RM	265 DPL	F/L Fire 	Fawnwood/Lakeport Fire Operations 	FMN 	Fire-Tac 
+154.96500 	159.13500  	 	RM	023 DPL	RVN FD Disp 	Ross Van Ness Fire Dispatch 	FMN 	Fire Dispatch 
+150.99500 	154.05500  	WQPW952 	RM		RVN FD FG 	Ross Van Ness Fireground (Slot 1) 	DMR 	Fire-Tac 
+156.24000 	151.03250  	 	RM	032 DPL	CC Road Dept 	Road Department 	FMN 	Public Works 
+37.04000 	   	KLY647 	BM		OEM SIRENS 	Emergency Management - Outdoor Warning Sirens 	FM 	Data 
+158.96250 	154.25750  	WQHN615 	RM	110.9 PL	DERMOTT FD  	Fire 	FMN 	Fire Dispatch 
+154.78500 	153.84500  	WPJZ731 	RM	CC 1TG 1SL 1	DERMOTT PD DISP 	Police Dispatch 	DMR 	Law Dispatch 
+154.78500 	153.84500  	WPJZ731 	RM	CC 1TG *SL 2	DERMOTT PD TAC 	Police Tactical 	DMR 	Law Tac 
+39.58000 	   	KLY647 	BM		DERMOTT STREETS 	Street Department 	FM 	Public Works 
+153.82250 	155.81250  	WQHU812 	RM		Eudora PD D 	Police Dispatch (Slot 1)/Tactical (Slot 2) 	DMR 	Law Dispatch 
+155.19000 	158.94750  	 	RM	223 DPL	EudoraFD Dis 	Fire Dispatch 	FMN 	Fire Dispatch 
+150.99500 	154.05500  	WQPW952 	RM		Eudora FD FG 	Fireground (Slot 2) 	DMR 	Fire Dispatch 
+155.19000 	   	 	B	CSQ	EudoraSirens 	Sirens 	FMN 	Emergency Ops 
+155.94750 	158.88750  	WQEJ518 	RM	CC 1TG 65SL 1	LV PD/FD D 	Police Dispatch  	DMR 	Law Dispatch 
+155.94750 	158.88750  	QEJ518 	RM	CC 1TG *SL 2	LV PD TAC 	Police Tactical 	DMR 	Law Tac 
+460.42500 	465.42500  	WPMF349 	RM	179.9 PL	LV PD A 	Police Analog Operations 	FMN 	Law Tac 
+154.03250 	156.00750  	WQEJ518 	RM	065 DPL	LV FD A 	Fire Department Analog Paging 	FMN 	Fire Dispatch 
+155.10000 	   	 	BM	CSQ	LV Services 	Services 	FMN 	Public Works 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various

@@ -1,28 +1,28 @@
-155.59500 	KVF679 	RM	300 NAC	CCSO South 	County Sheriff Ch. 1 South (includes Garden Ridge Police) 	P25 	Law Dispatch 
-156.00000 	KVF679 	RM	300 NAC	CCSO North 	County Sheriff  Ch. 2 North (includes Bulverde Police) 	P25 	Law Dispatch 
-453.08750 	WPRI300 	M	043 DPL	CCSO Jail 	County Jail Control 	FM 	Law Tac 
-154.29500 	KVF679 	RM	203.5 PL	Comal Fire 	County Fire Dispatch 	FMN 	Fire Dispatch 
-151.25000 	WPFC267 	RM	100.0 PL	CLVFD Ops 	Canyon Lake VFD Talk Around 	FMN 	Fire-Tac 
-154.20500 	WPKH510 	RM	203.5 PL	SBVFD Ops 	Spring Branch VFD Talk Around 	FMN 	Fire-Tac 
-154.28000 	KNED326 	RM	431 DPL	BulverdeFD 	Bulverde Fire Repeater 	FM 	Fire Dispatch 
-154.44500 	KZT493 	RM	203.5 PL	BrackenFD 	Bracken Fire Repeater 	FMN 	Fire-Tac 
-154.44500 	 	RM	300 NAC	BrackenFD 	Bracken Fire Digital 	P25 	Fire-Tac 
-155.88000 	WPRI300 	RM	300 NAC	Comal Roads 	Comal County Roads / Engineering 	P25 	Public Works 
-154.13000 	KKV500 	RM	203.5 PL	NBFD VHF 	Fire (Tactical/Back-up/Mutual Aid) 	FMN 	Fire-Tac 
-155.19000 	WQT639 	RM	203.5 PL	NB SldWste 	Solid Waste and Recycling (see note in Wiki) 	FM 	Public Works 
-155.31000 	WQT639 	BM	203.5 PL	NB Street 	Streets 1 	FM 	Public Works 
-155.67000 	WQT639 	M	203.5 PL	NB Streets 	Streets 2 	FM 	Public Works 
-158.14500 	KNJS811 	RM	203.5 PL	NBU Utility 	NBU Utilities 	FM 	Utilities 
-158.20500 	KNJS811 	RM	203.5 PL	NBU Electric 	NBU Electric 	FM 	Utilities 
-158.25000 	KNJS811 	RM	203.5 PL	NBU Water 	NBU Water 	FM 	Utilities 
-463.35000 	WPUI802 	BM		CHS Admin 	Canyon High School - Administration, others 	FMN 	Schools 
-463.52500 	WQMR958 	M	243 DPL	CLHS Ch 1 	Canyon Lake High School Ch. 1 	FMN 	Schools 
-452.12500 	 	M	351 DPL	CLHS Ch 2 	Canyon Lake High School Ch. 2 	FMN 	Schools 
-451.50000 	 	M	031 DPL	CLHS Ch 3 	Canyon Lake High School Ch. 3 	FMN 	Schools 
-464.52500 	 	M	023 DPL	CLHS Ch 4 	Canyon Lake High School Ch. 4 	FMN 	Schools 
-464.50000 	 	M	134 DPL	CLHS Ch 5 	Canyon Lake High School Ch. 5 	FMN 	Schools 
-461.57500 	WNRI438 	RM	CC 8TG *SL 1	Comal ISD Bus 	Comal ISD Buses 	DMR 	Schools 
-464.26250 	WQES808 	M		NBHS Bus 	New Braunfels High School & Buses 	FMN 	Schools 
-463.72500 	WQMR958 	RM		SVHS 2 	Smithson Valley High School 	FMN 	Schools 
-152.30000 	WPYN603 	RM	172 DPL	SVHS Admin 	Smithson Valley High School - Administration, other 	FM 	Schools 
-BearCom (Central Texas NexEdge)	 NXDN NEXEDGE 4800	 Various	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	
+155.59500 	154.71000  	KVF679 	RM	300 NAC	CCSO South 	County Sheriff Ch. 1 South (includes Garden Ridge Police) 	P25 	Law Dispatch 
+156.00000 	153.96500  	KVF679 	RM	300 NAC	CCSO North 	County Sheriff  Ch. 2 North (includes Bulverde Police) 	P25 	Law Dispatch 
+453.08750 	458.08750  	WPRI300 	M	043 DPL	CCSO Jail 	County Jail Control 	FM 	Law Tac 
+154.29500 	153.83000  	KVF679 	RM	203.5 PL	Comal Fire 	County Fire Dispatch 	FMN 	Fire Dispatch 
+151.25000 	153.95000  	WPFC267 	RM	100.0 PL	CLVFD Ops 	Canyon Lake VFD Talk Around 	FMN 	Fire-Tac 
+154.20500 	156.04500  	WPKH510 	RM	203.5 PL	SBVFD Ops 	Spring Branch VFD Talk Around 	FMN 	Fire-Tac 
+154.28000 	155.92500  	KNED326 	RM	431 DPL	BulverdeFD 	Bulverde Fire Repeater 	FM 	Fire Dispatch 
+154.44500 	153.89000  	KZT493 	RM	203.5 PL	BrackenFD 	Bracken Fire Repeater 	FMN 	Fire-Tac 
+154.44500 	153.89000  	 	RM	300 NAC	BrackenFD 	Bracken Fire Digital 	P25 	Fire-Tac 
+155.88000 	153.81500  	WPRI300 	RM	300 NAC	Comal Roads 	Comal County Roads / Engineering 	P25 	Public Works 
+154.13000 	151.04000  	KKV500 	RM	203.5 PL	NBFD VHF 	Fire (Tactical/Back-up/Mutual Aid) 	FMN 	Fire-Tac 
+155.19000 	155.80500  	WQT639 	RM	203.5 PL	NB SldWste 	Solid Waste and Recycling (see note in Wiki) 	FM 	Public Works 
+155.31000 	   	WQT639 	BM	203.5 PL	NB Street 	Streets 1 	FM 	Public Works 
+155.67000 	   	WQT639 	M	203.5 PL	NB Streets 	Streets 2 	FM 	Public Works 
+158.14500 	153.54500  	KNJS811 	RM	203.5 PL	NBU Utility 	NBU Utilities 	FM 	Utilities 
+158.20500 	153.51500  	KNJS811 	RM	203.5 PL	NBU Electric 	NBU Electric 	FM 	Utilities 
+158.25000 	153.57500  	KNJS811 	RM	203.5 PL	NBU Water 	NBU Water 	FM 	Utilities 
+463.35000 	468.35000  	WPUI802 	BM		CHS Admin 	Canyon High School - Administration, others 	FMN 	Schools 
+463.52500 	   	WQMR958 	M	243 DPL	CLHS Ch 1 	Canyon Lake High School Ch. 1 	FMN 	Schools 
+452.12500 	   	 	M	351 DPL	CLHS Ch 2 	Canyon Lake High School Ch. 2 	FMN 	Schools 
+451.50000 	   	 	M	031 DPL	CLHS Ch 3 	Canyon Lake High School Ch. 3 	FMN 	Schools 
+464.52500 	   	 	M	023 DPL	CLHS Ch 4 	Canyon Lake High School Ch. 4 	FMN 	Schools 
+464.50000 	   	 	M	134 DPL	CLHS Ch 5 	Canyon Lake High School Ch. 5 	FMN 	Schools 
+461.57500 	466.57500  	WNRI438 	RM	CC 8TG *SL 1	Comal ISD Bus 	Comal ISD Buses 	DMR 	Schools 
+464.26250 	   	WQES808 	M		NBHS Bus 	New Braunfels High School & Buses 	FMN 	Schools 
+463.72500 	   	WQMR958 	RM		SVHS 2 	Smithson Valley High School 	FMN 	Schools 
+152.30000 	157.56000  	WPYN603 	RM	172 DPL	SVHS Admin 	Smithson Valley High School - Administration, other 	FM 	Schools 
+BearCom (Central Texas NexEdge)	 NXDN NEXEDGE 4800	 Various	BrandMeister Texas	 DMR Conventional Networked	 Various	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various

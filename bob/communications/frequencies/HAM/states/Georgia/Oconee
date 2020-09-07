@@ -1,13 +1,13 @@
-153.41000 	WNDK511 	RM	103.5 PL	OCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.98000 	WNDK511 	BM		OCFD FG 	Fireground 	FMN 	Fire-Tac 
-155.38500 	 	BM	186.2 PL	ARMC EMS 	EMS Dispatch (Athens Regional Medical Center) 	FMN 	EMS Dispatch 
-155.40000 	 	BM	141.3 PL	SMH EMS 	EMS Dispatch (St. Mary's Hospital) 	FMN 	EMS Dispatch 
-159.67500 	WPWI586 	RM	103.5 PL	OCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-453.86250 	WPRH979 	RM		OC Roads 	Road Department 	FMN 	Public Works 
-464.88750 	WQHM470 	RM		OCBOE ADMIN 	Oconee County Schools Administration 	FMN 	Schools 
-463.82500 	WPFC943 	RM	71.9 PL	OCBOE BUSES 	Oconee County School Bus Dispatch 	FMN 	Schools 
-463.56250 	WQOV730 	RM		OCBOE HSEL 	High Shoals Elementary School 	FMN 	Schools 
-461.35000 	WQTG297 	RM	023 DPL	OCBOE MS 	Oconee County Middle School 	FMN 	Schools 
-155.68500 	WPUU565 	BM		WPD Dispatch 	Police 	FMN 	Law Dispatch 
-154.84250 	WQQF769 	RM	CC 14TG 1200800SL 1	UNGA DPS 1 	UNGA Police Dispatch 	DMR 	Law Dispatch 
-153.85250 	WQQE874 	BM	CC 14TG 1200800SL 1	UNGA DPS 2 	UNGA Police Ops 	DMR 	Law Talk 
+153.41000 	158.16000  	WNDK511 	RM	103.5 PL	OCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.98000 	   	WNDK511 	BM		OCFD FG 	Fireground 	FMN 	Fire-Tac 
+155.38500 	   	 	BM	186.2 PL	ARMC EMS 	EMS Dispatch (Athens Regional Medical Center) 	FMN 	EMS Dispatch 
+155.40000 	   	 	BM	141.3 PL	SMH EMS 	EMS Dispatch (St. Mary's Hospital) 	FMN 	EMS Dispatch 
+159.67500 	150.89000  	WPWI586 	RM	103.5 PL	OCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+453.86250 	458.86250  	WPRH979 	RM		OC Roads 	Road Department 	FMN 	Public Works 
+464.88750 	469.88750  	WQHM470 	RM		OCBOE ADMIN 	Oconee County Schools Administration 	FMN 	Schools 
+463.82500 	468.82500  	WPFC943 	RM	71.9 PL	OCBOE BUSES 	Oconee County School Bus Dispatch 	FMN 	Schools 
+463.56250 	468.56250  	WQOV730 	RM		OCBOE HSEL 	High Shoals Elementary School 	FMN 	Schools 
+461.35000 	466.35000  	WQTG297 	RM	023 DPL	OCBOE MS 	Oconee County Middle School 	FMN 	Schools 
+155.68500 	   	WPUU565 	BM		WPD Dispatch 	Police 	FMN 	Law Dispatch 
+154.84250 	159.02250  	WQQF769 	RM	CC 14TG 1200800SL 1	UNGA DPS 1 	UNGA Police Dispatch 	DMR 	Law Dispatch 
+153.85250 	   	WQQE874 	BM	CC 14TG 1200800SL 1	UNGA DPS 2 	UNGA Police Ops 	DMR 	Law Talk 

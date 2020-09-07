@@ -1,198 +1,198 @@
-460.47500 	KUJ763 	RM	7F3 NAC	MCSO Dispatch 	Sheriff Dispatch 	P25 	Law Dispatch 
-460.40000 	KUJ763 	RM	83B NAC	MCSO Admin East 	Sheriff East Administration   	P25 	Law Talk 
-460.17500 	KUJ763 	RM	6CA NAC	MCSO Admin West 	Sheriff West Administration 	P25 	Law Talk 
-460.27500 	WNDF944 	RM	8D1 NAC	MCSO Airport 	Sheriff Airport Detail 	P25 	Law Dispatch 
-460.28750 	WQMH414 	M	FAA NAC	MCSO Airport C-C 	Sheriff Airport Car to Car 	P25 	Law Talk 
-460.35000 	KUJ763 	RM	2CF NAC	Towns West 	Towns West (Gates, Greece) 	P25 	Law Dispatch 
-460.07500 	KUJ763 	RM	4CE NAC 	Towns North 	Towns North (Brighton, Irondequiot, Webster) 	P25 	Law Dispatch 
-460.02500 	KUJ763 	RM	9C7 NAC	RPD East Disptch 	Rochester PD East Dispatch 	P25 	Law Dispatch 
-460.12500 	KUJ763 	RM	5B6 NAC	RPD West Disptch 	Rochester PD West Dispatch 	P25 	Law Dispatch 
-460.50000 	KUJ763 	RM	61F NAC	RPD Tac 	Rochester PD Tac 	P25 	Law Tac 
-460.45000 	KUJ763 	RM	8F3 NAC	RPD Admin East 	Rochester PD East Administration 	P25 	Law Talk 
-460.20000 	KUJ763 	RM	4F9 NAC	RPD Admin West 	Rochester PD West Administration 	P25 	Law Talk 
-460.22500 	KUJ763 	RM	5EA NAC	RPD Records 	Rochester PD City Records 	P25 	Law Talk 
-460.28750 	WQMH414 	M	293 NAC	MCSO Detail 1 	Sheriff Ch 11 Detail 1 	P25 	Law Tac 
-460.31250 	 	M	293 NAC	MCSO Detail 2 	Sheriff Ch 12 Detail 2 	P25 	Law Tac 
-456.03750 	 	M	BAD NAC	MCSO On-Scene  	Sheriff Ch 13 On-Scene 	P25 	Law Tac 
-460.32500 	KUJ763 	RM	29E NAC	TAC County 	TAC County 	P25 	Law Tac 
-460.37500 	KUJ763 	RM	31D NAC	TAC East 	TAC East 	P25 	Law Tac 
-460.25000 	KUJ756 	RM	2B5 NAC	TAC West 	TAC West 	P25 	Law Tac 
-460.46250 	WQMH414 	M	ACE NAC	Towns North C-C 	Towns North Ch 2 Car to Car 	P25 	Law Talk 
-460.05000 	WNAL770 	RM	920 NAC	MC Brighton CF 	County Correctional Facility - Brighton 	P25 	Corrections 
-460.10000 	WNAL770 	RM	746 NAC	MC Jail 	County Jail - Downtown 	P25 	Corrections 
-460.15000 	WNAL770 	RM	125 DPL	MC HoJ Security 	Sheriff - Hall of Justice Security 	FMN 	Law Tac 
-774.95625 	WQSW336 	BM	293 NAC	MC Law Direct 	Law Direct 	P25 	Law Tac 
-154.13000 	KEB243 	BM	131 DPL	RFD Dispatch 	Fire Ch. 1 - Dispatch - Rochester City 	FMN 	Fire Dispatch 
-154.25000 	KEB243 	BM	261 DPL	RFD Fireground 	Fire Ch. 2 - Fireground - Rochester City 	FMN 	Fire-Tac 
-154.38500 	KED332 	BM	365 DPL	MC Fireground E 	Fire Ch. 3 - Fireground- County East 	FMN 	Fire-Tac 
-154.17500 	KED332 	BM	466 DPL	MC Fireground W 	Fire  Ch. 4 - Fireground- County West 	FMN 	Fire-Tac 
-154.31000 	KED332 	BM	506 DPL	MC FD Dispatch 	Fire Ch. 5 - Dispatch - Monroe County 	FMN 	Fire Dispatch 
-154.34000 	KC5400 	BM	606 DPL	MC HazMat 	Fire Ch.  6 - Hazmat 	FMN 	Fire-Tac 
-155.82000 	KKD540 	BM	054 DPL	MC Fire Police 	Fire Ch. 9 - Countywide Fire Police 	FMN 	Fire-Tac 
-153.83000 	KC5400 	M	114 DPL	MC Fire Portable 	Fire Portables (City/County) 	FMN 	Fire-Tac 
-154.10750 	WPPF797 	BM	031 DPL	MC FD Batt 1 Ops 	Fire/EMS Battalion 1 Operations 	FMN 	Fire-Tac 
-155.25750 	WPPF797 	BM	074 DPL	MC FD Batt 2 Ops 	Fire/EMS Battalion 2 Operations 	FMN 	Fire-Tac 
-156.23250 	WQAG289 	BM	047 DPL	MC FD Batt 3 Ops 	Fire/EMS Battalion 3 Operations 	FMN 	EMS-Tac 
-155.00250 	WPPF797 	BM	065 DPL	MC FD Batt 4 Ops 	Fire/EMS Battalion 4 Operations 	FMN 	Fire-Tac 
-155.31750 	WPPF797 	BM	223 DPL	MC FD Batt 5 Ops 	Fire/EMS Battalion 5 Operations 	FMN 	Fire-Tac 
-155.39250 	WPPF797 	BM	245 DPL	MC FD InterBatt  	Fire/EMS Inter-Battalion Operations 	FMN 	Fire-Tac 
-774.94375 	WQSW336 	M	293 NAC	MC Fire Direct 	Fire Direct 	P25 	Fire-Tac 
-858.36250 	WRDR365 	M	293 NAC	MC FD Mob Rpt A 	Fire Mobile Repeater A 	P25 	Fire-Tac 
-858.41250 	WRDR365 	M	293 NAC	MC FD Mob Rpt B 	Fire Mobile Repeater B 	P25 	Fire-Tac 
-858.46250 	WRDR365 	M	293 NAC	MC FD Mob Rpt C 	Fire Mobile Repeater C 	P25 	Fire-Tac 
-858.51250 	WRDR365 	M	293 NAC	MC FD Mob Rpt D 	Fire Mobile Repeater D 	P25 	Fire-Tac 
-858.76250 	WRDR365 	M	293 NAC	MC FD Mob Rpt E 	Fire Mobile Repeater E 	P25 	Fire-Tac 
-858.81250 	WRDR365 	M	293 NAC	MC FD Mob Rpt F 	Fire Mobile Repeater F 	P25 	Fire-Tac 
-858.86250 	WRDR365 	M	293 NAC	MC FD Mob Rpt G 	Fire Mobile Repeater G 	P25 	Fire-Tac 
-155.29500 	KZC565 	BM	265 DPL	MC EMS Dispatch 	EMS Countywide Dispatch 	FMN 	EMS Dispatch 
-155.17500 	KZC565 	BM	172 DPL	MC EMS Disaster 	EMS Disaster Common 	FMN 	EMS-Tac 
-155.28000 	KZC565 	BM	205 DPL	MC EMS Ops 	EMS Operations 	FMN 	EMS-Talk 
-151.65500 	WQNV259 	RM	125 DPL	AMR Dispatch 	American Medical Response Dispatch 	FMN 	EMS Dispatch 
-155.26500 	KNBK950 	BM	411 DPL	AMR Ops 	American Medical Response Operations 	FMN 	EMS-Tac 
-774.93125 	WQSW336 	M	293 NAC	MC EMS Direct 	EMS Direct 	P25 	EMS-Tac 
-769.03125 	WQSW336 	M	293 NAC	MC PS Direct 	Public Safety Direct 	P25 	Interop 
-769.04375 	WQSW336 	M	293 NAC	MC PS Training 	Public Safety Training Facility 	P25 	Multi-Talk 
-153.92000 	KEH728 	BM	731 DPL	MC OEM 	Local Government/OEM 	FMN 	Emergency Ops 
-153.99500 	WPJK568 	RM	179.9 PL	Brighton FD 	Fire Ch. 52 	FMN 	Fire-Tac 
-158.94000 	KCQ260 	BM	127.3 PL	Brockport FD 	Fire Ch. 58 	FMN 	Fire-Tac 
-155.95500 	WPQG603 	BM	743 DPL	Chili FD 	Fire Ch. 90 	FMN 	Fire Dispatch 
-453.16250 	WQRX916 	RM	CC 1TG 100SL 1	Chili DPW Disp 	DPW Dispatch Talkgroup 	DMR 	Public Works 
-453.16250 	WQRX916 	RM	CC 1TG 101SL 1	Chili DPW Work 	DPW Working Talkgroup 	DMR 	Public Works 
-155.83500 	KEC911 	BM		Churchville DPW 	DPW 	FMN 	Public Works 
-154.08500 	KFI589 	BM	203.5 PL	E Rochester DPW 	DPW 	FMN 	Public Works 
-46.58000 	KSO874 	B		Fairport Highway 	Highway Department 	FM 	Public Works 
-452.10000 	KNNN485 	RM	723 DPL	Fairport Electrc 	Municipal Electric  	FMN 	Utilities 
-158.88000 	KEC992 	BM	245 DPL	Gates FD 	Fire Ch. 80 	FMN 	Fire-Tac 
-453.57500 	KZF914 	B	151.4 PL	Gates Highway 	Highway Department 	FMN 	Public Works 
-469.55000 	 	M	C0B NAC	Greece Spc Pol 	Special Police Unit 	P25 	Law Talk 
-154.05500 	KEC982 	BM	243 DPL	Greece FD 	Fire Ch. 50 - North Greece 	FMN 	Fire-Tac 
-158.80500 	KFM489 	BM		Greece FD 	Fire  	FMN 	EMS-Tac 
-155.05500 	KLS588 	RM	186.2 PL	Greece EMS 	Volunteer Ambulance 60 	FMN 	EMS Dispatch 
-151.10000 	WQJK492 	M	043 DPL	Greece FD Ridge 	Ridge Road Fire - Simplex Repeater 	FMN 	Fire-Tac 
-151.15250 	KEC614 	RM	043 DPL	Greece FD Ridge 	Ridge Road Fire District (Repeats Everything on Monroe County Channel 4) 	FMN 	Fire-Tac 
-151.45250 	KEC614 	BM	343 DPL	Greece FD Ridge 	Ridge Road Working Channel 	FMN 	Fire-Tac 
-453.65000 	WPXJ953 	RM	103.5 PL	Greece Highway 	Highway Department 	FMN 	Public Works 
-155.02500 	KNBG204 	BM		HMWFD Tac 	Hamlin Morton Walker Fire District - Tac 	FMN 	Fire-Tac 
-453.55000 	KXM927 	RM	151.4 PL	Hamlin Hwy 	Highway Department 	FMN 	Public Works 
-154.41500 	KTE351 	RM	179.9 PL	Henrietta FD 	Fire Ch. 51 	FMN 	Fire Dispatch 
-155.23500 	KCY628 	BM	186.2 PL	Henrietta EMS 	Ambulance Ch. 3 (coordination with Henrietta FD) 	FMN 	EMS-Talk 
-453.77500 	KEF645 	RM	CC 1TG 14467000SL 1	Henrietta DPW 	Dept of Public Works 	DMR 	Public Works 
-156.18750 	WNJB888 	BM	365 DPL	St Paul Blvd FD 	Saint Paul Boulevard Fire District 	FMN 	Fire-Tac 
-154.43000 	KEC814 	BM	179.9 PL	Ridge Culver FD 	Ridge Culver Fire District 	FMN 	Fire-Tac 
-155.12250 	WPQB879 	BM		Irondequoit EMS 	Volunteer Ambulance   	FMN 	EMS-Talk 
-155.10000 	WNHQ325 	RM	131.8 PL	Irondequoit Hwy 	Highway Department  	FMN 	Public Works 
-37.92000 	KEI770 	BM	CSQ	Mendon Hwy 	Highway Department 	FM 	Public Works 
-453.33750 	WPXU795 	RM	CC 1TG 133000SL 1	Ogden Hwy 	Highway Department 	DMR 	Public Works 
-158.96250 	WPNX252 	RM	91.5 PL	Parma Spc Pol 	Special Police 	FMN 	Law Talk 
-155.83500 	KEC911 	BM		Parma FD 	Hilton Parma FD Backup 	FMN 	Fire-Tac 
-158.43000 	WPMP888 	BM	203.5 PL	Parma Hwy 	Highway Department 	FMN 	Public Works 
-151.33250 	KEC761 	RM	371 DPL	Penfield FD  	Fire District 	FMN 	Fire Dispatch 
-153.95000 	KEH802 	BM	179.9 PL	Perinton FD 	Fire Ch. 53 	FMN 	Fire Dispatch 
-152.36000 	WPNP564 	BM	411 DPL	Perinton EMS 	Volunteer Ambulance Ch. 3 	FMN 	EMS-Talk 
-155.14500 	KIZ600 	BM	110.9 PL	Perinton DPW 	DPW 	FMN 	Public Works 
-158.74500 	KIZ600 	BM	127.3 PL	Perinton Hwy 	Highway Department 	FMN 	Public Works 
-37.18000 	KDF938 	BM	167.9 PL	Pittsford TwnHwy 	Highway Department 	FM 	Public Works 
-45.20000 	KYQ591 	BM	162.2 PL	Pittsford TwnDPW 	DPW 	FM 	Public Works 
-155.86500 	WPDS831 	BM	118.8 PL	Pittsford VilDPW 	DPW 	FMN 	Public Works 
-37.94000 	WZC605 	BM		Riga Highway 	Highway Department 	FM 	Public Works 
-153.41000 	KEF908 	BM	123.0 PL	Roch Water Burea 	Water Bureau   	FMN 	Utilities 
-156.10500 	KNFS797 	BM	114.8 PL	Roch Refuse/Recy 	DES Refuse and Recycling 	FMN 	Public Works 
-159.39000 	WNQJ609 	RM	114.8 PL	Roch DES Parks 	DES Parks 	FMN 	Public Works 
-161.43000 	KNFS797 	BM	114.8 PL	Roch DES Ops 	DES Operation and Maintenance 	FMN 	Public Works 
-173.23750 	WNFA980 	F		Hemlock Lake 	Telemetry to/from Hemlock Lake 	Telm 	Data 
-37.96000 	WPKM895 	BM	203.5 PL	Rush Highway 	Highway Department 	FM 	Public Works 
-154.20500 	KED961 	BM		Spencrprt FD Adm 	Fire Administrative  	FMN 	Fire-Talk 
-154.96500 	KFT488 	BM	107.2 PL	Spencrprt DPW 	DPW 	FMN 	Public Works 
-155.98500 	KED961 	BM	223 DPL	Spencrprt FD Pat 	FD Patch to 453.2500 	FMN 	Fire-Talk 
-453.75000 	KJP559 	RM	82.5 PL	Sweden Hwy 	Highway Department 	FMN 	Public Works 
-453.72500 	WPBT505 	RM	167.9 PL	Webster PD SWAT 	Police Ch. 7 - Special Police and Tactical 	FMN 	Law Tac 
-460.62500 	KEC812 	BM	107.2 PL	Webster FD Cmd 	Fire Command 	FMN 	Fire-Tac 
-154.40000 	KEC812 	BM	754 DPL	Webster FD Prv 	Fire - Private Channel 	FMN 	Fire-Talk 
-37.90000 	KEH763 	RM	151.4 PL	Webster Highway 	Highway Department 	FM 	Public Works 
-154.28000 	KEC978 	M	754 DPL	W Webster FD Cmd 	Fire - Command 	FMN 	Fire-Tac 
-460.57500 	KEC978 	BM	107.2 PL	W Webster FG 	Fireground 	FMN 	Fire-Tac 
-154.60000 	 	M	CSQ	Aquinas Institut 	Aquinas Institute Sports Program 	FMN 	Schools 
-452.82500 	WQKH731 	RM	662 DPL	E Ironqt SD 	East Irondequoit SD 	FMN 	Schools 
-451.62500 	WPNS761 	RM	074 DPL	FairportCSD B/G 	Fairport CSD Building and Grounds 	FMN 	Schools 
-452.35000 	WPNS761 	RM		FairportCSD B/G 	Fairport CSD Building and Grounds 	FMN 	Schools 
-152.99000 	KYY582 	RM	69.3 PL	Fairport CSD Bus 	Fairport CSD Buses 	FMN 	Schools 
-154.54000 	KYY582 	BM	97.4 PL	Fairport CSD Bus 	Fairport CSD Buses 	FMN 	Schools 
-462.27500 	WQYK726 	RM	192.8 PL	GCCSD Admin 	Gates-Chili CSD Admin 	FMN 	Schools 
-453.92500 	KSN275 	RM	223 DPL	GCCSD Buses 	Gates-Chili CSD Buses 	FMN 	Schools 
-153.44000 	WQZB859 	RM	CC 1TG *SL 1	Hilton CSD Admin 	Hilton CSD Admin 	DMR 	Schools 
-152.94500 	WPVX528 	BM	723 DPL	Hilton CSD Buses 	Hilton CSD Buses 	FMN 	Schools 
-154.51500 	KNDE752 	M		HFLCSD Build/Grd 	Honeoye Falls–Lima CSD Building and Grounds 	FMN 	Schools 
-154.54000 	KNDE752 	M		HFLCSD Build/Grd 	Honeoye Falls–Lima CSD Building and Grounds 	FMN 	Schools 
-154.57000 	KNDE752 	M		HFLCSD Build/Grd 	Honeoye Falls–Lima CSD Building and Grounds 	FMN 	Schools 
-154.60000 	KNDE752 	M		HFLCSD Build/Grd 	Honeoye Falls–Lima CSD Building and Grounds 	FMN 	Schools 
-155.22000 	KNDE752 	BM	466 DPL	HFLCSD Buses 	Honeoye Falls–Lima CSD Buses 	FMN 	Schools 
-452.05000 	WPYS810 	RM	CC 1TG 300SL 2	Mon#1 BOCES OCon 	Monroe #1 BOCES (41 O'Connor Rd) 	DMR 	Schools 
-452.25000 	WPYS810 	RM	CC 1TG 10SL 2	Mon#1 BOCES ERoc 	Monroe #1 BOCES (E. Rochester) 	DMR 	Schools 
-460.60000 	WQWK974 	RM	CC 1TG 700SL 1	Mon#1 BOCES 	Monroe #1 BOCES Buses 	DMR 	Schools 
-461.82500 	WQUE402 	RM	CC 1TG 15SL 1	Mon#2 BOCES Adm 	Monroe #2 BOCES Admin 	DMR 	Schools 
-461.82500 	WQUE402 	RM	CC 1TG 10SL 2	Mon#2 BOCES Sec 	Monroe #2 BOCES Security 	DMR 	Security 
-155.23500 	KNCD846 	BM	173.8 PL	PenCSD Buses 	Penfield CSD Buses 	FMN 	Schools 
-461.55000 	WPSZ874 	RM	179.9 PL	PenCSD Security 	Penfield CSD Security 	FMN 	Security 
-464.87500 	WNAE930 	RM	118.8 PL	PitCSD Buses 	Pittsford CSD Buses 	FMN 	Schools 
-153.08000 	KNFX963 	BM		SCSD Security 	Spencerport CSD Security 	FMN 	Security 
-151.89500 	WQQC437 	RM	192.8 PL	Webster CSD Bus 	Webster CSD Buses 	FMN 	Schools 
-451.86250 	WQQC437 	RM	192.8 PL	Spry Middle Sch 	Webster Spry Middle School 	FMN 	Schools 
-451.45000 	WQQC437 	RM	023 DPL	Webster THS Adm 	Webster Thomas High School Admin 	FMN 	Schools 
-453.67500 	WQDZ992 	RM	CC 1TG 10000SL 1	MCC-B Buildings 	Brighton Campus Ch. 1 - Building Services 	DMR 	Schools 
-153.00500 	KTH863 	RM	346 DPL	Nazareth Sec 	Security 	FMN 	Security 
-153.11750 	WQJS852 	RM	CC 1TG 3891000SL 1	Nazareth LP 	Activities (Low Power) 	DMR 	Schools 
-153.44000 	WQJL210 	RM		Nazareth LP 	Activities (Low Power) 	FMN 	Schools 
-154.51500 	WPKJ456 	RM	CC 1TG 1041101SL 1	Nazareth Fac 	Facilities 	DMR 	Schools 
-467.93750 	KB77855 	M		PS Trn Ctr1 	Public Safety Training Center 	FMN 	Schools 
-467.96250 	KB77855 	M		PS Trn Ctr2 	Public Safety Training Center 	FMN 	Schools 
-467.98750 	KB77855 	M		PS Trn Ctr3 	Public Safety Training Center 	FMN 	Schools 
-468.06250 	KB77855 	M		PS Trn Ctr4 	Public Safety Training Center 	FMN 	Schools 
-468.08750 	KB77855 	M		PS Trn Ctr5 	Public Safety Training Center 	FMN 	Schools 
-468.11250 	KB77855 	M		PS Trn Ctr6 	Public Safety Training Center 	FMN 	Schools 
-468.13750 	KB77855 	M		PS Trn Ctr7 	Public Safety Training Center 	FMN 	Schools 
-468.16250 	KB77855 	M		PS Trn Ctr8 	Public Safety Training Center 	FMN 	Schools 
-468.18750 	KB77855 	M		PS Trn Ctr9 	Public Safety Training Center 	FMN 	Schools 
-154.48250 	WPYW481 	RM	118.8 PL	RWC Safety 1 	Safety Repeater 1 	FMN 	Security 
-151.86500 	WPYW481 	RM	162.2 PL	RWC Safety 2 	Safety Repeater 2 	FMN 	Security 
-160.07250 	WPYW481 	M	141.3 PL	RWC Detail 	Safety Detail 	FMN 	Security 
-152.35250 	WPYW481 	RM	167.9 PL	RWC Facility 	Facilities 	FMN 	Schools 
-151.80500 	KNHN624 	BM	88.5 PL	RWC 1 	RWC 1 	FMN 	Schools 
-151.83500 	WPBB862 	BM	88.5 PL	RWC 2 	RWC 2 	FMN 	Schools 
-151.58000 	WQWL456 	RM	203.5 PL	RCSD #19 	School #19 	FMN 	Schools 
-151.60250 	WQMJ922 	RM	192.8 PL	RCSD Ldrshp Acad 	Leadership Academy 	FMN 	Schools 
-151.80500 	WQJB720 	RM	172 DPL	RCSD #33 	School #33 	FMN 	Schools 
-152.87000 	WQBJ398 	RM	CC 1TG 1428201SL 1	RCSD Monroe HS 	Monroe HS 	DMR 	Schools 
-152.89250 	WQKQ722 	RM	CC 1TG *SL 1	RCSD Hart St Ctr 	Hart Street Center 	DMR 	Schools 
-152.89250 	WQKQ722 	RM	223 DPL	RCSD #9 	School #9 	FMN 	Schools 
-153.00500 	WQJB720 	RM	67.0 PL	RCSD Edgerton Pk 	Edgerton Park Campus 	FMN 	Schools 
-153.02000 	WQYN472 	RM	229.1 PL	RCSD #34 	School #34 	FMN 	Schools 
-153.35000 	WQXV999 	RM	79.7 PL	RCSD #28 	School #28 	FMN 	Schools 
-155.65500 	WQAD232 	RM	97.4 PL	RCSD Transprt 	Transportation Repeater 	FMN 	Schools 
-155.77500 	WPWH789 	BM	151.4 PL	RCSD Admin 	Rochester City School District 	FMN 	Security 
-155.77500 	WPWH789 	BM	85.4 PL	RCSD Transprt 	Transportation 	FMN 	Schools 
-461.67500 	WQTM243 	RM	CC 1TG 1020010SL 1	RCSD Douglass 	Douglass Campus 	DMR 	Schools 
-461.95000 	WQDV375 	RM	CC 1TG 1087510SL 1	RCSD Wilson HS 	Wilson High School 	DMR 	Schools 
-462.27500 	WQJB398 	RM	CC 1TG 1116110SL 1	RCSD SOTA 	School of the Arts 	DMR 	Schools 
-463.20000 	WPOD994 	RM	CC 1TG 1087610SL 1	RCSD Franklin 	Franklin Campus 	DMR 	Schools 
-463.32500 	WQDV375 	RM	186.2 PL	Wilson Fndtn Acd 	Wilson Foundation Academy 	FMN 	Schools 
-463.72500 	WPOD994 	RM	CC 1TG 1087101SL 1	RCSD Edison Tech 	Edison Tech HS 	DMR 	Schools 
-463.76250 	WQBJ398 	RM	218.1 PL	RCSD #12 	School #12 	FMN 	Schools 
-464.70000 	WQBJ398 	RM	199.5 PL	RCSD East HS 	East HS 	FMN 	Schools 
-152.94500 	WQTD991 	RM	103.5 PL	RIT EMS Ch 2 	Ambulance Operations Ch 2 	FMN 	EMS-Tac 
-463.41250 	WNVK569 	M		RIT Crew 1 	Tech Crew Ch. 1 	FMN 	Schools 
-468.41250 	WNVK569 	M		RIT Crew 2 	Tech Crew Ch. 2 	FMN 	Schools 
-864.21250 	WPLZ859 	RM	031 DPL	RIT Safety 	Campus Safety Dispatch 	FM 	Security 
-452.12500 	WQOB216 	RM	110.9 PL	SJF Security 	Security 	FMN 	Security 
-452.20000 	WQOB216 	RM	100.0 PL	SJF Facilities 	Facilities 	FMN 	Schools 
-453.35000 	KTO381 	RM	88.5 PL	SUNY Brock PD 	University Police 	FMN 	Law Talk 
-151.71500 	WSU228 	BM	94.8 PL	SUNY Brock Maint 	Maintenance 	FMN 	Schools 
-461.37500 	KRY653 	RM	123.0 PL	UofR Security 	Security Operations 	FMN 	Security 
-464.70000 	KRY653 	RM	123.0 PL	UofR Fire 	MERT Fire Response 	FMN 	Security 
-462.67500 	KAA9006 	RM	123.0 PL	UofR Facilities 	Facilities 	FMN 	Schools 
-464.60000 	KRY653 	RM	123.0 PL	UofR Security 	Security - Car to Car 	FMN 	Security 
-461.77500 	WNRT448 	RM	411 DPL	UofR Parking 	Medical Center - Parking 	FMN 	Schools 
-464.25000 	KRY653 	RM	123.0 PL	Eastman Security 	Eastman School Security (link to 461.375) 	FMN 	Security 
-BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	Eastman Kodak	 Motorola Type II SmartZone	 Rochester	Flower City Communications (Rochester)	 LTR Standard
- Rochester	Mobiletech Communications	 LTR Net	 Various	RadioMax Communications	 DMR Tier 3	 Rochester	Rochester Psychiatric Center
- DMR Motorola Capacity Plus Single Site (TRBO)	 Rochester	Rochester Radio	 NXDN NEXEDGE 9600	 Regional	Rochester Radio Inc.	 LTR Standard	 Rochester
-SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various	Wegmans Food Markets	 DMR Motorola Connect Plus (TRBO)	 Multiple	
+460.47500 	465.47500  	KUJ763 	RM	7F3 NAC	MCSO Dispatch 	Sheriff Dispatch 	P25 	Law Dispatch 
+460.40000 	465.40000  	KUJ763 	RM	83B NAC	MCSO Admin East 	Sheriff East Administration   	P25 	Law Talk 
+460.17500 	465.17500  	KUJ763 	RM	6CA NAC	MCSO Admin West 	Sheriff West Administration 	P25 	Law Talk 
+460.27500 	465.27500  	WNDF944 	RM	8D1 NAC	MCSO Airport 	Sheriff Airport Detail 	P25 	Law Dispatch 
+460.28750 	   	WQMH414 	M	FAA NAC	MCSO Airport C-C 	Sheriff Airport Car to Car 	P25 	Law Talk 
+460.35000 	465.35000  	KUJ763 	RM	2CF NAC	Towns West 	Towns West (Gates, Greece) 	P25 	Law Dispatch 
+460.07500 	465.07500  	KUJ763 	RM	4CE NAC 	Towns North 	Towns North (Brighton, Irondequiot, Webster) 	P25 	Law Dispatch 
+460.02500 	465.02500  	KUJ763 	RM	9C7 NAC	RPD East Disptch 	Rochester PD East Dispatch 	P25 	Law Dispatch 
+460.12500 	465.12500  	KUJ763 	RM	5B6 NAC	RPD West Disptch 	Rochester PD West Dispatch 	P25 	Law Dispatch 
+460.50000 	465.50000  	KUJ763 	RM	61F NAC	RPD Tac 	Rochester PD Tac 	P25 	Law Tac 
+460.45000 	465.45000  	KUJ763 	RM	8F3 NAC	RPD Admin East 	Rochester PD East Administration 	P25 	Law Talk 
+460.20000 	465.20000  	KUJ763 	RM	4F9 NAC	RPD Admin West 	Rochester PD West Administration 	P25 	Law Talk 
+460.22500 	465.22500  	KUJ763 	RM	5EA NAC	RPD Records 	Rochester PD City Records 	P25 	Law Talk 
+460.28750 	   	WQMH414 	M	293 NAC	MCSO Detail 1 	Sheriff Ch 11 Detail 1 	P25 	Law Tac 
+460.31250 	   	 	M	293 NAC	MCSO Detail 2 	Sheriff Ch 12 Detail 2 	P25 	Law Tac 
+456.03750 	   	 	M	BAD NAC	MCSO On-Scene  	Sheriff Ch 13 On-Scene 	P25 	Law Tac 
+460.32500 	465.32500  	KUJ763 	RM	29E NAC	TAC County 	TAC County 	P25 	Law Tac 
+460.37500 	465.37500  	KUJ763 	RM	31D NAC	TAC East 	TAC East 	P25 	Law Tac 
+460.25000 	465.25000  	KUJ756 	RM	2B5 NAC	TAC West 	TAC West 	P25 	Law Tac 
+460.46250 	   	WQMH414 	M	ACE NAC	Towns North C-C 	Towns North Ch 2 Car to Car 	P25 	Law Talk 
+460.05000 	465.05000  	WNAL770 	RM	920 NAC	MC Brighton CF 	County Correctional Facility - Brighton 	P25 	Corrections 
+460.10000 	465.10000  	WNAL770 	RM	746 NAC	MC Jail 	County Jail - Downtown 	P25 	Corrections 
+460.15000 	465.15000  	WNAL770 	RM	125 DPL	MC HoJ Security 	Sheriff - Hall of Justice Security 	FMN 	Law Tac 
+774.95625 	   	WQSW336 	BM	293 NAC	MC Law Direct 	Law Direct 	P25 	Law Tac 
+154.13000 	   	KEB243 	BM	131 DPL	RFD Dispatch 	Fire Ch. 1 - Dispatch - Rochester City 	FMN 	Fire Dispatch 
+154.25000 	   	KEB243 	BM	261 DPL	RFD Fireground 	Fire Ch. 2 - Fireground - Rochester City 	FMN 	Fire-Tac 
+154.38500 	   	KED332 	BM	365 DPL	MC Fireground E 	Fire Ch. 3 - Fireground- County East 	FMN 	Fire-Tac 
+154.17500 	   	KED332 	BM	466 DPL	MC Fireground W 	Fire  Ch. 4 - Fireground- County West 	FMN 	Fire-Tac 
+154.31000 	   	KED332 	BM	506 DPL	MC FD Dispatch 	Fire Ch. 5 - Dispatch - Monroe County 	FMN 	Fire Dispatch 
+154.34000 	   	KC5400 	BM	606 DPL	MC HazMat 	Fire Ch.  6 - Hazmat 	FMN 	Fire-Tac 
+155.82000 	   	KKD540 	BM	054 DPL	MC Fire Police 	Fire Ch. 9 - Countywide Fire Police 	FMN 	Fire-Tac 
+153.83000 	   	KC5400 	M	114 DPL	MC Fire Portable 	Fire Portables (City/County) 	FMN 	Fire-Tac 
+154.10750 	   	WPPF797 	BM	031 DPL	MC FD Batt 1 Ops 	Fire/EMS Battalion 1 Operations 	FMN 	Fire-Tac 
+155.25750 	   	WPPF797 	BM	074 DPL	MC FD Batt 2 Ops 	Fire/EMS Battalion 2 Operations 	FMN 	Fire-Tac 
+156.23250 	   	WQAG289 	BM	047 DPL	MC FD Batt 3 Ops 	Fire/EMS Battalion 3 Operations 	FMN 	EMS-Tac 
+155.00250 	   	WPPF797 	BM	065 DPL	MC FD Batt 4 Ops 	Fire/EMS Battalion 4 Operations 	FMN 	Fire-Tac 
+155.31750 	   	WPPF797 	BM	223 DPL	MC FD Batt 5 Ops 	Fire/EMS Battalion 5 Operations 	FMN 	Fire-Tac 
+155.39250 	   	WPPF797 	BM	245 DPL	MC FD InterBatt  	Fire/EMS Inter-Battalion Operations 	FMN 	Fire-Tac 
+774.94375 	   	WQSW336 	M	293 NAC	MC Fire Direct 	Fire Direct 	P25 	Fire-Tac 
+858.36250 	813.36250  	WRDR365 	M	293 NAC	MC FD Mob Rpt A 	Fire Mobile Repeater A 	P25 	Fire-Tac 
+858.41250 	813.41250  	WRDR365 	M	293 NAC	MC FD Mob Rpt B 	Fire Mobile Repeater B 	P25 	Fire-Tac 
+858.46250 	813.46250  	WRDR365 	M	293 NAC	MC FD Mob Rpt C 	Fire Mobile Repeater C 	P25 	Fire-Tac 
+858.51250 	813.51250  	WRDR365 	M	293 NAC	MC FD Mob Rpt D 	Fire Mobile Repeater D 	P25 	Fire-Tac 
+858.76250 	813.76250  	WRDR365 	M	293 NAC	MC FD Mob Rpt E 	Fire Mobile Repeater E 	P25 	Fire-Tac 
+858.81250 	813.81250  	WRDR365 	M	293 NAC	MC FD Mob Rpt F 	Fire Mobile Repeater F 	P25 	Fire-Tac 
+858.86250 	813.86250  	WRDR365 	M	293 NAC	MC FD Mob Rpt G 	Fire Mobile Repeater G 	P25 	Fire-Tac 
+155.29500 	   	KZC565 	BM	265 DPL	MC EMS Dispatch 	EMS Countywide Dispatch 	FMN 	EMS Dispatch 
+155.17500 	   	KZC565 	BM	172 DPL	MC EMS Disaster 	EMS Disaster Common 	FMN 	EMS-Tac 
+155.28000 	   	KZC565 	BM	205 DPL	MC EMS Ops 	EMS Operations 	FMN 	EMS-Talk 
+151.65500 	159.63000  	WQNV259 	RM	125 DPL	AMR Dispatch 	American Medical Response Dispatch 	FMN 	EMS Dispatch 
+155.26500 	   	KNBK950 	BM	411 DPL	AMR Ops 	American Medical Response Operations 	FMN 	EMS-Tac 
+774.93125 	   	WQSW336 	M	293 NAC	MC EMS Direct 	EMS Direct 	P25 	EMS-Tac 
+769.03125 	   	WQSW336 	M	293 NAC	MC PS Direct 	Public Safety Direct 	P25 	Interop 
+769.04375 	   	WQSW336 	M	293 NAC	MC PS Training 	Public Safety Training Facility 	P25 	Multi-Talk 
+153.92000 	   	KEH728 	BM	731 DPL	MC OEM 	Local Government/OEM 	FMN 	Emergency Ops 
+153.99500 	159.06000  	WPJK568 	RM	179.9 PL	Brighton FD 	Fire Ch. 52 	FMN 	Fire-Tac 
+158.94000 	   	KCQ260 	BM	127.3 PL	Brockport FD 	Fire Ch. 58 	FMN 	Fire-Tac 
+155.95500 	   	WPQG603 	BM	743 DPL	Chili FD 	Fire Ch. 90 	FMN 	Fire Dispatch 
+453.16250 	458.16250  	WQRX916 	RM	CC 1TG 100SL 1	Chili DPW Disp 	DPW Dispatch Talkgroup 	DMR 	Public Works 
+453.16250 	458.16250  	WQRX916 	RM	CC 1TG 101SL 1	Chili DPW Work 	DPW Working Talkgroup 	DMR 	Public Works 
+155.83500 	   	KEC911 	BM		Churchville DPW 	DPW 	FMN 	Public Works 
+154.08500 	   	KFI589 	BM	203.5 PL	E Rochester DPW 	DPW 	FMN 	Public Works 
+46.58000 	   	KSO874 	B		Fairport Highway 	Highway Department 	FM 	Public Works 
+452.10000 	457.10000  	KNNN485 	RM	723 DPL	Fairport Electrc 	Municipal Electric  	FMN 	Utilities 
+158.88000 	   	KEC992 	BM	245 DPL	Gates FD 	Fire Ch. 80 	FMN 	Fire-Tac 
+453.57500 	   	KZF914 	B	151.4 PL	Gates Highway 	Highway Department 	FMN 	Public Works 
+469.55000 	   	 	M	C0B NAC	Greece Spc Pol 	Special Police Unit 	P25 	Law Talk 
+154.05500 	   	KEC982 	BM	243 DPL	Greece FD 	Fire Ch. 50 - North Greece 	FMN 	Fire-Tac 
+158.80500 	   	KFM489 	BM		Greece FD 	Fire  	FMN 	EMS-Tac 
+155.05500 	158.89500  	KLS588 	RM	186.2 PL	Greece EMS 	Volunteer Ambulance 60 	FMN 	EMS Dispatch 
+151.10000 	   	WQJK492 	M	043 DPL	Greece FD Ridge 	Ridge Road Fire - Simplex Repeater 	FMN 	Fire-Tac 
+151.15250 	154.17500  	KEC614 	RM	043 DPL	Greece FD Ridge 	Ridge Road Fire District (Repeats Everything on Monroe County Channel 4) 	FMN 	Fire-Tac 
+151.45250 	   	KEC614 	BM	343 DPL	Greece FD Ridge 	Ridge Road Working Channel 	FMN 	Fire-Tac 
+453.65000 	458.65000  	WPXJ953 	RM	103.5 PL	Greece Highway 	Highway Department 	FMN 	Public Works 
+155.02500 	   	KNBG204 	BM		HMWFD Tac 	Hamlin Morton Walker Fire District - Tac 	FMN 	Fire-Tac 
+453.55000 	458.55000  	KXM927 	RM	151.4 PL	Hamlin Hwy 	Highway Department 	FMN 	Public Works 
+154.41500 	151.17500  	KTE351 	RM	179.9 PL	Henrietta FD 	Fire Ch. 51 	FMN 	Fire Dispatch 
+155.23500 	   	KCY628 	BM	186.2 PL	Henrietta EMS 	Ambulance Ch. 3 (coordination with Henrietta FD) 	FMN 	EMS-Talk 
+453.77500 	458.77500  	KEF645 	RM	CC 1TG 14467000SL 1	Henrietta DPW 	Dept of Public Works 	DMR 	Public Works 
+156.18750 	   	WNJB888 	BM	365 DPL	St Paul Blvd FD 	Saint Paul Boulevard Fire District 	FMN 	Fire-Tac 
+154.43000 	   	KEC814 	BM	179.9 PL	Ridge Culver FD 	Ridge Culver Fire District 	FMN 	Fire-Tac 
+155.12250 	   	WPQB879 	BM		Irondequoit EMS 	Volunteer Ambulance   	FMN 	EMS-Talk 
+155.10000 	153.98000  	WNHQ325 	RM	131.8 PL	Irondequoit Hwy 	Highway Department  	FMN 	Public Works 
+37.92000 	   	KEI770 	BM	CSQ	Mendon Hwy 	Highway Department 	FM 	Public Works 
+453.33750 	458.33750  	WPXU795 	RM	CC 1TG 133000SL 1	Ogden Hwy 	Highway Department 	DMR 	Public Works 
+158.96250 	153.76250  	WPNX252 	RM	91.5 PL	Parma Spc Pol 	Special Police 	FMN 	Law Talk 
+155.83500 	   	KEC911 	BM		Parma FD 	Hilton Parma FD Backup 	FMN 	Fire-Tac 
+158.43000 	   	WPMP888 	BM	203.5 PL	Parma Hwy 	Highway Department 	FMN 	Public Works 
+151.33250 	   	KEC761 	RM	371 DPL	Penfield FD  	Fire District 	FMN 	Fire Dispatch 
+153.95000 	   	KEH802 	BM	179.9 PL	Perinton FD 	Fire Ch. 53 	FMN 	Fire Dispatch 
+152.36000 	   	WPNP564 	BM	411 DPL	Perinton EMS 	Volunteer Ambulance Ch. 3 	FMN 	EMS-Talk 
+155.14500 	   	KIZ600 	BM	110.9 PL	Perinton DPW 	DPW 	FMN 	Public Works 
+158.74500 	   	KIZ600 	BM	127.3 PL	Perinton Hwy 	Highway Department 	FMN 	Public Works 
+37.18000 	   	KDF938 	BM	167.9 PL	Pittsford TwnHwy 	Highway Department 	FM 	Public Works 
+45.20000 	   	KYQ591 	BM	162.2 PL	Pittsford TwnDPW 	DPW 	FM 	Public Works 
+155.86500 	   	WPDS831 	BM	118.8 PL	Pittsford VilDPW 	DPW 	FMN 	Public Works 
+37.94000 	   	WZC605 	BM		Riga Highway 	Highway Department 	FM 	Public Works 
+153.41000 	   	KEF908 	BM	123.0 PL	Roch Water Burea 	Water Bureau   	FMN 	Utilities 
+156.10500 	   	KNFS797 	BM	114.8 PL	Roch Refuse/Recy 	DES Refuse and Recycling 	FMN 	Public Works 
+159.39000 	154.98000  	WNQJ609 	RM	114.8 PL	Roch DES Parks 	DES Parks 	FMN 	Public Works 
+161.43000 	   	KNFS797 	BM	114.8 PL	Roch DES Ops 	DES Operation and Maintenance 	FMN 	Public Works 
+173.23750 	   	WNFA980 	F		Hemlock Lake 	Telemetry to/from Hemlock Lake 	Telm 	Data 
+37.96000 	   	WPKM895 	BM	203.5 PL	Rush Highway 	Highway Department 	FM 	Public Works 
+154.20500 	   	KED961 	BM		Spencrprt FD Adm 	Fire Administrative  	FMN 	Fire-Talk 
+154.96500 	   	KFT488 	BM	107.2 PL	Spencrprt DPW 	DPW 	FMN 	Public Works 
+155.98500 	   	KED961 	BM	223 DPL	Spencrprt FD Pat 	FD Patch to 453.2500 	FMN 	Fire-Talk 
+453.75000 	458.75000  	KJP559 	RM	82.5 PL	Sweden Hwy 	Highway Department 	FMN 	Public Works 
+453.72500 	458.72500  	WPBT505 	RM	167.9 PL	Webster PD SWAT 	Police Ch. 7 - Special Police and Tactical 	FMN 	Law Tac 
+460.62500 	   	KEC812 	BM	107.2 PL	Webster FD Cmd 	Fire Command 	FMN 	Fire-Tac 
+154.40000 	   	KEC812 	BM	754 DPL	Webster FD Prv 	Fire - Private Channel 	FMN 	Fire-Talk 
+37.90000 	39.90000  	KEH763 	RM	151.4 PL	Webster Highway 	Highway Department 	FM 	Public Works 
+154.28000 	   	KEC978 	M	754 DPL	W Webster FD Cmd 	Fire - Command 	FMN 	Fire-Tac 
+460.57500 	   	KEC978 	BM	107.2 PL	W Webster FG 	Fireground 	FMN 	Fire-Tac 
+154.60000 	   	 	M	CSQ	Aquinas Institut 	Aquinas Institute Sports Program 	FMN 	Schools 
+452.82500 	457.82500  	WQKH731 	RM	662 DPL	E Ironqt SD 	East Irondequoit SD 	FMN 	Schools 
+451.62500 	456.62500  	WPNS761 	RM	074 DPL	FairportCSD B/G 	Fairport CSD Building and Grounds 	FMN 	Schools 
+452.35000 	457.35000  	WPNS761 	RM		FairportCSD B/G 	Fairport CSD Building and Grounds 	FMN 	Schools 
+152.99000 	157.54500  	KYY582 	RM	69.3 PL	Fairport CSD Bus 	Fairport CSD Buses 	FMN 	Schools 
+154.54000 	   	KYY582 	BM	97.4 PL	Fairport CSD Bus 	Fairport CSD Buses 	FMN 	Schools 
+462.27500 	467.27500  	WQYK726 	RM	192.8 PL	GCCSD Admin 	Gates-Chili CSD Admin 	FMN 	Schools 
+453.92500 	458.92500  	KSN275 	RM	223 DPL	GCCSD Buses 	Gates-Chili CSD Buses 	FMN 	Schools 
+153.44000 	159.87000  	WQZB859 	RM	CC 1TG *SL 1	Hilton CSD Admin 	Hilton CSD Admin 	DMR 	Schools 
+152.94500 	   	WPVX528 	BM	723 DPL	Hilton CSD Buses 	Hilton CSD Buses 	FMN 	Schools 
+154.51500 	   	KNDE752 	M		HFLCSD Build/Grd 	Honeoye Falls–Lima CSD Building and Grounds 	FMN 	Schools 
+154.54000 	   	KNDE752 	M		HFLCSD Build/Grd 	Honeoye Falls–Lima CSD Building and Grounds 	FMN 	Schools 
+154.57000 	   	KNDE752 	M		HFLCSD Build/Grd 	Honeoye Falls–Lima CSD Building and Grounds 	FMN 	Schools 
+154.60000 	   	KNDE752 	M		HFLCSD Build/Grd 	Honeoye Falls–Lima CSD Building and Grounds 	FMN 	Schools 
+155.22000 	   	KNDE752 	BM	466 DPL	HFLCSD Buses 	Honeoye Falls–Lima CSD Buses 	FMN 	Schools 
+452.05000 	457.05000  	WPYS810 	RM	CC 1TG 300SL 2	Mon#1 BOCES OCon 	Monroe #1 BOCES (41 O'Connor Rd) 	DMR 	Schools 
+452.25000 	457.25000  	WPYS810 	RM	CC 1TG 10SL 2	Mon#1 BOCES ERoc 	Monroe #1 BOCES (E. Rochester) 	DMR 	Schools 
+460.60000 	465.60000  	WQWK974 	RM	CC 1TG 700SL 1	Mon#1 BOCES 	Monroe #1 BOCES Buses 	DMR 	Schools 
+461.82500 	466.82500  	WQUE402 	RM	CC 1TG 15SL 1	Mon#2 BOCES Adm 	Monroe #2 BOCES Admin 	DMR 	Schools 
+461.82500 	466.82500  	WQUE402 	RM	CC 1TG 10SL 2	Mon#2 BOCES Sec 	Monroe #2 BOCES Security 	DMR 	Security 
+155.23500 	   	KNCD846 	BM	173.8 PL	PenCSD Buses 	Penfield CSD Buses 	FMN 	Schools 
+461.55000 	466.55000  	WPSZ874 	RM	179.9 PL	PenCSD Security 	Penfield CSD Security 	FMN 	Security 
+464.87500 	469.87500  	WNAE930 	RM	118.8 PL	PitCSD Buses 	Pittsford CSD Buses 	FMN 	Schools 
+153.08000 	   	KNFX963 	BM		SCSD Security 	Spencerport CSD Security 	FMN 	Security 
+151.89500 	158.38500  	WQQC437 	RM	192.8 PL	Webster CSD Bus 	Webster CSD Buses 	FMN 	Schools 
+451.86250 	456.86250  	WQQC437 	RM	192.8 PL	Spry Middle Sch 	Webster Spry Middle School 	FMN 	Schools 
+451.45000 	456.15000  	WQQC437 	RM	023 DPL	Webster THS Adm 	Webster Thomas High School Admin 	FMN 	Schools 
+453.67500 	458.67500  	WQDZ992 	RM	CC 1TG 10000SL 1	MCC-B Buildings 	Brighton Campus Ch. 1 - Building Services 	DMR 	Schools 
+153.00500 	159.49500  	KTH863 	RM	346 DPL	Nazareth Sec 	Security 	FMN 	Security 
+153.11750 	158.16000  	WQJS852 	RM	CC 1TG 3891000SL 1	Nazareth LP 	Activities (Low Power) 	DMR 	Schools 
+153.44000 	159.75000  	WQJL210 	RM		Nazareth LP 	Activities (Low Power) 	FMN 	Schools 
+154.51500 	159.97500  	WPKJ456 	RM	CC 1TG 1041101SL 1	Nazareth Fac 	Facilities 	DMR 	Schools 
+467.93750 	   	KB77855 	M		PS Trn Ctr1 	Public Safety Training Center 	FMN 	Schools 
+467.96250 	   	KB77855 	M		PS Trn Ctr2 	Public Safety Training Center 	FMN 	Schools 
+467.98750 	   	KB77855 	M		PS Trn Ctr3 	Public Safety Training Center 	FMN 	Schools 
+468.06250 	   	KB77855 	M		PS Trn Ctr4 	Public Safety Training Center 	FMN 	Schools 
+468.08750 	   	KB77855 	M		PS Trn Ctr5 	Public Safety Training Center 	FMN 	Schools 
+468.11250 	   	KB77855 	M		PS Trn Ctr6 	Public Safety Training Center 	FMN 	Schools 
+468.13750 	   	KB77855 	M		PS Trn Ctr7 	Public Safety Training Center 	FMN 	Schools 
+468.16250 	   	KB77855 	M		PS Trn Ctr8 	Public Safety Training Center 	FMN 	Schools 
+468.18750 	   	KB77855 	M		PS Trn Ctr9 	Public Safety Training Center 	FMN 	Schools 
+154.48250 	160.19250  	WPYW481 	RM	118.8 PL	RWC Safety 1 	Safety Repeater 1 	FMN 	Security 
+151.86500 	159.87000  	WPYW481 	RM	162.2 PL	RWC Safety 2 	Safety Repeater 2 	FMN 	Security 
+160.07250 	   	WPYW481 	M	141.3 PL	RWC Detail 	Safety Detail 	FMN 	Security 
+152.35250 	157.61250  	WPYW481 	RM	167.9 PL	RWC Facility 	Facilities 	FMN 	Schools 
+151.80500 	   	KNHN624 	BM	88.5 PL	RWC 1 	RWC 1 	FMN 	Schools 
+151.83500 	   	WPBB862 	BM	88.5 PL	RWC 2 	RWC 2 	FMN 	Schools 
+151.58000 	160.15500  	WQWL456 	RM	203.5 PL	RCSD #19 	School #19 	FMN 	Schools 
+151.60250 	159.81000  	WQMJ922 	RM	192.8 PL	RCSD Ldrshp Acad 	Leadership Academy 	FMN 	Schools 
+151.80500 	160.14000  	WQJB720 	RM	172 DPL	RCSD #33 	School #33 	FMN 	Schools 
+152.87000 	160.09500  	WQBJ398 	RM	CC 1TG 1428201SL 1	RCSD Monroe HS 	Monroe HS 	DMR 	Schools 
+152.89250 	159.75750  	WQKQ722 	RM	CC 1TG *SL 1	RCSD Hart St Ctr 	Hart Street Center 	DMR 	Schools 
+152.89250 	159.75750  	WQKQ722 	RM	223 DPL	RCSD #9 	School #9 	FMN 	Schools 
+153.00500 	159.93000  	WQJB720 	RM	67.0 PL	RCSD Edgerton Pk 	Edgerton Park Campus 	FMN 	Schools 
+153.02000 	159.79500  	WQYN472 	RM	229.1 PL	RCSD #34 	School #34 	FMN 	Schools 
+153.35000 	159.99000  	WQXV999 	RM	79.7 PL	RCSD #28 	School #28 	FMN 	Schools 
+155.65500 	150.80500  	WQAD232 	RM	97.4 PL	RCSD Transprt 	Transportation Repeater 	FMN 	Schools 
+155.77500 	   	WPWH789 	BM	151.4 PL	RCSD Admin 	Rochester City School District 	FMN 	Security 
+155.77500 	   	WPWH789 	BM	85.4 PL	RCSD Transprt 	Transportation 	FMN 	Schools 
+461.67500 	466.67500  	WQTM243 	RM	CC 1TG 1020010SL 1	RCSD Douglass 	Douglass Campus 	DMR 	Schools 
+461.95000 	466.95000  	WQDV375 	RM	CC 1TG 1087510SL 1	RCSD Wilson HS 	Wilson High School 	DMR 	Schools 
+462.27500 	467.27500  	WQJB398 	RM	CC 1TG 1116110SL 1	RCSD SOTA 	School of the Arts 	DMR 	Schools 
+463.20000 	468.20000  	WPOD994 	RM	CC 1TG 1087610SL 1	RCSD Franklin 	Franklin Campus 	DMR 	Schools 
+463.32500 	468.32500  	WQDV375 	RM	186.2 PL	Wilson Fndtn Acd 	Wilson Foundation Academy 	FMN 	Schools 
+463.72500 	468.72500  	WPOD994 	RM	CC 1TG 1087101SL 1	RCSD Edison Tech 	Edison Tech HS 	DMR 	Schools 
+463.76250 	468.76250  	WQBJ398 	RM	218.1 PL	RCSD #12 	School #12 	FMN 	Schools 
+464.70000 	469.70000  	WQBJ398 	RM	199.5 PL	RCSD East HS 	East HS 	FMN 	Schools 
+152.94500 	160.03500  	WQTD991 	RM	103.5 PL	RIT EMS Ch 2 	Ambulance Operations Ch 2 	FMN 	EMS-Tac 
+463.41250 	   	WNVK569 	M		RIT Crew 1 	Tech Crew Ch. 1 	FMN 	Schools 
+468.41250 	   	WNVK569 	M		RIT Crew 2 	Tech Crew Ch. 2 	FMN 	Schools 
+864.21250 	819.21250  	WPLZ859 	RM	031 DPL	RIT Safety 	Campus Safety Dispatch 	FM 	Security 
+452.12500 	457.12500  	WQOB216 	RM	110.9 PL	SJF Security 	Security 	FMN 	Security 
+452.20000 	457.20000  	WQOB216 	RM	100.0 PL	SJF Facilities 	Facilities 	FMN 	Schools 
+453.35000 	458.35000  	KTO381 	RM	88.5 PL	SUNY Brock PD 	University Police 	FMN 	Law Talk 
+151.71500 	   	WSU228 	BM	94.8 PL	SUNY Brock Maint 	Maintenance 	FMN 	Schools 
+461.37500 	466.37500  	KRY653 	RM	123.0 PL	UofR Security 	Security Operations 	FMN 	Security 
+464.70000 	469.70000  	KRY653 	RM	123.0 PL	UofR Fire 	MERT Fire Response 	FMN 	Security 
+462.67500 	467.67500  	KAA9006 	RM	123.0 PL	UofR Facilities 	Facilities 	FMN 	Schools 
+464.60000 	469.60000  	KRY653 	RM	123.0 PL	UofR Security 	Security - Car to Car 	FMN 	Security 
+461.77500 	466.77500  	WNRT448 	RM	411 DPL	UofR Parking 	Medical Center - Parking 	FMN 	Schools 
+464.25000 	469.25000  	KRY653 	RM	123.0 PL	Eastman Security 	Eastman School Security (link to 461.375) 	FMN 	Security 
+BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	Eastman Kodak	 Motorola Type II SmartZone	 Rochester	Flower City Communications (Rochester)	 LTR Standard	 Rochester
+Mobiletech Communications	 LTR Net	 Various	RadioMax Communications	 DMR Tier 3	 Rochester	Rochester Psychiatric Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Rochester
+Rochester Radio	 NXDN NEXEDGE 9600	 Regional	Rochester Radio Inc.	 LTR Standard	 Rochester	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various
+Wegmans Food Markets	 DMR Motorola Connect Plus (TRBO)	 Multiple	

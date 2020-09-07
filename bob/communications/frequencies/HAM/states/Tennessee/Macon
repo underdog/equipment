@@ -1,16 +1,16 @@
-155.07000 	WPTT332 	RM	114.8 PL	MC Sheriff A 	Sheriff's Department 	FMN 	Law Dispatch 
-155.41500 	WQVU861 	RM	151.4 PL	MCSO ANALOG 	Sheriff's Department (Analog) 	FMN 	Law Dispatch 
-155.41500 	WQVU861 	RM	294 NAC	MCSO P25 	Sheriff's Department (Digital) 	P25 	Law Dispatch 
-173.26250 	WQCB639 	M		MCSO-CAMS 	Sheriff's Department - In Car Camerea/Mic system 	FMN 	Law Tac 
-151.04000 	WQBQ906 	BM		MC-911 AVL 	County -911 Services - Automated Vehicle Location 	FMN 	Data 
-154.34000 	WQVU861 	RM	167.9 PL	MC FIRE PAGE 	County Fire Paging 	FMN 	Fire Dispatch 
-155.32500 	WQVU861 	RM	911 NAC	MC EMS DISP 	EMS Dispatch 	P25 	EMS Dispatch 
-155.29500 	KVM296 	BM	503 DPL	MC EMS OPS 1 	EMS Operations 	FMN 	EMS-Tac 
-155.32500 	WQVU861 	BM	413 DPL	MC EMS OPS 2 	EMS Operations Analog 	FMN 	EMS-Tac 
-150.96500 	WPMH702 	RM	162 DPL	MC Schools 	Schools - Buses 	FMN 	Schools 
-155.67000 	WQVU861 	RM	295 NAC	LAW 1 LPD 	Law Enforcement 1 - Lafayette Police  	P25 	Law Dispatch 
-154.34000 	WQVU861 	RM	297 NAC	FIRE 1 LFD 	Fire 1 - Lafayette Fire Department 	P25 	Fire Dispatch 
-155.49000 	WQVU861 	RM	296 NAC	LAW 2 RBSPD 	Law Enforcement 2 - Red Boiling Springs Police main 	P25 	Law Dispatch 
-151.22000 	WQVU861 	RM	298 NAC	FIRE 2 RBSFD 	Fire 2 - Red Boiling Springs Fire Department 	P25 	Fire Dispatch 
-155.09250 	WQVU861 	RM	299 NAC	FIRE 3 WFD 	Fire 3 - Willette Fire Department 	P25 	Fire Dispatch 
+155.07000 	158.94000  	WPTT332 	RM	114.8 PL	MC Sheriff A 	Sheriff's Department 	FMN 	Law Dispatch 
+155.41500 	154.83000  	WQVU861 	RM	151.4 PL	MCSO ANALOG 	Sheriff's Department (Analog) 	FMN 	Law Dispatch 
+155.41500 	154.83000  	WQVU861 	RM	294 NAC	MCSO P25 	Sheriff's Department (Digital) 	P25 	Law Dispatch 
+173.26250 	   	WQCB639 	M		MCSO-CAMS 	Sheriff's Department - In Car Camerea/Mic system 	FMN 	Law Tac 
+151.04000 	   	WQBQ906 	BM		MC-911 AVL 	County -911 Services - Automated Vehicle Location 	FMN 	Data 
+154.34000 	154.01000  	WQVU861 	RM	167.9 PL	MC FIRE PAGE 	County Fire Paging 	FMN 	Fire Dispatch 
+155.32500 	150.77500  	WQVU861 	RM	911 NAC	MC EMS DISP 	EMS Dispatch 	P25 	EMS Dispatch 
+155.29500 	   	KVM296 	BM	503 DPL	MC EMS OPS 1 	EMS Operations 	FMN 	EMS-Tac 
+155.32500 	   	WQVU861 	BM	413 DPL	MC EMS OPS 2 	EMS Operations Analog 	FMN 	EMS-Tac 
+150.96500 	159.67500  	WPMH702 	RM	162 DPL	MC Schools 	Schools - Buses 	FMN 	Schools 
+155.67000 	158.97000  	WQVU861 	RM	295 NAC	LAW 1 LPD 	Law Enforcement 1 - Lafayette Police  	P25 	Law Dispatch 
+154.34000 	154.01000  	WQVU861 	RM	297 NAC	FIRE 1 LFD 	Fire 1 - Lafayette Fire Department 	P25 	Fire Dispatch 
+155.49000 	153.75500  	WQVU861 	RM	296 NAC	LAW 2 RBSPD 	Law Enforcement 2 - Red Boiling Springs Police main 	P25 	Law Dispatch 
+151.22000 	154.07000  	WQVU861 	RM	298 NAC	FIRE 2 RBSFD 	Fire 2 - Red Boiling Springs Fire Department 	P25 	Fire Dispatch 
+155.09250 	151.40750  	WQVU861 	RM	299 NAC	FIRE 3 WFD 	Fire 3 - Willette Fire Department 	P25 	Fire Dispatch 
 Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

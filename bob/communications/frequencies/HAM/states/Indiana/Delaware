@@ -1,33 +1,32 @@
-155.65500 	KSE669 	RM	146.2 PL	Dlwre SO DSP 	Dispatch - Back-Up 	FMN 	Law Dispatch 
-151.04000 	KNIR598 	RM	179.9 PL	Dlwre SO 13 	Tactical/Former DOT 	FMN 	Law Tac 
-460.32500 	WQUL898 	RM		Detention Center 	Detention Center UHF Operations 	FMN 	Corrections 
-155.40750 	KAY939 	RM		DLWR CO ES DISP 	County Emergency Services Dispatch 	FMN 	Emergency Ops 
-155.22000 	KAY939 	BM	146.2 PL	DLWR EMS VHF 	EMS 	FMN 	EMS Dispatch 
-154.19000 	WPLS714 	BM	146.2 PL	DLWR FD VHF 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.59500 	KSB276 	RM	146.2 PL	DLWR FD VHF2 	Alternate Fire 	FMN 	Fire-Tac 
-155.02500 	KCI751 	BM		IN EMA 	Statewide Emergency Management 	FMN 	Emergency Ops 
-155.08500 	KCI751 	BM		Dlwre EMA 	Delaware County Emergency Management 	FMN 	Emergency Ops 
-155.73000 	WPZS813 	RM	94.8 PL	Dlwre EMA St 	Delaware County Emergency Management / Ball State Storm Chase Team 	FMN 	Emergency Ops 
-154.00250 	WPWY740 	RM	94.8 PL	MnceSnitatn 	Muncie Sanitary District 	FMN 	Public Works 
-460.32500 	WPTS589 	BM		IU BALL MRT PAGE 	Medical Response Teams Paging 	FMN 	EMS-Tac 
-462.03750 	WQYW572 	RM		IU BALL SECURITY 	Security 	DMR 	Security 
-452.22500 	WNXQ729 	RM	136.5 PL	IU BALL MAINT 	Maintenance 	FMN 	Business 
-153.77000 	WPSF575 	M		Center FRG 	Fireground 	FM 	Fire-Tac 
-153.95000 	WNLC230 	M		Hmltn VFD 	Tactical Channel #2 	FMN 	Fire-Tac 
-154.13000 	KDK401 	BM		LbrtyVFDTAC3 	Tactical Channel #3 	FMN 	Fire-Tac 
-154.23500 	WPFV780 	BM		MtPlsntFD3 	Yorktown/Mt. Pleasant Twp. Fire 3 	FMN 	Fire-Tac 
-154.19000 	WQAW929 	BM	146.2 PL	Salem FD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-461.50000 	WPJV910 	RM	91.5 PL	DCCSC Bus 	School Buses 	FMN 	Schools 
-464.57500 	KNGR904 	RM		DCCSC Rptr 	District wide repeater 	FMN 	Schools 
-461.37500 	WNXP867 	M		DCCSC Ops 	School Operations 	FMN 	Schools 
-463.97500 	WNXP867 	M		DCCSC Ops 	School Operations 	FMN 	Schools 
-467.85000 	WNXP867 	M		DCCSC Ops 	School Operations 	FMN 	Schools 
-467.90000 	WNXP867 	M		DCCSC Ops 	School Operations 	FMN 	Schools 
-467.92500 	WNXP867 	M		DCCSC Ops 	School Operations 	FMN 	Schools 
-151.65500 	KEP277 	BM		MuncieSchls 	Muncie school communication 	FMN 	Schools 
-451.85000 	WPOD634 	RM		DCYSDT 	Operations 	FMN 	Schools 
-452.17500 	WPOD634 	RM		DCYSDT 	Operations 	FMN 	Schools 
-461.17500 	WPOD634 	RM		DCYSDT 	Operations 	FMN 	Schools 
-American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	Ball State University 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Muncie	Emergency Radio Service 800 Mhz	 Motorola Type IIi Hybrid
- Multiple	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana BrandMeister DMR Netowrk	 DMR Conventional Networked	 Indianapolis	Indiana Project Hoosier SAFE-T
- Project 25 Phase I	 Statewide	Lectro Communications 800 Mhz	 LTR Standard	 Multiple	
+155.65500 	155.97000  	KSE669 	RM	146.2 PL	Dlwre SO DSP 	Dispatch - Back-Up 	FMN 	Law Dispatch 
+151.04000 	158.98500  	KNIR598 	RM	179.9 PL	Dlwre SO 13 	Tactical/Former DOT 	FMN 	Law Tac 
+460.32500 	465.32500  	WQUL898 	RM		Detention Center 	Detention Center UHF Operations 	FMN 	Corrections 
+155.40750 	159.29250  	KAY939 	RM		DLWR CO ES DISP 	County Emergency Services Dispatch 	FMN 	Emergency Ops 
+155.22000 	   	KAY939 	BM	146.2 PL	DLWR EMS VHF 	EMS 	FMN 	EMS Dispatch 
+154.19000 	159.03000  	WPLS714 	BM	146.2 PL	DLWR FD VHF 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.59500 	159.03000  	KSB276 	RM	146.2 PL	DLWR FD VHF2 	Alternate Fire 	FMN 	Fire-Tac 
+155.02500 	   	KCI751 	BM		IN EMA 	Statewide Emergency Management 	FMN 	Emergency Ops 
+155.08500 	   	KCI751 	BM		Dlwre EMA 	Delaware County Emergency Management 	FMN 	Emergency Ops 
+155.73000 	158.97000  	WPZS813 	RM	94.8 PL	Dlwre EMA St 	Delaware County Emergency Management / Ball State Storm Chase Team 	FMN 	Emergency Ops 
+154.00250 	   	WPWY740 	RM	94.8 PL	MnceSnitatn 	Muncie Sanitary District 	FMN 	Public Works 
+460.32500 	465.32500  	WPTS589 	BM		IU BALL MRT PAGE 	Medical Response Teams Paging 	FMN 	EMS-Tac 
+462.03750 	467.03750  	WQYW572 	RM		IU BALL SECURITY 	Security 	DMR 	Security 
+452.22500 	457.22500  	WNXQ729 	RM	136.5 PL	IU BALL MAINT 	Maintenance 	FMN 	Business 
+153.77000 	   	WPSF575 	M		Center FRG 	Fireground 	FM 	Fire-Tac 
+153.95000 	   	WNLC230 	M		Hmltn VFD 	Tactical Channel #2 	FMN 	Fire-Tac 
+154.13000 	   	KDK401 	BM		LbrtyVFDTAC3 	Tactical Channel #3 	FMN 	Fire-Tac 
+154.23500 	   	WPFV780 	BM		MtPlsntFD3 	Yorktown/Mt. Pleasant Twp. Fire 3 	FMN 	Fire-Tac 
+154.19000 	   	WQAW929 	BM	146.2 PL	Salem FD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+461.50000 	466.50000  	WPJV910 	RM	91.5 PL	DCCSC Bus 	School Buses 	FMN 	Schools 
+464.57500 	469.57500  	KNGR904 	RM		DCCSC Rptr 	District wide repeater 	FMN 	Schools 
+461.37500 	   	WNXP867 	M		DCCSC Ops 	School Operations 	FMN 	Schools 
+463.97500 	   	WNXP867 	M		DCCSC Ops 	School Operations 	FMN 	Schools 
+467.85000 	   	WNXP867 	M		DCCSC Ops 	School Operations 	FMN 	Schools 
+467.90000 	   	WNXP867 	M		DCCSC Ops 	School Operations 	FMN 	Schools 
+467.92500 	   	WNXP867 	M		DCCSC Ops 	School Operations 	FMN 	Schools 
+151.65500 	   	KEP277 	BM		MuncieSchls 	Muncie school communication 	FMN 	Schools 
+451.85000 	456.85000  	WPOD634 	RM		DCYSDT 	Operations 	FMN 	Schools 
+452.17500 	457.17500  	WPOD634 	RM		DCYSDT 	Operations 	FMN 	Schools 
+461.17500 	466.17500  	WPOD634 	RM		DCYSDT 	Operations 	FMN 	Schools 
+American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	Ball State University 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Muncie	Emergency Radio Service 800 Mhz	 Motorola Type IIi Hybrid	 Multiple
+ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana BrandMeister DMR Netowrk	 DMR Conventional Networked	 Indianapolis	Lectro Communications 800 Mhz	 LTR Standard	 Multiple

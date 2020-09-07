@@ -1,11 +1,11 @@
-154.35500 	WNWX668 	RM	186.2 PL	WCFR Disp 	Fire Rescue Dispatch 	FMN 	Fire Dispatch 
-155.30250 	WNWX668 	RM	186.2 PL	WCFR Alt 	Fire Rescue Secondary 	FMN 	Fire-Tac 
-462.95000 	KYK402 	RM	156.7 PL	Wakulla EMS 	EMS Dispatch 	FM 	EMS Dispatch 
-460.10000 	WPBZ672 	RM	167.9 PL	WCSO Dispatch 	Sheriff Dispatch  	FMN 	Law Dispatch 
-460.03750 	WPBZ672 	RM	167.9 PL	WCSO Alt 	Sheriff 	FMN 	Law Tac 
-460.27500 	WPBZ672 	RM	CSQ	WCSO E 	Sheriff E Channel 	FM 	Interop 
-154.75500 	WPBZ672 	RM		WCSO 	Sheriff  	FM 	Law Tac 
-461.85000 	WPGU574 	RM	205 DPL	WC SCH BUS 	Wakulla School Buses Transportation 	FMN 	Schools 
-154.08500 	WPFH893 	BM		Sopchoppy 	Services 	FM 	Public Works 
-Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	Talquin Electric Cooperative	 DMR Tier 3
- Quincy	
+154.35500 	158.90250  	WNWX668 	RM	186.2 PL	WCFR Disp 	Fire Rescue Dispatch 	FMN 	Fire Dispatch 
+155.30250 	154.01000  	WNWX668 	RM	186.2 PL	WCFR Alt 	Fire Rescue Secondary 	FMN 	Fire-Tac 
+462.95000 	467.95000  	KYK402 	RM	156.7 PL	Wakulla EMS 	EMS Dispatch 	FM 	EMS Dispatch 
+460.10000 	465.10000  	WPBZ672 	RM	167.9 PL	WCSO Dispatch 	Sheriff Dispatch  	FMN 	Law Dispatch 
+460.03750 	465.03750  	WPBZ672 	RM	167.9 PL	WCSO Alt 	Sheriff 	FMN 	Law Tac 
+460.27500 	465.27500  	WPBZ672 	RM	CSQ	WCSO E 	Sheriff E Channel 	FM 	Interop 
+154.75500 	155.79000  	WPBZ672 	RM		WCSO 	Sheriff  	FM 	Law Tac 
+461.85000 	466.85000  	WPGU574 	RM	205 DPL	WC SCH BUS 	Wakulla School Buses Transportation 	FMN 	Schools 
+154.08500 	   	WPFH893 	BM		Sopchoppy 	Services 	FM 	Public Works 
+Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide
+Talquin Electric Cooperative	 DMR Tier 3	 Quincy	

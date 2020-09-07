@@ -1,46 +1,45 @@
-453.38750 	WQCY606 	RM		OrangeCoEMA 	County Emergency Management Agency 	FMN 	Emergency Ops 
-154.37000 	WPYC554 	RM	91.5 PL	OrangeFD Dsp 	County Fire - Dispatch 	FMN 	Fire Dispatch 
-154.41500 	WNQN814 	BM	91.5 PL	FrnchLkFDDsp 	French Lick Fire - Dispatch 	FMN 	Fire Dispatch 
-154.26500 	WPYC554 	BM	91.5 PL	OrangeFD Frg 	County Fire - Fireground 	FMN 	Fire-Tac 
-151.20500 	WQPM619 	RM		Orleans FD1 	Orleans Fire - Repeater 	FMN 	Fire-Tac 
-154.22000 	WPNQ534 	BM	91.5 PL	Orleans FD2 	Orleans Fire - Fireground 	FMN 	Fire-Tac 
-154.17500 	WPBE233 	BM	91.5 PL	Paoli FD 	Paoli Fire - Fireground 	FMN 	Fire-Tac 
-156.13500 	WPVX368 	RM	141.3 PL	Rural D1 Frg 	Rural District One Fire Dept - Fireground 	FMN 	Fire-Tac 
-159.19500 	WPVK562 	RM	91.5 PL	Rural D2 Frg 	Rural District Two Fire Dept - Fireground 	FMN 	Fire-Tac 
-155.17500 	WPRG506 	RM	131.8 PL	SEst VFD Frg 	South East Volunter Fire Dept - Fireground 	FMN 	Fire-Tac 
-151.02500 	WPIC548 	RM	91.5 PL	WBdnSprgs FD 	West Baden Springs Fire - Fireground 	FMN 	Fire-Tac 
-159.29250 	 	WQJP358 	RM		WBdnSprgs FD 	West Baden Springs Fire - Fireground 	FMN 	Fire-Tac 
-155.40000 	WPYT237 	BM		OrangeEMS-BH 	County EMS-to-Hospital 	FMN 	Hospital 
-155.55000 	KSD691 	RM	59 RAN	Orange SO D 	County Sheriff - Dispatch (Digital) 	NXDNE 	Law Dispatch 
-155.55000 	KSD691 	BM	565 DPL	Orange SO A 	County Sheriff - Dispatch (Analog) 	FMN 	Law Dispatch 
-151.07000 	KWE497 	RM		Orange Hwy-D 	County Highway Department (Digital) 	NXDN 	Public Works 
-151.07000 	KWE497 	RM	123.0 PL	Orange Hwy-A 	County Highway Department (Analog) 	FMN 	Public Works 
-151.11500 	WPRF530 	RM		FrLick DPW 	French Lick Public Works 	FMN 	Public Works 
-153.84500 	WPMF241 	BM		Orleans Utls 	Orleans Utilities 	FMN 	Utilities 
-154.02500 	WPXA380 	BM		Paoli DPW 	Paoli Public Works 	FMN 	Public Works 
-154.10750 	WQEA691 	RM		Paoli DPW 	Paoli Public Works 	FMN 	Public Works 
-154.84500 	WPXA380 	BM		Paoli DPW 	Paoli Public Works 	FMN 	Public Works 
-451.77500 	WQCG518 	RM		OC Transit 	Orange County Transit Authority 	FMN 	Transportation 
-451.17500 	WPPD595 	RM		Orange REMC 	Orange County REMC 	DMR 	Utilities 
-451.78750 	WPZX299 	RM	103.5 PL	JasperSeatng 	Jasper Seating - Paoli 	FMN 	Business 
-452.71250 	WQES843 	M		Frnch Lick1 	Resort & Hotel Operations 	FM 	Business 
-457.71250 	WQES843 	M		Frnch Lick2 	Resort & Hotel Operations 	FM 	Business 
-464.05000 	WPLJ625 	RM		Frnch Lick3 	Resort & Hotel Operations 	FM 	Business 
-160.63500 	WNLG483 	BM	CSQ	IN RR Msm F1 	Tourist Railroad & Museum Operations 	FMN 	Railroad 
-160.41000 	WNLG483 	BM	CSQ	IN RR Msm F2 	Tourist Railroad & Museum Operations 	FMN 	Railroad 
-160.21500 	WNLG483 	BM	CSQ	IN RR Msm F3 	Tourist Railroad & Museum Operations 	FMN 	Railroad 
-151.54250 	WQFT465 	M	71.9 PL	PP Instruct 	Ski Instructors 	FMN 	Business 
-462.62500 	WQFT465 	M	CSQ	PP Trails 	Trail Maintenance 	FMN 	Business 
-151.58750 	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
-151.60250 	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
-151.66250 	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
-151.67750 	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
-151.73750 	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
-151.79750 	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
-151.84250 	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
-151.90250 	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
-151.96250 	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
-452.85000 	WPMS632 	RM		Patoka Mrna1 	Patoka Lake Marina - Operations 	FM 	Other 
-462.30000 	WPMS632 	RM		Patoka Mrna2 	Patoka Lake Marina - Operations 	FM 	Other 
-Blue Sky Casino	 LTR Standard	 French Lick	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I
- Statewide	
+453.38750 	458.38750  	WQCY606 	RM		OrangeCoEMA 	County Emergency Management Agency 	FMN 	Emergency Ops 
+154.37000 	153.83000  	WPYC554 	RM	91.5 PL	OrangeFD Dsp 	County Fire - Dispatch 	FMN 	Fire Dispatch 
+154.41500 	153.77000  	WNQN814 	BM	91.5 PL	FrnchLkFDDsp 	French Lick Fire - Dispatch 	FMN 	Fire Dispatch 
+154.26500 	   	WPYC554 	BM	91.5 PL	OrangeFD Frg 	County Fire - Fireground 	FMN 	Fire-Tac 
+151.20500 	150.80500  	WQPM619 	RM		Orleans FD1 	Orleans Fire - Repeater 	FMN 	Fire-Tac 
+154.22000 	   	WPNQ534 	BM	91.5 PL	Orleans FD2 	Orleans Fire - Fireground 	FMN 	Fire-Tac 
+154.17500 	151.34000  	WPBE233 	BM	91.5 PL	Paoli FD 	Paoli Fire - Fireground 	FMN 	Fire-Tac 
+156.13500 	153.98000  	WPVX368 	RM	141.3 PL	Rural D1 Frg 	Rural District One Fire Dept - Fireground 	FMN 	Fire-Tac 
+159.19500 	153.90500  	WPVK562 	RM	91.5 PL	Rural D2 Frg 	Rural District Two Fire Dept - Fireground 	FMN 	Fire-Tac 
+155.17500 	153.95000  	WPRG506 	RM	131.8 PL	SEst VFD Frg 	South East Volunter Fire Dept - Fireground 	FMN 	Fire-Tac 
+151.02500 	159.06000  	WPIC548 	RM	91.5 PL	WBdnSprgs FD 	West Baden Springs Fire - Fireground 	FMN 	Fire-Tac 
+159.29250 	155.25750  	 	WQJP358 	RM		WBdnSprgs FD 	West Baden Springs Fire - Fireground 	FMN 	Fire-Tac 
+155.40000 	   	WPYT237 	BM		OrangeEMS-BH 	County EMS-to-Hospital 	FMN 	Hospital 
+155.55000 	156.03000  	KSD691 	RM	59 RAN	Orange SO D 	County Sheriff - Dispatch (Digital) 	NXDNE 	Law Dispatch 
+155.55000 	156.03000  	KSD691 	BM	565 DPL	Orange SO A 	County Sheriff - Dispatch (Analog) 	FMN 	Law Dispatch 
+151.07000 	159.13500  	KWE497 	RM		Orange Hwy-D 	County Highway Department (Digital) 	NXDN 	Public Works 
+151.07000 	159.13500  	KWE497 	RM	123.0 PL	Orange Hwy-A 	County Highway Department (Analog) 	FMN 	Public Works 
+151.11500 	159.00000  	WPRF530 	RM		FrLick DPW 	French Lick Public Works 	FMN 	Public Works 
+153.84500 	   	WPMF241 	BM		Orleans Utls 	Orleans Utilities 	FMN 	Utilities 
+154.02500 	   	WPXA380 	BM		Paoli DPW 	Paoli Public Works 	FMN 	Public Works 
+154.10750 	156.08250  	WQEA691 	RM		Paoli DPW 	Paoli Public Works 	FMN 	Public Works 
+154.84500 	   	WPXA380 	BM		Paoli DPW 	Paoli Public Works 	FMN 	Public Works 
+451.77500 	456.77500  	WQCG518 	RM		OC Transit 	Orange County Transit Authority 	FMN 	Transportation 
+451.17500 	456.17500  	WPPD595 	RM		Orange REMC 	Orange County REMC 	DMR 	Utilities 
+451.78750 	456.78750  	WPZX299 	RM	103.5 PL	JasperSeatng 	Jasper Seating - Paoli 	FMN 	Business 
+452.71250 	   	WQES843 	M		Frnch Lick1 	Resort & Hotel Operations 	FM 	Business 
+457.71250 	   	WQES843 	M		Frnch Lick2 	Resort & Hotel Operations 	FM 	Business 
+464.05000 	469.05000  	WPLJ625 	RM		Frnch Lick3 	Resort & Hotel Operations 	FM 	Business 
+160.63500 	   	WNLG483 	BM	CSQ	IN RR Msm F1 	Tourist Railroad & Museum Operations 	FMN 	Railroad 
+160.41000 	   	WNLG483 	BM	CSQ	IN RR Msm F2 	Tourist Railroad & Museum Operations 	FMN 	Railroad 
+160.21500 	   	WNLG483 	BM	CSQ	IN RR Msm F3 	Tourist Railroad & Museum Operations 	FMN 	Railroad 
+151.54250 	   	WQFT465 	M	71.9 PL	PP Instruct 	Ski Instructors 	FMN 	Business 
+462.62500 	   	WQFT465 	M	CSQ	PP Trails 	Trail Maintenance 	FMN 	Business 
+151.58750 	   	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
+151.60250 	   	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
+151.66250 	   	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
+151.67750 	   	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
+151.73750 	   	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
+151.79750 	   	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
+151.84250 	   	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
+151.90250 	   	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
+151.96250 	   	WQFT465 	M		PP Ops 	Operations 	FMN 	Business 
+452.85000 	457.85000  	WPMS632 	RM		Patoka Mrna1 	Patoka Lake Marina - Operations 	FM 	Other 
+462.30000 	467.30000  	WPMS632 	RM		Patoka Mrna2 	Patoka Lake Marina - Operations 	FM 	Other 
+Blue Sky Casino	 LTR Standard	 French Lick	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	

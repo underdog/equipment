@@ -1,173 +1,173 @@
-764.05625 	WQDT269 	M	156.7 PL	StClairCo SOA 1 	Scene of Action [SOA 1] 	FMN 	Interop 
-764.06875 	WQDT269 	M	156.7 PL	StClairCo SOA 2 	Scene of Action [SOA 2] 	FMN 	Interop 
-775.99375 	WQDT269 	M	156.7 PL	StClairCo SOA 3 	Scene of Action [SOA 3] 	FMN 	Interop 
-794.05625 	WQDT269 	M		StClairShrf700-4 	Interop with MO 700 MHz System/SC21 users 	P25 	Interop 
-794.06875 	WQDT269 	M		StClairShrf700-5 	Interop with MO 700 MHz System/SC21 users 	P25 	Interop 
-805.99375 	WQDT269 	M		StClairShrf700-6 	Interop with MO 700 MHz System/SC21 users 	P25 	Interop 
-158.83500 	KSG935 	BM	100.0 PL	StClairCo ESDA-4 	ESDA: Dispatch / Weather Siren Data  	FMN 	Emergency Ops 
-458.72500 	KSG935 	F		StClair 911 Data 	911 PSAP: Data 	Telm 	Data 
-453.10000 	WQJE527 	F		StClairCo 911 RF 	911: Data 	Telm 	Data 
-152.00750 	WQCQ940 	B	CSQ	StClair 911 Pgng 	911: Text Paging 	FMN 	Data 
-155.16000 	KGR302 	B	203.5 PL	Milstadt EMS 	EMS: Dispatch - Millstadt 	FMN 	EMS Dispatch 
-155.28000 	KGR302 	B	CSQ	MERCI280 CSQ 	EMS: Dispatch -- New Athens, Lenzburg, Marissa, Mascoutah, New Baden (Simulcast SC21 TG 7020) [uses KSF817] 	FMN 	EMS Dispatch 
-452.80000 	WPMU758 	BM		StCl FairOp1 	Fair Ops - Maintenance/Security  	FMN 	Business 
-453.00000 	WPMU758 	BM		StCl FairOp2 	Fair Ops - Maintenance/Security 	FMN 	Business 
-853.15000 	WPUR564 	RM		SCCTD AVL 	St Clair County Transit District: Bus: AVL Data (CSQ) 	FMN 	Data 
-856.93750 	WPTS560 	RM	107.2 PL	MetroBus 6 	MetroBus / MetroLink: Channel 6 - Trainyard (also heard CSQ Data on output) 	FMN 	Transportation 
-856.96250 	WPTS560 	RM	107.2 PL	MetroBus StL 	MetroBus / MetroLink (used in St. Louis) 	FMN 	Transportation 
-155.16000 	WQZI331 	BM	132 DPL	MERCI3 D132 	Patient Reports (Memorial East) 	FMN 	Hospital 
-155.16000 	KIZ352 	BM	146.2 PL	MERCI3 146.2 	Patient Reports (St Elizabeth) 	FMN 	Hospital 
-155.34000 	KIZ292 	BM	114.8 PL	MERCI1 114.8 	Patient Reports (Touchette) 	FMN 	Hospital 
-155.34000 	KIZ352 	BM	146.2 PL	MERCI1 146.2 	Patient Reports (St Elizabeth) 	FMN 	Hospital 
-155.16000 	 	B	114.8 PL	MERCI3 114.8 	Patient Reports (Touchette) 	FMN 	Hospital 
-155.34000 	WQZI331 	BM	210.7 PL	MERCI1 210.7 	Patient Reports (Memorial East) 	FMN 	Hospital 
-463.00000 	KIZ352 	BM	203.5 PL	MED-1 203.5 	Patient Reports (St Elizabeth) 	FMN 	Hospital 
-155.34000 	KWF792 	BM	203.5 PL	MERCI1 203.5 	Patient Reports (Memorial Bv) 	FMN 	Hospital 
-155.22000 	KWF792 	BM	203.5 PL	MERCI2 203.5 	Patient Reports (Memorial Bv) 	FMN 	Hospital 
-155.16000 	KWF792 	BM	203.5 PL	MERCI3 203.5 	Patient Reports - Main (Memorial Bv) 	FMN 	Hospital 
-463.15000 	KWF792 	BM	203.5 PL	MED-? 203.5  	Patient Reports (also CSQ?) (Memorial Bv) 	FMN 	Hospital 
-462.95000 	KMK409 	RM	210.7 PL	Abbott EMS IL  	EMS: Dispatch - Illinois [MED 9] 	FMN 	EMS Dispatch 
-938.97500 	WQEK497 	RM	074 DPL	Medstar EMS ESTL 	EMS: Dispatch (E St Louis) 	FMN 	EMS Dispatch 
-155.95500 	KWE359 	BM	146.2 PL	FH PW/Parks 	Public Works/Parks ('700' units) [See on SC21] 	FMN 	Public Works 
-154.41500 	KSD342 	BM	103.5 PL	FrvwCsyvlTwpFire 	Fire: Dispatch / Knox Box (Patched w/SC21 TG7221) 	FMN 	Fire Dispatch 
-460.50000 	WNLC298 	RM	110.9 PL	Ofln Police1 	Police: Dispatch - Fallback (on Starcom21) 	FMN 	Law Dispatch 
-154.23500 	KSC574 	RM	103.5 PL	Ofallon Fire 	Fire: Dispatch [Ch 1] (Patch to SC21) 	FMN 	Fire Dispatch 
-154.96500 	KNAR525 	BM	186.2 PL	Ofallon FG 	Fire: Secondary/Fireground 	FMN 	Fire-Tac 
-453.22500 	WNLC299 	RM	110.9 PL	Ofln PubWrks  	Public Works 	FMN 	Public Works 
-154.96500 	KNAR525 	BM	186.2 PL	Ofln PW VHF 	Public Works/Street/Plows / Fireground  	FMN 	Public Works 
-155.22000 	WSW791 	BM	100.0 PL	OfallonShilohEMS 	EMS: Dispatch (Patch to talkgroup 7202) 	FMN 	EMS Dispatch 
-173.22500 	WQGZ291 	F		CsvTwp Water2 	Caseyville Township: Water Data (Cv.OF,FH) (CSQ) 	Telm 	Data 
-453.55000 	WNPC751 	BM		CsvTwp Water1 	Caseyville Township: Water Data (Ofallon) 	Telm 	Data 
-453.97500 	KRB505 	RM		KaskaskiWaterOps 	Kaskaskia Water District: Ops  	FMN 	Public Works 
-156.10500 	KNCH710 	BM		MillstdtTwpRoads 	Millstadt Township: Roads 	FMN 	Public Works 
-463.88750 	WQRV334 	M		SLM Water 	SLM Water Commission: Data (Mascoutah) 	Telm 	Data 
-173.39625 	WQQA268 	F		Stookey Twp WDD 	Stookey Township: Water Data 	Telm 	Data 
-154.02500 	KYD819 	BM	192.8 PL	Belv Fire Paging 	Fire: Paging (in use 6/18) 	FMN 	Fire Dispatch 
-453.42500 	KAY668 	RM	146.2 PL	Belv Fire UHF 	Fire: Dispatch (Simulcast of SC21 TG 7237) 	FMN 	Fire Dispatch 
-154.35500 	WPZR868 	BM		EastSide FPD FG 	Fireground (East Side FPD) 	FMN 	Fire-Tac 
-154.38500 	KSG422 	BM		SignalHillFPD FG 	Fireground (Signal Hill FPD) 	FMN 	Fire-Tac 
-154.38500 	WPWP243 	BM	CSQ	Villa Hills FG  	Fireground (Villa Hills FPD) 	FMN 	Fire-Tac 
-154.02500 	KYD819 	BM	CSQ	Belv PublicWork1 	Public Works  	FMN 	Public Works 
-153.90500 	KYD819 	M		Belv PublicWork2 	Public Works 	FMN 	Public Works 
-453.95000 	KSA477 	RM	192.8 PL	Belv PW 453.95 	Public Works (?) 	FMN 	Public Works 
-453.66250 	WPKJ724 	M	136.5 PL	Belv PubWrks WDD 	Water Department Data [Expired 3/12] 	FMN 	Data 
-155.31000 	WQN750 	RM	123.0 PL	Cahokia Police1 	Police: Dispatch [Ch 1] (203.5 in) 	FMN 	Law Dispatch 
-154.89000 	WPMS698 	M	103.5 PL	Cahokia PD c2c8 	Police: Car-to-Car [CH 8] [Expired 12/13] 	FMN 	Law Tac 
-154.34000 	WRAB453 	RM	186.2 PL	Cahokia Fire 	Fire: Local Ops (6/18) 	FMN 	Fire Dispatch 
-154.05500 	WPJW899 	B	123.0 PL	Cahokia Local 	City Services / Activities 	FMN 	Public Works 
-153.68000 	KBO319 	BM	91.5 PL	Cahokia WatrDist 	Commonfields of Cahokia Water District 	FMN 	Public Works 
-153.83000 	 	M	69.3 PL	MABAS Red 	Fireground Red  	FMN 	Fire-Talk 
-154.38500 	KRP729 	BM		HollywdHts FG 	Fireground (Hollywood Heights) 	FMN 	Fire-Tac 
-155.14500 	KNIT599 	BM	173.8 PL	Csyv Local 	Water/Sewer/Snow Plows 	FMN 	Public Works 
-160.17750 	WQLL871 	F		Csville WDD 	Voice/Water Distribution Data (CSQ) 	Telm 	Public Works 
-159.15000 	KSG990 	BM	192.8 PL	Cntrv Police 	Police: Dispatch - Local (Old) 	FMN 	Law Dispatch 
-154.23500 	WNIZ968 	BM		CRFPD FG 	Fireground (192.8?) 	FMN 	Fire-Tac 
-154.23500 	WQFC970 	BM		Midway FPD FG1 	Fireground (Midway FPD) 	FMN 	Fire-Tac 
-154.35500 	WQFC970 	BM		Midway FPD FG2 	Fireground (Midway FPD) 	FMN 	Fire-Tac 
-158.76000 	WPLV599 	BM	192.8 PL	Cntvr Twnshp 	Public Works  	FMN 	Public Works 
-155.92500 	KUX517 	BM	CSQ	Dupo Police 	Police: Local 	FMN 	Law Tac 
-154.20500 	KSH395 	BM		Dupo Firgrnd 	Fireground 	FMN 	Fire-Tac 
-458.33750 	WPDS832 	M		Dupo WDD 	Water Data (CSQ) 	Telm 	Data 
-154.20500 	KSG985 	BM		PrDuPont FG 	Fireground 	FMN 	Fire-Tac 
-173.33750 	WPYW726 	F		ECar *WDD 	Columbia Water Data (CSQ) 	Telm 	Data 
-153.99500 	WNGP934 	BM	CSQ	Fairmont City LG 	Public Works/Fireground [Local Government] [151.295R 6/18] 	FMN 	Public Works 
-154.38500 	WNVI963 	BM		Fayettevl FG 	Fireground 	FMN 	Fire-Tac 
-160.17000 	WQFC628 	M		Fytvl WDD 	Wastewater/Water Distribution Data (5 low power) 	Telm 	Data 
-154.10000 	KNGW976 	BM		Freeburg ESDA 	ESDA 	FMN 	Emergency Ops 
-151.21250 	WRZ568 	RM		Freeburg Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-453.66250 	WRZ568 	F		Freeburg Fire RF 	Fire: RF Links (Belleville, Ofallon) 	FMN 	Fire Dispatch 
-451.25000 	WPTG989 	BM	125 DPL	FSH Water 1 	FSH Water Commission - Data  	FMN 	Data 
-451.12500 	WPTG989 	BM		FSH Water 2 	FSH Water Commission - Data  (SQ) 	Telm 	Data 
-456.25000 	WPMW884 	F		Freeburg Water  	Water Distribution Data 	Telm 	Data 
-154.81500 	KNIZ465 	BM	627 DPL	Leb Police 1 	Police: Dispatch (DB CenCom [Ch 1] 	FMN 	Law Dispatch 
-154.52750 	WPWC210 	M	351 DPL	Leb PD Tac-2 	Police: Protection/Events [Expired 3/12] 	FMN 	Law Tac 
-156.22500 	WPGV960 	BM	CSQ	Lebanon Roads  	Road Maintenance [Expired 10/15] 	FMN 	Public Works 
-154.41500 	KNAB749 	BM		Lnzburg FG 	Fireground 	FMN 	Fire-Tac 
-155.10000 	WPMZ827 	RM	141.3 PL	Marissa Fire 	Fire: Local (repeats 155.1, any tone) 	FMN 	Fire Dispatch 
-154.41500 	WPMZ827 	BM		Marissa Firegrnd 	Fireground 	FMN 	Fire-Tac 
-154.51500 	WPMN541 	BM	88.5 PL	Marissa EMS 	EMS: Dispatch / Medstar (Sparta)  	FMN 	EMS Dispatch 
-155.95500 	WZX504 	BM		Marissa PublcWrk 	Public Works / Trash? 	FMN 	Public Works 
-154.83000 	KSF215 	M		Masc Police Tac  	Police: Tac / Car-to-Car 	FMN 	Law Tac 
-173.21000 	KSF215 	M		Masc Police MX-V 	Police: Mobile Extenders 	FMN 	Law Tac 
-458.36250 	WPUG395 	M		Masc Police MX-U 	Police: Mobile Extenders 	FMN 	Law Tac 
-154.38500 	KSD228 	BM	CSQ	Mascoutah FG 	Fireground  	FMN 	Fire-Tac 
-155.16000 	 	BM	131.8 PL	MERCI3 131.8 	EMS (Mascoutah 4C51 to CENCOM) 	FMN 	EMS Dispatch 
-155.82000 	KNJK846 	BM		Masc PubWrks 	Public Works 	FMN 	Public Works 
-463.63750 	WQHU740 	RM		Millst WaterData 	Water Data (CSQ) 	Telm 	Public Works 
-154.99500 	KNJK590 	BM	CSQ	NA PubWrksV1 	Public Works 	FMN 	Public Works 
-460.40000 	WNCZ391 	RM		NA PubWrksU1 	Public Works  	FMN 	Public Works 
-154.20500 	WRZ632 	BM	94.8 PL	NWFPD FG 	Fireground 	FM 	Fire-Tac 
-453.03750 	WPBH665 	M		Sauget WDD 	Waste Water Treatment Plant  	Telm 	Data 
-154.32500 	KSG884 	BM		Smithton FG 	Fireground 	FMN 	Fire-Tac 
-151.01000 	WQBC876 	RM	734 DPL	Smithon PW/Rds 	Public Works / Roads [Expired 9/14] 	FMN 	Public Works 
-173.21000 	WQBC876 	M		Smithon PW MX 	Public Works: Mobile Extenders to ?  [Expired 9/14] 	FMN 	Public Works 
-453.68750 	KD25988 	M		Smithon WDD 	Water Distribution Data 	Telm 	Data 
-151.65500 	WPEU422 	M		Smithon RA 1 	Smithon Recreation Area  	FMN 	Public Works 
-151.86500 	WPEU422 	M		Smithon RA 2 	Smithon Recreation Area 	FMN 	Public Works 
-151.31000 	WPEI606 	RM	351 DPL	St Libory Fire   	Fire: Dispatch (Bi-Directional) 	FMN 	Fire Dispatch 
-451.16250 	WPKZ935 	M		St Libory WDD  	Water Distribution Data (CSQ) 	Telm 	Data 
-154.54000 	 	M	365 DPL	StPrkPl Fire Tac 	Fire: On Scene/Tac [No License] 	FMN 	Fire-Tac 
-465.07500 	WPCK909 	F	110.9 PL	Swansea Police 	Police: Dispatch (Simulcast of SC21) 	FMN 	Law Dispatch 
-155.09250 	WNBJ472 	RM	243 DPL	Swansea Fire 	Fire: Paging/Dispatch (Patch w/ SC21 7276) 	FMN 	Fire Dispatch 
-154.01000 	KSG986 	M		Swansea FG 	Fireground 	FMN 	Fire-Tac 
-154.02500 	WPAI848 	BM	CSQ	Swansea Street  	Street Department (also Belleville Street) 	FMN 	Public Works 
-153.98000 	WNBJ472 	M	CSQ	Swansea PubWrks  	Public Works 	FMN 	Public Works 
-155.83500 	WSL894 	BM	100.0 PL	Millstadt EMS  	Union Fire/Millstadt EMS Dispatch/Paging 	FMN 	Fire Dispatch 
-154.43000 	KSF405 	BM		Union Mill FG  	Fireground  	FMN 	Fire-Tac 
-461.48750 	WQUP503 	RM	CC 5TG 100SL 1	BTHS A100 Admin 	Ops A (Admin) 	DMR 	Schools 
-461.98750 	WQUP503 	RM	CC 5TG 200SL 2	BTHS B200 Ops 	Ops B 	DMR 	Schools 
-466.10000 	WQBF952 	M	245 DPL	BTHS Ops-1 	Operations [Ch 1] 	FMN 	Schools 
-467.50000 	WQBF952 	M	245 DPL	BTHS Ops-2 	Operations [Ch 2] 	FMN 	Schools 
-469.52500 	WQBF952 	M	245 DPL	BTHS Ops-3 	Primary [Ch 3] 	FMN 	Schools 
-458.00000 	WQBF952 	M	245 DPL	BTHS Ops-4 	Operations [Ch 4] 	FMN 	Schools 
-451.68750 	WQKG318 	RM		BASSC Ops 1 	Belleville Area Special Services Coop [Expired 9/15] 	FMN 	Schools 
-451.58750 	WQKG318 	RM		BASSC Ops 2 	Belleville Area Special Services Coop [Expired 915] 	FMN 	Schools 
-461.47500 	WQCQ465 	RM	100.0 PL	Durham Bellv 	Durham Buses (Belleville) (Belle units) [Expired 4/15] 	FMN 	Schools 
-461.30000 	 	RM	203.5 PL	FS Bus Bllv1 	First Student - Belleville [No License] 	FMN 	Schools 
-461.60000 	WPWW841 	RM	203.5 PL	FS Bus Bllv2 	First Student - Belleville 	FMN 	Schools 
-463.65000 	WPWW841 	RM	203.5 PL	FS Bus Bllv3 	First Student - Belleville  	FMN 	Schools 
-155.28000 	WNMU921 	BM	156.7 PL	HESD175 Bus 	Harmony-Emge School District 175: Buses (Belleville) 	FMN 	Schools 
-153.55250 	WQQE267 	BM	432 DPL	HESD175*Bus 	Harmony-Emge School District 175: Buses (Belleville) 	FMN 	Schools 
-462.47500 	WPRX885 	RM		WBS Elem Sch 	Wolf Branch Elementary (Swansea) 	FMN 	Schools 
-152.46500 	WQJS601 	RM	203.5 PL	Cahokia School 1 	Operations [Expired 12/18] 	FMN 	Schools 
-151.89500 	WNYH601 	BM	100.0 PL	Cahokia School 2 	Operations / Buses (1700 Jerome Lane) 	FMN 	Schools 
-154.57000 	WNYH601 	M		Cahokia School 3 	Operations (1700 Jerome Lane) 	FMN 	Schools 
-463.35000 	WPBJ754 	RM	351 DPL	Dupo Schools 1  	Buses / Ops 	FMN 	Schools 
-464.70000 	WPBJ754 	M		Dupo Schools 2  	Operations  	FMN 	Schools 
-464.72500 	WPBJ754 	M		Dupo Schools 3  	Operations  	FMN 	Schools 
-463.32500 	WPPT549 	M		PWH School 1 	Pontiac William Holliday School District 105 	FMN 	Schools 
-464.32500 	WPPT549 	M		PWH School 2 	Pontiac William Holliday School District 105 (162.2?) 	FMN 	Schools 
-464.82500 	WPPT549 	M		PWH School 3 	Pontiac William Holliday School District 105 	FMN 	Schools 
-463.51250 	WQLR654 	RM	051 DPL	ICSB Caseyvl 	Illinois Central School Bus (Caseyville) 	FMN 	Schools 
-155.23500 	KKL809 	BM		Freeburg School 	Buses / Security 	FMN 	Schools 
-152.87750 	WPYU685 	RM	127.3 PL	Lebanon Schools 	Administration / Transportation 	FMN 	Schools 
-152.87000 	WPSJ264 	RM		Marissa Schools 	Operations [Expired 5/11] 	FMN 	Schools 
-155.29500 	KNGT862 	BM	151.4 PL	Mascouth Sch Bus 	Buses 	FMN 	Schools 
-155.29500 	WXY289 	BM	173.8 PL	Millstadt SchBus 	Buses  	FMN 	Schools 
-155.20500 	WPNT342 	BM	71.9 PL	NewAthens School 	Buses  	FMN 	Schools 
-461.32500 	WPPT833 	RM	173.8 PL	OFTHS Ops 	O'Fallon Township High School D203 	FMN 	Schools 
-461.58750 	WQLZ425 	RM	051 DPL	ICSB OFallon 	Illinois-Central School Bus (O'Fallon) 	FMN 	Schools 
-464.82500 	WPSF598 	RM	162.2 PL	LL Bus Oflln 	Laidlaw Transit: Schools Buses (Old?-1/08) 	FMN 	Schools 
-462.12500 	WNWY282 	RM		SWIC DPS/M 	Police (former D732) 	FMN 	Law Dispatch 
-461.10000 	WNWY282 	RM		SWIC Ops1 	Department of Public Safety 	FMN 	Schools 
-451.70000 	KNNS637 	RM	91.5 PL	SWIC Ops4B 	Maintenance / Grounds 	FMN 	Schools 
-463.82500 	WPTG798 	M		SWIC Ops5 	Operations  	FMN 	Schools 
-463.92500 	WPTG798 	M		SWIC Ops6 	Operations 	FMN 	Schools 
-464.02500 	WPTG798 	M		SWIC Ops7 	Operations 	FMN 	Schools 
-464.12500 	WPTG798 	M		SWIC Ops8 	Operations  	FMN 	Schools 
-464.57500 	WPTG798 	M		SWIC Ops9 	BAC - District 522  	FMN 	Schools 
-153.65000 	WQGN649 	RM	146.2 PL	McKU Police 	Police: Dispatch (See Starcom21) 	FMN 	Law Dispatch 
-151.62500 	WPWG914 	M		McKU ResidntLife 	Resident Life Program  	FMN 	Schools 
-154.51500 	WNMQ806 	BM	167.9 PL	McKU BakerHall 	Baker Hall  	FMN 	Schools 
-464.82500 	WQQD751 	RM		McKU Maintnce 1 	Maintenance 	FMN 	Schools 
-464.87500 	WQQD751 	RM		McKU Maintnce 2 	Maintenance 	FMN 	Schools 
-462.08750 	WQYY415 	RM	CC 1TG 1SL 1	Lindenwood OpsA 	Operations 	DMR 	Schools 
-462.08750 	WQYY415 	RM	CC 1TG 2SL 2	Lindenwood OpsB 	Operations 	DMR 	Schools 
-461.90000 	WPMZ518 	M		Lindenwood OpsC 	Operations 	FMN 	Schools 
-452.48750 	WQYY415 	F	100.0 PL	LU Carrier  	Constant Carrier 	FMN 	Schools 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Casino Queen - E St. Louis (DMR)	 DMR Tier 3	 East St Louis	Egyptian Electric Cooperative (S IL)	 DMR Conventional Networked
- Steeleville	Louis Dreyfus Commodities (Cahokia IL) 	 DMR Motorola Capacity Plus Single Site (TRBO)	 East Carondelet	Scott Air Force Base	 Project 25 Phase I	 Mascoutah	Southwestern Illinois Digital Group WS9IDG
- DMR Conventional Networked	 Shiloh	St. Louis Area Trunked Emergency Radio (SLATER)	 Project 25 Phase II	 St Louis Metro Area	Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro
-Warner Communications - UHF 15 (Clayton/Hillsboro)	 LTR Standard	 Clayton	Warner Communications - UHF A	 LTR Standard	 Marlborough	Warner Communications UHF LTR - (IE MetroEast 1-xx)	 LTR Standard
- Various	Warner Communications UHF LTR - (IE Whiteside 0-xx)	 LTR Standard	 MetroEast	Warner Communications-BJC Hospitals (NXDN)	 NXDN NEXEDGE 4800	 St Louis	WirelessUSA (Tier 3)
- DMR Tier 3	 IL/MO	
+764.05625 	   	WQDT269 	M	156.7 PL	StClairCo SOA 1 	Scene of Action [SOA 1] 	FMN 	Interop 
+764.06875 	   	WQDT269 	M	156.7 PL	StClairCo SOA 2 	Scene of Action [SOA 2] 	FMN 	Interop 
+775.99375 	   	WQDT269 	M	156.7 PL	StClairCo SOA 3 	Scene of Action [SOA 3] 	FMN 	Interop 
+794.05625 	   	WQDT269 	M		StClairShrf700-4 	Interop with MO 700 MHz System/SC21 users 	P25 	Interop 
+794.06875 	   	WQDT269 	M		StClairShrf700-5 	Interop with MO 700 MHz System/SC21 users 	P25 	Interop 
+805.99375 	   	WQDT269 	M		StClairShrf700-6 	Interop with MO 700 MHz System/SC21 users 	P25 	Interop 
+158.83500 	   	KSG935 	BM	100.0 PL	StClairCo ESDA-4 	ESDA: Dispatch / Weather Siren Data  	FMN 	Emergency Ops 
+458.72500 	   	KSG935 	F		StClair 911 Data 	911 PSAP: Data 	Telm 	Data 
+453.10000 	   	WQJE527 	F		StClairCo 911 RF 	911: Data 	Telm 	Data 
+152.00750 	   	WQCQ940 	B	CSQ	StClair 911 Pgng 	911: Text Paging 	FMN 	Data 
+155.16000 	   	KGR302 	B	203.5 PL	Milstadt EMS 	EMS: Dispatch - Millstadt 	FMN 	EMS Dispatch 
+155.28000 	   	KGR302 	B	CSQ	MERCI280 CSQ 	EMS: Dispatch -- New Athens, Lenzburg, Marissa, Mascoutah, New Baden (Simulcast SC21 TG 7020) [uses KSF817] 	FMN 	EMS Dispatch 
+452.80000 	   	WPMU758 	BM		StCl FairOp1 	Fair Ops - Maintenance/Security  	FMN 	Business 
+453.00000 	   	WPMU758 	BM		StCl FairOp2 	Fair Ops - Maintenance/Security 	FMN 	Business 
+853.15000 	808.15000  	WPUR564 	RM		SCCTD AVL 	St Clair County Transit District: Bus: AVL Data (CSQ) 	FMN 	Data 
+856.93750 	811.93750  	WPTS560 	RM	107.2 PL	MetroBus 6 	MetroBus / MetroLink: Channel 6 - Trainyard (also heard CSQ Data on output) 	FMN 	Transportation 
+856.96250 	811.96250  	WPTS560 	RM	107.2 PL	MetroBus StL 	MetroBus / MetroLink (used in St. Louis) 	FMN 	Transportation 
+155.16000 	   	WQZI331 	BM	132 DPL	MERCI3 D132 	Patient Reports (Memorial East) 	FMN 	Hospital 
+155.16000 	   	KIZ352 	BM	146.2 PL	MERCI3 146.2 	Patient Reports (St Elizabeth) 	FMN 	Hospital 
+155.34000 	   	KIZ292 	BM	114.8 PL	MERCI1 114.8 	Patient Reports (Touchette) 	FMN 	Hospital 
+155.34000 	   	KIZ352 	BM	146.2 PL	MERCI1 146.2 	Patient Reports (St Elizabeth) 	FMN 	Hospital 
+155.16000 	   	 	B	114.8 PL	MERCI3 114.8 	Patient Reports (Touchette) 	FMN 	Hospital 
+155.34000 	   	WQZI331 	BM	210.7 PL	MERCI1 210.7 	Patient Reports (Memorial East) 	FMN 	Hospital 
+463.00000 	468.00000  	KIZ352 	BM	203.5 PL	MED-1 203.5 	Patient Reports (St Elizabeth) 	FMN 	Hospital 
+155.34000 	   	KWF792 	BM	203.5 PL	MERCI1 203.5 	Patient Reports (Memorial Bv) 	FMN 	Hospital 
+155.22000 	   	KWF792 	BM	203.5 PL	MERCI2 203.5 	Patient Reports (Memorial Bv) 	FMN 	Hospital 
+155.16000 	   	KWF792 	BM	203.5 PL	MERCI3 203.5 	Patient Reports - Main (Memorial Bv) 	FMN 	Hospital 
+463.15000 	468.15000  	KWF792 	BM	203.5 PL	MED-? 203.5  	Patient Reports (also CSQ?) (Memorial Bv) 	FMN 	Hospital 
+462.95000 	467.95000  	KMK409 	RM	210.7 PL	Abbott EMS IL  	EMS: Dispatch - Illinois [MED 9] 	FMN 	EMS Dispatch 
+938.97500 	899.97500  	WQEK497 	RM	074 DPL	Medstar EMS ESTL 	EMS: Dispatch (E St Louis) 	FMN 	EMS Dispatch 
+155.95500 	   	KWE359 	BM	146.2 PL	FH PW/Parks 	Public Works/Parks ('700' units) [See on SC21] 	FMN 	Public Works 
+154.41500 	   	KSD342 	BM	103.5 PL	FrvwCsyvlTwpFire 	Fire: Dispatch / Knox Box (Patched w/SC21 TG7221) 	FMN 	Fire Dispatch 
+460.50000 	465.50000  	WNLC298 	RM	110.9 PL	Ofln Police1 	Police: Dispatch - Fallback (on Starcom21) 	FMN 	Law Dispatch 
+154.23500 	153.77000  	KSC574 	RM	103.5 PL	Ofallon Fire 	Fire: Dispatch [Ch 1] (Patch to SC21) 	FMN 	Fire Dispatch 
+154.96500 	   	KNAR525 	BM	186.2 PL	Ofallon FG 	Fire: Secondary/Fireground 	FMN 	Fire-Tac 
+453.22500 	458.22500  	WNLC299 	RM	110.9 PL	Ofln PubWrks  	Public Works 	FMN 	Public Works 
+154.96500 	   	KNAR525 	BM	186.2 PL	Ofln PW VHF 	Public Works/Street/Plows / Fireground  	FMN 	Public Works 
+155.22000 	   	WSW791 	BM	100.0 PL	OfallonShilohEMS 	EMS: Dispatch (Patch to talkgroup 7202) 	FMN 	EMS Dispatch 
+173.22500 	   	WQGZ291 	F		CsvTwp Water2 	Caseyville Township: Water Data (Cv.OF,FH) (CSQ) 	Telm 	Data 
+453.55000 	   	WNPC751 	BM		CsvTwp Water1 	Caseyville Township: Water Data (Ofallon) 	Telm 	Data 
+453.97500 	458.97500  	KRB505 	RM		KaskaskiWaterOps 	Kaskaskia Water District: Ops  	FMN 	Public Works 
+156.10500 	   	KNCH710 	BM		MillstdtTwpRoads 	Millstadt Township: Roads 	FMN 	Public Works 
+463.88750 	   	WQRV334 	M		SLM Water 	SLM Water Commission: Data (Mascoutah) 	Telm 	Data 
+173.39625 	   	WQQA268 	F		Stookey Twp WDD 	Stookey Township: Water Data 	Telm 	Data 
+154.02500 	   	KYD819 	BM	192.8 PL	Belv Fire Paging 	Fire: Paging (in use 6/18) 	FMN 	Fire Dispatch 
+453.42500 	458.42500  	KAY668 	RM	146.2 PL	Belv Fire UHF 	Fire: Dispatch (Simulcast of SC21 TG 7237) 	FMN 	Fire Dispatch 
+154.35500 	   	WPZR868 	BM		EastSide FPD FG 	Fireground (East Side FPD) 	FMN 	Fire-Tac 
+154.38500 	   	KSG422 	BM		SignalHillFPD FG 	Fireground (Signal Hill FPD) 	FMN 	Fire-Tac 
+154.38500 	   	WPWP243 	BM	CSQ	Villa Hills FG  	Fireground (Villa Hills FPD) 	FMN 	Fire-Tac 
+154.02500 	   	KYD819 	BM	CSQ	Belv PublicWork1 	Public Works  	FMN 	Public Works 
+153.90500 	   	KYD819 	M		Belv PublicWork2 	Public Works 	FMN 	Public Works 
+453.95000 	458.95000  	KSA477 	RM	192.8 PL	Belv PW 453.95 	Public Works (?) 	FMN 	Public Works 
+453.66250 	   	WPKJ724 	M	136.5 PL	Belv PubWrks WDD 	Water Department Data [Expired 3/12] 	FMN 	Data 
+155.31000 	158.91000  	WQN750 	RM	123.0 PL	Cahokia Police1 	Police: Dispatch [Ch 1] (203.5 in) 	FMN 	Law Dispatch 
+154.89000 	   	WPMS698 	M	103.5 PL	Cahokia PD c2c8 	Police: Car-to-Car [CH 8] [Expired 12/13] 	FMN 	Law Tac 
+154.34000 	150.80500  	WRAB453 	RM	186.2 PL	Cahokia Fire 	Fire: Local Ops (6/18) 	FMN 	Fire Dispatch 
+154.05500 	   	WPJW899 	B	123.0 PL	Cahokia Local 	City Services / Activities 	FMN 	Public Works 
+153.68000 	   	KBO319 	BM	91.5 PL	Cahokia WatrDist 	Commonfields of Cahokia Water District 	FMN 	Public Works 
+153.83000 	   	 	M	69.3 PL	MABAS Red 	Fireground Red  	FMN 	Fire-Talk 
+154.38500 	   	KRP729 	BM		HollywdHts FG 	Fireground (Hollywood Heights) 	FMN 	Fire-Tac 
+155.14500 	   	KNIT599 	BM	173.8 PL	Csyv Local 	Water/Sewer/Snow Plows 	FMN 	Public Works 
+160.17750 	   	WQLL871 	F		Csville WDD 	Voice/Water Distribution Data (CSQ) 	Telm 	Public Works 
+159.15000 	   	KSG990 	BM	192.8 PL	Cntrv Police 	Police: Dispatch - Local (Old) 	FMN 	Law Dispatch 
+154.23500 	   	WNIZ968 	BM		CRFPD FG 	Fireground (192.8?) 	FMN 	Fire-Tac 
+154.23500 	   	WQFC970 	BM		Midway FPD FG1 	Fireground (Midway FPD) 	FMN 	Fire-Tac 
+154.35500 	   	WQFC970 	BM		Midway FPD FG2 	Fireground (Midway FPD) 	FMN 	Fire-Tac 
+158.76000 	   	WPLV599 	BM	192.8 PL	Cntvr Twnshp 	Public Works  	FMN 	Public Works 
+155.92500 	   	KUX517 	BM	CSQ	Dupo Police 	Police: Local 	FMN 	Law Tac 
+154.20500 	   	KSH395 	BM		Dupo Firgrnd 	Fireground 	FMN 	Fire-Tac 
+458.33750 	   	WPDS832 	M		Dupo WDD 	Water Data (CSQ) 	Telm 	Data 
+154.20500 	   	KSG985 	BM		PrDuPont FG 	Fireground 	FMN 	Fire-Tac 
+173.33750 	   	WPYW726 	F		ECar *WDD 	Columbia Water Data (CSQ) 	Telm 	Data 
+153.99500 	   	WNGP934 	BM	CSQ	Fairmont City LG 	Public Works/Fireground [Local Government] [151.295R 6/18] 	FMN 	Public Works 
+154.38500 	   	WNVI963 	BM		Fayettevl FG 	Fireground 	FMN 	Fire-Tac 
+160.17000 	   	WQFC628 	M		Fytvl WDD 	Wastewater/Water Distribution Data (5 low power) 	Telm 	Data 
+154.10000 	   	KNGW976 	BM		Freeburg ESDA 	ESDA 	FMN 	Emergency Ops 
+151.21250 	159.44250  	WRZ568 	RM		Freeburg Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+453.66250 	   	WRZ568 	F		Freeburg Fire RF 	Fire: RF Links (Belleville, Ofallon) 	FMN 	Fire Dispatch 
+451.25000 	   	WPTG989 	BM	125 DPL	FSH Water 1 	FSH Water Commission - Data  	FMN 	Data 
+451.12500 	   	WPTG989 	BM		FSH Water 2 	FSH Water Commission - Data  (SQ) 	Telm 	Data 
+456.25000 	   	WPMW884 	F		Freeburg Water  	Water Distribution Data 	Telm 	Data 
+154.81500 	   	KNIZ465 	BM	627 DPL	Leb Police 1 	Police: Dispatch (DB CenCom [Ch 1] 	FMN 	Law Dispatch 
+154.52750 	   	WPWC210 	M	351 DPL	Leb PD Tac-2 	Police: Protection/Events [Expired 3/12] 	FMN 	Law Tac 
+156.22500 	   	WPGV960 	BM	CSQ	Lebanon Roads  	Road Maintenance [Expired 10/15] 	FMN 	Public Works 
+154.41500 	   	KNAB749 	BM		Lnzburg FG 	Fireground 	FMN 	Fire-Tac 
+155.10000 	154.19000  	WPMZ827 	RM	141.3 PL	Marissa Fire 	Fire: Local (repeats 155.1, any tone) 	FMN 	Fire Dispatch 
+154.41500 	   	WPMZ827 	BM		Marissa Firegrnd 	Fireground 	FMN 	Fire-Tac 
+154.51500 	   	WPMN541 	BM	88.5 PL	Marissa EMS 	EMS: Dispatch / Medstar (Sparta)  	FMN 	EMS Dispatch 
+155.95500 	   	WZX504 	BM		Marissa PublcWrk 	Public Works / Trash? 	FMN 	Public Works 
+154.83000 	   	KSF215 	M		Masc Police Tac  	Police: Tac / Car-to-Car 	FMN 	Law Tac 
+173.21000 	   	KSF215 	M		Masc Police MX-V 	Police: Mobile Extenders 	FMN 	Law Tac 
+458.36250 	   	WPUG395 	M		Masc Police MX-U 	Police: Mobile Extenders 	FMN 	Law Tac 
+154.38500 	   	KSD228 	BM	CSQ	Mascoutah FG 	Fireground  	FMN 	Fire-Tac 
+155.16000 	   	 	BM	131.8 PL	MERCI3 131.8 	EMS (Mascoutah 4C51 to CENCOM) 	FMN 	EMS Dispatch 
+155.82000 	   	KNJK846 	BM		Masc PubWrks 	Public Works 	FMN 	Public Works 
+463.63750 	468.63750  	WQHU740 	RM		Millst WaterData 	Water Data (CSQ) 	Telm 	Public Works 
+154.99500 	   	KNJK590 	BM	CSQ	NA PubWrksV1 	Public Works 	FMN 	Public Works 
+460.40000 	465.40000  	WNCZ391 	RM		NA PubWrksU1 	Public Works  	FMN 	Public Works 
+154.20500 	   	WRZ632 	BM	94.8 PL	NWFPD FG 	Fireground 	FM 	Fire-Tac 
+453.03750 	   	WPBH665 	M		Sauget WDD 	Waste Water Treatment Plant  	Telm 	Data 
+154.32500 	   	KSG884 	BM		Smithton FG 	Fireground 	FMN 	Fire-Tac 
+151.01000 	153.96500  	WQBC876 	RM	734 DPL	Smithon PW/Rds 	Public Works / Roads [Expired 9/14] 	FMN 	Public Works 
+173.21000 	   	WQBC876 	M		Smithon PW MX 	Public Works: Mobile Extenders to ?  [Expired 9/14] 	FMN 	Public Works 
+453.68750 	458.68750  	KD25988 	M		Smithon WDD 	Water Distribution Data 	Telm 	Data 
+151.65500 	   	WPEU422 	M		Smithon RA 1 	Smithon Recreation Area  	FMN 	Public Works 
+151.86500 	   	WPEU422 	M		Smithon RA 2 	Smithon Recreation Area 	FMN 	Public Works 
+151.31000 	154.19000  	WPEI606 	RM	351 DPL	St Libory Fire   	Fire: Dispatch (Bi-Directional) 	FMN 	Fire Dispatch 
+451.16250 	   	WPKZ935 	M		St Libory WDD  	Water Distribution Data (CSQ) 	Telm 	Data 
+154.54000 	   	 	M	365 DPL	StPrkPl Fire Tac 	Fire: On Scene/Tac [No License] 	FMN 	Fire-Tac 
+465.07500 	   	WPCK909 	F	110.9 PL	Swansea Police 	Police: Dispatch (Simulcast of SC21) 	FMN 	Law Dispatch 
+155.09250 	159.05250  	WNBJ472 	RM	243 DPL	Swansea Fire 	Fire: Paging/Dispatch (Patch w/ SC21 7276) 	FMN 	Fire Dispatch 
+154.01000 	   	KSG986 	M		Swansea FG 	Fireground 	FMN 	Fire-Tac 
+154.02500 	   	WPAI848 	BM	CSQ	Swansea Street  	Street Department (also Belleville Street) 	FMN 	Public Works 
+153.98000 	   	WNBJ472 	M	CSQ	Swansea PubWrks  	Public Works 	FMN 	Public Works 
+155.83500 	   	WSL894 	BM	100.0 PL	Millstadt EMS  	Union Fire/Millstadt EMS Dispatch/Paging 	FMN 	Fire Dispatch 
+154.43000 	   	KSF405 	BM		Union Mill FG  	Fireground  	FMN 	Fire-Tac 
+461.48750 	466.48750  	WQUP503 	RM	CC 5TG 100SL 1	BTHS A100 Admin 	Ops A (Admin) 	DMR 	Schools 
+461.98750 	466.98750  	WQUP503 	RM	CC 5TG 200SL 2	BTHS B200 Ops 	Ops B 	DMR 	Schools 
+466.10000 	   	WQBF952 	M	245 DPL	BTHS Ops-1 	Operations [Ch 1] 	FMN 	Schools 
+467.50000 	   	WQBF952 	M	245 DPL	BTHS Ops-2 	Operations [Ch 2] 	FMN 	Schools 
+469.52500 	   	WQBF952 	M	245 DPL	BTHS Ops-3 	Primary [Ch 3] 	FMN 	Schools 
+458.00000 	   	WQBF952 	M	245 DPL	BTHS Ops-4 	Operations [Ch 4] 	FMN 	Schools 
+451.68750 	456.68750  	WQKG318 	RM		BASSC Ops 1 	Belleville Area Special Services Coop [Expired 9/15] 	FMN 	Schools 
+451.58750 	456.58750  	WQKG318 	RM		BASSC Ops 2 	Belleville Area Special Services Coop [Expired 915] 	FMN 	Schools 
+461.47500 	466.47500  	WQCQ465 	RM	100.0 PL	Durham Bellv 	Durham Buses (Belleville) (Belle units) [Expired 4/15] 	FMN 	Schools 
+461.30000 	466.30000  	 	RM	203.5 PL	FS Bus Bllv1 	First Student - Belleville [No License] 	FMN 	Schools 
+461.60000 	466.60000  	WPWW841 	RM	203.5 PL	FS Bus Bllv2 	First Student - Belleville 	FMN 	Schools 
+463.65000 	469.65000  	WPWW841 	RM	203.5 PL	FS Bus Bllv3 	First Student - Belleville  	FMN 	Schools 
+155.28000 	   	WNMU921 	BM	156.7 PL	HESD175 Bus 	Harmony-Emge School District 175: Buses (Belleville) 	FMN 	Schools 
+153.55250 	   	WQQE267 	BM	432 DPL	HESD175*Bus 	Harmony-Emge School District 175: Buses (Belleville) 	FMN 	Schools 
+462.47500 	467.47500  	WPRX885 	RM		WBS Elem Sch 	Wolf Branch Elementary (Swansea) 	FMN 	Schools 
+461.90000 	466.90000  	WRAH817 	RM	CC 13TG 2SL 2	Whtsd School 2 	Whiteside School: Ops 	DMR 	Schools 
+152.46500 	157.72500  	WQJS601 	RM	203.5 PL	Cahokia School 1 	Operations [Expired 12/18] 	FMN 	Schools 
+151.89500 	   	WNYH601 	BM	100.0 PL	Cahokia School 2 	Operations / Buses (1700 Jerome Lane) 	FMN 	Schools 
+154.57000 	   	WNYH601 	M		Cahokia School 3 	Operations (1700 Jerome Lane) 	FMN 	Schools 
+463.35000 	468.35000  	WPBJ754 	RM	351 DPL	Dupo Schools 1  	Buses / Ops 	FMN 	Schools 
+464.70000 	   	WPBJ754 	M		Dupo Schools 2  	Operations  	FMN 	Schools 
+464.72500 	   	WPBJ754 	M		Dupo Schools 3  	Operations  	FMN 	Schools 
+463.32500 	   	WPPT549 	M		PWH School 1 	Pontiac William Holliday School District 105 	FMN 	Schools 
+464.32500 	   	WPPT549 	M		PWH School 2 	Pontiac William Holliday School District 105 (162.2?) 	FMN 	Schools 
+464.82500 	   	WPPT549 	M		PWH School 3 	Pontiac William Holliday School District 105 	FMN 	Schools 
+463.51250 	468.51250  	WQLR654 	RM	051 DPL	ICSB Caseyvl 	Illinois Central School Bus (Caseyville) 	FMN 	Schools 
+155.23500 	   	KKL809 	BM		Freeburg School 	Buses / Security 	FMN 	Schools 
+152.87750 	158.39250  	WPYU685 	RM	127.3 PL	Lebanon Schools 	Administration / Transportation 	FMN 	Schools 
+152.87000 	159.64500  	WPSJ264 	RM		Marissa Schools 	Operations [Expired 5/11] 	FMN 	Schools 
+155.29500 	   	KNGT862 	BM	151.4 PL	Mascouth Sch Bus 	Buses 	FMN 	Schools 
+155.29500 	   	WXY289 	BM	173.8 PL	Millstadt SchBus 	Buses  	FMN 	Schools 
+155.20500 	   	WPNT342 	BM	71.9 PL	NewAthens School 	Buses  	FMN 	Schools 
+461.32500 	466.32500  	WPPT833 	RM	173.8 PL	OFTHS Ops 	O'Fallon Township High School D203 	FMN 	Schools 
+461.58750 	466.58750  	WQLZ425 	RM	051 DPL	ICSB OFallon 	Illinois-Central School Bus (O'Fallon) 	FMN 	Schools 
+464.82500 	469.82500  	WPSF598 	RM	162.2 PL	LL Bus Oflln 	Laidlaw Transit: Schools Buses (Old?-1/08) 	FMN 	Schools 
+462.12500 	467.12500  	WNWY282 	RM		SWIC DPS/M 	Police (former D732) 	FMN 	Law Dispatch 
+461.10000 	466.60000  	WNWY282 	RM		SWIC Ops1 	Department of Public Safety 	FMN 	Schools 
+451.70000 	456.70000  	KNNS637 	RM	91.5 PL	SWIC Ops4B 	Maintenance / Grounds 	FMN 	Schools 
+463.82500 	   	WPTG798 	M		SWIC Ops5 	Operations  	FMN 	Schools 
+463.92500 	   	WPTG798 	M		SWIC Ops6 	Operations 	FMN 	Schools 
+464.02500 	   	WPTG798 	M		SWIC Ops7 	Operations 	FMN 	Schools 
+464.12500 	   	WPTG798 	M		SWIC Ops8 	Operations  	FMN 	Schools 
+464.57500 	   	WPTG798 	M		SWIC Ops9 	BAC - District 522  	FMN 	Schools 
+153.65000 	158.29500  	WQGN649 	RM	146.2 PL	McKU Police 	Police: Dispatch (See Starcom21) 	FMN 	Law Dispatch 
+151.62500 	   	WPWG914 	M		McKU ResidntLife 	Resident Life Program  	FMN 	Schools 
+154.51500 	   	WNMQ806 	BM	167.9 PL	McKU BakerHall 	Baker Hall  	FMN 	Schools 
+464.82500 	469.82500  	WQQD751 	RM		McKU Maintnce 1 	Maintenance 	FMN 	Schools 
+464.87500 	469.87500  	WQQD751 	RM		McKU Maintnce 2 	Maintenance 	FMN 	Schools 
+462.08750 	467.08750  	WQYY415 	RM	CC 1TG 1SL 1	Lindenwood OpsA 	Operations 	DMR 	Schools 
+462.08750 	467.08750  	WQYY415 	RM	CC 1TG 2SL 2	Lindenwood OpsB 	Operations 	DMR 	Schools 
+461.90000 	   	WPMZ518 	M		Lindenwood OpsC 	Operations 	FMN 	Schools 
+452.48750 	   	WQYY415 	F	100.0 PL	LU Carrier  	Constant Carrier 	FMN 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Casino Queen - E St. Louis (DMR)	 DMR Tier 3	 East St Louis	Egyptian Electric Cooperative (S IL)	 DMR Conventional Networked	 Steeleville
+Joint National Capital Region	 Project 25 Phase I	 Various	Louis Dreyfus Commodities (Cahokia IL) 	 DMR Motorola Capacity Plus Single Site (TRBO)	 East Carondelet	Scott Air Force Base	 Project 25 Phase I	 Mascoutah
+Southwestern Illinois Digital Group WS9IDG	 DMR Conventional Networked	 Shiloh	St. Louis Area Trunked Emergency Radio (SLATER)	 Project 25 Phase II	 St Louis Metro Area	Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro
+Warner Communications - UHF 15 (Clayton/Hillsboro)	 LTR Standard	 Clayton	Warner Communications - UHF A	 LTR Standard	 Marlborough	Warner Communications UHF LTR - (IE MetroEast 1-xx)	 LTR Standard	 Various
+Warner Communications UHF LTR - (IE Whiteside 0-xx)	 LTR Standard	 MetroEast	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	

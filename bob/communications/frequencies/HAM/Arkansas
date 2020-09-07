@@ -15,8 +15,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 443.92500,0.00000,114.8 PL,,,Benton County ARES, Decatur Area,Benton
 443.92500,448.92500,114.8 PL,,N5UXE,Decatur WX spotters (Simulcasts on 52.925 & 146.925),Benton
 444.27500,0.00000,114.8 PL,,,Hindsville Wx,Benton
-147.00000,146.40000,123.0 PL,,,Area SKYWARN,Boone
 147.00000,147.60000,103.5 PL,,,Skywarn: Wide Area Net,Boone
+147.00000,146.40000,123.0 PL,,,Area SKYWARN,Boone
 224.56000,0.00000,,,KF0PB       ,Top of the World Estates (Harrison),Boone
 442.17500,447.17500,123.0 PL,,AJ5C,Boone County [IRLP NODE 4311],Boone
 442.90000,447.90000,103.5 PL,,N5NBJ,Skywarn: Primary,Boone
@@ -36,8 +36,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 147.15000,147.75000,103.5 PL,103.5 PL,AB5BC,General Use,Crittenden
 146.83500,146.23500,,,N5SEA,Monticello,Drew
 146.83500,146.23500,023 DPL,,N5SEA,Monticello,Drew
-444.57500,449.57500,,,N5SEA,Lacy/LaDelle,Drew
 444.57500,449.57500,127.3 PL,,N5SEA,Lacy/LaDelle,Drew
+444.57500,449.57500,,,N5SEA,Lacy/LaDelle,Drew
 444.82500,0.00000,023 DPL,,W5GIF,Monticello,Drew
 53.21000,51.51000,,114.8 PL,W5AUU,53.21 repeater linked to 443.950,Faulkner
 144.67000,145.27000,114.8 PL,114.8 PL,N5EWC,Community 2 Meter Repeater,Faulkner
@@ -45,8 +45,7 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 145.21000,144.61000,,114.8 PL,W5AUU,Secondary Repater (linked to 443.525),Faulkner
 146.62500,146.02500,,114.8 PL,W5AUU,Greenbrier Repeater,Faulkner
 146.97000,146.37000,,114.8 PL,W5AUU,Primary Repeater (linked to 443.800),Faulkner
-147.03000,147.63000,,110.9 PL,W5AUU,147.030 Skywarn repeater (linked),Faulkner
-147.03000,147.63000,,114.8 PL,W5AUU,147.030 Skywarn repeater (local),Faulkner
+147.03000,147.63000,,114.8 PL,W5AUU,Skywarn,Faulkner
 147.49500,0.00000,,CSQ,W5AUU,W5AUU-4 Conway packet node,Faulkner
 442.25000,447.25000,114.8 PL,114.8 PL,N5EWC,Dual Mode YSF/Analog Repeater,Faulkner
 443.52500,448.52500,,114.8 PL,W5AUU,Secondary Repeater (linked to 145.210),Faulkner
@@ -112,21 +111,24 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 442.36250,447.36250,,,K5CS,RussNet DMR Repeater - Arkansas Statwide,Pope
 443.40000,448.40000,,131.8 PL,K5PXP,Arkansas River Valley Amateur Radio Foundation,Pope
 146.94000,146.34000,,,W5DI,Skywarn - Little Rock (Chenal Mountain),Pulaski
-442.65000,447.65000,,,K5NSX,Shinall Mountain - Arkansas Statewide,Pulaski
-442.65000,447.65000,,,K5NSX,Shinall Mountain - Worldwide,Pulaski
 442.65000,447.65000,,,K5NSX,Shinall Mountain - NSX Local,Pulaski
 442.65000,447.65000,,,K5NSX,Shinall Mountain - Texas Statewide,Pulaski
+442.65000,447.65000,,,K5NSX,Shinall Mountain - Arkansas Statewide,Pulaski
+442.65000,447.65000,,,K5NSX,Shinall Mountain - Worldwide,Pulaski
 443.00000,449.00000,100.0 PL,,,CAUHF Open Repeater,Pulaski
-443.12500,448.12500,,,AC5XV,Sherwood - NSX Local,Pulaski
-443.12500,448.12500,,,AC5XV,Sherwood - Texas Statewide,Pulaski
 443.12500,448.12500,,,AC5XV,Sherwood - Arkansas Statewide,Pulaski
 443.12500,448.12500,,,AC5XV,Sherwood - Worldwide,Pulaski
+443.12500,448.12500,,,AC5XV,Sherwood - NSX Local,Pulaski
+443.12500,448.12500,,,AC5XV,Sherwood - Texas Statewide,Pulaski
 443.20000,448.20000,114.8 PL,114.8 PL,N5CG,CAUHF Club - Skywarn ,Pulaski
 444.20000,0.00000,,,W5DI,CAREN Little Rock ,Pulaski
 146.64000,0.00000,131.8 PL,,W5RHS,Little Rock CAUFH Group,Saline
 146.80500,0.00000,131.8 PL,,W5RHS,Saline County OEM Skywarn,Saline
 147.12000,0.00000,131.8 PL,,W5RHS,Saline County Skywarn,Saline
-443.17500,0.00000,131.8 PL,,W5RHS,Saline County Skywarn,Saline
+444.80000,449.80000,131.8 PL,131.8 PL,W5RHS,W5RHS Analog,Saline
+444.80000,449.80000,,,W5RHS,W5RHS YSF,Saline
+444.85000,449.85000,,,W5RHS,W5RHS YSF,Saline
+444.85000,449.85000,131.8 PL,131.8 PL,W5RHS,W5RHS Analog,Saline
 146.64000,146.04000,,,,FSAARC, Cavanal Mtn Area,Sebastian
 146.94000,0.00000,,,,FSAARC, Fort Smith Area,Sebastian
 442.25000,447.25000,,,,Skywarn - Secondary (Cavanal Mountain),Sebastian
@@ -134,8 +136,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 444.92500,449.92500,,,,Skywarn - Secondary,Sebastian
 145.29000,144.69000,,,KC5TEL,Jonesboro,Sharp
 146.61000,146.01000,107.2 PL,107.2 PL,W5JBR,Jonesboro Amateur Radio Club,Sharp
-146.64000,146.04000,,,KG5ICO,Cherokee Village Ham Radio Club,Sharp
 146.64000,146.04000,94.8 PL,94.8 PL,KG5ICO,Cherokee Village Ham Radio Club,Sharp
+146.64000,146.04000,,,KG5ICO,Cherokee Village Ham Radio Club,Sharp
 147.16500,147.76500,,,N5MOT,Jonesboro,Sharp
 147.21000,147.81000,,,K5CRS,Jonesboro,Sharp
 147.24000,147.84000,107.2 PL,,NI5A,Jonesboro,Sharp

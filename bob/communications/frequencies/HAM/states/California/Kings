@@ -1,39 +1,38 @@
-460.60000 	KNAQ574 	RM	146.2 PL	KingsCo SO1 	Primary Dispatch 	FM 	Law Dispatch 
-460.12500 	WPFY995 	RM	146.2 PL	KingsCo SO2  	Secondary Dispatch 	FM 	Law Dispatch 
-460.55000 	WQCK328 	RM	146.2 PL	KingsCo SO3 	Tactical 	FM 	Law Tac 
-460.52500 	WPBI906 	M	146.2 PL	KingsCo SO5 	Tactical 	FM 	Law Tac 
-155.25000 	KNAQ574 	RM	146.2 PL	KingsCo FD 1 	Fire Ch. 1 	FM 	Fire-Tac 
-155.61000 	KNAQ574 	RM	146.2 PL	KingsCo FD 2 	Fire Ch. 2 	FM 	Fire Dispatch 
-155.49750 	WQNW694 	M	146.2 PL	KingsCo FD Tac 1 	Fire Tactical 1 	FM 	Fire-Talk 
-155.14500 	WQNW694 	M	146.2 PL	KingsCo FD Tac 2 	Fire Tactical 2 	FM 	Fire-Talk 
-151.47500 	WQNW694 	M	146.2 PL	KingsCo FD Tac 3 	Fire Tactical 3 	FM 	Fire-Talk 
-463.17500 	 	RM	146.2 PL	KingsCo Med8 	Hospitals Online Medical Control 	FM 	EMS Dispatch 
-462.97500 	 	RM	114.8 PL	KingsCo Med10 	CCEMS Region Disaster Tac 	FM 	EMS-Tac 
-461.57500 	 	RM	156.7 PL	KingsCo Med15 	Dispatch 	FM 	EMS Dispatch 
-155.85750 		WQPC622 	BM	146.2 PL	KingsCo IO VHF 	Command VHF 	FM 	Interop 
-460.07500 		KMA575 	BM	146.2 PL	KingsCo IO UHF 	Command UHF 	FM 	Interop 
-45.40000 	KMJ874 	BM	CSQ	KingsCo MAD 	Mosquito Abatement District 	FM 	Public Works 
-460.30000 	KYT283 	RM	293 NAC	Corcoran PD1 	Police Dispatch 	P25 	Law Dispatch 
-453.50000 	KYT283 	RM	293 NAC	Corcoran PD2 	Police Tactical 	P25 	Law Tac 
-460.20000 	KEG761 	RM	293 NAC	Hanford PD1 	Police Dispatch 	P25 	Law Dispatch 
-460.37500 	KEG761 	RM	293 NAC	Hanford PD2 	Poilce Channel 2 	P25 	Law Tac 
-155.69250 	KAS767 	RM	156.7 PL	Hanford FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
-156.22500 	 	BM	156.7 PL	Hanford FD Cmd 	Fire Command 	FM 	Fire-Tac 
-153.69500 	 	BM	156.7 PL	Hanford FD T1 	Fire Tac 1 	FM 	Fire-Tac 
-156.19500 	 	BM	156.7 PL	Hanford FD T2 	Fire Tac 2 	FM 	Fire-Tac 
-45.12000 	KMM446 	BM	CSQ	Hanford PW 	Public Works 	FM 	Public Works 
-460.41250 		WPPZ628 	RM	146 NAC	Lemoore PD 	Police Dispatch 	P25 	Law Dispatch 
-154.78500 		WPPZ628 	RM	146.2 PL	Lemoore FD Disp 	Fire Dispatch 	FM 	Fire-Tac 
-155.35500 	 	BM	146.2 PL	Lemoore FD Tac 	Fire Tac 	FM 	Fire-Tac 
-46.58000 	KAS596 	BM	146.2 PL	Lemoore PW 	Public Works 	FM 	Public Works 
-460.46250 	WPTW766 	RM	331 DPL	Tachi TPD  	Tribal Police - Palace Casino 	FM 	Multi-Dispatch 
-158.40000 	 	M	100.0 PL	DiasFragoso 	Dias and Fragoso Ag Services 	FMN 	Business 
-464.32500 	WQNS548 	BM		Hanford Mall 	Hanford Mall 	FMN 	Business 
-468.60000 	 	M	CSQ	JGJ Ag Svcs 	JGJ Ag Services 	FMN 	Business 
-464.57500 	WNLW667 	RM		HESD Ops 	District Ops 	FMN 	Schools 
-464.82500 	WPBZ673 	RM		HESD Ops 	District Ops 	FMN 	Schools 
-155.26500 	WNJL603 	BM		Lakeside ES 	Lakeside Elementary 	FM 	Schools 
-155.20500 	WNRE966 	BM		KCSD Ops 	District Ops 	FM 	Schools 
-452.22500 	WPRW311  	RM		Lemoore HS 	Lemoore High 	FMN 	Schools 
-Avenal State Prison	 Motorola Type I	 Avenal	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	California Substance Abuse Treatment Facility/California State Prison, Corcoran	 Motorola Type IIi Hybrid
- Corcoran	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	
+460.60000 	465.60000  	KNAQ574 	RM	146.2 PL	KingsCo SO1 	Primary Dispatch 	FM 	Law Dispatch 
+460.12500 	465.12500  	WPFY995 	RM	146.2 PL	KingsCo SO2  	Secondary Dispatch 	FM 	Law Dispatch 
+460.55000 	465.55000  	WQCK328 	RM	146.2 PL	KingsCo SO3 	Tactical 	FM 	Law Tac 
+460.52500 	   	WPBI906 	M	146.2 PL	KingsCo SO5 	Tactical 	FM 	Law Tac 
+155.25000 	150.77500  	KNAQ574 	RM	146.2 PL	KingsCo FD 1 	Fire Ch. 1 	FM 	Fire-Tac 
+155.61000 	150.79000  	KNAQ574 	RM	146.2 PL	KingsCo FD 2 	Fire Ch. 2 	FM 	Fire Dispatch 
+155.49750 	   	WQNW694 	M	146.2 PL	KingsCo FD Tac 1 	Fire Tactical 1 	FM 	Fire-Talk 
+155.14500 	   	WQNW694 	M	146.2 PL	KingsCo FD Tac 2 	Fire Tactical 2 	FM 	Fire-Talk 
+151.47500 	   	WQNW694 	M	146.2 PL	KingsCo FD Tac 3 	Fire Tactical 3 	FM 	Fire-Talk 
+463.17500 	468.17500  	 	RM	146.2 PL	KingsCo Med8 	Hospitals Online Medical Control 	FM 	EMS Dispatch 
+462.97500 	467.97500  	 	RM	114.8 PL	KingsCo Med10 	CCEMS Region Disaster Tac 	FM 	EMS-Tac 
+461.57500 	466.57500  	 	RM	156.7 PL	KingsCo Med15 	Dispatch 	FM 	EMS Dispatch 
+155.85750 	151.01750  		WQPC622 	BM	146.2 PL	KingsCo IO VHF 	Command VHF 	FM 	Interop 
+460.07500 	465.07500  		KMA575 	BM	146.2 PL	KingsCo IO UHF 	Command UHF 	FM 	Interop 
+45.40000 	   	KMJ874 	BM	CSQ	KingsCo MAD 	Mosquito Abatement District 	FM 	Public Works 
+460.30000 	465.30000  	KYT283 	RM	293 NAC	Corcoran PD1 	Police Dispatch 	P25 	Law Dispatch 
+453.50000 	458.50000  	KYT283 	RM	293 NAC	Corcoran PD2 	Police Tactical 	P25 	Law Tac 
+460.20000 	465.20000  	KEG761 	RM	293 NAC	Hanford PD1 	Police Dispatch 	P25 	Law Dispatch 
+460.37500 	465.37500  	KEG761 	RM	293 NAC	Hanford PD2 	Poilce Channel 2 	P25 	Law Tac 
+155.69250 	158.91000  	KAS767 	RM	156.7 PL	Hanford FD Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+156.22500 	159.01500  	 	BM	156.7 PL	Hanford FD Cmd 	Fire Command 	FM 	Fire-Tac 
+153.69500 	   	 	BM	156.7 PL	Hanford FD T1 	Fire Tac 1 	FM 	Fire-Tac 
+156.19500 	   	 	BM	156.7 PL	Hanford FD T2 	Fire Tac 2 	FM 	Fire-Tac 
+45.12000 	   	KMM446 	BM	CSQ	Hanford PW 	Public Works 	FM 	Public Works 
+460.41250 	465.41250  		WPPZ628 	RM	146 NAC	Lemoore PD 	Police Dispatch 	P25 	Law Dispatch 
+154.78500 	155.91750  		WPPZ628 	RM	146.2 PL	Lemoore FD Disp 	Fire Dispatch 	FM 	Fire-Tac 
+155.35500 	   	 	BM	146.2 PL	Lemoore FD Tac 	Fire Tac 	FM 	Fire-Tac 
+46.58000 	   	KAS596 	BM	146.2 PL	Lemoore PW 	Public Works 	FM 	Public Works 
+460.46250 	   	WPTW766 	RM	331 DPL	Tachi TPD  	Tribal Police - Palace Casino 	FM 	Multi-Dispatch 
+158.40000 	   	 	M	100.0 PL	DiasFragoso 	Dias and Fragoso Ag Services 	FMN 	Business 
+464.32500 	   	WQNS548 	BM		Hanford Mall 	Hanford Mall 	FMN 	Business 
+468.60000 	   	 	M	CSQ	JGJ Ag Svcs 	JGJ Ag Services 	FMN 	Business 
+464.57500 	469.57500  	WNLW667 	RM		HESD Ops 	District Ops 	FMN 	Schools 
+464.82500 	469.82500  	WPBZ673 	RM		HESD Ops 	District Ops 	FMN 	Schools 
+155.26500 	   	WNJL603 	BM		Lakeside ES 	Lakeside Elementary 	FM 	Schools 
+155.20500 	   	WNRE966 	BM		KCSD Ops 	District Ops 	FM 	Schools 
+452.22500 	457.22500  	WPRW311  	RM		Lemoore HS 	Lemoore High 	FMN 	Schools 
+Avenal State Prison	 Motorola Type I	 Avenal	California Substance Abuse Treatment Facility/California State Prison, Corcoran	 Motorola Type IIi Hybrid	 Corcoran	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various

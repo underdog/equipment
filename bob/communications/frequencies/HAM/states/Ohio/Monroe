@@ -1,31 +1,30 @@
-453.25000 	WPMP537 	RM	223 DPL	MCSO DSP W 	Monroe Co SO Dispatch - West (analog) 	FM 	Law Dispatch 
-453.25000 	WPMP537 	RM	293 NAC	MCSO DSP W 	Monroe Co SO Dispatch - West (digital) 	P25 	Law Dispatch 
-453.30000 	WPMP537 	RM	131 DPL	MCSO DSP E 	Monroe Co SO Dispatch - Riverfront (analog) 	FM 	Law Dispatch 
-453.30000 	WPMP537 	RM	293 NAC	MCSO DSP E 	Monroe Co SO Dispatch - Riverfront (digital) 	P25 	Law Dispatch 
-155.97000 	KQE371 	M		MCSO VHF 	Monroe Co SO 	FM 	Law Tac 
-460.17500 	KQE371 	F		MCSO < Hnnbl 	Monroe Co SO (RX link < Hannibal) 	FM 	Law Tac 
-460.42500 	KQE371 	F		MCSO < Lwsvl 	Monroe Co SO (RX link < Lewisville) 	FM 	Law Tac 
-465.17500 	KQE371 	F		MCSO > Hnnbl 	Monroe Co SO (TX link > Hannibal) 	FM 	Law Tac 
-465.42500 	KQE371 	F		MCSO > Lwsvl 	Monroe Co SO (TX link > Lewisville) 	FM 	Law Tac 
-33.90000 	KZM827 	BM	CSQ	MCFD Disp LB 	Monroe Co Fire Dispatch - (low band) 	FM 	Fire Dispatch 
-453.66250 	KZM827 	RM	103.5 PL	MCFD Bethel 	Monroe Co Fire - Bethel 	FM 	Fire Dispatch 
-453.58750 	KZM827 	RM	103.5 PL	MCFD Keidas 	Monroe Co Fire - Keidash 	FM 	Fire Dispatch 
-453.75000 	WPPW291 	RM	107.2 PL	MCFD Lewisvl 	Monroe Co Fire - Lewisville 	FM 	Fire Dispatch 
-460.60000 	WNLQ591 	RM	025 DPL	MCFD Sardis2 	Monroe Co Fire - Sardis 	FM 	Fire Dispatch 
-453.75000 	WPPW291 	RM	107.2 PL	MCFD SyksRdg 	Monroe Co Fire - Sykes Ridge 	FM 	Fire Dispatch 
-453.03750 	WPPW291 	M	107.2 PL	MCFD FG 1 	Monroe Co Fire - Fireground 1 	FM 	Fire-Tac 
-458.03750 	WPPW291 	M	107.2 PL	MCFD FG 2 	Monroe Co Fire - Fireground 2 	FM 	Fire-Tac 
-453.85000 	KZM827 	F		MCFD > Hnnbl 	Monroe Co Fire (RX link < Hannibal) 	FM 	Other 
-458.85000 	KZM827 	F		MCFD < Hnnbl 	Monroe Co Fire (TX link > Hannibal) 	FM 	Other 
-453.42500 	WQBK897 	RM	223 DPL	MC EMA 	Monroe Co EMA 	FM 	Emergency Ops 
-155.28000 	KB28045 	BM		EMS to Hosp 	EMS to Hospital 	FM 	Hospital 
-33.50000 	KNBL286 	M		Clarngtn VFD 	Clarington VFD - Private 	FM 	Fire-Talk 
-33.90000 	WPPW291 	BM	CSQ	MC FireDepts 	Antioch, Graysville, Clarington, Beallsville and Lewisville VFD 	FM 	Fire-Tac 
-33.94000 	various 	BM	CSQ	MC FireDepts 	Antioch, Beallsville, Clarington and Graysville VFD 	FM 	Fire-Talk 
-45.32000 	KNET206 	BM		Wdsfld Water 	Woodsfield Water 	FM 	Public Works 
-45.36000 	WNLL699 	BM		Wdsfld L&P 	Woodsfield Light & Power 	FM 	Public Works 
-156.12000 	WPIH270 	RM	244 DPL	MC Engineer 	Monroe Co Engineer / plows 	FM 	Public Works 
-453.27500 	WNWA751 	RM		MC Water. 	Monroe Co Water 	FM 	Public Works 
-453.72500 	WPJN647 	RM		OhioTwp LG 	Ohio Twp Local 	FM 	Public Works 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
- Statewide	
+453.25000 	458.25000  	WPMP537 	RM	223 DPL	MCSO DSP W 	Monroe Co SO Dispatch - West (analog) 	FM 	Law Dispatch 
+453.25000 	458.25000  	WPMP537 	RM	293 NAC	MCSO DSP W 	Monroe Co SO Dispatch - West (digital) 	P25 	Law Dispatch 
+453.30000 	458.30000  	WPMP537 	RM	131 DPL	MCSO DSP E 	Monroe Co SO Dispatch - Riverfront (analog) 	FM 	Law Dispatch 
+453.30000 	458.30000  	WPMP537 	RM	293 NAC	MCSO DSP E 	Monroe Co SO Dispatch - Riverfront (digital) 	P25 	Law Dispatch 
+155.97000 	   	KQE371 	M		MCSO VHF 	Monroe Co SO 	FM 	Law Tac 
+460.17500 	   	KQE371 	F		MCSO < Hnnbl 	Monroe Co SO (RX link < Hannibal) 	FM 	Law Tac 
+460.42500 	   	KQE371 	F		MCSO < Lwsvl 	Monroe Co SO (RX link < Lewisville) 	FM 	Law Tac 
+465.17500 	   	KQE371 	F		MCSO > Hnnbl 	Monroe Co SO (TX link > Hannibal) 	FM 	Law Tac 
+465.42500 	   	KQE371 	F		MCSO > Lwsvl 	Monroe Co SO (TX link > Lewisville) 	FM 	Law Tac 
+33.90000 	   	KZM827 	BM	CSQ	MCFD Disp LB 	Monroe Co Fire Dispatch - (low band) 	FM 	Fire Dispatch 
+453.66250 	458.66250  	KZM827 	RM	103.5 PL	MCFD Bethel 	Monroe Co Fire - Bethel 	FM 	Fire Dispatch 
+453.58750 	458.58750  	KZM827 	RM	103.5 PL	MCFD Keidas 	Monroe Co Fire - Keidash 	FM 	Fire Dispatch 
+453.75000 	458.75000  	WPPW291 	RM	107.2 PL	MCFD Lewisvl 	Monroe Co Fire - Lewisville 	FM 	Fire Dispatch 
+460.60000 	465.60000  	WNLQ591 	RM	025 DPL	MCFD Sardis2 	Monroe Co Fire - Sardis 	FM 	Fire Dispatch 
+453.75000 	458.75000  	WPPW291 	RM	107.2 PL	MCFD SyksRdg 	Monroe Co Fire - Sykes Ridge 	FM 	Fire Dispatch 
+453.03750 	   	WPPW291 	M	107.2 PL	MCFD FG 1 	Monroe Co Fire - Fireground 1 	FM 	Fire-Tac 
+458.03750 	   	WPPW291 	M	107.2 PL	MCFD FG 2 	Monroe Co Fire - Fireground 2 	FM 	Fire-Tac 
+453.85000 	   	KZM827 	F		MCFD > Hnnbl 	Monroe Co Fire (RX link < Hannibal) 	FM 	Other 
+458.85000 	   	KZM827 	F		MCFD < Hnnbl 	Monroe Co Fire (TX link > Hannibal) 	FM 	Other 
+453.42500 	458.42500  	WQBK897 	RM	223 DPL	MC EMA 	Monroe Co EMA 	FM 	Emergency Ops 
+155.28000 	   	KB28045 	BM		EMS to Hosp 	EMS to Hospital 	FM 	Hospital 
+33.50000 	   	KNBL286 	M		Clarngtn VFD 	Clarington VFD - Private 	FM 	Fire-Talk 
+33.90000 	   	WPPW291 	BM	CSQ	MC FireDepts 	Antioch, Graysville, Clarington, Beallsville and Lewisville VFD 	FM 	Fire-Tac 
+33.94000 	   	various 	BM	CSQ	MC FireDepts 	Antioch, Beallsville, Clarington and Graysville VFD 	FM 	Fire-Talk 
+45.32000 	   	KNET206 	BM		Wdsfld Water 	Woodsfield Water 	FM 	Public Works 
+45.36000 	   	WNLL699 	BM		Wdsfld L&P 	Woodsfield Light & Power 	FM 	Public Works 
+156.12000 	159.06000  	WPIH270 	RM	244 DPL	MC Engineer 	Monroe Co Engineer / plows 	FM 	Public Works 
+453.27500 	458.27500  	WNWA751 	RM		MC Water. 	Monroe Co Water 	FM 	Public Works 
+453.72500 	458.72500  	WPJN647 	RM		OhioTwp LG 	Ohio Twp Local 	FM 	Public Works 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide

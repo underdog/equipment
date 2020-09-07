@@ -8,7 +8,6 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 146.79000,0.00000,,,,Bartholomew County Skywarn,Bartholomew
 146.65500,0.00000,,,,Blackford County Skywarn,Blackford
 146.50000,0.00000,,,,Boone County Skywarn Simplex,Boone
-147.10500,0.00000,,,,Boone County Skywarn Repeater,Boone
 147.30000,0.00000,,88.5 PL,,Brown County Skywarn,Brown
 147.07500,0.00000,,,,Carroll County,Carroll
 145.23000,144.63000,173.8 PL,173.8 PL,W9VMW,Cass County Amateur Radio Club Skywarn,Cass
@@ -37,8 +36,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 442.45000,447.45000,CSQ,CSQ,KA9LCF,KA9LCF,DeKalb
 146.73000,146.13000,,,,Muncie Area Amateur Radio Club,Delaware
 223.92000,222.32000,,,,Muncie Area Amateur Radio Club,Delaware
-441.82500,446.82500,110.9 PL,,,Delaware County Skywarn,Delaware
 441.82500,446.82500,293 NAC,,,Delaware County Skywarn / P25,Delaware
+441.82500,446.82500,110.9 PL,,,Delaware County Skywarn,Delaware
 444.37500,449.37500,,,,Muncie Area Amateur Radio Club,Delaware
 147.19500,147.79500,107.2 PL,107.2 PL,KB9LHX,Dubois County Skywarn - VHF,Dubois
 444.67500,449.67500,107.2 PL,107.2 PL,N9MZF,Dubois County Skywarn - UHF,Dubois
@@ -46,8 +45,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 146.64000,146.04000,,,,Fayette County Skywarn,Fayette
 146.74500,146.14500,,,,Fayette County Skywarn - Connersville Repeater,Fayette
 146.74500,0.00000,,151.4 PL,,Floyd County Skywarn,Floyd
-443.11250,448.11250,,,KC9TKJ,Kentucky Operations,Floyd
 443.11250,448.11250,,,KC9TKJ,Indiana Operations,Floyd
+443.11250,448.11250,,,KC9TKJ,Kentucky Operations,Floyd
 145.19000,0.00000,,,WB9ARC,Attica,Fountain
 145.49000,0.00000,,,WB9ARC,Covington,Fountain
 146.86500,0.00000,,,,Fountain County Skywarn,Fountain
@@ -125,8 +124,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 146.62500,146.02500,88.5 PL,88.5 PL,W9IRA,W9IRA Open Repeater Downtown Indianapolis,Marion
 146.70000,146.10000,88.5 PL,88.5 PL,W9IRA,W9IRA Wide Range Repeater - ARES Net,Marion
 146.76000,146.06000,151.4 PL,151.4 PL,K9LPW,Marion County Skywarn,Marion
-146.97000,146.37000,CSQ,107.2 PL,W9ICE,W9ICE Daily Use,Marion
 146.97000,146.37000,CSQ,77.0 PL,W9ICE,W9ICE During State Skywarn Net,Marion
+146.97000,146.37000,CSQ,107.2 PL,W9ICE,W9ICE Daily Use,Marion
 147.12000,147.72000,CSQ,CSQ,W9IRA,W9IRA Open Repeater -w- Autopatch,Marion
 147.21000,147.81000,CSQ,CSQ,W9FBZ,W9FBZ 2 Meter Repeater,Marion
 147.31500,147.91500,94.8 PL,94.8 PL,K9DC,K9DC 2 Meter Repeater,Marion
@@ -186,9 +185,9 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 146.50000,0.00000,CSQ,,,Scott County Simplex,Scott
 146.61000,146.01000,103.5 PL,,,Scott County EMA Net,Scott
 146.85000,0.00000,,,,Scott County Skywarn,Scott
-145.48000,0.00000,151.4 PL,,,,Shelby
 145.48000,0.00000,88.5 PL,,,,Shelby
 145.48000,0.00000,,,,Shelby County Skywarn,Shelby
+145.48000,0.00000,151.4 PL,,,,Shelby
 224.44000,0.00000,CSQ,,,,Shelby
 444.97500,449.97500,CSQ,,,,Shelby
 146.91000,0.00000,,,,Spencer County Skywarn,Spencer
@@ -210,8 +209,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 146.68500,0.00000,,151.4 PL,,Sullivan County Skywarn Back-Up,Sullivan
 146.77500,0.00000,,136.5 PL,,Sullivan County ARES,Sullivan
 144.90000,0.00000,,,,County ARES VHF D-STAR Tactical C,Tippecanoe
-145.37000,0.00000,88.5 PL,,,Rossville,Tippecanoe
 145.37000,0.00000,131.8 PL,,,Lafayette,Tippecanoe
+145.37000,0.00000,88.5 PL,,,Rossville,Tippecanoe
 145.50000,0.00000,CSQ,CSQ,,County ARES VHF Tactical A,Tippecanoe
 145.67000,0.00000,,,,County ARES VHF D-STAR Tactical A,Tippecanoe
 146.41500,0.00000,CSQ,CSQ,,County ARES VHF Tactical D,Tippecanoe
@@ -240,8 +239,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 146.79000,146.39000,,,,Vanderburgh County Skywarn,Vanderburgh
 442.18750,447.18750,,,,Evansville DMR Repeater,Vanderburgh
 29.66000,0.00000,100.0 PL,100.0 PL,KC9USH,Repeater Network Rcv Site,Vermillion
-146.71500,146.11500,151.4 PL,151.4 PL,,Vermillion County Skywarn,Vermillion
 146.71500,146.11500,151.4 PL,151.4 PL,W9COD,Parke ,Vermillion
+146.71500,146.11500,151.4 PL,151.4 PL,,Vermillion County Skywarn,Vermillion
 147.00000,147.60000,,,KC9YGI,Newport Tower,Vermillion
 147.00000,147.60000,,,KC9YGI,Newport Tower,Vermillion
 224.84000,0.00000,100.0 PL,100.0 PL,KC9USH,Repeater Network Rcv Site,Vermillion
@@ -268,11 +267,11 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 145.49000,0.00000,,156.7 PL,,Warren County Skywarn,Warren
 147.13500,0.00000,,,,Warren County Skywarn,Warren
 443.67500,0.00000,,156.7 PL,,Warren County Skywarn,Warren
-145.43000,144.83000,,,KA9VKO,Ohio Valley Amateur Radio Club,Warrick
 145.43000,144.83000,136.5 PL,136.5 PL,KA9VKO,Ohio Valley Amateur Radio Club,Warrick
+145.43000,144.83000,,,KA9VKO,Ohio Valley Amateur Radio Club,Warrick
 146.67500,0.00000,,,,Warrick County Skywarn,Warrick
-147.07500,147.67500,88.5 PL,88.5 PL,KC9SOC,Warrick County ARES RACES,Warrick
 147.07500,147.67500,,,KC9SOC,Warrick County ARES RACES,Warrick
+147.07500,147.67500,88.5 PL,88.5 PL,KC9SOC,Warrick County ARES RACES,Warrick
 146.65500,0.00000,103.5 PL,,KB9KPG,Washington County Skywarn,Washington
 444.92500,0.00000,136.5 PL,,W9WIN,Washington County Skywarn,Washington
 145.72500,0.00000,,,,Richmond - Echo-Link Node 332794,Wayne

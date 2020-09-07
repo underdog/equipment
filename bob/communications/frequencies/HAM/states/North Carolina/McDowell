@@ -1,36 +1,35 @@
-155.04000 	KZV330 	RM	167.9 PL	FIRE DISP 	Fire Dispatch 	FM 	Fire Dispatch 
-153.95000 	 	M		FIRE TAC 1 	Fire Tactical 1 	FMN 	Fire-Tac 
-154.40000 	WPTV370 	BM	110.9 PL	FIRE TAC 2 	Fire Tactical 2 	FM 	Fire-Tac 
-154.32500 	WPTV370 	BM	74.4 PL	FIRE TAC 3 	Fire Tactical 3 	FM 	Fire-Tac 
-154.22000 	WPTV370 	BM	141.3 PL	FIRE TAC 4 	Fire Tactical 4 	FM 	Fire-Tac 
-154.28000 	WNYG498 	BM	CSQ	STATE FIRE 	State Fire 	FM 	Fire-Tac 
-154.16000 	WPUW495 	BM	167.9 PL	CC FD 	Crooked Creek Fire 	FM 	Fire-Tac 
-155.58000 	WQOE675 	RM		A/NC-FD 	Ashford/North Cove Fire 	FMN 	Fire-Talk 
-155.84250 	WSQW727 	RM		PG REPEATER 	PG Repeater 	FMN 	Other 
-158.77500 	KZV330 	RM	167.9 PL	EMS DISP 	EMS Dispatch 	FM 	EMS Dispatch 
-155.16000 	KUU510 	BM	167.9 PL	EMS TAC 	EMS Tactical 	FM 	EMS-Tac 
-154.93500 	KZV330 	RM	203.5 PL	RSQ DISP 	Rescue Dispatch 	FM 	EMS Dispatch 
-155.28000 	KNEX212 	BM	167.9 PL	RSQ TAC 	Rescue Tactical 	FM 	Fire-Talk 
-155.34000 	KUP248 	BM	167.9 PL	EMS 2 HOSP 	EMS to Hospital 	FM 	Hospital 
-155.40000 	KUP248 	BM	167.9 PL	EMS 2 HOSP 	EMS to Hospital 	FM 	Hospital 
-463.05000 	WNIY302 	RM	103.5 PL	HOSP MED3 	Hospital Med 3 	FM 	Hospital 
-463.15000 	WNIY302 	RM	103.5 PL	HOSP MED7 	Hospital Med 7 	FM 	Hospital 
-155.01000 	KIH662 	RM	167.9 PL	MCSO DISP 	Sheriffs Office Dispatch  	FMN 	Law Dispatch 
-155.47500 	KIH662 	BM	167.9 PL	MCSO CH 2 	Sheriffs Office Channel 2 	FMN 	Law Tac 
-155.19000 	KIH662 	BM		MCSO CH 3 	Sheriffs Office Channel 3 	FMN 	Law Tac 
-154.87500 	KIH662 	BM		MCSO CH 4 	Sheriffs Office Channel 4 	FMN 	Law Tac 
-155.47500 	 	M		MCSO CH 5 	State Law  	FMN 	Law Talk 
-45.20000 	KNAE787 	BM		SCHOOLS 	Schools 	FM 	Schools 
-47.54000 	WNIY302 	BM		EMANAGEMNT 	Emergency Management 	FM 	Emergency Ops 
-47.58000 	WNIY302 	BM		EMANAGEMNT 	Emergency Management 	FM 	Emergency Ops 
-154.93500 	KZV330 	RM	167.9 PL	SVCS 	Services 	FM 	Public Works 
-155.13750 	 	BM		FACMAINT 	Facilities Maintenance 	FMN 	Other 
-155.69250 	KZV330 	RM	167.9 PL	SVCS 	Services 	FM 	Public Works 
-460.37500 	WPMN212 	RM	167.9 PL	HEADSTART 	Head Start 	FM 	Schools 
-860.96250 	KNNP950 	RM		SOC SERV 	Social Services 	FM 	Public Works 
-153.99500 	KNGL850 	RM	103.5 PL	PD DISP 	Police Dispatch 	FM 	Law Dispatch 
-158.85000 	KNGL850 	RM	167.9 PL	PUBLIC WORKS 	Public Works 	FM 	Public Works 
-154.13000 	WNPT264 	RM	167.9 PL	OFFD-OPS 	Old Fort Fire Ops 	FM 	Fire Dispatch 
-158.94000 	WPGW812 	RM	365 DPL	PUB WORKS 	Public Works Also PD/FD Special Ops 	FM 	Multi-Talk 
-North Carolina VIPER	 Project 25 Phase I	 Varies	Progress Energy	 Motorola Type II SmartZone Omnilink	 Various	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Statesville	
+155.04000 	153.87500  	KZV330 	RM	167.9 PL	FIRE DISP 	Fire Dispatch 	FM 	Fire Dispatch 
+153.95000 	   	 	M		FIRE TAC 1 	Fire Tactical 1 	FMN 	Fire-Tac 
+154.40000 	   	WPTV370 	BM	110.9 PL	FIRE TAC 2 	Fire Tactical 2 	FM 	Fire-Tac 
+154.32500 	   	WPTV370 	BM	74.4 PL	FIRE TAC 3 	Fire Tactical 3 	FM 	Fire-Tac 
+154.22000 	   	WPTV370 	BM	141.3 PL	FIRE TAC 4 	Fire Tactical 4 	FM 	Fire-Tac 
+154.28000 	   	WNYG498 	BM	CSQ	STATE FIRE 	State Fire 	FM 	Fire-Tac 
+154.16000 	   	WPUW495 	BM	167.9 PL	CC FD 	Crooked Creek Fire 	FM 	Fire-Tac 
+155.58000 	151.30250  	WQOE675 	RM		A/NC-FD 	Ashford/North Cove Fire 	FMN 	Fire-Talk 
+155.84250 	159.06000  	WSQW727 	RM		PG REPEATER 	PG Repeater 	FMN 	Other 
+158.77500 	153.80000  	KZV330 	RM	167.9 PL	EMS DISP 	EMS Dispatch 	FM 	EMS Dispatch 
+155.16000 	   	KUU510 	BM	167.9 PL	EMS TAC 	EMS Tactical 	FM 	EMS-Tac 
+154.93500 	159.00000  	KZV330 	RM	203.5 PL	RSQ DISP 	Rescue Dispatch 	FM 	EMS Dispatch 
+155.28000 	   	KNEX212 	BM	167.9 PL	RSQ TAC 	Rescue Tactical 	FM 	Fire-Talk 
+155.34000 	   	KUP248 	BM	167.9 PL	EMS 2 HOSP 	EMS to Hospital 	FM 	Hospital 
+155.40000 	   	KUP248 	BM	167.9 PL	EMS 2 HOSP 	EMS to Hospital 	FM 	Hospital 
+463.05000 	468.05000  	WNIY302 	RM	103.5 PL	HOSP MED3 	Hospital Med 3 	FM 	Hospital 
+463.15000 	468.15000  	WNIY302 	RM	103.5 PL	HOSP MED7 	Hospital Med 7 	FM 	Hospital 
+155.01000 	155.97000  	KIH662 	RM	167.9 PL	MCSO DISP 	Sheriffs Office Dispatch  	FMN 	Law Dispatch 
+155.47500 	   	KIH662 	BM	167.9 PL	MCSO CH 2 	Sheriffs Office Channel 2 	FMN 	Law Tac 
+155.19000 	   	KIH662 	BM		MCSO CH 3 	Sheriffs Office Channel 3 	FMN 	Law Tac 
+154.87500 	   	KIH662 	BM		MCSO CH 4 	Sheriffs Office Channel 4 	FMN 	Law Tac 
+155.47500 	   	 	M		MCSO CH 5 	State Law  	FMN 	Law Talk 
+45.20000 	   	KNAE787 	BM		SCHOOLS 	Schools 	FM 	Schools 
+47.54000 	   	WNIY302 	BM		EMANAGEMNT 	Emergency Management 	FM 	Emergency Ops 
+47.58000 	   	WNIY302 	BM		EMANAGEMNT 	Emergency Management 	FM 	Emergency Ops 
+154.93500 	159.00000  	KZV330 	RM	167.9 PL	SVCS 	Services 	FM 	Public Works 
+155.13750 	   	 	BM		FACMAINT 	Facilities Maintenance 	FMN 	Other 
+155.69250 	158.96250  	KZV330 	RM	167.9 PL	SVCS 	Services 	FM 	Public Works 
+460.37500 	465.37500  	WPMN212 	RM	167.9 PL	HEADSTART 	Head Start 	FM 	Schools 
+860.96250 	815.96250  	KNNP950 	RM		SOC SERV 	Social Services 	FM 	Public Works 
+153.99500 	159.03000  	KNGL850 	RM	103.5 PL	PD DISP 	Police Dispatch 	FM 	Law Dispatch 
+158.85000 	153.93500  	KNGL850 	RM	167.9 PL	PUBLIC WORKS 	Public Works 	FM 	Public Works 
+154.13000 	151.24250  	WNPT264 	RM	167.9 PL	OFFD-OPS 	Old Fort Fire Ops 	FM 	Fire Dispatch 
+158.94000 	155.02500  	WPGW812 	RM	365 DPL	PUB WORKS 	Public Works Also PD/FD Special Ops 	FM 	Multi-Talk 
+Progress Energy	 Motorola Type II SmartZone Omnilink	 Various	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	

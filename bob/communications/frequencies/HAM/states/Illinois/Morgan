@@ -1,93 +1,93 @@
-151.16750 	WQWY869 	RM	41 RAN	MorgSheriff Alx 	Sheriff: Dispatch (Alexander Simulcast)  	NXDNe 	Law Dispatch 
-151.19750 	WQWY869 	RM	41 RAN	MorgSheriff Mer 	Sheriff: Dispatch (Meredosia Simulcast) 	NXDNe 	Law Dispatch 
-151.22750 	WQWY869 	RM	41 RAN	MorgSheriffFrnk 	Sheriff: Dispatch (Franklin Simulcast) 	NXDNe 	Law Dispatch 
-151.31750 	WQWY869 	RM	41 RAN	MorgSheriffJack 	Sheriff: Dispatch (Jacksonville Simulcast)  	NXDNe 	Law Dispatch 
-151.35500 	WQWY869 	RM	41 RAN	MorgSheriffMurv 	Sheriff: Dispatch (Murrayville Simulcast)  	NXDNe 	Law Dispatch 
-159.21000 	WXF812 	RM	33 RAN	Morg>Jack Police 	Sheriff: Link to Jacksonville Police  	NXDNE 	Law Dispatch 
-855.46250 	WQFU495 	RM		MorgSheriffMDT1 	Law: Mobile Data Terminals (Jv/Waverly) (118.8 Carrier) 	Telm 	Data 
-856.76250 	WQFU495 	RM		MorgSheriffMDT2 	Law: Mobile Data Terminals (Waverly/Meredosia) (CSQ) 	Telm 	Data 
-154.12250 	WQFV291 	RM		MorganHealth 	Health Department (Portable R) (poss. D074) 	FMN 	Public Works 
-155.97000 	KM9904 	M	411 DPL	Morg Shrf c2c  	Sheriff: Car-to-Car [Ch 4] [Expired 8/04-in use 3/15] 	FMN 	Law Dispatch 
-953.05000 	WNTJ947 	F	CSQ	Morg Shrf  RF1  	Sheriff: Receive Link (Tone Carrier) 	FMN 	Law Dispatch 
-953.25000 	WNTJ946 	F	CSQ	Morg Shrf  RF2  	Sheriff: Receive Link (Tone Carrier) 	FMN 	Law Dispatch 
-956.65000 	WNTJ945 	F	CSQ	MorgShrf RF3 	Sheriff: Receive Link (Tone Carrier) 	FMN 	Law Dispatch 
-957.75000 	WNTJ943 	F	CSQ	MorgShrf RF4 	Sheriff: Receive Link (Tone Carrier) 	FMN 	Law Dispatch 
-959.45000 	WNTJ944 	F	CSQ	MorgShrf RF5 	Sheriff: Receive Link (Tone Carrier) 	FMN 	Law Dispatch 
-154.88250 	WQNX902 	RM	271 DPL	MrgEMA Siren 	EMA: Outdoor Emergency Siren Data (DTMF) 	FMN 	Emergency Ops 
-159.28500 	WQNX902 	RM		Morgan EMA 2 	EMA: Sirens? 	FMN 	Emergency Ops 
-153.92000 	WQER787 	F	703 DPL	Morg 911 in 	Fire/EMS: Dispatch (to Jacksonville Tower) 	FMN 	Fire Dispatch 
-155.85000 	WQER787 	RM	703 DPL	Morg MCERN 	Fire/EMS: Dispatch - Countywide [MCERN] 	FMN 	Fire Dispatch 
-153.92000 	WQER787 	F	743 DPL	Morg 911 in1 	Fire/EMS: Dispatch (to Alexander Remote Tower) 	FMN 	Fire Dispatch 
-458.16250 	WQGW222 	F	743 DPL	Morg 911 RF1 	Fire/EMS: 153.92 Receive Link (Alexander) 	FMN 	Fire Dispatch 
-153.92000 	WQER787 	F	754 DPL	Morg 911 in2 	Fire/EMS: Dispatch (to Waverly Remote Tower) 	FMN 	Fire Dispatch 
-458.26250 	WQGW222 	F	754 DPL	Morg 911 RF2 	Fire/EMS: 153.92 Receive Link (Waverly) 	FMN 	Fire Dispatch 
-153.92000 	WQER787 	F	732 DPL	Morg 911 in3 	Fire/EMS: Dispatch (to Chapin Remote Tower) 	FMN 	Fire Dispatch 
-458.33750 	WQGW222 	F	732 DPL	Morg 911 RF3 	Fire/EMS: 153.92 Receive Link (Chapin)  	FMN 	Fire Dispatch 
-153.92000 	WQER787 	F		Morg 911 in4 	Fire/EMS: Dispatch (to Remote Tower) 	FMN 	Fire Dispatch 
-458.53750 	WQGW222 	F	731 DPL	Morg 911 RF4 	Fire/EMS: 153.92 Receive Link (Franklin)  	FMN 	Fire Dispatch 
-153.92000 	WQER787 	F	734 DPL	Morg 911 in5 	Fire/EMS: Dispatch (to Meredosia Remote Tower) 	FMN 	Fire Dispatch 
-458.66250 	WQGW222 	F	734 DPL	Morg 911 RF5 	Fire/EMS: 153.92 Receive Link (Meredosia) 	FMN 	Fire Dispatch 
-153.92000 	WQER787 	F	723 DPL	Morg 911 in6 	Fire/EMS: Dispatch (to Woodson Remote Tower) 	FMN 	Fire Dispatch 
-458.68750 	WQGW222 	F	723 DPL	Morg 911 RF6 	Fire/EMS: 153.92 Receive Link (Woodson)  	FMN 	Fire Dispatch 
-151.11500 	KUU484 	BM	114.8 PL	Morgan Highway A 	Highway Department (Jacksonville) 	FMN 	Public Works 
-151.11500 	KUU484 	RM	411 DPL	Morgan Highway B 	Highway Department (Jacksonville) 	FMN 	Public Works 
-151.11500 	KUU484 	M	CSQ	Morgan Highway C 	Township Road Maintenance (Waverly area) 	FMN 	Public Works 
-151.04000 	WNQS234 	BM	127.3 PL	Morgan TwpRds A2 	Township Road Maintenance (Meredosia area?) 	FMN 	Public Works 
-151.04000 	WNQS234 	BM	411 DPL	Morgan TwpRds A3 	Township Road Maintenance (Jv area?) 	FMN 	Public Works 
-151.04000 	WNQS234 	BM	CSQ	Morgan TwpRds A1 	Township Road Maintenance 	FMN 	Public Works 
-151.41500 	WPWE416 	BM	411 DPL	Morgan TwpRds B 	Township Road Maintenance (Ashland) [Expired] 	FMN 	Public Works 
-159.76500 	WQQP981 	F		SMGWC WDD 	Scott-Morgan-Greene Water Cooperative (Woodson-CSQ) 	Telm 	Data 
-152.45750 	WQZI495 	RM	CC 4TG 1000SL 1	Lifestar Jcknsvl 	EMS: Dispatch / Ops 	DMRE 	EMS Dispatch 
-463.75000 	WQCI892 	RM	167.9 PL	PAH Sec/Mntn 	Security / Maintenance 	FMN 	Business 
-155.28000 	KJR231 	BM	162.2 PL	MERCI2 162.2 	MERCI-220 (Heard base, meant to be on 155.34) 	FMN 	Hospital 
-155.34000 	KJR231 	BM	162.2 PL	MERCI 162.2 	Patient Reports 	FMN 	Hospital 
-163.25000 	WNCD344 	B		PAH Paging 	Paging (CSQ Data) [Expired 4/15] 	Telm 	Data 
-154.98000 	WQBD635 	RM	065 DPL	Arnzvil Fire 	Fire: Dispatch (Rpts 155.85, Arnvl tones) 	FMN 	Fire Dispatch 
-155.56500 	WQDI574 	BM		Chpn PubWrks 	Public Works - Water / Street (not 127.3) 	FMN 	Public Works 
-155.25000 	WQDV525 	RM	023 DPL	Franklin Fire 	Fire  	FMN 	Fire Dispatch 
-453.25000 	KKL769 	RM	33 RAN	Jax Police A 	Police: Dispatch [TG 1] 	NXDNe 	Law Dispatch 
-453.05000 	KKL769 	RM	3 RAN	Jax Police B 	Police: Ops  	NXDNE 	Law Dispatch 
-158.80500 	WQAM768 	RM	155 DPL	Jax Police Tac 	Police: Tac / Ops (Clear,, w/Dispatch) [TAC] 	FMN 	Law Tac 
-153.83000 	WPPW441 	M	69.3 PL	Jax Police Event 	Police: Events (Fair)  	FMN 	Law Tac 
-155.49750 	WQHA269 	RM	33 RAN	Jax Police 1V 	Police: Dispatch 	NXDNE 	Law Dispatch 
-173.25000 	 	M	245 DPL	Jax MX D245 	Mobile Extenders (Fire/EMS*) 	FMN 	Multi-Dispatch 
-155.18250 	WQCB745 	RM	532 DPL	Jax FireCom 	Fire: Dispatch / Link to Passavant 	FMN 	Multi-Dispatch 
-458.38750 	WQCB745 	F	205 DPL	Jax Fire*RF1 	Fire: Remote Link (651 Brooklyn) 	FMN 	Fire Dispatch 
-458.56250 	WQCB745 	F	465 DPL	Jax Fire*RF2 	Fire: Remote Link (130 City Place) 	FMN 	Fire Dispatch 
-458.58750 	WQCB745 	F	624 DPL	Jax Fire*RF3 	Fire: Remote Link (1111 Carnation Drive) 	FMN 	Fire Dispatch 
-458.80000 	WQCB745 	F	306 DPL	Jax Fire*RF4 	Fire: Remote Link (1845 Massy View) 	FMN 	Fire Dispatch 
-153.77000 	KDC333 	BM	CSQ	Jax Fire Paging 	Fire: Paging (Only) (Simulcast on 159.21/453.25/155.4975) 	FMN 	Fire-Tac 
-158.17500 	KSE617 	BM	466 DPL	Jax Water/Light 	Water / Light Department 	FMN 	Public Works 
-173.21000 	WPNQ917 	F		Jax WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
-155.55000 	WQDX504 	BM		Meredosia Police 	Police: Dispatch (was D351 repeating 159.21 D411) 	FMN 	Law Dispatch 
-158.87250 	WPVZ925 	RM	411 DPL	Meredosia Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
-154.08500 	WQXD507 	BM	79.7 PL	MFPD Local 	Fire: Local 	FMN 	Fire-Tac 
-155.38500 	WPIC966 	RM	225.7 PL	MrvWdsn EMS  	EMS: Dispatch / Paging (via Phone Patch) 	FMN 	EMS Dispatch 
-452.35000 	WPYG859 	F		MW WDD 	Murrayville-Woodson Water Company: Data (CSQ) 	Telm 	Data 
-151.01000 	KCU770 	BM	127.3 PL	SJax Police 	Police: Car-to-Car 	FMN 	Law Tac 
-154.04000 	KXX489 	RM	411 DPL	SJax Fire 	Fire: Dispatch (Simulcast Jacksonville Paging) 	FMN 	Fire Dispatch 
-160.09500 	WPYE352 	BM		SJax Water 	South Jacksonville Water Company (CSQ) 	FMN 	Data 
-155.22000 	KNAB918 	BM	162.2 PL	WavrlyRescue 	Rescue Squad: Dispatch [Expired 9/12; in use 6/16] 	FMN 	EMS Dispatch 
-154.05500 	WQFJ321 	BM	CSQ	Wav EMA/PW 	Public Works / Emergency Management - Wx 	FMN 	Multi-Dispatch 
-151.79000 	WPYF830 	BM		ACWC Ops 	Apple Creek Water Company (CSQ Data) 	FMN 	Utilities 
-462.05000 	WNAW444 	RM	331 DPL	Frnkn School 	Operations 	FMN 	Schools 
-453.08750 	WPRF409 	M		ISD Ops 1 	Operations 	FMN 	Schools 
-453.11250 	WPRF409 	M		ISD Ops 2 	Operations 	FMN 	Schools 
-155.16000 	KFH462 	RM	79.7 PL	JvRt Sch Buses 	Buses  	FMN 	Schools 
-155.16000 	KFH462 	RM	71.9 PL	JvRt Sch Buses B 	Buses (2020) 	FMN 	Schools 
-151.86500 	 	M	732 DPL	SJack Elem 	South Jacksonville Grade School: Admin / Ops [No License] 	FMN 	Schools 
-151.95500 	 	M	411 DPL	JV School A 	school ops (Jacksonville) 	FMN 	Schools 
-154.60000 	 	M	411 DPL	Jv School B 	school ops (Jacksonville - near north main) 	FMN 	Schools 
-152.27750 	WQZX561 	RM	47 RAN	Jack Middle Sch 	Middle Schools Ops (Group Call) 	NXDN 	Schools 
-152.36000 	WQFG683 	RM	654 DPL	JSD147 HS Ops  	High School Ops / Buses / Grounds (D411?) 	FMN 	Schools 
-463.50000 	WNVK295 	RM	141.3 PL	Triopia Sch 	Buses / Ops 	FMN 	Schools 
-463.90000 	WNNA779 	RM	532 DPL	ILC Security 	Security (w/ Phone Patch) 	FMN 	Schools 
-463.90000 	WNNA779 	RM	073 DPL	ILC ResHalls 	Resident Halls  	FMN 	Schools 
-118.60000 	 	BM	CSQ	SPI App/Dep 	Springfield Approach/Departure 	AM 	Aircraft 
-118.45000 	 	BM	CSQ	IJX ClrDelvr 	Clearance Delivery 	AM 	Aircraft 
-122.80000 	 	BM	CSQ	IJX CTAF 	CTAF / UNICOM 	AM 	Aircraft 
-108.60000 	 	BM	CSQ	IJX AWOS V 	Weather [AWOS-3] 	AM 	Aircraft 
-458.93750 	WPLU355 	M		IJX AWOS U 	Weather Data Link [AWOS] (CSQ) 	Telm 	Data 
-Celanese Emulsions (Meredosia)	 LTR Standard	 Meredosia	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3
- Multiple	Global Technical Systems (Jacksonville)	 LTR Standard	 Jacksonville	Illinois Rural Electric Cooperative	 NXDN NEXEDGE 4800	 Winchester	Reynolds Consumer Products - Jacksonville IL (DMR)
- DMR Motorola Capacity Plus Single Site (TRBO)	 Jacksonville 	Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois	
+151.16750 	154.18250  	WQWY869 	RM	41 RAN	MorgSheriff Alx 	Sheriff: Dispatch (Alexander Simulcast)  	NXDNe 	Law Dispatch 
+151.19750 	154.18250  	WQWY869 	RM	41 RAN	MorgSheriff Mer 	Sheriff: Dispatch (Meredosia Simulcast) 	NXDNe 	Law Dispatch 
+151.22750 	154.18250  	WQWY869 	RM	41 RAN	MorgSheriffFrnk 	Sheriff: Dispatch (Franklin Simulcast) 	NXDNe 	Law Dispatch 
+151.31750 	154.18250  	WQWY869 	RM	41 RAN	MorgSheriffJack 	Sheriff: Dispatch (Jacksonville Simulcast)  	NXDNe 	Law Dispatch 
+151.35500 	154.18250  	WQWY869 	RM	41 RAN	MorgSheriffMurv 	Sheriff: Dispatch (Murrayville Simulcast)  	NXDNe 	Law Dispatch 
+159.21000 	156.09000  	WXF812 	RM	33 RAN	Morg>Jack Police 	Sheriff: Link to Jacksonville Police  	NXDNE 	Law Dispatch 
+855.46250 	810.46250  	WQFU495 	RM		MorgSheriffMDT1 	Law: Mobile Data Terminals (Jv/Waverly) (118.8 Carrier) 	Telm 	Data 
+856.76250 	811.76250  	WQFU495 	RM		MorgSheriffMDT2 	Law: Mobile Data Terminals (Waverly/Meredosia) (CSQ) 	Telm 	Data 
+154.12250 	159.24750  	WQFV291 	RM		MorganHealth 	Health Department (Portable R) (poss. D074) 	FMN 	Public Works 
+155.97000 	   	KM9904 	M	411 DPL	Morg Shrf c2c  	Sheriff: Car-to-Car [Ch 4] [Expired 8/04-in use 3/15] 	FMN 	Law Dispatch 
+953.05000 	   	WNTJ947 	F	CSQ	Morg Shrf  RF1  	Sheriff: Receive Link (Tone Carrier) 	FMN 	Law Dispatch 
+953.25000 	   	WNTJ946 	F	CSQ	Morg Shrf  RF2  	Sheriff: Receive Link (Tone Carrier) 	FMN 	Law Dispatch 
+956.65000 	   	WNTJ945 	F	CSQ	MorgShrf RF3 	Sheriff: Receive Link (Tone Carrier) 	FMN 	Law Dispatch 
+957.75000 	   	WNTJ943 	F	CSQ	MorgShrf RF4 	Sheriff: Receive Link (Tone Carrier) 	FMN 	Law Dispatch 
+959.45000 	   	WNTJ944 	F	CSQ	MorgShrf RF5 	Sheriff: Receive Link (Tone Carrier) 	FMN 	Law Dispatch 
+154.88250 	159.46500  	WQNX902 	RM	271 DPL	MrgEMA Siren 	EMA: Outdoor Emergency Siren Data (DTMF) 	FMN 	Emergency Ops 
+159.28500 	154.71000  	WQNX902 	RM		Morgan EMA 2 	EMA: Sirens? 	FMN 	Emergency Ops 
+153.92000 	   	WQER787 	F	703 DPL	Morg 911 in 	Fire/EMS: Dispatch (to Jacksonville Tower) 	FMN 	Fire Dispatch 
+155.85000 	153.92000  	WQER787 	RM	703 DPL	Morg MCERN 	Fire/EMS: Dispatch - Countywide [MCERN] 	FMN 	Fire Dispatch 
+153.92000 	   	WQER787 	F	743 DPL	Morg 911 in1 	Fire/EMS: Dispatch (to Alexander Remote Tower) 	FMN 	Fire Dispatch 
+458.16250 	   	WQGW222 	F	743 DPL	Morg 911 RF1 	Fire/EMS: 153.92 Receive Link (Alexander) 	FMN 	Fire Dispatch 
+153.92000 	   	WQER787 	F	754 DPL	Morg 911 in2 	Fire/EMS: Dispatch (to Waverly Remote Tower) 	FMN 	Fire Dispatch 
+458.26250 	   	WQGW222 	F	754 DPL	Morg 911 RF2 	Fire/EMS: 153.92 Receive Link (Waverly) 	FMN 	Fire Dispatch 
+153.92000 	   	WQER787 	F	732 DPL	Morg 911 in3 	Fire/EMS: Dispatch (to Chapin Remote Tower) 	FMN 	Fire Dispatch 
+458.33750 	   	WQGW222 	F	732 DPL	Morg 911 RF3 	Fire/EMS: 153.92 Receive Link (Chapin)  	FMN 	Fire Dispatch 
+153.92000 	   	WQER787 	F		Morg 911 in4 	Fire/EMS: Dispatch (to Remote Tower) 	FMN 	Fire Dispatch 
+458.53750 	   	WQGW222 	F	731 DPL	Morg 911 RF4 	Fire/EMS: 153.92 Receive Link (Franklin)  	FMN 	Fire Dispatch 
+153.92000 	   	WQER787 	F	734 DPL	Morg 911 in5 	Fire/EMS: Dispatch (to Meredosia Remote Tower) 	FMN 	Fire Dispatch 
+458.66250 	   	WQGW222 	F	734 DPL	Morg 911 RF5 	Fire/EMS: 153.92 Receive Link (Meredosia) 	FMN 	Fire Dispatch 
+153.92000 	   	WQER787 	F	723 DPL	Morg 911 in6 	Fire/EMS: Dispatch (to Woodson Remote Tower) 	FMN 	Fire Dispatch 
+458.68750 	   	WQGW222 	F	723 DPL	Morg 911 RF6 	Fire/EMS: 153.92 Receive Link (Woodson)  	FMN 	Fire Dispatch 
+151.11500 	156.07500  	KUU484 	BM	114.8 PL	Morgan Highway A 	Highway Department (Jacksonville) 	FMN 	Public Works 
+151.11500 	156.07500  	KUU484 	RM	411 DPL	Morgan Highway B 	Highway Department (Jacksonville) 	FMN 	Public Works 
+151.11500 	   	KUU484 	M	CSQ	Morgan Highway C 	Township Road Maintenance (Waverly area) 	FMN 	Public Works 
+151.04000 	   	WNQS234 	BM	127.3 PL	Morgan TwpRds A2 	Township Road Maintenance (Meredosia area?) 	FMN 	Public Works 
+151.04000 	   	WNQS234 	BM	411 DPL	Morgan TwpRds A3 	Township Road Maintenance (Jv area?) 	FMN 	Public Works 
+151.04000 	   	WNQS234 	BM	CSQ	Morgan TwpRds A1 	Township Road Maintenance 	FMN 	Public Works 
+151.41500 	   	WPWE416 	BM	411 DPL	Morgan TwpRds B 	Township Road Maintenance (Ashland) [Expired] 	FMN 	Public Works 
+159.76500 	   	WQQP981 	F		SMGWC WDD 	Scott-Morgan-Greene Water Cooperative (Woodson-CSQ) 	Telm 	Data 
+152.45750 	157.71750  	WQZI495 	RM	CC 4TG 1000SL 1	Lifestar Jcknsvl 	EMS: Dispatch / Ops 	DMRE 	EMS Dispatch 
+463.75000 	468.75000  	WQCI892 	RM	167.9 PL	PAH Sec/Mntn 	Security / Maintenance 	FMN 	Business 
+155.28000 	   	KJR231 	BM	162.2 PL	MERCI2 162.2 	MERCI-220 (Heard base, meant to be on 155.34) 	FMN 	Hospital 
+155.34000 	   	KJR231 	BM	162.2 PL	MERCI 162.2 	Patient Reports 	FMN 	Hospital 
+163.25000 	   	WNCD344 	B		PAH Paging 	Paging (CSQ Data) [Expired 4/15] 	Telm 	Data 
+154.98000 	158.91000  	WQBD635 	RM	065 DPL	Arnzvil Fire 	Fire: Dispatch (Rpts 155.85, Arnvl tones) 	FMN 	Fire Dispatch 
+155.56500 	   	WQDI574 	BM		Chpn PubWrks 	Public Works - Water / Street (not 127.3) 	FMN 	Public Works 
+155.25000 	153.74000  	WQDV525 	RM	023 DPL	Franklin Fire 	Fire  	FMN 	Fire Dispatch 
+453.25000 	458.25000  	KKL769 	RM	33 RAN	Jax Police A 	Police: Dispatch [TG 1] 	NXDNe 	Law Dispatch 
+453.05000 	458.05000  	KKL769 	RM	3 RAN	Jax Police B 	Police: Ops  	NXDNE 	Law Dispatch 
+158.80500 	153.78500  	WQAM768 	RM	155 DPL	Jax Police Tac 	Police: Tac / Ops (Clear,, w/Dispatch) [TAC] 	FMN 	Law Tac 
+153.83000 	   	WPPW441 	M	69.3 PL	Jax Police Event 	Police: Events (Fair)  	FMN 	Law Tac 
+155.49750 	151.39250  	WQHA269 	RM	33 RAN	Jax Police 1V 	Police: Dispatch 	NXDNE 	Law Dispatch 
+173.25000 	   	 	M	245 DPL	Jax MX D245 	Mobile Extenders (Fire/EMS*) 	FMN 	Multi-Dispatch 
+155.18250 	159.39750  	WQCB745 	RM	532 DPL	Jax FireCom 	Fire: Dispatch / Link to Passavant 	FMN 	Multi-Dispatch 
+458.38750 	   	WQCB745 	F	205 DPL	Jax Fire*RF1 	Fire: Remote Link (651 Brooklyn) 	FMN 	Fire Dispatch 
+458.56250 	   	WQCB745 	F	465 DPL	Jax Fire*RF2 	Fire: Remote Link (130 City Place) 	FMN 	Fire Dispatch 
+458.58750 	   	WQCB745 	F	624 DPL	Jax Fire*RF3 	Fire: Remote Link (1111 Carnation Drive) 	FMN 	Fire Dispatch 
+458.80000 	   	WQCB745 	F	306 DPL	Jax Fire*RF4 	Fire: Remote Link (1845 Massy View) 	FMN 	Fire Dispatch 
+153.77000 	   	KDC333 	BM	CSQ	Jax Fire Paging 	Fire: Paging (Only) (Simulcast on 159.21/453.25/155.4975) 	FMN 	Fire-Tac 
+158.17500 	   	KSE617 	BM	466 DPL	Jax Water/Light 	Water / Light Department 	FMN 	Public Works 
+173.21000 	   	WPNQ917 	F		Jax WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+155.55000 	   	WQDX504 	BM		Meredosia Police 	Police: Dispatch (was D351 repeating 159.21 D411) 	FMN 	Law Dispatch 
+158.87250 	153.79250  	WPVZ925 	RM	411 DPL	Meredosia Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
+154.08500 	   	WQXD507 	BM	79.7 PL	MFPD Local 	Fire: Local 	FMN 	Fire-Tac 
+155.38500 	150.79000  	WPIC966 	RM	225.7 PL	MrvWdsn EMS  	EMS: Dispatch / Paging (via Phone Patch) 	FMN 	EMS Dispatch 
+452.35000 	   	WPYG859 	F		MW WDD 	Murrayville-Woodson Water Company: Data (CSQ) 	Telm 	Data 
+151.01000 	   	KCU770 	BM	127.3 PL	SJax Police 	Police: Car-to-Car 	FMN 	Law Tac 
+154.04000 	159.06000  	KXX489 	RM	411 DPL	SJax Fire 	Fire: Dispatch (Simulcast Jacksonville Paging) 	FMN 	Fire Dispatch 
+160.09500 	   	WPYE352 	BM		SJax Water 	South Jacksonville Water Company (CSQ) 	FMN 	Data 
+155.22000 	   	KNAB918 	BM	162.2 PL	WavrlyRescue 	Rescue Squad: Dispatch [Expired 9/12; in use 6/16] 	FMN 	EMS Dispatch 
+154.05500 	   	WQFJ321 	BM	CSQ	Wav EMA/PW 	Public Works / Emergency Management - Wx 	FMN 	Multi-Dispatch 
+151.79000 	   	WPYF830 	BM		ACWC Ops 	Apple Creek Water Company (CSQ Data) 	FMN 	Utilities 
+462.05000 	467.05000  	WNAW444 	RM	331 DPL	Frnkn School 	Operations 	FMN 	Schools 
+453.08750 	   	WPRF409 	M		ISD Ops 1 	Operations 	FMN 	Schools 
+453.11250 	   	WPRF409 	M		ISD Ops 2 	Operations 	FMN 	Schools 
+155.16000 	158.98500  	KFH462 	RM	79.7 PL	JvRt Sch Buses 	Buses  	FMN 	Schools 
+155.16000 	158.98500  	KFH462 	RM	71.9 PL	JvRt Sch Buses B 	Buses (2020) 	FMN 	Schools 
+151.86500 	   	 	M	732 DPL	SJack Elem 	South Jacksonville Grade School: Admin / Ops [No License] 	FMN 	Schools 
+151.95500 	   	 	M	411 DPL	JV School A 	school ops (Jacksonville) 	FMN 	Schools 
+154.60000 	   	 	M	411 DPL	Jv School B 	school ops (Jacksonville - near north main) 	FMN 	Schools 
+152.27750 	157.53750  	WQZX561 	RM	47 RAN	Jack Middle Sch 	Middle Schools Ops (Group Call) 	NXDN 	Schools 
+152.36000 	157.62000  	WQFG683 	RM	654 DPL	JSD147 HS Ops  	High School Ops / Buses / Grounds (D411?) 	FMN 	Schools 
+463.50000 	468.50000  	WNVK295 	RM	141.3 PL	Triopia Sch 	Buses / Ops 	FMN 	Schools 
+463.90000 	468.90000  	WNNA779 	RM	532 DPL	ILC Security 	Security (w/ Phone Patch) 	FMN 	Schools 
+463.90000 	468.90000  	WNNA779 	RM	073 DPL	ILC ResHalls 	Resident Halls  	FMN 	Schools 
+118.60000 	   	 	BM	CSQ	SPI App/Dep 	Springfield Approach/Departure 	AM 	Aircraft 
+118.45000 	   	 	BM	CSQ	IJX ClrDelvr 	Clearance Delivery 	AM 	Aircraft 
+122.80000 	   	 	BM	CSQ	IJX CTAF 	CTAF / UNICOM 	AM 	Aircraft 
+108.60000 	   	 	BM	CSQ	IJX AWOS V 	Weather [AWOS-3] 	AM 	Aircraft 
+458.93750 	   	WPLU355 	M		IJX AWOS U 	Weather Data Link [AWOS] (CSQ) 	Telm 	Data 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+Global Technical Systems (Jacksonville)	 LTR Standard	 Jacksonville	Illinois Rural Electric Cooperative	 NXDN NEXEDGE 4800	 Winchester	Reynolds Consumer Products - Jacksonville IL (DMR)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Jacksonville 
+United Communications - Macoupin	 LTR Standard	 Various	

@@ -1,110 +1,108 @@
-860.43750 	WPDD467 	RM	412 DPL	Sac Co MJ 	Main Jail 	FMN 	Corrections 
-860.21250 	WPDD467 	RM	412 DPL	Sac Co Court1 	Main Courthouse 	FMN 	Law Dispatch 
-860.21250 	WPDD467 	RM	CSQ	Sac Co Court2 	Carol Miller Courthouse 	FMN 	Law Dispatch 
-857.96250 	WPDD467 	BM	631 DPL	Sac Co Court3 	Family Courthouse 	FMN 	Law Dispatch 
-859.96250 	WPDD466 	RM	134 DPL	Sac Co RCCC1 	Rio Consumnes Correctional Center Ch 1 	FMN 	Corrections 
-857.96250 	WPDD467 	RM	532 DPL	Sac Co RCCC2 	Rio Consumnes Correctional Center Ch 2 	FMN 	Corrections 
-851.18750 	 	M	156.7 PL	Sac Co SO Tac1 	Conventional Tac 1 	FMN 	Law Talk 
-851.21250 	 	M	156.7 PL	Sac Co SO Tac2 	Conventional Tac 2 	FMN 	Law Talk 
-851.50000 	 	M	156.7 PL	Sac Co SO Tac3 	Conventional Tac 3 	FMN 	Law Talk 
-852.52500 	 	M	156.7 PL	Sac Co SO Tac4 	Conventional Tac 4 	FMN 	Law Talk 
-132.12500 	 			Sac Air T/A 	Air Units Talk Around 	AM 	Multi-Tac 
-154.19000 	 	BM	162.2 PL	Sac Co FD VHF 	VHF Simulcast 	FMN 	Fire Dispatch 
-154.32500 	 	M	162.2 PL	Sac Co FD Cmd1 	Command 1 	FMN 	Fire-Tac 
-154.10000 	KB64379 	M	162.2 PL	Sac Co FD Tac2 	Tac 2 	FMN 	Fire-Tac 
-154.40000 	KB64379 	M	162.2 PL	Sac Co FD Tac3 	Tac 3 	FMN 	Fire-Tac 
-155.29500 	WQAF896 	BM	162.2 PL	AMR Sac Co 	AMR Dispatch 	FM 	EMS Dispatch 
-151.47500 	WPWX574 	M	100.0 PL	ORA P&R 	Orangevale Parks/Recreation 	FM 	Public Works 
-854.11250 	WPAR648 	RM	131 DPL	Treatment 	Sac Regional Waste Water Treatment Plant 	FM 	Utilities 
-853.56250 	 	M	532 DPL	All Local Govt 	All Local Government 	FMN 	Public Works 
-851.13750 	 	M	412 DPL	SPLX 1 FIRE 	Simplex 1 Fire 	FMN 	Fire-Tac 
-851.41250 	 	M	532 DPL	SPLX 2 CITY LG 	Simplex 2 City Local Government 	FMN 	Public Works 
-851.41250 	 	M	131 DPL	SPLX 2 RANCHO 	Simplex 2 Rancho 	FMN 	Public Works 
-851.77500 	 	M	532 DPL	SPLX 3 CITY LG 	Simplex 3 City Local Government 	FMN 	Public Works 
-851.77500 	 	M	412 DPL	SPLX 3 RT 	Simplex 3 RT 	FMN 	Public Works 
-851.77500 	 	M	131 DPL	SPLX 3 RANCHO 	Simplex 3 Rancho 	FMN 	Public Works 
-851.88750 	 	M	565 DPL	SPLX 4 Citrus 	Simplex 4 Citrus 	FMN 	Public Works 
-851.88750 	 	M	131 DPL	SPLX 4 CNTY LG 	Simplex 4 County Local Government 	FMN 	Public Works 
-851.88750 	 	M	261 DPL	Splx 4 Elk Grove 	Simplex 4 Elk Grove 	FMN 	Public Works 
-852.03750 	 	M	532 DPL	SPLX 5 AIRPORT 	Simplex 5 Airport 	FMN 	Public Works 
-852.03750 	 	M	565 DPL	SPLX 5 Citrus 	Simplex 5 Citrus 	FMN 	Public Works 
-852.03750 	 	M	131 DPL	SPLX 5 CNTY LG 	Simplex 5 County Local Government 	FMN 	Public Works 
-852.03750 	 	M	261 DPL	Splx 5 Elk Grove 	Simplex 5 Elk Grove 	FMN 	Public Works 
-853.96250 	 	M	565 DPL	SPLX 6 EGWS 	Simplex 6 EGWS 	FMN 	Public Works 
-853.36250 	 	M	134 DPL	SPLX 6 Folsom 	Simplex 6 Folsom 	FMN 	Public Works 
-853.96250 	 	M	261 DPL	SPLX 6 GALT 	Simplex 6 GALT 	FMN 	Public Works 
-853.36250 	 	M	532 DPL	SPLX 6 R TP 	Simplex 6 R TP 	FMN 	Public Works 
-853.36250 	 	M	412 DPL	SPLX 6 WST SC 	Simplex 6 WST SC 	FMN 	Public Works 
-852.90000 	 	M	162.2 PL	TAC 15D 	Tactical 15D 	FMN 	Public Works 
-853.96250 	 	M	162.2 PL	TAC 16D 	Tactical 16D 	FMN 	Public Works 
-853.42500 	 	RM	2AA NAC	CTAC 1 	CTAC 1 	P25 	Interop 
-853.32500 	 	RM	2A9 NAC	CTAC 2 	CTAC 2 	P25 	Interop 
-851.46250 	 	RM	2A8 NAC	CTAC 3 	CTAC 3 	P25 	Interop 
-852.87500 	 	RM	2A7 NAC	CTAC 4 	CTAC 4 	P25 	Interop 
-852.40000 	 	RM	2A6 NAC	CTAC 5 	CTAC 5 	P25 	Interop 
-852.96250 	 	RM	2A5 NAC	CTAC 6 	CTAC 6 	P25 	Interop 
-852.17500 	 	RM	2A4 NAC	CTAC 7 	CTAC 7 	P25 	Interop 
-853.85000 	 	RM	2A3 NAC	CTAC 8 	CTAC 8 	P25 	Interop 
-851.16250 	 	RM	2A2 NAC	CTAC 9 	CTAC 9 	P25 	Interop 
-856.21250 	 	RM	2A1 NAC	CTAC 10 	CTAC 10 	P25 	Interop 
-853.77500 	 	RM	2A0 NAC	CTAC 11 	CTAC 11 	P25 	Interop 
-852.71250 	 	RM	29F NAC	CTAC 12 	CTAC 12 	P25 	Interop 
-852.63750 	 	RM	29E NAC	CTAC 13 	CTAC 13 	P25 	Interop 
-852.10000 	 	RM	29D NAC	CTAC 14 	CTAC 14 	P25 	Interop 
-851.11250 	 	RM	29C NAC	CTAC 15 	CTAC 15 	P25 	Interop 
-853.10000 	 	RM	29B NAC	CTAC 16 	CTAC 16 	P25 	Interop 
-853.68750 	 	RM	29A NAC	CTAC 17 	CTAC 17 	P25 	Interop 
-453.27500 	WQXX600 	RM	385 NAC	SRRCS Backup 	SRRCS Backup 	P25 	Multi-Dispatch 
-453.98750 	WPPF222 	M		Folsom Water 	Water District 	FM 	Public Works 
-153.84500 	KVG870 	BM	141.3 PL	Galt PW 	Public Works 	FM 	Public Works 
-453.96250 	WPPG621 	M		Galt Service 	Services 	FM 	Public Works 
-153.89000 	KMF886 	BM	162.2 PL	Sac FD Dispatch 	Fire VHF Simulcast 	FM 	Fire Dispatch 
-153.83000 	KMF886 	M	162.2 PL	Sac FD Tac4 	Fire Tac 4 	FMN 	Fire-Tac 
-154.23500 	KMF886 	M	162.2 PL	Sac FD Tac5 	Fire Tac 5 	FMN 	Fire-Tac 
-154.38500 	KMF886 	M	162.2 PL	Sac FD Tac6 	Fire Tac 6 	FMN 	Fire-Tac 
-855.71250 	WQEN799 	RM	167.9 PL	CAExpo PD1 	Dispatch 	FM 	Law Dispatch 
-859.76250 	WQEN799 	RM	110.9 PL	CAExpo PD2 	Channel 2 	FM 	Law Tac 
-453.15000 	KKG954 	RM	146.2 PL	CAExpo Scty 	Security 	FM 	Security 
-453.40000 	 	RM	100.0 PL	CAExpo Park 	Parking 	FM 	Business 
-453.80000 	 	RM	131.8 PL	CAExpo Adm 	Admin/Entertainment 	FM 	Business 
-453.97500 	 	RM	141.3 PL	CAExpo Tran 	Trams/Transportation 	FM 	Transportation 
-464.13750 	KD52325 	M	210.7 PL	ARC PD 	Police 	FM 	Law Dispatch 
-464.23750 	KD52325 	M	210.7 PL	ARC PD 	Police 	FM 	Law Dispatch 
-857.23750 	WQWF870 	RM	026 DPL	CSUS PD 	Police Dispatch 	FM 	Law Dispatch 
-151.60250 	WQIV456 	RM	114.8 PL	CUSD Ops 	Operations 	FMN 	Schools 
-855.81250 	WPJY405 	RM	118.8 PL	EGUSD 1 	Channel 1 	FM 	Schools 
-860.81250 	WPJY405 	M	67.0 PL	EGUSD 2 	Channel 2 	FM 	Schools 
-854.81250 	WPJY405 	RM	74.4 PL	EGUSD 3 	Channel 3 	FM 	Schools 
-860.78750 	 	RM	165 DPL	EGUSD Emergency 	Emergency (Schools to Police Dispatch) 	FMN 	Law Tac 
-453.27500 	WQXX600 	RM	192.8 PL	FCUSD Ops 	District Ops / Police Back-up 	FM 	Schools 
-151.97000 	WQEZ332 	RM	107.2 PL	GUSD Buses 	Bus Operations 	FMN 	Schools 
-461.86250 	WQKP613 	RM	91.5 PL	CRC Ops 	Cosumnes River College Ops 	FMN 	Schools 
-461.62500 	WQGN621 	RM	127.3 PL	NUSD Ops 	Operations 	FM 	Schools 
-153.32750 	WQTF641 	RM	131 DPL	Legion HS 	American Legion High 	FMN 	Schools 
-153.23750 	WQTF641 	RM	131 DPL	McClatchy HS 	C.K. McClatchy High 	FMN 	Schools 
-153.38750 	WQTF641 	RM	131 DPL	Johnson HS 	Hiram W. Johnson High 	FMN 	Schools 
-152.95250 	WQJA529 	RM	462 DPL	Kennedy HS 	John F. Kennedy High 	FMN 	Schools 
-153.56750 	WQTF641 	RM	131 DPL	Burbank HS 	Luther Burbank High 	FMN 	Schools 
-152.46500 	WQZD664 	RM		Rosemont HS 	Rosemont High 	FMN 	Schools 
-153.03500 	WQTF641 	RM	131 DPL	Brannan MS 	Sam Brannan Middle 	FMN 	Schools 
-152.38250 	WQZD664 	RM	131.8 PL	Wood MS 	Will C. Wood Middle 	FMN 	Schools 
-858.71250 	WNBQ990 	RM	146.2 PL	SJUSD Ops 	District Ops 	FM 	Schools 
-859.71250 	WNBQ990 	RM	146.2 PL	SJUSD Ops 	District Ops 	FM 	Schools 
-860.71250 	WNBQ990 	RM	146.2 PL	SJUSD Ops 	District Ops 	FM 	Schools 
-857.46250 	WQUX251 	RM	203.5 PL	TRUSD Bus 	School Buses 	FMN 	Schools 
-464.32500 	WNRB832 	RM	464 DPL	UOP DSP MAIN 	Department of Public Safety - Main 	FMN 	Law Dispatch 
-464.32500 	WNRB832 	RM	107.2 PL	UOP CALL BOX 	Emergency Call Boxes  	FM 	Security 
-464.28750 	WPFK635 	M	107.2 PL	UOP DSP 3 	Department of Public Safety 	FM 	Security 
-464.33750 	WPFK635 	M	464 DPL	UOP DPS TAC-1D 	Department of Public Safety - Tac 1 	FMN 	Law Tac 
-469.33750 	WPFK635 	M	464 DPL	UOP DPS TAC-2D 	Department of Public Safety - Tac 2 	FMN 	Law Tac 
-462.66250 	 	M	107.2 PL	UOP MAINT 	Maintenance 	FMN 	Schools 
-464.97500 	 	RM	186.2 PL	UOP EVENTS 	Events 	FMN 	Schools 
-Arden Fair Mall	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sacramento	ATT (LTR)	 LTR Standard	 Various	California Department of Corrections and Rehabilitation	 Project 25 Phase II
- Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	Golden 1 Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sacramento	Hyatt Regency Sacramento
- DMR Motorola Capacity Plus Single Site (TRBO)	 Sacramento	Intel - Folsom Campus	 DMR Motorola Capacity Plus Single Site (TRBO)	 Folsom	Mercy General Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sacramento
-Mercy San Juan Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Carmichael	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Sacramento Municipal Utility District	 Project 25 Phase I
- Sacramento	Sacramento Regional Radio Communications System (SRRCS) P25	 Project 25 Phase I	 Sacramento	Silke Communications	 NXDN NEXEDGE 4800	 Northern California	SMR Tadlock and Associates
- LTR Standard	 Sacramento	Teichert Aggregates	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sacramento	Telecomm Engineering (Bass Lake)	 LTR Standard	 Sacramento
-Telecomm Engineering (Sacramento #2)	 LTR Standard	 Sacramento	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	The Radio Guys	 NXDN NEXEDGE 4800
- Various	Unidentified SMR 1	 LTR Standard	 Unknown	Unidentified SMR 2	 LTR Standard	 Sacramento	Unidentified SMR 3
- LTR Standard	 Sacramento County	Unidentified SMR 4	 LTR Standard	 Sacramento County	Unidentified SMR 5	 LTR Standard	 Sacramento County
+860.43750 	815.43750  	WPDD467 	RM	412 DPL	Sac Co MJ 	Main Jail 	FMN 	Corrections 
+860.21250 	815.21250  	WPDD467 	RM	412 DPL	Sac Co Court1 	Main Courthouse 	FMN 	Law Dispatch 
+860.21250 	815.21250  	WPDD467 	RM	CSQ	Sac Co Court2 	Carol Miller Courthouse 	FMN 	Law Dispatch 
+857.96250 	   	WPDD467 	BM	631 DPL	Sac Co Court3 	Family Courthouse 	FMN 	Law Dispatch 
+859.96250 	814.96250  	WPDD466 	RM	134 DPL	Sac Co RCCC1 	Rio Consumnes Correctional Center Ch 1 	FMN 	Corrections 
+857.96250 	812.96250  	WPDD467 	RM	532 DPL	Sac Co RCCC2 	Rio Consumnes Correctional Center Ch 2 	FMN 	Corrections 
+851.18750 	   	 	M	156.7 PL	Sac Co SO Tac1 	Conventional Tac 1 	FMN 	Law Talk 
+851.21250 	   	 	M	156.7 PL	Sac Co SO Tac2 	Conventional Tac 2 	FMN 	Law Talk 
+851.50000 	   	 	M	156.7 PL	Sac Co SO Tac3 	Conventional Tac 3 	FMN 	Law Talk 
+852.52500 	   	 	M	156.7 PL	Sac Co SO Tac4 	Conventional Tac 4 	FMN 	Law Talk 
+132.12500 	   	 			Sac Air T/A 	Air Units Talk Around 	AM 	Multi-Tac 
+154.19000 	   	 	BM	162.2 PL	Sac Co FD VHF 	VHF Simulcast 	FMN 	Fire Dispatch 
+154.32500 	   	 	M	162.2 PL	Sac Co FD Cmd1 	Command 1 	FMN 	Fire-Tac 
+154.10000 	   	KB64379 	M	162.2 PL	Sac Co FD Tac2 	Tac 2 	FMN 	Fire-Tac 
+154.40000 	   	KB64379 	M	162.2 PL	Sac Co FD Tac3 	Tac 3 	FMN 	Fire-Tac 
+155.29500 	   	WQAF896 	BM	162.2 PL	AMR Sac Co 	AMR Dispatch 	FM 	EMS Dispatch 
+151.47500 	   	WPWX574 	M	100.0 PL	ORA P&R 	Orangevale Parks/Recreation 	FM 	Public Works 
+854.11250 	809.11250  	WPAR648 	RM	131 DPL	Treatment 	Sac Regional Waste Water Treatment Plant 	FM 	Utilities 
+853.56250 	   	 	M	532 DPL	All Local Govt 	All Local Government 	FMN 	Public Works 
+851.13750 	   	 	M	412 DPL	SPLX 1 FIRE 	Simplex 1 Fire 	FMN 	Fire-Tac 
+851.41250 	   	 	M	532 DPL	SPLX 2 CITY LG 	Simplex 2 City Local Government 	FMN 	Public Works 
+851.41250 	   	 	M	131 DPL	SPLX 2 RANCHO 	Simplex 2 Rancho 	FMN 	Public Works 
+851.77500 	   	 	M	532 DPL	SPLX 3 CITY LG 	Simplex 3 City Local Government 	FMN 	Public Works 
+851.77500 	   	 	M	412 DPL	SPLX 3 RT 	Simplex 3 RT 	FMN 	Public Works 
+851.77500 	   	 	M	131 DPL	SPLX 3 RANCHO 	Simplex 3 Rancho 	FMN 	Public Works 
+851.88750 	   	 	M	565 DPL	SPLX 4 Citrus 	Simplex 4 Citrus 	FMN 	Public Works 
+851.88750 	   	 	M	131 DPL	SPLX 4 CNTY LG 	Simplex 4 County Local Government 	FMN 	Public Works 
+851.88750 	   	 	M	261 DPL	Splx 4 Elk Grove 	Simplex 4 Elk Grove 	FMN 	Public Works 
+852.03750 	   	 	M	532 DPL	SPLX 5 AIRPORT 	Simplex 5 Airport 	FMN 	Public Works 
+852.03750 	   	 	M	565 DPL	SPLX 5 Citrus 	Simplex 5 Citrus 	FMN 	Public Works 
+852.03750 	   	 	M	131 DPL	SPLX 5 CNTY LG 	Simplex 5 County Local Government 	FMN 	Public Works 
+852.03750 	   	 	M	261 DPL	Splx 5 Elk Grove 	Simplex 5 Elk Grove 	FMN 	Public Works 
+853.96250 	   	 	M	565 DPL	SPLX 6 EGWS 	Simplex 6 EGWS 	FMN 	Public Works 
+853.36250 	   	 	M	134 DPL	SPLX 6 Folsom 	Simplex 6 Folsom 	FMN 	Public Works 
+853.96250 	   	 	M	261 DPL	SPLX 6 GALT 	Simplex 6 GALT 	FMN 	Public Works 
+853.36250 	   	 	M	532 DPL	SPLX 6 R TP 	Simplex 6 R TP 	FMN 	Public Works 
+853.36250 	   	 	M	412 DPL	SPLX 6 WST SC 	Simplex 6 WST SC 	FMN 	Public Works 
+852.90000 	   	 	M	162.2 PL	TAC 15D 	Tactical 15D 	FMN 	Public Works 
+853.96250 	   	 	M	162.2 PL	TAC 16D 	Tactical 16D 	FMN 	Public Works 
+853.42500 	808.42500  	 	RM	2AA NAC	CTAC 1 	CTAC 1 	P25 	Interop 
+853.32500 	808.32500  	 	RM	2A9 NAC	CTAC 2 	CTAC 2 	P25 	Interop 
+851.46250 	806.46250  	 	RM	2A8 NAC	CTAC 3 	CTAC 3 	P25 	Interop 
+852.87500 	807.87500  	 	RM	2A7 NAC	CTAC 4 	CTAC 4 	P25 	Interop 
+852.40000 	807.40000  	 	RM	2A6 NAC	CTAC 5 	CTAC 5 	P25 	Interop 
+852.96250 	807.96250  	 	RM	2A5 NAC	CTAC 6 	CTAC 6 	P25 	Interop 
+852.17500 	807.17500  	 	RM	2A4 NAC	CTAC 7 	CTAC 7 	P25 	Interop 
+853.85000 	808.85000  	 	RM	2A3 NAC	CTAC 8 	CTAC 8 	P25 	Interop 
+851.16250 	808.16250  	 	RM	2A2 NAC	CTAC 9 	CTAC 9 	P25 	Interop 
+856.21250 	811.21250  	 	RM	2A1 NAC	CTAC 10 	CTAC 10 	P25 	Interop 
+853.77500 	808.77500  	 	RM	2A0 NAC	CTAC 11 	CTAC 11 	P25 	Interop 
+852.71250 	807.71250  	 	RM	29F NAC	CTAC 12 	CTAC 12 	P25 	Interop 
+852.63750 	807.63750  	 	RM	29E NAC	CTAC 13 	CTAC 13 	P25 	Interop 
+852.10000 	807.10000  	 	RM	29D NAC	CTAC 14 	CTAC 14 	P25 	Interop 
+851.11250 	806.11250  	 	RM	29C NAC	CTAC 15 	CTAC 15 	P25 	Interop 
+853.10000 	808.10000  	 	RM	29B NAC	CTAC 16 	CTAC 16 	P25 	Interop 
+853.68750 	808.68750  	 	RM	29A NAC	CTAC 17 	CTAC 17 	P25 	Interop 
+453.27500 	458.27500  	WQXX600 	RM	385 NAC	SRRCS Backup 	SRRCS Backup 	P25 	Multi-Dispatch 
+453.98750 	   	WPPF222 	M		Folsom Water 	Water District 	FM 	Public Works 
+153.84500 	   	KVG870 	BM	141.3 PL	Galt PW 	Public Works 	FM 	Public Works 
+453.96250 	   	WPPG621 	M		Galt Service 	Services 	FM 	Public Works 
+153.89000 	   	KMF886 	BM	162.2 PL	Sac FD Dispatch 	Fire VHF Simulcast 	FM 	Fire Dispatch 
+153.83000 	   	KMF886 	M	162.2 PL	Sac FD Tac4 	Fire Tac 4 	FMN 	Fire-Tac 
+154.23500 	   	KMF886 	M	162.2 PL	Sac FD Tac5 	Fire Tac 5 	FMN 	Fire-Tac 
+154.38500 	   	KMF886 	M	162.2 PL	Sac FD Tac6 	Fire Tac 6 	FMN 	Fire-Tac 
+855.71250 	810.71250  	WQEN799 	RM	167.9 PL	CAExpo PD1 	Dispatch 	FM 	Law Dispatch 
+859.76250 	814.76250  	WQEN799 	RM	110.9 PL	CAExpo PD2 	Channel 2 	FM 	Law Tac 
+453.15000 	458.15000  	KKG954 	RM	146.2 PL	CAExpo Scty 	Security 	FM 	Security 
+453.40000 	458.40000  	 	RM	100.0 PL	CAExpo Park 	Parking 	FM 	Business 
+453.80000 	458.80000  	 	RM	131.8 PL	CAExpo Adm 	Admin/Entertainment 	FM 	Business 
+453.97500 	458.97500  	 	RM	141.3 PL	CAExpo Tran 	Trams/Transportation 	FM 	Transportation 
+464.13750 	   	KD52325 	M	210.7 PL	ARC PD 	Police 	FM 	Law Dispatch 
+464.23750 	   	KD52325 	M	210.7 PL	ARC PD 	Police 	FM 	Law Dispatch 
+857.23750 	812.23750  	WQWF870 	RM	026 DPL	CSUS PD 	Police Dispatch 	FM 	Law Dispatch 
+151.60250 	160.05000  	WQIV456 	RM	114.8 PL	CUSD Ops 	Operations 	FMN 	Schools 
+855.81250 	810.81250  	WPJY405 	RM	118.8 PL	EGUSD 1 	Channel 1 	FM 	Schools 
+860.81250 	   	WPJY405 	M	67.0 PL	EGUSD 2 	Channel 2 	FM 	Schools 
+854.81250 	809.81250  	WPJY405 	RM	74.4 PL	EGUSD 3 	Channel 3 	FM 	Schools 
+860.78750 	815.78750  	 	RM	165 DPL	EGUSD Emergency 	Emergency (Schools to Police Dispatch) 	FMN 	Law Tac 
+453.27500 	458.27500  	WQXX600 	RM	192.8 PL	FCUSD Ops 	District Ops / Police Back-up 	FM 	Schools 
+151.97000 	160.14000  	WQEZ332 	RM	107.2 PL	GUSD Buses 	Bus Operations 	FMN 	Schools 
+461.86250 	466.86250  	WQKP613 	RM	91.5 PL	CRC Ops 	Cosumnes River College Ops 	FMN 	Schools 
+461.62500 	466.62500  	WQGN621 	RM	127.3 PL	NUSD Ops 	Operations 	FM 	Schools 
+153.32750 	159.69750  	WQTF641 	RM	131 DPL	Legion HS 	American Legion High 	FMN 	Schools 
+153.23750 	159.62250  	WQTF641 	RM	131 DPL	McClatchy HS 	C.K. McClatchy High 	FMN 	Schools 
+153.38750 	159.86250  	WQTF641 	RM	131 DPL	Johnson HS 	Hiram W. Johnson High 	FMN 	Schools 
+152.95250 	159.92250  	WQJA529 	RM	462 DPL	Kennedy HS 	John F. Kennedy High 	FMN 	Schools 
+153.56750 	160.04250  	WQTF641 	RM	131 DPL	Burbank HS 	Luther Burbank High 	FMN 	Schools 
+152.46500 	157.72500  	WQZD664 	RM		Rosemont HS 	Rosemont High 	FMN 	Schools 
+153.03500 	159.56250  	WQTF641 	RM	131 DPL	Brannan MS 	Sam Brannan Middle 	FMN 	Schools 
+152.38250 	157.64250  	WQZD664 	RM	131.8 PL	Wood MS 	Will C. Wood Middle 	FMN 	Schools 
+858.71250 	813.71250  	WNBQ990 	RM	146.2 PL	SJUSD Ops 	District Ops 	FM 	Schools 
+859.71250 	814.71250  	WNBQ990 	RM	146.2 PL	SJUSD Ops 	District Ops 	FM 	Schools 
+860.71250 	815.71250  	WNBQ990 	RM	146.2 PL	SJUSD Ops 	District Ops 	FM 	Schools 
+857.46250 	812.46250  	WQUX251 	RM	203.5 PL	TRUSD Bus 	School Buses 	FMN 	Schools 
+464.32500 	469.32500  	WNRB832 	RM	464 DPL	UOP DSP MAIN 	Department of Public Safety - Main 	FMN 	Law Dispatch 
+464.32500 	469.32500  	WNRB832 	RM	107.2 PL	UOP CALL BOX 	Emergency Call Boxes  	FM 	Security 
+464.28750 	   	WPFK635 	M	107.2 PL	UOP DSP 3 	Department of Public Safety 	FM 	Security 
+464.33750 	   	WPFK635 	M	464 DPL	UOP DPS TAC-1D 	Department of Public Safety - Tac 1 	FMN 	Law Tac 
+469.33750 	   	WPFK635 	M	464 DPL	UOP DPS TAC-2D 	Department of Public Safety - Tac 2 	FMN 	Law Tac 
+462.66250 	   	 	M	107.2 PL	UOP MAINT 	Maintenance 	FMN 	Schools 
+464.97500 	469.97500  	 	RM	186.2 PL	UOP EVENTS 	Events 	FMN 	Schools 
+Arden Fair Mall	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sacramento	ATT (LTR)	 LTR Standard	 Various	Golden 1 Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sacramento
+Hyatt Regency Sacramento	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sacramento	Intel - Folsom Campus	 DMR Motorola Capacity Plus Single Site (TRBO)	 Folsom	Mercy General Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sacramento
+Mercy San Juan Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Carmichael	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Sacramento Municipal Utility District	 Project 25 Phase I	 Sacramento
+SMR Tadlock and Associates	 LTR Standard	 Sacramento	Teichert Aggregates	 DMR Motorola Capacity Plus Single Site (TRBO)	 Sacramento	Telecomm Engineering (Bass Lake)	 LTR Standard	 Sacramento
+Telecomm Engineering (Sacramento #2)	 LTR Standard	 Sacramento	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	The Radio Guys	 NXDN NEXEDGE 4800	 Various
+Unidentified SMR 1	 LTR Standard	 Unknown	Unidentified SMR 2	 LTR Standard	 Sacramento	Unidentified SMR 3	 LTR Standard	 Sacramento County
+Unidentified SMR 4	 LTR Standard	 Sacramento County	Unidentified SMR 5	 LTR Standard	 Sacramento County	

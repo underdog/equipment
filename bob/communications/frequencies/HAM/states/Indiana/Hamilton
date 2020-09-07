@@ -1,46 +1,45 @@
-154.01000 	WQWH632 	BM	CSQ	CO FIRE TONE 	Countywide Fire Tone Out 	FMN 	Fire Dispatch 
-155.86500 	KSZ831 	BM		Crml Utility 	Utility Department 	FMN 	Utilities 
-453.15000 	WQIA462 	RM		Crml Parks 	Parks & Recreation Department (Monon Center) 	FMN 	Other 
-453.23750 	WPXH695 	RM		Crml Govt 	Government Services 	FMN 	Other 
-453.60000 	WPML424 	RM		Crml WX Srn 	Weather Alert Siren Data 	Telm 	Emergency Ops 
-453.75000 	KNIM261 	RM		Crml Utility 	Utility Department 	FMN 	Utilities 
-453.87500 	WNIF564 	RM		Crml Utility 	Utility Department 	FMN 	Utilities 
-451.22500 	WQOP504 	RM	CC 1TG 1000SL 1	IU SAXONY SEC 1 	Indiana University Health - Saxony *Security* (Repeater 1) 	DMR 	Security 
-461.75000 	WQOP504 	RM	CC 1TG 1000SL 1	IU SAXONY SEC 2 	Indiana University Health - Saxony *Security* (Repeater 2) 	DMR 	Security 
-463.25000 	WQOP504 	RM	CC 1TG 1000SL 1	IU SAXONY SEC 3 	Indiana University Health - Saxony *Security* (Repeater 3) 	DMR 	Security 
-451.85000 	WQQQ582 	RM		StFrancisOps 	St. Francis Carmel Hospital 	DMR 	Hospital 
-462.16250 	KVU354 	RM		StVince-Crml 	St. Vincent Carmel Campus 	DMR 	Hospital 
-463.92500 	KVU354 	RM		StVince-Crml 	St. Vincent Carmel Campus 	DMR 	Hospital 
-464.35000 	KVU354 	RM		StVince-Crml 	St. Vincent Carmel Campus 	DMR 	Hospital 
-451.55000 	KVU354 	RM		StVince-Fshr 	St. Vincent Fishers Campus 	DMR 	Hospital 
-463.70000 	KVU354 	RM		StVince-Fshr 	St. Vincent Fishers Campus 	DMR 	Hospital 
-463.85000 	KVU354 	RM		StVince-Fshr 	St. Vincent Fishers Campus 	DMR 	Hospital 
-151.71500 	WPWF639 	BM		HHSC VHF 	Hamilton Heights School Corporation 	FMN 	Schools 
-462.20000 	WPWF639 	RM		HHSC UHF 	Hamilton Heights School Corporation 	FMN 	Schools 
-452.70000 	WPYN671 	RM	CC 1TG 100SL 1	Fishers HS 	Fishers High School Ops 	DMR 	Schools 
-461.32500 	WPDU924 	RM		HSE School 1 	Hamilton Southeastern Schools 	FMN 	Schools 
-461.85000 	WPDU924 	RM		HSE School 2 	Hamilton Southeastern Schools 	FMN 	Schools 
-462.32500 	WPDU924 	RM	186.2 PL	HSE School 3 	Hamilton Southeastern Schools 	FMN 	Schools 
-463.32500 	WPDU924 	RM		HSE School 4 	Hamilton Southeastern Schools 	FMN 	Schools 
-463.40000 	WPDU924 	RM		HSE School 5 	Hamilton Southeastern Schools 	FMN 	Schools 
-464.36250 	WQIB492 	RM	CC 1TG 16776414SL 1	ITCC NBLSVL SEC 	Ivy Tech Community College Noblesville - Security 	DMR 	Security 
-466.81250 	WQFQ840 	BM		NbslcChrtSch 	School Operations 	FMN 	Schools 
-466.83750 	WQFQ840 	BM		NbslcChrtSch 	School Operations 	FMN 	Schools 
-155.17500 	WQDY357 	BM		Noble Bus 	Noblesville School Bus Operations 	FMN 	Schools 
-152.94500 	WQHJ807 	RM		Noble Schls1 	Noblesville School Operations 	FMN 	Schools 
-151.95500 	WQCZ490 	BM		Noble Schls2 	Noblesville School Operations 	FMN 	Schools 
-152.27750 	WPWC374 	BM		Noble IMS 1 	Noblesville Intermediate School 	FMN 	Schools 
-152.87000 	WPWC374 	BM		Noble IMS 2 	Noblesville Intermediate School 	FMN 	Schools 
-152.45000 	WQCL405 	BM		Noble Middle 	Noblesville Middle School 	FMN 	Schools 
-154.54000 	WQHH509 	BM		Noble Cross 	Noble Crossing Elementary School 	FMN 	Schools 
-152.36000 	WQBJ508 	RM		Stony Creek 	Stony Creek Elementary School 	FMN 	Schools 
-152.39000 	WPWG464 	BM		White River 	White River Elementary School 	FMN 	Schools 
-151.55000 	KNFH217 	M		WW School 1 	Westfield Washington School Corporation 	FMN 	Schools 
-151.58000 	KNFH217 	M		WW School 2 	Westfield Washington School Corporation 	FMN 	Schools 
-151.83500 	KNFH217 	M		WW School 3 	Westfield Washington School Corporation 	FMN 	Schools 
-151.89500 	KNFH217 	BM		WW School 4 	Westfield Washington School Corporation 	FMN 	Schools 
-151.98500 	KNFH217 	M		WW School 5 	Westfield Washington School Corporation 	FMN 	Schools 
-Cardinal Wireless LTR	 LTR Standard	 Multiple	Cardinal Wireless NEXEDGE	 NXDN NEXEDGE 9600	 Indianapolis	Duke Energy Generating Stations Indiana	 LTR Standard
- Multiple	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Indiana University Health - IU North
- DMR Motorola Capacity Plus Single Site (TRBO)	 Carmel	Indiana University Health - LTR	 LTR Standard	 Multiple	Indianapolis Department Of Public Safety	 Project 25 Phase I	 Indianapolis
-J E S and Sons	 LTR Standard	 Indianapolis	
+154.01000 	   	WQWH632 	BM	CSQ	CO FIRE TONE 	Countywide Fire Tone Out 	FMN 	Fire Dispatch 
+155.86500 	   	KSZ831 	BM		Crml Utility 	Utility Department 	FMN 	Utilities 
+453.15000 	458.75000  	WQIA462 	RM		Crml Parks 	Parks & Recreation Department (Monon Center) 	FMN 	Other 
+453.23750 	458.23750  	WPXH695 	RM		Crml Govt 	Government Services 	FMN 	Other 
+453.60000 	458.60000  	WPML424 	RM		Crml WX Srn 	Weather Alert Siren Data 	Telm 	Emergency Ops 
+453.75000 	458.75000  	KNIM261 	RM		Crml Utility 	Utility Department 	FMN 	Utilities 
+453.87500 	458.87500  	WNIF564 	RM		Crml Utility 	Utility Department 	FMN 	Utilities 
+451.22500 	455.22500  	WQOP504 	RM	CC 1TG 1000SL 1	IU SAXONY SEC 1 	Indiana University Health - Saxony *Security* (Repeater 1) 	DMR 	Security 
+461.75000 	465.75000  	WQOP504 	RM	CC 1TG 1000SL 1	IU SAXONY SEC 2 	Indiana University Health - Saxony *Security* (Repeater 2) 	DMR 	Security 
+463.25000 	467.25000  	WQOP504 	RM	CC 1TG 1000SL 1	IU SAXONY SEC 3 	Indiana University Health - Saxony *Security* (Repeater 3) 	DMR 	Security 
+451.85000 	456.85000  	WQQQ582 	RM		StFrancisOps 	St. Francis Carmel Hospital 	DMR 	Hospital 
+462.16250 	467.16250  	KVU354 	RM		StVince-Crml 	St. Vincent Carmel Campus 	DMR 	Hospital 
+463.92500 	468.92500  	KVU354 	RM		StVince-Crml 	St. Vincent Carmel Campus 	DMR 	Hospital 
+464.35000 	469.35000  	KVU354 	RM		StVince-Crml 	St. Vincent Carmel Campus 	DMR 	Hospital 
+451.55000 	456.55000  	KVU354 	RM		StVince-Fshr 	St. Vincent Fishers Campus 	DMR 	Hospital 
+463.70000 	468.70000  	KVU354 	RM		StVince-Fshr 	St. Vincent Fishers Campus 	DMR 	Hospital 
+463.85000 	468.85000  	KVU354 	RM		StVince-Fshr 	St. Vincent Fishers Campus 	DMR 	Hospital 
+151.71500 	   	WPWF639 	BM		HHSC VHF 	Hamilton Heights School Corporation 	FMN 	Schools 
+462.20000 	467.20000  	WPWF639 	RM		HHSC UHF 	Hamilton Heights School Corporation 	FMN 	Schools 
+452.70000 	457.70000  	WPYN671 	RM	CC 1TG 100SL 1	Fishers HS 	Fishers High School Ops 	DMR 	Schools 
+461.32500 	466.32500  	WPDU924 	RM		HSE School 1 	Hamilton Southeastern Schools 	FMN 	Schools 
+461.85000 	466.85000  	WPDU924 	RM		HSE School 2 	Hamilton Southeastern Schools 	FMN 	Schools 
+462.32500 	467.32500  	WPDU924 	RM	186.2 PL	HSE School 3 	Hamilton Southeastern Schools 	FMN 	Schools 
+463.32500 	468.32500  	WPDU924 	RM		HSE School 4 	Hamilton Southeastern Schools 	FMN 	Schools 
+463.40000 	468.40000  	WPDU924 	RM		HSE School 5 	Hamilton Southeastern Schools 	FMN 	Schools 
+464.36250 	469.36250  	WQIB492 	RM	CC 1TG 16776414SL 1	ITCC NBLSVL SEC 	Ivy Tech Community College Noblesville - Security 	DMR 	Security 
+466.81250 	   	WQFQ840 	BM		NbslcChrtSch 	School Operations 	FMN 	Schools 
+466.83750 	   	WQFQ840 	BM		NbslcChrtSch 	School Operations 	FMN 	Schools 
+155.17500 	   	WQDY357 	BM		Noble Bus 	Noblesville School Bus Operations 	FMN 	Schools 
+152.94500 	159.93000  	WQHJ807 	RM		Noble Schls1 	Noblesville School Operations 	FMN 	Schools 
+151.95500 	   	WQCZ490 	BM		Noble Schls2 	Noblesville School Operations 	FMN 	Schools 
+152.27750 	   	WPWC374 	BM		Noble IMS 1 	Noblesville Intermediate School 	FMN 	Schools 
+152.87000 	   	WPWC374 	BM		Noble IMS 2 	Noblesville Intermediate School 	FMN 	Schools 
+152.45000 	   	WQCL405 	BM		Noble Middle 	Noblesville Middle School 	FMN 	Schools 
+154.54000 	   	WQHH509 	BM		Noble Cross 	Noble Crossing Elementary School 	FMN 	Schools 
+152.36000 	157.62000  	WQBJ508 	RM		Stony Creek 	Stony Creek Elementary School 	FMN 	Schools 
+152.39000 	   	WPWG464 	BM		White River 	White River Elementary School 	FMN 	Schools 
+151.55000 	   	KNFH217 	M		WW School 1 	Westfield Washington School Corporation 	FMN 	Schools 
+151.58000 	   	KNFH217 	M		WW School 2 	Westfield Washington School Corporation 	FMN 	Schools 
+151.83500 	   	KNFH217 	M		WW School 3 	Westfield Washington School Corporation 	FMN 	Schools 
+151.89500 	   	KNFH217 	BM		WW School 4 	Westfield Washington School Corporation 	FMN 	Schools 
+151.98500 	   	KNFH217 	M		WW School 5 	Westfield Washington School Corporation 	FMN 	Schools 
+Cardinal Wireless LTR	 LTR Standard	 Multiple	Cardinal Wireless NEXEDGE	 NXDN NEXEDGE 9600	 Indianapolis	Duke Energy Generating Stations Indiana	 LTR Standard	 Multiple
+ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana University Health - IU North	 DMR Motorola Capacity Plus Single Site (TRBO)	 Carmel	Indiana University Health - LTR	 LTR Standard	 Multiple
+Indianapolis Department Of Public Safety	 Project 25 Phase I	 Indianapolis	J E S and Sons	 LTR Standard	 Indianapolis	

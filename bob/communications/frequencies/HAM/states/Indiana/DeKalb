@@ -1,59 +1,59 @@
-155.49000 	KTY602 	RM	162.2 PL	DekalbShrfDp 	Sheriff - Dispatch 	FM 	Law Dispatch 
-460.60000 	KTY602 	BM		DekalbShfTc 	Sheriff - Tactical 	FM 	Law Tac 
-460.15000 	KTY602 	BM	114.8 PL	DekalbShrfJl 	Sheriff - Jail 	FM 	Corrections 
-460.40000 	KTY602 	RM	100.0 PL	Dekalb Jail 	County Jail 	FM 	Corrections 
-154.35500 	KNET483 	BM	77.0 PL	DeKalbFireDp 	Fire Dispatch 	FM 	Fire Dispatch 
-154.40000 	WPLS913 	M	77.0 PL	DeKalbFiregr 	Fireground 	FM 	Fire-Tac 
-154.43000 	KNET483 	BM	77.0 PL	DeKalbFireOp 	Fire - Ops with Steuben County 	FM 	Fire-Tac 
-154.22000 	KNET483 	BM	118.8 PL	DeKalbFireOp 	Fire Ops with Noble County 	FM 	Fire-Tac 
-155.28000 	 			EMS C2C 	EMS Car to Car/Ch 2 	FM 	EMS-Talk 
-158.77500 	KBL753 	BM		DeKalbEMA 	EMA 	FM 	Emergency Ops 
-151.10000 	WPDQ976 	BM	179.9 PL	DeKalbHwy 	Highway Dept. 	FM 	Public Works 
-154.96500 	KRG775 	RM		DeKalbGvrn 	County Government 	FM 	Other 
-155.40000 	WNQA202 	BM	82.5 PL	DMHEmsDisp 	EMS- Dispatch 	FMN 	EMS Dispatch 
-155.20500 	WNQA202 	BM	192.8 PL	PrkViewAirMd 	Parkview Samaritan Helicopter 	FMN 	Hospital 
-152.40500 	WQAQ300 	RM		DMHMaint 	Maintenance 	DMR 	Hospital 
-154.51500 	WPMM488 	BM	82.5 PL	DMHPaging 	Paging 	FMN 	Hospital 
-463.00000 	KYN234 	BM		ALS MED 1 	ALS-to-Hospital 	FMN 	Hospital 
-463.02500 	KYN234 	BM		ALS MED 2 	ALS-to-Hospital 	FMN 	Hospital 
-463.05000 	KYN234 	BM		ALS MED 3 	ALS-to-Hospital 	FMN 	Hospital 
-463.07500 	KYN234 	BM		ALS MED 4 	ALS-to-Hospital 	FMN 	Hospital 
-463.10000 	KYN234 	BM		ALS MED 5 	ALS-to-Hospital 	FMN 	Hospital 
-463.12500 	KYN234 	BM		ALS MED 6 	ALS-to-Hospital 	FMN 	Hospital 
-463.15000 	KYN234 	BM		ALS MED 7 	ALS-to-Hospital 	FMN 	Hospital 
-463.17500 	KYN234 	BM		ALS MED 8 	ALS-to-Hospital 	FMN 	Hospital 
-155.08500 	KNFS848 	BM		AshleyDPW/PD 	DPW/Police 	FM 	Multi-Tac 
-153.78500 	WNFE688 	M		APDDISP 	Police 	FM 	Law Dispatch 
-154.11500 	WPPW618 	RM	173.8 PL	AFDFireDisp 	Fire - Primary Dispatch 	FM 	Fire Dispatch 
-153.83000 	KVU466 	M		AFDFireGrnd 	Fire - Fireground 	FM 	Fire-Tac 
-158.82000 	KSH854 	BM	103.5 PL	AuburnDpw 	DPW 	FM 	Public Works 
-158.26500 	KWE820 	BM		AuburnElect 	Electric Dept 	FM 	Public Works 
-154.98000 	KFW931 	BM		ButlerDpw/PD 	DPW/Police 	FM 	Multi-Tac 
-155.77500 	WNNY572 	BM		CorunnaDpwFr 	DPW/Fire 	FM 	Multi-Tac 
-159.21750 	 	RM	712 DPL	GPDDisp 	Police 	FM 	Law Dispatch 
-154.04000 	KAQ263 	BM		GarrettDpwFr 	DPW/Fire 	FM 	Multi-Tac 
-151.15250 	WQKK276 	RM		GFD Talk 	Fire Talk-around 	FMN 	Fire-Talk 
-155.43000 	WPZB200 	M		WPDDisp 	Police 	FM 	Law Dispatch 
-155.88000 	WPAE780 	BM		WPDSecond 	Police - Secondary 	FM 	Law Tac 
-155.77500 	KJN795 	BM		WFDSecond 	Fire - Secondary 	FM 	Fire-Tac 
-155.88000 	KJN795 	BM		WaterlooDpw 	DPW 	FM 	Public Works 
-461.52500 	 	RM	71.9 PL	TRANSIT 	DeKalb County Rural Transit Authority 	FM 	Transportation 
-461.37500 	KLN323 	RM	CC 5TG *SL 1	DCCUSD DMR 	DeKalb County Central United School District 	DMR 	Schools 
-461.37500 	KLN323 	RM	97.4 PL	DCCUSD BUS-R 	DeKalb Central Bus Rptr 	FMN 	Schools 
-461.37500 	KLN323 	BM	97.4 PL	DCCUSD BUS-D 	DeKalb Central Bus Direct 	FMN 	Schools 
-464.42500 	KLN323 	BM	054 DPL	DCCUSD HS-R 	DeKalb Central High Rptr 	FMN 	Schools 
-464.42500 	KLN323 	BM	054 DPL	DCCUSD HS-D 	DeKalb Central High Direct 	FMN 	Schools 
-451.48750 	KLN323 	BM	143 DPL	DCCUSD HS 	DeKalb Central High Private 	FMN 	Schools 
-451.36250 	KLN323 	BM	152 DPL	DCCUSD MS 	DeKalb Central Middle School 	FMN 	Schools 
-451.56250 	KLN323 	BM	245 DPL	DCCUSD TECH 	DeKalb Central Tech Dept 	FMN 	Schools 
-451.58750 	KLN323 	BM	174 DPL	DCCUSD JRWES 	James R Watson Elementary 	FMN 	Schools 
-451.66250 	KLN323 	BM	226 DPL	DCCUSD M-HES 	McKenney-Harrison Elementary 	FMN 	Schools 
-452.11250 	KLN323 	BM	155 DPL	DCCUSD CMES 	Country Meadow Elementary 	FMN 	Schools 
-452.86250 	KLN323 	BM	205 DPL	DCCUSD WES 	Waterloo Elementary 	FMN 	Schools 
-451.78750 	WQAP247 	RM		DCECSD UHF 	DeKalb Eastern Bus Rptr 	FMN 	Schools 
-856.26250 	WPLU652 	RM		DCECSD 800 	DeKalb Eastern 800 	FMN 	Schools 
-152.43500 	WPQA843 	RM	118.8 PL	GKBCSD MAIN 	G-K-B Office Repeater 	FMN 	Schools 
-153.21500 	WPQA843 	RM	79.7 PL	GKBCSD BUS 	G-K-B Bus Repeater 	FMN 	Schools 
-155.17500 	KNCJ392 	BM		GKBCSD 	G-K-B Schools 	FMN 	Schools 
-American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I
- Statewide	Mobile Radio Cooperative	 DMR Motorola Capacity Plus Single Site (TRBO)	 Auburn	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	
+155.49000 	154.95000  	KTY602 	RM	162.2 PL	DekalbShrfDp 	Sheriff - Dispatch 	FM 	Law Dispatch 
+460.60000 	465.60000  	KTY602 	BM		DekalbShfTc 	Sheriff - Tactical 	FM 	Law Tac 
+460.15000 	465.15000  	KTY602 	BM	114.8 PL	DekalbShrfJl 	Sheriff - Jail 	FM 	Corrections 
+460.40000 	465.40000  	KTY602 	RM	100.0 PL	Dekalb Jail 	County Jail 	FM 	Corrections 
+154.35500 	   	KNET483 	BM	77.0 PL	DeKalbFireDp 	Fire Dispatch 	FM 	Fire Dispatch 
+154.40000 	   	WPLS913 	M	77.0 PL	DeKalbFiregr 	Fireground 	FM 	Fire-Tac 
+154.43000 	   	KNET483 	BM	77.0 PL	DeKalbFireOp 	Fire - Ops with Steuben County 	FM 	Fire-Tac 
+154.22000 	   	KNET483 	BM	118.8 PL	DeKalbFireOp 	Fire Ops with Noble County 	FM 	Fire-Tac 
+155.28000 	   	 			EMS C2C 	EMS Car to Car/Ch 2 	FM 	EMS-Talk 
+158.77500 	   	KBL753 	BM		DeKalbEMA 	EMA 	FM 	Emergency Ops 
+151.10000 	156.12000  	WPDQ976 	BM	179.9 PL	DeKalbHwy 	Highway Dept. 	FM 	Public Works 
+154.96500 	158.95500  	KRG775 	RM		DeKalbGvrn 	County Government 	FM 	Other 
+155.40000 	   	WNQA202 	BM	82.5 PL	DMHEmsDisp 	EMS- Dispatch 	FMN 	EMS Dispatch 
+155.20500 	   	WNQA202 	BM	192.8 PL	PrkViewAirMd 	Parkview Samaritan Helicopter 	FMN 	Hospital 
+152.40500 	   	WQAQ300 	RM		DMHMaint 	Maintenance 	DMR 	Hospital 
+154.51500 	   	WPMM488 	BM	82.5 PL	DMHPaging 	Paging 	FMN 	Hospital 
+463.00000 	468.00000  	KYN234 	BM		ALS MED 1 	ALS-to-Hospital 	FMN 	Hospital 
+463.02500 	468.02500  	KYN234 	BM		ALS MED 2 	ALS-to-Hospital 	FMN 	Hospital 
+463.05000 	468.05000  	KYN234 	BM		ALS MED 3 	ALS-to-Hospital 	FMN 	Hospital 
+463.07500 	468.07500  	KYN234 	BM		ALS MED 4 	ALS-to-Hospital 	FMN 	Hospital 
+463.10000 	468.10000  	KYN234 	BM		ALS MED 5 	ALS-to-Hospital 	FMN 	Hospital 
+463.12500 	468.12500  	KYN234 	BM		ALS MED 6 	ALS-to-Hospital 	FMN 	Hospital 
+463.15000 	468.15000  	KYN234 	BM		ALS MED 7 	ALS-to-Hospital 	FMN 	Hospital 
+463.17500 	468.17500  	KYN234 	BM		ALS MED 8 	ALS-to-Hospital 	FMN 	Hospital 
+155.08500 	   	KNFS848 	BM		AshleyDPW/PD 	DPW/Police 	FM 	Multi-Tac 
+153.78500 	   	WNFE688 	M		APDDISP 	Police 	FM 	Law Dispatch 
+154.11500 	158.89500  	WPPW618 	RM	173.8 PL	AFDFireDisp 	Fire - Primary Dispatch 	FM 	Fire Dispatch 
+153.83000 	   	KVU466 	M		AFDFireGrnd 	Fire - Fireground 	FM 	Fire-Tac 
+158.82000 	153.93500  	KSH854 	BM	103.5 PL	AuburnDpw 	DPW 	FM 	Public Works 
+158.26500 	   	KWE820 	BM		AuburnElect 	Electric Dept 	FM 	Public Works 
+154.98000 	   	KFW931 	BM		ButlerDpw/PD 	DPW/Police 	FM 	Multi-Tac 
+155.77500 	   	WNNY572 	BM		CorunnaDpwFr 	DPW/Fire 	FM 	Multi-Tac 
+159.21750 	153.86750  	 	RM	712 DPL	GPDDisp 	Police 	FM 	Law Dispatch 
+154.04000 	   	KAQ263 	BM		GarrettDpwFr 	DPW/Fire 	FM 	Multi-Tac 
+151.15250 	156.14250  	WQKK276 	RM		GFD Talk 	Fire Talk-around 	FMN 	Fire-Talk 
+155.43000 	   	WPZB200 	M		WPDDisp 	Police 	FM 	Law Dispatch 
+155.88000 	   	WPAE780 	BM		WPDSecond 	Police - Secondary 	FM 	Law Tac 
+155.77500 	   	KJN795 	BM		WFDSecond 	Fire - Secondary 	FM 	Fire-Tac 
+155.88000 	153.98000  	KJN795 	BM		WaterlooDpw 	DPW 	FM 	Public Works 
+461.52500 	466.52500  	 	RM	71.9 PL	TRANSIT 	DeKalb County Rural Transit Authority 	FM 	Transportation 
+461.37500 	466.37500  	KLN323 	RM	CC 5TG *SL 1	DCCUSD DMR 	DeKalb County Central United School District 	DMR 	Schools 
+461.37500 	466.37500  	KLN323 	RM	97.4 PL	DCCUSD BUS-R 	DeKalb Central Bus Rptr 	FMN 	Schools 
+461.37500 	   	KLN323 	BM	97.4 PL	DCCUSD BUS-D 	DeKalb Central Bus Direct 	FMN 	Schools 
+464.42500 	469.42500  	KLN323 	BM	054 DPL	DCCUSD HS-R 	DeKalb Central High Rptr 	FMN 	Schools 
+464.42500 	   	KLN323 	BM	054 DPL	DCCUSD HS-D 	DeKalb Central High Direct 	FMN 	Schools 
+451.48750 	   	KLN323 	BM	143 DPL	DCCUSD HS 	DeKalb Central High Private 	FMN 	Schools 
+451.36250 	   	KLN323 	BM	152 DPL	DCCUSD MS 	DeKalb Central Middle School 	FMN 	Schools 
+451.56250 	   	KLN323 	BM	245 DPL	DCCUSD TECH 	DeKalb Central Tech Dept 	FMN 	Schools 
+451.58750 	   	KLN323 	BM	174 DPL	DCCUSD JRWES 	James R Watson Elementary 	FMN 	Schools 
+451.66250 	   	KLN323 	BM	226 DPL	DCCUSD M-HES 	McKenney-Harrison Elementary 	FMN 	Schools 
+452.11250 	   	KLN323 	BM	155 DPL	DCCUSD CMES 	Country Meadow Elementary 	FMN 	Schools 
+452.86250 	   	KLN323 	BM	205 DPL	DCCUSD WES 	Waterloo Elementary 	FMN 	Schools 
+451.78750 	456.78750  	WQAP247 	RM		DCECSD UHF 	DeKalb Eastern Bus Rptr 	FMN 	Schools 
+856.26250 	811.26250  	WPLU652 	RM		DCECSD 800 	DeKalb Eastern 800 	FMN 	Schools 
+152.43500 	157.69500  	WPQA843 	RM	118.8 PL	GKBCSD MAIN 	G-K-B Office Repeater 	FMN 	Schools 
+153.21500 	159.96000  	WPQA843 	RM	79.7 PL	GKBCSD BUS 	G-K-B Bus Repeater 	FMN 	Schools 
+155.17500 	   	KNCJ392 	BM		GKBCSD 	G-K-B Schools 	FMN 	Schools 
+American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Mobile Radio Cooperative	 DMR Motorola Capacity Plus Single Site (TRBO)	 Auburn
+Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	

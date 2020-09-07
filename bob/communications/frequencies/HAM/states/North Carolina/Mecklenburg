@@ -1,26 +1,24 @@
-156.16500 	KNDS587 	B		MEC-DISP 	County Fire & EMS Dispatch / Simulcast of 800 MHz 	FM 	Fire Dispatch 
-154.28000 	KNDS587 	BM	91.5 PL	STATE FD 	State Fire 	FM 	Fire-Talk 
-155.28000 	KCE604 	BM	91.5 PL	STATEEMS 	State Rescue (Out-of-county ambulances to dispatch) 	FM 	Hospital 
-155.34000 	KCE604 	BM	91.5 PL	EMSHOSP 	EMS to Hospital (Out-of-county ambulance patch to hospital talkgroups) 	FM 	Hospital 
-155.32500 	WNJR403 	BM	91.5 PL	MEDCTR-AIR 	Carolina Medical Center Flight Service 	FM 	EMS Dispatch 
-462.92500 	WNZM471 	B	CSQ	CMC-PAGER 	Alpha Pagers (EMS/County Fire/Hospital, 512 bps POCSAG) 	FM 	Data 
-770.96250 	 	RM	760 NAC	MecklenbgFD DVRS 	Fire DVRS 	P25 	Fire-Tac 
-852.51250 	WPEN288 	M	156.7 PL	MECK-FD-TA 	Mecklenburg County Fire Talk Around 	FM 	Fire-Tac 
-770.96250 	 	RM	760 NAC	DVRS Mecklenburg 	Digital Vehicular Repeater System 	P25 	Interop 
-464.46250 	WQCD721 	M	107.2 PL	1 	Campus Security/Principals 	FM 	Security 
-469.01250 	WQCD721 	M	107.2 PL	2 	Campus Security/Principals 	FM 	Security 
-463.68750 	WQCD721 	M	107.2 PL	3 	Campus Security/Principals 	FM 	Security 
-451.90000 	WQYT791 	RM	192.8 PL	PalisadesPark ES 	Palisades Park Elementary School 	FMN 	Schools 
-461.93750 	 	RM	218.1 PL	Southwest MS 	Southwest Middle School 	FMN 	Schools 
-463.81250 	WQOH939 	RM		EE Waddell HS 	EE Waddell High School 	FMN 	Schools 
-858.78750 	WPBP302 	RM	054 DPL	PPD-BKUP 	Pineville Police Backup 	FM 	Law Dispatch 
-American Airlines (Nationwide)	 DMR Motorola Connect Plus (TRBO)	 Various	Ballantyne Resort	 LTR Standard	 Charlotte	Bank of America Stadium (NEXEDGE)	 NXDN NEXEDGE 4800
- Charlotte	Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Charleston Wireless Group/James White	 DMR Motorola Connect Plus (TRBO)	 Various	Charlotte Pipe and Foundry Company (DMR) 1
- DMR Motorola Capacity Plus Single Site (TRBO)	 Charlotte	Charlotte UASI	 Project 25 Phase I	 Charlotte	Charlotte/Douglas International Airport	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charlotte
-Delta Airlines	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charlotte	Duke Energy - Charlotte	 OpenSky 4800 baud	 Charlotte	Duke Energy Business Services	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Charlotte	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Lance Foods
- DMR Motorola Capacity Plus Single Site (TRBO)	 Charlotte	NC Blumenthal Performing Arts Center	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte	North Carolina VIPER	 Project 25 Phase I	 Varies
-Northlake Mall	 DMR Tier 3	 Charlotte	Novant Health	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte	One Bank of America Center / Ritz-Carlton	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Charlotte	Pineville	 Project 25 Phase II	 Pineville	Two-Way Radio of Carolina (Uptown)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte	Union Power Co-op
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Monroe	University of North Carolina at Charlotte	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte	Wells Fargo (Childress Klein)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte
-Westin Charlotte Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charlotte	
+156.16500 	   	KNDS587 	B		MEC-DISP 	County Fire & EMS Dispatch / Simulcast of 800 MHz 	FM 	Fire Dispatch 
+154.28000 	   	KNDS587 	BM	91.5 PL	STATE FD 	State Fire 	FM 	Fire-Talk 
+155.28000 	   	KCE604 	BM	91.5 PL	STATEEMS 	State Rescue (Out-of-county ambulances to dispatch) 	FM 	Hospital 
+155.34000 	   	KCE604 	BM	91.5 PL	EMSHOSP 	EMS to Hospital (Out-of-county ambulance patch to hospital talkgroups) 	FM 	Hospital 
+155.32500 	   	WNJR403 	BM	91.5 PL	MEDCTR-AIR 	Carolina Medical Center Flight Service 	FM 	EMS Dispatch 
+462.92500 	   	WNZM471 	B	CSQ	CMC-PAGER 	Alpha Pagers (EMS/County Fire/Hospital, 512 bps POCSAG) 	FM 	Data 
+770.96250 	800.96250  	 	RM	760 NAC	MecklenbgFD DVRS 	Fire DVRS 	P25 	Fire-Tac 
+852.51250 	   	WPEN288 	M	156.7 PL	MECK-FD-TA 	Mecklenburg County Fire Talk Around 	FM 	Fire-Tac 
+770.96250 	800.96250  	 	RM	760 NAC	DVRS Mecklenburg 	Digital Vehicular Repeater System 	P25 	Interop 
+464.46250 	   	WQCD721 	M	107.2 PL	1 	Campus Security/Principals 	FM 	Security 
+469.01250 	   	WQCD721 	M	107.2 PL	2 	Campus Security/Principals 	FM 	Security 
+463.68750 	   	WQCD721 	M	107.2 PL	3 	Campus Security/Principals 	FM 	Security 
+451.90000 	456.90000  	WQYT791 	RM	192.8 PL	PalisadesPark ES 	Palisades Park Elementary School 	FMN 	Schools 
+461.93750 	466.93750  	 	RM	218.1 PL	Southwest MS 	Southwest Middle School 	FMN 	Schools 
+463.81250 	468.81250  	WQOH939 	RM		EE Waddell HS 	EE Waddell High School 	FMN 	Schools 
+858.78750 	813.78750  	WPBP302 	RM	054 DPL	PPD-BKUP 	Pineville Police Backup 	FM 	Law Dispatch 
+American Airlines (Nationwide)	 DMR Motorola Connect Plus (TRBO)	 Various	Ballantyne Resort	 LTR Standard	 Charlotte	Bank of America Stadium (NEXEDGE)	 NXDN NEXEDGE 4800	 Charlotte
+Carolina Connect	 DMR Motorola Connect Plus (TRBO)	 Charlotte	Charleston Wireless Group/James White	 DMR Motorola Connect Plus (TRBO)	 Various	Charlotte Pipe and Foundry Company (DMR) 1	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charlotte
+Charlotte UASI	 Project 25 Phase I	 Charlotte	Charlotte/Douglas International Airport	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charlotte	Delta Airlines	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charlotte
+Duke Energy - Charlotte	 OpenSky 4800 baud	 Charlotte	Duke Energy Business Services	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte	EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville
+FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Lance Foods	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charlotte	NC Blumenthal Performing Arts Center	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte
+Northlake Mall	 DMR Tier 3	 Charlotte	Novant Health	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte	One Bank of America Center / Ritz-Carlton	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte
+Pineville	 Project 25 Phase II	 Pineville	Two-Way Radio of Carolina (Uptown)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte	Union Power Co-op	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Monroe
+University of North Carolina at Charlotte	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte	Wells Fargo (Childress Klein)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Charlotte	Westin Charlotte Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Charlotte

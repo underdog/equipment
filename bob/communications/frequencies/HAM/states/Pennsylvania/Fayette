@@ -1,20 +1,19 @@
-155.19000 	KXM725 	BM	CSQ	FC Fire Disp 	Fire Dispatch 	FM 	Fire Dispatch 
-155.29500 	KNFW746 	BM	CSQ	FC EMS Disp 	EMS Dispatch 	FM 	EMS Dispatch 
-154.30250 	KGF400 	BM	186.2 PL	Brownsville Fire 	Brownsville VFD (Linked to 155.190) 	FMN 	Fire Dispatch 
-453.52500 	 	RM	127.3 PL	EMA Analog 	Fayette EMA Analog 	FMN 	Emergency Ops 
-453.52500 	 	RM	4A4 NAC	EMA Digital 	Fayette EMA Digital 	P25 	Emergency Ops 
-464.28750 	WQTK443 	RM	131.8 PL	Smithfield F 	Smithfield VFD 	FMN 	Fire-Talk 
-851.51250 	 	M	CSQ	EMS T/A 	EMS T/A 	FM 	EMS-Tac 
-852.01250 	 	M	CSQ	FIRE T/A 	FIRE T/A 	FM 	Fire-Tac 
-155.01000 	KXM725 	BM		FC PS Introp 	Public Safety Interop 	FM 	Multi-Tac 
-855.28750 	WQJD505  	RM	245 DPL	Utown Hsp PD 	Hospital Police Dispatch 	FMN 	Law Dispatch 
-851.01250 	 	M	CSQ	POLICE T/A 	POLICE T/A 	FM 	Law Tac 
-154.12250 	WQRK833 	BM	205 DPL	Bullskin DPW 	Bullskin Township Road Dept 	FMN 	Public Works 
-852.51250 	 	M		Pub Wrks TA 	Public Works/EMA T/A 	FM 	Public Works 
-857.96250 	WQVE381 	RM	127.3 PL	Masontwn PW 	Masontown Public Works 	FM 	Public Works 
-461.57500 	WNNO416 	RM	CC 6TG 1751SL 2	LHSD Buses 	Laurel Highlands School District Buses 	DMR 	Schools 
-464.73750 	WNKJ565 	RM	CC 5TG 1SL 1	AGSD Buses 	Albert Gallatin School District Buses 	DMR 	Schools 
-463.20000 	WPMH721 	RM	223 DPL	FStdnt Smith 	Smithfield Base 	FM 	Transportation 
-Church Communities Foundation	 NXDN Icom IDAS Type C	 Various	ICORRS (Inter County Regional Radio System)	 Project 25 Phase II	 Multiple	Nemacolin Woodlands Resort	 DMR Motorola Capacity Plus Single Site (TRBO)
- Farmington	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	TRIconneX Connect Plus (WV-PA-OH)
- DMR Motorola Connect Plus (TRBO)	 WV-PA-OH	
+155.19000 	   	KXM725 	BM	CSQ	FC Fire Disp 	Fire Dispatch 	FM 	Fire Dispatch 
+155.29500 	   	KNFW746 	BM	CSQ	FC EMS Disp 	EMS Dispatch 	FM 	EMS Dispatch 
+154.30250 	   	KGF400 	BM	186.2 PL	Brownsville Fire 	Brownsville VFD (Linked to 155.190) 	FMN 	Fire Dispatch 
+453.52500 	458.52500  	 	RM	127.3 PL	EMA Analog 	Fayette EMA Analog 	FMN 	Emergency Ops 
+453.52500 	458.52500  	 	RM	4A4 NAC	EMA Digital 	Fayette EMA Digital 	P25 	Emergency Ops 
+464.28750 	469.28750  	WQTK443 	RM	131.8 PL	Smithfield F 	Smithfield VFD 	FMN 	Fire-Talk 
+851.51250 	   	 	M	CSQ	EMS T/A 	EMS T/A 	FM 	EMS-Tac 
+852.01250 	   	 	M	CSQ	FIRE T/A 	FIRE T/A 	FM 	Fire-Tac 
+155.01000 	   	KXM725 	BM		FC PS Introp 	Public Safety Interop 	FM 	Multi-Tac 
+855.28750 	   	WQJD505  	RM	245 DPL	Utown Hsp PD 	Hospital Police Dispatch 	FMN 	Law Dispatch 
+851.01250 	   	 	M	CSQ	POLICE T/A 	POLICE T/A 	FM 	Law Tac 
+154.12250 	   	WQRK833 	BM	205 DPL	Bullskin DPW 	Bullskin Township Road Dept 	FMN 	Public Works 
+852.51250 	   	 	M		Pub Wrks TA 	Public Works/EMA T/A 	FM 	Public Works 
+857.96250 	812.96250  	WQVE381 	RM	127.3 PL	Masontwn PW 	Masontown Public Works 	FM 	Public Works 
+461.57500 	466.57500  	WNNO416 	RM	CC 6TG 1751SL 2	LHSD Buses 	Laurel Highlands School District Buses 	DMR 	Schools 
+464.73750 	469.73750  	WNKJ565 	RM	CC 5TG 1SL 1	AGSD Buses 	Albert Gallatin School District Buses 	DMR 	Schools 
+463.20000 	468.20000  	WPMH721 	RM	223 DPL	FStdnt Smith 	Smithfield Base 	FM 	Transportation 
+Church Communities Foundation	 NXDN Icom IDAS Type C	 Various	ICORRS (Inter County Regional Radio System)	 Project 25 Phase II	 Multiple	Nemacolin Woodlands Resort	 DMR Motorola Capacity Plus Single Site (TRBO)	 Farmington
+Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH

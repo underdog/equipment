@@ -1,24 +1,23 @@
-154.35500 	KGL629 	RM	179.9 PL	Rpds Fire N 	Rapides Parish Fire Net - North Repeater 	FMN 	Fire Dispatch 
-155.92500 	KNDN596 	RM	179.9 PL	Rpds Fire S 	Rapides Parish Fire Net - South Repeater 	FMN 	Fire Dispatch 
-154.17500 	KYG599 	RM	179.9 PL	Rapides FD 3 	Rapides Parish Fire District 3 (Alpine VFD, Pineville area)) 	FMN 	Fire Dispatch 
-154.14500 	WQDN930 	RM	155 DPL	Rapides FD 5 	Rapides Parish Fire District 5 Dispatch 	FMN 	Fire Dispatch 
-155.89500 	WQKG321 	BM	306 DPL	Rapides FD 6 	Rapides Parish Fire District 6 (DeVille) 	FMN 	Fire-Tac 
-154.25000 	WQEW739 	RM	192.8 PL	Rapides FD10 	Rapides Parish Fire District 10 (Plainview) 	FMN 	Fire Dispatch 
-154.78500 	WQGS608 	RM	143 DPL	Rapides FD14 	Rapides Parish Fire District 14 (Flatwoods) 	FMN 	Fire Dispatch 
-155.35500 	WPPE548 	RM	136.5 PL	MedExpressAm 	Med Express Ambulance 	FMN 	EMS Dispatch 
-158.82750 	WQFQ278 	RM	423 DPL	Rapides OEP 	Office of Emergency Preparedness 	FMN 	Emergency Ops 
-855.48750 	WPQH926 	RM		Rpds PS TA 1 	Rapides Parish Public Safety Talkaround 	FM 	Multi-Talk 
-856.48750 	WPQH926 	RM		Rpds PS TA 2 	Rapides Parish Public Safety Talkaround 	FM 	Multi-Talk 
-858.48750 	WPQH926 	RM		Rpds PS TA 3 	Rapides Parish Public Safety Talkaround 	FM 	Multi-Talk 
-859.48750 	WPQH926 	RM		Rpds PS TA 4 	Rapides Parish Public Safety Talkaround 	FM 	Multi-Talk 
-159.15000 	WPPB394 	RM	123.0 PL	Rpds SO Back 	Rapides Parish Sheriff Backup VHF (Still Active) 	FMN 	Law Tac 
-151.16000 	WQIV202 	RM		AlexandriZoo 	Alexandria Zoological Park 	FMN 	Public Works 
-453.10000 	WQWL440 	RM	CC 2TG 1200SL 1	Alex PwrPlnt 	Power Plant 	DMR 	Utilities 
-855.23750 	WNWN859 	RM		APD-TA 	Police Talkaround 	FM 	Law Talk 
-855.73750 	KNNP954 	RM		ACS-TA 	City Services Talkaround 	FM 	Public Works 
-856.26250 	KNNV841 	RM		ACS-TA-2 	City Services Talkaround Secondary 	FM 	Public Works 
-155.86500 	WPYG714 	RM	346 DPL	BALL DPW 	City Services (Administration  	FMN 	Public Works 
-451.61250 	WQUN693 	RM	162 DPL	Northwood HS Ops 	Northwood High School 	FMN 	Schools 
-CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	CLECO Power (P25)	 Project 25 Phase II	 Pineville	Entergy 	 Project 25 Phase II
- Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	Procter & Gamble Manufacturing Plant Pineville	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pineville	Rapides Parish Communications Agency (Motorola)
- Motorola Type II SmartZone	 Alexandria	Rapides Parish Communications Agency (P25)	 Project 25 Phase II	 Alexandria	
+154.35500 	153.77000  	KGL629 	RM	179.9 PL	Rpds Fire N 	Rapides Parish Fire Net - North Repeater 	FMN 	Fire Dispatch 
+155.92500 	153.75500  	KNDN596 	RM	179.9 PL	Rpds Fire S 	Rapides Parish Fire Net - South Repeater 	FMN 	Fire Dispatch 
+154.17500 	159.25500  	KYG599 	RM	179.9 PL	Rapides FD 3 	Rapides Parish Fire District 3 (Alpine VFD, Pineville area)) 	FMN 	Fire Dispatch 
+154.14500 	159.06000  	WQDN930 	RM	155 DPL	Rapides FD 5 	Rapides Parish Fire District 5 Dispatch 	FMN 	Fire Dispatch 
+155.89500 	   	WQKG321 	BM	306 DPL	Rapides FD 6 	Rapides Parish Fire District 6 (DeVille) 	FMN 	Fire-Tac 
+154.25000 	158.92500  	WQEW739 	RM	192.8 PL	Rapides FD10 	Rapides Parish Fire District 10 (Plainview) 	FMN 	Fire Dispatch 
+154.78500 	159.09000  	WQGS608 	RM	143 DPL	Rapides FD14 	Rapides Parish Fire District 14 (Flatwoods) 	FMN 	Fire Dispatch 
+155.35500 	153.80000  	WPPE548 	RM	136.5 PL	MedExpressAm 	Med Express Ambulance 	FMN 	EMS Dispatch 
+158.82750 	154.89750  	WQFQ278 	RM	423 DPL	Rapides OEP 	Office of Emergency Preparedness 	FMN 	Emergency Ops 
+855.48750 	810.48750  	WPQH926 	RM		Rpds PS TA 1 	Rapides Parish Public Safety Talkaround 	FM 	Multi-Talk 
+856.48750 	811.48750  	WPQH926 	RM		Rpds PS TA 2 	Rapides Parish Public Safety Talkaround 	FM 	Multi-Talk 
+858.48750 	813.48750  	WPQH926 	RM		Rpds PS TA 3 	Rapides Parish Public Safety Talkaround 	FM 	Multi-Talk 
+859.48750 	814.48750  	WPQH926 	RM		Rpds PS TA 4 	Rapides Parish Public Safety Talkaround 	FM 	Multi-Talk 
+159.15000 	155.97000  	WPPB394 	RM	123.0 PL	Rpds SO Back 	Rapides Parish Sheriff Backup VHF (Still Active) 	FMN 	Law Tac 
+151.16000 	   	WQIV202 	RM		AlexandriZoo 	Alexandria Zoological Park 	FMN 	Public Works 
+453.10000 	458.10000  	WQWL440 	RM	CC 2TG 1200SL 1	Alex PwrPlnt 	Power Plant 	DMR 	Utilities 
+855.23750 	810.23750  	WNWN859 	RM		APD-TA 	Police Talkaround 	FM 	Law Talk 
+855.73750 	810.73750  	KNNP954 	RM		ACS-TA 	City Services Talkaround 	FM 	Public Works 
+856.26250 	811.26250  	KNNV841 	RM		ACS-TA-2 	City Services Talkaround Secondary 	FM 	Public Works 
+155.86500 	151.19750  	WPYG714 	RM	346 DPL	BALL DPW 	City Services (Administration  	FMN 	Public Works 
+451.61250 	456.61250  	WQUN693 	RM	162 DPL	Northwood HS Ops 	Northwood High School 	FMN 	Schools 
+CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	CLECO Power (P25)	 Project 25 Phase II	 Pineville	Entergy 	 Project 25 Phase II	 Various
+Procter & Gamble Manufacturing Plant Pineville	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pineville	Rapides Parish Communications Agency (Motorola)	 Motorola Type II SmartZone	 Alexandria	Rapides Parish Communications Agency (P25)	 Project 25 Phase II	 Alexandria

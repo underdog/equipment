@@ -1,65 +1,65 @@
-460.60000 	WPFG740 	RM	110.9 PL	Vcom Fire Disp1 	Fire/EMS: Dispatch [Ch 1]  	FMN 	Fire Dispatch 
-462.95000 	WPFG523 	RM	103.5 PL	Vcom Fire Alt2 	Fire/EMS: Alternate [Ch 2] 	FMN 	Fire-Tac 
-458.20000 	WPHX984 	M	107.2 PL	Vcom Fire NW 3 	Fire/EMS: Ground NW [Ch 3] 	FMN 	Fire-Tac 
-458.25000 	WPHX984 	M	107.2 PL	Vcom Fire NE 4 	Fire/EMS: Ground NE [Ch 4] 	FMN 	Fire-Tac 
-458.30000 	WPHX984 	M	107.2 PL	Vcom Fire SW 5 	Fire/EMS: Ground SW [Ch 5] 	FMN 	Fire-Tac 
-458.62500 	WPHX984 	M	107.2 PL	Vcom Fire SE 6 	Fire/EMS: Ground SE [Ch 6] 	FMN 	Fire-Tac 
-458.77500 	WPHX984 	M	173.8 PL	Vcom PD/FD All 7 	All Talk - Police/Fire: Common [Ch 7/14?] 	FMN 	Multi-Talk 
-460.60000 	WPFG740 	M	110.9 PL	Vcom Fire TA16 	Fire/EMS: Talkaround 	FMN 	Fire-Talk 
-154.19000 	 	BM	CSQ	Verm Fire Old 	Fire: Old VHF Net (for Mutual Aid) 	FMN 	Fire-Tac 
-155.22000 	 	M		Vcom RescueSquad 	Rescue Squads: Cornell, Cullom, Flanagan-Graymont 	FMN 	Hospital 
-460.10000 	WPGW541 	RM	192.8 PL	LivCo Shrf/Frbry 	Sheriff / Fairbury Police: Dispatch [Ch 1/15] (Patched to S21 TG 5776) 	FMN 	Law Dispatch 
-460.20000 	WPHP729 	M	136.5 PL	LivCo Sheriff 3 	Sheriff: Ground NW [Ch 3] 	FMN 	Law Tac 
-460.35000 	WPHP729 	M	136.5 PL	LivCo Sheriff 4 	Sheriff: Ground NE [Ch 4] 	FMN 	Law Tac 
-460.50000 	WPHP729 	M	136.5 PL	LivCo Sheriff 5 	Sheriff: Ground SW [Ch 5] 	FMN 	Law Tac 
-460.57500 	WPHP729 	M	136.5 PL	LivCo Sheriff 6 	Sheriff: Ground SE [Ch 6] 	FMN 	Law Tac 
-458.77500 	WPHX984 	M	173.8 PL	LivCo Sheriff 7 	All Talk 7 Police / Fire Common [P7/F7] 	FMN 	Multi-Talk 
-460.46250 	WQLR847 	RM		LivCo Sheriff N 	Sheriff: Future (Odell, Chatsworth) 	P25 	Law Dispatch 
-453.75000 	KNDA840 	RM	186.2 PL	LivCo Sheriff 13 	Sheriff: County Frequency [P13] 	FMN 	Law Tac 
-460.15000 	WPTQ622 	RM	179.9 PL	LivCo Shrf Jail 	Sheriff: Jail 	FMN 	Corrections 
-453.05000 	KZF580 	RM	192.8 PL	 Lvgnstn Highway 	Highway Department [P14/F14] 	FMN 	Public Works 
-460.60000 	WPFG740 	RM	110.9 PL	SELCAS EMS 	EMS: Dispatch [Ch 1] (DB: VCOM)  	FMN 	EMS Dispatch 
-465.60000 	WPFG740 	M	173.8 PL	SELCAS EMS PG 	EMS: Medical Paging  	FMN 	EMS Dispatch 
-155.34000 	KNAB914 	M	156.7 PL	MERCI-1 156.7 	Patient Reports 	FMN 	Hospital 
-461.35000 	WQOA560 	RM		SJH Ops 1 	Operations (in use) 	DMR 	Business 
-155.34000 	KNIK458 	BM	118.8 PL	MERCI-1 118.8  	Patient Reports 	FMN 	Hospital 
-155.40000 	KNIK458 	BM	CSQ	SJ Hosp Paging 	Voice Paging (CSQ) 	FMN 	Business 
-151.08500 	 	RM	123.0 PL	LvstnTwp Roads A 	Road Maintenance 	FMN 	Public Works 
-151.08500 	KNDW259 	BM	192.8 PL	LvstnTwp Roads 1 	Fayette Township Road Maintenance 	FMN 	Public Works 
-151.08500 	KNDW261 	BM	192.8 PL	LvstnTwp Roads 1 	Forrest Township Road District 	FMN 	Public Works 
-151.08500 	WPMA249 	BM	192.8 PL	LvstnTwp Roads 1 	Waldo Road District (Gridley) 	FMN 	Public Works 
-151.13000 	WQOR255 	M		SunsburyTwpRoads 	Sunbury Township Roads (Blackstone) 	FMN 	Public Works 
-156.13500 	KNIM466 	BM	103.5 PL	LvstnTwp Roads B 	Township Roads Maintenance 	FMN 	Public Works 
-154.08500 	 	BM	167.9 PL	Chts Firgrnd 	Fire: Local 	FMN 	Fire-Tac 
-453.97500 	WNXC361 	BM		Chts PubWrks 	Public Works 	FMN 	Public Works 
-154.34000 	 	BM	CSQ	Cornell Fire 	Fire: Local Alternate 	FMN 	Fire-Tac 
-154.98000 	KZZ342 	BM	CSQ	Dwight Police  	Police: Local Alternate 	FMN 	Law Tac 
-154.40000 	KNBJ842 	M		Dwight Fire 	Fire: Local Alternate 	FMN 	Fire-Tac 
-154.29500 	KNBJ842 	BM		Dwight FG 	MABAS: Fireground (may not be 85.4 PL Blue) 	FMN 	Fire-Tac 
-154.10000 	KTP343 	BM		Dwight PubWrks 	Public Works 	FMN 	Public Works 
-154.75500 	KNHH956 	BM		Frbry Police 	Police: Local Alternate 	FMN 	Law Tac 
-151.89500 	 	M		Frbry Fair Assn 	Fairbury Fair Association 	FMN 	Business 
-155.22000 	KNCC258 	BM		F-G Ambulance 	Flanagan Graymont Ambulance Service 	FMN 	EMS Dispatch 
-155.71500 	WQCU677 	BM		Odell Village  	Village Ops 	FMN 	Public Works 
-460.22500 	WPGW541 	RM	146.2 PL	Pontiac Police 	Police: Dispatch (DB: VCom) 	FMN 	Law Dispatch 
-154.34000 	KBV770 	BM		Pontiac EMA-VHF 	ESDA / Police: Local Alternate 	FMN 	Multi-Tac 
-458.30000 	WPHX984 	BM	107.2 PL	Pontiac EMA-UHF 	EMA: Weather Spotters / Fireground [F-5] 	FM 	Emergency Ops 
-154.99500 	WNWA393 	BM	136.5 PL	Pontiac PubWrks 	Public Works (simulcasts 460.225) 	FMN 	Public Works 
-451.12500 	WPUP766 	RM	114.8 PL	Pontiac PubWrkU1 	Public Works/Utilities 	FMN 	Public Works 
-451.47500 	WPUP766 	BM		Pontiac PubWrkU2 	Public Works/Utilities (*poss 293 NAC P25 R) 	FMN 	Public Works 
-464.81250 	WQOR200 	RM	118.8 PL	WC 464.8125 1188 	school buses (Wheeler Communications) 	FMN 	Schools 
-461.30000 	KSX736 	RM	123.0 PL	OdellGrdSchl 	Grade School 	FMN 	Schools 
-461.92500 	WQF290 	RM		Turners Bus 	Turner's Bus Service (Odell) 	FMN 	Schools 
-464.93750 	WQCU510 	RM	051 DPL	IC Bus Odell 	Illinois-Central School Buses (Odell) 	FM 	Schools 
-464.10000 	WQCJ535 	RM	118.8 PL	PontcSchlBus 	Buses (Odell)  	FMN 	Schools 
-464.55000 	 	M		Pontiac Sch1 	Operations (unknown school, tone) 	FMN 	Schools 
-152.89250 	WQLF337 	RM	69.3 PL	PCS D8 Ops 	Operations - Fairbury 	FMN 	Schools 
-155.17500 	WNKR946 	BM	123.0 PL	PCS D8 Bus 	Buses  	FMN 	Schools 
-154.60000 	WPQC225 	M		WoodlandSchl 	Woodland School Ops [Expired 7/05] 	FMN 	Schools 
-155.23500 	KNHD283 	BM		S-W 5 buses 	Buses (possibly D503) 	FMN 	Schools 
-122.80000 	 	BM	CSQ	DwightUNICOM 	UNICOM/CTAF 	AM 	Aircraft 
-123.75000 	 	BM	CSQ	Dwght App/Dp 	Approach/Departure 	AM 	Aircraft 
-119.67500 	WEV5 	BM		PNT AWOS-3 	Weather AWOS-3 	AM 	Aircraft 
-122.80000 	WOC5 	BM	CSQ	PNT UNICOM 	UNICOM/CTAF 	AM 	Aircraft 
-Caterpillar Corporation (DMR)	 DMR Motorola Connect Plus (TRBO)	 Decatur	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I
- Northern IL	
+460.60000 	465.60000  	WPFG740 	RM	110.9 PL	Vcom Fire Disp1 	Fire/EMS: Dispatch [Ch 1]  	FMN 	Fire Dispatch 
+462.95000 	467.95000  	WPFG523 	RM	103.5 PL	Vcom Fire Alt2 	Fire/EMS: Alternate [Ch 2] 	FMN 	Fire-Tac 
+458.20000 	   	WPHX984 	M	107.2 PL	Vcom Fire NW 3 	Fire/EMS: Ground NW [Ch 3] 	FMN 	Fire-Tac 
+458.25000 	   	WPHX984 	M	107.2 PL	Vcom Fire NE 4 	Fire/EMS: Ground NE [Ch 4] 	FMN 	Fire-Tac 
+458.30000 	   	WPHX984 	M	107.2 PL	Vcom Fire SW 5 	Fire/EMS: Ground SW [Ch 5] 	FMN 	Fire-Tac 
+458.62500 	   	WPHX984 	M	107.2 PL	Vcom Fire SE 6 	Fire/EMS: Ground SE [Ch 6] 	FMN 	Fire-Tac 
+458.77500 	   	WPHX984 	M	173.8 PL	Vcom PD/FD All 7 	All Talk - Police/Fire: Common [Ch 7/14?] 	FMN 	Multi-Talk 
+460.60000 	   	WPFG740 	M	110.9 PL	Vcom Fire TA16 	Fire/EMS: Talkaround 	FMN 	Fire-Talk 
+154.19000 	   	 	BM	CSQ	Verm Fire Old 	Fire: Old VHF Net (for Mutual Aid) 	FMN 	Fire-Tac 
+155.22000 	   	 	M		Vcom RescueSquad 	Rescue Squads: Cornell, Cullom, Flanagan-Graymont 	FMN 	Hospital 
+460.10000 	465.10000  	WPGW541 	RM	192.8 PL	LivCo Shrf/Frbry 	Sheriff / Fairbury Police: Dispatch [Ch 1/15] (Patched to S21 TG 5776) 	FMN 	Law Dispatch 
+460.20000 	   	WPHP729 	M	136.5 PL	LivCo Sheriff 3 	Sheriff: Ground NW [Ch 3] 	FMN 	Law Tac 
+460.35000 	   	WPHP729 	M	136.5 PL	LivCo Sheriff 4 	Sheriff: Ground NE [Ch 4] 	FMN 	Law Tac 
+460.50000 	   	WPHP729 	M	136.5 PL	LivCo Sheriff 5 	Sheriff: Ground SW [Ch 5] 	FMN 	Law Tac 
+460.57500 	   	WPHP729 	M	136.5 PL	LivCo Sheriff 6 	Sheriff: Ground SE [Ch 6] 	FMN 	Law Tac 
+458.77500 	   	WPHX984 	M	173.8 PL	LivCo Sheriff 7 	All Talk 7 Police / Fire Common [P7/F7] 	FMN 	Multi-Talk 
+460.46250 	465.46250  	WQLR847 	RM		LivCo Sheriff N 	Sheriff: Future (Odell, Chatsworth) 	P25 	Law Dispatch 
+453.75000 	458.75000  	KNDA840 	RM	186.2 PL	LivCo Sheriff 13 	Sheriff: County Frequency [P13] 	FMN 	Law Tac 
+460.15000 	465.15000  	WPTQ622 	RM	179.9 PL	LivCo Shrf Jail 	Sheriff: Jail 	FMN 	Corrections 
+453.05000 	458.05000  	KZF580 	RM	192.8 PL	 Lvgnstn Highway 	Highway Department [P14/F14] 	FMN 	Public Works 
+460.60000 	465.60000  	WPFG740 	RM	110.9 PL	SELCAS EMS 	EMS: Dispatch [Ch 1] (DB: VCOM)  	FMN 	EMS Dispatch 
+465.60000 	   	WPFG740 	M	173.8 PL	SELCAS EMS PG 	EMS: Medical Paging  	FMN 	EMS Dispatch 
+155.34000 	   	KNAB914 	M	156.7 PL	MERCI-1 156.7 	Patient Reports 	FMN 	Hospital 
+461.35000 	466.35000  	WQOA560 	RM		SJH Ops 1 	Operations (in use) 	DMR 	Business 
+155.34000 	   	KNIK458 	BM	118.8 PL	MERCI-1 118.8  	Patient Reports 	FMN 	Hospital 
+155.40000 	   	KNIK458 	BM	CSQ	SJ Hosp Paging 	Voice Paging (CSQ) 	FMN 	Business 
+151.08500 	   	 	RM	123.0 PL	LvstnTwp Roads A 	Road Maintenance 	FMN 	Public Works 
+151.08500 	   	KNDW259 	BM	192.8 PL	LvstnTwp Roads 1 	Fayette Township Road Maintenance 	FMN 	Public Works 
+151.08500 	   	KNDW261 	BM	192.8 PL	LvstnTwp Roads 1 	Forrest Township Road District 	FMN 	Public Works 
+151.08500 	   	WPMA249 	BM	192.8 PL	LvstnTwp Roads 1 	Waldo Road District (Gridley) 	FMN 	Public Works 
+151.13000 	   	WQOR255 	M		SunsburyTwpRoads 	Sunbury Township Roads (Blackstone) 	FMN 	Public Works 
+156.13500 	   	KNIM466 	BM	103.5 PL	LvstnTwp Roads B 	Township Roads Maintenance 	FMN 	Public Works 
+154.08500 	   	 	BM	167.9 PL	Chts Firgrnd 	Fire: Local 	FMN 	Fire-Tac 
+453.97500 	   	WNXC361 	BM		Chts PubWrks 	Public Works 	FMN 	Public Works 
+154.34000 	   	 	BM	CSQ	Cornell Fire 	Fire: Local Alternate 	FMN 	Fire-Tac 
+154.98000 	   	KZZ342 	BM	CSQ	Dwight Police  	Police: Local Alternate 	FMN 	Law Tac 
+154.40000 	   	KNBJ842 	M		Dwight Fire 	Fire: Local Alternate 	FMN 	Fire-Tac 
+154.29500 	   	KNBJ842 	BM		Dwight FG 	MABAS: Fireground (may not be 85.4 PL Blue) 	FMN 	Fire-Tac 
+154.10000 	   	KTP343 	BM		Dwight PubWrks 	Public Works 	FMN 	Public Works 
+154.75500 	   	KNHH956 	BM		Frbry Police 	Police: Local Alternate 	FMN 	Law Tac 
+151.89500 	   	 	M		Frbry Fair Assn 	Fairbury Fair Association 	FMN 	Business 
+155.22000 	   	KNCC258 	BM		F-G Ambulance 	Flanagan Graymont Ambulance Service 	FMN 	EMS Dispatch 
+155.71500 	   	WQCU677 	BM		Odell Village  	Village Ops 	FMN 	Public Works 
+460.22500 	465.22500  	WPGW541 	RM	146.2 PL	Pontiac Police 	Police: Dispatch (DB: VCom) 	FMN 	Law Dispatch 
+154.34000 	   	KBV770 	BM		Pontiac EMA-VHF 	ESDA / Police: Local Alternate 	FMN 	Multi-Tac 
+458.30000 	   	WPHX984 	BM	107.2 PL	Pontiac EMA-UHF 	EMA: Weather Spotters / Fireground [F-5] 	FM 	Emergency Ops 
+154.99500 	   	WNWA393 	BM	136.5 PL	Pontiac PubWrks 	Public Works (simulcasts 460.225) 	FMN 	Public Works 
+451.12500 	456.12500  	WPUP766 	RM	114.8 PL	Pontiac PubWrkU1 	Public Works/Utilities 	FMN 	Public Works 
+451.47500 	   	WPUP766 	BM		Pontiac PubWrkU2 	Public Works/Utilities (*poss 293 NAC P25 R) 	FMN 	Public Works 
+464.81250 	469.81250  	WQOR200 	RM	118.8 PL	WC 464.8125 1188 	school buses (Wheeler Communications) 	FMN 	Schools 
+461.30000 	466.30000  	KSX736 	RM	123.0 PL	OdellGrdSchl 	Grade School 	FMN 	Schools 
+461.92500 	466.92500  	WQF290 	RM		Turners Bus 	Turner's Bus Service (Odell) 	FMN 	Schools 
+464.93750 	469.93750  	WQCU510 	RM	051 DPL	IC Bus Odell 	Illinois-Central School Buses (Odell) 	FM 	Schools 
+464.10000 	469.10000  	WQCJ535 	RM	118.8 PL	PontcSchlBus 	Buses (Odell)  	FMN 	Schools 
+464.55000 	   	 	M		Pontiac Sch1 	Operations (unknown school, tone) 	FMN 	Schools 
+152.89250 	159.83250  	WQLF337 	RM	69.3 PL	PCS D8 Ops 	Operations - Fairbury 	FMN 	Schools 
+155.17500 	   	WNKR946 	BM	123.0 PL	PCS D8 Bus 	Buses  	FMN 	Schools 
+154.60000 	   	WPQC225 	M		WoodlandSchl 	Woodland School Ops [Expired 7/05] 	FMN 	Schools 
+155.23500 	   	KNHD283 	BM		S-W 5 buses 	Buses (possibly D503) 	FMN 	Schools 
+122.80000 	   	 	BM	CSQ	DwightUNICOM 	UNICOM/CTAF 	AM 	Aircraft 
+123.75000 	   	 	BM	CSQ	Dwght App/Dp 	Approach/Departure 	AM 	Aircraft 
+119.67500 	   	WEV5 	BM		PNT AWOS-3 	Weather AWOS-3 	AM 	Aircraft 
+122.80000 	   	WOC5 	BM	CSQ	PNT UNICOM 	UNICOM/CTAF 	AM 	Aircraft 
+Caterpillar Corporation (DMR)	 DMR Motorola Connect Plus (TRBO)	 Decatur	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL
+Diga-Talk	 NXDN NEXEDGE 4800	 Various	

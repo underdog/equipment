@@ -1,34 +1,33 @@
-154.31000 	WQUU683 	RM	503 DPL	BayCoFD LinwdTwr 	Bay County Fire Paging - Linwood tower 	FMN 	Fire Dispatch 
-154.75500 	WQUU683 	RM	503 DPL	BayCoFDMungrTowr 	Bay County Fire Paging - Munger tower 	FMN 	Fire Dispatch 
-155.05500 	WQUU683 	RM	503 DPL	BayCoFDPinnyTowr 	Bay County Fire Paging - Pinconning tower 	FMN 	Fire Dispatch 
-155.79000 	WQUU683 	RM	503 DPL	BayCo FD Euclid 	Bay County Fire Paging -  Euclid Ave. tower 	FMN 	Fire Dispatch 
-155.31000 	WPXU986 	RM	103.5 PL	Bay Jail 	County Jail 	FMN 	Corrections 
-155.10000 	KBO353 	BM	107.2 PL	Bay Sirens 	Emergency Management: Outdoor Warning Sirens 	FMN 	Data 
-452.20000 	WQUR507 	RM	CC 3TG 36000SL 1	Bay Care Maint 2 	Bay County Care Facility Maintenance 2 	DMR 	Public Works 
-452.67500 	WQUR507 	BM	CC 1TG 1SL 1	Bay Care Maintnc 	Bay County Care Facility Maintenance 	DMR 	Public Works 
-453.20000 	WYR301 	RM	CC 1TG 1SL 1	Bay MosquitoCtrl 	Mosquito Control 	DMR 	Public Works 
-167.62500 	 	BM	293 NAC	CoastGuard AG102 	Coast Guard Saginaw river Essexville AG102 	P25e 	Federal 
-461.82500 	WYE475 	RM	CC 1TG 1SL 1	Mclaren Security 	Mclaren Security 	DMR 	Security 
-155.34000 	KRB496 	BM	114.8 PL	Mclaren HERN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
-461.82500 	WYE475 	BM	CC 1TG 2SL 2	Mclaren Maintnce 	Maintenance 	DMR 	Business 
-155.74500 	WNCR902 	BM		Auburn DPW 	Auburn Public Works 	FMN 	Public Works 
-154.40000 	KBS693 	BM	103.5 PL	Bay City Fire 	Bay City Fire Dispatch - simulcast of MPSCS 	FMN 	Fire Dispatch 
-464.52500 	WRI610 	RM	CC 7TG 1SL 1	Bangor Buses 	Schools Transportation 	DMR 	Schools 
-467.76250 	 	M	732 DPL	Bangor Schools 	Bangor Schools Security/Sports Activities 	FMN 	Schools 
-469.37500 	WRI610 	M		BangTS Sch 2 	Schools 2 	FMN 	Schools 
-453.70000 	WQFP214 	BM		Int. School Dist 	Bay - Arenac Intermediate School District 	DMR 	Schools 
-452.85000 	WQEE945 	M		BCHS Ops 1 	Transportation 	FMN 	Schools 
-461.22500 	WQEE945 	M		BCHS Ops 2 	Transportation 	FMN 	Schools 
-463.67500 	WQEE945 	M		BCHS Ops 3 	Transportation 	FMN 	Schools 
-469.37500 	WQEE945 	M		BCHS Ops 4 	Transportation 	FMN 	Schools 
-452.33750 	WQJY810 	RM	464 DPL	Western High Ops 	Western High athletics/security 	FMN 	Security 
-460.20000 	WQYJ246 	BM	CC 1TG 1SL 1	Essexville 1 	Schools 1 	DMR 	Schools 
-460.20000 	WQYJ246 	BM	CC 1TG 2SL 1	Essexville 2 	Schools 2 	DMR 	Schools 
-464.42500 	WRFF816 	RM	346 DPL	Handy Middle Sch 	Handy Middle School 	FMN 	Security 
-156.22500 	WQJF431 	RM		DC PD Acadmy 	Police: Academy 	FMN 	Law Tac 
-464.77500 	WQQV827 	RM	031 DPL	B.C. Town Center 	Bay City Town Center Security 	FMN 	Security 
-Bay City Electric	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Bay City MI	Bay City Governmental Services	 LTR Standard	 Bay City	Bay City Public Schools	 LTR Standard
- Bay City	Bay County Department of Water and Sewer	 LTR Standard	 Bay County	Consumers Energy	 EDACS Networked Standard	 Various	Covenant Health Care
- DMR Conventional Networked	 Saginaw - Bay City	Kay Communications (Saginaw)	 LTR Standard and Passport	 Saginaw	Louchart Enterprises (800 MHz)	 Motorola Type II SmartZone	 Bay City
-Louchart Enterprises (UHF)	 LTR Standard and Passport	 Bay City	Louchart Enterprises MOTOTRBO System	 DMR Motorola Capacity Plus Single Site (TRBO)	 Varies	Robinson Communications	 NXDN NEXEDGE 9600
- Bad Axe	
+154.31000 	158.76000  	WQUU683 	RM	503 DPL	BayCoFD LinwdTwr 	Bay County Fire Paging - Linwood tower 	FMN 	Fire Dispatch 
+154.75500 	158.76000  	WQUU683 	RM	503 DPL	BayCoFDMungrTowr 	Bay County Fire Paging - Munger tower 	FMN 	Fire Dispatch 
+155.05500 	158.76000  	WQUU683 	RM	503 DPL	BayCoFDPinnyTowr 	Bay County Fire Paging - Pinconning tower 	FMN 	Fire Dispatch 
+155.79000 	158.76000  	WQUU683 	RM	503 DPL	BayCo FD Euclid 	Bay County Fire Paging -  Euclid Ave. tower 	FMN 	Fire Dispatch 
+155.31000 	158.80500  	WPXU986 	RM	103.5 PL	Bay Jail 	County Jail 	FMN 	Corrections 
+155.10000 	   	KBO353 	BM	107.2 PL	Bay Sirens 	Emergency Management: Outdoor Warning Sirens 	FMN 	Data 
+452.20000 	457.20000  	WQUR507 	RM	CC 3TG 36000SL 1	Bay Care Maint 2 	Bay County Care Facility Maintenance 2 	DMR 	Public Works 
+452.67500 	457.67500  	WQUR507 	BM	CC 1TG 1SL 1	Bay Care Maintnc 	Bay County Care Facility Maintenance 	DMR 	Public Works 
+453.20000 	458.20000  	WYR301 	RM	CC 1TG 1SL 1	Bay MosquitoCtrl 	Mosquito Control 	DMR 	Public Works 
+167.62500 	   	 	BM	293 NAC	CoastGuard AG102 	Coast Guard Saginaw river Essexville AG102 	P25e 	Federal 
+461.82500 	466.82500  	WYE475 	RM	CC 1TG 1SL 1	Mclaren Security 	Mclaren Security 	DMR 	Security 
+155.34000 	   	KRB496 	BM	114.8 PL	Mclaren HERN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+461.82500 	   	WYE475 	BM	CC 1TG 2SL 2	Mclaren Maintnce 	Maintenance 	DMR 	Business 
+155.74500 	   	WNCR902 	BM		Auburn DPW 	Auburn Public Works 	FMN 	Public Works 
+154.40000 	158.90250  	KBS693 	BM	103.5 PL	Bay City Fire 	Bay City Fire Dispatch - simulcast of MPSCS 	FMN 	Fire Dispatch 
+464.52500 	469.52500  	WRI610 	RM	CC 7TG 1SL 1	Bangor Buses 	Schools Transportation 	DMR 	Schools 
+467.76250 	   	 	M	732 DPL	Bangor Schools 	Bangor Schools Security/Sports Activities 	FMN 	Schools 
+469.37500 	   	WRI610 	M		BangTS Sch 2 	Schools 2 	FMN 	Schools 
+453.70000 	   	WQFP214 	BM		Int. School Dist 	Bay - Arenac Intermediate School District 	DMR 	Schools 
+452.85000 	   	WQEE945 	M		BCHS Ops 1 	Transportation 	FMN 	Schools 
+461.22500 	   	WQEE945 	M		BCHS Ops 2 	Transportation 	FMN 	Schools 
+463.67500 	   	WQEE945 	M		BCHS Ops 3 	Transportation 	FMN 	Schools 
+469.37500 	   	WQEE945 	M		BCHS Ops 4 	Transportation 	FMN 	Schools 
+452.33750 	457.33750  	WQJY810 	RM	464 DPL	Western High Ops 	Western High athletics/security 	FMN 	Security 
+460.20000 	465.20000  	WQYJ246 	BM	CC 1TG 1SL 1	Essexville 1 	Schools 1 	DMR 	Schools 
+460.20000 	465.20000  	WQYJ246 	BM	CC 1TG 2SL 1	Essexville 2 	Schools 2 	DMR 	Schools 
+464.42500 	469.42500  	WRFF816 	RM	346 DPL	Handy Middle Sch 	Handy Middle School 	FMN 	Security 
+156.22500 	156.09750  	WQJF431 	RM		DC PD Acadmy 	Police: Academy 	FMN 	Law Tac 
+464.77500 	469.77500  	WQQV827 	RM	031 DPL	B.C. Town Center 	Bay City Town Center Security 	FMN 	Security 
+Bay City Electric	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Bay City MI	Bay City Governmental Services	 LTR Standard	 Bay City	Bay City Public Schools	 LTR Standard	 Bay City
+Bay County Department of Water and Sewer	 LTR Standard	 Bay County	Consumers Energy	 EDACS Networked Standard	 Various	Covenant Health Care	 DMR Conventional Networked	 Saginaw - Bay City
+Kay Communications (Saginaw)	 LTR Standard and Passport	 Saginaw	Louchart Enterprises (800 MHz)	 Motorola Type II SmartZone	 Bay City	Louchart Enterprises (UHF)	 LTR Standard and Passport	 Bay City
+Louchart Enterprises MOTOTRBO System	 DMR Motorola Capacity Plus Single Site (TRBO)	 Varies	Robinson Communications	 NXDN NEXEDGE 9600	 Bad Axe	

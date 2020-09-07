@@ -1,12 +1,11 @@
-156.21000 	WPIB291 	RM	025 DPL	Lyon Sh Dis 	Sheriff Dispatch - Analog 	FMN 	Law Dispatch 
-156.21000 	WPIB291 	RM	067 NAC	Lyon Sh Disp 	Sheriff Dispatch - P25 	P25 	Law Dispatch 
-152.51000 	 	M	703 DPL	Lyon Co Jail 	Jail 	FMN 	Corrections 
-154.16000 	WPUZ458 	RM	127.3 PL	Lyon Fire 	Fire/Rescue Dispatch/Operations 	FMN 	Fire Dispatch 
-154.16000 	wPUZ458 	BM	CSQ	Lyon Talkarn 	Lyon Fire Talkaround 	FMN 	Fire-Talk 
-155.40000 	WRA644 	BM	82.5 PL	Regional EMS 	Ambulance Paging 	FMN 	EMS Dispatch 
-155.34000 	WRA644 	BM	82.5 PL	StatewideEMS 	Ambulance to Sanford Hospital and EMS Dispatch 	FMN 	EMS Dispatch 
-155.10000 	WQMJ985 	M		Lyon Cons 	Conservation 	FMN 	Public Works 
-155.02500 	KNFQ307 	RM	CC 1TG 139SL 1	Lyon Roads 	Road Department 	DMR 	Public Works 
-154.04000 	KFT547 	RM	127.3 PL	RockRapidsPW 	Public Works 	FMN 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Basin Electric Power Cooperative	 MPT-1327 Standard	 Bismarck	RACOM Network	 EDACS Networked Standard
- Various	
+156.21000 	154.95000  	WPIB291 	RM	025 DPL	Lyon Sh Dis 	Sheriff Dispatch - Analog 	FMN 	Law Dispatch 
+156.21000 	154.95000  	WPIB291 	RM	067 NAC	Lyon Sh Disp 	Sheriff Dispatch - P25 	P25 	Law Dispatch 
+152.51000 	   	 	M	703 DPL	Lyon Co Jail 	Jail 	FMN 	Corrections 
+154.16000 	153.74000  	WPUZ458 	RM	127.3 PL	Lyon Fire 	Fire/Rescue Dispatch/Operations 	FMN 	Fire Dispatch 
+154.16000 	   	wPUZ458 	BM	CSQ	Lyon Talkarn 	Lyon Fire Talkaround 	FMN 	Fire-Talk 
+155.40000 	   	WRA644 	BM	82.5 PL	Regional EMS 	Ambulance Paging 	FMN 	EMS Dispatch 
+155.34000 	   	WRA644 	BM	82.5 PL	StatewideEMS 	Ambulance to Sanford Hospital and EMS Dispatch 	FMN 	EMS Dispatch 
+155.10000 	   	WQMJ985 	M		Lyon Cons 	Conservation 	FMN 	Public Works 
+155.02500 	158.86500  	KNFQ307 	RM	CC 1TG 139SL 1	Lyon Roads 	Road Department 	DMR 	Public Works 
+154.04000 	158.94000  	KFT547 	RM	127.3 PL	RockRapidsPW 	Public Works 	FMN 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Basin Electric Power Cooperative	 MPT-1327 Standard	 Bismarck	RACOM Network	 EDACS Networked Standard	 Various

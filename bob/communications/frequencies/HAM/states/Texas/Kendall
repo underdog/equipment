@@ -1,23 +1,23 @@
-155.65500 	KVF686 	RM	203.5 PL	Kendall SO Rept 	Sheriff Repeater (Primary on LCRA P25) 	FMN 	Law Tac 
-155.40000 	WPIN418 	RM	125 DPL	Kendall Fire/EMS 	Fire/EMS Dispatch (linked to LCRA P25) 	FMN 	Fire Dispatch 
-154.98750 	WQZG207 	RM	445 DPL	Kendall OEM 	Office of Emergency Management 	FMN 	Emergency Ops 
-155.82000 	WNHE539 	BM		Kend Water 	Water Board 	FMN 	Utilities 
-153.44000 	WNUR558 	RM	203.5 PL	Boerne VFD Rept 	Boerne Fire Repeater 	FMN 	Fire-Tac 
-152.37500 	WNUR558 	BM	203.5 PL	Boerne VFD Tac 	Boerne Fire Tactical 	FMN 	Fire-Tac 
-155.05500 	WQET691 	RM	162.2 PL	Comfort VFD Rept 	Comfort Fire Repeater 	FMN 	Fire-Tac 
-154.13000 	WNDU935 	BM	210.7 PL	Comfort VFD Tac 	Comfort Fire Tactical 	FMN 	Fire-Tac 
-154.14500 	WNDU935 	BM	210.7 PL	Comfort VFD Tac 	Comfort Fire Tactical 	FMN 	Fire-Tac 
-154.54000 	WNVL428 	BM	210.7 PL	Kendalia VFD Tac 	Kendalia Fire Tactical 	FMN 	Fire-Tac 
-155.35500 	WPWU448 	RM	210.7 PL	Sisterdl VFD Rep 	Sisterdale Fire Repeater 	FMN 	Fire-Tac 
-154.51500 	WPZR911 	BM	210.7 PL	Waring VFD Tac 	Waring Fire Tactical 	FMN 	Fire-Tac 
-153.05000 	WQRR632 	RM	CC 10TG 10001SL 1	Boerne HS Admin 	Boerne High School Admin 	DMR 	Schools 
-153.05000 	WQRR632 	RM	CC 10TG 10002SL 2	Boerne HS CH 2 	Boerne High School Ch. 2 	DMR 	Schools 
-153.35750 	WQRZ609 	RM	CC 9TG 9001SL 1	Champion HS Admn 	Champion High School Admin 	DMR 	Schools 
-153.35750 	WQRZ609 	RM	CC 9TG 9002SL 2	Champion HS CH 2 	Champion High School Ch. 2 	DMR 	Schools 
-463.45000 	WRAJ402 	M	CC 2TG 2001SL 1	CCES Ch 1 	Cibolo Creek Elementary Ch. 1 	DMR 	Schools 
-463.51250 	WRAJ402 	M	CC 2TG 2002SL 1	CCES Ch 2 	Cibolo Creek Elementary Ch. 2 	DMR 	Schools 
-464.01250 	WRAJ402 	RM	CC 8TG 8001SL 1	BMSN Admin 	Middle School North Admin 	DMR 	Schools 
-464.08750 	WRAJ402 	RM	CC 7TG 7001SL 1	BMSS Admin 	Middle School South Admin 	DMR 	Schools 
-464.36250 	WRCM977 	RM	CC 1TG 1001SL 1	MT Voss MS Admin 	Mark T Voss Middle School Admin 	DMR 	Schools 
-409.81250 	 	RM	156 NAC	DEA 	DEA 	P25 	Federal 
-Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	S & P Communications (Boerne)	 LTR Standard	 Boerne	
+155.65500 	154.87500  	KVF686 	RM	203.5 PL	Kendall SO Rept 	Sheriff Repeater (Primary on LCRA P25) 	FMN 	Law Tac 
+155.40000 	150.79000  	WPIN418 	RM	125 DPL	Kendall Fire/EMS 	Fire/EMS Dispatch (linked to LCRA P25) 	FMN 	Fire Dispatch 
+154.98750 	159.25500  	WQZG207 	RM	445 DPL	Kendall OEM 	Office of Emergency Management 	FMN 	Emergency Ops 
+155.82000 	   	WNHE539 	BM		Kend Water 	Water Board 	FMN 	Utilities 
+153.44000 	158.32500  	WNUR558 	RM	203.5 PL	Boerne VFD Rept 	Boerne Fire Repeater 	FMN 	Fire-Tac 
+152.37500 	   	WNUR558 	BM	203.5 PL	Boerne VFD Tac 	Boerne Fire Tactical 	FMN 	Fire-Tac 
+155.05500 	159.16500  	WQET691 	RM	162.2 PL	Comfort VFD Rept 	Comfort Fire Repeater 	FMN 	Fire-Tac 
+154.13000 	   	WNDU935 	BM	210.7 PL	Comfort VFD Tac 	Comfort Fire Tactical 	FMN 	Fire-Tac 
+154.14500 	   	WNDU935 	BM	210.7 PL	Comfort VFD Tac 	Comfort Fire Tactical 	FMN 	Fire-Tac 
+154.54000 	   	WNVL428 	BM	210.7 PL	Kendalia VFD Tac 	Kendalia Fire Tactical 	FMN 	Fire-Tac 
+155.35500 	153.86000  	WPWU448 	RM	210.7 PL	Sisterdl VFD Rep 	Sisterdale Fire Repeater 	FMN 	Fire-Tac 
+154.51500 	   	WPZR911 	BM	210.7 PL	Waring VFD Tac 	Waring Fire Tactical 	FMN 	Fire-Tac 
+153.05000 	158.28000  	WQRR632 	RM	CC 10TG 10001SL 1	Boerne HS Admin 	Boerne High School Admin 	DMR 	Schools 
+153.05000 	158.28000  	WQRR632 	RM	CC 10TG 10002SL 2	Boerne HS CH 2 	Boerne High School Ch. 2 	DMR 	Schools 
+153.35750 	158.37750  	WQRZ609 	RM	CC 9TG 9001SL 1	Champion HS Admn 	Champion High School Admin 	DMR 	Schools 
+153.35750 	158.37750  	WQRZ609 	RM	CC 9TG 9002SL 2	Champion HS CH 2 	Champion High School Ch. 2 	DMR 	Schools 
+463.45000 	   	WRAJ402 	M	CC 2TG 2001SL 1	CCES Ch 1 	Cibolo Creek Elementary Ch. 1 	DMR 	Schools 
+463.51250 	   	WRAJ402 	M	CC 2TG 2002SL 1	CCES Ch 2 	Cibolo Creek Elementary Ch. 2 	DMR 	Schools 
+464.01250 	469.01250  	WRAJ402 	RM	CC 8TG 8001SL 1	BMSN Admin 	Middle School North Admin 	DMR 	Schools 
+464.08750 	469.08750  	WRAJ402 	RM	CC 7TG 7001SL 1	BMSS Admin 	Middle School South Admin 	DMR 	Schools 
+464.36250 	469.36250  	WRCM977 	RM	CC 1TG 1001SL 1	MT Voss MS Admin 	Mark T Voss Middle School Admin 	DMR 	Schools 
+409.81250 	   	 	RM	156 NAC	DEA 	DEA 	P25 	Federal 
+BrandMeister Texas	 DMR Conventional Networked	 Various	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	S & P Communications (Boerne)	 LTR Standard	 Boerne

@@ -1,15 +1,14 @@
-453.05000 	KNEF469 	RM	162.2 PL	AcadiaSO Disp BU 	Sheriff Backup for TRS 	FMN 	Law Dispatch 
-458.05000 	KNEF469 	M		AcadiaSO TA 1 BU 	Sheriff Backup Talkaround 1 	FMN 	Law Talk 
-453.05000 	KNEF469 	M	162.2 PL	AcadiaSO TA 2 BU 	Sheriff Backup Talkaround 2 	FMN 	Law Talk 
-155.15250 	WQZS974 	RM	186.2 PL	Acadia Fire Disp 	Parish Fire Alarm 	FMN 	Fire Dispatch 
-158.78250 	WQUU424 	BM		Iota VFD Disp 	Iota Vol. Fire Department District 4 	FMN 	Fire Dispatch 
-155.76750 	WQGE390 	RM	065 DPL	Egan VFD Disp 	Egan Vol. Fire District #2 	FMN 	Fire Dispatch 
-155.96250 	WQOJ445 	RM	156.7 PL	Acadia FPD10 DIs 	Fire Protection District 10 	FMN 	Fire Dispatch 
-154.74750 	WQFH562 	RM	100.0 PL	CPD-VHF 	Police Department VHF 	FMN 	Law Dispatch 
-855.96250 	WQQK334 	RM	293 NAC	CPD-800 	Crowley Police 800 	P25 	Law Dispatch 
-154.25000 	WQGG705 	BM	192.8 PL	CFD-DISP 	Fire Department 	FMN 	Fire Dispatch 
-155.28000 	WNCX864 	BM		ACADIAN-1 	Crowley Dispatch 	FMN 	EMS Dispatch 
-155.22000 	WNCX864 	BM		ACADIAN-2 	Alt Dispatch 	FMN 	EMS Dispatch 
-452.87500 	 	BM	023 DPL	Rayne Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-Acadia Parish Public Safety	 LTR Standard	 Crowley	CLECO Power (P25)	 Project 25 Phase II	 Pineville	Entergy 	 Project 25 Phase II
- Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	
+453.05000 	458.05000  	KNEF469 	RM	162.2 PL	AcadiaSO Disp BU 	Sheriff Backup for TRS 	FMN 	Law Dispatch 
+458.05000 	   	KNEF469 	M		AcadiaSO TA 1 BU 	Sheriff Backup Talkaround 1 	FMN 	Law Talk 
+453.05000 	   	KNEF469 	M	162.2 PL	AcadiaSO TA 2 BU 	Sheriff Backup Talkaround 2 	FMN 	Law Talk 
+155.15250 	159.24750  	WQZS974 	RM	186.2 PL	Acadia Fire Disp 	Parish Fire Alarm 	FMN 	Fire Dispatch 
+158.78250 	   	WQUU424 	BM		Iota VFD Disp 	Iota Vol. Fire Department District 4 	FMN 	Fire Dispatch 
+155.76750 	154.01750  	WQGE390 	RM	065 DPL	Egan VFD Disp 	Egan Vol. Fire District #2 	FMN 	Fire Dispatch 
+155.96250 	153.80750  	WQOJ445 	RM	156.7 PL	Acadia FPD10 DIs 	Fire Protection District 10 	FMN 	Fire Dispatch 
+154.74750 	158.94750  	WQFH562 	RM	100.0 PL	CPD-VHF 	Police Department VHF 	FMN 	Law Dispatch 
+855.96250 	810.96250  	WQQK334 	RM	293 NAC	CPD-800 	Crowley Police 800 	P25 	Law Dispatch 
+154.25000 	   	WQGG705 	BM	192.8 PL	CFD-DISP 	Fire Department 	FMN 	Fire Dispatch 
+155.28000 	   	WNCX864 	BM		ACADIAN-1 	Crowley Dispatch 	FMN 	EMS Dispatch 
+155.22000 	   	WNCX864 	BM		ACADIAN-2 	Alt Dispatch 	FMN 	EMS Dispatch 
+452.87500 	   	 	BM	023 DPL	Rayne Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+Acadia Parish Public Safety	 LTR Standard	 Crowley	CLECO Power (P25)	 Project 25 Phase II	 Pineville	Entergy 	 Project 25 Phase II	 Various

@@ -1,13 +1,13 @@
-154.13000 	KXG895 	BM	162.2 PL	LEX FIRE 1 	Lexington Co. Fire Service Dispatch 	FM 	Fire Dispatch 
-155.22000 	WZT951 	BM	203.5 PL	LEX EMS PAGE 	Lexington Co. EMS Paging 	FM 	Data 
-155.34000 	WZT951 	BM	203.5 PL	EMS HEAR 	Lexington Co. EMS to Hospital 	FM 	Hospital 
-460.05000 	KMK750 	BM	173.8 PL	Regional PD 	Regional Police Channel (Lexington PD Ch.4) 	FM 	Law Tac 
-453.96250 	WNYG270 	RM	CC 12TG 100SL 1	Lex Co Jail 	Jail 	DMR 	Corrections 
-453.96250 	 	RM	CC 12TG 100SL 2	Lex Co Jail 2 	Jail Ch 2 	DMR 	Corrections 
-460.42500 	KIK715 	RM	103.5 PL	Bate-Lees PD 	Batesburg-Leesville PD Dispatch 	FM 	Law Dispatch 
-154.23500 	KKR335  	BM		Cayce FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-460.60000 	KNGT933 	RM	173.8 PL	Cayce PD Dis 	Public Safety Dispatch 	FM 	Multi-Dispatch 
-460.15000 	KCL241 	RM	173.8 PL	Cyce/W Cola  	Cayce/West Cola PD talk & Riverwalk Emerg. Call Boxes 	FM 	Law Tac 
-Charleston Wireless Group/James White	 DMR Motorola Connect Plus (TRBO)	 Various	Columbia Tower Corp	 Motorola Type II Smartnet	 West Columbia	Eastman Chemical Company	 Motorola Type II
- Columbia	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Palmetto TRBO/Capital City TRBO	 DMR Motorola Connect Plus (TRBO)	 Columbia	SC HEART DMR Network
- DMR Conventional Networked	 Mulitple	SC Public Service Authority	 Project 25 Phase II	 Various	SCANA/SCE and G	 DMR Tier 3	 Various
+154.13000 	   	KXG895 	BM	162.2 PL	LEX FIRE 1 	Lexington Co. Fire Service Dispatch 	FM 	Fire Dispatch 
+155.22000 	   	WZT951 	BM	203.5 PL	LEX EMS PAGE 	Lexington Co. EMS Paging 	FM 	Data 
+155.34000 	   	WZT951 	BM	203.5 PL	EMS HEAR 	Lexington Co. EMS to Hospital 	FM 	Hospital 
+460.05000 	   	KMK750 	BM	173.8 PL	Regional PD 	Regional Police Channel (Lexington PD Ch.4) 	FM 	Law Tac 
+453.96250 	458.96250  	WNYG270 	RM	CC 12TG 100SL 1	Lex Co Jail 	Jail 	DMR 	Corrections 
+453.96250 	458.96250  	 	RM	CC 12TG 100SL 2	Lex Co Jail 2 	Jail Ch 2 	DMR 	Corrections 
+460.42500 	465.42500  	KIK715 	RM	103.5 PL	Bate-Lees PD 	Batesburg-Leesville PD Dispatch 	FM 	Law Dispatch 
+154.23500 	   	KKR335  	BM		Cayce FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+460.60000 	465.60000  	KNGT933 	RM	173.8 PL	Cayce PD Dis 	Public Safety Dispatch 	FM 	Multi-Dispatch 
+460.15000 	465.15000  	KCL241 	RM	173.8 PL	Cyce/W Cola  	Cayce/West Cola PD talk & Riverwalk Emerg. Call Boxes 	FM 	Law Tac 
+Charleston Wireless Group/James White	 DMR Motorola Connect Plus (TRBO)	 Various	Columbia Tower Corp	 Motorola Type II Smartnet	 West Columbia	Eastman Chemical Company	 Motorola Type II	 Columbia
+FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Palmetto TRBO/Capital City TRBO	 DMR Motorola Connect Plus (TRBO)	 Columbia	SC HEART DMR Network	 DMR Conventional Networked	 Mulitple
+SC Public Service Authority	 Project 25 Phase II	 Various	SCANA/SCE and G	 DMR Tier 3	 Various	

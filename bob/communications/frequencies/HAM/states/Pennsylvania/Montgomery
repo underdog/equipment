@@ -1,242 +1,241 @@
-851.41250 	WQUJ547 	M	223 DPL	MC PD Scene1 	Police On-Scene 1 	FM 	Law Tac 
-852.23750 	WQUJ547 	M	223 DPL	MC PD Scene2 	Police On-Scene 2 	FM 	Law Tac 
-852.76250 	WQUJ547 	M	223 DPL	MC PD Scene3 	Police On-Scene 3 	FM 	Law Tac 
-851.48750 	WQUJ547 	M	223 DPL	MC PD Scene4 	Police On-Scene 4 	FM 	Law Tac 
-852.98750 	WQUJ547 	M	223 NAC	MC PD Scene5 	Police On-Scene 5 	P25 	Law Tac 
-158.35500 	WPLT562 	B	CSQ	Mont FD/EMS 	Countywide Fire and EMS Dispatch 	FMN 	Fire Dispatch 
-154.02500 	WPLT562 	B	CSQ	Alpha Page 	Alpha POCSAG Paging System (No Voice) 	FMN 	Data 
-154.28000 	KUE698 	B	136.5 PL	Fire InterOp 	Nationwide Fire InterOp 	FMN 	Fire-Talk 
-460.31250 	KGA243 	M	136.5 PL	Montco LZ-1  	Medevac Landing Zone Coordination 	FMN 	Fire-Talk 
-465.31250 	KGA243 	M	136.5 PL	Montco LZ-2  	Medevac Landing Zone Coordination 	FMN 	Fire-Talk 
-463.05000 	KUU476 	RM	136.5 PL	EMS Med-3 	Nationwide Medical Control (Rarely Used) 	FMN 	EMS-Talk 
-852.21250 	 	M	136.5 PL	MC Fgrnd 1 	Fireground 1 	FM 	Fire-Tac 
-852.47500 	WQUJ547 	M	136.5 PL	MC Fgrnd 2 	Fireground 2 	FM 	Fire-Tac 
-852.61250 	WQUJ547 	M	136.5 PL	MC Fgrnd 3 	Fireground 3 	FM 	Fire-Tac 
-853.20000 	WQUJ547 	M	136.5 PL	MC Fgrnd 4 	Fireground 4 	FM 	Fire-Tac 
-853.42500 	WQUJ547 	M	136.5 PL	MC Fgrnd 5 	Fireground 5 	FM 	Fire-Tac 
-853.47500 	WQUJ547 	M	136.5 PL	MC Fgrnd 6 	Fireground 6 	FM 	Fire-Tac 
-853.50000 	WQUJ547 	M	136.5 PL	MC FP Local 	Fire Police Tactical 	FM 	Fire-Tac 
-851.45000 	WQUJ547 	M	136.5 PL	MC PSCL 1 	Public Safety Coordination Local 1 	FM 	Interop 
-851.51250 	WQUJ547 	M	136.5 PL	MC PSCL 2 	Public Safety Coordination Local 2 	FM 	Interop 
-853.01250 	WQUJ547 	RM	136.5 PL	MC Tac Rptr 	Field Comm Tactical Repeater 	FM 	Interop 
-453.51250 	KD30057 	RM	123.0 PL	MC UHF Event 	Field Comm Event Repeater 	FMN 	Interop 
-851.51250 	WQUJ547 	RM	136.5 PL	8MONT91 	8MONT91 	FM 	Interop 
-852.01250 	WQUJ547 	RM	136.5 PL	8MONT92 	8MONT92 	FM 	Interop 
-852.51250 	WQUJ547 	RM	136.5 PL	8MONT93 	8MONT93 	FM 	Interop 
-853.01250 	WQUJ547 	RM	136.5 PL	8MONT94 	8MONT94 	FM 	Interop 
-853.93750 	WQUJ547 	RM	136.5 PL	MC CH Ops 1 	Courthouse Operations 1 - Sheriffs and Security 	FM 	Law Talk 
-851.36250 	 	RM	136.5 PL	MC CH Ops 2 	Courthouse Operations 2 	FM 	Multi-Talk 
-851.58750 	 	RM	136.5 PL	MC CH Ops 3 	Courthouse Operations 3 	FM 	Multi-Talk 
-851.51250 	WQUJ547 	M	136.5 PL	MC Youth Ctr 	Youth Center Detention Facility 	FM 	Corrections 
-853.71250 	WQUJ547 	M	136.5 PL	MC Parks 	Parks & Heritage Services Dept. Local Channel 	FM 	Public Works 
-853.71250 	WQUJ547 	M	162.2 PL	Montco SPCA 	SPCA Local Channel 	FM 	Public Works 
-853.71250 	WQUJ547 	M	156.7 PL	MC PubPropty 	Public Property Dept. Local Channel 	FM 	Public Works 
-851.45000 	WQUJ547 	M	051 DPL	MC DPS Loc1 	Public Safety Dept. Local 1 	FM 	Emergency Ops 
-853.71250 	WQUJ547 	M	051 DPL	MC DPS Loc2 	Public Safety Dept. Local 2 	FM 	Emergency Ops 
-853.36250 	WQUJ547 	M	051 DPL	MC DPS Loc3 	Public Safety Dept. Local 3 	FM 	Emergency Ops 
-152.46500 	WQYS876 	BM	023 DPL	MCCF Ops 	Montgomery Co Correctional Facility 	FMN 	Corrections 
-153.77000 	KGC298 	M		EHFC 400 Loc 	Edge Hill FC (Sta 400) Local 	FMN 	Fire-Talk 
-154.07000 	KGC529 	BM	136.5 PL	Abngtn Red 	Fire Department Red Band (TRS Backup) 	FMN 	Fire-Talk 
-460.02500 	KNHC269 	RM	023 DPL	Abngtn Muni 	Municipal Service Operations 	FMN 	Public Works 
-460.17500 	KNHC269 	RM	023 DPL	Abngtn PD IO 	Police InterOp 	FMN 	Law Talk 
-465.48750 	KNHC269 	BM	023 DPL	Abngtn PD TA 	Police Tactical 	FMN 	Law Tac 
-155.82000 	KJS805 	RM	203.5 PL	Abngtn PW 	Public Works Operations 	FMN 	Public Works 
-39.18000 	KNHC269 	BM	CSQ	Abngtn Watch 	Townwatch Operations 	FM 	Security 
-154.35500 	KNBY373 	M	CSQ	Wisahkn Fire 	Wissahickon Fire Company 	FMN 	Fire-Talk 
-155.14500 	WNUD831 	RM		Ambler PW 	Ambler Borough - Public Works 	NXDN 	Public Works 
-154.16000 	KNNS559 	BM	114.8 PL	Brdgprt Fire 	Fire Local 	FMN 	Fire-Talk 
-156.18000 	KNBQ249 	BM	107.2 PL	Brdgprt PD 	Police Local 	FMN 	Law Talk 
-158.85000 	KGA404 	BM	136.5 PL	Chelt Reg 5 	Fire Region 5 Rebroadcast 	FMN 	Fire-Talk 
-155.02500 	KRX559 	BM	167.9 PL	Chelt DPW 	Public Works 	FMN 	Public Works 
-460.10000 	KNHC270 	RM	023 DPL	Chelt EMA 	EMA 	FMN 	Emergency Ops 
-154.20500 	KGG324 	B	136.5 PL	CvilleFD 800 	Collegeville Fire Co. No. 1 TRS Rebroadcast 	FMN 	Fire-Talk 
-155.70000 	WNBN244 	RM	203.5 PL	Cville PD/FD 	Borough Public Safety Coordination 	FMN 	Interop 
-461.08750 	 	RM	606 DPL	CvilleFD 	Collegeville Fire Co. No. 1 	FMN 	Fire-Tac 
-154.04000 	WNLY783 	RM	156.7 PL	Conshy PW 	Public Works 	FMN 	Public Works 
-45.12000 	 	BM		DouglassM PW 	Public Works 	FM 	Public Works 
-453.82500 	WYK376 	RM	CC 12TG 113SL 2	ENT FD Local 	Fire Local (Encrypted) 	DMRE 	Fire-Talk 
-460.26250 	WYK376 	RM	CC 11TG 111SL 1	ENT PD Local 	Police Local (Encrypted) 	DMRE 	Law Talk 
-45.12000 	WSL750 	BM		Franconia PW 	Public Works 	FM 	Public Works 
-155.42250 	WSL750 	BM	172 DPL	Franconia PD 	Police Local 	FMN 	Law Talk 
-156.24000 	WNCU447 	BM	127.3 PL	Hatboro PW 	Hatboro Borough - Public Works 	FMN 	Public Works 
-500.93750 	WIJ500 	RM	136.5 PL	Hatboro PDFD 	Hatboro Borough - Police / Fire Local 	FMN 	Multi-Talk 
-156.10500 	WNVH524 	BM		Hatfld B PW 	Hatfield Borough - Public Works 	FMN 	Public Works 
-154.29500 	KGF244 	M	107.2 PL	Colmar FC 	Colmar Fire Company 	FMN 	Fire-Talk 
-154.11500 	KGK712 	BM		Hatfield DPW 	Public Works Operations 	FMN 	Public Works 
-155.31000 	WXW435 	RM	107.2 PL	Hatfield PD 	Police Local 	FMN 	Law Talk 
-506.31250 	WII716 	RM	136.5 PL	Horsham PD 	Horsham Township - Police Local 	FMN 	Law Talk 
-154.19000 	KGE438 	B	136.5 PL	Sta 14 Reg 3 	Fairmount Fire Co. of Lansdale - Fire Region 3 Rebroadcast 	FMN 	Fire-Talk 
-153.50000 	KNAI669 	BM		Lansdale PW 	Public Works 	FMN 	Public Works 
-155.64000 	KGK647 	RM	107.2 PL	Lansdale PD 	Police VHF Primary 	FMN 	Law Tac 
-153.92000 	KNID768 	RM	151.4 PL	Limerick PW 	Public Works 	FM 	Public Works 
-155.14500 	KNID768 	RM	131.8 PL	Limerick PD 	Police Local 	FM 	Law Talk 
-152.46500 	WQOU799 	B	91.5 PL	Limerick 800 	Police (Reg 2) and Fire (Regs 2/3) TRS Rebroadcast 	FMN 	Multi-Dispatch 
-153.92000 	WPCZ975 	RM	82.5 PL	Lwr Fred PW 	Public Works (Shared with Upper Frederick Twp.) 	FMN 	Public Works 
-158.31750 	WQNL854 	M		LFFC VHF FG1 	Lower Frederick Fire Co. VHF Fireground 1 	FMN 	Fire-Tac 
-153.05750 	WQNL854 	M		LFFC VHF FG2 	Lower Frederick Fire Co. VHF Fireground 2 	FMN 	Fire-Tac 
-155.86500 	KAO482 	RM	156.7 PL	Lwr Gwynd PD 	Police Local Repeater 	FM 	Law Talk 
-155.89500 	KAO482 	BM	156.7 PL	Lwr Gwynd PD 	Police Car-to-Car 	FM 	Law Talk 
-156.18000 	WNUV981 	BM	107.2 PL	Lwr Gwynd PW 	Public Works 	FMN 	Public Works 
-460.27500 	WPMV633 	RM	131.8 PL	LMPD Disp. 	Police Dispatch Back-up (TRS Failsoft) 	FMN 	Law Dispatch 
-460.52500 	WPMV633 	RM	131.8 PL	LwrMrn PW 	Public Works Conventional 	FMN 	Public Works 
-151.34000 	WQDX655 	B	606 DPL	LMFD Disp 	Fire Dept - Dispatch Rebroadcast 	FMN 	Fire Dispatch 
-156.03750 	WQLD485 	B	100.0 PL	LMFD Reg 4 	Fire Dept - Fire Region 4 Rebroadcast 	FMN 	Fire-Tac 
-460.61250 	WPMD220 	RM	114.8 PL	LMFD Main Ops 	Fire Dept - Main Repeater 	FMN 	Fire-Tac 
-453.60000 	WQDN468 	RM	606 DPL	LMFD Backup  	Fire Dept - Backup Repeater 	FMN 	Fire-Tac 
-458.41250 	KGC984 	M	141.3 PL	Penn Wyn FG 	Fire Dept - Fireground 1 (Penn Wynne - Sta 21) 	FMN 	Fire-Tac 
-458.21250 	KGC984 	M	141.3 PL	BlmntHill FG 	Fire Dept - Fireground 2 (Belmont Hills - Sta 22) 	FMN 	Fire-Tac 
-458.23750 	KGC984 	M	141.3 PL	Bryn Mawr FG 	Fire Dept - Fireground 3 (Bryn Mawr - Sta 23) 	FMN 	Fire-Tac 
-458.26250 	KGC984 	M	141.3 PL	Gladwyne FG 	Fire Dept - Fireground 4 (Gladwyne - Sta 24) 	FMN 	Fire-Tac 
-458.28750 	KGC984 	M	141.3 PL	Merion FG 	Fire Dept - Fireground 5 (Merion/Ardmore - Sta 25); County Fireground 4 Crossband 	FMN 	Fire-Tac 
-458.36250 	KGC984 	M	141.3 PL	Narbrth FG 	Fire Dept - Fireground 6 (Narberth - Sta 26) 	FMN 	Fire-Tac 
-458.53750 	KGC984 	M	141.3 PL	Union FG 	Fire Dept - Fireground 8  (Union/Bala Cynwyd - Sta 28) 	FMN 	Fire-Tac 
-155.95500 	KJG999 	BM		Lwr Mor Twp  	Lower Moreland Township - Public Works 	FMN 	Public Works 
-460.50000 	WNPU375 	RM	023 DPL	Lwr Mor PD 	Lower Moreland Township - Police Local 	FMN 	Law Talk 
-154.25000 	KGE954 	BM	85.4 PL	LPFD Fire 1 	Fire Dept. - HIghband Ops 	FMN 	Fire-Tac 
-152.94500 	WPUY899 	RM	151.4 PL	LPFD 800 	Fire Dept. - Highband TRS Rebroadcast (Fire Regions 1, 2, 3, 4, 6) 	FMN 	Fire-Talk 
-33.62000 	KGE954 	B	136.5 PL	LPFD 33.62 	Fire Dept. - Dispatch (Highband to Lowband) 	FM 	Fire Dispatch 
-153.92000 	KNGU560 	RM	146.2 PL	Lwr Prov PW 	Public Works 	FMN 	Public Works 
-155.70000 	WNBN243 	RM	146.2 PL	LPPD Local 	PD Dispatch Back-up 	FMN 	Law Dispatch 
-155.04750 	WXQ936 	RM	072 DPL	Lwr Salford PD  	Police 	FMN 	Public Works 
-155.78250 	WQX936 	RM	074 DPL	Lwr Salford PW  	Public Works 	FMN 	Public Works 
-158.74500 	WQAD765 	RM		Marl Twp PW 	Marlborough Township - Public Works / Police Local 	FMN 	Public Works 
-155.61000 	WNDP682 	RM	123.0 PL	Mont Twp PD1 	Police VHF 1 (Backup to TRS) 	FMN 	Law Dispatch 
-154.99500 	KSL431 	RM	123.0 PL	Mont Twp PD2 	Police VHF 2 (Backup to TRS) 	FMN 	Law Talk 
-158.77500 	KSL431 	M	107.2 PL	Mont Twp PD3 	Police VHF 3 (Backup to TRS) 	FMN 	Law Tac 
-153.01250 	WQRI568 	RM		FDMT 18 Tac 	Fire Dept VHF 	FMN 	Fire-Tac 
-150.99500 	WNBK764 	RM	156.7 PL	New Han Twp 	Police/Public Works 	FMN 	Law Talk 
-154.32500 	KGE336 	B	136.5 PL	NFD Reg 6/Event6 	Fire Region 6/Event 6 Rebroadcast 	FMN 	Fire-Talk 
-154.37000 	KGE366 	RM	136.5 PL	NFD/NPW Snow 	Fire/Public Works Snow Ops 	FMN 	Multi-Talk 
-155.11500 	KDR392 	RM	10 RAN	Nrstwn PubWx 	Public Works (TG 1) 	NXDN 	Public Works 
-153.45500 	KLG866 	RM	107.2 PL	N Penn Water 	North Penn Water Authority 	FMN 	Utilities 
-156.10500 	KNCL541 	BM		N Wales PW 	Public Works 	FMN 	Public Works 
-155.70000 	WNBN325 	RM	532 DPL	Perkiomen FC 	Perkiomen Twp. Fire Co. - VHF Tac 	FMN 	Fire-Tac 
-153.92000 	KNID769 	RM	151.4 PL	Perkiomen PW 	Public Works 	FMN 	Public Works 
-453.57500 	WNHG262 	RM	156.7 PL	Plymth 3 PW 	Public Works  	FMN 	Public Works 
-453.87500 	WNHG262 	RM	156.7 PL	Plymth1 FDPD 	Fire Local 	FMN 	Fire-Talk 
-453.52500 	WNHG262 	RM	173.8 PL	Plymth 2 PD  	Police Local 	FMN 	Law Talk 
-460.37500 	WQRU973 	RM	174 DPL	HFC Tac 	Harmonville Fire Company 	FMN 	Fire-Tac 
-155.24250 	WQAC649 	BM		EMS 329 Ops 	Goodwill Steam Fire Engine Company - EMS Ops 	FMN 	EMS-Talk 
-158.41500 	WQGK601 	BM		Sta69B Reg2 	Phillies Fire Co. (Sta. 69-B) - Fire Region 2 Rebroadcast 	FMN 	Fire-Talk 
-155.83500 	KSQ734 	BM	156.7 PL	Potstwn PW 	 Public Works / Code Enforcement 	FMN 	Public Works 
-156.13500 	KGC999 	BM	173.8 PL	Sta 84 Reg 2 	Humane Fire Co. - Fire Region 2 Rebroadcast 	FMN 	Fire-Talk 
-158.82000 	KXL419 	BM	173.8 PL	RoyersfordPW 	Public Works 	FMN 	Public Works 
-153.14750 	WQPF737 	RM	306 DPL	TVFC Ops.  	Tylersport Volunteer Fire Company Operations 	FMN 	Fire-Talk 
-158.83500 	KNFK286 	BM		Salford Twp 	Public Works 	FMN 	Public Works 
-152.34500 	WPVY503 	RM		Sta 86 Rptr 	Skippack Fire Company 	FMN 	Fire-Talk 
-151.01000 	WNQZ423 	BM	123.0 PL	Soudrtn PD 	Police Local 	FMN 	Law Talk 
-452.23750 	WQXW837 	RM	206.5 PL	PFC Tac 	Perseverance Fire Company - Tactical 	FMN 	Fire-Tac 
-154.84500 	KQM627 	RM	131.8 PL	Sprngfld PD 	Police Local 	FMN 	Law Tac 
-151.12250 	KQM627 	RM	131.8 PL	Sprngfld PW 	Public Works 	FMN 	Public Works 
-154.20500 	WQCM526 	BM	136.5 PL	Orelnd Reg 6 	Oreland Fire Company - Fire Region 6 Rebroadcast 	FMN 	Fire-Talk 
-151.07000 	KNHG373 	BM	123.0 PL	Telford PD 	Police local 	FMN 	Law Talk 
-152.99000 	 	M	074 DPL	Telford DU 1 	Telford Dive Team - Primary ***Occasional Voice Inversion*** 	FMN 	Other 
-151.88000 	 	M	074 DPL	Telford DU 2 	Telford Dive Team - Secondary (MURS) 	FMN 	Other 
-151.94000 	 	M	074 DPL	Telford DU 3 	Telford Dive Team - Secondary (MURS) 	FMN 	Other 
-155.92500 	KCR921 	BM		Twmncn Reg 3 	Towamencin Volunteer Fire Co. - Fire Region 3 Rebroadcast 	FMN 	Fire-Talk 
-154.96500 	WYK345 	RM	107.2 PL	Towmncn PDFD 	Police Local (also used by FD) 	FMN 	Multi-Tac 
-156.24000 	WNUM831 	RM		Towmencn PW 	Public Works 	FMN 	Public Works 
-152.36750 	WQLU337 	RM	466 DPL	Trappe Fire 	Trappe Fire Co No. 1 	FMN 	Fire-Talk 
-152.90750 	WPZR497 	M	226 DPL	Sta. 88 FP 	Fort Washington Fire Company - Fire Police 	FMN 	Fire-Talk 
-151.73750 	WPZR497 	M	226 DPL	Sta. 88 VHF 	Fort Washington Fire Company 	FMN 	Fire-Tac 
-154.05500 	WPYF301 	BM	179.9 PL	Upr Dbln PW 	Public Works 	FMN 	Public Works 
-460.55000 	WNGL406 	RM	41 RAN	Upr Dbln PD 	Police Tac (TG 1) 	NXDN 	Law Tac 
-153.92000 	WPCZ975 	RM	173.8 PL	Upr Fred PW 	Public Works 	FMN 	Public Works 
-154.98000 	KRA485 	RM	107.2 PL	Upr Gwynd PW 	Public Works 	FMN 	Public Works 
-155.53500 	KUG809 	BM	107.2 PL	Upr Gwynd PD 	Police Tac 	FMN 	Law Tac 
-158.74500 	KBF471 	RM		Upper Han PW 	Upper Hanover Township - Public Works 	FMN 	Public Works 
-858.41250 	WNNP372 	RM	123.0 PL	UMPD Local 	Police Local Repeater 	FM 	Law Talk 
-501.87500 	WQKH525 	RM	CC 5TG 56001SL 1	UMPD Tac 	Police Tac 	DMRE 	Law Tac 
-154.81500 	KFT233 	RM	131.8 PL	UM Pub Wrks 	Public Works 	FMN 	Public Works 
-461.83750 	WQBX201 	RM	192.8 PL	UM Twp Rpt 	Township Repeater (Police Desk to Fire Services) 	FMN 	Interop 
-856.21250 	WQFV996 	RM		KPVFC 800 	King of Prussia Fire Company 	FM 	Fire-Talk 
-460.56250 	WPYG991 	M	156 DPL	UM 47 FG 	King of Prussia Fire Company - 47 Fireground 	FMN 	Fire-Talk 
-501.87500 	WQKH525 	RM	CC 5TG 317SL 2	Lafayette Ops 	Lafayette Ambulance Tac 	DMRE 	EMS-Tac 
-461.83750 	WQBX201 	RM	79.7 PL	UM 48 Rptr 	Swedeland Fire Co. - 48 Repeater 	FMN 	Fire-Tac 
-460.63750 	NA 	M	023 DPL	UM 48 FG 	Swedeland Fire Co. - 48 Fireground 	FM 	Fire-Talk 
-460.47500 	KB87274 	RM	156 DPL	UM 49 Rptr 	Swedesburg Fire Co. - 49 Repeater 	FMN 	Fire-Tac 
-465.61250 	NA 	M	136.5 PL	UM 49 FG 	Swedesburg Fire Co. - 49 Fireground 	FM 	Fire-Talk 
-156.07500 	KGC578 	BM	136.5 PL	Wlw Grv Reg5 	Willow Grove Fire Company - Fire Region 5 Rebroadcast 	FM 	Fire-Tac 
-460.05000 	KNIE338 	RM	023 DPL	UprMrllnd PD 	Upper Moreland Township - Police Tactical 	FM 	Law Tac 
-154.41500 	WPTS895 	BM	146.2 PL	BRVFC VHF 	Black Rock Volunteer Fire Company 	FMN 	Fire-Talk 
-152.45750 	WQPC878 	RM	612 DPL	Upper Prv PW 	Public Works (plow crews) 	FMN 	Public Works 
-155.70000 	WPRV784 	RM	167.9 PL	Upper Prv PD 	Police Local/EMA 	FMN 	Law Talk 
-153.92000 	WNBM891 	RM	107.2 PL	Upr Slfrd PW 	Upper Salford Townshp - Public Works 	FM 	Public Works 
-453.70000 	WNMB942 	RM	156.7 PL	Sta 39 FG 	George Clay Fire Company - Fireground 	FMN 	Fire-Tac 
-453.85000 	WPFS683 	RM	74.4 PL	W Conshy PD 	West Conshohocken Borough - Police / Fire Local 	FMN 	Law Talk 
-453.90000 	WQDU473 	RM	156 DPL	JFC FG 	Jefferson Fire Company - Fireground Operations 	FMN 	Fire-Talk 
-153.96500 	WNUN582 	RM	107.2 PL	Wst Nrtn EMA 	Police/EMA Repeater 	FMN 	Law Talk 
-154.05500 	WNRW759 	BM	107.2 PL	Wst Nrtn PW 	Public Works 	FMN 	Public Works 
-154.08500 	KNEH272 	BM	97.4 PL	W Ptsgrv PD 	West Pottsgrove Township - Police Tac 	FMN 	Law Tac 
-155.80500 	KRC621 	RM	103.5 PL	Whtmrsh PDPW 	Police Local and Public Works 	FMN 	Law Talk 
-159.23250 	KRC261 	BM	CC 9TG 32SL 1	WTP Local 	Whitemarsh Twp - Police Local 	DMR 	Law Talk 
-453.67500 	WNCW536 	RM	46 RAN	Whitpain PD 	Police Local (TG 1) 	NXDN 	Law Talk 
-453.38750 	WNCW536 	BM	156.7 PL	Whitpain PW 	Public Works 	FMN 	Public Works 
-159.29250 	WQRV871 	RM	CC 1TG *SL *	WVFC 83 Local 	Worcester Volunteer Fire Co. Local 	DMR 	Fire-Tac 
-153.13250 	 	RM		HAEMS 344 	HAEMS 344 VHF Tac 	FMN 	EMS-Tac 
-464.00000 	WQBX201 	RM		308 UHF Ops 	Plymouth Community Ambulance - UHF Repeater 	DMRE 	EMS-Talk 
-453.21250 	KQS676 	RM	CC 6TG 1308308SL 1	PCAA Private 	Plymouth Community Ambulance Assoc - Private 	DMRE 	EMS-Tac 
-460.28750 	KQS676 	RM		Medic308 UHF 	Operations Repeater 	DMRE 	EMS-Talk 
-453.07500 	KLL750 	RM	114.8 PL	SARS 380 UHF1  	Operations 	FMN 	EMS-Talk 
-462.97500 	KLL750 	M	136.5 PL	SARS 380 UHF2  	Details / Events 	FMN 	EMS-Tac 
-453.07500 	KLL750 	RM	79.7 PL	SARS 380 AMH 	Abington Hospital Emergency Room 	FMN 	EMS-Talk 
-153.29750 	WQOF363 	RM	306 DPL	VMSC 345 Ops 	VMSC Lansdale Operations Repeater 	FMN 	EMS-Talk 
-153.29750 	WQOF363 	RM	612 DPL	VMSC CMMC ER 	VMSC Medic 345 to Central Montgomery Medical Center ER 	FMN 	EMS-Talk 
-453.02500 	WPKH542 	RM	054 DPL	VMSC 313 UHF 	VMSC Narberth Ops 	FMN 	EMS-Talk 
-154.51500 	WNGS741 	BM		ASD Ops 	Abington School District operations 	FM 	Schools 
-155.29500 	KQL756 	BM	226 DPL	ASD Transp 	Transportation 	FMN 	Schools 
-151.89500 	KNAK284 	BM	071 DPL	HH Schools 	Hatboro Horsham School District 	FM 	Schools 
-153.72500 	WRAK673 	RM	CC 1TG 1SL *	HHSD Buses 	Transportation 	DMR 	Schools 
-463.56250 	WQJZ688 	RM	664 DPL	LCHS Ops 	School Operations 	FMN 	Schools 
-451.28750 	WQHH927 	RM	CC 7TG 1SL 1	HHS Admin 	Harriton High School - Administration/Campus Aides 	DMR 	Schools 
-452.28750 	WQGB608 	RM	CC 11TG *SL 1	LMHS 1 	Lower Merion High School - Administration/Campus Aides 	DMR 	Schools 
-452.28750 	WQGB608 	RM	CC 11TG *SL 2	LMHS 2 	Lower Merion High School - Custodial 	DMR 	Schools 
-462.28750 	WQGB608 	RM	315 DPL	BCMS Admin 	Bala Cynwyd Middle School - Administration 	FMN 	Schools 
-151.92500 	WPYN373 	RM	364 DPL	LMSD Buses 	Transportation 	FMN 	Schools 
-155.73000 	WNED345 	RM	186.2 PL	Methacton Tr 	Methacton School District Transportation 	FMN 	Schools 
-151.73000 	KKZ782 	RM	118.8 PL	NorristownHS 	Norristown Area High School 	FMN 	Schools 
-154.54000 	KKZ782 	BM	114.8 PL	NASD Transp 	Norristown Area School District - Transportation 	FMN 	Schools 
-155.17500 	KNJB685 	BM		NorthPenn SD 	North Penn School District 	FMN 	Schools 
-151.74500 	WPLF218 	BM	156.7 PL	Perkiomen HS Adm 	Perkiomen Valley HS Administration 	FMN 	Schools 
-155.22000 	WPUX982 	BM		Perkiomen SD Bus 	Perkiomen Valley School District Transportation - School Buses 	FMN 	Schools 
-451.03750 	WPRA543 	RM	CC 10TG 2SL 2	PMS Admin 	Pottsgrove Middle School - Administration 	DMR 	Schools 
-463.91250 	WPRA543 	RM	CC 10TG 4SL 1	LPES Admin 	Lower Pottsgrove Elementary School - Administration 	DMR 	Schools 
-502.23750 	WII436 	RM	156.7 PL	SFASD Buses 	Transportation 	FMN 	Schools 
-152.30000 	WRDS858 	BM	CC 5TG 1001SL *	SSD Buses 	Transportation 	DMR 	Schools 
-155.22000 	WPCE587 	BM	127.3 PL	Springfld SD 	Springfield School District 	FMN 	Schools 
-463.80000 	WQNU437 	RM	67.0 PL	UprMerion Buses 	School Buses 	FMN 	Schools 
-464.66250 	WQFC670 	RM		UprMerion SD 	District Operations 	FMN 	Schools 
-151.77500 	WQYK728 	RM	364 DPL	UMSD Trans 	Transportation 	FMN 	Schools 
-464.02500 	WQTU646 	RM	205 DPL	Wissah Buses 	School Buses 	FMN 	Schools 
-464.07500 	WPMG227 	RM	162.2 PL	Arcadia Maint  	Maintenance 	FMN 	Schools 
-453.00000 	WPMG227 	RM	162.2 PL	Arcadia Security 	Public Safety Dispatch 	FMN 	Security 
-451.76250 	WNWH262 	RM	110.9 PL	BMC Security 	Security Dispatch 	FMN 	Security 
-452.16250 	WNWH262 	RM	205 DPL	BMC Maint 	Maintenance 	FMN 	Schools 
-461.63750 	WNWH262 	RM	210.7 PL	BMC Housekeep 	Housekeeping 	FMN 	Schools 
-461.30000 	WPVV433 	RM	CC 7TG 1000SL 1	Gwyn Mercy PS 	Gwynedd Mercy Public Safety 	DMR 	Schools 
-461.38750 	WQTD984 	RM	165 DPL	Harcum safety 	Harcum College Campus safety 	FMN 	Security 
-451.85000 	WPWY921 	RM	203.5 PL	SchoolSec 	Hill School Security 	FMN 	Schools 
-461.71250 	WPCG378 	M		Hill School 	Hill School - Pottstown 	FM 	Schools 
-462.47500 	WPRF739 	RM	146.2 PL	MCCC PS Call 	MCCC Public Safety Call Boxes 	FMN 	Schools 
-463.33750 	WQHB490 	RM	10 RAN	MCCC PD Disp 	MCCC Public Safety Dispatch 	NXDNE 	Schools 
-464.63750 	WQHB490 	RM	023 DPL	MCCC Maintenance 	MCCC Maintenance 	FMN 	Schools 
-464.47500 	KVL680 	RM		PSU Ogontz 	Penn State University - Ogontz Campus 	FMN 	Schools 
-451.23750 	WQNX428  	BM	223 DPL	St Gabes Ops 1 	Ops 1 	FMN 	Schools 
-467.17500 	WQNX428  	BM	74.4 PL	St Gabes Ops 2 	Ops 2 	FMN 	Schools 
-463.68750 	WRDU629 	BM	110.9 PL	Shipley Ops 	Operations 	FMN 	Schools 
-464.77500 	WNIE265 	BM	156.7 PL	MLS Ops 	Operations, Silver Springs Martin Luther School operations 	FMN 	Schools 
-460.40000 	WQBY672 	RM	CC 1TG 1SL 1	Temple U PD 	Police (Ambler & Ft. Washington Campuses) 	DMR 	Law Dispatch 
-451.40000 	WQFM916 	RM	CC 9TG 2SL 1	THS Maint 	Maintenance 	DMR 	Schools 
-452.00000 	WQFM916 	RM	CC 4TG 3SL 2	THS Custodial 	Custodians 	DMR 	Schools 
-451.57500 	WPKD453 	RM		Ursinus Coll 	College Use 	FMN 	Schools 
-464.67500 	WPKD453 	RM	146.2 PL	Ursinus Maint 	Campus Maintenance 	FMN 	Schools 
-464.72500 	WPKD453 	RM	CC 9TG 500SL 1	Ursinus Col Sfty 	Campus Safety 	DMR 	Schools 
-463.27500 	WQSM578 	RM	233.6 PL	WMA Admin 	Administration 	FMN 	Schools 
-Albert Einstein Medical Center - Montgomery	 NXDN Icom IDAS Type D	 East Norriton	Commpaths	 NXDN Icom IDAS Type D	 Various	FleetCall	 NXDN NEXEDGE 4800
- Various	Foulkeways at Gywnedd	 DMR Motorola Capacity Plus Single Site (TRBO)	 Gywnedd	Interstate Repeater System	 DMR Conventional Networked	 Various	Lower Merion School District
- DMR Conventional Networked	 Gladwyne	Lower Merion Township	 DMR Tier 3	 Lower Merion Township	Merck DMR	 DMR Motorola Connect Plus (TRBO)	 West Point
-Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Montgomery County (P25)	 Project 25 Phase II	 Eagleville	Montgomery County PA	 Motorola Type II SmartZone
- Various	Nextel (Wyndmoor)	 Motorola Type II Smartnet	 Wyndmoor	North Penn School Distrct	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Lansdale	PECO Energy
- Project 25 Phase I	 Philadelphia	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide
-Scott Communications (Eagleville)	 LTR Standard	 Eagleville	Southeastern Pennsylvania Transportation Authority (SEPTA)	 Motorola Type II Smartnet	 Various	Sunshine Communications (Eagleville)	 LTR Standard
- Eagleville	Sunshine Communications (Malvern)	 LTR Standard	 Malvern	
+851.41250 	   	WQUJ547 	M	223 DPL	MC PD Scene1 	Police On-Scene 1 	FM 	Law Tac 
+852.23750 	   	WQUJ547 	M	223 DPL	MC PD Scene2 	Police On-Scene 2 	FM 	Law Tac 
+852.76250 	   	WQUJ547 	M	223 DPL	MC PD Scene3 	Police On-Scene 3 	FM 	Law Tac 
+851.48750 	   	WQUJ547 	M	223 DPL	MC PD Scene4 	Police On-Scene 4 	FM 	Law Tac 
+852.98750 	   	WQUJ547 	M	223 NAC	MC PD Scene5 	Police On-Scene 5 	P25 	Law Tac 
+158.35500 	   	WPLT562 	B	CSQ	Mont FD/EMS 	Countywide Fire and EMS Dispatch 	FMN 	Fire Dispatch 
+154.02500 	   	WPLT562 	B	CSQ	Alpha Page 	Alpha POCSAG Paging System (No Voice) 	FMN 	Data 
+154.28000 	   	KUE698 	B	136.5 PL	Fire InterOp 	Nationwide Fire InterOp 	FMN 	Fire-Talk 
+460.31250 	   	KGA243 	M	136.5 PL	Montco LZ-1  	Medevac Landing Zone Coordination 	FMN 	Fire-Talk 
+465.31250 	   	KGA243 	M	136.5 PL	Montco LZ-2  	Medevac Landing Zone Coordination 	FMN 	Fire-Talk 
+463.05000 	468.05000  	KUU476 	RM	136.5 PL	EMS Med-3 	Nationwide Medical Control (Rarely Used) 	FMN 	EMS-Talk 
+852.21250 	   	 	M	136.5 PL	MC Fgrnd 1 	Fireground 1 	FM 	Fire-Tac 
+852.47500 	   	WQUJ547 	M	136.5 PL	MC Fgrnd 2 	Fireground 2 	FM 	Fire-Tac 
+852.61250 	   	WQUJ547 	M	136.5 PL	MC Fgrnd 3 	Fireground 3 	FM 	Fire-Tac 
+853.20000 	   	WQUJ547 	M	136.5 PL	MC Fgrnd 4 	Fireground 4 	FM 	Fire-Tac 
+853.42500 	   	WQUJ547 	M	136.5 PL	MC Fgrnd 5 	Fireground 5 	FM 	Fire-Tac 
+853.47500 	   	WQUJ547 	M	136.5 PL	MC Fgrnd 6 	Fireground 6 	FM 	Fire-Tac 
+853.50000 	   	WQUJ547 	M	136.5 PL	MC FP Local 	Fire Police Tactical 	FM 	Fire-Tac 
+851.45000 	   	WQUJ547 	M	136.5 PL	MC PSCL 1 	Public Safety Coordination Local 1 	FM 	Interop 
+851.51250 	   	WQUJ547 	M	136.5 PL	MC PSCL 2 	Public Safety Coordination Local 2 	FM 	Interop 
+853.01250 	808.01250  	WQUJ547 	RM	136.5 PL	MC Tac Rptr 	Field Comm Tactical Repeater 	FM 	Interop 
+453.51250 	458.51250  	KD30057 	RM	123.0 PL	MC UHF Event 	Field Comm Event Repeater 	FMN 	Interop 
+851.51250 	806.51250  	WQUJ547 	RM	136.5 PL	8MONT91 	8MONT91 	FM 	Interop 
+852.01250 	807.01250  	WQUJ547 	RM	136.5 PL	8MONT92 	8MONT92 	FM 	Interop 
+852.51250 	807.51250  	WQUJ547 	RM	136.5 PL	8MONT93 	8MONT93 	FM 	Interop 
+853.01250 	808.01250  	WQUJ547 	RM	136.5 PL	8MONT94 	8MONT94 	FM 	Interop 
+853.93750 	808.93750  	WQUJ547 	RM	136.5 PL	MC CH Ops 1 	Courthouse Operations 1 - Sheriffs and Security 	FM 	Law Talk 
+851.36250 	806.36250  	 	RM	136.5 PL	MC CH Ops 2 	Courthouse Operations 2 	FM 	Multi-Talk 
+851.58750 	806.58750  	 	RM	136.5 PL	MC CH Ops 3 	Courthouse Operations 3 	FM 	Multi-Talk 
+851.51250 	   	WQUJ547 	M	136.5 PL	MC Youth Ctr 	Youth Center Detention Facility 	FM 	Corrections 
+853.71250 	   	WQUJ547 	M	136.5 PL	MC Parks 	Parks & Heritage Services Dept. Local Channel 	FM 	Public Works 
+853.71250 	   	WQUJ547 	M	162.2 PL	Montco SPCA 	SPCA Local Channel 	FM 	Public Works 
+853.71250 	   	WQUJ547 	M	156.7 PL	MC PubPropty 	Public Property Dept. Local Channel 	FM 	Public Works 
+851.45000 	   	WQUJ547 	M	051 DPL	MC DPS Loc1 	Public Safety Dept. Local 1 	FM 	Emergency Ops 
+853.71250 	   	WQUJ547 	M	051 DPL	MC DPS Loc2 	Public Safety Dept. Local 2 	FM 	Emergency Ops 
+853.36250 	   	WQUJ547 	M	051 DPL	MC DPS Loc3 	Public Safety Dept. Local 3 	FM 	Emergency Ops 
+152.46500 	   	WQYS876 	BM	023 DPL	MCCF Ops 	Montgomery Co Correctional Facility 	FMN 	Corrections 
+153.77000 	   	KGC298 	M		EHFC 400 Loc 	Edge Hill FC (Sta 400) Local 	FMN 	Fire-Talk 
+154.07000 	   	KGC529 	BM	136.5 PL	Abngtn Red 	Fire Department Red Band (TRS Backup) 	FMN 	Fire-Talk 
+460.02500 	465.02500  	KNHC269 	RM	023 DPL	Abngtn Muni 	Municipal Service Operations 	FMN 	Public Works 
+460.17500 	465.17500  	KNHC269 	RM	023 DPL	Abngtn PD IO 	Police InterOp 	FMN 	Law Talk 
+465.48750 	   	KNHC269 	BM	023 DPL	Abngtn PD TA 	Police Tactical 	FMN 	Law Tac 
+155.82000 	159.39000  	KJS805 	RM	203.5 PL	Abngtn PW 	Public Works Operations 	FMN 	Public Works 
+39.18000 	   	KNHC269 	BM	CSQ	Abngtn Watch 	Townwatch Operations 	FM 	Security 
+154.35500 	   	KNBY373 	M	CSQ	Wisahkn Fire 	Wissahickon Fire Company 	FMN 	Fire-Talk 
+155.14500 	   	WNUD831 	RM		Ambler PW 	Ambler Borough - Public Works 	NXDN 	Public Works 
+154.16000 	   	KNNS559 	BM	114.8 PL	Brdgprt Fire 	Fire Local 	FMN 	Fire-Talk 
+156.18000 	   	KNBQ249 	BM	107.2 PL	Brdgprt PD 	Police Local 	FMN 	Law Talk 
+158.85000 	   	KGA404 	BM	136.5 PL	Chelt Reg 5 	Fire Region 5 Rebroadcast 	FMN 	Fire-Talk 
+155.02500 	   	KRX559 	BM	167.9 PL	Chelt DPW 	Public Works 	FMN 	Public Works 
+460.10000 	465.10000  	KNHC270 	RM	023 DPL	Chelt EMA 	EMA 	FMN 	Emergency Ops 
+154.20500 	   	KGG324 	B	136.5 PL	CvilleFD 800 	Collegeville Fire Co. No. 1 TRS Rebroadcast 	FMN 	Fire-Talk 
+155.70000 	153.75500  	WNBN244 	RM	203.5 PL	Cville PD/FD 	Borough Public Safety Coordination 	FMN 	Interop 
+461.08750 	466.08750  	 	RM	606 DPL	CvilleFD 	Collegeville Fire Co. No. 1 	FMN 	Fire-Tac 
+154.04000 	159.10500  	WNLY783 	RM	156.7 PL	Conshy PW 	Public Works 	FMN 	Public Works 
+45.12000 	   	 	BM		DouglassM PW 	Public Works 	FM 	Public Works 
+453.82500 	458.32500  	WYK376 	RM	CC 12TG 113SL 2	ENT FD Local 	Fire Local (Encrypted) 	DMRE 	Fire-Talk 
+460.26250 	465.26250  	WYK376 	RM	CC 11TG 111SL 1	ENT PD Local 	Police Local (Encrypted) 	DMRE 	Law Talk 
+45.12000 	   	WSL750 	BM		Franconia PW 	Public Works 	FM 	Public Works 
+155.42250 	   	WSL750 	BM	172 DPL	Franconia PD 	Police Local 	FMN 	Law Talk 
+156.24000 	   	WNCU447 	BM	127.3 PL	Hatboro PW 	Hatboro Borough - Public Works 	FMN 	Public Works 
+500.93750 	503.93750  	WIJ500 	RM	136.5 PL	Hatboro PDFD 	Hatboro Borough - Police / Fire Local 	FMN 	Multi-Talk 
+156.10500 	   	WNVH524 	BM		Hatfld B PW 	Hatfield Borough - Public Works 	FMN 	Public Works 
+154.29500 	   	KGF244 	M	107.2 PL	Colmar FC 	Colmar Fire Company 	FMN 	Fire-Talk 
+154.11500 	   	KGK712 	BM		Hatfield DPW 	Public Works Operations 	FMN 	Public Works 
+155.31000 	153.99500  	WXW435 	RM	107.2 PL	Hatfield PD 	Police Local 	FMN 	Law Talk 
+506.31250 	509.31250  	WII716 	RM	136.5 PL	Horsham PD 	Horsham Township - Police Local 	FMN 	Law Talk 
+154.19000 	   	KGE438 	B	136.5 PL	Sta 14 Reg 3 	Fairmount Fire Co. of Lansdale - Fire Region 3 Rebroadcast 	FMN 	Fire-Talk 
+153.50000 	   	KNAI669 	BM		Lansdale PW 	Public Works 	FMN 	Public Works 
+155.64000 	159.03000  	KGK647 	RM	107.2 PL	Lansdale PD 	Police VHF Primary 	FMN 	Law Tac 
+153.92000 	156.01500  	KNID768 	RM	151.4 PL	Limerick PW 	Public Works 	FM 	Public Works 
+155.14500 	153.87500  	KNID768 	RM	131.8 PL	Limerick PD 	Police Local 	FM 	Law Talk 
+152.46500 	   	WQOU799 	B	91.5 PL	Limerick 800 	Police (Reg 2) and Fire (Regs 2/3) TRS Rebroadcast 	FMN 	Multi-Dispatch 
+153.92000 	156.01500  	WPCZ975 	RM	82.5 PL	Lwr Fred PW 	Public Works (Shared with Upper Frederick Twp.) 	FMN 	Public Works 
+158.31750 	   	WQNL854 	M		LFFC VHF FG1 	Lower Frederick Fire Co. VHF Fireground 1 	FMN 	Fire-Tac 
+153.05750 	   	WQNL854 	M		LFFC VHF FG2 	Lower Frederick Fire Co. VHF Fireground 2 	FMN 	Fire-Tac 
+155.86500 	159.22500  	KAO482 	RM	156.7 PL	Lwr Gwynd PD 	Police Local Repeater 	FM 	Law Talk 
+155.89500 	   	KAO482 	BM	156.7 PL	Lwr Gwynd PD 	Police Car-to-Car 	FM 	Law Talk 
+156.18000 	   	WNUV981 	BM	107.2 PL	Lwr Gwynd PW 	Public Works 	FMN 	Public Works 
+460.27500 	465.27500  	WPMV633 	RM	131.8 PL	LMPD Disp. 	Police Dispatch Back-up (TRS Failsoft) 	FMN 	Law Dispatch 
+460.52500 	465.52500  	WPMV633 	RM	131.8 PL	LwrMrn PW 	Public Works Conventional 	FMN 	Public Works 
+151.34000 	   	WQDX655 	B	606 DPL	LMFD Disp 	Fire Dept - Dispatch Rebroadcast 	FMN 	Fire Dispatch 
+156.03750 	   	WQLD485 	B	100.0 PL	LMFD Reg 4 	Fire Dept - Fire Region 4 Rebroadcast 	FMN 	Fire-Tac 
+460.61250 	465.61250  	WPMD220 	RM	114.8 PL	LMFD Main Ops 	Fire Dept - Main Repeater 	FMN 	Fire-Tac 
+453.60000 	458.60000  	WQDN468 	RM	606 DPL	LMFD Backup  	Fire Dept - Backup Repeater 	FMN 	Fire-Tac 
+458.41250 	   	KGC984 	M	141.3 PL	Penn Wyn FG 	Fire Dept - Fireground 1 (Penn Wynne - Sta 21) 	FMN 	Fire-Tac 
+458.21250 	   	KGC984 	M	141.3 PL	BlmntHill FG 	Fire Dept - Fireground 2 (Belmont Hills - Sta 22) 	FMN 	Fire-Tac 
+458.23750 	   	KGC984 	M	141.3 PL	Bryn Mawr FG 	Fire Dept - Fireground 3 (Bryn Mawr - Sta 23) 	FMN 	Fire-Tac 
+458.26250 	   	KGC984 	M	141.3 PL	Gladwyne FG 	Fire Dept - Fireground 4 (Gladwyne - Sta 24) 	FMN 	Fire-Tac 
+458.28750 	   	KGC984 	M	141.3 PL	Merion FG 	Fire Dept - Fireground 5 (Merion/Ardmore - Sta 25); County Fireground 4 Crossband 	FMN 	Fire-Tac 
+458.36250 	   	KGC984 	M	141.3 PL	Narbrth FG 	Fire Dept - Fireground 6 (Narberth - Sta 26) 	FMN 	Fire-Tac 
+458.53750 	   	KGC984 	M	141.3 PL	Union FG 	Fire Dept - Fireground 8  (Union/Bala Cynwyd - Sta 28) 	FMN 	Fire-Tac 
+155.95500 	   	KJG999 	BM		Lwr Mor Twp  	Lower Moreland Township - Public Works 	FMN 	Public Works 
+460.50000 	465.50000  	WNPU375 	RM	023 DPL	Lwr Mor PD 	Lower Moreland Township - Police Local 	FMN 	Law Talk 
+154.25000 	156.07500  	KGE954 	BM	85.4 PL	LPFD Fire 1 	Fire Dept. - HIghband Ops 	FMN 	Fire-Tac 
+152.94500 	   	WPUY899 	RM	151.4 PL	LPFD 800 	Fire Dept. - Highband TRS Rebroadcast (Fire Regions 1, 2, 3, 4, 6) 	FMN 	Fire-Talk 
+33.62000 	   	KGE954 	B	136.5 PL	LPFD 33.62 	Fire Dept. - Dispatch (Highband to Lowband) 	FM 	Fire Dispatch 
+153.92000 	156.01500  	KNGU560 	RM	146.2 PL	Lwr Prov PW 	Public Works 	FMN 	Public Works 
+155.70000 	153.77500  	WNBN243 	RM	146.2 PL	LPPD Local 	PD Dispatch Back-up 	FMN 	Law Dispatch 
+155.04750 	   	WXQ936 	RM	072 DPL	Lwr Salford PD  	Police 	FMN 	Public Works 
+155.78250 	   	WQX936 	RM	074 DPL	Lwr Salford PW  	Public Works 	FMN 	Public Works 
+158.74500 	153.74000  	WQAD765 	RM		Marl Twp PW 	Marlborough Township - Public Works / Police Local 	FMN 	Public Works 
+155.61000 	159.15000  	WNDP682 	RM	123.0 PL	Mont Twp PD1 	Police VHF 1 (Backup to TRS) 	FMN 	Law Dispatch 
+154.99500 	158.77500  	KSL431 	RM	123.0 PL	Mont Twp PD2 	Police VHF 2 (Backup to TRS) 	FMN 	Law Talk 
+158.77500 	   	KSL431 	M	107.2 PL	Mont Twp PD3 	Police VHF 3 (Backup to TRS) 	FMN 	Law Tac 
+153.01250 	159.89250  	WQRI568 	RM		FDMT 18 Tac 	Fire Dept VHF 	FMN 	Fire-Tac 
+150.99500 	159.01500  	WNBK764 	RM	156.7 PL	New Han Twp 	Police/Public Works 	FMN 	Law Talk 
+154.32500 	   	KGE336 	B	136.5 PL	NFD Reg 6/Event6 	Fire Region 6/Event 6 Rebroadcast 	FMN 	Fire-Talk 
+154.37000 	159.16500  	KGE366 	RM	136.5 PL	NFD/NPW Snow 	Fire/Public Works Snow Ops 	FMN 	Multi-Talk 
+155.11500 	153.74000  	KDR392 	RM	10 RAN	Nrstwn PubWx 	Public Works (TG 1) 	NXDN 	Public Works 
+153.45500 	158.14500  	KLG866 	RM	107.2 PL	N Penn Water 	North Penn Water Authority 	FMN 	Utilities 
+156.10500 	   	KNCL541 	BM		N Wales PW 	Public Works 	FMN 	Public Works 
+155.70000 	153.75500  	WNBN325 	RM	532 DPL	Perkiomen FC 	Perkiomen Twp. Fire Co. - VHF Tac 	FMN 	Fire-Tac 
+153.92000 	156.01500  	KNID769 	RM	151.4 PL	Perkiomen PW 	Public Works 	FMN 	Public Works 
+453.57500 	458.57500  	WNHG262 	RM	156.7 PL	Plymth 3 PW 	Public Works  	FMN 	Public Works 
+453.87500 	458.87500  	WNHG262 	RM	156.7 PL	Plymth1 FDPD 	Fire Local 	FMN 	Fire-Talk 
+453.52500 	458.52500  	WNHG262 	RM	173.8 PL	Plymth 2 PD  	Police Local 	FMN 	Law Talk 
+460.37500 	465.37500  	WQRU973 	RM	174 DPL	HFC Tac 	Harmonville Fire Company 	FMN 	Fire-Tac 
+155.24250 	   	WQAC649 	BM		EMS 329 Ops 	Goodwill Steam Fire Engine Company - EMS Ops 	FMN 	EMS-Talk 
+158.41500 	   	WQGK601 	BM		Sta69B Reg2 	Phillies Fire Co. (Sta. 69-B) - Fire Region 2 Rebroadcast 	FMN 	Fire-Talk 
+155.83500 	   	KSQ734 	BM	156.7 PL	Potstwn PW 	 Public Works / Code Enforcement 	FMN 	Public Works 
+156.13500 	   	KGC999 	BM	173.8 PL	Sta 84 Reg 2 	Humane Fire Co. - Fire Region 2 Rebroadcast 	FMN 	Fire-Talk 
+158.82000 	   	KXL419 	BM	173.8 PL	RoyersfordPW 	Public Works 	FMN 	Public Works 
+153.14750 	158.37750  	WQPF737 	RM	306 DPL	TVFC Ops.  	Tylersport Volunteer Fire Company Operations 	FMN 	Fire-Talk 
+158.83500 	   	KNFK286 	BM		Salford Twp 	Public Works 	FMN 	Public Works 
+152.34500 	157.60500  	WPVY503 	RM		Sta 86 Rptr 	Skippack Fire Company 	FMN 	Fire-Talk 
+151.01000 	   	WNQZ423 	BM	123.0 PL	Soudrtn PD 	Police Local 	FMN 	Law Talk 
+452.23750 	457.23750  	WQXW837 	RM	206.5 PL	PFC Tac 	Perseverance Fire Company - Tactical 	FMN 	Fire-Tac 
+154.84500 	158.91000  	KQM627 	RM	131.8 PL	Sprngfld PD 	Police Local 	FMN 	Law Tac 
+151.12250 	158.97000  	KQM627 	RM	131.8 PL	Sprngfld PW 	Public Works 	FMN 	Public Works 
+154.20500 	   	WQCM526 	BM	136.5 PL	Orelnd Reg 6 	Oreland Fire Company - Fire Region 6 Rebroadcast 	FMN 	Fire-Talk 
+151.07000 	   	KNHG373 	BM	123.0 PL	Telford PD 	Police local 	FMN 	Law Talk 
+152.99000 	   	 	M	074 DPL	Telford DU 1 	Telford Dive Team - Primary ***Occasional Voice Inversion*** 	FMN 	Other 
+151.88000 	   	 	M	074 DPL	Telford DU 2 	Telford Dive Team - Secondary (MURS) 	FMN 	Other 
+151.94000 	   	 	M	074 DPL	Telford DU 3 	Telford Dive Team - Secondary (MURS) 	FMN 	Other 
+155.92500 	   	KCR921 	BM		Twmncn Reg 3 	Towamencin Volunteer Fire Co. - Fire Region 3 Rebroadcast 	FMN 	Fire-Talk 
+154.96500 	151.20500  	WYK345 	RM	107.2 PL	Towmncn PDFD 	Police Local (also used by FD) 	FMN 	Multi-Tac 
+156.24000 	   	WNUM831 	RM		Towmencn PW 	Public Works 	FMN 	Public Works 
+152.36750 	   	WQLU337 	RM	466 DPL	Trappe Fire 	Trappe Fire Co No. 1 	FMN 	Fire-Talk 
+152.90750 	   	WPZR497 	M	226 DPL	Sta. 88 FP 	Fort Washington Fire Company - Fire Police 	FMN 	Fire-Talk 
+151.73750 	   	WPZR497 	M	226 DPL	Sta. 88 VHF 	Fort Washington Fire Company 	FMN 	Fire-Tac 
+154.05500 	   	WPYF301 	BM	179.9 PL	Upr Dbln PW 	Public Works 	FMN 	Public Works 
+460.55000 	465.55000  	WNGL406 	RM	41 RAN	Upr Dbln PD 	Police Tac (TG 1) 	NXDN 	Law Tac 
+153.92000 	156.01500  	WPCZ975 	RM	173.8 PL	Upr Fred PW 	Public Works 	FMN 	Public Works 
+154.98000 	151.35500  	KRA485 	RM	107.2 PL	Upr Gwynd PW 	Public Works 	FMN 	Public Works 
+155.53500 	155.47500  	KUG809 	BM	107.2 PL	Upr Gwynd PD 	Police Tac 	FMN 	Law Tac 
+158.74500 	153.74000  	KBF471 	RM		Upper Han PW 	Upper Hanover Township - Public Works 	FMN 	Public Works 
+858.41250 	813.41250  	WNNP372 	RM	123.0 PL	UMPD Local 	Police Local Repeater 	FM 	Law Talk 
+501.87500 	504.87500  	WQKH525 	RM	CC 5TG 56001SL 1	UMPD Tac 	Police Tac 	DMRE 	Law Tac 
+154.81500 	156.03000  	KFT233 	RM	131.8 PL	UM Pub Wrks 	Public Works 	FMN 	Public Works 
+461.83750 	466.83750  	WQBX201 	RM	192.8 PL	UM Twp Rpt 	Township Repeater (Police Desk to Fire Services) 	FMN 	Interop 
+856.21250 	811.21250  	WQFV996 	RM		KPVFC 800 	King of Prussia Fire Company 	FM 	Fire-Talk 
+460.56250 	   	WPYG991 	M	156 DPL	UM 47 FG 	King of Prussia Fire Company - 47 Fireground 	FMN 	Fire-Talk 
+501.87500 	504.87500  	WQKH525 	RM	CC 5TG 317SL 2	Lafayette Ops 	Lafayette Ambulance Tac 	DMRE 	EMS-Tac 
+461.83750 	466.83750  	WQBX201 	RM	79.7 PL	UM 48 Rptr 	Swedeland Fire Co. - 48 Repeater 	FMN 	Fire-Tac 
+460.63750 	   	NA 	M	023 DPL	UM 48 FG 	Swedeland Fire Co. - 48 Fireground 	FM 	Fire-Talk 
+460.47500 	465.47500  	KB87274 	RM	156 DPL	UM 49 Rptr 	Swedesburg Fire Co. - 49 Repeater 	FMN 	Fire-Tac 
+465.61250 	   	NA 	M	136.5 PL	UM 49 FG 	Swedesburg Fire Co. - 49 Fireground 	FM 	Fire-Talk 
+156.07500 	   	KGC578 	BM	136.5 PL	Wlw Grv Reg5 	Willow Grove Fire Company - Fire Region 5 Rebroadcast 	FM 	Fire-Tac 
+460.05000 	465.05000  	KNIE338 	RM	023 DPL	UprMrllnd PD 	Upper Moreland Township - Police Tactical 	FM 	Law Tac 
+154.41500 	   	WPTS895 	BM	146.2 PL	BRVFC VHF 	Black Rock Volunteer Fire Company 	FMN 	Fire-Talk 
+152.45750 	   	WQPC878 	RM	612 DPL	Upper Prv PW 	Public Works (plow crews) 	FMN 	Public Works 
+155.70000 	153.75500  	WPRV784 	RM	167.9 PL	Upper Prv PD 	Police Local/EMA 	FMN 	Law Talk 
+153.92000 	156.01500  	WNBM891 	RM	107.2 PL	Upr Slfrd PW 	Upper Salford Townshp - Public Works 	FM 	Public Works 
+453.70000 	458.70000  	WNMB942 	RM	156.7 PL	Sta 39 FG 	George Clay Fire Company - Fireground 	FMN 	Fire-Tac 
+453.85000 	458.85000  	WPFS683 	RM	74.4 PL	W Conshy PD 	West Conshohocken Borough - Police / Fire Local 	FMN 	Law Talk 
+453.90000 	458.90000  	WQDU473 	RM	156 DPL	JFC FG 	Jefferson Fire Company - Fireground Operations 	FMN 	Fire-Talk 
+153.96500 	   	WNUN582 	RM	107.2 PL	Wst Nrtn EMA 	Police/EMA Repeater 	FMN 	Law Talk 
+154.05500 	   	WNRW759 	BM	107.2 PL	Wst Nrtn PW 	Public Works 	FMN 	Public Works 
+154.08500 	   	KNEH272 	BM	97.4 PL	W Ptsgrv PD 	West Pottsgrove Township - Police Tac 	FMN 	Law Tac 
+155.80500 	151.08500  	KRC621 	RM	103.5 PL	Whtmrsh PDPW 	Police Local and Public Works 	FMN 	Law Talk 
+159.23250 	   	KRC261 	BM	CC 9TG 32SL 1	WTP Local 	Whitemarsh Twp - Police Local 	DMR 	Law Talk 
+453.67500 	458.67500  	WNCW536 	RM	46 RAN	Whitpain PD 	Police Local (TG 1) 	NXDN 	Law Talk 
+453.38750 	   	WNCW536 	BM	156.7 PL	Whitpain PW 	Public Works 	FMN 	Public Works 
+159.29250 	156.00000  	WQRV871 	RM	CC 1TG *SL *	WVFC 83 Local 	Worcester Volunteer Fire Co. Local 	DMR 	Fire-Tac 
+153.13250 	158.28750  	 	RM		HAEMS 344 	HAEMS 344 VHF Tac 	FMN 	EMS-Tac 
+464.00000 	469.00000  	WQBX201 	RM		308 UHF Ops 	Plymouth Community Ambulance - UHF Repeater 	DMRE 	EMS-Talk 
+453.21250 	458.21250  	KQS676 	RM	CC 6TG 1308308SL 1	PCAA Private 	Plymouth Community Ambulance Assoc - Private 	DMRE 	EMS-Tac 
+460.28750 	465.28750  	KQS676 	RM		Medic308 UHF 	Operations Repeater 	DMRE 	EMS-Talk 
+453.07500 	458.07500  	KLL750 	RM	114.8 PL	SARS 380 UHF1  	Operations 	FMN 	EMS-Talk 
+462.97500 	   	KLL750 	M	136.5 PL	SARS 380 UHF2  	Details / Events 	FMN 	EMS-Tac 
+453.07500 	458.07500  	KLL750 	RM	79.7 PL	SARS 380 AMH 	Abington Hospital Emergency Room 	FMN 	EMS-Talk 
+153.29750 	   	WQOF363 	RM	306 DPL	VMSC 345 Ops 	VMSC Lansdale Operations Repeater 	FMN 	EMS-Talk 
+153.29750 	   	WQOF363 	RM	612 DPL	VMSC CMMC ER 	VMSC Medic 345 to Central Montgomery Medical Center ER 	FMN 	EMS-Talk 
+453.02500 	458.02500  	WPKH542 	RM	054 DPL	VMSC 313 UHF 	VMSC Narberth Ops 	FMN 	EMS-Talk 
+154.51500 	   	WNGS741 	BM		ASD Ops 	Abington School District operations 	FM 	Schools 
+155.29500 	   	KQL756 	BM	226 DPL	ASD Transp 	Transportation 	FMN 	Schools 
+151.89500 	   	KNAK284 	BM	071 DPL	HH Schools 	Hatboro Horsham School District 	FM 	Schools 
+153.72500 	158.44500  	WRAK673 	RM	CC 1TG 1SL *	HHSD Buses 	Transportation 	DMR 	Schools 
+463.56250 	468.56250  	WQJZ688 	RM	664 DPL	LCHS Ops 	School Operations 	FMN 	Schools 
+451.28750 	456.28750  	WQHH927 	RM	CC 7TG 1SL 1	HHS Admin 	Harriton High School - Administration/Campus Aides 	DMR 	Schools 
+452.28750 	457.28750  	WQGB608 	RM	CC 11TG *SL 1	LMHS 1 	Lower Merion High School - Administration/Campus Aides 	DMR 	Schools 
+452.28750 	457.28750  	WQGB608 	RM	CC 11TG *SL 2	LMHS 2 	Lower Merion High School - Custodial 	DMR 	Schools 
+462.28750 	467.28750  	WQGB608 	RM	315 DPL	BCMS Admin 	Bala Cynwyd Middle School - Administration 	FMN 	Schools 
+151.92500 	160.08000  	WPYN373 	RM	364 DPL	LMSD Buses 	Transportation 	FMN 	Schools 
+155.73000 	160.00500  	WNED345 	RM	186.2 PL	Methacton Tr 	Methacton School District Transportation 	FMN 	Schools 
+151.73000 	159.96000  	KKZ782 	RM	118.8 PL	NorristownHS 	Norristown Area High School 	FMN 	Schools 
+154.54000 	   	KKZ782 	BM	114.8 PL	NASD Transp 	Norristown Area School District - Transportation 	FMN 	Schools 
+155.17500 	   	KNJB685 	BM		NorthPenn SD 	North Penn School District 	FMN 	Schools 
+151.74500 	   	WPLF218 	BM	156.7 PL	Perkiomen HS Adm 	Perkiomen Valley HS Administration 	FMN 	Schools 
+155.22000 	   	WPUX982 	BM		Perkiomen SD Bus 	Perkiomen Valley School District Transportation - School Buses 	FMN 	Schools 
+451.03750 	456.03750  	WPRA543 	RM	CC 10TG 2SL 2	PMS Admin 	Pottsgrove Middle School - Administration 	DMR 	Schools 
+463.91250 	468.91250  	WPRA543 	RM	CC 10TG 4SL 1	LPES Admin 	Lower Pottsgrove Elementary School - Administration 	DMR 	Schools 
+502.23750 	505.23750  	WII436 	RM	156.7 PL	SFASD Buses 	Transportation 	FMN 	Schools 
+152.30000 	157.56000  	WRDS858 	BM	CC 5TG 1001SL *	SSD Buses 	Transportation 	DMR 	Schools 
+155.22000 	   	WPCE587 	BM	127.3 PL	Springfld SD 	Springfield School District 	FMN 	Schools 
+463.80000 	468.80000  	WQNU437 	RM	67.0 PL	UprMerion Buses 	School Buses 	FMN 	Schools 
+464.66250 	469.66250  	WQFC670 	RM		UprMerion SD 	District Operations 	FMN 	Schools 
+151.77500 	159.88500  	WQYK728 	RM	364 DPL	UMSD Trans 	Transportation 	FMN 	Schools 
+464.02500 	469.02500  	WQTU646 	RM	205 DPL	Wissah Buses 	School Buses 	FMN 	Schools 
+464.07500 	469.07500  	WPMG227 	RM	162.2 PL	Arcadia Maint  	Maintenance 	FMN 	Schools 
+453.00000 	458.00000  	WPMG227 	RM	162.2 PL	Arcadia Security 	Public Safety Dispatch 	FMN 	Security 
+451.76250 	456.76250  	WNWH262 	RM	110.9 PL	BMC Security 	Security Dispatch 	FMN 	Security 
+452.16250 	457.16250  	WNWH262 	RM	205 DPL	BMC Maint 	Maintenance 	FMN 	Schools 
+461.63750 	   	WNWH262 	RM	210.7 PL	BMC Housekeep 	Housekeeping 	FMN 	Schools 
+461.30000 	466.30000  	WPVV433 	RM	CC 7TG 1000SL 1	Gwyn Mercy PS 	Gwynedd Mercy Public Safety 	DMR 	Schools 
+461.38750 	   	WQTD984 	RM	165 DPL	Harcum safety 	Harcum College Campus safety 	FMN 	Security 
+451.85000 	456.85000  	WPWY921 	RM	203.5 PL	SchoolSec 	Hill School Security 	FMN 	Schools 
+461.71250 	   	WPCG378 	M		Hill School 	Hill School - Pottstown 	FM 	Schools 
+462.47500 	467.47500  	WPRF739 	RM	146.2 PL	MCCC PS Call 	MCCC Public Safety Call Boxes 	FMN 	Schools 
+463.33750 	468.33750  	WQHB490 	RM	10 RAN	MCCC PD Disp 	MCCC Public Safety Dispatch 	NXDNE 	Schools 
+464.63750 	469.63750  	WQHB490 	RM	023 DPL	MCCC Maintenance 	MCCC Maintenance 	FMN 	Schools 
+464.47500 	469.47500  	KVL680 	RM		PSU Ogontz 	Penn State University - Ogontz Campus 	FMN 	Schools 
+451.23750 	   	WQNX428  	BM	223 DPL	St Gabes Ops 1 	Ops 1 	FMN 	Schools 
+467.17500 	   	WQNX428  	BM	74.4 PL	St Gabes Ops 2 	Ops 2 	FMN 	Schools 
+463.68750 	   	WRDU629 	BM	110.9 PL	Shipley Ops 	Operations 	FMN 	Schools 
+464.77500 	   	WNIE265 	BM	156.7 PL	MLS Ops 	Operations, Silver Springs Martin Luther School operations 	FMN 	Schools 
+460.40000 	465.40000  	WQBY672 	RM	CC 1TG 1SL 1	Temple U PD 	Police (Ambler & Ft. Washington Campuses) 	DMR 	Law Dispatch 
+451.40000 	456.40000  	WQFM916 	RM	CC 9TG 2SL 1	THS Maint 	Maintenance 	DMR 	Schools 
+452.00000 	457.00000  	WQFM916 	RM	CC 4TG 3SL 2	THS Custodial 	Custodians 	DMR 	Schools 
+451.57500 	456.57500  	WPKD453 	RM		Ursinus Coll 	College Use 	FMN 	Schools 
+464.67500 	469.67500  	WPKD453 	RM	146.2 PL	Ursinus Maint 	Campus Maintenance 	FMN 	Schools 
+464.72500 	469.72500  	WPKD453 	RM	CC 9TG 500SL 1	Ursinus Col Sfty 	Campus Safety 	DMR 	Schools 
+463.27500 	468.27500  	WQSM578 	RM	233.6 PL	WMA Admin 	Administration 	FMN 	Schools 
+Albert Einstein Medical Center - Montgomery	 NXDN Icom IDAS Type D	 East Norriton	Commpaths	 NXDN Icom IDAS Type D	 Various	FleetCall	 NXDN NEXEDGE 4800	 Various
+Foulkeways at Gywnedd	 DMR Motorola Capacity Plus Single Site (TRBO)	 Gywnedd	Interstate Repeater System	 DMR Conventional Networked	 Various	Lower Merion School District	 DMR Conventional Networked	 Gladwyne
+Lower Merion Township	 DMR Tier 3	 Lower Merion Township	Merck DMR	 DMR Motorola Connect Plus (TRBO)	 West Point	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various
+Montgomery County (P25)	 Project 25 Phase II	 Eagleville	Montgomery County PA	 Motorola Type II SmartZone	 Various	Nextel (Wyndmoor)	 Motorola Type II Smartnet	 Wyndmoor
+North Penn School Distrct	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Lansdale	PECO Energy	 Project 25 Phase I	 Philadelphia	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various
+Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Scott Communications (Eagleville)	 LTR Standard	 Eagleville	Southeastern Pennsylvania Transportation Authority (SEPTA)	 Motorola Type II Smartnet	 Various
+Sunshine Communications (Eagleville)	 LTR Standard	 Eagleville	Sunshine Communications (Malvern)	 LTR Standard	 Malvern	

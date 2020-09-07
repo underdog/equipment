@@ -1,59 +1,58 @@
-154.43000 	WNGA255 	RM	110.9 PL	RC Fire 1 	Fire - Dispatch 1 	FMN 	Fire Dispatch 
-155.68500 	WQML484 	RM	107.2 PL	RC Fire 2 	Fire - Dispatch 2 	FMN 	Fire Dispatch 
-154.22000 	WPFQ643 	M	107.2 PL	RC Gold 	Fire - District 01 Tac 2 Gold 	FMN 	Fire-Tac 
-154.38500 	WPFQ643 	BM	107.2 PL	RC Silver 	Fire - District 01 Tac 3 Silver 	FMN 	Fire-Tac 
-154.34000 	WPGM525 	M	107.2 PL	RC Grey 	Fire - District 06 Tac Grey 	FMN 	Fire-Tac 
-154.26500 	KGV341 	M	107.2 PL	RC Orange 	Fire - District 07 Tac Orange 	FMN 	Fire-Tac 
-154.13000 	WQWB262 	RM	110.9 PL	RC Green 	Fire- District 09 Tac Green 	FMN 	Fire-Tac 
-158.81250 	WQJX314 	RM		CCFD Dist 10 	Fire - District 10 	FMN 	Fire Dispatch 
-154.16000 	KYD977 	BM	107.2 PL	RC Blue 	Fire - Wenatchee Tac Blue 	FMN 	Fire-Tac 
-154.25000 	KYD977 	RM	110.9 PL	Wen Val Cmd 	Fire - Wenatchee Valley Command 	FMN 	Fire-Tac 
-155.35500 	KYB995 	RM	100.0 PL	Chel Val Cmd 	Fire - Chelan Valley Command 	FMN 	Fire-Talk 
-159.09000 	WQGI877 	RM	192.8 PL	West Command 	Fire - West Command Repeater 	FMN 	Fire-Talk 
-154.31000 	KZX240 	BM	110.9 PL	RC Mayday 	Fire - Mayday 	FMN 	Fire-Tac 
-150.87500 	KNJB436 	RM	71.9 PL	Ballard Amb 	Ballard Ambulance - Dispatch 	FMN 	EMS Dispatch 
-151.13000 	KNJB436 	BM	100.0 PL	Ballard Amb Tac 	Ballard Ambulance Tac 	FMN 	EMS-Tac 
-155.20500 	KYB995 	BM	107.2 PL	EMS Tactical 	EMS - Tactical 	FMN 	EMS-Talk 
-855.38750 	WNHD730 	RM		AMR Dispatch 	American Medical Response - Dispatch 	FMN 	EMS Dispatch 
-156.01500 	WQAE566 	RM	123.0 PL	Lifeline AMB 	Lifeline Ambulance 	FMN 	EMS Dispatch 
-154.99500 	WQGF693 	RM	110.9 PL	RC Echo 	Emergency Management - Echo 	FMN 	Emergency Ops 
-154.51500 	KNFJ351 	BM		Cascade Amb 	Cascade Ambulance Tactical 	FMN 	EMS-Tac 
-463.17500 	WNCT261 	RM	146.2 PL	Life Flight 	Life Flight Mission Ridge Repeater 	FMN 	EMS Dispatch 
-155.62500 	WQBG615 	RM	110.9 PL	RC Law 1 	Law - Dispatch 1 Chelan 	FMN 	Law Dispatch 
-153.87500 	KOB405 	BM	110.9 PL	RC Goat Tac  	Law - Tactical Goat 	FMN 	Law Tac 
-155.82000 	WGK488 	BM		CCSO A/G 	Sheriff - A/G 	FMN 	Law Talk 
-155.55000 	KD6899 	M	127.3 PL	CCSO Tac 2 	Sheriff - Tactical 2 	FMN 	Law Tac 
-154.87500 	KNFS767 	BM		CCSO Jail 	Sheriff - Court/Jail Division 	FMN 	Corrections 
-153.80000 	WPGJ338 	BM	788 NAC	CCSO Tac 8 	Sheriff - Tactical 8 	P25 	Law Tac 
-156.06000 	WPUS409 	BM	192.8 PL	CCSO SAR 	Sheriff - Search and Rescue 	FMN 	Emergency Ops 
-158.73000 	KD6899 	M	A73 NAC	CCSO SWAT  	SWAT 	P25 	Law Tac 
-154.99500 	WQGF693 	RM		Blag Tac 	RiverCom Blag Tac 	FMN 	Multi-Tac 
-155.12250 	WQGF693 	RM	192.8 PL	Butte Tac 	RiverCom Butte Tac 	FMN 	Multi-Tac 
-159.06750 	WQVJ735 	RM	110.9 PL	Goat Tac 	RiverCom Goat Tac 	FMN 	Multi-Tac 
-159.11250 	WQGF693 	RM	192.8 PL	Badger Tac 	RiverCom Badger Tac 	FMN 	Multi-Tac 
-159.16500 	WNWZ676 	RM		CC Highways 	Highway Department 	FMN 	Public Works 
-155.10000 	KEM575 	BM		Cashmere PW 	Public Works 	FMN 	Public Works 
-153.81500 	KTS595 	BM		Chelan Gov 	City Government 	FMN 	Multi-Talk 
-153.96500 	KTS595 	BM		Chelan Gov 	City Government 	FMN 	Multi-Talk 
-155.88000 	KTS595 	BM		Chelan Gov 	City Government 	FMN 	Multi-Talk 
-453.37500 	WPEP707 	RM		Chelan PW 	Public Works 	FMN 	Public Works 
-153.93500 	WQDH249 	BM		Leavenwth PW 	Public Works 	FMN 	Public Works 
-155.14500 	KNBA790 	BM		Leavenwth PW 	Public Works 	FMN 	Public Works 
-155.31000 	WQBG615 	RM	110.9 PL	WPD F-1 	Police Dispatch 	FMN 	Law Dispatch 
-156.09000 	 	RM	100.0 PL	WPD F-2 	Car-to-Car/Tactical 	FMN 	Law Tac 
-155.94000 	KCP532 	BM		Wenat Gov 	City Government 	FMN 	Public Works 
-155.71500 	WNJM470 	RM	141.3 PL	Wen PWD 	Wenachee Public Works 	FMN 	Public Works 
-461.35000 	WPXF752 	RM	065 DPL	CW Concrete 	Central Washington Concrete 	FMN 	Business 
-151.77500 	 	BM		RedLionMotel 	Red Lion Motel (Wenatchee) 	FMN 	Business 
-152.37500 	WPIF549 	RM	123.0 PL	Wapato Resrt 	Wapato Resort 	FMN 	Business 
-463.88750 	KB30642 	RM	6 RAN	CH Security 	Confluence Health 	NXDNE 	Security 
-464.20000 	KB30642 	RM	18 RAN	CH Emer Mgmt 	Confluence Health Emergency Mgmt Repeater 	NXDN 	Security 
-151.83500 	KNNG235 	M		MR OPS 	Resort Operations 	FMN 	Business 
-152.90000 	WQDW744 	RM		MR Ski Ptrl 	Ski Patrol 	FMN 	Security 
-451.96350 	 	BM		Wen S/G 2 	Wenatchee Sand And Gravel 	FMN 	Business 
-452.01250 	 	BM		Wen S/G 1  	Wenatchee Sand And Gravel 	FMN 	Business 
-152.97500 	 	BM		Woods Exvat 	Woods Excavation 	FMN 	Business 
-463.53750 	WQRE590 	RM	CC 15TG 1SL 1	CNG Badger 	Cascade Natural Gas Badger Mtn 	DMR 	Utilities 
-Chelan County Public Utility District	 DMR Tier 3	 Chelan	Spectrum Communications  Wenatchee	 LTR Standard	 Wenatchee	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)
- Various	WA State Patrol	 Project 25 Phase II	 Various	Washington Department of Transportation (P25)	 Project 25 Phase II	 Various	Washington State Department of Transportation
- LTR MultiNet	 Various	
+154.43000 	153.89000  	WNGA255 	RM	110.9 PL	RC Fire 1 	Fire - Dispatch 1 	FMN 	Fire Dispatch 
+155.68500 	153.95000  	WQML484 	RM	107.2 PL	RC Fire 2 	Fire - Dispatch 2 	FMN 	Fire Dispatch 
+154.22000 	   	WPFQ643 	M	107.2 PL	RC Gold 	Fire - District 01 Tac 2 Gold 	FMN 	Fire-Tac 
+154.38500 	   	WPFQ643 	BM	107.2 PL	RC Silver 	Fire - District 01 Tac 3 Silver 	FMN 	Fire-Tac 
+154.34000 	   	WPGM525 	M	107.2 PL	RC Grey 	Fire - District 06 Tac Grey 	FMN 	Fire-Tac 
+154.26500 	   	KGV341 	M	107.2 PL	RC Orange 	Fire - District 07 Tac Orange 	FMN 	Fire-Tac 
+154.13000 	158.83500  	WQWB262 	RM	110.9 PL	RC Green 	Fire- District 09 Tac Green 	FMN 	Fire-Tac 
+158.81250 	153.85250  	WQJX314 	RM		CCFD Dist 10 	Fire - District 10 	FMN 	Fire Dispatch 
+154.16000 	   	KYD977 	BM	107.2 PL	RC Blue 	Fire - Wenatchee Tac Blue 	FMN 	Fire-Tac 
+154.25000 	153.77000  	KYD977 	RM	110.9 PL	Wen Val Cmd 	Fire - Wenatchee Valley Command 	FMN 	Fire-Tac 
+155.35500 	150.79000  	KYB995 	RM	100.0 PL	Chel Val Cmd 	Fire - Chelan Valley Command 	FMN 	Fire-Talk 
+159.09000 	153.96500  	WQGI877 	RM	192.8 PL	West Command 	Fire - West Command Repeater 	FMN 	Fire-Talk 
+154.31000 	   	KZX240 	BM	110.9 PL	RC Mayday 	Fire - Mayday 	FMN 	Fire-Tac 
+150.87500 	153.10250  	KNJB436 	RM	71.9 PL	Ballard Amb 	Ballard Ambulance - Dispatch 	FMN 	EMS Dispatch 
+151.13000 	   	KNJB436 	BM	100.0 PL	Ballard Amb Tac 	Ballard Ambulance Tac 	FMN 	EMS-Tac 
+155.20500 	   	KYB995 	BM	107.2 PL	EMS Tactical 	EMS - Tactical 	FMN 	EMS-Talk 
+855.38750 	810.38750  	WNHD730 	RM		AMR Dispatch 	American Medical Response - Dispatch 	FMN 	EMS Dispatch 
+156.01500 	153.91250  	WQAE566 	RM	123.0 PL	Lifeline AMB 	Lifeline Ambulance 	FMN 	EMS Dispatch 
+154.99500 	153.99500  	WQGF693 	RM	110.9 PL	RC Echo 	Emergency Management - Echo 	FMN 	Emergency Ops 
+154.51500 	   	KNFJ351 	BM		Cascade Amb 	Cascade Ambulance Tactical 	FMN 	EMS-Tac 
+463.17500 	468.17500  	WNCT261 	RM	146.2 PL	Life Flight 	Life Flight Mission Ridge Repeater 	FMN 	EMS Dispatch 
+155.62500 	155.07000  	WQBG615 	RM	110.9 PL	RC Law 1 	Law - Dispatch 1 Chelan 	FMN 	Law Dispatch 
+153.87500 	   	KOB405 	BM	110.9 PL	RC Goat Tac  	Law - Tactical Goat 	FMN 	Law Tac 
+155.82000 	   	WGK488 	BM		CCSO A/G 	Sheriff - A/G 	FMN 	Law Talk 
+155.55000 	   	KD6899 	M	127.3 PL	CCSO Tac 2 	Sheriff - Tactical 2 	FMN 	Law Tac 
+154.87500 	   	KNFS767 	BM		CCSO Jail 	Sheriff - Court/Jail Division 	FMN 	Corrections 
+153.80000 	   	WPGJ338 	BM	788 NAC	CCSO Tac 8 	Sheriff - Tactical 8 	P25 	Law Tac 
+156.06000 	   	WPUS409 	BM	192.8 PL	CCSO SAR 	Sheriff - Search and Rescue 	FMN 	Emergency Ops 
+158.73000 	   	KD6899 	M	A73 NAC	CCSO SWAT  	SWAT 	P25 	Law Tac 
+154.99500 	153.99500  	WQGF693 	RM		Blag Tac 	RiverCom Blag Tac 	FMN 	Multi-Tac 
+155.12250 	159.06750  	WQGF693 	RM	192.8 PL	Butte Tac 	RiverCom Butte Tac 	FMN 	Multi-Tac 
+159.06750 	153.80000  	WQVJ735 	RM	110.9 PL	Goat Tac 	RiverCom Goat Tac 	FMN 	Multi-Tac 
+159.11250 	156.03750  	WQGF693 	RM	192.8 PL	Badger Tac 	RiverCom Badger Tac 	FMN 	Multi-Tac 
+159.16500 	151.08500  	WNWZ676 	RM		CC Highways 	Highway Department 	FMN 	Public Works 
+155.10000 	   	KEM575 	BM		Cashmere PW 	Public Works 	FMN 	Public Works 
+153.81500 	   	KTS595 	BM		Chelan Gov 	City Government 	FMN 	Multi-Talk 
+153.96500 	   	KTS595 	BM		Chelan Gov 	City Government 	FMN 	Multi-Talk 
+155.88000 	   	KTS595 	BM		Chelan Gov 	City Government 	FMN 	Multi-Talk 
+453.37500 	458.37500  	WPEP707 	RM		Chelan PW 	Public Works 	FMN 	Public Works 
+153.93500 	   	WQDH249 	BM		Leavenwth PW 	Public Works 	FMN 	Public Works 
+155.14500 	   	KNBA790 	BM		Leavenwth PW 	Public Works 	FMN 	Public Works 
+155.31000 	153.78500  	WQBG615 	RM	110.9 PL	WPD F-1 	Police Dispatch 	FMN 	Law Dispatch 
+156.09000 	155.79000  	 	RM	100.0 PL	WPD F-2 	Car-to-Car/Tactical 	FMN 	Law Tac 
+155.94000 	   	KCP532 	BM		Wenat Gov 	City Government 	FMN 	Public Works 
+155.71500 	158.89500  	WNJM470 	RM	141.3 PL	Wen PWD 	Wenachee Public Works 	FMN 	Public Works 
+461.35000 	466.35000  	WPXF752 	RM	065 DPL	CW Concrete 	Central Washington Concrete 	FMN 	Business 
+151.77500 	   	 	BM		RedLionMotel 	Red Lion Motel (Wenatchee) 	FMN 	Business 
+152.37500 	157.63500  	WPIF549 	RM	123.0 PL	Wapato Resrt 	Wapato Resort 	FMN 	Business 
+463.88750 	468.88750  	KB30642 	RM	6 RAN	CH Security 	Confluence Health 	NXDNE 	Security 
+464.20000 	469.20000  	KB30642 	RM	18 RAN	CH Emer Mgmt 	Confluence Health Emergency Mgmt Repeater 	NXDN 	Security 
+151.83500 	   	KNNG235 	M		MR OPS 	Resort Operations 	FMN 	Business 
+152.90000 	159.94500  	WQDW744 	RM		MR Ski Ptrl 	Ski Patrol 	FMN 	Security 
+451.96350 	   	 	BM		Wen S/G 2 	Wenatchee Sand And Gravel 	FMN 	Business 
+452.01250 	457.01250  	 	BM		Wen S/G 1  	Wenatchee Sand And Gravel 	FMN 	Business 
+152.97500 	   	 	BM		Woods Exvat 	Woods Excavation 	FMN 	Business 
+463.53750 	468.53750  	WQRE590 	RM	CC 15TG 1SL 1	CNG Badger 	Cascade Natural Gas Badger Mtn 	DMR 	Utilities 
+Chelan County Public Utility District	 DMR Tier 3	 Chelan	Justice Integrated Wireless Network	 Project 25 Phase I	 Various	Spectrum Communications  Wenatchee	 LTR Standard	 Wenatchee
+TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	WA State Patrol	 Project 25 Phase II	 Various	Washington State Department of Transportation	 LTR MultiNet	 Various

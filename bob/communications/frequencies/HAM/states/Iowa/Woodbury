@@ -1,18 +1,17 @@
-156.21000 	WPMD448 	RM	CC 7TG *SL *	Wdbry Court 	Courthouse 	DMR 	Law Talk 
-155.73000 	KSS328 	B	CSQ	Wdbry FD Pag 	Fire Paging (includes Sergeant Bluff) 	FM 	Fire Dispatch 
-154.31000 	WPAJ382 	RM	143 DPL	Wdbry FD W 	Fire West 	FM 	Fire Dispatch 
-155.16000 	WPZT877 	BM	127.3 PL	Wdbry EMS 1 	EMS 1 	FM 	EMS Dispatch 
-155.22000 	WPXK831 	BM	127.3 PL	Wdbry EMS 2 	EMS 2 (linked to 463.300) 	FM 	EMS Dispatch 
-155.34000 	WPXK831 	BM	127.3 PL	Wdbry EMS 3 	EMS 3 (linked to 463.800) 	FM 	EMS-Talk 
-463.30000 	WQDU353 	RM	565 DPL	Wdbry EMS 2u 	EMS 2 UHF (linked to 155.220) 	FM 	EMS Dispatch 
-463.80000 	WQDU353 	RM	071 DPL	Wdbry EMS 3u 	EMS 3 UHF (linked to 155.340) 	FM 	EMS-Talk 
-154.05500 	KFR565 	RM	250.3 PL	Wdbry Road 1 	Roads 1 	FM 	Public Works 
-155.77500 	KUG837 	RM	107.2 PL	Wdbry Road 2 	Roads 2 	FM 	Public Works 
-151.29500 	WQOE579 	BM	CC 1TG 1SL 1	Wdbry Shuttl 	Public shuttle 	DMR 	Transportation 
-154.25000 	WRL613 	RM	136.5 PL	SiouxCity FD 	Fire Dispatch 	FM 	Fire Dispatch 
-153.74000 	WNUF772 	BM	94.8 PL	SiouxCity PW 	Public Works 	FM 	Public Works 
-154.17500 	KAB991  	B	94.8 PL	SiouxCity Pg 	City Paging 	FM 	Public Works 
-151.83500 	WNED586 	BM	CSQ	Red Cross 	Red Cross Disaster Operations 	FM 	Emergency Ops 
-Alliant Energy	 DMR Tier 3	 Various	Electronic Engineering Sioux City	 Motorola Type II	 Sioux City	Iowa DMR Users Group	 DMR Conventional Networked
- Various	Mid American Energy	 MPT-1327 Standard	 Various	RACOM Network	 EDACS Networked Standard	 Various	Tri-State Comm Climbing Hill
- LTR Standard	 Climbing Hill	Tri-State Comm Sioux City	 LTR Standard	 Sioux City	
+156.21000 	153.80000  	WPMD448 	RM	CC 7TG *SL *	Wdbry Court 	Courthouse 	DMR 	Law Talk 
+155.73000 	   	KSS328 	B	CSQ	Wdbry FD Pag 	Fire Paging (includes Sergeant Bluff) 	FM 	Fire Dispatch 
+154.31000 	154.95000  	WPAJ382 	RM	143 DPL	Wdbry FD W 	Fire West 	FM 	Fire Dispatch 
+155.16000 	   	WPZT877 	BM	127.3 PL	Wdbry EMS 1 	EMS 1 	FM 	EMS Dispatch 
+155.22000 	   	WPXK831 	BM	127.3 PL	Wdbry EMS 2 	EMS 2 (linked to 463.300) 	FM 	EMS Dispatch 
+155.34000 	   	WPXK831 	BM	127.3 PL	Wdbry EMS 3 	EMS 3 (linked to 463.800) 	FM 	EMS-Talk 
+463.30000 	468.30000  	WQDU353 	RM	565 DPL	Wdbry EMS 2u 	EMS 2 UHF (linked to 155.220) 	FM 	EMS Dispatch 
+463.80000 	468.80000  	WQDU353 	RM	071 DPL	Wdbry EMS 3u 	EMS 3 UHF (linked to 155.340) 	FM 	EMS-Talk 
+154.05500 	158.92500  	KFR565 	RM	250.3 PL	Wdbry Road 1 	Roads 1 	FM 	Public Works 
+155.77500 	155.05500  	KUG837 	RM	107.2 PL	Wdbry Road 2 	Roads 2 	FM 	Public Works 
+151.29500 	154.72500  	WQOE579 	BM	CC 1TG 1SL 1	Wdbry Shuttl 	Public shuttle 	DMR 	Transportation 
+154.25000 	153.83000  	WRL613 	RM	136.5 PL	SiouxCity FD 	Fire Dispatch 	FM 	Fire Dispatch 
+153.74000 	   	WNUF772 	BM	94.8 PL	SiouxCity PW 	Public Works 	FM 	Public Works 
+154.17500 	   	KAB991  	B	94.8 PL	SiouxCity Pg 	City Paging 	FM 	Public Works 
+151.83500 	   	WNED586 	BM	CSQ	Red Cross 	Red Cross Disaster Operations 	FM 	Emergency Ops 
+Alliant Energy	 DMR Tier 3	 Various	Electronic Engineering Sioux City	 Motorola Type II	 Sioux City	Mid American Energy	 MPT-1327 Standard	 Various
+RACOM Network	 EDACS Networked Standard	 Various	Tri-State Comm Climbing Hill	 LTR Standard	 Climbing Hill	Tri-State Comm Sioux City	 LTR Standard	 Sioux City

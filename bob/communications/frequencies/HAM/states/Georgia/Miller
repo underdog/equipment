@@ -1,12 +1,12 @@
-158.82000 	WPKM554 	RM	179.9 PL	MCPS Disp 	Public Safety Dispatch (SO, PD & FD) 	FMN 	Multi-Dispatch 
-159.45750 	WPKM554 	RM		MCSO TAC 	Sheriff TAC 	FMN 	Law Tac 
-155.56500 	WPKM554 	BM		MCSO MRD 	Sheriff MRD 	FMN 	Interop 
-155.18250 	WQSF559 	BM		MCEMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.20500 	KYB969 	BM		MC EMS 	EMS 	FMN 	EMS-Talk 
-159.45750 	WPKM554 	RM		MC 911 	E911 	FMN 	Emergency Ops 
-155.61750 	WQDG476 	RM		CPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-155.56500 	WPLV392 	BM		CPD MRD 	Police MRD 	FMN 	Interop 
-158.84250 	WQLE223 	RM		C/MCFD Disp 	Colquitt/Miller County Fire Dispatch 	FMN 	Fire Dispatch 
-153.77000 	WQGV600 	RM	423 DPL	C/MCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.84500 	WNHN679 	BM		Public Works 	Public Works 	FMN 	Public Works 
-156.23250 	WQGT250 	RM		Public Works 	Public Works 	FMN 	Public Works 
+158.82000 	151.34000  	WPKM554 	RM	179.9 PL	MCPS Disp 	Public Safety Dispatch (SO, PD & FD) 	FMN 	Multi-Dispatch 
+159.45750 	159.97750  	WPKM554 	RM		MCSO TAC 	Sheriff TAC 	FMN 	Law Tac 
+155.56500 	   	WPKM554 	BM		MCSO MRD 	Sheriff MRD 	FMN 	Interop 
+155.18250 	158.87250  	WQSF559 	BM		MCEMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.20500 	   	KYB969 	BM		MC EMS 	EMS 	FMN 	EMS-Talk 
+159.45750 	155.97750  	WPKM554 	RM		MC 911 	E911 	FMN 	Emergency Ops 
+155.61750 	159.08250  	WQDG476 	RM		CPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+155.56500 	   	WPLV392 	BM		CPD MRD 	Police MRD 	FMN 	Interop 
+158.84250 	155.66250  	WQLE223 	RM		C/MCFD Disp 	Colquitt/Miller County Fire Dispatch 	FMN 	Fire Dispatch 
+153.77000 	155.59500  	WQGV600 	RM	423 DPL	C/MCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.84500 	   	WNHN679 	BM		Public Works 	Public Works 	FMN 	Public Works 
+156.23250 	153.82250  	WQGT250 	RM		Public Works 	Public Works 	FMN 	Public Works 

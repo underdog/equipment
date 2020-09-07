@@ -1,39 +1,39 @@
-154.80000 	KNID245 	RM	532 DPL	Delaware Co SO 	Sheriff Dispatch (before OKWIN) 	FMN 	Law Dispatch 
-155.58000 	 	M		Delaware Co SO 2 	Sheriff  Car to Car (before OKWIN) 	FMN 	Law Tac 
-154.34000 	WPAC911 	BM		Delaware Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.74000 	WQAN647 	RM	047 DPL	Delaware Co EM 	Emergency Management 	FMN 	Emergency Ops 
-153.81500 	WQCJ906 	BM		DelawareCo Road1 	District 1 -- Highway Maintenance 	FMN 	Public Works 
-151.14500 	WPFE287 	BM		DelawareCo Road2 	District 2 -- Highway Maintenance 	FMN 	Public Works 
-158.76000 	WQTK387 	BM		DelawareCo Road3 	District 3 -- Highway Maintenance 	FMN 	Public Works 
-155.14500 	WPXV552 	BM		DelawarCoGarbage 	Garbage Trucks 	FMN 	Public Works 
-155.98500 	KZQ699 	BM	118.8 PL	Jay PD and Fire 	Police, Fire and EMS Dispatch 	FMN 	Multi-Dispatch 
-463.80000 	WQVS426 	RM	167.9 PL	Jay Schools 	School Buses 	FMN 	Schools 
-153.84500 	WPFD307 	BM		Colcord PD / FD 	Police and Fire Dispatch 	FMN 	Multi-Dispatch 
-155.05500 	WPYF655 	RM		Colcord EM 	Emergency Management 	FMN 	Emergency Ops 
-460.11250 	WPNR444 	RM	CC 15TG 1SL 1	Grove Police 1 	Police Dispatch 	DMR 	Law Dispatch 
-465.25000 	 	M		Grove Police 2 	Police Car to Car 	DMR 	Law Tac 
-460.46250 	WPNR444 	RM	CC 15TG *SL 1	Grove Fire 	Fire Dispatch 	DMR 	Fire Dispatch 
-453.87500 	WGI329 	RM		Grove Fire 	Grove Fire 	FMN 	Fire Dispatch 
-453.17500 	WPMN247 	RM	CC 15TG 1SL 1	Grove EMS 	EMS Dispatch 	DMR 	EMS Dispatch 
-453.57500 	WPJZ247 	RM	265 DPL	Grove EMS 	Grove EMS 	FMN 	EMS-Tac 
-453.65000 	WQVM397 	RM	114 DPL	Grove EM 	Grove Emergency Managment 	FMN 	Emergency Ops 
-155.29500 	WRDF795 	BM	243 DPL	Grove Hosptal ER 	Grove  Hospital Emergency Room 	FMN 	Hospital 
-463.17500 	KNEN295 	RM		Grove Hosptal 	Integris Grove  Hospital 	FMN 	Hospital 
-463.87500 	WPDY207 	RM	136.5 PL	Grove Hosptal 	Integris Grove  Hospital 	FMN 	Hospital 
-158.79000 	WNWS264 	BM	210.7 PL	Grove Public Wks 	Public Works 	FMN 	Public Works 
-451.87500 	WPLV752 	RM	205 DPL	Grove School 	Public Schools 	FMN 	Schools 
-453.05000 	WQLQ908 	RM	CC 1TG 1000SL 1	Kansas Police 	Police Dispatch 	DMR 	Law Dispatch 
-154.10000 	KNIN926 	RM		Kansas Fire 	Fire Dispatch 	FMN 	Multi-Dispatch 
-154.96500 	KNIN926 	BM		Kansas Fire 2 	Fire 2 	FMN 	Multi-Tac 
-460.55000 	WNUS679 	BM	CC 14TG 100SL 1	WSiloamSpringsPD 	Police Dispatch 	DMR 	Law Dispatch 
-453.48750 	WQEJ632	 	RM	CC 8TG 201SL 2	WSiloamSpringsFD 	Fire Dispatch 	DMR 	Fire Dispatch 
-453.78750 	WPZQ732 	RM	516 DPL	Butler Fire 	Butler Fire -- Near Jay 	FMN 	Fire Dispatch 
-453.31250 	WRAD226 	RM	CC 15TG 1SL 1	Cowskin Fire 	Cowskin Fire/EMS -- North of Grove 	DMR 	Fire Dispatch 
-159.10500 	WPEV913 	RM		Flint Ridge Fire 	Flint Ridge Fire -- Near Kansas 	FMN 	Fire Dispatch 
-453.53750 	WPMM298 	RM	CC 15TG 1SL 1	HickoryGroveFire 	Hickory Grove Fire 	DMR 	Fire Dispatch 
-154.01000 	WPMJ486 	RM	445 DPL	Leach Fire 	Leach Fire 	FMN 	Fire Dispatch 
-453.68750 	WPMM985 	RM	CC 3TG 1SL 1	MonkeyIslandFD 	Monkey Island Fire -- on Grand Lake 	DMR 	Fire Dispatch 
-460.63750 	WPXR991 	RM	743 DPL	ParadisePoint FD 	Paradise Point Fire -- North of Grove 	FMN 	Fire Dispatch 
-453.43750 	WPMW898 	RM		Zena Fire 	Zena Fire -- North of Jay 	FMN 	Fire Dispatch 
-American Electric Power (AEP)	 EDACS Networked Standard	 Various	Cherokee Casino Grove	 DMR Motorola Capacity Plus Single Site (TRBO)	 Grove	KAMO Power	 NXDN NEXEDGE 4800
- Various	Smith Two-Way Radio	 NXDN NEXEDGE 9600	 Arkansas and Oklahoma	
+154.80000 	151.20500  	KNID245 	RM	532 DPL	Delaware Co SO 	Sheriff Dispatch (before OKWIN) 	FMN 	Law Dispatch 
+155.58000 	   	 	M		Delaware Co SO 2 	Sheriff  Car to Car (before OKWIN) 	FMN 	Law Tac 
+154.34000 	   	WPAC911 	BM		Delaware Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.74000 	158.91000  	WQAN647 	RM	047 DPL	Delaware Co EM 	Emergency Management 	FMN 	Emergency Ops 
+153.81500 	   	WQCJ906 	BM		DelawareCo Road1 	District 1 -- Highway Maintenance 	FMN 	Public Works 
+151.14500 	   	WPFE287 	BM		DelawareCo Road2 	District 2 -- Highway Maintenance 	FMN 	Public Works 
+158.76000 	   	WQTK387 	BM		DelawareCo Road3 	District 3 -- Highway Maintenance 	FMN 	Public Works 
+155.14500 	   	WPXV552 	BM		DelawarCoGarbage 	Garbage Trucks 	FMN 	Public Works 
+155.98500 	   	KZQ699 	BM	118.8 PL	Jay PD and Fire 	Police, Fire and EMS Dispatch 	FMN 	Multi-Dispatch 
+463.80000 	468.80000  	WQVS426 	RM	167.9 PL	Jay Schools 	School Buses 	FMN 	Schools 
+153.84500 	   	WPFD307 	BM		Colcord PD / FD 	Police and Fire Dispatch 	FMN 	Multi-Dispatch 
+155.05500 	158.92500  	WPYF655 	RM		Colcord EM 	Emergency Management 	FMN 	Emergency Ops 
+460.11250 	465.11250  	WPNR444 	RM	CC 15TG 1SL 1	Grove Police 1 	Police Dispatch 	DMR 	Law Dispatch 
+465.25000 	   	 	M		Grove Police 2 	Police Car to Car 	DMR 	Law Tac 
+460.46250 	465.46250  	WPNR444 	RM	CC 15TG *SL 1	Grove Fire 	Fire Dispatch 	DMR 	Fire Dispatch 
+453.87500 	458.87500  	WGI329 	RM		Grove Fire 	Grove Fire 	FMN 	Fire Dispatch 
+453.17500 	458.17500  	WPMN247 	RM	CC 15TG 1SL 1	Grove EMS 	EMS Dispatch 	DMR 	EMS Dispatch 
+453.57500 	458.57500  	WPJZ247 	RM	265 DPL	Grove EMS 	Grove EMS 	FMN 	EMS-Tac 
+453.65000 	458.65000  	WQVM397 	RM	114 DPL	Grove EM 	Grove Emergency Managment 	FMN 	Emergency Ops 
+155.29500 	   	WRDF795 	BM	243 DPL	Grove Hosptal ER 	Grove  Hospital Emergency Room 	FMN 	Hospital 
+463.17500 	468.17500  	KNEN295 	RM		Grove Hosptal 	Integris Grove  Hospital 	FMN 	Hospital 
+463.87500 	468.87500  	WPDY207 	RM	136.5 PL	Grove Hosptal 	Integris Grove  Hospital 	FMN 	Hospital 
+158.79000 	   	WNWS264 	BM	210.7 PL	Grove Public Wks 	Public Works 	FMN 	Public Works 
+451.87500 	456.87500  	WPLV752 	RM	205 DPL	Grove School 	Public Schools 	FMN 	Schools 
+453.05000 	458.05000  	WQLQ908 	RM	CC 1TG 1000SL 1	Kansas Police 	Police Dispatch 	DMR 	Law Dispatch 
+154.10000 	158.96250  	KNIN926 	RM		Kansas Fire 	Fire Dispatch 	FMN 	Multi-Dispatch 
+154.96500 	   	KNIN926 	BM		Kansas Fire 2 	Fire 2 	FMN 	Multi-Tac 
+460.55000 	465.55000  	WNUS679 	BM	CC 14TG 100SL 1	WSiloamSpringsPD 	Police Dispatch 	DMR 	Law Dispatch 
+453.48750 	458.48750  	WQEJ632	 	RM	CC 8TG 201SL 2	WSiloamSpringsFD 	Fire Dispatch 	DMR 	Fire Dispatch 
+453.78750 	458.78750  	WPZQ732 	RM	516 DPL	Butler Fire 	Butler Fire -- Near Jay 	FMN 	Fire Dispatch 
+453.31250 	458.31250  	WRAD226 	RM	CC 15TG 1SL 1	Cowskin Fire 	Cowskin Fire/EMS -- North of Grove 	DMR 	Fire Dispatch 
+159.10500 	153.77000  	WPEV913 	RM		Flint Ridge Fire 	Flint Ridge Fire -- Near Kansas 	FMN 	Fire Dispatch 
+453.53750 	458.53750  	WPMM298 	RM	CC 15TG 1SL 1	HickoryGroveFire 	Hickory Grove Fire 	DMR 	Fire Dispatch 
+154.01000 	150.77500  	WPMJ486 	RM	445 DPL	Leach Fire 	Leach Fire 	FMN 	Fire Dispatch 
+453.68750 	458.68750  	WPMM985 	RM	CC 3TG 1SL 1	MonkeyIslandFD 	Monkey Island Fire -- on Grand Lake 	DMR 	Fire Dispatch 
+460.63750 	465.63750  	WPXR991 	RM	743 DPL	ParadisePoint FD 	Paradise Point Fire -- North of Grove 	FMN 	Fire Dispatch 
+453.43750 	458.43750  	WPMW898 	RM		Zena Fire 	Zena Fire -- North of Jay 	FMN 	Fire Dispatch 
+American Electric Power (AEP)	 EDACS Networked Standard	 Various	Cherokee Casino Grove	 DMR Motorola Capacity Plus Single Site (TRBO)	 Grove	KAMO Power	 NXDN NEXEDGE 4800	 Various
+Oklahoma Wireless Interoperability Network (OKWIN) (P25)	 Project 25 Phase I	 Various	Smith Two-Way Radio	 NXDN NEXEDGE 9600	 Arkansas and Oklahoma	

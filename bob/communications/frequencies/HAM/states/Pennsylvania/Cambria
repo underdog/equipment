@@ -1,110 +1,109 @@
-453.22500 	WPAI297 	RM	141.3 PL	Cam Fire Dsp 	Fire Dispatch 	FMN 	Fire Dispatch 
-453.55000 	WQA839 	RM	141.3 PL	Cam EMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.34000 	KXO941 	BM	107.2 PL	Cam EMS HEAR 	EMS HEAR VHF 	FMN 	EMS-Talk 
-155.38500 	WPYF666 	BM	107.2 PL	Cam EMS-Hosp 	EMS-to-Hospital 	FMN 	EMS-Talk 
-453.07500 	KTA870 	RM		Cassandra FC 	Cassandra Volunteer Fire Company 	FMN 	Fire-Tac 
-464.27500 	 	RM	100.0 PL	Medstar Disp 	Conemaugh Health System Medstar Helicopter 	FMN 	EMS Dispatch 
-452.00000 	WQBC544 	RM		Conmaugh EMS 	Conemaugh Twp EMS (Daytime) 	FMN 	EMS-Tac 
-460.13750 	KVN715 	RM	115 DPL	CoverHill FD 	Cover Hill Volunteer Fire Company 	FMN 	Fire-Tac 
-460.61250 	WPXI563 	RM	110.9 PL	Dauntless FC 	Dauntless Fire Company 	FMN 	Fire-Tac 
-453.28750 	KNDF966 	RM	173.8 PL	Frndale Fire 	Ferndale Fire Department 	FMN 	Fire-Tac 
-453.77500 	KA35393 	BM	118.8 PL	JohnstwnFD 2 	Johnstown Fire Department - Ch 2 Citywide 	FMN 	Fire-Tac 
-460.16250 	KGL476 	RM		Mid Tay Fire 	Middle Taylor Township Volunteer Fire Co 	FMN 	Fire-Tac 
-458.43750 	KQS737 	M	100.0 PL	Oakland FP 	Oakland VFC Fire Police 	FMN 	Fire-Tac 
-460.63750 	KGD490 	BM	107.2 PL	Oaklnd Fire 	Oakland Volunteer Fire Company 	FMN 	Fire-Tac 
-460.57500 	WQCM923 	RM	110.9 PL	Portage Fire 	Portage Volunteer Fire Company 	FMN 	Fire-Tac 
-453.02500 	WPKA646 	RM	107.2 PL	Richlnd Fire 	Richland Township Fire 	FMN 	Fire-Tac 
-154.51500 	WNMF903 	BM	107.2 PL	7th Ward Amb 	Seventh Ward Ambulance 	FMN 	EMS-Tac 
-154.54000 	KNBS225 	RM	107.2 PL	W End Amb 	West End Ambulance 	FMN 	EMS-Tac 
-154.43000 	WRY676 	BM	107.2 PL	W Hills Fire 	West Hills Regional Fire Department 	FMN 	Fire-Talk 
-453.25000 	WRY676 	RM	125 DPL	W Hills Fire 	West Hills Regional Fire Department 	FMN 	Fire-Tac 
-453.30000 	WQA839  	RM	118.8 PL	Cam PD North 	North Police Dispatch 	FMN 	Law Dispatch 
-453.37500 	WPAI297 	RM	107.2 PL	Cam PD South 	South Police Dispatch 	FMN 	Law Dispatch 
-453.65000 	WPBZ866 	BM	118.8 PL	Cam PD Metro 	Metro Police Dispatch (Johnstown) 	FMN 	Law Dispatch 
-453.57500 	WNQH999 	RM	107.2 PL	Cam Sheriff 	Cambria County Sheriff's Department 	FMN 	Law Talk 
-453.70000 	WNST631 	RM	107.2 PL	Adams PW/PD 	Adams Township- Police Ch 2 (shared with Highway Dept) 	FMN 	Law Talk 
-457.52500 	 	M	107.2 PL	Dale PD 2 	Dale Borough Police - Ch 2 	FMN 	Law Tac 
-460.10000 	WPKV284 	RM	107.2 PL	FerndalePD 2 	Ferndale Borough Police - Ch 2 	FMN 	Law Talk 
-460.22500 	WPBY520 	RM	107.2 PL	RichlandPD 2 	Richland Township Police - Ch 2 (shared with Streets Dept) 	FMN 	Law Talk 
-460.27500 	WPBY520 	M		RichlandPD 3 	Richland Township Police - Ch 3 (Traffic Enforcement) 	FMN 	Law Talk 
-460.52500 	WNQA345 	RM	107.2 PL	UprYoderPD 2 	Upper Yoder Township Police - Ch 2 	FMN 	Law Talk 
-453.48750 	WQHQ555 	RM	141.3 PL	Cam N Ops 1 	North Operations 1 (Police/Fire/EMS) 	FMN 	Interop 
-453.76250 	WQHW555 	RM	141.3 PL	Cam N Ops 2 	North Operations 2 (Police/Fire/EMS) 	FMN 	Interop 
-453.50000 	WPBZ866 	RM	107.2 PL	Cam N Ops 3 	North Operations 3 (Police/Fire/EMS) 	FMN 	Interop 
-453.58750 	WQHQ554 	RM	141.3 PL	Cam N Ops 4 	North Operations 4 (Police/Fire/EMS) 	FMN 	Interop 
-453.73750 	WQHQ554 	RM	118.8 PL	Cam N Ops 5 	North Operations 5 (Police/Fire/EMS) 	FMN 	Interop 
-460.36250 	WQHQ555 	RM	141.3 PL	Cam S Ops 1 	South Operations 1 (Police/Fire/EMS) 	FMN 	Interop 
-460.03750 	WQHQ555 	RM	141.3 PL	Cam S Ops 2 	South Operations 2 (Police/Fire/EMS) 	FMN 	Interop 
-460.28750 	WQHQ554 	RM	141.3 PL	Cam S Ops 3 	South Operations 3 (Police/Fire/EMS) 	FMN 	Interop 
-460.40000 	WQHQ554 	RM	141.3 PL	Cam S Ops 4 	South Operations 4 (Police/Fire/EMS) 	FMN 	Interop 
-453.73750 	WQHQ554 	RM	141.3 PL	Cam S Ops 5 	South Operations 5 (Police/Fire/EMS) 	FMN 	Interop 
-453.60000 	WPBZ866 	RM	107.2 PL	Cam S Ops 6 	South Operations 6 (Police/Fire/EMS) 	FMN 	Interop 
-453.56250 	WQHQ555 	RM	141.3 PL	Cam C Ops 1 	Central Operations 1 (Police/Fire/EMS) 	FMN 	Interop 
-453.66250 	WQHQ555 	RM	141.3 PL	Cam C Ops 2 	Central Operations 2 (Police/Fire/EMS) 	FMN 	Interop 
-460.33750 	WQHQ555 	RM	141.3 PL	Cam C Ops 3 	Central Operations 3 (Police/Fire/EMS) 	FMN 	Interop 
-460.26250 	WQHQ555 	RM	141.3 PL	Cam C Ops 4 	Central Operations 4 (Police/Fire/EMS) 	FMN 	Interop 
-453.20000 	WPBZ866 	RM	107.2 PL	Cam C Ops 5 	Central Operations 5 (Police/Fire/EMS) 	FMN 	Interop 
-453.40000 	WPLH243 	RM	116 DPL	Cam Prison 	County Prison 	FMN 	Corrections 
-460.45000 	WPLH243 	RM	116 DPL	Cam Prison 	County Prison 	FMN 	Corrections 
-453.35000 	WYC552 	RM	173.8 PL	CCTA Urban 	County Transit Authority Ch 1/2 - Urban Division 	FMN 	Transportation 
-453.47500 	WQHJ788 	RM	173.8 PL	CCTA Rural 	County Transit Authority Ch 3/4 - Rural Division 	FMN 	Transportation 
-460.37500 	WPEH353 	RM	173.8 PL	CCTA Johnst 	County Transit Authority Ch 5/6 - Johnstown Repeater 	FMN 	Transportation 
-453.52500 	WQIP244 	RM	210.7 PL	Cam P-MARS 	Emergency Management P-MARS (Also PL 141.3) 	FMN 	Emergency Ops 
-153.81500 	KZB480 	BM		JCAA Ops 	Johnstown/Cambria Airport Authority 	FMN 	Transportation 
-453.75000 	WNMY470 	RM	026 DPL	Cam Twp PW 	Cambria Township Highway Departmant 	FMN 	Public Works 
-158.77500 	WPLG868 	BM		E Taylor PW 	East Taylor Township Public Works 	FMN 	Public Works 
-460.21250 	 	RM		EbensB PW 	Ebensburg Public Works 	FMN 	Public Works 
-460.55000 	WQMF292 	RM	143 DPL	Geistown DPW 	Geistown Borough Streets Department 	FMN 	Public Works 
-451.15000 	WQPI755 	RM	179.9 PL	Highland Sewer 	Highland Sewer and Water 	FMN 	Public Works 
-155.77500 	WNPA808 	BM	107.2 PL	JackTwp PW 	Jackson Township Public Works 	FMN 	Public Works 
-464.17500 	WNPL829 	RM	118.8 PL	JHA Ops 	Johnstown Housing Authority 	FMN 	Public Works 
-453.42500 	KTQ242 	RM	118.8 PL	Jtwn Streets 	Johnstown Streets Department 	FMN 	Public Works 
-155.88000 	KNCY858 	BM	107.2 PL	Lwr Yoder PW 	Lower Yoder Township Highway Dept 	FMN 	Public Works 
-155.71500 	WNXR493 	BM		Portage PW 	Portage Township Services 	FMN 	Public Works 
-453.80000 	WNQA345 	RM	141.3 PL	Upr Yoder St 	Upper Yoder Township Streets Department 	FMN 	Public Works 
-153.86000 	WNLW242 	BM	107.2 PL	Westmont PW 	Westmont Borough Services 	FMN 	Public Works 
-122.80000 	 	BM		Eburg A-port 	Ebensburg Airport 	AM 	Aircraft 
-118.32500 	 	BM		ATIS 	ATIS 	AM 	Aircraft 
-121.60000 	 	BM		Ground 	Ground 	AM 	Aircraft 
-122.65000 	 	BM		Altoona FSS 	Altoona Flight Service (Johnstown) 	AM 	Aircraft 
-122.95000 	 	BM		Air East FBO 	Air East FBO (Johnstown) 	AM 	Aircraft 
-125.75000 	 	BM		Tower 	Tower 	AM 	Aircraft 
-126.85000 	 	BM		Clear/Deliv 	Clearance / Delivery 	AM 	Aircraft 
-128.20000 	 	BM		A/D West 	Approach / Departure West 	AM 	Aircraft 
-135.97500 	 	BM		A/D Ease 	Approach / Departure East 	AM 	Aircraft 
-153.81500 	KZB480 	BM		Maintenance  	Maintenance / Administration 	FMN 	Business 
-451.85000 	WQIK802 	BM	465 DPL	InclinePlane 	Johnstown Inclined Plane / CCTA Ch 7 	FM 	Business 
-452.12500 	WPCF352 	RM		Arrow Conc 	Arrow Concrete (Johnstown) 	FM 	Business 
-151.99500 	WNUM554 	M		Clark Prod 	Clark Productions 	FM 	Business 
-451.96250 	WPMD813 	M	167.9 PL	Gallikers 	Galliker's Dairy 	FM 	Business 
-453.10000 	WPPF429 	F		Highland SWA 	Highland Sewer and Water Authority 	FM 	Public Works 
-151.80500 	 	RM		Laurel Water 	Laurel Management Corp (Johnstown) 	FM 	Public Works 
-461.75000 	WXN453 	RM	CC 1TG *SL *	McIlwain Bus 	Mcilwain School Buses 	DMR 	Transportation 
-463.85000 	 	RM	100.0 PL	Med-van 	Med-van transport  	FM 	Transportation 
-462.40000 	WQBC926 	RM	100.0 PL	Pepsi Jhnstn 	Pepsi Bottling Johnstown Plant 	FM 	Business 
-152.37500 	WPDS363 	BM		Yllw/DC Cab 	Yellow Cab/DC Cab 	FM 	Transportation 
-464.82500 	WNVB991 	RM	125 DPL	MMC Lee Sec 	CHS Memorial Medical Center - Lee Campus - Security 	FM 	Security 
-464.12500 	KCN915 	RM	CC 4TG *SL 1	MMC Main Sec 	CHS Memorial Medical Center - Main Campus - Security 	DMR 	Security 
-461.35000 	WQCS811 	RM		MMC Maint 	CHS Memorial Medical Center - Maintenence 	FM 	Hospital 
-467.92500 	WQFU432 	M	506 DPL	Best Buy RTC 	Best Buy (Richland Town Centre) 	FM 	Business 
-467.22500 	WQFA402 	M	CSQ	JCPenney 	JCPennys 	FM 	Business 
-461.02500 	WPAV449 	RM	226 DPL	Galleria Sec 	Johnstown Galleria Mall - Security 	FM 	Security 
-154.60000 	 	M	CSQ	Wal-Mart 1 	Wal-Mart 	FM 	Business 
-154.57000 	 	M	CSQ	Wal-Mart 2 	Wal-Mart - Management 	FM 	Business 
-461.22500 	KNEK540 	RM		CambHts Sch 	Cambria Heights School District 	FM 	Schools 
-461.52500 	WPIX947 	RM		GJ Vo-Tech 	Greater Johnstown Area Vocational Technology School 	FM 	Schools 
-464.40000 	WPIX947 	RM		GJ Vo-Tech 	Greater Johnstown Area Vocational Technology School 	FM 	Schools 
-453.87500 	WXT572 	RM	186.2 PL	HGAC Fire 	Hiram G. Andrews Center - Fire 	FMN 	Fire-Tac 
-460.20000 	WXT572 	RM	CC 2TG 1SL 2	HGAC Ops 	Hiram G. Andrews Center - Plant Operations 	DMR 	Schools 
-453.51250 	WXT572 	RM	CC 1TG *SL 1	HGAC Security 	Hiram G. Andrews Center - Security 	DMR 	Security 
-451.92500 	WPRX730 	RM	114.8 PL	John Schools 	Johnstown Area School District 	FM 	Schools 
-452.30000 	WPRX730 	RM	114.8 PL	John Schools 	Johnstown Area School District 	FM 	Schools 
-463.42500 	WQBN775 	RM	115 DPL	Mt Aloysius 	Mount Aloysius College 	FM 	Schools 
-463.41250 	WQKG945 	RM	82.5 PL	PHCC 	Pennsylvania Highlands Community College 	FM 	Schools 
-460.85000 	WPDN413 	RM	156.7 PL	SaintFrancis 	Saint Francis University 	FM 	Schools 
-462.10000 	WQGW817 	RM	156.7 PL	UPJ IT 	University of Pittsburgh at Johnstown - IT Department 	FM 	Schools 
-151.71500 	KUL565 	BM	118.8 PL	UPJ Maint 	University of Pittsburgh at Johnstown - Physical Plant 	FM 	Schools 
-453.15000 	KSJ232 	RM	110.9 PL	UPJ PD 1 	University of Pittsburgh at Johnstown - Police 	FM 	Law Dispatch 
-460.50000 	KSJ232 	RM	103.5 PL	UPJ PD 2 	University of Pittsburgh at Johnstown - Police 	FM 	Law Dispatch 
-Federal Correctional Institution Loretto	 Motorola Type II	 Loretto	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud
- Statewide	
+453.22500 	458.22500  	WPAI297 	RM	141.3 PL	Cam Fire Dsp 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.55000 	458.55000  	WQA839 	RM	141.3 PL	Cam EMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	KXO941 	BM	107.2 PL	Cam EMS HEAR 	EMS HEAR VHF 	FMN 	EMS-Talk 
+155.38500 	   	WPYF666 	BM	107.2 PL	Cam EMS-Hosp 	EMS-to-Hospital 	FMN 	EMS-Talk 
+453.07500 	458.07500  	KTA870 	RM		Cassandra FC 	Cassandra Volunteer Fire Company 	FMN 	Fire-Tac 
+464.27500 	469.27500  	 	RM	100.0 PL	Medstar Disp 	Conemaugh Health System Medstar Helicopter 	FMN 	EMS Dispatch 
+452.00000 	457.00000  	WQBC544 	RM		Conmaugh EMS 	Conemaugh Twp EMS (Daytime) 	FMN 	EMS-Tac 
+460.13750 	465.13750  	KVN715 	RM	115 DPL	CoverHill FD 	Cover Hill Volunteer Fire Company 	FMN 	Fire-Tac 
+460.61250 	465.61250  	WPXI563 	RM	110.9 PL	Dauntless FC 	Dauntless Fire Company 	FMN 	Fire-Tac 
+453.28750 	458.28750  	KNDF966 	RM	173.8 PL	Frndale Fire 	Ferndale Fire Department 	FMN 	Fire-Tac 
+453.77500 	   	KA35393 	BM	118.8 PL	JohnstwnFD 2 	Johnstown Fire Department - Ch 2 Citywide 	FMN 	Fire-Tac 
+460.16250 	465.16250  	KGL476 	RM		Mid Tay Fire 	Middle Taylor Township Volunteer Fire Co 	FMN 	Fire-Tac 
+458.43750 	   	KQS737 	M	100.0 PL	Oakland FP 	Oakland VFC Fire Police 	FMN 	Fire-Tac 
+460.63750 	465.63750  	KGD490 	BM	107.2 PL	Oaklnd Fire 	Oakland Volunteer Fire Company 	FMN 	Fire-Tac 
+460.57500 	465.57500  	WQCM923 	RM	110.9 PL	Portage Fire 	Portage Volunteer Fire Company 	FMN 	Fire-Tac 
+453.02500 	458.02500  	WPKA646 	RM	107.2 PL	Richlnd Fire 	Richland Township Fire 	FMN 	Fire-Tac 
+154.51500 	   	WNMF903 	BM	107.2 PL	7th Ward Amb 	Seventh Ward Ambulance 	FMN 	EMS-Tac 
+154.54000 	   	KNBS225 	RM	107.2 PL	W End Amb 	West End Ambulance 	FMN 	EMS-Tac 
+154.43000 	   	WRY676 	BM	107.2 PL	W Hills Fire 	West Hills Regional Fire Department 	FMN 	Fire-Talk 
+453.25000 	458.25000  	WRY676 	RM	125 DPL	W Hills Fire 	West Hills Regional Fire Department 	FMN 	Fire-Tac 
+453.30000 	458.30000  	WQA839  	RM	118.8 PL	Cam PD North 	North Police Dispatch 	FMN 	Law Dispatch 
+453.37500 	458.37500  	WPAI297 	RM	107.2 PL	Cam PD South 	South Police Dispatch 	FMN 	Law Dispatch 
+453.65000 	458.65000  	WPBZ866 	BM	118.8 PL	Cam PD Metro 	Metro Police Dispatch (Johnstown) 	FMN 	Law Dispatch 
+453.57500 	458.57500  	WNQH999 	RM	107.2 PL	Cam Sheriff 	Cambria County Sheriff's Department 	FMN 	Law Talk 
+453.70000 	458.70000  	WNST631 	RM	107.2 PL	Adams PW/PD 	Adams Township- Police Ch 2 (shared with Highway Dept) 	FMN 	Law Talk 
+457.52500 	   	 	M	107.2 PL	Dale PD 2 	Dale Borough Police - Ch 2 	FMN 	Law Tac 
+460.10000 	465.10000  	WPKV284 	RM	107.2 PL	FerndalePD 2 	Ferndale Borough Police - Ch 2 	FMN 	Law Talk 
+460.22500 	465.22500  	WPBY520 	RM	107.2 PL	RichlandPD 2 	Richland Township Police - Ch 2 (shared with Streets Dept) 	FMN 	Law Talk 
+460.27500 	465.27500  	WPBY520 	M		RichlandPD 3 	Richland Township Police - Ch 3 (Traffic Enforcement) 	FMN 	Law Talk 
+460.52500 	465.52500  	WNQA345 	RM	107.2 PL	UprYoderPD 2 	Upper Yoder Township Police - Ch 2 	FMN 	Law Talk 
+453.48750 	458.48750  	WQHQ555 	RM	141.3 PL	Cam N Ops 1 	North Operations 1 (Police/Fire/EMS) 	FMN 	Interop 
+453.76250 	458.76250  	WQHW555 	RM	141.3 PL	Cam N Ops 2 	North Operations 2 (Police/Fire/EMS) 	FMN 	Interop 
+453.50000 	458.50000  	WPBZ866 	RM	107.2 PL	Cam N Ops 3 	North Operations 3 (Police/Fire/EMS) 	FMN 	Interop 
+453.58750 	458.58750  	WQHQ554 	RM	141.3 PL	Cam N Ops 4 	North Operations 4 (Police/Fire/EMS) 	FMN 	Interop 
+453.73750 	458.73750  	WQHQ554 	RM	118.8 PL	Cam N Ops 5 	North Operations 5 (Police/Fire/EMS) 	FMN 	Interop 
+460.36250 	465.36250  	WQHQ555 	RM	141.3 PL	Cam S Ops 1 	South Operations 1 (Police/Fire/EMS) 	FMN 	Interop 
+460.03750 	465.03750  	WQHQ555 	RM	141.3 PL	Cam S Ops 2 	South Operations 2 (Police/Fire/EMS) 	FMN 	Interop 
+460.28750 	465.28750  	WQHQ554 	RM	141.3 PL	Cam S Ops 3 	South Operations 3 (Police/Fire/EMS) 	FMN 	Interop 
+460.40000 	465.40000  	WQHQ554 	RM	141.3 PL	Cam S Ops 4 	South Operations 4 (Police/Fire/EMS) 	FMN 	Interop 
+453.73750 	458.73750  	WQHQ554 	RM	141.3 PL	Cam S Ops 5 	South Operations 5 (Police/Fire/EMS) 	FMN 	Interop 
+453.60000 	458.60000  	WPBZ866 	RM	107.2 PL	Cam S Ops 6 	South Operations 6 (Police/Fire/EMS) 	FMN 	Interop 
+453.56250 	458.56250  	WQHQ555 	RM	141.3 PL	Cam C Ops 1 	Central Operations 1 (Police/Fire/EMS) 	FMN 	Interop 
+453.66250 	458.66250  	WQHQ555 	RM	141.3 PL	Cam C Ops 2 	Central Operations 2 (Police/Fire/EMS) 	FMN 	Interop 
+460.33750 	465.33750  	WQHQ555 	RM	141.3 PL	Cam C Ops 3 	Central Operations 3 (Police/Fire/EMS) 	FMN 	Interop 
+460.26250 	465.26250  	WQHQ555 	RM	141.3 PL	Cam C Ops 4 	Central Operations 4 (Police/Fire/EMS) 	FMN 	Interop 
+453.20000 	458.20000  	WPBZ866 	RM	107.2 PL	Cam C Ops 5 	Central Operations 5 (Police/Fire/EMS) 	FMN 	Interop 
+453.40000 	458.40000  	WPLH243 	RM	116 DPL	Cam Prison 	County Prison 	FMN 	Corrections 
+460.45000 	465.45000  	WPLH243 	RM	116 DPL	Cam Prison 	County Prison 	FMN 	Corrections 
+453.35000 	458.35000  	WYC552 	RM	173.8 PL	CCTA Urban 	County Transit Authority Ch 1/2 - Urban Division 	FMN 	Transportation 
+453.47500 	458.47500  	WQHJ788 	RM	173.8 PL	CCTA Rural 	County Transit Authority Ch 3/4 - Rural Division 	FMN 	Transportation 
+460.37500 	465.37500  	WPEH353 	RM	173.8 PL	CCTA Johnst 	County Transit Authority Ch 5/6 - Johnstown Repeater 	FMN 	Transportation 
+453.52500 	   	WQIP244 	RM	210.7 PL	Cam P-MARS 	Emergency Management P-MARS (Also PL 141.3) 	FMN 	Emergency Ops 
+153.81500 	   	KZB480 	BM		JCAA Ops 	Johnstown/Cambria Airport Authority 	FMN 	Transportation 
+453.75000 	458.75000  	WNMY470 	RM	026 DPL	Cam Twp PW 	Cambria Township Highway Departmant 	FMN 	Public Works 
+158.77500 	   	WPLG868 	BM		E Taylor PW 	East Taylor Township Public Works 	FMN 	Public Works 
+460.21250 	465.21250  	 	RM		EbensB PW 	Ebensburg Public Works 	FMN 	Public Works 
+460.55000 	465.55000  	WQMF292 	RM	143 DPL	Geistown DPW 	Geistown Borough Streets Department 	FMN 	Public Works 
+451.15000 	465.15000  	WQPI755 	RM	179.9 PL	Highland Sewer 	Highland Sewer and Water 	FMN 	Public Works 
+155.77500 	   	WNPA808 	BM	107.2 PL	JackTwp PW 	Jackson Township Public Works 	FMN 	Public Works 
+464.17500 	469.17500  	WNPL829 	RM	118.8 PL	JHA Ops 	Johnstown Housing Authority 	FMN 	Public Works 
+453.42500 	458.42500  	KTQ242 	RM	118.8 PL	Jtwn Streets 	Johnstown Streets Department 	FMN 	Public Works 
+155.88000 	   	KNCY858 	BM	107.2 PL	Lwr Yoder PW 	Lower Yoder Township Highway Dept 	FMN 	Public Works 
+155.71500 	   	WNXR493 	BM		Portage PW 	Portage Township Services 	FMN 	Public Works 
+453.80000 	458.80000  	WNQA345 	RM	141.3 PL	Upr Yoder St 	Upper Yoder Township Streets Department 	FMN 	Public Works 
+153.86000 	   	WNLW242 	BM	107.2 PL	Westmont PW 	Westmont Borough Services 	FMN 	Public Works 
+122.80000 	   	 	BM		Eburg A-port 	Ebensburg Airport 	AM 	Aircraft 
+118.32500 	   	 	BM		ATIS 	ATIS 	AM 	Aircraft 
+121.60000 	   	 	BM		Ground 	Ground 	AM 	Aircraft 
+122.65000 	   	 	BM		Altoona FSS 	Altoona Flight Service (Johnstown) 	AM 	Aircraft 
+122.95000 	   	 	BM		Air East FBO 	Air East FBO (Johnstown) 	AM 	Aircraft 
+125.75000 	   	 	BM		Tower 	Tower 	AM 	Aircraft 
+126.85000 	   	 	BM		Clear/Deliv 	Clearance / Delivery 	AM 	Aircraft 
+128.20000 	   	 	BM		A/D West 	Approach / Departure West 	AM 	Aircraft 
+135.97500 	   	 	BM		A/D Ease 	Approach / Departure East 	AM 	Aircraft 
+153.81500 	   	KZB480 	BM		Maintenance  	Maintenance / Administration 	FMN 	Business 
+451.85000 	   	WQIK802 	BM	465 DPL	InclinePlane 	Johnstown Inclined Plane / CCTA Ch 7 	FM 	Business 
+452.12500 	457.12500  	WPCF352 	RM		Arrow Conc 	Arrow Concrete (Johnstown) 	FM 	Business 
+151.99500 	   	WNUM554 	M		Clark Prod 	Clark Productions 	FM 	Business 
+451.96250 	   	WPMD813 	M	167.9 PL	Gallikers 	Galliker's Dairy 	FM 	Business 
+453.10000 	458.10000  	WPPF429 	F		Highland SWA 	Highland Sewer and Water Authority 	FM 	Public Works 
+151.80500 	   	 	RM		Laurel Water 	Laurel Management Corp (Johnstown) 	FM 	Public Works 
+461.75000 	466.75000  	WXN453 	RM	CC 1TG *SL *	McIlwain Bus 	Mcilwain School Buses 	DMR 	Transportation 
+463.85000 	468.85000  	 	RM	100.0 PL	Med-van 	Med-van transport  	FM 	Transportation 
+462.40000 	467.40000  	WQBC926 	RM	100.0 PL	Pepsi Jhnstn 	Pepsi Bottling Johnstown Plant 	FM 	Business 
+152.37500 	157.63500  	WPDS363 	BM		Yllw/DC Cab 	Yellow Cab/DC Cab 	FM 	Transportation 
+464.82500 	469.82500  	WNVB991 	RM	125 DPL	MMC Lee Sec 	CHS Memorial Medical Center - Lee Campus - Security 	FM 	Security 
+464.12500 	469.12500  	KCN915 	RM	CC 4TG *SL 1	MMC Main Sec 	CHS Memorial Medical Center - Main Campus - Security 	DMR 	Security 
+461.35000 	466.35000  	WQCS811 	RM		MMC Maint 	CHS Memorial Medical Center - Maintenence 	FM 	Hospital 
+467.92500 	   	WQFU432 	M	506 DPL	Best Buy RTC 	Best Buy (Richland Town Centre) 	FM 	Business 
+467.22500 	   	WQFA402 	M	CSQ	JCPenney 	JCPennys 	FM 	Business 
+461.02500 	466.02500  	WPAV449 	RM	226 DPL	Galleria Sec 	Johnstown Galleria Mall - Security 	FM 	Security 
+154.60000 	   	 	M	CSQ	Wal-Mart 1 	Wal-Mart 	FM 	Business 
+154.57000 	   	 	M	CSQ	Wal-Mart 2 	Wal-Mart - Management 	FM 	Business 
+461.22500 	466.22500  	KNEK540 	RM		CambHts Sch 	Cambria Heights School District 	FM 	Schools 
+461.52500 	   	WPIX947 	RM		GJ Vo-Tech 	Greater Johnstown Area Vocational Technology School 	FM 	Schools 
+464.40000 	469.40000  	WPIX947 	RM		GJ Vo-Tech 	Greater Johnstown Area Vocational Technology School 	FM 	Schools 
+453.87500 	458.87500  	WXT572 	RM	186.2 PL	HGAC Fire 	Hiram G. Andrews Center - Fire 	FMN 	Fire-Tac 
+460.20000 	465.20000  	WXT572 	RM	CC 2TG 1SL 2	HGAC Ops 	Hiram G. Andrews Center - Plant Operations 	DMR 	Schools 
+453.51250 	458.51250  	WXT572 	RM	CC 1TG *SL 1	HGAC Security 	Hiram G. Andrews Center - Security 	DMR 	Security 
+451.92500 	456.92500  	WPRX730 	RM	114.8 PL	John Schools 	Johnstown Area School District 	FM 	Schools 
+452.30000 	457.30000  	WPRX730 	RM	114.8 PL	John Schools 	Johnstown Area School District 	FM 	Schools 
+463.42500 	468.42500  	WQBN775 	RM	115 DPL	Mt Aloysius 	Mount Aloysius College 	FM 	Schools 
+463.41250 	468.41250  	WQKG945 	RM	82.5 PL	PHCC 	Pennsylvania Highlands Community College 	FM 	Schools 
+460.85000 	465.85000  	WPDN413 	RM	156.7 PL	SaintFrancis 	Saint Francis University 	FM 	Schools 
+462.10000 	   	WQGW817 	RM	156.7 PL	UPJ IT 	University of Pittsburgh at Johnstown - IT Department 	FM 	Schools 
+151.71500 	   	KUL565 	BM	118.8 PL	UPJ Maint 	University of Pittsburgh at Johnstown - Physical Plant 	FM 	Schools 
+453.15000 	458.15000  	KSJ232 	RM	110.9 PL	UPJ PD 1 	University of Pittsburgh at Johnstown - Police 	FM 	Law Dispatch 
+460.50000 	465.50000  	KSJ232 	RM	103.5 PL	UPJ PD 2 	University of Pittsburgh at Johnstown - Police 	FM 	Law Dispatch 
+Federal Correctional Institution Loretto	 Motorola Type II	 Loretto	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide

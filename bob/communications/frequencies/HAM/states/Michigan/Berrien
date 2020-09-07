@@ -1,64 +1,63 @@
-453.52500 	KUD543 	RM		Berrien Jail 1 	Jail Security 	FMN 	Corrections 
-859.96250 	WQYX942 	RM	167.9 PL	Berrien Jail 2 	Jail 2 	FM 	Corrections 
-155.92500 	KZV872 	B		Berrien EMA 	Emergency Management - Alerting/Sirens 	FMN 	Emergency Ops 
-453.90000 	WPPX293 	RM		Berrien EOC 	Emergency Operations Center (poss. D632) 	FMN 	Emergency Ops 
-154.25000 	KNAB415 	BM	CSQ	Berrn Fire North 	Fire: Dispatch - North (Tone Outs) 	FMN 	Fire Dispatch 
-151.37000 	KNAB415 	BM	85.4 PL	BerrnFireLakshre 	Fire: Dispatch - Lakeshore 	FMN 	Fire Dispatch 
-151.29500 	WQOK790 	RM	100.0 PL	Berrn Fire South 	Fire: Dispatch - South  	FMN 	Fire Dispatch 
-156.10500 	WQNL329 	RM	123.0 PL	Berrien Fire 1 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.17500 	WNFF978 	BM	136.5 PL	Berrien FGround1 	EMS 	FMN 	EMS Dispatch 
-151.20500 	KNAB415 	M	136.5 PL	Berrien FGround2 	Fireground 2 	FMN 	Fire-Tac 
-151.23500 	KNAB415 	M	136.5 PL	Berrien FGround3 	Fireground 3 	FMN 	Fire-Tac 
-159.31500 	KNAB415 	M	136.5 PL	Berrien FGround4 	Fireground 4 	FMN 	Fire-Tac 
-159.40500 	KNAB415 	M	136.5 PL	Berrien FGround5 	Fireground 5 	FMN 	Fire-Tac 
-156.19500 	WNXU707 	RM	82.5 PL	Brrn Roads North 	Road Commission 	FMN 	Public Works 
-154.74000 	KBS878 	RM	151.4 PL	Comm EMS Disp 	Community EMS - Dispatch 	FMN 	EMS Dispatch 
-155.20500 	KBS878 	BM	82.5 PL	Commnity EMS Alt 	Community EMS - Alternate 	FMN 	EMS-Talk 
-155.34000 	KBS878 	BM		HEARN1 	EMS-to-Hospital 	FMN 	Hospital 
-152.35250 	WQKT913 	RM		LklndRHS NrsHome 	Nursing Home Ops (LP) Expired 09/19 	FMN 	Business 
-151.33250 	KAS567 	RM	331 DPL	SWCommAmbSr Disp 	EMS: Dispatch 	FMN 	EMS Dispatch 
-460.15000 	KAS567 	F		SMCAS RF 	EMS: Remote Link (114.8 is Chicago) 	FMN 	EMS Dispatch 
-155.29500 	KAS567 	BM	114.8 PL	SWCommAmb Scndry 	EMS: Secondary 	FMN 	EMS Dispatch 
-452.62500 	KWS413 	RM	127.3 PL	TwnCtyATA Ops 1 	Operations 	FMN 	Transportation 
-452.62500 	KWS413 	RM	131.8 PL	TwnCtyATA Ops 2 	Operations 	FMN 	Transportation 
-154.08500 	WNAV251 	BM		Buchanan DPW 	Public Works/Snow Crews 	FMN 	Public Works 
-154.20500 	KQE482 	M	82.5 PL	VanBuren Fire 	{Link to} Fire: Van Buren County 	FMN 	Fire Dispatch 
-154.96500 	KQL804 	BM		Coloma DPW 	Public Works 	FMN 	Public Works 
-155.83500 	WQKN988 	RM		Lake Twp DPW 	Public Works Expired 07/19 	FMN 	Public Works 
-453.20000 	WPMD896 	RM		NewBufalo DPW/PD 	Public Works / Police 	FMN 	Multi-Talk 
-453.95000 	KSI922 	RM		Niles 453.95 	Public Works/Police/Fire 	FMN 	Multi-Talk 
-155.10000 	WQLJ355 	RM	244 DPL	Niles Fire  	Fire: Local/Paging 	FMN 	Fire Dispatch 
-460.60000 	KNDC769 	F	CSQ	Niles Fire UHF 	Fire: Remote Link (Carrier) 	FMN 	Fire-Talk 
-465.60000 	KNDC769 	F		Niles Fire RF2 	Fire: Remote Link 	FMN 	Fire-Talk 
-453.47500 	WPZQ730 	RM		Niles DialARide 	Transit - Dial-a-Ride 	FMN 	Transportation 
-151.10000 	WQJP921 	RM	412 DPL	St. Joseph DPW 	Public Works 	FMN 	Public Works 
-154.11500 	KKH562 	BM		Three Oaks DPW 	Public Works 	FMN 	Public Works 
-452.15000 	KNNG803 	RM	82.5 PL	LakeMI Col Ops 1 	Security/Grounds/Maintenance 	FMN 	Schools 
-461.60000 	KNNG803 	RM	103.5 PL	LakeMI Col Ops 2 	Security, Grounds, Maintenance 	FMN 	Schools 
-37.94000 	WQSA667 	BM		BntnHrbr Sch Bus 	Transportation 	FMN 	Schools 
-155.20500 	KNDS627 	BM		BernSprn Sch Bus 	Transportation 	FMN 	Schools 
-460.30000 	WQEI610 	RM	565 DPL	BrnSprng Sch OpA 	Operations 	FMN 	Schools 
-460.30000 	WQEI610 	RM	131.8 PL	BrnSprng Sch OpB 	Operations 	FMN 	Schools 
-461.77500 	KNHY925 	RM		Brndywne SchlBus 	Transportation - Primary 	FMN 	Schools 
-155.29500 	KZU320 	BM		Bridgeman SchBus 	Transportation 	FMN 	Schools 
-464.52500 	WSM871 	RM		Buchanan SchOps1 	Operations 	FMN 	Schools 
-451.23750 	WSM871 	M		Buchanan SchOps2 	Operations 	FMN 	Schools 
-451.33750 	WSM871 	M		Buchanan SchOps3 	Operations 	FMN 	Schools 
-451.53750 	WSM871 	M		Buchanan SchOps4 	Operations 	FMN 	Schools 
-451.66250 	WSM871 	M		Buchanan SchOps5 	Operations 	FMN 	Schools 
-452.28750 	WSM871 	M		Buchanan SchOps6 	Operations 	FMN 	Schools 
-452.76250 	WSM871 	M		Buchanan SchOps8 	Operations 	FMN 	Schools 
-452.86250 	WSM871 	M		Buchanan SchOps9 	Operations 	FMN 	Schools 
-155.22000 	KSR934 	BM		Coloma Sch Bus 	Transportation 	FMN 	Schools 
-47.54000 	WQCP657 	BM		Lakshr Sch Bus 1 	Transportation Dispatch [Ch 1] 	FM 	Schools 
-47.56000 	WQCP657 	M		Lakshr Sch Bus 2 	Transportation Unit-to-Unit [Ch 2] 	FM 	Schools 
-155.20500 	WNSN427 	BM		NewBuflo Sch Bus 	Transportation - Dispatch 	FMN 	Schools 
-155.29500 	WNSN427 	M		NewBuf SchBs u2u 	Transportation - Unit-to-Unit 	FMN 	Schools 
-155.16000 	KBJ892 	BM		Niles School Bus 	Transportation 	NXDN 	Schools 
-155.22000 	WNEB938 	BM		RvrValy SchlBus1 	Transportation 	FMN 	Schools 
-155.26500 	WNEB938 	BM	82.5 PL	RvrValy SchlBus2 	Transportation 	FMN 	Schools 
-47.62000 	KZA359 	BM		St. Joe Sch Bus 	Transportation 	FM 	Schools 
-155.28000 	KJK785 	BM		Watrvlt Schl Bus 	Transportation 	FMN 	Schools 
-American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	CSI Systems	 LTR Standard	 Sturgis	Four Winds Casino and Resort	 DMR Motorola Connect Plus (TRBO)
- New Buffalo	RFT Enterprises / HEI Wireless	 LTR Standard	 Benton Harbor	SMR Communications (Berrien)	 LTR Standard	 Niles	TRT Partners (LTR)
- LTR Standard	 Holland	
+453.52500 	458.52500  	KUD543 	RM		Berrien Jail 1 	Jail Security 	FMN 	Corrections 
+859.96250 	814.96250  	WQYX942 	RM	167.9 PL	Berrien Jail 2 	Jail 2 	FM 	Corrections 
+155.92500 	   	KZV872 	B		Berrien EMA 	Emergency Management - Alerting/Sirens 	FMN 	Emergency Ops 
+453.90000 	458.90000  	WPPX293 	RM		Berrien EOC 	Emergency Operations Center (poss. D632) 	FMN 	Emergency Ops 
+154.25000 	   	KNAB415 	BM	CSQ	Berrn Fire North 	Fire: Dispatch - North (Tone Outs) 	FMN 	Fire Dispatch 
+151.37000 	   	KNAB415 	BM	85.4 PL	BerrnFireLakshre 	Fire: Dispatch - Lakeshore 	FMN 	Fire Dispatch 
+151.29500 	153.80000  	WQOK790 	RM	100.0 PL	Berrn Fire South 	Fire: Dispatch - South  	FMN 	Fire Dispatch 
+156.10500 	153.92750  	WQNL329 	RM	123.0 PL	Berrien Fire 1 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.17500 	   	WNFF978 	BM	136.5 PL	Berrien FGround1 	EMS 	FMN 	EMS Dispatch 
+151.20500 	   	KNAB415 	M	136.5 PL	Berrien FGround2 	Fireground 2 	FMN 	Fire-Tac 
+151.23500 	   	KNAB415 	M	136.5 PL	Berrien FGround3 	Fireground 3 	FMN 	Fire-Tac 
+159.31500 	   	KNAB415 	M	136.5 PL	Berrien FGround4 	Fireground 4 	FMN 	Fire-Tac 
+159.40500 	   	KNAB415 	M	136.5 PL	Berrien FGround5 	Fireground 5 	FMN 	Fire-Tac 
+156.19500 	151.02500  	WNXU707 	RM	82.5 PL	Brrn Roads North 	Road Commission 	FMN 	Public Works 
+154.74000 	159.16500  	KBS878 	RM	151.4 PL	Comm EMS Disp 	Community EMS - Dispatch 	FMN 	EMS Dispatch 
+155.20500 	   	KBS878 	BM	82.5 PL	Commnity EMS Alt 	Community EMS - Alternate 	FMN 	EMS-Talk 
+155.34000 	   	KBS878 	BM		HEARN1 	EMS-to-Hospital 	FMN 	Hospital 
+152.35250 	157.61250  	WQKT913 	RM		LklndRHS NrsHome 	Nursing Home Ops (LP) Expired 09/19 	FMN 	Business 
+151.33250 	159.18750  	KAS567 	RM	331 DPL	SWCommAmbSr Disp 	EMS: Dispatch 	FMN 	EMS Dispatch 
+460.15000 	   	KAS567 	F		SMCAS RF 	EMS: Remote Link (114.8 is Chicago) 	FMN 	EMS Dispatch 
+155.29500 	   	KAS567 	BM	114.8 PL	SWCommAmb Scndry 	EMS: Secondary 	FMN 	EMS Dispatch 
+452.62500 	457.62500  	KWS413 	RM	127.3 PL	TwnCtyATA Ops 1 	Operations 	FMN 	Transportation 
+452.62500 	457.62500  	KWS413 	RM	131.8 PL	TwnCtyATA Ops 2 	Operations 	FMN 	Transportation 
+154.08500 	   	WNAV251 	BM		Buchanan DPW 	Public Works/Snow Crews 	FMN 	Public Works 
+154.20500 	   	KQE482 	M	82.5 PL	VanBuren Fire 	{Link to} Fire: Van Buren County 	FMN 	Fire Dispatch 
+154.96500 	   	KQL804 	BM		Coloma DPW 	Public Works 	FMN 	Public Works 
+155.83500 	153.75500  	WQKN988 	RM		Lake Twp DPW 	Public Works Expired 07/19 	FMN 	Public Works 
+453.20000 	458.20000  	WPMD896 	RM		NewBufalo DPW/PD 	Public Works / Police 	FMN 	Multi-Talk 
+453.95000 	458.95000  	KSI922 	RM		Niles 453.95 	Public Works/Police/Fire 	FMN 	Multi-Talk 
+155.10000 	156.15000  	WQLJ355 	RM	244 DPL	Niles Fire  	Fire: Local/Paging 	FMN 	Fire Dispatch 
+460.60000 	   	KNDC769 	F	CSQ	Niles Fire UHF 	Fire: Remote Link (Carrier) 	FMN 	Fire-Talk 
+465.60000 	   	KNDC769 	F		Niles Fire RF2 	Fire: Remote Link 	FMN 	Fire-Talk 
+453.47500 	458.47500  	WPZQ730 	RM		Niles DialARide 	Transit - Dial-a-Ride 	FMN 	Transportation 
+151.10000 	156.07500  	WQJP921 	RM	412 DPL	St. Joseph DPW 	Public Works 	FMN 	Public Works 
+154.11500 	   	KKH562 	BM		Three Oaks DPW 	Public Works 	FMN 	Public Works 
+452.15000 	457.15000  	KNNG803 	RM	82.5 PL	LakeMI Col Ops 1 	Security/Grounds/Maintenance 	FMN 	Schools 
+461.60000 	466.60000  	KNNG803 	RM	103.5 PL	LakeMI Col Ops 2 	Security, Grounds, Maintenance 	FMN 	Schools 
+37.94000 	   	WQSA667 	BM		BntnHrbr Sch Bus 	Transportation 	FMN 	Schools 
+155.20500 	   	KNDS627 	BM		BernSprn Sch Bus 	Transportation 	FMN 	Schools 
+460.30000 	465.30000  	WQEI610 	RM	565 DPL	BrnSprng Sch OpA 	Operations 	FMN 	Schools 
+460.30000 	465.30000  	WQEI610 	RM	131.8 PL	BrnSprng Sch OpB 	Operations 	FMN 	Schools 
+461.77500 	466.77500  	KNHY925 	RM		Brndywne SchlBus 	Transportation - Primary 	FMN 	Schools 
+155.29500 	   	KZU320 	BM		Bridgeman SchBus 	Transportation 	FMN 	Schools 
+464.52500 	469.52500  	WSM871 	RM		Buchanan SchOps1 	Operations 	FMN 	Schools 
+451.23750 	   	WSM871 	M		Buchanan SchOps2 	Operations 	FMN 	Schools 
+451.33750 	   	WSM871 	M		Buchanan SchOps3 	Operations 	FMN 	Schools 
+451.53750 	   	WSM871 	M		Buchanan SchOps4 	Operations 	FMN 	Schools 
+451.66250 	   	WSM871 	M		Buchanan SchOps5 	Operations 	FMN 	Schools 
+452.28750 	   	WSM871 	M		Buchanan SchOps6 	Operations 	FMN 	Schools 
+452.76250 	   	WSM871 	M		Buchanan SchOps8 	Operations 	FMN 	Schools 
+452.86250 	   	WSM871 	M		Buchanan SchOps9 	Operations 	FMN 	Schools 
+155.22000 	   	KSR934 	BM		Coloma Sch Bus 	Transportation 	FMN 	Schools 
+47.54000 	   	WQCP657 	BM		Lakshr Sch Bus 1 	Transportation Dispatch [Ch 1] 	FM 	Schools 
+47.56000 	   	WQCP657 	M		Lakshr Sch Bus 2 	Transportation Unit-to-Unit [Ch 2] 	FM 	Schools 
+155.20500 	   	WNSN427 	BM		NewBuflo Sch Bus 	Transportation - Dispatch 	FMN 	Schools 
+155.29500 	   	WNSN427 	M		NewBuf SchBs u2u 	Transportation - Unit-to-Unit 	FMN 	Schools 
+155.16000 	   	KBJ892 	BM		Niles School Bus 	Transportation 	NXDN 	Schools 
+155.22000 	   	WNEB938 	BM		RvrValy SchlBus1 	Transportation 	FMN 	Schools 
+155.26500 	   	WNEB938 	BM	82.5 PL	RvrValy SchlBus2 	Transportation 	FMN 	Schools 
+47.62000 	   	KZA359 	BM		St. Joe Sch Bus 	Transportation 	FM 	Schools 
+155.28000 	   	KJK785 	BM		Watrvlt Schl Bus 	Transportation 	FMN 	Schools 
+American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	CSI Systems	 LTR Standard	 Sturgis	Four Winds Casino and Resort	 DMR Motorola Connect Plus (TRBO)	 New Buffalo
+RFT Enterprises / HEI Wireless	 LTR Standard	 Benton Harbor	SMR Communications (Berrien)	 LTR Standard	 Niles	TRT Partners (LTR)	 LTR Standard	 Holland

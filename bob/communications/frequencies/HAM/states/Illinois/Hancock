@@ -1,33 +1,33 @@
-155.41500 	WYC780 	RM	162.2 PL	Hancock Sheriff  	Sheriff: Dispatch (Nauvoo) 	FMN 	Law Dispatch 
-155.41500 	WYC780 	RM	162.2 PL	Hancock Sheriff  	Sheriff: Dispatch (Warsaw) 	FMN 	Law Dispatch 
-151.33250 	WYC780 	M	131.8 PL	Hancock ShrfMX1  	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
-151.18250 	WYC780 	M		Hancock ShrfMX2  	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
-158.97000 	WYC790 	F	173.8 PL	Hancock EMS  	EMS: Dispatch (by Sheriff) 	FMN 	EMS Dispatch 
-155.40000 	WPCG860 	BM		Hancock ESDA 	ESDA 	FMN 	Emergency Ops 
-154.38500 	WQAK851 	BM	CSQ	Hancock Fire 	Fire: Tone-Outs/Dispatch (*see ntoes) 	FMN 	Fire Dispatch 
-154.38500 	WQAK851 	BM	100.0 PL	HancockFire1000 	Fire: Tone-Outs/Dispatch (*see notes) 	FMN 	Fire Dispatch 
-154.38500 	WQAK851 	BM	103.5 PL	HancockFire1035 	Fire: Tone-Outs/Dispatch (*see notes) 	FMN 	Fire Dispatch 
-154.38500 	WQAK851 	BM	118.8 PL	HancockFire118  	Fire: Tone-Outs/Dispatch (*see notes) 	FMN 	Fire Dispatch 
-154.38500 	WQAK851 	BM	127.3 PL	HancockFire1273  	Fire: Tone-Outs/Dispatch (*see notes) 	FMN 	Fire Dispatch 
-156.24000 	KGN549 	RM	203.5 PL	Hancock Highway  	Highway Department (also 127.3?) 	FMN 	Public Works 
-155.34000 	KSL965 	BM	91.5 PL	MERCI1 91.5  	Patient Reports 	FMN 	Hospital 
-163.25000 	KSL965 	B		MemHosp PG 	Hospital Paging (CSQ) 	FM 	Data 
-150.99500 	WPFX472 	BM		AppaTwp Road 	Appanoose Township Road Maintenance 	FMN 	Public Works 
-151.01000 	WPHP728 	BM		MontTwp Road 	Montebello Township Roads 	FMN 	Public Works 
-153.51500 	WQVI825 	F		Dallas RWD-D 	Dallas Rural Water District: Water Data (CSQ-Hamilton) 	Telm 	Data 
-154.96500 	WZZ253 	BM		Augusta Fire 	Fire: Local 	FMN 	Fire-Tac 
-154.38500 	KNEV348 	RM	162.2 PL	Carthage Fire  	Fire: Local Repeater 	FMN 	Fire Dispatch 
-158.73000 	WPLD219 	BM		Carthage City  	City Operations (in use, is not DPL) 	FMN 	Multi-Dispatch 
-154.38500 	KNEY876 	RM	127.3 PL	DallasCity Fire  	Fire: Paging / Dispatch 	FMN 	Fire Dispatch 
-153.83000 	KNEY876 	M		DallasCity FG  	Fireground? 	FMN 	Fire-Tac 
-155.71500 	KNGJ583 	BM	CSQ	Hamilton Fire 	Fire: Paging (by County; w/ Warsaw, Lima-Peru) 	FMN 	Fire Dispatch 
-156.12000 	KNGJ583 	BM	162.2 PL	Hamilton PubWrks 	Public Works / Street Department 	FMN 	Public Works 
-452.33750 	WQDW459 	F		Hamilton WDD 1  	Water Distribution Data (CSQ) 	Telm 	Data 
-463.67500 	WQDW459 	F		Hamilton WDD 2  	Water Distribution Data (CSQ) 	Telm 	Data 
-155.88000 	WNDT475 	BM		LaHarpe City 	Local ? (123.0?) 	FMN 	Multi-Dispatch 
-158.82000 	WNSN430 	BM		Warsaw PubWrks  	Public Works (100.0 ?) 	FMN 	Public Works 
-453.77500 	KNNU520 	F		Warsaw WDD 	Water Distribution Data 	Telm 	Public Works 
-461.20000 	WQOM437 	RM	516 DPL	Carthage SchBus  	Buses / Ops 	FMN 	Schools 
-155.20500 	WPMH440 	BM	127.3 PL	Hamilton School  	Buses / Ops (also 162.2?) 	FMN 	Schools 
-155.23500 	WPEA521 	BM	103.5 PL	Warsaw Sch Bus   	Buses 	FMN 	Schools 
-RACOM Network	 EDACS Networked Standard	 Various	Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois	
+155.41500 	158.97000  	WYC780 	RM	162.2 PL	Hancock Sheriff  	Sheriff: Dispatch (Nauvoo) 	FMN 	Law Dispatch 
+155.41500 	158.97000  	WYC780 	RM	162.2 PL	Hancock Sheriff  	Sheriff: Dispatch (Warsaw) 	FMN 	Law Dispatch 
+151.33250 	   	WYC780 	M	131.8 PL	Hancock ShrfMX1  	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
+151.18250 	   	WYC780 	M		Hancock ShrfMX2  	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
+158.97000 	   	WYC790 	F	173.8 PL	Hancock EMS  	EMS: Dispatch (by Sheriff) 	FMN 	EMS Dispatch 
+155.40000 	   	WPCG860 	BM		Hancock ESDA 	ESDA 	FMN 	Emergency Ops 
+154.38500 	   	WQAK851 	BM	CSQ	Hancock Fire 	Fire: Tone-Outs/Dispatch (*see ntoes) 	FMN 	Fire Dispatch 
+154.38500 	   	WQAK851 	BM	100.0 PL	HancockFire1000 	Fire: Tone-Outs/Dispatch (*see notes) 	FMN 	Fire Dispatch 
+154.38500 	   	WQAK851 	BM	103.5 PL	HancockFire1035 	Fire: Tone-Outs/Dispatch (*see notes) 	FMN 	Fire Dispatch 
+154.38500 	   	WQAK851 	BM	118.8 PL	HancockFire118  	Fire: Tone-Outs/Dispatch (*see notes) 	FMN 	Fire Dispatch 
+154.38500 	   	WQAK851 	BM	127.3 PL	HancockFire1273  	Fire: Tone-Outs/Dispatch (*see notes) 	FMN 	Fire Dispatch 
+156.24000 	159.00000  	KGN549 	RM	203.5 PL	Hancock Highway  	Highway Department (also 127.3?) 	FMN 	Public Works 
+155.34000 	   	KSL965 	BM	91.5 PL	MERCI1 91.5  	Patient Reports 	FMN 	Hospital 
+163.25000 	   	KSL965 	B		MemHosp PG 	Hospital Paging (CSQ) 	FM 	Data 
+150.99500 	   	WPFX472 	BM		AppaTwp Road 	Appanoose Township Road Maintenance 	FMN 	Public Works 
+151.01000 	   	WPHP728 	BM		MontTwp Road 	Montebello Township Roads 	FMN 	Public Works 
+153.51500 	   	WQVI825 	F		Dallas RWD-D 	Dallas Rural Water District: Water Data (CSQ-Hamilton) 	Telm 	Data 
+154.96500 	   	WZZ253 	BM		Augusta Fire 	Fire: Local 	FMN 	Fire-Tac 
+154.38500 	151.08500  	KNEV348 	RM	162.2 PL	Carthage Fire  	Fire: Local Repeater 	FMN 	Fire Dispatch 
+158.73000 	   	WPLD219 	BM		Carthage City  	City Operations (in use, is not DPL) 	FMN 	Multi-Dispatch 
+154.38500 	153.95000  	KNEY876 	RM	127.3 PL	DallasCity Fire  	Fire: Paging / Dispatch 	FMN 	Fire Dispatch 
+153.83000 	   	KNEY876 	M		DallasCity FG  	Fireground? 	FMN 	Fire-Tac 
+155.71500 	   	KNGJ583 	BM	CSQ	Hamilton Fire 	Fire: Paging (by County; w/ Warsaw, Lima-Peru) 	FMN 	Fire Dispatch 
+156.12000 	   	KNGJ583 	BM	162.2 PL	Hamilton PubWrks 	Public Works / Street Department 	FMN 	Public Works 
+452.33750 	   	WQDW459 	F		Hamilton WDD 1  	Water Distribution Data (CSQ) 	Telm 	Data 
+463.67500 	   	WQDW459 	F		Hamilton WDD 2  	Water Distribution Data (CSQ) 	Telm 	Data 
+155.88000 	   	WNDT475 	BM		LaHarpe City 	Local ? (123.0?) 	FMN 	Multi-Dispatch 
+158.82000 	   	WNSN430 	BM		Warsaw PubWrks  	Public Works (100.0 ?) 	FMN 	Public Works 
+453.77500 	   	KNNU520 	F		Warsaw WDD 	Water Distribution Data 	Telm 	Public Works 
+461.20000 	466.20000  	WQOM437 	RM	516 DPL	Carthage SchBus  	Buses / Ops 	FMN 	Schools 
+155.20500 	   	WPMH440 	BM	127.3 PL	Hamilton School  	Buses / Ops (also 162.2?) 	FMN 	Schools 
+155.23500 	   	WPEA521 	BM	103.5 PL	Warsaw Sch Bus   	Buses 	FMN 	Schools 
+Diga-Talk	 NXDN NEXEDGE 4800	 Various	RACOM Network	 EDACS Networked Standard	 Various	

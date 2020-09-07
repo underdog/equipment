@@ -1,43 +1,42 @@
-155.52000 	WPXX647 	BM		BC Fire/EMS 	County Fire/EMS VHF Dispatch  	FM 	Fire Dispatch 
-154.41500 	WPJH903 	RM	186.2 PL	BC Fire Response 	County Fire Response (patch to VIPER talkgroup 5515) 	FM 	Fire Dispatch 
-154.16000 	WPJH903 	BM	186.2 PL	BC FD Tac 	County FD Tactical 	FM 	Fire-Tac 
-155.17500 	WPUC346 	M	186.2 PL	Southport FD 	Southport Fire Private 	FM 	Fire-Tac 
-155.74500 	WNYD324 	BM	186.2 PL	EMS & Rescue 	EMS & Rescue Dispatch 	FM 	Fire Dispatch 
-155.22000 	WRU929  	BM	186.2 PL	CstlnRes/SJF 	Coastline Rescue/St. James Fire 	FM 	Fire Dispatch 
-158.76000 	WRU929 	BM	186.2 PL	Coastline Re 	Coastline Rescue 	FM 	EMS Dispatch 
-155.34000 	KNGM487 	BM	186.2 PL	Dosher Hospi 	Dosher Hospital 	FM 	Hospital 
-151.52000 	 	BM	186.2 PL	St James Fire 	Saint James Fire 	FMN 	Fire-Tac 
-155.17500 	WPUC346 	M		Intra-depart 	Intra-departmental Fireground 	FM 	Fire-Tac 
-159.44250 	WQXB435 	RM	186.2 PL	ST JAMES T/A 	Saint James Fire Police Mobile-Mobile 	FMN 	Fire-Talk 
-453.25000 	WPXX647 	RM	073 DPL	BC Fire/EMS UHF 	County Fire/EMS UHF Dispatch (multicast with 155.52) 	FMN 	Fire Dispatch 
-453.45000 	KNBU604 	BM	186.2 PL	BrunCO Sheriff 1 	Sheriff Disp 1 (Patched to VIPER) 	FM 	Law Dispatch 
-453.85000 	WPKA882 	RM	186.2 PL	2 	County SD 	FM 	Law Dispatch 
-453.70000 	KNBU604 	RM	CSQ	Mutual Aid 	Mutual Aid 	FM 	Interop 
-453.57500 	WBR291 	BM		Brunswick Co 	Brunswick Co. Gov. 	FM 	Multi-Talk 
-154.10000 	WPLV684 	BM		Calabash Tow 	Calabash Town Gov. 	FM 	Law Dispatch 
-158.76000 	WNSU644 	BM	186.2 PL	Holden Beach 	Holden Beach Gov. 	FM 	Multi-Talk 
-453.75000 	KNJG565 	RM	186.2 PL	Holden Beach 	Holden Beach Gov. 	FM 	Multi-Talk 
-453.52500 	WPWQ973 	RM		Shallotte Gov 	Shallotte Town Gov. 	FM 	Public Works 
-155.10000 	KAY981 	BM		Southport To 	Southport Town Gov. 	FM 	Multi-Talk 
-155.86500 	KAY981 	BM		Southport To 	Southport Town Gov. 	FM 	Multi-Talk 
-453.90000 	WNDM897 	BM	186.2 PL	Yaupon Beach 	Yaupon Beach Town Gov. 	FM 	Multi-Talk 
-453.57500 	 	RM	186.2 PL	School Buses 	School Buses 	FMN 	Schools 
-460.55000 	WPWC733 	B		Bald Head Is 	Bald Head Is. PD 	FM 	Law Dispatch 
-154.99500 	WNMX349 	RM		Bald Head Is 	Bald Head Island FD 	FM 	Fire Dispatch 
-460.42500 	WPPX902 	RM	186.2 PL	Leland PD 	Leland PD 	FM 	Law Dispatch 
-154.51500 	 		186.2 PL	Leland Vfd T 	Leland Vfd Tac 	FM 	Fire-Tac 
-154.37000 	WNAN295 	RM	186.2 PL	OIFD-DISP 	Oak Island Fire Dispatch 	FM 	Fire Dispatch 
-154.07000 	WNAN295 	M	186.2 PL	OIFD-TACT 	Oak Island Fire Tactical 	FM 	Fire-Tac 
-453.80000 	KNCE450 	BM	186.2 PL	OIPD-DISP 	Oak Island Police Dispatch 	FM 	Law Dispatch 
-460.12500 	KNCE450 	F	186.2 PL	OIPD-LINK 	Oak Island Police Link 	FM 	Law Tac 
-153.84500 	WNUQ971 	RM	186.2 PL	OI-UTILTIES 	Oak Island Utilities 	FM 	Fire Dispatch 
-123.05000 	 	BM		CFear Unicom 	Cape Fear Jetport Unicom 	AM 	Aircraft 
-154.26500 	KNJN784 	BM	186.2 PL	Southport 	Southport Fire and Rescue 	FM 	Fire Dispatch 
-153.95000 	KNJN784 	M	186.2 PL	Southport 	Southport Fire and Rescue Tac 	FM 	Fire-Tac 
-154.05500 	 	BM	CSQ	St. James EOC 	Emergency Operations Center 	FMN 	Emergency Ops 
-453.72500 	WNHV242 	RM	186.2 PL	Sunset Beach 	Sunset Beach Town Gov. 	FM 	Multi-Talk 
-154.34750 	WPXM613 	RM	186.2 PL	SB Beach Ptl 	Beach Patrol 	FMN 	Law Tac 
-452.75000 	WQIF494 	M	30 RAN	BRUNSICKTRAN 	Brunswick Transit System Inc. 	NXDN 	Transportation 
-Brunswick County Schools (Leland)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Leland	Brunswick Novant Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bolivia	Duke Energy (Southport)	 EDACS Standard
- Southport	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	NC PRN Amateur Radio Network	 DMR Conventional Networked	 Various	North Carolina VIPER
- Project 25 Phase I	 Varies	Progress Energy	 Motorola Type II SmartZone Omnilink	 Various	
+155.52000 	   	WPXX647 	BM		BC Fire/EMS 	County Fire/EMS VHF Dispatch  	FM 	Fire Dispatch 
+154.41500 	153.83000  	WPJH903 	RM	186.2 PL	BC Fire Response 	County Fire Response (patch to VIPER talkgroup 5515) 	FM 	Fire Dispatch 
+154.16000 	   	WPJH903 	BM	186.2 PL	BC FD Tac 	County FD Tactical 	FM 	Fire-Tac 
+155.17500 	   	WPUC346 	M	186.2 PL	Southport FD 	Southport Fire Private 	FM 	Fire-Tac 
+155.74500 	153.78500  	WNYD324 	BM	186.2 PL	EMS & Rescue 	EMS & Rescue Dispatch 	FM 	Fire Dispatch 
+155.22000 	   	WRU929  	BM	186.2 PL	CstlnRes/SJF 	Coastline Rescue/St. James Fire 	FM 	Fire Dispatch 
+158.76000 	   	WRU929 	BM	186.2 PL	Coastline Re 	Coastline Rescue 	FM 	EMS Dispatch 
+155.34000 	   	KNGM487 	BM	186.2 PL	Dosher Hospi 	Dosher Hospital 	FM 	Hospital 
+151.52000 	   	 	BM	186.2 PL	St James Fire 	Saint James Fire 	FMN 	Fire-Tac 
+155.17500 	   	WPUC346 	M		Intra-depart 	Intra-departmental Fireground 	FM 	Fire-Tac 
+159.44250 	153.74000  	WQXB435 	RM	186.2 PL	ST JAMES T/A 	Saint James Fire Police Mobile-Mobile 	FMN 	Fire-Talk 
+453.25000 	458.25000  	WPXX647 	RM	073 DPL	BC Fire/EMS UHF 	County Fire/EMS UHF Dispatch (multicast with 155.52) 	FMN 	Fire Dispatch 
+453.45000 	458.45000  	KNBU604 	BM	186.2 PL	BrunCO Sheriff 1 	Sheriff Disp 1 (Patched to VIPER) 	FM 	Law Dispatch 
+453.85000 	458.85000  	WPKA882 	RM	186.2 PL	2 	County SD 	FM 	Law Dispatch 
+453.70000 	458.70000  	KNBU604 	RM	CSQ	Mutual Aid 	Mutual Aid 	FM 	Interop 
+453.57500 	458.57500  	WBR291 	BM		Brunswick Co 	Brunswick Co. Gov. 	FM 	Multi-Talk 
+154.10000 	   	WPLV684 	BM		Calabash Tow 	Calabash Town Gov. 	FM 	Law Dispatch 
+158.76000 	   	WNSU644 	BM	186.2 PL	Holden Beach 	Holden Beach Gov. 	FM 	Multi-Talk 
+453.75000 	458.75000  	KNJG565 	RM	186.2 PL	Holden Beach 	Holden Beach Gov. 	FM 	Multi-Talk 
+453.52500 	458.52500  	WPWQ973 	RM		Shallotte Gov 	Shallotte Town Gov. 	FM 	Public Works 
+155.10000 	   	KAY981 	BM		Southport To 	Southport Town Gov. 	FM 	Multi-Talk 
+155.86500 	   	KAY981 	BM		Southport To 	Southport Town Gov. 	FM 	Multi-Talk 
+453.90000 	   	WNDM897 	BM	186.2 PL	Yaupon Beach 	Yaupon Beach Town Gov. 	FM 	Multi-Talk 
+453.57500 	458.57500  	 	RM	186.2 PL	School Buses 	School Buses 	FMN 	Schools 
+460.55000 	465.55000  	WPWC733 	B		Bald Head Is 	Bald Head Is. PD 	FM 	Law Dispatch 
+154.99500 	153.99500  	WNMX349 	RM		Bald Head Is 	Bald Head Island FD 	FM 	Fire Dispatch 
+460.42500 	465.42500  	WPPX902 	RM	186.2 PL	Leland PD 	Leland PD 	FM 	Law Dispatch 
+154.51500 	   	 		186.2 PL	Leland Vfd T 	Leland Vfd Tac 	FM 	Fire-Tac 
+154.37000 	153.89000  	WNAN295 	RM	186.2 PL	OIFD-DISP 	Oak Island Fire Dispatch 	FM 	Fire Dispatch 
+154.07000 	   	WNAN295 	M	186.2 PL	OIFD-TACT 	Oak Island Fire Tactical 	FM 	Fire-Tac 
+453.80000 	458.80000  	KNCE450 	BM	186.2 PL	OIPD-DISP 	Oak Island Police Dispatch 	FM 	Law Dispatch 
+460.12500 	465.12500  	KNCE450 	F	186.2 PL	OIPD-LINK 	Oak Island Police Link 	FM 	Law Tac 
+153.84500 	158.95500  	WNUQ971 	RM	186.2 PL	OI-UTILTIES 	Oak Island Utilities 	FM 	Fire Dispatch 
+123.05000 	   	 	BM		CFear Unicom 	Cape Fear Jetport Unicom 	AM 	Aircraft 
+154.26500 	   	KNJN784 	BM	186.2 PL	Southport 	Southport Fire and Rescue 	FM 	Fire Dispatch 
+153.95000 	   	KNJN784 	M	186.2 PL	Southport 	Southport Fire and Rescue Tac 	FM 	Fire-Tac 
+154.05500 	   	 	BM	CSQ	St. James EOC 	Emergency Operations Center 	FMN 	Emergency Ops 
+453.72500 	458.72500  	WNHV242 	RM	186.2 PL	Sunset Beach 	Sunset Beach Town Gov. 	FM 	Multi-Talk 
+154.34750 	   	WPXM613 	RM	186.2 PL	SB Beach Ptl 	Beach Patrol 	FMN 	Law Tac 
+452.75000 	   	WQIF494 	M	30 RAN	BRUNSICKTRAN 	Brunswick Transit System Inc. 	NXDN 	Transportation 
+Brunswick County Schools (Leland)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Leland	Brunswick Novant Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bolivia	Duke Energy (Southport)	 EDACS Standard	 Southport
+FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	NC PRN Amateur Radio Network	 DMR Conventional Networked	 Various	Progress Energy	 Motorola Type II SmartZone Omnilink	 Various

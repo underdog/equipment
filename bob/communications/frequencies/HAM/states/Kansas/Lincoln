@@ -1,14 +1,13 @@
-851.57500 	WPNP938 	RM	156.7 PL	LncolnCoSO-North 	Sheriff Dispatch -- North 	FM 	Law Dispatch 
-853.32500 	WPNP938 	RM	146.2 PL	LncolnCoSO-South 	Sheriff Dispatch -- South 	FM 	Law Dispatch 
-158.73000 	KAH700 	RM	156.7 PL	Lincoln Co SO 	Sheriff  (Dispatch before KSICS) 	FMN 	Law Tac 
-154.13000 	KSI980 	BM	CSQ	Lincoln Co FD 1 	Fire Dispatch 	FMN 	Fire Dispatch 
-458.06250 	WNKP436 	M		LincolnCo FD Tac 	Fire -- Command 	FMN 	Fire-Tac 
-458.16250 	WNKP436 	M		LincolnCo FD Tac 	Fire -- Command 	FMN 	Fire-Tac 
-458.38750 	WNKP436 	M		LincolnCo FD Tac 	Fire -- Command 	FMN 	Fire-Tac 
-458.46250 	WNKP436 	M		LincolnCo FD Tac 	Fire -- Command 	FMN 	Fire-Tac 
-155.86500 	WNKP436 	RM	156.7 PL	Lncoln Co EMS 1 	EMS Dispatch 	FMN 	EMS Dispatch 
-37.90000 	KBE481 	BM		Lincoln Co Roads 	Highway Maintenance 	FM 	Public Works 
-156.21000 	KOM782 	RM		Lincoln PD & FD 	Police and Fire Dispatch 	FMN 	Multi-Dispatch 
-155.22000 	WRG892 	BM		Lincoln Schools 	Public Schools (USD #298) -- School Buses 	FMN 	Schools 
-155.17500 	WNKW563 	BM		SylvanGrove Schl 	Public Schools (USD #299) -- School Buses 	FMN 	Schools 
-Kansas Statewide Interoperable Communication System (KSICS)	 Project 25 Phase I	 Statewide	
+851.57500 	806.57500  	WPNP938 	RM	156.7 PL	LncolnCoSO-North 	Sheriff Dispatch -- North 	FM 	Law Dispatch 
+853.32500 	808.32500  	WPNP938 	RM	146.2 PL	LncolnCoSO-South 	Sheriff Dispatch -- South 	FM 	Law Dispatch 
+158.73000 	154.71000  	KAH700 	RM	156.7 PL	Lincoln Co SO 	Sheriff  (Dispatch before KSICS) 	FMN 	Law Tac 
+154.13000 	   	KSI980 	BM	CSQ	Lincoln Co FD 1 	Fire Dispatch 	FMN 	Fire Dispatch 
+458.06250 	   	WNKP436 	M		LincolnCo FD Tac 	Fire -- Command 	FMN 	Fire-Tac 
+458.16250 	   	WNKP436 	M		LincolnCo FD Tac 	Fire -- Command 	FMN 	Fire-Tac 
+458.38750 	   	WNKP436 	M		LincolnCo FD Tac 	Fire -- Command 	FMN 	Fire-Tac 
+458.46250 	   	WNKP436 	M		LincolnCo FD Tac 	Fire -- Command 	FMN 	Fire-Tac 
+155.86500 	153.84500  	WNKP436 	RM	156.7 PL	Lncoln Co EMS 1 	EMS Dispatch 	FMN 	EMS Dispatch 
+37.90000 	   	KBE481 	BM		Lincoln Co Roads 	Highway Maintenance 	FM 	Public Works 
+156.21000 	154.02500  	KOM782 	RM		Lincoln PD & FD 	Police and Fire Dispatch 	FMN 	Multi-Dispatch 
+155.22000 	   	WRG892 	BM		Lincoln Schools 	Public Schools (USD #298) -- School Buses 	FMN 	Schools 
+155.17500 	   	WNKW563 	BM		SylvanGrove Schl 	Public Schools (USD #299) -- School Buses 	FMN 	Schools 

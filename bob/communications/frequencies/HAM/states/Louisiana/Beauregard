@@ -1,15 +1,14 @@
-853.01250 	WPZS800 	RM		ITAC 4 	Sheriff's Office MA ITAC 4 State Interoperability 	FM 	Interop 
-155.04000 	WQQK637 	RM	118.8 PL	BPOEP-FIRE 	Fire Department Main 	FMN 	Fire Dispatch 
-154.28000 	WPHN966 	M		BPFPD1 	Fire Protection Dist 1 	FMN 	Fire-Tac 
-154.29500 	WPHN966 	M		BPFPD1 	Fire Protection Dist 1 	FMN 	Fire-Tac 
-154.99500 	WQRQ948 	RM	131.8 PL	BPFD 1 FG 	Fire District 1 - Fireground 	FMN 	Fire-Tac 
-158.76750 	WPXT247 	RM		BPFPD3A 	Fire Protection Dist 3A 	FMN 	Fire Dispatch 
-156.18000 	WPMD233 	RM	203.5 PL	BPDFPD4-1 	Fire Protection Dist 4 Primary Operations 	FMN 	Fire Dispatch 
-154.13000 	WPMD233 	M	203.5 PL	BPFPD4-FG 	Fire Protection Dist 4 Fireground 	FMN 	Fire-Tac 
-154.81500 	WNYB225 	BM	118.8 PL	DRPD-BU 	Police Department Backup *Expired* 	FM 	Law Dispatch 
-154.75500 	WNBT647 	BM		DRPD-SWAT 	Police Department SWAT *OLD* 	FM 	Law Tac 
-155.01000 	WNBT647 	BM		DRPD 	Police Department 	FM 	Law Tac 
-155.88750 	WQAA301 	RM	118.8 PL	DRFD-DISP 	Fire Department Dispatch 	FMN 	Fire Dispatch 
-155.78250 	WPPV218 	RM		Mrryvlle-DPW 	Merryville Department of Public Works 	FMN 	Public Works 
-CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	CLECO Power (P25)	 Project 25 Phase II	 Pineville	Entergy 	 Project 25 Phase II
- Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	
+853.01250 	808.01250  	WPZS800 	RM		ITAC 4 	Sheriff's Office MA ITAC 4 State Interoperability 	FM 	Interop 
+155.04000 	150.77500  	WQQK637 	RM	118.8 PL	BPOEP-FIRE 	Fire Department Main 	FMN 	Fire Dispatch 
+154.28000 	   	WPHN966 	M		BPFPD1 	Fire Protection Dist 1 	FMN 	Fire-Tac 
+154.29500 	   	WPHN966 	M		BPFPD1 	Fire Protection Dist 1 	FMN 	Fire-Tac 
+154.99500 	   	WQRQ948 	RM	131.8 PL	BPFD 1 FG 	Fire District 1 - Fireground 	FMN 	Fire-Tac 
+158.76750 	153.86750  	WPXT247 	RM		BPFPD3A 	Fire Protection Dist 3A 	FMN 	Fire Dispatch 
+156.18000 	154.01000  	WPMD233 	RM	203.5 PL	BPDFPD4-1 	Fire Protection Dist 4 Primary Operations 	FMN 	Fire Dispatch 
+154.13000 	   	WPMD233 	M	203.5 PL	BPFPD4-FG 	Fire Protection Dist 4 Fireground 	FMN 	Fire-Tac 
+154.81500 	158.97000  	WNYB225 	BM	118.8 PL	DRPD-BU 	Police Department Backup *Expired* 	FM 	Law Dispatch 
+154.75500 	   	WNBT647 	BM		DRPD-SWAT 	Police Department SWAT *OLD* 	FM 	Law Tac 
+155.01000 	   	WNBT647 	BM		DRPD 	Police Department 	FM 	Law Tac 
+155.88750 	153.95750  	WQAA301 	RM	118.8 PL	DRFD-DISP 	Fire Department Dispatch 	FMN 	Fire Dispatch 
+155.78250 	158.94750  	WPPV218 	RM		Mrryvlle-DPW 	Merryville Department of Public Works 	FMN 	Public Works 
+CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	CLECO Power (P25)	 Project 25 Phase II	 Pineville	Entergy 	 Project 25 Phase II	 Various

@@ -1,24 +1,23 @@
-453.32500 	WPKY447 	RM		 Windsor SO 	Sheriff Operations 	FMN 	Law Dispatch 
-154.22000 	WPGI459 	BM		Barnard FD 	Fire Operations (includes Broad Brook) 	FMN 	Fire Dispatch 
-154.22000 	WPGI459 	RM	351 DPL	Bethel FD 	Fire Operations  	FMN 	Fire Dispatch 
-155.70000 	WPNV231 	RM	127.3 PL	Chester Fire 	Fire Operations 	FMN 	Fire Dispatch 
-460.25000 	KSU636 	RM	295 NAC	Hartford PD 	Police Operations  	P25 	Law Dispatch 
-155.63250 	 	BM	192.8 PL	Hartford Amb 	Rescue/Ambulance 	FMN 	EMS-Talk 
-154.73250 	WPYD927 	RM	118.8 PL	Ludlow FD 	Fire Operations  	FMN 	Fire Dispatch 
-153.96500 	WPOY935 	RM	131.8 PL	Ludlow Amb 	Ambulance 	FMN 	EMS Dispatch 
-453.10000 	WQBA702 	RM	118.8 PL	Ludlow PD 	Police Operations  	FMN 	Law Dispatch 
-153.98000 	 	BM		RoyalFD/EMS 	Fire Department and Ambulance 	FMN 	Multi-Dispatch 
-460.02500 	 	BM	156.7 PL	RoyalPDDisp 	Police Operations  	FMN 	Law Dispatch 
-460.05000 	 	BM	156.7 PL	RoyalPDCtoC 	Ppolice Car to Car 	FMN 	Law Talk 
-155.40000 	KSX336 	BM	127.3 PL	Springfield FD 	Fire Operations  	FMN 	Fire Dispatch 
-460.17500 	KSU655 	RM	118.8 PL	Springfield PD 	Police Operations 	FMN 	Law Dispatch 
-158.74500 	WNLK574 	BM	123.0 PL	Windsor FD 	Fire Dispatch Center 	FMN 	Fire Dispatch 
-460.12500 		WPYP829 	RM	754 DPL	Windsor PD 	Police Operations  	FMN 	Law Dispatch 
-158.83500 	 	RM		Wdstck FDDsp 	Fire/EMS Operations  (Also dispatches for Bridgewater) 	FMN 	Fire Dispatch 
-153.78500 	 	RM	127.3 PL	WdstckFDOps 	Fire/EMS Operations  	FMN 	Fire Dispatch 
-159.01500 	 	RM		BrgwtrFDCmd  	Fire/EMS Command 	FMN 	Fire-Tac 
-460.10000 	 	RM	457 NAC	Woodstock PD 	Police Operations  	P25 	Law Dispatch 
-151.62500 	WNGW772 	BM		Base Lodge 	Base Lodge 	FMN 	Business 
-464.17500 	WPRM523 	RM		Mountain Ops 	Mountain Operations  	FMN 	Business 
-Central Vermont Public Service (UHF)	 LTR Standard	 Various	New Hampshire Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)
- Various	
+453.32500 	458.32500  	WPKY447 	RM		 Windsor SO 	Sheriff Operations 	FMN 	Law Dispatch 
+154.22000 	   	WPGI459 	BM		Barnard FD 	Fire Operations (includes Broad Brook) 	FMN 	Fire Dispatch 
+154.22000 	159.36000  	WPGI459 	RM	351 DPL	Bethel FD 	Fire Operations  	FMN 	Fire Dispatch 
+155.70000 	158.97000  	WPNV231 	RM	127.3 PL	Chester Fire 	Fire Operations 	FMN 	Fire Dispatch 
+460.25000 	465.25000  	KSU636 	RM	295 NAC	Hartford PD 	Police Operations  	P25 	Law Dispatch 
+155.63250 	   	 	BM	192.8 PL	Hartford Amb 	Rescue/Ambulance 	FMN 	EMS-Talk 
+154.73250 	159.05250  	WPYD927 	RM	118.8 PL	Ludlow FD 	Fire Operations  	FMN 	Fire Dispatch 
+153.96500 	155.88000  	WPOY935 	RM	131.8 PL	Ludlow Amb 	Ambulance 	FMN 	EMS Dispatch 
+453.10000 	458.10000  	WQBA702 	RM	118.8 PL	Ludlow PD 	Police Operations  	FMN 	Law Dispatch 
+153.98000 	   	 	BM		RoyalFD/EMS 	Fire Department and Ambulance 	FMN 	Multi-Dispatch 
+460.02500 	   	 	BM	156.7 PL	RoyalPDDisp 	Police Operations  	FMN 	Law Dispatch 
+460.05000 	   	 	BM	156.7 PL	RoyalPDCtoC 	Ppolice Car to Car 	FMN 	Law Talk 
+155.40000 	   	KSX336 	BM	127.3 PL	Springfield FD 	Fire Operations  	FMN 	Fire Dispatch 
+460.17500 	465.17500  	KSU655 	RM	118.8 PL	Springfield PD 	Police Operations 	FMN 	Law Dispatch 
+158.74500 	   	WNLK574 	BM	123.0 PL	Windsor FD 	Fire Dispatch Center 	FMN 	Fire Dispatch 
+460.12500 	465.12500  		WPYP829 	RM	754 DPL	Windsor PD 	Police Operations  	FMN 	Law Dispatch 
+158.83500 	   	 	RM		Wdstck FDDsp 	Fire/EMS Operations  (Also dispatches for Bridgewater) 	FMN 	Fire Dispatch 
+153.78500 	   	 	RM	127.3 PL	WdstckFDOps 	Fire/EMS Operations  	FMN 	Fire Dispatch 
+159.01500 	   	 	RM		BrgwtrFDCmd  	Fire/EMS Command 	FMN 	Fire-Tac 
+460.10000 	   	 	RM	457 NAC	Woodstock PD 	Police Operations  	P25 	Law Dispatch 
+151.62500 	   	WNGW772 	BM		Base Lodge 	Base Lodge 	FMN 	Business 
+464.17500 	469.17500  	WPRM523 	RM		Mountain Ops 	Mountain Operations  	FMN 	Business 
+Central Vermont Public Service (UHF)	 LTR Standard	 Various	New Hampshire Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various

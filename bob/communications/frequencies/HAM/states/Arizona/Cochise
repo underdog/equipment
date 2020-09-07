@@ -1,108 +1,104 @@
-155.04000 	WQBK278 	RM	114.8 PL	CCSO SO-1 	Sheriff - SO-1 	FMN 	Law Dispatch 
-155.65500 	WQBH832 	RM	114.8 PL	CCSO SO-2 	Sheriff - SO-2 	FMN 	Law Dispatch 
-154.81500 	WNRH746 	M	151.4 PL	CCSO C2C 	Sheriff - Car-to-Car 	FMN 	Law Talk 
-153.81500 	WNNI356 	RM	141.3 PL	CCSO TAC N 	Sheriff - TAC North 	FMN 	Law Tac 
-153.81500 	KBK712 	RM	151.4 PL	CCSO TAC S 	Sheriff - TAC South 	FMN 	Law Tac 
-155.07000 	KBK712 	RM	293 NAC	CCSO Net 	Sheriff - Sheriff NET 	P25 	Law Tac 
-155.22000 	WPAA878 	BM	100.0 PL	CCSO - SAR 	Sheriff - Search & Rescue 	FMN 	Law Tac 
-153.81500 	 	RM	110.9 PL	CCSO Probtn 	Sheriff - Probation 	FMN 	Law Tac 
-155.68500 	KBK712 	BM	151.4 PL	CCSO Jail 	Sheriff - Jail 	FMN 	Law Tac 
-155.25000 	 	RM	173.8 PL	CCSO MtlAid2 	Sheriff - Mutual Aid 2 	FMN 	Interop 
-155.83500 	KRB530 	BM		CCSO - PSI 1 	Sheriff - Countywide PS Interagency 	FMN 	Interop 
-453.85000 	WNZS318 	RM		CCSO - MDT 	Sheriff - Mobile Data Terminal 	Telm 	Data 
-2456.50000 	WPKA800 	M		CCSO - DataB 	Sheriff - Data (B) 	Telm 	Data 
-2461.50000 	WPKA800 	M		CCSO - DataC 	Sheriff - Data (C) 	Telm 	Data 
-2467.50000 	WPKA800 	M		CCSO - DataD 	Sheriff - Data (D) 	Telm 	Data 
-2473.50000 	WPKA800 	M		CCSO - DataE 	Sheriff - Data (E) 	Telm 	Data 
-2478.50000 	WPKA800 	M		CCSO - DataF 	Sheriff - Data (F) 	Telm 	Data 
-151.02500 	WQBH832 	RM	203.5 PL	CC Health 	Health 	FMN 	EMS Dispatch 
-154.98000 	WQBH832 	RM	114.8 PL	CC Hwy FP 	Highway and Floodplain 	FMN 	Public Works 
-155.92500 	 	RM	114.8 PL	CC Cty Wide 	County Wide 	FMN 	Public Works 
-152.27000 	 	RM	136.5 PL	AZ AMB Tnsp 	Transport 	FMN 	EMS Dispatch 
-151.11500 	WQIM218 	RM	293 NAC	Benson PD F1 	Police - F1 Dispatch 	P25 	Law Dispatch 
-155.37000 	KNIZ471 	RM	293 NAC	Benson PD F2 	Police - F2 	P25 	Law Dispatch 
-453.48750 	KNIZ471 	F		PD Remote A 	Police - RF Voting Remote 	FMN 	Law Dispatch 
-453.58750 	KNIZ471 	F		PD Remote B 	Police - RF Voting Remote 	FMN 	Law Dispatch 
-155.10000 	KEC607 	RM	110.9 PL	BENSON FD 	Fire Department 	FMN 	Fire Dispatch 
-152.00750 	KNBU345 	B		Bens Hosp Pg 	Hospital - Paging 	FMN 	Hospital 
-173.23750 	WNPU381 	F		BENSON WTR D 	Water Department Data 	Telm 	Public Works 
-154.41500 	WQAC702 	RM	151.4 PL	BISB FD 	Fire Department 	FMN 	Fire Dispatch 
-153.75500 	WQAC702 	RM		BISB PUB WKS 	Public Works 	FMN 	Public Works 
-154.11500 	WQAC702 	RM	293 NAC	BISBPD DISP 	Police - Dispatch 	P25 	Law Dispatch 
-155.37000 	WQAC702 	BM	293 NAC	BISBPD TAC 	Police - TAC 	P25 	Law Tac 
-155.47500 	WQAC702 	BM		BISBPD EMERG 	Police - Emergency (?) 	FMN 	Law Tac 
-154.13000 	WNWX700 	RM		BOW FD -SIMP 	Simplex 	FMN 	Fire-Tac 
-154.13000 	WNWX700 	RM	123.0 PL	BOW FD -DISP 	Dispatch 	FMN 	Fire Dispatch 
-155.61000 	WQAL488 	RM	186.2 PL	CBFD -Fire S 	Dispatch - Fire South 	FMN 	Fire Dispatch 
-155.61000 	WQAL488 	RM	136.5 PL	CBFD -Fire N 	Dispatch - Fire North 	FMN 	Fire Dispatch 
-154.13000 	WPQY576 	M	91.5 PL	DOUG FD F-2 	Fire Department - F2 - Fireground 	FMN 	Fire-Tac 
-154.31000 	WPQY576 	RM	91.5 PL	DOUG FD F-1 	Fire Department - F1 - Dispatch 	FMN 	Fire Dispatch 
-154.74000 	WPZQ441 	RM	416 NAC	DOUG PD 	Police Dispatch 	P25E 	Law Dispatch 
-155.62500 	WPZQ441 	RM	043 DPL	DOUG PD DET 	Police - Detectives  	FMN 	Law Talk 
-155.89500 	KDV744 	BM		DOUG PUB WKS 	Public Works 	FMN 	Public Works 
-154.14500 	WNKW654 	BM	100.0 PL	ELFRIDA FD 	Dispatch 	FMN 	Fire Dispatch 
-460.11250 	WQAS329 	M		FRYFD VEH RP 	Vehicle Repeaters 	Telm 	Data 
-155.40000 	WPVT802 	RM	136.5 PL	HCI Amb 1 	Ambulance 1 	FMN 	EMS Dispatch 
-152.27000 	 	RM	136.5 PL	HCI Amb 2 	Ambulance 2 	FMN 	EMS Dispatch 
-151.28750 	WNYW866 	RM	156.7 PL	HC Police 	Police - Dispatch 	FMN 	Law Dispatch 
-155.43000 	WPYN39 	BM	156.7 PL	HC Fire 	Fire Department 	FMN 	Multi-Dispatch 
-155.94000 	 	RM		HC Pub Wrks 	Public Works 	FMN 	Public Works 
-154.38500 	WNVH538 	RM	71.9 PL	MESCAL FD 	Dispatch 	FMN 	Fire Dispatch 
-158.86500 	KNNR441 	RM	151.4 PL	NACOFD DISP 	Dispatch 	FMN 	Fire Dispatch 
-155.56500 	KNNR441 	BM	151.4 PL	NACOFD GRND 	Fireground 	FMN 	Fire-Tac 
-153.83000 	WNGY627 	RM	141.3 PL	Palominas FD 	 	FMN 	Fire-Tac 
-154.38500 	WNMX659 	BM	151.4 PL	PRTLVLLE FD 	Dispatch 	FMN 	Fire Dispatch 
-153.95000 	WPHU786 	BM	151.4 PL	POMERENE FD 	Dispatch 	FMN 	Fire Dispatch 
-155.23500 	WNQA830 	RM	67.0 PL	PORTAL RESCU 	Dispatch 	FMN 	EMS Dispatch 
-154.23500 	 	RM	CSQ	SanJo FD 	Dispatch 	FMN 	Fire Dispatch 
-154.22000 	KNHU349 	RM	67.0 PL	SANSIMON FD 	Dispatch 	FMN 	Fire Dispatch 
-155.64000 	KYX254 	RM	151.4 PL	SVPD - DISP 	Police - Dispatch 	FMN 	Law Dispatch 
-154.75500 	KYY919 	RM	107.2 PL	SVPD - TAC 	Police - TAC 	FMN 	Law Tac 
-154.81500 	KZQ605 	BM	151.4 PL	SVPD - TAC B 	Police - TAC (B) 	FMN 	Law Tac 
-856.56250 	 	RM	109 NAC	SVPD - North 	Police - North 	P25 	Law Tac 
-856.81250 	 	RM	109 NAC	SVPD - South 	Police - South 	P25 	Law Tac 
-856.15000 	WNBU699 	BM		SVPD - MOB D 	Police - Mobile Data System 	Telm 	Data 
-155.86500 	 	RM	110.9 PL	SV FD/PD TAC 	Fire / Police 	FMN 	Multi-Tac 
-154.25000 	KJH249 	RM	151.4 PL	SV FD 1 Dsp  	Fire Department - F1 Dispatch 	FMN 	Fire Dispatch 
-154.34000 	 	RM	110.9 PL	SV FD 2 	Fire Department - F2 	FMN 	Fire-Tac 
-154.07000 	 	RM	162.2 PL	SV FD TAC 	Fire Department - TAC 	FMN 	Fire-Tac 
-158.94000 	KTN395 	RM	151.4 PL	SV PUB WKS 	Public Works 	FMN 	Public Works 
-452.80000 	WQIR817 	RM		SVSD Busses 	Sierra Vista School District - Busses 	FMN 	Schools 
-154.31000 	 	RM	67.0 PL	St Davd Fire 	Dispatch 	FMN 	Fire Dispatch 
-154.16000 	KWM851 	BM	156.7 PL	SUNNYSIDE FD 	Dispatch 	FMN 	Fire Dispatch 
-154.23500 	WNUV969 	RM	100.0 PL	SPFD - 1 	F1 	FMN 	Fire Dispatch 
-154.00250 	WNUV969 	RM	123.0 PL	SPFD - 2 	F2 	FMN 	EMS-Tac 
-154.19000 	WNUV969 	BM	77.0 PL	SPFD - C2C 	Fire Tactical / Car-to-Car 	FMN 	Fire-Talk 
-155.31000 	WNUD832 	RM	265 DPL	TOMB-FD/MSHL 	Fire Department and Marshall 	FMN 	Multi-Dispatch 
-155.02500 	KCR550 	RM	156.7 PL	TOMB-PUB WKS 	Public Works 	FMN 	Public Works 
-155.28000 	WNFS360 	BM		TUSD-BUSSES 	Buses / School-to-School Administration 	FMN 	Schools 
-151.35500 	WQBM294 	BM	97.4 PL	WHETSTONE FD 	Dispatch 	FMN 	Fire Dispatch 
-155.98500 	WPYT881 	RM	565 DPL	WILCOX PD-1 	Police - F1 - Dispatch 	FMN 	Law Dispatch 
-155.41500 	WNFD683 	BM		WILCOX PD-2 	Police - F2 - TAC 	FMN 	Law Tac 
-155.98500 	KDV744 	RM	612 DPL	WILCOX PD-3 	Police - F3 -  Dispatch 	FMN 	Law Dispatch 
-154.35500 	WNFF957 	BM	107.2 PL	WILCOX FD 	Fire Department 	FMN 	Fire Dispatch 
-155.77500 	KKC958 	RM	141.3 PL	WILCOX PW 	Public Works Department 	FMN 	Public Works 
-172.32500 	 	RM		FTH FD 	Fire Department - Dispatch 	FMN 	Fire Dispatch 
-173.41250 	 	RM		FTH PD 	Police - Dispatch 	FMN 	Law Dispatch 
-119.67500 	 	B		SV-AWOS 	AWOS  	AM 	Aircraft 
-120.65000 	 	BM		SV-TRACON-V 	TRACON 	AM 	Aircraft 
-121.70000 	 	BM		SV-Grnd-VHF 	Ground - VHF 	AM 	Aircraft 
-122.95000 	 	BM		SV-Unicom 	Unicom 	AM 	Aircraft 
-124.55000 	 	BM		SV-TRACON-V 	TRACON - Discrete Radar 	AM 	Aircraft 
-124.95000 	 	BM		SV-Twr-VHF 	Tower - VHF 	AM 	Aircraft 
-127.05000 	 	BM		SV-App-VHF 	Approach/Departure - VHF 	AM 	Aircraft 
-134.75000 	 	B		SV-ATIS-VHF 	ATIS - VHF 	AM 	Aircraft 
-254.35000 	 	BM		SV-App-UHF 	Approach/Departure - UHF 	AM 	Aircraft 
-257.20000 	 	BM		SV-TRACON-U 	TRACON - Discrete Radar 	AM 	Aircraft 
-265.70000 	 	B		SV-ATIS-UHF 	ATIS - UHF 	AM 	Aircraft 
-268.70000 	 	BM		SV-Grnd-UHF 	Ground - UHF 	AM 	Aircraft 
-284.75000 	 	BM		SV-Twr-UHF 	Tower - UHF 	AM 	Aircraft 
-299.10000 	 	BM		SV-TRACON-U 	TRACON - Discrete Radara 	AM 	Aircraft 
-374.10000 	 	BM		SV-Safety 	Safety 	AM 	Military 
-464.17500 	WPTN495 	RM	631 DPL	AN Ops 	Operations 	FMN 	Business 
-154.57000 	 	BM	754 DPL	Walmart Sierra V 	Walmart Supercenter - 500 AZ-90, Sierra Vista 	FMN 	Business 
-464.50000 	 	RM		ACE - 4th St 	Ace Hardware - 591 W 4th St, Benson 	FMN 	Business 
-451.46250 	WPPD904 	RM	123.0 PL	VisTnst Bus 	Vista Transit - Special Bus Service 	FMN 	Transportation 
-Arizona Public Service Corporation (P25)	 Project 25 Phase II	 AZ Statewide	Arizona Wireless Integrated Network System (Az Wins)	 Project 25 Phase I	 AZ Statewide	Canyon State Wireless Southwest TRBO Network	 DMR Motorola Connect Plus (TRBO)
- Various	Cochise County 	 Project 25 Phase II	 	Com Rents Inc	 NXDN NEXEDGE 4800	 Various	Fort Huachuca
- Project 25 Phase I	 Sierra Vista	Statewide Emergency Mobile System	 Project 25 Phase I	 Mesa	SWTurbo Network	 DMR Tier 3	 Various
+154.81500 	   	WNRH746 	M	151.4 PL	CCSO C2C 	Sheriff - Car-to-Car 	FMN 	Law Talk 
+153.81500 	   	WNNI356 	RM	141.3 PL	CCSO TAC N 	Sheriff - TAC North 	FMN 	Law Tac 
+153.81500 	   	KBK712 	RM	151.4 PL	CCSO TAC S 	Sheriff - TAC South 	FMN 	Law Tac 
+155.07000 	   	KBK712 	RM	293 NAC	CCSO Net 	Sheriff - Sheriff NET 	P25 	Law Tac 
+155.22000 	   	WPAA878 	BM	100.0 PL	CCSO - SAR 	Sheriff - Search & Rescue 	FMN 	Law Tac 
+153.81500 	   	 	RM	110.9 PL	CCSO Probtn 	Sheriff - Probation 	FMN 	Law Tac 
+155.68500 	   	KBK712 	BM	151.4 PL	CCSO Jail 	Sheriff - Jail 	FMN 	Law Tac 
+155.25000 	   	 	RM	173.8 PL	CCSO MtlAid2 	Sheriff - Mutual Aid 2 	FMN 	Interop 
+155.83500 	   	KRB530 	BM		CCSO - PSI 1 	Sheriff - Countywide PS Interagency 	FMN 	Interop 
+453.85000 	458.85000  	WNZS318 	RM		CCSO - MDT 	Sheriff - Mobile Data Terminal 	Telm 	Data 
+2456.50000 	   	WPKA800 	M		CCSO - DataB 	Sheriff - Data (B) 	Telm 	Data 
+2461.50000 	   	WPKA800 	M		CCSO - DataC 	Sheriff - Data (C) 	Telm 	Data 
+2467.50000 	   	WPKA800 	M		CCSO - DataD 	Sheriff - Data (D) 	Telm 	Data 
+2473.50000 	   	WPKA800 	M		CCSO - DataE 	Sheriff - Data (E) 	Telm 	Data 
+2478.50000 	   	WPKA800 	M		CCSO - DataF 	Sheriff - Data (F) 	Telm 	Data 
+155.92500 	   	 	RM	114.8 PL	CC Cty Wide 	County Wide 	FMN 	Public Works 
+152.27000 	   	 	RM	136.5 PL	AZ AMB Tnsp 	Transport 	FMN 	EMS Dispatch 
+151.11500 	159.07500  	WQIM218 	RM	293 NAC	Benson PD F1 	Police - F1 Dispatch 	P25 	Law Dispatch 
+155.37000 	159.00000  	KNIZ471 	RM	293 NAC	Benson PD F2 	Police - F2 	P25 	Law Dispatch 
+453.48750 	458.48750  	KNIZ471 	F		PD Remote A 	Police - RF Voting Remote 	FMN 	Law Dispatch 
+453.58750 	458.58750  	KNIZ471 	F		PD Remote B 	Police - RF Voting Remote 	FMN 	Law Dispatch 
+155.10000 	155.88000  	KEC607 	RM	110.9 PL	BENSON FD 	Fire Department 	FMN 	Fire Dispatch 
+152.00750 	   	KNBU345 	B		Bens Hosp Pg 	Hospital - Paging 	FMN 	Hospital 
+173.23750 	   	WNPU381 	F		BENSON WTR D 	Water Department Data 	Telm 	Public Works 
+154.41500 	153.89000  	WQAC702 	RM	151.4 PL	BISB FD 	Fire Department 	FMN 	Fire Dispatch 
+153.75500 	155.14500  	WQAC702 	RM		BISB PUB WKS 	Public Works 	FMN 	Public Works 
+154.11500 	155.80500  	WQAC702 	RM	293 NAC	BISBPD DISP 	Police - Dispatch 	P25 	Law Dispatch 
+155.37000 	   	WQAC702 	BM	293 NAC	BISBPD TAC 	Police - TAC 	P25 	Law Tac 
+155.47500 	   	WQAC702 	BM		BISBPD EMERG 	Police - Emergency (?) 	FMN 	Law Tac 
+154.13000 	   	WNWX700 	RM		BOW FD -SIMP 	Simplex 	FMN 	Fire-Tac 
+154.13000 	155.70000  	WNWX700 	RM	123.0 PL	BOW FD -DISP 	Dispatch 	FMN 	Fire Dispatch 
+155.61000 	151.28000  	WQAL488 	RM	186.2 PL	CBFD -Fire S 	Dispatch - Fire South 	FMN 	Fire Dispatch 
+155.61000 	151.28000  	WQAL488 	RM	136.5 PL	CBFD -Fire N 	Dispatch - Fire North 	FMN 	Fire Dispatch 
+154.13000 	   	WPQY576 	M	91.5 PL	DOUG FD F-2 	Fire Department - F2 - Fireground 	FMN 	Fire-Tac 
+154.31000 	158.83500  	WPQY576 	RM	91.5 PL	DOUG FD F-1 	Fire Department - F1 - Dispatch 	FMN 	Fire Dispatch 
+154.74000 	158.91000  	WPZQ441 	RM	416 NAC	DOUG PD 	Police Dispatch 	P25E 	Law Dispatch 
+155.62500 	159.21000  	WPZQ441 	RM	043 DPL	DOUG PD DET 	Police - Detectives  	FMN 	Law Talk 
+155.89500 	   	KDV744 	BM		DOUG PUB WKS 	Public Works 	FMN 	Public Works 
+154.14500 	   	WNKW654 	BM	100.0 PL	ELFRIDA FD 	Dispatch 	FMN 	Fire Dispatch 
+460.11250 	465.11250  	WQAS329 	M		FRYFD VEH RP 	Vehicle Repeaters 	Telm 	Data 
+155.40000 	150.77500  	WPVT802 	RM	136.5 PL	HCI Amb 1 	Ambulance 1 	FMN 	EMS Dispatch 
+152.27000 	   	 	RM	136.5 PL	HCI Amb 2 	Ambulance 2 	FMN 	EMS Dispatch 
+151.28750 	158.76000  	WNYW866 	RM	156.7 PL	HC Police 	Police - Dispatch 	FMN 	Law Dispatch 
+155.43000 	   	WPYN39 	BM	156.7 PL	HC Fire 	Fire Department 	FMN 	Multi-Dispatch 
+155.94000 	   	 	RM		HC Pub Wrks 	Public Works 	FMN 	Public Works 
+154.38500 	153.78500  	WNVH538 	RM	71.9 PL	MESCAL FD 	Dispatch 	FMN 	Fire Dispatch 
+158.86500 	153.78500  	KNNR441 	RM	151.4 PL	NACOFD DISP 	Dispatch 	FMN 	Fire Dispatch 
+155.56500 	   	KNNR441 	BM	151.4 PL	NACOFD GRND 	Fireground 	FMN 	Fire-Tac 
+153.83000 	154.20500  	WNGY627 	RM	141.3 PL	Palominas FD 	 	FMN 	Fire-Tac 
+154.38500 	   	WNMX659 	BM	151.4 PL	PRTLVLLE FD 	Dispatch 	FMN 	Fire Dispatch 
+153.95000 	   	WPHU786 	BM	151.4 PL	POMERENE FD 	Dispatch 	FMN 	Fire Dispatch 
+155.23500 	153.74000  	WNQA830 	RM	67.0 PL	PORTAL RESCU 	Dispatch 	FMN 	EMS Dispatch 
+154.23500 	   	 	RM	CSQ	SanJo FD 	Dispatch 	FMN 	Fire Dispatch 
+154.22000 	154.89000  	KNHU349 	RM	67.0 PL	SANSIMON FD 	Dispatch 	FMN 	Fire Dispatch 
+155.64000 	153.93500  	KYX254 	RM	151.4 PL	SVPD - DISP 	Police - Dispatch 	FMN 	Law Dispatch 
+154.75500 	155.76000  	KYY919 	RM	107.2 PL	SVPD - TAC 	Police - TAC 	FMN 	Law Tac 
+154.81500 	   	KZQ605 	BM	151.4 PL	SVPD - TAC B 	Police - TAC (B) 	FMN 	Law Tac 
+856.56250 	   	 	RM	109 NAC	SVPD - North 	Police - North 	P25 	Law Tac 
+856.81250 	   	 	RM	109 NAC	SVPD - South 	Police - South 	P25 	Law Tac 
+856.15000 	811.15000  	WNBU699 	BM		SVPD - MOB D 	Police - Mobile Data System 	Telm 	Data 
+155.86500 	   	 	RM	110.9 PL	SV FD/PD TAC 	Fire / Police 	FMN 	Multi-Tac 
+154.25000 	155.58000  	KJH249 	RM	151.4 PL	SV FD 1 Dsp  	Fire Department - F1 Dispatch 	FMN 	Fire Dispatch 
+154.34000 	   	 	RM	110.9 PL	SV FD 2 	Fire Department - F2 	FMN 	Fire-Tac 
+154.07000 	   	 	RM	162.2 PL	SV FD TAC 	Fire Department - TAC 	FMN 	Fire-Tac 
+158.94000 	154.99500  	KTN395 	RM	151.4 PL	SV PUB WKS 	Public Works 	FMN 	Public Works 
+452.80000 	   	WQIR817 	RM		SVSD Busses 	Sierra Vista School District - Busses 	FMN 	Schools 
+154.31000 	155.61000  	 	RM	67.0 PL	St Davd Fire 	Dispatch 	FMN 	Fire Dispatch 
+154.16000 	   	KWM851 	BM	156.7 PL	SUNNYSIDE FD 	Dispatch 	FMN 	Fire Dispatch 
+154.23500 	150.80500  	WNUV969 	RM	100.0 PL	SPFD - 1 	F1 	FMN 	Fire Dispatch 
+154.00250 	158.84250  	WNUV969 	RM	123.0 PL	SPFD - 2 	F2 	FMN 	EMS-Tac 
+154.19000 	   	WNUV969 	BM	77.0 PL	SPFD - C2C 	Fire Tactical / Car-to-Car 	FMN 	Fire-Talk 
+155.31000 	153.84500  	WNUD832 	RM	265 DPL	TOMB-FD/MSHL 	Fire Department and Marshall 	FMN 	Multi-Dispatch 
+155.02500 	158.73000  	KCR550 	RM	156.7 PL	TOMB-PUB WKS 	Public Works 	FMN 	Public Works 
+155.28000 	   	WNFS360 	BM		TUSD-BUSSES 	Buses / School-to-School Administration 	FMN 	Schools 
+151.35500 	   	WQBM294 	BM	97.4 PL	WHETSTONE FD 	Dispatch 	FMN 	Fire Dispatch 
+155.98500 	153.86000  	WPYT881 	RM	565 DPL	WILCOX PD-1 	Police - F1 - Dispatch 	FMN 	Law Dispatch 
+155.41500 	   	WNFD683 	BM		WILCOX PD-2 	Police - F2 - TAC 	FMN 	Law Tac 
+155.98500 	153.86000  	KDV744 	RM	612 DPL	WILCOX PD-3 	Police - F3 -  Dispatch 	FMN 	Law Dispatch 
+154.35500 	   	WNFF957 	BM	107.2 PL	WILCOX FD 	Fire Department 	FMN 	Fire Dispatch 
+155.77500 	155.83500  	KKC958 	RM	141.3 PL	WILCOX PW 	Public Works Department 	FMN 	Public Works 
+172.32500 	   	 	RM		FTH FD 	Fire Department - Dispatch 	FMN 	Fire Dispatch 
+173.41250 	   	 	RM		FTH PD 	Police - Dispatch 	FMN 	Law Dispatch 
+119.67500 	   	 	B		SV-AWOS 	AWOS  	AM 	Aircraft 
+120.65000 	   	 	BM		SV-TRACON-V 	TRACON 	AM 	Aircraft 
+121.70000 	   	 	BM		SV-Grnd-VHF 	Ground - VHF 	AM 	Aircraft 
+122.95000 	   	 	BM		SV-Unicom 	Unicom 	AM 	Aircraft 
+124.55000 	   	 	BM		SV-TRACON-V 	TRACON - Discrete Radar 	AM 	Aircraft 
+124.95000 	   	 	BM		SV-Twr-VHF 	Tower - VHF 	AM 	Aircraft 
+127.05000 	   	 	BM		SV-App-VHF 	Approach/Departure - VHF 	AM 	Aircraft 
+134.75000 	   	 	B		SV-ATIS-VHF 	ATIS - VHF 	AM 	Aircraft 
+254.35000 	   	 	BM		SV-App-UHF 	Approach/Departure - UHF 	AM 	Aircraft 
+257.20000 	   	 	BM		SV-TRACON-U 	TRACON - Discrete Radar 	AM 	Aircraft 
+265.70000 	   	 	B		SV-ATIS-UHF 	ATIS - UHF 	AM 	Aircraft 
+268.70000 	   	 	BM		SV-Grnd-UHF 	Ground - UHF 	AM 	Aircraft 
+284.75000 	   	 	BM		SV-Twr-UHF 	Tower - UHF 	AM 	Aircraft 
+299.10000 	   	 	BM		SV-TRACON-U 	TRACON - Discrete Radara 	AM 	Aircraft 
+374.10000 	   	 	BM		SV-Safety 	Safety 	AM 	Military 
+464.17500 	   	WPTN495 	RM	631 DPL	AN Ops 	Operations 	FMN 	Business 
+154.57000 	   	 	BM	754 DPL	Walmart Sierra V 	Walmart Supercenter - 500 AZ-90, Sierra Vista 	FMN 	Business 
+464.50000 	   	 	RM		ACE - 4th St 	Ace Hardware - 591 W 4th St, Benson 	FMN 	Business 
+451.46250 	   	WPPD904 	RM	123.0 PL	VisTnst Bus 	Vista Transit - Special Bus Service 	FMN 	Transportation 
+Arizona Public Service Corporation (P25)	 Project 25 Phase II	 AZ Statewide	Arizona Wireless Integrated Network System (Az Wins)	 Project 25 Phase I	 AZ Statewide	Canyon State Wireless Southwest TRBO Network	 DMR Motorola Connect Plus (TRBO)	 Various
+Cochise County 	 Project 25 Phase II	 	Com Rents Inc	 NXDN NEXEDGE 4800	 Various	Fort Huachuca	 Project 25 Phase I	 Sierra Vista
+Statewide Emergency Mobile System	 Project 25 Phase I	 Mesa	SWTurbo Network	 DMR Tier 3	 Various	

@@ -1,34 +1,34 @@
-155.70000 	WQX995 	RM	226 NAC	TGSO 1 	Sheriff Ch. 1 Primary 	P25 	Law Dispatch 
-156.09000 	WQX995 	RM	226 NAC	TGSO 2 	Sheriff Ch. 2 Secondary 	P25 	Law Tac 
-154.11500 	WQX995 	RM	226 NAC	TGSO 5 	Sheriff Ch. 5 Christoval Tower 	P25 	Law Tac 
-155.58750 	WQX995 	RM	226 NAC	TGSO N 	Sheriff North (Carlsbad Tower) 	P25 	Law Tac 
-156.21000 	WQX995 	M	97.4 PL	TGSO 11 Talk 	Sheriff Talk-Around (still analog) 	FMN 	Law Talk 
-154.02500 	WPRI302 	RM	97.4 PL	TGSO Jail 	Sheriff Jail 	FMN 	Corrections 
-155.94750 	WQX995 	RM	97.4 PL	TG Courthse1 	Courthouse Ch. 1 Primary 	FMN 	Law Tac 
-154.35500 	WPMV263 	BM	97.4 PL	TG Courthse2 	Courthouse Ch. 2 Security 	FMN 	Law Talk 
-154.19000 	KKE567 	F		TGC EBWS 	Emergency Broadcast Warning System (Tornado/Emergency Sirens) 	Telm 	Data 
-155.34000 	WYZ278 	BM	156.7 PL	VMED28 	VMED28 used for ER-EMS and Airmed1 radio traffic 	FMN 	Interop 
-451.35000 	WQXP218 	RM	CC 1TG *SL *	TGC Bldg Maint 	Building Maintenance 	DMR 	Public Works 
-159.46500 	WQX995 	RM	118.8 PL	SAFD North 	San Angelo North 	FMN 	Fire Dispatch 
-155.18250 	WQX995 	RM	118.8 PL	SAFD South 	San Angelo South 	FMN 	Fire Dispatch 
-155.18250 	WQX995 	RM	97.4 PL	TGVFD Rept 	Tom Green County Fire Repeater 	FMN 	Fire-Tac 
-151.27250 	WQX995 	RM	114.8 PL	TGVFD Old 	Tom Green County Fire Old Repeater 	FMN 	Fire Dispatch 
-154.16000 	WPNW616 	BM	CSQ	TGVFD Talk 	Emergency Services District 1 (Fire) "County" 	FMN 	Fire-Talk 
-154.40750 	WQSX660 	M	CSQ	ChristovalFD 	Christoval Volunteer Fire Department 	FMN 	Fire-Tac 
-155.13750 	WQRS846 	M	CSQ	EastConchoFD 	East Concho Fire 	FMN 	Fire-Tac 
-154.13000 	KB37423 	BM	CSQ	GrapeCrk FD 	Grape Creek Volunteer Fire Department 	FMN 	Fire Dispatch 
-154.39250 	WQRY302 	M	CSQ	Wall VFD 	Wall Volunteer Fire Department 	FMN 	Fire-Tac 
-155.28000 	WNWG781 	BM	CSQ	SA EmergCorp 	San Angelo Emergency Corps 	FMN 	Fire Dispatch 
-154.19000 	 	BM	CSQ	COSA EBWS 	Emergency Siren Activation DTMF 	FMN 	Data 
-155.82750 	KVN820 	RM	97.4 PL	ASU Police 	Police 	FMN 	Law Dispatch 
-463.32500 	WPGZ903 	RM	464 DPL	ASU Maint 	Maintenance 	FMN 	Schools 
-155.10750 	WQIH329 	RM		CVTA Chritov 	Chritoval 	DMR 	Transportation 
-460.60000 	KBP624 	RM		SAFDIntercom 	Fire Intercom 	FMN 	Fire-Tac 
-461.37500 	KMH560 	RM	103.5 PL	SAISD Maint 	Maintenance 	FMN 	Schools 
-461.05000 	KMH560 	RM	CSQ	SAISD Buses 	Buses 	FMN 	Schools 
-151.98500 	WQTW462 	RM	245 DPL	SAISD LkView 	LakeView 	FMN 	Schools 
-152.30000 	WQTW462 	RM	245 DPL	SAISDLincoln 	Lincoln 	FMN 	Schools 
-152.42000 	WQTW462 	RM	245 DPL	SAISD Glenn 	Glenn 	FMN 	Schools 
-152.90000 	KMH560 	RM	245 DPL	SAISDStadium 	Stadium 	FMN 	Schools 
-American Electric Power / West Texas Utilities	 EDACS Networked Standard	 Various	Concho Valley Council of Governments	 Project 25 Phase I	 Various	Connect Plus 231 Texas	 DMR Motorola Connect Plus (TRBO)
- Various	San Angelo (P25)	 Project 25 Phase II	 San Angelo	United States Air Force (3D6)	 Project 25 Phase I	 Various	
+155.70000 	154.71000  	WQX995 	RM	226 NAC	TGSO 1 	Sheriff Ch. 1 Primary 	P25 	Law Dispatch 
+156.09000 	158.94000  	WQX995 	RM	226 NAC	TGSO 2 	Sheriff Ch. 2 Secondary 	P25 	Law Tac 
+154.11500 	158.86500  	WQX995 	RM	226 NAC	TGSO 5 	Sheriff Ch. 5 Christoval Tower 	P25 	Law Tac 
+155.58750 	151.25000  	WQX995 	RM	226 NAC	TGSO N 	Sheriff North (Carlsbad Tower) 	P25 	Law Tac 
+156.21000 	   	WQX995 	M	97.4 PL	TGSO 11 Talk 	Sheriff Talk-Around (still analog) 	FMN 	Law Talk 
+154.02500 	158.88000  	WPRI302 	RM	97.4 PL	TGSO Jail 	Sheriff Jail 	FMN 	Corrections 
+155.94750 	153.94250  	WQX995 	RM	97.4 PL	TG Courthse1 	Courthouse Ch. 1 Primary 	FMN 	Law Tac 
+154.35500 	   	WPMV263 	BM	97.4 PL	TG Courthse2 	Courthouse Ch. 2 Security 	FMN 	Law Talk 
+154.19000 	   	KKE567 	F		TGC EBWS 	Emergency Broadcast Warning System (Tornado/Emergency Sirens) 	Telm 	Data 
+155.34000 	   	WYZ278 	BM	156.7 PL	VMED28 	VMED28 used for ER-EMS and Airmed1 radio traffic 	FMN 	Interop 
+451.35000 	456.35000  	WQXP218 	RM	CC 1TG *SL *	TGC Bldg Maint 	Building Maintenance 	DMR 	Public Works 
+159.46500 	153.87500  	WQX995 	RM	118.8 PL	SAFD North 	San Angelo North 	FMN 	Fire Dispatch 
+155.18250 	153.76250  	WQX995 	RM	118.8 PL	SAFD South 	San Angelo South 	FMN 	Fire Dispatch 
+155.18250 	153.76250  	WQX995 	RM	97.4 PL	TGVFD Rept 	Tom Green County Fire Repeater 	FMN 	Fire-Tac 
+151.27250 	154.42250  	WQX995 	RM	114.8 PL	TGVFD Old 	Tom Green County Fire Old Repeater 	FMN 	Fire Dispatch 
+154.16000 	   	WPNW616 	BM	CSQ	TGVFD Talk 	Emergency Services District 1 (Fire) "County" 	FMN 	Fire-Talk 
+154.40750 	   	WQSX660 	M	CSQ	ChristovalFD 	Christoval Volunteer Fire Department 	FMN 	Fire-Tac 
+155.13750 	   	WQRS846 	M	CSQ	EastConchoFD 	East Concho Fire 	FMN 	Fire-Tac 
+154.13000 	   	KB37423 	BM	CSQ	GrapeCrk FD 	Grape Creek Volunteer Fire Department 	FMN 	Fire Dispatch 
+154.39250 	   	WQRY302 	M	CSQ	Wall VFD 	Wall Volunteer Fire Department 	FMN 	Fire-Tac 
+155.28000 	   	WNWG781 	BM	CSQ	SA EmergCorp 	San Angelo Emergency Corps 	FMN 	Fire Dispatch 
+154.19000 	   	 	BM	CSQ	COSA EBWS 	Emergency Siren Activation DTMF 	FMN 	Data 
+155.82750 	   	KVN820 	RM	97.4 PL	ASU Police 	Police 	FMN 	Law Dispatch 
+463.32500 	468.32500  	WPGZ903 	RM	464 DPL	ASU Maint 	Maintenance 	FMN 	Schools 
+155.10750 	158.84250  	WQIH329 	RM		CVTA Chritov 	Chritoval 	DMR 	Transportation 
+460.60000 	465.60000  	KBP624 	RM		SAFDIntercom 	Fire Intercom 	FMN 	Fire-Tac 
+461.37500 	466.37500  	KMH560 	RM	103.5 PL	SAISD Maint 	Maintenance 	FMN 	Schools 
+461.05000 	466.05000  	KMH560 	RM	CSQ	SAISD Buses 	Buses 	FMN 	Schools 
+151.98500 	159.84000  	WQTW462 	RM	245 DPL	SAISD LkView 	LakeView 	FMN 	Schools 
+152.30000 	157.56000  	WQTW462 	RM	245 DPL	SAISDLincoln 	Lincoln 	FMN 	Schools 
+152.42000 	157.68000  	WQTW462 	RM	245 DPL	SAISD Glenn 	Glenn 	FMN 	Schools 
+152.90000 	159.75000  	KMH560 	RM	245 DPL	SAISDStadium 	Stadium 	FMN 	Schools 
+American Electric Power / West Texas Utilities	 EDACS Networked Standard	 Various	BrandMeister Texas	 DMR Conventional Networked	 Various	Concho Valley Council of Governments	 Project 25 Phase I	 Various
+Connect Plus 231 Texas	 DMR Motorola Connect Plus (TRBO)	 Various	San Angelo (P25)	 Project 25 Phase II	 San Angelo	United States Air Force (3D6)	 Project 25 Phase I	 Various

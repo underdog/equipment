@@ -1,24 +1,24 @@
-155.07000 	KNEF723 	BM	127.3 PL	Autauga SO 1 	Sheriff Dispatch 	FM 	Law Dispatch 
-154.75500 	KNEF723 	BM	127.3 PL	Autauga SO 2 	Sheriff Tac / Autauga Metro Jail 	FM 	Law Tac 
-154.35500 	KA93445 	RM	100.0 PL	AutuagaCoFDE 	VFD Dispatch - East 	FM 	Fire Dispatch 
-154.35500 	KA93445 	RM	100.0 PL	AutuagaCoFDW 	VFD Dispatch - West 	FM 	Fire Dispatch 
-155.04000 	KCY202 	BM	100.0 PL	AutuagaCoFG 	Fireground 	FM 	Fire-Tac 
-465.61250 	KA93445 	M	CSQ	AutgCoFDExt 	Fire Mobile Extenders 	FM 	Fire-Tac 
-154.51500 	WNSS653 	BM	127.3 PL	Autuaga EMS 	Rescue Squad 	FM 	EMS Dispatch 
-155.34000 	WQOK961 	BM	100.0 PL	PBH HEAR 	Prattville Baptist Hospital 	FMN 	Hospital 
-156.19500 	KVR838 	RM	107.2 PL	AutaugaCoRds 	Road Crews 	FM 	Public Works 
-153.76250 	WQDW767 	BM		Autgville Police 	Police Dispatch 	FMN 	Law Dispatch 
-155.56500 	KIH567 	BM	203.5 PL	PPD Dispatch 	Police Dispatch 	FM 	Law Dispatch 
-154.75500 	KNEF723 	BM	127.3 PL	PPD / ACSO 	Police (+Autauga SO) 	FM 	Law Dispatch 
-151.34750 	KCY202 	RM	110.9 PL	PFD Dispatch 	Fire Dispatch  	FMN 	Fire Dispatch 
-155.63250 	KCY202 	RM	110.9 PL	PFD Direct 	Fire Direct (Dispatch Output Ch.) 	FMN 	Fire Dispatch 
-159.15000 	KIH567 	BM	210.7 PL	PFD Backup 	Fire Backup (Old Simplex) 	FMN 	Fire Dispatch 
-155.04000 	KCY202 	BM	100.0 PL	PFD FG/PPD4 	Fireground (Police Ch.4) 	FM 	Multi-Tac 
-154.35500 	KXJ255 	RM	100.0 PL	PFD 	Fire 	FM 	Fire-Talk 
-154.34000 	KXJ255 	BM		PFD 	Fire 	FM 	Fire-Tac 
-155.89500 	KXJ255 	BM		PFD 	Fire 	FM 	Fire-Tac 
-458.96250 	KXJ255 	M	CSQ	PFD Mob Ext 	Fire Mobile Extender 	FM 	Fire-Tac 
-153.57500 	WNMY625 	RM	103.5 PL	PrattvlWater 	Water Works 	FM 	Public Works 
-154.08500 	WPUA593 	BM	123.0 PL	PrattvlStrts 	Street Department 	FM 	Public Works 
- Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Darden Communications	 LTR Standard	 Various	Montgomery Metro Communications Cooperative District	 Project 25 Phase II
- Various	PowerSouth Energy Cooperative	 DMR Motorola Connect Plus (TRBO)	 Andalusia	
+155.07000 	159.07500  	KNEF723 	BM	127.3 PL	Autauga SO 1 	Sheriff Dispatch 	FM 	Law Dispatch 
+154.75500 	   	KNEF723 	BM	127.3 PL	Autauga SO 2 	Sheriff Tac / Autauga Metro Jail 	FM 	Law Tac 
+154.35500 	154.07000  	KA93445 	RM	100.0 PL	AutuagaCoFDE 	VFD Dispatch - East 	FM 	Fire Dispatch 
+154.35500 	154.07000  	KA93445 	RM	100.0 PL	AutuagaCoFDW 	VFD Dispatch - West 	FM 	Fire Dispatch 
+155.04000 	   	KCY202 	BM	100.0 PL	AutuagaCoFG 	Fireground 	FM 	Fire-Tac 
+465.61250 	   	KA93445 	M	CSQ	AutgCoFDExt 	Fire Mobile Extenders 	FM 	Fire-Tac 
+154.51500 	   	WNSS653 	BM	127.3 PL	Autuaga EMS 	Rescue Squad 	FM 	EMS Dispatch 
+155.34000 	   	WQOK961 	BM	100.0 PL	PBH HEAR 	Prattville Baptist Hospital 	FMN 	Hospital 
+156.19500 	151.10000  	KVR838 	RM	107.2 PL	AutaugaCoRds 	Road Crews 	FM 	Public Works 
+153.76250 	   	WQDW767 	BM		Autgville Police 	Police Dispatch 	FMN 	Law Dispatch 
+155.56500 	155.85000  	KIH567 	BM	203.5 PL	PPD Dispatch 	Police Dispatch 	FM 	Law Dispatch 
+154.75500 	   	KNEF723 	BM	127.3 PL	PPD / ACSO 	Police (+Autauga SO) 	FM 	Law Dispatch 
+151.34750 	   	KCY202 	RM	110.9 PL	PFD Dispatch 	Fire Dispatch  	FMN 	Fire Dispatch 
+155.63250 	   	KCY202 	RM	110.9 PL	PFD Direct 	Fire Direct (Dispatch Output Ch.) 	FMN 	Fire Dispatch 
+159.15000 	   	KIH567 	BM	210.7 PL	PFD Backup 	Fire Backup (Old Simplex) 	FMN 	Fire Dispatch 
+155.04000 	   	KCY202 	BM	100.0 PL	PFD FG/PPD4 	Fireground (Police Ch.4) 	FM 	Multi-Tac 
+154.35500 	154.07000  	KXJ255 	RM	100.0 PL	PFD 	Fire 	FM 	Fire-Talk 
+154.34000 	   	KXJ255 	BM		PFD 	Fire 	FM 	Fire-Tac 
+155.89500 	   	KXJ255 	BM		PFD 	Fire 	FM 	Fire-Tac 
+458.96250 	   	KXJ255 	M	CSQ	PFD Mob Ext 	Fire Mobile Extender 	FM 	Fire-Tac 
+153.57500 	   	WNMY625 	RM	103.5 PL	PrattvlWater 	Water Works 	FM 	Public Works 
+154.08500 	   	WPUA593 	BM	123.0 PL	PrattvlStrts 	Street Department 	FM 	Public Works 
+ Alabama Interoperable Radio System (AIRS)	 Project 25 Phase II	 Varies	Darden Communications	 LTR Standard	 Various	Montgomery Metro Communications Cooperative District	 Project 25 Phase II	 Various
+PowerSouth Energy Cooperative	 DMR Motorola Connect Plus (TRBO)	 Andalusia	

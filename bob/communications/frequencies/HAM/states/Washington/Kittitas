@@ -1,21 +1,21 @@
-154.20500 	WNZR966 	RM	218.1 PL	Kit Fire Dis 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.13750 	 	RM	141.3 PL	Kit Fire Ops 	Fire Ops 	FMN 	Fire-Talk 
-155.79000 	 	RM	218.1 PL	Kit Fire Tac 1 	Fire Tac 1 	FMN 	Fire-Tac 
-154.32500 	 	BM	203.5 PL	Kit Fire Tac 3 	Fire Tac 3 	FMN 	Fire-Tac 
-159.20250 	 	BM	210.7 PL	Kit Fire Tac 5 	Fire Tac 5 	FMN 	Fire-Tac 
-155.10000 	KDP304 	M	218.1 PL	Kit Fire Tac 	Fire Tactical 	FMN 	Fire-Tac 
-154.32500 	 	BM	203.5 PL	Kit Fire Gnd 	Fireground 	FMN 	Fire-Talk 
-154.43000 	 	BM	203.5 PL	Kit Fire Gnd 	Fireground 	FMN 	Fire-Talk 
-155.55750 	WQPM592 	RM	162.2 PL	Kit SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.65500 	KNDQ467 	RM	151.4 PL	Kit SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-158.94000 	WQPM592 	BM	94.8 PL	Kit SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-156.15000 	WYZ465 	M		Kit SO Cars 	Sheriff Car to Car 	FMN 	Law Talk 
-155.79000 	WPVV219 	RM	100.0 PL	Kit SO Tac 	Sheriff Tactical 	FMN 	Law Tac 
-155.56500 	 	M	CSQ	Kit SO Tac 2 	Sheriff Tactical 2 	FMN 	Law Tac 
-460.50000 	KNDQ467 	BM		Kit Jail Ops 	Jail Operations 	FMN 	Corrections 
-156.00000 	KDP304 	BM		Kit Co PW 	Public Works 	FMN 	Public Works 
-158.88000 	KBC419 	BM		EllensburgPW 	Ellensburg Public Works 	FMN 	Public Works 
-154.04000 	KJY699 	RM	131.8 PL	CWU PD Tac 	CWU Campus Police 	FMN 	Law Tac 
-Central Washington University	 LTR Standard	 Ellensburg	Pacific NorthWest DMR	 DMR Conventional Networked	 Various	Puget Sound Energy	 MPT-1327 Standard
- Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	WA State Patrol	 Project 25 Phase II	 Various	Washington State Department of Transportation
- LTR MultiNet	 Various	
+154.20500 	153.74750  	WNZR966 	RM	218.1 PL	Kit Fire Dis 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.13750 	153.81500  	 	RM	141.3 PL	Kit Fire Ops 	Fire Ops 	FMN 	Fire-Talk 
+155.79000 	151.12250  	 	RM	218.1 PL	Kit Fire Tac 1 	Fire Tac 1 	FMN 	Fire-Tac 
+154.32500 	   	 	BM	203.5 PL	Kit Fire Tac 3 	Fire Tac 3 	FMN 	Fire-Tac 
+159.20250 	   	 	BM	210.7 PL	Kit Fire Tac 5 	Fire Tac 5 	FMN 	Fire-Tac 
+155.10000 	   	KDP304 	M	218.1 PL	Kit Fire Tac 	Fire Tactical 	FMN 	Fire-Tac 
+154.32500 	   	 	BM	203.5 PL	Kit Fire Gnd 	Fireground 	FMN 	Fire-Talk 
+154.43000 	   	 	BM	203.5 PL	Kit Fire Gnd 	Fireground 	FMN 	Fire-Talk 
+155.55750 	   	WQPM592 	RM	162.2 PL	Kit SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.65500 	154.65000  	KNDQ467 	RM	151.4 PL	Kit SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+158.94000 	   	WQPM592 	BM	94.8 PL	Kit SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+156.15000 	   	WYZ465 	M		Kit SO Cars 	Sheriff Car to Car 	FMN 	Law Talk 
+155.79000 	155.13000  	WPVV219 	RM	100.0 PL	Kit SO Tac 	Sheriff Tactical 	FMN 	Law Tac 
+155.56500 	   	 	M	CSQ	Kit SO Tac 2 	Sheriff Tactical 2 	FMN 	Law Tac 
+460.50000 	   	KNDQ467 	BM		Kit Jail Ops 	Jail Operations 	FMN 	Corrections 
+156.00000 	   	KDP304 	BM		Kit Co PW 	Public Works 	FMN 	Public Works 
+158.88000 	   	KBC419 	BM		EllensburgPW 	Ellensburg Public Works 	FMN 	Public Works 
+154.04000 	155.74500  	KJY699 	RM	131.8 PL	CWU PD Tac 	CWU Campus Police 	FMN 	Law Tac 
+Central Washington University	 LTR Standard	 Ellensburg	Justice Integrated Wireless Network	 Project 25 Phase I	 Various	Pacific NorthWest DMR	 DMR Conventional Networked	 Various
+Puget Sound Energy	 MPT-1327 Standard	 Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	WA State Patrol	 Project 25 Phase II	 Various
+Washington State Department of Transportation	 LTR MultiNet	 Various	

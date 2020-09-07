@@ -1,71 +1,71 @@
-151.40750 	WQPN446 	RM	CC 10TG *SL 1	PC-911 OPS 1 	911 District Operations 1 	DMR 	Emergency Ops 
-151.40750 	WQPN446 	RM	CC 10TG *SL 2	PC-911 OPS 2 	911 District Operations 2 	DMR 	Emergency Ops 
-152.00750 	WQOZ809 	BM		PCEMA-FD TO 	Emergency Management - Fire Tone Out 	FMN 	Multi-Dispatch 
-460.33750 	WQOZ809 	RM		PCEMA BAXT 	Emergency Management - Fire Baxter Repeater 	DMR 	Emergency Ops 
-460.06250 	WQOZ809 	RM		PCEMA COOK 	Emergency Management - Fire Cookevlle Repeater 	DMR 	Emergency Ops 
-460.13750 	WQOZ809 	RM		PCEMA-MONT 	Emergency Management - Fire Monterey Repeater 	DMR 	Emergency Ops 
-453.56250 	WQOZ809 	RM		PCEMA TEMP 	Emergency Management -  Fire Portable Repeater 	DMR 	Emergency Ops 
-155.76000 	KNCS264 	RM	123.0 PL	PCEMA OPS 	Emergency Management Agency 	FMN 	Emergency Ops 
-155.04000 	WPNP301 	RM	88.5 PL	PCSD/EMS CWA 	Sheriff/EMS Countywide Analog 	FMN 	Multi-Tac 
-156.19500 	KZH975 	RM	074 DPL	Ptnm P Wks 	Public Works 	FMN 	Public Works 
-151.25000 	WQPN446 	RM	CC 10TG 900SL 1	PC FIRE 1D 	County Fire Dispatch 	DMR 	Fire Dispatch 
-154.38500 	KNEK516 	RM	151.4 PL	PC FIRE 1A 	County Fire Dispatch 	FMN 	Fire Dispatch 
-151.25000 	WQPN446 	RM	CC 10TG 900SL 2	PC FIRE 2D 	County Fire Secondary 	DMR 	Fire-Tac 
-151.28750 	 	BM	151.4 PL	PC FIRE INT 	County Fire Interior Operations 	FMN 	Fire-Tac 
-154.13000 	WNGY515 	BM	151.4 PL	PC FIRE GND 	County Fireground *Expired* 	FMN 	Fire-Tac 
-154.31000 	WNZZ246 	BM	CSQ	PC FIRE FG 	County Fireground Simplex 	FMN 	Fire-Tac 
-154.27250 	 	BM	151.4 PL	PC FIRE H2O 	County Fire Water Supply 	FMN 	Fire-Tac 
-155.95500 	KNCS264 	BM	CC 10TG 500SL 1	PC RESCUE 1 	Rescue Squad Dispatch 	DMR 	EMS Dispatch 
-153.44750 	 	RM	CC 10TG 500SL 1	PC RESCUE 1 	Rescue Dispatch - Gentry Tower 	DMR 	EMS Dispatch 
-155.95500 	KNCS264 	RM	CC 10TG 500SL 2	PC RESCUE 2 	Rescue Squad Operations 	DMR 	EMS-Tac 
-153.44750 	 	RM	CC 10TG 500SL 2	PC RESCUE 2 	Rescue Operations - Gentry Tower 	DMR 	EMS-Tac 
-155.95500 	KNCS264 	RM	123.0 PL	PCRS-ANALOG 	Rescue Squad Analog Interop 	FMN 	EMS-Tac 
-154.23500 	WQAF278 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Algood Tower 	DMR 	EMS Dispatch 
-153.61250 	 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Bangham Tower 	DMR 	EMS Dispatch 
-151.13000 	WQHS533 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Baxter Tower 	DMR 	EMS Dispatch 
-155.65500 	KOB530 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Chanell 22 Tower 	DMR 	EMS Dispatch 
-151.03250 	WQDD829 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Cookeville Tower 	DMR 	EMS Dispatch 
-155.26500 	WKQI754 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Gentry Tower 	DMR 	EMS Dispatch 
-157.51500 	 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - RMC Tower 	DMR 	EMS Dispatch 
-155.04000 	WPNP301 	RM	CC 10TG 71700SL 1	PCEMS TAC 	EMS Tactical 	DMR 	EMS-Tac 
-154.23500 	WQAF278 	RM	CC 10TG 71300SL 2	PCSD/APD 	Sheriff and Algood Police - Algood Tower 	DMR 	Law Dispatch 
-153.61250 	 	RM	CC 10TG 71300SL 2	PCSD DISP 	Sheriff Dispatch - Bangham Tower 	DMR 	Law Dispatch 
-151.13000 	WQHS533 	RM	CC 10TG 71300SL 2	PCSD/BPD 	Sheriff and Baxter Police - Baxter Tower 	DMR 	Law Dispatch 
-151.03250 	WQDD829 	RM	CC 10TG 71300SL 2	PCSD DISP 	Sheriff Dispatch - Cookeville Tower 	DMR 	Law Dispatch 
-155.26500 	WKQI754 	RM	CC 10TG 71300SL 2	PCSD DISP 	Sheriff Dispatch - Gentry Tower 	DMR 	Law Dispatch 
-157.51500 	 	RM	CC 10TG 71300SL 2	PCSD DISP 	Sheriff Dispatch - RMC Tower 	DMR 	Law Dispatch 
-155.65500 	KOB530 	RM	CC 10TG 71300SL 2	PCSD DISP 	Sheriff Countywide - Chanell 22 Tower 	DMR 	Law Dispatch 
-155.04000 	WPNP301 	RM	CC 10TG 71300SL 2	PCSD C/T 	Sheriff - Tactical 2 Car to Car / Tactical 	DMR 	Law Tac 
-154.97250 	WQQG667 	RM	CC 10TG 71300SL *	PCSD-TAC 3 	Sheriff - Tactical 3 	DMR 	Law Tac 
-153.49250 	WQQD200 	RM	CC 5TG 71300SL 1	PCSD-TAC 4 	Sheriff - Tactical 4 (Encrypted) 	DMRE 	Law Tac 
-154.75500 	KOB530 	RM	100.0 PL	PCSD-RMA 	Sheriff - Regional Mutual Aid 	FMN 	Interop 
-153.49250 	WQQD200 	RM		PCSD MIXED A 	Sheriff - Analog Interop 	FMN 	Interop 
-153.67250 	WQQD200 	RM	186.2 PL	PCSD-INTRFC 	Sheriff - Analog Interface to TRBO System 	FMN 	Interop 
-154.97250 	WQQG667 	RM	94.8 PL	PCSD-JAIL 	Sheriff - Jail Operations 	FMN 	Corrections 
-153.49250 	WQQD200 	RM	CC 5TG *SL 2	PCSD-GPS 	Sheriff - GPS Data 	DMR 	Data 
-158.82000 	WNRI397 	RM	CC 2TG 711600SL 1	Ckv PD DISP 1 	Police Department - Dispatch 1 	DMR 	Law Dispatch 
-154.41500 	KNFW810 	RM	CC 4TG 711601SL 1	Ckv PD DISP 2 	Police Department - 2 	DMR 	Law Dispatch 
-154.41500 	KNFW810 	RM	CC 4TG 711602SL 1	Ckv PD DISP 3 	Police Department - 3 	DMR 	Law Tac 
-159.21000 	WQPG688 	RM		CkvPD C/T 	Police Department - Car to Car/Tactical 	DMR 	Law Tac 
-158.82000 	WNRI397 	RM	CC 2TG 711400SL 2	Ckv FD DISP 	Fire Department - DIspatch 	DMR 	Fire Dispatch 
-154.29500 	 	M	127.3 PL	Ckv FD F Gnd 	Fire Department - Fireground 	FMN 	Fire-Tac 
-155.14500 	WPCA451 	RM	CC 3TG 1300SL 1	Ckv DPW D 	Public Works Digital 	DMR 	Public Works 
-155.14500 	WPCA451 	RM	114.8 PL	Ckv DPW A 	Public Works Analog 	FMN 	Public Works 
-153.59000 	WPXL950 	RM	114.8 PL	Ckv Electric 	Electric Department 	FMN 	Utilities 
-158.19000 	KUW878 	RM	114.8 PL	Ckv Electric 	Electric Department 	FMN 	Utilities 
-158.22000 	WQJX997 	RM	CC 1TG 1700SL 1	Ckv Electric 	Electric Department  	DMR 	Utilities 
-158.76000 	KNDJ456 	RM	CC 6TG 1200SL 1	Ckv GAS D 	Gas Department Digital 	DMR 	Utilities 
-158.76000 	KNDJ458 	RM	114.8 PL	Ckv GAS A 	Gas Department Analog 	FMN 	Utilities 
-154.23500 	WQAF278 	RM	CC 10TG 1200SL 1	Algood FD  	Fire Dispatch 	DMR 	Fire Dispatch 
-154.23500 	WQAF278 	RM	151.4 PL	Algood VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
-153.53000 	WNLH418 	RM	151.4 PL	Algood P Wks 	Public Works 	FMN 	Public Works 
-154.14500 	KNCE683 	RM	CC 10TG 100SL 1	MVFD DMR 	Volunteer Fire Dispatch 	DMR 	Fire Dispatch 
-154.14500 	KNCE683 	RM	136.5 PL	Monterey VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
-154.31000 	WNZZ246 	BM	151.4 PL	Baxter VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
-151.13000 	WQHS533 	RM	CC 10TG 1100SL 1	Baxter VFD 	Volunteer Fire Department Dispatch 	DMR 	Fire Dispatch 
-155.92500 	KZE649 	RM	CC 12TG 71675SL 1	TTU Police 	Police 	DMR 	Law Dispatch 
-453.87500 	KNJX266 	RM	364 DPL	TTU FBS 	Facilities and Business Services 	FMN 	Schools 
-464.81250 	WQNF921 	RM	CC 5TG 451SL 2	TTU-ATHLETIC 	Athletics Department 	DMR 	Schools 
-154.04000 	WPMV611   	RM	734 DPL	UCHRA 	Upper Cumberland Human Resource Agency 	FMN 	Other 
-Cumberland Two-Way Communications	 LTR Standard	 Cookeville	Mid Tennessee Mobile	 Motorola Type II	 Cookeville	Middle Tennessee Utility District	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Various	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	
+151.40750 	159.22500  	WQPN446 	RM	CC 10TG *SL 1	PC-911 OPS 1 	911 District Operations 1 	DMR 	Emergency Ops 
+151.40750 	159.22500  	WQPN446 	RM	CC 10TG *SL 2	PC-911 OPS 2 	911 District Operations 2 	DMR 	Emergency Ops 
+152.00750 	   	WQOZ809 	BM		PCEMA-FD TO 	Emergency Management - Fire Tone Out 	FMN 	Multi-Dispatch 
+460.33750 	465.33750  	WQOZ809 	RM		PCEMA BAXT 	Emergency Management - Fire Baxter Repeater 	DMR 	Emergency Ops 
+460.06250 	465.06250  	WQOZ809 	RM		PCEMA COOK 	Emergency Management - Fire Cookevlle Repeater 	DMR 	Emergency Ops 
+460.13750 	465.13750  	WQOZ809 	RM		PCEMA-MONT 	Emergency Management - Fire Monterey Repeater 	DMR 	Emergency Ops 
+453.56250 	458.56250  	WQOZ809 	RM		PCEMA TEMP 	Emergency Management -  Fire Portable Repeater 	DMR 	Emergency Ops 
+155.76000 	159.15000  	KNCS264 	RM	123.0 PL	PCEMA OPS 	Emergency Management Agency 	FMN 	Emergency Ops 
+155.04000 	150.77500  	WPNP301 	RM	88.5 PL	PCSD/EMS CWA 	Sheriff/EMS Countywide Analog 	FMN 	Multi-Tac 
+156.19500 	159.06000  	KZH975 	RM	074 DPL	Ptnm P Wks 	Public Works 	FMN 	Public Works 
+151.25000 	156.04500  	WQPN446 	RM	CC 10TG 900SL 1	PC FIRE 1D 	County Fire Dispatch 	DMR 	Fire Dispatch 
+154.38500 	153.77000  	KNEK516 	RM	151.4 PL	PC FIRE 1A 	County Fire Dispatch 	FMN 	Fire Dispatch 
+151.25000 	156.04500  	WQPN446 	RM	CC 10TG 900SL 2	PC FIRE 2D 	County Fire Secondary 	DMR 	Fire-Tac 
+151.28750 	   	 	BM	151.4 PL	PC FIRE INT 	County Fire Interior Operations 	FMN 	Fire-Tac 
+154.13000 	   	WNGY515 	BM	151.4 PL	PC FIRE GND 	County Fireground *Expired* 	FMN 	Fire-Tac 
+154.31000 	   	WNZZ246 	BM	CSQ	PC FIRE FG 	County Fireground Simplex 	FMN 	Fire-Tac 
+154.27250 	   	 	BM	151.4 PL	PC FIRE H2O 	County Fire Water Supply 	FMN 	Fire-Tac 
+155.95500 	158.86500  	KNCS264 	BM	CC 10TG 500SL 1	PC RESCUE 1 	Rescue Squad Dispatch 	DMR 	EMS Dispatch 
+153.44750 	159.51750  	 	RM	CC 10TG 500SL 1	PC RESCUE 1 	Rescue Dispatch - Gentry Tower 	DMR 	EMS Dispatch 
+155.95500 	158.86500  	KNCS264 	RM	CC 10TG 500SL 2	PC RESCUE 2 	Rescue Squad Operations 	DMR 	EMS-Tac 
+153.44750 	159.51750  	 	RM	CC 10TG 500SL 2	PC RESCUE 2 	Rescue Operations - Gentry Tower 	DMR 	EMS-Tac 
+155.95500 	158.86500  	KNCS264 	RM	123.0 PL	PCRS-ANALOG 	Rescue Squad Analog Interop 	FMN 	EMS-Tac 
+154.23500 	150.80500  	WQAF278 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Algood Tower 	DMR 	EMS Dispatch 
+153.61250 	158.43750  	 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Bangham Tower 	DMR 	EMS Dispatch 
+151.13000 	155.82750  	WQHS533 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Baxter Tower 	DMR 	EMS Dispatch 
+155.65500 	156.09000  	KOB530 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Chanell 22 Tower 	DMR 	EMS Dispatch 
+151.03250 	154.00250  	WQDD829 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Cookeville Tower 	DMR 	EMS Dispatch 
+155.26500 	151.17500  	WKQI754 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - Gentry Tower 	DMR 	EMS Dispatch 
+157.51500 	150.86000  	 	RM	CC 10TG 71700SL 1	PCEMS DISP 	EMS Dispatch - RMC Tower 	DMR 	EMS Dispatch 
+155.04000 	150.77500  	WPNP301 	RM	CC 10TG 71700SL 1	PCEMS TAC 	EMS Tactical 	DMR 	EMS-Tac 
+154.23500 	150.80500  	WQAF278 	RM	CC 10TG 71300SL 2	PCSD/APD 	Sheriff and Algood Police - Algood Tower 	DMR 	Law Dispatch 
+153.61250 	158.43750  	 	RM	CC 10TG 71300SL 2	PCSD DISP 	Sheriff Dispatch - Bangham Tower 	DMR 	Law Dispatch 
+151.13000 	155.82750  	WQHS533 	RM	CC 10TG 71300SL 2	PCSD/BPD 	Sheriff and Baxter Police - Baxter Tower 	DMR 	Law Dispatch 
+151.03250 	154.00250  	WQDD829 	RM	CC 10TG 71300SL 2	PCSD DISP 	Sheriff Dispatch - Cookeville Tower 	DMR 	Law Dispatch 
+155.26500 	151.17500  	WKQI754 	RM	CC 10TG 71300SL 2	PCSD DISP 	Sheriff Dispatch - Gentry Tower 	DMR 	Law Dispatch 
+157.51500 	150.86000  	 	RM	CC 10TG 71300SL 2	PCSD DISP 	Sheriff Dispatch - RMC Tower 	DMR 	Law Dispatch 
+155.65500 	156.09000  	KOB530 	RM	CC 10TG 71300SL 2	PCSD DISP 	Sheriff Countywide - Chanell 22 Tower 	DMR 	Law Dispatch 
+155.04000 	150.77500  	WPNP301 	RM	CC 10TG 71300SL 2	PCSD C/T 	Sheriff - Tactical 2 Car to Car / Tactical 	DMR 	Law Tac 
+154.97250 	159.01500  	WQQG667 	RM	CC 10TG 71300SL *	PCSD-TAC 3 	Sheriff - Tactical 3 	DMR 	Law Tac 
+153.49250 	158.13750  	WQQD200 	RM	CC 5TG 71300SL 1	PCSD-TAC 4 	Sheriff - Tactical 4 (Encrypted) 	DMRE 	Law Tac 
+154.75500 	156.01500  	KOB530 	RM	100.0 PL	PCSD-RMA 	Sheriff - Regional Mutual Aid 	FMN 	Interop 
+153.49250 	158.13750  	WQQD200 	RM		PCSD MIXED A 	Sheriff - Analog Interop 	FMN 	Interop 
+153.67250 	159.63750  	WQQD200 	RM	186.2 PL	PCSD-INTRFC 	Sheriff - Analog Interface to TRBO System 	FMN 	Interop 
+154.97250 	159.01500  	WQQG667 	RM	94.8 PL	PCSD-JAIL 	Sheriff - Jail Operations 	FMN 	Corrections 
+153.49250 	158.13750  	WQQD200 	RM	CC 5TG *SL 2	PCSD-GPS 	Sheriff - GPS Data 	DMR 	Data 
+158.82000 	153.87500  	WNRI397 	RM	CC 2TG 711600SL 1	Ckv PD DISP 1 	Police Department - Dispatch 1 	DMR 	Law Dispatch 
+154.41500 	153.95000  	KNFW810 	RM	CC 4TG 711601SL 1	Ckv PD DISP 2 	Police Department - 2 	DMR 	Law Dispatch 
+154.41500 	153.95000  	KNFW810 	RM	CC 4TG 711602SL 1	Ckv PD DISP 3 	Police Department - 3 	DMR 	Law Tac 
+159.21000 	154.87500  	WQPG688 	RM		CkvPD C/T 	Police Department - Car to Car/Tactical 	DMR 	Law Tac 
+158.82000 	153.87500  	WNRI397 	RM	CC 2TG 711400SL 2	Ckv FD DISP 	Fire Department - DIspatch 	DMR 	Fire Dispatch 
+154.29500 	   	 	M	127.3 PL	Ckv FD F Gnd 	Fire Department - Fireground 	FMN 	Fire-Tac 
+155.14500 	158.89500  	WPCA451 	RM	CC 3TG 1300SL 1	Ckv DPW D 	Public Works Digital 	DMR 	Public Works 
+155.14500 	158.89500  	WPCA451 	RM	114.8 PL	Ckv DPW A 	Public Works Analog 	FMN 	Public Works 
+153.59000 	159.81000  	WPXL950 	RM	114.8 PL	Ckv Electric 	Electric Department 	FMN 	Utilities 
+158.19000 	153.47000  	KUW878 	RM	114.8 PL	Ckv Electric 	Electric Department 	FMN 	Utilities 
+158.22000 	153.42500  	WQJX997 	RM	CC 1TG 1700SL 1	Ckv Electric 	Electric Department  	DMR 	Utilities 
+158.76000 	153.74000  	KNDJ456 	RM	CC 6TG 1200SL 1	Ckv GAS D 	Gas Department Digital 	DMR 	Utilities 
+158.76000 	153.74000  	KNDJ458 	RM	114.8 PL	Ckv GAS A 	Gas Department Analog 	FMN 	Utilities 
+154.23500 	150.80500  	WQAF278 	RM	CC 10TG 1200SL 1	Algood FD  	Fire Dispatch 	DMR 	Fire Dispatch 
+154.23500 	150.80500  	WQAF278 	RM	151.4 PL	Algood VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
+153.53000 	159.93000  	WNLH418 	RM	151.4 PL	Algood P Wks 	Public Works 	FMN 	Public Works 
+154.14500 	154.40000  	KNCE683 	RM	CC 10TG 100SL 1	MVFD DMR 	Volunteer Fire Dispatch 	DMR 	Fire Dispatch 
+154.14500 	154.40000  	KNCE683 	RM	136.5 PL	Monterey VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
+154.31000 	   	WNZZ246 	BM	151.4 PL	Baxter VFD 	Volunteer Fire Department 	FMN 	Fire Dispatch 
+151.13000 	155.82750  	WQHS533 	RM	CC 10TG 1100SL 1	Baxter VFD 	Volunteer Fire Department Dispatch 	DMR 	Fire Dispatch 
+155.92500 	153.80000  	KZE649 	RM	CC 12TG 71675SL 1	TTU Police 	Police 	DMR 	Law Dispatch 
+453.87500 	458.87500  	KNJX266 	RM	364 DPL	TTU FBS 	Facilities and Business Services 	FMN 	Schools 
+464.81250 	469.81250  	WQNF921 	RM	CC 5TG 451SL 2	TTU-ATHLETIC 	Athletics Department 	DMR 	Schools 
+154.04000 	151.38500  	WPMV611   	RM	734 DPL	UCHRA 	Upper Cumberland Human Resource Agency 	FMN 	Other 
+Cumberland Two-Way Communications	 LTR Standard	 Cookeville	Mid Tennessee Mobile	 Motorola Type II	 Cookeville	Middle Tennessee Utility District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

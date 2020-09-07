@@ -1,63 +1,62 @@
-460.52500 	WQHJ251 	RM	97.4 PL	Yam Law Disp 	Law Dispatch 	FMN 	Law Dispatch 
-453.83750 	WQHI348 	BM	97.4 PL	YamhillFireD 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
-46.42000 	KGP693 	RM	110.9 PL	YamhillFireD 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
-163.25000 	WPZS819 	B	131.8 PL	YamhillFireD 	Countywide Fire Dispatch (Pagers) 	FMN 	Fire Dispatch 
-460.05000 	WPNQ958 	BM	97.4 PL	YamhillOps1 	Countywide Incident Operations 1 (Fire/Law) 	FMN 	Multi-Tac 
-460.27500 	WPNQ958 	BM	97.4 PL	YamhillOps2 	Countywide Incident Operations 2 (Fire/Lifeflight/Law) 	FMN 	Multi-Tac 
-460.10000 	WPNQ958 	RM	97.4 PL	YamhillOps3 	Countywide Incident Operations 3 (Public Works/Law/Fire) 	FMN 	Multi-Tac 
-460.23750 	WQIZ751 	RM	203.5 PL	Yamhill HEBO 	Hebo area Incident Operations (Fire/Law) 	FMN 	Multi-Tac 
-453.43750 	WQHI348 	RM	97.4 PL	YamFGrndDoan 	Countywide Fireground Operations (Doane Creek) 	FMN 	Fire-Tac 
-453.33750 	WQHL740 	RM	97.4 PL	YamFGrndSpir 	Countywide Fireground Operations (Spirit Mountain) 	FMN 	Fire-Tac 
-453.23750 	WQHI348 	RM	97.4 PL	YamFGrndEagl 	Countywide Fireground Operations (Eagle Crest) 	FMN 	Fire-Tac 
-453.55000 	WPNZ312 	B	97.4 PL	YamFGrndEola 	Countywide Fireground Operations (Eola Hill) 	FMN 	Fire-Tac 
-460.16250 	WQHI348 	RM	97.4 PL	YamFGrndHHvn 	Countywide Fireground Operations (High Heaven) 	FMN 	Fire-Tac 
-460.41250 	WQAB378 	RM	97.4 PL	YamFGrndMTW 	Countywide Fireground Operations (Mountain Top West) 	FMN 	Fire-Tac 
-453.32500 	WPNZ312 	B	97.4 PL	YamFGrndBald 	Countywide Fireground Operations (Bald Peak) 	FMN 	Fire-Tac 
-453.63750 	WQHI348 	RM	97.4 PL	YamFGrndMcMi 	Countywide Fireground Operations (McMinville Fire) 	FMN 	Fire-Tac 
-458.11250 	WPNQ958 	M	107.2 PL	YamFireTrn01 	Countywide Fire Training 1 	FMN 	Fire-Talk 
-458.13750 	WPNQ958 	M	107.2 PL	YamFireTrn02 	Countywide Fire Training 2 	FMN 	Fire-Talk 
-460.56250 	WPNQ958 	M	107.2 PL	YamFireTrn03 	Countywide Fire Training 3 	FMN 	Fire-Talk 
-465.56250 	WPNQ958 	M	107.2 PL	YamFireTrn04 	Countywide Fire Training 4 	FMN 	Fire-Talk 
-460.50000 	KLU309 	BM	CSQ	YamhillSONet 	Countywide Sheriff Interoperability Net 	FMN 	Law Talk 
-453.06250 	WPNQ958 	M	107.2 PL	YamhillLawTa 	Countywide Law Tactical 1 	FMN 	Law Tac 
-453.11250 	WPNQ958 	M	107.2 PL	YamhillLawTa 	Countywide Law Tactical 2 	FMN 	Law Tac 
-453.13750 	WPNQ958 	M	107.2 PL	YamhillLawTa 	Countywide Law Tactical 3 	FMN 	Law Tac 
-458.06250 	WPNQ958 	M	107.2 PL	YamhillLawTa 	Countywide Law Tactical 4 	FMN 	Law Tac 
-453.48750 	WQGI914 	RM	192.8 PL	YamhillJail 	Yamhill County Correctional Facility 	FMN 	Corrections 
-453.03750 	WQCJ334 	M		CPRD Ops1 	Ops 	FMN 	Public Works 
-453.08750 	WQCJ334 	M		CPRD Ops2 	Ops 	FMN 	Public Works 
-453.36250 	WQHK565 	RM	023 DPL	McM Pd Disp 	Police Dispatch 	FMN 	Law Dispatch 
-460.26250 	WQHK565 	RM	073 DPL	McM FireDisp 	Fire Dispatch 	FMN 	Fire Dispatch 
-460.03750 	WQHK565 	RM	043 DPL	Mcm Ops 	McMinnville Ops 	FMN 	Multi-Tac 
-153.63500 	KOB378 	BM		McM Electric 	Electric Dept. 	FMN 	Public Works 
-158.25000 	KOB378 	BM	151.4 PL	McM Water 	Water Dept. 	FMN 	Public Works 
-153.27500 	WQKB755 	RM		WVFD Unit2U 	Fire - Unit-to-Unit 	FMN 	Fire-Talk 
-451.90000 	WQKB755 	RM		WVFD Unit2U 	Fire - Unit-to-Unit 	FMN 	Fire-Talk 
-453.02500 	WQDL451 	RM		WVFD Ops2 	Operations 	FMN 	Fire-Talk 
-453.30000 	WQDL451 	RM		WVFD Ops1 	Operations 	FMN 	Fire-Talk 
-46.10000 	KGP693 	RM	110.9 PL	Fire Primary 	Fire Primary 	FMN 	Fire-Talk 
-46.22000 	WNNA859 	BM	110.9 PL	FireTactical 	Fire Tactical 	FMN 	Fire-Tac 
-46.26000 	WNNA859 	BM		Fire West 	Fire West Tactical 	FMN 	Fire-Tac 
-46.28000 	WNNA859 	BM		FireEast Tac 	Fire East Tactical 	FMN 	Fire-Tac 
-46.32000 	WNNA859 	BM		Fire Central 	Fire Central Tactical 	FMN 	Fire-Tac 
-45.32000 	KOL924 	BM	110.9 PL	1 	Sheriff Dispatch 	FMN 	Law Dispatch 
-45.46000 	KLU309 	RM	110.9 PL	2 	Sheriff 	FMN 	Law Dispatch 
-45.64000 	KOL924 	BM	110.9 PL	SheifCar-Car 	Sheriff Car-to-Car 	FMN 	Law Talk 
-453.17500 	WPNZ312 	RM		FIRE 	Fire 	FMN 	Fire-Talk 
-453.53750 	WPNZ312 	RM		FIRE 	Fire 	FMN 	Fire-Talk 
-460.58750 	WPNZ312 	RM		FIRE 	Fire 	FMN 	Fire-Talk 
-453.78750 	WQGI914 	M		JAIL 2 	Sheriff - Corrections 	FMN 	Law Talk 
-451.95000 	WPNS834 	RM		GFU Ops  	Ops 	FMN 	Security 
-452.75000 	WPNS834 	RM		 GFU Ops 	Ops 	FMN 	Security 
-461.17500 	WPNS834 	RM		GFU Ops  	Ops 	FMN 	Security 
-460.63750 	 	RM	107.2 PL	LC Sec 	Security Dispatch   	FMN 	Security 
-461.40000 	WPTN506 	RM		LC SecOps 	Ops 	FMN 	Security 
-461.75000 	WPTN506 	RM		Lc Ops 	Ops 	FMN 	Security 
-453.26250 	 	RM	107.2 PL	McM School 	School 	FMN 	Schools 
-453.53750 	 	RM	107.2 PL	McM School 	School 	FMN 	Schools 
-463.28750 	 	RM	356 DPL	NHS Admin 	Newberg High School 	FMN 	Schools 
-Confederated Tribes of Grand Ronde	 LTR Standard	 Willamina	Federal Correctional Institution Sheridan	 Motorola Type II SmartZone	 Sheridan	Oregon State Radio Project	 Project 25 Phase II
- Varies	Portland General Electric DMR	 DMR Tier 3	 Portland	Providence Medical Centers	 DMR Conventional Networked	 Various	Repeat it, Inc.
- LTR Standard	 Newberg	Slater Communications and Electronics	 LTR Standard	 Salem	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various
-Tri-County Metropolitan Transit (TriMet)	 Project 25 Phase I	 Portland	Washington County / Clackamas County / Newberg	 Motorola Type II SmartZone	 Various	Washington County Consolidated Communications Agency (WCCCA)	 Project 25 Phase II
- Varies	
+460.52500 	   	WQHJ251 	RM	97.4 PL	Yam Law Disp 	Law Dispatch 	FMN 	Law Dispatch 
+453.83750 	458.83750  	WQHI348 	BM	97.4 PL	YamhillFireD 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
+46.42000 	   	KGP693 	RM	110.9 PL	YamhillFireD 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
+163.25000 	   	WPZS819 	B	131.8 PL	YamhillFireD 	Countywide Fire Dispatch (Pagers) 	FMN 	Fire Dispatch 
+460.05000 	465.05000  	WPNQ958 	BM	97.4 PL	YamhillOps1 	Countywide Incident Operations 1 (Fire/Law) 	FMN 	Multi-Tac 
+460.27500 	465.27500  	WPNQ958 	BM	97.4 PL	YamhillOps2 	Countywide Incident Operations 2 (Fire/Lifeflight/Law) 	FMN 	Multi-Tac 
+460.10000 	465.10000  	WPNQ958 	RM	97.4 PL	YamhillOps3 	Countywide Incident Operations 3 (Public Works/Law/Fire) 	FMN 	Multi-Tac 
+460.23750 	465.23750  	WQIZ751 	RM	203.5 PL	Yamhill HEBO 	Hebo area Incident Operations (Fire/Law) 	FMN 	Multi-Tac 
+453.43750 	458.43750  	WQHI348 	RM	97.4 PL	YamFGrndDoan 	Countywide Fireground Operations (Doane Creek) 	FMN 	Fire-Tac 
+453.33750 	458.33750  	WQHL740 	RM	97.4 PL	YamFGrndSpir 	Countywide Fireground Operations (Spirit Mountain) 	FMN 	Fire-Tac 
+453.23750 	458.23750  	WQHI348 	RM	97.4 PL	YamFGrndEagl 	Countywide Fireground Operations (Eagle Crest) 	FMN 	Fire-Tac 
+453.55000 	458.55000  	WPNZ312 	B	97.4 PL	YamFGrndEola 	Countywide Fireground Operations (Eola Hill) 	FMN 	Fire-Tac 
+460.16250 	465.16250  	WQHI348 	RM	97.4 PL	YamFGrndHHvn 	Countywide Fireground Operations (High Heaven) 	FMN 	Fire-Tac 
+460.41250 	465.41250  	WQAB378 	RM	97.4 PL	YamFGrndMTW 	Countywide Fireground Operations (Mountain Top West) 	FMN 	Fire-Tac 
+453.32500 	458.32500  	WPNZ312 	B	97.4 PL	YamFGrndBald 	Countywide Fireground Operations (Bald Peak) 	FMN 	Fire-Tac 
+453.63750 	458.63750  	WQHI348 	RM	97.4 PL	YamFGrndMcMi 	Countywide Fireground Operations (McMinville Fire) 	FMN 	Fire-Tac 
+458.11250 	   	WPNQ958 	M	107.2 PL	YamFireTrn01 	Countywide Fire Training 1 	FMN 	Fire-Talk 
+458.13750 	   	WPNQ958 	M	107.2 PL	YamFireTrn02 	Countywide Fire Training 2 	FMN 	Fire-Talk 
+460.56250 	   	WPNQ958 	M	107.2 PL	YamFireTrn03 	Countywide Fire Training 3 	FMN 	Fire-Talk 
+465.56250 	   	WPNQ958 	M	107.2 PL	YamFireTrn04 	Countywide Fire Training 4 	FMN 	Fire-Talk 
+460.50000 	   	KLU309 	BM	CSQ	YamhillSONet 	Countywide Sheriff Interoperability Net 	FMN 	Law Talk 
+453.06250 	   	WPNQ958 	M	107.2 PL	YamhillLawTa 	Countywide Law Tactical 1 	FMN 	Law Tac 
+453.11250 	   	WPNQ958 	M	107.2 PL	YamhillLawTa 	Countywide Law Tactical 2 	FMN 	Law Tac 
+453.13750 	   	WPNQ958 	M	107.2 PL	YamhillLawTa 	Countywide Law Tactical 3 	FMN 	Law Tac 
+458.06250 	   	WPNQ958 	M	107.2 PL	YamhillLawTa 	Countywide Law Tactical 4 	FMN 	Law Tac 
+453.48750 	458.48750  	WQGI914 	RM	192.8 PL	YamhillJail 	Yamhill County Correctional Facility 	FMN 	Corrections 
+453.03750 	   	WQCJ334 	M		CPRD Ops1 	Ops 	FMN 	Public Works 
+453.08750 	   	WQCJ334 	M		CPRD Ops2 	Ops 	FMN 	Public Works 
+453.36250 	458.36250  	WQHK565 	RM	023 DPL	McM Pd Disp 	Police Dispatch 	FMN 	Law Dispatch 
+460.26250 	465.26250  	WQHK565 	RM	073 DPL	McM FireDisp 	Fire Dispatch 	FMN 	Fire Dispatch 
+460.03750 	   	WQHK565 	RM	043 DPL	Mcm Ops 	McMinnville Ops 	FMN 	Multi-Tac 
+153.63500 	   	KOB378 	BM		McM Electric 	Electric Dept. 	FMN 	Public Works 
+158.25000 	   	KOB378 	BM	151.4 PL	McM Water 	Water Dept. 	FMN 	Public Works 
+153.27500 	160.18500  	WQKB755 	RM		WVFD Unit2U 	Fire - Unit-to-Unit 	FMN 	Fire-Talk 
+451.90000 	456.90000  	WQKB755 	RM		WVFD Unit2U 	Fire - Unit-to-Unit 	FMN 	Fire-Talk 
+453.02500 	458.02500  	WQDL451 	RM		WVFD Ops2 	Operations 	FMN 	Fire-Talk 
+453.30000 	458.30000  	WQDL451 	RM		WVFD Ops1 	Operations 	FMN 	Fire-Talk 
+46.10000 	   	KGP693 	RM	110.9 PL	Fire Primary 	Fire Primary 	FMN 	Fire-Talk 
+46.22000 	   	WNNA859 	BM	110.9 PL	FireTactical 	Fire Tactical 	FMN 	Fire-Tac 
+46.26000 	   	WNNA859 	BM		Fire West 	Fire West Tactical 	FMN 	Fire-Tac 
+46.28000 	   	WNNA859 	BM		FireEast Tac 	Fire East Tactical 	FMN 	Fire-Tac 
+46.32000 	   	WNNA859 	BM		Fire Central 	Fire Central Tactical 	FMN 	Fire-Tac 
+45.32000 	   	KOL924 	BM	110.9 PL	1 	Sheriff Dispatch 	FMN 	Law Dispatch 
+45.46000 	   	KLU309 	RM	110.9 PL	2 	Sheriff 	FMN 	Law Dispatch 
+45.64000 	   	KOL924 	BM	110.9 PL	SheifCar-Car 	Sheriff Car-to-Car 	FMN 	Law Talk 
+453.17500 	458.17500  	WPNZ312 	RM		FIRE 	Fire 	FMN 	Fire-Talk 
+453.53750 	458.53750  	WPNZ312 	RM		FIRE 	Fire 	FMN 	Fire-Talk 
+460.58750 	465.58750  	WPNZ312 	RM		FIRE 	Fire 	FMN 	Fire-Talk 
+453.78750 	458.78750  	WQGI914 	M		JAIL 2 	Sheriff - Corrections 	FMN 	Law Talk 
+451.95000 	456.95000  	WPNS834 	RM		GFU Ops  	Ops 	FMN 	Security 
+452.75000 	457.75000  	WPNS834 	RM		 GFU Ops 	Ops 	FMN 	Security 
+461.17500 	466.17500  	WPNS834 	RM		GFU Ops  	Ops 	FMN 	Security 
+460.63750 	465.63750  	 	RM	107.2 PL	LC Sec 	Security Dispatch   	FMN 	Security 
+461.40000 	466.40000  	WPTN506 	RM		LC SecOps 	Ops 	FMN 	Security 
+461.75000 	466.75000  	WPTN506 	RM		Lc Ops 	Ops 	FMN 	Security 
+453.26250 	   	 	RM	107.2 PL	McM School 	School 	FMN 	Schools 
+453.53750 	   	 	RM	107.2 PL	McM School 	School 	FMN 	Schools 
+463.28750 	468.28750  	 	RM	356 DPL	NHS Admin 	Newberg High School 	FMN 	Schools 
+Confederated Tribes of Grand Ronde	 LTR Standard	 Willamina	Federal Correctional Institution Sheridan	 Motorola Type II SmartZone	 Sheridan	Oregon State Radio Project	 Project 25 Phase II	 Varies
+Portland General Electric DMR	 DMR Tier 3	 Portland	Providence Medical Centers	 DMR Conventional Networked	 Various	Repeat it, Inc.	 LTR Standard	 Newberg
+Slater Communications and Electronics	 LTR Standard	 Salem	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	Tri-County Metropolitan Transit (TriMet)	 Project 25 Phase I	 Portland
+Washington County / Clackamas County / Newberg	 Motorola Type II SmartZone	 Various	Washington County Consolidated Communications Agency (WCCCA)	 Project 25 Phase II	 Varies	

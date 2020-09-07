@@ -1,15 +1,15 @@
-154.98000 	WPNX669 	RM	146.2 PL	BALG 	Fire/EMS Dispatch 	FMN 	Multi-Dispatch 
-154.22000 	WPNP958 	M	146.2 PL	BATAC1 	Fire/EMS Fireground/Tactical 	FMN 	Fire-Tac 
-154.74000 	KSC655 	RM	114.8 PL	BALAW 	Law Backup 	FMN 	Law Dispatch 
-460.02500 	KSC655 	BM	654 DPL	BAJAIL 	Jail 	FMN 	Corrections 
-151.01000 	KYF414 	RM	94.8 PL	BAHWY 	Highways 	FMN 	Public Works 
-155.14500 	WQVI450 	M		Town DPW 	Town DPW 	FMN 	Public Works 
-155.14500 	WQVI450 	M	036 DPL	Delta DPW 	Town of Delta DPW 	FMN 	Public Works 
-155.14500 	WQVI450 	M	074 DPL	Town DPW 	Town DPW 	FMN 	Public Works 
-155.14500 	WQVI450 	M	205 DPL	Town DPW 	Town DPW 	FMN 	Public Works 
-155.14500 	WQVI450 	BM	91.5 PL	BAMUN 	Municipal / Town of Mason DPW 	FMN 	Public Works 
-155.14500 	WPNX669 	M	114.8 PL	Red Cliff 	Public Safety/Public Works/Housing Authority 	FMN 	Public Works 
-461.13750 	 	M		LW Casino 	Legendary Waters Hotel  	FMN 	Security 
-169.55000 	 	RM	100 NAC	Aposte Islds 	Apostle Islands National Lakeshore 	P25 	Federal 
-164.80000 	 	RM	200 NAC	Apostle Isld 	Apostle Islands National Lakeshore (1) 	P25 	Federal 
-Duluth Superior Communications Connect Plus	 DMR Motorola Connect Plus (TRBO)	 Duluth	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+154.98000 	153.98000  	WPNX669 	RM	146.2 PL	BALG 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.22000 	   	WPNP958 	M	146.2 PL	BATAC1 	Fire/EMS Fireground/Tactical 	FMN 	Fire-Tac 
+154.74000 	155.91000  	KSC655 	RM	114.8 PL	BALAW 	Law Backup 	FMN 	Law Dispatch 
+460.02500 	   	KSC655 	BM	654 DPL	BAJAIL 	Jail 	FMN 	Corrections 
+151.01000 	159.04500  	KYF414 	RM	94.8 PL	BAHWY 	Highways 	FMN 	Public Works 
+155.14500 	   	WQVI450 	M		Town DPW 	Town DPW 	FMN 	Public Works 
+155.14500 	   	WQVI450 	M	036 DPL	Delta DPW 	Town of Delta DPW 	FMN 	Public Works 
+155.14500 	   	WQVI450 	M	074 DPL	Town DPW 	Town DPW 	FMN 	Public Works 
+155.14500 	   	WQVI450 	M	205 DPL	Town DPW 	Town DPW 	FMN 	Public Works 
+155.14500 	   	WQVI450 	BM	91.5 PL	BAMUN 	Municipal / Town of Mason DPW 	FMN 	Public Works 
+155.14500 	   	WPNX669 	M	114.8 PL	Red Cliff 	Public Safety/Public Works/Housing Authority 	FMN 	Public Works 
+461.13750 	   	 	M		LW Casino 	Legendary Waters Hotel  	FMN 	Security 
+169.55000 	   	 	RM	100 NAC	Aposte Islds 	Apostle Islands National Lakeshore 	P25 	Federal 
+164.80000 	164.17500  	 	RM	200 NAC	Apostle Isld 	Apostle Islands National Lakeshore (1) 	P25 	Federal 
+Duluth Superior Communications Connect Plus	 DMR Motorola Connect Plus (TRBO)	 Duluth	

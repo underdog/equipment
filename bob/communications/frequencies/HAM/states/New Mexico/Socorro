@@ -1,17 +1,16 @@
-155.07000 	WXK741 	RM	CSQ	SocorroCo SO 	Sheriff 	FM 	Law Dispatch 
-151.25000 	WQKG372  	RM		SocorroCoFD 	Fire Dispatch/Response Granite Peak 	FMN 	Fire Dispatch 
-158.76750 	WQKF725 	RM	110.9 PL	SocoroCo FD 	Fire Dispatch/Response M Mountain 	FMN 	Fire Dispatch 
-154.31000 	WSW324 	BM	CSQ	StateFireNet 	Fire Mutual Aid Statewide 	FM 	Interop 
-154.34000 	WSW324 	BM	CSQ	SocorroCoFD2 	Fireground 	FM 	Fire-Tac 
-155.28000 	WPMH277 	M		Search/Rescu 	Search and Rescue 	FM 	Emergency Ops 
-463.10000 	 	BM		EMS-to-Hosp 	EMS-to-Hospital (Med-5) 	FM 	Hospital 
-159.04500 	KNGJ770 	RM		SocorroCoDPW 	Services 	FM 	Public Works 
-155.11500 	WRG573 	BM		Magdalena FD 	Fireground 	FM 	Fire-Tac 
-155.86500 	KQP492 	BM	CSQ	EMRTC Police 	Police 	FM 	Law Dispatch 
-154.65000 	KXZ741 	RM	103.5 PL	Socorro PD 1 	Police 1 	FMN 	Law Dispatch 
-154.89000 	KXZ741 	BM	CSQ	Socorro PD 2 	Police 2 	FMN 	Law Tac 
-154.34000 	WSW324 	BM		Socorro Fire 	Fire/EMS 	FM 	Fire Dispatch 
-154.26500 	WSW324 	BM		Socoro Fire 	Fire/EMS 	FM 	Fire Dispatch 
-452.30000 	WSW324 	F	127.3 PL	SocoroFDLink 	Fire Mountain Top Relay 	FMN 	Fire Dispatch 
-Fort Bliss and White Sands Missile Range	 Project 25 Phase I	 Various	New Mexico DTRS	 Project 25 Phase II	 Various	NRAO Very Large Array	 Project 25 Phase II
- Magdalena	
+155.07000 	156.03000  	WXK741 	RM	CSQ	SocorroCo SO 	Sheriff 	FM 	Law Dispatch 
+151.25000 	154.82250  	WQKG372  	RM		SocorroCoFD 	Fire Dispatch/Response Granite Peak 	FMN 	Fire Dispatch 
+158.76750 	158.79750  	WQKF725 	RM	110.9 PL	SocoroCo FD 	Fire Dispatch/Response M Mountain 	FMN 	Fire Dispatch 
+154.31000 	   	WSW324 	BM	CSQ	StateFireNet 	Fire Mutual Aid Statewide 	FM 	Interop 
+154.34000 	   	WSW324 	BM	CSQ	SocorroCoFD2 	Fireground 	FM 	Fire-Tac 
+155.28000 	   	WPMH277 	M		Search/Rescu 	Search and Rescue 	FM 	Emergency Ops 
+463.10000 	468.10000  	 	BM		EMS-to-Hosp 	EMS-to-Hospital (Med-5) 	FM 	Hospital 
+159.04500 	154.08500  	KNGJ770 	RM		SocorroCoDPW 	Services 	FM 	Public Works 
+155.11500 	   	WRG573 	BM		Magdalena FD 	Fireground 	FM 	Fire-Tac 
+155.86500 	   	KQP492 	BM	CSQ	EMRTC Police 	Police 	FM 	Law Dispatch 
+154.65000 	159.15000  	KXZ741 	RM	103.5 PL	Socorro PD 1 	Police 1 	FMN 	Law Dispatch 
+154.89000 	   	KXZ741 	BM	CSQ	Socorro PD 2 	Police 2 	FMN 	Law Tac 
+154.34000 	   	WSW324 	BM		Socorro Fire 	Fire/EMS 	FM 	Fire Dispatch 
+154.26500 	   	WSW324 	BM		Socoro Fire 	Fire/EMS 	FM 	Fire Dispatch 
+452.30000 	457.30000  	WSW324 	F	127.3 PL	SocoroFDLink 	Fire Mountain Top Relay 	FMN 	Fire Dispatch 
+Fort Bliss and White Sands Missile Range	 Project 25 Phase I	 Various	New Mexico DTRS	 Project 25 Phase II	 Various	

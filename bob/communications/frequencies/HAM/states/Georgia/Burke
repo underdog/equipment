@@ -1,33 +1,33 @@
-453.18750 	WQVB304 	RM	CC 6TG 50010SL 1	BCSO DISPATCH 	Sheriff - Dispatch 	DMR 	Law Dispatch 
-453.36250 	WQVB304 	RM	CC 6TG 50012SL *	BCSO INVEST 	Sheriff - Investigations 	DMR 	Law Tac 
-158.78250 	WQDI391 	RM	532 DPL	BCSO 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.31000 	KNJL467 	BM		BCSO 	Sheriff 	FMN 	Law Tac 
-458.66250 	WQKI773 	BM		BCSO UHF 	Sheriff 	FMN 	Law Talk 
-460.15000 	WQWI336 	RM	CC 6TG 40010SL 1	BCFD/EMS 	Fire/EMS Dispatch 	DMR 	Fire Dispatch 
-154.01000 	WPVR385 	BM	173.8 PL	BCFD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-156.00750 	WPWS795 	RM	411 DPL	BCFD/EMS 	EMS Repeater 	FMN 	EMS-Tac 
-155.17500 	KYQ429 	BM		BCEMA 	Emergency Management Agency 	FMN 	Emergency Ops 
-453.66250 	WQVB304 	RM	CC 6TG 50017SL *	BCPW OPS 	Public Works 	DMR 	Public Works 
-45.16000 	KSN264 	BM		BC PW 	Public Works 	FMN 	Public Works 
-155.98500 	KSN264 	BM	131 DPL	BC PW 	Public Works 	FMN 	Public Works 
-156.03000 	WQGE854 	RM		BC PW 	Public Works 	FMN 	Public Works 
-155.74500 	WNSO606 	RM	110.9 PL	BCDOT 	Roads and Bridges 	FMN 	Public Works 
-39.98000 	WNYN693 	BM	146.2 PL	BC Transit 	Transit 	FMN 	Transportation 
-451.96250 	WQOE527 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
-452.26250 	WQOE527 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
-462.01250 	WQOE527 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
-462.02500 	WPTX632 	RM		CCBOE DMR 	Board of Education  	DMR 	Schools 
-463.66250 	WQOE527 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
-464.81250 	WQOE527 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
-462.20000 	WPTX632 	RM		CCBOE DMR 	Board of Education  	DMR 	Schools 
-464.02500 	WPTX632 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
-464.15000 	WPTX632 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
-464.35000 	WPTX632 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
-155.31000 	KUJ575 	BM		MPD Dispatch 	Police Dispatch EXPIRED 2/15 	FMN 	Law Dispatch 
-158.91000 	WQKR233 	BM		M Loc Gov 	Local Government 	FMN 	Other 
-155.31000 	KNJL467 	BM		SPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-453.18750 	WQVB304 	RM	CC 6TG 50011SL 2	WPD DISPATCH 	Waynesboro Police - Dispatch 	DMR 	Law Dispatch 
-155.19000 	WPTG803 	RM	173.8 PL	WPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-154.86750 	WPTG803 	RM		WEMS 	Emergency Services 	FMN 	Emergency Ops 
-462.02500 	WPTX632 	RM	107.2 PL	Waynesb Schl 	Waynesboro Primary School 	FMN 	Schools 
+453.18750 	458.18750  	WQVB304 	RM	CC 6TG 50010SL 1	BCSO DISPATCH 	Sheriff - Dispatch 	DMR 	Law Dispatch 
+453.36250 	458.36250  	WQVB304 	RM	CC 6TG 50012SL *	BCSO INVEST 	Sheriff - Investigations 	DMR 	Law Tac 
+158.78250 	154.03250  	WQDI391 	RM	532 DPL	BCSO 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.31000 	   	KNJL467 	BM		BCSO 	Sheriff 	FMN 	Law Tac 
+458.66250 	   	WQKI773 	BM		BCSO UHF 	Sheriff 	FMN 	Law Talk 
+460.15000 	465.15000  	WQWI336 	RM	CC 6TG 40010SL 1	BCFD/EMS 	Fire/EMS Dispatch 	DMR 	Fire Dispatch 
+154.01000 	   	WPVR385 	BM	173.8 PL	BCFD/EMS 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+156.00750 	154.09250  	WPWS795 	RM	411 DPL	BCFD/EMS 	EMS Repeater 	FMN 	EMS-Tac 
+155.17500 	   	KYQ429 	BM		BCEMA 	Emergency Management Agency 	FMN 	Emergency Ops 
+453.66250 	458.66250  	WQVB304 	RM	CC 6TG 50017SL *	BCPW OPS 	Public Works 	DMR 	Public Works 
+45.16000 	   	KSN264 	BM		BC PW 	Public Works 	FMN 	Public Works 
+155.98500 	   	KSN264 	BM	131 DPL	BC PW 	Public Works 	FMN 	Public Works 
+156.03000 	153.84500  	WQGE854 	RM		BC PW 	Public Works 	FMN 	Public Works 
+155.74500 	153.84500  	WNSO606 	RM	110.9 PL	BCDOT 	Roads and Bridges 	FMN 	Public Works 
+39.98000 	   	WNYN693 	BM	146.2 PL	BC Transit 	Transit 	FMN 	Transportation 
+451.96250 	456.96250  	WQOE527 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
+452.26250 	457.26250  	WQOE527 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
+462.01250 	467.01250  	WQOE527 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
+462.02500 	467.02500  	WPTX632 	RM		CCBOE DMR 	Board of Education  	DMR 	Schools 
+463.66250 	468.66250  	WQOE527 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
+464.81250 	469.81250  	WQOE527 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
+462.20000 	467.20000  	WPTX632 	RM		CCBOE DMR 	Board of Education  	DMR 	Schools 
+464.02500 	469.02500  	WPTX632 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
+464.15000 	469.15000  	WPTX632 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
+464.35000 	469.35000  	WPTX632 	RM		CCBOE DMR 	Board of Education 	DMR 	Schools 
+155.31000 	   	KUJ575 	BM		MPD Dispatch 	Police Dispatch EXPIRED 2/15 	FMN 	Law Dispatch 
+158.91000 	   	WQKR233 	BM		M Loc Gov 	Local Government 	FMN 	Other 
+155.31000 	   	KNJL467 	BM		SPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+453.18750 	458.18750  	WQVB304 	RM	CC 6TG 50011SL 2	WPD DISPATCH 	Waynesboro Police - Dispatch 	DMR 	Law Dispatch 
+155.19000 	   	WPTG803 	RM	173.8 PL	WPD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+154.86750 	153.80000  	WPTG803 	RM		WEMS 	Emergency Services 	FMN 	Emergency Ops 
+462.02500 	467.02500  	WPTX632 	RM	107.2 PL	Waynesb Schl 	Waynesboro Primary School 	FMN 	Schools 
 Mobile Communications America	 DMR Motorola Connect Plus (TRBO)	 Various	

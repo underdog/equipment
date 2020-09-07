@@ -1,17 +1,16 @@
-155.92500 	KXF612 	RM	156.7 PL	NassauFR1 	NCFR Dispatch (Patched to A-1 on 800) 	FM 	Fire Dispatch 
-463.02500 	 	RM	136.5 PL	MED-2 	County Medical Coordination 	FM 	EMS-Talk 
-463.06250 	 	RM	136.5 PL	MED-32 	EMS-to-Baptist Medical Center/Nassau 	FM 	EMS-Talk 
-155.13000 	KXX623 	RM	156.7 PL	NassauSO1 	NCFR Dispatch Simulcast (patched w/ A-1 on 800MHz) 	FM 	Law Dispatch 
-151.95500 	 	M	156.7 PL	NassauCourt 	Courthouse 	FM 	Security 
-453.27500 	WQAV226 	RM		NassauCourt 	Courthouse 	FM 	Security 
-460.12500 	WPWL761 	RM		NassauJail 	Jail 	FM 	Security 
-154.87500 	WPMS434 	RM	226 DPL	NassauSchls 	School Buses 	FM 	Schools 
-158.77500 	KGK610 	RM	156.7 PL	NassauR&B 	Road & Bridge Department 	FM 	Public Works 
-158.83500 	KNCA561 	RM		NassauMC 	Mosquito Control 	FM 	Public Works 
-155.04000 	KNBY207 	M	156.7 PL	CallahanPW 	Public Works 	FM 	Public Works 
-154.72500 	KIJ400 	RM	156.7 PL	FernandnaPD1 	Police Dispatch 	FM 	Law Dispatch 
-154.75500 	KIJ400 	M	156.7 PL	FernandnaPD8 	Police Tactical 	FM 	Law Tac 
-151.62500 	 		CSQ	FernandinaPD 	Police 	FM 	Law Dispatch 
-155.10000 	KBR640 	BM	156.7 PL	FernandinaPW 	Public Works 	FM 	Public Works 
-Florida Power and Light (P25)	 Project 25 Phase II	 Varies	Nassau County Public Services (FL)	 Project 25 Phase II	 Nassau County	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I
- Statewide	
+155.92500 	153.74000  	KXF612 	RM	156.7 PL	NassauFR1 	NCFR Dispatch (Patched to A-1 on 800) 	FM 	Fire Dispatch 
+463.02500 	468.02500  	 	RM	136.5 PL	MED-2 	County Medical Coordination 	FM 	EMS-Talk 
+463.06250 	468.06250  	 	RM	136.5 PL	MED-32 	EMS-to-Baptist Medical Center/Nassau 	FM 	EMS-Talk 
+155.13000 	156.03000  	KXX623 	RM	156.7 PL	NassauSO1 	NCFR Dispatch Simulcast (patched w/ A-1 on 800MHz) 	FM 	Law Dispatch 
+151.95500 	   	 	M	156.7 PL	NassauCourt 	Courthouse 	FM 	Security 
+453.27500 	458.27500  	WQAV226 	RM		NassauCourt 	Courthouse 	FM 	Security 
+460.12500 	465.12500  	WPWL761 	RM		NassauJail 	Jail 	FM 	Security 
+154.87500 	151.13000  	WPMS434 	RM	226 DPL	NassauSchls 	School Buses 	FM 	Schools 
+158.77500 	153.84500  	KGK610 	RM	156.7 PL	NassauR&B 	Road & Bridge Department 	FM 	Public Works 
+158.83500 	153.90500  	KNCA561 	RM		NassauMC 	Mosquito Control 	FM 	Public Works 
+155.04000 	   	KNBY207 	M	156.7 PL	CallahanPW 	Public Works 	FM 	Public Works 
+154.72500 	155.31000  	KIJ400 	RM	156.7 PL	FernandnaPD1 	Police Dispatch 	FM 	Law Dispatch 
+154.75500 	   	KIJ400 	M	156.7 PL	FernandnaPD8 	Police Tactical 	FM 	Law Tac 
+151.62500 	   	 		CSQ	FernandinaPD 	Police 	FM 	Law Dispatch 
+155.10000 	   	KBR640 	BM	156.7 PL	FernandinaPW 	Public Works 	FM 	Public Works 
+Nassau County Public Services (FL)	 Project 25 Phase II	 Nassau County	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide

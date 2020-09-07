@@ -1,22 +1,22 @@
-460.02500 	KAB205 	RM	123.0 PL	Saline PD / SO 1 	Sheriff Ch 1 (Shared with Salina Police) 	FMN 	Law Dispatch 
-460.17500 	KAB205 	RM	123.0 PL	Saline PD / SO 2 	Sheriff Ch 2 (Shared with Salina Police) 	FMN 	Law Dispatch 
-460.37500 	KAB205 	RM	123.0 PL	Saline PD / SO 3 	Sheriff Ch 3 (Shared with Salina Police) 	FMN 	Law Tac 
-460.47500 	KAB205 	RM	123.0 PL	Saline PD / SO 4 	Sheriff Ch 4 (Shared with Salina Police) 	FMN 	Law Tac 
-460.21250 	 	BM		SalineCountyJail 	County Jail 	FMN 	Corrections 
-460.46250 	 	BM		SalineCountyJail 	County Jail 	FMN 	Corrections 
-453.73750 	WNVC670 	RM	110.9 PL	SalineCo FD Page 	Rural Fire Page Out 	FMN 	Fire Dispatch 
-460.55000 	WNVC670 	RM	123.0 PL	Saline Co Fire 1 	Rural Fire Dispatch 	FMN 	Fire Dispatch 
-453.07500 	WNVC670 	RM	123.0 PL	Saline Co Fire 2 	Rural Fire Secondary 	FMN 	Fire Dispatch 
-465.15000 	WNVC670 	M		SalineCoFD Dist1 	Fire District 1 -- TAC 	FMN 	Fire-Tac 
-460.10000 	 	M		SalineCoFD Dist2 	Fire District 2 -- TAC 	FMN 	Fire-Tac 
-465.45000 	WNVC670 	M		SalineCoFD Dist3 	Fire District 3 -- TAC 	FMN 	Fire-Tac 
-464.97500 	 	M		SalineCoFD Dist5 	Fire District 5 -- TAC 	FMN 	Fire-Tac 
-464.10000 	 	M		SalineCoFD Dist6 	Fire District 6 -- TAC 	FMN 	Fire-Tac 
-460.67500 	 	M		SalineCoFD Dist7 	Fire District 7 -- TAC 	FMN 	Fire-Tac 
-460.13750 	WNYU877 	RM		Saline Co Roads 	Highway Maintenance 	FMN 	Public Works 
-460.57500 	WRZ257 	RM	123.0 PL	Salina Fire 	Fire and EMS Dispatch 	FMN 	Fire Dispatch 
-460.60000 	WRZ257 	RM	123.0 PL	Salina Fire Tac 	Fire Tactical 	FMN 	Fire-Tac 
-462.95000 	KNAL520 	RM	192.8 PL	Salina EMS 	EMS -- Ambulance to Hospital 	FMN 	EMS-Tac 
-154.95000 	WQGC697 	RM	146.2 PL	Salina Animal 	Animal Control 	FMN 	Public Works 
-856.71250 	WPMD793 	RM	110.9 PL	KSU Salina PD 	KSU Salina Police 	FM 	Law Dispatch 
-Kansas Statewide Interoperable Communication System (KSICS)	 Project 25 Phase I	 Statewide	Westar Energy (KS/MO)	 Motorola Type II SmartZone	 Various	
+460.02500 	465.02500  	KAB205 	RM	123.0 PL	Saline PD / SO 1 	Sheriff Ch 1 (Shared with Salina Police) 	FMN 	Law Dispatch 
+460.17500 	465.17500  	KAB205 	RM	123.0 PL	Saline PD / SO 2 	Sheriff Ch 2 (Shared with Salina Police) 	FMN 	Law Dispatch 
+460.37500 	465.37500  	KAB205 	RM	123.0 PL	Saline PD / SO 3 	Sheriff Ch 3 (Shared with Salina Police) 	FMN 	Law Tac 
+460.47500 	465.47500  	KAB205 	RM	123.0 PL	Saline PD / SO 4 	Sheriff Ch 4 (Shared with Salina Police) 	FMN 	Law Tac 
+460.21250 	   	 	BM		SalineCountyJail 	County Jail 	FMN 	Corrections 
+460.46250 	   	 	BM		SalineCountyJail 	County Jail 	FMN 	Corrections 
+453.73750 	458.73750  	WNVC670 	RM	110.9 PL	SalineCo FD Page 	Rural Fire Page Out 	FMN 	Fire Dispatch 
+460.55000 	465.55000  	WNVC670 	RM	123.0 PL	Saline Co Fire 1 	Rural Fire Dispatch 	FMN 	Fire Dispatch 
+453.07500 	458.07500  	WNVC670 	RM	123.0 PL	Saline Co Fire 2 	Rural Fire Secondary 	FMN 	Fire Dispatch 
+465.15000 	   	WNVC670 	M		SalineCoFD Dist1 	Fire District 1 -- TAC 	FMN 	Fire-Tac 
+460.10000 	   	 	M		SalineCoFD Dist2 	Fire District 2 -- TAC 	FMN 	Fire-Tac 
+465.45000 	   	WNVC670 	M		SalineCoFD Dist3 	Fire District 3 -- TAC 	FMN 	Fire-Tac 
+464.97500 	   	 	M		SalineCoFD Dist5 	Fire District 5 -- TAC 	FMN 	Fire-Tac 
+464.10000 	   	 	M		SalineCoFD Dist6 	Fire District 6 -- TAC 	FMN 	Fire-Tac 
+460.67500 	   	 	M		SalineCoFD Dist7 	Fire District 7 -- TAC 	FMN 	Fire-Tac 
+460.13750 	465.13750  	WNYU877 	RM		Saline Co Roads 	Highway Maintenance 	FMN 	Public Works 
+460.57500 	465.57500  	WRZ257 	RM	123.0 PL	Salina Fire 	Fire and EMS Dispatch 	FMN 	Fire Dispatch 
+460.60000 	465.60000  	WRZ257 	RM	123.0 PL	Salina Fire Tac 	Fire Tactical 	FMN 	Fire-Tac 
+462.95000 	467.95000  	KNAL520 	RM	192.8 PL	Salina EMS 	EMS -- Ambulance to Hospital 	FMN 	EMS-Tac 
+154.95000 	159.42000  	WQGC697 	RM	146.2 PL	Salina Animal 	Animal Control 	FMN 	Public Works 
+856.71250 	811.71250  	WPMD793 	RM	110.9 PL	KSU Salina PD 	KSU Salina Police 	FM 	Law Dispatch 
+Westar Energy (KS/MO)	 Motorola Type II SmartZone	 Various	

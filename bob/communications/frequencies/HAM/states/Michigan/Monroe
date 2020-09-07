@@ -1,40 +1,39 @@
-159.09000 	KSL308 	BM	CSQ	Monroe FD 1 	Fire Paging/Dispatch (Patched to MPSCS-2249) 	FMN 	Fire Dispatch 
-154.35500 	KQG944 	BM	85.4 PL	Monroe FD 2 	Countywide Fireground / Landing Zone 	FMN 	Fire-Tac 
-154.43000 	KQG944 	BM	85.4 PL	Lenawee Fire 	Link to Lenawee County Fire Tac 1 	FMN 	Fire-Tac 
-453.52500 	KNCA724 	RM		Monroe Sirens1 	EOC: Outdoor Warning Sirens 	Telm 	Data 
-453.62500 	KZX319 	RM	88.5 PL	Monroe Sirens2 	EOC: Outdoor Warning Sirens 	FMN 	Data 
-764.05625 	WQFW212 	M		Monroe SD Tac1 	Sheriff: Tactical 	P25 	Law Tac 
-764.06875 	WQFW212 	M		Monroe SD Tac2 	Sheriff: Tactical 	P25 	Law Tac 
-775.99375 	WQFW212 	M		Monroe SD Tac3 	Sheriff: Tactical 	P25 	Law Tac 
-158.95500 	KSL308 	BM	127.3 PL	Monroe LocalGovt 	Local Government 	FMN 	Public Works 
-458.02500 	KQZ814  	M		Amb MX 1 	EMS: Mobile Repeaters 	FMN 	EMS-Tac 
-458.07500 	KQZ814  	M		Amb MX 2 	EMS: Mobile Repeaters 	FMN 	EMS-Tac 
-458.12500 	KQZ814  	M		Amb MX 3 	EMS: Mobile Repeaters 	FMN 	EMS-Tac 
-458.17500 	KQZ814  	M		Amb MX 4 	EMS: Mobile Repeaters 	FMN 	EMS-Tac 
-464.82500 	WPCT943 	RM	CC 1TG 1001SL 2	ProMedica Memorl 	Mercy Memorial Hospital 	DMR 	Security 
-463.70000 	WQDM439 	RM		ProMedica Ops 	Operations 	DMR 	Hospital 
-464.35000 	WPQZ431 	RM		ProMedca Nursing 	Nursing Center 	FMN 	Business 
-155.34000 	KZJ876 	BM		ProMedica HEARN 	EMS-to-Hospital Notifications 	FMN 	Hospital 
-157.45000 	KZJ876 	B		ProMedica Paging 	Paging 	Telm 	Data 
-155.94000 	WPBR617 	BM		Ash Twp. DPW 	Public Works / Water Treatment 	FMN 	Public Works 
-158.95500 	KNFE751 	BM		Bedford Twp DPW 	Public Works 	FMN 	Public Works 
-451.17500 	WPRS553 	RM		Carellton DPW 	Public Work/Water Department 	FMN 	Public Works 
-154.35500 	WNKT259 	BM	103.5 PL	FrenchTown DPW 	DPW 	FMN 	Public Works 
-158.79000 	WPGR512 	BM	162 DPL	Milan DPW 	Department of Public Works 	FMN 	Public Works 
-155.22000 	KNBA865 	BM	243 DPL	Airport Schools 	Transportation 	FMN 	Schools 
-155.28000 	WNHA826 	BM	103.5 PL	Bedford SchBus 	Transportation (Temperance) 	FMN 	Schools 
-451.30000 	WPLJ967 	RM		Boysville 	Operations/Security 	FMN 	Schools 
-464.00000 	WPLJ967 	M		Boysville 	Operations/Security 	FMN 	Schools 
-151.95500 	WPCS588 	BM	127.3 PL	Dundee Schools 	Transportation - Primary 	FMN 	Schools 
-151.91000 	WPCS588 	RM	351 DPL	DCS Maintenance 	Maintenance  	FMN 	Schools 
-154.54000 	WNWM916 	BM	192.8 PL	Ida School Buses 	Transportation 	FMN 	Schools 
-151.71500 	KNHT929 	BM		Jefferson Schols 	Jefferson Schools 	FMN 	Schools 
-155.17500 	WPWJ784 	BM		Mason Schools 	Transportation 	FMN 	Schools 
-464.67500 	WQE944 	RM		Miilan Schools 	Transportation Primary 	P25 	Schools 
-451.86250 	WPXT579 	RM		Monroe Schools 	Monroe Schools 	DMR 	Schools 
-463.77500 	WQQY800 	RM	CC 2TG 3300SL 2	Monroe Sch Bus 	Transportation Dispatch 	DMR 	Schools 
-464.67500 	WQFV950 	BM		Monroe Sch Ops 	Security/Ops 	FMN 	Schools 
-Consumers Energy	 EDACS Networked Standard	 Various	DTE Energy - Fermi 2 Nuclear Power Plant	 LTR Standard	 Newport	DTE Energy - Monroe Power Plant	 LTR Standard
- Monroe	FCA US: Dundee Engine 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dundee	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Herkimer Radio Service
- LTR Standard	 Monroe	Midport Electronics	 LTR Standard	 Ottawa Lake	ProMedica	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Toledo
-Visteon Plastics Plant: Milan	 Motorola Type II Smartnet	 Milan	
+159.09000 	   	KSL308 	BM	CSQ	Monroe FD 1 	Fire Paging/Dispatch (Patched to MPSCS-2249) 	FMN 	Fire Dispatch 
+154.35500 	   	KQG944 	BM	85.4 PL	Monroe FD 2 	Countywide Fireground / Landing Zone 	FMN 	Fire-Tac 
+154.43000 	   	KQG944 	BM	85.4 PL	Lenawee Fire 	Link to Lenawee County Fire Tac 1 	FMN 	Fire-Tac 
+453.52500 	458.52500  	KNCA724 	RM		Monroe Sirens1 	EOC: Outdoor Warning Sirens 	Telm 	Data 
+453.62500 	458.62500  	KZX319 	RM	88.5 PL	Monroe Sirens2 	EOC: Outdoor Warning Sirens 	FMN 	Data 
+764.05625 	   	WQFW212 	M		Monroe SD Tac1 	Sheriff: Tactical 	P25 	Law Tac 
+764.06875 	   	WQFW212 	M		Monroe SD Tac2 	Sheriff: Tactical 	P25 	Law Tac 
+775.99375 	   	WQFW212 	M		Monroe SD Tac3 	Sheriff: Tactical 	P25 	Law Tac 
+158.95500 	   	KSL308 	BM	127.3 PL	Monroe LocalGovt 	Local Government 	FMN 	Public Works 
+458.02500 	   	KQZ814  	M		Amb MX 1 	EMS: Mobile Repeaters 	FMN 	EMS-Tac 
+458.07500 	   	KQZ814  	M		Amb MX 2 	EMS: Mobile Repeaters 	FMN 	EMS-Tac 
+458.12500 	   	KQZ814  	M		Amb MX 3 	EMS: Mobile Repeaters 	FMN 	EMS-Tac 
+458.17500 	   	KQZ814  	M		Amb MX 4 	EMS: Mobile Repeaters 	FMN 	EMS-Tac 
+464.82500 	469.82500  	WPCT943 	RM	CC 1TG 1001SL 2	ProMedica Memorl 	Mercy Memorial Hospital 	DMR 	Security 
+463.70000 	468.70000  	WQDM439 	RM		ProMedica Ops 	Operations 	DMR 	Hospital 
+464.35000 	469.35000  	WPQZ431 	RM		ProMedca Nursing 	Nursing Center 	FMN 	Business 
+155.34000 	   	KZJ876 	BM		ProMedica HEARN 	EMS-to-Hospital Notifications 	FMN 	Hospital 
+157.45000 	   	KZJ876 	B		ProMedica Paging 	Paging 	Telm 	Data 
+155.94000 	   	WPBR617 	BM		Ash Twp. DPW 	Public Works / Water Treatment 	FMN 	Public Works 
+158.95500 	   	KNFE751 	BM		Bedford Twp DPW 	Public Works 	FMN 	Public Works 
+451.17500 	456.17500  	WPRS553 	RM		Carellton DPW 	Public Work/Water Department 	FMN 	Public Works 
+154.35500 	   	WNKT259 	BM	103.5 PL	FrenchTown DPW 	DPW 	FMN 	Public Works 
+158.79000 	   	WPGR512 	BM	162 DPL	Milan DPW 	Department of Public Works 	FMN 	Public Works 
+155.22000 	   	KNBA865 	BM	243 DPL	Airport Schools 	Transportation 	FMN 	Schools 
+155.28000 	   	WNHA826 	BM	103.5 PL	Bedford SchBus 	Transportation (Temperance) 	FMN 	Schools 
+451.30000 	456.30000  	WPLJ967 	RM		Boysville 	Operations/Security 	FMN 	Schools 
+464.00000 	   	WPLJ967 	M		Boysville 	Operations/Security 	FMN 	Schools 
+151.95500 	   	WPCS588 	BM	127.3 PL	Dundee Schools 	Transportation - Primary 	FMN 	Schools 
+151.91000 	159.61500  	WPCS588 	RM	351 DPL	DCS Maintenance 	Maintenance  	FMN 	Schools 
+154.54000 	   	WNWM916 	BM	192.8 PL	Ida School Buses 	Transportation 	FMN 	Schools 
+151.71500 	   	KNHT929 	BM		Jefferson Schols 	Jefferson Schools 	FMN 	Schools 
+155.17500 	   	WPWJ784 	BM		Mason Schools 	Transportation 	FMN 	Schools 
+464.67500 	469.67500  	WQE944 	RM		Miilan Schools 	Transportation Primary 	P25 	Schools 
+451.86250 	456.86250  	WPXT579 	RM		Monroe Schools 	Monroe Schools 	DMR 	Schools 
+463.77500 	468.77500  	WQQY800 	RM	CC 2TG 3300SL 2	Monroe Sch Bus 	Transportation Dispatch 	DMR 	Schools 
+464.67500 	   	WQFV950 	BM		Monroe Sch Ops 	Security/Ops 	FMN 	Schools 
+Consumers Energy	 EDACS Networked Standard	 Various	DTE Energy - Fermi 2 Nuclear Power Plant	 LTR Standard	 Newport	DTE Energy - Monroe Power Plant	 LTR Standard	 Monroe
+FCA US: Dundee Engine 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Dundee	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various	Herkimer Radio Service	 LTR Standard	 Monroe
+Midport Electronics	 LTR Standard	 Ottawa Lake	ProMedica	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Toledo	Visteon Plastics Plant: Milan	 Motorola Type II Smartnet	 Milan

@@ -1,33 +1,33 @@
-151.46000 	KAD893 	BM	788 NAC	RICH SO 1 	Richland Co SO 	P25 	Law Dispatch 
-155.19000 	WPZK788 	RM	82.5 PL	RICH SO CLFX 	Richland Co SO - Colfax Rptr 	FMN 	Multi-Dispatch 
-155.19000 	WPZK788 	RM	018 NAC	RICH SO CLFX 	Richland Co SO - Colfax Rptr DIG. 	P25 	Multi-Dispatch 
-154.98000 	KRF529 	RM	167.9 PL	RICH SO BRNY 	Richland Co SO - Barney Rptr 	FMN 	Multi-Dispatch 
-154.98000 	KRF529 	RM	167 NAC	RICH SO BRNY 	Richland Co SO - Barney Rptr DIG 	P25 	Multi-Dispatch 
-151.22000 	WPZK788 	RM	88.5 PL	RICH SO LIDG 	Richland Co SO - Lidgerwood Rptr 	FMN 	Multi-Dispatch 
-154.98000 	KRF529 	RM		RICH SO PAGE 	County Fire Signaling 	Telm 	Multi-Dispatch 
-154.84500 	WQOR416 	BM		RICH JAIL 	County Jail 	FMN 	Corrections 
-155.64000 	WQPK233 	BM		RICH SCHL 44 	Richland School District - 44 Colfax - Abercrombie 	FMN 	Schools 
-153.53750 	WQOD928 	RM	82.5 PL	MINNKOTA CFX 	MINNKOTA PWR - COLFAX 	FMN 	Utilities 
-155.68500 	WPTS818 	BM	103.5 PL	ABER FIREGND 	Abercrombie Fire Protection District 	FMN 	Fire-Tac 
-155.64000 	WQPK233 	BM	74.4 PL	ABER SCHOOL 	Richland County School District #44 	FMN 	Schools 
-153.00500 	WQBN544 	RM	114 DPL	DMAG SEC 1 	Security Main 	FMN 	Security 
-157.68000 	WPLD456 	M	114 DPL	D MAG SEC 2 	Security 	FMN 	Security 
-157.60500 	WPLD456 	M	047 DPL	D MAG MAINT 	Maint. 	FMN 	Business 
-157.57500 	WPLD456 	M		D MAG CASINO 	Casino 	FMN 	Business 
-157.63500 	WPLD456 	M		D MAG CASINO 	Casino 	FMN 	Business 
-157.66500 	WPLD456 	M		D MAG CASINO 	Casino 	FMN 	Business 
-154.35500 	WPSK952 	RM	91.5 PL	DWIGHT FIRE 	Fire Department Dispatch 	FMN 	Fire-Tac 
-154.13000 	WNMD775 	RM	100.0 PL	FMT FIRE 	Fire Dept. 	FMN 	Fire-Tac 
-154.40000 	WPPD355 	BM	151.4 PL	GBND FIRE 	Fire Department Main 	FMN 	Fire-Tac 
-158.85000 	WPSF785 	RM	127.3 PL	HANK DISP A 	Public Safety (Police, Fire, EMS Dispatch) Analog 	FMN 	Multi-Dispatch 
-158.85000 	WPSF785 	RM	041 NAC	HANK DISP D 	Public Safety (Police, Fire, EMS Dispatch) Digital 	P25 	Multi-Dispatch 
-155.26500 	KB69943 	M	100.0 PL	HANK FIREGND 	Fire Ground 	FMN 	Fire-Tac 
-154.14500 	WQDW852 	RM	179.9 PL	MANT FIRE 	Fire Dept. 	FMN 	Fire-Tac 
-155.14500 	KTB278 	RM	075 NAC	WAHP PD 4 	Wahpeton Police Dept. - DIG 	P25 	Law Dispatch 
-155.14500 	KTB278 	RM	110.9 PL	WAHP PD 4 	Wahpeton Police Dept. 	FMN 	Law Dispatch 
-154.23500 	KUY545 	RM	110.9 PL	WAHP FIRE 	Fire Department Main 	FMN 	Fire Dispatch 
-155.29500 	WPRS512 	BM	037 NAC	WAHP SCHOOL 	Wahpeton School 	P25 	Schools 
-155.86500 	WPAP395 	BM	CSQ	WYND FIRE 	Fire Department Main 	FMN 	Fire-Tac 
-151.65500 	WPQF275 	BM	624 DPL	MIN DAK BEET 	Min Dak Sugar Beet Company, Wahpeton 	FMN 	Business 
-153.08000 	WNPC354 	BM	703 DPL	MIN DAK BEET 	Min-Dak Sugar Beet Company, Wahpeton 	FMN 	Business 
+151.46000 	   	KAD893 	BM	788 NAC	RICH SO 1 	Richland Co SO 	P25 	Law Dispatch 
+155.19000 	159.16500  	WPZK788 	RM	82.5 PL	RICH SO CLFX 	Richland Co SO - Colfax Rptr 	FMN 	Multi-Dispatch 
+155.19000 	159.16500  	WPZK788 	RM	018 NAC	RICH SO CLFX 	Richland Co SO - Colfax Rptr DIG. 	P25 	Multi-Dispatch 
+154.98000 	153.80000  	KRF529 	RM	167.9 PL	RICH SO BRNY 	Richland Co SO - Barney Rptr 	FMN 	Multi-Dispatch 
+154.98000 	153.80000  	KRF529 	RM	167 NAC	RICH SO BRNY 	Richland Co SO - Barney Rptr DIG 	P25 	Multi-Dispatch 
+151.22000 	153.87500  	WPZK788 	RM	88.5 PL	RICH SO LIDG 	Richland Co SO - Lidgerwood Rptr 	FMN 	Multi-Dispatch 
+154.98000 	153.80000  	KRF529 	RM		RICH SO PAGE 	County Fire Signaling 	Telm 	Multi-Dispatch 
+154.84500 	   	WQOR416 	BM		RICH JAIL 	County Jail 	FMN 	Corrections 
+155.64000 	   	WQPK233 	BM		RICH SCHL 44 	Richland School District - 44 Colfax - Abercrombie 	FMN 	Schools 
+153.53750 	158.37000  	WQOD928 	RM	82.5 PL	MINNKOTA CFX 	MINNKOTA PWR - COLFAX 	FMN 	Utilities 
+155.68500 	159.03000  	WPTS818 	BM	103.5 PL	ABER FIREGND 	Abercrombie Fire Protection District 	FMN 	Fire-Tac 
+155.64000 	   	WQPK233 	BM	74.4 PL	ABER SCHOOL 	Richland County School District #44 	FMN 	Schools 
+153.00500 	158.38500  	WQBN544 	RM	114 DPL	DMAG SEC 1 	Security Main 	FMN 	Security 
+157.68000 	   	WPLD456 	M	114 DPL	D MAG SEC 2 	Security 	FMN 	Security 
+157.60500 	   	WPLD456 	M	047 DPL	D MAG MAINT 	Maint. 	FMN 	Business 
+157.57500 	   	WPLD456 	M		D MAG CASINO 	Casino 	FMN 	Business 
+157.63500 	   	WPLD456 	M		D MAG CASINO 	Casino 	FMN 	Business 
+157.66500 	   	WPLD456 	M		D MAG CASINO 	Casino 	FMN 	Business 
+154.35500 	158.79000  	WPSK952 	RM	91.5 PL	DWIGHT FIRE 	Fire Department Dispatch 	FMN 	Fire-Tac 
+154.13000 	159.07500  	WNMD775 	RM	100.0 PL	FMT FIRE 	Fire Dept. 	FMN 	Fire-Tac 
+154.40000 	   	WPPD355 	BM	151.4 PL	GBND FIRE 	Fire Department Main 	FMN 	Fire-Tac 
+158.85000 	154.78500  	WPSF785 	RM	127.3 PL	HANK DISP A 	Public Safety (Police, Fire, EMS Dispatch) Analog 	FMN 	Multi-Dispatch 
+158.85000 	154.78500  	WPSF785 	RM	041 NAC	HANK DISP D 	Public Safety (Police, Fire, EMS Dispatch) Digital 	P25 	Multi-Dispatch 
+155.26500 	   	KB69943 	M	100.0 PL	HANK FIREGND 	Fire Ground 	FMN 	Fire-Tac 
+154.14500 	159.04500  	WQDW852 	RM	179.9 PL	MANT FIRE 	Fire Dept. 	FMN 	Fire-Tac 
+155.14500 	155.74500  	KTB278 	RM	075 NAC	WAHP PD 4 	Wahpeton Police Dept. - DIG 	P25 	Law Dispatch 
+155.14500 	155.74500  	KTB278 	RM	110.9 PL	WAHP PD 4 	Wahpeton Police Dept. 	FMN 	Law Dispatch 
+154.23500 	153.77000  	KUY545 	RM	110.9 PL	WAHP FIRE 	Fire Department Main 	FMN 	Fire Dispatch 
+155.29500 	   	WPRS512 	BM	037 NAC	WAHP SCHOOL 	Wahpeton School 	P25 	Schools 
+155.86500 	   	WPAP395 	BM	CSQ	WYND FIRE 	Fire Department Main 	FMN 	Fire-Tac 
+151.65500 	   	WPQF275 	BM	624 DPL	MIN DAK BEET 	Min Dak Sugar Beet Company, Wahpeton 	FMN 	Business 
+153.08000 	   	WNPC354 	BM	703 DPL	MIN DAK BEET 	Min-Dak Sugar Beet Company, Wahpeton 	FMN 	Business 
 Electronic Communications	 LTR Standard	 Wahpeton	

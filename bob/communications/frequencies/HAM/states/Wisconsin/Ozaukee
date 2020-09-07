@@ -1,24 +1,24 @@
-154.16000 	KSA592 	B	107.2 PL	OZPAG 	County Fire/EMS Paging/Siren Control 	FMN 	Fire Dispatch 
-155.10000 	KSA592 	B	156.7 PL	OZPAG 	Fire/EMS/EM Paging for Cedarburg 	FMN 	Fire Dispatch 
-155.34000 	 	BM	127.3 PL	EMS B AMC 	Aurora Medical Center - Reports 	FMN 	Hospital 
-155.34000 	 	BM	206.5 PL	EMS B CSM 	Columbia St Marys Hospital 	FMN 	Hospital 
-155.59500 	KSA592 	RM	173.8 PL	OZSO 	TRS Patch (Used for Flight for Life) 	FMN 	Multi-Dispatch 
-856.23750 	 	RM	173.8 PL	OZ Portable 	County Portable Repeater 	FMN 	Law Talk 
-39.98000 	WNAE963 	B	CSQ	CE Siren 	Siren Control 	FM 	Data 
-155.70000 	WNAE963 	RM	173.8 PL	Cedarburg L&W 	Light & Water Utility 	FMN 	Utilities 
-158.25000 	KSF374 	BM	146.2 PL	Cedarburg L&W 	Light & Water Utility 	FMN 	Utilities 
-461.02500 	 	RM	77.0 PL	Firemans Park 	Firemens Park 	FMN 	Public Works 
-155.65500 	KSA592 	B	CSQ	OZGRPAG 	Fire/EMS Paging 	FMN 	Fire Dispatch 
-854.98750 	KNBX845 	M		Grafton DPW 	Public Works 	FMN 	Public Works 
-855.98750 	KNBX845 	RM	114.8 PL	Grafton DPW 	Public Works 	FMN 	Public Works 
-858.96250 	KNBX845 	RM		Grafton DPW 	Public Works 	FMN 	Public Works 
-154.80000 	 	B	CSQ	OZMQPAG 	Fire Paging 	FMN 	Fire Dispatch 
-159.13500 	 	RM	173.8 PL	Mequon DPW 	Public Works 	FMN 	Public Works 
-464.67500 	WPAZ594 	RM	664 DPL	Concordia U 	Security/Maintenance 	FMN 	Schools 
-460.43750 	KLU305 	RM		MATC Mequon 	MATC Mequon - Public Safety 	NXDN 	Security 
-453.90000 	KLU305 	RM	156.7 PL	MATC Mequon 	MATC Mequon - Public Safety 	FMN 	Security 
-453.90000 	KLU305 	RM	203.5 PL	MATC Mequon 	MATC Mequon 	FMN 	Schools 
-463.96250 	WQRC915 	BM		MATC Mequon 	MATC Mequon 	FMN 	Schools 
-Charter Steel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Saukville	General Communications (Port Washington 1)	 LTR Standard	 Port Washington	General Communications (Port Washington 2)	 LTR Standard
- Port Washington	Mequon-Thiensville School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Mequon	Ozaukee County	 EDACS Standard	 Countywide	Ozaukee County (P25)
- Project 25 Phase II	 Countywide	WE Energies (900)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Milwaukee	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide
+154.16000 	   	KSA592 	B	107.2 PL	OZPAG 	County Fire/EMS Paging/Siren Control 	FMN 	Fire Dispatch 
+155.10000 	   	KSA592 	B	156.7 PL	OZPAG 	Fire/EMS/EM Paging for Cedarburg 	FMN 	Fire Dispatch 
+155.34000 	   	 	BM	127.3 PL	EMS B AMC 	Aurora Medical Center - Reports 	FMN 	Hospital 
+155.34000 	   	 	BM	206.5 PL	EMS B CSM 	Columbia St Marys Hospital 	FMN 	Hospital 
+155.59500 	   	KSA592 	RM	173.8 PL	OZSO 	TRS Patch (Used for Flight for Life) 	FMN 	Multi-Dispatch 
+856.23750 	811.23750  	 	RM	173.8 PL	OZ Portable 	County Portable Repeater 	FMN 	Law Talk 
+39.98000 	   	WNAE963 	B	CSQ	CE Siren 	Siren Control 	FM 	Data 
+155.70000 	153.92000  	WNAE963 	RM	173.8 PL	Cedarburg L&W 	Light & Water Utility 	FMN 	Utilities 
+158.25000 	   	KSF374 	BM	146.2 PL	Cedarburg L&W 	Light & Water Utility 	FMN 	Utilities 
+461.02500 	466.02500  	 	RM	77.0 PL	Firemans Park 	Firemens Park 	FMN 	Public Works 
+155.65500 	   	KSA592 	B	CSQ	OZGRPAG 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+854.98750 	809.98750  	KNBX845 	M		Grafton DPW 	Public Works 	FMN 	Public Works 
+855.98750 	810.98750  	KNBX845 	RM	114.8 PL	Grafton DPW 	Public Works 	FMN 	Public Works 
+858.96250 	813.96250  	KNBX845 	RM		Grafton DPW 	Public Works 	FMN 	Public Works 
+154.80000 	   	 	B	CSQ	OZMQPAG 	Fire Paging 	FMN 	Fire Dispatch 
+159.13500 	156.04500  	 	RM	173.8 PL	Mequon DPW 	Public Works 	FMN 	Public Works 
+464.67500 	469.67500  	WPAZ594 	RM	664 DPL	Concordia U 	Security/Maintenance 	FMN 	Schools 
+460.43750 	465.43750  	KLU305 	RM		MATC Mequon 	MATC Mequon - Public Safety 	NXDN 	Security 
+453.90000 	458.90000  	KLU305 	RM	156.7 PL	MATC Mequon 	MATC Mequon - Public Safety 	FMN 	Security 
+453.90000 	458.90000  	KLU305 	RM	203.5 PL	MATC Mequon 	MATC Mequon 	FMN 	Schools 
+463.96250 	468.96250  	WQRC915 	BM		MATC Mequon 	MATC Mequon 	FMN 	Schools 
+Charter Steel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Saukville	Diga-Talk	 NXDN NEXEDGE 4800	 Various	General Communications (Port Washington 1)	 LTR Standard	 Port Washington
+General Communications (Port Washington 2)	 LTR Standard	 Port Washington	Mequon-Thiensville School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Mequon	Ozaukee County	 EDACS Standard	 Countywide
+Ozaukee County (P25)	 Project 25 Phase II	 Countywide	WE Energies (900)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Milwaukee	

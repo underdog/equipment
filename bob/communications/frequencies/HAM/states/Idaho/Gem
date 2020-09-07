@@ -1,13 +1,13 @@
-460.25000 	KXU340 	RM	88.5 PL	Gem Law Dsp 	Law Dispatch 	FMN 	Law Dispatch 
-460.37500 	KXU340 	RM	123.0 PL	Gem Law 2 	Law Secondary 	FMN 	Law Talk 
-465.27500 	KXU340 	M		Gem SO Jail 	Sheriff Jail 	FMN 	Law Talk 
-154.41500 	KYQ575 	RM	123.0 PL	GemFireDspSo 	Fire Dispatch (South) 	FMN 	Fire Dispatch 
-155.10000 	WPQA878 	RM		GemFireDspNo 	Fire Dispatch (North) 	FMN 	Fire Dispatch 
-156.19500 	WQBL283 	RM		Gem FirInter 	Fire Interagency 	FMN 	Fire-Talk 
-155.10000 	WPQA878 	M		GemFire TAC 	Fire TAC 	FMN 	Fire-Tac 
-154.29500 	WPQZ384 	M		GemFire Ops1 	Fire OPS 1 	FMN 	Fire-Talk 
-155.59500 	WPRX264 	RM		Gem EMS Dsp 	EMS Dispatch 	FMN 	EMS Dispatch 
-453.60000 	WNAK212 	RM	110.9 PL	Gem Roads 	Road and Bridge 	FMN 	Public Works 
-453.62500 	WNLV826 	RM		Emm PD Falbk 	Police Fallback Use 	FMN 	Law Dispatch 
-453.67500 	WNFY913 	RM		Emm Pub Wks 	Public Works 	FMN 	Public Works 
-Mobex Idaho	 LTR Standard	 Various	
+460.25000 	465.25000  	KXU340 	RM	88.5 PL	Gem Law Dsp 	Law Dispatch 	FMN 	Law Dispatch 
+460.37500 	465.37500  	KXU340 	RM	123.0 PL	Gem Law 2 	Law Secondary 	FMN 	Law Talk 
+465.27500 	   	KXU340 	M		Gem SO Jail 	Sheriff Jail 	FMN 	Law Talk 
+154.41500 	156.07500  	KYQ575 	RM	123.0 PL	GemFireDspSo 	Fire Dispatch (South) 	FMN 	Fire Dispatch 
+155.10000 	158.86500  	WPQA878 	RM		GemFireDspNo 	Fire Dispatch (North) 	FMN 	Fire Dispatch 
+156.19500 	154.89000  	WQBL283 	RM		Gem FirInter 	Fire Interagency 	FMN 	Fire-Talk 
+155.10000 	   	WPQA878 	M		GemFire TAC 	Fire TAC 	FMN 	Fire-Tac 
+154.29500 	   	WPQZ384 	M		GemFire Ops1 	Fire OPS 1 	FMN 	Fire-Talk 
+155.59500 	   	WPRX264 	RM		Gem EMS Dsp 	EMS Dispatch 	FMN 	EMS Dispatch 
+453.60000 	458.60000  	WNAK212 	RM	110.9 PL	Gem Roads 	Road and Bridge 	FMN 	Public Works 
+453.62500 	458.62500  	WNLV826 	RM		Emm PD Falbk 	Police Fallback Use 	FMN 	Law Dispatch 
+453.67500 	458.67500  	WNFY913 	RM		Emm Pub Wks 	Public Works 	FMN 	Public Works 
+Idaho Cooperative Agencies Wireless Interoperable Network (ICAWIN)	 Project 25 Phase I	 Statewide	Mobex Idaho	 LTR Standard	 Various	

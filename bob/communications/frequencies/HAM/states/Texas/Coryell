@@ -1,22 +1,22 @@
-155.68500 	KVJ752 	RM	100 NAC	Cory SO Disp 	Coryell Sheriff Dispatch 	P25 	Law Dispatch 
-155.68500 	KVJ752 	RM	162.2 PL	Cory SO Ana 	Coryell Sheriff Analog 	FMN 	Law Dispatch 
-155.88750 	 	M	163 NAC	Cory SO Talk 	Coryell Sheriff Car-to-Car 	P25 	Law Talk 
-153.95000 	WNKV718 	RM	103.5 PL	Cory FD Disp 	Coryell Fire 	FMN 	Fire Dispatch 
-154.28000 	WNKV718 	M		Texas Fire 1 	Coryell Fire Mutual Aid 	FMN 	Interop 
-153.38000 	WQMA623 	RM	102 NAC	Coryell EMS1 	Coryell Memorial Hospital EMS Dispatch 	P25E 	EMS Dispatch 
-154.54000 	KKZ469 	BM		Coryell EMS2 	Coryell Memorial Hospital EMS Old Base 	FMN 	EMS Dispatch 
-463.00000 	WQN724 	RM		1 	EMS to Hospital 	FMN 	EMS-Tac 
-463.02500 	WQN724 	RM		2 	EMS to Hospital 	FMN 	EMS-Tac 
-463.05000 	WQN724 	RM		3 	EMS to Hospital 	FMN 	EMS-Tac 
-463.07500 	WQN724 	RM		4 	EMS to Hospital 	FMN 	EMS-Tac 
-463.10000 	WQN724 	RM		5 	EMS to Hospital 	FMN 	EMS-Tac 
-463.12500 	WQN724 	RM		6 	EMS to Hospital 	FMN 	EMS-Tac 
-463.15000 	WQN724 	RM		7 	EMS to Hospital 	FMN 	EMS-Tac 
-463.17500 	WQN724 	RM		8 	EMS to Hospital (Copperas Cove) 	FMN 	Hospital 
-462.95000 	WQN724 	RM		9 	EMS to Hospital 	FMN 	EMS-Tac 
-462.97500 	WQN724 	RM		10 	EMS to Hospital 	FMN 	EMS-Tac 
-154.99500 	KLZ531 	RM	101 NAC	Gatesv PD  	Police Dispatch 	P25E 	Law Dispatch 
-154.96500 	KLZ531 	RM	103.5 PL	Gate FD 	Fire 	FMN 	Fire Dispatch 
-BearCom (Central Texas NexEdge)	 NXDN NEXEDGE 4800	 Various	Constant Communications (Copperas Cove LTR)	 LTR Standard	 Copperas Cove	Constant Communications (Copperas Cove Motorola)	 Motorola Type IIi Hybrid
- Copperas Cove	Copperas Cove	 EDACS Standard	 Cooperas Cove	Fort Hood	 Project 25 Phase I	 Killeen	Oncor Energy
- EDACS Narrowband Networked	 Various	
+155.68500 	154.80000  	KVJ752 	RM	100 NAC	Cory SO Disp 	Coryell Sheriff Dispatch 	P25 	Law Dispatch 
+155.68500 	154.80000  	KVJ752 	RM	162.2 PL	Cory SO Ana 	Coryell Sheriff Analog 	FMN 	Law Dispatch 
+155.88750 	   	 	M	163 NAC	Cory SO Talk 	Coryell Sheriff Car-to-Car 	P25 	Law Talk 
+153.95000 	154.43000  	WNKV718 	RM	103.5 PL	Cory FD Disp 	Coryell Fire 	FMN 	Fire Dispatch 
+154.28000 	   	WNKV718 	M		Texas Fire 1 	Coryell Fire Mutual Aid 	FMN 	Interop 
+153.38000 	159.58500  	WQMA623 	RM	102 NAC	Coryell EMS1 	Coryell Memorial Hospital EMS Dispatch 	P25E 	EMS Dispatch 
+154.54000 	   	KKZ469 	BM		Coryell EMS2 	Coryell Memorial Hospital EMS Old Base 	FMN 	EMS Dispatch 
+463.00000 	468.00000  	WQN724 	RM		1 	EMS to Hospital 	FMN 	EMS-Tac 
+463.02500 	468.02500  	WQN724 	RM		2 	EMS to Hospital 	FMN 	EMS-Tac 
+463.05000 	468.05000  	WQN724 	RM		3 	EMS to Hospital 	FMN 	EMS-Tac 
+463.07500 	468.07500  	WQN724 	RM		4 	EMS to Hospital 	FMN 	EMS-Tac 
+463.10000 	468.10000  	WQN724 	RM		5 	EMS to Hospital 	FMN 	EMS-Tac 
+463.12500 	468.12500  	WQN724 	RM		6 	EMS to Hospital 	FMN 	EMS-Tac 
+463.15000 	468.15000  	WQN724 	RM		7 	EMS to Hospital 	FMN 	EMS-Tac 
+463.17500 	468.17500  	WQN724 	RM		8 	EMS to Hospital (Copperas Cove) 	FMN 	Hospital 
+462.95000 	467.95000  	WQN724 	RM		9 	EMS to Hospital 	FMN 	EMS-Tac 
+462.97500 	467.97500  	WQN724 	RM		10 	EMS to Hospital 	FMN 	EMS-Tac 
+154.99500 	158.79000  	KLZ531 	RM	101 NAC	Gatesv PD  	Police Dispatch 	P25E 	Law Dispatch 
+154.96500 	   	KLZ531 	RM	103.5 PL	Gate FD 	Fire 	FMN 	Fire Dispatch 
+BearCom (Central Texas NexEdge)	 NXDN NEXEDGE 4800	 Various	BrandMeister Texas	 DMR Conventional Networked	 Various	Constant Communications (Copperas Cove LTR)	 LTR Standard	 Copperas Cove
+Constant Communications (Copperas Cove Motorola)	 Motorola Type IIi Hybrid	 Copperas Cove	Copperas Cove	 EDACS Standard	 Cooperas Cove	Fort Hood	 Project 25 Phase I	 Killeen
+Oncor Energy	 EDACS Narrowband Networked	 Various	

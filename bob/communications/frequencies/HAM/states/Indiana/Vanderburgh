@@ -1,37 +1,36 @@
-858.46250 	WPUB778 	RM		Vbrg MDC 	Public Safety MDC 	Telm 	Other 
-859.46250 	WPUB778 	RM		 Vbrg MDC 	 Public Safety MDC 	Telm 	Other 
-155.82000 	KDQ295 	M	110.9 PL	Vbrg EMA-VHF 	Vanderburgh Co Emergency Management - VHF Backup 	FMN 	Emergency Ops 
-154.22000 	WPTV365 	BM	110.9 PL	Vbrg FD F-1 	County Fire - Dispatch 	FMN 	Fire Dispatch 
-154.38500 	WPTV365 	M	110.9 PL	Vbrg FD Frg 	County Fire - Fireground Common 	FMN 	Fire-Tac 
-460.57500 	WPTV365 	F		 Vbrg FD Lnk 	County Fire - UHF Link 	FMN 	Fire-Tac 
-153.95000 	KSC497 	BM		Vbrg MA-All 	Evansville Fire - VHF Backup (For County Mutual Aid) 	FMN 	Interop 
-460.60000 	KSC497 	F		Evl FD U Lnk 	Evansville Fire - UHF Link 	FMN 	Fire-Tac 
-154.23500 	KXV569 	RM	77.0 PL	Grm FD Rptr 	German Township Fire - Repeater 	FMN 	Fire-Tac 
-154.40000 	KGT478 	BM		McCtchn FD 	McCutchanville Fire 	FMN 	Fire-Tac 
-154.14500 	KKG751 	BM	271 DPL	Perry FD 	Perry Township Fire - Repeater 	FMN 	Fire-Tac 
-154.17500 	WYF993 	RM		Scott FD 	Scott Township Fire - Repeater 	FMN 	Fire-Tac 
-154.87500 	WNMU742 	BM	203.5 PL	 Vbrg SO-VHF 	Sheriff - VHF Backup (Expired) 	FMN 	Law Dispatch 
-155.71500 	WNNM805 	BM		Vbrg Levees 	Vanderburgh Co Levee Authority 	FMN 	Public Works 
-158.74500 	KRB374 	BM		Vbrg Bldgs 	Vanderburgh Co Building Inspector 	FMN 	Public Works 
-453.05000 	WNCQ222 	RM		EvnvlPubWrks 	Evansville Public Works Department 	FMN 	Public Works 
-158.82000 	KDT409 	RM	107.2 PL	Evnvl H2O 	Evansville Water Department 	FMN 	Public Works 
-158.83500 	KDT409 	RM	141.3 PL	 Evnvl H2O 	Evansville Water Department 	FMN 	Public Works 
-453.82500 	KXZ772 	RM		Evnvl Sewer 	Evansville Sewer District 	FMN 	Public Works 
-453.22500 	WXT675 	RM		Evnvl Airprt 	Evansville Regional Airport 	FMN 	Public Works 
-453.67500 	WNKW639 	BM	162.2 PL	Mesker Zoo 	Mesker Park Zoo 	FMN 	Public Works 
-453.26250 	WPQH850 	RM	50 RAN	METS Paratransit 	METS Paratransit Vans (TGRP 1, NXDN4800) 	NXDN 	Transportation 
-453.76250 	WQFV271 	RM	30 RAN	METS Bus 	METS Transit Busses (TGRP 1, NXDN4800) 	NXDN 	Transportation 
-856.23750 	WQGG986 	RM	114.8 PL	USI PD Dsp 	Campus Police Dispatch - Used with County TRS 	FM 	Law Dispatch 
-155.07000 	KRI745 	RM	110.9 PL	USI ScrtyF-1 	Security 	FMN 	Security 
-152.43500 	WPQF467 	RM		USI Maint 	Maintenance 	FMN 	Schools 
-153.27500 	WPQF467 	RM		 USI Maint 	Maintenance 	FMN 	Schools 
-452.17500 	WPZA556 	RM		  USI Opns 	Operations 	FMN 	Schools 
-151.55000 	WQXF977 	BM		UE SECURITY1 	Security 1 	FMN 	Security 
-151.89500 	WQXF977 	BM		UE SECURITY2 	Security 2 	FMN 	Security 
-463.35000 	KFG606 	RM		EVSC Schools 	EVSC Operations 	DMR 	Schools 
-463.70000 	KFG606 	RM	CC 1TG 1000SL 1	EVSC Bus 	EVSC Bus Operations 	DMR 	Schools 
-463.77500 	WPGA647 	RM		EVSC Schools 	EVSC Operations 	DMR 	Schools 
-ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Evansville Water Department	 NXDN Icom IDAS Type D	 Evansville	Indiana Department of Health - Evansville State Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)
- Evansville	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Meade Johnson	 LTR Standard	 Multiple	Mobile Radio of Evansville
- LTR Standard	 Evansville	Mobilecom	 LTR Standard	 Evansville	Vanderburgh County (P25)	 Project 25 Phase I	 Evansville
-Vanderburgh County Detention Center	 LTR Standard	 Evansville	VEI Communications FleetTalk	 NXDN NEXEDGE 4800	 Various	
+858.46250 	813.46250  	WPUB778 	RM		Vbrg MDC 	Public Safety MDC 	Telm 	Other 
+859.46250 	814.46250  	WPUB778 	RM		 Vbrg MDC 	 Public Safety MDC 	Telm 	Other 
+155.82000 	   	KDQ295 	M	110.9 PL	Vbrg EMA-VHF 	Vanderburgh Co Emergency Management - VHF Backup 	FMN 	Emergency Ops 
+154.22000 	   	WPTV365 	BM	110.9 PL	Vbrg FD F-1 	County Fire - Dispatch 	FMN 	Fire Dispatch 
+154.38500 	   	WPTV365 	M	110.9 PL	Vbrg FD Frg 	County Fire - Fireground Common 	FMN 	Fire-Tac 
+460.57500 	   	WPTV365 	F		 Vbrg FD Lnk 	County Fire - UHF Link 	FMN 	Fire-Tac 
+153.95000 	   	KSC497 	BM		Vbrg MA-All 	Evansville Fire - VHF Backup (For County Mutual Aid) 	FMN 	Interop 
+460.60000 	   	KSC497 	F		Evl FD U Lnk 	Evansville Fire - UHF Link 	FMN 	Fire-Tac 
+154.23500 	153.83000  	KXV569 	RM	77.0 PL	Grm FD Rptr 	German Township Fire - Repeater 	FMN 	Fire-Tac 
+154.40000 	   	KGT478 	BM		McCtchn FD 	McCutchanville Fire 	FMN 	Fire-Tac 
+154.14500 	159.01500  	KKG751 	BM	271 DPL	Perry FD 	Perry Township Fire - Repeater 	FMN 	Fire-Tac 
+154.17500 	153.77000  	WYF993 	RM		Scott FD 	Scott Township Fire - Repeater 	FMN 	Fire-Tac 
+154.87500 	   	WNMU742 	BM	203.5 PL	 Vbrg SO-VHF 	Sheriff - VHF Backup (Expired) 	FMN 	Law Dispatch 
+155.71500 	   	WNNM805 	BM		Vbrg Levees 	Vanderburgh Co Levee Authority 	FMN 	Public Works 
+158.74500 	   	KRB374 	BM		Vbrg Bldgs 	Vanderburgh Co Building Inspector 	FMN 	Public Works 
+453.05000 	458.05000  	WNCQ222 	RM		EvnvlPubWrks 	Evansville Public Works Department 	FMN 	Public Works 
+158.82000 	153.86000  	KDT409 	RM	107.2 PL	Evnvl H2O 	Evansville Water Department 	FMN 	Public Works 
+158.83500 	153.86000  	KDT409 	RM	141.3 PL	 Evnvl H2O 	Evansville Water Department 	FMN 	Public Works 
+453.82500 	458.82500  	KXZ772 	RM		Evnvl Sewer 	Evansville Sewer District 	FMN 	Public Works 
+453.22500 	458.22500  	WXT675 	RM		Evnvl Airprt 	Evansville Regional Airport 	FMN 	Public Works 
+453.67500 	458.67500  	WNKW639 	BM	162.2 PL	Mesker Zoo 	Mesker Park Zoo 	FMN 	Public Works 
+453.26250 	458.26250  	WPQH850 	RM	50 RAN	METS Paratransit 	METS Paratransit Vans (TGRP 1, NXDN4800) 	NXDN 	Transportation 
+453.76250 	458.76250  	WQFV271 	RM	30 RAN	METS Bus 	METS Transit Busses (TGRP 1, NXDN4800) 	NXDN 	Transportation 
+856.23750 	811.23750  	WQGG986 	RM	114.8 PL	USI PD Dsp 	Campus Police Dispatch - Used with County TRS 	FM 	Law Dispatch 
+155.07000 	158.94000  	KRI745 	RM	110.9 PL	USI ScrtyF-1 	Security 	FMN 	Security 
+152.43500 	157.60500  	WPQF467 	RM		USI Maint 	Maintenance 	FMN 	Schools 
+153.27500 	   	WPQF467 	RM		 USI Maint 	Maintenance 	FMN 	Schools 
+452.17500 	457.17500  	WPZA556 	RM		  USI Opns 	Operations 	FMN 	Schools 
+151.55000 	   	WQXF977 	BM		UE SECURITY1 	Security 1 	FMN 	Security 
+151.89500 	   	WQXF977 	BM		UE SECURITY2 	Security 2 	FMN 	Security 
+463.35000 	468.35000  	KFG606 	RM		EVSC Schools 	EVSC Operations 	DMR 	Schools 
+463.70000 	468.70000  	KFG606 	RM	CC 1TG 1000SL 1	EVSC Bus 	EVSC Bus Operations 	DMR 	Schools 
+463.77500 	468.77500  	WPGA647 	RM		EVSC Schools 	EVSC Operations 	DMR 	Schools 
+ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Evansville Water Department	 NXDN Icom IDAS Type D	 Evansville	Indiana Department of Health - Evansville State Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Evansville
+Meade Johnson	 LTR Standard	 Multiple	Mobile Radio of Evansville	 LTR Standard	 Evansville	Mobilecom	 LTR Standard	 Evansville
+Vanderburgh County (P25)	 Project 25 Phase I	 Evansville	Vanderburgh County Detention Center	 LTR Standard	 Evansville	VEI Communications FleetTalk	 NXDN NEXEDGE 4800	 Various

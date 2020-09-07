@@ -1,55 +1,54 @@
-151.31000 	KSA392 	RM	203.5 PL	MCSO Disp 	Police - County Dispatch 	FMN 	Law Dispatch 
-155.55000 	KSA392 	BM	173.8 PL	MCSORualDisp 	Police - Rural Dispatch 	FMN 	Law Dispatch 
-153.87500 	WPIA938 	M	CSQ	MCSOCourt 	Court Security / Admin 	FMN 	Law Tac 
-858.73750 	WQUI609 	B	156.7 PL	MarshCoShDsp 	Sheriff Dispatch (from SAFE-T) 	FM 	Law Dispatch 
-866.51250 	 	M	CSQ	MCSO Jail 	Police - Jail Operations 	FM 	Law Tac 
-154.13000 	WQIX990 	BM	85.4 PL	MCFD Disp 	Fire County Dispatch 	FMN 	Fire Dispatch 
-153.98000 	WQDZ986 	BM	85.4 PL	EMSDispBourb 	EMS County Dispatch to Bourbon EMS 	FMN 	EMS Dispatch 
-154.41500 	WQDZ986 	BM	85.4 PL	EMSDispPolk 	EMS County Dispatch to Polk Township EMS 	FMN 	EMS Dispatch 
-155.16000 	WQDZ986 	BM	74.4 PL	EMSDispLapaz 	EMS County Dispatch to Lakeville Lapaz EMS 	FMN 	EMS Dispatch 
-155.20500 	WQDZ986 	BM	71.9 PL	EMSDispWalkr 	EMS County Dispatch to Walkerton EMS 	FMN 	EMS Dispatch 
-155.23500 	WQDZ986 	BM	85.4 PL	EMSDispPlym 	EMS County Dispatch to Plymouth EMS 	FMN 	EMS Dispatch 
-155.26500 	WQDZ986 	BM	100.0 PL	EMSDisp Brem 	EMS County Dispatch to Bremen EMS 	FMN 	EMS Dispatch 
-155.83500 	WQDZ986 	BM	85.4 PL	EMSDispArgos 	EMS County Dispatch to Argos EMS 	FMN 	EMS Dispatch 
-156.00000 	WQDZ986 	BM	85.4 PL	EMSDispCulvr 	EMS County Dispatch to Culver EMS 	FMN 	EMS Dispatch 
-37.90000 	KSF890 	BM	179.9 PL	MrshallCoHwy 	DPW County Highway 	FM 	Public Works 
-155.02500 	KWS477 	BM	91.5 PL	MrshallCoEMA 	EMA Operations 	FMN 	Emergency Ops 
-154.80000 	WPQF225 	RM	100.0 PL	PlymthPDDisp 	Police Dispatch 	FMN 	Law Dispatch 
-154.91000 	WPQF225 	M	100.0 PL	PlymthPDCar 	Police Car-to-Car 	FMN 	Law Talk 
-158.83500 	KDN282 	BM	100.0 PL	PlymthPD 	Police 	FMN 	Law Dispatch 
-154.26500 	KEO302 	BM	85.4 PL	PlymthFireFG 	Fireground 	FMN 	Fire-Tac 
-155.23500 	KLA535 	BM	85.4 PL	PlymouthEMS 	EMS 	FMN 	EMS Dispatch 
-158.83500 	KDN282 	BM	210.7 PL	PlymthStrt 	DPW Street Department 	FMN 	Public Works 
-453.90000 	WNMU646 	RM	CSQ	PlymthDPW 	DPW 	FMN 	Public Works 
-460.07500 	WPFZ714 	RM	CSQ	PlymthParks 	DPW Parks Department 	FMN 	Public Works 
-154.08500 	WNMR754 	BM	192.8 PL	ArgosDPW 	DPW Utilities 	FM 	Public Works 
-153.98000 	KBB985 	RM	CSQ	BourbonEMS 	Multi Township EMS 	FM 	EMS Dispatch 
-153.57500 	WPKI414 	RM	251 DPL	BourbonDPW 	DPW Utilities 	FM 	Public Works 
-155.26500 	WPGV650 	BM	100.0 PL	BFEMS-EMS 	Fire and EMS - EMS Dispatch 	FMN 	EMS Dispatch 
-154.13000 	KSQ463 	BM		BFEMS-FIRE 	Fire and EMS - Fire Dispatch 	FMN 	Fire Dispatch 
-154.30250 	KSQ463 	M		BFEMS-FG 	Fire and EMS - Fireground/Tactical 	FMN 	Fire-Tac 
-159.45750 	KSQ463 	M		BFEMS-FG 	Fire and EMS - Fireground/Tactical 	FMN 	Fire-Tac 
-151.02500 	WQNV841 	RM	172 DPL	BPD-DISP 	Police VHF Dispatch 	FMN 	Law Dispatch 
-153.98000 	KSJ494 	BM	CSQ	BremenDPW 	DPW  Utilities 	FM 	Public Works 
-150.80500 	WPKF811 	M	100.0 PL	CulverFDPage 	Fire Pagers 	FM 	Fire Dispatch 
-154.13000 	WPKF811 	BM	85.4 PL	CulverFDDsp 	Fire County Dispatch 	FM 	Fire Dispatch 
-154.17500 	WPTP843 	BM	85.4 PL	CulverFDOps 	Fire Operations 	FM 	Fire-Tac 
-156.00000 	KEI298 	RM	85.4 PL	CulverEMSDsp 	EMS Dispatch 	FM 	EMS Dispatch 
-153.90500 	WPQH624 	BM	118.8 PL	CulverPD 	Police New channel (not confirmed) 	FM 	Law Tac 
-154.96500 	WPLG261 	BM	103.5 PL	CulverDPW 	DPW Utilities 	FM 	Public Works 
-463.65000 	WPLE242 	BM	023 DPL	CulverMiltSc 	Culver Military Academy Security 	FM 	Security 
-155.16000 	KXM296 	BM	74.4 PL	LapazEMS 	EMS Lakeville Lapaz EMS 	FM 	EMS Dispatch 
-154.41500 	WNVU933 	BM		PolkTwpFire 	VFD 	FM 	Fire-Tac 
-152.43500 	WPUH638 	RM	051 DPL	TipTwpFire 	Fire/EMS - Operations 	FM 	Fire-Tac 
-154.51500 	WZH728 	BM	CSQ	TipTwpEMS 	EMS Old channel 	FM 	EMS-Tac 
-461.12500 	KNJN793 	RM	103.5 PL	CMA Plnt Ops 	Culver Military Academy Plant Operations 	FMN 	Schools 
-461.22500 	WNFR945 	BM	CSQ	ArgosSchls 	Argos Community Schools 	FM 	Schools 
-461.42500 	WNIM299 	BM	CSQ	CulverSchls 	Culver Community Schools 	FM 	Schools 
-461.70000 	WNNU813 	RM	CSQ	JohnGlennSch 	John Glenn Community Schools 	FM 	Schools 
-462.10000 	WNBA885 	RM	CSQ	BremenSchls 	Bremen Community Schools 	FM 	Schools 
-462.87500 	WQHQ339 	BM	CSQ	AncillaColg 	Ancilla College 	FM 	Schools 
-462.87500 	WQHQ339 	BM	CSQ	AncillaColg 	Ancilla College 	FM 	Schools 
-464.67500 	WNFD694 	BM	CSQ	PlymthSchls 	Plymouth Community Schools 	FM 	Schools 
-464.92500 	WNAM809 	RM	162.2 PL	Triton Schls 	Triton School Corporation 	FMN 	Schools 
-ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3
- Multiple	
+151.31000 	159.31500  	KSA392 	RM	203.5 PL	MCSO Disp 	Police - County Dispatch 	FMN 	Law Dispatch 
+155.55000 	   	KSA392 	BM	173.8 PL	MCSORualDisp 	Police - Rural Dispatch 	FMN 	Law Dispatch 
+153.87500 	   	WPIA938 	M	CSQ	MCSOCourt 	Court Security / Admin 	FMN 	Law Tac 
+858.73750 	   	WQUI609 	B	156.7 PL	MarshCoShDsp 	Sheriff Dispatch (from SAFE-T) 	FM 	Law Dispatch 
+866.51250 	   	 	M	CSQ	MCSO Jail 	Police - Jail Operations 	FM 	Law Tac 
+154.13000 	   	WQIX990 	BM	85.4 PL	MCFD Disp 	Fire County Dispatch 	FMN 	Fire Dispatch 
+153.98000 	   	WQDZ986 	BM	85.4 PL	EMSDispBourb 	EMS County Dispatch to Bourbon EMS 	FMN 	EMS Dispatch 
+154.41500 	   	WQDZ986 	BM	85.4 PL	EMSDispPolk 	EMS County Dispatch to Polk Township EMS 	FMN 	EMS Dispatch 
+155.16000 	   	WQDZ986 	BM	74.4 PL	EMSDispLapaz 	EMS County Dispatch to Lakeville Lapaz EMS 	FMN 	EMS Dispatch 
+155.20500 	   	WQDZ986 	BM	71.9 PL	EMSDispWalkr 	EMS County Dispatch to Walkerton EMS 	FMN 	EMS Dispatch 
+155.23500 	   	WQDZ986 	BM	85.4 PL	EMSDispPlym 	EMS County Dispatch to Plymouth EMS 	FMN 	EMS Dispatch 
+155.26500 	   	WQDZ986 	BM	100.0 PL	EMSDisp Brem 	EMS County Dispatch to Bremen EMS 	FMN 	EMS Dispatch 
+155.83500 	   	WQDZ986 	BM	85.4 PL	EMSDispArgos 	EMS County Dispatch to Argos EMS 	FMN 	EMS Dispatch 
+156.00000 	   	WQDZ986 	BM	85.4 PL	EMSDispCulvr 	EMS County Dispatch to Culver EMS 	FMN 	EMS Dispatch 
+37.90000 	   	KSF890 	BM	179.9 PL	MrshallCoHwy 	DPW County Highway 	FM 	Public Works 
+155.02500 	   	KWS477 	BM	91.5 PL	MrshallCoEMA 	EMA Operations 	FMN 	Emergency Ops 
+154.80000 	159.03000  	WPQF225 	RM	100.0 PL	PlymthPDDisp 	Police Dispatch 	FMN 	Law Dispatch 
+154.91000 	   	WPQF225 	M	100.0 PL	PlymthPDCar 	Police Car-to-Car 	FMN 	Law Talk 
+158.83500 	   	KDN282 	BM	100.0 PL	PlymthPD 	Police 	FMN 	Law Dispatch 
+154.26500 	   	KEO302 	BM	85.4 PL	PlymthFireFG 	Fireground 	FMN 	Fire-Tac 
+155.23500 	   	KLA535 	BM	85.4 PL	PlymouthEMS 	EMS 	FMN 	EMS Dispatch 
+158.83500 	   	KDN282 	BM	210.7 PL	PlymthStrt 	DPW Street Department 	FMN 	Public Works 
+453.90000 	   	WNMU646 	RM	CSQ	PlymthDPW 	DPW 	FMN 	Public Works 
+460.07500 	   	WPFZ714 	RM	CSQ	PlymthParks 	DPW Parks Department 	FMN 	Public Works 
+154.08500 	   	WNMR754 	BM	192.8 PL	ArgosDPW 	DPW Utilities 	FM 	Public Works 
+153.98000 	155.79000  	KBB985 	RM	CSQ	BourbonEMS 	Multi Township EMS 	FM 	EMS Dispatch 
+153.57500 	158.25000  	WPKI414 	RM	251 DPL	BourbonDPW 	DPW Utilities 	FM 	Public Works 
+155.26500 	   	WPGV650 	BM	100.0 PL	BFEMS-EMS 	Fire and EMS - EMS Dispatch 	FMN 	EMS Dispatch 
+154.13000 	   	KSQ463 	BM		BFEMS-FIRE 	Fire and EMS - Fire Dispatch 	FMN 	Fire Dispatch 
+154.30250 	   	KSQ463 	M		BFEMS-FG 	Fire and EMS - Fireground/Tactical 	FMN 	Fire-Tac 
+159.45750 	   	KSQ463 	M		BFEMS-FG 	Fire and EMS - Fireground/Tactical 	FMN 	Fire-Tac 
+151.02500 	155.31750  	WQNV841 	RM	172 DPL	BPD-DISP 	Police VHF Dispatch 	FMN 	Law Dispatch 
+153.98000 	   	KSJ494 	BM	CSQ	BremenDPW 	DPW  Utilities 	FM 	Public Works 
+150.80500 	   	WPKF811 	M	100.0 PL	CulverFDPage 	Fire Pagers 	FM 	Fire Dispatch 
+154.13000 	   	WPKF811 	BM	85.4 PL	CulverFDDsp 	Fire County Dispatch 	FM 	Fire Dispatch 
+154.17500 	   	WPTP843 	BM	85.4 PL	CulverFDOps 	Fire Operations 	FM 	Fire-Tac 
+156.00000 	154.02500  	KEI298 	RM	85.4 PL	CulverEMSDsp 	EMS Dispatch 	FM 	EMS Dispatch 
+153.90500 	159.18000  	WPQH624 	BM	118.8 PL	CulverPD 	Police New channel (not confirmed) 	FM 	Law Tac 
+154.96500 	   	WPLG261 	BM	103.5 PL	CulverDPW 	DPW Utilities 	FM 	Public Works 
+463.65000 	468.65000  	WPLE242 	BM	023 DPL	CulverMiltSc 	Culver Military Academy Security 	FM 	Security 
+155.16000 	159.01500  	KXM296 	BM	74.4 PL	LapazEMS 	EMS Lakeville Lapaz EMS 	FM 	EMS Dispatch 
+154.41500 	   	WNVU933 	BM		PolkTwpFire 	VFD 	FM 	Fire-Tac 
+152.43500 	157.69500  	WPUH638 	RM	051 DPL	TipTwpFire 	Fire/EMS - Operations 	FM 	Fire-Tac 
+154.51500 	   	WZH728 	BM	CSQ	TipTwpEMS 	EMS Old channel 	FM 	EMS-Tac 
+461.12500 	466.42500  	KNJN793 	RM	103.5 PL	CMA Plnt Ops 	Culver Military Academy Plant Operations 	FMN 	Schools 
+461.22500 	   	WNFR945 	BM	CSQ	ArgosSchls 	Argos Community Schools 	FM 	Schools 
+461.42500 	   	WNIM299 	BM	CSQ	CulverSchls 	Culver Community Schools 	FM 	Schools 
+461.70000 	466.70000  	WNNU813 	RM	CSQ	JohnGlennSch 	John Glenn Community Schools 	FM 	Schools 
+462.10000 	467.10000  	WNBA885 	RM	CSQ	BremenSchls 	Bremen Community Schools 	FM 	Schools 
+462.87500 	   	WQHQ339 	BM	CSQ	AncillaColg 	Ancilla College 	FM 	Schools 
+462.87500 	   	WQHQ339 	BM	CSQ	AncillaColg 	Ancilla College 	FM 	Schools 
+464.67500 	   	WNFD694 	BM	CSQ	PlymthSchls 	Plymouth Community Schools 	FM 	Schools 
+464.92500 	469.42500  	WNAM809 	RM	162.2 PL	Triton Schls 	Triton School Corporation 	FMN 	Schools 
+Diga-Talk	 NXDN NEXEDGE 4800	 Various	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple

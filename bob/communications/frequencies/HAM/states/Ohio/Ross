@@ -1,37 +1,37 @@
-458.86250 	WPMY460 	BM		ROSS SO TAC 	Ross County Sheriff - Tactical Simplex 	FMN 	Law Tac 
-460.51250 	WPNP740 	F	110.9 PL	SO JAIL 	Ross County Jail 	FMN 	Corrections 
-453.92500 	WPMY460 	RM	162.2 PL	ROSS SO2 	Ross County SO alternate 	FMN 	Law Tac 
-154.13000 	WNIK743 	RM	CSQ	Ross Fire 	County Fire Dispatch - main 	FMN 	Fire Dispatch 
-154.13000 	WPKN274 	RM	156.7 PL	RossFire E 	County Fire Dispatch - Londonderry 	FMN 	Fire Dispatch 
-153.95000 	KNIP402 	M		ColeTwp FG 	Colerain Twp VFD - Fireground 	FMN 	Fire-Tac 
-154.07000 	KNIP402 	M		ColeTwp FG 	Colerain Twp VFD - Fireground 	FMN 	Fire-Tac 
-154.25000 	WPTC627 	BM	CSQ	Scioto FG 	Scioto Twp FD Fireground 	FMN 	Fire-Tac 
-154.40000 	KQG214 	RM	146.2 PL	Chilli Fire 	Chillicothe Fire Dispatch 	FMN 	Fire Dispatch 
-151.22750 	WQAE587 	M		Chilli FG 	Chillicothe Fireground 	FMN 	Fire-Tac 
-153.86750 	WQPP975 	M		Green FG 	Green Township Fire - Fireground/Tactical 	FMN 	Fire-Tac 
-159.77250 	WQNK280 	BM	115 DPL	Air Evac 98 	Air Evac Lifeteam 98 - Dispatch/Operations (Chillicothe Base) 	FMN 	EMS Dispatch 
-159.77250 	WQNK280 	BM	226 DPL	AirEvacLocal 	Air Evac Lifeteam 98 - Local Dispatch/Operations (Chillicothe Base) 	FM 	EMS Dispatch 
-156.13500 	KNAR894 	RM	156.7 PL	ROSS ENG 	Ross County Engineer 	FMN 	Public Works 
-453.11250 	WPVX535 	BM		ROSS AIRPORT 	Ross County Airport Authority 	FMN 	Public Works 
-460.43750 	WPVQ895 	RM	173.8 PL	CHILLI SVC 	Chillicothe City Services 	FMN 	Public Works 
-465.23750 	WPVQ895 	M		CHILLI SVCS 	Chillicothe City Services - Simplex 	FMN 	Public Works 
-453.90000 	WNGG629 	RM		ROSS SEN TXP 	Ross County Senior Citizens Transportation 	FMN 	Public Works 
-451.07500 	KOE541 	RM		ROSS WATER 	Ross County Water 	FM 	Public Works 
-453.78750 	KB84801 	F		CHILL PUMPST 	Chillicothe Sewer and Water Lift Station Pump Telemetry 	FM 	Data 
-150.99500 	WPJY721 	RM		LIBTWP ROADS 	Liberty Twp Roads 	FM 	Public Works 
-151.62500 	 	M	152 DPL	GREENTWP DPW 	Kingston-Green Twp Public Works 	FM 	Public Works 
-154.98000 	WNCN664 	BM		CONTWP SVC 	Concord Twp Service 	FMN 	Public Works 
-155.55000 	WPUI616 	BM		DEERFLD SVC 	Deerfield Twp Service 	FMN 	Public Works 
-151.68500 	KNIJ786 	BM		PAINTV LSD 	Paint Valley Local Schools 	FMN 	Schools 
-152.96750 	WPYU785 	BM		ZANETR LSD 	Zane Trace Schools 	FMN 	Schools 
-155.16000 	WNQN872 	BM		ZANETR LSD 	Zane Trace Schools 	FM 	Schools 
-155.23500 	KNDH510 	BM		UNISCIOTO SD 	Union Scioto Schools 	FMN 	Schools 
-461.17500 	WPWT962 	RM	131.8 PL	CHILLI CSD 	Chillicothe Schools 	FMN 	Schools 
-153.49250 	WQBT267 	RM		UNISCIOTO SD 	Union-Scioto Schools 	FMN 	Schools 
-155.17500 	WNIU448 	BM		HUNTGNT LSD 	Huntington Schools 	FM 	Schools 
-157.59000 	WPSF587 	M		HUNTGNT LSD 	Huntington Schools 	FM 	Schools 
-157.65000 	WPSF587 	M		HUNTGNT LSD 	Huntington Schools 	FM 	Schools 
-157.72500 	WPSF587 	M		HUNTGNT LSD 	Huntington Schools 	FM 	Schools 
-451.11250 	WPOY409 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	B and C Communications LTR	 LTR Standard	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I
- Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	
+458.86250 	   	WPMY460 	BM		ROSS SO TAC 	Ross County Sheriff - Tactical Simplex 	FMN 	Law Tac 
+460.51250 	   	WPNP740 	F	110.9 PL	SO JAIL 	Ross County Jail 	FMN 	Corrections 
+453.92500 	458.92500  	WPMY460 	RM	162.2 PL	ROSS SO2 	Ross County SO alternate 	FMN 	Law Tac 
+154.13000 	154.44500  	WNIK743 	RM	CSQ	Ross Fire 	County Fire Dispatch - main 	FMN 	Fire Dispatch 
+154.13000 	158.86500  	WPKN274 	RM	156.7 PL	RossFire E 	County Fire Dispatch - Londonderry 	FMN 	Fire Dispatch 
+153.95000 	   	KNIP402 	M		ColeTwp FG 	Colerain Twp VFD - Fireground 	FMN 	Fire-Tac 
+154.07000 	   	KNIP402 	M		ColeTwp FG 	Colerain Twp VFD - Fireground 	FMN 	Fire-Tac 
+154.25000 	   	WPTC627 	BM	CSQ	Scioto FG 	Scioto Twp FD Fireground 	FMN 	Fire-Tac 
+154.40000 	153.89000  	KQG214 	RM	146.2 PL	Chilli Fire 	Chillicothe Fire Dispatch 	FMN 	Fire Dispatch 
+151.22750 	   	WQAE587 	M		Chilli FG 	Chillicothe Fireground 	FMN 	Fire-Tac 
+153.86750 	   	WQPP975 	M		Green FG 	Green Township Fire - Fireground/Tactical 	FMN 	Fire-Tac 
+159.77250 	   	WQNK280 	BM	115 DPL	Air Evac 98 	Air Evac Lifeteam 98 - Dispatch/Operations (Chillicothe Base) 	FMN 	EMS Dispatch 
+159.77250 	   	WQNK280 	BM	226 DPL	AirEvacLocal 	Air Evac Lifeteam 98 - Local Dispatch/Operations (Chillicothe Base) 	FM 	EMS Dispatch 
+156.13500 	159.10500  	KNAR894 	RM	156.7 PL	ROSS ENG 	Ross County Engineer 	FMN 	Public Works 
+453.11250 	458.11250  	WPVX535 	BM		ROSS AIRPORT 	Ross County Airport Authority 	FMN 	Public Works 
+460.43750 	465.43750  	WPVQ895 	RM	173.8 PL	CHILLI SVC 	Chillicothe City Services 	FMN 	Public Works 
+465.23750 	   	WPVQ895 	M		CHILLI SVCS 	Chillicothe City Services - Simplex 	FMN 	Public Works 
+453.90000 	458.90000  	WNGG629 	RM		ROSS SEN TXP 	Ross County Senior Citizens Transportation 	FMN 	Public Works 
+451.07500 	456.07500  	KOE541 	RM		ROSS WATER 	Ross County Water 	FM 	Public Works 
+453.78750 	458.78750  	KB84801 	F		CHILL PUMPST 	Chillicothe Sewer and Water Lift Station Pump Telemetry 	FM 	Data 
+150.99500 	159.00000  	WPJY721 	RM		LIBTWP ROADS 	Liberty Twp Roads 	FM 	Public Works 
+151.62500 	   	 	M	152 DPL	GREENTWP DPW 	Kingston-Green Twp Public Works 	FM 	Public Works 
+154.98000 	   	WNCN664 	BM		CONTWP SVC 	Concord Twp Service 	FMN 	Public Works 
+155.55000 	   	WPUI616 	BM		DEERFLD SVC 	Deerfield Twp Service 	FMN 	Public Works 
+151.68500 	   	KNIJ786 	BM		PAINTV LSD 	Paint Valley Local Schools 	FMN 	Schools 
+152.96750 	160.19250  	WPYU785 	BM		ZANETR LSD 	Zane Trace Schools 	FMN 	Schools 
+155.16000 	   	WNQN872 	BM		ZANETR LSD 	Zane Trace Schools 	FM 	Schools 
+155.23500 	   	KNDH510 	BM		UNISCIOTO SD 	Union Scioto Schools 	FMN 	Schools 
+461.17500 	466.17500  	WPWT962 	RM	131.8 PL	CHILLI CSD 	Chillicothe Schools 	FMN 	Schools 
+153.49250 	159.95250  	WQBT267 	RM		UNISCIOTO SD 	Union-Scioto Schools 	FMN 	Schools 
+155.17500 	   	WNIU448 	BM		HUNTGNT LSD 	Huntington Schools 	FM 	Schools 
+157.59000 	   	WPSF587 	M		HUNTGNT LSD 	Huntington Schools 	FM 	Schools 
+157.65000 	   	WPSF587 	M		HUNTGNT LSD 	Huntington Schools 	FM 	Schools 
+157.72500 	   	WPSF587 	M		HUNTGNT LSD 	Huntington Schools 	FM 	Schools 
+451.11250 	456.11250  	WPOY409 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	B and C Communications LTR	 LTR Standard	 Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide
+Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	

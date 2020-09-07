@@ -1,28 +1,27 @@
-154.84500 	KYF435 	RM	103.5 PL	WCSO Disp  	Sheriff - Dispatch 	FMN 	Law Dispatch 
-154.72500 	KYF435 	RM	103.5 PL	WCSo Town 	Sheriff - Town Dispatch 	FMN 	Law Dispatch 
-158.79000 	KYF435 	M	103.5 PL	WCSO TAC  	Sheriff - Tactical 	FMN 	Law Tac 
-460.13750 	WPPA435 	RM	103.5 PL	WayneCoJail  	Sheriff - Jail Security 	FMN 	Law Talk 
-153.74000 	KZV227 	M	103.5 PL	WCSO Car 	Sheriff- car to car 	FMN 	Law Talk 
-151.37750 	WQLQ220 	RM	141.3 PL	WCo FD1 Rptr 	Ch. 1 Fire Dispatch 	FMN 	Fire Dispatch 
-155.94000 	KZV227 	RM	156.7 PL	WCo EMS Disp 	Ch. 2 EMS Dispatch 	FMN 	EMS Dispatch 
-156.17250 	WQLQ220 	BM	071 DPL	WCo FD3 FG 	Ch. 3 Fireground 	FMN 	Fire-Tac 
-151.00250 	WQLQ220 	BM	115 DPL	WCo FD4 FG 	Ch. 4 Fireground 	FMN 	Fire-Tac 
-151.09250 	WQLQ220 	M	172 DPL	WCoFD5mobile 	Ch. 5 	FMN 	Fire-Talk 
-153.85250 	WQLQ220 	M	343 DPL	WCoFD6mobile 	Ch. 6 	FMN 	Fire-Talk 
-153.86750 	WQLQ220 	M	627 DPL	WCoFD7 	Ch. 7 	FMN 	Fire-Talk 
-155.85000 	WQLQ220 	BM		WCoFD Tanker 	Tanker Relay and Fire Police 	FMN 	Fire-Tac 
-151.11500 	KAY997 	RM	114.8 PL	WCo Highway/DPW 	Highway/Public Works 	FMN 	Public Works 
-151.04000 	WPPF269 	RM	100.0 PL	Lyons Hwy 	Highway Department 	FMN 	Public Works 
-153.96500 	WPDJ915 	BM	114.8 PL	Lyons DPW 	DPW 	FMN 	Public Works 
-153.86000 	WQJW327 	BM	82.5 PL	Macedon FD2 	Fire Department - Operations 2 	FMN 	Fire Dispatch 
-154.35500 	WNZU342 	BM	156.7 PL	Macedon FD1 	Fire Department - Operations 1 	FMN 	Fire Dispatch 
-453.62500 	WPXL666 	RM	162.2 PL	Ontario FD 1 	District Dispatch 	FMN 	Fire Dispatch 
-453.23750 	WPXL666 	M	162.2 PL	Ontario FG 1 	District Fireground 1 	FMN 	Fire-Tac 
-458.23750 	WPXL666 	M	162.2 PL	Ontario FG 2 	District Fireground 2 	FMN 	Fire-Tac 
-154.02500 	WPYQ422 	RM	156.7 PL	Ontario EMS 	Emergency Squad 	FMN 	EMS Dispatch 
-154.44500 	KNIB703 	BM	CSQ	Walworth FD 	Fire Department Ops/Ambulance Ops 	FMN 	Fire Dispatch 
-159.76500 	WQGV533 	BM	123.0 PL	WVAS Pvt 	Volunteer Ambulance Service (WVAS) Private 	FMN 	EMS-Talk 
-155.22000 	KQI372 	BM	77.0 PL	WCSD Buses 	Wayne Central School District - Buses 	FMN 	Schools 
-463.47500 	WNQF682 	RM	69.3 PL	NCSD Buses 	Newark Central School District Buses 	FMN 	Schools 
-Mobiletech Communications	 LTR Net	 Various	Rochester Radio	 NXDN NEXEDGE 9600	 Regional	SaiaNet	 DMR Motorola Connect Plus (TRBO)
- Various	
+154.84500 	159.16500  	KYF435 	RM	103.5 PL	WCSO Disp  	Sheriff - Dispatch 	FMN 	Law Dispatch 
+154.72500 	158.91000  	KYF435 	RM	103.5 PL	WCSo Town 	Sheriff - Town Dispatch 	FMN 	Law Dispatch 
+158.79000 	   	KYF435 	M	103.5 PL	WCSO TAC  	Sheriff - Tactical 	FMN 	Law Tac 
+460.13750 	465.13750  	WPPA435 	RM	103.5 PL	WayneCoJail  	Sheriff - Jail Security 	FMN 	Law Talk 
+153.74000 	   	KZV227 	M	103.5 PL	WCSO Car 	Sheriff- car to car 	FMN 	Law Talk 
+151.37750 	159.05250  	WQLQ220 	RM	141.3 PL	WCo FD1 Rptr 	Ch. 1 Fire Dispatch 	FMN 	Fire Dispatch 
+155.94000 	151.16750  	KZV227 	RM	156.7 PL	WCo EMS Disp 	Ch. 2 EMS Dispatch 	FMN 	EMS Dispatch 
+156.17250 	   	WQLQ220 	BM	071 DPL	WCo FD3 FG 	Ch. 3 Fireground 	FMN 	Fire-Tac 
+151.00250 	   	WQLQ220 	BM	115 DPL	WCo FD4 FG 	Ch. 4 Fireground 	FMN 	Fire-Tac 
+151.09250 	   	WQLQ220 	M	172 DPL	WCoFD5mobile 	Ch. 5 	FMN 	Fire-Talk 
+153.85250 	   	WQLQ220 	M	343 DPL	WCoFD6mobile 	Ch. 6 	FMN 	Fire-Talk 
+153.86750 	   	WQLQ220 	M	627 DPL	WCoFD7 	Ch. 7 	FMN 	Fire-Talk 
+155.85000 	   	WQLQ220 	BM		WCoFD Tanker 	Tanker Relay and Fire Police 	FMN 	Fire-Tac 
+151.11500 	159.00000  	KAY997 	RM	114.8 PL	WCo Highway/DPW 	Highway/Public Works 	FMN 	Public Works 
+151.04000 	156.04500  	WPPF269 	RM	100.0 PL	Lyons Hwy 	Highway Department 	FMN 	Public Works 
+153.96500 	   	WPDJ915 	BM	114.8 PL	Lyons DPW 	DPW 	FMN 	Public Works 
+153.86000 	   	WQJW327 	BM	82.5 PL	Macedon FD2 	Fire Department - Operations 2 	FMN 	Fire Dispatch 
+154.35500 	   	WNZU342 	BM	156.7 PL	Macedon FD1 	Fire Department - Operations 1 	FMN 	Fire Dispatch 
+453.62500 	458.62500  	WPXL666 	RM	162.2 PL	Ontario FD 1 	District Dispatch 	FMN 	Fire Dispatch 
+453.23750 	   	WPXL666 	M	162.2 PL	Ontario FG 1 	District Fireground 1 	FMN 	Fire-Tac 
+458.23750 	   	WPXL666 	M	162.2 PL	Ontario FG 2 	District Fireground 2 	FMN 	Fire-Tac 
+154.02500 	158.94000  	WPYQ422 	RM	156.7 PL	Ontario EMS 	Emergency Squad 	FMN 	EMS Dispatch 
+154.44500 	   	KNIB703 	BM	CSQ	Walworth FD 	Fire Department Ops/Ambulance Ops 	FMN 	Fire Dispatch 
+159.76500 	   	WQGV533 	BM	123.0 PL	WVAS Pvt 	Volunteer Ambulance Service (WVAS) Private 	FMN 	EMS-Talk 
+155.22000 	   	KQI372 	BM	77.0 PL	WCSD Buses 	Wayne Central School District - Buses 	FMN 	Schools 
+463.47500 	468.47500  	WNQF682 	RM	69.3 PL	NCSD Buses 	Newark Central School District Buses 	FMN 	Schools 
+Mobiletech Communications	 LTR Net	 Various	Rochester Radio	 NXDN NEXEDGE 9600	 Regional	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various

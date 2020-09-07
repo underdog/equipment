@@ -1,14 +1,15 @@
-158.94000 	wpsq834 	RM	146.2 PL	Beadle EM 	Emergency Management 	FM 	Emergency Ops 
-453.90000 	KWL635 	RM	136.5 PL	Huron PD 	Huron Police 	FM 	Law Dispatch 
-154.44500 	KWF945 	RM	173.8 PL	Huron FD 	Huron Fire 	FM 	Fire Dispatch 
-155.08500 	WNUU200 	RM	136.5 PL	Cavour FD 	Cavour Fire 	FM 	Fire Dispatch 
-154.38500 	WPGB231 	RM	146.2 PL	Hitchcock FD 	Hitchcock Fire 	FM 	Fire Dispatch 
-155.83500 	WNZS277 	RM	173.8 PL	Wolsey FD 	Wolsey Fire 	FM 	Fire-Tac 
-155.76000 	KDB481 	RM	146.2 PL	Huron PW 	Huron Public Works 	FM 	Public Works 
-453.40000 	WQGM871 	RM		Wolsey Sch 	Wolsey-Wessington Schools 	FM 	Schools 
-118.12500 	 	B		Huron ASOS 	ASOS - Weather 	AM 	Aircraft 
-123.00000 	 	BM		Huron Unicom 	Unicom 	AM 	Aircraft 
-123.60000 	 	BM		Huron CTAF 	CTAF 	AM 	Aircraft 
-128.92500 	WQGC805 	BM		GreatLakeAir 	Great Lakes Airlines 	AM 	Aircraft 
-East River Electric Coop	 DMR Tier 3	 Multiple (SysID 16)	RACOM Network	 EDACS Networked Standard	 Various	South Dakota State Radio System	 Motorola Type II SmartZone
- Statewide	
+158.94000 	153.98000  	wpsq834 	RM	146.2 PL	Beadle EM 	Emergency Management 	FM 	Emergency Ops 
+453.90000 	458.90000  	KWL635 	RM	136.5 PL	Huron PD 	Huron Police 	FM 	Law Dispatch 
+154.44500 	155.98500  	KWF945 	RM	173.8 PL	Huron FD 	Huron Fire 	FM 	Fire Dispatch 
+155.08500 	158.88000  	WNUU200 	RM	136.5 PL	Cavour FD 	Cavour Fire 	FM 	Fire Dispatch 
+154.38500 	150.77500  	WPGB231 	RM	146.2 PL	Hitchcock FD 	Hitchcock Fire 	FM 	Fire Dispatch 
+155.83500 	158.95500  	WNZS277 	RM	173.8 PL	Wolsey FD 	Wolsey Fire 	FM 	Fire-Tac 
+155.76000 	159.03000  	KDB481 	RM	146.2 PL	Huron PW 	Huron Public Works 	FM 	Public Works 
+453.40000 	458.40000  	WQGM871 	RM		Wolsey Sch 	Wolsey-Wessington Schools 	FM 	Schools 
+118.12500 	   	 	B		Huron ASOS 	ASOS - Weather 	AM 	Aircraft 
+123.00000 	   	 	BM		Huron Unicom 	Unicom 	AM 	Aircraft 
+123.60000 	   	 	BM		Huron CTAF 	CTAF 	AM 	Aircraft 
+128.92500 	   	WQGC805 	BM		GreatLakeAir 	Great Lakes Airlines 	AM 	Aircraft 
+453.30000 	458.30000  	 	RM	100.0 PL	State Fair PD 	Police 	FMN 	Law Dispatch 
+453.45000 	458.45000  	 	RM	100.0 PL	State Fair Maint 	Maintenance 	FMN 	Public Works 
+East River Electric Coop	 DMR Tier 3	 Multiple (SysID 16)	RACOM Network	 EDACS Networked Standard	 Various	South Dakota State Radio System	 Motorola Type II SmartZone	 Statewide

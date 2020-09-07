@@ -1,15 +1,14 @@
-151.44500 	WPUG708 	RM	103.5 PL	SacShDisp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.58000 	 			SacSh 	Sheriff 	FMN 	Law Tac 
-154.35500 	KDO203 	BM	CSQ	Sac Fire Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-155.71500 	KMA723 	BM	CSQ	Sac Fire Ops 	Fire/EMS Operations 	FMN 	Fire Dispatch 
-154.13000 	KDO203 	BM		Sac Firegnd 	Fireground 	FMN 	Fire-Tac 
-159.12000 	KEX312 	RM	100.0 PL	Sac Roads 	Road Department 	FMN 	Public Works 
-151.41500 	WNYG568 	BM		Sac Conserv 	 Conservation 	FMN 	Public Works 
-158.97000 	KAA414 	M		SacShSimul 	Sheriff Mobile Extender 	FMN 	Law Dispatch 
-460.60000 	KDO203 	F	CSQ	SacXbandFire 	Relay for Fire Dispatch 	FMN 	Fire Dispatch 
-462.97500 	KMA723 	F	CSQ	SacEMSXBand 	Relay for EMS Dispatch 	FMN 	EMS Dispatch 
-155.14500 	KZB269  	F	CSQ	LakeCityData 	Data 	FMN 	Data 
-154.72500 	KAA414 	BM	167.9 PL	Sac City PD 	Police 	FM 	Law Tac 
-155.11500 	KJE217 	RM		Sac City PW 	Public Works  	FM 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	RACOM Network	 EDACS Networked Standard
- Various	
+151.44500 	153.98000  	WPUG708 	RM	103.5 PL	SacShDisp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.58000 	   	 			SacSh 	Sheriff 	FMN 	Law Tac 
+154.35500 	   	KDO203 	BM	CSQ	Sac Fire Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.71500 	   	KMA723 	BM	CSQ	Sac Fire Ops 	Fire/EMS Operations 	FMN 	Fire Dispatch 
+154.13000 	   	KDO203 	BM		Sac Firegnd 	Fireground 	FMN 	Fire-Tac 
+159.12000 	156.12000  	KEX312 	RM	100.0 PL	Sac Roads 	Road Department 	FMN 	Public Works 
+151.41500 	   	WNYG568 	BM		Sac Conserv 	 Conservation 	FMN 	Public Works 
+158.97000 	   	KAA414 	M		SacShSimul 	Sheriff Mobile Extender 	FMN 	Law Dispatch 
+460.60000 	   	KDO203 	F	CSQ	SacXbandFire 	Relay for Fire Dispatch 	FMN 	Fire Dispatch 
+462.97500 	   	KMA723 	F	CSQ	SacEMSXBand 	Relay for EMS Dispatch 	FMN 	EMS Dispatch 
+155.14500 	   	KZB269  	F	CSQ	LakeCityData 	Data 	FMN 	Data 
+154.72500 	   	KAA414 	BM	167.9 PL	Sac City PD 	Police 	FM 	Law Tac 
+155.11500 	158.94000  	KJE217 	RM		Sac City PW 	Public Works  	FM 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	RACOM Network	 EDACS Networked Standard	 Various

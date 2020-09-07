@@ -1,47 +1,46 @@
-33.86000 	KFR674 	BM	CSQ	PERRYCO FIRE 	Perry County Fire 	FM 	Fire-Talk 
-33.98000 	KFR674 	BM	CSQ	PCF DISP LB 	Perry County Fire dispatch 	FM 	Fire Dispatch 
-153.95000 	KDG843 	M		CROOKSVL VFD 	Crooksville VFD 	FM 	Fire-Talk 
-155.26500 	WNXB738 	BM	103.5 PL	PERRYCO EMS 	Perry County EMS 	FM 	EMS Dispatch 
-453.07500 	 	M	023 DPL	JCT CITY FG 	Junction City Fireground 	FMN 	Fire-Tac 
-453.07500 	KJS791 	RM	136.5 PL	JCT CITY VFD 	Junction City VFD dispatch (repeats 33.98) 	FMN 	Fire Dispatch 
-453.12500 	KFR674 	RM	071 DPL	PCF NORTH  	Perry County Fire - North (repeats 33.98) 	FMN 	Fire Dispatch 
-453.12500 	KFR674 	RM	306 DPL	PCF SOUTH 	Pery County Fire - South 	FMN 	Fire Dispatch 
-453.25000 	KWV805 	BM	100.0 PL	GLEN-HOPE FD 	Glenford-Hopewell Twp FD (repeats 33.98) 	FMN 	Fire Dispatch 
-453.40000 	WNDJ840 	RM	67.0 PL	THORN FD 	Thorn Twp-Thornville VFD (repeats 33.98) 	FMN 	Fire Dispatch 
-453.52500 	 	BM	100.0 PL	GLEN-HOPE FD 	Glenford-Hopewell Twp FD (repeats 33.860) 	FMN 	Fire Dispatch 
-453.53125 	 	M	CSQ	GLENFORD FG 	Glenford-Hopewell Twp Fireground 	FMN 	Fire-Tac 
-453.68750 	WPTN377 	RM		PERRYCO EMA 	Perry County EMA 	FMN 	Emergency Ops 
-453.75000 	WPWV964 	RM	431 DPL	NEWLEX FD 	New Lexington FD 	FMN 	Fire-Talk 
-458.03750 	 	M	CSQ	SOMERSET FG 	Somerset Fireground 	FMN 	Fire-Tac 
-458.07500 	 	M	071 DPL	CORNING FG 	Corning Fireground 	FMN 	Fire-Tac 
-458.43750 	KLW241 	M	462 DPL	SHAW-NSTV FG 	Shawnee & New Straitsville fireground 	FMN 	Fire-Tac 
-458.80000 	 	M	CSQ	NEWLEX FG 	New Lexington Fireground 	FMN 	Fire-Tac 
-458.80000 	KFR674 	M	CSQ	PERRYCO FG 	Perry County Fireground 	FMN 	Fire-Tac 
-460.13750 	WQCE555 	RM	032 DPL	PCF GRIGGS 	Griggs Road Repeater (Repeats 33.980) 	FMN 	Fire Dispatch 
-460.36250 	 	RM	506 DPL	NEWLEX FD 	New Lexington FD 	FMN 	Fire Dispatch 
-460.58750 	KLW241 	RM	462 DPL	PCF SHAWNEE 	Shawnee Repeater (Repeats 33.980) 	FMN 	Fire Dispatch 
-465.60000 	 	M	100.0 PL	THORN FG 	Thorn Twp-Thornville Fireground 	FMN 	Fire-Tac 
-39.92000 	KQE296 	BM	82.5 PL	PCSO DISP LB 	Perry Co Sheriff dispatch 	FM 	Law Dispatch 
-39.46000 	KQE296 	BM	82.5 PL	PCSO TAC 	Perry Co Sheriff 	FM 	Law Tac 
-39.64000 	KQE296 	BM	82.5 PL	PCSO LB 	Perry Co Sheriff (old F1, half-duplex) 	FM 	Law Talk 
-155.91000 	KQE296 	M		PCSO 	Perry Co Sheriff 	FM 	Law Talk 
-155.97000 	KQE296 	M		PCSO 	Perry Co Sheriff 	FM 	Law Talk 
-460.17500 	WPKU577 	RM	723 DPL	PCSO DISP 	Perry Co Sheriff (repeats 39.92) 	FM 	Law Dispatch 
-465.45000 	WPKU577 	M		PCSO TAC 	Perry Co Sheriff 	FM 	Law Tac 
-151.08500 	KDE206 	RM	118.8 PL	PERRY ENG 	Perry County Engineer 	FM 	Public Works 
-37.22000 	WPTD274 	BM		CROOKSVL LG 	Crooksville Village ops 	FM 	Public Works 
-155.71500 	WPJW233 	BM		SOMERSET SVC 	Somerset Village Services 	FM 	Public Works 
-156.16500 	KNNU218 	RM		MONRTWP RDS 	Monroe Township Roads (Corning) 	FM 	Public Works 
-453.27500 	WPOX878 	RM	431 DPL	PC TRANSIT 	Perry County Transit 	FM 	Transportation 
-453.95000 	WPNT912 	RM		THORNTWP RDS 	Thorn Township Roads 	FM 	Public Works 
-458.77500 	WQAT236 	M		CRKSV WATER 	Crooksville Water Dept 	FM 	Public Works 
-155.20500 	WNXB738 	BM		PC BDD 1 	County Board of Developmental Disabilities 	FM 	Schools 
-155.29500 	WNXB738 	BM		PC BDD 2 	County Board of Developmental Disabilities 	FM 	Schools 
-461.22500 	WPJG901 	RM		SOUTHERN LSD 	Southern Local Schools 	FM 	Schools 
-451.03750 	WPQG822 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
-461.10000 	WNQW591 	RM	754 DPL	TWC SERVICE 	Time-Warner Cable 	FM 	Utilities 
-122.80000 	 	BA		I86 CTAF 	CTAF/Unicom 	AM 	Aircraft 
-124.45000 	 	BA		I86 APP/DEP 	Approach/Departure (Provided by Indianapolis ARTCC, Zanesville RCAG) 	AM 	Aircraft 
-370.90000 	 	BA		I86 APP/DEP 	Approach/Departure (Provided by Indianapolis ARTCC, Zanesville RCAG) 	AM 	Aircraft 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I
- Statewide	
+33.86000 	   	KFR674 	BM	CSQ	PERRYCO FIRE 	Perry County Fire 	FM 	Fire-Talk 
+33.98000 	   	KFR674 	BM	CSQ	PCF DISP LB 	Perry County Fire dispatch 	FM 	Fire Dispatch 
+153.95000 	   	KDG843 	M		CROOKSVL VFD 	Crooksville VFD 	FM 	Fire-Talk 
+155.26500 	   	WNXB738 	BM	103.5 PL	PERRYCO EMS 	Perry County EMS 	FM 	EMS Dispatch 
+453.07500 	   	 	M	023 DPL	JCT CITY FG 	Junction City Fireground 	FMN 	Fire-Tac 
+453.07500 	458.07500  	KJS791 	RM	136.5 PL	JCT CITY VFD 	Junction City VFD dispatch (repeats 33.98) 	FMN 	Fire Dispatch 
+453.12500 	458.12500  	KFR674 	RM	071 DPL	PCF NORTH  	Perry County Fire - North (repeats 33.98) 	FMN 	Fire Dispatch 
+453.12500 	458.12500  	KFR674 	RM	306 DPL	PCF SOUTH 	Pery County Fire - South 	FMN 	Fire Dispatch 
+453.25000 	458.25000  	KWV805 	BM	100.0 PL	GLEN-HOPE FD 	Glenford-Hopewell Twp FD (repeats 33.98) 	FMN 	Fire Dispatch 
+453.40000 	458.40000  	WNDJ840 	RM	67.0 PL	THORN FD 	Thorn Twp-Thornville VFD (repeats 33.98) 	FMN 	Fire Dispatch 
+453.52500 	458.52500  	 	BM	100.0 PL	GLEN-HOPE FD 	Glenford-Hopewell Twp FD (repeats 33.860) 	FMN 	Fire Dispatch 
+453.53125 	   	 	M	CSQ	GLENFORD FG 	Glenford-Hopewell Twp Fireground 	FMN 	Fire-Tac 
+453.68750 	458.68750  	WPTN377 	RM		PERRYCO EMA 	Perry County EMA 	FMN 	Emergency Ops 
+453.75000 	458.75000  	WPWV964 	RM	431 DPL	NEWLEX FD 	New Lexington FD 	FMN 	Fire-Talk 
+458.03750 	   	 	M	CSQ	SOMERSET FG 	Somerset Fireground 	FMN 	Fire-Tac 
+458.07500 	   	 	M	071 DPL	CORNING FG 	Corning Fireground 	FMN 	Fire-Tac 
+458.43750 	   	KLW241 	M	462 DPL	SHAW-NSTV FG 	Shawnee & New Straitsville fireground 	FMN 	Fire-Tac 
+458.80000 	   	 	M	CSQ	NEWLEX FG 	New Lexington Fireground 	FMN 	Fire-Tac 
+458.80000 	   	KFR674 	M	CSQ	PERRYCO FG 	Perry County Fireground 	FMN 	Fire-Tac 
+460.13750 	465.13750  	WQCE555 	RM	032 DPL	PCF GRIGGS 	Griggs Road Repeater (Repeats 33.980) 	FMN 	Fire Dispatch 
+460.36250 	465.36250  	 	RM	506 DPL	NEWLEX FD 	New Lexington FD 	FMN 	Fire Dispatch 
+460.58750 	465.58750  	KLW241 	RM	462 DPL	PCF SHAWNEE 	Shawnee Repeater (Repeats 33.980) 	FMN 	Fire Dispatch 
+465.60000 	   	 	M	100.0 PL	THORN FG 	Thorn Twp-Thornville Fireground 	FMN 	Fire-Tac 
+39.92000 	   	KQE296 	BM	82.5 PL	PCSO DISP LB 	Perry Co Sheriff dispatch 	FM 	Law Dispatch 
+39.46000 	   	KQE296 	BM	82.5 PL	PCSO TAC 	Perry Co Sheriff 	FM 	Law Tac 
+39.64000 	39.30000  	KQE296 	BM	82.5 PL	PCSO LB 	Perry Co Sheriff (old F1, half-duplex) 	FM 	Law Talk 
+155.91000 	   	KQE296 	M		PCSO 	Perry Co Sheriff 	FM 	Law Talk 
+155.97000 	   	KQE296 	M		PCSO 	Perry Co Sheriff 	FM 	Law Talk 
+460.17500 	465.17500  	WPKU577 	RM	723 DPL	PCSO DISP 	Perry Co Sheriff (repeats 39.92) 	FM 	Law Dispatch 
+465.45000 	   	WPKU577 	M		PCSO TAC 	Perry Co Sheriff 	FM 	Law Tac 
+151.08500 	159.07500  	KDE206 	RM	118.8 PL	PERRY ENG 	Perry County Engineer 	FM 	Public Works 
+37.22000 	   	WPTD274 	BM		CROOKSVL LG 	Crooksville Village ops 	FM 	Public Works 
+155.71500 	   	WPJW233 	BM		SOMERSET SVC 	Somerset Village Services 	FM 	Public Works 
+156.16500 	150.79000  	KNNU218 	RM		MONRTWP RDS 	Monroe Township Roads (Corning) 	FM 	Public Works 
+453.27500 	458.27500  	WPOX878 	RM	431 DPL	PC TRANSIT 	Perry County Transit 	FM 	Transportation 
+453.95000 	458.95000  	WPNT912 	RM		THORNTWP RDS 	Thorn Township Roads 	FM 	Public Works 
+458.77500 	   	WQAT236 	M		CRKSV WATER 	Crooksville Water Dept 	FM 	Public Works 
+155.20500 	   	WNXB738 	BM		PC BDD 1 	County Board of Developmental Disabilities 	FM 	Schools 
+155.29500 	   	WNXB738 	BM		PC BDD 2 	County Board of Developmental Disabilities 	FM 	Schools 
+461.22500 	466.22500  	WPJG901 	RM		SOUTHERN LSD 	Southern Local Schools 	FM 	Schools 
+451.03750 	456.03750  	WPQG822 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+461.10000 	466.10000  	WNQW591 	RM	754 DPL	TWC SERVICE 	Time-Warner Cable 	FM 	Utilities 
+122.80000 	   	 	BA		I86 CTAF 	CTAF/Unicom 	AM 	Aircraft 
+124.45000 	   	 	BA		I86 APP/DEP 	Approach/Departure (Provided by Indianapolis ARTCC, Zanesville RCAG) 	AM 	Aircraft 
+370.90000 	   	 	BA		I86 APP/DEP 	Approach/Departure (Provided by Indianapolis ARTCC, Zanesville RCAG) 	AM 	Aircraft 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide

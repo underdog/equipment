@@ -1,25 +1,25 @@
-453.12500 	WPPG514 	RM	156.7 PL	Elk Fire Dsp 	County Fire Dispatch 	FM 	Fire Dispatch 
-453.20000 	WPPG514 	RM	156.7 PL	Elk Fire FG1 	Fireground 1 (Boone) 	FM 	Fire-Tac 
-453.62500 	WPPG514 	RM	156.7 PL	Elk Fire FG2 	Fireground 2 (Johnsonburg) 	FM 	Fire-Tac 
-453.57500 	WPPG514 	RM	156.7 PL	Elk Fire FG3 	Fireground 3 (Grant Rd) 	FM 	Fire-Tac 
-453.47500 	WPPG514 	RM	156.7 PL	Elk Fire FG4 	Fireground 4 (St. Marys) 	FM 	Fire-Tac 
-453.37500 	WPPG514 	RM	156.7 PL	Elk Fire FG5 	Fireground 5 (Wilcox) 	FM 	Fire-Tac 
-458.90000 	WPPG514 	M		Elk Fire LZ 	Landing Zone Coordination 	FM 	Fire-Talk 
-458.68750 	WPPG514 	M		Elk Fire FP 	Fire Police Countywide 	FM 	Fire-Talk 
-155.16000 	WPDZ582 	BM		Elkland SAR 	Elkland Search and Rescue 	FM 	EMS Dispatch 
-158.83500 	WNQM908 	RM		Elk Co EMA 	County EMA 	FM 	Emergency Ops 
-453.52500 	WPPG514 	RM	210.7 PL	Elk Co EMA 	County EMA 	FMN 	Emergency Ops 
-462.97500 	KNBQ206 	BM	141.3 PL	Elk EMS Disp 	Elk County EMS Dispatch 	FM 	EMS Dispatch 
-463.00000 	KNBQ206 	BM	141.3 PL	Elk EMS-Hosp 	EMS to Elk Regional Health Center 	FM 	EMS-Talk 
-159.15000 	KGG374 	RM	127.3 PL	Elk Police 	Elk Co. Police Dispatch 	FM 	Law Dispatch 
-154.77000 	KGG374 	M		Elk Sheriff 	Elk Co. Sheriff / Police Simplex 	FM 	Law Tac 
-154.84500 	KGG374 	M		Elk Sheriff 	Elk Co. Sheriff / Police Simplex 	FM 	Law Tac 
-453.35000 	WQKJ944 	RM	156.7 PL	Elk Co PD1 	Elk County Police Dispatch (New) 	FM 	Law Dispatch 
-155.86500 	WPMW582 	BM		Ridgway PW 	 Ridgway Township - Public Works 	FM 	Public Works 
-33.40000 	WPHK329 	BM		Ridgway SD 	Ridgway Area School District 	FM 	Schools 
-461.52500 	WPJN993 	RM		Elk Regional 	Elk Regional Medical Center 	FM 	Hospital 
-151.80500 	WNWJ838 	BM		Elk Haven 	Elk Haven Nursing Home 	FM 	Business 
-153.15800 	WPRV581 	BM		GKN Metals 	GKN Sinter Metals Inc Operations Saint Marys 	FM 	Business 
-462.27500 	KNNL660 	M		SylvaniaPlnt 	Sylvania Plant Operations Saint Marys 	FM 	Business 
-464.42500 	WPIS947 	M		Sub Bldg Ctr 	Suburban Buliding Center 	FM 	Business 
+453.12500 	458.12500  	WPPG514 	RM	156.7 PL	Elk Fire Dsp 	County Fire Dispatch 	FM 	Fire Dispatch 
+453.20000 	458.20000  	WPPG514 	RM	156.7 PL	Elk Fire FG1 	Fireground 1 (Boone) 	FM 	Fire-Tac 
+453.62500 	458.62500  	WPPG514 	RM	156.7 PL	Elk Fire FG2 	Fireground 2 (Johnsonburg) 	FM 	Fire-Tac 
+453.57500 	458.57500  	WPPG514 	RM	156.7 PL	Elk Fire FG3 	Fireground 3 (Grant Rd) 	FM 	Fire-Tac 
+453.47500 	458.47500  	WPPG514 	RM	156.7 PL	Elk Fire FG4 	Fireground 4 (St. Marys) 	FM 	Fire-Tac 
+453.37500 	458.37500  	WPPG514 	RM	156.7 PL	Elk Fire FG5 	Fireground 5 (Wilcox) 	FM 	Fire-Tac 
+458.90000 	   	WPPG514 	M		Elk Fire LZ 	Landing Zone Coordination 	FM 	Fire-Talk 
+458.68750 	   	WPPG514 	M		Elk Fire FP 	Fire Police Countywide 	FM 	Fire-Talk 
+155.16000 	   	WPDZ582 	BM		Elkland SAR 	Elkland Search and Rescue 	FM 	EMS Dispatch 
+158.83500 	153.84500  	WNQM908 	RM		Elk Co EMA 	County EMA 	FM 	Emergency Ops 
+453.52500 	458.52500  	WPPG514 	RM	210.7 PL	Elk Co EMA 	County EMA 	FMN 	Emergency Ops 
+462.97500 	467.97500  	KNBQ206 	BM	141.3 PL	Elk EMS Disp 	Elk County EMS Dispatch 	FM 	EMS Dispatch 
+463.00000 	468.00000  	KNBQ206 	BM	141.3 PL	Elk EMS-Hosp 	EMS to Elk Regional Health Center 	FM 	EMS-Talk 
+159.15000 	154.71000  	KGG374 	RM	127.3 PL	Elk Police 	Elk Co. Police Dispatch 	FM 	Law Dispatch 
+154.77000 	   	KGG374 	M		Elk Sheriff 	Elk Co. Sheriff / Police Simplex 	FM 	Law Tac 
+154.84500 	   	KGG374 	M		Elk Sheriff 	Elk Co. Sheriff / Police Simplex 	FM 	Law Tac 
+453.35000 	458.35000  	WQKJ944 	RM	156.7 PL	Elk Co PD1 	Elk County Police Dispatch (New) 	FM 	Law Dispatch 
+155.86500 	   	WPMW582 	BM		Ridgway PW 	 Ridgway Township - Public Works 	FM 	Public Works 
+33.40000 	   	WPHK329 	BM		Ridgway SD 	Ridgway Area School District 	FM 	Schools 
+461.52500 	466.52500  	WPJN993 	RM		Elk Regional 	Elk Regional Medical Center 	FM 	Hospital 
+151.80500 	   	WNWJ838 	BM		Elk Haven 	Elk Haven Nursing Home 	FM 	Business 
+153.15800 	   	WPRV581 	BM		GKN Metals 	GKN Sinter Metals Inc Operations Saint Marys 	FM 	Business 
+462.27500 	   	KNNL660 	M		SylvaniaPlnt 	Sylvania Plant Operations Saint Marys 	FM 	Business 
+464.42500 	   	WPIS947 	M		Sub Bldg Ctr 	Suburban Buliding Center 	FM 	Business 
 Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	

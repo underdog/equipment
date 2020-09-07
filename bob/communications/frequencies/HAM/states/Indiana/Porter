@@ -1,46 +1,45 @@
-155.94000 	WPCT511 	BM	141.3 PL	PCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.95000 	WPCT511 	BM		PCSO VTAC1 	Sheriff  VHF Tactical 1 	FMN 	Law Tac 
-155.91000 	WPCT511 	M		PCSO VTAC 2 	Sheriff  VHF Tactical 2 	FMN 	Law Tac 
-156.15000 	WPCT511 	M		PCSO VTAC 3 	Sheriff  VHF Tactical 3 	FMN 	Law Tac 
-154.80000 	WQRP788 	RM	141.3 PL	PCSO JAIL 	County Jail 	FMN 	Corrections 
-155.13000 	WPCT511 	BM		PCSO-MCP 	Sheriff - Mobile Command Post 	FMN 	Law Tac 
-154.31000 	WNVJ853 	RM	114.8 PL	PrtrCoFire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.23500 	KKU309 	RM	110.9 PL	PrtrCoEMS 	EMS Dispatch 	FMN 	EMS Dispatch 
-151.46000 	WPPX683 	RM	114.8 PL	PorterHosEMS 	Porter Hospital EMS 	FMN 	EMS Dispatch 
-154.28000 	WNVJ853 	BM	114.8 PL	PrtrCoFire3 	Fire TAC 3 	FMN 	Fire-Tac 
-154.44500 	WNVJ853 	BM	114.8 PL	PrtrCoFire4 	Fire TAC 4 	FMN 	Fire-Tac 
-154.23500 	WNVJ853 	BM	114.8 PL	PrtrCoFire5 	Fire TAC 5 	FMN 	Fire-Tac 
-154.13000 	WNVJ853 	BM	114.8 PL	PrtrCoFire6 	Fire TAC 6 	FMN 	Fire-Tac 
-153.83000 	WNVJ853 	BM	114.8 PL	PrtrCoFire7 	Fire TAC 7 	FMN 	Fire-Tac 
-153.20000 	 	RM	141.3 PL	MitalStlFire 	Mittal Steel Fire Dept. 	FMN 	Fire-Tac 
-151.34000 	WPPF738 	BM	71.9 PL	PorterCoEMA 	EMA 	FMN 	Emergency Ops 
-151.04000 	WGP442 	BM	114.8 PL	PorterCoHwy 	Highway Dept. 	FMN 	Public Works 
-462.55000 	 	M		PorterCoClrk 	County Clerks 	FMN 	Public Works 
-155.04000 	KNHV811 	RM	141.3 PL	Chstr Police 	Police (back-up use only; includes Porter Police) 	FMN 	Law Dispatch 
-153.72500 	KZZ504 	RM	141.3 PL	Chstr Street 	Street Department 	FMN 	Public Works 
-156.19500 	KRG276 	RM	123.0 PL	HebrnPolice 	Police 	FMN 	Law Dispatch 
-152.39000 	WQGN794 	RM	123.0 PL	OD DPW OPS 	Public Works 	FMN 	Public Works 
-155.65500 	KSE514 	RM	162.2 PL	OD POLICE DISP 	Police (Also Used By Burns Harbor PD) 	FMN 	Law Dispatch 
-156.18750 	WQDZ412 	RM	156.7 PL	OD FIRE OPS 	Fire Operations 	FMN 	Fire Dispatch 
-154.22000 	KGW668 	RM	114.8 PL	PCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.83000 	WNVJ853 	M	114.8 PL	PCFD FG 	Fireground 	FMN 	Fire-Tac 
-155.55000 	KLE683 	RM	100.0 PL	PCPD Disp 	Police Dispatch 	FMN 	Law Dispatch 
-154.77000 	 	M		PCPD Tac 	Police Tac 	FMN 	Law Tac 
-867.56250 	WPKU405 	RM		PCPD VIPER 	Police SWAT "Channel Viper" 	FM 	Law Tac 
-155.10000 	KRJ684 	BM	88.5 PL	PrtgStreet 	Street Dept. 	FMN 	Public Works 
-155.89500 	WPPU294 	BM		PrtgTwpFire 	Fire Private Channel 	FMN 	Fire-Tac 
-154.10000 	KRP752 	RM	103.5 PL	PorterPolice 	Police (includes Chesterton Police) 	FMN 	Law Dispatch 
-155.62500 	KSA547 	RM	141.3 PL	ValpoPolice 	Police 	FMN 	Law Dispatch 
-158.79000 	WPVP646 	RM	261 DPL	Valpo Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.43000 	WPVP646 	RM	114.8 PL	ValpoFiregnd 	Fireground 	FMN 	Fire-Tac 
-156.22500 	WNWG800 	RM	051 DPL	ValpoStreets 	Street Department 	FMN 	Utilities 
-155.95500 	KNGE413 	BM	97.4 PL	ValPalUniPD 	Police 	FMN 	Law Dispatch 
-154.54000 	KNAB580 	BM	031 DPL	ValPalStdEsc 	Student Escort Service 	FMN 	Law Tac 
-152.41250 	WQTT482 	RM	156.7 PL	DSC OPS1 	Transportation 	FMN 	Schools 
-152.87750 	WQTT482 	RM		DSC OPS2 	Transportation and Operations 	FMN 	Schools 
-451.45000 	WPQG418 	RM	136.5 PL	PortTwpScBus 	Buses 	FMN 	Schools 
-452.30000 	WPQG418 		174 DPL	PortTwpScBus 	Buses 	FMN 	Schools 
-157.57500 	WPTM681 	RM	74.4 PL	ValPalSchBus 	Buses 	FMN 	Schools 
-Comlink Wireless/Chicago Equipment Company (Metro Chicago)	 LTR Standard	 Metro Chicago	Franciscan Health Systems Michigan City	 DMR Motorola Capacity Plus Multi Site (TRBO)	 	Indiana Project Hoosier SAFE-T	 Project 25 Phase I
- Statewide	Northern Indiana Public Service Company 800Mhz	 Motorola Type II Smartnet	 Multiple	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	United States Steel Corporation (DMR Tier 3)
- DMR Tier 3	 Various	
+155.94000 	154.71000  	WPCT511 	BM	141.3 PL	PCSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.95000 	   	WPCT511 	BM		PCSO VTAC1 	Sheriff  VHF Tactical 1 	FMN 	Law Tac 
+155.91000 	   	WPCT511 	M		PCSO VTAC 2 	Sheriff  VHF Tactical 2 	FMN 	Law Tac 
+156.15000 	   	WPCT511 	M		PCSO VTAC 3 	Sheriff  VHF Tactical 3 	FMN 	Law Tac 
+154.80000 	155.83500  	WQRP788 	RM	141.3 PL	PCSO JAIL 	County Jail 	FMN 	Corrections 
+155.13000 	   	WPCT511 	BM		PCSO-MCP 	Sheriff - Mobile Command Post 	FMN 	Law Tac 
+154.31000 	159.07500  	WNVJ853 	RM	114.8 PL	PrtrCoFire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.23500 	150.77500  	KKU309 	RM	110.9 PL	PrtrCoEMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+151.46000 	153.78500  	WPPX683 	RM	114.8 PL	PorterHosEMS 	Porter Hospital EMS 	FMN 	EMS Dispatch 
+154.28000 	   	WNVJ853 	BM	114.8 PL	PrtrCoFire3 	Fire TAC 3 	FMN 	Fire-Tac 
+154.44500 	   	WNVJ853 	BM	114.8 PL	PrtrCoFire4 	Fire TAC 4 	FMN 	Fire-Tac 
+154.23500 	   	WNVJ853 	BM	114.8 PL	PrtrCoFire5 	Fire TAC 5 	FMN 	Fire-Tac 
+154.13000 	   	WNVJ853 	BM	114.8 PL	PrtrCoFire6 	Fire TAC 6 	FMN 	Fire-Tac 
+153.83000 	   	WNVJ853 	BM	114.8 PL	PrtrCoFire7 	Fire TAC 7 	FMN 	Fire-Tac 
+153.20000 	   	 	RM	141.3 PL	MitalStlFire 	Mittal Steel Fire Dept. 	FMN 	Fire-Tac 
+151.34000 	159.16500  	WPPF738 	BM	71.9 PL	PorterCoEMA 	EMA 	FMN 	Emergency Ops 
+151.04000 	158.98500  	WGP442 	BM	114.8 PL	PorterCoHwy 	Highway Dept. 	FMN 	Public Works 
+462.55000 	   	 	M		PorterCoClrk 	County Clerks 	FMN 	Public Works 
+155.04000 	153.93500  	KNHV811 	RM	141.3 PL	Chstr Police 	Police (back-up use only; includes Porter Police) 	FMN 	Law Dispatch 
+153.72500 	158.20500  	KZZ504 	RM	141.3 PL	Chstr Street 	Street Department 	FMN 	Public Works 
+156.19500 	   	KRG276 	RM	123.0 PL	HebrnPolice 	Police 	FMN 	Law Dispatch 
+152.39000 	157.65000  	WQGN794 	RM	123.0 PL	OD DPW OPS 	Public Works 	FMN 	Public Works 
+155.65500 	159.03000  	KSE514 	RM	162.2 PL	OD POLICE DISP 	Police (Also Used By Burns Harbor PD) 	FMN 	Law Dispatch 
+156.18750 	151.14500  	WQDZ412 	RM	156.7 PL	OD FIRE OPS 	Fire Operations 	FMN 	Fire Dispatch 
+154.22000 	150.79000  	KGW668 	RM	114.8 PL	PCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.83000 	   	WNVJ853 	M	114.8 PL	PCFD FG 	Fireground 	FMN 	Fire-Tac 
+155.55000 	155.98500  	KLE683 	RM	100.0 PL	PCPD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+154.77000 	   	 	M		PCPD Tac 	Police Tac 	FMN 	Law Tac 
+867.56250 	822.56250  	WPKU405 	RM		PCPD VIPER 	Police SWAT "Channel Viper" 	FM 	Law Tac 
+155.10000 	   	KRJ684 	BM	88.5 PL	PrtgStreet 	Street Dept. 	FMN 	Public Works 
+155.89500 	   	WPPU294 	BM		PrtgTwpFire 	Fire Private Channel 	FMN 	Fire-Tac 
+154.10000 	158.95500  	KRP752 	RM	103.5 PL	PorterPolice 	Police (includes Chesterton Police) 	FMN 	Law Dispatch 
+155.62500 	154.65000  	KSA547 	RM	141.3 PL	ValpoPolice 	Police 	FMN 	Law Dispatch 
+158.79000 	153.84500  	WPVP646 	RM	261 DPL	Valpo Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.43000 	   	WPVP646 	RM	114.8 PL	ValpoFiregnd 	Fireground 	FMN 	Fire-Tac 
+156.22500 	151.22000  	WNWG800 	RM	051 DPL	ValpoStreets 	Street Department 	FMN 	Utilities 
+155.95500 	154.84500  	KNGE413 	BM	97.4 PL	ValPalUniPD 	Police 	FMN 	Law Dispatch 
+154.54000 	   	KNAB580 	BM	031 DPL	ValPalStdEsc 	Student Escort Service 	FMN 	Law Tac 
+152.41250 	150.84500  	WQTT482 	RM	156.7 PL	DSC OPS1 	Transportation 	FMN 	Schools 
+152.87750 	157.67250  	WQTT482 	RM		DSC OPS2 	Transportation and Operations 	FMN 	Schools 
+451.45000 	456.45000  	WPQG418 	RM	136.5 PL	PortTwpScBus 	Buses 	FMN 	Schools 
+452.30000 	457.30000  	WPQG418 		174 DPL	PortTwpScBus 	Buses 	FMN 	Schools 
+157.57500 	150.95000  	WPTM681 	RM	74.4 PL	ValPalSchBus 	Buses 	FMN 	Schools 
+Comlink Wireless/Chicago Equipment Company (Metro Chicago)	 LTR Standard	 Metro Chicago	Diga-Talk	 NXDN NEXEDGE 4800	 Various	Franciscan Health Systems Michigan City	 DMR Motorola Capacity Plus Multi Site (TRBO)	 
+Northern Indiana Public Service Company 800Mhz	 Motorola Type II Smartnet	 Multiple	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	United States Steel Corporation (DMR Tier 3)	 DMR Tier 3	 Various

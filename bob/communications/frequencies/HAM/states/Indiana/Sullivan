@@ -1,16 +1,15 @@
-155.10000 	KNFE653 	BM	CSQ	Sllvn EMA 	EMA 	FMN 	Emergency Ops 
-155.89500 	WPRG701 	RM	203.5 PL	SllvnFD/EMSM 	Sullivan Co Fire/EMS - Dispatch Main 	FMN 	Fire Dispatch 
-154.25000 	KAV729 	RM	203.5 PL	SllvnFD/EMSE 	Sullivan Co Fire/EMS - Dispatch East 	FMN 	Fire Dispatch 
-153.89000 	KAV729 	M		SllvnCty FD  	Sullivan City Fire - Tactical 	FMN 	Fire-Tac 
-155.82000 	WPRG701 	BM	192.8 PL	Frmrsbrg FD  	Farmersburg Fire - Tactical 	FMN 	Fire-Tac 
-155.14500 	KNGQ566 	RM	203.5 PL	Dugger FD 1 	Dugger Fire - Dispatch (Simulcast of 154.2500) 	FMN 	Fire Dispatch 
-154.11500 	KNGQ566 	BM	203.5 PL	Dugger FD 2 	Dugger Fire - Tactical 	FMN 	Fire-Tac 
-155.01000 	KNBV975 	RM	203.5 PL	Sllvn SO Dsp 	Sullivan Co Sheriff - Dispatch 	FMN 	Law Dispatch 
-460.51250 	KNBV975 	RM		Sllvn PD TAC 	Sullivan Police - Tactical 	FMN 	Law Tac 
-154.89000 	KNBV975 	M	203.5 PL	Pln A Bs2Cr 	Sullivan Co Sheriff - Plan A Car-toBase 	FMN 	Law Tac 
-155.13000 	KNBV975 	BM	203.5 PL	Pln A Cr2BS 	Sullivan Co Sheriff - Plan A Base-to-Car 	FMN 	Law Tac 
-153.78500 	KNBV975 	M	203.5 PL	SllvnSOCode8 	Sullivan Co Sheriff  - Code Eight 	FMN 	Law Tac 
-156.12000 	KCZ518 	RM	103.5 PL	Sllvn Hiways 	Sullivan Co Highway Department 	FMN 	Public Works 
-461.45000 	WQVV614 	RM	CC 3TG 1001SL 1	NESC-Schools 	Northeast Sullivan School Corporation 	DMR 	Schools 
-Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	VEI Communications FleetTalk	 NXDN NEXEDGE 4800	 Various	VEI Communications LTR	 LTR Standard
- Multiple	
+155.10000 	   	KNFE653 	BM	CSQ	Sllvn EMA 	EMA 	FMN 	Emergency Ops 
+155.89500 	150.77500  	WPRG701 	RM	203.5 PL	SllvnFD/EMSM 	Sullivan Co Fire/EMS - Dispatch Main 	FMN 	Fire Dispatch 
+154.25000 	159.27000  	KAV729 	RM	203.5 PL	SllvnFD/EMSE 	Sullivan Co Fire/EMS - Dispatch East 	FMN 	Fire Dispatch 
+153.89000 	   	KAV729 	M		SllvnCty FD  	Sullivan City Fire - Tactical 	FMN 	Fire-Tac 
+155.82000 	   	WPRG701 	BM	192.8 PL	Frmrsbrg FD  	Farmersburg Fire - Tactical 	FMN 	Fire-Tac 
+155.14500 	158.95500  	KNGQ566 	RM	203.5 PL	Dugger FD 1 	Dugger Fire - Dispatch (Simulcast of 154.2500) 	FMN 	Fire Dispatch 
+154.11500 	   	KNGQ566 	BM	203.5 PL	Dugger FD 2 	Dugger Fire - Tactical 	FMN 	Fire-Tac 
+155.01000 	   	KNBV975 	RM	203.5 PL	Sllvn SO Dsp 	Sullivan Co Sheriff - Dispatch 	FMN 	Law Dispatch 
+460.51250 	465.51240  	KNBV975 	RM		Sllvn PD TAC 	Sullivan Police - Tactical 	FMN 	Law Tac 
+154.89000 	   	KNBV975 	M	203.5 PL	Pln A Bs2Cr 	Sullivan Co Sheriff - Plan A Car-toBase 	FMN 	Law Tac 
+155.13000 	   	KNBV975 	BM	203.5 PL	Pln A Cr2BS 	Sullivan Co Sheriff - Plan A Base-to-Car 	FMN 	Law Tac 
+153.78500 	   	KNBV975 	M	203.5 PL	SllvnSOCode8 	Sullivan Co Sheriff  - Code Eight 	FMN 	Law Tac 
+156.12000 	159.00000  	KCZ518 	RM	103.5 PL	Sllvn Hiways 	Sullivan Co Highway Department 	FMN 	Public Works 
+461.45000 	466.45000  	WQVV614 	RM	CC 3TG 1001SL 1	NESC-Schools 	Northeast Sullivan School Corporation 	DMR 	Schools 
+VEI Communications FleetTalk	 NXDN NEXEDGE 4800	 Various	VEI Communications LTR	 LTR Standard	 Multiple	

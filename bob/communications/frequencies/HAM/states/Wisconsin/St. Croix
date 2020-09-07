@@ -1,41 +1,40 @@
-157.45000 	WQZH562 	RM	560 NAC	SCLAW1 	Law Dispatch 	P25 	Law Dispatch 
-155.58000 	KSR928 	RM	186.2 PL	SCLAW2 	Law Dispatch 	FMN 	Law Dispatch 
-156.22500 	KSF601 	RM	186.2 PL	SCOPS 	Operations/Special Events 	FMN 	Multi-Tac 
-154.32500 	KSI436 	RM	186.2 PL	SCFIRE 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-155.74500 	KOM289 	RM	186.2 PL	SCPAGE 	Fire/EMS Paging 	FMN 	Multi-Dispatch 
-150.99500 	WPXN807 	RM	186.2 PL	SCEVENT 	Events 1 	FMN 	Multi-Tac 
-453.61250 	KOM289 	RM	186.2 PL	SCJAIL 	Jail 	FMN 	Corrections 
-155.70000 	KSR928 	RM	186.2 PL	SCHWY 	Highway 	FMN 	Public Works 
-151.25000 	KSR928 	RM	77.0 PL	SCEM 	Emergency Management 	FMN 	Multi-Talk 
-453.40000 	KOM289 	RM	265 DPL	SCEM 	Emergency Management 	FMN 	Emergency Ops 
-453.16250 	WQVL952 	RM	CC 11TG 100SL 1	SCMAINT 	Health Center Maintenance, New Richmond 	DMR 	Public Works 
-453.45000 	WQVL952 	RM	CC 11TG *SL *	SCHHS 	Health & Human Services, New Richmond 	DMR 	Public Works 
-453.55000 	WQVL952 	RM	CC 11TG *SL *	SCGC 	County Government Center, Hudson 	DMR 	Public Works 
-37.10000 	WNBQ333 	BM		Baldwin DPW 	DPW 	FM 	Public Works 
-155.02500 	WQLQ872 	BM		Baldwin EMS 	EMS 	FMN 	EMS-Talk 
-155.09250 	WQTR397 	BM		Baldwin DPW 	DPW 	FMN 	Public Works 
-154.19000 	WPQY574 	BM	136.5 PL	GCFD 	Fire 	FMN 	Fire-Talk 
-151.17500 	WPYE356 	RM	179.9 PL	Hudson EMS 	EMS 	FMN 	EMS-Talk 
-155.95500 	KVP671 	RM	186.2 PL	Hudson PD 	Police Car-to-Car 	FMN 	Law Talk 
-152.41250 	WQNZ560 	RM	125 DPL	NewRichmndEMS 	EMS 	FMN 	EMS-Talk 
-154.10000 	WPYF763 	RM	245 DPL	NewRichmndPD 	Police 	FMN 	Law Talk 
-155.92500 	KDT384 	BM	186.2 PL	NewRichmndPW 	DPW 	FMN 	Public Works 
-155.14500 	WPGS693 	RM	151.4 PL	N Hudson DPW 	Police/DPW 	FMN 	Public Works 
-155.92500 	WPLQ955 	BM	136.5 PL	Roberts 	Public Works 	FMN 	Public Works 
-155.83500 	KNGN402 	BM		Somerset DPW 	DPW 	FMN 	Public Works 
-155.86500 	WNZL756 	RM	186.2 PL	Somerset PD 	Police 	FMN 	Law Talk 
-145.13000 	K9ZMA 	RM	110.9 PL	Skywarn 	St Croix County Skywarn - Hudson 	FM 	Ham 
-147.33000 	N9UPC 	RM	110.9 PL	ARES/RACES 	St Croix County - Roberts SKYWARN ARES/RACES 	FM 	Ham 
-151.62500 	 	M		Cedar Lake S 	Cedar Lake Speedway, New Richmond - Track Ops 	FM 	Business 
-454.00000 	 	M		Cedar Lake S 	Cedar Lake Speedway, New Richmond - Raceceiver 	FM 	Business 
-461.91250 	WQQB987 	RM		MidwestNG 	MIdwest Natural Gas 	DMR 	Utilities 
-155.34000 	KTH417 	BM	127.3 PL	Westfield B 	EMS to Westfield Hospital (New Richmond) 	FMN 	Hospital 
-155.34000 	KTH419 	BM	167.9 PL	Hudson HospB 	EMS to Hudson Memorial Hospital 	FMN 	Hospital 
-155.34000 	KTH419 	BM	82.5 PL	Baldwin Hosp 	EMS to Baldwin Hospital 	FMN 	Hospital 
-152.45750 	WQKA449 	RM	CC 1TG *SL *	Wstfld Maint 	Westfields Hospital Mantenance (Group 1) 	DMR 	Hospital 
-463.97500 	WQJT517 	RM		Allina Hosp 	Allina Hospitals - River Falls 	FMN 	Hospital 
-462.45000 	WQEK263 	RM		BAMC 	Baldwin Area Medical Center 	FMN 	Hospital 
-462.75000 	WQPS234 	B		SCMC Paging 	St Croix Medical Center Paging 	FMN 	Hospital 
-Air Communications of Wisconsin (Hudson)	 LTR Standard	 Hudson	Alpha-Ancom Connect Plus	 DMR Motorola Connect Plus (TRBO)	 	Dairyland Power Cooperative	 DMR Tier 3
- Various	General  Motors Research Corp	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hudson	Mobile Radio Engineering (NXDN)	 NXDN NEXEDGE 4800	 Varies	Rassbach Communications
- DMR Conventional Networked	 Eau Claire	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+157.45000 	153.74750  	WQZH562 	RM	560 NAC	SCLAW1 	Law Dispatch 	P25 	Law Dispatch 
+155.58000 	153.93500  	KSR928 	RM	186.2 PL	SCLAW2 	Law Dispatch 	FMN 	Law Dispatch 
+156.22500 	159.01500  	KSF601 	RM	186.2 PL	SCOPS 	Operations/Special Events 	FMN 	Multi-Tac 
+154.32500 	159.40500  	KSI436 	RM	186.2 PL	SCFIRE 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.74500 	150.79000  	KOM289 	RM	186.2 PL	SCPAGE 	Fire/EMS Paging 	FMN 	Multi-Dispatch 
+150.99500 	155.25000  	WPXN807 	RM	186.2 PL	SCEVENT 	Events 1 	FMN 	Multi-Tac 
+453.61250 	458.61250  	KOM289 	RM	186.2 PL	SCJAIL 	Jail 	FMN 	Corrections 
+155.70000 	159.21000  	KSR928 	RM	186.2 PL	SCHWY 	Highway 	FMN 	Public Works 
+151.25000 	154.95000  	KSR928 	RM	77.0 PL	SCEM 	Emergency Management 	FMN 	Multi-Talk 
+453.40000 	458.40000  	KOM289 	RM	265 DPL	SCEM 	Emergency Management 	FMN 	Emergency Ops 
+453.16250 	458.16250  	WQVL952 	RM	CC 11TG 100SL 1	SCMAINT 	Health Center Maintenance, New Richmond 	DMR 	Public Works 
+453.45000 	458.45000  	WQVL952 	RM	CC 11TG *SL *	SCHHS 	Health & Human Services, New Richmond 	DMR 	Public Works 
+453.55000 	458.55000  	WQVL952 	RM	CC 11TG *SL *	SCGC 	County Government Center, Hudson 	DMR 	Public Works 
+37.10000 	   	WNBQ333 	BM		Baldwin DPW 	DPW 	FM 	Public Works 
+155.02500 	   	WQLQ872 	BM		Baldwin EMS 	EMS 	FMN 	EMS-Talk 
+155.09250 	   	WQTR397 	BM		Baldwin DPW 	DPW 	FMN 	Public Works 
+154.19000 	   	WPQY574 	BM	136.5 PL	GCFD 	Fire 	FMN 	Fire-Talk 
+151.17500 	153.77000  	WPYE356 	RM	179.9 PL	Hudson EMS 	EMS 	FMN 	EMS-Talk 
+155.95500 	153.96500  	KVP671 	RM	186.2 PL	Hudson PD 	Police Car-to-Car 	FMN 	Law Talk 
+152.41250 	157.67250  	WQNZ560 	RM	125 DPL	NewRichmndEMS 	EMS 	FMN 	EMS-Talk 
+154.10000 	158.91000  	WPYF763 	RM	245 DPL	NewRichmndPD 	Police 	FMN 	Law Talk 
+155.92500 	   	KDT384 	BM	186.2 PL	NewRichmndPW 	DPW 	FMN 	Public Works 
+155.14500 	155.85000  	WPGS693 	RM	151.4 PL	N Hudson DPW 	Police/DPW 	FMN 	Public Works 
+155.92500 	   	WPLQ955 	BM	136.5 PL	Roberts 	Public Works 	FMN 	Public Works 
+155.83500 	   	KNGN402 	BM		Somerset DPW 	DPW 	FMN 	Public Works 
+155.86500 	153.90500  	WNZL756 	RM	186.2 PL	Somerset PD 	Police 	FMN 	Law Talk 
+145.13000 	144.53000  	K9ZMA 	RM	110.9 PL	Skywarn 	St Croix County Skywarn - Hudson 	FM 	Ham 
+147.33000 	147.93000  	N9UPC 	RM	110.9 PL	ARES/RACES 	St Croix County - Roberts SKYWARN ARES/RACES 	FM 	Ham 
+151.62500 	   	 	M		Cedar Lake S 	Cedar Lake Speedway, New Richmond - Track Ops 	FM 	Business 
+454.00000 	   	 	M		Cedar Lake S 	Cedar Lake Speedway, New Richmond - Raceceiver 	FM 	Business 
+461.91250 	466.91250  	WQQB987 	RM		MidwestNG 	MIdwest Natural Gas 	DMR 	Utilities 
+155.34000 	   	KTH417 	BM	127.3 PL	Westfield B 	EMS to Westfield Hospital (New Richmond) 	FMN 	Hospital 
+155.34000 	   	KTH419 	BM	167.9 PL	Hudson HospB 	EMS to Hudson Memorial Hospital 	FMN 	Hospital 
+155.34000 	   	KTH419 	BM	82.5 PL	Baldwin Hosp 	EMS to Baldwin Hospital 	FMN 	Hospital 
+152.45750 	157.71750  	WQKA449 	RM	CC 1TG *SL *	Wstfld Maint 	Westfields Hospital Mantenance (Group 1) 	DMR 	Hospital 
+463.97500 	468.97500  	WQJT517 	RM		Allina Hosp 	Allina Hospitals - River Falls 	FMN 	Hospital 
+462.45000 	467.45000  	WQEK263 	RM		BAMC 	Baldwin Area Medical Center 	FMN 	Hospital 
+462.75000 	   	WQPS234 	B		SCMC Paging 	St Croix Medical Center Paging 	FMN 	Hospital 
+Air Communications of Wisconsin (Hudson)	 LTR Standard	 Hudson	Alpha-Ancom Connect Plus	 DMR Motorola Connect Plus (TRBO)	 	Dairyland Power Cooperative	 DMR Tier 3	 Various
+General  Motors Research Corp	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hudson	Mobile Radio Engineering (NXDN)	 NXDN NEXEDGE 4800	 Varies	Rassbach Communications	 DMR Conventional Networked	 Eau Claire

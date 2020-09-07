@@ -1,13 +1,12 @@
-155.23500 	KNDY252 	BM	156.7 PL	Montgomery Co FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-453.52500 	WNRF591 	RM		MontgomeryCoJail 	County Jail 	FMN 	Corrections 
-155.56500 	WQHB485 	RM	97.4 PL	Independence PD1 	Police (Dispatch before KSICS) 	FMN 	Law Dispatch 
-155.62500 	KLK600 	BM	179.9 PL	Independence PD2 	Police (Secondary before KSICS) 	FMN 	Law Tac 
-155.83500 	KAP255 	BM	136.5 PL	Independence FD 	Fire 	FMN 	Fire Dispatch 
-462.97500 	 	RM	152 DPL	Independence EMS 	EMS 	FMN 	EMS Dispatch 
-159.82500 	WQQC973 	BM	612 DPL	IndependenceSchl 	Public School Buses 	FMN 	Schools 
-453.92500 	WPQY797 	RM	516 DPL	Elk City Park 	Elk City State Park 	FMN 	Public Works 
-151.46000 	WQPY595 	RM		Caney PD and FD 	Police and Fire (Dispatch before NXDN System) 	FMN 	Multi-Dispatch 
-453.18750 	WQBK428 	RM	031 DPL	Cherryvale Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-460.60000 	WPBI537 	RM	91.5 PL	Coffeyvile Fire 	Fire (Dispatch before NXDN System) 	FMN 	Fire Dispatch 
-Action Communications	 NXDN NEXEDGE 9600	 Various	Coffeyville Resources Refining and Marketing	 DMR Motorola Capacity Plus Single Site (TRBO)	 Correyville	Kansas Statewide Interoperable Communication System (KSICS)	 Project 25 Phase I
- Statewide	Westar Energy (KS/MO)	 Motorola Type II SmartZone	 Various	
+155.23500 	   	KNDY252 	BM	156.7 PL	Montgomery Co FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+453.52500 	458.52500  	WNRF591 	RM		MontgomeryCoJail 	County Jail 	FMN 	Corrections 
+155.56500 	159.06000  	WQHB485 	RM	97.4 PL	Independence PD1 	Police (Dispatch before KSICS) 	FMN 	Law Dispatch 
+155.62500 	   	KLK600 	BM	179.9 PL	Independence PD2 	Police (Secondary before KSICS) 	FMN 	Law Tac 
+155.83500 	   	KAP255 	BM	136.5 PL	Independence FD 	Fire 	FMN 	Fire Dispatch 
+462.97500 	467.97500  	 	RM	152 DPL	Independence EMS 	EMS 	FMN 	EMS Dispatch 
+159.82500 	   	WQQC973 	BM	612 DPL	IndependenceSchl 	Public School Buses 	FMN 	Schools 
+453.92500 	458.92500  	WPQY797 	RM	516 DPL	Elk City Park 	Elk City State Park 	FMN 	Public Works 
+151.46000 	153.74000  	WQPY595 	RM		Caney PD and FD 	Police and Fire (Dispatch before NXDN System) 	FMN 	Multi-Dispatch 
+453.18750 	458.18750  	WQBK428 	RM	031 DPL	Cherryvale Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+460.60000 	465.60000  	WPBI537 	RM	91.5 PL	Coffeyvile Fire 	Fire (Dispatch before NXDN System) 	FMN 	Fire Dispatch 
+Action Communications	 NXDN NEXEDGE 9600	 Various	Coffeyville Resources Refining and Marketing	 DMR Motorola Capacity Plus Single Site (TRBO)	 Correyville	Westar Energy (KS/MO)	 Motorola Type II SmartZone	 Various

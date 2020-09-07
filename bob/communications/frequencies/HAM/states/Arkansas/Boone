@@ -1,28 +1,28 @@
-453.57500 	WNJE468 	RM	174 DPL	Boone OEM 	Emergency Management 	FMN 	Emergency Ops 
-154.05500 	KNCZ253 	RM	123.0 PL	Boone Fire S 	Rural Fire Departments - South Tower 	FMN 	Fire Dispatch 
-155.61000 	WPGV394 	RM	123.0 PL	Boone Fire N 	Rural Fire Departments - North Tower 	FMN 	Fire Dispatch 
-154.88250 	WQFI444 	RM	115 DPL	Boone Fire E 	Rural Fire Departments - East Tower 	FMN 	Fire Dispatch 
-155.61000 	WPGV394 	RM	167.9 PL	BooneFire LH 	Rural Fire Departments - Lead Hill Tower 	FMN 	Fire Dispatch 
-155.76750 	WQFI444 	RM	85.4 PL	Boone Fire W 	Rural Fire Departments - West Tower 	FMN 	Fire Dispatch 
-154.07000 	WRG552 	RM	107.2 PL	Capps Fire 	Capps-Batavia Volunteer Fire Dispatch 	FMN 	Fire Dispatch 
-460.50000 	WPPV213 	RM	CC 1TG 1SL 1	Boone SO E D 	Sheriff - East *Digital* 	DMR 	Law Dispatch 
-460.50000 	WPPV213 	RM	143 DPL	Boone SO E A 	Sheriff - East *Analog* 	FMN 	Law Dispatch 
-460.32500 	WPPV213 	RM	CC 1TG 1SL 1	Boone SO S 	Sheriff - South 	DMR 	Law Dispatch 
-453.62500 	WPUJ207 	RM	CC 1TG 1SL 1	Boone SO N1 	Sheriff - North 1 	DMR 	Law Dispatch 
-460.05000 	WPPV213 	RM		Boone SO N2 	Sheriff - North 2 	DMR 	Law Dispatch 
-37.16000 	WPUJ207 	RM	156.7 PL	BooneShrfRF 	SO UHF Simulcast Link 	FM 	Law Dispatch 
-147.00000 	 	RM	123.0 PL	SKYWARN 	Area SKYWARN 	FM 	Ham 
-150.79000 	WPWZ440 	M		N AR REG OPS 	North Arkansas Regional Operations 	FMN 	Hospital 
-155.10000 	WPUX865 	BM		N AR REG PGR 	North Arkansas Regional Ambulance Operations 	FMN 	EMS Dispatch 
-155.34000 	KNBW359 	BM		HEAR 	North Arkansas Regional Ambulance-to-Hospital 	FMN 	Hospital 
-460.10000 	WQBS673 	RM	664 DPL	HPD-DISP A 	Police Dispatch *Analog* 	FMN 	Law Dispatch 
-460.10000 	WQBS673 	RM	CC 6TG 1SL 1	HPD-DISP D 	Police Dispatch *Digital* 	DMR 	Law Dispatch 
-460.37500 	 	RM	664 DPL	Harrison CID 	Police CID 	FMN 	Law Tac 
-460.60000 	WQCF320 	RM		HarrisonFD D 	Fire *Digital* (not in use) 	DMR 	Fire Dispatch 
-453.95000 	WPLD224 	RM	664 DPL	HarrisonFD A 	Fire Primary 	FMN 	Public Works 
-155.35500 	KNBW359 	BM	311 DPL	Harrison Amb 	Ambulance 	FMN 	EMS Dispatch 
-154.85250 	KNBW359 	RM		NARMC-OPS 	North Arkansas Regional Medical Center - Operations 	FMN 	Hospital 
-453.95000 	WPLD224 	RM		Streets D 	Street Department *Digital* 	DMR 	Public Works 
-154.38500 	WPWX573 	RM	136.5 PL	VALY SPRNGS FIRE 	Fire 	FMN 	Fire Dispatch 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	Smith Two-Way Radio (Harrison)	 LTR Standard	 Harrison	
+453.57500 	458.57500  	WNJE468 	RM	174 DPL	Boone OEM 	Emergency Management 	FMN 	Emergency Ops 
+154.05500 	158.88000  	KNCZ253 	RM	123.0 PL	Boone Fire S 	Rural Fire Departments - South Tower 	FMN 	Fire Dispatch 
+155.61000 	158.92500  	WPGV394 	RM	123.0 PL	Boone Fire N 	Rural Fire Departments - North Tower 	FMN 	Fire Dispatch 
+154.88250 	156.02250  	WQFI444 	RM	115 DPL	Boone Fire E 	Rural Fire Departments - East Tower 	FMN 	Fire Dispatch 
+155.61000 	158.92500  	WPGV394 	RM	167.9 PL	BooneFire LH 	Rural Fire Departments - Lead Hill Tower 	FMN 	Fire Dispatch 
+155.76750 	154.03250  	WQFI444 	RM	85.4 PL	Boone Fire W 	Rural Fire Departments - West Tower 	FMN 	Fire Dispatch 
+154.07000 	155.71500  	WRG552 	RM	107.2 PL	Capps Fire 	Capps-Batavia Volunteer Fire Dispatch 	FMN 	Fire Dispatch 
+460.50000 	465.50000  	WPPV213 	RM	CC 1TG 1SL 1	Boone SO E D 	Sheriff - East *Digital* 	DMR 	Law Dispatch 
+460.50000 	465.50000  	WPPV213 	RM	143 DPL	Boone SO E A 	Sheriff - East *Analog* 	FMN 	Law Dispatch 
+460.32500 	465.32500  	WPPV213 	RM	CC 1TG 1SL 1	Boone SO S 	Sheriff - South 	DMR 	Law Dispatch 
+453.62500 	458.62500  	WPUJ207 	RM	CC 1TG 1SL 1	Boone SO N1 	Sheriff - North 1 	DMR 	Law Dispatch 
+460.05000 	465.05000  	WPPV213 	RM		Boone SO N2 	Sheriff - North 2 	DMR 	Law Dispatch 
+37.16000 	   	WPUJ207 	RM	156.7 PL	BooneShrfRF 	SO UHF Simulcast Link 	FM 	Law Dispatch 
+147.00000 	146.40000  	 	RM	123.0 PL	SKYWARN 	Area SKYWARN 	FM 	Ham 
+150.79000 	   	WPWZ440 	M		N AR REG OPS 	North Arkansas Regional Operations 	FMN 	Hospital 
+155.10000 	   	WPUX865 	BM		N AR REG PGR 	North Arkansas Regional Ambulance Operations 	FMN 	EMS Dispatch 
+155.34000 	   	KNBW359 	BM		HEAR 	North Arkansas Regional Ambulance-to-Hospital 	FMN 	Hospital 
+460.10000 	465.10000  	WQBS673 	RM	664 DPL	HPD-DISP A 	Police Dispatch *Analog* 	FMN 	Law Dispatch 
+460.10000 	465.10000  	WQBS673 	RM	CC 6TG 1SL 1	HPD-DISP D 	Police Dispatch *Digital* 	DMR 	Law Dispatch 
+460.37500 	465.37500  	 	RM	664 DPL	Harrison CID 	Police CID 	FMN 	Law Tac 
+460.60000 	465.60000  	WQCF320 	RM		HarrisonFD D 	Fire *Digital* (not in use) 	DMR 	Fire Dispatch 
+453.95000 	458.95000  	WPLD224 	RM	664 DPL	HarrisonFD A 	Fire Primary 	FMN 	Public Works 
+155.35500 	   	KNBW359 	BM	311 DPL	Harrison Amb 	Ambulance 	FMN 	EMS Dispatch 
+154.85250 	159.12750  	KNBW359 	RM		NARMC-OPS 	North Arkansas Regional Medical Center - Operations 	FMN 	Hospital 
+453.95000 	458.95000  	WPLD224 	RM		Streets D 	Street Department *Digital* 	DMR 	Public Works 
+154.38500 	159.06000  	WPWX573 	RM	136.5 PL	VALY SPRNGS FIRE 	Fire 	FMN 	Fire Dispatch 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various
+Smith Two-Way Radio (Harrison)	 LTR Standard	 Harrison	

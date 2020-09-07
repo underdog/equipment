@@ -1,36 +1,36 @@
-158.82750 	WQUS464 	RM	411 DPL	WhiteSheriff 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-155.55000 	KOM938 	RM	146.2 PL	WhiteShrf*O 	Sheriff: Dispatch - Old 	FMN 	Law Dispatch 
-159.00000 	WQTU971 	RM	88.5 PL	White 911  	911 Dispatch  	FMN 	Fire Dispatch 
-154.43000 	WQND256 	BM	186.2 PL	White Fire  	Fire/EMS: Countywide 	FMN 	Fire-Tac 
-151.40000 	WNDR580 	RM	162.2 PL	White EMS 	EMS: Dispatch  	FMN 	EMS Dispatch 
-155.11500 	KJY819 	RM		Whit Highway 	Highway Department ? 	FMN 	Public Works 
-154.54000 	KYK931 	BM		Camp FunHom 	Operations 	FMN 	Business 
-155.34000 	KYC250 	BM	91.5 PL	MERCI1 94.8 	Patient Reports [Expired] 	FMN 	Hospital 
-155.34000 	WPUJ426 	B		MERCI-1 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
-155.28000 	WPUJ426 	B		IDPH S/W Net 	IDPH Statewide Hospital Disaster Coordination  	FMN 	Hospital 
-159.19500 	WNCH605 	BM		CarmiTwpRoad 	Carmi Township Road Maintenance 	FMN 	Public Works 
-159.19500 	WNWU589 	BM		PhilpTwpRoad 	Phillips Township Road Maintenance 	FMN 	Public Works 
-173.39000 	WFE692 	F		GWWD WDD 	Gallatin White Water District  	Telm 	Data 
-457.62500 	WPMJ273 	F		BWP WDD 	Brownsville Water Project 	Telm 	Data 
-155.55000 	KOM938 	RM	88.5 PL	Carmi Police 	Police: Dispatch (possible tone, old Sheriff) 	FMN 	Law Dispatch 
-158.77500 	WPXT608 	RM		Carmi Local 	City Operations 	FMN 	Public Works 
-457.35000 	WPLS804 	F		Carmi WDD  	Water Distribution Data 	Telm 	Public Works 
-154.25000 	WNRQ320 	BM		Crsv Fire 2 	Fire (or possilbly Police CSQ?) 	FMN 	Fire Dispatch 
-154.10000 	WPRX518 	BM		Crsv WtrSwr 	Water / Sewer 	FMN 	Public Works 
-154.02500 	KNCT761 	BM		Enfd Local 	Village Ops 	FMN 	Public Works 
-154.96500 	WNJR841 	RM	32 RAN	Gryvl Police 	Police: Local 	NXDNE 	Law Dispatch 
-154.43000 	 	BM		White Fire 1 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.22000 	WZJ294 	BM		MERCI-2 	EMS: Dispatch ? 	FMN 	EMS Dispatch 
-158.77500 	KVJ626 	BM		Gryv Local 	Local / Public Works 	FMN 	Public Works 
-453.43750 	WQLC407 	F		Grvl Water 	Water Data 	Telm 	Data 
-154.43000 	KWL555 	BM		White Fire 1 	Fire: Countywide Dispatch 	FMN 	Fire Dispatch 
-154.07000 	WNJZ704 	M		NorrisCty FG 	Fireground / Local / Interops 	FMN 	Fire-Tac 
-155.16000 	WPJK361 	BM		NC EMS Disp? 	EMS: Dispatch? [MERCI-3] 	FMN 	EMS Dispatch 
-154.08500 	KYJ295 	BM		NCty Local 	Village Ops 	FMN 	Public Works 
-451.28750 	WQRY429 	F		NCty WDD 	Water Distribution Data 	Telm 	Data 
-155.68500 	WQLG777 	RM		GryvSch Bus 	Buses / Ops 	FMN 	Schools 
-118.42500 	 	BM	CSQ	CUL AWOS-3 	Weather AWOS-3 	AM 	Aircraft 
-122.80000 	KNL6 	B	CSQ	CUL CTAF 	CTAF/UNICOM 	AM 	Aircraft 
-128.30000 	 	BM	CSQ	Evansvl RCAG 	Approach/Departure (Indianapolis) 	AM 	Aircraft 
-Mobile Radio Specialists (White)	 LTR Standard	 Burnt Prairie	Roy Walker Communications (DMR)	 DMR Conventional Networked	 Makanda	VEI Communications FleetTalk	 NXDN NEXEDGE 4800
- Various	
+158.82750 	153.89750  	WQUS464 	RM	411 DPL	WhiteSheriff 	Sheriff: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+155.55000 	153.87500  	KOM938 	RM	146.2 PL	WhiteShrf*O 	Sheriff: Dispatch - Old 	FMN 	Law Dispatch 
+159.00000 	156.01500  	WQTU971 	RM	88.5 PL	White 911  	911 Dispatch  	FMN 	Fire Dispatch 
+154.43000 	   	WQND256 	BM	186.2 PL	White Fire  	Fire/EMS: Countywide 	FMN 	Fire-Tac 
+151.40000 	155.88000  	WNDR580 	RM	162.2 PL	White EMS 	EMS: Dispatch  	FMN 	EMS Dispatch 
+155.11500 	156.04500  	KJY819 	RM		Whit Highway 	Highway Department ? 	FMN 	Public Works 
+154.54000 	   	KYK931 	BM		Camp FunHom 	Operations 	FMN 	Business 
+155.34000 	   	KYC250 	BM	91.5 PL	MERCI1 94.8 	Patient Reports [Expired] 	FMN 	Hospital 
+155.34000 	   	WPUJ426 	B		MERCI-1 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+155.28000 	   	WPUJ426 	B		IDPH S/W Net 	IDPH Statewide Hospital Disaster Coordination  	FMN 	Hospital 
+159.19500 	   	WNCH605 	BM		CarmiTwpRoad 	Carmi Township Road Maintenance 	FMN 	Public Works 
+159.19500 	   	WNWU589 	BM		PhilpTwpRoad 	Phillips Township Road Maintenance 	FMN 	Public Works 
+173.39000 	   	WFE692 	F		GWWD WDD 	Gallatin White Water District  	Telm 	Data 
+457.62500 	   	WPMJ273 	F		BWP WDD 	Brownsville Water Project 	Telm 	Data 
+155.55000 	156.09000  	KOM938 	RM	88.5 PL	Carmi Police 	Police: Dispatch (possible tone, old Sheriff) 	FMN 	Law Dispatch 
+158.77500 	153.87500  	WPXT608 	RM		Carmi Local 	City Operations 	FMN 	Public Works 
+457.35000 	   	WPLS804 	F		Carmi WDD  	Water Distribution Data 	Telm 	Public Works 
+154.25000 	   	WNRQ320 	BM		Crsv Fire 2 	Fire (or possilbly Police CSQ?) 	FMN 	Fire Dispatch 
+154.10000 	   	WPRX518 	BM		Crsv WtrSwr 	Water / Sewer 	FMN 	Public Works 
+154.02500 	   	KNCT761 	BM		Enfd Local 	Village Ops 	FMN 	Public Works 
+154.96500 	153.93500  	WNJR841 	RM	32 RAN	Gryvl Police 	Police: Local 	NXDNE 	Law Dispatch 
+154.43000 	   	 	BM		White Fire 1 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.22000 	   	WZJ294 	BM		MERCI-2 	EMS: Dispatch ? 	FMN 	EMS Dispatch 
+158.77500 	   	KVJ626 	BM		Gryv Local 	Local / Public Works 	FMN 	Public Works 
+453.43750 	458.43750  	WQLC407 	F		Grvl Water 	Water Data 	Telm 	Data 
+154.43000 	   	KWL555 	BM		White Fire 1 	Fire: Countywide Dispatch 	FMN 	Fire Dispatch 
+154.07000 	   	WNJZ704 	M		NorrisCty FG 	Fireground / Local / Interops 	FMN 	Fire-Tac 
+155.16000 	   	WPJK361 	BM		NC EMS Disp? 	EMS: Dispatch? [MERCI-3] 	FMN 	EMS Dispatch 
+154.08500 	   	KYJ295 	BM		NCty Local 	Village Ops 	FMN 	Public Works 
+451.28750 	   	WQRY429 	F		NCty WDD 	Water Distribution Data 	Telm 	Data 
+155.68500 	159.08250  	WQLG777 	RM		GryvSch Bus 	Buses / Ops 	FMN 	Schools 
+118.42500 	   	 	BM	CSQ	CUL AWOS-3 	Weather AWOS-3 	AM 	Aircraft 
+122.80000 	   	KNL6 	B	CSQ	CUL CTAF 	CTAF/UNICOM 	AM 	Aircraft 
+128.30000 	   	 	BM	CSQ	Evansvl RCAG 	Approach/Departure (Indianapolis) 	AM 	Aircraft 
+Mobile Radio Specialists (White)	 LTR Standard	 Burnt Prairie	Rides Mass Transit District (DMR)	 DMR Conventional Networked	 Southern IL	Roy Walker Communications (DMR)	 DMR Conventional Networked	 Makanda
+VEI Communications FleetTalk	 NXDN NEXEDGE 4800	 Various	

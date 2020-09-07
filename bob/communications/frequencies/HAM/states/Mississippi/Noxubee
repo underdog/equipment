@@ -1,10 +1,9 @@
-155.02500 	WNVH249  	RM	110.9 PL	NCEOC 	County Fire/Emergency Management Dispatch/Tone Out 	FMN 	Emergency Ops 
-155.71500 	WQBU536  	RM		NCLAW 	County Law Enforcement Dispatch (Backup) 	FMN 	Law Dispatch 
-855.23750 	WQCC279 	RM		NC DPW TA1 	County Services Talkaround 1 	FM 	Interop 
-855.73750 	WQCC279 	RM		NC DPW TA2 	County Services Talkaround 2 	FM 	Interop 
-155.25750 	WPZT287 	RM		MACON FD BU 	Fire Department Backup 	FMN 	Fire Dispatch 
-155.07750 	WPZT287 	RM		MACON PD B1 	Police Department Backup 1 	FMN 	Law Tac 
-155.67750 	WPZT287 	RM		MACON PD B2 	Police Department Backup 2 	FMN 	Law Tac 
-154.10000 	KRG842 	BM		MACON DPW BU 	Departemnt of Public Works Backup 	FMN 	Public Works 
-Entergy 	 Project 25 Phase II	 Various	Mississippi Wireless Integrated Network (MSWIN)	 Project 25 Phase II	 Jackson	Noxubee County	 EDACS Standard
- Macon	Noxubee County P25	 Project 25 Phase I	 Macon	
+155.02500 	153.98000  	WNVH249  	RM	110.9 PL	NCEOC 	County Fire/Emergency Management Dispatch/Tone Out 	FMN 	Emergency Ops 
+155.71500 	153.74000  	WQBU536  	RM		NCLAW 	County Law Enforcement Dispatch (Backup) 	FMN 	Law Dispatch 
+855.23750 	810.23750  	WQCC279 	RM		NC DPW TA1 	County Services Talkaround 1 	FM 	Interop 
+855.73750 	810.73750  	WQCC279 	RM		NC DPW TA2 	County Services Talkaround 2 	FM 	Interop 
+155.25750 	   	WPZT287 	RM		MACON FD BU 	Fire Department Backup 	FMN 	Fire Dispatch 
+155.07750 	   	WPZT287 	RM		MACON PD B1 	Police Department Backup 1 	FMN 	Law Tac 
+155.67750 	   	WPZT287 	RM		MACON PD B2 	Police Department Backup 2 	FMN 	Law Tac 
+154.10000 	   	KRG842 	BM		MACON DPW BU 	Departemnt of Public Works Backup 	FMN 	Public Works 
+Entergy 	 Project 25 Phase II	 Various	Noxubee County	 EDACS Standard	 Macon	Noxubee County P25	 Project 25 Phase I	 Macon

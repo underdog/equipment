@@ -1,33 +1,33 @@
-154.83000 	KUZ813 	RM	064 NAC	Nac Co SO 1 	Sheriff Dispatch 	P25 	Law Dispatch 
-155.62500 	KUZ813 	BM	293 NAC	Nac Co SO 2 	Sheriff Ch. 2 	P25 	Law Tac 
-154.95000 	KUZ813 	M	192.8 PL	Nac Co SO 3 	Sheriff Ch 3 	FMN 	Law Tac 
-155.68500 	KUZ813 	M	293 NAC	Nac Co SO Un 	Sheriff Unidentified simplex 	P25 	Law Tac 
-155.73750 	WQCC345 	RM	103.5 PL	Nac Co Jail 	Sheriff Jail 	FMN 	Corrections 
-154.37000 	WYR319 	RM	172 DPL	Nac Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-152.37500 	WQHQ490 	RM	192.8 PL	Nac EMS Disp 	Hospital District EMS Dispatch 	FMN 	EMS Dispatch 
-155.34000 	KNCW971 	BM	127.3 PL	Texas Med 1 	Hospitals and Air Med, Interops 	FMN 	Hospital 
-158.74500 	KNFG717 	RM	203.5 PL	Nac Co Roads 	Road and Bridge 	FMN 	Public Works 
-451.72500 	WPWV938 	RM	351 DPL	Nac Hosp Dis 	Hospital District Admin, Maintenance 	FMN 	Other 
-154.16000 	WPFU681 	RM	192.8 PL	Cushing Fire 	Fire Repeater 	FMN 	Fire-Tac 
-154.22750 	WPRS329 	RM	127.3 PL	Etoile Fire Rept 	Fire Repeater 	FMN 	Fire-Tac 
-154.11500 	WNBB964 	BM	192.8 PL	Garrison Fire 	Fire Tactical/Private 	FMN 	Fire-Tac 
-155.25750 	WPYM335 	RM	293 NAC	Nacog Fire 1 	Fire Dispatch 	P25 	Fire Dispatch 
-155.91750 	WPYM335 	BM		Nacog Fire 2 	Fire Tactical 	P25 	Fire-Tac 
-460.57500 	WSW316 	RM	156 DPL	Nacog Fire Page 	Fire Pagers (Simulcasts 155.2575) 	FM 	Fire Dispatch 
-154.77000 	WNCW263 	RM	293 NAC	Nacog PD VHF 1 	Police VHF Dispatch (Linked to LCRA TG 15528) 	P25 	Law Dispatch 
-155.31750 	WPXW279 	RM		Nacog PD VHF 2 	Police VHF Secondary 	P25 	Law Tac 
-155.82000 	WNCW263 	RM		Nacog PD VHF 5 	Police VHF Car to Car 	P25 	Law Talk 
-158.86500 	WPEP892 	RM	293 NAC	Nacog Public Wks 	Public Works Dispatch 	P25 	Public Works 
-451.03750 	WPTH780 	RM		Nacog PW DATA 	Public Works Water Telemetry 	Telm 	Data 
-151.85000 	WQIH607 	RM	192.8 PL	Nac ISD NHS 	NISD Nacogdoches High School 	FMN 	Schools 
-155.59500 	WPRR730 	RM	114 DPL	Nac ISD PD 1 	NISD Police Dispatch 	FMN 	Law Dispatch 
-451.77500 	WPPH777 	RM	025 DPL	Nac ISD Mntn 	NISD Maintenance, Administration 	FM 	Schools 
-464.60000 	WQGA320 	RM	155 DPL	Nac ISD Bus 	NISD School Buses 	FM 	Schools 
-152.27000 	WQCB659 	RM	136.5 PL	Cent Hts ISD Bus 	Central Heights ISD School Buses 	FMN 	Schools 
-151.97750 	WQBZ523 	RM	999 NAC	SFA Police VHF 1 	Police Dispatch (Old) 	P25 	Law Dispatch 
-155.79000 	WPRR846 	RM	192.8 PL	SFA Police VHF 2 	Police Talkaround/Security (Old) 	FMN 	Law Talk 
-152.42000 	WQBZ523 	RM	192.8 PL	SFA Ops VHF 	VHF Repeater (unknown use) 	FMN 	Schools 
-461.52500 	WNQA327 	RM	172 DPL	SFA Parking 	Parking Services 	FM 	Schools 
-464.02500 	WNSV527 	RM	346 DPL	SFA Maint 	Physical Plant 	FM 	Schools 
-DFW Communications (Nacogdoches)	 LTR Standard	 Nacogdoches	Nalcom (Nacogdoches)	 LTR Standard	 Nacogdoches	Oncor Energy	 EDACS Narrowband Networked
- Various	
+154.83000 	155.65500  	KUZ813 	RM	064 NAC	Nac Co SO 1 	Sheriff Dispatch 	P25 	Law Dispatch 
+155.62500 	   	KUZ813 	BM	293 NAC	Nac Co SO 2 	Sheriff Ch. 2 	P25 	Law Tac 
+154.95000 	   	KUZ813 	M	192.8 PL	Nac Co SO 3 	Sheriff Ch 3 	FMN 	Law Tac 
+155.68500 	   	KUZ813 	M	293 NAC	Nac Co SO Un 	Sheriff Unidentified simplex 	P25 	Law Tac 
+155.73750 	154.09250  	WQCC345 	RM	103.5 PL	Nac Co Jail 	Sheriff Jail 	FMN 	Corrections 
+154.37000 	153.77000  	WYR319 	RM	172 DPL	Nac Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+152.37500 	157.63500  	WQHQ490 	RM	192.8 PL	Nac EMS Disp 	Hospital District EMS Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	KNCW971 	BM	127.3 PL	Texas Med 1 	Hospitals and Air Med, Interops 	FMN 	Hospital 
+158.74500 	153.74000  	KNFG717 	RM	203.5 PL	Nac Co Roads 	Road and Bridge 	FMN 	Public Works 
+451.72500 	456.72500  	WPWV938 	RM	351 DPL	Nac Hosp Dis 	Hospital District Admin, Maintenance 	FMN 	Other 
+154.16000 	154.83000  	WPFU681 	RM	192.8 PL	Cushing Fire 	Fire Repeater 	FMN 	Fire-Tac 
+154.22750 	158.94750  	WPRS329 	RM	127.3 PL	Etoile Fire Rept 	Fire Repeater 	FMN 	Fire-Tac 
+154.11500 	   	WNBB964 	BM	192.8 PL	Garrison Fire 	Fire Tactical/Private 	FMN 	Fire-Tac 
+155.25750 	159.12750  	WPYM335 	RM	293 NAC	Nacog Fire 1 	Fire Dispatch 	P25 	Fire Dispatch 
+155.91750 	   	WPYM335 	BM		Nacog Fire 2 	Fire Tactical 	P25 	Fire-Tac 
+460.57500 	465.57500  	WSW316 	RM	156 DPL	Nacog Fire Page 	Fire Pagers (Simulcasts 155.2575) 	FM 	Fire Dispatch 
+154.77000 	158.98500  	WNCW263 	RM	293 NAC	Nacog PD VHF 1 	Police VHF Dispatch (Linked to LCRA TG 15528) 	P25 	Law Dispatch 
+155.31750 	153.98750  	WPXW279 	RM		Nacog PD VHF 2 	Police VHF Secondary 	P25 	Law Tac 
+155.82000 	153.75500  	WNCW263 	RM		Nacog PD VHF 5 	Police VHF Car to Car 	P25 	Law Talk 
+158.86500 	153.81500  	WPEP892 	RM	293 NAC	Nacog Public Wks 	Public Works Dispatch 	P25 	Public Works 
+451.03750 	456.03750  	WPTH780 	RM		Nacog PW DATA 	Public Works Water Telemetry 	Telm 	Data 
+151.85000 	158.38500  	WQIH607 	RM	192.8 PL	Nac ISD NHS 	NISD Nacogdoches High School 	FMN 	Schools 
+155.59500 	153.84500  	WPRR730 	RM	114 DPL	Nac ISD PD 1 	NISD Police Dispatch 	FMN 	Law Dispatch 
+451.77500 	456.77500  	WPPH777 	RM	025 DPL	Nac ISD Mntn 	NISD Maintenance, Administration 	FM 	Schools 
+464.60000 	469.60000  	WQGA320 	RM	155 DPL	Nac ISD Bus 	NISD School Buses 	FM 	Schools 
+152.27000 	157.53000  	WQCB659 	RM	136.5 PL	Cent Hts ISD Bus 	Central Heights ISD School Buses 	FMN 	Schools 
+151.97750 	158.34750  	WQBZ523 	RM	999 NAC	SFA Police VHF 1 	Police Dispatch (Old) 	P25 	Law Dispatch 
+155.79000 	155.01000  	WPRR846 	RM	192.8 PL	SFA Police VHF 2 	Police Talkaround/Security (Old) 	FMN 	Law Talk 
+152.42000 	157.68000  	WQBZ523 	RM	192.8 PL	SFA Ops VHF 	VHF Repeater (unknown use) 	FMN 	Schools 
+461.52500 	466.52500  	WNQA327 	RM	172 DPL	SFA Parking 	Parking Services 	FM 	Schools 
+464.02500 	469.02500  	WNSV527 	RM	346 DPL	SFA Maint 	Physical Plant 	FM 	Schools 
+BrandMeister Texas	 DMR Conventional Networked	 Various	DFW Communications (Nacogdoches)	 LTR Standard	 Nacogdoches	Nalcom (Nacogdoches)	 LTR Standard	 Nacogdoches
+Oncor Energy	 EDACS Narrowband Networked	 Various	

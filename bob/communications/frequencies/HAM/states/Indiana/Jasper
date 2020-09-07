@@ -1,31 +1,30 @@
-154.72500 	KSB911 	RM	100.0 PL	JCSO Disp 	Sheriff Repeater 	FMN 	Law Dispatch 
-453.26250 	WQHQ226 	RM		JSCO Jail 	Jail Operations 	FMN 	Corrections 
-154.14500 	WQKE933 	BM	162.2 PL	Jasper Co FD 	Jasper County Fire Dispatch 	FMN 	Fire Dispatch 
-453.38750 	WQKE933 	F		UHF Link-DM1 	Jasper County Fire UHF Link - Demotte 	FMN 	Other 
-453.58750 	WQKE933 	F		UHF Link-DM2 	Jasper County Fire UHF Link - Demotte 	FMN 	Other 
-458.38750 	WQKE933 	F		UHF Link-DM3 	Jasper County Fire UHF Link - Demotte 	FMN 	Other 
-458.58750 	WQKE933 	F		UHF Link-DM4 	Jasper County Fire UHF Link - Demotte 	FMN 	Other 
-453.72500 	WQKE933 	F		UHF Link-RM1 	Jasper County Fire UHF Link - Remington 	FMN 	Other 
-458.15000 	WQKE933 	F		UHF Link-RN1 	Jasper County Fire UHF Link - Rensellaer 	FMN 	Other 
-458.72500 	WQKE933 	F	712 DPL	UHF Link-WH1 	Jasper County Fire UHF Link - Wheatfield 	FMN 	Other 
-151.30250 	KXT934 	BM	162.2 PL	KeenerTwpFD1 	Keener Township Fire 	FMN 	Fire-Tac 
-154.20500 	KBW211 	BM		RemmngtnFD 	Remington Fire 	FMN 	Fire-Tac 
-453.35000 	WQGC379 	M	141.3 PL	WheatfieldFD 	Wheatfield Fire 	FMN 	Fire-Tac 
-154.38500 	WPMK785 	RM	CSQ	PROMPT EMS 	PROMPT EMS Service 	FMN 	EMS Dispatch 
-154.28000 	KBW211 	BM		Fire MA 	Jasper County Fire Mutual Aid 	FMN 	Interop 
-156.18000 	WQGK637 	RM	136.5 PL	JasperCoHwy 	Jasper County Highway Department 	FMN 	Public Works 
-155.86500 	KUP781 	BM		JasperCoCOA 	Jasper County Council On Aging Transport Services 	FMN 	Other 
-153.78500 	KXH708 	BM	031 DPL	DemottePD 	Police 	FMN 	Law Dispatch 
-155.83500 	WNMD776 	BM	162 DPL	RemmngtnFD 	Remington Fire 	FMN 	Fire-Tac 
-155.55000 	KCJ773 	BM	023 DPL	RenssPolice 	Rensselaer Police 	FMN 	Law Dispatch 
-154.41500 	KNEL319 	BM	162 DPL	RenssFire 	Rensselaer Fire 	FMN 	Fire Dispatch 
-153.90500 	KD25161 	M		RenssElec 	Rensselaer Electric Utility 	FMN 	Utilities 
-155.14500 	KFX283 	BM		RenssUtil 	Rensselaer Municipal Utilities 	FMN 	Utilities 
-453.77500 	WNPC942 	RM		WheatfldDPW 	Wheatfield Public Works 	FMN 	Public Works 
-452.65000 	WPYK654 	RM		RSCS-School1 	Rensselaer Central School Corporation 	FMN 	Schools 
-461.35000 	WNBD581 	RM		RSCS-School2 	Rensselaer Central School Corporation 	FMN 	Schools 
-464.37500 	KTF251 	RM		KVSC-School1 	Kankakee Valley School Corporation 	FMN 	Schools 
-157.56000 	KNAL674 	BM		StJoColgSec 	Security 	FMN 	Security 
-463.55000 	WPMH462 	RM		StJoColgOps 	School Operations 	FMN 	Schools 
-Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Northern Indiana Public Service Company 800Mhz	 Motorola Type II Smartnet	 Multiple	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3
- Multiple	
+154.72500 	158.97000  	KSB911 	RM	100.0 PL	JCSO Disp 	Sheriff Repeater 	FMN 	Law Dispatch 
+453.26250 	458.26250  	WQHQ226 	RM		JSCO Jail 	Jail Operations 	FMN 	Corrections 
+154.14500 	   	WQKE933 	BM	162.2 PL	Jasper Co FD 	Jasper County Fire Dispatch 	FMN 	Fire Dispatch 
+453.38750 	   	WQKE933 	F		UHF Link-DM1 	Jasper County Fire UHF Link - Demotte 	FMN 	Other 
+453.58750 	   	WQKE933 	F		UHF Link-DM2 	Jasper County Fire UHF Link - Demotte 	FMN 	Other 
+458.38750 	   	WQKE933 	F		UHF Link-DM3 	Jasper County Fire UHF Link - Demotte 	FMN 	Other 
+458.58750 	   	WQKE933 	F		UHF Link-DM4 	Jasper County Fire UHF Link - Demotte 	FMN 	Other 
+453.72500 	   	WQKE933 	F		UHF Link-RM1 	Jasper County Fire UHF Link - Remington 	FMN 	Other 
+458.15000 	   	WQKE933 	F		UHF Link-RN1 	Jasper County Fire UHF Link - Rensellaer 	FMN 	Other 
+458.72500 	   	WQKE933 	F	712 DPL	UHF Link-WH1 	Jasper County Fire UHF Link - Wheatfield 	FMN 	Other 
+151.30250 	   	KXT934 	BM	162.2 PL	KeenerTwpFD1 	Keener Township Fire 	FMN 	Fire-Tac 
+154.20500 	   	KBW211 	BM		RemmngtnFD 	Remington Fire 	FMN 	Fire-Tac 
+453.35000 	458.35000  	WQGC379 	M	141.3 PL	WheatfieldFD 	Wheatfield Fire 	FMN 	Fire-Tac 
+154.38500 	151.30250  	WPMK785 	RM	CSQ	PROMPT EMS 	PROMPT EMS Service 	FMN 	EMS Dispatch 
+154.28000 	   	KBW211 	BM		Fire MA 	Jasper County Fire Mutual Aid 	FMN 	Interop 
+156.18000 	159.04500  	WQGK637 	RM	136.5 PL	JasperCoHwy 	Jasper County Highway Department 	FMN 	Public Works 
+155.86500 	   	KUP781 	BM		JasperCoCOA 	Jasper County Council On Aging Transport Services 	FMN 	Other 
+153.78500 	   	KXH708 	BM	031 DPL	DemottePD 	Police 	FMN 	Law Dispatch 
+155.83500 	   	WNMD776 	BM	162 DPL	RemmngtnFD 	Remington Fire 	FMN 	Fire-Tac 
+155.55000 	   	KCJ773 	BM	023 DPL	RenssPolice 	Rensselaer Police 	FMN 	Law Dispatch 
+154.41500 	   	KNEL319 	BM	162 DPL	RenssFire 	Rensselaer Fire 	FMN 	Fire Dispatch 
+153.90500 	   	KD25161 	M		RenssElec 	Rensselaer Electric Utility 	FMN 	Utilities 
+155.14500 	   	KFX283 	BM		RenssUtil 	Rensselaer Municipal Utilities 	FMN 	Utilities 
+453.77500 	458.77500  	WNPC942 	RM		WheatfldDPW 	Wheatfield Public Works 	FMN 	Public Works 
+452.65000 	457.65000  	WPYK654 	RM		RSCS-School1 	Rensselaer Central School Corporation 	FMN 	Schools 
+461.35000 	466.35000  	WNBD581 	RM		RSCS-School2 	Rensselaer Central School Corporation 	FMN 	Schools 
+464.37500 	469.37500  	KTF251 	RM		KVSC-School1 	Kankakee Valley School Corporation 	FMN 	Schools 
+157.56000 	   	KNAL674 	BM		StJoColgSec 	Security 	FMN 	Security 
+463.55000 	468.55000  	WPMH462 	RM		StJoColgOps 	School Operations 	FMN 	Schools 
+Diga-Talk	 NXDN NEXEDGE 4800	 Various	Northern Indiana Public Service Company 800Mhz	 Motorola Type II Smartnet	 Multiple	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple

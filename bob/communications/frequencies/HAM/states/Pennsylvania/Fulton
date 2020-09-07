@@ -1,16 +1,15 @@
-453.50000 	WQWP910 	RM	948 NAC	FC Law Disp 	Co Dispatch 	P25 	Law Dispatch 
-453.36250 		WQWP910 	RM	94.8 PL	Fulton ES Disp 	Fire/EMS F-1 Dispatch 	FMN 	Fire Dispatch 
-453.53750 	WQWP910 	RM	948 NAC	Fulton Ops 2 	Fire/EMS Ops 2 	P25 	Fire-Tac 
-460.08750 	WQWP910 	RM	948 NAC	Fulton Ops 3 	Fire/EMS Ops 3 	P25 	Fire-Tac 
-460.42500 	WQWP910 	RM	948 NAC	Fulton Ops 4 	Fire/EMS Ops 4 	P25 	Fire-Tac 
-154.28000 	WQXG231 	BM		Fulton MA 	Fire Mutual-Aid 	FMN 	Interop 
-463.10000 	 	RM		FCMC-EMS 	Fulton County Medical Center to Ambulance 	FMN 	EMS-Tac 
-453.06250 	KGG233 	M		MCVFC Ops 	McConnellsburg Vol Fire Co 	FMN 	Fire-Tac 
-453.98750 	WQUH884 	M		NMVFC Ops 	Needmore Vol Fire Co 	FMN 	Fire-Tac 
-45.26000 	WQPG443 	BM		Mcconnelburg 	McConnellsburg Borough 	FM 	Public Works 
-159.13500 	WPQA272 	BM		Todd Pwrks 	Todd Township PW 	FMN 	Public Works 
-462.33750 	WQZH521 	BM		CFSD Ops 	School Ops 	FMN 	Schools 
-152.32250 		WQNJ684 	RM		FRSD Ops 	School Ops 	FMN 	Schools 
-Com Pros (Passport)	 LTR Passport	 Various	First Energy	 Project 25 Phase I	 Various	Hilltop Tower Leasing (McConnellsburg)	 LTR Standard
- Mc Connellsburg	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)
- OpenSky 9600 baud	 Statewide	
+453.50000 	458.50000  	WQWP910 	RM	948 NAC	FC Law Disp 	Co Dispatch 	P25 	Law Dispatch 
+453.36250 	458.36250  		WQWP910 	RM	94.8 PL	Fulton ES Disp 	Fire/EMS F-1 Dispatch 	FMN 	Fire Dispatch 
+453.53750 	458.53750  	WQWP910 	RM	948 NAC	Fulton Ops 2 	Fire/EMS Ops 2 	P25 	Fire-Tac 
+460.08750 	465.08750  	WQWP910 	RM	948 NAC	Fulton Ops 3 	Fire/EMS Ops 3 	P25 	Fire-Tac 
+460.42500 	465.42500  	WQWP910 	RM	948 NAC	Fulton Ops 4 	Fire/EMS Ops 4 	P25 	Fire-Tac 
+154.28000 	   	WQXG231 	BM		Fulton MA 	Fire Mutual-Aid 	FMN 	Interop 
+463.10000 	   	 	RM		FCMC-EMS 	Fulton County Medical Center to Ambulance 	FMN 	EMS-Tac 
+453.06250 	   	KGG233 	M		MCVFC Ops 	McConnellsburg Vol Fire Co 	FMN 	Fire-Tac 
+453.98750 	   	WQUH884 	M		NMVFC Ops 	Needmore Vol Fire Co 	FMN 	Fire-Tac 
+45.26000 	   	WQPG443 	BM		Mcconnelburg 	McConnellsburg Borough 	FM 	Public Works 
+159.13500 	   	WPQA272 	BM		Todd Pwrks 	Todd Township PW 	FMN 	Public Works 
+462.33750 	   	WQZH521 	BM		CFSD Ops 	School Ops 	FMN 	Schools 
+152.32250 	157.58250  		WQNJ684 	RM		FRSD Ops 	School Ops 	FMN 	Schools 
+Com Pros (Passport)	 LTR Passport	 Various	First Energy	 Project 25 Phase I	 Various	Hilltop Tower Leasing (McConnellsburg)	 LTR Standard	 Mc Connellsburg
+Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide

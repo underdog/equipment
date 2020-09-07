@@ -1,24 +1,23 @@
-151.16750 	WPTX514 	RM	073 DPL	HmpshCo LE W 	Hampshire County Law Enforcement  - West 	FMN 	Law Dispatch 
-154.31000 	WPTX514 	RM	072 DPL	HmpshCo LE E 	Hampshire County Law Enforcement  - East 	FMN 	Law Dispatch 
-158.79000 	WQEG234 	M		HmpshCoSOMr  	Hampshire County Sheriff  - Mobile Repeater 	FM 	Law Talk 
-37.34000 	WQEG234 	BM		HmpshCoSODp 	Hampshire County Sheriff - Dispatch 	FM 	Law Dispatch 
-460.06250 	WPTX514 	RM	152 DPL	HmpshCoSODp Lk 	Hampshire Sheriff Dispatch - UHF Link 	FMN 	Law Talk 
-46.14000 	WPTX514 	BM	123.0 PL	HmpshCoFDDp  	Hampshire County Fire - Dispatch 	FMN 	Fire Dispatch 
-151.43750 	WPTX514 	BM	123.0 PL	HmpshCoFD/Pg 	Hampshire County Fire - Dispatch / Paging 	FMN 	Fire Dispatch 
-155.63250 	WPTX514 	RM	023 DPL	HmpshCoFDOpE 	Hampshire County Fire - Operations  - (East) 	FMN 	Fire-Tac 
-155.97750 	WPTX514 	RM	023 DPL	HmpshCoFDOpW 	Hampshire County Fire - Operations  - (West) 	FMN 	Fire-Tac 
-155.22000 	 	BM		HmpshCo Co 8 Pvt 	Hampshire County Fire - Company 8 Green Springs - Private 	FMN 	Fire-Talk 
-460.06250 	WPTX514 	F	123.0 PL	FDLk Fm Capn 	46.14 Relay (Capon Springs --> Romney) 	FMN 	Fire-Talk 
-465.06250 	WPTX514 	F		FDLk To Capn 	46.14 Relay (Romney --> Capon Springs) 	FMN 	Fire-Talk 
-460.32500 	WPTX514 	F		FDLk Fm Rdge 	46.14 Relay (Ridge --> Romney) 	FMN 	Fire-Talk 
-465.32500 	WPTX514 	F		FDLk To Rdge 	46.14 Relay (Romney --> Ridge) 	FMN 	Fire-Talk 
-155.40000 	WPTX514 	BM	151.4 PL	HmpshCoEMSDp 	Hampshire County EMS - Dispatch 	FMN 	EMS Dispatch 
-453.68750 	WPTX514 	F	123.0 PL	EmLk Fm Capn 	155.400 Relay (Capon Springs --> Romney) 	FMN 	EMS-Talk 
-458.68750 	WPTX514 	F		EmLk To Capn 	155.400 Relay (Romney --> Capon Springs) 	FMN 	EMS-Talk 
-460.27500 	WPTX514 	F		EmLk Fm Rdge 	155.400 Relay (Ridge --> Romney) 	FMN 	EMS-Talk 
-465.27500 	WPTX514 	F		EmLk To Rdge 	155.400 Relay (Romney --> Ridge) 	FMN 	EMS-Talk 
-155.22000 	 			Lmbrts AmbSv 	Lambert Ambulance Service 	FM 	EMS-Tac 
-155.63250 	WPTX514 	RM	131.8 PL	HampCoBOEbus 	Hampshire County Schools - Buses - Cacapon Mtn 	FMN 	Schools 
-155.97750 	WPTX514 	RM	127.3 PL	HampCoBOEbus 	Hampshire County Schools - Buses - Bald Mtn 	FMN 	Schools 
-First Energy	 Project 25 Phase I	 Various	TWR Comms (Passport)	 LTR Passport	 Various	Washington Gas	 Project 25 Phase I
- Various	West Virginia Statewide Interoperability Radio Network (SIRN) 	 Project 25 Phase I	 Statewide	
+151.16750 	   	WPTX514 	RM	073 DPL	HmpshCo LE W 	Hampshire County Law Enforcement  - West 	FMN 	Law Dispatch 
+154.31000 	   	WPTX514 	RM	072 DPL	HmpshCo LE E 	Hampshire County Law Enforcement  - East 	FMN 	Law Dispatch 
+158.79000 	   	WQEG234 	M		HmpshCoSOMr  	Hampshire County Sheriff  - Mobile Repeater 	FM 	Law Talk 
+37.34000 	   	WQEG234 	BM		HmpshCoSODp 	Hampshire County Sheriff - Dispatch 	FM 	Law Dispatch 
+460.06250 	465.06250  	WPTX514 	RM	152 DPL	HmpshCoSODp Lk 	Hampshire Sheriff Dispatch - UHF Link 	FMN 	Law Talk 
+46.14000 	   	WPTX514 	BM	123.0 PL	HmpshCoFDDp  	Hampshire County Fire - Dispatch 	FMN 	Fire Dispatch 
+151.43750 	   	WPTX514 	BM	123.0 PL	HmpshCoFD/Pg 	Hampshire County Fire - Dispatch / Paging 	FMN 	Fire Dispatch 
+155.63250 	153.97250  	WPTX514 	RM	023 DPL	HmpshCoFDOpE 	Hampshire County Fire - Operations  - (East) 	FMN 	Fire-Tac 
+155.97750 	153.91250  	WPTX514 	RM	023 DPL	HmpshCoFDOpW 	Hampshire County Fire - Operations  - (West) 	FMN 	Fire-Tac 
+155.22000 	   	 	BM		HmpshCo Co 8 Pvt 	Hampshire County Fire - Company 8 Green Springs - Private 	FMN 	Fire-Talk 
+460.06250 	   	WPTX514 	F	123.0 PL	FDLk Fm Capn 	46.14 Relay (Capon Springs --> Romney) 	FMN 	Fire-Talk 
+465.06250 	   	WPTX514 	F		FDLk To Capn 	46.14 Relay (Romney --> Capon Springs) 	FMN 	Fire-Talk 
+460.32500 	   	WPTX514 	F		FDLk Fm Rdge 	46.14 Relay (Ridge --> Romney) 	FMN 	Fire-Talk 
+465.32500 	   	WPTX514 	F		FDLk To Rdge 	46.14 Relay (Romney --> Ridge) 	FMN 	Fire-Talk 
+155.40000 	   	WPTX514 	BM	151.4 PL	HmpshCoEMSDp 	Hampshire County EMS - Dispatch 	FMN 	EMS Dispatch 
+453.68750 	   	WPTX514 	F	123.0 PL	EmLk Fm Capn 	155.400 Relay (Capon Springs --> Romney) 	FMN 	EMS-Talk 
+458.68750 	   	WPTX514 	F		EmLk To Capn 	155.400 Relay (Romney --> Capon Springs) 	FMN 	EMS-Talk 
+460.27500 	   	WPTX514 	F		EmLk Fm Rdge 	155.400 Relay (Ridge --> Romney) 	FMN 	EMS-Talk 
+465.27500 	   	WPTX514 	F		EmLk To Rdge 	155.400 Relay (Romney --> Ridge) 	FMN 	EMS-Talk 
+155.22000 	   	 			Lmbrts AmbSv 	Lambert Ambulance Service 	FM 	EMS-Tac 
+155.63250 	153.91250  	WPTX514 	RM	131.8 PL	HampCoBOEbus 	Hampshire County Schools - Buses - Cacapon Mtn 	FMN 	Schools 
+155.97750 	153.91250  	WPTX514 	RM	127.3 PL	HampCoBOEbus 	Hampshire County Schools - Buses - Bald Mtn 	FMN 	Schools 
+First Energy	 Project 25 Phase I	 Various	TWR Comms (Passport)	 LTR Passport	 Various	Washington Gas	 Project 25 Phase I	 Various

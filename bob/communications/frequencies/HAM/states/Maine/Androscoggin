@@ -1,61 +1,62 @@
-154.11500 	KB50933 	BM	192.8 PL	EMA 	Androscoggin EMA 	FMN 	Emergency Ops 
-154.26500 	KGR385 	BM		Cnty FireNet 	Androscoggin County Fire Net / MFCA Statewide Fireground Tac-1 	FM 	Fire-Tac 
-154.82250 	WQBX878 	BM	206.5 PL	Andro SO Disp 	Androscoggin County Sheriff Dispatch(Multiple Towers) 	FM 	Law Dispatch 
-154.84500 	WNRA655 	BM		Jail 	Sheriff Jail/Corrections (mixed analog/digital) 	P25 	Corrections 
-155.38500 	 	M	91.5 PL	SO Tac 2 	Sheriff Tactical 	FM 	Law Tac 
-155.58750 	WQBX878 	M		SO Tac 1 	Sheriff Tactical (mixed analog/digital) 	P25 	Law Tac 
-153.89000 	KCI220 	BM	107.2 PL	Auburn Fire 	Fire 	FM 	Fire Dispatch 
-158.19000 	 	RM		Auburn Water 	Auburn Water District  	FM 	Public Works 
-159.15000 	WNPQ874 	RM	293 NAC	Auburn PD 	Police Primary (mixed analog/digital) 	P25 	Law Dispatch 
-159.97500 	WPYN289 	BM	192.8 PL	Auburn PDTac 	Police Tactical (mixed analog/digital) 	FM 	Law Talk 
-461.82500 	WNZL649 	BM	110.9 PL	AuburnBuses 	Auburn School Buses 	FMN 	Schools 
-154.44500 	KBK626 	BM	141.3 PL	Durham FD 	Fire Dispatch 	FM 	Fire Dispatch 
-155.03250 	WQLG674 	BM	506 DPL	Durham PW 	Durham PW 	FMN 	Public Works 
-159.31500 	KBK626 	RM	141.3 PL	DurhamFDTac 	Fire 	FMN 	Fire-Tac 
-154.13000 	KGR385 	B	100.0 PL	Greene PW 	Greene PW 	FMN 	Public Works 
-156.10500 	WQIA571 	R	100.0 PL	Greene Fire 	Greene Fire and Rescue Primary 	FMN 	Fire-Talk 
-155.34000 	KNGC652 	B	103.5 PL	CMMC 	Central Maine Medical Center (Lewiston) 	FM 	Hospital 
-155.34000 	KNGC652 	B	94.8 PL	St.Mary's 	St. Mary's Hospital EMS to Hospital 	FM 	Hospital 
-451.17500 	WQUE634	 	BM	24 RAN	St. Marys 	St Marys Medical Center 	NXDN 	Hospital 
-461.86250 	WQKQ997 	BM	CC 1TG *SL *	CMMC 	Central Maine Medical Center 	DMR 	Hospital 
-464.32500 	WQUE634 	BM	12 RAN	St. Marys 	St Marys Medical Center 	NXDN 	Hospital 
-155.29500 	WYG480 	R	127.3 PL	Leeds Fire 	Leeds Fire Department 	FM 	Fire-Talk 
-151.01000 	KCF357 	BM	192.8 PL	LewistonPW1 	Lewiston Public Works 	FM 	Public Works 
-153.95000 	KCD577 	BM	127.3 PL	Lewiston FD 	Fire 	FM 	Fire Dispatch 
-153.95000 	KCD577 	B	293 NAC	LewistonFDD 	Lewiston Fire Digital 	P25 	Fire Dispatch 
-154.02500 	KCF357 	RM	192.8 PL	LewistonPW2 	Lewiston Public Works 	FMN 	Public Works 
-154.51500 	WPPT936 	RM	186.2 PL	BatesSec/EMS 	Bates College Security and EMS 	FM 	Security 
-158.79000 	KCA849 	BM	293 NAC	Lewiston PD 	Police 	P25 	Law Dispatch 
-451.82500 	KCF357 	F		LewistonPW3 	Lewiston Public Works 	FM 	Public Works 
-456.82500 	KCF357 	F		LewistonPW4 	Lewiston Public Works 	FM 	Public Works 
-461.22500 	WPGB889 	BM	CC 1TG *SL *	LewistonBuses 	Lewiston School Buses 	DMR 	Schools 
-464.81250 	 	BM	CC 1TG 1SL 1	Bate Security 	Bates College Security  	DMR 	Security 
-154.08500 	KGX941 	B		Lisbon FDTac 	Fire 	FM 	Fire-Tac 
-154.14500 	KGX942 	BM	82.5 PL	LisbonFD 	Fire 	FM 	Fire Dispatch 
-154.75500 	KJI411 	RM	131.8 PL	Lisbon/LF PD 	Police 	FMN 	Law Dispatch 
-155.23500 	WTE398 	BM	94.8 PL	LIsbonEMS1 	Lisbon EMS Channel 1 	FM 	EMS-Talk 
-467.41250 	 	RM		Lisbon Water 	Lisbon Water Dept 	FM 	Public Works 
-154.04000 	KBJ981 	RM	114.8 PL	LivermorePW 	Livermore PW 	FMN 	Public Works 
-154.04000 	KBJ981 	RM	192.8 PL	LFFD 	Livermore Falls FD 	FM 	Fire-Talk 
-154.34000 	KBM802 	RM	114.8 PL	LivermoreFD1 	Livermore and Livermore Falls FD 	FM 	Fire-Talk 
-154.75500 	KZR463 	BM	127.3 PL	LFPD 1 	Livermore Falls PD 	FMN 	Law Dispatch 
-153.78500 	KUZ707 	B	103.5 PL	MechFallsBuses 	Mechanic Falls School Buses 	FMN 	Schools 
-154.17500 	KCD549 	RM	103.5 PL	MFalls FD 	Fire Primary 	FM 	Fire Dispatch 
-155.88750 	KCD549 	B	103.5 PL	MFalls PW 	Mechanic Falls PWD 	FMN 	Public Works 
-154.41500 	WSU295 	BM	192.8 PL	Minot FD 	Fire 	FM 	Fire Dispatch 
-156.16500 	KNDW262 	B	CSQ	Minot PW 	Minot PW 	FMN 	Public Works 
-151.28750 	WQCC588 	BM	77.0 PL	Poland FD 	Fire Dispatch 	FM 	Fire Dispatch 
-156.02250 	WQYT697 	R	223 DPL	School Buses 	School Buses 	FMN 	Schools 
-159.06000 	 	BM	77.0 PL	Poland EMS 	Poland EMS 	FMN 	EMS Dispatch 
-151.27250 	WQMY975 	B	69.3 PL	Sabattus PW 	Sabattus Public Works 	FM 	Public Works 
-154.19000 	KNHM999 	RM	91.5 PL	Sabattus FD 	Sabattus Fire 	FMN 	Fire Dispatch 
-155.76750 	KNGD402 	RM	110.9 PL	Sabattus PD 	Sabattus Police 	FM 	Law Dispatch 
-153.84500 	KVA757 	BM	97.4 PL	Turner Emer. 	Rescue / Emergency Management 	FM 	Emergency Ops 
-153.87500 	WPPG500 	RM	127.3 PL	Turner Fire 	Turner Fire Department 	FM 	Fire Dispatch 
-461.67500 	WPGD202 	BM	74.4 PL	MSAD 52 	MSAD52 School Buses (includes Greene  	FMN 	Schools 
-153.52250 	WQOF929 	RM	94.8 PL	UnitedAmb 	United Ambulance Service 	FM 	EMS Dispatch 
-155.40000 	WPFA588 	BM	100.0 PL	United BU 	United Ambulance Backup Used for large events 	FM 	EMS-Tac 
-154.23500 	WQDV748 	RM	205 DPL	Wales Fire 	Fire Primary 	FM 	Fire Dispatch 
-Atlantic Communications	 DMR Conventional Networked	 Various	Atlantic Communications	 LTR Standard	 Various	Central Maine Power	 LTR Standard
- Various	Lepage Bakeries	 DMR Conventional Networked	 Lewiston	Maine Radio	 DMR Motorola Connect Plus (TRBO)	 Various	Maine Radio (Falmouth 1)
- LTR Standard	 Falmouth	Maine State Communications Network (MSCommNet)	 Project 25 Phase I	 Statewide	
+154.11500 	   	KB50933 	BM	192.8 PL	EMA 	Androscoggin EMA 	FMN 	Emergency Ops 
+154.26500 	   	KGR385 	BM		Cnty FireNet 	Androscoggin County Fire Net / MFCA Statewide Fireground Tac-1 	FM 	Fire-Tac 
+154.82250 	   	WQBX878 	BM	206.5 PL	Andro SO Disp 	Androscoggin County Sheriff Dispatch(Multiple Towers) 	FM 	Law Dispatch 
+154.84500 	   	WNRA655 	BM		Jail 	Sheriff Jail/Corrections (mixed analog/digital) 	P25 	Corrections 
+155.38500 	   	 	M	91.5 PL	SO Tac 2 	Sheriff Tactical 	FM 	Law Tac 
+155.58750 	   	WQBX878 	M		SO Tac 1 	Sheriff Tactical (mixed analog/digital) 	P25 	Law Tac 
+153.89000 	   	KCI220 	BM	107.2 PL	Auburn Fire 	Fire 	FM 	Fire Dispatch 
+158.19000 	   	 	RM		Auburn Water 	Auburn Water District  	FM 	Public Works 
+158.82000 	   	KCH506 	B	71.9 PL	Auburn PW 	Auburn Public Works 	FM 	Public Works 
+159.15000 	155.13000  	WNPQ874 	RM	293 NAC	Auburn PD 	Police Primary (mixed analog/digital) 	P25 	Law Dispatch 
+159.97500 	   	WPYN289 	BM	192.8 PL	Auburn PDTac 	Police Tactical (mixed analog/digital) 	FM 	Law Talk 
+461.82500 	   	WNZL649 	BM	110.9 PL	AuburnBuses 	Auburn School Buses 	FMN 	Schools 
+154.44500 	   	KBK626 	BM	141.3 PL	Durham FD 	Fire Dispatch 	FM 	Fire Dispatch 
+155.03250 	   	WQLG674 	BM	506 DPL	Durham PW 	Durham PW 	FMN 	Public Works 
+159.31500 	151.25750  	KBK626 	RM	141.3 PL	DurhamFDTac 	Fire 	FMN 	Fire-Tac 
+154.13000 	   	KGR385 	B	100.0 PL	Greene PW 	Greene PW 	FMN 	Public Works 
+156.10500 	   	WQIA571 	R	100.0 PL	Greene Fire 	Greene Fire and Rescue Primary 	FMN 	Fire-Talk 
+155.34000 	   	KNGC652 	B	103.5 PL	CMMC 	Central Maine Medical Center (Lewiston) 	FM 	Hospital 
+155.34000 	   	KNGC652 	B	94.8 PL	St.Mary's 	St. Mary's Hospital EMS to Hospital 	FM 	Hospital 
+451.17500 	   	WQUE634	 	BM	24 RAN	St. Marys 	St Marys Medical Center 	NXDN 	Hospital 
+461.86250 	   	WQKQ997 	BM	CC 1TG *SL *	CMMC 	Central Maine Medical Center 	DMR 	Hospital 
+464.32500 	   	WQUE634 	BM	12 RAN	St. Marys 	St Marys Medical Center 	NXDN 	Hospital 
+155.29500 	   	WYG480 	R	127.3 PL	Leeds Fire 	Leeds Fire Department 	FM 	Fire-Talk 
+151.01000 	   	KCF357 	BM	192.8 PL	LewistonPW1 	Lewiston Public Works 	FM 	Public Works 
+153.95000 	   	KCD577 	BM	127.3 PL	Lewiston FD 	Fire 	FM 	Fire Dispatch 
+153.95000 	   	KCD577 	B	293 NAC	LewistonFDD 	Lewiston Fire Digital 	P25 	Fire Dispatch 
+154.02500 	   	KCF357 	RM	192.8 PL	LewistonPW2 	Lewiston Public Works 	FMN 	Public Works 
+154.51500 	   	WPPT936 	RM	186.2 PL	BatesSec/EMS 	Bates College Security and EMS 	FM 	Security 
+158.79000 	   	KCA849 	BM	293 NAC	Lewiston PD 	Police 	P25 	Law Dispatch 
+451.82500 	   	KCF357 	F		LewistonPW3 	Lewiston Public Works 	FM 	Public Works 
+456.82500 	   	KCF357 	F		LewistonPW4 	Lewiston Public Works 	FM 	Public Works 
+461.22500 	   	WPGB889 	BM	CC 1TG *SL *	LewistonBuses 	Lewiston School Buses 	DMR 	Schools 
+464.81250 	   	 	BM	CC 1TG 1SL 1	Bate Security 	Bates College Security  	DMR 	Security 
+154.08500 	   	KGX941 	B		Lisbon FDTac 	Fire 	FM 	Fire-Tac 
+154.14500 	   	KGX942 	BM	82.5 PL	LisbonFD 	Fire 	FM 	Fire Dispatch 
+154.75500 	151.31750  	KJI411 	RM	131.8 PL	Lisbon/LF PD 	Police 	FMN 	Law Dispatch 
+155.23500 	   	WTE398 	BM	94.8 PL	LIsbonEMS1 	Lisbon EMS Channel 1 	FM 	EMS-Talk 
+467.41250 	   	 	RM		Lisbon Water 	Lisbon Water Dept 	FM 	Public Works 
+154.04000 	   	KBJ981 	RM	114.8 PL	LivermorePW 	Livermore PW 	FMN 	Public Works 
+154.04000 	   	KBJ981 	RM	192.8 PL	LFFD 	Livermore Falls FD 	FM 	Fire-Talk 
+154.34000 	   	KBM802 	RM	114.8 PL	LivermoreFD1 	Livermore and Livermore Falls FD 	FM 	Fire-Talk 
+154.75500 	   	KZR463 	BM	127.3 PL	LFPD 1 	Livermore Falls PD 	FMN 	Law Dispatch 
+153.78500 	   	KUZ707 	B	103.5 PL	MechFallsBuses 	Mechanic Falls School Buses 	FMN 	Schools 
+154.17500 	154.09250  	KCD549 	RM	103.5 PL	MFalls FD 	Fire Primary 	FM 	Fire Dispatch 
+155.88750 	   	KCD549 	B	103.5 PL	MFalls PW 	Mechanic Falls PWD 	FMN 	Public Works 
+154.41500 	   	WSU295 	BM	192.8 PL	Minot FD 	Fire 	FM 	Fire Dispatch 
+156.16500 	   	KNDW262 	B	CSQ	Minot PW 	Minot PW 	FMN 	Public Works 
+151.28750 	   	WQCC588 	BM	77.0 PL	Poland FD 	Fire Dispatch 	FM 	Fire Dispatch 
+156.02250 	   	WQYT697 	R	223 DPL	School Buses 	School Buses 	FMN 	Schools 
+159.06000 	   	 	BM	77.0 PL	Poland EMS 	Poland EMS 	FMN 	EMS Dispatch 
+151.27250 	   	WQMY975 	B	69.3 PL	Sabattus PW 	Sabattus Public Works 	FM 	Public Works 
+154.19000 	158.88750  	KNHM999 	RM	91.5 PL	Sabattus FD 	Sabattus Fire 	FMN 	Fire Dispatch 
+155.76750 	   	KNGD402 	RM	110.9 PL	Sabattus PD 	Sabattus Police 	FM 	Law Dispatch 
+153.84500 	   	KVA757 	BM	97.4 PL	Turner Emer. 	Rescue / Emergency Management 	FM 	Emergency Ops 
+153.87500 	   	WPPG500 	RM	127.3 PL	Turner Fire 	Turner Fire Department 	FM 	Fire Dispatch 
+461.67500 	   	WPGD202 	BM	74.4 PL	MSAD 52 	MSAD52 School Buses (includes Greene  	FMN 	Schools 
+153.52250 	158.13000  	WQOF929 	RM	94.8 PL	UnitedAmb 	United Ambulance Service 	FM 	EMS Dispatch 
+155.40000 	   	WPFA588 	BM	100.0 PL	United BU 	United Ambulance Backup Used for large events 	FM 	EMS-Tac 
+154.23500 	155.74500  	WQDV748 	RM	205 DPL	Wales Fire 	Fire Primary 	FM 	Fire Dispatch 
+Atlantic Communications	 LTR Standard	 Various	Atlantic Communications	 DMR Conventional Networked	 Various	Central Maine Power	 LTR Standard	 Various
+Lepage Bakeries	 DMR Conventional Networked	 Lewiston	Lewiston and Auburn	 Project 25 Phase I	 Auburn	Maine Radio	 DMR Motorola Connect Plus (TRBO)	 Various
+Maine Radio (Falmouth 1)	 LTR Standard	 Falmouth	Maine State Communications Network (MSCommNet)	 Project 25 Phase I	 Statewide	

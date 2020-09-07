@@ -1,101 +1,100 @@
-155.64000 	WPYY895 	RM	114.8 PL	JfCo Sheriff 1  	Sheriff: Dispatch [Ch 1] (non on air?) 	FMN 	Law Dispatch 
-159.19500 	WPLY443 	RM	167.9 PL	JfCo Sheriff 3  	Sheriff: Dispatch - Secondary* [Ch 3/4]  	FMN 	Law Dispatch 
-155.91000 	KGK601 	M		JfCo Shrf C2C6  	Sheriff: Tactical/Car-to-Car [Ch 6] 	FMN 	Law Tac 
-453.61250 	WPQI641 	F		JfCo Law RF1 	Police: Remote Link to Goldman (House Springs) 	FMN 	Law Dispatch 
-458.61250 	WPQI641 	F		JfCo Law RF2 	Police: Remote Link to House Springs (Goldman) 	FMN 	Law Dispatch 
-154.31000 	WPYY895 	BM	CSQ	JeffCo Fire/EMS* 	Fire/EMS: Tone-Outs (simulcast on P25 TRS) 	FMN 	Fire Dispatch 
-154.31000 	WPBK501 	BM	100.0 PL	JeffCo Fire/EMS 	Fire/EMS: Countywide Dispatch 	FMN 	Fire Dispatch 
-160.09500 	KNNJ408 	BM	156.7 PL	JeffCo1 Fire 	Fire: Response - Main 1  	FMN 	Fire-Tac 
-160.09500 	WPYY895 	BM	CSQ	JeffCo1 Fire 	Fire: Response - Main 1 	FMN 	Fire-Tac 
-153.83000 	WPBK501 	M	100.0 PL	JfCo FD Cmnd 	Fire: Command A 	FMN 	Fire-Tac 
-155.11500 	KXQ998 	BM	100.0 PL	JfCo FD Adm 	Fire: Administration 	FMN 	Fire-Tac 
-460.51250 	KRF431 	M		JfCo FD MX1 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-465.51250 	KRF431 	M		JfCo FD MX2 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-155.35500 	WPYY895 	BM	123.0 PL	JeffCo 2 EMS 	EMS: Dispatch - Main 2 	FMN 	EMS Dispatch 
-155.35500 	WPBC826 	BM	CSQ	JeffCo 2 EMS 	EMS: Dispatch - Main 2 	FMN 	EMS Dispatch 
-155.95500 	WPBP791 	B	CSQ	JeffCo 3 Old 	EMS: Dispatch - Main 3 	FMN 	EMS Dispatch 
-155.95500 	WPBP791 	BM	156.7 PL	JeffCo 3 Old 	EMS: Response (Talkback) - Main 3 	FMN 	EMS Dispatch 
-158.80500 	WPQE379 	RM		JfC911 South 	911: South (Goldman) 	FMN 	Multi-Dispatch 
-154.02500 	WPQE379 	RM		JfC911 North 	911: North (House Springs) (103.5?) 	FMN 	Multi-Dispatch 
-159.13500 	KNHH400 	RM	CC 10TG 999SL *	JfCo Highway 999 	Highway Department: Roads [SL1/2] 	DMR 	Public Works 
-159.13500 	KNHH400 	RM	CC 10TG *SL *	JfCo HighwayData 	Highway Department: Data [SL1/2] [TG 0] 	DMR 	Public Works 
-159.16500 	KNHH400 	M	123.0 PL	JfCo Hwy u2u Old 	Highway Department: Unit-to-Unit [Ch 2] 	FMN 	Public Works 
-154.98000 	WNND757 	BM	123.0 PL	JfCo Parks / Rec 	Parks and Recreation [Ch 4] (Hillsboro) [Expired 12/13] 	FMN 	Public Works 
-155.94000 	KYY933 	BM		JPTAD Disp? 	Base (Local) 	FMN 	EMS Dispatch 
-155.05500 	 	M		JPTAD C2C 	Ambulance to Ambulance [No LIcense] 	FMN 	EMS-Tac 
-468.17500 	 	M		JPTAD EMS 	EMS (reported in use at Festus) 	FMN 	EMS-Tac 
-156.24000 	WQKD456 	BM		NJC Amb Dist 	EMS: Operations (Low Power) 	FMN 	EMS Dispatch 
-461.23750 	WPGE602 	RM		JMH Ops 1 	Operations 	FMN 	Business 
-463.93750 	WPGE602 	RM		JMH Ops 2 	Operations 	FMN 	Business 
-461.35000 	WQHH529 	RM	82.5 PL	SurvivalHelo 	EMS: Dispatch - Survival Flight (*) [Abbott] 	FMN 	EMS Dispatch 
-152.00750 	KNET502 	B		JMH Paging 	Paging 	Telm 	Data 
-155.34000 	WQS867 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
-47.72000 	KSW788 	BM		MrmcHts PWD 	Meramec Heights Public Water District #3: Ops 	FM 	Public Works 
-45.20000 	KVN456 	BM		C1 PWSD WDD 	Public Water Supply District C-1 	FM 	Public Works 
-154.46375 	WPWJ606 	F		WldwdLk WDD 	Wildwood Lake POA (Olympian Village) 	Telm 	Data 
-456.10000 	WRAC415 	F		PWSD2 WDD 	Public Water Supply #2: Data 	Telm 	Data 
-172.20375 	WPRM378 	F		JeffCo WDD 	Public Water Supply District #3 (CSQ) 	Telm 	Data 
-173.23750 	WPOG598 	F		PWS6 WDD 	Public Water Supply #6 (CSQ; House Springs) 	Telm 	Data 
-154.47125 	WGF828 	F		PWSD7 WDD 	Public Water Supply District #7 	Telm 	Data 
-153.61250 	WQVS649 	F		NE PWD JeffCO 	Northeast Public Sewer District of Jefferson County (CSQ) 	Telm 	Data 
-456.15000 	WQAV638 	BM		CPSD1 Barnh WDD 	Consolidated Pub Water Supply Dist #1 (Barnhart) (CSQ Data) 	Telm 	Data 
-453.80000 	KUV618 	RM	146.2 PL	Arnld Police 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-453.60000 	WQHD948 	BM		Arnld PD C2C 	Police: Low Power 	FMN 	Law Tac 
-155.14500 	KUV617 	BM	146.2 PL	Arnold DPW 	Street Department / Police: Secondary 	FMN 	Public Works 
-154.45625 	WPRA278 	B		Arnold WDD1 	Water Distribution Data (CSQ) 	FMN 	Data 
-155.01000 	WNQE804 	BM		BynMil Local 	Police / Local Use 	FMN 	Multi-Tac 
-154.43000 	KXB533 	BM		CdrHillFire1 	Fire: Local? 	FMN 	Fire-Tac 
-155.11500 	WPBR238 	BM		CdrHillFire2 	Fire: Local 	FMN 	Fire-Tac 
-154.08500 	KNAD865 	BM	107.2 PL	CrCy Police 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-154.65000 	KB69102 	M	107.2 PL	CrCy PD C2C2 	Police: Car-to-Car [Ch 2] 	FMN 	Law Tac 
-154.72500 	KNAD896 	BM		CrCy PD C2C 	Police 	FMN 	Law Tac 
-154.83000 	KNAD896 	M		CrCy PD M 	Police 	FMN 	Law Tac 
-465.47500 	KNAD896 	M		CrCy PD RF? 	Police: Remote Link to ? 	FMN 	Law Tac 
-155.89500 	KNAD865 	BM		CrCy PubWrks 	Public Works ? 	FMN 	Public Works 
-159.99750 	WQDN630 	F		CrCity WDD 	Water Distribution Data (CSQ; also Voice?) 	Telm 	Data 
-158.73000 	KAH451 	RM	156.7 PL	DeSo Police1 	Police: Dispatch (*158.7375 156.7 PL is VTAC3) 	FMN 	Law Dispatch 
-159.03000 	KAH451 	BM	156.7 PL	DeSo Police3 	Police 	FMN 	Law Tac 
-158.77500 	KXF531 	BM	156.7 PL	DeSo WarnSirens 	Outdoor Warning System / Siren Data 	FMN 	Law Tac 
-155.11500 	KWJ283 	BM	77.0 PL	DeSoto Fire 	Fire: Response / Secondary (City) 	FMN 	Fire-Tac 
-154.14500 	WNZU274 	BM		DeSot Fire Rural 	Fire (Rural) 	FMN 	Fire-Tac 
-158.92500 	KWT733 	M	103.5 PL	Eurk PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
-45.74000 	KWT733 	M		Eurk PD Alt1 	Police: Alternate 	FM 	Law Tac 
-47.66000 	KWT733 	M		Eurk PD Alt3 	Police: Alternate 	FM 	Law Tac 
-155.68500 	KNAH350 	BM	107.2 PL	Festus Police 	Police (with Sheriff) 	FMN 	Law Dispatch 
-156.03000 	WXQ985 	M	107.2 PL	Festus PD c2c  	Police: Car-to-Car (also 156.7?) 	FMN 	Law Talk 
-159.17250 	WQHI421 	RM		Festus Roads 	Festus Road District  	FMN 	Public Works 
-151.46750 	WPXM874 	RM		Festus PWnew 	Public Works 	FMN 	Public Works 
-154.71000 	 	M	107.2 PL	Herc PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
-155.02500 	WNMX352 	BM	210.7 PL	Herc PubWrks 	Public Works 	FMN 	Public Works 
-460.58750 	WPGT793 	M		HRFPD RF 1 	Fire: Remote Link 	FMN 	Fire Dispatch 
-465.58750 	WPGT793 	M	107.2 PL	HRFPD RF 2 	Fire: Remote Link 	FMN 	Fire Dispatch 
-155.29500 	 	M	103.5 PL	Hillsboro Police 	Police 	FMN 	Law Tac 
-154.17500 	KZR659 	BM		Hillsboro Fire  	Fire 	FMN 	Fire-Tac 
-159.23250 	WQJB368 	M		Hillsboro PubWrk 	Public Works 	FMN 	Public Works 
-154.75500 	KNAH350 	RM	107.2 PL	Hr/Pv Police 	Police: Dispatch                    (3/20) 	FMN 	Law Dispatch 
-154.77000 	KNAH350 	M	107.2 PL	Pevely PD M 	Police 	FMN 	Law Tac 
-154.96500 	WNKR366 	BM	146.2 PL	Pevly Police 	Police: Dispatch 	FMN 	Law Dispatch 
-155.68500 	KNAH350 	BM	118.8 PL	Pev Police 	Police 	FMN 	Law Tac 
-158.33250 	WPZI426 	F		Pevely WDD1 	Water Distribution Data (CSQ) 	Telm 	Data 
-158.39250 	WPZI426 	F		Pevely WDD2 	Water Distribution Data 	Telm 	Data 
-173.28750 	WNUT941 	F		Pevely WDD3 	Water Distribution Data 	Telm 	Data 
-464.97500 	WPNU422 	RM	186.2 PL	FS Bus HighRidge 	Buses (High Ridge) 	FMN 	Schools 
-154.54000 	WQQG407 	BM		Sunrise School 	Sunrise School District 9 	FMN 	Schools 
-155.26500 	KNBF250 	BM	266 DPL	DeSoto SchoolBus 	Buses (DPSD73) 	FMN 	Schools 
-155.17500 	WNHQ388 	BM	100.0 PL	Festus Sch Bus  	Buses (Festus R6) 	FMN 	Schools 
-152.36000 	WPQB258 	RM	CC 6TG 1SL 1	FoxC6 Sch Bus 1 	Buses 	DMR 	Schools 
-155.28000 	WQFZ267 	BM		Grandview SchBus 	Buses 	FMN 	Schools 
-152.42750 	WQPN297 	RM	136.5 PL	Hills Schools 	Operations / Buses 	FMN 	Schools 
-155.29500 	KNCR712 	BM		Hills School 	Buses (103.5 reported for Hillsboro PD) 	FMN 	Schools 
-155.26500 	WPJS429 	BM	516 DPL	Nwst School Bus1 	Bus Dispatch (also 162.2) 	FMN 	Schools 
-155.23500 	WPJS429 	BM		Nwst SchBus2 	Buses 	FMN 	Schools 
-462.98750 	WPJS429 	M		NWR1 Sch RF1 	Buses: Remote Receive Links  	FMN 	Schools 
-467.98750 	WPJS429 	M	CSQ	NWR1 Sch RF2 	Buses: Remote Receive Link 	FMN 	Schools 
-464.62500 	WPRA501 	RM	411 DPL	NWR1 Ops 	Operations (Cedar Hill) 	FMN 	Schools 
-152.46500 	WQRZ644 	RM	CC 1TG 1SL *	Windsor Sch Ops 	Operations (Slots 1 and 2; also private calls) 	DMR 	Schools 
-155.28000 	WQEW207 	BM		Wnds Sch Bus 	Operations 	FMN 	Schools 
-461.05000 	WNDF705 	RM	CC 2TG 1SL 1	Jeff College Ops 	Operations 	DMR 	Schools 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Dittronics - UHF (DMR)	 DMR Hytera XPT	 SEMO	Special School District of St. Louis County	 DMR Conventional Networked
- Town and Country	St. Louis Area Trunked Emergency Radio (SLATER)	 Project 25 Phase II	 St Louis Metro Area	Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro	Warner Communications - UHF 10 (Jefferson County)
- LTR Standard	 High Ridge	Warner Communications - UHF 15 (Clayton/Hillsboro)	 LTR Standard	 Clayton	Warner Communications 800 - (1-xx)	 LTR Standard	 Imperial
-Warner Communications-BJC Hospitals (NXDN)	 NXDN NEXEDGE 4800	 St Louis	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	
+155.64000 	156.15000  	WPYY895 	RM	114.8 PL	JfCo Sheriff 1  	Sheriff: Dispatch [Ch 1] (non on air?) 	FMN 	Law Dispatch 
+159.19500 	153.93500  	WPLY443 	RM	167.9 PL	JfCo Sheriff 3  	Sheriff: Dispatch - Secondary* [Ch 3/4]  	FMN 	Law Dispatch 
+155.91000 	   	KGK601 	M		JfCo Shrf C2C6  	Sheriff: Tactical/Car-to-Car [Ch 6] 	FMN 	Law Tac 
+453.61250 	   	WPQI641 	F		JfCo Law RF1 	Police: Remote Link to Goldman (House Springs) 	FMN 	Law Dispatch 
+458.61250 	   	WPQI641 	F		JfCo Law RF2 	Police: Remote Link to House Springs (Goldman) 	FMN 	Law Dispatch 
+154.31000 	   	WPYY895 	BM	CSQ	JeffCo Fire/EMS* 	Fire/EMS: Tone-Outs (simulcast on P25 TRS) 	FMN 	Fire Dispatch 
+154.31000 	   	WPBK501 	BM	100.0 PL	JeffCo Fire/EMS 	Fire/EMS: Countywide Dispatch 	FMN 	Fire Dispatch 
+160.09500 	   	KNNJ408 	BM	156.7 PL	JeffCo1 Fire 	Fire: Response - Main 1  	FMN 	Fire-Tac 
+160.09500 	   	WPYY895 	BM	CSQ	JeffCo1 Fire 	Fire: Response - Main 1 	FMN 	Fire-Tac 
+153.83000 	   	WPBK501 	M	100.0 PL	JfCo FD Cmnd 	Fire: Command A 	FMN 	Fire-Tac 
+155.11500 	   	KXQ998 	BM	100.0 PL	JfCo FD Adm 	Fire: Administration 	FMN 	Fire-Tac 
+460.51250 	   	KRF431 	M		JfCo FD MX1 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+465.51250 	   	KRF431 	M		JfCo FD MX2 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+155.35500 	   	WPYY895 	BM	123.0 PL	JeffCo 2 EMS 	EMS: Dispatch - Main 2 	FMN 	EMS Dispatch 
+155.35500 	   	WPBC826 	BM	CSQ	JeffCo 2 EMS 	EMS: Dispatch - Main 2 	FMN 	EMS Dispatch 
+155.95500 	   	WPBP791 	B	CSQ	JeffCo 3 Old 	EMS: Dispatch - Main 3 	FMN 	EMS Dispatch 
+155.95500 	   	WPBP791 	BM	156.7 PL	JeffCo 3 Old 	EMS: Response (Talkback) - Main 3 	FMN 	EMS Dispatch 
+158.80500 	153.90500  	WPQE379 	RM		JfC911 South 	911: South (Goldman) 	FMN 	Multi-Dispatch 
+154.02500 	153.78500  	WPQE379 	RM		JfC911 North 	911: North (House Springs) (103.5?) 	FMN 	Multi-Dispatch 
+159.13500 	156.16500  	KNHH400 	RM	CC 10TG 999SL *	JfCo Highway 999 	Highway Department: Roads [SL1/2] 	DMR 	Public Works 
+159.13500 	156.16500  	KNHH400 	RM	CC 10TG *SL *	JfCo HighwayData 	Highway Department: Data [SL1/2] [TG 0] 	DMR 	Public Works 
+159.16500 	   	KNHH400 	M	123.0 PL	JfCo Hwy u2u Old 	Highway Department: Unit-to-Unit [Ch 2] 	FMN 	Public Works 
+154.98000 	   	WNND757 	BM	123.0 PL	JfCo Parks / Rec 	Parks and Recreation [Ch 4] (Hillsboro) [Expired 12/13] 	FMN 	Public Works 
+155.94000 	   	KYY933 	BM		JPTAD Disp? 	Base (Local) 	FMN 	EMS Dispatch 
+155.05500 	   	 	M		JPTAD C2C 	Ambulance to Ambulance [No LIcense] 	FMN 	EMS-Tac 
+468.17500 	   	 	M		JPTAD EMS 	EMS (reported in use at Festus) 	FMN 	EMS-Tac 
+156.24000 	   	WQKD456 	BM		NJC Amb Dist 	EMS: Operations (Low Power) 	FMN 	EMS Dispatch 
+461.23750 	466.23750  	WPGE602 	RM		JMH Ops 1 	Operations 	FMN 	Business 
+463.93750 	468.93750  	WPGE602 	RM		JMH Ops 2 	Operations 	FMN 	Business 
+461.35000 	466.35000  	WQHH529 	RM	82.5 PL	SurvivalHelo 	EMS: Dispatch - Survival Flight (*) [Abbott] 	FMN 	EMS Dispatch 
+152.00750 	   	KNET502 	B		JMH Paging 	Paging 	Telm 	Data 
+155.34000 	   	WQS867 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+47.72000 	   	KSW788 	BM		MrmcHts PWD 	Meramec Heights Public Water District #3: Ops 	FM 	Public Works 
+45.20000 	   	KVN456 	BM		C1 PWSD WDD 	Public Water Supply District C-1 	FM 	Public Works 
+154.46375 	   	WPWJ606 	F		WldwdLk WDD 	Wildwood Lake POA (Olympian Village) 	Telm 	Data 
+456.10000 	   	WRAC415 	F		PWSD2 WDD 	Public Water Supply #2: Data 	Telm 	Data 
+172.20375 	   	WPRM378 	F		JeffCo WDD 	Public Water Supply District #3 (CSQ) 	Telm 	Data 
+173.23750 	   	WPOG598 	F		PWS6 WDD 	Public Water Supply #6 (CSQ; House Springs) 	Telm 	Data 
+154.47125 	   	WGF828 	F		PWSD7 WDD 	Public Water Supply District #7 	Telm 	Data 
+153.61250 	   	WQVS649 	F		NE PWD JeffCO 	Northeast Public Sewer District of Jefferson County (CSQ) 	Telm 	Data 
+456.15000 	   	WQAV638 	BM		CPSD1 Barnh WDD 	Consolidated Pub Water Supply Dist #1 (Barnhart) (CSQ Data) 	Telm 	Data 
+453.80000 	458.80000  	KUV618 	RM	146.2 PL	Arnld Police 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+453.60000 	   	WQHD948 	BM		Arnld PD C2C 	Police: Low Power 	FMN 	Law Tac 
+155.14500 	   	KUV617 	BM	146.2 PL	Arnold DPW 	Street Department / Police: Secondary 	FMN 	Public Works 
+154.45625 	   	WPRA278 	B		Arnold WDD1 	Water Distribution Data (CSQ) 	FMN 	Data 
+155.01000 	   	WNQE804 	BM		BynMil Local 	Police / Local Use 	FMN 	Multi-Tac 
+154.43000 	   	KXB533 	BM		CdrHillFire1 	Fire: Local? 	FMN 	Fire-Tac 
+155.11500 	   	WPBR238 	BM		CdrHillFire2 	Fire: Local 	FMN 	Fire-Tac 
+154.08500 	   	KNAD865 	BM	107.2 PL	CrCy Police 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+154.65000 	   	KB69102 	M	107.2 PL	CrCy PD C2C2 	Police: Car-to-Car [Ch 2] 	FMN 	Law Tac 
+154.72500 	   	KNAD896 	BM		CrCy PD C2C 	Police 	FMN 	Law Tac 
+154.83000 	   	KNAD896 	M		CrCy PD M 	Police 	FMN 	Law Tac 
+465.47500 	   	KNAD896 	M		CrCy PD RF? 	Police: Remote Link to ? 	FMN 	Law Tac 
+155.89500 	   	KNAD865 	BM		CrCy PubWrks 	Public Works ? 	FMN 	Public Works 
+159.99750 	   	WQDN630 	F		CrCity WDD 	Water Distribution Data (CSQ; also Voice?) 	Telm 	Data 
+158.73000 	154.05500  	KAH451 	RM	156.7 PL	DeSo Police1 	Police: Dispatch (*158.7375 156.7 PL is VTAC3) 	FMN 	Law Dispatch 
+159.03000 	   	KAH451 	BM	156.7 PL	DeSo Police3 	Police 	FMN 	Law Tac 
+158.77500 	   	KXF531 	BM	156.7 PL	DeSo WarnSirens 	Outdoor Warning System / Siren Data 	FMN 	Law Tac 
+155.11500 	   	KWJ283 	BM	77.0 PL	DeSoto Fire 	Fire: Response / Secondary (City) 	FMN 	Fire-Tac 
+154.14500 	   	WNZU274 	BM		DeSot Fire Rural 	Fire (Rural) 	FMN 	Fire-Tac 
+158.92500 	   	KWT733 	M	103.5 PL	Eurk PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
+45.74000 	   	KWT733 	M		Eurk PD Alt1 	Police: Alternate 	FM 	Law Tac 
+47.66000 	   	KWT733 	M		Eurk PD Alt3 	Police: Alternate 	FM 	Law Tac 
+155.68500 	   	KNAH350 	BM	107.2 PL	Festus Police 	Police (with Sheriff) 	FMN 	Law Dispatch 
+156.03000 	   	WXQ985 	M	107.2 PL	Festus PD c2c  	Police: Car-to-Car (also 156.7?) 	FMN 	Law Talk 
+159.17250 	153.98750  	WQHI421 	RM		Festus Roads 	Festus Road District  	FMN 	Public Works 
+151.46750 	159.09750  	WPXM874 	RM		Festus PWnew 	Public Works 	FMN 	Public Works 
+154.71000 	   	 	M	107.2 PL	Herc PD C2C 	Police: Car-to-Car 	FMN 	Law Tac 
+155.02500 	   	WNMX352 	BM	210.7 PL	Herc PubWrks 	Public Works 	FMN 	Public Works 
+460.58750 	   	WPGT793 	M		HRFPD RF 1 	Fire: Remote Link 	FMN 	Fire Dispatch 
+465.58750 	   	WPGT793 	M	107.2 PL	HRFPD RF 2 	Fire: Remote Link 	FMN 	Fire Dispatch 
+155.29500 	   	 	M	103.5 PL	Hillsboro Police 	Police 	FMN 	Law Tac 
+154.17500 	   	KZR659 	BM		Hillsboro Fire  	Fire 	FMN 	Fire-Tac 
+159.23250 	   	WQJB368 	M		Hillsboro PubWrk 	Public Works 	FMN 	Public Works 
+154.75500 	159.08250  	KNAH350 	RM	107.2 PL	Hr/Pv Police 	Police: Dispatch                    (3/20) 	FMN 	Law Dispatch 
+154.77000 	   	KNAH350 	M	107.2 PL	Pevely PD M 	Police 	FMN 	Law Tac 
+154.96500 	   	WNKR366 	BM	146.2 PL	Pevly Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.68500 	   	KNAH350 	BM	118.8 PL	Pev Police 	Police 	FMN 	Law Tac 
+158.33250 	   	WPZI426 	F		Pevely WDD1 	Water Distribution Data (CSQ) 	Telm 	Data 
+158.39250 	   	WPZI426 	F		Pevely WDD2 	Water Distribution Data 	Telm 	Data 
+173.28750 	   	WNUT941 	F		Pevely WDD3 	Water Distribution Data 	Telm 	Data 
+464.97500 	469.97500  	WPNU422 	RM	186.2 PL	FS Bus HighRidge 	Buses (High Ridge) 	FMN 	Schools 
+154.54000 	   	WQQG407 	BM		Sunrise School 	Sunrise School District 9 	FMN 	Schools 
+155.26500 	   	KNBF250 	BM	266 DPL	DeSoto SchoolBus 	Buses (DPSD73) 	FMN 	Schools 
+155.17500 	   	WNHQ388 	BM	100.0 PL	Festus Sch Bus  	Buses (Festus R6) 	FMN 	Schools 
+152.36000 	157.00000  	WPQB258 	RM	CC 6TG 1SL 1	FoxC6 Sch Bus 1 	Buses 	DMR 	Schools 
+155.28000 	   	WQFZ267 	BM		Grandview SchBus 	Buses 	FMN 	Schools 
+152.42750 	157.68750  	WQPN297 	RM	136.5 PL	Hills Schools 	Operations / Buses 	FMN 	Schools 
+155.29500 	   	KNCR712 	BM		Hills School 	Buses (103.5 reported for Hillsboro PD) 	FMN 	Schools 
+155.26500 	   	WPJS429 	BM	516 DPL	Nwst School Bus1 	Bus Dispatch (also 162.2) 	FMN 	Schools 
+155.23500 	   	WPJS429 	BM		Nwst SchBus2 	Buses 	FMN 	Schools 
+462.98750 	   	WPJS429 	M		NWR1 Sch RF1 	Buses: Remote Receive Links  	FMN 	Schools 
+467.98750 	   	WPJS429 	M	CSQ	NWR1 Sch RF2 	Buses: Remote Receive Link 	FMN 	Schools 
+464.62500 	469.62500  	WPRA501 	RM	411 DPL	NWR1 Ops 	Operations (Cedar Hill) 	FMN 	Schools 
+152.46500 	157.72500  	WQRZ644 	RM	CC 1TG 1SL *	Windsor Sch Ops 	Operations (Slots 1 and 2; also private calls) 	DMR 	Schools 
+155.28000 	   	WQEW207 	BM		Wnds Sch Bus 	Operations 	FMN 	Schools 
+461.05000 	466.05000  	WNDF705 	RM	CC 2TG 1SL 1	Jeff College Ops 	Operations 	DMR 	Schools 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Dittronics - UHF (DMR)	 DMR Hytera XPT	 SEMO	Special School District of St. Louis County	 DMR Conventional Networked	 Town and Country
+St. Louis Area Trunked Emergency Radio (SLATER)	 Project 25 Phase II	 St Louis Metro Area	Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro	Warner Communications - UHF 10 (Jefferson County)	 LTR Standard	 High Ridge
+Warner Communications - UHF 15 (Clayton/Hillsboro)	 LTR Standard	 Clayton	Warner Communications 800 - (1-xx)	 LTR Standard	 Imperial	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO

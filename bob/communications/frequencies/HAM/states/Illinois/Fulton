@@ -1,101 +1,100 @@
-155.10750 	WRDW946 	RM		Futon Fire/EMS 	Fire/EMS: Simulcast Sites 	FMN 	Fire Dispatch 
-154.13000 	WPAQ400 	B	151.4 PL	Fulton FireNet 	Fire: Tone-Outs / Dispatch - Countywide 	FMN 	Fire Dispatch 
-154.13000 	WPAQ400 	B	CSQ	FultonFirePaging 	Fire/EMS: Tone-Outs 	FMN 	Fire Dispatch 
-452.30000 	WPAQ400 	F	023 DPL	Fulton911 RF2C 	Fire/EMS: Remote Link (to 154.13-Cuba dispatch) 	FMN 	Fire Dispatch 
-452.30000 	WPAQ400 	F	026 DPL	Fulton911 RF2E 	Fire/EMS: Remote Link (to Cuba) 	FMN 	Fire Dispatch 
-452.30000 	WPAQ400 	F	031 DPL	Fulton911 RF2A 	Fire/EMS: Remote Receive Link to 911 (Cuba) [Fire "Fulton"] 	FMN 	Fire Dispatch 
-452.30000 	WPAQ400 	F	054 DPL	Fulton911 RF2B 	Fire/EMS: Remote Link (from 911?) (heard Manito) 	FMN 	Fire Dispatch 
-452.30000 	WPAQ400 	F	065 DPL	Fulton911 RF2G 	Fire/EMS: Remote Link (?? Manito) 	FMN 	Fire Dispatch 
-452.30000 	WPAQ400 	F	072 DPL	Fulton911 RF2D 	Fire/EMS: Remote Link to 911 (Paramedics) 	FMN 	Fire Dispatch 
-452.30000 	WPAQ400 	F	114 DPL	Fulton911 RF2F 	Fire/EMS: Remote Link to ? (St David*) 	FMN 	Fire Dispatch 
-453.78750 	WPAQ400 	F	156.7 PL	Fulton911 RF3A 	Fire/EMS: Remote Receive Link to 911 (Cuba) [Law?] 	FMN 	Fire Dispatch 
-453.78750 	WPAQ400 	F	173.8 PL	Fulton911 RF3B 	Fire/EMS: Remote Receive Link to 911 (Cuba) [Law?] 	FMN 	Fire Dispatch 
-457.30000 	WPAQ400 	F		Fulton911 RF4 	Fire/EMS: Remote Link to 911 - Multiple Locations 	FMN 	Fire Dispatch 
-457.30000 	WPAQ400 	F	023 DPL	Fulton911 RF4B 	Fire/EMS: Remote Link to 911 (Lewistown?) 	FMN 	Fire Dispatch 
-457.30000 	WPAQ400 	F	054 DPL	Fulton911 RF4A 	Fire/EMS: Remote Link to 911 -  	FMN 	Fire Dispatch 
-458.78750 	WPAQ400 	F		Fulton911 RF5 	Fire/EMS: Remote Link to 911 - Multiple Locations 	FMN 	Fire Dispatch 
-460.62500 	WPUT750 	F		Fulton911 RF8 	Fire/EMS: Remote Receive Link to 911 (Fairview) 	FMN 	Fire Dispatch 
-460.62500 	WPAQ400 	F	606 DPL	Fulton911 RF7 	Fire/EMS: Link to Remote Tower (Lewistown) [?? EMS] 	FMN 	Fire Dispatch 
-460.62500 	WPAQ400 	F	743 DPL	Fulton911 RF6 	Fire/EMS: Remote Receive Link to 911 (Astoria) (Cuba?) 	FMN 	Fire Dispatch 
-465.62500 	WPUV584 	F	754 DPL	Fulton911 RF9 	Fire/EMS: Remote Receive Link to 911 (Canton) (heard EMS 154.415?) 	FMN 	Fire Dispatch 
-453.33750 	WPTR666 	F	023 DPL	Copperas FireRF1 	Fire/EMS: Remote Link to Copperas Fire (Canton, Monterey, Lewistown) 	FMN 	Fire Dispatch 
-153.89000 	WPUT750 	B		FultonFireground 	Fireground 	FMN 	Fire-Tac 
-154.07000 	WPUT750 	B		Mar/TGv Fire 	Fire: Marietta, Table Grove 	FMN 	Fire Dispatch 
-154.16000 	WPAQ400 	B		ACLMTG Fire 	Fire: Avon, Canton, Lewiston, Marietta, Table Grove 	FMN 	Fire Dispatch 
-154.19000 	WPUT750 	B		Avon Fire Local 	Fire: Avon, Marietta 	FMN 	Fire Dispatch 
-154.25000 	WPAQ400 	B		Fulton Fire 425 	Fire: Astoria, Table Grove  	FMN 	Fire Dispatch 
-154.41500 	WPUT750 	B		As/TGrv Fire 	Fire: Astoria, Table Grove  	FMN 	Fire Dispatch 
-453.10000 	KSA925 	RM	203.5 PL	Fltn Shrf/Law C 	Sheriff: Dispatch; Rural Dispatch (Canton; Simulcast with 453.95) 	FMN 	Law Dispatch 
-453.95000 	KSA925 	RM	203.5 PL	Fltn Shrf/Law SE 	Sheriff: Dispatch; Rural Dispatch (Havana; Simulcast with 453.1) 	FMN 	Law Dispatch 
-154.83000 	KSA925 	M	203.5 PL	Fultn ShrfMX 	Sheriff: Remote Link to 453.95 (Canton) 	FMN 	Law Dispatch 
-154.74000 	KSA925 	RM	94.8 PL	Fltn C/W MA 	Countywide Interagency Mutual Aid (CW-ID) 	FMN 	Interop 
-453.85000 	KFD630 	RM	203.5 PL	Fulton Highway  	Highway Department (Canton) 	FMN 	Public Works 
-453.02500 	WPEQ500 	RM	072 DPL	FCEMA Canton 	EMS: Dispatch - Canton (Simulcast with 453.125) 	FMN 	EMS Dispatch 
-453.12500 	WPEQ500 	RM	072 DPL	FCEMA Astoria 	EMS: Dispatch - Astoria (Simulcast with 453.025) 	FMN 	EMS Dispatch 
-46.30000 	WPEQ500 	F		Fult EMA *RF 	EMS: Remote Link to 45x.x 	FMN 	EMS-Tac 
-150.77500 	WPEQ500 	M		Fult EMA 1 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
-150.79000 	WPEQ500 	M	123.0 PL	Fult EMA RF3 	EMS: Mobile Extender 	FMN 	EMS Dispatch 
-150.79000 	WPEQ500 	RM	88.5 PL	Fult EMA RF2 	EMS: Mobile Extender or RF Link 	FMN 	EMS Dispatch 
-150.79000 	WPEQ500 	M	CSQ	Fult EMA RF1 	EMS: Simulcast of 155.01 Pages 	FMN 	EMS Dispatch 
-155.32500 	WPEQ500 	M		FCEMA ? 	EMS 	FMN 	EMS Dispatch 
-151.86500 	 	M	179.9 PL	Fult EMA Pvt 	EMS: Private 	FMN 	EMS-Tac 
-152.45000 	WQCM886 	RM	162.2 PL	GHA Sec/Mntn 	Security / Maintenance [REPEATER] 	FMN 	Business 
-159.96000 	WPYK347 	BM		GHA Sec/Mnt1 	Security / Maintenance 	FMN 	Business 
-160.03500 	WPYK347 	BM		GHA Sec/Mnt2 	Security / Maintenance 	FMN 	Business 
-153.11000 	WQCM886 	RM		GHA Sec/Mnt A 	Security / Maintenance 	FMN 	Business 
-152.99750 	WQCM886 	RM		GHA Sec/Mnt B 	Security / Maintenance 	FMN 	Business 
-155.38500 	WNNG814 	BM		GrahamHosp EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.34000 	WNMW955 	BM	173.8 PL	MERCI1 173.8 	Patient Reports 	FMN 	Hospital 
-151.02500 	KYH675 	BM	156.7 PL	CantTwpRoads 	Canton Township Road Maintenance 	FMN 	Public Works 
-151.04000 	WQRU375 	BM		FarmTwp Roads 	Farmington Township: Roads 	FMN 	Public Works 
-151.05500 	WPMX227 	BM		CassTwpRoads 	Cass Township Road Maintenance (Smithfield) 	FMN 	Public Works 
-151.08500 	WPUB759 	BM	91.5 PL	PtnmTwpRoads 	Putnam Township Road Maintenance 	FMN 	Public Works 
-453.57500 	WPTU412 	BM		VermTwpRoads 	Vermont Township Road Maintenance 	FMN 	Public Works 
-158.82000 	KSS928 	RM	CSQ	Avon Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.19000 	WNMV307 	BM	107.2 PL	Avon FD Loc 	Fire: Paging (by Warren Co) 	FMN 	Fire Dispatch 
-155.86500 	WPZX885 	M		Avon 1Rspndr 	First Responders 	FMN 	Fire-Tac 
-153.86000 	WPLT803 	M		Avon City 	City Services 	FMN 	Public Works 
-159.33000 	KSA920 	RM	411 DPL	Canton Police 1 	Police: Dispatch 	FMN 	Law Dispatch 
-159.19500 	KSA920 	RM		Canton Police 2 	Police (Water Treatment Plant) 	FMN 	Law Tac 
-151.20500 	WNUP803 	BM		FultonTwp Roads 	ESDA: Local 	FMN 	Emergency Ops 
-153.78500 	WNUP803 	M		Canton ESDA 	ESDA: Unit-to-Unit 	FMN 	Emergency Ops 
-155.01000 	KLL672 	RM	151.4 PL	Canton Fire 	Fire: Dispatch 	FMN 	Fire-Tac 
-154.96500 	WNBA806 	BM		Canton Parks 	Park District 	FMN 	Public Works 
-155.88000 	WNPU223 	BM	151.4 PL	Canton PubWorks 	Public Works  	FMN 	Public Works 
-451.20000 	WPTB463 	F		Canton WDD 1  	Water Distribution Data 	Telm 	Data 
-451.15000 	WQJV968 	F		Canton WDD 2  	Water Distribution Data (CSQ) 	Telm 	Data 
-451.70000 	WQJV968 	F		Canton WDD 3  	Water Distribution Data (CSQ) 	Telm 	Data 
-453.33750 	WPTR666 	F		Copp Fire RF1  	911 Link to Banner Station (Canton, Monterey, Lewistown) 	FMN 	Fire Dispatch 
-154.05500 	 	M		CCrk Firgrnd 	Fireground 	FMN 	Fire-Tac 
-453.88750 	WQBU246 	M		Cuba Fire MX 1  	Fire: Mobile Extenders  	FMN 	Fire Dispatch 
-458.88750 	WQBU246 	M		Cuba Fire MX 2  	Fire: Mobile Extenders  	FMN 	Fire Dispatch 
-158.85750 	WQXB674 	BM		Cuba PublicWrks  	Public Works 	FMN 	Public Works 
-453.06250 	WPMF575 	M		Fairview WDD 	Water Distribution Data (CSQ) [Expired 12/13] 	Telm 	Data 
-155.79000 	KNHM912 	BM	97.4 PL	Farmingtn PD 	Police 	FMN 	Law Dispatch 
-453.30000 	KNHM912 	BM		Frmn Police1 	Police 	FMN 	Law Tac 
-453.52500 	KNHM912 	BM		Frmn Police2 	Police 	FMN 	Law Tac 
-155.73000 	WPJM666 	BM		Frmngtn ESDA 	ESDA 	FMN 	Emergency Ops 
-154.17500 	WNLC256 	BM	146.2 PL	FarmingtonFG 	Fire: Fireground (CFPD) 	FMN 	Fire-Tac 
-158.74500 	WPPX856 	BM		Lewistwn DPW 	DPW: Electric, Water, Sewer 	FMN 	Public Works 
-461.22500 	 	RM	271 DPL	LondonMills Fire 	Fire/Rescue: Dispatch [No License?] 	FMN 	Fire Dispatch 
-456.07500 	WPQK571 	F		Marietta WDD 	Water Treatment Data (Marietta, Prairie City) (CSQ Bursts) 	Telm 	Data 
-155.20500 	KNAQ954 	BM	141.3 PL	AstoriaSchoolBus 	Buses 	FMN 	Schools 
-155.17500 	WPAJ631 	BM	94.8 PL	Canton Sch Bus  	Buses 	FMN 	Schools 
-151.50500 	WQLV866 	M		Canton HS 1 	High School Band Ops 	FMN 	Schools 
-151.51250 	WQLV866 	M		Canton HS 2 	High School Band Ops 	FMN 	Schools 
-151.62500 	WQLV866 	M		Canton HS 3 	High School Band Ops 	FMN 	Schools 
-151.70000 	WQLV866 	M		Canton HS 4 	High School Band Ops 	FMN 	Schools 
-151.76000 	WQLV866 	M		Canton HS 5 	High School Band Ops 	FMN 	Schools 
-158.40000 	WQLV866 	M		Canton HS 6 	High School Band Ops - Nationwide 	FMN 	Schools 
-158.40750 	WQLV866 	M		Canton HS 7 	High School Band Ops - Nationwide 	FMN 	Schools 
-464.10000 	KNNR336 	RM	218.1 PL	Frmgtn Sch Bus  	Buses (SRC Tower) 	FMN 	Schools 
-47.58000 	WPML203 	BM		Laidlaw FCSD 	Laidlaw Buses (Farmington) 	FMN 	Schools 
-452.07500 	WPQH620 	RM	134 DPL	FCSD265 Ops 1 	Operations (not D174) 	FMN 	Schools 
-452.05000 	WPQH620 	M		FCSD265 Ops 2  	Operations (not D152) 	FMN 	Schools 
-461.75000 	WNUT880 	RM	167.9 PL	Fulton Schools  	Operations 	FMN 	Schools 
-155.16000 	WPXV210 	RM	167.9 PL	Lwstwn Sch Buses 	Buses 	FMN 	Schools 
-155.23500 	WPZT323 	BM	173.8 PL	SpnRvrVal Buses  	Buses 	FMN 	Schools 
-155.29500 	WPEV296 	BM		VIT School Bus   	Buses 	FMN 	Schools 
-119.95000 	 	B	CSQ	CTK App/Dep 	Approach/Departure 	AM 	Aircraft 
-122.80000 	 	B	CSQ	CTK UNICOMM 	Unicomm 	AM 	Aircraft 
-Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois	
+155.10750 	159.14250  	WRDW946 	RM		Futon Fire/EMS 	Fire/EMS: Simulcast Sites 	FMN 	Fire Dispatch 
+154.13000 	   	WPAQ400 	B	151.4 PL	Fulton FireNet 	Fire: Tone-Outs / Dispatch - Countywide 	FMN 	Fire Dispatch 
+154.13000 	   	WPAQ400 	B	CSQ	FultonFirePaging 	Fire/EMS: Tone-Outs 	FMN 	Fire Dispatch 
+452.30000 	   	WPAQ400 	F	023 DPL	Fulton911 RF2C 	Fire/EMS: Remote Link (to 154.13-Cuba dispatch) 	FMN 	Fire Dispatch 
+452.30000 	   	WPAQ400 	F	026 DPL	Fulton911 RF2E 	Fire/EMS: Remote Link (to Cuba) 	FMN 	Fire Dispatch 
+452.30000 	   	WPAQ400 	F	031 DPL	Fulton911 RF2A 	Fire/EMS: Remote Receive Link to 911 (Cuba) [Fire "Fulton"] 	FMN 	Fire Dispatch 
+452.30000 	   	WPAQ400 	F	054 DPL	Fulton911 RF2B 	Fire/EMS: Remote Link (from 911?) (heard Manito) 	FMN 	Fire Dispatch 
+452.30000 	   	WPAQ400 	F	065 DPL	Fulton911 RF2G 	Fire/EMS: Remote Link (?? Manito) 	FMN 	Fire Dispatch 
+452.30000 	   	WPAQ400 	F	072 DPL	Fulton911 RF2D 	Fire/EMS: Remote Link to 911 (Paramedics) 	FMN 	Fire Dispatch 
+452.30000 	   	WPAQ400 	F	114 DPL	Fulton911 RF2F 	Fire/EMS: Remote Link to ? (St David*) 	FMN 	Fire Dispatch 
+453.78750 	   	WPAQ400 	F	156.7 PL	Fulton911 RF3A 	Fire/EMS: Remote Receive Link to 911 (Cuba) [Law?] 	FMN 	Fire Dispatch 
+453.78750 	   	WPAQ400 	F	173.8 PL	Fulton911 RF3B 	Fire/EMS: Remote Receive Link to 911 (Cuba) [Law?] 	FMN 	Fire Dispatch 
+457.30000 	   	WPAQ400 	F		Fulton911 RF4 	Fire/EMS: Remote Link to 911 - Multiple Locations 	FMN 	Fire Dispatch 
+457.30000 	   	WPAQ400 	F	023 DPL	Fulton911 RF4B 	Fire/EMS: Remote Link to 911 (Lewistown?) 	FMN 	Fire Dispatch 
+457.30000 	   	WPAQ400 	F	054 DPL	Fulton911 RF4A 	Fire/EMS: Remote Link to 911 -  	FMN 	Fire Dispatch 
+458.78750 	   	WPAQ400 	F		Fulton911 RF5 	Fire/EMS: Remote Link to 911 - Multiple Locations 	FMN 	Fire Dispatch 
+460.62500 	   	WPUT750 	F		Fulton911 RF8 	Fire/EMS: Remote Receive Link to 911 (Fairview) 	FMN 	Fire Dispatch 
+460.62500 	   	WPAQ400 	F	606 DPL	Fulton911 RF7 	Fire/EMS: Link to Remote Tower (Lewistown) [?? EMS] 	FMN 	Fire Dispatch 
+460.62500 	   	WPAQ400 	F	743 DPL	Fulton911 RF6 	Fire/EMS: Remote Receive Link to 911 (Astoria) (Cuba?) 	FMN 	Fire Dispatch 
+465.62500 	   	WPUV584 	F	754 DPL	Fulton911 RF9 	Fire/EMS: Remote Receive Link to 911 (Canton) (heard EMS 154.415?) 	FMN 	Fire Dispatch 
+453.33750 	   	WPTR666 	F	023 DPL	Copperas FireRF1 	Fire/EMS: Remote Link to Copperas Fire (Canton, Monterey, Lewistown) 	FMN 	Fire Dispatch 
+153.89000 	   	WPUT750 	B		FultonFireground 	Fireground 	FMN 	Fire-Tac 
+154.07000 	   	WPUT750 	B		Mar/TGv Fire 	Fire: Marietta, Table Grove 	FMN 	Fire Dispatch 
+154.16000 	   	WPAQ400 	B		ACLMTG Fire 	Fire: Avon, Canton, Lewiston, Marietta, Table Grove 	FMN 	Fire Dispatch 
+154.19000 	   	WPUT750 	B		Avon Fire Local 	Fire: Avon, Marietta 	FMN 	Fire Dispatch 
+154.25000 	   	WPAQ400 	B		Fulton Fire 425 	Fire: Astoria, Table Grove  	FMN 	Fire Dispatch 
+154.41500 	   	WPUT750 	B		As/TGrv Fire 	Fire: Astoria, Table Grove  	FMN 	Fire Dispatch 
+453.10000 	458.10000  	KSA925 	RM	203.5 PL	Fltn Shrf/Law C 	Sheriff: Dispatch; Rural Dispatch (Canton; Simulcast with 453.95) 	FMN 	Law Dispatch 
+453.95000 	458.95000  	KSA925 	RM	203.5 PL	Fltn Shrf/Law SE 	Sheriff: Dispatch; Rural Dispatch (Havana; Simulcast with 453.1) 	FMN 	Law Dispatch 
+154.83000 	   	KSA925 	M	203.5 PL	Fultn ShrfMX 	Sheriff: Remote Link to 453.95 (Canton) 	FMN 	Law Dispatch 
+154.74000 	156.01500  	KSA925 	RM	94.8 PL	Fltn C/W MA 	Countywide Interagency Mutual Aid (CW-ID) 	FMN 	Interop 
+453.85000 	458.85000  	KFD630 	RM	203.5 PL	Fulton Highway  	Highway Department (Canton) 	FMN 	Public Works 
+453.02500 	458.02500  	WPEQ500 	RM	072 DPL	FCEMA Canton 	EMS: Dispatch - Canton (Simulcast with 453.125) 	FMN 	EMS Dispatch 
+453.12500 	458.12500  	WPEQ500 	RM	072 DPL	FCEMA Astoria 	EMS: Dispatch - Astoria (Simulcast with 453.025) 	FMN 	EMS Dispatch 
+46.30000 	   	WPEQ500 	F		Fult EMA *RF 	EMS: Remote Link to 45x.x 	FMN 	EMS-Tac 
+150.77500 	   	WPEQ500 	M		Fult EMA 1 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+150.79000 	   	WPEQ500 	M	123.0 PL	Fult EMA RF3 	EMS: Mobile Extender 	FMN 	EMS Dispatch 
+150.79000 	   	WPEQ500 	RM	88.5 PL	Fult EMA RF2 	EMS: Mobile Extender or RF Link 	FMN 	EMS Dispatch 
+150.79000 	   	WPEQ500 	M	CSQ	Fult EMA RF1 	EMS: Simulcast of 155.01 Pages 	FMN 	EMS Dispatch 
+155.32500 	   	WPEQ500 	M		FCEMA ? 	EMS 	FMN 	EMS Dispatch 
+151.86500 	   	 	M	179.9 PL	Fult EMA Pvt 	EMS: Private 	FMN 	EMS-Tac 
+152.45000 	157.71000  	WQCM886 	RM	162.2 PL	GHA Sec/Mntn 	Security / Maintenance [REPEATER] 	FMN 	Business 
+159.96000 	   	WPYK347 	BM		GHA Sec/Mnt1 	Security / Maintenance 	FMN 	Business 
+160.03500 	   	WPYK347 	BM		GHA Sec/Mnt2 	Security / Maintenance 	FMN 	Business 
+153.11000 	159.54000  	WQCM886 	RM		GHA Sec/Mnt A 	Security / Maintenance 	FMN 	Business 
+152.99750 	159.90750  	WQCM886 	RM		GHA Sec/Mnt B 	Security / Maintenance 	FMN 	Business 
+155.38500 	   	WNNG814 	BM		GrahamHosp EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	WNMW955 	BM	173.8 PL	MERCI1 173.8 	Patient Reports 	FMN 	Hospital 
+151.02500 	   	KYH675 	BM	156.7 PL	CantTwpRoads 	Canton Township Road Maintenance 	FMN 	Public Works 
+151.04000 	   	WQRU375 	BM		FarmTwp Roads 	Farmington Township: Roads 	FMN 	Public Works 
+151.05500 	   	WPMX227 	BM		CassTwpRoads 	Cass Township Road Maintenance (Smithfield) 	FMN 	Public Works 
+151.08500 	   	WPUB759 	BM	91.5 PL	PtnmTwpRoads 	Putnam Township Road Maintenance 	FMN 	Public Works 
+453.57500 	   	WPTU412 	BM		VermTwpRoads 	Vermont Township Road Maintenance 	FMN 	Public Works 
+158.82000 	153.80000  	KSS928 	RM	CSQ	Avon Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.19000 	   	WNMV307 	BM	107.2 PL	Avon FD Loc 	Fire: Paging (by Warren Co) 	FMN 	Fire Dispatch 
+155.86500 	   	WPZX885 	M		Avon 1Rspndr 	First Responders 	FMN 	Fire-Tac 
+153.86000 	   	WPLT803 	M		Avon City 	City Services 	FMN 	Public Works 
+159.33000 	154.65000  	KSA920 	RM	411 DPL	Canton Police 1 	Police: Dispatch 	FMN 	Law Dispatch 
+159.19500 	155.12250  	KSA920 	RM		Canton Police 2 	Police (Water Treatment Plant) 	FMN 	Law Tac 
+151.20500 	   	WNUP803 	BM		FultonTwp Roads 	ESDA: Local 	FMN 	Emergency Ops 
+153.78500 	   	WNUP803 	M		Canton ESDA 	ESDA: Unit-to-Unit 	FMN 	Emergency Ops 
+155.01000 	159.44250  	KLL672 	RM	151.4 PL	Canton Fire 	Fire: Dispatch 	FMN 	Fire-Tac 
+154.96500 	   	WNBA806 	BM		Canton Parks 	Park District 	FMN 	Public Works 
+155.88000 	   	WNPU223 	BM	151.4 PL	Canton PubWorks 	Public Works  	FMN 	Public Works 
+451.20000 	   	WPTB463 	F		Canton WDD 1  	Water Distribution Data 	Telm 	Data 
+451.15000 	   	WQJV968 	F		Canton WDD 2  	Water Distribution Data (CSQ) 	Telm 	Data 
+451.70000 	   	WQJV968 	F		Canton WDD 3  	Water Distribution Data (CSQ) 	Telm 	Data 
+453.33750 	   	WPTR666 	F		Copp Fire RF1  	911 Link to Banner Station (Canton, Monterey, Lewistown) 	FMN 	Fire Dispatch 
+154.05500 	   	 	M		CCrk Firgrnd 	Fireground 	FMN 	Fire-Tac 
+453.88750 	   	WQBU246 	M		Cuba Fire MX 1  	Fire: Mobile Extenders  	FMN 	Fire Dispatch 
+458.88750 	   	WQBU246 	M		Cuba Fire MX 2  	Fire: Mobile Extenders  	FMN 	Fire Dispatch 
+158.85750 	   	WQXB674 	BM		Cuba PublicWrks  	Public Works 	FMN 	Public Works 
+453.06250 	   	WPMF575 	M		Fairview WDD 	Water Distribution Data (CSQ) [Expired 12/13] 	Telm 	Data 
+155.79000 	   	KNHM912 	BM	97.4 PL	Farmingtn PD 	Police 	FMN 	Law Dispatch 
+453.30000 	   	KNHM912 	BM		Frmn Police1 	Police 	FMN 	Law Tac 
+453.52500 	   	KNHM912 	BM		Frmn Police2 	Police 	FMN 	Law Tac 
+155.73000 	   	WPJM666 	BM		Frmngtn ESDA 	ESDA 	FMN 	Emergency Ops 
+154.17500 	   	WNLC256 	BM	146.2 PL	FarmingtonFG 	Fire: Fireground (CFPD) 	FMN 	Fire-Tac 
+158.74500 	   	WPPX856 	BM		Lewistwn DPW 	DPW: Electric, Water, Sewer 	FMN 	Public Works 
+461.22500 	466.22500  	 	RM	271 DPL	LondonMills Fire 	Fire/Rescue: Dispatch [No License?] 	FMN 	Fire Dispatch 
+456.07500 	   	WPQK571 	F		Marietta WDD 	Water Treatment Data (Marietta, Prairie City) (CSQ Bursts) 	Telm 	Data 
+155.20500 	   	KNAQ954 	BM	141.3 PL	AstoriaSchoolBus 	Buses 	FMN 	Schools 
+155.17500 	   	WPAJ631 	BM	94.8 PL	Canton Sch Bus  	Buses 	FMN 	Schools 
+151.50500 	   	WQLV866 	M		Canton HS 1 	High School Band Ops 	FMN 	Schools 
+151.51250 	   	WQLV866 	M		Canton HS 2 	High School Band Ops 	FMN 	Schools 
+151.62500 	   	WQLV866 	M		Canton HS 3 	High School Band Ops 	FMN 	Schools 
+151.70000 	   	WQLV866 	M		Canton HS 4 	High School Band Ops 	FMN 	Schools 
+151.76000 	   	WQLV866 	M		Canton HS 5 	High School Band Ops 	FMN 	Schools 
+158.40000 	   	WQLV866 	M		Canton HS 6 	High School Band Ops - Nationwide 	FMN 	Schools 
+158.40750 	   	WQLV866 	M		Canton HS 7 	High School Band Ops - Nationwide 	FMN 	Schools 
+464.10000 	469.10000  	KNNR336 	RM	218.1 PL	Frmgtn Sch Bus  	Buses (SRC Tower) 	FMN 	Schools 
+47.58000 	   	WPML203 	BM		1stStud Bus Farm 	First Student Buses (Farmington) 	FMN 	Schools 
+452.07500 	457.07500  	WPQH620 	RM	134 DPL	FCSD265 Ops 1 	Operations (not D174) 	FMN 	Schools 
+452.05000 	   	WPQH620 	M		FCSD265 Ops 2  	Operations (not D152) 	FMN 	Schools 
+461.75000 	466.75000  	WNUT880 	RM	167.9 PL	Fulton Schools  	Operations 	FMN 	Schools 
+155.16000 	158.95500  	WPXV210 	RM	167.9 PL	Lwstwn Sch Buses 	Buses 	FMN 	Schools 
+155.23500 	   	WPZT323 	BM	173.8 PL	SpnRvrVal Buses  	Buses 	FMN 	Schools 
+155.29500 	   	WPEV296 	BM		VIT School Bus   	Buses 	FMN 	Schools 
+119.95000 	   	 	B	CSQ	CTK App/Dep 	Approach/Departure 	AM 	Aircraft 
+122.80000 	   	 	B	CSQ	CTK UNICOMM 	Unicomm 	AM 	Aircraft 

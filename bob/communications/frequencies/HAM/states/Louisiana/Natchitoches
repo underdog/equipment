@@ -1,16 +1,15 @@
-155.79000 	KKB839 	RM	167.9 PL	NatSO Disp 	Sheriff Dispatch *Backup to LWIN* 	FMN 	Law Dispatch 
-156.03750 	KKB839 	M		NatSO MRptrs 	Sheriff Car to Car/Tactical  	FMN 	Law Talk 
-155.19000 	KNNU319 	BM		NatSO Jail 	Sheriff Detention Center 	FMN 	Law Talk 
-154.37000 	WNYD574 	RM		Nat E911 Dsp 	E-911 Dispatch 	FMN 	Fire Dispatch 
-154.19000 	WQKU258 	RM		NP OHSEP 	Homeland Security and Emergency Preparedness 	FMN 	Emergency Ops 
-155.74500 	WPTQ816 	RM		Nat FPD1 Ops 	Fire Protection District 1 	FMN 	Fire-Tac 
-154.34000 	WPJN242 	RM		Nat FPD6 Ops 	Fire Protection District 6 *Expired* 	FM 	Fire-Tac 
-155.32500 	WPSJ930 	RM		NP HOSP DISP 	Hospital EMS/Ambulance Dispatch 	FMN 	EMS Dispatch 
-155.07000 	KKA813 	RM	141.3 PL	Nat PD 	Police Dispatch *Backup to LWIN* 	FMN 	Law Dispatch 
-155.62500 	WPGT946 	RM		NPD SOPS 	Police Tactical/Special Operations *Backup to LWIN* 	FMN 	Law Tac 
-154.43000 	WQAY858 	RM		Nat FD Disp 	Fire/EMS Dispatch *Bacup to LWIN* 	FMN 	Fire Dispatch 
-453.93750 	WQAY858 	M		Nat FG 	Fireground/Tactical  	FMN 	Fire-Tac 
-155.88000 	KRO282 	RM		Nat PW 	Department of Public Works 	FMN 	Public Works 
-155.95500 	WQBT490 	BM		NHA-OPS 	Housing Authority 	FMN 	Public Works 
-CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	CLECO Power (P25)	 Project 25 Phase II	 Pineville	Entergy 	 Project 25 Phase II
- Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	
+155.79000 	154.84500  	KKB839 	RM	167.9 PL	NatSO Disp 	Sheriff Dispatch *Backup to LWIN* 	FMN 	Law Dispatch 
+156.03750 	   	KKB839 	M		NatSO MRptrs 	Sheriff Car to Car/Tactical  	FMN 	Law Talk 
+155.19000 	   	KNNU319 	BM		NatSO Jail 	Sheriff Detention Center 	FMN 	Law Talk 
+154.37000 	153.89000  	WNYD574 	RM		Nat E911 Dsp 	E-911 Dispatch 	FMN 	Fire Dispatch 
+154.19000 	151.02500  	WQKU258 	RM		NP OHSEP 	Homeland Security and Emergency Preparedness 	FMN 	Emergency Ops 
+155.74500 	153.98000  	WPTQ816 	RM		Nat FPD1 Ops 	Fire Protection District 1 	FMN 	Fire-Tac 
+154.34000 	158.89500  	WPJN242 	RM		Nat FPD6 Ops 	Fire Protection District 6 *Expired* 	FM 	Fire-Tac 
+155.32500 	150.77500  	WPSJ930 	RM		NP HOSP DISP 	Hospital EMS/Ambulance Dispatch 	FMN 	EMS Dispatch 
+155.07000 	154.65000  	KKA813 	RM	141.3 PL	Nat PD 	Police Dispatch *Backup to LWIN* 	FMN 	Law Dispatch 
+155.62500 	156.15000  	WPGT946 	RM		NPD SOPS 	Police Tactical/Special Operations *Backup to LWIN* 	FMN 	Law Tac 
+154.43000 	153.77000  	WQAY858 	RM		Nat FD Disp 	Fire/EMS Dispatch *Bacup to LWIN* 	FMN 	Fire Dispatch 
+453.93750 	   	WQAY858 	M		Nat FG 	Fireground/Tactical  	FMN 	Fire-Tac 
+155.88000 	153.93500  	KRO282 	RM		Nat PW 	Department of Public Works 	FMN 	Public Works 
+155.95500 	158.86500  	WQBT490 	BM		NHA-OPS 	Housing Authority 	FMN 	Public Works 
+CLECO Power (Motorola)	 Motorola Type II SmartZone	 Various	CLECO Power (P25)	 Project 25 Phase II	 Pineville	Entergy 	 Project 25 Phase II	 Various

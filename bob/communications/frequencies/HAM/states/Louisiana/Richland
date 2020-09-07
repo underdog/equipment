@@ -1,29 +1,28 @@
-855.46250 	WPML640 	RM		RPSO-TAC BU 	Sheriff Tactical  Backup 	FM 	Law Tac 
-859.21250 	WPML640 	RM		RPSO-DISP BU 	Sheriff - Dispatch Backup 	FM 	Law Dispatch 
-154.40000 	WNSE824 	RM	123.0 PL	StartGrrdFPD 	Start Girard Fire Protction District (includes District 8, Holly Ridge, Archibald/Alto, Rayville) 	FMN 	Fire Dispatch 
-151.46750 	WQCI648 	RM	91.5 PL	RPW1VFD 	Ward 1 VFD (LIC Expired) 	FMN 	Fire Dispatch 
-154.29500 	WQCI648 	BM		RPW1VFD FG 	Ward 1 VFD Mutual Aid/Fireground (LIC Expired) 	FMN 	Fire-Tac 
-155.59500 	WPRG298 	RM		RPOEP FIRE 	Office of Emergency Preparedness-Fire Dispatch 	FMN 	Fire Dispatch 
-155.82000 	KDV775 	RM		RPDPW 	Parish Maint. *Expired* 	FM 	Public Works 
-151.07000 	KNNS548 	RM		MED LIFE EMS 	Med Life EMS (Start Repeater) 	FMN 	EMS Dispatch 
-152.37500 	WPUR327 	RM		NLAS WBRO V 	Northeast Louisiana Ambulance Service (Winnsboro VHF Repeater) 	FMN 	EMS Dispatch 
-464.35000 	WPUR327 	RM		NLAS WBRO U 	Northeast Louisiana Ambulance Service (Winnsboro UHF Repeater) 	FMN 	EMS Dispatch 
-452.85000 	WPUR327 	RM		NLAS ST JO 	Northeast Louisiana Ambulance Service (St. Joseph Repeater) 	FMN 	EMS Dispatch 
-462.42500 	WPUR327 	RM		NLAS HRSNBG 	Northeast Louisiana Ambulance Service (Harrisonburg Repeater) 	FMN 	EMS Dispatch 
-463.60000 	WPUR327 	RM		NLAS CLMBIA 	Northeast Louisiana Ambulance Service (Columbia Repeater) 	FMN 	EMS Dispatch 
-464.02500 	WPUR327 	RM		NLAS CRWVLL 	Northeast Louisiana Ambulance Service (Crowville Repeater) 	FMN 	EMS Dispatch 
-464.70000 	WPUR327 	RM		NLAS TINDEL 	Northeast Louisiana Ambulance Service (Tindel Repeater) 	FMN 	EMS Dispatch 
-158.79750 	KNJT996 	RM		DPD-VHF 	Police (LIC Expired) 	FMN 	Law Dispatch 
-453.97500 	KNJT996 	RM		DPD-UHF 	Police (LIC Expired) 	FMN 	Law Dispatch 
-154.25750 	WQWM255   	RM	136.5 PL	DFD-DISP 	Fire Dispatch 	FMN 	Fire Dispatch 
-151.47000 	 	BM	91.5 PL	Delhi Fire 	Ward 6 Fire 	FMN 	Fire-Tac 
-453.60000 	WQAW754 	RM		DDPW-WELLS 	DPW-Water Wells (Voice and Data) 	FMN 	Public Works 
-460.63750 	WPNV758 	RM	123.0 PL	HRFD-OPS 	Fire *Expired* 	FM 	Fire Dispatch 
-156.24000 	WQGT249 	RM		MFD-DISP 	Mangham Fire District Dispatch 	FMN 	Fire Dispatch 
-154.23500 	WQPD408 	BM		MFD-TAC/FG 	Mangham Fire District Tactical/Fireground 	FMN 	Fire-Tac 
-154.76250 	WPXJ484 	RM	712 DPL	RAYVILLE PD 	Police 	FMN 	Law Dispatch 
-154.69500 	WPDR204 	RM	225.7 PL	RAYVILLE FD 	Fire *Expired* 	FM 	Fire Dispatch 
-453.05000 	WPAS493 	RM		RFD-UHF 	Fire *Expired* 	FM 	Fire-Tac 
-155.71500 	KFV943 	BM		RAYVILLE PW 	City Services 	FMN 	Public Works 
-Entergy 	 Project 25 Phase II	 Various	Louisiana Wireless Information Network (LWIN)	 Project 25 Phase I	 Statewide	Shreveport Communications (Delhi)	 LTR Standard
- Delhi	
+855.46250 	810.46250  	WPML640 	RM		RPSO-TAC BU 	Sheriff Tactical  Backup 	FM 	Law Tac 
+859.21250 	814.21250  	WPML640 	RM		RPSO-DISP BU 	Sheriff - Dispatch Backup 	FM 	Law Dispatch 
+154.40000 	154.07000  	WNSE824 	RM	123.0 PL	StartGrrdFPD 	Start Girard Fire Protction District (includes District 8, Holly Ridge, Archibald/Alto, Rayville) 	FMN 	Fire Dispatch 
+151.46750 	158.93250  	WQCI648 	RM	91.5 PL	RPW1VFD 	Ward 1 VFD (LIC Expired) 	FMN 	Fire Dispatch 
+154.29500 	   	WQCI648 	BM		RPW1VFD FG 	Ward 1 VFD Mutual Aid/Fireground (LIC Expired) 	FMN 	Fire-Tac 
+155.59500 	154.75500  	WPRG298 	RM		RPOEP FIRE 	Office of Emergency Preparedness-Fire Dispatch 	FMN 	Fire Dispatch 
+155.82000 	159.04500  	KDV775 	RM		RPDPW 	Parish Maint. *Expired* 	FM 	Public Works 
+151.07000 	159.01500  	KNNS548 	RM		MED LIFE EMS 	Med Life EMS (Start Repeater) 	FMN 	EMS Dispatch 
+152.37500 	157.63500  	WPUR327 	RM		NLAS WBRO V 	Northeast Louisiana Ambulance Service (Winnsboro VHF Repeater) 	FMN 	EMS Dispatch 
+464.35000 	469.35000  	WPUR327 	RM		NLAS WBRO U 	Northeast Louisiana Ambulance Service (Winnsboro UHF Repeater) 	FMN 	EMS Dispatch 
+452.85000 	457.85000  	WPUR327 	RM		NLAS ST JO 	Northeast Louisiana Ambulance Service (St. Joseph Repeater) 	FMN 	EMS Dispatch 
+462.42500 	467.42500  	WPUR327 	RM		NLAS HRSNBG 	Northeast Louisiana Ambulance Service (Harrisonburg Repeater) 	FMN 	EMS Dispatch 
+463.60000 	468.60000  	WPUR327 	RM		NLAS CLMBIA 	Northeast Louisiana Ambulance Service (Columbia Repeater) 	FMN 	EMS Dispatch 
+464.02500 	469.02500  	WPUR327 	RM		NLAS CRWVLL 	Northeast Louisiana Ambulance Service (Crowville Repeater) 	FMN 	EMS Dispatch 
+464.70000 	469.70000  	WPUR327 	RM		NLAS TINDEL 	Northeast Louisiana Ambulance Service (Tindel Repeater) 	FMN 	EMS Dispatch 
+158.79750 	154.71750  	KNJT996 	RM		DPD-VHF 	Police (LIC Expired) 	FMN 	Law Dispatch 
+453.97500 	458.97500  	KNJT996 	RM		DPD-UHF 	Police (LIC Expired) 	FMN 	Law Dispatch 
+154.25750 	158.87250  	WQWM255   	RM	136.5 PL	DFD-DISP 	Fire Dispatch 	FMN 	Fire Dispatch 
+151.47000 	   	 	BM	91.5 PL	Delhi Fire 	Ward 6 Fire 	FMN 	Fire-Tac 
+453.60000 	458.60000  	WQAW754 	RM		DDPW-WELLS 	DPW-Water Wells (Voice and Data) 	FMN 	Public Works 
+460.63750 	465.63750  	WPNV758 	RM	123.0 PL	HRFD-OPS 	Fire *Expired* 	FM 	Fire Dispatch 
+156.24000 	153.75500  	WQGT249 	RM		MFD-DISP 	Mangham Fire District Dispatch 	FMN 	Fire Dispatch 
+154.23500 	   	WQPD408 	BM		MFD-TAC/FG 	Mangham Fire District Tactical/Fireground 	FMN 	Fire-Tac 
+154.76250 	158.97750  	WPXJ484 	RM	712 DPL	RAYVILLE PD 	Police 	FMN 	Law Dispatch 
+154.69500 	153.77500  	WPDR204 	RM	225.7 PL	RAYVILLE FD 	Fire *Expired* 	FM 	Fire Dispatch 
+453.05000 	458.05000  	WPAS493 	RM		RFD-UHF 	Fire *Expired* 	FM 	Fire-Tac 
+155.71500 	   	KFV943 	BM		RAYVILLE PW 	City Services 	FMN 	Public Works 
+Entergy 	 Project 25 Phase II	 Various	Shreveport Communications (Delhi)	 LTR Standard	 Delhi	

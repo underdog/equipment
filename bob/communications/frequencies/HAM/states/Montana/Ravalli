@@ -1,47 +1,46 @@
-154.44500 	KZR558 	BM		RavliCoFD No 	Fire - North Dispatch 	FMN 	Fire Dispatch 
-154.44500 	WNFM595 	BM		RavliCoFD So 	Fire - South Dispatch 	FMN 	Fire Dispatch 
-154.44500 	WQAK513 	RM		RavalliCoFD 	Fire - Countywide Dispatch 	FMN 	Fire Dispatch 
-154.16000 	WNFQ517 	RM		WFork Fire 	Fire - Dispatch: West Fork, Bitter Root River area 	FMN 	Fire Dispatch 
-156.22500 	WNRA659 	RM		RavCo ShDisp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.02500 	KOB651 	RM		RavalliCoSO1 	Sheriff - Dispatch 	FMN 	Law Dispatch 
-154.75500 	KOB651 	BM		RavalliCo SO 	Sheriff - 	FMN 	Law Talk 
-155.19000 	KOB651 	BM		RavalliCo SO 	Sheriff - 	FMN 	Law Talk 
-155.41500 	KOB651 	RM		RavalliCo SO 	Sheriff - 	FMN 	Law Talk 
-155.59500 	KOB651 	BM		RavalliCo SO 	Sheriff - 	FMN 	Law Talk 
-155.04000 	KOI680 	RM		RavliCoRoad1 	Highway Dept. - Primary 	FMN 	Public Works 
-157.41000 	KOI680 	BM		RavliCoRoad2 	Highway Dept. - Secondary 	FMN 	Public Works 
-453.87500 	WPLR516 	M		RavCoMuseum 	Museum 	FMN 	Public Works 
-154.19000 	KIT639 	RM		FlorenceFire 	Florence Volunteer Fire Department 	FMN 	Fire Dispatch 
-154.13000 	WPTY353 	RM		PaintRokFD 	Painted Rocks Fire District 	FMN 	Fire Dispatch 
-154.40000 	WQAE585 	M		Sula Fire 	Sula Rural Fire District 	FMN 	Fire Dispatch 
-153.86000 	 	BM		Corvallis FD 	Operations 	FMN 	Fire-Talk 
-154.05500 	 	BM		Corvallis FD 	Operations 	FMN 	Fire-Talk 
-154.38500 	WQIS328 	BM		Corvallis FD 	Operations 	FMN 	Fire-Talk 
-154.44500 	 	M		RavalliCo FD 	County Fire Dispatch 	FMN 	Fire-Talk 
-154.41500 	WZV499 	BM		Darby Fire 	Fire - Dispatch 	FMN 	Fire Dispatch 
-154.87500 	WPDX818 	BM		Darby Police 	Police - 	FMN 	Law Dispatch 
-453.75000 	WPKH583 	BM		Darby DPW 	DPW 	FMN 	Public Works 
-154.19000 	KIT639 	RM		Florence FD 	Dispatch 	FMN 	Fire Dispatch 
-154.44500 	KIT639 	RM		RavallisCoFD 	County Fire Dispatch 	FMN 	Fire-Talk 
-154.98000 	KNET540 	BM		Hamilton FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-154.10000 	WPTY353 	RM		PaintRokFD 	Dispatch 	P25 	Fire Dispatch 
-154.13000 	WPTY353 	RM		PaintRokFD 	Operations 	P25 	Fire-Talk 
-154.25000 	KNJD721 	BM		PinesdaleFD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-154.89000 	WPCQ825 	BM		PinesdalePD 	Police - 	FMN 	Law Dispatch 
-154.32500 	WQAE899 	RM		StevensvlFD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-39.54000 	WXB759 	BM		StevensvlPD 	Police - Dispatch 	FM 	Law Dispatch 
-39.70000 	WXB759 	M		StevensvlPD 	Police - 	FM 	Law Talk 
-39.88000 	WXB759 	M		StevensvlPD 	Police - 	FM 	Law Talk 
-154.11500 	WQAD863 	BM		StevnsvlDPW 	DPW/Fire 	FMN 	Public Works 
-154.44500 	WQAE585 	RM		SulaFireDisp 	Dispatch 	FMN 	Fire Dispatch 
-151.43000 	WQAQ572 	RM		SulaFireOps 	Operations 	FMN 	Fire-Tac 
-154.40000 	WQAE585 	M		SulaFireGrnd 	Fireground 	FMN 	Fire-Tac 
-154.22000 	KNJB606 	BM		Victor Fire 	Fire 	FMN 	Fire-Tac 
-158.88000 	KVJ736 	BM		BtrRootIriga 	Operations 	FMN 	Public Works 
-158.77500 	KNIM406 	BM		DalyDtchIrig 	Operations 	FMN 	Public Works 
-152.31500 	WNWL468 	BM		CorvlsSchlBs 	Transportation 	FMN 	Schools 
-153.26000 	KNIE659 	BM		DarbySchlBus 	Transportation 	FMN 	Schools 
-462.45000 	WPRY358 	RM		HamtnSchlBus 	Transportation - Primary 	FMN 	Schools 
-461.30000 	WPRY358 	RM		HmtnSchlBus2 	Transportation - Secondary 	FMN 	Schools 
-155.26500 	KNBR708 	BM		StevlSchlBus 	Transportation 	FMN 	Schools 
-Montana Public Safety Communications System	 Project 25 Phase I	 Statewide	
+154.44500 	   	KZR558 	BM		RavliCoFD No 	Fire - North Dispatch 	FMN 	Fire Dispatch 
+154.44500 	   	WNFM595 	BM		RavliCoFD So 	Fire - South Dispatch 	FMN 	Fire Dispatch 
+154.44500 	155.89500  	WQAK513 	RM		RavalliCoFD 	Fire - Countywide Dispatch 	FMN 	Fire Dispatch 
+154.16000 	150.77500  	WNFQ517 	RM		WFork Fire 	Fire - Dispatch: West Fork, Bitter Root River area 	FMN 	Fire Dispatch 
+156.22500 	   	WNRA659 	RM		RavCo ShDisp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.02500 	158.95500  	KOB651 	RM		RavalliCoSO1 	Sheriff - Dispatch 	FMN 	Law Dispatch 
+154.75500 	   	KOB651 	BM		RavalliCo SO 	Sheriff - 	FMN 	Law Talk 
+155.19000 	   	KOB651 	BM		RavalliCo SO 	Sheriff - 	FMN 	Law Talk 
+155.41500 	158.91000  	KOB651 	RM		RavalliCo SO 	Sheriff - 	FMN 	Law Talk 
+155.59500 	   	KOB651 	BM		RavalliCo SO 	Sheriff - 	FMN 	Law Talk 
+155.04000 	158.97000  	KOI680 	RM		RavliCoRoad1 	Highway Dept. - Primary 	FMN 	Public Works 
+157.41000 	   	KOI680 	BM		RavliCoRoad2 	Highway Dept. - Secondary 	FMN 	Public Works 
+453.87500 	   	WPLR516 	M		RavCoMuseum 	Museum 	FMN 	Public Works 
+154.19000 	   	KIT639 	RM		FlorenceFire 	Florence Volunteer Fire Department 	FMN 	Fire Dispatch 
+154.13000 	   	WPTY353 	RM		PaintRokFD 	Painted Rocks Fire District 	FMN 	Fire Dispatch 
+154.40000 	   	WQAE585 	M		Sula Fire 	Sula Rural Fire District 	FMN 	Fire Dispatch 
+153.86000 	   	 	BM		Corvallis FD 	Operations 	FMN 	Fire-Talk 
+154.05500 	   	 	BM		Corvallis FD 	Operations 	FMN 	Fire-Talk 
+154.38500 	   	WQIS328 	BM		Corvallis FD 	Operations 	FMN 	Fire-Talk 
+154.44500 	   	 	M		RavalliCo FD 	County Fire Dispatch 	FMN 	Fire-Talk 
+154.41500 	   	WZV499 	BM		Darby Fire 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.87500 	   	WPDX818 	BM		Darby Police 	Police - 	FMN 	Law Dispatch 
+453.75000 	   	WPKH583 	BM		Darby DPW 	DPW 	FMN 	Public Works 
+154.19000 	153.77000  	KIT639 	RM		Florence FD 	Dispatch 	FMN 	Fire Dispatch 
+154.44500 	   	KIT639 	RM		RavallisCoFD 	County Fire Dispatch 	FMN 	Fire-Talk 
+154.98000 	   	KNET540 	BM		Hamilton FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.10000 	150.80500  	WPTY353 	RM		PaintRokFD 	Dispatch 	P25 	Fire Dispatch 
+154.13000 	155.62500  	WPTY353 	RM		PaintRokFD 	Operations 	P25 	Fire-Talk 
+154.25000 	   	KNJD721 	BM		PinesdaleFD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.89000 	   	WPCQ825 	BM		PinesdalePD 	Police - 	FMN 	Law Dispatch 
+154.32500 	150.80500  	WQAE899 	RM		StevensvlFD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+39.54000 	   	WXB759 	BM		StevensvlPD 	Police - Dispatch 	FM 	Law Dispatch 
+39.70000 	   	WXB759 	M		StevensvlPD 	Police - 	FM 	Law Talk 
+39.88000 	   	WXB759 	M		StevensvlPD 	Police - 	FM 	Law Talk 
+154.11500 	   	WQAD863 	BM		StevnsvlDPW 	DPW/Fire 	FMN 	Public Works 
+154.44500 	155.89500  	WQAE585 	RM		SulaFireDisp 	Dispatch 	FMN 	Fire Dispatch 
+151.43000 	159.46500  	WQAQ572 	RM		SulaFireOps 	Operations 	FMN 	Fire-Tac 
+154.40000 	   	WQAE585 	M		SulaFireGrnd 	Fireground 	FMN 	Fire-Tac 
+154.22000 	   	KNJB606 	BM		Victor Fire 	Fire 	FMN 	Fire-Tac 
+158.88000 	   	KVJ736 	BM		BtrRootIriga 	Operations 	FMN 	Public Works 
+158.77500 	   	KNIM406 	BM		DalyDtchIrig 	Operations 	FMN 	Public Works 
+152.31500 	   	WNWL468 	BM		CorvlsSchlBs 	Transportation 	FMN 	Schools 
+153.26000 	   	KNIE659 	BM		DarbySchlBus 	Transportation 	FMN 	Schools 
+462.45000 	467.45000  	WPRY358 	RM		HamtnSchlBus 	Transportation - Primary 	FMN 	Schools 
+461.30000 	466.30000  	WPRY358 	RM		HmtnSchlBus2 	Transportation - Secondary 	FMN 	Schools 
+155.26500 	   	KNBR708 	BM		StevlSchlBus 	Transportation 	FMN 	Schools 

@@ -1,23 +1,23 @@
-154.86000 	KTV630 	RM	141.3 PL	SWSON 	Sheriff Dispatch - North (141.3 input) 	FMN 	Law Dispatch 
-154.86000 	KTV630 	RM	141.3 PL	SWSOS 	Sheriff Dispatch - South (100.0 input) 	FMN 	Law Dispatch 
-154.23500 	WPVZ754 	RM	141.3 PL	SWFIRE 	Fire/EMS Dispatch - East (100.0 input) 	FMN 	Fire Dispatch 
-154.23500 	WPVZ754 	RM	141.3 PL	SWFIRW 	Fire/EMS Dispatch - West (141.3 input) 	FMN 	Fire Dispatch 
-155.16750 	WQBJ343 	RM	311 DPL	SWEMHAY 	Emergency Management - Hayward 	FMN 	Multi-Talk 
-155.24250 	WQBJ343 	RM	311 DPL	SWEMMLK 	Emergency Management - Moose Lake 	FMN 	Multi-Talk 
-154.14500 	WQBJ343 	RM	311 DPL	SWEMMET 	Emergency Management - Meteor 	FMN 	Multi-Talk 
-155.76750 	WQBJ343 	RM	311 DPL	SWEMDRA 	Emergency Management - Draper 	FMN 	Multi-Talk 
-155.02500 	KTV630 	RM	311 DPL	SWPAG 	Paging 	FMN 	Fire Dispatch 
-155.68500 	KTV630 	M	141.3 PL	SWSOTAC 	Sheriff Tactical 	FMN 	Law Tac 
-154.80000 	KTV630 	RM	243 DPL	SWJAIL 	Jail 	FMN 	Corrections 
-154.05500 	KYN951 	RM	103.5 PL	SWHWY 	Highways 	FMN 	Public Works 
-155.05500 	WPRJ588 	BM		SWTOWN 	Towns (used by all townships, tone varies) 	FMN 	Public Works 
-155.42250 	WPSJ301 	RM	311 DPL	SWHHS 	Health and Human Services 	FMN 	Transportation 
-155.79750 	WPSJ301 	RM	311 DPL	SWTRANS 	Namekagon Transit 	FMN 	Transportation 
-155.61000 	KNIP932 	RM	141.3 PL	Hayward PD 	Police 	FMN 	Law Dispatch 
-152.29250 	WQAB201  	RM	186.2 PL	HAMH 	Hayward Area Memorial Hospital 	FMN 	Hospital 
-155.71500 	WQAG713 	RM	141.3 PL	Hayward DPW 	Public Works 	FMN 	Public Works 
-155.89500 	WNCC207 	RM	141.3 PL	Hayward Town 	Services / Fire 	FMN 	Multi-Talk 
-154.02500 	KNAO541 	RM	141.3 PL	LCO PD 	Police Alt 	FMN 	Law Talk 
-154.96500 	KNAO541 	RM	82.5 PL	LCO Bus 	Housing Authority / Buses 	FMN 	Transportation 
-147.25500 	N9UPC 	RM	110.9 PL	Skywarn 	Skywarn 	FM 	Ham 
-Dairyland Power Cooperative	 DMR Tier 3	 Various	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+154.86000 	158.97000  	KTV630 	RM	141.3 PL	SWSON 	Sheriff Dispatch - North (141.3 input) 	FMN 	Law Dispatch 
+154.86000 	158.97000  	KTV630 	RM	141.3 PL	SWSOS 	Sheriff Dispatch - South (100.0 input) 	FMN 	Law Dispatch 
+154.23500 	153.83000  	WPVZ754 	RM	141.3 PL	SWFIRE 	Fire/EMS Dispatch - East (100.0 input) 	FMN 	Fire Dispatch 
+154.23500 	153.83000  	WPVZ754 	RM	141.3 PL	SWFIRW 	Fire/EMS Dispatch - West (141.3 input) 	FMN 	Fire Dispatch 
+155.16750 	150.80500  	WQBJ343 	RM	311 DPL	SWEMHAY 	Emergency Management - Hayward 	FMN 	Multi-Talk 
+155.24250 	153.77750  	WQBJ343 	RM	311 DPL	SWEMMLK 	Emergency Management - Moose Lake 	FMN 	Multi-Talk 
+154.14500 	155.99250  	WQBJ343 	RM	311 DPL	SWEMMET 	Emergency Management - Meteor 	FMN 	Multi-Talk 
+155.76750 	150.77500  	WQBJ343 	RM	311 DPL	SWEMDRA 	Emergency Management - Draper 	FMN 	Multi-Talk 
+155.02500 	158.95500  	KTV630 	RM	311 DPL	SWPAG 	Paging 	FMN 	Fire Dispatch 
+155.68500 	   	KTV630 	M	141.3 PL	SWSOTAC 	Sheriff Tactical 	FMN 	Law Tac 
+154.80000 	158.76750  	KTV630 	RM	243 DPL	SWJAIL 	Jail 	FMN 	Corrections 
+154.05500 	158.88000  	KYN951 	RM	103.5 PL	SWHWY 	Highways 	FMN 	Public Works 
+155.05500 	   	WPRJ588 	BM		SWTOWN 	Towns (used by all townships, tone varies) 	FMN 	Public Works 
+155.42250 	159.09750  	WPSJ301 	RM	311 DPL	SWHHS 	Health and Human Services 	FMN 	Transportation 
+155.79750 	159.03000  	WPSJ301 	RM	311 DPL	SWTRANS 	Namekagon Transit 	FMN 	Transportation 
+155.61000 	153.90500  	KNIP932 	RM	141.3 PL	Hayward PD 	Police 	FMN 	Law Dispatch 
+152.29250 	157.55250  	WQAB201  	RM	186.2 PL	HAMH 	Hayward Area Memorial Hospital 	FMN 	Hospital 
+155.71500 	153.74000  	WQAG713 	RM	141.3 PL	Hayward DPW 	Public Works 	FMN 	Public Works 
+155.89500 	158.89500  	WNCC207 	RM	141.3 PL	Hayward Town 	Services / Fire 	FMN 	Multi-Talk 
+154.02500 	158.94000  	KNAO541 	RM	141.3 PL	LCO PD 	Police Alt 	FMN 	Law Talk 
+154.96500 	158.86500  	KNAO541 	RM	82.5 PL	LCO Bus 	Housing Authority / Buses 	FMN 	Transportation 
+147.25500 	147.85500  	N9UPC 	RM	110.9 PL	Skywarn 	Skywarn 	FM 	Ham 
+Dairyland Power Cooperative	 DMR Tier 3	 Various	

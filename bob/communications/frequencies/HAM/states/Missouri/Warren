@@ -1,32 +1,32 @@
-160.17000 	WPLT598 	RM	151.4 PL	Warren Law/Shrf 	Sheriff/Rural Law: Dispatch [Ch 1]  	FMN 	Law Dispatch 
-156.15000 	KAH614 	M		Warren Shrf Jail 	Sheriff: Jail Ops 	FMN 	Corrections 
-158.77500 	WNPC343 	BM	151.4 PL	Warren EMA 	Emergency Management 	FMN 	Emergency Ops 
-158.67000 	WPVF237 	RM	151.4 PL	Warren Fire 	Fire: Dispatch [Warner License] 	FMN 	Fire Dispatch 
-157.51500 	WPIY660 	RM	151.4 PL	Warren EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-156.19500 	WPZL337 	RM	151.4 PL	Warren Roads 	Roads and Bridges 	FMN 	Public Works 
-155.16000 	KNFC880 	BM	123.0 PL	Warren EMS 2  	EMS: Dispatch 	FMN 	EMS Dispatch 
-152.93000 	WQLP540 	RM		Innsbrook OwnAsn 	Innsbrook Owners Assn: Patrol/Dispatch (in use) 	DMR 	Security 
-154.43000 	KSZ407 	BM		MarthasvilleFire 	Fire: Dispatch  	FMN 	Fire Dispatch 
-153.77000 	KSZ407 	M		Mrthvl Fire Cmd  	Fire: Command 	FMN 	Fire-Tac 
-155.07000 	WQLI889 	RM	151.4 PL	WarrentonPolice1 	Police: Dispatch 	FMN 	Law Dispatch 
-153.89750 	WQLI889 	F	364 DPL	WPD Input Link 	Police: Dispatcher from Warren County (input) 	FMN 	Law Dispatch 
-155.86500 	KWE649 	BM		WarrentonPolice2 	Police: Secondary 	FMN 	Law Tac 
-154.20500 	KSW974 	BM	CSQ	Warrenton Fire 	Fire: Dispatch (DB: County) 	FMN 	Fire Dispatch 
-154.23500 	WPIY660 	BM		WarrentonFireAdm 	Fire: Administrative 	FMN 	Fire-Tac 
-173.37500 	WQKI608 	F		Warrenton WDD 	Water Data 	Telm 	Data 
-458.06250 	WQHV673 	F		WRA AWOS 	Washington Regional Airport 	Telm 	Data 
-154.98750 	WQLI889 	BM	151.4 PL	WrightCtyPolice1 	Police: Local (Dispatched on 160.17) 	FMN 	Law Dispatch 
-151.28750 	WQRS305 	M	315 DPL	WrightCtyPolice2 	Police: Tac 	FMN 	Law Tac 
-153.83000 	KPD338 	M		WrightCity FG 	Fireground 	FMN 	Fire-Tac 
-154.14500 	KPD338 	B		WrightCity FDAdm 	Fire: Administrative / Secondary Tactical 	FMN 	Fire-Tac 
-461.85000 	WQRR936 	RM	186.2 PL	WCR3 School1 	Buses 	FMN 	Schools 
-451.83750 	WQRR936 	RM	074 DPL	WCR3 School2 	Operations 	FMN 	Schools 
-461.77500 	WQRR936 	RM		WCR3 School3 	Operations (Low Power Repeater)  	FMN 	Schools 
-463.70000 	WNUS444 	RM	162.2 PL	WRR2 Buses 	Buses 	FMN 	Schools 
-452.02500 	WQGN797 	M		WRR2 School 1  	Operations/Security 	FMN 	Schools 
-452.05000 	WQGN797 	M		WRR2 School 2  	Operations/Security 	FMN 	Schools 
-452.62500 	WQGN797 	M		WRR2 School 3  	Operations/Security 	FMN 	Schools 
-461.17500 	WQGN797 	M		WRR2 School 4  	Operations/Security 	FMN 	Schools 
-461.45000 	WQGN797 	M		WRR2 School 5  	Operations/Security 	FMN 	Schools 
-461.75000 	WQGN797 	M		WRR2 School 6  	Operations/Security 	FMN 	Schools 
+160.17000 	157.65000  	WPLT598 	RM	151.4 PL	Warren Law/Shrf 	Sheriff/Rural Law: Dispatch [Ch 1]  	FMN 	Law Dispatch 
+156.15000 	   	KAH614 	M		Warren Shrf Jail 	Sheriff: Jail Ops 	FMN 	Corrections 
+158.77500 	   	WNPC343 	BM	151.4 PL	Warren EMA 	Emergency Management 	FMN 	Emergency Ops 
+158.67000 	152.21000  	WPVF237 	RM	151.4 PL	Warren Fire 	Fire: Dispatch [Warner License] 	FMN 	Fire Dispatch 
+157.51500 	159.79500  	WPIY660 	RM	151.4 PL	Warren EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+156.19500 	159.12000  	WPZL337 	RM	151.4 PL	Warren Roads 	Roads and Bridges 	FMN 	Public Works 
+155.16000 	   	KNFC880 	BM	123.0 PL	Warren EMS 2  	EMS: Dispatch 	FMN 	EMS Dispatch 
+152.93000 	159.57000  	WQLP540 	RM		Innsbrook OwnAsn 	Innsbrook Owners Assn: Patrol/Dispatch (in use) 	DMR 	Security 
+154.43000 	   	KSZ407 	BM		MarthasvilleFire 	Fire: Dispatch  	FMN 	Fire Dispatch 
+153.77000 	   	KSZ407 	M		Mrthvl Fire Cmd  	Fire: Command 	FMN 	Fire-Tac 
+155.07000 	153.89750  	WQLI889 	RM	151.4 PL	WarrentonPolice1 	Police: Dispatch 	FMN 	Law Dispatch 
+153.89750 	   	WQLI889 	F	364 DPL	WPD Input Link 	Police: Dispatcher from Warren County (input) 	FMN 	Law Dispatch 
+155.86500 	   	KWE649 	BM		WarrentonPolice2 	Police: Secondary 	FMN 	Law Tac 
+154.20500 	   	KSW974 	BM	CSQ	Warrenton Fire 	Fire: Dispatch (DB: County) 	FMN 	Fire Dispatch 
+154.23500 	   	WPIY660 	BM		WarrentonFireAdm 	Fire: Administrative 	FMN 	Fire-Tac 
+173.37500 	   	WQKI608 	F		Warrenton WDD 	Water Data 	Telm 	Data 
+458.06250 	   	WQHV673 	F		WRA AWOS 	Washington Regional Airport 	Telm 	Data 
+154.98750 	   	WQLI889 	BM	151.4 PL	WrightCtyPolice1 	Police: Local (Dispatched on 160.17) 	FMN 	Law Dispatch 
+151.28750 	   	WQRS305 	M	315 DPL	WrightCtyPolice2 	Police: Tac 	FMN 	Law Tac 
+153.83000 	   	KPD338 	M		WrightCity FG 	Fireground 	FMN 	Fire-Tac 
+154.14500 	   	KPD338 	B		WrightCity FDAdm 	Fire: Administrative / Secondary Tactical 	FMN 	Fire-Tac 
+461.85000 	466.85000  	WQRR936 	RM	186.2 PL	WCR3 School1 	Buses 	FMN 	Schools 
+451.83750 	456.83750  	WQRR936 	RM	074 DPL	WCR3 School2 	Operations 	FMN 	Schools 
+461.77500 	466.77500  	WQRR936 	RM		WCR3 School3 	Operations (Low Power Repeater)  	FMN 	Schools 
+463.70000 	468.70000  	WNUS444 	RM	162.2 PL	WRR2 Buses 	Buses 	FMN 	Schools 
+452.02500 	   	WQGN797 	M		WRR2 School 1  	Operations/Security 	FMN 	Schools 
+452.05000 	   	WQGN797 	M		WRR2 School 2  	Operations/Security 	FMN 	Schools 
+452.62500 	   	WQGN797 	M		WRR2 School 3  	Operations/Security 	FMN 	Schools 
+461.17500 	   	WQGN797 	M		WRR2 School 4  	Operations/Security 	FMN 	Schools 
+461.45000 	   	WQGN797 	M		WRR2 School 5  	Operations/Security 	FMN 	Schools 
+461.75000 	   	WQGN797 	M		WRR2 School 6  	Operations/Security 	FMN 	Schools 
 AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	

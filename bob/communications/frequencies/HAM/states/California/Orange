@@ -1,184 +1,182 @@
-151.08500 	KMK950 	RM	136.5 PL	OC ACC V 	OC Access VHF / Advisory Broadcast / Patch Capable  	FMN 	Interop 
-460.52500 	KZT450 	RM	103.5 PL	OC ACC U 	OC Access UHF 	FMN 	Interop 
-860.86250 	KDN669 	RM	103.5 PL	OC ACC 800 	OC Access 800 	FMN 	Interop 
-37.14000 	KMK457 	BM	100.0 PL	OA-2 	OC Operational Area Coordination Net 2 	FM 	Emergency Ops 
-45.30000 	KMG796 	BM	146.2 PL	Air Net 	AirCall backup 	FM 	Law Tac 
-46.56000 	KMK457 	BM	CSQ	OA-1 	OC Operational Area Coordination Net 1 	FM 	Emergency Ops 
-39.84000 	KMK457 	BM	CSQ	WEROC 	Water Emergency Response Org of OC 	FM 	Public Works 
-151.01000 	WNIG250 	RM	123.0 PL	FIRE OC 	OC Fire Tactical / Outside Agency Interop 	FMN 	Interop 
-460.52500 	KMA752 	RM	103.5 PL	Sheriff SAR 	Sheriff - Search and Rescue - 800Mhz patch capable 	FMN 	Law Tac 
-852.73750 	WNSS372 	M	226 NAC	EOC SIL-TA   	OC Emergency Operations Center - Silver TA 	P25 	Emergency Ops 
-852.76250 	WNSS372 	M	228 NAC	HLTH SIL-TA 	OC Health Care Agency - Silver TA 	P25 	EMS-Tac 
-852.76250 	WNSS372 	M	243 NAC	OCTA SIL-TA  	OC Transportation Authority - Silver TA 	P25 	Transportation 
-852.76250 	WNSS372 	M	244 NAC	AC SIL-TA   	OC Animal Control - Silver TA 	P25 	Public Works 
-852.76250 	WNSS372 	M	245 NAC	OCPW SIL-TA  	OC Public Works - Silver TA 	P25 	Public Works 
-852.76250 	WNSS372 	M	247 NAC	PARK SIL-TA  	OC Parks - Silver TA 	P25 	Public Works 
-852.76250 	WNSS372 	M	251 NAC	COMM SIL-TA  	Communications - Silver TA 	P25 	Public Works 
-852.76250 	WNSS372 	M	261 NAC	IWM SIL-TA   	Integrated Waste Management - Silver TA 	P25 	Public Works 
-852.76250 	WNSS372 	M	271 NAC	SSA SIL-TA   	OC Social Services Agency - Silver TA 	P25 	Public Works 
-853.28750 	WNSS372 	M	263 NAC	JWA SIL-TA   	John Wayne Airport - Silver TA 	P25 	Public Works 
-853.48750 	WPIX684 	M	281 NAC	PW NORTH-TA  	OC Public Works North - TA 	P25 	Public Works 
-853.48750 	WPIX684 	M	282 NAC	PW CENTRL-TA 	OC Public Works Central - TA 	P25 	Public Works 
-853.48750 	WPIX684 	M	283 NAC	PW SOUTH-TA  	OC Public Works South - TA 	P25 	Public Works 
-852.26250 	WNSS372 	M	351 NAC	AQUA-TA 	OC Lifeguard - Aqua TA 	P25 	EMS-Tac 
-853.55000 	WQCK588 	RM	570 NAC	PINOS RP 	Probation - Los Pinos Probation Camp - RP 	P25 	Corrections 
-853.76250 	WNSS372 	M	503 NAC	GREEN-TA 	Probation - Green TA 	P25 	Corrections 
-853.76250 	WNSS372 	M	506 NAC	PINOS TA 	Probation - Los Pinos Probation Camp - TA 	P25 	Corrections 
-853.76250 	WNSS372 	M	516 NAC	YGC TA 	Probation - Youth Guidance Center - TA 	P25 	Corrections 
-853.76250 	WNSS372 	M	532 NAC	JOPLIN TA 	Probation - Joplin Youth Center - TA 	P25 	Corrections 
-853.76250 	WNSS372 	M	546 NAC	JUVI TA 	Probation - Juvenile Hall - TA 	P25 	Corrections 
-853.76250 	WNSS372 	M	565 NAC	ANNEX TA 	Probation - Annex - TA (Juvenile Hall) 	P25 	Corrections 
-853.10000 	WNSS372 	M	205 NAC	YELLOW-TA 	Yellow TA 	P25E 	Law Tac 
-853.60000 	WNSS372 	M	205 NAC	YELLOW-SPTA 	OCSD Special Events - Yellow SPTA 	P25E 	Law Tac 
-851.45000 	WNSS372 	M	343 NAC	SWAT-TA 	SWAT TA 	P25E 	Law Tac 
-773.63125 	WQQK825 	RM	628 NAC	7OC1 	OC 700Mhz INTEROP 	P25 	Interop 
-773.64375 	WQQK825 	RM	704 NAC	7OC2 	OC 700Mhz INTEROP 	P25 	Interop 
-773.65625 	WQQK825 	RM	834 NAC	7OC3 	OC 700Mhz INTEROP 	P25 	Interop 
-852.92500 	WNSS372 	M	223 NAC	GREEN-TA  	OC District Attorney - Green TA 	P25E 	Law Tac 
-853.23750 	WNSS372 	M	205 NAC	SHERIFF-CHTA 	OCSD Courthouse - Sheriff CHTA 	P25E 	Law Tac 
-853.42500 	WNSS372 	M	346 NAC	GRAY-TA 	Countywide Narcotics Ops - Gray TA 	P25E 	Law Tac 
-853.60000 	WNSS372 	M	367 NAC	TAN-9 TA 	Countywide InterOp - Tan 9 TA 	P25E 	Interop 
-853.85000 	WNSS372 	RM	331 NAC	WHITE-TR 	Transportable Repeater/Talk-Around - White TR/White TA 	P25E 	Law Tac 
-929.23750 	WNMW822 	RM	165.5 PL	OCFA Paging 	OCFA Advisory Paging  	FM 	Data 
-853.95000 	WNSS372 	M	311 DPL	TAN-TA 	10A - Tan (Talkaround) 	FM 	Interop 
-853.95000 	WNSS372 	RM	311 DPL	TAN-TR 	10B - Tan (Transportable Repeater) 	FM 	Interop 
-858.86250 	WPIX684 	M	365 DPL	TAN-US-TA 	10C - Tan US (Talkaround) 	FM 	Interop 
-858.86250 	WPIX684 	RM	365 DPL	TAN-US-TR 	10D - Tan US (Transportable Repeater) 	FM 	Interop 
-853.53750 	WNSS372 	M	306 DPL	TAN-CAT-TA 	10E - Tan Catalina (Blackjack Pk) (Talkaround) 	FM 	Interop 
-853.53750 	WNSS372 	RM	306 DPL	TAN-CAT-RP 	10F - Tan Catalina (Blackjack Pk) (Repeater) 	FM 	Interop 
-853.53750 	WNSS372 	M	364 DPL	TAN-SIL-TA 	10G - Tan Silverado Canyon (Talkaround)  	FM 	Interop 
-853.53750 	WNSS372 	RM	364 DPL	TAN-SIL-RP 	10H - Tan Silverado Canyon (Repeater) 	FM 	Interop 
-854.98750 	WNSF261 	M	331 DPL	TAN-MOR-TA 	Tan Moorhead (Laguna) (Talkaround) 	FM 	Interop 
-854.98750 	WNSF261 	RM	331 DPL	TAN-MOR-RP 	Tan Moorhead (Laguna) (Repeater) 	FM 	Interop 
-855.21250 	KDN669 	M	103.5 PL	AIRTAC-TA 	11A - AirTac Talkaround (Air to Ground) 	FM 	Interop 
-855.21250 	KDN669 	RM	103.5 PL	AIRTAC-RP 	11B - AirTac Repeater 	FM 	Interop 
-851.23750 	WNSS372 	M	411 DPL	14-G 	Countywide primary TA 	FMN 	Fire-Tac 
-851.78750 	WNSS372 	M	412 DPL	14-H 	Metronet North Pri TA 	FMN 	Fire-Tac 
-852.78750 	WNSS372 	M	413 DPL	14-I 	Metronet Central Pri TA 	FMN 	Fire-Tac 
-852.78750 	WNSS372 	M	423 DPL	14-J 	Countywide common 	FMN 	Fire-Tac 
-853.87500 	WNSS372 	M	431 DPL	14-K 	Countywide Common 	FMN 	Fire-Tac 
-853.87500 	WNSS372 	RM	431 DPL	14-L 	Transportable Repeater 	FMN 	Fire-Tac 
-155.28000 	WNGV650 	BM	192.8 PL	OC HEAR 	Paramedic Base Hospital Net 	FM 	Hospital 
-462.95000 	WNGV650 	RM	103.5 PL	OC Med-09 	UHF Med Calling Channel 	FM 	EMS-Tac 
-453.37500 	KTC872 	RM	131.8 PL	OCSD  	Plant Operations 	FMN 	Public Works 
-453.88750 	KTC872 	M	131.8 PL	OCSD M 	Direct Talkaround 	FMN 	Public Works 
-461.47500 	WQMN229 	RM	CC 3TG 1307762SL 1	OLINDA LANDF 	Olinda Landfill 	DMR 	Public Works 
-463.33750 	WQMN229 	RM		DESHECHA LF 	Prima Deshecha Landfill 	FMN 	Public Works 
-464.33750 	WQMN229 	RM	94.8 PL	BOWERMAND 	Frank Bowerman Landfill 	FMN 	Public Works 
-152.42750 	KYD563 	RM	CC 2TG 1SL 1	OC WTR DIST 1 	Anaheim Base - Ch1 	DMR 	Utilities 
-152.42750 	KYD563 	RM	CC 2TG 2SL 2	OC WTR DIST 2 	Anaheim Base - Ch2 	DMR 	Utilities 
-851.73750 	WNSS372 	M	180 NAC	SIL-TA 	Aliso Viejo - Silver TA 	P25 	Public Works 
-851.26250 	WNSS372 	M	156 NAC	ANA SIL-TA 	Anaheim - Silver TA 	P25 	Public Works 
-852.60000 	WNSS372 	M	156 NAC	ANA GRN-TA-1 	Anaheim - Green TA1 	P25E 	Law Tac 
-853.28750 	WNSS372 	M	156 NAC	ANA GRN-TA-2 	Anaheim - Green TA2 	P25E 	Law Tac 
-853.28750 	WNSS372 	M	756 NAC	ANA GRN-TA-3 	Anaheim - Green TA3 	P25E 	Law Tac 
-855.46250 	WNFH922 	RM	165.5 PL	ANA MDT 	Police / Fire MDTs 	FM 	Data 
-851.42500 	WNSS372 	M	115 NAC	BRE GRN-TA 	Brea - Green TA 	P25E 	Law Tac 
-852.23750 	WNSS372 	M	115 NAC	BRE SIL-TA 	Brea - Silver TA 	P25 	Public Works 
-851.92500 	WNSS372 	M	134 NAC	BPK GRN-TA  	Buena Park - Green TA 	P25E 	Law Tac 
-852.23750 	WNSS372 	M	134 NAC	BPK SIL-TA  	Buena Park - Silver TA 	P25 	Public Works 
-851.60000 	WNSS372 	M	047 NAC	COS GRN-TA  	Costa Mesa - Geeen TA 	P25E 	Law Tac 
-852.73750 	WNSS372 	M	047 NAC	COS SIL-TA  	Costa Mesa - Silver TA 	P25 	Public Works 
-855.98750 	KNBF692 	RM	CSQ	COS MDT  	MDT Data 	FM 	Data 
-857.26250 	KNEC203 	RM	103.5 PL	COS SIL-RP  	Costa Mesa - Silver RP 	FM 	Public Works 
-851.28750 	WNSS372 	M	143 NAC	CYP SIL-TA  	Cypress - Silver TA 	P25 	Public Works 
-852.42500 	WNSS372 	M	143 NAC	CYP GRN-TA  	Cypress - Green TA 	P25E 	Law Tac 
-851.28750 	WNSS372 	M	073 NAC	DAP SIL-TA  	Dana Point - Silver TA 	P25 	Public Works 
-851.28750 	WNSS372 	M	043 NAC	FVY SIL-TA  	Fountain Valley - Silver TA 	P25 	Public Works 
-851.42500 	WNSS372 	M	043 NAC	FVY GRN-TA  	Fountain Valley - Green TA 	P25E 	Law Tac 
-470.12500 	 	RM	110.9 PL	FUL EOC 	Emergency Operations Center 	FMN 	Emergency Ops 
-851.73750 	WNSS372 	M	116 NAC	FUL SIL-TA  	Fullerton - Silver TA 	P25 	Public Works 
-852.10000 	WNSS372 	M	116 NAC	FUL GRN-TA  	Fullerton - Green TA 	P25E 	Law Tac 
-851.60000 	WNSS372 	M	172 NAC	GGV GRN-TA  	Garden Grove - Green TA 	P25E 	Law Tac 
-851.76250 	WNSS372 	M	172 NAC	GGV SIL-TA  	Garden Grove - Silver TA 	P25 	Public Works 
-858.33750 	WNCE549 	RM	CSQ	GGV MDT  	MDT Data 	FM 	Data 
-851.10000 	WNSS372 	M	032 NAC	HTB GRN-TA  	Huntington Beach - Green TA 	P25E 	Law Tac 
-853.26250 	WNSS372 	M	032 NAC	HTB SIL-TA  	Huntington Beach - Silver TA 	P25 	Public Works 
-856.26250 	KNDN332	 	RM	142 NAC	HTB EOC  	Emergency Operation Center 	P25 	Emergency Ops 
-446.72000 	 	RM	88.5 PL	IDEC Sierra 	Irvine Disaster Emergency Communications - Secondary - "Sierra" 	FM 	Emergency Ops 
-449.58000 	N6IPD 	RM	88.5 PL	IDEC Tango 	Irvine Disaster Emergency Communications - Primary "Tango" 	FM 	Emergency Ops 
-453.56250 	WQMP713 	RM	67.0 PL	IRV PD Special  	Irvine Police - Reserves / Special Events 	FMN 	Law Tac 
-851.07500 	WNVF992 	RM		IRV MDT  	MDT Data 	Telm 	Data 
-851.26250 	WNSS372 	M	051 NAC	IRV SIL-TA 	Irvine - Silver TA 	P25 	Public Works 
-852.60000 	WNSS372 	M	051 NAC	IRV GRN-TA 	Irvine - Green TA 	P25E 	Law Tac 
-851.10000 	WNSS372 	M	114 NAC	LHB GRN-TA 	La Habra - Green TA 	P25E 	Law Tac 
-853.26250 	WNSS372 	M	114 NAC	LHB SIL-TA 	La Habra - Silver TA 	P25 	Public Works 
-851.60000 	WNSS372 	M	132 NAC	LAP GRN-TA 	La Palma - Green TA 	P25E 	Law Tac 
-853.73750 	WNSS372 	M	132 NAC	LAP SIL-TA 	La Palma - Silver TA 	P25 	Public Works 
-851.73750 	WNSS372 	M	071 NAC	LAB SIL-TA 	Laguna Beach - Silver TA 	P25 	Public Works 
-853.42500 	WNSS372 	M	071 NAC	LAB GRN-TA 	Laguna Beach - Green TA 	P25E 	Law Tac 
-851.76250 	WNSS372 	M	152 NAC	LHS SIL-TA 	Laguna Hills - Silver TA 	P25 	Public Works 
-852.23750 	WNSS372 	M	174 NAC	LAN SIL-TA 	Laguna Niguel - Silver TA 	P25 	Public Works 
-851.73750 	WNSS372 	M	165 NAC	LAL SIL-TA 	Los Alamitos - Silver TA 	P25 	Public Works 
-852.42500 	WNSS372 	M	143 NAC	LAL GRN-TA 	Los Alamitos - Green TA 	P25E 	Law Tac 
-853.73750 	WNSS372 	M	065 NAC	MVO SIL-TA 	Mission Viejo - Silver TA 	P25 	Public Works 
-851.76250 	WNSS372 	M	054 NAC	NPB SIL-TA 	Newport Beach - Silver TA 	P25 	Public Works 
-852.10000 	WNSS372 	M	054 NAC	NPB GRN-TA 	Newport Beach - Green TA 	P25E 	Law Tac 
-851.10000 	WNSS372 	M	162 NAC	ORG GRN-TA 	Orange - Green TA 	P25E 	Law Tac 
-853.73750 	WNSS372 	M	162 NAC	ORG SIL-TA 	Orange - Silver TA 	P25 	Public Works 
-851.76250 	WNSS372 	M	125 NAC	PLA SIL-TA 	Placentia - Silver TA 	P25 	Public Works 
-852.42500 	WNSS372 	M	125 NAC	PLA GRN-TA 	Placentia - Green TA 	P25E 	Law Tac 
-851.73750 	WNSS372 	M	180 NAC	RSM SIL-TA 	Rancho Santa Margarita - Silver TA 	P25 	Public Works 
-453.98750 	WQDS424 	B		SCL Telm 	Telemetry 	Telm 	Data 
-851.26250 	WNSS372 	M	072 NAC	SCL SIL-TA 	San Clemente - Silver TA 	P25 	Public Works 
-453.81250 	WPMP521 	BM		SJC Irrigation 	Irrigation Telemtry 	Telm 	Data 
-853.26250 	WNSS372 	M	703 NAC	SJC SIL-TA 	San Juan Capistrano - Silver TA 	P25 	Public Works 
-144.33000 	 	RM	CSQ	SART 2M Sim 	Santa Ana Response Team - Simplex 	FM 	Emergency Ops 
-447.54000 	KB6CRE 	RM	100.0 PL	SART Repeat 	Santa Ana Response Team Repeater 	FM 	Emergency Ops 
-852.23750 	WNSS372 	M	026 NAC	STA SIL-TA 	Santa Ana - Silver TA 	P25 	Public Works 
-852.42500 	WNSS372 	M	026 NAC	STA GRN-TA 	Santa Ana - Green TA 	P25E 	Law Tac 
-155.80500 	KFG554 	RM	131.8 PL	SLB PW 	Public Works 	FM 	Public Works 
-852.23750 	WNSS372 	M	023 NAC	SLB SIL-TA 	Seal Beach - Silver TA 	P25 	Public Works 
-852.42500 	WNSS372 	M	143 NAC	SLB GRN-TA 	Seal Beach - GreenTA 	P25E 	Law Tac 
-853.26250 	WNSS372 	M	155 NAC	STN SIL-TA 	Stanton - Silver TA 	P25 	Public Works 
-851.92500 	WNSS372 	M	031 NAC	TST GRN-TA 	Tustin - Green TA 	P25E 	Law Tac 
-853.26250 	WNSS372 	M	031 NAC	TST SIL-TA 	Tustin - Silver TA 	P25 	Public Works 
-851.73750 	WNSS372 	M	712 NAC	SIL-TA 	Villa Park - Silver TA 	P25 	Public Works 
-852.10000 	WNSS372 	M	025 NAC	WST GRN-TA 	Westminster - Green TA 	P25E 	Law Tac 
-853.73750 	WNSS372 	M	025 NAC	WST SIL-TA 	Westminster - Silver TA 	P25 	Public Works 
-851.28750 	WNSS372 	M	131 NAC	YBL SIL-TA 	Yorba Linda - Silver TA 	P25 	Public Works 
-39.86000 	WPYP239 	BM	173.8 PL	NC FSP 	North County FSP 	FM 	Multi-Dispatch 
-39.52000 	WPYP239 	BM	173.8 PL	SC FSP 	South County FSP 	FM 	Multi-Dispatch 
-508.46250 	WIJ587 	RM	162.2 PL	OCTA Access 	Dial-a-Ride 	FM 	Transportation 
-508.61250 	WIJ587 	RM	103.5 PL	OCTA Access 	Dial-a-Ride 	FM 	Transportation 
-508.66250 	WIJ587 	RM	103.5 PL	OCTA Access 	Dial-a-Ride 	FM 	Transportation 
-508.71250 	WIJ587 	RM	162.2 PL	OCTA Access 	Dial-a-Ride 	FM 	Transportation 
-856.48750 	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
-857.48750 	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
-858.41250 	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
-858.48750 	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
-859.48750 	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
-859.66250 	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FMN 	Data 
-860.48750 	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
-153.74000 	KRG679 	RM	100.0 PL	CSUF Parking 	Parking Enforcement 	FM 	Law Tac 
-151.71500 	KWH950 	BM	100.0 PL	CSUF El Toro 	CSUF El Toro Facility 	FM 	Schools 
-151.74500 	WPUZ243 	RM	100.0 PL	CSUF Eng 	CSUF Engineering / Building Marshalls 	FM 	Schools 
-151.89500 	WPUZ243 	RM	100.0 PL	CSUF Repeat2 	CSUF Physical Plant Repeater 2 	FM 	Schools 
-152.48000 	KWH950 	B	CSQ	CSUF Paging 	Campus Paging System 	FM 	Schools 
-153.74000 	KRG679 	M	156.7 PL	CSUF M/A 	Mutual Aid  	FM 	Interop 
-154.48250 	WQIY920 	RM	100.0 PL	CSUF Cust 	Custodians 	FM 	Schools 
-154.54000 	WPBM407 	BM	100.0 PL	CSUF Titan 	Titan Student Union 	FM 	Schools 
-851.53750 	WPLU565 	RM	114.8 PL	CSUF ET PD 	El Toro Campus Police 	FMN 	Law Dispatch 
-853.57500 	WPNT421 	RM		CSUF PD 	Police 	P25E 	Law Dispatch 
-855.73750 	WPWL489 	RM	223 DPL	UCI PD Blue 	UCI PD - Blue 	FM 	Law Tac 
-855.96250 	WPWL489 	RM	466 DPL	UCI PD Green 	UCI PD - Green 	FM 	Law Tac 
-854.63750 	WPWL489 	RM	223 DPL	UCI Common 	UCI Common 	FM 	Schools 
-858.61250 	WPWL489 	BM	223 DPL	UCI ParkingEnf 	UCI - Parking Enforcement 	FM 	Schools 
-859.58750 	WPWL489 	RM	223 DPL	UCI Common 	UCI Common 	FM 	Schools 
-Acumen Communication (Orange)	 LTR Standard	 Orange	Anaheim Arena Management (Honda Center)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Anaheim	Anaheim Convention Center	 DMR Hytera XPT
- Anaheim	Anderson Communications (Santiago)	 LTR Standard	 Los Angeles	Black Gold Golf Club 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Yorba Linda	California Radio Interoperable System (CRIS)
- Project 25 Phase I	 Multiple	California Resource Corporation / Oxy USA	 DMR Motorola Capacity Plus Single Site (TRBO)	 Huntington Beach	CALTrans (District 07 08 12)	 Project 25 Phase I	 Santiago Peak
-Comm Enterprises (Hacienda Heights)	 LTR Standard	 Hacienda Heights	Comm Enterprises (Sierra Peak)	 LTR Standard	 Corona	Communications Innovations (NXDN)	 NXDN Icom IDAS Type D
- Multiple	Disneyland Resort	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Anaheim	Fashion Island Hotel (Newport Beach)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newport Beach	Great Wolf Lodge
- DMR Motorola Capacity Plus Single Site (TRBO)	 Garden Grove	Hemet Unified School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Hyatt Regency Orange County	 DMR Motorola Capacity Plus Single Site (TRBO)	 Garden Grove
-Joint Forces Training Base (JFTB) Los Alamitos	 NXDN Icom IDAS Type D	 Los Alamitos	Los Angeles County Metropolitan Transportation Authority - 900Mhz	 Motorola Type II Smartnet	 Los Angeles	McDermott Communications 	 DMR Motorola Capacity Plus Single Site (TRBO)
- Mt Wilson, Santiago Peak	McIntosh Communications (Anaheim Convention Center)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Anaheim	Metropolitan Water District of Southern California	 DMR Motorola Connect Plus (TRBO)	 Various	Mobile Relay Associates (Mount Lukens)
- LTR Standard	 Mount Lukens	Mobile Relay Associates (Santiago Peak 1)	 LTR Standard	 Santiago Peak	Mobile Relay Associates (Santiago Peak 2)	 LTR Standard	 Corona
-Mobile Relay Associates (Sierra Peak)	 LTR Standard	 Corona	Mobile Relay Associates SoCal NEXEDGE Digital Network	 NXDN NEXEDGE 4800	 Multiple	National Science and Technology Network (Sierra Peak 2)	 LTR Standard
- Sierra Peak	Newport Bluffs Apartment Homes	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newport Beach	Nextel (Santiago)	 LTR Standard	 Corona	Nextel (WIL681 2)
- LTR Standard	 	Nextel (WPPH675)	 LTR Standard	 Sierra Peak	Orange County Transportation Authority	 OpenSky 9600 baud	 Orange
-Park Place Apartment Homes (Irvine)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Irvine	Resort at Pelican Hill (Newport Beach)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newport Beach	San Diego Gas and Electric (SDGE)	 Motorola Type II SmartZone
- San Diego	Santa Ana Unified School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Santa Ana	Southern California Gas Company	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Touch Tel Mobile (217 Mhz Santiago Peak)
- LTR Standard	 Los Angeles	Touch Tel Mobile (Orange County)	 LTR Standard	 El Toro	Touch Tel Mobile (Palos Verdes)	 LTR Standard	 Palos Verdes
-United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	University of California (Irvine)	 Project 25 Phase II	 Irvine	Villas at Fashion Island	 DMR Motorola Capacity Plus Single Site (TRBO)
- Newport Beach	Western Mobile Telephone Company	 LTR Standard	 El Toro/Corona	
+151.08500 	159.00000  	KMK950 	RM	136.5 PL	OC ACC V 	OC Access VHF / Advisory Broadcast / Patch Capable  	FMN 	Interop 
+460.52500 	465.52500  	KZT450 	RM	103.5 PL	OC ACC U 	OC Access UHF 	FMN 	Interop 
+860.86250 	815.86250  	KDN669 	RM	103.5 PL	OC ACC 800 	OC Access 800 	FMN 	Interop 
+37.14000 	   	KMK457 	BM	100.0 PL	OA-2 	OC Operational Area Coordination Net 2 	FM 	Emergency Ops 
+45.30000 	   	KMG796 	BM	146.2 PL	Air Net 	AirCall backup 	FM 	Law Tac 
+46.56000 	   	KMK457 	BM	CSQ	OA-1 	OC Operational Area Coordination Net 1 	FM 	Emergency Ops 
+39.84000 	   	KMK457 	BM	CSQ	WEROC 	Water Emergency Response Org of OC 	FM 	Public Works 
+151.01000 	154.96500  	WNIG250 	RM	123.0 PL	FIRE OC 	OC Fire Tactical / Outside Agency Interop 	FMN 	Interop 
+460.52500 	465.52500  	KMA752 	RM	103.5 PL	Sheriff SAR 	Sheriff - Search and Rescue - 800Mhz patch capable 	FMN 	Law Tac 
+852.73750 	   	WNSS372 	M	226 NAC	EOC SIL-TA   	OC Emergency Operations Center - Silver TA 	P25 	Emergency Ops 
+852.76250 	   	WNSS372 	M	228 NAC	HLTH SIL-TA 	OC Health Care Agency - Silver TA 	P25 	EMS-Tac 
+852.76250 	   	WNSS372 	M	243 NAC	OCTA SIL-TA  	OC Transportation Authority - Silver TA 	P25 	Transportation 
+852.76250 	   	WNSS372 	M	244 NAC	AC SIL-TA   	OC Animal Control - Silver TA 	P25 	Public Works 
+852.76250 	   	WNSS372 	M	245 NAC	OCPW SIL-TA  	OC Public Works - Silver TA 	P25 	Public Works 
+852.76250 	   	WNSS372 	M	247 NAC	PARK SIL-TA  	OC Parks - Silver TA 	P25 	Public Works 
+852.76250 	   	WNSS372 	M	251 NAC	COMM SIL-TA  	Communications - Silver TA 	P25 	Public Works 
+852.76250 	   	WNSS372 	M	261 NAC	IWM SIL-TA   	Integrated Waste Management - Silver TA 	P25 	Public Works 
+852.76250 	   	WNSS372 	M	271 NAC	SSA SIL-TA   	OC Social Services Agency - Silver TA 	P25 	Public Works 
+853.28750 	   	WNSS372 	M	263 NAC	JWA SIL-TA   	John Wayne Airport - Silver TA 	P25 	Public Works 
+853.48750 	   	WPIX684 	M	281 NAC	PW NORTH-TA  	OC Public Works North - TA 	P25 	Public Works 
+853.48750 	   	WPIX684 	M	282 NAC	PW CENTRL-TA 	OC Public Works Central - TA 	P25 	Public Works 
+853.48750 	   	WPIX684 	M	283 NAC	PW SOUTH-TA  	OC Public Works South - TA 	P25 	Public Works 
+852.26250 	   	WNSS372 	M	351 NAC	AQUA-TA 	OC Lifeguard - Aqua TA 	P25 	EMS-Tac 
+853.55000 	823.55000  	WQCK588 	RM	570 NAC	PINOS RP 	Probation - Los Pinos Probation Camp - RP 	P25 	Corrections 
+853.76250 	   	WNSS372 	M	503 NAC	GREEN-TA 	Probation - Green TA 	P25 	Corrections 
+853.76250 	   	WNSS372 	M	506 NAC	PINOS TA 	Probation - Los Pinos Probation Camp - TA 	P25 	Corrections 
+853.76250 	   	WNSS372 	M	516 NAC	YGC TA 	Probation - Youth Guidance Center - TA 	P25 	Corrections 
+853.76250 	   	WNSS372 	M	532 NAC	JOPLIN TA 	Probation - Joplin Youth Center - TA 	P25 	Corrections 
+853.76250 	   	WNSS372 	M	546 NAC	JUVI TA 	Probation - Juvenile Hall - TA 	P25 	Corrections 
+853.76250 	   	WNSS372 	M	565 NAC	ANNEX TA 	Probation - Annex - TA (Juvenile Hall) 	P25 	Corrections 
+853.10000 	   	WNSS372 	M	205 NAC	YELLOW-TA 	Yellow TA 	P25E 	Law Tac 
+853.60000 	   	WNSS372 	M	205 NAC	YELLOW-SPTA 	OCSD Special Events - Yellow SPTA 	P25E 	Law Tac 
+851.45000 	   	WNSS372 	M	343 NAC	SWAT-TA 	SWAT TA 	P25E 	Law Tac 
+773.63125 	803.63125  	WQQK825 	RM	628 NAC	7OC1 	OC 700Mhz INTEROP 	P25 	Interop 
+773.64375 	803.64375  	WQQK825 	RM	704 NAC	7OC2 	OC 700Mhz INTEROP 	P25 	Interop 
+773.65625 	803.65625  	WQQK825 	RM	834 NAC	7OC3 	OC 700Mhz INTEROP 	P25 	Interop 
+852.92500 	   	WNSS372 	M	223 NAC	GREEN-TA  	OC District Attorney - Green TA 	P25E 	Law Tac 
+853.23750 	   	WNSS372 	M	205 NAC	SHERIFF-CHTA 	OCSD Courthouse - Sheriff CHTA 	P25E 	Law Tac 
+853.42500 	   	WNSS372 	M	346 NAC	GRAY-TA 	Countywide Narcotics Ops - Gray TA 	P25E 	Law Tac 
+853.60000 	   	WNSS372 	M	367 NAC	TAN-9 TA 	Countywide InterOp - Tan 9 TA 	P25E 	Interop 
+853.85000 	823.85000  	WNSS372 	RM	331 NAC	WHITE-TR 	Transportable Repeater/Talk-Around - White TR/White TA 	P25E 	Law Tac 
+929.23750 	   	WNMW822 	RM	165.5 PL	OCFA Paging 	OCFA Advisory Paging  	FM 	Data 
+853.95000 	   	WNSS372 	M	311 DPL	TAN-TA 	10A - Tan (Talkaround) 	FM 	Interop 
+853.95000 	808.95000  	WNSS372 	RM	311 DPL	TAN-TR 	10B - Tan (Transportable Repeater) 	FM 	Interop 
+858.86250 	   	WPIX684 	M	365 DPL	TAN-US-TA 	10C - Tan US (Talkaround) 	FM 	Interop 
+858.86250 	813.86250  	WPIX684 	RM	365 DPL	TAN-US-TR 	10D - Tan US (Transportable Repeater) 	FM 	Interop 
+853.53750 	   	WNSS372 	M	306 DPL	TAN-CAT-TA 	10E - Tan Catalina (Blackjack Pk) (Talkaround) 	FM 	Interop 
+853.53750 	808.53750  	WNSS372 	RM	306 DPL	TAN-CAT-RP 	10F - Tan Catalina (Blackjack Pk) (Repeater) 	FM 	Interop 
+853.53750 	   	WNSS372 	M	364 DPL	TAN-SIL-TA 	10G - Tan Silverado Canyon (Talkaround)  	FM 	Interop 
+853.53750 	808.53750  	WNSS372 	RM	364 DPL	TAN-SIL-RP 	10H - Tan Silverado Canyon (Repeater) 	FM 	Interop 
+854.98750 	   	WNSF261 	M	331 DPL	TAN-MOR-TA 	Tan Moorhead (Laguna) (Talkaround) 	FM 	Interop 
+854.98750 	809.98750  	WNSF261 	RM	331 DPL	TAN-MOR-RP 	Tan Moorhead (Laguna) (Repeater) 	FM 	Interop 
+855.21250 	   	KDN669 	M	103.5 PL	AIRTAC-TA 	11A - AirTac Talkaround (Air to Ground) 	FM 	Interop 
+855.21250 	810.21250  	KDN669 	RM	103.5 PL	AIRTAC-RP 	11B - AirTac Repeater 	FM 	Interop 
+851.23750 	   	WNSS372 	M	411 DPL	14-G 	Countywide primary TA 	FMN 	Fire-Tac 
+851.78750 	   	WNSS372 	M	412 DPL	14-H 	Metronet North Pri TA 	FMN 	Fire-Tac 
+852.78750 	   	WNSS372 	M	413 DPL	14-I 	Metronet Central Pri TA 	FMN 	Fire-Tac 
+852.78750 	   	WNSS372 	M	423 DPL	14-J 	Countywide common 	FMN 	Fire-Tac 
+853.87500 	   	WNSS372 	M	431 DPL	14-K 	Countywide Common 	FMN 	Fire-Tac 
+853.87500 	823.87500  	WNSS372 	RM	431 DPL	14-L 	Transportable Repeater 	FMN 	Fire-Tac 
+155.28000 	   	WNGV650 	BM	192.8 PL	OC HEAR 	Paramedic Base Hospital Net 	FM 	Hospital 
+462.95000 	467.95000  	WNGV650 	RM	103.5 PL	OC Med-09 	UHF Med Calling Channel 	FM 	EMS-Tac 
+453.37500 	458.37500  	KTC872 	RM	131.8 PL	OCSD  	Plant Operations 	FMN 	Public Works 
+453.88750 	   	KTC872 	M	131.8 PL	OCSD M 	Direct Talkaround 	FMN 	Public Works 
+461.47500 	466.47500  	WQMN229 	RM	CC 3TG 1307762SL 1	OLINDA LANDF 	Olinda Landfill 	DMR 	Public Works 
+463.33750 	468.33750  	WQMN229 	RM		DESHECHA LF 	Prima Deshecha Landfill 	FMN 	Public Works 
+464.33750 	469.33750  	WQMN229 	RM	94.8 PL	BOWERMAND 	Frank Bowerman Landfill 	FMN 	Public Works 
+152.42750 	   	KYD563 	RM	CC 2TG 1SL 1	OC WTR DIST 1 	Anaheim Base - Ch1 	DMR 	Utilities 
+152.42750 	   	KYD563 	RM	CC 2TG 2SL 2	OC WTR DIST 2 	Anaheim Base - Ch2 	DMR 	Utilities 
+851.73750 	   	WNSS372 	M	180 NAC	SIL-TA 	Aliso Viejo - Silver TA 	P25 	Public Works 
+851.26250 	   	WNSS372 	M	156 NAC	ANA SIL-TA 	Anaheim - Silver TA 	P25 	Public Works 
+852.60000 	   	WNSS372 	M	156 NAC	ANA GRN-TA-1 	Anaheim - Green TA1 	P25E 	Law Tac 
+853.28750 	   	WNSS372 	M	156 NAC	ANA GRN-TA-2 	Anaheim - Green TA2 	P25E 	Law Tac 
+853.28750 	   	WNSS372 	M	756 NAC	ANA GRN-TA-3 	Anaheim - Green TA3 	P25E 	Law Tac 
+855.46250 	810.46250  	WNFH922 	RM	165.5 PL	ANA MDT 	Police / Fire MDTs 	FM 	Data 
+851.42500 	   	WNSS372 	M	115 NAC	BRE GRN-TA 	Brea - Green TA 	P25E 	Law Tac 
+852.23750 	   	WNSS372 	M	115 NAC	BRE SIL-TA 	Brea - Silver TA 	P25 	Public Works 
+851.92500 	   	WNSS372 	M	134 NAC	BPK GRN-TA  	Buena Park - Green TA 	P25E 	Law Tac 
+852.23750 	   	WNSS372 	M	134 NAC	BPK SIL-TA  	Buena Park - Silver TA 	P25 	Public Works 
+851.60000 	   	WNSS372 	M	047 NAC	COS GRN-TA  	Costa Mesa - Geeen TA 	P25E 	Law Tac 
+852.73750 	   	WNSS372 	M	047 NAC	COS SIL-TA  	Costa Mesa - Silver TA 	P25 	Public Works 
+855.98750 	810.98750  	KNBF692 	RM	CSQ	COS MDT  	MDT Data 	FM 	Data 
+857.26250 	812.26250  	KNEC203 	RM	103.5 PL	COS SIL-RP  	Costa Mesa - Silver RP 	FM 	Public Works 
+851.28750 	   	WNSS372 	M	143 NAC	CYP SIL-TA  	Cypress - Silver TA 	P25 	Public Works 
+852.42500 	   	WNSS372 	M	143 NAC	CYP GRN-TA  	Cypress - Green TA 	P25E 	Law Tac 
+851.28750 	   	WNSS372 	M	073 NAC	DAP SIL-TA  	Dana Point - Silver TA 	P25 	Public Works 
+851.28750 	   	WNSS372 	M	043 NAC	FVY SIL-TA  	Fountain Valley - Silver TA 	P25 	Public Works 
+851.42500 	   	WNSS372 	M	043 NAC	FVY GRN-TA  	Fountain Valley - Green TA 	P25E 	Law Tac 
+470.12500 	473.12500  	 	RM	110.9 PL	FUL EOC 	Emergency Operations Center 	FMN 	Emergency Ops 
+851.73750 	   	WNSS372 	M	116 NAC	FUL SIL-TA  	Fullerton - Silver TA 	P25 	Public Works 
+852.10000 	   	WNSS372 	M	116 NAC	FUL GRN-TA  	Fullerton - Green TA 	P25E 	Law Tac 
+851.60000 	   	WNSS372 	M	172 NAC	GGV GRN-TA  	Garden Grove - Green TA 	P25E 	Law Tac 
+851.76250 	   	WNSS372 	M	172 NAC	GGV SIL-TA  	Garden Grove - Silver TA 	P25 	Public Works 
+858.33750 	813.33750  	WNCE549 	RM	CSQ	GGV MDT  	MDT Data 	FM 	Data 
+851.10000 	   	WNSS372 	M	032 NAC	HTB GRN-TA  	Huntington Beach - Green TA 	P25E 	Law Tac 
+853.26250 	   	WNSS372 	M	032 NAC	HTB SIL-TA  	Huntington Beach - Silver TA 	P25 	Public Works 
+856.26250 	811.26250  	KNDN332	 	RM	142 NAC	HTB EOC  	Emergency Operation Center 	P25 	Emergency Ops 
+446.72000 	441.72000  	 	RM	88.5 PL	IDEC Sierra 	Irvine Disaster Emergency Communications - Secondary - "Sierra" 	FM 	Emergency Ops 
+449.58000 	444.58000  	N6IPD 	RM	88.5 PL	IDEC Tango 	Irvine Disaster Emergency Communications - Primary "Tango" 	FM 	Emergency Ops 
+453.56250 	458.56250  	WQMP713 	RM	67.0 PL	IRV PD Special  	Irvine Police - Reserves / Special Events 	FMN 	Law Tac 
+851.07500 	821.07500  	WNVF992 	RM		IRV MDT  	MDT Data 	Telm 	Data 
+851.26250 	   	WNSS372 	M	051 NAC	IRV SIL-TA 	Irvine - Silver TA 	P25 	Public Works 
+852.60000 	   	WNSS372 	M	051 NAC	IRV GRN-TA 	Irvine - Green TA 	P25E 	Law Tac 
+851.10000 	   	WNSS372 	M	114 NAC	LHB GRN-TA 	La Habra - Green TA 	P25E 	Law Tac 
+853.26250 	   	WNSS372 	M	114 NAC	LHB SIL-TA 	La Habra - Silver TA 	P25 	Public Works 
+851.60000 	   	WNSS372 	M	132 NAC	LAP GRN-TA 	La Palma - Green TA 	P25E 	Law Tac 
+853.73750 	   	WNSS372 	M	132 NAC	LAP SIL-TA 	La Palma - Silver TA 	P25 	Public Works 
+851.73750 	   	WNSS372 	M	071 NAC	LAB SIL-TA 	Laguna Beach - Silver TA 	P25 	Public Works 
+853.42500 	   	WNSS372 	M	071 NAC	LAB GRN-TA 	Laguna Beach - Green TA 	P25E 	Law Tac 
+851.76250 	   	WNSS372 	M	152 NAC	LHS SIL-TA 	Laguna Hills - Silver TA 	P25 	Public Works 
+852.23750 	   	WNSS372 	M	174 NAC	LAN SIL-TA 	Laguna Niguel - Silver TA 	P25 	Public Works 
+851.73750 	   	WNSS372 	M	165 NAC	LAL SIL-TA 	Los Alamitos - Silver TA 	P25 	Public Works 
+852.42500 	   	WNSS372 	M	143 NAC	LAL GRN-TA 	Los Alamitos - Green TA 	P25E 	Law Tac 
+853.73750 	   	WNSS372 	M	065 NAC	MVO SIL-TA 	Mission Viejo - Silver TA 	P25 	Public Works 
+851.76250 	   	WNSS372 	M	054 NAC	NPB SIL-TA 	Newport Beach - Silver TA 	P25 	Public Works 
+852.10000 	   	WNSS372 	M	054 NAC	NPB GRN-TA 	Newport Beach - Green TA 	P25E 	Law Tac 
+851.10000 	   	WNSS372 	M	162 NAC	ORG GRN-TA 	Orange - Green TA 	P25E 	Law Tac 
+853.73750 	   	WNSS372 	M	162 NAC	ORG SIL-TA 	Orange - Silver TA 	P25 	Public Works 
+851.76250 	   	WNSS372 	M	125 NAC	PLA SIL-TA 	Placentia - Silver TA 	P25 	Public Works 
+852.42500 	   	WNSS372 	M	125 NAC	PLA GRN-TA 	Placentia - Green TA 	P25E 	Law Tac 
+851.73750 	   	WNSS372 	M	180 NAC	RSM SIL-TA 	Rancho Santa Margarita - Silver TA 	P25 	Public Works 
+453.98750 	   	WQDS424 	B		SCL Telm 	Telemetry 	Telm 	Data 
+851.26250 	   	WNSS372 	M	072 NAC	SCL SIL-TA 	San Clemente - Silver TA 	P25 	Public Works 
+453.81250 	   	WPMP521 	BM		SJC Irrigation 	Irrigation Telemtry 	Telm 	Data 
+853.26250 	   	WNSS372 	M	703 NAC	SJC SIL-TA 	San Juan Capistrano - Silver TA 	P25 	Public Works 
+144.33000 	   	 	RM	CSQ	SART 2M Sim 	Santa Ana Response Team - Simplex 	FM 	Emergency Ops 
+447.54000 	442.54000  	KB6CRE 	RM	100.0 PL	SART Repeat 	Santa Ana Response Team Repeater 	FM 	Emergency Ops 
+852.23750 	   	WNSS372 	M	026 NAC	STA SIL-TA 	Santa Ana - Silver TA 	P25 	Public Works 
+852.42500 	   	WNSS372 	M	026 NAC	STA GRN-TA 	Santa Ana - Green TA 	P25E 	Law Tac 
+155.80500 	   	KFG554 	RM	131.8 PL	SLB PW 	Public Works 	FM 	Public Works 
+852.23750 	   	WNSS372 	M	023 NAC	SLB SIL-TA 	Seal Beach - Silver TA 	P25 	Public Works 
+852.42500 	   	WNSS372 	M	143 NAC	SLB GRN-TA 	Seal Beach - GreenTA 	P25E 	Law Tac 
+853.26250 	   	WNSS372 	M	155 NAC	STN SIL-TA 	Stanton - Silver TA 	P25 	Public Works 
+851.92500 	   	WNSS372 	M	031 NAC	TST GRN-TA 	Tustin - Green TA 	P25E 	Law Tac 
+853.26250 	   	WNSS372 	M	031 NAC	TST SIL-TA 	Tustin - Silver TA 	P25 	Public Works 
+851.73750 	   	WNSS372 	M	712 NAC	SIL-TA 	Villa Park - Silver TA 	P25 	Public Works 
+852.10000 	   	WNSS372 	M	025 NAC	WST GRN-TA 	Westminster - Green TA 	P25E 	Law Tac 
+853.73750 	   	WNSS372 	M	025 NAC	WST SIL-TA 	Westminster - Silver TA 	P25 	Public Works 
+851.28750 	   	WNSS372 	M	131 NAC	YBL SIL-TA 	Yorba Linda - Silver TA 	P25 	Public Works 
+39.86000 	45.48000  	WPYP239 	BM	173.8 PL	NC FSP 	North County FSP 	FM 	Multi-Dispatch 
+39.52000 	45.18000  	WPYP239 	BM	173.8 PL	SC FSP 	South County FSP 	FM 	Multi-Dispatch 
+508.46250 	511.46250  	WIJ587 	RM	162.2 PL	OCTA Access 	Dial-a-Ride 	FM 	Transportation 
+508.61250 	511.61250  	WIJ587 	RM	103.5 PL	OCTA Access 	Dial-a-Ride 	FM 	Transportation 
+508.66250 	511.66250  	WIJ587 	RM	103.5 PL	OCTA Access 	Dial-a-Ride 	FM 	Transportation 
+508.71250 	511.71250  	WIJ587 	RM	162.2 PL	OCTA Access 	Dial-a-Ride 	FM 	Transportation 
+856.48750 	811.48750  	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
+857.48750 	812.48750  	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
+858.41250 	813.41250  	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
+858.48750 	813.48750  	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
+859.48750 	814.48750  	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
+859.66250 	814.66250  	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FMN 	Data 
+860.48750 	815.48750  	KNCM802 	RM	CSQ	OCTA MDT 	MDT Data 	FM 	Data 
+153.74000 	151.20500  	KRG679 	RM	100.0 PL	CSUF Parking 	Parking Enforcement 	FM 	Law Tac 
+151.71500 	   	KWH950 	BM	100.0 PL	CSUF El Toro 	CSUF El Toro Facility 	FM 	Schools 
+151.74500 	159.49500  	WPUZ243 	RM	100.0 PL	CSUF Eng 	CSUF Engineering / Building Marshalls 	FM 	Schools 
+151.89500 	159.57000  	WPUZ243 	RM	100.0 PL	CSUF Repeat2 	CSUF Physical Plant Repeater 2 	FM 	Schools 
+152.48000 	   	KWH950 	B	CSQ	CSUF Paging 	Campus Paging System 	FM 	Schools 
+153.74000 	   	KRG679 	M	156.7 PL	CSUF M/A 	Mutual Aid  	FM 	Interop 
+154.48250 	159.99750  	WQIY920 	RM	100.0 PL	CSUF Cust 	Custodians 	FM 	Schools 
+154.54000 	   	WPBM407 	BM	100.0 PL	CSUF Titan 	Titan Student Union 	FM 	Schools 
+851.53750 	821.53750  	WPLU565 	RM	114.8 PL	CSUF ET PD 	El Toro Campus Police 	FMN 	Law Dispatch 
+853.57500 	823.57500  	WPNT421 	RM		CSUF PD 	Police 	P25E 	Law Dispatch 
+855.73750 	810.73750  	WPWL489 	RM	223 DPL	UCI PD Blue 	UCI PD - Blue 	FM 	Law Tac 
+855.96250 	810.96250  	WPWL489 	RM	466 DPL	UCI PD Green 	UCI PD - Green 	FM 	Law Tac 
+854.63750 	809.63750  	WPWL489 	RM	223 DPL	UCI Common 	UCI Common 	FM 	Schools 
+858.61250 	813.61250  	WPWL489 	BM	223 DPL	UCI ParkingEnf 	UCI - Parking Enforcement 	FM 	Schools 
+859.58750 	814.58750  	WPWL489 	RM	223 DPL	UCI Common 	UCI Common 	FM 	Schools 
+Acumen Communication (Orange)	 LTR Standard	 Orange	Anaheim Arena Management (Honda Center)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Anaheim	Anaheim Convention Center	 DMR Hytera XPT	 Anaheim
+Anderson Communications (Santiago)	 LTR Standard	 Los Angeles	Black Gold Golf Club 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Yorba Linda	California Resource Corporation / Oxy USA	 DMR Motorola Capacity Plus Single Site (TRBO)	 Huntington Beach
+Comm Enterprises (Hacienda Heights)	 LTR Standard	 Hacienda Heights	Comm Enterprises (Sierra Peak)	 LTR Standard	 Corona	Communications Innovations (NXDN)	 NXDN Icom IDAS Type D	 Multiple
+Countywide Coordinated Communications System (CCCS) (P25)	 Project 25 Phase I	 Orange County	Disneyland Resort	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Anaheim	Fashion Island Hotel (Newport Beach)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newport Beach
+Great Wolf Lodge	 DMR Motorola Capacity Plus Single Site (TRBO)	 Garden Grove	Hemet Unified School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Hyatt Regency Orange County	 DMR Motorola Capacity Plus Single Site (TRBO)	 Garden Grove
+Joint Forces Training Base (JFTB) Los Alamitos	 NXDN Icom IDAS Type D	 Los Alamitos	Los Angeles County Metropolitan Transportation Authority - 900Mhz	 Motorola Type II Smartnet	 Los Angeles	McDermott Communications 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Mt Wilson, Santiago Peak
+McIntosh Communications (Anaheim Convention Center)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Anaheim	Metropolitan Water District of Southern California	 DMR Motorola Connect Plus (TRBO)	 Various	Mobile Relay Associates (Mount Lukens)	 LTR Standard	 Mount Lukens
+Mobile Relay Associates (Santiago Peak 1)	 LTR Standard	 Santiago Peak	Mobile Relay Associates (Santiago Peak 2)	 LTR Standard	 Corona	Mobile Relay Associates (Sierra Peak)	 LTR Standard	 Corona
+National Science and Technology Network (Santiago Peak)	 LTR Standard	 Santiago Peak	National Science and Technology Network (Sierra Peak 1)	 LTR Standard	 Sierra Peak	National Science and Technology Network (Sierra Peak 2)	 LTR Standard	 Sierra Peak
+Newport Bluffs Apartment Homes	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newport Beach	Nextel (Santiago)	 LTR Standard	 Corona	Nextel (WIL681 2)	 LTR Standard	 
+Nextel (WPPH675)	 LTR Standard	 Sierra Peak	Orange County Transportation Authority	 OpenSky 9600 baud	 Orange	Park Place Apartment Homes (Irvine)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Irvine
+Resort at Pelican Hill (Newport Beach)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newport Beach	San Diego Gas and Electric (SDGE)	 Motorola Type II SmartZone	 San Diego	Santa Ana Unified School District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Santa Ana
+Southern California Gas Company	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Touch Tel Mobile (217 Mhz Santiago Peak)	 LTR Standard	 Los Angeles	Touch Tel Mobile (Orange County)	 LTR Standard	 El Toro
+Touch Tel Mobile (Palos Verdes)	 LTR Standard	 Palos Verdes	University of California (Irvine)	 Project 25 Phase II	 Irvine	Villas at Fashion Island	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newport Beach
+Western Mobile Telephone Company	 LTR Standard	 El Toro/Corona	

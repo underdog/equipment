@@ -1,39 +1,39 @@
-155.01000 	WPYF465 	RM	114.8 PL	Cache FD 1 	Fire/EMS Dispatch (linked to UCAN 28864) 	FMN 	Fire Dispatch 
-153.89000 	WPRJ561 	M	151.4 PL	Cache FD Tc1 	Fire/EMS Tactical 1 	FMN 	Fire-Tac 
-154.41500 	WPRJ561 	M	151.4 PL	Cache FD Tc2 	Fire/EMS Tactical 2 	FMN 	Fire-Tac 
-154.01000 	WYR576 	RM	173.8 PL	Cache FD Pag 	Fire/EMS Paging (linked to UCAN 28832) 	FMN 	Fire Dispatch 
-155.53500 	KRM755 	BM	203.5 PL	Cache FD Pag 	Fire/EMS Paging 	FMN 	Fire Dispatch 
-155.16000 	WPVL546 	RM	131.8 PL	Cache SAR 	Search and Rescue 	FMN 	Emergency Ops 
-151.20500 	WPYS741 	RM	192.8 PL	Cache Jail 	Jail 	FMN 	Corrections 
-156.03750 	WQGY457 	RM	173.8 PL	Cache Roads 	Roads 1 	FMN 	Public Works 
-156.24000 	KFM301 	BM	151.4 PL	Cache Roads2 	Roads 2 	FMN 	Public Works 
-155.24250 	WPXM999 	BM		BearRiv Heal 	Bear River Health District 	FMN 	Public Works 
-153.86000 	WRL630 	BM		Cache Senior 	Senior Citizens Center Bus 	FMN 	Transportation 
-453.55000 	WXB961 	BM		Cache ScBus1 	School System Buses 	FMN 	Schools 
-453.60000 	WXB961 	BM		Cache ScBus2 	School System Buses 	FMN 	Schools 
-154.83000 	KRM755 	M	123.0 PL	Logan PD Tac 	Police Tactical 	FMN 	Law Tac 
-155.90250 	WPSF342 	BM	100.0 PL	Logan FD Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
-151.00250 	WPSF342 	BM	100.0 PL	Logan FD Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
-156.16500 	WPQB871 	RM	100.0 PL	Logan EOC 	Emergency Operations Center 	FMN 	Emergency Ops 
-461.75000 	WPPD479 	RM	151.4 PL	Logan Reg Hosp 	Logan Regional Hospital 	FMN 	Hospital 
-153.65000 	WQAA464 	RM	114.8 PL	Logan Water 1 	Parks & Water Department 1 	FMN 	Public Works 
-153.47000 	WPSL714 	RM	123.0 PL	Logan Water 2 	Water Department 2 	FMN 	Public Works 
-153.57500 	WPTQ264 	RM	110.9 PL	Logan Street 	Streets/Plows 	FMN 	Public Works 
-153.66500 	WNVD309 	RM	100.0 PL	Logan Power 	Power 	FMN 	Public Works 
-154.85250 	WQBD340 	RM	218.1 PL	Logan Landill 	Landfill/Trash Dumpster Crew 	FMN 	Public Works 
-156.19500 	WNFU265 	RM	88.5 PL	Logan Trash 	Trash/Landfill 	FMN 	Public Works 
-153.83750 	WPTV440 	RM	210.7 PL	Logan Event 1 	Events Repeater 1 	FMN 	Public Works 
-151.08500 	WPXU823 	RM	88.5 PL	Logan Event 2 	Events Repeater 2 	FMN 	Public Works 
-155.89500 	WQBB760 	BM	67.0 PL	HydePk FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-453.85000 	KNFE803 	BM		N Logan Road 	Roads 	FMN 	Public Works 
-154.99500 	WPWE813 	BM	156.7 PL	Smithfld Cty 	City Services 	FMN 	Public Works 
-453.33750 	WPMY580 	RM	79.7 PL	CVTD Base 	Bus Operations Base 	FM 	Transportation 
-460.31250 	WQES731 	RM	103.5 PL	CVTD Service 	Bus Operations Service 	FM 	Transportation 
-458.81250 	WPMY580 	BM	073 DPL	CVTD CAR 	Call a Ride (CAR) Paratransit 	FM 	Transportation 
-855.03750 	WPIQ847 	M	503 DPL	USU Simplex 	Radio to Radio 	FM 	Schools 
-853.48750 	WPIZ366 	M	606 DPL	USU Itin 606 	Itinerant 606 	FM 	Schools 
-853.48750 	WPIZ366 	M	516 DPL	USU Itin 516 	Itinerant 516 	FM 	Schools 
-853.48750 	WPIZ366 	M	466 DPL	USU Itin 466 	Itinerant 466 	FM 	Schools 
-462.00000 	WNWN635 	RM	141.3 PL	USU Housing 	Housing 	FM 	Schools 
-DMR-Utah Amateur Radio Network	 DMR Conventional Networked	 Multiple	Peak Wireless Services	 NXDN NEXEDGE 9600	 Multiple	Questar (Logan)	 Motorola Type II
- Logan	Utah State University	 DMR Motorola Capacity Plus Single Site (TRBO)	 Logan	
+155.01000 	159.36000  	WPYF465 	RM	114.8 PL	Cache FD 1 	Fire/EMS Dispatch (linked to UCA 28864) 	FMN 	Fire Dispatch 
+153.89000 	   	WPRJ561 	M	151.4 PL	Cache FD Tc1 	Fire/EMS Tactical 1 	FMN 	Fire-Tac 
+154.41500 	   	WPRJ561 	M	151.4 PL	Cache FD Tc2 	Fire/EMS Tactical 2 	FMN 	Fire-Tac 
+154.01000 	150.77500  	WYR576 	RM	173.8 PL	Cache FD Pag 	Fire/EMS Paging (linked to UCA 28832) 	FMN 	Fire Dispatch 
+155.53500 	159.36000  	KRM755 	BM	203.5 PL	Cache FD Pag 	Fire/EMS Paging 	FMN 	Fire Dispatch 
+155.16000 	150.80500  	WPVL546 	RM	131.8 PL	Cache SAR 	Search and Rescue 	FMN 	Emergency Ops 
+151.20500 	153.74000  	WPYS741 	RM	192.8 PL	Cache Jail 	Jail 	FMN 	Corrections 
+156.03750 	158.84250  	WQGY457 	RM	173.8 PL	Cache Roads 	Roads 1 	FMN 	Public Works 
+156.24000 	   	KFM301 	BM	151.4 PL	Cache Roads2 	Roads 2 	FMN 	Public Works 
+155.24250 	   	WPXM999 	BM		BearRiv Heal 	Bear River Health District 	FMN 	Public Works 
+153.86000 	   	WRL630 	BM		Cache Senior 	Senior Citizens Center Bus 	FMN 	Transportation 
+453.55000 	458.55000  	WXB961 	BM		Cache ScBus1 	School System Buses 	FMN 	Schools 
+453.60000 	458.60000  	WXB961 	BM		Cache ScBus2 	School System Buses 	FMN 	Schools 
+154.83000 	   	KRM755 	M	123.0 PL	Logan PD Tac 	Police Tactical 	FMN 	Law Tac 
+155.90250 	   	WPSF342 	BM	100.0 PL	Logan FD Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
+151.00250 	   	WPSF342 	BM	100.0 PL	Logan FD Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
+156.16500 	153.96500  	WPQB871 	RM	100.0 PL	Logan EOC 	Emergency Operations Center 	FMN 	Emergency Ops 
+461.75000 	466.75000  	WPPD479 	RM	151.4 PL	Logan Reg Hosp 	Logan Regional Hospital 	FMN 	Hospital 
+153.65000 	159.75000  	WQAA464 	RM	114.8 PL	Logan Water 1 	Parks & Water Department 1 	FMN 	Public Works 
+153.47000 	159.54000  	WPSL714 	RM	123.0 PL	Logan Water 2 	Water Department 2 	FMN 	Public Works 
+153.57500 	159.64500  	WPTQ264 	RM	110.9 PL	Logan Street 	Streets/Plows 	FMN 	Public Works 
+153.66500 	158.92500  	WNVD309 	RM	100.0 PL	Logan Power 	Power 	FMN 	Public Works 
+154.85250 	159.09750  	WQBD340 	RM	218.1 PL	Logan Landill 	Landfill/Trash Dumpster Crew 	FMN 	Public Works 
+156.19500 	159.00000  	WNFU265 	RM	88.5 PL	Logan Trash 	Trash/Landfill 	FMN 	Public Works 
+153.83750 	158.96250  	WPTV440 	RM	210.7 PL	Logan Event 1 	Events Repeater 1 	FMN 	Public Works 
+151.08500 	159.19500  	WPXU823 	RM	88.5 PL	Logan Event 2 	Events Repeater 2 	FMN 	Public Works 
+155.89500 	   	WQBB760 	BM	67.0 PL	HydePk FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+453.85000 	   	KNFE803 	BM		N Logan Road 	Roads 	FMN 	Public Works 
+154.99500 	   	WPWE813 	BM	156.7 PL	Smithfld Cty 	City Services 	FMN 	Public Works 
+453.33750 	458.33750  	WPMY580 	RM	79.7 PL	CVTD Base 	Bus Operations Base 	FM 	Transportation 
+460.31250 	465.31250  	WQES731 	RM	103.5 PL	CVTD Service 	Bus Operations Service 	FM 	Transportation 
+458.81250 	   	WPMY580 	BM	073 DPL	CVTD CAR 	Call a Ride (CAR) Paratransit 	FM 	Transportation 
+855.03750 	   	WPIQ847 	M	503 DPL	USU Simplex 	Radio to Radio 	FM 	Schools 
+853.48750 	   	WPIZ366 	M	606 DPL	USU Itin 606 	Itinerant 606 	FM 	Schools 
+853.48750 	   	WPIZ366 	M	516 DPL	USU Itin 516 	Itinerant 516 	FM 	Schools 
+853.48750 	   	WPIZ366 	M	466 DPL	USU Itin 466 	Itinerant 466 	FM 	Schools 
+462.00000 	467.00000  	WNWN635 	RM	141.3 PL	USU Housing 	Housing 	FM 	Schools 
+DMR-Utah Amateur Radio Network	 DMR Conventional Networked	 Multiple	Peak Wireless Services	 NXDN NEXEDGE 9600	 Multiple	Questar (Logan)	 Motorola Type II	 Logan
+Utah State University	 DMR Motorola Capacity Plus Single Site (TRBO)	 Logan	

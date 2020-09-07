@@ -1,39 +1,38 @@
-155.52000 	KNHA831 	RM		LewCLrkCoSO1 	Sheriff - Dispatch 	FMN 	Law Dispatch 
-154.86000 	WPUE649 	RM		LewClkSOCoNo 	Sheriff - North 	FMN 	Law Tac 
-154.89000 	WPMA295 	BM		LewCkCoSOTac 	Sheriff - Command Post/Tactical 	FMN 	Law Tac 
-154.84500 	WQDD745 	RM		LewisClarkSO 	Sheriff 	FMN 	Law Tac 
-155.31000 	WQCL476 	BM		LewCkCoSOTac 	Sheriff - Tactical 	P25 	Law Tac 
-155.37000 	WQCL476 	BM		LewCkCoSOTac 	Sheriff - Tactical 	FMN 	Law Tac 
-155.43000 	KNHA831 	BM		LewisClarkSO 	Sheriff 	FMN 	Law Talk 
-156.21000 	WPPC579 	RM		LewCkCoSOTac 	Sheriff - Tactical 	FMN 	Law Tac 
-159.05250 	WQCL476 	M		LewCkCoSOTac 	Sheriff - Tactical 	P25 	Law Tac 
-159.06750 	WQCL476 	M		LewCkCoSOTac 	Sheriff - Tactical 	FMN 	Law Tac 
-159.09000 	KNHA831 	BM		LewisClarkSO 	Sheriff 	FMN 	Law Talk 
-159.21000 	WPMA295 	BM		LewCkCoSOTac 	Sheriff - Tactical 	FMN 	Law Tac 
-453.50000 	WPKV541 	BM		LewClkCoJail 	Sheriff - Corrections 	FMN 	Corrections 
-154.16000 	WNQH392 	RM	203.5 PL	LewClarkCoFD 	Fire - Rural Dispatch 	FMN 	Fire Dispatch 
-153.78500 	KJS868 	BM		LewClkCoRoad 	Highway Department 	FMN 	Public Works 
-156.19500 	WQAB991 	RM		LewClkCoRoad 	Highway Department 	FMN 	Public Works 
-155.07000 	KNJF895 	BM		E Helena Police 	Police 	FMN 	Law Dispatch 
-154.99500 	WPML338 	RM	85.4 PL	E Helena Fire 	Public Safety 	FMN 	Fire Dispatch 
-156.24000 	WNLU301 	BM		E Helena DPW 	Highway Dept. 	FMN 	Public Works 
-155.62500 	KNHD672 	RM		 HelenaPDDis 	Police 1 Dispatch 	FMN 	Law Dispatch 
-154.75500 	KNHD672 	BM		HelenaPDSec 	Police 2 	FMN 	Law Tac 
-154.44500 	KNEV351 	RM		 HelenaFDDis 	Fire 1 Dispatch 	FMN 	Fire Dispatch 
-154.38500 	KNEV351 	BM		 HelenaFDSec 	Fire 2 	FMN 	Fire-Tac 
-154.19000 	WPNV646 	RM		 Helena Fire 	Fire 	FMN 	Fire-Tac 
-158.92500 	WPPE828 	M		 Helena Fire 	Fire 	FMN 	Fire-Tac 
-154.96500 	KNAO444 	BM		HelenaPubSft 	Public Safety 	FMN 	Fire-Tac 
-155.76000 	KNAO444 	RM		HelenaPubSft 	Public Safety 	FMN 	Fire-Tac 
-153.74000 	WNJR218 	BM		HelenaHousng 	Housing Authority 	FMN 	Public Works 
-153.81500 	WPIA943 	M		HelenaCivCtr 	Civic Center 	FMN 	Public Works 
-154.80000 	WQDG517 	BM		HelenaHousng 	Housing Authority 	FMN 	Public Works 
-155.04000 	KOL876 	BM		HelenaPubWks 	City Services 	FMN 	Public Works 
-155.10000 	KOL876 	BM		HelenaPubWks 	City Services 	FMN 	Public Works 
-155.67000 	WQDG517 	BM		HelenaHousng 	Housing Authority 	FMN 	Public Works 
-155.71500 	KNBW224 	BM		HelenaHousng 	Housing Authority 	FMN 	Public Works 
-155.80500 	WQDG918 	M		HelenaPubWks 	City Services 	P25 	Public Works 
-159.06000 	WQDG918 	M		HelenaPubWks 	City Services 	P25 	Public Works 
-154.22000 	WPCG671 	BM		Lincoln FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-154.32500 	WPRG547 	BM		 WlfCk/CrgFD 	Operations 	FMN 	Fire-Tac 
-Montana Public Safety Communications System	 Project 25 Phase I	 Statewide	
+155.52000 	156.09000  	KNHA831 	RM		LewCLrkCoSO1 	Sheriff - Dispatch 	FMN 	Law Dispatch 
+154.86000 	   	WPUE649 	RM		LewClkSOCoNo 	Sheriff - North 	FMN 	Law Tac 
+154.89000 	   	WPMA295 	BM		LewCkCoSOTac 	Sheriff - Command Post/Tactical 	FMN 	Law Tac 
+154.84500 	158.86500  	WQDD745 	RM		LewisClarkSO 	Sheriff 	FMN 	Law Tac 
+155.31000 	   	WQCL476 	BM		LewCkCoSOTac 	Sheriff - Tactical 	P25 	Law Tac 
+155.37000 	   	WQCL476 	BM		LewCkCoSOTac 	Sheriff - Tactical 	FMN 	Law Tac 
+155.43000 	   	KNHA831 	BM		LewisClarkSO 	Sheriff 	FMN 	Law Talk 
+156.21000 	159.21000  	WPPC579 	RM		LewCkCoSOTac 	Sheriff - Tactical 	FMN 	Law Tac 
+159.05250 	   	WQCL476 	M		LewCkCoSOTac 	Sheriff - Tactical 	P25 	Law Tac 
+159.06750 	   	WQCL476 	M		LewCkCoSOTac 	Sheriff - Tactical 	FMN 	Law Tac 
+159.09000 	   	KNHA831 	BM		LewisClarkSO 	Sheriff 	FMN 	Law Talk 
+159.21000 	   	WPMA295 	BM		LewCkCoSOTac 	Sheriff - Tactical 	FMN 	Law Tac 
+453.50000 	   	WPKV541 	BM		LewClkCoJail 	Sheriff - Corrections 	FMN 	Corrections 
+154.16000 	158.80500  	WNQH392 	RM	203.5 PL	LewClarkCoFD 	Fire - Rural Dispatch 	FMN 	Fire Dispatch 
+153.78500 	   	KJS868 	BM		LewClkCoRoad 	Highway Department 	FMN 	Public Works 
+156.19500 	158.98500  	WQAB991 	RM		LewClkCoRoad 	Highway Department 	FMN 	Public Works 
+155.07000 	   	KNJF895 	BM		E Helena Police 	Police 	FMN 	Law Dispatch 
+154.99500 	158.89500  	WPML338 	RM	85.4 PL	E Helena Fire 	Public Safety 	FMN 	Fire Dispatch 
+156.24000 	   	WNLU301 	BM		E Helena DPW 	Highway Dept. 	FMN 	Public Works 
+155.62500 	154.83000  	KNHD672 	RM		 HelenaPDDis 	Police 1 Dispatch 	FMN 	Law Dispatch 
+154.75500 	   	KNHD672 	BM		HelenaPDSec 	Police 2 	FMN 	Law Tac 
+154.44500 	153.77000  	KNEV351 	RM		 HelenaFDDis 	Fire 1 Dispatch 	FMN 	Fire Dispatch 
+154.38500 	   	KNEV351 	BM		 HelenaFDSec 	Fire 2 	FMN 	Fire-Tac 
+154.19000 	158.76000  	WPNV646 	RM		 Helena Fire 	Fire 	FMN 	Fire-Tac 
+158.92500 	   	WPPE828 	M		 Helena Fire 	Fire 	FMN 	Fire-Tac 
+154.96500 	   	KNAO444 	BM		HelenaPubSft 	Public Safety 	FMN 	Fire-Tac 
+155.76000 	   	KNAO444 	RM		HelenaPubSft 	Public Safety 	FMN 	Fire-Tac 
+153.74000 	   	WNJR218 	BM		HelenaHousng 	Housing Authority 	FMN 	Public Works 
+153.81500 	   	WPIA943 	M		HelenaCivCtr 	Civic Center 	FMN 	Public Works 
+154.80000 	   	WQDG517 	BM		HelenaHousng 	Housing Authority 	FMN 	Public Works 
+155.04000 	   	KOL876 	BM		HelenaPubWks 	City Services 	FMN 	Public Works 
+155.10000 	   	KOL876 	BM		HelenaPubWks 	City Services 	FMN 	Public Works 
+155.67000 	   	WQDG517 	BM		HelenaHousng 	Housing Authority 	FMN 	Public Works 
+155.71500 	   	KNBW224 	BM		HelenaHousng 	Housing Authority 	FMN 	Public Works 
+155.80500 	   	WQDG918 	M		HelenaPubWks 	City Services 	P25 	Public Works 
+159.06000 	   	WQDG918 	M		HelenaPubWks 	City Services 	P25 	Public Works 
+154.22000 	   	WPCG671 	BM		Lincoln FD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+154.32500 	   	WPRG547 	BM		 WlfCk/CrgFD 	Operations 	FMN 	Fire-Tac 

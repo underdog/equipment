@@ -1,37 +1,37 @@
-154.16000 	KNHT497 	RM	88.5 PL	DC FIRE MAIN 	Davidson County Fire Dispatch (patched to VIPER) 	FMN 	Fire Dispatch 
-154.16000 	KNHT497 	BM	88.5 PL	DC FIRE T/A 	Davidson County Fire Talk Around  	FM 	Fire-Tac 
-154.40000 	WPWS412 	RM	88.5 PL	DCFIRE SOUTH 	Davidson County Fire South Repeater 	FM 	Fire-Talk 
-154.98000 	WRV719 	RM	107.2 PL	DCFIRE NORTH 	Davidson County Fire North Repeater (Patch to Thomasville Trunked System) 	FM 	Fire-Talk 
-154.32500 	KNHT497 	BM	88.5 PL	DC FIRE FG02 	Davidson County Fire Fireground 02 	FM 	Fire-Tac 
-153.95000 	KNHT497 	BM	88.5 PL	DC FIRE FG03 	Davidson County Fire Fireground 03 	FM 	Fire-Tac 
-154.40000 	WPWS412 	BM	88.5 PL	DC FIRE FG04 	Davidson County Fire Fireground 04 	FM 	Fire-Tac 
-151.10000 	WQKY724 	M	88.5 PL	DC FIRE FG05 	Davidson County Fire Fireground 05 	FM 	Fire-Tac 
-153.90500 	WQKY724 	M	88.5 PL	DC FIRE FG06 	Davidson County Fire Fireground 06 	FM 	Fire-Tac 
-153.96500 	WQKY724 	M	88.5 PL	DC FIRE FG07 	Davidson County Fire Fireground 07 	FM 	Fire-Tac 
-154.10000 	WQKY724 	M	88.5 PL	DC FIRE FG08 	Davidson County Fire Fireground 08 	FM 	Fire-Tac 
-155.79000 	WQKY724 	M	88.5 PL	DC FIRE FG09 	Davidson County Fire Fireground 09 	FM 	Fire-Tac 
-155.95500 	WQKY724 	M	88.5 PL	DC FIRE FG10 	Davidson County Fire Fireground 10 	FM 	Fire-Tac 
-158.76000 	WQKY724 	M	88.5 PL	DC FIRE FG11 	Davidson County Fire Fireground 11 	FM 	Fire-Tac 
-159.09000 	WQKY724 	M	88.5 PL	DC FIRE FG12 	Davidson County Fire Fireground 12 	FM 	Fire-Tac 
-151.04750 	WQKB314 	M	88.5 PL	DC FIRE FG13 	Davidson County FIre Fireground 13 	FM 	Fire-Tac 
-151.06250 	WQKB314 	M	88.5 PL	DC FIRE FG14 	Davidson County Fire Fireground 14 	FM 	Fire-Tac 
-155.42250 	WQKB314 	M	88.5 PL	DC FIRE FG15 	Davidson County Fire Fireground 15 	FM 	Fire-Tac 
-155.67750 	WQKB314 	M	88.5 PL	DC FIRE FG16 	Davidson County Fire Fireground 16 	FM 	Fire-Tac 
-156.14250 	WQKB314 	M	88.5 PL	DC FIRE FG17 	Davidson County Fire Fireground 17 	FM 	Fire-Tac 
-155.68500 	WQKB314 	M	88.5 PL	DC FIRE FG18 	Davidson County Fire Fireground 18 	FM 	Fire-Tac 
-153.83000 	KDG911 	BM	88.5 PL	DC FIRE PILT 	Davidson County Fire  Pilot Fire 	FM 	Fire-Talk 
-154.28000 	KNHT497 	BM	88.5 PL	DC FIRE AID 	Davidson County Fire State Fire 	FM 	Fire-Talk 
-155.23500 	KVC489 	RM	88.5 PL	DC EMS MAIN 	Davidson County EMS Dispatch (patched to VIPER) 	FMN 	EMS-Talk 
-155.23500 	KVC489 	BM	88.5 PL	DC EMS TALK 	Davidson County EMS Talkaround 	FM 	EMS-Talk 
-155.28000 	KVC489 	BM	88.5 PL	DC EMS STATE 	Davidson County EMS State Rescue 	FM 	EMS-Talk 
-155.34000 	KVC489 	BM	88.5 PL	DC HOSPITAL 	Davidson County Hospital Net 	FM 	Hospital 
-47.46000 	KNDQ380 	BM		DC EMA 	Davidson County Emergency Management 	FM 	Emergency Ops 
-453.25000 	KNFL661 	RM		DC SCHOOLS 	Davidson County School Buses 	FM 	Schools 
-119.82500 	EXX 	BM	CSQ	DCOAAWOS 	Davidson County Airport AWOS 	AM 	Aircraft 
-122.80000 	EXX 	BM	CSQ	DCOAUNICOM 	Davidson County Airport UNICOM 	AM 	Aircraft 
-153.78500 	WNYW854 	BM		Denton Srvcs 	Services 	FM 	Public Works 
-155.82000 	 	RM	88.5 PL	LEX FIRE  	Lexington Fire Dispatch 	FM 	Fire Dispatch 
-158.88000 	WPBM747 	RM		LEX PW 	Services 	FM 	Public Works 
-453.15000 	WPNZ666 	RM		LEX HA 	Housing Authority 	FM 	Public Works 
-EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	Greensboro / Guilford County	 Project 25 Phase I	 Greensboro	North Carolina VIPER	 Project 25 Phase I
- Varies	RCS Communications (Lexington)	 LTR Standard	 	Wake Forest Baptist Medical (NEXEDGE)	 NXDN NEXEDGE 9600	 Varies	
+154.16000 	158.94000  	KNHT497 	RM	88.5 PL	DC FIRE MAIN 	Davidson County Fire Dispatch (patched to VIPER) 	FMN 	Fire Dispatch 
+154.16000 	   	KNHT497 	BM	88.5 PL	DC FIRE T/A 	Davidson County Fire Talk Around  	FM 	Fire-Tac 
+154.40000 	159.19500  	WPWS412 	RM	88.5 PL	DCFIRE SOUTH 	Davidson County Fire South Repeater 	FM 	Fire-Talk 
+154.98000 	159.15000  	WRV719 	RM	107.2 PL	DCFIRE NORTH 	Davidson County Fire North Repeater (Patch to Thomasville Trunked System) 	FM 	Fire-Talk 
+154.32500 	   	KNHT497 	BM	88.5 PL	DC FIRE FG02 	Davidson County Fire Fireground 02 	FM 	Fire-Tac 
+153.95000 	   	KNHT497 	BM	88.5 PL	DC FIRE FG03 	Davidson County Fire Fireground 03 	FM 	Fire-Tac 
+154.40000 	   	WPWS412 	BM	88.5 PL	DC FIRE FG04 	Davidson County Fire Fireground 04 	FM 	Fire-Tac 
+151.10000 	   	WQKY724 	M	88.5 PL	DC FIRE FG05 	Davidson County Fire Fireground 05 	FM 	Fire-Tac 
+153.90500 	   	WQKY724 	M	88.5 PL	DC FIRE FG06 	Davidson County Fire Fireground 06 	FM 	Fire-Tac 
+153.96500 	   	WQKY724 	M	88.5 PL	DC FIRE FG07 	Davidson County Fire Fireground 07 	FM 	Fire-Tac 
+154.10000 	   	WQKY724 	M	88.5 PL	DC FIRE FG08 	Davidson County Fire Fireground 08 	FM 	Fire-Tac 
+155.79000 	   	WQKY724 	M	88.5 PL	DC FIRE FG09 	Davidson County Fire Fireground 09 	FM 	Fire-Tac 
+155.95500 	   	WQKY724 	M	88.5 PL	DC FIRE FG10 	Davidson County Fire Fireground 10 	FM 	Fire-Tac 
+158.76000 	   	WQKY724 	M	88.5 PL	DC FIRE FG11 	Davidson County Fire Fireground 11 	FM 	Fire-Tac 
+159.09000 	   	WQKY724 	M	88.5 PL	DC FIRE FG12 	Davidson County Fire Fireground 12 	FM 	Fire-Tac 
+151.04750 	   	WQKB314 	M	88.5 PL	DC FIRE FG13 	Davidson County FIre Fireground 13 	FM 	Fire-Tac 
+151.06250 	   	WQKB314 	M	88.5 PL	DC FIRE FG14 	Davidson County Fire Fireground 14 	FM 	Fire-Tac 
+155.42250 	   	WQKB314 	M	88.5 PL	DC FIRE FG15 	Davidson County Fire Fireground 15 	FM 	Fire-Tac 
+155.67750 	   	WQKB314 	M	88.5 PL	DC FIRE FG16 	Davidson County Fire Fireground 16 	FM 	Fire-Tac 
+156.14250 	   	WQKB314 	M	88.5 PL	DC FIRE FG17 	Davidson County Fire Fireground 17 	FM 	Fire-Tac 
+155.68500 	   	WQKB314 	M	88.5 PL	DC FIRE FG18 	Davidson County Fire Fireground 18 	FM 	Fire-Tac 
+153.83000 	   	KDG911 	BM	88.5 PL	DC FIRE PILT 	Davidson County Fire  Pilot Fire 	FM 	Fire-Talk 
+154.28000 	   	KNHT497 	BM	88.5 PL	DC FIRE AID 	Davidson County Fire State Fire 	FM 	Fire-Talk 
+155.23500 	158.97000  	KVC489 	RM	88.5 PL	DC EMS MAIN 	Davidson County EMS Dispatch (patched to VIPER) 	FMN 	EMS-Talk 
+155.23500 	   	KVC489 	BM	88.5 PL	DC EMS TALK 	Davidson County EMS Talkaround 	FM 	EMS-Talk 
+155.28000 	   	KVC489 	BM	88.5 PL	DC EMS STATE 	Davidson County EMS State Rescue 	FM 	EMS-Talk 
+155.34000 	   	KVC489 	BM	88.5 PL	DC HOSPITAL 	Davidson County Hospital Net 	FM 	Hospital 
+47.46000 	   	KNDQ380 	BM		DC EMA 	Davidson County Emergency Management 	FM 	Emergency Ops 
+453.25000 	458.25000  	KNFL661 	RM		DC SCHOOLS 	Davidson County School Buses 	FM 	Schools 
+119.82500 	   	EXX 	BM	CSQ	DCOAAWOS 	Davidson County Airport AWOS 	AM 	Aircraft 
+122.80000 	   	EXX 	BM	CSQ	DCOAUNICOM 	Davidson County Airport UNICOM 	AM 	Aircraft 
+153.78500 	   	WNYW854 	BM		Denton Srvcs 	Services 	FM 	Public Works 
+155.82000 	153.80000  	 	RM	88.5 PL	LEX FIRE  	Lexington Fire Dispatch 	FM 	Fire Dispatch 
+158.88000 	155.98500  	WPBM747 	RM		LEX PW 	Services 	FM 	Public Works 
+453.15000 	458.15000  	WPNZ666 	RM		LEX HA 	Housing Authority 	FM 	Public Works 
+EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	Greensboro / Guilford County	 Project 25 Phase I	 Greensboro	RCS Communications (Lexington)	 LTR Standard	 
+Wake Forest Baptist Medical (NEXEDGE)	 NXDN NEXEDGE 9600	 Varies	

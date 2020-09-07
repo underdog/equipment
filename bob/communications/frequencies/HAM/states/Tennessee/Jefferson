@@ -1,40 +1,40 @@
-460.47500 	WPCG422 	RM	103.5 PL	JC LAW DISP 	Countywide Law Enforcement Dispatch (Backup) 	FMN 	Law Dispatch 
-453.13750 	WPCY656 	M		JC-911 FG 	Emergency Management - Fireground 	FMN 	Fire-Tac 
-453.03750 	WPCY656 	M	210.7 PL	JC-911 FG 	Emergency Management - Fireground 	FMN 	Fire-Tac 
-460.60000 	WNUT585 	RM	167.9 PL	JC-911 DISP 	Fire/E-911 Dispatch  	FMN 	Fire Dispatch 
-452.53750 	 	M	186.2 PL	JCEMA TAC 	Emergency Management Tactical 	FMN 	Emergency Ops 
-460.06250 	WQTW342  	RM	411 DPL	JC-EMS DISP 	EMS - Countywide Dispatch 	FMN 	EMS Dispatch 
-453.12500 	WPCI773 	RM	114.8 PL	JC-EMS OPS 	EMS - Countywide Operations 	FMN 	EMS-Tac 
-453.12500 	WPCI773 	M	67.0 PL	JC-EMS TAC5 	EMS - Tactical (5) 	FMN 	EMS-Tac 
-453.23750 	WXP508 	RM	114 DPL	JeffCoEMSHsp 	Jefferson Memorial ER UHF 	FMN 	Hospital 
-155.34000 	WXP508 	BM	233.6 PL	JefCoEMSJMH 	Jefferson Memorial ER HEAR 1 	FMN 	Hospital 
-155.28000 	WXP508 	BM	118.8 PL	JeffCoEMSHsp 	Jefferson Memorial ER HEAR 2 	FMN 	Hospital 
-465.42500 	 	M		JeffCoTac1 	Jefferson Tactical 1 	FMN 	Interop 
-465.37500 	 	M		JeffCoTac2 	Jefferson Tactical 2 	FMN 	Interop 
-451.77500 	WRAU920 	RM	CC 4TG 1SL 1	JeffCoJail 	Jefferson County Jail 	DMR 	Corrections 
-461.75000 	 	M	054 DPL	DndrdgPDTac 	Police Department - Tactical 	FM 	Law Tac 
-453.35000 	WQEV210 	RM	412 DPL	DandridgeFD 	Fire Department 	FMN 	Fire Dispatch 
-453.15000 	WPDZ938 	RM	103.5 PL	JeffCiPD 	Police Department Backup 	FMN 	Law Dispatch 
-460.31250 	WQD204 	RM	165 DPL	JeffCiFDDISP 	Fire Department Primary Dispatch CH 1 Backup 	FMN 	Fire Dispatch 
-460.33750 	WQD204 	RM		JeffCiFD OP1 	Fire Department Tactical Backup 	FMN 	Fire-Tac 
-460.36250 	WQD204 	RM		JeffCiFD OP2 	Fire Department Tactical Backup 	FMN 	Fire-Tac 
-453.22500 	KNJC931 	RM		WPPD-DISP 	Police - Dispatch 	NXDN 	Law Dispatch 
-460.46250 	KNJC931 	RM		WPVFD-DISP 	Volunteer Fire Department - Dispatch (Also Baneberry Volunteer Fire Department) 	NXDN 	Fire Dispatch 
-153.54500 	KYZ728 	RM		ATUD 1 	Alpha Talbot Utilities District 	FMN 	Utilities 
-451.03750 	 	RM		ATUD 2 	Alpha Talbot Utilities District 	FMN 	Utilities 
-153.26000 	WPAP380 	RM	91.5 PL	AEU Coop 	Appalachian Electric Cooperative 	FMN 	Utilities 
-153.59000 	WPAP380 	RM	103.5 PL	AEU Coop 	Applachian Electric Utilities 	FMN 	Utilities 
-159.61500 	WPAP380 			AEU Coop 	Applachian Electric Utilities 	FMN 	Utilities 
-159.73500 	WPAP380 			AEU Coop 	Applachian Electric Utilities 	FMN 	Utilities 
-159.90000 	WPAP380 			AEU Coop 	Applachian Electric Utilities 	FMN 	Utilities 
-72.26000 	 	F		AEU Coop 	Appalachian Electric - New Market 	FM 	Utilities 
-451.16250 	WNXJ619 	RM		JCUD 	Jefferson-Cocke Utilities District 	FMN 	Utilities 
-451.26250 	WPUA360 	RM	179.9 PL	JCUD 	Jefferson-Cocke Utilities District 	FMN 	Utilities 
-173.30000 	 	F		NMUD 	New Market Utilities District 	FMN 	Utilities 
-452.20000 	 	RM		SGUD 	Shady Grove Utilities District 	FMN 	Utilities 
-451.68750 	WQBI256 	M	632 DPL	CN1 ANALOG 	Analog Channel 1 	FMN 	Schools 
-456.46250 	WQBI256 	M	114 DPL	CN2 ANALOG 	Analog Channel 2 	FMN 	Schools 
-451.68750 	WQBI256 	M	40 RAN	CN1 DIGITAL 	Digital Channel 1 	NXDNE 	Schools 
-456.46250 	WQBI256 	M	40 RAN	CN2 DIGITAL 	Digital Channel 2 	NXDNE 	Schools 
-Cartwright Communication Technology (English Mountain)	 LTR Standard	 English Mountain	Jefferson Memorial Hospital	 LTR Standard	 Jefferson City	Land Air Communications (NXDN)	 NXDN NEXEDGE 4800
- Various	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	
+460.47500 	465.47500  	WPCG422 	RM	103.5 PL	JC LAW DISP 	Countywide Law Enforcement Dispatch (Backup) 	FMN 	Law Dispatch 
+453.13750 	458.13750  	WPCY656 	M		JC-911 FG 	Emergency Management - Fireground 	FMN 	Fire-Tac 
+453.03750 	458.03750  	WPCY656 	M	210.7 PL	JC-911 FG 	Emergency Management - Fireground 	FMN 	Fire-Tac 
+460.60000 	465.60000  	WNUT585 	RM	167.9 PL	JC-911 DISP 	Fire/E-911 Dispatch  	FMN 	Fire Dispatch 
+452.53750 	   	 	M	186.2 PL	JCEMA TAC 	Emergency Management Tactical 	FMN 	Emergency Ops 
+460.06250 	465.06250  	WQTW342  	RM	411 DPL	JC-EMS DISP 	EMS - Countywide Dispatch 	FMN 	EMS Dispatch 
+453.12500 	458.12500  	WPCI773 	RM	114.8 PL	JC-EMS OPS 	EMS - Countywide Operations 	FMN 	EMS-Tac 
+453.12500 	458.12500  	WPCI773 	M	67.0 PL	JC-EMS TAC5 	EMS - Tactical (5) 	FMN 	EMS-Tac 
+453.23750 	458.23750  	WXP508 	RM	114 DPL	JeffCoEMSHsp 	Jefferson Memorial ER UHF 	FMN 	Hospital 
+155.34000 	   	WXP508 	BM	233.6 PL	JefCoEMSJMH 	Jefferson Memorial ER HEAR 1 	FMN 	Hospital 
+155.28000 	   	WXP508 	BM	118.8 PL	JeffCoEMSHsp 	Jefferson Memorial ER HEAR 2 	FMN 	Hospital 
+465.42500 	   	 	M		JeffCoTac1 	Jefferson Tactical 1 	FMN 	Interop 
+465.37500 	   	 	M		JeffCoTac2 	Jefferson Tactical 2 	FMN 	Interop 
+451.77500 	   	WRAU920 	RM	CC 4TG 1SL 1	JeffCoJail 	Jefferson County Jail 	DMR 	Corrections 
+461.75000 	   	 	M	054 DPL	DndrdgPDTac 	Police Department - Tactical 	FM 	Law Tac 
+453.35000 	458.35000  	WQEV210 	RM	412 DPL	DandridgeFD 	Fire Department 	FMN 	Fire Dispatch 
+453.15000 	458.15000  	WPDZ938 	RM	103.5 PL	JeffCiPD 	Police Department Backup 	FMN 	Law Dispatch 
+460.31250 	465.31250  	WQD204 	RM	165 DPL	JeffCiFDDISP 	Fire Department Primary Dispatch CH 1 Backup 	FMN 	Fire Dispatch 
+460.33750 	465.33750  	WQD204 	RM		JeffCiFD OP1 	Fire Department Tactical Backup 	FMN 	Fire-Tac 
+460.36250 	465.36250  	WQD204 	RM		JeffCiFD OP2 	Fire Department Tactical Backup 	FMN 	Fire-Tac 
+453.22500 	458.22500  	KNJC931 	RM		WPPD-DISP 	Police - Dispatch 	NXDN 	Law Dispatch 
+460.46250 	465.46250  	KNJC931 	RM		WPVFD-DISP 	Volunteer Fire Department - Dispatch (Also Baneberry Volunteer Fire Department) 	NXDN 	Fire Dispatch 
+153.54500 	161.05500  	KYZ728 	RM		ATUD 1 	Alpha Talbot Utilities District 	FMN 	Utilities 
+451.03750 	456.03750  	 	RM		ATUD 2 	Alpha Talbot Utilities District 	FMN 	Utilities 
+153.26000 	   	WPAP380 	RM	91.5 PL	AEU Coop 	Appalachian Electric Cooperative 	FMN 	Utilities 
+153.59000 	   	WPAP380 	RM	103.5 PL	AEU Coop 	Applachian Electric Utilities 	FMN 	Utilities 
+159.61500 	   	WPAP380 			AEU Coop 	Applachian Electric Utilities 	FMN 	Utilities 
+159.73500 	   	WPAP380 			AEU Coop 	Applachian Electric Utilities 	FMN 	Utilities 
+159.90000 	   	WPAP380 			AEU Coop 	Applachian Electric Utilities 	FMN 	Utilities 
+72.26000 	   	 	F		AEU Coop 	Appalachian Electric - New Market 	FM 	Utilities 
+451.16250 	456.16250  	WNXJ619 	RM		JCUD 	Jefferson-Cocke Utilities District 	FMN 	Utilities 
+451.26250 	456.26250  	WPUA360 	RM	179.9 PL	JCUD 	Jefferson-Cocke Utilities District 	FMN 	Utilities 
+173.30000 	   	 	F		NMUD 	New Market Utilities District 	FMN 	Utilities 
+452.20000 	457.20000  	 	RM		SGUD 	Shady Grove Utilities District 	FMN 	Utilities 
+451.68750 	   	WQBI256 	M	632 DPL	CN1 ANALOG 	Analog Channel 1 	FMN 	Schools 
+456.46250 	   	WQBI256 	M	114 DPL	CN2 ANALOG 	Analog Channel 2 	FMN 	Schools 
+451.68750 	   	WQBI256 	M	40 RAN	CN1 DIGITAL 	Digital Channel 1 	NXDNE 	Schools 
+456.46250 	   	WQBI256 	M	40 RAN	CN2 DIGITAL 	Digital Channel 2 	NXDNE 	Schools 
+Cartwright Communication Technology (English Mountain)	 LTR Standard	 English Mountain	Jefferson Memorial Hospital	 LTR Standard	 Jefferson City	Land Air Communications (NXDN)	 NXDN NEXEDGE 4800	 Various
+Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

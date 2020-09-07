@@ -1,169 +1,168 @@
-154.72500 	WNSL213 	BM	206.5 PL	Lehigh FG 1 	County Fire Fireground 1 	FMN 	Fire-Tac 
-155.32500 	KQR807 	BM	206.5 PL	Lehigh FG 2 	County Fire Fireground 2 	FMN 	Fire-Tac 
-154.27250 	WPSI256 	RM	206.5 PL	Lehigh FG 3 	County Fire Fireground 3 	FMN 	Fire-Tac 
-150.78250 	WPSI256 	BM	206.5 PL	Lehigh FG 4 	County Fire Fireground 4 	FMN 	Fire-Tac 
-158.25000 	KGE426 	RM	206.5 PL	Lehigh F-Nor 	County Fire North 	FMN 	Fire-Tac 
-159.06000 	WNXJ633 	RM	206.5 PL	Lehigh F-Sou 	County Fire South 	FMN 	Fire-Tac 
-453.52500 	WPKT898 	RM	151.4 PL	EMA Port Rep 	EMA Port Repeater F7 	FMN 	Fire-Talk 
-154.17500 	WPWQ778 	B	CSQ	Lehigh Disp 	Fire & EMS Dispatch/Paging 	FMN 	Fire Dispatch 
-158.74500 	WNSR871 	M	173.8 PL	Lehigh FP N 	Fire Police North 	FMN 	Fire-Talk 
-155.77500 	KNHV209 	BM	186.2 PL	Lehigh FP S 	Fire Police South 	FMN 	Fire-Talk 
-155.26500 	KQR807 	BM	136.5 PL	Lehigh A-1 	County EMS A-1 - Hospital 	FMN 	EMS-Talk 
-155.34000 	KQR807 	BM	136.5 PL	Lehigh A-2 	County EMS A-2 - Regional Net 	FMN 	EMS-Talk 
-155.83500 	KIS735 	RM	136.5 PL	Lehigh A-5 	County EMS A-5 - Response 	FMN 	EMS-Tac 
-155.34000 	KQR807 	BM	664 DPL	Leh MCI Net 	County MCI Net 	FM 	EMS-Talk 
-151.35500 	KSZ517 	BM	103.5 PL	Cetronia F-1 	Cetronia Ambulance Service F1 	FM 	EMS-Talk 
-155.29500 	KSZ517 	BM	103.5 PL	Cetronia F-2 	Cetronia Ambulance Service F2 	FM 	EMS-Talk 
-155.04000 	KJF909 	RM	186.2 PL	Alntwn EMS 	Allentown EMS 	FM 	Fire-Tac 
-155.29500 	KA80273 	BM	103.5 PL	UprSaucEMS 	Upper Saucon Ambulance Corps 	FMN 	EMS-Tac 
-462.95000 	WNXJ929 	RM	136.5 PL	Lehigh MED 9 	Med 9 	FM 	EMS-Talk 
-462.97500 	KNEG634 	RM	136.5 PL	Lehigh MED10 	MED 10 	FM 	EMS-Talk 
-158.83500 	KVG852 	RM	186.2 PL	LeCo P2 Sou 	Police South Dispatch F-2 	FMN 	Law Dispatch 
-158.77500 	KIS735 	BM	186.2 PL	LeCo P3 Data 	Scope / Lookups F-3 	FMN 	Law Talk 
-158.85000 	KJF715 	RM	186.2 PL	LeCo P4 Nor 	Police North Dispatch F-4 	FMN 	Law Dispatch 
-155.80500 	KIS735 	BM	186.2 PL	LCSO F5 	Sheriff F-5 	FM 	Law Talk 
-156.15000 	WNNG972 	M	186.2 PL	LCSO F6 	Sheriff F-6 	FM 	Law Talk 
-156.09000 	WNNG972 	M	186.2 PL	LCSO F7 	Sheriff F-7 	FM 	Law Talk 
-453.97500 	WNVA828 	RM	127.3 PL	LeCo Jail F1 	County Corrections 1 	FM 	Corrections 
-458.20000 	 	BM	127.3 PL	LeCo Jail F2 	County Corrections 2 	FM 	Corrections 
-458.50000 	WNVG269 	M	127.3 PL	LeCo Jail F3 	County Corrections 3 	FM 	Corrections 
-453.57500 	WNMT456 	RM	127.3 PL	LeCo Jail F4 	County Corrections 4 	FM 	Corrections 
-460.07500 	WPLG259 	RM	141.3 PL	LeCo Courts 	Courthouse Security 	FM 	Law Talk 
-453.26250 	WPTS350 	RM	162.2 PL	LeCo CourtM 	Courthouse - Maintenence 	FMN 	Public Works 
-453.26250 	WPTS350 	RM	146.2 PL	LeCo Govt Ct 	County Government Center - Maintenance 	FMN 	Public Works 
-453.76250 	WQES717 	RM	127.3 PL	Juvenile Ctr 	County Juvenile Detention Center 	FMN 	Corrections 
-151.01750 	WPSI256 	RM	136.5 PL	EMA North 	EMA North 	FMN 	Emergency Ops 
-151.01750 	WPSI256 	RM	206.5 PL	EMA South 	EMA South 	FMN 	Emergency Ops 
-458.57500 	 	M	151.4 PL	Lehigh EMA 	Lehigh EMA 	FMN 	Emergency Ops 
-458.20000 	 	M	162.2 PL	Hazmat F1 	Hazmat F1 	FMN 	Fire-Talk 
-458.50000 	WNVG269 	M	162.2 PL	Hazmat F2 	Hazmat F2 	FMN 	Fire-Talk 
-453.47500 	KNHT865 	RM	151.4 PL	Spec Ops F3 	Spec Ops F3 	FMN 	Fire-Talk 
-453.82500 	KNHT865 	RM	151.4 PL	Spec Ops F4 	Spec Ops F4 	FMN 	Fire-Talk 
-458.47500 	 	M	151.4 PL	Tech Resc 5  	Tech Rescue F5 	FMN 	Fire-Talk 
-458.82500 	 	M	151.4 PL	Tech Resc 6 	Tech Rescue F6 	FMN 	Fire-Talk 
-154.57000 	 	M	94.8 PL	Atown FP 	Allentown City - Fire Police Ops 	FM 	Fire-Talk 
-155.04000 	KJF909 	BM	186.2 PL	Atown EMS 	Allentown EMS Interop(Trunk Simulcast) 	FM 	EMS-Tac 
-158.79000 	KGB326 	B	186.2 PL	Atown iop1 	Allentown Police Interop 1 	FM 	Law Tac 
-159.09000 	KGB326 	B	186.2 PL	Atown iop2 	Allentown Police Interop 2 	FM 	Law Tac 
-151.28000 	WPWI859 	RM		Sta 02 FD 	Catasauqua Fire Dept Repeater 	FM 	Fire-Tac 
-155.88000 	WPWI859 	M	136.5 PL	Sta 02 FG 	Catasauqua Fire Dept. Fireground 	FM 	Fire-Talk 
-159.19500 	KGE624 	B	131.8 PL	STA 4 Pvt 	Coopersburg FD Private Station 4 	FM 	Fire-Talk 
-159.16500 	WPGU936 	RM	051 DPL	Coplay FD/PD 	Coplay FD/PD/DPW 	FMN 	Fire-Tac 
-159.45000 	WNVN360 	RM	156.7 PL	Emmaus PD 1 	Emmaus Borough PD 	FM 	Law Tac 
-154.29500 	KGE741 	BM	186.2 PL	Sta 7 Prvt 	Emmaus Fire Company - Private 	FM 	Fire-Talk 
-154.07000 	KD28146 	M	186.2 PL	UMT Fire 1 	Foglesville Fire Company - Private 	FM 	Fire-Talk 
-158.92500 	WPMQ203 	BM	186.2 PL	FC 34 Priv 	Fountain Hill Borough Fire Private 34 	FMN 	Fire-Talk 
-154.25000 	KGD361 	B	136.5 PL	Sta 33 FG 	Han-Le-Co Fire Dept. Fireground 	FM 	EMS-Talk 
-156.12000 	WNHW508 	RM	136.5 PL	Sta 33 Rpt1 	Han-Le-Co Fire Dept. Repeater 1 - Private 	FMN 	Fire-Talk 
-154.31000 	WNHW508 	RM	100.0 PL	Sta 33 Rpt2 	Han-Le-Co Fire Dept. Repeater 2 	FMN 	Fire-Talk 
-154.14500 	WNXJ532 	RM	114.8 PL	Sta 30 FG 	Lower Macungie Fire Dept. Private 30 	FM 	Fire-Talk 
-154.41500 	WNMD782 	BM	186.2 PL	Sta 13 FG 	Lower Milford Fire Co. Private 13 	FM 	Fire-Talk 
-159.27750 	WQKI500 	BM	192.8 PL	FC 17 TAC 	New Tripoli Fire Company 17 Tactical 	FMN 	Fire-Talk 
-154.60000 	 	RM	136.5 PL	Sta 18 FG 	North Catasauqua Fire Dept. Fireground 	FM 	Fire-Talk 
-151.14500 	KNIP826 	RM	206.5 PL	NWT FG Rptr 	North Whitehall Twp - Fireground 	FM 	Fire-Talk 
-159.12000 	KFB866 	RM	179.9 PL	Salsbry PD 5 	Salisbury Township PD 	FM 	Law Tac 
-460.20000 	WRAW849 	RM	245 DPL	Salsbry PD 6 	Salisbury Township PD 460 	FMN 	Law Tac 
-151.20500 	WNMY999 	BM	97.4 PL	Sta 24 FG 	Slatington Fire Dept. Fireground 	FM 	Fire-Talk 
-155.89500 	WNNI354 	BM		SWT EMA 7 	South Whitehall EMA Ch 7 	FM 	Fire-Tac 
-155.89500 	WNNI354 	RM	103.5 PL	SWT Emerg 	South Whitehall Emergency Band 	FM 	Fire-Tac 
-465.57500 	KFO270 	BM	051 DPL	SWT EMA 	South Whitehall Twp - EMA Tactical 	FMN 	Emergency Ops 
-46.56000 	WNNI354 	BM		SWT EOC 	South Whitehall Twp - EOC Inter-Op 	FM 	Emergency Ops 
-154.22000 	KNAU361 	RM	103.5 PL	SWT Tac 4 	South Whitehall Twp - Tac 4 	FM 	Fire-Talk 
-154.25000 	KGD361 	BM	103.5 PL	SWT Tac 5 	South Whitehall Twp - Tac 5 	FM 	Fire-Talk 
-153.77000 	KFO270 	M	103.5 PL	SWT FG 1 	South Whitehall Twp FG 1 	FM 	Fire-Talk 
-153.89000 	KFO270 	M	103.5 PL	SWT FG 2 	South Whitehall Twp FG 2 	FM 	Fire-Talk 
-156.21000 	KNEJ567 	BM	162.2 PL	SWTPD F5 	South Whitehall Twp Police - Private 	FM 	Law Talk 
-154.07000 	KD28146 	M	186.2 PL	UMT 1 (8 PRVT) 	Upper Macungie Twp Fire - UMT 1 (8 PRVT) 	FMN 	Fire-Tac 
-154.37000 	WNWC288 	M	203.5 PL	UMT 2 (25 PRVT) 	Upper Macungie Twp Fire - UMT 2 (25 PRVT) 	FMN 	Fire-Tac 
-159.23250 	WQLI484 	M	100.0 PL	UMT 3 (56 PRVT) 	Upper Macungie Twp Fire - UMT 3 (56 PRVT) 	FMN 	Fire-Tac 
-159.23250 	WQLI484 	M	351 DPL	UMT Police 	Upper Macungie Twp Police 	FMN 	Law Tac 
-151.43000 	WQIQ254 	RM	94.8 PL	UMT 5 FD RPT 	Upper Macungie Twp Services - UMT 5 - (Fire Repeater) 	FMN 	Public Works 
-154.95000 	WQHQ230 	M		Sta 19 FG 	Upper Milford Western District Fire Co. Fireground  	FM 	Fire-Talk 
-156.17250 	KRT686 	RM	186.2 PL	UST Police 1 	Upper Saucon Township Police 1 	FMN 	Law Dispatch 
-159.15000 	KTR686 	M	186.2 PL	UST Police 2 	Upper Saucon Township Police 2 	FMN 	Law Tac 
-151.26500 	WMRW205 	BM	162.2 PL	Sta 27 FG 	Upper Saucon Twp. Vol. Fire Dept. Private 27 	FM 	Fire-Talk 
-154.20500 	WNLF486 	BM	186.2 PL	Sta 28 FG 	Vera Cruz Fire Co. Sta 28 Fireground 	FM 	Fire-Talk 
-153.95000 	WNWC288 	M	100.0 PL	W SALIS FD 	W Salisbury Fire -Private 	FM 	Fire-Talk 
-156.00000 	KB24573 	M	186.2 PL	Sta 29 FG 	Walnutport Fire Dept. Fireground 	FM 	Fire-Talk 
-460.55000 	WQLB460 	RM	103.5 PL	WeisenbergFD 	Weisenberg Township Fire 	FM 	Fire Dispatch 
-154.01000 	WQVG708 	M	107.2 PL	Whitehall FP 	Whitehall Twp Fire - Fire Police 	FMN 	Fire-Tac 
-154.13000 	WQVG708 	RM	114.8 PL	WTFD F1 	Whitehall Twp Fire F-1 - Alerts/Response 	FMN 	Fire-Tac 
-154.23500 	WNWU650 	M	114.8 PL	WhthllFD F/G 	Whitehall Twp Fire F-2 - Fireground 	FMN 	Fire-Tac 
-460.47500 	WPSD967 	BM	156.7 PL	Whitehl PD 	Whitehall Twp PD - Private 	FMN 	Law Tac 
-159.13500 	KLE872 	RM	186.2 PL	Emmaus DPW 	Emmaus Borough Streets 	FM 	Public Works 
-453.70000 	KSM599 	RM	186.2 PL	Hanover Town 	Hanover Township Streets Dept - (Allentown) 	FM 	Public Works 
-45.24000 	KNDX259 	BM	136.5 PL	Heidelberg T 	Heidelberg Township Highway Dept - (Germansville) 	FM 	Public Works 
-453.57500 	WNMT456 	RM	131.8 PL	Lehigh Parks 	Lehigh County Parks Dept 	FM 	Public Works 
-462.02500 	WQBM796 	RM	205 DPL	Water Treat 	Lehigh County Pre Treatment Plant 	FM 	Public Works 
-460.36250 	WQGM230 	RM	343 DPL	Lower Mac DP 	Lower Macungie Highway Dept 	FM 	Public Works 
-46.58000 	KJU924 	BM	343 DPL	Lower Macung 	Lower Macungie Highway Dept - (Breinigsvillee) 	FM 	Public Works 
-453.92500 	WNDM835 	RM	110.9 PL	LMT Highways 	Lower Milfrod Township Highways Department 	FMN 	Public Works 
-33.10000 	KJF320 	BM		Lynn Twp DPW 	Lynn Township Highway Dept - (Lynnport) 	FM 	Public Works 
-161.49000 	 	BM	136.5 PL	N Catass DPW 	North Catasauqua Borough Services 	FM 	Public Works 
-151.05500 	KNIP826 	BM	107.2 PL	North Whiteh 	North Whitehall Public Works - (Orefield) 	FM 	Public Works 
-151.13000 	KDG402 	BM	127.3 PL	South Whiteh 	South Whitehall Twp Public Works - (Allentown) 	FM 	Public Works 
-151.04000 	KNEV538 	RM	127.3 PL	South Whiteh 	South whitehall Twp Utilities - (Allentown) 	FM 	Public Works 
-506.91250 	WPLQ943 	RM	343 DPL	Upper Macung 	Upper Macungie Highway Dept - (Breinigsville) 	FM 	Public Works 
-460.36250 	WQGM230 	RM	343 DPL	UM Svcs UHF 	Upper Macungie Twp-UHF Repeater 	FM 	Public Works 
-151.43000 	WQIQ254 	BM	71.9 PL	UM Svcs 1 	Upper Macungie Twp. DPW 	FM 	Public Works 
-37.90000 	KNJU568 	BM		Weisenberg  	Weisenberg - Lowhill Twp Highway Dept - (Fogelsville) 	FM 	Public Works 
-151.08500 	KSQ808 	RM	118.8 PL	Whitehall To 	Whitehall Township Public Works 	FM 	Public Works 
-453.22500 	KXQ987 	RM	136.5 PL	LANTA Para 	LANTA - Paratransit Operations 	FM 	Transportation 
-453.27500 	KXQ987 	RM	136.5 PL	LANTA Bus 	LANTA - Bus Operations 	FM 	Transportation 
-453.31250 	WPRF949 	B		Lanta MDT 	LANTA Metro Plus - MDT  	FM 	Data 
-464.01250 	WNJW521 	RM	155 DPL	CLIUTran0125 	Transportation 	FMN 	Schools 
-464.27500 	WNJW521 	RM	203.5 PL	CLIUTran 275 	Transportation 	FMN 	Schools 
-151.62500 	 	RM	94.8 PL	CC Ops 151 	Operations - Housekeeping 	FM 	Schools 
-461.35000 	KD34535 	RM	192.8 PL	Cdrcrest Sec 	Campus Security 	FM 	Security 
-461.53750 	WQIR342 	RM	241.8 PL	CC Ops 461 	Operations 	FMN 	Schools 
-463.53750 	KD34535 	RM	CSQ	CC Ops 463 	Operations 	FM 	Schools 
-451.83750 	WQNZ567 	RM	664 DPL	DeSales Sec 	Security Operations 	FMN 	Security 
-463.26250 	WQNZ567 	RM	115 DPL	DeSales Mant 	Maintenance Operations 	FMN 	Schools 
-151.74500 	WNMT283 	RM	023 DPL	LCCC Ops 	LCCC Operations 	FMN 	Schools 
-151.80500 	WNMT283 	RM	114 DPL	LCCCSecurity 	Security 	FMN 	Security 
-151.86500 	KNFX688 	M	94.8 PL	MCEMS F2 	Muhlenburg EMS - Event Tac, Channel 2 	FM 	EMS-Tac 
-152.27000 	KNFX688 	RM	754 DPL	MCEMS F1 	Muhlenburg EMS - Dispatch/Ops, Channel 1 	FM 	EMS Dispatch 
-154.51500 	KNFX688 	BM	CSQ	MC Athletics 	Athletic Dept 	FM 	Schools 
-464.46250 	WQVG272 	RM	073 DPL	MC Maint 	Housekeeping & Maint. 	FMN 	Schools 
-462.30000 	WPJN973 	RM	023 DPL	Allentwn SD 	Allentown Area School District 	FMN 	Schools 
-452.72500 	WPJN973 	RM	244 DPL	Allentwn SD 	Allentown School District  	FMN 	Schools 
-461.96250 	WPJN973 	RM	245 DPL	ASD Ops 	Allentown School District 	FMN 	Schools 
-464.81250 	WPJN973 	RM	251 DPL	Allentwn SD 	Allentown School District 	FMN 	Schools 
-464.71250 	WPIG455 	RM	223 DPL	ASD Allen HS 	Allentown School District - Allen HS 	FMN 	Schools 
-469.38750 	WPJN973 	M	103.5 PL	ASDDieruffHS 	Allentown School District - Dieruff HS 	FM 	Schools 
-462.03750 	WPIG455 	RM	205 DPL	ASD Ops 	Allentown School District - Operations 	FMN 	Schools 
-464.38750 	WPJN973 	M	127.3 PL	ASD Raub MS 	Allentown School District - Raub MS 	FM 	Schools 
-452.73750 	WPIG455 	RM	023 DPL	ASD Raub 	Allentown School District - Raub Middle School  	FMN 	Schools 
-461.50000 	WPIG455 	RM	047 DPL	ASD SecPri 	Allentown School District - School Security (Primary) 	FMN 	Schools 
-461.50000 	 	RM	047 DPL	ASD Security 	Allentown School District - Security 	FM 	Schools 
-502.91250 	KNS879 	RM	243 DPL	ASD Trans 	Allentown School District - Transportation (First Student) 	FM 	Schools 
-151.92500 	WPDJ230 	BM	031 DPL	CSD Trans 	Catasauqua School District - Transportation 	FM 	Schools 
-462.01250 	WQUW930 	RM	155 DPL	EEACS Elem 	EEACS Elementary Grade Students 	FMN 	Schools 
-464.85000 	WQUW930 	RM	073 DPL	EEACS HS 	EEACS High School Students 	FMN 	Schools 
-467.87500 	 	M	141.3 PL	EPS LM Elem 	East Penn School - Lower Macungie Elem 	FM 	Schools 
-467.90000 	 	RM	186.2 PL	EPS Wescosvi 	East Penn School - Wescosville Elem 	FM 	Schools 
-452.70000 	WQUW344 	RM	023 DPL	EPS- Trans  	East Penn School District-Transportation 	FM 	Schools 
-451.63750 	WQKE414 	M		Emmaus HS 	Emmaus Area High School 	FM 	Schools 
-452.31250 	WQKE414 	M		Emmaus HS 	Emmaus Area High School 	FM 	Schools 
-457.41250 	WQKE414 	M		Emmaus HS 	Emmaus Area High School 	FM 	Schools 
-464.43750 	WQKE414 	RM	606 DPL	Emmaus HS 	Emmaus Area High School 	FM 	Schools 
-502.21250 	WIL266 	RM	261 DPL	EPSD Buses 	First Student - Northern Lehigh School 	FM 	Schools 
-502.46250 	WIL266 	RM	261 DPL	SLSD Buses 	First Student - Southern Lehigh School  	FM 	Schools 
-464.27500 	 	RM	203.5 PL	LCIU 21 Trns 	Lehigh Carbon Intermediate Unit #21 - Transportation 	FM 	Schools 
-462.22500 	WPUY262 	RM		LCTS 	Lehigh Career & Technical School 	DMR 	Schools 
-461.07500 	WPUY262 	RM		LCTS Maint 	Lehigh Career & Technical School - Maintenance 	DMR 	Schools 
-154.49750 	WPUY262 	RM	331 DPL	LCTS Patrol 	Lehigh Career & Technical School - Students Patrol 	FMN 	Schools 
-151.83500 	 	RM	546 DPL	NLSD Slating 	Northern Lehigh School District Slatington 	FM 	Schools 
-452.67500 	WPQJ924 	RM	100.0 PL	NWLSD 	Northwestern Lehigh School District 	FM 	Schools 
-452.67500 	WPQJ924 	RM	156.7 PL	NWLSD School 	Northwestern Lehigh School District - Elementary 	FM 	Schools 
-155.28000 	WNIJ363 	BM	167.9 PL	NWLSD Trans 	Northwestern Lehigh School District - Transportation 	FM 	Schools 
-155.22000 	KNDU266 	BM	051 DPL	PASD Maint 	Parkland Area School District - Maintenance 	FM 	Schools 
-464.88750 	WPSS491 	RM	155 DPL	PASD Ops 	Parkland Area School District - Operations 	FMN 	Schools 
-463.80000 	WPSS491 	RM	155 DPL	PASD Trans 	Parkland Area School District - Transportation 	FM 	Schools 
-464.11250 	WQVH758 	RM	664 DPL	STASD OPS 	Salisbury Township School District - Operations 	FMN 	Schools 
-452.42500 	WPMR412 	RM		WCSD Trans 	Whitehall-Coplay School District - Transportation 	DMR 	Schools 
-Allentown (Project 25)	 Project 25 Phase II	 Allentown	Bethlehem Public Safety	 Project 25 Phase I	 Bethlehem	FBN Wireless (Salisbury)	 LTR Standard
- Salisbury Township	Industrial Communications (Salisbury)	 LTR Standard	 Salisbury Township	Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Mack Truck Corporation
- LTR Standard	 Macungie	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	New Jersey Transit	 TETRA Standard	 Statewide
-Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Radio Maintenance (Salisbury Twsp.)	 LTR Standard	 Salisbury Township	TuWAY Communications	 DMR Motorola Connect Plus (TRBO)
- Various	
+154.72500 	   	WNSL213 	BM	206.5 PL	Lehigh FG 1 	County Fire Fireground 1 	FMN 	Fire-Tac 
+155.32500 	   	KQR807 	BM	206.5 PL	Lehigh FG 2 	County Fire Fireground 2 	FMN 	Fire-Tac 
+154.27250 	   	WPSI256 	RM	206.5 PL	Lehigh FG 3 	County Fire Fireground 3 	FMN 	Fire-Tac 
+150.78250 	   	WPSI256 	BM	206.5 PL	Lehigh FG 4 	County Fire Fireground 4 	FMN 	Fire-Tac 
+158.25000 	155.08500  	KGE426 	RM	206.5 PL	Lehigh F-Nor 	County Fire North 	FMN 	Fire-Tac 
+159.06000 	156.24000  	WNXJ633 	RM	206.5 PL	Lehigh F-Sou 	County Fire South 	FMN 	Fire-Tac 
+453.52500 	458.52500  	WPKT898 	RM	151.4 PL	EMA Port Rep 	EMA Port Repeater F7 	FMN 	Fire-Talk 
+154.17500 	   	WPWQ778 	B	CSQ	Lehigh Disp 	Fire & EMS Dispatch/Paging 	FMN 	Fire Dispatch 
+158.74500 	   	WNSR871 	M	173.8 PL	Lehigh FP N 	Fire Police North 	FMN 	Fire-Talk 
+155.77500 	   	KNHV209 	BM	186.2 PL	Lehigh FP S 	Fire Police South 	FMN 	Fire-Talk 
+155.26500 	   	KQR807 	BM	136.5 PL	Lehigh A-1 	County EMS A-1 - Hospital 	FMN 	EMS-Talk 
+155.34000 	   	KQR807 	BM	136.5 PL	Lehigh A-2 	County EMS A-2 - Regional Net 	FMN 	EMS-Talk 
+155.83500 	151.19000  	KIS735 	RM	136.5 PL	Lehigh A-5 	County EMS A-5 - Response 	FMN 	EMS-Tac 
+155.34000 	   	KQR807 	BM	664 DPL	Leh MCI Net 	County MCI Net 	FM 	EMS-Talk 
+151.35500 	   	KSZ517 	BM	103.5 PL	Cetronia F-1 	Cetronia Ambulance Service F1 	FM 	EMS-Talk 
+155.29500 	   	KSZ517 	BM	103.5 PL	Cetronia F-2 	Cetronia Ambulance Service F2 	FM 	EMS-Talk 
+155.04000 	153.87500  	KJF909 	RM	186.2 PL	Alntwn EMS 	Allentown EMS 	FM 	Fire-Tac 
+155.29500 	   	KA80273 	BM	103.5 PL	UprSaucEMS 	Upper Saucon Ambulance Corps 	FMN 	EMS-Tac 
+462.95000 	467.95000  	WNXJ929 	RM	136.5 PL	Lehigh MED 9 	Med 9 	FM 	EMS-Talk 
+462.97500 	467.95000  	KNEG634 	RM	136.5 PL	Lehigh MED10 	MED 10 	FM 	EMS-Talk 
+158.83500 	153.99500  	KVG852 	RM	186.2 PL	LeCo P2 Sou 	Police South Dispatch F-2 	FMN 	Law Dispatch 
+158.77500 	   	KIS735 	BM	186.2 PL	LeCo P3 Data 	Scope / Lookups F-3 	FMN 	Law Talk 
+158.85000 	154.83000  	KJF715 	RM	186.2 PL	LeCo P4 Nor 	Police North Dispatch F-4 	FMN 	Law Dispatch 
+155.80500 	   	KIS735 	BM	186.2 PL	LCSO F5 	Sheriff F-5 	FM 	Law Talk 
+156.15000 	   	WNNG972 	M	186.2 PL	LCSO F6 	Sheriff F-6 	FM 	Law Talk 
+156.09000 	   	WNNG972 	M	186.2 PL	LCSO F7 	Sheriff F-7 	FM 	Law Talk 
+453.97500 	   	WNVA828 	RM	127.3 PL	LeCo Jail F1 	County Corrections 1 	FM 	Corrections 
+458.20000 	   	 	BM	127.3 PL	LeCo Jail F2 	County Corrections 2 	FM 	Corrections 
+458.50000 	   	WNVG269 	M	127.3 PL	LeCo Jail F3 	County Corrections 3 	FM 	Corrections 
+453.57500 	   	WNMT456 	RM	127.3 PL	LeCo Jail F4 	County Corrections 4 	FM 	Corrections 
+460.07500 	465.07500  	WPLG259 	RM	141.3 PL	LeCo Courts 	Courthouse Security 	FM 	Law Talk 
+453.26250 	458.26250  	WPTS350 	RM	162.2 PL	LeCo CourtM 	Courthouse - Maintenence 	FMN 	Public Works 
+453.26250 	458.26250  	WPTS350 	RM	146.2 PL	LeCo Govt Ct 	County Government Center - Maintenance 	FMN 	Public Works 
+453.76250 	458.76250  	WQES717 	RM	127.3 PL	Juvenile Ctr 	County Juvenile Detention Center 	FMN 	Corrections 
+151.01750 	   	WPSI256 	RM	136.5 PL	EMA North 	EMA North 	FMN 	Emergency Ops 
+151.01750 	   	WPSI256 	RM	206.5 PL	EMA South 	EMA South 	FMN 	Emergency Ops 
+458.57500 	   	 	M	151.4 PL	Lehigh EMA 	Lehigh EMA 	FMN 	Emergency Ops 
+458.20000 	   	 	M	162.2 PL	Hazmat F1 	Hazmat F1 	FMN 	Fire-Talk 
+458.50000 	   	WNVG269 	M	162.2 PL	Hazmat F2 	Hazmat F2 	FMN 	Fire-Talk 
+453.47500 	   	KNHT865 	RM	151.4 PL	Spec Ops F3 	Spec Ops F3 	FMN 	Fire-Talk 
+453.82500 	   	KNHT865 	RM	151.4 PL	Spec Ops F4 	Spec Ops F4 	FMN 	Fire-Talk 
+458.47500 	   	 	M	151.4 PL	Tech Resc 5  	Tech Rescue F5 	FMN 	Fire-Talk 
+458.82500 	   	 	M	151.4 PL	Tech Resc 6 	Tech Rescue F6 	FMN 	Fire-Talk 
+154.57000 	   	 	M	94.8 PL	Atown FP 	Allentown City - Fire Police Ops 	FM 	Fire-Talk 
+155.04000 	   	KJF909 	BM	186.2 PL	Atown EMS 	Allentown EMS Interop(Trunk Simulcast) 	FM 	EMS-Tac 
+158.79000 	   	KGB326 	B	186.2 PL	Atown iop1 	Allentown Police Interop 1 	FM 	Law Tac 
+159.09000 	   	KGB326 	B	186.2 PL	Atown iop2 	Allentown Police Interop 2 	FM 	Law Tac 
+151.28000 	   	WPWI859 	RM		Sta 02 FD 	Catasauqua Fire Dept Repeater 	FM 	Fire-Tac 
+155.88000 	   	WPWI859 	M	136.5 PL	Sta 02 FG 	Catasauqua Fire Dept. Fireground 	FM 	Fire-Talk 
+159.19500 	   	KGE624 	B	131.8 PL	STA 4 Pvt 	Coopersburg FD Private Station 4 	FM 	Fire-Talk 
+159.16500 	153.86000  	WPGU936 	RM	051 DPL	Coplay FD/PD 	Coplay FD/PD/DPW 	FMN 	Fire-Tac 
+159.45000 	   	WNVN360 	RM	156.7 PL	Emmaus PD 1 	Emmaus Borough PD 	FM 	Law Tac 
+154.29500 	   	KGE741 	BM	186.2 PL	Sta 7 Prvt 	Emmaus Fire Company - Private 	FM 	Fire-Talk 
+154.07000 	   	KD28146 	M	186.2 PL	UMT Fire 1 	Foglesville Fire Company - Private 	FM 	Fire-Talk 
+158.92500 	   	WPMQ203 	BM	186.2 PL	FC 34 Priv 	Fountain Hill Borough Fire Private 34 	FMN 	Fire-Talk 
+154.25000 	   	KGD361 	B	136.5 PL	Sta 33 FG 	Han-Le-Co Fire Dept. Fireground 	FM 	EMS-Talk 
+156.12000 	150.80500  	WNHW508 	RM	136.5 PL	Sta 33 Rpt1 	Han-Le-Co Fire Dept. Repeater 1 - Private 	FMN 	Fire-Talk 
+154.31000 	150.99500  	WNHW508 	RM	100.0 PL	Sta 33 Rpt2 	Han-Le-Co Fire Dept. Repeater 2 	FMN 	Fire-Talk 
+154.14500 	170.15000  	WNXJ532 	RM	114.8 PL	Sta 30 FG 	Lower Macungie Fire Dept. Private 30 	FM 	Fire-Talk 
+154.41500 	   	WNMD782 	BM	186.2 PL	Sta 13 FG 	Lower Milford Fire Co. Private 13 	FM 	Fire-Talk 
+159.27750 	   	WQKI500 	BM	192.8 PL	FC 17 TAC 	New Tripoli Fire Company 17 Tactical 	FMN 	Fire-Talk 
+154.60000 	   	 	RM	136.5 PL	Sta 18 FG 	North Catasauqua Fire Dept. Fireground 	FM 	Fire-Talk 
+151.14500 	159.43500  	KNIP826 	RM	206.5 PL	NWT FG Rptr 	North Whitehall Twp - Fireground 	FM 	Fire-Talk 
+159.12000 	   	KFB866 	RM	179.9 PL	Salsbry PD 5 	Salisbury Township PD 	FM 	Law Tac 
+460.20000 	   	WRAW849 	RM	245 DPL	Salsbry PD 6 	Salisbury Township PD 460 	FMN 	Law Tac 
+151.20500 	   	WNMY999 	BM	97.4 PL	Sta 24 FG 	Slatington Fire Dept. Fireground 	FM 	Fire-Talk 
+155.89500 	   	WNNI354 	BM		SWT EMA 7 	South Whitehall EMA Ch 7 	FM 	Fire-Tac 
+155.89500 	151.25000  	WNNI354 	RM	103.5 PL	SWT Emerg 	South Whitehall Emergency Band 	FM 	Fire-Tac 
+465.57500 	   	KFO270 	BM	051 DPL	SWT EMA 	South Whitehall Twp - EMA Tactical 	FMN 	Emergency Ops 
+46.56000 	   	WNNI354 	BM		SWT EOC 	South Whitehall Twp - EOC Inter-Op 	FM 	Emergency Ops 
+154.22000 	158.95500  	KNAU361 	RM	103.5 PL	SWT Tac 4 	South Whitehall Twp - Tac 4 	FM 	Fire-Talk 
+154.25000 	   	KGD361 	BM	103.5 PL	SWT Tac 5 	South Whitehall Twp - Tac 5 	FM 	Fire-Talk 
+153.77000 	   	KFO270 	M	103.5 PL	SWT FG 1 	South Whitehall Twp FG 1 	FM 	Fire-Talk 
+153.89000 	   	KFO270 	M	103.5 PL	SWT FG 2 	South Whitehall Twp FG 2 	FM 	Fire-Talk 
+156.21000 	   	KNEJ567 	BM	162.2 PL	SWTPD F5 	South Whitehall Twp Police - Private 	FM 	Law Talk 
+154.07000 	   	KD28146 	M	186.2 PL	UMT 1 (8 PRVT) 	Upper Macungie Twp Fire - UMT 1 (8 PRVT) 	FMN 	Fire-Tac 
+154.37000 	   	WNWC288 	M	203.5 PL	UMT 2 (25 PRVT) 	Upper Macungie Twp Fire - UMT 2 (25 PRVT) 	FMN 	Fire-Tac 
+159.23250 	   	WQLI484 	M	100.0 PL	UMT 3 (56 PRVT) 	Upper Macungie Twp Fire - UMT 3 (56 PRVT) 	FMN 	Fire-Tac 
+159.23250 	   	WQLI484 	M	351 DPL	UMT Police 	Upper Macungie Twp Police 	FMN 	Law Tac 
+151.43000 	159.39000  	WQIQ254 	RM	94.8 PL	UMT 5 FD RPT 	Upper Macungie Twp Services - UMT 5 - (Fire Repeater) 	FMN 	Public Works 
+154.95000 	   	WQHQ230 	M		Sta 19 FG 	Upper Milford Western District Fire Co. Fireground  	FM 	Fire-Talk 
+156.17250 	154.84500  	KRT686 	RM	186.2 PL	UST Police 1 	Upper Saucon Township Police 1 	FMN 	Law Dispatch 
+159.15000 	   	KTR686 	M	186.2 PL	UST Police 2 	Upper Saucon Township Police 2 	FMN 	Law Tac 
+151.26500 	   	WMRW205 	BM	162.2 PL	Sta 27 FG 	Upper Saucon Twp. Vol. Fire Dept. Private 27 	FM 	Fire-Talk 
+154.20500 	   	WNLF486 	BM	186.2 PL	Sta 28 FG 	Vera Cruz Fire Co. Sta 28 Fireground 	FM 	Fire-Talk 
+153.95000 	   	WNWC288 	M	100.0 PL	W SALIS FD 	W Salisbury Fire -Private 	FM 	Fire-Talk 
+156.00000 	   	KB24573 	M	186.2 PL	Sta 29 FG 	Walnutport Fire Dept. Fireground 	FM 	Fire-Talk 
+460.55000 	   	WQLB460 	RM	103.5 PL	WeisenbergFD 	Weisenberg Township Fire 	FM 	Fire Dispatch 
+154.01000 	   	WQVG708 	M	107.2 PL	Whitehall FP 	Whitehall Twp Fire - Fire Police 	FMN 	Fire-Tac 
+154.13000 	166.25000  	WQVG708 	RM	114.8 PL	WTFD F1 	Whitehall Twp Fire F-1 - Alerts/Response 	FMN 	Fire-Tac 
+154.23500 	   	WNWU650 	M	114.8 PL	WhthllFD F/G 	Whitehall Twp Fire F-2 - Fireground 	FMN 	Fire-Tac 
+460.47500 	465.47500  	WPSD967 	BM	156.7 PL	Whitehl PD 	Whitehall Twp PD - Private 	FMN 	Law Tac 
+159.13500 	   	KLE872 	RM	186.2 PL	Emmaus DPW 	Emmaus Borough Streets 	FM 	Public Works 
+453.70000 	   	KSM599 	RM	186.2 PL	Hanover Town 	Hanover Township Streets Dept - (Allentown) 	FM 	Public Works 
+45.24000 	   	KNDX259 	BM	136.5 PL	Heidelberg T 	Heidelberg Township Highway Dept - (Germansville) 	FM 	Public Works 
+453.57500 	458.57500  	WNMT456 	RM	131.8 PL	Lehigh Parks 	Lehigh County Parks Dept 	FM 	Public Works 
+462.02500 	467.02500  	WQBM796 	RM	205 DPL	Water Treat 	Lehigh County Pre Treatment Plant 	FM 	Public Works 
+460.36250 	   	WQGM230 	RM	343 DPL	Lower Mac DP 	Lower Macungie Highway Dept 	FM 	Public Works 
+46.58000 	   	KJU924 	BM	343 DPL	Lower Macung 	Lower Macungie Highway Dept - (Breinigsvillee) 	FM 	Public Works 
+453.92500 	458.92500  	WNDM835 	RM	110.9 PL	LMT Highways 	Lower Milfrod Township Highways Department 	FMN 	Public Works 
+33.10000 	   	KJF320 	BM		Lynn Twp DPW 	Lynn Township Highway Dept - (Lynnport) 	FM 	Public Works 
+161.49000 	   	 	BM	136.5 PL	N Catass DPW 	North Catasauqua Borough Services 	FM 	Public Works 
+151.05500 	159.00000  	KNIP826 	BM	107.2 PL	North Whiteh 	North Whitehall Public Works - (Orefield) 	FM 	Public Works 
+151.13000 	   	KDG402 	BM	127.3 PL	South Whiteh 	South Whitehall Twp Public Works - (Allentown) 	FM 	Public Works 
+151.04000 	   	KNEV538 	RM	127.3 PL	South Whiteh 	South whitehall Twp Utilities - (Allentown) 	FM 	Public Works 
+506.91250 	   	WPLQ943 	RM	343 DPL	Upper Macung 	Upper Macungie Highway Dept - (Breinigsville) 	FM 	Public Works 
+460.36250 	   	WQGM230 	RM	343 DPL	UM Svcs UHF 	Upper Macungie Twp-UHF Repeater 	FM 	Public Works 
+151.43000 	   	WQIQ254 	BM	71.9 PL	UM Svcs 1 	Upper Macungie Twp. DPW 	FM 	Public Works 
+37.90000 	   	KNJU568 	BM		Weisenberg  	Weisenberg - Lowhill Twp Highway Dept - (Fogelsville) 	FM 	Public Works 
+151.08500 	   	KSQ808 	RM	118.8 PL	Whitehall To 	Whitehall Township Public Works 	FM 	Public Works 
+453.22500 	458.22500  	KXQ987 	RM	136.5 PL	LANTA Para 	LANTA - Paratransit Operations 	FM 	Transportation 
+453.27500 	458.27500  	KXQ987 	RM	136.5 PL	LANTA Bus 	LANTA - Bus Operations 	FM 	Transportation 
+453.31250 	458.31250  	WPRF949 	B		Lanta MDT 	LANTA Metro Plus - MDT  	FM 	Data 
+464.01250 	469.01250  	WNJW521 	RM	155 DPL	CLIUTran0125 	Transportation 	FMN 	Schools 
+464.27500 	469.27500  	WNJW521 	RM	203.5 PL	CLIUTran 275 	Transportation 	FMN 	Schools 
+151.62500 	   	 	RM	94.8 PL	CC Ops 151 	Operations - Housekeeping 	FM 	Schools 
+461.35000 	   	KD34535 	RM	192.8 PL	Cdrcrest Sec 	Campus Security 	FM 	Security 
+461.53750 	466.53750  	WQIR342 	RM	241.8 PL	CC Ops 461 	Operations 	FMN 	Schools 
+463.53750 	468.53750  	KD34535 	RM	CSQ	CC Ops 463 	Operations 	FM 	Schools 
+451.83750 	456.83750  	WQNZ567 	RM	664 DPL	DeSales Sec 	Security Operations 	FMN 	Security 
+463.26250 	468.26250  	WQNZ567 	RM	115 DPL	DeSales Mant 	Maintenance Operations 	FMN 	Schools 
+151.74500 	   	WNMT283 	RM	023 DPL	LCCC Ops 	LCCC Operations 	FMN 	Schools 
+151.80500 	157.56000  	WNMT283 	RM	114 DPL	LCCCSecurity 	Security 	FMN 	Security 
+151.86500 	   	KNFX688 	M	94.8 PL	MCEMS F2 	Muhlenburg EMS - Event Tac, Channel 2 	FM 	EMS-Tac 
+152.27000 	157.53000  	KNFX688 	RM	754 DPL	MCEMS F1 	Muhlenburg EMS - Dispatch/Ops, Channel 1 	FM 	EMS Dispatch 
+154.51500 	   	KNFX688 	BM	CSQ	MC Athletics 	Athletic Dept 	FM 	Schools 
+464.46250 	469.46250  	WQVG272 	RM	073 DPL	MC Maint 	Housekeeping & Maint. 	FMN 	Schools 
+462.30000 	   	WPJN973 	RM	023 DPL	Allentwn SD 	Allentown Area School District 	FMN 	Schools 
+452.72500 	457.72500  	WPJN973 	RM	244 DPL	Allentwn SD 	Allentown School District  	FMN 	Schools 
+461.96250 	466.96250  	WPJN973 	RM	245 DPL	ASD Ops 	Allentown School District 	FMN 	Schools 
+464.81250 	   	WPJN973 	RM	251 DPL	Allentwn SD 	Allentown School District 	FMN 	Schools 
+464.71250 	469.71250  	WPIG455 	RM	223 DPL	ASD Allen HS 	Allentown School District - Allen HS 	FMN 	Schools 
+469.38750 	   	WPJN973 	M	103.5 PL	ASDDieruffHS 	Allentown School District - Dieruff HS 	FM 	Schools 
+462.03750 	467.03750  	WPIG455 	RM	205 DPL	ASD Ops 	Allentown School District - Operations 	FMN 	Schools 
+464.38750 	   	WPJN973 	M	127.3 PL	ASD Raub MS 	Allentown School District - Raub MS 	FM 	Schools 
+452.73750 	457.73750  	WPIG455 	RM	023 DPL	ASD Raub 	Allentown School District - Raub Middle School  	FMN 	Schools 
+461.50000 	466.50000  	WPIG455 	RM	047 DPL	ASD SecPri 	Allentown School District - School Security (Primary) 	FMN 	Schools 
+461.50000 	466.50000  	 	RM	047 DPL	ASD Security 	Allentown School District - Security 	FM 	Schools 
+502.91250 	505.91250  	KNS879 	RM	243 DPL	ASD Trans 	Allentown School District - Transportation (First Student) 	FM 	Schools 
+151.92500 	   	WPDJ230 	BM	031 DPL	CSD Trans 	Catasauqua School District - Transportation 	FM 	Schools 
+462.01250 	   	WQUW930 	RM	155 DPL	EEACS Elem 	EEACS Elementary Grade Students 	FMN 	Schools 
+464.85000 	   	WQUW930 	RM	073 DPL	EEACS HS 	EEACS High School Students 	FMN 	Schools 
+467.87500 	   	 	M	141.3 PL	EPS LM Elem 	East Penn School - Lower Macungie Elem 	FM 	Schools 
+467.90000 	   	 	RM	186.2 PL	EPS Wescosvi 	East Penn School - Wescosville Elem 	FM 	Schools 
+452.70000 	   	WQUW344 	RM	023 DPL	EPS- Trans  	East Penn School District-Transportation 	FM 	Schools 
+451.63750 	   	WQKE414 	M		Emmaus HS 	Emmaus Area High School 	FM 	Schools 
+452.31250 	   	WQKE414 	M		Emmaus HS 	Emmaus Area High School 	FM 	Schools 
+457.41250 	   	WQKE414 	M		Emmaus HS 	Emmaus Area High School 	FM 	Schools 
+464.43750 	   	WQKE414 	RM	606 DPL	Emmaus HS 	Emmaus Area High School 	FM 	Schools 
+502.21250 	505.21250  	WIL266 	RM	261 DPL	EPSD Buses 	First Student - Northern Lehigh School 	FM 	Schools 
+502.46250 	505.46250  	WIL266 	RM	261 DPL	SLSD Buses 	First Student - Southern Lehigh School  	FM 	Schools 
+464.27500 	469.27500  	 	RM	203.5 PL	LCIU 21 Trns 	Lehigh Carbon Intermediate Unit #21 - Transportation 	FM 	Schools 
+462.22500 	467.22500  	WPUY262 	RM		LCTS 	Lehigh Career & Technical School 	DMR 	Schools 
+461.07500 	466.07500  	WPUY262 	RM		LCTS Maint 	Lehigh Career & Technical School - Maintenance 	DMR 	Schools 
+154.49750 	159.71250  	WPUY262 	RM	331 DPL	LCTS Patrol 	Lehigh Career & Technical School - Students Patrol 	FMN 	Schools 
+151.83500 	   	 	RM	546 DPL	NLSD Slating 	Northern Lehigh School District Slatington 	FM 	Schools 
+452.67500 	   	WPQJ924 	RM	100.0 PL	NWLSD 	Northwestern Lehigh School District 	FM 	Schools 
+452.67500 	   	WPQJ924 	RM	156.7 PL	NWLSD School 	Northwestern Lehigh School District - Elementary 	FM 	Schools 
+155.28000 	   	WNIJ363 	BM	167.9 PL	NWLSD Trans 	Northwestern Lehigh School District - Transportation 	FM 	Schools 
+155.22000 	   	KNDU266 	BM	051 DPL	PASD Maint 	Parkland Area School District - Maintenance 	FM 	Schools 
+464.88750 	469.88750  	WPSS491 	RM	155 DPL	PASD Ops 	Parkland Area School District - Operations 	FMN 	Schools 
+463.80000 	468.80000  	WPSS491 	RM	155 DPL	PASD Trans 	Parkland Area School District - Transportation 	FM 	Schools 
+464.11250 	469.11250  	WQVH758 	RM	664 DPL	STASD OPS 	Salisbury Township School District - Operations 	FMN 	Schools 
+452.42500 	457.42500  	WPMR412 	RM		WCSD Trans 	Whitehall-Coplay School District - Transportation 	DMR 	Schools 
+Allentown (Project 25)	 Project 25 Phase II	 Allentown	Bethlehem Public Safety	 Project 25 Phase I	 Bethlehem	FBN Wireless (Salisbury)	 LTR Standard	 Salisbury Township
+Industrial Communications (Salisbury)	 LTR Standard	 Salisbury Township	Industrial Electronics	 NXDN NEXEDGE 9600	 Various	Mack Truck Corporation	 LTR Standard	 Macungie
+Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	New Jersey Transit	 TETRA Standard	 Statewide	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide
+Radio Maintenance (Salisbury Twsp.)	 LTR Standard	 Salisbury Township	TuWAY Communications	 DMR Motorola Connect Plus (TRBO)	 Various	

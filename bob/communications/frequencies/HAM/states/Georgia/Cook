@@ -1,16 +1,22 @@
-155.56500 	WPZX536 	RM		CCFD Disp 	Fire Dispatch  	DMR 	Fire Dispatch 
-155.13000 	 	BM	192.8 PL	CCSO M/A 	Sheriff Mutual Aid 	FMN 	Interop 
-154.06250 	KUY598 	RM	210.7 PL	CCEMS Disp 	Grady EMS Dispatch 	FMN 	EMS Dispatch 
-155.29500 	KUY598 	BM		CCEMS TAC 	Grady EMS Tactical 	FMN 	EMS-Tac 
-45.56000 	WNVI926 	BM		CCEMA 	Emergency Management Agency 	FM 	Emergency Ops 
-151.05000 	 	BM	100.0 PL	CC Roads 151.05 	Roads Department 	FMN 	Public Works 
-453.45000 	WNLA441 	RM		CC Loc Gov 	Local Government 	FMN 	Public Works 
-155.25000 	WPNX984 	RM	123.0 PL	APD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
-155.19000 	KIC864 	BM		APD Car2Car 	Police Talk-Around 	FMN 	Law Talk 
-855.01250 	WQTV619 	RM	293 NAC	APD 800 	Police Dispatch 	P25 	Law Tac 
-154.32500 	WNGM621 	RM	192.8 PL	AFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.19000 	WNGM621 	M		AFD FGround 	Fireground 	FMN 	Fire Dispatch 
-158.88000 	KBQ745 	BM		A Loc Gov 	Local Government 	FMN 	Other 
-173.39625 	WFB722 	BM		A H2O Tele 	Water Department Telemetry 	Telm 	Data 
-155.19000 	WPMI790 	BM		LPD Interop 	Police Interagency 	FMN 	Interop 
-155.10000 	 	BM	100.0 PL	Reed Bingham 	Reed Bingham State Park 	FMN 	Public Works 
+155.56500 	153.75500  	WPZX536 	RM	127.3 PL	CCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.96250 	151.01750  	WRER416 	RM	CC 1TG 1001SL 1	CCSO Disp North 	Sheriff Dispatch North 	DMR 	Law Dispatch 
+158.76000 	153.90500  	WQTM615 	RM	CC 1TG 1001SL 1	CCSO Disp South 	Sheriff Dispatch South 	DMR 	Law Dispatch 
+154.03250 	156.09750  	WQTM615 	RM	CC 1TG *SL *	CCSO Ops 	Sheriff Operations 	DMR 	Law Tac 
+155.13000 	   	 	BM	192.8 PL	CCSO M/A 	Sheriff Mutual Aid 	FMN 	Interop 
+155.79000 	153.86000  	WPBZ245 	RM	123.0 PL	LPD/CPD Dispatch 	Police Dispatch (Lenox and Cecil) 	FMN 	Law Dispatch 
+154.06250 	159.06750  	KUY598 	RM	210.7 PL	CCEMS Disp 	Grady EMS Dispatch 	FMN 	EMS Dispatch 
+155.29500 	   	KUY598 	BM		CCEMS TAC 	Grady EMS Tactical 	FMN 	EMS-Tac 
+45.56000 	   	WNVI926 	BM		CCEMA 	Emergency Management Agency 	FM 	Emergency Ops 
+151.04750 	156.08250  	WQDH463 	RM	103.5 PL	CC Roads 151.047 	Roads Department 	FMN 	Public Works 
+151.05000 	   	 	BM	100.0 PL	CC Roads 151.05 	Roads Department 	FMN 	Public Works 
+453.45000 	458.45000  	WNLA441 	RM		CC Loc Gov 	Local Government 	FMN 	Public Works 
+155.25000 	159.45000  	WPNX984 	RM	123.0 PL	APD Dispatch 	Police Dispatch 	FMN 	Law Dispatch 
+155.19000 	   	KIC864 	BM		APD Car2Car 	Police Talk-Around 	FMN 	Law Talk 
+855.01250 	810.01250  	WQTV619 	RM	293 NAC	APD 800 	Police Dispatch 	P25 	Law Tac 
+154.32500 	153.89000  	WNGM621 	RM	192.8 PL	AFD Dispatch 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.19000 	   	WNGM621 	M		AFD FGround 	Fireground 	FMN 	Fire Dispatch 
+158.88000 	   	KBQ745 	BM		A Loc Gov 	Local Government 	FMN 	Other 
+173.39625 	   	WFB722 	BM		A H2O Tele 	Water Department Telemetry 	Telm 	Data 
+155.19000 	   	WPMI790 	BM		LPD Interop 	Police Interagency 	FMN 	Interop 
+456.56250 	   	WQCN847 	BM		L H2O Tele 	Water Department Telemetry 	Telm 	Data 
+155.10000 	   	 	BM	100.0 PL	Reed Bingham 	Reed Bingham State Park 	FMN 	Public Works 

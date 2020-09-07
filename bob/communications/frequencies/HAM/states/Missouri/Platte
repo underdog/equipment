@@ -1,42 +1,42 @@
-155.62500 	KAB663 	RM	167.9 PL	Platte Sheriff N 	Sheriff: Dispatch - North Tower [153.86 deleted 5/13] 	FMN 	Law Dispatch 
-155.25000 	KAB663 	RM	167.9 PL	Platte Sheriff S 	Sheriff: Dispatch - South Tower 	FMN 	Law Dispatch 
-154.77000 	KAB663 	RM	167.9 PL	Platte Sheriff 4 	Sheriff [Ch 4] 	FMN 	Law Talk 
-155.71500 	WNUU683 	BM	103.5 PL	Platte Sheriff 5 	Sheriff [Ch 5] 	FMN 	Law Talk 
-155.27250 	WQFC791 	M		Platte SheriffMX 	Sheriff: Mobile Extenders 	FMN 	Law Talk 
-151.01000 	WQFC791 	M		Platte Sheriff 7 	Sheriff [Ch 7] 	FMN 	Law Tac 
-154.05500 	WQFC791 	M		Platte Sheriff 8 	Sheriff [Ch 8] 	FMN 	Law Tac 
-156.00000 	WQFC791 	M		Platte Sheriff 9 	Sheriff [Ch 9] 	FMN 	Law Tac 
-155.71500 	WNUU683 	BM	CSQ	Platte Rds&Brdgs 	Roads and Bridges (also Sheriff 103.5 PL) 	FMN 	Public Works 
-156.12000 	KQF607 	BM	123.0 PL	Parkville Roads 	Parkville Special Road District (a county agency) 	FMN 	Public Works 
-453.13750 	WQEZ336 	M		SS GolfCours 	Shiloh Springs Golf Course 	FMN 	Public Works 
-458.13750 	WQEZ336 	M		SS GolfCours 	Shiloh Springs Golf Course 	FMN 	Public Works 
-451.21250 	WSPM666 	BM		CPWSD1 Ops 	Operations  	FMN 	Public Works 
-451.21250 	WQJA803 	F		CPWSD1 WDD 	Water Distribution Data 	Telm 	Data 
-155.40000 	KWH479 	BM	131.8 PL	NRAD EMS 1 	EMS (Smithville) 	FMN 	EMS-Tac 
-467.96250 	KWH479 	M		NRAD EMS MX 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
-155.34000 	KNEE267 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
-855.46250 	WPUJ962 	BM		MAST MDTs 	Mobile Data Terminals / GPS Data 	Telm 	Data 
-154.77000 	WQBU460 	BM		Plat Fire S 	Fire/EMS: Dispatch South 	FMN 	Fire Dispatch 
-154.34000 	WPMF880 	RM	127.3 PL	SPFPD Back-Up 	Fire: Back-Up (dispatched on KCFD) 	FMN 	Fire Dispatch 
-159.01500 	WPPH983 	M		Edgt Utility 	Utilities 	FMN 	Public Works 
-155.71500 	WQHA215 	BM	CSQ	LWau Police 	Police  	FMN 	Law Dispatch 
-45.66000 	WQHA215 	B	CSQ	LW Police LB 	Police: Lowband 	FM 	Law Tac 
-155.58000 	KA60756 	BM	186.2 PL	Prkv Police4 	Police [Ch 4] 	FMN 	Law Dispatch 
-154.02500 	WNJV354 	BM	167.9 PL	Prkv PubWrks 	Public Works [Ch 1] 	FMN 	Public Works 
-159.19500 	KNDZ367 	BM		PCty Police 	Police  	FMN 	Law Dispatch 
-453.76250 	WPLZ588 	RM		PCty PubWrks 	Public Works 	FMN 	Public Works 
-154.02500 	KQS606 	RM		PCty Roads 	Benefit Assessment Special Road District 	FMN 	Public Works 
-154.88250 	WPYI954 	RM	118.8 PL	Rivr PD/FD 	Police/Fire 	FMN 	Multi-Dispatch 
-155.56500 	KNGV945 	BM		Rivr PubSfty 	Public Safety (OLD) 	FMN 	Multi-Dispatch 
-155.25000 	WQBQ849 	F	167.9 PL	Plat Shrf S 	output/input to Sheriff: South Tower 	FMN 	Law Dispatch 
-154.08500 	WPMK897 	BM		Rivr PubWrk 	Public Works 	FMN 	Public Works 
-153.92000 	KNNJ417 	BM		Wstn LocGovt 	City Operations 	FMN 	Multi-Talk 
-464.92500 	WNVK708 	BM		Cassity Bus 	Buses (Dearborn) 	FMN 	Transportation 
-464.30000 	WPRK457 	RM	CC 1TG 3000SL 1	PHSHS UHF-6 	Senior High School: Security (FB Game) 	DMR 	Security 
-462.30000 	WNRZ627 	RM	173.8 PL	FS Bus PHill 	First Student Buses (Park Hill SD) 	FMN 	Schools 
-462.42500 	WPPE975 	RM		PH SD 1 	Operations 	FMN 	Schools 
-461.45000 	KNEH564 	BM		PlttCo Sch 1 	Operations 	FMN 	Schools 
-462.13750 	KNEH564 	M		PlttCo Sch 2 	Operations 	FMN 	Schools 
-464.46250 	KNEH564 	M		PlttCo Sch 3 	Operations 	FMN 	Schools 
-464.61250 	KNEH564 	M		PlttCo Sch 4 	Operations 	FMN 	Schools 
-Great Plains Energy (Kansas City Metro Area)	 Motorola Type II Smartnet	 Various	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	
+155.62500 	153.86000  	KAB663 	RM	167.9 PL	Platte Sheriff N 	Sheriff: Dispatch - North Tower [153.86 deleted 5/13] 	FMN 	Law Dispatch 
+155.25000 	153.93500  	KAB663 	RM	167.9 PL	Platte Sheriff S 	Sheriff: Dispatch - South Tower 	FMN 	Law Dispatch 
+154.77000 	   	KAB663 	RM	167.9 PL	Platte Sheriff 4 	Sheriff [Ch 4] 	FMN 	Law Talk 
+155.71500 	   	WNUU683 	BM	103.5 PL	Platte Sheriff 5 	Sheriff [Ch 5] 	FMN 	Law Talk 
+155.27250 	   	WQFC791 	M		Platte SheriffMX 	Sheriff: Mobile Extenders 	FMN 	Law Talk 
+151.01000 	   	WQFC791 	M		Platte Sheriff 7 	Sheriff [Ch 7] 	FMN 	Law Tac 
+154.05500 	   	WQFC791 	M		Platte Sheriff 8 	Sheriff [Ch 8] 	FMN 	Law Tac 
+156.00000 	   	WQFC791 	M		Platte Sheriff 9 	Sheriff [Ch 9] 	FMN 	Law Tac 
+155.71500 	   	WNUU683 	BM	CSQ	Platte Rds&Brdgs 	Roads and Bridges (also Sheriff 103.5 PL) 	FMN 	Public Works 
+156.12000 	   	KQF607 	BM	123.0 PL	Parkville Roads 	Parkville Special Road District (a county agency) 	FMN 	Public Works 
+453.13750 	   	WQEZ336 	M		SS GolfCours 	Shiloh Springs Golf Course 	FMN 	Public Works 
+458.13750 	   	WQEZ336 	M		SS GolfCours 	Shiloh Springs Golf Course 	FMN 	Public Works 
+451.21250 	   	WSPM666 	BM		CPWSD1 Ops 	Operations  	FMN 	Public Works 
+451.21250 	   	WQJA803 	F		CPWSD1 WDD 	Water Distribution Data 	Telm 	Data 
+155.40000 	   	KWH479 	BM	131.8 PL	NRAD EMS 1 	EMS (Smithville) 	FMN 	EMS-Tac 
+467.96250 	   	KWH479 	M		NRAD EMS MX 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+155.34000 	   	KNEE267 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+855.46250 	810.46250  	WPUJ962 	BM		MAST MDTs 	Mobile Data Terminals / GPS Data 	Telm 	Data 
+154.77000 	   	WQBU460 	BM		Plat Fire S 	Fire/EMS: Dispatch South 	FMN 	Fire Dispatch 
+154.34000 	159.28500  	WPMF880 	RM	127.3 PL	SPFPD Back-Up 	Fire: Back-Up (dispatched on KCFD) 	FMN 	Fire Dispatch 
+159.01500 	   	WPPH983 	M		Edgt Utility 	Utilities 	FMN 	Public Works 
+155.71500 	   	WQHA215 	BM	CSQ	LWau Police 	Police  	FMN 	Law Dispatch 
+45.66000 	   	WQHA215 	B	CSQ	LW Police LB 	Police: Lowband 	FM 	Law Tac 
+155.58000 	   	KA60756 	BM	186.2 PL	Prkv Police4 	Police [Ch 4] 	FMN 	Law Dispatch 
+154.02500 	   	WNJV354 	BM	167.9 PL	Prkv PubWrks 	Public Works [Ch 1] 	FMN 	Public Works 
+159.19500 	   	KNDZ367 	BM		PCty Police 	Police  	FMN 	Law Dispatch 
+453.76250 	458.76250  	WPLZ588 	RM		PCty PubWrks 	Public Works 	FMN 	Public Works 
+154.02500 	159.07500  	KQS606 	RM		PCty Roads 	Benefit Assessment Special Road District 	FMN 	Public Works 
+154.88250 	153.88250  	WPYI954 	RM	118.8 PL	Rivr PD/FD 	Police/Fire 	FMN 	Multi-Dispatch 
+155.56500 	   	KNGV945 	BM		Rivr PubSfty 	Public Safety (OLD) 	FMN 	Multi-Dispatch 
+155.25000 	153.93500  	WQBQ849 	F	167.9 PL	Plat Shrf S 	output/input to Sheriff: South Tower 	FMN 	Law Dispatch 
+154.08500 	   	WPMK897 	BM		Rivr PubWrk 	Public Works 	FMN 	Public Works 
+153.92000 	   	KNNJ417 	BM		Wstn LocGovt 	City Operations 	FMN 	Multi-Talk 
+464.92500 	   	WNVK708 	BM		Cassity Bus 	Buses (Dearborn) 	FMN 	Transportation 
+464.30000 	469.30000  	WPRK457 	RM	CC 1TG 3000SL 1	PHSHS UHF-6 	Senior High School: Security (FB Game) 	DMR 	Security 
+462.30000 	467.30000  	WNRZ627 	RM	173.8 PL	FS Bus PHill 	First Student Buses (Park Hill SD) 	FMN 	Schools 
+462.42500 	467.42500  	WPPE975 	RM		PH SD 1 	Operations 	FMN 	Schools 
+461.45000 	466.45000  	KNEH564 	BM		PlttCo Sch 1 	Operations 	FMN 	Schools 
+462.13750 	   	KNEH564 	M		PlttCo Sch 2 	Operations 	FMN 	Schools 
+464.46250 	   	KNEH564 	M		PlttCo Sch 3 	Operations 	FMN 	Schools 
+464.61250 	   	KNEH564 	M		PlttCo Sch 4 	Operations 	FMN 	Schools 
+Great Plains Energy (Kansas City Metro Area)	 Motorola Type II Smartnet	 Various	Metropolitan Area Regional Radio System (MARRS)	 Project 25 Phase II	 Kansas City Metro Area	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various

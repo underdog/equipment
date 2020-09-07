@@ -1,34 +1,33 @@
-154.01000 	WPVM526 	RM	173.8 PL	MRFIR 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.35500 	WPUS850 	M	173.8 PL	MRFG 	Fireground 	FMN 	Fire-Tac 
-155.38500 	WPVM526 	RM	173.8 PL	MREMS 	County EMS Dispatch 	FMN 	EMS Dispatch 
-155.53500 	WPVM526 	RM	666 NAC	MRSO 	Sheriff Dispatch (encrypted) 	P25E 	Law Dispatch 
-151.10000 	WPVM526 	RM	173.8 PL	MRLAW2 	Law 2/Marinette PD/Park Rangers 	FMN 	Law Dispatch 
-159.21000 	WPJP271 	RM	026 DPL	MRJAIL 	Jail 	FMN 	Corrections 
-155.80500 	WPVM526 	RM	173.8 PL	MRCOORD 	Coordination 	FMN 	Multi-Talk 
-159.10500 	KDE640 	RM	146.2 PL	MRHWY 	Highways / Parks 1 	FMN 	Public Works 
-159.30000 	KDE640 	M	146.2 PL	MRPARK 	Highways / Parks 2 	FMN 	Public Works 
-855.71250 	WPVB707 	RM		MRMDT 	Mobile Data 	Telm 	Data 
-154.11500 	 		167.9 PL	Amberg 	Public Works 	FMN 	Public Works 
-155.71500 	WQBB928 	BM	167.9 PL	Coleman 	Public Works 	FMN 	Public Works 
-159.15000 	WPPV591 	RM	167.9 PL	Crivitz PD 	Police 	FMN 	Law Talk 
-158.74500 	WPKF473 	RM	88.5 PL	Dunbar DPW 	DPW 	FMN 	Public Works 
-453.67500 	WPJU956 	RM		Goodman DPW 	DPW 	FMN 	Public Works 
-154.08500 	WPLD297 	BM		Lake DPW 	DPW 	FMN 	Public Works 
-154.25000 	WQJF505 	RM	732 DPL	Marinette FD 	City Fire 	FMN 	Fire Dispatch 
-154.20500 	WPJP290 	RM	173.8 PL	MarinetteEMS 	EMS Dispatch - Also Menominee EMS 	FMN 	Fire Dispatch 
-154.22000 	WPJP290 	M	173.8 PL	Marinette Fg 	Fireground 	FMN 	Fire-Tac 
-155.65500 	KNIE740 	BM	173.8 PL	Marinette PD 	Police Tac 	FMN 	Law Tac 
-155.58000 	KNIE740 	BM	173.8 PL	Marinette CC 	Police Car-to-Car 	FMN 	Law Talk 
-154.99500 	WNNL933 	RM	167.9 PL	Marinette PW 	Public Works 	FMN 	Public Works 
-155.74500 	WNGK980 	RM	173.8 PL	Marinette Ut 	Utilities 	FMN 	Public Works 
-453.77500 	KNIE740 	BM		MarinetteMDT 	Mobile Data 	Telm 	Data 
-154.08500 	WPES862 	BM	136.5 PL	Niagara 	DPW 	FMN 	Public Works 
-153.32000 	WPSN441 	RM	627 DPL	BDP Sch Bus 	Beecher Dunbar Pembine School Buses 	FMN 	Transportation 
-154.08500 	WPFB904 	BM		Pembine 	DPW 	FMN 	Public Works 
-154.96500 	WQKM563 	RM	162.2 PL	BDP Fire/DPW 	Beecher Dunbar Pembine Fire / Pembine DPW 	FMN 	Multi-Talk 
-154.19000 	WNQE673 	BM		Peshtigo FD 	Fireground 	FMN 	Fire-Tac 
-154.08500 	WNQF690 	BM	141.3 PL	Peshtigo DPW 	Police/Public Works 	FMN 	Public Works 
-155.11500 	KQP775 	RM	156.7 PL	Stephenson 	Public Works 	FMN 	Public Works 
-154.08500 	WPPC239 	BM		Wausaukee 	DPW 	FMN 	Public Works 
-Baycom (Marinette)	 LTR Standard	 Marinette	Marinette Marine	 NXDN NEXEDGE 4800	 Marinette	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I
- Statewide	
+154.01000 	156.10500  	WPVM526 	RM	173.8 PL	MRFIR 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.35500 	   	WPUS850 	M	173.8 PL	MRFG 	Fireground 	FMN 	Fire-Tac 
+155.38500 	150.77500  	WPVM526 	RM	173.8 PL	MREMS 	County EMS Dispatch 	FMN 	EMS Dispatch 
+155.53500 	159.03000  	WPVM526 	RM	666 NAC	MRSO 	Sheriff Dispatch (encrypted) 	P25E 	Law Dispatch 
+151.10000 	158.91750  	WPVM526 	RM	173.8 PL	MRLAW2 	Law 2/Marinette PD/Park Rangers 	FMN 	Law Dispatch 
+159.21000 	154.77000  	WPJP271 	RM	026 DPL	MRJAIL 	Jail 	FMN 	Corrections 
+155.80500 	153.98000  	WPVM526 	RM	173.8 PL	MRCOORD 	Coordination 	FMN 	Multi-Talk 
+159.10500 	156.07500  	KDE640 	RM	146.2 PL	MRHWY 	Highways / Parks 1 	FMN 	Public Works 
+159.30000 	   	KDE640 	M	146.2 PL	MRPARK 	Highways / Parks 2 	FMN 	Public Works 
+855.71250 	810.71250  	WPVB707 	RM		MRMDT 	Mobile Data 	Telm 	Data 
+154.11500 	   	 		167.9 PL	Amberg 	Public Works 	FMN 	Public Works 
+155.71500 	   	WQBB928 	BM	167.9 PL	Coleman 	Public Works 	FMN 	Public Works 
+159.15000 	156.15000  	WPPV591 	RM	167.9 PL	Crivitz PD 	Police 	FMN 	Law Talk 
+158.74500 	153.93500  	WPKF473 	RM	88.5 PL	Dunbar DPW 	DPW 	FMN 	Public Works 
+453.67500 	458.67500  	WPJU956 	RM		Goodman DPW 	DPW 	FMN 	Public Works 
+154.08500 	   	WPLD297 	BM		Lake DPW 	DPW 	FMN 	Public Works 
+154.25000 	155.91000  	WQJF505 	RM	732 DPL	Marinette FD 	City Fire 	FMN 	Fire Dispatch 
+154.20500 	153.87500  	WPJP290 	RM	173.8 PL	MarinetteEMS 	EMS Dispatch - Also Menominee EMS 	FMN 	Fire Dispatch 
+154.22000 	   	WPJP290 	M	173.8 PL	Marinette Fg 	Fireground 	FMN 	Fire-Tac 
+155.65500 	154.65000  	KNIE740 	BM	173.8 PL	Marinette PD 	Police Tac 	FMN 	Law Tac 
+155.58000 	   	KNIE740 	BM	173.8 PL	Marinette CC 	Police Car-to-Car 	FMN 	Law Talk 
+154.99500 	153.81500  	WNNL933 	RM	167.9 PL	Marinette PW 	Public Works 	FMN 	Public Works 
+155.74500 	158.88000  	WNGK980 	RM	173.8 PL	Marinette Ut 	Utilities 	FMN 	Public Works 
+453.77500 	4578.77500  	KNIE740 	BM		MarinetteMDT 	Mobile Data 	Telm 	Data 
+154.08500 	   	WPES862 	BM	136.5 PL	Niagara 	DPW 	FMN 	Public Works 
+153.32000 	159.75000  	WPSN441 	RM	627 DPL	BDP Sch Bus 	Beecher Dunbar Pembine School Buses 	FMN 	Transportation 
+154.08500 	   	WPFB904 	BM		Pembine 	DPW 	FMN 	Public Works 
+154.96500 	158.83500  	WQKM563 	RM	162.2 PL	BDP Fire/DPW 	Beecher Dunbar Pembine Fire / Pembine DPW 	FMN 	Multi-Talk 
+154.19000 	   	WNQE673 	BM		Peshtigo FD 	Fireground 	FMN 	Fire-Tac 
+154.08500 	   	WNQF690 	BM	141.3 PL	Peshtigo DPW 	Police/Public Works 	FMN 	Public Works 
+155.11500 	153.80000  	KQP775 	RM	156.7 PL	Stephenson 	Public Works 	FMN 	Public Works 
+154.08500 	   	WPPC239 	BM		Wausaukee 	DPW 	FMN 	Public Works 
+Baycom (Marinette)	 LTR Standard	 Marinette	Diga-Talk	 NXDN NEXEDGE 4800	 Various	Marinette Marine	 NXDN NEXEDGE 4800	 Marinette

@@ -1,36 +1,36 @@
-853.46250 	 	M	306 DPL	3TA 	3 Talk Around 	FM 	Interop 
-854.46250 	 	M	306 DPL	4TA 	4 Talk Around 	FM 	Interop 
-46.14000 	WNJG223 	BM		CENTRAL FIRE 	Central Fire Dispatch 	FM 	Fire Dispatch 
-46.20000 	WNJG223 	BM		HELI PATCH 	Fire Dispatch (Helicopter Patch Channel) 	FM 	Fire Dispatch 
-46.36000 	WNJG223 	BM		WILLBY FD 	Fire Dispatch (Willoughby FD, Eastlake FD) 	FM 	Fire Dispatch 
-39.80000 	WQU344 	BM	97.4 PL	MVPD SMPLX 	Madison Village PD Car-to-Car 	FM 	Law Talk 
-151.20500 	KSP258 	RM	97.4 PL	KIRTLAND PD 	Kirtland Police Dispatch 	FM 	Law Dispatch 
-851.11250 	WNQP593 	RM		LAKECO JAIL 	Lake County Jail - Ops 	FM 	Law Talk 
-37.10000 	WNDX495 	BM	97.4 PL	KirtHillsSvc 	Kirtland Hills Services (roads / plows  / PD chat) 	FM 	Public Works 
-39.10000 	KLR271 	BM		WCKLFE ROADS 	Wickliffe Road Department 	FM 	Public Works 
-45.12000 	WNPY232 	BM		MADVIL ROADS 	Madison Village Road Department 	FM 	Public Works 
-45.58000 	 	BM		WWK DPW 	Willowick DPW 	FM 	Public Works 
-45.60000 	KAQ711 	BM		LAKECO ROADS 	Lake County Road Department 	FM 	Public Works 
-45.64000 	KNDV995 	BM		WILLBY ROADS 	Willoughby Road Department 	FM 	Public Works 
-151.04000 	WPMF406 	BM		MENTONLK SVC 	Mentor-on-the-Lake Service Department 	FM 	Public Works 
-153.98000 	KNFQ705 	BM		EASTLAKE SVC 	Eastlake Service Department 	FM 	Public Works 
-155.02500 	WPGR271 	RM		MENTOR SVC 	Mentor Service and Building Departments 	DMR 	Public Works 
-156.22500 	WPPB865 	RM	115 DPL	PAINTWP ROAD 	Painesville Township Road Department 	FM 	Public Works 
-453.10000 	WQS501 	RM		DW/MRDD MNT 	Deep Wood/MRDD Center - Maintenance/Admin 	FM 	Public Works 
-453.62500 	WNRL445 	RM	85.4 PL	LAKCO RADIOS 	Lake County Radio Shop 	FM 	Public Works 
-464.72500 	WQAC752 	RM		WILLBY WW TP 	Willoughby Waste Water Treatment Plant - Data 	Telm 	Public Works 
-461.87500 	WPCC667 	RM	141.3 PL	RIVERSD BOE 	Riverside BOE School Buses 	FM 	Schools 
-158.82000 	KUQ666 	BM		EMA SIRENS 	EMA Siren Control 	FM 	Emergency Ops 
-463.01250 	KD39200 	RM	413 DPL	LH WEST SEC 	Lake Health - West Medical Center Security 	FM 	Security 
-463.01250 	KD39200 	RM	431 DPL	LH EAST SEC 	Lake Health - Lake East Security 	FM 	Security 
-463.40000 	WQGN251 	RM	311 DPL	LH TRIPOINT 	Lake Health - TriPoint Medical Center 	FM 	Business 
-463.52500 	WQGN251 	RM	CC 1TG *SL *	LH WEST 	Lake Health - West Medical Center 	DMR 	Business 
-861.03750 	KNGR330 	RM	141.3 PL	PNPP FD/SAFE 	Fire & Safety 	FMN 	Utilities 
-861.28750 	KNGR330 	RM	114.8 PL	PNPP OPS 2 	Operations 2 	FMN 	Utilities 
-861.56250 	KNGR330 	RM	85.4 PL	PNPP OPS 1 	Operations 1 	FMN 	Utilities 
-861.83750 	KNGR330 	RM	173.8 PL	PNPP SEC 1 	Security 1 	FMN 	Utilities 
-862.08750 	KNGR330 	RM	210.7 PL	PNPP SEC 2 	Security 2 	FMN 	Utilities 
-451.07500 	WQBT645 	RM	155 DPL	1 	Aqua Ohio Water Operations 	FM 	Utilities 
-Avery Dennison - Cleveland Films Division	 DMR Motorola Capacity Plus Single Site (TRBO)	 Mentor	Communications Service OH	 DMR Motorola Capacity Plus Single Site (TRBO)	 Thompson	Greater Cleveland Regional Transit Authority	 EDACS Networked Standard
- Cleveland	Lubrizol	 DMR Motorola Connect Plus (TRBO)	 Wickliffe and Painesville	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649
- Project 25 Phase I	 Statewide	Painesville Utilities	 DMR Motorola Capacity Plus Single Site (TRBO)	 Painesville	
+853.46250 	   	 	M	306 DPL	3TA 	3 Talk Around 	FM 	Interop 
+854.46250 	   	 	M	306 DPL	4TA 	4 Talk Around 	FM 	Interop 
+46.14000 	   	WNJG223 	BM		CENTRAL FIRE 	Central Fire Dispatch 	FM 	Fire Dispatch 
+46.20000 	   	WNJG223 	BM		HELI PATCH 	Fire Dispatch (Helicopter Patch Channel) 	FM 	Fire Dispatch 
+46.36000 	   	WNJG223 	BM		WILLBY FD 	Fire Dispatch (Willoughby FD, Eastlake FD) 	FM 	Fire Dispatch 
+39.80000 	   	WQU344 	BM	97.4 PL	MVPD SMPLX 	Madison Village PD Car-to-Car 	FM 	Law Talk 
+151.20500 	153.74000  	KSP258 	RM	97.4 PL	KIRTLAND PD 	Kirtland Police Dispatch 	FM 	Law Dispatch 
+851.11250 	806.11250  	WNQP593 	RM		LAKECO JAIL 	Lake County Jail - Ops 	FM 	Law Talk 
+37.10000 	   	WNDX495 	BM	97.4 PL	KirtHillsSvc 	Kirtland Hills Services (roads / plows  / PD chat) 	FM 	Public Works 
+39.10000 	   	KLR271 	BM		WCKLFE ROADS 	Wickliffe Road Department 	FM 	Public Works 
+45.12000 	   	WNPY232 	BM		MADVIL ROADS 	Madison Village Road Department 	FM 	Public Works 
+45.58000 	   	 	BM		WWK DPW 	Willowick DPW 	FM 	Public Works 
+45.60000 	   	KAQ711 	BM		LAKECO ROADS 	Lake County Road Department 	FM 	Public Works 
+45.64000 	   	KNDV995 	BM		WILLBY ROADS 	Willoughby Road Department 	FM 	Public Works 
+151.04000 	   	WPMF406 	BM		MENTONLK SVC 	Mentor-on-the-Lake Service Department 	FM 	Public Works 
+153.98000 	   	KNFQ705 	BM		EASTLAKE SVC 	Eastlake Service Department 	FM 	Public Works 
+155.02500 	150.80500  	WPGR271 	RM		MENTOR SVC 	Mentor Service and Building Departments 	DMR 	Public Works 
+156.22500 	159.06000  	WPPB865 	RM	115 DPL	PAINTWP ROAD 	Painesville Township Road Department 	FM 	Public Works 
+453.10000 	458.10000  	WQS501 	RM		DW/MRDD MNT 	Deep Wood/MRDD Center - Maintenance/Admin 	FM 	Public Works 
+453.62500 	458.62500  	WNRL445 	RM	85.4 PL	LAKCO RADIOS 	Lake County Radio Shop 	FM 	Public Works 
+464.72500 	469.72500  	WQAC752 	RM		WILLBY WW TP 	Willoughby Waste Water Treatment Plant - Data 	Telm 	Public Works 
+461.87500 	466.87500  	WPCC667 	RM	141.3 PL	RIVERSD BOE 	Riverside BOE School Buses 	FM 	Schools 
+158.82000 	   	KUQ666 	BM		EMA SIRENS 	EMA Siren Control 	FM 	Emergency Ops 
+463.01250 	468.01250  	KD39200 	RM	413 DPL	LH WEST SEC 	Lake Health - West Medical Center Security 	FM 	Security 
+463.01250 	468.01250  	KD39200 	RM	431 DPL	LH EAST SEC 	Lake Health - Lake East Security 	FM 	Security 
+463.40000 	468.40000  	WQGN251 	RM	311 DPL	LH TRIPOINT 	Lake Health - TriPoint Medical Center 	FM 	Business 
+463.52500 	468.52500  	WQGN251 	RM	CC 1TG *SL *	LH WEST 	Lake Health - West Medical Center 	DMR 	Business 
+861.03750 	816.03750  	KNGR330 	RM	141.3 PL	PNPP FD/SAFE 	Fire & Safety 	FMN 	Utilities 
+861.28750 	816.28750  	KNGR330 	RM	114.8 PL	PNPP OPS 2 	Operations 2 	FMN 	Utilities 
+861.56250 	816.56250  	KNGR330 	RM	85.4 PL	PNPP OPS 1 	Operations 1 	FMN 	Utilities 
+861.83750 	816.83750  	KNGR330 	RM	173.8 PL	PNPP SEC 1 	Security 1 	FMN 	Utilities 
+862.08750 	817.08750  	KNGR330 	RM	210.7 PL	PNPP SEC 2 	Security 2 	FMN 	Utilities 
+451.07500 	456.07500  	WQBT645 	RM	155 DPL	1 	Aqua Ohio Water Operations 	FM 	Utilities 
+Avery Dennison - Cleveland Films Division	 DMR Motorola Capacity Plus Single Site (TRBO)	 Mentor	Communications Service OH	 DMR Motorola Capacity Plus Single Site (TRBO)	 Thompson	Greater Cleveland Regional Transit Authority	 EDACS Networked Standard	 Cleveland
+Lubrizol	 DMR Motorola Connect Plus (TRBO)	 Wickliffe and Painesville	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide
+Painesville Utilities	 DMR Motorola Capacity Plus Single Site (TRBO)	 Painesville	

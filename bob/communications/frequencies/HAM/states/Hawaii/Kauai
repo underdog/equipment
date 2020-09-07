@@ -1,22 +1,22 @@
-154.99500 	KYB912 	RM		Forestry 	Department of Forestry and Conservation - Ch Green 	FM 	Law Dispatch 
-155.02500 	KGJ212 	BM		Yellow 	State Government - Ch Yellow 	FM 	Law Dispatch 
-155.08500 	WYK653 	BM		Forestry 	Department of Forestry and Conservation 	FM 	Law Dispatch 
-155.10000 	WYK653 	BM		PublicSafety 	Public Safety 	FM 	Law Talk 
-155.71500 	KGJ212 	BM		CivilDefense 	Civil Defense - Ch Yellow 	FM 	Emergency Ops 
-155.76000 	WYK653 	BM		CivDef Local 	Civil Defense - Local Ops 	FM 	Law Dispatch 
-453.40000 	KYB912 	RM	710 NAC	DOH EMS DISP 	Department of Health: EMS Dispatch 	P25 	EMS Dispatch 
-453.90000 	KYB912 	RM	710 NAC	DOH EMS TAC 	Department of Health: EMS Tactical 	P25 	EMS-Tac 
-463.05000 	KYB912 	RM	710 NAC	DOH EMS HOSP 	Department of Health: EMS-to-Hospital 	P25 	Hospital 
-155.16750 	WQFY591 	M		Kauai SAR F1 	Kauai SAR F1 	FMN 	EMS-Talk 
-155.28750 	WQFY591 	M		Kauai SAR F2 	Kauai SAR F2 	FMN 	EMS-Talk 
-156.42500 	 	BM	CSQ	NawiliwiliYC 	Nawiliwili Yacht Club (Marine Ch. 68) 	FM 	Business 
-467.76250 	 	M	CSQ	Harbor Sec 	Security (American Security Group) 	FMN 	Security 
-156.90000 	 	BM	CSQ	Tug Boats 	Tug Boats (Marine Ch. 18A) 	FM 	Business 
-151.95500 	 	M	162.2 PL	Young Bros 	Young Brothers (Inter-Island Cargo Terminal, Pier 3) 	FMN 	Business 
-163.13750 	 	BM	293 NAC	CG113 Sector 	Ch. CG113 Sector Honolulu (encryption used) 	P25 	Federal 
-164.90000 	 	BM	293 NAC	CG118 Kauai 	Ch. CG118 Station Kauai (encryption used) 	P25 	Federal 
-157.05000 	 	BM	CSQ	USCG 21A 	Sector Honolulu (Marine Ch. 21A) 	FM 	Federal 
-165.23750 	 	RM	302 NAC	CBP 165.2375 	CBP (encryption used) 	P25 	Federal 
-Enterprise Rent-a-Car	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Varies	Hawaii Wireless Interoperability Network (HIWIN)	 Project 25 Phase II	 Varies	Hokuala Kauai	 DMR Motorola Capacity Plus Single Site (TRBO)
- Lihue	Kauai County	 Project 25 Phase I	 Lihue	Kauai Island Utility Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	Lihue International Aiport Authority
- Motorola Type II Smartnet	 Lihue 	State of Hawaii: Department of Health	 Project 25 Phase I	 Kauai	
+154.99500 	154.08500  	KYB912 	RM		Forestry 	Department of Forestry and Conservation - Ch Green 	FM 	Law Dispatch 
+155.02500 	   	KGJ212 	BM		Yellow 	State Government - Ch Yellow 	FM 	Law Dispatch 
+155.08500 	156.00000  	WYK653 	BM		Forestry 	Department of Forestry and Conservation 	FM 	Law Dispatch 
+155.10000 	   	WYK653 	BM		PublicSafety 	Public Safety 	FM 	Law Talk 
+155.71500 	   	KGJ212 	BM		CivilDefense 	Civil Defense - Ch Yellow 	FM 	Emergency Ops 
+155.76000 	   	WYK653 	BM		CivDef Local 	Civil Defense - Local Ops 	FM 	Law Dispatch 
+453.40000 	458.40000  	KYB912 	RM	710 NAC	DOH EMS DISP 	Department of Health: EMS Dispatch 	P25 	EMS Dispatch 
+453.90000 	458.90000  	KYB912 	RM	710 NAC	DOH EMS TAC 	Department of Health: EMS Tactical 	P25 	EMS-Tac 
+463.05000 	468.90000  	KYB912 	RM	710 NAC	DOH EMS HOSP 	Department of Health: EMS-to-Hospital 	P25 	Hospital 
+155.16750 	   	WQFY591 	M		Kauai SAR F1 	Kauai SAR F1 	FMN 	EMS-Talk 
+155.28750 	   	WQFY591 	M		Kauai SAR F2 	Kauai SAR F2 	FMN 	EMS-Talk 
+156.42500 	   	 	BM	CSQ	NawiliwiliYC 	Nawiliwili Yacht Club (Marine Ch. 68) 	FM 	Business 
+467.76250 	   	 	M	CSQ	Harbor Sec 	Security (American Security Group) 	FMN 	Security 
+156.90000 	   	 	BM	CSQ	Tug Boats 	Tug Boats (Marine Ch. 18A) 	FM 	Business 
+151.95500 	   	 	M	162.2 PL	Young Bros 	Young Brothers (Inter-Island Cargo Terminal, Pier 3) 	FMN 	Business 
+163.13750 	   	 	BM	293 NAC	CG113 Sector 	Ch. CG113 Sector Honolulu (encryption used) 	P25 	Federal 
+164.90000 	   	 	BM	293 NAC	CG118 Kauai 	Ch. CG118 Station Kauai (encryption used) 	P25 	Federal 
+157.05000 	   	 	BM	CSQ	USCG 21A 	Sector Honolulu (Marine Ch. 21A) 	FM 	Federal 
+165.23750 	   	 	RM	302 NAC	CBP 165.2375 	CBP (encryption used) 	P25 	Federal 
+Enterprise Rent-a-Car	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Varies	Hawaii Wireless Interoperability Network (HIWIN)	 Project 25 Phase II	 Varies	Hokuala Kauai	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lihue
+Kauai County	 Project 25 Phase I	 Lihue	Kauai Island Utility Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	Lihue International Aiport Authority	 Motorola Type II Smartnet	 Lihue 
+State of Hawaii: Department of Health	 Project 25 Phase I	 Kauai	

@@ -1,27 +1,27 @@
-151.43000 	KSV781 	RM	123.0 PL	PerM Sheriff 	Sheriff: Dispatch (licensed as RM but using as BM) 	FMN 	Law Dispatch 
-158.76000 	WPDJ635 	BM	123.0 PL	Perry EMA 1 	Emergency Preparedness Teams 	FMN 	Emergency Ops 
-156.87500 	 	BM	136.5 PL	Perry EMA 2 	Emergency Management [no known license, may no longer be used] 	FMN 	Emergency Ops 
-154.01000 	WPEM928 	RM	123.0 PL	PerM Fire E 	Fire: Dispatch - East 	FMN 	Fire Dispatch 
-155.16000 	KUV653 	BM	88.5 PL	PerryMO EMS 	Perry County EMS: Dispatch 	FMN 	EMS Dispatch 
-453.55000 	WNQN284 	RM	136.5 PL	PerryHighway 	Highway Maintenance 	FMN 	Public Works 
-155.16000 	KUV653 	BM	88.5 PL	PerryMO EMS 	EMS: Paging/Dispatch (DB: Sheriff's Department) 	FMN 	EMS Dispatch 
-461.27500 	WNWW850 	F	703 DPL	PerM ShrfRF 	Sheriff: Remote Link - Repeats 151.43 123.0 	FMN 	Law Tac 
-466.27500 	WNWW850 	F	703 DPL	PerM EMS RF 	EMS: Remote Link - Repeats 155.16 88.5 	FMN 	EMS-Tac 
-155.34000 	KUV653 	BM		HEAR1 	Patient Reports 	FMN 	EMS-Talk 
-461.81250 	WNWL805 	M		PCM Hosp PG 	Hospital Paging (X-ray, etc)  	FMN 	Business 
-154.16000 	WPZQ953 	BM	123.0 PL	Biehle Fire 	Fire: Dispatch - Biehle CFPA 	FMN 	Fire Dispatch 
-154.01000 	WPEM928 	RM	123.0 PL	Frohna Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.62500 	KKQ970 	BM	123.0 PL	Pryvl Police 	Police: Dispatch 	FMN 	Law Dispatch 
-151.23500 	WPYG245 	BM	123.0 PL	Pryv Police Priv 	Police: Private 	FMN 	Law Tac 
-155.82000 	KAX580 	BM	123.0 PL	Pryvlle Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.23500 	WNZL956 	BM	123.0 PL	Pryv Fire Priv 	Fire: Private [may no longer be used] 	FMN 	Fire-Tac 
-155.95500 	WRE414 	BM	123.0 PL	Pryv PublicWorks 	Public Works Department 	FMN 	Public Works 
-173.23750 	WNKN595 	F		Pryv WDD1 	Water Distribution Data 	Telm 	Public Works 
-173.28750 	WPTA605 	F		Pryv WDD2 	Water Distribution Data (CSQ) 	Telm 	Public Works 
-151.95500 	WQJQ924 	BM		AltnbgSchool 	Operations 	FMN 	Schools 
-154.51500 	WNVN852 	M		ImLuth Sch 	Ops 	FMN 	Schools 
-151.89500 	WNVQ484 	RM		PerryCoSchool 1 	Ops  	FMN 	Schools 
-151.83500 	WNVQ484 	M		PerryCoSchool 2 	Ops 	FMN 	Schools 
-151.83500 	WNVQ488 	M		PerryCoSchool 3 	Maintenance  	FMN 	Schools 
-151.92500 	WNVQ799 	BM		SVDPP Ops 	Parish/School Ops ?? 	FMN 	Schools 
+151.43000 	156.15000  	KSV781 	RM	123.0 PL	PerM Sheriff 	Sheriff: Dispatch (licensed as RM but using as BM) 	FMN 	Law Dispatch 
+158.76000 	   	WPDJ635 	BM	123.0 PL	Perry EMA 1 	Emergency Preparedness Teams 	FMN 	Emergency Ops 
+156.87500 	   	 	BM	136.5 PL	Perry EMA 2 	Emergency Management [no known license, may no longer be used] 	FMN 	Emergency Ops 
+154.01000 	151.29500  	WPEM928 	RM	123.0 PL	PerM Fire E 	Fire: Dispatch - East 	FMN 	Fire Dispatch 
+155.16000 	   	KUV653 	BM	88.5 PL	PerryMO EMS 	Perry County EMS: Dispatch 	FMN 	EMS Dispatch 
+453.55000 	458.55000  	WNQN284 	RM	136.5 PL	PerryHighway 	Highway Maintenance 	FMN 	Public Works 
+155.16000 	   	KUV653 	BM	88.5 PL	PerryMO EMS 	EMS: Paging/Dispatch (DB: Sheriff's Department) 	FMN 	EMS Dispatch 
+461.27500 	   	WNWW850 	F	703 DPL	PerM ShrfRF 	Sheriff: Remote Link - Repeats 151.43 123.0 	FMN 	Law Tac 
+466.27500 	   	WNWW850 	F	703 DPL	PerM EMS RF 	EMS: Remote Link - Repeats 155.16 88.5 	FMN 	EMS-Tac 
+155.34000 	   	KUV653 	BM		HEAR1 	Patient Reports 	FMN 	EMS-Talk 
+461.81250 	   	WNWL805 	M		PCM Hosp PG 	Hospital Paging (X-ray, etc)  	FMN 	Business 
+154.16000 	   	WPZQ953 	BM	123.0 PL	Biehle Fire 	Fire: Dispatch - Biehle CFPA 	FMN 	Fire Dispatch 
+154.01000 	151.29500  	WPEM928 	RM	123.0 PL	Frohna Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.62500 	   	KKQ970 	BM	123.0 PL	Pryvl Police 	Police: Dispatch 	FMN 	Law Dispatch 
+151.23500 	   	WPYG245 	BM	123.0 PL	Pryv Police Priv 	Police: Private 	FMN 	Law Tac 
+155.82000 	   	KAX580 	BM	123.0 PL	Pryvlle Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.23500 	   	WNZL956 	BM	123.0 PL	Pryv Fire Priv 	Fire: Private [may no longer be used] 	FMN 	Fire-Tac 
+155.95500 	   	WRE414 	BM	123.0 PL	Pryv PublicWorks 	Public Works Department 	FMN 	Public Works 
+173.23750 	   	WNKN595 	F		Pryv WDD1 	Water Distribution Data 	Telm 	Public Works 
+173.28750 	   	WPTA605 	F		Pryv WDD2 	Water Distribution Data (CSQ) 	Telm 	Public Works 
+151.95500 	   	WQJQ924 	BM		AltnbgSchool 	Operations 	FMN 	Schools 
+154.51500 	   	WNVN852 	M		ImLuth Sch 	Ops 	FMN 	Schools 
+151.89500 	157.51500  	WNVQ484 	RM		PerryCoSchool 1 	Ops  	FMN 	Schools 
+151.83500 	   	WNVQ484 	M		PerryCoSchool 2 	Ops 	FMN 	Schools 
+151.83500 	   	WNVQ488 	M		PerryCoSchool 3 	Maintenance  	FMN 	Schools 
+151.92500 	   	WNVQ799 	BM		SVDPP Ops 	Parish/School Ops ?? 	FMN 	Schools 
 AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	

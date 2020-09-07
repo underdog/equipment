@@ -1,37 +1,38 @@
-154.19000 	WQUD259 	RM	55 RAN	NCSO 	Law 1  	NXDN 	Law Dispatch 
-154.10000 	 	RM	55 RAN	NCSO 	Law 2  	NXDN 	Law Dispatch 
-155.82000 	 	RM	55 RAN	NCSO 	Law 3  	NXDN 	Law Dispatch 
-154.57000 	 	BM		NCDC 	Nelson County Detention Center 	FMN 	Corrections 
-151.28000 	WNPQ625 	BM	55 RAN	NCFD 	Nelson County Fire - Digital 	NXDN 	Fire Dispatch 
-151.28000 	WNPQ625 	RM	91.5 PL	NCFD 	Nelson County Fire - Dispatch 	FMN 	Fire Dispatch 
-151.45250 	WQAB745 	RM	411 DPL	NewHope FD 	New Hope Fire 	FMN 	Fire-Talk 
-154.31000 	WNMB360 	RM	91.5 PL	NewHavnFD 	Rolling Fork Fire   	FMN 	Fire-Talk 
-155.52750 	WNQN751 	RM	114 DPL	Boston FD  	Boston Fire Dept 	FMN 	Fire-Talk 
-154.98000 	WNQN751 	RM	91.5 PL	NENelsonFire 	North East Nelson Fire 	FMN 	Fire-Talk 
-154.75500 	WRAN528   	RM	91.5 PL	Nelson EMA 	EMA/Paging/Mutual Aid 	FMN 	Emergency Ops 
-155.16000 	 WQPI634 	RM	55 RAN	Nlsn EMS 	EMS - Dispatch NXDN 	NXDN 	EMS Dispatch 
-155.16000 	 WQPI634 	RM	91.5 PL	Nlsn EMS 	EMS - Dispatch 	FMN 	EMS Dispatch 
-155.34000 	KKV546 	BM	91.5 PL	EMS2Flaget 	EMS to Flaget Hospital 	FMN 	Hospital 
-155.90500 	  	RM	55 RAN	Brdstwn PDF1 	Police - Dispatch (Enc.) 	NXDNE 	Law Dispatch 
-154.84500 	WPEV993 	RM	55 RAN	Brdstwn FD 	Fire - Dispatch 	NXDN 	Fire Dispatch 
-154.84500 	WPEV993 	RM	118.8 PL	Brdstwn FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-154.98000 	KNBY497 	BM	192.8 PL	Brdstwn GVT 	Government Services 	FMN 	Public Works 
-452.67500 	WPMQ243 	RM		Brdstwn SKLS 	Board of Education 	FMN 	Schools 
-151.02500 	WPDZ588 	RM	127.3 PL	Nlsn Roads 	Road Department 	FMN 	Public Works 
-855.33750 	WPFR201 	RM	371 DPL	Nlsn Skl Bus 	Schools - Bus Operations 	FMN 	Schools 
-451.31250 	WQCA949 	RM	131.8 PL	Nlsn Skls  	Board of Education 	FMN 	Schools 
-464.67500 	WPAU348 		516 DPL	Flaget 	Flaget Memorial Hospital 	FMN 	Hospital 
-462.22500 	WPCR562 	RM	91.5 PL	Barton 	Barton Brands - Operations 	FMN 	Business 
-462.40000 	WPCR562 	RM	71.9 PL	Barton 	Barton Brands - Operations 	FMN 	Business 
-463.51250 	WPCR562 	RM	131.8 PL	Barton 	Barton Brands - Operations 	FMN 	Business 
-152.33000 	WNKN531 	BM	91.5 PL	Custom Transport 	Custom Transport Services 	FMN 	Transportation 
-463.67500 	WNXH416 	RM	71.9 PL	HAYDON 	Haydon Brothers Contracting 	FMN 	Business 
-464.87500 	WPKT781 	RM	205 DPL	Intertec 	Intertec Systems 	FMN 	Business 
-464.92500 	WPKT781 	RM	205 DPL	Intertec 	Intertec Systems 	FMN 	Business 
-464.50000 	 	BM	77.0 PL	KYGUNCO 	KYGUNCO 	FMN 	Business 
-461.03750 	 	RM	CC 1TG *SL *	mago 	Mago Construction 	DMR 	Business 
-452.50000 	WQST864 	RM	CC 5TG *SL *	IMI 	IMI 	DMR 	Business 
-461.51250 	 	RM	71.9 PL	Rame 	Rame Construction 	FMN 	Business 
-461.51250 	 	RM	CC 1TG *SL *	Rame  	Rame Construction 	DMR 	Business 
-457.77500 	WPGP832 	BM	82.5 PL	TrdWnds Trns 	Trade Winds Transits Ins. 	FMN 	Transportation 
+154.19000 	156.15000  	WQUD259 	RM	55 RAN	NCSO 	Law 1  	NXDN 	Law Dispatch 
+154.10000 	155.70000  	WQUD259 	RM	55 RAN	NCSO 	Law 2  	NXDN 	Law Dispatch 
+155.82000 	158.79000  	WPWC485 	RM	55 RAN	NCSO 	Law 3  	NXDN 	Law Dispatch 
+154.57000 	   	Itinerant 	BM		NCDC 	Nelson County Detention Center 	FMN 	Corrections 
+151.28000 	158.94000  	WNPQ625 	BM	55 RAN	NCFD 	Nelson County Fire - Digital 	NXDN 	Fire Dispatch 
+151.28000 	158.94000  	WNPQ625 	RM	91.5 PL	NCFD 	Nelson County Fire - Dispatch 	FMN 	Fire Dispatch 
+151.45250 	159.44250  	WQAB745 	RM	411 DPL	NewHope FD 	New Hope Fire 	FMN 	Fire-Talk 
+154.31000 	151.20500  	WNMB360 	RM	91.5 PL	NewHavnFD 	Rolling Fork Fire   	FMN 	Fire-Talk 
+155.52750 	159.29250  	WNQN751 	RM	114 DPL	Boston FD  	Boston Fire Dept 	FMN 	Fire-Talk 
+154.98000 	159.42000  	WNQN751 	RM	91.5 PL	NENelsonFire 	North East Nelson Fire 	FMN 	Fire-Talk 
+154.75500 	150.77500  	WRAN528   	RM	91.5 PL	Nelson EMA 	EMA/Paging/Mutual Aid 	FMN 	Emergency Ops 
+155.16000 	159.12000  	WQPI634 	RM	55 RAN	Nlsn EMS 	EMS - Dispatch NXDN 	NXDN 	EMS Dispatch 
+155.16000 	159.12000  	WQPI634 	RM	91.5 PL	Nlsn EMS 	EMS - Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	KKV546 	BM	91.5 PL	EMS2Flaget 	EMS to Flaget Hospital 	FMN 	Hospital 
+155.90500 	151.19000  	WPEV993 	RM	55 RAN	Brdstwn PDF1 	Police - Dispatch (Enc.) 	NXDNE 	Law Dispatch 
+154.84500 	158.97750  	WPEV993 	RM	55 RAN	Brdstwn FD 	Fire - Dispatch 	NXDN 	Fire Dispatch 
+154.84500 	158.97750  	WPEV993 	RM	118.8 PL	Brdstwn FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.98000 	   	KNBY497 	BM	192.8 PL	Brdstwn GVT 	Government Services 	FMN 	Public Works 
+452.67500 	457.67500  	WPMQ243 	RM		Brdstwn SKLS 	Board of Education 	FMN 	Schools 
+151.02500 	156.07500  	WPDZ588 	RM	127.3 PL	Nlsn Roads 	Road Department 	FMN 	Public Works 
+855.33750 	810.33750  	WPFR201 	RM	371 DPL	Nlsn Skl Bus 	Schools - Bus Operations 	FMN 	Schools 
+464.00000 	469.00000  	WPLF760 	RM		NCHS 	NELSON CO HIGH SCHOOL  	 	FMN 	Schools 
+464.67500 	469.67500  	WQSC656 	RM	516 DPL	Flaget 	Flaget Memorial Hospital 	FMN 	Hospital 
+462.22500 	467.22500  	WPCR562 	RM	91.5 PL	Barton 	Barton Brands - Operations 	FMN 	Business 
+462.40000 	4674.00000  	WPCR562 	RM	71.9 PL	Barton 	Barton Brands - Operations 	FMN 	Business 
+463.51250 	468.51250  	WPCR562 	RM	131.8 PL	Barton 	Barton Brands - Operations 	FMN 	Business 
+451.31250 	456.31250  	WPYP816 	RM	131.8 PL	Beam Dist  	Beam Suntory, Inc  	FMN 	Business 
+152.33000 	   	WNKN531 	BM	91.5 PL	Custom Transport 	Custom Transport Services 	FMN 	Deprecated 
+463.67500 	468.67500  	WNXH416 	RM	71.9 PL	HAYDON 	Haydon Brothers Contracting 	FMN 	Business 
+464.87500 	469.87500  	WPKT781 	RM	205 DPL	Intertec 	Intertec Systems 	FMN 	Deprecated 
+464.92500 	469.92500  	WPKT781 	RM	205 DPL	Intertec 	Intertec Systems 	FMN 	Deprecated 
+464.50000 	   	 	BM	77.0 PL	KYGUNCO 	KYGUNCO 	FMN 	Business 
+461.03750 	466.03750  	KII708  	RM	CC 1TG *SL *	Mago 	Mago Construction 	DMR 	Business 
+452.50000 	457.50000  	WQST864 	RM	CC 5TG *SL *	IMI 	IMI 	DMR 	Business 
+461.51250 	466.51250  	WQOM869  	RM	71.9 PL	Rame 	Rame Construction 	FMN 	Business 
+461.51250 	466.51250  	WQOM869  	RM	CC 1TG *SL *	Rame  	Rame Construction 	DMR 	Business 
+457.77500 	   	WPGP832 	BM	82.5 PL	TrdWnds Trns 	Trade Winds Transits Ins. 	FMN 	Deprecated 
 Concept Communications of Louisville	 LTR Standard	 Jeffersontown	

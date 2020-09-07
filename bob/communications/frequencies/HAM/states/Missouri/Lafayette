@@ -1,47 +1,46 @@
-155.64000 	KNIP512 	RM	203.5 PL	Laf Sheriff 	Sheriff: Dispatch  	FMN 	Law Dispatch 
-155.95500 	KNIP512 	RM	167.9 PL	Laf SD C/W 	Sheriff: Countywide - Rural Dispatch  	FMN 	Law Dispatch 
-159.07500 	KNIP512 	M	127.3 PL	Laf SD C2C 	Sheriff: Car-to-Car 	FMN 	Law Talk 
-155.49000 	KRT854 	BM	74.4 PL	Laf Shrf Old 	Sheriff: Old County 	FMN 	Law Talk 
-453.53750 	KNIP512 	F		Laf SD RF-1 	Remote Link to 155.64/155.955 (Concordia) 	FMN 	Law Dispatch 
-453.61250 	KNIP512 	F		Laf SD RF-2 	Remote Link to 155.64/155.955 (Odessa) 	FMN 	Law Dispatch 
-453.76250 	KNIP512 	F		Laf SD RF-3 	Remote Link to 155.64/155.955 (Odessa) 	FMN 	Law Dispatch 
-154.41500 	WPJM426 	BM	141.3 PL	Laf Fire/EMS 	Fire/EMS: Countywide Dispatch 	FMN 	Fire Dispatch 
-155.55000 	WNLA794 	BM	100.0 PL	Laf HD Bridg 	Highway Department - Bridge 	FMN 	Public Works 
-155.55000 	WNLA794 	M	71.9 PL	Laf HD 1E 	Highway Department - IE 	FMN 	Public Works 
-155.55000 	WNLA794 	M	77.0 PL	Laf HD 2W 	Highway Department - ZW 	FMN 	Public Works 
-155.55000 	WNLA794 	M	123.0 PL	Laf HD Alma 	Highway Department - Alma 	FMN 	Public Works 
-155.55000 	WNLA794 	M	107.2 PL	Laf HD Dover 	Highway Department - Dover 	FMN 	Public Works 
-155.55000 	WNLA794 	M	67.0 PL	Laf HD Lxgtn 	Highway Department - Lexington 	FMN 	Public Works 
-155.55000 	WNLA794 	M	114.8 PL	Laf HD Cncrd 	Highway Department - Concordia 	FMN 	Public Works 
-151.10750 	WQLK597 	M		Alma Police MX  	Police: Mobile Extenders 	FMN 	Law Dispatch 
-155.74500 	KJZ919 	BM		Conc Police 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-453.22500 	KJZ919 	RM		Conc PD MX 	Police: Mobile Extenders 	FMN 	Law Tac 
-155.05500 	 	M	67.0 PL	Johnsn Co 	{Link to} Johnson Co [Ch 8] 	FMN 	Law Dispatch 
-156.21000 	 	M	156.7 PL	Saline Co 	{Link to} Saline Co [Ch 8] 	FMN 	Law Dispatch 
-154.14500 	KJZ919 	BM		Conc Fire F6 	Fire / EMS [Ch 6] 	FMN 	Fire Dispatch 
-151.28750 	WQGE392 	RM	94.8 PL	Concordia FD 	Fire: Operations  	FMN 	Fire Dispatch 
-155.76000 	KAN551 	BM	91.5 PL	Higg Police 	Police (with EMS?) 	FMN 	Multi-Dispatch 
-158.79000 	KAN414 	RM	131.8 PL	Higg**Police 	Police / Central Dispatch 	FMN 	Law Dispatch 
-159.33000 	KAN414 	M		Higg PD MX 	Mobile Extenders 	FMN 	Law Dispatch 
-154.77000 	KAN414 	M		Lex Police 	Police 	FMN 	Law Tac 
-460.01250 	KAN414 	M	100.0 PL	Higg EMS MX 	Ambulance: Mobile Extenders 	FMN 	EMS-Tac 
-151.08500 	KAN414 	BM	173.8 PL	Higg Servces 	Services 	FMN 	Public Works 
-453.26250 	KAN414 	RM		Higg Water 	Water Plant 	FMN 	Public Works 
-159.33000 	KNGS996 	RM	186.2 PL	Lex Police 	Police: Dispatch - New 	FMN 	Law Dispatch 
-154.39250 	KYJ236 	RM	136.5 PL	Lex Fire/EMS 	Fire/EMS: Dispatch - New 	FMN 	Fire Dispatch 
-154.04000 	KYJ236 	BM	82.5 PL	Lex Street 	Street Department 	FMN 	Public Works 
-155.59500 	KRF343 	BM	74.4 PL	Odessa Police 	Police 	FMN 	Law Dispatch 
-151.25000 	KNJT971 	RM	107.2 PL	Odessa Fire/EMS 	Central (Fire/EMS) 	FMN 	Multi-Dispatch 
-453.98750 	KNJT971 	M		Odessa MX 	Mobile Extenders 	FMN 	Law Tac 
-151.01000 	WZQ783 	RM	526 DPL	Odessa Fire 	Fireground / Operations 	FMN 	Fire-Tac 
-153.80000 	WZQ783 	M		Odessa Fire MX 	Fire: Mobile Extenders  	FMN 	Fire-Tac 
-155.71500 	KNJT971 	BM		Odes PW/PowerPl 	Public Works / Power Plant 	FMN 	Public Works 
-155.82750 	WPRI707 	RM		HAP Phillips Gen 	HAP Phillips Generation  	FMN 	Utilities 
-158.78750 	WQPY439 	BM	432 DPL	Odessa Road 	Odessa Special Road District 	FMN 	Public Works 
-154.43000 	 	BM		LeeSumt Fire 	Fire: Dispatch (w/ Lees Summit) 	FM 	Fire Dispatch 
-158.94000 	WRD856 	M		SV Fire MX 	Fire: Mobile Extenders 	FM 	Fire Dispatch 
-154.22000 	WRD856 	BM		SniVal Fire 	Fire 	FMN 	Fire-Tac 
-154.32500 	WPOY930 	RM		Waverly Fire 	Fire  	FMN 	Fire-Tac 
-151.68500 	 	BM	612 DPL	RSmall Trans 	School Buses (Bases in Odessa, Lexington, Lone Jack) 	FMN 	Transportation 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Great Plains Energy (Kansas City Metro Area)	 Motorola Type II Smartnet	 Various	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)
- Various	
+155.64000 	158.95500  	KNIP512 	RM	203.5 PL	Laf Sheriff 	Sheriff: Dispatch  	FMN 	Law Dispatch 
+155.95500 	153.99500  	KNIP512 	RM	167.9 PL	Laf SD C/W 	Sheriff: Countywide - Rural Dispatch  	FMN 	Law Dispatch 
+159.07500 	   	KNIP512 	M	127.3 PL	Laf SD C2C 	Sheriff: Car-to-Car 	FMN 	Law Talk 
+155.49000 	   	KRT854 	BM	74.4 PL	Laf Shrf Old 	Sheriff: Old County 	FMN 	Law Talk 
+453.53750 	   	KNIP512 	F		Laf SD RF-1 	Remote Link to 155.64/155.955 (Concordia) 	FMN 	Law Dispatch 
+453.61250 	   	KNIP512 	F		Laf SD RF-2 	Remote Link to 155.64/155.955 (Odessa) 	FMN 	Law Dispatch 
+453.76250 	   	KNIP512 	F		Laf SD RF-3 	Remote Link to 155.64/155.955 (Odessa) 	FMN 	Law Dispatch 
+154.41500 	   	WPJM426 	BM	141.3 PL	Laf Fire/EMS 	Fire/EMS: Countywide Dispatch 	FMN 	Fire Dispatch 
+155.55000 	   	WNLA794 	BM	100.0 PL	Laf HD Bridg 	Highway Department - Bridge 	FMN 	Public Works 
+155.55000 	   	WNLA794 	M	71.9 PL	Laf HD 1E 	Highway Department - IE 	FMN 	Public Works 
+155.55000 	   	WNLA794 	M	77.0 PL	Laf HD 2W 	Highway Department - ZW 	FMN 	Public Works 
+155.55000 	   	WNLA794 	M	123.0 PL	Laf HD Alma 	Highway Department - Alma 	FMN 	Public Works 
+155.55000 	   	WNLA794 	M	107.2 PL	Laf HD Dover 	Highway Department - Dover 	FMN 	Public Works 
+155.55000 	   	WNLA794 	M	67.0 PL	Laf HD Lxgtn 	Highway Department - Lexington 	FMN 	Public Works 
+155.55000 	   	WNLA794 	M	114.8 PL	Laf HD Cncrd 	Highway Department - Concordia 	FMN 	Public Works 
+151.10750 	   	WQLK597 	M		Alma Police MX  	Police: Mobile Extenders 	FMN 	Law Dispatch 
+155.74500 	   	KJZ919 	BM		Conc Police 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+453.22500 	458.22500  	KJZ919 	RM		Conc PD MX 	Police: Mobile Extenders 	FMN 	Law Tac 
+155.05500 	   	 	M	67.0 PL	Johnsn Co 	{Link to} Johnson Co [Ch 8] 	FMN 	Law Dispatch 
+156.21000 	159.10500  	 	M	156.7 PL	Saline Co 	{Link to} Saline Co [Ch 8] 	FMN 	Law Dispatch 
+154.14500 	   	KJZ919 	BM		Conc Fire F6 	Fire / EMS [Ch 6] 	FMN 	Fire Dispatch 
+151.28750 	154.97250  	WQGE392 	RM	94.8 PL	Concordia FD 	Fire: Operations  	FMN 	Fire Dispatch 
+155.76000 	   	KAN551 	BM	91.5 PL	Higg Police 	Police (with EMS?) 	FMN 	Multi-Dispatch 
+158.79000 	154.65000  	KAN414 	RM	131.8 PL	Higg**Police 	Police / Central Dispatch 	FMN 	Law Dispatch 
+159.33000 	   	KAN414 	M		Higg PD MX 	Mobile Extenders 	FMN 	Law Dispatch 
+154.77000 	   	KAN414 	M		Lex Police 	Police 	FMN 	Law Tac 
+460.01250 	   	KAN414 	M	100.0 PL	Higg EMS MX 	Ambulance: Mobile Extenders 	FMN 	EMS-Tac 
+151.08500 	   	KAN414 	BM	173.8 PL	Higg Servces 	Services 	FMN 	Public Works 
+453.26250 	458.26250  	KAN414 	RM		Higg Water 	Water Plant 	FMN 	Public Works 
+159.33000 	153.96500  	KNGS996 	RM	186.2 PL	Lex Police 	Police: Dispatch - New 	FMN 	Law Dispatch 
+154.39250 	158.88750  	KYJ236 	RM	136.5 PL	Lex Fire/EMS 	Fire/EMS: Dispatch - New 	FMN 	Fire Dispatch 
+154.04000 	   	KYJ236 	BM	82.5 PL	Lex Street 	Street Department 	FMN 	Public Works 
+155.59500 	   	KRF343 	BM	74.4 PL	Odessa Police 	Police 	FMN 	Law Dispatch 
+151.25000 	159.42000  	KNJT971 	RM	107.2 PL	Odessa Fire/EMS 	Central (Fire/EMS) 	FMN 	Multi-Dispatch 
+453.98750 	   	KNJT971 	M		Odessa MX 	Mobile Extenders 	FMN 	Law Tac 
+151.01000 	159.01500  	WZQ783 	RM	526 DPL	Odessa Fire 	Fireground / Operations 	FMN 	Fire-Tac 
+153.80000 	   	WZQ783 	M		Odessa Fire MX 	Fire: Mobile Extenders  	FMN 	Fire-Tac 
+155.71500 	   	KNJT971 	BM		Odes PW/PowerPl 	Public Works / Power Plant 	FMN 	Public Works 
+155.82750 	158.96250  	WPRI707 	RM		HAP Phillips Gen 	HAP Phillips Generation  	FMN 	Utilities 
+158.78750 	   	WQPY439 	BM	432 DPL	Odessa Road 	Odessa Special Road District 	FMN 	Public Works 
+154.43000 	   	 	BM		LeeSumt Fire 	Fire: Dispatch (w/ Lees Summit) 	FM 	Fire Dispatch 
+158.94000 	   	WRD856 	M		SV Fire MX 	Fire: Mobile Extenders 	FM 	Fire Dispatch 
+154.22000 	   	WRD856 	BM		SniVal Fire 	Fire 	FMN 	Fire-Tac 
+154.32500 	150.77500  	WPOY930 	RM		Waverly Fire 	Fire  	FMN 	Fire-Tac 
+151.68500 	   	 	BM	612 DPL	RSmall Trans 	School Buses (Bases in Odessa, Lexington, Lone Jack) 	FMN 	Transportation 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Great Plains Energy (Kansas City Metro Area)	 Motorola Type II Smartnet	 Various	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various

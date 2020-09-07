@@ -1,32 +1,31 @@
-155.11500 	WQB723 	RM	103.5 PL	Mnrd Sheriff 	Sheriff: Dispatch / Rural Dispatch  - Backup to SC21 	FMN 	Law Dispatch 
-156.13500 	WQB723 	M		Men SD C2C 	Sheriff: Car-to-Car 	FMN 	Law Talk 
-158.92500 	WQB723 	M	411 DPL	Mnrd Shrf B 	Sheriff: Operations (Petersburg) 	FMN 	Law Tac 
-45.56000 	WQBD562 	BM		Mnrd ESDA LB 	ESDA/Rescue Squad 	FMN 	Emergency Ops 
-453.67500 	WQBD562 	BM		Mnrd ESDA RF 	ESDA: Remote Links 	FMN 	Emergency Ops 
-151.10000 	WQBD562 	BM		Mnrd911 New1 	911: New (Petersburg)  	FMN 	Emergency Ops 
-151.17500 	WQPW824 	RM	503 DPL	Mnrd FireEMS 	Fire/EMS: Tone-Outs / Dispatch [FireCom] 	FMN 	Fire Dispatch 
-154.77000 	WQPW824 	F	251 DPL	Mnrd 911RF-A 	Fire/EMS: 911 Tx input to 151.175 (*see notes) 	FMN 	Fire Dispatch 
-154.77000 	WQPW824 	F	271 DPL	Mnrd 911RF-B 	Fire/EMS: 911 Tx input to 151.175 (*see notes) 	FMN 	Fire Dispatch 
-156.16500 	WQPW824 	RM	506 DPL	Mnrd911 Ops1 	Fire/EMS: Operations 1 [Ops 1] 	FMN 	Fire-Tac 
-155.80500 	WQBD562 	RM	103.5 PL	Mnrd911 Ops2 	Fire/EMS: Operations 3 [Ops 2] 	FMN 	Fire-Tac 
-453.55000 	WQFZ345 	F		Mnrd 911 RF1 	911: Remote Link - Petersburg (poss. 156.7) 	FMN 	Fire Dispatch 
-453.80000 	WQFZ345 	F		Mnrd 911 RF2 	911: Remote Link - Petersburg 	FMN 	Fire Dispatch 
-458.30000 	WQFZ345 	F		Mnrd 911 RF3 	911: Remote Link - Oakland 	FMN 	Fire Dispatch 
-458.52500 	WQFZ345 	F	343 DPL	Mnrd 911 RF4 	911: Remote Link - Oakland 	FMN 	Fire Dispatch 
-159.04500 	KNGG604 	RM	103.5 PL	Mnrd Highway 	Highway Department 	FMN 	Public Works 
-33.06000 	KNGG604 	BM		Mnrd HD LB 	Highway Department 	FMN 	Public Works 
-453.76250 	WPUG837 	RM		Mnrd HsAuth 	Housing Authority - Maintenance  	FMN 	Public Works 
-159.18000 	WPMP523 	BM		Athens Roads 	Road Maintenance (poss. 94.8) 	FMN 	Public Works 
-173.27500 	WQQJ488 	F		Athens WDD 	Water Data (CSQ) 	Telm 	Data 
-952.16875 	WQAV579 	F		Athens Water 	Water/Sewer Data (CSQ) 	Telm 	Data 
-151.22000 	WPLG560 	RM	103.5 PL	Athn-FF Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-153.00500 	WQYV760 	RM		Greenview Fire 	Fire: Dispatch - New 	FMN 	Fire Dispatch 
-154.34000 	KZX272 	BM		Grnvw Fire 	Fire: Dispatch (via Phone, 118.8 or 156.7 ?) 	FMN 	Fire Dispatch 
-154.45625 	WPNQ499 	F		GreenviewWDD 	Water Distribution Data (CSQ, in use 9/13) [Expired 7/04] 	FMN 	Data 
-158.88000 	 	M		Okfrd FD FG2 	Fireground [Ch 2] 	FMN 	Fire-Tac 
-154.05500 	WNAP497 	BM	110.9 PL	Ptrsbrg City 	City Operations (also 146.2?) 	FMN 	Multi-Dispatch 
-154.05500 	WNAP497 	RM	103.5 PL	Ptrsbrg Fire 	Fire: Paging / Dispatch / Incident Command 	FMN 	Fire Dispatch 
-156.05250 	WQFB918 	M		Ptrsbrg WDD 	Water Department: Digital Telemetry 	Telm 	Data 
-151.14500 	WQJB928 	RM	100.0 PL	PPSD Buses 	Petersburg-Porta Schools: Buses (also D411?) 	FMN 	Schools 
-Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Central Illinois	
+155.11500 	158.92500  	WQB723 	RM	103.5 PL	Mnrd Sheriff 	Sheriff: Dispatch / Rural Dispatch  - Backup to SC21 	FMN 	Law Dispatch 
+156.13500 	   	WQB723 	M		Men SD C2C 	Sheriff: Car-to-Car 	FMN 	Law Talk 
+158.92500 	   	WQB723 	M	411 DPL	Mnrd Shrf B 	Sheriff: Operations (Petersburg) 	FMN 	Law Tac 
+45.56000 	   	WQBD562 	BM		Mnrd ESDA LB 	ESDA/Rescue Squad 	FMN 	Emergency Ops 
+453.67500 	458.67500  	WQBD562 	BM		Mnrd ESDA RF 	ESDA: Remote Links 	FMN 	Emergency Ops 
+151.10000 	   	WQBD562 	BM		Mnrd911 New1 	911: New (Petersburg)  	FMN 	Emergency Ops 
+151.17500 	154.77000  	WQPW824 	RM	503 DPL	Mnrd FireEMS 	Fire/EMS: Tone-Outs / Dispatch [FireCom] 	FMN 	Fire Dispatch 
+154.77000 	   	WQPW824 	F	251 DPL	Mnrd 911RF-A 	Fire/EMS: 911 Tx input to 151.175 (*see notes) 	FMN 	Fire Dispatch 
+154.77000 	   	WQPW824 	F	271 DPL	Mnrd 911RF-B 	Fire/EMS: 911 Tx input to 151.175 (*see notes) 	FMN 	Fire Dispatch 
+156.16500 	154.07750  	WQPW824 	RM	506 DPL	Mnrd911 Ops1 	Fire/EMS: Operations 1 [Ops 1] 	FMN 	Fire-Tac 
+155.80500 	153.84500  	WQBD562 	RM	103.5 PL	Mnrd911 Ops2 	Fire/EMS: Operations 3 [Ops 2] 	FMN 	Fire-Tac 
+453.55000 	   	WQFZ345 	F		Mnrd 911 RF1 	911: Remote Link - Petersburg (poss. 156.7) 	FMN 	Fire Dispatch 
+453.80000 	   	WQFZ345 	F		Mnrd 911 RF2 	911: Remote Link - Petersburg 	FMN 	Fire Dispatch 
+458.30000 	   	WQFZ345 	F		Mnrd 911 RF3 	911: Remote Link - Oakland 	FMN 	Fire Dispatch 
+458.52500 	   	WQFZ345 	F	343 DPL	Mnrd 911 RF4 	911: Remote Link - Oakland 	FMN 	Fire Dispatch 
+159.04500 	156.19500  	KNGG604 	RM	103.5 PL	Mnrd Highway 	Highway Department 	FMN 	Public Works 
+33.06000 	   	KNGG604 	BM		Mnrd HD LB 	Highway Department 	FMN 	Public Works 
+453.76250 	458.76250  	WPUG837 	RM		Mnrd HsAuth 	Housing Authority - Maintenance  	FMN 	Public Works 
+159.18000 	   	WPMP523 	BM		Athens Roads 	Road Maintenance (poss. 94.8) 	FMN 	Public Works 
+173.27500 	   	WQQJ488 	F		Athens WDD 	Water Data (CSQ) 	Telm 	Data 
+952.16875 	928.16875  	WQAV579 	F		Athens Water 	Water/Sewer Data (CSQ) 	Telm 	Data 
+151.22000 	159.45000  	WPLG560 	RM	103.5 PL	Athn-FF Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+153.00500 	158.34750  	WQYV760 	RM		Greenview Fire 	Fire: Dispatch - New 	FMN 	Fire Dispatch 
+154.34000 	   	KZX272 	BM		Grnvw Fire 	Fire: Dispatch (via Phone, 118.8 or 156.7 ?) 	FMN 	Fire Dispatch 
+154.45625 	   	WPNQ499 	F		GreenviewWDD 	Water Distribution Data (CSQ, in use 9/13) [Expired 7/04] 	FMN 	Data 
+158.88000 	   	 	M		Okfrd FD FG2 	Fireground [Ch 2] 	FMN 	Fire-Tac 
+154.05500 	   	WNAP497 	BM	110.9 PL	Ptrsbrg City 	City Operations (also 146.2?) 	FMN 	Multi-Dispatch 
+154.05500 	155.97750  	WNAP497 	RM	103.5 PL	Ptrsbrg Fire 	Fire: Paging / Dispatch / Incident Command 	FMN 	Fire Dispatch 
+156.05250 	   	WQFB918 	M		Ptrsbrg WDD 	Water Department: Digital Telemetry 	Telm 	Data 
+151.14500 	154.82250  	WQJB928 	RM	100.0 PL	PPSD Buses 	Petersburg-Porta Schools: Buses (also D411?) 	FMN 	Schools 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	

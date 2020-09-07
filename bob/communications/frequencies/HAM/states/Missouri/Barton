@@ -1,22 +1,22 @@
-158.77500 	WPNW642 	RM	103.5 PL	Barton Sheriff 	Sheriff: Dispatch (131.8 in) 	FMN 	Law Dispatch 
-155.64000 	KAH933 	BM	103.5 PL	Barton SD Pri 	Sheriff: Tac/Private 	FMN 	Law Tac 
-155.64000 	KAH933 	BM	131.8 PL	Barton SD c2c 	Sheriff: Car-to-Car (w/Dispatch) 	FMN 	Law Tac 
-155.91000 	WPNW642 	M	110.9 PL	Barton SD c2c2 	Sheriff: Car-to-Car 	FMN 	Law Tac 
-155.91000 	WPNW642 	BM	131.8 PL	Barton SD Tac4 	Sheriff: Tac [Ch 4] 	FMN 	Law Tac 
-460.05000 	 	F	CSQ	Barton Shrf RF 	Sheriff: Remote Receive Link 	FMN 	Law Dispatch 
-154.35500 	WQRJ763  	RM		Barton EMA 	Emergency Management (Liberal, Lamar) 	FMN 	Emergency Ops 
-155.23500 	WNPL785 	BM	100.0 PL	Barton AlrtRsq 	Alert and Emergency Squad 	FMN 	Fire Dispatch 
-158.84250 	WQBU818 	BM		Barton RdsBrdg 	Roads and Bridge Commission 	FMN 	Public Works 
-155.17500 	WZX546 	RM	103.5 PL	Barton EMS 	EMS: Dispatch (Lamar) 	FMN 	EMS Dispatch 
-155.28000 	KYU795 	BM		BCMH Ops 	Operations 	FMN 	Hospital 
-155.34000 	KYU795 	BM	CSQ	HEAR340 	Patient Reports 	FMN 	Hospital 
-152.00750 	KYU795 	B		BCMH PG 	Hospital Paging 	Telm 	Data 
-155.83500 	KRP819 	RM	103.5 PL	GldnCity FireEMS 	Fire/EMS: Dispatch 	FMN 	Multi-Dispatch 
-154.78500 	KAG244 	BM	103.5 PL	Lamar Police 	Police: Dispatch 	FMN 	Law Dispatch 
-159.19500 	KAG244 	M	103.5 PL	Lamar Police c2c 	Police: Car-to-Car 	FMN 	Law Tac 
-155.59500 	KCZ904 	RM	151.4 PL	Lamar Fire 	Fire: Disaptch 	FMN 	Fire Dispatch 
-154.98000 	WPNW360 	BM		Lamar Transp 	Transportation Service 	FMN 	Transportation 
-155.94000 	KCZ904 	BM	103.5 PL	Lamar PubWrks 	Public Works ? 	FMN 	Public Works 
-155.08500 	KRW437 	BM	CSQ	Lib Light/Water 	Light and Water / Police 	FMN 	Public Works 
-463.92500 	WNRR588 	RM	CC 1TG 1SL 1	Lamar Schools 	Lamar School District R1 (was 100.0) 	DMR 	Schools 
+158.77500 	155.91000  	WPNW642 	RM	103.5 PL	Barton Sheriff 	Sheriff: Dispatch (131.8 in) 	FMN 	Law Dispatch 
+155.64000 	   	KAH933 	BM	103.5 PL	Barton SD Pri 	Sheriff: Tac/Private 	FMN 	Law Tac 
+155.64000 	   	KAH933 	BM	131.8 PL	Barton SD c2c 	Sheriff: Car-to-Car (w/Dispatch) 	FMN 	Law Tac 
+155.91000 	   	WPNW642 	M	110.9 PL	Barton SD c2c2 	Sheriff: Car-to-Car 	FMN 	Law Tac 
+155.91000 	   	WPNW642 	BM	131.8 PL	Barton SD Tac4 	Sheriff: Tac [Ch 4] 	FMN 	Law Tac 
+460.05000 	   	 	F	CSQ	Barton Shrf RF 	Sheriff: Remote Receive Link 	FMN 	Law Dispatch 
+154.35500 	150.77500  	WQRJ763  	RM		Barton EMA 	Emergency Management (Liberal, Lamar) 	FMN 	Emergency Ops 
+155.23500 	   	WNPL785 	BM	100.0 PL	Barton AlrtRsq 	Alert and Emergency Squad 	FMN 	Fire Dispatch 
+158.84250 	   	WQBU818 	BM		Barton RdsBrdg 	Roads and Bridge Commission 	FMN 	Public Works 
+155.17500 	150.80500  	WZX546 	RM	103.5 PL	Barton EMS 	EMS: Dispatch (Lamar) 	FMN 	EMS Dispatch 
+155.28000 	   	KYU795 	BM		BCMH Ops 	Operations 	FMN 	Hospital 
+155.34000 	   	KYU795 	BM	CSQ	HEAR340 	Patient Reports 	FMN 	Hospital 
+152.00750 	   	KYU795 	B		BCMH PG 	Hospital Paging 	Telm 	Data 
+155.83500 	151.43000  	KRP819 	RM	103.5 PL	GldnCity FireEMS 	Fire/EMS: Dispatch 	FMN 	Multi-Dispatch 
+154.78500 	   	KAG244 	BM	103.5 PL	Lamar Police 	Police: Dispatch 	FMN 	Law Dispatch 
+159.19500 	   	KAG244 	M	103.5 PL	Lamar Police c2c 	Police: Car-to-Car 	FMN 	Law Tac 
+155.59500 	159.05250  	KCZ904 	RM	151.4 PL	Lamar Fire 	Fire: Disaptch 	FMN 	Fire Dispatch 
+154.98000 	   	WPNW360 	BM		Lamar Transp 	Transportation Service 	FMN 	Transportation 
+155.94000 	   	KCZ904 	BM	103.5 PL	Lamar PubWrks 	Public Works ? 	FMN 	Public Works 
+155.08500 	   	KRW437 	BM	CSQ	Lib Light/Water 	Light and Water / Police 	FMN 	Public Works 
+463.92500 	468.92500  	WNRR588 	RM	CC 1TG 1SL 1	Lamar Schools 	Lamar School District R1 (was 100.0) 	DMR 	Schools 
 KAMO Power	 NXDN NEXEDGE 4800	 Various	

@@ -1,32 +1,32 @@
-460.43750 	WPPX850 	RM	127.3 PL	PayC Law Pri 	Sheriff/Police - Primary 	FMN 	Law Dispatch 
-460.47500 	WPMD912 	RM	127.3 PL	PayC Law Sec 	Sheriff/Police - Secondary 	FMN 	Law Talk 
-460.41250 	WPPX914 	RM	127.3 PL	PayC Law Adm 	Sheriff/Police - Administration 	FMN 	Law Talk 
-465.27500 	KB60760 	M		PayC Law Tac 	Sheriff/Police - Tactical (includes Fruitland Police) 	FMN 	Law Tac 
-460.15000 	WJZ97 	RM	127.3 PL	Pay SO Jail 	Sheriff/Police - Jail 	FMN 	Security 
-453.53750 	WQBH341 	RM		PayC Law Tac 	Sheriff/Police - Tactical 	FMN 	Law Tac 
-39.82000 	KNCG844 	BM		PayC CivDef 	Civil Defense 	FM 	Emergency Ops 
-155.84250 	WQJS761 	RM	162.2 PL	PayCo Fire N 	Fire North 	FMN 	Fire Dispatch 
-155.84250 	WQJS761 	M		PayCo Fire N Tac 	 Fire North Tac 	FMN 	Fire-Tac 
-154.17500 	WPQG844 	RM	123.0 PL	PayCo Fire So 	Fire South 	FMN 	Fire Dispatch 
-154.17500 	WPQG844 	BM		PayCo Fire S Tac 	Fire South Tac 	FMN 	Fire-Tac 
-154.44500 	WPPZ983 	RM	151.4 PL	New Plym Fire 	New Plymouth Fire - Symes 	FMN 	Fire Dispatch 
-154.44500 	WPPZ983 	M		New Plym Fire Ta 	New Plymouth Fire TAC 	FMN 	Fire-Tac 
-155.69250 	WQBH685 	RM	151.4 PL	New Plym Fire Bl 	New Plymouth Fire - Black 	FMN 	Fire Dispatch 
-155.77500 	WPNY933 	RM	136.5 PL	Fruitland Fire  	Fruitland Fire 	FMN 	Fire Dispatch 
-155.77500 	WPNY933 	M		FruitlandFireTac 	Fruitland Fire Tac 	FMN 	Fire-Tac 
-159.12750 	WQDX512 	RM	136.5 PL	Pay Co Amb Blk 	County Ambulance  -Black 	FMN 	EMS Dispatch 
-155.63250 	WQGZ683 	RM	146.2 PL	Pay Co Amb Clay 	County Ambulance - Clay 	FMN 	EMS-Talk 
-155.92500 	WPPZ764 	M		Pay Co Amb Tac 	County Ambulance Tac 	FMN 	EMS-Tac 
-155.92500 	WPPZ764 	BM		Highway District 	Highway District 	FMN 	Public Works 
-460.41250 	WPQB296 	RM		FrutPD Dsp 	Police - Dispatch 	FMN 	Law Dispatch 
-465.07500 	KB60760 	M		Frut PD Tac 	Police - Tactical 	FMN 	Law Tac 
-465.17500 	KB60760 	M		Frut PD Tac 	Police - Tactical 	FMN 	Law Tac 
-465.37500 	KB60760 	M		Frut PD Tac 	Police - Tactical 	FMN 	Law Tac 
-153.78500 	KNBZ606 	RM		Fruit  City Ops 	City Ops 	FMN 	Multi-Talk 
-154.99500 	WXY498 	BM		NP MultiDsp 	DPW/Police/Fire - Common 	FMN 	Multi-Dispatch 
-460.43750 	WPPX850 	RM		Pay PD 	Police  	FMN 	Law Tac 
-154.19000 	KOH322 	BM		Pay Fire Dsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
-155.82000 	KTK532 	BM		Street Dept 	Street Dept 	FMN 	Public Works 
-460.07500 	WJZ97 	RM		Wies PD Dsp 	Police - Dispatch 	FMN 	Law Dispatch 
-460.15000 	WJZ97 	RM		Weis PD Sec 	Police - Secondary 	FMN 	Law Tac 
-Intermountain Gas Company	 LTR Standard	 Various	
+460.43750 	465.43750  	WPPX850 	RM	127.3 PL	PayC Law Pri 	Sheriff/Police - Primary 	FMN 	Law Dispatch 
+460.47500 	465.47500  	WPMD912 	RM	127.3 PL	PayC Law Sec 	Sheriff/Police - Secondary 	FMN 	Law Talk 
+460.41250 	465.41250  	WPPX914 	RM	127.3 PL	PayC Law Adm 	Sheriff/Police - Administration 	FMN 	Law Talk 
+465.27500 	   	KB60760 	M		PayC Law Tac 	Sheriff/Police - Tactical (includes Fruitland Police) 	FMN 	Law Tac 
+460.15000 	465.15000  	WJZ97 	RM	127.3 PL	Pay SO Jail 	Sheriff/Police - Jail 	FMN 	Security 
+453.53750 	458.53750  	WQBH341 	RM		PayC Law Tac 	Sheriff/Police - Tactical 	FMN 	Law Tac 
+39.82000 	   	KNCG844 	BM		PayC CivDef 	Civil Defense 	FM 	Emergency Ops 
+155.84250 	158.99250  	WQJS761 	RM	162.2 PL	PayCo Fire N 	Fire North 	FMN 	Fire Dispatch 
+155.84250 	   	WQJS761 	M		PayCo Fire N Tac 	 Fire North Tac 	FMN 	Fire-Tac 
+154.17500 	150.80500  	WPQG844 	RM	123.0 PL	PayCo Fire So 	Fire South 	FMN 	Fire Dispatch 
+154.17500 	   	WPQG844 	BM		PayCo Fire S Tac 	Fire South Tac 	FMN 	Fire-Tac 
+154.44500 	153.83000  	WPPZ983 	RM	151.4 PL	New Plym Fire 	New Plymouth Fire - Symes 	FMN 	Fire Dispatch 
+154.44500 	   	WPPZ983 	M		New Plym Fire Ta 	New Plymouth Fire TAC 	FMN 	Fire-Tac 
+155.69250 	159.08250  	WQBH685 	RM	151.4 PL	New Plym Fire Bl 	New Plymouth Fire - Black 	FMN 	Fire Dispatch 
+155.77500 	154.14500  	WPNY933 	RM	136.5 PL	Fruitland Fire  	Fruitland Fire 	FMN 	Fire Dispatch 
+155.77500 	   	WPNY933 	M		FruitlandFireTac 	Fruitland Fire Tac 	FMN 	Fire-Tac 
+159.12750 	153.92750  	WQDX512 	RM	136.5 PL	Pay Co Amb Blk 	County Ambulance  -Black 	FMN 	EMS Dispatch 
+155.63250 	159.01500  	WQGZ683 	RM	146.2 PL	Pay Co Amb Clay 	County Ambulance - Clay 	FMN 	EMS-Talk 
+155.92500 	   	WPPZ764 	M		Pay Co Amb Tac 	County Ambulance Tac 	FMN 	EMS-Tac 
+155.92500 	   	WPPZ764 	BM		Highway District 	Highway District 	FMN 	Public Works 
+460.41250 	465.41250  	WPQB296 	RM		FrutPD Dsp 	Police - Dispatch 	FMN 	Law Dispatch 
+465.07500 	   	KB60760 	M		Frut PD Tac 	Police - Tactical 	FMN 	Law Tac 
+465.17500 	   	KB60760 	M		Frut PD Tac 	Police - Tactical 	FMN 	Law Tac 
+465.37500 	   	KB60760 	M		Frut PD Tac 	Police - Tactical 	FMN 	Law Tac 
+153.78500 	159.09000  	KNBZ606 	RM		Fruit  City Ops 	City Ops 	FMN 	Multi-Talk 
+154.99500 	   	WXY498 	BM		NP MultiDsp 	DPW/Police/Fire - Common 	FMN 	Multi-Dispatch 
+460.43750 	465.43750  	WPPX850 	RM		Pay PD 	Police  	FMN 	Law Tac 
+154.19000 	   	KOH322 	BM		Pay Fire Dsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
+155.82000 	   	KTK532 	BM		Street Dept 	Street Dept 	FMN 	Public Works 
+460.07500 	465.07500  	WJZ97 	RM		Wies PD Dsp 	Police - Dispatch 	FMN 	Law Dispatch 
+460.15000 	465.15000  	WJZ97 	RM		Weis PD Sec 	Police - Secondary 	FMN 	Law Tac 
+Idaho Cooperative Agencies Wireless Interoperable Network (ICAWIN)	 Project 25 Phase I	 Statewide	Intermountain Gas Company	 LTR Standard	 Various	

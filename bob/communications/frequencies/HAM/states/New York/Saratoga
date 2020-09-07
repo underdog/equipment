@@ -1,61 +1,61 @@
-158.73000 	WQN723 	RM	123.0 PL	SaraCo Sheriff 	Sheriff Dispatch 	FMN 	Law Dispatch 
-158.77500 	WNMR750 	RM	123.0 PL	SaraCo 911 	911 Dispatch 	FMN 	Law Dispatch 
-154.87500 	KNED309 	RM	123.0 PL	SaraCo MRD 	Sheriff MRD 	FMN 	Law Dispatch 
-155.92500 	KBG374 	BM	123.0 PL	SaraCo FD/EMS 	Fire/EMS Alert 	FMN 	Fire Dispatch 
-46.42000 	WNDR783 	BM		SaraCo Tones 	Siren Tones 	FM 	Fire Dispatch 
-46.48000 	KNED366 	BM		MechvleTones 	Mechanicville/Waterford Siren Tones 	FM 	Fire Dispatch 
-46.28000 	 	BM		SaratogaFG C 	Fire C 	FM 	Fire-Tac 
-46.32000 	 	BM		SaratogaFG D 	Fire D/Fire Police 	FM 	Fire-Tac 
-151.49000 	WQKS945 	RM	123.0 PL	Edinburg-1 	Adirondack Area Fire Repeater 1 	FMN 	Fire-Tac 
-151.31000 	WQKS943 	RM	114.8 PL	Edinburg-2 	Adirondack Area Fire Repeater 2 	FMN 	Fire-Tac 
-154.35500 	WNLJ668 	BM	123.0 PL	SaratogaEMS 	EMS Operations 	FMN 	EMS Dispatch 
-852.25000 	WQMA469 	M	146.2 PL	Ground 1 	Saratoga County Ground 1 	FM 	Interop 
-853.13750 	WQMA469 	M	146.2 PL	Ground 2 	Saratoga County Ground 2 	FM 	Interop 
-853.77500 	WQMA469 	M	146.2 PL	Ground 3 	Saratoga County Ground 3 	FM 	Interop 
-852.93750 	 	M	146.2 PL	Tac 17G 	Tac 17G 	FM 	Interop 
-45.56000 	KNHS715 	BM		SaratogaEMA 	Emergency Management 	FM 	Emergency Ops 
-151.05500 	WPBI436 	RM		SaratogaDPW 	Saratoga County Public Works 	FMN 	Public Works 
-453.15000 	WQCP485 	F		Blston Water 	Water Department Monitors 	Telm 	Data 
-154.13750 	WRAD757 	BM		CP Fire 2 	Clifton Park Fire 	FMN 	Fire-Talk 
-156.20250 	WRAD757 	BM		CP Fire 3 	Clifton Park Fire 	FMN 	Fire-Talk 
-453.05000 	WPSM970 	RM	123.0 PL	CP Security 	Clifton Park Security 	FMN 	Security 
-158.80500 	KNJB605 	BM		GalwayDPW 	Town of Galway DPW 	FMN 	Public Works 
-151.07000 	WPNS620 	RM	146.2 PL	Halfmoon PW 	Halfmoon Town Highway Dept 	FMN 	Public Works 
-155.49000 	KNJV664 	RM	82.5 PL	Mech Police 	Mechanicville Police 	FMN 	Law Dispatch 
-155.25000 	KNJV664 	BM	82.5 PL	Mech FD Disp 	Mechanicville Fire Dispatch 	FMN 	Fire Dispatch 
-159.42000 	WQMK742 	B		Mech FD 2 	Mechanicville Fire Tac-2 	FMN 	Fire-Tac 
-159.49750 	 	BM		Mech FD 3 	Mechanicville Fire Tac-3 	FMN 	Fire-Tac 
-151.23500 	 	BM		Mech FD 4 	Mechanicville Fire Tac-4 	FMN 	Fire-Tac 
-151.20500 	 	BM		Mech FD 5 	Mechanicville Fire Tac-5 	FMN 	Fire-Tac 
-155.53500 	KEA882 	BM	123.0 PL	Sar Spgs PD 	Police (42xx units) 	FMN 	Law Tac 
-853.88750 	WQMA469 	BM	173.8 PL	SSPD Ground 	Police Ground 	FM 	Law Tac 
-460.05000 	WQOJ274 	RM	136.5 PL	SarSprgs FD 	Fire Dispatch 	FMN 	Fire-Tac 
-453.27500 	WQOJ274 	RM	136.5 PL	SarSprgs FD 	Fire Operations 	FMN 	Fire-Tac 
-159.13500 	KNIL587 	BM	123.0 PL	Sar Spgs DPW 	Saratoga Spring DPW 	FMN 	Public Works 
-155.29500 	WPEH973 	BM	151.4 PL	Sch Security 	Saratoga  Springs School Security 	FMN 	Security 
-154.57000 	 	BM	123.0 PL	Libarary570 	Saratoga Springs Library 	FMN 	Public Works 
-154.60000 	 	BM	123.0 PL	Library600 	Saratoga Springs Library 	FMN 	Public Works 
-159.17250 	WQVE556 	RM	606 DPL	SGF Fireground 	Fireground 	FMN 	Fire-Tac 
-151.55000 	WQTL870 	BM	110.9 PL	SGF FD Ops 1 	Fire Ops 1 	FMN 	Fire-Tac 
-151.79000 	WQTL870 	BM	110.9 PL	SGF FD Ops 2 	Fire Ops 2 	FMN 	Fire-Tac 
-151.79000 	WQTL870 	BM	210.7 PL	SGF Fire Police 	Fire Police 	FMN 	Fire-Talk 
-154.10000 	WQBD359 	BM		SGF DPW/PD C-C 	Public Works/PD Car to Car 	FMN 	Public Works 
-155.05500 	KJK849 	BM	123.0 PL	WFD Paging 	Fire Paging 	FMN 	Fire Dispatch 
-155.16000 	WPTW457 	BM	123.0 PL	Wtrfd EMS 1 	Rescue Squad 	FMN 	EMS-Tac 
-155.17500 	WPEH973 	BM		Wtrfd EMS 2 	Rescue Squad 	FMN 	EMS-Tac 
-155.29500 	WPEH973 	BM		Wtrfd EMS 3 	Rescue Squad 	FMN 	EMS-Tac 
-153.96500 	WNUJ399 	BM	123.0 PL	Wtrfrd DPW 	DPW 	FMN 	Public Works 
-155.32500 	WPEW346 	BM	123.0 PL	WEMS OPS 	Wilton EMS Ops 	FMN 	EMS-Tac 
-156.16500 	WPWE892 	RM		Wilton DPW 	Public Works 	FMN 	Public Works 
-159.24750 	WQEM821 	BM		EdinburghFD 	Edinburgh Fire 46.42 Interface 	FMN 	Fire Dispatch 
-151.44500 	WQKL279 	BM		Jnsville FD 	Jonesville Fire Local Alert 	FMN 	Fire-Talk 
-173.76250 	 	BM	301 NAC	NPS Saratoga 	Saratoga Monument 	P25 	Federal 
-154.48250 	KEI461 	RM	271 DPL	Skdmr PS/EMS 	Skidmore College Public Safety and EMS 	FMN 	Multi-Dispatch 
-151.71500 	KEI461 	M		Skdmr Maint 	Skidmore College Maintenance 	FMN 	Schools 
-155.22000 	KYU534 	BM	141.3 PL	BSCSD Buses 	Ballston Spa Central School District Buses 	FMN 	Schools 
-153.90500 	WQKE809 	BM		GalwayBuses 	Galway School District Buses 	FMN 	Schools 
-461.62500 	WBU254 	RM	94.8 PL	SCSD Buses 	Shenendehowa Central School District - School Bus Ops 	FMN 	Schools 
-464.93750 	WQHC538 	RM	CC 1TG *SL *	SSCSD Buses 	Saratoga Springs City School District Buses 	DMR 	Schools 
-Adirondack 2-Way Radio	 NXDN Icom IDAS Type D	 Various	Capital Digitronics (Capital District Public Safety)	 EDACS Networked Standard	 Various	Capital District Transportation Authority	 Project 25 Phase II
- Regional	Curtis Lumber	 DMR Hytera XPT	 Ballston Spa	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	OneVoice Network
- DMR Motorola Connect Plus (TRBO)	 Various	Saratoga County Public Safety	 Project 25 Phase I	 Saratoga County	
+158.73000 	154.75500  	WQN723 	RM	123.0 PL	SaraCo Sheriff 	Sheriff Dispatch 	FMN 	Law Dispatch 
+158.77500 	154.02500  	WNMR750 	RM	123.0 PL	SaraCo 911 	911 Dispatch 	FMN 	Law Dispatch 
+154.87500 	   	KNED309 	RM	123.0 PL	SaraCo MRD 	Sheriff MRD 	FMN 	Law Dispatch 
+155.92500 	   	KBG374 	BM	123.0 PL	SaraCo FD/EMS 	Fire/EMS Alert 	FMN 	Fire Dispatch 
+46.42000 	   	WNDR783 	BM		SaraCo Tones 	Siren Tones 	FM 	Fire Dispatch 
+46.48000 	   	KNED366 	BM		MechvleTones 	Mechanicville/Waterford Siren Tones 	FM 	Fire Dispatch 
+46.28000 	   	 	BM		SaratogaFG C 	Fire C 	FM 	Fire-Tac 
+46.32000 	   	 	BM		SaratogaFG D 	Fire D/Fire Police 	FM 	Fire-Tac 
+151.49000 	155.97750  	WQKS945 	RM	123.0 PL	Edinburg-1 	Adirondack Area Fire Repeater 1 	FMN 	Fire-Tac 
+151.31000 	155.60250  	WQKS943 	RM	114.8 PL	Edinburg-2 	Adirondack Area Fire Repeater 2 	FMN 	Fire-Tac 
+154.35500 	   	WNLJ668 	BM	123.0 PL	SaratogaEMS 	EMS Operations 	FMN 	EMS Dispatch 
+852.25000 	   	WQMA469 	M	146.2 PL	Ground 1 	Saratoga County Ground 1 	FM 	Interop 
+853.13750 	   	WQMA469 	M	146.2 PL	Ground 2 	Saratoga County Ground 2 	FM 	Interop 
+853.77500 	   	WQMA469 	M	146.2 PL	Ground 3 	Saratoga County Ground 3 	FM 	Interop 
+852.93750 	   	 	M	146.2 PL	Tac 17G 	Tac 17G 	FM 	Interop 
+45.56000 	   	KNHS715 	BM		SaratogaEMA 	Emergency Management 	FM 	Emergency Ops 
+151.05500 	156.10500  	WPBI436 	RM		SaratogaDPW 	Saratoga County Public Works 	FMN 	Public Works 
+453.15000 	   	WQCP485 	F		Blston Water 	Water Department Monitors 	Telm 	Data 
+154.13750 	   	WRAD757 	BM		CP Fire 2 	Clifton Park Fire 	FMN 	Fire-Talk 
+156.20250 	   	WRAD757 	BM		CP Fire 3 	Clifton Park Fire 	FMN 	Fire-Talk 
+453.05000 	   	WPSM970 	RM	123.0 PL	CP Security 	Clifton Park Security 	FMN 	Security 
+158.80500 	   	KNJB605 	BM		GalwayDPW 	Town of Galway DPW 	FMN 	Public Works 
+151.07000 	159.00000  	WPNS620 	RM	146.2 PL	Halfmoon PW 	Halfmoon Town Highway Dept 	FMN 	Public Works 
+155.49000 	151.18250  	KNJV664 	RM	82.5 PL	Mech Police 	Mechanicville Police 	FMN 	Law Dispatch 
+155.25000 	   	KNJV664 	BM	82.5 PL	Mech FD Disp 	Mechanicville Fire Dispatch 	FMN 	Fire Dispatch 
+159.42000 	   	WQMK742 	B		Mech FD 2 	Mechanicville Fire Tac-2 	FMN 	Fire-Tac 
+159.49750 	   	 	BM		Mech FD 3 	Mechanicville Fire Tac-3 	FMN 	Fire-Tac 
+151.23500 	   	 	BM		Mech FD 4 	Mechanicville Fire Tac-4 	FMN 	Fire-Tac 
+151.20500 	   	 	BM		Mech FD 5 	Mechanicville Fire Tac-5 	FMN 	Fire-Tac 
+155.53500 	   	KEA882 	BM	123.0 PL	Sar Spgs PD 	Police (42xx units) 	FMN 	Law Tac 
+853.88750 	   	WQMA469 	BM	173.8 PL	SSPD Ground 	Police Ground 	FM 	Law Tac 
+460.05000 	465.05000  	WQOJ274 	RM	136.5 PL	SarSprgs FD 	Fire Dispatch 	FMN 	Fire-Tac 
+453.27500 	458.27500  	WQOJ274 	RM	136.5 PL	SarSprgs FD 	Fire Operations 	FMN 	Fire-Tac 
+159.13500 	   	KNIL587 	BM	123.0 PL	Sar Spgs DPW 	Saratoga Spring DPW 	FMN 	Public Works 
+155.29500 	   	WPEH973 	BM	151.4 PL	Sch Security 	Saratoga  Springs School Security 	FMN 	Security 
+154.57000 	   	 	BM	123.0 PL	Libarary570 	Saratoga Springs Library 	FMN 	Public Works 
+154.60000 	   	 	BM	123.0 PL	Library600 	Saratoga Springs Library 	FMN 	Public Works 
+159.17250 	155.99250  	WQVE556 	RM	606 DPL	SGF Fireground 	Fireground 	FMN 	Fire-Tac 
+151.55000 	   	WQTL870 	BM	110.9 PL	SGF FD Ops 1 	Fire Ops 1 	FMN 	Fire-Tac 
+151.79000 	   	WQTL870 	BM	110.9 PL	SGF FD Ops 2 	Fire Ops 2 	FMN 	Fire-Tac 
+151.79000 	   	WQTL870 	BM	210.7 PL	SGF Fire Police 	Fire Police 	FMN 	Fire-Talk 
+154.10000 	   	WQBD359 	BM		SGF DPW/PD C-C 	Public Works/PD Car to Car 	FMN 	Public Works 
+155.05500 	   	KJK849 	BM	123.0 PL	WFD Paging 	Fire Paging 	FMN 	Fire Dispatch 
+155.16000 	   	WPTW457 	BM	123.0 PL	Wtrfd EMS 1 	Rescue Squad 	FMN 	EMS-Tac 
+155.17500 	   	WPEH973 	BM		Wtrfd EMS 2 	Rescue Squad 	FMN 	EMS-Tac 
+155.29500 	   	WPEH973 	BM		Wtrfd EMS 3 	Rescue Squad 	FMN 	EMS-Tac 
+153.96500 	   	WNUJ399 	BM	123.0 PL	Wtrfrd DPW 	DPW 	FMN 	Public Works 
+155.32500 	   	WPEW346 	BM	123.0 PL	WEMS OPS 	Wilton EMS Ops 	FMN 	EMS-Tac 
+156.16500 	   	WPWE892 	RM		Wilton DPW 	Public Works 	FMN 	Public Works 
+159.24750 	   	WQEM821 	BM		EdinburghFD 	Edinburgh Fire 46.42 Interface 	FMN 	Fire Dispatch 
+151.44500 	   	WQKL279 	BM		Jnsville FD 	Jonesville Fire Local Alert 	FMN 	Fire-Talk 
+173.76250 	   	 	BM	301 NAC	NPS Saratoga 	Saratoga Monument 	P25 	Federal 
+154.48250 	151.71500  	KEI461 	RM	271 DPL	Skdmr PS/EMS 	Skidmore College Public Safety and EMS 	FMN 	Multi-Dispatch 
+151.71500 	   	KEI461 	M		Skdmr Maint 	Skidmore College Maintenance 	FMN 	Schools 
+155.22000 	   	KYU534 	BM	141.3 PL	BSCSD Buses 	Ballston Spa Central School District Buses 	FMN 	Schools 
+153.90500 	   	WQKE809 	BM		GalwayBuses 	Galway School District Buses 	FMN 	Schools 
+461.62500 	466.62500  	WBU254 	RM	94.8 PL	SCSD Buses 	Shenendehowa Central School District - School Bus Ops 	FMN 	Schools 
+464.93750 	   	WQHC538 	RM	CC 1TG *SL *	SSCSD Buses 	Saratoga Springs City School District Buses 	DMR 	Schools 
+Adirondack 2-Way Radio	 NXDN Icom IDAS Type D	 Various	Capital Digitronics (Capital District Public Safety)	 EDACS Networked Standard	 Various	Capital District Transportation Authority	 Project 25 Phase II	 Regional
+Curtis Lumber	 DMR Hytera XPT	 Ballston Spa	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various
+Saratoga County Public Safety	 Project 25 Phase I	 Saratoga County	

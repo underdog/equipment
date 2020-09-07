@@ -1,28 +1,28 @@
-154.06250 	WPTG353 	RM	203.5 PL	MorgCo SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.94750 	WPTD554 	BM	173.8 PL	MorgCo SO 3 	Sheriff 3 	FMN 	Law Talk 
-154.00250 	WQFI615 	RM	664 DPL	MorgCoSO 6 	Sheriff 6 	FMN 	Law Tac 
-155.47500 	WPTD554 	BM	CSQ	MorgCoSO 7 	Sheriff 7 Mutual Aid 	FMN 	Interop 
-152.00750 	WQGI416 	BM	311 DPL	MorgCoFDB Pg 	Fire/Rescue - Paging - Berkeley Springs 	FMN 	Fire Dispatch 
-155.14500 	WPTD554 	BM	311 DPL	MorgCoFDR Pg 	Fire/Rescue - Paging - Cacapon 	FMN 	Fire Dispatch 
-33.02000 	WPTD554 	BM	77.0 PL	MorgCoFDRg33 	Fire 1 - Ridge 	FMN 	Fire-Tac 
-45.28000 	KQK497 	BM	88.5 PL	MorgCoFDRg45 	Fire 1 - Ridge 	FM 	Fire-Tac 
-220.83750 	WQEY589 	RM	67.0 PL	MorgCoFDR220 	Fire 1 - Ridge 	USB 	Fire-Tac 
-453.33750 	WQCD315 	RM	241.8 PL	MorgCoFDR450 	Fire 1 - Ridge 	FMN 	Fire-Tac 
-151.10750 	WQFI383 	RM	466 DPL	MorgCoFDWMH 	Fire/EMS 1 - War Memorial Hospital 	FMN 	Fire-Tac 
-151.34000 	WQFI383 	RM		MorgCoFDNMtn 	Fire/EMS 1 - North Mountain 	FMN 	Fire-Tac 
-154.08500 	WQGI416 	RM	173.8 PL	MorgCoFDPPSG 	Fire/EMS 1 - Paw Paw/Spring Gap 	FMN 	Fire-Tac 
-154.12250 	WPTG353 	RM	466 DPL	MorgCoFDCM 1 	Fire/EMS 1 - Cacapon 	FMN 	Fire-Tac 
-154.18250 	WPTG353 	RM	411 DPL	MorgCoFDCM 2 	Fire/EMS 2 - Cacapon 	FMN 	Fire-Tac 
-155.94750 	 WPTD554 	BM	445 DPL	MorgCoFDCM 3 	Fire/EMS 3 - Cacapon 	FMN 	Fire-Tac 
-153.80000 	WQFI615 	M	100.0 PL	MorgCoFD Fg4 	Fire 4 - Fireground 	FMN 	Fire-Tac 
-154.30250 	 	M	100.0 PL	MorgCoFD Fg5 	Fire 5 - Fireground 	FMN 	Fire-Tac 
-854.86250 	 	BM	023 DPL	MorgCo PSAP 	Fire 3-1 talkaround 	FM 	Fire-Tac 
-154.28000 	WPTD554 	BM	CSQ	MorgCoFDMuA 	Fire Mutual Aid 	FMN 	Fire-Tac 
-155.70750 	WPTG353 	RM	466 DPL	MorgCo OES 	Office of Emergency Services 	FMN 	Emergency Ops 
-155.34000 	WPTD554  	BM	114.8 PL	War Memorial Hos 	War Memorial Hospital 	FMN 	Hospital 
-153.76250 	WQFI383 	BM	100.0 PL	BrklySpr PD Tac 	Police Tactical 	FMN 	Law Tac 
-154.43000 	WNEB845 	BM		SMorganCoVFD 	South Morgan County Fire 	FMN 	Fire-Tac 
-33.50000 	KSJ487 	BM		Great Cacapon FD 	Fire 	FM 	Fire-Tac 
-46.14000 	KGV267 	BM		Paw Paw Fire 	Fire 	FM 	Fire-Talk 
-37.28000 	WZG266 	B		Paw Paw DPW 	Public Works 	FM 	Public Works 
-First Energy	 Project 25 Phase I	 Various	West Virginia Statewide Interoperability Radio Network (SIRN) 	 Project 25 Phase I	 Statewide	
+154.06250 	156.24000  	WPTG353 	RM	203.5 PL	MorgCo SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.94750 	   	WPTD554 	BM	173.8 PL	MorgCo SO 3 	Sheriff 3 	FMN 	Law Talk 
+154.00250 	156.03750  	WQFI615 	RM	664 DPL	MorgCoSO 6 	Sheriff 6 	FMN 	Law Tac 
+155.47500 	   	WPTD554 	BM	CSQ	MorgCoSO 7 	Sheriff 7 Mutual Aid 	FMN 	Interop 
+152.00750 	   	WQGI416 	BM	311 DPL	MorgCoFDB Pg 	Fire/Rescue - Paging - Berkeley Springs 	FMN 	Fire Dispatch 
+155.14500 	   	WPTD554 	BM	311 DPL	MorgCoFDR Pg 	Fire/Rescue - Paging - Cacapon 	FMN 	Fire Dispatch 
+33.02000 	   	WPTD554 	BM	77.0 PL	MorgCoFDRg33 	Fire 1 - Ridge 	FMN 	Fire-Tac 
+45.28000 	   	KQK497 	BM	88.5 PL	MorgCoFDRg45 	Fire 1 - Ridge 	FM 	Fire-Tac 
+220.83750 	221.83750  	WQEY589 	RM	67.0 PL	MorgCoFDR220 	Fire 1 - Ridge 	USB 	Fire-Tac 
+453.33750 	458.33750  	WQCD315 	RM	241.8 PL	MorgCoFDR450 	Fire 1 - Ridge 	FMN 	Fire-Tac 
+151.10750 	156.06750  	WQFI383 	RM	466 DPL	MorgCoFDWMH 	Fire/EMS 1 - War Memorial Hospital 	FMN 	Fire-Tac 
+151.34000 	156.06750  	WQFI383 	RM		MorgCoFDNMtn 	Fire/EMS 1 - North Mountain 	FMN 	Fire-Tac 
+154.08500 	156.06750  	WQGI416 	RM	173.8 PL	MorgCoFDPPSG 	Fire/EMS 1 - Paw Paw/Spring Gap 	FMN 	Fire-Tac 
+154.12250 	156.06750  	WPTG353 	RM	466 DPL	MorgCoFDCM 1 	Fire/EMS 1 - Cacapon 	FMN 	Fire-Tac 
+154.18250 	156.14250  	WPTG353 	RM	411 DPL	MorgCoFDCM 2 	Fire/EMS 2 - Cacapon 	FMN 	Fire-Tac 
+155.94750 	   	 WPTD554 	BM	445 DPL	MorgCoFDCM 3 	Fire/EMS 3 - Cacapon 	FMN 	Fire-Tac 
+153.80000 	   	WQFI615 	M	100.0 PL	MorgCoFD Fg4 	Fire 4 - Fireground 	FMN 	Fire-Tac 
+154.30250 	   	 	M	100.0 PL	MorgCoFD Fg5 	Fire 5 - Fireground 	FMN 	Fire-Tac 
+854.86250 	   	 	BM	023 DPL	MorgCo PSAP 	Fire 3-1 talkaround 	FM 	Fire-Tac 
+154.28000 	   	WPTD554 	BM	CSQ	MorgCoFDMuA 	Fire Mutual Aid 	FMN 	Fire-Tac 
+155.70750 	156.18750  	WPTG353 	RM	466 DPL	MorgCo OES 	Office of Emergency Services 	FMN 	Emergency Ops 
+155.34000 	   	WPTD554  	BM	114.8 PL	War Memorial Hos 	War Memorial Hospital 	FMN 	Hospital 
+153.76250 	   	WQFI383 	BM	100.0 PL	BrklySpr PD Tac 	Police Tactical 	FMN 	Law Tac 
+154.43000 	   	WNEB845 	BM		SMorganCoVFD 	South Morgan County Fire 	FMN 	Fire-Tac 
+33.50000 	   	KSJ487 	BM		Great Cacapon FD 	Fire 	FM 	Fire-Tac 
+46.14000 	   	KGV267 	BM		Paw Paw Fire 	Fire 	FM 	Fire-Talk 
+37.28000 	   	WZG266 	B		Paw Paw DPW 	Public Works 	FM 	Public Works 
+First Energy	 Project 25 Phase I	 Various	

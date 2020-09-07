@@ -1,17 +1,17 @@
-453.47500 	KSS816 	RM	156.7 PL	Salem FD 1 	Fire/Rescue 	FM 	Fire Dispatch 
-460.17500 	KSS816 	RM	156.7 PL	Salem FD 2 	Fire/Rescue 	FM 	Fire-Tac 
-453.60000 	KSS816 	RM	156.7 PL	Salem FD 3 	Fire/Rescue 	FM 	Fire-Tac 
-460.10000 	KSS816 	RM	156.7 PL	Salem FD 4 	Fire/Rescue 	FM 	Fire-Tac 
-453.22500 	KSS816 	RM	156.7 PL	Salem PD 1 	Police 	FM 	Law Dispatch 
-453.95000 	KSS816 	RM	156.7 PL	Salem PD 2 	Police 	FM 	Law Tac 
-453.32500 	KSS816 	RM	156.7 PL	Salem PD 3 	Police 	FM 	Law Tac 
-453.81250 	 	RM	151.4 PL	Salem SO 	Sheriff's Office 	FM 	Law Dispatch 
-152.88500 	 	BM	CSQ	SalemCivic 1 	Salem Civic Facilities 1 	FM 	Public Works 
-158.76000 	WQN838 	BM	103.5 PL	SalemCivic 2 	Salem Civic Facilities 2 	FM 	Public Works 
-453.42500 	KSS816 	RM	156.7 PL	Salem Power 	Public Works - Power 	FM 	Public Works 
-453.55000 	KSS816 	RM	156.7 PL	Salem Trash 	Public Works - Trash 	FM 	Public Works 
-151.95500 	KLM895 	RM	173.8 PL	RoanCollMnt1 	Roanoke College - Maintenance (Ch. 1) 	FMN 	Business 
-151.80500 	KLM895 	BM	82.5 PL	RoanCollMnt2 	Roanoke College - Maintenance (Ch. 2) 	FMN 	Business 
-452.43750 	WPPG614 	RM	100.0 PL	Salem Schls 	Salem Schools 	FM 	Schools 
-464.92500 	WPKE434 	M		Salem Schls 	Salem Schools 	FM 	Schools 
+453.47500 	458.47500  	KSS816 	RM	156.7 PL	Salem FD 1 	Fire/Rescue 	FM 	Fire Dispatch 
+460.17500 	   	KSS816 	RM	156.7 PL	Salem FD 2 	Fire/Rescue 	FM 	Fire-Tac 
+453.60000 	458.60000  	KSS816 	RM	156.7 PL	Salem FD 3 	Fire/Rescue 	FM 	Fire-Tac 
+460.10000 	   	KSS816 	RM	156.7 PL	Salem FD 4 	Fire/Rescue 	FM 	Fire-Tac 
+453.22500 	458.22500  	KSS816 	RM	156.7 PL	Salem PD 1 	Police 	FM 	Law Dispatch 
+453.95000 	458.95000  	KSS816 	RM	156.7 PL	Salem PD 2 	Police 	FM 	Law Tac 
+453.32500 	458.32500  	KSS816 	RM	156.7 PL	Salem PD 3 	Police 	FM 	Law Tac 
+453.81250 	458.81250  	 	RM	151.4 PL	Salem SO 	Sheriff's Office 	FM 	Law Dispatch 
+152.88500 	   	 	BM	CSQ	SalemCivic 1 	Salem Civic Facilities 1 	FM 	Public Works 
+158.76000 	   	WQN838 	BM	103.5 PL	SalemCivic 2 	Salem Civic Facilities 2 	FM 	Public Works 
+453.42500 	458.42500  	KSS816 	RM	156.7 PL	Salem Power 	Public Works - Power 	FM 	Public Works 
+453.55000 	458.55000  	KSS816 	RM	156.7 PL	Salem Trash 	Public Works - Trash 	FM 	Public Works 
+151.95500 	159.56250  	KLM895 	RM	173.8 PL	RoanCollMnt1 	Roanoke College - Maintenance (Ch. 1) 	FMN 	Business 
+151.80500 	   	KLM895 	BM	82.5 PL	RoanCollMnt2 	Roanoke College - Maintenance (Ch. 2) 	FMN 	Business 
+452.43750 	457.43750  	WPPG614 	RM	100.0 PL	Salem Schls 	Salem Schools 	FM 	Schools 
+464.92500 	   	WPKE434 	M		Salem Schls 	Salem Schools 	FM 	Schools 
 American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	Roanoke (P25)	 Project 25 Phase II	 Various	

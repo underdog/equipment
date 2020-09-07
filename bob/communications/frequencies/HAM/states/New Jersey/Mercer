@@ -1,61 +1,60 @@
-453.57500 	WPKJ922 	RM	103.5 PL	MCSD 1 Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-453.62500 	WPKJ922 	RM	167.9 PL	MCSD 2 	Sheriff Tactical 	FMN 	Law Tac 
-453.22500 	WYR741 	RM	103.5 PL	MC Alert 	County Crime Alert (Licensed to Ewing Twp.) 	FMN 	Law Tac 
-453.92500 	WPCT502 	M	131.8 PL	MC DOC 	County Department of Corrections (Low Power) 	FMN 	Law Tac 
-154.43000 	KSO869 	BM	103.5 PL	MC FD/EMS  	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-154.26500 	KSO869 	BM	103.5 PL	MC FD Stwd 	Statewide 	FMN 	Interop 
-460.36250 	WQRM564 	BM	103.5 PL	MC FD Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
-460.33750 	WQRM564 	BM	103.5 PL	MC FD Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
-465.33750 	WQRM564 	BM	103.5 PL	MC FD Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
-458.31250 	WQRM564 	BM	103.5 PL	MC FD Tac 4 	Fire Tactical 4 	FMN 	Fire-Tac 
-458.51250 	WQRM564 	BM	103.5 PL	MC FD Tac 5 	Fire Tactical 5 	FMN 	Fire-Tac 
-465.36250 	WQRM564 	BM	103.5 PL	MC FD Tac 6 	Fire Tactical 6 	FMN 	Fire-Tac 
-453.17500 	WQRM564 	BM	103.5 PL	MC FD Ops 1 	Fire Ops 1 	FMN 	Fire-Talk 
-453.51250 	WQRM564 	BM	103.5 PL	MC FD Ops 2 	Fire Ops 2 	FMN 	Fire-Talk 
-453.31250 	WQRM564 	BM	103.5 PL	MC FD Ops 3 	Fire Ops 3 	FMN 	Fire-Talk 
-453.58750 	WQRM564 	BM	103.5 PL	MC FD Ops 4 	Fire Ops 4 	FMN 	Fire-Talk 
-458.58750 	WQRM564 	BM	103.5 PL	MC FD Ops 5 	Fire Ops 5 	FMN 	Fire-Talk 
-453.27500 	WNSB346 	RM	151.4 PL	MC Rangers 	County Park Rangers 	FMN 	Public Works 
-151.04000 	KEE552 	RM	151.4 PL	MC DPW 	County Department of Public Works 	FMN 	Public Works 
-154.02500 	KJW326 	RM	71.9 PL	EW EMS 	EMS Dispatch & Operations 	FM 	EMS Dispatch 
-460.35000 	WPDA304 	RM	103.5 PL	EW PD 1 	Police Dispatch 	FMN 	Law Dispatch 
-460.15000 	WPDA304 	RM	103.5 PL	EW PD 2 	Police Tactical 	FMN 	Law Tac 
-156.12000 	KDO212 	RM		EW DPW 	Department of Public Works 	FMN 	Public Works 
-155.05500 	WPBX252 	BM	103.5 PL	EWT DPW 	Department of Public Works 	FMN 	Public Works 
-453.10000 	KNEA917 	RM	103.5 PL	EWT PD B/U 	Police Trunk System Back-Up and Special Events 	FMN 	Law Tac 
-453.52500 	WPTY620 	RM	293 NAC	HT PD 1 	Police Dispatch 	P25 	Law Dispatch 
-460.07500 	KNCS282 	RM	293 NAC	HT PD 2 	Police Operations 	P25 	Law Talk 
-460.45000 	KNCS282 	RM	103.5 PL	HT PD 3 	Police Operations 	FMN 	Law Talk 
-458.22500 	WPTY620 	BM		HT PD 4 	Police Tactical / Special Events 	FMN 	Law Tac 
-453.18750 	WPIW453 	M		HT DPW 	Water & Sewer 	FMN 	Public Works 
-453.70000 	KVV724 	RM	156.7 PL	HighTs PD 	Police Dispatch 	FMN 	Law Dispatch 
-158.74500 	WPUX956 	BM		HighTs DPW 	Department of Public Works 	FMN 	Public Works 
-154.13000 	WNNH234 	BM	103.5 PL	Hopwl F/E Ds 	Fire and EMS Dispatch 	FMN 	Fire Dispatch 
-453.37500 	WPMZ799 	RM	103.5 PL	Hopwl PD  	Police (Trunk Patch / Local) 	FMN 	Law Talk 
-453.82500 	KA35555 	RM	103.5 PL	LTPD 5 	Police TRS Backup 	FMN 	Law Tac 
-453.42500 	WQFP264 	RM	186.2 PL	LTPD Tac 	Police Secondary Backup 	FMN 	Law Tac 
-155.04000 	WPPA512 	RM	152 DPL	LTDPW 	Public Works 	FMN 	Public Works 
-451.62500 	WQWZ974 	RM		LTBOE Buses 	Board Of Education - School Buses 	FMN 	Schools 
-453.67500 	KED993 	RM	F14 NAC	PPD 1 Disp 	Police Dispatch 	P25e 	Law Dispatch 
-453.67500 	KED993 	RM	103.5 PL	PPD 1A Disp  	Police Dispatch (Analog) 	FMN 	Law Dispatch 
-460.26250 	WPMJ718 	RM	201 NAC	PPD Tac 1 	Police Tac 1   	P25E 	Law Tac 
-158.80500 	KEI901 	RM	151.4 PL	PFD EMS 1 	Fire & EMS Disp/Ops 	FMN 	Fire Dispatch 
-155.82750 	WPRV636 	RM	131 DPL	PFARS EMS 2 	EMS 2  	FMN 	EMS-Tac 
-158.74500 	WPKY607 	RM	CC 13TG 1SL 1	PEMS DMR 	EMS Operations 	DMR 	EMS-Talk 
-460.12500 	WNPA545 	RM	103.5 PL	Rbvl PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
-460.27500 	WNPA545 	RM	103.5 PL	Rbvl PD 2 	Police 2 	FMN 	Law Tac 
-453.60000 	WNPA545 	RM		Rbvl PD 3 	Police 3 	FMN 	Law Tac 
-460.57500 	KED796 	RM	103.5 PL	Trenton FD 	Fire Dispatch NXDN Simulcast 	FMN 	Fire Dispatch 
-460.60000 	KED796 	RM	103.5 PL	Trenton PD 	Police Dispatch NXDN Simulcast 	FMN 	Law Dispatch 
-453.32500 	WPUY272 	RM	103.5 PL	WWin Police 	Police  	FMN 	Law Dispatch 
-155.89500 	KSL309 	BM	94.8 PL	CNJ EMS 	EMS Dispatch 	FM 	EMS Dispatch 
-463.42500 	WPRM546 	RM		CNJ PD 	Police   	DMRE 	Law Dispatch 
-151.86500 	 	M	131.8 PL	NJSD Sec. 	Security Operations 	FM 	Security 
-464.06250 	WPBU774 	RM	192.8 PL	RiderU Safty 	Public Safety 	FMN 	Security 
-467.95000 	WPBU774 	M		RiderU Escrt 	Student Escort 	FMN 	Security 
-Bowen Communications	 LTR Standard	 Hamilton	First Energy	 Project 25 Phase I	 Various	FleetCall	 NXDN NEXEDGE 4800
- Various	Interstate Repeater System	 DMR Conventional Networked	 Various	Mercer County Interoperable Public Safety Radio System	 Project 25 Phase I	 Mercer County	MPS Communications (City of Trenton)
- NXDN NEXEDGE 4800	 Trenton	New Jersey Interoperability Communications System (NJICS)	 Project 25 Phase II	 Statewide	New Jersey State Police	 Motorola Type II SmartZone Omnilink	 Statewide
-New Jersey Transit	 TETRA Standard	 Statewide	New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide	OneVoice Network	 DMR Motorola Connect Plus (TRBO)
- Various	Princeton University	 Project 25 Phase I	 Princeton Borough	Public Service Electric and Gas Company	 Project 25 Phase II	 Various	TeamConnect
- DMR Motorola Connect Plus (TRBO)	 Various	TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various	
+453.57500 	458.57500  	WPKJ922 	RM	103.5 PL	MCSD 1 Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+453.62500 	458.62500  	WPKJ922 	RM	167.9 PL	MCSD 2 	Sheriff Tactical 	FMN 	Law Tac 
+453.22500 	458.22500  	WYR741 	RM	103.5 PL	MC Alert 	County Crime Alert (Licensed to Ewing Twp.) 	FMN 	Law Tac 
+453.92500 	   	WPCT502 	M	131.8 PL	MC DOC 	County Department of Corrections (Low Power) 	FMN 	Law Tac 
+154.43000 	   	KSO869 	BM	103.5 PL	MC FD/EMS  	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.26500 	   	KSO869 	BM	103.5 PL	MC FD Stwd 	Statewide 	FMN 	Interop 
+460.36250 	   	WQRM564 	BM	103.5 PL	MC FD Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
+460.33750 	   	WQRM564 	BM	103.5 PL	MC FD Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
+465.33750 	   	WQRM564 	BM	103.5 PL	MC FD Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
+458.31250 	   	WQRM564 	BM	103.5 PL	MC FD Tac 4 	Fire Tactical 4 	FMN 	Fire-Tac 
+458.51250 	   	WQRM564 	BM	103.5 PL	MC FD Tac 5 	Fire Tactical 5 	FMN 	Fire-Tac 
+465.36250 	   	WQRM564 	BM	103.5 PL	MC FD Tac 6 	Fire Tactical 6 	FMN 	Fire-Tac 
+453.17500 	   	WQRM564 	BM	103.5 PL	MC FD Ops 1 	Fire Ops 1 	FMN 	Fire-Talk 
+453.51250 	   	WQRM564 	BM	103.5 PL	MC FD Ops 2 	Fire Ops 2 	FMN 	Fire-Talk 
+453.31250 	   	WQRM564 	BM	103.5 PL	MC FD Ops 3 	Fire Ops 3 	FMN 	Fire-Talk 
+453.58750 	   	WQRM564 	BM	103.5 PL	MC FD Ops 4 	Fire Ops 4 	FMN 	Fire-Talk 
+458.58750 	   	WQRM564 	BM	103.5 PL	MC FD Ops 5 	Fire Ops 5 	FMN 	Fire-Talk 
+453.27500 	458.27500  	WNSB346 	RM	151.4 PL	MC Rangers 	County Park Rangers 	FMN 	Public Works 
+151.04000 	156.13500  	KEE552 	RM	151.4 PL	MC DPW 	County Department of Public Works 	FMN 	Public Works 
+154.02500 	153.74000  	KJW326 	RM	71.9 PL	EW EMS 	EMS Dispatch & Operations 	FM 	EMS Dispatch 
+460.35000 	465.35000  	WPDA304 	RM	103.5 PL	EW PD 1 	Police Dispatch 	FMN 	Law Dispatch 
+460.15000 	465.15000  	WPDA304 	RM	103.5 PL	EW PD 2 	Police Tactical 	FMN 	Law Tac 
+156.12000 	151.08500  	KDO212 	RM		EW DPW 	Department of Public Works 	FMN 	Public Works 
+155.05500 	   	WPBX252 	BM	103.5 PL	EWT DPW 	Department of Public Works 	FMN 	Public Works 
+453.10000 	458.10000  	KNEA917 	RM	103.5 PL	EWT PD B/U 	Police Trunk System Back-Up and Special Events 	FMN 	Law Tac 
+453.52500 	458.52500  	WPTY620 	RM	293 NAC	HT PD 1 	Police Dispatch 	P25 	Law Dispatch 
+460.07500 	465.07500  	KNCS282 	RM	293 NAC	HT PD 2 	Police Operations 	P25 	Law Talk 
+460.45000 	465.45000  	KNCS282 	RM	103.5 PL	HT PD 3 	Police Operations 	FMN 	Law Talk 
+458.22500 	   	WPTY620 	BM		HT PD 4 	Police Tactical / Special Events 	FMN 	Law Tac 
+453.18750 	   	WPIW453 	M		HT DPW 	Water & Sewer 	FMN 	Public Works 
+453.70000 	458.70000  	KVV724 	RM	156.7 PL	HighTs PD 	Police Dispatch 	FMN 	Law Dispatch 
+158.74500 	   	WPUX956 	BM		HighTs DPW 	Department of Public Works 	FMN 	Public Works 
+154.13000 	   	WNNH234 	BM	103.5 PL	Hopwl F/E Ds 	Fire and EMS Dispatch 	FMN 	Fire Dispatch 
+453.37500 	458.37500  	WPMZ799 	RM	103.5 PL	Hopwl PD  	Police (Trunk Patch / Local) 	FMN 	Law Talk 
+453.82500 	458.82500  	KA35555 	RM	103.5 PL	LTPD 5 	Police TRS Backup 	FMN 	Law Tac 
+453.42500 	458.42500  	WQFP264 	RM	186.2 PL	LTPD Tac 	Police Secondary Backup 	FMN 	Law Tac 
+155.04000 	159.00000  	WPPA512 	RM	152 DPL	LTDPW 	Public Works 	FMN 	Public Works 
+451.62500 	456.62500  	WQWZ974 	RM		LTBOE Buses 	Board Of Education - School Buses 	FMN 	Schools 
+453.67500 	458.67500  	KED993 	RM	F14 NAC	PPD 1 Disp 	Police Dispatch 	P25e 	Law Dispatch 
+453.67500 	458.67500  	KED993 	RM	103.5 PL	PPD 1A Disp  	Police Dispatch (Analog) 	FMN 	Law Dispatch 
+460.26250 	465.26250  	WPMJ718 	RM	201 NAC	PPD Tac 1 	Police Tac 1   	P25E 	Law Tac 
+158.80500 	153.93500  	KEI901 	RM	151.4 PL	PFD EMS 1 	Fire & EMS Disp/Ops 	FMN 	Fire Dispatch 
+155.82750 	153.85250  	WPRV636 	RM	131 DPL	PFARS EMS 2 	EMS 2  	FMN 	EMS-Tac 
+158.74500 	156.01500  	WPKY607 	RM	CC 13TG 1SL 1	PEMS DMR 	EMS Operations 	DMR 	EMS-Talk 
+460.12500 	465.12500  	WNPA545 	RM	103.5 PL	Rbvl PD Disp 	Police Dispatch 	FMN 	Law Dispatch 
+460.27500 	465.27500  	WNPA545 	RM	103.5 PL	Rbvl PD 2 	Police 2 	FMN 	Law Tac 
+453.60000 	458.60000  	WNPA545 	RM		Rbvl PD 3 	Police 3 	FMN 	Law Tac 
+460.57500 	465.57500  	KED796 	RM	103.5 PL	Trenton FD 	Fire Dispatch NXDN Simulcast 	FMN 	Fire Dispatch 
+460.60000 	465.60000  	KED796 	RM	103.5 PL	Trenton PD 	Police Dispatch NXDN Simulcast 	FMN 	Law Dispatch 
+453.32500 	458.32500  	WPUY272 	RM	103.5 PL	WWin Police 	Police  	FMN 	Law Dispatch 
+155.89500 	   	KSL309 	BM	94.8 PL	CNJ EMS 	EMS Dispatch 	FM 	EMS Dispatch 
+463.42500 	468.42500  	WPRM546 	RM		CNJ PD 	Police   	DMRE 	Law Dispatch 
+151.86500 	   	 	M	131.8 PL	NJSD Sec. 	Security Operations 	FM 	Security 
+464.06250 	469.06250  	WPBU774 	RM	192.8 PL	RiderU Safty 	Public Safety 	FMN 	Security 
+467.95000 	   	WPBU774 	M		RiderU Escrt 	Student Escort 	FMN 	Security 
+Bowen Communications	 LTR Standard	 Hamilton	First Energy	 Project 25 Phase I	 Various	FleetCall	 NXDN NEXEDGE 4800	 Various
+Interstate Repeater System	 DMR Conventional Networked	 Various	Mercer County Interoperable Public Safety Radio System	 Project 25 Phase I	 Mercer County	MPS Communications (City of Trenton)	 NXDN NEXEDGE 4800	 Trenton
+New Jersey Transit	 TETRA Standard	 Statewide	New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various
+Princeton University	 Project 25 Phase I	 Princeton Borough	Public Service Electric and Gas Company	 Project 25 Phase II	 Various	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various
+TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various	

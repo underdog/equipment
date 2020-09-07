@@ -1,24 +1,23 @@
-151.40000 	 	M	CC 8TG 102SL 2	C2C LOCAL DMR 	Car to Car Local Simplex 	DMR 	Law Talk 
-154.71000 	WRI210 	M		BlkfrdSOTAC1 	Sheriff - Tac 1 	FMN 	Law Tac 
-156.15000 	WRI210 	BM		BlkfrdSOTAC2 	Sheriff - Tac 2 Jail 	FMN 	Law Tac 
-154.78500 	WRI210 	M		BlkfrdSOTAC3 	Sheriff - Tac 3 	FMN 	Law Tac 
-155.13000 	WRI210 	BM	CSQ	Blkfrd SO 	Sheriff/Police - Talkaround 	FMN 	Law Talk 
-154.74000 	WRI210 	M		3CntyNarcs 	Tri-County Narcotics Team 	FMN 	Law Tac 
-155.53500 	WPKJ434 	BM		BlkfrdCrtns 	Community Corrections 	FMN 	Law Tac 
-151.04000 	WRI210 	RM	114.8 PL	BlkfrdFDDsp 	Fire-EMS Dispatch 	FMN 	Fire Dispatch 
-155.88000 	WPLF543 	BM	CSQ	Blkfrd FD/EM 	Fire-EMS 	FMN 	Fire Dispatch 
-154.16000 	WPKF443 	BM		BlkfrdFD FRG 	Fireground 	FMN 	Fire-Tac 
-154.54000 	KZU922 	BM	114.8 PL	Blkfrd Hsp D 	Hospital Dispatch 	FMN 	Hospital 
-153.49250 	KZU922 	RM		BCH REPEATER 	BCH Repeater 	FMN 	Hospital 
-155.68500 	KXW344 	BM	CSQ	Blkfrd EMA 	County EMA 	FMN 	Emergency Ops 
-155.02500 	KXW344 	B		IN EMA 	Statewide EMA 	FMN 	Emergency Ops 
-854.96250 	WPMA363 	RM	723 DPL	Blkfrd Hiway 	Highway Dept. 	FM 	Public Works 
-155.88000 	KAH374 	BM		MntplrFD/EMS 	Montpelier Fire & EMS 	FMN 	Fire Dispatch 
-151.07000 	WRFN802 	RM		Hartford PD 	Hartford City Police Department 	DMR 	Public Works 
-156.13500 	WPMP971 	BM	261 DPL	Hrtfrd DPWTA 	Hartford City DPW - Tactical 	FMN 	Public Works 
-155.96250 	 			HrtfrdMuni1 	Hartford City Channel 1 	FMN 	Public Works 
-153.98750 	 			HrtfrdMuni2 	Hartford City Channel 2 	FMN 	Public Works 
-154.06250 	 			HrtfrdMuni3T 	Hartford City Channel 3 TAC 	FMN 	Public Works 
-155.17500 	KNCY712 	BM	77.0 PL	Blkfrd Skls 	Buses 	FMN 	Schools 
-American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	Blackford County	 DMR Conventional Networked	 Various	Indiana Project Hoosier SAFE-T	 Project 25 Phase I
- Statewide	
+151.40000 	   	 	M	CC 8TG 102SL 2	C2C LOCAL DMR 	Car to Car Local Simplex 	DMR 	Law Talk 
+154.71000 	   	WRI210 	M		BlkfrdSOTAC1 	Sheriff - Tac 1 	FMN 	Law Tac 
+156.15000 	   	WRI210 	BM		BlkfrdSOTAC2 	Sheriff - Tac 2 Jail 	FMN 	Law Tac 
+154.78500 	   	WRI210 	M		BlkfrdSOTAC3 	Sheriff - Tac 3 	FMN 	Law Tac 
+155.13000 	   	WRI210 	BM	CSQ	Blkfrd SO 	Sheriff/Police - Talkaround 	FMN 	Law Talk 
+154.74000 	   	WRI210 	M		3CntyNarcs 	Tri-County Narcotics Team 	FMN 	Law Tac 
+155.53500 	158.89500  	WPKJ434 	BM		BlkfrdCrtns 	Community Corrections 	FMN 	Law Tac 
+151.04000 	159.18000  	WRI210 	RM	114.8 PL	BlkfrdFDDsp 	Fire-EMS Dispatch 	FMN 	Fire Dispatch 
+155.88000 	   	WPLF543 	BM	CSQ	Blkfrd FD/EM 	Fire-EMS 	FMN 	Fire Dispatch 
+154.16000 	   	WPKF443 	BM		BlkfrdFD FRG 	Fireground 	FMN 	Fire-Tac 
+154.54000 	   	KZU922 	BM	114.8 PL	Blkfrd Hsp D 	Hospital Dispatch 	FMN 	Hospital 
+153.49250 	158.24250  	KZU922 	RM		BCH REPEATER 	BCH Repeater 	FMN 	Hospital 
+155.68500 	   	KXW344 	BM	CSQ	Blkfrd EMA 	County EMA 	FMN 	Emergency Ops 
+155.02500 	   	KXW344 	B		IN EMA 	Statewide EMA 	FMN 	Emergency Ops 
+854.96250 	809.96250  	WPMA363 	RM	723 DPL	Blkfrd Hiway 	Highway Dept. 	FM 	Public Works 
+155.88000 	   	KAH374 	BM		MntplrFD/EMS 	Montpelier Fire & EMS 	FMN 	Fire Dispatch 
+151.07000 	156.12000  	WRFN802 	RM		Hartford PD 	Hartford City Police Department 	DMR 	Public Works 
+156.13500 	   	WPMP971 	BM	261 DPL	Hrtfrd DPWTA 	Hartford City DPW - Tactical 	FMN 	Public Works 
+155.96250 	   	 			HrtfrdMuni1 	Hartford City Channel 1 	FMN 	Public Works 
+153.98750 	   	 			HrtfrdMuni2 	Hartford City Channel 2 	FMN 	Public Works 
+154.06250 	   	 			HrtfrdMuni3T 	Hartford City Channel 3 TAC 	FMN 	Public Works 
+155.17500 	   	KNCY712 	BM	77.0 PL	Blkfrd Skls 	Buses 	FMN 	Schools 
+American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	Blackford County	 DMR Conventional Networked	 Various	

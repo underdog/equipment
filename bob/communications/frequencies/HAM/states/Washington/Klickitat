@@ -1,28 +1,28 @@
-152.00750 	WQEM301 	B	100.0 PL	KCFD Paging 	Fire Paging 	FMN 	Fire Dispatch 
-154.13000 	KCU308 	RM	162.2 PL	KCFD Disp 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
-154.07000 	WQCY932 	BM	82.5 PL	KCFD Tac 1 	Fire Tac 1 	FMN 	Fire-Tac 
-154.35500 	WQCY932 	BM	82.5 PL	KCFD Tac 2 	Fire Tac 2 	FMN 	Fire-Tac 
-154.40000 	WQCY932 	BM	82.5 PL	KCFD Tac 3 	Fire Tac 3 	FMN 	Fire-Tac 
-154.08500 	 	RM	110.9 PL	KCFD Ops Cent 	Fire Operations Central 	FMN 	Fire-Tac 
-154.89000 	 	RM	97.4 PL	KCFD Ops West 	Fire Operations West 	FMN 	Fire-Tac 
-155.74500 	 	RM	118.8 PL	KCFD Ops East 	Fire Operations East 	FMN 	Fire-Tac 
-154.41500 	WPGD909 	RM	162.2 PL	KCFD D7 Ch 3 	Rural 7 Fire and Rescue - Ch 3 	FMN 	Fire-Talk 
-154.29500 	WQEI960 	RM	91.5 PL	KCFD OPS 	Operations Tac 	FMN 	Fire-Tac 
-154.10750 	 	RM	565 DPL	KCFD Port Rptr 	Fire Portable Repeater 	FMN 	Fire-Tac 
-155.38500 	WPCT636 	BM		KC EMS Disp 	EMS - Dispatch 	FMN 	EMS Dispatch 
-159.11250 	WQHN666 	M		KC SAR 	Search & Rescue 	FMN 	EMS-Talk 
-154.10750 	WQHN666 	M		KC SAR 	Search & Rescue 	FMN 	EMS-Talk 
-153.84500 	WNXH462 	RM	146.2 PL	KCSO Dispatch 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.02500 	WNXH462 	RM		KCSO Gold PD 	Sheriff/Goldendale Police 	FMN 	Law Tac 
-158.91000 	WNXH462 	M		KCSO Gold PD 	Sheriff/Goldendale Police 	FMN 	Law Talk 
-457.50000 	WNXH462 	RM		KCSO Avery 	Sheriff - Avery 	FMN 	Law Talk 
-154.95000 	WNXH462 	RM		KCSO 	Sheriff 	FMN 	Law Talk 
-158.25000 	KNBY422 	BM		KC PUD Ch 3 	People's Utility District - Ch 3 	FMN 	Public Works 
-153.45500 	KNBY422 	RM		KC PUD 455 	People's Utility District 	FMN 	Public Works 
-155.11500 	 	RM	192.8 PL	Klick Road Dept 	Road Department 	FMN 	Public Works 
-155.29500 	WNQW482 	BM		GoldendaleSD 	Goldendale School District 	FMN 	Schools 
-453.17500 	WPCT636 	RM		KV Hospital 	Klickitat Valley Hospital 	FMN 	Business 
-451.52500 	WPSL984 	RM		Joe's Towing 	Joe's Towing and Wrecking 	FMN 	Business 
-Avista Utilities	 MPT-1327 Standard	 Various	Frontier Digital Network	 Project 25 Phase II	 Varies	Oregon State Radio Project	 Project 25 Phase II
- Varies	Puget Sound Energy	 MPT-1327 Standard	 Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	Washington State Department of Transportation
- LTR MultiNet	 Various	
+152.00750 	   	WQEM301 	B	100.0 PL	KCFD Paging 	Fire Paging 	FMN 	Fire Dispatch 
+154.13000 	158.88000  	KCU308 	RM	162.2 PL	KCFD Disp 	Countywide Fire Dispatch 	FMN 	Fire Dispatch 
+154.07000 	   	WQCY932 	BM	82.5 PL	KCFD Tac 1 	Fire Tac 1 	FMN 	Fire-Tac 
+154.35500 	   	WQCY932 	BM	82.5 PL	KCFD Tac 2 	Fire Tac 2 	FMN 	Fire-Tac 
+154.40000 	   	WQCY932 	BM	82.5 PL	KCFD Tac 3 	Fire Tac 3 	FMN 	Fire-Tac 
+154.08500 	155.41500  	 	RM	110.9 PL	KCFD Ops Cent 	Fire Operations Central 	FMN 	Fire-Tac 
+154.89000 	158.85000  	 	RM	97.4 PL	KCFD Ops West 	Fire Operations West 	FMN 	Fire-Tac 
+155.74500 	158.91000  	 	RM	118.8 PL	KCFD Ops East 	Fire Operations East 	FMN 	Fire-Tac 
+154.41500 	153.89000  	WPGD909 	RM	162.2 PL	KCFD D7 Ch 3 	Rural 7 Fire and Rescue - Ch 3 	FMN 	Fire-Talk 
+154.29500 	158.77500  	WQEI960 	RM	91.5 PL	KCFD OPS 	Operations Tac 	FMN 	Fire-Tac 
+154.10750 	159.11250  	 	RM	565 DPL	KCFD Port Rptr 	Fire Portable Repeater 	FMN 	Fire-Tac 
+155.38500 	   	WPCT636 	BM		KC EMS Disp 	EMS - Dispatch 	FMN 	EMS Dispatch 
+159.11250 	   	WQHN666 	M		KC SAR 	Search & Rescue 	FMN 	EMS-Talk 
+154.10750 	   	WQHN666 	M		KC SAR 	Search & Rescue 	FMN 	EMS-Talk 
+153.84500 	158.83500  	WNXH462 	RM	146.2 PL	KCSO Dispatch 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.02500 	158.83500  	WNXH462 	RM		KCSO Gold PD 	Sheriff/Goldendale Police 	FMN 	Law Tac 
+158.91000 	   	WNXH462 	M		KCSO Gold PD 	Sheriff/Goldendale Police 	FMN 	Law Talk 
+457.50000 	   	WNXH462 	RM		KCSO Avery 	Sheriff - Avery 	FMN 	Law Talk 
+154.95000 	   	WNXH462 	RM		KCSO 	Sheriff 	FMN 	Law Talk 
+158.25000 	   	KNBY422 	BM		KC PUD Ch 3 	People's Utility District - Ch 3 	FMN 	Public Works 
+153.45500 	   	KNBY422 	RM		KC PUD 455 	People's Utility District 	FMN 	Public Works 
+155.11500 	155.98500  	 	RM	192.8 PL	Klick Road Dept 	Road Department 	FMN 	Public Works 
+155.29500 	   	WNQW482 	BM		GoldendaleSD 	Goldendale School District 	FMN 	Schools 
+453.17500 	458.17500  	WPCT636 	RM		KV Hospital 	Klickitat Valley Hospital 	FMN 	Business 
+451.52500 	456.52500  	WPSL984 	RM		Joe's Towing 	Joe's Towing and Wrecking 	FMN 	Business 
+Avista Utilities	 MPT-1327 Standard	 Various	Frontier Digital Network	 Project 25 Phase II	 Varies	Justice Integrated Wireless Network	 Project 25 Phase I	 Various
+Oregon State Radio Project	 Project 25 Phase II	 Varies	Puget Sound Energy	 MPT-1327 Standard	 Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various
+Washington State Department of Transportation	 LTR MultiNet	 Various	

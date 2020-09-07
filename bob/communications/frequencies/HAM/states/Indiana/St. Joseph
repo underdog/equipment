@@ -1,79 +1,78 @@
-154.25000 	WPTV452 	BM	123.0 PL	StJoeFD/EMS 	Co.Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-154.25000 	KBR227 	BM	123.0 PL	StJoe FD 	Fire Dispatch Low-Band 	FMN 	Fire Dispatch 
-154.40000 	WPTV452 	BM	123.0 PL	StJoerg1R 	Fireground 1 Repeater 	FMN 	Fire-Tac 
-154.40000 	WPTV452 	BM	123.0 PL	StJoeFrg1D 	Fireground 1 Direct 	FMN 	Fire-Tac 
-154.22000 	WPTV452 	BM	127.3 PL	StJoeFrg2R 	Fireground 2 Repeater 	FMN 	Fire-Tac 
-154.22000 	WPTV452 	BM	123.0 PL	StJoeFrg2D 	Fireground 2 Direct 	FMN 	Fire-Tac 
-154.23500 	WPTV452 	BM	127.3 PL	StJoeFrg3R 	Fireground 3 Repeater 	FMN 	Fire-Tac 
-154.23500 	WPTV452 	BM	123.0 PL	StJoeFrg3D 	Fireground 3 Direct 	FMN 	Fire-Tac 
-154.45250 	WPTV452 	M	123.0 PL	StJoeFrg4 	Fireground 4 	FMN 	Fire-Tac 
-453.85000 	KXE634 	BM	103.5 PL	StJoe EMA 	County EMA 	FMN 	Emergency Ops 
-453.25000 	WQUX682 	F		StJoe EMA WX 	County EMA Weather Siren Control 	Telm 	Emergency Ops 
-158.83500 	KNET538 	BM		StJoe Hmn Sc 	St. Joseph County Humane Society 	FMN 	Public Works 
-453.75000 	WGI860 	BM	203.5 PL	 StJoe Hiway 	County Highway 	FMN 	Public Works 
-159.27000 	WNEB209 	BM	186.2 PL	StJoe Parks1 	County Parks Dept. 	FMN 	Public Works 
-151.16000 	WPLF479 	M	186.2 PL	StJoe Parks2 	County Parks Dept. 	FMN 	Public Works 
-453.65000 	KTX583 	BM	146.2 PL	SthBnd PD 1 	Police Dispatch Primary 	FMN 	Law Dispatch 
-453.62500 	KTX583 	BM	146.2 PL	SthBnd PD 2 	Police Dispatch Secondary 	FMN 	Law Dispatch 
-453.57500 	KTX583 	BM	146.2 PL	SthBnd PD 3 	Police Records 	FMN 	Law Tac 
-453.70000 	KTX583 	BM	411 DPL	SthBnd PD 4 	Police Chan. 4 	FMN 	Law Tac 
-453.52500 	KTX583 	BM	146.2 PL	SthBnd PD 5 	Police Chan. 5 	FMN 	Law Tac 
-453.30000 	KTX583 	BM	411 DPL	SthBnd PD 6 	Police Chan. 6 	FMN 	Law Tac 
-453.30000 	KTX583 	M	411 DPL	SthBnd PD 7 	Police Car-to-Car 	FMN 	Law Talk 
-154.19000 	KSC945 	RM	146.2 PL	SBFD DISP 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.74500 	KNGS451 	RM	343 DPL	SBFD FG 2 	Fireground 2 	FMN 	Fire-Tac 
-155.14500 	KSC945 	RM	146.2 PL	SBFD FG 3 	Fireground 3 	FMN 	Fire-Tac 
-155.74500 	KNGS451 	M	343 DPL	SBFD FG 4 	Fireground 4 (Simplex talk around for FG 2) 	FMN 	Fire-Tac 
-155.14500 	KSC945 	M	146.2 PL	SBFD FG 5 	Fireground 5 (Simplex talk around for FG 3) 	FMN 	Fire-Tac 
-153.95000 	KSC945 	M	146.2 PL	SBFD FG 8 	Fireground 8 (Simplex) 	FMN 	Fire-Tac 
-154.07000 	KSC945 	BM	146.2 PL	SB/NDFD FG 9 	South Bend/Notre Dame Fireground 9 	FMN 	Fire-Tac 
-154.28000 	KSC945 	BM	CSQ	SBFD MA/KSBN 	Fire Mutual Aid/Airport response 	FMN 	Interop 
-150.99500 	KSG475 	BM	331 DPL	SthBnd Strts 	South Bend Street Dept 	FMN 	Public Works 
-151.22000 	KEY868 	BM	146.2 PL	 SthBnd Park 	South Bend Parks Dept 	FMN 	Public Works 
-159.10500 	KSG475 	BM	146.2 PL	SthBnd EngDp 	South Bend Engineering Dept 	FMN 	Public Works 
-153.48500 	WPEQ526 	BM	146.2 PL	 SthBnd Snit 	South Bend Sanitation/Waste Water Dept 	FMN 	Public Works 
-153.65000 	WPEQ526 	BM	146.2 PL	 SthBnd Wate 	South Bend Water Dept 	FMN 	Public Works 
-155.88000 	KXH725 	BM	331 DPL	SthBnd Code 	South Bend Code Enf/Building Dept 	FMN 	Public Works 
-155.94000 	KAY874 	BM	331 DPL	SthBnd Muni 	South Bend City Wide 	FMN 	Multi-Tac 
-453.72500 	KRZ800 	BM	CC 5TG 1001SL 1	SthBnd Trans Bus 	Transportation Bus Dispatch 	DMR 	Transportation 
-453.72500 	KRZ800 	RM	CC 5TG 1002SL 2	SthBnd Trans Acc 	Transportation Access Buses 	DMR 	Transportation 
-453.82500 	KRZ800 	BM	203.5 PL	SthBnd Trans 	Transportation Supervisors 	FMN 	Transportation 
-155.98500 	KBR227 	BM	123.0 PL	Clay FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.74000 	WNVR549 	RM	155 DPL	Walkerton PD 	Walkerton Police 	FMN 	Law Dispatch 
-155.20500 	WXL612 	BM	71.9 PL	WalkertonEMS 	Walkerton EMS 	FMN 	EMS Dispatch 
-155.17500 	KEH582 	BM	118.8 PL	AmbEntrprz 	Ambulance Enterprise 	FMN 	EMS Dispatch 
-155.26500 	KKH560 	BM		NLibAmb 	North Liberty Ambulance 	FMN 	EMS Dispatch 
-158.88000 	WPUS433 	M		NewCrlsleAmb 	New Carlisle Ambulance 	FMN 	EMS Dispatch 
-461.40000 	WNIP957 	RM	103.5 PL	SthBnd StJoe 	South Bend St. Joseph Hospital 	FMN 	Business 
-461.52500 	WPFB894 	RM	072 DPL	SthBnd Mem-1 	South Bend Memorial Hospital 	FMN 	Business 
-464.22500 	WPLD751 	RM		SthBnd Mem-2 	South Bend Memorial Hospital 	FMN 	Business 
-460.62500 	KSD544 	RM	411 DPL	NotreDamePD1 	Police - Dispatch 	FMN 	Law Dispatch 
-461.27500 	WNCV208 	RM	107.2 PL	NotreDamePD2 	Police Ch. 2 	FMN 	Law Tac 
-461.20000 	WNKR686 	RM	107.2 PL	NotreDamePD3 	Police Ch. 3 	FMN 	Law Tac 
-453.60000 	KSD544 	RM	165 DPL	NotreDamePFD 	Fire/Police Cross-band Interop. 	FMN 	Multi-Tac 
-154.37000 	KSD544 	RM	251 DPL	NotreDame FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-154.07000 	KSC945 	BM	146.2 PL	NotreDame FR 	Fire - Fireground 	FMN 	Fire-Tac 
-461.86250 	WPEZ814 	M		JyceAthCntr1 	Joyce Athletic & Convocation Center 	FMN 	Schools 
-463.38750 	WPEZ814 	M		JyceAthCntr2 	Joyce Athletic & Convocation Center 	FMN 	Schools 
-464.93750 	WPEZ814 	M		JyceAthCntr3 	Joyce Athletic & Convocation Center 	FMN 	Schools 
-468.38750 	WPEZ814 	M		JyceAthCntr4 	Joyce Athletic & Convocation Center 	FMN 	Schools 
-462.40000 	WQFQ534 	RM	146.2 PL	JyceAthCntr 	Health Center 	FMN 	Schools 
-463.55000 	WPEZ813 	RM		NotreDamePPD 	Physical Plant 	FMN 	Schools 
-462.82500 	WPRV957 	RM		StMarysCol 1 	St. Mary's College 	FMN 	Schools 
-464.52500 	WPRV957 	RM		StMarysCol 2 	St. Mary's College 	FMN 	Schools 
-464.77500 	KAS499 	RM	107.2 PL	StMarys Scrt 	St. Mary's College - Security 	FMN 	Schools 
-462.70000 	 	M		CareerAcadem 	Career Academy South Bend 	FMN 	Schools 
-154.60000 	 	BM		Mshwka MrnHS 	Mishawaka Marian High School 	FMN 	Schools 
-152.42750 	WQOK498 	RM	331 DPL	SBCS 1 	South Bend Community Schools Ch. 1 	FMN 	Schools 
-152.93000 	WQOK498 	RM	047 DPL	SBCS 2 	South Bend Community Schools Ch. 2 	FMN 	Schools 
-464.47500 	 	RM	151.4 PL	IU@SthBnd 1 	South Bend IU at South Bend 	FMN 	Schools 
-464.97500 	 	RM	210.7 PL	IU@SthBnd 2 	South Bend IU at South Bend 	FMN 	Schools 
-158.80500 	KGY288 	BM		SthBndBuses 	South Bend School Buses 	FMN 	Schools 
-464.92500 	WQMN928 	RM	065 DPL	UNU Schools 	Union-North United Schools  	FMN 	Schools 
-461.70000 	 	RM		JohnGlenHS 1 	Walkerton John Glen High School 	FMN 	Schools 
-463.87500 	 	RM		JohnGlenHS 2 	Walkerton John Glen High School 	FMN 	Schools 
-American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	CSI Systems	 LTR Standard	 Multiple	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)
- Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Mishawaka Public Safety	 Project 25 Phase I	 Mishawaka	Northern Indiana Public Service Company 900Mhz
- DMR Tier 3	 Multiple	Saint Marys College	 DMR Motorola Capacity Plus Single Site (TRBO)	 South Bend	Shearer Properties	 Motorola Type II	 Mishawaka
-SMR Communications (Berrien)	 LTR Standard	 Niles	South Bend Public Works	 DMR Motorola Capacity Plus Single Site (TRBO)	 South Bend	South Bend Regional Airport	 LTR Standard
- South Bend	St Joseph Regional Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 South Bend	
+154.25000 	155.98500  	WPTV452 	BM	123.0 PL	StJoeFD/EMS 	Co.Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+154.25000 	46.30000  	KBR227 	BM	123.0 PL	StJoe FD 	Fire Dispatch Low-Band 	FMN 	Fire Dispatch 
+154.40000 	158.86500  	WPTV452 	BM	123.0 PL	StJoerg1R 	Fireground 1 Repeater 	FMN 	Fire-Tac 
+154.40000 	   	WPTV452 	BM	123.0 PL	StJoeFrg1D 	Fireground 1 Direct 	FMN 	Fire-Tac 
+154.22000 	159.00000  	WPTV452 	BM	127.3 PL	StJoeFrg2R 	Fireground 2 Repeater 	FMN 	Fire-Tac 
+154.22000 	   	WPTV452 	BM	123.0 PL	StJoeFrg2D 	Fireground 2 Direct 	FMN 	Fire-Tac 
+154.23500 	156.13500  	WPTV452 	BM	127.3 PL	StJoeFrg3R 	Fireground 3 Repeater 	FMN 	Fire-Tac 
+154.23500 	   	WPTV452 	BM	123.0 PL	StJoeFrg3D 	Fireground 3 Direct 	FMN 	Fire-Tac 
+154.45250 	   	WPTV452 	M	123.0 PL	StJoeFrg4 	Fireground 4 	FMN 	Fire-Tac 
+453.85000 	458.85000  	KXE634 	BM	103.5 PL	StJoe EMA 	County EMA 	FMN 	Emergency Ops 
+453.25000 	   	WQUX682 	F		StJoe EMA WX 	County EMA Weather Siren Control 	Telm 	Emergency Ops 
+158.83500 	   	KNET538 	BM		StJoe Hmn Sc 	St. Joseph County Humane Society 	FMN 	Public Works 
+453.75000 	458.75000  	WGI860 	BM	203.5 PL	 StJoe Hiway 	County Highway 	FMN 	Public Works 
+159.27000 	151.38500  	WNEB209 	BM	186.2 PL	StJoe Parks1 	County Parks Dept. 	FMN 	Public Works 
+151.16000 	   	WPLF479 	M	186.2 PL	StJoe Parks2 	County Parks Dept. 	FMN 	Public Works 
+453.65000 	458.65000  	KTX583 	BM	146.2 PL	SthBnd PD 1 	Police Dispatch Primary 	FMN 	Law Dispatch 
+453.62500 	458.62500  	KTX583 	BM	146.2 PL	SthBnd PD 2 	Police Dispatch Secondary 	FMN 	Law Dispatch 
+453.57500 	458.57500  	KTX583 	BM	146.2 PL	SthBnd PD 3 	Police Records 	FMN 	Law Tac 
+453.70000 	458.70000  	KTX583 	BM	411 DPL	SthBnd PD 4 	Police Chan. 4 	FMN 	Law Tac 
+453.52500 	458.52500  	KTX583 	BM	146.2 PL	SthBnd PD 5 	Police Chan. 5 	FMN 	Law Tac 
+453.30000 	458.30000  	KTX583 	BM	411 DPL	SthBnd PD 6 	Police Chan. 6 	FMN 	Law Tac 
+453.30000 	   	KTX583 	M	411 DPL	SthBnd PD 7 	Police Car-to-Car 	FMN 	Law Talk 
+154.19000 	159.45000  	KSC945 	RM	146.2 PL	SBFD DISP 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.74500 	153.91250  	KNGS451 	RM	343 DPL	SBFD FG 2 	Fireground 2 	FMN 	Fire-Tac 
+155.14500 	158.95500  	KSC945 	RM	146.2 PL	SBFD FG 3 	Fireground 3 	FMN 	Fire-Tac 
+155.74500 	   	KNGS451 	M	343 DPL	SBFD FG 4 	Fireground 4 (Simplex talk around for FG 2) 	FMN 	Fire-Tac 
+155.14500 	   	KSC945 	M	146.2 PL	SBFD FG 5 	Fireground 5 (Simplex talk around for FG 3) 	FMN 	Fire-Tac 
+153.95000 	   	KSC945 	M	146.2 PL	SBFD FG 8 	Fireground 8 (Simplex) 	FMN 	Fire-Tac 
+154.07000 	   	KSC945 	BM	146.2 PL	SB/NDFD FG 9 	South Bend/Notre Dame Fireground 9 	FMN 	Fire-Tac 
+154.28000 	   	KSC945 	BM	CSQ	SBFD MA/KSBN 	Fire Mutual Aid/Airport response 	FMN 	Interop 
+150.99500 	156.06000  	KSG475 	BM	331 DPL	SthBnd Strts 	South Bend Street Dept 	FMN 	Public Works 
+151.22000 	159.42000  	KEY868 	BM	146.2 PL	 SthBnd Park 	South Bend Parks Dept 	FMN 	Public Works 
+159.10500 	   	KSG475 	BM	146.2 PL	SthBnd EngDp 	South Bend Engineering Dept 	FMN 	Public Works 
+153.48500 	158.17500  	WPEQ526 	BM	146.2 PL	 SthBnd Snit 	South Bend Sanitation/Waste Water Dept 	FMN 	Public Works 
+153.65000 	158.13000  	WPEQ526 	BM	146.2 PL	 SthBnd Wate 	South Bend Water Dept 	FMN 	Public Works 
+155.88000 	158.94000  	KXH725 	BM	331 DPL	SthBnd Code 	South Bend Code Enf/Building Dept 	FMN 	Public Works 
+155.94000 	   	KAY874 	BM	331 DPL	SthBnd Muni 	South Bend City Wide 	FMN 	Multi-Tac 
+453.72500 	458.72500  	KRZ800 	BM	CC 5TG 1001SL 1	SthBnd Trans Bus 	Transportation Bus Dispatch 	DMR 	Transportation 
+453.72500 	458.72500  	KRZ800 	RM	CC 5TG 1002SL 2	SthBnd Trans Acc 	Transportation Access Buses 	DMR 	Transportation 
+453.82500 	458.82500  	KRZ800 	BM	203.5 PL	SthBnd Trans 	Transportation Supervisors 	FMN 	Transportation 
+155.98500 	   	KBR227 	BM	123.0 PL	Clay FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.74000 	155.64000  	WNVR549 	RM	155 DPL	Walkerton PD 	Walkerton Police 	FMN 	Law Dispatch 
+155.20500 	   	WXL612 	BM	71.9 PL	WalkertonEMS 	Walkerton EMS 	FMN 	EMS Dispatch 
+155.17500 	   	KEH582 	BM	118.8 PL	AmbEntrprz 	Ambulance Enterprise 	FMN 	EMS Dispatch 
+155.26500 	   	KKH560 	BM		NLibAmb 	North Liberty Ambulance 	FMN 	EMS Dispatch 
+158.88000 	   	WPUS433 	M		NewCrlsleAmb 	New Carlisle Ambulance 	FMN 	EMS Dispatch 
+461.40000 	466.40000  	WNIP957 	RM	103.5 PL	SthBnd StJoe 	South Bend St. Joseph Hospital 	FMN 	Business 
+461.52500 	466.52500  	WPFB894 	RM	072 DPL	SthBnd Mem-1 	South Bend Memorial Hospital 	FMN 	Business 
+464.22500 	469.22500  	WPLD751 	RM		SthBnd Mem-2 	South Bend Memorial Hospital 	FMN 	Business 
+460.62500 	465.62500  	KSD544 	RM	411 DPL	NotreDamePD1 	Police - Dispatch 	FMN 	Law Dispatch 
+461.27500 	466.27500  	WNCV208 	RM	107.2 PL	NotreDamePD2 	Police Ch. 2 	FMN 	Law Tac 
+461.20000 	466.20000  	WNKR686 	RM	107.2 PL	NotreDamePD3 	Police Ch. 3 	FMN 	Law Tac 
+453.60000 	458.60000  	KSD544 	RM	165 DPL	NotreDamePFD 	Fire/Police Cross-band Interop. 	FMN 	Multi-Tac 
+154.37000 	150.77500  	KSD544 	RM	251 DPL	NotreDame FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.07000 	   	KSC945 	BM	146.2 PL	NotreDame FR 	Fire - Fireground 	FMN 	Fire-Tac 
+461.86250 	   	WPEZ814 	M		JyceAthCntr1 	Joyce Athletic & Convocation Center 	FMN 	Schools 
+463.38750 	   	WPEZ814 	M		JyceAthCntr2 	Joyce Athletic & Convocation Center 	FMN 	Schools 
+464.93750 	   	WPEZ814 	M		JyceAthCntr3 	Joyce Athletic & Convocation Center 	FMN 	Schools 
+468.38750 	   	WPEZ814 	M		JyceAthCntr4 	Joyce Athletic & Convocation Center 	FMN 	Schools 
+462.40000 	467.40000  	WQFQ534 	RM	146.2 PL	JyceAthCntr 	Health Center 	FMN 	Schools 
+463.55000 	468.55000  	WPEZ813 	RM		NotreDamePPD 	Physical Plant 	FMN 	Schools 
+462.82500 	467.82500  	WPRV957 	RM		StMarysCol 1 	St. Mary's College 	FMN 	Schools 
+464.52500 	469.52500  	WPRV957 	RM		StMarysCol 2 	St. Mary's College 	FMN 	Schools 
+464.77500 	469.77500  	KAS499 	RM	107.2 PL	StMarys Scrt 	St. Mary's College - Security 	FMN 	Schools 
+462.70000 	   	 	M		CareerAcadem 	Career Academy South Bend 	FMN 	Schools 
+154.60000 	   	 	BM		Mshwka MrnHS 	Mishawaka Marian High School 	FMN 	Schools 
+152.42750 	157.68750  	WQOK498 	RM	331 DPL	SBCS 1 	South Bend Community Schools Ch. 1 	FMN 	Schools 
+152.93000 	160.09500  	WQOK498 	RM	047 DPL	SBCS 2 	South Bend Community Schools Ch. 2 	FMN 	Schools 
+464.47500 	   	 	RM	151.4 PL	IU@SthBnd 1 	South Bend IU at South Bend 	FMN 	Schools 
+464.97500 	   	 	RM	210.7 PL	IU@SthBnd 2 	South Bend IU at South Bend 	FMN 	Schools 
+158.80500 	   	KGY288 	BM		SthBndBuses 	South Bend School Buses 	FMN 	Schools 
+464.92500 	469.92500  	WQMN928 	RM	065 DPL	UNU Schools 	Union-North United Schools  	FMN 	Schools 
+461.70000 	   	 	RM		JohnGlenHS 1 	Walkerton John Glen High School 	FMN 	Schools 
+463.87500 	   	 	RM		JohnGlenHS 2 	Walkerton John Glen High School 	FMN 	Schools 
+American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	CSI Systems	 LTR Standard	 Multiple	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple
+Mishawaka Public Safety	 Project 25 Phase I	 Mishawaka	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	Saint Marys College	 DMR Motorola Capacity Plus Single Site (TRBO)	 South Bend
+Shearer Properties	 Motorola Type II	 Mishawaka	SMR Communications (Berrien)	 LTR Standard	 Niles	South Bend Public Works	 DMR Motorola Capacity Plus Single Site (TRBO)	 South Bend
+South Bend Regional Airport	 LTR Standard	 South Bend	St Joseph Regional Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 South Bend	

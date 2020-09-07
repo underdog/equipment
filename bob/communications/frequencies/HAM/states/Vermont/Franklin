@@ -1,41 +1,41 @@
-154.26500 	KYB653 	BM		FC Fire M/A 	Fire Mutual Aid (Countywide) 	FMN 	Interop 
-159.30750 	WNVU355 	RM		FC EmergSvcs 	Emergency Services 	FMN 	Multi-Talk 
-453.25000 	WNUV355 	RM		FC Sheriff 	Sheriff  	FMNE 	Law Dispatch 
-154.32500 	WPPF961 	BM		Bakersfld FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-156.09000 	WPWC745 	BM		Bakersfld PW 	Town Services 	FMN 	Public Works 
-154.16000 	WQHQ637 	BM	173.8 PL	Berkshire FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-453.80000 	WQHQ637 	RM	343 DPL	Berkshire FD 	Fire - UHF Link 	FMN 	Fire Dispatch 
-453.11250 	WQHQ637 	RM	167.9 PL	Berks FD Lnk 	Fire Link to 154.160 MHz 	FMN 	Fire-Talk 
-153.81500 	WQKF790 	BM		Enos FD/EMS 	Fire/EMS 	FMN 	Fire Dispatch 
-156.16500 	WQDE223 	BM	94.8 PL	Fairfax FD 	Fire and Rescue Dispatch 	FMN 	Fire Dispatch 
-158.76000 	WQBK850 	BM		FairfxFD Tac 	Fire Tactical 	FMN 	Fire-Tac 
-153.90500 	WQDE223 	RM		Fairfx FD/Hw 	Fire Operations / Highway Department 	FMN 	Multi-Talk 
-159.36000 	WQIS343 	RM		FairfxRescue 	Rescue Squad 	FMN 	EMS-Talk 
-154.41500 	KDD663 	BM	151.4 PL	Franklin FD 	Fire/Rescue 	FMN 	Fire Dispatch 
-158.92500 	 	BM	114.8 PL	Georgia PW 	Public Works 	FMN 	Public Works 
-153.98000 	 	BM		Mont FD/EMS 	Fire/EMS 	FMN 	Fire Dispatch 
-155.74500 	KAO301 	BM		Rich FD/EMS 	Fire/EMS 	FMN 	Fire Dispatch 
-159.10500 	KAO301 	BM		Rich FD/EMS 	Fire/EMS 	FMN 	Fire-Talk 
-453.98750 	 	F	123.0 PL	Rich FD Link 	Fire/EMS RF Link to 155.745 MHz 	FMN 	Fire-Talk 
-155.82000 	KBR478 	BM	100.0 PL	SA FD/EMS 	Fire/EMS Central Dispatch 	FMN 	Fire Dispatch 
-453.11250 	WNZN974 	M	114.8 PL	SA FD Enosb 	Fire/EMS RF Link for Enosburgh 	FMN 	Fire-Talk 
-453.11250 	WNZN974 	M	167.9 PL	SA FD Berks 	Fire/EMS RF Link for Berkshire 	FMN 	Fire-Talk 
-453.11250 	WNZN974 	M	141.3 PL	SA FD Montg 	Fire/EMS RF Link for Montgomery 	FMN 	Fire-Talk 
-460.05000 	KSU648 	RM	118.8 PL	SA Police 	Police 	FMN 	Law Dispatch 
-157.51500 	 	BM		SA PW/FD TA 	Public Works / St. Albans Town Fire Talk-Around 	FMN 	Public Works 
-155.22000 	 	BM	100.0 PL	SA Pub Works 	Public Works 	FMN 	Public Works 
-155.94000 	KJW474 	BM	CSQ	Swanton FD 	Fire 	FMN 	Fire Dispatch 
-458.50000 	KNNN456 	F	023 DPL	Swanton FD 	Fire 	FMN 	Fire-Talk 
-453.83750 	WQEZ411 	RM		Swanton PD 	Police 	P25 	Law Dispatch 
-155.70000 	WQEY856 	RM		Swanton Svcs 	Town Services 	FMN 	Multi-Dispatch 
-460.15000 	KSU383 	M		Swanton PD 	Police 	FMN 	Law Tac 
-155.17500 	WNUA205 	BM	100.0 PL	Amcare EMS 	Dispatch 	FMN 	EMS Dispatch 
-453.42500 	WPXL281 	RM	100.0 PL	Amcare Disp 	Primary Dispatch 	FMN 	EMS Dispatch 
-153.74750 	WQDI305 	M		GeorgVFD Tac 	Tactical 	FMN 	Fire-Tac 
-159.10500 	WQDI305 	RM		Georgia VFD 	Dispatch 	FMN 	Fire Dispatch 
-154.41500 	KKQ964 	BM	CSQ	Highgate VFD 	Fire 	FMN 	Fire Dispatch 
-453.65000 	KKQ964 	F	532 DPL	Highgate VFD 	Fire 	FMN 	Fire-Talk 
-155.26500 	KNIW525 	BM	114.8 PL	MissVall EMS 	EMS (serving Swanton & Highgate) 	FMN 	EMS Dispatch 
-154.01000 	WPKU847 	BM		Sheldon FD 	Operations 	FMN 	Fire Dispatch 
-154.14500 	WPKU847 	BM		Sheldon FD 	Operations 	FMN 	Fire Dispatch 
+453.25000 	458.25000  	WNUV355 	RM		FC Sheriff 	Sheriff  Operations 	FMNE 	Law Dispatch 
+154.26500 	   	KYB653 	BM		FC Fire M/A 	Fire Mutual Aid (Countywide) 	FMN 	Interop 
+159.30750 	154.86000  	WNVU355 	RM		FC EmergSvcs 	Emergency Services 	FMN 	Multi-Talk 
+154.32500 	   	WPPF961 	BM		Bakersfld FD 	Fire Operations 	FMN 	Fire Dispatch 
+156.09000 	   	WPWC745 	BM		Bakersfld PW 	Town Services 	FMN 	Public Works 
+154.16000 	   	WQHQ637 	BM	173.8 PL	Berkshire FD 	Fire Operations 	FMN 	Fire Dispatch 
+453.80000 	458.80000  	WQHQ637 	RM	343 DPL	Berkshire FD 	Fire - UHF Link 	FMN 	Fire Dispatch 
+453.11250 	   	WQHQ637 	RM	167.9 PL	Berks FD Lnk 	Fire Link to 154.160 MHz 	FMN 	Fire-Talk 
+153.81500 	158.81250  	WQKF790 	BM		Enos FD/EMS 	Fire/EMS Operations 	FMN 	Fire Dispatch 
+156.16500 	   	WQDE223 	BM	94.8 PL	Fairfax FD 	Fire and Rescue Operations 	FMN 	Fire Dispatch 
+158.76000 	   	WQBK850 	BM		FairfxFD Tac 	Fire Tactical 	FMN 	Fire-Tac 
+153.90500 	156.16500  	WQDE223 	RM		Fairfx FD/Hw 	Fire Operations / Highway Department 	FMN 	Multi-Talk 
+159.36000 	151.45250  	WQIS343 	RM		FairfxRescue 	Rescue Squad 	FMN 	EMS-Talk 
+154.41500 	   	KDD663 	BM	151.4 PL	Franklin FD 	Fire/Rescue Operations 	FMN 	Fire Dispatch 
+158.92500 	   	 	BM	114.8 PL	Georgia PW 	Public Works 	FMN 	Public Works 
+153.98000 	   	 	BM		Mont FD/EMS 	Fire/EMS Operations 	FMN 	Fire Dispatch 
+155.74500 	   	KAO301 	BM		Rich FD/EMS 	Fire/EMS Operations 	FMN 	Fire Dispatch 
+159.10500 	   	KAO301 	BM		Rich FD/EMS 	Fire/EMS 	FMN 	Fire-Talk 
+453.98750 	   	 	F	123.0 PL	Rich FD Link 	Fire/EMS RF Link to 155.745 MHz 	FMN 	Fire-Talk 
+460.05000 	465.05000  	KSU648 	RM	118.8 PL	SA Police 	Police Operations 	FMN 	Law Dispatch 
+155.82000 	   	KBR478 	BM	100.0 PL	SA FD/EMS 	Fire/EMS Central Dispatch 	FMN 	Fire Dispatch 
+453.11250 	   	WNZN974 	M	114.8 PL	SA FD Enosb 	Fire/EMS RF Link for Enosburgh 	FMN 	Fire-Talk 
+453.11250 	   	WNZN974 	M	167.9 PL	SA FD Berks 	Fire/EMS RF Link for Berkshire 	FMN 	Fire-Talk 
+453.11250 	   	WNZN974 	M	141.3 PL	SA FD Montg 	Fire/EMS RF Link for Montgomery 	FMN 	Fire-Talk 
+157.51500 	   	 	BM		SA PW/FD TA 	Public Works / St. Albans Town Fire Talk-Around 	FMN 	Public Works 
+155.22000 	   	 	BM	100.0 PL	SA Pub Works 	Public Works 	FMN 	Public Works 
+453.83750 	458.83750  	WQEZ411 	RM		Swanton PD 	Police Operations 	P25 	Law Dispatch 
+460.15000 	   	KSU383 	M		Swanton PD 	Police Operations 	FMN 	Law Tac 
+155.94000 	   	KJW474 	BM	CSQ	Swanton FD 	Fire Operations 	FMN 	Fire Dispatch 
+458.50000 	   	KNNN456 	F	023 DPL	Swanton FD 	Fire Operations 	FMN 	Fire-Talk 
+155.70000 	158.83500  	WQEY856 	RM		Swanton Svcs 	Town Services 	FMN 	Multi-Dispatch 
+155.17500 	   	WNUA205 	BM	100.0 PL	Amcare EMS 	Operations 	FMN 	EMS Dispatch 
+453.42500 	458.42500  	WPXL281 	RM	100.0 PL	Amcare Disp 	Primary Operations 	FMN 	EMS Dispatch 
+153.74750 	   	WQDI305 	M		GeorgVFD Tac 	Tactical 	FMN 	Fire-Tac 
+159.10500 	155.96250  	WQDI305 	RM		Georgia VFD 	Operations 	FMN 	Fire Dispatch 
+154.41500 	   	KKQ964 	BM	CSQ	Highgate VFD 	Fire Operations 	FMN 	Fire Dispatch 
+453.65000 	   	KKQ964 	F	532 DPL	Highgate VFD 	Fire Operations 	FMN 	Fire-Talk 
+155.26500 	   	KNIW525 	BM	114.8 PL	MissVall EMS 	EMS (serving Swanton & Highgate) 	FMN 	EMS Dispatch 
+154.01000 	   	WPKU847 	BM		Sheldon FD 	Operations 	FMN 	Fire Dispatch 
+154.14500 	   	WPKU847 	BM		Sheldon FD 	Operations 	FMN 	Fire Dispatch 
 Burlington Communications Service Center (St. Albans)	 LTR Standard	 St. Albans	

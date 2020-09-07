@@ -1,26 +1,27 @@
-155.43000 	WQAX929 	RM	162.2 PL	Jasper Sheriff  	Sheriff: Dispatch 	FMN 	Law Dispatch 
-156.06750 	WQAX929 	M	CSQ	Jaspr Shrf MX  	Sheriff: Mobile Extenders (to 155.43R) 	FMN 	Law Dispatch 
-173.31250 	WQAX929 	M		Jspr Law MX 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
-155.11500 	WQPP949 	RM		Jasper EMA 	EMA (Newton) 	FMN 	Emergency Ops 
-453.05000 	WQPP949 	F	532 DPL	Jasp EMA ST 	EMA: Remote Link (at Saint Marie) 	FMN 	Emergency Ops 
-453.92500 	WQPP949 	F	250.3 PL	Jasp EMA Hid 	EMA: Remote Link (at Hidalgo) 	FMN 	Emergency Ops 
-460.38750 	WQPP949 	F		Jasp EMA Teu 	EMA: Remote Link (at Teutopolis) 	FMN 	Emergency Ops 
-465.55000 	WQPP949 	F	712 DPL	Jasp EMA Nwt 	EMA: Remote Link (at Newton) 	FMN 	Emergency Ops 
-151.05500 	WQMN370 	RM		Jasper Fire 	Fire: Dispatch/Paging/Fireground 	FMN 	Fire Dispatch 
-154.43000 	WPWR417 	BM	131.8 PL	Jasper*Fire 	Fire: Countywide Dispatch -- Yale, Hidalgo, Newton Fire, Wade Township-(Newton, Willow Hill (Wade Township License) 	FMN 	Fire Dispatch 
-453.36250 	WPUL286 	RM		Jas Fire RF 	Fire: Remote Links (St. Marie, Valemeyer) 	FMN 	Fire Dispatch 
-155.92500 	WQCE645 	BM		Jasper Health  	Health Department (Newton) 	FMN 	Public Works 
-158.80500 	WPWC248 	BM		Jas Highway1 	Highway Department 	FMN 	Public Works 
-159.13500 	KRC691 	BM	315 DPL	Jas Highway2 	Highway Department 	FMN 	Public Works 
-154.12250 	WQPW955 	RM	371 DPL	Jasper EMS 	EMS: Dispatch (Newton) 	FMN 	EMS Dispatch 
-154.45625 	WPLE502 	F		EJWater WDD 	EJ Water Corporation (Island Grove,Montrose,Rose Hill) 	Telm 	Data 
-154.75500 	WQAX929 	BM	162.2 PL	Nwtn Police 	Police: Dispatch (*Old Sheriff) 	FMN 	Law Dispatch 
-153.53000 	WPEY638 	BM	074 DPL	Nwtn Utility 	Utilities ? (City Clerk) 	FMN 	Public Works 
-453.97500 	KNNS254 	F		Nwtn WDD 	Water Distribution Data 	Telm 	Data 
-159.45750 	WQBP442 	M		WCFPD MX 	Fire: Mobile Extenders 	FMN 	Fire Dispatch 
-159.10500 	WQP821 	BM	136.5 PL	WadeTwpRoads 	Road Maintenance 	FMN 	Public Works 
-452.80000 	WPLT786 	F		WH WDD*D 	Water Treatment Data [Expired] (CSQ Data 2/17) 	Telm 	Data 
-452.82500 	WQAV637 	F		Hrdnvl Water 	Hardinville Water Company: Data 	Telm 	Data 
-151.19000 	KSJ358 	RM	162 DPL	JasperSchBus 	Buses 	FMN 	Schools 
-Ameren Power Plant - Newton	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Newton	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3
- Multiple	Norris Electric Cooperative (IL)	 DMR Conventional Networked	 Newton	
+155.43000 	154.65000  	WQAX929 	RM	162.2 PL	Jasper Sheriff  	Sheriff: Backup to SC21 	FMN 	Law Dispatch 
+156.06750 	   	WQAX929 	M	CSQ	Jaspr Shrf MX  	Sheriff: Mobile Extenders (to 155.43R) 	FMN 	Law Dispatch 
+173.31250 	   	WQAX929 	M		Jspr Law MX 	Sheriff: Mobile Extenders 	FMN 	Law Dispatch 
+155.11500 	156.11250  	WQPP949 	RM		Jasper EMA / LZ 	EMA; Ops / Landing Zone 	FMN 	Emergency Ops 
+453.05000 	   	WQPP949 	F	532 DPL	Jasp EMA ST 	EMA: Remote Link (at Saint Marie) 	FMN 	Emergency Ops 
+453.92500 	   	WQPP949 	F	250.3 PL	Jasp EMA Hidalgo 	EMA: Remote Link (at Hidalgo) 	FMN 	Emergency Ops 
+460.38750 	   	WQPP949 	F		Jasp EMA Teutpls 	EMA: Remote Link (at Teutopolis) 	FMN 	Emergency Ops 
+465.55000 	   	WQPP949 	F	712 DPL	Jasp EMA Newton 	EMA: Remote Link (at Newton) 	FMN 	Emergency Ops 
+154.43000 	   	WPWR417 	BM	131.8 PL	Jasper Fire 	Fire: Countywide Dispatch -- Yale, Hidalgo, Newton Fire, Wade Township-(Newton, Willow Hill (Wade Township License) 	FMN 	Fire Dispatch 
+453.36250 	458.36250  	WPUL286 	RM		Jasper Fire RF 	Fire: Remote Links (St. Marie, Valemeyer) 	FMN 	Fire Dispatch 
+151.05500 	158.88750  	WQMN370 	RM		Jasper Fire Fut 	Fire: Dispatch (Future) 	FMN 	Fire Dispatch 
+155.92500 	   	WQCE645 	BM		Jasper Health  	Health Department (Newton) 	FMN 	Public Works 
+158.80500 	   	WPWC248 	BM		Jasper Highway 1 	Highway Department 	FMN 	Public Works 
+159.13500 	   	KRC691 	BM	315 DPL	Jasper Highway 2 	Highway Department 	FMN 	Public Works 
+154.12250 	151.22750  	WQPW955 	RM	371 DPL	Jasper EMS 	EMS: Dispatch (Newton) 	FMN 	EMS Dispatch 
+154.45625 	   	WPLE502 	F		EJWater WDD 	EJ Water Corporation (Island Grove,Montrose,Rose Hill) 	Telm 	Data 
+154.75500 	   	WQAX929 	BM	162.2 PL	Nwtn Police OLD 	Police: Dispatch - OLD 	FMN 	Law Dispatch 
+153.53000 	   	WPEY638 	BM	074 DPL	Newton Utility 	Utilities 	FMN 	Public Works 
+453.97500 	   	KNNS254 	F		Newton WDD 	Water Distribution Data 	Telm 	Data 
+151.31750 	   	WRAB464  	BM		S Muddy Twshp 	South Muddy Township: Road Maintenance 	FMN 	Public Works 
+159.45750 	   	WQBP442 	M		WCFPD MX 	Fire: Mobile Extenders 	FMN 	Fire Dispatch 
+159.10500 	   	WQP821 	BM	136.5 PL	WadeTwpRoads 	Road Maintenance 	FMN 	Public Works 
+452.80000 	   	WPLT786 	F		WH WDD*D 	Water Treatment Data [Expired] (CSQ Data 2/17) 	Telm 	Data 
+452.82500 	   	WQAV637 	F		Hrdnvl Water 	Hardinville Water Company: Data 	Telm 	Data 
+151.19000 	155.94000  	KSJ358 	RM	162 DPL	JasperSchBus 	Buses 	FMN 	Schools 
+Ameren Power Plant - Newton	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Newton	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple
+Norris Electric Cooperative (IL)	 DMR Conventional Networked	 Newton	Rides Mass Transit District (DMR)	 DMR Conventional Networked	 Southern IL	

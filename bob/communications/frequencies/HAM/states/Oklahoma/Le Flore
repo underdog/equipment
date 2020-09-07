@@ -1,40 +1,39 @@
-155.70000 	KNBJ213 	RM	100.0 PL	LeFlore Sheriff 	Sheriff Dispatch 	FMN 	Law Dispatch 
-452.35000 	KNBJ213 	B		LeFlore Shrf RF 	Sheriff -- South Repeater Link 	FMN 	Law Dispatch 
-155.56500 	WQAW529 	BM		LeFlore ShrfJail 	County Jail 	FMN 	Corrections 
-155.59500 	WPWE207 	BM	162.2 PL	LeFlore Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-158.77500 	WPSM600 	RM		LeFlore Co Fire1 	Fire Tac 1 (South Repeater) 	FMN 	Fire-Tac 
-155.82000 	WPGJ307 	RM	192.8 PL	LeFlore Co EMS 2 	 Fire / EMS Tac 2 	FMN 	Fire-Tac 
-155.71500 	WPNZ443 	RM	173.8 PL	LeFlore Co Fire3 	Fire Tac 3 (North Repeater) 	FMN 	Fire-Tac 
-453.60000 	WPWC214 	RM	210.7 PL	LeFlore Co 911 	Fire UHF 	FMN 	Fire Dispatch 
-156.09000 	WPWE207 	BM		LeFlore Co 911 	911 Emergency Responders 	FMN 	Emergency Ops 
-453.40000 	WPWC214 	RM		LeFlore Co 911 	911 Emergency Responders 	FMN 	EMS-Tac 
-453.67500 	WPWC214 	RM		LeFlore Co 911 	911 Emergency Responders 	FMN 	EMS-Tac 
-453.92500 	WPWC214 	RM		LeFlore Co 911 	911 Emergency Responders 	FMN 	EMS-Tac 
-460.50000 	WPWC214 	RM		LeFlore Co 911 	911 Emergency Responders 	FMN 	EMS-Tac 
-155.04750 	WQAY714 	RM	CC 2TG *SL 1	LeFlore Co EMS1 	EMS Dispatch 	DMR 	EMS Dispatch 
-155.89500 	WNYI922 	RM	114.8 PL	Poteau Police 	Police Dispatch 	FMN 	Law Dispatch 
-154.75500 	WNYI922 	RM		Poteau Police 2 	Police Secondary 	FMN 	Law Tac 
-155.37000 	WNST216 	BM	CSQ	Poteau PD Mutual 	Police -- Mutual Aid 	FMN 	Law Dispatch 
-154.44500 	WNYH744 	RM	114.8 PL	Poteau Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-152.93000 	WPSH254 	RM	192.8 PL	Poteau Schools 	Public School Buses 	FMN 	Schools 
-159.00000 	WPVK582 	RM	210.7 PL	Arkoma Police 	Police Dispatch 	FMN 	Law Dispatch 
-151.53500 	WPWR939 	RM		Heavener Schools 	Heavener Schools 	FMN 	Schools 
-155.80500 	WPWG232 	RM	71.9 PL	Honobia Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.71750 	WPPC760 	RM		Moffett Police 	Police 	FMN 	Law Dispatch 
-154.67250 	WPPC760 	BM		Moffett Police 	Police 	FMN 	Law Dispatch 
-155.86500 	WNKP368 	BM		Panama Police 	Police VHF 	FMN 	Law Dispatch 
-460.40000 	KNIG633 	RM		Panama Police U 	Police UHF 	FMN 	Law Dispatch 
-155.01000 	WQBX209 	RM	136.5 PL	Pocola Police 	Police Dispatch 	FMN 	Law Dispatch 
-154.86000 	WPLP309 	BM		Shady Point PD A 	Police 	FMN 	Law Dispatch 
-155.53500 	WPLP309 	BM		Shady Point PD B 	Police 	FMN 	Law Dispatch 
-154.31000 	KNNR758 	BM		Shady Point Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-158.85750 	WQSJ570 	BM		Talihina Police 	Police Dispatch 	FMN 	Law Dispatch 
-154.19000 	WPWG234 	RM	167.9 PL	Talihina Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.35500 	WPHH895 	BM		Whitesboro Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.37750 	WPLW667 	RM	127.3 PL	Wister Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-45.10000 	KZH952 	BM		AR Prisons LB 	Prison Security -- Low Band 	FM 	Corrections 
-155.50500 	KZH952 	BM		Hamilton Prison 	Prison Operations 	FMN 	Corrections 
-159.45000 	KKC525 	RM	82.5 PL	OK Forestry 	Flagpole Forestry Repeater 	FMN 	Public Works 
-159.25500 	KKC525 	RM	77.0 PL	OK Forestry 	Cavanal Mountain Forestry Repeater 	FMN 	Public Works 
-American Electric Power (AEP)	 EDACS Networked Standard	 Various	Oklahoma Gas and Electric	 EDACS Networked Standard	 Various	PEI Communications (Poteau)	 LTR Standard
- Poteau	
+155.70000 	158.73000  	KNBJ213 	RM	100.0 PL	LeFlore Sheriff 	Sheriff Dispatch 	FMN 	Law Dispatch 
+452.35000 	   	KNBJ213 	B		LeFlore Shrf RF 	Sheriff -- South Repeater Link 	FMN 	Law Dispatch 
+155.56500 	   	WQAW529 	BM		LeFlore ShrfJail 	County Jail 	FMN 	Corrections 
+155.59500 	   	WPWE207 	BM	162.2 PL	LeFlore Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+158.77500 	156.00000  	WPSM600 	RM		LeFlore Co Fire1 	Fire Tac 1 (South Repeater) 	FMN 	Fire-Tac 
+155.82000 	153.92000  	WPGJ307 	RM	192.8 PL	LeFlore Co EMS 2 	 Fire / EMS Tac 2 	FMN 	Fire-Tac 
+155.71500 	153.93500  	WPNZ443 	RM	173.8 PL	LeFlore Co Fire3 	Fire Tac 3 (North Repeater) 	FMN 	Fire-Tac 
+453.60000 	458.60000  	WPWC214 	RM	210.7 PL	LeFlore Co 911 	Fire UHF 	FMN 	Fire Dispatch 
+156.09000 	   	WPWE207 	BM		LeFlore Co 911 	911 Emergency Responders 	FMN 	Emergency Ops 
+453.40000 	458.40000  	WPWC214 	RM		LeFlore Co 911 	911 Emergency Responders 	FMN 	EMS-Tac 
+453.67500 	458.67500  	WPWC214 	RM		LeFlore Co 911 	911 Emergency Responders 	FMN 	EMS-Tac 
+453.92500 	458.92500  	WPWC214 	RM		LeFlore Co 911 	911 Emergency Responders 	FMN 	EMS-Tac 
+460.50000 	465.50000  	WPWC214 	RM		LeFlore Co 911 	911 Emergency Responders 	FMN 	EMS-Tac 
+155.04750 	150.77500  	WQAY714 	RM	CC 2TG *SL 1	LeFlore Co EMS1 	EMS Dispatch 	DMR 	EMS Dispatch 
+155.89500 	158.89500  	WNYI922 	RM	114.8 PL	Poteau Police 	Police Dispatch 	FMN 	Law Dispatch 
+154.75500 	154.15250  	WNYI922 	RM		Poteau Police 2 	Police Secondary 	FMN 	Law Tac 
+155.37000 	   	WNST216 	BM	CSQ	Poteau PD Mutual 	Police -- Mutual Aid 	FMN 	Law Dispatch 
+154.44500 	154.01000  	WNYH744 	RM	114.8 PL	Poteau Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+152.93000 	159.81000  	WPSH254 	RM	192.8 PL	Poteau Schools 	Public School Buses 	FMN 	Schools 
+159.00000 	154.83000  	WPVK582 	RM	210.7 PL	Arkoma Police 	Police Dispatch 	FMN 	Law Dispatch 
+151.53500 	159.49500  	WPWR939 	RM		Heavener Schools 	Heavener Schools 	FMN 	Schools 
+155.80500 	153.98000  	WPWG232 	RM	71.9 PL	Honobia Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.71750 	158.97750  	WPPC760 	RM		Moffett Police 	Police 	FMN 	Law Dispatch 
+154.67250 	   	WPPC760 	BM		Moffett Police 	Police 	FMN 	Law Dispatch 
+155.86500 	   	WNKP368 	BM		Panama Police 	Police VHF 	FMN 	Law Dispatch 
+460.40000 	465.40000  	KNIG633 	RM		Panama Police U 	Police UHF 	FMN 	Law Dispatch 
+155.01000 	159.09000  	WQBX209 	RM	136.5 PL	Pocola Police 	Police Dispatch 	FMN 	Law Dispatch 
+154.86000 	   	WPLP309 	BM		Shady Point PD A 	Police 	FMN 	Law Dispatch 
+155.53500 	   	WPLP309 	BM		Shady Point PD B 	Police 	FMN 	Law Dispatch 
+154.31000 	   	KNNR758 	BM		Shady Point Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+158.85750 	   	WQSJ570 	BM		Talihina Police 	Police Dispatch 	FMN 	Law Dispatch 
+154.19000 	159.34500  	WPWG234 	RM	167.9 PL	Talihina Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.35500 	   	WPHH895 	BM		Whitesboro Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.37750 	158.87250  	WPLW667 	RM	127.3 PL	Wister Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+45.10000 	   	KZH952 	BM		AR Prisons LB 	Prison Security -- Low Band 	FM 	Corrections 
+155.50500 	   	KZH952 	BM		Hamilton Prison 	Prison Operations 	FMN 	Corrections 
+159.45000 	151.43000  	KKC525 	RM	82.5 PL	OK Forestry 	Flagpole Forestry Repeater 	FMN 	Public Works 
+159.25500 	   	KKC525 	RM	77.0 PL	OK Forestry 	Cavanal Mountain Forestry Repeater 	FMN 	Public Works 
+American Electric Power (AEP)	 EDACS Networked Standard	 Various	Oklahoma Gas and Electric	 EDACS Networked Standard	 Various	PEI Communications (Poteau)	 LTR Standard	 Poteau

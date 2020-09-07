@@ -1,18 +1,17 @@
-460.61250 	WNUT861 	RM	156.7 PL	LC Fire Disp 	Fire and Rescue Dispatch (UHF Link) 	FMN 	Fire Dispatch 
-154.29500 	 	BM		LC Fire FG 	Fireground 	FMN 	Fire-Tac 
-460.45000 	KWI571 	RM	118.8 PL	LC Sheriff 1 	Sheriff 1 	FMN 	Law Tac 
-460.55000 	KWI570 	RM		LC Sheriff 2 	Sheriff 2 Primary (digital) 	P25 	Law Dispatch 
-460.55000 	KWI570 	RM	118.8 PL	LC Sheriff 2 	Sheriff 2 Primary (analog) 	FMN 	Law Dispatch 
-460.52500 	WPKX729 	RM	167.9 PL	LC Sheriff 3 	Sheriff 3 	FMN 	Law Tac 
-155.28000 	WPKX729 	B		N EMS Disp 	Northern EMS Dispatch 	FMN 	EMS Dispatch 
-155.34000 	KVT822 	BM	123.0 PL	EMS-to-Hosp 	HEAR 1 - EMS-to-Hospital (Copley Hospital) 	FMN 	EMS-Tac 
-154.07000 	WPMN952 	RM	167.9 PL	Cambridge FD 	Fire and Rescue Dispatch 	FMN 	Multi-Dispatch 
-154.11500 	KUL736 	BM		Hyde Park FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-158.74500 		KNFM417 	BM	103.5 PL	Johnson Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.44500 	WQFN616 	RM	203.5 PL	MorristownFD 	Fire Dispatch 	FMN 	Fire Dispatch 
-151.24250 	WPKX729 	B	151.4 PL	MorristwnEMS 	Rescue Dispatch 	FMN 	EMS Dispatch 
-154.44500 	WQFN616 	RM		Morrisvle FD 	Fire 	FMN 	Fire Dispatch 
-154.04000 	KNFM417 	RM	114.8 PL	Stowe FD/Res 	Fire and Rescue Dispatch 	FMN 	Fire Dispatch 
-158.74500 	 	BM	146.2 PL	Wolcott Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-Burlington Communications Service Center (Stowe)	 LTR Standard	 Stowe	Central Vermont Public Service (UHF)	 LTR Standard	 Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)
- Various	
+460.45000 	465.45000  	KWI571 	RM	118.8 PL	LC Sheriff 1 	Sheriff Operations 1 	FMN 	Law Dispatch 
+460.55000 	465.55000  	KWI570 	RM	118.8 PL	LC Sheriff 2 	Sheriff Operations 2 Primary (analog) 	FMN 	Law Dispatch 
+460.55000 	465.55000  	KWI570 	RM		LC Sheriff 2 	Sheriff Operations 2 Primary (digital) 	P25 	Law Dispatch 
+460.52500 	465.52500  	WPKX729 	RM	167.9 PL	LC Sheriff 3 	Sheriff Operations 3 	FMN 	Law Tac 
+460.61250 	465.61250  	WNUT861 	RM	156.7 PL	LC Fire Disp 	Fire and Rescue Dispatch (UHF Link) 	FMN 	Fire Dispatch 
+154.29500 	   	 	BM		LC Fire FG 	Fireground 	FMN 	Fire-Tac 
+155.28000 	   	WPKX729 	B		N EMS Disp 	Northern EMS Operations 	FMN 	EMS Dispatch 
+155.34000 	   	KVT822 	BM	123.0 PL	EMS-to-Hosp 	HEAR 1 - EMS-to-Hospital (Copley Hospital) 	FMN 	EMS-Tac 
+154.07000 	150.79000  	WPMN952 	RM	167.9 PL	Cambridge FD 	Fire and Rescue Operations 	FMN 	Multi-Dispatch 
+154.11500 	   	KUL736 	BM		Hyde Park FD 	Fire Operations 	FMN 	Fire Dispatch 
+158.74500 	   		KNFM417 	BM	103.5 PL	Johnson Fire 	Fire Operations 	FMN 	Fire Dispatch 
+154.44500 	   	WQFN616 	RM	203.5 PL	MorristownFD 	Fire Operations 	FMN 	Fire Dispatch 
+151.24250 	   	WPKX729 	B	151.4 PL	MorristwnEMS 	Rescue Dispatch 	FMN 	EMS Dispatch 
+154.44500 	   	WQFN616 	RM		Morrisvle FD 	Fire Operations 	FMN 	Fire Dispatch 
+154.04000 	155.86500  	KNFM417 	RM	114.8 PL	Stowe FD/Res 	Fire and Rescue Operations 	FMN 	Fire Dispatch 
+158.74500 	   	 	BM	146.2 PL	Wolcott Fire 	Fire Operations 	FMN 	Fire Dispatch 
+Burlington Communications Service Center (Stowe)	 LTR Standard	 Stowe	Central Vermont Public Service (UHF)	 LTR Standard	 Various	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various

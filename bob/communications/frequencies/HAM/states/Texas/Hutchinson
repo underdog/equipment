@@ -1,31 +1,30 @@
-154.84500 	KWX629 	RM	167.9 PL	Hutch SO 1 Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.08500 	KNGB497 	RM	146.2 PL	Hutch SO 2 Alt 	Sheriff Alternate 	FMN 	Law Tac 
-158.85750 	WQGM884 	RM	065 DPL	Hutch SO Stinnet 	Sheriff Repeater (Stinnett PANCOM) 	FMN 	Law Tac 
-158.85750 	WQGM884 	RM	61F NAC	Hutch SO Stinnet 	Sheriff Repeater (Stinnett PANCOM) 	P25 	Law Tac 
-154.32500 	WPHV240 	RM	167.9 PL	Hutch Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.20500 	WQGM884 	RM	065 DPL	Hutch Fire Stinn 	Fire Repeater (Stinnett PANCOM) 	FMN 	Fire-Tac 
-155.20500 	WQGM884 	RM	61F NAC	Hutch Fire Stinn 	Fire Repeater (Stinnett PANCOM) 	P25 	Fire-Tac 
-159.19500 	WQGM884 	RM	065 DPL	Hutch EMS Stinnt 	EMS Dispatch (Stinnett PANCOM) 	FMN 	EMS Dispatch 
-159.19500 	WQGM884 	RM	61F NAC	Hutch EMS Stinnt 	EMS Dispatch (Stinnett PANCOM) 	P25 	EMS Dispatch 
-155.60250 	WQGW360 	RM	065 DPL	Hutch EMS Borger 	EMS Dispatch (Borger PANCOM) 	FMN 	EMS Dispatch 
-155.60250 	WQGW360 	RM	61F NAC	Hutch EMS Borger 	EMS Dispatch (Borger PANCOM) 	P25 	EMS Dispatch 
-155.80500 	WQGM884 	RM	065 DPL	Hutch EMS Fritch 	EMS Dispatch (Fritch PANCOM) 	FMN 	EMS Dispatch 
-155.80500 	WQGM884 	RM	61F NAC	Hutch EMS Fritch 	EMS Dispatch (Fritch PANCOM) 	P25 	EMS Dispatch 
-463.07500 	WPEI228 	RM	136.5 PL	Hutch Co EMS-Hos 	EMS to Hospital 	FMN 	Hospital 
-453.90000 	WQGX712 	RM		Hutch Co EOC 	Emergency Operations Center (EOC) 	DMR 	Emergency Ops 
-153.80000 	WQGX712 	RM	146.2 PL	Hutch Co Roads 	Road and Bridge 	FMN 	Public Works 
-155.43000 	KWX630 	RM	293 NAC	Borger PD Disp 	Police Dispatch 	P25 	Law Dispatch 
-155.52000 	KWX630 	RM		Borger PD 2 	Police Secondary 	FMN 	Law Talk 
-154.23500 	KKO240 	RM	293 NAC	Borger Fire 	Fire Dispatch 	P25 	Fire-Talk 
-155.92500 	WNPU582 	RM	146.2 PL	Borger Public Wk 	Public Works 	FMN 	Public Works 
-158.73000 	WNUJ614 	BM		Fritch PD Car-Cr 	Police Car to Car 	FMN 	Law Talk 
-155.10000 	WQQC899 	RM		Fritch PD DMR 	Police Digital 	DMR 	Law Talk 
-154.40000 	WNUG303 	RM	162.2 PL	Fritch Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.86000 	WNUJ615 	BM		Fritch Fire Tac 	Fire Tactical 	FMN 	Fire-Tac 
-155.79000 	WQQC899 	RM		Fritch FD DMR 	Fire Digital 	DMR 	Fire-Talk 
-153.99500 	WNRO225 	RM		Sanford Fire 	Fire 	FMN 	Fire Dispatch 
-154.96500 	KEY957 	RM	167.9 PL	Stinnett Fire 	Fire 	FMN 	Fire-Talk 
-154.11500 	KMB255 	BM	192.8 PL	CRMWA Data 	Data Channel 	FMN 	Data 
-166.90000 	 	RM	293 NAC	NPS Lake Meredit 	Lake Meredith National Recreation Area 	P25 	Federal 
-ConocoPhillips Communications, Inc.	 Motorola Type II Smartnet	 Phillips	Phillips 66 Refineries	 Project 25 Phase II	 Various	Xcel Energy	 Project 25 Phase I
- Various	
+154.84500 	151.45250  	KWX629 	RM	167.9 PL	Hutch SO 1 Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.08500 	155.98500  	KNGB497 	RM	146.2 PL	Hutch SO 2 Alt 	Sheriff Alternate 	FMN 	Law Tac 
+158.85750 	155.65500  	WQGM884 	RM	065 DPL	Hutch SO Stinnet 	Sheriff Repeater (Stinnett PANCOM) 	FMN 	Law Tac 
+158.85750 	155.65500  	WQGM884 	RM	61F NAC	Hutch SO Stinnet 	Sheriff Repeater (Stinnett PANCOM) 	P25 	Law Tac 
+154.32500 	159.01500  	WPHV240 	RM	167.9 PL	Hutch Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.20500 	154.71750  	WQGM884 	RM	065 DPL	Hutch Fire Stinn 	Fire Repeater (Stinnett PANCOM) 	FMN 	Fire-Tac 
+155.20500 	154.71750  	WQGM884 	RM	61F NAC	Hutch Fire Stinn 	Fire Repeater (Stinnett PANCOM) 	P25 	Fire-Tac 
+159.19500 	153.89750  	WQGM884 	RM	065 DPL	Hutch EMS Stinnt 	EMS Dispatch (Stinnett PANCOM) 	FMN 	EMS Dispatch 
+159.19500 	153.89750  	WQGM884 	RM	61F NAC	Hutch EMS Stinnt 	EMS Dispatch (Stinnett PANCOM) 	P25 	EMS Dispatch 
+155.60250 	153.89750  	WQGW360 	RM	065 DPL	Hutch EMS Borger 	EMS Dispatch (Borger PANCOM) 	FMN 	EMS Dispatch 
+155.60250 	153.89750  	WQGW360 	RM	61F NAC	Hutch EMS Borger 	EMS Dispatch (Borger PANCOM) 	P25 	EMS Dispatch 
+155.80500 	153.98750  	WQGM884 	RM	065 DPL	Hutch EMS Fritch 	EMS Dispatch (Fritch PANCOM) 	FMN 	EMS Dispatch 
+155.80500 	153.98750  	WQGM884 	RM	61F NAC	Hutch EMS Fritch 	EMS Dispatch (Fritch PANCOM) 	P25 	EMS Dispatch 
+463.07500 	468.07500  	WPEI228 	RM	136.5 PL	Hutch Co EMS-Hos 	EMS to Hospital 	FMN 	Hospital 
+453.90000 	458.90000  	WQGX712 	RM		Hutch Co EOC 	Emergency Operations Center (EOC) 	DMR 	Emergency Ops 
+153.80000 	158.82000  	WQGX712 	RM	146.2 PL	Hutch Co Roads 	Road and Bridge 	FMN 	Public Works 
+155.43000 	158.95500  	KWX630 	RM	293 NAC	Borger PD Disp 	Police Dispatch 	P25 	Law Dispatch 
+155.52000 	   	KWX630 	RM		Borger PD 2 	Police Secondary 	FMN 	Law Talk 
+154.23500 	159.39000  	KKO240 	RM	293 NAC	Borger Fire 	Fire Dispatch 	P25 	Fire-Talk 
+155.92500 	158.77500  	WNPU582 	RM	146.2 PL	Borger Public Wk 	Public Works 	FMN 	Public Works 
+158.73000 	   	WNUJ614 	BM		Fritch PD Car-Cr 	Police Car to Car 	FMN 	Law Talk 
+155.10000 	   	WQQC899 	RM		Fritch PD DMR 	Police Digital 	DMR 	Law Talk 
+154.40000 	153.77000  	WNUG303 	RM	162.2 PL	Fritch Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.86000 	   	WNUJ615 	BM		Fritch Fire Tac 	Fire Tactical 	FMN 	Fire-Tac 
+155.79000 	   	WQQC899 	RM		Fritch FD DMR 	Fire Digital 	DMR 	Fire-Talk 
+153.99500 	   	WNRO225 	RM		Sanford Fire 	Fire 	FMN 	Fire Dispatch 
+154.96500 	   	KEY957 	RM	167.9 PL	Stinnett Fire 	Fire 	FMN 	Fire-Talk 
+154.11500 	153.74000  	KMB255 	BM	192.8 PL	CRMWA Data 	Data Channel 	FMN 	Data 
+BrandMeister Texas	 DMR Conventional Networked	 Various	ConocoPhillips Communications, Inc.	 Motorola Type II Smartnet	 Phillips	Phillips 66 Refineries	 Project 25 Phase II	 Various
+Xcel Energy	 Project 25 Phase I	 Various	

@@ -1,31 +1,32 @@
-154.17500 	WQLF400 	RM	CSQ	BCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.31000 	WQLF400 	RM	CSQ	BCFD Fire 1 	Fire Ops 1 	FMN 	Fire-Tac 
-151.35500 	WPBK234 	RM	CSQ	BCFD Fire 2 	Fire Ops 2 	FMN 	Fire-Tac 
-154.81500 	WQLF400 	RM	CSQ	BCFD Fire 3 	Fire Ops 3 	FMN 	Fire-Tac 
-151.10000 	KOK666 	RM	CSQ	BCFD WChandler 	West Chandler Tac 	FMN 	Fire-Tac 
-154.32500 	 	BM	192.8 PL	BCFD Tac F 	Fire Tac F 	FMN 	Fire-Tac 
-154.35500 	 	BM	192.8 PL	BCFD Tac G 	Fire Tac G 	FMN 	Fire-Tac 
-154.37000 	WNBS239 	RM	192.8 PL	BCFD N Prosser 	North Prosser Tac 	FMN 	Fire-Tac 
-159.06750 	 	RM		BCFD Umatilla 	Umatilla Tac 	FMN 	Fire-Tac 
-154.44500 	KFK558 	BM	162.2 PL	BCFD 5/6 	Fire Dispatch BCFD 5/6 	FMN 	Fire Dispatch 
-154.38500 	WPGH645 	RM	167.9 PL	BCFD East IP 	Inspiration Point (IP) East 	FMN 	Fire-Tac 
-156.09000 	WPIT540 	RM	CSQ	BCFD West IP 	Inspiration Point (IP) West 	FMN 	Fire-Tac 
-154.14500 	WPGH645 	RM	167.9 PL	BCFD Badger 	Badger 	FMN 	Fire-Tac 
-155.19000 	WPGH645 	RM	167.9 PL	BCFD Chandlr 	Chandler 	FMN 	Fire-Tac 
-154.13000 	WPGH645 	M	167.9 PL	BCFD Fire A 	Fire A 	FMN 	Fire-Tac 
-154.31000 	WPGH645 	M	CSQ	BCFD Fire B 	Fire B 	FMN 	Fire-Tac 
-153.95000 	WPGH645 	M	CSQ	BCFD Fire C 	Fire C 	FMN 	Fire-Tac 
-154.19000 	WPBA549 	M	100.0 PL	BCFD Fire D 	Fire D 	FMN 	Fire-Tac 
-154.16000 	WNBS239 	BM	192.8 PL	BCFD Fire E 	Fire E 	FMN 	Fire-Tac 
-866.21250 	WPYD863 	M		BCFD 800 TA 	800 MHz Talk-Around 	FM 	Fire-Talk 
-153.80000 	 	BM	167.9 PL	BCFD Emerg 	Fire Emergency 	FMN 	Fire-Tac 
-154.99500 	 	RM	88.5 PL	BCFD WJoe 	West Joe 	FMN 	Fire-Talk 
-155.35500 	WPWL730 	RM	110.9 PL	Prosser EMS 	Prosser Ambulance 	FMN 	EMS Dispatch 
-155.41500 	 	BM	100.0 PL	BCFD Airport 	Airport Fire 	FMN 	Fire-Tac 
-155.31000 	 	RM	CSQ	Benton Data 	Police Data 	FMN 	Law Talk 
-122.70000 	 	BM		Richlnd Uni 	Richland Airport Unicom 	AM 	Aircraft 
-132.67500 	 	F		Richlnd Wx 	Richland Airport Weather 	AM 	Aircraft 
-154.04000 	KZT487 	RM	103.5 PL	Richland PW 	Richland Public Works 	FMN 	Public Works 
-Bechtel Corporation, (Hanford)	 Motorola Type II Smartnet	 Hanford	Columbia Communications	 NXDN NEXEDGE 4800	 Kennewick	Columbia Communications DMR	 DMR Motorola Capacity Plus Single Site (TRBO)
- Kennewick	Energy Northwest	 Project 25 Phase I	 Tri-Cities	Mid Columbia Communications Coop	 Motorola Type II	 Tri-Cities	TRBOWEST (WA-OR-ID-CA)
- DMR Motorola Connect Plus (TRBO)	 Various	US Department of Energy - Hanford Reservation	 EDACS Standard	 Richland	Washington State Department of Transportation	 LTR MultiNet	 Various
+154.17500 	154.41500  	WQLF400 	RM	CSQ	BCFD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.31000 	155.61000  	WQLF400 	RM	CSQ	BCFD Fire 1 	Fire Ops 1 	FMN 	Fire-Tac 
+151.35500 	159.31500  	WPBK234 	RM	CSQ	BCFD Fire 2 	Fire Ops 2 	FMN 	Fire-Tac 
+154.81500 	155.67000  	WQLF400 	RM	CSQ	BCFD Fire 3 	Fire Ops 3 	FMN 	Fire-Tac 
+151.10000 	156.10500  	KOK666 	RM	CSQ	BCFD WChandler 	West Chandler Tac 	FMN 	Fire-Tac 
+154.32500 	   	 	BM	192.8 PL	BCFD Tac F 	Fire Tac F 	FMN 	Fire-Tac 
+154.35500 	   	 	BM	192.8 PL	BCFD Tac G 	Fire Tac G 	FMN 	Fire-Tac 
+154.37000 	150.79000  	WNBS239 	RM	192.8 PL	BCFD N Prosser 	North Prosser Tac 	FMN 	Fire-Tac 
+159.06750 	154.44500  	 	RM		BCFD Umatilla 	Umatilla Tac 	FMN 	Fire-Tac 
+154.44500 	   	KFK558 	BM	162.2 PL	BCFD 5/6 	Fire Dispatch BCFD 5/6 	FMN 	Fire Dispatch 
+154.38500 	154.07000  	WPGH645 	RM	167.9 PL	BCFD East IP 	Inspiration Point (IP) East 	FMN 	Fire-Tac 
+156.09000 	154.95000  	WPIT540 	RM	CSQ	BCFD West IP 	Inspiration Point (IP) West 	FMN 	Fire-Tac 
+154.14500 	156.01500  	WPGH645 	RM	167.9 PL	BCFD Badger 	Badger 	FMN 	Fire-Tac 
+155.19000 	154.23500  	WPGH645 	RM	167.9 PL	BCFD Chandlr 	Chandler 	FMN 	Fire-Tac 
+154.13000 	   	WPGH645 	M	167.9 PL	BCFD Fire A 	Fire A 	FMN 	Fire-Tac 
+154.31000 	   	WPGH645 	M	CSQ	BCFD Fire B 	Fire B 	FMN 	Fire-Tac 
+153.95000 	   	WPGH645 	M	CSQ	BCFD Fire C 	Fire C 	FMN 	Fire-Tac 
+154.19000 	   	WPBA549 	M	100.0 PL	BCFD Fire D 	Fire D 	FMN 	Fire-Tac 
+154.16000 	   	WNBS239 	BM	192.8 PL	BCFD Fire E 	Fire E 	FMN 	Fire-Tac 
+866.21250 	   	WPYD863 	M		BCFD 800 TA 	800 MHz Talk-Around 	FM 	Fire-Talk 
+153.80000 	   	 	BM	167.9 PL	BCFD Emerg 	Fire Emergency 	FMN 	Fire-Tac 
+154.99500 	159.12000  	 	RM	88.5 PL	BCFD WJoe 	West Joe 	FMN 	Fire-Talk 
+155.35500 	153.90500  	WPWL730 	RM	110.9 PL	Prosser EMS 	Prosser Ambulance 	FMN 	EMS Dispatch 
+155.41500 	   	 	BM	100.0 PL	BCFD Airport 	Airport Fire 	FMN 	Fire-Tac 
+155.31000 	154.61000  	 	RM	CSQ	Benton Data 	Police Data 	FMN 	Law Talk 
+122.70000 	   	 	BM		Richlnd Uni 	Richland Airport Unicom 	AM 	Aircraft 
+132.67500 	   	 	F		Richlnd Wx 	Richland Airport Weather 	AM 	Aircraft 
+154.04000 	   	KZT487 	RM	103.5 PL	Richland PW 	Richland Public Works 	FMN 	Public Works 
+Bechtel Corporation, (Hanford)	 Motorola Type II Smartnet	 Hanford	Benton County 800	 Project 25 Phase I	 Benton County	Columbia Communications	 NXDN NEXEDGE 4800	 Kennewick
+Columbia Communications DMR	 DMR Motorola Capacity Plus Single Site (TRBO)	 Kennewick	Energy Northwest	 Project 25 Phase I	 Tri-Cities	Justice Integrated Wireless Network	 Project 25 Phase I	 Various
+Mid Columbia Communications Coop	 Motorola Type II	 Tri-Cities	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	US Department of Energy - Hanford Reservation	 EDACS Standard	 Richland
+Washington State Department of Transportation	 LTR MultiNet	 Various	

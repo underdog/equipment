@@ -1,36 +1,36 @@
-155.77500 	KNAG313 	BM	127.3 PL	Chippewa 'OES' 	Fire and EMS Dispatch / Paging 	FMN 	Fire Dispatch 
-155.41500 	KXX372 	RM	127.3 PL	Chippewa Fire N 	Fire and EMS Dispatch - Sault Ste. Marie Tower 	FMN 	Fire Dispatch 
-155.31000 	KXX372 	BM	127.3 PL	Chippewa Fire NW 	Fire and EMS Dispatch - McNearny Fire Tower / Strongs 	FMN 	Fire Dispatch 
-155.53500 	KXX372 	BM	127.3 PL	Chippewa Fire S 	Fire and EMS Dispatch - Rockview / StalwartTower 	FMN 	Fire Dispatch 
-155.94000 	KXX372 	RM	127.3 PL	Chippewa Fire SE 	Fire and EMS Dispatch - DeTour Tower 	FMN 	Fire Dispatch 
-458.01250 	KNAG313 	M		Chip UHFMob1 	UHF mobile 1 	FMN 	Emergency Ops 
-458.23750 	KNAG313 	M		Chip UHFMob2 	UHF mobile 2 	FMN 	Emergency Ops 
-458.52500 	KNAG313 	M		Chip UHFMob3 	UHF mobile 3 	FMN 	Emergency Ops 
-451.10000 	KNAG313 	F		Chip Link 6 	Remote Link 	FMN 	Fire Dispatch 
-453.70000 	KNAG313 	F		Chip FireRF1 	Link from dispatch to remote tower sites? 	FMN 	Fire Dispatch 
-456.02500 	KXX372 	F	127.3 PL	Chip FireRF2 	Remote Link from 154.95 receiver at SSM (155.415) 	FMN 	Fire Dispatch 
-456.10000 	KXX372 	F		Chip FireRF3 	Remote Link from 154.95 receiver at McNearny / Strongs (155.31) 	FMN 	Fire Dispatch 
-456.17500 	KXX372 	F		Chip FireRF4 	Remote Link from 154.95 receiver at Rockview /Stalwart (155.535) 	FMN 	Fire Dispatch 
-458.70000 	KXX372 	F		Chip FireRF5 	Remote Link from 154.95 receiver at Detour (155.94)  	FMN 	Fire Dispatch 
-153.75500 	KA34330 	BM		County EDC 	Chippewa Economic Development 	FMN 	Business 
-156.18000 	KDG352 	RM	136.5 PL	Intrrntnl Bridge 	Operations 	FMN 	Public Works 
-155.34000 	KNNY602 	BM	123.0 PL	VWMH HEARN 	EMS-to-Hospital Notifications (Primary) 	FMN 	Hospital 
-155.28000 	KNNY602 	BM		VWMH HEARN 	EMS-to Hospital Notifications (Alternate) 	FMN 	Hospital 
-158.92500 	WPDD892 	RM	127.3 PL	Kinross Twp 1 	Public Works / Public Safety 	FMN 	Interop 
-159.21000 	WQDU813 	RM	192.8 PL	Kinross Twp 2 	Public Works / Public Safety 	FMN 	Interop 
-155.10000 	WNQF564 	BM		Raber Twp. Fire 	Tactical 	FMN 	Fire-Tac 
-154.41500 	WQIS582 	RM	127.3 PL	Saulte Ste. Fire 	Fire and EMS Dispatch / Operations 	FMN 	Fire Dispatch 
-453.20000 	WPFE625 	RM		Saulte Housing 	Housing Commission 	FMN 	Public Works 
-155.23500 	WQLC478 	BM		Rudyard School B 	Rudyard School District Transportation 	DMR 	Schools 
-453.85000 	WPFH780 	RM	103.5 PL	LSSU Pub. Safety 	Public Safety - Dispatch (w/ Phone Patch) 	FMN 	Law Dispatch 
-453.35000 	WNQT254 	RM	103.5 PL	LSSU Maintenance 	Maintenance 	FMN 	Schools 
-469.13750 	WNSW610 	M	103.5 PL	LSSU Food Servce 	Food Service/Cisler Center 	FMN 	Schools 
-464.93750 	WNSW610 	M	103.5 PL	LSSU Alumni 	Alumni 	FMN 	Schools 
-464.13750 	WNSW610 	M	103.5 PL	LSSU Techs 	Techs 	FMN 	Schools 
-151.88000 	 	M	131.8 PL	LSSU CJFS 1 	Fire Science 1 (MURS 2) 	FMN 	Schools 
-154.57000 	 	M	151.4 PL	LSSU CJFS 2 	Fire Science 2 (MURS 4) 	FMN 	Schools 
-72.10000 	WQCU256 	F		LSSU WClock1 	Wireless Clocks 	FM 	Data 
-72.18000 	WQCU256 	F		LSSU WClock2 	Wireless Clocks 	FM 	Data 
-72.26000 	WQCU256 	F		LSSU WClock3 	Wireless Clocks 	FM 	Data 
-72.34000 	WQCU256 	F		LSSU WClock4 	Wireless Clocks 	FM 	Data 
-151.41500 	KFF395 	BM		DNR Parks 	DNR State Parks 	FMN 	Law Talk 
+155.77500 	   	KNAG313 	BM	127.3 PL	Chippewa 'OES' 	Fire and EMS Dispatch / Paging 	FMN 	Fire Dispatch 
+155.41500 	154.95000  	KXX372 	RM	127.3 PL	Chippewa Fire N 	Fire and EMS Dispatch - Sault Ste. Marie Tower 	FMN 	Fire Dispatch 
+155.31000 	154.95000  	KXX372 	BM	127.3 PL	Chippewa Fire NW 	Fire and EMS Dispatch - McNearny Fire Tower / Strongs 	FMN 	Fire Dispatch 
+155.53500 	154.95000  	KXX372 	BM	127.3 PL	Chippewa Fire S 	Fire and EMS Dispatch - Rockview / StalwartTower 	FMN 	Fire Dispatch 
+155.94000 	154.95000  	KXX372 	RM	127.3 PL	Chippewa Fire SE 	Fire and EMS Dispatch - DeTour Tower 	FMN 	Fire Dispatch 
+458.01250 	   	KNAG313 	M		Chip UHFMob1 	UHF mobile 1 	FMN 	Emergency Ops 
+458.23750 	   	KNAG313 	M		Chip UHFMob2 	UHF mobile 2 	FMN 	Emergency Ops 
+458.52500 	   	KNAG313 	M		Chip UHFMob3 	UHF mobile 3 	FMN 	Emergency Ops 
+451.10000 	   	KNAG313 	F		Chip Link 6 	Remote Link 	FMN 	Fire Dispatch 
+453.70000 	   	KNAG313 	F		Chip FireRF1 	Link from dispatch to remote tower sites? 	FMN 	Fire Dispatch 
+456.02500 	   	KXX372 	F	127.3 PL	Chip FireRF2 	Remote Link from 154.95 receiver at SSM (155.415) 	FMN 	Fire Dispatch 
+456.10000 	   	KXX372 	F		Chip FireRF3 	Remote Link from 154.95 receiver at McNearny / Strongs (155.31) 	FMN 	Fire Dispatch 
+456.17500 	   	KXX372 	F		Chip FireRF4 	Remote Link from 154.95 receiver at Rockview /Stalwart (155.535) 	FMN 	Fire Dispatch 
+458.70000 	   	KXX372 	F		Chip FireRF5 	Remote Link from 154.95 receiver at Detour (155.94)  	FMN 	Fire Dispatch 
+153.75500 	   	KA34330 	BM		County EDC 	Chippewa Economic Development 	FMN 	Business 
+156.18000 	151.14500  	KDG352 	RM	136.5 PL	Intrrntnl Bridge 	Operations 	FMN 	Public Works 
+155.34000 	   	KNNY602 	BM	123.0 PL	VWMH HEARN 	EMS-to-Hospital Notifications (Primary) 	FMN 	Hospital 
+155.28000 	   	KNNY602 	BM		VWMH HEARN 	EMS-to Hospital Notifications (Alternate) 	FMN 	Hospital 
+158.92500 	153.78500  	WPDD892 	RM	127.3 PL	Kinross Twp 1 	Public Works / Public Safety 	FMN 	Interop 
+159.21000 	155.19000  	WQDU813 	RM	192.8 PL	Kinross Twp 2 	Public Works / Public Safety 	FMN 	Interop 
+155.10000 	   	WNQF564 	BM		Raber Twp. Fire 	Tactical 	FMN 	Fire-Tac 
+154.41500 	155.61750  	WQIS582 	RM	127.3 PL	Saulte Ste. Fire 	Fire and EMS Dispatch / Operations 	FMN 	Fire Dispatch 
+453.20000 	458.20000  	WPFE625 	RM		Saulte Housing 	Housing Commission 	FMN 	Public Works 
+155.23500 	   	WQLC478 	BM		Rudyard School B 	Rudyard School District Transportation 	DMR 	Schools 
+453.85000 	458.85000  	WPFH780 	RM	103.5 PL	LSSU Pub. Safety 	Public Safety - Dispatch (w/ Phone Patch) 	FMN 	Law Dispatch 
+453.35000 	458.35000  	WNQT254 	RM	103.5 PL	LSSU Maintenance 	Maintenance 	FMN 	Schools 
+469.13750 	   	WNSW610 	M	103.5 PL	LSSU Food Servce 	Food Service/Cisler Center 	FMN 	Schools 
+464.93750 	   	WNSW610 	M	103.5 PL	LSSU Alumni 	Alumni 	FMN 	Schools 
+464.13750 	   	WNSW610 	M	103.5 PL	LSSU Techs 	Techs 	FMN 	Schools 
+151.88000 	   	 	M	131.8 PL	LSSU CJFS 1 	Fire Science 1 (MURS 2) 	FMN 	Schools 
+154.57000 	   	 	M	151.4 PL	LSSU CJFS 2 	Fire Science 2 (MURS 4) 	FMN 	Schools 
+72.10000 	   	WQCU256 	F		LSSU WClock1 	Wireless Clocks 	FM 	Data 
+72.18000 	   	WQCU256 	F		LSSU WClock2 	Wireless Clocks 	FM 	Data 
+72.26000 	   	WQCU256 	F		LSSU WClock3 	Wireless Clocks 	FM 	Data 
+72.34000 	   	WQCU256 	F		LSSU WClock4 	Wireless Clocks 	FM 	Data 
+151.41500 	   	KFF395 	BM		DNR Parks 	DNR State Parks 	FMN 	Law Talk 

@@ -1,15 +1,15 @@
-154.40000 	KNJF430 	RM	107.2 PL	OrngCoFire 1 	Fire Dispatch 	FM 	Fire Dispatch 
-158.80500 	KSQ687 	RM	186.2 PL	OrngCo EMS 1 	EMS Dispatch 	FM 	EMS Dispatch 
-155.80500 	 	BM	107.2 PL	OCPT 	Orange County Public Transit 	FMN 	Transportation 
-154.17500 	KNCG406 	RM	107.2 PL	CARR FD 	Fire Dispatch 	FM 	Fire Dispatch 
-453.97500 	WPXD290 	BM	103.5 PL	CHFD UHF 	Chapel Hill FD UHF 	FMN 	Fire Dispatch 
-452.80000 	KAG662 	BM	88.5 PL	CH TRANS1 	Chapel Hill Transit 1 	FMN 	Transportation 
-453.17500 	WPLQ719 	BM	88.5 PL	CH TRANS2 	Chapel Hill Transit 2 	FMN 	Transportation 
-153.09500 	 		107.2 PL	SORANGE RSQ 	Rescue 	FM 	EMS-Tac 
-157.48500 	 		107.2 PL	SORANGE RSQ 	Rescue 	FM 	EMS-Tac 
-157.53000 	 		107.2 PL	SORANGE RSQ 	Rescue 	FM 	EMS-Tac 
-155.38500 	 		118.8 PL	LIFEFLIGHT 	Medical Flight Control 	FM 	EMS Dispatch 
-453.02500 	WPQI431 	RM	103.5 PL	LIFEFLIGHT 	Life Flight Helicopter 	FM 	EMS Dispatch 
-855.21250 	WNKA641 	RM	179.9 PL	LIFEFLIGHT 	Life Flight Helicopter 	FM 	EMS Dispatch 
-Duke Energy	 OpenSky 4800 baud	 Various	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	North Carolina VIPER	 Project 25 Phase I
- Varies	Piedmont Electric Membership Corporation	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hillsborough	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	
+154.40000 	153.77000  	KNJF430 	RM	107.2 PL	OrngCoFire 1 	Fire Dispatch 	FM 	Fire Dispatch 
+158.80500 	158.95500  	KSQ687 	RM	186.2 PL	OrngCo EMS 1 	EMS Dispatch 	FM 	EMS Dispatch 
+155.80500 	   	 	BM	107.2 PL	OCPT 	Orange County Public Transit 	FMN 	Transportation 
+154.17500 	150.79000  	KNCG406 	RM	107.2 PL	CARR FD 	Fire Dispatch 	FM 	Fire Dispatch 
+453.97500 	458.97500  	WPXD290 	BM	103.5 PL	CHFD UHF 	Chapel Hill FD UHF 	FMN 	Fire Dispatch 
+452.80000 	457.80000  	KAG662 	BM	88.5 PL	CH TRANS1 	Chapel Hill Transit 1 	FMN 	Transportation 
+453.17500 	458.17500  	WPLQ719 	BM	88.5 PL	CH TRANS2 	Chapel Hill Transit 2 	FMN 	Transportation 
+153.09500 	   	 		107.2 PL	SORANGE RSQ 	Rescue 	FM 	EMS-Tac 
+157.48500 	   	 		107.2 PL	SORANGE RSQ 	Rescue 	FM 	EMS-Tac 
+157.53000 	   	 		107.2 PL	SORANGE RSQ 	Rescue 	FM 	EMS-Tac 
+155.38500 	   	 		118.8 PL	LIFEFLIGHT 	Medical Flight Control 	FM 	EMS Dispatch 
+453.02500 	458.02500  	WPQI431 	RM	103.5 PL	LIFEFLIGHT 	Life Flight Helicopter 	FM 	EMS Dispatch 
+855.21250 	810.21250  	WNKA641 	RM	179.9 PL	LIFEFLIGHT 	Life Flight Helicopter 	FM 	EMS Dispatch 
+Duke Energy	 OpenSky 4800 baud	 Various	FleetTalk Carolinas	 NXDN NEXEDGE 4800	 Various	Piedmont Electric Membership Corporation	 DMR Motorola Capacity Plus Single Site (TRBO)	 Hillsborough
+PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	

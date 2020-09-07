@@ -1,19 +1,19 @@
-453.47500 	WQNS272 	RM	475 NAC	Jun PD ENC 	Law Enforcement (Encrypted) 	P25E 	Law Tac 
-453.41250 	WQNC802 	RM	250.3 PL	Juniata Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-453.26250 	WQNS272 	RM	262 NAC	Juniata Ops2 	Fire Ops 2 - Tuscarora 	P25 	Fire-Tac 
-460.15000 	WQNS272 	RM	150 NAC	Juniata Ops3 	Fire Ops 3 - Shade 	P25 	Fire-Tac 
-453.58750 	WQNS272 	RM	587 NAC	Juniata Ops4 	Fire Ops 4 - Black Log 	P25 	Fire-Tac 
-460.36250 	WQNS272 	RM	250.3 PL	Juniata Ops5 	Fire Ops 5 - Countywide 	FMN 	Fire-Tac 
-465.50000 	WQNC802 	M	250.3 PL	Juniata Ops6 	Fire Ops 6 	FMN 	Fire-Talk 
-458.53750 	WQNC802 	M	250.3 PL	Juniata Ops7 	Fire Ops 7 	FMN 	Fire-Talk 
-453.53750 	WQNC802 	M	250.3 PL	Juniata Ops8 	Fire Ops 8 	FMN 	Fire-Talk 
-462.95000 	WZN228 	RM	250.3 PL	Juniata EMS 	EMS Dispatch (Med-9) 	FMN 	EMS Dispatch 
-462.97500 	WZN228 	RM	250.3 PL	Med10 JunCo 	EMS (Med-10) 	FMN 	EMS Dispatch 
-463.10000 	WZN228 	M	CSQ	JunCoEMS Tac 	EMS Tac 	FMN 	EMS-Tac 
-463.02500 	WZN228 	RM	250.3 PL	Med2 JunCo 	EMS Ops Med 2 	FMN 	EMS-Tac 
-463.07500 	WZN228 	RM	250.3 PL	Med4 JunCo 	EMS Ops Med 4 	FMN 	EMS-Tac 
-463.12500 	WZN228 	RM	250.3 PL	Med6 JunCo 	EMS Ops Med 6 	FMN 	EMS-Tac 
-463.17500 	WZN228 	RM	250.3 PL	Med8 JunCo 	EMS Ops Med 8 	FMN 	EMS-Tac 
-46.06000 	KGG243 	BM		Juniata FG-1 	Fireground 1 - Interop Patch 	FM 	Interop 
-46.10000 	KGG243 	BM		Juniata FG-2 	Fireground 2 - Interop Patch 	FM 	Interop 
+453.47500 	458.47500  	WQNS272 	RM	475 NAC	Jun PD ENC 	Law Enforcement (Encrypted) 	P25E 	Law Tac 
+453.41250 	458.41250  	WQNC802 	RM	250.3 PL	Juniata Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+453.26250 	458.26250  	WQNS272 	RM	262 NAC	Juniata Ops2 	Fire Ops 2 - Tuscarora 	P25 	Fire-Tac 
+460.15000 	465.15000  	WQNS272 	RM	150 NAC	Juniata Ops3 	Fire Ops 3 - Shade 	P25 	Fire-Tac 
+453.58750 	458.58750  	WQNS272 	RM	587 NAC	Juniata Ops4 	Fire Ops 4 - Black Log 	P25 	Fire-Tac 
+460.36250 	465.36250  	WQNS272 	RM	250.3 PL	Juniata Ops5 	Fire Ops 5 - Countywide 	FMN 	Fire-Tac 
+465.50000 	   	WQNC802 	M	250.3 PL	Juniata Ops6 	Fire Ops 6 	FMN 	Fire-Talk 
+458.53750 	   	WQNC802 	M	250.3 PL	Juniata Ops7 	Fire Ops 7 	FMN 	Fire-Talk 
+453.53750 	   	WQNC802 	M	250.3 PL	Juniata Ops8 	Fire Ops 8 	FMN 	Fire-Talk 
+462.95000 	467.95000  	WZN228 	RM	250.3 PL	Juniata EMS 	EMS Dispatch (Med-9) 	FMN 	EMS Dispatch 
+462.97500 	467.97500  	WZN228 	RM	250.3 PL	Med10 JunCo 	EMS (Med-10) 	FMN 	EMS Dispatch 
+463.10000 	   	WZN228 	M	CSQ	JunCoEMS Tac 	EMS Tac 	FMN 	EMS-Tac 
+463.02500 	468.02500  	WZN228 	RM	250.3 PL	Med2 JunCo 	EMS Ops Med 2 	FMN 	EMS-Tac 
+463.07500 	468.07500  	WZN228 	RM	250.3 PL	Med4 JunCo 	EMS Ops Med 4 	FMN 	EMS-Tac 
+463.12500 	468.12500  	WZN228 	RM	250.3 PL	Med6 JunCo 	EMS Ops Med 6 	FMN 	EMS-Tac 
+463.17500 	468.17500  	WZN228 	RM	250.3 PL	Med8 JunCo 	EMS Ops Med 8 	FMN 	EMS-Tac 
+46.06000 	   	KGG243 	BM		Juniata FG-1 	Fireground 1 - Interop Patch 	FM 	Interop 
+46.10000 	   	KGG243 	BM		Juniata FG-2 	Fireground 2 - Interop Patch 	FM 	Interop 
 Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	

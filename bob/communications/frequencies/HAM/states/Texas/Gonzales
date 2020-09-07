@@ -1,15 +1,15 @@
-155.58750 	KXF575 	RM	351 NAC	Gonz SO 1 	Sheriff Primary  	P25 	Law Dispatch 
-154.10750 	WQEW868 	RM	352 NAC	Gonz SO 2 	Sheriff  (Nixon area) 	P25 	Law Dispatch 
-155.81250 	WQAN582 	RM	072 DPL	GNZALS FN N 	Fire-Net North (Gonzales FD, Ottine FD, and Waelder FD) 	FMN 	Fire Dispatch 
-155.23500 	WQAN582 	RM	225.7 PL	GNZALS FN S 	Fire-Net South (Nixon and Smiley VFDs) 	FMN 	Fire Dispatch 
-158.76000 	WPRZ946 	RM	192.8 PL	Gonz EMS E 	EMS East Tower 	FM 	EMS Dispatch 
-153.90500 	WPRZ946 	RM	192.8 PL	Gonz EMS W 	EMS West Tower (Belmont VFD) 	FM 	EMS Dispatch 
-153.26000 	 			Gonz Co PW 	Public Works 	FM 	Public Works 
-155.87250 	WQLE326 	RM	750 NAC	GNZLS PD DIG 	Gonzales PD Primary 	P25 	Law Dispatch 
-156.10500 	WQLX522 	RM		GNZLS FD 	Gonzales Fire 	FM 	Fire-Tac 
-156.10500 	WQLX522 	RM	359 NAC	GNZLS FD DIG 	Gonzales Fire Digital 	P25 	Fire-Tac 
-155.08500 	KRY992 	BM		GONZALES PW 	Public Works 	FM 	Public Works 
-154.11500 	WPJV556 	R	107.2 PL	WAELDER PD 	Waelder PD Repeater 	FM 	Law Dispatch 
-461.05000 	WPAA855 	RM	192.8 PL	GNZALS ISD 	Maintenance 	FM 	Schools 
-American Electric Power / Central Power and Light	 EDACS Standard	 Various	Guadalupe Valley Electric Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Horizon Telecom (Gonzales)	 LTR Standard
- Gonzales	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	
+155.58750 	153.92750  	KXF575 	RM	351 NAC	Gonz SO 1 	Sheriff Primary  	P25 	Law Dispatch 
+154.10750 	155.99250  	WQEW868 	RM	352 NAC	Gonz SO 2 	Sheriff  (Nixon area) 	P25 	Law Dispatch 
+155.81250 	153.83750  	WQAN582 	RM	072 DPL	GNZALS FN N 	Fire-Net North (Gonzales FD, Ottine FD, and Waelder FD) 	FMN 	Fire Dispatch 
+155.23500 	158.85000  	WQAN582 	RM	225.7 PL	GNZALS FN S 	Fire-Net South (Nixon and Smiley VFDs) 	FMN 	Fire Dispatch 
+158.76000 	156.22500  	WPRZ946 	RM	192.8 PL	Gonz EMS E 	EMS East Tower 	FM 	EMS Dispatch 
+153.90500 	158.88000  	WPRZ946 	RM	192.8 PL	Gonz EMS W 	EMS West Tower (Belmont VFD) 	FM 	EMS Dispatch 
+153.26000 	   	 			Gonz Co PW 	Public Works 	FM 	Public Works 
+155.87250 	151.31750  	WQLE326 	RM	750 NAC	GNZLS PD DIG 	Gonzales PD Primary 	P25 	Law Dispatch 
+156.10500 	151.45250  	WQLX522 	RM		GNZLS FD 	Gonzales Fire 	FM 	Fire-Tac 
+156.10500 	151.45250  	WQLX522 	RM	359 NAC	GNZLS FD DIG 	Gonzales Fire Digital 	P25 	Fire-Tac 
+155.08500 	   	KRY992 	BM		GONZALES PW 	Public Works 	FM 	Public Works 
+154.11500 	159.07500  	WPJV556 	R	107.2 PL	WAELDER PD 	Waelder PD Repeater 	FM 	Law Dispatch 
+461.05000 	466.05000  	WPAA855 	RM	192.8 PL	GNZALS ISD 	Maintenance 	FM 	Schools 
+American Electric Power / Central Power and Light	 EDACS Standard	 Various	BrandMeister Texas	 DMR Conventional Networked	 Various	Guadalupe Valley Electric Cooperative	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Horizon Telecom (Gonzales)	 LTR Standard	 Gonzales	Lower Colorado River Authority (LCRA) OpenSky	 OpenSky 4800 baud	 Various	

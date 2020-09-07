@@ -1,44 +1,43 @@
-155.70000 	KIF637 	RM	156.7 PL	CCSO1 Pri 	Sheriff Primary (Backup to TRS) 	FM 	Law Dispatch 
-154.83000 	KIF637 	RM	156.7 PL	CCSO4 NCIC 	Sheriff NCIC (Backup to TRS) 	FM 	Law Dispatch 
-150.99500 	KIF637 	RM		CCSO 	Sheriff 	FM 	Law Talk 
-154.96500 	KIF637 	RM		CCSO 	Sheriff 	FM 	Law Talk 
-155.56500 	KIF637 	RM		CCSO 	Sheriff 	FM 	Law Talk 
-156.13500 	KIF637 	RM		CCSO 	Sheriff 	FM 	Law Talk 
-158.97000 	KIF637 	M		CCSO 	Sheriff 	FM 	Law Talk 
-453.66250 	KIF637 	M		CCSO 	Sheriff 	FM 	Law Talk 
-453.71250 	KIF637 	M		CCSO 	Sheriff 	FM 	Law Talk 
-855.73750 	WPMH803 	RM		CCSO Jail 	County Jail 	FM 	Law Tac 
-154.20500 	KYO379 	BM	156.7 PL	CCFR DISP 1 	Fire Dispatch (Simulcast from TRS) 	FM 	Fire Dispatch 
-154.23500 	KYO379 	BM	156.7 PL	CCFR F/G 2 	Fireground (Backup to TRS) 	FM 	Fire-Talk 
-154.17500 	 	BM	156.7 PL	CCFR F/G 4 	Fireground (Backup to TRS) 	FM 	Fire-Talk 
-453.76250 	WQBP697 	M		CCFR 1 	Fire/Rescue 	FM 	Fire-Tac 
-465.51250 	WQBP697 	M		CCFR 2 	Fire/Rescue 	FM 	Fire-Tac 
-155.34000 	KNCW610 	BM	156.7 PL	REG MED 1 	Regional Med 1  	FM 	EMS-Talk 
-463.10000 	KFQ948 	BM	167.9 PL	MED-5 	County Medical Control (Patch to TRS) 	FM 	EMS-Talk 
-463.17500 	KFQ948 	BM		MED-8 	EMS Mutual Aid / EMS-to-Gainesville Va Medical Center 	FM 	Interop 
-462.95000 	KFQ948 	BM		MED-9 	EMS Private Ambulance Dispatch  	FM 	EMS Dispatch 
-462.97500 	KFQ948 	BM		MED-10 	VC-2 	FM 	EMS-Talk 
-463.01250 	 	RM	167.9 PL	MED-12 	EMS-to-Orange Park Medical Center 	FM 	Hospital 
-156.10500 	KFO771 	BM		CCR&B 	Bridge and Road Department (Backup to TRS) 	FM 	Public Works 
-462.47500 	 	RM		CCU/A 	Utility Authority (Backup to TRS) 	FM 	Utilities 
-158.89500 	KNFA664 	RM	CC 3TG 1001SL 1	CCPS MAIN 	School Buses - Main 	DMR 	Transportation 
-154.02500 	KNNM962 	RM		CCPS 2 	School Buses 	DMR 	Transportation 
-155.89500 	KDP316 	BM	156.7 PL	GCS F/PW 	Fire / Public Works 	FM 	Multi-Talk 
-154.80000 	KIF496 	RM	156.7 PL	GCSPD B/U 	Police (Backup to TRS) 	FM 	Law Talk 
-154.40000 	KOM649 	BM	156.7 PL	OPFR 	Fire/Rescue (Backup System) 	FM 	Fire Dispatch 
-154.71000 	KVR799 	RM	156.7 PL	OPPD 	Police Dispatch (Backup System) 	FM 	Law Dispatch 
-155.25000 	WPZI456 	RM		OPPW 	Public Works 	FM 	Public Works 
-154.20500 	KDY384 	BM	156.7 PL	KHVF DISP 1 	Clay Fire 1 	FM 	Fire Dispatch 
-154.96500 	KIF637 	RM	156.7 PL	LAKE REG M/A 	Lake Region Mutual Aid 	FM 	Interop 
-154.43000 	KDY384 	BM	156.7 PL	KHVFD 4 	KHVFD 4 	FM 	Fire-Talk 
-154.17500 	 	BM	156.7 PL	KH CLAY 5 	Clay Fire 4 	FM 	Fire-Talk 
-154.25000 	KFK524 	RM	365 DPL	Bradford Fire1 	Bradford Fire 1 Dispatch  	FMN 	Fire-Tac 
-151.32500 	WPOX402 	RM	203.5 PL	Bradford Fire4 	Bradford Fire 4 	FMN 	Fire-Tac 
-151.32500 	WPOX402 	M	203.5 PL	Bradford Fire5 	Bradford Fire 5 	FMN 	Fire-Tac 
-151.40000 	KWH431 	RM	131 DPL	PutnamCentral  	Putnam Central Ops 	FMN 	Fire Dispatch 
-153.99500 	KWH431 	RM	065 DPL	Putnam East  	Putnam East Ops 	FMN 	Fire-Talk 
-156.12000 	KWH431 	RM	516 DPL	Putnam Fire D 	Putnam Fire Primary 	FMN 	Fire Dispatch 
-155.82750 	KWH431 	RM	243 DPL	Putnam West 	Putnam West Ops  	FMN 	Fire-Tac 
-Clay County	 Project 25 Phase I	 Green Cove Springs	FDARN Network	 DMR Conventional Networked	 Dunedin	Florida Fleet Talk	 NXDN NEXEDGE 4800
- Various	Florida Power and Light (P25)	 Project 25 Phase II	 Varies	Reidy Rhodes and Taylor (LTR)	 LTR Standard	 Middleburg	Statewide Law Enforcement Radio System (P25)
- Project 25 Phase I	 Statewide	
+155.70000 	   	KIF637 	RM	156.7 PL	CCSO1 Pri 	Sheriff Primary (Backup to TRS) 	FM 	Law Dispatch 
+154.83000 	   	KIF637 	RM	156.7 PL	CCSO4 NCIC 	Sheriff NCIC (Backup to TRS) 	FM 	Law Dispatch 
+150.99500 	   	KIF637 	RM		CCSO 	Sheriff 	FM 	Law Talk 
+154.96500 	   	KIF637 	RM		CCSO 	Sheriff 	FM 	Law Talk 
+155.56500 	   	KIF637 	RM		CCSO 	Sheriff 	FM 	Law Talk 
+156.13500 	   	KIF637 	RM		CCSO 	Sheriff 	FM 	Law Talk 
+158.97000 	   	KIF637 	M		CCSO 	Sheriff 	FM 	Law Talk 
+453.66250 	   	KIF637 	M		CCSO 	Sheriff 	FM 	Law Talk 
+453.71250 	   	KIF637 	M		CCSO 	Sheriff 	FM 	Law Talk 
+855.73750 	810.73750  	WPMH803 	RM		CCSO Jail 	County Jail 	FM 	Law Tac 
+154.20500 	   	KYO379 	BM	156.7 PL	CCFR DISP 1 	Fire Dispatch (Simulcast from TRS) 	FM 	Fire Dispatch 
+154.23500 	   	KYO379 	BM	156.7 PL	CCFR F/G 2 	Fireground (Backup to TRS) 	FM 	Fire-Talk 
+154.17500 	   	 	BM	156.7 PL	CCFR F/G 4 	Fireground (Backup to TRS) 	FM 	Fire-Talk 
+453.76250 	   	WQBP697 	M		CCFR 1 	Fire/Rescue 	FM 	Fire-Tac 
+465.51250 	   	WQBP697 	M		CCFR 2 	Fire/Rescue 	FM 	Fire-Tac 
+155.34000 	   	KNCW610 	BM	156.7 PL	REG MED 1 	Regional Med 1  	FM 	EMS-Talk 
+463.10000 	468.10000  	KFQ948 	BM	167.9 PL	MED-5 	County Medical Control (Patch to TRS) 	FM 	EMS-Talk 
+463.17500 	468.17500  	KFQ948 	BM		MED-8 	EMS Mutual Aid / EMS-to-Gainesville Va Medical Center 	FM 	Interop 
+462.95000 	467.95000  	KFQ948 	BM		MED-9 	EMS Private Ambulance Dispatch  	FM 	EMS Dispatch 
+462.97500 	467.97500  	KFQ948 	BM		MED-10 	VC-2 	FM 	EMS-Talk 
+463.01250 	468.01250  	 	RM	167.9 PL	MED-12 	EMS-to-Orange Park Medical Center 	FM 	Hospital 
+156.10500 	   	KFO771 	BM		CCR&B 	Bridge and Road Department (Backup to TRS) 	FM 	Public Works 
+462.47500 	   	 	RM		CCU/A 	Utility Authority (Backup to TRS) 	FM 	Utilities 
+158.89500 	155.82000  	KNFA664 	RM	CC 3TG 1001SL 1	CCPS MAIN 	School Buses - Main 	DMR 	Transportation 
+154.02500 	153.78500  	KNNM962 	RM		CCPS 2 	School Buses 	DMR 	Transportation 
+155.89500 	   	KDP316 	BM	156.7 PL	GCS F/PW 	Fire / Public Works 	FM 	Multi-Talk 
+154.80000 	155.53500  	KIF496 	RM	156.7 PL	GCSPD B/U 	Police (Backup to TRS) 	FM 	Law Talk 
+154.40000 	   	KOM649 	BM	156.7 PL	OPFR 	Fire/Rescue (Backup System) 	FM 	Fire Dispatch 
+154.71000 	   	KVR799 	RM	156.7 PL	OPPD 	Police Dispatch (Backup System) 	FM 	Law Dispatch 
+155.25000 	   	WPZI456 	RM		OPPW 	Public Works 	FM 	Public Works 
+154.20500 	   	KDY384 	BM	156.7 PL	KHVF DISP 1 	Clay Fire 1 	FM 	Fire Dispatch 
+154.96500 	   	KIF637 	RM	156.7 PL	LAKE REG M/A 	Lake Region Mutual Aid 	FM 	Interop 
+154.43000 	   	KDY384 	BM	156.7 PL	KHVFD 4 	KHVFD 4 	FM 	Fire-Talk 
+154.17500 	   	 	BM	156.7 PL	KH CLAY 5 	Clay Fire 4 	FM 	Fire-Talk 
+154.25000 	   	KFK524 	RM	365 DPL	Bradford Fire1 	Bradford Fire 1 Dispatch  	FMN 	Fire-Tac 
+151.32500 	153.81500  	WPOX402 	RM	203.5 PL	Bradford Fire4 	Bradford Fire 4 	FMN 	Fire-Tac 
+151.32500 	   	WPOX402 	M	203.5 PL	Bradford Fire5 	Bradford Fire 5 	FMN 	Fire-Tac 
+151.40000 	159.07500  	KWH431 	RM	131 DPL	PutnamCentral  	Putnam Central Ops 	FMN 	Fire Dispatch 
+153.99500 	159.19500  	KWH431 	RM	065 DPL	Putnam East  	Putnam East Ops 	FMN 	Fire-Talk 
+156.12000 	158.98500  	KWH431 	RM	516 DPL	Putnam Fire D 	Putnam Fire Primary 	FMN 	Fire Dispatch 
+155.82750 	   	KWH431 	RM	243 DPL	Putnam West 	Putnam West Ops  	FMN 	Fire-Tac 
+Clay County	 Project 25 Phase I	 Green Cove Springs	FDARN Network	 DMR Conventional Networked	 Dunedin	Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various
+Reidy Rhodes and Taylor (LTR)	 LTR Standard	 Middleburg	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide

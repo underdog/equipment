@@ -1,132 +1,130 @@
-460.35000 	KCA860 	RM	315 DPL	BPD CW 1 	Police Citywide Events 	FMN 	Law Tac 
-460.45000 	WPDF277 	RM	331 DPL	BPD A1-A7 	PD Downtown/Chastwn/E. Boston  (A-1/A-7) 	FMN 	Law Dispatch 
-460.22500 	KCA860 	RM	343 DPL	BPD B2-B3 	PD Roxbury/Mattapan (B-2/B-3) 	FMN 	Law Dispatch 
-460.40000 	KCA860 	RM	346 DPL	BPD E5-13-18 	PD Jamaica Plain/Hyde Pk/W Roxbury/Roslindale /(E-5/E-13/E-18) 	FMN 	Law Dispatch 
-460.50000 	KCA860 	RM	351 DPL	BPD D4-D14 	PD Back Bay/South End/Allston/Brighton (D-4/D-14) 	FMN 	Law Dispatch 
-460.17500 	WNGV518 	RM	364 DPL	BPD C6-C11 	PD S. Boston/Dorchester (C-6/C-11) 	FMN 	Law Dispatch 
-460.30000 	KCA860 	RM	365 DPL	BPD TA 7 	Police Talk-Around 	FMN 	Law Talk 
-460.12500 	KCA860 	RM	371 DPL	BPD List 8 	Police Listings/Warrant Checks 	FMN 	Law Tac 
-460.07500 	KCA860 	RM	411 DPL	BPD TA 9 	Police Talk-Around 	FMN 	Law Talk 
-460.25000 	KCA860 	RM	412 DPL	BPD CMD 10 	Police Command Units 	FMN 	Law Tac 
-460.37500 	WNGV518 	RM	445 NAC	BPD Detc 11 	Police Detectives (Encrypted) 	P25E 	Law Tac 
-460.05000 	WPDF277 	RM	464 DPL	BPD SOps 12 	Police Special Operations 	FMN 	Law Tac 
-460.15000 	WPHW649 	RM	465 DPL	BPD Detc 13 	Police Detectives 	FMN 	Law Tac 
-460.27500 	WPHW649 	RM	466 DPL	BPD IA 14 	Police Interagency Operations (BEMS, BFD) 	FMN 	Interop 
-460.47500 	KCA860 	RM	503 NAC	BPD CMD 15 	Police Command Units (Encrypted) 	P25E 	Law Tac 
-460.02500 	WPKX965 	RM	506 NAC	BPD Telc 16 	Police Telecommunications Unit 	P25e 	Law Tac 
-158.91000 	WNZC281 	RM	612 DPL	BPD Paging 	Police Paging 	FM 	Data 
-453.20000 	WPIC816 	RM	118.8 PL	BPD Services 	Police Services 	FMN 	Law Tac 
-453.30000 	WPLT203 	RM	606 DPL	BPD HealthComm 	Health Commission 	FMN 	Law Talk 
-453.35000 	WPLT203 	RM	532 DPL	Housing PD 	Housing Police 	FMN 	Law Dispatch 
-460.42500 	WPXS215 	RM	423 DPL	BPD Patches 	Police New Channel (active on Citywide) patches 	FMN 	Law Tac 
-483.16250 	KGA645 	RM	023 DPL	BFD Main 1 	Fire Main Dispatch 	FMN 	Fire Dispatch 
-483.18750 	KGA645 	RM	114 DPL	BFD FG 2 	Fire Primary Fireground 	FMN 	Fire-Tac 
-483.21250 	KGA645 	RM	516 DPL	BFD FG 3 	Fire HazMats/Second Fireground 	FMN 	Fire-Tac 
-483.23750 	KGA645 	RM	731 DPL	BFD 4 	Fire Evacuation Operations 	FMN 	Fire-Tac 
-453.65000 	WNKT513 	RM	131.8 PL	BFD Alert 5 	Fire Station Alerting 	FMN 	Fire Dispatch 
-483.15000 	WPPW444 	RM	073 DPL	BFD 6 	Fire District Repeater (West Roxbury) 	FMN 	Fire-Tac 
-483.17500 	WPPW444 	RM	054 DPL	BFD 7 	Fire District Repeater (Brighton) 	FMN 	Fire-Tac 
-483.20000 	WPPW444 	RM	032 DPL	BFD 8 	Fire District Repeater (South End) 	FMN 	Fire-Tac 
-483.22500 	WPPW444 	RM	023 DPL	BFD 9 	Fire District Repeater (East Boston) 	FMN 	Fire-Tac 
-483.25000 	WPPW444 	RM	754 DPL	BFD 10 	Fire District Repeater (Dorchester)  	FMN 	Fire-Tac 
-486.15000 	WPPW444 	M	532 DPL	BFD 11 	Fire Tactical Special Operations 	FMN 	Fire-Tac 
-486.17500 	WPPW444 	M	351 DPL	BFD 12 	Fire Tactical 12 	FMN 	Fire-Tac 
-486.20000 	WPPW444 	M	243 DPL	BFD 13 	Fire Tactical 13 	FMN 	Fire-Tac 
-486.22500 	WPPW444 	M	026 DPL	BFD 14 	Fire Tactical 14 	FMN 	Fire-Tac 
-486.25000 	WPPW444 	M	051 DPL	BFD 15 	Fire Tactical 15 	FMN 	Fire-Tac 
-462.97500 	KIR735 	RM	072 DPL	TAC-01 	EMS Citywide Dispatch 	FMN 	EMS Dispatch 
-458.13750 	WPIC972 	M	311 DPL	TAC-02 	EMS Simplex TAC-2 	FMN 	EMS-Tac 
-462.95000 	KIR735 	RM	143 DPL	TAC-03 	EMS Tactical 3 	FMN 	EMS-Tac 
-458.06250 	WPIC972 	M	343 DPL	TAC-04 	EMS Simplex TAC-4 	FMN 	EMS-Tac 
-460.55000 	KDD449 	RM	112 NAC	TAC-05 	EMS Tactical 5 	P25 	EMS-Tac 
-453.77500 	WNZF351 	RM	244 DPL	TAC-06 	EMS Tactical 6 	FMN 	EMS-Tac 
-460.52500 	WNHE570 	RM	131 DPL	TAC-07 	EMS Tactical 7 	FMN 	EMS-Tac 
-453.10000 	WPXX421 	RM	444 NAC	TAC-15 	EMS Tactical 15 Boston Ambulance Mutual Aid (BAMA) 	P25 	Interop 
-470.20000 	WQHR370 	M	103.5 PL	REG TAC 1 	MBHSR Regional EMS Tac 1 	FMN 	EMS-Tac 
-473.20000 	WQHR370 	M	107.2 PL	REG TAC 2 	MBHSR Regional EMS Tac 2 	FMN 	EMS-Tac 
-851.08750 	KKR520 	M	125 DPL	Boston TalkAroun 	Talk-Around 	FM 	Multi-Talk 
-851.08750 	KKR520 	RM	173.8 PL	BostonTraffic11 	Traffic Department Ch. 11 	FM 	Public Works 
-851.08750 	KKR520 	M	173.8 PL	BostonTraffic13 	Traffic Department Ch. 13 	FM 	Public Works 
-851.11250 	KKR520 	RM	173.8 PL	BostonTraffic12 	Traffic Department Ch. 12 	FM 	Public Works 
-470.88750 	WIK885 	RM	131.8 PL	Chelsea PD 	Police Operations 	FMN 	Law Dispatch 
-470.02500 	WQHR366 	RM	114.8 PL	CFD Dispatch 	Fire Operations 	FMN 	Fire Dispatch 
-482.23750 	WQHR366 	M	77.0 PL	CFD-Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
-470.08750 	WQHR366 	M	79.7 PL	CFD-Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
-155.74500 	KLE837 	RM	151.4 PL	Chelsea DPW 	Public Works 	FMN 	Public Works 
-470.86250 	WPQY481 	RM	131.8 PL	Revere PD 	Police Operations 	FMN 	Law Dispatch 
-470.06250 	WQHR371 	RM	123.0 PL	Revere FD 	Fire Operations 	FMN 	Fire Dispatch 
-482.20000 	WQHR371 	RM	127.3 PL	Revere FD TAC 	Fire Tactical 	FMN 	Fire-Tac 
-453.96250 	WPEH261 	RM	103.5 PL	Revere EMA 	Emergency Management 	FMN 	Emergency Ops 
-471.73750 	KAA931 	RM	226 NAC	Winthrop PD 	Police Operations 	P25 	Law Dispatch 
-155.58000 	WXK752 	RM	88.5 PL	Winthrop Aux PD 	Auxiliary Police 	FM 	Law Talk 
-483.63750 	KYD496 	RM	131.8 PL	Winthrop FD 	Fire Operations 	FMN 	Fire Dispatch 
-453.86250 	WPPC745 	RM	206.5 PL	Winthrop EMA-HBM 	Emergency Managment - Harbormaster 	FMN 	Multi-Dispatch 
-453.23750 	WPUE221 	RM	206.5 PL	Winthrop DPW 	Public Works 	FM 	Public Works 
-470.66250 	KUL318 	RM	131.8 PL	MBTA Transit PD1 	Transit Police Primary 	FMN 	Law Dispatch 
-483.56250 	KDB418 	RM	131.8 PL	MBTA Transit PD2 	Transit Police Secondary 	FMN 	Law Dispatch 
-464.92500 	WQCG202 	RM	CC 1TG 501SL 1	BerkleeCollMusPD 	Berklee College of Music Police 	DMR 	Law Dispatch 
-472.16250 	WII252 	RM	671 NAC	BU Police 	Boston University - Police 	P25 	Law Dispatch 
-464.85000 	KDF931 	RM	143 DPL	BU Police 2 	Police F-2 	FMN 	Law Dispatch 
-451.31250 	WQBS845 	BM	203.5 PL	BU Rec Ctr 	Recreation Center 	FMN 	Schools 
-451.51250 	WQQU234 	BM	151.4 PL	BU Athl 	Boston University Athletics - Simplex 	FMN 	Schools 
-451.83750 	WQCA700 	BM	88.5 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
-451.86250 	WQBS845 	RM	203.5 PL	BU Rec Ctr 	Recreation Center 	FMN 	Schools 
-451.96250 	WQCA700 	RM	179.9 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
-452.06250 	WQCA700 	BM	162.2 PL	BU RecC 	Boston University Rec Center 	FMN 	Schools 
-452.16250 	WQCA700 	BM	218.1 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
-452.83750 	WQCA700 	RM	203.5 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
-452.88750 	WQCA700 	RM	210.7 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
-452.98750 	WQCA700 	BM	179.9 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
-456.51250 	WQQU234 	BM	274 DPL	BU Athletics 	Athletics 	FMN 	Schools 
-461.46250 	WQCA700 	BM	167.9 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
-461.98750 	WQFQ933 	RM	311 DPL	BU Facilitie 	Facilities Mgmt. 	FMN 	Schools 
-462.03750 	WQFQ933 	RM	606 DPL	BU Buildings 	Facilities Mgmt.-Buildings 	FMN 	Schools 
-462.13750 	WQFQ933 	RM	612 DPL	BU Electric 	Facilities Mgmt.-Electric 	FMN 	Schools 
-463.21250 	WQFQ933 	RM	627 DPL	BU Maint 	Facilities Mgmt.-Plumbing And Heat 	FMN 	Schools 
-463.36250 	WQFQ933 	RM	654 DPL	BU Facilitie 	Facilities Mgmt. 	FMN 	Schools 
-463.43750 	WQFQ933 	RM	754 DPL	BU Tech 	Facilities Mgmr.-Info. Tech. 	FMN 	Schools 
-463.98750 	WQFQ933 	RM	703 DPL	BU Facilitie 	Facilities Management 	FMN 	Schools 
-467.76250 	WQCY303 	BM	141.3 PL	BU CFA 	College of Fine Arts 	FMN 	Schools 
-467.81250 	WQCY303 	BM	115 DPL	BU CFA 	College of Fine Arts 	FMN 	Schools 
-467.87500 	WQCY303 	BM	100.0 PL	BU CFA 	College of Fine Arts 	FMN 	Schools 
-463.37500 	WPOA442 	RM	464 DPL	BunkerCC-PD 	Bunker Hill Community College - Police 	FMN 	Security 
-463.87500 	WNLH873 	RM	423 DPL	Emerson PD 	Emerson College 	FMN 	Security 
-463.71250 	WQFT400 	RM	250.3 PL	FisherColl PD 	Police Dispatch 	FMN 	Law Dispatch 
-464.97500 	KDS245 	RM	373 NAC	NU Police 	Police 	P25 	Security 
-464.12500 	KNJR490 	RM	373 NAC	NU Police F2 	Police - F2 (Student Patrols) 	P25 	Security 
-460.48750 	WQVD521 	RM	116 DPL	RoxburyCC Sec 	Security 	FMN 	Security 
-451.52500 	WPPB333 	RM	269 NAC	Suffolk Univ PD 	Police - Main 	P25 	Law Dispatch 
-463.65000 	WPPB333 	RM	127.3 PL	SuffolkU PD 	Police 	FMN 	Law Dispatch 
-460.10000 	WPRH886 	RM	141.3 PL	UMass Bos PD 	Campus Police 	FMN 	Law Dispatch 
-854.98750 	WPVB545 	RM	617 NAC	SuffolkHOC 	House of Corrections 	P25 	Corrections 
-854.68750 	WQZN244 	RM	CC 1TG 1SL 1	BCH Security 	Security 	DMR 	Security 
-855.08750 	WNGC283 	RM	CC 9TG 1SL 1	BCH Maint 	Maintenance 	DMR 	Hospital 
-464.23750 	WQTJ616 	RM	186.2 PL	BMC Security 	Security 	FMN 	Security 
-464.17500 	WPPN805 	RM	132 DPL	BMC Maintenance 	Maintenance 	FMN 	Hospital 
-451.77500 	WQKC518 	RM	186.2 PL	BUMC Security 	Security 	FMN 	Security 
-451.82500 	WQSU402 	RM	205 DPL	BUMC Maintenance 	Maintenance 	FMN 	Hospital 
-464.87500 	WQCN665 	RM	CC 1TG 10SL 2	BandW Sec 	Security and Operations 	DMR 	Security 
-464.87500 	WQCN665 	RM	CC 1TG 30SL 1	BandW Valet 	Valet Services 	DMR 	Hospital 
-464.62500 	WPBZ888 	RM	CC 7TG 23SL 1	Faulkner Ops 	Security and Operations 	DMR 	Security 
-464.62500 	WPBZ888 	RM	CC 7TG 25SL 2	Faulkner Maint 	Maintenance 	DMR 	Hospital 
-484.71250 	WIM246 	RM	131.8 PL	MGH Security 	Security 	FMN 	Security 
-484.13750 	WQAI284 	RM	CC 1TG 1SL 1	MGH Paitents 	Patient Ambassadors 	DMR 	Hospital 
-452.98750 	WPVW228 	RM	10 RAN	NEBaptistH-Sec 	Security 	NXDN 	Security 
-464.13750 	WPAJ357 	RM	11 RAN	NEBaptistH-Fac 	Facilities 	NXDN 	Business 
-453.15000 	WPPC497 	RM	CC 12TG 16776415SL 1	ShattuckHosp 	Hospital Operations 	DMR 	Hospital 
-854.76250 	WPBE523 	BM	423 DPL	St Elizabeth Sec 	Security 	FMN 	Security 
-464.33750 	WQAP792 	RM	122 DPL	St Elizabeth Mai 	Maintenance 	FMN 	Hospital 
-American Airlines (Boston Logan International Airport)	 Motorola Type II	 Boston	Applied Communications Services	 LTR Standard	 Boston	ARINC (Boston Logan International Airport)	 Motorola Type II
- Boston	Boston Park Plaza Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Boston	Commonwealth Of Massachusetts Interoperable Radio System (CoMIRS)	 Project 25 Phase II	 Regional	Comtronics
- LTR Standard	 Boston	Comtronics DMR - Network 137	 DMR Motorola Connect Plus (TRBO)	 Boston	Comtronics DMR - Network 138	 DMR Motorola Connect Plus (TRBO)	 Boston
-Comtronics DMR - Network 139	 DMR Motorola Connect Plus (TRBO)	 Multiple	Cybercomm	 LTR Passport	 Various	Data Radio Managment	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Boston	Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)	 Regional	JetBlue (BOS)	 DMR Tier 3	 Boston	Massachusetts Bay Transit Authority
- EDACS Standard	 Boston	Massachusetts Convention Center Authority	 DMR Tier 3	 Boston	Massachusetts State Police	 Motorola Type II SmartZone	 Statewide
-Modern Continental Construction	 Motorola Type II	 Boston	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various	RDC Communications - Network 178	 NXDN NEXEDGE 4800
- Various	Ritz-Carlton, Boston Common	 LTR Standard	 Boston	TD Garden DMR	 DMR Motorola Capacity Plus Single Site (TRBO)	 Boston	USS Bataan LHD-5
- EDACS Standard	 Boston	USS Jason Dunham DDG-109	 Motorola Type II	 Boston	USS Mahan DDG-72	 Motorola Type II	 Boston
-USS Porter DDG-78	 Motorola Type II	 Boston	USS Ramage DDG-61	 Motorola Type II SmartZone	 Boston	USS Robert G. Bradley FFG-49	 Motorola Type II Smartnet
- Boston	USS Sampson DDG-102	 Motorola Type II Smartnet	 Boston	USS Simpson FFG-56	 Motorola Type II	 Boston	USS Stephen W. Groves FFG-29
- Motorola Type II	 Boston	USS Taylor FFG-50	 Motorola Type II Smartnet	 Boston	USS Thomas Hudner DDG-116	 Motorola Type II	 Boston
-USS Underwood FFG-36	 Motorola Type II SmartZone	 Boston	USS Wasp LHD-1	 Motorola Type II	 Boston	USS Whidbey Island LSD-41	 EDACS Standard
- Boston	
+460.35000 	465.35000  	KCA860 	RM	315 DPL	BPD CW 1 	Police Citywide Events 	FMN 	Law Tac 
+460.45000 	465.45000  	WPDF277 	RM	331 DPL	BPD A1-A7 	PD Downtown/Chastwn/E. Boston  (A-1/A-7) 	FMN 	Law Dispatch 
+460.22500 	465.22500  	KCA860 	RM	343 DPL	BPD B2-B3 	PD Roxbury/Mattapan (B-2/B-3) 	FMN 	Law Dispatch 
+460.40000 	465.40000  	KCA860 	RM	346 DPL	BPD E5-13-18 	PD Jamaica Plain/Hyde Pk/W Roxbury/Roslindale /(E-5/E-13/E-18) 	FMN 	Law Dispatch 
+460.50000 	465.50000  	KCA860 	RM	351 DPL	BPD D4-D14 	PD Back Bay/South End/Allston/Brighton (D-4/D-14) 	FMN 	Law Dispatch 
+460.17500 	465.17500  	WNGV518 	RM	364 DPL	BPD C6-C11 	PD S. Boston/Dorchester (C-6/C-11) 	FMN 	Law Dispatch 
+460.30000 	465.30000  	KCA860 	RM	365 DPL	BPD TA 7 	Police Talk-Around 	FMN 	Law Talk 
+460.12500 	465.12500  	KCA860 	RM	371 DPL	BPD List 8 	Police Listings/Warrant Checks 	FMN 	Law Tac 
+460.07500 	465.07500  	KCA860 	RM	411 DPL	BPD TA 9 	Police Talk-Around 	FMN 	Law Talk 
+460.25000 	465.25000  	KCA860 	RM	412 DPL	BPD CMD 10 	Police Command Units 	FMN 	Law Tac 
+460.37500 	465.37500  	WNGV518 	RM	445 NAC	BPD Detc 11 	Police Detectives (Encrypted) 	P25E 	Law Tac 
+460.05000 	465.05000  	WPDF277 	RM	464 DPL	BPD SOps 12 	Police Special Operations 	FMN 	Law Tac 
+460.15000 	465.15000  	WPHW649 	RM	465 DPL	BPD Detc 13 	Police Detectives 	FMN 	Law Tac 
+460.27500 	465.27500  	WPHW649 	RM	466 DPL	BPD IA 14 	Police Interagency Operations (BEMS, BFD) 	FMN 	Interop 
+460.47500 	465.47500  	KCA860 	RM	503 NAC	BPD CMD 15 	Police Command Units (Encrypted) 	P25E 	Law Tac 
+460.02500 	465.02500  	WPKX965 	RM	506 NAC	BPD Telc 16 	Police Telecommunications Unit 	P25e 	Law Tac 
+158.91000 	   	WNZC281 	RM	612 DPL	BPD Paging 	Police Paging 	FM 	Data 
+453.20000 	458.20000  	WPIC816 	RM	118.8 PL	BPD Services 	Police Services 	FMN 	Law Tac 
+453.30000 	458.30000  	WPLT203 	RM	606 DPL	BPD HealthComm 	Health Commission 	FMN 	Law Talk 
+453.35000 	458.35000  	WPLT203 	RM	532 DPL	Housing PD 	Housing Police 	FMN 	Law Dispatch 
+460.42500 	465.42500  	WPXS215 	RM	423 DPL	BPD Patches 	Police New Channel (active on Citywide) patches 	FMN 	Law Tac 
+483.16250 	486.16250  	KGA645 	RM	023 DPL	BFD Main 1 	Fire Main Dispatch 	FMN 	Fire Dispatch 
+483.18750 	486.18750  	KGA645 	RM	114 DPL	BFD FG 2 	Fire Primary Fireground 	FMN 	Fire-Tac 
+483.21250 	486.21250  	KGA645 	RM	516 DPL	BFD FG 3 	Fire HazMats/Second Fireground 	FMN 	Fire-Tac 
+483.23750 	486.23750  	KGA645 	RM	731 DPL	BFD 4 	Fire Evacuation Operations 	FMN 	Fire-Tac 
+453.65000 	458.65000  	WNKT513 	RM	131.8 PL	BFD Alert 5 	Fire Station Alerting 	FMN 	Fire Dispatch 
+483.15000 	486.15000  	WPPW444 	RM	073 DPL	BFD 6 	Fire District Repeater (West Roxbury) 	FMN 	Fire-Tac 
+483.17500 	486.17500  	WPPW444 	RM	054 DPL	BFD 7 	Fire District Repeater (Brighton) 	FMN 	Fire-Tac 
+483.20000 	486.20000  	WPPW444 	RM	032 DPL	BFD 8 	Fire District Repeater (South End) 	FMN 	Fire-Tac 
+483.22500 	486.22500  	WPPW444 	RM	023 DPL	BFD 9 	Fire District Repeater (East Boston) 	FMN 	Fire-Tac 
+483.25000 	486.25000  	WPPW444 	RM	754 DPL	BFD 10 	Fire District Repeater (Dorchester)  	FMN 	Fire-Tac 
+486.15000 	   	WPPW444 	M	532 DPL	BFD 11 	Fire Tactical Special Operations 	FMN 	Fire-Tac 
+486.17500 	   	WPPW444 	M	351 DPL	BFD 12 	Fire Tactical 12 	FMN 	Fire-Tac 
+486.20000 	   	WPPW444 	M	243 DPL	BFD 13 	Fire Tactical 13 	FMN 	Fire-Tac 
+486.22500 	   	WPPW444 	M	026 DPL	BFD 14 	Fire Tactical 14 	FMN 	Fire-Tac 
+486.25000 	   	WPPW444 	M	051 DPL	BFD 15 	Fire Tactical 15 	FMN 	Fire-Tac 
+462.97500 	467.97500  	KIR735 	RM	072 DPL	TAC-01 	EMS Citywide Dispatch 	FMN 	EMS Dispatch 
+458.13750 	   	WPIC972 	M	311 DPL	TAC-02 	EMS Simplex TAC-2 	FMN 	EMS-Tac 
+462.95000 	467.95000  	KIR735 	RM	143 DPL	TAC-03 	EMS Tactical 3 	FMN 	EMS-Tac 
+458.06250 	   	WPIC972 	M	343 DPL	TAC-04 	EMS Simplex TAC-4 	FMN 	EMS-Tac 
+460.55000 	465.55000  	KDD449 	RM	112 NAC	TAC-05 	EMS Tactical 5 	P25 	EMS-Tac 
+453.77500 	458.77500  	WNZF351 	RM	244 DPL	TAC-06 	EMS Tactical 6 	FMN 	EMS-Tac 
+460.52500 	465.52500  	WNHE570 	RM	131 DPL	TAC-07 	EMS Tactical 7 	FMN 	EMS-Tac 
+453.10000 	458.10000  	WPXX421 	RM	444 NAC	TAC-15 	EMS Tactical 15 Boston Ambulance Mutual Aid (BAMA) 	P25 	Interop 
+470.20000 	   	WQHR370 	M	103.5 PL	REG TAC 1 	MBHSR Regional EMS Tac 1 	FMN 	EMS-Tac 
+473.20000 	   	WQHR370 	M	107.2 PL	REG TAC 2 	MBHSR Regional EMS Tac 2 	FMN 	EMS-Tac 
+851.08750 	   	KKR520 	M	125 DPL	Boston TalkAroun 	Talk-Around 	FM 	Multi-Talk 
+851.08750 	806.08750  	KKR520 	RM	173.8 PL	BostonTraffic11 	Traffic Department Ch. 11 	FM 	Public Works 
+851.08750 	   	KKR520 	M	173.8 PL	BostonTraffic13 	Traffic Department Ch. 13 	FM 	Public Works 
+851.11250 	806.11250  	KKR520 	RM	173.8 PL	BostonTraffic12 	Traffic Department Ch. 12 	FM 	Public Works 
+470.88750 	   	WIK885 	RM	131.8 PL	Chelsea PD 	Police Operations 	FMN 	Law Dispatch 
+470.02500 	473.02500  	WQHR366 	RM	114.8 PL	CFD Dispatch 	Fire Operations 	FMN 	Fire Dispatch 
+482.23750 	485.23750  	WQHR366 	M	77.0 PL	CFD-Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
+470.08750 	473.08750  	WQHR366 	M	79.7 PL	CFD-Tac 2 	Fire Tactical 2 	FMN 	Fire-Tac 
+155.74500 	   	KLE837 	RM	151.4 PL	Chelsea DPW 	Public Works 	FMN 	Public Works 
+470.86250 	   	WPQY481 	RM	131.8 PL	Revere PD 	Police Operations 	FMN 	Law Dispatch 
+470.06250 	473.06250  	WQHR371 	RM	123.0 PL	Revere FD 	Fire Operations 	FMN 	Fire Dispatch 
+482.20000 	485.20000  	WQHR371 	RM	127.3 PL	Revere FD TAC 	Fire Tactical 	FMN 	Fire-Tac 
+453.96250 	   	WPEH261 	RM	103.5 PL	Revere EMA 	Emergency Management 	FMN 	Emergency Ops 
+471.73750 	   	KAA931 	RM	226 NAC	Winthrop PD 	Police Operations 	P25 	Law Dispatch 
+155.58000 	   	WXK752 	RM	88.5 PL	Winthrop Aux PD 	Auxiliary Police 	FM 	Law Talk 
+483.63750 	486.63750  	KYD496 	RM	131.8 PL	Winthrop FD 	Fire Operations 	FMN 	Fire Dispatch 
+453.86250 	458.86250  	WPPC745 	RM	206.5 PL	Winthrop EMA-HBM 	Emergency Managment - Harbormaster 	FMN 	Multi-Dispatch 
+453.23750 	   	WPUE221 	RM	206.5 PL	Winthrop DPW 	Public Works 	FM 	Public Works 
+470.66250 	473.66250  	KUL318 	RM	131.8 PL	MBTA Transit PD1 	Transit Police Primary 	FMN 	Law Dispatch 
+483.56250 	486.56250  	KDB418 	RM	131.8 PL	MBTA Transit PD2 	Transit Police Secondary 	FMN 	Law Dispatch 
+464.92500 	469.92500  	WQCG202 	RM	CC 1TG 501SL 1	BerkleeCollMusPD 	Berklee College of Music Police 	DMR 	Law Dispatch 
+472.16250 	475.16250  	WII252 	RM	671 NAC	BU Police 	Boston University - Police 	P25 	Law Dispatch 
+464.85000 	469.85000  	KDF931 	RM	143 DPL	BU Police 2 	Police F-2 	FMN 	Law Dispatch 
+451.31250 	   	WQBS845 	BM	203.5 PL	BU Rec Ctr 	Recreation Center 	FMN 	Schools 
+451.51250 	   	WQQU234 	BM	151.4 PL	BU Athl 	Boston University Athletics - Simplex 	FMN 	Schools 
+451.83750 	   	WQCA700 	BM	88.5 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
+451.86250 	456.86250  	WQBS845 	RM	203.5 PL	BU Rec Ctr 	Recreation Center 	FMN 	Schools 
+451.96250 	456.96250  	WQCA700 	RM	179.9 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
+452.06250 	   	WQCA700 	BM	162.2 PL	BU RecC 	Boston University Rec Center 	FMN 	Schools 
+452.16250 	   	WQCA700 	BM	218.1 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
+452.83750 	457.83750  	WQCA700 	RM	203.5 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
+452.88750 	457.88750  	WQCA700 	RM	210.7 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
+452.98750 	   	WQCA700 	BM	179.9 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
+456.51250 	   	WQQU234 	BM	274 DPL	BU Athletics 	Athletics 	FMN 	Schools 
+461.46250 	   	WQCA700 	BM	167.9 PL	BU Agganis 	Agganis Arena 	FMN 	Schools 
+461.98750 	466.98750  	WQFQ933 	RM	311 DPL	BU Facilitie 	Facilities Mgmt. 	FMN 	Schools 
+462.03750 	467.03750  	WQFQ933 	RM	606 DPL	BU Buildings 	Facilities Mgmt.-Buildings 	FMN 	Schools 
+462.13750 	467.13750  	WQFQ933 	RM	612 DPL	BU Electric 	Facilities Mgmt.-Electric 	FMN 	Schools 
+463.21250 	468.21250  	WQFQ933 	RM	627 DPL	BU Maint 	Facilities Mgmt.-Plumbing And Heat 	FMN 	Schools 
+463.36250 	468.36250  	WQFQ933 	RM	654 DPL	BU Facilitie 	Facilities Mgmt. 	FMN 	Schools 
+463.43750 	468.43750  	WQFQ933 	RM	754 DPL	BU Tech 	Facilities Mgmr.-Info. Tech. 	FMN 	Schools 
+463.98750 	   	WQFQ933 	RM	703 DPL	BU Facilitie 	Facilities Management 	FMN 	Schools 
+467.76250 	   	WQCY303 	BM	141.3 PL	BU CFA 	College of Fine Arts 	FMN 	Schools 
+467.81250 	   	WQCY303 	BM	115 DPL	BU CFA 	College of Fine Arts 	FMN 	Schools 
+467.87500 	   	WQCY303 	BM	100.0 PL	BU CFA 	College of Fine Arts 	FMN 	Schools 
+463.37500 	468.37500  	WPOA442 	RM	464 DPL	BunkerCC-PD 	Bunker Hill Community College - Police 	FMN 	Security 
+463.87500 	468.87500  	WNLH873 	RM	423 DPL	Emerson PD 	Emerson College 	FMN 	Security 
+463.71250 	468.71250  	WQFT400 	RM	250.3 PL	FisherColl PD 	Police Dispatch 	FMN 	Law Dispatch 
+464.97500 	469.97500  	KDS245 	RM	373 NAC	NU Police 	Police 	P25 	Security 
+464.12500 	469.12500  	KNJR490 	RM	373 NAC	NU Police F2 	Police - F2 (Student Patrols) 	P25 	Security 
+460.48750 	465.48750  	WQVD521 	RM	116 DPL	RoxburyCC Sec 	Security 	FMN 	Security 
+451.52500 	456.52500  	WPPB333 	RM	269 NAC	Suffolk Univ PD 	Police - Main 	P25 	Law Dispatch 
+463.65000 	468.65000  	WPPB333 	RM	127.3 PL	SuffolkU PD 	Police 	FMN 	Law Dispatch 
+460.10000 	465.10000  	WPRH886 	RM	141.3 PL	UMass Bos PD 	Campus Police 	FMN 	Law Dispatch 
+854.98750 	809.98750  	WPVB545 	RM	617 NAC	SuffolkHOC 	House of Corrections 	P25 	Corrections 
+854.68750 	   	WQZN244 	RM	CC 1TG 1SL 1	BCH Security 	Security 	DMR 	Security 
+855.08750 	   	WNGC283 	RM	CC 9TG 1SL 1	BCH Maint 	Maintenance 	DMR 	Business 
+464.23750 	469.23750  	WQTJ616 	RM	186.2 PL	BMC Security 	Security 	FMN 	Security 
+464.17500 	469.17500  	WPPN805 	RM	132 DPL	BMC Maintenance 	Maintenance 	FMN 	Business 
+451.77500 	456.77500  	WQKC518 	RM	186.2 PL	BUMC Security 	Security 	FMN 	Security 
+451.82500 	456.82500  	WQSU402 	RM	205 DPL	BUMC Maintenance 	Maintenance 	FMN 	Business 
+464.87500 	469.87500  	WQCN665 	RM	CC 1TG 10SL 2	BandW Sec 	Security and Operations 	DMR 	Security 
+464.87500 	469.87500  	WQCN665 	RM	CC 1TG 30SL 1	BandW Valet 	Valet Services 	DMR 	Business 
+464.62500 	469.62500  	WPBZ888 	RM	CC 7TG 23SL 1	Faulkner Ops 	Security and Operations 	DMR 	Security 
+464.62500 	469.62500  	WPBZ888 	RM	CC 7TG 25SL 2	Faulkner Maint 	Maintenance 	DMR 	Business 
+484.71250 	487.71250  	WIM246 	RM	131.8 PL	MGH Security 	Security 	FMN 	Security 
+484.13750 	487.13750  	WQAI284 	RM	CC 1TG 1SL 1	MGH Paitents 	Patient Ambassadors 	DMR 	Business 
+452.98750 	457.98750  	WPVW228 	RM	10 RAN	NEBaptistH-Sec 	Security 	NXDN 	Security 
+464.13750 	469.13750  	WPAJ357 	RM	11 RAN	NEBaptistH-Fac 	Facilities 	NXDN 	Business 
+453.15000 	458.15000  	WPPC497 	RM	CC 12TG 16776415SL 1	ShattuckHosp 	Hospital Operations 	DMR 	Business 
+854.76250 	   	WPBE523 	BM	423 DPL	St Elizabeth Sec 	Security 	FMN 	Security 
+464.33750 	469.33750  	WQAP792 	RM	122 DPL	St Elizabeth Mai 	Maintenance 	FMN 	Business 
+American Airlines (Boston Logan International Airport)	 Motorola Type II	 Boston	Applied Communications Services	 LTR Standard	 Boston	ARINC (Boston Logan International Airport)	 Motorola Type II	 Boston
+Boston Park Plaza Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Boston	Commonwealth Of Massachusetts Interoperable Radio System (CoMIRS)	 Project 25 Phase II	 Regional	Comtronics	 LTR Standard	 Boston
+Comtronics DMR - Network 137	 DMR Motorola Connect Plus (TRBO)	 Boston	Comtronics DMR - Network 138	 DMR Motorola Connect Plus (TRBO)	 Boston	Comtronics DMR - Network 139	 DMR Motorola Connect Plus (TRBO)	 Multiple
+Cybercomm	 LTR Passport	 Various	Data Radio Managment	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Boston	Industrial Communications and Electronics (DMR)	 DMR Motorola Connect Plus (TRBO)	 Regional
+JetBlue (BOS)	 DMR Tier 3	 Boston	Massachusetts Bay Transit Authority	 EDACS Standard	 Boston	Massachusetts Convention Center Authority	 DMR Tier 3	 Boston
+Massachusetts State Police	 Motorola Type II SmartZone	 Statewide	Modern Continental Construction	 Motorola Type II	 Boston	OneVoice Network	 DMR Motorola Connect Plus (TRBO)	 Various
+RDC Communications - Network 178	 NXDN NEXEDGE 4800	 Various	Ritz-Carlton, Boston Common	 LTR Standard	 Boston	TD Garden DMR	 DMR Motorola Capacity Plus Single Site (TRBO)	 Boston
+USS Bataan LHD-5	 EDACS Standard	 Boston	USS Jason Dunham DDG-109	 Motorola Type II	 Boston	USS Mahan DDG-72	 Motorola Type II	 Boston
+USS Porter DDG-78	 Motorola Type II	 Boston	USS Ramage DDG-61	 Motorola Type II SmartZone	 Boston	USS Robert G. Bradley FFG-49	 Motorola Type II Smartnet	 Boston
+USS Sampson DDG-102	 Motorola Type II Smartnet	 Boston	USS Simpson FFG-56	 Motorola Type II	 Boston	USS Stephen W. Groves FFG-29	 Motorola Type II	 Boston
+USS Taylor FFG-50	 Motorola Type II Smartnet	 Boston	USS Thomas Hudner DDG-116	 Motorola Type II	 Boston	USS Underwood FFG-36	 Motorola Type II SmartZone	 Boston
+USS Wasp LHD-1	 Motorola Type II	 Boston	USS Whidbey Island LSD-41	 EDACS Standard	 Boston	

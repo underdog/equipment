@@ -1,60 +1,59 @@
-154.80000 	WNKU887 	RM		Mono Co SO1 	Dispatch 	FM 	Law Dispatch 
-158.88000 	WPZY703 	M		Mono Co SO 8 	Tac 	FM 	Law Tac 
-453.13750 	WNKU887 	M		Mono Co SO Ext 	Extenders 	FM 	Law Talk 
-155.19000 	WPNT303 	BM		Mono Co SO Jail 	Jail 	FM 	Corrections 
-460.48750 	WNKU887 	F		Mono Co SO Link 	Control Link 	FM 	Law Dispatch 
-458.08750 	 	F	146.2 PL	Alpine Co SO Lnk 	Simulcast of Alpine County SO 	FM 	Law Dispatch 
-153.86000 	WPNT303 	RM	CSQ	Mono Co FD Disp 	Dispatch 	FM 	Fire Dispatch 
-458.13750 	WNKU887 	M		Mono Co FD Ext 	Mobile Extender 	FM 	Fire-Talk 
-154.34750 	WQQJ366 	BM		AVFD Tac 	Antelope Valley Tac (Walker/Coleville) 	FMN 	Fire-Tac 
-154.40000 	WNNA683 	BM		CVFPD Tac 	Chalfant Valley Tac 	FM 	Fire-Tac 
-154.13000 	WZW966 	BM		LVFPD Tac 	Lee Vining Tac 	FM 	Fire-Tac 
-154.25000 	WQOJ712 	BM		PFPD Tac 	Paradise Tac 	FM 	Fire-Tac 
-154.34000 	WPKA847 	BM		LVFPD Tac 	Long Valley Tac 	FM 	Fire-Tac 
-154.43000 	KNHM427 	BM		JLFPD Tac 	June Lake Tac 	FMN 	Fire-Tac 
-154.38500 	 	BM		BFPD Tac 	Bridgeport Fire Tac 	FM 	Fire-Tac 
-154.19000 	WQLQ447 	BM	CSQ	WFPD Tac 	Wheeler Crest Tac 	FMN 	Fire-Tac 
-154.32500 	 	BM		WMFD Tac 	White Mountain Tac (Benton) 	FM 	Fire-Tac 
-453.11250 	WNKU887 	F		Fire Rpt Link 	UHF Control Link between Comm Center and Repeaters 	FM 	Fire Dispatch 
-154.02500 	WPNT303 	RM		Mono Co Med Rpts 	EMS to Hospital 	FM 	Hospital 
-460.56250 	WNKU887 	F		Mono Co EMS Link 	Control Link 	FM 	EMS-Talk 
-151.11500 	WNKU887 	RM	CSQ	Mono Co MA1 	Mutual Aid 1 	FM 	Interop 
-151.08500 	WNKU887 	RM	CSQ	Mono Co MA2 	Mutual Aid 2 	FM 	Interop 
-159.18000 	WKNU887 	M	CSQ	Mono Co MA3 	Mutual Aid 3 	FM 	Interop 
-159.15000 	WNKU887 	M	CSQ	Mono Co MA4 	Mutual Aid 4 	FM 	Interop 
-153.92000 	WNKU887 	RM	103.5 PL	Mono Co Admin 	Administration (very little use - migrated to cell phone traffic) 	FM 	Public Works 
-153.92000 	WNKU887 	RM	118.8 PL	Mono Co PW 	Public Works (Multiple Input Tones) 	FM 	Public Works 
-154.04000 	WPXI530 	M		Mono Co PW Tac 	Public Works Tac/Benton Crossing Landfill 	FM 	Public Works 
-155.80500 	KNDQ371 	BM	156.7 PL	ESTA Buses 	Eastern Sierra Transit Authority 	FM 	Transportation 
-453.16250 	WNKU887 	F		Mono Adm Lnk 	Links 153.920 from Dispatch to Conway Summit Remote Base 	FM 	Public Works 
-155.59500 	WNDM858 	BM	CSQ	MLPD 1 Dir 	Police Ch 1 	FM 	Law Tac 
-155.59500 	WNDM858 	RM	151.4 PL	MLPD 2 MamMt 	Police Ch 2 - Dispatch  	FM 	Law Dispatch 
-155.59500 	WNDM858 	RM	131.8 PL	MLPD 3 SubSt 	Police Ch 3 - Dispatch 	FM 	Law Dispatch 
-155.02500 	WNDM858 	M		MLPD CERT 	Police Community Emergency Response Team (CERT) 	FM 	Multi-Talk 
-155.14500 	WQJP908 	RM	151.4 PL	MLFD 2 CMD 	Fire Ch 2 - Command 	FM 	Fire-Talk 
-153.95000 	WQJP908 	BM	CSQ	MLFD 3 Tac 	Fire Ch 3 - Tac 	FM 	Fire-Tac 
-158.76000 	WNDM858 	RM		ML Admin Rpt 	City Admin 	FM 	Public Works 
-155.11500 	WNDM858 	BM		ML Tac 	Tactical (Multi-Use) 	FM 	Multi-Tac 
-158.83500 	WNDM858 	BM		ML PW 	Public Works 	FM 	Public Works 
-153.98000 	WQR636 	RM	136.5 PL	ESUSD Ops 	District Ops 	FM 	Schools 
-155.20500 	WPXF799 	RM	110.9 PL	MUSD 1 Bus 	Ch 1 - Buses 	FM 	Schools 
-155.26500 	WPXF799 	RM	110.9 PL	MUSD 2 Maint 	Ch 2 - Maintenance 	FM 	Schools 
-155.98500 	WPXF799 	BM	110.9 PL	MUSD 3 Yard 	Ch 3 - Yard & Field Trips 	FM 	Schools 
-151.86500 	WNFE750 	BM		UC RsrchBoat 	UC Research Boats 	FM 	Schools 
-463.67500 	WZA927 	RM		WhiteMtn Lab 	UC White Mountain Research Center 	FM 	Schools 
-122.90000 	 	M	CSQ	MWTC CTAF V 	Helicopter CTAF/UNICOM (VHF) 	AM 	Aircraft 
-341.35000 	 	M	CSQ	MWTC CTAF U 	Helicopter CTAF/UNICOM (UHF) 	AM 	Aircraft 
-149.27500 	 	RM	136.5 PL	MWTC FD Disp 	Fire/MPO Dispatch (Sweetwater Repeater) 	FMN 	Fire Dispatch 
-150.08750 	 	M		MWTC FD Tac 	Fire Tac 	FMN 	Fire-Tac 
-143.34000 	 	RM	123.0 PL	MWTC 1 	Visiting Units - Logistics Repeater (Ch 1) 	FMN 	Military 
-140.94000 	 	M	123.0 PL	MWTC 2 	Visiting Units - Logistics Simplex (Ch 2) 	FMN 	Military 
-143.99500 	 	M	123.0 PL	MWTC 3 	Visiting Units - Logistics Simplex (Ch 3) 	FMN 	Military 
-143.33750 	 	RM	123.0 PL	MWTC Laramie 	Wilderness Training Ops (S-3) (Mean Peak Rptr) 	FMN 	Military 
-143.02500 	 	RM	123.0 PL	MWTC Rawhide 	Operations Net (S-4) 	FMN 	Military 
-150.10000 	 	RM	136.5 PL	MWTC Wht Pk 	Range Control Safety Net "White Peak" 	FMN 	Military 
-40.40000 	 	BM	CSQ	MWTC Rng Gnd 	Range Control Primary - Ground (VHF-Lo) 	FM 	Military 
-398.20000 	 	BM	CSQ	MWTC Rng Air 	Range Control Primary - Rotary Wing aircraft (UHF) 	AM 	Military 
-141.02500 	 	BM		MWTC SAR VHF 	Search and Rescue VHF-High (Mean Peak, Cross-band repeat with 49.90 MHz) 	FMN 	Military 
-49.90000 	 	BM		MWTC SAR Low 	Search and Rescue VHF-Low (Mean Peak, Cross-band repeat with 141.025 MHz) 	FM 	Military 
-California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	Los Angeles City Department of Water and Power	 Project 25 Phase I	 Los Angeles	Mammoth Mountain & June Mountain Ski Areas	 Motorola Type I
- Mammoth Mountain	Southern California Edison	 Project 25 Phase II	 Various	
+154.80000 	155.70000  	WNKU887 	RM		Mono Co SO1 	Dispatch 	FM 	Law Dispatch 
+158.88000 	   	WPZY703 	M		Mono Co SO 8 	Tac 	FM 	Law Tac 
+453.13750 	   	WNKU887 	M		Mono Co SO Ext 	Extenders 	FM 	Law Talk 
+155.19000 	   	WPNT303 	BM		Mono Co SO Jail 	Jail 	FM 	Corrections 
+460.48750 	458.03750  	WNKU887 	F		Mono Co SO Link 	Control Link 	FM 	Law Dispatch 
+458.08750 	   	 	F	146.2 PL	Alpine Co SO Lnk 	Simulcast of Alpine County SO 	FM 	Law Dispatch 
+153.86000 	155.76000  	WPNT303 	RM	CSQ	Mono Co FD Disp 	Dispatch 	FM 	Fire Dispatch 
+458.13750 	   	WNKU887 	M		Mono Co FD Ext 	Mobile Extender 	FM 	Fire-Talk 
+154.34750 	   	WQQJ366 	BM		AVFD Tac 	Antelope Valley Tac (Walker/Coleville) 	FMN 	Fire-Tac 
+154.40000 	   	WNNA683 	BM		CVFPD Tac 	Chalfant Valley Tac 	FM 	Fire-Tac 
+154.13000 	   	WZW966 	BM		LVFPD Tac 	Lee Vining Tac 	FM 	Fire-Tac 
+154.25000 	   	WQOJ712 	BM		PFPD Tac 	Paradise Tac 	FM 	Fire-Tac 
+154.34000 	   	WPKA847 	BM		LVFPD Tac 	Long Valley Tac 	FM 	Fire-Tac 
+154.43000 	   	KNHM427 	BM		JLFPD Tac 	June Lake Tac 	FMN 	Fire-Tac 
+154.38500 	   	 	BM		BFPD Tac 	Bridgeport Fire Tac 	FM 	Fire-Tac 
+154.19000 	   	WQLQ447 	BM	CSQ	WFPD Tac 	Wheeler Crest Tac 	FMN 	Fire-Tac 
+154.32500 	   	 	BM		WMFD Tac 	White Mountain Tac (Benton) 	FM 	Fire-Tac 
+453.11250 	458.11250  	WNKU887 	F		Fire Rpt Link 	UHF Control Link between Comm Center and Repeaters 	FM 	Fire Dispatch 
+154.02500 	155.89500  	WPNT303 	RM		Mono Co Med Rpts 	EMS to Hospital 	FM 	Hospital 
+460.56250 	458.08750  	WNKU887 	F		Mono Co EMS Link 	Control Link 	FM 	EMS-Talk 
+151.11500 	159.18000  	WNKU887 	RM	CSQ	Mono Co MA1 	Mutual Aid 1 	FM 	Interop 
+151.08500 	159.15000  	WNKU887 	RM	CSQ	Mono Co MA2 	Mutual Aid 2 	FM 	Interop 
+159.18000 	   	WKNU887 	M	CSQ	Mono Co MA3 	Mutual Aid 3 	FM 	Interop 
+159.15000 	   	WNKU887 	M	CSQ	Mono Co MA4 	Mutual Aid 4 	FM 	Interop 
+153.92000 	158.92500  	WNKU887 	RM	103.5 PL	Mono Co Admin 	Administration (very little use - migrated to cell phone traffic) 	FM 	Public Works 
+153.92000 	158.92500  	WNKU887 	RM	118.8 PL	Mono Co PW 	Public Works (Multiple Input Tones) 	FM 	Public Works 
+154.04000 	   	WPXI530 	M		Mono Co PW Tac 	Public Works Tac/Benton Crossing Landfill 	FM 	Public Works 
+155.80500 	   	KNDQ371 	BM	156.7 PL	ESTA Buses 	Eastern Sierra Transit Authority 	FM 	Transportation 
+453.16250 	458.16250  	WNKU887 	F		Mono Adm Lnk 	Links 153.920 from Dispatch to Conway Summit Remote Base 	FM 	Public Works 
+155.59500 	   	WNDM858 	BM	CSQ	MLPD 1 Dir 	Police Ch 1 	FM 	Law Tac 
+155.59500 	159.01500  	WNDM858 	RM	151.4 PL	MLPD 2 MamMt 	Police Ch 2 - Dispatch  	FM 	Law Dispatch 
+155.59500 	159.01500  	WNDM858 	RM	131.8 PL	MLPD 3 SubSt 	Police Ch 3 - Dispatch 	FM 	Law Dispatch 
+155.02500 	   	WNDM858 	M		MLPD CERT 	Police Community Emergency Response Team (CERT) 	FM 	Multi-Talk 
+155.14500 	158.98500  	WQJP908 	RM	151.4 PL	MLFD 2 CMD 	Fire Ch 2 - Command 	FM 	Fire-Talk 
+153.95000 	   	WQJP908 	BM	CSQ	MLFD 3 Tac 	Fire Ch 3 - Tac 	FM 	Fire-Tac 
+158.76000 	155.92500  	WNDM858 	RM		ML Admin Rpt 	City Admin 	FM 	Public Works 
+155.11500 	   	WNDM858 	BM		ML Tac 	Tactical (Multi-Use) 	FM 	Multi-Tac 
+158.83500 	   	WNDM858 	BM		ML PW 	Public Works 	FM 	Public Works 
+153.98000 	155.95500  	WQR636 	RM	136.5 PL	ESUSD Ops 	District Ops 	FM 	Schools 
+155.20500 	158.95500  	WPXF799 	RM	110.9 PL	MUSD 1 Bus 	Ch 1 - Buses 	FM 	Schools 
+155.26500 	159.07500  	WPXF799 	RM	110.9 PL	MUSD 2 Maint 	Ch 2 - Maintenance 	FM 	Schools 
+155.98500 	   	WPXF799 	BM	110.9 PL	MUSD 3 Yard 	Ch 3 - Yard & Field Trips 	FM 	Schools 
+151.86500 	   	WNFE750 	BM		UC RsrchBoat 	UC Research Boats 	FM 	Schools 
+463.67500 	468.67500  	WZA927 	RM		WhiteMtn Lab 	UC White Mountain Research Center 	FM 	Schools 
+122.90000 	   	 	M	CSQ	MWTC CTAF V 	Helicopter CTAF/UNICOM (VHF) 	AM 	Aircraft 
+341.35000 	   	 	M	CSQ	MWTC CTAF U 	Helicopter CTAF/UNICOM (UHF) 	AM 	Aircraft 
+149.27500 	150.40000  	 	RM	136.5 PL	MWTC FD Disp 	Fire/MPO Dispatch (Sweetwater Repeater) 	FMN 	Fire Dispatch 
+150.08750 	   	 	M		MWTC FD Tac 	Fire Tac 	FMN 	Fire-Tac 
+143.34000 	138.34000  	 	RM	123.0 PL	MWTC 1 	Visiting Units - Logistics Repeater (Ch 1) 	FMN 	Military 
+140.94000 	   	 	M	123.0 PL	MWTC 2 	Visiting Units - Logistics Simplex (Ch 2) 	FMN 	Military 
+143.99500 	   	 	M	123.0 PL	MWTC 3 	Visiting Units - Logistics Simplex (Ch 3) 	FMN 	Military 
+143.33750 	138.33750  	 	RM	123.0 PL	MWTC Laramie 	Wilderness Training Ops (S-3) (Mean Peak Rptr) 	FMN 	Military 
+143.02500 	138.02500  	 	RM	123.0 PL	MWTC Rawhide 	Operations Net (S-4) 	FMN 	Military 
+150.10000 	148.30000  	 	RM	136.5 PL	MWTC Wht Pk 	Range Control Safety Net "White Peak" 	FMN 	Military 
+40.40000 	   	 	BM	CSQ	MWTC Rng Gnd 	Range Control Primary - Ground (VHF-Lo) 	FM 	Military 
+398.20000 	   	 	BM	CSQ	MWTC Rng Air 	Range Control Primary - Rotary Wing aircraft (UHF) 	AM 	Military 
+141.02500 	   	 	BM		MWTC SAR VHF 	Search and Rescue VHF-High (Mean Peak, Cross-band repeat with 49.90 MHz) 	FMN 	Military 
+49.90000 	   	 	BM		MWTC SAR Low 	Search and Rescue VHF-Low (Mean Peak, Cross-band repeat with 141.025 MHz) 	FM 	Military 
+Los Angeles City Department of Water and Power	 Project 25 Phase I	 Los Angeles	Mammoth Mountain & June Mountain Ski Areas	 Motorola Type I	 Mammoth Mountain	

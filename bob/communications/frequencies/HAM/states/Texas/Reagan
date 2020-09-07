@@ -1,10 +1,10 @@
-155.79000 	KWM603 	RM	192 NAC	ReaganSO S D 	Sheriff South Digital (includes Fire/EMS paging, operations and EMS-to-hospital) 	P25 	Multi-Dispatch 
-155.79000 	KWM603 	RM	291 NAC	ReaganSO N D 	Sheriff North Digital (includes Fire/EMS paging and operations) 	P25 	Multi-Dispatch 
-158.80500 	KWM603 	RM	192 NAC	ReaganFD S D 	Fire South Digital 	P25 	Fire-Tac 
-158.80500 	KWM603 	RM	192 NAC	ReaganFD N D 	Fire North Digital 	P25 	Fire-Tac 
-155.83500 	 	BM	CSQ	BigLakeCity 	City 	FMN 	Public Works 
-173.26250 	WNCT248 	B		BigLake Telm 	Water Dept. - Telemetry 	Telm 	Data 
-217.97500 	WPTC965 	BM		BigLake Data 	City Government Data 	Telm 	Data 
-163.25000 	WRG686 	BM	CSQ	ReaganCoHosp 	Paging ? 	FM 	Hospital 
-American Electric Power / West Texas Utilities	 EDACS Networked Standard	 Various	Concho Valley Council of Governments	 Project 25 Phase I	 Various	Connect Plus 231 Texas	 DMR Motorola Connect Plus (TRBO)
- Various	
+155.79000 	154.74000  	KWM603 	RM	192 NAC	ReaganSO S D 	Sheriff South Digital (includes Fire/EMS paging, operations and EMS-to-hospital) 	P25 	Multi-Dispatch 
+155.79000 	154.74000  	KWM603 	RM	291 NAC	ReaganSO N D 	Sheriff North Digital (includes Fire/EMS paging and operations) 	P25 	Multi-Dispatch 
+158.80500 	154.04000  	KWM603 	RM	192 NAC	ReaganFD S D 	Fire South Digital 	P25 	Fire-Tac 
+158.80500 	154.04000  	KWM603 	RM	192 NAC	ReaganFD N D 	Fire North Digital 	P25 	Fire-Tac 
+155.83500 	   	 	BM	CSQ	BigLakeCity 	City 	FMN 	Public Works 
+173.26250 	   	WNCT248 	B		BigLake Telm 	Water Dept. - Telemetry 	Telm 	Data 
+217.97500 	   	WPTC965 	BM		BigLake Data 	City Government Data 	Telm 	Data 
+163.25000 	   	WRG686 	BM	CSQ	ReaganCoHosp 	Paging ? 	FM 	Hospital 
+American Electric Power / West Texas Utilities	 EDACS Networked Standard	 Various	BrandMeister Texas	 DMR Conventional Networked	 Various	Concho Valley Council of Governments	 Project 25 Phase I	 Various
+Connect Plus 231 Texas	 DMR Motorola Connect Plus (TRBO)	 Various	

@@ -1,36 +1,35 @@
-154.37000 	KFE654 	RM	103.5 PL	Davie FD Dsp 	Fire Dispatch 	FM 	Fire Dispatch 
-153.83000 	WNGN519 	M	85.4 PL	Co FGND 1 	Fire Ground 1 	FM 	Fire-Tac 
-155.80500 	WQBD663 	M	85.4 PL	Fireground2 	Fire Ground 2 	FM 	Fire-Tac 
-156.00000 	WQBD663 	M	85.4 PL	Davie FG 3 	Fire Ground 3 	FM 	Fire-Tac 
-158.89500 	WQBD663 	M	85.4 PL	DCFD FG 4 	Fire Ground 4 	FM 	Fire-Tac 
-154.28000 	WNGN519 	BM	85.4 PL	DC State FD 	State Fire 	FM 	Fire-Tac 
-151.00250 	KZO359 	RM	85.4 PL	Davie Ops 	County Ops 1 	FM 	Fire-Talk 
-155.26500 	WSY544 	BM	85.4 PL	Davie EMS 	EMS/Rescue Dispatch 	FM 	EMS Dispatch 
-153.14000 	 	BM	85.4 PL	DC Rescue T1 	Rescue Tactical 1 	FM 	Emergency Ops 
-150.92000 	 	BM	85.4 PL	Davie Tac 2 	Rescue Tactical 2 	FM 	Emergency Ops 
-155.28000 	KZO359 	BM	85.4 PL	DavieStRscue 	State Rescue 	FM 	Emergency Ops 
-155.34000 	KZO359 	BM	85.4 PL	DavieEMS-Hos 	EMS to Hospital 	FM 	Emergency Ops 
-45.36000 	KNET207 	BM		DavieService 	Services 	FM 	Transportation 
-45.44000 	KOM901 	BM		Co Services 	Services 	FM 	Transportation 
-155.83500 	WNLZ730 	RM	85.4 PL	DavieServces 	Services 	FM 	Public Works 
-453.55000 	KIM938 	RM	173.8 PL	Davie Law 1 	Davie Law 1 (Sheriff, Mocksville PD, and  Cooleemee PD Dispatch) 	FM 	Law Dispatch 
-460.41250 	WQDH513 	RM	173.8 PL	Davie Law 2 	Davie Law 2 	FM 	Law Talk 
-453.40000 	KIM938 	RM		Sheriff 	Sheriff 	FM 	Law Tac 
-453.70000 	KIM938 	RM		SO Mut. Aid 	Sheriff Mutual Aid 	FM 	Law Talk 
-155.19000 	KIM938 	B		Mutual Aid 	Sheriff Mutual Aid 	FM 	Law Talk 
-154.25000 	WSY544 	M	146.2 PL	Davie Ctr FD 	Davie Center Fire 	FM 	Fire-Tac 
-154.26500 	WSY544 	M	85.4 PL	DCF TAC 	Davie Center Fire Tactical 	FM 	Fire-Tac 
-460.08750 	WQDH513 	BM	173.8 PL	DCSO-TAC-4 	Davie Law Tac 4 	FM 	Law Tac 
-460.21250 	WQJH703 	RM	703 DPL	DCSO-DET 	Davie County Detention Center 	FM 	Corrections 
-460.26250 	WQDH513 	BM	173.8 PL	DCSO-TAC-3 	Davie Law Tac 3 	FM 	Law Tac 
-151.77500 	 		85.4 PL	AVFD 	Advance Volunteer Fire Department Private 	FM 	Fire-Tac 
-158.83500 	WPYT236 	M	85.4 PL	C-D VFD Pvt 	Cornater-Dulin Volunteer Fire Department - Private 	FM 	Fire-Tac 
-154.38500 	KYU895 	M	151.4 PL	CountyLne FD 	County Line Volunteer Fire Department 	FM 	Fire-Tac 
-154.37000 	WQGD831 	BM		Fork VFD 	Fork Volunteer Fire Department 	FM 	Fire-Tac 
-153.87500 	WPNX618 	M	85.4 PL	SmithGroveFT 	Smith Grove Fire Tactical 	FM 	Fire-Tac 
-155.17500 	WPNX618 	M	85.4 PL	SithGrvFDTac 	Smith Grove Fire Tactical 	FM 	Fire-Tac 
-151.61500 	 	M	85.4 PL	Davie VFD 	William R Davie VFD 	FM 	Fire-Tac 
-154.60000 	 	M	025 DPL	VFD Private 	VFD Private 	FM 	Fire-Tac 
-453.35000 	WPAJ770 	RM		Mcksv Police 	Police 	FM 	Law Dispatch 
-EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	North Carolina VIPER	 Project 25 Phase I	 Varies	Wake Forest Baptist Medical (NEXEDGE)	 NXDN NEXEDGE 9600
- Varies	
+154.37000 	158.79000  	KFE654 	RM	103.5 PL	Davie FD Dsp 	Fire Dispatch 	FM 	Fire Dispatch 
+153.83000 	   	WNGN519 	M	85.4 PL	Co FGND 1 	Fire Ground 1 	FM 	Fire-Tac 
+155.80500 	   	WQBD663 	M	85.4 PL	Fireground2 	Fire Ground 2 	FM 	Fire-Tac 
+156.00000 	   	WQBD663 	M	85.4 PL	Davie FG 3 	Fire Ground 3 	FM 	Fire-Tac 
+158.89500 	   	WQBD663 	M	85.4 PL	DCFD FG 4 	Fire Ground 4 	FM 	Fire-Tac 
+154.28000 	   	WNGN519 	BM	85.4 PL	DC State FD 	State Fire 	FM 	Fire-Tac 
+151.00250 	   	KZO359 	RM	85.4 PL	Davie Ops 	County Ops 1 	FM 	Fire-Talk 
+155.26500 	159.08250  	WSY544 	BM	85.4 PL	Davie EMS 	EMS/Rescue Dispatch 	FM 	EMS Dispatch 
+153.14000 	   	 	BM	85.4 PL	DC Rescue T1 	Rescue Tactical 1 	FM 	Emergency Ops 
+150.92000 	   	 	BM	85.4 PL	Davie Tac 2 	Rescue Tactical 2 	FM 	Emergency Ops 
+155.28000 	   	KZO359 	BM	85.4 PL	DavieStRscue 	State Rescue 	FM 	Emergency Ops 
+155.34000 	   	KZO359 	BM	85.4 PL	DavieEMS-Hos 	EMS to Hospital 	FM 	Emergency Ops 
+45.36000 	   	KNET207 	BM		DavieService 	Services 	FM 	Transportation 
+45.44000 	   	KOM901 	BM		Co Services 	Services 	FM 	Transportation 
+155.83500 	153.75500  	WNLZ730 	RM	85.4 PL	DavieServces 	Services 	FM 	Public Works 
+453.55000 	458.55000  	KIM938 	RM	173.8 PL	Davie Law 1 	Davie Law 1 (Sheriff, Mocksville PD, and  Cooleemee PD Dispatch) 	FM 	Law Dispatch 
+460.41250 	465.41250  	WQDH513 	RM	173.8 PL	Davie Law 2 	Davie Law 2 	FM 	Law Talk 
+453.40000 	458.40000  	KIM938 	RM		Sheriff 	Sheriff 	FM 	Law Tac 
+453.70000 	458.70000  	KIM938 	RM		SO Mut. Aid 	Sheriff Mutual Aid 	FM 	Law Talk 
+155.19000 	   	KIM938 	B		Mutual Aid 	Sheriff Mutual Aid 	FM 	Law Talk 
+154.25000 	   	WSY544 	M	146.2 PL	Davie Ctr FD 	Davie Center Fire 	FM 	Fire-Tac 
+154.26500 	   	WSY544 	M	85.4 PL	DCF TAC 	Davie Center Fire Tactical 	FM 	Fire-Tac 
+460.08750 	   	WQDH513 	BM	173.8 PL	DCSO-TAC-4 	Davie Law Tac 4 	FM 	Law Tac 
+460.21250 	465.21250  	WQJH703 	RM	703 DPL	DCSO-DET 	Davie County Detention Center 	FM 	Corrections 
+460.26250 	   	WQDH513 	BM	173.8 PL	DCSO-TAC-3 	Davie Law Tac 3 	FM 	Law Tac 
+151.77500 	   	 		85.4 PL	AVFD 	Advance Volunteer Fire Department Private 	FM 	Fire-Tac 
+158.83500 	   	WPYT236 	M	85.4 PL	C-D VFD Pvt 	Cornater-Dulin Volunteer Fire Department - Private 	FM 	Fire-Tac 
+154.38500 	   	KYU895 	M	151.4 PL	CountyLne FD 	County Line Volunteer Fire Department 	FM 	Fire-Tac 
+154.37000 	   	WQGD831 	BM		Fork VFD 	Fork Volunteer Fire Department 	FM 	Fire-Tac 
+153.87500 	   	WPNX618 	M	85.4 PL	SmithGroveFT 	Smith Grove Fire Tactical 	FM 	Fire-Tac 
+155.17500 	   	WPNX618 	M	85.4 PL	SithGrvFDTac 	Smith Grove Fire Tactical 	FM 	Fire-Tac 
+151.61500 	   	 	M	85.4 PL	Davie VFD 	William R Davie VFD 	FM 	Fire-Tac 
+154.60000 	   	 	M	025 DPL	VFD Private 	VFD Private 	FM 	Fire-Tac 
+453.35000 	458.35000  	WPAJ770 	RM		Mcksv Police 	Police 	FM 	Law Dispatch 
+EnergyUnited EMC	 DMR Motorola Connect Plus (TRBO)	 Statesville	Wake Forest Baptist Medical (NEXEDGE)	 NXDN NEXEDGE 9600	 Varies	

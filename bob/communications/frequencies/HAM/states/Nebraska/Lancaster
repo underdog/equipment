@@ -1,46 +1,45 @@
-460.25000 	KNHV678 	RM	162.2 PL	LancasterJal 	County Jail 	FMN 	Public Works 
-154.35500 	WQAE795 	BM		FDNorth Page 	Fire/Rescue North Paging 	FMN 	Fire Dispatch 
-851.75000 	WQAS840 	RM	123.0 PL	FD North 	Fire/Rescue North 	FMN 	Fire Dispatch 
-853.18750 	WQAY625 	RM	123.0 PL	FD North Alt 	Fire/Rescue North Alternate 	FMN 	Fire Dispatch 
-852.25000 	WQAY622 	RM	123.0 PL	FD North TAC 	Fire/Rescue North Tactical 	FMN 	Fire-Tac 
-154.29500 	WQAE795 	BM		FDSouth Page 	Fire/Rescue South Paging 	FMN 	Fire Dispatch 
-851.81250 	WQAU827 	RM	123.0 PL	FD South 	Fire/Rescue South 	FMN 	Fire Dispatch 
-853.16250 	WQAS235 	RM	123.0 PL	FD South Alt 	Fire/Rescue South Alternate 	FMN 	Fire Dispatch 
-851.97500 	WQAU765 	RM	123.0 PL	FD South TAC 	Fire/Rescue South Tactical 	FMN 	Fire-Tac 
-852.80000 	 	M	123.0 PL	Fire Ground1 	Fire Ground 1 	FMN 	Fire-Tac 
-852.82500 	 	M	123.0 PL	Fire Ground2 	Fire Ground 2 	FMN 	Fire-Tac 
-458.06250 	KNNS392 	M		FD SW MobRpt 	Southwest Mobile Repeater 	FMN 	Fire-Tac 
-822.80000 	WQCT895 	M		FDMob Repeat 	Fire Mobile Repeater 	FMN 	Fire-Tac 
-851.30000 	 	RM	156.7 PL	Mutual Aid 5 	Mutual Aid 5 	FMN 	Interop 
-851.66250 	 	RM	156.7 PL	Mutual Aid 6 	Mutual Aid 6 	FMN 	Interop 
-453.65000 	KXM911 	B	141.3 PL	NAWAS 	National Warning System 	FMN 	Emergency Ops 
-156.22500 	KAH647 	RM	127.3 PL	LancasterRds 	County Roads 	FMN 	Public Works 
-851.30000 	WPYS986 	RM	156.7 PL	Police Tac 7 	Police Tac 7 	FMN 	Law Tac 
-851.66250 	WQNI317 	RM	156.7 PL	Police Tac 8 	Police Tac 8 	FMN 	Law Tac 
-855.46250 	WNDX303 	M	1C8 NAC	LFR Tac 13 	Fire Tac 13 	P25 	Fire-Tac 
-154.13000 	WPYG364 	BM		Lincoln EOC1 	Emergency Operations Center 	FMN 	Emergency Ops 
-155.25000 	KAB463 	RM	103.5 PL	Lincoln EOC2 	Emergency Operations Center 	FMN 	Emergency Ops 
-155.22000 	KZE694 	RM	136.5 PL	Lincoln SchB 	School Buses 	FMN 	Schools 
-461.10000 	 		210.7 PL	Lincoln Schl 	Schools 	FMN 	Schools 
-463.70000 	KNAT464 	BM	77.0 PL	Lincoln Schl 	Schools 	FMN 	Schools 
-852.06250 	WQAY624 	RM	156.7 PL	Lincoln SBus 	School Buses (linked with 155.22 MHz) 	FMN 	Schools 
-852.33750 	WQAY624 	RM	156.7 PL	Lincoln SBus 	School Buses 	FMN 	Schools 
-155.28000 	KNDL874 	BM	173.8 PL	WvrlySchools 	Waverly School District 	FMN 	Schools 
-453.70000 	KIL498 	RM		CapitolMaint 	State Capitol Maintenance 	FMN 	Public Works 
-153.75000 	 	BM		UN-Lincoln 	UNL 	FMN 	Schools 
-155.04000 	WPGA220 	BM	71.9 PL	UNL-Devaney 	UNL Devaney Center 	FMN 	Schools 
-155.71500 	WPGA220 	BM	71.9 PL	UNL-Stadium 	UNL STADIUM 	FMN 	Schools 
-155.86500 	WNZJ919 	BM		UNL-IT Dept 	UNL IT Dept 	FMN 	Schools 
-155.95500 	WPKN912 	BM		UNL-1 	UNL-1 	FMN 	Schools 
-158.86500 	KBV784 	BM	CSQ	UNL-2 	UNL-2 	FMN 	Schools 
-463.90000 	WQBY861 	BM	151.4 PL	UNL-Events 	UNL Special Events 	FMN 	Schools 
-47.42000 	KWQ530 	BM		Red Cross 1 	Red Cross 1 	FM 	Emergency Ops 
-453.11250 	KD52911 	M		Red Cross 2 	Red Cross 2 	FMN 	Emergency Ops 
-458.11250 	KD52911 	M		Red Cross 3 	Red Cross 3 	FMN 	Emergency Ops 
-463.06250 	KD52911 	M		Red Cross 4 	Red Cross 4 	FMN 	Emergency Ops 
-468.06250 	KD52911 	M		Red Cross 5 	Red Cross 5 	FMN 	Emergency Ops 
-First Digital Holdings - Servant Cab	 LTR Standard	 Lincoln	First Digital Holdings, LLC	 Motorola Type II	 Lincoln	First Digital Holdings, LLC  (UHF Network)	 LTR Standard
- Omaha / Lincoln	First Wireless	 DMR Motorola Capacity Plus Single Site (TRBO)	 Omaha	First Wireless (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Omaha	Lincoln-Lancaster County
- EDACS Standard	 Lincoln	Nebraska TRBO	 DMR Conventional Networked	 Various	RACOM Network	 EDACS Networked Standard	 Various
-Shaffer Communications (DMR)	 DMR Hytera XPT	 Various	Shaffer Communications (LTR)	 LTR Standard	 Lincoln	University of Nebraska (Lincoln)	 LTR Standard
- Lincoln	
+460.25000 	465.25000  	KNHV678 	RM	162.2 PL	LancasterJal 	County Jail 	FMN 	Public Works 
+154.35500 	   	WQAE795 	BM		FDNorth Page 	Fire/Rescue North Paging 	FMN 	Fire Dispatch 
+851.75000 	806.75000  	WQAS840 	RM	123.0 PL	FD North 	Fire/Rescue North 	FMN 	Fire Dispatch 
+853.18750 	808.18750  	WQAY625 	RM	123.0 PL	FD North Alt 	Fire/Rescue North Alternate 	FMN 	Fire Dispatch 
+852.25000 	8807.25000  	WQAY622 	RM	123.0 PL	FD North TAC 	Fire/Rescue North Tactical 	FMN 	Fire-Tac 
+154.29500 	   	WQAE795 	BM		FDSouth Page 	Fire/Rescue South Paging 	FMN 	Fire Dispatch 
+851.81250 	806.81250  	WQAU827 	RM	123.0 PL	FD South 	Fire/Rescue South 	FMN 	Fire Dispatch 
+853.16250 	808.16250  	WQAS235 	RM	123.0 PL	FD South Alt 	Fire/Rescue South Alternate 	FMN 	Fire Dispatch 
+851.97500 	806.97500  	WQAU765 	RM	123.0 PL	FD South TAC 	Fire/Rescue South Tactical 	FMN 	Fire-Tac 
+852.80000 	   	 	M	123.0 PL	Fire Ground1 	Fire Ground 1 	FMN 	Fire-Tac 
+852.82500 	   	 	M	123.0 PL	Fire Ground2 	Fire Ground 2 	FMN 	Fire-Tac 
+458.06250 	   	KNNS392 	M		FD SW MobRpt 	Southwest Mobile Repeater 	FMN 	Fire-Tac 
+822.80000 	   	WQCT895 	M		FDMob Repeat 	Fire Mobile Repeater 	FMN 	Fire-Tac 
+851.30000 	806.30000  	 	RM	156.7 PL	Mutual Aid 5 	Mutual Aid 5 	FMN 	Interop 
+851.66250 	806.66250  	 	RM	156.7 PL	Mutual Aid 6 	Mutual Aid 6 	FMN 	Interop 
+453.65000 	   	KXM911 	B	141.3 PL	NAWAS 	National Warning System 	FMN 	Emergency Ops 
+156.22500 	159.06000  	KAH647 	RM	127.3 PL	LancasterRds 	County Roads 	FMN 	Public Works 
+851.30000 	806.30000  	WPYS986 	RM	156.7 PL	Police Tac 7 	Police Tac 7 	FMN 	Law Tac 
+851.66250 	806.66250  	WQNI317 	RM	156.7 PL	Police Tac 8 	Police Tac 8 	FMN 	Law Tac 
+855.46250 	   	WNDX303 	M	1C8 NAC	LFR Tac 13 	Fire Tac 13 	P25 	Fire-Tac 
+154.13000 	   	WPYG364 	BM		Lincoln EOC1 	Emergency Operations Center 	FMN 	Emergency Ops 
+155.25000 	   	KAB463 	RM	103.5 PL	Lincoln EOC2 	Emergency Operations Center 	FMN 	Emergency Ops 
+155.22000 	   	KZE694 	RM	136.5 PL	Lincoln SchB 	School Buses 	FMN 	Schools 
+461.10000 	   	 		210.7 PL	Lincoln Schl 	Schools 	FMN 	Schools 
+463.70000 	   	KNAT464 	BM	77.0 PL	Lincoln Schl 	Schools 	FMN 	Schools 
+852.06250 	   	WQAY624 	RM	156.7 PL	Lincoln SBus 	School Buses (linked with 155.22 MHz) 	FMN 	Schools 
+852.33750 	   	WQAY624 	RM	156.7 PL	Lincoln SBus 	School Buses 	FMN 	Schools 
+155.28000 	   	KNDL874 	BM	173.8 PL	WvrlySchools 	Waverly School District 	FMN 	Schools 
+453.70000 	458.70000  	KIL498 	RM		CapitolMaint 	State Capitol Maintenance 	FMN 	Public Works 
+153.75000 	   	 	BM		UN-Lincoln 	UNL 	FMN 	Schools 
+155.04000 	   	WPGA220 	BM	71.9 PL	UNL-Devaney 	UNL Devaney Center 	FMN 	Schools 
+155.71500 	   	WPGA220 	BM	71.9 PL	UNL-Stadium 	UNL STADIUM 	FMN 	Schools 
+155.86500 	   	WNZJ919 	BM		UNL-IT Dept 	UNL IT Dept 	FMN 	Schools 
+155.95500 	   	WPKN912 	BM		UNL-1 	UNL-1 	FMN 	Schools 
+158.86500 	153.86000  	KBV784 	BM	CSQ	UNL-2 	UNL-2 	FMN 	Schools 
+463.90000 	468.90000  	WQBY861 	BM	151.4 PL	UNL-Events 	UNL Special Events 	FMN 	Schools 
+47.42000 	   	KWQ530 	BM		Red Cross 1 	Red Cross 1 	FM 	Emergency Ops 
+453.11250 	   	KD52911 	M		Red Cross 2 	Red Cross 2 	FMN 	Emergency Ops 
+458.11250 	   	KD52911 	M		Red Cross 3 	Red Cross 3 	FMN 	Emergency Ops 
+463.06250 	   	KD52911 	M		Red Cross 4 	Red Cross 4 	FMN 	Emergency Ops 
+468.06250 	   	KD52911 	M		Red Cross 5 	Red Cross 5 	FMN 	Emergency Ops 
+First Digital Holdings - Servant Cab	 LTR Standard	 Lincoln	First Digital Holdings, LLC	 Motorola Type II	 Lincoln	First Digital Holdings, LLC  (UHF Network)	 LTR Standard	 Omaha / Lincoln
+First Wireless	 DMR Motorola Capacity Plus Single Site (TRBO)	 Omaha	First Wireless (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Omaha	Lincoln-Lancaster County	 EDACS Standard	 Lincoln
+Nebraska State Radio System	 Project 25 Phase I	 Statewide	Nebraska TRBO	 DMR Conventional Networked	 Various	RACOM Network	 EDACS Networked Standard	 Various
+Shaffer Communications (DMR)	 DMR Hytera XPT	 Various	Shaffer Communications (LTR)	 LTR Standard	 Lincoln	University of Nebraska (Lincoln)	 LTR Standard	 Lincoln

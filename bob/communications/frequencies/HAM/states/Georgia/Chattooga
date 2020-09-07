@@ -1,31 +1,31 @@
-155.07000 	KIP605 	RM	CC 5TG 100SL *	CCSO Disp 	Sheriff Dispatch 	DMR 	Law Dispatch 
-155.07000 	KIP605 	RM	CC 5TG 101SL *	CCSO Disp Sec 	Sheriff Dispatch Secure 	DMRE 	Law Dispatch 
-154.15250 	WNPJ311 	BM	074 DPL	CCSO Patch 	Sheriff Dispatch - Patch 	FMN 	Law Dispatch 
-154.84500 	KIP605 	BM		CCSO MRD 	Sheriff MRD 	FMN 	Law Tac 
-158.21250 	WPML536 	RM	136.5 PL	CCVFD Disp 	Volunteer Fire Dispatch 	FMN 	Fire Dispatch 
-154.07000 	WPML536 	BM	136.5 PL	CCVFD TAC 2 	Fire Tac 2 	FMN 	Fire-Tac 
-154.84500 	WPML536 	BM	136.5 PL	CCVFD TAC 3 	Fire Tac 3 	FMN 	Fire Dispatch 
-460.08750 	WPML536 	F		CCVFD Link 1 	Fire - Link for 158.2125 	FMN 	Fire Dispatch 
-465.08750 	WPML536 	F		CCVFD Link 2 	Fire - Link for 158.2125 	FMN 	Fire Dispatch 
-159.69000 	WNPJ311 	RM	162.2 PL	CCEMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.26500 	WNPJ311 	BM		CCEMS TAC 	EMS TAC 	FMN 	EMS-Tac 
-453.32500 	WNNW347  	RM	331 DPL	CC Pub Trans 	County Public Transit 	FMN 	Transportation 
-461.77500 	WNRD909 	RM	91.5 PL	CCBOE Buses 	Board of Education - School Bus 	FMN 	Schools 
-158.23500 	KYZ893 	BM		CC H2O Dist1 	County Water District 1 	FMN 	Utilities 
-451.23750 	WQAH726 	BM		CC H2O Dist 	County Water District 2  EXPIRED 06/02/2014 	FMN 	Utilities 
-158.80500 	WNQA993 	BM		Local Govt 	Local Government 	FMN 	Public Works 
-154.47875 	WPRH243 	BM		Menlo H2O 	Water Department 	Telm 	Utilities 
-158.89500 	KDX458 	RM		SPD Main 	Police Main 	DMR 	Law Dispatch 
-154.84500 	KIG605 	BM		SPD MRD 	Police MRD 	FMN 	Law Talk 
-453.28750 	KDX458 	RM		SPD Unk 	Police Unknown Use 	FMN 	Law Tac 
-453.53750 	WPML537 	F		SPD PACRAT 1 	Police PACRT 1 	FMN 	Law Tac 
-458.53750 	WPML537 	F		SPD PACRAT 2 	Police PACRT 2 	FMN 	Law Tac 
-153.41000 	KDX458 	RM	110.9 PL	SFD Disp 	Fire Dispatch (County Station 9) 	FMN 	Fire Dispatch 
-453.57500 	WPCD582 	RM		Housing Auth 	Housing Authority 	FMN 	Other 
-462.43750 	WPYW417 	M		Water Dept 	Water Department 	Telm 	Utilities 
-159.09000 	WPNQ848 	RM		TPD Dispatch 	Police Dispatch 	DMR 	Law Dispatch 
-154.84500 	KNGY518 	BM		TPD MRD 	Police MRD 	FMN 	Interop 
-159.53250 	WQHQ923 	BM		Trion BOE 	School Board 	FMN 	Schools 
-159.54750 	WQHQ923 	BM		Trion BOE 	School Board 	FMN 	Schools 
-159.56250 	WQHQ923 	BM		Trion BOE 	School Board 	FMN 	Schools 
-159.59250 	WQHQ923 	BM		Trion BOE 	School Board 	FMN 	Schools 
+155.07000 	156.09000  	KIP605 	RM	CC 5TG 100SL *	CCSO Disp 	Sheriff Dispatch 	DMR 	Law Dispatch 
+155.07000 	156.09000  	KIP605 	RM	CC 5TG 101SL *	CCSO Disp Sec 	Sheriff Dispatch Secure 	DMRE 	Law Dispatch 
+154.15250 	   	WNPJ311 	BM	074 DPL	CCSO Patch 	Sheriff Dispatch - Patch 	FMN 	Law Dispatch 
+154.84500 	   	KIP605 	BM		CCSO MRD 	Sheriff MRD 	FMN 	Law Tac 
+158.21250 	155.91750  	WPML536 	RM	136.5 PL	CCVFD Disp 	Volunteer Fire Dispatch 	FMN 	Fire Dispatch 
+154.07000 	   	WPML536 	BM	136.5 PL	CCVFD TAC 2 	Fire Tac 2 	FMN 	Fire-Tac 
+154.84500 	   	WPML536 	BM	136.5 PL	CCVFD TAC 3 	Fire Tac 3 	FMN 	Fire Dispatch 
+460.08750 	   	WPML536 	F		CCVFD Link 1 	Fire - Link for 158.2125 	FMN 	Fire Dispatch 
+465.08750 	   	WPML536 	F		CCVFD Link 2 	Fire - Link for 158.2125 	FMN 	Fire Dispatch 
+159.69000 	150.77500  	WNPJ311 	RM	162.2 PL	CCEMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.26500 	   	WNPJ311 	BM		CCEMS TAC 	EMS TAC 	FMN 	EMS-Tac 
+453.32500 	458.32500  	WNNW347  	RM	331 DPL	CC Pub Trans 	County Public Transit 	FMN 	Transportation 
+461.77500 	466.77500  	WNRD909 	RM	91.5 PL	CCBOE Buses 	Board of Education - School Bus 	FMN 	Schools 
+158.23500 	   	KYZ893 	BM		CC H2O Dist1 	County Water District 1 	FMN 	Utilities 
+451.23750 	   	WQAH726 	BM		CC H2O Dist 	County Water District 2  EXPIRED 06/02/2014 	FMN 	Utilities 
+158.80500 	   	WNQA993 	BM		Local Govt 	Local Government 	FMN 	Public Works 
+154.47875 	   	WPRH243 	BM		Menlo H2O 	Water Department 	Telm 	Utilities 
+158.89500 	153.99500  	KDX458 	RM		SPD Main 	Police Main 	DMR 	Law Dispatch 
+154.84500 	   	KIG605 	BM		SPD MRD 	Police MRD 	FMN 	Law Talk 
+453.28750 	458.23750  	KDX458 	RM		SPD Unk 	Police Unknown Use 	FMN 	Law Tac 
+453.53750 	   	WPML537 	F		SPD PACRAT 1 	Police PACRT 1 	FMN 	Law Tac 
+458.53750 	   	WPML537 	F		SPD PACRAT 2 	Police PACRT 2 	FMN 	Law Tac 
+153.41000 	155.10000  	KDX458 	RM	110.9 PL	SFD Disp 	Fire Dispatch (County Station 9) 	FMN 	Fire Dispatch 
+453.57500 	458.57500  	WPCD582 	RM		Housing Auth 	Housing Authority 	FMN 	Other 
+462.43750 	   	WPYW417 	M		Water Dept 	Water Department 	Telm 	Utilities 
+159.09000 	155.58000  	WPNQ848 	RM		TPD Dispatch 	Police Dispatch 	DMR 	Law Dispatch 
+154.84500 	   	KNGY518 	BM		TPD MRD 	Police MRD 	FMN 	Interop 
+159.53250 	   	WQHQ923 	BM		Trion BOE 	School Board 	FMN 	Schools 
+159.54750 	   	WQHQ923 	BM		Trion BOE 	School Board 	FMN 	Schools 
+159.56250 	   	WQHQ923 	BM		Trion BOE 	School Board 	FMN 	Schools 
+159.59250 	   	WQHQ923 	BM		Trion BOE 	School Board 	FMN 	Schools 

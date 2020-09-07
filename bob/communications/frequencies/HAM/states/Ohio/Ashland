@@ -1,27 +1,26 @@
-155.58000 	KQB309 	RM		ASHCO SO1D 	Sheriff Dispatch - digital 	NXDN 	Law Dispatch 
-155.58000 	KQB309 	RM	123.0 PL	ASHCO SO1 	Sheriff Dispatch 	FM 	Law Dispatch 
-155.67000 	KQB309 	BM	123.0 PL	ASHCO SO2 	Sheriff Secondary 	FM 	Law Tac 
-155.25000 	WPYU456 	RM		ASHCO SO 	Sheriff Unknown Use 	FM 	Law Tac 
-155.67000 	KQB709 	RM	123.0 PL	ASHLAND PD  	Ashland PD 	FM 	Law Dispatch 
-158.76000 	KNIE859 	RM	CC 1TG 20SL *	LOUDVL PD 	Loudonville PD 	DMR 	Law Dispatch 
-159.15000 	WQFJ541 	RM	364 DPL	LOUDNVL PD SIMUL 	Loudonville PD (SO simulcast) 	FM 	Law Dispatch 
-151.22000 	WQEN323 	RM	123.0 PL	ASHCO FIRE 	Fire Dispatch 	FM 	Fire Dispatch 
-150.79000 	KNNT805 	BM	94.8 PL	ASHCO FG N 	North Fireground 	FM 	Fire-Tac 
-150.10000 	KNNT805 	BM	94.8 PL	ASHCO FG S 	South Fireground 	FM 	Fire-Tac 
-154.14500 	KQI229 	RM	141.3 PL	ASHLAND FIRE 	Ashland City Fire Dispatch 	FM 	Fire Dispatch 
-158.76000 	KNIE859 	RM	CC 1TG 10SL *	LOUDVL FD 	Loudonville FD 	DMR 	Fire Dispatch 
-151.10000 	KEO359 	RM		ASHCO ENG 	Engineer 	FM 	Public Works 
-151.10000 	KEO359 	RM	CC 1TG *SL *	ASHCO ENG-D 	Engineer digital 	DMR 	Public Works 
-156.07500 	WPCG617 	M		ASHCO ENG S 	Engineer - Simplex 	FM 	Public Works 
-155.02500 	WZX596 	BM		ASHLAND SVC 	Ashland services 	FM 	Public Works 
-37.92000 	WNRO738 	BM		MONTWP PW 	Montgomery Twp 	FM 	Public Works 
-45.84000 	KNDW264 	BM		JACKTWP DPW 	Jackson Twp 	FM 	Public Works 
-154.98000 	WNJY596 	BM		RUG-TROY DPW 	Ruggles and Troy Twps 	FM 	Public Works 
-155.71500 	KNAE835 	BM		ASHCO ANICTL 	Animal Control 	FM 	Public Works 
-158.76000 	KNIE859 	BM	131.8 PL	LOUDNVL DPW 	Loudonville 	FM 	Public Works 
-158.77500 	WNQF674 	BM		ASHCO HUMSVC 	Dept. of Human Services 	FM 	Public Works 
-464.30000 	WNVY914 	RM	CC 1TG 100SL *	ASH PUB TRANSIT 	Ashland Public Transit 	DMR 	Transportation 
-451.13750 	WPQC416 	RM	129 NAC	COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	FELHC (Ohio Edison)	 Motorola Type II SmartZone	 Various	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)
- Various	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	Vasu Communications NEXEDGE96
- NXDN NEXEDGE 9600	 Various	
+155.58000 	154.83000  	KQB309 	RM		ASHCO SO1D 	Sheriff Dispatch - digital 	NXDN 	Law Dispatch 
+155.58000 	154.83000  	KQB309 	RM	123.0 PL	ASHCO SO1 	Sheriff Dispatch 	FM 	Law Dispatch 
+155.67000 	   	KQB309 	BM	123.0 PL	ASHCO SO2 	Sheriff Secondary 	FM 	Law Tac 
+155.25000 	158.85000  	WPYU456 	RM		ASHCO SO 	Sheriff Unknown Use 	FM 	Law Tac 
+155.67000 	154.95000  	KQB709 	RM	123.0 PL	ASHLAND PD  	Ashland PD 	FM 	Law Dispatch 
+158.76000 	153.78500  	KNIE859 	RM	CC 1TG 20SL *	LOUDVL PD 	Loudonville PD 	DMR 	Law Dispatch 
+159.15000 	153.96500  	WQFJ541 	RM	364 DPL	LOUDNVL PD SIMUL 	Loudonville PD (SO simulcast) 	FM 	Law Dispatch 
+151.22000 	154.07000  	WQEN323 	RM	123.0 PL	ASHCO FIRE 	Fire Dispatch 	FM 	Fire Dispatch 
+150.79000 	   	KNNT805 	BM	94.8 PL	ASHCO FG N 	North Fireground 	FM 	Fire-Tac 
+150.10000 	   	KNNT805 	BM	94.8 PL	ASHCO FG S 	South Fireground 	FM 	Fire-Tac 
+154.14500 	151.26500  	KQI229 	RM	141.3 PL	ASHLAND FIRE 	Ashland City Fire Dispatch 	FM 	Fire Dispatch 
+158.76000 	153.78500  	KNIE859 	RM	CC 1TG 10SL *	LOUDVL FD 	Loudonville FD 	DMR 	Fire Dispatch 
+151.10000 	156.04500  	KEO359 	RM		ASHCO ENG 	Engineer 	FM 	Public Works 
+151.10000 	156.04500  	KEO359 	RM	CC 1TG *SL *	ASHCO ENG-D 	Engineer digital 	DMR 	Public Works 
+156.07500 	   	WPCG617 	M		ASHCO ENG S 	Engineer - Simplex 	FM 	Public Works 
+155.02500 	   	WZX596 	BM		ASHLAND SVC 	Ashland services 	FM 	Public Works 
+37.92000 	   	WNRO738 	BM		MONTWP PW 	Montgomery Twp 	FM 	Public Works 
+45.84000 	   	KNDW264 	BM		JACKTWP DPW 	Jackson Twp 	FM 	Public Works 
+154.98000 	   	WNJY596 	BM		RUG-TROY DPW 	Ruggles and Troy Twps 	FM 	Public Works 
+155.71500 	   	KNAE835 	BM		ASHCO ANICTL 	Animal Control 	FM 	Public Works 
+158.76000 	   	KNIE859 	BM	131.8 PL	LOUDNVL DPW 	Loudonville 	FM 	Public Works 
+158.77500 	   	WNQF674 	BM		ASHCO HUMSVC 	Dept. of Human Services 	FM 	Public Works 
+464.30000 	469.30000  	WNVY914 	RM	CC 1TG 100SL *	ASH PUB TRANSIT 	Ashland Public Transit 	DMR 	Transportation 
+451.13750 	456.13750  	WPQC416 	RM	129 NAC	COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	FELHC (Ohio Edison)	 Motorola Type II SmartZone	 Various	Futronics UHF Connect Plus (OH-WV-PA-MI)	 DMR Motorola Connect Plus (TRBO)	 Various
+Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	Vasu Communications NEXEDGE96	 NXDN NEXEDGE 9600	 Various

@@ -1,16 +1,15 @@
-155.70750 	WPSI937 	RM	606 DPL	Greene SO 1 	Sheriff Dispatch 1 *Simulcast with 2* 	FMN 	Law Dispatch 
-155.78250 	WPSI937 	RM	606 DPL	Greene SO 2 	Sheriff Dispatch 2 *Simulcast with 1* 	FMN 	Law Dispatch 
-453.23750 	WPSI937 	F		GreenSORelay 	Sheriff Fixed Relays to Repeaters 	FMN 	Law Dispatch 
-453.81250 	WPSI937 	F		GreenSORelay 	Sheriff Fixed Relays to Repeaters 	FMN 	Law Dispatch 
-154.43000 	WQBP698 	RM	606 DPL	Greene FD S 	Fire South Tower 	FMN 	Fire Dispatch 
-155.94750 	WQGQ320 	RM	606 DPL	Greene FD N 	Fire North Tower 	FMN 	Fire Dispatch 
-155.42250 	WPSJ740 	RM	606 DPL	Green DPW Hi 	County DPW Hi Band 	FMN 	Public Works 
-155.85000 	WPEM659 	RM		Leaksvl CMN  	Leakesville Police/Fire/DPW Common *Expired* 	FM 	Multi-Dispatch 
-45.66000 	WNWD553 	BM		McLain PD 	Mclain Police 	FM 	Law Dispatch 
-154.22000 	WNWF913 	RM		McLain Fire 	Mclain Fire-VFD 	FMN 	Fire Dispatch 
-45.46000 	WXY442 	BM		StateLinPDLo 	State Line Police Lo Band 	FM 	Law Dispatch 
-154.86000 	WXY442 	RM		StateLinPDHi 	State Line Police Hi Band 	FM 	Law Dispatch 
-853.81250 	WNPV601 	RM		SMCI 1 	South MS Correctional Institute 1 	FMN 	Corrections 
-856.01250 	WNPV601 	RM		SMCI 2 	South MS Correctional Institute 2 	FMN 	Corrections 
-ComSouth DMR - COMNET Mississippi	 DMR Motorola Connect Plus (TRBO)	 Multiple	Entergy 	 Project 25 Phase II	 Various	Mississippi Department of Corrections	 EDACS Standard
- Various	Mississippi Wireless Integrated Network (MSWIN)	 Project 25 Phase II	 Jackson	
+155.70750 	153.91250  	WPSI937 	RM	606 DPL	Greene SO 1 	Sheriff Dispatch 1 *Simulcast with 2* 	FMN 	Law Dispatch 
+155.78250 	158.87250  	WPSI937 	RM	606 DPL	Greene SO 2 	Sheriff Dispatch 2 *Simulcast with 1* 	FMN 	Law Dispatch 
+453.23750 	   	WPSI937 	F		GreenSORelay 	Sheriff Fixed Relays to Repeaters 	FMN 	Law Dispatch 
+453.81250 	   	WPSI937 	F		GreenSORelay 	Sheriff Fixed Relays to Repeaters 	FMN 	Law Dispatch 
+154.43000 	158.91000  	WQBP698 	RM	606 DPL	Greene FD S 	Fire South Tower 	FMN 	Fire Dispatch 
+155.94750 	153.76250  	WQGQ320 	RM	606 DPL	Greene FD N 	Fire North Tower 	FMN 	Fire Dispatch 
+155.42250 	158.97750  	WPSJ740 	RM	606 DPL	Green DPW Hi 	County DPW Hi Band 	FMN 	Public Works 
+155.85000 	153.86000  	WPEM659 	RM		Leaksvl CMN  	Leakesville Police/Fire/DPW Common *Expired* 	FM 	Multi-Dispatch 
+45.66000 	   	WNWD553 	BM		McLain PD 	Mclain Police 	FM 	Law Dispatch 
+154.22000 	   	WNWF913 	RM		McLain Fire 	Mclain Fire-VFD 	FMN 	Fire Dispatch 
+45.46000 	   	WXY442 	BM		StateLinPDLo 	State Line Police Lo Band 	FM 	Law Dispatch 
+154.86000 	155.91000  	WXY442 	RM		StateLinPDHi 	State Line Police Hi Band 	FM 	Law Dispatch 
+853.81250 	808.81250  	WNPV601 	RM		SMCI 1 	South MS Correctional Institute 1 	FMN 	Corrections 
+856.01250 	   	WNPV601 	RM		SMCI 2 	South MS Correctional Institute 2 	FMN 	Corrections 
+ComSouth DMR - COMNET Mississippi	 DMR Motorola Connect Plus (TRBO)	 Multiple	Entergy 	 Project 25 Phase II	 Various	Mississippi Department of Corrections	 EDACS Standard	 Various

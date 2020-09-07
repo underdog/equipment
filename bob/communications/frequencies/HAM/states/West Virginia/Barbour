@@ -1,11 +1,10 @@
-159.18000 	KNED346 	RM	432 DPL	BarbCo SO Dp 	Barbour Co Sheriff - Dispatch 	FMN 	Law Dispatch 
-154.08500 	WPMT930 	RM	151.4 PL	BelingtonPDp 	Belington Police - Dispatch 	FMN 	Law Dispatch 
-156.21000 	WPPA207 	RM	546 DPL	PhilippiPDDp 	Philippi Police - Dispatch 	FM 	Law Dispatch 
-46.10000 	KUQ301 	BM		BarbCo FDisp 	Barbour County Fire - Dispatch 	FM 	Fire Dispatch 
-46.22000 	KUQ301 	BM		BarbCo FD 2 	Barbour County Fire - Channel 2 	FM 	Fire-Talk 
-154.21250 	WQDL448 	RM	103.5 PL	BelingtonVFD 	Belington VFD 	FMN 	Fire Dispatch 
-155.23500 	KNJB861 	BM	123.0 PL	BarbCo EMSDp 	Barbour County EMS - Dispatch 	FMN 	EMS Dispatch 
-155.57250 	KNJB861 	RM	103.5 PL	BelingtonEMS 	Belington EMS - Dispatch  	FMN 	EMS Dispatch 
-158.77500 	KLS467 	BM		PhilippiSvcs 	Philippi City Services 	FM 	Public Works 
-155.86500 	WPJI673 	BM		BarbourCoBOE 	Barbour County Schools System (Group Call 302, Repeater Slot 1,  Color  Code 1) 	DMR 	Schools 
-West Virginia Statewide Interoperability Radio Network (SIRN) 	 Project 25 Phase I	 Statewide	
+159.18000 	156.12000  	KNED346 	RM	432 DPL	BarbCo SO Dp 	Barbour Co Sheriff - Dispatch 	FMN 	Law Dispatch 
+154.08500 	156.01500  	WPMT930 	RM	151.4 PL	BelingtonPDp 	Belington Police - Dispatch 	FMN 	Law Dispatch 
+156.21000 	154.89000  	WPPA207 	RM	546 DPL	PhilippiPDDp 	Philippi Police - Dispatch 	FM 	Law Dispatch 
+46.10000 	   	KUQ301 	BM		BarbCo FDisp 	Barbour County Fire - Dispatch 	FM 	Fire Dispatch 
+46.22000 	   	KUQ301 	BM		BarbCo FD 2 	Barbour County Fire - Channel 2 	FM 	Fire-Talk 
+154.21250 	156.09750  	WQDL448 	RM	103.5 PL	BelingtonVFD 	Belington VFD 	FMN 	Fire Dispatch 
+155.23500 	   	KNJB861 	BM	123.0 PL	BarbCo EMSDp 	Barbour County EMS - Dispatch 	FMN 	EMS Dispatch 
+155.57250 	150.79000  	KNJB861 	RM	103.5 PL	BelingtonEMS 	Belington EMS - Dispatch  	FMN 	EMS Dispatch 
+158.77500 	   	KLS467 	BM		PhilippiSvcs 	Philippi City Services 	FM 	Public Works 
+155.86500 	153.75500  	WPJI673 	BM		BarbourCoBOE 	Barbour County Schools System (Group Call 302, Repeater Slot 1,  Color  Code 1) 	DMR 	Schools 

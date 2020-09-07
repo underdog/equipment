@@ -1,33 +1,32 @@
-156.10500 	WPMX834 	RM	CC 4TG *SL *	St. Clair Roads 	County Road Commission 	DMR 	Public Works 
-422.30000 	KNJC711 	RM	205 DPL	BATC Buses 1 	Transit Buses 	FMN 	Transportation 
-422.37500 	KNJC711 	RM		BATC Buses 2 	Transit Buses 	FMN 	Transportation 
-452.75000 	KNJC711 	RM		BATC Maintenance 	Maintenance/Supervisors 	FMN 	Transportation 
-462.95000 	WYZ302 	RM		Tri Hospital 	Paging 	FMN 	EMS Dispatch 
-155.17500 	WYZ302 	BM		SJ River EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.34000 	WQPN866 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
-452.01250 	WQAB639 	RM		MH SecurityOps 1 	Security/Ops 	FMN 	Business 
-451.33750 	WQAB639 	M		MH SecurityOps 2 	Security/Ops 	FMN 	Business 
-451.41250 	WQAB639 	M	173.8 PL	MH SecurityOps 3 	Security/Ops 	FMN 	Business 
-451.53750 	WQAB639 	M		MH SecurityOps 4 	Security/Ops 	FMN 	Business 
-452.03750 	WQAB639 	M		MH SecurityOps 5 	Security/Ops 	FMN 	Business 
-152.00750 	KYB726 	B		LakeHuron Paging 	Paging 	FMN 	Hospital 
-155.34000 	KYB726 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
-464.02500 	WPGF913 	RM	131.8 PL	Mclaren Security 	Security 	FMN 	Security 
-155.17500 	WYK472 	BM		Mclaren EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.34000 	WPZY272 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
-156.10500 	WPMX834 	BM		Capac FD/PW 	Fire / Public Works (Ch 2) 	DMR 	Multi-Talk 
-155.89500 	KVJ875 	BM	173.8 PL	Marysville FD/PW 	Fire/Public Works (Ch 2) 	FMN 	Multi-Talk 
-153.90500 	KYU405 	BM	110.9 PL	Port Huron DPW 	DPW 	FMN 	Public Works 
-464.32500 	KKP698 	RM	107.2 PL	Algonac School 1 	Transportation - Primary 	FMN 	Schools 
-463.35000 	KKP698 	RM		Algonac School 2 	Transportation - Secondary 	FMN 	Schools 
-464.82500 	WYM988 	RM		Capac School 	Transportation - Primary 	FMN 	Schools 
-155.20500 	WQOX496 	BM	107.2 PL	E. China School 	Transportation - Primary 	FMN 	Schools 
-155.40000 	KNDN869 	BM		Marysvile School 	Transportation - Primary (lic to Hurley, John) 	FMN 	Schools 
-155.23500 	WNJX618 	BM		Anchor Bay Schol 	Anchor Bay Schools 	FMN 	Schools 
-155.22000 	KNFF799 	BM	151.4 PL	PortHuron School 	Transportation - Garage 	FMN 	Schools 
-463.35000 	WQNP952 	BM		St. Claire Inter 	St Claire Intermediate School District 	FMN 	Schools 
-33.14000 	WPMK809 	M		Yale School 1 	Transportation 	FM 	Schools 
-33.40000 	WPMK809 	M		Yale School 2 	Transportation 	FM 	Schools 
-ComSource Michigan DMR	 DMR Motorola Connect Plus (TRBO)	 Various	ComSource Michigan NEXEDGE	 NXDN NEXEDGE 9600	 Varies	Consumers Energy	 EDACS Networked Standard
- Various	DeltaCom	 NXDN NEXEDGE 4800	 Varies	DTE Energy: China Power Plant	 LTR Standard	 St. Clair	DTE Energy: East China Power Plant
- DMR Motorola Capacity Plus Single Site (TRBO)	 East China Twp.	
+156.10500 	159.07500  	WPMX834 	RM	CC 4TG *SL *	St. Clair Roads 	County Road Commission 	DMR 	Public Works 
+422.30000 	427.30000  	KNJC711 	RM	205 DPL	BATC Buses 1 	Transit Buses 	FMN 	Transportation 
+422.37500 	427.37500  	KNJC711 	RM		BATC Buses 2 	Transit Buses 	FMN 	Transportation 
+452.75000 	457.75000  	KNJC711 	RM		BATC Maintenance 	Maintenance/Supervisors 	FMN 	Transportation 
+462.95000 	467.95000  	WYZ302 	RM		Tri Hospital 	Paging 	FMN 	EMS Dispatch 
+155.17500 	   	WYZ302 	BM		SJ River EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	WQPN866 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+452.01250 	457.01250  	WQAB639 	RM		MH SecurityOps 1 	Security/Ops 	FMN 	Business 
+451.33750 	456.33750  	WQAB639 	M		MH SecurityOps 2 	Security/Ops 	FMN 	Business 
+451.41250 	   	WQAB639 	M	173.8 PL	MH SecurityOps 3 	Security/Ops 	FMN 	Business 
+451.53750 	456.53750  	WQAB639 	M		MH SecurityOps 4 	Security/Ops 	FMN 	Business 
+452.03750 	457.03750  	WQAB639 	M		MH SecurityOps 5 	Security/Ops 	FMN 	Business 
+152.00750 	   	KYB726 	B		LakeHuron Paging 	Paging 	FMN 	Hospital 
+155.34000 	   	KYB726 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+464.02500 	469.02500  	WPGF913 	RM	131.8 PL	Mclaren Security 	Security 	FMN 	Security 
+155.17500 	   	WYK472 	BM		Mclaren EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	WPZY272 	BM		HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+156.10500 	   	WPMX834 	BM		Capac FD/PW 	Fire / Public Works (Ch 2) 	DMR 	Multi-Talk 
+155.89500 	   	KVJ875 	BM	173.8 PL	Marysville FD/PW 	Fire/Public Works (Ch 2) 	FMN 	Multi-Talk 
+153.90500 	   	KYU405 	BM	110.9 PL	Port Huron DPW 	DPW 	FMN 	Public Works 
+464.32500 	469.32500  	KKP698 	RM	107.2 PL	Algonac School 1 	Transportation - Primary 	FMN 	Schools 
+463.35000 	468.35000  	KKP698 	RM		Algonac School 2 	Transportation - Secondary 	FMN 	Schools 
+464.82500 	469.82500  	WYM988 	RM		Capac School 	Transportation - Primary 	FMN 	Schools 
+155.20500 	   	WQOX496 	BM	107.2 PL	E. China School 	Transportation - Primary 	FMN 	Schools 
+155.40000 	   	KNDN869 	BM		Marysvile School 	Transportation - Primary (lic to Hurley, John) 	FMN 	Schools 
+155.23500 	   	WNJX618 	BM		Anchor Bay Schol 	Anchor Bay Schools 	FMN 	Schools 
+155.22000 	   	KNFF799 	BM	151.4 PL	PortHuron School 	Transportation - Garage 	FMN 	Schools 
+463.35000 	468.85000  	WQNP952 	BM		St. Claire Inter 	St Claire Intermediate School District 	FMN 	Schools 
+33.14000 	   	WPMK809 	M		Yale School 1 	Transportation 	FM 	Schools 
+33.40000 	   	WPMK809 	M		Yale School 2 	Transportation 	FM 	Schools 
+ComSource Michigan NEXEDGE	 NXDN NEXEDGE 9600	 Varies	Consumers Energy	 EDACS Networked Standard	 Various	DeltaCom	 NXDN NEXEDGE 4800	 Varies
+DTE Energy: China Power Plant	 LTR Standard	 St. Clair	DTE Energy: East China Power Plant	 DMR Motorola Capacity Plus Single Site (TRBO)	 East China Twp.	

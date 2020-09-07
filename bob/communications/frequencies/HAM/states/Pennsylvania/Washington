@@ -1,44 +1,49 @@
-46.40000 	KGF358 	BM	CSQ	Wash FD LB 	County Fire Dispatch - Low-band 	FM 	Fire Dispatch 
-151.43000 	WPNP403 	RM	110.9 PL	Wash FD Z-1 	County Fire Dispatch - Zone 1 	FMN 	Fire Dispatch 
-151.06250 	KGF358 	RM	110.9 PL	Wash FD Z-2 	County Fire Dispatch - Zone 2 	FMN 	Fire Dispatch 
-151.34750 	KGF358 	RM	156.7 PL	Wash FD Z-3 	County Fire Dispatch - Zone 3 	FMN 	Fire Dispatch 
-154.13000 	KGF599 	RM	141.3 PL	Wash FD Z-4 	County Fire Dispatch - Zone 4 (64/48) 	FMN 	Fire Dispatch 
-154.41500 	KGE847 	BM	85.4 PL	CannonsbrgFD 	Cannonsburg VFD / Public Works 	FM 	Fire-Talk 
-155.37750 	WNNA684 	BM		Elrama VFC 	Elrama Community VFC 	DMR 	Fire-Talk 
-159.46500 	WQKW742 	RM	186.2 PL	N StrabaneFD 	North Strabane Township FD 	FM 	Fire-Tac 
-471.08750 	WIJ318 	RM	131.8 PL	Mon City FD 	Monongahela Fire 	FM 	Fire Dispatch 
-151.26500 	WPSD858 	RM	411 DPL	WashCityFD U 	Washington City FD  (new) 	FMN 	Fire Dispatch 
-453.48750 	WPSD858 	RM	411 DPL	WashCityFD V 	Washington City FD 	FM 	Fire-Talk 
-453.83750 	WPSD858 	M	411 DPL	Wash FD FG 	Washington FD Fireground 	FM 	Fire-Tac 
-155.29500 	KNJN428 	BM	110.9 PL	Wash EMS Dsp 	County EMS Dispatch 	FMN 	EMS Dispatch 
-467.38750 	 	F	110.9 PL	Wash EMS UHF 	County EMS UHF Link (to 155.295) 	FM 	EMS Dispatch 
-155.35500 	KNEL374 	BM	110.9 PL	Wash Hosp ER 	EMS-to-Washington Hospital 	FMN 	Hospital 
-155.35500 	KDY377 	BM	167.9 PL	Cbrg Hosp ER 	EMS-to-Canonsburg General Hospital 	FMN 	Hospital 
-155.35500 	WQQM953 	BM	91.5 PL	Mon Valley ER 	EMS-to-Mon Valley Hospital 	FMN 	Hospital 
-155.92500 	KIZ300 	RM	107.2 PL	Peters EMS 	Peters Twp EMS Dispatch 	FMN 	EMS Dispatch 
-453.52500 	WQFI474 	RM	156.7 PL	Wash EMA 	PEMA / HazMat Dispatch 	FM 	Emergency Ops 
-471.41250 	WIJ707 	RM	110.9 PL	Wash EMA 	Washington Co EMA / HazMat 	FM 	Emergency Ops 
-155.25000 	KGF398 	RM	110.9 PL	Wash PD Z-1 	Police Zone 1 	FMN 	Law Dispatch 
-159.16500 	WPKT967 	RM	123.0 PL	Wash PD Z-2 	Police Zone 2 	FMN 	Law Dispatch 
-155.64000 	WPAU478 	RM	110.9 PL	Wash PD Z-3 	Police Zone 3 	FMN 	Law Dispatch 
-155.01000 	KGF398 	BM	110.9 PL	Wash Sheriff 	Sheriff 	FMN 	Law Tac 
-471.11250 	WIJ318 	RM	131.8 PL	Mon City PD 	Monongahela Police 	FM 	Law Dispatch 
-159.12000 	WPUU886 	RM	107.2 PL	Peters PD F4 	Peters Township Police F-4 	FMN 	Law Tac 
-155.92500 	KIZ300 	RM	107.2 PL	Peters PD 	Peters Township Police 	FMN 	Law Dispatch 
-453.90000 	WNZL635 	BM	073 DPL	Wash Prison 	County Prison 	FM 	Corrections 
-151.02500 	KNDL320 	RM	71.9 PL	Cecil Twp PW 	Cecil Township Public Works 	FM 	Public Works 
-155.14500 	WRA595 	BM	127.3 PL	Mt Plsnt PW 	Mt Pleasant Township Public Works 	FM 	Public Works 
-155.80500 	WNYF871 	BM	127.3 PL	Smith Twp PW 	Smith Township Public Works 	FM 	Public Works 
-155.83500 	WPZA968 	BM	110.9 PL	Canonsbrg PW 	Canonsburg Borough Public Works 	FM 	Public Works 
-155.86500 	KNAW976 	RM	107.2 PL	Nstrb DPW 	North Strabane Public Works 	FM 	Public Works 
-156.11250 	WPTH778 	RM	631 DPL	Somerset PW 	Somerset Township Public Works 	FM 	Public Works 
-156.16500 	KJK565 	RM	110.9 PL	SStrabane PW 	South Strabane Township Public Works 	FM 	Public Works 
-159.12000 	WPUU886 	RM	107.2 PL	Peters DPW 	Peters Twp Public Works 	FM 	Public Works 
-464.00000 	WNIA277 	RM	CC 2TG 400SL 1	MidMonTrans 	Mid Mon Valley Transit 	DMR 	Transportation 
-151.71500 	WPBG971 	BM	110.9 PL	WJC Security 	Security 	FM 	Security 
-152.28500 	WQDF813 	RM	125 DPL	Avella SD 	Avella Area School District 	FM 	Schools 
-463.42500 	WRF455 	RM	712 DPL	McGuffey SD 	McGuffey School District - Buses 	FM 	Schools 
-464.12500 	WPTA754 	RM	306 DPL	Ringgold SD 	Ringgold School District - Buses 	FMN 	Schools 
-CNX Gas Co LLC	 NXDN Icom IDAS Type D	 	Lauttamus Communications (PA-WV)	 NXDN NEXEDGE 4800	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I
- Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	The Meadows Racetrack & Casino	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	TRIconneX Connect Plus (WV-PA-OH)
- DMR Motorola Connect Plus (TRBO)	 WV-PA-OH	
+46.40000 	   	KGF358 	BM	CSQ	Wash FD LB 	County Fire Dispatch - Low-band 	FM 	Fire Dispatch 
+151.43000 	155.89500  	WPNP403 	RM	110.9 PL	Wash FD Z-1 	County Fire Dispatch - Zone 1 	FMN 	Fire Dispatch 
+151.06250 	159.38250  	KGF358 	RM	110.9 PL	Wash FD Z-2 	County Fire Dispatch - Zone 2 	FMN 	Fire Dispatch 
+151.34750 	159.20250  	KGF358 	RM	156.7 PL	Wash FD Z-3 	County Fire Dispatch - Zone 3 	FMN 	Fire Dispatch 
+154.13000 	159.03000  	KGF599 	RM	141.3 PL	Wash FD Z-4 	County Fire Dispatch - Zone 4 (64/48) 	FMN 	Fire Dispatch 
+153.83000 	   	WQIX885 	M	110.9 PL	Wash FD Ops 1 	Fire Operations 1 	FMN 	Fire-Tac 
+158.91750 	   	KGF358 	M	110.9 PL	Wash FD Ops 2 	Fire Operations 2 	FMN 	Fire-Tac 
+154.26500 	   	WPAU478 	M	110.9 PL	Wash FD Ops 3 	Fire Operations 3 	FMN 	Fire-Tac 
+159.10500 	   	WPAU478 	M	110.9 PL	Wash FD Ops 4 	Fire Operations 4 	FMN 	Fire-Tac 
+151.49000 	   	WQIA255 	M	110.9 PL	Wash FD Ops 5 	Fire Operations 5 	FMN 	Fire-Tac 
+156.07500 	   	WQIA255 	M	110.9 PL	Wash FD Ops 6 	Fire Operations 6 	FMN 	Fire-Tac 
+154.41500 	   	KGE847 	BM	85.4 PL	CannonsbrgFD 	Cannonsburg VFD / Public Works 	FM 	Fire-Talk 
+155.37750 	   	WNNA684 	BM		Elrama VFC 	Elrama Community VFC 	DMR 	Fire-Talk 
+159.46500 	154.23500  	WQKW742 	RM	186.2 PL	N StrabaneFD 	North Strabane Township FD 	FM 	Fire-Tac 
+471.08750 	474.08750  	WIJ318 	RM	131.8 PL	Mon City FD 	Monongahela Fire 	FM 	Fire Dispatch 
+151.26500 	156.05250  	WPSD858 	RM	411 DPL	WashCityFD U 	Washington City FD  (new) 	FMN 	Fire Dispatch 
+453.48750 	458.48750  	WPSD858 	RM	411 DPL	WashCityFD V 	Washington City FD 	FM 	Fire-Talk 
+453.83750 	   	WPSD858 	M	411 DPL	Wash FD FG 	Washington FD Fireground 	FM 	Fire-Tac 
+155.29500 	   	KNJN428 	BM	110.9 PL	Wash EMS Dsp 	County EMS Dispatch 	FMN 	EMS Dispatch 
+467.38750 	   	 	F	110.9 PL	Wash EMS UHF 	County EMS UHF Link (to 155.295) 	FM 	EMS Dispatch 
+155.35500 	   	KNEL374 	BM	110.9 PL	Wash Hosp ER 	EMS-to-Washington Hospital 	FMN 	Hospital 
+155.35500 	   	KDY377 	BM	167.9 PL	Cbrg Hosp ER 	EMS-to-Canonsburg General Hospital 	FMN 	Hospital 
+155.35500 	   	WQQM953 	BM	91.5 PL	Mon Valley ER 	EMS-to-Mon Valley Hospital 	FMN 	Hospital 
+155.92500 	153.84500  	KIZ300 	RM	107.2 PL	Peters EMS 	Peters Twp EMS Dispatch 	FMN 	EMS Dispatch 
+453.52500 	458.52500  	WQFI474 	RM	156.7 PL	Wash EMA 	PEMA / HazMat Dispatch 	FM 	Emergency Ops 
+471.41250 	474.41250  	WIJ707 	RM	110.9 PL	Wash EMA 	Washington Co EMA / HazMat 	FM 	Emergency Ops 
+155.25000 	158.73000  	KGF398 	RM	110.9 PL	Wash PD Z-1 	Police Zone 1 	FMN 	Law Dispatch 
+159.16500 	155.97000  	WPKT967 	RM	123.0 PL	Wash PD Z-2 	Police Zone 2 	FMN 	Law Dispatch 
+155.64000 	155.07000  	WPAU478 	RM	110.9 PL	Wash PD Z-3 	Police Zone 3 	FMN 	Law Dispatch 
+155.01000 	   	KGF398 	BM	110.9 PL	Wash Sheriff 	Sheriff 	FMN 	Law Tac 
+471.11250 	474.11250  	WIJ318 	RM	131.8 PL	Mon City PD 	Monongahela Police 	FM 	Law Dispatch 
+159.12000 	156.13500  	WPUU886 	RM	107.2 PL	Peters PD F4 	Peters Township Police F-4 	FMN 	Law Tac 
+155.92500 	153.84500  	KIZ300 	RM	107.2 PL	Peters PD 	Peters Township Police 	FMN 	Law Dispatch 
+453.90000 	   	WNZL635 	BM	073 DPL	Wash Prison 	County Prison 	FM 	Corrections 
+151.02500 	156.06000  	KNDL320 	RM	71.9 PL	Cecil Twp PW 	Cecil Township Public Works 	FM 	Public Works 
+155.14500 	   	WRA595 	BM	127.3 PL	Mt Plsnt PW 	Mt Pleasant Township Public Works 	FM 	Public Works 
+155.80500 	   	WNYF871 	BM	127.3 PL	Smith Twp PW 	Smith Township Public Works 	FM 	Public Works 
+155.83500 	   	WPZA968 	BM	110.9 PL	Canonsbrg PW 	Canonsburg Borough Public Works 	FM 	Public Works 
+155.86500 	153.93500  	KNAW976 	RM	107.2 PL	Nstrb DPW 	North Strabane Public Works 	FM 	Public Works 
+156.11250 	159.00750  	WPTH778 	RM	631 DPL	Somerset PW 	Somerset Township Public Works 	FM 	Public Works 
+156.16500 	158.98500  	KJK565 	RM	110.9 PL	SStrabane PW 	South Strabane Township Public Works 	FM 	Public Works 
+159.12000 	156.13500  	WPUU886 	RM	107.2 PL	Peters DPW 	Peters Twp Public Works 	FM 	Public Works 
+464.00000 	469.00000  	WNIA277 	RM	CC 2TG 400SL 1	MidMonTrans 	Mid Mon Valley Transit 	DMR 	Transportation 
+151.71500 	   	WPBG971 	BM	110.9 PL	WJC Security 	Security 	FM 	Security 
+152.28500 	157.54500  	WQDF813 	RM	125 DPL	Avella SD 	Avella Area School District 	FM 	Schools 
+463.42500 	468.42500  	WRF455 	RM	712 DPL	McGuffey SD 	McGuffey School District - Buses 	FM 	Schools 
+464.12500 	469.12500  	WPTA754 	RM	306 DPL	Ringgold SD 	Ringgold School District - Buses 	FMN 	Schools 
+CNX Gas Co LLC	 NXDN Icom IDAS Type D	 	Lauttamus Communications (PA-WV)	 NXDN NEXEDGE 4800	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various
+Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	The Meadows Racetrack & Casino	 DMR Motorola Capacity Plus Single Site (TRBO)	 Washington	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH

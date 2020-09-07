@@ -1,18 +1,18 @@
-155.52000 	WNBP932 	RM	100.0 PL	SEQ FD/EMS 	County Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-856.13750 	WQJU972 	RM	03E NAC	SEQ SO DISP 	Sheriff Dispatch Backup 	P25 	Law Dispatch 
-856.93750 	WQJU972  	RM	023 DPL	DUNLAP PD 	Dunlap Police Dispatch 	FM 	Law Dispatch 
-856.93750 	WQJU972  	RM		SEQ LAW OPS2 	Countywide Law Enforcement Operations 2 (Encryption Possible) 	FM 	Law Tac 
-154.75500 	WNBP932 	RM	100.0 PL	SO Mutl Aid 	Sheriff's Department -  VHF Mutual Aid 	FMN 	Interop 
-154.08500 	WQDB445 	RM		SEQ OPS 	County Operations 	FMN 	Public Works 
-154.01000 	WPEQ219 	BM		CVFD TAC  	Cagle  Volunteer Fire Department  	FMN 	Fire-Tac 
-154.20500 	WPHC281 	BM		LCVFD TAC 1 	Lewis Chapel Volunteer Fire Department 1 	FMN 	Fire-Tac 
-154.28000 	WPHC281 	BM		LCVFD TAC 2 	Lewis Chapel Volunteer Fire Department 2 	FMN 	Fire-Tac 
-151.00250 	WQRI387 	BM		FVFD TAC 	Fredonia Volunteer Fire Department 	FMN 	Fire-Tac 
-154.10750 	WQA251 	M		SCVFD LO TAC 	Sequatchie County Volunteer Fire Department Lone Oak 	FMN 	Fire-Tac 
-154.43000 	WPBY353 	RM		SEVFD MAIN 	Southend Volunteer Fire Department Primary 	FMN 	Fire-Tac 
-154.13000 	WPBY353 	BM		SEVFD TAC 	Southend Volunteer Fire Department Tactical 	FMN 	Fire-Tac 
-154.38500 	WQUV720 	RM	186.2 PL	Dunlap VFD 	Volunteer Fire Department  	FMN 	Fire Dispatch 
-155.07000 	KNIP577 	BM		DPD VHF TAC 	Police Department VHF Tactical 	FMN 	Law Tac 
-451.27500 	WNAZ259 	RM	664 DPL	Dunlap N Gas 	Natural Gas System 	FM 	Utilities 
-Mobile Communications America	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Puckett EMS	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II
- Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	
+155.52000 	154.95000  	WNBP932 	RM	100.0 PL	SEQ FD/EMS 	County Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+856.13750 	811.13750  	WQJU972 	RM	03E NAC	SEQ SO DISP 	Sheriff Dispatch Backup 	P25 	Law Dispatch 
+856.93750 	811.93750  	WQJU972  	RM	023 DPL	DUNLAP PD 	Dunlap Police Dispatch 	FM 	Law Dispatch 
+856.93750 	811.93750  	WQJU972  	RM		SEQ LAW OPS2 	Countywide Law Enforcement Operations 2 (Encryption Possible) 	FM 	Law Tac 
+154.75500 	156.01500  	WNBP932 	RM	100.0 PL	SO Mutl Aid 	Sheriff's Department -  VHF Mutual Aid 	FMN 	Interop 
+154.08500 	151.32500  	WQDB445 	RM		SEQ OPS 	County Operations 	FMN 	Public Works 
+154.01000 	   	WPEQ219 	BM		CVFD TAC  	Cagle  Volunteer Fire Department  	FMN 	Fire-Tac 
+154.20500 	   	WPHC281 	BM		LCVFD TAC 1 	Lewis Chapel Volunteer Fire Department 1 	FMN 	Fire-Tac 
+154.28000 	   	WPHC281 	BM		LCVFD TAC 2 	Lewis Chapel Volunteer Fire Department 2 	FMN 	Fire-Tac 
+151.00250 	   	WQRI387 	BM		FVFD TAC 	Fredonia Volunteer Fire Department 	FMN 	Fire-Tac 
+154.10750 	   	WQA251 	M		SCVFD LO TAC 	Sequatchie County Volunteer Fire Department Lone Oak 	FMN 	Fire-Tac 
+154.43000 	153.86000  	WPBY353 	RM		SEVFD MAIN 	Southend Volunteer Fire Department Primary 	FMN 	Fire-Tac 
+154.13000 	   	WPBY353 	BM		SEVFD TAC 	Southend Volunteer Fire Department Tactical 	FMN 	Fire-Tac 
+154.38500 	153.77000  	WQUV720 	RM	186.2 PL	Dunlap VFD 	Volunteer Fire Department  	FMN 	Fire Dispatch 
+155.07000 	   	KNIP577 	BM		DPD VHF TAC 	Police Department VHF Tactical 	FMN 	Law Tac 
+451.27500 	456.27500  	WNAZ259 	RM	664 DPL	Dunlap N Gas 	Natural Gas System 	FM 	Utilities 
+Mobile Communications America	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Puckett EMS	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various
+Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

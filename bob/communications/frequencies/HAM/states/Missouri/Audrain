@@ -1,23 +1,23 @@
-154.81500 	KAJ237 	RM	77.0 PL	Audrain Sheriff 	Sheriff: Dispatch (Voice Inversion Available) 	FMN 	Law Dispatch 
-156.10500 	KNEX625 	RM		Audr Highway 	Highway Maintenance 	FMN 	Public Works 
-173.31250 	WNXS891 	F		ACPWSD#2 WDD 	Audrain County Public Water Supply District #2: Data 	Telm 	Data 
-154.04000 	WQMQ922 	RM		AMC Ops New 	EMS: Dispatch 	FMN 	EMS Dispatch 
-158.88750 	KUS465 	M		AMC EMS MX 	EMS: Mobile Extenders  	FMN 	EMS-Tac 
-155.34000 	KUS465 	BM		HEAR340 	Patient Reports (also 155.28) 	FMN 	Hospital 
-463.00000 	KUS465 	RM		MED-1 	Patient Reports (All Channels) 	FMN 	Hospital 
-154.16000 	WQLW688 	RM		Farber Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
-154.44500 	WPMU383 	RM		Laddonia Fire 	Fire 	FMN 	Fire Dispatch 
-155.38500 	WRX789 	RM		LittllDixie Fire 	Fire: Local (New) 	FMN 	Fire Dispatch 
-154.41500 	WRX789 	RM		LtlDixFire Old 	Fire: Ops 	FMN 	Fire Dispatch 
-155.68500 	WPVJ831 	BM		Martingsburg 	Police ? 	FMN 	Law Dispatch 
-154.37000 	WQKR245 	RM	271 DPL	MrtnsbrgFire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.92500 	KAR773 	RM	103.5 PL	Mexico Police 	Police: Dispatch 	FMN 	Law Dispatch 
-155.82000 	KAR773 	BM		Mexico Maint 	City Maintenance: Streets/Parks 	FMN 	Public Works 
-153.92000 	KNNU380 	M		Mexico S/Wtr 	Sewer / Water [Terminated] 	FMN 	Public Works 
-155.86500 	KNGA897 	RM	156.7 PL	Vand Police 	Police: Dispatch ? 	FMN 	Law Dispatch 
-158.95500 	KNGA897 	M		Van Car2Car 	Police: Car-to-Car ? 	FMN 	Multi-Tac 
-155.86500 	KNGA897 	RM	94.8 PL	Van PD/FD/Am 	Police/Fire/Ambulance: Dispatch 	FMN 	Multi-Dispatch 
-453.97500 	WNKF748 	RM		Van PubWrks 	Public Works 	FMN 	Public Works 
-464.42500 	WPCA385 	RM		Audrain Schools  	Operations (in use) 	DMR 	Data 
-155.26500 	WNRF520 	RM		CommR6 SchBus 	Buses 	FMN 	Schools 
+154.81500 	155.85000  	KAJ237 	RM	77.0 PL	Audrain Sheriff 	Sheriff: Dispatch (Voice Inversion Available) 	FMN 	Law Dispatch 
+156.10500 	159.01500  	KNEX625 	RM		Audr Highway 	Highway Maintenance 	FMN 	Public Works 
+173.31250 	   	WNXS891 	F		ACPWSD#2 WDD 	Audrain County Public Water Supply District #2: Data 	Telm 	Data 
+154.04000 	158.83500  	WQMQ922 	RM		AMC Ops New 	EMS: Dispatch 	FMN 	EMS Dispatch 
+158.88750 	   	KUS465 	M		AMC EMS MX 	EMS: Mobile Extenders  	FMN 	EMS-Tac 
+155.34000 	   	KUS465 	BM		HEAR340 	Patient Reports (also 155.28) 	FMN 	Hospital 
+463.00000 	468.00000  	KUS465 	RM		MED-1 	Patient Reports (All Channels) 	FMN 	Hospital 
+154.16000 	159.25500  	WQLW688 	RM		Farber Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
+154.44500 	150.79000  	WPMU383 	RM		Laddonia Fire 	Fire 	FMN 	Fire Dispatch 
+155.38500 	158.92500  	WRX789 	RM		LittllDixie Fire 	Fire: Local (New) 	FMN 	Fire Dispatch 
+154.41500 	158.92500  	WRX789 	RM		LtlDixFire Old 	Fire: Ops 	FMN 	Fire Dispatch 
+155.68500 	   	WPVJ831 	BM		Martingsburg 	Police ? 	FMN 	Law Dispatch 
+154.37000 	153.78500  	WQKR245 	RM	271 DPL	MrtnsbrgFire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.92500 	159.06000  	KAR773 	RM	103.5 PL	Mexico Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.82000 	   	KAR773 	BM		Mexico Maint 	City Maintenance: Streets/Parks 	FMN 	Public Works 
+153.92000 	   	KNNU380 	M		Mexico S/Wtr 	Sewer / Water [Terminated] 	FMN 	Public Works 
+155.86500 	159.03000  	KNGA897 	RM	156.7 PL	Vand Police 	Police: Dispatch ? 	FMN 	Law Dispatch 
+158.95500 	   	KNGA897 	M		Van Car2Car 	Police: Car-to-Car ? 	FMN 	Multi-Tac 
+155.86500 	159.03000  	KNGA897 	RM	94.8 PL	Van PD/FD/Am 	Police/Fire/Ambulance: Dispatch 	FMN 	Multi-Dispatch 
+453.97500 	458.97500  	WNKF748 	RM		Van PubWrks 	Public Works 	FMN 	Public Works 
+464.42500 	469.52500  	WPCA385 	RM		Audrain Schools  	Operations (in use) 	DMR 	Data 
+155.26500 	158.78250  	WNRF520 	RM		CommR6 SchBus 	Buses 	FMN 	Schools 
 AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	WirelessUSA (Columbia) 	 Motorola Type II Smartnet	 Columbia	

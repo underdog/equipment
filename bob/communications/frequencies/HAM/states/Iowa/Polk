@@ -1,33 +1,32 @@
-151.46000 	WYK686 	B	CSQ	Polk Fire Page  	Fire Paging/Dispatch - Patched to SARA 	FMN 	Fire Dispatch 
-151.22000 	WNJI497 	RM	146.2 PL	Polk Consv 	Conservation 	FMN 	Public Works 
-460.02500 	KAB269 	RM	203.5 PL	DMPD F-1 	Dispatch 	FMN 	Law Dispatch 
-460.32500 	KAB269 	RM	203.5 PL	DMPD F-2 	F2 - LENCIR 	FMN 	Law Talk 
-460.15000 	KAB269 	RM	203.5 PL	DMPD F-3 	F3 	FMN 	Law Tac 
-460.40000 	KAB269 	RM	203.5 PL	DMPD F-4 	F4 	FMN 	Law Tac 
-460.22500 	KAB269 	RM	203.5 PL	DMPD F-5 	F5 	FMN 	Law Tac 
-460.50000 	KAB269 	RM	203.5 PL	DMPD F-6 	TAC 6 	FMN 	Multi-Tac 
-453.92500 	WPUE631 	RM	131.8 PL	DMPD F-7 	TAC 7 	FMN 	Multi-Tac 
-453.97500 	WPUE631 	RM	131.8 PL	DMPD F-8 	TAC 8 	FMN 	Multi-Tac 
-453.75000 	WPLX268 	RM	131.8 PL	DMPD F-9  	TAC 9 	FMN 	Multi-Tac 
-460.62500 	KAB684 	RM	173.8 PL	DMFD F-1 	Dispatch 	FMN 	Fire Dispatch 
-460.57500 	KAB684 	RM	173.8 PL	DMFD F-2 	F2 	FMN 	Fire-Tac 
-460.60000 	KAB684 	RM	173.8 PL	DMFD F-3 	Fireground 	FMN 	Fire-Tac 
-155.10000 	KBM914 	RM	203.5 PL	DM Traffic/Parks 	Traffic Engineers & Parks Department 	FMN 	Public Works 
-158.88000 	KSK925 	BM	203.5 PL	DM Public Works 	Public Works Department 	FMN 	Public Works 
-855.46250 	WQKM930 	RM	156 DPL	DM Solid Waste 	Solid Waste Department 	FMN 	Public Works 
-453.80000 	KNCH496 	BM	179.9 PL	DM DART Bus 	Regional Transit Buses 	FMN 	Transportation 
-453.38750 	KNCH496 	RM	311 DPL	DM Dart Bus  	Regional Transit Buses 	FMN 	Transportation 
-155.80500 	WQRM649 	B	127.3 PL	Westcom Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.94000 	KBS928 	BM		Clive Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.25000 	WQVH813  	BM	82.5 PL	Udale Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.16000 	KAB788 	BM	127.3 PL	WDM FireDisp 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.53500 	KAB788 	BM	146.2 PL	PolkEMSDisp 	EMS Dispatch 	FMN 	EMS Dispatch 
-153.93500 	KVX762 	BM	174 DPL	Altoona PW 	Public Works 	FMN 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Artistic Waste	 Motorola Type II	 Des Moines	Business Communications	 LTR Standard
- Des Moines	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	Deere and Company	 LTR Standard	 Des Moines	Electronic Engineering
- Motorola Type IIi Hybrid	 Des Moines	Electronic Engineering (Des Moines)	 Motorola Type IIi Hybrid	 Des Moines	Electronic Radio Service (DMR)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines
-Electronic Radio Services (Motorola)	 Motorola Type IIi Hybrid	 Des Moines	Firestone Tire and Rubber (460 MHz)	 LTR Standard	 Des Moines	Firestone Tire and Rubber (900 MHz)	 LTR Standard
- Des Moines	Iowa Department of Corrections	 DMR Tier 3	 Various	Iowa DMR Users Group	 DMR Conventional Networked	 Various	Iowa State Fairgrounds
- DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines	LWC Communications - Des Moines	 DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines	Mid American Energy	 MPT-1327 Standard	 Various
-Prairie Meadows Casino	 DMR Motorola Capacity Plus Single Site (TRBO)	 Altoona	Principal Life Insurance	 DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines	RACOM Network	 EDACS Networked Standard
- Various	WRC Communications - Des Moines	 DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines	
+151.46000 	   	WYK686 	B	CSQ	Polk Fire Page  	Fire Paging/Dispatch - Patched to SARA 	FMN 	Fire Dispatch 
+151.22000 	159.22500  	WNJI497 	RM	146.2 PL	Polk Consv 	Conservation 	FMN 	Public Works 
+460.02500 	465.02500  	KAB269 	RM	203.5 PL	DMPD F-1 	Dispatch 	FMN 	Law Dispatch 
+460.32500 	465.32500  	KAB269 	RM	203.5 PL	DMPD F-2 	F2 - LENCIR 	FMN 	Law Talk 
+460.15000 	465.15000  	KAB269 	RM	203.5 PL	DMPD F-3 	F3 	FMN 	Law Tac 
+460.40000 	465.40000  	KAB269 	RM	203.5 PL	DMPD F-4 	F4 	FMN 	Law Tac 
+460.22500 	465.22500  	KAB269 	RM	203.5 PL	DMPD F-5 	F5 	FMN 	Law Tac 
+460.50000 	465.50000  	KAB269 	RM	203.5 PL	DMPD F-6 	TAC 6 	FMN 	Multi-Tac 
+453.92500 	458.92500  	WPUE631 	RM	131.8 PL	DMPD F-7 	TAC 7 	FMN 	Multi-Tac 
+453.97500 	458.97500  	WPUE631 	RM	131.8 PL	DMPD F-8 	TAC 8 	FMN 	Multi-Tac 
+453.75000 	458.75000  	WPLX268 	RM	131.8 PL	DMPD F-9  	TAC 9 	FMN 	Multi-Tac 
+460.62500 	465.62500  	KAB684 	RM	173.8 PL	DMFD F-1 	Dispatch 	FMN 	Fire Dispatch 
+460.57500 	465.57500  	KAB684 	RM	173.8 PL	DMFD F-2 	F2 	FMN 	Fire-Tac 
+460.60000 	465.60000  	KAB684 	RM	173.8 PL	DMFD F-3 	Fireground 	FMN 	Fire-Tac 
+155.10000 	153.81500  	KBM914 	RM	203.5 PL	DM Traffic/Parks 	Traffic Engineers & Parks Department 	FMN 	Public Works 
+158.88000 	153.96500  	KSK925 	BM	203.5 PL	DM Public Works 	Public Works Department 	FMN 	Public Works 
+855.46250 	810.46250  	WQKM930 	RM	156 DPL	DM Solid Waste 	Solid Waste Department 	FMN 	Public Works 
+453.80000 	458.80000  	KNCH496 	BM	179.9 PL	DM DART Bus 	Regional Transit Buses 	FMN 	Transportation 
+453.38750 	458.38750  	KNCH496 	RM	311 DPL	DM Dart Bus  	Regional Transit Buses 	FMN 	Transportation 
+155.80500 	   	WQRM649 	B	127.3 PL	Westcom Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.94000 	   	KBS928 	BM		Clive Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.25000 	   	WQVH813  	BM	82.5 PL	Udale Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.16000 	   	KAB788 	BM	127.3 PL	WDM FireDisp 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.53500 	   	KAB788 	BM	146.2 PL	PolkEMSDisp 	EMS Dispatch 	FMN 	EMS Dispatch 
+153.93500 	   	KVX762 	BM	174 DPL	Altoona PW 	Public Works 	FMN 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Artistic Waste	 Motorola Type II	 Des Moines	Business Communications	 LTR Standard	 Des Moines
+Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	Deere and Company	 LTR Standard	 Des Moines	Electronic Engineering	 Motorola Type IIi Hybrid	 Des Moines
+Electronic Engineering (Des Moines)	 Motorola Type IIi Hybrid	 Des Moines	Electronic Radio Service (DMR)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines	Electronic Radio Services (Motorola)	 Motorola Type IIi Hybrid	 Des Moines
+Firestone Tire and Rubber (460 MHz)	 LTR Standard	 Des Moines	Firestone Tire and Rubber (900 MHz)	 LTR Standard	 Des Moines	Iowa Department of Corrections	 DMR Tier 3	 Various
+Iowa State Fairgrounds	 DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines	LWC Communications - Des Moines	 DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines	Mid American Energy	 MPT-1327 Standard	 Various
+Prairie Meadows Casino	 DMR Motorola Capacity Plus Single Site (TRBO)	 Altoona	Principal Life Insurance	 DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines	RACOM Network	 EDACS Networked Standard	 Various
+WRC Communications - Des Moines	 DMR Motorola Capacity Plus Single Site (TRBO)	 Des Moines	

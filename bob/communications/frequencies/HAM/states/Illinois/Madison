@@ -1,265 +1,265 @@
-155.59500 	KSB221 	RM	100.0 PL	MadisonSheriff A 	Sheriff: Jail / Court Ops 	FMN 	Law Dispatch 
-155.59500 	KSB221 	RM	263 DPL	MadisonSheriff B 	(OLD) Sheriff: Jail Operations (Patched with SC21 TG 7308) 	FMN 	Corrections 
-155.04000 	KCX387 	BM	100.0 PL	Mad Shrf Courts 	Sheriff/Courts/Probation (patched with SC21 TG73??) 	FMN 	Law Dispatch 
-158.85000 	KSB221 	RM	100.0 PL	Madison InterOp  	Countywide Interop (Patch with STARCOM21 TGs) 	FMN 	Interop 
-154.43000 	WNZI271 	BM	167.9 PL	MadisonFireNorth 	Fire/EMS: North - Tone-Outs/Dispatch (see notes) 	FMN 	Fire Dispatch 
-462.82500 	WQOB596 	B		MadCo HealthPG  	Health Department: Paging (Wood River) (CSQ) 	Telm 	Data 
-158.38500 	WNXW853 	BM	123.0 PL	MadC Sewer Ops 	Madison County Sanitary Sewer District: Ops 	FMN 	Public Works 
-158.82000 	KNDA355 	BM		MadC Sewer Data 	Madison County Sanitary Sewer District: Data (CSQ) 	Telm 	Data 
-154.54000 	KNIK267 	BM	100.0 PL	AVEC 	Alton-Volunteer Emergency Crew 	FMN 	Emergency Ops 
-461.52500 	WPLR946 	RM	192.8 PL	AIRCOM ARCH StL 	ARCH Helicopter - St. Louis 	FMN 	EMS Dispatch 
-462.95000 	WNDA516 	RM	210.7 PL	Abbott EMS IL  	Abbott EMS: IL Dispatch [MED 9] 	FMN 	EMS Dispatch 
-155.16000 	WNWF911 	BM	173.8 PL	MERCI-3 1738 	Alton Memorial Hospital: Patient Reports 	FMN 	Hospital 
-155.34000 	WQXK896 	B	210.7 PL	MERCI-1 2107 	Anderson Hospital (Maryville) Patient Reports 	FMN 	Hospital 
-155.16000 	WQXK896 	B	91.5 PL	MERCI-3 91.5 	Anderson Hospital (Maryville) Patient Reports (Main Use) 	FMN 	Hospital 
-155.16000 	WPDJ69 	BM	186.2 PL	MERCI3 186.2 	Gateway Regional Medical Center (Granite City): Patient Reports 	FMN 	Hospital 
-155.16000 	WPDJ649 	BM	82.5 PL	MERCI-3 82.5 	Gateway Regional Medical Center (Granite City): Patient Reports 	FMN 	Hospital 
-155.34000 	WNWF911 	BM	82.5 PL	MERCI-1 82.5 	Gateway Regional Medical Center (Granite City): Patient Reports 	FMN 	Hospital 
-155.16000 	KWI679 	BM	173.8 PL	MERCI-3 1738 	St Anthony/St Clare: Patient Reports 	FMN 	Hospital 
-155.34000 	KWI679 	BM	173.8 PL	MERCI-1 1738 	St Clare: Patient Reports 	FMN 	Hospital 
-155.16000 	WYV463 	BM	94.8 PL	MERCI3 94.8 	St. Joseph's Hospital of Highland: Patient Reports 	FMN 	Hospital 
-155.34000 	WYV463 	B	94.8 PL	MERCI1 94.8  	St. Joseph's Hospital of Highland: Patient Reports 	FMN 	Hospital 
-152.33750 	WQZI495 	RM	CC 3TG 1000SL 1	LifestarAltn SRA 	SRA Medicar: Dispatch 	DMRE 	EMS Dispatch 
-152.33750 	WQZI495 	RM	CC 3TG 1000SL 2	LifestarAltn EMS 	EMS: Dispatch  	DMRE 	EMS Dispatch 
-152.33750 	WQZI495 	RM	CC 3TG 968SL 2	LifestarAltnEMS2 	EMS: Dispatch 	DMR 	Emergency Ops 
-464.82500 	WNLJ872 	RM	192.8 PL	AMH EMS Dispatch 	EMS: Dispatch - Northern Madison 	FMN 	EMS Dispatch 
-461.32500 	WNVN760 	RM	71.9 PL	AMH EMS Tactical 	EMS: Tac [AMH] 	FMN 	EMS-Tac 
-154.25000 	KFA468 	BM	94.8 PL	GlenMary FD T/O 	Fire: Tone-Outs (Dispatch/Ops on SC21) 	FMN 	Fire Dispatch 
-154.25000 	KFA468 	BM	CSQ	Troy Fire T/O in 	Fire: Tone-Outs - Troy FPD  	FMN 	Fire Dispatch 
-158.77500 	 	RM	123.0 PL	TroyFire ToneOut 	Troy Fire/EMS: Tone-Outs [No license; CSQ in] 	FMN 	Fire Dispatch 
-800.89375 	WQLP241 	M	CSQ	Glen PD MX-I 	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
-770.89375 	WQLP241 	M	CSQ	Glen PD MX-O 	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
-770.89375 	WQLP241 	M	67.0 PL	Glen PD MX 67.0  	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
-770.89375 	WQLP241 	M	110.9 PL	Glen PD MX 1109  	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
-770.89375 	WQLP241 	M	118.8 PL	Glen PD MX 1188  	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
-770.89375 	WQLP241 	M	156.7 PL	Glen PD MX 1567  	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
-453.12500 	WPYL839 	RM	241.8 PL	Glen Siren Data 	Emergency Siren Data (Test 5am) 	FMN 	Data 
-154.99500 	KXM656 	BM	CSQ	Glen PW/WaterB 	Water / Public Works - Base 	FMN 	Public Works 
-154.99500 	KXM656 	BM	100.0 PL	Glen PW/WaterM 	Water / Public Works - Mobiles 	FMN 	Public Works 
-462.11250 	WQUT361  	F		Glen PW Data 	Public Works: Water Data (CSQ) 	FMN 	Data 
-461.22500 	WQZV399 	F		Glen PW Data 2 	Public Works: Water Distribution Data (CSQ) 	Telm 	Data 
-155.88000 	KAS418 	BM	146.2 PL	Mv Siren/PD  	Emergency Siren Data / Police: Backup 	FMN 	Emergency Ops 
-154.06250 	KA57594 	RM	251 DPL	Mv PubWrksN 	Public Works 	FMN 	Public Works 
-155.88000 	WZW728 	BM	CSQ	Mv PubWrksO 	(Old) Public Works / Water / Animal Control  	FMN 	Public Works 
-464.81250 	WQNF712 	M		MaryvilleWDD 	Water Data (CSQ) 	Telm 	Data 
-156.15000 	KLU487 	M		Troy Police VHF  	Police: Tactical [Ch 2] (Old?) 	FMN 	Law Tac 
-154.99500 	KLU488 	RM	203.5 PL	Troy PubWrks 	Public Works: Water (WNUK672 input) 	FMN 	Public Works 
-956.34375 	WQHT678 	F		B-MWD WDD 	Bond-Madison Water: Data 	Telm 	Data 
-153.53750 	WPNY502 	F		BMWC WDD 	Bond-Madison Water: Data (CSQ) 	Telm 	Data 
-151.02500 	 	BM	210.7 PL	ChtTwp Roads  	Chouteau Township: Highway Department  	FMN 	Public Works 
-154.11500 	WQA758 	BM	118.8 PL	EdwTwp Roads 	Edwardsville Township Road District 	FMN 	Public Works 
-154.04750 	KNIG943 	BM	136.5 PL	FtRuTwp Road 	Fort Russell Township: Road Maintenance {Expired*] 	FMN 	Public Works 
-151.02500 	WQPG897 	BM	136.5 PL	FostTwp Road 	Foster Township: Road Maintenance [Expired; in use] 	FMN 	Public Works 
-151.02500 	KTP829 	BM		GodTwp Road2 	Godfrey Township: Road Maintenance  	FMN 	Public Works 
-155.10000 	KDA985 	BM		GodTwp Road 	Godfrey Township: Road Maintenance 	FMN 	Public Works 
-464.22500 	KNGM587 	RM	110.9 PL	Mar/PO TS Rd 	Marine/Pin Oak? Township: Roads 	FMN 	Public Works 
-155.08500 	KFX582 	BM		ME San Dist 	Metro East Sanitary District: Ops  [Expired ] 	FMN 	Public Works 
-154.11500 	KNDU336 	BM	CSQ	NamkTwp Road 	Nameoki Township Road District [Term] 	FMN 	Public Works 
-153.57500 	WQYD378 	BM		NEC Water 	North East Central Water District 	FMN 	Public Works 
-463.73750 	WQVD372 	F		NECWD Data 	Northeast Central Water District: Data (CSQ) 	Telm 	Data 
-456.05000 	WPMA349 	F	103.5 PL	TriTwp Water 	Tri-Townships Water District 	FMN 	Data 
-151.07750 	WRBW717 	BM		WdRiv Twp Roads 	Wood River Townshp Roads (Cottage Hills) 	DMR 	Public Works 
-151.18250 	KW9095 	RM	243 DPL	AlhHam Fire/EMS 	FIre/EMS: Dispatch [Simulcast 154.43 MadCo Fire] [D152 in] 	FMN 	Fire Dispatch 
-154.99500 	KZT524 	BM	CSQ	Hamel VillageOps 	Village Ops [Expired] 	FMN 	Public Works 
-155.19000 	WNJE317 	RM	14 RAN	Alton PoliceNXDN 	Police: Dispatch (Simulcast of 155.6325) [TG 0] 	NXDN 	Law Dispatch 
-154.80750 	WNJE317 	RM		Alton Police DMR 	Police: Dispatch (Simulcast of 155.6325) 	P25 	Law Dispatch 
-155.63250 	WNJE317 	RM	047 DPL	Alton Police 	Police: Dispatch 	FMN 	Law Dispatch 
-155.19000 	WNJE317 	RM	156.7 PL	Alton Police Tac 	Police: Tac 	FMN 	Law Tac 
-158.97000 	KNNU219 	M	156.7 PL	AltonPolice c2c3 	Police: Tactical / Car-to-Car [Ch 3] 	FMN 	Law Tac 
-154.38500 	KDR424 	RM	156.7 PL	Alton Fire/EMS 	Fire/EMS/Rescue: Dispatch / Operations 	FMN 	Fire Dispatch 
-154.95750 	KSH507 	RM	151.4 PL	Alton PublicWork 	Public Works 	FMN 	Public Works 
-153.75500 	KNNK341 	M		Alton PW Site 1 	Public Works: Job Sites [67.0?] 	FMN 	Public Works 
-153.93500 	KNNK341 	M		Alton PW Site 2 	Public Works: Job Sites  	FMN 	Public Works 
-154.77750 	WQLI552 	M		Alton Marina 	Marina Security (D243?) 	FMN 	Security 
-158.80500 	KUN481 	RM	179.9 PL	Bethalto Police 	Police: Simulcast of NXDN 	FMN 	Law Dispatch 
-151.23500 	KUN481 	RM	45 RAN	Bethalto Police 	Police: Dispatch [TG 1] 	NXDNE 	Law Dispatch 
-151.10000 	KUN481 	RM		Bethalto NXDN A 	Police / Fire  	NXDN 	Multi-Dispatch 
-151.11500 	KUN481 	RM		Bethalto NXDN B 	Police / Fire  	NXDN 	Multi-Dispatch 
-154.79250 	KUN481 	BM	156 DPL	MadCo Sheriff *P 	(Recieve Patch) Madison County Sheriff (SC21 TG) 	FMN 	Law Dispatch 
-151.49000 	KRA500 	RM	143 DPL	Bethalto Fire  	Fire: Paging/Dispatch (Patched to SC21 TG8351) 	FMN 	Fire Dispatch 
-158.92500 	KUN481 	BM	146.2 PL	Bethalto Water  	Water Department 	FMN 	Public Works 
-158.92500 	KUN481 	BM	206.5 PL	Bethalto PubWork 	Public Works 	FMN 	Public Works 
-460.10000 	KSA903 	RM	026 DPL	Collnsv Police 	Police: Dispatch [Ch 1/2] (Simulcast SC21 TG8552) 	FMN 	Law Dispatch 
-460.27500 	KSA903 	M	CSQ	Coll Police c2c6 	Police: Tactical/Car-to-Car [Ch 6] 	FMN 	Law Tac 
-465.27500 	KSA903 	B	CSQ	Coll Police c2c7 	Police: Base-to-Car (on 460.275) [Ch 7] 	FMN 	Law Tac 
-154.35500 	WPII568 	RM	91.5 PL	Coll Events/EMA 	Events / Emergency Management / Fire 	FMN 	Emergency Ops 
-155.67000 	KSA903 	BM	CSQ	Collnsv EMA Old 	Emergency Management: Old 	FMN 	Emergency Ops 
-158.80500 	WNAH538 	BM	CSQ	Collnsv PW VHF 	Public Works / Water Department / Animal Control 	FMN 	Public Works 
-458.55000 	WNAH538 	M	203.5 PL	Collnsv SS/Watr 	Senior Shuttle / Water Department 	FMN 	Public Works 
-158.89500 	WNVB343 	M	466 DPL	GatewayCenter 1 	Gateway Center: Ops [Ch 1] [Expired 6/14] 	FMN 	Business 
-158.94000 	WNVB343 	M		GatewayCenter 2  	Gateway Center: Ops [Expired 6/14] 	FMN 	Business 
-154.28000 	KBF257 	B	CSQ	CottageHills FG  	Fireground 	FMN 	Fire-Tac 
-154.07000 	WPMK833 	BM	516 DPL	Mac Frgrnd A 	Fireground (w/ Bunker Hill) [Ch 2] 	FMN 	Fire-Tac 
-155.43000 	KSC756 	RM	192.8 PL	E Alton Police 	Police: Dispatch (DB: Wood River Central Dispatch) 	FMN 	Law Dispatch 
-154.98000 	KNDD717 	BM	192.8 PL	E Alton PubWrks 	Police / Public Works / Water [Ch 1] [Expired 8/02] 	FMN 	Public Works 
-458.85000 	KNHN539 	B	203.5 PL	Edw Police FX1  	(OLD) Police: Back-up 	FMN 	Law Tac 
-453.85000 	KNHN539 	M	203.5 PL	Edw Police c2c  	(OLD) Police: Back-up 	FMN 	Law Tac 
-453.97500 	KNHN539 	RM	203.5 PL	Edw WarningSiren 	Outdoor Warning Sirens: Data 	FMN 	Emergency Ops 
-154.17500 	WQBA905 	RM	210.7 PL	EdwardsvilleFire 	Fire: Dispatch (WPGM753) 	FMN 	Fire Dispatch 
-158.77500 	KNAE820 	BM	107.2 PL	Edw PublicWorks 	Public Works (in use?) 	FMN 	Public Works 
-464.88750 	WQNT892 	RM		Edwardsville IT 	IT Dept (107.2/210.7?) 	FMN 	Public Works 
-153.95000 	KNEY977 	BM	CSQ	Fost Frgrnd2 	Fireground [Ch 2]  	FMN 	Fire-Tac 
-160.05000 	WQAK426 	BM	CSQ	Fost WD Ops 	Water District: Voice / Digital 	FMN 	Public Works 
-158.76000 	WPGZ832 	BM		Godfrey Village  	Village Ops (94.8 PL?) [Exp 2000 - still in use] 	FMN 	Public Works 
-151.02500 	KTP829 	BM	127.3 PL	Godfrey Street  	Street Department (still in use?) 	FMN 	Public Works 
-153.84500 	KSA217 	RM	100.0 PL	GraniteCty Local 	Local / Events 	FMN 	Multi-Tac 
-154.11500 	WNDG340 	BM	CSQ	GrCty Sirens 	Emergency Warning Sirens (Voice) 	FMN 	Emergency Ops 
-151.34000 	WNPG778 	RM	123.0 PL	GrCty FireEMS 	Fire/EMS: Dispatch/Operations 	FMN 	Fire Dispatch 
-155.88000 	WQFW581 	BM	205 DPL	GrCty Street/A-C 	Streets / Animal Control / Snow Plows 	FMN 	Public Works 
-155.88000 	WQFW581 	BM	CSQ	GrCty LocalGovt 	Public Works / Streets [Local Government] 	FMN 	Public Works 
-159.00750 	WQGB665 	M		GrCty PublicWrks 	Public Works / Water Data (CSQ) 	FMN 	Public Works 
-154.11500 	WNDG340 	BM	156.7 PL	GrCty Streets 	Street Department 	FMN 	Public Works 
-461.90000 	WQBF255 	F		GrCty Water Dept 	Water Distribution Data (CSQ) [Removed 6/18] 	Telm 	Data 
-154.47125 	WQBF255 	F		GrCty WaterData 	Water Distribution Data (CSQ) 	Telm 	Data 
-155.89500 	KKR357 	BM	CSQ	Hart PW/Loc 	Public Works / Police: Local 	FMN 	Public Works 
-151.09250 	WQVQ384 	RM	384 NAC	Highland Police 	Police: Dispatch [TG 1] 	P25E 	Law Dispatch 
-155.10750 	WQVQ385 	RM	385 NAC	Highland Fire 	Fire: Dispatch [TG 1] (Dispatch ENC) 	P25e 	Fire Dispatch 
-154.35500 	KSG687 	BM		Highland FG 	Fireground 	FMN 	Fire-Tac 
-159.20250 	KEG908 	RM	396 NAC	Highland PubWrks 	Public Works [TG 1] 	P25 	Public Works 
-453.27500 	KEG908 	RM	203.5 PL	High PW Sirens 	DTMF Siren Data 	FMN 	Emergency Ops 
-154.23500 	WYR737 	BM	CSQ	HSFPD FG1 	Fireground 	FMN 	Fire-Tac 
-155.67000 	WYR737 	M		HSFPD FG2 	Fireground 	FMN 	Fire-Tac 
-460.20000 	WPGA939 	RM	351 DPL	HSho Sanitary 	Sanitary District: Operations 	FMN 	Public Works 
-154.99500 	WQSA734 	BM	CSQ	Livingston LG  	Public Works / Police: Local / Olive FPD Fireground  	FMN 	Multi-Tac 
-155.88000 	KAS418 	BM	CSQ	Madson Fire 	Fire/Rescue: Dispatch / Street Dept / Venice Fire  	FMN 	Fire Dispatch 
-154.43000 	KZJ808 	RM	167.9 PL	Marine Fire 	Fire: Tone-Outs/Dispatch (Local R) 	FMN 	Fire Dispatch 
-155.77500 	WNWX267 	BM		Marine VilOp 	Village Ops (poss. 100.0 3/14) 	FMN 	Public Works 
-155.65500 	WRBL600 	RM	167.9 PL	Mitchell Fire 	Fire: Local / Fireground 	FMN 	Fire Dispatch 
-154.29500 	KLS473 	BM	CSQ	LL/Mitch FG 	(Old) Fire: Local / Fireground (still CSQ 11/17) 	FMN 	Fire-Tac 
-155.79000 	WNJM746 	BM	271 DPL	PntnBch Police 	Police: Local Use 	FMN 	Law Dispatch 
-155.57000 	 	M	CSQ	PntnBch PD c2c 	Police: Tactical (old) 	FMN 	Law Tac 
-151.00250 	WREZ552 	RM	734 DPL	Long Lake Fire 	Long Lake Fire: Local 	FMN 	Fire-Tac 
-153.81500 	KA91441 	RM	225.7 PL	Rox PW1/PD2 	Police: Tac [Ch 2] / Public Works [Ch 1] 	FMN 	Multi-Tac 
-155.07000 	WQPJ991 	BM	411 DPL	VenicePolice 	Police: Dispatch (4/20) 	FMN 	Law Dispatch 
-155.88000 	KDR695 	BM	CSQ	Venice Fire  	Fire: Tone-Outs / Dispatch (9pm Page Test) 	FMN 	Fire Dispatch 
-155.11500 	KDX509 	RM	143 DPL	WoodRiver Police 	Police: Dispatch - Multiple Agencies [Ch 1]  	FMN 	Law Dispatch 
-155.05500 	 	M	CSQ	I-REACH 	Police: Talk-Around (I-REACH) 	FMN 	Interop 
-154.14500 	WNYJ377 	BM	107.2 PL	WoodRiver Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-153.78500 	WPCM483 	BM	192.8 PL	WRFPD Tac 2 	Fireground [Tac 2] 	FMN 	Fire-Tac 
-155.71500 	WSL817 	BM	CSQ	WdRvr PubWorks 	Public Works/Township Road Maintenance  	FMN 	Public Works 
-453.83750 	WQHM978 	F		WdRvr WDD1 	Water Distribution Data  	Telm 	Data 
-456.10625 	WQHF458 	F		WdRvr WDD2 	Water Distribution Data  	Telm 	Data 
-151.77500 	WNZU280 	BM	88.5 PL	FS Glen/GCty 	Buses (Glen Carbon, licensed in Granite City) 	FMN 	Schools 
-155.20500 	 	BM	136.5 PL	FS Bus Col/Ed  	Collinsville Base/Edwardsville Base [No License] 	FMN 	Schools 
-155.23500 	WPWG898 	BM	210.7 PL	FS Bus Coll  	Collinsville Base: Buses/Unit-to-Unit 	FMN 	Schools 
-159.52500 	WPTJ251 	BM	151.4 PL	FS Bus Edw1  	Edwardsville CUSD 	FMN 	Schools 
-155.17500 	WPRR257 	BM	162.2 PL	FS Bus Edw2  	Edwardsville CUSD Buses 	FMN 	Schools 
-461.53750 	WQLZ425 	RM	051 DPL	IC SchBus Alton 	Illinois Central School Bus 	FMN 	Schools 
-451.35000 	WQGT227 	RM	032 DPL	AHS Mnt/Sec 1 	High School: Admin / Maintenance / Security 	FMN 	Schools 
-461.66250 	WQGT227 	RM		AHS Mnt/Sec 2 	High School: Maint/Security (D032, 132?) 	FMN 	Schools 
-155.17500 	KNHM989 	BM	100.0 PL	Alton School Ops 	Ops (License at 1854 E Broadway) 	FMN 	Schools 
-155.23500 	 	BM	100.0 PL	Alton School Sec 	Security Ops [No License] 	FMN 	Security 
-151.55000 	WPPW739 	BM	731 DPL	Beth Sch Bus 	Buses 	FMN 	Schools 
-152.39000 	WPPW739 	RM	043 DPL	Beth Sch Ops  	Maintenance - Districtwide 	FMN 	Schools 
-462.15000 	WPKY461 	RM	162.2 PL	FS Sch Bus Coll 	Buses (First Student?) (CIT CR) 	FMN 	Schools 
-461.47500 	 	M	612 DPL	Col School Ops A 	Ops [No License] 	FMN 	Schools 
-461.70000 	WPQY683 	BM		Col School Ops 	Security / Maintenance 	FMN 	Schools 
-461.70000 	WPQY683 	M	186.2 PL	Doris Int Sch A 	Dorris Intermediate 	FMN 	Schools 
-467.85000 	 	M	94.8 PL	Doris Int Sch B 	Dorris Intermediate 	FMN 	Schools 
-461.70000 	WPQY683 	M	156.7 PL	Renfro Elem A 	John A Renfro Elementary 	FMN 	Schools 
-152.95250 	WQJR983 	BM	179.9 PL	EA Sch Ops 1 	Maintenance/Transportation/Security 	FMN 	Schools 
-152.32250 	WQJR983 	M		EA Sch Ops 2 	Maintenance/Transportation/Security 	FMN 	Schools 
-452.66250 	WQEP562 	M		ESD7 HS Ops1 	High School: Ops (not 162.2) 	FMN 	Schools 
-464.82500 	WQEP562 	M		ESD7 HSOps2 	High School: Admin/Custodial 	FMN 	Schools 
-452.03750 	WQEP562 	M	243 DPL	ESD MS Ops1 	MIddle School Ops (IL-157) 	FMN 	Schools 
-452.51250 	WQEP562 	M	606 DPL	ESD MS Ops2 	Middle School Ops (Boys Restroom) 	FMN 	Schools 
-464.55000 	 	M	127.3 PL	ESD MS Ops3 	Middle School: Admin (2016) 	FMN 	Schools 
-461.41250 	WQEP562 	M		ESD7 Ops19 	Glen Carbon Elementary: Ops (not D506) 	FMN 	Schools 
-462.63750 	FRS11 	M	67.0 PL	GCES Ops 1 	Glen Carbon Elementary School 	FMN 	Schools 
-462.71250 	FRS 	M	CSQ	GCES Ops 2 	Glen Carbon Elementary School 	FMN 	Schools 
-451.33750 	WQEP562 	M	662 DPL	ESD7 Ops7 	Operations 	FMN 	Schools 
-451.56250 	WQEP562 	M	351 DPL	ESD7 Ops16 	Operations 	FMN 	Schools 
-452.08750 	WQEP562 	M	156 DPL	ESD7 Ops6 	Operations (also D654?, D411 maintenance?) 	FMN 	Schools 
-452.13750 	WQEP562 	M	351 DPL	ESD7 Ops5 	Operations 	FMN 	Schools 
-463.72500 	WQEP562 	M	054 DPL	ESD7 Ops13 	Operations  	FMN 	Schools 
-468.78750 	WQEP562 	M	606 DPL	ESD7 Ops20 	Operations 	FMN 	Schools 
-451.18750 	WQEP562 	M		ESD7 Ops15 	Operations 	FMN 	Schools 
-451.41250 	WQEP562 	M		ESD7 Ops8 	Operations 	FMN 	Schools 
-452.18750 	WQEP562 	M		ESD7 Ops4 	Operations 	FMN 	Schools 
-452.63750 	WQEP562 	M		ESD7 Ops2 	Operations 	FMN 	Schools 
-452.78750 	WQEP562 	M		ESD7 Ops18 	Operations 	FMN 	Schools 
-457.08750 	WQEP562 	M		ESD7 Ops1 	Operations 	FMN 	Schools 
-463.78750 	WQEP562 	M		ESD7 Ops14 	Operations 	FMN 	Schools 
-464.27500 	WQEP562 	M		ESD7 Ops12 	Operations 	FMN 	Schools 
-466.41250 	WQEP562 	M		ESD7 Ops21 	Operations 	FMN 	Schools 
-461.68750 	WQLZ425 	RM	051 DPL	ICSB GraniteCity 	Illinois Central School Bus (Granite City) 	FMN 	Schools 
-452.72500 	WQHU720 	RM	123.0 PL	GCSD D-Wide 	Districtwide Operations 	FMN 	Schools 
-152.43500 	WPPC718 	RM	77.0 PL	GCSD Ops 	Operations 	FMN 	Schools 
-157.69500 	WPPC718 	M	218.1 PL	GRSD Ops1 	Operations (bus drivers) 	FMN 	Schools 
-159.78000 	WPPC718 	M	127.3 PL	GRSD Ops2 	Operations (possible tone, heard 159) 	FMN 	Schools 
-160.12500 	WPPC718 	M	162.2 PL	GRSD Ops4 	Operations 	FMN 	Schools 
-160.20000 	WPPC718 	M	162.2 PL	GRSD Ops5 	Operations 	FMN 	Schools 
-464.56250 	WQFJ526 	M		GRSD Ops6 	High School: Ops 	FMN 	Schools 
-451.58750 	WQHU720 	M	516 DPL	GCSD Buses 	Bus Operations (Loading?) 	FMN 	Schools 
-152.28500 	WPQJ474 	RM	CC 9TG 1SL 1	HlndSch HS Ops 	High School: Ops 	DMR 	Schools 
-152.28500 	WPQJ474 	RM	CC 9TG 2SL 2	HlndSch HS Adm 	High School: Admin 	DMR 	Schools 
-152.31500 	WPQJ474 	RM	CC 9TG 1SL 1	HlndSchElemOps 	Elementary Schools: Ops 	DMR 	Schools 
-152.31500 	WPQJ474 	RM	CC 9TG 2SL 2	HlndSchElemAdm 	Elementary Schools: Admin 	DMR 	Schools 
-154.60000 	WPQJ474 	M		HlndSch VHF1 	Statewide Events 	FMN 	Schools 
-154.51500 	WPOC539 	BM		HlndSch VHF2 	Operations (1800 Lindenthal) 	FMN 	Schools 
-451.93750 	WQZW778 	RM	CC 5TG 1SL 1	Madison Sch Bus 	Buses (all RIDs are 1, M# units) 	DMR 	Schools 
-467.76250 	WPKG677 	M		MCUSD12 Sec 	Security (Mid/High School) [Expired 2/12] 	FMN 	Schools 
-461.46250 	WRCS255 	RM	CC 5TG 1000SL 1	MCS Ops A 1000 	Ops / Line-Ups (simulcast with 461.6375) 	DMR 	Schools 
-461.63750 	WRCS255 	RM	CC 5TG 1000SL 1	MCS Ops B 1000 	Ops / Line-Ups (simulcast with 461.4625) 	DMR 	Schools 
-461.46250 	WRCS255 	RM	CC 5TG 3000SL *	MCS Ops A 3000 	Operations (simulcast with 461.6375) 	DMR 	Schools 
-461.63750 	WRCS255 	RM	CC 5TG 3000SL 2	MCS Ops B 3000 	Operations (simulcast with 461.4625) 	DMR 	Schools 
-461.46250 	WRCS255 	RM	CC 5TG 5000SL *	MCS Ops A 5000 	Operations (simulcast with 461.6375) 	DMR 	Schools 
-461.63750 	WRCS255 	RM	CC 5TG 5000SL *	MCS Ops B 5000 	Operations (simulcast with 461.4625) 	DMR 	Schools 
-461.57500 	WNHI595 	RM	218.1 PL	RvrbndHdStartBus 	Buses (Datatronics License} 	FMN 	Schools 
-154.54000 	KZI223 	BM	151.4 PL	RoxSchool Buses1 	Buses 	FMN 	Schools 
-158.34000 	KZI223 	M		Rox School Ops1 	On-Campus Ops 	FMN 	Schools 
-159.58500 	KZI223 	M	141.3 PL	Rox School Ops2 	On-Campus Ops  	FMN 	Schools 
-159.50250 	WRCM305 	RM	CC 4TG 511SL 2	Triad Bus 511 	Buses 	DMR 	Schools 
-155.22000 	WPYD364 	BM	179.9 PL	Triad School 	Buses / Security 	FMN 	Schools 
-155.17500 	KZC468 	BM	141.3 PL	WRHSD Buses 	Buses [Expired 9/12, still in use 2/16] 	FMN 	Schools 
-463.25000 	WQCX944 	RM	CC 5TG 1SL 1	LCCC G Security 	Security (Godfrey) 	DMR 	Security 
-463.25000 	WQCX944 	RM	CC 5TG 2SL 2	LCCC G Maintnce 	Maintenance (Godfrey) 	DMR 	Schools 
-464.40000 	WQCX944 	RM	CC 5TG 1SL 1	LCCC E Security 	Security (Edwardsville) 	DMR 	Security 
-464.40000 	WQCX944 	RM	CC 5TG 2SL 2	LCCC E Maintnce 	Maintenance (Edwardsville) 	DMR 	Schools 
-464.80000 	WQCX944 	RM	CC 5TG 1SL 1	LCCC EA Security 	Security (E. Alton) 	DMR 	Security 
-464.80000 	WQCX944 	RM	CC 5TG 2SL 2	LCCC EA Maintnce 	Maintenance (E. Alton) 	DMR 	Schools 
-464.80000 	WQCX944 	RM	CC 5TG 53SL 1	LCCC EA Ops 53 	Ops (E. Alton) 	DMR 	Schools 
-461.40000 	WQCX944 	RM	CC 5TG 1SL 1	LCCC A Security 	Security (Alton) 	DMR 	Security 
-461.40000 	WQCX944 	RM	CC 5TG 2SL 2	LCCC A Maintnce 	Maintenance (Alton) 	DMR 	Schools 
-463.92500 	WQCX944 	M		LCCC Sec/Mnt3 	Unit-to-Unit (Godfrey/Edwardsville) 	DMR 	Schools 
-464.32500 	WPHT633 	BM		LCCC Security 4 	Security 	DMR 	Schools 
-462.12500 	WNWY282 	B	131 DPL	SWIC Ops 1 	Operations (bases in Granite City / Red Bud)  	FMN 	Schools 
-461.13750 	 	M		SWIC Ops 2 	Operations 	FMN 	Schools 
-154.51500 	WNWY282 	BM	265 DPL	SWIC DPS 	Department of Public Safety  	FMN 	Schools 
-463.81250 	WQKR340 	M		SWIC Ops 3 	Operations (in use) 	DMR 	Schools 
-463.86250 	WQKR340 	M		SWIC Ops 4 	Operations 	DMR 	Schools 
-464.88750 	WQKR340 	M		SWIC Ops 5 	Operations 	DMR 	Schools 
-464.91250 	WQKR340 	M		SWIC Ops 6 	Operations 	DMR 	Schools 
-451.31250 	WPXF818 	RM	662 DPL	SIUE AthCpx1 	Athletic Complex - Portables (LP R) [Expired, on air 6/13] 	FMN 	Schools 
-451.33750 	WPXF818 	RM		SIUE AthCpx2 	Athletic Complex - Portables [Expired, still in use?] 	FMN 	Schools 
-453.65000 	WRD893 	RM	127.3 PL	SIUE Grnd/Hs 	Physical Plant Maintenance (still on air?) 	FMN 	Schools 
-464.32500 	WPGU616 	M		SIUE FcMgmt1 	Facilities Management (D263 is Wash-U) 	FMN 	Schools 
-462.85000 	WNDZ504 	B		SIUE Paging 	Paging (University Center) (CSQ) 	Telm 	Data 
-464.02500 	WPGU616 	M		SIUE FcMgmt2 	Facilities Management (156.7 is StClairCo) 	FMN 	Schools 
-464.12500 	WPGU616 	M	127.3 PL	SIUE FcMgmt3 	Facilities Management 	FMN 	Schools 
-464.22500 	WPGU616 	M		SIUE FcMgmt4 	Facilities Management (other is 110.9) 	FMN 	Schools 
-151.77500 	KNAY295 	BM	146.2 PL	SIUE CmpCntr 	Campus Center (Cafeteria, etc) 	FMN 	Schools 
-464.46250 	WPZL556 	M	631 DPL	SIUE MUC Ops 	Morris University Center: Operations/Maintenance ("MUC" Units) 	FMN 	Schools 
-453.48750 	WPOX254 	RM	051 DPL	SIUE Housing 	Housing Maintenance (Cougar/Prairie Hall) 	FMN 	Schools 
-453.60000 	WRD893 	RM	127.3 PL	SIUE Mnt/Pk1 	Maintenance / Parking 	FMN 	Schools 
-463.27500 	WQAM346 	RM	162.2 PL	SIUE Mnt/Pk2 	Maintenance / Parking ("VIP"/Graduation) 	FMN 	Schools 
-466.71250 	WPZL556 	M		SIUE Mnt/Pk3 	Maintenance / Parking 	FMN 	Schools 
-451.32500 	WQCH790 	RM	143 DPL	SIUE SOD Ops 1 	Maintenance / Security - Primary 	FMN 	Schools 
-451.32500 	WQCH790 	RM		SIUE SOD Ops 2 	Maintenance / Security (not D365) 	FMN 	Schools 
-462.23750 	WQAX777 	M	131.8 PL	SIUE SOD Ops 3 	Maintenance/Security 	FMN 	Schools 
-464.10000 	WQAM346 	RM		SIUE E StL 	Maintenance / Parking (East St. Louis) 	FMN 	Schools 
-163.20000 	 	BM	136.5 PL	USMrshl 1632 	US Marshal - 10-28s, etc (mobile to mobile, base-mobile) 	FMN 	Federal 
-163.21250 	 	BM	136.5 PL	USMrshl Srv3 	US Marshal - Survellience [Ch 3] 	FMN 	Federal 
-164.55000 	 	M	167.9 PL	OCDETF FBId2 	 Organized Crime Drug Enforcement Task Forces (5/18) 	FMN 	Federal 
-164.70000 	 	M	156.7 PL	164.7 156.7 	US Postal Service 	FMN 	Federal 
-165.26250 	 	BM	650 NAC	1652625 P25 	carrier only (strong in Fosterburg area) 	P25 	Federal 
-167.31250 	 	RM	167 NAC	FBI Ops A1 	Operations [TG 1 / TG 2] 	P25E 	Federal 
-167.31250 	 	BM	167 NAC	UPSS 	Operations [TG 1 / TG 2] 	P25 	Aircraft 
-418.30000 	 	M	82.5 PL	418.3 82.5 	parking / DHQ 	FMN 	Federal 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Argocy Casino - Alton	 LTR Standard	 St Louis 	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)
- Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Gateway Energy and Coke (Granite City)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Granite City	Global Brass / Winchester - East Alton (DMR)
- DMR Motorola Capacity Plus Multi Site (TRBO)	 East Alton	Great Plains Madison (IL)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Madison	Madison County Transit District (MCT)	 EDACS Standard	 Edwardsville
-Phillips 66 Refineries	 Project 25 Phase II	 Various	Southwestern Electric Cooperative (IL)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greenville IL	United States Steel Corporation (DMR Tier 3)	 DMR Tier 3
- Various	Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro	Warner Communications - UHF 15 (Clayton/Hillsboro)	 LTR Standard	 Clayton	Warner Communications - UHF A
- LTR Standard	 Marlborough	Warner Communications UHF LTR - (IE MetroEast 1-xx)	 LTR Standard	 Various	Warner Communications UHF LTR - (IE Whiteside 0-xx)	 LTR Standard	 MetroEast
-Warner Communications-BJC Hospitals (NXDN)	 NXDN NEXEDGE 4800	 St Louis	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	
+155.59500 	159.28500  	KSB221 	RM	100.0 PL	MadisonSheriff A 	Sheriff: Jail / Court Ops 	FMN 	Law Dispatch 
+155.59500 	159.28500  	KSB221 	RM	263 DPL	MadisonSheriff B 	(OLD) Sheriff: Jail Operations (Patched with SC21 TG 7308) 	FMN 	Corrections 
+155.04000 	   	KCX387 	BM	100.0 PL	Mad Shrf Courts 	Sheriff/Courts/Probation (patched with SC21 TG73??) 	FMN 	Law Dispatch 
+158.85000 	154.77000  	KSB221 	RM	100.0 PL	Madison InterOp  	Countywide Interop (Patch with STARCOM21 TGs) 	FMN 	Interop 
+154.43000 	   	WNZI271 	BM	167.9 PL	MadisonFireNorth 	Fire/EMS: North - Tone-Outs/Dispatch (see notes) 	FMN 	Fire Dispatch 
+462.82500 	   	WQOB596 	B		MadCo HealthPG  	Health Department: Paging (Wood River) (CSQ) 	Telm 	Data 
+158.38500 	   	WNXW853 	BM	123.0 PL	MadC Sewer Ops 	Madison County Sanitary Sewer District: Ops 	FMN 	Public Works 
+158.82000 	   	KNDA355 	BM		MadC Sewer Data 	Madison County Sanitary Sewer District: Data (CSQ) 	Telm 	Data 
+154.54000 	   	KNIK267 	BM	100.0 PL	AVEC 	Alton-Volunteer Emergency Crew 	FMN 	Emergency Ops 
+461.52500 	466.52500  	WPLR946 	RM	192.8 PL	AIRCOM ARCH StL 	ARCH Helicopter - St. Louis 	FMN 	EMS Dispatch 
+462.95000 	467.95000  	WNDA516 	RM	210.7 PL	Abbott EMS IL  	Abbott EMS: IL Dispatch [MED 9] 	FMN 	EMS Dispatch 
+155.16000 	   	WNWF911 	BM	173.8 PL	MERCI-3 1738 	Alton Memorial Hospital: Patient Reports 	FMN 	Hospital 
+155.34000 	   	WQXK896 	B	210.7 PL	MERCI-1 2107 	Anderson Hospital (Maryville) Patient Reports 	FMN 	Hospital 
+155.16000 	   	WQXK896 	B	91.5 PL	MERCI-3 91.5 	Anderson Hospital (Maryville) Patient Reports (Main Use) 	FMN 	Hospital 
+155.16000 	   	WPDJ69 	BM	186.2 PL	MERCI3 186.2 	Gateway Regional Medical Center (Granite City): Patient Reports 	FMN 	Hospital 
+155.16000 	   	WPDJ649 	BM	82.5 PL	MERCI-3 82.5 	Gateway Regional Medical Center (Granite City): Patient Reports 	FMN 	Hospital 
+155.34000 	   	WNWF911 	BM	82.5 PL	MERCI-1 82.5 	Gateway Regional Medical Center (Granite City): Patient Reports 	FMN 	Hospital 
+155.16000 	   	KWI679 	BM	173.8 PL	MERCI-3 1738 	St Anthony/St Clare: Patient Reports 	FMN 	Hospital 
+155.34000 	   	KWI679 	BM	173.8 PL	MERCI-1 1738 	St Clare: Patient Reports 	FMN 	Hospital 
+155.16000 	   	WYV463 	BM	94.8 PL	MERCI3 94.8 	St. Joseph's Hospital of Highland: Patient Reports 	FMN 	Hospital 
+155.34000 	   	WYV463 	B	94.8 PL	MERCI1 94.8  	St. Joseph's Hospital of Highland: Patient Reports 	FMN 	Hospital 
+152.33750 	157.59750  	WQZI495 	RM	CC 3TG 1000SL 1	LifestarAltn SRA 	SRA Medicar: Dispatch 	DMRE 	EMS Dispatch 
+152.33750 	157.59750  	WQZI495 	RM	CC 3TG 1000SL 2	LifestarAltn EMS 	EMS: Dispatch  	DMRE 	EMS Dispatch 
+152.33750 	157.59750  	WQZI495 	RM	CC 3TG 968SL 2	LifestarAltnEMS2 	EMS: Dispatch 	DMR 	Emergency Ops 
+464.82500 	469.82500  	WNLJ872 	RM	192.8 PL	AMH EMS Dispatch 	EMS: Dispatch - Northern Madison 	FMN 	EMS Dispatch 
+461.32500 	466.32500  	WNVN760 	RM	71.9 PL	AMH EMS Tactical 	EMS: Tac [AMH] 	FMN 	EMS-Tac 
+154.25000 	   	KFA468 	BM	94.8 PL	GlenMary FD T/O 	Fire: Tone-Outs (Dispatch/Ops on SC21) 	FMN 	Fire Dispatch 
+154.25000 	   	KFA468 	BM	CSQ	Troy Fire T/O in 	Fire: Tone-Outs - Troy FPD  	FMN 	Fire Dispatch 
+158.77500 	154.25000  	 	RM	123.0 PL	TroyFire ToneOut 	Troy Fire/EMS: Tone-Outs [No license; CSQ in] 	FMN 	Fire Dispatch 
+800.89375 	   	WQLP241 	M	CSQ	Glen PD MX-I 	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
+770.89375 	   	WQLP241 	M	CSQ	Glen PD MX-O 	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
+770.89375 	   	WQLP241 	M	67.0 PL	Glen PD MX 67.0  	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
+770.89375 	   	WQLP241 	M	110.9 PL	Glen PD MX 1109  	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
+770.89375 	   	WQLP241 	M	118.8 PL	Glen PD MX 1188  	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
+770.89375 	   	WQLP241 	M	156.7 PL	Glen PD MX 1567  	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
+453.12500 	458.12500  	WPYL839 	RM	241.8 PL	Glen Siren Data 	Emergency Siren Data (Test 5am) 	FMN 	Data 
+154.99500 	   	KXM656 	BM	CSQ	Glen PW/WaterB 	Water / Public Works - Base 	FMN 	Public Works 
+154.99500 	   	KXM656 	BM	100.0 PL	Glen PW/WaterM 	Water / Public Works - Mobiles 	FMN 	Public Works 
+462.11250 	   	WQUT361  	F		Glen PW Data 	Public Works: Water Data (CSQ) 	FMN 	Data 
+461.22500 	   	WQZV399 	F		Glen PW Data 2 	Public Works: Water Distribution Data (CSQ) 	Telm 	Data 
+155.88000 	   	KAS418 	BM	146.2 PL	Mv Siren/PD  	Emergency Siren Data / Police: Backup 	FMN 	Emergency Ops 
+154.06250 	159.07500  	KA57594 	RM	251 DPL	Mv PubWrksN 	Public Works 	FMN 	Public Works 
+155.88000 	   	WZW728 	BM	CSQ	Mv PubWrksO 	(Old) Public Works / Water / Animal Control  	FMN 	Public Works 
+464.81250 	   	WQNF712 	M		MaryvilleWDD 	Water Data (CSQ) 	Telm 	Data 
+156.15000 	   	KLU487 	M		Troy Police VHF  	Police: Tactical [Ch 2] (Old?) 	FMN 	Law Tac 
+154.99500 	153.96500  	KLU488 	RM	203.5 PL	Troy PubWrks 	Public Works: Water (WNUK672 input) 	FMN 	Public Works 
+956.34375 	   	WQHT678 	F		B-MWD WDD 	Bond-Madison Water: Data 	Telm 	Data 
+153.53750 	   	WPNY502 	F		BMWC WDD 	Bond-Madison Water: Data (CSQ) 	Telm 	Data 
+151.02500 	   	 	BM	210.7 PL	ChtTwp Roads  	Chouteau Township: Highway Department  	FMN 	Public Works 
+154.11500 	   	WQA758 	BM	118.8 PL	EdwTwp Roads 	Edwardsville Township Road District 	FMN 	Public Works 
+154.04750 	   	KNIG943 	BM	136.5 PL	FtRuTwp Road 	Fort Russell Township: Road Maintenance {Expired*] 	FMN 	Public Works 
+151.02500 	   	WQPG897 	BM	136.5 PL	FostTwp Road 	Foster Township: Road Maintenance [Expired; in use] 	FMN 	Public Works 
+151.02500 	   	KTP829 	BM		GodTwp Road2 	Godfrey Township: Road Maintenance  	FMN 	Public Works 
+155.10000 	   	KDA985 	BM		GodTwp Road 	Godfrey Township: Road Maintenance 	FMN 	Public Works 
+464.22500 	469.22500  	KNGM587 	RM	110.9 PL	Mar/PO TS Rd 	Marine/Pin Oak? Township: Roads 	FMN 	Public Works 
+155.08500 	   	KFX582 	BM		ME San Dist 	Metro East Sanitary District: Ops  [Expired ] 	FMN 	Public Works 
+154.11500 	   	KNDU336 	BM	CSQ	NamkTwp Road 	Nameoki Township Road District [Term] 	FMN 	Public Works 
+153.57500 	   	WQYD378 	BM		NEC Water 	North East Central Water District 	FMN 	Public Works 
+463.73750 	   	WQVD372 	F		NECWD Data 	Northeast Central Water District: Data (CSQ) 	Telm 	Data 
+456.05000 	   	WPMA349 	F	103.5 PL	TriTwp Water 	Tri-Townships Water District 	FMN 	Data 
+151.07750 	   	WRBW717 	BM		WdRiv Twp Roads 	Wood River Townshp Roads (Cottage Hills) 	DMR 	Public Works 
+151.18250 	159.17250  	KW9095 	RM	243 DPL	AlhHam Fire/EMS 	FIre/EMS: Dispatch [Simulcast 154.43 MadCo Fire] [D152 in] 	FMN 	Fire Dispatch 
+154.99500 	   	KZT524 	BM	CSQ	Hamel VillageOps 	Village Ops [Expired] 	FMN 	Public Works 
+155.19000 	156.03000  	WNJE317 	RM	14 RAN	Alton PoliceNXDN 	Police: Dispatch (Simulcast of 155.6325) [TG 0] 	NXDN 	Law Dispatch 
+154.80750 	153.79250  	WNJE317 	RM		Alton Police DMR 	Police: Dispatch (Simulcast of 155.6325) 	P25 	Law Dispatch 
+155.63250 	159.02250  	WNJE317 	RM	047 DPL	Alton Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.19000 	156.03000  	WNJE317 	RM	156.7 PL	Alton Police Tac 	Police: Tac 	FMN 	Law Tac 
+158.97000 	   	KNNU219 	M	156.7 PL	AltonPolice c2c3 	Police: Tactical / Car-to-Car [Ch 3] 	FMN 	Law Tac 
+154.38500 	159.06000  	KDR424 	RM	156.7 PL	Alton Fire/EMS 	Fire/EMS/Rescue: Dispatch / Operations 	FMN 	Fire Dispatch 
+154.95750 	153.86750  	KSH507 	RM	151.4 PL	Alton PublicWork 	Public Works 	FMN 	Public Works 
+153.75500 	   	KNNK341 	M		Alton PW Site 1 	Public Works: Job Sites [67.0?] 	FMN 	Public Works 
+153.93500 	   	KNNK341 	M		Alton PW Site 2 	Public Works: Job Sites  	FMN 	Public Works 
+154.77750 	   	WQLI552 	M		Alton Marina 	Marina Security (D243?) 	FMN 	Security 
+158.80500 	156.00000  	KUN481 	RM	179.9 PL	Bethalto Police 	Police: Simulcast of NXDN 	FMN 	Law Dispatch 
+151.23500 	   	KUN481 	RM	45 RAN	Bethalto Police 	Police: Dispatch [TG 1] 	NXDNE 	Law Dispatch 
+151.10000 	   	KUN481 	RM		Bethalto NXDN A 	Police / Fire  	NXDN 	Multi-Dispatch 
+151.11500 	   	KUN481 	RM		Bethalto NXDN B 	Police / Fire  	NXDN 	Multi-Dispatch 
+154.79250 	   	KUN481 	BM	156 DPL	MadCo Sheriff *P 	(Recieve Patch) Madison County Sheriff (SC21 TG) 	FMN 	Law Dispatch 
+151.49000 	154.31000  	KRA500 	RM	143 DPL	Bethalto Fire  	Fire: Paging/Dispatch (Patched to SC21 TG8351) 	FMN 	Fire Dispatch 
+158.92500 	   	KUN481 	BM	146.2 PL	Bethalto Water  	Water Department 	FMN 	Public Works 
+158.92500 	   	KUN481 	BM	206.5 PL	Bethalto PubWork 	Public Works 	FMN 	Public Works 
+460.10000 	465.10000  	KSA903 	RM	026 DPL	Collnsv Police 	Police: Dispatch [Ch 1/2] (Simulcast SC21 TG8552) 	FMN 	Law Dispatch 
+460.27500 	   	KSA903 	M	CSQ	Coll Police c2c6 	Police: Tactical/Car-to-Car [Ch 6] 	FMN 	Law Tac 
+465.27500 	   	KSA903 	B	CSQ	Coll Police c2c7 	Police: Base-to-Car (on 460.275) [Ch 7] 	FMN 	Law Tac 
+154.35500 	159.77000  	WPII568 	RM	91.5 PL	Coll Events/EMA 	Events / Emergency Management / Fire 	FMN 	Emergency Ops 
+155.67000 	   	KSA903 	BM	CSQ	Collnsv EMA Old 	Emergency Management: Old 	FMN 	Emergency Ops 
+158.80500 	   	WNAH538 	BM	CSQ	Collnsv PW VHF 	Public Works / Water Department / Animal Control 	FMN 	Public Works 
+458.55000 	   	WNAH538 	M	203.5 PL	Collnsv SS/Watr 	Senior Shuttle / Water Department 	FMN 	Public Works 
+158.89500 	   	WNVB343 	M	466 DPL	GatewayCenter 1 	Gateway Center: Ops [Ch 1] [Expired 6/14] 	FMN 	Business 
+158.94000 	   	WNVB343 	M		GatewayCenter 2  	Gateway Center: Ops [Expired 6/14] 	FMN 	Business 
+154.28000 	   	KBF257 	B	CSQ	CottageHills FG  	Fireground 	FMN 	Fire-Tac 
+154.07000 	   	WPMK833 	BM	516 DPL	Mac Frgrnd A 	Fireground (w/ Bunker Hill) [Ch 2] 	FMN 	Fire-Tac 
+155.43000 	154.71000  	KSC756 	RM	192.8 PL	E Alton Police 	Police: Dispatch (DB: Wood River Central Dispatch) 	FMN 	Law Dispatch 
+154.98000 	   	KNDD717 	BM	192.8 PL	E Alton PubWrks 	Police / Public Works / Water [Ch 1] [Expired 8/02] 	FMN 	Public Works 
+458.85000 	   	KNHN539 	B	203.5 PL	Edw Police FX1  	(OLD) Police: Back-up 	FMN 	Law Tac 
+453.85000 	   	KNHN539 	M	203.5 PL	Edw Police c2c  	(OLD) Police: Back-up 	FMN 	Law Tac 
+453.97500 	458.97500  	KNHN539 	RM	203.5 PL	Edw WarningSiren 	Outdoor Warning Sirens: Data 	FMN 	Emergency Ops 
+154.17500 	156.19500  	WQBA905 	RM	210.7 PL	EdwardsvilleFire 	Fire: Dispatch (WPGM753) 	FMN 	Fire Dispatch 
+158.77500 	   	KNAE820 	BM	107.2 PL	Edw PublicWorks 	Public Works (in use?) 	FMN 	Public Works 
+464.88750 	469.88750  	WQNT892 	RM		Edwardsville IT 	IT Dept (107.2/210.7?) 	FMN 	Public Works 
+153.95000 	   	KNEY977 	BM	CSQ	Fost Frgrnd2 	Fireground [Ch 2]  	FMN 	Fire-Tac 
+160.05000 	   	WQAK426 	BM	CSQ	Fost WD Ops 	Water District: Voice / Digital 	FMN 	Public Works 
+158.76000 	   	WPGZ832 	BM		Godfrey Village  	Village Ops (94.8 PL?) [Exp 2000 - still in use] 	FMN 	Public Works 
+151.02500 	   	KTP829 	BM	127.3 PL	Godfrey Street  	Street Department (still in use?) 	FMN 	Public Works 
+153.84500 	155.85000  	KSA217 	RM	100.0 PL	GraniteCty Local 	Local / Events 	FMN 	Multi-Tac 
+154.11500 	   	WNDG340 	BM	CSQ	GrCty Sirens 	Emergency Warning Sirens (Voice) 	FMN 	Emergency Ops 
+151.34000 	153.77000  	WNPG778 	RM	123.0 PL	GrCty FireEMS 	Fire/EMS: Dispatch/Operations 	FMN 	Fire Dispatch 
+155.88000 	   	WQFW581 	BM	205 DPL	GrCty Street/A-C 	Streets / Animal Control / Snow Plows 	FMN 	Public Works 
+155.88000 	   	WQFW581 	BM	CSQ	GrCty LocalGovt 	Public Works / Streets [Local Government] 	FMN 	Public Works 
+159.00750 	   	WQGB665 	M		GrCty PublicWrks 	Public Works / Water Data (CSQ) 	FMN 	Public Works 
+154.11500 	   	WNDG340 	BM	156.7 PL	GrCty Streets 	Street Department 	FMN 	Public Works 
+461.90000 	   	WQBF255 	F		GrCty Water Dept 	Water Distribution Data (CSQ) [Removed 6/18] 	Telm 	Data 
+154.47125 	   	WQBF255 	F		GrCty WaterData 	Water Distribution Data (CSQ) 	Telm 	Data 
+155.89500 	   	KKR357 	BM	CSQ	Hart PW/Loc 	Public Works / Police: Local 	FMN 	Public Works 
+151.09250 	153.79250  	WQVQ384 	RM	384 NAC|TG 1	Highland Police 	Police: Dispatch 	P25E 	Law Dispatch 
+155.10750 	158.88750  	WQVQ385 	RM	385 NAC|TG 1	Highland Fire 	Fire/EMS: Response/Local 	P25E 	Fire Dispatch 
+154.35500 	   	KSG687 	BM		Highland FG 	Fireground 	FMN 	Fire-Tac 
+159.20250 	155.54250  	KEG908 	RM	396 NAC|TG 1	Highland PubWrks 	Public Works 	P25 	Public Works 
+453.27500 	458.27500  	KEG908 	RM	203.5 PL	Highland Sirens 	Siren Data (DTMF) 	FMN 	Emergency Ops 
+154.23500 	   	WYR737 	BM	CSQ	HSFPD FG1 	Fireground 	FMN 	Fire-Tac 
+155.67000 	   	WYR737 	M		HSFPD FG2 	Fireground 	FMN 	Fire-Tac 
+460.20000 	465.20000  	WPGA939 	RM	351 DPL	HSho Sanitary 	Sanitary District: Operations 	FMN 	Public Works 
+154.99500 	   	WQSA734 	BM	CSQ	Livingston LG  	Public Works / Police: Local / Olive FPD Fireground  	FMN 	Multi-Tac 
+155.88000 	   	KAS418 	BM	CSQ	Madson Fire 	Fire/Rescue: Dispatch / Street Dept / Venice Fire  	FMN 	Fire Dispatch 
+154.43000 	159.32250  	KZJ808 	RM	167.9 PL	Marine Fire 	Fire: Tone-Outs/Dispatch (Local R) 	FMN 	Fire Dispatch 
+155.77500 	   	WNWX267 	BM		Marine VilOp 	Village Ops (poss. 100.0 3/14) 	FMN 	Public Works 
+155.65500 	159.40500  	WRBL600 	RM	167.9 PL	Mitchell Fire 	Fire: Local / Fireground 	FMN 	Fire Dispatch 
+154.29500 	   	KLS473 	BM	CSQ	LL/Mitch FG 	(Old) Fire: Local / Fireground (still CSQ 11/17) 	FMN 	Fire-Tac 
+155.79000 	   	WNJM746 	BM	271 DPL	PntnBch Police 	Police: Local Use 	FMN 	Law Dispatch 
+155.57000 	   	 	M	CSQ	PntnBch PD c2c 	Police: Tactical (old) 	FMN 	Law Tac 
+151.00250 	159.25500  	WREZ552 	RM	734 DPL	Long Lake Fire 	Long Lake Fire: Local 	FMN 	Fire-Tac 
+153.81500 	155.98500  	KA91441 	RM	225.7 PL	Rox PW1/PD2 	Police: Tac [Ch 2] / Public Works [Ch 1] 	FMN 	Multi-Tac 
+155.07000 	   	WQPJ991 	BM	411 DPL	VenicePolice 	Police: Dispatch (4/20) 	FMN 	Law Dispatch 
+155.88000 	   	KDR695 	BM	CSQ	Venice Fire  	Fire: Tone-Outs / Dispatch (9pm Page Test) 	FMN 	Fire Dispatch 
+155.11500 	155.71500  	KDX509 	RM	143 DPL	WoodRiver Police 	Police: Dispatch - Multiple Agencies [Ch 1]  	FMN 	Law Dispatch 
+155.05500 	   	 	M	CSQ	I-REACH 	Police: Talk-Around (I-REACH) 	FMN 	Interop 
+154.14500 	   	WNYJ377 	BM	107.2 PL	WoodRiver Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+153.78500 	   	WPCM483 	BM	192.8 PL	WRFPD Tac 2 	Fireground [Tac 2] 	FMN 	Fire-Tac 
+155.71500 	   	WSL817 	BM	CSQ	WdRvr PubWorks 	Public Works/Township Road Maintenance  	FMN 	Public Works 
+453.83750 	   	WQHM978 	F		WdRvr WDD1 	Water Distribution Data  	Telm 	Data 
+456.10625 	   	WQHF458 	F		WdRvr WDD2 	Water Distribution Data  	Telm 	Data 
+151.77500 	   	WNZU280 	BM	88.5 PL	FS Glen/GCty 	Buses (Glen Carbon, licensed in Granite City) 	FMN 	Schools 
+155.20500 	   	 	BM	136.5 PL	FS Bus Col/Ed  	Collinsville Base/Edwardsville Base [No License] 	FMN 	Schools 
+155.23500 	   	WPWG898 	BM	210.7 PL	FS Bus Coll  	Collinsville Base: Buses/Unit-to-Unit 	FMN 	Schools 
+159.52500 	   	WPTJ251 	BM	151.4 PL	FS Bus Edw1  	Edwardsville CUSD 	FMN 	Schools 
+155.17500 	   	WPRR257 	BM	162.2 PL	FS Bus Edw2  	Edwardsville CUSD Buses 	FMN 	Schools 
+461.53750 	466.53750  	WQLZ425 	RM	051 DPL	IC SchBus Alton 	Illinois Central School Bus 	FMN 	Schools 
+451.35000 	456.35000  	WQGT227 	RM	032 DPL	AHS Mnt/Sec 1 	High School: Admin / Maintenance / Security 	FMN 	Schools 
+461.66250 	466.66250  	WQGT227 	RM		AHS Mnt/Sec 2 	High School: Maint/Security (D032, 132?) 	FMN 	Schools 
+155.17500 	   	KNHM989 	BM	100.0 PL	Alton School Ops 	Ops (License at 1854 E Broadway) 	FMN 	Schools 
+155.23500 	   	 	BM	100.0 PL	Alton School Sec 	Security Ops [No License] 	FMN 	Security 
+151.55000 	   	WPPW739 	BM	731 DPL	Beth Sch Bus 	Buses 	FMN 	Schools 
+152.39000 	157.65000  	WPPW739 	RM	043 DPL	Beth Sch Ops  	Maintenance - Districtwide 	FMN 	Schools 
+462.15000 	467.15000  	WPKY461 	RM	162.2 PL	FS Sch Bus Coll 	Buses (First Student?) (CIT CR) 	FMN 	Schools 
+461.47500 	   	 	M	612 DPL	Col School Ops A 	Ops [No License] 	FMN 	Schools 
+461.70000 	   	WPQY683 	BM		Col School Ops 	Security / Maintenance 	FMN 	Schools 
+461.70000 	   	WPQY683 	M	186.2 PL	Doris Int Sch A 	Dorris Intermediate 	FMN 	Schools 
+467.85000 	   	 	M	94.8 PL	Doris Int Sch B 	Dorris Intermediate 	FMN 	Schools 
+461.70000 	   	WPQY683 	M	156.7 PL	Renfro Elem A 	John A Renfro Elementary 	FMN 	Schools 
+152.95250 	   	WQJR983 	BM	179.9 PL	EA Sch Ops 1 	Maintenance/Transportation/Security 	FMN 	Schools 
+152.32250 	   	WQJR983 	M		EA Sch Ops 2 	Maintenance/Transportation/Security 	FMN 	Schools 
+452.66250 	   	WQEP562 	M		ESD7 HS Ops1 	High School: Ops (not 162.2) 	FMN 	Schools 
+464.82500 	   	WQEP562 	M		ESD7 HSOps2 	High School: Admin/Custodial 	FMN 	Schools 
+452.03750 	   	WQEP562 	M	243 DPL	ESD MS Ops1 	MIddle School Ops (IL-157) 	FMN 	Schools 
+452.51250 	   	WQEP562 	M	606 DPL	ESD MS Ops2 	Middle School Ops (Boys Restroom) 	FMN 	Schools 
+464.55000 	   	 	M	127.3 PL	ESD MS Ops3 	Middle School: Admin (2016) 	FMN 	Schools 
+461.41250 	   	WQEP562 	M		ESD7 Ops19 	Glen Carbon Elementary: Ops (not D506) 	FMN 	Schools 
+462.63750 	   	FRS11 	M	67.0 PL	GCES Ops 1 	Glen Carbon Elementary School 	FMN 	Schools 
+462.71250 	   	FRS 	M	CSQ	GCES Ops 2 	Glen Carbon Elementary School 	FMN 	Schools 
+451.33750 	   	WQEP562 	M	662 DPL	ESD7 Ops7 	Operations 	FMN 	Schools 
+451.56250 	   	WQEP562 	M	351 DPL	ESD7 Ops16 	Operations 	FMN 	Schools 
+452.08750 	   	WQEP562 	M	156 DPL	ESD7 Ops6 	Operations (also D654?, D411 maintenance?) 	FMN 	Schools 
+452.13750 	   	WQEP562 	M	351 DPL	ESD7 Ops5 	Operations 	FMN 	Schools 
+463.72500 	   	WQEP562 	M	054 DPL	ESD7 Ops13 	Operations  	FMN 	Schools 
+468.78750 	   	WQEP562 	M	606 DPL	ESD7 Ops20 	Operations 	FMN 	Schools 
+451.18750 	   	WQEP562 	M		ESD7 Ops15 	Operations 	FMN 	Schools 
+451.41250 	   	WQEP562 	M		ESD7 Ops8 	Operations 	FMN 	Schools 
+452.18750 	   	WQEP562 	M		ESD7 Ops4 	Operations 	FMN 	Schools 
+452.63750 	   	WQEP562 	M		ESD7 Ops2 	Operations 	FMN 	Schools 
+452.78750 	   	WQEP562 	M		ESD7 Ops18 	Operations 	FMN 	Schools 
+457.08750 	   	WQEP562 	M		ESD7 Ops1 	Operations 	FMN 	Schools 
+463.78750 	   	WQEP562 	M		ESD7 Ops14 	Operations 	FMN 	Schools 
+464.27500 	   	WQEP562 	M		ESD7 Ops12 	Operations 	FMN 	Schools 
+466.41250 	   	WQEP562 	M		ESD7 Ops21 	Operations 	FMN 	Schools 
+461.68750 	466.68750  	WQLZ425 	RM	051 DPL	ICSB GraniteCity 	Illinois Central School Bus (Granite City) 	FMN 	Schools 
+452.72500 	457.72500  	WQHU720 	RM	123.0 PL	GCSD D-Wide 	Districtwide Operations 	FMN 	Schools 
+152.43500 	157.69500  	WPPC718 	RM	77.0 PL	GCSD Ops 	Operations 	FMN 	Schools 
+157.69500 	   	WPPC718 	M	218.1 PL	GRSD Ops1 	Operations (bus drivers) 	FMN 	Schools 
+159.78000 	   	WPPC718 	M	127.3 PL	GRSD Ops2 	Operations (possible tone, heard 159) 	FMN 	Schools 
+160.12500 	   	WPPC718 	M	162.2 PL	GRSD Ops4 	Operations 	FMN 	Schools 
+160.20000 	   	WPPC718 	M	162.2 PL	GRSD Ops5 	Operations 	FMN 	Schools 
+464.56250 	   	WQFJ526 	M		GRSD Ops6 	High School: Ops 	FMN 	Schools 
+451.58750 	   	WQHU720 	M	516 DPL	GCSD Buses 	Bus Operations (Loading?) 	FMN 	Schools 
+152.28500 	157.54500  	WPQJ474 	RM	CC 9TG 1SL 1	HlndSch HS Ops 	High School: Ops 	DMR 	Schools 
+152.28500 	157.54500  	WPQJ474 	RM	CC 9TG 2SL 2	HlndSch HS Adm 	High School: Admin 	DMR 	Schools 
+152.31500 	157.57500  	WPQJ474 	RM	CC 9TG 1SL 1	HlndSchElemOps 	Elementary Schools: Ops 	DMR 	Schools 
+152.31500 	157.57500  	WPQJ474 	RM	CC 9TG 2SL 2	HlndSchElemAdm 	Elementary Schools: Admin 	DMR 	Schools 
+154.60000 	   	WPQJ474 	M		HlndSch VHF1 	Statewide Events 	FMN 	Schools 
+154.51500 	   	WPOC539 	BM		HlndSch VHF2 	Operations (1800 Lindenthal) 	FMN 	Schools 
+451.93750 	456.93750  	WQZW778 	RM	CC 5TG 1SL 1	Madison Sch Bus 	Buses (all RIDs are 1, M# units) 	DMR 	Schools 
+467.76250 	   	WPKG677 	M		MCUSD12 Sec 	Security (Mid/High School) [Expired 2/12] 	FMN 	Schools 
+461.46250 	466.46250  	WRCS255 	RM	CC 5TG 1000SL 1	MCS Ops A 1000 	Ops / Line-Ups (simulcast with 461.6375) 	DMR 	Schools 
+461.46250 	466.46250  	WRCS255 	RM	CC 5TG 4000SL 1	MCS Ops A 4000 	Operations 	DMR 	Schools 
+461.63750 	466.63750  	WRCS255 	RM	CC 5TG 1000SL 1	MCS Ops B 1000 	Ops / Line-Ups (simulcast with 461.4625) 	DMR 	Schools 
+461.46250 	466.46250  	WRCS255 	RM	CC 5TG 3000SL *	MCS Ops A 3000 	Operations (simulcast with 461.6375) 	DMR 	Schools 
+461.63750 	466.63750  	WRCS255 	RM	CC 5TG 3000SL 2	MCS Ops B 3000 	Operations (simulcast with 461.4625) 	DMR 	Schools 
+461.46250 	466.46250  	WRCS255 	RM	CC 5TG 5000SL *	MCS Ops A 5000 	Operations (simulcast with 461.6375) 	DMR 	Schools 
+461.63750 	466.63750  	WRCS255 	RM	CC 5TG 5000SL *	MCS Ops B 5000 	Operations (simulcast with 461.4625) 	DMR 	Schools 
+461.57500 	466.57500  	WNHI595 	RM	218.1 PL	RvrbndHdStartBus 	Buses (Datatronics License} 	FMN 	Schools 
+154.54000 	   	KZI223 	BM	151.4 PL	RoxSchool Buses1 	Buses 	FMN 	Schools 
+158.34000 	   	KZI223 	M		Rox School Ops1 	On-Campus Ops 	FMN 	Schools 
+159.58500 	   	KZI223 	M	141.3 PL	Rox School Ops2 	On-Campus Ops  	FMN 	Schools 
+159.50250 	153.01250  	WRCM305 	RM	CC 4TG 511SL 2	Triad Bus 511 	Buses 	DMR 	Schools 
+155.22000 	   	WPYD364 	BM	179.9 PL	Triad School 	Buses / Security 	FMN 	Schools 
+155.17500 	   	KZC468 	BM	141.3 PL	WRHSD Buses 	Buses [Expired 9/12, still in use 2/16] 	FMN 	Schools 
+463.25000 	468.25000  	WQCX944 	RM	CC 5TG 1SL 1	LCCC G Security 	Security (Godfrey) 	DMR 	Security 
+463.25000 	468.25000  	WQCX944 	RM	CC 5TG 2SL 2	LCCC G Maintnce 	Maintenance (Godfrey) 	DMR 	Schools 
+464.40000 	469.90000  	WQCX944 	RM	CC 5TG 1SL 1	LCCC E Security 	Security (Edwardsville) 	DMR 	Security 
+464.40000 	469.90000  	WQCX944 	RM	CC 5TG 2SL 2	LCCC E Maintnce 	Maintenance (Edwardsville) 	DMR 	Schools 
+464.80000 	469.80000  	WQCX944 	RM	CC 5TG 1SL 1	LCCC EA Security 	Security (E. Alton) 	DMR 	Security 
+464.80000 	469.80000  	WQCX944 	RM	CC 5TG 2SL 2	LCCC EA Maintnce 	Maintenance (E. Alton) 	DMR 	Schools 
+464.80000 	469.80000  	WQCX944 	RM	CC 5TG 53SL 1	LCCC EA Ops 53 	Ops (E. Alton) 	DMR 	Schools 
+461.40000 	466.40000  	WQCX944 	RM	CC 5TG 1SL 1	LCCC A Security 	Security (Alton) 	DMR 	Security 
+461.40000 	466.40000  	WQCX944 	RM	CC 5TG 2SL 2	LCCC A Maintnce 	Maintenance (Alton) 	DMR 	Schools 
+463.92500 	   	WQCX944 	M		LCCC Sec/Mnt3 	Unit-to-Unit (Godfrey/Edwardsville) 	DMR 	Schools 
+464.32500 	   	WPHT633 	BM		LCCC Security 4 	Security 	DMR 	Schools 
+462.12500 	   	WNWY282 	B	131 DPL	SWIC Ops 1 	Operations (bases in Granite City / Red Bud)  	FMN 	Schools 
+461.13750 	   	 	M		SWIC Ops 2 	Operations 	FMN 	Schools 
+154.51500 	   	WNWY282 	BM	265 DPL	SWIC DPS 	Department of Public Safety  	FMN 	Schools 
+463.81250 	   	WQKR340 	M		SWIC Ops 3 	Operations (in use) 	DMR 	Schools 
+463.86250 	   	WQKR340 	M		SWIC Ops 4 	Operations 	DMR 	Schools 
+464.88750 	   	WQKR340 	M		SWIC Ops 5 	Operations 	DMR 	Schools 
+464.91250 	   	WQKR340 	M		SWIC Ops 6 	Operations 	DMR 	Schools 
+451.31250 	456.31250  	WPXF818 	RM	662 DPL	SIUE AthCpx1 	Athletic Complex - Portables (LP R) [Expired, on air 6/13] 	FMN 	Schools 
+451.33750 	456.33750  	WPXF818 	RM		SIUE AthCpx2 	Athletic Complex - Portables [Expired, still in use?] 	FMN 	Schools 
+453.65000 	458.65000  	WRD893 	RM	127.3 PL	SIUE Grnd/Hs 	Physical Plant Maintenance (still on air?) 	FMN 	Schools 
+464.32500 	   	WPGU616 	M		SIUE FcMgmt1 	Facilities Management (D263 is Wash-U) 	FMN 	Schools 
+462.85000 	   	WNDZ504 	B		SIUE Paging 	Paging (University Center) (CSQ) 	Telm 	Data 
+464.02500 	   	WPGU616 	M		SIUE FcMgmt2 	Facilities Management (156.7 is StClairCo) 	FMN 	Schools 
+464.12500 	   	WPGU616 	M	127.3 PL	SIUE FcMgmt3 	Facilities Management 	FMN 	Schools 
+464.22500 	   	WPGU616 	M		SIUE FcMgmt4 	Facilities Management (other is 110.9) 	FMN 	Schools 
+151.77500 	   	KNAY295 	BM	146.2 PL	SIUE CmpCntr 	Campus Center (Cafeteria, etc) 	FMN 	Schools 
+464.46250 	459.46250  	WPZL556 	M	631 DPL	SIUE MUC Ops 	Morris University Center: Operations/Maintenance ("MUC" Units) 	FMN 	Schools 
+453.48750 	458.48750  	WPOX254 	RM	051 DPL	SIUE Housing 	Housing Maintenance (Cougar/Prairie Hall) 	FMN 	Schools 
+453.60000 	458.60000  	WRD893 	RM	127.3 PL	SIUE Mnt/Pk1 	Maintenance / Parking 	FMN 	Schools 
+463.27500 	468.27500  	WQAM346 	RM	162.2 PL	SIUE Mnt/Pk2 	Maintenance / Parking ("VIP"/Graduation) 	FMN 	Schools 
+466.71250 	   	WPZL556 	M		SIUE Mnt/Pk3 	Maintenance / Parking 	FMN 	Schools 
+451.32500 	456.32500  	WQCH790 	RM	143 DPL	SIUE SOD Ops 1 	Maintenance / Security - Primary 	FMN 	Schools 
+451.32500 	456.32500  	WQCH790 	RM		SIUE SOD Ops 2 	Maintenance / Security (not D365) 	FMN 	Schools 
+462.23750 	   	WQAX777 	M	131.8 PL	SIUE SOD Ops 3 	Maintenance/Security 	FMN 	Schools 
+464.10000 	469.10000  	WQAM346 	RM		SIUE E StL 	Maintenance / Parking (East St. Louis) 	FMN 	Schools 
+163.20000 	   	 	BM	136.5 PL	USMrshl 1632 	US Marshal - 10-28s, etc (mobile to mobile, base-mobile) 	FMN 	Federal 
+163.21250 	   	 	BM	136.5 PL	USMrshl Srv3 	US Marshal - Survellience [Ch 3] 	FMN 	Federal 
+164.55000 	   	 	M	167.9 PL	OCDETF FBId2 	 Organized Crime Drug Enforcement Task Forces (5/18) 	FMN 	Federal 
+164.70000 	   	 	M	156.7 PL	164.7 156.7 	US Postal Service 	FMN 	Federal 
+165.26250 	   	 	BM	650 NAC	1652625 P25 	carrier only (strong in Fosterburg area) 	P25 	Federal 
+167.31250 	   	 	RM	167 NAC	FBI Ops A1 	Operations [TG 1 / TG 2] 	P25E 	Federal 
+167.31250 	   	 	BM	167 NAC	UPSS 	Operations [TG 1 / TG 2] 	P25 	Aircraft 
+418.30000 	   	 	M	82.5 PL	418.3 82.5 	parking / DHQ 	FMN 	Federal 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Argocy Casino - Alton	 LTR Standard	 St Louis 	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide
+Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Communications Services (Alton)	 LTR Standard	 Alton	Gateway Energy and Coke (Granite City)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Granite City
+Global Brass / Winchester - East Alton (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 East Alton	Great Plains Madison (IL)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Madison	Madison County Transit District (MCT)	 EDACS Standard	 Edwardsville
+Phillips 66 Refineries	 Project 25 Phase II	 Various	Southwestern Electric Cooperative (IL)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greenville IL	United States Steel Corporation (DMR Tier 3)	 DMR Tier 3	 Various
+Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro	Warner Communications - UHF 15 (Clayton/Hillsboro)	 LTR Standard	 Clayton	Warner Communications - UHF A	 LTR Standard	 Marlborough
+Warner Communications UHF LTR - (IE MetroEast 1-xx)	 LTR Standard	 Various	Warner Communications UHF LTR - (IE Whiteside 0-xx)	 LTR Standard	 MetroEast	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO

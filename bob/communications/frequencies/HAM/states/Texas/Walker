@@ -1,26 +1,26 @@
-154.20500 	KLV902 	RM	632 DPL	Walker Fire 	Walker Co. Fire Dispatch (all departments) - Linked to TxWARN TG 1124 	FM 	Fire Dispatch 
-154.20500 	KLV902 	M	100.0 PL	Walker Fireg 	Walker Co. Fireground (all departments) 	FM 	Fire-Tac 
-154.28000 	KLV902 	M	CSQ	Texas Fire 1 	Statewide Fire Mutual Aid 	FM 	Interop 
-155.26500 	WXY253 	RM	100.0 PL	Walkr Co EMS 	Walker Co. EMS Paging (Primary on TxWARN TG 1120) 	FM 	EMS Dispatch 
-155.73000 	KWO528 	RM	100.0 PL	Walkr SO VHF 	Walker Co. Sheriff/Texas DPS (Primary on TxWARN TG 1475) 	FM 	Law Dispatch 
-154.95000 	KWO528 	M	CSQ	Texas Law 1 	Statewide Law Car to Car 	FM 	Interop 
-154.43000 	WPEK875 	BM		CrbsPrar VFD 	Crabbs Prairie Fireground 	FM 	Fire-Tac 
-155.89500 	KXD225 	RM	351 DPL	Hunts PD VHF 	Huntsville Police VHF Repeater 	FM 	Law Dispatch 
-155.91000 	KXD285 	M	CSQ	Hunts PD VHF 	Huntsville Police  	FM 	Law Talk 
-155.95000 	KXD285 	M	CSQ	Hunts PD VHG 	Huntsville Police 	FM 	Law Talk 
-155.37000 	KXD285 	B	CSQ	Texas Law 2 	Statewide Law Intercity 	FM 	Interop 
-154.05500 	KWH534 	RM	173.8 PL	Huntsv Works 	Huntsville Public Works 	FM 	Public Works 
-154.14500 	KNCB856 	BM	146.2 PL	NewWaver VFD 	New Waverly Fireground 	FM 	Fire-Tac 
-154.76250 	WQFC446 	RM		Riverside FD 	Riverside Fire Tactical/Talk 	FM 	Fire-Tac 
-151.86500 	WQBJ578 	RM	192.8 PL	HuntsISD Bus 	Huntsville ISD Busses 	FM 	Schools 
-152.34500 	WPZK349 	RM		HuntsISD Mnt 	Hunstville ISD Maintenance, Custodial 	FM 	Schools 
-160.00500 	WPRG213 	M		Hunts HS Ath 	Huntsville ISD Athletics 	FM 	Schools 
-160.20000 	WPRG213 	M		Hunts HS Adm 	Huntsville High School Admin 	FM 	Schools 
-155.55000 	KTZ401 	RM	107.2 PL	SHSU PD VHF 	Foot Patrol and Parking, Can be patched to P25 system. 	FM 	Law Tac 
-155.92500 	KTZ401 	BM	107.2 PL	SHSU PD Tac 	SHSU Police VHF Tactical 	FM 	Law Tac 
-453.26250 	WGC792 	RM	186.2 PL	SHSU StudAct 	Department of Student Activities 	FMN 	Schools 
-453.80000 	WGC792 	RM	141.3 PL	SHSU Maint 	Maintenance 	FMN 	Schools 
-462.57500 	 	M	413 DPL	SHSU BowConc 	Bowers Stadium Concessions 	FMN 	Schools 
-170.60000 	 	RM	167 NAC	FBI Huntsvil 	Houston Field Office Outlying Area Multicast - Huntsville (encryption used) 	P25 	Federal 
-DFW Communications	 LTR Standard	 Various	Entergy 	 Project 25 Phase II	 Various	Sam Houston Electric Cooperative	 DMR Motorola Connect Plus (TRBO)
- Various	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	Texas Wide Area Radio Network (TxWARN)	 Project 25 Phase II	 Various	
+154.20500 	158.83500  	KLV902 	RM	632 DPL	Walker Fire 	Walker Co. Fire Dispatch (all departments) - Linked to TxWARN TG 1124 	FM 	Fire Dispatch 
+154.20500 	   	KLV902 	M	100.0 PL	Walker Fireg 	Walker Co. Fireground (all departments) 	FM 	Fire-Tac 
+154.28000 	   	KLV902 	M	CSQ	Texas Fire 1 	Statewide Fire Mutual Aid 	FM 	Interop 
+155.26500 	150.77500  	WXY253 	RM	100.0 PL	Walkr Co EMS 	Walker Co. EMS Paging (Primary on TxWARN TG 1120) 	FM 	EMS Dispatch 
+155.73000 	154.71000  	KWO528 	RM	100.0 PL	Walkr SO VHF 	Walker Co. Sheriff/Texas DPS (Primary on TxWARN TG 1475) 	FM 	Law Dispatch 
+154.95000 	   	KWO528 	M	CSQ	Texas Law 1 	Statewide Law Car to Car 	FM 	Interop 
+154.43000 	   	WPEK875 	BM		CrbsPrar VFD 	Crabbs Prairie Fireground 	FM 	Fire-Tac 
+155.89500 	154.02500  	KXD225 	RM	351 DPL	Hunts PD VHF 	Huntsville Police VHF Repeater 	FM 	Law Dispatch 
+155.91000 	   	KXD285 	M	CSQ	Hunts PD VHF 	Huntsville Police  	FM 	Law Talk 
+155.95000 	   	KXD285 	M	CSQ	Hunts PD VHG 	Huntsville Police 	FM 	Law Talk 
+155.37000 	154.95000  	KXD285 	B	CSQ	Texas Law 2 	Statewide Law Intercity 	FM 	Interop 
+154.05500 	155.11500  	KWH534 	RM	173.8 PL	Huntsv Works 	Huntsville Public Works 	FM 	Public Works 
+154.14500 	   	KNCB856 	BM	146.2 PL	NewWaver VFD 	New Waverly Fireground 	FM 	Fire-Tac 
+154.76250 	158.94250  	WQFC446 	RM		Riverside FD 	Riverside Fire Tactical/Talk 	FM 	Fire-Tac 
+151.86500 	159.67500  	WQBJ578 	RM	192.8 PL	HuntsISD Bus 	Huntsville ISD Busses 	FM 	Schools 
+152.34500 	157.60500  	WPZK349 	RM		HuntsISD Mnt 	Hunstville ISD Maintenance, Custodial 	FM 	Schools 
+160.00500 	   	WPRG213 	M		Hunts HS Ath 	Huntsville ISD Athletics 	FM 	Schools 
+160.20000 	   	WPRG213 	M		Hunts HS Adm 	Huntsville High School Admin 	FM 	Schools 
+155.55000 	158.80500  	KTZ401 	RM	107.2 PL	SHSU PD VHF 	Foot Patrol and Parking, Can be patched to P25 system. 	FM 	Law Tac 
+155.92500 	   	KTZ401 	BM	107.2 PL	SHSU PD Tac 	SHSU Police VHF Tactical 	FM 	Law Tac 
+453.26250 	458.26250  	WGC792 	RM	186.2 PL	SHSU StudAct 	Department of Student Activities 	FMN 	Schools 
+453.80000 	458.80000  	WGC792 	RM	141.3 PL	SHSU Maint 	Maintenance 	FMN 	Schools 
+462.57500 	   	 	M	413 DPL	SHSU BowConc 	Bowers Stadium Concessions 	FMN 	Schools 
+170.60000 	   	 	RM	167 NAC	FBI Huntsvil 	Houston Field Office Outlying Area Multicast - Huntsville (encryption used) 	P25 	Federal 
+BrandMeister Texas	 DMR Conventional Networked	 Various	DFW Communications	 LTR Standard	 Various	Entergy 	 Project 25 Phase II	 Various
+Sam Houston Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	Texas Bigfoot Communications (Tier 3)	 DMR Tier 3	 Houston	

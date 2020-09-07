@@ -1,31 +1,31 @@
-453.31250 	WQBN608 	RM	131.8 PL	OntCo FD/EMSDisp 	Fire/EMS Dispatch (Patched with TG 8001) 	FMN 	Fire Dispatch 
-458.02500 	WQCN889 	M		OntCo Fireground 	Fireground Ops Ch 3 	FMN 	Fire-Tac 
-453.03750 	WQCN889 	M	131.8 PL	OntCo SpecialOps 	Special Ops Ch 4/5 	FMN 	Fire-Tac 
-458.75000 	WQCN889 	M	131.8 PL	OntCo Div 1 Tac 	Division 1 Tactical Ch 6 	FMN 	Fire-Tac 
-453.55000 	WQCN889 	M	131.8 PL	OntCo Div 2 Tac 	Division 2 Tactical Ch 7 	FMN 	Fire-Tac 
-453.75000 	WQCN889 	M	131.8 PL	OntCo Div 3 Tac 	Division 3 Tactical Ch 8 	FMN 	Fire-Tac 
-463.27500 	WNIS976 	RM	131.8 PL	OntCo FirePolice 	Fire Police Repeater 	FMN 	Fire-Talk 
-461.96250 	WQSR955 	M		OntCo FP East 1 	Fire Police Event 1 (East) 	FMN 	Fire-Talk 
-464.88750 	WQSR955 	M	91.5 PL	OntCo FP East 2 	Fire Police Event 2 (East) 	FMN 	Fire-Talk 
-464.96250 	WQSR955 	M	114.8 PL	OntCo FP West 3 	Fire Police Event 3 (West) 	FMN 	Fire-Talk 
-466.88750 	WQSR955 	M	131.8 PL	OntCo FP West 4 	Fire Police Event 4 (West) 	FMN 	Fire-Talk 
-151.01000 	KCI972 	RM	82.5 PL	Ont Co Hwy 	Highway Department 	FMN 	Public Works 
-156.19500 	WQEQ291 	RM	412 DPL	RTS Ontario 	RTS Ontario Buses 	FMN 	Transportation 
-453.98750 	WQDM637 	M	131.8 PL	Fire TAC 9 	Fire - Tactical 	FMN 	Fire-Tac 
-453.91250 	WQDM637 	M		Fire TAC 	Fire - Tactical 	FMN 	Fire-Tac 
-460.51250 	WQDM637 	M		Fire TAC 	Fire - Tactical 	FMN 	Fire-Tac 
-155.20500 	KYW987 	BM	131.8 PL	Cndgua EMS 	Emergency Squad 	FMN 	EMS-Tac 
-453.07500 	KEE250 	RM	131.8 PL	Geneva FG 	Fireground 	FMN 	Fire-Tac 
-460.55000 	KEJ632 	RM		Victor FD 	Fire Tac 	FMN 	Fire-Tac 
-453.63750 	KEJ632 	RM	131.8 PL	Victor FD 	Fire Tac 	FMN 	Fire-Tac 
-154.05500 	KSZ707 	BM	131.8 PL	Vic-FarmAmb 	Victor-Farmington Ambulance 	FMN 	EMS-Tac 
-461.22500 	WNIC221 	RM	107.2 PL	FLEMS 	Tact 	FMN 	EMS-Tac 
-154.86000 	WPWR894 	BM		Fisher FG 	Fireground 	FMN 	Fire-Tac 
-453.00000 	WQHM500 	RM	131.8 PL	Oaks Corners FP 	Fire Police 	FMN 	Fire-Tac 
-458.55000 	WQDI362 	M	131.8 PL	Shortsville FD 	Shortsville Fire - Countywide repeater 	FMN 	Fire-Tac 
-453.28750 	WQDI362 	RM	131.8 PL	Shortsville FP 	Shortsville Fire Police 	FMN 	Fire-Tac 
-151.83500 	WQCC947 	BM	173.8 PL	VCSD Buses 	Victor Central School District - Buses 	FMN 	Schools 
-451.45000 	WQSW248 	RM	3 RAN	CCSD Buses 	Canandaigua City School Buses 	NXDN 	Schools 
-Finger Lakes Gaming and Racetrack	 DMR Motorola Capacity Plus Single Site (TRBO)	 Farmington	Flower City Communications (Bristol)	 LTR Standard	 Bristol	Licciardi Radio Service	 LTR Standard
- Bristol	Mobiletech Communications	 LTR Net	 Various	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	Rochester Radio
- NXDN NEXEDGE 9600	 Regional	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various	Victor Central School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Victor
+453.31250 	458.31250  	WQBN608 	RM	131.8 PL	OntCo FD/EMSDisp 	Fire/EMS Dispatch (Patched with TG 8001) 	FMN 	Fire Dispatch 
+458.02500 	   	WQCN889 	M		OntCo Fireground 	Fireground Ops Ch 3 	FMN 	Fire-Tac 
+453.03750 	   	WQCN889 	M	131.8 PL	OntCo SpecialOps 	Special Ops Ch 4/5 	FMN 	Fire-Tac 
+458.75000 	   	WQCN889 	M	131.8 PL	OntCo Div 1 Tac 	Division 1 Tactical Ch 6 	FMN 	Fire-Tac 
+453.55000 	   	WQCN889 	M	131.8 PL	OntCo Div 2 Tac 	Division 2 Tactical Ch 7 	FMN 	Fire-Tac 
+453.75000 	   	WQCN889 	M	131.8 PL	OntCo Div 3 Tac 	Division 3 Tactical Ch 8 	FMN 	Fire-Tac 
+463.27500 	468.27500  	WNIS976 	RM	131.8 PL	OntCo FirePolice 	Fire Police Repeater 	FMN 	Fire-Talk 
+461.96250 	   	WQSR955 	M		OntCo FP East 1 	Fire Police Event 1 (East) 	FMN 	Fire-Talk 
+464.88750 	   	WQSR955 	M	91.5 PL	OntCo FP East 2 	Fire Police Event 2 (East) 	FMN 	Fire-Talk 
+464.96250 	   	WQSR955 	M	114.8 PL	OntCo FP West 3 	Fire Police Event 3 (West) 	FMN 	Fire-Talk 
+466.88750 	   	WQSR955 	M	131.8 PL	OntCo FP West 4 	Fire Police Event 4 (West) 	FMN 	Fire-Talk 
+151.01000 	156.07500  	KCI972 	RM	82.5 PL	Ont Co Hwy 	Highway Department 	FMN 	Public Works 
+156.19500 	158.98500  	WQEQ291 	RM	412 DPL	RTS Ontario 	RTS Ontario Buses 	FMN 	Transportation 
+453.98750 	   	WQDM637 	M	131.8 PL	Fire TAC 9 	Fire - Tactical 	FMN 	Fire-Tac 
+453.91250 	   	WQDM637 	M		Fire TAC 	Fire - Tactical 	FMN 	Fire-Tac 
+460.51250 	   	WQDM637 	M		Fire TAC 	Fire - Tactical 	FMN 	Fire-Tac 
+155.20500 	   	KYW987 	BM	131.8 PL	Cndgua EMS 	Emergency Squad 	FMN 	EMS-Tac 
+453.07500 	458.07500  	KEE250 	RM	131.8 PL	Geneva FG 	Fireground 	FMN 	Fire-Tac 
+460.55000 	465.55000  	KEJ632 	RM		Victor FD 	Fire Tac 	FMN 	Fire-Tac 
+453.63750 	458.63750  	KEJ632 	RM	131.8 PL	Victor FD 	Fire Tac 	FMN 	Fire-Tac 
+154.05500 	   	KSZ707 	BM	131.8 PL	Vic-FarmAmb 	Victor-Farmington Ambulance 	FMN 	EMS-Tac 
+461.22500 	466.22500  	WNIC221 	RM	107.2 PL	FLEMS 	Tact 	FMN 	EMS-Tac 
+154.86000 	   	WPWR894 	BM		Fisher FG 	Fireground 	FMN 	Fire-Tac 
+453.00000 	458.00000  	WQHM500 	RM	131.8 PL	Oaks Corners FP 	Fire Police 	FMN 	Fire-Tac 
+458.55000 	   	WQDI362 	M	131.8 PL	Shortsville FD 	Shortsville Fire - Countywide repeater 	FMN 	Fire-Tac 
+453.28750 	458.28750  	WQDI362 	RM	131.8 PL	Shortsville FP 	Shortsville Fire Police 	FMN 	Fire-Tac 
+151.83500 	   	WQCC947 	BM	173.8 PL	VCSD Buses 	Victor Central School District - Buses 	FMN 	Schools 
+451.45000 	456.45000  	WQSW248 	RM	3 RAN	CCSD Buses 	Canandaigua City School Buses 	NXDN 	Schools 
+Finger Lakes Gaming and Racetrack	 DMR Motorola Capacity Plus Single Site (TRBO)	 Farmington	Flower City Communications (Bristol)	 LTR Standard	 Bristol	Licciardi Radio Service	 LTR Standard	 Bristol
+Mobiletech Communications	 LTR Net	 Various	New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	Rochester Radio	 NXDN NEXEDGE 9600	 Regional
+SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various	Victor Central School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Victor	

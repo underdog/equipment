@@ -1,27 +1,27 @@
-151.02500 	WPKV942 	RM		Gasg Highwy1 	Countywide Highway - North/South  (203.5?) 	FMN 	Public Works 
-155.19000 	WPKV942 	RM		Gasg Highwy2 	Countywide Highway (Drake) 	FMN 	Public Works 
-156.24000 	WPKV942 	BM		Gasg Highwy3 	Countywide Highway Department (Drake) 	FMN 	Public Works 
-154.78500 	WQFL666 	RM		OzarkCen EMS 	EMS: Dispatch  	FMN 	EMS Dispatch 
-155.34000 	WQFR894 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
-155.32500 	WQFR894 	BM		HADH ops 1 	Patient Reports 	FMN 	Hospital 
-155.16000 	WQFR894 	BM		HADH Ops 2 	Operations 	FMN 	Hospital 
-155.22000 	WQFR894 	BM		HADH Ops 3 	Operations 	FMN 	Hospital 
-155.43000 	WPWT350 	RM		Bland Fire  	Fire 	FMN 	Fire Dispatch 
-154.38500 	WPWT350 	BM		Bland Fire 2 	Fire 	FMN 	Fire-Tac 
-151.54250 	WQEG783 	RM		Boub Watch 	Community Watch Assn/Security  	FMN 	Security 
-155.55000 	WPUX209 	RM	118.8 PL	Hermann Police 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
-154.20500 	KTR758 	RM		Hermann Fire 	Fire: Dispatch (Hermann Fire Company #1) 	FMN 	Fire Dispatch 
-158.82000 	WPLQ253 	RM	123.0 PL	Hermann EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-173.22500 	WPLQ253 	M		Hrmnn EMS MX 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
-158.76000 	KAL858 	BM		Herm PubWrks 	Public Works (Garbage, Streets, Plows) 	FMN 	Public Works 
-154.32500 	WPMA463 	RM		Morrison Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-158.94000 	WPMA463 	M		Morrison FG 	Fireground 	FMN 	Fire-Tac 
-154.07000 	WNWW823 	BM		NHaven Fire1 	Fire: Dispatch  	FMN 	Fire Dispatch 
-151.01000 	WNWW823 	BM		NHaven Fire 2 	Fire   	FMN 	Fire Dispatch 
-154.44500 	WPEW848 	RM		Owensv Fire 	Fire 	FMN 	Fire Dispatch 
-453.55000 	WNLY252 	RM		Owen PubWrks 	Public Works 	FMN 	Public Works 
-173.33750 	WNXS643 	F		Owensv WDD 	Water Distribution Data 	Telm 	Data 
-155.20500 	WNJQ898 	BM	88.5 PL	Owsnvl EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-152.46500 	WQGN470 	RM		GasR1 School 1 	R1 Schools: Maintenance/Security/Buses (Hermann) 	FMN 	Schools 
-461.92500 	WNNA247 	RM		GasR2 School 	R2 School District (Owensville) 	FMN 	Schools 
+151.02500 	158.97000  	WPKV942 	RM		Gasg Highwy1 	Countywide Highway - North/South  (203.5?) 	FMN 	Public Works 
+155.19000 	158.97000  	WPKV942 	RM		Gasg Highwy2 	Countywide Highway (Drake) 	FMN 	Public Works 
+156.24000 	   	WPKV942 	BM		Gasg Highwy3 	Countywide Highway Department (Drake) 	FMN 	Public Works 
+154.78500 	159.16500  	WQFL666 	RM		OzarkCen EMS 	EMS: Dispatch  	FMN 	EMS Dispatch 
+155.34000 	   	WQFR894 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+155.32500 	   	WQFR894 	BM		HADH ops 1 	Patient Reports 	FMN 	Hospital 
+155.16000 	   	WQFR894 	BM		HADH Ops 2 	Operations 	FMN 	Hospital 
+155.22000 	   	WQFR894 	BM		HADH Ops 3 	Operations 	FMN 	Hospital 
+155.43000 	151.43000  	WPWT350 	RM		Bland Fire  	Fire 	FMN 	Fire Dispatch 
+154.38500 	   	WPWT350 	BM		Bland Fire 2 	Fire 	FMN 	Fire-Tac 
+151.54250 	158.39250  	WQEG783 	RM		Boub Watch 	Community Watch Assn/Security  	FMN 	Security 
+155.55000 	154.89000  	WPUX209 	RM	118.8 PL	Hermann Police 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
+154.20500 	159.04500  	KTR758 	RM		Hermann Fire 	Fire: Dispatch (Hermann Fire Company #1) 	FMN 	Fire Dispatch 
+158.82000 	153.86000  	WPLQ253 	RM	123.0 PL	Hermann EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+173.22500 	   	WPLQ253 	M		Hrmnn EMS MX 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+158.76000 	   	KAL858 	BM		Herm PubWrks 	Public Works (Garbage, Streets, Plows) 	FMN 	Public Works 
+154.32500 	158.94000  	WPMA463 	RM		Morrison Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+158.94000 	   	WPMA463 	M		Morrison FG 	Fireground 	FMN 	Fire-Tac 
+154.07000 	   	WNWW823 	BM		NHaven Fire1 	Fire: Dispatch  	FMN 	Fire Dispatch 
+151.01000 	   	WNWW823 	BM		NHaven Fire 2 	Fire   	FMN 	Fire Dispatch 
+154.44500 	150.77500  	WPEW848 	RM		Owensv Fire 	Fire 	FMN 	Fire Dispatch 
+453.55000 	458.55000  	WNLY252 	RM		Owen PubWrks 	Public Works 	FMN 	Public Works 
+173.33750 	   	WNXS643 	F		Owensv WDD 	Water Distribution Data 	Telm 	Data 
+155.20500 	   	WNJQ898 	BM	88.5 PL	Owsnvl EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+152.46500 	157.72500  	WQGN470 	RM		GasR1 School 1 	R1 Schools: Maintenance/Security/Buses (Hermann) 	FMN 	Schools 
+461.92500 	466.92500  	WNNA247 	RM		GasR2 School 	R2 School District (Owensville) 	FMN 	Schools 
 AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Three Rivers Electric Cooperative (MO)	 DMR Tier 3	 East Central MO	

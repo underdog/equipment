@@ -1,32 +1,31 @@
-155.59500 	KKJ713 	RM	1 RAN	Garfield Co SO 	Sheriff Dispatch 	NXDN 	Law Dispatch 
-155.13000 	KKJ713 	BM		Garfield Co SO 2 	Sheriff Secondary 	FMN 	Law Tac 
-158.79000 	WQFW562 	RM	110.9 PL	Garfield Co Jail 	County Jail 	FMN 	Corrections 
-155.43750 	WQUZ292 	RM	162.2 PL	Garfield Co Fire 	Fire Page Out 	FMN 	Fire Dispatch 
-152.31500 	WQJA532 	RM	103.5 PL	GarfieldCoFDEast 	County Fire East 	FMN 	Fire Dispatch 
-152.27000 	WQJA532 	RM	203.5 PL	GarfieldCoFDWest 	County Fire West 	FMN 	Fire Dispatch 
-151.22000 	WQUZ292 	RM	71.9 PL	Garfiled Co EM  	Emergency Management -- County Central 	FMN 	Emergency Ops 
-151.30250 	WQUZ292 	RM	85.4 PL	GarfieldCoWeathr 	County Weather -- Storm Spotters 	FMN 	Emergency Ops 
-463.37500 	KRY380 	RM	97.4 PL	Garfield Co EM 	Emergency Management 	FMN 	Emergency Ops 
-463.77500 	WPIB558 	RM	67.0 PL	Garfield Co EM 	Emergency Management 	FMN 	Emergency Ops 
-154.26500 	WPKF871 	RM	192.8 PL	Tri-County A 	Tri-County  A -- Rural Fire Dispatch for Alfalfa, Garfield and Grant Counties 	FMN 	Fire Dispatch 
-153.99500 	WNWI720 	BM	192.8 PL	Tri-County B 	Tri-County B -- Fire and Emergency Management 	FM 	Fire-Tac 
-158.74500 	WNWI720 	BM	192.8 PL	Tri-County C 	Tri-County C -- Fire and Emergency Management 	FM 	Fire-Tac 
-154.20500 	WNZB202 	BM	192.8 PL	Tri-County D 	Tri-County D -- Fire and Emergency Management 	FMN 	Fire-Tac 
-155.52000 	KKA253 	RM	186.2 PL	Enid Police 1 	Police Dispatch (Simulcast NEXEDGE system) 	FMN 	Law Dispatch 
-154.44500 	KKZ949 	RM	67.0 PL	Enid Fire Disp 	Fire Dispatch (Simulcast NEXEDGE System) 	FMN 	Fire Dispatch 
-155.16000 	WPXC776 	RM	127.3 PL	Enid Life EMS 	Life EMS Ambulance Dispatch 	FMN 	EMS Dispatch 
-453.16250 	KB63903 	RM	127.3 PL	Enid Housing 	Public Housing 	FMN 	Public Works 
-153.86000 	WPKU565 	RM	156.7 PL	Enid PubTransit 	The Transfer -- Enid Shuttle Buses -- Public Transport 	FMN 	Transportation 
-453.32500 	WNSZ310 	BM		Enid Airport 	Woodring Airport 	FMN 	Public Works 
-155.04000 	KB63903 	RM	146.2 PL	Enid Water 	Water Department 	FMN 	Public Works 
-151.33250 	WQUZ292 	RM	131.8 PL	Douglas Fire 	Douglas Fire 	FMN 	Fire Dispatch 
-151.45250 	WQUZ292 	RM	167.9 PL	Drummond Fire 	Drummond Fire 	FMN 	Fire Dispatch 
-151.39250 		WQUZ292 	RM	94.8 PL	Hillsdale Fire 	Hillsdale Fire 	FMN 	Fire Dispatch 
-151.08500 	WQUZ292 	RM	146.2 PL	Hunter Fire 	Hunter Fire 	FMN 	Fire Dispatch 
-155.92500 	KNIS757 	RM	131.8 PL	Lahoma Police 	Police Dispatch 	FMN 	Law Dispatch 
-155.10000 	 	BM	CSQ	Waukomis Police 	Police Dispatch 	FM 	Law Tac 
-167.26250 	 	R	167.9 PL	FBI-Enid OK 	FBI -- Enid Office 	FM 	Federal 
-167.66250 	 	RM	167.9 PL	FBI-Enid OK 	FBI -- Enid Area 	FM 	Federal 
-Enid	 NXDN NEXEDGE 4800	 Enid	Garfield County	 LTR Standard	 Enid	Oklahoma Department of Transportation (ODOT)	 LTR Passport
- Various	Oklahoma Gas and Electric	 EDACS Networked Standard	 Various	Total Com -- Enid	 LTR Standard	 Enid	United States Air Force (3D6)
- Project 25 Phase I	 Various	
+155.59500 	153.74000  	KKJ713 	RM	1 RAN	Garfield Co SO 	Sheriff Dispatch 	NXDN 	Law Dispatch 
+155.13000 	   	KKJ713 	BM		Garfield Co SO 2 	Sheriff Secondary 	FMN 	Law Tac 
+158.79000 	154.78500  	WQFW562 	RM	110.9 PL	Garfield Co Jail 	County Jail 	FMN 	Corrections 
+155.43750 	159.33750  	WQUZ292 	RM	162.2 PL	Garfield Co Fire 	Fire Page Out 	FMN 	Fire Dispatch 
+152.31500 	157.57500  	WQJA532 	RM	103.5 PL	GarfieldCoFDEast 	County Fire East 	FMN 	Fire Dispatch 
+152.27000 	157.53000  	WQJA532 	RM	203.5 PL	GarfieldCoFDWest 	County Fire West 	FMN 	Fire Dispatch 
+151.22000 	154.22750  	WQUZ292 	RM	71.9 PL	Garfiled Co EM  	Emergency Management -- County Central 	FMN 	Emergency Ops 
+151.30250 	158.38500  	WQUZ292 	RM	85.4 PL	GarfieldCoWeathr 	County Weather -- Storm Spotters 	FMN 	Emergency Ops 
+463.37500 	468.37500  	KRY380 	RM	97.4 PL	Garfield Co EM 	Emergency Management 	FMN 	Emergency Ops 
+463.77500 	468.77500  	WPIB558 	RM	67.0 PL	Garfield Co EM 	Emergency Management 	FMN 	Emergency Ops 
+154.26500 	153.83000  	WPKF871 	RM	192.8 PL	Tri-County A 	Tri-County  A -- Rural Fire Dispatch for Alfalfa, Garfield and Grant Counties 	FMN 	Fire Dispatch 
+153.99500 	   	WNWI720 	BM	192.8 PL	Tri-County B 	Tri-County B -- Fire and Emergency Management 	FM 	Fire-Tac 
+158.74500 	   	WNWI720 	BM	192.8 PL	Tri-County C 	Tri-County C -- Fire and Emergency Management 	FM 	Fire-Tac 
+154.20500 	   	WNZB202 	BM	192.8 PL	Tri-County D 	Tri-County D -- Fire and Emergency Management 	FMN 	Fire-Tac 
+155.52000 	155.91000  	KKA253 	RM	186.2 PL	Enid Police 1 	Police Dispatch (Simulcast NEXEDGE system) 	FMN 	Law Dispatch 
+154.44500 	154.01000  	KKZ949 	RM	67.0 PL	Enid Fire Disp 	Fire Dispatch (Simulcast NEXEDGE System) 	FMN 	Fire Dispatch 
+155.16000 	150.77500  	WPXC776 	RM	127.3 PL	Enid Life EMS 	Life EMS Ambulance Dispatch 	FMN 	EMS Dispatch 
+453.16250 	458.16250  	KB63903 	RM	127.3 PL	Enid Housing 	Public Housing 	FMN 	Public Works 
+153.86000 	158.95500  	WPKU565 	RM	156.7 PL	Enid PubTransit 	The Transfer -- Enid Shuttle Buses -- Public Transport 	FMN 	Transportation 
+453.32500 	   	WNSZ310 	BM		Enid Airport 	Woodring Airport 	FMN 	Public Works 
+155.04000 	158.86500  	KB63903 	RM	146.2 PL	Enid Water 	Water Department 	FMN 	Public Works 
+151.33250 	158.85000  	WQUZ292 	RM	131.8 PL	Douglas Fire 	Douglas Fire 	FMN 	Fire Dispatch 
+151.45250 	159.07500  	WQUZ292 	RM	167.9 PL	Drummond Fire 	Drummond Fire 	FMN 	Fire Dispatch 
+151.39250 	154.40750  		WQUZ292 	RM	94.8 PL	Hillsdale Fire 	Hillsdale Fire 	FMN 	Fire Dispatch 
+151.08500 	158.91000  	WQUZ292 	RM	146.2 PL	Hunter Fire 	Hunter Fire 	FMN 	Fire Dispatch 
+155.92500 	158.94000  	KNIS757 	RM	131.8 PL	Lahoma Police 	Police Dispatch 	FMN 	Law Dispatch 
+155.10000 	   	 	BM	CSQ	Waukomis Police 	Police Dispatch 	FM 	Law Tac 
+167.26250 	164.42500  	 	R	167.9 PL	FBI-Enid OK 	FBI -- Enid Office 	FM 	Federal 
+167.66250 	   	 	RM	167.9 PL	FBI-Enid OK 	FBI -- Enid Area 	FM 	Federal 
+Enid	 NXDN NEXEDGE 4800	 Enid	Garfield County	 LTR Standard	 Enid	Oklahoma Department of Transportation (ODOT)	 LTR Passport	 Various
+Oklahoma Gas and Electric	 EDACS Networked Standard	 Various	Total Com -- Enid	 LTR Standard	 Enid	United States Air Force (3D6)	 Project 25 Phase I	 Various

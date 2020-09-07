@@ -1,97 +1,97 @@
-151.22000 	WNMU915 	B	CSQ	Berks F Disp 	Berks Fire/EMS Dispatch 	FM 	Fire Dispatch 
-856.08750 	 	RM	156.7 PL	Berks Knox 	Fire Knox Box Activations (also voice interop option) 	FM 	Fire-Talk 
-155.31000 	 	RM	173.8 PL	Berks F Resp 	Fire Response (patched with trunked system) 	FMN 	Fire-Tac 
-153.81500 	WNMU915 	BM	CSQ	Berks SpcOps 	County EMA Special Ops 	FM 	Emergency Ops 
-463.07500 	 		192.8 PL	Med 4 	Eastern PA MEDCOM 	FM 	EMS-Talk 
-33.94000 	 	BM	77.0 PL	Berks 33.94 	Lowband Low Interop 	FM 	Interop 
-45.88000 	 	BM	156.7 PL	Berks 45.88 	Lowband High Interop 	FM 	Interop 
-155.07000 	 	BM	91.5 PL	Berks 070 	VHF 070 Interop 	FMN 	Interop 
-155.29500 	 	BM	173.8 PL	Berks 295 	VHF 295 Interop 	FMN 	Interop 
-769.00625 	 	M	156.7 PL	Berks7TAC1 	Berks7TAC1 	FMN 	Multi-Tac 
-769.01875 	 	M	156.7 PL	Berks7TAC2 	Berks7TAC2 	FMN 	Multi-Tac 
-769.03125 	 	M	156.7 PL	Berks7TAC3 	Berks7TAC3 	FMN 	Multi-Tac 
-769.04375 	 	M	156.7 PL	Berks7TAC4 	Berks7TAC4 	FMN 	Multi-Tac 
-769.05625 	 	M	156.7 PL	Berks7TAC5 	Berks7TAC5 	FMN 	Multi-Tac 
-769.06875 	 	M	156.7 PL	Berks7TAC6 	Berks7TAC6 	FMN 	Multi-Tac 
-774.93125 	 	M	156.7 PL	Berks7TAC7 	Berks7TAC7 	FMN 	Multi-Tac 
-774.94375 	 	M	156.7 PL	Berks7TAC8 	Berks7TAC8 	FMN 	Multi-Tac 
-774.95625 	 	M	156.7 PL	Berks7TAC9 	Berks7TAC9 	FMN 	Multi-Tac 
-774.96875 	 	M	156.7 PL	Berks7TAC10 	Berks7TAC10 	FMN 	Multi-Tac 
-774.98125 	 	M	156.7 PL	Berks7TAC11 	Berks7TAC11 	FMN 	Multi-Tac 
-774.99375 	 	M	156.7 PL	Berks7TAC12 	Berks7TAC12 	FMN 	Multi-Tac 
-151.00250 	WQGI374 	RM	192.8 PL	Blndn FC Rpt 	Blandon Fire Co. - Fireground Repeater 	FMN 	Fire-Tac 
-151.82000 	 	M	703 DPL	Blndn FC Tac 	Blandon Fire Co. - Tac 1 	FMN 	Fire-Tac 
-154.41500 	KGC946 	RM	136.5 PL	Fltwd FC XB 	Fleetwood Fire Co. - 33.68 Crossband Repeater 	FMN 	Fire-Tac 
-151.42250 	KGE647 	BM		Birds 33.68 	Friendship Fire Co., Birdsboro - 33.68 crossband repeater 	FMN 	Fire-Tac 
-155.83500 	KNGU692 	RM	173.8 PL	Shoe 33.94 	Shoemakersville Fire Co. #1 - 33.94 Crossband 	FMN 	Fire-Tac 
-151.47500 	KGD612 	RM	156.7 PL	SE Brks FD B 	Southeastern Berks Fire VHF System - Fire 'B' TRS Simulcast 	FMN 	Fire-Tac 
-155.79000 	WQGK295 	RM	156.7 PL	SE Brks Tac1 	Southeastern Berks Fire VHF System - Tac-1 Repeater 	FMN 	Fire-Tac 
-159.24000 	WQHB685 	BM	156.7 PL	SE Brks Tac2 	Southeastern Berks Fire VHF System - Tac-2 	FMN 	Fire-Tac 
-158.99250 	KGE647 	BM	156.7 PL	SE Brks Tac3 	Southeastern Berks Fire VHF System - Tac-3 	FMN 	Fire-Tac 
-154.29500 	WNGZ713 	RM	91.5 PL	Topton 3394 	Topton Fire Co. - 33.94 Crossband 	FM 	Fire-Tac 
-154.44500 	WNGZ713 	BM	91.5 PL	Topton FD 2 	Topton Fire Co. - Channel 2 	FM 	Fire-Tac 
-155.40000 	WPZP656 	RM	632 DPL	Twn Vly FD 	Twin Valley Fire Dept. -  Repeater 	FMN 	Fire-Tac 
-151.03250 	KDB374 	RM	100.0 PL	Lsprt 3394 	Union Fire Co. of Leesport - 33.94 crossband repeater 	FM 	Fire-Tac 
-154.19000 	WPSE299 	RM		Wlnttwn Fire 	Union Fire Co. of Walnuttown 	FM 	Fire-Tac 
-152.37500 	WQHB621 	RM	136.5 PL	S Brks EMS 	Southern Berks Regional EMS 	FM 	EMS-Tac 
-154.38500 	WNPX951 	BM	91.5 PL	Berks FP 1 	Berks Fire Police F-1 	FM 	Fire-Talk 
-154.38500 	WNPX951 	BM	118.8 PL	Berks FP 2 	Berks Fire Police F-2 Mobile to Mobile 	FM 	Fire-Talk 
-153.95000 	WNPX951 	BM	91.5 PL	Berks FP 3 	Berks Fire Police F-3 	FM 	Fire-Talk 
-159.27000 	WNPX951 	BM	91.5 PL	Berks FP 4 	Berks Fire Police F-4  (Repeater F-1) 	FM 	Fire-Talk 
-155.92500 	KNGJ812 	BM	91.5 PL	Brk-Leh PD 	Berks-Lehigh Regional PD 	FM 	Law Talk 
-156.18000 	WZX724 	M	162.2 PL	CB Reg PD 	Central Berks Regional Police 	FM 	Law Tac 
-153.92000 	WPIW824 	M	91.5 PL	WBRPD Tac 	Western Berks Regional Police Tac (was Wernersville PD) 	FM 	Law Tac 
-45.08000 	KXA313 	BM	107.2 PL	Albany DPW 	Highway Dept 	FM 	Public Works 
-156.18000 	 	M	CSQ	Alsace PW 	Public Works Crews 	FMN 	Public Works 
-155.94000 	KRB846 	RM	627 DPL	Bern PD 	Police Tac 	FM 	Law Tac 
-151.07000 	WPPV963 	M		Bethel PD 	Bethel Twp. Police Tac 	FM 	Law Tac 
-156.13500 	 	BM	141.3 PL	Breck PD/FD 	Police and Fire Local 	FMN 	Multi-Tac 
-154.18250 	WQAE560 	BM	664 DPL	Cmru Brks Fr A 	Berks Fire A (West) Rebroadcast 	FMN 	Fire Dispatch 
-154.96500 	WQGH434 	RM		Cumru PD 	Cumru Twp. Police - Local Repeater 	FM 	Law Tac 
-153.91530 	KCJ934 	BM	162.2 PL	Exeter PD 	Exeter Twp. Police Tac 	FM 	Law Tac 
-153.96500 	KCJ934 	BM	162.2 PL	Exeter EMA 2 	EMA 2 	FMN 	Emergency Ops 
-155.88000 	KCJ934 	RM	162.2 PL	Exeter PW/PD 	Township Shared 	FM 	Multi-Tac 
-156.10500 	KNDN932 	BM	162.2 PL	Exeter Roads 	Road Crews 	FMN 	Public Works 
-156.16500 	KNNS244 	RM	162.2 PL	Exeter EMA 1 	EMA 1 (Repeater) 	FMN 	Emergency Ops 
-155.13000 	WPBA581 	M	91.5 PL	Hamburg PD 	Police Tac 	FM 	Law Tac 
-159.15000 	 	RM	91.5 PL	Kutztwn PD 	Police Dept. - Private 	FM 	Law Talk 
-155.02500 	 	BM	74.4 PL	LongS DPW 	Public Works Crews 	FM 	Public Works 
-155.88000 	KYL680 	BM	91.5 PL	Oley PD 	Police Tac 	FM 	Law Tac 
-852.98750 	WNVL764 	RM	CSQ	Rdg PD Conv1 	City PD Conventional F-1 	FM 	Law Tac 
-856.08750 	 	RM	754 DPL	ReadingConv 	City PD "Mt Penn" 	FM 	Multi-Dispatch 
-853.86250 	WNVL764 	RM		Rdg PD Tac 1 	City Conventional TAC-1 	FM 	Law Tac 
-854.26250 	WNVL764 	RM		Rdg PD Tac 2 	City Conventional TAC-2 	FM 	Law Tac 
-154.43000 	KGE407 	BM	173.8 PL	Rdg FireDisp 	Fire Dept. - Dispatch (From 800TRS) 	FMN 	Fire Dispatch 
-453.70000 	 	RM	624 DPL	Reading Prkg 	Parking Authority 	FM 	Public Works 
-154.81500 	WQFN701 	RM	91.5 PL	Robeson PD 	Police Tac 	FM 	Law Tac 
-154.86000 	KD49748 	M	91.5 PL	Snkg Sprg PD 	Borough Police Tac 	FM 	Law Tac 
-158.84500 	WZT834 	RM	91.5 PL	S Heidlbg PD 	Twp. Police Tac 	FM 	Law Tac 
-155.19000 	WNRA682 	RM	91.5 PL	Spring PD 	Police Tac 	FM 	Law Tac 
-155.10000 	WNAV330 	BM		TildenPD Tac 	Twp. Police Tac 	FM 	Law Tac 
-460.03750 	WQIG285 	RM		Tlphckn PD 	Twp. Police Tac 	FM 	Law Tac 
-155.05500 	KNIV541 	M	123.0 PL	W Rdg PD 	West Reading Borough Police Tac 	FM 	Law Tac 
-155.31000 	WQGX288 	BM	91.5 PL	Wmlsdrf PD 	Police Tac 	FMN 	Law Tac 
-151.19000 	KGI260 	RM	173.8 PL	Wyomsng PD1 	Police Disaptch 	FMN 	Law Tac 
-462.00000 	WPWJ664 	RM	100.0 PL	BCIU 1 Trans 	Transportation 1 	FM 	Schools 
-461.85000 	WPWJ664 	RM	100.0 PL	BCIU 2 Trans 	Transportation 2 	FM 	Schools 
-451.30000 	 	RM	100.0 PL	BCIU Trans 	Transportation 	FM 	Schools 
-463.70000 	WNRK571 	RM	114.8 PL	CWASD Buses 	School Buses 	FMN 	Schools 
-501.91250 	WPTX581 	RM	141.3 PL	Oley SD Tran 	Buses 	FM 	Schools 
-154.93500 	 	RM	251 DPL	KU Police 1 	Kutztown University - Police Channel 1 	FM 	Law Dispatch 
-155.41500 	 	BM		KU Police  	Kutztown University - Police  	FM 	Law Tac 
-453.90000 	 	RM	114.8 PL	KU Ops 	Kutztown University - Operations 	FM 	Schools 
-461.57500 	 	RM	210.7 PL	KU Maint 	Kutztown University - Housekeeping & Safety 	FM 	Schools 
-464.30000 	WPGE925 	M		KU Keystone 	Kutztown University - Keystone Hall 	FM 	Schools 
-464.57500 	 	M		KU unk 	Kutztown University - unknown use 	FM 	Schools 
-466.60000 	 	M		KU Stdnt Svc 	Kutztown University - Student Services 	FM 	Schools 
-119.90000 	 	BM		KRDG Tower 	Reading Tower 	AM 	Aircraft 
-121.90000 	 	BM		KRDG Ground 	Reading Ground 	AM 	Aircraft 
-122.95000 	 	BM		Unicom 	Reading Unicom 	AM 	Aircraft 
-125.15000 	 	BM		KRDG App/Dep 	Reading Appr/Departure 	AM 	Aircraft 
-127.10000 	 	BM		KRDG ATIS 	Reading ATIS 	AM 	Aircraft 
-257.90000 	 	BM		KRDG App/Dep 	Reading Appr/Departure 	AM 	Aircraft 
-288.30000 	 	BM		KRDG Tower 	Reading Tower 	AM 	Aircraft 
-122.90000 	 	BM		Mrgntwn CTAF 	Morgantown CTAF 	AM 	Aircraft 
-Berks Area Regional Transportation Authority	 DMR Motorola Capacity Plus Single Site (TRBO)	 Reading	Berks County	 Project 25 Phase II	 Berks County	FBN Wireless (Topton)	 LTR Standard
- Topton	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)
- OpenSky 9600 baud	 Statewide	Radio Maintenance, Inc.	 NXDN NEXEDGE 4800	 Reading	
+151.22000 	   	WNMU915 	B	CSQ	Berks F Disp 	Berks Fire/EMS Dispatch 	FM 	Fire Dispatch 
+856.08750 	811.08750  	 	RM	156.7 PL	Berks Knox 	Fire Knox Box Activations (also voice interop option) 	FM 	Fire-Talk 
+155.31000 	   	 	RM	173.8 PL	Berks F Resp 	Fire Response (patched with trunked system) 	FMN 	Fire-Tac 
+153.81500 	   	WNMU915 	BM	CSQ	Berks SpcOps 	County EMA Special Ops 	FM 	Emergency Ops 
+463.07500 	468.07500  	 		192.8 PL	Med 4 	Eastern PA MEDCOM 	FM 	EMS-Talk 
+33.94000 	   	 	BM	77.0 PL	Berks 33.94 	Lowband Low Interop 	FM 	Interop 
+45.88000 	   	 	BM	156.7 PL	Berks 45.88 	Lowband High Interop 	FM 	Interop 
+155.07000 	   	 	BM	91.5 PL	Berks 070 	VHF 070 Interop 	FMN 	Interop 
+155.29500 	   	 	BM	173.8 PL	Berks 295 	VHF 295 Interop 	FMN 	Interop 
+769.00625 	   	 	M	156.7 PL	Berks7TAC1 	Berks7TAC1 	FMN 	Multi-Tac 
+769.01875 	   	 	M	156.7 PL	Berks7TAC2 	Berks7TAC2 	FMN 	Multi-Tac 
+769.03125 	   	 	M	156.7 PL	Berks7TAC3 	Berks7TAC3 	FMN 	Multi-Tac 
+769.04375 	   	 	M	156.7 PL	Berks7TAC4 	Berks7TAC4 	FMN 	Multi-Tac 
+769.05625 	   	 	M	156.7 PL	Berks7TAC5 	Berks7TAC5 	FMN 	Multi-Tac 
+769.06875 	   	 	M	156.7 PL	Berks7TAC6 	Berks7TAC6 	FMN 	Multi-Tac 
+774.93125 	   	 	M	156.7 PL	Berks7TAC7 	Berks7TAC7 	FMN 	Multi-Tac 
+774.94375 	   	 	M	156.7 PL	Berks7TAC8 	Berks7TAC8 	FMN 	Multi-Tac 
+774.95625 	   	 	M	156.7 PL	Berks7TAC9 	Berks7TAC9 	FMN 	Multi-Tac 
+774.96875 	   	 	M	156.7 PL	Berks7TAC10 	Berks7TAC10 	FMN 	Multi-Tac 
+774.98125 	   	 	M	156.7 PL	Berks7TAC11 	Berks7TAC11 	FMN 	Multi-Tac 
+774.99375 	   	 	M	156.7 PL	Berks7TAC12 	Berks7TAC12 	FMN 	Multi-Tac 
+151.00250 	156.00750  	WQGI374 	RM	192.8 PL	Blndn FC Rpt 	Blandon Fire Co. - Fireground Repeater 	FMN 	Fire-Tac 
+151.82000 	   	 	M	703 DPL	Blndn FC Tac 	Blandon Fire Co. - Tac 1 	FMN 	Fire-Tac 
+154.41500 	   	KGC946 	RM	136.5 PL	Fltwd FC XB 	Fleetwood Fire Co. - 33.68 Crossband Repeater 	FMN 	Fire-Tac 
+151.42250 	   	KGE647 	BM		Birds 33.68 	Friendship Fire Co., Birdsboro - 33.68 crossband repeater 	FMN 	Fire-Tac 
+155.83500 	   	KNGU692 	RM	173.8 PL	Shoe 33.94 	Shoemakersville Fire Co. #1 - 33.94 Crossband 	FMN 	Fire-Tac 
+151.47500 	   	KGD612 	RM	156.7 PL	SE Brks FD B 	Southeastern Berks Fire VHF System - Fire 'B' TRS Simulcast 	FMN 	Fire-Tac 
+155.79000 	159.10500  	WQGK295 	RM	156.7 PL	SE Brks Tac1 	Southeastern Berks Fire VHF System - Tac-1 Repeater 	FMN 	Fire-Tac 
+159.24000 	   	WQHB685 	BM	156.7 PL	SE Brks Tac2 	Southeastern Berks Fire VHF System - Tac-2 	FMN 	Fire-Tac 
+158.99250 	   	KGE647 	BM	156.7 PL	SE Brks Tac3 	Southeastern Berks Fire VHF System - Tac-3 	FMN 	Fire-Tac 
+154.29500 	33.94000  	WNGZ713 	RM	91.5 PL	Topton 3394 	Topton Fire Co. - 33.94 Crossband 	FM 	Fire-Tac 
+154.44500 	   	WNGZ713 	BM	91.5 PL	Topton FD 2 	Topton Fire Co. - Channel 2 	FM 	Fire-Tac 
+155.40000 	   	WPZP656 	RM	632 DPL	Twn Vly FD 	Twin Valley Fire Dept. -  Repeater 	FMN 	Fire-Tac 
+151.03250 	   	KDB374 	RM	100.0 PL	Lsprt 3394 	Union Fire Co. of Leesport - 33.94 crossband repeater 	FM 	Fire-Tac 
+154.19000 	150.79000  	WPSE299 	RM		Wlnttwn Fire 	Union Fire Co. of Walnuttown 	FM 	Fire-Tac 
+152.37500 	157.63500  	WQHB621 	RM	136.5 PL	S Brks EMS 	Southern Berks Regional EMS 	FM 	EMS-Tac 
+154.38500 	   	WNPX951 	BM	91.5 PL	Berks FP 1 	Berks Fire Police F-1 	FM 	Fire-Talk 
+154.38500 	   	WNPX951 	BM	118.8 PL	Berks FP 2 	Berks Fire Police F-2 Mobile to Mobile 	FM 	Fire-Talk 
+153.95000 	   	WNPX951 	BM	91.5 PL	Berks FP 3 	Berks Fire Police F-3 	FM 	Fire-Talk 
+159.27000 	   	WNPX951 	BM	91.5 PL	Berks FP 4 	Berks Fire Police F-4  (Repeater F-1) 	FM 	Fire-Talk 
+155.92500 	   	KNGJ812 	BM	91.5 PL	Brk-Leh PD 	Berks-Lehigh Regional PD 	FM 	Law Talk 
+156.18000 	   	WZX724 	M	162.2 PL	CB Reg PD 	Central Berks Regional Police 	FM 	Law Tac 
+153.92000 	   	WPIW824 	M	91.5 PL	WBRPD Tac 	Western Berks Regional Police Tac (was Wernersville PD) 	FM 	Law Tac 
+45.08000 	   	KXA313 	BM	107.2 PL	Albany DPW 	Highway Dept 	FM 	Public Works 
+156.18000 	   	 	M	CSQ	Alsace PW 	Public Works Crews 	FMN 	Public Works 
+155.94000 	151.08500  	KRB846 	RM	627 DPL	Bern PD 	Police Tac 	FM 	Law Tac 
+151.07000 	   	WPPV963 	M		Bethel PD 	Bethel Twp. Police Tac 	FM 	Law Tac 
+156.13500 	   	 	BM	141.3 PL	Breck PD/FD 	Police and Fire Local 	FMN 	Multi-Tac 
+154.18250 	   	WQAE560 	BM	664 DPL	Cmru Brks Fr A 	Berks Fire A (West) Rebroadcast 	FMN 	Fire Dispatch 
+154.96500 	155.88000  	WQGH434 	RM		Cumru PD 	Cumru Twp. Police - Local Repeater 	FM 	Law Tac 
+153.91530 	   	KCJ934 	BM	162.2 PL	Exeter PD 	Exeter Twp. Police Tac 	FM 	Law Tac 
+153.96500 	   	KCJ934 	BM	162.2 PL	Exeter EMA 2 	EMA 2 	FMN 	Emergency Ops 
+155.88000 	153.96500  	KCJ934 	RM	162.2 PL	Exeter PW/PD 	Township Shared 	FM 	Multi-Tac 
+156.10500 	   	KNDN932 	BM	162.2 PL	Exeter Roads 	Road Crews 	FMN 	Public Works 
+156.16500 	159.16500  	KNNS244 	RM	162.2 PL	Exeter EMA 1 	EMA 1 (Repeater) 	FMN 	Emergency Ops 
+155.13000 	   	WPBA581 	M	91.5 PL	Hamburg PD 	Police Tac 	FM 	Law Tac 
+159.15000 	   	 	RM	91.5 PL	Kutztwn PD 	Police Dept. - Private 	FM 	Law Talk 
+155.02500 	   	 	BM	74.4 PL	LongS DPW 	Public Works Crews 	FM 	Public Works 
+155.88000 	   	KYL680 	BM	91.5 PL	Oley PD 	Police Tac 	FM 	Law Tac 
+852.98750 	807.98750  	WNVL764 	RM	CSQ	Rdg PD Conv1 	City PD Conventional F-1 	FM 	Law Tac 
+856.08750 	811.08750  	 	RM	754 DPL	ReadingConv 	City PD "Mt Penn" 	FM 	Multi-Dispatch 
+853.86250 	   	WNVL764 	RM		Rdg PD Tac 1 	City Conventional TAC-1 	FM 	Law Tac 
+854.26250 	   	WNVL764 	RM		Rdg PD Tac 2 	City Conventional TAC-2 	FM 	Law Tac 
+154.43000 	   	KGE407 	BM	173.8 PL	Rdg FireDisp 	Fire Dept. - Dispatch (From 800TRS) 	FMN 	Fire Dispatch 
+453.70000 	   	 	RM	624 DPL	Reading Prkg 	Parking Authority 	FM 	Public Works 
+154.81500 	156.03000  	WQFN701 	RM	91.5 PL	Robeson PD 	Police Tac 	FM 	Law Tac 
+154.86000 	   	KD49748 	M	91.5 PL	Snkg Sprg PD 	Borough Police Tac 	FM 	Law Tac 
+158.84500 	155.98500  	WZT834 	RM	91.5 PL	S Heidlbg PD 	Twp. Police Tac 	FM 	Law Tac 
+155.19000 	159.31500  	WNRA682 	RM	91.5 PL	Spring PD 	Police Tac 	FM 	Law Tac 
+155.10000 	   	WNAV330 	BM		TildenPD Tac 	Twp. Police Tac 	FM 	Law Tac 
+460.03750 	465.03750  	WQIG285 	RM		Tlphckn PD 	Twp. Police Tac 	FM 	Law Tac 
+155.05500 	   	KNIV541 	M	123.0 PL	W Rdg PD 	West Reading Borough Police Tac 	FM 	Law Tac 
+155.31000 	   	WQGX288 	BM	91.5 PL	Wmlsdrf PD 	Police Tac 	FMN 	Law Tac 
+151.19000 	   	KGI260 	RM	173.8 PL	Wyomsng PD1 	Police Disaptch 	FMN 	Law Tac 
+462.00000 	467.00000  	WPWJ664 	RM	100.0 PL	BCIU 1 Trans 	Transportation 1 	FM 	Schools 
+461.85000 	466.85000  	WPWJ664 	RM	100.0 PL	BCIU 2 Trans 	Transportation 2 	FM 	Schools 
+451.30000 	456.30000  	 	RM	100.0 PL	BCIU Trans 	Transportation 	FM 	Schools 
+463.70000 	468.70000  	WNRK571 	RM	114.8 PL	CWASD Buses 	School Buses 	FMN 	Schools 
+501.91250 	504.91250  	WPTX581 	RM	141.3 PL	Oley SD Tran 	Buses 	FM 	Schools 
+154.93500 	   	 	RM	251 DPL	KU Police 1 	Kutztown University - Police Channel 1 	FM 	Law Dispatch 
+155.41500 	   	 	BM		KU Police  	Kutztown University - Police  	FM 	Law Tac 
+453.90000 	458.90000  	 	RM	114.8 PL	KU Ops 	Kutztown University - Operations 	FM 	Schools 
+461.57500 	466.57500  	 	RM	210.7 PL	KU Maint 	Kutztown University - Housekeeping & Safety 	FM 	Schools 
+464.30000 	   	WPGE925 	M		KU Keystone 	Kutztown University - Keystone Hall 	FM 	Schools 
+464.57500 	   	 	M		KU unk 	Kutztown University - unknown use 	FM 	Schools 
+466.60000 	   	 	M		KU Stdnt Svc 	Kutztown University - Student Services 	FM 	Schools 
+119.90000 	   	 	BM		KRDG Tower 	Reading Tower 	AM 	Aircraft 
+121.90000 	   	 	BM		KRDG Ground 	Reading Ground 	AM 	Aircraft 
+122.95000 	   	 	BM		Unicom 	Reading Unicom 	AM 	Aircraft 
+125.15000 	   	 	BM		KRDG App/Dep 	Reading Appr/Departure 	AM 	Aircraft 
+127.10000 	   	 	BM		KRDG ATIS 	Reading ATIS 	AM 	Aircraft 
+257.90000 	   	 	BM		KRDG App/Dep 	Reading Appr/Departure 	AM 	Aircraft 
+288.30000 	   	 	BM		KRDG Tower 	Reading Tower 	AM 	Aircraft 
+122.90000 	   	 	BM		Mrgntwn CTAF 	Morgantown CTAF 	AM 	Aircraft 
+Berks Area Regional Transportation Authority	 DMR Motorola Capacity Plus Single Site (TRBO)	 Reading	Berks County	 Project 25 Phase II	 Berks County	FBN Wireless (Topton)	 LTR Standard	 Topton
+Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	Pennsylvania Statewide 700MHz P25 Air-Ground	 Project 25 Phase I	 Various	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide
+Radio Maintenance, Inc.	 NXDN NEXEDGE 4800	 Reading	

@@ -1,87 +1,86 @@
-154.25000 	WQFV368 	B	CSQ	Trumbulll Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.86000 	WPGK564 	RM	91.5 PL	Trumbull Fire 1 	Fire 1 	FMN 	Fire-Tac 
-151.16750 	WQMZ282 	RM	100.0 PL	Trumbull Fire 2 	Fire 2 	FMN 	Fire-Tac 
-159.22500 	WPXX360 	RM	141.3 PL	TC CENTRAL 1 	Ops - Central agencies 	FMN 	Fire-Tac 
-155.76000 	WPXX360 	BM	141.3 PL	TC CENTRAL 2 	Ch. 2 for Central Agencies 	FMN 	Fire-Tac 
-159.06000 	 	M	CSQ	TC FGND 4 	Fireground 4 	FMN 	Fire-Tac 
-158.95500 	 	M	CSQ	TC FGND 5 	Fireground 5 	FMN 	Fire-Tac 
-155.45250 	WQMZ282 	RM	77.0 PL	TC FIRE 1OLD 	Fire 1 - Old 	FMN 	Fire-Tac 
-155.80500 	WPGK564 	B		TC EMA 	EMA 	FMN 	Emergency Ops 
-155.13000 	WPYY934 	RM	141.3 PL	TCS LE-1 	Dispatch 	FM 	Law Dispatch 
-155.53500 	WPYY934 	M	141.3 PL	TCS TAC2 	Tactical 	FM 	Law Tac 
-154.74000 	WPYY934 	BM	141.3 PL	TCS COWDE 3 	Countywide 	FM 	Law Tac 
-155.71500 	WNFD624 	BM	141.3 PL	TCS TAC9 	Ch. 9 (used by multiple agencies) 	FM 	Law Tac 
-155.45250 	WQMZ282 	RM	77.0 PL	TCSO DISP 	Main Dispatch 	FM 	Law Dispatch 
-852.55000 	WPKN893 	RM	306 DPL	TCS JAIL 	Jail 	FM 	Corrections 
-154.04000 	WQAU345 	RM	114.8 PL	HUBBARD FD 	Hubbard Fire Dispatch / Operations 	FM 	Fire Dispatch 
-154.08500 	KEO410 	RM	141.3 PL	LORDSTOWN FD 	Lordstown Fire Dispatch / Operations 	FM 	Fire Dispatch 
-154.19000 	WNRQ992 	RM	465 DPL	NILES FDISP 	Niles Fire Dispatch / Operations 	FM 	Fire Dispatch 
-154.40000 	WNRQ992 	BM	123.0 PL	NILES FTAC 	Niles Fire TAC 	FM 	Fire-Tac 
-154.43000 	KQF435 	RM	82.5 PL	LIBERTY FD 	Liberty Twp Fire Dispatch / Operations 	FM 	Fire Dispatch 
-154.43000 	KNIL445 	RM	107.2 PL	GIRARD FD 	Girard Fire Dispatch / Operations 	FM 	Fire Dispatch 
-156.22500 	KLJ229 	RM	173.8 PL	WEATHERS FD 	Weathersfield Fire Dispatch / Operations 	FM 	Fire Dispatch 
-154.43000 	KSL411 	BM	131.8 PL	MCDNLD FTAC 	McDonald Fire Pagers / TAC 	FM 	Fire-Tac 
-151.14500 	KAX358 	RM	192.8 PL	COEAST PD 1 	Fowler Twp, Hartford Twp, Orangeville, Vienna Twp Police Dispatch 	FM 	Law Dispatch 
-151.22000 	KNCE843 	RM	85.4 PL	WARREN PD 1 	Warren Police (multicast of TG 1808 from Warren TRS) 	FM 	Law Dispatch 
-153.66500 	WPKZ774 	RM	123.0 PL	NILES PD 	Niles Police Dispatch 	FM 	Law Dispatch 
-154.74000 	KQF250 	RM	114.8 PL	HUBBARD PD 1 	Hubbard Township/Village Police Dispatch 	FM 	Law Dispatch 
-154.84500 	KQE774 	RM	225.7 PL	NFALL/TWP PD 	Newton Falls/Township Police Dispatch 	FM 	Law Dispatch 
-155.13000 	WPYY934 	RM	141.3 PL	COWEST PD 1 	Bazetta Twp, Braceville Twp, Champion Twp, Johnston Twp, Kinsman, West Farmington Police Dispatch 	FM 	Law Dispatch 
-155.56500 	WPYB550 	RM	141.3 PL	HOW/CORT PD1 	Howland Twp and Cortland Police Dispatch 	FM 	Law Dispatch 
-155.59500 	KQD920 	RM	107.2 PL	GIRARD PD 1 	Girard Police Dispatch 	FM 	Law Dispatch 
-155.67000 	KBF818 	RM	114.8 PL	LIBTWP PD 1 	Liberty Township Police Dispatch 	FM 	Law Dispatch 
-155.82000 	WNDX570 	RM	141.3 PL	LRD/WT PD 1 	Lordstown, Warren Township Police Dispatch 	FM 	Law Dispatch 
-154.74000 	KQD920 	BM	107.2 PL	GIRARD PD 2 	Girard Police TAC 	FM 	Law Tac 
-154.74000 	 	BM	141.3 PL	CO WEST PTAC 	Braceville Twp, Cortland Village, Girard Gity, Howland Twp, McDonald, West Farmington Police TAC 	FM 	Law Tac 
-155.89500 	 	RM	141.3 PL	WTHSFLD PD 	Weathersfield Twp Police 	FM 	Law Dispatch 
-156.10500 	 	BM	100.0 PL	BRKFLD PTAC 	Brookfield Twp, Police TAC 	FM 	Law Tac 
-156.10500 	KNJE402 	BM	141.3 PL	BAZETTA PTAC 	Bazetta Twp Police TAC 	FM 	Law Tac 
-159.27000 	KBF818 	BM	173.8 PL	LIBTWP PTAC 	Liberty Township Police TAC 	FM 	Law Tac 
-159.36000 	WQBP983 	BM	114.8 PL	HUBBARD PTAC 	Hubbard Township/Village Police TAC 	FM 	Law Tac 
-156.00000 	KQD920 	BM	107.2 PL	GIRARD PTAC 	Girard Police TAC 	FM 	Law Tac 
-155.10000 	WNZR534 	BM	107.2 PL	McDNLD PTAC 	McDonald Police TAC/Village Services 	FM 	Law Tac 
-154.90500 	 	BM	141.3 PL	LRDTWN PTAC 	Lordstown Police TAC 	FM 	Law Tac 
-154.92000 	 	BM	141.3 PL	WTWP PTAC 	Weathersfield Township Police TAC 	FM 	Law Tac 
-155.01000 	 	BM	141.3 PL	HOWLAND PTAC 	Howland Twp Police TAC 	FM 	Law Tac 
-151.49750 	WQMZ282 	RM	114.8 PL	TC PD 2 	Police 2 	FMN 	Law Tac 
-155.43750 	 	RM	85.4 PL	MCDNLD PD 	McDonard Police Dispatch 	FMN 	Law Dispatch 
-155.45250 	WQMZ282 	RM	77.0 PL	TC PD 1 	Bazetta, Champion, Kinsman, West Farmington, Braceville PD 	FMN 	Law Dispatch 
-156.12000 	KNGG606 	BM	167.9 PL	WARTWP PTAC 	Warren Township Police TAC 	FM 	Law Tac 
-460.36250 	KGB245 	RM	173.8 PL	OH/PA Intop 	Mercer Co PA/Trumbull Co OH interop 	FM 	Interop 
-464.12500 	WNAF688 	RM	192.8 PL	LANE EMS 	Lane EMS 	FM 	EMS Dispatch 
-155.20500 	 	BM	173.8 PL	MEDSTAR 	MedStar EMS 	FM 	EMS Dispatch 
-151.77500 	WPYM617 	BM	91.5 PL	LANE EMS VHF 	Lane EMS VHF 	FM 	EMS Dispatch 
-153.90500 	WQRP217 	BM	226 DPL	MAC 2 	Mutual Aid 2 	FMN 	Interop 
-155.13000 	WPYY934 	RM	141.3 PL	MAC 1 	Mutual Aid 1 	FMN 	Interop 
-151.02500 	KQI687 	RM	131.8 PL	TC ENGINEER 	County Engineers 	FM 	Public Works 
-151.71500 	WPIX907 	M		TMHA 	Trumbull Metro Housing Authority 	FM 	Public Works 
-453.58750 	WPSJ795 	RM		MASURY MHA 	Masury Area Metro Housing Authority 	FM 	Public Works 
-453.61250 	WPSJ795 	RM		WARREN MHA 	Warren Area Metro Housing Authority 	FM 	Public Works 
-453.83750 	WPSJ795 	RM	065 DPL	NILES MHA 	Niles Area Metro Housing Authority 	FM 	Public Works 
-37.98000 	KCI743 	BM		LIBERTY SVCS 	Liberty Township Services 	FM 	Public Works 
-151.10000 	KJK805 	RM	141.3 PL	HOWLAND SVCS 	Howland Township Services 	FM 	Public Works 
-153.68000 	WPKZ774 	RM	103.5 PL	NILES SVCS 1 	Niles City Services Channel 1 	FM 	Public Works 
-155.10000 	WNZR534 	BM		MCD STREETS 	McDonald Street Department 	FM 	Public Works 
-155.71500 	WNFD624 	BM		HUBTWP SVCS 	Hubbard Township/Village Services 	FM 	Public Works 
-156.10500 	 	BM	100.0 PL	BRKFLD SVCS 	Brookfield Township Services 	FM 	Public Works 
-156.12000 	KNGB227 	RM	141.3 PL	NEWTON SVCS 	Newton Falls Village Services 	FM 	Public Works 
-156.22500 	 	RM	173.8 PL	WTHRSFLD RD 	Weathersfield Road Department 	FM 	Public Works 
-158.81250 	KAX358 	RM	192.8 PL	BRKFLD SVC 	Brookfield Twp Services 	FM 	Law Dispatch 
-159.12000 	WNDY258 	BM		CHAMP SVCS 	Champion Township Services 	FM 	Public Works 
-159.19500 	 	RM	141.3 PL	LRDSTWN SVCS 	Lordstown City Services (also used by fire and police) 	FM 	Public Works 
-159.93000 	WPKZ774 	BM	103.5 PL	NILES SVCS 2 	Niles City Services Channel 2 	FM 	Public Works 
-460.02500 	WNZE898 	RM	141.3 PL	GIRARD SVCS 	Girard City Services 	FM 	Public Works 
-460.60000 	WQFB719 	RM	226 DPL	LIBRTY ROADS 	Liberty Township Road Department 	FM 	Public Works 
-151.77500 	WNJP825 	BM	71.9 PL	Brkfld Schls 	Brookfield Schools 	FMN 	Schools 
-463.77500 	WPBT317 	RM		Girard CSD 	Girard Schools 	NXDN 	Schools 
-151.40750 	WQPF423 	BM	411 DPL	Hwlnd Schls 	Howland Schools 	FMN 	Schools 
-151.67000 	WQXU434 	RM	205 DPL	LaBraeLSD 	LaBrae Schools 	FMN 	Schools 
-461.95000 	WQIX205 	RM	173.8 PL	Lbrty Schls 	Liberty Schools 	FMN 	Schools 
-151.56500 	WQVH541 	RM	88.5 PL	McDnld LSD 	School Operations 	FMN 	Schools 
-151.79000 	WQYP255  	RM	343 DPL	Niles CSD 	Niles City Schools 	FMN 	Schools 
-154.11500 	WNNM553 	RM	77.0 PL	WrnCSD Bus 	Buses 	FMN 	Schools 
-155.20500 	WNDQ924 	BM	1 RAN	Wthrsfld LSD 	Weathersfield Local Schools 	NXDN 	Schools 
-Delphi Automotive Systems (Warren)	 Motorola Type II Smartnet	 Warren	General Motors (USA)	 DMR Motorola Connect Plus (TRBO)	 Various	General Motors Research (Lordstown)	 Motorola Type II Smartnet
- Lordstown	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	TRIconneX Connect Plus (WV-PA-OH)
- DMR Motorola Connect Plus (TRBO)	 WV-PA-OH	United States Air Force (3D6)	 Project 25 Phase I	 Various	United Telephone of Ohio	 Motorola Type II Smartnet	 Various
-Warren	 Motorola Type II Smartnet	 Warren	
+154.25000 	   	WQFV368 	B	CSQ	Trumbulll Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.86000 	156.15000  	WPGK564 	RM	91.5 PL	Trumbull Fire 1 	Fire 1 	FMN 	Fire-Tac 
+151.16750 	159.29250  	WQMZ282 	RM	100.0 PL	Trumbull Fire 2 	Fire 2 	FMN 	Fire-Tac 
+159.22500 	154.02500  	WPXX360 	RM	141.3 PL	TC CENTRAL 1 	Ops - Central agencies 	FMN 	Fire-Tac 
+155.76000 	   	WPXX360 	BM	141.3 PL	TC CENTRAL 2 	Ch. 2 for Central Agencies 	FMN 	Fire-Tac 
+159.06000 	   	 	M	CSQ	TC FGND 4 	Fireground 4 	FMN 	Fire-Tac 
+158.95500 	   	 	M	CSQ	TC FGND 5 	Fireground 5 	FMN 	Fire-Tac 
+155.45250 	159.07500  	WQMZ282 	RM	77.0 PL	TC FIRE 1OLD 	Fire 1 - Old 	FMN 	Fire-Tac 
+155.80500 	   	WPGK564 	B		TC EMA 	EMA 	FMN 	Emergency Ops 
+155.13000 	155.97000  	WPYY934 	RM	141.3 PL	TCS LE-1 	Dispatch 	FM 	Law Dispatch 
+155.53500 	   	WPYY934 	M	141.3 PL	TCS TAC2 	Tactical 	FM 	Law Tac 
+154.74000 	   	WPYY934 	BM	141.3 PL	TCS COWDE 3 	Countywide 	FM 	Law Tac 
+155.71500 	   	WNFD624 	BM	141.3 PL	TCS TAC9 	Ch. 9 (used by multiple agencies) 	FM 	Law Tac 
+155.45250 	159.07500  	WQMZ282 	RM	77.0 PL	TCSO DISP 	Main Dispatch 	FM 	Law Dispatch 
+852.55000 	807.55000  	WPKN893 	RM	306 DPL	TCS JAIL 	Jail 	FM 	Corrections 
+154.04000 	155.62500  	WQAU345 	RM	114.8 PL	HUBBARD FD 	Hubbard Fire Dispatch / Operations 	FM 	Fire Dispatch 
+154.08500 	158.84250  	KEO410 	RM	141.3 PL	LORDSTOWN FD 	Lordstown Fire Dispatch / Operations 	FM 	Fire Dispatch 
+154.19000 	158.76000  	WNRQ992 	RM	465 DPL	NILES FDISP 	Niles Fire Dispatch / Operations 	FM 	Fire Dispatch 
+154.40000 	   	WNRQ992 	BM	123.0 PL	NILES FTAC 	Niles Fire TAC 	FM 	Fire-Tac 
+154.43000 	159.31500  	KQF435 	RM	82.5 PL	LIBERTY FD 	Liberty Twp Fire Dispatch / Operations 	FM 	Fire Dispatch 
+154.43000 	158.88000  	KNIL445 	RM	107.2 PL	GIRARD FD 	Girard Fire Dispatch / Operations 	FM 	Fire Dispatch 
+156.22500 	153.84500  	KLJ229 	RM	173.8 PL	WEATHERS FD 	Weathersfield Fire Dispatch / Operations 	FM 	Fire Dispatch 
+154.43000 	   	KSL411 	BM	131.8 PL	MCDNLD FTAC 	McDonald Fire Pagers / TAC 	FM 	Fire-Tac 
+151.14500 	155.10000  	KAX358 	RM	192.8 PL	COEAST PD 1 	Fowler Twp, Hartford Twp, Orangeville, Vienna Twp Police Dispatch 	FM 	Law Dispatch 
+151.22000 	155.85000  	KNCE843 	RM	85.4 PL	WARREN PD 1 	Warren Police (multicast of TG 1808 from Warren TRS) 	FM 	Law Dispatch 
+153.66500 	160.93500  	WPKZ774 	RM	123.0 PL	NILES PD 	Niles Police Dispatch 	FM 	Law Dispatch 
+154.74000 	159.42000  	KQF250 	RM	114.8 PL	HUBBARD PD 1 	Hubbard Township/Village Police Dispatch 	FM 	Law Dispatch 
+154.84500 	155.91000  	KQE774 	RM	225.7 PL	NFALL/TWP PD 	Newton Falls/Township Police Dispatch 	FM 	Law Dispatch 
+155.13000 	155.97000  	WPYY934 	RM	141.3 PL	COWEST PD 1 	Bazetta Twp, Braceville Twp, Champion Twp, Johnston Twp, Kinsman, West Farmington Police Dispatch 	FM 	Law Dispatch 
+155.56500 	154.95000  	WPYB550 	RM	141.3 PL	HOW/CORT PD1 	Howland Twp and Cortland Police Dispatch 	FM 	Law Dispatch 
+155.59500 	154.77000  	KQD920 	RM	107.2 PL	GIRARD PD 1 	Girard Police Dispatch 	FM 	Law Dispatch 
+155.67000 	158.94000  	KBF818 	RM	114.8 PL	LIBTWP PD 1 	Liberty Township Police Dispatch 	FM 	Law Dispatch 
+155.82000 	153.74000  	WNDX570 	RM	141.3 PL	LRD/WT PD 1 	Lordstown, Warren Township Police Dispatch 	FM 	Law Dispatch 
+154.74000 	   	KQD920 	BM	107.2 PL	GIRARD PD 2 	Girard Police TAC 	FM 	Law Tac 
+154.74000 	   	 	BM	141.3 PL	CO WEST PTAC 	Braceville Twp, Cortland Village, Girard Gity, Howland Twp, McDonald, West Farmington Police TAC 	FM 	Law Tac 
+155.89500 	153.78500  	 	RM	141.3 PL	WTHSFLD PD 	Weathersfield Twp Police 	FM 	Law Dispatch 
+156.10500 	   	 	BM	100.0 PL	BRKFLD PTAC 	Brookfield Twp, Police TAC 	FM 	Law Tac 
+156.10500 	   	KNJE402 	BM	141.3 PL	BAZETTA PTAC 	Bazetta Twp Police TAC 	FM 	Law Tac 
+159.27000 	   	KBF818 	BM	173.8 PL	LIBTWP PTAC 	Liberty Township Police TAC 	FM 	Law Tac 
+159.36000 	   	WQBP983 	BM	114.8 PL	HUBBARD PTAC 	Hubbard Township/Village Police TAC 	FM 	Law Tac 
+156.00000 	   	KQD920 	BM	107.2 PL	GIRARD PTAC 	Girard Police TAC 	FM 	Law Tac 
+155.10000 	   	WNZR534 	BM	107.2 PL	McDNLD PTAC 	McDonald Police TAC/Village Services 	FM 	Law Tac 
+154.90500 	   	 	BM	141.3 PL	LRDTWN PTAC 	Lordstown Police TAC 	FM 	Law Tac 
+154.92000 	   	 	BM	141.3 PL	WTWP PTAC 	Weathersfield Township Police TAC 	FM 	Law Tac 
+155.01000 	   	 	BM	141.3 PL	HOWLAND PTAC 	Howland Twp Police TAC 	FM 	Law Tac 
+151.49750 	159.44250  	WQMZ282 	RM	114.8 PL	TC PD 2 	Police 2 	FMN 	Law Tac 
+155.43750 	154.65750  	 	RM	85.4 PL	MCDNLD PD 	McDonard Police Dispatch 	FMN 	Law Dispatch 
+155.45250 	159.07500  	WQMZ282 	RM	77.0 PL	TC PD 1 	Bazetta, Champion, Kinsman, West Farmington, Braceville PD 	FMN 	Law Dispatch 
+156.12000 	   	KNGG606 	BM	167.9 PL	WARTWP PTAC 	Warren Township Police TAC 	FM 	Law Tac 
+460.36250 	465.36250  	KGB245 	RM	173.8 PL	OH/PA Intop 	Mercer Co PA/Trumbull Co OH interop 	FM 	Interop 
+464.12500 	469.12500  	WNAF688 	RM	192.8 PL	LANE EMS 	Lane EMS 	FM 	EMS Dispatch 
+155.20500 	   	 	BM	173.8 PL	MEDSTAR 	MedStar EMS 	FM 	EMS Dispatch 
+151.77500 	   	WPYM617 	BM	91.5 PL	LANE EMS VHF 	Lane EMS VHF 	FM 	EMS Dispatch 
+153.90500 	   	WQRP217 	BM	226 DPL	MAC 2 	Mutual Aid 2 	FMN 	Interop 
+155.13000 	155.97000  	WPYY934 	RM	141.3 PL	MAC 1 	Mutual Aid 1 	FMN 	Interop 
+151.02500 	   	KQI687 	RM	131.8 PL	TC ENGINEER 	County Engineers 	FM 	Public Works 
+151.71500 	   	WPIX907 	M		TMHA 	Trumbull Metro Housing Authority 	FM 	Public Works 
+453.58750 	458.58750  	WPSJ795 	RM		MASURY MHA 	Masury Area Metro Housing Authority 	FM 	Public Works 
+453.61250 	458.61250  	WPSJ795 	RM		WARREN MHA 	Warren Area Metro Housing Authority 	FM 	Public Works 
+453.83750 	458.83750  	WPSJ795 	RM	065 DPL	NILES MHA 	Niles Area Metro Housing Authority 	FM 	Public Works 
+37.98000 	   	KCI743 	BM		LIBERTY SVCS 	Liberty Township Services 	FM 	Public Works 
+151.10000 	156.06000  	KJK805 	RM	141.3 PL	HOWLAND SVCS 	Howland Township Services 	FM 	Public Works 
+153.68000 	159.78000  	WPKZ774 	RM	103.5 PL	NILES SVCS 1 	Niles City Services Channel 1 	FM 	Public Works 
+155.10000 	   	WNZR534 	BM		MCD STREETS 	McDonald Street Department 	FM 	Public Works 
+155.71500 	   	WNFD624 	BM		HUBTWP SVCS 	Hubbard Township/Village Services 	FM 	Public Works 
+156.10500 	   	 	BM	100.0 PL	BRKFLD SVCS 	Brookfield Township Services 	FM 	Public Works 
+156.12000 	159.01500  	KNGB227 	RM	141.3 PL	NEWTON SVCS 	Newton Falls Village Services 	FM 	Public Works 
+156.22500 	153.84500  	 	RM	173.8 PL	WTHRSFLD RD 	Weathersfield Road Department 	FM 	Public Works 
+158.81250 	155.91250  	KAX358 	RM	192.8 PL	BRKFLD SVC 	Brookfield Twp Services 	FM 	Law Dispatch 
+159.12000 	   	WNDY258 	BM		CHAMP SVCS 	Champion Township Services 	FM 	Public Works 
+159.19500 	153.92000  	 	RM	141.3 PL	LRDSTWN SVCS 	Lordstown City Services (also used by fire and police) 	FM 	Public Works 
+159.93000 	   	WPKZ774 	BM	103.5 PL	NILES SVCS 2 	Niles City Services Channel 2 	FM 	Public Works 
+460.02500 	465.02500  	WNZE898 	RM	141.3 PL	GIRARD SVCS 	Girard City Services 	FM 	Public Works 
+460.60000 	465.60000  	WQFB719 	RM	226 DPL	LIBRTY ROADS 	Liberty Township Road Department 	FM 	Public Works 
+151.77500 	   	WNJP825 	BM	71.9 PL	Brkfld Schls 	Brookfield Schools 	FMN 	Schools 
+463.77500 	468.77500  	WPBT317 	RM		Girard CSD 	Girard Schools 	NXDN 	Schools 
+151.40750 	   	WQPF423 	BM	411 DPL	Hwlnd Schls 	Howland Schools 	FMN 	Schools 
+151.67000 	159.49500  	WQXU434 	RM	205 DPL	LaBraeLSD 	LaBrae Schools 	FMN 	Schools 
+461.95000 	466.95000  	WQIX205 	RM	173.8 PL	Lbrty Schls 	Liberty Schools 	FMN 	Schools 
+151.56500 	158.34000  	WQVH541 	RM	88.5 PL	McDnld LSD 	School Operations 	FMN 	Schools 
+151.79000 	159.87000  	WQYP255  	RM	343 DPL	Niles CSD 	Niles City Schools 	FMN 	Schools 
+154.11500 	156.03750  	WNNM553 	RM	77.0 PL	WrnCSD Bus 	Buses 	FMN 	Schools 
+155.20500 	   	WNDQ924 	BM	1 RAN	Wthrsfld LSD 	Weathersfield Local Schools 	NXDN 	Schools 
+Delphi Automotive Systems (Warren)	 Motorola Type II Smartnet	 Warren	General Motors (USA)	 DMR Motorola Connect Plus (TRBO)	 Various	General Motors Research (Lordstown)	 Motorola Type II Smartnet	 Lordstown
+Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	TRIconneX Connect Plus (WV-PA-OH)	 DMR Motorola Connect Plus (TRBO)	 WV-PA-OH
+United States Air Force (3D6)	 Project 25 Phase I	 Various	United Telephone of Ohio	 Motorola Type II Smartnet	 Various	Warren	 Motorola Type II Smartnet	 Warren

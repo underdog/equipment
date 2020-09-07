@@ -1,62 +1,61 @@
-159.22500 	WPPG733 	RM	CSQ	Bureau 911 Page 	Fire: Tone-Outs  	FMN 	Fire Dispatch 
-154.01000 	WPQB869 	RM	127.3 PL	Bureau 911 East 	Fire/EMS: Spring Valley Paging (Eastern - Princeton) 	FMN 	Fire Dispatch 
-154.01000 	WPQB869 	RM	88.5 PL	Bureau 911 West 	Fire/EMS: Providence Paging (Western - Providence) 	FMN 	Fire Dispatch 
-154.01000 	WPQB869 	RM	97.4 PL	Bureau 911 Nrth 	Fire/EMS: Ohio Paging (Northern - Ohio) 	FMN 	Fire Dispatch 
-151.19000 	WPPG733 	RM	103.5 PL	Bureau Fire 	Fire: Dispatch/Response 	FMN 	Fire Dispatch 
-154.16000 	KNCF680 	RM	67.0 PL	Bure FireNet 	Fire: Local Ops [FireNet] 	FMN 	Fire-Tac 
-154.19000 	 	BM		Bureau FG 	Fireground (Countywide?) 	FMN 	Fire-Tac 
-151.22000 	WPPG733 	RM	186.2 PL	Bureau EMS 	EMS: Dispatch/Response 	FMN 	EMS Dispatch 
-151.32500 	WPPG733 	RM	127.3 PL	Bure Shrf/Rural1 	Sheriff: Dispatch / Rural Law [Ch 1] 	FMN 	Law Dispatch 
-155.43000 	KSA877 	BM	123.0 PL	Bure Shrf/Jail 2 	Sheriff: Jail Ops [Ch 2] 	FMN 	Corrections 
-154.65000 	KSA877 	M	123.0 PL	Bure Shrf c2c3 	Sheriff: Car-to-Car [Ch 3] 	FMN 	Law Talk 
-154.81500 	KSA877 	M	123.0 PL	Bure Shrf c2c4 	Sheriff: Car-to-Car [Ch 4] (Low Power) 	FMN 	Law Talk 
-158.83500 	KZZ967 	BM	192.8 PL	Bureau EMA 	EMA: Operations 	FMN 	Emergency Ops 
-152.28500 	WQBB433 	M	88.5 PL	I-WARN 1 	Weather/SAR Ops (statewide) 	FMN 	Emergency Ops 
-155.20500 	WQCI585 	M	210.7 PL	SARMA 1 	Search and Rescue Mutual Aid (Statewide) 	FMN 	Emergency Ops 
-157.54500 	WQBB433 	BM	136.5 PL	SARMA Tac 	Search and Rescue Mutual Aid -- Tac (Statewide) 	FMN 	Emergency Ops 
-156.24000 	WPCD739 	RM	192.8 PL	Bureau Highway  	Highway Department 	FMN 	Public Works 
-154.01000 	WPQB869 	RM	107.2 PL	Bureau 911 10-33 	10-33 Ambulance Dispatch 	FMN 	EMS Dispatch 
-151.22000 	WPPG733 	RM	186.2 PL	10-33 EMS 	EMS: Countywide Response/Operations 	FMN 	EMS Dispatch 
-155.20500 	KZF751 	BM	162.2 PL	10-33 EMS F1 	EMS: Secondary [Ch 1] 	FMN 	EMS-Tac 
-155.34000 	KWH771 	BM	179.9 PL	MERCI1 179.9 	Patient Reports 	FMN 	Hospital 
-155.16000 	WPMW402 	BM	179.9 PL	MERCI3 179.9 	Patient Reports 	FMN 	Hospital 
-155.34000 	WQGH694 	BM	162.2 PL	MERCI-1 1622 	Patient Reports 	FMN 	Hospital 
-464.80000 	WNKN943 	BM		StMH Paging 	Paging (CSQ) 	FMN 	Data 
-154.22000 	WPGU876 	BM		Buda Fire 2 	Fire: Local-Alternate 	FMN 	Fire-Tac 
-460.31250 	 	M		Cherry Police MX 	Police: Mobile Extenders [No license] 	FMN 	Law Tac 
-154.37000 	 	M		Cherry Fire2 	Fire: Local/Alternate 	FMN 	Fire-Tac 
-154.31000 	KFX255 	RM		LaMoille Fire  	Fire: Local/Alternate 	FMN 	Fire-Tac 
-155.10750 	WRAV421 		CC 8TG 800SL 1	Ladd Police 	Police Dispatch 	DMR 	Law Dispatch 
-456.86250 	WQFP807 	M		Ladd WDD 	Water Distribution Data  	Telm 	Public Works 
-155.83500 	WNHY203 	BM		Ladd PublicWrks  	Public Works (or 155.865?) 	FMN 	Public Works 
-151.43000 	WPPG733 	F		Malden Fire 	Fire: Paging (By County) 	FMN 	Fire Dispatch 
-154.23500 	KJD352 	BM		Manlius Fire 	Fire: Local/Alternate 	FMN 	Fire-Tac 
-152.39000 	WPWA370 	RM		Manlius EMS 	EMS: Operations 	FMN 	EMS Dispatch 
-451.05000 	WPML729 	F		Manlius WDD 	Water Distribution Data  	Telm 	Data 
-155.56500 	WPKC296 	BM	146.2 PL	Prin Police c2c2 	Police: Car-to-Car [Ch 2] 	FMN 	Law Tac 
-151.14500 	KLN232 	RM	343 DPL	Princom Fire 1  	Fire: Dispatch [Ch 1] 	FMN 	Fire Dispatch 
-154.10000 	KCJ498 	M	223 DPL	Princom Fire 2  	Fire: Fireground/Truck-to-Truck [Ch 2] 	FMN 	Fire-Tac 
-154.01000 	 	RM	103.5 PL	Bureau Fire 	Fire: County 911 	FMN 	Fire Dispatch 
-154.19000 	KCJ498 	BM	179.9 PL	Princeton Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.26500 	KCJ498 	BM	179.9 PL	IFERN 179.9 	Fireground / Fire: Statewide Mutual Aid (MABAS) 	FMN 	Fire-Talk 
-155.22000 	KLN232 	BM	179.9 PL	Princeton EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-151.40000 	WPSS409 	RM	110.9 PL	SpVal Police 1 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-155.53500 	WNFA461 	BM	110.9 PL	SpVal Police 2 	Police: Alternate [Ch 2] 	FMN 	Law Tac 
-156.10500 	KAA273 	RM	173.8 PL	SpringVally Fire 	Fire: Operations 	FMN 	Fire Dispatch 
-154.19000 	KAA273 	BM	100.0 PL	SpringValley FG 	Fireground / Backup Paging 	FMN 	Fire-Tac 
-151.19000 	 	RM	103.5 PL	SpringVal Fire 	Fire 	FMN 	Fire Dispatch 
-151.11500 	KNDS637 	BM		SprngVal Streets 	Street Department 	FMN 	Public Works 
-452.21250 	WPRR427 	BM		SpringVal Water2 	Water Department Ops/Data 	FMN 	Public Works 
-158.76000 	WNXE950 	RM	179.9 PL	Tiskilwa Fire  	Fire: Local/Alternate 	FMN 	Fire-Tac 
-154.96500 	WQMP799 	RM		Walnut Police  	Police (173.2375 Extenders) 	FMN 	Law Dispatch 
-154.16000 	KNDS841 	RM	103.5 PL	Walnut Fire 	Fire: Local / Alternate 	FMN 	Fire-Tac 
-463.82500 	 	RM	162.2 PL	Walnut PbWk/ESDA 	Public Works / ESDA [No license] 	FMN 	Emergency Ops 
-155.19000 	WPVU772 	BM		Wyanet Police 	Police: Local/Alternate 	FMN 	Law Tac 
-158.80500 	WPUV855 	RM	156.7 PL	Wyanet Fire 	Fire: Local/Alternate 	FMN 	Fire-Tac 
-464.88750 	WQCU510 	RM		ICSBus Cherry 	Bus Transportation (Cherry) 	FMN 	Schools 
-452.35000 	WPMA945 	RM		BurValley School 	Operations 	FMN 	Schools 
-152.44250 	WQLY426 	RM		Dalzell Schools 	Elementary Operations 	FMN 	Schools 
-461.25000 	WPKL959 	RM	107.2 PL	Prnctn E School 	Elementary Schools: Buses / Maintenance 	FMN 	Schools 
-462.00000 	WNQV617 	RM	103.5 PL	Prnctn H School 	High School District 500: Buses / Maintenance 	FMN 	Schools 
-Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Princeton IL Government	 DMR Motorola Capacity Plus Single Site (TRBO)
- Princeton	
+159.22500 	151.43000  	WPPG733 	RM	CSQ	Bureau 911 Page 	Fire: Tone-Outs  	FMN 	Fire Dispatch 
+154.01000 	150.77500  	WPQB869 	RM	127.3 PL	Bureau 911 East 	Fire/EMS: Spring Valley Paging (Eastern - Princeton) 	FMN 	Fire Dispatch 
+154.01000 	150.77500  	WPQB869 	RM	88.5 PL	Bureau 911 West 	Fire/EMS: Providence Paging (Western - Providence) 	FMN 	Fire Dispatch 
+154.01000 	150.77500  	WPQB869 	RM	97.4 PL	Bureau 911 Nrth 	Fire/EMS: Ohio Paging (Northern - Ohio) 	FMN 	Fire Dispatch 
+151.19000 	159.45000  	WPPG733 	RM	103.5 PL	Bureau Fire 	Fire: Dispatch/Response 	FMN 	Fire Dispatch 
+154.16000 	158.89500  	KNCF680 	RM	67.0 PL	Bure FireNet 	Fire: Local Ops [FireNet] 	FMN 	Fire-Tac 
+154.19000 	   	 	BM		Bureau FG 	Fireground (Countywide?) 	FMN 	Fire-Tac 
+151.22000 	159.24000  	WPPG733 	RM	186.2 PL	Bureau EMS 	EMS: Dispatch/Response 	FMN 	EMS Dispatch 
+151.32500 	154.96500  	WPPG733 	RM	127.3 PL	Bure Shrf/Rural1 	Sheriff: Dispatch / Rural Law [Ch 1] 	FMN 	Law Dispatch 
+155.43000 	   	KSA877 	BM	123.0 PL	Bure Shrf/Jail 2 	Sheriff: Jail Ops [Ch 2] 	FMN 	Corrections 
+154.65000 	   	KSA877 	M	123.0 PL	Bure Shrf c2c3 	Sheriff: Car-to-Car [Ch 3] 	FMN 	Law Talk 
+154.81500 	   	KSA877 	M	123.0 PL	Bure Shrf c2c4 	Sheriff: Car-to-Car [Ch 4] (Low Power) 	FMN 	Law Talk 
+158.83500 	   	KZZ967 	BM	192.8 PL	Bureau EMA 	EMA: Operations 	FMN 	Emergency Ops 
+152.28500 	   	WQBB433 	M	88.5 PL	I-WARN 1 	Weather/SAR Ops (statewide) 	FMN 	Emergency Ops 
+155.20500 	   	WQCI585 	M	210.7 PL	SARMA 1 	Search and Rescue Mutual Aid (Statewide) 	FMN 	Emergency Ops 
+157.54500 	   	WQBB433 	BM	136.5 PL	SARMA Tac 	Search and Rescue Mutual Aid -- Tac (Statewide) 	FMN 	Emergency Ops 
+156.24000 	159.06000  	WPCD739 	RM	192.8 PL	Bureau Highway  	Highway Department 	FMN 	Public Works 
+154.01000 	150.77500  	WPQB869 	RM	107.2 PL	Bureau 911 10-33 	10-33 Ambulance Dispatch 	FMN 	EMS Dispatch 
+151.22000 	159.24000  	WPPG733 	RM	186.2 PL	10-33 EMS 	EMS: Countywide Response/Operations 	FMN 	EMS Dispatch 
+155.20500 	   	KZF751 	BM	162.2 PL	10-33 EMS F1 	EMS: Secondary [Ch 1] 	FMN 	EMS-Tac 
+155.34000 	   	KWH771 	BM	179.9 PL	MERCI1 179.9 	Patient Reports 	FMN 	Hospital 
+155.16000 	   	WPMW402 	BM	179.9 PL	MERCI3 179.9 	Patient Reports 	FMN 	Hospital 
+155.34000 	   	WQGH694 	BM	162.2 PL	MERCI-1 1622 	Patient Reports 	FMN 	Hospital 
+464.80000 	   	WNKN943 	BM		StMH Paging 	Paging (CSQ) 	FMN 	Data 
+154.22000 	   	WPGU876 	BM		Buda Fire 2 	Fire: Local-Alternate 	FMN 	Fire-Tac 
+460.31250 	   	 	M		Cherry Police MX 	Police: Mobile Extenders [No license] 	FMN 	Law Tac 
+154.37000 	   	 	M		Cherry Fire2 	Fire: Local/Alternate 	FMN 	Fire-Tac 
+154.31000 	150.79000  	KFX255 	RM		LaMoille Fire  	Fire: Local/Alternate 	FMN 	Fire-Tac 
+155.10750 	   	WRAV421 		CC 8TG 800SL 1	Ladd Police 	Police Dispatch 	DMR 	Law Dispatch 
+456.86250 	   	WQFP807 	M		Ladd WDD 	Water Distribution Data  	Telm 	Public Works 
+155.83500 	   	WNHY203 	BM		Ladd PublicWrks  	Public Works (or 155.865?) 	FMN 	Public Works 
+151.43000 	   	WPPG733 	F		Malden Fire 	Fire: Paging (By County) 	FMN 	Fire Dispatch 
+154.23500 	   	KJD352 	BM		Manlius Fire 	Fire: Local/Alternate 	FMN 	Fire-Tac 
+152.39000 	157.65000  	WPWA370 	RM		Manlius EMS 	EMS: Operations 	FMN 	EMS Dispatch 
+451.05000 	   	WPML729 	F		Manlius WDD 	Water Distribution Data  	Telm 	Data 
+155.56500 	   	WPKC296 	BM	146.2 PL	Prin Police c2c2 	Police: Car-to-Car [Ch 2] 	FMN 	Law Tac 
+151.14500 	156.06750  	KLN232 	RM	343 DPL	Princom Fire 1  	Fire: Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+154.10000 	   	KCJ498 	M	223 DPL	Princom Fire 2  	Fire: Fireground/Truck-to-Truck [Ch 2] 	FMN 	Fire-Tac 
+154.01000 	150.77500  	 	RM	103.5 PL	Bureau Fire 	Fire: County 911 	FMN 	Fire Dispatch 
+154.19000 	   	KCJ498 	BM	179.9 PL	Princeton Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.26500 	   	KCJ498 	BM	179.9 PL	IFERN 179.9 	Fireground / Fire: Statewide Mutual Aid (MABAS) 	FMN 	Fire-Talk 
+155.22000 	   	KLN232 	BM	179.9 PL	Princeton EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+151.40000 	155.91000  	WPSS409 	RM	110.9 PL	SpVal Police 1 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+155.53500 	   	WNFA461 	BM	110.9 PL	SpVal Police 2 	Police: Alternate [Ch 2] 	FMN 	Law Tac 
+156.10500 	159.27750  	KAA273 	RM	173.8 PL	SpringVally Fire 	Fire: Operations 	FMN 	Fire Dispatch 
+154.19000 	   	KAA273 	BM	100.0 PL	SpringValley FG 	Fireground / Backup Paging 	FMN 	Fire-Tac 
+151.19000 	159.45000  	 	RM	103.5 PL	SpringVal Fire 	Fire 	FMN 	Fire Dispatch 
+151.11500 	   	KNDS637 	BM		SprngVal Streets 	Street Department 	FMN 	Public Works 
+452.21250 	   	WPRR427 	BM		SpringVal Water2 	Water Department Ops/Data 	FMN 	Public Works 
+158.76000 	153.90500  	WNXE950 	RM	179.9 PL	Tiskilwa Fire  	Fire: Local/Alternate 	FMN 	Fire-Tac 
+154.96500 	151.29500  	WQMP799 	RM		Walnut Police  	Police (173.2375 Extenders) 	FMN 	Law Dispatch 
+154.16000 	150.80500  	KNDS841 	RM	103.5 PL	Walnut Fire 	Fire: Local / Alternate 	FMN 	Fire-Tac 
+463.82500 	468.82500  	 	RM	162.2 PL	Walnut PbWk/ESDA 	Public Works / ESDA [No license] 	FMN 	Emergency Ops 
+155.19000 	   	WPVU772 	BM		Wyanet Police 	Police: Local/Alternate 	FMN 	Law Tac 
+158.80500 	153.74000  	WPUV855 	RM	156.7 PL	Wyanet Fire 	Fire: Local/Alternate 	FMN 	Fire-Tac 
+464.88750 	469.88750  	WQCU510 	RM		ICSBus Cherry 	Bus Transportation (Cherry) 	FMN 	Schools 
+452.35000 	457.35000  	WPMA945 	RM		BurValley School 	Operations 	FMN 	Schools 
+152.44250 	157.70250  	WQLY426 	RM		Dalzell Schools 	Elementary Operations 	FMN 	Schools 
+461.25000 	466.25000  	WPKL959 	RM	107.2 PL	Prnctn E School 	Elementary Schools: Buses / Maintenance 	FMN 	Schools 
+462.00000 	467.00000  	WNQV617 	RM	103.5 PL	Prnctn H School 	High School District 500: Buses / Maintenance 	FMN 	Schools 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Princeton IL Government	 DMR Motorola Capacity Plus Single Site (TRBO)	 Princeton

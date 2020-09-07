@@ -1,39 +1,38 @@
-153.86000 	KNCU968 	B	107.2 PL	Lee FR1 	Fire/Rescue Dispatch (Simulcast TRS) 	FM 	Fire Dispatch 
-154.32500 	WNBX298 	B	CSQ	Lee FR3 	Fire/Rescue Dispatch-3 (Simulcast TRS) 	FM 	Fire Dispatch 
-463.07500 	WSL442 	RM	110.9 PL	MED-4 	County Medical Coordination 	FM 	EMS-Tac 
-463.06250 	WQCP818 	RM	110.9 PL	MED-32 	EMS-to-Cape Coral Hospital 	FM 	Hospital 
-463.13750 	WQCP818 	RM	110.9 PL	MED-62 	EMS-to-Gulf Coast Hospital 	FM 	Hospital 
-463.05000 	WSL442 	RM	110.9 PL	MED-3 	EMS-to-Healthpark Medical Center/Lee Memorial 	FM 	Hospital 
-463.07500 	WSL442 	RM	110.9 PL	MED-42 	EMS-to-Lee Memorial Hospital 	FM 	Hospital 
-463.11250 	WQCP818 	RM	110.9 PL	MED-52 	EMS-to-Lehigh Regional Medical Center 	FM 	Hospital 
-463.12500 	WSL442 	RM	110.9 PL	MED-6 	EMS-to-Southwest Florida Regional Medical Center 	FM 	Hospital 
-158.76000 	KIX496 	RM	114.8 PL	Lee Mosquito 	Mosquito Control 	FM 	Public Works 
-151.00250 	WQMQ893 	RM	025 DPL	Three Oaks  	Three Oaks Elementary 	FMN 	Schools 
-158.92500 	WQGP394 	RM	226 DPL	Pelican ES 	Pelican Elementary 	FMN 	Schools 
-453.12500 	WQOB482 	RM	205 DPL	Cypress Lake 	Cypress Lake High 	FMN 	Schools 
-453.31250 	WQIF865 	RM	346 DPL	Oak Hammock  	Oak Hammock Middle  	FMN 	Schools 
-453.38750 	WQPT961 	RM	245 DPL	Lehigh SHS 	Lehigh Senior High 	FMN 	Schools 
-453.52500 	WQPT962 	RM	371 DPL	Riverdale HS 	Riverdale High School (Fort Myers) 	FMN 	Schools 
-453.85000 	WQRC710 	RM	226 DPL	Diplomat MS 	Diplomat Middle 	FMN 	Schools 
-460.05000 	WQGE949 	RM	465 DPL	Villas ES 	Villas Elementary 	FMN 	Schools 
-460.07500 	WQGE948 	RM	431 DPL	Sunshine ES 	Sunshine Elementary 	FMN 	Schools 
-460.15000 	WQLU473 	RM	627 DPL	Treeline ES 	Treeline Elementary 	FMN 	Schools 
-460.30000 	WQGE950 	RM	065 DPL	Orange River 	Orange River Elementary 	FMN 	Schools 
-460.35000 	WQRC484 	RM	255 DPL	FMMA 	Fort Myers Middle Academy 	FMN 	Schools 
-460.36250 	WQUT705 	RM	165 DPL	CapeCoral HS 	Cape Coral High  	FMN 	Schools 
-460.47500 	WQOA616 	RM	94.8 PL	Fort MyersTC 	Fort Myers Technical College 	FMN 	Schools 
-463.72500 	WQGQ963 	RM	155 DPL	ELCHS 	East Lee County High  	FMN 	Schools 
-464.25000 	WPUU358 	RM	CC 1TG 100SL 1	Dunbar HS  	Dunbar High School 	DMR 	Business 
-855.73750 	WQDK906 	RM	411 DPL	BocaGrandeFD 	Fire (Simulcast of Lee County Fire TAC-1) 	FM 	Fire Dispatch 
-453.70000 	KSZ465 	RM	123.0 PL	CapeCoral Ops 	City Services - Operations  	FM 	Public Works 
-453.97500 	KSZ465 	RM	156.7 PL	CapeCoralPW 	Public Works 	FMN 	Public Works 
-155.92500 	WNFV737 	RM	506 DPL	FM Housing 	Housing Authority 	FM 	Public Works 
-154.43000 	KGU686 	B	107.2 PL	FMS FR Disp 	Fire/EMS Dispatch (Simulcast from TRS) 	FM 	Fire Dispatch 
-154.02500 	WQDA256 	B	107.2 PL	Lee FR3 	Fire/Rescue Dispatch (Simulcast from TRS)  	FM 	Fire Dispatch 
-Argos Ready-Mix	 LTR Standard	 Estero	Florida Power and Light (P25)	 Project 25 Phase II	 Varies	Gator Two Way	 LTR Standard
- Estero	Industrial Communications and Electronics	 DMR Motorola Connect Plus (TRBO)	 North Miami	Lee County Government 1	 Motorola Type II	 Fort Myers	Lee County Government 2
- Motorola Type II	 Fort Myers	Lee County Government 3	 Motorola Type II	 Lee County	Lee County Public Safety (Motorola)	 Motorola Type II Smartnet	 Lee County
-Lee County Public Safety (P25)	 Project 25 Phase I	 Fort Myers	Lightning Wireless (LTR)	 LTR Standard	 Bonita Springs	Lightning Wireless Solutions	 DMR Motorola Capacity Plus Single Site (TRBO)
- Bonita Springs	Qualicom	 LTR Standard	 Punta Rassa	Rinker Materials (Bonita Springs Ready-Mix)	 LTR Standard	 Estero	Rinker Materials (Pine Island)
- LTR Standard	 Rotonda	School District Of Lee County	 LTR Passport	 Fort Myers	Schwab Ready-Mix	 LTR Standard	 Bonita Springs
-Spectrum Wireless (Naples)	 LTR Standard	 Naples	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	
+153.86000 	   	KNCU968 	B	107.2 PL	Lee FR1 	Fire/Rescue Dispatch (Simulcast TRS) 	FM 	Fire Dispatch 
+154.32500 	   	WNBX298 	B	CSQ	Lee FR3 	Fire/Rescue Dispatch-3 (Simulcast TRS) 	FM 	Fire Dispatch 
+463.07500 	468.07500  	WSL442 	RM	110.9 PL	MED-4 	County Medical Coordination 	FM 	EMS-Tac 
+463.06250 	468.06250  	WQCP818 	RM	110.9 PL	MED-32 	EMS-to-Cape Coral Hospital 	FM 	Hospital 
+463.13750 	468.13750  	WQCP818 	RM	110.9 PL	MED-62 	EMS-to-Gulf Coast Hospital 	FM 	Hospital 
+463.05000 	468.05000  	WSL442 	RM	110.9 PL	MED-3 	EMS-to-Healthpark Medical Center/Lee Memorial 	FM 	Hospital 
+463.07500 	468.07500  	WSL442 	RM	110.9 PL	MED-42 	EMS-to-Lee Memorial Hospital 	FM 	Hospital 
+463.11250 	468.11250  	WQCP818 	RM	110.9 PL	MED-52 	EMS-to-Lehigh Regional Medical Center 	FM 	Hospital 
+463.12500 	468.12500  	WSL442 	RM	110.9 PL	MED-6 	EMS-to-Southwest Florida Regional Medical Center 	FM 	Hospital 
+158.76000 	153.80000  	KIX496 	RM	114.8 PL	Lee Mosquito 	Mosquito Control 	FM 	Public Works 
+151.00250 	156.02250  	WQMQ893 	RM	025 DPL	Three Oaks  	Three Oaks Elementary 	FMN 	Schools 
+158.92500 	153.98000  	WQGP394 	RM	226 DPL	Pelican ES 	Pelican Elementary 	FMN 	Schools 
+453.12500 	458.12500  	WQOB482 	RM	205 DPL	Cypress Lake 	Cypress Lake High 	FMN 	Schools 
+453.31250 	458.31250  	WQIF865 	RM	346 DPL	Oak Hammock  	Oak Hammock Middle  	FMN 	Schools 
+453.38750 	458.38750  	WQPT961 	RM	245 DPL	Lehigh SHS 	Lehigh Senior High 	FMN 	Schools 
+453.52500 	458.52500  	WQPT962 	RM	371 DPL	Riverdale HS 	Riverdale High School (Fort Myers) 	FMN 	Schools 
+453.85000 	458.85000  	WQRC710 	RM	226 DPL	Diplomat MS 	Diplomat Middle 	FMN 	Schools 
+460.05000 	465.05000  	WQGE949 	RM	465 DPL	Villas ES 	Villas Elementary 	FMN 	Schools 
+460.07500 	465.07500  	WQGE948 	RM	431 DPL	Sunshine ES 	Sunshine Elementary 	FMN 	Schools 
+460.15000 	465.15000  	WQLU473 	RM	627 DPL	Treeline ES 	Treeline Elementary 	FMN 	Schools 
+460.30000 	465.30000  	WQGE950 	RM	065 DPL	Orange River 	Orange River Elementary 	FMN 	Schools 
+460.35000 	465.35000  	WQRC484 	RM	255 DPL	FMMA 	Fort Myers Middle Academy 	FMN 	Schools 
+460.36250 	465.36250  	WQUT705 	RM	165 DPL	CapeCoral HS 	Cape Coral High  	FMN 	Schools 
+460.47500 	465.47500  	WQOA616 	RM	94.8 PL	Fort MyersTC 	Fort Myers Technical College 	FMN 	Schools 
+463.72500 	468.72500  	WQGQ963 	RM	155 DPL	ELCHS 	East Lee County High  	FMN 	Schools 
+464.25000 	469.25000  	WPUU358 	RM	CC 1TG 100SL 1	Dunbar HS  	Dunbar High School 	DMR 	Business 
+855.73750 	810.73750  	WQDK906 	RM	411 DPL	BocaGrandeFD 	Fire (Simulcast of Lee County Fire TAC-1) 	FM 	Fire Dispatch 
+453.70000 	458.70000  	KSZ465 	RM	123.0 PL	CapeCoral Ops 	City Services - Operations  	FM 	Public Works 
+453.97500 	458.97500  	KSZ465 	RM	156.7 PL	CapeCoralPW 	Public Works 	FMN 	Public Works 
+155.92500 	153.92000  	WNFV737 	RM	506 DPL	FM Housing 	Housing Authority 	FM 	Public Works 
+154.43000 	   	KGU686 	B	107.2 PL	FMS FR Disp 	Fire/EMS Dispatch (Simulcast from TRS) 	FM 	Fire Dispatch 
+154.02500 	   	WQDA256 	B	107.2 PL	Lee FR3 	Fire/Rescue Dispatch (Simulcast from TRS)  	FM 	Fire Dispatch 
+Argos Ready-Mix	 LTR Standard	 Estero	Gator Two Way	 LTR Standard	 Estero	Industrial Communications and Electronics	 DMR Motorola Connect Plus (TRBO)	 North Miami
+Lee County Government 1	 Motorola Type II	 Fort Myers	Lee County Government 2	 Motorola Type II	 Fort Myers	Lee County Government 3	 Motorola Type II	 Lee County
+Lee County Public Safety (Motorola)	 Motorola Type II Smartnet	 Lee County	Lee County Public Safety (P25)	 Project 25 Phase I	 Fort Myers	Lightning Wireless (LTR)	 LTR Standard	 Bonita Springs
+Lightning Wireless Solutions	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bonita Springs	Qualicom	 LTR Standard	 Punta Rassa	Rinker Materials (Bonita Springs Ready-Mix)	 LTR Standard	 Estero
+Rinker Materials (Pine Island)	 LTR Standard	 Rotonda	School District Of Lee County	 LTR Passport	 Fort Myers	Schwab Ready-Mix	 LTR Standard	 Bonita Springs
+Spectrum Wireless (Naples)	 LTR Standard	 Naples	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide

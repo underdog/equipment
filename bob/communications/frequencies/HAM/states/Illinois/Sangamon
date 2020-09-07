@@ -1,176 +1,178 @@
-453.07500 	 	RM	411 DPL	Sang Juv Fac 	Juvenile Facility: Transportation/Ops [No license*] 	FMN 	Corrections 
-854.66250 	WNWL220 	RM	CC 1TG 1SL 1	Sang Jail/Court 	Jail / Court Security (w/ Phone Patch) 	DMR 	Corrections 
-156.22500 	KSI628 	BM	CSQ	Sang RescueSquad 	Rescue Squad: Tac 	FMN 	Emergency Ops 
-155.05500 	WNAH639 	B	146.2 PL	I-REACH 146.2 	Statewide Mutual Aid (Base) [Ch 3] 	FMN 	Interop 
-155.05500 	WNAH639 	M	156 DPL	I-REACH D156 	Statewide Mutual Aid: Air Evac Landing Zone Ops 	FMN 	Interop 
-158.82000 	KSI628 	RM	225.7 PL	Sang Rural Fire1 	Rural Fire: Paging/Dispatch [RF1]  	FMN 	Fire Dispatch 
-155.89500 	KSI628 	RM	146.2 PL	Sang Rural Fire2 	Rural Fire: Response [RF2] 	FMN 	Fire-Tac 
-155.53500 	KSI628 	RM	146.2 PL	Sang Rural Fire3 	Rural Fire: Response [RF3] 	FMN 	Fire-Tac 
-158.74500 	KSI628 	BM	225.7 PL	Sang Rural Fire4 	Rural Fire [RF4] 	FMN 	Fire-Tac 
-158.88000 	KSI628 	M	225.7 PL	Sang Rural Fire5 	Rural Fire [RF5] 	FMN 	Fire-Tac 
-154.26500 	WQFG754 	B	210.7 PL	IFERN 210.7 	Fire: Statewide Mutual Aid [Secondary FG w/Dispatch] 	FMN 	Fire-Talk 
-159.12000 	KQA722 	RM	88.5 PL	Sang Hghway1 	Highway Department [Ch 1]  	FMN 	Public Works 
-159.00000 	WNYW383 	M		Sang Highwy2 	Highway Department [Ch 2] 	FMN 	Public Works 
-453.52500 	KNBF391 	RM	CC 1TG 201SL 1	SMTD A 201 	Buses: Maintenance Ops 	DMR 	Transportation 
-453.52500 	KNBF391 	RM	CC 1TG 202SL 2	SMTD A 202 	Buses: Dispatch 	DMR 	Transportation 
-453.37500 	KNBF391 	RM	CC 1TG 1SL 1	SMTD B 1 	Buses: Dispatch 	DMR 	Transportation 
-453.37500 	KNBF391 	RM	CC 1TG 4SL *	SMTD B 2 	Buses: Drop Offs/Pickups  	DMR 	Transportation 
-155.22000 	KGE686 	BM	103.5 PL	Spfld EMS C-MED  	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.34000 	 	M	103.5 PL	Spfld EMS U2U  	EMS: Unit-to-Unit  	FMN 	Hospital 
-153.32000 	WQLB293 	RM	411 DPL	Medics First 	EMS: Dispatch/Operations 	FMN 	EMS Dispatch 
-152.42750 	WQZI495 	RM	CC 2TG 1000SL 1	LifestarSPI SRA 	SRA Medicar: Dispatch 	DMRE 	EMS Dispatch 
-152.42750 	WQZI495 	RM	CC 2TG 1000SL 2	LifestarSPI EMS 	EMS: Dispatch - Springfield 	DMRE 	EMS Dispatch 
-159.69000 	WQIF745 	BM	072 DPL	AirEvac SpfdIL 	Dispatcher - Springfield 	FMN 	EMS Dispatch 
-453.33750 	 	RM	91.5 PL	MMC Clinic E 	Maintenance / HVAC [No License] [In use 1/20] 	FMN 	Business 
-155.34000 	WPAV872 	B	CSQ	MERCI-1 CSQ 	Patient Reports (Base) 	FMN 	Hospital 
-155.34000 	WPAV872 	B	103.5 PL	MERCI-1 103.5 	Patient Reports 	FMN 	Hospital 
-152.00750 	WNAH612 	B		MMC Paging 1 	Paging: Data (CSQ) 	Telm 	Data 
-163.25000 	WNAH612 	B	CSQ	MMC Paging 2 	Paging: Tone / Voice 	FM 	Data 
-157.74000 	WNSG948 	B		MMC Paging 3  	Paging: Data (CSQ) 	Telm 	Data 
-461.82500 	WPSY979 	RM	051 DPL	SJH Security 	Security (was 141.3) 	FMN 	Security 
-461.60000 	KNNU332 	RM	71.9 PL	SJH Sec/Maint 2  	Maintenance/Security  	FMN 	Business 
-461.90000 	KNNU332 	RM	210.7 PL	SJH Shuttles 	St Johns Shuttle 	FMN 	Transportation 
-461.90000 	KNNU332 	RM	114 DPL	SJH Ops C 	Operations 	FMN 	Business 
-463.86250 	WQQJ379 	RM	116 DPL	SJH Maintenance 	Maintenance (Smoke Detectors/Alarms) 	FMN 	Business 
-155.34000 	KTI589 	B	CSQ	MERCI-1 CSQ 	Patient Reports (in use 8/13, was 103.5) 	FMN 	Hospital 
-463.00000 	 	BM	186.2 PL	MED-? 186.2  	Patient Reports (in use?) 	FMN 	Hospital 
-123.07500 	WQJN789 	B	CSQ	SJH UNICOM  	UNICOM (to ARCH Helicopter)  	AM 	Aircraft 
-157.45000 	KTI589 	B		SJH Paging 	Paging (CSQ Data) 	Telm 	Data 
-462.90000 	WQBX215 	B		StFrancisConvent 	St Francis Convent: Ops (CSQ) 	Telm 	Data 
-154.72500 	WPTS590 	BM	532 DPL	Spfld PD Frank 2 	Police: Frank 2 - Emergency Dispatch  	FMN 	Law Tac 
-460.57500 	KSC384 	RM	413 DPL	Spfld Fire Tones 	RF Station Dispatch System - Tones 	FMN 	Fire Dispatch 
-460.57500 	KSC384 	RM		Spfld Fire Data  	RF Station Dispatch System - Data (CSQ) 	FMN 	Data 
-460.62500 	KSC384 	RM	606 DPL	Spfld Fire Disp  	RF Station Dispatch System - Tones/Voice (Back-Up)  	FMN 	Fire Dispatch 
-154.19000 	KSC384 	BM	131.8 PL	Spfld Fire Siren 	Weather Siren Data / Tones for Knox Box Key Release  	FMN 	Fire Dispatch 
-453.82500 	WPTV463 	F		Spfld PW Data 2  	Land Surveying/GPS Data  	Telm 	Public Works 
-460.42500 	KZZ787 	M		Spfld PW Data 1  	Data (was Police) (CSQ) 	Telm 	Public Works 
-451.25000 	KSF638 	RM	146.2 PL	CWLP Elec Crews1 	Electrical Repair Crews [Ch 1] 	FMN 	Public Works 
-451.17500 	KSF638 	RM	146.2 PL	CWLP ElecSprvsr2 	Electrical Supervisors (Tree Trim, Locate) [Ch 2] 	FMN 	Public Works 
-451.52500 	KSF638 	RM	146.2 PL	CWLP Gen Plant 1 	Generation Plant Ops 	FMN 	Public Works 
-453.70000 	WNRC743 	RM	146.2 PL	CWLP Gen Plant 2 	Generation Plant Ops 	FMN 	Public Works 
-456.05000 	KSF638 	M	110.9 PL	CWLP Mobiles 	Mobiles  	FMN 	Public Works 
-158.19000 	KSF638 	BM	141.3 PL	CWLP Ops 1 	Operations 	FMN 	Public Works 
-453.16250 	WNRC743 	M	110.9 PL	CWLP Ops 2 	Operations 	FMN 	Public Works 
-453.50000 	WNRC743 	RM	110.9 PL	CWLP Water 1 	Water Department/Hydrants (also D606?) 	FMN 	Public Works 
-451.07500 	WPJV623 	F		CWLP Paging 	Paging Employees (CSQ) 	Telm 	Data 
-453.20000 	WNRC743 	BM	118.8 PL	CWLP Data 4 	Data (very short 1/2 second bursts) 	FMN 	Data 
-858.48750 	WQAZ465 	BM		CWLP Data 1 	Operations 	Telm 	Data 
-859.96250 	WQAZ465 	BM		CWLP Data 2 	Data Bursts (CSQ) 	Telm 	Data 
-860.48750 	WQAZ465 	BM		CWLP Data 3 	Data Bursts (Hard CSQ) 	Telm 	Data 
-462.02500 	WNAB958 	RM	82.5 PL	Spfld Sanitary 	Sanitary District Ops [Expired 7/14] 	FMN 	Public Works 
-453.62500 	WQKG977 	M	186.2 PL	Spfld Parks 	Parks: Maintenance 	FMN 	Public Works 
-151.79000 	WPYF830 	BM		AppleCreek Water 	Apple Creek Water Co (CSQ,Waverly)  	FMN 	Public Works 
-151.02500 	WPXN377 	M	77.0 PL	AuburnTwp Roads  	Auburn Township Road District: Road Maintenance 	FMN 	Public Works 
-154.84500 	WQPZ733 	BM	606 DPL	Ball Twp Roads  	Ball Township Roads (Glenarm) 	FMN 	Public Works 
-151.02500 	KKT452 	M	127.3 PL	SangTwpRoads 127 	Cartwright Township: Road Maintenance (TX PL) 	FMN 	Public Works 
-453.25000 	WNGN263 	BM		ClearLake TS 	Clear Lake Township: Road Maintenance 	FMN 	Public Works 
-151.02500 	KNDW418 	BM	233.6 PL	SangTwpRoads 233 	Cotton Hill Township: Road Maintenance [Expired] 	FMN 	Public Works 
-173.26750 	KNHR281 	F		CG Twp WatrA 	Curran Gardner Township Public Water Dist: Data (CSQ) 	Telm 	Data 
-159.51750 	WQAK419 	BM	CSQ	CG Twp WatrB 	Curran Gardner Township Public Water Dist: Ops 	FMN 	Public Works 
-453.45000 	KNCE959 	RM		Illiopolis Twp 	Illiopolis Township Road District: Road Maintenance (not 167.9) [Expired 9/12] 	FMN 	Public Works 
-453.25000 	KNGR693 	RM	229.1 PL	Mechnsbrg Twp 	Mechanicsburg Township: Road Maintenance (Buffalo) 	FMN 	Public Works 
-159.92250 	WPYG320 	BM		Wlmsvl Water 	Williamsville Water Company 	Telm 	Public Works 
-151.02500 	WPEX809 	BM	233.6 PL	SangTwpRoads 233 	Woodside Township: Roads/Plows 	FMN 	Public Works 
-154.81500 	WPLZ783 	RM	229.1 PL	Auburn Local 	Fire / Public Works / Local 	FMN 	Multi-Dispatch 
-774.66875 	WRAV993 	M	CSQ	BuffalMech PD MX 	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
-155.67000 	WPKC965 	RM	156.7 PL	Chatham EMA  	CEMA: Ops 	FMN 	Emergency Ops 
-155.88000 	WPBB579 	BM	CSQ	Chatham ESDA F3  	ESDA / Weather Spotters 	FMN 	Fire-Tac 
-155.42250 	WQGJ668 	BM		ChtmWarningSiren 	ESDA: Warning Siren Activation  	Telm 	Data 
-151.34000 	WPWF848 	RM	225.7 PL	Chatham FireTac  	Fireground / Tac / Local 	FMN 	Fire-Tac 
-173.22500 	WQLW759 	M		Chatham EMS MX  	EMS: Mobile Extenders 	FMN 	EMS-Tac 
-153.30500 	WPOZ759 	RM	203.5 PL	Chatham PubWrks 	Street / Water / Electric  	FMN 	Public Works 
-451.58750 	WPGU746 	M		Chatham WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
-173.28750 	WRCB981 	M		Dawson Fire MX 	Fire: Mobile Extenders (to 155.82) 	FMN 	Fire Dispatch 
-159.12000 	WNDT941 	BM	88.5 PL	Dawson Roads 	Road Maintenance 	FMN 	Public Works 
-451.13750 	KD37477 	F		Dawson WDD1 	Municipal Water System (CSQ) 	Telm 	Data 
-456.13750 	KD37477 	F		Dawson WDD2 	Municipal Water System  	Telm 	Data 
-154.40000 	WNKW607 	BM	143 DPL	Divernon FG 	Fireground  	FMN 	Fire-Tac 
-155.86500 	WNLA337 	BM	074 DPL	Divernon PW 	Public Works / Police: Local 	FMN 	Public Works 
-155.71500 	WNLL698 	BM	CSQ	Grandview LG 	Public Works / Police Tac (179.9? 9/13) 	FMN 	Multi-Dispatch 
-155.01000 	KH7557 	BM	CSQ	Jerome Local 	Streets / Police Tac-1 (w/ Leland Grove) [Expired 6/13] 	FM 	Multi-Tac 
-153.80750 	WQAC881 	M	CSQ	LGrv Police Tac  	Police: Tac  	FMN 	Law Tac 
-153.80750 	WQAC881 	M	664 DPL	LGrv PubWrks 	Public Works / Snow Plows 	FMN 	Public Works 
-151.31000 	WQCF874 	BM	CSQ	NBIG Fire 2 	Fireground  	FMN 	Fire-Tac 
-173.39000 	WQCF874 	M		NBIG Fire MX  	Fire: Mobile Extenders (to 151.31)  	FMN 	Fire-Tac 
-158.86500 	KS6048 	M	CSQ	NBIG Fire 3 	Fireground [Expired] 	FMN 	Fire-Tac 
-774.91875 	WQPQ364 	RM	CSQ	Pawn Police MX-O 	Police: Mobile Extenders to SC21 (All) 	FMN 	Law Dispatch 
-774.91875 	WQPQ364 	RM	110.9 PL	Pawn Police MX-A 	Police: Mobile Extenders to SC21 (unit 4?) 	FMN 	Law Dispatch 
-774.91875 	WQPQ364 	RM	67.0 PL	Pawn Police MX-B 	Police: Mobile Extenders to SC21 	FMN 	Law Dispatch 
-774.91875 	WQPQ364 	RM	183.5 PL	Pawn Police MX-C 	Police: Mobile Extenders to SC21 	FMN 	Law Dispatch 
-158.89500 	 	M	205 DPL	Pawn Police MX  	Police: Dispatch (Rebroadcast/Extender?) 	FMN 	Law Dispatch 
-154.22000 	WNHU816 	BM	225.7 PL	Pawn Fireground2 	EMS / Fireground [Ch 2] 	FMN 	Fire-Tac 
-153.25250 	WQCT365 	BM		Pawnee WDD 	Water Department: Ops/Data [Expired 5/15] 	Telm 	Public Works 
-158.77500 	WRFE603 	BM	225.7 PL	PlPl Fire Local 	Fire: Local  	FMN 	Fire-Tac 
-154.29500 	KZZ914 	RM	146.2 PL	Riv Police Tac5  	Police: Tactical 5 (Back-up to SC21) 	FMN 	Law Tac 
-151.36250 	KNCK634 	M		Riv Fire MX 	Fire: Mobile Extenders (to 158.82) 	FMN 	Fire-Tac 
-155.77500 	KNCK634 	BM		RAFPD Fireground 	Fireground (poss 85.4 ?) 	FMN 	Fire-Tac 
-155.88000 	KNCK634 	M		RAFPD 155.88 	Fire:  Local 	FMN 	Fire-Tac 
-159.15000 	KNAS935 	RM	146.2 PL	Rochester Police 	Police: Tac/Local (Back-Up to SC21; in use) 	FMN 	Law Dispatch 
-151.26500 	WQOY709 	BM		RochstrFPD Local 	Rochester FPD: Local (in use) 	FMN 	Fire-Tac 
-155.79000 	KNAS935 	RM	146.2 PL	Roch PubWrks 	Public Works/City Ops 	FMN 	Law Dispatch 
-451.31250 	WPMZ801 	M		Rochester WDD  	Water Conservation Metering (CSQ) 	Telm 	Data 
-155.14500 	KCI454 	BM	CSQ	Sherman Police  	Police [Expired] 	FMN 	Law Tac 
-154.96500 	WQHV351 	BM		Sherman EMA Wx  	EMA/Outdoor Wx Warning System (Sirens) (Voice/Data) 	FMN 	Emergency Ops 
-158.94000 	KAY883 	M		Sherman FG 	Fireground 	FMN 	Fire-Tac 
-156.01500 	 	M		Sherman Village 	Village Ops / Police: Car-to-Car [No license] 	FMN 	Public Works 
-155.41500 	WNPF754 	M	146.2 PL	Thayer PD C2C  	Police: Car-to-Car (155.535 extender?) [Expired] 	FMN 	Law Tac 
-458.55000 	WQPK230 	M	186.2 PL	Wmvl PubWrks 	Public Works / Village Ops 	FMN 	Public Works 
-155.26500 	WPII789 	BM	162.2 PL	FS Bus Spfld 1  	Springfield School District: Buses  / Bus Maintenance 	FMN 	Schools 
-151.98500 	WPQK986 	BM	516 DPL	FS Bus Spfld 2  	First Student: Buses (Springfield) 	FMN 	Schools 
-159.99750 	WPQK986 	BM	516 DPL	FS Bus Spfld 3  	First Student: Buses (Springfield) 	FMN 	Schools 
-157.56000 	WNAK635 	RM	606 DPL	Auburn School  	Buses / Admin / Maintenance 	FMN 	Schools 
-155.23500 	KWH719 	BM	565 DPL	BallChthm Buses  	Buses 	FMN 	Schools 
-151.73000 	WPTH392 	RM	703 DPL	BC Sch 15173 	Operations / Custodial (also simplex) 	FMN 	Schools 
-152.43500 	WPTH392 	RM	411 DPL	BC Glndwd HS 	Glenwood High School: Admin, Custodians, Events 	FMN 	Schools 
-153.01250 	WQDL844 	RM	411 DPL	BC GlwdElemA 	Glenwood Elementary / High School: Ops / Custodial 	FMN 	Schools 
-158.28000 	WQDL844 	M	411 DPL	BC GlwdElemB 	Glenwood Elementary / High School 	FMN 	Schools 
-158.28000 	WQDL844 	M	703 DPL	BC GlwdElemC 	Glenwood Elementary / High School 	FMN 	Schools 
-154.49750 	WQDL844 	RM	565 DPL	BC MiddleSch 	Glenwood Middle School: Admin / Security 	FMN 	Schools 
-151.80500 	 	M		BC Schools 	Elementary / Intermediate / Middle Schools  	FMN 	Schools 
-453.01250 	WQLQ222 	RM	CC 7TG 116000SL 1	TriCity Sch Bus 	Buses  	DMR 	Schools 
-453.01250 	WQLQ222 	RM	351 DPL	TriCity School  	Buses / Operations (OLD) 	FMN 	Schools 
-151.77500 	WNVM523 	BM		IlliopolisSchBus 	Buses [Expired] 	FMN 	Schools 
-464.87500 	WRDS717 	RM	CC 11TG *SL *	NBerlin School 	Operations 	DMR 	Schools 
-153.06500 	WREL955 	RM	CC 5TG 1SL 1	PawSch Admin 1 	Ops (Janitors JHS) 	DMR 	Schools 
-155.16000 	KNCV396 	BM	411 DPL	Pawnee SchBus  	Buses (also D331?) 	FMN 	Schools 
-155.16000 	KNCV396 	BM	631 DPL	Pawnee School  	Operations 	FMN 	Schools 
-461.05000 	WQRV673 	RM	203.5 PL	PlPlains School  	Buses / Admin / Ops / Maintenance 	FMN 	Schools 
-151.65500 	KDD922 	BM	85.4 PL	Roch Schools 	Buses / Ops 	FMN 	Schools 
-467.90000 	 	M	172 DPL	Addams Elem 	Addams Elementary: Ops (10 Babiak Ln) 	FMN 	Schools 
-467.81250 	 	M	172 DPL	Butler School B 	Butler Elementary: Ops 	FMN 	Schools 
-151.74500 	WPEY235 	M		Butler School A 	Butler School (1701 S. MacArthur) (D423 or 107.2) 	FMN 	Schools 
-469.11250 	KD52315 	M		Frnkln School 	Franklin Middle School  	FMN 	Schools 
-468.61250 	WNRS329 	M		Grant School 	Grant Middle School [Exp 3/05] 	FMN 	Schools 
-464.50000 	 	M	712 DPL	GMS Admin 	Grant Middle School: Admin 	FMN 	Schools 
-464.57500 	WNYK673 	M		HPark School 	Harvard Park Elementary School [Expired 5/02] 	FMN 	Schools 
-467.76250 	WNXT517 	M	85.4 PL	Ides Elemntr 	Ides Elementary School 	FMN 	Schools 
-467.85000 	 	M	172 DPL	Jeff Mid Sch 	Jefferson Middle School (Allis St) 	FMN 	Schools 
-467.90000 	 	M	172 DPL	Lanphier HS 	Lanphier High School 	FMN 	Schools 
-468.48750 	WNVD865 	M		Lee School 	Lee School  	FMN 	Schools 
-464.55000 	 	M	172 DPL	Marsh Elememtary 	Marsh Elementary (Avon Ln) 	FMN 	Schools 
-154.60000 	WPID698 	M		McClrn School 	McClernand School (Portables) 	FMN 	Schools 
-151.83500 	WPDJ602 	M		Ridgely School 	Ridgely School [Terminated] 	FMN 	Schools 
-456.33750 	WQNP727 	M	315 DPL	SV Sch Ops A 	Southern View School: Ops 	FMN 	Schools 
-464.50000 	 	M	172 DPL	SV Sch Ops B 	Southern View School: Ops 	FMN 	Schools 
-467.85000 	 	M	172 DPL	SV Sch Ops C 	Southern View School: Ops 	FMN 	Schools 
-462.83750 	KD52314 	M	072 DPL	SHS Ops 1 	Springfield High School  	FMN 	Schools 
-467.83750 	KD52314 	M	CSQ	SHS Ops 2 	Springfield High School (Lawrence/Chatham) 	FMN 	Schools 
-155.20500 	 	M	100.0 PL	155205 100.0 	operations (Jefferson at Bruns) 	FMN 	Schools 
-463.42500 	KIB891 	RM	172 DPL	Will School 	Buses / Operations 	FMN 	Schools 
-464.35000 	KZJ518 	RM	261 DPL	CAVC Ops 	Security / Operations 	FMN 	Schools 
-463.36250 	WQIW297 	RM		Benedictine 	Operations (not D031) 	FMN 	Schools 
-152.45000 	WPYW321 	RM	343 DPL	LLCC Police 1  	Police / Varda ? 	FMN 	Law Dispatch 
-152.37500 	WPYW321 	RM		LLCC Police 2  	Police (poss. 77.0 9/13) 	FMN 	Law Dispatch 
-452.72500 	WPPW697 	RM	107.2 PL	LLCC Maintenance 	Facilities Maintenance 	FMN 	Public Works 
-150.84500 	WQJN799 	B		LLCC Paging 	Paging (at multiple Locations)  	Telm 	Data 
-453.15000 	WPGM279 	RM	107.2 PL	SIUSM Security 	Police / Security 	FMN 	Law Dispatch 
-453.97500 	WNPU304 	RM	107.2 PL	SIUSM Maintenanc 	Maintenance 	FMN 	Public Works 
-453.65000 	WPGM279 	RM	67.0 PL	SIUSM Housekpng  	Housekeeping 	FMN 	Public Works 
-453.90000 	WPGH565 	RM	631 DPL	UIS Police 	Police: Dispatch (UX units) 	FMN 	Law Dispatch 
-453.93750 	WPLU354 	M		UIS PD Data 	Police: Data  	Telm 	Law Tac 
-462.05000 	WPUC514 	RM	506 DPL	UIS Campus 	Campus Dispatch 	FMN 	Public Works 
-453.60000 	KNED777 	RM	107.2 PL	UIS Maint 1 	Maintenance 	FMN 	Public Works 
-451.47500 	WPUC514 	RM	107.2 PL	UIS Maint 2 	Maintenance  	FMN 	Public Works 
-460.10000 	WQQH844 	RM	CC 3TG 9SL 1	IL Supreme Court 	Office of Marshall - Judges Security 	DMR 	Corrections 
-Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Memorial Health System - Springfield IL (NID-394)	 NXDN NEXEDGE 4800
- Springfield	Springfield Fire / Public Works / CWLP (P25)	 Project 25 Phase I	 Springfield	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	
+453.07500 	458.07500  	 	RM	411 DPL	Sang Juv Fac 	Juvenile Facility: Transportation/Ops [No license*] 	FMN 	Corrections 
+854.66250 	809.66250  	WNWL220 	RM	754 DPL	Sang Jail/Court 	Jail / Court Security (in use 8/20) 	FMN 	Corrections 
+854.66250 	809.66250  	WNWL220 	RM	CC 1TG 1SL 1	Sang Jail/Court 	Jail / Court Security (w/ Phone Patch) 	DMR 	Corrections 
+156.22500 	   	KSI628 	BM	CSQ	Sang RescueSquad 	Rescue Squad: Tac 	FMN 	Emergency Ops 
+155.05500 	   	WNAH639 	B	146.2 PL	I-REACH 146.2 	Statewide Mutual Aid (Base) [Ch 3] 	FMN 	Interop 
+155.05500 	   	WNAH639 	M	156 DPL	I-REACH D156 	Statewide Mutual Aid: Air Evac Landing Zone Ops 	FMN 	Interop 
+158.82000 	154.86000  	KSI628 	RM	225.7 PL	Sang Rural Fire1 	Rural Fire: Paging/Dispatch [RF1]  	FMN 	Fire Dispatch 
+155.89500 	153.99500  	KSI628 	RM	146.2 PL	Sang Rural Fire2 	Rural Fire: Response [RF2] 	FMN 	Fire-Tac 
+155.53500 	158.97000  	KSI628 	RM	146.2 PL	Sang Rural Fire3 	Rural Fire: Response [RF3] 	FMN 	Fire-Tac 
+158.74500 	   	KSI628 	BM	225.7 PL	Sang Rural Fire4 	Rural Fire [RF4] 	FMN 	Fire-Tac 
+158.88000 	   	KSI628 	M	225.7 PL	Sang Rural Fire5 	Rural Fire [RF5] 	FMN 	Fire-Tac 
+154.26500 	   	WQFG754 	B	210.7 PL	IFERN 210.7 	Fire: Statewide Mutual Aid [Secondary FG w/Dispatch] 	FMN 	Fire-Talk 
+159.12000 	156.07500  	KQA722 	RM	88.5 PL	Sang Hghway1 	Highway Department [Ch 1]  	FMN 	Public Works 
+159.00000 	   	WNYW383 	M		Sang Highwy2 	Highway Department [Ch 2] 	FMN 	Public Works 
+453.52500 	458.52500  	KNBF391 	RM	CC 1TG 201SL 1	SMTD A 201 	Buses: Maintenance Ops 	DMR 	Transportation 
+453.52500 	458.52500  	KNBF391 	RM	CC 1TG 202SL 2	SMTD A 202 	Buses: Dispatch 	DMR 	Transportation 
+453.37500 	458.37500  	KNBF391 	RM	CC 1TG 1SL 1	SMTD B 1 	Buses: Dispatch 	DMR 	Transportation 
+453.37500 	458.37500  	KNBF391 	RM	CC 1TG 4SL *	SMTD B 2 	Buses: Drop Offs/Pickups  	DMR 	Transportation 
+155.22000 	   	KGE686 	BM	103.5 PL	Spfld EMS C-MED  	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	 	M	103.5 PL	Spfld EMS U2U  	EMS: Unit-to-Unit  	FMN 	Hospital 
+153.32000 	158.16000  	WQLB293 	RM	411 DPL	Medics First 	EMS: Dispatch/Operations 	FMN 	EMS Dispatch 
+152.42750 	157.68750  	WQZI495 	RM	CC 2TG 1000SL 1	LifestarSPI SRA 	SRA Medicar: Dispatch 	DMRE 	EMS Dispatch 
+152.42750 	157.68750  	WQZI495 	RM	CC 2TG 1000SL 2	LifestarSPI EMS 	EMS: Dispatch - Springfield 	DMRE 	EMS Dispatch 
+159.69000 	   	WQIF745 	BM	072 DPL	AirEvac SpfdIL 	Dispatcher - Springfield 	FMN 	EMS Dispatch 
+453.33750 	458.33750  	 	RM	91.5 PL	MMC Clinic E 	Maintenance / HVAC [No License] [In use 1/20] 	FMN 	Business 
+155.34000 	   	WPAV872 	B	CSQ	MERCI-1 CSQ 	Patient Reports (Base) 	FMN 	Hospital 
+155.34000 	   	WPAV872 	B	103.5 PL	MERCI-1 103.5 	Patient Reports 	FMN 	Hospital 
+152.00750 	   	WNAH612 	B		MMC Paging 1 	Paging: Data (CSQ) 	Telm 	Data 
+163.25000 	   	WNAH612 	B	CSQ	MMC Paging 2 	Paging: Tone / Voice 	FM 	Data 
+157.74000 	   	WNSG948 	B		MMC Paging 3  	Paging: Data (CSQ) 	Telm 	Data 
+461.82500 	466.82500  	WPSY979 	RM	051 DPL	SJH Security 	Security (was 141.3) 	FMN 	Security 
+461.60000 	466.60000  	KNNU332 	RM	71.9 PL	SJH Sec/Maint 2  	Maintenance/Security  	FMN 	Business 
+461.90000 	466.90000  	KNNU332 	RM	210.7 PL	SJH Shuttles 	St Johns Shuttle 	FMN 	Transportation 
+461.90000 	466.90000  	KNNU332 	RM	114 DPL	SJH Ops C 	Operations 	FMN 	Business 
+463.86250 	468.86250  	WQQJ379 	RM	116 DPL	SJH Maintenance 	Maintenance (Smoke Detectors/Alarms) 	FMN 	Business 
+155.34000 	   	KTI589 	B	CSQ	MERCI-1 CSQ 	Patient Reports (in use 8/13, was 103.5) 	FMN 	Hospital 
+463.00000 	468.00000  	 	BM	186.2 PL	MED-? 186.2  	Patient Reports (in use?) 	FMN 	Hospital 
+123.07500 	   	WQJN789 	B	CSQ	SJH UNICOM  	UNICOM (to ARCH Helicopter)  	AM 	Aircraft 
+157.45000 	   	KTI589 	B		SJH Paging 	Paging (CSQ Data) 	Telm 	Data 
+462.90000 	   	WQBX215 	B		StFrancisConvent 	St Francis Convent: Ops (CSQ) 	Telm 	Data 
+154.72500 	   	WPTS590 	BM	532 DPL	Spfld PD Frank 2 	Police: Frank 2 - Emergency Dispatch  	FMN 	Law Tac 
+460.57500 	465.57500  	KSC384 	RM	413 DPL	Spfld Fire Tones 	RF Station Dispatch System - Tones 	FMN 	Fire Dispatch 
+460.57500 	465.57500  	KSC384 	RM		Spfld Fire Data  	RF Station Dispatch System - Data (CSQ) 	FMN 	Data 
+460.62500 	465.62500  	KSC384 	RM	606 DPL	Spfld Fire Disp  	RF Station Dispatch System - Tones/Voice (Back-Up)  	FMN 	Fire Dispatch 
+154.19000 	   	KSC384 	BM	131.8 PL	Spfld Fire Siren 	Weather Siren Data / Tones for Knox Box Key Release  	FMN 	Fire Dispatch 
+453.82500 	458.82500  	WPTV463 	F		Spfld PW Data 2  	Land Surveying/GPS Data  	Telm 	Public Works 
+460.42500 	   	KZZ787 	M		Spfld PW Data 1  	Data (was Police) (CSQ) 	Telm 	Public Works 
+451.25000 	456.25000  	KSF638 	RM	146.2 PL	CWLP Elec Crews1 	Electrical Repair Crews [Ch 1] 	FMN 	Public Works 
+451.17500 	456.17500  	KSF638 	RM	146.2 PL	CWLP ElecSprvsr2 	Electrical Supervisors (Tree Trim, Locate) [Ch 2] 	FMN 	Public Works 
+451.52500 	456.52500  	KSF638 	RM	146.2 PL	CWLP Gen Plant 1 	Generation Plant Ops 	FMN 	Public Works 
+453.70000 	458.70000  	WNRC743 	RM	146.2 PL	CWLP Gen Plant 2 	Generation Plant Ops 	FMN 	Public Works 
+456.05000 	   	KSF638 	M	110.9 PL	CWLP Mobiles 	Mobiles  	FMN 	Public Works 
+158.19000 	   	KSF638 	BM	141.3 PL	CWLP Ops 1 	Operations 	FMN 	Public Works 
+453.16250 	   	WNRC743 	M	110.9 PL	CWLP Ops 2 	Operations 	FMN 	Public Works 
+453.50000 	458.50000  	WNRC743 	RM	110.9 PL	CWLP Water 1 	Water Department/Hydrants (also D606?) 	FMN 	Public Works 
+451.07500 	456.07500  	WPJV623 	F		CWLP Paging 	Paging Employees (CSQ) 	Telm 	Data 
+453.20000 	   	WNRC743 	BM	118.8 PL	CWLP Data 4 	Data (very short 1/2 second bursts) 	FMN 	Data 
+858.48750 	813.48750  	WQAZ465 	BM		CWLP Data 1 	Operations 	Telm 	Data 
+859.96250 	814.96250  	WQAZ465 	BM		CWLP Data 2 	Data Bursts (CSQ) 	Telm 	Data 
+860.48750 	815.48750  	WQAZ465 	BM		CWLP Data 3 	Data Bursts (Hard CSQ) 	Telm 	Data 
+462.02500 	467.02500  	WNAB958 	RM	82.5 PL	Spfld Sanitary 	Sanitary District Ops [Expired 7/14] 	FMN 	Public Works 
+453.62500 	458.62500  	WQKG977 	M	186.2 PL	Spfld Parks 	Parks: Maintenance 	FMN 	Public Works 
+151.79000 	   	WPYF830 	BM		AppleCreek Water 	Apple Creek Water Co (CSQ,Waverly)  	FMN 	Public Works 
+151.02500 	   	WPXN377 	M	77.0 PL	AuburnTwp Roads  	Auburn Township Road District: Road Maintenance 	FMN 	Public Works 
+154.84500 	   	WQPZ733 	BM	606 DPL	Ball Twp Roads  	Ball Township Roads (Glenarm) 	FMN 	Public Works 
+151.02500 	   	KKT452 	M	127.3 PL	SangTwpRoads 127 	Cartwright Township: Road Maintenance (TX PL) 	FMN 	Public Works 
+453.25000 	   	WNGN263 	BM		ClearLake TS 	Clear Lake Township: Road Maintenance 	FMN 	Public Works 
+151.02500 	   	KNDW418 	BM	233.6 PL	SangTwpRoads 233 	Cotton Hill Township: Road Maintenance [Expired] 	FMN 	Public Works 
+173.26750 	   	KNHR281 	F		CG Twp WatrA 	Curran Gardner Township Public Water Dist: Data (CSQ) 	Telm 	Data 
+159.51750 	   	WQAK419 	BM	CSQ	CG Twp WatrB 	Curran Gardner Township Public Water Dist: Ops 	FMN 	Public Works 
+453.45000 	458.45000  	KNCE959 	RM		Illiopolis Twp 	Illiopolis Township Road District: Road Maintenance (not 167.9) [Expired 9/12] 	FMN 	Public Works 
+453.25000 	458.25000  	KNGR693 	RM	229.1 PL	Mechnsbrg Twp 	Mechanicsburg Township: Road Maintenance (Buffalo) 	FMN 	Public Works 
+159.92250 	   	WPYG320 	BM		Wlmsvl Water 	Williamsville Water Company 	Telm 	Public Works 
+151.02500 	   	WPEX809 	BM	233.6 PL	SangTwpRoads 233 	Woodside Township: Roads/Plows 	FMN 	Public Works 
+154.81500 	158.98500  	WPLZ783 	RM	229.1 PL	Auburn Local 	Fire / Public Works / Local 	FMN 	Multi-Dispatch 
+774.66875 	   	WRAV993 	M	CSQ	BuffalMech PD MX 	Police: Mobile Extenders (to SC21) 	FMN 	Law Dispatch 
+155.67000 	159.01500  	WPKC965 	RM	156.7 PL	Chatham EMA  	CEMA: Ops 	FMN 	Emergency Ops 
+155.88000 	   	WPBB579 	BM	CSQ	Chatham ESDA F3  	ESDA / Weather Spotters 	FMN 	Fire-Tac 
+155.42250 	   	WQGJ668 	BM		ChtmWarningSiren 	ESDA: Warning Siren Activation  	Telm 	Data 
+151.34000 	156.01500  	WPWF848 	RM	225.7 PL	Chatham FireTac  	Fireground / Tac / Local 	FMN 	Fire-Tac 
+173.22500 	   	WQLW759 	M		Chatham EMS MX  	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+153.30500 	158.41500  	WPOZ759 	RM	203.5 PL	Chatham PubWrks 	Street / Water / Electric  	FMN 	Public Works 
+451.58750 	   	WPGU746 	M		Chatham WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+173.28750 	   	WRCB981 	M		Dawson Fire MX 	Fire: Mobile Extenders (to 155.82) 	FMN 	Fire Dispatch 
+159.12000 	   	WNDT941 	BM	88.5 PL	Dawson Roads 	Road Maintenance 	FMN 	Public Works 
+451.13750 	   	KD37477 	F		Dawson WDD1 	Municipal Water System (CSQ) 	Telm 	Data 
+456.13750 	   	KD37477 	F		Dawson WDD2 	Municipal Water System  	Telm 	Data 
+154.40000 	   	WNKW607 	BM	143 DPL	Divernon FG 	Fireground  	FMN 	Fire-Tac 
+155.86500 	   	WNLA337 	BM	074 DPL	Divernon PW 	Public Works / Police: Local 	FMN 	Public Works 
+155.71500 	   	WNLL698 	BM	CSQ	Grandview LG 	Public Works / Police Tac (179.9? 9/13) 	FMN 	Multi-Dispatch 
+155.01000 	   	KH7557 	BM	CSQ	Jerome Local 	Streets / Police Tac-1 (w/ Leland Grove) [Expired 6/13] 	FM 	Multi-Tac 
+153.80750 	   	WQAC881 	M	CSQ	LGrv Police Tac  	Police: Tac  	FMN 	Law Tac 
+153.80750 	   	WQAC881 	M	664 DPL	LGrv PubWrks 	Public Works / Snow Plows 	FMN 	Public Works 
+151.31000 	   	WQCF874 	BM	CSQ	NBIG Fire 2 	Fireground  	FMN 	Fire-Tac 
+173.39000 	   	WQCF874 	M		NBIG Fire MX  	Fire: Mobile Extenders (to 151.31)  	FMN 	Fire-Tac 
+158.86500 	   	KS6048 	M	CSQ	NBIG Fire 3 	Fireground [Expired] 	FMN 	Fire-Tac 
+774.91875 	804.91875  	WQPQ364 	RM	CSQ	Pawn Police MX-O 	Police: Mobile Extenders to SC21 (All) 	FMN 	Law Dispatch 
+774.91875 	804.91875  	WQPQ364 	RM	110.9 PL	Pawn Police MX-A 	Police: Mobile Extenders to SC21 (unit 4?) 	FMN 	Law Dispatch 
+774.91875 	804.91875  	WQPQ364 	RM	67.0 PL	Pawn Police MX-B 	Police: Mobile Extenders to SC21 	FMN 	Law Dispatch 
+774.91875 	804.91875  	WQPQ364 	RM	183.5 PL	Pawn Police MX-C 	Police: Mobile Extenders to SC21 	FMN 	Law Dispatch 
+158.89500 	   	 	M	205 DPL	Pawn Police MX  	Police: Dispatch (Rebroadcast/Extender?) 	FMN 	Law Dispatch 
+154.22000 	   	WNHU816 	BM	225.7 PL	Pawn Fireground2 	EMS / Fireground [Ch 2] 	FMN 	Fire-Tac 
+153.25250 	   	WQCT365 	BM		Pawnee WDD 	Water Department: Ops/Data [Expired 5/15] 	Telm 	Public Works 
+158.77500 	   	WRFE603 	BM	225.7 PL	PlPl Fire Local 	Fire: Local  	FMN 	Fire-Tac 
+154.29500 	150.80500  	KZZ914 	RM	146.2 PL	Riv Police Tac5  	Police: Tactical 5 (Back-up to SC21) 	FMN 	Law Tac 
+151.36250 	   	KNCK634 	M		Riv Fire MX 	Fire: Mobile Extenders (to 158.82) 	FMN 	Fire-Tac 
+155.77500 	   	KNCK634 	BM		RAFPD Fireground 	Fireground (poss 85.4 ?) 	FMN 	Fire-Tac 
+155.88000 	   	KNCK634 	M		RAFPD 155.88 	Fire:  Local 	FMN 	Fire-Tac 
+159.15000 	156.03000  	KNAS935 	RM	146.2 PL	Rochester Police 	Police: Tac/Local (Back-Up to SC21; in use) 	FMN 	Law Dispatch 
+151.26500 	   	WQOY709 	BM		RochstrFPD Local 	Rochester FPD: Local (in use) 	FMN 	Fire-Tac 
+155.79000 	153.78500  	KNAS935 	RM	146.2 PL	Roch PubWrks 	Public Works/City Ops 	FMN 	Law Dispatch 
+451.31250 	   	WPMZ801 	M		Rochester WDD  	Water Conservation Metering (CSQ) 	Telm 	Data 
+155.14500 	   	KCI454 	BM	CSQ	Sherman Police  	Police [Expired] 	FMN 	Law Tac 
+154.96500 	   	WQHV351 	BM		Sherman EMA Wx  	EMA/Outdoor Wx Warning System (Sirens) (Voice/Data) 	FMN 	Emergency Ops 
+158.94000 	   	KAY883 	M		Sherman FG 	Fireground 	FMN 	Fire-Tac 
+156.01500 	   	 	M		Sherman Village 	Village Ops / Police: Car-to-Car [No license] 	FMN 	Public Works 
+155.41500 	   	WNPF754 	M	146.2 PL	Thayer PD C2C  	Police: Car-to-Car (155.535 extender?) [Expired] 	FMN 	Law Tac 
+458.55000 	   	WQPK230 	M	186.2 PL	Wmvl PubWrks 	Public Works / Village Ops 	FMN 	Public Works 
+155.26500 	   	WPII789 	BM	162.2 PL	FS Bus Spfld 1  	Springfield School District: Buses  / Bus Maintenance 	FMN 	Schools 
+151.98500 	   	WPQK986 	BM	516 DPL	FS Bus Spfld 2  	First Student: Buses (Springfield) 	FMN 	Schools 
+159.99750 	   	WPQK986 	BM	516 DPL	FS Bus Spfld 3  	First Student: Buses (Springfield) 	FMN 	Schools 
+157.56000 	150.90500  	WNAK635 	RM	606 DPL	Auburn School  	Buses / Admin / Maintenance 	FMN 	Schools 
+155.23500 	   	KWH719 	BM	565 DPL	BallChthm Buses  	Buses 	FMN 	Schools 
+151.73000 	159.50250  	WPTH392 	RM	703 DPL	BC Sch 15173 	Operations / Custodial (also simplex) 	FMN 	Schools 
+152.43500 	157.69500  	WPTH392 	RM	411 DPL	BC Glndwd HS 	Glenwood High School: Admin, Custodians, Events 	FMN 	Schools 
+153.01250 	158.35500  	WQDL844 	RM	411 DPL	BC GlwdElemA 	Glenwood Elementary / High School: Ops / Custodial 	FMN 	Schools 
+158.28000 	   	WQDL844 	M	411 DPL	BC GlwdElemB 	Glenwood Elementary / High School 	FMN 	Schools 
+158.28000 	   	WQDL844 	M	703 DPL	BC GlwdElemC 	Glenwood Elementary / High School 	FMN 	Schools 
+154.49750 	160.14000  	WQDL844 	RM	565 DPL	BC MiddleSch 	Glenwood Middle School: Admin / Security 	FMN 	Schools 
+151.80500 	   	 	M		BC Schools 	Elementary / Intermediate / Middle Schools  	FMN 	Schools 
+453.01250 	458.01250  	WQLQ222 	RM	CC 7TG 116000SL 1	TriCity Sch Bus 	Buses  	DMR 	Schools 
+453.01250 	458.01250  	WQLQ222 	RM	351 DPL	TriCity School  	Buses / Operations (OLD) 	FMN 	Schools 
+151.77500 	   	WNVM523 	BM		IlliopolisSchBus 	Buses [Expired] 	FMN 	Schools 
+464.87500 	469.87500  	WRDS717 	RM	CC 11TG *SL *	NBerlin School 	Operations 	DMR 	Schools 
+153.06500 	158.26500  	WREL955 	RM	CC 5TG 1SL 1	PawSch Admin 1 	Ops (Janitors JHS) 	DMR 	Schools 
+155.16000 	   	KNCV396 	BM	411 DPL	Pawnee SchBus  	Buses (also D331?) 	FMN 	Schools 
+155.16000 	   	KNCV396 	BM	631 DPL	Pawnee School  	Operations 	FMN 	Schools 
+461.05000 	466.05000  	WQRV673 	RM	203.5 PL	PlPlains School  	Buses / Admin / Ops / Maintenance 	FMN 	Schools 
+151.65500 	   	KDD922 	BM	85.4 PL	Roch Schools 	Buses / Ops 	FMN 	Schools 
+467.90000 	   	 	M	172 DPL	Addams Elem 	Addams Elementary: Ops (10 Babiak Ln) 	FMN 	Schools 
+467.81250 	   	 	M	172 DPL	Butler School B 	Butler Elementary: Ops 	FMN 	Schools 
+151.74500 	   	WPEY235 	M		Butler School A 	Butler School (1701 S. MacArthur) (D423 or 107.2) 	FMN 	Schools 
+469.11250 	   	KD52315 	M		Frnkln School 	Franklin Middle School  	FMN 	Schools 
+468.61250 	   	WNRS329 	M		Grant School 	Grant Middle School [Exp 3/05] 	FMN 	Schools 
+464.50000 	   	 	M	712 DPL	GMS Admin 	Grant Middle School: Admin 	FMN 	Schools 
+464.57500 	   	WNYK673 	M		HPark School 	Harvard Park Elementary School [Expired 5/02] 	FMN 	Schools 
+467.76250 	   	WNXT517 	M	85.4 PL	Ides Elemntr 	Ides Elementary School 	FMN 	Schools 
+467.85000 	   	 	M	172 DPL	Jeff Mid Sch 	Jefferson Middle School (Allis St) 	FMN 	Schools 
+467.90000 	   	 	M	172 DPL	Lanphier HS 	Lanphier High School 	FMN 	Schools 
+468.48750 	   	WNVD865 	M		Lee School 	Lee School  	FMN 	Schools 
+464.55000 	   	 	M	172 DPL	Marsh Elememtary 	Marsh Elementary (Avon Ln) 	FMN 	Schools 
+154.60000 	   	WPID698 	M		McClrn School 	McClernand School (Portables) 	FMN 	Schools 
+151.83500 	   	WPDJ602 	M		Ridgely School 	Ridgely School [Terminated] 	FMN 	Schools 
+456.33750 	   	WQNP727 	M	315 DPL	SV Sch Ops A 	Southern View School: Ops 	FMN 	Schools 
+464.50000 	   	 	M	172 DPL	SV Sch Ops B 	Southern View School: Ops 	FMN 	Schools 
+467.85000 	   	 	M	172 DPL	SV Sch Ops C 	Southern View School: Ops 	FMN 	Schools 
+462.83750 	   	KD52314 	M	072 DPL	SHS Ops 1 	Springfield High School  	FMN 	Schools 
+467.83750 	   	KD52314 	M	CSQ	SHS Ops 2 	Springfield High School (Lawrence/Chatham) 	FMN 	Schools 
+155.20500 	   	 	M	100.0 PL	155205 100.0 	operations (Jefferson at Bruns) 	FMN 	Schools 
+463.42500 	468.42500  	KIB891 	RM	172 DPL	Will School 	Buses / Operations 	FMN 	Schools 
+464.35000 	469.35000  	KZJ518 	RM	261 DPL	CAVC Ops 	Security / Operations 	FMN 	Schools 
+463.36250 	468.36250  	WQIW297 	RM		Benedictine 	Operations (not D031) 	FMN 	Schools 
+152.45000 	157.71000  	WPYW321 	RM	343 DPL	LLCC Police 1  	Police / Varda ? 	FMN 	Law Dispatch 
+152.37500 	157.63500  	WPYW321 	RM		LLCC Police 2  	Police (poss. 77.0 9/13) 	FMN 	Law Dispatch 
+452.72500 	457.72500  	WPPW697 	RM	107.2 PL	LLCC Maintenance 	Facilities Maintenance 	FMN 	Public Works 
+150.84500 	   	WQJN799 	B		LLCC Paging 	Paging (at multiple Locations)  	Telm 	Data 
+453.15000 	458.15000  	WPGM279 	RM	107.2 PL	SIUSM Security 	Police / Security 	FMN 	Law Dispatch 
+453.97500 	458.97500  	WNPU304 	RM	107.2 PL	SIUSM Maintenanc 	Maintenance 	FMN 	Public Works 
+453.65000 	458.65000  	WPGM279 	RM	67.0 PL	SIUSM Housekpng  	Housekeeping 	FMN 	Public Works 
+453.90000 	458.90000  	WPGH565 	RM	631 DPL	UIS Police 	Police: Dispatch (UX units) 	FMN 	Law Dispatch 
+453.93750 	   	WPLU354 	M		UIS PD Data 	Police: Data  	Telm 	Law Tac 
+462.05000 	467.05000  	WPUC514 	RM	506 DPL	UIS Campus 	Campus Dispatch 	FMN 	Public Works 
+453.60000 	458.60000  	KNED777 	RM	107.2 PL	UIS Maint 1 	Maintenance 	FMN 	Public Works 
+451.47500 	456.47500  	WPUC514 	RM	107.2 PL	UIS Maint 2 	Maintenance  	FMN 	Public Works 
+460.10000 	465.10000  	WQQH844 	RM	CC 3TG 9SL 1	IL Supreme Court 	Office of Marshall - Judges Security 	DMR 	Corrections 
+Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+Memorial Health System - Springfield IL (NID-394)	 NXDN NEXEDGE 4800	 Springfield	Springfield Fire / Public Works / CWLP (P25)	 Project 25 Phase I	 Springfield	United Communications - Macoupin	 LTR Standard	 Various
+WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	

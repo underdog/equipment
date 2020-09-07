@@ -1,24 +1,23 @@
-155.92500 	WNGG564 	RM		SHARP EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.92500 	WNGG564 	RM	156.7 PL	SHARP FD NORTH 	Fire - North Dispatch 	FMN 	Fire Dispatch 
-155.92500 	WNGG564 	RM	141.3 PL	SHARP FD CENTRAL 	Fire - Central Dispatch 	FMN 	Fire Dispatch 
-155.92500 	WNGG564 	RM	127.3 PL	SHARP FD SOUTH 	Fire - South Dispatch 	FMN 	Fire Dispatch 
-159.20250 	WQXY488 	RM	CSQ	HGHLND VLG F/R 	Highland Village Fire/Rescue (Also licensed for NXDN) 	FMN 	Fire Dispatch 
-155.52000 	WNRC884 	RM	127.3 PL	SHARP SO DISP 	Sheriff 	FMN 	Law Dispatch 
-460.32500 	WNRC884 	F	CSQ	SHARP SO HT's 	Sheriff - HT's Relay 	FMN 	Law Tac 
-156.22500 	WPAY357 	RM	141.3 PL	SHARP ROADS 	Road Dept. 	FMN 	Public Works 
-154.10000 	WPKG731 	RM		ASH FLAT FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
-151.02500 	WQHC589 	RM	250.3 PL	CCFD DISP 	Fire - Dispatch 	FMN 	Fire Dispatch 
-155.44500 	WQSX459 	RM		CCPD DISP 	Police - Dispatch 	NXDN 	Law Dispatch 
-155.44500 	WQSX459 	RM	127.3 PL	CCPD DISP 	Police - Dispatch 	FMN 	Law Dispatch 
-155.49000 	WQHJ924 	RM		CCDPW H2O 	Water Department 	FMN 	Utilities 
-154.99500 	KGV683 	RM	127.3 PL	CHRKE VLG FD 	Fire / Security 	FMN 	Multi-Dispatch 
-153.89000 	WPAM425 	RM	CSQ	CHRKE VLG FG 	Fireground 	FMN 	Fire-Tac 
-155.43000 	WPPX382 	RM	306 DPL	CHRKE VLG PD 	Police - Dispatch 	FMN 	Law Dispatch 
-155.64000 	WNQP884 	RM		CHRKE VLG PS 	Public Safety 	FMN 	Multi-Talk 
-155.82000 	 	RM	127.3 PL	CHRKE VLG PW 	City Services 	FMN 	Multi-Talk 
-158.76000 	WPWF628 	RM		CHRKE VL DPW 	DPW 	FMN 	Public Works 
-173.51250 	WPIR710 	BM		Cherokee Water 	Cherokee Village Water Association 	Telm 	Utilities 
-151.04750 	WQPY428 	RM	CSQ	EVNG SHAD SVCS 	City Services 	FMN 	Public Works 
-152.37500 	WQFY376 	RM		HIGHLAND SCHOOLS 	Transportation 	FMN 	Schools 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	
+155.92500 	153.99500  	WNGG564 	RM		SHARP EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.92500 	153.99500  	WNGG564 	RM	156.7 PL	SHARP FD NORTH 	Fire - North Dispatch 	FMN 	Fire Dispatch 
+155.92500 	153.99500  	WNGG564 	RM	141.3 PL	SHARP FD CENTRAL 	Fire - Central Dispatch 	FMN 	Fire Dispatch 
+155.92500 	153.99500  	WNGG564 	RM	127.3 PL	SHARP FD SOUTH 	Fire - South Dispatch 	FMN 	Fire Dispatch 
+159.20250 	153.80000  	WQXY488 	RM	CSQ	HGHLND VLG F/R 	Highland Village Fire/Rescue (Also licensed for NXDN) 	FMN 	Fire Dispatch 
+155.52000 	158.85000  	WNRC884 	RM	127.3 PL	SHARP SO DISP 	Sheriff 	FMN 	Law Dispatch 
+460.32500 	   	WNRC884 	F	CSQ	SHARP SO HT's 	Sheriff - HT's Relay 	FMN 	Law Tac 
+156.22500 	159.04500  	WPAY357 	RM	141.3 PL	SHARP ROADS 	Road Dept. 	FMN 	Public Works 
+154.10000 	159.18000  	WPKG731 	RM		ASH FLAT FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
+151.02500 	153.84500  	WQHC589 	RM	250.3 PL	CCFD DISP 	Fire - Dispatch 	FMN 	Fire Dispatch 
+155.44500 	158.94000  	WQSX459 	RM		CCPD DISP 	Police - Dispatch 	NXDN 	Law Dispatch 
+155.44500 	158.94000  	WQSX459 	RM	127.3 PL	CCPD DISP 	Police - Dispatch 	FMN 	Law Dispatch 
+155.49000 	151.37000  	WQHJ924 	RM		CCDPW H2O 	Water Department 	FMN 	Utilities 
+154.99500 	153.74000  	KGV683 	RM	127.3 PL	CHRKE VLG FD 	Fire / Security 	FMN 	Multi-Dispatch 
+153.89000 	   	WPAM425 	RM	CSQ	CHRKE VLG FG 	Fireground 	FMN 	Fire-Tac 
+155.43000 	153.80000  	WPPX382 	RM	306 DPL	CHRKE VLG PD 	Police - Dispatch 	FMN 	Law Dispatch 
+155.64000 	154.71000  	WNQP884 	RM		CHRKE VLG PS 	Public Safety 	FMN 	Multi-Talk 
+155.82000 	158.88000  	 	RM	127.3 PL	CHRKE VLG PW 	City Services 	FMN 	Multi-Talk 
+158.76000 	155.71500  	WPWF628 	RM		CHRKE VL DPW 	DPW 	FMN 	Public Works 
+173.51250 	   	WPIR710 	BM		Cherokee Water 	Cherokee Village Water Association 	Telm 	Utilities 
+151.04750 	159.16500  	WQPY428 	RM	CSQ	EVNG SHAD SVCS 	City Services 	FMN 	Public Works 
+152.37500 	157.63500  	WQFY376 	RM		HIGHLAND SCHOOLS 	Transportation 	FMN 	Schools 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various

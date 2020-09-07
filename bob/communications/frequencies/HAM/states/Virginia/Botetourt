@@ -1,14 +1,14 @@
-453.90000 	WPQC633 	RM	100.0 PL	BotCoFD 1/2D 	Fire/Rescue Dispatch (1/2D) 	FMN 	Fire Dispatch 
-453.63750 	WPPU515 	RM	127.3 PL	BotCoFD 3/4D 	Fire/Rescue (3/4D) 	FMN 	Fire-Tac 
-453.86250 	WPPU515 	RM	141.3 PL	BotCoFD 5/6D 	Fire/Rescue (5/6D) 	FMN 	Fire-Tac 
-460.63750 	WPPU515 	RM	100.0 PL	BotCoFD MA 	Fire/Rescue Mutual Aid (Mutual Aid/Mutual Aid-D) (8/9) 	FMN 	Interop 
-453.98750 	WQD434 	M	141.3 PL	BotCoFD T/A 	Fire/Rescue Talk-Around (7D) 	FMN 	Fire-Talk 
-460.13750 	WPPU515 	RM	100.0 PL	BotCoSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-460.31250 	WPPU515 	RM	127.3 PL	BotCoSO 3 	Sheriff (3) 	FMN 	Law Tac 
-453.10000 	WQD434 	RM		BotCoSO ERT 	Sheriff Emergency Response Team (ERT) 	FMN 	Law Tac 
-458.98750 	WQD434 	M	141.3 PL	BotCoSO Jail 	Sheriff Jail Operations 	FMN 	Corrections 
-453.73750 	WQD434 	RM	026 DPL	BotCoSo Jail 	Sheriff Jail 	FMN 	Corrections 
-460.46250 	WPPU515 	RM	141.3 PL	BotCoSchools 	Schools 	FMN 	Schools 
-151.62500 	 	M	192.8 PL	ReadMtn MS 	Read Mountain Middle School 	FM 	Schools 
-451.35000 	WQCY784 	RM	032 DPL	LordBot HS 	Lord Botetourt High School 	FM 	Schools 
+453.90000 	458.90000  	WPQC633 	RM	100.0 PL	BotCoFD 1/2D 	Fire/Rescue Dispatch (1/2D) 	FMN 	Fire Dispatch 
+453.63750 	458.63750  	WPPU515 	RM	127.3 PL	BotCoFD 3/4D 	Fire/Rescue (3/4D) 	FMN 	Fire-Tac 
+453.86250 	458.86250  	WPPU515 	RM	141.3 PL	BotCoFD 5/6D 	Fire/Rescue (5/6D) 	FMN 	Fire-Tac 
+460.63750 	465.63750  	WPPU515 	RM	100.0 PL	BotCoFD MA 	Fire/Rescue Mutual Aid (Mutual Aid/Mutual Aid-D) (8/9) 	FMN 	Interop 
+453.98750 	   	WQD434 	M	141.3 PL	BotCoFD T/A 	Fire/Rescue Talk-Around (7D) 	FMN 	Fire-Talk 
+460.13750 	465.13750  	WPPU515 	RM	100.0 PL	BotCoSO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+460.31250 	465.31250  	WPPU515 	RM	127.3 PL	BotCoSO 3 	Sheriff (3) 	FMN 	Law Tac 
+453.10000 	458.10000  	WQD434 	RM		BotCoSO ERT 	Sheriff Emergency Response Team (ERT) 	FMN 	Law Tac 
+458.98750 	   	WQD434 	M	141.3 PL	BotCoSO Jail 	Sheriff Jail Operations 	FMN 	Corrections 
+453.73750 	458.73750  	WQD434 	RM	026 DPL	BotCoSo Jail 	Sheriff Jail 	FMN 	Corrections 
+460.46250 	465.46250  	WPPU515 	RM	141.3 PL	BotCoSchools 	Schools 	FMN 	Schools 
+151.62500 	   	 	M	192.8 PL	ReadMtn MS 	Read Mountain Middle School 	FM 	Schools 
+451.35000 	456.35000  	WQCY784 	RM	032 DPL	LordBot HS 	Lord Botetourt High School 	FM 	Schools 
 American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	

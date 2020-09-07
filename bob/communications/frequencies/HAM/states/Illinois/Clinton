@@ -1,91 +1,91 @@
-151.41500 	WPTL203 	BM	CSQ	Clinton 911 Page 	911/Fire/EMS: Paging (Tone Outs)  	FMN 	Fire Dispatch 
-155.72250 	WPTL203 	BM	210.7 PL	Clinton 911 Disp 	911/Fire/EMS: Dispatch 	FMN 	Fire Dispatch 
-155.41500 	WPTL203 	M		Clinton 911 Mob 	Fire/EMS: Unit-to-Unit 	FMN 	Fire-Tac 
-453.23750 	WPTL203 	F		Clinton 911 RF1 	Remote Link - Breese PSAP 	FMN 	Fire Dispatch 
-458.23750 	WPTL203 	F		Clinton 911 RF2 	Remote Link - From Greenville - Bond Co 	FMN 	Fire Dispatch 
-453.76250 	WPTL203 	F		Clinton 911 RF3 	Remote Link - From Clinton Co-Carlyle PSAP 	FMN 	Fire Dispatch 
-458.76250 	WPTL203 	F		Clinton 911 RF4 	Remote Link - Breese PSAP 	FMN 	Fire Dispatch 
-453.31250 	WPTL203 	F		Clinton 911 RF5 	Remote Link - From Greenville - Bond Co 	FMN 	Fire Dispatch 
-458.31250 	WPTL203 	F		Clinton 911 RF6 	Remote Link - Carlyle US Army Corps 	FMN 	Fire Dispatch 
-453.38750 	WPTL203 	F		Clinton 911 RF7 	Remote Link - From Clinton Co-Carlyle PSAP 	FMN 	Fire Dispatch 
-458.38750 	WPTL203 	F		Clinton 911 RF8  	Remote Link - Carlyle US Army Corps 	FMN 	Fire Dispatch 
-458.43750 	WPTL203 	F	103.5 PL	Clinton 911 RF9  	Remote Link (Constant Carrier) 	FMN 	Fire Dispatch 
-154.87500 	KSA936 	RM	210.7 PL	Clinton Sheriff 	Sheriff: Dispatch - West [Ch 1 Trenton] 	FMN 	Law Dispatch 
-154.87500 	KSA936 	RM	210.7 PL	Clinton Sheriff 	Sheriff: Dispatch - East [Ch 1 Carlyle] 	FMN 	Law Dispatch 
-154.89000 	KSA936 	M		Clnt Sheriff TA6 	Sheriff: Talk-Around [Ch 6] 	FMN 	Law Tac 
-155.13000 	KSA936 	BM	123.0 PL	Clnt Sheriff B 	Sheriff: 	FMN 	Law Tac 
-173.21000 	KSA936 	M		Clnt Sheriff MX 	Sheriff: Mobile Extenders 	FMN 	Law Tac 
-151.04000 	KAU324 	BM		Clnt Highway 	Road Maintenance (possibly 156.7) 	FMN 	Public Works 
-453.57500 	WPKL427 	F		Clinton WDD 	Water Treatment Data (CSQ) [Expired] 	Telm 	Data 
-936.00000 	WPXG657 	RM	074 DPL	MedStar 9-C 	EMS: Dispatch - Local (Carlyle)  	FM 	EMS Dispatch 
-463.45000 	WPKZ802 	RM	103.5 PL	StJos Maint 	Maintenance (w/ Phone Patch) 	FMN 	Business 
-155.34000 	KAA673 	B	88.5 PL	MERCI1 88.5 	Patient Reports 	FMN 	Hospital 
-155.34000 	KAA673 	B	97.4 PL	MERCI1 97.4 	Patient Reports 	FMN 	Hospital 
-155.16000 	WNCT265 	B	88.5 PL	MERCI-3 88.5 	Patient Reports 	FMN 	Hospital 
-151.01000 	WNUN392 	BM		ClntTS Roads 	Breese Township Road District: Road Maintenance 	FMN 	Public Works 
-452.05000 	WPGK707 	F		Carl NWC WDD 	Carlyle North Water Company 	Telm 	Data 
-154.45625 	WNFV434 	F		Carl SWPWD 	Carlyle SW Public Water District 	Telm 	Data 
-153.86000 	WPMY372 	M		CarlTS Roads 	Carlyle Township Roads/Bridges 	FMN 	Public Works 
-456.02500 	WQXW697 	M		Carlyle WDD 	Carlyle Water (CSQ) 	FMN 	Data 
-173.33750 	WNYL506 	F		Hoyl RWC WDD 	Hoyleston Rural Water Company: Water Distribution Data (Centralia) 	Telm 	Data 
-151.01000 	WNRI688 	BM		ClntTS Roads 	Lookingglass Township Highway Department 	FMN 	Public Works 
-451.02500 	WPTG669 	F	125 DPL	NMPWD Data2 	New Memphis Public Water District: Data (CSQ) 	FMN 	Data 
-173.20375 	KNEL927 	B		NMPWD Data3 	New Memphis Public Water District: Water Distribution Data (CSQ) 	Telm 	Data 
-160.00500 	WQNK509 	F		RacoonWater 	Racoon Water Company: Data (CSQ) 	Telm 	Data 
-151.01000 	WPGV652 	BM		ClntTS Roads 	Saint Rose Township: Road Maintenance 	FMN 	Public Works 
-159.06000 	WPNW718 	M		WadeTS Roads 	Wade Township Road Maintenance 	FMN 	Public Works 
-159.16500 	WPXF302 	RM		WhtfTS Roads 	Wheatfield Township Road Maintenance (Carlyle) 	FMN 	Public Works 
-154.43000 	WNIJ250 	BM	107.2 PL	ClinClr Fire 	Fire: Dispatch (DB: Clinton County) 	FMN 	Fire Dispatch 
-155.95500 	KNJP368 	M	100.0 PL	CCFPD FG 	Fireground-Private [Expired] 	FMN 	Fire-Tac 
-460.63750 	WNIJ250 	F	100.0 PL	CCFPD RF1 	Fire: Remote Link (Open Carrier) 	FMN 	Fire-Tac 
-465.63750 	WNIJ250 	F		CCFPD RF2 	Fire: Remote Link 	FMN 	Fire-Tac 
-155.96250 	WPWA772 	BM		Aviston FG 	Firegound (also input to FPD 159.135R) 	FMN 	Fire-Tac 
-151.43000 	WQZY777 	RM		Aviston Fire 	Fire: Local 	FMN 	Fire-Tac 
-154.23500 	 	M	CSQ	Aviston FG2 	Fireground 	FMN 	Fire-Tac 
-451.06250 	WQBR931 	F		Aviston WDD  	Water Treatment Data  	FMN 	Data 
-456.08750 	KD26236 	F		Bartelso WDD 	Water Treatment Plant  	Telm 	Data 
-453.53750 	WPDC657 	M	203.5 PL	Beck WDD 1 	Water Distribution Data 	FMN 	Data 
-458.53750 	WPDC657 	M		Beck WDD 2 	Water Distribution Data 	Telm 	Data 
-154.38500 	KSG450 	BM		Breese FG 	Fireground 	FMN 	Fire-Tac 
-154.75500 	KVZ231 	RM	210.7 PL	Breese EMS  	Breese Ambulance Service  	FMN 	EMS Dispatch 
-453.02500 	WPUJ307 	RM		Bres EMS RF1 	EMS (Receive Links to 154.75?) 	FMN 	EMS-Tac 
-463.15000 	WPUJ307 	BM		Bres EMS RF2 	EMS  	FMN 	EMS-Tac 
-155.74500 	WNQJ327 	BM		Bres PW/Elec 	Public Works / Electrical 	FMN 	Public Works 
-173.26250 	WNKR307 	F		Bres PW/WDD 	Public Works: Water Data  	FMN 	Data 
-158.79000 	WNNE268 	RM	203.5 PL	Carlyle Police 	Police: Local  	FMN 	Law Dispatch 
-158.79000 	KNEJ565 	BM	210.7 PL	Carlyle Police 2 	Police: Local 	FMN 	Law Dispatch 
-154.25000 	KDG411 	M		Carlyle FG 	Fireground 	FMN 	Fire-Tac 
-155.94000 	KNDS837 	BM		Carl PubWrks 	Public Works 	FMN 	Public Works 
-451.43750 	WPHD642 	M		Carlyle WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
-159.26250 	KSE495 	BM		Grmntwn FG 	Fireground 	FMN 	Fire-Tac 
-155.17500 	WPNT323 	BM		Hoffman FG 	Fireground 	FMN 	Fire-Tac 
-154.04000 	KYB919 	RM	203.5 PL	NBadn Police 	Police: Dispatch (DB: Clinton County)  	FMN 	Law Dispatch 
-154.04000 	KYB919 	RM	186.2 PL	NBaden Fire 	Fire: Dispatch (DB: Clinton County) 	FMN 	Fire Dispatch 
-154.04000 	KYB919 	RM	192.8 PL	NBaden EMS 	EMS: Dispatch (DB: Clinton County) 	FMN 	EMS Dispatch 
-154.04000 	KYB919 	RM	167.9 PL	NB PW/Local 	Public Works / City Hall 	FMN 	Public Works 
-154.16000 	WPJU990 	BM	203.5 PL	St Rose FG 	Fireground 	FMN 	Fire-Tac 
-155.26500 	WPXW273 	BM	123.0 PL	SCEMS Disp 	EMS: Dispatch (by Clinton County) 	FMN 	EMS Dispatch 
-453.18750 	WPXW273 	F	156.7 PL	SCEMS RF1 	Remote Link (Trenton PD to Clinton Co 911) 	FMN 	EMS Dispatch 
-458.18750 	WPXW273 	F		SCEMS RF2 	Remote Link (911 - Carlyle) 	FMN 	EMS Dispatch 
-155.26500 	WPXW273 	M	210.7 PL	SCEMS T/A 	EMS: Talk-Around (does not activate RF Link) 	FMN 	EMS-Tac 
-154.20500 	WQY595 	BM	94.8 PL	Sugar Creek Fire 	Fire: Dispatch (DB: Clinton County) 	FMN 	Fire Dispatch 
-465.61250 	WQY595 	M	100.0 PL	SgrCreek Fire RF 	Fire: Remote Link from 911 to 154.205 Trenton  	FMN 	Fire-Tac 
-159.21750 	WPXF402 	RM	031 DPL	Trenton PD Loc   	Police: Local (repeats St Clair County Rural Law and/or ESDA 158.835) 	FMN 	Law Dispatch 
-154.04000 	KNGS965 	BM		Trenton ESDA 	ESDA: Local 	FMN 	Emergency Ops 
-155.57250 	KNGS965 	RM	186.2 PL	Trenton PW/PD  	City Maintenance / Police Alternate 	FMN 	Public Works 
-159.49500 	WPUI867 			Albers Sch 	Buses/Ops 	FMN 	Schools 
-159.81000 	WQFL925 	BM		Aviston Sch 	Buses  	FMN 	Schools 
-155.22000 	WNKB206 	BM	85.4 PL	Breese SchoolBus 	Buses  	FMN 	Schools 
-152.45000 	WQJM515 	BM		Carlyle School  	Operations/Admin  	FMN 	Schools 
-155.23500 	KZB216 	BM		Carlyl SchoolBus 	Buses 	FMN 	Schools 
-159.60000 	WPTW838 	BM		Grmntwn School 	Buses 	FMN 	Schools 
-155.83500 	WPGW537 	BM		St Rose School  	Buses 	FMN 	Schools 
-463.67500 	WPSQ997 	RM		FS BusTrntn2 	First Student: Buses  	FMN 	Schools 
-464.15000 	WQCA516 	RM	203.5 PL	FS BusTrntn1 	First Student: Buses  	FMN 	Schools 
-463.23750 	WPYT638 	RM		KCC Sec A 	Security/Activities (w/ Phone Patch) 	FMN 	Schools 
-463.41250 	WPYT638 	RM		KCC Sec B 	Security/Activities (w/ Phone Patch) 	FMN 	Schools 
-463.47500 	WPYT638 	RM		KCC Sec C 	Security/Activities  	FMN 	Schools 
-163.41250 	 	RM	103.5 PL	ACoE LkDams 	Locks and Dams - Carlyle Lake 	FMN 	Federal 
-173.43750 	 	RM	100 NAC	CarlylLk Ranger 	Carlyle Lake Rangers [TG 1/RIDs 1] 	P25 	Federal 
-Centralia Correctional Center - IDOC (Marion)	 Motorola Type II Smartnet	 Centralia	Southwestern Electric Cooperative (IL)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greenville IL	WirelessUSA (Tier 3)	 DMR Tier 3
- IL/MO	
+151.41500 	   	WPTL203 	BM	CSQ	Clinton 911 Page 	911/Fire/EMS: Paging (Tone Outs)  	FMN 	Fire Dispatch 
+155.72250 	   	WPTL203 	BM	210.7 PL	Clinton 911 Disp 	911/Fire/EMS: Dispatch 	FMN 	Fire Dispatch 
+155.41500 	   	WPTL203 	M		Clinton 911 Mob 	Fire/EMS: Unit-to-Unit 	FMN 	Fire-Tac 
+453.23750 	   	WPTL203 	F		Clinton 911 RF1 	Remote Link - Breese PSAP 	FMN 	Fire Dispatch 
+458.23750 	   	WPTL203 	F		Clinton 911 RF2 	Remote Link - From Greenville - Bond Co 	FMN 	Fire Dispatch 
+453.76250 	   	WPTL203 	F		Clinton 911 RF3 	Remote Link - From Clinton Co-Carlyle PSAP 	FMN 	Fire Dispatch 
+458.76250 	   	WPTL203 	F		Clinton 911 RF4 	Remote Link - Breese PSAP 	FMN 	Fire Dispatch 
+453.31250 	   	WPTL203 	F		Clinton 911 RF5 	Remote Link - From Greenville - Bond Co 	FMN 	Fire Dispatch 
+458.31250 	   	WPTL203 	F		Clinton 911 RF6 	Remote Link - Carlyle US Army Corps 	FMN 	Fire Dispatch 
+453.38750 	   	WPTL203 	F		Clinton 911 RF7 	Remote Link - From Clinton Co-Carlyle PSAP 	FMN 	Fire Dispatch 
+458.38750 	   	WPTL203 	F		Clinton 911 RF8  	Remote Link - Carlyle US Army Corps 	FMN 	Fire Dispatch 
+458.43750 	   	WPTL203 	F	103.5 PL	Clinton 911 RF9  	Remote Link (Constant Carrier) 	FMN 	Fire Dispatch 
+154.87500 	159.03000  	KSA936 	RM	210.7 PL	Clinton Sheriff 	Sheriff: Dispatch - West [Ch 1 Trenton] 	FMN 	Law Dispatch 
+154.87500 	155.61000  	KSA936 	RM	210.7 PL	Clinton Sheriff 	Sheriff: Dispatch - East [Ch 1 Carlyle] 	FMN 	Law Dispatch 
+154.89000 	   	KSA936 	M		Clnt Sheriff TA6 	Sheriff: Talk-Around [Ch 6] 	FMN 	Law Tac 
+155.13000 	   	KSA936 	BM	123.0 PL	Clnt Sheriff B 	Sheriff: 	FMN 	Law Tac 
+173.21000 	   	KSA936 	M		Clnt Sheriff MX 	Sheriff: Mobile Extenders 	FMN 	Law Tac 
+151.04000 	   	KAU324 	BM		Clnt Highway 	Road Maintenance (possibly 156.7) 	FMN 	Public Works 
+453.57500 	   	WPKL427 	F		Clinton WDD 	Water Treatment Data (CSQ) [Expired] 	Telm 	Data 
+936.00000 	897.00000  	WPXG657 	RM	074 DPL	MedStar 9-C 	EMS: Dispatch - Local (Carlyle)  	FM 	EMS Dispatch 
+463.45000 	468.45000  	WPKZ802 	RM	103.5 PL	StJos Maint 	Maintenance (w/ Phone Patch) 	FMN 	Business 
+155.34000 	   	KAA673 	B	88.5 PL	MERCI1 88.5 	Patient Reports 	FMN 	Hospital 
+155.34000 	   	KAA673 	B	97.4 PL	MERCI1 97.4 	Patient Reports 	FMN 	Hospital 
+155.16000 	   	WNCT265 	B	88.5 PL	MERCI-3 88.5 	Patient Reports 	FMN 	Hospital 
+151.01000 	   	WNUN392 	BM		ClntTS Roads 	Breese Township Road District: Road Maintenance 	FMN 	Public Works 
+452.05000 	   	WPGK707 	F		Carl NWC WDD 	Carlyle North Water Company 	Telm 	Data 
+154.45625 	   	WNFV434 	F		Carl SWPWD 	Carlyle SW Public Water District 	Telm 	Data 
+153.86000 	   	WPMY372 	M		CarlTS Roads 	Carlyle Township Roads/Bridges 	FMN 	Public Works 
+456.02500 	   	WQXW697 	M		Carlyle WDD 	Carlyle Water (CSQ) 	FMN 	Data 
+173.33750 	   	WNYL506 	F		Hoyl RWC WDD 	Hoyleston Rural Water Company: Water Distribution Data (Centralia) 	Telm 	Data 
+151.01000 	   	WNRI688 	BM		ClntTS Roads 	Lookingglass Township Highway Department 	FMN 	Public Works 
+451.02500 	   	WPTG669 	F	125 DPL	NMPWD Data2 	New Memphis Public Water District: Data (CSQ) 	FMN 	Data 
+173.20375 	   	KNEL927 	B		NMPWD Data3 	New Memphis Public Water District: Water Distribution Data (CSQ) 	Telm 	Data 
+160.00500 	   	WQNK509 	F		RacoonWater 	Racoon Water Company: Data (CSQ) 	Telm 	Data 
+151.01000 	   	WPGV652 	BM		ClntTS Roads 	Saint Rose Township: Road Maintenance 	FMN 	Public Works 
+159.06000 	   	WPNW718 	M		WadeTS Roads 	Wade Township Road Maintenance 	FMN 	Public Works 
+159.16500 	156.06000  	WPXF302 	RM		WhtfTS Roads 	Wheatfield Township Road Maintenance (Carlyle) 	FMN 	Public Works 
+154.43000 	   	WNIJ250 	BM	107.2 PL	ClinClr Fire 	Fire: Dispatch (DB: Clinton County) 	FMN 	Fire Dispatch 
+155.95500 	   	KNJP368 	M	100.0 PL	CCFPD FG 	Fireground-Private [Expired] 	FMN 	Fire-Tac 
+460.63750 	   	WNIJ250 	F	100.0 PL	CCFPD RF1 	Fire: Remote Link (Open Carrier) 	FMN 	Fire-Tac 
+465.63750 	   	WNIJ250 	F		CCFPD RF2 	Fire: Remote Link 	FMN 	Fire-Tac 
+155.96250 	   	WPWA772 	BM		Aviston FG 	Firegound (also input to FPD 159.135R) 	FMN 	Fire-Tac 
+151.43000 	156.18000  	WQZY777 	RM		Aviston Fire 	Fire: Local 	FMN 	Fire-Tac 
+154.23500 	   	 	M	CSQ	Aviston FG2 	Fireground 	FMN 	Fire-Tac 
+451.06250 	   	WQBR931 	F		Aviston WDD  	Water Treatment Data  	FMN 	Data 
+456.08750 	   	KD26236 	F		Bartelso WDD 	Water Treatment Plant  	Telm 	Data 
+453.53750 	   	WPDC657 	M	203.5 PL	Beck WDD 1 	Water Distribution Data 	FMN 	Data 
+458.53750 	   	WPDC657 	M		Beck WDD 2 	Water Distribution Data 	Telm 	Data 
+154.38500 	   	KSG450 	BM		Breese FG 	Fireground 	FMN 	Fire-Tac 
+154.75500 	   	KVZ231 	RM	210.7 PL	Breese EMS  	Breese Ambulance Service  	FMN 	EMS Dispatch 
+453.02500 	458.02500  	WPUJ307 	RM		Bres EMS RF1 	EMS (Receive Links to 154.75?) 	FMN 	EMS-Tac 
+463.15000 	   	WPUJ307 	BM		Bres EMS RF2 	EMS  	FMN 	EMS-Tac 
+155.74500 	   	WNQJ327 	BM		Bres PW/Elec 	Public Works / Electrical 	FMN 	Public Works 
+173.26250 	   	WNKR307 	F		Bres PW/WDD 	Public Works: Water Data  	FMN 	Data 
+158.79000 	155.25000  	WNNE268 	RM	203.5 PL	Carlyle Police 	Police: Local  	FMN 	Law Dispatch 
+158.79000 	   	KNEJ565 	BM	210.7 PL	Carlyle Police 2 	Police: Local 	FMN 	Law Dispatch 
+154.25000 	   	KDG411 	M		Carlyle FG 	Fireground 	FMN 	Fire-Tac 
+155.94000 	   	KNDS837 	BM		Carl PubWrks 	Public Works 	FMN 	Public Works 
+451.43750 	   	WPHD642 	M		Carlyle WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+159.26250 	   	KSE495 	BM		Grmntwn FG 	Fireground 	FMN 	Fire-Tac 
+155.17500 	   	WPNT323 	BM		Hoffman FG 	Fireground 	FMN 	Fire-Tac 
+154.04000 	155.98500  	KYB919 	RM	203.5 PL	NBadn Police 	Police: Dispatch (DB: Clinton County)  	FMN 	Law Dispatch 
+154.04000 	155.98500  	KYB919 	RM	186.2 PL	NBaden Fire 	Fire: Dispatch (DB: Clinton County) 	FMN 	Fire Dispatch 
+154.04000 	155.98500  	KYB919 	RM	192.8 PL	NBaden EMS 	EMS: Dispatch (DB: Clinton County) 	FMN 	EMS Dispatch 
+154.04000 	155.98500  	KYB919 	RM	167.9 PL	NB PW/Local 	Public Works / City Hall 	FMN 	Public Works 
+154.16000 	   	WPJU990 	BM	203.5 PL	St Rose FG 	Fireground 	FMN 	Fire-Tac 
+155.26500 	   	WPXW273 	BM	123.0 PL	SCEMS Disp 	EMS: Dispatch (by Clinton County) 	FMN 	EMS Dispatch 
+453.18750 	   	WPXW273 	F	156.7 PL	SCEMS RF1 	Remote Link (Trenton PD to Clinton Co 911) 	FMN 	EMS Dispatch 
+458.18750 	   	WPXW273 	F		SCEMS RF2 	Remote Link (911 - Carlyle) 	FMN 	EMS Dispatch 
+155.26500 	   	WPXW273 	M	210.7 PL	SCEMS T/A 	EMS: Talk-Around (does not activate RF Link) 	FMN 	EMS-Tac 
+154.20500 	   	WQY595 	BM	94.8 PL	Sugar Creek Fire 	Fire: Dispatch (DB: Clinton County) 	FMN 	Fire Dispatch 
+465.61250 	   	WQY595 	M	100.0 PL	SgrCreek Fire RF 	Fire: Remote Link from 911 to 154.205 Trenton  	FMN 	Fire-Tac 
+159.21750 	153.91250  	WPXF402 	RM	031 DPL	Trenton PD Loc   	Police: Local (repeats St Clair County Rural Law and/or ESDA 158.835) 	FMN 	Law Dispatch 
+154.04000 	   	KNGS965 	BM		Trenton ESDA 	ESDA: Local 	FMN 	Emergency Ops 
+155.57250 	158.87250  	KNGS965 	RM	186.2 PL	Trenton PW/PD  	City Maintenance / Police Alternate 	FMN 	Public Works 
+159.49500 	   	WPUI867 			Albers Sch 	Buses/Ops 	FMN 	Schools 
+159.81000 	   	WQFL925 	BM		Aviston Sch 	Buses  	FMN 	Schools 
+155.22000 	   	WNKB206 	BM	85.4 PL	Breese SchoolBus 	Buses  	FMN 	Schools 
+152.45000 	   	WQJM515 	BM		Carlyle School  	Operations/Admin  	FMN 	Schools 
+155.23500 	   	KZB216 	BM		Carlyl SchoolBus 	Buses 	FMN 	Schools 
+159.60000 	   	WPTW838 	BM		Grmntwn School 	Buses 	FMN 	Schools 
+155.83500 	   	WPGW537 	BM		St Rose School  	Buses 	FMN 	Schools 
+463.67500 	468.67500  	WPSQ997 	RM		FS BusTrntn2 	First Student: Buses  	FMN 	Schools 
+464.15000 	469.15000  	WQCA516 	RM	203.5 PL	FS BusTrntn1 	First Student: Buses  	FMN 	Schools 
+463.23750 	468.23750  	WPYT638 	RM		KCC Sec A 	Security/Activities (w/ Phone Patch) 	FMN 	Schools 
+463.41250 	468.41250  	WPYT638 	RM		KCC Sec B 	Security/Activities (w/ Phone Patch) 	FMN 	Schools 
+463.47500 	468.47500  	WPYT638 	RM		KCC Sec C 	Security/Activities  	FMN 	Schools 
+163.41250 	   	 	RM	103.5 PL	ACoE LkDams 	Locks and Dams - Carlyle Lake 	FMN 	Federal 
+173.43750 	   	 	RM	100 NAC	CarlylLk Ranger 	Carlyle Lake Rangers [TG 1/RIDs 1] 	P25 	Federal 
+Centralia Correctional Center - IDOC (Marion)	 Motorola Type II Smartnet	 Centralia	Diga-Talk	 NXDN NEXEDGE 4800	 Various	Southwestern Electric Cooperative (IL)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greenville IL
+WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	

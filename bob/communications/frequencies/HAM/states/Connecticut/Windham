@@ -1,49 +1,48 @@
-33.80000 	KXV431 	B	179.9 PL	QV Dispatch 	Fire/EMS Dispatch 	FM 	Fire Dispatch 
-152.00750 	WPDA800 	B	CSQ	QV Dispatch 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-33.90000 	KXV431 	BM	179.9 PL	QV Ops 	Fire Operations 	FM 	Fire Dispatch 
-33.76000 	KXV431 	BM	179.9 PL	QV Firegrnd1 	Fire/EMS - Central and North 	FM 	Fire-Tac 
-33.74000 	KXV431 	BM	179.9 PL	QV Firegrnd2 	Fire/EMS - South 	FM 	Fire-Tac 
-33.78000 	KXV431 	M	179.9 PL	QV Firegrnd3 	Fire/EMS Secondary 	FM 	Fire-Tac 
-33.88000 	KXV431 	BM	179.9 PL	QV EMS Ops 	EMS Operations 	FM 	EMS Dispatch 
-453.37500 	WPDV738 	RM	123.0 PL	QV UHF Link 	Fire/EMS Link to QV 	FM 	Multi-Dispatch 
-453.37500 	WPDV738 	RM	141.3 PL	QV/TN Link 	Fire/EMS Link to TN 	FM 	Multi-Dispatch 
-453.37500 	WPDV738 	RM	192.8 PL	QV/WW Link 	Fire/EMS Link to WW 	FM 	Multi-Dispatch 
-453.37500 	WPDV738 	RM	77.0 PL	QV/KX Link 	Fire/EMS Link to KX 	FM 	Multi-Dispatch 
-460.60000 	WPDV738 	RM		QV X-Patch 	Fire/EMS Crosspatch with 33.9 MHz (various tones) 	FM 	EMS Dispatch 
-452.18750 	 		203.5 PL	QVFirePolice 	Regional Fire Police 	FM 	Fire-Tac 
-458.41250 	KD51648 	M	179.9 PL	QV FG Red 	Regional Fireground Red 	FM 	Fire-Tac 
-465.58750 	KD51648 	M	179.9 PL	QV FG Blue 	Regional Fireground Blue 	FM 	Fire-Tac 
-458.23750 	KD51648 	M		QV VehRptr 	Fire/EMS Vehicular Repeater (tone varies by department) 	FM 	Multi-Tac 
-453.23750 	KD51648 	M		QV Tac 	Fire/EMS Tactical (tone varies by department) 	FM 	Multi-Tac 
-152.00750 	WPDA800 	B	CSQ	QV Dispatch 	Fire Dispatch - Soapstone Mountain 	FM 	Fire Dispatch 
-153.12500 	WQFM415 	B	179.9 PL	QV Dispatch 	VHF Link to 33.80 - Birch Mountain 	FM 	Fire Dispatch 
-453.81250 	 		118.8 PL	QV PH Link 	UHF Link to Plain Hill 	FM 	Fire Dispatch 
-463.12500 	WPMZ972 	BM		QV EMS Med-6 	EMS Med-6 Ambulance to Hospital 	FM 	Hospital 
-463.15000 	 	RM	CSQ	QV EMS Med-7 	EMS Med-6 Ambulance to Hospital 	FM 	Hospital 
-463.18750 	 	RM	118.8 PL	QV LB Repeat 	Lowband Repeater 	FM 	Fire Dispatch 
-154.38500 	WNLE309 	BM	118.8 PL	Dnlsn Frgrnd 	Fireground 	FM 	Fire-Tac 
-460.60000 	 	RM		Fire/EMS 	Fire/EMS 	FM 	Multi-Dispatch 
-453.85000 	KNFZ715 	RM	103.5 PL	Plnfld PD 	Police 	FM 	Law Dispatch 
-458.98750 	WNME759 	F	77.0 PL	PlnfldPDLink 	Police Link to 453.85 MHz 	FM 	Law Dispatch 
-155.29500 	KNNG568 	BM	103.5 PL	PlnfldSchBus 	School Bus Garage 	FM 	Schools 
-45.08000 	 	M		Pomfret DPW 	Public Works 	FM 	Public Works 
-159.09000 	KCA989 	BM	141.3 PL	PutnamPolice 	Police Dispatch 	FM 	Law Dispatch 
-159.12750 	WNZP226 	BM	156.7 PL	Putnam FD 	Fire Operations  	FMN 	Fire Dispatch 
-154.35500 	 	M	156.7 PL	Putnam Fire 	Fire Operations 	FM 	Fire-Tac 
-153.83000 	 	M	156.7 PL	Putnam FG 	Fireground Operations 	FM 	Fire-Tac 
-151.13000 	 	M		Putnam DPW 	Highway Department 	FM 	Public Works 
-155.29500 	 	BM	146.2 PL	Putnam EMS 	EMS Operations 	FM 	EMS Dispatch 
-159.19500 	KGU962 	RM	123.0 PL	Thompson DPW 	Highway Department 	FMN 	Public Works 
-854.26250 	 	RM	162.2 PL	WilmanticPD1 	Police Dispatch 	FM 	Law Dispatch 
-852.76250 	 	M		WilmanticPD2 	Police Car-to-Car 	FM 	Law Tac 
-460.62500 	WNLA613 	RM	186.2 PL	WilmantcFire 	Fire Operations 	FM 	Fire Dispatch 
-33.64000 	KQW555 	BM	179.9 PL	WilmantcFire 	Fire 	FM 	Fire Dispatch 
-460.57500 	WNLA613 	RM	127.3 PL	WFD Alert 	Fire Station Siren Activation / Windham Medics 	FM 	Fire Dispatch 
-45.76000 	KMJ854 	BM	127.3 PL	WillimanticDPW 	Public Works 	FM 	Public Works 
-33.64000 	KQW555 	BM	179.9 PL	Windham Fire 	Fire 	FM 	Fire Dispatch 
-46.54000 	 	M		Woodstck DPW 	Public Works Lowband 	FM 	Public Works 
-155.77500 	 	M		Woodstck DPW 	Public Works Highband 	FM 	Public Works 
-453.15000 	WPJT291 	RM	CC 9TG 100SL 1	ECSU Police 	Police 	DMR 	Law Dispatch 
-462.08750 	 	RM		ECSU/WPD Ptc 	Police Cross-patch to Willimantic Police on 851.7625 MHz 	FM 	Law Tac 
-Connecticut Land Mobile Radio Network (CLMRN)	 Project 25 Phase II	 Statewide	Frito Lay	 NXDN NEXEDGE 9600	 Dayville	Marcus Spectrum Holdings, LLC	 DMR Tier 3
- Various	
+33.80000 	   	KXV431 	B	179.9 PL	QV Dispatch 	Fire/EMS Dispatch 	FM 	Fire Dispatch 
+152.00750 	   	WPDA800 	B	CSQ	QV Dispatch 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+33.90000 	   	KXV431 	BM	179.9 PL	QV Ops 	Fire Operations 	FM 	Fire Dispatch 
+33.76000 	   	KXV431 	BM	179.9 PL	QV Firegrnd1 	Fire/EMS - Central and North 	FM 	Fire-Tac 
+33.74000 	   	KXV431 	BM	179.9 PL	QV Firegrnd2 	Fire/EMS - South 	FM 	Fire-Tac 
+33.78000 	   	KXV431 	M	179.9 PL	QV Firegrnd3 	Fire/EMS Secondary 	FM 	Fire-Tac 
+33.88000 	   	KXV431 	BM	179.9 PL	QV EMS Ops 	EMS Operations 	FM 	EMS Dispatch 
+453.37500 	458.37500  	WPDV738 	RM	123.0 PL	QV UHF Link 	Fire/EMS Link to QV 	FM 	Multi-Dispatch 
+453.37500 	458.37500  	WPDV738 	RM	141.3 PL	QV/TN Link 	Fire/EMS Link to TN 	FM 	Multi-Dispatch 
+453.37500 	458.37500  	WPDV738 	RM	192.8 PL	QV/WW Link 	Fire/EMS Link to WW 	FM 	Multi-Dispatch 
+453.37500 	458.37500  	WPDV738 	RM	77.0 PL	QV/KX Link 	Fire/EMS Link to KX 	FM 	Multi-Dispatch 
+460.60000 	465.60000  	WPDV738 	RM		QV X-Patch 	Fire/EMS Crosspatch with 33.9 MHz (various tones) 	FM 	EMS Dispatch 
+452.18750 	   	 		203.5 PL	QVFirePolice 	Regional Fire Police 	FM 	Fire-Tac 
+458.41250 	   	KD51648 	M	179.9 PL	QV FG Red 	Regional Fireground Red 	FM 	Fire-Tac 
+465.58750 	   	KD51648 	M	179.9 PL	QV FG Blue 	Regional Fireground Blue 	FM 	Fire-Tac 
+458.23750 	   	KD51648 	M		QV VehRptr 	Fire/EMS Vehicular Repeater (tone varies by department) 	FM 	Multi-Tac 
+453.23750 	   	KD51648 	M		QV Tac 	Fire/EMS Tactical (tone varies by department) 	FM 	Multi-Tac 
+152.00750 	   	WPDA800 	B	CSQ	QV Dispatch 	Fire Dispatch - Soapstone Mountain 	FM 	Fire Dispatch 
+153.12500 	   	WQFM415 	B	179.9 PL	QV Dispatch 	VHF Link to 33.80 - Birch Mountain 	FM 	Fire Dispatch 
+453.81250 	   	 		118.8 PL	QV PH Link 	UHF Link to Plain Hill 	FM 	Fire Dispatch 
+463.12500 	468.12500  	WPMZ972 	BM		QV EMS Med-6 	EMS Med-6 Ambulance to Hospital 	FM 	Hospital 
+463.15000 	468.15000  	 	RM	CSQ	QV EMS Med-7 	EMS Med-6 Ambulance to Hospital 	FM 	Hospital 
+463.18750 	   	 	RM	118.8 PL	QV LB Repeat 	Lowband Repeater 	FM 	Fire Dispatch 
+154.38500 	   	WNLE309 	BM	118.8 PL	Dnlsn Frgrnd 	Fireground 	FM 	Fire-Tac 
+460.60000 	465.60000  	 	RM		Fire/EMS 	Fire/EMS 	FM 	Multi-Dispatch 
+453.85000 	458.85000  	KNFZ715 	RM	103.5 PL	Plnfld PD 	Police 	FM 	Law Dispatch 
+458.98750 	453.98750  	WNME759 	F	77.0 PL	PlnfldPDLink 	Police Link to 453.85 MHz 	FM 	Law Dispatch 
+155.29500 	   	KNNG568 	BM	103.5 PL	PlnfldSchBus 	School Bus Garage 	FM 	Schools 
+45.08000 	   	 	M		Pomfret DPW 	Public Works 	FM 	Public Works 
+159.09000 	   	KCA989 	BM	141.3 PL	PutnamPolice 	Police Dispatch 	FM 	Law Dispatch 
+159.12750 	   	WNZP226 	BM	156.7 PL	Putnam FD 	Fire Operations  	FMN 	Fire Dispatch 
+154.35500 	   	 	M	156.7 PL	Putnam Fire 	Fire Operations 	FM 	Fire-Tac 
+153.83000 	   	 	M	156.7 PL	Putnam FG 	Fireground Operations 	FM 	Fire-Tac 
+151.13000 	   	 	M		Putnam DPW 	Highway Department 	FM 	Public Works 
+155.29500 	   	 	BM	146.2 PL	Putnam EMS 	EMS Operations 	FM 	EMS Dispatch 
+159.19500 	   	KGU962 	RM	123.0 PL	Thompson DPW 	Highway Department 	FMN 	Public Works 
+854.26250 	809.26250  	 	RM	162.2 PL	WilmanticPD1 	Police Dispatch 	FM 	Law Dispatch 
+852.76250 	   	 	M		WilmanticPD2 	Police Car-to-Car 	FM 	Law Tac 
+460.62500 	465.62500  	WNLA613 	RM	186.2 PL	WilmantcFire 	Fire Operations 	FM 	Fire Dispatch 
+33.64000 	   	KQW555 	BM	179.9 PL	WilmantcFire 	Fire 	FM 	Fire Dispatch 
+460.57500 	465.57500  	WNLA613 	RM	127.3 PL	WFD Alert 	Fire Station Siren Activation / Windham Medics 	FM 	Fire Dispatch 
+45.76000 	   	KMJ854 	BM	127.3 PL	WillimanticDPW 	Public Works 	FM 	Public Works 
+33.64000 	   	KQW555 	BM	179.9 PL	Windham Fire 	Fire 	FM 	Fire Dispatch 
+46.54000 	   	 	M		Woodstck DPW 	Public Works Lowband 	FM 	Public Works 
+155.77500 	   	 	M		Woodstck DPW 	Public Works Highband 	FM 	Public Works 
+453.15000 	458.15000  	WPJT291 	RM	CC 9TG 100SL 1	ECSU Police 	Police 	DMR 	Law Dispatch 
+462.08750 	467.08750  	 	RM		ECSU/WPD Ptc 	Police Cross-patch to Willimantic Police on 851.7625 MHz 	FM 	Law Tac 
+Frito Lay	 NXDN NEXEDGE 9600	 Dayville	

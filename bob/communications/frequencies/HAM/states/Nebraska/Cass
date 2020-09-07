@@ -1,36 +1,36 @@
-859.18750 	WRAC376 	BM	156.7 PL	Cass Co LE Disp 	County Law Enforcement 	FMN 	Law Dispatch 
-853.30000 	WQET706 	RM	156.7 PL	Cass SO Nrth Est 	Sheriff - Plattsmouth Tower 	FMN 	Law Dispatch 
-853.62500 	WQET706 	RM	156.7 PL	Cass SO West 	Sheriff - Gretna Tower 	FMN 	Law Dispatch 
-853.87500 	WQET706 	RM	048 NAC	Cass SO SouEast 	Sheriff - Murray Tower 	P25 	Law Dispatch 
-854.03750 	WQET706 	RM	048 NAC	Cass SO Central 	Sheriff - Weeping Water (P25) 	P25 	Law Dispatch 
-854.03750 	WQET706 	RM	156.7 PL	Cass SO Central 	Sheriff - Weeping Water (FMN) 	FMN 	Law Dispatch 
-39.68000 	WZC542 	M		CassSo C2C 	Sheriff Car/Car 	FM 	Law Talk 
-153.89000 	 	BM	123.0 PL	Cass Co Jail 	Cass County Jail 	FMN 	Corrections 
-154.38500 	WNXN466 	RM	114.8 PL	Cass Co Fire 	County Fire Dispatch 	FMN 	Fire Dispatch 
-856.06250 	WRAE574 	RM	103.5 PL	Cass Co FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-856.51250 	WRAE574 	RM	114.8 PL	Cass Co FD Tac 1 	Fire Tac 1 	FMN 	Fire-Tac 
-857.06250 	WRAE574 	RM	127.3 PL	Cass Co FD Tac 2 	Fire Tac 2 	FMN 	Fire-Tac 
-858.18750 	WRAE574 	RM	141.3 PL	Cass Co FD Tac 3 	Fire Tac 3 	FMN 	Fire-Tac 
-154.26500 	WPZT754 	BM	77.0 PL	Cass Co Patch 	Lancaster/Saunders County Patch 	FMN 	Interop 
-154.81500 	WZC542 	RM	107.2 PL	Cass Co Tac  	Countywide Tac  	FMN 	Interop 
-154.72500 	WPZV696 	RM	445 DPL	Cass Co EMA 	Emergency Management 	FM 	Emergency Ops 
-151.55000 	WPRH445 	M		Cass Co SAR 	K9 Search and Rescue 	FM 	Emergency Ops 
-151.62500 	WPRH445 	M		Cass Co SAR 	K9 Search and Rescue 	FM 	Emergency Ops 
-153.00500 	WPRH445 	M		Cass Co SAR 	K9 Search and Rescue 	FM 	Emergency Ops 
-151.10000 	KIZ260 	RM	110.9 PL	Cass Co Roads 1 	Highway Dept 1 	FM 	Public Works 
-151.10000 	KIZ260 	RM	465 DPL	Cass Co Roads 2 	Highway Dept 2 	FM 	Public Works 
-154.51500 	KNCM927 	RM	146.2 PL	Murray High Sc 	Conestoga High School 	FM 	Schools 
-461.62500 	WNWA705 	RM	103.5 PL	Elmood Murdok 	Elmwood Murdock School 	FM 	Schools 
-155.05500 	WNKP373 	BM	254.1 PL	GreenwoodSrv 	Greenwood Services 	FM 	Interop 
-39.90000 	KNIA330 	BM	CSQ	Murray Fire 	Fire 	FM 	Fire-Tac 
-851.40000 	WQET706 	RM	048 NAC	Platts PD 	Police (P25) 	P25 	Law Dispatch 
-851.40000 	WQET706 	RM	156.7 PL	Platts PD 	Police (FMN) 	FMN 	Law Dispatch 
-39.76000 	KSQ696 	M		PlattsPD Car/Car 	Police 4 Car/Car 	FMN 	Law Talk 
-155.49000 	KSQ696 	BM	107.2 PL	PlattsPD VHF 	Police 	FM 	Law Dispatch 
-159.25500 	WPSF346 	RM	606 DPL	Platts FD 1 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.92000 	WPSF346 	M	565 DPL	Platts FD 2 	Fire TAC 1 	FMN 	Fire-Tac 
-158.88000 	WPSF346 	M	654 DPL	Platts FD 3 	Fire TAC 2 	FMN 	Fire-Tac 
-857.76250 	 	RM	156.7 PL	Platts FD Tac 	Fire Tac (800) 	FMN 	Fire-Tac 
-453.32500 	KNBU624 	BM	103.5 PL	WeepingW FD 	Fire 	FMN 	Fire-Tac 
-Metropolitan Utilities District (MUD)	 Motorola Type II Smartnet	 Omaha	Nebraska TRBO	 DMR Conventional Networked	 Various	Omaha Regional Interoperability Network (ORION)	 Project 25 Phase II
- Omaha	Shaffer Communications (DMR)	 DMR Hytera XPT	 Various	
+859.18750 	   	WRAC376 	BM	156.7 PL	Cass Co LE Disp 	County Law Enforcement 	FMN 	Law Dispatch 
+853.30000 	808.30000  	WQET706 	RM	156.7 PL	Cass SO Nrth Est 	Sheriff - Plattsmouth Tower 	FMN 	Law Dispatch 
+853.62500 	808.62500  	WQET706 	RM	156.7 PL	Cass SO West 	Sheriff - Gretna Tower 	FMN 	Law Dispatch 
+853.87500 	808.87500  	WQET706 	RM	048 NAC	Cass SO SouEast 	Sheriff - Murray Tower 	P25 	Law Dispatch 
+854.03750 	809.03750  	WQET706 	RM	048 NAC	Cass SO Central 	Sheriff - Weeping Water (P25) 	P25 	Law Dispatch 
+854.03750 	809.03750  	WQET706 	RM	156.7 PL	Cass SO Central 	Sheriff - Weeping Water (FMN) 	FMN 	Law Dispatch 
+39.68000 	   	WZC542 	M		CassSo C2C 	Sheriff Car/Car 	FM 	Law Talk 
+153.89000 	   	 	BM	123.0 PL	Cass Co Jail 	Cass County Jail 	FMN 	Corrections 
+154.38500 	153.89000  	WNXN466 	RM	114.8 PL	Cass Co Fire 	County Fire Dispatch 	FMN 	Fire Dispatch 
+856.06250 	   	WRAE574 	RM	103.5 PL	Cass Co FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+856.51250 	   	WRAE574 	RM	114.8 PL	Cass Co FD Tac 1 	Fire Tac 1 	FMN 	Fire-Tac 
+857.06250 	   	WRAE574 	RM	127.3 PL	Cass Co FD Tac 2 	Fire Tac 2 	FMN 	Fire-Tac 
+858.18750 	   	WRAE574 	RM	141.3 PL	Cass Co FD Tac 3 	Fire Tac 3 	FMN 	Fire-Tac 
+154.26500 	   	WPZT754 	BM	77.0 PL	Cass Co Patch 	Lancaster/Saunders County Patch 	FMN 	Interop 
+154.81500 	156.15000  	WZC542 	RM	107.2 PL	Cass Co Tac  	Countywide Tac  	FMN 	Interop 
+154.72500 	158.77500  	WPZV696 	RM	445 DPL	Cass Co EMA 	Emergency Management 	FM 	Emergency Ops 
+151.55000 	   	WPRH445 	M		Cass Co SAR 	K9 Search and Rescue 	FM 	Emergency Ops 
+151.62500 	   	WPRH445 	M		Cass Co SAR 	K9 Search and Rescue 	FM 	Emergency Ops 
+153.00500 	   	WPRH445 	M		Cass Co SAR 	K9 Search and Rescue 	FM 	Emergency Ops 
+151.10000 	159.12000  	KIZ260 	RM	110.9 PL	Cass Co Roads 1 	Highway Dept 1 	FM 	Public Works 
+151.10000 	159.12000  	KIZ260 	RM	465 DPL	Cass Co Roads 2 	Highway Dept 2 	FM 	Public Works 
+154.51500 	159.79500  	KNCM927 	RM	146.2 PL	Murray High Sc 	Conestoga High School 	FM 	Schools 
+461.62500 	466.62500  	WNWA705 	RM	103.5 PL	Elmood Murdok 	Elmwood Murdock School 	FM 	Schools 
+155.05500 	   	WNKP373 	BM	254.1 PL	GreenwoodSrv 	Greenwood Services 	FM 	Interop 
+39.90000 	   	KNIA330 	BM	CSQ	Murray Fire 	Fire 	FM 	Fire-Tac 
+851.40000 	806.40000  	WQET706 	RM	048 NAC	Platts PD 	Police (P25) 	P25 	Law Dispatch 
+851.40000 	806.40000  	WQET706 	RM	156.7 PL	Platts PD 	Police (FMN) 	FMN 	Law Dispatch 
+39.76000 	   	KSQ696 	M		PlattsPD Car/Car 	Police 4 Car/Car 	FMN 	Law Talk 
+155.49000 	   	KSQ696 	BM	107.2 PL	PlattsPD VHF 	Police 	FM 	Law Dispatch 
+159.25500 	151.25000  	WPSF346 	RM	606 DPL	Platts FD 1 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.92000 	   	WPSF346 	M	565 DPL	Platts FD 2 	Fire TAC 1 	FMN 	Fire-Tac 
+158.88000 	   	WPSF346 	M	654 DPL	Platts FD 3 	Fire TAC 2 	FMN 	Fire-Tac 
+857.76250 	   	 	RM	156.7 PL	Platts FD Tac 	Fire Tac (800) 	FMN 	Fire-Tac 
+453.32500 	458.32500  	KNBU624 	BM	103.5 PL	WeepingW FD 	Fire 	FMN 	Fire-Tac 
+Metropolitan Utilities District (MUD)	 Motorola Type II Smartnet	 Omaha	Nebraska State Radio System	 Project 25 Phase I	 Statewide	Nebraska TRBO	 DMR Conventional Networked	 Various
+Shaffer Communications (DMR)	 DMR Hytera XPT	 Various	

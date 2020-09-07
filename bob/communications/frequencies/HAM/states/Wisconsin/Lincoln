@@ -1,28 +1,28 @@
-154.80000 	KTK553 	RM	1A3 NAC	LISO P25 	Sheriff Dispatch 	P25 	Law Dispatch 
-154.80000 	KTK553 	RM	103.5 PL	LISO 	Sheriff Dispatch - Analog 	FMN 	Law Dispatch 
-155.49000 	WPSV758 	RM	103.5 PL	LISO TAC 	Sheriff Special Events 	FMN 	Law Talk 
-155.64000 	KTK553 	RM	103.5 PL	LISO 	Sheriff Regional 	FMN 	Law Talk 
-154.02500 	KTK553 	RM	CC 7TG *SL *	LIJAIL 	Jail 	DMR 	Corrections 
-154.98000 	KSJ490 	RM	103.5 PL	LIFIR 	Fire/EMS 	FMN 	Fire Dispatch 
-154.40000 	WNIM274 	BM	103.5 PL	LIFG 	Fireground 	FMN 	Fire-Tac 
-155.34000 	KTH567 	BM	85.4 PL	LIHOSP 	Lincoln Co Hospital Patient Reports 	FMN 	Hospital 
-151.12250 	WNCD445 	RM	503 DPL	LIHWY 	Highways 	FMN 	Public Works 
-155.72250 	WNCD445 	M		LIHWYMO 	Highways Mobile 	FMN 	Public Works 
-156.18000 	WNCD445 	M	043 DPL	LIHWYMO 	Highways Mobile 	FMN 	Public Works 
-156.18000 	WNCD445 	M		LIHWYMODG 	Highways Mobile 	P25 	Public Works 
-154.08500 	WNQO263 	BM	103.5 PL	LILANDFILL 	Landfill 	FMN 	Public Works 
-154.14500 	KNGR877 	RM	91.5 PL	Merrill Fire 	Fire 	FMN 	Fire-Talk 
-155.07000 	KTK554 	RM	103.5 PL	Merrill PD 	Police 	FMN 	Law Dispatch 
-155.07000 	KTK554 	RM	1E1 NAC	Merrill PD 	Police 	P25 	Law Dispatch 
-45.40000 	KAQ214 	BM	103.5 PL	Merrill DPW 	Public Works 	FM 	Public Works 
-158.76000 	WPHV680 	BM	103.5 PL	Merrill Tran 	Transit 	FMN 	Transportation 
-155.11500 	WQKV753 	RM	065 DPL	PineRiverDPW 	Public Works 	FMN 	Public Works 
-155.83500 	KGT475 	RM	85.4 PL	Tomahawk FD 	Fire 	FMN 	Fire Dispatch 
-151.08500 	KGT475 	RM	151.4 PL	Tomahawk Wtr 	Water Dept / Fire Tactical 	FMN 	Public Works 
-154.07000 	KGT475 	M	85.4 PL	Tomahawk Tac 	Fire Tactical 	FMN 	Fire-Tac 
-156.21000 	KTK555 	BM	110 NAC	Tomahawk PD 	Police 	P25 	Law Dispatch 
-155.94000 	WPNV220 	RM	612 DPL	DPW 	DPW 	FMN 	Public Works 
-145.43000 	N9CLE 	RM	114.8 PL	Tomahawk 	Tomahawk 	FM 	Ham 
-146.64000 	KC9QJN 	RM	114.8 PL	Lincoln Co 	Lincoln County 	FM 	Ham 
-442.77500 	KC9QJN 	RM	114.8 PL	MARG 	Merrill Amatuer Radio Group (MARG) 	FM 	Ham 
-Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide	
+154.80000 	153.86000  	KTK553 	RM	1A3 NAC	LISO P25 	Sheriff Dispatch 	P25 	Law Dispatch 
+154.80000 	153.86000  	KTK553 	RM	103.5 PL	LISO 	Sheriff Dispatch - Analog 	FMN 	Law Dispatch 
+155.49000 	153.90500  	WPSV758 	RM	103.5 PL	LISO TAC 	Sheriff Special Events 	FMN 	Law Talk 
+155.64000 	158.91000  	KTK553 	RM	103.5 PL	LISO 	Sheriff Regional 	FMN 	Law Talk 
+154.02500 	159.21000  	KTK553 	RM	CC 7TG *SL *	LIJAIL 	Jail 	DMR 	Corrections 
+154.98000 	153.98000  	KSJ490 	RM	103.5 PL	LIFIR 	Fire/EMS 	FMN 	Fire Dispatch 
+154.40000 	   	WNIM274 	BM	103.5 PL	LIFG 	Fireground 	FMN 	Fire-Tac 
+155.34000 	   	KTH567 	BM	85.4 PL	LIHOSP 	Lincoln Co Hospital Patient Reports 	FMN 	Hospital 
+151.12250 	156.06000  	WNCD445 	RM	503 DPL	LIHWY 	Highways 	FMN 	Public Works 
+155.72250 	   	WNCD445 	M		LIHWYMO 	Highways Mobile 	FMN 	Public Works 
+156.18000 	   	WNCD445 	M	043 DPL	LIHWYMO 	Highways Mobile 	FMN 	Public Works 
+156.18000 	   	WNCD445 	M		LIHWYMODG 	Highways Mobile 	P25 	Public Works 
+154.08500 	   	WNQO263 	BM	103.5 PL	LILANDFILL 	Landfill 	FMN 	Public Works 
+154.14500 	158.98500  	KNGR877 	RM	91.5 PL	Merrill Fire 	Fire 	FMN 	Fire-Talk 
+155.07000 	159.03000  	KTK554 	RM	103.5 PL	Merrill PD 	Police 	FMN 	Law Dispatch 
+155.07000 	159.03000  	KTK554 	RM	1E1 NAC	Merrill PD 	Police 	P25 	Law Dispatch 
+45.40000 	   	KAQ214 	BM	103.5 PL	Merrill DPW 	Public Works 	FM 	Public Works 
+158.76000 	   	WPHV680 	BM	103.5 PL	Merrill Tran 	Transit 	FMN 	Transportation 
+155.11500 	153.78500  	WQKV753 	RM	065 DPL	PineRiverDPW 	Public Works 	FMN 	Public Works 
+155.83500 	153.92000  	KGT475 	RM	85.4 PL	Tomahawk FD 	Fire 	FMN 	Fire Dispatch 
+151.08500 	156.04500  	KGT475 	RM	151.4 PL	Tomahawk Wtr 	Water Dept / Fire Tactical 	FMN 	Public Works 
+154.07000 	   	KGT475 	M	85.4 PL	Tomahawk Tac 	Fire Tactical 	FMN 	Fire-Tac 
+156.21000 	   	KTK555 	BM	110 NAC	Tomahawk PD 	Police 	P25 	Law Dispatch 
+155.94000 	158.88000  	WPNV220 	RM	612 DPL	DPW 	DPW 	FMN 	Public Works 
+145.43000 	144.83000  	N9CLE 	RM	114.8 PL	Tomahawk 	Tomahawk 	FM 	Ham 
+146.64000 	146.04000  	KC9QJN 	RM	114.8 PL	Lincoln Co 	Lincoln County 	FM 	Ham 
+442.77500 	447.77500  	KC9QJN 	RM	114.8 PL	MARG 	Merrill Amatuer Radio Group (MARG) 	FM 	Ham 
+Diga-Talk	 NXDN NEXEDGE 4800	 Various	

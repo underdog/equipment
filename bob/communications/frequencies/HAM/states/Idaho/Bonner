@@ -1,75 +1,75 @@
-151.49750 	WQOM640 	RM	162.2 PL	BC EFDN Sam 	EFDN Samuels Multicast 	FMN 	Fire Dispatch 
-153.82250 	WQPD882 	RM	162.2 PL	BC EFDN LBlk 	EFDN Little Blacktail Multicast 	FMN 	Fire Dispatch 
-154.39250 	WQFJ498 	RM	100.0 PL	BC EFDN Cort 	EFDN Courthouse Multicast 	FMN 	Fire Dispatch 
-155.40000 	WPWG451 	RM	162.2 PL	BC EFDN Swtz 	EFDN Schweitzer Multicast 	FMN 	Fire Dispatch 
-155.53500 	WQNT629 	RM	162.2 PL	BC EFDN CFrk 	EFDN Clark Fork Multicast 	FMN 	Fire Dispatch 
-155.56500 	WNYF909 	RM	192.8 PL	BC EFDN Bald 	EFDN Baldy Multicast 	FMN 	Fire Dispatch 
-155.72250 	WQFJ498 	RM	162.2 PL	BC EFDN PRvr 	EFDN Priest River Multicast 	FMN 	Fire Dispatch 
-156.07500 	WPYE234 	RM	162.2 PL	BC EFDN Hodo 	EFDN Hoodoo Multicast 	FMN 	Fire Dispatch 
-460.25000 	KNDQ434 	RM	192.8 PL	BC EFDN Bald 	EFDN Baldy Multicast 	FMN 	Fire Dispatch 
-151.11500 	WQNX677 	RM	162.2 PL	BC LEDN Hodo 	LEDN Hoodoo Multicast 	FMN 	Law Dispatch 
-154.70250 	WQOM640 	RM	162.2 PL	BC LEDN Sam 	LEDN Samuels Multicast 	FMN 	Law Dispatch 
-154.67250 	WQFJ498 	RM	162.2 PL	BC LEDN Cort 	LEDN Courthouse Multicast 	FMN 	Law Dispatch 
-154.87500 	WQPX742 	RM	162.2 PL	BC LEDN LBlk 	LEDN Little Blacktail Multicast 	FMN 	Law Dispatch 
-155.13000 	WQPN824 	RM	162.2 PL	BC LEDN CFrk 	LEDN Clark Fork Multicast 	FMN 	Law Dispatch 
-155.83500 	WQOJ226 	RM	162.2 PL	BC LEDN Swtz 	LEDN Schweitzer Multicast 	FMN 	Law Dispatch 
-155.89500 	WQPX285 	RM	162.2 PL	BC LEDN PRvr 	LEDN Priest River Multicast 	FMN 	Law Dispatch 
-158.85000 	KNDQ434 	RM	162.2 PL	BC LEDN Bald 	LEDN Baldy Multicast 	FMN 	Law Dispatch 
-158.85000 	WQPX285 	RM	110.9 PL	BALDY ALT 	LEDN BALDY ALT 	FMN 	Law Dispatch 
-154.96250 	 	BM	CSQ	BCSO JAIL 	Jail 	FMN 	Corrections 
-158.87250 	 	M	162 NAC	BCSO TAC 1 	Tactical 1 	P25 	Law Tac 
-453.26250 	WQFJ498 	RM		BC LEDN PRvr 	LEDN Priest River Multicast 	FMN 	Law Dispatch 
-453.28750 	WQOM640 	RM		BC LEDN Sam 	LEDN Samuels Multicast 	FMN 	Law Dispatch 
-453.31250 	WQNT629 	RM		BC LEDN CFrk 	LEDN Clark Fork Multicast 	FMN 	Law Dispatch 
-453.66250 	WQFJ498 	RM		BC LEDN Cort 	LEDN Courthouse Multicast 	FMN 	Law Dispatch 
-460.17500 	WPZD898 	RM	162.2 PL	BC LEDN Hodo 	LEDN Hoodoo Multicast 	FMN 	Law Dispatch 
-460.23750 	WQQS292 	RM	162.2 PL	BC LEDN LBlk 	LEDN Little Blacktail Multicast 	FMN 	Law Dispatch 
-460.50000 	KNDQ434 	RM	162.2 PL	BC LEDN Bald 	LEDN Baldy Multicast 	FMN 	Law Dispatch 
-159.12000 	 	RM	CSQ	EAS SCHW 	Emergency Alert 	FMN 	Emergency Ops 
-151.08500 	 	BM	127.3 PL	BCRBD1 Sagle 	Roads Department 1 (Sagle) 	FMN 	Public Works 
-154.95000 	 	BM	136.5 PL	BCRBD2 PRvr 	Roads Department 2 (Priest River) 	FMN 	Public Works 
-155.70000 	 	BM	136.5 PL	BCRBD3 Sand 	Roads Department 3 (Sandpoint) 	FMN 	Public Works 
-154.96500 	 	BM	043 DPL	BCRBFLAG 	Roads Department FLAG 	FMN 	Public Works 
-151.08500 	 	BM	103.5 PL	SWASTE 	Solid Waste Department 	FMN 	Public Works 
-453.02500 	KNAO455 	RM		BnrHospSecur 	Security - Primary 	FMN 	Security 
-153.02000 	WPRH467 	RM	CSQ	ClarkForkOPS 	FOPS18 Operations 	FMN 	Fire-Tac 
-154.11500 	WQCI907 	M	CSQ	ClarkForkTAC 	FTAC18 Tactical 	FMN 	Fire-Tac 
-155.94750 	WQCH819 	M		ClkFrkFD/DPW 	DPW/Fire 	FMN 	Multi-Talk 
-152.99000 	WPRH467 	BM		CF Amb Ops 1a 	Operations 1 analog 	FMN 	EMS-Talk 
-152.99000 	WPRH467 	BM	CC 1TG *SL *	CF Amb Ops 1 	Operations 1 	DMR 	EMS-Talk 
-159.72000 	WPRH467 	BM		CF Amb Ops 2 	Operations 2 	FMN 	EMS-Talk 
-160.03500 	WPRH467 	BM		CF Amb Ops 3 	Operations 3 	FMN 	EMS-Talk 
-158.78250 	WPWT930 	RM		EastHopeFD 	Tactical 	FMN 	Fire-Tac 
-154.32500 	KNAE784 	M	CSQ	NSFTAC14-1 	FTAC14.1 Tactical 	FMN 	Fire-Tac 
-154.35500 	WPYL217 	M	CSQ	NSFTAC14-2 	FTAC14-2 Tactical 	FMN 	Fire-Tac 
-154.88250 	 	RM	100.0 PL	NSFOPSR 	FOPS14 Operations 	FMN 	Fire-Tac 
-158.95500 	WQCM730 	M	CSQ	FTAC25 	FTAC25 Tactical 	FMN 	Fire-Tac 
-155.86500 	WQBN795 	RM	162.2 PL	Sundance 	Sundance 	FMN 	Multi-Dispatch 
-453.62500 	 	RM		Priest Lk LE 	Law Dispatch 	FMN 	Law Dispatch 
-154.31000 	WNPU999 	RM	100.0 PL	CoolCvBayFD1 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.31000 	WNPU999 	RM	77.0 PL	PLTACR 	Tactical Repeater 	FMN 	Fire-Tac 
-154.17500 	 	M	203.5 PL	FTAC21 	FTAC21 West Priest Lake 	FMN 	Fire-Tac 
-154.13000 	WNPU999 	M	100.0 PL	FTAC24 	FTAC24 Coolin Cavanaugh 	FMN 	Fire-Tac 
-155.76000 	WNPU999 	RM		CoolCvBayFD 	Coolin Fire 	FMN 	Fire-Tac 
-155.22000 	WQCQ211 	M		PriestRvEMS2 	EMS - Car-to-Car 	FMN 	EMS-Talk 
-154.32500 	KNDZ309 	RM	77.0 PL	Sagle Fire 1 	Dispatch 	FMN 	Fire Dispatch 
-154.01000 	KNDZ309 	M		Sagle Fire 2 	Fireground 	FMN 	Fire-Tac 
-150.80500 	 	M	CSQ	Sagle FTAC 	FTAC12 Tactical 	FMN 	Fire-Tac 
-159.41250 	WQRD468 	RM	100.0 PL	Sam Owen FD 	FOPS13 	FMN 	Fire-Tac 
-460.05000 	KNEY598 	RM		 SandPt PD 	Police - Dispatch 	FMN 	Law Dispatch 
-154.07000 	KNGH374 	M	CSQ	 SandPt FTAC 	FTAC11 Tactical 	FMN 	Fire-Tac 
-155.64000 	WNYQ229 	BM		 SandPt PW 	City Services 	FMN 	Public Works 
-156.13500 	WNYQ229 	BM		 SandPt PW 	City Services 	FMN 	Public Works 
-451.16250 	WPLF592 	M		 SandPt WD 	Water Dept. 	Telm 	Public Works 
-453.60000 	WQCK798 	RM		 SandPt HD 	Highway District 	FMN 	Public Works 
-153.98000 	WPWG451 	M		SchweitzrFD2 	Tactical 	FMN 	Fire-Tac 
-156.10500 	WPQB240 	RM	CSQ	SLFD Tac 	FOPS5 Tactical 	FMN 	Fire-Tac 
-154.40000 	KNGW204 	M	186.2 PL	FTAC19 1 	FTAC19 1 	FMN 	Fire-Talk 
-155.29500 	KNGW204 	M	186.2 PL	FTAC19 2 	FTAC19 2 	FMN 	Fire-Talk 
-154.19000 	KNGW204 	M	CSQ	FTAC19 3 	FTAC19 3 	FMN 	Fire-Talk 
-154.23500 	WPIQ897 	M	CSQ	WestsideFTAC 	FTAC17 Tactical 	FMN 	Fire-Tac 
-154.21250 	WQAF394 	RM	123.0 PL	WestsideFOPS 	FOPS17 Tactical 	FMN 	Fire-Tac 
-155.26500 	 	BM	CSQ	LPOSD Bus 	Lake Pend Oreille School District 	FMN 	Schools 
-153.48500 	 	BM	103.5 PL	WBCSD Bus 	West Bonner County School District 	FMN 	Schools 
-Active Communications (Sandpoint)	 LTR Standard	 Sandpoint	Avista Utilities	 MPT-1327 Standard	 Various	JnR VHF TRBO	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Sandpoint	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	
+151.49750 	158.93250  	WQOM640 	RM	162.2 PL	BC EFDN Sam 	EFDN Samuels Multicast 	FMN 	Fire Dispatch 
+153.82250 	158.93250  	WQPD882 	RM	162.2 PL	BC EFDN LBlk 	EFDN Little Blacktail Multicast 	FMN 	Fire Dispatch 
+154.39250 	159.15750  	WQFJ498 	RM	100.0 PL	BC EFDN Cort 	EFDN Courthouse Multicast 	FMN 	Fire Dispatch 
+155.40000 	158.76000  	WPWG451 	RM	162.2 PL	BC EFDN Swtz 	EFDN Schweitzer Multicast 	FMN 	Fire Dispatch 
+155.53500 	158.93250  	WQNT629 	RM	162.2 PL	BC EFDN CFrk 	EFDN Clark Fork Multicast 	FMN 	Fire Dispatch 
+155.56500 	159.04500  	WNYF909 	RM	192.8 PL	BC EFDN Bald 	EFDN Baldy Multicast 	FMN 	Fire Dispatch 
+155.72250 	158.93250  	WQFJ498 	RM	162.2 PL	BC EFDN PRvr 	EFDN Priest River Multicast 	FMN 	Fire Dispatch 
+156.07500 	159.18000  	WPYE234 	RM	162.2 PL	BC EFDN Hodo 	EFDN Hoodoo Multicast 	FMN 	Fire Dispatch 
+460.25000 	465.25000  	KNDQ434 	RM	192.8 PL	BC EFDN Bald 	EFDN Baldy Multicast 	FMN 	Fire Dispatch 
+151.11500 	159.06750  	WQNX677 	RM	162.2 PL	BC LEDN Hodo 	LEDN Hoodoo Multicast 	FMN 	Law Dispatch 
+154.70250 	159.06750  	WQOM640 	RM	162.2 PL	BC LEDN Sam 	LEDN Samuels Multicast 	FMN 	Law Dispatch 
+154.67250 	159.06750  	WQFJ498 	RM	162.2 PL	BC LEDN Cort 	LEDN Courthouse Multicast 	FMN 	Law Dispatch 
+154.87500 	159.06750  	WQPX742 	RM	162.2 PL	BC LEDN LBlk 	LEDN Little Blacktail Multicast 	FMN 	Law Dispatch 
+155.13000 	159.06750  	WQPN824 	RM	162.2 PL	BC LEDN CFrk 	LEDN Clark Fork Multicast 	FMN 	Law Dispatch 
+155.83500 	159.06750  	WQOJ226 	RM	162.2 PL	BC LEDN Swtz 	LEDN Schweitzer Multicast 	FMN 	Law Dispatch 
+155.89500 	159.06750  	WQPX285 	RM	162.2 PL	BC LEDN PRvr 	LEDN Priest River Multicast 	FMN 	Law Dispatch 
+158.85000 	159.06750  	KNDQ434 	RM	162.2 PL	BC LEDN Bald 	LEDN Baldy Multicast 	FMN 	Law Dispatch 
+158.85000 	155.91000  	WQPX285 	RM	110.9 PL	BALDY ALT 	LEDN BALDY ALT 	FMN 	Law Dispatch 
+154.96250 	   	 	BM	CSQ	BCSO JAIL 	Jail 	FMN 	Corrections 
+158.87250 	   	 	M	162 NAC	BCSO TAC 1 	Tactical 1 	P25 	Law Tac 
+453.26250 	458.26250  	WQFJ498 	RM		BC LEDN PRvr 	LEDN Priest River Multicast 	FMN 	Law Dispatch 
+453.28750 	458.23750  	WQOM640 	RM		BC LEDN Sam 	LEDN Samuels Multicast 	FMN 	Law Dispatch 
+453.31250 	458.31250  	WQNT629 	RM		BC LEDN CFrk 	LEDN Clark Fork Multicast 	FMN 	Law Dispatch 
+453.66250 	458.66250  	WQFJ498 	RM		BC LEDN Cort 	LEDN Courthouse Multicast 	FMN 	Law Dispatch 
+460.17500 	465.17500  	WPZD898 	RM	162.2 PL	BC LEDN Hodo 	LEDN Hoodoo Multicast 	FMN 	Law Dispatch 
+460.23750 	465.23750  	WQQS292 	RM	162.2 PL	BC LEDN LBlk 	LEDN Little Blacktail Multicast 	FMN 	Law Dispatch 
+460.50000 	465.50000  	KNDQ434 	RM	162.2 PL	BC LEDN Bald 	LEDN Baldy Multicast 	FMN 	Law Dispatch 
+159.12000 	153.80000  	 	RM	CSQ	EAS SCHW 	Emergency Alert 	FMN 	Emergency Ops 
+151.08500 	   	 	BM	127.3 PL	BCRBD1 Sagle 	Roads Department 1 (Sagle) 	FMN 	Public Works 
+154.95000 	   	 	BM	136.5 PL	BCRBD2 PRvr 	Roads Department 2 (Priest River) 	FMN 	Public Works 
+155.70000 	   	 	BM	136.5 PL	BCRBD3 Sand 	Roads Department 3 (Sandpoint) 	FMN 	Public Works 
+154.96500 	   	 	BM	043 DPL	BCRBFLAG 	Roads Department FLAG 	FMN 	Public Works 
+151.08500 	   	 	BM	103.5 PL	SWASTE 	Solid Waste Department 	FMN 	Public Works 
+453.02500 	458.02500  	KNAO455 	RM		BnrHospSecur 	Security - Primary 	FMN 	Security 
+153.02000 	160.02000  	WPRH467 	RM	CSQ	ClarkForkOPS 	FOPS18 Operations 	FMN 	Fire-Tac 
+154.11500 	   	WQCI907 	M	CSQ	ClarkForkTAC 	FTAC18 Tactical 	FMN 	Fire-Tac 
+155.94750 	   	WQCH819 	M		ClkFrkFD/DPW 	DPW/Fire 	FMN 	Multi-Talk 
+152.99000 	   	WPRH467 	BM		CF Amb Ops 1a 	Operations 1 analog 	FMN 	EMS-Talk 
+152.99000 	   	WPRH467 	BM	CC 1TG *SL *	CF Amb Ops 1 	Operations 1 	DMR 	EMS-Talk 
+159.72000 	   	WPRH467 	BM		CF Amb Ops 2 	Operations 2 	FMN 	EMS-Talk 
+160.03500 	   	WPRH467 	BM		CF Amb Ops 3 	Operations 3 	FMN 	EMS-Talk 
+158.78250 	153.77750  	WPWT930 	RM		EastHopeFD 	Tactical 	FMN 	Fire-Tac 
+154.32500 	   	KNAE784 	M	CSQ	NSFTAC14-1 	FTAC14.1 Tactical 	FMN 	Fire-Tac 
+154.35500 	   	WPYL217 	M	CSQ	NSFTAC14-2 	FTAC14-2 Tactical 	FMN 	Fire-Tac 
+154.88250 	156.03750  	 	RM	100.0 PL	NSFOPSR 	FOPS14 Operations 	FMN 	Fire-Tac 
+158.95500 	   	WQCM730 	M	CSQ	FTAC25 	FTAC25 Tactical 	FMN 	Fire-Tac 
+155.86500 	154.99500  	WQBN795 	RM	162.2 PL	Sundance 	Sundance 	FMN 	Multi-Dispatch 
+453.62500 	458.62500  	 	RM		Priest Lk LE 	Law Dispatch 	FMN 	Law Dispatch 
+154.31000 	153.89000  	WNPU999 	RM	100.0 PL	CoolCvBayFD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.31000 	153.89000  	WNPU999 	RM	77.0 PL	PLTACR 	Tactical Repeater 	FMN 	Fire-Tac 
+154.17500 	   	 	M	203.5 PL	FTAC21 	FTAC21 West Priest Lake 	FMN 	Fire-Tac 
+154.13000 	   	WNPU999 	M	100.0 PL	FTAC24 	FTAC24 Coolin Cavanaugh 	FMN 	Fire-Tac 
+155.76000 	158.73000  	WNPU999 	RM		CoolCvBayFD 	Coolin Fire 	FMN 	Fire-Tac 
+155.22000 	   	WQCQ211 	M		PriestRvEMS2 	EMS - Car-to-Car 	FMN 	EMS-Talk 
+154.32500 	150.08500  	KNDZ309 	RM	77.0 PL	Sagle Fire 1 	Dispatch 	FMN 	Fire Dispatch 
+154.01000 	   	KNDZ309 	M		Sagle Fire 2 	Fireground 	FMN 	Fire-Tac 
+150.80500 	   	 	M	CSQ	Sagle FTAC 	FTAC12 Tactical 	FMN 	Fire-Tac 
+159.41250 	155.65500  	WQRD468 	RM	100.0 PL	Sam Owen FD 	FOPS13 	FMN 	Fire-Tac 
+460.05000 	465.05000  	KNEY598 	RM		 SandPt PD 	Police - Dispatch 	FMN 	Law Dispatch 
+154.07000 	   	KNGH374 	M	CSQ	 SandPt FTAC 	FTAC11 Tactical 	FMN 	Fire-Tac 
+155.64000 	   	WNYQ229 	BM		 SandPt PW 	City Services 	FMN 	Public Works 
+156.13500 	   	WNYQ229 	BM		 SandPt PW 	City Services 	FMN 	Public Works 
+451.16250 	   	WPLF592 	M		 SandPt WD 	Water Dept. 	Telm 	Public Works 
+453.60000 	458.65000  	WQCK798 	RM		 SandPt HD 	Highway District 	FMN 	Public Works 
+153.98000 	   	WPWG451 	M		SchweitzrFD2 	Tactical 	FMN 	Fire-Tac 
+156.10500 	150.80500  	WPQB240 	RM	CSQ	SLFD Tac 	FOPS5 Tactical 	FMN 	Fire-Tac 
+154.40000 	   	KNGW204 	M	186.2 PL	FTAC19 1 	FTAC19 1 	FMN 	Fire-Talk 
+155.29500 	   	KNGW204 	M	186.2 PL	FTAC19 2 	FTAC19 2 	FMN 	Fire-Talk 
+154.19000 	   	KNGW204 	M	CSQ	FTAC19 3 	FTAC19 3 	FMN 	Fire-Talk 
+154.23500 	   	WPIQ897 	M	CSQ	WestsideFTAC 	FTAC17 Tactical 	FMN 	Fire-Tac 
+154.21250 	158.81250  	WQAF394 	RM	123.0 PL	WestsideFOPS 	FOPS17 Tactical 	FMN 	Fire-Tac 
+155.26500 	   	 	BM	CSQ	LPOSD Bus 	Lake Pend Oreille School District 	FMN 	Schools 
+153.48500 	   	 	BM	103.5 PL	WBCSD Bus 	West Bonner County School District 	FMN 	Schools 
+Active Communications (Sandpoint)	 LTR Standard	 Sandpoint	Avista Utilities	 MPT-1327 Standard	 Various	Idaho Cooperative Agencies Wireless Interoperable Network (ICAWIN)	 Project 25 Phase I	 Statewide
+JnR VHF TRBO	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Sandpoint	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	

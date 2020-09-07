@@ -1,11 +1,11 @@
-155.65500 	WNXN966 	RM	127.3 PL	Jack Co SO Ana 	Sheriff - Analog 	FMN 	Law Dispatch 
-155.65500 	WNXN966 	RM	567 NAC	Jack Co SO Dig 	Sheriff - Digital 	P25 	Law Dispatch 
-156.18000 	WPVA253 	RM	127.3 PL	Jack Co Fire Ana 	Fire - Analog (mixed mode) 	FMN 	Fire Dispatch 
-156.18000 	WPVA253 	RM		Jack Co Fire Dig 	Fire - Digital (mixed mode) 	P25 	Fire Dispatch 
-154.96500 	WQKF456 	RM	632 DPL	Nortex Reg 7 	Nortex Regional Repeater System (Region 7 Jacksboro) 	FMN 	Emergency Ops 
-154.10000 	WPWJ570 	RM	131.8 PL	Jacksboro PD 	Police Department Channel 1 	FM 	Law Dispatch 
-158.89500 	WNXJ856 	BM		Jacksboro PW 	Public Works/Water and Street Dept. 	FM 	Public Works 
-155.92500 	WQAI410 	BM	127.3 PL	Bryson Fire 	Fireground 	FM 	Fire-Tac 
-Azle Communications (Jacksboro)	 LTR Standard	 Jacksboro	Enbridge Energy (Jacksboro)	 Motorola Type II	 Jacksboro	Mobile Phone of Texas (Jacksboro)	 LTR Standard
- Jacksboro	Oncor Energy	 EDACS Narrowband Networked	 Various	Self Radio (Jacksboro)	 LTR Standard	 Jacksboro	Self Radio Nexedge
- NXDN NEXEDGE 4800	 Fort Worth	
+155.65500 	154.83000  	WNXN966 	RM	127.3 PL	Jack Co SO Ana 	Sheriff - Analog 	FMN 	Law Dispatch 
+155.65500 	154.83000  	WNXN966 	RM	567 NAC	Jack Co SO Dig 	Sheriff - Digital 	P25 	Law Dispatch 
+156.18000 	159.04500  	WPVA253 	RM	127.3 PL	Jack Co Fire Ana 	Fire - Analog (mixed mode) 	FMN 	Fire Dispatch 
+156.18000 	159.04500  	WPVA253 	RM		Jack Co Fire Dig 	Fire - Digital (mixed mode) 	P25 	Fire Dispatch 
+154.96500 	158.98500  	WQKF456 	RM	632 DPL	Nortex Reg 7 	Nortex Regional Repeater System (Region 7 Jacksboro) 	FMN 	Emergency Ops 
+154.10000 	158.95500  	WPWJ570 	RM	131.8 PL	Jacksboro PD 	Police Department Channel 1 	FM 	Law Dispatch 
+158.89500 	   	WNXJ856 	BM		Jacksboro PW 	Public Works/Water and Street Dept. 	FM 	Public Works 
+155.92500 	   	WQAI410 	BM	127.3 PL	Bryson Fire 	Fireground 	FM 	Fire-Tac 
+Azle Communications (Jacksboro)	 LTR Standard	 Jacksboro	BrandMeister Texas	 DMR Conventional Networked	 Various	Enbridge Energy (Jacksboro)	 Motorola Type II	 Jacksboro
+Mobile Phone of Texas (Jacksboro)	 LTR Standard	 Jacksboro	Oncor Energy	 EDACS Narrowband Networked	 Various	Self Radio (Jacksboro)	 LTR Standard	 Jacksboro
+Self Radio Nexedge	 NXDN NEXEDGE 4800	 Fort Worth	

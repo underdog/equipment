@@ -1,37 +1,37 @@
-155.43000 	KDB951 	RM	100.0 PL	C-COM Law 1 	Law Dispatch 1 	FMN 	Law Dispatch 
-155.19000 	KOL973 	RM	100.0 PL	C-COM Law 2 	Law Dispatch 2 	FMN 	Law Dispatch 
-155.76000 	KRF496 	RM	100.0 PL	C-COM Law 3 	Law Dispatch 3 	FMN 	Law Dispatch 
-154.84500 	KB71390 	RM	127.3 PL	ClackCoJail 	County Jail Ops 	FMN 	Corrections 
-460.58750 	 	BM	103.5 PL	Mtn SAR 	 Mtn Wave SAR Goat Mtn 	FMN 	Multi-Talk 
-154.19000 	KTB336 	BM	100.0 PL	CC Fire Disp 	Fire Dispatch - Multicast of TG 51408 	FMN 	Fire-Talk 
-153.89000 	KON695 	BM		CC Fire 2 	Fire Ch 2 	FMN 	Fire-Talk 
-154.22000 	KNEN200 	BM		CC Fire 3 	Fire Ch 3 	FMN 	Fire-Talk 
-154.32500 	KON695 	RM	100.0 PL	CC Fire 4 	Fire Ch 4 	FMN 	Fire-Talk 
-153.83000 	KNHM991 	M		CC Fire 5 	Fire Ch 5 	FMN 	Fire-Talk 
-154.20500 	KNHW662 	BM		CC Fire 6 	Fire Ch 6 	FMN 	Fire-Talk 
-154.34000 	KNHW662 	BM		CC Fire 7 	Fire Ch 7 	FMN 	Fire-Talk 
-154.25000 	 	RM	205 DPL	CCFD1 Tac Hol 	CCFD 1 Tactical - Holcomb 	FMN 	Fire-Tac 
-155.16000 	 	BM	88.5 PL	AMR 3 Ptlnd BLS 	AMR Ch 3-Portland Metro BLS 	FMN 	EMS Dispatch 
-155.16750 	 	RM	632 DPL	CCFD1 Tac HB 	CCFD 1 Tactical - Highland Butte 	FMN 	Fire-Tac 
-155.22000 	 	BM	91.5 PL	AMR 2 Ptlnd BLS 	AMR Ch 2-Portland Metro BLS 	FMN 	EMS Dispatch 
-155.23500 	WNJB867 	RM	91.5 PL	AMR 1 Clack BLS 	AMR Ch 1-Clackamas County ALS 	FMN 	EMS Dispatch 
-155.28000 	 	BM	107.2 PL	AMR 4 Ptlnd BLS 	AMR Ch 4-Portland Metro BLS 	FMN 	EMS Dispatch 
-153.81500 	 	BM	100.0 PL	CC PubWorks 	Public Works 	FMN 	Public Works 
-154.04750 	 	M	100.0 PL	CC PubWorksS 	Public Works Simplex 	FMN 	Public Works 
-154.95000 	 	BM	123.0 PL	CC GovMent 	Clackamas Co Government 	FMN 	Public Works 
-155.15250 	 	M	100.0 PL	CC PubWorks 	Public Works 	FMN 	Public Works 
-159.06000 	 	RM	100.0 PL	CC PubWorksD 	Public Works Dispatch 	FMN 	Public Works 
-853.43750 	 	BM	074 DPL	Fire Sim1 	Fire Simplex 1 	FM 	Fire-Talk 
-851.03750 	 	BM	114 DPL	Fire Sim2 	Fire Simplex 2 	FM 	Fire-Talk 
-851.95000 	 	BM	131 DPL	Fire Sim3 	Fire Simplex 3 	FM 	Fire-Talk 
-851.17500 	 	BM	143 DPL	Fire Sim4 	Fire Simplex 4 	FM 	Fire-Talk 
-853.38750 	 	BM	025 DPL	Fire Mayday 	Fire MAYDAY  	FM 	Fire-Talk 
-156.00000 	 	RM	245 DPL	OC Pubworks 	Public Works 	FMN 	Public Works 
-453.55000 	WQBB486 	RM		PW/PoliceTac 	Public Works / Police Car-to-Car 	FMN 	Multi-Tac 
-464.50000 	WQIA948 	M		LOswegoSchol 	Security 	FMN 	Security 
-469.60000 	WQAI948 	M		LOswegoSchol 	Events [Both Home and Away] 	FMN 	Schools 
-FleetNet / Silke Communications	 NXDN NEXEDGE 4800	 Various	Idagon LLC Goat Mt	 Motorola Type II Smartnet	 Colton	Kaiser Permanente Medical Centers	 DMR Conventional Networked
- Various	Oregon State Radio Project	 Project 25 Phase II	 Varies	Pacific NorthWest DMR	 DMR Conventional Networked	 Various	Portland
- Project 25 Phase I	 Portland	Portland General Electric DMR	 DMR Tier 3	 Portland	Providence Medical Centers	 DMR Conventional Networked	 Various
-TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	Tri-County Metropolitan Transit (TriMet)	 Project 25 Phase I	 Portland	Washington County / Clackamas County / Newberg	 Motorola Type II SmartZone
- Various	Washington County Consolidated Communications Agency (WCCCA)	 Project 25 Phase II	 Varies	
+155.43000 	   	KDB951 	RM	100.0 PL	C-COM Law 1 	Law Dispatch 1 	FMN 	Law Dispatch 
+155.19000 	   	KOL973 	RM	100.0 PL	C-COM Law 2 	Law Dispatch 2 	FMN 	Law Dispatch 
+155.76000 	   	KRF496 	RM	100.0 PL	C-COM Law 3 	Law Dispatch 3 	FMN 	Law Dispatch 
+154.84500 	155.52000  	KB71390 	RM	127.3 PL	ClackCoJail 	County Jail Ops 	FMN 	Corrections 
+460.58750 	   	 	BM	103.5 PL	Mtn SAR 	 Mtn Wave SAR Goat Mtn 	FMN 	Multi-Talk 
+154.19000 	   	KTB336 	BM	100.0 PL	CC Fire Disp 	Fire Dispatch - Multicast of TG 51408 	FMN 	Fire-Talk 
+153.89000 	   	KON695 	BM		CC Fire 2 	Fire Ch 2 	FMN 	Fire-Talk 
+154.22000 	   	KNEN200 	BM		CC Fire 3 	Fire Ch 3 	FMN 	Fire-Talk 
+154.32500 	   	KON695 	RM	100.0 PL	CC Fire 4 	Fire Ch 4 	FMN 	Fire-Talk 
+153.83000 	   	KNHM991 	M		CC Fire 5 	Fire Ch 5 	FMN 	Fire-Talk 
+154.20500 	   	KNHW662 	BM		CC Fire 6 	Fire Ch 6 	FMN 	Fire-Talk 
+154.34000 	   	KNHW662 	BM		CC Fire 7 	Fire Ch 7 	FMN 	Fire-Talk 
+154.25000 	   	 	RM	205 DPL	CCFD1 Tac Hol 	CCFD 1 Tactical - Holcomb 	FMN 	Fire-Tac 
+155.16000 	   	 	BM	88.5 PL	AMR 3 Ptlnd BLS 	AMR Ch 3-Portland Metro BLS 	FMN 	EMS Dispatch 
+155.16750 	   	 	RM	632 DPL	CCFD1 Tac HB 	CCFD 1 Tactical - Highland Butte 	FMN 	Fire-Tac 
+155.22000 	   	 	BM	91.5 PL	AMR 2 Ptlnd BLS 	AMR Ch 2-Portland Metro BLS 	FMN 	EMS Dispatch 
+155.23500 	150.80500  	WNJB867 	RM	91.5 PL	AMR 1 Clack BLS 	AMR Ch 1-Clackamas County ALS 	FMN 	EMS Dispatch 
+155.28000 	   	 	BM	107.2 PL	AMR 4 Ptlnd BLS 	AMR Ch 4-Portland Metro BLS 	FMN 	EMS Dispatch 
+153.81500 	   	 	BM	100.0 PL	CC PubWorks 	Public Works 	FMN 	Public Works 
+154.04750 	   	 	M	100.0 PL	CC PubWorksS 	Public Works Simplex 	FMN 	Public Works 
+154.95000 	   	 	BM	123.0 PL	CC GovMent 	Clackamas Co Government 	FMN 	Public Works 
+155.15250 	   	 	M	100.0 PL	CC PubWorks 	Public Works 	FMN 	Public Works 
+159.06000 	   	 	RM	100.0 PL	CC PubWorksD 	Public Works Dispatch 	FMN 	Public Works 
+853.43750 	   	 	BM	074 DPL	Fire Sim1 	Fire Simplex 1 	FM 	Fire-Talk 
+851.03750 	   	 	BM	114 DPL	Fire Sim2 	Fire Simplex 2 	FM 	Fire-Talk 
+851.95000 	   	 	BM	131 DPL	Fire Sim3 	Fire Simplex 3 	FM 	Fire-Talk 
+851.17500 	   	 	BM	143 DPL	Fire Sim4 	Fire Simplex 4 	FM 	Fire-Talk 
+853.38750 	   	 	BM	025 DPL	Fire Mayday 	Fire MAYDAY  	FM 	Fire-Talk 
+156.00000 	   	 	RM	245 DPL	OC Pubworks 	Public Works 	FMN 	Public Works 
+453.55000 	458.55000  	WQBB486 	RM		PW/PoliceTac 	Public Works / Police Car-to-Car 	FMN 	Multi-Tac 
+464.50000 	   	WQIA948 	M		LOswegoSchol 	Security 	FMN 	Security 
+469.60000 	   	WQAI948 	M		LOswegoSchol 	Events [Both Home and Away] 	FMN 	Schools 
+FleetNet / Silke Communications	 NXDN NEXEDGE 4800	 Various	Idagon LLC Goat Mt	 Motorola Type II Smartnet	 Colton	Justice Integrated Wireless Network	 Project 25 Phase I	 Various
+Kaiser Permanente Medical Centers	 DMR Conventional Networked	 Various	Oregon State Radio Project	 Project 25 Phase II	 Varies	Pacific NorthWest DMR	 DMR Conventional Networked	 Various
+Portland	 Project 25 Phase I	 Portland	Portland General Electric DMR	 DMR Tier 3	 Portland	Providence Medical Centers	 DMR Conventional Networked	 Various
+TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	Tri-County Metropolitan Transit (TriMet)	 Project 25 Phase I	 Portland	Washington County / Clackamas County / Newberg	 Motorola Type II SmartZone	 Various
+Washington County Consolidated Communications Agency (WCCCA)	 Project 25 Phase II	 Varies	

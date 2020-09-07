@@ -1,33 +1,33 @@
-151.09250 	WXR383 	BM	192.8 PL	Sho SO Disp 	Sheriff Dispatch Multicast 	FMN 	Law Dispatch 
-154.10000 	WXR383 	BM	179.9 PL	Sho SO Disp 	Sheriff Dispatch Multicast 	FMN 	Law Dispatch 
-155.49000 	WXR383 	RM	156.7 PL	Sho SO Disp 	Sheriff Dispatch Multicast 	FMN 	Law Dispatch 
-158.73000 	KNGS467 	RM		Sho SO Sec 	Sheriff - Secondary 	FMN 	Law Talk 
-158.85000 	KV9368 	M		Sho SO Tac 	Sheriff - Tactical 	FMN 	Law Tac 
-453.53750 	WQHQ505 	RM	218.1 PL	Sho SO Disp 	Sheriff Dispatch 	FMN 	Law Talk 
-453.62500 	WPGN250 	BM	300 NAC	Sho SO Jail 	Sheriff Jail Security 	P25 	Corrections 
-154.02500 	WXR383 	BM		Sho SO 	Sheriff - [Future Use] 	FMN 	Law Talk 
-156.16500 	WXR383 	BM		Sho SO 	Sheriff - [Future Use] 	FMN 	Law Talk 
-155.74500 	WDB96 	RM		Sho Dis Svc 	Disaster Services 	FMN 	Emergency Ops 
-155.43000 	KZJ809 	RM	179.9 PL	Sho FireDst1 	Fire - District 1 	FMN 	Fire Dispatch 
-154.40000 	WNLF727 	RM	67.0 PL	Sho FireDst2 	Fire - District 2 	FMN 	Fire-Tac 
-154.05500 	KZJ809 	BM		Sho FirePage 	Fire - Pagers 	FMN 	Fire-Tac 
-154.36250 	WQQL482 	RM	77.0 PL	Sho FD Disp 	Fire Dispatch Multicast 	FMN 	Fire Dispatch 
-155.25000 	WQKG971 	RM	CSQ	Sho FD3 Mullan 	Fire Mullan Dispatch 	FMN 	Fire Dispatch 
-155.64000 	WQKG971 	RM	100.0 PL	Sho FD3 Lookout 	Fire Lookout Pass 	FMN 	Fire Dispatch 
-155.76750 	WQQL482 	RM	71.9 PL	Sho FD Disp 	Fire Dispatch Multicast 	FMN 	Fire Dispatch 
-158.80500 	WXR383 	RM	072 DPL	SCSO Silver 	Sheriff Dispatch Silverton 	FMN 	Law Dispatch 
-451.10000 	 	RM	151.4 PL	Sho HEAR 	Shoshone County Hospital 	FMN 	EMS-Talk 
-155.52000 	WZX936 	RM		KelloggPD1 	Police - Dispatch 	FMN 	Law Dispatch 
-154.81500 	WPLR518 	M		Kelllogg Tac 	Fire/Police - Tactical 	FMN 	Multi-Talk 
-155.02500 	WNKK735 	BM		PinH Multdsp 	Fire/DPW/Police 	FMN 	Multi-Dispatch 
-154.05500 	KNGU982 	BM		Wal Fire Dsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
-155.35500 	WPPZ523 	RM	114.8 PL	 Commun Amb 	Dispatch 	FMN 	EMS Dispatch 
-153.56000 	KQY362 	BM		CSCWD Ops 	Operations 	FMN 	Public Works 
-463.40000 	WPDH736 	RM	71.9 PL	F-1 	Operations/Shuttle Buses 	FMN 	Business 
-464.50000 	WPDH736 	M	167.9 PL	F-2 	Hiawatha Bike Trail Guides 	FMN 	Business 
-453.33750 	WPQB231 	RM	371 DPL	SM Spec Even 	Special Events 	FMN 	Business 
-453.56250 	WPQB231 	RM	371 DPL	SM MaintOps 	Maintenance Ops 	FMN 	Business 
-453.58750 	WPQB231 	RM		SM Future 	Future Use 	FMN 	Business 
-453.72500 	WPQB231 	RM	71.9 PL	SM Lift Ops 	Gondola/Lift Ops 	FMN 	Business 
-463.58750 	WQHM338 	RM	71.9 PL	SM Ski Ptrl 	Ski Patrol - Primary 	FMN 	Business 
-Avista Utilities	 MPT-1327 Standard	 Various	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	
+151.09250 	   	WXR383 	BM	192.8 PL	Sho SO Disp 	Sheriff Dispatch Multicast 	FMN 	Law Dispatch 
+154.10000 	   	WXR383 	BM	179.9 PL	Sho SO Disp 	Sheriff Dispatch Multicast 	FMN 	Law Dispatch 
+155.49000 	155.07000  	WXR383 	RM	156.7 PL	Sho SO Disp 	Sheriff Dispatch Multicast 	FMN 	Law Dispatch 
+158.73000 	155.01000  	KNGS467 	RM		Sho SO Sec 	Sheriff - Secondary 	FMN 	Law Talk 
+158.85000 	   	KV9368 	M		Sho SO Tac 	Sheriff - Tactical 	FMN 	Law Tac 
+453.53750 	458.53750  	WQHQ505 	RM	218.1 PL	Sho SO Disp 	Sheriff Dispatch 	FMN 	Law Talk 
+453.62500 	   	WPGN250 	BM	300 NAC	Sho SO Jail 	Sheriff Jail Security 	P25 	Corrections 
+154.02500 	   	WXR383 	BM		Sho SO 	Sheriff - [Future Use] 	FMN 	Law Talk 
+156.16500 	   	WXR383 	BM		Sho SO 	Sheriff - [Future Use] 	FMN 	Law Talk 
+155.74500 	155.04000  	WDB96 	RM		Sho Dis Svc 	Disaster Services 	FMN 	Emergency Ops 
+155.43000 	158.88000  	KZJ809 	RM	179.9 PL	Sho FireDst1 	Fire - District 1 	FMN 	Fire Dispatch 
+154.40000 	153.89000  	WNLF727 	RM	67.0 PL	Sho FireDst2 	Fire - District 2 	FMN 	Fire-Tac 
+154.05500 	   	KZJ809 	BM		Sho FirePage 	Fire - Pagers 	FMN 	Fire-Tac 
+154.36250 	159.02250  	WQQL482 	RM	77.0 PL	Sho FD Disp 	Fire Dispatch Multicast 	FMN 	Fire Dispatch 
+155.25000 	   	WQKG971 	RM	CSQ	Sho FD3 Mullan 	Fire Mullan Dispatch 	FMN 	Fire Dispatch 
+155.64000 	   	WQKG971 	RM	100.0 PL	Sho FD3 Lookout 	Fire Lookout Pass 	FMN 	Fire Dispatch 
+155.76750 	159.02250  	WQQL482 	RM	71.9 PL	Sho FD Disp 	Fire Dispatch Multicast 	FMN 	Fire Dispatch 
+158.80500 	155.07000  	WXR383 	RM	072 DPL	SCSO Silver 	Sheriff Dispatch Silverton 	FMN 	Law Dispatch 
+451.10000 	456.10000  	 	RM	151.4 PL	Sho HEAR 	Shoshone County Hospital 	FMN 	EMS-Talk 
+155.52000 	154.72500  	WZX936 	RM		KelloggPD1 	Police - Dispatch 	FMN 	Law Dispatch 
+154.81500 	   	WPLR518 	M		Kelllogg Tac 	Fire/Police - Tactical 	FMN 	Multi-Talk 
+155.02500 	   	WNKK735 	BM		PinH Multdsp 	Fire/DPW/Police 	FMN 	Multi-Dispatch 
+154.05500 	   	KNGU982 	BM		Wal Fire Dsp 	Fire - Dispatch 	FMN 	Fire Dispatch 
+155.35500 	150.77500  	WPPZ523 	RM	114.8 PL	 Commun Amb 	Dispatch 	FMN 	EMS Dispatch 
+153.56000 	   	KQY362 	BM		CSCWD Ops 	Operations 	FMN 	Public Works 
+463.40000 	468.40000  	WPDH736 	RM	71.9 PL	F-1 	Operations/Shuttle Buses 	FMN 	Business 
+464.50000 	   	WPDH736 	M	167.9 PL	F-2 	Hiawatha Bike Trail Guides 	FMN 	Business 
+453.33750 	458.33750  	WPQB231 	RM	371 DPL	SM Spec Even 	Special Events 	FMN 	Business 
+453.56250 	458.56250  	WPQB231 	RM	371 DPL	SM MaintOps 	Maintenance Ops 	FMN 	Business 
+453.58750 	458.58750  	WPQB231 	RM		SM Future 	Future Use 	FMN 	Business 
+453.72500 	458.72500  	WPQB231 	RM	71.9 PL	SM Lift Ops 	Gondola/Lift Ops 	FMN 	Business 
+463.58750 	468.58750  	WQHM338 	RM	71.9 PL	SM Ski Ptrl 	Ski Patrol - Primary 	FMN 	Business 
+Avista Utilities	 MPT-1327 Standard	 Various	Idaho Cooperative Agencies Wireless Interoperable Network (ICAWIN)	 Project 25 Phase I	 Statewide	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various

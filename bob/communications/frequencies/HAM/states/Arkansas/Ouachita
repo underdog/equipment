@@ -1,24 +1,23 @@
-151.23500 	 	BM		OUCH CO FD 	Fire 	FMN 	Fire Dispatch 
-155.04000 	KCP588 	RM	156.7 PL	OCF-CFIRE 	Countywide Fire Ops *ALL County Fire Depts.* 	FMN 	Fire Dispatch 
-155.22000 	WXK282 	BM		OC EMS DISP 	EMS - Dispatch 	FMN 	EMS Dispatch 
-155.34000 	WXK282 	BM		OC HEAR 	EMS - Ambulance-to-Hospital 	FMN 	Hospital 
-154.67250 	WPSE780 	RM	023 DPL	SO-ANALOG 	Sheriff - Dispatch ANALOG 	FMN 	Law Dispatch 
-154.10750 	WPSE780 	RM		OCSO DISP 1 	Sheriff - Dispatch 1(Digital) *Encrypted* 	DMRE 	Law Dispatch 
-154.67250 	WPSE780 	RM		OCSO DISP 2 	Sheriff - Dispatch 2 (Digital) *Encrypted* 	DMRE 	Law Dispatch 
-153.80750 	WPSE780 	M		OCSO TALK 	Sheriff - Talkaround 	DMR 	Law Talk 
-155.59500 	WPJN452 	RM		OC ROADS 	Highway Dept. 	FMN 	Public Works 
-155.40000 	 	BM	203.5 PL	Bearden EMS 	Bearden EMS 	FMN 	EMS Dispatch 
-154.04000 	 	BM	173.8 PL	Bearden FD 	Bearden Fire Dept. 	FMN 	Fire Dispatch 
-155.04000 	 	RM	156.7 PL	Bearden FD 	Bearden Fire Dept. 	FMN 	Fire Dispatch 
-154.43000 	WPIV926 	RM	223 DPL	Camden FD 	Camden Fire Dispatch (Ops in DMR encrypted) 	FMNE 	Fire Dispatch 
-46.58000 	WQBL621 	BM		EMD SIREN 	Emergency Mgmt. - Outdoor Warning Sirens 	FM 	Emergency Ops 
-155.69250 	WQAA859 	RM		CPD-1 A 	Police - Dispatch ANALOG 	FMN 	Law Dispatch 
-153.83750 	WQAA859 	BM		CPD-2 A 	Police - Secondary ANALOG 	FMN 	Law Tac 
-155.69250 	WQAA859 	RM		CPD-1 D 	Police Dispatch DIGITAL *Encrypted* 	DMRE 	Law Dispatch 
-153.83750 	WQAA859 	BM		CPD-2 D 	Police Secondary DIGITAL *Encrypted* 	DMRE 	Law Tac 
-155.86500 	KGK899 	RM		Camden PD 	Police  	FMN 	Law Talk 
-158.83500 	WPFZ710 	RM		Camden PD 	Police  	FMN 	Law Talk 
-460.45000 	WPNT390 	RM		POL MDC 	Police - MDCs 	Telm 	Data 
-154.04000 	 	BM	151.4 PL	Stevens Fire 	Stevens Fire/EMS 	FM 	Fire Dispatch 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	
+151.23500 	   	 	BM		OUCH CO FD 	Fire 	FMN 	Fire Dispatch 
+155.04000 	154.04000  	KCP588 	RM	156.7 PL	OCF-CFIRE 	Countywide Fire Ops *ALL County Fire Depts.* 	FMN 	Fire Dispatch 
+155.22000 	   	WXK282 	BM		OC EMS DISP 	EMS - Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	WXK282 	BM		OC HEAR 	EMS - Ambulance-to-Hospital 	FMN 	Hospital 
+154.67250 	153.80750  	WPSE780 	RM	023 DPL	SO-ANALOG 	Sheriff - Dispatch ANALOG 	FMN 	Law Dispatch 
+154.10750 	158.76750  	WPSE780 	RM		OCSO DISP 1 	Sheriff - Dispatch 1(Digital) *Encrypted* 	DMRE 	Law Dispatch 
+154.67250 	153.80750  	WPSE780 	RM		OCSO DISP 2 	Sheriff - Dispatch 2 (Digital) *Encrypted* 	DMRE 	Law Dispatch 
+153.80750 	   	WPSE780 	M		OCSO TALK 	Sheriff - Talkaround 	DMR 	Law Talk 
+155.59500 	159.06000  	WPJN452 	RM		OC ROADS 	Highway Dept. 	FMN 	Public Works 
+155.40000 	   	 	BM	203.5 PL	Bearden EMS 	Bearden EMS 	FMN 	EMS Dispatch 
+154.04000 	   	 	BM	173.8 PL	Bearden FD 	Bearden Fire Dept. 	FMN 	Fire Dispatch 
+155.04000 	   	 	RM	156.7 PL	Bearden FD 	Bearden Fire Dept. 	FMN 	Fire Dispatch 
+154.43000 	153.95000  	WPIV926 	RM	223 DPL	Camden FD 	Camden Fire Dispatch (Ops in DMR encrypted) 	FMNE 	Fire Dispatch 
+46.58000 	   	WQBL621 	BM		EMD SIREN 	Emergency Mgmt. - Outdoor Warning Sirens 	FM 	Emergency Ops 
+155.69250 	153.98750  	WQAA859 	RM		CPD-1 A 	Police - Dispatch ANALOG 	FMN 	Law Dispatch 
+153.83750 	   	WQAA859 	BM		CPD-2 A 	Police - Secondary ANALOG 	FMN 	Law Tac 
+155.69250 	153.98750  	WQAA859 	RM		CPD-1 D 	Police Dispatch DIGITAL *Encrypted* 	DMRE 	Law Dispatch 
+153.83750 	   	WQAA859 	BM		CPD-2 D 	Police Secondary DIGITAL *Encrypted* 	DMRE 	Law Tac 
+155.86500 	154.84500  	KGK899 	RM		Camden PD 	Police  	FMN 	Law Talk 
+158.83500 	153.90500  	WPFZ710 	RM		Camden PD 	Police  	FMN 	Law Talk 
+460.45000 	465.45000  	WPNT390 	RM		POL MDC 	Police - MDCs 	Telm 	Data 
+154.04000 	   	 	BM	151.4 PL	Stevens Fire 	Stevens Fire/EMS 	FM 	Fire Dispatch 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various

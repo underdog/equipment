@@ -1,28 +1,21 @@
-154.83000 	KCF946 	BM	136.5 PL	BlknpCoPD1 A 	Sheriff Dispatch (includes small towns; analog) 	FMN 	Law Dispatch 
-154.83000 	KCF946 	BM	117 NAC	BlknpCoPD1 D 	Sheriff Dispatch (includes small towns; digital) 	P25 	Law Dispatch 
-154.08500 	WNWV519 	BM	527 NAC	BlknpCo PD 2 	Primary Dispatch 	P25 	Law Tac 
-151.25000 	WNWV519 	BM		BlknpCoPD151 	Sheriff 	FMN 	Law Talk 
-159.90000 	WPUN953 	BM	210.7 PL	LRMFA 1 	Ch. 1 Fire Dispatch/Primary Operations 	FMN 	Fire Dispatch 
-160.11000 	WPUN953 	BM	331 DPL	LRMFA 2 	Ch. 2 Fire Secondary Dispatch/Alternate 	FMN 	Fire Dispatch 
-160.15500 	WPUN953 	BM	331 DPL	LRMFA 3 	Ch. 3 Fireground 	FMN 	Fire-Tac 
-154.30250 	WPMQ500 	M	331 DPL	LRMFA 5 	Ch. 5 Fireground 	FMN 	Fire-Tac 
-154.98750 	WPUN983 	M	331 DPL	LRMFA 6 	Ch. 6 Fireground 	FMN 	Fire-Tac 
-150.79750 	WPUN983 	RM	331 DPL	LRMFA 7 	Ch. 7 Fireground 	FMN 	Fire-Tac 
-159.90000 	WPUN983 	RM	331 DPL	LRMFA 8 	Ch. 8 Old Dispatch 	FMN 	Fire-Talk 
-156.13500 	KNDC757 	RM	151.4 PL	Alton Hiway 	Alton Highway Dept.  	FMN 	Public Works 
-151.31000 	WQLB205 	RM	331 DPL	BarnsteadDPW1 	Public Works 	FMN 	Public Works 
-151.08500 	WQLB205 	BM	136.5 PL	BarnsteadDPW2 	Public Works 	FMN 	Public Works 
-152.33000 	 	BM	205 DPL	Buses 	School Buses 	FMN 	Transportation 
-155.25000 	WQBK402 	RM	437 NAC	Belmont PD 	Belmont Police  	P25 	Law Dispatch 
-154.11500 	WPEX622 	BM	225.7 PL	CtHbr FDTac1 	Center Harbor Fire Tac-1 	FMN 	Fire-Tac 
-155.49000 	KNHG439 	B	117 NAC	Glfd PD Disp 	Police Dispatch 	P25 	Law Dispatch 
-158.79000 	WNPB648 	BM	136.5 PL	Glfd PD Tac1 	Police Tactical 	FMN 	Law Tac 
-155.89500 	KLU225 	BM	136.5 PL	PublicWorks 	Public Works 	FMN 	Public Works 
-155.79000 	WQI966 	RM	817 NAC	LacniaPD Dsp 	Police Dispatch 	P25 	Law Dispatch 
-156.18000 	KCE766 	BM	136.5 PL	LacniaPubWks 	Public Works 	FMN 	Public Works 
-155.37000 	KNCP975 	RM	117 NAC	Meredith PD-D 	Police Dispatch (Digital) 	P25 	Law Dispatch 
-155.37000 	KNCP975 	RM	173.8 PL	Meredith PD-A 	Police Dispatch (Analog) 	FMN 	Law Dispatch 
-155.95500 	WQGK830 	BM		NewHmptn EM  	New Hampton Emergency Management 	FMN 	Emergency Ops 
-155.67000 	KNFU679 	BM	117 NAC	Tilton PD 	Police Dispatch 	P25 	Law Dispatch 
-156.06000 	KNDR711 	B		Tilton Hghwy 	Highway 	FMN 	Transportation 
+154.83000 	   	KCF946 	BM	136.5 PL	BlknpCoPD1 A 	Sheriff Dispatch (includes small towns; analog) 	FMN 	Law Dispatch 
+154.83000 	   	KCF946 	BM	117 NAC	BlknpCoPD1 D 	Sheriff Dispatch (includes small towns; digital) 	P25 	Law Dispatch 
+154.08500 	   	WNWV519 	BM	527 NAC	BlknpCo PD 2 	Primary Dispatch 	P25 	Law Tac 
+151.25000 	   	WNWV519 	BM		BlknpCoPD151 	Sheriff 	FMN 	Law Talk 
+156.13500 	   	KNDC757 	RM	151.4 PL	Alton Hiway 	Alton Highway Dept.  	FMN 	Public Works 
+151.31000 	155.71500  	WQLB205 	RM	331 DPL	BarnsteadDPW1 	Public Works 	FMN 	Public Works 
+151.08500 	   	WQLB205 	BM	136.5 PL	BarnsteadDPW2 	Public Works 	FMN 	Public Works 
+152.33000 	   	 	BM	205 DPL	Buses 	School Buses 	FMN 	Transportation 
+155.25000 	   	WQBK402 	RM	437 NAC	Belmont PD 	Belmont Police  	P25 	Law Dispatch 
+154.11500 	   	WPEX622 	BM	225.7 PL	CtHbr FDTac1 	Center Harbor Fire Tac-1 	FMN 	Fire-Tac 
+155.49000 	   	KNHG439 	B	117 NAC	Glfd PD Disp 	Police Dispatch 	P25 	Law Dispatch 
+158.79000 	   	WNPB648 	BM	136.5 PL	Glfd PD Tac1 	Police Tactical 	FMN 	Law Tac 
+155.89500 	   	KLU225 	BM	136.5 PL	PublicWorks 	Public Works 	FMN 	Public Works 
+155.79000 	159.39000  	WQI966 	RM	817 NAC	LacniaPD Dsp 	Police Dispatch 	P25 	Law Dispatch 
+156.18000 	   	KCE766 	BM	136.5 PL	LacniaPubWks 	Public Works 	FMN 	Public Works 
+155.37000 	159.20250  	KNCP975 	RM	117 NAC	Meredith PD-D 	Police Dispatch (Digital) 	P25 	Law Dispatch 
+155.37000 	159.20250  	KNCP975 	RM	173.8 PL	Meredith PD-A 	Police Dispatch (Analog) 	FMN 	Law Dispatch 
+155.95500 	   	WQGK830 	BM		NewHmptn EM  	New Hampton Emergency Management 	FMN 	Emergency Ops 
+155.67000 	   	KNFU679 	BM	117 NAC	Tilton PD 	Police Dispatch 	P25 	Law Dispatch 
+156.06000 	   	KNDR711 	B		Tilton Hghwy 	Highway 	FMN 	Transportation 
 New Hampshire Department of Natural and Cultural Resources	 DMR Tier 3	 Varies	New Hampshire Electric Cooperative	 DMR Motorola Connect Plus (TRBO)	 Various	

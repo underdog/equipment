@@ -1,33 +1,33 @@
-154.37000 	WNZZ245 	BM	023 DPL	Crawford FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.78500 	WPTS345 	BM	072 DPL	Crawford EMS 1 	EMS Dispatch / Operations 	FMN 	EMS Dispatch 
-155.40000 	WPTS345 	BM	251 DPL	Crawford EMS 2 	EMS Tactical 	FMN 	EMS-Tac 
-156.13500 	WPEX724 	RM	173.8 PL	Crawford Roads 	Road Commission 	FMN 	Public Works 
-43.80000 	KCA267 	BM	173.8 PL	TransitAuthority 	Crawford County Transit Authority 	FM 	Transportation 
-153.83000 	WNZZ245 	M		BeaverCreek FD 7 	Fireground [F-7] 	FMN 	Fire-Tac 
-154.31000 	WNZZ245 	RM		BeaverCreek FD16 	Fire Tactical [F-16] 	FMN 	Fire-Tac 
-154.04000 	WPMB857 	RM		Frederic Fire 	Fire - Tactical 	FMN 	Fire-Tac 
-151.37000 	WQAY548 	RM	114.8 PL	Frederic FD 2 	Fire - Secondary [F-2] 	FMN 	Fire-Tac 
-154.19000 	WPBR492 	M		Frederic Fire F6 	Fireground [F-6] 	FMN 	Fire-Tac 
-154.07000 	WPBR492 	M	123.0 PL	Frederic Fire  9 	Fire Tactical [F-9] 	FMN 	Fire-Tac 
-153.95000 	WPCE441 	M		Grayling Fire F8 	Fireground [F-8] 	FMN 	Fire-Tac 
-154.11500 	WZT876 	BM		Grayling DPW 	Public Works / Fire Administration 	FMN 	Multi-Talk 
-154.16000 	WPCE441 	M		Grayling Fire F9 	Fire Tactical [F-9] 	FMN 	Fire-Tac 
-155.04000 	WPCE441 	RM		Grayling Fire F4 	Fireground [F-4] 	FMN 	Fire-Tac 
-154.17500 	WPBR491 	M		Lovells Fire F-3 	Fireground [F-3] 	FMN 	Fire-Tac 
-154.38500 	WPBR491 	M		Lovells Fire F-9 	Fire Tactical [F-9] 	FMN 	Fire-Tac 
-154.14500 	WPBR493 	M		SouthBranch FD 4 	Fireground [F-4] 	FMN 	Fire-Tac 
-154.23500 	WPBR493 	M		SouthBranch FD 9 	Fire Tactical [F-9] 	FMN 	Fire-Tac 
-155.55000 	WPXA686 	RM	203.5 PL	South Branch DPW 	Public Works 	FMN 	Public Works 
-151.26500 	KNHE664 	BM		R.A.M. C.C. 	R.A.M. Conference Center 	FMN 	Law Talk 
-155.32500 	WPUT892 	BM	162.2 PL	Munson HS EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.34000 	WPUT892 	BM	162.2 PL	H.E.A.R.N. 	EMS to Hospital Notifications 	FMN 	Hospital 
-152.00750 	KFQ960 	B		Munson HS Paging 	Hospital Paging 	Telm 	Data 
-148.25000 	 	RM	141.3 PL	Camp Grayling 	Security, Provost Marshal, Fire, EOD Primary [F-1] 	FM 	Military 
-148.02500 	 	RM	123.0 PL	Air Nat.Guard F2 	Range Control Secondary [F-2] 	FM 	Military 
-140.80000 	 	BM		CampGrayling Tac 	Tactical 	FM 	Aircraft 
-149.67500 	 	BM		ANG Tac 	Tactical 	FM 	Military 
-150.42500 	 	BM		Camp Graylng Tac 	Tactical 	FM 	Military 
-164.43750 	 	BM		ANG TAC 	Tactical 	FM 	Military 
-451.05000 	WPKM406 	F	900 NAC	MichConData2 	Michigan Consolidated Gas Company - Silent Carrier 	P25 	Data 
-451.22500 	WPKM406 	F	300 NAC	MichConData1 	Michigan Consolidated Gas Company - Silent Carrier 	P25 	Data 
+154.37000 	   	WNZZ245 	BM	023 DPL	Crawford FD Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.78500 	158.88000  	WPTS345 	BM	072 DPL	Crawford EMS 1 	EMS Dispatch / Operations 	FMN 	EMS Dispatch 
+155.40000 	   	WPTS345 	BM	251 DPL	Crawford EMS 2 	EMS Tactical 	FMN 	EMS-Tac 
+156.13500 	159.01500  	WPEX724 	RM	173.8 PL	Crawford Roads 	Road Commission 	FMN 	Public Works 
+43.80000 	   	KCA267 	BM	173.8 PL	TransitAuthority 	Crawford County Transit Authority 	FM 	Transportation 
+153.83000 	   	WNZZ245 	M		BeaverCreek FD 7 	Fireground [F-7] 	FMN 	Fire-Tac 
+154.31000 	153.77000  	WNZZ245 	RM		BeaverCreek FD16 	Fire Tactical [F-16] 	FMN 	Fire-Tac 
+154.04000 	155.91000  	WPMB857 	RM		Frederic Fire 	Fire - Tactical 	FMN 	Fire-Tac 
+151.37000 	159.30000  	WQAY548 	RM	114.8 PL	Frederic FD 2 	Fire - Secondary [F-2] 	FMN 	Fire-Tac 
+154.19000 	   	WPBR492 	M		Frederic Fire F6 	Fireground [F-6] 	FMN 	Fire-Tac 
+154.07000 	   	WPBR492 	M	123.0 PL	Frederic Fire  9 	Fire Tactical [F-9] 	FMN 	Fire-Tac 
+153.95000 	   	WPCE441 	M		Grayling Fire F8 	Fireground [F-8] 	FMN 	Fire-Tac 
+154.11500 	   	WZT876 	BM		Grayling DPW 	Public Works / Fire Administration 	FMN 	Multi-Talk 
+154.16000 	   	WPCE441 	M		Grayling Fire F9 	Fire Tactical [F-9] 	FMN 	Fire-Tac 
+155.04000 	153.95000  	WPCE441 	RM		Grayling Fire F4 	Fireground [F-4] 	FMN 	Fire-Tac 
+154.17500 	   	WPBR491 	M		Lovells Fire F-3 	Fireground [F-3] 	FMN 	Fire-Tac 
+154.38500 	   	WPBR491 	M		Lovells Fire F-9 	Fire Tactical [F-9] 	FMN 	Fire-Tac 
+154.14500 	   	WPBR493 	M		SouthBranch FD 4 	Fireground [F-4] 	FMN 	Fire-Tac 
+154.23500 	   	WPBR493 	M		SouthBranch FD 9 	Fire Tactical [F-9] 	FMN 	Fire-Tac 
+155.55000 	153.80000  	WPXA686 	RM	203.5 PL	South Branch DPW 	Public Works 	FMN 	Public Works 
+151.26500 	   	KNHE664 	BM		R.A.M. C.C. 	R.A.M. Conference Center 	FMN 	Law Talk 
+155.32500 	   	WPUT892 	BM	162.2 PL	Munson HS EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	WPUT892 	BM	162.2 PL	H.E.A.R.N. 	EMS to Hospital Notifications 	FMN 	Hospital 
+152.00750 	   	KFQ960 	B		Munson HS Paging 	Hospital Paging 	Telm 	Data 
+148.25000 	   	 	RM	141.3 PL	Camp Grayling 	Security, Provost Marshal, Fire, EOD Primary [F-1] 	FM 	Military 
+148.02500 	148.62500  	 	RM	123.0 PL	Air Nat.Guard F2 	Range Control Secondary [F-2] 	FM 	Military 
+140.80000 	   	 	BM		CampGrayling Tac 	Tactical 	FM 	Aircraft 
+149.67500 	   	 	BM		ANG Tac 	Tactical 	FM 	Military 
+150.42500 	   	 	BM		Camp Graylng Tac 	Tactical 	FM 	Military 
+164.43750 	   	 	BM		ANG TAC 	Tactical 	FM 	Military 
+451.05000 	   	WPKM406 	F	900 NAC	MichConData2 	Michigan Consolidated Gas Company - Silent Carrier 	P25 	Data 
+451.22500 	   	WPKM406 	F	300 NAC	MichConData1 	Michigan Consolidated Gas Company - Silent Carrier 	P25 	Data 
 Consumers Energy	 EDACS Networked Standard	 Various	

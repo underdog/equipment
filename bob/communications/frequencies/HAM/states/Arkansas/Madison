@@ -1,30 +1,30 @@
-155.07750 	WQMN554 	RM		MCOEM TRBO 	OEM Digital 	DMR 	Emergency Ops 
-155.07750 	WQMN554 	RM	156.7 PL	MCOEM OPS 	OEM 	FMN 	Emergency Ops 
-155.88750 	WQMN554 	RM		MCOEM TRBO 	OEM Digital 	DMR 	Emergency Ops 
-155.88750 	WQMN554 	RM	156.7 PL	MCOEM OPS 	OEM 	FMN 	Emergency Ops 
-155.17500 	WPTI274 	RM	CC 1TG *SL 1	MCFD RESPOND 	Fire Response 	DMR 	Fire-Tac 
-155.17500 	WPTI274 	RM	CC 1TG *SL 2	MCFD FG OPS 	Fire Tactical 	DMR 	Fire-Tac 
-155.17500 	WPTI274 	RM	156.7 PL	MCFD DISP 	Analog Fire Dispatch  	FMN 	Fire Dispatch 
-153.05750 	WQPJ852 	RM	CC 1TG 1SL 1	MC EMS DISP D 	EMS Dispatch (Digital) 	DMR 	EMS Dispatch 
-153.28250 	WQPJ852 	BM	156.7 PL	MC EMS PAGE 	EMS Analog Paging 	FMN 	EMS Dispatch 
-155.32500 	KWJ213 	RM	192.8 PL	MC EMS DISP A 	EMS Dispatch (Analog) 	FMN 	EMS Dispatch 
-462.17500 	WPSK985 	RM	156.7 PL	MADISON SO H 	Sheriff - Huntsville Tower 	FMN 	Law Dispatch 
-462.40000 	WPTG413 	RM	156.7 PL	MADISON SO S 	Sheriff - St. Paul Tower 	FMN 	Law Dispatch 
-462.50000 	WPTZ543 	RM	82.5 PL	MADISON SO J 	Sheriff - Japton Tower 	FMN 	Law Dispatch 
-463.50000 	WPQA647 	RM	82.5 PL	MADISN SO HD 	Sheriff - Hindsville Tower 	FMN 	Law Dispatch 
-155.38500 	WPSG738 	RM		JFD TRBO 	Japton VFD Digital 	DMR 	Fire Dispatch 
-155.38500 	WPSH738 	RM	156.7 PL	JAPTON FD 	Japton Volunteer Fire 	FMN 	Fire Dispatch 
-155.96250 	WPSH738 	BM		JFD TRBO 2 	Japton VFD Ops (Digital) 	DMR 	Fire-Tac 
-37.12000 	WPJJ709 	BM	156.7 PL	HPD LOW 	Police Low Band 	FM 	Law Dispatch 
-155.92500 	WQFX447 	BM	CC 14TG 2SL 2	HPD DISP DMR 	Police Digital 	DMR 	Law Dispatch 
-155.92500 	WQFX447 	BM	156.7 PL	HPD DISP ANALOG 	Police Analog 	FMN 	Law Dispatch 
-453.38750 	WPJJ709 	M		HPD ME 	Police Mobile Extenders 	FMN 	Law Tac 
-453.81250 	WPJJ709 	M		HPD ME 	Police Mobile Extenders 	FMN 	Law Tac 
-460.28750 	WPJJ709 	M		HPD ME 	Police Mobile Extenders 	FMN 	Law Tac 
-460.55000 	WPJJ709 	M	156.7 PL	HNTSVLLE ME 	Police Mobile Extenders 	FMN 	Law Talk 
-154.99500 	WQFX447 	RM		SVCS TRBO 	Huntsville Services TRBO 	DMR 	Public Works 
-154.99500 	WQFX447 	RM	192.8 PL	SVCS ANALOG 	Huntsville Services Analog 	FMN 	Public Works 
-155.17500 	WPTI274 	RM	156.7 PL	ST PAUL VFD 	Volunteer Fire Department Analog 	FMN 	Fire Dispatch 
-155.17500 	WPTI274 	RM		SPVFD TRBO 	St Paul VFD Digital 	DMR 	Fire Dispatch 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	Ozarks Electric Cooperative	 NXDN NEXEDGE 4800	 Various	Smith Two-Way Radio	 NXDN NEXEDGE 9600	 Arkansas and Oklahoma	
+155.07750 	153.91250  	WQMN554 	RM		MCOEM TRBO 	OEM Digital 	DMR 	Emergency Ops 
+155.07750 	153.91250  	WQMN554 	RM	156.7 PL	MCOEM OPS 	OEM 	FMN 	Emergency Ops 
+155.88750 	153.92750  	WQMN554 	RM		MCOEM TRBO 	OEM Digital 	DMR 	Emergency Ops 
+155.88750 	153.92750  	WQMN554 	RM	156.7 PL	MCOEM OPS 	OEM 	FMN 	Emergency Ops 
+155.17500 	153.83000  	WPTI274 	RM	CC 1TG *SL 1	MCFD RESPOND 	Fire Response 	DMR 	Fire-Tac 
+155.17500 	153.83000  	WPTI274 	RM	CC 1TG *SL 2	MCFD FG OPS 	Fire Tactical 	DMR 	Fire-Tac 
+155.17500 	153.83000  	WPTI274 	RM	156.7 PL	MCFD DISP 	Analog Fire Dispatch  	FMN 	Fire Dispatch 
+153.05750 	158.29500  	WQPJ852 	RM	CC 1TG 1SL 1	MC EMS DISP D 	EMS Dispatch (Digital) 	DMR 	EMS Dispatch 
+153.28250 	   	WQPJ852 	BM	156.7 PL	MC EMS PAGE 	EMS Analog Paging 	FMN 	EMS Dispatch 
+155.32500 	150.77500  	KWJ213 	RM	192.8 PL	MC EMS DISP A 	EMS Dispatch (Analog) 	FMN 	EMS Dispatch 
+462.17500 	467.17500  	WPSK985 	RM	156.7 PL	MADISON SO H 	Sheriff - Huntsville Tower 	FMN 	Law Dispatch 
+462.40000 	467.40000  	WPTG413 	RM	156.7 PL	MADISON SO S 	Sheriff - St. Paul Tower 	FMN 	Law Dispatch 
+462.50000 	467.50000  	WPTZ543 	RM	82.5 PL	MADISON SO J 	Sheriff - Japton Tower 	FMN 	Law Dispatch 
+463.50000 	468.50000  	WPQA647 	RM	82.5 PL	MADISN SO HD 	Sheriff - Hindsville Tower 	FMN 	Law Dispatch 
+155.38500 	158.86500  	WPSG738 	RM		JFD TRBO 	Japton VFD Digital 	DMR 	Fire Dispatch 
+155.38500 	158.86500  	WPSH738 	RM	156.7 PL	JAPTON FD 	Japton Volunteer Fire 	FMN 	Fire Dispatch 
+155.96250 	   	WPSH738 	BM		JFD TRBO 2 	Japton VFD Ops (Digital) 	DMR 	Fire-Tac 
+37.12000 	   	WPJJ709 	BM	156.7 PL	HPD LOW 	Police Low Band 	FM 	Law Dispatch 
+155.92500 	   	WQFX447 	BM	CC 14TG 2SL 2	HPD DISP DMR 	Police Digital 	DMR 	Law Dispatch 
+155.92500 	   	WQFX447 	BM	156.7 PL	HPD DISP ANALOG 	Police Analog 	FMN 	Law Dispatch 
+453.38750 	   	WPJJ709 	M		HPD ME 	Police Mobile Extenders 	FMN 	Law Tac 
+453.81250 	   	WPJJ709 	M		HPD ME 	Police Mobile Extenders 	FMN 	Law Tac 
+460.28750 	   	WPJJ709 	M		HPD ME 	Police Mobile Extenders 	FMN 	Law Tac 
+460.55000 	   	WPJJ709 	M	156.7 PL	HNTSVLLE ME 	Police Mobile Extenders 	FMN 	Law Talk 
+154.99500 	   	WQFX447 	RM		SVCS TRBO 	Huntsville Services TRBO 	DMR 	Public Works 
+154.99500 	   	WQFX447 	RM	192.8 PL	SVCS ANALOG 	Huntsville Services Analog 	FMN 	Public Works 
+155.17500 	153.83000  	WPTI274 	RM	156.7 PL	ST PAUL VFD 	Volunteer Fire Department Analog 	FMN 	Fire Dispatch 
+155.17500 	153.83000  	WPTI274 	RM		SPVFD TRBO 	St Paul VFD Digital 	DMR 	Fire Dispatch 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various
+Ozarks Electric Cooperative	 NXDN NEXEDGE 4800	 Various	Smith Two-Way Radio	 NXDN NEXEDGE 9600	 Arkansas and Oklahoma	

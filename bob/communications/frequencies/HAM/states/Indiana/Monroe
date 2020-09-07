@@ -1,101 +1,100 @@
-155.02500 	WNNZ226 	BM	91.5 PL	Monroe EMA 	EMA - State Net 	FMN 	Emergency Ops 
-154.99500 	KLS678 	BM	131.8 PL	Monro FD Dsp 	Fire Dispatch 	FMN 	Fire Dispatch 
-151.28000 	WQDS629 	RM	546 DPL	IndnCrk FRG3 	Fireground 3 - Monroe Fire Protection District 	FMN 	Fire-Tac 
-154.19000 	WPMD622 	RM	151.4 PL	NMonroeFRG5 	Fireground 5 - North Monroe Fire Territory 	FMN 	Fire-Tac 
-154.35500 	KNEU536 	BM	103.5 PL	EltvlFD FRG7 	Fireground 7 - Ellettsville 	FMN 	Fire-Tac 
-154.43000 	WPPB275 	RM	CC 5TG 1SL 1	Van Brn FRG9D 	Fireground 9 - Van Buren Twp 	DMR 	Fire-Tac 
-154.43000 	WPPB275 	RM	82.5 PL	Van Brn FRG9A 	Fireground 9 - Van Buren Twp 	FMN 	Fire-Tac 
-155.86500 	WPWU673 	RM	131.8 PL	PryClr FRG11 	Fireground 11 - Monroe Fire Protection District 	FMN 	Fire-Tac 
-154.96500 	KNCL547 	BM	131.8 PL	Monroe SO K9 	Sheriff - Talkaround (F9) 	FMN 	Law Talk 
-151.77500 	 	M		MonroSOCh39 	Sheriff - Operations (Channel 39) 	FMN 	Law Tac 
-159.14250 	WPYT627 	BM		Monro CrtScr 	Court Security 	FMN 	Law Tac 
-156.18000 	WQCH685 	RM	53 RAN	Monroe Hiway 	Highway Department 	NXDN 	Public Works 
-156.18000 	WQCH685 	RM	179.9 PL	Monroe Hiway 	Highway Department 	FMN 	Public Works 
-453.40000 	WNLR565 	BM		MC Library 	Monroe County Library 	FMN 	Public Works 
-461.17500 	WPMA856 	RM		MC Headstart 	Monroe County Headstart 	FMN 	Public Works 
-158.82000 	WPJG541 	BM		Lake Lemon 	Lake Lemon Conservancy District 	FMN 	Public Works 
-463.40000 	WQAU832 	RM		Area 10 AonA 	Area 10 Agency on Aging 	FMN 	Public Works 
-463.63750 	WQAU832 	RM		Area 10 AonA 	Area 10 Agency on Aging 	FMN 	Public Works 
-460.22500 	KNCL547 	RM		Blmng PD MDT 	Police Department MDTs 	FMN 	Data 
-153.50000 	WPKD728 	RM		Blmgtn Water 	Bloomington Water Department 	FMN 	Utilities 
-460.50000 	W{AE673 	BM		Blmgtn HA 	Bloomington Housing Authority 	FMN 	Public Works 
-158.86500 	WPNT703 	M	82.5 PL	Eltvl PD 	Ellettsville Police 	FMN 	Law Tac 
-152.43500 	WPPZ227 	RM	723 DPL	Eltvl FD F2 	Ellettsville Fire F2 	FMN 	Fire-Tac 
-153.96500 	WPNT703 	RM	103.5 PL	Eltvl FD F3 	Ellettsville Fire F3 	FMN 	Fire-Tac 
-154.08500 	WPKI465 	BM	131.8 PL	Van Brn F2 	Van Buren Fire F2 (Expired but still in use) 	FMN 	Fire-Tac 
-155.32500 	WPGQ585 	RM	192.8 PL	IU BHAS DISP 	IU BHAS Dispatch F1 	FMN 	EMS Dispatch 
-155.22000 	WPGQ585 	RM	071 DPL	IU BHAS F2 	IU BHAS Talkaround F2 	FMN 	EMS-Tac 
-464.05000 	KYP262 	RM	156.7 PL	IU Health Maint 	IU Health Bloomington - Maintenance 	FMN 	Hospital 
-461.72500 	KYP262 	RM		IU Health Op 	IU Health Bloomington - Operations 	FMN 	Hospital 
-461.87500 	KYP262 	RM	156.7 PL	IU Health Op 	IU Health Bloomington - Operations 	FMN 	Hospital 
-461.87500 	KYP262 	RM	25 RAN	IU Health Op 	IU Health Bloomington - Operations 	NXDN 	Hospital 
-463.28750 	KYP262 	RM		IU Health Op 	IU Health Bloomington - Operations 	FMN 	Hospital 
-463.47500 	WRCE542 	RM	156.7 PL	IU Bloomington 	IU Health Bloomington Hospital Security 	FMN 	Hospital 
-464.62500 	WQPJ959 	RM		IU Health Op 	IU Health Bloomington - Operations 	FMN 	Hospital 
-464.67500 	KB83400 	RM		IU Health Op 	IU Health Bloomington - Operations 	FMN 	Hospital 
-855.06250 	 	RM		IU PD SAFE-T BU 	Police Department Backup for the SAFE-T TRS. 	FMN 	Law Tac 
-453.50000 	KNHT839 	RM		IU Security 	Residential Hall Security 	FMN 	Security 
-155.82000 	KJW749 	BM		IU WX Sirens 	IU Tornado Warning Sirens 	FMN 	Emergency Ops 
-155.82000 	WQIY894 	BM		IU WX Sirens 	IU Tornado Warning Sirens 	FMN 	Emergency Ops 
-461.63750 	WQOD273 	RM	CC 3TG 167SL 1	IU Athletics  	Athletics Department  	DMR 	Schools 
-461.63750 	WQOD273 	RM	311 DPL	IUAthletics 	Athletics Department 	FMN 	Schools 
-461.68750 	WQOD273 	RM	311 DPL	IUAthletics 	Athletics Department 	FMN 	Schools 
-453.75000 	WNCM633 	RM	CC 1TG 200SL 1	IU Campus Rec 	Campus Recreation Department 	DMR 	Schools 
-451.91250 	WQOD273 	M	311 DPL	IU Event Svc 	Event & Guest Services 	FMN 	Schools 
-451.93750 	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
-456.85000 	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
-456.91250 	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
-456.93750 	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
-466.63750 	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
-466.68750 	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
-461.02500 	WNQF508 	M		IU Auditrium 	IU Auditorium 	FMN 	Schools 
-461.17500 	WNQF508 	M		IU Auditrium 	IU Auditorium 	FMN 	Schools 
-461.32500 	WNQF508 	M		IU Auditrium 	IU Auditorium 	FMN 	Schools 
-464.42500 	WNQF508 	M		IU Auditrium 	IU Auditorium 	FMN 	Schools 
-151.55000 	WQQK357 	BM		IU Art Musm 	IU Art Museum 	FMN 	Schools 
-155.71500 	KNCG853 	BM		IU Art Musm 	IU Art Museum 	FMN 	Schools 
-457.41250 	WQPU738 	M		IU Rec Sport 	Recreational Sports 	FMN 	Schools 
-457.86250 	WQPU738 	M		IU Rec Sport 	Recreational Sports 	FMN 	Schools 
-467.32500 	WQPU738 	M		IU Rec Sport 	Recreational Sports 	FMN 	Schools 
-468.46250 	WQPU738 	M		IU Rec Sport 	Recreational Sports 	FMN 	Schools 
-469.43750 	WQPU738 	M		IU Rec Sport 	Recreational Sports 	FMN 	Schools 
-451.45000 	WQBG331 	RM		IU Residence 	Residential Services 	FMN 	Schools 
-453.37500 	WPRH543 	M		IU Residence 	Residential Services 	FMN 	Schools 
-458.37500 	WPRH543 	M		IU Residence 	Residential Services 	FMN 	Schools 
-461.95000 	WQBG331 	RM		IU Residence 	Residential Services 	FMN 	Schools 
-463.76250 	WQGQ835 	RM		IU Residence 	Residential Services 	FMN 	Schools 
-464.32500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-464.37500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-464.42500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-464.47500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-464.52500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-464.57500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-464.67500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-464.77500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-464.87500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-464.90000 	WQBG331 	RM		IU Residence 	Residential Services 	FMN 	Schools 
-464.92500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-464.97500 	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
-453.18750 	WNCM633 	RM		IU Univ Ops 	University Operations 	FMN 	Schools 
-152.31500 	WQAV352 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
-155.23500 	KBZ500 	BM	91.5 PL	Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
-451.35000 	 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
-452.12500 	WPRI217 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
-462.20000 	 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
-463.22500 	 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
-464.10000 	 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
-464.32500 	WNLY390 	M		Bloom Nor HS 	Bloomington North High School 	FM 	Schools 
-464.57500 	WNPQ608 	M		Bloom Sou HS 	Bloomington South High School 	FM 	Schools 
-451.03750 	WQSF704 	M		Grandvw Elem 	Grandview Elementary 	FM 	Schools 
-452.23750 	WQSF704 	M		Grandvw Elem 	Grandview Elementary 	FM 	Schools 
-453.00000 	WQSF704 	M		Grandvw Elem 	Grandview Elementary 	FM 	Schools 
-456.61250 	 	M		Lakevw Elem 	Lakeview Elementary 	FMN 	Schools 
-456.76250 	 	M		Lakevw Elem 	Lakeview Elementary 	FMN 	Schools 
-151.65500 	WNLW653 	BM	146.2 PL	Rch/Bn Schls 	Richland Bean Blossom Schools - Bus Ops 	FMN 	Schools 
-151.89500 	WNLW653 	BM	146.2 PL	Rch/Bn Schls 	Richland Bean Blossom Schools 	FMN 	Schools 
-152.30000 	WQPA698 	RM		Rch/Bn Schls 	Richland Bean Blossom Schools 	FMN 	Schools 
-152.45750 	WQOX235 	RM		Rch/Bn Schls 	Richland Bean Blossom Schools 	FMN 	Schools 
-B and L Communications	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bloomington	Cook Pharmica	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bloomington	Electronic Communications Systems	 LTR Standard
- Multiple	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Indiana University
- LTR Standard	 Bloomington	Indiana University School of Business	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bloomington	South Central Indiana REMC	 NXDN NEXEDGE 9600	 Multiple
-Utilities District of Western Indiana REMC	 NXDN NEXEDGE 9600	 Multiple	
+155.02500 	158.92500  	WNNZ226 	BM	91.5 PL	Monroe EMA 	EMA - State Net 	FMN 	Emergency Ops 
+154.99500 	158.94000  	KLS678 	BM	131.8 PL	Monro FD Dsp 	Fire Dispatch 	FMN 	Fire Dispatch 
+151.28000 	156.15000  	WQDS629 	RM	546 DPL	IndnCrk FRG3 	Fireground 3 - Monroe Fire Protection District 	FMN 	Fire-Tac 
+154.19000 	156.01500  	WPMD622 	RM	151.4 PL	NMonroeFRG5 	Fireground 5 - North Monroe Fire Territory 	FMN 	Fire-Tac 
+154.35500 	153.83000  	KNEU536 	BM	103.5 PL	EltvlFD FRG7 	Fireground 7 - Ellettsville 	FMN 	Fire-Tac 
+154.43000 	153.86000  	WPPB275 	RM	CC 5TG 1SL 1	Van Brn FRG9D 	Fireground 9 - Van Buren Twp 	DMR 	Fire-Tac 
+154.43000 	153.86000  	WPPB275 	RM	82.5 PL	Van Brn FRG9A 	Fireground 9 - Van Buren Twp 	FMN 	Fire-Tac 
+155.86500 	153.74000  	WPWU673 	RM	131.8 PL	PryClr FRG11 	Fireground 11 - Monroe Fire Protection District 	FMN 	Fire-Tac 
+154.96500 	   	KNCL547 	BM	131.8 PL	Monroe SO K9 	Sheriff - Talkaround (F9) 	FMN 	Law Talk 
+151.77500 	   	 	M		MonroSOCh39 	Sheriff - Operations (Channel 39) 	FMN 	Law Tac 
+159.14250 	   	WPYT627 	BM		Monro CrtScr 	Court Security 	FMN 	Law Tac 
+156.18000 	159.01500  	WQCH685 	RM	53 RAN	Monroe Hiway 	Highway Department 	NXDN 	Public Works 
+156.18000 	159.01500  	WQCH685 	RM	179.9 PL	Monroe Hiway 	Highway Department 	FMN 	Public Works 
+453.40000 	458.40000  	WNLR565 	BM		MC Library 	Monroe County Library 	FMN 	Public Works 
+461.17500 	466.17500  	WPMA856 	RM		MC Headstart 	Monroe County Headstart 	FMN 	Public Works 
+158.82000 	   	WPJG541 	BM		Lake Lemon 	Lake Lemon Conservancy District 	FMN 	Public Works 
+463.40000 	468.40000  	WQAU832 	RM		Area 10 AonA 	Area 10 Agency on Aging 	FMN 	Public Works 
+463.63750 	468.63750  	WQAU832 	RM		Area 10 AonA 	Area 10 Agency on Aging 	FMN 	Public Works 
+460.22500 	465.22500  	KNCL547 	RM		Blmng PD MDT 	Police Department MDTs 	FMN 	Data 
+153.50000 	158.20500  	WPKD728 	RM		Blmgtn Water 	Bloomington Water Department 	FMN 	Utilities 
+460.50000 	465.50000  	W{AE673 	BM		Blmgtn HA 	Bloomington Housing Authority 	FMN 	Public Works 
+158.86500 	155.75500  	WPNT703 	M	82.5 PL	Eltvl PD 	Ellettsville Police 	FMN 	Law Tac 
+152.43500 	157.69500  	WPPZ227 	RM	723 DPL	Eltvl FD F2 	Ellettsville Fire F2 	FMN 	Fire-Tac 
+153.96500 	158.86500  	WPNT703 	RM	103.5 PL	Eltvl FD F3 	Ellettsville Fire F3 	FMN 	Fire-Tac 
+154.08500 	   	WPKI465 	BM	131.8 PL	Van Brn F2 	Van Buren Fire F2 (Expired but still in use) 	FMN 	Fire-Tac 
+155.32500 	150.77500  	WPGQ585 	RM	192.8 PL	IU BHAS DISP 	IU BHAS Dispatch F1 	FMN 	EMS Dispatch 
+155.22000 	155.80500  	WPGQ585 	RM	071 DPL	IU BHAS F2 	IU BHAS Talkaround F2 	FMN 	EMS-Tac 
+464.05000 	469.05000  	KYP262 	RM	156.7 PL	IU Health Maint 	IU Health Bloomington - Maintenance 	FMN 	Hospital 
+461.72500 	466.72500  	KYP262 	RM		IU Health Op 	IU Health Bloomington - Operations 	FMN 	Hospital 
+461.87500 	466.87500  	KYP262 	RM	156.7 PL	IU Health Op 	IU Health Bloomington - Operations 	FMN 	Hospital 
+461.87500 	466.87500  	KYP262 	RM	25 RAN	IU Health Op 	IU Health Bloomington - Operations 	NXDN 	Hospital 
+463.28750 	468.28750  	KYP262 	RM		IU Health Op 	IU Health Bloomington - Operations 	FMN 	Hospital 
+463.47500 	468.47500  	WRCE542 	RM	156.7 PL	IU Bloomington 	IU Health Bloomington Hospital Security 	FMN 	Hospital 
+464.62500 	469.62500  	WQPJ959 	RM		IU Health Op 	IU Health Bloomington - Operations 	FMN 	Hospital 
+464.67500 	469.67500  	KB83400 	RM		IU Health Op 	IU Health Bloomington - Operations 	FMN 	Hospital 
+855.06250 	   	 	RM		IU PD SAFE-T BU 	Police Department Backup for the SAFE-T TRS. 	FMN 	Law Tac 
+453.50000 	   	KNHT839 	RM		IU Security 	Residential Hall Security 	FMN 	Security 
+155.82000 	   	KJW749 	BM		IU WX Sirens 	IU Tornado Warning Sirens 	FMN 	Emergency Ops 
+155.82000 	   	WQIY894 	BM		IU WX Sirens 	IU Tornado Warning Sirens 	FMN 	Emergency Ops 
+461.63750 	466.63750  	WQOD273 	RM	CC 3TG 167SL 1	IU Athletics  	Athletics Department  	DMR 	Schools 
+461.63750 	466.63750  	WQOD273 	RM	311 DPL	IUAthletics 	Athletics Department 	FMN 	Schools 
+461.68750 	466.68750  	WQOD273 	RM	311 DPL	IUAthletics 	Athletics Department 	FMN 	Schools 
+453.75000 	458.75000  	WNCM633 	RM	CC 1TG 200SL 1	IU Campus Rec 	Campus Recreation Department 	DMR 	Schools 
+451.91250 	   	WQOD273 	M	311 DPL	IU Event Svc 	Event & Guest Services 	FMN 	Schools 
+451.93750 	   	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
+456.85000 	   	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
+456.91250 	   	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
+456.93750 	   	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
+466.63750 	   	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
+466.68750 	   	WQOD273 	M		IU Event Svc 	Event & Guest Services 	FMN 	Schools 
+461.02500 	   	WNQF508 	M		IU Auditrium 	IU Auditorium 	FMN 	Schools 
+461.17500 	   	WNQF508 	M		IU Auditrium 	IU Auditorium 	FMN 	Schools 
+461.32500 	   	WNQF508 	M		IU Auditrium 	IU Auditorium 	FMN 	Schools 
+464.42500 	   	WNQF508 	M		IU Auditrium 	IU Auditorium 	FMN 	Schools 
+151.55000 	   	WQQK357 	BM		IU Art Musm 	IU Art Museum 	FMN 	Schools 
+155.71500 	   	KNCG853 	BM		IU Art Musm 	IU Art Museum 	FMN 	Schools 
+457.41250 	   	WQPU738 	M		IU Rec Sport 	Recreational Sports 	FMN 	Schools 
+457.86250 	   	WQPU738 	M		IU Rec Sport 	Recreational Sports 	FMN 	Schools 
+467.32500 	   	WQPU738 	M		IU Rec Sport 	Recreational Sports 	FMN 	Schools 
+468.46250 	   	WQPU738 	M		IU Rec Sport 	Recreational Sports 	FMN 	Schools 
+469.43750 	   	WQPU738 	M		IU Rec Sport 	Recreational Sports 	FMN 	Schools 
+451.45000 	   	WQBG331 	RM		IU Residence 	Residential Services 	FMN 	Schools 
+453.37500 	   	WPRH543 	M		IU Residence 	Residential Services 	FMN 	Schools 
+458.37500 	   	WPRH543 	M		IU Residence 	Residential Services 	FMN 	Schools 
+461.95000 	   	WQBG331 	RM		IU Residence 	Residential Services 	FMN 	Schools 
+463.76250 	   	WQGQ835 	RM		IU Residence 	Residential Services 	FMN 	Schools 
+464.32500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+464.37500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+464.42500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+464.47500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+464.52500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+464.57500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+464.67500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+464.77500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+464.87500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+464.90000 	   	WQBG331 	RM		IU Residence 	Residential Services 	FMN 	Schools 
+464.92500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+464.97500 	   	WQBG331 	M		IU Residence 	Residential Services 	FMN 	Schools 
+453.18750 	   	WNCM633 	RM		IU Univ Ops 	University Operations 	FMN 	Schools 
+152.31500 	157.57500  	WQAV352 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
+155.23500 	   	KBZ500 	BM	91.5 PL	Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
+451.35000 	456.35000  	 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
+452.12500 	457.12500  	WPRI217 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
+462.20000 	467.20000  	 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
+463.22500 	468.22500  	 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
+464.10000 	469.10000  	 	RM		Monroe Schls 	Monroe County Community Schools 	FMN 	Schools 
+464.32500 	   	WNLY390 	M		Bloom Nor HS 	Bloomington North High School 	FM 	Schools 
+464.57500 	   	WNPQ608 	M		Bloom Sou HS 	Bloomington South High School 	FM 	Schools 
+451.03750 	   	WQSF704 	M		Grandvw Elem 	Grandview Elementary 	FM 	Schools 
+452.23750 	   	WQSF704 	M		Grandvw Elem 	Grandview Elementary 	FM 	Schools 
+453.00000 	   	WQSF704 	M		Grandvw Elem 	Grandview Elementary 	FM 	Schools 
+456.61250 	   	 	M		Lakevw Elem 	Lakeview Elementary 	FMN 	Schools 
+456.76250 	   	 	M		Lakevw Elem 	Lakeview Elementary 	FMN 	Schools 
+151.65500 	   	WNLW653 	BM	146.2 PL	Rch/Bn Schls 	Richland Bean Blossom Schools - Bus Ops 	FMN 	Schools 
+151.89500 	   	WNLW653 	BM	146.2 PL	Rch/Bn Schls 	Richland Bean Blossom Schools 	FMN 	Schools 
+152.30000 	157.56000  	WQPA698 	RM		Rch/Bn Schls 	Richland Bean Blossom Schools 	FMN 	Schools 
+152.45750 	157.71750  	WQOX235 	RM		Rch/Bn Schls 	Richland Bean Blossom Schools 	FMN 	Schools 
+B and L Communications	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bloomington	Cook Pharmica	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bloomington	Electronic Communications Systems	 LTR Standard	 Multiple
+ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana University	 LTR Standard	 Bloomington	Indiana University School of Business	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bloomington
+South Central Indiana REMC	 NXDN NEXEDGE 9600	 Multiple	Utilities District of Western Indiana REMC	 NXDN NEXEDGE 9600	 Multiple	

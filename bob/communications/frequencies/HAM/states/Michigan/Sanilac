@@ -1,23 +1,22 @@
-155.53500 	WPEX957 	BM	031 DPL	County Police 	County Police Dispatch 	FMN 	Law Dispatch 
-155.91000 	WPEX957 	M		County PD Tac1 	County Police Tactical 	FMN 	Law Tac 
-151.01000 	WPYF737 	RM	031 DPL	Sanilac Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.12250 	WQCC275 	RM		Sanl Health Dept 	Health Department 	FMN 	EMS-Talk 
-155.17500 	WYC697 	BM	192.8 PL	Sanilac EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-451.96250 	WQEP641 	BM	CSQ	SanilacTransport 	Sanilac Transportation Corporation 	FMN 	Transportation 
-152.00750 	KTL516 	BM		MarletHosp Page 	Paging 	FMN 	EMS Dispatch 
-155.34000 	KTL516 	BM	141.3 PL	HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
-464.42500 	WPEH490 	RM		MCH Security 	Security 	FMN 	Security 
-155.34000 	WPXN209 	BM	131.8 PL	HEARN 	Hospital to Ambulance 	FMN 	Hospital 
-155.14500 	WNIK763 	BM		Deckerville DPW 	Public Works 	FMN 	Public Works 
-159.90750 	WQNU354 	BM		CarsnvleSanl Sch 	Transportation 	FMN 	Schools 
-462.12500 	WQOV906 	RM	107.2 PL	Deckrvle Sch Bus 	Transportation 	FMN 	Schools 
-464.97500 	WYB300 	BM	192.8 PL	Peck Schools 	Peck Community Schools Transportation 	FMN 	Schools 
-154.03250 	WQFQ211 	RM		San Intm Sch Bus 	Transportation - Primary 	FMN 	Schools 
-154.54000 	KZF304 	BM		San Intm SchlOps 	Ops 	FMN 	Schools 
-153.14000 	WQGE385 	RM		DTE Lexington 	Operations (Lexington) 	FMN 	Utilities 
-153.62000 	KQB280 	RM		DTE Sandusky 	Operations (Sandusky) 	FMN 	Utilities 
-153.71000 	WGE825 	RM	107.2 PL	Thumb Elect Ops 	Operations 	FMN 	Utilities 
-158.19000 	WGE825 	M		Unit-to-Unit 	Unit-to-Unit 	FMN 	Utilities 
-456.03750 	WGE825 	M		Mobile Extenders 	Mobile Extenders 	FMN 	Data 
-Consumers Energy	 EDACS Networked Standard	 Various	Louchart Enterprises (UHF)	 LTR Standard and Passport	 Bay City	Sanilac County Road Commission	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Carsonville	
+155.53500 	159.03000  	WPEX957 	BM	031 DPL	County Police 	County Police Dispatch 	FMN 	Law Dispatch 
+155.91000 	   	WPEX957 	M		County PD Tac1 	County Police Tactical 	FMN 	Law Tac 
+151.01000 	153.77000  	WPYF737 	RM	031 DPL	Sanilac Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.12250 	158.76750  	WQCC275 	RM		Sanl Health Dept 	Health Department 	FMN 	EMS-Talk 
+155.17500 	   	WYC697 	BM	192.8 PL	Sanilac EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+451.96250 	   	WQEP641 	BM	CSQ	SanilacTransport 	Sanilac Transportation Corporation 	FMN 	Transportation 
+152.00750 	   	KTL516 	BM		MarletHosp Page 	Paging 	FMN 	EMS Dispatch 
+155.34000 	   	KTL516 	BM	141.3 PL	HEARN 	Ambulance-to-Hospital Comms 	FMN 	Hospital 
+464.42500 	469.42500  	WPEH490 	RM		MCH Security 	Security 	FMN 	Security 
+155.34000 	   	WPXN209 	BM	131.8 PL	HEARN 	Hospital to Ambulance 	FMN 	Hospital 
+155.14500 	   	WNIK763 	BM		Deckerville DPW 	Public Works 	FMN 	Public Works 
+159.90750 	   	WQNU354 	BM		CarsnvleSanl Sch 	Transportation 	FMN 	Schools 
+462.12500 	467.12500  	WQOV906 	RM	107.2 PL	Deckrvle Sch Bus 	Transportation 	FMN 	Schools 
+464.97500 	469.97500  	WYB300 	BM	192.8 PL	Peck Schools 	Peck Community Schools Transportation 	FMN 	Schools 
+154.03250 	159.12750  	WQFQ211 	RM		San Intm Sch Bus 	Transportation - Primary 	FMN 	Schools 
+154.54000 	   	KZF304 	BM		San Intm SchlOps 	Ops 	FMN 	Schools 
+153.14000 	160.20000  	WQGE385 	RM		DTE Lexington 	Operations (Lexington) 	FMN 	Utilities 
+153.62000 	160.09500  	KQB280 	RM		DTE Sandusky 	Operations (Sandusky) 	FMN 	Utilities 
+153.71000 	158.14500  	WGE825 	RM	107.2 PL	Thumb Elect Ops 	Operations 	FMN 	Utilities 
+158.19000 	   	WGE825 	M		Unit-to-Unit 	Unit-to-Unit 	FMN 	Utilities 
+456.03750 	   	WGE825 	M		Mobile Extenders 	Mobile Extenders 	FMN 	Data 
+Consumers Energy	 EDACS Networked Standard	 Various	Louchart Enterprises (UHF)	 LTR Standard and Passport	 Bay City	Sanilac County Road Commission	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Carsonville

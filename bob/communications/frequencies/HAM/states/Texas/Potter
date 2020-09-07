@@ -1,50 +1,50 @@
-154.80000 	WQGV794 	RM	127.3 PL	Potter SO 1 	Sheriff Dispatch (North PANCOM Simulcast) 	FMN 	Law Dispatch 
-154.80000 	WQGV794 	RM	61F NAC	Potter SO 1 P25 	Sheriff Dispatch (North PANCOM) 	P25 	Law Dispatch 
-155.31750 	WQGV794 	RM	023 DPL	Potter SO 2 	Sheriff Dispatch (North PANCOM Simulcast) 	FMN 	Law Dispatch 
-155.31750 	WQGV794 	RM	61F NAC	Potter SO 2 P25 	Sheriff Dispatch (North PANCOM) 	P25 	Law Dispatch 
-154.05500 	WQGV794 	RM	054 DPL	Potter Co Fire 	Fire Dispatch / Sheriff Secondary (North PANCOM) 	FMN 	Fire Dispatch 
-154.05500 	WQGV794 	RM	61F NAC	Potter Co Fire D 	Fire Dispatch (North PANCOM) 	P25 	Fire Dispatch 
-154.80000 	WQGV794 	RM	047 DPL	Lifestar Air 	Lifestar Air Repeater 	FMN 	EMS-Tac 
-156.19500 	WQGV794 	RM	141.3 PL	Inbound EMS 1 	Inbound EMS to Hospital Patch 1 	FMN 	Hospital 
-154.36250 	WQGV794 	RM	141.3 PL	Inbound EMS 2 	Inbound EMS to Hospital Patch 2 	FMN 	Hospital 
-155.76750 	WQGV794 	BM	731 DPL	Lifestar Pad 	Lifestar Pad 	FMN 	EMS-Tac 
-158.77500 	WQGV794 	RM	61F NAC	Potter Co DA 	District Attorney 	P25 	Law Tac 
-159.15000 	WNNU816 	BM	127.3 PL	Potter Co Roads 	Road and Bridge 	FMN 	Public Works 
-453.60000 	WNWW929 	RM	103.5 PL	SantaFeMaint 	SantaFe Bldg. Maint. 	FMN 	Public Works 
-462.97500 	KMK570 	RM	136.5 PL	EMS Disp 	EMS Disp/Ops (National MED 10) Local 	FMN 	EMS Dispatch 
-462.95000 	KMK570 	RM	136.5 PL	EMS 2 Hosp 	EMS/Hosp Comms (National MED 9) 	FMN 	Hospital 
-453.17500 	WPCP849 	RM	186.2 PL	LifeStarDisp 	NW Regional Med Center - LifeStar Dispatch/Ops 	FMN 	EMS Dispatch 
-163.25000 	WPKI983 	B	167.9 PL	Med Paging 	NW Regional Med Center - EMS/Medical Paging 	FM 	Hospital 
-155.14500 	KKH805 	RM	203.5 PL	Ama PD1 Disp 	Police Dispatch 	FMN 	Law Dispatch 
-154.86000 	KKH805 	RM	218.1 PL	Ama PD2 N-E 	Police North & East Dispatch 	FMN 	Law Dispatch 
-155.19000 	KKH805 	RM	192.8 PL	Ama PD3 S-W 	Police South & West Dispatch 	FMN 	Law Dispatch 
-155.25000 	KKH805 	RM	241.8 PL	Ama PD4 Info 	Police Information/NCIC 	FMN 	Law Tac 
-154.89000 	KKH805 	M	250.3 PL	Ama PD5 C2C 	Police Car-to-Car 	FMN 	Law Talk 
-155.59500 	WNJW317 	RM	CSQ	Ama PD Encry 	Police Encrypted Operations (DES) 	FMNE 	Law Tac 
-159.22500 	KWO303 	RM	156.7 PL	Ama PrksDept 	Parks & Recreation (Also Ama PD Ch 17) 	FMN 	Multi-Talk 
-154.34000 	KKJ677 	RM	100.0 PL	Ama FD Disp1 	Fire Dispatch 1 	FMN 	Fire Dispatch 
-154.31000 	KKJ677 	RM	123.0 PL	Ama FD Disp2 	Fire Dispatch 2 	FMN 	Fire Dispatch 
-154.13000 	KKJ677 	BM	173.8 PL	Ama FD3 FG 	Fireground 	FMN 	Fire-Tac 
-153.89000 	KKJ677 	RM	173.8 PL	Ama FD4 TAC 	Fire Ops 	FMN 	Fire-Tac 
-154.07000 	KKJ677 	BM		AmaFireMarsh 	Fire Marshal 	FMN 	Fire-Talk 
-154.18250 	WQGV794 	RM	114.8 PL	AMS EMS Disp 1 	AMS Dispatch 1 (South PANCOM) 	FMN 	EMS Dispatch 
-154.20500 	WQGV794 	RM	114.8 PL	AMS EMS Disp 2 	AMS Dispatch 2 (South PANCOM) 	FMN 	EMS Dispatch 
-151.11500 	WPPG873 	RM	110.9 PL	AmaEmgServ1 	Emergency Services 	FMN 	Emergency Ops 
-158.86500 	WNQV638 	RM		Ama OEM  	Emergency Management 	FMN 	Emergency Ops 
-27.23500 	KRC578 	BM	CSQ	AmaEmgServ7a 	Emergency Services 	FM 	Emergency Ops 
-462.70000 	KAB9887 	RM		AmaEmgGMRS 	Emergency Services 	FMN 	Emergency Ops 
-155.05500 	KTH441 	RM	192.8 PL	AmaAnimlCtrl 	Animal Control 	FMN 	Public Works 
-153.71000 	KKU355 	RM	136.5 PL	Ama Utils 1 	City Utilities 	FMN 	Utilities 
-158.19000 	WPHN913 	RM	136.5 PL	Ama Utils 2 	City Utilities 	FMN 	Utilities 
-453.92500 	WNGP643 	RM	123.0 PL	Ama Transit 	Amarillo Transit (Bus Service) 	FMN 	Transportation 
-461.47500 	KNCY741 	RM	125 DPL	Ama ISD Mnt 	Amarillo ISD (Maintenance?) 	FMN 	Schools 
-152.28500 	WQFP552 	RM	731 DPL	Ama ISD Buse 	Amarillo ISD School buses (Durham Sch Srvs) 	FMN 	Schools 
-453.05000 	KTH441 	RM	94.8 PL	AmaCivicCent 	Civic Center Operations 	FMN 	Public Works 
-453.67500 	WPDZ648 	RM	94.8 PL	AmaFacEngr 	City Facilities Engr 	FMN 	Public Works 
-155.72250 	WPLQ775 	RM	118.8 PL	Ama Landfill 	City Landfill 	FMN 	Public Works 
-158.74500 	KTH441 	RM	118.8 PL	Ama Sanation 	Sanitation 	FMN 	Public Works 
-453.40000 	KTH441 	B		AmaCityPager 	City Pager (Voice and Data) 	Telm 	Public Works 
-854.96250 	WNPW375 	RM		Ama MobilDat 	Mobile Data Terminals 	Telm 	Data 
-155.58000 	WNSA797 	RM	179.9 PL	AmaCollegePD 	College Police 	FMN 	Law Dispatch 
-Amarillo Radio Communications System (ARCS)	 Project 25 Phase II	 Amarillo	Omega Two-Way Radio	 LTR Standard	 Amarillo	WT Systems/Panhandle Paging	 LTR Standard
- Amarillo	Xcel Energy	 Project 25 Phase I	 Various	
+154.80000 	155.64000  	WQGV794 	RM	127.3 PL	Potter SO 1 	Sheriff Dispatch (North PANCOM Simulcast) 	FMN 	Law Dispatch 
+154.80000 	154.65750  	WQGV794 	RM	61F NAC	Potter SO 1 P25 	Sheriff Dispatch (North PANCOM) 	P25 	Law Dispatch 
+155.31750 	154.65750  	WQGV794 	RM	023 DPL	Potter SO 2 	Sheriff Dispatch (North PANCOM Simulcast) 	FMN 	Law Dispatch 
+155.31750 	154.65750  	WQGV794 	RM	61F NAC	Potter SO 2 P25 	Sheriff Dispatch (North PANCOM) 	P25 	Law Dispatch 
+154.05500 	156.00000  	WQGV794 	RM	054 DPL	Potter Co Fire 	Fire Dispatch / Sheriff Secondary (North PANCOM) 	FMN 	Fire Dispatch 
+154.05500 	156.00000  	WQGV794 	RM	61F NAC	Potter Co Fire D 	Fire Dispatch (North PANCOM) 	P25 	Fire Dispatch 
+154.80000 	155.64000  	WQGV794 	RM	047 DPL	Lifestar Air 	Lifestar Air Repeater 	FMN 	EMS-Tac 
+156.19500 	154.40750  	WQGV794 	RM	141.3 PL	Inbound EMS 1 	Inbound EMS to Hospital Patch 1 	FMN 	Hospital 
+154.36250 	154.01750  	WQGV794 	RM	141.3 PL	Inbound EMS 2 	Inbound EMS to Hospital Patch 2 	FMN 	Hospital 
+155.76750 	   	WQGV794 	BM	731 DPL	Lifestar Pad 	Lifestar Pad 	FMN 	EMS-Tac 
+158.77500 	156.00000  	WQGV794 	RM	61F NAC	Potter Co DA 	District Attorney 	P25 	Law Tac 
+159.15000 	   	WNNU816 	BM	127.3 PL	Potter Co Roads 	Road and Bridge 	FMN 	Public Works 
+453.60000 	458.60000  	WNWW929 	RM	103.5 PL	SantaFeMaint 	SantaFe Bldg. Maint. 	FMN 	Public Works 
+462.97500 	467.97500  	KMK570 	RM	136.5 PL	EMS Disp 	EMS Disp/Ops (National MED 10) Local 	FMN 	EMS Dispatch 
+462.95000 	467.95000  	KMK570 	RM	136.5 PL	EMS 2 Hosp 	EMS/Hosp Comms (National MED 9) 	FMN 	Hospital 
+453.17500 	458.17500  	WPCP849 	RM	186.2 PL	LifeStarDisp 	NW Regional Med Center - LifeStar Dispatch/Ops 	FMN 	EMS Dispatch 
+163.25000 	   	WPKI983 	B	167.9 PL	Med Paging 	NW Regional Med Center - EMS/Medical Paging 	FM 	Hospital 
+155.14500 	   	KKH805 	RM	203.5 PL	Ama PD1 Disp 	Police Dispatch 	FMN 	Law Dispatch 
+154.86000 	155.68500  	KKH805 	RM	218.1 PL	Ama PD2 N-E 	Police North & East Dispatch 	FMN 	Law Dispatch 
+155.19000 	155.91000  	KKH805 	RM	192.8 PL	Ama PD3 S-W 	Police South & West Dispatch 	FMN 	Law Dispatch 
+155.25000 	155.97000  	KKH805 	RM	241.8 PL	Ama PD4 Info 	Police Information/NCIC 	FMN 	Law Tac 
+154.89000 	   	KKH805 	M	250.3 PL	Ama PD5 C2C 	Police Car-to-Car 	FMN 	Law Talk 
+155.59500 	158.94000  	WNJW317 	RM	CSQ	Ama PD Encry 	Police Encrypted Operations (DES) 	FMNE 	Law Tac 
+159.22500 	   	KWO303 	RM	156.7 PL	Ama PrksDept 	Parks & Recreation (Also Ama PD Ch 17) 	FMN 	Multi-Talk 
+154.34000 	154.01000  	KKJ677 	RM	100.0 PL	Ama FD Disp1 	Fire Dispatch 1 	FMN 	Fire Dispatch 
+154.31000 	153.95000  	KKJ677 	RM	123.0 PL	Ama FD Disp2 	Fire Dispatch 2 	FMN 	Fire Dispatch 
+154.13000 	   	KKJ677 	BM	173.8 PL	Ama FD3 FG 	Fireground 	FMN 	Fire-Tac 
+153.89000 	154.44500  	KKJ677 	RM	173.8 PL	Ama FD4 TAC 	Fire Ops 	FMN 	Fire-Tac 
+154.07000 	   	KKJ677 	BM		AmaFireMarsh 	Fire Marshal 	FMN 	Fire-Talk 
+154.18250 	153.80750  	WQGV794 	RM	114.8 PL	AMS EMS Disp 1 	AMS Dispatch 1 (South PANCOM) 	FMN 	EMS Dispatch 
+154.20500 	157.27500  	WQGV794 	RM	114.8 PL	AMS EMS Disp 2 	AMS Dispatch 2 (South PANCOM) 	FMN 	EMS Dispatch 
+151.11500 	159.00000  	WPPG873 	RM	110.9 PL	AmaEmgServ1 	Emergency Services 	FMN 	Emergency Ops 
+158.86500 	153.78500  	WNQV638 	RM		Ama OEM  	Emergency Management 	FMN 	Emergency Ops 
+27.23500 	   	KRC578 	BM	CSQ	AmaEmgServ7a 	Emergency Services 	FM 	Emergency Ops 
+462.70000 	467.70000  	KAB9887 	RM		AmaEmgGMRS 	Emergency Services 	FMN 	Emergency Ops 
+155.05500 	   	KTH441 	RM	192.8 PL	AmaAnimlCtrl 	Animal Control 	FMN 	Public Works 
+153.71000 	   	KKU355 	RM	136.5 PL	Ama Utils 1 	City Utilities 	FMN 	Utilities 
+158.19000 	153.48500  	WPHN913 	RM	136.5 PL	Ama Utils 2 	City Utilities 	FMN 	Utilities 
+453.92500 	458.92500  	WNGP643 	RM	123.0 PL	Ama Transit 	Amarillo Transit (Bus Service) 	FMN 	Transportation 
+461.47500 	466.47500  	KNCY741 	RM	125 DPL	Ama ISD Mnt 	Amarillo ISD (Maintenance?) 	FMN 	Schools 
+152.28500 	157.54500  	WQFP552 	RM	731 DPL	Ama ISD Buse 	Amarillo ISD School buses (Durham Sch Srvs) 	FMN 	Schools 
+453.05000 	458.05000  	KTH441 	RM	94.8 PL	AmaCivicCent 	Civic Center Operations 	FMN 	Public Works 
+453.67500 	458.67500  	WPDZ648 	RM	94.8 PL	AmaFacEngr 	City Facilities Engr 	FMN 	Public Works 
+155.72250 	153.82250  	WPLQ775 	RM	118.8 PL	Ama Landfill 	City Landfill 	FMN 	Public Works 
+158.74500 	   	KTH441 	RM	118.8 PL	Ama Sanation 	Sanitation 	FMN 	Public Works 
+453.40000 	   	KTH441 	B		AmaCityPager 	City Pager (Voice and Data) 	Telm 	Public Works 
+854.96250 	809.96250  	WNPW375 	RM		Ama MobilDat 	Mobile Data Terminals 	Telm 	Data 
+155.58000 	158.89500  	WNSA797 	RM	179.9 PL	AmaCollegePD 	College Police 	FMN 	Law Dispatch 
+Amarillo Radio Communications System (ARCS)	 Project 25 Phase II	 Amarillo	BrandMeister Texas	 DMR Conventional Networked	 Various	Omega Two-Way Radio	 LTR Standard	 Amarillo
+WT Systems/Panhandle Paging	 LTR Standard	 Amarillo	Xcel Energy	 Project 25 Phase I	 Various	

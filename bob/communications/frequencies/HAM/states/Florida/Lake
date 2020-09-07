@@ -1,31 +1,31 @@
-154.38500 	KLV879 	B	127.3 PL	Fire Disp 	Fire Dispatch - All Stations  	P25E 	Fire Dispatch 
-158.73750 	WQDI441 	RM	107.2 PL	Tac Ops 3 	Tactical Ops 3 Nationwide 	FM 	Interop 
-463.06250 	 	RM	192.8 PL	MED-32 	County Medical Coordination 	FM 	EMS-Tac 
-463.01250 	 	RM	192.8 PL	MED-12 	EMS-to-Florida Hospital Waterman 	FM 	EMS-Tac 
-463.03750 	 	RM	192.8 PL	MED-22 	EMS-to-Leesburg Regional Medical Center 	FM 	EMS-Tac 
-463.13750 	 	RM	192.8 PL	MED-62 	EMS-to-South Lake Hospital 	FM 	EMS-Tac 
-155.47500 	KXV645 	BM	107.2 PL	Sheriff MA 	Sheriff Mutual Aid 	FM 	Interop 
-453.60000 	WPGF919 	RM	141.3 PL	County Jail 	County Jail 	FM 	Security 
-155.07000 	KXV645 	RM	82.5 PL	Local Govern 	Local Government/ Data 	FM 	Data 
-153.75500 	WQCQ923 	RM	173.8 PL	LCPS-1 	School Buses Main 	FM 	Schools 
-155.80500 	KNFT993 	BM	136.5 PL	LCSB-2 	School Buses (Simplex) 	FM 	Schools 
-151.92500 	WNFB538 	RM	167.9 PL	Leesburg HS 	Leesburg High School 	FM 	Schools 
-153.87500 	WQAN992 	BM	186.2 PL	LCSB-Main 	School Buses 	FM 	Schools 
-154.54750 	WQKR329 	M	186.2 PL	LCSB-North  	School Buses North 	FM 	Schools 
-157.54500 	WQKR329 	M	186.2 PL	LCSB-South 	School Buses South 	FM 	Schools 
-154.84500 	KVV736 	RM	141.3 PL	EFD Tac 	Fire Tactical 	FM 	Fire-Tac 
-151.02500 	WYV278 	RM	107.2 PL	FruitlandDPW 	Services 	FM 	Public Works 
-453.40000 	WPWT862 	RM	464 DPL	1 	DPW 	FM 	Public Works 
-153.63500 	WNXU403 	RM	107.2 PL	LeesburgELEC 	Electric Department 	FM 	Public Works 
-156.00000 	KAU282 	RM	107.2 PL	LeesburgUTIL 	Utilities 	FM 	Public Works 
-155.70000 	WPUQ583 	F	CSQ	LeesburgDATA 	Water Utilities Data 	FM 	Public Works 
-158.97000 	WPUQ583 	F	CSQ	LeesburgDATA 	Water Utilities Data 	FM 	Public Works 
-155.37000 	KXX368 	BM	CSQ	Intercity 	Police - Intercity 	FM 	Interop 
-151.00250 	WQGU714 	RM		Events/Seapl 	City Events/ Seaplane Base Ops 	FM 	Multi-Talk 
-155.95500 	KNAK316 	RM	110.9 PL	PW/Sanitatio 	Public Works/ Sanitation Operations 	FM 	Public Works 
-453.81250 	WPRH566 	F		Water Utilit 	Water Utilities Data 	FM 	Public Works 
-151.47500 	KNBL851 	RM	151.4 PL	UmatillaDPW 	Public Works 	FM 	Public Works 
-Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various	Master Communications (Leesburg)	 LTR Standard
- Leesburg	Public Safety Interoperable Communications Network (PSIC)	 Project 25 Phase I	 Various	Rinker Materials (Leesburg)	 LTR Standard	 Leesburg	Statewide Law Enforcement Radio System (P25)
- Project 25 Phase I	 Statewide	Tri-Co Communications (Leesburg)	 LTR Standard	 Leesburg	Tri-Co Communications (The Villages)	 LTR Standard	 The Villages
-TRS Wireless (Clermont)	 LTR Standard	 Clermont	Urban Area Security Initiative (UASI-PEPRO)	 Motorola Type II SmartZone	 Clermont	
+154.38500 	159.10500  	KLV879 	B	127.3 PL	Fire Disp 	Fire Dispatch - All Stations  	P25E 	Fire Dispatch 
+158.73750 	   	WQDI441 	RM	107.2 PL	Tac Ops 3 	Tactical Ops 3 Nationwide 	FM 	Interop 
+463.06250 	468.06250  	 	RM	192.8 PL	MED-32 	County Medical Coordination 	FM 	EMS-Tac 
+463.01250 	468.01250  	 	RM	192.8 PL	MED-12 	EMS-to-Florida Hospital Waterman 	FM 	EMS-Tac 
+463.03750 	468.03750  	 	RM	192.8 PL	MED-22 	EMS-to-Leesburg Regional Medical Center 	FM 	EMS-Tac 
+463.13750 	468.13750  	 	RM	192.8 PL	MED-62 	EMS-to-South Lake Hospital 	FM 	EMS-Tac 
+155.47500 	   	KXV645 	BM	107.2 PL	Sheriff MA 	Sheriff Mutual Aid 	FM 	Interop 
+453.60000 	458.60000  	WPGF919 	RM	141.3 PL	County Jail 	County Jail 	FM 	Security 
+155.07000 	   	KXV645 	RM	82.5 PL	Local Govern 	Local Government/ Data 	FM 	Data 
+153.75500 	156.09000  	WQCQ923 	RM	173.8 PL	LCPS-1 	School Buses Main 	FM 	Schools 
+155.80500 	   	KNFT993 	BM	136.5 PL	LCSB-2 	School Buses (Simplex) 	FM 	Schools 
+151.92500 	151.74500  	WNFB538 	RM	167.9 PL	Leesburg HS 	Leesburg High School 	FM 	Schools 
+153.87500 	159.35250  	WQAN992 	BM	186.2 PL	LCSB-Main 	School Buses 	FM 	Schools 
+154.54750 	   	WQKR329 	M	186.2 PL	LCSB-North  	School Buses North 	FM 	Schools 
+157.54500 	   	WQKR329 	M	186.2 PL	LCSB-South 	School Buses South 	FM 	Schools 
+154.84500 	155.58000  	KVV736 	RM	141.3 PL	EFD Tac 	Fire Tactical 	FM 	Fire-Tac 
+151.02500 	154.98000  	WYV278 	RM	107.2 PL	FruitlandDPW 	Services 	FM 	Public Works 
+453.40000 	458.40000  	WPWT862 	RM	464 DPL	1 	DPW 	FM 	Public Works 
+153.63500 	158.22000  	WNXU403 	RM	107.2 PL	LeesburgELEC 	Electric Department 	FM 	Public Works 
+156.00000 	158.82000  	KAU282 	RM	107.2 PL	LeesburgUTIL 	Utilities 	FM 	Public Works 
+155.70000 	   	WPUQ583 	F	CSQ	LeesburgDATA 	Water Utilities Data 	FM 	Public Works 
+158.97000 	   	WPUQ583 	F	CSQ	LeesburgDATA 	Water Utilities Data 	FM 	Public Works 
+155.37000 	   	KXX368 	BM	CSQ	Intercity 	Police - Intercity 	FM 	Interop 
+151.00250 	153.82250  	WQGU714 	RM		Events/Seapl 	City Events/ Seaplane Base Ops 	FM 	Multi-Talk 
+155.95500 	   	KNAK316 	RM	110.9 PL	PW/Sanitatio 	Public Works/ Sanitation Operations 	FM 	Public Works 
+453.81250 	   	WPRH566 	F		Water Utilit 	Water Utilities Data 	FM 	Public Works 
+151.47500 	159.43500  	KNBL851 	RM	151.4 PL	UmatillaDPW 	Public Works 	FM 	Public Works 
+Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various	Lake County Schools	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various
+Master Communications (Leesburg)	 LTR Standard	 Leesburg	Public Safety Interoperable Communications Network (PSIC)	 Project 25 Phase I	 Various	Rinker Materials (Leesburg)	 LTR Standard	 Leesburg
+Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	Tri-Co Communications (Leesburg)	 LTR Standard	 Leesburg
+Tri-Co Communications (The Villages)	 LTR Standard	 The Villages	TRS Wireless (Clermont)	 LTR Standard	 Clermont	Urban Area Security Initiative (UASI-PEPRO)	 Motorola Type II SmartZone	 Clermont

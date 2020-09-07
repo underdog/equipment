@@ -1,201 +1,201 @@
-151.38500 	WQJK966 	RM	411 DPL	Winnebago Sirens 	Siren Warning System (80 sites, 14 licenses) 	FMN 	Data 
-154.19000 	WSI983 	B	CSQ	Winb*FireSub Bas 	Fire: Dispatch - Suburban (Base only) 	FMN 	Fire Dispatch 
-154.19000 	WSI983 	M	210.7 PL	Winb FireSub Mob 	Fire: Dispatch - Suburban (Mobiles only) 	FMN 	Fire Dispatch 
-154.23500 	WSI983 	B	CSQ	Winb Fire Bas 	Fire: Dispatch -- Blackhawk, New Milford, West Suburban. Rockford, Cherry Valley, Northwest FPD 	FMN 	Fire Dispatch 
-154.23500 	WSI983 	M	210.7 PL	Winb Fire Mob 	Fire: Dispatch -- Mobiles-to-base 	FMN 	Fire Dispatch 
-458.98750 	KD52701 	F		Rockford Fire 	Fire: Rockford Fire (Digital) 	Telm 	Data 
-155.22000 	KA90483 	M	127.3 PL	Metro EMS 	Metro Medical Services [ROCCOM] 	FMN 	EMS Dispatch 
-465.00000 	WQFS761 	B		Winnebago EMS*D 	EMS: Paging (Digital)  	Telm 	Data 
-155.56500 	WQMY879 	RM	156.7 PL	Winb Sheriff F 	Sheriff (See notes) 	FMN 	Law Dispatch 
-453.80000 	WQHS560 	RM		Winb SheriffUHF1 	Sheriff: Operations 	FMN 	Law Tac 
-453.78750 	WQHS560 	RM		Winb SheriffUHF2 	Sheriff: Operations 	FMN 	Law Tac 
-460.15000 	WNMJ347 	RM		Winb SheriffUHF3 	Sheriff: Tac Teams 	FMN 	Law Tac 
-460.30000 	WNMJ347 	RM		Winb SheriffUHF4 	Sheriff: Corrections 	FMN 	Law Tac 
-156.21000 	WNYM597 	M		Winb SheriffJDC 	Juvenile Detention Center 	FMN 	Corrections 
-460.50000 	WNMJ347 	RM	203.5 PL	Winb SheriffJail 	Sheriff: Jail Operations 	FMN 	Corrections 
-151.50500 	WPSJ909 	M		Winb SheriffExp1 	Explorer Program  	FMN 	Law Tac 
-158.40000 	WPSJ909 	M		Winb SheriffExp2 	Explorer Program 	FMN 	Law Tac 
-460.17500 	WQLW857 	M		WinbSheriff Bomb 	Bomb Disposal Robot (Voice/Digital) 	FMN 	Law Tac 
-154.11500 	WPJG808 	M		Winb Courthouse1 	Courthouse Operations 	FMN 	Corrections 
-453.11250 	KD24968 	RM		Winb Courthouse2 	Courthouse Operations  	FMN 	Corrections 
-153.63500 	WQHD423 	B	233.6 PL	Winb CourthouseC 	Courthouse: Non Security Activities (R w/ 158.145 input?) 	FMN 	Public Works 
-151.53500 	WQHD423 	B	074 DPL	Winb CourthouseD 	Courthouse: Non Security Activities (R w/ 158.205 input?)  	FMN 	Public Works 
-857.93750 	WNVW882 	RM		WinbSheriff MDT1 	Sheriff: Mobile Data Terminals 	Telm 	Data 
-859.93750 	WNVW882 	RM		WinbSheriff MDT2 	Sheriff: Mobile Data Terminals 	Telm 	Data 
-155.11500 	KSA380 	RM	156.7 PL	WinbESDA/AC 	ESDA / Animal Control  	FMN 	Emergency Ops 
-47.50000 	KRC799 	BM	CSQ	Winb ESDA 75 	Disaster Operations 	FMN 	Emergency Ops 
-151.01000 	WQEH807 	RM	156.7 PL	Winb Highway 	Highway Department (also many Township Roads) 	FMN 	Public Works 
-151.04000 	WQEH807 	M		Winb HW u2u 	Highway Department: Unit-to-Unit  	FMN 	Public Works 
-155.94000 	 	BM		WinbSnowPlow 	County Snow Plows (reported 12/07) 	FMN 	Public Works 
-464.62500 	WPWP229 	RM	136.5 PL	Winb Maint 1 	County Maintenance Operations 	FMN 	Public Works 
-452.77500 	WPWP229 	RM	703 DPL	Winb Maint 2 	County Maintenance Operations  	FMN 	Public Works 
-151.38500 	WNMU286 	RM	146.2 PL	Winb FrstPrs 	Winnebago County Forest Preserve 	FMN 	Public Works 
-154.37000 	KA90483 	RM	210.7 PL	Winb FPD Disp 	Fire: Dispatch 	FMN 	Fire Dispatch 
-151.36250 	KA90483 	BM		Winb FPD Ops 	Fire: Ops  	FMN 	Fire-Tac 
-159.10500 	WNZM450 	BM		Blkhk Fire L 	Fire: Local Alternate 	FMN 	Fire-Tac 
-158.73000 	WNQI613 	RM	156.7 PL	ChVal Police 	Police: Dispatch [Ch 3] 	FMN 	Law Dispatch 
-154.22000 	WQBS360 	BM		ChryValy FG 	Fire 	FMN 	Fire-Tac 
-155.65500 	WNQC853 	RM		ChValley PW1 	Public Works 	FMN 	Public Works 
-158.77500 	WNQC853 	BM		ChValley PW2 	Public Works 	FMN 	Public Works 
-155.67000 	 	BM	156.7 PL	Durand Police  	Police: Local Alternate [No License] 	FMN 	Law Tac 
-155.89500 	WNXP251 	BM		Durand Sewer 	Sewer / Water 	FMN 	Public Works 
-153.98750 	WQEA492 	BM		Durand Water 	Water Department Operations 	FMN 	Public Works 
-153.98750 	WQEA492 	F		Durand WDD 	Water Distribution Data 	Telm 	Data 
-155.43750 	KSG453 	RM	233.6 PL	H-R Fire R 	Fire: Local  	FMN 	Fire-Tac 
-156.12750 	KSG453 	BM		H-R Fire BM 	Fire: Local 	FMN 	Fire-Tac 
-155.87250 	KSG453 	M		H-R Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-151.89500 	KNJA874 	BM	229.1 PL	LakeSummrset 	Security/Operations [Licensed to Stephenson County] 	FMN 	Security 
-154.43000 	KAP596 	RM	74.4 PL	LvsPark Fire 	Fire: Dispatch (was 77.0?) 	FMN 	Fire Dispatch 
-154.44500 	KSE366 	BM		LPark FD FG 	Fire: Local / Fireground  	FMN 	Fire-Tac 
-155.14500 	WPLD264 	RM		LPark Local 	Water / Maintenance / Public Transportation [Police Ch 14] 	FMN 	Public Works 
-456.15000 	WPVL813 	F		LPark WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
-154.43000 	WQJE299 	RM	233.6 PL	NewMilford Fire  	Fire: Dispatch  	FMN 	Fire Dispatch 
-154.04000 	KJI443 	RM		NPark Water  	North Park Public Water District 	FMN 	Public Works 
-451.08750 	WPUG597 	F		NPark WDD1 	North Park Public Water District: Water Distribution Data 	Telm 	Data 
-451.43750 	WPGX875 	M		NPark WDD2 	North Park Public Water District: Water Distribution Data 	Telm 	Data 
-154.32500 	WNLP281 	RM	226 DPL	NorthPark Fire 	Fire: Dispatch [Rockford) 	FMN 	Fire Dispatch 
-465.58750 	KB90753 	M	CSQ	NPark Fire RF 1 	Fire: Remote Link - Main (154.325 Loves Park) 	FMN 	Fire Dispatch 
-465.62500 	WNPA449 	RM		NPark Fire RF 2 	Fire: Remote Link - Backup (154.325 Machesney) 	FMN 	Fire-Tac 
-458.93750 	WNPA449 	M		NPark Fire RF 3 	Fire: Remote Links  	FMN 	Fire-Tac 
-154.75500 	KYX862 	RM	156.7 PL	Pecat Police 	Police ('Mary' units) (DB: County) 	FMN 	Law Dispatch 
-158.92500 	WNWS292 	M	146.2 PL	Pecat Police Tac 	Police: Tactical 	FMN 	Law Tac 
-155.82000 	WQJS454 	RM	88.5 PL	Pecaton Fire 	Fire: Local  	FMN 	Fire Dispatch 
-154.35500 	 	BM		Pecaton FG 	Fire: Alternate 	FMN 	Fire-Tac 
-154.96500 	WNWS292 	RM		PecatonicaPW 	Public Works  	FMN 	Public Works 
-72.78000 	WPKF669 	F		Pecaton WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
-453.27500 	KSW413 	RM	167.9 PL	Rockford MTD 1 	Rockford Mass Transit District (was 156.7) 	FMN 	Transportation 
-453.32500 	WXL798 	RM	156.7 PL	Rockford MTD 2 	Rockford Mass Transit District 	FMN 	Transportation 
-155.77500 	KDV792 	RM	032 DPL	Rockford W/S B 	Water / Sewer 	FMN 	Public Works 
-155.77500 	KDV792 	RM	411 DPL	Rockford W/S A 	Water / Sewer 	FMN 	Public Works 
-159.15000 	KDV792 	RM		Rockford W/S 1 	Water / Sewer 	FMN 	Public Works 
-155.77500 	KDV792 	RM	94.8 PL	Rockford W/S 2 	Water / Sewer 	FMN 	Public Works 
-153.96500 	KDV792 	M		Rockford W/S 3 	Water / Sewer 	FMN 	Public Works 
-153.92000 	KDV792 	M		Rockford W/S 4 	Water / Sewer 	FMN 	Public Works 
-453.30000 	WNHV626 	RM		Rockford BldngZn 	Public Works: Building / Zoning 	FMN 	Public Works 
-453.81250 	WPAU726 	M		Rockford PW*RF1 	Public Works: Remote Links 	FMN 	Public Works 
-453.91250 	WPAU726 	M		Rockford PW*RF2 	Public Works: Remote Links 	FMN 	Public Works 
-154.98000 	WPJQ678 	B		Rockford PW Data 	Public Works (Base/Pagers-Data) 	FMN 	Public Works 
-151.25000 	KRB474 	RM	141.3 PL	Rockford Parks 1 	Rockford Park District 	FMN 	Public Works 
-151.41500 	KRB474 	BM		Rockford Parks 2 	Rockford Park District 	FMN 	Public Works 
-159.43500 	KRB474 	M		Rockford Parks 3 	Rockford Park District 	FMN 	Public Works 
-453.68750 	WQCF325 	RM		Rockford Parks 4 	Rockford Park District: Police 	FMN 	Law Dispatch 
-158.83500 	KUV552 	RM	146.2 PL	RRWRD Ops 	Rock River Water Reclamation District: Operations (Rockford) 	FMN 	Public Works 
-461.67500 	WQJA499 	BM	464 DPL	MetroEnfrcmnt U 	Metro Enforcement: Dispatch [Canceled 2018] 	FMN 	Security 
-153.20750 	WQUE226 	RM	179.9 PL	MetroEnfrcmnt V 	Metro Enforcement: Car-2-Car (Security at Housing) 	FMN 	Security 
-154.83000 	KNBG360 	M		Rkfd PD tac1 	Police: Tactical 	FMN 	Law Tac 
-155.59500 	KNBG360 	BM		Rkfd PD Loc2 	Police: Local Alternate 	FMN 	Law Tac 
-155.61000 	KNBG360 	M		Rkfd PD tac3 	Police: Tactical 	FMN 	Law Tac 
-156.07500 	KNBG360 	M		Rkfd PD tac4 	Police: Tactical 	FMN 	Law Tac 
-158.86500 	KNBG360 	M		Rkfd PD tac5 	Police: Tactical  	FMN 	Law Tac 
-158.85000 	 	M	156.7 PL	Rkfd Holding 	Police: Holiding Facility [No license] 	FMN 	Corrections 
-155.22000 	KGJ660 	BM	127.3 PL	Rockford ESDA 	ESDA (Fire) 	FMN 	Emergency Ops 
-151.17500 	KBNG360 	B	CSQ	Rkfd Fire Page 	Fire: Dispatch (paging only, simulcast on Starcom21 TG 1726) 	FMN 	Fire Dispatch 
-151.17500 	KNBG360 	RM	074 DPL	Rockford Fire 1 	Fire 1: Primary 	FMN 	Fire Dispatch 
-155.73000 	KNBG361 	RM	073 DPL	Rockford Fire 2 	Fire 2: A  	FMN 	Fire-Tac 
-154.23500 	 	BM	210.7 PL	Rockford Fire 3 	Fire 3 	FMN 	Fire-Tac 
-155.85000 	KNBG360 	B	074 DPL	Rockford FireB 	Fire: B  	FMN 	Fire-Tac 
-155.73000 	KNBG361 	RM	156.7 PL	Rockford FireA 	Fire 	FMN 	Fire-Tac 
-155.85000 	KNBG360 	M	156.7 PL	Rockford FireB 	Fire  	FMN 	Fire-Tac 
-153.89000 	WSI983 	M	156.7 PL	Rockford FireM 	Fire: Mobiles 	FMN 	Fire-Tac 
-460.52500 	WNJL925 	RM	156.7 PL	Rockford FD Stat 	Station Alerting (Multiple Bases, licensed to 911) 	FMN 	Fire Dispatch 
-460.58750 	WNJL926 	M	CSQ	Rockford FD SA 1 	Station Alerting (528 Woodlawn) 	FMN 	Fire Dispatch 
-460.61250 	WNJL926 	M	CSQ	Rockford FD SA 2 	Station Alerting (1520 S Main Str) 	FMN 	Fire Dispatch 
-460.63750 	WNJL926 	M	CSQ	Rockford FD SA 3 	Station Alerting (2959 Shaw Woods) 	FMN 	Fire Dispatch 
-465.58750 	WNJL926 	M		Rockford FD RF 1 	Fire (1528 18th Ave) 	FMN 	Fire-Tac 
-465.61250 	WNJL926 	M		Rockford FD RF 2 	Fire (329 W State) 	FMN 	Fire-Tac 
-465.63750 	WNJL926 	M		Rockford FD RF 3 	Fire (2323 Sawyer Rd) 	FMN 	Fire-Tac 
-462.93750 	KD27397 	M		Rockford FD Tac 	Fire 	FMN 	Fire-Tac 
-155.35500 	WSI983 	BM		Rockford FireEMS 	Fire: Ambulances ? 	FMN 	EMS-Tac 
-154.85250 	WNIM344 	RM	315 DPL	Rockton Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.01000 	WNIM344 	BM		Rockton*Fire 	Fire: Paging/Primary (Old) 	FMN 	Fire-Tac 
-154.20500 	WPTJ340 	BM		Rockton FG 	Fire: Local Alternate 	FMN 	Fire-Tac 
-153.80000 	WPUV849 	BM		Rockton PW 	Public Works (Highway/Village Maintenance) 	FMN 	Public Works 
-453.94375 	WPQA944 	M		Rockton WDD 	Water Digital Data 	Telm 	Data 
-154.96500 	WNSU339 	BM		Roscoe PubWrks  	Public Works (also Pecatonica Public Works) 	FMN 	Public Works 
-153.18500 	WQYU958 	RM	250.3 PL	Roscoe SnowPlows 	Snow Plowing 	FMN 	Public Works 
-155.25000 	WQWX944 	BM	156.7 PL	Rsc/SB/Rk Police 	Police: Dispatch -- Roscoe, South Beloit, Rockton  	FMN 	Law Tac 
-154.14500 	WPWB297 	BM	156.7 PL	S Beloit Fire  	Fire: Dispatch / Ops 	FMN 	Fire Dispatch 
-156.22500 	WPCN652 	BM		S Belolit Street 	Street Department 	FMN 	Public Works 
-154.19000 	 	BM	210.7 PL	W Sub FPD 	West Suburban FPD 	FMN 	Fire-Tac 
-151.19000 	WQQP723 	RM	156.7 PL	WBS Fire Ops 	Fire: Operations (Winnebago) 	FMN 	Fire-Tac 
-154.17500 	KBG285 	M		WBS Fire FG 	Fireground  	FMN 	Fire-Tac 
-151.01000 	KSK311 	BM		HarlemTwp Roads  	Harlem Township Road Maintenance 9also 151.13) 	FMN 	Public Works 
-151.13000 	WNUE368 	BM		ChVal Twp Roads  	Cherry Valley Township Road Maintenance 	FMN 	Public Works 
-151.13000 	WPGA537 	BM		Roscoe Twp Roads 	Roscoe Township Road Maintenance 	FMN 	Public Works 
-156.10500 	KGG615 	BM		Seward Twp Roads 	Seward Township Road Maintenance  	FMN 	Public Works 
-159.19500 	WQAG769 	RM	103.5 PL	Rckfrd Twp Roads 	Rockford Township Road Maintenance 	FMN 	Public Works 
-155.22000 	WNSA631 	BM	127.3 PL	Metro Ambulance 	Metro Ambulance / REACT Helicopter 	FMN 	EMS Dispatch 
-155.22000 	WNJZ948 	BM	127.3 PL	JBHR EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.22000 	 	BM	156.7 PL	LifelineHelo 	Lifeline Helicopter (St Anthonys MC) 	FMN 	EMS Dispatch 
-855.31250 	WPUY889 	RM	503 DPL	JBHR Helicopter 	Emergency Helicopter Crew Dispatch 	FMN 	EMS Dispatch 
-151.86500 	KNNN798 	BM	123.0 PL	Lifeline EMS 	EMS: Dispatch [MEDCOM] 	FMN 	EMS Dispatch 
-153.77000 	WPZB681 	M		Lifeline EMS MX 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
-154.54000 	WQEA813 	BM	131.8 PL	ATS Medical 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.22000 	 	BM	123.0 PL	MERCI2 123.0 	Patient Reports [No License] (Swedeish American Hospital) 	FMN 	Hospital 
-155.34000 	WPRX576 	BM	103.5 PL	MERCI1 103.5 	Patient Reports (JBH Rockton) 	FMN 	Hospital 
-155.34000 	WQUL473 	B	103.5 PL	MERCI1 103.5 	Patient Reports (Swedeish American Hospital) 	FMN 	Hospital 
-155.34000 	WQUL473 	BM	123.0 PL	MERCI1 123.0 	Patient Reports (Swedeish American Hospital) 	FMN 	Hospital 
-155.34000 	WQUL473 	B	127.3 PL	MERCi1 127.3 	Patient Reports (Swedeish American Hospital) 	FMN 	Hospital 
-155.34000 	WPRX576 	BM	127.3 PL	MERCI1 127.3 	Patient Reports (JBH Rockton) 	FMN 	Hospital 
-155.34000 	KSQ921 	BM	156.7 PL	MERCI1 156.7 	Patient Reports (St Anthony's MC Rocfkord) 	FMN 	Hospital 
-463.00000 	WNKT283 	RM	123.0 PL	MED-? 123.0 	Patient Reports (JBH Rockton) 	FMN 	Hospital 
-155.34000 	KSQ921 	BM	123.0 PL	MERCI1 123.0 	Patient Reports (St Anthony's MC Rocfkord) 	FMN 	Hospital 
-155.16000 	WNLQ632 	BM	123.0 PL	MERCI3 123.0 	Patient Reports (St Anthony's MC Rocfkord) 	FMN 	Hospital 
-155.40000 	WNLQ631 	BM	123.0 PL	MERCI4 123.0 	Patient Reports (St Anthony's MC Rocfkord) 	FMN 	Hospital 
-463.00000 	KEQ759 	B	123.0 PL	MED-1 123.0 	Patient Reports (St Anthony's MC Rocfkord) 	FMN 	Hospital 
-151.68500 	WPRB589 	M	043 DPL	Rkfd WMS Op1 	West Middle School: Security/Adminstration (also 154.57, 154.6?) 	FMN 	Schools 
-151.71500 	WPRB589 	M		Rkfd WMS Op2 	West Middle School: Security/Adminstration 	FMN 	Schools 
-152.33000 	WQLF518 	RM	412 DPL	Rkfd MidlSch 	Middle School: Security/Admin 	FMN 	Schools 
-451.75000 	WPNV268 	RM		Rkfd SchBus1 	Buses 	FMN 	Schools 
-452.15000 	WPNV268 	RM		Rkfd SchBus2 	Buses 	FMN 	Schools 
-452.47500 	WPNV268 	RM		Rkfd SchBus3 	Buses 	FMN 	Schools 
-453.62500 	WQHG882 	RM	464 DPL	Rkfd SchBus4 	Transportation  	FMN 	Schools 
-460.32500 	WQHG882 	RM		Rkfd SchBus5 	Transportation  	FMN 	Schools 
-464.25000 	WPNV268 	RM		Rkfd SchBus6 	Buses  	FMN 	Schools 
-464.52500 	KQQ647 	RM		Rkfd SchBus7 	Transportation Department (Guilford High School) 	FMN 	Schools 
-151.55000 	WPSP552 	BM	445 DPL	Rkfd HdStBus 	Head Start Transportation  	FMN 	Schools 
-151.92500 	KTA641 	BM		Rkfd EHS Ops 	Rockford East High School 	FMN 	Schools 
-152.40500 	WQLI518 	RM		REHS Ops 1 	Rockford East High School 	FMN 	Schools 
-160.06500 	WQAW748 	RM	464 DPL	REHS Ops 22 	Rockford East High School 	FMN 	Schools 
-160.18500 	WQLI518 	M		REHS Ops 3 	Rockford East High School 	FMN 	Schools 
-152.46500 	WPYX599 	RM		Rkfd AubrnHS 	Auburn High School 	FMN 	Schools 
-153.15500 	WQDJ420 	RM	503 DPL	Rkfd GulfdHS 	Guilford High School: Security/Maintenance/Admin  	FMN 	Schools 
-153.47000 	WQDM419 	RM	143 DPL	Rkfd JfrsnHS 	Thomas Jefferson High School 	FMN 	Schools 
-462.42500 	WPWN273 	RM		Rkfd Admin 	Admin Building 	FMN 	Schools 
-464.37500 	KB66846 	RM		Rkfd Adm Mnt 	Admin Building: Maintenance 	FMN 	Schools 
-152.91500 	WQXA870 	RM	423 DPL	Rkfd Resa School 	Resa School 	FMN 	Schools 
-462.05000 	WQHM409 	RM	103.5 PL	WSD323 A/Sec 	Admin / Security  	FMN 	Schools 
-47.66000 	WNDB611 	BM		WSD323 Ops 	Operations 	FMN 	Schools 
-461.32500 	WPZV860 	RM	186.2 PL	WSD323 Buses 	Buses / Maintenance (poss. 136.5 bus) 	FMN 	Schools 
-463.23750 	WPEG632 	M		McNair Mid Sch 	Jean McNair Middle School 	FMN 	Schools 
-151.89500 	WNHI674 	BM		Harlem BOE 	Buses? 	FMN 	Schools 
-464.35000 	WQES894 	RM	179.9 PL	Harlem Buses 	Buses (Loves Park) 	FMN 	Schools 
-153.01250 	WQGS437 	RM		Hrlm MS Ops1 	Middle School: Operations (Loves Park) 	FMN 	Schools 
-453.01250 	WQGS437 	RM		Hrlm MS Ops2 	Middle School: Operations (Loves Park) 	FMN 	Schools 
-464.00000 	WQAA661 	RM		Harlem HSSec 	High School: Security (Machesney Park) 	FMN 	Schools 
-461.22500 	WPHY200 	RM		Harlem HSOps 	High School: Operations (Machesney Park) 	FMN 	Schools 
-460.85000 	WPKW736 	RM	179.9 PL	Harlem Maint 	Maintenance (Machesney Park) 	FMN 	Schools 
-152.42000 	WPVU763 	RM		HHSD Ops 1 	Security/Maintenance 	FMN 	Schools 
-154.51500 	WPVU763 	BM		HHSD Ops 2 	Security/Maintenance  	FMN 	Schools 
-151.71500 	WPVU763 	M		HHSD Ops 3 	Security/Maintenance 	FMN 	Schools 
-151.77500 	WPVU763 	M		HHSD Ops 4 	Security/Maintenance 	FMN 	Schools 
-151.71500 	WPEP436 	M		Rcktn Sch 1 	Operations 	FMN 	Schools 
-151.80500 	WPEP436 	M		Rcktn Sch 2 	Operations 	FMN 	Schools 
-151.83500 	WPEP436 	M		Rcktn Sch 3 	Operations (also 154.6?) 	FMN 	Schools 
-155.95500 	KSQ949 	RM	156.7 PL	RVC Police 1 	Police (Mulford Rd)  	FMN 	Law Dispatch 
-156.18000 	KSQ949 	BM		RVC Police 2 	Police (Samuelson Rd) 	FMN 	Law Tac 
-460.77500 	WNPG938 	RM		RVC Maint 1 	Maintenance (w/Phone Patch) 	FMN 	Schools 
-462.87500 	WNPG938 	BM		RVC Maint 2 	Maintenance (w/Phone Patch) 	FMN 	Schools 
-461.60000 	KNGA243 	RM		RkfrdUnivrsityPD 	Police: Dispatch and Campus Maintenance 	FMN 	Law Dispatch 
-159.76500 	WNVZ776 	BM	065 DPL	FS Rktn/Bv 1 	First Student: Rockton/Belvidere [Ch 1] 	FMN 	Schools 
-151.62500 	WQGM603 	M	210.7 PL	FS Rktn/Bv 2 	First Student: Rockton/Belvidere [Ch 2] 	FMN 	Schools 
-460.32500 	WQHG882 	RM	192.8 PL	Rkfd Sch Bus Ch  	Rockford School Buses Ch 5 	FMN 	Schools 
-461.51250 	WQLR654 	RM	051 DPL	ICSBus Rkfrd 	Illinois-Central School Bus (Rockford) 	FMN 	Schools 
-155.32500 	KNJT302 	BM		Durand School 	Durand Community Unit 322 	FMN 	Schools 
-151.74500 	WQNC392 	M		LegacyAcadmy 	Legacy Academy 	FMN 	Schools 
-151.68500 	 	M	85.4 PL	RL Academy 	Regional Learning Academy 	FMN 	Schools 
-151.74500 	WQBI234 	M		ShrlndSchool 	Shirland Consolidated School District 134: Maintenance/Admin 	FMN 	Schools 
- A-Beep / Tri-Star Communications - UHF (NW IL)	 LTR Standard	 Loves Park	Comelec Services (Rockford)	 LTR Standard	 Rockford	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I
- Northern IL	General Communications (Rockford)	 LTR Standard	 Rockford	Rock River Service Company (Rockford)	 LTR Standard	 Rockford	Rock Valley College (Rockford)
- LTR Standard	 Rockford	Rockford MetroCentre (Winnebago)	 LTR Standard	 Rockford	Stateline Communications (Rockford)	 LTR Standard	 Rockford
-TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	United Parcel Service (Rockford)	 Motorola Type II	 Rockford	
+151.38500 	159.40500  	WQJK966 	RM	411 DPL	Winnebago Sirens 	Siren Warning System (80 sites, 14 licenses) 	FMN 	Data 
+154.19000 	   	WSI983 	B	CSQ	Winb*FireSub Bas 	Fire: Dispatch - Suburban (Base only) 	FMN 	Fire Dispatch 
+154.19000 	   	WSI983 	M	210.7 PL	Winb FireSub Mob 	Fire: Dispatch - Suburban (Mobiles only) 	FMN 	Fire Dispatch 
+154.23500 	   	WSI983 	B	CSQ	Winb Fire Bas 	Fire: Dispatch -- Blackhawk, New Milford, West Suburban. Rockford, Cherry Valley, Northwest FPD 	FMN 	Fire Dispatch 
+154.23500 	   	WSI983 	M	210.7 PL	Winb Fire Mob 	Fire: Dispatch -- Mobiles-to-base 	FMN 	Fire Dispatch 
+458.98750 	   	KD52701 	F		Rockford Fire 	Fire: Rockford Fire (Digital) 	Telm 	Data 
+155.22000 	   	KA90483 	M	127.3 PL	Metro EMS 	Metro Medical Services [ROCCOM] 	FMN 	EMS Dispatch 
+465.00000 	   	WQFS761 	B		Winnebago EMS*D 	EMS: Paging (Digital)  	Telm 	Data 
+155.56500 	159.31500  	WQMY879 	RM	156.7 PL	Winb Sheriff F 	Sheriff (See notes) 	FMN 	Law Dispatch 
+453.80000 	458.80000  	WQHS560 	RM		Winb SheriffUHF1 	Sheriff: Operations 	FMN 	Law Tac 
+453.78750 	458.78750  	WQHS560 	RM		Winb SheriffUHF2 	Sheriff: Operations 	FMN 	Law Tac 
+460.15000 	465.15000  	WNMJ347 	RM		Winb SheriffUHF3 	Sheriff: Tac Teams 	FMN 	Law Tac 
+460.30000 	465.30000  	WNMJ347 	RM		Winb SheriffUHF4 	Sheriff: Corrections 	FMN 	Law Tac 
+156.21000 	   	WNYM597 	M		Winb SheriffJDC 	Juvenile Detention Center 	FMN 	Corrections 
+460.50000 	465.50000  	WNMJ347 	RM	203.5 PL	Winb SheriffJail 	Sheriff: Jail Operations 	FMN 	Corrections 
+151.50500 	   	WPSJ909 	M		Winb SheriffExp1 	Explorer Program  	FMN 	Law Tac 
+158.40000 	   	WPSJ909 	M		Winb SheriffExp2 	Explorer Program 	FMN 	Law Tac 
+460.17500 	465.17500  	WQLW857 	M		WinbSheriff Bomb 	Bomb Disposal Robot (Voice/Digital) 	FMN 	Law Tac 
+154.11500 	   	WPJG808 	M		Winb Courthouse1 	Courthouse Operations 	FMN 	Corrections 
+453.11250 	458.11250  	KD24968 	RM		Winb Courthouse2 	Courthouse Operations  	FMN 	Corrections 
+153.63500 	   	WQHD423 	B	233.6 PL	Winb CourthouseC 	Courthouse: Non Security Activities (R w/ 158.145 input?) 	FMN 	Public Works 
+151.53500 	   	WQHD423 	B	074 DPL	Winb CourthouseD 	Courthouse: Non Security Activities (R w/ 158.205 input?)  	FMN 	Public Works 
+857.93750 	812.93750  	WNVW882 	RM		WinbSheriff MDT1 	Sheriff: Mobile Data Terminals 	Telm 	Data 
+859.93750 	814.93750  	WNVW882 	RM		WinbSheriff MDT2 	Sheriff: Mobile Data Terminals 	Telm 	Data 
+155.11500 	153.96500  	KSA380 	RM	156.7 PL	WinbESDA/AC 	ESDA / Animal Control  	FMN 	Emergency Ops 
+47.50000 	   	KRC799 	BM	CSQ	Winb ESDA 75 	Disaster Operations 	FMN 	Emergency Ops 
+151.01000 	158.98500  	WQEH807 	RM	156.7 PL	Winb Highway 	Highway Department (also many Township Roads) 	FMN 	Public Works 
+151.04000 	   	WQEH807 	M		Winb HW u2u 	Highway Department: Unit-to-Unit  	FMN 	Public Works 
+155.94000 	   	 	BM		WinbSnowPlow 	County Snow Plows (reported 12/07) 	FMN 	Public Works 
+464.62500 	469.62500  	WPWP229 	RM	136.5 PL	Winb Maint 1 	County Maintenance Operations 	FMN 	Public Works 
+452.77500 	457.77500  	WPWP229 	RM	703 DPL	Winb Maint 2 	County Maintenance Operations  	FMN 	Public Works 
+151.38500 	159.40500  	WNMU286 	RM	146.2 PL	Winb FrstPrs 	Winnebago County Forest Preserve 	FMN 	Public Works 
+154.37000 	158.75250  	KA90483 	RM	210.7 PL	Winb FPD Disp 	Fire: Dispatch 	FMN 	Fire Dispatch 
+151.36250 	   	KA90483 	BM		Winb FPD Ops 	Fire: Ops  	FMN 	Fire-Tac 
+159.10500 	   	WNZM450 	BM		Blkhk Fire L 	Fire: Local Alternate 	FMN 	Fire-Tac 
+158.73000 	155.53500  	WNQI613 	RM	156.7 PL	ChVal Police 	Police: Dispatch [Ch 3] 	FMN 	Law Dispatch 
+154.22000 	   	WQBS360 	BM		ChryValy FG 	Fire 	FMN 	Fire-Tac 
+155.65500 	154.71000  	WNQC853 	RM		ChValley PW1 	Public Works 	FMN 	Public Works 
+158.77500 	   	WNQC853 	BM		ChValley PW2 	Public Works 	FMN 	Public Works 
+155.67000 	   	 	BM	156.7 PL	Durand Police  	Police: Local Alternate [No License] 	FMN 	Law Tac 
+155.89500 	   	WNXP251 	BM		Durand Sewer 	Sewer / Water 	FMN 	Public Works 
+153.98750 	   	WQEA492 	BM		Durand Water 	Water Department Operations 	FMN 	Public Works 
+153.98750 	   	WQEA492 	F		Durand WDD 	Water Distribution Data 	Telm 	Data 
+155.43750 	158.81250  	KSG453 	RM	233.6 PL	H-R Fire R 	Fire: Local  	FMN 	Fire-Tac 
+156.12750 	   	KSG453 	BM		H-R Fire BM 	Fire: Local 	FMN 	Fire-Tac 
+155.87250 	   	KSG453 	M		H-R Fire MX 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+151.89500 	   	KNJA874 	BM	229.1 PL	LakeSummrset 	Security/Operations [Licensed to Stephenson County] 	FMN 	Security 
+154.43000 	153.95000  	KAP596 	RM	74.4 PL	LvsPark Fire 	Fire: Dispatch (was 77.0?) 	FMN 	Fire Dispatch 
+154.44500 	   	KSE366 	BM		LPark FD FG 	Fire: Local / Fireground  	FMN 	Fire-Tac 
+155.14500 	153.87500  	WPLD264 	RM		LPark Local 	Water / Maintenance / Public Transportation [Police Ch 14] 	FMN 	Public Works 
+456.15000 	   	WPVL813 	F		LPark WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+154.43000 	151.30250  	WQJE299 	RM	233.6 PL	NewMilford Fire  	Fire: Dispatch  	FMN 	Fire Dispatch 
+154.04000 	151.16000  	KJI443 	RM		NPark Water  	North Park Public Water District 	FMN 	Public Works 
+451.08750 	   	WPUG597 	F		NPark WDD1 	North Park Public Water District: Water Distribution Data 	Telm 	Data 
+451.43750 	   	WPGX875 	M		NPark WDD2 	North Park Public Water District: Water Distribution Data 	Telm 	Data 
+154.32500 	156.01500  	WNLP281 	RM	226 DPL	NorthPark Fire 	Fire: Dispatch [Rockford) 	FMN 	Fire Dispatch 
+465.58750 	460.58750  	KB90753 	M	CSQ	NPark Fire RF 1 	Fire: Remote Link - Main (154.325 Loves Park) 	FMN 	Fire Dispatch 
+465.62500 	460.62500  	WNPA449 	RM		NPark Fire RF 2 	Fire: Remote Link - Backup (154.325 Machesney) 	FMN 	Fire-Tac 
+458.93750 	   	WNPA449 	M		NPark Fire RF 3 	Fire: Remote Links  	FMN 	Fire-Tac 
+154.75500 	158.86500  	KYX862 	RM	156.7 PL	Pecat Police 	Police ('Mary' units) (DB: County) 	FMN 	Law Dispatch 
+158.92500 	   	WNWS292 	M	146.2 PL	Pecat Police Tac 	Police: Tactical 	FMN 	Law Tac 
+155.82000 	159.00750  	WQJS454 	RM	88.5 PL	Pecaton Fire 	Fire: Local  	FMN 	Fire Dispatch 
+154.35500 	   	 	BM		Pecaton FG 	Fire: Alternate 	FMN 	Fire-Tac 
+154.96500 	158.92500  	WNWS292 	RM		PecatonicaPW 	Public Works  	FMN 	Public Works 
+72.78000 	   	WPKF669 	F		Pecaton WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+453.27500 	458.27500  	KSW413 	RM	167.9 PL	Rockford MTD 1 	Rockford Mass Transit District (was 156.7) 	FMN 	Transportation 
+453.32500 	458.32500  	WXL798 	RM	156.7 PL	Rockford MTD 2 	Rockford Mass Transit District 	FMN 	Transportation 
+155.77500 	158.94000  	KDV792 	RM	032 DPL	Rockford W/S B 	Water / Sewer 	FMN 	Public Works 
+155.77500 	158.94000  	KDV792 	RM	411 DPL	Rockford W/S A 	Water / Sewer 	FMN 	Public Works 
+159.15000 	153.78500  	KDV792 	RM		Rockford W/S 1 	Water / Sewer 	FMN 	Public Works 
+155.77500 	158.94000  	KDV792 	RM	94.8 PL	Rockford W/S 2 	Water / Sewer 	FMN 	Public Works 
+153.96500 	   	KDV792 	M		Rockford W/S 3 	Water / Sewer 	FMN 	Public Works 
+153.92000 	   	KDV792 	M		Rockford W/S 4 	Water / Sewer 	FMN 	Public Works 
+453.30000 	458.30000  	WNHV626 	RM		Rockford BldngZn 	Public Works: Building / Zoning 	FMN 	Public Works 
+453.81250 	458.81250  	WPAU726 	M		Rockford PW*RF1 	Public Works: Remote Links 	FMN 	Public Works 
+453.91250 	458.91250  	WPAU726 	M		Rockford PW*RF2 	Public Works: Remote Links 	FMN 	Public Works 
+154.98000 	   	WPJQ678 	B		Rockford PW Data 	Public Works (Base/Pagers-Data) 	FMN 	Public Works 
+151.25000 	159.25500  	KRB474 	RM	141.3 PL	Rockford Parks 1 	Rockford Park District 	FMN 	Public Works 
+151.41500 	   	KRB474 	BM		Rockford Parks 2 	Rockford Park District 	FMN 	Public Works 
+159.43500 	   	KRB474 	M		Rockford Parks 3 	Rockford Park District 	FMN 	Public Works 
+453.68750 	458.68750  	WQCF325 	RM		Rockford Parks 4 	Rockford Park District: Police 	FMN 	Law Dispatch 
+158.83500 	153.74000  	KUV552 	RM	146.2 PL	RRWRD Ops 	Rock River Water Reclamation District: Operations (Rockford) 	FMN 	Public Works 
+461.67500 	466.67500  	WQJA499 	BM	464 DPL	MetroEnfrcmnt U 	Metro Enforcement: Dispatch [Canceled 2018] 	FMN 	Security 
+153.20750 	158.43750  	WQUE226 	RM	179.9 PL	MetroEnfrcmnt V 	Metro Enforcement: Car-2-Car (Security at Housing) 	FMN 	Security 
+154.83000 	   	KNBG360 	M		Rkfd PD tac1 	Police: Tactical 	FMN 	Law Tac 
+155.59500 	   	KNBG360 	BM		Rkfd PD Loc2 	Police: Local Alternate 	FMN 	Law Tac 
+155.61000 	   	KNBG360 	M		Rkfd PD tac3 	Police: Tactical 	FMN 	Law Tac 
+156.07500 	   	KNBG360 	M		Rkfd PD tac4 	Police: Tactical 	FMN 	Law Tac 
+158.86500 	   	KNBG360 	M		Rkfd PD tac5 	Police: Tactical  	FMN 	Law Tac 
+158.85000 	   	 	M	156.7 PL	Rkfd Holding 	Police: Holiding Facility [No license] 	FMN 	Corrections 
+155.22000 	   	KGJ660 	BM	127.3 PL	Rockford ESDA 	ESDA (Fire) 	FMN 	Emergency Ops 
+151.17500 	   	KBNG360 	B	CSQ	Rkfd Fire Page 	Fire: Dispatch (paging only, simulcast on Starcom21 TG 1726) 	FMN 	Fire Dispatch 
+151.17500 	155.85000  	KNBG360 	RM	074 DPL	Rockford Fire 1 	Fire 1: Primary 	FMN 	Fire Dispatch 
+155.73000 	158.91000  	KNBG361 	RM	073 DPL	Rockford Fire 2 	Fire 2: A  	FMN 	Fire-Tac 
+154.23500 	   	 	BM	210.7 PL	Rockford Fire 3 	Fire 3 	FMN 	Fire-Tac 
+155.85000 	   	KNBG360 	B	074 DPL	Rockford FireB 	Fire: B  	FMN 	Fire-Tac 
+155.73000 	158.91000  	KNBG361 	RM	156.7 PL	Rockford FireA 	Fire 	FMN 	Fire-Tac 
+155.85000 	   	KNBG360 	M	156.7 PL	Rockford FireB 	Fire  	FMN 	Fire-Tac 
+153.89000 	   	WSI983 	M	156.7 PL	Rockford FireM 	Fire: Mobiles 	FMN 	Fire-Tac 
+460.52500 	465.52500  	WNJL925 	RM	156.7 PL	Rockford FD Stat 	Station Alerting (Multiple Bases, licensed to 911) 	FMN 	Fire Dispatch 
+460.58750 	   	WNJL926 	M	CSQ	Rockford FD SA 1 	Station Alerting (528 Woodlawn) 	FMN 	Fire Dispatch 
+460.61250 	   	WNJL926 	M	CSQ	Rockford FD SA 2 	Station Alerting (1520 S Main Str) 	FMN 	Fire Dispatch 
+460.63750 	   	WNJL926 	M	CSQ	Rockford FD SA 3 	Station Alerting (2959 Shaw Woods) 	FMN 	Fire Dispatch 
+465.58750 	   	WNJL926 	M		Rockford FD RF 1 	Fire (1528 18th Ave) 	FMN 	Fire-Tac 
+465.61250 	   	WNJL926 	M		Rockford FD RF 2 	Fire (329 W State) 	FMN 	Fire-Tac 
+465.63750 	   	WNJL926 	M		Rockford FD RF 3 	Fire (2323 Sawyer Rd) 	FMN 	Fire-Tac 
+462.93750 	467.93750  	KD27397 	M		Rockford FD Tac 	Fire 	FMN 	Fire-Tac 
+155.35500 	   	WSI983 	BM		Rockford FireEMS 	Fire: Ambulances ? 	FMN 	EMS-Tac 
+154.85250 	153.74750  	WNIM344 	RM	315 DPL	Rockton Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.01000 	   	WNIM344 	BM		Rockton*Fire 	Fire: Paging/Primary (Old) 	FMN 	Fire-Tac 
+154.20500 	   	WPTJ340 	BM		Rockton FG 	Fire: Local Alternate 	FMN 	Fire-Tac 
+153.80000 	   	WPUV849 	BM		Rockton PW 	Public Works (Highway/Village Maintenance) 	FMN 	Public Works 
+453.94375 	458.94375  	WPQA944 	M		Rockton WDD 	Water Digital Data 	Telm 	Data 
+154.96500 	   	WNSU339 	BM		Roscoe PubWrks  	Public Works (also Pecatonica Public Works) 	FMN 	Public Works 
+153.18500 	158.41500  	WQYU958 	RM	250.3 PL	Roscoe SnowPlows 	Snow Plowing 	FMN 	Public Works 
+155.25000 	   	WQWX944 	BM	156.7 PL	Rsc/SB/Rk Police 	Police: Dispatch -- Roscoe, South Beloit, Rockton  	FMN 	Law Tac 
+154.14500 	   	WPWB297 	BM	156.7 PL	S Beloit Fire  	Fire: Dispatch / Ops 	FMN 	Fire Dispatch 
+156.22500 	   	WPCN652 	BM		S Belolit Street 	Street Department 	FMN 	Public Works 
+154.19000 	   	 	BM	210.7 PL	W Sub FPD 	West Suburban FPD 	FMN 	Fire-Tac 
+151.19000 	159.04500  	WQQP723 	RM	156.7 PL	WBS Fire Ops 	Fire: Operations (Winnebago) 	FMN 	Fire-Tac 
+154.17500 	   	KBG285 	M		WBS Fire FG 	Fireground  	FMN 	Fire-Tac 
+151.01000 	   	KSK311 	BM		HarlemTwp Roads  	Harlem Township Road Maintenance 9also 151.13) 	FMN 	Public Works 
+151.13000 	   	WNUE368 	BM		ChVal Twp Roads  	Cherry Valley Township Road Maintenance 	FMN 	Public Works 
+151.13000 	   	WPGA537 	BM		Roscoe Twp Roads 	Roscoe Township Road Maintenance 	FMN 	Public Works 
+156.10500 	   	KGG615 	BM		Seward Twp Roads 	Seward Township Road Maintenance  	FMN 	Public Works 
+159.19500 	156.07500  	WQAG769 	RM	103.5 PL	Rckfrd Twp Roads 	Rockford Township Road Maintenance 	FMN 	Public Works 
+155.22000 	   	WNSA631 	BM	127.3 PL	Metro Ambulance 	Metro Ambulance / REACT Helicopter 	FMN 	EMS Dispatch 
+155.22000 	   	WNJZ948 	BM	127.3 PL	JBHR EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.22000 	   	 	BM	156.7 PL	LifelineHelo 	Lifeline Helicopter (St Anthonys MC) 	FMN 	EMS Dispatch 
+855.31250 	810.31250  	WPUY889 	RM	503 DPL	JBHR Helicopter 	Emergency Helicopter Crew Dispatch 	FMN 	EMS Dispatch 
+151.86500 	   	KNNN798 	BM	123.0 PL	Lifeline EMS 	EMS: Dispatch [MEDCOM] 	FMN 	EMS Dispatch 
+153.77000 	   	WPZB681 	M		Lifeline EMS MX 	EMS: Mobile Extenders 	FMN 	EMS-Tac 
+154.54000 	   	WQEA813 	BM	131.8 PL	ATS Medical 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.22000 	   	 	BM	123.0 PL	MERCI2 123.0 	Patient Reports [No License] (Swedeish American Hospital) 	FMN 	Hospital 
+155.34000 	   	WPRX576 	BM	103.5 PL	MERCI1 103.5 	Patient Reports (JBH Rockton) 	FMN 	Hospital 
+155.34000 	   	WQUL473 	B	103.5 PL	MERCI1 103.5 	Patient Reports (Swedeish American Hospital) 	FMN 	Hospital 
+155.34000 	   	WQUL473 	BM	123.0 PL	MERCI1 123.0 	Patient Reports (Swedeish American Hospital) 	FMN 	Hospital 
+155.34000 	   	WQUL473 	B	127.3 PL	MERCi1 127.3 	Patient Reports (Swedeish American Hospital) 	FMN 	Hospital 
+155.34000 	   	WPRX576 	BM	127.3 PL	MERCI1 127.3 	Patient Reports (JBH Rockton) 	FMN 	Hospital 
+155.34000 	   	KSQ921 	BM	156.7 PL	MERCI1 156.7 	Patient Reports (St Anthony's MC Rocfkord) 	FMN 	Hospital 
+463.00000 	468.00000  	WNKT283 	RM	123.0 PL	MED-? 123.0 	Patient Reports (JBH Rockton) 	FMN 	Hospital 
+155.34000 	   	KSQ921 	BM	123.0 PL	MERCI1 123.0 	Patient Reports (St Anthony's MC Rocfkord) 	FMN 	Hospital 
+155.16000 	   	WNLQ632 	BM	123.0 PL	MERCI3 123.0 	Patient Reports (St Anthony's MC Rocfkord) 	FMN 	Hospital 
+155.40000 	   	WNLQ631 	BM	123.0 PL	MERCI4 123.0 	Patient Reports (St Anthony's MC Rocfkord) 	FMN 	Hospital 
+463.00000 	   	KEQ759 	B	123.0 PL	MED-1 123.0 	Patient Reports (St Anthony's MC Rocfkord) 	FMN 	Hospital 
+151.68500 	   	WPRB589 	M	043 DPL	Rkfd WMS Op1 	West Middle School: Security/Adminstration (also 154.57, 154.6?) 	FMN 	Schools 
+151.71500 	   	WPRB589 	M		Rkfd WMS Op2 	West Middle School: Security/Adminstration 	FMN 	Schools 
+152.33000 	157.59000  	WQLF518 	RM	412 DPL	Rkfd MidlSch 	Middle School: Security/Admin 	FMN 	Schools 
+451.75000 	456.75000  	WPNV268 	RM		Rkfd SchBus1 	Buses 	FMN 	Schools 
+452.15000 	457.15000  	WPNV268 	RM		Rkfd SchBus2 	Buses 	FMN 	Schools 
+452.47500 	457.47500  	WPNV268 	RM		Rkfd SchBus3 	Buses 	FMN 	Schools 
+453.62500 	458.62500  	WQHG882 	RM	464 DPL	Rkfd SchBus4 	Transportation  	FMN 	Schools 
+460.32500 	465.32500  	WQHG882 	RM		Rkfd SchBus5 	Transportation  	FMN 	Schools 
+464.25000 	469.25000  	WPNV268 	RM		Rkfd SchBus6 	Buses  	FMN 	Schools 
+464.52500 	469.52500  	KQQ647 	RM		Rkfd SchBus7 	Transportation Department (Guilford High School) 	FMN 	Schools 
+151.55000 	   	WPSP552 	BM	445 DPL	Rkfd HdStBus 	Head Start Transportation  	FMN 	Schools 
+151.92500 	   	KTA641 	BM		Rkfd EHS Ops 	Rockford East High School 	FMN 	Schools 
+152.40500 	157.66500  	WQLI518 	RM		REHS Ops 1 	Rockford East High School 	FMN 	Schools 
+160.06500 	152.97500  	WQAW748 	RM	464 DPL	REHS Ops 22 	Rockford East High School 	FMN 	Schools 
+160.18500 	   	WQLI518 	M		REHS Ops 3 	Rockford East High School 	FMN 	Schools 
+152.46500 	157.72500  	WPYX599 	RM		Rkfd AubrnHS 	Auburn High School 	FMN 	Schools 
+153.15500 	159.88500  	WQDJ420 	RM	503 DPL	Rkfd GulfdHS 	Guilford High School: Security/Maintenance/Admin  	FMN 	Schools 
+153.47000 	158.37000  	WQDM419 	RM	143 DPL	Rkfd JfrsnHS 	Thomas Jefferson High School 	FMN 	Schools 
+462.42500 	467.42500  	WPWN273 	RM		Rkfd Admin 	Admin Building 	FMN 	Schools 
+464.37500 	469.37500  	KB66846 	RM		Rkfd Adm Mnt 	Admin Building: Maintenance 	FMN 	Schools 
+152.91500 	159.58500  	WQXA870 	RM	423 DPL	Rkfd Resa School 	Resa School 	FMN 	Schools 
+462.05000 	467.05000  	WQHM409 	RM	103.5 PL	WSD323 A/Sec 	Admin / Security  	FMN 	Schools 
+47.66000 	   	WNDB611 	BM		WSD323 Ops 	Operations 	FMN 	Schools 
+461.32500 	466.32500  	WPZV860 	RM	186.2 PL	WSD323 Buses 	Buses / Maintenance (poss. 136.5 bus) 	FMN 	Schools 
+463.23750 	   	WPEG632 	M		McNair Mid Sch 	Jean McNair Middle School 	FMN 	Schools 
+151.89500 	   	WNHI674 	BM		Harlem BOE 	Buses? 	FMN 	Schools 
+464.35000 	469.35000  	WQES894 	RM	179.9 PL	Harlem Buses 	Buses (Loves Park) 	FMN 	Schools 
+153.01250 	159.51250  	WQGS437 	RM		Hrlm MS Ops1 	Middle School: Operations (Loves Park) 	FMN 	Schools 
+453.01250 	458.01250  	WQGS437 	RM		Hrlm MS Ops2 	Middle School: Operations (Loves Park) 	FMN 	Schools 
+464.00000 	469.00000  	WQAA661 	RM		Harlem HSSec 	High School: Security (Machesney Park) 	FMN 	Schools 
+461.22500 	466.22500  	WPHY200 	RM		Harlem HSOps 	High School: Operations (Machesney Park) 	FMN 	Schools 
+460.85000 	465.85000  	WPKW736 	RM	179.9 PL	Harlem Maint 	Maintenance (Machesney Park) 	FMN 	Schools 
+152.42000 	157.68000  	WPVU763 	RM		HHSD Ops 1 	Security/Maintenance 	FMN 	Schools 
+154.51500 	   	WPVU763 	BM		HHSD Ops 2 	Security/Maintenance  	FMN 	Schools 
+151.71500 	   	WPVU763 	M		HHSD Ops 3 	Security/Maintenance 	FMN 	Schools 
+151.77500 	   	WPVU763 	M		HHSD Ops 4 	Security/Maintenance 	FMN 	Schools 
+151.71500 	   	WPEP436 	M		Rcktn Sch 1 	Operations 	FMN 	Schools 
+151.80500 	   	WPEP436 	M		Rcktn Sch 2 	Operations 	FMN 	Schools 
+151.83500 	   	WPEP436 	M		Rcktn Sch 3 	Operations (also 154.6?) 	FMN 	Schools 
+155.95500 	159.06000  	KSQ949 	RM	156.7 PL	RVC Police 1 	Police (Mulford Rd)  	FMN 	Law Dispatch 
+156.18000 	   	KSQ949 	BM		RVC Police 2 	Police (Samuelson Rd) 	FMN 	Law Tac 
+460.77500 	465.77500  	WNPG938 	RM		RVC Maint 1 	Maintenance (w/Phone Patch) 	FMN 	Schools 
+462.87500 	   	WNPG938 	BM		RVC Maint 2 	Maintenance (w/Phone Patch) 	FMN 	Schools 
+461.60000 	466.60000  	KNGA243 	RM		RkfrdUnivrsityPD 	Police: Dispatch and Campus Maintenance 	FMN 	Law Dispatch 
+159.76500 	   	WNVZ776 	BM	065 DPL	FS Rktn/Bv 1 	First Student: Rockton/Belvidere [Ch 1] 	FMN 	Schools 
+151.62500 	   	WQGM603 	M	210.7 PL	FS Rktn/Bv 2 	First Student: Rockton/Belvidere [Ch 2] 	FMN 	Schools 
+460.32500 	465.32500  	WQHG882 	RM	192.8 PL	Rkfd Sch Bus Ch  	Rockford School Buses Ch 5 	FMN 	Schools 
+461.51250 	466.51250  	WQLR654 	RM	051 DPL	ICSBus Rkfrd 	Illinois-Central School Bus (Rockford) 	FMN 	Schools 
+155.32500 	   	KNJT302 	BM		Durand School 	Durand Community Unit 322 	FMN 	Schools 
+151.74500 	   	WQNC392 	M		LegacyAcadmy 	Legacy Academy 	FMN 	Schools 
+151.68500 	   	 	M	85.4 PL	RL Academy 	Regional Learning Academy 	FMN 	Schools 
+151.74500 	   	WQBI234 	M		ShrlndSchool 	Shirland Consolidated School District 134: Maintenance/Admin 	FMN 	Schools 
+Comelec Services (Rockford)	 LTR Standard	 Rockford	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+General Communications (Rockford)	 LTR Standard	 Rockford	Rock River Service Company (Rockford)	 LTR Standard	 Rockford	Rock Valley College (Rockford)	 LTR Standard	 Rockford
+Rockford MetroCentre (Winnebago)	 LTR Standard	 Rockford	Stateline Communications (Rockford)	 LTR Standard	 Rockford	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various
+United Parcel Service (Rockford)	 Motorola Type II	 Rockford	

@@ -1,17 +1,17 @@
-155.61750 	WQBC489 	RM	179.9 PL	Warren FD 1 	Fire/Rescue Dispatch 	FM 	Fire Dispatch 
-155.73750 	WQBC489 	RM	179.9 PL	Warren FD 2 	Fire/Rescue Fireground 	FM 	Fire-Tac 
-153.79250 	WQBC489 	BM	CSQ	WarrenFgnd 1 	Fireground 1 	FM 	Fire-Tac 
-153.85250 	WQBC489 	BM	CSQ	WarrenFgnd 2 	Fireground 2 	FM 	Fire-Tac 
-462.95000 	KNCS607 	RM	151.4 PL	EMSWarrenMem 	EMS to Warren Memorial Hospital (Call-1) 	FM 	Hospital 
-155.87250 	WQBC489 	RM	365 NAC	Warren SO Disp 	Sheriff Dispatch 	P25E 	Law Dispatch 
-39.84000 	KIG215 	BM	100.0 PL	Warren SO 	Sheriff (Back-up to TRS) 	FM 	Law Dispatch 
-453.13750 	KB87578 	BM		Warren Jail  	Sheriff Jail 	FM 	Law Talk 
-453.16250 	KB87578 	BM		Warren Court 	Sheriff Courts 	FM 	Law Talk 
-464.10000 	WPFZ688 	RM	88.5 PL	WarrenSchBus 	School Buses 	FM 	Schools 
-151.18250 	WRBZ858 	RM	350 NAC	FRPD Disp 	Police Dispatch 	P25E 	Law Dispatch 
-154.07750 	KNCW666 	RM	CC 9TG *SL *	FrntRoyal PW 	Public Works 	DMR 	Public Works 
-155.82000 	KNCW666 	BM		FrntRoyalDPW 	Public Works 	FM 	Public Works 
-156.19500 	KNCW666 	RM		FrntRoyal PW 	Public Works 	DMR 	Public Works 
-47.42000 	WQEL773 		146.2 PL	RC Warren 	American Red Cross - Warren Base Station 	FM 	Emergency Ops 
-47.50000 	WPLX296 		146.2 PL	RC Liden 	American Red Cross - Linden RPTR 	FM 	Emergency Ops 
-Linden SMR Associates	 LTR Standard	 Linden	
+155.61750 	153.98750  	WQBC489 	RM	179.9 PL	Warren FD 1 	Fire/Rescue Dispatch 	FM 	Fire Dispatch 
+155.73750 	153.88250  	WQBC489 	RM	179.9 PL	Warren FD 2 	Fire/Rescue Fireground 	FM 	Fire-Tac 
+153.79250 	   	WQBC489 	BM	CSQ	WarrenFgnd 1 	Fireground 1 	FM 	Fire-Tac 
+153.85250 	   	WQBC489 	BM	CSQ	WarrenFgnd 2 	Fireground 2 	FM 	Fire-Tac 
+462.95000 	467.95000  	KNCS607 	RM	151.4 PL	EMSWarrenMem 	EMS to Warren Memorial Hospital (Call-1) 	FM 	Hospital 
+155.87250 	   	WQBC489 	RM	365 NAC	Warren SO Disp 	Sheriff Dispatch 	P25E 	Law Dispatch 
+39.84000 	   	KIG215 	BM	100.0 PL	Warren SO 	Sheriff (Back-up to TRS) 	FM 	Law Dispatch 
+453.13750 	   	KB87578 	BM		Warren Jail  	Sheriff Jail 	FM 	Law Talk 
+453.16250 	   	KB87578 	BM		Warren Court 	Sheriff Courts 	FM 	Law Talk 
+464.10000 	469.10000  	WPFZ688 	RM	88.5 PL	WarrenSchBus 	School Buses 	FM 	Schools 
+151.18250 	   	WRBZ858 	RM	350 NAC	FRPD Disp 	Police Dispatch 	P25E 	Law Dispatch 
+154.07750 	   	KNCW666 	RM	CC 9TG *SL *	FrntRoyal PW 	Public Works 	DMR 	Public Works 
+155.82000 	   	KNCW666 	BM		FrntRoyalDPW 	Public Works 	FM 	Public Works 
+156.19500 	   	KNCW666 	RM		FrntRoyal PW 	Public Works 	DMR 	Public Works 
+47.42000 	   	WQEL773 		146.2 PL	RC Warren 	American Red Cross - Warren Base Station 	FM 	Emergency Ops 
+47.50000 	46.04000  	WPLX296 		146.2 PL	RC Liden 	American Red Cross - Linden RPTR 	FM 	Emergency Ops 
+Linden SMR Associates	 LTR Standard	 Linden	Rappahannock Electric Cooperative	 DMR Tier 3	 Various	

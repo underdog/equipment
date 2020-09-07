@@ -1,82 +1,80 @@
-851.35000 	WNNM854 	RM	263 NAC	MEC-TA1-D 	Department of Public Safety - Digital Talkaround 	P25 	Interop 
-851.35000 	WNNM854 	RM	88.5 PL	MEC-TA1-A 	Department of Public Safety - Analog Talkaround (Fall Back) 	FM 	Interop 
-151.58000 	WQKZ337 	M	CSQ	IMPD-EAST 1A TAC 	 East District Tactical 	FMN 	Law Tac 
-151.92500 	WQKZ337 	M		IMPD-EAST 1B TAC 	 East District Tactical 	FMN 	Law Tac 
-152.34500 	WQKZ337 	M		IMPD-EAST 1C TAC 	 East District Tactical 	FMN 	Law Tac 
-151.79000 	WQKF984 	M	91.5 PL	IMPD-EAST 2A TAC 	 East District Tactical 	FMN 	Law Tac 
-160.07250 	WQKF984 	M		IMPD-EAST 2B TAC 	 East District Tactical 	FMN 	Law Tac 
-160.17750 	WQKF984 	M		IMPD-EAST 2C TAC 	 East District Tactical 	FMN 	Law Tac 
-159.69000 	WQLX426 	M	CSQ	IMPD-EAST 3A TAC 	 East District Tactical 	FMN 	Law Tac 
-159.69750 	WQLX426 	M		IMPD-EAST 3B TAC 	 East District Tactical 	FMN 	Law Tac 
-160.14750 	WQNE713 	M		IMPD-RESERVS TAC 	 Reserves Tactical 	FMN 	Law Tac 
-155.00250 	WQJJ524 	BM		DHS SIRENS 	Indianapolis Department of Homeland Security - Outdoor Emergency Warning Siren Activation 	FMN 	Emergency Ops 
-151.14500 	KSA890 	BM	254.1 PL	IDPS PAGING 	IDPS Pagers (DATA ONLY!) 	FMN 	Data 
-154.28000 	WNLW687 	BM	CSQ	FIRE-AID 	Fire Mutual Aid 	FMN 	Interop 
-155.16000 	KOH981 	BM	192.8 PL	IUH LIFELINE 	IU Health LifeLine  VHF Dispatch 	FMN 	EMS Dispatch 
-151.78250 	WQNE532   	RM	91.5 PL	ST VINCENT STAT 	St. Vincent StatFlight/StatGround Dispatch 	FMN 	EMS Dispatch 
-47.42000 	WPTX638 	BM		RED-X-1 	Red Cross - National Common 	FM 	Emergency Ops 
-47.50000 	WPTX638 	BM		RED-X-2 	Red Cross - Indianapolis Operations 	FM 	Emergency Ops 
-156.00000 	KSI795 	BM		BGPD VHF TAC 1 	Beech Grove Police - Tactical 	FMN 	Law Tac 
-453.20000 	WQIU424 	RM		MARION CO HEALTH 	Marion County Health Department  	DMR 	Public Works 
-460.30000 	WPKA547 	RM	156.7 PL	BUTLER PD 	Police (Backup) 	FMN 	Law Dispatch 
-461.42500 	WPGH777 	RM		BUTLER-PAGE 1 	Paging 1 	FMN 	Data 
-463.70000 	WPJJ800 	RM		BUTLER-PAGE 2 	Paging 2 	FMN 	Data 
-464.77500 	KZZ907 	RM		BUTLER-OPS 1 	University Operations 1 	DMR 	Schools 
-464.97500 	KZZ907 	RM		BUTLER-OPS 2 	University Operations 2 	DMR 	Schools 
-463.56250 	WQIB492 	RM	CC 1TG 16776414SL 1	ITCC DTN SEC1 	Downtown Indianapolis Campus Security 	DMR 	Security 
-463.56250 	WQIB492 	RM	CC 1TG 16776415SL 2	ITCC DTN MTC1 	Downtown Indianapolis Campus Maintenance  	DMR 	Schools 
-452.72500 	WQIB492 	RM	CC 1TG 16776414SL 1	ITCC NORTH SEC 	North Indianapolis Campus Security 	DMR 	Security 
-463.56250 	WQIB492 	RM	CC 1TG 65980SL 2	ITCC DTWN OPS1 	Downtown Indianapolis Campus Operations 1 	DMR 	Schools 
-463.56250 	WQIB492 	RM	CC 1TG 65981SL 2	ITCC DNTN OPS2 	Downtown Indianapolis Campus Operations 2 	DMR 	Schools 
-451.18750 	WQIB492 	M		IVYTECH-1 	Campus Operations 	DMR 	Schools 
-451.56250 	WQIB492 	M		IVYTECH-2 	Campus Operations 	DMR 	Schools 
-456.18750 	WQIB492 	M		IVYTECH-3 	Campus Operations 	DMR 	Schools 
-456.36250 	WQIB492 	M		IVYTECH-4 	Campus Operations 	DMR 	Schools 
-456.56250 	WQIB492 	M		IVYTECH-5 	Campus Operations 	DMR 	Schools 
-463.98750 	WQIB492 	M		IVYTECH-6 	Campus Operations 	DMR 	Schools 
-452.46250 	WQTK504 	RM	526 DPL	MARIAN UNIV OPS 	Campus Operations Repeater 	FMN 	Schools 
-464.82500 	WPDW624 	RM	210.7 PL	UI CAMPUS OP 	Campus Operations 	FMN 	Schools 
-453.90000 	WNFL841 	RM	131.8 PL	IPS ADMIN 1 	Campus Administration 1 	FMN 	Schools 
-155.77500 	KWO821 	RM	162.2 PL	IPS BUS OPS 	Buses 	FMN 	Schools 
-453.90000 	WQOV601 	RM	162.2 PL	 Arsenal Tech HS 	 Arsenal Tech High School Operations 	FMN 	Schools 
-453.90000 	WQOV601 	RM	146.2 PL	Crispus Attck HS 	Crispus Attucks High School Operations 	FMN 	Schools 
-453.90000 	KSL492 	RM	179.9 PL	Grge Wash HS 	George Washington High School 	FMN 	Schools 
-462.06250 	WNNB226 	RM	114.8 PL	BGS OPS 1 	School Operations 	FMN 	Schools 
-462.06250 	WNNB226 	RM	146.2 PL	BGS OPS 2 	School Operations 	FMN 	Schools 
-462.06250 	WNNB226 	RM	151.4 PL	BGS OPS 3 	School Operations 	FMN 	Schools 
-462.06250 	WNNB226 	RM	179.9 PL	BGS OPS 4 	School Operations 	FMN 	Schools 
-464.97500 	WNNB226 	RM	127.3 PL	BGS OPS 5 	School Operations 	FMN 	Schools 
-464.97500 	WNNB226 	RM	136.5 PL	BGS Buses 	BG School Buses 	FMN 	Schools 
-464.97500 	WNNB226 	RM	218.1 PL	BGS OPS 7 	School Operations 	FMN 	Schools 
-464.16250 	WNNB226 	RM		BGS OPS 8 	School Operations 	FMN 	Schools 
-463.62500 	 	RM		Decatur HS 	Decatur Township High School Operations 	FMN 	Schools 
-464.37500 	KNDJ537 	RM	136.5 PL	Decatur Bus 	Decatur Township School Bus Operations 	FMN 	Schools 
-464.57500 	KNAE300 	RM	115 DPL	MSD LWRNCE BUS 	MSD Lawrence School Bus (Transportation) 	FMN 	Schools 
-452.17500 	WQCF976 	RM		SOUTHPORT 6TH 	Southport 6th Grade Academy 	DMR 	Schools 
-462.30000 	WQGS397 	RM		GREY KG 	Jeremiah Grey Kindergarten 	DMR 	Schools 
-462.61250 	WQGS397 	RM		PERRY MERIDIAN M 	Perry Meridian Middle School 	DMR 	Schools 
-464.46250 	WQGS397 	RM		PERRY MERIDIAN 6 	Perry Meridian 6th Grade Academy 	DMR 	Schools 
-464.52500 	WPJJ700 	RM		SOUTHPORT MS 	Southport Middle School 	DMR 	Schools 
-464.57500 	WPGR592 	RM		SOUTHPORT HS 	Southport High School 	DMR 	Schools 
-464.87500 	WNAQ834 	RM	88.5 PL	MSD-PIKE OPS1 	Operations 1 	FMN 	Schools 
-462.06250 	WNAQ834 	RM		MSD-PIKE OPS2 	Operations 2 	FMN 	Schools 
-464.42500 	WNAQ834 	RM		MSD-PIKE OPS3 	Operations 3 	FMN 	Schools 
-461.65000 	KLI350 	RM	100.0 PL	MSDWT N CTRL HS 	North Central HS - School Operations 	FMN 	Schools 
-462.00000 	KLI350 	RM		MSDWT OPS 	Operations 	FMN 	Schools 
-463.97500 	KLI350 	RM	031 DPL	MSDWT-BUS OPS 	Bus Operations 	FMN 	Schools 
-451.95000 	WRCW661  	RM	CC 10TG 42901SL 1	Ben Davis 	Ben Davis 9th Grade Center 	DMR 	Schools 
-452.73750 	WQDR970 	RM	723 DPL	Chapel Hill 	Chapel Hill 7th and 8th Grade Center 	FMN 	Schools 
-464.10000 	WQBU455 	RM	051 DPL	Lynhurst 	Lynhurst 7th and 8th Grade Center 	FMN 	Schools 
-453.18750 	WQIS934 	RM	103.5 PL	IMCPL-PRIMARY 	Security (Securitas)/Operations Main 	FMN 	Multi-Dispatch 
-465.13750 	WQIS934 	M		IMCPL-HT1 	Staff/Maintenance HT's 1 	FMN 	Public Works 
-465.32500 	WQIS934 	M		IMCPL-HT2 	Staff/Maintenance HT's 2 	FMN 	Public Works 
-ADM Milling Cpmpany	 DMR Motorola Capacity Plus Single Site (TRBO)	 Beech Grove	Cardinal Wireless LTR	 LTR Standard	 Multiple	Cardinal Wireless NEXEDGE	 NXDN NEXEDGE 9600
- Indianapolis	Dow Chemical Indianapolis	 Motorola Type II	 Indianapolis	Eli Lilly	 DMR Motorola Connect Plus (TRBO)	 Various	ERS-OCI Wireless TRBOconnect (Indianapolis Cap+)
- DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Federal Express - Indianapolis	 DMR Motorola Connect Plus (TRBO)	 Indianapolis
-Franklin Township Community School Corporation	 DMR Conventional Networked	 Various	Indiana BrandMeister DMR Netowrk	 DMR Conventional Networked	 Indianapolis	Indiana Convention Center and Lucas Oil Stadium (ICCLOS)	 DMR Motorola Capacity Plus Single Site (TRBO)
- Indianapolis	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	Indiana University - Purdue University at Indianapolis 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis	Indiana University Health - LTR
- LTR Standard	 Multiple	Indianapolis Airport Authority (SMR)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis	Indianapolis Airport Authority (TRBO)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis
-Indianapolis Department Of Public Safety	 Project 25 Phase I	 Indianapolis	Ingredion (Formerly National Starch)	 LTR Standard	 Indianapolis	J and K Communications	 LTR Standard
- Multiple	J and K Communications (Diga Talk Indianapolis)	 NXDN NEXEDGE 4800	 Indianapolis	J E S and Sons	 LTR Standard	 Indianapolis	Metropolitan School District of Warren Township
- DMR Motorola Connect Plus (TRBO)	 Indianapolis	Perry Township Metropolitan School District (TRBO)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis	SVC Manufacturing (PepsiCo)	 NXDN NEXEDGE 9600	 Indianapolis
-Target Distribution Center 559	 LTR Standard	 Indianapolis	
+851.35000 	806.35000  	WNNM854 	RM	263 NAC	MEC-TA1-D 	Department of Public Safety - Digital Talkaround 	P25 	Interop 
+851.35000 	806.35000  	WNNM854 	RM	88.5 PL	MEC-TA1-A 	Department of Public Safety - Analog Talkaround (Fall Back) 	FM 	Interop 
+151.58000 	   	WQKZ337 	M	CSQ	IMPD-EAST 1A TAC 	 East District Tactical 	FMN 	Law Tac 
+151.92500 	   	WQKZ337 	M		IMPD-EAST 1B TAC 	 East District Tactical 	FMN 	Law Tac 
+152.34500 	   	WQKZ337 	M		IMPD-EAST 1C TAC 	 East District Tactical 	FMN 	Law Tac 
+151.79000 	   	WQKF984 	M	91.5 PL	IMPD-EAST 2A TAC 	 East District Tactical 	FMN 	Law Tac 
+160.07250 	   	WQKF984 	M		IMPD-EAST 2B TAC 	 East District Tactical 	FMN 	Law Tac 
+160.17750 	   	WQKF984 	M		IMPD-EAST 2C TAC 	 East District Tactical 	FMN 	Law Tac 
+159.69000 	   	WQLX426 	M	CSQ	IMPD-EAST 3A TAC 	 East District Tactical 	FMN 	Law Tac 
+159.69750 	   	WQLX426 	M		IMPD-EAST 3B TAC 	 East District Tactical 	FMN 	Law Tac 
+160.14750 	   	WQNE713 	M		IMPD-RESERVS TAC 	 Reserves Tactical 	FMN 	Law Tac 
+155.00250 	   	WQJJ524 	BM		DHS SIRENS 	Indianapolis Department of Homeland Security - Outdoor Emergency Warning Siren Activation 	FMN 	Emergency Ops 
+151.14500 	   	KSA890 	BM	254.1 PL	IDPS PAGING 	IDPS Pagers (DATA ONLY!) 	FMN 	Data 
+154.28000 	   	WNLW687 	BM	CSQ	FIRE-AID 	Fire Mutual Aid 	FMN 	Interop 
+155.16000 	   	KOH981 	BM	192.8 PL	IUH LIFELINE 	IU Health LifeLine  VHF Dispatch 	FMN 	EMS Dispatch 
+151.78250 	158.16750  	WQNE532   	RM	91.5 PL	ST VINCENT STAT 	St. Vincent StatFlight/StatGround Dispatch 	FMN 	EMS Dispatch 
+47.42000 	   	WPTX638 	BM		RED-X-1 	Red Cross - National Common 	FM 	Emergency Ops 
+47.50000 	   	WPTX638 	BM		RED-X-2 	Red Cross - Indianapolis Operations 	FM 	Emergency Ops 
+156.00000 	   	KSI795 	BM		BGPD VHF TAC 1 	Beech Grove Police - Tactical 	FMN 	Law Tac 
+453.20000 	458.20000  	WQIU424 	RM		MARION CO HEALTH 	Marion County Health Department  	DMR 	Public Works 
+460.30000 	465.30000  	WPKA547 	RM	156.7 PL	BUTLER PD 	Police (Backup) 	FMN 	Law Dispatch 
+461.42500 	466.42500  	WPGH777 	RM		BUTLER-PAGE 1 	Paging 1 	FMN 	Data 
+463.70000 	468.70000  	WPJJ800 	RM		BUTLER-PAGE 2 	Paging 2 	FMN 	Data 
+464.77500 	469.77500  	KZZ907 	RM		BUTLER-OPS 1 	University Operations 1 	DMR 	Schools 
+464.97500 	469.97500  	KZZ907 	RM		BUTLER-OPS 2 	University Operations 2 	DMR 	Schools 
+463.56250 	468.56250  	WQIB492 	RM	CC 1TG 16776414SL 1	ITCC DTN SEC1 	Downtown Indianapolis Campus Security 	DMR 	Security 
+463.56250 	468.56250  	WQIB492 	RM	CC 1TG 16776415SL 2	ITCC DTN MTC1 	Downtown Indianapolis Campus Maintenance  	DMR 	Schools 
+452.72500 	457.72500  	WQIB492 	RM	CC 1TG 16776414SL 1	ITCC NORTH SEC 	North Indianapolis Campus Security 	DMR 	Security 
+463.56250 	468.56250  	WQIB492 	RM	CC 1TG 65980SL 2	ITCC DTWN OPS1 	Downtown Indianapolis Campus Operations 1 	DMR 	Schools 
+463.56250 	468.56250  	WQIB492 	RM	CC 1TG 65981SL 2	ITCC DNTN OPS2 	Downtown Indianapolis Campus Operations 2 	DMR 	Schools 
+451.18750 	   	WQIB492 	M		IVYTECH-1 	Campus Operations 	DMR 	Schools 
+451.56250 	   	WQIB492 	M		IVYTECH-2 	Campus Operations 	DMR 	Schools 
+456.18750 	   	WQIB492 	M		IVYTECH-3 	Campus Operations 	DMR 	Schools 
+456.36250 	   	WQIB492 	M		IVYTECH-4 	Campus Operations 	DMR 	Schools 
+456.56250 	   	WQIB492 	M		IVYTECH-5 	Campus Operations 	DMR 	Schools 
+463.98750 	   	WQIB492 	M		IVYTECH-6 	Campus Operations 	DMR 	Schools 
+452.46250 	457.46250  	WQTK504 	RM	526 DPL	MARIAN UNIV OPS 	Campus Operations Repeater 	FMN 	Schools 
+464.82500 	469.82500  	WPDW624 	RM	210.7 PL	UI CAMPUS OP 	Campus Operations 	FMN 	Schools 
+453.90000 	458.90000  	WNFL841 	RM	131.8 PL	IPS ADMIN 1 	Campus Administration 1 	FMN 	Schools 
+155.77500 	158.88000  	KWO821 	RM	162.2 PL	IPS BUS OPS 	Buses 	FMN 	Schools 
+453.90000 	458.90000  	WQOV601 	RM	162.2 PL	 Arsenal Tech HS 	 Arsenal Tech High School Operations 	FMN 	Schools 
+453.90000 	458.90000  	WQOV601 	RM	146.2 PL	Crispus Attck HS 	Crispus Attucks High School Operations 	FMN 	Schools 
+453.90000 	458.90000  	KSL492 	RM	179.9 PL	Grge Wash HS 	George Washington High School 	FMN 	Schools 
+462.06250 	467.06250  	WNNB226 	RM	114.8 PL	BGS OPS 1 	School Operations 	FMN 	Schools 
+462.06250 	467.06250  	WNNB226 	RM	146.2 PL	BGS OPS 2 	School Operations 	FMN 	Schools 
+462.06250 	467.06250  	WNNB226 	RM	151.4 PL	BGS OPS 3 	School Operations 	FMN 	Schools 
+462.06250 	467.06250  	WNNB226 	RM	179.9 PL	BGS OPS 4 	School Operations 	FMN 	Schools 
+464.97500 	469.97500  	WNNB226 	RM	127.3 PL	BGS OPS 5 	School Operations 	FMN 	Schools 
+464.97500 	469.97500  	WNNB226 	RM	136.5 PL	BGS Buses 	BG School Buses 	FMN 	Schools 
+464.97500 	469.97500  	WNNB226 	RM	218.1 PL	BGS OPS 7 	School Operations 	FMN 	Schools 
+464.16250 	469.16250  	WNNB226 	RM		BGS OPS 8 	School Operations 	FMN 	Schools 
+463.62500 	468.62500  	 	RM		Decatur HS 	Decatur Township High School Operations 	FMN 	Schools 
+464.37500 	469.37500  	KNDJ537 	RM	136.5 PL	Decatur Bus 	Decatur Township School Bus Operations 	FMN 	Schools 
+464.57500 	469.57500  	KNAE300 	RM	115 DPL	MSD LWRNCE BUS 	MSD Lawrence School Bus (Transportation) 	FMN 	Schools 
+452.17500 	   	WQCF976 	RM		SOUTHPORT 6TH 	Southport 6th Grade Academy 	DMR 	Schools 
+462.30000 	   	WQGS397 	RM		GREY KG 	Jeremiah Grey Kindergarten 	DMR 	Schools 
+462.61250 	   	WQGS397 	RM		PERRY MERIDIAN M 	Perry Meridian Middle School 	DMR 	Schools 
+464.46250 	   	WQGS397 	RM		PERRY MERIDIAN 6 	Perry Meridian 6th Grade Academy 	DMR 	Schools 
+464.52500 	   	WPJJ700 	RM		SOUTHPORT MS 	Southport Middle School 	DMR 	Schools 
+464.57500 	   	WPGR592 	RM		SOUTHPORT HS 	Southport High School 	DMR 	Schools 
+464.87500 	469.87500  	WNAQ834 	RM	88.5 PL	MSD-PIKE OPS1 	Operations 1 	FMN 	Schools 
+462.06250 	467.06250  	WNAQ834 	RM		MSD-PIKE OPS2 	Operations 2 	FMN 	Schools 
+464.42500 	469.42500  	WNAQ834 	RM		MSD-PIKE OPS3 	Operations 3 	FMN 	Schools 
+461.65000 	466.65000  	KLI350 	RM	100.0 PL	MSDWT N CTRL HS 	North Central HS - School Operations 	FMN 	Schools 
+462.00000 	464.00000  	KLI350 	RM		MSDWT OPS 	Operations 	FMN 	Schools 
+463.97500 	468.97500  	KLI350 	RM	031 DPL	MSDWT-BUS OPS 	Bus Operations 	FMN 	Schools 
+451.95000 	456.95000  	WRCW661  	RM	CC 10TG 42901SL 1	Ben Davis 	Ben Davis 9th Grade Center 	DMR 	Schools 
+452.73750 	457.73750  	WQDR970 	RM	723 DPL	Chapel Hill 	Chapel Hill 7th and 8th Grade Center 	FMN 	Schools 
+464.10000 	469.10000  	WQBU455 	RM	051 DPL	Lynhurst 	Lynhurst 7th and 8th Grade Center 	FMN 	Schools 
+453.18750 	458.18750  	WQIS934 	RM	103.5 PL	IMCPL-PRIMARY 	Security (Securitas)/Operations Main 	FMN 	Multi-Dispatch 
+465.13750 	   	WQIS934 	M		IMCPL-HT1 	Staff/Maintenance HT's 1 	FMN 	Public Works 
+465.32500 	   	WQIS934 	M		IMCPL-HT2 	Staff/Maintenance HT's 2 	FMN 	Public Works 
+ADM Milling Cpmpany	 DMR Motorola Capacity Plus Single Site (TRBO)	 Beech Grove	Cardinal Wireless LTR	 LTR Standard	 Multiple	Cardinal Wireless NEXEDGE	 NXDN NEXEDGE 9600	 Indianapolis
+Dow Chemical Indianapolis	 Motorola Type II	 Indianapolis	Eli Lilly	 DMR Motorola Connect Plus (TRBO)	 Various	ERS-OCI Wireless TRBOconnect (Indianapolis Cap+)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis
+ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Federal Express - Indianapolis	 DMR Motorola Connect Plus (TRBO)	 Indianapolis	Franklin Township Community School Corporation	 DMR Conventional Networked	 Various
+Indiana BrandMeister DMR Netowrk	 DMR Conventional Networked	 Indianapolis	Indiana Convention Center and Lucas Oil Stadium (ICCLOS)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis	Indiana University - Purdue University at Indianapolis 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis
+Indiana University Health - LTR	 LTR Standard	 Multiple	Indianapolis Airport Authority (SMR)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis	Indianapolis Airport Authority (TRBO)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis
+Indianapolis Department Of Public Safety	 Project 25 Phase I	 Indianapolis	Ingredion (Formerly National Starch)	 LTR Standard	 Indianapolis	J and K Communications	 LTR Standard	 Multiple
+J and K Communications (Diga Talk Indianapolis)	 NXDN NEXEDGE 4800	 Indianapolis	J E S and Sons	 LTR Standard	 Indianapolis	Metropolitan School District of Warren Township	 DMR Motorola Connect Plus (TRBO)	 Indianapolis
+Perry Township Metropolitan School District (TRBO)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Indianapolis	SVC Manufacturing (PepsiCo)	 NXDN NEXEDGE 9600	 Indianapolis	Target Distribution Center 559	 LTR Standard	 Indianapolis

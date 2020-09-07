@@ -1,41 +1,41 @@
-453.60000 	WPYD206 	RM	100.0 PL	MetDevHsngAu 	Metropolitan Development and Housing Authority 	FMN 	Public Works 
-451.25000 	KLN457 	RM	023 DPL	NashvlWater 	Sewer and Water 	FMN 	Public Works 
-453.32500 	KNBU683 	RM	162.2 PL	MTA Bus Ops 	Metropolitan Transit Authority - Bus Operations 	FMN 	Transportation 
-453.70000 	KNBU683 	RM	162.2 PL	MTA Bus Supv 	Metropolitan Transit Authority - Buses & Supervisors 	FMN 	Transportation 
-451.22500 	KLN457 	RM		NashvlData 	Utility Data Telemetry 	Telm 	Data 
-453.87500 	WNBL380 	BM		NashvlData 	Utility Data Telemetry 	Telm 	Data 
-151.04000 	WNJQ706 	RM	107.2 PL	GoodletsvlPW 	Public Works 	FM 	Public Works 
-154.75500 	KIA231  	RM	100.0 PL	VTNMA 	Statewide Mutual Aid VHF 	FMN 	Interop 
-460.40000 	KIA231 	RM	127.3 PL	UTNMA 	Statewide Mutual Aid UHF 	FMN 	Interop 
-854.18750 	WQNH993 	RM		TN 800 MA 	State Conventional 800 MHz Mutual Aid 	P25 	Interop 
-154.81500 	KIA231 	RM		N/DC MA 	Nashville/Davidson County Mutual Aid 	FMN 	Interop 
-855.23750 	 	WPQK611  	RM	565 DPL	OSSRP 	On Site Short Range Repeater 	FM 	Interop 
-464.42500 	KIQ537 	RM	107.2 PL	CMC Ops 1 	Centennial Medical Center - Ops 1 	FMN 	Business 
-462.15000 	KIQ537 	RM	CC 7TG 1SL 1	CMC Security 	Centennial Medical Center - Security 	DMR 	Hospital 
-464.37500 	KIQ537 	RM	162.2 PL	CMC Ops 3 	Centennial Medical Center - Ops 3 	FMN 	Business 
-462.85000 	KIQ537 	RM		CMC Paging 	Centennial Medical Center - Paging (Digital) 	Telm 	Hospital 
-463.00000 	WNWN641 	RM	85.4 PL	NashMedNet1 	Nashville Medical Net (Med 1) - Baptist ER 	FMN 	Hospital 
-463.02500 	WNWN641 	RM	85.4 PL	NashMedNet2 	Nashville Medical Net (Med 2) - Vanderbilt ER 	FMN 	Hospital 
-463.05000 	WNWN641 	RM	85.4 PL	NashMedNet3 	Nashville Medical Net (Med 3) - St. Thomas ER 	FMN 	Hospital 
-463.07500 	WNWN641 	RM	85.4 PL	NashMedNet4 	Nashville Medical Net (Med 4) 	FMN 	Hospital 
-463.10000 	WNWN641 	RM	85.4 PL	NashMedNet5 	Nashville Medical Net (Med 5) - Centennial ER 	FMN 	Hospital 
-463.12500 	WNWN641 	RM	85.4 PL	NashMedNet6 	Nashville Medical Net (Med 6) - Tennessee Christian ER 	FMN 	Hospital 
-463.15000 	WNWN641 	RM	85.4 PL	NashMedNet7 	Nashville Medical Net (Med 7) - Skyline ER 	FMN 	Hospital 
-463.17500 	WNWN641 	RM	85.4 PL	NashMedNet8 	Nashville Medical Net (Med 8) 	FMN 	Hospital 
-462.95000 	WNWN641 	RM	85.4 PL	NashMedNet9 	Nashville Medical Net (Med 9) 	FMN 	Hospital 
-462.97500 	WNWN641 	RM	85.4 PL	NashMedNet10 	Nashville Medical Net (Med 10) 	FMN 	Hospital 
-158.82000 	WQZT887 	RM	CC 2TG 16770000SL 1	MEDLINK ALS 	Jackson - Madison County General Hospital Medlink EMS at Vanderbuilt ALS Dispatch 	DMRE 	EMS Dispatch 
-158.82000 	WQZT887 	RM	CC 2TG 16770001SL 2	MEDLINK BLS 	Jackson - Madison County General Hospital Medlink EMS at Vanderbuilt BLS Dispatch 	DMRE 	EMS Dispatch 
-155.34000 	WNWN641 	BM	CSQ	Med 340 	Statewide HEAR Primary 	FMN 	Hospital 
-155.20500 	WNWN641 	BM	CSQ	Med 205 	Statewide HEAR Secondary 	FMN 	Hospital 
-464.32500 	WPGI469 	RM	1 RAN	LU-OPS 	Univesity Operations/Security (6.25 KHz Spacing Full Time Encryption) 	NXDNE 	Schools 
-461.87500 	WQKA412 	RM	CC 1TG 1SL 1	Fisk U 	Operations 	DMR 	Schools 
-854.96250 	WPQH560 	RM	134 DPL	P303 TSU 	Campus Police  	FM 	Law Dispatch 
-464.82500 	WNKR342 	RM	CC 10TG 65800SL *	Trevecca 1 	Channel 1 	DMR 	Schools 
-469.82500 	WNKR342 	M	CC 10TG 75900SL *	Trevecca 2 	Channel 2 	DMR 	Schools 
-Carlex Glass	 DMR Motorola Capacity Plus Single Site (TRBO)	 Nashville	Communications Group (Commtech)	 LTR Standard	 Nashville	EI Dupont De Nemours (Old Hickory)	 Motorola Type II Smartnet
- Old Hickory	Metropolitan Government Of Nashville and Davidson County  (Motorola)	 Motorola Type II SmartZone	 Nashville	Mid Tennessee Mobile Corporation	 Motorola Type I	 Nashville	Middle Tennessee Two-Way
- LTR Standard	 Nashville	NashComm	 DMR Motorola Capacity Plus Single Site (TRBO)	 Nashville	Nashville International Airport	 Project 25 Phase II	 Nashville
-Nissan Stadium	 NXDN NEXEDGE 9600	 Nashville	Omni Hotel Nashville	 DMR Motorola Capacity Plus Single Site (TRBO)	 Nashville	Renaissance Nashville Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)
- Nashville	Team Air Express	 LTR Standard	 Nashville	Telecom Network (Nashville)	 LTR Standard	 Nashville	Tennessee Advanced Communications Network (TACN)
- Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	Vanderbilt University (Project 25)	 Project 25 Phase II	 Nashville
+453.60000 	458.60000  	WPYD206 	RM	100.0 PL	MetDevHsngAu 	Metropolitan Development and Housing Authority 	FMN 	Public Works 
+451.25000 	456.25000  	KLN457 	RM	023 DPL	NashvlWater 	Sewer and Water 	FMN 	Public Works 
+453.32500 	458.32500  	KNBU683 	RM	162.2 PL	MTA Bus Ops 	Metropolitan Transit Authority - Bus Operations 	FMN 	Transportation 
+453.70000 	458.70000  	KNBU683 	RM	162.2 PL	MTA Bus Supv 	Metropolitan Transit Authority - Buses & Supervisors 	FMN 	Transportation 
+451.22500 	456.22500  	KLN457 	RM		NashvlData 	Utility Data Telemetry 	Telm 	Data 
+453.87500 	458.87500  	WNBL380 	BM		NashvlData 	Utility Data Telemetry 	Telm 	Data 
+151.04000 	156.13500  	WNJQ706 	RM	107.2 PL	GoodletsvlPW 	Public Works 	FM 	Public Works 
+154.75500 	   	KIA231  	RM	100.0 PL	VTNMA 	Statewide Mutual Aid VHF 	FMN 	Interop 
+460.40000 	465.40000  	KIA231 	RM	127.3 PL	UTNMA 	Statewide Mutual Aid UHF 	FMN 	Interop 
+854.18750 	809.18750  	WQNH993 	RM		TN 800 MA 	State Conventional 800 MHz Mutual Aid 	P25 	Interop 
+154.81500 	   	KIA231 	RM		N/DC MA 	Nashville/Davidson County Mutual Aid 	FMN 	Interop 
+855.23750 	810.23750  	 	WPQK611  	RM	565 DPL	OSSRP 	On Site Short Range Repeater 	FM 	Interop 
+464.42500 	469.42500  	KIQ537 	RM	107.2 PL	CMC Ops 1 	Centennial Medical Center - Ops 1 	FMN 	Business 
+462.15000 	467.15000  	KIQ537 	RM	CC 7TG 1SL 1	CMC Security 	Centennial Medical Center - Security 	DMR 	Hospital 
+464.37500 	469.37500  	KIQ537 	RM	162.2 PL	CMC Ops 3 	Centennial Medical Center - Ops 3 	FMN 	Business 
+462.85000 	467.85000  	KIQ537 	RM		CMC Paging 	Centennial Medical Center - Paging (Digital) 	Telm 	Hospital 
+463.00000 	468.00000  	WNWN641 	RM	85.4 PL	NashMedNet1 	Nashville Medical Net (Med 1) - Baptist ER 	FMN 	Hospital 
+463.02500 	468.02500  	WNWN641 	RM	85.4 PL	NashMedNet2 	Nashville Medical Net (Med 2) - Vanderbilt ER 	FMN 	Hospital 
+463.05000 	468.05000  	WNWN641 	RM	85.4 PL	NashMedNet3 	Nashville Medical Net (Med 3) - St. Thomas ER 	FMN 	Hospital 
+463.07500 	468.07500  	WNWN641 	RM	85.4 PL	NashMedNet4 	Nashville Medical Net (Med 4) 	FMN 	Hospital 
+463.10000 	468.10000  	WNWN641 	RM	85.4 PL	NashMedNet5 	Nashville Medical Net (Med 5) - Centennial ER 	FMN 	Hospital 
+463.12500 	468.12500  	WNWN641 	RM	85.4 PL	NashMedNet6 	Nashville Medical Net (Med 6) - Tennessee Christian ER 	FMN 	Hospital 
+463.15000 	468.15000  	WNWN641 	RM	85.4 PL	NashMedNet7 	Nashville Medical Net (Med 7) - Skyline ER 	FMN 	Hospital 
+463.17500 	468.17500  	WNWN641 	RM	85.4 PL	NashMedNet8 	Nashville Medical Net (Med 8) 	FMN 	Hospital 
+462.95000 	467.95000  	WNWN641 	RM	85.4 PL	NashMedNet9 	Nashville Medical Net (Med 9) 	FMN 	Hospital 
+462.97500 	467.97500  	WNWN641 	RM	85.4 PL	NashMedNet10 	Nashville Medical Net (Med 10) 	FMN 	Hospital 
+158.82000 	151.07000  	WQZT887 	RM	CC 2TG 16770000SL 1	MEDLINK ALS 	Jackson - Madison County General Hospital Medlink EMS at Vanderbuilt ALS Dispatch 	DMRE 	EMS Dispatch 
+158.82000 	151.07000  	WQZT887 	RM	CC 2TG 16770001SL 2	MEDLINK BLS 	Jackson - Madison County General Hospital Medlink EMS at Vanderbuilt BLS Dispatch 	DMRE 	EMS Dispatch 
+155.34000 	   	WNWN641 	BM	CSQ	Med 340 	Statewide HEAR Primary 	FMN 	Hospital 
+155.20500 	   	WNWN641 	BM	CSQ	Med 205 	Statewide HEAR Secondary 	FMN 	Hospital 
+464.32500 	469.32500  	WPGI469 	RM	1 RAN	LU-OPS 	Univesity Operations/Security (6.25 KHz Spacing Full Time Encryption) 	NXDNE 	Schools 
+461.87500 	466.87500  	WQKA412 	RM	CC 1TG 1SL 1	Fisk U 	Operations 	DMR 	Schools 
+854.96250 	809.96250  	WPQH560 	RM	134 DPL	P303 TSU 	Campus Police  	FM 	Law Dispatch 
+464.82500 	469.82500  	WNKR342 	RM	CC 10TG 65800SL *	Trevecca 1 	Channel 1 	DMR 	Schools 
+469.82500 	   	WNKR342 	M	CC 10TG 75900SL *	Trevecca 2 	Channel 2 	DMR 	Schools 
+Carlex Glass	 DMR Motorola Capacity Plus Single Site (TRBO)	 Nashville	Communications Group (Commtech)	 LTR Standard	 Nashville	EI Dupont De Nemours (Old Hickory)	 Motorola Type II Smartnet	 Old Hickory
+Metropolitan Government Of Nashville and Davidson County  (Motorola)	 Motorola Type II SmartZone	 Nashville	Mid Tennessee Mobile Corporation	 Motorola Type I	 Nashville	Middle Tennessee Regional Trunked Radio System	 Project 25 Phase II	 Multiple
+Middle Tennessee Two-Way	 LTR Standard	 Nashville	NashComm	 DMR Motorola Capacity Plus Single Site (TRBO)	 Nashville	Nashville International Airport	 Project 25 Phase II	 Nashville
+Nissan Stadium	 NXDN NEXEDGE 9600	 Nashville	Omni Hotel Nashville	 DMR Motorola Capacity Plus Single Site (TRBO)	 Nashville	Renaissance Nashville Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Nashville
+Team Air Express	 LTR Standard	 Nashville	Telecom Network (Nashville)	 LTR Standard	 Nashville	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various
+Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

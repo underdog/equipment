@@ -1,95 +1,94 @@
-155.38500 	WPYF663 	RM	88.5 PL	Ada Dsp 1 	Fire - Dispatch 1 	FMN 	Fire Dispatch 
-155.67000 	WPYF663 	RM	88.5 PL	Ada Fire 2 	Fire - 2  	FMN 	Fire-Tac 
-155.13000 	WPYF663 	RM	88.5 PL	Ada Fire 3 	Fire - 3  	FMN 	Fire-Tac 
-155.13000 	WPYF663 	RM	156.7 PL	Ada Fire3 LP 	Fire - 3 - LP & South Falls 	FMN 	Fire-Tac 
-155.05500 	WRU815 	RM	88.5 PL	Ada Fire 6 	Fire - 6  	FMN 	Fire-Tac 
-154.28000 	WPRH343 	M	CSQ	Ada MutAid 	Black - Mut Aid Ch 	FMN 	Interop 
-159.47250 	 	BM	CSQ	AdaAir/Gnd 	Air/Ground (VTAC14)  	FMN 	Interop 
-154.38500 	WPBS958 	M	CSQ	Ada Tac 9 	Fire- TAC-9 	FMN 	Fire-Tac 
-154.20500 	KNAO540 	BM	CSQ	Ada Ops 10 	Fire - Ops 10  	FMN 	Fire-Tac 
-158.73750 	 	BM	CSQ	Ada Ops 11 	Fire - Ops 11 (VTAC13)  	FMN 	Interop 
-154.26500 	WPYF663 	BM	88.5 PL	Ada Ops 12 	Fire - Ops 12  	FMN 	Fire-Tac 
-153.99500 	WPYF663 	BM	88.5 PL	Ada Ops 13 	Fire - Ops 13  	FMN 	Fire-Tac 
-154.16000 	WPYF663 	BM	88.5 PL	Ada Ops 14 	Fire - Ops 14  	FMN 	Fire-Tac 
-153.74000 	WPYF663 	BM	88.5 PL	Ada Ops 15 	Fire - Ops 15  	FMN 	Fire-Tac 
-154.43000 	WPYF663 	BM	88.5 PL	Ada Ops 16 	Fire - Ops 16 	FMN 	Fire-Tac 
-154.13000 	KOF574 	BM		Ada Fire Nor 	Fire - North County Fire & Rescue Dist 	FMN 	Fire Dispatch 
-154.25000 	KOF574 	BM		Ada Fire Nor 	Fire - North County Fire & Rescue Dist 	FMN 	Fire Dispatch 
-154.40000 	KOF574 	M		Ada Fire Nor 	Fire - North County Fire & Rescue Dist 	FMN 	Fire-Talk 
-151.10000 	KOI554 	BM	156.7 PL	Ada Hwy Work 	Hwy Dist Work Channel 	FMN 	Public Works 
-151.13000 	KOI554 	RM	110.9 PL	Ada HwyDist 	Highway District 	FMN 	Public Works 
-154.71000 	KOI554 	BM		Ada Hwy Dist 	Highway District 	FMN 	Public Works 
-156.06000 	KOI554 	BM	156.7 PL	Ada Hwy Dist 	Highway District 	FMN 	Public Works 
-155.01000 	WNXE934 	B		Ada Paging 	Ada County/Boise Paging 	FMN 	Other 
-155.82000 	KNBV328 	BM		Bench Sewer 	Bench Sewer District 	FMN 	Public Works 
-155.98500 	WNSU342 	BM		HidHolLndFl 	Hidden Hollow Landfill 	FMN 	Public Works 
-453.85000 	WNKX634 	BM		AdaServices 	Services 	FMN 	Public Works 
-771.48125 	WQFC499 	RM		Ada PubSaf 	Public Safety(Barclay Bay) 	P25 	Multi-Tac 
-772.76875 	WQFC499 	RM		Ada PubSaf 	Public Safety(Swan Falls) 	P25 	Multi-Tac 
-774.19375 	WQFC499 	RM		Ada PubSaf 	Public Safety(Lucky Pk) 	P25 	Multi-Tac 
-810.23750 	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
-810.98750 	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
-811.98750 	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
-812.43750 	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
-812.98750 	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
-813.43750 	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
-813.98750 	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
-814.98750 	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
-154.37000 	KOM678 	RM		FIre 	Fire (See Ada Cnty Fire) 	FMN 	Fire-Tac 
-155.16000 	WYU883 	BM		SAR Ops 	Operations 	FMN 	EMS-Tac 
-158.85000 	WQFU535 	RM		SARPort Rptr 	Portable Repeater 	FMN 	EMS-Tac 
-155.11500 	KNGV214 	BM		PWR WATER 	DPW 	FMN 	Public Works 
-154.25000 	KFH391 	BM		KFD Dis 	Dispatch 	FMN 	Fire Dispatch 
-154.43000 	KFH391 	BM		KFD F Grond 	Fireground 	FMN 	Fire-Tac 
-453.55000 	WPYF663 	RM	167.9 PL	Meridian PD 	Police - Tactica(Fallback use) 	FMN 	Law Tac 
-154.14500 	WPZT267 	BM		Fire Ops 	Fire Ops (Fallback Use) 	FMN 	Fire-Tac 
-154.23500 	WPTZ267 	BM		Fire Ops 	Fie Ops (Fallback Use) 	FMN 	Fire-Tac 
-154.32500 	WPZT267 	BM		Fire Ops 	Fire Ops (Fallback Use) 	FMN 	Fire-Tac 
-155.56500 	WPAG930 	BM		Water Dept 	Water Department 	FMN 	Public Works 
-151.52000 	WXC452 	RM	114 DPL	SARMC SecMnt 	Security/Maintenance 	FMN 	Security 
-151.03250 	WPPX937 	RM		SLRMC Ops 	Ops 	FMN 	Security 
-151.29500 	KNNN773 	RM	179.9 PL	SEC DwnTn 	Security - Downtown Facility 	FMN 	Security 
-155.87250 	WPPX937 	RM	107.2 PL	PatTrs DwnT 	Patient Transport - Downtown Facility 	FMN 	Transportation 
-156.23250 	WPPX937 	RM	131.8 PL	PatTrs West 	Patient Transport - West Facility in Meridian 	FMN 	Transportation 
-462.95000 	KNNN773 	RM	411 DPL	BoiseSecur 	Boise Security 	FMN 	Security 
-462.97500 	KNNN773 	RM	455 DPL	MeridSecur 	Meridian Security 	FMN 	Security 
-154.25000 	WPRH343 	BM		DISPATCH 	Fallback use - See Ada County Fire 	FMN 	Fire Dispatch 
-154.28000 	WPRH343 	BM		Mut Aid 	Fallback use  -See Ada County Fire 	FMN 	Fire-Talk 
-154.43000 	WPRH343 	BM		Fireground 	Fallback use - See Ada County Fire 	FMN 	Fire-Tac 
-464.76250 	WQGI286 	RM		BSU Security 	Security 	P25 	Security 
-462.38750 	WQHB882 	M		BSU Events A 	Special Events 	FMN 	Schools 
-462.43750 	WQHB882 	M		BSU Events B 	Special Events 	FMN 	Schools 
-462.46250 	WQGI286 	M		BSU Srvcs A 	Student Services 	FMN 	Schools 
-467.33750 	WQHB882 	M		BSU Events C 	Special Events 	FMN 	Schools 
-467.38750 	WQHB882 	M		BSU Events D 	Special Events 	FMN 	Schools 
-467.43750 	WQHB882 	M		BSU Events E 	Special Events 	FMN 	Schools 
-467.46250 	WQGI286 	M		BSU Srvcs B 	Student Services 	FMN 	Schools 
-468.27500 	WQGI286 	M		BSU Events F 	Special Events 	FMN 	Schools 
-468.57500 	WQGI286 	M		BSU Events G 	Special Events 	FMN 	Schools 
-468.80000 	WQGI286 	M		BSU Events H 	Special Events 	FMN 	Schools 
-461.25000 	WQHU696 	RM		VTA Data A 	Data Only 	FMN 	Data 
-462.15000 	WQHU696 	RM		Data 	Data Only 	FMN 	Data 
-464.87500 	WNLJ672 	RM		TRANSPORT 	Transportation 	FMN 	Schools 
-451.95000 	WQJD423 	RM		BOISE HS 	Boise High School 	FMN 	Schools 
-452.62500 	WQJD423 	RM		BORAH HS 	Borah High School 	FMN 	Schools 
-461.41250 	WQJD423 	RM		TIMBERLINE 	Timberline High School 	FMN 	Schools 
-451.11250 	WQBV733 	RM		Cent HighSch 	Security/Operations 	FMN 	Schools 
-462.42500 	WPZA792 	M		SECURITY 	Security 	FMN 	Schools 
-467.42500 	WPZA792 	M		SECURITY 	Security 	FMN 	Schools 
-151.65500 	WNMI782 	BM		TRANSP 	Transportation 	FMN 	Schools 
-151.68500 	WNMI782 	BM		TRANSP 	Transportation 	FMN 	Schools 
-452.32500 	WPTM826 	RM		TRANSP 	Transportation 	FMN 	Schools 
-462.15000 	WQJQ454 	RM		School Ops 	School Operations 	FMN 	Schools 
-462.27500 	WQJQ454 	RM		School Ops 	School Operations 	FMN 	Schools 
-462.40000 	WQJQ454 	RM		School Ops 	School Operations 	FMN 	Schools 
-463.97500 	WQJQ454 	RM		School Ops 	School Operations 	FMN 	Schools 
-462.32500 	WPMK458 	M		ADMIN 	Administration 	FMN 	Schools 
-151.95500 	WPOZ219 	RM	412 DPL	BTSM Maint  	Maintenance 	FMN 	Business 
-152.27000 	WPOZ219 	RM	114.8 PL	BTSM Securit 	Security 	FMN 	Security 
-153.53000 	KOE314 	BM	97.4 PL	Idaho Pwr 	Operations 	FM 	Utilities 
-Boise State University 1	 LTR Standard	 Boise	Boise State University 2	 LTR Standard	 Boise	City of Boise	 DMR Motorola Connect Plus (TRBO)
- Boise	DMR-Utah Amateur Radio Network	 DMR Conventional Networked	 Multiple	Gem State Communications (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	Gem State Communications (Motorola)
- Motorola Type IIi Hybrid	 Boise	Hewlett Packard (Boise)	 Motorola Type II Smartnet	 Boise	Intermountain Gas Company	 LTR Standard	 Various
-Micron Technology, Inc.	 DMR Motorola Connect Plus (TRBO)	 Boise	Mobex Idaho	 LTR Standard	 Various	St Alphonsus Regional Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)
- Boise	Stoker Communications	 LTR Standard	 Boise	White Cloud Communications	 Motorola Type II	 Boise	White Cloud Communications, Inc.
- LTR Standard	 Various	
+155.38500 	159.06000  	WPYF663 	RM	88.5 PL	Ada Dsp 1 	Fire - Dispatch 1 	FMN 	Fire Dispatch 
+155.67000 	159.21000  	WPYF663 	RM	88.5 PL	Ada Fire 2 	Fire - 2  	FMN 	Fire-Tac 
+155.13000 	158.97000  	WPYF663 	RM	88.5 PL	Ada Fire 3 	Fire - 3  	FMN 	Fire-Tac 
+155.13000 	158.97000  	WPYF663 	RM	156.7 PL	Ada Fire3 LP 	Fire - 3 - LP & South Falls 	FMN 	Fire-Tac 
+155.05500 	158.77500  	WRU815 	RM	88.5 PL	Ada Fire 6 	Fire - 6  	FMN 	Fire-Tac 
+154.28000 	   	WPRH343 	M	CSQ	Ada MutAid 	Black - Mut Aid Ch 	FMN 	Interop 
+159.47250 	   	 	BM	CSQ	AdaAir/Gnd 	Air/Ground (VTAC14)  	FMN 	Interop 
+154.38500 	   	WPBS958 	M	CSQ	Ada Tac 9 	Fire- TAC-9 	FMN 	Fire-Tac 
+154.20500 	   	KNAO540 	BM	CSQ	Ada Ops 10 	Fire - Ops 10  	FMN 	Fire-Tac 
+158.73750 	   	 	BM	CSQ	Ada Ops 11 	Fire - Ops 11 (VTAC13)  	FMN 	Interop 
+154.26500 	   	WPYF663 	BM	88.5 PL	Ada Ops 12 	Fire - Ops 12  	FMN 	Fire-Tac 
+153.99500 	   	WPYF663 	BM	88.5 PL	Ada Ops 13 	Fire - Ops 13  	FMN 	Fire-Tac 
+154.16000 	   	WPYF663 	BM	88.5 PL	Ada Ops 14 	Fire - Ops 14  	FMN 	Fire-Tac 
+153.74000 	   	WPYF663 	BM	88.5 PL	Ada Ops 15 	Fire - Ops 15  	FMN 	Fire-Tac 
+154.43000 	   	WPYF663 	BM	88.5 PL	Ada Ops 16 	Fire - Ops 16 	FMN 	Fire-Tac 
+154.13000 	   	KOF574 	BM		Ada Fire Nor 	Fire - North County Fire & Rescue Dist 	FMN 	Fire Dispatch 
+154.25000 	   	KOF574 	BM		Ada Fire Nor 	Fire - North County Fire & Rescue Dist 	FMN 	Fire Dispatch 
+154.40000 	   	KOF574 	M		Ada Fire Nor 	Fire - North County Fire & Rescue Dist 	FMN 	Fire-Talk 
+151.10000 	   	KOI554 	BM	156.7 PL	Ada Hwy Work 	Hwy Dist Work Channel 	FMN 	Public Works 
+151.13000 	   	KOI554 	RM	110.9 PL	Ada HwyDist 	Highway District 	FMN 	Public Works 
+154.71000 	   	KOI554 	BM		Ada Hwy Dist 	Highway District 	FMN 	Public Works 
+156.06000 	   	KOI554 	BM	156.7 PL	Ada Hwy Dist 	Highway District 	FMN 	Public Works 
+155.01000 	   	WNXE934 	B		Ada Paging 	Ada County/Boise Paging 	FMN 	Other 
+155.82000 	   	KNBV328 	BM		Bench Sewer 	Bench Sewer District 	FMN 	Public Works 
+155.98500 	   	WNSU342 	BM		HidHolLndFl 	Hidden Hollow Landfill 	FMN 	Public Works 
+453.85000 	458.85000  	WNKX634 	BM		AdaServices 	Services 	FMN 	Public Works 
+771.48125 	801.48125  	WQFC499 	RM		Ada PubSaf 	Public Safety(Barclay Bay) 	P25 	Multi-Tac 
+772.76875 	802.76875  	WQFC499 	RM		Ada PubSaf 	Public Safety(Swan Falls) 	P25 	Multi-Tac 
+774.19375 	804.19375  	WQFC499 	RM		Ada PubSaf 	Public Safety(Lucky Pk) 	P25 	Multi-Tac 
+810.23750 	   	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
+810.98750 	   	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
+811.98750 	   	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
+812.43750 	   	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
+812.98750 	   	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
+813.43750 	   	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
+813.98750 	   	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
+814.98750 	   	WQJX917 	M		Ada Tac TA 	Public Safety Tactical Talkaround 	FMN 	Multi-Tac 
+154.37000 	159.01500  	KOM678 	RM		FIre 	Fire (See Ada Cnty Fire) 	FMN 	Fire-Tac 
+155.16000 	   	WYU883 	BM		SAR Ops 	Operations 	FMN 	EMS-Tac 
+158.85000 	155.26500  	WQFU535 	RM		SARPort Rptr 	Portable Repeater 	FMN 	EMS-Tac 
+155.11500 	   	KNGV214 	BM		PWR WATER 	DPW 	FMN 	Public Works 
+154.25000 	   	KFH391 	BM		KFD Dis 	Dispatch 	FMN 	Fire Dispatch 
+154.43000 	   	KFH391 	BM		KFD F Grond 	Fireground 	FMN 	Fire-Tac 
+453.55000 	458.55000  	WPYF663 	RM	167.9 PL	Meridian PD 	Police - Tactica(Fallback use) 	FMN 	Law Tac 
+154.14500 	   	WPZT267 	BM		Fire Ops 	Fire Ops (Fallback Use) 	FMN 	Fire-Tac 
+154.23500 	   	WPTZ267 	BM		Fire Ops 	Fie Ops (Fallback Use) 	FMN 	Fire-Tac 
+154.32500 	   	WPZT267 	BM		Fire Ops 	Fire Ops (Fallback Use) 	FMN 	Fire-Tac 
+155.56500 	   	WPAG930 	BM		Water Dept 	Water Department 	FMN 	Public Works 
+151.52000 	154.51500  	WXC452 	RM	114 DPL	SARMC SecMnt 	Security/Maintenance 	FMN 	Security 
+151.03250 	153.88250  	WPPX937 	RM		SLRMC Ops 	Ops 	FMN 	Security 
+151.29500 	159.42000  	KNNN773 	RM	179.9 PL	SEC DwnTn 	Security - Downtown Facility 	FMN 	Security 
+155.87250 	153.92750  	WPPX937 	RM	107.2 PL	PatTrs DwnT 	Patient Transport - Downtown Facility 	FMN 	Transportation 
+156.23250 	153.94250  	WPPX937 	RM	131.8 PL	PatTrs West 	Patient Transport - West Facility in Meridian 	FMN 	Transportation 
+462.95000 	467.95000  	KNNN773 	RM	411 DPL	BoiseSecur 	Boise Security 	FMN 	Security 
+462.97500 	467.97500  	KNNN773 	RM	455 DPL	MeridSecur 	Meridian Security 	FMN 	Security 
+154.25000 	   	WPRH343 	BM		DISPATCH 	Fallback use - See Ada County Fire 	FMN 	Fire Dispatch 
+154.28000 	   	WPRH343 	BM		Mut Aid 	Fallback use  -See Ada County Fire 	FMN 	Fire-Talk 
+154.43000 	   	WPRH343 	BM		Fireground 	Fallback use - See Ada County Fire 	FMN 	Fire-Tac 
+464.76250 	469.76250  	WQGI286 	RM		BSU Security 	Security 	P25 	Security 
+462.38750 	   	WQHB882 	M		BSU Events A 	Special Events 	FMN 	Schools 
+462.43750 	   	WQHB882 	M		BSU Events B 	Special Events 	FMN 	Schools 
+462.46250 	   	WQGI286 	M		BSU Srvcs A 	Student Services 	FMN 	Schools 
+467.33750 	   	WQHB882 	M		BSU Events C 	Special Events 	FMN 	Schools 
+467.38750 	   	WQHB882 	M		BSU Events D 	Special Events 	FMN 	Schools 
+467.43750 	   	WQHB882 	M		BSU Events E 	Special Events 	FMN 	Schools 
+467.46250 	   	WQGI286 	M		BSU Srvcs B 	Student Services 	FMN 	Schools 
+468.27500 	   	WQGI286 	M		BSU Events F 	Special Events 	FMN 	Schools 
+468.57500 	   	WQGI286 	M		BSU Events G 	Special Events 	FMN 	Schools 
+468.80000 	   	WQGI286 	M		BSU Events H 	Special Events 	FMN 	Schools 
+461.25000 	466.25000  	WQHU696 	RM		VTA Data A 	Data Only 	FMN 	Data 
+462.15000 	467.15000  	WQHU696 	RM		Data 	Data Only 	FMN 	Data 
+464.87500 	469.87500  	WNLJ672 	RM		TRANSPORT 	Transportation 	FMN 	Schools 
+451.95000 	456.95000  	WQJD423 	RM		BOISE HS 	Boise High School 	FMN 	Schools 
+452.62500 	457.62500  	WQJD423 	RM		BORAH HS 	Borah High School 	FMN 	Schools 
+461.41250 	466.41250  	WQJD423 	RM		TIMBERLINE 	Timberline High School 	FMN 	Schools 
+451.11250 	456.11250  	WQBV733 	RM		Cent HighSch 	Security/Operations 	FMN 	Schools 
+462.42500 	   	WPZA792 	M		SECURITY 	Security 	FMN 	Schools 
+467.42500 	   	WPZA792 	M		SECURITY 	Security 	FMN 	Schools 
+151.65500 	   	WNMI782 	BM		TRANSP 	Transportation 	FMN 	Schools 
+151.68500 	   	WNMI782 	BM		TRANSP 	Transportation 	FMN 	Schools 
+452.32500 	457.32500  	WPTM826 	RM		TRANSP 	Transportation 	FMN 	Schools 
+462.15000 	467.15000  	WQJQ454 	RM		School Ops 	School Operations 	FMN 	Schools 
+462.27500 	467.27500  	WQJQ454 	RM		School Ops 	School Operations 	FMN 	Schools 
+462.40000 	467.40000  	WQJQ454 	RM		School Ops 	School Operations 	FMN 	Schools 
+463.97500 	4683.97500  	WQJQ454 	RM		School Ops 	School Operations 	FMN 	Schools 
+462.32500 	   	WPMK458 	M		ADMIN 	Administration 	FMN 	Schools 
+151.95500 	157.53000  	WPOZ219 	RM	412 DPL	BTSM Maint  	Maintenance 	FMN 	Business 
+152.27000 	159.57000  	WPOZ219 	RM	114.8 PL	BTSM Securit 	Security 	FMN 	Security 
+153.53000 	   	KOE314 	BM	97.4 PL	Idaho Pwr 	Operations 	FM 	Utilities 
+Boise State University 1	 LTR Standard	 Boise	Boise State University 2	 LTR Standard	 Boise	City of Boise	 DMR Motorola Connect Plus (TRBO)	 Boise
+DMR-Utah Amateur Radio Network	 DMR Conventional Networked	 Multiple	Gem State Communications (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	Gem State Communications (Motorola)	 Motorola Type IIi Hybrid	 Boise
+Hewlett Packard (Boise)	 Motorola Type II Smartnet	 Boise	Idaho Cooperative Agencies Wireless Interoperable Network (ICAWIN)	 Project 25 Phase I	 Statewide	Intermountain Gas Company	 LTR Standard	 Various
+Micron Technology, Inc.	 DMR Motorola Connect Plus (TRBO)	 Boise	Mobex Idaho	 LTR Standard	 Various	St Alphonsus Regional Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Boise
+Stoker Communications	 LTR Standard	 Boise	White Cloud Communications	 Motorola Type II	 Boise	White Cloud Communications, Inc.	 LTR Standard	 Various

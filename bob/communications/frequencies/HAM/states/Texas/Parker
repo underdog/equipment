@@ -1,16 +1,16 @@
-154.34000 	WNMZ596 	RM	162.2 PL	PrkrCoFDDisp 	Fire Dispatch 	FM 	Fire Dispatch 
-154.41500 	WPQW698 	RM	162.2 PL	MW Fire 	Fire 	FM 	Fire-Tac 
-155.56500 	KZC627 	RM	162.2 PL	MW PD 	Police (Fire & EMS Dispatch also) 	FM 	Multi-Dispatch 
-154.43000 	WQXT421 	RM	100.0 PL	RenoBriarFDA 	Reno/Briar Fire Dispatch 	FMN 	Fire Dispatch 
-154.43000 	WQXT421 	RM	200 NAC	RenoBriarFDD 	Reno/Briar Fire Dispatch 	P25 	Fire Dispatch 
-158.76000 	WQYI427 	RM	205 NAC	Reno Police 	Police (dispatched by Blue Mound) 	P25 	Law Dispatch 
-155.43750 	WPZY518 	RM	67.0 PL	SpringtownPD 	Police Primary 	FMN 	Law Dispatch 
-155.61000 	KNAZ337 	RM	162.2 PL	Wfd PD 2 PIC 	Police Ch. 2 PIC 	FM 	Law Dispatch 
-154.32500 	KNFL483 	RM	624 DPL	Wfd Fire 	Fire Tone Outs 	FMN 	Fire Dispatch 
-153.66500 	WNGV411 	RM	91.5 PL	Wfd Electric 	Electric Utility 	FM 	Utilities 
-155.82000 	KNBS874 	RM	179.9 PL	Wfd PW 	Public Works 	FM 	Public Works 
-155.58000 	WQFE777 	RM	174 DPL	WillowPk PD 	Police Dispatch 	FMN 	Law Dispatch 
-151.45250 	WQFE777 	RM	411 DPL	WillowPk FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-Azle Communications NXDN	 NXDN NEXEDGE 4800	 Weatherford	CSSI (Weatherford - Perkins)	 LTR Standard	 Weatherford	CSSI (Weatherford - Wiggs Lane)	 LTR Standard
- Weatherford	Enbridge Energy (Weatherford)	 Motorola Type II	 Weatherford	Oncor Energy	 EDACS Narrowband Networked	 Various	Parker County (P25)
- Project 25 Phase I	 Parker County	Self Radio Nexedge	 NXDN NEXEDGE 4800	 Fort Worth	
+154.34000 	153.83000  	WNMZ596 	RM	162.2 PL	PrkrCoFDDisp 	Fire Dispatch 	FM 	Fire Dispatch 
+154.41500 	151.11500  	WPQW698 	RM	162.2 PL	MW Fire 	Fire 	FM 	Fire-Tac 
+155.56500 	154.74000  	KZC627 	RM	162.2 PL	MW PD 	Police (Fire & EMS Dispatch also) 	FM 	Multi-Dispatch 
+154.43000 	158.96250  	WQXT421 	RM	100.0 PL	RenoBriarFDA 	Reno/Briar Fire Dispatch 	FMN 	Fire Dispatch 
+154.43000 	158.96250  	WQXT421 	RM	200 NAC	RenoBriarFDD 	Reno/Briar Fire Dispatch 	P25 	Fire Dispatch 
+158.76000 	   	WQYI427 	RM	205 NAC	Reno Police 	Police (dispatched by Blue Mound) 	P25 	Law Dispatch 
+155.43750 	   	WPZY518 	RM	67.0 PL	SpringtownPD 	Police Primary 	FMN 	Law Dispatch 
+155.61000 	159.16500  	KNAZ337 	RM	162.2 PL	Wfd PD 2 PIC 	Police Ch. 2 PIC 	FM 	Law Dispatch 
+154.32500 	153.77000  	KNFL483 	RM	624 DPL	Wfd Fire 	Fire Tone Outs 	FMN 	Fire Dispatch 
+153.66500 	158.17500  	WNGV411 	RM	91.5 PL	Wfd Electric 	Electric Utility 	FM 	Utilities 
+155.82000 	153.98000  	KNBS874 	RM	179.9 PL	Wfd PW 	Public Works 	FM 	Public Works 
+155.58000 	158.82750  	WQFE777 	RM	174 DPL	WillowPk PD 	Police Dispatch 	FMN 	Law Dispatch 
+151.45250 	156.08250  	WQFE777 	RM	411 DPL	WillowPk FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+Azle Communications (Tier 3)	 DMR Tier 3	 Various	Azle Communications NXDN	 NXDN NEXEDGE 4800	 Weatherford	BrandMeister Texas	 DMR Conventional Networked	 Various
+CSSI (Weatherford - Perkins)	 LTR Standard	 Weatherford	CSSI (Weatherford - Wiggs Lane)	 LTR Standard	 Weatherford	Enbridge Energy (Weatherford)	 Motorola Type II	 Weatherford
+Oncor Energy	 EDACS Narrowband Networked	 Various	Parker County (P25)	 Project 25 Phase I	 Parker County	Self Radio Nexedge	 NXDN NEXEDGE 4800	 Fort Worth

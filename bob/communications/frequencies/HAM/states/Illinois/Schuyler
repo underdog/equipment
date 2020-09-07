@@ -1,23 +1,23 @@
-151.43000 	KYF467 	RM	37 RAN	Sch Sheriff S103 	Sheriff: Dispatch (IL103/South) [TG 1] 	NXDNE 	Law Dispatch 
-155.43750 	KYF467 	RM	37 RAN	Sch Sheriff Rush 	Sheriff: Dispatch (Rushville) [TG 1] 	NXDNE 	Law Dispatch 
-151.02500 	KYF467 	RM	37 RAN	Sch Sheriff Cmdn 	Sheriff: Dispatch (Camden) [TG 1] 	NXDNE 	Law Dispatch 
-151.29500 	KYF467 	RM	37 RAN	Sch Sheriff BSpr 	Sheriff: Dispatch (Bluff Springs-Cass) 	NXDNE 	Law Dispatch 
-155.07000 	WPAG688 	RM	203.5 PL	Schu Sheriff B/U 	Sheriff: Back-Up (on air 2018) 	FMN 	Law Dispatch 
-453.03750 	WPAG688 	M		Schu Shrf RF 	Sheriff: Remote Receive Links to 155.07R 	FMN 	Law Tac 
-155.82000 	KSJ274 	RM	82.5 PL	Shuyler ESDA 	Hospital Maintenance / Sheriff Paging / ESDA 	FMN 	Emergency Ops 
-155.64000 	WQYU652 	RM	271 DPL	Schyler Fire/EMS 	Fire/EMS: Countywide Dispatch (McDonough County Dispatch) 	FMN 	Fire Dispatch 
-155.28000 	WPUE523 	BM	82.5 PL	Shuyler Resq 	Rescue Paging/Dispatch / EMA Ops 	FMN 	Emergency Ops 
-151.02500 	KYF467 	RM		Schu Highway 	Highway Department (assumed not on air) 	FMN 	Public Works 
-151.37750 	WNQU225 	RM	151.4 PL	Schuyler Fire  	Fire: Dispatch [DB: McDonough County] 	FMN 	Fire Dispatch 
-154.41500 	WNQU225 	BM	100.0 PL	Schylr Fire Old 	Fire: Dispatch [Old] 	FMN 	Fire Dispatch 
-47.58000 	KVT599 	BM	186.2 PL	Schuyler Sch Bus 	Buses 	FM 	Schools 
-462.95000 	KNDV808 	RM	411 DPL	SCMH EMS 	EMS: Dispatch [DB: McDonough County]  	FMN 	EMS Dispatch 
-462.95000 	KNDV808 	RM	110.9 PL	SCMH*EMS 	EMS: Dispatch [Multiple tones reported] 	FMN 	EMS Dispatch 
-155.34000 	WNSJ772 	BM	179.9 PL	MERCI1 179.9 	Patient Reports 	FMN 	Hospital 
-154.35500 	WPFC528 	BM	88.5 PL	Browning Fire  	Fire: Local 	FMN 	Fire-Tac 
-155.77500 	KNNI375 	BM		Rshvil Local 	City Ops / Mayor (100.0 is prob Peoria) 	FMN 	Public Works 
-160.13250 	WQJE486 	F	107.2 PL	HKW WDD  	Hickory Kerton Water Coop (Data) 	FMN 	Data 
-123.00000 	 	BM	CSQ	5K4 CTAF 	CTAF/UNICOM [NL] 	AM 	Aircraft 
-452.07500 	WNSI330 	RM	136.5 PL	Briney Farms 	Briney, Homer: Farming/Fields 	FMN 	Business 
-464.95000 	WPCK306 	RM	156.7 PL	Briney Sons 	JR Briney and Sons (Sheldon Grove) 	FMN 	Business 
-Supreme Radio Communications (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Central Illinois	
+151.43000 	159.01500  	KYF467 	RM	37 RAN	Sch Sheriff S103 	Sheriff: Dispatch (IL103/South) [TG 1] 	NXDNE 	Law Dispatch 
+155.43750 	159.01500  	KYF467 	RM	37 RAN	Sch Sheriff Rush 	Sheriff: Dispatch (Rushville) [TG 1] 	NXDNE 	Law Dispatch 
+151.02500 	159.01500  	KYF467 	RM	37 RAN	Sch Sheriff Cmdn 	Sheriff: Dispatch (Camden) [TG 1] 	NXDNE 	Law Dispatch 
+151.29500 	159.01500  	KYF467 	RM	37 RAN	Sch Sheriff BSpr 	Sheriff: Dispatch (Bluff Springs-Cass) 	NXDNE 	Law Dispatch 
+155.07000 	159.03000  	WPAG688 	RM	203.5 PL	Schu Sheriff B/U 	Sheriff: Back-Up (on air 2018) 	FMN 	Law Dispatch 
+453.03750 	   	WPAG688 	M		Schu Shrf RF 	Sheriff: Remote Receive Links to 155.07R 	FMN 	Law Tac 
+155.82000 	158.90250  	KSJ274 	RM	82.5 PL	Shuyler ESDA 	Hospital Maintenance / Sheriff Paging / ESDA 	FMN 	Emergency Ops 
+155.64000 	159.45000  	WQYU652 	RM	271 DPL	Schyler Fire/EMS 	Fire/EMS: Countywide Dispatch (McDonough County Dispatch) 	FMN 	Fire Dispatch 
+155.28000 	   	WPUE523 	BM	82.5 PL	Shuyler Resq 	Rescue Paging/Dispatch / EMA Ops 	FMN 	Emergency Ops 
+151.02500 	159.01500  	KYF467 	RM		Schu Highway 	Highway Department (assumed not on air) 	FMN 	Public Works 
+151.37750 	159.26250  	WNQU225 	RM	151.4 PL	Schuyler Fire  	Fire: Dispatch [DB: McDonough County] 	FMN 	Fire Dispatch 
+154.41500 	   	WNQU225 	BM	100.0 PL	Schylr Fire Old 	Fire: Dispatch [Old] 	FMN 	Fire Dispatch 
+47.58000 	   	KVT599 	BM	186.2 PL	Schuyler Sch Bus 	Buses 	FM 	Schools 
+462.95000 	467.95000  	KNDV808 	RM	411 DPL	SCMH EMS 	EMS: Dispatch [DB: McDonough County]  	FMN 	EMS Dispatch 
+462.95000 	467.95000  	KNDV808 	RM	110.9 PL	SCMH*EMS 	EMS: Dispatch [Multiple tones reported] 	FMN 	EMS Dispatch 
+155.34000 	   	WNSJ772 	BM	179.9 PL	MERCI1 179.9 	Patient Reports 	FMN 	Hospital 
+154.35500 	   	WPFC528 	BM	88.5 PL	Browning Fire  	Fire: Local 	FMN 	Fire-Tac 
+155.77500 	   	KNNI375 	BM		Rshvil Local 	City Ops / Mayor (100.0 is prob Peoria) 	FMN 	Public Works 
+160.13250 	   	WQJE486 	F	107.2 PL	HKW WDD  	Hickory Kerton Water Coop (Data) 	FMN 	Data 
+123.00000 	   	 	BM	CSQ	5K4 CTAF 	CTAF/UNICOM [NL] 	AM 	Aircraft 
+452.07500 	457.07500  	WNSI330 	RM	136.5 PL	Briney Farms 	Briney, Homer: Farming/Fields 	FMN 	Business 
+464.95000 	469.95000  	WPCK306 	RM	156.7 PL	Briney Sons 	JR Briney and Sons (Sheldon Grove) 	FMN 	Business 
+Diga-Talk	 NXDN NEXEDGE 4800	 Various	

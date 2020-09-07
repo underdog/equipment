@@ -1,95 +1,94 @@
-460.35000 	KNGK230 	RM	162.2 PL	Oklahoma Co SO  	Sheriff Ch 1 Dispatch 	FMN 	Law Dispatch 
-460.47500 	KNGK230 	RM	162.2 PL	Oklahoma Co SO 3 	Sheriff Ch 3 Warrants 	FMN 	Law Tac 
-460.37500 	KNGK230 	RM	131.8 PL	Oklahoma Co SO 5 	Sheriff Ch 5 Special Events 	FMN 	Law Tac 
-460.50000 	KNGK230 	RM	146.2 PL	Oklahoma Co SO13 	Sheriff Ch 13 Fugitives 	FMN 	Law Tac 
-460.40000 	KNGK230 	RM	146.2 PL	East Okla Co Net 	Eastern County Net (North) Sheriff Ch 9 	FMN 	Law Dispatch 
-460.55000 	WNAJ824 	RM	131.8 PL	SEastOkla Co Net 	Eastern County Net (South) Sheriff Ch 17 	FMN 	Law Dispatch 
-460.03750 	WPFS274 	M		Oklahoma Co SWAT 	Sheriff SWAT Team 	FMN 	Law Tac 
-460.41250 	KNGK230 	M		Oklahoma Co SWAT 	Sheriff SWAT/Bomb/Surveillance 	FMN 	Law Tac 
-460.06250 	WPFS274 	M		Oklahoma Co Bomb 	Sheriff Bomb Squad 	FMN 	Law Tac 
-458.03750 	WPYW443 	M		OklaCo BombRobot 	Sherifff -- Bomb Robot 	FMN 	Data 
-155.07750 	WPYW443 	M		OklaCo BombRobot 	Sheriff -- Bomb Robot Remote Control 	FMN 	Data 
-37.12000 	KNGK230 	M		OKklahomaCoSO Lo 	Tactical/Special Operations (Somtimes linked to 460.4125 MHz) 	FM 	Law Tac 
-37.26000 	KNGK230 	BM		OKklahomaCoSO Lo 	Tactical/Special Operations (Somtimes linked to 460.4125 MHz) 	FM 	Law Tac 
-465.03750 	WNAJ824 	M	82.5 PL	Okla Co SOTrain2 	Okla Co SOTrainSheriff Training Center -- Driving Course (Ch 2) 	FMN 	Law Tac 
-465.06250 	WNAJ824 	M	82.5 PL	Okla Co SOTrain3 	Sheriff Training Center -- Firing Range (Ch 3) 	FMN 	Law Tac 
-460.36250 	KNGK230 	M		Okla Co SO Data 	Data between Comand Post and Tac Vehicles 	Telm 	Data 
-460.23750 	KNGK230 	RM	423 DPL	OklahomaCoJail 1 	Jail Operations 1 	FMN 	Corrections 
-460.38750 	KNGK230 	RM	371 DPL	OklahomaCoJail 3 	Jail Operations 3 	FMN 	Corrections 
-460.28750 	WPFS274 	RM	116 DPL	OklahomaCoJail5 	Jail Rover Units 5 	FMN 	Corrections 
-465.26250 	KNGK230 	M		OklaCoJail Maint 	Maintenance 	FMN 	Corrections 
-460.18750 	KNGK230 	RM	532 DPL	OkCoCourt Secure 	Security 	FMN 	Corrections 
-460.52500 	WQPP713 	RM	331 DPL	OkCo Court Maint 	Maintenance 	FMN 	Public Works 
-458.96250 	KD30788 	M		OkCoCourtMaint 1 	Maintenance Ch 1 	FMN 	Public Works 
-458.93750 	KD30788 	M		OkCoCourtMaint 2 	Maintenance Ch 2 	FMN 	Public Works 
-453.15000 	WQNE730 	BM	632 DPL	Oklahoma Co Juv 	Juvenile Center Security 	FMN 	Corrections 
-460.20000 	WNAJ824 	RM	146.2 PL	COMAR UHF 	COMAR UHF 	FMN 	Interop 
-158.80500 	WPWG418 	RM	114.8 PL	COMAR VHF 	COMAR VHF 	FMN 	Interop 
-154.37000 	WPYL838 	RM	712 DPL	Oklahoma Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-158.83500 	WQCH789 	M	243 DPL	Okla Co FD Ops-3 	Fire Ops-3 	FMN 	Fire-Tac 
-156.09000 	WPYL838 	BM	243 DPL	Okla Co FD Ops-4 	Fire Ops-4 	FMN 	Fire-Tac 
-154.19000 	WNJI251 	BM	243 DPL	Okla Co FD Ops-5 	Fire Ops-5 	FMN 	Fire-Tac 
-155.95500 	WQCH789 	M	243 DPL	Okla Co FD Ops-6 	Fire Ops-6 	FMN 	Fire-Tac 
-151.44500 	WNPQ647 	RM	466 DPL	Oklahoma Co EM  	Severe Weather Spotters 	FMN 	Emergency Ops 
-154.07000 	KB63870 	M	100.0 PL	OklahomaCoEM Car 	Car to Car 	FMN 	Emergency Ops 
-154.16000 	KB63870 	M	100.0 PL	OklahomaCoEM Car 	Car to Car 	FMN 	Emergency Ops 
-145.41000 	WX5OKC 	RM	141.3 PL	OKC Ham WX Link 	 link to Norman National Weather Service (WX5OUN) 	FM 	Ham 
-151.23500 	WNUA650 	RM	127.3 PL	OklaCo Red Cross 	Red Cross of Central Oklahoma 	FMN 	Emergency Ops 
-155.79000 	KKC867 	BM	CSQ	OklaCo Fire Blue 	Oklahoma County -- Blue 	FMN 	Fire-Tac 
-155.19000 	KKC867 	BM	CSQ	Okla Co Fire Red 	Oklahoma County -- Red 	FMN 	Fire-Tac 
-155.73000 	KKC867 	BM	CSQ	Okla Co FD Green 	Oklahoma County -- Green 	FMN 	Fire-Tac 
-153.95000 	WXQ984 	BM	CSQ	Okla Co Fire Alt 	Oklahoma County -- Alt  	FMN 	Fire-Tac 
-158.88000 	 	BM	156.7 PL	OkCoAirGround1 	Oklahoma County -- Air to Ground 1 	FMN 	Fire-Tac 
-149.26250 	 	BM	156.7 PL	OkCoAirGround2 	Oklahoma County -- Air to Ground 2 	FMN 	Fire-Tac 
-169.20000 	 	BM	CSQ	Okla Co Forestry 	Oklahoma County -- Forestry Interop 	FMN 	Fire-Tac 
-151.05500 	WPVT682 	RM	77.0 PL	OklahomaCo Roads 	Highway Maintenance 	FMN 	Public Works 
-852.30000 	WPYJ322 	M	156.7 PL	OKC Direct 1 	Police / Fire -- Direct 1 	FM 	Multi-Tac 
-853.12500 	WPYJ322 	M	156.7 PL	OKC Direct 2 	Police / Fire -- Direct 2 	FM 	Multi-Tac 
-453.97500 	WPXI371 	RM	172 DPL	OKC Storm Sirens 	Storm Siren Activation 	FMN 	Data 
-463.17500 	WNLX760 	RM	162.2 PL	EMSA Dispatch 	EMSA -- Main Dispatch (before OKWIN) 	FMN 	EMS-Tac 
-463.00000 	WNLX760 	RM	162.2 PL	EMSA Turnpike 	EMSA -- Secondary Dispatch (before OKWIN) 	FMN 	EMS-Tac 
-463.02500 	WNLX760 	RM	162.2 PL	EMSA County 	EMSA -- Downtown Area (before OKWIN) 	FMN 	EMS-Tac 
-463.05000 	WNLX760 	RM	162.2 PL	EMSA 'EOC' 	EMSA -- Northeast Metro Area (before OKWIN) 	FMN 	EMS-Tac 
-463.07500 	WNLX760 	RM	162.2 PL	EMSA Airport 	EMSA -- South Metro Area (before OKWIN) 	FMN 	EMS-Tac 
-463.12500 	WNLX760 	RM	162.2 PL	EMSA Hefner 	EMSA -- Northwest Metro Area (before OKWIN) 	FMN 	EMS-Tac 
-462.97500 	WNLX760 	B		EMSA Paging 	EMSA Paging 	FMN 	Data 
-855.48750 	WPBV470 	RM	143 DPL	MWC EMS Link 	EMS Dispatch  -- Link to OKWIN 	FM 	EMS Dispatch 
-462.06250 	WQWI655 	RM	CC 15TG 1SL 1	Samaritan EMS 	Ambulance Dispatch 	DMR 	EMS Dispatch 
-160.06500 	WQHG293 	BM	032 DPL	Air Evac OKC 	Air Evac -- Oklahoma City Tower 	FMN 	EMS Dispatch 
-462.95000 	KNEP946 	BM	192.8 PL	MediFlight 	MediFlight Backup Dispatch 	FMN 	EMS Dispatch 
-123.02500 	WKM8 	BM	CSQ	OKC Helicopters 	MediFlight air to air  	AM 	Aircraft 
-452.70000 	WRAD686 	RM	156.7 PL	Survival Flight 	Survival Flight Medical Helicopters 	FMN 	EMS Dispatch 
-453.78750 	WPMH593 	RM	123.0 PL	Bethany Fire 	Fire Tone Out 	FMN 	Fire Dispatch 
-460.22500 	WNDZ953 	RM	506 DPL	Choctaw Police 	Police Car-to- Car 	FMN 	Law Tac 
-154.41500 	WNXP612 	RM	203.5 PL	Choctaw Fire 	Fire and Storm Siren Activation 	FMN 	Fire-Tac 
-156.21000 	WNGF760 	RM	412 DPL	Choctaw Pub Wks 	Public Works 	FMN 	Public Works 
-154.01000 	WSL594 	RM	263 DPL	Del City Fire 	Fire Backup and Storm Siren Activation 	FMN 	Fire-Tac 
-453.55000 	KKM399 	RM	136.5 PL	Del City Animal 	Animal Control and Code Enforcement 	FMN 	Public Works 
-155.04000 	WNCH879 	RM	123.0 PL	Del City Pub Wks 	Public Works 	FMN 	Public Works 
-154.43000 	KKJ695 	B		Storm Siren Data 	Emergency Outdoor Warning Siren Activation 	FMN 	Data 
-154.05500 	WPLD207 	RM	167.9 PL	Jones EM /PubWks 	Emergency Management and Public Works 	FMN 	Multi-Dispatch 
-855.23750 	WPBV470 	RM	205 DPL	Midwest City PD 	Police Dispatch 	FM 	Law Dispatch 
-854.11250 	WPHX767 	RM	205 DPL	Midwest City PD2 	Police Tactical 	FM 	Public Works 
-855.73750 	WQKL252 	RM	244 DPL	Midwest City FD 	Fire Dispatch 	FM 	Fire Dispatch 
-854.46250 	WQKL252 	RM	244 DPL	Midwest City FD2 	Fire 2 Tactical 	FM 	Public Works 
-154.20500 	WQD403 	RM	123.0 PL	Midwest City FD 	Fire Tone Out and storm siren activation 	FMN 	Fire Dispatch 
-855.48750 	WPBV470 	RM	143 DPL	Midwest City EMS 	EMS Dispatch 	FM 	EMS Dispatch 
-154.72500 	KRI618 	RM	88.5 PL	NIchols Hills PD 	Police -- Backup to OKWIN 	FMN 	Law Tac 
-154.22000 	KNGE612 	RM		Nichols Hills FD 	Fire -- Backup to OKWIN 	FMN 	Fire-Tac 
-154.98000 	KNGT928 	BM	244 DPL	NicholsHlsPubWks 	Public Works -- Street, Water and Sanitation 	FMN 	Public Works 
-154.14500 	WXQ984 	BM		NicomaPark Siren 	Storm Siren Activation 	FMN 	Emergency Ops 
-465.27500 	KXR749 	M	107.2 PL	Spencer PD Tac 	Police Car to Car 	FMN 	Law Tac 
-155.53500 	WNNC429 	BM		VillagePublicWks 	Public Works 	FMN 	Public Works 
-453.58750 	WQRA845 	BM		Valley Brook PD4 	Police Ch 4 -- Tactical 	FMN 	Law Tac 
-460.60000 	WQIQ253 	RM	162.2 PL	Warr Acres Trash 	Public Works -- Garbage Trucks 	FMN 	Public Works 
-462.60000 	 	RM	141.3 PL	REACT OKC 	Oklahoma County -- Primary 	FM 	Emergency Ops 
-464.55000 	 	RM		REACT OKC 	Oklahoma City Repeater 	FM 	Emergency Ops 
-151.62500 	 	M		REACT OKC 	Handhelds 	FM 	Emergency Ops 
-Chickasaw Personal Communications	 DMR Motorola Connect Plus (TRBO)	 Oklahoma	Continental Resources	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oklahoma City	Devon Energy	 DMR Motorola Connect Plus (TRBO)
- Various	EnLink Midstream	 NXDN NEXEDGE 4800	 	Federal Prison Transfer Center Oklahoma City	 Motorola Type II SmartZone	 Oklahoma City	Hobby Lobby Distribution Center
- DMR Motorola Capacity Plus Single Site (TRBO)	 Oklahoma City	Integris Health	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Oklahoma City	Midwest City	 NXDN NEXEDGE 4800	 Midwest City
-Oklahoma City	 EDACS Networked Standard	 Oklahoma City	Oklahoma Department of Transportation (ODOT)	 LTR Passport	 Various	Oklahoma Gas and Electric	 EDACS Networked Standard
- Various	Oklahoma Gas and Electric (MOTOTRBO)	 DMR Motorola Connect Plus (TRBO)	 Oklahoma City	Oklahoma Wireless Interoperability Network (OKWIN) (Motorola)	 Motorola Type II SmartZone	 Various	Paycom
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Oklahoma City	Remington Park	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oklahoma City	RSI Inc -- Oklahoma City	 LTR Standard	 Oklahoma City Metro
-TalkRadio -- OKC Analog LTR	 LTR Standard	 Oklahoma City	TalkRadio Oklahoma	 DMR Motorola Connect Plus (TRBO)	 Oklahoma City	Total Com -- Oklahoma City	 LTR Standard
- Oklahoma City	
+460.35000 	465.35000  	KNGK230 	RM	162.2 PL	Oklahoma Co SO  	Sheriff Ch 1 Dispatch 	FMN 	Law Dispatch 
+460.47500 	465.47500  	KNGK230 	RM	162.2 PL	Oklahoma Co SO 3 	Sheriff Ch 3 Warrants 	FMN 	Law Tac 
+460.37500 	465.37500  	KNGK230 	RM	131.8 PL	Oklahoma Co SO 5 	Sheriff Ch 5 Special Events 	FMN 	Law Tac 
+460.50000 	465.50000  	KNGK230 	RM	146.2 PL	Oklahoma Co SO13 	Sheriff Ch 13 Fugitives 	FMN 	Law Tac 
+460.40000 	465.40000  	KNGK230 	RM	146.2 PL	East Okla Co Net 	Eastern County Net (North) Sheriff Ch 9 	FMN 	Law Dispatch 
+460.55000 	465.55000  	WNAJ824 	RM	131.8 PL	SEastOkla Co Net 	Eastern County Net (South) Sheriff Ch 17 	FMN 	Law Dispatch 
+460.03750 	   	WPFS274 	M		Oklahoma Co SWAT 	Sheriff SWAT Team 	FMN 	Law Tac 
+460.41250 	   	KNGK230 	M		Oklahoma Co SWAT 	Sheriff SWAT/Bomb/Surveillance 	FMN 	Law Tac 
+460.06250 	   	WPFS274 	M		Oklahoma Co Bomb 	Sheriff Bomb Squad 	FMN 	Law Tac 
+458.03750 	   	WPYW443 	M		OklaCo BombRobot 	Sherifff -- Bomb Robot 	FMN 	Data 
+155.07750 	   	WPYW443 	M		OklaCo BombRobot 	Sheriff -- Bomb Robot Remote Control 	FMN 	Data 
+37.12000 	   	KNGK230 	M		OKklahomaCoSO Lo 	Tactical/Special Operations (Sometimes linked to 460.4125 MHz) 	FM 	Law Tac 
+37.26000 	   	KNGK230 	BM		OKklahomaCoSO Lo 	Tactical/Special Operations (Sometimes linked to 460.4125 MHz) 	FM 	Law Tac 
+465.03750 	   	WNAJ824 	M	82.5 PL	Okla Co SOTrain2 	Okla Co SOTrainSheriff Training Center -- Driving Course (Ch 2) 	FMN 	Law Tac 
+465.06250 	   	WNAJ824 	M	82.5 PL	Okla Co SOTrain3 	Sheriff Training Center -- Firing Range (Ch 3) 	FMN 	Law Tac 
+460.36250 	   	KNGK230 	M		Okla Co SO Data 	Data between Comand Post and Tac Vehicles 	Telm 	Data 
+460.23750 	465.23750  	KNGK230 	RM	423 DPL	OklahomaCoJail 1 	Jail Operations 1 	FMN 	Corrections 
+460.38750 	465.38750  	KNGK230 	RM	371 DPL	OklahomaCoJail 3 	Jail Operations 3 	FMN 	Corrections 
+460.28750 	465.28750  	WPFS274 	RM	116 DPL	OklahomaCoJail5 	Jail Rover Units 5 	FMN 	Corrections 
+465.26250 	   	KNGK230 	M		OklaCoJail Maint 	Maintenance 	FMN 	Corrections 
+460.18750 	465.18750  	KNGK230 	RM	532 DPL	OkCoCourt Secure 	Security 	FMN 	Corrections 
+460.52500 	465.52500  	WQPP713 	RM	331 DPL	OkCo Court Maint 	Maintenance 	FMN 	Public Works 
+458.96250 	   	KD30788 	M		OkCoCourtMaint 1 	Maintenance Ch 1 	FMN 	Public Works 
+458.93750 	   	KD30788 	M		OkCoCourtMaint 2 	Maintenance Ch 2 	FMN 	Public Works 
+453.15000 	   	WQNE730 	BM	632 DPL	Oklahoma Co Juv 	Juvenile Center Security 	FMN 	Corrections 
+460.20000 	465.20000  	WNAJ824 	RM	146.2 PL	COMAR UHF 	COMAR UHF 	FMN 	Interop 
+158.80500 	153.96500  	WPWG418 	RM	114.8 PL	COMAR VHF 	COMAR VHF 	FMN 	Interop 
+154.37000 	153.84500  	WPYL838 	RM	712 DPL	Oklahoma Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+158.83500 	   	WQCH789 	M	243 DPL	Okla Co FD Ops-3 	Fire Ops-3 	FMN 	Fire-Tac 
+156.09000 	   	WPYL838 	BM	243 DPL	Okla Co FD Ops-4 	Fire Ops-4 	FMN 	Fire-Tac 
+154.19000 	   	WNJI251 	BM	243 DPL	Okla Co FD Ops-5 	Fire Ops-5 	FMN 	Fire-Tac 
+155.95500 	   	WQCH789 	M	243 DPL	Okla Co FD Ops-6 	Fire Ops-6 	FMN 	Fire-Tac 
+151.44500 	159.33000  	WNPQ647 	RM	466 DPL	Oklahoma Co EM  	Severe Weather Spotters 	FMN 	Emergency Ops 
+154.07000 	   	KB63870 	M	100.0 PL	OklahomaCoEM Car 	Car to Car 	FMN 	Emergency Ops 
+154.16000 	   	KB63870 	M	100.0 PL	OklahomaCoEM Car 	Car to Car 	FMN 	Emergency Ops 
+145.41000 	144.81000  	WX5OKC 	RM	141.3 PL	OKC Ham WX Link 	 link to Norman National Weather Service (WX5OUN) 	FM 	Ham 
+151.23500 	159.46500  	WNUA650 	RM	127.3 PL	OklaCo Red Cross 	Red Cross of Central Oklahoma 	FMN 	Emergency Ops 
+155.79000 	   	KKC867 	BM	CSQ	OklaCo Fire Blue 	Oklahoma County -- Blue 	FMN 	Fire-Tac 
+155.19000 	   	KKC867 	BM	CSQ	Okla Co Fire Red 	Oklahoma County -- Red 	FMN 	Fire-Tac 
+155.73000 	   	KKC867 	BM	CSQ	Okla Co FD Green 	Oklahoma County -- Green 	FMN 	Fire-Tac 
+153.95000 	   	WXQ984 	BM	CSQ	Okla Co Fire Alt 	Oklahoma County -- Alt  	FMN 	Fire-Tac 
+158.88000 	   	 	BM	156.7 PL	OkCoAirGround1 	Oklahoma County -- Air to Ground 1 	FMN 	Fire-Tac 
+149.26250 	   	 	BM	156.7 PL	OkCoAirGround2 	Oklahoma County -- Air to Ground 2 	FMN 	Fire-Tac 
+169.20000 	   	 	BM	CSQ	Okla Co Forestry 	Oklahoma County -- Forestry Interop 	FMN 	Fire-Tac 
+151.05500 	159.18000  	WPVT682 	RM	77.0 PL	OklahomaCo Roads 	Highway Maintenance 	FMN 	Public Works 
+852.30000 	   	WPYJ322 	M	156.7 PL	OKC Direct 1 	Police / Fire -- Direct 1 	FM 	Multi-Tac 
+853.12500 	   	WPYJ322 	M	156.7 PL	OKC Direct 2 	Police / Fire -- Direct 2 	FM 	Multi-Tac 
+453.97500 	458.97500  	WPXI371 	RM	172 DPL	OKC Storm Sirens 	Storm Siren Activation 	FMN 	Data 
+463.17500 	468.17500  	WNLX760 	RM	162.2 PL	EMSA Dispatch 	EMSA -- Main Dispatch (before OKWIN) 	FMN 	EMS-Tac 
+463.00000 	468.00000  	WNLX760 	RM	162.2 PL	EMSA Turnpike 	EMSA -- Secondary Dispatch (before OKWIN) 	FMN 	EMS-Tac 
+463.02500 	468.02500  	WNLX760 	RM	162.2 PL	EMSA County 	EMSA -- Downtown Area (before OKWIN) 	FMN 	EMS-Tac 
+463.05000 	468.05000  	WNLX760 	RM	162.2 PL	EMSA 'EOC' 	EMSA -- Northeast Metro Area (before OKWIN) 	FMN 	EMS-Tac 
+463.07500 	468.07500  	WNLX760 	RM	162.2 PL	EMSA Airport 	EMSA -- South Metro Area (before OKWIN) 	FMN 	EMS-Tac 
+463.12500 	468.12500  	WNLX760 	RM	162.2 PL	EMSA Hefner 	EMSA -- Northwest Metro Area (before OKWIN) 	FMN 	EMS-Tac 
+462.97500 	   	WNLX760 	B		EMSA Paging 	EMSA Paging 	FMN 	Data 
+855.48750 	810.48750  	WPBV470 	RM	143 DPL	MWC EMS Link 	EMS Dispatch  -- Link to OKWIN 	FM 	EMS Dispatch 
+462.06250 	467.06250  	WQWI655 	RM	CC 15TG 1SL 1	Samaritan EMS 	Ambulance Dispatch 	DMR 	EMS Dispatch 
+160.06500 	   	WQHG293 	BM	032 DPL	Air Evac OKC 	Air Evac -- Oklahoma City Tower 	FMN 	EMS Dispatch 
+462.95000 	467.95000  	KNEP946 	BM	192.8 PL	MediFlight 	MediFlight Backup Dispatch 	FMN 	EMS Dispatch 
+123.02500 	   	WKM8 	BM	CSQ	OKC Helicopters 	MediFlight air to air  	AM 	Aircraft 
+452.70000 	457.70000  	WRAD686 	RM	156.7 PL	Survival Flight 	Survival Flight Medical Helicopters 	FMN 	EMS Dispatch 
+453.78750 	458.78750  	WPMH593 	RM	123.0 PL	Bethany Fire 	Fire Tone Out 	FMN 	Fire Dispatch 
+460.22500 	465.22500  	WNDZ953 	RM	506 DPL	Choctaw Police 	Police Car-to- Car 	FMN 	Law Tac 
+154.41500 	151.34000  	WNXP612 	RM	203.5 PL	Choctaw Fire 	Fire and Storm Siren Activation 	FMN 	Fire-Tac 
+156.21000 	159.03000  	WNGF760 	RM	412 DPL	Choctaw Pub Wks 	Public Works 	FMN 	Public Works 
+154.01000 	155.11500  	WSL594 	RM	263 DPL	Del City Fire 	Fire Backup and Storm Siren Activation 	FMN 	Fire-Tac 
+453.55000 	458.55000  	KKM399 	RM	136.5 PL	Del City Animal 	Animal Control and Code Enforcement 	FMN 	Public Works 
+155.04000 	158.87250  	WNCH879 	RM	123.0 PL	Del City Pub Wks 	Public Works 	FMN 	Public Works 
+154.43000 	   	KKJ695 	B		Storm Siren Data 	Emergency Outdoor Warning Siren Activation 	FMN 	Data 
+154.05500 	158.95500  	WPLD207 	RM	167.9 PL	Jones EM /PubWks 	Emergency Management and Public Works 	FMN 	Multi-Dispatch 
+855.23750 	810.23750  	WPBV470 	RM	205 DPL	Midwest City PD 	Police Dispatch 	FM 	Law Dispatch 
+854.11250 	809.11250  	WPHX767 	RM	205 DPL	Midwest City PD2 	Police Tactical 	FM 	Public Works 
+855.73750 	810.73750  	WQKL252 	RM	244 DPL	Midwest City FD 	Fire Dispatch 	FM 	Fire Dispatch 
+854.46250 	809.46250  	WQKL252 	RM	244 DPL	Midwest City FD2 	Fire 2 Tactical 	FM 	Public Works 
+154.20500 	155.14500  	WQD403 	RM	123.0 PL	Midwest City FD 	Fire Tone Out and storm siren activation 	FMN 	Fire Dispatch 
+855.48750 	810.48750  	WPBV470 	RM	143 DPL	Midwest City EMS 	EMS Dispatch 	FM 	EMS Dispatch 
+154.72500 	158.91000  	KRI618 	RM	88.5 PL	NIchols Hills PD 	Police -- Backup to OKWIN 	FMN 	Law Tac 
+154.22000 	159.14250  	KNGE612 	RM		Nichols Hills FD 	Fire -- Backup to OKWIN 	FMN 	Fire-Tac 
+154.98000 	   	KNGT928 	BM	244 DPL	NicholsHlsPubWks 	Public Works -- Street, Water and Sanitation 	FMN 	Public Works 
+154.14500 	   	WXQ984 	BM		NicomaPark Siren 	Storm Siren Activation 	FMN 	Emergency Ops 
+465.27500 	   	KXR749 	M	107.2 PL	Spencer PD Tac 	Police Car to Car 	FMN 	Law Tac 
+155.53500 	   	WNNC429 	BM		VillagePublicWks 	Public Works 	FMN 	Public Works 
+453.58750 	   	WQRA845 	BM		Valley Brook PD4 	Police Ch 4 -- Tactical 	FMN 	Law Tac 
+460.60000 	465.60000  	WQIQ253 	RM	162.2 PL	Warr Acres Trash 	Public Works -- Garbage Trucks 	FMN 	Public Works 
+462.60000 	467.60000  	 	RM	141.3 PL	REACT OKC 	Oklahoma County -- Primary 	FM 	Emergency Ops 
+464.55000 	469.55000  	 	RM		REACT OKC 	Oklahoma City Repeater 	FM 	Emergency Ops 
+151.62500 	   	 	M		REACT OKC 	Handhelds 	FM 	Emergency Ops 
+Chickasaw Personal Communications	 DMR Motorola Connect Plus (TRBO)	 Oklahoma	Continental Resources	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oklahoma City	Devon Energy	 DMR Motorola Connect Plus (TRBO)	 Various
+East Central Oklahoma Emergency Communications Network	 Project 25 Phase II	 Tecumseh	EnLink Midstream	 NXDN NEXEDGE 4800	 	Federal Prison Transfer Center Oklahoma City	 Motorola Type II SmartZone	 Oklahoma City
+Hobby Lobby Distribution Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oklahoma City	Integris Health	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Oklahoma City	Midwest City	 NXDN NEXEDGE 4800	 Midwest City
+Oklahoma City	 EDACS Networked Standard	 Oklahoma City	Oklahoma Department of Transportation (ODOT)	 LTR Passport	 Various	Oklahoma Gas and Electric	 EDACS Networked Standard	 Various
+Oklahoma Gas and Electric (MOTOTRBO)	 DMR Motorola Connect Plus (TRBO)	 Oklahoma City	Oklahoma Wireless Interoperability Network (OKWIN) (Motorola)	 Motorola Type II SmartZone	 Various	Oklahoma Wireless Interoperability Network (OKWIN) (P25)	 Project 25 Phase I	 Various
+Paycom	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Oklahoma City	Remington Park	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oklahoma City	RSI Inc -- Oklahoma City	 LTR Standard	 Oklahoma City Metro
+TalkRadio -- OKC Analog LTR	 LTR Standard	 Oklahoma City	TalkRadio Oklahoma	 DMR Motorola Connect Plus (TRBO)	 Oklahoma City	Total Com -- Oklahoma City	 LTR Standard	 Oklahoma City

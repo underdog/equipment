@@ -1,38 +1,37 @@
-453.40000 	KNIH904 	RM	2 RAN	JaxCo FD Dis 	Dispatch 	NXDN 	Fire Dispatch 
-453.65000 	WPSK209 	RM	136.5 PL	JaxCo FD Tac 	Tactical 	FMN 	Fire-Tac 
-453.67500 	WPUV511 	RM	136.5 PL	JaxCo FD Tac 	Tactical 	FMN 	Fire-Tac 
-460.62500 	WPTY890 	RM	136.5 PL	JaxCo FD Tac 	Tactical 	FMN 	Fire-Tac 
-453.53750 	WPSK838 	RM	136.5 PL	JC Fire Comm 	Fire Commission 	FMN 	Fire-Talk 
-453.03750 	WPJR506 	M	136.5 PL	Balsam FD TA 	Balsam Fire Talk-Around 	FMN 	Fire-Talk 
-453.37500 	WPSI476 	RM	136.5 PL	Savannah FD 	Savannah Fire Department 	FMN 	Fire-Talk 
-453.85000 	WPSH633 	RM	91.5 PL	Cullowhee FD 	Cullowhee Fire Department 	FMN 	Fire-Talk 
-453.31250 	WPTQ253 	RM	107.2 PL	JaxCo EMS 1 	EMS Dispatch (Westcare EMS) 	FMN 	EMS Dispatch 
-155.38500 	WPCW305 	RM	156.7 PL	JaxCo EMS 2 	EMS Tactical 	FMN 	EMS-Tac 
-155.16000 	KNJC693 	BM	156.7 PL	JaxCo EMS 4 	EMS 	FMN 	EMS-Talk 
-155.34000 	KNJC693 	BM	156.7 PL	JaxCo Hosp 	EMS to Hospital 	FMN 	Hospital 
-463.07500 	WPUP340 	RM	156.7 PL	JaxCo MED 4 	Hospital Med 4 	FMN 	Hospital 
-453.77500 	WPAW879 	RM	136.5 PL	JaxCo Rescue 	Rescue Dispatch 	FMN 	EMS Dispatch 
-453.77500 	 	RM	023 DPL	GlnCsh ResQ 	Glenville Cashiers Rescue Dispatch 	FMN 	EMS Dispatch 
-460.58750 	WQFP540 	RM		GlenvlCashRS 	Glenville-Cashiers Rescue 	FMN 	EMS-Tac 
-453.72500 	WPKY736 	RM	136.5 PL	Unit One Res 	Unit One Rescue Squad (Kings Mountain) 	FMN 	EMS-Tac 
-155.23500 	WPCW305 	M	156.7 PL	Rescue Tac 	Rescue Tactical 	FMN 	EMS-Tac 
-155.28000 	KNJC693 	BM	156.7 PL	State Rescue 	State Rescue 	FMN 	EMS-Tac 
-453.62500 	WQCB500 	RM	173.8 PL	JaxCo SD Dis 	Dispatch 	FMN 	Law Dispatch 
-460.06250 	 	RM	146.2 PL	JaxCo Trans 	Transportation 	FMN 	Transportation 
-463.28750 	WQAY856 	RM	127.3 PL	JaxCo School 	School Buses/Board of Education 	FMN 	Schools 
-453.92500 	WPSK520 	RM	88.5 PL	JaxCo Govt 	Services 	FMN 	Public Works 
-453.97500 	WNWW275 	RM	065 DPL	Sylva PD Dis 	Police 	FMN 	Law Dispatch 
-458.05000 	WPNT386 	M		Sylva PD Tac 	Police Tactical 	FMN 	Law Tac 
-453.47500 	WPIG388 	RM		Sylve Govt 	Services 	FMN 	Public Works 
-462.42500 	WQJI985 	RM	CC 13TG 1002SL 2	WCU EMS 	EMS 	DMR 	EMS Dispatch 
-460.37500 	KLC952 	RM	CC 14TG 1000SL 1	WCU PD 	Police 	DMR 	Law Dispatch 
-453.18750 	WQFY758 	RM	CC 14TG 1003SL 1	WCU Parking 	Parking Services/Enforcement 	DMR 	Schools 
-460.12500 	WQFY758 	RM	CC 14TG 1004SL 1	WCU Cat-Tran 	Cat-Tran 	DMR 	Schools 
-452.22500 	 			WCU ReslifeD 	ResLife Dormitory RAs 	DMR 	Schools 
-453.25000 	WPWL734 	RM	100.0 PL	WCU PD/EMS 	Police/EMS Dispatch 	FMN 	Law Dispatch 
-460.28750 	WQFY758 	RM		WCU Siren 	Emergency Siren Control Channel 	DMR 	Schools 
-464.37500 	 			WCU Ramsey 	Ramsey Regional Activities Center Arena Operations 	DMR 	Schools 
-464.55000 	 			WCU Athletic 	Athletics 	DMR 	Schools 
-464.67500 	 			WCU ReslifeM 	ResLife Maintenance 	DMR 	Schools 
-Harrahs Cherokee Casino and Hotel	 NXDN NEXEDGE 4800	 Cherokee	North Carolina VIPER	 Project 25 Phase I	 Varies	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Statesville	
+453.40000 	458.40000  	KNIH904 	RM	2 RAN	JaxCo FD Dis 	Dispatch 	NXDN 	Fire Dispatch 
+453.65000 	458.65000  	WPSK209 	RM	136.5 PL	JaxCo FD Tac 	Tactical 	FMN 	Fire-Tac 
+453.67500 	458.67500  	WPUV511 	RM	136.5 PL	JaxCo FD Tac 	Tactical 	FMN 	Fire-Tac 
+460.62500 	465.62500  	WPTY890 	RM	136.5 PL	JaxCo FD Tac 	Tactical 	FMN 	Fire-Tac 
+453.53750 	458.53750  	WPSK838 	RM	136.5 PL	JC Fire Comm 	Fire Commission 	FMN 	Fire-Talk 
+453.03750 	   	WPJR506 	M	136.5 PL	Balsam FD TA 	Balsam Fire Talk-Around 	FMN 	Fire-Talk 
+453.37500 	458.37500  	WPSI476 	RM	136.5 PL	Savannah FD 	Savannah Fire Department 	FMN 	Fire-Talk 
+453.85000 	458.85000  	WPSH633 	RM	91.5 PL	Cullowhee FD 	Cullowhee Fire Department 	FMN 	Fire-Talk 
+453.31250 	458.31250  	WPTQ253 	RM	107.2 PL	JaxCo EMS 1 	EMS Dispatch (Westcare EMS) 	FMN 	EMS Dispatch 
+155.38500 	150.77500  	WPCW305 	RM	156.7 PL	JaxCo EMS 2 	EMS Tactical 	FMN 	EMS-Tac 
+155.16000 	   	KNJC693 	BM	156.7 PL	JaxCo EMS 4 	EMS 	FMN 	EMS-Talk 
+155.34000 	   	KNJC693 	BM	156.7 PL	JaxCo Hosp 	EMS to Hospital 	FMN 	Hospital 
+463.07500 	468.07500  	WPUP340 	RM	156.7 PL	JaxCo MED 4 	Hospital Med 4 	FMN 	Hospital 
+453.77500 	458.77500  	WPAW879 	RM	136.5 PL	JaxCo Rescue 	Rescue Dispatch 	FMN 	EMS Dispatch 
+453.77500 	458.77500  	 	RM	023 DPL	GlnCsh ResQ 	Glenville Cashiers Rescue Dispatch 	FMN 	EMS Dispatch 
+460.58750 	465.58750  	WQFP540 	RM		GlenvlCashRS 	Glenville-Cashiers Rescue 	FMN 	EMS-Tac 
+453.72500 	458.72500  	WPKY736 	RM	136.5 PL	Unit One Res 	Unit One Rescue Squad (Kings Mountain) 	FMN 	EMS-Tac 
+155.23500 	   	WPCW305 	M	156.7 PL	Rescue Tac 	Rescue Tactical 	FMN 	EMS-Tac 
+155.28000 	   	KNJC693 	BM	156.7 PL	State Rescue 	State Rescue 	FMN 	EMS-Tac 
+453.62500 	458.62500  	WQCB500 	RM	173.8 PL	JaxCo SD Dis 	Dispatch 	FMN 	Law Dispatch 
+460.06250 	465.06250  	 	RM	146.2 PL	JaxCo Trans 	Transportation 	FMN 	Transportation 
+463.28750 	468.28750  	WQAY856 	RM	127.3 PL	JaxCo School 	School Buses/Board of Education 	FMN 	Schools 
+453.92500 	458.92500  	WPSK520 	RM	88.5 PL	JaxCo Govt 	Services 	FMN 	Public Works 
+453.97500 	458.97000  	WNWW275 	RM	065 DPL	Sylva PD Dis 	Police 	FMN 	Law Dispatch 
+458.05000 	   	WPNT386 	M		Sylva PD Tac 	Police Tactical 	FMN 	Law Tac 
+453.47500 	458.47500  	WPIG388 	RM		Sylve Govt 	Services 	FMN 	Public Works 
+462.42500 	467.42500  	WQJI985 	RM	CC 13TG 1002SL 2	WCU EMS 	EMS 	DMR 	EMS Dispatch 
+460.37500 	465.37500  	KLC952 	RM	CC 14TG 1000SL 1	WCU PD 	Police 	DMR 	Law Dispatch 
+453.18750 	458.18750  	WQFY758 	RM	CC 14TG 1003SL 1	WCU Parking 	Parking Services/Enforcement 	DMR 	Schools 
+460.12500 	465.12500  	WQFY758 	RM	CC 14TG 1004SL 1	WCU Cat-Tran 	Cat-Tran 	DMR 	Schools 
+452.22500 	   	 			WCU ReslifeD 	ResLife Dormitory RAs 	DMR 	Schools 
+453.25000 	458.25000  	WPWL734 	RM	100.0 PL	WCU PD/EMS 	Police/EMS Dispatch 	FMN 	Law Dispatch 
+460.28750 	465.28750  	WQFY758 	RM		WCU Siren 	Emergency Siren Control Channel 	DMR 	Schools 
+464.37500 	   	 			WCU Ramsey 	Ramsey Regional Activities Center Arena Operations 	DMR 	Schools 
+464.55000 	   	 			WCU Athletic 	Athletics 	DMR 	Schools 
+464.67500 	   	 			WCU ReslifeM 	ResLife Maintenance 	DMR 	Schools 
+Harrahs Cherokee Casino and Hotel	 NXDN NEXEDGE 4800	 Cherokee	PSNC Energy	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Statesville	

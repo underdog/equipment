@@ -1,58 +1,57 @@
-45.08000 	WNFL280 	BM	107.2 PL	JeffCoFDPage 	County Fire Dispatch 	FM 	Fire Dispatch 
-155.07750 	WQQP799 	RM	065 DPL	IndianHillFP 	Indian Hills Fire Protection Dispatch 	FMN 	Fire Dispatch 
-153.93500 	WXF829 	BM	065 DPL	IndianHillFD 	Indian Hills Fire Dispatch 	FMN 	Fire Dispatch 
-155.83500 	KVH280 	RM	100.0 PL	Golden Fire 	Fire Dispatch (DTRS TG 1495) 	FM 	Fire Dispatch 
-453.75000 	KSW929 	RM	82.5 PL	Lakeside DPW 	Public Works 	FMN 	Public Works 
-155.04000 	KKL864 	RM	CSQ	MorrisonPD 	Police Department (Various PL) 	FMN 	Law Talk 
-155.22000 	WPQY579 	RM	131.8 PL	Elk Creek FD 	Elk Creek Fire Protection District Dispatch 	FMN 	Fire Dispatch 
-155.97750 	WPDS900 	RM	103.5 PL	EvergreenFD1 	Channel 1 	FMN 	Fire Dispatch 
-151.25000 	WPDS900 	RM	103.5 PL	EvergreenFD2 	Channel 2 	FMN 	Fire-Tac 
-155.39250 	WPDS900 	BM	114.8 PL	EvergreenFD3 	Channel 3 	FMN 	Fire-Tac 
-154.72500 	KLM699 	BM	173.8 PL	Fairmont Fire 	Fairmount Fire Tones 	FMN 	Fire Dispatch 
-46.06000 	WQXC431 	BM	94.8 PL	Foothills Fire 	Foothills Fire 	FMN 	Fire-Talk 
-151.16750 	WQXC431 	RM	88.5 PL	FHFD Dinosaur 	Foothills Fire, Dinosaur Ridge Repeater, and Simplex 1 	FMN 	Fire-Tac 
-151.23500 	WQXC431 	RM	67.0 PL	FHFD Lookout 	Foothills Fire, Lookout Mountain Station Repeater 	FMN 	Fire-Tac 
-151.31750 	WQXC431  	RM	88.5 PL	FHFD Morrison 	Foothills Fire, Morrison Repeater 	FMN 	Fire-Tac 
-159.02250 	WQXC431 	RM	77.0 PL	FHFD Idledale 	Foothills Fire, Idledale Station Repeater 	FMN 	Fire-Tac 
-159.18000 	WQXC431 	RM	103.5 PL	FHFD Rainbow 	Foothills Fire, Rainbow Hills Station Repeater 	FMN 	Fire-Tac 
-460.50000 	WQXC431 	BM	67.0 PL	Foothills Fire 	Foothills Fire RF Link 	FMN 	Fire-Talk 
-151.43000 	WQCZ911 	RM	203.5 PL	ICFPD 1 	Channel 1 - Khuester 	FMN 	Fire Dispatch 
-154.80750 	WQCZ911 	RM	203.5 PL	ICFDP 2 	Channel 2 - High Peak 	FMN 	Fire-Tac 
-155.85750 	WQCZ911 	RM	203.5 PL	ICFPD 3 TAC 	Tactical - Khuester 	FMN 	Fire-Tac 
-151.43000 	WQCZ911 	M	CSQ	ICFPD C/C 1 	Car-to-Car-1 / Fireground 	FMN 	Fire-Tac 
-154.80750 	WQCZ911 	M	CSQ	ICFPD C/C 2 	Car-to-Car-2 / Fireground 	FMN 	Fire-Tac 
-453.12500 	 	M	205 DPL	ICFPD UHF 	UHF Operations 	FMN 	Fire-Tac 
-153.87500 	WPUB215 	BM	123.0 PL	N Fork VFD 	Dispatch & Operations 	FMN 	Fire Dispatch 
-154.19000 	WPTT595 	RM	261 DPL	PMEMS Denver 	Denver Area Operations 	FMN 	EMS Dispatch 
-159.58500 	WPNR207 	M	251 DPL	PMEMS Events 	Events 	FMN 	EMS-Tac 
-153.60500 	WPNR207 	RM	265 DPL	PMEMS Admin 	Admin 	FMN 	EMS-Tac 
-153.60500 	WPNR207 	M	606 DPL	PMEMS Direct 	Talkaround 	FMN 	EMS-Tac 
-155.77500 	WPDS900 	BM	103.5 PL	V-Red SW 	Jeffco Fire VHF Mutual Aid, V-Red SW 	FMN 	Fire-Tac 
-461.92500 	 	RM	131.8 PL	JCS Maint 	Jefferson County School Maintenance 	FM 	Schools 
-461.73750 	 	RM	114 DPL	Stndly Lk HS 	Standley Lake High School 	FM 	Schools 
-461.91250 	 	RM	116 DPL	Warren Tech 	Warren Tech 	FM 	Schools 
-462.08750 	 	RM	025 DPL	Arvada W HS 	Arvada West High School 	FM 	Schools 
-463.21250 	 	RM	074 DPL	Rlstn Vly HS 	Ralston Valley High School 	FM 	Schools 
-463.58750 	 	RM	031 DPL	Chatfield HS 	Chatfield High School 	FM 	Schools 
-463.73750 	 	RM	073 DPL	Pomona HS 	Pomona High School 	FM 	Schools 
-463.81250 	 	RM	032 DPL	Columbine HS 	Columbine High School 	FM 	Schools 
-464.02500 	 	RM	365 DPL	Bear Crk HS 	Bear Creek High School 	FM 	Schools 
-464.46250 	 	RM	127.3 PL	Dunstan MS 	Dunstan Middle School 	FM 	Schools 
-464.61250 	 	RM	054 DPL	Golden HS 	Golden High School 	FM 	Schools 
-464.91250 	 	RM	115 DPL	Wheat Rdg HS 	Wheat Ridge High School 	FM 	Schools 
-463.52500 	 	RM	311 DPL	Grn Mt HS 1 	Green Mountain High School Channel 1 	FMN 	Schools 
-464.21250 	WQKQ765 	RM	065 DPL	Grn Mt HS 2  	Green Mountain High School Channel 2 	FMN 	Schools 
-451.96250 	WQNU691 	RM	CC 12TG 100000SL *	St Anthony Hosp1 	Operations 1 	DMR 	Hospital 
-463.96250 	WQKA313 	RM	CC 12TG 100000SL *	St Anthony Hosp2 	Operations 2 	DMR 	Hospital 
-ACS Associates	 LTR Standard	 Plainview	ACS Associates LLC	 NXDN NEXEDGE 4800	 	ACS Investments, LLC	 LTR Standard
- Plainview	Action Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	American Medical Response	 LTR Standard and Passport	 Various	American Medical Response (Denver)
- LTR Standard	 Plainview	Belmar Center	 LTR Standard	 Lakewood	Colorado Telecom	 DMR Conventional Networked	 Denver
-Denver Area Federal / Military	 Motorola Type II SmartZone	 Aurora	Denver Radio Electronics	 EDACS Standard	 Denver	Denver Water	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Denver	Denver Water	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Denver Metro	Federal Correctional Institution - Englewood	 Project 25 Phase I	 Englewood	HCI Communications
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Greeley	LaFarge - Denver Metro	 LTR Standard	 Plainview	Lockheed Martin Space Systems	 DMR Motorola Capacity Plus Single Site (TRBO)	 Waterton
-Metro Area Radio Cooperative (MARC)	 Project 25 Phase II	 Various	MillerCoors Company	 DMR Motorola Connect Plus (TRBO)	 Golden	Mobile Relay Associates	 LTR Standard
- Boulder	Mobile Relay Associates (NEXEDGE)	 NXDN NEXEDGE 4800	 Various	Mountain  Communications and Electronics (DMR Tier III)	 DMR Tier 3	 COS & Denver Metro, I-70 	Mountain Communications and Electronics
- DMR Motorola Connect Plus (TRBO)	 COS & Denver Metro, I-70 	Mullarkey LTR	 LTR Standard	 Denver	QuickSilver Express Courier	 LTR Standard	 Plainview
-Ready Mix Concrete	 LTR Standard	 Eldorado Springs	Rocky Mountain Communication	 LTR Standard	 Conifer	Telstar Communications	 NXDN Icom IDAS Type D
- Various	Triple-C Communications	 DMR Conventional Networked	 Denver Metro	United Power Inc	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Brighton	Westin Westminster Promenade Hotel
- DMR Motorola Capacity Plus Single Site (TRBO)	 Westminster	Westminster	 Project 25 Phase II	 Westminster	Xcel Energy	 Project 25 Phase I	 Various
+45.08000 	   	WNFL280 	BM	107.2 PL	JeffCoFDPage 	County Fire Dispatch 	FM 	Fire Dispatch 
+155.07750 	   	WQQP799 	RM	065 DPL	IndianHillFP 	Indian Hills Fire Protection Dispatch 	FMN 	Fire Dispatch 
+153.93500 	   	WXF829 	BM	065 DPL	IndianHillFD 	Indian Hills Fire Dispatch 	FMN 	Fire Dispatch 
+155.83500 	159.34500  	KVH280 	RM	100.0 PL	Golden Fire 	Fire Dispatch (DTRS TG 1495) 	FM 	Fire Dispatch 
+453.75000 	   	KSW929 	RM	82.5 PL	Lakeside DPW 	Public Works 	FMN 	Public Works 
+155.04000 	   	KKL864 	RM	CSQ	MorrisonPD 	Police Department (Various PL) 	FMN 	Law Talk 
+155.22000 	150.79000  	WPQY579 	RM	131.8 PL	Elk Creek FD 	Elk Creek Fire Protection District Dispatch 	FMN 	Fire Dispatch 
+155.97750 	156.15000  	WPDS900 	RM	103.5 PL	EvergreenFD1 	Channel 1 	FMN 	Fire Dispatch 
+151.25000 	158.87250  	WPDS900 	RM	103.5 PL	EvergreenFD2 	Channel 2 	FMN 	Fire-Tac 
+155.39250 	   	WPDS900 	BM	114.8 PL	EvergreenFD3 	Channel 3 	FMN 	Fire-Tac 
+154.72500 	   	KLM699 	BM	173.8 PL	Fairmont Fire 	Fairmount Fire Tones 	FMN 	Fire Dispatch 
+46.06000 	   	WQXC431 	BM	94.8 PL	Foothills Fire 	Foothills Fire 	FMN 	Fire-Talk 
+151.16750 	155.55750  	WQXC431 	RM	88.5 PL	FHFD Dinosaur 	Foothills Fire, Dinosaur Ridge Repeater, and Simplex 1 	FMN 	Fire-Tac 
+151.23500 	155.55750  	WQXC431 	RM	67.0 PL	FHFD Lookout 	Foothills Fire, Lookout Mountain Station Repeater 	FMN 	Fire-Tac 
+151.31750 	   	WQXC431  	RM	88.5 PL	FHFD Morrison 	Foothills Fire, Morrison Repeater 	FMN 	Fire-Tac 
+159.02250 	155.55750  	WQXC431 	RM	77.0 PL	FHFD Idledale 	Foothills Fire, Idledale Station Repeater 	FMN 	Fire-Tac 
+159.18000 	155.55750  	WQXC431 	RM	103.5 PL	FHFD Rainbow 	Foothills Fire, Rainbow Hills Station Repeater 	FMN 	Fire-Tac 
+460.50000 	   	WQXC431 	BM	67.0 PL	Foothills Fire 	Foothills Fire RF Link 	FMN 	Fire-Talk 
+151.43000 	158.92500  	WQCZ911 	RM	203.5 PL	ICFPD 1 	Channel 1 - Khuester 	FMN 	Fire Dispatch 
+154.80750 	159.04500  	WQCZ911 	RM	203.5 PL	ICFDP 2 	Channel 2 - High Peak 	FMN 	Fire-Tac 
+155.85750 	159.30750  	WQCZ911 	RM	203.5 PL	ICFPD 3 TAC 	Tactical - Khuester 	FMN 	Fire-Tac 
+151.43000 	   	WQCZ911 	M	CSQ	ICFPD C/C 1 	Car-to-Car-1 / Fireground 	FMN 	Fire-Tac 
+154.80750 	   	WQCZ911 	M	CSQ	ICFPD C/C 2 	Car-to-Car-2 / Fireground 	FMN 	Fire-Tac 
+453.12500 	   	 	M	205 DPL	ICFPD UHF 	UHF Operations 	FMN 	Fire-Tac 
+153.87500 	155.59500  	WPUB215 	BM	123.0 PL	N Fork VFD 	Dispatch & Operations 	FMN 	Fire Dispatch 
+154.19000 	   	WPTT595 	RM	261 DPL	PMEMS Denver 	Denver Area Operations 	FMN 	EMS Dispatch 
+159.58500 	   	WPNR207 	M	251 DPL	PMEMS Events 	Events 	FMN 	EMS-Tac 
+153.60500 	   	WPNR207 	RM	265 DPL	PMEMS Admin 	Admin 	FMN 	EMS-Tac 
+153.60500 	   	WPNR207 	M	606 DPL	PMEMS Direct 	Talkaround 	FMN 	EMS-Tac 
+155.77500 	   	WPDS900 	BM	103.5 PL	V-Red SW 	Jeffco Fire VHF Mutual Aid, V-Red SW 	FMN 	Fire-Tac 
+461.92500 	   	 	RM	131.8 PL	JCS Maint 	Jefferson County School Maintenance 	FM 	Schools 
+461.73750 	   	 	RM	114 DPL	Stndly Lk HS 	Standley Lake High School 	FM 	Schools 
+461.91250 	   	 	RM	116 DPL	Warren Tech 	Warren Tech 	FM 	Schools 
+462.08750 	   	 	RM	025 DPL	Arvada W HS 	Arvada West High School 	FM 	Schools 
+463.21250 	   	 	RM	074 DPL	Rlstn Vly HS 	Ralston Valley High School 	FM 	Schools 
+463.58750 	   	 	RM	031 DPL	Chatfield HS 	Chatfield High School 	FM 	Schools 
+463.73750 	   	 	RM	073 DPL	Pomona HS 	Pomona High School 	FM 	Schools 
+463.81250 	   	 	RM	032 DPL	Columbine HS 	Columbine High School 	FM 	Schools 
+464.02500 	   	 	RM	365 DPL	Bear Crk HS 	Bear Creek High School 	FM 	Schools 
+464.46250 	   	 	RM	127.3 PL	Dunstan MS 	Dunstan Middle School 	FM 	Schools 
+464.61250 	   	 	RM	054 DPL	Golden HS 	Golden High School 	FM 	Schools 
+464.91250 	   	 	RM	115 DPL	Wheat Rdg HS 	Wheat Ridge High School 	FM 	Schools 
+463.52500 	   	 	RM	311 DPL	Grn Mt HS 1 	Green Mountain High School Channel 1 	FMN 	Schools 
+464.21250 	   	WQKQ765 	RM	065 DPL	Grn Mt HS 2  	Green Mountain High School Channel 2 	FMN 	Schools 
+451.96250 	456.96250  	WQNU691 	RM	CC 12TG 100000SL *	St Anthony Hosp1 	Operations 1 	DMR 	Hospital 
+463.96250 	468.96250  	WQKA313 	RM	CC 12TG 100000SL *	St Anthony Hosp2 	Operations 2 	DMR 	Hospital 
+ACS Associates	 LTR Standard	 Plainview	ACS Associates LLC	 NXDN NEXEDGE 4800	 	ACS Investments, LLC	 LTR Standard	 Plainview
+Action Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	American Medical Response	 LTR Standard and Passport	 Various	American Medical Response (Denver)	 LTR Standard	 Plainview
+Belmar Center	 LTR Standard	 Lakewood	Colorado Telecom	 DMR Conventional Networked	 Denver	Denver Area Federal / Military	 Motorola Type II SmartZone	 Aurora
+Denver Radio Electronics	 EDACS Standard	 Denver	Denver Water	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Denver	Denver Water	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Denver Metro
+Federal Correctional Institution - Englewood	 Project 25 Phase I	 Englewood	HCI Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greeley	LaFarge - Denver Metro	 LTR Standard	 Plainview
+Lockheed Martin Space Systems	 DMR Motorola Capacity Plus Single Site (TRBO)	 Waterton	Metro Area Radio Cooperative (MARC)	 Project 25 Phase II	 Various	MillerCoors Company	 DMR Motorola Connect Plus (TRBO)	 Golden
+Mobile Relay Associates	 LTR Standard	 Boulder	Mobile Relay Associates (NEXEDGE)	 NXDN NEXEDGE 4800	 Various	Mountain  Communications and Electronics (DMR Tier III)	 DMR Tier 3	 North Central CO
+Mountain Communications and Electronics	 DMR Motorola Connect Plus (TRBO)	 COS & Denver Metro, I-70 	Mullarkey LTR	 LTR Standard	 Denver	QuickSilver Express Courier	 LTR Standard	 Plainview
+Ready Mix Concrete	 LTR Standard	 Eldorado Springs	Rocky Mountain Communication	 LTR Standard	 Conifer	Talk The Rockies	 NXDN NEXEDGE 4800	 Denver Metro
+Telstar Communications	 NXDN Icom IDAS Type D	 Various	Triple-C Communications	 DMR Conventional Networked	 Denver Metro	United Power Inc	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Brighton
+Westin Westminster Promenade Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Westminster	Westminster	 Project 25 Phase II	 Westminster	Xcel Energy	 Project 25 Phase I	 Various

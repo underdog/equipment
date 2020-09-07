@@ -1,40 +1,39 @@
-460.27500 	KNEC948 	RM	127.3 PL	HamblnSDDisp 	Sheriff - Countywide Law Dispatch 	FMN 	Law Dispatch 
-460.40000 	KNEC948 	RM	127.3 PL	HamblnSDT/A 	Sheriff - Countywide Mutual Aid 	FMN 	Interop 
-453.78750 	WQHG695 	RM	127.3 PL	HamblnCoJail 	County Jail 	FMN 	Corrections 
-453.76250 	WPTG373 	RM	162.2 PL	HC-FIRE DISP 	Volunteer Fire Department 	FMN 	Fire Dispatch 
-46.06000 	KB28043 	M		HCFD-LB TAC 	Volunteer Fire Department Low Band Tactical 	FM 	Fire-Tac 
-46.50000 	KB28043 	M		HCFD-LB TAC 	Volunteer Fire Department Low Band Tactical 	FM 	Fire-Tac 
-155.07000 	WPEP474 	RM		HCRS/EMS 1D 	Volunteer Rescue Squad/EMS - Dispatch 1 Digital 	NXDN 	EMS Dispatch 
-155.59500 	WPEP474 	RM		HCRS/EMS 2D 	Volunteer Rescue Squad/EMS - Dispatch 2 Digital 	NXDN 	EMS Dispatch 
-155.07000 	WPEP474 	RM	173.8 PL	HCRS/EMS 1A 	Volunteer Rescue Squad/EMS - Dispatch 1 Analog 	FMN 	EMS Dispatch 
-155.59500 	WPEP474 	RM		HCRS/EMS 2A 	Volunteer Rescue Squad/EMS - Dispatch 2 Analog 	FMN 	EMS Dispatch 
-155.20500 	KNFQ453 	BM		EMS-STATE 	EMS - State EMS Net 	FMN 	Interop 
-155.28000 	KNDX320 	BM		EMS-TRAUMA 	EMS - Trauma Control 	FMN 	Interop 
-155.34000 	KNFQ453 	BM		H.E.A.R. 	EMS - H.E.A.R. (Ambulance to Hospital Patient Reports) 	FMN 	Hospital 
-152.00750 	KNDX320 	RM	254.1 PL	MTHC HOSP 	Morristown Hamblen County Hosptial 	FMN 	Hospital 
-461.27500 	WPHT580 	RM	141.3 PL	Allied EMS 	Allied EMS Dispatch 	FM 	EMS Dispatch 
-452.42500 	WPTS995 	RM	146.2 PL	HamblnHwyDpt 	Highway Department 	FMN 	Public Works 
-154.60000 	 	M		HmblnSchlLHM 	Lincoln Heights Middle School 	FM 	Schools 
-451.50000 	 	M		HmblnSchlLHM 	Lincoln Heights Middle School 	FM 	Schools 
-451.87500 	 	M		HmblnSchlLHM 	Lincoln Heights Middle School 	FM 	Schools 
-464.50000 	 	M		HmblnSchlWVM 	West View Middle School 	FM 	Schools 
-467.85000 	 	M		HmblnSchlWVM 	West View Middle School 	FM 	Schools 
-154.49000 	WQYV582 	RM		RWburgUtilDt 	Russellville-Whitesburg Utility District 	FMN 	Utilities 
-155.37000 	KNEC948 	B		MrrstnPD I/C 	Police Department - Intercity 	FMN 	Interop 
-154.38500 	WNWK350 	RM	100.0 PL	MrrstnFD Rpt 	Fire Department Dispatch 	FMN 	Fire Dispatch 
-154.07000 	WNWK350 	M		MFD-TAC 	Fire Department Tactical 	FMN 	Fire-Tac 
-153.80000 	KNEH236 	BM		MrrstnFD Dir 	Fire Department Direct 	FMN 	Fire-Tac 
-460.65000 	WXM926 	RM		M/H HOSP D 	Morristown/Hamblen Hospital Digital 	DMR 	Hospital 
-460.65000 	WXM926 	RM	073 DPL	M/H-HOSP A 	Morristown/Hamblen Hospital Analog 	FMN 	Hospital 
-452.43750 	WXM926 	RM		M/H HSP D2 	Morristown/Hamblen Hospital Digital 2 	DMR 	Hospital 
-452.43750 	WXM926 	RM		M/H HSP A2 	Morristown/Hamblen Hospital Analog 2 	FMN 	Hospital 
-154.04000 	KJJ213 	RM	146.2 PL	Mrrstn P Wks 	Public Works 	FMN 	Public Works 
-154.99500 	Expired 	BM		MrrstnHousng 	Housing Authority 	FM 	Public Works 
-153.47000 	KNJG361 	RM	CC 9TG *SL *	Mrrstn Utils 	Morristown Utilities 	DMR 	Utilities 
-451.65000 	WQIE627 	RM		MH EAST HS 	Morristown-Hamblem East High School 	FMN 	Schools 
-155.92500 	KVG921 	BM		WSCC PS 	Campus Public Safety 	FMN 	Emergency Ops 
-452.36250 	WQGN385 	RM	103.5 PL	WSCC OPS 1 	Operations 	FMN 	Schools 
-452.46250 	WQGN385 	RM	127.3 PL	WSCC OPS 2 	Operations 	FMN 	Schools 
-461.95000 	WNQN481 	RM	82.5 PL	WSCC OPS 3 	Operations 	FMN 	Schools 
-Cartwright Communication Technology (English Mountain)	 LTR Standard	 English Mountain	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked
- Various	
+460.27500 	465.27500  	KNEC948 	RM	127.3 PL	HamblnSDDisp 	Sheriff - Countywide Law Dispatch 	FMN 	Law Dispatch 
+460.40000 	465.40000  	KNEC948 	RM	127.3 PL	HamblnSDT/A 	Sheriff - Countywide Mutual Aid 	FMN 	Interop 
+453.78750 	458.78750  	WQHG695 	RM	127.3 PL	HamblnCoJail 	County Jail 	FMN 	Corrections 
+453.76250 	458.76250  	WPTG373 	RM	162.2 PL	HC-FIRE DISP 	Volunteer Fire Department 	FMN 	Fire Dispatch 
+46.06000 	   	KB28043 	M		HCFD-LB TAC 	Volunteer Fire Department Low Band Tactical 	FM 	Fire-Tac 
+46.50000 	   	KB28043 	M		HCFD-LB TAC 	Volunteer Fire Department Low Band Tactical 	FM 	Fire-Tac 
+155.07000 	150.77500  	WPEP474 	RM		HCRS/EMS 1D 	Volunteer Rescue Squad/EMS - Dispatch 1 Digital 	NXDN 	EMS Dispatch 
+155.59500 	154.83000  	WPEP474 	RM		HCRS/EMS 2D 	Volunteer Rescue Squad/EMS - Dispatch 2 Digital 	NXDN 	EMS Dispatch 
+155.07000 	150.77500  	WPEP474 	RM	173.8 PL	HCRS/EMS 1A 	Volunteer Rescue Squad/EMS - Dispatch 1 Analog 	FMN 	EMS Dispatch 
+155.59500 	154.83000  	WPEP474 	RM		HCRS/EMS 2A 	Volunteer Rescue Squad/EMS - Dispatch 2 Analog 	FMN 	EMS Dispatch 
+155.20500 	   	KNFQ453 	BM		EMS-STATE 	EMS - State EMS Net 	FMN 	Interop 
+155.28000 	   	KNDX320 	BM		EMS-TRAUMA 	EMS - Trauma Control 	FMN 	Interop 
+155.34000 	   	KNFQ453 	BM		H.E.A.R. 	EMS - H.E.A.R. (Ambulance to Hospital Patient Reports) 	FMN 	Hospital 
+152.00750 	   	KNDX320 	RM	254.1 PL	MTHC HOSP 	Morristown Hamblen County Hosptial 	FMN 	Hospital 
+461.27500 	466.27500  	WPHT580 	RM	141.3 PL	Allied EMS 	Allied EMS Dispatch 	FM 	EMS Dispatch 
+452.42500 	457.42500  	WPTS995 	RM	146.2 PL	HamblnHwyDpt 	Highway Department 	FMN 	Public Works 
+154.60000 	   	 	M		HmblnSchlLHM 	Lincoln Heights Middle School 	FM 	Schools 
+451.50000 	   	 	M		HmblnSchlLHM 	Lincoln Heights Middle School 	FM 	Schools 
+451.87500 	   	 	M		HmblnSchlLHM 	Lincoln Heights Middle School 	FM 	Schools 
+464.50000 	   	 	M		HmblnSchlWVM 	West View Middle School 	FM 	Schools 
+467.85000 	   	 	M		HmblnSchlWVM 	West View Middle School 	FM 	Schools 
+154.49000 	159.67500  	WQYV582 	RM		RWburgUtilDt 	Russellville-Whitesburg Utility District 	FMN 	Utilities 
+155.37000 	   	KNEC948 	B		MrrstnPD I/C 	Police Department - Intercity 	FMN 	Interop 
+154.38500 	153.89000  	WNWK350 	RM	100.0 PL	MrrstnFD Rpt 	Fire Department Dispatch 	FMN 	Fire Dispatch 
+154.07000 	   	WNWK350 	M		MFD-TAC 	Fire Department Tactical 	FMN 	Fire-Tac 
+153.80000 	   	KNEH236 	BM		MrrstnFD Dir 	Fire Department Direct 	FMN 	Fire-Tac 
+460.65000 	465.65000  	WXM926 	RM		M/H HOSP D 	Morristown/Hamblen Hospital Digital 	DMR 	Hospital 
+460.65000 	465.65000  	WXM926 	RM	073 DPL	M/H-HOSP A 	Morristown/Hamblen Hospital Analog 	FMN 	Hospital 
+452.43750 	457.43750  	WXM926 	RM		M/H HSP D2 	Morristown/Hamblen Hospital Digital 2 	DMR 	Hospital 
+452.43750 	457.43750  	WXM926 	RM		M/H HSP A2 	Morristown/Hamblen Hospital Analog 2 	FMN 	Hospital 
+154.04000 	158.89500  	KJJ213 	RM	146.2 PL	Mrrstn P Wks 	Public Works 	FMN 	Public Works 
+154.99500 	   	Expired 	BM		MrrstnHousng 	Housing Authority 	FM 	Public Works 
+153.47000 	158.22000  	KNJG361 	RM	CC 9TG *SL *	Mrrstn Utils 	Morristown Utilities 	DMR 	Utilities 
+451.65000 	456.65000  	WQIE627 	RM		MH EAST HS 	Morristown-Hamblem East High School 	FMN 	Schools 
+155.92500 	   	KVG921 	BM		WSCC PS 	Campus Public Safety 	FMN 	Emergency Ops 
+452.36250 	457.36250  	WQGN385 	RM	103.5 PL	WSCC OPS 1 	Operations 	FMN 	Schools 
+452.46250 	457.46250  	WQGN385 	RM	127.3 PL	WSCC OPS 2 	Operations 	FMN 	Schools 
+461.95000 	466.95000  	WNQN481 	RM	82.5 PL	WSCC OPS 3 	Operations 	FMN 	Schools 
+Cartwright Communication Technology (English Mountain)	 LTR Standard	 English Mountain	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various

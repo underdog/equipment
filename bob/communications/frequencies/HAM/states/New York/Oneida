@@ -1,118 +1,121 @@
-155.43000 	KEE269 	RM	110.9 PL	OCSO MRD 	Sheriff MRD 	FMN 	Law Dispatch 
-155.71500 	KNDZ923 	BM	162.2 PL	OCSO Info 	Sheriff License Checks 	FMN 	Law Dispatch 
-154.84500 	WPBY632 	BM	162.2 PL	OCSO Admin 	Sheriff Administrative 	FMN 	Law Tac 
-155.01000 	KEE269 	RM	110.9 PL	OCSO Ops 	Sheriff Car-to-Car 	FMN 	Law Talk 
-155.85000 	KEE269 	M	162.2 PL	OCSO Car-Car 	Sheriff Car-to-Car 	FMN 	Law Talk 
-154.11500 	WQI460 	RM	162.2 PL	OCSO Crt Sec 	Sheriff County Court Security Command Post 	FMN 	Corrections 
-154.37000 	KNCE722 	RM	110.9 PL	OCFC Ch. 1 	Fire Control 	FMN 	Fire Dispatch 
-159.25500 	WPZI876 	RM	110.9 PL	OC FireApp 	Fire Approach 	FMN 	Fire-Tac 
-154.28000 	WPHM647 	M	162.2 PL	OCFire4FG1   	Fireground 1 	FMN 	Fire-Tac 
-154.29500 	WPHM647 	M	162.2 PL	OCFire5FG2 	Fireground 2 	FMN 	Fire-Tac 
-154.17500 	WPHM647 	M	162.2 PL	OCFire6 RIT 	RIT/FAST 	FMN 	Fire-Tac 
-154.01000 	WPHM647 	M	162.2 PL	OCFire7 FP 	Fire Police 	FMN 	Fire-Tac 
-155.32500 	KNNQ268 	BM	162.2 PL	OC EMS Tact 	EMS Tact 	FMN 	EMS-Tac 
-151.62500 	 	RM		FD/PD Comm 	Fire/Police Common 	FMN 	Interop 
-154.45250 	WQYY987 	BM	110.9 PL	OC EmerSrvs 	Emergency Services 	FMN 	Interop 
-154.26500 	WPLV246 	BM	162.2 PL	OC EmerSrvs 	Emergency Services 	FMN 	Emergency Ops 
-151.18250 	WQML695 	RM	293 NAC	OC EmerSrvs 	Emergency Services Staff 	P25 	Emergency Ops 
-151.18250 	WQML695 	RM	162.2 PL	OC EmerSrvs 	Emergency Services Staff 	FMN 	Emergency Ops 
-156.13500 	WPCI584 	BM		AnnsvilleHwy 	Highway Department 	FMN 	Public Works 
-47.70000 	KEH201 	BM		BoonvilleHwy 	Highway Department 	FM 	Public Works 
-153.90500 	WRU900 	RM	315 DPL	Camden DPW 	Public Works / Highways 	FMN 	Public Works 
-155.82000 	KNAD767 	BM		ClintonDPW 	DPW 	FMN 	Public Works 
-453.25000 	KWM792 	RM	156.7 PL	DeerfieldHwy 	Highway Department 	FMN 	Public Works 
-156.04500 	 	BM	118.8 PL	Florence Hwy 	Highway Department 	FMN 	Public Works 
-156.24000 	WQV486 	RM		ForestprtDPW 	Public Works / Highways 	FMN 	Public Works 
-154.81500 	WNJH719 	BM	162.2 PL	Kirkland PD 	Police Administrative/Car to Car 	FMN 	Law Tac 
-453.75000 	KEI894 	RM	123.0 PL	Kirkland DPW 	Highway Department 	FMN 	Public Works 
-453.70000 	KEJ771 	RM	110.9 PL	Marcy Hwy 	Highway Department 	FMN 	Public Works 
-46.10000 	WNCR415 	BM		McCnnlvl FD 	Fire 	FM 	Fire-Talk 
-158.76750 	WQKY905 	RM	162.2 PL	NHFD Disp 	Fire Dispatch (Patched to TRS 02-065) 	FMN 	Fire Dispatch 
-159.28500 	WQKY905 	M	162.2 PL	NHFD Ops 	Fire Dept Operations 	FMN 	Fire-Tac 
-154.96500 	KNAD744 	BM		NHFD FG/PW 	Fireground / Public Works 	FMN 	Multi-Tac 
-453.95000 	KEJ80 	RM	91.5 PL	NH Hwy Dept 	Highway Department 	FMN 	Public Works 
-154.96500 	KNAD744 	BM	162.2 PL	NewHartVil DPW 	DPW/FIRE GROUND 	FMN 	Multi-Tac 
-159.09000 	WNHP747 	BM	162.2 PL	NY Mills PD 	Police Administrative/Car to Car 	FMN 	Law Dispatch 
-154.08500 	KLI285 	RM	162.2 PL	NY Mills FD 	Fire 	FMN 	Fire Dispatch 
-154.10000 	WNZR614 	BM	123.0 PL	NY Mills DPW/FD 	DPW and Fire 	FMN 	Public Works 
-153.83000 	WXP566 	BM	162.2 PL	OneidaCstlFD 	Fire 	FMN 	Fire-Talk 
-156.21000 	KQM819 	RM	110.9 PL	Oriskany VFD 	Fire Home Alerting/Ops 	FMN 	Fire Dispatch 
-152.33000 	WQOZ938 	RM	203.5 PL	Paris Hwy 	Highway Department 	FMN 	Public Works 
-151.02500 	KNBP520 	BM	162.2 PL	Remsen Hwy 	Highway Department 	FMN 	Public Works 
-461.52500 	KNNI556 	RM		Rome SD 	School District 	FMN 	Schools 
-463.50000 	KNNI556 	RM		Rome SD 	School District 	FMN 	Schools 
-159.10500 	KNDT905 	BM		Sngerfld Hwy 	Highway Department 	FMN 	Public Works 
-155.13000 	KLX735 	BM		Sherrill PD 	Police 	FMN 	Law Dispatch 
-45.60000 	KEH933 	BM		Sherrill Hwy 	Highway Department 	FM 	Public Works 
-154.46375 	KNHF442 	F		Sherrill Hwy 	Highway Department 	Telm 	Data 
-159.01500 	WNHR253 	BM	162.2 PL	Steuben Hwy 	Highway Department 	FMN 	Public Works 
-151.11500 	WPET228 	BM		Trenton Hwy 	Highway Department 	FMN 	Public Works 
-151.37750 	WQLI243 	RM	162.2 PL	HazMat Rptr 	Hazmat Command/Tactical/Portable Repeater 	FMN 	Fire-Tac 
-156.16500 	KBI938 	RM	100.0 PL	Utica DPW 	Public Works 	FMN 	Public Works 
-453.02500 	WQLM608 	B	162.2 PL	Utica FD Rd Alrt 	Fire Station Road Conditions Alerts 	FMN 	Fire-Talk 
-151.10000 	WPEM944 	BM		WatervlleHwy 	Highway Department 	FMN 	Public Works 
-463.80000 	WQBQ650 	RM		WatervilleSD 	School District - Buses 	FMN 	Schools 
-156.00000 	WNNC210 	RM	315 DPL	Western Hwy 	Highway Department 	FMN 	Public Works 
-453.60000 	KLL588 	RM	88.5 PL	WestmrlndHwy 	Highway Department 	FMN 	Public Works 
-154.44500 	WYF949 	BM	162.2 PL	WestmrlndFD 	Fire Dispatch 	FMN 	Fire Dispatch 
-159.27000 	KWQ563 	RM	179.9 PL	W-boro F/G 	Fireground/Home Alert 	FMN 	Fire-Talk 
-154.80000 	WQU408 	BM	162.2 PL	WhitestownPD 	Police Administrative/Car to Car 	FMN 	Law Dispatch 
-453.90000 	KEI931 	RM	151.4 PL	WhitestwnHwy 	Highway Department 	FMN 	Public Works 
-155.92500 	KSL991 	RM	162.2 PL	Yorkville FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-159.12000 	WPCV666 	BM		YorkvilleHwy 	Highway Department 	FMN 	Public Works 
-151.71500 	WPLP991 	BM		Amcare Amb 	Amcare Ambulance Service 	FMN 	EMS-Talk 
-158.82750 	WPYG235 	RM	331 DPL	Amcare Disp 	Amcare Ambulance Service 	FMN 	EMS Dispatch 
-462.32500 	WPLP991 	BM		Amcare Amb 	Amcare Ambulance Service 	FMN 	EMS-Talk 
-151.45250 	WXQ907 	RM	107.2 PL	CtlOneidaAmb 	Central Oneida County Ambulance - Dispatch 	FMN 	EMS Dispatch 
-155.23500 	WXQ907 	BM		COC VA 	Central Oneida County Volunteer Ambulance 	FMN 	EMS-Tac 
-152.39000 	WQOZ938 	RM	179.9 PL	Edwards Amb 	Edwards Ambulance - Dispatch 	FMN 	EMS Dispatch 
-155.26500 	WPBV896 	BM	162.2 PL	Edwards T/T 	Edwards Ambulance Service Truck to Truck 	FMN 	EMS-Talk 
-155.22000 	WNSY227 	BM	162.2 PL	Kunkel Amb 	Kunkel Ambulance Service - Dispatch 	FMN 	EMS Dispatch 
-463.67500 	WPPU436 	RM	110.9 PL	Vineall Amb 	Vineall Ambulance  (Rome/Sylvan Beach) 	FMN 	EMS Dispatch 
-154.13000 	 	B	162.2 PL	FD Paging 	Fire Department Home Alerts (Various) 	FMN 	Fire Dispatch 
-154.34000 	 	B	162.2 PL	FD Paging 	Fire Department Home Alerts (Various) 	FMN 	Fire Dispatch 
-151.16750 	WPRF762 	RM	114.8 PL	Verona FD 	Verona FD 	FMN 	Fire Dispatch 
-151.39250 	WQHD690 	RM		Vernon FD Alert 	Vernon FD - Home Alerting/Ops 	FMN 	Fire Dispatch 
-154.22000 	WPRF762 	BM		Verona FG 	Verona Fire District - Fireground 	FMN 	Fire-Tac 
-154.40000 	KUY443 	BM	162.2 PL	Stittville FD 	Stittville FD Ops/Tac 	FMN 	Fire-Tac 
-154.98000 	KJR242 	RM	162.2 PL	D-M-M FD 	Deerfield/Maynard/Marcy Fire District 	FMN 	Fire Dispatch 
-155.10000 	KRJ886 	BM	162.2 PL	Floyd FD 	Floyd FD 	FMN 	Fire Dispatch 
-155.52750 	WQLS502 	RM	162.2 PL	Taberg FD 	Taberg Fire Dispatch and Operations 	FMN 	Fire-Tac 
-156.24000 	WQV486 	RM	118.8 PL	Woodgate FD 	Woodgate FD - Home Alerting/Ops 	FMN 	Fire Dispatch 
-159.75000 	 			HC Emergency 	Emergency 	DMR 	Schools 
-160.05000 	 			HC EmRespTm 	Emergency Response Team 	DMR 	Schools 
-159.63000 	 			HC Interagen 	Interagency 	DMR 	Schools 
-160.11000 	 			HC PhysPlant 	Physical Plant 	DMR 	Schools 
-159.69000 	 			HC Sfty Admn 	Safety Administration 	DMR 	Security 
-151.56500 	 			HC Sfty C-C 	Safety Car-to-Car 	DMR 	Security 
-159.62250 	 			HC Sfty Disp 	Safety Dispatch (includes EMS Response Team) 	DMR 	Security 
-151.74500 	 			HC Sfty Tac1 	Safety Tactical 1 	DMR 	Security 
-154.54000 	 			HC Sfty Tac2 	Safety Tactical 2 	DMR 	Security 
-155.95500 	KVI531 	RM	203.5 PL	MVCC Police 	Campus Police - Public Safety Call Boxes 	FMN 	Law Dispatch 
-155.03250 	KVI531 	RM	151.4 PL	MVCC Interop 	Utica Public Safety Interop with Campus Police/Campus Maintenance 	FMN 	Multi-Tac 
-159.15750 	KVI531 	RM	123.0 PL	MVCC Police 	Campus Police 911 Sheriff Simulcast  (Patch to OC Sheriff MRD 155.430) 	FMN 	Law Dispatch 
-463.50000 	WYR376 	RM	151.4 PL	MWPAI Secrty 	Security 	FMN 	Security 
-463.52500 	WNFM306 	RM	179.9 PL	Rome Buses 	School Buses 	FMN 	Schools 
-158.83500 	WZT870 	RM	203.5 PL	SUNYIT PD MC 	University Police (Marcy campus) 	FMN 	Law Dispatch 
-155.04000 	WZT871 	RM	141.3 PL	SUNYITCallBx 	Public Safety Call Boxes (Marcy campus) 	FMN 	Law Dispatch 
-153.88250 	WZT871 	M	141.3 PL	SUNYIT PD 	University Police Unit to Unit 	FMN 	Law Talk 
-453.80000 	WPAU905 	RM	131 DPL	SUNYIT Maint 	Maintenance 	FMN 	Schools 
-464.97500 	WNQJ953 	RM	127.3 PL	Safety 	Campus Safety and Security 	FMN 	Security 
-468.80000 	WQBK793 	M	127.3 PL	Maintenance 	Maintenance 	FMN 	Schools 
-461.12500 	WPCB519 	RM	79.7 PL	ARC Oneida 	ARC - Oneida Lewis Chapter Buses 	FMN 	Schools 
-152.93000 	WPYG612 	RM	167.9 PL	Donovan MS 	Donovan Middle School - Security 	FMN 	Security 
-152.93000 	WPYG612 	RM	179.9 PL	JFK MS Sec 	John F Kennedy Middle School - Security 	FMN 	Security 
-152.93000 	WPYG612 	RM	210.7 PL	Kernan ES 	Kernan Elementary School - Security/Maintenance 	FMN 	Security 
-159.84000 	WPYG612 	M	218.1 PL	Proctor HS 	Proctor High School - Security (Tactical) 	FMN 	Security 
-152.93000 	WPYG612 	RM	141.3 PL	Proctor HS 	Proctor High School - Security/Maintenance 	FMN 	Security 
-159.84000 	WPYG612 	M		USDSec159.84 	Security 	FMN 	Security 
-159.96000 	WPYG612 	M		USDSec159.96 	Security 	FMN 	Security 
-160.11000 	WPYG612 	M		USDSec160.11 	Security 	FMN 	Security 
-152.00750 	WPRV626 	B		MVPC Paging 	Staff Paging 	FMN 	Public Works 
-173.06250 	 	BM	200 NAC	AFRL Protection 	Rome Laboratory Force Protection 	P25 	Military 
-BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	Central New York Psychiatric Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Marcy	Hamilton College	 DMR Motorola Capacity Plus Single Site (TRBO)
- Clinton	JPJ Communications (DMR)	 DMR Hytera XPT	 Utica	JPJ Communications (EDACS)	 EDACS Standard	 Utica area	JPJ Communications (MPT-1327)
- MPT-1327 Standard	 Utica area	Mobiletech Communications	 LTR Net	 Various	Mohawk Valley Psychiatric Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Utica
-New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	Oneida County Correctional Facility	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oriskany	Oneida Herkimer Madison School Cooperative	 MPT-1327 Standard
- Regional	Rome City Services	 NXDN NEXEDGE 4800	 Rome	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various	UpstateNY Linked Amateur Radio Network
- DMR Conventional Networked	 Regional	Walmart Distribution Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Marcy	
+155.43000 	159.39000  	KEE269 	RM	110.9 PL	OCSO MRD 	Sheriff MRD 	FMN 	Law Dispatch 
+155.71500 	   	KNDZ923 	BM	162.2 PL	OCSO Info 	Sheriff License Checks 	FMN 	Law Dispatch 
+154.84500 	   	WPBY632 	BM	162.2 PL	OCSO Admin 	Sheriff Administrative 	FMN 	Law Tac 
+155.01000 	158.79000  	KEE269 	RM	110.9 PL	OCSO Ops 	Sheriff Car-to-Car 	FMN 	Law Talk 
+155.85000 	   	KEE269 	M	162.2 PL	OCSO Car-Car 	Sheriff Car-to-Car 	FMN 	Law Talk 
+154.11500 	155.85000  	WQI460 	RM	162.2 PL	OCSO Crt Sec 	Sheriff County Court Security Command Post 	FMN 	Corrections 
+154.37000 	161.25000  	KNCE722 	RM	110.9 PL	OCFC Ch. 1 	Fire Control 	FMN 	Fire Dispatch 
+159.25500 	150.80500  	WPZI876 	RM	110.9 PL	OC FireApp 	Fire Approach 	FMN 	Fire-Tac 
+154.28000 	   	WPHM647 	M	162.2 PL	OCFire4FG1   	Fireground 1 	FMN 	Fire-Tac 
+154.29500 	   	WPHM647 	M	162.2 PL	OCFire5FG2 	Fireground 2 	FMN 	Fire-Tac 
+154.17500 	   	WPHM647 	M	162.2 PL	OCFire6 RIT 	RIT/FAST 	FMN 	Fire-Tac 
+154.01000 	   	WPHM647 	M	162.2 PL	OCFire7 FP 	Fire Police 	FMN 	Fire-Tac 
+155.32500 	   	KNNQ268 	BM	162.2 PL	OC EMS Tact 	EMS Tact 	FMN 	EMS-Tac 
+151.62500 	   	 	RM		FD/PD Comm 	Fire/Police Common 	FMN 	Interop 
+154.45250 	   	WQYY987 	BM	110.9 PL	OC EmerSrvs 	Emergency Services 	FMN 	Interop 
+154.26500 	   	WPLV246 	BM	162.2 PL	OC EmerSrvs 	Emergency Services 	FMN 	Emergency Ops 
+151.18250 	156.06750  	WQML695 	RM	293 NAC	OC EmerSrvs 	Emergency Services Staff 	P25 	Emergency Ops 
+151.18250 	156.06750  	WQML695 	RM	162.2 PL	OC EmerSrvs 	Emergency Services Staff 	FMN 	Emergency Ops 
+453.30000 	458.30000  	WPWM474 	RM	1 RAN	OC Highway 	Highway Department 	NXDN 	Deprecated 
+156.13500 	   	WPCI584 	BM		AnnsvilleHwy 	Highway Department 	FMN 	Public Works 
+47.70000 	   	KEH201 	BM		BoonvilleHwy 	Highway Department 	FM 	Public Works 
+153.90500 	158.89500  	WRU900 	RM	315 DPL	Camden DPW 	Public Works / Highways 	FMN 	Public Works 
+155.82000 	   	KNAD767 	BM		ClintonDPW 	DPW 	FMN 	Public Works 
+453.66250 	458.66250  	WPYH655 	RM	179.9 PL	DFD Patch 	Fire (Patched with 154.980) 	FMN 	Deprecated 
+453.25000 	458.25000  	KWM792 	RM	156.7 PL	DeerfieldHwy 	Highway Department 	FMN 	Public Works 
+156.04500 	   	 	BM	118.8 PL	Florence Hwy 	Highway Department 	FMN 	Public Works 
+156.24000 	159.00000  	WQV486 	RM		ForestprtDPW 	Public Works / Highways 	FMN 	Public Works 
+154.81500 	   	WNJH719 	BM	162.2 PL	Kirkland PD 	Police Administrative/Car to Car 	FMN 	Law Tac 
+453.75000 	458.75000  	KEI894 	RM	123.0 PL	Kirkland DPW 	Highway Department 	FMN 	Public Works 
+453.70000 	458.70000  	KEJ771 	RM	110.9 PL	Marcy Hwy 	Highway Department 	FMN 	Public Works 
+46.10000 	   	WNCR415 	BM		McCnnlvl FD 	Fire 	FM 	Fire-Talk 
+158.76750 	151.47500  	WQKY905 	RM	162.2 PL	NHFD Disp 	Fire Dispatch (Patched to TRS 02-065) 	FMN 	Fire Dispatch 
+159.28500 	   	WQKY905 	M	162.2 PL	NHFD Ops 	Fire Dept Operations 	FMN 	Fire-Tac 
+154.96500 	   	KNAD744 	BM		NHFD FG/PW 	Fireground / Public Works 	FMN 	Multi-Tac 
+453.95000 	458.95000  	KEJ80 	RM	91.5 PL	NH Hwy Dept 	Highway Department 	FMN 	Public Works 
+154.96500 	   	KNAD744 	BM	162.2 PL	NewHartVil DPW 	DPW/FIRE GROUND 	FMN 	Multi-Tac 
+159.09000 	   	WNHP747 	BM	162.2 PL	NY Mills PD 	Police Administrative/Car to Car 	FMN 	Law Dispatch 
+154.08500 	158.81250  	KLI285 	RM	162.2 PL	NY Mills FD 	Fire 	FMN 	Fire Dispatch 
+154.10000 	   	WNZR614 	BM	123.0 PL	NY Mills DPW/FD 	DPW and Fire 	FMN 	Public Works 
+153.83000 	   	WXP566 	BM	162.2 PL	OneidaCstlFD 	Fire 	FMN 	Fire-Talk 
+156.21000 	159.41250  	KQM819 	RM	110.9 PL	Oriskany VFD 	Fire Home Alerting/Ops 	FMN 	Fire Dispatch 
+152.33000 	157.59000  	WQOZ938 	RM	203.5 PL	Paris Hwy 	Highway Department 	FMN 	Public Works 
+151.02500 	   	KNBP520 	BM	162.2 PL	Remsen Hwy 	Highway Department 	FMN 	Public Works 
+461.52500 	466.52500  	KNNI556 	RM		Rome SD 	School District 	FMN 	Schools 
+463.50000 	468.50000  	KNNI556 	RM		Rome SD 	School District 	FMN 	Schools 
+159.10500 	   	KNDT905 	BM		Sngerfld Hwy 	Highway Department 	FMN 	Public Works 
+155.13000 	   	KLX735 	BM		Sherrill PD 	Police 	FMN 	Law Dispatch 
+45.60000 	   	KEH933 	BM		Sherrill Hwy 	Highway Department 	FM 	Public Works 
+154.46375 	   	KNHF442 	F		Sherrill Hwy 	Highway Department 	Telm 	Data 
+159.01500 	   	WNHR253 	BM	162.2 PL	Steuben Hwy 	Highway Department 	FMN 	Public Works 
+151.11500 	   	WPET228 	BM		Trenton Hwy 	Highway Department 	FMN 	Public Works 
+151.37750 	158.91750  	WQLI243 	RM	162.2 PL	HazMat Rptr 	Hazmat Command/Tactical/Portable Repeater 	FMN 	Fire-Tac 
+156.16500 	159.04500  	KBI938 	RM	100.0 PL	Utica DPW 	Public Works 	FMN 	Public Works 
+453.02500 	   	WQLM608 	B	162.2 PL	Utica FD Rd Alrt 	Fire Station Road Conditions Alerts 	FMN 	Fire-Talk 
+151.10000 	   	WPEM944 	BM		WatervlleHwy 	Highway Department 	FMN 	Public Works 
+463.80000 	468.80000  	WQBQ650 	RM		WatervilleSD 	School District - Buses 	FMN 	Schools 
+156.00000 	158.98500  	WNNC210 	RM	315 DPL	Western Hwy 	Highway Department 	FMN 	Public Works 
+453.60000 	458.60000  	KLL588 	RM	88.5 PL	WestmrlndHwy 	Highway Department 	FMN 	Public Works 
+154.44500 	156.08250  	WYF949 	BM	162.2 PL	WestmrlndFD 	Fire Dispatch 	FMN 	Fire Dispatch 
+159.27000 	154.07000  	KWQ563 	RM	179.9 PL	W-boro F/G 	Fireground/Home Alert 	FMN 	Fire-Talk 
+154.80000 	   	WQU408 	BM	162.2 PL	WhitestownPD 	Police Administrative/Car to Car 	FMN 	Law Dispatch 
+453.90000 	458.90000  	KEI931 	RM	151.4 PL	WhitestwnHwy 	Highway Department 	FMN 	Public Works 
+155.92500 	159.12000  	KSL991 	RM	162.2 PL	Yorkville FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+159.12000 	   	WPCV666 	BM		YorkvilleHwy 	Highway Department 	FMN 	Public Works 
+151.71500 	   	WPLP991 	BM		Amcare Amb 	Amcare Ambulance Service 	FMN 	EMS-Talk 
+158.82750 	153.74750  	WPYG235 	RM	331 DPL	Amcare Disp 	Amcare Ambulance Service 	FMN 	EMS Dispatch 
+462.32500 	   	WPLP991 	BM		Amcare Amb 	Amcare Ambulance Service 	FMN 	EMS-Talk 
+151.45250 	155.58750  	WXQ907 	RM	107.2 PL	CtlOneidaAmb 	Central Oneida County Ambulance - Dispatch 	FMN 	EMS Dispatch 
+155.23500 	   	WXQ907 	BM		COC VA 	Central Oneida County Volunteer Ambulance 	FMN 	EMS-Tac 
+152.39000 	157.65000  	WQOZ938 	RM	179.9 PL	Edwards Amb 	Edwards Ambulance - Dispatch 	FMN 	EMS Dispatch 
+155.26500 	   	WPBV896 	BM	162.2 PL	Edwards T/T 	Edwards Ambulance Service Truck to Truck 	FMN 	EMS-Talk 
+155.22000 	   	WNSY227 	BM	162.2 PL	Kunkel Amb 	Kunkel Ambulance Service - Dispatch 	FMN 	EMS Dispatch 
+463.67500 	468.67500  	WPPU436 	RM	110.9 PL	Vineall Amb 	Vineall Ambulance  (Rome/Sylvan Beach) 	FMN 	EMS Dispatch 
+154.13000 	   	 	B	162.2 PL	FD Paging 	Fire Department Home Alerts (Various) 	FMN 	Fire Dispatch 
+154.34000 	   	 	B	162.2 PL	FD Paging 	Fire Department Home Alerts (Various) 	FMN 	Fire Dispatch 
+151.16750 	156.02250  	WPRF762 	RM	114.8 PL	Verona FD 	Verona FD 	FMN 	Fire Dispatch 
+151.39250 	159.14250  	WQHD690 	RM		Vernon FD Alert 	Vernon FD - Home Alerting/Ops 	FMN 	Fire Dispatch 
+154.22000 	   	WPRF762 	BM		Verona FG 	Verona Fire District - Fireground 	FMN 	Fire-Tac 
+154.40000 	   	KUY443 	BM	162.2 PL	Stittville FD 	Stittville FD Ops/Tac 	FMN 	Fire-Tac 
+154.98000 	158.88000  	KJR242 	RM	162.2 PL	D-M-M FD 	Deerfield/Maynard/Marcy Fire District 	FMN 	Fire Dispatch 
+155.10000 	   	KRJ886 	BM	162.2 PL	Floyd FD 	Floyd FD 	FMN 	Fire Dispatch 
+155.52750 	151.19000  	WQLS502 	RM	162.2 PL	Taberg FD 	Taberg Fire Dispatch and Operations 	FMN 	Fire-Tac 
+156.24000 	159.00000  	WQV486 	RM	118.8 PL	Woodgate FD 	Woodgate FD - Home Alerting/Ops 	FMN 	Fire Dispatch 
+155.20500 	   	KNHE524 	BM		WestmrlndCSD 	Westmoreland Central School District Security 	FMN 	Security 
+159.75000 	   	 			HC Emergency 	Emergency 	DMR 	Schools 
+160.05000 	   	 			HC EmRespTm 	Emergency Response Team 	DMR 	Schools 
+159.63000 	   	 			HC Interagen 	Interagency 	DMR 	Schools 
+160.11000 	   	 			HC PhysPlant 	Physical Plant 	DMR 	Schools 
+159.69000 	   	 			HC Sfty Admn 	Safety Administration 	DMR 	Security 
+151.56500 	   	 			HC Sfty C-C 	Safety Car-to-Car 	DMR 	Security 
+159.62250 	   	 			HC Sfty Disp 	Safety Dispatch (includes EMS Response Team) 	DMR 	Security 
+151.74500 	   	 			HC Sfty Tac1 	Safety Tactical 1 	DMR 	Security 
+154.54000 	   	 			HC Sfty Tac2 	Safety Tactical 2 	DMR 	Security 
+155.95500 	153.78500  	KVI531 	RM	203.5 PL	MVCC Police 	Campus Police - Public Safety Call Boxes 	FMN 	Law Dispatch 
+155.03250 	158.97750  	KVI531 	RM	151.4 PL	MVCC Interop 	Utica Public Safety Interop with Campus Police/Campus Maintenance 	FMN 	Multi-Tac 
+159.15750 	155.79000  	KVI531 	RM	123.0 PL	MVCC Police 	Campus Police 911 Sheriff Simulcast  (Patch to OC Sheriff MRD 155.430) 	FMN 	Law Dispatch 
+463.50000 	468.50000  	WYR376 	RM	151.4 PL	MWPAI Secrty 	Security 	FMN 	Security 
+463.52500 	468.52500  	WNFM306 	RM	179.9 PL	Rome Buses 	School Buses 	FMN 	Schools 
+158.83500 	155.74500  	WZT870 	RM	203.5 PL	SUNYIT PD MC 	University Police (Marcy campus) 	FMN 	Law Dispatch 
+155.04000 	153.91250  	WZT871 	RM	141.3 PL	SUNYITCallBx 	Public Safety Call Boxes (Marcy campus) 	FMN 	Law Dispatch 
+153.88250 	   	WZT871 	M	141.3 PL	SUNYIT PD 	University Police Unit to Unit 	FMN 	Law Talk 
+453.80000 	458.80000  	WPAU905 	RM	131 DPL	SUNYIT Maint 	Maintenance 	FMN 	Schools 
+464.97500 	469.97500  	WNQJ953 	RM	127.3 PL	Safety 	Campus Safety and Security 	FMN 	Security 
+468.80000 	   	WQBK793 	M	127.3 PL	Maintenance 	Maintenance 	FMN 	Schools 
+461.12500 	466.12500  	WPCB519 	RM	79.7 PL	ARC Oneida 	ARC - Oneida Lewis Chapter Buses 	FMN 	Schools 
+152.93000 	160.11000  	WPYG612 	RM	167.9 PL	Donovan MS 	Donovan Middle School - Security 	FMN 	Security 
+152.93000 	160.11000  	WPYG612 	RM	179.9 PL	JFK MS Sec 	John F Kennedy Middle School - Security 	FMN 	Security 
+152.93000 	160.11000  	WPYG612 	RM	210.7 PL	Kernan ES 	Kernan Elementary School - Security/Maintenance 	FMN 	Security 
+159.84000 	   	WPYG612 	M	218.1 PL	Proctor HS 	Proctor High School - Security (Tactical) 	FMN 	Security 
+152.93000 	160.11000  	WPYG612 	RM	141.3 PL	Proctor HS 	Proctor High School - Security/Maintenance 	FMN 	Security 
+159.84000 	   	WPYG612 	M		USDSec159.84 	Security 	FMN 	Security 
+159.96000 	   	WPYG612 	M		USDSec159.96 	Security 	FMN 	Security 
+160.11000 	   	WPYG612 	M		USDSec160.11 	Security 	FMN 	Security 
+152.00750 	   	WPRV626 	B		MVPC Paging 	Staff Paging 	FMN 	Public Works 
+173.06250 	   	 	BM	200 NAC	AFRL Protection 	Rome Laboratory Force Protection 	P25 	Military 
+BrandMeister NY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional	Central New York Interoperable Communications Consortium (CNYICC)	 Project 25 Phase II	 Regional	Central New York Psychiatric Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Marcy
+Hamilton College	 DMR Motorola Capacity Plus Single Site (TRBO)	 Clinton	JPJ Communications (DMR)	 DMR Hytera XPT	 Utica	JPJ Communications (EDACS)	 EDACS Standard	 Utica area
+JPJ Communications (MPT-1327)	 MPT-1327 Standard	 Utica area	Mobiletech Communications	 LTR Net	 Various	Mohawk Valley Psychiatric Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Utica
+New York State Electric and Gas (NYSEG)	 Project 25 Phase I	 Statewide	Oneida County Correctional Facility	 DMR Motorola Capacity Plus Single Site (TRBO)	 Oriskany	Oneida Herkimer Madison School Cooperative	 MPT-1327 Standard	 Regional
+Rome City Services	 NXDN NEXEDGE 4800	 Rome	SaiaNet	 DMR Motorola Connect Plus (TRBO)	 Various	UpstateNY Linked Amateur Radio Network	 DMR Conventional Networked	 Regional
+Walmart Distribution Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Marcy	

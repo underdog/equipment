@@ -1,28 +1,28 @@
-155.55000 	WQCH787 	RM		AC EMA VHF 	Emergency Management VHF Repeater 	FMN 	Emergency Ops 
-155.55000 	WQCH787 	RM	5 RAN	ACEMA VHF DIG 	Emergency Management VHF Repeater (Digital) 	NXDN 	Emergency Ops 
-460.55000 	WQBT233 	RM		AC EMA UHF 1 	Emergency Management UHF 1 	FMN 	Emergency Ops 
-460.60000 	WQBT233 	RM		AC EMA UHF 2 	Emergency Management UHF 2 	FMN 	Emergency Ops 
-156.24000 	WQCU668 	RM		ACFD-MCCOOL AN 	Fire Dispatch 	FMN 	Fire Dispatch 
-156.24000 	WQCC668 	RM	5 RAN	ACFD-MCCOOL D 	Fire Dispatch (Digital) 	NXDN 	Fire Dispatch 
-154.05500 	WQCU668 	RM	223 DPL	ACFD-CENTRAL A 	Fire - Central Repeater 	FMN 	Fire Dispatch 
-154.05500 	WQCU668 	RM	5 RAN	ACFD-CENTRAL D 	Fire - Central Repeater (Digital) 	NXDN 	Fire Dispatch 
-151.10000 	WQEC248 	RM	218.1 PL	ACFD-FRIENDSHIP 	Fire - Friendship Repeater 	FMN 	Fire Dispatch 
-151.10000 	WQEC248 	RM	5 RAN	ACFD-FRNDSHIP D 	Fire - Friendship Repeater (Digital) 	NXDN 	Fire Dispatch 
-155.37000 	WQEC248 	RM	179.9 PL	ACFD-PROVIDENCE 	Fire - Providence Repeater 	FMN 	Fire Dispatch 
-155.37000 	WQEC248 	RM	5 RAN	ACFD-PROVIDENC D 	Fire - Providence Repeater (Digital) 	NXDN 	Fire Dispatch 
-159.19500 	WQEC248 	RM	250.3 PL	ACFD-SALLIS AN 	Fire - Sallis Repeater 	FMN 	Fire Dispatch 
-159.15000 	WQEC248 	RM	5 RAN	ACFD-SALLIS D 	Fire - Sallis Repeater (Digital) 	NXDN 	Fire Dispatch 
-155.35500 	WPGS380 	RM	107.2 PL	AC EMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.79000 	WPHK524 	RM	5 RAN	ACSO DIGITAL 	Sheriff Dispatch (Digital) 	NXDN 	Law Dispatch 
-155.79000 	WPHK524 	RM	77.0 PL	ACSO DISP 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.49000 	WPHK524 	BM	77.0 PL	ACSO SHB/TAC 	Sheriff Statewide High Band/Tactical 	FMN 	Law Tac 
-155.67000 	WPHK524 	RM		ACSO-MCCOOL AN 	Law Dispatch 	FMN 	Law Dispatch 
-155.67000 	WPHK524 	RM	5 RAN	ACSO-MCCOOL D 	Law Dispatch (Digital) 	NXDN 	Law Dispatch 
-155.95500 	WPMY619 	RM	225.7 PL	Atalla PW 	Public Works 	FMN 	Public Works 
-155.41500 	KKM736 	RM	88.5 PL	KPD 1 DISP 	Kosciusko Police 1 	FMN 	Law Dispatch 
-155.64000 	KKM736 	BM	88.5 PL	KPD 2 TAC 	Kosciusko Police 2 	FMN 	Law Tac 
-155.73000 	KKM736 	M	88.5 PL	KPD 3 CAR 	Kosciusko Police Car-to-Car 	FMN 	Law Talk 
-154.44500 	WXT561 	RM	241.8 PL	KFD DISPATCH 	Kosciusko Fire 	FMN 	Fire Dispatch 
-155.11500 	KNAQ616 	RM		KDPW 1 	Public Works Operations Primary 	FMN 	Public Works 
-155.01000 	KNAQ616 	BM		KDPW 2 	Public Works Operations Secondary 	FMN 	Public Works 
-Entergy 	 Project 25 Phase II	 Various	Mississippi Wireless Integrated Network (MSWIN)	 Project 25 Phase II	 Jackson	
+155.55000 	159.01500  	WQCH787 	RM		AC EMA VHF 	Emergency Management VHF Repeater 	FMN 	Emergency Ops 
+155.55000 	159.01500  	WQCH787 	RM	5 RAN	ACEMA VHF DIG 	Emergency Management VHF Repeater (Digital) 	NXDN 	Emergency Ops 
+460.55000 	465.55000  	WQBT233 	RM		AC EMA UHF 1 	Emergency Management UHF 1 	FMN 	Emergency Ops 
+460.60000 	465.60000  	WQBT233 	RM		AC EMA UHF 2 	Emergency Management UHF 2 	FMN 	Emergency Ops 
+156.24000 	159.11250  	WQCU668 	RM		ACFD-MCCOOL AN 	Fire Dispatch 	FMN 	Fire Dispatch 
+156.24000 	159.11250  	WQCC668 	RM	5 RAN	ACFD-MCCOOL D 	Fire Dispatch (Digital) 	NXDN 	Fire Dispatch 
+154.05500 	150.80500  	WQCU668 	RM	223 DPL	ACFD-CENTRAL A 	Fire - Central Repeater 	FMN 	Fire Dispatch 
+154.05500 	150.80500  	WQCU668 	RM	5 RAN	ACFD-CENTRAL D 	Fire - Central Repeater (Digital) 	NXDN 	Fire Dispatch 
+151.10000 	153.90500  	WQEC248 	RM	218.1 PL	ACFD-FRIENDSHIP 	Fire - Friendship Repeater 	FMN 	Fire Dispatch 
+151.10000 	153.90500  	WQEC248 	RM	5 RAN	ACFD-FRNDSHIP D 	Fire - Friendship Repeater (Digital) 	NXDN 	Fire Dispatch 
+155.37000 	156.04500  	WQEC248 	RM	179.9 PL	ACFD-PROVIDENCE 	Fire - Providence Repeater 	FMN 	Fire Dispatch 
+155.37000 	156.04500  	WQEC248 	RM	5 RAN	ACFD-PROVIDENC D 	Fire - Providence Repeater (Digital) 	NXDN 	Fire Dispatch 
+159.19500 	156.06000  	WQEC248 	RM	250.3 PL	ACFD-SALLIS AN 	Fire - Sallis Repeater 	FMN 	Fire Dispatch 
+159.15000 	156.06000  	WQEC248 	RM	5 RAN	ACFD-SALLIS D 	Fire - Sallis Repeater (Digital) 	NXDN 	Fire Dispatch 
+155.35500 	150.77500  	WPGS380 	RM	107.2 PL	AC EMS Disp 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.79000 	153.75500  	WPHK524 	RM	5 RAN	ACSO DIGITAL 	Sheriff Dispatch (Digital) 	NXDN 	Law Dispatch 
+155.79000 	153.75500  	WPHK524 	RM	77.0 PL	ACSO DISP 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.49000 	   	WPHK524 	BM	77.0 PL	ACSO SHB/TAC 	Sheriff Statewide High Band/Tactical 	FMN 	Law Tac 
+155.67000 	158.82000  	WPHK524 	RM		ACSO-MCCOOL AN 	Law Dispatch 	FMN 	Law Dispatch 
+155.67000 	158.82000  	WPHK524 	RM	5 RAN	ACSO-MCCOOL D 	Law Dispatch (Digital) 	NXDN 	Law Dispatch 
+155.95500 	153.80000  	WPMY619 	RM	225.7 PL	Atalla PW 	Public Works 	FMN 	Public Works 
+155.41500 	153.92000  	KKM736 	RM	88.5 PL	KPD 1 DISP 	Kosciusko Police 1 	FMN 	Law Dispatch 
+155.64000 	   	KKM736 	BM	88.5 PL	KPD 2 TAC 	Kosciusko Police 2 	FMN 	Law Tac 
+155.73000 	   	KKM736 	M	88.5 PL	KPD 3 CAR 	Kosciusko Police Car-to-Car 	FMN 	Law Talk 
+154.44500 	158.86500  	WXT561 	RM	241.8 PL	KFD DISPATCH 	Kosciusko Fire 	FMN 	Fire Dispatch 
+155.11500 	158.79750  	KNAQ616 	RM		KDPW 1 	Public Works Operations Primary 	FMN 	Public Works 
+155.01000 	   	KNAQ616 	BM		KDPW 2 	Public Works Operations Secondary 	FMN 	Public Works 
+Entergy 	 Project 25 Phase II	 Various	

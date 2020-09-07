@@ -1,60 +1,61 @@
-462.16250 	WPUQ574 	RM	CC 1TG 1100SL *	NG EMS 1 	Northglenn Ambulance 	DMR 	EMS Dispatch 
-453.90000 	WPCM219 	RM	CC 10TG 151515SL 1	Fed Hts DPW 	Public Works 	DMR 	Public Works 
-461.87500 	WNXT582 	RM	CC 5TG 1SL 1	Westmns ScBs 	Public Schools - School Bus 	DMR 	Schools 
-151.16000 	WQJW319 	RM	662 DPL	RmptS&RDisp 	Dispatch 	FMN 	Emergency Ops 
-155.57250 	WQJW319 	BM	662 DPL	RmptS&RAdmin 	Dispatch 	FMN 	Emergency Ops 
-155.17500 	WPOX768 	M	662 DPL	RmpS&RTac1 	Tactical Channel-1 	FMN 	Emergency Ops 
-155.20500 	WQFM317 	M	662 DPL	RmptS&RTac2 	Tactical Channel-2 	FMN 	Emergency Ops 
-155.22000 	WPOX768 	M	662 DPL	RmptS&RTac3 	Tactical Channel-3 	FMN 	Emergency Ops 
-155.23500 	WPOX768 	M	662 DPL	RmptS&RTac4 	Tactical Channel-4 	FMN 	Emergency Ops 
-155.69250 	WQFM317 	M	662 DPL	RmptS&RTac5 	Tactical Channel-5 	FMN 	Emergency Ops 
-151.16000 	WQFM317 	BM	662 DPL	RmptS 	Tactical Channel 6 	FMN 	Emergency Ops 
-155.16000 	WPOX768 	M	662 DPL	RmptS&RMutAd 	Mutual Aid 	FMN 	Emergency Ops 
-155.34000 	WPOX768 	M	662 DPL	RmptS&RMAMed 	Mutual Aid / Medical (Chopper LZ) 	FMN 	Emergency Ops 
-460.06250 	WQJW319 	RM	662 DPL	AdamsSO-EOC 	Adams Co Sheriff & EOC 	FMN 	Emergency Ops 
-851.01250 	WPWX852 	RM	662 DPL	RSAR-AdamsSO 	Adams Co Sheriff 	FMN 	Emergency Ops 
-460.08750 	WQJW319 	RM	662 DPL	RmptS&RStorm 	Storm Chasers 	FMN 	Emergency Ops 
-47.48000 	WQCN488 	BM	662 DPL	RmptS&RLowBd 	Low Band 	FM 	Emergency Ops 
-461.15000 	 	RM	306 DPL	EdSvcCtr 	Educational Service Center (Administration) 	FM 	Schools 
-461.30000 	 	RM	107.2 PL	Nthgln HiSch 	Northglenn High School 	FM 	Schools 
-461.81250 	 	BM	306 DPL	BlmnTechCtr 	Bollman Technical Education Center 	FM 	Schools 
-461.81250 	 	BM	306 DPL	CtnCrk Elem 	Cotton Creek Elementary School 	FM 	Schools 
-461.81250 	 	BM	754 DPL	CyteRdg Elem 	Coyote Ridge Elementary School 	FM 	Schools 
-461.85000 	 	RM	023 DPL	MtnRng HiSch 	Mountain Range High School 	FM 	Schools 
-461.96250 	 	BM	116 DPL	ChryDrv Elem 	Cherry Drive Elementary School 	FM 	Schools 
-461.96250 	 	BM	754 DPL	Centnl Elem 	Centennial Elementary School 	FM 	Schools 
-462.01250 	 	BM	116 DPL	ArapRdg Elem 	Arapahoe Ridge Elementary School 	FM 	Schools 
-462.16250 	WQVA647 	RM	CC 1TG 50000SL *	Pinnacle Bus 	Pinnacle Charter School Buses 	DMR 	Schools 
-463.31250 	 	RM	411 DPL	Thrntn MidSc 	Thornton Middle School 	FM 	Schools 
-463.67500 	 	RM	532 DPL	Hrzn HighSch 	Horizon High School 	FM 	Schools 
-463.68750 	 	RM	116 DPL	Hlstrm Elem 	Hulstrom Elementary School 	FM 	Schools 
-463.98750 	 	RM	306 DPL	SlvrHls Elem 	Silver Hills Elementary School 	FM 	Schools 
-464.13750 	 	BM	306 DPL	Crsrds AltSc 	Crossroads Alternative School 	FM 	Schools 
-464.26250 	 	BM	754 DPL	Cntry MidSch 	Century Middle School 	FM 	Schools 
-464.33750 	 	BM	754 DPL	Crnado Elem 	Coronado Elementary School 	FM 	Schools 
-464.36250 	 	BM	116 DPL	McElwn Elem 	McElwain Elementary School 	FM 	Schools 
-464.36250 	 	BM	186.2 PL	EagleVw Elem 	Eagle View Elementary School 	FM 	Schools 
-464.42500 	 	BM	754 DPL	LeroyDr Elem 	Leroy Drive Elementary School 	FM 	Schools 
-464.42500 	 	BM	754 DPL	MallyDr Elem 	Malley Drive Elementary School 	FM 	Schools 
-464.52500 	 	BM	116 DPL	Meridan Elem 	Meridian Elementary School 	FM 	Schools 
-464.61250 	 	RM	306 DPL	Thrntn HISch 	Thornton High School 	FM 	Schools 
-464.83750 	 	BM	116 DPL	MtnView Elem 	Mountain View Elementary School 	FM 	Schools 
-464.83750 	 	BM	306 DPL	Hlcrst Elem 	Hillcrest Elementary School 	FM 	Schools 
-464.83750 	 	BM	754 DPL	HntrGln Elem 	Hunters Glen Elementary School 	FM 	Schools 
-464.92500 	 	BM	065 DPL	GlcrPk Elem 	Glacier Peak Elementary School 	FM 	Schools 
-464.92500 	 	BM	116 DPL	FdrlHts Elem 	Federal Heights Elementary School 	FM 	Schools 
-468.71250 	 	BM	107.2 PL	DistWd Cust 	District-Wide Custodial 	FM 	Schools 
-463.35000 	WQSI693 	RM	CC 11TG 101SL *	EMS Training 1 	EMS Program Training 1 	DMR 	Schools 
-463.35000 	WQSI693 	RM	CC 11TG 102SL *	EMS Training 2 	EMS Program Training 2 	DMR 	Schools 
-463.35000 	WQFE832 	RM	CC 5TG 111SL *	FRCC Campus Ops 	Campus Operations 	DMRE 	Schools 
-451.16250 	 	RM	CC 14TG 11000SL 1	Mapleton PS 	Mapleton Public Schools 	DMR 	Schools 
-452.17500 	WQZD631 	RM	CC 10TG 100001SL *	Ranum School 	Ranum Middle School 	DMR 	Schools 
-Adams County School District 12 System 1	 DMR Conventional Networked	 Thorton	Adams County School District 12 System 2	 DMR Conventional Networked	 Thorton	American Medical Response	 LTR Standard and Passport
- Various	American Medical Response (Denver)	 LTR Standard	 Plainview	Aurora	 Project 25 Phase II	 Aurora	Children's Hospital Colorado
- DMR Motorola Capacity Plus Multi Site (TRBO)	 Aurora	Denver Area Federal / Military	 Motorola Type II SmartZone	 Aurora	Denver Water	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Denver Metro
-Denver Water	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Denver	Dick's Sporting Goods Park	 DMR Motorola Capacity Plus Single Site (TRBO)	 Commerce City	Front Range Communications Consortium (FRCC)	 Project 25 Phase II
- Weld County	Gaylord Rockies Resort and Convention Center	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Aurora	HCI Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greeley	ICE Denver Contract Detention Facility
- DMR Motorola Capacity Plus Single Site (TRBO)	 Aurora	Mobile Relay Associates (NEXEDGE)	 NXDN NEXEDGE 4800	 Various	Mountain  Communications and Electronics (DMR Tier III)	 DMR Tier 3	 COS & Denver Metro, I-70 
-Mountain Communications and Electronics	 DMR Motorola Connect Plus (TRBO)	 COS & Denver Metro, I-70 	Platte Valley Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Brighton	UCHealth University of Colorado Hospital	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Aurora	United Power Inc	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Brighton	Westminster	 Project 25 Phase II	 Westminster	Xcel Energy
- Project 25 Phase I	 Various	
+462.16250 	467.16250  	WPUQ574 	RM	CC 1TG 1100SL *	NG EMS 1 	Northglenn Ambulance 	DMR 	EMS Dispatch 
+453.90000 	   	WPCM219 	RM	CC 10TG 151515SL 1	Fed Hts DPW 	Public Works 	DMR 	Public Works 
+461.87500 	466.87500  	WNXT582 	RM	CC 5TG 1SL 1	Westmns ScBs 	Public Schools - School Bus 	DMR 	Schools 
+151.16000 	155.69250  	WQJW319 	RM	662 DPL	RmptS&RDisp 	Dispatch 	FMN 	Emergency Ops 
+155.57250 	   	WQJW319 	BM	662 DPL	RmptS&RAdmin 	Dispatch 	FMN 	Emergency Ops 
+155.17500 	   	WPOX768 	M	662 DPL	RmpS&RTac1 	Tactical Channel-1 	FMN 	Emergency Ops 
+155.20500 	   	WQFM317 	M	662 DPL	RmptS&RTac2 	Tactical Channel-2 	FMN 	Emergency Ops 
+155.22000 	   	WPOX768 	M	662 DPL	RmptS&RTac3 	Tactical Channel-3 	FMN 	Emergency Ops 
+155.23500 	   	WPOX768 	M	662 DPL	RmptS&RTac4 	Tactical Channel-4 	FMN 	Emergency Ops 
+155.69250 	   	WQFM317 	M	662 DPL	RmptS&RTac5 	Tactical Channel-5 	FMN 	Emergency Ops 
+151.16000 	   	WQFM317 	BM	662 DPL	RmptS 	Tactical Channel 6 	FMN 	Emergency Ops 
+155.16000 	   	WPOX768 	M	662 DPL	RmptS&RMutAd 	Mutual Aid 	FMN 	Emergency Ops 
+155.34000 	   	WPOX768 	M	662 DPL	RmptS&RMAMed 	Mutual Aid / Medical (Chopper LZ) 	FMN 	Emergency Ops 
+460.06250 	   	WQJW319 	RM	662 DPL	AdamsSO-EOC 	Adams Co Sheriff & EOC 	FMN 	Emergency Ops 
+851.01250 	   	WPWX852 	RM	662 DPL	RSAR-AdamsSO 	Adams Co Sheriff 	FMN 	Emergency Ops 
+460.08750 	   	WQJW319 	RM	662 DPL	RmptS&RStorm 	Storm Chasers 	FMN 	Emergency Ops 
+47.48000 	   	WQCN488 	BM	662 DPL	RmptS&RLowBd 	Low Band 	FM 	Emergency Ops 
+461.15000 	466.15000  	WQCZ772 	RM	306 DPL	EdSvcCtr 	Educational Service Center (Administration) 	FM 	Schools 
+461.30000 	466.30000  	WQCZ772 	RM	107.2 PL	Nthgln HiSch 	Northglenn High School 	FM 	Schools 
+461.81250 	   	WPBS637 	BM	306 DPL	BlmnTechCtr 	Bollman Technical Education Center 	FM 	Schools 
+461.81250 	   	WPBS637 	BM	306 DPL	CtnCrk Elem 	Cotton Creek Elementary School 	FM 	Schools 
+461.81250 	   	WPBS637 	BM	754 DPL	CyteRdg Elem 	Coyote Ridge Elementary School 	FM 	Schools 
+461.85000 	466.85000  	WQCZ772 	RM	023 DPL	MtnRng HiSch 	Mountain Range High School 	FM 	Schools 
+461.96250 	   	WPBS637 	BM	116 DPL	ChryDrv Elem 	Cherry Drive Elementary School 	FM 	Schools 
+461.96250 	   	WPBS637 	BM	754 DPL	Centnl Elem 	Centennial Elementary School 	FM 	Schools 
+462.01250 	   	WPBS637 	BM	116 DPL	ArapRdg Elem 	Arapahoe Ridge Elementary School 	FM 	Schools 
+462.16250 	467.16250  	WQVA647 	RM	CC 1TG 50000SL *	Pinnacle Bus 	Pinnacle Charter School Buses 	DMR 	Schools 
+463.31250 	468.31250  	WQFW880 	RM	411 DPL	Thrntn MidSc 	Thornton Middle School 	FM 	Schools 
+463.67500 	468.67500  	WQCZ772 	RM	532 DPL	Hrzn HighSch 	Horizon High School 	FM 	Schools 
+463.68750 	468.68750  	WQFW880 	RM	116 DPL	Westlake MidSc 	Westlake Middle School 	FM 	Schools 
+463.76250 	468.76250  	WRDF215 	RM		Hulstrom Elem 	Hulstrom Elementary School 	FMN 	Schools 
+463.98750 	468.98750  	WQFW880 	RM	116 DPL	SlvrHls Elem 	Silver Hills Elementary School 	FM 	Schools 
+464.06250 	469.06250  	WQFW880 	RM		Stem Launch 	Stem Launch 	FMN 	Schools 
+464.13750 	   	WPBS637 	BM	306 DPL	Crsrds AltSc 	Crossroads Alternative School 	FM 	Schools 
+464.26250 	   	WPBS637 	BM	754 DPL	Cntry MidSch 	Century Middle School 	FM 	Schools 
+464.33750 	   	WPBS637 	BM	754 DPL	Crnado Elem 	Coronado Elementary School 	FM 	Schools 
+464.36250 	   	WPBS637 	BM	116 DPL	McElwn Elem 	McElwain Elementary School 	FM 	Schools 
+464.36250 	   	WPBS637 	BM	186.2 PL	EagleVw Elem 	Eagle View Elementary School 	FM 	Schools 
+464.42500 	   	WPIN579 	BM	754 DPL	LeroyDr Elem 	Leroy Drive Elementary School 	FM 	Schools 
+464.42500 	   	WPIN579 	BM	754 DPL	MallyDr Elem 	Malley Drive Elementary School 	FM 	Schools 
+464.52500 	   	WPIN579 	BM	116 DPL	Meridan Elem 	Meridian Elementary School 	FM 	Schools 
+464.61250 	469.61250  	WQCZ772 	RM	306 DPL	Thrntn HISch 	Thornton High School 	FM 	Schools 
+464.83750 	   	WPBS637 	BM	116 DPL	MtnView Elem 	Mountain View Elementary School 	FM 	Schools 
+464.83750 	   	WPBS637 	BM	306 DPL	Hlcrst Elem 	Hillcrest Elementary School 	FM 	Schools 
+464.83750 	   	WPBS637 	BM	754 DPL	HntrGln Elem 	Hunters Glen Elementary School 	FM 	Schools 
+464.92500 	   	WPIN579 	BM	065 DPL	GlcrPk Elem 	Glacier Peak Elementary School 	FM 	Schools 
+464.92500 	   	WPIN579 	BM	116 DPL	FdrlHts Elem 	Federal Heights Elementary School 	FM 	Schools 
+468.71250 	   	WPBS637 	BM	107.2 PL	DistWd Cust 	District-Wide Custodial 	FM 	Schools 
+463.35000 	468.35000  	WQSI693 	RM	CC 11TG 101SL *	EMS Training 1 	EMS Program Training 1 	DMR 	Schools 
+463.35000 	468.35000  	WQSI693 	RM	CC 11TG 102SL *	EMS Training 2 	EMS Program Training 2 	DMR 	Schools 
+463.35000 	469.35000  	WQFE832 	RM	CC 5TG 111SL *	FRCC Campus Ops 	Campus Operations 	DMRE 	Schools 
+451.16250 	456.16250  	 	RM	CC 14TG 11000SL 1	Mapleton PS 	Mapleton Public Schools 	DMR 	Schools 
+452.17500 	457.17500  	WQZD631 	RM	CC 10TG 100001SL *	Ranum School 	Ranum Middle School 	DMR 	Schools 
+Adams County School District 12 System 1	 DMR Conventional Networked	 Thorton	Adams County School District 12 System 2	 DMR Conventional Networked	 Thorton	American Medical Response	 LTR Standard and Passport	 Various
+American Medical Response (Denver)	 LTR Standard	 Plainview	Aurora	 Project 25 Phase II	 Aurora	Children's Hospital Colorado	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Aurora
+Denver Area Federal / Military	 Motorola Type II SmartZone	 Aurora	Denver Water	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Denver Metro	Denver Water	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Denver
+Dick's Sporting Goods Park	 DMR Motorola Capacity Plus Single Site (TRBO)	 Commerce City	Front Range Communications Consortium (FRCC)	 Project 25 Phase II	 Weld County	Gaylord Rockies Resort and Convention Center	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Aurora
+HCI Communications	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Greeley	ICE Denver Contract Detention Facility	 DMR Motorola Capacity Plus Single Site (TRBO)	 Aurora	Mobile Relay Associates (NEXEDGE)	 NXDN NEXEDGE 4800	 Various
+Mountain  Communications and Electronics (DMR Tier III)	 DMR Tier 3	 North Central CO	Mountain Communications and Electronics	 DMR Motorola Connect Plus (TRBO)	 COS & Denver Metro, I-70 	Platte Valley Medical Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 Brighton
+UCHealth University of Colorado Hospital	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Aurora	United Power Inc	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Brighton	Westminster	 Project 25 Phase II	 Westminster
+Xcel Energy	 Project 25 Phase I	 Various	

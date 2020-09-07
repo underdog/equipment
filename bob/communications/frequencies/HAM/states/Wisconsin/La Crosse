@@ -1,64 +1,64 @@
-155.43000 	WRB610 	RM	203.5 PL	LCSO1 	Sheriff 1 	FMN 	Law Dispatch 
-155.61000 	WRB610 	RM	136.5 PL	LCSO2 	Sheriff 2 	FMN 	Law Talk 
-155.52000 	WRB610 	BM	203.5 PL	LCSOTAC 	Sheriff Car to Car 	FMN 	Law Tac 
-158.76000 	WSB717 	RM	203.5 PL	LCCOORD 	Countywide Coordination 	FMN 	Multi-Talk 
-154.74750 	WPCD578 	RM	136.5 PL	LCJAIL 	Jail 	FMN 	Corrections 
-154.10750 	WPCD578 	RM	136.5 PL	LCCOURT 	Court Officers 	FMN 	Law Talk 
-154.20500 	KCP853 	RM	88.5 PL	LCFIRE 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.58000 	WRB610 	RM	77.0 PL	LCEM 	Emergency Management / Regional Interoperability 	FMN 	Emergency Ops 
-154.98000 	WPSE447 	M	031 DPL	LCEM MCO 	Emergency Management - Mass Casualty Ops 	FMN 	Emergency Ops 
-155.14500 	WPSE447 	M	043 DPL	LCEM EMS Grd 	Emergency Management - EMS Ground 	FMN 	Emergency Ops 
-155.94000 	WPSE447 	M	051 DPL	LCEM EMS Cmd 	Emergency Management - EMS Command 	FMN 	Emergency Ops 
-45.16000 	WSB717 	BM		LCBUS 	Outdoor Siren Activation / Mini-Bus Dispatch 	FM 	Public Works 
-151.02500 	KNBT595 	RM	131.8 PL	LCHWY 	Highways 	FMN 	Public Works 
-154.76250 	WQQE636 	RM	203.5 PL	LCLANDFILL 	Solid Waste Dept 	FMN 	Public Works 
-155.54250 	WPCD578 	RM	136.5 PL	LCMAINT 	Facilities Maintenance Dept 	FMN 	Public Works 
-155.76000 	WPCD578 	RM	82.5 PL	LCPARK 	County Parks 	FMN 	Public Works 
-453.90000 	WPCD578 	RM	205 DPL	LCPAGE 	Paging 	FMN 	Public Works 
-460.37500 	WQEU745 	BM	74.4 PL	LC Fire Link 	Emergency Mgt Mobile Command Post (Fire link) 	FMN 	Fire-Talk 
-460.47500 	WQEU745 	BM	203.5 PL	LC PointLink 	Emergency Mgt Mobile Command Post (Point link) 	FMN 	Law Talk 
-155.34000 	KVT856 	BM	97.4 PL	Gund Luth B 	EMS to La Crosse Hospitals 	FMN 	Hospital 
-159.91500 	WQHX891 	BM		Fran Skemp 	Franciscan Skemp Healthcare Security 	FMN 	Security 
-151.80500 	WQHX891 	BM	88.5 PL	Fran Skemp B 	Franciscan Skemp Healthcare Security, Onalaska 	FMN 	Security 
-155.16000 	KLG490 	BM		Gundersen Page 	Gundersen Health La Crosse - Paging 	Telm 	Data 
-75.42000 	KLG490 	F		Gundersen Link 	Gundersen Health La Crosse - Paging Control Link to Transmitter 	FM 	Data 
-154.32500 	WPZT300 	RM	203.5 PL	TriState Amb 	Tri State Ambulance - EMS Dispatch 	FMN 	EMS Dispatch 
-155.23500 	WPZT300 	BM	97.4 PL	TriState Amb 	Tri State Ambulance - Ground 	FMN 	EMS-Talk 
-155.74500 	KRA762 	BM	203.5 PL	Campbell Tn 	Police / Public Works / Emergency Management 	FMN 	Public Works 
-453.67500 	 	BM	243 DPL	Holland DPW 	DPW 	FMN 	Public Works 
-154.05500 	WNLY690 	BM	103.5 PL	Holmen DPW 	Public Works 	FMN 	Public Works 
-452.52500 	WPMM591 	M	88.5 PL	LC Schools 	Longfellow Middle School 	FMN 	Schools 
-855.21250 	WPCJ395 	RM	100.0 PL	La Crosse BU 	Trunked Radio System Failsafe / Paging 	FM 	Multi-Talk 
-118.45000 	 	B	CSQ	TWR/CTAF 	TWR/CTAF 	AM 	Aircraft 
-121.80000 	 	B	CSQ	GND Con 	GND Con 	AM 	Aircraft 
-122.20000 	 	B	CSQ	FSS 	FSS 	AM 	Aircraft 
-122.95000 	 	B	CSQ	Unicom 	Unicom 	AM 	Aircraft 
-124.95000 	 	B	CSQ	ATIS 	ATIS 	AM 	Aircraft 
-128.60000 	 	B	CSQ	App/Dep 	App/Dep 	AM 	Aircraft 
-172.15000 	 	M		TSA 	TSA 	P25 	Federal 
-155.82000 	WPQY796 	M		Omni Center 	Omni Center 	FMN 	Public Works 
-155.88000 	WNXK646 	RM	203.5 PL	Onalaska 	Fire / Public Works 	FMN 	Public Works 
-154.05500 	WNZQ860 	BM		Tn Onala DPW 	DPW 	FMN 	Public Works 
-154.05500 	WQBC802 	BM	203.5 PL	West Salem 	Public Works 	FMN 	Public Works 
-155.26500 	WYC721 	BM		WSEMS 	EMS 	FMN 	EMS-Talk 
-154.88250 	KSK978 	RM	210.7 PL	UWLC PD 	Police 1 	FMN 	Law Dispatch 
-154.08500 	KSK978 	BM		UWLC PD 	Police 2 	FMN 	Law Talk 
-153.26000 	WPGJ838 	RM		UWLC Ath Dep 	Atlhetic Department 	FMN 	Schools 
-153.35000 	WPGJ838 	M	173.8 PL	UWLC REC 	Recreational Eagle Center 	FMN 	Schools 
-160.05000 	WPGJ838 	M		UWLC Ath Dep 	Atlhetic Department 	FMN 	Schools 
-151.74500 	WPGJ838 	RM		UWLC Ath Dep 	Atlhetic Department 	FMN 	Schools 
-461.47500 	WPGF976 	RM		UWLC Athleti 	Athletic Training Program 	FMN 	Schools 
-464.77500 	WQKT988 	M		UWLC Ops 	Ops 	FMN 	Schools 
-464.42500 	WQKT988 	RM		UWLC Ops 	Ops 	FMN 	Schools 
-452.40000 	WPRT816 	M		UWLC Ops 	Ops 	FMN 	Schools 
-451.38750 	WQTD437 	M		Sodexo 	Sodexo Dining Services 	FMN 	Schools 
-451.43750 	WQTD437 	M		Sodexo 	Sodexo Dining Services 	FMN 	Schools 
-451.48750 	WQTD437 	M		Sodexo 	Sodexo Dining Services 	FMN 	Schools 
-451.53750 	WQTD437 	M		Sodexo 	Sodexo Dining Services 	FMN 	Schools 
-451.58750 	WQTD437 	M		Sodexo 	Sodexo Dining Services 	FMN 	Schools 
-464.87500 	WNRL769 	RM	114 DPL	Ops 	Ops 	FMN 	Schools 
-462.42500 	WPYN362 	RM		WTC Ops 	Western Technical College 	FMN 	Schools 
-452.60000 	WPMW205 	M		WTC Ops 	Western Technical College 	FMN 	Schools 
-Alliant Energy	 DMR Tier 3	 Various	Croell Redi-Mix	 NXDN Conventional Networked	 Various	Dairyland Power Cooperative	 DMR Tier 3
- Various	Gundersen Health System	 DMR Conventional Networked	 La Crosse	La Crosse Municipal Airport	 iDEN Standard	 La Crosse	La Crosse Public Safety
- Project 25 Phase I	 La Crosse	Vital Communications	 DMR Hytera XPT	 Various	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I	 Statewide
+155.43000 	155.85000  	WRB610 	RM	203.5 PL	LCSO1 	Sheriff 1 	FMN 	Law Dispatch 
+155.61000 	154.71000  	WRB610 	RM	136.5 PL	LCSO2 	Sheriff 2 	FMN 	Law Talk 
+155.52000 	   	WRB610 	BM	203.5 PL	LCSOTAC 	Sheriff Car to Car 	FMN 	Law Tac 
+158.76000 	153.99500  	WSB717 	RM	203.5 PL	LCCOORD 	Countywide Coordination 	FMN 	Multi-Talk 
+154.74750 	159.09750  	WPCD578 	RM	136.5 PL	LCJAIL 	Jail 	FMN 	Corrections 
+154.10750 	159.21750  	WPCD578 	RM	136.5 PL	LCCOURT 	Court Officers 	FMN 	Law Talk 
+154.20500 	156.04500  	KCP853 	RM	88.5 PL	LCFIRE 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.58000 	154.83000  	WRB610 	RM	77.0 PL	LCEM 	Emergency Management / Regional Interoperability 	FMN 	Emergency Ops 
+154.98000 	   	WPSE447 	M	031 DPL	LCEM MCO 	Emergency Management - Mass Casualty Ops 	FMN 	Emergency Ops 
+155.14500 	   	WPSE447 	M	043 DPL	LCEM EMS Grd 	Emergency Management - EMS Ground 	FMN 	Emergency Ops 
+155.94000 	   	WPSE447 	M	051 DPL	LCEM EMS Cmd 	Emergency Management - EMS Command 	FMN 	Emergency Ops 
+45.16000 	   	WSB717 	BM		LCBUS 	Outdoor Siren Activation / Mini-Bus Dispatch 	FM 	Public Works 
+151.02500 	159.00000  	KNBT595 	RM	131.8 PL	LCHWY 	Highways 	FMN 	Public Works 
+154.76250 	158.78250  	WQQE636 	RM	203.5 PL	LCLANDFILL 	Solid Waste Dept 	FMN 	Public Works 
+155.54250 	159.18750  	WPCD578 	RM	136.5 PL	LCMAINT 	Facilities Maintenance Dept 	FMN 	Public Works 
+155.76000 	153.80000  	WPCD578 	RM	82.5 PL	LCPARK 	County Parks 	FMN 	Public Works 
+453.90000 	458.90000  	WPCD578 	RM	205 DPL	LCPAGE 	Paging 	FMN 	Public Works 
+460.37500 	   	WQEU745 	BM	74.4 PL	LC Fire Link 	Emergency Mgt Mobile Command Post (Fire link) 	FMN 	Fire-Talk 
+460.47500 	   	WQEU745 	BM	203.5 PL	LC PointLink 	Emergency Mgt Mobile Command Post (Point link) 	FMN 	Law Talk 
+155.34000 	   	KVT856 	BM	97.4 PL	Gund Luth B 	EMS to La Crosse Hospitals 	FMN 	Hospital 
+159.91500 	   	WQHX891 	BM		Fran Skemp 	Franciscan Skemp Healthcare Security 	FMN 	Security 
+151.80500 	   	WQHX891 	BM	88.5 PL	Fran Skemp B 	Franciscan Skemp Healthcare Security, Onalaska 	FMN 	Security 
+155.16000 	   	KLG490 	BM		Gundersen Page 	Gundersen Health La Crosse - Paging 	Telm 	Data 
+75.42000 	   	KLG490 	F		Gundersen Link 	Gundersen Health La Crosse - Paging Control Link to Transmitter 	FM 	Data 
+154.32500 	150.80500  	WPZT300 	RM	203.5 PL	TriState Amb 	Tri State Ambulance - EMS Dispatch 	FMN 	EMS Dispatch 
+155.23500 	   	WPZT300 	BM	97.4 PL	TriState Amb 	Tri State Ambulance - Ground 	FMN 	EMS-Talk 
+155.74500 	   	KRA762 	BM	203.5 PL	Campbell Tn 	Police / Public Works / Emergency Management 	FMN 	Public Works 
+453.67500 	458.67500  	 	BM	243 DPL	Holland DPW 	DPW 	FMN 	Public Works 
+154.05500 	   	WNLY690 	BM	103.5 PL	Holmen DPW 	Public Works 	FMN 	Public Works 
+452.52500 	   	WPMM591 	M	88.5 PL	LC Schools 	Longfellow Middle School 	FMN 	Schools 
+855.21250 	810.21250  	WPCJ395 	RM	100.0 PL	La Crosse BU 	Trunked Radio System Failsafe / Paging 	FM 	Multi-Talk 
+118.45000 	   	 	B	CSQ	TWR/CTAF 	TWR/CTAF 	AM 	Aircraft 
+121.80000 	   	 	B	CSQ	GND Con 	GND Con 	AM 	Aircraft 
+122.20000 	   	 	B	CSQ	FSS 	FSS 	AM 	Aircraft 
+122.95000 	   	 	B	CSQ	Unicom 	Unicom 	AM 	Aircraft 
+124.95000 	   	 	B	CSQ	ATIS 	ATIS 	AM 	Aircraft 
+128.60000 	   	 	B	CSQ	App/Dep 	App/Dep 	AM 	Aircraft 
+172.15000 	   	 	M		TSA 	TSA 	P25 	Federal 
+155.82000 	   	WPQY796 	M		Omni Center 	Omni Center 	FMN 	Public Works 
+155.88000 	   	WNXK646 	RM	203.5 PL	Onalaska 	Fire / Public Works 	FMN 	Public Works 
+154.05500 	   	WNZQ860 	BM		Tn Onala DPW 	DPW 	FMN 	Public Works 
+154.05500 	   	WQBC802 	BM	203.5 PL	West Salem 	Public Works 	FMN 	Public Works 
+155.26500 	   	WYC721 	BM		WSEMS 	EMS 	FMN 	EMS-Talk 
+154.88250 	156.01500  	KSK978 	RM	210.7 PL	UWLC PD 	Police 1 	FMN 	Law Dispatch 
+154.08500 	   	KSK978 	BM		UWLC PD 	Police 2 	FMN 	Law Talk 
+153.26000 	158.37000  	WPGJ838 	RM		UWLC Ath Dep 	Atlhetic Department 	FMN 	Schools 
+153.35000 	158.28750  	WPGJ838 	M	173.8 PL	UWLC REC 	Recreational Eagle Center 	FMN 	Schools 
+160.05000 	   	WPGJ838 	M		UWLC Ath Dep 	Atlhetic Department 	FMN 	Schools 
+151.74500 	   	WPGJ838 	RM		UWLC Ath Dep 	Atlhetic Department 	FMN 	Schools 
+461.47500 	466.47500  	WPGF976 	RM		UWLC Athleti 	Athletic Training Program 	FMN 	Schools 
+464.77500 	469.77500  	WQKT988 	M		UWLC Ops 	Ops 	FMN 	Schools 
+464.42500 	   	WQKT988 	RM		UWLC Ops 	Ops 	FMN 	Schools 
+452.40000 	457.40000  	WPRT816 	M		UWLC Ops 	Ops 	FMN 	Schools 
+451.38750 	   	WQTD437 	M		Sodexo 	Sodexo Dining Services 	FMN 	Schools 
+451.43750 	   	WQTD437 	M		Sodexo 	Sodexo Dining Services 	FMN 	Schools 
+451.48750 	   	WQTD437 	M		Sodexo 	Sodexo Dining Services 	FMN 	Schools 
+451.53750 	   	WQTD437 	M		Sodexo 	Sodexo Dining Services 	FMN 	Schools 
+451.58750 	   	WQTD437 	M		Sodexo 	Sodexo Dining Services 	FMN 	Schools 
+464.87500 	469.87500  	WNRL769 	RM	114 DPL	Ops 	Ops 	FMN 	Schools 
+462.42500 	467.42500  	WPYN362 	RM		WTC Ops 	Western Technical College 	FMN 	Schools 
+452.60000 	   	WPMW205 	M		WTC Ops 	Western Technical College 	FMN 	Schools 
+Alliant Energy	 DMR Tier 3	 Various	Croell Redi-Mix	 NXDN Conventional Networked	 Various	Dairyland Power Cooperative	 DMR Tier 3	 Various
+Gundersen Health System	 DMR Conventional Networked	 La Crosse	La Crosse Municipal Airport	 iDEN Standard	 La Crosse	La Crosse Public Safety	 Project 25 Phase I	 La Crosse
+Vital Communications	 DMR Hytera XPT	 Various	

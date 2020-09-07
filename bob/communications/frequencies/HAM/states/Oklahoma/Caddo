@@ -1,33 +1,33 @@
-155.64000 	KKI610 	RM	127.3 PL	Caddo Co Sheriff 	Sheriff Dispatch 	FMN 	Law Dispatch 
-154.29500 	WQIP523 	RM	165 DPL	Caddo Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.73000 	WQIP523 	RM	465 DPL	Caddo Co EM 	Emergency Management 	FMN 	Emergency Ops 
-453.23750 	WQIP523 	RM	77.0 PL	Caddo Co EM UHF 	Emergency Management 	FMN 	Emergency Ops 
-153.95000 	WQOW912 	BM	606 DPL	Caddo Co Jail 	County Jail 	FMN 	Corrections 
-151.29500 	WNGP485 	RM	103.5 PL	Caddo Co Roads 1 	Highway Maintenance -- Lookeba District 1 	FMN 	Public Works 
-158.74500 	WNGP485 	RM	103.5 PL	Caddo Co Roads 2 	Highway Maintenance -- Anadarko District 2 	FMN 	Public Works 
-159.13500 	WNGP485 	RM	103.5 PL	Caddo Co Roads 3 	Highway Maintenance -- Carnegie District 3 	FMN 	Public Works 
-155.07000 	KKC907 	RM	123.0 PL	Anadarko Police 	Police Dispatch 	FMN 	Law Dispatch 
-154.43000 	KDN923 	RM	411 DPL	Anadarko Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.83500 	KDN923 	RM	172 DPL	Anadarko Fire 	Fire 	FMN 	Fire Dispatch 
-155.34000 	WNHT325 	BM	94.8 PL	Anadarko EMS 	EMS Dispatch 	FMN 	EMS-Tac 
-155.86500 	WQN749 	RM		Anadarko Streets 	Street Maintenance 	FMN 	Public Works 
-168.35000 	 	RM	116 DPL	Rivrside School 	Riverside Indian School 	FM 	Schools 
-158.83500 	WNXN533 	BM		Apache Police 	Police Dispatch 	FMN 	Law Dispatch 
-155.28000 	KB63403 	BM		Apache EMS 	Ambulance Dispatch 	FMN 	EMS Dispatch 
-152.42000 	WQDF682 	RM	413 DPL	Boone/ApacheSchl 	Boone-Apache Schools -- School Buses 	FMN 	Schools 
-151.07000 	KTI662 	RM	77.0 PL	Carnegie Police 	Police and Fire Dispatch 	FMN 	Law Dispatch 
-153.79250 	WQSE893 	RM	411 DPL	Carnegie EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
-155.22000 	WQBW598 	BM	411 DPL	Carnegie Hosptal 	Tri-County Hospital 	FMN 	Hospital 
-155.92500 	WQJ326 	BM	CSQ	Carnegie EM 	Emergency Management 	FMN 	Emergency Ops 
-155.26500 	WQTV742 	RM	411 DPL	Cement Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-451.40000 	WPUR355 	BM		Cement School 	Cement Schools 	FM 	Schools 
-154.20500 	WQAZ290 	RM	131.8 PL	Cyril Fire 	Fire and EMS Dispatch 	FMN 	Fire Dispatch 
-154.31000 	WQBC794 	BM		Gracemont Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-156.16500 	WQTP715 	RM	156 DPL	Hydro Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.74000 	WPUS806 	RM	151.4 PL	Caddo Tribal PD 	Tribal Police Dispatch 	FMN 	Law Dispatch 
-151.46000 	 	RM	023 DPL	Hinton Prisn 	Prison Security (Ch 1) 	FM 	Corrections 
-154.05500 	WPAN996 	RM	71.9 PL	Prison Maint 	Prison Maintenance (Ch 2) 	FM 	Corrections 
-451.05000 	KNAA629 	RM	114.8 PL	Ft Cobb Resrvoir 	Reservoir Operations 	FMN 	Public Works 
-151.85000 	 	BM	CC 1TG *SL 1	Fire Corps 1 	Fire Corps Dispatch 	DMR 	Fire-Talk 
-152.97500 	 	BM		Fire Corps 2 	Fire Corps Car-to-Car 	FMN 	Fire-Talk 
-American Electric Power (AEP)	 EDACS Networked Standard	 Various	Chickasaw Personal Communications	 DMR Motorola Connect Plus (TRBO)	 Oklahoma	
+155.64000 	154.89000  	KKI610 	RM	127.3 PL	Caddo Co Sheriff 	Sheriff Dispatch 	FMN 	Law Dispatch 
+154.29500 	158.98500  	WQIP523 	RM	165 DPL	Caddo Co Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.73000 	153.89000  	WQIP523 	RM	465 DPL	Caddo Co EM 	Emergency Management 	FMN 	Emergency Ops 
+453.23750 	458.23750  	WQIP523 	RM	77.0 PL	Caddo Co EM UHF 	Emergency Management 	FMN 	Emergency Ops 
+153.95000 	   	WQOW912 	BM	606 DPL	Caddo Co Jail 	County Jail 	FMN 	Corrections 
+151.29500 	159.07500  	WNGP485 	RM	103.5 PL	Caddo Co Roads 1 	Highway Maintenance -- Lookeba District 1 	FMN 	Public Works 
+158.74500 	155.11500  	WNGP485 	RM	103.5 PL	Caddo Co Roads 2 	Highway Maintenance -- Anadarko District 2 	FMN 	Public Works 
+159.13500 	156.07500  	WNGP485 	RM	103.5 PL	Caddo Co Roads 3 	Highway Maintenance -- Carnegie District 3 	FMN 	Public Works 
+155.07000 	158.91000  	KKC907 	RM	123.0 PL	Anadarko Police 	Police Dispatch 	FMN 	Law Dispatch 
+154.43000 	153.83000  	KDN923 	RM	411 DPL	Anadarko Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.83500 	150.80500  	KDN923 	RM	172 DPL	Anadarko Fire 	Fire 	FMN 	Fire Dispatch 
+155.34000 	   	WNHT325 	BM	94.8 PL	Anadarko EMS 	EMS Dispatch 	FMN 	EMS-Tac 
+155.86500 	159.21000  	WQN749 	RM		Anadarko Streets 	Street Maintenance 	FMN 	Public Works 
+168.35000 	   	 	RM	116 DPL	Rivrside School 	Riverside Indian School 	FM 	Schools 
+158.83500 	   	WNXN533 	BM		Apache Police 	Police Dispatch 	FMN 	Law Dispatch 
+155.28000 	   	KB63403 	BM		Apache EMS 	Ambulance Dispatch 	FMN 	EMS Dispatch 
+152.42000 	157.68000  	WQDF682 	RM	413 DPL	Boone/ApacheSchl 	Boone-Apache Schools -- School Buses 	FMN 	Schools 
+151.07000 	155.37000  	KTI662 	RM	77.0 PL	Carnegie Police 	Police and Fire Dispatch 	FMN 	Law Dispatch 
+153.79250 	159.22500  	WQSE893 	RM	411 DPL	Carnegie EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+155.22000 	   	WQBW598 	BM	411 DPL	Carnegie Hosptal 	Tri-County Hospital 	FMN 	Hospital 
+155.92500 	   	WQJ326 	BM	CSQ	Carnegie EM 	Emergency Management 	FMN 	Emergency Ops 
+155.26500 	153.86000  	WQTV742 	RM	411 DPL	Cement Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+451.40000 	   	WPUR355 	BM		Cement School 	Cement Schools 	FM 	Schools 
+154.20500 	151.40000  	WQAZ290 	RM	131.8 PL	Cyril Fire 	Fire and EMS Dispatch 	FMN 	Fire Dispatch 
+154.31000 	   	WQBC794 	BM		Gracemont Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+156.16500 	154.14500  	WQTP715 	RM	156 DPL	Hydro Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.74000 	155.43000  	WPUS806 	RM	151.4 PL	Caddo Tribal PD 	Tribal Police Dispatch 	FMN 	Law Dispatch 
+151.46000 	   	 	RM	023 DPL	Hinton Prisn 	Prison Security (Ch 1) 	FM 	Corrections 
+154.05500 	155.68500  	WPAN996 	RM	71.9 PL	Prison Maint 	Prison Maintenance (Ch 2) 	FM 	Corrections 
+451.05000 	456.05000  	KNAA629 	RM	114.8 PL	Ft Cobb Resrvoir 	Reservoir Operations 	FMN 	Public Works 
+151.85000 	   	 	BM	CC 1TG *SL 1	Fire Corps 1 	Fire Corps Dispatch 	DMR 	Fire-Talk 
+152.97500 	   	 	BM		Fire Corps 2 	Fire Corps Car-to-Car 	FMN 	Fire-Talk 
+American Electric Power (AEP)	 EDACS Networked Standard	 Various	Chickasaw Personal Communications	 DMR Motorola Connect Plus (TRBO)	 Oklahoma	Oklahoma Wireless Interoperability Network (OKWIN) (P25)	 Project 25 Phase I	 Various

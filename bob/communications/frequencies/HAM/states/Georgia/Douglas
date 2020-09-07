@@ -1,33 +1,33 @@
-156.16500 	WNNU819 	RM	118.8 PL	DCSO Disp 	OLD Sheriff Dispatch 	FMN 	Law Dispatch 
-155.52000 	KTO540 	BM	118.8 PL	DCSO TAC 2 	OLD Sheriff Alternate 	FMN 	Law Tac 
-156.00000 	WNNU819 	M		DCSO SID 	OLD Sheriff SID 	FMN 	Law Tac 
-155.64000 	 	RM		DCSO Jail 1 	Sheriff Jail Operations 	FMN 	Corrections 
-460.05000 	WQPY808 	RM		DCSO Jail U1 	Sheriff Jail Operations 	NXDN 	Corrections 
-460.25000 	WQPY808 	RM		DCSO Jail U2 	Sheriff Jail Operations 	NXDN 	Corrections 
-857.26250 	WQDF790 	RM		DCSO Jail 2 	Sheriff Jail Operations (inside building, low power) 	FMN 	Corrections 
-460.46250 	 	RM		DCSO OPS 	Sheriff Special Operations 	FMN 	Law Tac 
-155.52000 	KNIR934 	BM	192.8 PL	DCFD Disp 	Fire Dispatch (Simulcast from TRS) 	FMN 	Fire Dispatch 
-154.07000 	WPDV507 	M	103.5 PL	DCFD FG1 	Fireground 1 	FMN 	Fire-Tac 
-154.22000 	WPDV507 	M	103.5 PL	DCFD FG2 	Fireground 2 	FMN 	Fire-Tac 
-152.69750 	 	RM	71.9 PL	Animal Cntl 	Animal Control 	FMN 	Public Works 
-45.44000 	 	RM		DCDOT Roads1 	Department of Transportation - Roads 1  NOT LICENSED 	FMN 	Public Works 
-45.52000 	KGR368 	BM		DCDOT Roads2 	Department of Transportation - Roads 2 	FMN 	Public Works 
-155.55000 	WQBS527 	RM		Interop 	Interop to Douglasville/Cobb DTRS 	FMN 	Interop 
-453.97500 	KNIZ317 	RM		H20 & Sewer 	Water and Sewer 	FMN 	Data 
-453.01250 	WQNL875 	RM		Lithia Spgs  	Board of Education - Lithia Springs High School 	DMR 	Schools 
-461.10000 	WNQW962 	RM		DCBOE 1000 	Board of Education 	FMN 	Schools 
-461.20000 	WNQW962 	RM		DCBOE 2000 	Board of Education 	FMN 	Schools 
-461.20000 	WNQW962 	RM	91.5 PL	DCBOE Bus 1 	Board of Education - School Buses 	FMN 	Schools 
-461.27500 	WQNM624 	RM		Mirror Lake  	Board of Education - Mirror Lake Elementary School 	DMR 	Schools 
-461.35000 	WQNM246 	RM		DCBOE Buses 	Board of Education - School Buses 	FMN 	Schools 
-461.56250 	WQNL872 	RM		Chapel Hill  	Board of Education - Chapel Hill High School 	DMR 	Schools 
-461.78750 	WQNL876  	RM		Fairplay MS 	Board of Education - Fairplay Middle School 	DMR 	Schools 
-462.42500 	WNQW962 	RM		DCBOE Bus 2 	Board of Education - School Buses 	FMN 	Schools 
-463.30000 	WPIS564 	BM		DCBOE 3000 	Board of Education 	FMN 	Schools 
-463.66250 	WQNL871 	RM		Alexander HS 	Board of Education - Alexander High School 	DMR 	Schools 
-464.83750 	WQNL874  	RM		Douglas HS 	Board of Education - Douglas County High School 	DMR 	Schools 
-155.52000 	KNIR934  	BM		DPD 5200 	OLD Police 	FMN 	Law Talk 
-453.88750 	WQDL727 	BM		D Loc Gov 	Local Government 	FMN 	Other 
-458.88750 	WQDL727 	BM		D Loc Gov 	Local Government 	FMN 	Other 
-Cobb Regional Radio System	 Project 25 Phase II	 Various	Douglas County Board of Education DMR	 DMR Motorola Connect Plus (TRBO)	 Douglasville	Douglas County Public Safety DMR	 DMR Motorola Connect Plus (TRBO)
- Douglasville	Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800	 Various	Greystone Power LTR	 LTR Standard and Passport	 Dallas	
+156.16500 	159.06000  	WNNU819 	RM	118.8 PL	DCSO Disp 	OLD Sheriff Dispatch 	FMN 	Law Dispatch 
+155.52000 	   	KTO540 	BM	118.8 PL	DCSO TAC 2 	OLD Sheriff Alternate 	FMN 	Law Tac 
+156.00000 	   	WNNU819 	M		DCSO SID 	OLD Sheriff SID 	FMN 	Law Tac 
+155.64000 	   	 	RM		DCSO Jail 1 	Sheriff Jail Operations 	FMN 	Corrections 
+460.05000 	465.05000  	WQPY808 	RM		DCSO Jail U1 	Sheriff Jail Operations 	NXDN 	Corrections 
+460.25000 	465.25000  	WQPY808 	RM		DCSO Jail U2 	Sheriff Jail Operations 	NXDN 	Corrections 
+857.26250 	812.26250  	WQDF790 	RM		DCSO Jail 2 	Sheriff Jail Operations (inside building, low power) 	FMN 	Corrections 
+460.46250 	   	 	RM		DCSO OPS 	Sheriff Special Operations 	FMN 	Law Tac 
+155.52000 	   	KNIR934 	BM	192.8 PL	DCFD Disp 	Fire Dispatch (Simulcast from TRS) 	FMN 	Fire Dispatch 
+154.07000 	   	WPDV507 	M	103.5 PL	DCFD FG1 	Fireground 1 	FMN 	Fire-Tac 
+154.22000 	   	WPDV507 	M	103.5 PL	DCFD FG2 	Fireground 2 	FMN 	Fire-Tac 
+152.69750 	   	 	RM	71.9 PL	Animal Cntl 	Animal Control 	FMN 	Public Works 
+45.44000 	   	 	RM		DCDOT Roads1 	Department of Transportation - Roads 1  NOT LICENSED 	FMN 	Public Works 
+45.52000 	   	KGR368 	BM		DCDOT Roads2 	Department of Transportation - Roads 2 	FMN 	Public Works 
+155.55000 	150.79000  	WQBS527 	RM		Interop 	Interop to Douglasville/Cobb DTRS 	FMN 	Interop 
+453.97500 	458.97500  	KNIZ317 	RM		H20 & Sewer 	Water and Sewer 	FMN 	Data 
+453.01250 	458.01250  	WQNL875 	RM		Lithia Spgs  	Board of Education - Lithia Springs High School 	DMR 	Schools 
+461.10000 	466.10000  	WNQW962 	RM		DCBOE 1000 	Board of Education 	FMN 	Schools 
+461.20000 	466.20000  	WNQW962 	RM		DCBOE 2000 	Board of Education 	FMN 	Schools 
+461.20000 	466.20000  	WNQW962 	RM	91.5 PL	DCBOE Bus 1 	Board of Education - School Buses 	FMN 	Schools 
+461.27500 	466.27500  	WQNM624 	RM		Mirror Lake  	Board of Education - Mirror Lake Elementary School 	DMR 	Schools 
+461.35000 	466.35000  	WQNM246 	RM		DCBOE Buses 	Board of Education - School Buses 	FMN 	Schools 
+461.56250 	466.56250  	WQNL872 	RM		Chapel Hill  	Board of Education - Chapel Hill High School 	DMR 	Schools 
+461.78750 	466.78750  	WQNL876  	RM		Fairplay MS 	Board of Education - Fairplay Middle School 	DMR 	Schools 
+462.42500 	467.42500  	WNQW962 	RM		DCBOE Bus 2 	Board of Education - School Buses 	FMN 	Schools 
+463.30000 	   	WPIS564 	BM		DCBOE 3000 	Board of Education 	FMN 	Schools 
+463.66250 	468.66250  	WQNL871 	RM		Alexander HS 	Board of Education - Alexander High School 	DMR 	Schools 
+464.83750 	469.83750  	WQNL874  	RM		Douglas HS 	Board of Education - Douglas County High School 	DMR 	Schools 
+155.52000 	   	KNIR934  	BM		DPD 5200 	OLD Police 	FMN 	Law Talk 
+453.88750 	   	WQDL727 	BM		D Loc Gov 	Local Government 	FMN 	Other 
+458.88750 	   	WQDL727 	BM		D Loc Gov 	Local Government 	FMN 	Other 
+Cobb Regional Radio System	 Project 25 Phase II	 Various	Douglas County Board of Education DMR	 DMR Motorola Connect Plus (TRBO)	 Douglasville	Douglas County Public Safety DMR	 DMR Motorola Connect Plus (TRBO)	 Douglasville
+Georgia Fleet Talk (NXDN)	 NXDN NEXEDGE 4800	 Various	Greystone Power LTR	 LTR Standard and Passport	 Dallas	

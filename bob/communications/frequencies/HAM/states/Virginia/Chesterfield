@@ -1,22 +1,21 @@
-154.16000 	WNUF571 	B	CSQ	Fire/ResDisp 	Fire / Rescue Dispatch (simulcast from TRS) 	FM 	Fire Dispatch 
-852.63750 	WQLE266 	M	293 NAC	ChstrfldT/A1 FD  	Talkaround 1 (Fire) 	P25 	Fire-Talk 
-851.18750 	WQLE266 	M	293 NAC	ChstrfldT/A2 PD 	Talkaround 2 (Police) 	P25 	Law Talk 
-852.48750 	WNMB967 	RM	074 DPL	ChstrfldJail 	Jail 	FM 	Law Talk 
-155.70000 	WPDD333 	RM	203.5 PL	CCSchBus1/4 	School Buses - Areas 1 and 4 Central 	FMN 	Schools 
-155.56500 	WPDD333 	RM	203.5 PL	CCSchBus2/3 	School Buses - Areas 2 and 3 North 	FMN 	Schools 
-154.05500 	WPDD333 	RM	203.5 PL	CCSchBus5 	School Buses - Area 5 South 	FMN 	Schools 
-151.98500 	WQDJ914 	RM	143 DPL	Dale High 	Thomas Dale High School 	FM 	Schools 
-152.94500 	WQDJ771 	RM	071 DPL	ChstrfieldSh 	Chesterfield Tech Center 	FM 	Schools 
-152.96000 	WQDJ772 	RM	026 DPL	Matoaca High 	Matoaca High School 	FM 	Schools 
-152.96000 	WQJQ644 	RM	043 DPL	Falling Creek MS 	Falling Creek Middle School 	FMN 	Schools 
-152.96000 	WQJT839 	RM	245 DPL	Robious MS 	Robious Middle School 	FMN 	Schools 
-153.14000 	WQDJ778 	RM	073 DPL	MHS  	Meadowbrook High School 	FM 	Schools 
-153.68000 	WPPY873 	RM	411 DPL	BirdHighSchl 	Bird High School 	FM 	Schools 
-461.72500 	WPWX944 	RM	110.9 PL	MedwbrokHigh 	Meadowbrook High School 	FM 	Schools 
-462.42500 	KD48723 	RM	051 DPL	Th.Dale High 	Thomas Dale High School 	FM 	Schools 
-47.42000 	WQGP307 	BM	146.2 PL	RedCross VHF 	Operations 	FM 	Emergency Ops 
-47.62000 	KNJU674 	BM	146.2 PL	RedCross VHF 	Operations Secondary 	FM 	Emergency Ops 
-407.13750 	 	RM	482 NAC	Postal Insp 	Postal Inspectors 	P25 	Federal 
-Commtronics (Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Midlothian	Commtronics (Midlothian)	 LTR Standard	 Midlothian	Defense Logistics Agency	 Project 25 Phase I
- Various	Radio Communications of Virginia (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	Richmond / Henrico / Chesterfield	 Motorola Type II SmartZone	 Various	Richmond Area Hospitals
- DMR Conventional Networked	 Various	
+154.16000 	   	WNUF571 	B	CSQ	Fire/ResDisp 	Fire / Rescue Dispatch (simulcast from TRS) 	FM 	Fire Dispatch 
+852.63750 	   	WQLE266 	M	293 NAC	ChstrfldT/A1 FD  	Talkaround 1 (Fire) 	P25 	Fire-Talk 
+851.18750 	   	WQLE266 	M	293 NAC	ChstrfldT/A2 PD 	Talkaround 2 (Police) 	P25 	Law Talk 
+852.48750 	807.48750  	WNMB967 	RM	074 DPL	ChstrfldJail 	Jail 	FM 	Law Talk 
+155.70000 	153.81500  	WPDD333 	RM	203.5 PL	CCSchBus1/4 	School Buses - Areas 1 and 4 Central 	FMN 	Schools 
+155.56500 	153.92000  	WPDD333 	RM	203.5 PL	CCSchBus2/3 	School Buses - Areas 2 and 3 North 	FMN 	Schools 
+154.05500 	   	WPDD333 	RM	203.5 PL	CCSchBus5 	School Buses - Area 5 South 	FMN 	Schools 
+151.98500 	160.05000  	WQDJ914 	RM	143 DPL	Dale High 	Thomas Dale High School 	FM 	Schools 
+152.94500 	159.88500  	WQDJ771 	RM	071 DPL	ChstrfieldSh 	Chesterfield Tech Center 	FM 	Schools 
+152.96000 	159.72000  	WQDJ772 	RM	026 DPL	Matoaca High 	Matoaca High School 	FM 	Schools 
+152.96000 	   	WQJQ644 	RM	043 DPL	Falling Creek MS 	Falling Creek Middle School 	FMN 	Schools 
+152.96000 	   	WQJT839 	RM	245 DPL	Robious MS 	Robious Middle School 	FMN 	Schools 
+153.14000 	159.61500  	WQDJ778 	RM	073 DPL	MHS  	Meadowbrook High School 	FM 	Schools 
+153.68000 	159.66000  	WPPY873 	RM	411 DPL	BirdHighSchl 	Bird High School 	FM 	Schools 
+461.72500 	466.72500  	WPWX944 	RM	110.9 PL	MedwbrokHigh 	Meadowbrook High School 	FM 	Schools 
+462.42500 	467.42500  	KD48723 	RM	051 DPL	Th.Dale High 	Thomas Dale High School 	FM 	Schools 
+47.42000 	   	WQGP307 	BM	146.2 PL	RedCross VHF 	Operations 	FM 	Emergency Ops 
+47.62000 	   	KNJU674 	BM	146.2 PL	RedCross VHF 	Operations Secondary 	FM 	Emergency Ops 
+407.13750 	416.13750  	 	RM	482 NAC	Postal Insp 	Postal Inspectors 	P25 	Federal 
+Commtronics (Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Midlothian	Commtronics (Midlothian)	 LTR Standard	 Midlothian	Defense Logistics Agency	 Project 25 Phase I	 Various
+Radio Communications of Virginia (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	Richmond / Henrico / Chesterfield	 Motorola Type II SmartZone	 Various	Richmond Area Hospitals	 DMR Conventional Networked	 Various

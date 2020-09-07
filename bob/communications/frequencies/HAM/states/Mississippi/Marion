@@ -1,28 +1,27 @@
-151.12250 	WQVB477 	RM		MC E-911 1 	Marion County E-911 (Sheriff/Fire/EMA) 1 	DMR 	Emergency Ops 
-154.86000 	WQVB477 	RM		MC E-911 2 	Marion County E-911 (Sheriff/Fire/EMA) 2 	DMR 	Emergency Ops 
-155.64000 	WQVB477 	RM		MC E-911 3 	Marion County E-911 (Sheriff/Fire/EMA) 3 	DMR 	Emergency Ops 
-155.60250 	KKT500 	RM		MCSO-D1 	Sheriff Digital Dispatch (OLD) 	DMR 	Law Dispatch 
-155.60250 	KKT500 	RM	173.8 PL	MCSO-A1 	Sheriff Analog Dispatch (OLD) 	FMN 	Law Dispatch 
-155.82000 	KKT500 	RM		MCSO-D2 	Sheriff Digital Secondary (OLD) 	DMR 	Law Tac 
-155.82000 	KKT500 	RM	173.8 PL	MCSO-A2 	Sheriff  Analog Secondary (OLD) 	FMN 	Law Tac 
-158.85000 	KKT500 	RM		MCSO-D3 	Sheriff Digital Tertiary (OLD) 	DMR 	Law Tac 
-158.85000 	KKT500 	RM	173.8 PL	MCSO-A3 	Sheriff Analog Tertiary (OLD) 	FMN 	Law Tac 
-154.38500 	WZW998 	RM	151.4 PL	TriComm VFD 	Tri-Community VFD 	FMN 	Fire Dispatch 
-150.77500 	WZW998 	M	151.4 PL	TriCommFDExt 	Tri- Community VFD Mobile Extenders 	FMN 	Fire-Tac 
-151.04750 	WQDD282 	RM		SWMarion FD1 	Southwest Marion VFD 	FMN 	Fire Dispatch 
-154.06250 	WQDD282 	M		SWMarion FD2 	Southwest Marion VFD Fireground 	FMN 	Fire-Tac 
-155.13000 	WPDR207 	RM	136.5 PL	Marion 911 	911 District Dispatch (OLD) 	FMN 	Emergency Ops 
-155.01750 	WPWJ629 	RM	136.5 PL	Marion 911 2 	911 District Tactical (OLD) 	FMN 	Emergency Ops 
-461.70000 	WPMB569 	RM		MarionCo Sch 	Schools 	FM 	Schools 
-155.70000 	WPSG909 	RM	103.5 PL	ColumbiaPD1 	Police Dispatch Encrypted 	FMNE 	Law Dispatch 
-155.73000 	WPSG909 	M	103.5 PL	ColumbiaPD2 	Police Car-to-Car Encrypted 	FMNE 	Law Talk 
-154.25000 	KZF957 	BM		ColumbiaFD1 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.29500 	KZF957 	RM		ColumbiaFD2 	Fire 	FMN 	Fire-Tac 
-45.44000 	WXJ394 	BM		ColumbiaDPW1 	Public Works 	FM 	Public Works 
-155.88000 	WPAD615 	BM		ColumbiaDPW2 	Public Works 	FMN 	Public Works 
-159.06750 	WQCI531 	M		ColumbiaWatr 	Water Department 	FMN 	Public Works 
-154.19000 	KFQ901 	BM		Foxworth VFD 	Foxworth VFD 	FMN 	Fire Dispatch 
-154.23500 	WNUE312 	BM		Pineburr VFD 	Pineburr VFD 	FMN 	Fire Dispatch 
-154.31750 	KYO214 	RM	612 DPL	AAA-FOXWRTH 	Ambulance Dispatch Foxworth 	FMN 	EMS Dispatch 
-ComSouth DMR - COMNET Mississippi	 DMR Motorola Connect Plus (TRBO)	 Multiple	Entergy 	 Project 25 Phase II	 Various	Mississippi Wireless Integrated Network (MSWIN)	 Project 25 Phase II
- Jackson	
+151.12250 	158.93250  	WQVB477 	RM		MC E-911 1 	Marion County E-911 (Sheriff/Fire/EMA) 1 	DMR 	Emergency Ops 
+154.86000 	153.83750  	WQVB477 	RM		MC E-911 2 	Marion County E-911 (Sheriff/Fire/EMA) 2 	DMR 	Emergency Ops 
+155.64000 	158.88750  	WQVB477 	RM		MC E-911 3 	Marion County E-911 (Sheriff/Fire/EMA) 3 	DMR 	Emergency Ops 
+155.60250 	   	KKT500 	RM		MCSO-D1 	Sheriff Digital Dispatch (OLD) 	DMR 	Law Dispatch 
+155.60250 	   	KKT500 	RM	173.8 PL	MCSO-A1 	Sheriff Analog Dispatch (OLD) 	FMN 	Law Dispatch 
+155.82000 	158.88000  	KKT500 	RM		MCSO-D2 	Sheriff Digital Secondary (OLD) 	DMR 	Law Tac 
+155.82000 	158.88000  	KKT500 	RM	173.8 PL	MCSO-A2 	Sheriff  Analog Secondary (OLD) 	FMN 	Law Tac 
+158.85000 	154.89000  	KKT500 	RM		MCSO-D3 	Sheriff Digital Tertiary (OLD) 	DMR 	Law Tac 
+158.85000 	154.89000  	KKT500 	RM	173.8 PL	MCSO-A3 	Sheriff Analog Tertiary (OLD) 	FMN 	Law Tac 
+154.38500 	153.77000  	WZW998 	RM	151.4 PL	TriComm VFD 	Tri-Community VFD 	FMN 	Fire Dispatch 
+150.77500 	   	WZW998 	M	151.4 PL	TriCommFDExt 	Tri- Community VFD Mobile Extenders 	FMN 	Fire-Tac 
+151.04750 	156.12750  	WQDD282 	RM		SWMarion FD1 	Southwest Marion VFD 	FMN 	Fire Dispatch 
+154.06250 	   	WQDD282 	M		SWMarion FD2 	Southwest Marion VFD Fireground 	FMN 	Fire-Tac 
+155.13000 	158.94000  	WPDR207 	RM	136.5 PL	Marion 911 	911 District Dispatch (OLD) 	FMN 	Emergency Ops 
+155.01750 	158.90250  	WPWJ629 	RM	136.5 PL	Marion 911 2 	911 District Tactical (OLD) 	FMN 	Emergency Ops 
+461.70000 	466.70000  	WPMB569 	RM		MarionCo Sch 	Schools 	FM 	Schools 
+155.70000 	158.76000  	WPSG909 	RM	103.5 PL	ColumbiaPD1 	Police Dispatch Encrypted 	FMNE 	Law Dispatch 
+155.73000 	   	WPSG909 	M	103.5 PL	ColumbiaPD2 	Police Car-to-Car Encrypted 	FMNE 	Law Talk 
+154.25000 	   	KZF957 	BM		ColumbiaFD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.29500 	   	KZF957 	RM		ColumbiaFD2 	Fire 	FMN 	Fire-Tac 
+45.44000 	   	WXJ394 	BM		ColumbiaDPW1 	Public Works 	FM 	Public Works 
+155.88000 	   	WPAD615 	BM		ColumbiaDPW2 	Public Works 	FMN 	Public Works 
+159.06750 	   	WQCI531 	M		ColumbiaWatr 	Water Department 	FMN 	Public Works 
+154.19000 	   	KFQ901 	BM		Foxworth VFD 	Foxworth VFD 	FMN 	Fire Dispatch 
+154.23500 	   	WNUE312 	BM		Pineburr VFD 	Pineburr VFD 	FMN 	Fire Dispatch 
+154.31750 	154.01750  	KYO214 	RM	612 DPL	AAA-FOXWRTH 	Ambulance Dispatch Foxworth 	FMN 	EMS Dispatch 
+ComSouth DMR - COMNET Mississippi	 DMR Motorola Connect Plus (TRBO)	 Multiple	Entergy 	 Project 25 Phase II	 Various	

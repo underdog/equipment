@@ -1,30 +1,31 @@
-154.34000 	WQDR580 	RM	167.9 PL	RANDOLPH OES 1 	OES 1 	FMN 	Fire Dispatch 
-154.34000 	WQDR580 	RM	210.7 PL	RANDOLPH OES 2 	OES 2 	FMN 	Fire Dispatch 
-154.84500 	WPCJ500 	RM		RANDOLPH SO 1D 	Sheriff 1 - Primary 9-1-1 	NXDN 	Law Dispatch 
-154.84500 	WPCJ500 	RM	146.2 PL	RANDOLPH SO 1A 	Sheriff 1 - Primary 9-1-1 	FMNe 	Law Dispatch 
-158.73000 	WNDL334 	RM	114.8 PL	RANDOLPH SO 2 	Sheriff 2 - Secondary  	FMNe 	Law Dispatch 
-154.86000 	WNDL334 	M	114.8 PL	RANDOLPH SO 3 	Sheriff 3 - Car-to-Car  	FMNE 	Law Talk 
-151.03250 	WPQE294 	RM		RC Hwy 151.0325 	Highway Department 	FMN 	Public Works 
-151.55000 	WQBT455 	BM	114.8 PL	RC Hwy 151.55 	Highway Department Operations (Maynard Area) 	FMN 	Public Works 
-151.88000 	 	M	114.8 PL	RC Hwy 151.88 	Highway Department Flagman 	FMN 	Public Works 
-154.57000 	 	M	114.8 PL	RC Hwy 154.57 	Highway Department Flagmen 	FMN 	Public Works 
-159.94500 	WQBT455 	M	114.8 PL	RC Hwy 159.945 	Highway Department Flagmen (Maynard Area) 	FMN 	Public Works 
-155.19750 	 	RM		RC 911 	911 	NXDN 	Fire Dispatch 
-155.26500 	KKR471 	BM		RANDOLPH EMS 	Five Rivers Medical Center EMS Dispatch 	FMN 	EMS Dispatch 
-155.34000 	KKR471 	BM		FIVE RIVERS ER 	Five Rivers Medical Center Emergency Department 	FMN 	Hospital 
-154.14500 	WNYJ597 	M		MAYNARD FG 	Fireground Operations 	FMN 	Fire-Tac 
-156.16500 	WPIE283 	RM		PFD NXDN 	Fire - Digital Primary 	NXDN 	Fire Dispatch 
-156.16500 	WPIE283 	RM	203.5 PL	PFD ANALOG 	Fire - Analog 	FMN 	Fire Dispatch 
-155.56500 	WPIE283 	RM		PPD NXDN 	Police - Digital Primary 	NXDN 	Law Dispatch 
-155.56500 	WPIE283 	RM	118.8 PL	PPD ANALOG 	Police - Analog 	FMN 	Law Dispatch 
-155.09250 	WQIA465 	BM		PCPD/RCSO TAC 	Police and Sheriff Tactical 	FMN 	Law Tac 
-153.71000 	WPNQ676 	RM		POCOHANTAS WATER 	Water Department 	FMN 	Public Works 
-37.10000 	KNBM217 	BM		POCOHANTAS DPW 	Public Works Department 	FM 	Multi-Dispatch 
-461.90000 	WQSZ749 	RM		BRTC-OPS 	Black River Technical College 	FMN 	Schools 
-464.72500 	WQSZ749 	RM		BRTC-OPS 	Black River Technical College 	FMN 	Schools 
-173.28750 	WNHJ656 	F		LCRWD Data173.28 	Clay County Regional Water O'Kean Site 	Telm 	Data 
-155.12250 	WRAB769 	M	CSQ	OKEAN FIREGROUND 	Fireground  	FMN 	Fire-Tac 
-154.34000 	WQDR580 	RM	167.9 PL	WSVFD Dispatch 	Dispatch 	FMN 	Fire Dispatch 
-154.14500 	WNYJ597 	BM		WSVFD On-scene 	On-scene Operations 	FMN 	Fire-Tac 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard
- Various	Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport	 SouthEast MO	Entergy 	 Project 25 Phase II	 Various	
+154.34000 	159.01500  	WQDR580 	RM	167.9 PL	RANDOLPH OES 1 	OES 1 	FMN 	Fire Dispatch 
+154.34000 	159.01500  	WQDR580 	RM	210.7 PL	RANDOLPH OES 2 	OES 2 	FMN 	Fire Dispatch 
+154.84500 	155.67000  	WPCJ500 	RM		RANDOLPH SO 1D 	Sheriff 1 - Primary 9-1-1 	NXDN 	Law Dispatch 
+154.84500 	155.67000  	WPCJ500 	RM	146.2 PL	RANDOLPH SO 1A 	Sheriff 1 - Primary 9-1-1 	FMNe 	Law Dispatch 
+158.73000 	154.78500  	WNDL334 	RM	114.8 PL	RANDOLPH SO 2 	Sheriff 2 - Secondary  	FMNe 	Law Dispatch 
+154.86000 	   	WNDL334 	M	114.8 PL	RANDOLPH SO 3 	Sheriff 3 - Car-to-Car  	FMNE 	Law Talk 
+151.03250 	159.17250  	WPQE294 	RM		RC Hwy 151.0325 	Highway Department 	FMN 	Public Works 
+151.55000 	   	WQBT455 	BM	114.8 PL	RC Hwy 151.55 	Highway Department Operations (Maynard Area) 	FMN 	Public Works 
+151.88000 	   	 	M	114.8 PL	RC Hwy 151.88 	Highway Department Flagman 	FMN 	Public Works 
+154.57000 	   	 	M	114.8 PL	RC Hwy 154.57 	Highway Department Flagmen 	FMN 	Public Works 
+159.94500 	   	WQBT455 	M	114.8 PL	RC Hwy 159.945 	Highway Department Flagmen (Maynard Area) 	FMN 	Public Works 
+155.19750 	153.84500  	 	RM		RC 911 	911 	NXDN 	Fire Dispatch 
+155.26500 	   	KKR471 	BM		RANDOLPH EMS 	Five Rivers Medical Center EMS Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	KKR471 	BM		FIVE RIVERS ER 	Five Rivers Medical Center Emergency Department 	FMN 	Hospital 
+154.14500 	   	WNYJ597 	M		MAYNARD FG 	Fireground Operations 	FMN 	Fire-Tac 
+156.16500 	153.81500  	WPIE283 	RM		PFD NXDN 	Fire - Digital Primary 	NXDN 	Fire Dispatch 
+156.16500 	153.81500  	WPIE283 	RM	203.5 PL	PFD ANALOG 	Fire - Analog 	FMN 	Fire Dispatch 
+155.56500 	153.92000  	WPIE283 	RM		PPD NXDN 	Police - Digital Primary 	NXDN 	Law Dispatch 
+155.56500 	153.92000  	WPIE283 	RM	118.8 PL	PPD ANALOG 	Police - Analog 	FMN 	Law Dispatch 
+155.09250 	   	WQIA465 	BM		PCPD/RCSO TAC 	Police and Sheriff Tactical 	FMN 	Law Tac 
+153.71000 	160.09500  	WPNQ676 	RM		POCOHANTAS WATER 	Water Department 	FMN 	Public Works 
+37.10000 	   	KNBM217 	BM		POCOHANTAS DPW 	Public Works Department 	FM 	Multi-Dispatch 
+461.90000 	466.90000  	WQSZ749 	RM		BRTC-OPS 	Black River Technical College 	FMN 	Schools 
+464.72500 	469.72500  	WQSZ749 	RM		BRTC-OPS 	Black River Technical College 	FMN 	Schools 
+173.20375 	   	WRAH778 	F		LCRWD Data173.20 	Water Data 	Telm 	Data 
+173.28750 	   	WNHJ656 	F		LCRWD Data173.28 	Clay County Regional Water O'Kean Site 	Telm 	Data 
+155.12250 	   	WRAB769 	M	CSQ	OKEAN FIREGROUND 	Fireground  	FMN 	Fire-Tac 
+154.34000 	159.01500  	WQDR580 	RM	167.9 PL	WSVFD Dispatch 	Dispatch 	FMN 	Fire Dispatch 
+154.14500 	   	WNYJ597 	BM		WSVFD On-scene 	On-scene Operations 	FMN 	Fire-Tac 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Battles Communications - 800 MHz (SEMO/AR)	 LTR Standard	 Various
+Battles Communications - UHF (SEMO/AR)	 LTR Standard and Passport	 SouthEast MO	Entergy 	 Project 25 Phase II	 Various	

@@ -1,36 +1,36 @@
-155.01000 	WSL475 	RM	146.2 PL	Miller Sheriff  	Sheriff: Dispatch 	FMN 	Law Dispatch 
-155.01000 	WSL475 	RM	118.8 PL	Miller Sheriff E 	Sheriff: Encrypted 	FMNE 	Law Dispatch 
-156.24000 	WQEQ954 	RM		Miller EMA 	Emergency Management  	FMN 	Emergency Ops 
-154.22000 	WQBV577 	BM		Miller Fire 	Fire 	FMN 	Fire Dispatch 
-155.89500 	WNDK806 	RM	192.8 PL	Miller EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-159.10500 	WQDC654 	BM		Miller Highway  	Highway Commissioner 	FMN 	Public Works 
-151.01000 	WQKM629 	RM		Brumley Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.52000 	KAI402 	BM	107.2 PL	Eldon Police  	Police: Dispatch 	FMN 	Law Dispatch 
-158.97750 	KAI402 	M		Eldon Police MX  	Police: Mobile Extenders  	FMN 	Law Tac 
-154.02500 	KUS418 	BM	91.5 PL	Eldon Fire 	Fire/Rescue: Dispatch 	FMN 	Fire Dispatch 
-155.82000 	WPMZ627 	BM		Eldon PubWrks  	Public Works  	FMN 	Public Works 
-159.01500 	KNNR622 	M		Eldon Spec Roads 	Eldon Special Road District 	FMN 	Public Works 
-156.18750 	WNAL336 	BM		Eldon City Hall  	City Hall [was 158.76] 	FMN 	Public Works 
-154.05500 	KNHN200 	BM		EldonModelAirpk 	Eldon Model Airpark 	FMN 	Public Works 
-155.49000 	WNGH222 	BM		Iberia Police  	Police 	FMN 	Law Dispatch 
-155.83500 	WQFX263 	RM	114.8 PL	Iberia Fire 	Fire (Rural FPD) 	FMN 	Fire Dispatch 
-158.74500 	WNBP882 	BM		Iberia City 	City Ops (Public Works?) 	FMN 	Public Works 
-173.31250 	WNVB923 	F		Iberia WDD 	Water Distribution Data 	Telm 	Data 
-158.73000 	KRB652 	RM	136.5 PL	LkOz Police 	Police: Dispatch (DB: County) 	FMN 	Law Dispatch 
-154.65000 	KRB652 	F		LkOz Police B 	Police: Remote base into 158.73? 	FMN 	Law Dispatch 
-155.02500 	WZM745 	RM		LkOz Police C 	Police: Local  	FMN 	Law Tac 
-154.41500 	WQBV577 	RM	156.7 PL	LkOzark Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-956.30675 	WQIV964 	F		LkOz Meters 	Sensus Meters (CSQ) 	Telm 	Data 
-154.14500 	WPWE578 	RM	123.0 PL	Moreau Fire 	Fire: Dispatch / Ops (DB: Morgan Co) 	FMN 	Fire Dispatch 
-155.32500 	WPEQ745 	RM		St Eliz Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-154.26500 	WPEQ745 	BM		StElizFireground 	Fireground 	FMN 	Fire-Tac 
-154.34000 	WNPK913 	RM		Tuscumbia Fire 	Fire: Local 	FMN 	Fire Dispatch 
-151.56500 	WQDE726 	RM	97.4 PL	Eldon Schools 1 	Admin / Security  	FMN 	Schools 
-159.70500 	WQDE726 	BM		Eldon Schools 2  	Admin / Security 	FMN 	Schools 
-153.23000 	WQJY713 	RM	97.4 PL	School Osage Ops 	Operations  	FMN 	Schools 
-155.26500 	WQBT227 	BM		School Osage Bus 	Buses 	FMN 	Schools 
-122.80000 	 	BM	CSQ	H79 CTAF/UNICOM 	CTAF/UNICOM 	AM 	Aircraft 
-124.10000 	 	BM	CSQ	MIZZU Approach 	MIZZU Approach 	AM 	Aircraft 
-124.10000 	 	BM	CSQ	MIZZU Depart 	MIZZU Departure 	AM 	Aircraft 
-135.32500 	 	F		H79 WX AWOS 	WX AWOS 	Telm 	Aircraft 
+155.01000 	155.85000  	WSL475 	RM	146.2 PL	Miller Sheriff  	Sheriff: Dispatch 	FMN 	Law Dispatch 
+155.01000 	155.85000  	WSL475 	RM	118.8 PL	Miller Sheriff E 	Sheriff: Encrypted 	FMNE 	Law Dispatch 
+156.24000 	159.00000  	WQEQ954 	RM		Miller EMA 	Emergency Management  	FMN 	Emergency Ops 
+154.22000 	   	WQBV577 	BM		Miller Fire 	Fire 	FMN 	Fire Dispatch 
+155.89500 	153.92000  	WNDK806 	RM	192.8 PL	Miller EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+159.10500 	   	WQDC654 	BM		Miller Highway  	Highway Commissioner 	FMN 	Public Works 
+151.01000 	156.06000  	WQKM629 	RM		Brumley Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.52000 	   	KAI402 	BM	107.2 PL	Eldon Police  	Police: Dispatch 	FMN 	Law Dispatch 
+158.97750 	   	KAI402 	M		Eldon Police MX  	Police: Mobile Extenders  	FMN 	Law Tac 
+154.02500 	   	KUS418 	BM	91.5 PL	Eldon Fire 	Fire/Rescue: Dispatch 	FMN 	Fire Dispatch 
+155.82000 	   	WPMZ627 	BM		Eldon PubWrks  	Public Works  	FMN 	Public Works 
+159.01500 	   	KNNR622 	M		Eldon Spec Roads 	Eldon Special Road District 	FMN 	Public Works 
+156.18750 	   	WNAL336 	BM		Eldon City Hall  	City Hall [was 158.76] 	FMN 	Public Works 
+154.05500 	   	KNHN200 	BM		EldonModelAirpk 	Eldon Model Airpark 	FMN 	Public Works 
+155.49000 	   	WNGH222 	BM		Iberia Police  	Police 	FMN 	Law Dispatch 
+155.83500 	158.89500  	WQFX263 	RM	114.8 PL	Iberia Fire 	Fire (Rural FPD) 	FMN 	Fire Dispatch 
+158.74500 	   	WNBP882 	BM		Iberia City 	City Ops (Public Works?) 	FMN 	Public Works 
+173.31250 	   	WNVB923 	F		Iberia WDD 	Water Distribution Data 	Telm 	Data 
+158.73000 	153.74000  	KRB652 	RM	136.5 PL	LkOz Police 	Police: Dispatch (DB: County) 	FMN 	Law Dispatch 
+154.65000 	   	KRB652 	F		LkOz Police B 	Police: Remote base into 158.73? 	FMN 	Law Dispatch 
+155.02500 	158.83500  	WZM745 	RM		LkOz Police C 	Police: Local  	FMN 	Law Tac 
+154.41500 	153.98000  	WQBV577 	RM	156.7 PL	LkOzark Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+956.30675 	   	WQIV964 	F		LkOz Meters 	Sensus Meters (CSQ) 	Telm 	Data 
+154.14500 	159.04500  	WPWE578 	RM	123.0 PL	Moreau Fire 	Fire: Dispatch / Ops (DB: Morgan Co) 	FMN 	Fire Dispatch 
+155.32500 	150.79000  	WPEQ745 	RM		St Eliz Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+154.26500 	   	WPEQ745 	BM		StElizFireground 	Fireground 	FMN 	Fire-Tac 
+154.34000 	158.94000  	WNPK913 	RM		Tuscumbia Fire 	Fire: Local 	FMN 	Fire Dispatch 
+151.56500 	159.67500  	WQDE726 	RM	97.4 PL	Eldon Schools 1 	Admin / Security  	FMN 	Schools 
+159.70500 	   	WQDE726 	BM		Eldon Schools 2  	Admin / Security 	FMN 	Schools 
+153.23000 	160.03500  	WQJY713 	RM	97.4 PL	School Osage Ops 	Operations  	FMN 	Schools 
+155.26500 	   	WQBT227 	BM		School Osage Bus 	Buses 	FMN 	Schools 
+122.80000 	   	 	BM	CSQ	H79 CTAF/UNICOM 	CTAF/UNICOM 	AM 	Aircraft 
+124.10000 	   	 	BM	CSQ	MIZZU Approach 	MIZZU Approach 	AM 	Aircraft 
+124.10000 	   	 	BM	CSQ	MIZZU Depart 	MIZZU Departure 	AM 	Aircraft 
+135.32500 	   	 	F		H79 WX AWOS 	WX AWOS 	Telm 	Aircraft 
 Three Rivers Electric Cooperative (MO)	 DMR Tier 3	 East Central MO	

@@ -1,29 +1,29 @@
-158.82000 	KDA718 	BM	82.5 PL	Grant EMA 	Emergency Management 	FMN 	Emergency Ops 
-154.25000 	KNGB243 	BM	103.5 PL	Grant FD Dsp 	Fire / EMS - Dispatch 	FMN 	Fire Dispatch 
-154.28000 	KSI989 	BM		Grant FD MA 	Fire - Mutual Aid 	FMN 	Interop 
-151.01750 	WPVM517 	RM	82.5 PL	Grant EMSTA 	EMS - Talkaround 	FMN 	EMS-Tac 
-153.74000 	WPVM517 	M	82.5 PL	GrantEMSTAC2 	EMS - Tac 2 	FMN 	EMS-Tac 
-153.87500 	WPVM517 	M	82.5 PL	GrantEMSAdmi 	EMS - Administration 	FMN 	EMS-Tac 
-155.16000 	KJI363 	BM		MarionGenHsp 	Tac 2 	FM 	EMS-Tac 
-155.17500 	WNWS419 	BM		QUALITY AMB 	Quality Care Ambulance 	FMN 	EMS Dispatch 
-155.22000 	WPED441 	BM	146.2 PL	ABLE AMBULANCE 	Able Ambulance 	FMN 	EMS Dispatch 
-155.26500 	WNYB217 	BM		TRANSCARE AMB 	Transcare Ambulance 	FMN 	EMS Dispatch 
-453.92500 	WNDL469 	BM	146.2 PL	Grant Muni 	County Highway 	FMN 	Public Works 
-154.44500 	KSI989 	BM		Center FD TA 	Fire Tac 2 	FMN 	Fire-Tac 
-154.38500 	WPKG760 	BM	123.0 PL	 FrmntFD Tac 	Fire Tactical 2 	FMN 	Fire-Tac 
-453.67500 	WPGS821 	BM		Frmnt CD Prm 	Civil Defense Primary 	FMN 	Emergency Ops 
-158.80500 	WPGS279 	BM		Frmnt CD 2d 	Civil Defense Secondary (rarely used) 	FMN 	Emergency Ops 
-155.82000 	KNCR714 	BM		Frmnt Water 	Water Dept. 	FMN 	Public Works 
-155.94000 	KAU715 	BM	82.5 PL	Gas City FD 	Fire 	FMN 	Fire-Tac 
-154.22000 	KNFF510 	BM		Green TWP FD 	Fire Dept. 	FMN 	Fire-Tac 
-154.19000 	KBS923 	RM	82.5 PL	Marion  FD 	Fire 	FMN 	Fire Dispatch 
-159.19500 	WNRX918 	RM	156.7 PL	Marion  Strt 	Street Dept. 	FMN 	Public Works 
-154.34000 	 			Mill FD TAC2 	Fire Tac 2 	FMN 	Fire-Tac 
-154.35500 	KNGG371 	BM		Wash FD TAC2 	Fire Tac 2 	FMN 	Fire-Tac 
-152.42000 	WPWW513 	RM	192.8 PL	Msnwa Skls 	Mississinewa 	FMN 	Schools 
-464.20000 	WNUS480 	RM	CC 8TG *SL 1	Eastbrk Skls 	Eastbrook 	DMR 	Schools 
-464.87500 	WQGG823 	RM	210.7 PL	OakHill Skls 	Oak Hill 	FMN 	Schools 
-854.83750 	WPLY950 	RM	732 DPL	MarionSkls 	Marion Community Schools 	FM 	Schools 
-154.60000 	 	M		WALMART OPS 	Operations and Management 	FMN 	Business 
-5-H Ranch Inc	 Motorola Type II	 Marion	American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	Emergency Radio Service 800 Mhz	 Motorola Type IIi Hybrid
- Multiple	ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	
+158.82000 	154.99500  	KDA718 	BM	82.5 PL	Grant EMA 	Emergency Management 	FMN 	Emergency Ops 
+154.25000 	   	KNGB243 	BM	103.5 PL	Grant FD Dsp 	Fire / EMS - Dispatch 	FMN 	Fire Dispatch 
+154.28000 	   	KSI989 	BM		Grant FD MA 	Fire - Mutual Aid 	FMN 	Interop 
+151.01750 	159.11250  	WPVM517 	RM	82.5 PL	Grant EMSTA 	EMS - Talkaround 	FMN 	EMS-Tac 
+153.74000 	   	WPVM517 	M	82.5 PL	GrantEMSTAC2 	EMS - Tac 2 	FMN 	EMS-Tac 
+153.87500 	   	WPVM517 	M	82.5 PL	GrantEMSAdmi 	EMS - Administration 	FMN 	EMS-Tac 
+155.16000 	   	KJI363 	BM		MarionGenHsp 	Tac 2 	FM 	EMS-Tac 
+155.17500 	   	WNWS419 	BM		QUALITY AMB 	Quality Care Ambulance 	FMN 	EMS Dispatch 
+155.22000 	   	WPED441 	BM	146.2 PL	ABLE AMBULANCE 	Able Ambulance 	FMN 	EMS Dispatch 
+155.26500 	   	WNYB217 	BM		TRANSCARE AMB 	Transcare Ambulance 	FMN 	EMS Dispatch 
+453.92500 	458.92500  	WNDL469 	BM	146.2 PL	Grant Muni 	County Highway 	FMN 	Public Works 
+154.44500 	   	KSI989 	BM		Center FD TA 	Fire Tac 2 	FMN 	Fire-Tac 
+154.38500 	   	WPKG760 	BM	123.0 PL	 FrmntFD Tac 	Fire Tactical 2 	FMN 	Fire-Tac 
+453.67500 	458.67500  	WPGS821 	BM		Frmnt CD Prm 	Civil Defense Primary 	FMN 	Emergency Ops 
+158.80500 	   	WPGS279 	BM		Frmnt CD 2d 	Civil Defense Secondary (rarely used) 	FMN 	Emergency Ops 
+155.82000 	   	KNCR714 	BM		Frmnt Water 	Water Dept. 	FMN 	Public Works 
+155.94000 	155.19000  	KAU715 	BM	82.5 PL	Gas City FD 	Fire 	FMN 	Fire-Tac 
+154.22000 	   	KNFF510 	BM		Green TWP FD 	Fire Dept. 	FMN 	Fire-Tac 
+154.19000 	153.78500  	KBS923 	RM	82.5 PL	Marion  FD 	Fire 	FMN 	Fire Dispatch 
+159.19500 	154.10000  	WNRX918 	RM	156.7 PL	Marion  Strt 	Street Dept. 	FMN 	Public Works 
+154.34000 	   	 			Mill FD TAC2 	Fire Tac 2 	FMN 	Fire-Tac 
+154.35500 	   	KNGG371 	BM		Wash FD TAC2 	Fire Tac 2 	FMN 	Fire-Tac 
+152.42000 	157.68000  	WPWW513 	RM	192.8 PL	Msnwa Skls 	Mississinewa 	FMN 	Schools 
+464.20000 	469.20000  	WNUS480 	RM	CC 8TG *SL 1	Eastbrk Skls 	Eastbrook 	DMR 	Schools 
+464.87500 	469.87500  	WQGG823 	RM	210.7 PL	OakHill Skls 	Oak Hill 	FMN 	Schools 
+854.83750 	809.83750  	WPLY950 	RM	732 DPL	MarionSkls 	Marion Community Schools 	FM 	Schools 
+154.60000 	   	 	M		WALMART OPS 	Operations and Management 	FMN 	Business 
+5-H Ranch Inc	 Motorola Type II	 Marion	American Electric Power (OpenSky) System	 OpenSky 9600 baud	 Varies	Emergency Radio Service 800 Mhz	 Motorola Type IIi Hybrid	 Multiple
+ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	

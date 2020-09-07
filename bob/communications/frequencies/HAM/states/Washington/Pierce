@@ -1,56 +1,56 @@
-151.35500 	WQWR930 	RM	167.9 PL	PC Mutual Aid 	Interagency Mutual Aid 	FMN 	Interop 
-154.95000 	WQVI727 	RM	179.9 PL	SR410 Mutual Aid 	SR410 Interagency Mutual Aid 	FMN 	Interop 
-153.89000 	WQWR930 	BM	131.8 PL	PC Fire D1 Alert 	FireComm Delta 1 County-wide Paging/Station Alerting 	FMN 	Fire Dispatch 
-154.16000 	WQWR930 	BM	131.8 PL	PC Fire D3 MA 	FireComm Delta 3 County-wide Fire Mutual Aid 	FMN 	Interop 
-150.79000 	WQVI727 	BM	131.8 PL	PC SR410 GWFire 	SR410 Greenwater/Crystal Mtn Fire 	FMN 	Fire-Tac 
-159.09000 	KVA319 	BM		PC Fire Echo 1 	FireComm Echo 1 (Buckley/Greenwater Fire/EMS) 	FMN 	Fire Dispatch 
-155.64000 	WQVI727 	RM	179.9 PL	SR410 GW LE 	Sheriff SR410 Greenwater LE 	FMN 	Law Dispatch 
-155.73000 	KNBD961 	BM	136.5 PL	BonneyLakePD 	Police Ch 9 	FMN 	Law Dispatch 
-155.91000 	KNBD961 	BM		BonLk PD Car 	Police Car-to-Car 	FMN 	Law Talk 
-150.99500 	 	BM		BonLk PW 	Public Works 	FMN 	Public Works 
-153.86000 	 	BM		BonLk PW 	Public Works 	FMN 	Public Works 
-155.01000 	KDR395 	BM	103.5 PL	Buckly 	Public Works 	FMN 	Public Works 
-159.95000 	WPBE926 	BM	156.7 PL	Buckley PW2 	Public Works 2 	FMN 	Public Works 
-154.08500 	KNDR818 	RM		ETON PdCar2 	Police Car-to-Car 	FMN 	Law Talk 
-155.67750 	KTS776 	RM	243 DPL	Fife Police 	Police 	FMN 	Law Dispatch 
-151.13000 	WQHT617 	RM		Orting PD 	Police Dispatch 	FMN 	Law Dispatch 
-155.13000 	KOA621 	BM		Puyallup PD 	Police 	FMN 	Law Dispatch 
-158.95500 	WNEB210 	BM		Puy PD Cars 	Police Car-to-Car 	FMN 	Law Talk 
-155.79000 	 	BM		RoyPd Car2 	Police Car to Car 	FMN 	Law Talk 
-154.78500 	KYV285 	RM	136.5 PL	Sumner PD 	Police Dispatch 	FMN 	Law Dispatch 
-158.92500 	KYV285 	M	CSQ	Sum PD Tac 1 	Police - Tac 1 	FMN 	Law Tac 
-155.62500 	KYV285 	M	CSQ	Sum PD Tac 2 	Police - Tac 2 	FMN 	Law Tac 
-156.16500 	 	BM		Sum PW Ch2 	Public Works Ch 2 	FMN 	Public Works 
-154.13000 	WQLE321 	BM		TFD Disp 	Fire Dispatch - with PSRS A-1 TG 40401 	FMN 	Fire Dispatch 
-453.55000 	WNDP869 	RM	131.8 PL	TMA PUB SEW 	Public Works - Sewer 	FMN 	Public Works 
-453.75000 	WNDP869 	RM	131.8 PL	TMA PUD ST 	Public Works - Streets 	FMN 	Public Works 
-453.42500 	WNDP869 	RM	131.8 PL	TMA PUB RE 	Public Works - Refuse 	FMN 	Public Works 
-867.12500 	 	M	156.7 PL	TMA PUB TA1 	Public Works TA 1 Sewer 	FM 	Public Works 
-867.15000 	 	M	156.7 PL	TMA PUB TA2 	Public Works TA 2 Solid Waste 	FM 	Public Works 
-868.05000 	 	M	156.7 PL	TMA PUB TA3 	Public Works TA 3 Streets 	FM 	Public Works 
-868.07500 	 	M	156.7 PL	TMA PUB TA4 	Public Works TA 4 Survey 	FM 	Public Works 
-868.12500 	 	M	156.7 PL	TMA PUB TA5 	Public Works TA 5 Wire 	FM 	Public Works 
-158.25000 	KNNW939 	RM		TMA ELEC1 	Electric Power 	FMN 	Public Works 
-159.57000 	WQJE965 	RM		TMA ELEC2 	Electric Power 	FMN 	Public Works 
-867.05000 	 	M	156.7 PL	TMA TALK AR 	Citywide Talk-Around 	FM 	Law Tac 
-866.62500 	 	M	156.7 PL	LE 866.625 	Least used traffic 	FM 	Law Tac 
-866.65000 	 	M	156.7 PL	LE 866.650 	Least used traffic 	FM 	Law Tac 
-868.15000 	 	M	156.7 PL	LE 868.150 	GP/Other/Miscellaneous 	FM 	Law Tac 
-866.48750 	WPSJ871 	BM		MDT Data 	Mobile Data 	Telm 	Data 
-866.76250 	WPSJ871 	BM		MDT Data 	Mobile Data 	Telm 	Data 
-166.63750 	 	RM	127.3 PL	Puyallup TPD 	Puyallup Tribal Police 	FMN 	Law Dispatch 
-463.28750 	WQIG271 	RM	145 DPL	StAthny Secrty 	St. Anthony Hospital Security 	FMN 	Business 
-151.68500 	WPQK937 	BM	123.0 PL	Bethel S Bus 	Bethel School District Buses 	FMN 	Schools 
-151.77500 	 	BM		EatonvilleSD Bus 	Eatonville School District Buses 	FMN 	Schools 
-160.03500 	WNRV573 	BM		Orting SD344 	Orting School District 344 	FMN 	Schools 
-154.54000 	WPDZ907 	BM	118.8 PL	Puyallup SD3 	Puyallup SD # 3 	FMN 	Schools 
-154.50500 	WQUL394 	BM		Puyallup SD3 	Puyallup SD3 	FMN 	Schools 
-151.86500 	KNDE908 	BM	156 DPL	Sumner SDBus 	Sumner School District Buses 	FMN 	Schools 
-151.58000 	 	BM		WhiteRvr SD 	White River School District Admin 	FMN 	Schools 
-151.80500 	WNFB220 	BM	464 DPL	WhiteRvr SD 	White River School District Buses 	FMN 	Schools 
-453.58750 	 	RM	CC 1TG 1SL 1	TCC Security 	Campus Security 	DMR 	Security 
-Boeing P25	 Project 25 Phase I	 Varies	Boeing Wide Area	 Motorola Type II SmartZone	 Various	FleetNet / Silke Communications	 NXDN NEXEDGE 4800
- Various	Pacific Lutheran University	 DMR Motorola Capacity Plus Single Site (TRBO)	 Parkland	Pacific NorthWest DMR	 DMR Conventional Networked	 Various	PSRS Tacoma/Puyallup
- Project 25 Phase II	 Tacoma	Puget Sound Energy	 MPT-1327 Standard	 Various	South Sound 911	 Project 25 Phase II	 Lakewood
-Tacoma Services	 Motorola Type II	 Tacoma	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	United States Department of Defense (14C)	 Project 25 Phase II
- Nationwide	WA State Patrol	 Project 25 Phase II	 Various	Washington State Department of Transportation	 LTR MultiNet	 Various	
+151.35500 	156.06000  	WQWR930 	RM	167.9 PL	PC Mutual Aid 	Interagency Mutual Aid 	FMN 	Interop 
+154.95000 	159.03000  	WQVI727 	RM	179.9 PL	SR410 Mutual Aid 	SR410 Interagency Mutual Aid 	FMN 	Interop 
+153.89000 	   	WQWR930 	BM	131.8 PL	PC Fire D1 Alert 	FireComm Delta 1 County-wide Paging/Station Alerting 	FMN 	Fire Dispatch 
+154.16000 	   	WQWR930 	BM	131.8 PL	PC Fire D3 MA 	FireComm Delta 3 County-wide Fire Mutual Aid 	FMN 	Interop 
+150.79000 	   	WQVI727 	BM	131.8 PL	PC SR410 GWFire 	SR410 Greenwater/Crystal Mtn Fire 	FMN 	Fire-Tac 
+159.09000 	   	KVA319 	BM		PC Fire Echo 1 	FireComm Echo 1 (Buckley/Greenwater Fire/EMS) 	FMN 	Fire Dispatch 
+155.64000 	159.16500  	WQVI727 	RM	179.9 PL	SR410 GW LE 	Sheriff SR410 Greenwater LE 	FMN 	Law Dispatch 
+155.73000 	159.15000  	KNBD961 	BM	136.5 PL	BonneyLakePD 	Police Ch 9 	FMN 	Law Dispatch 
+155.91000 	   	KNBD961 	BM		BonLk PD Car 	Police Car-to-Car 	FMN 	Law Talk 
+150.99500 	   	 	BM		BonLk PW 	Public Works 	FMN 	Public Works 
+153.86000 	   	 	BM		BonLk PW 	Public Works 	FMN 	Public Works 
+155.01000 	   	KDR395 	BM	103.5 PL	Buckly 	Public Works 	FMN 	Public Works 
+159.95000 	   	WPBE926 	BM	156.7 PL	Buckley PW2 	Public Works 2 	FMN 	Public Works 
+154.08500 	   	KNDR818 	RM		ETON PdCar2 	Police Car-to-Car 	FMN 	Law Talk 
+155.67750 	153.98750  	KTS776 	RM	243 DPL	Fife Police 	Police 	FMN 	Law Dispatch 
+151.13000 	153.96500  	WQHT617 	RM		Orting PD 	Police Dispatch 	FMN 	Law Dispatch 
+155.13000 	   	KOA621 	BM		Puyallup PD 	Police 	FMN 	Law Dispatch 
+158.95500 	   	WNEB210 	BM		Puy PD Cars 	Police Car-to-Car 	FMN 	Law Talk 
+155.79000 	   	 	BM		RoyPd Car2 	Police Car to Car 	FMN 	Law Talk 
+154.78500 	   	KYV285 	RM	136.5 PL	Sumner PD 	Police Dispatch 	FMN 	Law Dispatch 
+158.92500 	   	KYV285 	M	CSQ	Sum PD Tac 1 	Police - Tac 1 	FMN 	Law Tac 
+155.62500 	   	KYV285 	M	CSQ	Sum PD Tac 2 	Police - Tac 2 	FMN 	Law Tac 
+156.16500 	   	 	BM		Sum PW Ch2 	Public Works Ch 2 	FMN 	Public Works 
+154.13000 	   	WQLE321 	BM		TFD Disp 	Fire Dispatch - with PSRS A-1 TG 40401 	FMN 	Fire Dispatch 
+453.55000 	458.55000  	WNDP869 	RM	131.8 PL	TMA PUB SEW 	Public Works - Sewer 	FMN 	Public Works 
+453.75000 	458.75000  	WNDP869 	RM	131.8 PL	TMA PUD ST 	Public Works - Streets 	FMN 	Public Works 
+453.42500 	458.42500  	WNDP869 	RM	131.8 PL	TMA PUB RE 	Public Works - Refuse 	FMN 	Public Works 
+867.12500 	   	 	M	156.7 PL	TMA PUB TA1 	Public Works TA 1 Sewer 	FM 	Public Works 
+867.15000 	   	 	M	156.7 PL	TMA PUB TA2 	Public Works TA 2 Solid Waste 	FM 	Public Works 
+868.05000 	   	 	M	156.7 PL	TMA PUB TA3 	Public Works TA 3 Streets 	FM 	Public Works 
+868.07500 	   	 	M	156.7 PL	TMA PUB TA4 	Public Works TA 4 Survey 	FM 	Public Works 
+868.12500 	   	 	M	156.7 PL	TMA PUB TA5 	Public Works TA 5 Wire 	FM 	Public Works 
+158.25000 	153.69500  	KNNW939 	RM		TMA ELEC1 	Electric Power 	FMN 	Public Works 
+159.57000 	153.33500  	WQJE965 	RM		TMA ELEC2 	Electric Power 	FMN 	Public Works 
+867.05000 	   	 	M	156.7 PL	TMA TALK AR 	Citywide Talk-Around 	FM 	Law Tac 
+866.62500 	   	 	M	156.7 PL	LE 866.625 	Least used traffic 	FM 	Law Tac 
+866.65000 	   	 	M	156.7 PL	LE 866.650 	Least used traffic 	FM 	Law Tac 
+868.15000 	   	 	M	156.7 PL	LE 868.150 	GP/Other/Miscellaneous 	FM 	Law Tac 
+866.48750 	821.48750  	WPSJ871 	BM		MDT Data 	Mobile Data 	Telm 	Data 
+866.76250 	821.76250  	WPSJ871 	BM		MDT Data 	Mobile Data 	Telm 	Data 
+166.63750 	168.37500  	 	RM	127.3 PL	Puyallup TPD 	Puyallup Tribal Police 	FMN 	Law Dispatch 
+463.28750 	468.28750  	WQIG271 	RM	145 DPL	StAthny Secrty 	St. Anthony Hospital Security 	FMN 	Business 
+151.68500 	   	WPQK937 	BM	123.0 PL	Bethel S Bus 	Bethel School District Buses 	FMN 	Schools 
+151.77500 	   	 	BM		EatonvilleSD Bus 	Eatonville School District Buses 	FMN 	Schools 
+160.03500 	   	WNRV573 	BM		Orting SD344 	Orting School District 344 	FMN 	Schools 
+154.54000 	   	WPDZ907 	BM	118.8 PL	Puyallup SD3 	Puyallup SD # 3 	FMN 	Schools 
+154.50500 	   	WQUL394 	BM		Puyallup SD3 	Puyallup SD3 	FMN 	Schools 
+151.86500 	   	KNDE908 	BM	156 DPL	Sumner SDBus 	Sumner School District Buses 	FMN 	Schools 
+151.58000 	   	 	BM		WhiteRvr SD 	White River School District Admin 	FMN 	Schools 
+151.80500 	   	WNFB220 	BM	464 DPL	WhiteRvr SD 	White River School District Buses 	FMN 	Schools 
+453.58750 	458.58750  	 	RM	CC 1TG 1SL 1	TCC Security 	Campus Security 	DMR 	Security 
+Boeing P25	 Project 25 Phase I	 Varies	Boeing Wide Area	 Motorola Type II SmartZone	 Various	FleetNet / Silke Communications	 NXDN NEXEDGE 4800	 Various
+Justice Integrated Wireless Network	 Project 25 Phase I	 Various	Pacific Lutheran University	 DMR Motorola Capacity Plus Single Site (TRBO)	 Parkland	Pacific NorthWest DMR	 DMR Conventional Networked	 Various
+PSRS Tacoma/Puyallup	 Project 25 Phase II	 Tacoma	Puget Sound Energy	 MPT-1327 Standard	 Various	South Sound 911	 Project 25 Phase II	 Lakewood
+Tacoma Services	 Motorola Type II	 Tacoma	TRBOWEST (WA-OR-ID-CA)	 DMR Motorola Connect Plus (TRBO)	 Various	WA State Patrol	 Project 25 Phase II	 Various
+Washington State Department of Transportation	 LTR MultiNet	 Various	

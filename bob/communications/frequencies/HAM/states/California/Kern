@@ -1,130 +1,128 @@
-460.57500 	KVX907 	RM	192.8 PL	KCSO Metro 	Metro Dispatch/Metro Bakersfield 	FMN 	Law Dispatch 
-453.92500 	KCI548 	RM	192.8 PL	KCSO Metro Tac 	Metro Tac/Metro Bakersfield 	FMN 	Law Tac 
-460.10000 	WNHP642 	RM	192.8 PL	KCSO West 	West Dispatch 	FMN 	Law Dispatch 
-453.37500 	KCI548 	RM	192.8 PL	KCSO West Tac 	West Tac 	FMN 	Law Tac 
-460.22500 	KWE370 	RM	192.8 PL	KCSO East 	East Dispatch 	FMN 	Law Dispatch 
-460.12500 	WPYR251 	RM	192.8 PL	KCSO East Tac 	East Tac 	FMN 	Law Tac 
-453.05000 	WNHP643 	RM	192.8 PL	KCSO Admin 	Admin 	FMN 	Law Tac 
-453.22500 	KCI548 	RM	131.8 PL	KCSO Mutual Aid 	Countywide Mutual Aid 	FMN 	Interop 
-460.13750 	WPYX333 	RM		KCSO SWAT? 	Sheriff SWAT? 	P25 	Law Tac 
-460.15000 	WPYR251 	RM	192.8 PL	KCSO Secure 	Secure (Narcotics/SWAT/EOD) 	FMN 	Law Tac 
-453.53750 	WPYS882 	RM	251 DPL	KCSO DT1 Courts 	Downtown 1 - Court Services 	FMN 	Corrections 
-453.63750 	WPYS882 	RM	261 DPL	KCSO DT2 CRF 	Downtown 2 - Central Receiving Facility (CRF) 	FMN 	Corrections 
-453.83750 	WPYS882 	RM	263 DPL	KCSO DT3 GSB 	Downtown 3 - General Services Building Security 	FMN 	Law Talk 
-453.57500 	WPYS882 	RM	306 DPL	KCSO KMC Sec 	Kern Medical Center Security 	FMN 	Law Talk 
-453.66250 	WPYS882 	RM	411 DPL	KCSO Lerdo 1 	Lerdo Detention 1 - Pretrial Facility 	FMN 	Corrections 
-453.76250 	WPYS882 	RM	412 DPL	KCSO Lerdo 2 	Lerdo Detention 2 - Maximum/Medium Security 	FMN 	Corrections 
-453.32500 	WPYS882 	RM	413 DPL	KCSO Lerdo 3 	Lerdo Detention 3 - Minimum Security 	FMN 	Corrections 
-453.55000 	WPYS882 	RM	423 DPL	KCSO Lerdo 4 	Lerdo Detention 4 - Maintenance 	FMN 	Corrections 
-453.35000 	WNXF445 	RM	606 DPL	KCSO Airport 	Bakersfield Meadows Airport Security 	FMN 	Law Talk 
-45.06000 	WQOI924 	RM	136.5 PL	Local Law LB 	Local Law VHF Low Band (CHP Tac 6) 	FM 	Interop 
-155.01000 	KMJ448 	RM	411 DPL	Local Law HB 	Local Law VHF High Band 	FM 	Interop 
-453.72500 	WNAZ269 	RM	131.8 PL	Local Law UHF 	Local Law UHF 	FM 	Interop 
-460.17500 	WNHP643 	RM	192.8 PL	Kern Co Prob 	Probation Dispatch 	FMN 	Law Dispatch 
-453.56250 	WPYS882 	RM	311 DPL	Kern Co JH 	Juvenile Hall 	FMN 	Corrections 
-453.56250 	WNHP643 	RM	503 DPL	Kern Co CmpOwen 	Camp Owen 	FMN 	Corrections 
-453.81250 	WPYS882 	RM	431 DPL	Lerdo 5 Juv 	Lerdo Detention 5 - Juvenile Facilities 	FMN 	Corrections 
-153.78500 	KCI548 	RM	167.9 PL	Kern Co FD 1 	Dispatch 	FMN 	Fire Dispatch 
-155.88000 	KCI548 	RM	167.9 PL	Kern Co FD 2 	Secondary Command County Wide 	FMN 	Fire-Tac 
-151.47500 	WPYX333 	M	167.9 PL	Kern Co FD TacV2 	Tac V2 	FMN 	Fire-Talk 
-155.62500 	WPYN351 	RM	167.9 PL	Kern Co FD 3 	Command County Wide 	FMN 	Fire-Tac 
-151.45250 	WPYX333 	M	167.9 PL	Kern Co FD TacV3 	Tac V3 	FMN 	Fire-Talk 
-154.86000 	KCI548 	RM	167.9 PL	Kern Co FD 4 	West Command (Batt. 3 & 6) 	FMN 	Fire-Tac 
-154.95000 	WPYX333 	M	167.9 PL	Kern Co FD TacV4 	Tac V4 	FMN 	Fire-Talk 
-151.10000 	WPYQ997 	RM	167.9 PL	Kern Co FD 5 	Eastern Command (Batt. 1 & 7) 	FMN 	Fire-Tac 
-154.08500 	WPYX333 	M	167.9 PL	Kern Co FD TacV5 	Tac V5 	FMN 	Fire-Talk 
-151.11500 	 	RM	167.9 PL	Kern Co FD 6 	Command North Metro (Batt. 6) 	FMN 	Fire-Tac 
-156.16500 	 	M	167.9 PL	Kern Co FD TacV6 	Tac V6 	FMN 	Fire-Talk 
-154.84500 	 	RM	167.9 PL	Kern Co FD 7 	Command South Metro (Batt. 4) 	FMN 	Fire-Tac 
-151.12250 	 	M	167.9 PL	Kern Co FD TacV7 	Tac V7 	FMN 	Fire-Talk 
-154.65000 	 	M	167.9 PL	Kern Co FDTacV15 	Training Tac 	FMN 	Fire-Talk 
-159.15000 	 	M		Kern Co FD 16C 	Tac 16C 	FMN 	Fire-Talk 
-155.70000 	 	M	167.9 PL	Kern Co FDTacV16 	Ops Tac 	FMN 	Fire-Talk 
-154.78500 	WRCE560 	RM	167.9 PL	Kern Co FD 21 	Rosamond Repeater 	FMN 	Fire-Talk 
-155.13000 	WNVW302 	RM	167.9 PL	Kern Co FD 25 	Rosamond Repeater 	FMN 	Fire-Talk 
-153.99500 	 	RM	167.9 PL	Kern Co FD 27 	Hwy 395 Repeater (Red Mountain to Kramer Junction) 	FMN 	Fire-Talk 
-152.84000 	 	B		Kern Co EMS Pgrs 	EMS Pagers 	Telm 	Data 
-154.89000 	 	BM	167.9 PL	Kern Co AG 	Air to Ground 	FMN 	Fire-Tac 
-173.22500 	 	M	CSQ	Kern Co FD Ext 	Fire Extenders 	FMN 	Fire-Talk 
-453.45000 	KVX907 	RM	141.3 PL	Kern Co FD U-12 	Countywide Command U-12 	FMN 	Fire-Talk 
-465.07500 	WPYX333 	M	141.3 PL	Kern Co FD T-U12 	Countywide Tac U-12 	FMN 	Fire-Tac 
-47.54000 	KNNT260 	BM	162.2 PL	HallAmb Low 	Hall Ambulance (Unit Sign-on) 	FM 	EMS Dispatch 
-463.12500 	WNXF934 	RM	88.5 PL	HallAmb Main 	Hall Ambulance Main (West/Central County) 	FMN 	EMS Dispatch 
-452.77500 	WPBJ424 	RM	118.8 PL	HallAmb East 	Hall Ambulance East Dispatch 	FMN 	EMS Dispatch 
-452.35000 	WQVC994 	RM	77.0 PL	Liberty S 	Liberty Ambulance (Lower Kern River Valley) 	FMN 	EMS Dispatch 
-462.50000 	WQVC994 	RM	167.9 PL	Liberty N 	Liberty Ambulance (Upper Kern River Valley/Lake Isabella) 	FMN 	EMS Dispatch 
-463.47500 	WPTP653 	RM	192.8 PL	Liberty Ridg 	Liberty Ambulance (Ridgecrest) 	FMN 	EMS Dispatch 
-461.42500 	WNNG663 	RM	103.5 PL	Delano Amb 	Delano Ambulance 	FMN 	EMS Dispatch 
-463.17500 	KAL338 	RM	103.5 PL	Kern Amb 	Kern Ambulance 	FMN 	EMS Dispatch 
-462.95000 	KAI556 	RM	186.2 PL	EMS MED 9 	Medic to Hospital (Ridgecrest Regional Hosptial) 	FMN 	Hospital 
-453.30000 	KVX907 	RM	141.3 PL	Kern Co LG11 AC 	Animal Control 	FM 	Law Talk 
-453.45000 	KVX907 	RM	141.3 PL	Kern Co LG12 GS 	General Services/Agriculture 	FM 	Public Works 
-453.40000 	WNAP560 	RM	156.7 PL	Kern Co LG13 RDS 	Road Maintenance 	FM 	Public Works 
-453.70000 	KTK667 	BM	156.7 PL	Kern Co LG14 PRK 	Parks Department/Sanitation 	FM 	Public Works 
-453.40000 	WNHP643 	RM	162.2 PL	Kern Co Roads 	Roads & Bridges 	FM 	Public Works 
-453.51250 	WNUJ606 	M		MedicalCenterSec 	Medical Center Security 	FM 	Security 
-151.04000 	 	RM	210.7 PL	Kern Co MA SW 	S/W Kern - Mebane 	FMN 	Interop 
-154.75500 	 	RM	210.7 PL	Kern Co MA SE 	S/E Kern - Soledad 	FMN 	Interop 
-154.81500 	 	RM	210.7 PL	Kern Co MA NW 	N/W Kern - Blue Mtn 	FMN 	Interop 
-154.81500 	 	RM	210.7 PL	Kern Co MA NE 	N/E Kern - FM Hill 	FMN 	Interop 
-155.26500 	 	RM	210.7 PL	Kern Co MA Val 	Kern Valley - Rocky Pt 	FMN 	Interop 
-453.26250 	WQFT344 	RM	151.4 PL	Arvin PD 	Police Dispatch 	FM 	Law Dispatch 
-155.31000 	KMJ448 	RM	165 DPL	Bakersfield PD1 	Police Dispatch East (Primary when combined) 	FM 	Law Dispatch 
-154.80000 	KMJ448 	RM	265 DPL	Bakersfield PD2 	Police Dispatch West (Car to Car when combined) 	FM 	Law Dispatch 
-155.19000 	KMJ448 	RM	365 DPL	Bakersfield PD3 	Police Records 	FM 	Law Tac 
-154.74000 	KMJ448 	RM	465 DPL	Bakersfield PD4 	Police Ch 4 	FM 	Law Tac 
-155.55000 	KMJ448 	BM	525 NAC	Bakersfield PD5 	Police Ch 5 	P25 	Law Tac 
-155.43000 	KMJ448 	BM	525 NAC	Bakersfield PD6 	Police Ch 6 	P25 	Law Tac 
-154.07000 	KMA777 	RM	103.5 PL	Bakersfield FD1 	Fire Dispatch 	FM 	Fire Dispatch 
-153.95000 	KMA777 	RM	103.5 PL	Bakersfield FD2 	Fire Ch 2 	FM 	Fire-Tac 
-154.14500 	 	M	103.5 PL	Bakersfield FDT2 	Fire Tac 2 	FMN 	Fire-Tac 
-154.17500 	 	M	103.5 PL	Bakersfield FDT3 	Fire Tac 3 	FMN 	Fire-Tac 
-173.22500 	 	M	141.3 PL	BakersfieldFDExt 	Fire Extenders 	FMN 	Fire-Tac 
-153.99500 	KAS419 	RM	103.5 PL	Bakersfield LG1 	Local Government 1 - Equipment Division 	FM 	Public Works 
-153.87500 	KAS419 	RM	203.5 PL	Bakersfield LG2 	Local Government 2 - Sanitation Department 	FM 	Public Works 
-154.35500 	WSL678 		CSQ	Cal City FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.44500 	WSL678 		131.8 PL	Cal City FD2 	Fire Command 	FMN 	Fire-Tac 
-155.08500 	 		CSQ	Cal City FD3 	Fire Tac 	FMN 	Fire-Tac 
-460.60000 	WPKM510 	RM	146.2 PL	Cal City FD4 	Fire Admin - Station 19 	FM 	Fire-Tac 
-460.62500 	WPKM510 	RM		Cal City FD5 	Fire Admin 	FM 	Fire-Tac 
-154.11500 	WPKC767 	BM		Cal City PW 	Public Works 	FM 	Public Works 
-453.50000 	WSL679 	RM		Cal City SAR 	Search/Rescue/DIRT Team 	FM 	Emergency Ops 
-460.32500 	WPVC293 	RM	627 DPL	Delano PD1 	Police Dispatch 	FM 	Law Dispatch 
-460.40000 	WPVC293 	RM	627 DPL	Delano PD2 	Police Tac 	FM 	Law Talk 
-453.18750 	WQLV808 	RM	162.2 PL	McFarland PD1 	Police Dispatch 	FM 	Law Dispatch 
-453.82500 	WQLV808 	RM		McFarland PD2 	Police Secondary 	FM 	Law Tac 
-453.80000 	WQLR660 	RM	210.7 PL	Ridgecrest PD 	Police Dispatch 	FM 	Law Dispatch 
-153.99500 	WPJY458 	BM		Ridgecrest LG 	Local Government 	FM 	Public Works 
-154.11500 	WPJY458 	BM		Ridgecrest LG 	Local Government 	FM 	Public Works 
-460.42500 	WNSL410 	RM	293 NAC	Shafter PD1 	Police Dispatch 	P25 	Law Dispatch 
-460.42500 	 	RM	131.8 PL	Shafter PD2 	Police Dispatch 	FMN 	Law Dispatch 
-453.70000 	 	M	131 NAC	Shafter PD Tac 	Police Tac 	P25 	Law Tac 
-460.25000 	 	RM	131.8 PL	Shafter CCF 	Community Corrections Facility 	FMN 	Corrections 
-453.75000 	WQCG934 	RM		Shafter PW 	Public Works 	FM 	Public Works 
-453.80000 	WNSL410 	RM	CSQ	Shafter Svcs 	Services 	FM 	Public Works 
-453.10000 	WXF905 	RM	107.2 PL	Taft PD 	Police Dispatch 	FM 	Law Dispatch 
-460.46250 	WQUV521 	RM	131.8 PL	Tehachapi PD 	Police Dispatch (El Rancho Repeater) 	FMN 	Law Dispatch 
-460.27500 	WQUV521 	RM	131.8 PL	TPD Rockpile 	Police Secondary (Rockpile Repeater) 	FMN 	Law Talk 
-461.20000 	WQPJ564 	RM	218.1 PL	Tehachapi PW 	Public Works 	FMN 	Public Works 
-453.27500 	WQWV783 	RM	131.8 PL	BVSCSD PD 	Police Operations 	FMN 	Law Talk 
-451.02500 	WNUM957 	RM	123.0 PL	KVSAR Ops 	Operations 	FM 	Emergency Ops 
-155.22000 	KBI875 	BM		 IWVSAR Ops 	Operations 	FM 	Emergency Ops 
-155.16000 	KBI875 	BM		 NAT SAR 	National SAR freq 	FM 	Emergency Ops 
-159.66000 	 	BM		 SJVRR Ops 	Operations 	FM 	Railroad 
-154.74000 	KTO280 	RM	100.0 PL	CSU Baker PD 	Police Dispatch 	FM 	Law Dispatch 
-155.49000 	WNJZ231 	RM	203.5 PL	Bkrsfld College 	Bakersfield College Security 	FM 	Security 
-460.52500 	WPGN220 	RM	167.9 PL	KHSD PD 	Police Dispatch 	FM 	Schools 
-463.20000 	 			KHSD Maint 	Maintenance Dispatch 	FM 	Schools 
-463.77500 	WPPA739 	RM	131.8 PL	KHSD Buses 	Bus Dispatch 	FM 	Schools 
-45.92000 	WPKP976 	BM		TUSD Trans 	Transportation   	FM 	Schools 
-866.12500 	WPUG599 	RM	118.8 PL	GET Bus Ops 	Bus Operations 	FM 	Transportation 
-866.62500 	WPUG599 	RM	118.8 PL	GET Paratransit 	Paratransit 	FM 	Transportation 
-ATT (LTR)	 LTR Standard	 Various	California City	 DMR Motorola Capacity Plus Single Site (TRBO)	 California City	California Correctional Institution	 Motorola Type I
- Tehachapi	California Department of Corrections and Rehabilitation	 Project 25 Phase II	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	Cook's Communications ValleyNet
- NXDN NEXEDGE 4800	 Various	Dreyer's Grand Ice Cream Plant	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bakersfield	Federal Correctional Institution Taft	 Motorola Type II	 Taft
-Gilcomm (Bear Mountain)	 LTR Standard	 Bear Valley Springs	Gilcomm (McKittrick Summit)	 LTR Standard	 McKittrick	Gilcomm (Rocky Point)	 LTR Standard
- Rocky Point	Gilcomm 800 MHz (Mt Adelaide)	 LTR Standard	 Bakersfield	Gilcomm UHF (Mt Adelaide)	 LTR Standard	 Bakersfield	Hyundai-Kia California Proving Ground
- DMR Motorola Capacity Plus Single Site (TRBO)	 Mojave	Kern Valley State Prison	 Motorola Type II Smartnet	 Delano	Los Angeles City Department of Water and Power	 Project 25 Phase I	 Los Angeles
-North Kern State Prison	 Motorola Type I	 Delano	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	San Bernardino County (P25)	 Project 25 Phase I
- Various	SC Communications (Breckenridge)	 Motorola Type II	 Bakersfield	Southern California Edison	 Project 25 Phase II	 Various	The Radio Guys
- NXDN NEXEDGE 4800	 Various	Wasco State Prison	 Motorola Type I	 Wasco	
+460.57500 	465.57500  	KVX907 	RM	192.8 PL	KCSO Metro 	Metro Dispatch/Metro Bakersfield 	FMN 	Law Dispatch 
+453.92500 	458.92500  	KCI548 	RM	192.8 PL	KCSO Metro Tac 	Metro Tac/Metro Bakersfield 	FMN 	Law Tac 
+460.10000 	465.10000  	WNHP642 	RM	192.8 PL	KCSO West 	West Dispatch 	FMN 	Law Dispatch 
+453.37500 	458.37500  	KCI548 	RM	192.8 PL	KCSO West Tac 	West Tac 	FMN 	Law Tac 
+460.22500 	465.22500  	KWE370 	RM	192.8 PL	KCSO East 	East Dispatch 	FMN 	Law Dispatch 
+460.12500 	465.12500  	WPYR251 	RM	192.8 PL	KCSO East Tac 	East Tac 	FMN 	Law Tac 
+453.05000 	458.05000  	WNHP643 	RM	192.8 PL	KCSO Admin 	Admin 	FMN 	Law Tac 
+453.22500 	458.22500  	KCI548 	RM	131.8 PL	KCSO Mutual Aid 	Countywide Mutual Aid 	FMN 	Interop 
+460.13750 	465.13750  	WPYX333 	RM		KCSO SWAT? 	Sheriff SWAT? 	P25 	Law Tac 
+460.15000 	465.15000  	WPYR251 	RM	192.8 PL	KCSO Secure 	Secure (Narcotics/SWAT/EOD) 	FMN 	Law Tac 
+453.53750 	458.53750  	WPYS882 	RM	251 DPL	KCSO DT1 Courts 	Downtown 1 - Court Services 	FMN 	Corrections 
+453.63750 	458.63750  	WPYS882 	RM	261 DPL	KCSO DT2 CRF 	Downtown 2 - Central Receiving Facility (CRF) 	FMN 	Corrections 
+453.83750 	458.83750  	WPYS882 	RM	263 DPL	KCSO DT3 GSB 	Downtown 3 - General Services Building Security 	FMN 	Law Talk 
+453.57500 	458.57500  	WPYS882 	RM	306 DPL	KCSO KMC Sec 	Kern Medical Center Security 	FMN 	Law Talk 
+453.66250 	458.66250  	WPYS882 	RM	411 DPL	KCSO Lerdo 1 	Lerdo Detention 1 - Pretrial Facility 	FMN 	Corrections 
+453.76250 	458.76250  	WPYS882 	RM	412 DPL	KCSO Lerdo 2 	Lerdo Detention 2 - Maximum/Medium Security 	FMN 	Corrections 
+453.32500 	458.32500  	WPYS882 	RM	413 DPL	KCSO Lerdo 3 	Lerdo Detention 3 - Minimum Security 	FMN 	Corrections 
+453.55000 	458.55000  	WPYS882 	RM	423 DPL	KCSO Lerdo 4 	Lerdo Detention 4 - Maintenance 	FMN 	Corrections 
+453.35000 	458.35000  	WNXF445 	RM	606 DPL	KCSO Airport 	Bakersfield Meadows Airport Security 	FMN 	Law Talk 
+45.06000 	42.38000  	WQOI924 	RM	136.5 PL	Local Law LB 	Local Law VHF Low Band (CHP Tac 6) 	FM 	Interop 
+155.01000 	158.79000  	KMJ448 	RM	411 DPL	Local Law HB 	Local Law VHF High Band 	FM 	Interop 
+453.72500 	458.72500  	WNAZ269 	RM	131.8 PL	Local Law UHF 	Local Law UHF 	FM 	Interop 
+460.17500 	465.17500  	WNHP643 	RM	192.8 PL	Kern Co Prob 	Probation Dispatch 	FMN 	Law Dispatch 
+453.56250 	458.56250  	WPYS882 	RM	311 DPL	Kern Co JH 	Juvenile Hall 	FMN 	Corrections 
+453.56250 	458.56250  	WNHP643 	RM	503 DPL	Kern Co CmpOwen 	Camp Owen 	FMN 	Corrections 
+453.81250 	458.81250  	WPYS882 	RM	431 DPL	Lerdo 5 Juv 	Lerdo Detention 5 - Juvenile Facilities 	FMN 	Corrections 
+153.78500 	158.89500  	KCI548 	RM	167.9 PL	Kern Co FD 1 	Dispatch 	FMN 	Fire Dispatch 
+155.88000 	158.94000  	KCI548 	RM	167.9 PL	Kern Co FD 2 	Secondary Command County Wide 	FMN 	Fire-Tac 
+151.47500 	   	WPYX333 	M	167.9 PL	Kern Co FD TacV2 	Tac V2 	FMN 	Fire-Talk 
+155.62500 	158.85000  	WPYN351 	RM	167.9 PL	Kern Co FD 3 	Command County Wide 	FMN 	Fire-Tac 
+151.45250 	   	WPYX333 	M	167.9 PL	Kern Co FD TacV3 	Tac V3 	FMN 	Fire-Talk 
+154.86000 	158.82000  	KCI548 	RM	167.9 PL	Kern Co FD 4 	West Command (Batt. 3 & 6) 	FMN 	Fire-Tac 
+154.95000 	   	WPYX333 	M	167.9 PL	Kern Co FD TacV4 	Tac V4 	FMN 	Fire-Talk 
+151.10000 	156.99000  	WPYQ997 	RM	167.9 PL	Kern Co FD 5 	Eastern Command (Batt. 1 & 7) 	FMN 	Fire-Tac 
+154.08500 	   	WPYX333 	M	167.9 PL	Kern Co FD TacV5 	Tac V5 	FMN 	Fire-Talk 
+151.11500 	156.22500  	 	RM	167.9 PL	Kern Co FD 6 	Command North Metro (Batt. 6) 	FMN 	Fire-Tac 
+156.16500 	   	 	M	167.9 PL	Kern Co FD TacV6 	Tac V6 	FMN 	Fire-Talk 
+154.84500 	156.19500  	 	RM	167.9 PL	Kern Co FD 7 	Command South Metro (Batt. 4) 	FMN 	Fire-Tac 
+151.12250 	   	 	M	167.9 PL	Kern Co FD TacV7 	Tac V7 	FMN 	Fire-Talk 
+154.65000 	   	 	M	167.9 PL	Kern Co FDTacV15 	Training Tac 	FMN 	Fire-Talk 
+159.15000 	   	 	M		Kern Co FD 16C 	Tac 16C 	FMN 	Fire-Talk 
+155.70000 	   	 	M	167.9 PL	Kern Co FDTacV16 	Ops Tac 	FMN 	Fire-Talk 
+154.78500 	156.00000  	WRCE560 	RM	167.9 PL	Kern Co FD 21 	Rosamond Repeater 	FMN 	Fire-Talk 
+155.13000 	159.00000  	WNVW302 	RM	167.9 PL	Kern Co FD 25 	Rosamond Repeater 	FMN 	Fire-Talk 
+153.99500 	158.77500  	 	RM	167.9 PL	Kern Co FD 27 	Hwy 395 Repeater (Red Mountain to Kramer Junction) 	FMN 	Fire-Talk 
+152.84000 	   	 	B		Kern Co EMS Pgrs 	EMS Pagers 	Telm 	Data 
+154.89000 	   	 	BM	167.9 PL	Kern Co AG 	Air to Ground 	FMN 	Fire-Tac 
+173.22500 	   	 	M	CSQ	Kern Co FD Ext 	Fire Extenders 	FMN 	Fire-Talk 
+453.45000 	458.45000  	KVX907 	RM	141.3 PL	Kern Co FD U-12 	Countywide Command U-12 	FMN 	Fire-Talk 
+465.07500 	   	WPYX333 	M	141.3 PL	Kern Co FD T-U12 	Countywide Tac U-12 	FMN 	Fire-Tac 
+47.54000 	   	KNNT260 	BM	162.2 PL	HallAmb Low 	Hall Ambulance (Unit Sign-on) 	FM 	EMS Dispatch 
+463.12500 	468.12500  	WNXF934 	RM	88.5 PL	HallAmb Main 	Hall Ambulance Main (West/Central County) 	FMN 	EMS Dispatch 
+452.77500 	457.77500  	WPBJ424 	RM	118.8 PL	HallAmb East 	Hall Ambulance East Dispatch 	FMN 	EMS Dispatch 
+452.35000 	457.35000  	WQVC994 	RM	77.0 PL	Liberty S 	Liberty Ambulance (Lower Kern River Valley) 	FMN 	EMS Dispatch 
+462.50000 	467.50000  	WQVC994 	RM	167.9 PL	Liberty N 	Liberty Ambulance (Upper Kern River Valley/Lake Isabella) 	FMN 	EMS Dispatch 
+463.47500 	468.47500  	WPTP653 	RM	192.8 PL	Liberty Ridg 	Liberty Ambulance (Ridgecrest) 	FMN 	EMS Dispatch 
+461.42500 	466.42500  	WNNG663 	RM	103.5 PL	Delano Amb 	Delano Ambulance 	FMN 	EMS Dispatch 
+463.17500 	468.17500  	KAL338 	RM	103.5 PL	Kern Amb 	Kern Ambulance 	FMN 	EMS Dispatch 
+462.95000 	467.95000  	KAI556 	RM	186.2 PL	EMS MED 9 	Medic to Hospital (Ridgecrest Regional Hosptial) 	FMN 	Hospital 
+453.30000 	458.30000  	KVX907 	RM	141.3 PL	Kern Co LG11 AC 	Animal Control 	FM 	Law Talk 
+453.45000 	458.45000  	KVX907 	RM	141.3 PL	Kern Co LG12 GS 	General Services/Agriculture 	FM 	Public Works 
+453.40000 	458.40000  	WNAP560 	RM	156.7 PL	Kern Co LG13 RDS 	Road Maintenance 	FM 	Public Works 
+453.70000 	   	KTK667 	BM	156.7 PL	Kern Co LG14 PRK 	Parks Department/Sanitation 	FM 	Public Works 
+453.40000 	   	WNHP643 	RM	162.2 PL	Kern Co Roads 	Roads & Bridges 	FM 	Public Works 
+453.51250 	   	WNUJ606 	M		MedicalCenterSec 	Medical Center Security 	FM 	Security 
+151.04000 	159.04500  	 	RM	210.7 PL	Kern Co MA SW 	S/W Kern - Mebane 	FMN 	Interop 
+154.75500 	158.87250  	 	RM	210.7 PL	Kern Co MA SE 	S/E Kern - Soledad 	FMN 	Interop 
+154.81500 	159.16500  	 	RM	210.7 PL	Kern Co MA NW 	N/W Kern - Blue Mtn 	FMN 	Interop 
+154.81500 	158.91000  	 	RM	210.7 PL	Kern Co MA NE 	N/E Kern - FM Hill 	FMN 	Interop 
+155.26500 	158.99250  	 	RM	210.7 PL	Kern Co MA Val 	Kern Valley - Rocky Pt 	FMN 	Interop 
+453.26250 	458.26250  	WQFT344 	RM	151.4 PL	Arvin PD 	Police Dispatch 	FM 	Law Dispatch 
+155.31000 	156.03000  	KMJ448 	RM	165 DPL	Bakersfield PD1 	Police Dispatch East (Primary when combined) 	FM 	Law Dispatch 
+154.80000 	155.85000  	KMJ448 	RM	265 DPL	Bakersfield PD2 	Police Dispatch West (Car to Car when combined) 	FM 	Law Dispatch 
+155.19000 	155.79000  	KMJ448 	RM	365 DPL	Bakersfield PD3 	Police Records 	FM 	Law Tac 
+154.74000 	159.09000  	KMJ448 	RM	465 DPL	Bakersfield PD4 	Police Ch 4 	FM 	Law Tac 
+155.55000 	   	KMJ448 	BM	525 NAC	Bakersfield PD5 	Police Ch 5 	P25 	Law Tac 
+155.43000 	   	KMJ448 	BM	525 NAC	Bakersfield PD6 	Police Ch 6 	P25 	Law Tac 
+154.07000 	154.41500  	KMA777 	RM	103.5 PL	Bakersfield FD1 	Fire Dispatch 	FM 	Fire Dispatch 
+153.95000 	154.37000  	KMA777 	RM	103.5 PL	Bakersfield FD2 	Fire Ch 2 	FM 	Fire-Tac 
+154.14500 	   	 	M	103.5 PL	Bakersfield FDT2 	Fire Tac 2 	FMN 	Fire-Tac 
+154.17500 	   	 	M	103.5 PL	Bakersfield FDT3 	Fire Tac 3 	FMN 	Fire-Tac 
+173.22500 	   	 	M	141.3 PL	BakersfieldFDExt 	Fire Extenders 	FMN 	Fire-Tac 
+153.99500 	155.94000  	KAS419 	RM	103.5 PL	Bakersfield LG1 	Local Government 1 - Equipment Division 	FM 	Public Works 
+153.87500 	158.77500  	KAS419 	RM	203.5 PL	Bakersfield LG2 	Local Government 2 - Sanitation Department 	FM 	Public Works 
+154.35500 	   	WSL678 		CSQ	Cal City FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.44500 	   	WSL678 		131.8 PL	Cal City FD2 	Fire Command 	FMN 	Fire-Tac 
+155.08500 	   	 		CSQ	Cal City FD3 	Fire Tac 	FMN 	Fire-Tac 
+460.60000 	465.60000  	WPKM510 	RM	146.2 PL	Cal City FD4 	Fire Admin - Station 19 	FM 	Fire-Tac 
+460.62500 	465.62500  	WPKM510 	RM		Cal City FD5 	Fire Admin 	FM 	Fire-Tac 
+154.11500 	   	WPKC767 	BM		Cal City PW 	Public Works 	FM 	Public Works 
+453.50000 	458.50000  	WSL679 	RM		Cal City SAR 	Search/Rescue/DIRT Team 	FM 	Emergency Ops 
+460.32500 	465.32500  	WPVC293 	RM	627 DPL	Delano PD1 	Police Dispatch 	FM 	Law Dispatch 
+460.40000 	465.40000  	WPVC293 	RM	627 DPL	Delano PD2 	Police Tac 	FM 	Law Talk 
+453.18750 	   	WQLV808 	RM	162.2 PL	McFarland PD1 	Police Dispatch 	FM 	Law Dispatch 
+453.82500 	   	WQLV808 	RM		McFarland PD2 	Police Secondary 	FM 	Law Tac 
+453.80000 	458.80000  	WQLR660 	RM	210.7 PL	Ridgecrest PD 	Police Dispatch 	FM 	Law Dispatch 
+153.99500 	   	WPJY458 	BM		Ridgecrest LG 	Local Government 	FM 	Public Works 
+154.11500 	   	WPJY458 	BM		Ridgecrest LG 	Local Government 	FM 	Public Works 
+460.42500 	465.42500  	WNSL410 	RM	293 NAC	Shafter PD1 	Police Dispatch 	P25 	Law Dispatch 
+460.42500 	465.42500  	 	RM	131.8 PL	Shafter PD2 	Police Dispatch 	FMN 	Law Dispatch 
+453.70000 	   	 	M	131 NAC	Shafter PD Tac 	Police Tac 	P25 	Law Tac 
+460.25000 	465.25000  	 	RM	131.8 PL	Shafter CCF 	Community Corrections Facility 	FMN 	Corrections 
+453.75000 	458.75000  	WQCG934 	RM		Shafter PW 	Public Works 	FM 	Public Works 
+453.80000 	458.80000  	WNSL410 	RM	CSQ	Shafter Svcs 	Services 	FM 	Public Works 
+453.10000 	458.10000  	WXF905 	RM	107.2 PL	Taft PD 	Police Dispatch 	FM 	Law Dispatch 
+460.46250 	465.46250  	WQUV521 	RM	131.8 PL	Tehachapi PD 	Police Dispatch (El Rancho Repeater) 	FMN 	Law Dispatch 
+460.27500 	465.27500  	WQUV521 	RM	131.8 PL	TPD Rockpile 	Police Secondary (Rockpile Repeater) 	FMN 	Law Talk 
+461.20000 	466.20000  	WQPJ564 	RM	218.1 PL	Tehachapi PW 	Public Works 	FMN 	Public Works 
+453.27500 	458.27500  	WQWV783 	RM	131.8 PL	BVSCSD PD 	Police Operations 	FMN 	Law Talk 
+451.02500 	456.02500  	WNUM957 	RM	123.0 PL	KVSAR Ops 	Operations 	FM 	Emergency Ops 
+155.22000 	   	KBI875 	BM		 IWVSAR Ops 	Operations 	FM 	Emergency Ops 
+155.16000 	   	KBI875 	BM		 NAT SAR 	National SAR freq 	FM 	Emergency Ops 
+159.66000 	   	 	BM		 SJVRR Ops 	Operations 	FM 	Railroad 
+154.74000 	156.02500  	KTO280 	RM	100.0 PL	CSU Baker PD 	Police Dispatch 	FM 	Law Dispatch 
+155.49000 	153.81500  	WNJZ231 	RM	203.5 PL	Bkrsfld College 	Bakersfield College Security 	FM 	Security 
+460.52500 	465.52500  	WPGN220 	RM	167.9 PL	KHSD PD 	Police Dispatch 	FM 	Schools 
+463.20000 	   	 			KHSD Maint 	Maintenance Dispatch 	FM 	Schools 
+463.77500 	468.77500  	WPPA739 	RM	131.8 PL	KHSD Buses 	Bus Dispatch 	FM 	Schools 
+45.92000 	   	WPKP976 	BM		TUSD Trans 	Transportation   	FM 	Schools 
+866.12500 	   	WPUG599 	RM	118.8 PL	GET Bus Ops 	Bus Operations 	FM 	Transportation 
+866.62500 	   	WPUG599 	RM	118.8 PL	GET Paratransit 	Paratransit 	FM 	Transportation 
+ATT (LTR)	 LTR Standard	 Various	California City	 DMR Motorola Capacity Plus Single Site (TRBO)	 California City	California Correctional Institution	 Motorola Type I	 Tehachapi
+Cook's Communications ValleyNet	 NXDN NEXEDGE 4800	 Various	Dreyer's Grand Ice Cream Plant	 DMR Motorola Capacity Plus Single Site (TRBO)	 Bakersfield	Federal Correctional Institution Taft	 Motorola Type II	 Taft
+Gilcomm (Bear Mountain)	 LTR Standard	 Bear Valley Springs	Gilcomm (McKittrick Summit)	 LTR Standard	 McKittrick	Gilcomm (Rocky Point)	 LTR Standard	 Rocky Point
+Gilcomm 800 MHz (Mt Adelaide)	 LTR Standard	 Bakersfield	Gilcomm UHF (Mt Adelaide)	 LTR Standard	 Bakersfield	Hyundai-Kia California Proving Ground	 DMR Motorola Capacity Plus Single Site (TRBO)	 Mojave
+Kern Valley State Prison	 Motorola Type II Smartnet	 Delano	Los Angeles City Department of Water and Power	 Project 25 Phase I	 Los Angeles	North Kern State Prison	 Motorola Type I	 Delano
+Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	San Bernardino County (P25)	 Project 25 Phase I	 Various	SC Communications (Breckenridge)	 Motorola Type II	 Bakersfield
+The Radio Guys	 NXDN NEXEDGE 4800	 Various	Wasco State Prison	 Motorola Type I	 Wasco	

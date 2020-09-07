@@ -1,16 +1,21 @@
-154.75500 	WQBX917 	RM	179.9 PL	AndersCo SO1 	Sheriff Primary 	FMN 	Law Dispatch 
-155.41500 	WQBX917 	RM	179.9 PL	AndersCo SO2 	Sheriff Secondary 	FMN 	Law Tac 
-155.53500 	WNXC355 	RM	179.9 PL	AndersCoNarc 	Sheriff Drug Investigation Unit 	FMN 	Law Tac 
-154.31000 	WNBX373 	RM	179.9 PL	AndersCoFire 	Fire Dispatch 	FMN 	Fire Dispatch 
-155.82750 	WPNY266 	RM	179.9 PL	North Co Tac 	Fire North Tactical 	FMN 	Fire-Tac 
-156.21750 	WPNY266 	RM	179.9 PL	South Co Tac 	Fire South Tactical 	FMN 	Fire-Tac 
-155.04000 	KNHJ781 	RM	167.9 PL	AndersCo R&B 	Roads and Bridges 	FMN 	Other 
-158.83500 	KRA427 	RM	179.9 PL	Elkhrt FD/PD 	Fire/Police Dispatch 	FMN 	Multi-Dispatch 
-156.00000 	KNEJ759 	RM	179.9 PL	Frankston PD 	Police Dispatch 	FMN 	Law Dispatch 
-159.12000 	WPMQ697 	RM	179.9 PL	Frankston FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-157.68000 	WNFC775 	RM	065 DPL	PalestineISD 	School Bus Dispatch 	FMN 	Schools 
-464.67500 	WPEN449 	RM	67.0 PL	Walmart DC1 	Operations 	FMN 	Business 
-464.97500 	WPEN449 	RM	67.0 PL	Walmart DC2 	Operations 	FMN 	Business 
-Anderson County	 LTR Standard	 Various	DFW Communications	 LTR Standard	 Various	Nalcom (Cayuga)	 LTR Standard
- Cayuga	Nalcom (NEXEDGE)	 NXDN NEXEDGE 9600	 Various	Nalcom (Palestine)	 LTR Standard	 Palestine	Oncor Energy
- EDACS Narrowband Networked	 Various	Trinity Valley Electric Coop	 DMR Motorola Capacity Plus Multi Site (TRBO)	 	
+154.75500 	156.09000  	WQBX917 	RM	179.9 PL	AndersCo SO1 	Sheriff Primary 	FMN 	Law Dispatch 
+155.41500 	158.97000  	WQBX917 	RM	179.9 PL	AndersCo SO2 	Sheriff Secondary 	FMN 	Law Tac 
+155.53500 	159.03000  	WNXC355 	RM	179.9 PL	AndersCoNarc 	Sheriff Drug Investigation Unit 	FMN 	Law Tac 
+154.31000 	153.95000  	WNBX373 	RM	179.9 PL	AndersCoFire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.82750 	153.76250  	WPNY266 	RM	179.9 PL	North Co Tac 	Fire North Tactical 	FMN 	Fire-Tac 
+156.21750 	154.03250  	WPNY266 	RM	179.9 PL	South Co Tac 	Fire South Tactical 	FMN 	Fire-Tac 
+155.04000 	153.93500  	KNHJ781 	RM	167.9 PL	AndersCo R&B 	Roads and Bridges 	FMN 	Other 
+158.83500 	153.87500  	KRA427 	RM	179.9 PL	Elkhrt FD/PD 	Fire/Police Dispatch 	FMN 	Multi-Dispatch 
+156.00000 	155.11500  	KNEJ759 	RM	179.9 PL	Frankston PD 	Police Dispatch 	FMN 	Law Dispatch 
+159.12000 	153.83000  	WPMQ697 	RM	179.9 PL	Frankston FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.86500 	154.84500  	KNFZ679 	RM	205 NAC	Palestine PD 1 	Police Dispatch 	P25 	Law Dispatch 
+155.63250 	158.94000  	WQIB864 	RM		Palestine PD 2 	Police New Repeater 	FMN 	Law Tac 
+155.77500 	   	KNFZ679 	BM		Palestine PD 3 	Police Tactical 	FMN 	Law Tac 
+154.19000 	150.77500  	KLA439 	RM	179.9 PL	Palestine Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+155.95500 	158.76000  	KKL549 	RM	179.9 PL	Palestine Util 	Utilities 	FMN 	Utilities 
+157.68000 	   	WNFC775 	RM	065 DPL	PalestineISD 	School Bus Dispatch 	FMN 	Schools 
+464.67500 	469.67500  	WPEN449 	RM	67.0 PL	Walmart DC1 	Operations 	FMN 	Business 
+464.97500 	469.97500  	WPEN449 	RM	67.0 PL	Walmart DC2 	Operations 	FMN 	Business 
+Anderson County	 LTR Standard	 Various	BrandMeister Texas	 DMR Conventional Networked	 Various	DFW Communications	 LTR Standard	 Various
+Nalcom (Cayuga)	 LTR Standard	 Cayuga	Nalcom (NEXEDGE)	 NXDN NEXEDGE 9600	 Various	Nalcom (Palestine)	 LTR Standard	 Palestine
+Oncor Energy	 EDACS Narrowband Networked	 Various	Trinity Valley Electric Coop	 DMR Motorola Capacity Plus Multi Site (TRBO)	 	

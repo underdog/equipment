@@ -1,28 +1,27 @@
-155.10000 	WPIK592 	RM	114.8 PL	WBFIR 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.44500 	WQG790 	BM	151.4 PL	WBFG 	Fireground 	FMN 	Fire-Tac 
-155.73000 	WLA64 	RM	151.4 PL	WBSON 	Sheriff Dispatch - North Repeater 	FMN 	Law Dispatch 
-155.73000 	WLA64 	RM	801 NAC	WBSON 	Sheriff Dispatch - North Digital Repeater 	P25e 	Law Dispatch 
-155.73000 	WLA64 	RM	151.4 PL	WBSOS 	Sheriff Dispatch - South Repeater 	FMN 	Law Dispatch 
-155.73000 	WLA64 	RM	801 NAC	WBSOS 	Sheriff Dispatch - South Digital Repeater 	P25e 	Law Dispatch 
-154.75500 	WLA64 	RM		WBSO Pt Rptr 	Sheriff Portable Repeater 	FMN 	Law Tac 
-460.20000 	WLA64 	RM	073 DPL	WBJAIL 	Jail 	FMN 	Corrections 
-151.08500 	WPSL675 	RM	151.4 PL	WBHWY 	Highways 	FMN 	Public Works 
-155.92500 	WPMD877 	BM	364 DPL	Birchwood PW 	Public Works 	FMN 	Public Works 
-155.92500 	WPFJ245 	M		Minong DPW 	Village of Minong DPW 	FMN 	Public Works 
-154.99500 	 		151.4 PL	TnMinong DPW 	Town of Minong DPW 	FMN 	Public Works 
-155.41500 	WPXB361 	RM	065 DPL	Spooner PD 	Police 	FMN 	Law Talk 
-154.81500 	WPXB361 	RM	271 DPL	Spooner DPW 	DPW / Utility / Fire 	FMN 	Public Works 
-155.11500 	KNJK931 	BM	151.4 PL	Spooner DPW 	Public Works 	FMN 	Public Works 
-155.18250 	KYJ685 	RM	151.4 PL	Spooner Hosp 	Spooner Memorial Hospital 	FMN 	Hospital 
-451.08750 	WQCN848 	F		Telemetry 	Telemetry 	Telm 	Data 
-152.42000 	WQKT884 	RM	88.5 PL	Badger Bus 	Badger Bus, Spooner 	FMN 	Transportation 
-153.53000 	KNNP492 	RM	754 DPL	WI Gas 	Wisconsin Gas 	FMN 	Utilities 
-159.99750 	KJL877 	BM	4 RAN	Hopkins 	Hopkins Sand & Gravel 	NXDN 	Business 
-160.57500 	 	BM	CSQ	WGN RR 1 	Wisconsin Great Northern Railroad 1 	FMN 	Railroad 
-161.26500 	 	BM	CSQ	WGN RR 2 	Wisconsin Great Northern Railroad 2 	FMN 	Railroad 
-451.18750 	WQCH677 	RM	218.1 PL	Link Snacks 	Link Snacks, Minong 	FMN 	Business 
-461.05000 	 	RM	026 DPL	Shell Lake Sch 	Shell Lake School Buses 	FMN 	Transportation 
-461.11250 	None 	M	67.0 PL	Kwik Trip 	Kwik Trip, Spooner 	FMN 	Business 
-461.52500 	WQFM524 	RM	79.7 PL	Boy Scouts 	Boy Scouts of America Tomahawk Scout Reservation 	FMN 	Business 
-Dairyland Power Cooperative	 DMR Tier 3	 Various	Great River Energy	 Project 25 Phase I	 	Wisconsin Interoperable System for Communications (WISCOM)	 Project 25 Phase I
- Statewide	
+155.10000 	153.93500  	WPIK592 	RM	114.8 PL	WBFIR 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.44500 	   	WQG790 	BM	151.4 PL	WBFG 	Fireground 	FMN 	Fire-Tac 
+155.73000 	154.65000  	WLA64 	RM	151.4 PL	WBSON 	Sheriff Dispatch - North Repeater 	FMN 	Law Dispatch 
+155.73000 	154.65000  	WLA64 	RM	801 NAC	WBSON 	Sheriff Dispatch - North Digital Repeater 	P25e 	Law Dispatch 
+155.73000 	154.95000  	WLA64 	RM	151.4 PL	WBSOS 	Sheriff Dispatch - South Repeater 	FMN 	Law Dispatch 
+155.73000 	154.95000  	WLA64 	RM	801 NAC	WBSOS 	Sheriff Dispatch - South Digital Repeater 	P25e 	Law Dispatch 
+154.75500 	158.91000  	WLA64 	RM		WBSO Pt Rptr 	Sheriff Portable Repeater 	FMN 	Law Tac 
+460.20000 	465.20000  	WLA64 	RM	073 DPL	WBJAIL 	Jail 	FMN 	Corrections 
+151.08500 	159.00000  	WPSL675 	RM	151.4 PL	WBHWY 	Highways 	FMN 	Public Works 
+155.92500 	   	WPMD877 	BM	364 DPL	Birchwood PW 	Public Works 	FMN 	Public Works 
+155.92500 	   	WPFJ245 	M		Minong DPW 	Village of Minong DPW 	FMN 	Public Works 
+154.99500 	   	 		151.4 PL	TnMinong DPW 	Town of Minong DPW 	FMN 	Public Works 
+155.41500 	153.81500  	WPXB361 	RM	065 DPL	Spooner PD 	Police 	FMN 	Law Talk 
+154.81500 	159.09000  	WPXB361 	RM	271 DPL	Spooner DPW 	DPW / Utility / Fire 	FMN 	Public Works 
+155.11500 	   	KNJK931 	BM	151.4 PL	Spooner DPW 	Public Works 	FMN 	Public Works 
+155.18250 	150.79000  	KYJ685 	RM	151.4 PL	Spooner Hosp 	Spooner Memorial Hospital 	FMN 	Hospital 
+451.08750 	   	WQCN848 	F		Telemetry 	Telemetry 	Telm 	Data 
+152.42000 	157.68000  	WQKT884 	RM	88.5 PL	Badger Bus 	Badger Bus, Spooner 	FMN 	Transportation 
+153.53000 	   	KNNP492 	RM	754 DPL	WI Gas 	Wisconsin Gas 	FMN 	Utilities 
+159.99750 	   	KJL877 	BM	4 RAN	Hopkins 	Hopkins Sand & Gravel 	NXDN 	Business 
+160.57500 	   	 	BM	CSQ	WGN RR 1 	Wisconsin Great Northern Railroad 1 	FMN 	Railroad 
+161.26500 	   	 	BM	CSQ	WGN RR 2 	Wisconsin Great Northern Railroad 2 	FMN 	Railroad 
+451.18750 	456.18750  	WQCH677 	RM	218.1 PL	Link Snacks 	Link Snacks, Minong 	FMN 	Business 
+461.05000 	466.05000  	 	RM	026 DPL	Shell Lake Sch 	Shell Lake School Buses 	FMN 	Transportation 
+461.11250 	   	None 	M	67.0 PL	Kwik Trip 	Kwik Trip, Spooner 	FMN 	Business 
+461.52500 	466.52500  	WQFM524 	RM	79.7 PL	Boy Scouts 	Boy Scouts of America Tomahawk Scout Reservation 	FMN 	Business 
+Dairyland Power Cooperative	 DMR Tier 3	 Various	Great River Energy	 Project 25 Phase I	 	

@@ -1,25 +1,25 @@
-154.32500 	WPET603 	RM	162.2 PL	KNOX FIRE 	County Fire (dispatch) 	FM 	Fire Dispatch 
-151.16000 	WQBJ550 	RM	77.0 PL	FTAC1 N 	North fireground 	FM 	Fire-Tac 
-159.29250 	WPSG855 	RM	77.0 PL	FTAC2 C 	Central fireground 	FM 	Fire-Tac 
-154.29500 	WQEU705 	RM	77.0 PL	FTAC3 E 	East fireground 	FM 	Fire-Tac 
-153.83000 	WPQY945 	BM	77.0 PL	FTAC4 MV 	Mt Vernon (city) fireground 	FM 	Fire-Tac 
-151.25000 	WQGH371 	RM	162.2 PL	FTAC5 W 	West fireground 	FM 	Fire-Tac 
-159.04500 	WPQY945 	RM	77.0 PL	MTVERN FIRE 	Mount Vernon Fire 	FM 	Fire Dispatch 
-154.32500 	WPET603 	RM	77.0 PL	KNOXFD CAR S 	County Fire (car to car south) 	FM 	Fire-Talk 
-154.32500 	WPET603 	RM	91.5 PL	KNOXFD CAR C 	County Fire (car to car central) 	FM 	Fire-Talk 
-154.32500 	WPET603 	RM	85.4 PL	KNOXFD CAR N 	County Fire (car to car north) 	FM 	Fire-Talk 
-159.33000 	WQDM383 	RM	107.2 PL	KNOX SHERIFF 	Knox County Sheriff - Dispatch 	FM 	Law Dispatch 
-155.37000 	WQDM383 	BM		SO INTERCITY 	Knox County Sheriff - Intercity 	FM 	Interop 
-155.92500 	WPXB945 	RM		KNOXCO JAIL 	Knox County Jail 	FM 	Law Talk 
-154.74000 	WPUN292 	RM	77.0 PL	MTVERN PD 	Mount Vernon Police 	FM 	Law Dispatch 
-37.96000 	KQF991 	BM		KNOXCO ENG 	Knox County Engineer 	FM 	Public Works 
-39.98000 	KXG912 	BM		KNOXCO W/S 	Knox County Water & Sewer 	FM 	Public Works 
-155.92500 	KQI461 	RM	77.0 PL	MTVERN SVCS 	Mount Vernon Services 	FM 	Public Works 
-453.37500 	WPVA681 	RM		KNOXCO MAINT 	Knox County Maintenance 	FM 	Public Works 
-453.67500 	WNYY710 	RM		KNOXCO MR/DD 	Knox County MR/DD 	FM 	Schools 
-452.05000 	WQFQ702 	RM	136.5 PL	AM REDCROSS 	American National Red Cross 	FM 	Emergency Ops 
-37.70000 	KNCM668 	BM		AEP ALT 	American Electric Power local backup 	FM 	Utilities 
-451.08750 	WPQI553 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
-451.12500 	WPPY603 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
-American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	KD8EVR Knox County DMR 	 DMR Conventional Networked	 Mount Vernon	Knox County Ham DMR 	 DMR Conventional Networked
- Mount Vernon	Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	
+154.32500 	153.89000  	WPET603 	RM	162.2 PL	KNOX FIRE 	County Fire (dispatch) 	FM 	Fire Dispatch 
+151.16000 	159.19500  	WQBJ550 	RM	77.0 PL	FTAC1 N 	North fireground 	FM 	Fire-Tac 
+159.29250 	153.80000  	WPSG855 	RM	77.0 PL	FTAC2 C 	Central fireground 	FM 	Fire-Tac 
+154.29500 	155.11500  	WQEU705 	RM	77.0 PL	FTAC3 E 	East fireground 	FM 	Fire-Tac 
+153.83000 	   	WPQY945 	BM	77.0 PL	FTAC4 MV 	Mt Vernon (city) fireground 	FM 	Fire-Tac 
+151.25000 	155.11500  	WQGH371 	RM	162.2 PL	FTAC5 W 	West fireground 	FM 	Fire-Tac 
+159.04500 	154.38500  	WPQY945 	RM	77.0 PL	MTVERN FIRE 	Mount Vernon Fire 	FM 	Fire Dispatch 
+154.32500 	153.89000  	WPET603 	RM	77.0 PL	KNOXFD CAR S 	County Fire (car to car south) 	FM 	Fire-Talk 
+154.32500 	153.89000  	WPET603 	RM	91.5 PL	KNOXFD CAR C 	County Fire (car to car central) 	FM 	Fire-Talk 
+154.32500 	153.89000  	WPET603 	RM	85.4 PL	KNOXFD CAR N 	County Fire (car to car north) 	FM 	Fire-Talk 
+159.33000 	153.84500  	WQDM383 	RM	107.2 PL	KNOX SHERIFF 	Knox County Sheriff - Dispatch 	FM 	Law Dispatch 
+155.37000 	   	WQDM383 	BM		SO INTERCITY 	Knox County Sheriff - Intercity 	FM 	Interop 
+155.92500 	153.90500  	WPXB945 	RM		KNOXCO JAIL 	Knox County Jail 	FM 	Law Talk 
+154.74000 	155.97000  	WPUN292 	RM	77.0 PL	MTVERN PD 	Mount Vernon Police 	FM 	Law Dispatch 
+37.96000 	   	KQF991 	BM		KNOXCO ENG 	Knox County Engineer 	FM 	Public Works 
+39.98000 	   	KXG912 	BM		KNOXCO W/S 	Knox County Water & Sewer 	FM 	Public Works 
+155.92500 	153.75500  	KQI461 	RM	77.0 PL	MTVERN SVCS 	Mount Vernon Services 	FM 	Public Works 
+453.37500 	458.37500  	WPVA681 	RM		KNOXCO MAINT 	Knox County Maintenance 	FM 	Public Works 
+453.67500 	458.67500  	WNYY710 	RM		KNOXCO MR/DD 	Knox County MR/DD 	FM 	Schools 
+452.05000 	457.05000  	WQFQ702 	RM	136.5 PL	AM REDCROSS 	American National Red Cross 	FM 	Emergency Ops 
+37.70000 	   	KNCM668 	BM		AEP ALT 	American Electric Power local backup 	FM 	Utilities 
+451.08750 	456.08750  	WPQI553 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+451.12500 	456.12500  	WPPY603 	RM		COLUMBIA GAS 	Columbia Gas of Ohio 	P25 	Utilities 
+American Electric Power (Eastern US)	 EDACS Networked Standard	 Multiple	KD8EVR Knox County DMR 	 DMR Conventional Networked	 Mount Vernon	Knox County Ham DMR 	 DMR Conventional Networked	 Mount Vernon
+Ohio MARCS-IP: Mobile Site 5A1	 Project 25 Phase I	 Statewide	Ohio MARCS-IP: Mobile Site 649	 Project 25 Phase I	 Statewide	

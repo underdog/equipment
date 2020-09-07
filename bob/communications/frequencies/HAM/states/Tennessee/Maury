@@ -1,74 +1,74 @@
-453.18750 	WPYH801 	RM	192.8 PL	MCSO-DISP1 A 	Sheriff's Department - Dispatch Analog 	FMN 	Law Dispatch 
-460.15000 	KUL720 	RM	127.3 PL	MCSO-DISP2 A 	Sheriff's Department - Dispatch Analog 	FMN 	Law Dispatch 
-463.53750 	 	M	127.3 PL	MaurySDSWAT 	Sheriff's Department - SWAT ("16") 	FMN 	Law Tac 
-469.50000 	 	M	127.3 PL	MaurySDJail 	Sheriff's Department - Jail 	FMN 	Law Tac 
-151.40000 	WQOX539 	RM		MCSO-VHF D 	Sheriff VHF Operations Digital 	NXDN 	Law Tac 
-453.18750 	WQOX539 	RM		MCSO-DISP1 D 	Sheriff - Dispatch Digital 	NXDN 	Law Dispatch 
-453.28750 	WQOX539 	RM		MCSO-OPS D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
-453.36250 	WQOX539 	RM		MCSO-OPS3 D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
-453.56250 	WQOX539 	RM		MCSO-OPS4 D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
-453.63750 	WQOX539 	RM		MCSO-OPS2 D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
-460.03750 	WQOX539 	RM		MCSO-OPS5 D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
-460.21250 	WQOX539 	RM		MCSO-OPS6 D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
-453.07500 	WPWG336 	RM	192.8 PL	MCFD MUTAID 	Fire Department - Backup / Interop 	FMN 	Interop 
-155.62500 	 	RM	107.2 PL	MCEMA-FIRE 	Emergency Management - County Fire Dispatch 	FMN 	Fire Dispatch 
-154.22000 	WNZB214 	BM	125 DPL	MCEMS DISP 	Maury Regional EMS - Dispatch 	FMN 	EMS Dispatch 
-463.01250 	 	RM	654 DPL	MCEMS DISP 2 	Maury Regional EMS - Dispatch (Simulcast 154.220) 	FMN 	EMS Dispatch 
-453.46250 	WQTL309 	RM	156.7 PL	MCEMA SSOPS 	Emergency Management - Storm Spotter Operations (UTAC41) 	FMN 	Emergency Ops 
-453.51250 	WPYH801 	RM	179.9 PL	MCEMA CMND 	Emergency Management - Disaster Coordination (Mobile Repeater) 	FMN 	Emergency Ops 
-453.81250 	 	M	179.9 PL	MCEMA OPS 2 	Emergency Management - Operations 2 	FMN 	Emergency Ops 
-467.85000 	 	M	179.9 PL	MCEMA OPS 3 	Emergency Management - Operations 3 	FMN 	Emergency Ops 
-467.87500 	 	M	179.9 PL	MCEMA OPS 4 	Emergency Management - Operations 4 	FMN 	Emergency Ops 
-467.90000 	 	M	179.9 PL	MCEMA OPS 5 	Emergency Management - Operations 5 	FMN 	Emergency Ops 
-467.92500 	 	M	179.9 PL	MCEMA OPS 6 	Emergency Management - Operations 6 	FMN 	Emergency Ops 
-460.31250 	 	RM		TEMA MUTAID 	Interconnect TEMA 	FMN 	Emergency Ops 
-151.00250 	WQHX807 	RM		MCDOT 	Highway Department 	FMN 	Public Works 
-153.00000 	 	BM	032 DPL	LIFEFLIGHT V 	Life Flight Dispatch VHF 	FMN 	EMS Dispatch 
-451.22500 	WPRL917 	RM	94.8 PL	LIFEFLIGHT U 	Life Flight Dispatch UHF 	FMN 	EMS Dispatch 
-152.27000 	WQBU852 	RM		MCA-NET 	Moore Care Ambulance Services (Non Emergency Transport) 	FMN 	Business 
-461.17500 	WQRU939 	RM		CSCC-SEC/OPS 	Columbia State Community College - Security/operations 	DMR 	Schools 
-159.18000 	WNRZ359 	BM	315 DPL	SALT TRUCKS 	Road Salt Trucks - Dispatch Ch. 1 	FMN 	Public Works 
-453.37500 	WNRW396 	RM	146.2 PL	MC PUB TRNSP 	Public Transportation 	FMN 	Transportation 
-460.35000 	WNEC786 	RM		CPD-DISP1 D 	Police Department Dispatch Digital (Encryption can be used) 	NXDNe 	Law Dispatch 
-460.35000 	WNEC786 	RM	127.3 PL	ColmbaPD350 	Police Department Analog Dispatch (No used?) 	FMN 	Law Dispatch 
-453.92500 	WNEC786 	RM	1 RAN	CPD-1 CENTRAL 	Police Department 1 Central 	NXDNe 	Law Tac 
-453.26250 	WNEC786 	RM	1 RAN	CPD-1 EAST 	Police Department 1 East 	NXDNe 	Law Tac 
-453.38750 	WNEC786 	RM		CPD-4D 	Police Department Digital (Encryption can be used) 	NXDNe 	Law Tac 
-461.77500 	 	M	CSQ	ColmbaPDC2C 	Police Department - Car to Car / Private ("6") 	FM 	Law Talk 
-460.51250 	 	M	127.3 PL	ColmbaPDSWAT 	Police Department - SWAT ("13") 	FM 	Law Tac 
-453.15000 	WYK530 	RM		CFD-DISP 	Fire Department Dispatch Digital 	NXDN 	Fire Dispatch 
-453.15000 	WYK530 	RM	179.9 PL	CFD-MUTAID 	Fire Department Analog Interop 	FMN 	Interop 
-453.16250 	WYK530 	RM		CFD-OPS 1 	Fire Department Digital 	NXDN 	Fire-Tac 
-460.13750 	WYK530 	RM	1 RAN	CFD-1 EAST 	Fire Department 1 East 	NXDN 	Fire-Tac 
-460.26250 	WYK530 	RM		CFD-OPS 3 	Fire Department Digital 	NXDN 	Fire-Tac 
-453.61250 	WYK530 	RM	1 RAN	CFD-1 Central 	Fire Department 1 Central 	NXDN 	Fire-Tac 
-453.95000 	WNKU796 	RM		ColmbaPWrks 	Public Works 	FM 	Public Works 
-855.98750 	KNNH515 	RM		ColmbaWstwtr 	Wastewater Department 	FM 	Utilities 
-45.16000 	KYU860 	BM		ColmbaPrks16 	Parks / Recreation 	FM 	Public Works 
-45.36000 	KYU860 	BM		ColmbaPrks36 	Parks / Recreation 	FM 	Public Works 
-451.07500 	KIF409 	RM	CC 11TG 1042SL 1	CPWS-POWER C 	Power and Water Systems - Power Central 	DMR 	Utilities 
-451.07500 	KIF409 	RM	CC 11TG 1142SL 2	CPWS-BROADBAND C 	Power and Water Systems - Broadband Central 	DMR 	Utilities 
-451.72500 	KIF409 	RM	CC 15TG 1342SL 2	CPWS-ADMIN C 	Power and Water Systems - Admin Central 	DMR 	Utilities 
-451.72500 	KIF409 	RM	CC 15TG 1242SL 1	CPWS-WATER C 	Power and Water Systems - Water Central 	DMR 	Utilities 
-452.50000 	KIF409 	RM	CC 12TG 1042SL 1	CPWS-POWER S 	Power and Water Systems - Power South 	DMR 	Utilities 
-452.50000 	KIF409 	RM	CC 12TG 1142SL 2	CPWS-BROADBAND S 	Power and Water Systems - Broadband South 	DMR 	Utilities 
-461.02500 	KIF409 	RM	CC 14TG 1242SL 1	CPWS-WATER S 	Power and Water Systems - Water South 	DMR 	Utilities 
-461.02500 	KIF409 	RM	CC 14TG 1342SL 2	CPWS-ADMIN S 	Power and Water Systems - Admin South 	DMR 	Utilities 
-452.72500 	KIF409 	RM	CC 15TG 1042SL 1	CPWS-POWER E 	Power and Water Systems - Power East 	DMR 	Utilities 
-452.72500 	KIF409 	RM	CC 15TG 1142SL 2	CPWS-BROADBAND E 	Power and Water Systems - Broadband East 	DMR 	Utilities 
-461.10000 	KIF409 	RM	CC 15TG 1242SL 1	CPWS-WATER E 	Power and Water Systems - Water East 	DMR 	Utilities 
-461.10000 	KIF409 	RM	CC 15TG 1342SL 2	CPWS-ADMIN E 	Power and Water Systems - Admin East 	DMR 	Utilities 
-463.23750 	KIF409 	M	CC 9TG 1442SL *	CPWS-DIRECT 1 	Power and Water Systems - Direct 1 (Simplex) 	DMR 	Utilities 
-468.23750 	KIF409 	M	CC 6TG 1542SL *	CPWS-DIRECT 2 	Power and Water Systems - Direct 2 (Simplex) 	DMR 	Utilities 
-453.05000 	KIP690 	RM	141.3 PL	MtPleasPDOps 	Police Department - Operations 	FMN 	Law Tac 
-453.70000 	KIP690 	RM	141.3 PL	MPFD Disp 	Fire Department - Dispatch 	FMN 	Fire Dispatch 
-460.06250 	WPMA747 	RM	127.3 PL	SpgHillPDPri 	Police Department - Dispatch 	FMN 	Law Dispatch 
-453.20000 	WPMA747 	RM	136.5 PL	SpgHillPDSec 	Police Department - Operations 	FMN 	Law Tac 
-154.17500 	KNES990 	RM	192.8 PL	SpgHillFD 	Fire Department 	FMN 	Fire Dispatch 
-451.02500 	 			SpgHillPWks 	Public Works / Police Department Car-to-Car ("15") 	FM 	Public Works 
-37.26000 	WPMR229 	BM		SpgHillUtils 	Utilities 	FM 	Utilities 
-453.40000 	WPYW913 	BM		SpgHillUtils 	Utilities 	FM 	Utilities 
-451.62500 	WPTH772 	RM		SpgHill WTR 	Water Department 	FMN 	Utilities 
-Duck River Electric Membership Corporation	 Project 25 Phase I	 Shelbyville	General Motors (USA)	 DMR Motorola Connect Plus (TRBO)	 Various	General Motors Saturn	 EDACS Standard
- Spring Hill	Middle Tennessee Two-Way (Columbia)	 LTR Standard	 Columbia	Ryder Integrated Logisitics	 LTR Standard	 Spring Hill	Tennessee Advanced Communications Network (TACN)
- Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	
+453.18750 	458.18750  	WPYH801 	RM	192.8 PL	MCSO-DISP1 A 	Sheriff's Department - Dispatch Analog 	FMN 	Law Dispatch 
+460.15000 	465.15000  	KUL720 	RM	127.3 PL	MCSO-DISP2 A 	Sheriff's Department - Dispatch Analog 	FMN 	Law Dispatch 
+463.53750 	   	 	M	127.3 PL	MaurySDSWAT 	Sheriff's Department - SWAT ("16") 	FMN 	Law Tac 
+469.50000 	   	 	M	127.3 PL	MaurySDJail 	Sheriff's Department - Jail 	FMN 	Law Tac 
+151.40000 	156.19500  	WQOX539 	RM		MCSO-VHF D 	Sheriff VHF Operations Digital 	NXDN 	Law Tac 
+453.18750 	458.18750  	WQOX539 	RM		MCSO-DISP1 D 	Sheriff - Dispatch Digital 	NXDN 	Law Dispatch 
+453.28750 	458.28750  	WQOX539 	RM		MCSO-OPS D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
+453.36250 	458.36250  	WQOX539 	RM		MCSO-OPS3 D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
+453.56250 	458.56250  	WQOX539 	RM		MCSO-OPS4 D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
+453.63750 	458.63750  	WQOX539 	RM		MCSO-OPS2 D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
+460.03750 	465.03750  	WQOX539 	RM		MCSO-OPS5 D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
+460.21250 	465.21250  	WQOX539 	RM		MCSO-OPS6 D 	Sheriff - Operations Digital 	NXDN 	Law Tac 
+453.07500 	458.07500  	WPWG336 	RM	192.8 PL	MCFD MUTAID 	Fire Department - Backup / Interop 	FMN 	Interop 
+155.62500 	   	 	RM	107.2 PL	MCEMA-FIRE 	Emergency Management - County Fire Dispatch 	FMN 	Fire Dispatch 
+154.22000 	   	WNZB214 	BM	125 DPL	MCEMS DISP 	Maury Regional EMS - Dispatch 	FMN 	EMS Dispatch 
+463.01250 	   	 	RM	654 DPL	MCEMS DISP 2 	Maury Regional EMS - Dispatch (Simulcast 154.220) 	FMN 	EMS Dispatch 
+453.46250 	458.46250  	WQTL309 	RM	156.7 PL	MCEMA SSOPS 	Emergency Management - Storm Spotter Operations (UTAC41) 	FMN 	Emergency Ops 
+453.51250 	458.51250  	WPYH801 	RM	179.9 PL	MCEMA CMND 	Emergency Management - Disaster Coordination (Mobile Repeater) 	FMN 	Emergency Ops 
+453.81250 	   	 	M	179.9 PL	MCEMA OPS 2 	Emergency Management - Operations 2 	FMN 	Emergency Ops 
+467.85000 	   	 	M	179.9 PL	MCEMA OPS 3 	Emergency Management - Operations 3 	FMN 	Emergency Ops 
+467.87500 	   	 	M	179.9 PL	MCEMA OPS 4 	Emergency Management - Operations 4 	FMN 	Emergency Ops 
+467.90000 	   	 	M	179.9 PL	MCEMA OPS 5 	Emergency Management - Operations 5 	FMN 	Emergency Ops 
+467.92500 	   	 	M	179.9 PL	MCEMA OPS 6 	Emergency Management - Operations 6 	FMN 	Emergency Ops 
+460.31250 	   	 	RM		TEMA MUTAID 	Interconnect TEMA 	FMN 	Emergency Ops 
+151.00250 	156.14250  	WQHX807 	RM		MCDOT 	Highway Department 	FMN 	Public Works 
+153.00000 	   	 	BM	032 DPL	LIFEFLIGHT V 	Life Flight Dispatch VHF 	FMN 	EMS Dispatch 
+451.22500 	   	WPRL917 	RM	94.8 PL	LIFEFLIGHT U 	Life Flight Dispatch UHF 	FMN 	EMS Dispatch 
+152.27000 	   	WQBU852 	RM		MCA-NET 	Moore Care Ambulance Services (Non Emergency Transport) 	FMN 	Business 
+461.17500 	466.17500  	WQRU939 	RM		CSCC-SEC/OPS 	Columbia State Community College - Security/operations 	DMR 	Schools 
+159.18000 	   	WNRZ359 	BM	315 DPL	SALT TRUCKS 	Road Salt Trucks - Dispatch Ch. 1 	FMN 	Public Works 
+453.37500 	458.37500  	WNRW396 	RM	146.2 PL	MC PUB TRNSP 	Public Transportation 	FMN 	Transportation 
+460.35000 	465.35000  	WNEC786 	RM		CPD-DISP1 D 	Police Department Dispatch Digital (Encryption can be used) 	NXDNe 	Law Dispatch 
+460.35000 	465.35000  	WNEC786 	RM	127.3 PL	ColmbaPD350 	Police Department Analog Dispatch (No used?) 	FMN 	Law Dispatch 
+453.92500 	458.92500  	WNEC786 	RM	1 RAN	CPD-1 CENTRAL 	Police Department 1 Central 	NXDNe 	Law Tac 
+453.26250 	458.26250  	WNEC786 	RM	1 RAN	CPD-1 EAST 	Police Department 1 East 	NXDNe 	Law Tac 
+453.38750 	458.38750  	WNEC786 	RM		CPD-4D 	Police Department Digital (Encryption can be used) 	NXDNe 	Law Tac 
+461.77500 	   	 	M	CSQ	ColmbaPDC2C 	Police Department - Car to Car / Private ("6") 	FM 	Law Talk 
+460.51250 	   	 	M	127.3 PL	ColmbaPDSWAT 	Police Department - SWAT ("13") 	FM 	Law Tac 
+453.15000 	458.15000  	WYK530 	RM		CFD-DISP 	Fire Department Dispatch Digital 	NXDN 	Fire Dispatch 
+453.15000 	458.15000  	WYK530 	RM	179.9 PL	CFD-MUTAID 	Fire Department Analog Interop 	FMN 	Interop 
+453.16250 	458.16250  	WYK530 	RM		CFD-OPS 1 	Fire Department Digital 	NXDN 	Fire-Tac 
+460.13750 	465.13750  	WYK530 	RM	1 RAN	CFD-1 EAST 	Fire Department 1 East 	NXDN 	Fire-Tac 
+460.26250 	465.26250  	WYK530 	RM		CFD-OPS 3 	Fire Department Digital 	NXDN 	Fire-Tac 
+453.61250 	458.61250  	WYK530 	RM	1 RAN	CFD-1 Central 	Fire Department 1 Central 	NXDN 	Fire-Tac 
+453.95000 	458.95000  	WNKU796 	RM		ColmbaPWrks 	Public Works 	FM 	Public Works 
+855.98750 	810.98750  	KNNH515 	RM		ColmbaWstwtr 	Wastewater Department 	FM 	Utilities 
+45.16000 	   	KYU860 	BM		ColmbaPrks16 	Parks / Recreation 	FM 	Public Works 
+45.36000 	   	KYU860 	BM		ColmbaPrks36 	Parks / Recreation 	FM 	Public Works 
+451.07500 	456.07500  	KIF409 	RM	CC 11TG 1042SL 1	CPWS-POWER C 	Power and Water Systems - Power Central 	DMR 	Utilities 
+451.07500 	456.07500  	KIF409 	RM	CC 11TG 1142SL 2	CPWS-BROADBAND C 	Power and Water Systems - Broadband Central 	DMR 	Utilities 
+451.72500 	456.72500  	KIF409 	RM	CC 15TG 1342SL 2	CPWS-ADMIN C 	Power and Water Systems - Admin Central 	DMR 	Utilities 
+451.72500 	456.72500  	KIF409 	RM	CC 15TG 1242SL 1	CPWS-WATER C 	Power and Water Systems - Water Central 	DMR 	Utilities 
+452.50000 	457.50000  	KIF409 	RM	CC 12TG 1042SL 1	CPWS-POWER S 	Power and Water Systems - Power South 	DMR 	Utilities 
+452.50000 	457.00000  	KIF409 	RM	CC 12TG 1142SL 2	CPWS-BROADBAND S 	Power and Water Systems - Broadband South 	DMR 	Utilities 
+461.02500 	465.02500  	KIF409 	RM	CC 14TG 1242SL 1	CPWS-WATER S 	Power and Water Systems - Water South 	DMR 	Utilities 
+461.02500 	465.02500  	KIF409 	RM	CC 14TG 1342SL 2	CPWS-ADMIN S 	Power and Water Systems - Admin South 	DMR 	Utilities 
+452.72500 	457.72500  	KIF409 	RM	CC 15TG 1042SL 1	CPWS-POWER E 	Power and Water Systems - Power East 	DMR 	Utilities 
+452.72500 	457.72500  	KIF409 	RM	CC 15TG 1142SL 2	CPWS-BROADBAND E 	Power and Water Systems - Broadband East 	DMR 	Utilities 
+461.10000 	465.10000  	KIF409 	RM	CC 15TG 1242SL 1	CPWS-WATER E 	Power and Water Systems - Water East 	DMR 	Utilities 
+461.10000 	465.10000  	KIF409 	RM	CC 15TG 1342SL 2	CPWS-ADMIN E 	Power and Water Systems - Admin East 	DMR 	Utilities 
+463.23750 	   	KIF409 	M	CC 9TG 1442SL *	CPWS-DIRECT 1 	Power and Water Systems - Direct 1 (Simplex) 	DMR 	Utilities 
+468.23750 	   	KIF409 	M	CC 6TG 1542SL *	CPWS-DIRECT 2 	Power and Water Systems - Direct 2 (Simplex) 	DMR 	Utilities 
+453.05000 	458.05000  	KIP690 	RM	141.3 PL	MtPleasPDOps 	Police Department - Operations 	FMN 	Law Tac 
+453.70000 	458.70000  	KIP690 	RM	141.3 PL	MPFD Disp 	Fire Department - Dispatch 	FMN 	Fire Dispatch 
+460.06250 	465.06250  	WPMA747 	RM	127.3 PL	SpgHillPDPri 	Police Department - Dispatch 	FMN 	Law Dispatch 
+453.20000 	458.20000  	WPMA747 	RM	136.5 PL	SpgHillPDSec 	Police Department - Operations 	FMN 	Law Tac 
+154.17500 	153.77000  	KNES990 	RM	192.8 PL	SpgHillFD 	Fire Department 	FMN 	Fire Dispatch 
+451.02500 	   	 			SpgHillPWks 	Public Works / Police Department Car-to-Car ("15") 	FM 	Public Works 
+37.26000 	   	WPMR229 	BM		SpgHillUtils 	Utilities 	FM 	Utilities 
+453.40000 	   	WPYW913 	BM		SpgHillUtils 	Utilities 	FM 	Utilities 
+451.62500 	456.62500  	WPTH772 	RM		SpgHill WTR 	Water Department 	FMN 	Utilities 
+Duck River Electric Membership Corporation	 Project 25 Phase I	 Shelbyville	General Motors (USA)	 DMR Motorola Connect Plus (TRBO)	 Various	General Motors Saturn	 EDACS Standard	 Spring Hill
+Middle Tennessee Regional Trunked Radio System	 Project 25 Phase II	 Multiple	Middle Tennessee Two-Way (Columbia)	 LTR Standard	 Columbia	Ryder Integrated Logisitics	 LTR Standard	 Spring Hill
+Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various	

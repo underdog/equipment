@@ -1,17 +1,13 @@
-154.16000 	WNPE973 	RM	173.8 PL	SFR Dispatch 	Fire / EMS Dispatch 	FM 	Fire Dispatch 
-463.16250 	WQDL726 	RM		Shands 	EMS to Shands at Live Oak 	FM 	Hospital 
-155.07000 	KBY641 	RM	162.2 PL	SSO Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
-156.21000 	WQCB294 	RM	162.2 PL	SSO SAO 	Sheriff Secondary/SAO 	FM 	Law Tac 
-151.07750 	WQBA553 	RM	118.8 PL	SuwanneeBus 	School Buses 	FM 	Schools 
-153.80000 	KNFM409 	BM	110.9 PL	SuwanneePS 	Primary School 	FM 	Schools 
-153.80000 	KNFM409 	BM	123.0 PL	SuwanneeIS 	Intermediate School 	FMN 	Schools 
-155.09250 	WQUS248 	RM	156 DPL	SCHS 	Suwannee County High School 	FMN 	Schools 
-464.85000 	KUF871 	RM	162.2 PL	FSBR 	Florida Sheriffs Boys Ranch 	FM 	Law Tac 
-158.79000 	WQYP787 	RM		BVFD PG 	Branford VFD Paging 	NXDN 	Fire Dispatch 
-154.43000 	WQDS664 	RM	167.9 PL	LiveOakFD 	Fire 	FMN 	Fire Dispatch 
-155.10000 	WQDS664 	BM	167.9 PL	LiveOakFD 	Fire 	FMN 	Fire-Tac 
-154.75500 	WNCD525 	BM	162.2 PL	LiveOakPD 	Police 	FM 	Law Dispatch 
-154.98750 	WNPE973 	RM	1 RAN	Live Oak EMS 	EMS 	NXDN 	EMS Dispatch 
-155.74500 	KRO479 	BM	110.9 PL	LiveOakPW 	Public Works 	FM 	Public Works 
-Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Florida Power and Light (P25)	 Project 25 Phase II	 Varies	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I
- Statewide	
+463.16250 	468.16250  	WQDL726 	RM		Shands 	EMS to Shands at Live Oak 	FM 	Hospital 
+155.07000 	155.67000  	KBY641 	RM	162.2 PL	SSO Disp 	Sheriff Dispatch 	FM 	Law Dispatch 
+156.21000 	155.25000  	WQCB294 	RM	162.2 PL	SSO SAO 	Sheriff Secondary/SAO 	FM 	Law Tac 
+151.07750 	156.05250  	WQBA553 	RM	118.8 PL	SuwanneeBus 	School Buses 	FM 	Schools 
+153.80000 	   	KNFM409 	BM	110.9 PL	SuwanneePS 	Primary School 	FM 	Schools 
+153.80000 	   	KNFM409 	BM	123.0 PL	SuwanneeIS 	Intermediate School 	FMN 	Schools 
+155.09250 	158.90250  	WQUS248 	RM	156 DPL	SCHS 	Suwannee County High School 	FMN 	Schools 
+464.85000 	469.85000  	KUF871 	RM	162.2 PL	FSBR 	Florida Sheriffs Boys Ranch 	FM 	Law Tac 
+158.79000 	   	WQYP787 	RM		BVFD PG 	Branford VFD Paging 	NXDN 	Fire Dispatch 
+155.10000 	   	WQDS664 	BM	167.9 PL	LiveOakFD 	Fire 	FMN 	Fire-Tac 
+154.75500 	   	WNCD525 	BM	162.2 PL	LiveOakPD 	Police 	FM 	Law Dispatch 
+155.74500 	   	KRO479 	BM	110.9 PL	LiveOakPW 	Public Works 	FM 	Public Works 
+Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide

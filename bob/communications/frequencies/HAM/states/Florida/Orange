@@ -1,76 +1,74 @@
-463.15000 	KNDW272 	BM	156.7 PL	MED-7 	County Medical Coordination 	FM 	EMS-Tac 
-463.01250 	 	RM	107.2 PL	MED-12 	EMS-to-Arnold Palmer Hospital (NO ER) 	FM 	Hospital 
-463.03750 	 	RM	123.0 PL	MED-22 	EMS-to-Florida Hospital 	FM 	Hospital 
-463.06250 	 	RM	186.2 PL	MED-32 	EMS-to-Sand Lake Hospital 	FM 	Hospital 
-463.08750 	 	RM	141.3 PL	MED-42 	EMS-to-Florida Hospital/East Orlando 	FM 	Hospital 
-463.11250 	 	RM	131.8 PL	MED-52 	EMS-to-Florida Hospital/Apopka 	FM 	Hospital 
-463.11250 	 	RM	151.4 PL	MED-52 	EMS-to-Health Central 	FM 	Hospital 
-463.13750 	 	RM	123.0 PL	MED-62 	EMS-to-Florida Hospital Winter Park 	FM 	Hospital 
-463.16250 	 	RM	173.8 PL	MED-72 	EMS-to-Orlando Regional Medical Center 	FM 	Hospital 
-154.87500 	WPVA713 	F	CSQ	Stormwater  	Stormwater Data (Various Locations) 	Telm 	Data 
-465.55000 	WPLG260 	M	662 DPL	Parks Rec 	Parks and Recreation 	FM 	Public Works 
-151.77500 	 	BM	315 DPL	Winegard  	Winegard Elementary School 	FM 	Schools 
-151.89500 	 	BM	210.7 PL	Robinswood  	Robinswood Middle School 	FMN 	Schools 
-152.42000 	WQDW613 	RM	114 DPL	Jones High  	Jones High School 	FM 	Schools 
-152.45000 	WPXJ989 	RM	74.4 PL	Boone High  	Boone High School 	FM 	Schools 
-152.94500 	WPUQ548 	RM	315 DPL	Apopka Memor 	Apopka Memorial Middle School 	FM 	Schools 
-154.77000 	WPZU434 	RM	411 DPL	Ocoee High  	Ocoee High School? 	FM 	Schools 
-452.15000 	WPTL363 	RM		Olympia High 	Olympia High School 	FM 	Schools 
-452.15000 	WPLW268 	RM	251 DPL	Conway Middl 	Conway Middle School 	FM 	Schools 
-452.27500 	WPMP304 	RM	233.6 PL	Liberty Midd 	Liberty Middle School 	FM 	Schools 
-461.52500 	 	RM	127.3 PL	UniversityHS 	University High School - Main Campus 	FM 	Schools 
-461.87500 	 	RM	127.3 PL	UniversityHS 	University High School - Freshman Campus 	FM 	Schools 
-462.47500 	WPMP303 	RM	218.1 PL	Meadow Woods 	Meadow Woods Middle School 	FM 	Schools 
-463.21250 	 	RM	131.8 PL	Evans High  	Evans High School 	FM 	Schools 
-463.35000 	WPDP610 	RM	606 DPL	Winter Park  	Winter Park High School 	FM 	Schools 
-463.46250 	WQRM725 	RM		Walker MS 	Walker Middle School 	FMN 	Schools 
-464.07500 	WPDP610 	RM	173.8 PL	Winter Park  	Winter Park High School 	FM 	Schools 
-464.07500 	WPDU361 	RM	67.0 PL	Apopka HS 	Apopka High School 	FM 	Schools 
-464.30000 	WPZZ600 	RM	565 DPL	Edgewater HS 	Edgewater High School 	FM 	Schools 
-464.47500 	 	M	054 DPL	Vista Lakes  	Vista Lakes Elementary 	FM 	Schools 
-464.67500 	 	M	612 DPL	Vista Lakes  	Vista Lakes Elementary 	FM 	Schools 
-464.73750 	 	RM	065 DPL	Freedom High 	Freedom High School 	FM 	Schools 
-462.56250 	 	M		Dispatch 	Dispatch 	FM 	Emergency Ops 
-462.67500 	 	M		Dispatch-2 	Dispatch-2 	FM 	Emergency Ops 
-156.45000 	 	M		Backup 	Backup 	FM 	Emergency Ops 
-466.13750 	 	M		SAR Primary 	Primary 	FM 	EMS-Tac 
-469.50000 	 	M		SAR Secondry 	Secondary 	FM 	EMS-Tac 
-469.55000 	 	M		SAR Back-up 	Back-up 	FM 	EMS-Tac 
-33.42000 	WQIN663 	F	CSQ	OEM WX 	Emergency Management  (162.55 NOAA link to 1600 AM) 	FM 	Emergency Ops 
-47.42000 	 	B		Red Cross 	Nationwide 	FM 	Emergency Ops 
-460.17500 	WPJY308 	B	123.0 PL	Apopka FD Disp 	Fire Dispatch (Simulcast from TRS) 	FMN 	Fire Dispatch 
-855.71250 	WNPE229 	RM	250.3 PL	 Apopka PD 	Police Department Backup  	FM 	Law Tac 
-855.96250 	WNPE229 	RM	250.3 PL	 Apopka FD 	Fire Department Backup 	FM 	Fire-Tac 
-854.51250 	WNPP358 	RM	CSQ	Data 1 	Data 1 	FM 	Data 
-857.33750 	WNPP358 	RM	CSQ	Data 2 	Data 2 	FM 	Data 
-858.13750 	WNPP358 	RM	CSQ	Data 3 	Data 3 	FM 	Data 
-452.70000 	WPMU340 	RM	136.5 PL	Rollins Main 	Maintenance 	FM 	Schools 
-458.21250 	WNST433 	M	146.2 PL	DGS Maint 	Department of General Services (Bureau of Maintenance) 	FM 	Public Works 
-463.18750 	 	RM		SMRT-1 	Region 5 State Medical Response Team 	FM 	Emergency Ops 
-451.72500 	WPTS253 	RM	072 DPL	UCF House 	Maintenance - Housekeeping 	FM 	Schools 
-452.02500 	WPTS253 	RM	331 DPL	UCF Plumbing 	Maintenance - Plumbing 	FM 	Schools 
-452.05000 	WPTS253 	RM	243 DPL	UCF Heat 	Maintenance - Heating and Cooling 	FM 	Schools 
-452.20000 	WPTS253 	RM	532 DPL	UCF Maint 	Maintenance 	FM 	Schools 
-452.65000 	WPTS253 	RM	072 DPL	UCF Grounds 	Maintenance - Grounds 	FM 	Schools 
-464.30000 	WPYS571 	RM	311 DPL	UCF TRC 	Technology Resource Center 	FM 	Schools 
-464.52500 	WPWS397 	RM	165 DPL	UCF Maint 	Maintenance 	FM 	Schools 
-464.47500 	WNPU407 	RM	186.2 PL	Valencia -EC 	Security - East Campus 	FM 	Security 
-464.12500 	WNPU407 	RM	167.9 PL	Valencia -WC 	Security - West Campus 	FM 	Security 
-464.77500 	WNPU407 	RM	156.7 PL	Valencia -OC 	Security - Osceola Campus 	FM 	Security 
-464.47500 	WNPU407 	M	186.2 PL	Valencia -WP 	Security - Winter Park 	FM 	Security 
-462.03750 	WNPU407 	RM	271 DPL	Valencia -LN 	Security - Lake Nona 	FM 	Security 
-AdventHealth	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Orlando	Amway Center (Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando 	Apopka	 Project 25 Phase II
- Apopka	Diamond Cab Company	 Motorola Type II Smartnet	 Orlando	Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Florida Fleet Talk
- NXDN NEXEDGE 4800	 Various	Florida Rock Industries	(Orlando)	 LTR Standard	 Orlando	Gem Electronics	 Motorola Type II Smartnet	 Various
-Grande Lakes Orlando	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Greater Orlando Aviation Authority (Orlando International Airport)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Highland Wireless - Suntalk Linked System (470 Connect Plus)	 DMR Motorola Connect Plus (TRBO)
- Various	Hilton Grand Vacations Club	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Hyatt Regency: Orlando International Airport	 DMR Hytera XPT	 Orlando	Loews Hotels at Universal Orlando
- DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Lovelace Tower	 LTR Standard	 Orlando	Mears Transportation Group	 LTR Standard	 Orlando
-Mobile Communications America (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Mobile Communications America (LTR)	 LTR Standard	 Various	Motorola Federal Solutions	 Project 25 Phase II
- Various	Nemours Children Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Next Connect (International Drive)	 LTR Standard	 Orlando	NY Metro DMR Repeater Network
- DMR Conventional Networked	 Regional	Orange County	 Project 25 Phase I	 Orlando	Orlando ALUMA Trailer	 Project 25 Phase I	 Orlando
-Orlando Health - Health Central Hospital	 DMR Hytera XPT	 Ocoee	Orlando International Airport	 LTR Standard	 Orlando	Orlando International Airport (900MHz Connect Plus)	 DMR Motorola Connect Plus (TRBO)
- Orlando	Public Safety Interoperable Communications Network (PSIC)	 Project 25 Phase I	 Various	Radio One 	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Kissimmee	Reedy Creek Improvement District (Walt Disney World)
- Project 25 Phase I	 Lake Buena Vista	Rosen Hotels and Resorts	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Orlando	SeaWorld Orlando	 DMR Motorola Connect Plus (TRBO)	 Orlando
-Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	Telecom Network (International Drive)	 LTR Standard and Passport	 Orlando	The Grove Resort	 DMR Motorola Capacity Plus Single Site (TRBO)
- Orlando	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide	Universal Studios	 DMR Motorola Connect Plus (TRBO)	 Orlando	University of Central Florida (DMR)
- DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Walt Disney World	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Lake Buena Vista	Wyndham Orlando Resort International Drive 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando 
+463.15000 	468.15000  	KNDW272 	BM	156.7 PL	MED-7 	County Medical Coordination 	FM 	EMS-Tac 
+463.01250 	468.01250  	 	RM	107.2 PL	MED-12 	EMS-to-Arnold Palmer Hospital (NO ER) 	FM 	Hospital 
+463.03750 	468.03750  	 	RM	123.0 PL	MED-22 	EMS-to-Florida Hospital 	FM 	Hospital 
+463.06250 	468.06250  	 	RM	186.2 PL	MED-32 	EMS-to-Sand Lake Hospital 	FM 	Hospital 
+463.08750 	468.08750  	 	RM	141.3 PL	MED-42 	EMS-to-Florida Hospital/East Orlando 	FM 	Hospital 
+463.11250 	468.11250  	 	RM	131.8 PL	MED-52 	EMS-to-Florida Hospital/Apopka 	FM 	Hospital 
+463.11250 	468.11250  	 	RM	151.4 PL	MED-52 	EMS-to-Health Central 	FM 	Hospital 
+463.13750 	468.13750  	 	RM	123.0 PL	MED-62 	EMS-to-Florida Hospital Winter Park 	FM 	Hospital 
+463.16250 	468.16250  	 	RM	173.8 PL	MED-72 	EMS-to-Orlando Regional Medical Center 	FM 	Hospital 
+154.87500 	   	WPVA713 	F	CSQ	Stormwater  	Stormwater Data (Various Locations) 	Telm 	Data 
+465.55000 	   	WPLG260 	M	662 DPL	Parks Rec 	Parks and Recreation 	FM 	Public Works 
+151.77500 	   	 	BM	315 DPL	Winegard  	Winegard Elementary School 	FM 	Schools 
+151.89500 	   	 	BM	210.7 PL	Robinswood  	Robinswood Middle School 	FMN 	Schools 
+152.42000 	157.68000  	WQDW613 	RM	114 DPL	Jones High  	Jones High School 	FM 	Schools 
+152.45000 	157.71000  	WPXJ989 	RM	74.4 PL	Boone High  	Boone High School 	FM 	Schools 
+152.94500 	159.57000  	WPUQ548 	RM	315 DPL	Apopka Memor 	Apopka Memorial Middle School 	FM 	Schools 
+154.77000 	   	WPZU434 	RM	411 DPL	Ocoee High  	Ocoee High School? 	FM 	Schools 
+452.15000 	457.15000  	WPTL363 	RM		Olympia High 	Olympia High School 	FM 	Schools 
+452.15000 	457.15000  	WPLW268 	RM	251 DPL	Conway Middl 	Conway Middle School 	FM 	Schools 
+452.27500 	457.32500  	WPMP304 	RM	233.6 PL	Liberty Midd 	Liberty Middle School 	FM 	Schools 
+461.52500 	466.52500  	 	RM	127.3 PL	UniversityHS 	University High School - Main Campus 	FM 	Schools 
+461.87500 	466.87500  	 	RM	127.3 PL	UniversityHS 	University High School - Freshman Campus 	FM 	Schools 
+462.47500 	467.47500  	WPMP303 	RM	218.1 PL	Meadow Woods 	Meadow Woods Middle School 	FM 	Schools 
+463.21250 	468.21250  	 	RM	131.8 PL	Evans High  	Evans High School 	FM 	Schools 
+463.35000 	468.35000  	WPDP610 	RM	606 DPL	Winter Park  	Winter Park High School 	FM 	Schools 
+463.46250 	468.46250  	WQRM725 	RM		Walker MS 	Walker Middle School 	FMN 	Schools 
+464.07500 	469.07500  	WPDP610 	RM	173.8 PL	Winter Park  	Winter Park High School 	FM 	Schools 
+464.07500 	469.07500  	WPDU361 	RM	67.0 PL	Apopka HS 	Apopka High School 	FM 	Schools 
+464.30000 	469.30000  	WPZZ600 	RM	565 DPL	Edgewater HS 	Edgewater High School 	FM 	Schools 
+464.47500 	   	 	M	054 DPL	Vista Lakes  	Vista Lakes Elementary 	FM 	Schools 
+464.67500 	   	 	M	612 DPL	Vista Lakes  	Vista Lakes Elementary 	FM 	Schools 
+464.73750 	469.73750  	 	RM	065 DPL	Freedom High 	Freedom High School 	FM 	Schools 
+462.56250 	   	 	M		Dispatch 	Dispatch 	FM 	Emergency Ops 
+462.67500 	   	 	M		Dispatch-2 	Dispatch-2 	FM 	Emergency Ops 
+156.45000 	   	 	M		Backup 	Backup 	FM 	Emergency Ops 
+466.13750 	   	 	M		SAR Primary 	Primary 	FM 	EMS-Tac 
+469.50000 	   	 	M		SAR Secondry 	Secondary 	FM 	EMS-Tac 
+469.55000 	   	 	M		SAR Back-up 	Back-up 	FM 	EMS-Tac 
+33.42000 	   	WQIN663 	F	CSQ	OEM WX 	Emergency Management  (162.55 NOAA link to 1600 AM) 	FM 	Emergency Ops 
+47.42000 	   	 	B		Red Cross 	Nationwide 	FM 	Emergency Ops 
+460.17500 	   	WPJY308 	B	123.0 PL	Apopka FD Disp 	Fire Dispatch (Simulcast from TRS) 	FMN 	Fire Dispatch 
+855.71250 	810.71250  	WNPE229 	RM	250.3 PL	 Apopka PD 	Police Department Backup  	FM 	Law Tac 
+855.96250 	810.96250  	WNPE229 	RM	250.3 PL	 Apopka FD 	Fire Department Backup 	FM 	Fire-Tac 
+854.51250 	809.51250  	WNPP358 	RM	CSQ	Data 1 	Data 1 	FM 	Data 
+857.33750 	812.33750  	WNPP358 	RM	CSQ	Data 2 	Data 2 	FM 	Data 
+858.13750 	813.13750  	WNPP358 	RM	CSQ	Data 3 	Data 3 	FM 	Data 
+452.70000 	457.70000  	WPMU340 	RM	136.5 PL	Rollins Main 	Maintenance 	FM 	Schools 
+458.21250 	   	WNST433 	M	146.2 PL	DGS Maint 	Department of General Services (Bureau of Maintenance) 	FM 	Public Works 
+463.18750 	   	 	RM		SMRT-1 	Region 5 State Medical Response Team 	FM 	Emergency Ops 
+451.72500 	456.72500  	WPTS253 	RM	072 DPL	UCF House 	Maintenance - Housekeeping 	FM 	Schools 
+452.02500 	457.02500  	WPTS253 	RM	331 DPL	UCF Plumbing 	Maintenance - Plumbing 	FM 	Schools 
+452.05000 	457.05000  	WPTS253 	RM	243 DPL	UCF Heat 	Maintenance - Heating and Cooling 	FM 	Schools 
+452.20000 	457.20000  	WPTS253 	RM	532 DPL	UCF Maint 	Maintenance 	FM 	Schools 
+452.65000 	457.65000  	WPTS253 	RM	072 DPL	UCF Grounds 	Maintenance - Grounds 	FM 	Schools 
+464.30000 	469.30000  	WPYS571 	RM	311 DPL	UCF TRC 	Technology Resource Center 	FM 	Schools 
+464.52500 	469.52500  	WPWS397 	RM	165 DPL	UCF Maint 	Maintenance 	FM 	Schools 
+464.47500 	469.47500  	WNPU407 	RM	186.2 PL	Valencia -EC 	Security - East Campus 	FM 	Security 
+464.12500 	469.12500  	WNPU407 	RM	167.9 PL	Valencia -WC 	Security - West Campus 	FM 	Security 
+464.77500 	469.77500  	WNPU407 	RM	156.7 PL	Valencia -OC 	Security - Osceola Campus 	FM 	Security 
+464.47500 	   	WNPU407 	M	186.2 PL	Valencia -WP 	Security - Winter Park 	FM 	Security 
+462.03750 	467.03750  	WNPU407 	RM	271 DPL	Valencia -LN 	Security - Lake Nona 	FM 	Security 
+AdventHealth	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Orlando	Amway Center (Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando 	Apopka	 Project 25 Phase II	 Apopka
+Diamond Cab Company	 Motorola Type II Smartnet	 Orlando	Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various
+Florida Rock Industries	(Orlando)	 LTR Standard	 Orlando	Gem Electronics	 Motorola Type II Smartnet	 Various	Grande Lakes Orlando	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando
+Greater Orlando Aviation Authority (Orlando International Airport)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Highland Wireless - Suntalk Linked System (470 Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Various	Hilton Grand Vacations Club	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando
+Hyatt Regency: Orlando International Airport	 DMR Hytera XPT	 Orlando	Loews Hotels at Universal Orlando	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Lovelace Tower	 LTR Standard	 Orlando
+Mears Transportation Group	 LTR Standard	 Orlando	Mobile Communications America (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Various	Mobile Communications America (LTR)	 LTR Standard	 Various
+Nemours Children Hospital	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Next Connect (International Drive)	 LTR Standard	 Orlando	NY Metro DMR Repeater Network	 DMR Conventional Networked	 Regional
+Orange County	 Project 25 Phase I	 Orlando	Orlando ALUMA Trailer	 Project 25 Phase I	 Orlando	Orlando Health - Health Central Hospital	 DMR Hytera XPT	 Ocoee
+Orlando International Airport	 LTR Standard	 Orlando	Orlando International Airport (900MHz Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Orlando	Public Safety Interoperable Communications Network (PSIC)	 Project 25 Phase I	 Various
+Radio One 	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Kissimmee	Reedy Creek Improvement District (Walt Disney World)	 Project 25 Phase I	 Lake Buena Vista	Rosen Hotels and Resorts	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Orlando
+SeaWorld Orlando	 DMR Motorola Connect Plus (TRBO)	 Orlando	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide
+Telecom Network (International Drive)	 LTR Standard and Passport	 Orlando	The Grove Resort	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Universal Studios	 DMR Motorola Connect Plus (TRBO)	 Orlando
+University of Central Florida (DMR)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando	Walt Disney World	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Lake Buena Vista	Wyndham Orlando Resort International Drive 	 DMR Motorola Capacity Plus Single Site (TRBO)	 Orlando 

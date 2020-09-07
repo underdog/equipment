@@ -1,18 +1,18 @@
-155.69250 	WPWW405 	RM	CC 14TG 1096SL 1	MCSO Disp 	Sheriff  Dispatch 	DMRE 	Law Dispatch 
-155.58750 	KZB386 	RM	206.5 PL	MCSO Interop 	Sheriff Interop 	FMN 	Interop 
-155.59500 	KZB386 	M		MCSO TAC 	Sheriff Tactical 	FMN 	Law Tac 
-159.26250 	WQFT413 	RM	CC 15TG 3001SL *	MCSO Ch 2 	Sheriff Channel 2 	DMR 	Law Tac 
-154.23500 	WNUH765 	RM	114.8 PL	MCFD Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-155.32500 	WPUH783 	RM		MCFD Rescue 	Rescue Squad 	FMN 	Emergency Ops 
-156.19500 	WRA317 	RM	114.8 PL	MC Roads/Transit 	Road Department/Transit Authority 	FMN 	Public Works 
-463.20000 	WNWF340 	RM	25 RAN	MCBOE BUS 	Schools Buses 	NXDN 	Schools 
-463.20000 	WNWF340 	RM	114.8 PL	MCBOE BUS 	Schools Buses 	FMN 	Schools 
-159.26250 	WQFT413 	RM		MC Loc Gov 	Local Government 	DMR 	Other 
-159.09750 	WQEA727 	RM	CC 13TG 1050100SL *	CPD Disp D 	Police Dispatch - Digital 	DMRE 	Law Dispatch 
-154.08500 	WQEA727 	BM	114 DPL	CPD Disp A 	Police Dispatch - Analog 	FMN 	Law Dispatch 
-155.79000 	KSV521 	BM	114.8 PL	CPD TAC 	Police TAC 	FMN 	Law Dispatch 
-37.10000 	KXV312 	BM		Local Gov 	Local Government 	FMN 	Public Works 
-155.02500 	KNHU917 	BM		Local Gov 	Local Government 	FMN 	Public Works 
-153.53750 	WPUN317 	BM		C-H2O 	Chattsworth Water 	FMN 	Utilities 
-155.88000 	WNKT846 	BM		Eton Loc Gov 	Local Government 	FMN 	Public Works 
-152.30000 	WPZW724 	RM	151.4 PL	FMSP Disp 	Fort Mountain State Park 	FMN 	Other 
+155.69250 	153.79250  	WPWW405 	RM	CC 14TG 1096SL 1	MCSO Disp 	Sheriff  Dispatch 	DMRE 	Law Dispatch 
+155.58750 	159.99750  	KZB386 	RM	206.5 PL	MCSO Interop 	Sheriff Interop 	FMN 	Interop 
+155.59500 	   	KZB386 	M		MCSO TAC 	Sheriff Tactical 	FMN 	Law Tac 
+159.26250 	153.98000  	WQFT413 	RM	CC 15TG 3001SL *	MCSO Ch 2 	Sheriff Channel 2 	DMR 	Law Tac 
+154.23500 	153.83000  	WNUH765 	RM	114.8 PL	MCFD Disp 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
+155.32500 	150.79000  	WPUH783 	RM		MCFD Rescue 	Rescue Squad 	FMN 	Emergency Ops 
+156.19500 	150.99500  	WRA317 	RM	114.8 PL	MC Roads/Transit 	Road Department/Transit Authority 	FMN 	Public Works 
+463.20000 	468.20000  	WNWF340 	RM	25 RAN	MCBOE BUS 	Schools Buses 	NXDN 	Schools 
+463.20000 	468.20000  	WNWF340 	RM	114.8 PL	MCBOE BUS 	Schools Buses 	FMN 	Schools 
+159.26250 	153.98000  	WQFT413 	RM		MC Loc Gov 	Local Government 	DMR 	Other 
+159.09750 	151.30250  	WQEA727 	RM	CC 13TG 1050100SL *	CPD Disp D 	Police Dispatch - Digital 	DMRE 	Law Dispatch 
+154.08500 	   	WQEA727 	BM	114 DPL	CPD Disp A 	Police Dispatch - Analog 	FMN 	Law Dispatch 
+155.79000 	   	KSV521 	BM	114.8 PL	CPD TAC 	Police TAC 	FMN 	Law Dispatch 
+37.10000 	   	KXV312 	BM		Local Gov 	Local Government 	FMN 	Public Works 
+155.02500 	   	KNHU917 	BM		Local Gov 	Local Government 	FMN 	Public Works 
+153.53750 	   	WPUN317 	BM		C-H2O 	Chattsworth Water 	FMN 	Utilities 
+155.88000 	   	WNKT846 	BM		Eton Loc Gov 	Local Government 	FMN 	Public Works 
+152.30000 	157.56000  	WPZW724 	RM	151.4 PL	FMSP Disp 	Fort Mountain State Park 	FMN 	Other 

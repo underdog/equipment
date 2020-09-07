@@ -1,29 +1,29 @@
-154.72500 	KRW444 	RM	127.3 PL	Randall SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.74500 	KRW444 	RM	151.4 PL	Randall SO Info 	Sheriff Info (Main Tower) 	FMN 	Law Tac 
-155.56500 	WQGV794 	RM	023 DPL	Randall SO InfoW 	Sheriff Info (West PANCOM Tower) 	FMN 	Law Tac 
-155.56500 	WQGV794 	RM	61F NAC	Randall SO InfoW 	Sheriff Info (West PANCOM Tower) 	P25 	Law Tac 
-155.30250 	WQGV794 	RM	023 DPL	Randall SO InfoE 	Sheriff Info (East PANCOM Tower) 	FMN 	Law Tac 
-155.30250 	WQGV794 	RM	61F NAC	Randall SO InfoE 	Sheriff Info (East PANCOM Tower) 	P25 	Law Tac 
-158.76000 	KRW444 	RM	151.4 PL	Randall SO Jail 	Sheriff Jail Operations 	FMN 	Corrections 
-154.16000 	KNFC535 	RM	023 DPL	Randall Fire W 	Fire Dispatch (West PANCOM Tower) 	FMN 	Fire Dispatch 
-154.16000 	WQGV794 	RM	61F NAC	Randall Fire W 	Fire Dispatch (West PANCOM Tower) 	P25 	Fire Dispatch 
-155.54250 	WQGV794 	RM	023 DPL	Randall Fire E 	Fire Dispatch (East PANCOM Tower) 	FMN 	Fire Dispatch 
-155.54250 	WQGV794 	RM	61F NAC	Randall Fire E 	Fire Dispatch (East PANCOM Tower) 	P25 	Fire Dispatch 
-154.76250 	WQGV794 	RM	023 DPL	Randall Fire N 	Fire Dispatch (North PANCOM Tower) 	FMN 	Fire Dispatch 
-154.76250 	WQGV794 	RM	61F NAC	Randall Fire N 	Fire Dispatch (North PANCOM Tower) 	P25 	Fire Dispatch 
-155.26500 	WQGV794 	RM	023 DPL	Randall EMS W 	EMS Repeater (West PANCOM Tower) 	FMN 	EMS Dispatch 
-155.26500 	WQGV794 	RM	61F NAC	Randall EMS W 	EMS Repeater (West PANCOM Tower) 	P25 	EMS Dispatch 
-155.90250 	WQGV794 	RM	023 DPL	Randall EMS E 	EMS Repeater (East PANCOM Tower) 	FMN 	EMS Dispatch 
-155.90250 	WQGV794 	RM	61F NAC	Randall EMS E 	EMS Repeater (East PANCOM Tower) 	P25 	EMS Dispatch 
-159.19500 	WQGV794 	RM	023 DPL	Randall EMS N 	EMS Repeater (North PANCOM Tower) 	FMN 	EMS Dispatch 
-159.19500 	WQGV794 	RM	61F NAC	Randall EMS N 	EMS Repeater (North PANCOM Tower) 	P25 	EMS Dispatch 
-155.07750 	WQGV794 	RM	023 DPL	Randall EOC East 	EOC (East PANCOM Tower) 	FMN 	Emergency Ops 
-156.06000 	KNCD906 	RM	127.3 PL	Randall Co Roads 	Road and Bridge 	FMN 	Public Works 
-155.41500 	KWX429 	RM	127.3 PL	Canyon PD 2 	Police Secondary 	FMN 	Law Tac 
-154.22000 	WPGT897 	RM	179.9 PL	Canyon FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-463.15000 	KMK570 	RM		PDCanyonEMS 	Palo Duro Canyon EMS (S Central) 	FMN 	EMS Dispatch 
-154.87500 	WQQJ489 	BM	186.2 PL	Lk Tanglewd Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.08500 	KXC800  	RM	127.3 PL	WTAMU Police 	Police Dispatch 	FMN 	Law Dispatch 
-155.82000 	WPLU857 	BM		WTAMU Fire/Safe 	Fire and Safety 	FMN 	Multi-Dispatch 
-Affiliated Foods	 DMR Motorola Capacity Plus Single Site (TRBO)	 Amarillo	Amarillo Radio Communications System (ARCS)	 Project 25 Phase II	 Amarillo	Omega Two-Way Radio	 LTR Standard
- Amarillo	WT Systems/Panhandle Paging	 LTR Standard	 Amarillo	Xcel Energy	 Project 25 Phase I	 Various	
+154.72500 	155.85000  	KRW444 	RM	127.3 PL	Randall SO Disp 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.74500 	151.01000  	KRW444 	RM	151.4 PL	Randall SO Info 	Sheriff Info (Main Tower) 	FMN 	Law Tac 
+155.56500 	151.01000  	WQGV794 	RM	023 DPL	Randall SO InfoW 	Sheriff Info (West PANCOM Tower) 	FMN 	Law Tac 
+155.56500 	151.01000  	WQGV794 	RM	61F NAC	Randall SO InfoW 	Sheriff Info (West PANCOM Tower) 	P25 	Law Tac 
+155.30250 	151.01000  	WQGV794 	RM	023 DPL	Randall SO InfoE 	Sheriff Info (East PANCOM Tower) 	FMN 	Law Tac 
+155.30250 	151.01000  	WQGV794 	RM	61F NAC	Randall SO InfoE 	Sheriff Info (East PANCOM Tower) 	P25 	Law Tac 
+158.76000 	156.03000  	KRW444 	RM	151.4 PL	Randall SO Jail 	Sheriff Jail Operations 	FMN 	Corrections 
+154.16000 	154.43000  	KNFC535 	RM	023 DPL	Randall Fire W 	Fire Dispatch (West PANCOM Tower) 	FMN 	Fire Dispatch 
+154.16000 	154.43000  	WQGV794 	RM	61F NAC	Randall Fire W 	Fire Dispatch (West PANCOM Tower) 	P25 	Fire Dispatch 
+155.54250 	154.43000  	WQGV794 	RM	023 DPL	Randall Fire E 	Fire Dispatch (East PANCOM Tower) 	FMN 	Fire Dispatch 
+155.54250 	154.43000  	WQGV794 	RM	61F NAC	Randall Fire E 	Fire Dispatch (East PANCOM Tower) 	P25 	Fire Dispatch 
+154.76250 	154.43000  	WQGV794 	RM	023 DPL	Randall Fire N 	Fire Dispatch (North PANCOM Tower) 	FMN 	Fire Dispatch 
+154.76250 	154.43000  	WQGV794 	RM	61F NAC	Randall Fire N 	Fire Dispatch (North PANCOM Tower) 	P25 	Fire Dispatch 
+155.26500 	158.94750  	WQGV794 	RM	023 DPL	Randall EMS W 	EMS Repeater (West PANCOM Tower) 	FMN 	EMS Dispatch 
+155.26500 	158.94750  	WQGV794 	RM	61F NAC	Randall EMS W 	EMS Repeater (West PANCOM Tower) 	P25 	EMS Dispatch 
+155.90250 	158.94750  	WQGV794 	RM	023 DPL	Randall EMS E 	EMS Repeater (East PANCOM Tower) 	FMN 	EMS Dispatch 
+155.90250 	158.94750  	WQGV794 	RM	61F NAC	Randall EMS E 	EMS Repeater (East PANCOM Tower) 	P25 	EMS Dispatch 
+159.19500 	158.94750  	WQGV794 	RM	023 DPL	Randall EMS N 	EMS Repeater (North PANCOM Tower) 	FMN 	EMS Dispatch 
+159.19500 	158.94750  	WQGV794 	RM	61F NAC	Randall EMS N 	EMS Repeater (North PANCOM Tower) 	P25 	EMS Dispatch 
+155.07750 	155.88750  	WQGV794 	RM	023 DPL	Randall EOC East 	EOC (East PANCOM Tower) 	FMN 	Emergency Ops 
+156.06000 	159.16500  	KNCD906 	RM	127.3 PL	Randall Co Roads 	Road and Bridge 	FMN 	Public Works 
+155.41500 	156.21000  	KWX429 	RM	127.3 PL	Canyon PD 2 	Police Secondary 	FMN 	Law Tac 
+154.22000 	158.79000  	WPGT897 	RM	179.9 PL	Canyon FD 	Fire Dispatch 	FMN 	Fire Dispatch 
+463.15000 	468.15000  	KMK570 	RM		PDCanyonEMS 	Palo Duro Canyon EMS (S Central) 	FMN 	EMS Dispatch 
+154.87500 	   	WQQJ489 	BM	186.2 PL	Lk Tanglewd Fire 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.08500 	156.09000  	KXC800  	RM	127.3 PL	WTAMU Police 	Police Dispatch 	FMN 	Law Dispatch 
+155.82000 	   	WPLU857 	BM		WTAMU Fire/Safe 	Fire and Safety 	FMN 	Multi-Dispatch 
+Affiliated Foods	 DMR Motorola Capacity Plus Single Site (TRBO)	 Amarillo	Amarillo Radio Communications System (ARCS)	 Project 25 Phase II	 Amarillo	BrandMeister Texas	 DMR Conventional Networked	 Various
+Omega Two-Way Radio	 LTR Standard	 Amarillo	WT Systems/Panhandle Paging	 LTR Standard	 Amarillo	Xcel Energy	 Project 25 Phase I	 Various

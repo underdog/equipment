@@ -1,30 +1,21 @@
-161.29500 	 	RM	88.5 PL	Amtrak WIlm 	Amtrak Police Wilmington 	FM 	Law Dispatch 
-771.11250 	WQQI661 	RM		MDT Data 	MDT Data (Claymont) 	FM 	Data 
-773.98750 	WQQI661  	RM		MDT Data 	MDT Data (Middletown) 	FM 	Data 
-860.63750 	 	RM	156.7 PL	N VRS 1 	NCC Vehicle Repeater 1 	FMN 	Law Tac 
-861.01250 	 	RM	156.7 PL	N VRS 2 	NCC Vehicle Repeater 2 	FMN 	Law Tac 
-453.30000 	WQAP302 	BM	CSQ	Fire / EMS D 	Fire / EMS Dispatch and  patch 	FM 	Fire Dispatch 
-453.05000 	WQAP302 	BM	CSQ	Fire / EMS o 	EMS OPS1, Fire TAC 3/4 patch 	FM 	Fire-Talk 
-154.14500 	WPUD586 	RM	77.0 PL	Hockessian F 	Hockessin Fire Company (Simul of TRS) 	FM 	Deprecated 
-453.02500 	WPVB564 	B	CSQ	Volunteer ho 	Volunteer hose FC (simul of TRS) 	FM 	Deprecated 
-453.35000 	WPUC287 	B	CSQ	Christiana F 	Christiana Fire (simul of TRS) 	FM 	Deprecated 
-453.90000 	KNAG563 	RM	192.8 PL	Elsmere FC ( 	Elsmere FC (simul of TRS) 	FM 	Deprecated 
-460.57500 	KGE745 	RM	CSQ	Cranston Hei 	Cranston Heights FC (simul of TRS) 	FM 	Deprecated 
-460.60000 	KGD210 	RM	179.9 PL	Talleyville  	Talleyville FC (simulcast of TRS) 	FM 	Deprecated 
-460.62500 	WNXH760 	RM	CSQ	Aetna FC (Ne 	Aetna FC (Newark) (simul of TRS) 	FM 	Deprecated 
-500.78750 	WIL908 	RM	203.5 PL	Mill Creek F 	Mill Creek FC (simul of TRS) 	FM 	Deprecated 
-853.13750 	 	M		Talk-2 Fire  	Talk-2 Fire Departments 	FM 	Deprecated 
-160.02000 	WPUH563 	BM	156.7 PL	LifeNet Helo 	LifeNet Medical Helo 	FM 	EMS Dispatch 
-163.00000 	 	RM		ACE C&D 	Army Corps of Engineers C&D Canal Ops 	FM 	Federal 
-410.67500 	 	RM	293 NAC	VA Hosp Els 	VA Hospital (Elsmere) Security 	P25 	Federal 
-154.66500 	KGA814 	RM	532 DPL	County Water 	County Water Department 	FM 	Utilities 
-154.69500 	KGA814 	RM	532 DPL	County PW 	County Public works 	FM 	Public Works 
-156.16500 	KNAU536 	RM	532 DPL	County PW 	County Public works 	FM 	Public Works 
-453.23750 	WQFQ642 	RM		Public Works 	Public Works 	FM 	Public Works 
-161.64000 	 	BM	CSQ	WDEL Traffic 	WDEL Traffic Reporters 	FM 	Media 
-155.77500 	WPYX992 	B	364 DPL	Public Works 	Public Works 	FM 	Public Works 
-158.95500 	WPYX992 		364 DPL	Public Works 	Public Works 	FM 	Public Works 
-Brandywine School District	 LTR Standard	 Wilmington	Christiana Care Health Services	 LTR Standard	 Various	Delaware Park	 LTR Standard
- Wilmington	Delaware Wireless Interoperability Network (DELWIN)	 Project 25 Phase I	 Varies	Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone	 Various	DuPont Experimental Station
- Motorola Type II	 Wilmington	FleetCall	 NXDN NEXEDGE 4800	 Various	Interstate Repeater System	 DMR Conventional Networked	 Various
-State of Delaware Public Safety	 Motorola Type II SmartZone	 Statewide	University of Delaware	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newark	
+161.29500 	   	 	RM	88.5 PL	Amtrak WIlm 	Amtrak Police Wilmington 	FM 	Law Dispatch 
+771.11250 	   	WQQI661 	RM		MDT Data 	MDT Data (Claymont) 	FM 	Data 
+773.98750 	   	WQQI661  	RM		MDT Data 	MDT Data (Middletown) 	FM 	Data 
+860.63750 	   	 	RM	156.7 PL	N VRS 1 	NCC Vehicle Repeater 1 	FMN 	Law Tac 
+861.01250 	   	 	RM	156.7 PL	N VRS 2 	NCC Vehicle Repeater 2 	FMN 	Law Tac 
+453.30000 	   	WQAP302 	BM	CSQ	Fire / EMS D 	Fire / EMS Dispatch and  patch 	FM 	Fire Dispatch 
+453.05000 	   	WQAP302 	BM	CSQ	Fire / EMS o 	EMS OPS1, Fire TAC 3/4 patch 	FM 	Fire-Talk 
+160.02000 	   	WPUH563 	BM	156.7 PL	LifeNet Helo 	LifeNet Medical Helo 	FM 	EMS Dispatch 
+163.00000 	   	 	RM		ACE C&D 	Army Corps of Engineers C&D Canal Ops 	FM 	Federal 
+410.67500 	419.67500  	 	RM	293 NAC	VA Hosp Els 	VA Hospital (Elsmere) Security 	P25 	Federal 
+154.66500 	   	KGA814 	RM	532 DPL	County Water 	County Water Department 	FM 	Utilities 
+154.69500 	   	KGA814 	RM	532 DPL	County PW 	County Public works 	FM 	Public Works 
+156.16500 	   	KNAU536 	RM	532 DPL	County PW 	County Public works 	FM 	Public Works 
+453.23750 	458.23750  	WQFQ642 	RM		Public Works 	Public Works 	FM 	Public Works 
+161.64000 	   	 	BM	CSQ	WDEL Traffic 	WDEL Traffic Reporters 	FM 	Media 
+155.77500 	   	WPYX992 	B	364 DPL	Public Works 	Public Works 	FM 	Public Works 
+158.95500 	   	WPYX992 		364 DPL	Public Works 	Public Works 	FM 	Public Works 
+Brandywine School District	 LTR Standard	 Wilmington	Christiana Care Health Services	 LTR Standard	 Various	Delaware Park	 LTR Standard	 Wilmington
+Delaware Wireless Interoperability Network (DELWIN)	 Project 25 Phase I	 Varies	Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone	 Various	DuPont Experimental Station	 Motorola Type II	 Wilmington
+FleetCall	 NXDN NEXEDGE 4800	 Various	Interstate Repeater System	 DMR Conventional Networked	 Various	State of Delaware Public Safety	 Motorola Type II SmartZone	 Statewide
+University of Delaware	 DMR Motorola Capacity Plus Single Site (TRBO)	 Newark	

@@ -1,22 +1,21 @@
-155.70000 	KSA433 	RM	77.0 PL	SCSO 800 B/U 	800 MHz Back-up 	FM 	Law Talk 
-853.36250 	WNYA795 	RM		SCSO DATA 	Sheriff - Data 	FM 	Data 
-154.43000 	WNJG213 	BM	77.0 PL	StubCoFirePg 	Fire - Paging 	FMN 	Fire Dispatch 
-154.35500 	WNJG213 	BM	77.0 PL	StubCoFireMA 	Fire - Mutual Aid with De Kalb County 	FMN 	Interop 
-155.05500 	KNFM529 	RM		StubCoEMA 	Emergency Management - VHF Backup 	FMN 	Emergency Ops 
-151.07000 	KSE696 	RM	107.2 PL	StubCoHWY 	Steuben County Highway Department 	FMN 	Public Works 
-154.23500 	WNWN245 	RM	100.0 PL	AngolaFireDp 	Fire Dispatch 	FMN 	Fire Dispatch 
-153.89000 	WNWN245 	M	100.0 PL	AngolaFireT2 	Fire TAC 2 	FMN 	Fire-Tac 
-154.96500 	KNFQ476 	RM	100.0 PL	AngolaUtil 	City Utilities (Snow Plows) 	FMN 	Public Works 
-155.76000 	WNVF805 	BM		AngolaHousng 	Housing Authority 	FMN 	Public Works 
-151.34750 	KSF930  	RM		FremontRptr 	Fire Repeater 	DMR 	Fire-Tac 
-155.55000 	WPZT956 	M		FremontTac 	Fire Tactical 	FMN 	Fire-Tac 
-154.17500 	KRF488 	BM		HamiltonFire 	Fire CH 4 	FMN 	Fire-Tac 
-154.20500 	WPNP960 	BM		HelmerFire 	Fire Tactical 	FMN 	Fire-Tac 
-155.10000 	WNMN448 	BM	CSQ	HudsonTown 	Utilities/Fire Dept. 	FM 	Fire-Tac 
-155.88000 	WPAY773 	BM		MetzFire 	Fire Tactical 	FM 	Fire-Tac 
-154.28000 	KNGC337 	BM	CSQ	Fire MA 	Statewide Mutual Aid 	FMN 	Interop 
-154.37000 	KNGC337 	BM	91.5 PL	SalemFireOps 	Ops with LaGrange County 	FMN 	Interop 
-154.72500 	WPHJ768 	BM		StubTwpFire 	Fire Private CH 	FM 	Fire-Talk 
-461.17500 	WPUX752 	RM	155 DPL	Tri-State-U 	Tri State University 	FM 	Schools 
-ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	Indiana Project Hoosier SAFE-T	 Project 25 Phase I	 Statewide	J and K Communications Diga Talk	 NXDN NEXEDGE 9600
- Various	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple	
+155.70000 	154.83000  	KSA433 	RM	77.0 PL	SCSO 800 B/U 	800 MHz Back-up 	FM 	Law Talk 
+853.36250 	808.36250  	WNYA795 	RM		SCSO DATA 	Sheriff - Data 	FM 	Data 
+154.43000 	   	WNJG213 	BM	77.0 PL	StubCoFirePg 	Fire - Paging 	FMN 	Fire Dispatch 
+154.35500 	   	WNJG213 	BM	77.0 PL	StubCoFireMA 	Fire - Mutual Aid with De Kalb County 	FMN 	Interop 
+155.05500 	156.01500  	KNFM529 	RM		StubCoEMA 	Emergency Management - VHF Backup 	FMN 	Emergency Ops 
+151.07000 	159.04500  	KSE696 	RM	107.2 PL	StubCoHWY 	Steuben County Highway Department 	FMN 	Public Works 
+154.23500 	153.89000  	WNWN245 	RM	100.0 PL	AngolaFireDp 	Fire Dispatch 	FMN 	Fire Dispatch 
+153.89000 	   	WNWN245 	M	100.0 PL	AngolaFireT2 	Fire TAC 2 	FMN 	Fire-Tac 
+154.96500 	150.77500  	KNFQ476 	RM	100.0 PL	AngolaUtil 	City Utilities (Snow Plows) 	FMN 	Public Works 
+155.76000 	   	WNVF805 	BM		AngolaHousng 	Housing Authority 	FMN 	Public Works 
+151.34750 	159.36750  	KSF930  	RM		FremontRptr 	Fire Repeater 	DMR 	Fire-Tac 
+155.55000 	   	WPZT956 	M		FremontTac 	Fire Tactical 	FMN 	Fire-Tac 
+154.17500 	   	KRF488 	BM		HamiltonFire 	Fire CH 4 	FMN 	Fire-Tac 
+154.20500 	   	WPNP960 	BM		HelmerFire 	Fire Tactical 	FMN 	Fire-Tac 
+155.10000 	   	WNMN448 	BM	CSQ	HudsonTown 	Utilities/Fire Dept. 	FM 	Fire-Tac 
+155.88000 	   	WPAY773 	BM		MetzFire 	Fire Tactical 	FM 	Fire-Tac 
+154.28000 	   	KNGC337 	BM	CSQ	Fire MA 	Statewide Mutual Aid 	FMN 	Interop 
+154.37000 	   	KNGC337 	BM	91.5 PL	SalemFireOps 	Ops with LaGrange County 	FMN 	Interop 
+154.72500 	   	WPHJ768 	BM		StubTwpFire 	Fire Private CH 	FM 	Fire-Talk 
+461.17500 	466.17500  	WPUX752 	RM	155 DPL	Tri-State-U 	Tri State University 	FM 	Schools 
+ERS-OCI Wireless TRBOconnect Con+	 DMR Motorola Connect Plus (TRBO)	 Multiple	J and K Communications Diga Talk	 NXDN NEXEDGE 9600	 Various	Northern Indiana Public Service Company 900Mhz	 DMR Tier 3	 Multiple

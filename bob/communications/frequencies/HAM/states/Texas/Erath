@@ -1,21 +1,21 @@
-155.19000 	KZC619 	RM	61F NAC	Erath SO Dis 	Erath Sheriff Disp (P25) 	P25 	Law Dispatch 
-155.19000 	KZC619 	RM	162.2 PL	Erath SO Dis 	Erath Sheriff Disp (Analog) 	FMN 	Law Dispatch 
-155.64000 	KZC619 	RM	94.8 PL	Erath SO 	Erath Sheriff 	FMN 	Law Tac 
-151.25000 	KZC619 	RM	110.9 PL	ErathFD/EMS1 	Erath Fire/EMS Stephenville RPTR 	FMN 	Fire Dispatch 
-158.76750 	WPXT632 	RM	110.9 PL	ErathFD/EMS2 	Erath Fire/EMS Morgan Mill RPTR 	FMN 	Fire Dispatch 
-154.28000 	KNJV858 	BM	127.3 PL	TX FIRE 1 	Fireground (also called TX FIRE 1A) 	FMN 	Fire-Tac 
-155.77500 	WQMY741 	RM	CC 10TG 910SL 1	CRRRTD Dispatch 	Dispatch 	DMR 	Transportation 
-155.05500 	KZC620 	RM	61F NAC	Dublin PD 	Dublin Police Dispatch 	P25 	Law Dispatch 
-158.95500 	WPIR839 	BM	162.2 PL	Dublin FD 	Dublin Fire Dispatch 	FMN 	Fire Dispatch 
-155.31000 	WNHU791 	RM	61A NAC	Steph PD Disp D 	Police Dispatch (Digital) 	P25 	Law Dispatch 
-155.31000 	WNHU791 	RM	127.3 PL	Steph PD Disp A 	Police Dispatch (Analog) 	FMN 	Law Dispatch 
-154.01000 	KNJV858 	RM	162 NAC	Steph FD/EMS Dig 	Fire/EMS (Digital) 	P25 	Multi-Dispatch 
-154.01000 	KNJV858 	RM	162.2 PL	Steph FD Tones 	Fire/EMS Toneouts (Analog) 	FMN 	Multi-Dispatch 
-154.35500 	KNJV858 	BM	162.2 PL	Steph FD TAC 	Fire Tactical 	FMN 	Fire-Tac 
-154.23500 	KNJV858 	BM		MorganFD TAC 	Morgan Mill VFD, Huckabay VFD, and Selden VFD TAC Channel 	FMN 	Fire-Tac 
-154.31000 	KNJV858 	BM		DublinFD TAC 	Dublin VFD and Bluff Dale VFD TAC Channel 	FMN 	Fire-Tac 
-151.62500 	 	M		SpeedwaySafe 	281 Speedway safety team 	FM 	Emergency Ops 
-154.98000 	WPHK619 	RM	69.3 PL	Steph PubWks 	Public Works 	FMN 	Public Works 
-155.74500 	WPWT904 	RM	162.2 PL	Tarleton Mnt 	Tarleton Maintenance 	FM 	Schools 
-155.97000 	WNRB978 	RM	97.4 PL	Tarleton Ctr 	Tarleton Control Center 	FMN 	Schools 
-Azle Communications (Stephenville)	 LTR Standard	 Stephenville	Oncor Energy	 EDACS Narrowband Networked	 Various	
+155.19000 	154.75500  	KZC619 	RM	61F NAC	Erath SO Dis 	Erath Sheriff Disp (P25) 	P25 	Law Dispatch 
+155.19000 	154.75500  	KZC619 	RM	162.2 PL	Erath SO Dis 	Erath Sheriff Disp (Analog) 	FMN 	Law Dispatch 
+155.64000 	   	KZC619 	RM	94.8 PL	Erath SO 	Erath Sheriff 	FMN 	Law Tac 
+151.25000 	153.75500  	KZC619 	RM	110.9 PL	ErathFD/EMS1 	Erath Fire/EMS Stephenville RPTR 	FMN 	Fire Dispatch 
+158.76750 	153.88250  	WPXT632 	RM	110.9 PL	ErathFD/EMS2 	Erath Fire/EMS Morgan Mill RPTR 	FMN 	Fire Dispatch 
+154.28000 	   	KNJV858 	BM	127.3 PL	TX FIRE 1 	Fireground (also called TX FIRE 1A) 	FMN 	Fire-Tac 
+155.77500 	151.23500  	WQMY741 	RM	CC 10TG 910SL 1	CRRRTD Dispatch 	Dispatch 	DMR 	Transportation 
+155.05500 	159.03000  	KZC620 	RM	61F NAC	Dublin PD 	Dublin Police Dispatch 	P25 	Law Dispatch 
+158.95500 	   	WPIR839 	BM	162.2 PL	Dublin FD 	Dublin Fire Dispatch 	FMN 	Fire Dispatch 
+155.31000 	155.91000  	WNHU791 	RM	61A NAC	Steph PD Disp D 	Police Dispatch (Digital) 	P25 	Law Dispatch 
+155.31000 	155.91000  	WNHU791 	RM	127.3 PL	Steph PD Disp A 	Police Dispatch (Analog) 	FMN 	Law Dispatch 
+154.01000 	154.43000  	KNJV858 	RM	162 NAC	Steph FD/EMS Dig 	Fire/EMS (Digital) 	P25 	Multi-Dispatch 
+154.01000 	154.43000  	KNJV858 	RM	162.2 PL	Steph FD Tones 	Fire/EMS Toneouts (Analog) 	FMN 	Multi-Dispatch 
+154.35500 	   	KNJV858 	BM	162.2 PL	Steph FD TAC 	Fire Tactical 	FMN 	Fire-Tac 
+154.23500 	   	KNJV858 	BM		MorganFD TAC 	Morgan Mill VFD, Huckabay VFD, and Selden VFD TAC Channel 	FMN 	Fire-Tac 
+154.31000 	   	KNJV858 	BM		DublinFD TAC 	Dublin VFD and Bluff Dale VFD TAC Channel 	FMN 	Fire-Tac 
+151.62500 	   	 	M		SpeedwaySafe 	281 Speedway safety team 	FM 	Emergency Ops 
+154.98000 	153.98000  	WPHK619 	RM	69.3 PL	Steph PubWks 	Public Works 	FMN 	Public Works 
+155.74500 	153.86000  	WPWT904 	RM	162.2 PL	Tarleton Mnt 	Tarleton Maintenance 	FM 	Schools 
+155.97000 	156.09000  	WNRB978 	RM	97.4 PL	Tarleton Ctr 	Tarleton Control Center 	FMN 	Schools 
+Azle Communications (Stephenville)	 LTR Standard	 Stephenville	BrandMeister Texas	 DMR Conventional Networked	 Various	Oncor Energy	 EDACS Narrowband Networked	 Various

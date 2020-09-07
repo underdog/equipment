@@ -1,118 +1,118 @@
-851.07500 	WPWC445 	M	156.7 PL	LaS Shrf MX 	Sheriff: Mobile Extenders (to ClearTalk TG 21040) 	FMN 	Law Tac 
-853.58750 	WPWC445 	M	156.7 PL	LaS Shrf Jail 	Sheriff: Jail Ops 	FMN 	Corrections 
-155.70000 	KSA521 	RM	114.8 PL	LaS Sheriff 	Sheriff: Primary (Backup to Cleartalk DMR) 	FMN 	Law Dispatch 
-155.14500 	KAT354 	BM	114.8 PL	LaS LawRural 	Sheriff: Secondary - Rural Dispatch (Leland, Sheridan, Serena) 	FMN 	Law Dispatch 
-155.70000 	KSA521 	RM		LaS*Sheriff 	Sheriff: Primary (in use 8/14) 	DMR 	Law Dispatch 
-155.61000 	KSB208 	BM	114.8 PL	LaS Law Net 	Police: Countywide Net - Back-Up 	FMN 	Law Dispatch 
-155.98500 	KB21905 	M	114.8 PL	LaS Shrf c2c 	Sheriff: Car-to-Car [Expired 10/02] (still in use?) 	FMN 	Law Tac 
-155.08500 	KAT354 	BM	114.8 PL	LaSalle ESDA 	ESDA: Operations 	FMN 	Emergency Ops 
-155.02500 	KAT354 	BM	114.8 PL	LaS Courthse 	Courthouse Ops (Ottawa) 	FMN 	Public Works 
-151.46000 	WQRC950 	RM	CSQ	LaS Fire All 	Fire: Countywide Dispatch (Monitor All) 	FMN 	Fire Dispatch 
-151.46000 	WQRC950 	RM	265 DPL	LaS Fire Men 	Fire: Countywide Dispatch (Mendota tower) 	FMN 	Fire Dispatch 
-151.46000 	WQRC950 	RM	365 DPL	LaS Fire Ser 	Fire: Countywide Dispatch (Serena tower) 	FMN 	Fire Dispatch 
-151.46000 	WQRC950 	RM	465 DPL	LaS Fire GRd 	Fire: Countywide Dispatch (Grand Ridge tower) 	FMN 	Fire Dispatch 
-151.46000 	WQRC950 	RM	565 DPL	LaS Fire Leo 	Fire: Countywide Dispatch (Leonore tower) 	FMN 	Fire Dispatch 
-154.19000 	WQOR446 	BM	CSQ	LaS Fire M/A 	Fire: Mutual Aid (*) 	FMN 	Fire-Tac 
-155.20500 	 	BM	100.0 PL	AMT Amblnc 	EMS: Dispatch 	FMN 	EMS Dispatch 
-153.50000 	WPEK951 	RM	103.5 PL	Superior Amb 	EMS: Dispatch 	FMN 	EMS Dispatch 
-461.01250 	 	M	CSQ	Sup Amb MX 	EMS: Mobile Extenders [No License] 	FMN 	EMS-Tac 
-155.34000 	KVU375 	B	162.2 PL	MERCI1 162.2 	Patient Reports 	FMN 	Hospital 
-460.71250 	KD45601 	M		IVCH Data 	Data (CSQ) 	Telm 	Data 
-155.34000 	KRW908 	B	146.2 PL	MERCI1 146.2 	Patient Reports 	FMN 	Hospital 
-152.00750 	KRW908 	B		MCH Paging 	Paging (CSQ) 	Telm 	Data 
-155.34000 	WQTI240 	B	97.4 PL	MERCI-1 97.4 	Patient Reports 	FMN 	Hospital 
-462.75000 	WQIP525 	B		CHO Paging 	Paging [Digital] (CSQ) 	Telm 	Data 
-453.12500 	WQCN834 	RM	136.5 PL	StMary Hosp 	Operations (*licensed to St Eliz) 	FMN 	Business 
-155.20500 	WQCY417 	BM		StMary EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-155.34000 	WQCY417 	BM	100.0 PL	MERCI1 100.0 	Patient Reports 	FMN 	Hospital 
-152.00750 	WQCN834 	B		SMH Paging 	Paging (CSQ) 	Telm 	Data 
-155.34000 	 	BM	162.2 PL	MERCI1 162.2 	Patient Reports 	FMN 	Hospital 
-155.49000 	KSD972 	RM	69.3 PL	Earlville Police 	Police: Dispatch (New 11/17) 	FMN 	Law Dispatch 
-151.33250 	WQBC936 	RM	79.7 PL	Earlvile FireEMS 	Fire/EMS: Paging / Dispatch / On-Scene 	FMN 	Fire Dispatch 
-154.81500 	WPHN550 	RM	114 DPL	LaSal Police 	Police: Dispatch 	FMN 	Law Dispatch 
-151.35500 	WQQ933 	RM	136.5 PL	LaSalle Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-155.78250 	WQRP948 	RM	445 DPL	Oglesby PD 	Police: Dispatch 	FMN 	Law Dispatch 
-153.86000 	KNAB748 	RM	156.7 PL	OglsbyFire 	Fire: Dispatch (new) 	FMN 	Fire Dispatch 
-155.23500 	WNQJ460 	BM	136.5 PL	Oglsb FD/EMS 	Fire/EMS: Dispatch/Ops  	FMN 	Fire Dispatch 
-155.76000 	KWH773 	BM	114.8 PL	Ogls PubWrks 	Public Works 	FMN 	Public Works 
-463.88750 	 	F		Oglb WDD 	Water Distribution Data (CSQ) [No License?] 	Telm 	Data 
-154.76250 	KD48741 	RM	100.0 PL	Peru Paging 	Paging: Fire / Ambulance / ESDA / River Rescue / Police 	FMN 	Emergency Ops 
-155.79000 	KSA778 	RM	114.8 PL	Peru Police 	Police: Dispatch 	FMN 	Law Dispatch 
-155.79000 	KSA778 	RM		PeruPolice2  	Police: Secondary 	FMN 	Law Dispatch 
-154.40000 	KDU480 	RM	162.2 PL	Peru Fire 	Fire: Dispatch (131.8 in) 	FMN 	Fire Dispatch 
-154.40000 	KDU480 	M	162.2 PL	PeruFire T/A 	Fire: Talkaround 	FMN 	Fire Dispatch 
-154.04000 	KD48741 	RM	100.0 PL	PeruAmbulnc1 	EMS: Dispatch/Ops (141.3 in) 	FMN 	EMS Dispatch 
-155.20500 	KD48741 	M	162.2 PL	PeruAmbulnc2 	EMS: Ops / Comms with IVCH 	FMN 	EMS Dispatch 
-151.01000 	WQGE391 	RM	151.4 PL	Peru PubWrks 	Public Works 	FMN 	Public Works 
-158.80500 	 	M		Per St/Water 	Street / Water Department 	FMN 	Public Works 
-158.77500 	WQAG604 	BM		Adams Twp 	Adams Township: Snowplows, Work Trucks 	FMN 	Public Works 
-453.22500 	 	BM		BrookfldTwp 	Brookfield Township Road Maintenance 	FMN 	Public Works 
-154.98000 	 	BM	114 DPL	FrmRdg Tshp 	Farm Ridge Townwship Road Maintenance 	FMN 	Public Works 
-151.04000 	WPNS242 	BM	CSQ	LaSl TS CSQ 	Manlius/Meriden/Ophir Township Road Maintenance 	FMN 	Public Works 
-159.18000 	WPFU576 	BM		Peru Twp Rds 	Peru Township Road Maintenance 	FMN 	Public Works 
-151.04000 	 	BM	114.8 PL	LaSl TS 1148 	Troy Grove Road Maintenance 	FMN 	Public Works 
-151.04000 	 	BM	CSQ	LaSl TS CSQ 	Vermillion Township Road Maintenance 	FMN 	Public Works 
-154.44500 	WPPZ888 	M	CSQ	CedrPnt Fire 	Fire: Local/Alternate 	FMN 	Fire-Tac 
-154.44500 	WQFH642 	BM		Dana Fire 2 	Fire: Local 	FMN 	Fire-Tac 
-453.31250 	WQFH642 	RM	CSQ	Dana Fire RF 	Fire: Remote Link? (to ?) 	FMN 	Law Dispatch 
-154.25000 	WPUE625 	RM	77.0 PL	GrndRdFireR 	Fire 	FMN 	Fire Dispatch 
-154.25000 	WPUE625 	BM	343 DPL	GrndRdg Fire 	Fire: Local 	FMN 	Fire-Tac 
-155.49000 	KSD972 	BM	69.3 PL	Leland Police 	Police: Dispatch (w/ Earlville) 	FMN 	Law Dispatch 
-153.48500 	 	BM	192.8 PL	Leland Fire 	Fire: Dispatch - Primary (DB: MABAS 06 - DeKalb Co) 	FMN 	Fire Dispatch 
-156.21000 	KNJS790 	BM	114.8 PL	Mars Interop 	Citywide Emergency Interop 	FMN 	Interop 
-154.89000 	 	M		Mars PD c2c5 	Police: Car-to-Car [Code 5] 	FMN 	Law Tac 
-154.19000 	KSG829 	BM	155 DPL	Marseil Fire 	Fire: Dispatch (DB: Ottawa PD) 	FMN 	Fire Dispatch 
-154.29500 	 	M	CSQ	Mars FD Tac2 	Fireground - Tac 2 	FMN 	Fire-Tac 
-155.17500 	WQSD591 	BM	131 DPL	Marseill EMS 	Marseilles Area Ambulance Service  	FMN 	EMS-Tac 
-158.83500 	KTO358 	BM	100.0 PL	Mars Streets 	Street Department 	FMN 	Public Works 
-151.26500 	KSD972 	RM	69.3 PL	Mend*Police 	Police: Dispatch (was D315) 	FMN 	Law Dispatch 
-155.07000 	KSD972 	RM	156.7 PL	Mendota Fire 	Fire: Dispatch (was 155.31R) 	FMN 	Fire Dispatch 
-153.89000 	 	M		Mend FD FG3 	Fireground [Ch 3] 	FMN 	Fire-Tac 
-154.31750 	WPGV432 	BM	69.3 PL	Naplate Fire 	Fire 	FMN 	Fire Dispatch 
-151.38500 	KSA910 	RM	932 NAC	Ottawa Police 	Police: Dispatch (w/ Marseilles) [Base Encrypted, Mobiles Clear] 	P25E 	Law Dispatch 
-151.17500 	WQAF834 	RM	186.2 PL	Ottawa Fire 	Fire: Ops / Civil Defense-Rescue Paging 	FMN 	Fire Dispatch 
-154.13000 	KSC852 	BM	114.8 PL	OttwaCentFire 	Fire: Dispatch (Ottawa Central Dispatch) 	FMN 	Fire Dispatch 
-155.40000 	WQEY377 	BM		Ottawa Rescue 	Rescue Ops 	FMN 	Fire-Tac 
-155.89500 	WRAX357 	BM	032 DPL	Wallace FPD 	Wallace FPD: Paging / Ops 	FMN 	Fire Dispatch 
-155.74500 	KSS873 	M		Ottawa Str/Swr 	Street / Sewer Department 	FMN 	Public Works 
-151.76000 	 	M	732 DPL	Ottawa Str/Snow 	Streets / Snow Plows 	FMN 	Public Works 
-152.95250 	 	M	606 DPL	Ottawa Str/Snow2 	Streets / Snow Plows - Back-Up 	FMN 	Public Works 
-154.37000 	KXM424 	RM	210.7 PL	AllenTwpFire 	Fire: Local  	FMN 	Fire-Tac 
-158.77500 	 	BM		NthvTs Roads 	Northville Township Road Maintenance 	FMN 	Public Works 
-155.10000 	KNEN333 	BM	CSQ	Senaca PD 2 	Police: Dispatch 	FMN 	Law Dispatch 
-154.01000 	KNEJ802 	RM	114.8 PL	Seneca Fire 	Fire: Local 	FMN 	Fire-Tac 
-155.10000 	KNEN333 	BM	CSQ	Seneca PW 	Public Works 	FMN 	Public Works 
-155.22000 	 	BM	CSQ	Sheridan EMS 	Ambulance 	FMN 	EMS Dispatch 
-155.85000 	KSA736 	M		Strtr PD c2c 	Police: Car-to-Car (not 107.2) 	FMN 	Law Tac 
-159.09000 	KSA736 	RM	107.2 PL	StreatorFire 	Fire: Dispatch (formerly PD) 	FMN 	Fire Dispatch 
-155.01000 	WNNT228 	BM	114.8 PL	Streator PWk 	Public Works 	FMN 	Public Works 
-154.14500 	WPWM824 	BM	CSQ	Tonica Fire 	Fire: Local 	FMN 	Fire-Tac 
-155.64000 	WQFD730 	M	114.8 PL	NUtic PD c2c 	Police: Car-to-Car [North Utica] 	FMN 	Law Tac 
-151.47500 	WQFD730 	M	114.8 PL	NUtic PD MX 	Police: Mobile Extenders [North Utica] 	FMN 	Law Tac 
-151.20500 	WQAZ471 	RM	103.5 PL	Utica Fire 1 	Fire/EMS: Dispatch/Operations - Primary 	FMN 	Fire-Tac 
-155.66250 	WQAZ471 	RM	100.0 PL	Utica Fire 2 	Fire/EMS: Operations [Ch 2] 	FMN 	Fire-Tac 
-155.16000 	KSF842 	BM	136.5 PL	FS BusesGR/P 	First Student (Grand Ridge, Peru) 	FMN 	Schools 
-461.93750 	WQLR654 	RM	051 DPL	ICSB Streatr 	Illinois-Central School Bus (Streator) 	FMN 	Schools 
-466.57500 	 	M		Earlv lSchool 	Operations 	FMN 	Schools 
-464.02500 	WPAM835 	RM	CC 1TG 1SL 1	FldCrst Schl Bus 	Buses 	DMR 	Schools 
-153.42500 	WQOW433 	RM		LPT HighSch 	L-P Township High School (in use 8/14) 	DMR 	Schools 
-452.43750 	WQLI922 	RM		Las Elem Sch 	LaSalle Elementary School #122 	FMN 	Schools 
-451.35000 	WPWS385 	RM		Leland Sch 	Buses/Events/Coordination (portables) 	FMN 	Schools 
-461.57500 	WPHK390 	RM	173.8 PL	MendSchool Buses 	Buses 	FMN 	Schools 
-154.51500 	WNPV520 	BM		OESD Ops1 	Elementary School District 	FMN 	Schools 
-154.54000 	WNPV520 	BM		OESD Ops2 	Elementary School District 	FMN 	Schools 
-461.52500 	WQAY581 	RM		OTHS Ops 2 	Township High School 140: Grounds/Maintenance 	FMN 	Schools 
-464.05000 	WQAY581 	RM		OTHS Ops 3 	Township High School 140: Grounds/Maintenance (poss D047) 	FMN 	Schools 
-155.42250 	KSA910 	RM	743 DPL	OHS Ops 	High School: Ops [Licensed to city] 	FMN 	Schools 
-155.26500 	WNAW586 	BM		Rtld Sch Bus 	School Buses 	FMN 	Schools 
-152.29250 	WQLZ570 	RM		Sen Grad Sch 	Grade School: Bus Ops 	FMN 	Schools 
-154.54000 	KJNT811 	BM		Sen High Sch 	Seneca High School 	FMN 	Schools 
-461.86250 	WQLU252 	RM		SenTS HiSch 	Seneca Township High School 	FMN 	Schools 
-461.20000 	WQJM518 	RM		STHS Ops 	Operations "Safety"  	FMN 	Schools 
-464.37500 	WNRD736 	RM		Ton GradeSchool 	Consolidated Grade School 89 	FMN 	Schools 
-151.65500 	WNND385 	BM		Wlthm School 	Waltham Grade School 	FMN 	Schools 
-155.23500 	 	BM		Wdlnd SchBus 	Buses 	FMN 	Schools 
-451.45000 	WPMS970 	RM		IVCC Ops 	Operations (w/ Phone Patch) 	FMN 	Schools 
-157.68000 	KTN572 	BM		IVCC Paging 	Paging ? 	FMN 	Schools 
- A-Beep / Tri-Star Communications - UHF (NW IL)	 LTR Standard	 Loves Park	A-Beep Chicago-area LTR	 LTR Standard	 Chicago	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)
- Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	
+851.07500 	   	WPWC445 	M	156.7 PL	LaS Shrf MX 	Sheriff: Mobile Extenders (to ClearTalk TG 21040) 	FMN 	Law Tac 
+853.58750 	   	WPWC445 	M	156.7 PL	LaS Shrf Jail 	Sheriff: Jail Ops 	FMN 	Corrections 
+155.70000 	159.03000  	KSA521 	RM	114.8 PL	LaS Sheriff 	Sheriff: Primary (Backup to Cleartalk DMR) 	FMN 	Law Dispatch 
+155.14500 	   	KAT354 	BM	114.8 PL	LaS LawRural 	Sheriff: Secondary - Rural Dispatch (Leland, Sheridan, Serena) 	FMN 	Law Dispatch 
+155.70000 	159.03000  	KSA521 	RM		LaS*Sheriff 	Sheriff: Primary (in use 8/14) 	DMR 	Law Dispatch 
+155.61000 	   	KSB208 	BM	114.8 PL	LaS Law Net 	Police: Countywide Net - Back-Up 	FMN 	Law Dispatch 
+155.98500 	   	KB21905 	M	114.8 PL	LaS Shrf c2c 	Sheriff: Car-to-Car [Expired 10/02] (still in use?) 	FMN 	Law Tac 
+155.08500 	   	KAT354 	BM	114.8 PL	LaSalle ESDA 	ESDA: Operations 	FMN 	Emergency Ops 
+155.02500 	   	KAT354 	BM	114.8 PL	LaS Courthse 	Courthouse Ops (Ottawa) 	FMN 	Public Works 
+151.46000 	156.16500  	WQRC950 	RM	CSQ	LaS Fire All 	Fire: Countywide Dispatch (Monitor All) 	FMN 	Fire Dispatch 
+151.46000 	156.16500  	WQRC950 	RM	265 DPL	LaS Fire Men 	Fire: Countywide Dispatch (Mendota tower) 	FMN 	Fire Dispatch 
+151.46000 	156.16500  	WQRC950 	RM	365 DPL	LaS Fire Ser 	Fire: Countywide Dispatch (Serena tower) 	FMN 	Fire Dispatch 
+151.46000 	156.16500  	WQRC950 	RM	465 DPL	LaS Fire GRd 	Fire: Countywide Dispatch (Grand Ridge tower) 	FMN 	Fire Dispatch 
+151.46000 	156.16500  	WQRC950 	RM	565 DPL	LaS Fire Leo 	Fire: Countywide Dispatch (Leonore tower) 	FMN 	Fire Dispatch 
+154.19000 	   	WQOR446 	BM	CSQ	LaS Fire M/A 	Fire: Mutual Aid (*) 	FMN 	Fire-Tac 
+155.20500 	   	 	BM	100.0 PL	AMT Amblnc 	EMS: Dispatch 	FMN 	EMS Dispatch 
+153.50000 	150.77500  	WPEK951 	RM	103.5 PL	Superior Amb 	EMS: Dispatch 	FMN 	EMS Dispatch 
+461.01250 	   	 	M	CSQ	Sup Amb MX 	EMS: Mobile Extenders [No License] 	FMN 	EMS-Tac 
+155.34000 	   	KVU375 	B	162.2 PL	MERCI1 162.2 	Patient Reports 	FMN 	Hospital 
+460.71250 	   	KD45601 	M		IVCH Data 	Data (CSQ) 	Telm 	Data 
+155.34000 	   	KRW908 	B	146.2 PL	MERCI1 146.2 	Patient Reports 	FMN 	Hospital 
+152.00750 	   	KRW908 	B		MCH Paging 	Paging (CSQ) 	Telm 	Data 
+155.34000 	   	WQTI240 	B	97.4 PL	MERCI-1 97.4 	Patient Reports 	FMN 	Hospital 
+462.75000 	   	WQIP525 	B		CHO Paging 	Paging [Digital] (CSQ) 	Telm 	Data 
+453.12500 	458.12500  	WQCN834 	RM	136.5 PL	StMary Hosp 	Operations (*licensed to St Eliz) 	FMN 	Business 
+155.20500 	   	WQCY417 	BM		StMary EMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+155.34000 	   	WQCY417 	BM	100.0 PL	MERCI1 100.0 	Patient Reports 	FMN 	Hospital 
+152.00750 	   	WQCN834 	B		SMH Paging 	Paging (CSQ) 	Telm 	Data 
+155.34000 	   	 	BM	162.2 PL	MERCI1 162.2 	Patient Reports 	FMN 	Hospital 
+155.49000 	158.94750  	KSD972 	RM	69.3 PL	Earlville Police 	Police: Dispatch (New 11/17) 	FMN 	Law Dispatch 
+151.33250 	159.34500  	WQBC936 	RM	79.7 PL	Earlvile FireEMS 	Fire/EMS: Paging / Dispatch / On-Scene 	FMN 	Fire Dispatch 
+154.81500 	153.78500  	WPHN550 	RM	114 DPL	LaSal Police 	Police: Dispatch 	FMN 	Law Dispatch 
+151.35500 	159.33000  	WQQ933 	RM	136.5 PL	LaSalle Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+155.78250 	158.82750  	WQRP948 	RM	445 DPL	Oglesby PD 	Police: Dispatch 	FMN 	Law Dispatch 
+153.86000 	155.87250  	KNAB748 	RM	156.7 PL	OglsbyFire 	Fire: Dispatch (new) 	FMN 	Fire Dispatch 
+155.23500 	   	WNQJ460 	BM	136.5 PL	Oglsb FD/EMS 	Fire/EMS: Dispatch/Ops  	FMN 	Fire Dispatch 
+155.76000 	   	KWH773 	BM	114.8 PL	Ogls PubWrks 	Public Works 	FMN 	Public Works 
+463.88750 	   	 	F		Oglb WDD 	Water Distribution Data (CSQ) [No License?] 	Telm 	Data 
+154.76250 	153.98750  	KD48741 	RM	100.0 PL	Peru Paging 	Paging: Fire / Ambulance / ESDA / River Rescue / Police 	FMN 	Emergency Ops 
+155.79000 	159.40500  	KSA778 	RM	114.8 PL	Peru Police 	Police: Dispatch 	FMN 	Law Dispatch 
+155.79000 	   	KSA778 	RM		PeruPolice2  	Police: Secondary 	FMN 	Law Dispatch 
+154.40000 	153.95000  	KDU480 	RM	162.2 PL	Peru Fire 	Fire: Dispatch (131.8 in) 	FMN 	Fire Dispatch 
+154.40000 	   	KDU480 	M	162.2 PL	PeruFire T/A 	Fire: Talkaround 	FMN 	Fire Dispatch 
+154.04000 	156.01500  	KD48741 	RM	100.0 PL	PeruAmbulnc1 	EMS: Dispatch/Ops (141.3 in) 	FMN 	EMS Dispatch 
+155.20500 	   	KD48741 	M	162.2 PL	PeruAmbulnc2 	EMS: Ops / Comms with IVCH 	FMN 	EMS Dispatch 
+151.01000 	158.80500  	WQGE391 	RM	151.4 PL	Peru PubWrks 	Public Works 	FMN 	Public Works 
+158.80500 	   	 	M		Per St/Water 	Street / Water Department 	FMN 	Public Works 
+158.77500 	   	WQAG604 	BM		Adams Twp 	Adams Township: Snowplows, Work Trucks 	FMN 	Public Works 
+453.22500 	   	 	BM		BrookfldTwp 	Brookfield Township Road Maintenance 	FMN 	Public Works 
+154.98000 	   	 	BM	114 DPL	FrmRdg Tshp 	Farm Ridge Townwship Road Maintenance 	FMN 	Public Works 
+151.04000 	   	WPNS242 	BM	CSQ	LaSl TS CSQ 	Manlius/Meriden/Ophir Township Road Maintenance 	FMN 	Public Works 
+159.18000 	   	WPFU576 	BM		Peru Twp Rds 	Peru Township Road Maintenance 	FMN 	Public Works 
+151.04000 	   	 	BM	114.8 PL	LaSl TS 1148 	Troy Grove Road Maintenance 	FMN 	Public Works 
+151.04000 	   	 	BM	CSQ	LaSl TS CSQ 	Vermillion Township Road Maintenance 	FMN 	Public Works 
+154.44500 	   	WPPZ888 	M	CSQ	CedrPnt Fire 	Fire: Local/Alternate 	FMN 	Fire-Tac 
+154.44500 	   	WQFH642 	BM		Dana Fire 2 	Fire: Local 	FMN 	Fire-Tac 
+453.31250 	458.81250  	WQFH642 	RM	CSQ	Dana Fire RF 	Fire: Remote Link? (to ?) 	FMN 	Law Dispatch 
+154.25000 	159.12000  	WPUE625 	RM	77.0 PL	GrndRdFireR 	Fire 	FMN 	Fire Dispatch 
+154.25000 	   	WPUE625 	BM	343 DPL	GrndRdg Fire 	Fire: Local 	FMN 	Fire-Tac 
+155.49000 	   	KSD972 	BM	69.3 PL	Leland Police 	Police: Dispatch (w/ Earlville) 	FMN 	Law Dispatch 
+153.48500 	   	 	BM	192.8 PL	Leland Fire 	Fire: Dispatch - Primary (DB: MABAS 06 - DeKalb Co) 	FMN 	Fire Dispatch 
+156.21000 	   	KNJS790 	BM	114.8 PL	Mars Interop 	Citywide Emergency Interop 	FMN 	Interop 
+154.89000 	   	 	M		Mars PD c2c5 	Police: Car-to-Car [Code 5] 	FMN 	Law Tac 
+154.19000 	   	KSG829 	BM	155 DPL	Marseil Fire 	Fire: Dispatch (DB: Ottawa PD) 	FMN 	Fire Dispatch 
+154.29500 	   	 	M	CSQ	Mars FD Tac2 	Fireground - Tac 2 	FMN 	Fire-Tac 
+155.17500 	   	WQSD591 	BM	131 DPL	Marseill EMS 	Marseilles Area Ambulance Service  	FMN 	EMS-Tac 
+158.83500 	   	KTO358 	BM	100.0 PL	Mars Streets 	Street Department 	FMN 	Public Works 
+151.26500 	153.92000  	KSD972 	RM	69.3 PL	Mend*Police 	Police: Dispatch (was D315) 	FMN 	Law Dispatch 
+155.07000 	159.28500  	KSD972 	RM	156.7 PL	Mendota Fire 	Fire: Dispatch (was 155.31R) 	FMN 	Fire Dispatch 
+153.89000 	   	 	M		Mend FD FG3 	Fireground [Ch 3] 	FMN 	Fire-Tac 
+154.31750 	   	WPGV432 	BM	69.3 PL	Naplate Fire 	Fire 	FMN 	Fire Dispatch 
+151.38500 	153.96500  	KSA910 	RM	932 NAC	Ottawa Police 	Police: Dispatch (w/ Marseilles) [Base Encrypted, Mobiles Clear] 	P25E 	Law Dispatch 
+151.17500 	158.92500  	WQAF834 	RM	186.2 PL	Ottawa Fire 	Fire: Ops / Civil Defense-Rescue Paging 	FMN 	Fire Dispatch 
+154.13000 	   	KSC852 	BM	114.8 PL	OttwaCentFire 	Fire: Dispatch (Ottawa Central Dispatch) 	FMN 	Fire Dispatch 
+155.40000 	   	WQEY377 	BM		Ottawa Rescue 	Rescue Ops 	FMN 	Fire-Tac 
+155.89500 	   	WRAX357 	BM	032 DPL	Wallace FPD 	Wallace FPD: Paging / Ops 	FMN 	Fire Dispatch 
+155.74500 	   	KSS873 	M		Ottawa Str/Swr 	Street / Sewer Department 	FMN 	Public Works 
+151.76000 	   	 	M	732 DPL	Ottawa Str/Snow 	Streets / Snow Plows 	FMN 	Public Works 
+152.95250 	   	 	M	606 DPL	Ottawa Str/Snow2 	Streets / Snow Plows - Back-Up 	FMN 	Public Works 
+154.37000 	158.94000  	KXM424 	RM	210.7 PL	AllenTwpFire 	Fire: Local  	FMN 	Fire-Tac 
+158.77500 	   	 	BM		NthvTs Roads 	Northville Township Road Maintenance 	FMN 	Public Works 
+155.10000 	   	KNEN333 	BM	CSQ	Senaca PD 2 	Police: Dispatch 	FMN 	Law Dispatch 
+154.01000 	158.98500  	KNEJ802 	RM	114.8 PL	Seneca Fire 	Fire: Local 	FMN 	Fire-Tac 
+155.10000 	   	KNEN333 	BM	CSQ	Seneca PW 	Public Works 	FMN 	Public Works 
+155.22000 	   	 	BM	CSQ	Sheridan EMS 	Ambulance 	FMN 	EMS Dispatch 
+155.85000 	   	KSA736 	M		Strtr PD c2c 	Police: Car-to-Car (not 107.2) 	FMN 	Law Tac 
+159.09000 	155.85000  	KSA736 	RM	107.2 PL	StreatorFire 	Fire: Dispatch (formerly PD) 	FMN 	Fire Dispatch 
+155.01000 	   	WNNT228 	BM	114.8 PL	Streator PWk 	Public Works 	FMN 	Public Works 
+154.14500 	   	WPWM824 	BM	CSQ	Tonica Fire 	Fire: Local 	FMN 	Fire-Tac 
+155.64000 	   	WQFD730 	M	114.8 PL	NUtic PD c2c 	Police: Car-to-Car [North Utica] 	FMN 	Law Tac 
+151.47500 	   	WQFD730 	M	114.8 PL	NUtic PD MX 	Police: Mobile Extenders [North Utica] 	FMN 	Law Tac 
+151.20500 	154.71000  	WQAZ471 	RM	103.5 PL	Utica Fire 1 	Fire/EMS: Dispatch/Operations - Primary 	FMN 	Fire-Tac 
+155.66250 	159.03000  	WQAZ471 	RM	100.0 PL	Utica Fire 2 	Fire/EMS: Operations [Ch 2] 	FMN 	Fire-Tac 
+155.16000 	   	KSF842 	BM	136.5 PL	FS BusesGR/P 	First Student (Grand Ridge, Peru) 	FMN 	Schools 
+461.93750 	466.93750  	WQLR654 	RM	051 DPL	ICSB Streatr 	Illinois-Central School Bus (Streator) 	FMN 	Schools 
+466.57500 	   	 	M		Earlv lSchool 	Operations 	FMN 	Schools 
+464.02500 	469.02500  	WPAM835 	RM	CC 1TG 1SL 1	FldCrst Schl Bus 	Buses 	DMR 	Schools 
+153.42500 	158.20500  	WQOW433 	RM		LPT HighSch 	L-P Township High School (in use 8/14) 	DMR 	Schools 
+452.43750 	457.43750  	WQLI922 	RM		Las Elem Sch 	LaSalle Elementary School #122 	FMN 	Schools 
+451.35000 	456.35000  	WPWS385 	RM		Leland Sch 	Buses/Events/Coordination (portables) 	FMN 	Schools 
+461.57500 	466.57500  	WPHK390 	RM	173.8 PL	MendSchool Buses 	Buses 	FMN 	Schools 
+154.51500 	   	WNPV520 	BM		OESD Ops1 	Elementary School District 	FMN 	Schools 
+154.54000 	   	WNPV520 	BM		OESD Ops2 	Elementary School District 	FMN 	Schools 
+461.52500 	466.52500  	WQAY581 	RM		OTHS Ops 2 	Township High School 140: Grounds/Maintenance 	FMN 	Schools 
+464.05000 	469.05000  	WQAY581 	RM		OTHS Ops 3 	Township High School 140: Grounds/Maintenance (poss D047) 	FMN 	Schools 
+155.42250 	158.97000  	KSA910 	RM	743 DPL	OHS Ops 	High School: Ops [Licensed to city] 	FMN 	Schools 
+155.26500 	   	WNAW586 	BM		Rtld Sch Bus 	School Buses 	FMN 	Schools 
+152.29250 	157.55250  	WQLZ570 	RM		Sen Grad Sch 	Grade School: Bus Ops 	FMN 	Schools 
+154.54000 	   	KJNT811 	BM		Sen High Sch 	Seneca High School 	FMN 	Schools 
+461.86250 	466.86250  	WQLU252 	RM		SenTS HiSch 	Seneca Township High School 	FMN 	Schools 
+461.20000 	466.20000  	WQJM518 	RM		STHS Ops 	Operations "Safety"  	FMN 	Schools 
+464.37500 	469.37500  	WNRD736 	RM		Ton GradeSchool 	Consolidated Grade School 89 	FMN 	Schools 
+151.65500 	   	WNND385 	BM		Wlthm School 	Waltham Grade School 	FMN 	Schools 
+155.23500 	   	 	BM		Wdlnd SchBus 	Buses 	FMN 	Schools 
+451.45000 	456.45000  	WPMS970 	RM		IVCC Ops 	Operations (w/ Phone Patch) 	FMN 	Schools 
+157.68000 	   	KTN572 	BM		IVCC Paging 	Paging ? 	FMN 	Schools 
+A-Beep Chicago-area LTR	 LTR Standard	 Chicago	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple
+Diga-Talk	 NXDN NEXEDGE 4800	 Various	

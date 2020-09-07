@@ -1,29 +1,28 @@
-460.07500 	WNAY986 	RM	192.8 PL	Brown SO 1 	Sheriff 1 Aberdeen 	FM 	Law Dispatch 
-460.20000 	WNAY986 	RM	192.8 PL	Brown SO 2 	Sheriff 2 Hecla 	FM 	Law Tac 
-460.60000 	WPAG931 	RM	192.8 PL	Brown FD Dis 	County Fire & EMS Dispatch 	FM 	Fire Dispatch 
-453.10000 	WPKL224 	RM	162.2 PL	Brown FD 	County Fire 	FM 	Fire Dispatch 
-453.15000 	WPKL224 	RM	162.2 PL	Brown FD 2 	County Fire 	FM 	Fire Dispatch 
-453.82500 	KLK581 	RM	203.5 PL	Frederick FD 	Frederick Fire 	FM 	Fire Dispatch 
-158.74500 	KLK581 	RM	CSQ	Brown CD 	Civil Defense 	FM 	Emergency Ops 
-453.05000 	KSV778 	RM	162.2 PL	Aberdeen PD1 	Police 1 	FM 	Law Dispatch 
-453.95000 	KSV778 	RM	162.2 PL	Aberdeen PD2 	Police 2 	FM 	Law Tac 
-460.62500 	KRG738 	RM	146.2 PL	Aberdeen FD 	Fire & EMS Dispatch 	FM 	Fire Dispatch 
-462.97500 	WNMM634 	RM	CSQ	Aberdeen EMS 	Ambulance 	FM 	EMS Dispatch 
-462.95000 	KRL399 	RM		Careflight 	Careflight -St. Luke's- (A.K.A. "MED-9") 	FM 	Hospital 
-155.04000 	WPSN625 	RM	91.5 PL	Aberdeen Wat 	Water 	FM 	Public Works 
-155.71500 	WPFJ236 	RM	97.4 PL	Aberdeen Pks 	Parks 	FM 	Public Works 
-453.60000 	WNXN237 	RM	136.5 PL	Groton PD 	Police 	FM 	Law Tac 
-152.43500 	WQGN799 	RM		Groton Sch 	Schools 	FM 	Other 
-155.38500 	KRL399 	BM		St.Lukes Amb 	St. Luke's Ambulence 	FM 	EMS-Tac 
-462.95000 	KRL399 	RM	91.5 PL	St Lukes Hos 	St Luke,s Hospital CareFlight Ops 	FM 	EMS-Tac 
-464.77500 	WYJ544 	RM		St.Lukes Se 	St. Luke's Hospital Security 	FM 	Security 
-463.28750 	WQPV519 	RM		Sanford Aber 	Sanford Aberdeen Medical Center 	FMN 	Hospital 
-122.70000 	 	BM		Aberd CTAF 	CTAF 	AM 	Aircraft 
-122.85000 	 	BM		Quest Aviatn 	Quest Aviation 	AM 	Aircraft 
-122.95000 	 	BM		Aberd Unicom 	Unicom 	AM 	Aircraft 
-123.02500 	 	BM		Helicopters 	Helicopters 	AM 	Aircraft 
-125.87500 	 	BM		Aberd AWOS 	AWOS 	AM 	Aircraft 
-129.80000 	WQOR723 	BM		Delta Air Ops 	Delta Airlines Operations 	AM 	Aircraft 
-130.55000 	KEG6 	BM		Delta Air Gate 	Delta Airlines Gate 	AM 	Aircraft 
-Jamestown Communications	 LTR Standard	 Aberdeen	RACOM Network	 EDACS Networked Standard	 Various	South Dakota State Radio System	 Motorola Type II SmartZone
- Statewide	
+460.07500 	465.07500  	WNAY986 	RM	192.8 PL	Brown SO 1 	Sheriff 1 Aberdeen 	FM 	Law Dispatch 
+460.20000 	465.20000  	WNAY986 	RM	192.8 PL	Brown SO 2 	Sheriff 2 Hecla 	FM 	Law Tac 
+460.60000 	465.60000  	WPAG931 	RM	192.8 PL	Brown FD Dis 	County Fire & EMS Dispatch 	FM 	Fire Dispatch 
+453.10000 	458.10000  	WPKL224 	RM	162.2 PL	Brown FD 	County Fire 	FM 	Fire Dispatch 
+453.15000 	458.15000  	WPKL224 	RM	162.2 PL	Brown FD 2 	County Fire 	FM 	Fire Dispatch 
+453.82500 	458.82500  	KLK581 	RM	203.5 PL	Frederick FD 	Frederick Fire 	FM 	Fire Dispatch 
+158.74500 	153.81500  	KLK581 	RM	CSQ	Brown CD 	Civil Defense 	FM 	Emergency Ops 
+453.05000 	458.05000  	KSV778 	RM	162.2 PL	Aberdeen PD1 	Police 1 	FM 	Law Dispatch 
+453.95000 	458.95000  	KSV778 	RM	162.2 PL	Aberdeen PD2 	Police 2 	FM 	Law Tac 
+460.62500 	465.62500  	KRG738 	RM	146.2 PL	Aberdeen FD 	Fire & EMS Dispatch 	FM 	Fire Dispatch 
+462.97500 	467.97500  	WNMM634 	RM	CSQ	Aberdeen EMS 	Ambulance 	FM 	EMS Dispatch 
+462.95000 	467.95000  	KRL399 	RM		Careflight 	Careflight -St. Luke's- (A.K.A. "MED-9") 	FM 	Hospital 
+155.04000 	153.75500  	WPSN625 	RM	91.5 PL	Aberdeen Wat 	Water 	FM 	Public Works 
+155.71500 	158.86500  	WPFJ236 	RM	97.4 PL	Aberdeen Pks 	Parks 	FM 	Public Works 
+453.60000 	458.60000  	WNXN237 	RM	136.5 PL	Groton PD 	Police 	FM 	Law Tac 
+152.43500 	157.69500  	WQGN799 	RM		Groton Sch 	Schools 	FM 	Other 
+155.38500 	   	KRL399 	BM		St.Lukes Amb 	St. Luke's Ambulence 	FM 	EMS-Tac 
+462.95000 	467.95000  	KRL399 	RM	91.5 PL	St Lukes Hos 	St Luke,s Hospital CareFlight Ops 	FM 	EMS-Tac 
+464.77500 	469.77500  	WYJ544 	RM		St.Lukes Se 	St. Luke's Hospital Security 	FM 	Security 
+463.28750 	468.28750  	WQPV519 	RM		Sanford Aber 	Sanford Aberdeen Medical Center 	FMN 	Hospital 
+122.70000 	   	 	BM		Aberd CTAF 	CTAF 	AM 	Aircraft 
+122.85000 	   	 	BM		Quest Aviatn 	Quest Aviation 	AM 	Aircraft 
+122.95000 	   	 	BM		Aberd Unicom 	Unicom 	AM 	Aircraft 
+123.02500 	   	 	BM		Helicopters 	Helicopters 	AM 	Aircraft 
+125.87500 	   	 	BM		Aberd AWOS 	AWOS 	AM 	Aircraft 
+129.80000 	   	WQOR723 	BM		Delta Air Ops 	Delta Airlines Operations 	AM 	Aircraft 
+130.55000 	   	KEG6 	BM		Delta Air Gate 	Delta Airlines Gate 	AM 	Aircraft 
+Jamestown Communications	 LTR Standard	 Aberdeen	RACOM Network	 EDACS Networked Standard	 Various	South Dakota State Radio System	 Motorola Type II SmartZone	 Statewide

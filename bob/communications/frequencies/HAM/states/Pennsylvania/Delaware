@@ -1,176 +1,175 @@
-46.48000 	KDK667 	B		DC Fire Disp 	County Fire Dispatch (Voice) 	FM 	Fire Dispatch 
-154.20500 	KDK667 	B		DC Alpha 	County Fire Dispatch (Alpha pagers only) 	FM 	Data 
-508.23750 	WIJ815 	RM	203.5 PL	DC Fire Disp 	County Fire Dispatch (Voice) 	FM 	Fire Dispatch 
-506.81250 	WIJ815 	RM	173.8 PL	DC Fire Ch 1 	Ch 1 - Primary (Districts  4, 5, 7); Secondary (District 8) 	FM 	Fire-Tac 
-508.03750 	WIJ815 	RM	192.8 PL	DC Fire Ch 2 	Ch 2 - Secondary (Districts 4, 5, 7) 	FM 	Fire-Tac 
-508.16250 	WIJ815 	RM	146.2 PL	DC Fire Ch 3 	Ch 3 - Primary (District  6) 	FM 	Fire-Tac 
-506.51250 	WIJ815 	RM	107.2 PL	DC Fire Ch 4 	Ch 4 - Primary (District 9, 10 & Sta. 44); Secondary (District 6) 	FM 	Fire-Tac 
-508.13750 	WIJ815 	RM	100.0 PL	DC Fire Ch 5 	Ch 5 - Primary (Districts 1, 11) 	FM 	Fire-Tac 
-507.81250 	WIJ815 	RM	186.2 PL	DC Fire Ch 6 	Ch 6 - Secondary (Districts 1, 6, 11) 	FM 	Fire-Tac 
-508.66250 	WIJ815 	RM	156.7 PL	DC Fire Ch 7 	Ch 7 - Primary (Districts  2, 3, 12) 	FM 	Fire-Tac 
-506.71250 	WIJ815 	RM	103.5 PL	DC Fire Ch 8 	Ch 8 - Secondary (Districts 2, 3, 12) 	FM 	Fire-Tac 
-507.98750 	WIJ815 	RM	100.0 PL	DC Fire Ch 9 	Ch 9 - Secondary (District 9, 10) 	FM 	Fire-Tac 
-506.66250 	WIJ815 	RM	110.9 PL	DC Fire Ch10 	Ch 10 - Primary (District 8 - Upper Darby Twp.) 	FM 	Fire-Tac 
-506.68750 	WIJ815 	M	110.9 PL	DC Fire Ch11 	Ch 11 - Fireground (Districts 4, 5, 7, 8, 9) 	FM 	Fire-Tac 
-507.98750 	WIJ815 	M	167.9 PL	DC Fire Ch12 	Ch 12 - Fireground (Districts 2, 3, 6, 10) 	FM 	Fire-Tac 
-506.58750 	WIJ815 	M	192.8 PL	DC Fire Ch13 	Ch 13 - Fireground 	FM 	Fire-Tac 
-507.98750 	WIJ815 	M	173.8 PL	DC Fire Ch14 	Ch 14 - Fireground (Districts 1, 11) 	FM 	Fire-Tac 
-508.33750 	WIJ815 	RM	203.5 PL	DC Fire Ch15 	Ch 15 - Fire-4 Simulcast Repeater (fills coverage gaps for Radnor area) 	FM 	Fire-Tac 
-510.41250 	WPPG323 	M	107.2 PL	DC Fire FP 	Fireground Tac (Fire Police Ops) 	FM 	Fire-Tac 
-460.18750 	WPKU568 	M	110.9 PL	1/11 FP Ops 	1st and 11th District Fire Police Association Operations 	FMN 	Fire-Talk 
-506.58750 	WIJ815 	RM	156.7 PL	DC MedA East 	Med-A East 	FM 	EMS-Tac 
-506.68750 	WIJ815 	RM	141.3 PL	DC MedB West 	Med-B West 	FM 	EMS-Tac 
-461.51250 	WQTL283 	RM	CC 1TG 1700SL 1	DC EMA 	Emergency Management 	DMR 	Emergency Ops 
-461.88750 	WQTL283 	RM	CC 1TG 1500SL 1	DC EMS I/O 	EMS Inter-Op for Mass Casualty Incidents (TS: 1 - TG:1500 ) 	DMR 	EMS-Talk 
-462.30000 	WQTL283 	RM	CC 2TG 1000SL 2	DC EOC/EMS I/O 	 EOC / EMS interop 	DMR 	EMS-Talk 
-506.76250 	WIJ815 	RM	114.8 PL	DC S1 Disp  	Sector 1 Dispatch 	FM 	Law Dispatch 
-508.18750 	WIJ815 	RM	146.2 PL	DC M1 Alt  	Sector 1 Secondary 	FM 	Law Tac 
-511.98750 	WPPG323 	M	114.8 PL	DC S1 Alpha 	Sector 1 Car-Car Alpha 	FM 	Law Talk 
-506.83750 	WIJ815 	RM	110.9 PL	DC S2 Disp  	Sector 2 Dispatch 	FM 	Law Dispatch 
-508.06250 	WIJ815 	RM	141.3 PL	DC M2 Alt  	Sector 2 Secondary 	FM 	Law Tac 
-507.81250 	WIJ815 	M	136.5 PL	DC S2 Bravo 	Sector 2 Car-Car Bravo 	FM 	Law Talk 
-506.86250 	WIJ815 	RM	114.8 PL	DC S3 Disp  	Sector 3 Dispatch (Chester City PD) 	FM 	Law Dispatch 
-508.33750 	WIJ815 	RM	103.5 PL	DC S3 Tac  	Sector 3 Tactical 	FM 	Law Tac 
-506.71250 	WIJ815 	M	151.4 PL	DC S3 Fox 	Sector 3 Car-Car Foxtrot 	FM 	Law Talk 
-508.08750 	WIJ815 	RM	136.5 PL	DC S4 Disp  	Sector 4 Dispatch 	FM 	Law Dispatch 
-506.63750 	WIJ815 	RM	162.2 PL	DC M4 Alt  	Sector 4 Secondary 	FM 	Law Tac 
-510.61250 	WPPG323 	M	110.9 PL	DC S4 Charli 	Sector 4 Car-Car Charlie 	FM 	Law Talk 
-508.11250 	WIJ815 	RM	141.3 PL	DC S5 Disp  	Sector 5 Dispatch 	FM 	Law Dispatch 
-506.61250 	WIJ815 	RM	100.0 PL	DC M5 Alt  	Sector 5 Secondary 	FM 	Law Tac 
-510.38750 	WPPG323 	M	192.8 PL	DC S5 Delta 	Sector 5 Car-Car Delta 	FM 	Law Talk 
-501.67500 	WPMP243 	RM	167.9 PL	DC S6 Disp  	Sector 6 Dispatch (Upper Darby PD) 	FM 	Law Dispatch 
-501.32500 	WPMP243 	RM	131.8 PL	DC M6 Alt A  	Sector 6 Secondary (Analog) 	FM 	Law Tac 
-501.32500 	WPMP243 	RM	293 NAC	DC M6 Alt D  	Sector 6 Secondary (Digital) 	P25 	Law Tac 
-501.85000 	WPMP243 	RM	192.8 PL	DC S7 Disp  	Sector 7 Dispatch  	FM 	Law Dispatch 
-500.33750 	KYO878 	RM	141.3 PL	DC M7 Alt 	Sector 7 Secondary 	FM 	Law Tac 
-506.56250 	WIJ815 	RM	151.4 PL	DC Pol Data  	Police Data (lookups) 	FM 	Law Talk 
-506.36250 	WIJ815 	RM	127.3 PL	DC Pol CID 	CID Detectives, Coroner 	FM 	Law Tac 
-510.46250 	WPPG323 	M	110.9 PL	DC Pol Echo 	CID Car-Car Echo 	FM 	Law Talk 
-453.58750 	WPCV315 	RM	203.5 PL	DC Court Ops 	Sheriff Courthouse Operations 	FM 	Law Talk 
-453.61250 	WPCV315 	RM	223 DPL	DC Court Sec 	Sheriff Courthouse Security 	FM 	Law Talk 
-506.41250 	WIJ815 	RM	131.8 PL	DC Sheriff 	Sheriff, Park Police Dispatch 	FM 	Law Dispatch 
-508.43750 	WIJ815 	RM	151.4 PL	DC Pol Cmd 	Command / Countywide EMA 	FM 	Interop 
-510.38750 	WPPG323 	M	173.8 PL	DC Pol Tac 	Police Tactical 	FM 	Law Tac 
-501.22500 	WPMP243 	RM	192.8 PL	Delco Tac  	County Tactical 	FM 	Emergency Ops 
-501.22500 	WPMP243 	RM	293 NAC	Delco Ops D  	County Ops Digital  	P25 	Emergency Ops 
-155.47500 	KNNG312 	BM		National PD 	VHF National Police 	FM 	Interop 
-460.03750 	KB65124 	M	203.5 PL	DC Prison 1 	SMU, Unit 10 	FM 	Corrections 
-453.88750 	WPMK315 	M	203.5 PL	DC Prison 2 	General Operations 	FMN 	Corrections 
-462.10000 	WPDU857 	BM	631 DPL	ABVFC-F1 	Aston-Beechwood Volunteer Fire Company - Channel 1 	FMN 	Fire-Tac 
-464.95000 	WPDU857 	BM	606 DPL	ABVFC-F2 	Aston-Beechwood Volunteer Fire Company - Channel 2 	FMN 	Fire-Tac 
-451.77500 	WPDU857 	RM		ABVFC-F3 	Aston-Beechwood Volunteer Fire Company - Channel 3 	FMN 	Fire-Tac 
-460.55000 	WQNX980 	RM	114.8 PL	Grn Rdg FC 	Green Ridge Fire Company 	FMN 	Fire-Tac 
-156.24000 	WPMM215 	BM	91.5 PL	Aston PD C-C 	Aston Township Police Car-to-Car 	FMN 	Law Talk 
-154.80000 	WNJN900 	BM	91.5 PL	Aston DPW 	Aston Township Public Works 	FMN 	Public Works 
-453.67500 	WPHN950 	RM	506 DPL	CHA Police 	Chester Housing Authority Police 	FM 	Law Dispatch 
-507.95000 	 	RM	047 DPL	Ches Twp FD TAC 	Chester Township Fire TAC 	FMN 	Fire-Tac 
-463.77500 	WQVF538 	RM	116 DPL	CFC1 06 Tac 	Collingdale Fire Co #1 Sta 06 Talkaround 	FMN 	Fire-Talk 
-463.77500 	WQVF538 	RM	156 DPL	CFC2 42 Tac 	Collingdale Fire Co #2 Sta 42 Talkaround 	FMN 	Fire-Talk 
-463.77500 	WQVF538 	RM	412 DPL	CPD Tac 	Police Dept. Talkaround 	FMN 	Law Talk 
-508.31250 	WIL830 	RM	127.3 PL	Cncrdvil 59 	Concordville Fire & Protective Assn. Operations 	FM 	Fire-Talk 
-159.18000 	WZY461 	BM	146.2 PL	Concord DPW 	Township Public Works 	FMN 	Public Works 
-462.25000 	WQQH805 	RM	245 DPL	Darby FC1 	Darby FC#1 operations (fairs)  	FMN 	Business 
-462.25000 	WQQH805 	RM	516 DPL	Darby PD TA 	Darby Police Talkaround 	FMN 	Law Talk 
-508.48750 	WIL646 	RM	186.2 PL	Eddystone PD 	Eddystone Police Secondary 	FM 	Law Talk 
-506.48750 	 	RM	146.2 PL	Eddystone PD 	Eddystone Police / Fire Interop 	FM 	Law Talk 
-460.62500 	WNYB541 	RM	025 DPL	Sta. 12 Disp 	Eddystone Fire Co. Dispatch/Operations 	FM 	Fire Dispatch 
-453.70000 	WPBZ787 	RM	025 DPL	Sta. 12 Boat 	Eddystone Marine operations 	FM 	Fire-Talk 
-453.70000 	WPBZ787 	RM	043 DPL	Sta.12 Chief 	Eddystone Fire Chiefs 	FM 	Fire-Talk 
-460.53750 	WPCG691 	RM	065 DPL	Sta. 12 Ops1 	Eddystone Fire Ops 1 	FM 	Fire-Talk 
-460.51250 	WPDJ899 	RM	225.7 PL	Sta. 12 Ops2 	Eddystone Fire Ops 2 	FM 	Fire-Talk 
-500.72500 	WPMB686 	RM		Edgmont 64 	Edgmont Fire Co. Repeater 	FM 	Fire-Talk 
-453.27500 	KQL751 	RM	103.5 PL	Hvrfrd PD 1 	Police - Local 	FMN 	Law Tac 
-453.47500 	KQL750 	RM	103.5 PL	Hvrfrd PD/PW 	Police/Public Works Ops 	FMN 	Law Tac 
-501.02500 	WPMM357 	RM	103.5 PL	Hvrfd FD Ops 	Fire - Operations 	FMN 	Fire-Tac 
-46.22000 	KB86329 	BM		Hvrfd FD 4XB 	Fire - Repeats UHF Fire 4 for pagers 	FM 	Fire-Tac 
-464.93750 	WQHP402 	RM	115 DPL	Lansdwn TAC 	Lansdowne PD TAC 	FMN 	Law Tac 
-464.93750 	WQHP402 	RM	244 DPL	Lansdwn FD   	Lansdowne FD TAC 	FMN 	Fire-Tac 
-151.04000 	WPMK721 	BM	91.5 PL	Mrcs Hk PW 	Marcus Hook Public Works (also PD tac 	FMN 	Public Works 
-501.12500 	WQCP842 	RM		Mrcs Hk PD 	Marcus Hook PD private (APCO25 / Encrypted) 	P25E 	Law Tac 
-453.22500 	KRP852 	RM	74.4 PL	Marple PD 	Marple Twp Police Car-Car (old dispatch channel) 	FMN 	Law Tac 
-508.63750 	WPJH998 	RM	127.3 PL	Media PD Rpt 	Media Boro PD Repeater (old dispatch channel) 	FMN 	Law Tac 
-502.13750 	WPUA891 	RM	146.2 PL	Media PD Fox 	Media Boro PD "Foxtrot" 	FMN 	Law Tac 
-462.97500 	WNYV251 	RM	114.8 PL	Media23 Fire 	Media Fire Co. Operations 	FMN 	Fire-Talk 
-453.82500 	KVF546 	RM	79.7 PL	Midltwn PW 	Middletown TWP. Public Works 	FM 	Public Works 
-460.57500 	WNQZ797 	RM	114 DPL	Rocky Run 46 	Rocky Run FC. Operations  (NXDN Capable) 	FMN 	Fire-Talk 
-502.05000 	WQTQ876 	RM	103.5 PL	S Media FC 	South Media Fire Company Repeater/Simplex 	FMN 	Fire-Tac 
-460.23750 	KQL783 	RM	110.9 PL	Newtwn PD 	Newtown Twp Police Local 	FMN 	Law Tac 
-463.60000 	WPHF904 	BM	131.8 PL	NewtnSqFC 41 	Newtown Square Fire Co. Operations 	FMN 	Fire-Tac 
-463.60000 	WPHF904 	RM	77.0 PL	NSFC Relief  	Newtown Square Vol Fire Relief Assn (non emergency communications) 	FMN 	Fire-Talk 
-460.38750 	KQL783 	RM	110.9 PL	Newtwn PW 	Newtown Twp PW 	FMN 	Public Works 
-460.08750 	KGB393 	RM	203.5 PL	Radnor FD 15 	Radnor Fire Co. Repeater 	FM 	Fire-Talk 
-33.90000 	KGB393 	BM	136.5 PL	Radnor FDisp 	Radnor Fire Co. Dispatch 	FM 	Fire Dispatch 
-46.56000 	KYB967 	BM		Radnor PW 	Radnor Twp PW 	FM 	Public Works 
-453.56250 	KYB967 	RM	100.0 PL	Radnor Tac 	Radnor Tac - Police, Fire, Local Govt Coordination 	FMN 	Multi-Tac 
-452.43750 	WQST911 	RM		Ridley Pk PD Pvt 	Ridley Park Police Private 	FMN 	Law Tac 
-506.31250 	WIK302 	RM	88.5 PL	Ridley PD 1 	Ridley Township PD Car-Car (former dispatch) 	FMN 	Law Tac 
-508.96260 	WQFZ519 	M	88.5 PL	Ridley PD 2 	Ridley Township PD Talk Around (rarely used) 	FMN 	Law Talk 
-507.86250 	WIM612 	M	88.5 PL	Ridley Fire 	Ridley Twp. Fire Operations 	FM 	Fire-Talk 
-510.86250 	WIM612 	M	88.5 PL	Ridley Fire 	Ridley Twp. Fire Operations 	FMN 	Fire-Talk 
-500.65000 	WIM612 	RM	88.5 PL	Ridley EMS 	Ridley Twp. EMS Operations 	FMN 	EMS-Tac 
-39.42000 	KRL236 	BM		Ridley PW 	Ridley Twp PW 	FM 	Public Works 
-463.51250 	WQVI679 	RM	132 DPL	Sharon Hill 	Sharon Hill Boro Police Private 	FMN 	Law Tac 
-500.61250 	WIJ786 	RM	364 DPL	Sprngfld PD 	Springfield Twp PD Car-Car (former dispatch) 	FM 	Law Tac 
-500.61250 	WIJ786 	RM	210.7 PL	Spgfld PW 	Springfield PW 	FMN 	Public Works 
-159.39000 	WPMA354 	M	91.5 PL	Trainer PD 	Trainer Boro secondary 	FM 	Law Tac 
-150.99500 	WNNC630 	M	156.7 PL	Upper Chi PD 	Upper Chichester PD TAC / School Security 	FM 	Law Tac 
-154.41500 	KGA346 	B	CSQ	UDFD Disp 	Fire - Dispatch (Simul of 46.480) 	FMN 	Fire Dispatch 
-154.32500 	KGA346 	RM	107.2 PL	UDFD VHF Ops 	Fire - Repeats Fire-10 for pagers 	FMN 	Fire-Tac 
-452.43750 	WQJV590 	RM	131.8 PL	GDHVC20 PRIV 	Garrettford Drexel Hill Volunteer Fire Co. (Sta. 20) 	FMN 	Fire-Talk 
-460.37500 	WNAC230 	RM	57 RAN	UDT PubWrks 	Public Works (TG 1) 	NXDN 	Public Works 
-453.62500 	WNAC230 	RM	71.9 PL	Upr Drby PW 	 Public Works 	FMN 	Public Works 
-501.15000 	WQGC469 	RM	179.9 PL	RoseTree 73 	Rose Tree Fire Co. Tac 	FMN 	Fire-Tac 
-463.21250 	WPRI834 	RM	506 DPL	Yeadon PD 	Yeadon Police Local / Town Watch 	FMN 	Law Talk 
-464.92500 	WPFU597 	RM	151.4 PL	Yeadon FC 16 	Yeadon Fire Co. - Fire Ch. 16 Repeater 	FMN 	Fire-Tac 
-151.65500 	 	BM	074 DPL	CUSD Vans 	CUSD Student Vans  	FM 	Schools 
-461.10000 	 	RM	CC 14TG 2000SL 1	Chester HS 	Chester High School 	DMR 	Schools 
-451.61250 	WNZA980 	RM	244 DPL	HTSD 1 	School Operations - Channel 1 	FMN 	Schools 
-452.31250 	WNZA980 	RM	632 DPL	HTSD 2 	School Operations - Channel 2 	FMN 	Schools 
-451.07500 	WQSB796 	RM	CC 4TG 1SL 1	ISD Buses 	School Buses 	DMR 	Schools 
-159.63000 	WPMW245 	RM	CC 7TG 1SL 1	MNSD Buses 	School Buses 	DMR 	Schools 
-151.83500 	WQEF376 	RM		RidleySchool-1 	Ridley School District Ops-1 	223 DPL	 	FMN 	Schools 
-151.89500 	WQTZ882 	RM	192.8 PL	Ridley Buses 	Transportation 	FMN 	Schools 
-154.54000 	WPTM901 	RM	5 RAN	RTMSD Busses 	Busses Rose Tree Media SD 	NXDN 	Schools 
-173.27500 	WPWD368 	BM	365 DPL	SEDSD Bus 1 	Southeast Delco School District - Buses 	FMN 	Schools 
-173.22500 	WPWD368 	BM		SEDSD Bus 2 	Southeast Delco School District - Buses (Alternate) 	FMN 	Schools 
-152.95250 	WQSX606 	RM	CC 1TG 100SL 1	SSDOps1 	Springfield School District - Ops 1 	DMR 	Schools 
-451.32500 	WPLV260 	RM	466 DPL	Elwyn Maint 	Elwyn Maintenance 	FMN 	Schools 
-452.32500 	WPLV260  	RM	CSQ	Elwyn Ops 2 	Elwyn Operations 2 	FMN 	Schools 
-463.90000 	WPLV260  	RM	CSQ	Elwyn Ops 1 	Elwyn Operations 1 	FMN 	Schools 
-451.28750 	WQKG797 	RM	CC 4TG 100SL 1	TEA Security 	Security 	DMR 	Security 
-451.28750 	WQKG797 	RM	CC 4TG 200SL 2	TEA Maint 	Maintenance 	DMR 	Schools 
-155.28000 	KDN568 	BM	85.4 PL	UDSD Buses 	Upper Darby School District - Transportation 	FMN 	Schools 
-451.57500 	WPPA613 	RM	218.1 PL	UDSD Sec 	Upper Darby School District - Security 	FMN 	Security 
-451.82500 	WQFC315 	RM	754 DPL	WallSwarthSD 	Wallingford Swarthmore School District 	FMN 	Schools 
-160.12500 	WPMS752 	BM	664 DPL	WPenn SD Bus 	William Penn School District - Transportation 	FM 	Schools 
-469.88750 	WPXV261 	M	125 DPL	W Penn SD 	William Penn School District 	FM 	Schools 
-456.41250 	WPXV261 	M	413 DPL	W Penn SD 	William Penn School District 	FMN 	Schools 
-160.20000 	WPXV261 	M	445 DPL	W Penn HS 	William Penn High School 	FM 	Schools 
-464.67500 	WQVG524 	RM	CC 14TG 1SL 1	CabriniPS 	Public Safety 	DMR 	Law Dispatch 
-460.36250 	WQLY420 	RM	CSQ	Cheyney PD 	Police DIspatch 	FMN 	Law Dispatch 
-464.76250 	WQFX859 	RM	CC 1TG 100SL 1	DCCC Security 	Safety  	DMR 	Security 
-461.68750 	KNIB238 	RM	CC 9TG 1SL 1	EU Facilities  	Facilities 	DMR 	Schools 
-463.36250 	KNIB238 	RM	141.3 PL	EU Pub Sfty  	Public Safety 	FMN 	Security 
-451.46250 	WPOZ904 	RM	152 DPL	Hav Colg Maint  	Maintenance 	FMN 	Schools 
-452.83750 	WPOZ904 	RM	251 DPL	Hav Colg Facil  	Facilities and Housekeeping 	FMN 	Schools 
-461.37500 	WNNA626 	RM	546 DPL	Safety 	Campus Safety 	FMN 	Security 
-451.47500 	WPPX498 	RM	306 DPL	Neumann Safety 	Campus Safety 	FMN 	Security 
-462.06250 	WNYM627 	RM	311 DPL	SwarthCol PS 	Public Safety 	FMN 	Law Dispatch 
-463.72500 	WNYM627 	RM	88.5 PL	SwarthCol Maint 	Maintenance & Grounds 	FMN 	Schools 
-463.57500 	WQHA934 	RM	CC 3TG 400SL 1	Nova DPS 1 	Public Safety 1  	DMR 	Law Dispatch 
-463.57500 	WQHA934 	RM	CC 3TG 500SL 2	Nova DPS 2 	Public Safety 2 	DMR 	Law Talk 
-464.92500 	WQHG833 	RM	CC 7TG 7001SL 1	Nova EMS 1 	EMS Dispatch 	DMR 	EMS Dispatch 
-464.92500 	WQHG833 	RM	CC 7TG 7002SL 2	Nova EMS 2 	EMS Ops 	DMR 	EMS-Tac 
-464.42500 	WQYE318 	RM	CC 3TG 100SL 1	Nova Facilities 	Facilities 	DMR 	Schools 
-464.42500 	WQYE318 	RM	CC 3TG 200SL 2	Nova Grounds 	Grounds 	DMR 	Schools 
-464.32500 	WPCH643 	RM	CC 3TG 300SL 1	Nova Custodial 	Custodial 	DMR 	Schools 
-463.95000 	WQHA934 	RM	123.0 PL	Nova 2 Transport 	Villanova University Transportation  	FMN 	Schools 
-464.27500 	WQHT398 	RM	152 DPL	Nova Athletics 	Athletics Department 	FMN 	Schools 
-464.45000 	WQHA934 	RM	123.0 PL	Nova 3  	Villanova 3 	FMN 	Schools 
-463.86250 	WPZS254 	RM	CC 6TG 100SL 1	Widener PD 	Widener University Campus Safety Dept. 	DMR 	Security 
-Baycomm, Inc.	 LTR Standard	 Various	Chester County Emergency Services	 Project 25 Phase II	 Chester County	Commpaths	 NXDN Icom IDAS Type D
- Various	Delaware River Port Authority of PA and NJ	 EDACS Networked Standard	 Various	FleetCall	 NXDN NEXEDGE 4800	 Various	Harrah's Philadelphia Casino and Racetrack
- DMR Motorola Capacity Plus Single Site (TRBO)	 Chester	Interstate Repeater System	 DMR Conventional Networked	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various
-PECO Energy	 Project 25 Phase I	 Philadelphia	Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Southeastern Pennsylvania Transportation Authority (SEPTA)	 Motorola Type II Smartnet
- Various	Sunshine Communications (Center City)	 LTR Standard	 Philadelphia	Sunshine Communications (Roxborough)	 LTR Standard	 Philadelphia	Sunshine Communications (Williamstown)
- LTR Standard	 Williamstown	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various
+46.48000 	   	KDK667 	B		DC Fire Disp 	County Fire Dispatch (Voice) 	FM 	Fire Dispatch 
+154.20500 	   	KDK667 	B		DC Alpha 	County Fire Dispatch (Alpha pagers only) 	FM 	Data 
+508.23750 	   	WIJ815 	RM	203.5 PL	DC Fire Disp 	County Fire Dispatch (Voice) 	FM 	Fire Dispatch 
+506.81250 	509.81250  	WIJ815 	RM	173.8 PL	DC Fire Ch 1 	Ch 1 - Primary (Districts  4, 5, 7); Secondary (District 8) 	FM 	Fire-Tac 
+508.03750 	511.03750  	WIJ815 	RM	192.8 PL	DC Fire Ch 2 	Ch 2 - Secondary (Districts 4, 5, 7) 	FM 	Fire-Tac 
+508.16250 	511.16250  	WIJ815 	RM	146.2 PL	DC Fire Ch 3 	Ch 3 - Primary (District  6) 	FM 	Fire-Tac 
+506.51250 	509.51250  	WIJ815 	RM	107.2 PL	DC Fire Ch 4 	Ch 4 - Primary (District 9, 10 & Sta. 44); Secondary (District 6) 	FM 	Fire-Tac 
+508.13750 	511.13750  	WIJ815 	RM	100.0 PL	DC Fire Ch 5 	Ch 5 - Primary (Districts 1, 11) 	FM 	Fire-Tac 
+507.81250 	510.81250  	WIJ815 	RM	186.2 PL	DC Fire Ch 6 	Ch 6 - Secondary (Districts 1, 6, 11) 	FM 	Fire-Tac 
+508.66250 	511.66250  	WIJ815 	RM	156.7 PL	DC Fire Ch 7 	Ch 7 - Primary (Districts  2, 3, 12) 	FM 	Fire-Tac 
+506.71250 	509.71250  	WIJ815 	RM	103.5 PL	DC Fire Ch 8 	Ch 8 - Secondary (Districts 2, 3, 12) 	FM 	Fire-Tac 
+507.98750 	510.98750  	WIJ815 	RM	100.0 PL	DC Fire Ch 9 	Ch 9 - Secondary (District 9, 10) 	FM 	Fire-Tac 
+506.66250 	509.66250  	WIJ815 	RM	110.9 PL	DC Fire Ch10 	Ch 10 - Primary (District 8 - Upper Darby Twp.) 	FM 	Fire-Tac 
+506.68750 	   	WIJ815 	M	110.9 PL	DC Fire Ch11 	Ch 11 - Fireground (Districts 4, 5, 7, 8, 9) 	FM 	Fire-Tac 
+507.98750 	   	WIJ815 	M	167.9 PL	DC Fire Ch12 	Ch 12 - Fireground (Districts 2, 3, 6, 10) 	FM 	Fire-Tac 
+506.58750 	   	WIJ815 	M	192.8 PL	DC Fire Ch13 	Ch 13 - Fireground 	FM 	Fire-Tac 
+507.98750 	   	WIJ815 	M	173.8 PL	DC Fire Ch14 	Ch 14 - Fireground (Districts 1, 11) 	FM 	Fire-Tac 
+508.33750 	511.33750  	WIJ815 	RM	203.5 PL	DC Fire Ch15 	Ch 15 - Fire-4 Simulcast Repeater (fills coverage gaps for Radnor area) 	FM 	Fire-Tac 
+510.41250 	   	WPPG323 	M	107.2 PL	DC Fire FP 	Fireground Tac (Fire Police Ops) 	FM 	Fire-Tac 
+460.18750 	   	WPKU568 	M	110.9 PL	1/11 FP Ops 	1st and 11th District Fire Police Association Operations 	FMN 	Fire-Talk 
+506.58750 	509.58750  	WIJ815 	RM	156.7 PL	DC MedA East 	Med-A East 	FM 	EMS-Tac 
+506.68750 	509.68750  	WIJ815 	RM	141.3 PL	DC MedB West 	Med-B West 	FM 	EMS-Tac 
+461.51250 	   	WQTL283 	RM	CC 1TG 1700SL 1	DC EMA 	Emergency Management 	DMR 	Emergency Ops 
+461.88750 	466.88750  	WQTL283 	RM	CC 1TG 1500SL 1	DC EMS I/O 	EMS Inter-Op for Mass Casualty Incidents (TS: 1 - TG:1500 ) 	DMR 	EMS-Talk 
+462.30000 	467.30000  	WQTL283 	RM	CC 2TG 1000SL 2	DC EOC/EMS I/O 	 EOC / EMS interop 	DMR 	EMS-Talk 
+506.76250 	509.76250  	WIJ815 	RM	114.8 PL	DC S1 Disp  	Sector 1 Dispatch 	FM 	Law Dispatch 
+508.18750 	511.18750  	WIJ815 	RM	146.2 PL	DC M1 Alt  	Sector 1 Secondary 	FM 	Law Tac 
+511.98750 	   	WPPG323 	M	114.8 PL	DC S1 Alpha 	Sector 1 Car-Car Alpha 	FM 	Law Talk 
+506.83750 	509.83750  	WIJ815 	RM	110.9 PL	DC S2 Disp  	Sector 2 Dispatch 	FM 	Law Dispatch 
+508.06250 	511.06250  	WIJ815 	RM	141.3 PL	DC M2 Alt  	Sector 2 Secondary 	FM 	Law Tac 
+507.81250 	   	WIJ815 	M	136.5 PL	DC S2 Bravo 	Sector 2 Car-Car Bravo 	FM 	Law Talk 
+506.86250 	509.86250  	WIJ815 	RM	114.8 PL	DC S3 Disp  	Sector 3 Dispatch (Chester City PD) 	FM 	Law Dispatch 
+508.33750 	511.33750  	WIJ815 	RM	103.5 PL	DC S3 Tac  	Sector 3 Tactical 	FM 	Law Tac 
+506.71250 	   	WIJ815 	M	151.4 PL	DC S3 Fox 	Sector 3 Car-Car Foxtrot 	FM 	Law Talk 
+508.08750 	511.08750  	WIJ815 	RM	136.5 PL	DC S4 Disp  	Sector 4 Dispatch 	FM 	Law Dispatch 
+506.63750 	509.63750  	WIJ815 	RM	162.2 PL	DC M4 Alt  	Sector 4 Secondary 	FM 	Law Tac 
+510.61250 	   	WPPG323 	M	110.9 PL	DC S4 Charli 	Sector 4 Car-Car Charlie 	FM 	Law Talk 
+508.11250 	511.11250  	WIJ815 	RM	141.3 PL	DC S5 Disp  	Sector 5 Dispatch 	FM 	Law Dispatch 
+506.61250 	509.61250  	WIJ815 	RM	100.0 PL	DC M5 Alt  	Sector 5 Secondary 	FM 	Law Tac 
+510.38750 	   	WPPG323 	M	192.8 PL	DC S5 Delta 	Sector 5 Car-Car Delta 	FM 	Law Talk 
+501.67500 	504.67500  	WPMP243 	RM	167.9 PL	DC S6 Disp  	Sector 6 Dispatch (Upper Darby PD) 	FM 	Law Dispatch 
+501.32500 	504.32500  	WPMP243 	RM	131.8 PL	DC M6 Alt A  	Sector 6 Secondary (Analog) 	FM 	Law Tac 
+501.32500 	504.32500  	WPMP243 	RM	293 NAC	DC M6 Alt D  	Sector 6 Secondary (Digital) 	P25 	Law Tac 
+501.85000 	504.85000  	WPMP243 	RM	192.8 PL	DC S7 Disp  	Sector 7 Dispatch  	FM 	Law Dispatch 
+500.33750 	503.33750  	KYO878 	RM	141.3 PL	DC M7 Alt 	Sector 7 Secondary 	FM 	Law Tac 
+506.56250 	509.36250  	WIJ815 	RM	151.4 PL	DC Pol Data  	Police Data (lookups) 	FM 	Law Talk 
+506.36250 	509.36150  	WIJ815 	RM	127.3 PL	DC Pol CID 	CID Detectives, Coroner 	FM 	Law Tac 
+510.46250 	   	WPPG323 	M	110.9 PL	DC Pol Echo 	CID Car-Car Echo 	FM 	Law Talk 
+453.58750 	458.58750  	WPCV315 	RM	203.5 PL	DC Court Ops 	Sheriff Courthouse Operations 	FM 	Law Talk 
+453.61250 	458.61250  	WPCV315 	RM	223 DPL	DC Court Sec 	Sheriff Courthouse Security 	FM 	Law Talk 
+506.41250 	509.41250  	WIJ815 	RM	131.8 PL	DC Sheriff 	Sheriff, Park Police Dispatch 	FM 	Law Dispatch 
+508.43750 	511.43750  	WIJ815 	RM	151.4 PL	DC Pol Cmd 	Command / Countywide EMA 	FM 	Interop 
+510.38750 	   	WPPG323 	M	173.8 PL	DC Pol Tac 	Police Tactical 	FM 	Law Tac 
+501.22500 	504.22500  	WPMP243 	RM	192.8 PL	Delco Tac  	County Tactical 	FM 	Emergency Ops 
+501.22500 	504.22500  	WPMP243 	RM	293 NAC	Delco Ops D  	County Ops Digital  	P25 	Emergency Ops 
+155.47500 	   	KNNG312 	BM		National PD 	VHF National Police 	FM 	Interop 
+460.03750 	   	KB65124 	M	203.5 PL	DC Prison 1 	SMU, Unit 10 	FM 	Corrections 
+453.88750 	   	WPMK315 	M	203.5 PL	DC Prison 2 	General Operations 	FMN 	Corrections 
+462.10000 	   	WPDU857 	BM	631 DPL	ABVFC-F1 	Aston-Beechwood Volunteer Fire Company - Channel 1 	FMN 	Fire-Tac 
+464.95000 	   	WPDU857 	BM	606 DPL	ABVFC-F2 	Aston-Beechwood Volunteer Fire Company - Channel 2 	FMN 	Fire-Tac 
+451.77500 	456.77500  	WPDU857 	RM		ABVFC-F3 	Aston-Beechwood Volunteer Fire Company - Channel 3 	FMN 	Fire-Tac 
+460.55000 	465.55000  	WQNX980 	RM	114.8 PL	Grn Rdg FC 	Green Ridge Fire Company 	FMN 	Fire-Tac 
+156.24000 	   	WPMM215 	BM	91.5 PL	Aston PD C-C 	Aston Township Police Car-to-Car 	FMN 	Law Talk 
+154.80000 	   	WNJN900 	BM	91.5 PL	Aston DPW 	Aston Township Public Works 	FMN 	Public Works 
+453.67500 	458.67500  	WPHN950 	RM	506 DPL	CHA Police 	Chester Housing Authority Police 	FM 	Law Dispatch 
+507.95000 	510.95000  	 	RM	047 DPL	Ches Twp FD TAC 	Chester Township Fire TAC 	FMN 	Fire-Tac 
+463.77500 	468.77500  	WQVF538 	RM	116 DPL	CFC1 06 Tac 	Collingdale Fire Co #1 Sta 06 Talkaround 	FMN 	Fire-Talk 
+463.77500 	468.77500  	WQVF538 	RM	156 DPL	CFC2 42 Tac 	Collingdale Fire Co #2 Sta 42 Talkaround 	FMN 	Fire-Talk 
+463.77500 	468.77500  	WQVF538 	RM	412 DPL	CPD Tac 	Police Dept. Talkaround 	FMN 	Law Talk 
+508.31250 	511.31250  	WIL830 	RM	127.3 PL	Cncrdvil 59 	Concordville Fire & Protective Assn. Operations 	FM 	Fire-Talk 
+159.18000 	   	WZY461 	BM	146.2 PL	Concord DPW 	Township Public Works 	FMN 	Public Works 
+462.25000 	467.25000  	WQQH805 	RM	245 DPL	Darby FC1 	Darby FC#1 operations (fairs)  	FMN 	Business 
+462.25000 	467.25000  	WQQH805 	RM	516 DPL	Darby PD TA 	Darby Police Talkaround 	FMN 	Law Talk 
+508.48750 	511.48750  	WIL646 	RM	186.2 PL	Eddystone PD 	Eddystone Police Secondary 	FM 	Law Talk 
+506.48750 	509.48750  	 	RM	146.2 PL	Eddystone PD 	Eddystone Police / Fire Interop 	FM 	Law Talk 
+460.62500 	465.62500  	WNYB541 	RM	025 DPL	Sta. 12 Disp 	Eddystone Fire Co. Dispatch/Operations 	FM 	Fire Dispatch 
+453.70000 	458.70000  	WPBZ787 	RM	025 DPL	Sta. 12 Boat 	Eddystone Marine operations 	FM 	Fire-Talk 
+453.70000 	458.70000  	WPBZ787 	RM	043 DPL	Sta.12 Chief 	Eddystone Fire Chiefs 	FM 	Fire-Talk 
+460.53750 	465.53750  	WPCG691 	RM	065 DPL	Sta. 12 Ops1 	Eddystone Fire Ops 1 	FM 	Fire-Talk 
+460.51250 	465.51250  	WPDJ899 	RM	225.7 PL	Sta. 12 Ops2 	Eddystone Fire Ops 2 	FM 	Fire-Talk 
+500.72500 	503.72500  	WPMB686 	RM		Edgmont 64 	Edgmont Fire Co. Repeater 	FM 	Fire-Talk 
+453.27500 	458.27500  	KQL751 	RM	103.5 PL	Hvrfrd PD 1 	Police - Local 	FMN 	Law Tac 
+453.47500 	458.47500  	KQL750 	RM	103.5 PL	Hvrfrd PD/PW 	Police/Public Works Ops 	FMN 	Law Tac 
+501.02500 	504.02500  	WPMM357 	RM	103.5 PL	Hvrfd FD Ops 	Fire - Operations 	FMN 	Fire-Tac 
+46.22000 	   	KB86329 	BM		Hvrfd FD 4XB 	Fire - Repeats UHF Fire 4 for pagers 	FM 	Fire-Tac 
+464.93750 	469.93750  	WQHP402 	RM	115 DPL	Lansdwn TAC 	Lansdowne PD TAC 	FMN 	Law Tac 
+464.93750 	469.93750  	WQHP402 	RM	244 DPL	Lansdwn FD   	Lansdowne FD TAC 	FMN 	Fire-Tac 
+151.04000 	   	WPMK721 	BM	91.5 PL	Mrcs Hk PW 	Marcus Hook Public Works (also PD tac 	FMN 	Public Works 
+501.12500 	504.12500  	WQCP842 	RM		Mrcs Hk PD 	Marcus Hook PD private (APCO25 / Encrypted) 	P25E 	Law Tac 
+453.22500 	458.22500  	KRP852 	RM	74.4 PL	Marple PD 	Marple Twp Police Car-Car (old dispatch channel) 	FMN 	Law Tac 
+508.63750 	511.63750  	WPJH998 	RM	127.3 PL	Media PD Rpt 	Media Boro PD Repeater (old dispatch channel) 	FMN 	Law Tac 
+502.13750 	505.13750  	WPUA891 	RM	146.2 PL	Media PD Fox 	Media Boro PD "Foxtrot" 	FMN 	Law Tac 
+462.97500 	468.97500  	WNYV251 	RM	114.8 PL	Media23 Fire 	Media Fire Co. Operations 	FMN 	Fire-Talk 
+453.82500 	458.82500  	KVF546 	RM	79.7 PL	Midltwn PW 	Middletown TWP. Public Works 	FM 	Public Works 
+460.57500 	465.57500  	WNQZ797 	RM	114 DPL	Rocky Run 46 	Rocky Run FC. Operations  (NXDN Capable) 	FMN 	Fire-Talk 
+502.05000 	505.05000  	WQTQ876 	RM	103.5 PL	S Media FC 	South Media Fire Company Repeater/Simplex 	FMN 	Fire-Tac 
+460.23750 	465.23750  	KQL783 	RM	110.9 PL	Newtwn PD 	Newtown Twp Police Local 	FMN 	Law Tac 
+463.60000 	468.60000  	WPHF904 	BM	131.8 PL	NewtnSqFC 41 	Newtown Square Fire Co. Operations 	FMN 	Fire-Tac 
+463.60000 	468.60000  	WPHF904 	RM	77.0 PL	NSFC Relief  	Newtown Square Vol Fire Relief Assn (non emergency communications) 	FMN 	Fire-Talk 
+460.38750 	465.38750  	KQL783 	RM	110.9 PL	Newtwn PW 	Newtown Twp PW 	FMN 	Public Works 
+460.08750 	465.08750  	KGB393 	RM	203.5 PL	Radnor FD 15 	Radnor Fire Co. Repeater 	FM 	Fire-Talk 
+33.90000 	   	KGB393 	BM	136.5 PL	Radnor FDisp 	Radnor Fire Co. Dispatch 	FM 	Fire Dispatch 
+46.56000 	   	KYB967 	BM		Radnor PW 	Radnor Twp PW 	FM 	Public Works 
+453.56250 	458.56250  	KYB967 	RM	100.0 PL	Radnor Tac 	Radnor Tac - Police, Fire, Local Govt Coordination 	FMN 	Multi-Tac 
+452.43750 	457.43750  	WQST911 	RM		Ridley Pk PD Pvt 	Ridley Park Police Private 	FMN 	Law Tac 
+506.31250 	509.31250  	WIK302 	RM	88.5 PL	Ridley PD 1 	Ridley Township PD Car-Car (former dispatch) 	FMN 	Law Tac 
+508.96260 	505.96250  	WQFZ519 	M	88.5 PL	Ridley PD 2 	Ridley Township PD Talk Around (rarely used) 	FMN 	Law Talk 
+507.86250 	   	WIM612 	M	88.5 PL	Ridley Fire 	Ridley Twp. Fire Operations 	FM 	Fire-Talk 
+510.86250 	   	WIM612 	M	88.5 PL	Ridley Fire 	Ridley Twp. Fire Operations 	FMN 	Fire-Talk 
+500.65000 	503.65000  	WIM612 	RM	88.5 PL	Ridley EMS 	Ridley Twp. EMS Operations 	FMN 	EMS-Tac 
+39.42000 	   	KRL236 	BM		Ridley PW 	Ridley Twp PW 	FM 	Public Works 
+463.51250 	468.51250  	WQVI679 	RM	132 DPL	Sharon Hill 	Sharon Hill Boro Police Private 	FMN 	Law Tac 
+500.61250 	503.61250  	WIJ786 	RM	364 DPL	Sprngfld PD 	Springfield Twp PD Car-Car (former dispatch) 	FM 	Law Tac 
+500.61250 	503.61250  	WIJ786 	RM	210.7 PL	Spgfld PW 	Springfield PW 	FMN 	Public Works 
+159.39000 	   	WPMA354 	M	91.5 PL	Trainer PD 	Trainer Boro secondary 	FM 	Law Tac 
+150.99500 	   	WNNC630 	M	156.7 PL	Upper Chi PD 	Upper Chichester PD TAC / School Security 	FM 	Law Tac 
+154.41500 	156.06000  	KGA346 	B	CSQ	UDFD Disp 	Fire - Dispatch (Simul of 46.480) 	FMN 	Fire Dispatch 
+154.32500 	158.89500  	KGA346 	RM	107.2 PL	UDFD VHF Ops 	Fire - Repeats Fire-10 for pagers 	FMN 	Fire-Tac 
+452.43750 	457.43720  	WQJV590 	RM	131.8 PL	GDHVC20 PRIV 	Garrettford Drexel Hill Volunteer Fire Co. (Sta. 20) 	FMN 	Fire-Talk 
+460.37500 	465.37500  	WNAC230 	RM	57 RAN	UDT PubWrks 	Public Works (TG 1) 	NXDN 	Public Works 
+453.62500 	458.62500  	WNAC230 	RM	71.9 PL	Upr Drby PW 	 Public Works 	FMN 	Public Works 
+501.15000 	504.15000  	WQGC469 	RM	179.9 PL	RoseTree 73 	Rose Tree Fire Co. Tac 	FMN 	Fire-Tac 
+463.21250 	468.21250  	WPRI834 	RM	506 DPL	Yeadon PD 	Yeadon Police Local / Town Watch 	FMN 	Law Talk 
+464.92500 	469.92500  	WPFU597 	RM	151.4 PL	Yeadon FC 16 	Yeadon Fire Co. - Fire Ch. 16 Repeater 	FMN 	Fire-Tac 
+151.65500 	   	 	BM	074 DPL	CUSD Vans 	CUSD Student Vans  	FM 	Schools 
+461.10000 	466.10000  	 	RM	CC 14TG 2000SL 1	Chester HS 	Chester High School 	DMR 	Schools 
+451.61250 	456.61250  	WNZA980 	RM	244 DPL	HTSD 1 	School Operations - Channel 1 	FMN 	Schools 
+452.31250 	457.31250  	WNZA980 	RM	632 DPL	HTSD 2 	School Operations - Channel 2 	FMN 	Schools 
+451.07500 	456.07500  	WQSB796 	RM	CC 4TG 1SL 1	ISD Buses 	School Buses 	DMR 	Schools 
+159.63000 	154.48250  	WPMW245 	RM	CC 7TG 1SL 1	MNSD Buses 	School Buses 	DMR 	Schools 
+151.83500 	   	WQEF376 	RM		RidleySchool-1 	Ridley School District Ops-1 	223 DPL	 	FMN 	Schools 
+151.89500 	   	WQTZ882 	RM	192.8 PL	Ridley Buses 	Transportation 	FMN 	Schools 
+154.54000 	   	WPTM901 	RM	5 RAN	RTMSD Busses 	Busses Rose Tree Media SD 	NXDN 	Schools 
+173.27500 	   	WPWD368 	BM	365 DPL	SEDSD Bus 1 	Southeast Delco School District - Buses 	FMN 	Schools 
+173.22500 	   	WPWD368 	BM		SEDSD Bus 2 	Southeast Delco School District - Buses (Alternate) 	FMN 	Schools 
+152.95250 	159.78750  	WQSX606 	RM	CC 1TG 100SL 1	SSDOps1 	Springfield School District - Ops 1 	DMR 	Schools 
+451.32500 	456.32500  	WPLV260 	RM	466 DPL	Elwyn Maint 	Elwyn Maintenance 	FMN 	Schools 
+452.32500 	457.32500  	WPLV260  	RM	CSQ	Elwyn Ops 2 	Elwyn Operations 2 	FMN 	Schools 
+463.90000 	468.90000  	WPLV260  	RM	CSQ	Elwyn Ops 1 	Elwyn Operations 1 	FMN 	Schools 
+451.28750 	456.28750  	WQKG797 	RM	CC 4TG 100SL 1	TEA Security 	Security 	DMR 	Security 
+451.28750 	456.28750  	WQKG797 	RM	CC 4TG 200SL 2	TEA Maint 	Maintenance 	DMR 	Schools 
+155.28000 	   	KDN568 	BM	85.4 PL	UDSD Buses 	Upper Darby School District - Transportation 	FMN 	Schools 
+451.57500 	456.57500  	WPPA613 	RM	218.1 PL	UDSD Sec 	Upper Darby School District - Security 	FMN 	Security 
+451.82500 	456.82500  	WQFC315 	RM	754 DPL	WallSwarthSD 	Wallingford Swarthmore School District 	FMN 	Schools 
+160.12500 	154.51500  	WPMS752 	BM	664 DPL	WPenn SD Bus 	William Penn School District - Transportation 	FM 	Schools 
+469.88750 	   	WPXV261 	M	125 DPL	W Penn SD 	William Penn School District 	FM 	Schools 
+456.41250 	   	WPXV261 	M	413 DPL	W Penn SD 	William Penn School District 	FMN 	Schools 
+160.20000 	   	WPXV261 	M	445 DPL	W Penn HS 	William Penn High School 	FM 	Schools 
+464.67500 	469.67500  	WQVG524 	RM	CC 14TG 1SL 1	CabriniPS 	Public Safety 	DMR 	Law Dispatch 
+460.36250 	465.36250  	WQLY420 	RM	CSQ	Cheyney PD 	Police DIspatch 	FMN 	Law Dispatch 
+464.76250 	469.76250  	WQFX859 	RM	CC 1TG 100SL 1	DCCC Security 	Safety  	DMR 	Security 
+461.68750 	466.68750  	KNIB238 	RM	CC 9TG 1SL 1	EU Facilities  	Facilities 	DMR 	Schools 
+463.36250 	468.36250  	KNIB238 	RM	141.3 PL	EU Pub Sfty  	Public Safety 	FMN 	Security 
+451.46250 	456.46250  	WPOZ904 	RM	152 DPL	Hav Colg Maint  	Maintenance 	FMN 	Schools 
+452.83750 	457.83750  	WPOZ904 	RM	251 DPL	Hav Colg Facil  	Facilities and Housekeeping 	FMN 	Schools 
+461.37500 	465.37500  	WNNA626 	RM	546 DPL	Safety 	Campus Safety 	FMN 	Security 
+451.47500 	456.47500  	WPPX498 	RM	306 DPL	Neumann Safety 	Campus Safety 	FMN 	Security 
+462.06250 	467.06250  	WNYM627 	RM	311 DPL	SwarthCol PS 	Public Safety 	FMN 	Law Dispatch 
+463.72500 	468.72500  	WNYM627 	RM	88.5 PL	SwarthCol Maint 	Maintenance & Grounds 	FMN 	Schools 
+463.57500 	468.57500  	WQHA934 	RM	CC 3TG 400SL 1	Nova DPS 1 	Public Safety 1  	DMR 	Law Dispatch 
+463.57500 	468.57500  	WQHA934 	RM	CC 3TG 500SL 2	Nova DPS 2 	Public Safety 2 	DMR 	Law Talk 
+464.92500 	469.92500  	WQHG833 	RM	CC 7TG 7001SL 1	Nova EMS 1 	EMS Dispatch 	DMR 	EMS Dispatch 
+464.92500 	469.92500  	WQHG833 	RM	CC 7TG 7002SL 2	Nova EMS 2 	EMS Ops 	DMR 	EMS-Tac 
+464.42500 	469.42500  	WQYE318 	RM	CC 3TG 100SL 1	Nova Facilities 	Facilities 	DMR 	Schools 
+464.42500 	469.42500  	WQYE318 	RM	CC 3TG 200SL 2	Nova Grounds 	Grounds 	DMR 	Schools 
+464.32500 	469.32500  	WPCH643 	RM	CC 3TG 300SL 1	Nova Custodial 	Custodial 	DMR 	Schools 
+463.95000 	468.95000  	WQHA934 	RM	123.0 PL	Nova 2 Transport 	Villanova University Transportation  	FMN 	Schools 
+464.27500 	469.27500  	WQHT398 	RM	152 DPL	Nova Athletics 	Athletics Department 	FMN 	Schools 
+464.45000 	469.45000  	WQHA934 	RM	123.0 PL	Nova 3  	Villanova 3 	FMN 	Schools 
+463.86250 	468.86250  	WPZS254 	RM	CC 6TG 100SL 1	Widener PD 	Widener University Campus Safety Dept. 	DMR 	Security 
+Baycomm, Inc.	 LTR Standard	 Various	Chester County Emergency Services	 Project 25 Phase II	 Chester County	Commpaths	 NXDN Icom IDAS Type D	 Various
+Delaware River Port Authority of PA and NJ	 EDACS Networked Standard	 Various	FleetCall	 NXDN NEXEDGE 4800	 Various	Harrah's Philadelphia Casino and Racetrack	 DMR Motorola Capacity Plus Single Site (TRBO)	 Chester
+Interstate Repeater System	 DMR Conventional Networked	 Various	Mid-Atlantic Digital Radio Network	 DMR Motorola Connect Plus (TRBO)	 Various	PECO Energy	 Project 25 Phase I	 Philadelphia
+Pennsylvania Statewide Radio Network (PA-STARNet)	 OpenSky 9600 baud	 Statewide	Southeastern Pennsylvania Transportation Authority (SEPTA)	 Motorola Type II Smartnet	 Various	Sunshine Communications (Center City)	 LTR Standard	 Philadelphia
+Sunshine Communications (Williamstown)	 LTR Standard	 Williamstown	TeamConnect	 DMR Motorola Connect Plus (TRBO)	 Various	TRBOCOM	 DMR Motorola Connect Plus (TRBO)	 Various

@@ -1,28 +1,27 @@
-460.17500 	WQCB980 	RM	29A NAC|TG 1	MCSO DISPATCH 	Sheriff Dispatch 	P25 	Law Dispatch 
-453.06250 	KNIM275 	M		MCSO TAC 1 	Sheriff Scene/Tactical 	FMN 	Law Tac 
-453.63750 	KNIM275 	M		MCSO TAC 2 	Sheriff Scene/Tactical 	FMN 	Law Tac 
-154.14500 	WQCB980 	RM	100.0 PL	MCFIRE DISP 	County Fire Dispatch 	FMN 	Fire Dispatch 
-155.32500 	WPQB600 	BM		MCEMS DISPATCH 	County EMS 	FMN 	EMS Dispatch 
-158.83500 	KNDN549 	RM		MCEMA 	Emergency Management 	FMN 	Emergency Ops 
-155.67000 	WQHI523 	RM		MCHwys 	Highway Department 	FMN 	Public Works 
-153.14000 	WQSV645 	RM	CC 2TG 101SL 2	WTHC BLS SELM 	West Tennessee Health Care (BLS Dispatch Selmer Site) 	DMRE 	EMS Dispatch 
-153.14000 	WQSV645 	RM	CC 2TG 102SL 2	WTHC ALS SELM 	West Tennessee Health Care (ALS Dispatch Selmer Site) 	DMRE 	EMS Dispatch 
-153.29000 	WQZW221 	RM	CC 2TG 102SL 2	WTHC BLS PEBB 	West Tennessee Health Care (BLS Dispatch Pebble Hill) 	DMRE 	EMS Dispatch 
-153.29000 	WQZW221 	RM	CC 2TG 101SL 1	WTHC ALS PEBB 	West Tennessee Health Care (ALS Dispatch Pebble Hill) 	DMRE 	EMS Dispatch 
-160.06500 	WPMT978 	BM	136.5 PL	MCBED Bus 	County Board of Education School Bus Operations 	FMN 	Schools 
-453.00000 	WPMT978 	F	136.5 PL	MCBED Bus Link 	County Board of Education Schools Repeater Link 	FMN 	Schools 
-458.00000 	WPMT978 	F	136.5 PL	MCBED Bus Link 	County Board of Education Schools Repeater Link 	FMN 	Schools 
-156.15750 	WNWW816 	RM		ADAMSVILLE PD 	Police Department 	DMR 	Law Dispatch 
-460.12500 	WNWW816 	RM		ADAMSVILLE PD 	Police Department 	DMR 	Law Dispatch 
-154.02500 	KNJV665 	BM		MICHIE FIRE 	Fire Department 	FMN 	Fire Dispatch 
-460.05000 	WQFJ533 	RM	074 NAC|TG 1	SELMER PD DISP 	Police Dispatch 	P25 	Law Dispatch 
-154.08500 	WPUT755 	BM	114 NAC	SELMER FD DISP 	Fire Dispatch 	P25 	Fire Dispatch 
-155.82750 	WPUT755 	RM	1 RAN	SELMER FD NXDN 	Fire Dispatch 	NXDN 	Fire Dispatch 
-155.82750 	WPUT755 	RM	114 NAC	SELMER FD TAC1 	Fire Tactical 1 	P25 	Fire-Tac 
-155.82750 	WPUT755 	RM	69.3 PL	SELMER FD TAC2 	Fire Tactical 2 	FMN 	Fire-Tac 
-451.07500 	WPWL466 	RM		SELMER DPW 	Public Works 	FMN 	Public Works 
-155.74500 	KFI484 	BM		SELMER UTILITY 	Utilities 	FMN 	Utilities 
-152.45000 	WPNZ310 	RM	CC 1TG 16776300SL 1	PEC 152.45 	Pickwick Electric Cooperative 	DMR 	Utilities 
-153.47000 	WPNZ310 	BM		PEC 153.47 	Pickwick Electric Cooperative 	DMR 	Utilities 
-Phillips 66 Spectrum Corporation Selmer	 DMR Motorola Capacity Plus Single Site (TRBO)	 Selmer	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked
- Various	
+460.17500 	465.17500  	WQCB980 	RM	29A NAC|TG 1	MCSO DISPATCH 	Sheriff Dispatch 	P25 	Law Dispatch 
+453.06250 	458.06250  	KNIM275 	M		MCSO TAC 1 	Sheriff Scene/Tactical 	FMN 	Law Tac 
+453.63750 	458.63750  	KNIM275 	M		MCSO TAC 2 	Sheriff Scene/Tactical 	FMN 	Law Tac 
+154.14500 	153.77000  	WQCB980 	RM	100.0 PL	MCFIRE DISP 	County Fire Dispatch 	FMN 	Fire Dispatch 
+155.32500 	   	WPQB600 	BM		MCEMS DISPATCH 	County EMS 	FMN 	EMS Dispatch 
+158.83500 	   	KNDN549 	RM		MCEMA 	Emergency Management 	FMN 	Emergency Ops 
+155.67000 	151.49750  	WQHI523 	RM		MCHwys 	Highway Department 	FMN 	Public Works 
+153.14000 	159.62250  	WQSV645 	RM	CC 2TG 101SL 2	WTHC BLS SELM 	West Tennessee Health Care (BLS Dispatch Selmer Site) 	DMRE 	EMS Dispatch 
+153.14000 	159.62250  	WQSV645 	RM	CC 2TG 102SL 2	WTHC ALS SELM 	West Tennessee Health Care (ALS Dispatch Selmer Site) 	DMRE 	EMS Dispatch 
+153.29000 	159.90750  	WQZW221 	RM	CC 2TG 102SL 2	WTHC BLS PEBB 	West Tennessee Health Care (BLS Dispatch Pebble Hill) 	DMRE 	EMS Dispatch 
+153.29000 	159.90750  	WQZW221 	RM	CC 2TG 101SL 1	WTHC ALS PEBB 	West Tennessee Health Care (ALS Dispatch Pebble Hill) 	DMRE 	EMS Dispatch 
+160.06500 	   	WPMT978 	BM	136.5 PL	MCBED Bus 	County Board of Education School Bus Operations 	FMN 	Schools 
+453.00000 	   	WPMT978 	F	136.5 PL	MCBED Bus Link 	County Board of Education Schools Repeater Link 	FMN 	Schools 
+458.00000 	   	WPMT978 	F	136.5 PL	MCBED Bus Link 	County Board of Education Schools Repeater Link 	FMN 	Schools 
+156.15750 	   	WNWW816 	RM		ADAMSVILLE PD 	Police Department 	DMR 	Law Dispatch 
+460.12500 	465.12500  	WNWW816 	RM		ADAMSVILLE PD 	Police Department 	DMR 	Law Dispatch 
+154.02500 	   	KNJV665 	BM		MICHIE FIRE 	Fire Department 	FMN 	Fire Dispatch 
+460.05000 	465.05000  	WQFJ533 	RM	074 NAC|TG 1	SELMER PD DISP 	Police Dispatch 	P25 	Law Dispatch 
+154.08500 	   	WPUT755 	BM	114 NAC	SELMER FD DISP 	Fire Dispatch 	P25 	Fire Dispatch 
+155.82750 	158.88750  	WPUT755 	RM	1 RAN	SELMER FD NXDN 	Fire Dispatch 	NXDN 	Fire Dispatch 
+155.82750 	158.88750  	WPUT755 	RM	114 NAC	SELMER FD TAC1 	Fire Tactical 1 	P25 	Fire-Tac 
+155.82750 	158.88750  	WPUT755 	RM	69.3 PL	SELMER FD TAC2 	Fire Tactical 2 	FMN 	Fire-Tac 
+451.07500 	456.07500  	WPWL466 	RM		SELMER DPW 	Public Works 	FMN 	Public Works 
+155.74500 	   	KFI484 	BM		SELMER UTILITY 	Utilities 	FMN 	Utilities 
+152.45000 	157.71000  	WPNZ310 	RM	CC 1TG 16776300SL 1	PEC 152.45 	Pickwick Electric Cooperative 	DMR 	Utilities 
+153.47000 	   	WPNZ310 	BM		PEC 153.47 	Pickwick Electric Cooperative 	DMR 	Utilities 
+Phillips 66 Spectrum Corporation Selmer	 DMR Motorola Capacity Plus Single Site (TRBO)	 Selmer	Tennessee Advanced Communications Network (TACN)	 Project 25 Phase II	 Various	Tennessee BrandMeister Network	 DMR Conventional Networked	 Various

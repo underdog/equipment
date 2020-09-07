@@ -1,26 +1,25 @@
-39.96000 	KXK426 	BM		Beaver SO LB 	Sheriff - Alternate Dispatch 	FM 	Law Dispatch 
-155.65500 	KLV875 	RM		Beaver SO IP 	Sheriff - Island Park 	FMN 	Law Dispatch 
-156.21000 	KNEQ796 	RM		Beaver SO RM 	Sheriff - Red Mountain 	FMN 	Law Dispatch 
-154.04000 	WPWL708 	RM		Beaver SO 	Sheriff - 	FMN 	Law Talk 
-154.80000 	WPWL708 	RM		Beaver SO 	Sheriff - 	FMN 	Law Talk 
-155.07000 	WPWL708 	RM		Beaver SO 	Sheriff - 	FMN 	Law Talk 
-39.88000 	KLR274 	BM		Beaver SO LB 	Sheriff - 	FM 	Law Talk 
-39.94000 	KLR274 	BM		Beaver SO LB 	Sheriff - 	FM 	Law Dispatch 
-151.11500 	WPWL708 	RM		Beaver SO 	Sheriff - 	FMN 	Law Talk 
-151.31000 	WPWL708 	RM		Beaver SO 	Sheriff - 	FMN 	Law Talk 
-151.32500 	KLV872 	RM		Beaver SO 	Sheriff - Future Use 	FMN 	Law Talk 
-154.87500 	KLV872 	RM		Beaver SO 	Sheriff - Future Use 	FMN 	Law Talk 
-154.87500 	WQAH719 	BM		Beaver SO Tc 	Sheriff - Tactical 	FMN 	Law Tac 
-453.25000 	KLV872 	BM		Beaver SO Ja 	Sheriff - Corrections 	FMN 	Law Talk 
-154.14500 	WPWL708 	RM		BeaverCo Fire 	Fire - ? 	FMN 	Fire-Talk 
-154.25000 	KLV872 	RM		BeaverCo Fire 	Fire - Future Use 	FMN 	Fire-Talk 
-153.98000 	KLV875 	RM		BeaverCo EMA 	Emergency Management (P25) 	P25 	Emergency Ops 
-155.80500 	KLV872 	RM		BeaverCo EMA 	Emergency Management (FMN) 	FMN 	Emergency Ops 
-153.14000 	WPRK227 	RM		BeaverCo SAR 	Search & Rescue 	FMN 	Emergency Ops 
-156.24000 	WPKL751 	RM		BeaverCo DPW 	Road Department 	FMN 	Public Works 
-155.29500 	WNLQ553 	BM		BeaverCo SchXprt 	School Transportation 	FMN 	Schools 
-152.94500 	WQCQ278 	RM		Dillon Fire 	Fire - Administrative 	FMN 	Fire-Talk 
-154.10000 	KGR316 	BM		Dillon PD/FD/DPW 	DPW/Fire/Police Common 	FMN 	Multi-Talk 
-154.74000 	WQDF400 	RM		UM Police 1 	University of Montana Police 1 	FMN 	Law Dispatch 
-155.19000 	WQDF400 	BM		UM Police 2 	University of Montana Police 2 	FMN 	Law Talk 
-Montana Public Safety Communications System	 Project 25 Phase I	 Statewide	
+39.96000 	39.56000  	KXK426 	BM		Beaver SO LB 	Sheriff - Alternate Dispatch 	FM 	Law Dispatch 
+155.65500 	   	KLV875 	RM		Beaver SO IP 	Sheriff - Island Park 	FMN 	Law Dispatch 
+156.21000 	154.71000  	KNEQ796 	RM		Beaver SO RM 	Sheriff - Red Mountain 	FMN 	Law Dispatch 
+154.04000 	156.15000  	WPWL708 	RM		Beaver SO 	Sheriff - 	FMN 	Law Talk 
+154.80000 	158.94000  	WPWL708 	RM		Beaver SO 	Sheriff - 	FMN 	Law Talk 
+155.07000 	159.03000  	WPWL708 	RM		Beaver SO 	Sheriff - 	FMN 	Law Talk 
+39.88000 	   	KLR274 	BM		Beaver SO LB 	Sheriff - 	FM 	Law Talk 
+39.94000 	   	KLR274 	BM		Beaver SO LB 	Sheriff - 	FM 	Law Dispatch 
+151.11500 	   	WPWL708 	RM		Beaver SO 	Sheriff - 	FMN 	Law Talk 
+151.31000 	   	WPWL708 	RM		Beaver SO 	Sheriff - 	FMN 	Law Talk 
+151.32500 	   	KLV872 	RM		Beaver SO 	Sheriff - Future Use 	FMN 	Law Talk 
+154.87500 	   	KLV872 	RM		Beaver SO 	Sheriff - Future Use 	FMN 	Law Talk 
+154.87500 	   	WQAH719 	BM		Beaver SO Tc 	Sheriff - Tactical 	FMN 	Law Tac 
+453.25000 	   	KLV872 	BM		Beaver SO Ja 	Sheriff - Corrections 	FMN 	Law Talk 
+154.14500 	   	WPWL708 	RM		BeaverCo Fire 	Fire - ? 	FMN 	Fire-Talk 
+154.25000 	   	KLV872 	RM		BeaverCo Fire 	Fire - Future Use 	FMN 	Fire-Talk 
+153.98000 	   	KLV875 	RM		BeaverCo EMA 	Emergency Management (P25) 	P25 	Emergency Ops 
+155.80500 	155.10000  	KLV872 	RM		BeaverCo EMA 	Emergency Management (FMN) 	FMN 	Emergency Ops 
+153.14000 	159.81000  	WPRK227 	RM		BeaverCo SAR 	Search & Rescue 	FMN 	Emergency Ops 
+156.24000 	159.06000  	WPKL751 	RM		BeaverCo DPW 	Road Department 	FMN 	Public Works 
+155.29500 	   	WNLQ553 	BM		BeaverCo SchXprt 	School Transportation 	FMN 	Schools 
+152.94500 	159.51000  	WQCQ278 	RM		Dillon Fire 	Fire - Administrative 	FMN 	Fire-Talk 
+154.10000 	   	KGR316 	BM		Dillon PD/FD/DPW 	DPW/Fire/Police Common 	FMN 	Multi-Talk 
+154.74000 	159.16500  	WQDF400 	RM		UM Police 1 	University of Montana Police 1 	FMN 	Law Dispatch 
+155.19000 	   	WQDF400 	BM		UM Police 2 	University of Montana Police 2 	FMN 	Law Talk 

@@ -1,33 +1,32 @@
-460.45000 	WPME650 	RM	132 DPL	MARION SO A 	Sheriff - Dispatch 	FMN 	Law Dispatch 
-153.87500 	WNFT529 	RM		MC OEM TA 	Emergency Management Talkaround 	FMN 	Emergency Ops 
-155.02500 	WQUM343 	RM	156 DPL	MCFD-C PAGE 	Fire & Rescue - Paging (Central) 	FMN 	Fire Dispatch 
-154.25000 	 	BM	205 DPL	MARION EMS 	EMS - Dispatch [FCC License Expired] 	FMN 	EMS Dispatch 
-155.02500 	WQUM343 	RM	162 DPL	MCFD-E PAGE 	Fire & Rescue -Paging (East) 	FMN 	Fire Dispatch 
-155.00250 	WQUM343 	RM	293 NAC	MCFD-OPS C 	Fire & Rescue - Operations (Central) 	P25 	Fire Dispatch 
-158.84250 	WQUM343 	RM	293 NAC	MCFD-OPS E 	Fire & Rescue - Operations (East) 	P25 	Fire Dispatch 
-159.12750 	WQUM343 	RM	293 NAC	MCFD-OPS W 	Fire & Rescue - Operations (West) 	P25 	Fire Dispatch 
-151.12250 	WRB586 	RM	25 RAN	BRMC-EMS OPS 	Baxter Regional Medical Center EMS - Operations 	NXDN 	EMS Dispatch 
-155.32500 	WRB586 	RM		BRMC-EMS MAIN 	Baxter Regional Medical Center EMS - Main 	NXDN 	EMS Dispatch 
-154.29500 	WPLX490 	BM		LAKEWAY VFD 	Lakeway VFD Dispatch 	FMN 	Fire Dispatch 
-155.68500 	WPMA445 	RM	131 DPL	PEEL VFD 	Peel VFD Dispatch 	FMN 	Fire Dispatch 
-154.37000 	WPMA445 	BM		PEEL VFD 2 	Peel VFD Tactical 	FMN 	Fire-Tac 
-154.43000 	WPKF416 	BM		REA VLY FIRE 	Rea Valley Volunteer Fire - Dispatch *License Expired* 	FMN 	Fire Dispatch 
-153.87500 	WNFT529 	RM		MARION RDS 	Highway Dept. 	FMN 	Public Works 
-154.25000 	WNWC878 	BM		BULL SHLS FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-154.26500 	WNWC878 	M		BULL SHLS FG 	Fire - Fireground 	FMN 	Fire-Tac 
-154.25000 	WPGS704 	BM		FLIPPIN FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
-155.84250 	WQAX319 	RM	156.7 PL	FLIPPIN FD2 	Fire - Tactical 	FMN 	Fire-Tac 
-453.61250 	WQBR268 	RM		FLIPPIN PD 	Police - Dispatch 	FMN 	Law Dispatch 
-453.83750 	WQBR268 	M		FLIPPIN PD2 	Police - Tactical 	FMN 	Law Tac 
-37.10000 	KNCR735 	BM		FLIPPIN DPW 	DPW 	FM 	Public Works 
-153.48500 	WQIV483 	RM	251 DPL	Pyatt FD F-4 	Fire - Tactical Repeater 	FMN 	Fire-Tac 
-155.76000 	WQHJ520 	BM	156.7 PL	Pyatt FD F-3 	Pyatt FD F-3 Talkaround and DPW 	FMN 	Fire-Talk 
-154.40000 	WPRG545 	BM	141.3 PL	SUMMIT FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
-154.17500 	WPRG545 	RM	151.4 PL	SUMMT FD TAC 	Fire - Tactical 	FMN 	Fire-Tac 
-155.96250 	WQBS723 	RM	100.0 PL	YELLVILLE FD 	Fire - Tactical 	FMN 	Fire-Tac 
-155.82000 	WPKM945 	RM	132 DPL	YELLVILLE PS 	Public Safety 	FMN 	Multi-Tac 
-155.94000 	WPKU550 	BM		YELLVLLE DPW 	DPW 	FMN 	Public Works 
-147.24000 	 	RM	107.2 PL	Skywarn 	Skywarn 	FM 	Ham 
-170.10000 	 	RM	4F9 NAC	NAT PARK RNG 	Park Rangers  	P25e 	Federal 
-Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II
- Various	
+460.45000 	465.45000  	WPME650 	RM	132 DPL	MARION SO A 	Sheriff - Dispatch 	FMN 	Law Dispatch 
+153.87500 	158.76000  	WNFT529 	RM		MC OEM TA 	Emergency Management Talkaround 	FMN 	Emergency Ops 
+155.02500 	   	WQUM343 	RM	156 DPL	MCFD-C PAGE 	Fire & Rescue - Paging (Central) 	FMN 	Fire Dispatch 
+154.25000 	   	 	BM	205 DPL	MARION EMS 	EMS - Dispatch [FCC License Expired] 	FMN 	EMS Dispatch 
+155.02500 	   	WQUM343 	RM	162 DPL	MCFD-E PAGE 	Fire & Rescue -Paging (East) 	FMN 	Fire Dispatch 
+155.00250 	   	WQUM343 	RM	293 NAC	MCFD-OPS C 	Fire & Rescue - Operations (Central) 	P25 	Fire Dispatch 
+158.84250 	   	WQUM343 	RM	293 NAC	MCFD-OPS E 	Fire & Rescue - Operations (East) 	P25 	Fire Dispatch 
+159.12750 	   	WQUM343 	RM	293 NAC	MCFD-OPS W 	Fire & Rescue - Operations (West) 	P25 	Fire Dispatch 
+151.12250 	   	WRB586 	RM	25 RAN	BRMC-EMS OPS 	Baxter Regional Medical Center EMS - Operations 	NXDN 	EMS Dispatch 
+155.32500 	   	WRB586 	RM		BRMC-EMS MAIN 	Baxter Regional Medical Center EMS - Main 	NXDN 	EMS Dispatch 
+154.29500 	   	WPLX490 	BM		LAKEWAY VFD 	Lakeway VFD Dispatch 	FMN 	Fire Dispatch 
+155.68500 	159.00750  	WPMA445 	RM	131 DPL	PEEL VFD 	Peel VFD Dispatch 	FMN 	Fire Dispatch 
+154.37000 	   	WPMA445 	BM		PEEL VFD 2 	Peel VFD Tactical 	FMN 	Fire-Tac 
+154.43000 	   	WPKF416 	BM		REA VLY FIRE 	Rea Valley Volunteer Fire - Dispatch *License Expired* 	FMN 	Fire Dispatch 
+153.87500 	158.76000  	WNFT529 	RM		MARION RDS 	Highway Dept. 	FMN 	Public Works 
+154.25000 	   	WNWC878 	BM		BULL SHLS FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.26500 	   	WNWC878 	M		BULL SHLS FG 	Fire - Fireground 	FMN 	Fire-Tac 
+154.25000 	   	WPGS704 	BM		FLIPPIN FD 	Fire - Dispatch 	FMN 	Fire Dispatch 
+155.84250 	153.80750  	WQAX319 	RM	156.7 PL	FLIPPIN FD2 	Fire - Tactical 	FMN 	Fire-Tac 
+453.61250 	458.61250  	WQBR268 	RM		FLIPPIN PD 	Police - Dispatch 	FMN 	Law Dispatch 
+453.83750 	   	WQBR268 	M		FLIPPIN PD2 	Police - Tactical 	FMN 	Law Tac 
+37.10000 	   	KNCR735 	BM		FLIPPIN DPW 	DPW 	FM 	Public Works 
+153.48500 	159.63000  	WQIV483 	RM	251 DPL	Pyatt FD F-4 	Fire - Tactical Repeater 	FMN 	Fire-Tac 
+155.76000 	   	WQHJ520 	BM	156.7 PL	Pyatt FD F-3 	Pyatt FD F-3 Talkaround and DPW 	FMN 	Fire-Talk 
+154.40000 	   	WPRG545 	BM	141.3 PL	SUMMIT FIRE 	Fire - Dispatch 	FMN 	Fire Dispatch 
+154.17500 	151.32500  	WPRG545 	RM	151.4 PL	SUMMT FD TAC 	Fire - Tactical 	FMN 	Fire-Tac 
+155.96250 	153.74750  	WQBS723 	RM	100.0 PL	YELLVILLE FD 	Fire - Tactical 	FMN 	Fire-Tac 
+155.82000 	153.98000  	WPKM945 	RM	132 DPL	YELLVILLE PS 	Public Safety 	FMN 	Multi-Tac 
+155.94000 	   	WPKU550 	BM		YELLVLLE DPW 	DPW 	FMN 	Public Works 
+147.24000 	147.84000  	 	RM	107.2 PL	Skywarn 	Skywarn 	FM 	Ham 
+170.10000 	   	 	RM	4F9 NAC	NAT PARK RNG 	Park Rangers  	P25e 	Federal 
+Arkansas Brandmeister DMR	 DMR Conventional Networked	 Varioius	Arkansas Wireless Information Network (AWIN)	 Project 25 Phase II	 Statewide	Entergy 	 Project 25 Phase II	 Various

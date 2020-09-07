@@ -1,25 +1,24 @@
-856.83750 	WNNS500 	RM	114 DPL	LeavenworthCoSO1 	Sheriff 1 -- Dispatch 	FM 	Law Dispatch 
-857.83750 	WNNS500 	RM	156 DPL	LeavenworthCoSO2 	Sheriff 2 -- Tactical 	FM 	Law Tac 
-858.36250 	WNNS500 	RM	624 DPL	LeavenworthCoSO3 	Sheriff 3 -- Small Town Police Dispatch 	FM 	Law Dispatch 
-855.48750 	KNNR258 	RM	047 DPL	LeavenwrthCoJail 	Sheriff -- Portable Repeater (also used at the  County Jail) 	FM 	Law Tac 
-458.66250 	KD42533 	M	103.5 PL	LeavenworthCoCC 	Sheriff -- Community Corrections 	FMN 	Corrections 
-154.38500 	KIA796 	RM	172 DPL	LeavenworthCoFD1 	Fire and EMS 1 -- Dispatch 	FMN 	Fire Dispatch 
-153.95000 	KIA796 	M	172 DPL	LeavenworthCoFD2 	Fire and EMS 2 -- Tactical 1 	FMN 	Fire-Tac 
-154.31000 	KIA796 	M	172 DPL	LeavenworthCoFD3 	Fire and EMS 3 -- Tactical 2 	FMN 	Fire-Tac 
-154.28000 	KB80918 	M	CSQ	LeavenworthCo FD 	County Fire -- Mutual Aid 	FMN 	Fire-Tac 
-155.82000 	KNBY309 	RM	114 DPL	Leavnworth Co EM 	Emergency Management 	FMN 	EMS Dispatch 
-154.13000 	KNIS980 	RM	151.4 PL	MERS Radio 	MERS (Metropolitan Emergency Radio Service) --- Link with National Weather Service 	FMN 	Emergency Ops 
-150.99500 	KDV670 	RM	146.2 PL	LeavenworthCoRds 	Highway Maintenance 	FMN 	Public Works 
-159.01500 	WNUQ373 	M	146.2 PL	LeavenworthCoRds 	Highway Maintenance -- Hand-Helds used on construction sites 	FMN 	Public Works 
-453.35000 	KAB272 	RM	754 DPL	Leavenworth PD 1 	Police 1 (Dispatch before KSICS) 	FMN 	Law Dispatch 
-453.20000 	KAB272 	RM	731 DPL	Leavenworth PD 2 	Police 2 (Secondary before KSICS) 	FMN 	Law Tac 
-460.25000 	WNZN422 	RM	503 DPL	Leavenworth Fire 	Fire (Dispatch before KSICSS) 	FMN 	Fire Dispatch 
-853.13750 	WPRT665 	RM	156.7 PL	Tonganoxie PD 13 	Police (Ch 13) 	FM 	Law Tac 
-851.18750 	WPRT665 	RM	156.7 PL	Tonganoxie PD 14 	Police (Ch 14) 	FM 	Law Tac 
-155.31000 	KUQ764 	RM		Lansnig Prison 1 	Prison 1 --Central Unit Main 	FMN 	Corrections 
-155.13000 	KUQ764 	BM		Lansnig Prison 4 	Prison 4 -- Maintenance 	FMN 	Corrections 
-156.15000 	KUQ764 	BM		Lansnig Prison 5 	Prison 5 -- Tactical 	FMN 	Corrections 
-155.53500 	KNIR735 	RM		Lansnig Prison 6 	Prison 6 -- East Unit Main 	FMN 	Corrections 
-Kansas Statewide Interoperable Communication System (KSICS)	 Project 25 Phase I	 Statewide	Midwest Mobile Radio Service - Kansas	 LTR Passport	 Hiawatha	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)
- Various	US Army Fort Leavenworth	 Project 25 Phase I	 Leavenworth	US Penitentiary Leavenworth	 Motorola Type II Smartnet	 Leavenworth	Westar Energy (KS/MO)
- Motorola Type II SmartZone	 Various	
+856.83750 	811.83750  	WNNS500 	RM	114 DPL	LeavenworthCoSO1 	Sheriff 1 -- Dispatch 	FM 	Law Dispatch 
+857.83750 	812.83750  	WNNS500 	RM	156 DPL	LeavenworthCoSO2 	Sheriff 2 -- Tactical 	FM 	Law Tac 
+858.36250 	813.36250  	WNNS500 	RM	624 DPL	LeavenworthCoSO3 	Sheriff 3 -- Small Town Police Dispatch 	FM 	Law Dispatch 
+855.48750 	810.48750  	KNNR258 	RM	047 DPL	LeavenwrthCoJail 	Sheriff -- Portable Repeater (also used at the  County Jail) 	FM 	Law Tac 
+458.66250 	   	KD42533 	M	103.5 PL	LeavenworthCoCC 	Sheriff -- Community Corrections 	FMN 	Corrections 
+154.38500 	150.80500  	KIA796 	RM	172 DPL	LeavenworthCoFD1 	Fire and EMS 1 -- Dispatch 	FMN 	Fire Dispatch 
+153.95000 	   	KIA796 	M	172 DPL	LeavenworthCoFD2 	Fire and EMS 2 -- Tactical 1 	FMN 	Fire-Tac 
+154.31000 	   	KIA796 	M	172 DPL	LeavenworthCoFD3 	Fire and EMS 3 -- Tactical 2 	FMN 	Fire-Tac 
+154.28000 	   	KB80918 	M	CSQ	LeavenworthCo FD 	County Fire -- Mutual Aid 	FMN 	Fire-Tac 
+155.82000 	153.78500  	KNBY309 	RM	114 DPL	Leavnworth Co EM 	Emergency Management 	FMN 	EMS Dispatch 
+154.13000 	153.90500  	KNIS980 	RM	151.4 PL	MERS Radio 	MERS (Metropolitan Emergency Radio Service) --- Link with National Weather Service 	FMN 	Emergency Ops 
+150.99500 	159.16500  	KDV670 	RM	146.2 PL	LeavenworthCoRds 	Highway Maintenance 	FMN 	Public Works 
+159.01500 	   	WNUQ373 	M	146.2 PL	LeavenworthCoRds 	Highway Maintenance -- Hand-Helds used on construction sites 	FMN 	Public Works 
+453.35000 	458.35000  	KAB272 	RM	754 DPL	Leavenworth PD 1 	Police 1 (Dispatch before KSICS) 	FMN 	Law Dispatch 
+453.20000 	458.20000  	KAB272 	RM	731 DPL	Leavenworth PD 2 	Police 2 (Secondary before KSICS) 	FMN 	Law Tac 
+460.25000 	465.25000  	WNZN422 	RM	503 DPL	Leavenworth Fire 	Fire (Dispatch before KSICSS) 	FMN 	Fire Dispatch 
+853.13750 	808.13750  	WPRT665 	RM	156.7 PL	Tonganoxie PD 13 	Police (Ch 13) 	FM 	Law Tac 
+851.18750 	806.18750  	WPRT665 	RM	156.7 PL	Tonganoxie PD 14 	Police (Ch 14) 	FM 	Law Tac 
+155.31000 	156.15000  	KUQ764 	RM		Lansnig Prison 1 	Prison 1 --Central Unit Main 	FMN 	Corrections 
+155.13000 	   	KUQ764 	BM		Lansnig Prison 4 	Prison 4 -- Maintenance 	FMN 	Corrections 
+156.15000 	   	KUQ764 	BM		Lansnig Prison 5 	Prison 5 -- Tactical 	FMN 	Corrections 
+155.53500 	159.09750  	KNIR735 	RM		Lansnig Prison 6 	Prison 6 -- East Unit Main 	FMN 	Corrections 
+Midwest Mobile Radio Service - Kansas	 LTR Passport	 Hiawatha	MotoNet CP+ (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various	US Army Fort Leavenworth	 Project 25 Phase I	 Leavenworth
+US Penitentiary Leavenworth	 Motorola Type II Smartnet	 Leavenworth	Westar Energy (KS/MO)	 Motorola Type II SmartZone	 Various	

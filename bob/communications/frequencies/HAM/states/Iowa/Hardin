@@ -1,17 +1,16 @@
-159.15000 	WQAQ571 	RM	293 NAC	HardinSherif 	Sheriff Dispatch 	P25e 	Law Dispatch 
-151.23500 	WQAF206 	RM		HardinE-SqP 	Sheriff E-Squad 	FMN 	Emergency Ops 
-155.04000 	WQNA612 	RM	244 DPL	HardinCoJail 	Jail 	FMN 	Corrections 
-154.86750 	WQAP953 	B	192.8 PL	HC Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.35500 	WQAP953 	RM	203.5 PL	Hardin Fire 	Fire Operations 	FMN 	Fire-Tac 
-155.74500 	KRB612 	BM	127.3 PL	Eldora Amb 	County Mutual Aid 	FMN 	Multi-Tac 
-151.05500 	KFT619 	RM	179.9 PL	Hardin Roads 	Road Department 	FMN 	Public Works 
-155.77500 	WPQI662 	BM	226 DPL	HardinCoLand 	Landfill Operations 	FMN 	Public Works 
-155.10000 	WPBE847 	BM	155 DPL	Ackley PD 	Police - Simulcast of 159.150 MHz 	FM 	Law Dispatch 
-159.44250 	KAB456 	RM	293 NAC	IowaFalls PD 	Police Dispatch 	P25 	Law Dispatch 
-154.72500 	KAB456 	BM	CSQ	IowaFalls PD 	Police (mobiles transmit 127.3 PL) 	FM 	Law Dispatch 
-155.16000 	KTS666 	M	127.3 PL	AMR Amb 	AMR Ambulance  	FM 	EMS Dispatch 
-156.18750 	KLS402 	BM		IowaFalls PW 	Public Works 	FMN 	Public Works 
-453.47500 	KLS402 	RM	103.5 PL	IowaFalls PW 	Public Works 	FM 	Public Works 
-158.76000 	WNNI351 	RM	127.3 PL	Union PW 	Public Works 	FM 	Public Works 
-Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	Iowa DMR Users Group	 DMR Conventional Networked
- Various	RACOM Network	 EDACS Networked Standard	 Various	
+159.15000 	153.75500  	WQAQ571 	RM	293 NAC	HardinSherif 	Sheriff Dispatch 	P25e 	Law Dispatch 
+151.23500 	159.25500  	WQAF206 	RM		HardinE-SqP 	Sheriff E-Squad 	FMN 	Emergency Ops 
+155.04000 	158.87250  	WQNA612 	RM	244 DPL	HardinCoJail 	Jail 	FMN 	Corrections 
+154.86750 	   	WQAP953 	B	192.8 PL	HC Fire Disp 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.35500 	156.23250  	WQAP953 	RM	203.5 PL	Hardin Fire 	Fire Operations 	FMN 	Fire-Tac 
+155.74500 	   	KRB612 	BM	127.3 PL	Eldora Amb 	County Mutual Aid 	FMN 	Multi-Tac 
+151.05500 	159.00000  	KFT619 	RM	179.9 PL	Hardin Roads 	Road Department 	FMN 	Public Works 
+155.77500 	   	WPQI662 	BM	226 DPL	HardinCoLand 	Landfill Operations 	FMN 	Public Works 
+155.10000 	   	WPBE847 	BM	155 DPL	Ackley PD 	Police - Simulcast of 159.150 MHz 	FM 	Law Dispatch 
+159.44250 	151.44500  	KAB456 	RM	293 NAC	IowaFalls PD 	Police Dispatch 	P25 	Law Dispatch 
+154.72500 	   	KAB456 	BM	CSQ	IowaFalls PD 	Police (mobiles transmit 127.3 PL) 	FM 	Law Dispatch 
+155.16000 	   	KTS666 	M	127.3 PL	AMR Amb 	AMR Ambulance  	FM 	EMS Dispatch 
+156.18750 	   	KLS402 	BM		IowaFalls PW 	Public Works 	FMN 	Public Works 
+453.47500 	458.47500  	KLS402 	RM	103.5 PL	IowaFalls PW 	Public Works 	FM 	Public Works 
+158.76000 	153.78500  	WNNI351 	RM	127.3 PL	Union PW 	Public Works 	FM 	Public Works 
+Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	RACOM Network	 EDACS Networked Standard	 Various

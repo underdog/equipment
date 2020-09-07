@@ -1,29 +1,15 @@
-156.15000 	KTH571 	RM	117 NAC	SullCO SO 	Sheriff (mixed analog and digital) 	P25 	Law Dispatch 
-155.22000 	WNZU341 	BM	136.5 PL	LeFavre AMB 	LeFevre Ambulance - EMS Dispatch 	FMN 	EMS Dispatch 
-154.43000 	KCF415 	BM	136.5 PL	SWMA 	Fire/EMS Dispatch 	FMN 	Fire Dispatch 
-154.38500 	KIU830 	BM	136.5 PL	SWMA Tac 1 	Fire Tactical 1 	FMN 	Fire-Tac 
-153.83000 	WPGM828 	M	136.5 PL	SWMA Tac 3 	Fire Tactical 3 	FMN 	Fire-Tac 
-154.01000 	KCF415 	M	136.5 PL	SWMA Tac 4 	Fire Tactical 4 	FMN 	Fire-Tac 
-154.29500 	KCF415 	M	179.9 PL	SWMA Tac 5 	Fire Tactical 5 	FMN 	Fire-Tac 
-159.45000 	WQCV921 	BM	136.5 PL	SWMA Tac 6 	Fire Tactical 6 	FMN 	Fire-Tac 
-155.22000 	KTG523 	BM	77.0 PL	SWMA Tac-7 	Fire Tactical 7 	FMN 	Fire-Tac 
-155.71500 	WQKF752 	M	179.9 PL	SWMA EMS Tac 	SWMA EMS Tac 	FMN 	EMS-Tac 
-33.78000 	WPQJ815 	RM	77.0 PL	SWMA Low 	Fire Low Band 	FM 	Fire-Talk 
-453.01250 	KCF415 	F	173.8 PL	SWMA 453.012 	Fire/EMS Dispatch - linked to 154.43 MHz 	FMN 	Fire Dispatch 
-453.17500 	KCF415 	F	179.9 PL	SWMA 453.175 	Fire/EMS Dispatch - linked to 154.43 MHz 	FMN 	Fire Dispatch 
-453.23750 	KCF415 	F	123.0 PL	SWMA 453.237 	Fire/EMS Dispatch - linked to 154.43 MHz 	FMN 	Fire Dispatch 
-462.27500 	KFC415 	F	85.4 PL	SWMA 462.275 	Fire/EMS Dispatch - linked to 154.43 MHz 	FMN 	Fire Dispatch 
-465.63750 	KCF415 	B	179.9 PL	SWMA UHF 1 	Fire Dispatch (repeats 154.43 MHz) 	FMN 	Fire Dispatch 
-453.37500 	 	RM	136.5 PL	ACWORTH PW 	Highway Department 	FMN 	Public Works 
-154.71000 	KSZ476 	BM	136.5 PL	Chrlstwn PD 	Police 	FMN 	Law Dispatch 
-154.20500 	KKG500 	RM	136.5 PL	Claremont FD 	Claremont Fire Dispatch 	FMN 	Fire Dispatch 
-154.84500 	KCA391 	RM	517 NAC	Claremont PD 1 	Police Ch. 1 	P25 	Law Dispatch 
-152.28500 	WQBK387 	RM		GCA DISP 	Golden Cross Ambulance - EMS Dispatch 	FMN 	EMS Dispatch 
-151.10000 	WPCN647 	BM	245 DPL	Claremont DPW 	Highway Department 	FMN 	Public Works 
-159.01500 	KB53496 	BM		Lempster DPW 	Highway Department 	FMN 	Public Works 
-154.07000 	WRW363 	RM	136.5 PL	NEWPORT FIRE 	Fire Dispatch 	FMN 	Fire Dispatch 
-151.31000 	WQDE438 	RM		NEWPORT EMS 	Newport EMS -Dispatch/Ops 	FMN 	EMS Dispatch 
-155.55000 	KCE717 	BM	146.2 PL	NEWPORT PD 	Police 	FMN 	Law Dispatch 
-154.44500 	WXB861 	RM	136.5 PL	SUNAPEE FD 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.31000 	WZS934 	BM	136.5 PL	WASH FIRE 	Fire Dispatch 	FMN 	Fire Dispatch 
+156.15000 	159.09000  	KTH571 	RM	117 NAC	SullCO SO 	Sheriff 	P25 	Law Dispatch 
+155.22000 	   	WNZU341 	BM	136.5 PL	LeFavre AMB 	LeFevre Ambulance - EMS Dispatch 	FMN 	EMS Dispatch 
+453.37500 	   	 	RM	136.5 PL	Acworth DPW 	Public Works 	FMN 	Public Works 
+154.71000 	   	KSZ476 	BM	136.5 PL	Chrlstwn PD 	Police Operations 	FMN 	Law Dispatch 
+156.18000 	153.78500  	WQWA966 	RM	074 DPL	Charlestown FD 	Fire Operations 	FMN 	Fire Dispatch 
+154.84500 	   	KCA391 	RM	517 NAC	Claremont PD 1 	Police Operations 	P25 	Law Dispatch 
+154.20500 	150.79000  	KKG500 	RM	136.5 PL	Claremont FD 	Fire Operations 	FMN 	Fire Dispatch 
+152.28500 	157.54500  	WQBK387 	RM		GCA DISP 	Golden Cross Ambulance - EMS Dispatch 	FMN 	EMS Dispatch 
+151.10000 	   	WPCN647 	BM	245 DPL	Claremont DPW 	Public Works 	FMN 	Public Works 
+159.01500 	   	KB53496 	BM		Lempster DPW 	Public Works 	FMN 	Public Works 
+155.55000 	   	KCE717 	BM	146.2 PL	Newport PD 	Police Operations 	FMN 	Law Dispatch 
+154.07000 	151.36250  	WRW363 	RM	136.5 PL	Newport FIRE 	Fire Operations 	FMN 	Fire Dispatch 
+151.31000 	159.24000  	WQDE438 	RM		Newport EMS 	EMS Operations 	FMN 	EMS Dispatch 
+154.44500 	150.77500  	WXB861 	RM	136.5 PL	Sunpaee FD 	Fire Operations 	FMN 	Fire Dispatch 
 New Hampshire Department of Natural and Cultural Resources	 DMR Tier 3	 Varies	

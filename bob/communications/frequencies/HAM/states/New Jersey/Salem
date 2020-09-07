@@ -1,45 +1,44 @@
-501.76250 	WIM276 	RM	146.2 PL	SCnty PD E 	Salem County Police - East Zone 	FMN 	Law Dispatch 
-501.16250 	WIM276 	RM	146.2 PL	SCnty PD W 	Salem County Police - West Zone 	FMN 	Law Dispatch 
-501.73750 	WIM276 	RM	146.2 PL	SCnty PD 2 	Salem County Police - Secondary 	FMN 	Law Tac 
-501.03750 	WIM276 	RM	146.2 PL	SC FD/EMS 	County Fire and EMS Dispatch 	FMN 	Fire Dispatch 
-501.21250 	WIM276 	RM	146.2 PL	SC FD 1A 	County Fire District 1 Response / Operations 	FMN 	Fire-Tac 
-453.42500 	WQSH604 	RM	146.2 PL	SC FD 1B 	County Fire District 1 On-Scene Operations 	FMN 	Fire-Tac 
-501.23750 	WIM276 	RM	146.2 PL	SC FD 2A 	County Fire District 2 Response / Operations 	FMN 	Fire-Tac 
-453.53750 	WQSH604 	RM	146.2 PL	SC FD 2B 	County Fire District 2 On-Scene Operations 	FMN 	Fire-Tac 
-501.26250 	WIM276 	RM	146.2 PL	SC FD 3A 	County Fire District 3 Response / Operations 	FMN 	Fire-Tac 
-453.62500 	WQSH604 	RM	146.2 PL	SC FD 3B 	County Fire District 3 On-Scene Operations 	FMN 	Fire-Tac 
-501.28750 	WIM276 	RM	146.2 PL	SC EMS 1 	County EMS Operations 1 	FMN 	EMS-Tac 
-453.83750 	WQSH604 	RM	146.2 PL	SC EMS 2 	County EMS Operations 2 	FMN 	EMS-Tac 
-501.41250 	WIM276 	RM	146.2 PL	Salem Hosp 	EMS to Hospital Notifications (Salem Hospital) 	FMN 	EMS-Tac 
-508.58750 	WII365 	RM	167.9 PL	Elmer Hosp 	EMS to Hospital Notifications (Elmer Hospital) 	FMN 	EMS-Tac 
-501.36250 	WIM276 	RM	146.2 PL	SC FP/DPW 	County Fire Police Operations / Department of Public Works 	FMN 	Multi-Tac 
-501.56250 	WIM276 	RM	146.2 PL	SC OEM 	Office of Emergency Management (O.E.M.) 	FMN 	Emergency Ops 
-154.43000 	KEE873 	BM		SC Fire 	Fire Dispatch-Paging (VHF Plan) 	FMN 	Fire Dispatch 
-155.29500 	WRU898 	BM		SC EMS 	EMS Dispatch-Paging (VHF Plan) 	FMN 	EMS Dispatch 
-155.34000 	WRU898 	BM		SC HEARN 	EMS to Hospital Notifications (VHF Plan) 	FMN 	EMS-Tac 
-154.26500 	KEE873 	BM		SJ Network 	South Jersey Network (VHF Plan) 	FMN 	Interop 
-453.73750 	KB64839 	RM	186.2 PL	LACT Police B/U 	Lower Alloways Creek Township - Police - Back Up 	FMN 	Law Tac 
-460.28750 	WRBQ753 	RM	136.5 PL	Pensvl Police 	Pennsville Police  	FMN 	Law Dispatch 
-453.66250 	WRBQ753 	RM	CC 6TG 1SL 1	PMHS Admin 1 	Pennsville Memorial High School - Admin 1 	DMR 	Schools 
-453.56250 	WQJH210 	RM	146.2 PL	SCity PD 	Salem City Police - Primary 	FMN 	Law Dispatch 
-453.07500 	WQSH604 	RM	146.2 PL	SCity PD S1 	Salem City Police - Secondary 1 	FMN 	Law Tac 
-453.18750 	WQSH604 	RM	146.2 PL	SCity PD S2 	Salem City Police - Secondary 2 	FMN 	Law Tac 
-155.43000 	WQJH210 	BM	186.2 PL	SCity PD VHF 	Salem City Police - Police (VHF Backup) 	FMN 	Law Tac 
-452.01250 	WPYM924 	RM	445 DPL	IMC Ch1 	Channel 1 - Security 	FMN 	Hospital 
-451.78750 	WPYM924 	RM	244 DPL	IMC Ch2 	Channel 2 - Maintenance 	FMN 	Hospital 
-451.88750 	WPYM924 	RM	503 DPL	IMC Ch3 	Channel 3 - EM Prep 	FMN 	Hospital 
-452.01250 	WPYM924 	M	445 DPL	IMC Ch4 	Channel 4 - Security Tactical 	FMN 	Hospital 
-462.12500 	 	M	69.3 PL	Jet Ch 1 	Process Managers   	FMN 	Business 
-462.22500 	 	M	CSQ	Jet Ch 2 	Security F-2 	FMN 	Security 
-462.32500 	 	M	CSQ	Jet Ch 3 	Outbound Leads 	FMN 	Business 
-462.52500 	 	M	114.8 PL	Jet Ch 4 	Inbound Leads 	FMN 	Business 
-462.72500 	 	M	136.5 PL	Jet Ch 5 	Safety Department 	FMN 	Business 
-462.92500 	 	M	025 DPL	Jet Ch 6 	Maintenance 	FMN 	Business 
-463.02500 	 	M	032 DPL	Jet Ch 7 	Dock Managers 	FMN 	Business 
-463.12500 	 	M	125 DPL	Jet Ch 8 	Training Department 	FMN 	Business 
-463.52500 	 	M	023 DPL	Jet Ch 9 	Inbound Dock 	FMN 	Business 
-469.94500 	 	M	203.5 PL	Jet Ch 10 	L.P.N. 	FMN 	Business 
-469.95000 	 	M	203.5 PL	Jet Ch 11 	Security Tac F-1 	FMN 	Security 
-Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone	 Various	New Jersey Interoperability Communications System (NJICS)	 Project 25 Phase II	 Statewide	New Jersey State Police	 Motorola Type II SmartZone Omnilink
- Statewide	New Jersey Transit	 TETRA Standard	 Statewide	New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide	Public Service Enterprise Group Nuclear
- Motorola Type IIi Hybrid	 Salem	
+501.76250 	504.76250  	WIM276 	RM	146.2 PL	SCnty PD E 	Salem County Police - East Zone 	FMN 	Law Dispatch 
+501.16250 	504.16250  	WIM276 	RM	146.2 PL	SCnty PD W 	Salem County Police - West Zone 	FMN 	Law Dispatch 
+501.73750 	504.73750  	WIM276 	RM	146.2 PL	SCnty PD 2 	Salem County Police - Secondary 	FMN 	Law Tac 
+501.03750 	504.03750  	WIM276 	RM	146.2 PL	SC FD/EMS 	County Fire and EMS Dispatch 	FMN 	Fire Dispatch 
+501.21250 	504.21250  	WIM276 	RM	146.2 PL	SC FD 1A 	County Fire District 1 Response / Operations 	FMN 	Fire-Tac 
+453.42500 	458.42500  	WQSH604 	RM	146.2 PL	SC FD 1B 	County Fire District 1 On-Scene Operations 	FMN 	Fire-Tac 
+501.23750 	504.23750  	WIM276 	RM	146.2 PL	SC FD 2A 	County Fire District 2 Response / Operations 	FMN 	Fire-Tac 
+453.53750 	458.53750  	WQSH604 	RM	146.2 PL	SC FD 2B 	County Fire District 2 On-Scene Operations 	FMN 	Fire-Tac 
+501.26250 	504.26250  	WIM276 	RM	146.2 PL	SC FD 3A 	County Fire District 3 Response / Operations 	FMN 	Fire-Tac 
+453.62500 	458.62500  	WQSH604 	RM	146.2 PL	SC FD 3B 	County Fire District 3 On-Scene Operations 	FMN 	Fire-Tac 
+501.28750 	504.28750  	WIM276 	RM	146.2 PL	SC EMS 1 	County EMS Operations 1 	FMN 	EMS-Tac 
+453.83750 	458.83750  	WQSH604 	RM	146.2 PL	SC EMS 2 	County EMS Operations 2 	FMN 	EMS-Tac 
+501.41250 	504.41250  	WIM276 	RM	146.2 PL	Salem Hosp 	EMS to Hospital Notifications (Salem Hospital) 	FMN 	EMS-Tac 
+508.58750 	505.58750  	WII365 	RM	167.9 PL	Elmer Hosp 	EMS to Hospital Notifications (Elmer Hospital) 	FMN 	EMS-Tac 
+501.36250 	504.36250  	WIM276 	RM	146.2 PL	SC FP/DPW 	County Fire Police Operations / Department of Public Works 	FMN 	Multi-Tac 
+501.56250 	504.56250  	WIM276 	RM	146.2 PL	SC OEM 	Office of Emergency Management (O.E.M.) 	FMN 	Emergency Ops 
+154.43000 	   	KEE873 	BM		SC Fire 	Fire Dispatch-Paging (VHF Plan) 	FMN 	Fire Dispatch 
+155.29500 	   	WRU898 	BM		SC EMS 	EMS Dispatch-Paging (VHF Plan) 	FMN 	EMS Dispatch 
+155.34000 	   	WRU898 	BM		SC HEARN 	EMS to Hospital Notifications (VHF Plan) 	FMN 	EMS-Tac 
+154.26500 	   	KEE873 	BM		SJ Network 	South Jersey Network (VHF Plan) 	FMN 	Interop 
+453.73750 	458.73750  	KB64839 	RM	186.2 PL	LACT Police B/U 	Lower Alloways Creek Township - Police - Back Up 	FMN 	Law Tac 
+460.28750 	465.28750  	WRBQ753 	RM	136.5 PL	Pensvl Police 	Pennsville Police  	FMN 	Law Dispatch 
+453.66250 	458.66250  	WRBQ753 	RM	CC 6TG 1SL 1	PMHS Admin 1 	Pennsville Memorial High School - Admin 1 	DMR 	Schools 
+453.56250 	458.56250  	WQJH210 	RM	146.2 PL	SCity PD 	Salem City Police - Primary 	FMN 	Law Dispatch 
+453.07500 	458.07500  	WQSH604 	RM	146.2 PL	SCity PD S1 	Salem City Police - Secondary 1 	FMN 	Law Tac 
+453.18750 	458.18750  	WQSH604 	RM	146.2 PL	SCity PD S2 	Salem City Police - Secondary 2 	FMN 	Law Tac 
+155.43000 	   	WQJH210 	BM	186.2 PL	SCity PD VHF 	Salem City Police - Police (VHF Backup) 	FMN 	Law Tac 
+452.01250 	457.01250  	WPYM924 	RM	445 DPL	IMC Ch1 	Channel 1 - Security 	FMN 	Hospital 
+451.78750 	456.78750  	WPYM924 	RM	244 DPL	IMC Ch2 	Channel 2 - Maintenance 	FMN 	Hospital 
+451.88750 	456.88750  	WPYM924 	RM	503 DPL	IMC Ch3 	Channel 3 - EM Prep 	FMN 	Hospital 
+452.01250 	   	WPYM924 	M	445 DPL	IMC Ch4 	Channel 4 - Security Tactical 	FMN 	Hospital 
+462.12500 	   	 	M	69.3 PL	Jet Ch 1 	Process Managers   	FMN 	Business 
+462.22500 	   	 	M	CSQ	Jet Ch 2 	Security F-2 	FMN 	Security 
+462.32500 	   	 	M	CSQ	Jet Ch 3 	Outbound Leads 	FMN 	Business 
+462.52500 	   	 	M	114.8 PL	Jet Ch 4 	Inbound Leads 	FMN 	Business 
+462.72500 	   	 	M	136.5 PL	Jet Ch 5 	Safety Department 	FMN 	Business 
+462.92500 	   	 	M	025 DPL	Jet Ch 6 	Maintenance 	FMN 	Business 
+463.02500 	   	 	M	032 DPL	Jet Ch 7 	Dock Managers 	FMN 	Business 
+463.12500 	   	 	M	125 DPL	Jet Ch 8 	Training Department 	FMN 	Business 
+463.52500 	   	 	M	023 DPL	Jet Ch 9 	Inbound Dock 	FMN 	Business 
+469.94500 	   	 	M	203.5 PL	Jet Ch 10 	L.P.N. 	FMN 	Business 
+469.95000 	   	 	M	203.5 PL	Jet Ch 11 	Security Tac F-1 	FMN 	Security 
+Delmarva Power / Atlantic City Electric	 Motorola Type II SmartZone	 Various	New Jersey Transit	 TETRA Standard	 Statewide	New Jersey Turnpike Authority	 Project 25 Phase II	 Statewide
+Public Service Enterprise Group Nuclear	 Motorola Type IIi Hybrid	 Salem	

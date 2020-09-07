@@ -1,13 +1,13 @@
-154.37000 	KZW933 	B		Fire Paging 	Fire Paging Data 	Telm 	Fire Dispatch 
-853.48750 	WNQJ860 	M	023 DPL	PW T/A 7 	School Bus/Public Works Talk-Around 	FM 	Multi-Talk 
-854.48750 	WNQJ860 	M	023 DPL	FD TA 16 	Fire Talk Around 	FM 	Fire-Talk 
-855.68750 	WZS605 	M	023 DPL	SBPW TA 	Schools/Public Works TA 	FM 	Multi-Talk 
-856.03750 	WNQJ860 	M	023 DPL	PD TA 16 	Police talkaround 	FM 	Law Talk 
-154.29500 	KH8015 	M	141.3 PL	SNDBR LFGD 	Stand to Stand Communications  	FM 	EMS-Talk 
-155.29500 	WNVI657 	BM	CSQ	VBLS 1 	Main 	FM 	Other 
-155.23500 	WNVI657 	M	CSQ	VBLS 2 	Secondary 	FM 	Other 
-460.57500 	WQPU446 	RM	107.2 PL	TCC FacMnt 	Facilities Maintenance 	FMN 	Schools 
-452.43750 	WQUF903 	RM	CC 1TG 2SL 2	SPA MAINT 	Sentara Princess Anne Hospital Maintenance 	DMR 	Hospital 
-AccessNET	 NXDN NEXEDGE 4800	 Various	Areawide Communications (Virginia Beach)	 LTR Standard	 Virginia Beach	Christian Broadcasting Network/Regent University	 LTR Standard
- Virginia Beach	Mobile Communications America (Virginia Beach)	 LTR Standard	 Virginia Beach	Overlay Regional InterOperability Network (ORION)	 Project 25 Phase II	 Various	Tidewater Communications (Capacity Plus)
- DMR Motorola Capacity Plus Single Site (TRBO)	 Virginia Beach	Tidewater Communications (LTR)	 LTR Standard	 Virginia Beach	United States Department of Defense (14C)	 Project 25 Phase II	 Nationwide
+154.37000 	   	KZW933 	B		Fire Paging 	Fire Paging Data 	Telm 	Fire Dispatch 
+853.48750 	   	WNQJ860 	M	023 DPL	PW T/A 7 	School Bus/Public Works Talk-Around 	FM 	Multi-Talk 
+854.48750 	   	WNQJ860 	M	023 DPL	FD TA 16 	Fire Talk Around 	FM 	Fire-Talk 
+855.68750 	   	WZS605 	M	023 DPL	SBPW TA 	Schools/Public Works TA 	FM 	Multi-Talk 
+856.03750 	   	WNQJ860 	M	023 DPL	PD TA 16 	Police talkaround 	FM 	Law Talk 
+154.29500 	   	KH8015 	M	141.3 PL	SNDBR LFGD 	Stand to Stand Communications  	FM 	EMS-Talk 
+155.29500 	   	WNVI657 	BM	CSQ	VBLS 1 	Main 	FM 	Other 
+155.23500 	   	WNVI657 	M	CSQ	VBLS 2 	Secondary 	FM 	Other 
+460.57500 	465.57500  	WQPU446 	RM	107.2 PL	TCC FacMnt 	Facilities Maintenance 	FMN 	Schools 
+452.43750 	457.43750  	WQUF903 	RM	CC 1TG 2SL 2	SPA MAINT 	Sentara Princess Anne Hospital Maintenance 	DMR 	Hospital 
+AccessNET	 NXDN NEXEDGE 4800	 Various	Areawide Communications (Virginia Beach)	 LTR Standard	 Virginia Beach	Christian Broadcasting Network/Regent University	 LTR Standard	 Virginia Beach
+Mobile Communications America (Virginia Beach)	 LTR Standard	 Virginia Beach	Overlay Regional InterOperability Network (ORION)	 Project 25 Phase II	 Various	Tidewater Communications (Capacity Plus)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Virginia Beach
+Tidewater Communications (LTR)	 LTR Standard	 Virginia Beach	Virginia Beach	 Motorola Type II Smartnet	 Virginia Beach	

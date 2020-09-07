@@ -1,210 +1,209 @@
-155.01000 	KQG608 	RM	167.9 PL	Kent Shrf N 	Sheriff: North Dispatch [Ch 1] 	FMN 	Law Dispatch 
-155.73000 	KQG608 	RM	151.4 PL	Kent Shrf South 	Sheriff: South Dispatch [Ch 2] 	FMN 	Law Dispatch 
-151.19000 	WSJ220 	BM	107.2 PL	Kent PD West 	Kent County West - Wyoming, Grandville Police 	FMN 	Law Dispatch 
-154.80000 	KQG608 	BM	167.9 PL	Kent SD LEIN 	Sheriff: LEIN 	FMN 	Law Talk 
-155.07000 	KXT986 	RM	167.9 PL	Kent Shrf CW 	Sheriff: Countywide [Ch 4/7] 	FMN 	Law Talk 
-153.99500 	WPMA644 	M		Kent Shrf In 	Sheriff: Input to 155.07R  	FMN 	Law Talk 
-155.44500 	WPBE824 	M	141.3 PL	Kent Shrfc2C 	Sheriff: Car-to-Car [Ch 6] 	FMN 	Law Talk 
-453.92500 	KNCB978 	RM		Kent SD Corr 	Sheriff: Corrections 	FMN 	Corrections 
-453.52500 	KNCB978 	RM	151.4 PL	Kent SDCr IntrCn 	Sheriff: Corrections Intercounty 	FMN 	Corrections 
-460.50000 	WPVZ875 	RM		Kent SD 4605 	Sheriff 	FMN 	Law Talk 
-453.18750 	WPGG536 	M		Kent SD UHFA 	Sheriff 	FMN 	Law Talk 
-453.76250 	WPGG536 	M		Kent SD UHFB 	Sheriff 	FMN 	Law Talk 
-154.37000 	KQG490 	BM	167.9 PL	Kent Fire 1 	Fire: Countywide Dispatch [Ch 1] 	FMN 	Fire Dispatch 
-151.16000 	KQG490 	RM	167.9 PL	Kent Fire North 	Fire: Dispatch - North 	FMN 	Fire Dispatch 
-151.43750 	KXT986 	RM	107.2 PL	Kent Fire West 	Fire: Dispatch - West 	FMN 	Fire Dispatch 
-154.07000 	KQG490 	RM	167.9 PL	Kent Fire East 	Fire: Dispatch - East [Ch 1] 	FMN 	Fire Dispatch 
-154.01000 	KQG490 	M	167.9 PL	Kent Firground 	Fireground [Ch 2] 	FMN 	Fire-Tac 
-155.98500 	KGW711 	RM	141.3 PL	Kent AnimalCntrl 	Animal Control 	FMN 	Public Works 
-156.13500 	KUA768 	RM	88.5 PL	Kent Road Comisn 	Road Commission 	FMN 	Public Works 
-151.19000 	WSJ220 	RM		Kent Park Op 	Parks/Forestry Ops 	FMN 	Public Works 
-151.37000 	WSJ220 	M	88.5 PL	Kent Park SpEvnt 	Parks Dept. - Special Events 	FMN 	Public Works 
-453.05000 	WPXZ338 	RM	162.2 PL	Kent Zoo 1 	Zoo 	FMN 	Public Works 
-458.60000 	WPXZ338 	M		Kent Zoo 2 	Zoo 	FMN 	Public Works 
-452.42500 	WPYP836 	RM		Rapid Bus 1 	Bus Operations - The Rapid 	NXDN 	Transportation 
-452.47500 	WPYP836 	BM		Rapid Bus 2  	Bus Operations 2 - The Rapid 	NXDN 	Transportation 
-154.04000 	KNHS780 	RM		Ada Twp Fround 	Fire - Fireground 	DMR 	Fire-Tac 
-154.96500 	WPHK603 	RM		Alpine Twp. Ops 	Operations 	FMN 	Interop 
-155.49750 	WQJV825 	BM	107.2 PL	Caledonia FGrund 	Fireground 	FMN 	Fire-Talk 
-155.46750 	WQGZ227 	RM	114.8 PL	Cannon Twp Ops 	Cannon Township (Rockford) 	FMN 	Interop 
-151.33250 	WQFX392 	RM		Cascade Twp Fire 	Fire 	FMN 	Fire Dispatch 
-154.10000 	WQK278 	RM	167.9 PL	Cascade Twp FG 	Fire - Fireground 	FMN 	Fire-Tac 
-152.94500 	WQDL338 	BM		CasadeTwp FDAssn 	Fire - Fireman's Association 	FMN 	Fire-Tac 
-158.83500 	WNDQ972 	BM	136.5 PL	CadarSprg Police 	Police 	FMN 	Law Dispatch 
-151.31000 	KAQ952 	BM	146.2 PL	E. GR PD c2c/DPW 	Police Car-to-Car / Department of Public Works 	FMN 	Multi-Tac 
-158.94000 	KAQ952 	RM		E. GR PubWorks 	Department of Public Works 	FMN 	Public Works 
-155.65500 	KQB234 	RM	173.8 PL	GRap Polic S 	Police: Dispatch - South [Ch 1] 	FMN 	Law Dispatch 
-154.86000 	KQB234 	RM	167.9 PL	Kent LEIN 	Police: LEIN [Ch 2] 	FMN 	Law Talk 
-155.79000 	KQB234 	RM	173.8 PL	GRap Polic North 	Police: Dispatch - North [Ch 3] 	FMN 	Law Dispatch 
-151.22000 	WPZK425 	BM	167.9 PL	GRap Polic 4 	Police: Simplex/Radar Details [Ch 4] 	FMN 	Fire-Tac 
-154.83000 	KQB234 	BM	167.9 PL	GRap PD Tac5 	Police: Tactical [Ch 5] 	FMN 	Law Tac 
-154.74000 	KQB234 	BM	167.9 PL	GRap PD Tac9 	Police: Tactical [Ch 9] 	FMN 	Law Tac 
-453.25000 	KNIU970 	RM	167.9 PL	GRap PD Schools 	Police: Public School Districts 	FMN 	Law Talk 
-453.55000 	WQIG214 	M		GRap Robot 1 	Bomb Robot (Voice/Data) 	FMN 	Data 
-458.55000 	WQIG214 	M		GRap Robot 2 	Bomb Robot (Voice/Data) 	FMN 	Data 
-460.60000 	KQC754 	RM	167.9 PL	GR FD 1 	Fire 1 - Dispatch 	FMN 	Fire Dispatch 
-453.35000 	KQC754 	RM	167.9 PL	GRFD 2 	Fire 2 - Station Alerting 	FMN 	Fire Dispatch 
-451.22500 	WNLP987 	RM	167.9 PL	G.R. FD 3 	Fire 3 	FMN 	Fire-Tac 
-453.72500 	WPBS962 	RM	167.9 PL	GRap PubWorks 	Public Works 	FMN 	Public Works 
-151.13000 	KQB234 	BM		G.R. Parks 1 	Parks 	FMN 	Public Works 
-151.22000 	WPZK425 	BM	B0C NAC	G.R. Parks 2 	Parks (Encrypted?) 	P25E 	Public Works 
-453.32500 	KTE749 	RM	754 DPL	GRap Parks 3 	Parks (Licensed for Waste Water data) 	FMN 	Public Works 
-151.06250 	KQB234 	RM	167.9 PL	GR PD/FD InterOp 	Grand Rapids PD/FD Inter-Op 	FMN 	Interop 
-451.52500 	KQD887 	RM	245 DPL	G.Rapd Water Sys 	Grand Rapids Water System (Automated Voice) 	FMN 	Public Works 
-155.83500 	KNEX797 	BM	123.0 PL	Grv/WlkrPD*G 	Police: Dispatch (w/ Walker, linked to 153.845) 	FMN 	Law Dispatch 
-151.25000 	KNEX797 	RM	186.2 PL	Kent FireN-Gndvl 	Fire: Dispatch - North (Grandville) (linked to 151.16) (Ch 1) 	FMN 	Fire Dispatch 
-151.23500 	KZF702 	RM	125 DPL	Kentwood Police 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
-151.28000 	KZF702 	RM	025 DPL	Kentwood PD c2c 	Police: Car-to-Car 	FMN 	Law Talk 
-155.04000 	KZF702 	RM	107.2 PL	Kentwood Local 	Police/Fire: Local Operations 	FMN 	Multi-Tac 
-154.43750 	WRBR837 	F		Kentwood Sirens 	Outdoor Warning Sirens  	FMN 	Fire-Tac 
-156.24000 	KB76600 	RM	192.8 PL	Kentwood Fire 	Kentwood Fire 	FMN 	Fire-Tac 
-159.15000 	WNYT782 	RM	74.4 PL	Lowell PD 1 	Police Dispatch 	FMN 	Law Dispatch 
-151.47500 	WNYT782 	RM	151.4 PL	Lowell Police 2 	South County Sheriff Dispatch (Rebroadcast) 	FMN 	Law Tac 
-154.31000 	WQFE390 	RM		PlnfldTwp Water1 	Water Department 	FMN 	Public Works 
-156.10500 	WQFE390 	RM		PlnfldTwp Water2 	Water Department 	FMN 	Public Works 
-155.68500 	WNFH699 	RM	167.9 PL	Rockford Police 	Police - Dispatch 	FMN 	Law Dispatch 
-154.11500 	KNIT609 	RM		Rockford DPW/PD 	Department of Public Works / Police 	FMN 	Multi-Talk 
-155.10000 	KUM771 	RM		Sparta Police 	Police: Dispatch (possibly 167.9) 	FMN 	Law Dispatch 
-153.84500 	WNHP738 	RM	167.9 PL	Grndvl/WlkrPD*W 	Police: Dispatch (w/ Grandville, linked to 155.835) [Ch 1] 	FMN 	Law Dispatch 
-154.20500 	KNER812 	BM	91.5 PL	Walker Firegrund 	Fireground / Ch 2 	FMN 	Fire-Tac 
-155.52000 	KQG424 	RM	107.2 PL	Wyoming Police 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
-156.21000 	KQG424 	BM	107.2 PL	Wyom PD LEIN 	Police: LEIN [Ch 2] 	FMN 	Law Talk 
-155.19000 	KQG424 	RM	203.5 PL	Wyoming Fire 	Fire: Dispatch (DB: Grand Rapids) 	FMN 	Fire Dispatch 
-154.54750 	 	BM	156.7 PL	Wyoming FD 2 	Fire: Fireground 	FMN 	Fire-Tac 
-158.76000 	WNQW824 	RM	107.2 PL	Wyoming PubWorks 	Public Works: Dispatch 	FMN 	Public Works 
-158.86500 	WNQW824 	M		Wyoming DPW TA 	Public Works: Talk-Around 	FMN 	Public Works 
-463.00000 	KTD550 	RM	192.8 PL	KC EMS MED-1 	EMS MED Channel 1 (Blodgett) 	FMN 	EMS-Tac 
-463.02500 	KTD550 	RM	192.8 PL	KC EMS MED-2 	EMS MED Channel 2 (Butterworth and Helen DeVos) 	FMN 	EMS-Tac 
-463.07500 	KTD550 	RM	192.8 PL	KC EMS MED-3 	EMS MED Channel 4 (Metro) 	FMN 	EMS-Tac 
-463.10000 	KTD550 	RM	192.8 PL	KC EMS MED-5 	EMS MED Channel 5 (MHSM Main Campus) 	FMN 	EMS-Tac 
-463.12500 	KTD550 	RM	173.8 PL	KC EMS SD-6 	EMS South Disaster (South of 10 Mile Road) 	FMN 	EMS-Tac 
-463.17500 	KTD550 	RM	192.8 PL	KC EMS ND-8 	EMS North Disaster (North of 10 Mile Road) 	FMN 	EMS-Tac 
-462.95000 	KTD550 	RM	192.8 PL	KC EMS MED-9 	EMS MED Channel 9 (MHSM Southwest) 	FMN 	EMS-Tac 
-155.34000 	WPYZ607 	BM		KentCounty HEARN 	EMS-to-Hospital Notifications (VHF Plan) 	FMN 	EMS-Tac 
-155.40000 	KFH681 	BM	179.9 PL	KentCountEMS Air 	EMS Helicopter Dispatch 	FMN 	EMS Dispatch 
-463.20000 	KUH442 	RM	97.4 PL	Life EMS Disp. 	EMS: Dispatch [F-1] (Medivan Ops?) 	FMN 	EMS Dispatch 
-463.07500 	WSE863 	BM	97.4 PL	MED- 	Inbound to Metro Hospital 	FMN 	Hospital 
-453.95000 	WPJX428 	RM	192.8 PL	Rockford EMS 1 	EMS: Dispatch (Lowell, Rockford) 	FM 	EMS Dispatch 
-460.55000 	WPJX428 	RM		Rockford EMS 2 	EMS: Dispatch (Sparta) 	FM 	EMS Dispatch 
-155.29500 	KTE447 	BM		Rockford EMS 3 	EMS: Operations  	FMN 	EMS-Tac 
-157.45000 	KTE447 	B		Rockford EMSPG 	EMS: Paging 	Telm 	Data 
-464.57500 	WPZN648 	RM		SpecBldHosp Ops1 	Operations  	DMR 	Business 
-461.38750 	WPZN648 	M		SpecBldHosp Ops2 	Operations 	DMR 	Business 
-461.66250 	WPZN648 	RM		SpecBldHosp Ops3 	Operations 	DMR 	Business 
-464.68750 	WPZN648 	M		SpecBldHosp Ops4 	Operations 	DMR 	Business 
-463.80000 	WPIN913 	RM		SpecBmnHosp Ops1 	Operations 	DMR 	Business 
-451.95000 	WPIN913 	RM		SpecBmnHosp Ops2 	Operations 	DMR 	Business 
-155.40000 	KFH681 	B		SpecBtrwHosp EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
-123.05000 	KPN3 	B		BH Helipad 	Helipad 	AM 	Aircraft 
-464.82500 	WQWI370 	RM		StMaryHosp Sec 	Security 	DMR 	Security 
-464.77500 	WQWI370 	BM		StMaryHosSec/Mt1 	Security/Maintenance 	DMR 	Business 
-464.97500 	WQWI370 	RM		StMaryHspSc/Mt 2 	Security/Maintenance 	DMR 	Business 
-151.80500 	WNCB583 	M		StMarys FrBedRh1 	Free Bed/Rehab: Operations 	DMR 	Business 
-463.40000 	WNCB583 	M		StMarys FrBedRh2 	Free Bed/Rehab: Operations 	DMR 	Business 
-464.32500 	WNCB583 	RM		StMarys FrBedRh3 	Free Bed/Rehab: Maintenance 	DMR 	Business 
-464.33750 	WNCB583 	RM		StMarys FrBedRh4 	Free Bed/Rehab: Operations (Low Power w/ Telephone Interconnect) 	DMR 	Business 
-464.37500 	WNCB583 	BM		StMarys FrBedRh5 	Free Bed/Rehab: Operations 	DMR 	Business 
-464.87500 	WNCB583 	RM		StMarys FrBedRh6 	Free Bed/Rehab: Operations 	DMR 	Business 
-467.92500 	WNCB583 	M		StMarys FrBedRh7 	Free Bed/Rehab: Operations 	DMR 	Business 
-152.30000 	WPRZ893 	RM		Buses 	School Buses (Licensed as YG to Scholten, Dale) 	NXDN 	Schools 
-461.98750 	KNNS962 	M		Byron CentrSch 1 	Operations 	DMR 	Schools 
-464.11250 	KNNS962 	M		ByronCenterSch 2 	Operations 	DMR 	Schools 
-466.98750 	KNNS962 	M		ByronCenterSch 3 	Operations 	DMR 	Schools 
-469.11250 	KNNS962 	M		ByronCenterSch 4 	Operations 	DMR 	Schools 
-154.54000 	WPTN650 	BM		Caldonia SchBus1 	Transportation - Garage 	FMN 	Schools 
-155.26500 	WQBT593 	BM		Caldonia SchBus2 	Transportation 	FMN 	Schools 
-463.66250 	WPTN650 	M		Caldonia SchOps1 	Operations 	FMN 	Schools 
-464.32500 	WPTN650 	M		Caldonia SchOps2 	Operations 	FMN 	Schools 
-468.38750 	WPTN650 	M		Caldonia SchOps3 	Operations 	FMN 	Schools 
-47.62000 	KFW391 	BM		CedarSpr Sch Bus 	Transportation - Primary 	FM 	Schools 
-152.96750 	WQFH939 	BM		Comstock SchBus 	Transportation - Primary 	FMN 	Schools 
-451.30000 	WPNQ222 	RM		GRPubSch Lincoln 	Lincoln Campus 	NXDN 	Schools 
-451.62500 	WPNX552 	RM		GR Cent.HS Ops 1 	Central High School: Security/Maintenance 	FMN 	Schools 
-451.70000 	WPNX552 	RM		GR CentCHS Ops 2 	Central High School: Security/Maintenance 	FMN 	Schools 
-452.80000 	WPNX552 	RM		GR Cent.HS Ops 3 	Central High School: Security/Maintenance 	FM 	Schools 
-452.85000 	WPNX552 	RM		GR Cent.HS Ops 4 	Central High School: Security/Maintenance 	FMN 	Schools 
-462.12500 	WPNX552 	RM		GR CentHigh Ops5 	Central High School: Security/Maintenance 	FMN 	Schools 
-451.46250 	WPNX552 	RM		GR S. HS Ops 1 	South High School: Security/Maintenance 	FMN 	Schools 
-451.56250 	WPNX552 	RM		GR S. HS Ops 2 	South High School: Security/Maintenance 	FMN 	Schools 
-461.13750 	WPLG314 	M		GR PubSchl Ops 1 	Security/Ops 	FMN 	Schools 
-461.33750 	WPLG314 	M		GR PubSchl Ops 2 	Security/Ops 	FMN 	Schools 
-461.46250 	WPLG314 	M		GR PubSchl Ops 3 	Security/Ops 	FMN 	Schools 
-463.36250 	WPLG314 	M		GR PubSchl Ops 4 	Security/Ops 	FMN 	Schools 
-463.81250 	WPLG314 	M		GR PubSchl Ops 5 	Security/Ops 	FMN 	Schools 
-466.13750 	WPLG314 	M		GR PubSchl Ops 6 	Security/Ops 	FMN 	Schools 
-466.33750 	WPLG314 	M		GR PubSchl Ops 7 	Security/Ops 	FMN 	Schools 
-466.46250 	WPLG314 	M		GR PibSchl Ops 8 	Security/Ops 	FMN 	Schools 
-468.36250 	WPLG314 	M		GR PubSchl Ops 9 	Security/Ops 	FMN 	Schools 
-468.81250 	WPLG314 	M		GR PubSchl Ops10 	Security/Ops 	FMN 	Schools 
-155.20500 	KMB639 	BM		Grndville SchBus 	Transportation - Primary 	DMR 	Schools 
-462.45000 	WPUJ260 	RM		Kentwood School 	Transportation - Primary 	DMR 	Schools 
-451.61250 	WNCM708 	M	100.0 PL	LwllAraaSecurity 	Security 	FMN 	Security 
-462.42500 	WNCM708 	RM		Lowell Sch Bus 1 	Transportation - Primary 	FMN 	Schools 
-451.77500 	WNCM708 	RM		Lowell Sch Bus 2 	Transportation 	FMN 	Schools 
-151.65500 	WNCM708 	M		Lowell High Schl 	High School Ops/Security 	FMN 	Schools 
-151.80500 	WNCM708 	BM		Lowell Sch Ops1 	Operations 	FMN 	Schools 
-451.28750 	WNCM708 	M		Lowell Schl Ops2 	Operations 	FMN 	Schools 
-451.36250 	WNCM708 	M		Lowell Sch Ops3 	Operations 	FMN 	Schools 
-451.83750 	WNCM708 	M		Lowell Sch Ops4 	Operations 	FMN 	Schools 
-451.96250 	WNCM708 	M		Lowell Sch Ops5 	Operations 	FMN 	Schools 
-452.21250 	WNCM708 	M		Lowell Sch Ops6 	Operations 	FMN 	Schools 
-452.23750 	WNCM708 	M		Lowell Sch Ops7 	Operations 	FMN 	Schools 
-456.28750 	WNCM708 	M		Lowell Sch Ops8 	Operations 	FMN 	Schools 
-456.36250 	WNCM708 	M		Lowell Sch Ops9 	Operations 	FMN 	Schools 
-456.61250 	WNCM708 	M		Lowell Sch Ops10 	Operations 	FMN 	Schools 
-456.83750 	WNCM708 	M		Lowell Sch Ops11 	Operations 	FMN 	Schools 
-456.86250 	WNCM708 	M		Lowell Sch Ops12 	Operations 	FMN 	Schools 
-456.96250 	WNCM708 	M		Lowell Sch Ops13 	Operations 	FMN 	Schools 
-457.21250 	WNCM708 	M		Lowell Sch Ops14 	Operations 	FMN 	Schools 
-457.23750 	WNCM708 	M		Lowell Sch Ops15 	Operations 	FMN 	Schools 
-151.71500 	WPGX305 	BM		Nrthvew SchBus 1 	Transportation - Primary 	DMR 	Schools 
-151.83500 	WPGX305 	M		NviewwSchBus U2U 	Transportation - Unit-to-Unit 	DMR 	Schools 
-467.76250 	WPDZ221 	M		Rockford SchOp 1 	Operations  	FMN 	Schools 
-467.81250 	WPDZ221 	M		Rockford SchOp 2 	Operations  	FMN 	Schools 
-467.85000 	WPDZ221 	M		Rockford SchOp 3 	Operations  	FMN 	Schools 
-467.87500 	WPDZ221 	M		Rockford SchOp 4 	Operations  	FMN 	Schools 
-467.90000 	WPDZ221 	M		Rockford SchOp 5 	Operations  	FMN 	Schools 
-33.40000 	WPDZ221 	M		Rockford Sch Tr3 	Operations (low power) 	FM 	Schools 
-47.66000 	KEO583 	BM		Rockford Sch Tr1 	Transportation - Primary 	FM 	Schools 
-47.50000 	KEO583 	BM		Rockford Sch Tr2 	Transportation 	FM 	Schools 
-152.33000 	WQIY546 	RM		Rockford SchOp 6 	Operations 	FMN 	Schools 
-152.43500 	WQIY546 	RM	146.2 PL	Rockford SchOp 7 	Operations 	FMN 	Schools 
-152.88500 	WQIY546 	RM	136.5 PL	Rockford SchOp 8 	Operations 	FMN 	Schools 
-152.99000 	WQIY546 	RM		Rockford SchOp 9 	Operations (4100 Kroes Rd) 	FMN 	Schools 
-451.53750 	WQKK471 	M		Rockford SchOp10 	Operations  	FMN 	Schools 
-462.43750 	WQKK471 	M		Rockford SchOp11 	Operations 	FMN 	Schools 
-47.58000 	KNDL379 	BM		Sparta Sch Bus1 	Transportation - Garage 	FM 	Schools 
-47.66000 	KNDL379 	BM		Sparta Sch Bus2 	Transportation 	FM 	Schools 
-464.77500 	WPOE603 	RM		Wyoming Sch Bus 	Transportation - Primary 	DMR 	Schools 
-461.10000 	KNBX351 	RM	546 DPL	Aquinas DPS 	DPS - Dispatch 	FMN 	Law Dispatch 
-464.87500 	WNQJ486 	RM	151.4 PL	Aquinas Maintnce 	Maintenance 	FMN 	Schools 
-154.51500 	KZZ268 	BM		CalvnColge Ops 1 	Ops 	FMN 	Schools 
-463.61250 	WPWH441 	M		ClvnCol Alarms 1 	Alarms 	Telm 	Data 
-464.61250 	WPWH441 	M		CalvCol Alarms 2 	Alarms 	Telm 	Data 
-464.80000 	WPWH441 	M		CalvCol Alarms 3 	Alarms 	Telm 	Data 
-469.61250 	WPWH441 	M		CalvCol Alarms 4 	Alarms 	Telm 	Data 
-461.16250 	WPEG424 	M		GrcBblC Events 1 	Special Events 	DMR 	Schools 
-462.01250 	WPEG424 	M		GrBbleC Events 2 	Special Events 	DMR 	Schools 
-466.16250 	WPEG424 	M		GrBibCol Events3 	Special Events 	DMR 	Schools 
-467.01250 	WPEG424 	M		GrBblCol Events4 	Special Events 	DMR 	Schools 
-155.59500 	WQAG828 	RM		GR ComCol Police 	Police - Dispatch 	DMR 	Law Dispatch 
-155.89500 	WQAG828 	M		GRCC PD Tac1 	Police 	DMR 	Law Tac 
-156.01500 	WQAG828 	M		GRCC PD Tac2 	Police 	DMR 	Law Tac 
-467.85000 	WQGC312 	M		GRComCol Events1 	Events 	DMR 	Schools 
-467.92500 	WQGC312 	M		GR ComCo Events2 	Events 	DMR 	Schools 
-451.90000 	WQGC312 	RM		GRComCol Maint 1 	Maintenance 	DMR 	Schools 
-460.75000 	WQVG947 	RM		GR C.C. Maint. 2 	Maintenance 	DMR 	Schools 
-463.70000 	WQBH638 	RM		GRCC Maint 3 	Maintenance 	FMN 	Schools 
-154.54750 	WQGC312 	RM		GRCC Ops 1 	Operations 	DMR 	Schools 
-464.96250 	WQGC312 	RM		GR CommCol Ops 2 	Operations 	DMR 	Schools 
-452.97500 	KB85430 	RM	CC 8TG 300SL 2	GVSU Security 	Security 	DMR 	Security 
-452.97500 	KB85430 	RM	CC 8TG 100SL 2	GVSU Mntnce Ops 	Maintenance Operations 1 	DMR 	Security 
-452.97500 	KB85430 	RM	CC 8TG 960303SL 2	GVSUOps2 Parking 	Operations 2/Parking permit checks 	DMR 	Schools 
-452.97500 	KB85430 	RM	CC 8TG 960400SL 2	GVSU Time Clock 	Time clock check in / out 	DMR 	Schools 
-461.56250 	WQKY963 	RM		VanAdelInstOps 2 	 Operations 	FMN 	Schools 
-463.78750 	WQKY963 	RM		VanAdelIns Ops 1 	Operations 	FMN 	Schools 
-Airtime SMR TRS - DMR	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Varies	Calvin College	 DMR Motorola Capacity Plus Single Site (TRBO)	 Grand Rapids	Communications Specialists - UHF (Grand Rapids)	 NXDN NEXEDGE 9600
- Grand Rapids	Communications Specialists - VHF (Grand Rapids)	 NXDN NEXEDGE 9600	 Grand Rapids	ComSource Michigan DMR	 DMR Motorola Connect Plus (TRBO)	 Various	Consumers Energy
- EDACS Networked Standard	 Various	DeltaCom	 NXDN NEXEDGE 4800	 Varies	Forest Hills Public Schools	 EDACS Standard	 Grand Rapids
-General Communications (Grand Rapids)	 LTR Standard	 Grand Rapids	T and W Electronics (DMR 334)	 DMR Motorola Connect Plus (TRBO)	 Grand Rapids	TRT Partners	 DMR Motorola Capacity Plus Multi Site (TRBO)
- Holland	TRT Partners (LTR)	 LTR Standard	 Holland	Walker City Public Safety	 SmarTrunk Standard	 Walker	
+155.01000 	158.97000  	KQG608 	RM	167.9 PL	Kent Shrf N 	Sheriff: North Dispatch [Ch 1] 	FMN 	Law Dispatch 
+155.73000 	154.89000  	KQG608 	RM	151.4 PL	Kent Shrf South 	Sheriff: South Dispatch [Ch 2] 	FMN 	Law Dispatch 
+151.19000 	151.37000  	WSJ220 	BM	107.2 PL	Kent PD West 	Kent County West - Wyoming, Grandville Police 	FMN 	Law Dispatch 
+154.80000 	   	KQG608 	BM	167.9 PL	Kent SD LEIN 	Sheriff: LEIN 	FMN 	Law Talk 
+155.07000 	153.99500  	KXT986 	RM	167.9 PL	Kent Shrf CW 	Sheriff: Countywide [Ch 4/7] 	FMN 	Law Talk 
+153.99500 	   	WPMA644 	M		Kent Shrf In 	Sheriff: Input to 155.07R  	FMN 	Law Talk 
+155.44500 	   	WPBE824 	M	141.3 PL	Kent Shrfc2C 	Sheriff: Car-to-Car [Ch 6] 	FMN 	Law Talk 
+453.92500 	458.92500  	KNCB978 	RM		Kent SD Corr 	Sheriff: Corrections 	FMN 	Corrections 
+453.52500 	458.52500  	KNCB978 	RM	151.4 PL	Kent SDCr IntrCn 	Sheriff: Corrections Intercounty 	FMN 	Corrections 
+460.50000 	465.50000  	WPVZ875 	RM		Kent SD 4605 	Sheriff 	FMN 	Law Talk 
+453.18750 	   	WPGG536 	M		Kent SD UHFA 	Sheriff 	FMN 	Law Talk 
+453.76250 	   	WPGG536 	M		Kent SD UHFB 	Sheriff 	FMN 	Law Talk 
+154.37000 	   	KQG490 	BM	167.9 PL	Kent Fire 1 	Fire: Countywide Dispatch [Ch 1] 	FMN 	Fire Dispatch 
+151.16000 	159.39000  	KQG490 	RM	167.9 PL	Kent Fire North 	Fire: Dispatch - North 	FMN 	Fire Dispatch 
+151.43750 	159.40500  	KXT986 	RM	107.2 PL	Kent Fire West 	Fire: Dispatch - West 	FMN 	Fire Dispatch 
+154.07000 	159.43500  	KQG490 	RM	167.9 PL	Kent Fire East 	Fire: Dispatch - East [Ch 1] 	FMN 	Fire Dispatch 
+154.01000 	   	KQG490 	M	167.9 PL	Kent Firground 	Fireground [Ch 2] 	FMN 	Fire-Tac 
+155.98500 	158.89500  	KGW711 	RM	141.3 PL	Kent AnimalCntrl 	Animal Control 	FMN 	Public Works 
+156.13500 	151.01000  	KUA768 	RM	88.5 PL	Kent Road Comisn 	Road Commission 	FMN 	Public Works 
+151.19000 	159.24000  	WSJ220 	RM		Kent Park Op 	Parks/Forestry Ops 	FMN 	Public Works 
+151.37000 	   	WSJ220 	M	88.5 PL	Kent Park SpEvnt 	Parks Dept. - Special Events 	FMN 	Public Works 
+453.05000 	458.05000  	WPXZ338 	RM	162.2 PL	Kent Zoo 1 	Zoo 	FMN 	Public Works 
+458.60000 	   	WPXZ338 	M		Kent Zoo 2 	Zoo 	FMN 	Public Works 
+452.42500 	457.42500  	WPYP836 	RM		Rapid Bus 1 	Bus Operations - The Rapid 	NXDN 	Transportation 
+452.47500 	457.47500  	WPYP836 	BM		Rapid Bus 2  	Bus Operations 2 - The Rapid 	NXDN 	Transportation 
+154.04000 	155.92500  	KNHS780 	RM		Ada Twp Fround 	Fire - Fireground 	DMR 	Fire-Tac 
+154.96500 	155.77500  	WPHK603 	RM		Alpine Twp. Ops 	Operations 	FMN 	Interop 
+155.49750 	   	WQJV825 	BM	107.2 PL	Caledonia FGrund 	Fireground 	FMN 	Fire-Talk 
+155.46750 	154.68750  	WQGZ227 	RM	114.8 PL	Cannon Twp Ops 	Cannon Township (Rockford) 	FMN 	Interop 
+151.33250 	158.96250  	WQFX392 	RM		Cascade Twp Fire 	Fire 	FMN 	Fire Dispatch 
+154.10000 	155.89500  	WQK278 	RM	167.9 PL	Cascade Twp FG 	Fire - Fireground 	FMN 	Fire-Tac 
+152.94500 	   	WQDL338 	BM		CasadeTwp FDAssn 	Fire - Fireman's Association 	FMN 	Fire-Tac 
+158.83500 	   	WNDQ972 	BM	136.5 PL	CadarSprg Police 	Police 	FMN 	Law Dispatch 
+151.31000 	   	KAQ952 	BM	146.2 PL	E. GR PD c2c/DPW 	Police Car-to-Car / Department of Public Works 	FMN 	Multi-Tac 
+158.94000 	151.47500  	KAQ952 	RM		E. GR PubWorks 	Department of Public Works 	FMN 	Public Works 
+155.65500 	154.77000  	KQB234 	RM	173.8 PL	GRap Polic S 	Police: Dispatch - South [Ch 1] 	FMN 	Law Dispatch 
+154.86000 	151.13000  	KQB234 	RM	167.9 PL	Kent LEIN 	Police: LEIN [Ch 2] 	FMN 	Law Talk 
+155.79000 	154.95000  	KQB234 	RM	173.8 PL	GRap Polic North 	Police: Dispatch - North [Ch 3] 	FMN 	Law Dispatch 
+151.22000 	   	WPZK425 	BM	167.9 PL	GRap Polic 4 	Police: Simplex/Radar Details [Ch 4] 	FMN 	Fire-Tac 
+154.83000 	   	KQB234 	BM	167.9 PL	GRap PD Tac5 	Police: Tactical [Ch 5] 	FMN 	Law Tac 
+154.74000 	   	KQB234 	BM	167.9 PL	GRap PD Tac9 	Police: Tactical [Ch 9] 	FMN 	Law Tac 
+453.25000 	458.25000  	KNIU970 	RM	167.9 PL	GRap PD Schools 	Police: Public School Districts 	FMN 	Law Talk 
+453.55000 	   	WQIG214 	M		GRap Robot 1 	Bomb Robot (Voice/Data) 	FMN 	Data 
+458.55000 	   	WQIG214 	M		GRap Robot 2 	Bomb Robot (Voice/Data) 	FMN 	Data 
+460.60000 	465.60000  	KQC754 	RM	167.9 PL	GR FD 1 	Fire 1 - Dispatch 	FMN 	Fire Dispatch 
+453.35000 	458.35000  	KQC754 	RM	167.9 PL	GRFD 2 	Fire 2 - Station Alerting 	FMN 	Fire Dispatch 
+451.22500 	456.22500  	WNLP987 	RM	167.9 PL	G.R. FD 3 	Fire 3 	FMN 	Fire-Tac 
+453.72500 	458.72500  	WPBS962 	RM	167.9 PL	GRap PubWorks 	Public Works 	FMN 	Public Works 
+151.13000 	   	KQB234 	BM		G.R. Parks 1 	Parks 	FMN 	Public Works 
+151.22000 	   	WPZK425 	BM	B0C NAC	G.R. Parks 2 	Parks (Encrypted?) 	P25E 	Public Works 
+453.32500 	458.32500  	KTE749 	RM	754 DPL	GRap Parks 3 	Parks (Licensed for Waste Water data) 	FMN 	Public Works 
+151.06250 	156.12000  	KQB234 	RM	167.9 PL	GR PD/FD InterOp 	Grand Rapids PD/FD Inter-Op 	FMN 	Interop 
+451.52500 	456.52500  	KQD887 	RM	245 DPL	G.Rapd Water Sys 	Grand Rapids Water System (Automated Voice) 	FMN 	Public Works 
+155.83500 	   	KNEX797 	BM	123.0 PL	Grv/WlkrPD*G 	Police: Dispatch (w/ Walker, linked to 153.845) 	FMN 	Law Dispatch 
+151.25000 	159.45000  	KNEX797 	RM	186.2 PL	Kent FireN-Gndvl 	Fire: Dispatch - North (Grandville) (linked to 151.16) (Ch 1) 	FMN 	Fire Dispatch 
+151.23500 	159.30000  	KZF702 	RM	125 DPL	Kentwood Police 	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
+151.28000 	159.34500  	KZF702 	RM	025 DPL	Kentwood PD c2c 	Police: Car-to-Car 	FMN 	Law Talk 
+155.04000 	159.31500  	KZF702 	RM	107.2 PL	Kentwood Local 	Police/Fire: Local Operations 	FMN 	Multi-Tac 
+154.43750 	   	WRBR837 	F		Kentwood Sirens 	Outdoor Warning Sirens  	FMN 	Fire-Tac 
+156.24000 	153.95000  	KB76600 	RM	192.8 PL	Kentwood Fire 	Kentwood Fire 	FMN 	Fire-Tac 
+159.15000 	155.67000  	WNYT782 	RM	74.4 PL	Lowell PD 1 	Police Dispatch 	FMN 	Law Dispatch 
+151.47500 	150.77500  	WNYT782 	RM	151.4 PL	Lowell Police 2 	South County Sheriff Dispatch (Rebroadcast) 	FMN 	Law Tac 
+154.31000 	158.91000  	WQFE390 	RM		PlnfldTwp Water1 	Water Department 	FMN 	Public Works 
+156.10500 	159.21000  	WQFE390 	RM		PlnfldTwp Water2 	Water Department 	FMN 	Public Works 
+155.68500 	158.79000  	WNFH699 	RM	167.9 PL	Rockford Police 	Police - Dispatch 	FMN 	Law Dispatch 
+154.11500 	158.73000  	KNIT609 	RM		Rockford DPW/PD 	Department of Public Works / Police 	FMN 	Multi-Talk 
+155.10000 	153.90500  	KUM771 	RM		Sparta Police 	Police: Dispatch (possibly 167.9) 	FMN 	Law Dispatch 
+153.84500 	159.22500  	WNHP738 	RM	167.9 PL	Grndvl/WlkrPD*W 	Police: Dispatch (w/ Grandville, linked to 155.835) [Ch 1] 	FMN 	Law Dispatch 
+154.20500 	   	KNER812 	BM	91.5 PL	Walker Firegrund 	Fireground / Ch 2 	FMN 	Fire-Tac 
+155.52000 	156.03000  	KQG424 	RM	107.2 PL	Wyoming Police 	Police: Dispatch [Ch 1] 	FMN 	Law Dispatch 
+156.21000 	   	KQG424 	BM	107.2 PL	Wyom PD LEIN 	Police: LEIN [Ch 2] 	FMN 	Law Talk 
+155.19000 	156.10500  	KQG424 	RM	203.5 PL	Wyoming Fire 	Fire: Dispatch (DB: Grand Rapids) 	FMN 	Fire Dispatch 
+154.54750 	   	 	BM	156.7 PL	Wyoming FD 2 	Fire: Fireground 	FMN 	Fire-Tac 
+158.76000 	153.75500  	WNQW824 	RM	107.2 PL	Wyoming PubWorks 	Public Works: Dispatch 	FMN 	Public Works 
+158.86500 	   	WNQW824 	M		Wyoming DPW TA 	Public Works: Talk-Around 	FMN 	Public Works 
+463.00000 	468.00000  	KTD550 	RM	192.8 PL	KC EMS MED-1 	EMS MED Channel 1 (Blodgett) 	FMN 	EMS-Tac 
+463.02500 	468.02500  	KTD550 	RM	192.8 PL	KC EMS MED-2 	EMS MED Channel 2 (Butterworth and Helen DeVos) 	FMN 	EMS-Tac 
+463.07500 	468.07500  	KTD550 	RM	192.8 PL	KC EMS MED-3 	EMS MED Channel 4 (Metro) 	FMN 	EMS-Tac 
+463.10000 	468.10000  	KTD550 	RM	192.8 PL	KC EMS MED-5 	EMS MED Channel 5 (MHSM Main Campus) 	FMN 	EMS-Tac 
+463.12500 	468.12500  	KTD550 	RM	173.8 PL	KC EMS SD-6 	EMS South Disaster (South of 10 Mile Road) 	FMN 	EMS-Tac 
+463.17500 	468.17500  	KTD550 	RM	192.8 PL	KC EMS ND-8 	EMS North Disaster (North of 10 Mile Road) 	FMN 	EMS-Tac 
+462.95000 	467.95000  	KTD550 	RM	192.8 PL	KC EMS MED-9 	EMS MED Channel 9 (MHSM Southwest) 	FMN 	EMS-Tac 
+155.34000 	   	WPYZ607 	BM		KentCounty HEARN 	EMS-to-Hospital Notifications (VHF Plan) 	FMN 	EMS-Tac 
+155.40000 	   	KFH681 	BM	179.9 PL	KentCountEMS Air 	EMS Helicopter Dispatch 	FMN 	EMS Dispatch 
+463.20000 	468.20000  	KUH442 	RM	97.4 PL	Life EMS Disp. 	EMS: Dispatch [F-1] (Medivan Ops?) 	FMN 	EMS Dispatch 
+463.07500 	468.07500  	WSE863 	BM	97.4 PL	MED- 	Inbound to Metro Hospital 	FMN 	Hospital 
+453.95000 	458.95000  	WPJX428 	RM	192.8 PL	Rockford EMS 1 	EMS: Dispatch (Lowell, Rockford) 	FM 	EMS Dispatch 
+460.55000 	465.55000  	WPJX428 	RM		Rockford EMS 2 	EMS: Dispatch (Sparta) 	FM 	EMS Dispatch 
+155.29500 	   	KTE447 	BM		Rockford EMS 3 	EMS: Operations  	FMN 	EMS-Tac 
+157.45000 	   	KTE447 	B		Rockford EMSPG 	EMS: Paging 	Telm 	Data 
+464.57500 	469.57500  	WPZN648 	RM		SpecBldHosp Ops1 	Operations  	DMR 	Business 
+461.38750 	   	WPZN648 	M		SpecBldHosp Ops2 	Operations 	DMR 	Business 
+461.66250 	   	WPZN648 	RM		SpecBldHosp Ops3 	Operations 	DMR 	Business 
+464.68750 	   	WPZN648 	M		SpecBldHosp Ops4 	Operations 	DMR 	Business 
+463.80000 	468.80000  	WPIN913 	RM		SpecBmnHosp Ops1 	Operations 	DMR 	Business 
+451.95000 	456.95000  	WPIN913 	RM		SpecBmnHosp Ops2 	Operations 	DMR 	Business 
+155.40000 	   	KFH681 	B		SpecBtrwHosp EMS 	EMS Dispatch 	FMN 	EMS Dispatch 
+123.05000 	   	KPN3 	B		BH Helipad 	Helipad 	AM 	Aircraft 
+464.82500 	469.82500  	WQWI370 	RM		StMaryHosp Sec 	Security 	DMR 	Security 
+464.77500 	469.77500  	WQWI370 	BM		StMaryHosSec/Mt1 	Security/Maintenance 	DMR 	Business 
+464.97500 	469.97500  	WQWI370 	RM		StMaryHspSc/Mt 2 	Security/Maintenance 	DMR 	Business 
+151.80500 	   	WNCB583 	M		StMarys FrBedRh1 	Free Bed/Rehab: Operations 	DMR 	Business 
+463.40000 	   	WNCB583 	M		StMarys FrBedRh2 	Free Bed/Rehab: Operations 	DMR 	Business 
+464.32500 	469.32500  	WNCB583 	RM		StMarys FrBedRh3 	Free Bed/Rehab: Maintenance 	DMR 	Business 
+464.33750 	469.33750  	WNCB583 	RM		StMarys FrBedRh4 	Free Bed/Rehab: Operations (Low Power w/ Telephone Interconnect) 	DMR 	Business 
+464.37500 	   	WNCB583 	BM		StMarys FrBedRh5 	Free Bed/Rehab: Operations 	DMR 	Business 
+464.87500 	469.87500  	WNCB583 	RM		StMarys FrBedRh6 	Free Bed/Rehab: Operations 	DMR 	Business 
+467.92500 	   	WNCB583 	M		StMarys FrBedRh7 	Free Bed/Rehab: Operations 	DMR 	Business 
+152.30000 	157.46000  	WPRZ893 	RM		Buses 	School Buses (Licensed as YG to Scholten, Dale) 	NXDN 	Schools 
+461.98750 	   	KNNS962 	M		Byron CentrSch 1 	Operations 	DMR 	Schools 
+464.11250 	   	KNNS962 	M		ByronCenterSch 2 	Operations 	DMR 	Schools 
+466.98750 	   	KNNS962 	M		ByronCenterSch 3 	Operations 	DMR 	Schools 
+469.11250 	   	KNNS962 	M		ByronCenterSch 4 	Operations 	DMR 	Schools 
+154.54000 	   	WPTN650 	BM		Caldonia SchBus1 	Transportation - Garage 	FMN 	Schools 
+155.26500 	   	WQBT593 	BM		Caldonia SchBus2 	Transportation 	FMN 	Schools 
+463.66250 	   	WPTN650 	M		Caldonia SchOps1 	Operations 	FMN 	Schools 
+464.32500 	   	WPTN650 	M		Caldonia SchOps2 	Operations 	FMN 	Schools 
+468.38750 	   	WPTN650 	M		Caldonia SchOps3 	Operations 	FMN 	Schools 
+47.62000 	   	KFW391 	BM		CedarSpr Sch Bus 	Transportation - Primary 	FM 	Schools 
+152.96750 	   	WQFH939 	BM		Comstock SchBus 	Transportation - Primary 	FMN 	Schools 
+451.30000 	456.30000  	WPNQ222 	RM		GRPubSch Lincoln 	Lincoln Campus 	NXDN 	Schools 
+451.62500 	456.62500  	WPNX552 	RM		GR Cent.HS Ops 1 	Central High School: Security/Maintenance 	FMN 	Schools 
+451.70000 	456.70000  	WPNX552 	RM		GR CentCHS Ops 2 	Central High School: Security/Maintenance 	FMN 	Schools 
+452.80000 	457.80000  	WPNX552 	RM		GR Cent.HS Ops 3 	Central High School: Security/Maintenance 	FM 	Schools 
+452.85000 	457.85000  	WPNX552 	RM		GR Cent.HS Ops 4 	Central High School: Security/Maintenance 	FMN 	Schools 
+462.12500 	467.12500  	WPNX552 	RM		GR CentHigh Ops5 	Central High School: Security/Maintenance 	FMN 	Schools 
+451.46250 	456.46250  	WPNX552 	RM		GR S. HS Ops 1 	South High School: Security/Maintenance 	FMN 	Schools 
+451.56250 	456.56250  	WPNX552 	RM		GR S. HS Ops 2 	South High School: Security/Maintenance 	FMN 	Schools 
+461.13750 	   	WPLG314 	M		GR PubSchl Ops 1 	Security/Ops 	FMN 	Schools 
+461.33750 	   	WPLG314 	M		GR PubSchl Ops 2 	Security/Ops 	FMN 	Schools 
+461.46250 	   	WPLG314 	M		GR PubSchl Ops 3 	Security/Ops 	FMN 	Schools 
+463.36250 	   	WPLG314 	M		GR PubSchl Ops 4 	Security/Ops 	FMN 	Schools 
+463.81250 	   	WPLG314 	M		GR PubSchl Ops 5 	Security/Ops 	FMN 	Schools 
+466.13750 	   	WPLG314 	M		GR PubSchl Ops 6 	Security/Ops 	FMN 	Schools 
+466.33750 	   	WPLG314 	M		GR PubSchl Ops 7 	Security/Ops 	FMN 	Schools 
+466.46250 	   	WPLG314 	M		GR PibSchl Ops 8 	Security/Ops 	FMN 	Schools 
+468.36250 	   	WPLG314 	M		GR PubSchl Ops 9 	Security/Ops 	FMN 	Schools 
+468.81250 	   	WPLG314 	M		GR PubSchl Ops10 	Security/Ops 	FMN 	Schools 
+155.20500 	   	KMB639 	BM		Grndville SchBus 	Transportation - Primary 	DMR 	Schools 
+462.45000 	467.45000  	WPUJ260 	RM		Kentwood School 	Transportation - Primary 	DMR 	Schools 
+451.61250 	   	WNCM708 	M	100.0 PL	LwllAraaSecurity 	Security 	FMN 	Security 
+462.42500 	467.42500  	WNCM708 	RM		Lowell Sch Bus 1 	Transportation - Primary 	FMN 	Schools 
+451.77500 	456.77500  	WNCM708 	RM		Lowell Sch Bus 2 	Transportation 	FMN 	Schools 
+151.65500 	   	WNCM708 	M		Lowell High Schl 	High School Ops/Security 	FMN 	Schools 
+151.80500 	   	WNCM708 	BM		Lowell Sch Ops1 	Operations 	FMN 	Schools 
+451.28750 	   	WNCM708 	M		Lowell Schl Ops2 	Operations 	FMN 	Schools 
+451.36250 	   	WNCM708 	M		Lowell Sch Ops3 	Operations 	FMN 	Schools 
+451.83750 	   	WNCM708 	M		Lowell Sch Ops4 	Operations 	FMN 	Schools 
+451.96250 	   	WNCM708 	M		Lowell Sch Ops5 	Operations 	FMN 	Schools 
+452.21250 	   	WNCM708 	M		Lowell Sch Ops6 	Operations 	FMN 	Schools 
+452.23750 	   	WNCM708 	M		Lowell Sch Ops7 	Operations 	FMN 	Schools 
+456.28750 	   	WNCM708 	M		Lowell Sch Ops8 	Operations 	FMN 	Schools 
+456.36250 	   	WNCM708 	M		Lowell Sch Ops9 	Operations 	FMN 	Schools 
+456.61250 	   	WNCM708 	M		Lowell Sch Ops10 	Operations 	FMN 	Schools 
+456.83750 	   	WNCM708 	M		Lowell Sch Ops11 	Operations 	FMN 	Schools 
+456.86250 	   	WNCM708 	M		Lowell Sch Ops12 	Operations 	FMN 	Schools 
+456.96250 	   	WNCM708 	M		Lowell Sch Ops13 	Operations 	FMN 	Schools 
+457.21250 	   	WNCM708 	M		Lowell Sch Ops14 	Operations 	FMN 	Schools 
+457.23750 	   	WNCM708 	M		Lowell Sch Ops15 	Operations 	FMN 	Schools 
+151.71500 	   	WPGX305 	BM		Nrthvew SchBus 1 	Transportation - Primary 	DMR 	Schools 
+151.83500 	   	WPGX305 	M		NviewwSchBus U2U 	Transportation - Unit-to-Unit 	DMR 	Schools 
+467.76250 	   	WPDZ221 	M		Rockford SchOp 1 	Operations  	FMN 	Schools 
+467.81250 	   	WPDZ221 	M		Rockford SchOp 2 	Operations  	FMN 	Schools 
+467.85000 	   	WPDZ221 	M		Rockford SchOp 3 	Operations  	FMN 	Schools 
+467.87500 	   	WPDZ221 	M		Rockford SchOp 4 	Operations  	FMN 	Schools 
+467.90000 	   	WPDZ221 	M		Rockford SchOp 5 	Operations  	FMN 	Schools 
+33.40000 	   	WPDZ221 	M		Rockford Sch Tr3 	Operations (low power) 	FM 	Schools 
+47.66000 	   	KEO583 	BM		Rockford Sch Tr1 	Transportation - Primary 	FM 	Schools 
+47.50000 	   	KEO583 	BM		Rockford Sch Tr2 	Transportation 	FM 	Schools 
+152.33000 	157.59000  	WQIY546 	RM		Rockford SchOp 6 	Operations 	FMN 	Schools 
+152.43500 	157.69500  	WQIY546 	RM	146.2 PL	Rockford SchOp 7 	Operations 	FMN 	Schools 
+152.88500 	159.51000  	WQIY546 	RM	136.5 PL	Rockford SchOp 8 	Operations 	FMN 	Schools 
+152.99000 	159.70500  	WQIY546 	RM		Rockford SchOp 9 	Operations (4100 Kroes Rd) 	FMN 	Schools 
+451.53750 	456.53750  	WQKK471 	M		Rockford SchOp10 	Operations  	FMN 	Schools 
+462.43750 	467.43750  	WQKK471 	M		Rockford SchOp11 	Operations 	FMN 	Schools 
+47.58000 	   	KNDL379 	BM		Sparta Sch Bus1 	Transportation - Garage 	FM 	Schools 
+47.66000 	   	KNDL379 	BM		Sparta Sch Bus2 	Transportation 	FM 	Schools 
+464.77500 	469.77500  	WPOE603 	RM		Wyoming Sch Bus 	Transportation - Primary 	DMR 	Schools 
+461.10000 	466.10000  	KNBX351 	RM	546 DPL	Aquinas DPS 	DPS - Dispatch 	FMN 	Law Dispatch 
+464.87500 	469.87500  	WNQJ486 	RM	151.4 PL	Aquinas Maintnce 	Maintenance 	FMN 	Schools 
+154.51500 	   	KZZ268 	BM		CalvnColge Ops 1 	Ops 	FMN 	Schools 
+463.61250 	   	WPWH441 	M		ClvnCol Alarms 1 	Alarms 	Telm 	Data 
+464.61250 	   	WPWH441 	M		CalvCol Alarms 2 	Alarms 	Telm 	Data 
+464.80000 	   	WPWH441 	M		CalvCol Alarms 3 	Alarms 	Telm 	Data 
+469.61250 	   	WPWH441 	M		CalvCol Alarms 4 	Alarms 	Telm 	Data 
+461.16250 	   	WPEG424 	M		GrcBblC Events 1 	Special Events 	DMR 	Schools 
+462.01250 	   	WPEG424 	M		GrBbleC Events 2 	Special Events 	DMR 	Schools 
+466.16250 	   	WPEG424 	M		GrBibCol Events3 	Special Events 	DMR 	Schools 
+467.01250 	   	WPEG424 	M		GrBblCol Events4 	Special Events 	DMR 	Schools 
+155.59500 	150.79000  	WQAG828 	RM		GR ComCol Police 	Police - Dispatch 	DMR 	Law Dispatch 
+155.89500 	   	WQAG828 	M		GRCC PD Tac1 	Police 	DMR 	Law Tac 
+156.01500 	   	WQAG828 	M		GRCC PD Tac2 	Police 	DMR 	Law Tac 
+467.85000 	   	WQGC312 	M		GRComCol Events1 	Events 	DMR 	Schools 
+467.92500 	   	WQGC312 	M		GR ComCo Events2 	Events 	DMR 	Schools 
+451.90000 	456.90000  	WQGC312 	RM		GRComCol Maint 1 	Maintenance 	DMR 	Schools 
+460.75000 	465.75000  	WQVG947 	RM		GR C.C. Maint. 2 	Maintenance 	DMR 	Schools 
+463.70000 	468.70000  	WQBH638 	RM		GRCC Maint 3 	Maintenance 	FMN 	Schools 
+154.54750 	159.65250  	WQGC312 	RM		GRCC Ops 1 	Operations 	DMR 	Schools 
+464.96250 	469.96250  	WQGC312 	RM		GR CommCol Ops 2 	Operations 	DMR 	Schools 
+452.97500 	457.97500  	KB85430 	RM	CC 8TG 300SL 2	GVSU Security 	Security 	DMR 	Security 
+452.97500 	457.97500  	KB85430 	RM	CC 8TG 100SL 2	GVSU Mntnce Ops 	Maintenance Operations 1 	DMR 	Security 
+452.97500 	457.97500  	KB85430 	RM	CC 8TG 960303SL 2	GVSUOps2 Parking 	Operations 2/Parking permit checks 	DMR 	Schools 
+452.97500 	457.97500  	KB85430 	RM	CC 8TG 960400SL 2	GVSU Time Clock 	Time clock check in / out 	DMR 	Schools 
+461.56250 	466.56250  	WQKY963 	RM		VanAdelInstOps 2 	 Operations 	FMN 	Schools 
+463.78750 	468.78750  	WQKY963 	RM		VanAdelIns Ops 1 	Operations 	FMN 	Schools 
+Airtime SMR TRS - DMR	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Varies	Calvin College	 DMR Motorola Capacity Plus Single Site (TRBO)	 Grand Rapids	Communications Specialists - UHF (Grand Rapids)	 NXDN NEXEDGE 9600	 Grand Rapids
+Communications Specialists - VHF (Grand Rapids)	 NXDN NEXEDGE 9600	 Grand Rapids	Consumers Energy	 EDACS Networked Standard	 Various	DeltaCom	 NXDN NEXEDGE 4800	 Varies
+Forest Hills Public Schools	 EDACS Standard	 Grand Rapids	General Communications (Grand Rapids)	 LTR Standard	 Grand Rapids	T and W Electronics (DMR 334)	 DMR Motorola Connect Plus (TRBO)	 Grand Rapids
+TRT Partners	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Holland	TRT Partners (LTR)	 LTR Standard	 Holland	Walker City Public Safety	 SmarTrunk Standard	 Walker

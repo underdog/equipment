@@ -1,23 +1,22 @@
-155.09250 	WQFR547 	BM		GCSO - ROSE 	Sheriff - Rose Peak 	FMN 	Law Dispatch 
-155.64000 	WQFR547 	BM		GCSO - DISP 	Sheriff - Clifton 	FMN 	Law Dispatch 
-155.76750 	WQFR547 	BM		GCSO - ALPIN 	Sheriff - Alpine 	FMN 	Law Dispatch 
-156.17250 	WQFR547 	BM		GCSO - GUTPK 	Sheriff - Guthrie Peak 	FMN 	Law Dispatch 
-158.89500 	WQBB934 	RM		SAR 01 	SAR F1 - Low power repeater 	FMN 	Interop 
-158.94000 	WQBB934 	RM		SAR 02 	SAR F2 - Simplex 	FMN 	Interop 
-453.67500 	WPEI235 	RM		GCSO - 2 	Sheriff - F2 - Rose Peak (North) - Patched to Ch1 	FMN 	Law Dispatch 
-460.05000 	WPEI235 	BM		GC HWY MAINT 	Highway Maintenance 	FMN 	Public Works 
-460.45000 	WPEI235 	RM		GCSO - 1 	Sheriff F1 - Guthrie Peak (South) - Patched to Ch2 	FMN 	Law Dispatch 
-159.19500 	 	RM		Air Evac GLC 	TAC 	FMN 	EMS-Tac 
-154.96500 	KFP360 	BM		CLIF FD&PW 	Fire Department & Public Works 	FMN 	Multi-Dispatch 
-158.77500 	WPEM292 	RM		CLIF PD 	Police - Dispatch 	FMN 	Law Dispatch 
-155.25000 	KFF325 	BM		CLIF ANMLCTL 	Animal Control 	FMN 	Public Works 
-155.83500 	WNLG666 	RM		CLIFPD InCy 	Police - "Inter-City" 	FMN 	Law Tac 
-154.19750 	WQCM959 	RM		DUNCAN PW 	Public Works 	FMN 	Public Works 
-460.57500 	WQAQ893 	BM	123.0 PL	DVFD - Rptr 	Guthrie Repeather 	FMN 	Fire-Tac 
-460.57500 	WQAQ893 	BM	156.7 PL	DVFD - Disp 	Dispatch 	FMN 	Fire Dispatch 
-146.88000 	 	RM		Grnlee Skywr 	Skywarn Net 	FM 	Ham 
-122.90000 	 	BM		Grnlee CTAF 	CTAF 	AM 	Aircraft 
-153.57500 	WPQI298 	M	023 DPL	FMC TrainOps 	Train Operations 	FMN 	Railroad 
-Arizona Public Service Corporation (P25)	 Project 25 Phase II	 AZ Statewide	Arizona Wireless Integrated Network System (Az Wins)	 Project 25 Phase I	 AZ Statewide	Com Rents Inc	 NXDN NEXEDGE 4800
- Various	Freeport-McMoran Morenci	 DMR Motorola Connect Plus (TRBO)	 Morenci	Freeport-McMoran Safford	 DMR Motorola Connect Plus (TRBO)	 Safford	Statewide Emergency Mobile System
- Project 25 Phase I	 Mesa	
+155.09250 	   	WQFR547 	BM		GCSO - ROSE 	Sheriff - Rose Peak 	FMN 	Law Dispatch 
+155.64000 	159.36000  	WQFR547 	BM		GCSO - DISP 	Sheriff - Clifton 	FMN 	Law Dispatch 
+155.76750 	   	WQFR547 	BM		GCSO - ALPIN 	Sheriff - Alpine 	FMN 	Law Dispatch 
+156.17250 	159.36000  	WQFR547 	BM		GCSO - GUTPK 	Sheriff - Guthrie Peak 	FMN 	Law Dispatch 
+158.89500 	153.96500  	WQBB934 	RM		SAR 01 	SAR F1 - Low power repeater 	FMN 	Interop 
+158.94000 	   	WQBB934 	RM		SAR 02 	SAR F2 - Simplex 	FMN 	Interop 
+453.67500 	458.67500  	WPEI235 	RM		GCSO - 2 	Sheriff - F2 - Rose Peak (North) - Patched to Ch1 	FMN 	Law Dispatch 
+460.05000 	465.05000  	WPEI235 	BM		GC HWY MAINT 	Highway Maintenance 	FMN 	Public Works 
+460.45000 	465.45000  	WPEI235 	RM		GCSO - 1 	Sheriff F1 - Guthrie Peak (South) - Patched to Ch2 	FMN 	Law Dispatch 
+159.19500 	   	 	RM		Air Evac GLC 	TAC 	FMN 	EMS-Tac 
+154.96500 	   	KFP360 	BM		CLIF FD&PW 	Fire Department & Public Works 	FMN 	Multi-Dispatch 
+158.77500 	153.84500  	WPEM292 	RM		CLIF PD 	Police - Dispatch 	FMN 	Law Dispatch 
+155.25000 	   	KFF325 	BM		CLIF ANMLCTL 	Animal Control 	FMN 	Public Works 
+155.83500 	   	WNLG666 	RM		CLIFPD InCy 	Police - "Inter-City" 	FMN 	Law Tac 
+154.19750 	158.75250  	WQCM959 	RM		DUNCAN PW 	Public Works 	FMN 	Public Works 
+460.57500 	   	WQAQ893 	BM	123.0 PL	DVFD - Rptr 	Guthrie Repeather 	FMN 	Fire-Tac 
+460.57500 	   	WQAQ893 	BM	156.7 PL	DVFD - Disp 	Dispatch 	FMN 	Fire Dispatch 
+146.88000 	   	 	RM		Grnlee Skywr 	Skywarn Net 	FM 	Ham 
+122.90000 	   	 	BM		Grnlee CTAF 	CTAF 	AM 	Aircraft 
+153.57500 	   	WPQI298 	M	023 DPL	FMC TrainOps 	Train Operations 	FMN 	Railroad 
+Arizona Public Service Corporation (P25)	 Project 25 Phase II	 AZ Statewide	Arizona Wireless Integrated Network System (Az Wins)	 Project 25 Phase I	 AZ Statewide	Com Rents Inc	 NXDN NEXEDGE 4800	 Various
+Freeport-McMoran Morenci	 DMR Motorola Connect Plus (TRBO)	 Morenci	Freeport-McMoran Safford	 DMR Motorola Connect Plus (TRBO)	 Safford	Statewide Emergency Mobile System	 Project 25 Phase I	 Mesa

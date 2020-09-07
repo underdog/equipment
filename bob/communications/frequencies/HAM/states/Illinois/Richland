@@ -1,38 +1,38 @@
-158.79000 	KSA941 	RM	32D NAC|TG 1	Rich Sheriff P25 	Sheriff: Dispatch [Ch 1] (in the clear)  	P25 	Law Dispatch 
-158.79000 	KSA941 	RM	179.9 PL	Rich Sheriff FMN 	Sheriff: Dispatch - Auxillary/Events 	FMN 	Law Tac 
-154.65000 	KSA941 	M		Rich Shrf Tac5  	Sheriff: Tactical [Ch 5] 	FMN 	Law Tac 
-156.00000 	KA49900 	M		Rich Shrf c2c  	Sheriff: Car-to-Car [Expired] 	FMN 	Law Tac 
-156.19500 	WPRJ466 	RM	162.2 PL	Rich Highway 1  	Highway Department 	FMN 	Public Works 
-151.05500 	KBT343 	BM	97.4 PL	Rich Highway 2  	Highway Department 	FMN 	Public Works 
-151.68500 	WPDH643 	BM		RMH Ops/Mnt 	Ops / Maintenance 	FMN 	Business 
-457.45000 	WPDH643 	M		RMH Maintnce 	Maintenance  	FMN 	Business 
-155.22000 	WSZ402 	BM	179.9 PL	Richland EMS 	EMS: Dispatch  	FMN 	EMS Dispatch 
-460.57500 	WSZ402 	F		Rich EMS RF1 	EMS: Remote Link (Haven Hill) 	FMN 	EMS-Tac 
-465.57500 	WSZ402 	F		Rich EMS RF2 	EMS: Remote Link (Hospital) 	FMN 	EMS-Tac 
-155.34000 	WSZ402 	BM	136.5 PL	MERCI1 136.5 	Patient Reports 	FMN 	Hospital 
-163.25000 	KYJ226 	B		RMH Paging 	Tone/Voice Paging (CSQ) 	FMN 	Data 
-151.01000 	WNYH395 	M		NobleTwpRoad 	Noble Township Roads 	FMN 	Public Works 
-151.08500 	KNCM592 	RM		OlneyTwpRoad 	Olney Township Roads 	FMN 	Public Works 
-151.11500 	WQRA219 	BM		ClarTwpRoads 	Claremont Township Roads [Canceled 5/14] 	FMN 	Public Works 
-159.18000 	WQJF833 	BM		GermnTwpRoad 	German Township Roads 	FMN 	Public Works 
-151.23500 	WQRH484 	RM	179.9 PL	C-B Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
-453.75000 	WNVK358 	F		CB VFD RF1 	Fire: Remote Receive Link (Water Tower) 	FMN 	Fire Dispatch 
-458.75000 	WNVK358 	F		CB VFD RF2 	Fire: Remote Dispatch Link - Olney 	FMN 	Fire Dispatch 
-154.43000 	WNVK358 	BM		CB Firegrnd 	Fireground 	FMN 	Fire-Tac 
-151.00250 	WQQJ710  	RM	445 DPL	Noble Fire 	Fire Paging / Dispatch 	FMN 	Fire Dispatch 
-458.40000 	WQKJ691 	F	123.0 PL	Noble Fire RF1 	Fire: Remote Transmit Link [FX1 Olney] [Expired 6/19] 	FMN 	Fire Dispatch 
-453.40000 	WQKJ691 	F	123.0 PL	Noble Fire RF2 	Fire: Remote Recieve Link [FX2 Noble] [Expired 6/19] 	FMN 	Fire Dispatch 
-154.35500 	WQPU356 	RM	2F3 NAC	OlneyPolice1 	Police: Dispatch 	P25 	Law Dispatch 
-155.98500 	KA93452 	M		Olney Police C2C 	Police: Car-to-Car 	FMN 	Law Tac 
-460.60000 	KAR440 	F		Olney Fire RF2  	Fire: Remote Recieve Link (Parker/:Ludlow) 	FMN 	Fire Dispatch 
-465.60000 	KAR440 	F		Olney Fire RF3  	Fire: Remote Receive Link (211 Market) 	FMN 	Fire Dispatch 
-151.20500 	WQPU356 	RM	516 DPL	Olney PubWrks 	City Hall / Public Works 	FMN 	Public Works 
-151.08500 	KNCM592 	BM		Olney Street 	Street Department 	FMN 	Public Works 
-453.62500 	WNFF806 	RM		Olny Gvrnmt1 	Government Services 	FMN 	Public Works 
-453.85000 	WNFF806 	RM		Olny Gvrnmt2 	Government Services 	FMN 	Public Works 
-457.82500 	WPYP953 	F		Prkrsbrg WDD 	Water Distribution Data 	Telm 	Data 
-153.14000 	KKH918 	RM	146.2 PL	RichCo Sch Ops 	East Richland School 	FMN 	Schools 
-155.16000 	KUE652 	BM	123.0 PL	ERich Sch Bus 	E Richland CUSD1: Buses 	FMN 	Schools 
-155.20500 	WQRP769 	BM		WRich Sch Bus 	Operations (old West) 	FMN 	Schools 
-Norris Electric Cooperative (IL)	 DMR Conventional Networked	 Newton	VEI Communications FleetTalk	 NXDN NEXEDGE 4800	 Various	VEI Communications LTR	 LTR Standard
- Multiple	
+158.79000 	153.78500  	KSA941 	RM	32D NAC|TG 1	Rich Sheriff P25 	Sheriff: Dispatch [Ch 1] (in the clear)  	P25 	Law Dispatch 
+158.79000 	153.78500  	KSA941 	RM	179.9 PL	Rich Sheriff FMN 	Sheriff: Dispatch - Auxillary/Events 	FMN 	Law Tac 
+154.65000 	   	KSA941 	M		Rich Shrf Tac5  	Sheriff: Tactical [Ch 5] 	FMN 	Law Tac 
+156.00000 	   	KA49900 	M		Rich Shrf c2c  	Sheriff: Car-to-Car [Expired] 	FMN 	Law Tac 
+156.19500 	159.04500  	WPRJ466 	RM	162.2 PL	Rich Highway 1  	Highway Department 	FMN 	Public Works 
+151.05500 	   	KBT343 	BM	97.4 PL	Rich Highway 2  	Highway Department 	FMN 	Public Works 
+151.68500 	   	WPDH643 	BM		RMH Ops/Mnt 	Ops / Maintenance 	FMN 	Business 
+457.45000 	   	WPDH643 	M		RMH Maintnce 	Maintenance  	FMN 	Business 
+155.22000 	   	WSZ402 	BM	179.9 PL	Richland EMS 	EMS: Dispatch  	FMN 	EMS Dispatch 
+460.57500 	   	WSZ402 	F		Rich EMS RF1 	EMS: Remote Link (Haven Hill) 	FMN 	EMS-Tac 
+465.57500 	   	WSZ402 	F		Rich EMS RF2 	EMS: Remote Link (Hospital) 	FMN 	EMS-Tac 
+155.34000 	   	WSZ402 	BM	136.5 PL	MERCI1 136.5 	Patient Reports 	FMN 	Hospital 
+163.25000 	   	KYJ226 	B		RMH Paging 	Tone/Voice Paging (CSQ) 	FMN 	Data 
+151.01000 	   	WNYH395 	M		NobleTwpRoad 	Noble Township Roads 	FMN 	Public Works 
+151.08500 	156.02250  	KNCM592 	RM		OlneyTwpRoad 	Olney Township Roads 	FMN 	Public Works 
+151.11500 	   	WQRA219 	BM		ClarTwpRoads 	Claremont Township Roads [Canceled 5/14] 	FMN 	Public Works 
+159.18000 	   	WQJF833 	BM		GermnTwpRoad 	German Township Roads 	FMN 	Public Works 
+151.23500 	159.40500  	WQRH484 	RM	179.9 PL	C-B Fire 	Fire: Dispatch  	FMN 	Fire Dispatch 
+453.75000 	   	WNVK358 	F		CB VFD RF1 	Fire: Remote Receive Link (Water Tower) 	FMN 	Fire Dispatch 
+458.75000 	   	WNVK358 	F		CB VFD RF2 	Fire: Remote Dispatch Link - Olney 	FMN 	Fire Dispatch 
+154.43000 	   	WNVK358 	BM		CB Firegrnd 	Fireground 	FMN 	Fire-Tac 
+151.00250 	155.76750  	WQQJ710  	RM	445 DPL	Noble Fire 	Fire Paging / Dispatch 	FMN 	Fire Dispatch 
+458.40000 	   	WQKJ691 	F	123.0 PL	Noble Fire RF1 	Fire: Remote Transmit Link [FX1 Olney] [Expired 6/19] 	FMN 	Fire Dispatch 
+453.40000 	   	WQKJ691 	F	123.0 PL	Noble Fire RF2 	Fire: Remote Recieve Link [FX2 Noble] [Expired 6/19] 	FMN 	Fire Dispatch 
+154.35500 	159.39000  	WQPU356 	RM	2F3 NAC	OlneyPolice1 	Police: Dispatch 	P25 	Law Dispatch 
+155.98500 	   	KA93452 	M		Olney Police C2C 	Police: Car-to-Car 	FMN 	Law Tac 
+460.60000 	   	KAR440 	F		Olney Fire RF2  	Fire: Remote Recieve Link (Parker/:Ludlow) 	FMN 	Fire Dispatch 
+465.60000 	   	KAR440 	F		Olney Fire RF3  	Fire: Remote Receive Link (211 Market) 	FMN 	Fire Dispatch 
+151.20500 	155.64000  	WQPU356 	RM	516 DPL	Olney PubWrks 	City Hall / Public Works 	FMN 	Public Works 
+151.08500 	   	KNCM592 	BM		Olney Street 	Street Department 	FMN 	Public Works 
+453.62500 	458.62500  	WNFF806 	RM		Olny Gvrnmt1 	Government Services 	FMN 	Public Works 
+453.85000 	458.85000  	WNFF806 	RM		Olny Gvrnmt2 	Government Services 	FMN 	Public Works 
+457.82500 	   	WPYP953 	F		Prkrsbrg WDD 	Water Distribution Data 	Telm 	Data 
+153.14000 	158.44500  	KKH918 	RM	146.2 PL	RichCo Sch Ops 	East Richland School 	FMN 	Schools 
+155.16000 	   	KUE652 	BM	123.0 PL	ERich Sch Bus 	E Richland CUSD1: Buses 	FMN 	Schools 
+155.20500 	   	WQRP769 	BM		WRich Sch Bus 	Operations (old West) 	FMN 	Schools 
+Norris Electric Cooperative (IL)	 DMR Conventional Networked	 Newton	Rides Mass Transit District (DMR)	 DMR Conventional Networked	 Southern IL	VEI Communications FleetTalk	 NXDN NEXEDGE 4800	 Various
+VEI Communications LTR	 LTR Standard	 Multiple	

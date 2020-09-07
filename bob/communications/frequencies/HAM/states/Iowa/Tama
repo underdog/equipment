@@ -1,28 +1,27 @@
-151.26500 	KAD482 	RM	82.5 PL	Tama Co Sh 	Sheriff Dispatch 	FMN 	Law Dispatch 
-155.31000 	KAD482 	RM	146.2 PL	Tama Co Info 	Sheriff Information 	FMN 	Law Talk 
-154.20500 	WNCJ785 	BM	CSQ	TamaFirePage 	Fire Dispatch - 146.2 PL on Mobiles 	FMN 	Fire Dispatch 
-159.24000 	WQIF867 	RM	203.5 PL	TamaFireOps 	Fire Response and Operations 	FMN 	Fire-Tac 
-153.81500 	WQIP243 	M	146.2 PL	TamaFireTAC1 	Fire TAC 1 	FMN 	Fire-Tac 
-153.86000 	WQIP243 	M	146.2 PL	TamaFireTAC2 	Fire TAC 2 	FMN 	Fire-Tac 
-159.01500 	WQIP243 	M	146.2 PL	TamaFireTAC3 	Fire TAC 3 	FMN 	Fire-Tac 
-151.10000 	WQIP243 	M	146.2 PL	TamaFireTAC4 	Fire TAC 4 	FMN 	Fire-Tac 
-153.74000 	 	RM	173.8 PL	Tama Co SR 	Search and Rescue 	FMN 	Emergency Ops 
-155.05500 	KNJH663 	BM	151.4 PL	Tama Consvt 	Conservation 	FMN 	Public Works 
-159.12000 	KEX223 	RM	94.8 PL	Tama Roads 	Road Department 	FMN 	Public Works 
-460.32500 	KAD482 	RM		 Tama Co DAT 	Data 	FMN 	Data 
-460.51250 	 	F	162.2 PL	Tama Co FX 	Relay for Fire Dispatch 	FMN 	Fire Dispatch 
-465.48750 	KAD482 	F	127.3 PL	Tama Co FX 	Relay for Sheriff Dispatch - Montour Site 	FMN 	Law Dispatch 
-465.51250 	KAD482 	F	146.2 PL	 Tama Co FX 	Relay for Sheriff Dispatch - Vining Site 	FMN 	Law Dispatch 
-465.53750 	KAD482 	F	146.2 PL	 Tama Co FX 	Relay for Sheriff Dispatch -Traer Site 	FMN 	Law Dispatch 
-465.56250 	KAD482 	F		 Tama Co FX 	Relay for Sheriff Dispatch - Gladbrook Site 	FMN 	Law Dispatch 
-154.83000 	KFM306 	RM	146.2 PL	Meskwaki PD 	Police Dispatch 	FM 	Law Dispatch 
-155.95500 	WRV720 	BM	146.2 PL	Tama Cty PW 	Police Car to Car / Public Works 	FM 	Multi-Tac 
-155.13000 	WQRN694 	RM	223 DPL	T&T PD Ops 	Dispatch 	FMN 	Law Dispatch 
-154.10000 	WPGI325 	BM	146.2 PL	TOL PD CAR 	Police Car-to-Car 	FM 	Law Talk 
-452.85000 	WPLH758 	F		 WT DATA 	Water Tower Data 	Telm 	Data 
-453.30000 	WPNT387 	RM	CC 1TG *SL 1	S&F TRIBE PW 	Public Works 	DMR 	Public Works 
-452.15000 	WQAW311 	RM	71.9 PL	S&F Schools 	Sac and Fox School 	FMN 	Schools 
-155.88000 	WPZB403 	BM	156.7 PL	Elberon Fire 	Fireground 	FMN 	Fire-Tac 
-Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	Iowa Premium Beef	 DMR Motorola Capacity Plus Single Site (TRBO)
- Toledo	Meskwaki Bingo-Casino-Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tama	RACOM Network	 EDACS Networked Standard	 Various	T.I.P. Rural Electric Cooperative
- DMR Conventional Networked	 Brooklyn	
+151.26500 	159.27000  	KAD482 	RM	82.5 PL	Tama Co Sh 	Sheriff Dispatch 	FMN 	Law Dispatch 
+155.31000 	155.91000  	KAD482 	RM	146.2 PL	Tama Co Info 	Sheriff Information 	FMN 	Law Talk 
+154.20500 	   	WNCJ785 	BM	CSQ	TamaFirePage 	Fire Dispatch - 146.2 PL on Mobiles 	FMN 	Fire Dispatch 
+159.24000 	153.77000  	WQIF867 	RM	203.5 PL	TamaFireOps 	Fire Response and Operations 	FMN 	Fire-Tac 
+153.81500 	   	WQIP243 	M	146.2 PL	TamaFireTAC1 	Fire TAC 1 	FMN 	Fire-Tac 
+153.86000 	   	WQIP243 	M	146.2 PL	TamaFireTAC2 	Fire TAC 2 	FMN 	Fire-Tac 
+159.01500 	   	WQIP243 	M	146.2 PL	TamaFireTAC3 	Fire TAC 3 	FMN 	Fire-Tac 
+151.10000 	   	WQIP243 	M	146.2 PL	TamaFireTAC4 	Fire TAC 4 	FMN 	Fire-Tac 
+153.74000 	   	 	RM	173.8 PL	Tama Co SR 	Search and Rescue 	FMN 	Emergency Ops 
+155.05500 	   	KNJH663 	BM	151.4 PL	Tama Consvt 	Conservation 	FMN 	Public Works 
+159.12000 	156.12000  	KEX223 	RM	94.8 PL	Tama Roads 	Road Department 	FMN 	Public Works 
+460.32500 	465.32500  	KAD482 	RM		 Tama Co DAT 	Data 	FMN 	Data 
+460.51250 	   	 	F	162.2 PL	Tama Co FX 	Relay for Fire Dispatch 	FMN 	Fire Dispatch 
+465.48750 	   	KAD482 	F	127.3 PL	Tama Co FX 	Relay for Sheriff Dispatch - Montour Site 	FMN 	Law Dispatch 
+465.51250 	   	KAD482 	F	146.2 PL	 Tama Co FX 	Relay for Sheriff Dispatch - Vining Site 	FMN 	Law Dispatch 
+465.53750 	   	KAD482 	F	146.2 PL	 Tama Co FX 	Relay for Sheriff Dispatch -Traer Site 	FMN 	Law Dispatch 
+465.56250 	   	KAD482 	F		 Tama Co FX 	Relay for Sheriff Dispatch - Gladbrook Site 	FMN 	Law Dispatch 
+154.83000 	159.43500  	KFM306 	RM	146.2 PL	Meskwaki PD 	Police Dispatch 	FM 	Law Dispatch 
+155.95500 	   	WRV720 	BM	146.2 PL	Tama Cty PW 	Police Car to Car / Public Works 	FM 	Multi-Tac 
+155.13000 	159.39250  	WQRN694 	RM	223 DPL	T&T PD Ops 	Dispatch 	FMN 	Law Dispatch 
+154.10000 	   	WPGI325 	BM	146.2 PL	TOL PD CAR 	Police Car-to-Car 	FM 	Law Talk 
+452.85000 	   	WPLH758 	F		 WT DATA 	Water Tower Data 	Telm 	Data 
+453.30000 	458.30000  	WPNT387 	RM	CC 1TG *SL 1	S&F TRIBE PW 	Public Works 	DMR 	Public Works 
+452.15000 	457.15000  	WQAW311 	RM	71.9 PL	S&F Schools 	Sac and Fox School 	FMN 	Schools 
+155.88000 	150.79000  	WPZB403 	BM	156.7 PL	Elberon Fire 	Fireground 	FMN 	Fire-Tac 
+Alliant Energy	 DMR Tier 3	 Various	Corn Belt Power Cooperative	 DMR Motorola Connect Plus (TRBO)	 Multiple	Iowa Premium Beef	 DMR Motorola Capacity Plus Single Site (TRBO)	 Toledo
+Meskwaki Bingo-Casino-Hotel	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tama	RACOM Network	 EDACS Networked Standard	 Various	T.I.P. Rural Electric Cooperative	 DMR Conventional Networked	 Brooklyn

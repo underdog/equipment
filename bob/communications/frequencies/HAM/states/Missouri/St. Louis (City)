@@ -1,73 +1,73 @@
-45.86000 	WPHS224 	B	151.4 PL	LB S/W P/P 	Point-to-Point (back-up to 155.37) 	FM 	Law Talk 
-764.05625 	WQFX336 	M		SLMPD Interop 1  	Interoperability / Mutual Aid 	P25 	Interop 
-764.06875 	WQFX336 	M		SLMPD Interop 2 	Interoperability / Mutual Aid 	P25 	Interop 
-775.99375 	WQFX336 	M		SLMPD Interop 3  	Interoperability / Mutual Aid 	P25 	Interop 
-794.05625 	WQFX336 	M		SLMPD Interop 4  	Interoperability / Mutual Aid 	P25 	Interop 
-794.06875 	WQFX336 	M		SLMPD Interop 5  	Interoperability / Mutual Aid 	P25 	Interop 
-805.99375 	WQFX336 	M		SLMPD Interop 6  	Interoperability / Mutual Aid 	P25 	Interop 
-453.15000 	KJD937 	F	411 DPL	StL CEMA Sirens1 	St. Louis City Sirens (also CSQ?) [Canceled 	FMN 	Data 
-458.15000 	WAN949 	F		StL CEMA Sirens2 	St. Louis City Sirens [CSQ] WFK499 	Telm 	Data 
-154.13000 	KAG632 	B	203.5 PL	StLFD Disp 1 	Fire: Dispatch -Station Alerts (2100 - 0700) [Expired] 	FMN 	Fire Dispatch 
-952.71875 	WNTS873 	F		StLFD MW RF 	Fire: Microwave Link (Fire Alarm Manager) 	FMN 	Data 
-153.53000 	WQGN237 	BM	186.2 PL	StL DSTEP 1 	Operations 1 [Expired 3/17] 	FMN 	Emergency Ops 
-155.71500 	KDZ387 	BM	179.9 PL	StL DSTEP 2 	Operations 2 	FMN 	Emergency Ops 
-462.66250 	 	M	136.5 PL	SLC Shrf Janitor 	Sheriff: Building Janitors 	FMN 	Public Works 
-453.20000 	WDT462 	RM	107.2 PL	StL ACT Ops 	Civil Courts Building: Ops (WFN221) 	FMN 	Public Works 
-451.93750 	WQTD354 	RM	CC 1TG 101SL 1	SLC Library 101 	St Louis City Public Library: Ops 	DMR 	Public Works 
-857.96250 	WPRF605 	BM	205 DPL	ArsSH Ops 	Operations (simplex, licensed as R) 	FM 	Business 
-453.07500 	KNGE389 	B		ArsSH PG 	Paging  	Telm 	Data 
-463.71250 	WQPE871 	RM	CC 5TG 1111SL 1	StAlex Security 	Security 	DMR 	Security 
-462.16250 	WQPE871 	RM	186.2 PL	StAlex Sec/Mnt B 	Security / Maintenance (100.0?) 	FMN 	Business 
-155.34000 	WQPW212 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
-461.42500 	KNNJ719 	RM	051 DPL	Lind Sch Bus 	Lindbergh School: Buses 	FMN 	Schools 
-464.90000 	WPUL525 	RM		StCy Sch Sec 	Security Guards (Theresa School) (186.2?) 	FMN 	Security 
-452.70000 	WPUL525 	M		StCy Sch Op1 	Board of Education 	FMN 	Schools 
-457.70000 	WPUL525 	M		StCy Sch Op2 	Board of Education 	FMN 	Schools 
-462.47500 	WPUL525 	M		StCy Sch Op3 	Board of Education 	FMN 	Schools 
-467.47500 	WPUL525 	M		StCy Sch Op4 	Board of Education 	FMN 	Schools 
-451.55000 	WQOM490 	RM	54 RAN	Blow Mid Sch 	Blow Middle School [TG 1] 	NXDN 	Schools 
-451.17500 	WQOL752 	RM		Jeff ElemSch 	Jefferson Elementary (in use) 	NXDN 	Schools 
-463.85000 	WQOL752 	RM		Solden HS 	Solden High School (in use) 	NXDN 	Schools 
-462.47500 	WQOM490 	RM		SLC School 	School (in use) 	NXDN 	Schools 
-451.52500 	WQOL752 	RM		Sigel School 	Sigel School (in use) 	FMN 	Schools 
-451.65000 	 	RM		Walbridge El 	Walbridge Elementary (in use) 	FMN 	Schools 
-451.67500 	WQOM490 	RM		Oak Hill Ele 	Oak Hill Elementary (in use) 	FMN 	Schools 
-452.82500 	 	RM		Sumner High  	Sumner High School (in use) 	FMN 	Schools 
-452.82500 	WQOM490 	RM		Mason Elemen 	Mason Elementary (in use) 	FMN 	Schools 
-452.87500 	WQOM490 	RM		Monroe Eleme 	Monroe Elementary (in use) 	FMN 	Schools 
-462.52500 	WQOM490 	RM		Dewey School 	Dewey School (in use) 	FMN 	Schools 
-463.85000 	 	RM		Solden High  	Solden High School (in use) 	FMN 	Schools 
-461.37500 	WQBJ552 	RM	173.8 PL	FS StL Union 	Union Base (Union 70 Center) 	FMN 	Schools 
-464.10000 	WNJQ665 	RM	162.2 PL	FS StL Brown 	Brown Base (411 Brown Ave) 	FMN 	Schools 
-855.51250 	WPHK739 	RM	156.7 PL	FS StLC Krkw 	Kirkwood Base (544 Clark Ave) 	FMN 	Schools 
-461.65000 	WNJQ665 	RM	179.9 PL	FS StLC Bus2 	Operations 	FMN 	Schools 
-464.55000 	KD36042 	M		Lutheran HS 	Lutheran High School South 	FMN 	Schools 
-464.62500 	WRAJ782 	RM	CC 1TG 2SL 2	STLUHS Ops 2 	Maintenance (?) 	DMR 	Schools 
-464.62500 	WRAJ782 	RM	CC 1TG 3SL 1	STLUHS Buses 3 	Buses 	DMR 	Schools 
-461.78750 	WPTX907 	RM	CC 3TG 100SL 1	HSSC Security 	Security  	DMR 	Schools 
-152.39000 	WQGH826 	RM	CC 2TG 1SL 1	Ranken Security 	Security [Expired 2017] 	DMR 	Security 
-462.11250 	WQUX931 	RM		STL COP Ops 	Operations (in use) 	DMR 	Schools 
-461.48750 	WQIU325 	RM	134 DPL	SLU Ops 1 	Athletics/Event Arena: Ops 	FMN 	Schools 
-462.06250 	WQIU325 	RM	CC 2TG 11SL 1	SLU Ops 2A 	Ops / Parking Garage: Security 	DMR 	Schools 
-462.06250 	WQIU325 	RM	CC 2TG 12SL 2	SLU Ops 2B 	Ops / Parking Garage: Ops 	DMR 	Schools 
-451.56250 	WQIU325 	M		SLU Ops 4 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
-452.06250 	WQIU325 	M		SLU Ops 5 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
-452.63750 	WQIU325 	M		SLU Ops 6 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
-457.68750 	WQIU325 	M		SLU Ops 7 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
-457.71250 	WQIU325 	M	244 DPL	SLU Ops 8 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
-457.78750 	WQIU325 	M		SLU Ops 9 	Campus Ops/Athletics/Event Arena 	FMN 	Schools 
-462.48750 	WQIU325 	M		SLU Ops 11 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
-467.18750 	WQIU325 	M		SLU Ops 12 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
-467.46250 	WQIU325 	M		SLU Ops 13 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
-467.48750 	WQIU325 	M		SLU Ops 14 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
-463.97500 	WPQA610 	RM		SLU Ops 17 	Building Services/PIUS Library Bldg 	FMN 	Schools 
-463.80000 	WRDR514   	RM	CC 2TG 2SL 2	DSTL Security 2 	Security 	DMR 	Security 
-463.82500 	WPUB624 	RM		DSTL Ops 	Operations 	DMR 	Business 
-463.80000 	WPUB624 	RM	723 DPL	DV Security 	Security (Former) 	FMN 	Security 
-AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Anheuser-Busch St. Louis Brewery	 Motorola Type II Smartnet	 St Louis City	Bayer/Monsanto - St Louis MO	 DMR Motorola Capacity Plus Multi Site (TRBO)
- St. Louis	Federal Reserve Bank - St Louis MO	 DMR Motorola Capacity Plus Single Site (TRBO)	 St Louis City	First Student - St. Louis (LTR)	 LTR Standard	 St. Louis	Lumiere Place Casino and Hotels - St. Louis (NXDN)
- NXDN NEXEDGE 9600	 St Louis City	Mallinkrodt/SpecGx - St Louis MO	 LTR Standard	 St Louis (City)	Nestle Purina Company - St Louis MO	 DMR Motorola Capacity Plus Multi Site (TRBO)	 St. Louis
-Southwest Airlines - Lambert St Louis (MO)	 DMR Motorola Capacity Plus Single Site (TRBO)	 St Louis MO	St Louis Cardinals	 DMR Motorola Capacity Plus Multi Site (TRBO)	 St Louis City	St Louis City Public Schools (NID 375)	 NXDN NEXEDGE 4800
- Saint Louis (City)	St. Louis Union Station	 DMR Tier 3	 St Louis City	Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro	Warner Communications - St Louis (DMR-UHF)
- DMR Conventional Networked	 St Louis	Warner Communications - UHF 15 (Clayton/Hillsboro)	 LTR Standard	 Clayton	Warner Communications - UHF A	 LTR Standard	 Marlborough
-Warner Communications-BJC Hospitals (NXDN)	 NXDN NEXEDGE 4800	 St Louis	WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	
+45.86000 	   	WPHS224 	B	151.4 PL	LB S/W P/P 	Point-to-Point (back-up to 155.37) 	FM 	Law Talk 
+764.05625 	   	WQFX336 	M		SLMPD Interop 1  	Interoperability / Mutual Aid 	P25 	Interop 
+764.06875 	   	WQFX336 	M		SLMPD Interop 2 	Interoperability / Mutual Aid 	P25 	Interop 
+775.99375 	   	WQFX336 	M		SLMPD Interop 3  	Interoperability / Mutual Aid 	P25 	Interop 
+794.05625 	   	WQFX336 	M		SLMPD Interop 4  	Interoperability / Mutual Aid 	P25 	Interop 
+794.06875 	   	WQFX336 	M		SLMPD Interop 5  	Interoperability / Mutual Aid 	P25 	Interop 
+805.99375 	   	WQFX336 	M		SLMPD Interop 6  	Interoperability / Mutual Aid 	P25 	Interop 
+453.15000 	   	KJD937 	F	411 DPL	StL CEMA Sirens1 	St. Louis City Sirens (also CSQ?) [Canceled 	FMN 	Data 
+458.15000 	   	WAN949 	F		StL CEMA Sirens2 	St. Louis City Sirens [CSQ] WFK499 	Telm 	Data 
+154.13000 	   	KAG632 	B	203.5 PL	StLFD Disp 1 	Fire: Dispatch -Station Alerts (2100 - 0700) [Expired] 	FMN 	Fire Dispatch 
+952.71875 	928.71875  	WNTS873 	F		StLFD MW RF 	Fire: Microwave Link (Fire Alarm Manager) 	FMN 	Data 
+153.53000 	   	WQGN237 	BM	186.2 PL	StL DSTEP 1 	Operations 1 [Expired 3/17] 	FMN 	Emergency Ops 
+155.71500 	   	KDZ387 	BM	179.9 PL	StL DSTEP 2 	Operations 2 	FMN 	Emergency Ops 
+462.66250 	   	 	M	136.5 PL	SLC Shrf Janitor 	Sheriff: Building Janitors 	FMN 	Public Works 
+453.20000 	458.20000  	WDT462 	RM	107.2 PL	StL ACT Ops 	Civil Courts Building: Ops (WFN221) 	FMN 	Public Works 
+451.93750 	456.93750  	WQTD354 	RM	CC 1TG 101SL 1	SLC Library 101 	St Louis City Public Library: Ops 	DMR 	Public Works 
+857.96250 	   	WPRF605 	BM	205 DPL	ArsSH Ops 	Operations (simplex, licensed as R) 	FM 	Business 
+453.07500 	   	KNGE389 	B		ArsSH PG 	Paging  	Telm 	Data 
+463.71250 	468.71250  	WQPE871 	RM	CC 5TG 1111SL 1	StAlex Security 	Security 	DMR 	Security 
+462.16250 	467.16250  	WQPE871 	RM	186.2 PL	StAlex Sec/Mnt B 	Security / Maintenance (100.0?) 	FMN 	Business 
+155.34000 	   	WQPW212 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+461.42500 	466.42500  	KNNJ719 	RM	051 DPL	Lind Sch Bus 	Lindbergh School: Buses 	FMN 	Schools 
+464.90000 	469.90000  	WPUL525 	RM		StCy Sch Sec 	Security Guards (Theresa School) (186.2?) 	FMN 	Security 
+452.70000 	   	WPUL525 	M		StCy Sch Op1 	Board of Education 	FMN 	Schools 
+457.70000 	   	WPUL525 	M		StCy Sch Op2 	Board of Education 	FMN 	Schools 
+462.47500 	   	WPUL525 	M		StCy Sch Op3 	Board of Education 	FMN 	Schools 
+467.47500 	   	WPUL525 	M		StCy Sch Op4 	Board of Education 	FMN 	Schools 
+451.55000 	456.55000  	WQOM490 	RM	54 RAN	Blow Mid Sch 	Blow Middle School [TG 1] 	NXDN 	Schools 
+451.17500 	456.17500  	WQOL752 	RM		Jeff ElemSch 	Jefferson Elementary (in use) 	NXDN 	Schools 
+463.85000 	468.85000  	WQOL752 	RM		Solden HS 	Solden High School (in use) 	NXDN 	Schools 
+462.47500 	467.47500  	WQOM490 	RM		SLC School 	School (in use) 	NXDN 	Schools 
+451.52500 	456.52500  	WQOL752 	RM		Sigel School 	Sigel School (in use) 	FMN 	Schools 
+451.65000 	456.65000  	 	RM		Walbridge El 	Walbridge Elementary (in use) 	FMN 	Schools 
+451.67500 	456.67500  	WQOM490 	RM		Oak Hill Ele 	Oak Hill Elementary (in use) 	FMN 	Schools 
+452.82500 	457.82500  	 	RM		Sumner High  	Sumner High School (in use) 	FMN 	Schools 
+452.82500 	457.82500  	WQOM490 	RM		Mason Elemen 	Mason Elementary (in use) 	FMN 	Schools 
+452.87500 	457.85000  	WQOM490 	RM		Monroe Eleme 	Monroe Elementary (in use) 	FMN 	Schools 
+462.52500 	467.52500  	WQOM490 	RM		Dewey School 	Dewey School (in use) 	FMN 	Schools 
+463.85000 	468.85000  	 	RM		Solden High  	Solden High School (in use) 	FMN 	Schools 
+461.37500 	466.37500  	WQBJ552 	RM	173.8 PL	FS StL Union 	Union Base (Union 70 Center) 	FMN 	Schools 
+464.10000 	469.10000  	WNJQ665 	RM	162.2 PL	FS StL Brown 	Brown Base (411 Brown Ave) 	FMN 	Schools 
+855.51250 	810.51250  	WPHK739 	RM	156.7 PL	FS StLC Krkw 	Kirkwood Base (544 Clark Ave) 	FMN 	Schools 
+461.65000 	466.65000  	WNJQ665 	RM	179.9 PL	FS StLC Bus2 	Operations 	FMN 	Schools 
+464.55000 	   	KD36042 	M		Lutheran HS 	Lutheran High School South 	FMN 	Schools 
+464.62500 	469.62500  	WRAJ782 	RM	CC 1TG 2SL 2	STLUHS Ops 2 	Maintenance (?) 	DMR 	Schools 
+464.62500 	469.62500  	WRAJ782 	RM	CC 1TG 3SL 1	STLUHS Buses 3 	Buses 	DMR 	Schools 
+461.78750 	466.78750  	WPTX907 	RM	CC 3TG 100SL 1	HSSC Security 	Security  	DMR 	Schools 
+152.39000 	157.65000  	WQGH826 	RM	CC 2TG 1SL 1	Ranken Security 	Security [Expired 2017] 	DMR 	Security 
+462.11250 	467.11250  	WQUX931 	RM		STL COP Ops 	Operations (in use) 	DMR 	Schools 
+461.48750 	467.48750  	WQIU325 	RM	134 DPL	SLU Ops 1 	Athletics/Event Arena: Ops 	FMN 	Schools 
+462.06250 	467.06250  	WQIU325 	RM	CC 2TG 11SL 1	SLU Ops 2A 	Ops / Parking Garage: Security 	DMR 	Schools 
+462.06250 	467.06250  	WQIU325 	RM	CC 2TG 12SL 2	SLU Ops 2B 	Ops / Parking Garage: Ops 	DMR 	Schools 
+451.56250 	   	WQIU325 	M		SLU Ops 4 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
+452.06250 	   	WQIU325 	M		SLU Ops 5 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
+452.63750 	   	WQIU325 	M		SLU Ops 6 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
+457.68750 	   	WQIU325 	M		SLU Ops 7 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
+457.71250 	   	WQIU325 	M	244 DPL	SLU Ops 8 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
+457.78750 	   	WQIU325 	M		SLU Ops 9 	Campus Ops/Athletics/Event Arena 	FMN 	Schools 
+462.48750 	   	WQIU325 	M		SLU Ops 11 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
+467.18750 	   	WQIU325 	M		SLU Ops 12 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
+467.46250 	   	WQIU325 	M		SLU Ops 13 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
+467.48750 	   	WQIU325 	M		SLU Ops 14 	Campus Ops/Athletics/Event Arena  	FMN 	Schools 
+463.97500 	   	WPQA610 	RM		SLU Ops 17 	Building Services/PIUS Library Bldg 	FMN 	Schools 
+463.80000 	468.80000  	WRDR514   	RM	CC 2TG 2SL 2	DSTL Security 2 	Security 	DMR 	Security 
+463.82500 	468.82500  	WRDR514 	RM		DSTL Ops 	Operations (CC6 ENC?) 	DMR 	Business 
+AmerenMissouri (P25)	 Project 25 Phase I	 St Louis Metro Area/E MO	Anheuser-Busch St. Louis Brewery	 Motorola Type II Smartnet	 St Louis City	Federal Reserve Bank - St Louis MO	 DMR Motorola Capacity Plus Single Site (TRBO)	 St Louis City
+First Student - St. Louis (LTR)	 LTR Standard	 St. Louis	Joint National Capital Region	 Project 25 Phase I	 Various	Lumiere Place Casino and Hotels - St. Louis (NXDN)	 NXDN NEXEDGE 9600	 St Louis City
+Mallinkrodt/SpecGx - St Louis MO	 LTR Standard	 St Louis (City)	Nestle Purina Company - St Louis MO	 DMR Motorola Capacity Plus Multi Site (TRBO)	 St. Louis	River City Casino (Lemay - St Louis)	 LTR Standard	 St Louis
+Saint Louis Science Center	 DMR Motorola Capacity Plus Single Site (TRBO)	 St Louis City	Southwest Airlines - Lambert St Louis (MO)	 DMR Motorola Capacity Plus Single Site (TRBO)	 St Louis MO	St Louis Cardinals	 DMR Motorola Capacity Plus Multi Site (TRBO)	 St Louis City
+St Louis City Public Schools (NID 375)	 NXDN NEXEDGE 4800	 Saint Louis (City)	St. Louis Metropolitan Sewer District	 DMR Motorola Capacity Plus Multi Site (TRBO)	 St. Louis 	St. Louis Union Station	 DMR Tier 3	 St Louis City
+St. Louis University (NXDN)	 NXDN NEXEDGE 9600	 St Louis City	Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro	Warner Communications - St Louis (DMR-UHF)	 DMR Conventional Networked	 St Louis
+Warner Communications - UHF 15 (Clayton/Hillsboro)	 LTR Standard	 Clayton	Warner Communications - UHF A	 LTR Standard	 Marlborough	Warner Communications - UHF LTR (St. Louis)	 LTR Standard	 St Louis 
+WirelessUSA (Tier 3)	 DMR Tier 3	 IL/MO	

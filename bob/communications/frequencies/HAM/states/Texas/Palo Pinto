@@ -1,28 +1,28 @@
-155.13000 	KKV356 	RM	127.3 PL	PPSO Disp 	Sheriff Dispatch/County Fire Dispatch 	FM 	Multi-Dispatch 
-148.02500 	 	M	CSQ	PPSO Talk 	Sheriff Talkaround "Channel 30" 	FM 	Law Talk 
-151.28750 	WQVY474 	RM	192.8 PL	PP FIRE NE 	PPCo FireNET Northeast Repeater 	FMN 	Fire-Tac 
-155.10000 	WQVY474 	RM	192.8 PL	PP FIRE NW 	PPCo FireNET Northwest Repeater 	FMN 	Fire-Tac 
-155.90250 	WQVY474 	RM	192.8 PL	PP FIRE SE 	PPCo FireNET Southeast Repeater 	FMN 	Fire-Tac 
-156.22500 	WQVY474 	RM	192.8 PL	PP FIRE SW 	PPCo FireNET Southwest Repeater 	FMN 	Fire-Tac 
-158.82000 	WQVY474 	RM	192.8 PL	PP FIRE CEN 	PPCo FireNET Central Repeater 	FMN 	Fire-Tac 
-154.28000 	 	M	156.7 PL	VFIRE21 	Fireground Ops 	FM 	Fire-Tac 
-154.26500 	 	M	156.7 PL	VFIRE22 	Fireground Ops 	FM 	Fire-Tac 
-154.29500 	 	M	156.7 PL	VFIRE23 	Fireground Ops 	FM 	Fire-Tac 
-154.27250 	 	M	156.7 PL	VFIRE24 	Fireground Ops 	FM 	Fire-Tac 
-154.30250 	 	M	156.7 PL	VFIRE26 	Fireground Ops 	FM 	Fire-Tac 
-155.34000 	 	BM	156.7 PL	VMED28 	Air-to-Ground Coms with EMS Helicopter 	FM 	EMS-Tac 
-152.28500 	WQGA561 	RM	606 DPL	PPGH 	Hospital Security / Maintenance 	FM 	Hospital 
-152.00750 	KAW943 	B	CSQ	Hosp Pgrs 	Hospital Pagers 	FM 	Hospital 
-159.00000 	WQDN682 	RM	167.9 PL	PP Roads 	County Road Maintenance 	FM 	Public Works 
-155.56500 	KZC627 	RM	162 NAC	MWPD P25 	Police Dispatch (Digital and Encrypted)) 	P25E 	Multi-Dispatch 
-155.56500 	KZC627 	RM	162.2 PL	MWPD Disp 	Fire/EMS Dispatch 	FM 	Multi-Dispatch 
-154.81500 	KZC627 	BM	162.2 PL	MWPD Tac 	Police (rarely used) 	FM 	Law Tac 
-158.91000 	KZC627 	BM	162.2 PL	MW OWS 	Outdoor Warning Sirens 	FM 	Data 
-154.41500 	WPQW698 	RM	162.2 PL	MW Fgrnd 	Fireground 	FM 	Fire-Tac 
-155.98500 	WRE511 	RM	156.7 PL	MW Pub Wks 	Public Works Dept 	FMN 	Public Works 
-152.45000 	 	RM	100.0 PL	MWISD Maint 	Maintenance 	FM 	Schools 
-154.44500 	WQJY435 	RM	162.2 PL	PKEast VFD 	Volunteer Fire/EMS 	FM 	Fire Dispatch 
-154.37000 	WNNF275 	RM	162.2 PL	PKWest VFD 	Volunteer Fire/EMS 	FM 	Fire Dispatch 
-155.04000 	WXM670 	RM	293 NAC	BRA PK 	Possum Kingdom Lake Patrol 	P25 	Law Talk 
-CSSI (Mineral Wells)	 LTR Standard	 Mineral Wells	Mobile Phone of Texas (Palo Pinto)	 LTR Standard	 Possum Kingdom Lake	Oncor Energy	 EDACS Narrowband Networked
- Various	Parker County (P25)	 Project 25 Phase I	 Parker County	
+155.13000 	156.15000  	KKV356 	RM	127.3 PL	PPSO Disp 	Sheriff Dispatch/County Fire Dispatch 	FM 	Multi-Dispatch 
+148.02500 	   	 	M	CSQ	PPSO Talk 	Sheriff Talkaround "Channel 30" 	FM 	Law Talk 
+151.28750 	158.97750  	WQVY474 	RM	192.8 PL	PP FIRE NE 	PPCo FireNET Northeast Repeater 	FMN 	Fire-Tac 
+155.10000 	159.12000  	WQVY474 	RM	192.8 PL	PP FIRE NW 	PPCo FireNET Northwest Repeater 	FMN 	Fire-Tac 
+155.90250 	154.10750  	WQVY474 	RM	192.8 PL	PP FIRE SE 	PPCo FireNET Southeast Repeater 	FMN 	Fire-Tac 
+156.22500 	159.00000  	WQVY474 	RM	192.8 PL	PP FIRE SW 	PPCo FireNET Southwest Repeater 	FMN 	Fire-Tac 
+158.82000 	154.07000  	WQVY474 	RM	192.8 PL	PP FIRE CEN 	PPCo FireNET Central Repeater 	FMN 	Fire-Tac 
+154.28000 	   	 	M	156.7 PL	VFIRE21 	Fireground Ops 	FM 	Fire-Tac 
+154.26500 	   	 	M	156.7 PL	VFIRE22 	Fireground Ops 	FM 	Fire-Tac 
+154.29500 	   	 	M	156.7 PL	VFIRE23 	Fireground Ops 	FM 	Fire-Tac 
+154.27250 	   	 	M	156.7 PL	VFIRE24 	Fireground Ops 	FM 	Fire-Tac 
+154.30250 	   	 	M	156.7 PL	VFIRE26 	Fireground Ops 	FM 	Fire-Tac 
+155.34000 	   	 	BM	156.7 PL	VMED28 	Air-to-Ground Coms with EMS Helicopter 	FM 	EMS-Tac 
+152.28500 	157.54500  	WQGA561 	RM	606 DPL	PPGH 	Hospital Security / Maintenance 	FM 	Hospital 
+152.00750 	   	KAW943 	B	CSQ	Hosp Pgrs 	Hospital Pagers 	FM 	Hospital 
+159.00000 	156.22500  	WQDN682 	RM	167.9 PL	PP Roads 	County Road Maintenance 	FM 	Public Works 
+155.56500 	154.74000  	KZC627 	RM	162 NAC	MWPD P25 	Police Dispatch (Digital and Encrypted)) 	P25E 	Multi-Dispatch 
+155.56500 	154.74000  	KZC627 	RM	162.2 PL	MWPD Disp 	Fire/EMS Dispatch 	FM 	Multi-Dispatch 
+154.81500 	   	KZC627 	BM	162.2 PL	MWPD Tac 	Police (rarely used) 	FM 	Law Tac 
+158.91000 	   	KZC627 	BM	162.2 PL	MW OWS 	Outdoor Warning Sirens 	FM 	Data 
+154.41500 	151.11500  	WPQW698 	RM	162.2 PL	MW Fgrnd 	Fireground 	FM 	Fire-Tac 
+155.98500 	154.83750  	WRE511 	RM	156.7 PL	MW Pub Wks 	Public Works Dept 	FMN 	Public Works 
+152.45000 	157.71000  	 	RM	100.0 PL	MWISD Maint 	Maintenance 	FM 	Schools 
+154.44500 	153.95000  	WQJY435 	RM	162.2 PL	PKEast VFD 	Volunteer Fire/EMS 	FM 	Fire Dispatch 
+154.37000 	153.77000  	WNNF275 	RM	162.2 PL	PKWest VFD 	Volunteer Fire/EMS 	FM 	Fire Dispatch 
+155.04000 	158.88000  	WXM670 	RM	293 NAC	BRA PK 	Possum Kingdom Lake Patrol 	P25 	Law Talk 
+BrandMeister Texas	 DMR Conventional Networked	 Various	CSSI (Mineral Wells)	 LTR Standard	 Mineral Wells	Mobile Phone of Texas (Palo Pinto)	 LTR Standard	 Possum Kingdom Lake
+Oncor Energy	 EDACS Narrowband Networked	 Various	Parker County (P25)	 Project 25 Phase I	 Parker County	

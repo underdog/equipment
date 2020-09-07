@@ -1,37 +1,37 @@
-154.37000 	WNRG463 	BM	146.2 PL	CCFR ToneOut 	Fire (Tone-outs) 	FM 	Fire Dispatch 
-154.00250 	WQFY512 	RM	205 DPL	CCFR North 	Fire - North 	FM 	Fire Dispatch 
-155.58750 	WQFY512 	RM	243 DPL	CCFR Central 	Fire - Central 	FM 	Fire Dispatch 
-159.21750 	WQFY512 	RM	343 DPL	CCFR South 	Fire - South 	FM 	Fire Dispatch 
-155.20500 	WQFY512 	RM	146.2 PL	CCEMS Disp 	EMS Dispatch 	FM 	EMS Dispatch 
-156.16500 	KLU920 	RM	146.2 PL	CCEMS Page 	EMS Paging   	FM 	EMS Dispatch 
-462.97500 	KLU920 	BM	146.2 PL	EMS/Trauma1  	EMS/ Trauma-One Flight 	FM 	EMS-Tac 
-156.10500 	WQDV836 	RM		CCEMS OPS 	EMS Operations 	FMN 	EMS-Tac 
-155.31000 	 	BM		ColumCo EMS 	EMS 	FMN 	EMS-Tac 
-463.00000 	KLU920 	BM	131.8 PL	EMS Med-1 	EMS Med-1 	FM 	EMS-Talk 
-463.15000 	VARIES 	BM	131.8 PL	CMC MED-7 	Medical Coordination 	FM 	EMS-Tac 
-463.11250 	WQDL726 	RM	131.8 PL	LCMC-M52 	EMS-to-Lake City Medical Center 	FM 	Hospital 
-463.16250 	WQDL726 	RM	131.8 PL	SHNDS-LS-M72 	EMS-to-Shands-Lake Shore 	FM 	Hospital 
-463.08750 	WQDL726 	RM	131.8 PL	LCVA-M42 	EMS-to-Lake City Veterans Affairs Hospital 	FM 	Hospital 
-155.01000 	KIF433 	RM	146.2 PL	CCSO1 	Sheriff Dispatch 	FM 	Law Dispatch 
-155.79000 	KIF433 	RM	146.2 PL	CCSO2 	Sheriff 2 	FM 	Law Talk 
-159.01500 	KIF433 	RM	186.2 PL	CCSO3 	Sheriff 3 	FM 	Law Talk 
-156.22500 	WPII312 	RM	146.2 PL	CCSOA 	Sheriff 4 	FM 	Law Talk 
-158.74500 	WPGF528 	RM		Columbia EMA 	Emergency Management 	FMN 	Emergency Ops 
-159.16500 	WNKJ716 	BM		Road 159.165 	Road Department 	FM 	Public Works 
-151.04000 	WQFY512 	RM		Road 151.04 	Road Department 	FMN 	Public Works 
-156.14250 	WNKJ716 	RM		ROADS DPT 1 	Road Department  	FMN 	Public Works 
-156.22500 	 			Road 156.225 	Road Department 	FMN 	Public Works 
-156.22500 	WPII312 	RM	146.2 PL	School Buses 	School Buses 	FM 	Schools 
-154.65000 	WPII312 	RM	146.2 PL	School Maint 	Schools Maintenance 	FM 	Schools 
-155.02500 	WPII312 	M		School Ops 	Schools (Various locations and tones) 	FM 	Schools 
-152.93000 	WQAY460 	RM	311 DPL	Columbia HS 	Columbia High School 	FM 	Schools 
-154.97250 	 	BM		FortWhite PW 	Public Works 	FMN 	Public Works 
-158.88750 	WNRG463 	RM	631 DPL	LakeCityFD 	Fire 	FM 	Fire Dispatch 
-154.89000 	KNDT277 	RM	146.2 PL	LakeCityPD1 	Police 1 	FM 	Law Dispatch 
-155.91000 	KNDT277 	RM	146.2 PL	LakeCityPD2 	Police 2 	FM 	Law Talk 
-155.26500 	KD53358 	M	146.2 PL	LakeCityPD3 	Police 3 	FM 	Law Talk 
-154.42250 	 	M		LakeCityPDEv 	Police Event 	FMN 	Law Tac 
-453.27500 	 	RM		LakeCity 275 	City Hall 	FMN 	Public Works 
-453.42500 	 	RM		LakeCity 425 	City Hall 	FMN 	Public Works 
-Columbia County	 Project 25 Phase II	 Lake City	Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Florida Power and Light (P25)	 Project 25 Phase II
- Varies	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	Target Food Distribution Center	 LTR Standard	 Lake City	
+154.37000 	   	WNRG463 	BM	146.2 PL	CCFR ToneOut 	Fire (Tone-outs) 	FM 	Fire Dispatch 
+154.00250 	   	WQFY512 	RM	205 DPL	CCFR North 	Fire - North 	FM 	Fire Dispatch 
+155.58750 	   	WQFY512 	RM	243 DPL	CCFR Central 	Fire - Central 	FM 	Fire Dispatch 
+159.21750 	   	WQFY512 	RM	343 DPL	CCFR South 	Fire - South 	FM 	Fire Dispatch 
+155.20500 	   	WQFY512 	RM	146.2 PL	CCEMS Disp 	EMS Dispatch 	FM 	EMS Dispatch 
+156.16500 	150.79000  	KLU920 	RM	146.2 PL	CCEMS Page 	EMS Paging   	FM 	EMS Dispatch 
+462.97500 	467.97500  	KLU920 	BM	146.2 PL	EMS/Trauma1  	EMS/ Trauma-One Flight 	FM 	EMS-Tac 
+156.10500 	153.78500  	WQDV836 	RM		CCEMS OPS 	EMS Operations 	FMN 	EMS-Tac 
+155.31000 	   	 	BM		ColumCo EMS 	EMS 	FMN 	EMS-Tac 
+463.00000 	   	KLU920 	BM	131.8 PL	EMS Med-1 	EMS Med-1 	FM 	EMS-Talk 
+463.15000 	468.15000  	VARIES 	BM	131.8 PL	CMC MED-7 	Medical Coordination 	FM 	EMS-Tac 
+463.11250 	468.11250  	WQDL726 	RM	131.8 PL	LCMC-M52 	EMS-to-Lake City Medical Center 	FM 	Hospital 
+463.16250 	468.16250  	WQDL726 	RM	131.8 PL	SHNDS-LS-M72 	EMS-to-Shands-Lake Shore 	FM 	Hospital 
+463.08750 	468.08750  	WQDL726 	RM	131.8 PL	LCVA-M42 	EMS-to-Lake City Veterans Affairs Hospital 	FM 	Hospital 
+155.01000 	155.65500  	KIF433 	RM	146.2 PL	CCSO1 	Sheriff Dispatch 	FM 	Law Dispatch 
+155.79000 	156.09000  	KIF433 	RM	146.2 PL	CCSO2 	Sheriff 2 	FM 	Law Talk 
+159.01500 	   	KIF433 	RM	186.2 PL	CCSO3 	Sheriff 3 	FM 	Law Talk 
+156.22500 	151.10000  	WPII312 	RM	146.2 PL	CCSOA 	Sheriff 4 	FM 	Law Talk 
+158.74500 	155.14500  	WPGF528 	RM		Columbia EMA 	Emergency Management 	FMN 	Emergency Ops 
+159.16500 	   	WNKJ716 	BM		Road 159.165 	Road Department 	FM 	Public Works 
+151.04000 	   	WQFY512 	RM		Road 151.04 	Road Department 	FMN 	Public Works 
+156.14250 	159.16500  	WNKJ716 	RM		ROADS DPT 1 	Road Department  	FMN 	Public Works 
+156.22500 	   	 			Road 156.225 	Road Department 	FMN 	Public Works 
+156.22500 	   	WPII312 	RM	146.2 PL	School Buses 	School Buses 	FM 	Schools 
+154.65000 	   	WPII312 	RM	146.2 PL	School Maint 	Schools Maintenance 	FM 	Schools 
+155.02500 	   	WPII312 	M		School Ops 	Schools (Various locations and tones) 	FM 	Schools 
+152.93000 	158.34000  	WQAY460 	RM	311 DPL	Columbia HS 	Columbia High School 	FM 	Schools 
+154.97250 	   	 	BM		FortWhite PW 	Public Works 	FMN 	Public Works 
+158.88750 	155.81250  	WNRG463 	RM	631 DPL	LakeCityFD 	Fire 	FM 	Fire Dispatch 
+154.89000 	155.62500  	KNDT277 	RM	146.2 PL	LakeCityPD1 	Police 1 	FM 	Law Dispatch 
+155.91000 	155.53500  	KNDT277 	RM	146.2 PL	LakeCityPD2 	Police 2 	FM 	Law Talk 
+155.26500 	   	KD53358 	M	146.2 PL	LakeCityPD3 	Police 3 	FM 	Law Talk 
+154.42250 	   	 	M		LakeCityPDEv 	Police Event 	FMN 	Law Tac 
+453.27500 	   	 	RM		LakeCity 275 	City Hall 	FMN 	Public Works 
+453.42500 	   	 	RM		LakeCity 425 	City Hall 	FMN 	Public Works 
+Columbia County	 Project 25 Phase II	 Lake City	Duke Energy (Florida)	 Motorola Type II SmartZone	 Various	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide
+Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	Target Food Distribution Center	 LTR Standard	 Lake City	

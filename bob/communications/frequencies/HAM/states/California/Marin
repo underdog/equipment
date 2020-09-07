@@ -1,45 +1,45 @@
-39.24000 	KMA224 	BM	82.5 PL	MCSO F1 	Old Primary 	FM 	Interop 
-151.04000 	WPHY735 	RM	146.2 PL	MRN Local 	Marin County Fire Mutual Aid Net 	FMN 	Interop 
-156.24000 	KSQ274 	RM	127.3 PL	COMM/OES 	Central/Southern Marin Fire VHF Back-up 	FMN 	Fire-Talk 
-155.10000 	KVT614 	RM	114.8 PL	XMR EMS 	VHF Medical Mutual Aid 	FMN 	Interop 
-154.20500 	KAR969 	M	192.8 PL	TAM CREW 	Mt Tamalpais Fire Crew 	FMN 	Fire-Tac 
-46.50000 	KML958 	B	82.5 PL	MCFD Tam 	Volunteer Paging Mt Tam (CTL H2 Simulcast) 	FM 	Fire Dispatch 
-46.28000 	KML958 	B	82.5 PL	MCFD Barnabe 	Volunteer Paging Mt Barnabe (CTL H2 Simulcast) 	FM 	Fire Dispatch 
-46.12000 	KML958 	B	82.5 PL	MCFD Bolinas 	Volunteer Paging Bolinas (CTL H2 Simulcast) 	FM 	Fire Dispatch 
-491.11250 	WQNS265 	M	293 NAC	FD CNV 13 	Fire Conventional 13 	P25 	Fire-Tac 
-485.11250 	WQNS265 	M	293 NAC	FD CNV 14 	Fire Conventional 14 	P25 	Fire-Tac 
-485.08750 	WQNS265 	M	293 NAC	PD CAR 1 	Law Enforcement Car-to-Car 1 	P25 	Law Tac 
-491.06250 	WQNS265 	M	293 NAC	PD CAR 2 	Law Enforcement Car-to-Car 2 	P25 	Law Tac 
-491.18750 	WQNS265 	M	293 NAC	FLAG 1 	Public Works Flagging 1 (Traffic Control) 	P25 	Public Works 
-485.28750 	WQNS265 	M	293 NAC	FLAG 2 	Public Works Flagging 2 (Traffic Control) 	P25 	Public Works 
-482.23750 	WQNS265 	RM	411 DPL	CWMA R/D 	Countywide Mutual Aid Repeater/Direct 	FMN 	Interop 
-484.13750 	WIL786 	RM	411 NAC	MRN CMD 	Marin Command (Mutual Aid Conventional) 	P25 	Interop 
-158.83500 	KBS972 	BM	82.5 PL	SRFD VHF Cmd 	Fire Command (VHF Backup) 	FMN 	Fire-Talk 
-155.89500 	KBS972 	M	82.5 PL	SRFD VHF Tac 	Fire Tactical (VHF Backup) 	FMN 	Fire-Tac 
-460.57500 	WPSJ927 	RM	141.3 PL	SRFD UHF Cmd 	Fire Command (UHF Backup) 	FMN 	Fire-Talk 
-453.15000 	WQDW301 	RM	743 DPL	CMSA Ops 	Operations 	FMN 	Public Works 
-451.62500 	KMJ264 	RM	82.5 PL	MMWD Ops 	Operations 	FMN 	Utilities 
-155.77500 	KLG591 	BM	77.0 PL	SMCSD 1 	Operations 1 	FM 	Public Works 
-155.77500 	KYK381 	BM	82.5 PL	TCSD 1 	Operations 1 	FM 	Public Works 
-453.48750 	WQVU874 	BM	203.5 PL	BMrnKeys CSD 	Bel Marin Keys CSD 	FMN 	Public Works 
-482.58750 	WII642 	RM	173.8 PL	GGBHTD Ferry Rpt 	Ferry Repeater 	FMN 	Transportation 
-774.98125 	WQPL720 	M	40B NAC	LarkspurTerminal 	Larkspur Ferry Terminal 	P25 	Transportation 
-482.58750 	WII642 	M	131.8 PL	MS Marin 	MS Marin 	FMN 	Transportation 
-482.58750 	WII642 	M	146.2 PL	MS San Francisco 	MS San Francisco 	FMN 	Transportation 
-482.58750 	WII642 	M	156.7 PL	MV Del Norte 	MV Del Norte 	FMN 	Transportation 
-482.58750 	WII642 	M	103.5 PL	MV Golden Gate 	MV Golden Gate 	FMN 	Transportation 
-482.58750 	WII642 	M	167.9 PL	MV Mendocino 	MV Mendocino 	FMN 	Transportation 
-467.81250 	WQLB788 	M	703 DPL	Drake HS 1 	Drake High Security/Administration 	FMN 	Schools 
-467.81250 	WQLB788 	M	118.8 PL	Drake HS 2 	Drake High Janitors 	FMN 	Schools 
-451.63750 	WQLB788 	M	114 DPL	Tam HS 1 	Tamalpais High Security/Administration 	FMN 	Schools 
-451.46250 	WQLB788 	M	025 DPL	Tam HS 2 	Tamalpais High Janitors 	FMN 	Schools 
-158.74500 	KTC824 	BM	94.8 PL	CERT 1 	CERT 1 (Mill Valley) 	FMN 	Emergency Ops 
-158.98500 	WPGQ348 	BM	94.8 PL	CERT 2 	CERT 2 (Mill Valley) 	FMN 	Emergency Ops 
-151.17500 	WQOW203 	BM	94.8 PL	CERT 3 	CERT 3 (Southern Marin) 	FMN 	Emergency Ops 
-155.55000 	WQOW203 	BM	94.8 PL	CERT 4 	CERT 4 (Southern Marin) 	FMN 	Emergency Ops 
-California Department of Corrections and Rehabilitation	 Project 25 Phase II	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	CALTrans (District 04 - North)	 Motorola Type II Smartnet
- None	CALTrans (District 04 - South)	 Motorola Type II Smartnet	 None	Golden Gate Bridge Highway and Transportation District	 Project 25 Phase I	 San Rafael	Lawrence Livermore National Laboratory
- Project 25 Phase I	 Livermore	Marin Emergency Radio Authority (MERA)	 Motorola Type II SmartZone	 Various	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various
-RFC Wireless (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various (Bay Area)	Signature Wireless Group (Big Rock Ridge)	 LTR Standard	 Novato	Signature Wireless Group iDAS Multitrunk (Bay Area)	 NXDN Icom IDAS Type D
- San Rafael	Silke Communications	 NXDN NEXEDGE 4800	 Northern California	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various	Unidentified Federal Project 25 BEE00-4D5
- Project 25 Phase II	 Various	
+39.24000 	   	KMA224 	BM	82.5 PL	MCSO F1 	Old Primary 	FM 	Interop 
+151.04000 	159.18000  	WPHY735 	RM	146.2 PL	MRN Local 	Marin County Fire Mutual Aid Net 	FMN 	Interop 
+156.24000 	159.10500  	KSQ274 	RM	127.3 PL	COMM/OES 	Central/Southern Marin Fire VHF Back-up 	FMN 	Fire-Talk 
+155.10000 	155.83500  	KVT614 	RM	114.8 PL	XMR EMS 	VHF Medical Mutual Aid 	FMN 	Interop 
+154.20500 	   	KAR969 	M	192.8 PL	TAM CREW 	Mt Tamalpais Fire Crew 	FMN 	Fire-Tac 
+46.50000 	   	KML958 	B	82.5 PL	MCFD Tam 	Volunteer Paging Mt Tam (CTL H2 Simulcast) 	FM 	Fire Dispatch 
+46.28000 	   	KML958 	B	82.5 PL	MCFD Barnabe 	Volunteer Paging Mt Barnabe (CTL H2 Simulcast) 	FM 	Fire Dispatch 
+46.12000 	   	KML958 	B	82.5 PL	MCFD Bolinas 	Volunteer Paging Bolinas (CTL H2 Simulcast) 	FM 	Fire Dispatch 
+491.11250 	   	WQNS265 	M	293 NAC	FD CNV 13 	Fire Conventional 13 	P25 	Fire-Tac 
+485.11250 	   	WQNS265 	M	293 NAC	FD CNV 14 	Fire Conventional 14 	P25 	Fire-Tac 
+485.08750 	   	WQNS265 	M	293 NAC	PD CAR 1 	Law Enforcement Car-to-Car 1 	P25 	Law Tac 
+491.06250 	   	WQNS265 	M	293 NAC	PD CAR 2 	Law Enforcement Car-to-Car 2 	P25 	Law Tac 
+482.46250 	485.46250  	WQKY671 	RM	411 NAC	JAIL CNV 	Marin County Jail Conventional Backup 	P25 	Law Talk 
+491.18750 	   	WQNS265 	M	293 NAC	PW FLAG 1 	Public Works Flagging 1 (Traffic Control) 	P25 	Public Works 
+485.28750 	   	WQNS265 	M	293 NAC	PW FLAG 2 	Public Works Flagging 2 (Traffic Control) 	P25 	Public Works 
+482.23750 	485.23750  	WQNS265 	RM	411 DPL	CWMA R/D 	Countywide Mutual Aid Repeater/Direct 	FMN 	Interop 
+484.13750 	487.13750  	WIL786 	RM	411 NAC	MRN CMD 	Marin Command (Mutual Aid Conventional) 	P25 	Interop 
+158.83500 	   	KBS972 	BM	82.5 PL	SRFD VHF Cmd 	Fire Command (VHF Backup) 	FMN 	Fire-Talk 
+155.89500 	   	KBS972 	M	82.5 PL	SRFD VHF Tac 	Fire Tactical (VHF Backup) 	FMN 	Fire-Tac 
+460.57500 	465.57500  	WPSJ927 	RM	141.3 PL	SRFD UHF Cmd 	Fire Command (UHF Backup) 	FMN 	Fire-Talk 
+453.15000 	458.15000  	WQDW301 	RM	743 DPL	CMSA Ops 	Operations 	FMN 	Public Works 
+451.62500 	456.62500  	KMJ264 	RM	82.5 PL	MMWD Ops 	Operations 	FMN 	Utilities 
+155.77500 	   	KLG591 	BM	77.0 PL	SMCSD 1 	Operations 1 	FM 	Public Works 
+155.77500 	   	KYK381 	BM	82.5 PL	TCSD 1 	Operations 1 	FM 	Public Works 
+453.48750 	   	WQVU874 	BM	203.5 PL	BMrnKeys CSD 	Bel Marin Keys CSD 	FMN 	Public Works 
+482.58750 	485.58750  	WII642 	RM	173.8 PL	GGBHTD Ferry Rpt 	Ferry Repeater 	FMN 	Transportation 
+774.98125 	   	WQPL720 	M	40B NAC	LarkspurTerminal 	Larkspur Ferry Terminal 	P25 	Transportation 
+482.58750 	   	WII642 	M	131.8 PL	MS Marin 	MS Marin 	FMN 	Transportation 
+482.58750 	   	WII642 	M	146.2 PL	MS San Francisco 	MS San Francisco 	FMN 	Transportation 
+482.58750 	   	WII642 	M	156.7 PL	MV Del Norte 	MV Del Norte 	FMN 	Transportation 
+482.58750 	   	WII642 	M	103.5 PL	MV Golden Gate 	MV Golden Gate 	FMN 	Transportation 
+482.58750 	   	WII642 	M	167.9 PL	MV Mendocino 	MV Mendocino 	FMN 	Transportation 
+467.81250 	   	WQLB788 	M	703 DPL	Drake HS 1 	Drake High Security/Administration 	FMN 	Schools 
+467.81250 	   	WQLB788 	M	118.8 PL	Drake HS 2 	Drake High Janitors 	FMN 	Schools 
+451.63750 	   	WQLB788 	M	114 DPL	Tam HS 1 	Tamalpais High Security/Administration 	FMN 	Schools 
+451.46250 	   	WQLB788 	M	025 DPL	Tam HS 2 	Tamalpais High Janitors 	FMN 	Schools 
+158.74500 	   	KTC824 	BM	94.8 PL	CERT 1 	CERT 1 (Mill Valley) 	FMN 	Emergency Ops 
+158.98500 	   	WPGQ348 	BM	94.8 PL	CERT 2 	CERT 2 (Mill Valley) 	FMN 	Emergency Ops 
+151.17500 	   	WQOW203 	BM	94.8 PL	CERT 3 	CERT 3 (Southern Marin) 	FMN 	Emergency Ops 
+155.55000 	   	WQOW203 	BM	94.8 PL	CERT 4 	CERT 4 (Southern Marin) 	FMN 	Emergency Ops 
+CALTrans (District 04 - North)	 Motorola Type II Smartnet	 None	CALTrans (District 04 - South)	 Motorola Type II Smartnet	 None	Golden Gate Bridge Highway and Transportation District	 Project 25 Phase I	 San Rafael
+Lawrence Livermore National Laboratory	 Project 25 Phase I	 Livermore	Marin Emergency Radio Authority (MERA)	 Motorola Type II SmartZone	 Various	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various
+RFC Wireless (DMR)	 DMR Motorola Connect Plus (TRBO)	 Various (Bay Area)	Signature Wireless Group (Big Rock Ridge)	 LTR Standard	 Novato	Signature Wireless Group (San Pedro Ridge)	 LTR Standard	 San Rafael
+Signature Wireless Group (Wolfback Ridge)	 LTR Standard	 Sausalito	Signature Wireless Group iDAS Multitrunk (Bay Area)	 NXDN Icom IDAS Type D	 San Rafael	TelePath Corporation	 DMR Motorola Connect Plus (TRBO)	 Various
+Unidentified Federal Project 25 BEE00-4D5	 Project 25 Phase II	 Various	

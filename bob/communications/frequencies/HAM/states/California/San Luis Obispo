@@ -1,133 +1,131 @@
-460.15000 	WNZJ891 	RM	123.0 PL	SLO Co SO 1 	Dispatch "Blue" 	FMN 	Law Dispatch 
-460.47500 	WNZJ891 	RM	123.0 PL	SLO Co SO 2 	Ch. 2 "Yellow" 	FMN 	Law Dispatch 
-460.40000 	WPAI854 	RM	82.5 PL	SLO Co SO 3 	Tactical "Gray" 	FMN 	Law Tac 
-460.05000 	WNZJ891 	RM	123.0 PL	SLO Co SO 4 	Emergency/All Points Bulletins/Pursuits "Red" 	FMN 	Law Dispatch 
-460.55000 	WNMA365 	RM	123.0 PL	SLO Co SO 5 	Rebroadcast of CHP White "Copper" 	FMN 	Law Tac 
-460.30000 	WNHR234 	RM	123.0 PL	SLO Co SO Court 	Court Security 	FMN 	Law Tac 
-460.30000 	WNHR234 	RM	82.5 PL	SLO Co SO Jail 	Jail Operations 	FMN 	Corrections 
-155.16000 	KVR939 	RM	100.0 PL	SLO Co SO SAR1 	Search & Rescue 1 	FMN 	Law Talk 
-158.80500 	WCC925 	RM	123.0 PL	SLO Co SO SAR2 	Search & Rescue 2 - Shared with General Services 	FMN 	Public Works 
-453.20000 	KNBZ674 	RM	167.9 PL	SLO Co AC 	Animal Control 	FMN 	Law Dispatch 
-154.38500 	KVR939 	RM	82.5 PL	SLO Co FD Disp 	Co/CAL FIRE Dispatch (County Net) 	FMN 	Fire Dispatch 
-151.05500 	WQRM493 	RM	192.8 PL	SLO Co FD Cmd 4 	Fire Command 4 	FMN 	Fire-Talk 
-154.14500 	KIU671 	RM	82.5 PL	SLOCoFD 5Cities 	Fire Five Cities Command 	FMN 	Fire-Tac 
-151.02500 	WQRI360 	RM	82.5 PL	SLO Co FD River 	Fire River Command 	FMN 	Fire-Talk 
-154.13000 	KML271 	RM	82.5 PL	SLO Co FD MB CMD 	Fire Morro Bay Command 	FMN 	Fire-Talk 
-154.17500 	KDV816 	RM	88.5 PL	SLO Co FD Bay 	Fire Bay Command - Los Osos and North 	FMN 	Fire-Talk 
-155.11500 	KVR939 	RM	173.8 PL	SLO Co FD Canyon 	Fire Diablo Canyon Command 	FMN 	Fire-Talk 
-159.21000 	KVR939 	M	179.9 PL	SLO Co FD Diablo 	Fire Diablo Tac 	FMN 	Fire-Tac 
-154.34000 	WNYX286 	BM	82.5 PL	SLO Co FD Tac4 	Fire Tac 4 	FMN 	Fire-Tac 
-153.95000 	KDV816 	BM	82.5 PL	SLO Co FD Tac5 	Fire Tac 5 	FMN 	Fire-Tac 
-154.14500 	KIB992 	M	192.8 PL	SLO Co FD Tac6 	Fire Tac 6 	FMN 	Fire-Tac 
-154.01000 	KNAY847 	RM	82.5 PL	5Cities FA Disp 	Dispatch Backup (South Net) 	FMN 	Fire Dispatch 
-155.40000 	KNAY847 	RM	136.5 PL	5Cities FA Cmd A 	Command (Arroyo Grande Area) 	FMN 	Fire-Tac 
-154.41500 	KNJX298 	RM	82.5 PL	5Cities FA Cmd B 	Command (Grover Beach Area) 	FMN 	Fire-Tac 
-153.83000 	KNAY847 	BM	167.9 PL	5Cities FA Tac A 	Tac A 	FMN 	Fire-Talk 
-151.01000 	WQUC833 	BM	167.9 PL	5Cities FA Tac B 	Tac B 	FMN 	Fire-Talk 
-151.11500 	WQUC833 	BM	167.9 PL	5Cities FA Tac C 	Tac C 	FMN 	Fire-Talk 
-463.00000 	WCC894 	RM	88.5 PL	SLO Co Med1 	Ambulance Dispatch 	FMN 	EMS Dispatch 
-463.02500 	WCC894 	RM	88.5 PL	SLO Co Med2 	Medic-to-Hospital "French" & "Arroyo Grande" 	FMN 	Hospital 
-463.05000 	WCC894 	RM	88.5 PL	SLO Co Med3 	Medic-to-Hospital "Sierra Vista" 	FMN 	Hospital 
-463.07500 	WCC894 	RM	88.5 PL	SLO Co Med4 	Medic-to-Hospital "Twin Cities" 	FMN 	Hospital 
-464.35000 	WNMN709 	RM	88.5 PL	San Luis Amb 	Operations "Green" 	FMN 	EMS-Talk 
-153.87500 	WNPI454 	RM	82.5 PL	Cambria Amb 	Tactical/Paging (District Net) 	FMN 	EMS-Tac 
-151.14500 	KAP57 	RM	88.5 PL	SLO Co LopezLake 	Lopez Lake Rangers 	FMN 	Public Works 
-158.80500 	WCC925 	RM	123.0 PL	SLO Co LG 	Other County Parks "Black" 	FMN 	Public Works 
-453.80000 	WNYD520 	RM	88.5 PL	SLO Co Comm 	Communications "Silver" 	FMN 	Public Works 
-158.80500 	WCC925 	RM	123.0 PL	SLO Co LG 	General Services/Building Dept/Roads "Black" 	FMN 	Public Works 
-153.93500 	WCC925 	M	88.5 PL	SLO Co Utility 1 	General Services Utility 1 "Amber 1" 	FMN 	Public Works 
-155.08500 	WCC925 	M	88.5 PL	SLO Co Utility 2 	General Services Utility 2 "Amber 2" 	FMN 	Public Works 
-153.78500 	KNEN337 	BM	88.5 PL	SLO Co Airport 	General Services SLO County Airport 	FMN 	Public Works 
-158.98500 	WQUC784 	RM	118.8 PL	SLO Co Condor 	General Services - Downtown SLO Incident 	FMN 	Emergency Ops 
-159.15000 	WQUC784 	RM	94.8 PL	SLO Co Eagle 	General Services - Downtown SLO Command 	FMN 	Emergency Ops 
-453.25000 	WPBM348 	RM	167.9 PL	SLO Co OES 	Health Dept/OES "Brown" 	FMN 	Public Works 
-460.50000 	WNKY203 	RM	82.5 PL	ArroyoGrande PD1 	Police Dispatch "Orange" 	FMN 	Law Dispatch 
-460.03750 	WNKY203 	RM	107.2 PL	ArroyoGrande PD2 	Police Channel 2 	FMN 	Law Tac 
-460.38750 	WNKY203 	BM	107.2 PL	ArroyoGrande PD3 	Police Channel 3 	FMN 	Law Tac 
-460.21250 	WNKY203 	BM	136.5 PL	ArroyoGrande PD4 	Police Tac 	FMN 	Law Tac 
-45.20000 	KD24179 	BM	82.5 PL	ArroyoGrande PW 	Public Works/Building Department 	FM 	Public Works 
-453.81250 	KD48996 	M		ArroyoGrande WW 	Wastewater Telemetry 	Telm 	Data 
-460.42500 	WSL553 	RM	82.5 PL	Atascadero PD 	Police Dispatch "Green" 	FMN 	Law Dispatch 
-154.37000 	KMB503 	RM	131.8 PL	Atascadero FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
-151.10000 	KMB503 	RM	131.8 PL	Atascadero FD2 	Fire Command 	FMN 	Fire-Tac 
-157.57500 	WQGG501 	BM	192.8 PL	Atascadero FD3 	Fire Tactical 	FMN 	Fire-Tac 
-152.31500 	WQGG501 	RM	88.5 PL	Atascadero MA 	Citywide Interop 	FMN 	Interop 
-453.37500 	KJH466 	RM	88.5 PL	Atascadero PW 	Local Gov/Public Works "Purple" 	FMN 	Public Works 
-460.17500 	KZM760 	RM	82.5 PL	Grover Beach PD1 	Police Dispatch Green 1 	FMN 	Law Dispatch 
-453.18750 	 	RM	79.7 PL	Grover Beach PD2 	Police Green 2 	FMN 	Law Tac 
-158.94000 	WQBD335 	BM	82.5 PL	Grover Beach PW 	Public Works 	FMN 	Public Works 
-460.07500 	KZM750 	RM	82.5 PL	Morro Bay PD1 	Police Dispatch "Green" 	FMN 	Law Dispatch 
-460.62500 	WNNN471 	BM	82.5 PL	Morro Bay PD2 	Police Tactical 	FMN 	Law Tac 
-154.13000 	KML271 	RM	82.5 PL	Morro Bay FD1 	Fire Command 	FMN 	Fire-Tac 
-155.79000 	KML721 	BM	82.5 PL	Morro Bay FD2 	Fire Tactical 	FMN 	Fire-Tac 
-452.80000 	KNJC945 	RM	156.7 PL	Morro Bay Transt 	Dial-A-Ride 	FMN 	Public Works 
-453.77500 	KNIW494 	RM	82.5 PL	Morro Bay LG 	Local Government 	FMN 	Public Works 
-460.12500 	KNGN579 	RM	82.5 PL	Paso Robles PD 	Police Dispatch "Green" 	FMN 	Law Dispatch 
-155.11500 	WNML620 	RM	82.5 PL	Paso Robles FD1 	Fire Command 1 (Dispatch) 	FMN 	Fire Dispatch 
-154.23500 	WPPY990 	RM	82.5 PL	Paso Robles FD2 	Fire Command 2 	FMN 	Fire-Tac 
-154.19000 	WPPY990 	M	82.5 PL	Paso Robles FD3 	Fire Tactical 	FMN 	Fire-Tac 
-155.77500 	WPGV988 	M	82.5 PL	Paso Robles CW 	All Agency Interconnect 	FMN 	Public Works 
-155.80500 	KNAD912 	RM	245 DPL	Paso Robles Tran 	Paso Transit/Dial-A-Ride 	FMN 	Public Works 
-155.94000 	KNAD912 	RM	82.5 PL	Paso Robles PW 	Public Works 	FMN 	Public Works 
-460.58750 	WQCQ738 	RM	141.3 PL	PismoBeach PD N 	Police Dispatch - North (Multicast w/South) 	FMN 	Law Dispatch 
-453.90000 	WNYJ376 	RM	141.3 PL	PismoBeach PD S 	Police Dispatch - South (Multicast w/North) 	FMN 	Law Dispatch 
-453.47500 	WPEX293 	BM	85.4 PL	PismoBeach PD Y 	Police Tac "Yellow" 	FMN 	Law Tac 
-453.97500 	WPEX293 	BM	91.5 PL	PismoBeach PD D 	Police Detectives 	FMN 	Law Tac 
-151.04000 	WPRR635 	RM	146.2 PL	PismoBeach PW N 	Public Works - North (Multicast w/South) 	FMN 	Public Works 
-153.84500 	WPRR635 	RM	146.2 PL	PismoBeach PW S 	Public Works - South (Muticast w/North) 	FMN 	Public Works 
-460.37500 	KZM761 	RM	82.5 PL	SLO PD1 	Police Dispatch "Green" 	FMN 	Law Dispatch 
-453.75000 	WPKY681 	RM	026 DPL	SLO PD2 	Police SWAT/SNAP 	FMN 	Law Tac 
-453.28750 	WQLP601 	RM		SLO PD3 	Police Tac 2 	P25E 	Law Tac 
-155.14500 	WYC701 	RM	167.9 PL	SLO FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
-154.31000 	WYC700 	BM	82.5 PL	SLO FD2 	Fire Tac 1 	FMN 	Fire-Tac 
-155.02500 	WQLP601 	BM	127.3 PL	SLO FD3 	Fire Tac 2 	FMN 	Fire-Tac 
-155.95500 	WQLP601 	RM	162.2 PL	SLO Comm VHF 	Citywide Common VHF (All Departments) 	FMN 	Multi-Tac 
-453.87500 	WQLP601 	RM	146.2 PL	SLO Comm UHF 	Citywide Common UHF (All Departments) 	FMN 	Multi-Tac 
-453.41250 	WQLP601 	RM	136.5 PL	SLO PW 1 	Public Works 1 	FMN 	Public Works 
-453.61250 	WQLP601 	RM	151.4 PL	SLO PW 2 	Public Works 2 	FMN 	Public Works 
-453.71250 	WQLP601 	RM	114.8 PL	SLO Utilities 	Utilities 	FMN 	Public Works 
-153.53000 	KNCN466 	RM	192.8 PL	SLO WR Res 	Whale Rock Reservoir (Cayucos) 	FMN 	Public Works 
-453.55000 	WPMP990 	RM	162.2 PL	SLO HA 	Housing Authority 	FMN 	Public Works 
-453.92500 	WQNZ335 	RM	79.7 PL	SLO Transit 	City Bus 	FMN 	Transportation 
-158.94000 	WNWA207 	BM	82.5 PL	Avila Beach CSD 	Operations 	FM 	Public Works 
-154.08500 	WSL631 	RM	82.5 PL	Cambria FD 	Fire Tac 	FMN 	Fire-Tac 
-154.11500 	WSL631 	RM	100.0 PL	Cambria Wste 	CSD Waste Operations 	FMN 	Public Works 
-154.11500 	WSL631 	RM	88.5 PL	Cambria Wtr 	CSD Water Operations 	FMN 	Public Works 
-153.80000 	WNWX263 	RM	127.3 PL	Cayucos Sani 	Operations 	FMN 	Public Works 
-153.45500 	KNBV881 	BM	100.0 PL	Nipomo CSD 	Operations 	FM 	Public Works 
-158.94000 	KNGN979 	BM	82.5 PL	Oceano CSD 	Water District/Public Works 	FMN 	Public Works 
-154.43000 	WPLS559 	RM	82.5 PL	San Miguel FD 	Fire Tactical 	FMN 	Fire-Tac 
-153.86000 	WQQA270 	RM	103.5 PL	SM FPD 	Operations 	FMN 	Fire Dispatch 
-153.96500 	KNDC810 	BM	82.5 PL	Templeton FD 	Fire Tactical 	FMN 	Fire-Tac 
-155.86500 	KNDC810 	BM	CSQ	Templeton PW 	Public Works 	FMN 	Public Works 
-453.27500 	KNEQ788 	RM	100.0 PL	Templeton Wr 	Water District 	FMN 	Public Works 
-155.74500 	WNKX821 	RM	82.5 PL	Port SanLuis 	Operations 	FMN 	Law Tac 
-154.60000 	 	M	171.3 PL	Atascadero HS 	Atascadero High Shcool 	FMN 	Schools 
-451.82500 	 	M	CSQ	Atascadero MS 	Atascadero Middle School 	FMN 	Schools 
-463.32500 	WZR593 	RM	131.8 PL	Atascadero USD 	District Operations 	FMN 	Schools 
-460.25000 	KMG999 	RM	82.5 PL	CP SLO PD 1 	Police Dispatch (Gold) 	FMN 	Law Dispatch 
-460.45000 	KMA821 	RM	203.5 PL	CP SLO PD 2 	Police Tactical (Plaid) 	FMN 	Law Tac 
-151.71500 	KVW535 	BM	156.7 PL	CP SLO Comm 	Communications Services 	FMN 	Public Works 
-153.74000 	WNFA939 	BM	100.0 PL	CP SLO EVH 	Environmental Health & Safety 	FMN 	Public Works 
-463.25000 	KVW535 	RM	100.0 PL	CP SLO Facility 	Facilities Services 	FMN 	Public Works 
-152.95250 	WQTU894 	RM	245 DPL	CP SLO DSS 	Disabled Student Services 	FMN 	Transportation 
-152.33000 	WQDW467 	RM	97.4 PL	CP SLO Union 	ASI - University Union 	FM 	Business 
-152.97500 	WPZE744 	M	100.0 PL	CP SLO AS1 	Associated Students Inc. 	FMN 	Business 
-154.51500 	WPZE744 	M	100.0 PL	CP SLO AS2 	Associated Students Inc. 	FMN 	Business 
-159.75000 	WPZE744 	M	100.0 PL	CP SLO AS3 	Associated Students Inc. 	FMN 	Business 
-159.84000 	WPZE744 	M	100.0 PL	CP SLO AS4 	Associated Students Inc. 	FMN 	Business 
-160.02000 	WPZE744 	M	100.0 PL	CP SLO AS5 	Associated Students Inc. 	FMN 	Business 
-464.52500 	WPKM651 	RM	155 DPL	CP SLO Corp 	Cal Poly Corporation 	FMN 	Business 
-460.52500 	WQJN545 	RM	146.2 PL	Cuesta CC PD 	Police - Main Campus 	FMN 	Law Dispatch 
-460.80000 	 	RM		Cuesta CC Ops 	Operations & North County Campus 	FMN 	Schools 
-152.28500 	WQCD585 	RM	77.0 PL	LMUSD AGHS 	Arroyo Grande High School 	FMN 	Schools 
-153.02000 	WPMU951 	RM	77.0 PL	LMUSD Buses 	Buses 	FMN 	Schools 
-150.87500 	WPMU951 	RM	77.0 PL	LMUSD Emerg 	Emergency 	FMN 	Schools 
-155.20500 	KNHL557 	BM	77.0 PL	LMUSD Emerg2 	Emergency Ch 2 	FMN 	Schools 
-158.20500 	WPMU951 	M	77.0 PL	LMUSD Maint 	Maintenance 	FMN 	Schools 
-152.31500 	WPYB490 	RM	77.0 PL	LMUSD NHS 	Nipomo High School 	FM 	Schools 
-152.40500 	KNFQ445 	RM	103.5 PL	SLCUSD 	Operations 	FMN 	Schools 
-461.37500 	KNBP686 	RM	100.0 PL	SLO OofEd 	Operations 	FMN 	Schools 
-ATT (LTR)	 LTR Standard	 Various	California Department of Corrections and Rehabilitation	 Project 25 Phase II	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I
- Multiple	Mobile Relay Associates SoCal NEXEDGE Digital Network	 NXDN NEXEDGE 4800	 Multiple	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Silke Communications
- NXDN NEXEDGE 4800	 Northern California	Sterling Communications	 LTR Standard	 Arroyo Grande	
+460.15000 	465.15000  	WNZJ891 	RM	123.0 PL	SLO Co SO 1 	Dispatch "Blue" 	FMN 	Law Dispatch 
+460.47500 	465.47500  	WNZJ891 	RM	123.0 PL	SLO Co SO 2 	Ch. 2 "Yellow" 	FMN 	Law Dispatch 
+460.40000 	465.40000  	WPAI854 	RM	82.5 PL	SLO Co SO 3 	Tactical "Gray" 	FMN 	Law Tac 
+460.05000 	465.05000  	WNZJ891 	RM	123.0 PL	SLO Co SO 4 	Emergency/All Points Bulletins/Pursuits "Red" 	FMN 	Law Dispatch 
+460.55000 	465.55000  	WNMA365 	RM	123.0 PL	SLO Co SO 5 	Rebroadcast of CHP White "Copper" 	FMN 	Law Tac 
+460.30000 	465.30000  	WNHR234 	RM	123.0 PL	SLO Co SO Court 	Court Security 	FMN 	Law Tac 
+460.30000 	465.30000  	WNHR234 	RM	82.5 PL	SLO Co SO Jail 	Jail Operations 	FMN 	Corrections 
+155.16000 	156.18000  	KVR939 	RM	100.0 PL	SLO Co SO SAR1 	Search & Rescue 1 	FMN 	Law Talk 
+158.80500 	154.04000  	WCC925 	RM	123.0 PL	SLO Co SO SAR2 	Search & Rescue 2 - Shared with General Services 	FMN 	Public Works 
+453.20000 	458.20000  	KNBZ674 	RM	167.9 PL	SLO Co AC 	Animal Control 	FMN 	Law Dispatch 
+154.38500 	156.03000  	KVR939 	RM	82.5 PL	SLO Co FD Disp 	Co/CAL FIRE Dispatch (County Net) 	FMN 	Fire Dispatch 
+151.05500 	156.04500  	WQRM493 	RM	192.8 PL	SLO Co FD Cmd 4 	Fire Command 4 	FMN 	Fire-Talk 
+154.14500 	158.77500  	KIU671 	RM	82.5 PL	SLOCoFD 5Cities 	Fire Five Cities Command 	FMN 	Fire-Tac 
+151.02500 	155.55000  	WQRI360 	RM	82.5 PL	SLO Co FD River 	Fire River Command 	FMN 	Fire-Talk 
+154.13000 	156.00000  	KML271 	RM	82.5 PL	SLO Co FD MB CMD 	Fire Morro Bay Command 	FMN 	Fire-Talk 
+154.17500 	155.88000  	KDV816 	RM	88.5 PL	SLO Co FD Bay 	Fire Bay Command - Los Osos and North 	FMN 	Fire-Talk 
+155.11500 	156.21000  	KVR939 	RM	173.8 PL	SLO Co FD Canyon 	Fire Diablo Canyon Command 	FMN 	Fire-Talk 
+159.21000 	   	KVR939 	M	179.9 PL	SLO Co FD Diablo 	Fire Diablo Tac 	FMN 	Fire-Tac 
+154.34000 	   	WNYX286 	BM	82.5 PL	SLO Co FD Tac4 	Fire Tac 4 	FMN 	Fire-Tac 
+153.95000 	   	KDV816 	BM	82.5 PL	SLO Co FD Tac5 	Fire Tac 5 	FMN 	Fire-Tac 
+154.14500 	   	KIB992 	M	192.8 PL	SLO Co FD Tac6 	Fire Tac 6 	FMN 	Fire-Tac 
+154.01000 	155.83500  	KNAY847 	RM	82.5 PL	5Cities FA Disp 	Dispatch Backup (South Net) 	FMN 	Fire Dispatch 
+155.40000 	158.97000  	KNAY847 	RM	136.5 PL	5Cities FA Cmd A 	Command (Arroyo Grande Area) 	FMN 	Fire-Tac 
+154.41500 	150.77500  	KNJX298 	RM	82.5 PL	5Cities FA Cmd B 	Command (Grover Beach Area) 	FMN 	Fire-Tac 
+153.83000 	   	KNAY847 	BM	167.9 PL	5Cities FA Tac A 	Tac A 	FMN 	Fire-Talk 
+151.01000 	   	WQUC833 	BM	167.9 PL	5Cities FA Tac B 	Tac B 	FMN 	Fire-Talk 
+151.11500 	   	WQUC833 	BM	167.9 PL	5Cities FA Tac C 	Tac C 	FMN 	Fire-Talk 
+463.00000 	468.00000  	WCC894 	RM	88.5 PL	SLO Co Med1 	Ambulance Dispatch 	FMN 	EMS Dispatch 
+463.02500 	468.02500  	WCC894 	RM	88.5 PL	SLO Co Med2 	Medic-to-Hospital "French" & "Arroyo Grande" 	FMN 	Hospital 
+463.05000 	468.05000  	WCC894 	RM	88.5 PL	SLO Co Med3 	Medic-to-Hospital "Sierra Vista" 	FMN 	Hospital 
+463.07500 	468.07500  	WCC894 	RM	88.5 PL	SLO Co Med4 	Medic-to-Hospital "Twin Cities" 	FMN 	Hospital 
+464.35000 	469.35000  	WNMN709 	RM	88.5 PL	San Luis Amb 	Operations "Green" 	FMN 	EMS-Talk 
+153.87500 	155.82000  	WNPI454 	RM	82.5 PL	Cambria Amb 	Tactical/Paging (District Net) 	FMN 	EMS-Tac 
+151.14500 	151.47500  	KAP57 	RM	88.5 PL	SLO Co LopezLake 	Lopez Lake Rangers 	FMN 	Public Works 
+158.80500 	154.04000  	WCC925 	RM	123.0 PL	SLO Co LG 	Other County Parks "Black" 	FMN 	Public Works 
+453.80000 	458.80000  	WNYD520 	RM	88.5 PL	SLO Co Comm 	Communications "Silver" 	FMN 	Public Works 
+158.80500 	154.04000  	WCC925 	RM	123.0 PL	SLO Co LG 	General Services/Building Dept/Roads "Black" 	FMN 	Public Works 
+153.93500 	   	WCC925 	M	88.5 PL	SLO Co Utility 1 	General Services Utility 1 "Amber 1" 	FMN 	Public Works 
+155.08500 	   	WCC925 	M	88.5 PL	SLO Co Utility 2 	General Services Utility 2 "Amber 2" 	FMN 	Public Works 
+153.78500 	158.88000  	KNEN337 	BM	88.5 PL	SLO Co Airport 	General Services SLO County Airport 	FMN 	Public Works 
+158.98500 	153.96500  	WQUC784 	RM	118.8 PL	SLO Co Condor 	General Services - Downtown SLO Incident 	FMN 	Emergency Ops 
+159.15000 	154.10000  	WQUC784 	RM	94.8 PL	SLO Co Eagle 	General Services - Downtown SLO Command 	FMN 	Emergency Ops 
+453.25000 	458.25000  	WPBM348 	RM	167.9 PL	SLO Co OES 	Health Dept/OES "Brown" 	FMN 	Public Works 
+460.50000 	465.50000  	WNKY203 	RM	82.5 PL	ArroyoGrande PD1 	Police Dispatch "Orange" 	FMN 	Law Dispatch 
+460.03750 	465.03750  	WNKY203 	RM	107.2 PL	ArroyoGrande PD2 	Police Channel 2 	FMN 	Law Tac 
+460.38750 	   	WNKY203 	BM	107.2 PL	ArroyoGrande PD3 	Police Channel 3 	FMN 	Law Tac 
+460.21250 	   	WNKY203 	BM	136.5 PL	ArroyoGrande PD4 	Police Tac 	FMN 	Law Tac 
+45.20000 	   	KD24179 	BM	82.5 PL	ArroyoGrande PW 	Public Works/Building Department 	FM 	Public Works 
+453.81250 	   	KD48996 	M		ArroyoGrande WW 	Wastewater Telemetry 	Telm 	Data 
+460.42500 	465.42500  	WSL553 	RM	82.5 PL	Atascadero PD 	Police Dispatch "Green" 	FMN 	Law Dispatch 
+154.37000 	156.15000  	KMB503 	RM	131.8 PL	Atascadero FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+151.10000 	154.07000  	KMB503 	RM	131.8 PL	Atascadero FD2 	Fire Command 	FMN 	Fire-Tac 
+157.57500 	   	WQGG501 	BM	192.8 PL	Atascadero FD3 	Fire Tactical 	FMN 	Fire-Tac 
+152.31500 	157.57500  	WQGG501 	RM	88.5 PL	Atascadero MA 	Citywide Interop 	FMN 	Interop 
+453.37500 	458.37500  	KJH466 	RM	88.5 PL	Atascadero PW 	Local Gov/Public Works "Purple" 	FMN 	Public Works 
+460.17500 	465.17500  	KZM760 	RM	82.5 PL	Grover Beach PD1 	Police Dispatch Green 1 	FMN 	Law Dispatch 
+453.18750 	458.18750  	 	RM	79.7 PL	Grover Beach PD2 	Police Green 2 	FMN 	Law Tac 
+158.94000 	   	WQBD335 	BM	82.5 PL	Grover Beach PW 	Public Works 	FMN 	Public Works 
+460.07500 	465.07500  	KZM750 	RM	82.5 PL	Morro Bay PD1 	Police Dispatch "Green" 	FMN 	Law Dispatch 
+460.62500 	465.62500  	WNNN471 	BM	82.5 PL	Morro Bay PD2 	Police Tactical 	FMN 	Law Tac 
+154.13000 	156.00000  	KML271 	RM	82.5 PL	Morro Bay FD1 	Fire Command 	FMN 	Fire-Tac 
+155.79000 	   	KML721 	BM	82.5 PL	Morro Bay FD2 	Fire Tactical 	FMN 	Fire-Tac 
+452.80000 	457.80000  	KNJC945 	RM	156.7 PL	Morro Bay Transt 	Dial-A-Ride 	FMN 	Public Works 
+453.77500 	458.77500  	KNIW494 	RM	82.5 PL	Morro Bay LG 	Local Government 	FMN 	Public Works 
+460.12500 	465.12500  	KNGN579 	RM	82.5 PL	Paso Robles PD 	Police Dispatch "Green" 	FMN 	Law Dispatch 
+155.11500 	153.81500  	WNML620 	RM	82.5 PL	Paso Robles FD1 	Fire Command 1 (Dispatch) 	FMN 	Fire Dispatch 
+154.23500 	150.80500  	WPPY990 	RM	82.5 PL	Paso Robles FD2 	Fire Command 2 	FMN 	Fire-Tac 
+154.19000 	   	WPPY990 	M	82.5 PL	Paso Robles FD3 	Fire Tactical 	FMN 	Fire-Tac 
+155.77500 	   	WPGV988 	M	82.5 PL	Paso Robles CW 	All Agency Interconnect 	FMN 	Public Works 
+155.80500 	156.21000  	KNAD912 	RM	245 DPL	Paso Robles Tran 	Paso Transit/Dial-A-Ride 	FMN 	Public Works 
+155.94000 	158.82000  	KNAD912 	RM	82.5 PL	Paso Robles PW 	Public Works 	FMN 	Public Works 
+460.58750 	465.58750  	WQCQ738 	RM	141.3 PL	PismoBeach PD N 	Police Dispatch - North (Multicast w/South) 	FMN 	Law Dispatch 
+453.90000 	465.58750  	WNYJ376 	RM	141.3 PL	PismoBeach PD S 	Police Dispatch - South (Multicast w/North) 	FMN 	Law Dispatch 
+453.47500 	   	WPEX293 	BM	85.4 PL	PismoBeach PD Y 	Police Tac "Yellow" 	FMN 	Law Tac 
+453.97500 	   	WPEX293 	BM	91.5 PL	PismoBeach PD D 	Police Detectives 	FMN 	Law Tac 
+151.04000 	158.83500  	WPRR635 	RM	146.2 PL	PismoBeach PW N 	Public Works - North (Multicast w/South) 	FMN 	Public Works 
+153.84500 	158.83500  	WPRR635 	RM	146.2 PL	PismoBeach PW S 	Public Works - South (Muticast w/North) 	FMN 	Public Works 
+460.37500 	465.37500  	KZM761 	RM	82.5 PL	SLO PD1 	Police Dispatch "Green" 	FMN 	Law Dispatch 
+453.75000 	458.75000  	WPKY681 	RM	026 DPL	SLO PD2 	Police SWAT/SNAP 	FMN 	Law Tac 
+453.28750 	458.28750  	WQLP601 	RM		SLO PD3 	Police Tac 2 	P25E 	Law Tac 
+155.14500 	154.20500  	WYC701 	RM	167.9 PL	SLO FD1 	Fire Dispatch 	FMN 	Fire Dispatch 
+154.31000 	   	WYC700 	BM	82.5 PL	SLO FD2 	Fire Tac 1 	FMN 	Fire-Tac 
+155.02500 	   	WQLP601 	BM	127.3 PL	SLO FD3 	Fire Tac 2 	FMN 	Fire-Tac 
+155.95500 	159.07500  	WQLP601 	RM	162.2 PL	SLO Comm VHF 	Citywide Common VHF (All Departments) 	FMN 	Multi-Tac 
+453.87500 	458.87500  	WQLP601 	RM	146.2 PL	SLO Comm UHF 	Citywide Common UHF (All Departments) 	FMN 	Multi-Tac 
+453.41250 	458.41250  	WQLP601 	RM	136.5 PL	SLO PW 1 	Public Works 1 	FMN 	Public Works 
+453.61250 	458.61250  	WQLP601 	RM	151.4 PL	SLO PW 2 	Public Works 2 	FMN 	Public Works 
+453.71250 	458.71250  	WQLP601 	RM	114.8 PL	SLO Utilities 	Utilities 	FMN 	Public Works 
+153.53000 	158.23500  	KNCN466 	RM	192.8 PL	SLO WR Res 	Whale Rock Reservoir (Cayucos) 	FMN 	Public Works 
+453.55000 	458.55000  	WPMP990 	RM	162.2 PL	SLO HA 	Housing Authority 	FMN 	Public Works 
+453.92500 	458.92500  	WQNZ335 	RM	79.7 PL	SLO Transit 	City Bus 	FMN 	Transportation 
+158.94000 	   	WNWA207 	BM	82.5 PL	Avila Beach CSD 	Operations 	FM 	Public Works 
+154.08500 	158.76000  	WSL631 	RM	82.5 PL	Cambria FD 	Fire Tac 	FMN 	Fire-Tac 
+154.11500 	158.95500  	WSL631 	RM	100.0 PL	Cambria Wste 	CSD Waste Operations 	FMN 	Public Works 
+154.11500 	158.95500  	WSL631 	RM	88.5 PL	Cambria Wtr 	CSD Water Operations 	FMN 	Public Works 
+153.80000 	158.92500  	WNWX263 	RM	127.3 PL	Cayucos Sani 	Operations 	FMN 	Public Works 
+153.45500 	   	KNBV881 	BM	100.0 PL	Nipomo CSD 	Operations 	FM 	Public Works 
+158.94000 	   	KNGN979 	BM	82.5 PL	Oceano CSD 	Water District/Public Works 	FMN 	Public Works 
+154.43000 	150.77500  	WPLS559 	RM	82.5 PL	San Miguel FD 	Fire Tactical 	FMN 	Fire-Tac 
+153.86000 	156.23250  	WQQA270 	RM	103.5 PL	SM FPD 	Operations 	FMN 	Fire Dispatch 
+153.96500 	   	KNDC810 	BM	82.5 PL	Templeton FD 	Fire Tactical 	FMN 	Fire-Tac 
+155.86500 	   	KNDC810 	BM	CSQ	Templeton PW 	Public Works 	FMN 	Public Works 
+453.27500 	458.27500  	KNEQ788 	RM	100.0 PL	Templeton Wr 	Water District 	FMN 	Public Works 
+155.74500 	158.89500  	WNKX821 	RM	82.5 PL	Port SanLuis 	Operations 	FMN 	Law Tac 
+154.60000 	   	 	M	171.3 PL	Atascadero HS 	Atascadero High Shcool 	FMN 	Schools 
+451.82500 	   	 	M	CSQ	Atascadero MS 	Atascadero Middle School 	FMN 	Schools 
+463.32500 	468.32500  	WZR593 	RM	131.8 PL	Atascadero USD 	District Operations 	FMN 	Schools 
+460.25000 	465.25000  	KMG999 	RM	82.5 PL	CP SLO PD 1 	Police Dispatch (Gold) 	FMN 	Law Dispatch 
+460.45000 	465.45000  	KMA821 	RM	203.5 PL	CP SLO PD 2 	Police Tactical (Plaid) 	FMN 	Law Tac 
+151.71500 	   	KVW535 	BM	156.7 PL	CP SLO Comm 	Communications Services 	FMN 	Public Works 
+153.74000 	   	WNFA939 	BM	100.0 PL	CP SLO EVH 	Environmental Health & Safety 	FMN 	Public Works 
+463.25000 	468.25000  	KVW535 	RM	100.0 PL	CP SLO Facility 	Facilities Services 	FMN 	Public Works 
+152.95250 	160.14750  	WQTU894 	RM	245 DPL	CP SLO DSS 	Disabled Student Services 	FMN 	Transportation 
+152.33000 	157.59000  	WQDW467 	RM	97.4 PL	CP SLO Union 	ASI - University Union 	FM 	Business 
+152.97500 	   	WPZE744 	M	100.0 PL	CP SLO AS1 	Associated Students Inc. 	FMN 	Business 
+154.51500 	   	WPZE744 	M	100.0 PL	CP SLO AS2 	Associated Students Inc. 	FMN 	Business 
+159.75000 	   	WPZE744 	M	100.0 PL	CP SLO AS3 	Associated Students Inc. 	FMN 	Business 
+159.84000 	   	WPZE744 	M	100.0 PL	CP SLO AS4 	Associated Students Inc. 	FMN 	Business 
+160.02000 	   	WPZE744 	M	100.0 PL	CP SLO AS5 	Associated Students Inc. 	FMN 	Business 
+464.52500 	469.52500  	WPKM651 	RM	155 DPL	CP SLO Corp 	Cal Poly Corporation 	FMN 	Business 
+460.52500 	465.52500  	WQJN545 	RM	146.2 PL	Cuesta CC PD 	Police - Main Campus 	FMN 	Law Dispatch 
+460.80000 	465.80000  	 	RM		Cuesta CC Ops 	Operations & North County Campus 	FMN 	Schools 
+152.28500 	157.54500  	WQCD585 	RM	77.0 PL	LMUSD AGHS 	Arroyo Grande High School 	FMN 	Schools 
+153.02000 	159.67500  	WPMU951 	RM	77.0 PL	LMUSD Buses 	Buses 	FMN 	Schools 
+150.87500 	160.09500  	WPMU951 	RM	77.0 PL	LMUSD Emerg 	Emergency 	FMN 	Schools 
+155.20500 	   	KNHL557 	BM	77.0 PL	LMUSD Emerg2 	Emergency Ch 2 	FMN 	Schools 
+158.20500 	   	WPMU951 	M	77.0 PL	LMUSD Maint 	Maintenance 	FMN 	Schools 
+152.31500 	157.57500  	WPYB490 	RM	77.0 PL	LMUSD NHS 	Nipomo High School 	FM 	Schools 
+152.40500 	157.66500  	KNFQ445 	RM	103.5 PL	SLCUSD 	Operations 	FMN 	Schools 
+461.37500 	466.37500  	KNBP686 	RM	100.0 PL	SLO OofEd 	Operations 	FMN 	Schools 
+ATT (LTR)	 LTR Standard	 Various	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Sterling Communications	 LTR Standard	 Arroyo Grande

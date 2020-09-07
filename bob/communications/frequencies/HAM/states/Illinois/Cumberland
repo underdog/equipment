@@ -1,25 +1,25 @@
-155.07000 	KSC770 	RM	186.2 PL	Cumb Sheriff 	Sheriff: Dispatch / Rural Police 	FMN 	Law Dispatch 
-453.26250 	WQEJ223 	F	503 DPL	CumbShrf RF1 	Sheriff: Remote Link to 155.07 	FMN 	Law Dispatch 
-458.26250 	 	F	624 DPL	CumbShrf RF2 	Sheriff: Remote Link to 155.07 [No License; in use 1/20] 	FMN 	Law Dispatch 
-155.31000 	 	RM	186.2 PL	CumbShrf*Sim 	Sheriff: Simulcasting of 155.07R  (unk loco, Jasper Co?)  	FMN 	Law Dispatch 
-156.09000 	KSC770 	M		CumbShrfJail 	Sheriff: Jail Ops (also input to Coles Co 911) 	FMN 	Corrections 
-155.02500 	KB61912?? 	M	CSQ	ESMARN 	ESDA: Statewide High Band [Expired] 	FMN 	Emergency Ops 
-159.21000 	KSC770 	RM		Cumb Interop 	911: Water Tower (Alternate Fire/EMS/Police) 	FMN 	Interop 
-154.08500 	KSC770 	RM	186.2 PL	CumbFireWest 	Fire: Dispatch -- Greenup, Toledo, Neoga Fire/Amb, Siegel, Montrose [Ch 1] 	FMN 	Fire Dispatch 
-155.86500 	KSC770 	RM	186.2 PL	CumbFireEast 	Fire/EMS: Dispatch / DTMF Siren Activation [Ch 1] 	FMN 	Fire Dispatch 
-453.16250 	KSC770 	F		Cumb Fire*RF 	Fire: Remote Receive Links/Voting System 	FMN 	Fire Dispatch 
-155.52000 	KSC770 	RM	186.2 PL	Cumb FireOld 	Fire/EMS: Old Dispatch [Ch 2] (rare use) 	FMN 	Fire Dispatch 
-158.76000 	WQEJ223 	BM		Cumb Highway 	Public Works / Road Construction (Neoga) 	FMN 	Public Works 
-453.26250 	WQEJ223 	F		Cumb HW RF 	Highway: Remote Links - Toledo, Greenup 	FMN 	Public Works 
-151.10000 	WNBV983 	BM		Cumb HW Old 	Road Maintenance 	FMN 	Public Works 
-153.60500 	WQOW492 	BM		GreenupLocal 	All Departments / Village Ops (in use) 	NXDN 	Multi-Dispatch 
-154.16000 	KUD510 	BM		Greenup FG-7 	Fireground [Ch 7] 	FMN 	Fire-Tac 
-173.33750 	WPFU440 	F	100.0 PL	Greenup WDD 	Water Distribution Data 	FMN 	Public Works 
-151.52750 	WQTP741 	RM	263 DPL	GreenupUtiltites 	Utilities 	FMN 	Public Works 
-464.90000 	WPZI200 	F		Jewette WDD 	Water Distribution Data 	Telm 	Public Works 
-158.83500 	KNIW851 	BM	110.9 PL	Neoga Local 	Street / Water* / Police / Fireground 	FMN 	Multi-Dispatch 
-157.56000 	KNIC770 	BM		Neoga EMS 	EMS: Dispatch  	FMN 	EMS Dispatch 
-151.92500 	KNIF756 	BM		Toledo PW/Util 	Public Works / Utilities Service Company 	FMN 	Public Works 
-460.75000 	WPJI592 	RM		Cumbrlnd Schools 	Operations (Greenup) 	FMN 	Schools 
-155.23500 	WNAB473 	BM		NeogaSchools 	Buses 	FMN 	Schools 
+155.07000 	158.86500  	KSC770 	RM	186.2 PL	Cumb Sheriff 	Sheriff: Dispatch / Rural Police 	FMN 	Law Dispatch 
+453.26250 	   	WQEJ223 	F	503 DPL	CumbShrf RF1 	Sheriff: Remote Link to 155.07 	FMN 	Law Dispatch 
+458.26250 	   	 	F	624 DPL	CumbShrf RF2 	Sheriff: Remote Link to 155.07 [No License; in use 1/20] 	FMN 	Law Dispatch 
+155.31000 	155.07000  	 	RM	186.2 PL	CumbShrf*Sim 	Sheriff: Simulcasting of 155.07R  (unk loco, Jasper Co?)  	FMN 	Law Dispatch 
+156.09000 	   	KSC770 	M		CumbShrfJail 	Sheriff: Jail Ops (also input to Coles Co 911) 	FMN 	Corrections 
+155.02500 	   	KB61912?? 	M	CSQ	ESMARN 	ESDA: Statewide High Band [Expired] 	FMN 	Emergency Ops 
+159.21000 	154.65000  	KSC770 	RM		Cumb Interop 	911: Water Tower (Alternate Fire/EMS/Police) 	FMN 	Interop 
+154.08500 	154.71000  	KSC770 	RM	186.2 PL	CumbFireWest 	Fire: Dispatch -- Greenup, Toledo, Neoga Fire/Amb, Siegel, Montrose [Ch 1] 	FMN 	Fire Dispatch 
+155.86500 	154.71000  	KSC770 	RM	186.2 PL	CumbFireEast 	Fire/EMS: Dispatch / DTMF Siren Activation [Ch 1] 	FMN 	Fire Dispatch 
+453.16250 	   	KSC770 	F		Cumb Fire*RF 	Fire: Remote Receive Links/Voting System 	FMN 	Fire Dispatch 
+155.52000 	155.19000  	KSC770 	RM	186.2 PL	Cumb FireOld 	Fire/EMS: Old Dispatch [Ch 2] (rare use) 	FMN 	Fire Dispatch 
+158.76000 	   	WQEJ223 	BM		Cumb Highway 	Public Works / Road Construction (Neoga) 	FMN 	Public Works 
+453.26250 	   	WQEJ223 	F		Cumb HW RF 	Highway: Remote Links - Toledo, Greenup 	FMN 	Public Works 
+151.10000 	   	WNBV983 	BM		Cumb HW Old 	Road Maintenance 	FMN 	Public Works 
+153.60500 	   	WQOW492 	BM		GreenupLocal 	All Departments / Village Ops (in use) 	NXDN 	Multi-Dispatch 
+154.16000 	   	KUD510 	BM		Greenup FG-7 	Fireground [Ch 7] 	FMN 	Fire-Tac 
+173.33750 	   	WPFU440 	F	100.0 PL	Greenup WDD 	Water Distribution Data 	FMN 	Public Works 
+151.52750 	157.53750  	WQTP741 	RM	263 DPL	GreenupUtiltites 	Utilities 	FMN 	Public Works 
+464.90000 	   	WPZI200 	F		Jewette WDD 	Water Distribution Data 	Telm 	Public Works 
+158.83500 	   	KNIW851 	BM	110.9 PL	Neoga Local 	Street / Water* / Police / Fireground 	FMN 	Multi-Dispatch 
+157.56000 	   	KNIC770 	BM		Neoga EMS 	EMS: Dispatch  	FMN 	EMS Dispatch 
+151.92500 	   	KNIF756 	BM		Toledo PW/Util 	Public Works / Utilities Service Company 	FMN 	Public Works 
+460.75000 	466.75000  	WPJI592 	RM		Cumbrlnd Schools 	Operations (Greenup) 	FMN 	Schools 
+155.23500 	   	WNAB473 	BM		NeogaSchools 	Buses 	FMN 	Schools 
 Clear Talk (DMR L4 Tier 3)	 DMR Tier 3	 Multiple	Norris Electric Cooperative (IL)	 DMR Conventional Networked	 Newton	

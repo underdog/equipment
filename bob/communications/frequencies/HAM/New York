@@ -65,11 +65,11 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 224.22000,222.62000,,,WB2VPY,WB2VPY,Chemung
 443.55000,448.55000,,100.0 PL,N2HLT,N2HLT,Chemung
 444.20000,449.20000,,100.0 PL,NA2TC,KA3EVQ,Chemung
-444.65000,449.65000,,,KC2IOC,KC2IOC DMR,Chemung
 444.65000,449.65000,100.0 PL,100.0 PL,KC2IOC,KC2IOC Analog,Chemung
+444.65000,449.65000,,,KC2IOC,KC2IOC DMR,Chemung
 146.68500,146.08500,110.9 PL,110.9 PL,W2RME,CVARA W2RME Chenango Valley Amatuer Radio Association,Chenango
-443.05000,448.05000,179.9 PL,179.9 PL,KD2HKB,KD2HKB Analog,Chenango
 443.05000,448.05000,,,KD2HKB,KD2HKB Digital,Chenango
+443.05000,448.05000,179.9 PL,179.9 PL,KD2HKB,KD2HKB Analog,Chenango
 147.15000,147.75000,123.0 PL,123.0 PL,,Champlain Valley Radio Club,Clinton
 147.21000,147.81000,,,K2RVW,K2RVW - Hudson - RVWARS,Columbia
 224.28000,222.68000,,,K2RVW,K2RVW - Hudson - RVWARS,Columbia
@@ -114,8 +114,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 442.32500,447.32500,,107.2 PL,WB2ELW,Colden,Erie
 442.40000,447.40000,,100.0 PL,WA2OLW,West Seneca,Erie
 442.62500,447.62500,,107.2 PL,KC2KOO,Buffalo,Erie
-442.67500,447.67500,293 NAC,293 NAC,N4NJJ,N4NJJ Digital,Erie
 442.67500,447.67500,107.2 PL,107.2 PL,N4NJJ,N4NJJ Analog,Erie
+442.67500,447.67500,293 NAC,293 NAC,N4NJJ,N4NJJ Digital,Erie
 443.40000,448.40000,,100.0 PL,WB2DSS,Hamburg,Erie
 443.52500,448.52500,,151.4 PL,WB2ECR,Buffalo,Erie
 443.85000,448.85000,,107.2 PL,W2SO,Lancaster - LARC - IRLP,Erie
@@ -240,24 +240,24 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 29.66000,29.56000,114.8 PL,114.8 PL,WB2HWW,WB2HWW - Linked to 6m, 1 1/4m, 70cm,New York City
 53.47000,52.47000,192.8 PL,192.8 PL,WB2HWW,WB2HWW - Linked to 10m, 1 1/4m, 70cm,New York City
 53.83000,52.83000,136.5 PL,136.5 PL,KC2GOW,KC2GOW Staten Island,New York City
-147.31500,147.91500,,118.8 PL,KC2GOW,KC2GOW Staten Island,New York City
 147.31500,147.91500,,293 NAC,KC2GOW,KC2GOW Staten Island,New York City
+147.31500,147.91500,,118.8 PL,KC2GOW,KC2GOW Staten Island,New York City
 224.10000,222.50000,,141.3 PL,KC2GOW,KC2GOW Staten Island,New York City
+440.50000,445.50000,,,K2QQJ,DMR-MARC US/English Speaking Countries,New York City
 440.50000,445.50000,,,K2QQJ,DMR-MARC Worldwide,New York City
 440.50000,445.50000,,,K2QQJ,DMR-MARC Local Region,New York City
-440.50000,445.50000,,,K2QQJ,DMR-MARC US/English Speaking Countries,New York City
-440.55000,445.55000,293 NAC,293 NAC,KC2GOW,KC2GOW Manhattan,New York City
 440.55000,445.55000,,141.3 PL,KC2GOW,KC2GOW Manhattan,New York City
+440.55000,445.55000,293 NAC,293 NAC,KC2GOW,KC2GOW Manhattan,New York City
 440.70000,445.70000,114.8 PL,114.8 PL,WB2HWW,WB2HWW - With Inputs and LInks on 10m, 6m, 1 1/4m,New York City
 441.10000,446.10000,136.5 PL,136.5 PL,N2ROW,N2ROW Brooklyn,New York City
 443.30000,448.30000,,,N2NSA,N2NSA Bronx,New York City
-445.12500,440.12500,,141.3 PL,KC2GOW,KC2GOW Staten Island,New York City
 445.12500,440.12500,293 NAC,293 NAC,KC2GOW,KC2GOW Staten Island,New York City
+445.12500,440.12500,,141.3 PL,KC2GOW,KC2GOW Staten Island,New York City
 447.02500,442.02500,,,WB2WAK,WB2WAK Glen Oaks,New York City
 449.22500,444.22500,67.0 PL,82.5 PL,KQ2H,KQ2H Manhattan,New York City
-449.72500,444.72500,,,KC2CQR,DMR-MARC Local Region,New York City
 449.72500,444.72500,,,KC2CQR,DMR-MARC US/English Speaking Countries,New York City
 449.72500,444.72500,,,KC2CQR,DMR-MARC Worldwide,New York City
+449.72500,444.72500,,,KC2CQR,DMR-MARC Local Region,New York City
 927.70000,902.70000,,100.0 PL,KC2GOW,KC2GOW Staten Island (Linked to 6m and 1.25cm),New York City
 51.64000,51.14000,,107.2 PL,KD2WA,KD2WA - Royalton,Niagara
 146.73000,146.13000,,,KD2GBR,KD2GBR - D-Star,Niagara
@@ -391,18 +391,17 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 444.35000,449.35000,,,N2IED,N2IED,Steuben
 145.21000,0.00000,,136.5 PL,W2DQ,Div-5 Brookhaven RACES,Suffolk
 145.21000,144.61000,,136.5 PL,W2DQ,Suffolk County Radio Club - Yaphank (Echolink node 158428),Suffolk
-145.27000,144.67000,,136.5 PL,N2NEI,N2NEI - East Hampton,Suffolk
 145.27000,0.00000,,136.5 PL,N2NEI,Div-9 East Hampton RACES,Suffolk
+145.27000,144.67000,,136.5 PL,N2NEI,N2NEI - East Hampton,Suffolk
 145.31000,0.00000,,118.8 PL,K2SPD,NWS-Upton,Suffolk
 145.33000,0.00000,,136.5 PL,WA2LQO,Suffolk County RACES,Suffolk
 145.37000,0.00000,,136.5 PL,N2NFI,Div-6 Riverhead RACES,Suffolk
 145.43000,0.00000,,136.5 PL,W2LRC,Larkfield Amateur Radio Club-Hauppauge,Suffolk
 145.43000,0.00000,,136.5 PL,W2LRC,Div-4 Smithtown RACES,Suffolk
-146.68500,146.08500,,110.9 PL,W2GSB,W2GSB - North Lindenhurst,Suffolk
+146.68500,146.08500,,127.3 PL,W2GSB,W2GSB - North Lindenhurst,Suffolk
 146.68500,0.00000,,136.5 PL,W2GSB,Div-1 Babylon RACES,Suffolk
-147.03000,147.63000,,136.5 PL,WB2ROL,WB2ROL - Central Islip,Suffolk
-147.03000,0.00000,,107.2 PL,,Div-10 Shelter Island RACES,Suffolk
 147.03000,147.63000,,,WD2NY,WD2NY DSTAR,Suffolk
+147.03000,0.00000,,107.2 PL,,Div-10 Shelter Island RACES,Suffolk
 147.19500,0.00000,,136.5 PL,WA2UEG,Div-7 Southampton RACES,Suffolk
 147.21000,0.00000,,136.5 PL,WR2ABA,Larkfield Amateur Radio Club-Huntington,Suffolk
 147.21000,0.00000,,136.5 PL,WR2ABA,Div-2 Huntington RACES,Suffolk
@@ -414,11 +413,12 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 440.25000,445.25000,,,W2TOB,Great South Bay ARC - North Lindenhurst,Suffolk
 440.85000,445.85000,,110.9 PL,W2GSB,W2GSB - West Islip,Suffolk
 444.23750,449.23750,,,WD2NY,WD2NY DSTAR,Suffolk
-445.72500,440.72500,,91.5 PL,K2LI,K2LI - Selden,Suffolk
+444.70000,449.70000,,114.8 PL,WR2UHF,WR2UHF - Farmingville,Suffolk
+445.72500,440.72500,,,WD2NY,WD2NY DSTAR - Selden,Suffolk
 446.62500,441.62500,,110.9 PL,W2DQ,Suffolk County Radio Club - Yaphank,Suffolk
-449.97500,444.97500,,,K1IMD,DMR-MARC US/English Speaking Countries,Suffolk
 449.97500,444.97500,,,K1IMD,DMR-MARC Worldwide,Suffolk
 449.97500,444.97500,,,K1IMD,DMR-MARC Local Region,Suffolk
+449.97500,444.97500,,,K1IMD,DMR-MARC US/English Speaking Countries,Suffolk
 927.31250,915.31250,,606 DPL,W2YMM,W2YMM - West Islip,Suffolk
 29.62000,29.52000,146.2 PL,,KQ2H,KQ2H Wurtsboro,Sullivan
 441.95000,446.95000,,114.8 PL,N2ACF,N2ACF Libery,Sullivan
@@ -465,8 +465,8 @@ Output,Input,Tone Out,Tone In,Callsign,Description,County
 146.74500,146.14500,,,WA2AAZ,Drumlins Amateur Radio Club - Newark,Wayne
 443.25000,448.25000,110.9 PL,110.9 PL,N2MKT,N2MKT Newark,Wayne
 444.75000,449.75000,,,WA2EMO,Drumlins Amateur Radio Club - RACES,Wayne
-444.75000,449.75000,,,WA2EMO,Drumlins Amateur Radio Club - RACES,Wayne
 444.75000,449.75000,110.9 PL,110.9 PL,WA2EMO,Drumlins Amateur Radio Club - RACES,Wayne
+444.75000,449.75000,,,WA2EMO,Drumlins Amateur Radio Club - RACES,Wayne
 145.11000,144.51000,,123.0 PL,N2FMC,N2FMC Chappaqua,Westchester
 147.06000,147.66000,,114.8 PL,WB2ZII,Westchester Emergency Communications Assoc,Westchester
 224.40000,222.80000,,114.8 PL,WB2ZII,Westchester Emergency Communications Assoc,Westchester

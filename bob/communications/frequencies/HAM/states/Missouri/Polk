@@ -1,40 +1,40 @@
-155.49000 	WNXY762 	RM	10 RAN	Polk Sheriff A 	Sheriff: Dispatch [TG 0 Simulcast] 	NXDN 	Law Dispatch 
-151.28750 	WNXY762 	RM	5 RAN	Polk Sheriff B 	Sheriff: Dispatch [TG 0 Simulcast] 	NXDN 	Law Dispatch 
-155.49000 	WNXY762 	RM	100.0 PL	Polk Sheriff ALG 	Sheriff: Dispatch  	FMN 	Law Dispatch 
-155.37000 	KAH825 	BM	107.2 PL	S/W P2P 107.2 	Statewide Point-to-Point 	FMN 	Law Talk 
-155.74500 	WQH338 	RM	123.0 PL	Polk County EMA 	Emergency Management 	FMN 	Emergency Ops 
-160.06500 	WQNL390 	BM	506 DPL	Polk Health/Tran 	Health Center / Transportation 	FMN 	Transportation 
-154.16000 	WNXU394 	RM	156.7 PL	Polk Fire 1 	Fire: Dispatch - Central Polk County, Morrisville, Pleasant Hope (Tower 1-Brighton) 	FMN 	Fire Dispatch 
-151.14500 	WNXU394 	RM	110.9 PL	Polk Fire 2 	Fire: Dispatch - Humansville (Tower 2-Humansville) 	FMN 	Fire Dispatch 
-156.19500 	WNXU394 	RM	94.8 PL	Polk Fire 3 	Fire: Dispatch - Polk (Tower 3-Polk) 	FMN 	Fire Dispatch 
-154.83000 	WQTT203 	RM	107.2 PL	Polk Fire 4 	Fire: Dispatch - Dunnegan (Tower 4-Fairplay) 	FMN 	Fire Dispatch 
-155.53500 	WQTT203 	RM	156.7 PL	Polk Fire 5 	Fire: Dispatch - Halfway (Tower 5-Halfway) 	FMN 	Fire Dispatch 
-154.71000 	 	M	123.0 PL	Polk Fire TacS  	Fire: South Tactical 	FMN 	Fire-Tac 
-153.89000 	WRA619 	M	94.8 PL	Polk Fire TacN  	Fire: North Tactical 	FMN 	Fire-Tac 
-156.19500 	WNXU394 	M	88.5 PL	PolkFire TacSA  	Fire: South Tac Alt 	FMN 	Fire-Tac 
-154.16000 	WNXU394 	M	94.8 PL	PolkFire TacNA  	Fire: North - Tac Alt 	FMN 	Fire-Tac 
-151.09250 	WNZP451 	RM	CC 2TG 104011SL 2	CMH Security 	Security 	DMR 	Security 
-155.40000 	WNZP451 	RM	CC 1TG 102021SL 2	CMH EMS 	EMS: Dispatch (was 162.2 PL) 	DMR 	EMS Dispatch 
-155.40000 	WNZP451 	RM	CC 1TG 103031SL 1	CMH PatientRpts 	Patient Reports  	DMRE 	Hospital 
-155.34000 	KNDE668 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
-152.34500 	WQZP550 	RM	165 DPL	Cox AirCare 2 	Cox AirCare 2 	FMN 	EMS Dispatch 
-453.48750 	WQFT759 	RM	165 DPL	Lifeline 3 	Lifeline 3 Helicopter Dispatch 	FMN 	EMS Dispatch 
-155.02500 	WPUD293 	RM	CC 2TG 207021SL 1	Bolivar PD 025 	Police: Dispatch 	DMR 	Law Dispatch 
-155.79000 	KAL523 	RM	CC 2TG 207021SL 1	Bolivar PD 790 	Police: Dispatch 	DMR 	Law Dispatch 
-154.72500 	KAL523 	RM	CC 1TG 201031SL 1	Bolivar InterOp1 	InterOp 1 	DMR 	Interop 
-154.72500 	KAL523 	RM	CC 1TG 201032SL 2	Bolivar InterOp2 	InterOp 2 	DMR 	Interop 
-155.02500 	WPUD293 	RM	CC 2TG 206021SL 2	Bolivar Fire 025 	Fire: Dispatch 	DMR 	Fire Dispatch 
-155.79000 	KAL523 	RM	CC 2TG 206021SL 2	Bolivar Fire 790 	Fire: Dispatch 	DMR 	Fire Dispatch 
-154.72500 	KAL523 	RM	CC 1TG 280031SL 2	Bolivar Roads 	Roads 	DMR 	Public Works 
-154.89000 	WQCA957 	BM		FrPly City 1 	City Operations 	FMN 	Multi-Dispatch 
-155.65500 	WQCA957 	BM		FrPly City 2 	City Operations 	FMN 	Multi-Dispatch 
-155.05500 	KSI537 	BM		Human PubWrks  	Public Works 	FMN 	Public Works 
-155.07750 	WQJX385 	RM	136.5 PL	Morr Fire/Resq  	Fire/Rescue: Tac 	FMN 	Fire-Tac 
-152.88500 	WQYF354 	RM	5 RAN	Halfway Sch Bus 	Buses/Ops [TG 0] 	NXDN 	Schools 
-152.88500 	WQYF354 	RM	10 RAN	Halfway Sch Priv 	Private [TG 0] 	NXDN 	Schools 
-155.26500 	WNRL240 	BM		Human School 	Humansville R4 Schools 	FMN 	Schools 
-155.28000 	WPXZ798 	BM	100.0 PL	RFM Sch Bus 	Rains F Martin School Bus (Bolivar) 	FMN 	Schools 
-123.00000 	 	BM	CSQ	BMA Ops 	Operations 	AM 	Aircraft 
-153.53000 	KNDT567 	BM	127.3 PL	SW Elec Coop 	Southwest Electric Coop (Bolivar) 	FMN 	Utilities 
-KAMO Power	 NXDN NEXEDGE 4800	 Various	Ozark Electric Cooperative (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Mount Vernon	Rayfield Communications - UHF (SWMO)	 LTR Standard
- Southern Missouri	SR Communications Associates (Southern MO)	 EDACS Networked Standard	 Various	
+155.49000 	159.09000  	WNXY762 	RM	10 RAN	Polk Sheriff A 	Sheriff: Dispatch [TG 0 Simulcast] 	NXDN 	Law Dispatch 
+151.28750 	153.78500  	WNXY762 	RM	5 RAN	Polk Sheriff B 	Sheriff: Dispatch [TG 0 Simulcast] 	NXDN 	Law Dispatch 
+155.49000 	159.09000  	WNXY762 	RM	100.0 PL	Polk Sheriff ALG 	Sheriff: Dispatch  	FMN 	Law Dispatch 
+155.37000 	   	KAH825 	BM	107.2 PL	S/W P2P 107.2 	Statewide Point-to-Point 	FMN 	Law Talk 
+155.74500 	158.94750  	WQH338 	RM	123.0 PL	Polk County EMA 	Emergency Management 	FMN 	Emergency Ops 
+160.06500 	   	WQNL390 	BM	506 DPL	Polk Health/Tran 	Health Center / Transportation 	FMN 	Transportation 
+154.16000 	158.92500  	WNXU394 	RM	156.7 PL	Polk Fire 1 	Fire: Dispatch - Central Polk County, Morrisville, Pleasant Hope (Tower 1-Brighton) 	FMN 	Fire Dispatch 
+151.14500 	155.91000  	WNXU394 	RM	110.9 PL	Polk Fire 2 	Fire: Dispatch - Humansville (Tower 2-Humansville) 	FMN 	Fire Dispatch 
+156.19500 	158.86500  	WNXU394 	RM	94.8 PL	Polk Fire 3 	Fire: Dispatch - Polk (Tower 3-Polk) 	FMN 	Fire Dispatch 
+154.83000 	156.06000  	WQTT203 	RM	107.2 PL	Polk Fire 4 	Fire: Dispatch - Dunnegan (Tower 4-Fairplay) 	FMN 	Fire Dispatch 
+155.53500 	158.79000  	WQTT203 	RM	156.7 PL	Polk Fire 5 	Fire: Dispatch - Halfway (Tower 5-Halfway) 	FMN 	Fire Dispatch 
+154.71000 	   	 	M	123.0 PL	Polk Fire TacS  	Fire: South Tactical 	FMN 	Fire-Tac 
+153.89000 	   	WRA619 	M	94.8 PL	Polk Fire TacN  	Fire: North Tactical 	FMN 	Fire-Tac 
+156.19500 	   	WNXU394 	M	88.5 PL	PolkFire TacSA  	Fire: South Tac Alt 	FMN 	Fire-Tac 
+154.16000 	   	WNXU394 	M	94.8 PL	PolkFire TacNA  	Fire: North - Tac Alt 	FMN 	Fire-Tac 
+151.09250 	153.92750  	WNZP451 	RM	CC 2TG 104011SL 2	CMH Security 	Security 	DMR 	Security 
+155.40000 	158.96250  	WNZP451 	RM	CC 1TG 102021SL 2	CMH EMS 	EMS: Dispatch (was 162.2 PL) 	DMR 	EMS Dispatch 
+155.40000 	158.96250  	WNZP451 	RM	CC 1TG 103031SL 1	CMH PatientRpts 	Patient Reports  	DMRE 	Hospital 
+155.34000 	   	KNDE668 	BM		HEAR340 	Patient Reports 	FMN 	Hospital 
+152.34500 	157.60500  	WQZP550 	RM	165 DPL	Cox AirCare 2 	Cox AirCare 2 	FMN 	EMS Dispatch 
+453.48750 	458.48750  	WQFT759 	RM	165 DPL	Lifeline 3 	Lifeline 3 Helicopter Dispatch 	FMN 	EMS Dispatch 
+155.02500 	158.98500  	WPUD293 	RM	CC 2TG 207021SL 1	Bolivar PD 025 	Police: Dispatch 	DMR 	Law Dispatch 
+155.79000 	159.40500  	KAL523 	RM	CC 2TG 207021SL 1	Bolivar PD 790 	Police: Dispatch 	DMR 	Law Dispatch 
+154.72500 	153.97250  	KAL523 	RM	CC 1TG 201031SL 1	Bolivar InterOp1 	InterOp 1 	DMR 	Interop 
+154.72500 	153.97250  	KAL523 	RM	CC 1TG 201032SL 2	Bolivar InterOp2 	InterOp 2 	DMR 	Interop 
+155.02500 	158.98500  	WPUD293 	RM	CC 2TG 206021SL 2	Bolivar Fire 025 	Fire: Dispatch 	DMR 	Fire Dispatch 
+155.79000 	159.09000  	KAL523 	RM	CC 2TG 206021SL 2	Bolivar Fire 790 	Fire: Dispatch 	DMR 	Fire Dispatch 
+154.72500 	153.97250  	KAL523 	RM	CC 1TG 280031SL 2	Bolivar Roads 	Roads 	DMR 	Public Works 
+154.89000 	   	WQCA957 	BM		FrPly City 1 	City Operations 	FMN 	Multi-Dispatch 
+155.65500 	   	WQCA957 	BM		FrPly City 2 	City Operations 	FMN 	Multi-Dispatch 
+155.05500 	   	KSI537 	BM		Human PubWrks  	Public Works 	FMN 	Public Works 
+155.07750 	159.06750  	WQJX385 	RM	136.5 PL	Morr Fire/Resq  	Fire/Rescue: Tac 	FMN 	Fire-Tac 
+152.88500 	159.79500  	WQYF354 	RM	5 RAN	Halfway Sch Bus 	Buses/Ops [TG 0] 	NXDN 	Schools 
+152.88500 	159.79500  	WQYF354 	RM	10 RAN	Halfway Sch Priv 	Private [TG 0] 	NXDN 	Schools 
+155.26500 	   	WNRL240 	BM		Human School 	Humansville R4 Schools 	FMN 	Schools 
+155.28000 	   	WPXZ798 	BM	100.0 PL	RFM Sch Bus 	Rains F Martin School Bus (Bolivar) 	FMN 	Schools 
+123.00000 	   	 	BM	CSQ	BMA Ops 	Operations 	AM 	Aircraft 
+153.53000 	   	KNDT567 	BM	127.3 PL	SW Elec Coop 	Southwest Electric Coop (Bolivar) 	FMN 	Utilities 
+KAMO Power	 NXDN NEXEDGE 4800	 Various	Ozark Electric Cooperative (DMR)	 DMR Motorola Capacity Plus Multi Site (TRBO)	 Mount Vernon	Rayfield Communications - UHF (SWMO)	 LTR Standard	 Southern Missouri
+SR Communications Associates (Southern MO)	 EDACS Networked Standard	 Various	

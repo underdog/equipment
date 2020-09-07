@@ -1,20 +1,20 @@
-155.01000 	KAI736 	RM	141.3 PL	Shlby 911-Cl 	Sheriff/911 (Clarence) 	FMN 	Multi-Dispatch 
-155.80500 	KAI736 	RM		Shlby 911-Sb 	Sheriff/911 (Shelbina) 	FMN 	Multi-Dispatch 
-154.84500 	KAI736 	BM		Shlby 911-Sv 	Sheriff/911 (Shelbyville) 	FMN 	Multi-Dispatch 
-154.14500 	WQDH516 	BM		Shelby Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
-151.11500 	WNUE373 	BM		Shelby Roads 	Highway Department  	FMN 	Public Works 
-154.45625 	WQEY751 	F		CC WaterData 	Clarence Cannon Wholesale Water Commission - CCWWC: Water Distribution Data  	Telm 	Data 
-154.45625 	WQEX445 	F		MacnWatrData 	Macon County Public Water Supply District # 1 	Telm 	Data 
-154.99500 	WNXM393 	BM		ShlbWatrData 	Shelby County Public Water Supply District #1: Ops  	FMN 	Public Works 
-451.47500 	WPTE600 	F		Shelby Water 	Water Distribution Data (Bethel) 	Telm 	Data 
-451.47500 	WPGC606 	M		ShlbWtrData1 	Water Distribution Data  	Telm 	Data 
-451.47500 	WPGC642 	F		ShlbWtrData2 	Water Distribution Data (Shelbina, Bethel, Honnewl, Shelbyville) 	Telm 	Data 
-155.77500 	WPHM421 	RM		Clar Utility 	Utilities Department 	FMN 	Public Works 
-155.12250 	WQJZ734 	BM		Hunnewell 	City Operations (Low Power) 	FMN 	Public Works 
-155.22000 	WNVN719 	BM		SaltRiverEMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
-154.06250 	WRAB419 	RM		Shelbina Fire 	Fire: Local 	FMN 	Fire-Tac 
-155.80500 	KGV255 	BM		ShlbinaLocal 	Local Government 	FMN 	Public Works 
-154.02500 	WQBR663 	BM		ShlbyvlLocal 	Local Government 	FMN 	Public Works 
-155.16000 	WPGD900 	BM		ShlbySchools 	Shelby County C1 School Districts: Buses 	FMN 	Schools 
-461.15000 	WNBA296 	RM		ShlbSchl Bus 	Shelby County Region 4: Buses (Clarence) 	FMN 	Schools 
-153.39500 	WQGG725 	BM		CarrollFarms 	Carroll Family Farms (Clarence) 	FMN 	Business 
+155.01000 	153.92000  	KAI736 	RM	141.3 PL	Shlby 911-Cl 	Sheriff/911 (Clarence) 	FMN 	Multi-Dispatch 
+155.80500 	154.77000  	KAI736 	RM		Shlby 911-Sb 	Sheriff/911 (Shelbina) 	FMN 	Multi-Dispatch 
+154.84500 	   	KAI736 	BM		Shlby 911-Sv 	Sheriff/911 (Shelbyville) 	FMN 	Multi-Dispatch 
+154.14500 	   	WQDH516 	BM		Shelby Fire 	Fire: Dispatch 	FMN 	Fire Dispatch 
+151.11500 	   	WNUE373 	BM		Shelby Roads 	Highway Department  	FMN 	Public Works 
+154.45625 	   	WQEY751 	F		CC WaterData 	Clarence Cannon Wholesale Water Commission - CCWWC: Water Distribution Data  	Telm 	Data 
+154.45625 	   	WQEX445 	F		MacnWatrData 	Macon County Public Water Supply District # 1 	Telm 	Data 
+154.99500 	   	WNXM393 	BM		ShlbWatrData 	Shelby County Public Water Supply District #1: Ops  	FMN 	Public Works 
+451.47500 	   	WPTE600 	F		Shelby Water 	Water Distribution Data (Bethel) 	Telm 	Data 
+451.47500 	   	WPGC606 	M		ShlbWtrData1 	Water Distribution Data  	Telm 	Data 
+451.47500 	   	WPGC642 	F		ShlbWtrData2 	Water Distribution Data (Shelbina, Bethel, Honnewl, Shelbyville) 	Telm 	Data 
+155.77500 	   	WPHM421 	RM		Clar Utility 	Utilities Department 	FMN 	Public Works 
+155.12250 	   	WQJZ734 	BM		Hunnewell 	City Operations (Low Power) 	FMN 	Public Works 
+155.22000 	   	WNVN719 	BM		SaltRiverEMS 	EMS: Dispatch 	FMN 	EMS Dispatch 
+154.06250 	155.97750  	WRAB419 	RM		Shelbina Fire 	Fire: Local 	FMN 	Fire-Tac 
+155.80500 	   	KGV255 	BM		ShlbinaLocal 	Local Government 	FMN 	Public Works 
+154.02500 	   	WQBR663 	BM		ShlbyvlLocal 	Local Government 	FMN 	Public Works 
+155.16000 	   	WPGD900 	BM		ShlbySchools 	Shelby County C1 School Districts: Buses 	FMN 	Schools 
+461.15000 	466.15000  	WNBA296 	RM		ShlbSchl Bus 	Shelby County Region 4: Buses (Clarence) 	FMN 	Schools 
+153.39500 	   	WQGG725 	BM		CarrollFarms 	Carroll Family Farms (Clarence) 	FMN 	Business 

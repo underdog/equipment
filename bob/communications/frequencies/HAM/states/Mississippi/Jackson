@@ -1,17 +1,16 @@
-154.28000 	KVN849 	BM		JC Fire Net 	Jackson County Fire Net 	FM 	Fire Dispatch 
-155.05500 	KVD508 	BM		JC EMS Net 	Jackson County EMS Net 	FMN 	EMS Dispatch 
-155.23500 	WPRZ852 	BM	131.8 PL	AcadianAmbul 	Acadian Ambulance 	FMN 	EMS Dispatch 
-461.60000 	WPYN674 	RM	186.2 PL	OS Schl Disp 	School District - Dispatch to Units 	FMN 	Schools 
-461.60000 	WPYN674 	RM	192.8 PL	OS Schl Unit 	School District - Unit to Dispatch/Units 	FMN 	Schools 
-159.12000 	WQNB476 	RM		OS PW Trbo 1 	Public Works TRBO 1 	DMR 	Public Works 
-158.85000 	WQNB476 	RM		OS PW Trbo 2 	Public Works TRBO 2 	DMR 	Public Works 
-154.05500 	KTX751 	BM		Pasc Parks 1 	Parks & Recreation 	FM 	Public Works 
-154.31000 	KET343 	BM		Pasc FD 	Fire 	FM 	Fire Dispatch 
-154.72500 	WPSL412 	BM	118.8 PL	Pasc PD 2 	Police 	FM 	Law Dispatch 
-155.70000 	WPSL412 	RM	118.8 PL	Pasc AC 	Pascagoula Animal Control (old Police - Primary) 	FM 	Public Works 
-155.86500 	KTX751 	BM		Pasc Parks 2 	Parks & Recreation 	FM 	Public Works 
-463.27500 	WPOE615 	RM	91.5 PL	PascSch Mtce 	Pascagoula School Maintenance 	FM 	Schools 
-Chevron Pascagoula Refinery	 Motorola Type II	 Pascagoula	ComSouth DMR - COMNET Mississippi	 DMR Motorola Connect Plus (TRBO)	 Multiple	Entergy 	 Project 25 Phase II
- Various	Huntington Ingalls Industries	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pascagoula	Hurricane Electronics (Ocean Springs)	 LTR Standard	 Ocean Springs	Jackson County
- Motorola Type II SmartZone	 Pascagoula	Mississippi Wireless Integrated Network (MSWIN)	 Project 25 Phase II	 Jackson	Telecomm Network (Gautier)	 LTR Standard	 Gautier
-Telecomm Network (Pascagoula)	 LTR Standard	 Pascagoula	
+154.28000 	   	KVN849 	BM		JC Fire Net 	Jackson County Fire Net 	FM 	Fire Dispatch 
+155.05500 	   	KVD508 	BM		JC EMS Net 	Jackson County EMS Net 	FMN 	EMS Dispatch 
+155.23500 	   	WPRZ852 	BM	131.8 PL	AcadianAmbul 	Acadian Ambulance 	FMN 	EMS Dispatch 
+461.60000 	466.60000  	WPYN674 	RM	186.2 PL	OS Schl Disp 	School District - Dispatch to Units 	FMN 	Schools 
+461.60000 	466.60000  	WPYN674 	RM	192.8 PL	OS Schl Unit 	School District - Unit to Dispatch/Units 	FMN 	Schools 
+159.12000 	   	WQNB476 	RM		OS PW Trbo 1 	Public Works TRBO 1 	DMR 	Public Works 
+158.85000 	   	WQNB476 	RM		OS PW Trbo 2 	Public Works TRBO 2 	DMR 	Public Works 
+154.05500 	   	KTX751 	BM		Pasc Parks 1 	Parks & Recreation 	FM 	Public Works 
+154.31000 	   	KET343 	BM		Pasc FD 	Fire 	FM 	Fire Dispatch 
+154.72500 	   	WPSL412 	BM	118.8 PL	Pasc PD 2 	Police 	FM 	Law Dispatch 
+155.70000 	   	WPSL412 	RM	118.8 PL	Pasc AC 	Pascagoula Animal Control (old Police - Primary) 	FM 	Public Works 
+155.86500 	   	KTX751 	BM		Pasc Parks 2 	Parks & Recreation 	FM 	Public Works 
+463.27500 	468.27500  	WPOE615 	RM	91.5 PL	PascSch Mtce 	Pascagoula School Maintenance 	FM 	Schools 
+Chevron Pascagoula Refinery	 Motorola Type II	 Pascagoula	ComSouth DMR - COMNET Mississippi	 DMR Motorola Connect Plus (TRBO)	 Multiple	Entergy 	 Project 25 Phase II	 Various
+Huntington Ingalls Industries	 DMR Motorola Capacity Plus Single Site (TRBO)	 Pascagoula	Hurricane Electronics (Ocean Springs)	 LTR Standard	 Ocean Springs	Jackson County	 Motorola Type II SmartZone	 Pascagoula
+Telecomm Network (Gautier)	 LTR Standard	 Gautier	Telecomm Network (Pascagoula)	 LTR Standard	 Pascagoula	

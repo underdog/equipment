@@ -1,13 +1,13 @@
-463.05000 	KEO951 	BM	167.9 PL	CMC-M3 	County Medical Coordination 	FM 	Hospital 
-463.11250 	WQCL723 	RM	167.9 PL	BS-SJH-M52 	EMS-to-Peace River Regional Medical Center 	FM 	Hospital 
-463.13750 	WQCL723 	RM	167.9 PL	CRMC-M62 	EMS-to-Charlotte Regional Medical Center 	FM 	Hospital 
-463.16250 	WQCL723 	RM	167.9 PL	FMH-M72 	EMS-to-Fawcett Memorial Hospital 	FM 	Hospital 
-857.26250 	WPJQ551 	RM	156.7 PL	CSO Disp Alt 	Sheriff Dispatch Fallback 	FM 	Law Tac 
-453.67500 	WNZY948 	RM		Telemetry 	Telemetry 	Telm 	Data 
-152.27000 	WPVP959 	RM	244 DPL	CharlotteTC 	Charlotte Technical Center 	FM 	Schools 
-152.32250 	WPXM433 	RM	118.8 PL	MeadowPark 	Meadow Park Elementary 	FM 	Schools 
-152.39000 	WPWC617 	RM	116 DPL	MurdockMS 	Murdock Middle School 	FM 	Schools 
-155.88000 	KDL949 	BM	123.0 PL	 PG Services 	Services 	FM 	Public Works 
-Charlotte County (Project 25)	 Project 25 Phase II	 Various	Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various	Florida Power and Light (P25)	 Project 25 Phase II
- Varies	Florida Rock Industries (Rotonda)	 LTR Standard	 Rotonda	Mobile One Communications and Electronics Rotonda	 LTR Standard	 Rotonda	Rinker Materials (Pine Island)
- LTR Standard	 Rotonda	Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	
+463.05000 	468.05000  	KEO951 	BM	167.9 PL	CMC-M3 	County Medical Coordination 	FM 	Hospital 
+463.11250 	468.11250  	WQCL723 	RM	167.9 PL	BS-SJH-M52 	EMS-to-Peace River Regional Medical Center 	FM 	Hospital 
+463.13750 	468.13750  	WQCL723 	RM	167.9 PL	CRMC-M62 	EMS-to-Charlotte Regional Medical Center 	FM 	Hospital 
+463.16250 	468.16250  	WQCL723 	RM	167.9 PL	FMH-M72 	EMS-to-Fawcett Memorial Hospital 	FM 	Hospital 
+857.26250 	812.26250  	WPJQ551 	RM	156.7 PL	CSO Disp Alt 	Sheriff Dispatch Fallback 	FM 	Law Tac 
+453.67500 	458.67500  	WNZY948 	RM		Telemetry 	Telemetry 	Telm 	Data 
+152.27000 	157.53000  	WPVP959 	RM	244 DPL	CharlotteTC 	Charlotte Technical Center 	FM 	Schools 
+152.32250 	   	WPXM433 	RM	118.8 PL	MeadowPark 	Meadow Park Elementary 	FM 	Schools 
+152.39000 	157.65000  	WPWC617 	RM	116 DPL	MurdockMS 	Murdock Middle School 	FM 	Schools 
+155.88000 	   	KDL949 	BM	123.0 PL	 PG Services 	Services 	FM 	Public Works 
+Charlotte County (Project 25)	 Project 25 Phase II	 Various	Florida Fleet Talk	 NXDN NEXEDGE 4800	 Various	Florida Rock Industries (Rotonda)	 LTR Standard	 Rotonda
+Mobile One Communications and Electronics Rotonda	 LTR Standard	 Rotonda	Rinker Materials (Pine Island)	 LTR Standard	 Rotonda	Statewide Law Enforcement Radio System (EDACS)	 EDACS Extended Addressing w/ESK	 Statewide
+Statewide Law Enforcement Radio System (P25)	 Project 25 Phase I	 Statewide	

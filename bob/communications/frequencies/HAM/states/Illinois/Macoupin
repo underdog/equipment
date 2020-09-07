@@ -1,123 +1,123 @@
-154.74750 	WPXT232 	RM	131 DPL	Macoupin 911 	Fire/EMS: Countywide Dispatch 	FMN 	Fire Dispatch 
-453.47500 	WPXM864 	F	125 DPL	Mac911 T-Plmyra 	Fire/EMS: Remote Link from 911 to Palmyra tower  	FMN 	Fire Dispatch 
-458.23750 	WPXM864 	F	125 DPL	Mac911 R-Plmyra 	Fire/EMS: Palmyra Receive Link 	FMN 	Fire Dispatch 
-453.47500 	WPXM864 	F	223 DPL	Mac911 T-Virden 	Fire/EMS: Remote Link from 911 to Virden tower 	FMN 	Fire Dispatch 
-458.31250 	WPXM864 	F	223 DPL	Mac911 R-Virden 	Fire/EMS: Virden Receive Link  	FMN 	Fire Dispatch 
-453.47500 	WPXM864 	F	343 DPL	Mac911 T-Benld 	Fire/EMS: Remote Link from 911 to Benld tower 	FMN 	Fire Dispatch 
-458.28750 	WPXM864 	F	343 DPL	Mac911 R-Benld 	Fire/EMS: Benld Receive Link  	FMN 	Fire Dispatch 
-453.47500 	WPXM864 	F	413 DPL	Mac911 T-Drchstr 	Fire/EMS: Remote Link from 911 to Dorchester tower 	FMN 	Fire Dispatch 
-458.61250 	WPXM864 	F	413 DPL	Mac911 R-Drchstr 	Fire/EMS: Dorchester Receive Link 	FMN 	Fire Dispatch 
-453.47500 	WPXM864 	F	565 DPL	Mac911 T-Shipman 	Fire/EMS: Remote Link from 911 to Shipman tower 	FMN 	Fire Dispatch 
-458.83750 	WPXM864 	F	565 DPL	Mac911 R-Shipman 	Fire/EMS: Shipman Receive Link 	FMN 	Fire Dispatch 
-453.47500 	WPXM864 	F	631 DPL	Mac911 T-Stauntn 	Fire/EMS: Remote Link from 911 to Staunton tower 	FMN 	Fire Dispatch 
-458.81250 	WQFZ373 	F	631 DPL	Mac911 R-Stauntn 	Fire/EMS: Staunton Receive Link  	FMN 	Fire Dispatch 
-453.47500 	WPXM864 	F	712 DPL	Mac911 T-Medora 	Fire/EMS: Remote Link from 911 to Medora Tower 	FMN 	Fire Dispatch 
-458.85000 	WQFZ373 	F	712 DPL	Mac911 R-Medora 	Fire/EMS: Medora Receive Link  	FMN 	Fire Dispatch 
-151.15250 	WQNC662 	RM	244 DPL	Mac911 Admin 	911: Channel 2 / Admin [CWID] 	FMN 	Multi-Dispatch 
-154.07000 	 	BM	516 DPL	Mac Fireground 	Fireground  	FMN 	Fire-Tac 
-151.21250 	WQJV865 	RM	351 DPL	Macoupin Sheriff 	Sheriff: Dispatch  	FMN 	Law Dispatch 
-173.25000 	 	M	69.3 PL	Mac Sheriff MX2B 	Sheriff: Mobile Extenders (SWHS, Cville) 	FMN 	Law Dispatch 
-173.25000 	 	M	74.4 PL	Mac Sheriff MX2A 	Sheriff: Mobile Extenders (Cville) 	FMN 	Law Dispatch 
-173.39000 	 	M	69.3 PL	Mac Sheriff  MX3 	Sheriff: Mobile Extenders (Bunker Hill area) 	FMN 	Law Dispatch 
-151.21250 	WQJV865 	M	047 DPL	Mac Sheriff c2c  	Sheriff: Car-to-Car / Events 	FMN 	Law Tac 
-154.78500 	WPFS699 	RM	351 DPL	Mac Law LocGovt  	Law: Rural Dispatch - Local Government 	FMN 	Law Dispatch 
-159.13500 	WPZR684 	RM	146.2 PL	Mac Highway 	Road Maintenance  	FMN 	Public Works 
-151.47500 	WQAY890 	RM	351 DPL	CA Hosp Ops 1 	Operations / Maintenance 	FMN 	Business 
-151.47500 	WQAY890 	RM	047 DPL	CA Hosp Ops 2 	Shop / Maintenance / IT Ops 	FMN 	Business 
-155.34000 	WQAY890 	BM	107.2 PL	MERCI-1 107.2 	Patient Reports 	FMN 	Hospital 
-155.16000 	KOM996 	BM	91.5 PL	MERCI-3 91.5 	Patient Reports - MetroEast 	FMN 	Hospital 
-155.34000 	KOM996 	BM	167.9 PL	MERCI-1 167.9 	Patient Reports - Local 	FMN 	Hospital 
-155.34000 	KOM996 	BM	210.7 PL	MERCI-1 210.7 	Patient Reports - Statewide 	FMN 	Hospital 
-155.34000 	KOM996 	BM	85.4 PL	MERCI-1 85.4 	Patient Reports - Local 	FMN 	Hospital 
-457.55000 	WQBH282  	F		CMH Paging 	Paging Data (254.1 PL) 	Telm 	Data 
-155.32500 	WQSF696 	BM		AAS Local 	EMS: Local Use  	FMN 	EMS-Tac 
-155.16000 	WNUJ872 	BM	85.4 PL	BH EMS Local 	EMS: Local 	FMN 	EMS-Tac 
-153.29750 	WRCI743 	RM	351 DPL	GilBen EMS Local 	EMS: Dispatch (not 911) 	FMN 	EMS Dispatch 
-155.23500 	WNLH782 	BM	85.4 PL	Gill/Benld EMS O 	EMS: Dispatch - Local (Paged on 911) 	FMN 	EMS Dispatch 
-154.02500 	WPXE998 	RM	703 DPL	Staunton EMS Loc 	EMS: Local / Fireground (also B/M) 	FMN 	EMS Dispatch 
-159.16500 	KNEU779 	M	88.5 PL	CarlnvTwp Roads  	Carlinville Township Road Maintenance  	FMN 	Public Works 
-173.33750 	WPPP312 	F		CMCR WaterD 	Central Macoupin County Rural Water District: Data (CSQ) 	Telm 	Data 
-160.05000 	WQAK426 	BM		Fosterburg WDD  	Fosterburg Water District (CSQ) 	Telm 	Public Works 
-453.66250 	WPQI630 	F		Henderson WDD  	Henderson Water District: Data (CSQ) [Expired 6/15] 	Telm 	Data 
-158.74500 	WPFJ410 	BM		MtOlive TwpRoads 	Mt. Olive Township: Road Maintenance (D351?) 	FMN 	Public Works 
-154.47125 	WPJQ330 	F		Otter Lake WDD  	Otter Lake Water Commission: Data (CSQ) 	Telm 	Data 
-153.54500 	KUQ499 	BM		Otter Lake Water 	Otter Lake Water Commission: Ops / Maintenance 	FMN 	Public Works 
-156.21000 	WPGV418 	BM	351 DPL	Benld Police 1  	Police: Local [Ch 1] 	FMN 	Law Dispatch 
-153.86000 	WPGV418 	M	351 DPL	Benld Police 2  	Police: Car-to-Car [Ch 2] 	FMN 	Law Tac 
-155.11500 	KNGQ578 	BM		Benld Local 	Public Works (in use?) 	FMN 	Public Works 
-451.26250 	WPXC967 	F		Benld WDD 	Water Telemetry (CSQ) 	Telm 	Data 
-158.73000 	WNLG734 	RM	100.0 PL	Brighton Police  	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
-453.53750 	WPVY315 	F		Brighton WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
-151.19750 	KNGE380 	RM	703 DPL	Brighton FireNew 	Fire: Dispatch (from Jersey, Macoupin County 911) 	FMN 	Fire Dispatch 
-453.78750 	WQAA720 	F	754 DPL	Brighton FireRF1 	Fire: Link from 151.1975R to Macoupin/Jersey 911 	FMN 	Fire Dispatch 
-458.78750 	WQAA720 	F	754 DPL	Brighton FireRF2 	Fire: Link to 151.1975R from Macoupin/Jersey 911 	FMN 	Fire Dispatch 
-155.61000 	WPGY220 	RM	271 DPL	Mac LocGovt BH 	Sheriff: Local Government (Repeats County Law) 	FMN 	Law Dispatch 
-155.61000 	WPGY220 	BM	351 DPL	BunkerHillPolice 	Police: Dispatch (Daytime) 	FMN 	Law Dispatch 
-154.10750 	WRDS233 	RM	712 DPL	Mac911 Fire BH  	Fire: Repeats 911 154.7475 (Woodburn) 	FMN 	Fire Dispatch 
-173.23750 	WRDS233 	M		BH Fire MX 	Fire: Mobile Extenders 	FMN 	Fire Dispatch 
-159.43500 	KAN769 	M	CSQ	BH Fire Mob Ex 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
-154.07000 	KAN769 	BM	CSQ	BnkrHill Fire 07 	Fire: Local (D432?) 	FMN 	Fire-Tac 
-155.52000 	WPMA668 	RM	1 RAN	Cv Police Disp 	Police: Dispatch 	NXDNE 	Law Dispatch 
-154.89000 	KB26467 	M		Cv Police c2c 1 	Police: Car-to-Car (D047,D351,D411) 	FMN 	Law Tac 
-154.05500 	WRCC293 	RM	351 DPL	Carlinville Fire 	Fireground / Local [Ch 8] 	FMN 	Fire-Tac 
-154.05500 	WRCC293 	RM	047 DPL	Cv Fire Local 8 	Fire: Local [Ch ?] 	FMN 	Fire-Tac 
-152.29250 	WQLP665 	RM	047 DPL	Cv Public Works 	Public Works / Water 	FMN 	Public Works 
-453.71250 	WPFU614 	F		Cv Water Data 	Water Distribution Data (CSQ) 	Telm 	Data 
-154.02500 	KQW366 	BM	CSQ	Cv CityWide Old 	Citywide - Old (No Longer in use ?) 	FMN 	Multi-Tac 
-154.80000 	KCS543 	RM	351 DPL	Gill/Bnld Police 	Police: Dispatch (w/ Benld) 	FMN 	Law Dispatch 
-155.74500 	WNGV422 	BM	CSQ	Gillespie EMA  	ESDA 	FMN 	Emergency Ops 
-155.74500 	KCS543 	BM	85.4 PL	Gill PubWorks 1  	Public Works / Water / Snow Plows 	FMN 	Public Works 
-154.98000 	KCS543 	BM	85.4 PL	Gill PubWorks 2  	Public Works 	FMN 	Public Works 
-451.07500 	WPSP974 	F	125 DPL	Gillespie WDD 1 	Water Telemetry (Data) 	FMN 	Data 
-451.17500 	WQVZ267 	F		Gillespie WDD 2 	Water Department SCADA 	Telm 	Data 
-156.14250 	WQMP831 	RM	664 DPL	Girard PD/Mac LG 	Police: Dispatch (Repeats 154.7875 LG) 	FMN 	Law Dispatch 
-172.23500 	 	M	CSQ	Girard Police MX 	Police: Mobile Extender (or 170.2375, in use 12/13) 	FMN 	Law Dispatch 
-154.24250 	KQG671 	RM	047 DPL	Girard FireLocal 	Fire: Local [Fire Channel] 	FMN 	Fire-Tac 
-153.93500 	KNJH273 	BM	CSQ	Girard PublicWrk 	Public Works / Street / Sewer [Expired 2/05] 	FMN 	Public Works 
-151.17500 	WPUH784 	RM		Medora Fire 	Fire: Local 	FMN 	Fire-Tac 
-154.09250 	WPEM829 	RM	074 DPL	MtOlive Police  	Police: Dispatch (w/Benld) [Voice Inversion capable] 	FMN 	Law Dispatch 
-154.22000 	WPXQ476 	BM	131.8 PL	MtOlv Fireground 	Fireground 	FMN 	Fire-Tac 
-154.22000 	WPXQ476 	BM	351 DPL	MtOlv EMS Old  	EMS: Local Dispatch (former use) 	FMN 	EMS-Tac 
-154.34000 	WPPU668 	BM	351 DPL	MtOlv Fire/EMS  	Fire/EMS: Local Ops 	FMN 	Fire-Tac 
-155.58000 	WPEM829 	BM	351 DPL	MtOlv PublicWork 	Public Works 	FMN 	Public Works 
-460.52500 	WPMD636 	RM	155 DPL	Northwestern EMS 	EMS: Dispatch/Local 	FMN 	EMS Dispatch 
-464.10000 	WNUP747 	RM	210.7 PL	SctvModesto Fire 	Fire: Paging/Ops  	FMN 	Fire Dispatch 
-155.69250 	WPEH410 	RM	19 RAN|TG 1	Staunton Police 	Police: Dispatch (patched to 151.415) 	NXDN 	Law Dispatch 
-151.41500 	WPEH410 	RM	351 DPL	Stau PD Patch 	Police: Patch to NXDN 	FMN 	Law Dispatch 
-155.62500 	WPEH410 	BM	141.3 PL	Stau PublicWorks 	Public Works 	FMN 	Public Works 
-451.03750 	WQMM292 	F		Stau Water Data 	Water Data (CSQ) 	Telm 	Data 
-154.02500 	WPXE998 	BM	CSQ	Staunton Fire  	Fire: Local [Fire Channel] 	FMN 	Fire-Tac 
-154.02500 	WPXE998 	RM	CSQ	Staunton Fire R 	Fire: Local (D703 in)  	FMN 	Fire-Tac 
-154.02500 	WPXE998 	BM	703 DPL	Staunton EMS 	EMS: Local 	FMN 	EMS-Tac 
-155.31000 	WPQB848 	RM	77.0 PL	Virden Police 	Police: Dispatch 	FMN 	Law Dispatch 
-154.07000 	 	BM	CSQ	VirdenFireground 	Fireground 	FMN 	Fire-Tac 
-153.98000 	KNFQ468 	BM	77.0 PL	Virden PubWorks 	Streets/Public Works 	FMN 	Public Works 
-155.83500 	WNPD702 	BM		Virden Sanitary 	Sanitary District 	FMN 	Public Works 
-451.12500 	WQOW490 	F		Virden WaterData 	Water Data (CSQ) 	FMN 	Data 
-159.80250 	WPYG247 	BM		Virden Water Co 	Virden Water Company (CSQ Data) 	FMN 	Data 
-158.31750 	WQPG879 	RM	351 DPL	BH School Bus  	Buses 	FMN 	Schools 
-152.39750 	WQPC549 	RM	351 DPL	Cv School Bus  	Transportation / Buses  	FMN 	Schools 
-152.39750 	WQPC549 	RM	047 DPL	Cv Schools 2  	Admin / Operations  	FMN 	Schools 
-155.28000 	WRU920 	BM	073 DPL	Cv SchoolBus OLD 	Transportation / Buses - Old 	FMN 	Schools 
-153.15500 	WPRI415 	RM	218.1 PL	Cv HighSchool Op 	High School Admin/Ops 	FMN 	Schools 
-156.12750 	WRCG985 	RM	243 DPL	Gill Schools 	Buses / Ops (D351 in) 	FMN 	Schools 
-155.26500 	WRCG985 	BM	CSQ	Gill School Bus 	Buses (Old)  	FMN 	Schools 
-155.20500 	KNNM523 	BM	261 DPL	MtOlive Schools  	Ops / Buses 	FMN 	Schools 
-158.18250 	WRAH807 	RM	351 DPL	Mt Olive School  	Operations  	FMN 	Schools 
-151.06250 	WQMC232 	RM	351 DPL	NMac Sch Virden1 	Operations / Bus Dispatch (Virden) 	FMN 	Schools 
-151.06250 	WQMC232 	RM	047 DPL	NMac Sch Virden2 	Virden Schools: Admin / Operations  	FMN 	Schools 
-151.49750 	WQMC232 	RM	664 DPL	NMac Sch Girard 	Girard School: Buses / Ops / Maintenance 	FMN 	Schools 
-155.16000 	KSZ425 	BM	131.8 PL	NMac School Old 	Operations (D631 is Pawnee) 	FMN 	Schools 
-153.02750 	WRCE647 	RM	351 DPL	SW School Bus 	Buses 	FMN 	Schools 
-155.26500 	WPHW803 	BM	031 DPL	SW School A 	Buses / Security  	FMN 	Schools 
-154.57000 	 	M	031 DPL	SW School B 	Operations 	FMN 	Schools 
-159.76500 	WQWH675 	BM		SW School C 	Operations (not D073) 	FMN 	Schools 
-151.34750 	KST241 	RM	351 DPL	Staunton School1 	Buses / Ops / Janitorial (D455 M?) 	FMN 	Schools 
-151.34750 	KST241 	RM	047 DPL	Staunton School2 	Operations 	FMN 	Schools 
-151.85000 	WQDG706 	BM		ROE AdultBus 	Buses (possibly D243; D351, 114.8) [Expired 8/15] 	FMN 	Schools 
-464.42500 	WQDK780 	BM	546 DPL	Blackburn Ops 	Utilities Maintenance / Security 	FMN 	Schools 
-461.73750 	WQCX944 	RM	CC 5TG 1SL 1	LCCC Cv Sec 	Security 	DMR 	Security 
-461.73750 	WQCX944 	RM	CC 5TG 2SL 2	LCCC Cv Mnt 	Maintenance 	DMR 	Schools 
-122.90000 	 	B	CSQ	5K1 CTAF 	CTAF 	AM 	Aircraft 
-CK Communications / MJM Electric Cooperative (DMR)	 DMR Conventional Networked	 Carlinville	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Gillespie Community Unit School District 7	 LTR Standard
- Gillespie	Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro	
+154.74750 	156.09750  	WPXT232 	RM	131 DPL	Macoupin 911 	Fire/EMS: Countywide Dispatch 	FMN 	Fire Dispatch 
+453.47500 	   	WPXM864 	F	125 DPL	Mac911 T-Plmyra 	Fire/EMS: Remote Link from 911 to Palmyra tower  	FMN 	Fire Dispatch 
+458.23750 	   	WPXM864 	F	125 DPL	Mac911 R-Plmyra 	Fire/EMS: Palmyra Receive Link 	FMN 	Fire Dispatch 
+453.47500 	   	WPXM864 	F	223 DPL	Mac911 T-Virden 	Fire/EMS: Remote Link from 911 to Virden tower 	FMN 	Fire Dispatch 
+458.31250 	   	WPXM864 	F	223 DPL	Mac911 R-Virden 	Fire/EMS: Virden Receive Link  	FMN 	Fire Dispatch 
+453.47500 	   	WPXM864 	F	343 DPL	Mac911 T-Benld 	Fire/EMS: Remote Link from 911 to Benld tower 	FMN 	Fire Dispatch 
+458.28750 	   	WPXM864 	F	343 DPL	Mac911 R-Benld 	Fire/EMS: Benld Receive Link  	FMN 	Fire Dispatch 
+453.47500 	   	WPXM864 	F	413 DPL	Mac911 T-Drchstr 	Fire/EMS: Remote Link from 911 to Dorchester tower 	FMN 	Fire Dispatch 
+458.61250 	   	WPXM864 	F	413 DPL	Mac911 R-Drchstr 	Fire/EMS: Dorchester Receive Link 	FMN 	Fire Dispatch 
+453.47500 	   	WPXM864 	F	565 DPL	Mac911 T-Shipman 	Fire/EMS: Remote Link from 911 to Shipman tower 	FMN 	Fire Dispatch 
+458.83750 	   	WPXM864 	F	565 DPL	Mac911 R-Shipman 	Fire/EMS: Shipman Receive Link 	FMN 	Fire Dispatch 
+453.47500 	   	WPXM864 	F	631 DPL	Mac911 T-Stauntn 	Fire/EMS: Remote Link from 911 to Staunton tower 	FMN 	Fire Dispatch 
+458.81250 	   	WQFZ373 	F	631 DPL	Mac911 R-Stauntn 	Fire/EMS: Staunton Receive Link  	FMN 	Fire Dispatch 
+453.47500 	   	WPXM864 	F	712 DPL	Mac911 T-Medora 	Fire/EMS: Remote Link from 911 to Medora Tower 	FMN 	Fire Dispatch 
+458.85000 	   	WQFZ373 	F	712 DPL	Mac911 R-Medora 	Fire/EMS: Medora Receive Link  	FMN 	Fire Dispatch 
+151.15250 	158.90250  	WQNC662 	RM	244 DPL	Mac911 Admin 	911: Channel 2 / Admin [CWID] 	FMN 	Multi-Dispatch 
+154.07000 	   	 	BM	516 DPL	Mac Fireground 	Fireground  	FMN 	Fire-Tac 
+151.21250 	153.80000  	WQJV865 	RM	351 DPL	Macoupin Sheriff 	Sheriff: Dispatch  	FMN 	Law Dispatch 
+173.25000 	   	 	M	69.3 PL	Mac Sheriff MX2B 	Sheriff: Mobile Extenders (SWHS, Cville) 	FMN 	Law Dispatch 
+173.25000 	   	 	M	74.4 PL	Mac Sheriff MX2A 	Sheriff: Mobile Extenders (Cville) 	FMN 	Law Dispatch 
+173.39000 	   	 	M	69.3 PL	Mac Sheriff  MX3 	Sheriff: Mobile Extenders (Bunker Hill area) 	FMN 	Law Dispatch 
+151.21250 	   	WQJV865 	M	047 DPL	Mac Sheriff c2c  	Sheriff: Car-to-Car / Events 	FMN 	Law Tac 
+154.78500 	159.10500  	WPFS699 	RM	351 DPL	Mac Law LocGovt  	Law: Rural Dispatch - Local Government 	FMN 	Law Dispatch 
+159.13500 	156.04500  	WPZR684 	RM	146.2 PL	Mac Highway 	Road Maintenance  	FMN 	Public Works 
+151.47500 	158.76000  	WQAY890 	RM	351 DPL	CA Hosp Ops 1 	Operations / Maintenance 	FMN 	Business 
+151.47500 	158.76000  	WQAY890 	RM	047 DPL	CA Hosp Ops 2 	Shop / Maintenance / IT Ops 	FMN 	Business 
+155.34000 	   	WQAY890 	BM	107.2 PL	MERCI-1 107.2 	Patient Reports 	FMN 	Hospital 
+155.16000 	   	KOM996 	BM	91.5 PL	MERCI-3 91.5 	Patient Reports - MetroEast 	FMN 	Hospital 
+155.34000 	   	KOM996 	BM	167.9 PL	MERCI-1 167.9 	Patient Reports - Local 	FMN 	Hospital 
+155.34000 	   	KOM996 	BM	210.7 PL	MERCI-1 210.7 	Patient Reports - Statewide 	FMN 	Hospital 
+155.34000 	   	KOM996 	BM	85.4 PL	MERCI-1 85.4 	Patient Reports - Local 	FMN 	Hospital 
+457.55000 	   	WQBH282  	F		CMH Paging 	Paging Data (254.1 PL) 	Telm 	Data 
+155.32500 	   	WQSF696 	BM		AAS Local 	EMS: Local Use  	FMN 	EMS-Tac 
+155.16000 	   	WNUJ872 	BM	85.4 PL	BH EMS Local 	EMS: Local 	FMN 	EMS-Tac 
+153.29750 	158.36250  	WRCI743 	RM	351 DPL	GilBen EMS Local 	EMS: Dispatch (not 911) 	FMN 	EMS Dispatch 
+155.23500 	   	WNLH782 	BM	85.4 PL	Gill/Benld EMS O 	EMS: Dispatch - Local (Paged on 911) 	FMN 	EMS Dispatch 
+154.02500 	159.00000  	WPXE998 	RM	703 DPL	Staunton EMS Loc 	EMS: Local / Fireground (also B/M) 	FMN 	EMS Dispatch 
+159.16500 	   	KNEU779 	M	88.5 PL	CarlnvTwp Roads  	Carlinville Township Road Maintenance  	FMN 	Public Works 
+173.33750 	   	WPPP312 	F		CMCR WaterD 	Central Macoupin County Rural Water District: Data (CSQ) 	Telm 	Data 
+160.05000 	   	WQAK426 	BM		Fosterburg WDD  	Fosterburg Water District (CSQ) 	Telm 	Public Works 
+453.66250 	   	WPQI630 	F		Henderson WDD  	Henderson Water District: Data (CSQ) [Expired 6/15] 	Telm 	Data 
+158.74500 	   	WPFJ410 	BM		MtOlive TwpRoads 	Mt. Olive Township: Road Maintenance (D351?) 	FMN 	Public Works 
+154.47125 	   	WPJQ330 	F		Otter Lake WDD  	Otter Lake Water Commission: Data (CSQ) 	Telm 	Data 
+153.54500 	   	KUQ499 	BM		Otter Lake Water 	Otter Lake Water Commission: Ops / Maintenance 	FMN 	Public Works 
+156.21000 	   	WPGV418 	BM	351 DPL	Benld Police 1  	Police: Local [Ch 1] 	FMN 	Law Dispatch 
+153.86000 	   	WPGV418 	M	351 DPL	Benld Police 2  	Police: Car-to-Car [Ch 2] 	FMN 	Law Tac 
+155.11500 	   	KNGQ578 	BM		Benld Local 	Public Works (in use?) 	FMN 	Public Works 
+451.26250 	   	WPXC967 	F		Benld WDD 	Water Telemetry (CSQ) 	Telm 	Data 
+158.73000 	154.83000  	WNLG734 	RM	100.0 PL	Brighton Police  	Police: Dispatch (DB: Sheriff) 	FMN 	Law Dispatch 
+453.53750 	   	WPVY315 	F		Brighton WDD 	Water Distribution Data (CSQ) 	Telm 	Data 
+151.19750 	155.56500  	KNGE380 	RM	703 DPL	Brighton FireNew 	Fire: Dispatch (from Jersey, Macoupin County 911) 	FMN 	Fire Dispatch 
+453.78750 	   	WQAA720 	F	754 DPL	Brighton FireRF1 	Fire: Link from 151.1975R to Macoupin/Jersey 911 	FMN 	Fire Dispatch 
+458.78750 	   	WQAA720 	F	754 DPL	Brighton FireRF2 	Fire: Link to 151.1975R from Macoupin/Jersey 911 	FMN 	Fire Dispatch 
+155.61000 	154.78500  	WPGY220 	RM	271 DPL	Mac LocGovt BH 	Sheriff: Local Government (Repeats County Law) 	FMN 	Law Dispatch 
+155.61000 	   	WPGY220 	BM	351 DPL	BunkerHillPolice 	Police: Dispatch (Daytime) 	FMN 	Law Dispatch 
+154.10750 	159.15000  	WRDS233 	RM	712 DPL	Mac911 Fire BH  	Fire: Repeats 911 154.7475 (Woodburn) 	FMN 	Fire Dispatch 
+173.23750 	   	WRDS233 	M		BH Fire MX 	Fire: Mobile Extenders 	FMN 	Fire Dispatch 
+159.43500 	   	KAN769 	M	CSQ	BH Fire Mob Ex 	Fire: Mobile Extenders 	FMN 	Fire-Tac 
+154.07000 	   	KAN769 	BM	CSQ	BnkrHill Fire 07 	Fire: Local (D432?) 	FMN 	Fire-Tac 
+155.52000 	153.96500  	WPMA668 	RM	1 RAN	Cv Police Disp 	Police: Dispatch 	NXDNE 	Law Dispatch 
+154.89000 	   	KB26467 	M		Cv Police c2c 1 	Police: Car-to-Car (D047,D351,D411) 	FMN 	Law Tac 
+154.05500 	159.18750  	WRCC293 	RM	351 DPL	Carlinville Fire 	Fireground / Local [Ch 8] 	FMN 	Fire-Tac 
+154.05500 	159.18750  	WRCC293 	RM	047 DPL	Cv Fire Local 8 	Fire: Local [Ch ?] 	FMN 	Fire-Tac 
+152.29250 	157.55250  	WQLP665 	RM	047 DPL	Cv Public Works 	Public Works / Water 	FMN 	Public Works 
+453.71250 	   	WPFU614 	F		Cv Water Data 	Water Distribution Data (CSQ) 	Telm 	Data 
+154.02500 	   	KQW366 	BM	CSQ	Cv CityWide Old 	Citywide - Old (No Longer in use ?) 	FMN 	Multi-Tac 
+154.80000 	158.98500  	KCS543 	RM	351 DPL	Gill/Bnld Police 	Police: Dispatch (w/ Benld) 	FMN 	Law Dispatch 
+155.74500 	   	WNGV422 	BM	CSQ	Gillespie EMA  	ESDA 	FMN 	Emergency Ops 
+155.74500 	   	KCS543 	BM	85.4 PL	Gill PubWorks 1  	Public Works / Water / Snow Plows 	FMN 	Public Works 
+154.98000 	   	KCS543 	BM	85.4 PL	Gill PubWorks 2  	Public Works 	FMN 	Public Works 
+451.07500 	   	WPSP974 	F	125 DPL	Gillespie WDD 1 	Water Telemetry (Data) 	FMN 	Data 
+451.17500 	   	WQVZ267 	F		Gillespie WDD 2 	Water Department SCADA 	Telm 	Data 
+156.14250 	151.09250  	WQMP831 	RM	664 DPL	Girard PD/Mac LG 	Police: Dispatch (Repeats 154.7875 LG) 	FMN 	Law Dispatch 
+172.23500 	   	 	M	CSQ	Girard Police MX 	Police: Mobile Extender (or 170.2375, in use 12/13) 	FMN 	Law Dispatch 
+154.24250 	158.93250  	KQG671 	RM	047 DPL	Girard FireLocal 	Fire: Local [Fire Channel] 	FMN 	Fire-Tac 
+153.93500 	   	KNJH273 	BM	CSQ	Girard PublicWrk 	Public Works / Street / Sewer [Expired 2/05] 	FMN 	Public Works 
+151.17500 	158.78250  	WPUH784 	RM		Medora Fire 	Fire: Local 	FMN 	Fire-Tac 
+154.09250 	151.30250  	WPEM829 	RM	074 DPL	MtOlive Police  	Police: Dispatch (w/Benld) [Voice Inversion capable] 	FMN 	Law Dispatch 
+154.22000 	   	WPXQ476 	BM	131.8 PL	MtOlv Fireground 	Fireground 	FMN 	Fire-Tac 
+154.22000 	   	WPXQ476 	BM	351 DPL	MtOlv EMS Old  	EMS: Local Dispatch (former use) 	FMN 	EMS-Tac 
+154.34000 	   	WPPU668 	BM	351 DPL	MtOlv Fire/EMS  	Fire/EMS: Local Ops 	FMN 	Fire-Tac 
+155.58000 	   	WPEM829 	BM	351 DPL	MtOlv PublicWork 	Public Works 	FMN 	Public Works 
+460.52500 	465.52500  	WPMD636 	RM	155 DPL	Northwestern EMS 	EMS: Dispatch/Local 	FMN 	EMS Dispatch 
+464.10000 	469.10000  	WNUP747 	RM	210.7 PL	SctvModesto Fire 	Fire: Paging/Ops  	FMN 	Fire Dispatch 
+155.69250 	158.82750  	WPEH410 	RM	19 RAN|TG 1	Staunton Police 	Police: Dispatch (patched to 151.415) 	NXDN 	Law Dispatch 
+151.41500 	159.24000  	WPEH410 	RM	351 DPL	Stau PD Patch 	Police: Patch to NXDN 	FMN 	Law Dispatch 
+155.62500 	   	WPEH410 	BM	141.3 PL	Stau PublicWorks 	Public Works 	FMN 	Public Works 
+451.03750 	   	WQMM292 	F		Stau Water Data 	Water Data (CSQ) 	Telm 	Data 
+154.02500 	   	WPXE998 	BM	CSQ	Staunton Fire  	Fire: Local [Fire Channel] 	FMN 	Fire-Tac 
+154.02500 	159.00000  	WPXE998 	RM	CSQ	Staunton Fire R 	Fire: Local (D703 in)  	FMN 	Fire-Tac 
+154.02500 	   	WPXE998 	BM	703 DPL	Staunton EMS 	EMS: Local 	FMN 	EMS-Tac 
+155.31000 	159.23250  	WPQB848 	RM	77.0 PL	Virden Police 	Police: Dispatch 	FMN 	Law Dispatch 
+154.07000 	   	 	BM	CSQ	VirdenFireground 	Fireground 	FMN 	Fire-Tac 
+153.98000 	   	KNFQ468 	BM	77.0 PL	Virden PubWorks 	Streets/Public Works 	FMN 	Public Works 
+155.83500 	   	WNPD702 	BM		Virden Sanitary 	Sanitary District 	FMN 	Public Works 
+451.12500 	   	WQOW490 	F		Virden WaterData 	Water Data (CSQ) 	FMN 	Data 
+159.80250 	   	WPYG247 	BM		Virden Water Co 	Virden Water Company (CSQ Data) 	FMN 	Data 
+158.31750 	153.08750  	WQPG879 	RM	351 DPL	BH School Bus  	Buses 	FMN 	Schools 
+152.39750 	157.65750  	WQPC549 	RM	351 DPL	Cv School Bus  	Transportation / Buses  	FMN 	Schools 
+152.39750 	157.65750  	WQPC549 	RM	047 DPL	Cv Schools 2  	Admin / Operations  	FMN 	Schools 
+155.28000 	   	WRU920 	BM	073 DPL	Cv SchoolBus OLD 	Transportation / Buses - Old 	FMN 	Schools 
+153.15500 	158.31000  	WPRI415 	RM	218.1 PL	Cv HighSchool Op 	High School Admin/Ops 	FMN 	Schools 
+156.12750 	159.18750  	WRCG985 	RM	243 DPL	Gill Schools 	Buses / Ops (D351 in) 	FMN 	Schools 
+155.26500 	   	WRCG985 	BM	CSQ	Gill School Bus 	Buses (Old)  	FMN 	Schools 
+155.20500 	   	KNNM523 	BM	261 DPL	MtOlive Schools  	Ops / Buses 	FMN 	Schools 
+158.18250 	153.44750  	WRAH807 	RM	351 DPL	Mt Olive School  	Operations  	FMN 	Schools 
+151.06250 	155.12250  	WQMC232 	RM	351 DPL	NMac Sch Virden1 	Operations / Bus Dispatch (Virden) 	FMN 	Schools 
+151.06250 	155.12250  	WQMC232 	RM	047 DPL	NMac Sch Virden2 	Virden Schools: Admin / Operations  	FMN 	Schools 
+151.49750 	155.99250  	WQMC232 	RM	664 DPL	NMac Sch Girard 	Girard School: Buses / Ops / Maintenance 	FMN 	Schools 
+155.16000 	   	KSZ425 	BM	131.8 PL	NMac School Old 	Operations (D631 is Pawnee) 	FMN 	Schools 
+153.02750 	158.38500  	WRCE647 	RM	351 DPL	SW School Bus 	Buses 	FMN 	Schools 
+155.26500 	   	WPHW803 	BM	031 DPL	SW School A 	Buses / Security  	FMN 	Schools 
+154.57000 	   	 	M	031 DPL	SW School B 	Operations 	FMN 	Schools 
+159.76500 	   	WQWH675 	BM		SW School C 	Operations (not D073) 	FMN 	Schools 
+151.34750 	153.88250  	KST241 	RM	351 DPL	Staunton School1 	Buses / Ops / Janitorial (D455 M?) 	FMN 	Schools 
+151.34750 	153.88250  	KST241 	RM	047 DPL	Staunton School2 	Operations 	FMN 	Schools 
+151.85000 	   	WQDG706 	BM		ROE AdultBus 	Buses (possibly D243; D351, 114.8) [Expired 8/15] 	FMN 	Schools 
+464.42500 	   	WQDK780 	BM	546 DPL	Blackburn Ops 	Utilities Maintenance / Security 	FMN 	Schools 
+461.73750 	466.73750  	WQCX944 	RM	CC 5TG 1SL 1	LCCC Cv Sec 	Security 	DMR 	Security 
+461.73750 	466.73750  	WQCX944 	RM	CC 5TG 2SL 2	LCCC Cv Mnt 	Maintenance 	DMR 	Schools 
+122.90000 	   	 	B	CSQ	5K1 CTAF 	CTAF 	AM 	Aircraft 
+CK Communications / MJM Electric Cooperative (DMR)	 DMR Conventional Networked	 Carlinville	Clear Talk (Connect Plus)	 DMR Motorola Connect Plus (TRBO)	 Areawide	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+Gillespie Community Unit School District 7	 LTR Standard	 Gillespie	United Communications - Macoupin	 LTR Standard	 Various	Warner Communications (DMR 13)	 DMR Tier 3	 St Louis Metro

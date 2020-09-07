@@ -1,15 +1,14 @@
-151.01000 	KAB814 	RM	084 NAC	SiouxSherif 	Sheriff Dispatch - Digital 	P25 	Law Dispatch 
-151.01000 	KAB814 	RM	271 DPL	SiouxSheriff 	Sheriff Dispatch - Analog 	FM 	Law Dispatch 
-155.19000 	KAB814 	BM		SiouxShOPS 	Sheriff Operations 	FM 	Law Tac 
-155.61000 	KAB814 	B		SiouxShInfoB 	Sheriff Information - Base 	FM 	Law Talk 
-155.91000 	KAB814 	M		SiouxShInfoM 	Sheriff Information - Mobile 	FM 	Law Talk 
-460.13750 	KAB814 	M	156.7 PL	Mobile Rptr 	Sheriff Mobile Extender 	FM 	Law Dispatch 
-154.19000 	KSJ369 	B	CSQ	Sioux FirePage 	Fire Paging 	FMN 	Fire Dispatch 
-154.19000 	KSJ369 	RM	94.8 PL	Sioux Fire 	Fire Response 	FM 	Fire Dispatch 
-155.40000 	WQE956 	BM	82.5 PL	Regional EMS 	EMS - Iowa Regional ("3A" or "EMS 4" or "EMS 400") 	FM 	Hospital 
-151.13000 	WQRL266 	RM	107.2 PL	PubWks/Cnsrv 	Public Works (Sheriff Ch. 15) / County Conservation 	FM 	Public Works 
-458.10000 	KAB814 	F		Remote UHF 	Repeats 155.91, 155.475, 154.190 and 155.34 to LEC in Orange City 	FM 	Law Dispatch 
-158.82000 	WPFC542 	RM	210.7 PL	Hull PW / FG 	Public Works / Fireground 	FMN 	Multi-Tac 
-156.18750 	WQCB587 	RM	565 DPL	SiouxInterop 	Utilities, Public Works, Police ("PO7"), Ambulance, Dordt College Security 	FMN 	Interop 
-Alliant Energy	 DMR Tier 3	 Various	Alpha-Ancom Connect Plus	 DMR Motorola Connect Plus (TRBO)	 	RACOM Network	 EDACS Networked Standard
- Various	
+151.01000 	159.22500  	KAB814 	RM	084 NAC	SiouxSherif 	Sheriff Dispatch - Digital 	P25 	Law Dispatch 
+151.01000 	159.22500  	KAB814 	RM	271 DPL	SiouxSheriff 	Sheriff Dispatch - Analog 	FM 	Law Dispatch 
+155.19000 	   	KAB814 	BM		SiouxShOPS 	Sheriff Operations 	FM 	Law Tac 
+155.61000 	   	KAB814 	B		SiouxShInfoB 	Sheriff Information - Base 	FM 	Law Talk 
+155.91000 	   	KAB814 	M		SiouxShInfoM 	Sheriff Information - Mobile 	FM 	Law Talk 
+460.13750 	   	KAB814 	M	156.7 PL	Mobile Rptr 	Sheriff Mobile Extender 	FM 	Law Dispatch 
+154.19000 	   	KSJ369 	B	CSQ	Sioux FirePage 	Fire Paging 	FMN 	Fire Dispatch 
+154.19000 	159.04500  	KSJ369 	RM	94.8 PL	Sioux Fire 	Fire Response 	FM 	Fire Dispatch 
+155.40000 	   	WQE956 	BM	82.5 PL	Regional EMS 	EMS - Iowa Regional ("3A" or "EMS 4" or "EMS 400") 	FM 	Hospital 
+151.13000 	159.07500  	WQRL266 	RM	107.2 PL	PubWks/Cnsrv 	Public Works (Sheriff Ch. 15) / County Conservation 	FM 	Public Works 
+458.10000 	   	KAB814 	F		Remote UHF 	Repeats 155.91, 155.475, 154.190 and 155.34 to LEC in Orange City 	FM 	Law Dispatch 
+158.82000 	153.96500  	WPFC542 	RM	210.7 PL	Hull PW / FG 	Public Works / Fireground 	FMN 	Multi-Tac 
+156.18750 	151.03250  	WQCB587 	RM	565 DPL	SiouxInterop 	Utilities, Public Works, Police ("PO7"), Ambulance, Dordt College Security 	FMN 	Interop 
+Alliant Energy	 DMR Tier 3	 Various	Alpha-Ancom Connect Plus	 DMR Motorola Connect Plus (TRBO)	 	RACOM Network	 EDACS Networked Standard	 Various

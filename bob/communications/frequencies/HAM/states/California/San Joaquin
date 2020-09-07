@@ -1,128 +1,127 @@
-460.22500 	KEX81 	BM	392 NAC	SJCSO 1 	Dispatch 	P25 	Law Dispatch 
-453.66250 	WQRQ710 	BM	390 NAC	SJCSO 2 	Records/S.T.A.R.S. 	P25 	Law Tac 
-460.12500 	KT9177 	RM	390 NAC	SJCSO 3 	Channel 3 	P25 	Law Tac 
-460.47500 	KEX80 	BM	393 NAC	SJCSO 4 	Inmate Transportation 	P25 	Law Tac 
-458.48750 	 	M	322 NAC	SJCSO LodiCrt 	Court Security - Lodi 	P25 	Law Tac 
-460.10000 	KT9177 	BM	323 NAC	SJCSO MantecaCrt 	Court Security - Manteca 	P25 	Law Tac 
-460.10000 	KT9177 	BM	394 NAC	SJCSO StocktnCrt 	Court Security - Stockton 	P25 	Law Tac 
-460.10000 	KT9177 	BM	321 NAC	SJCSO TracyCrt 	Court Security - Tracy (Temporarily Closed) 	P25 	Law Tac 
-453.32500 	KUL726 	BM	395 NAC	SJCSO Main Jail 	Jail - Main & South Facilities 	P25 	Corrections 
-453.55000 	WQNE441 	RM	396 NAC	SJCSO Honor Farm 	Jail - Honor Farm 	P25 	Corrections 
-453.53750 	WQMJ739 	RM	397 NAC	SJCSO ADSEG 	Jail - ADSEG 	P25 	Corrections 
-453.60000 	KNCJ831 	BM	320 NAC	SJCSO Jail PE 	Jail - Plant Engineering 	P25 	Public Works 
-453.52500 	WQNG651 	RM	398 NAC	SJCo JJC 	Juvenile Justice Center 	P25 	Corrections 
-460.31250 	 	RM	399 NAC	SJCSO CALMET 	California Methamphetamine Task Force 	P25E 	Law Talk 
-159.48000 	WQNC607 	RM	110.9 PL	SJCFD Cntrl1 	Control 1 	FMN 	Fire Dispatch 
-154.13000 	WPJV260 	RM	110.9 PL	SJCFD Cmd3 	Command 3 	FMN 	Fire-Tac 
-159.11250 	WPYH739 	RM	565 DPL	SJCFD Cmd5 	Command 5 	FMN 	Fire-Tac 
-152.35250 	 	RM	100.0 PL	SJCFD Cmd6 	Command 6 	FMN 	Fire-Tac 
-154.07000 	WQHI213 	M	110.9 PL	SJCFD Tac7 	Tac 7 	FMN 	Fire-Tac 
-154.23500 	WQKF464 	M	156.7 PL	SJCFD Tac8 	Tac 8 	FMN 	Fire-Tac 
-159.17250 	WPYH739 	M	565 DPL	SJCFD Tac9 	Tac 9 	FMN 	Fire-Tac 
-156.24000 	WPYH739 	M	565 DPL	SJCFD Tac10 	Tac 10 	FMN 	Fire-Tac 
-153.92000 	KMK249 	RM	118.8 PL	SJCFD/SFD 	Co Fire to Stockton Fire (VHF to UHF link) 	FMN 	Interop 
-155.05500 	WNYF754 	RM	82.5 PL	SCD North 	Dispatch North 	FMN 	Fire Dispatch 
-154.72500 	KML232 	RM	165 DPL	SCD South 	Dispatch South 	FMN 	Fire Dispatch 
-154.95000 	KNGM478 	RM	94.8 PL	SCD Manteca T13 	Manteca Fire Tac 13 	FMN 	Fire-Tac 
-153.95000 	WPJV260 	RM	265 DPL	SCD Manteca T14 	Manteca Fire Tac 14 	FMN 	Fire-Tac 
-151.09250 	WQUB512 	RM	343 DPL	SCD L/M T15 	Lathrop-Manteca Fire Tac 15 	FMN 	Fire-Tac 
-155.89500 	KML232 	RM	165 DPL	SCD Tracy T16 	Tracy Fire Tac 16 	FMN 	Fire-Tac 
-156.18750 	WQCK650 	M	165 DPL	SCD Tracy T17 	Tracy Fire Tac 17 	FMN 	Fire-Talk 
-154.10750 	KML232 	M	165 DPL	SCD Tracy T18 	Tracy Fire Tac 18 	FMN 	Fire-Talk 
-153.85250 	KML232 	M	165 DPL	SCD Tracy Train 	Tracy Fire Training 	FMN 	Fire-Talk 
-151.07750 	 	RM	143 DPL	SCD MH/FC T19 	Mountain House/French Camp Fire Tac 19 	FMN 	Fire-Tac 
-155.59500 	 	BM	110.9 PL	SCD MH/FC T20 	Mountain House/French Camp Fire Tac 20 	FMN 	Fire-Talk 
-464.20000 	WQXE593 	RM	209 NAC	AMR Dispatch 	EMS Dispatch 	P25 	EMS Dispatch 
-463.00000 	WQGH484 	B	132 DPL	SJGH North B 	SJGH North - Base 	FM 	Hospital 
-468.00000 	WQGH484 	M	132 DPL	SJGH North M 	SJGH North - Mobile 	FM 	Hospital 
-463.02500 	WQGH484 	B	162.2 PL	SJGH South B 	SJGH South - Base 	FM 	Hospital 
-468.02500 	WQGH484 	M	162.2 PL	SJGH South M 	SJGH South - Mobile 	FM 	Hospital 
-463.05000 	KIL317 	BM	331 DPL	Kaiser Man B 	Kaiser Manteca - Base 	FM 	Hospital 
-468.05000 	WSB892 	M	331 DPL	Kaiser Man M 	Kaiser Manteca - Mobile 	FM 	Hospital 
-463.07500 	WSB892 	B	162.2 PL	SutterTracy B 	Sutter Tracy - Base 	FM 	Hospital 
-468.07500 	WQGH484 	M	162.2 PL	SutterTracy M 	Sutter Tracy - Mobile 	FM 	Hospital 
-463.10000 	KIL317 	BM	532 DPL	DocManteca B 	Doctors Manteca - Base 	FM 	Hospital 
-468.10000 	WSB892 	M	532 DPL	DocManteca M 	Doctors Manteca - Mobile 	FM 	Hospital 
-463.12500 	KIL317 	B	162.2 PL	Lodi Health B 	Lodi Health - Base 	FM 	Hospital 
-468.12500 	WSB892 	M	162.2 PL	Lodi Health M 	Lodi Health - Mobile 	FM 	Hospital 
-463.15000 	KIL317 	BM	732 DPL	Dameron B 	Dameron - Base 	FM 	Hospital 
-468.15000 	WSB892 	M	732 DPL	Dameron M 	Dameron - Mobile 	FM 	Hospital 
-463.17500 	WPXM598 	B	162.2 PL	St Joes B 	St Josephs - Base 	FM 	Hospital 
-468.17500 	WSB892 	M	162.2 PL	St Joes M 	St Josephs - Mobile 	FM 	Hospital 
-155.40000 	KVZ646 	BM	107.2 PL	HEAR 	Hospital Mutual Aid 	FM 	Hospital 
-453.05000 	WNUI880 	M	307 NAC	SJCo Probation 	Probation Tac 	P25 	Law Tac 
-453.37500 	KWI928 	RM	151.4 PL	SJCo Water 	PW Drains or Water Dept 	FM 	Public Works 
-453.37500 	KEP618 	BM	311 NAC	SJCo PW Flaggers 	Public Works Flagmen 	P25 	Public Works 
-453.65000 	KWI928 	RM	103.5 PL	SJCo Parks/PW 	Parks & Rec/Public Works 	FM 	Multi-Dispatch 
-458.05000 	WQMJ740 	M	103.5 PL	SJCo Lovelace TF 	Lovelace Transfer Facility 	FMN 	Public Works 
-460.06250 	WQKJ926 	RM	201 NAC	Escalon PD 	Police Dispatch 	P25 	Law Dispatch 
-460.30000 	KMA869 	RM	601 NAC	Lodi PD1 	Police Dispatch 	P25 	Law Dispatch 
-453.35000 	KMA869 	RM	602 NAC	Lodi PD2 	Police Ch 2 	P25 	Law Tac 
-460.23750 	WQKJ926 	RM	603 NAC	Lodi FD1 	Fire Dispatch 	P25 	Fire Dispatch 
-460.28750 	WQKJ926 	RM	604 NAC	Lodi FD2 	Fire Tac 	P25 	Fire-Tac 
-154.01000 	KME642 	B	192.8 PL	Lodi FD3 IO 	Fire Interop 	FMN 	Interop 
-451.05000 	KYH976 	RM	123.0 PL	Lodi Power 	Power Utilities 	FM 	Utilities 
-453.20000 	WQGE449 	RM	731 NAC	Manteca PD1 	Police Dispatch 	P25E 	Law Dispatch 
-453.48750 	WQGE449 	RM	732 NAC	Manteca PD2 	Police Ch 2 	P25e 	Law Tac 
-453.81250 	WQGE449 	RM	734 NAC	Manteca PD3 	Police Ch 3 	P25 	Law Tac 
-158.83500 	WPGA783 	BM	94.8 PL	Manteca PW 	Public Works 	FM 	Public Works 
-460.05000 	WQDH908 	RM	431 NAC	Ripon PD1 	Police Dispatch 	P25 	Law Dispatch 
-460.15000 	WQDH908 	RM	432 NAC	Ripon PD2 	Police Ch 2 	P25 	Law Tac 
-453.67500 	WQDH908 	RM	433 NAC	Ripon PD3 	Police Ch 3 	P25 	Law Tac 
-460.40000 	KMA865 	RM	371 NAC	Stockton PD1 	Police Dispatch 	P25 	Law Dispatch 
-460.20000 	KMA865 	RM	372 NAC	Stockton PD2 	Police Ch 2 	P25 	Law Tac 
-460.25000 	KMA865 	RM	373 NAC	Stockton PD3 	Police Ch 3 	P25 	Law Tac 
-460.07500 	KMA865 	RM	374 NAC	Stockton PD4 	Police Ch 4 	P25 	Law Tac 
-460.32500 	WNXD750 	RM	375 NAC	Stockton PD5 	Police Ch 5 Records 	P25 	Law Tac 
-460.42500 	WNXD750 	RM	376 NAC	Stockton PD6 	Police Ch 6 	P25 	Law Tac 
-453.27500 	WPRR857 	RM	385 NAC	Stockton FD1 	Fire Dispatch "Control 1" 	P25 	Fire Dispatch 
-460.57500 	KMA576 	RM	382 NAC	Stockton FD2 	Fire Ch 2 	P25 	Fire-Tac 
-460.62500 	KMA576 	RM	381 NAC	Stockton FD3 	Fire Ch 3 	P25 	Fire-Tac 
-460.60000 	WPCI996 	RM	82.5 PL	Stockton FD4 	Fire Ch 4 	FM 	Fire-Tac 
-460.55000 	WPCI996 	RM	384 NAC	Stockton FD Unk 	Fire Unk 	P25 	Fire-Tac 
-453.70000 	KMK249 	RM	103.5 PL	Stockton PW 	Public Works 	FM 	Public Works 
-453.97500 	WQAS421 	RM	830 NAC	Tracy PD1 	Police Dispatch 	P25 	Law Dispatch 
-453.92500 	WQAS421 	RM	831 NAC	Tracy PD2 	Police Ch 2 	P25 	Law Tac 
-154.31000 	KML232 	RM	162.2 PL	Tracy PW 	Public Works 	FMN 	Public Works 
-158.76755 	KML232 	M	165 DPL	Tracy PW I/O 	Pubic Works / Fire Interop 	FMN 	Public Works 
-453.78750 	WQLP756 	RM	421 NAC	POS PD1 	Police Dispatch 	P25 	Law Dispatch 
-453.56250 	WQLP756 	RM	422 NAC	POS PD2 	Police Tac 	P25 	Law Tac 
-453.41250 	WQLP756 	RM	423  NAC	POS Maint 	Maintenance 	P25 	Public Works 
-453.30000 	WPQJ820 	RM		EUSD Ops 	Operations 	FMN 	Schools 
-453.15000 	WPKZ604 	RM	065 DPL	LUSD Sec 	Security Dispatch 	FM 	Security 
-464.70000 	WPKK761 	M	115 DPL	LUSD Bus 	School Buses 	FM 	Schools 
-461.78750 	WQFK784 	RM	346 DPL	LIN USD Bus 	School Buses 	FM 	Schools 
-159.41250 	KKR376 	RM	065 DPL	MUSD Bus 	District Buses 	FMN 	Schools 
-463.93750 	 	M		MUSD BEE 	Brock Elliott Elementary 	FMN 	Schools 
-463.93750 	 	M	115 DPL	MUSD GWE 	Golden West Elementary 	FMN 	Schools 
-463.93750 	 	M	703 DPL	MUSD LE 	Lincoln Elementary  	FMN 	Schools 
-463.93750 	 	M	031 DPL	MUSD MCD 	Manteca Community Day 	FMN 	Schools 
-461.68750 	 	M	445 DPL	MUSD M/EU 1 	Manteca High & East Union High Ch 1 	FMN 	Schools 
-463.93750 	 	M	445 DPL	MUSD MHS 2 	Manteca High Ch 2 	FMN 	Schools 
-463.93750 	 	M	205 DPL	MUSD NHE 	New Haven Elementary 	FMN 	Schools 
-463.93750 	 	M	115 DPL	MUSD SE 	Sequoia Elementary 	FMN 	Schools 
-463.93750 	 	M	074 DPL	MUSD SBE 	Stella Brockman Elementary 	FMN 	Schools 
-463.93750 	 	M	445 DPL	MUSD WWE 	Walter Woodward Elementary 	FMN 	Schools 
-463.93750 	 	M	047 DPL	MUSD UNK 	Unknown School George McParland Elementary? 	FMN 	Schools 
-155.20500 	WQS914 	M	162.2 PL	NJSD NJE/DC 	New Jerusalem Elementary/Delta Charter School 	FMN 	Schools 
-152.30000 	WPRL408 	RM	172 DPL	RUSD Ops 	Operations - Unk School 	FMN 	Schools 
-152.30000 	WPRL408 	RM	245 DPL	RUSD Ops 	Operations - Unk School 	FMN 	Schools 
-152.30000 	WPRL408 	RM	331 DPL	RUSD Ops 	Operations - Unk School 	FMN 	Schools 
-152.87000 	 	RM	071 DPL	RUSD Ops 	Operations - Unk School 	FMN 	Schools 
-152.87000 	WPRL408 	RM	134 DPL	RUSD Ops 4 	Operations - Unk School 	FMN 	Schools 
-453.73750 	WQKP572 	RM	501 NAC	SJDCCD PD1 	Police Dispatch 	P25 	Law Dispatch 
-460.16250 	WQEI772 	RM	502 NAC	SJCDCD PD2 	Police Ch 2 	P25 	Law Tac 
-453.45000 	WNXA531 	RM	813 NAC	SUSD PD1 	Police Dispatch 	P25 	Law Dispatch 
-453.95000 	WNXA531 	M	94.8 PL	SUSD PD2 	Police Ch 2 	FM 	Law Tac 
-462.86250 	KD41606 	M	127.3 PL	SUSD FHS 	Franklin High School  	FMN 	Schools 
-464.67500 	KNHT298 	RM	CC 1TG 102SL 1	SUSD Buses 	School Buses 	DMR 	Schools 
-151.52000 	WQKQ541 	RM	155 DPL	TUSD Ops 	Operations 	FM 	Schools 
-453.51250 	WQHK915 	RM	525 NAC	UOP MAIN 	Police Dispatch 	P25 	Law Dispatch 
-464.97500 	KJX725 	RM	186.2 PL	UOP EVENTS 	Events 	FMN 	Law Tac 
-938.43750 	WPTE599 	RM	79.7 PL	RTD Dispatch 	Main Dispatch 	FM 	Transportation 
-938.42500 	WPVR854 	RM	79.7 PL	RTD Dial A Ride 	Dial-A-Ride 	FM 	Transportation 
-California Department of Corrections and Rehabilitation	 Project 25 Phase II	 Various	California Radio Interoperable System (CRIS)	 Project 25 Phase I	 Multiple	Defense Logistics Agency	 Project 25 Phase I
- Various	Lawrence Livermore National Laboratory	 Project 25 Phase I	 Livermore	Lodi Unified School District	 LTR Standard	 Lodi	Modesto Irrigation District
- NXDN NEXEDGE 4800	 Westley	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Safeway Distribution Warehouse	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tracy
-San Joaquin County Unknown LTR	 LTR Standard	 	San Joaquin Public Interoperability Communication System (SJPICS)	 Project 25 Phase I	 Various	The Radio Guys	 NXDN NEXEDGE 4800
- Various	Tracy Unified School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tracy	United Parcel Service	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lathrop	
+460.22500 	465.22500  	KEX81 	BM	392 NAC	SJCSO 1 	Dispatch 	P25 	Law Dispatch 
+453.66250 	458.66250  	WQRQ710 	BM	390 NAC	SJCSO 2 	Records/S.T.A.R.S. 	P25 	Law Tac 
+460.12500 	465.12500  	KT9177 	RM	390 NAC	SJCSO 3 	Channel 3 	P25 	Law Tac 
+460.47500 	465.47500  	KEX80 	BM	393 NAC	SJCSO 4 	Inmate Transportation 	P25 	Law Tac 
+458.48750 	   	 	M	322 NAC	SJCSO LodiCrt 	Court Security - Lodi 	P25 	Law Tac 
+460.10000 	   	KT9177 	BM	323 NAC	SJCSO MantecaCrt 	Court Security - Manteca 	P25 	Law Tac 
+460.10000 	465.10000  	KT9177 	BM	394 NAC	SJCSO StocktnCrt 	Court Security - Stockton 	P25 	Law Tac 
+460.10000 	   	KT9177 	BM	321 NAC	SJCSO TracyCrt 	Court Security - Tracy (Temporarily Closed) 	P25 	Law Tac 
+453.32500 	458.32500  	KUL726 	BM	395 NAC	SJCSO Main Jail 	Jail - Main & South Facilities 	P25 	Corrections 
+453.55000 	458.55000  	WQNE441 	RM	396 NAC	SJCSO Honor Farm 	Jail - Honor Farm 	P25 	Corrections 
+453.53750 	458.53750  	WQMJ739 	RM	397 NAC	SJCSO ADSEG 	Jail - ADSEG 	P25 	Corrections 
+453.60000 	458.60000  	KNCJ831 	BM	320 NAC	SJCSO Jail PE 	Jail - Plant Engineering 	P25 	Public Works 
+453.52500 	458.52500  	WQNG651 	RM	398 NAC	SJCo JJC 	Juvenile Justice Center 	P25 	Corrections 
+460.31250 	465.31250  	 	RM	399 NAC	SJCSO CALMET 	California Methamphetamine Task Force 	P25E 	Law Talk 
+159.48000 	152.97500  	WQNC607 	RM	110.9 PL	SJCFD Cntrl1 	Control 1 	FMN 	Fire Dispatch 
+154.13000 	156.12000  	WPJV260 	RM	110.9 PL	SJCFD Cmd3 	Command 3 	FMN 	Fire-Tac 
+159.11250 	154.65750  	WPYH739 	RM	565 DPL	SJCFD Cmd5 	Command 5 	FMN 	Fire-Tac 
+152.35250 	157.58250  	 	RM	100.0 PL	SJCFD Cmd6 	Command 6 	FMN 	Fire-Tac 
+154.07000 	   	WQHI213 	M	110.9 PL	SJCFD Tac7 	Tac 7 	FMN 	Fire-Tac 
+154.23500 	   	WQKF464 	M	156.7 PL	SJCFD Tac8 	Tac 8 	FMN 	Fire-Tac 
+159.17250 	   	WPYH739 	M	565 DPL	SJCFD Tac9 	Tac 9 	FMN 	Fire-Tac 
+156.24000 	   	WPYH739 	M	565 DPL	SJCFD Tac10 	Tac 10 	FMN 	Fire-Tac 
+153.92000 	158.77500  	KMK249 	RM	118.8 PL	SJCFD/SFD 	Co Fire to Stockton Fire (VHF to UHF link) 	FMN 	Interop 
+155.05500 	153.95000  	WNYF754 	RM	82.5 PL	SCD North 	Dispatch North 	FMN 	Fire Dispatch 
+154.72500 	158.95500  	KML232 	RM	165 DPL	SCD South 	Dispatch South 	FMN 	Fire Dispatch 
+154.95000 	159.15000  	KNGM478 	RM	94.8 PL	SCD Manteca T13 	Manteca Fire Tac 13 	FMN 	Fire-Tac 
+153.95000 	155.86500  	WPJV260 	RM	265 DPL	SCD Manteca T14 	Manteca Fire Tac 14 	FMN 	Fire-Tac 
+151.09250 	153.80000  	WQUB512 	RM	343 DPL	SCD L/M T15 	Lathrop-Manteca Fire Tac 15 	FMN 	Fire-Tac 
+155.89500 	153.81500  	KML232 	RM	165 DPL	SCD Tracy T16 	Tracy Fire Tac 16 	FMN 	Fire-Tac 
+156.18750 	   	WQCK650 	M	165 DPL	SCD Tracy T17 	Tracy Fire Tac 17 	FMN 	Fire-Talk 
+154.10750 	   	KML232 	M	165 DPL	SCD Tracy T18 	Tracy Fire Tac 18 	FMN 	Fire-Talk 
+153.85250 	   	KML232 	M	165 DPL	SCD Tracy Train 	Tracy Fire Training 	FMN 	Fire-Talk 
+151.07750 	155.84250  	 	RM	143 DPL	SCD MH/FC T19 	Mountain House/French Camp Fire Tac 19 	FMN 	Fire-Tac 
+155.59500 	   	 	BM	110.9 PL	SCD MH/FC T20 	Mountain House/French Camp Fire Tac 20 	FMN 	Fire-Talk 
+464.20000 	469.20000  	WQXE593 	RM	209 NAC	AMR Dispatch 	EMS Dispatch 	P25 	EMS Dispatch 
+463.00000 	   	WQGH484 	B	132 DPL	SJGH North B 	SJGH North - Base 	FM 	Hospital 
+468.00000 	   	WQGH484 	M	132 DPL	SJGH North M 	SJGH North - Mobile 	FM 	Hospital 
+463.02500 	   	WQGH484 	B	162.2 PL	SJGH South B 	SJGH South - Base 	FM 	Hospital 
+468.02500 	   	WQGH484 	M	162.2 PL	SJGH South M 	SJGH South - Mobile 	FM 	Hospital 
+463.05000 	   	KIL317 	BM	331 DPL	Kaiser Man B 	Kaiser Manteca - Base 	FM 	Hospital 
+468.05000 	   	WSB892 	M	331 DPL	Kaiser Man M 	Kaiser Manteca - Mobile 	FM 	Hospital 
+463.07500 	   	WSB892 	B	162.2 PL	SutterTracy B 	Sutter Tracy - Base 	FM 	Hospital 
+468.07500 	   	WQGH484 	M	162.2 PL	SutterTracy M 	Sutter Tracy - Mobile 	FM 	Hospital 
+463.10000 	   	KIL317 	BM	532 DPL	DocManteca B 	Doctors Manteca - Base 	FM 	Hospital 
+468.10000 	   	WSB892 	M	532 DPL	DocManteca M 	Doctors Manteca - Mobile 	FM 	Hospital 
+463.12500 	   	KIL317 	B	162.2 PL	Lodi Health B 	Lodi Health - Base 	FM 	Hospital 
+468.12500 	   	WSB892 	M	162.2 PL	Lodi Health M 	Lodi Health - Mobile 	FM 	Hospital 
+463.15000 	   	KIL317 	BM	732 DPL	Dameron B 	Dameron - Base 	FM 	Hospital 
+468.15000 	   	WSB892 	M	732 DPL	Dameron M 	Dameron - Mobile 	FM 	Hospital 
+463.17500 	   	WPXM598 	B	162.2 PL	St Joes B 	St Josephs - Base 	FM 	Hospital 
+468.17500 	   	WSB892 	M	162.2 PL	St Joes M 	St Josephs - Mobile 	FM 	Hospital 
+155.40000 	   	KVZ646 	BM	107.2 PL	HEAR 	Hospital Mutual Aid 	FM 	Hospital 
+453.05000 	   	WNUI880 	M	307 NAC	SJCo Probation 	Probation Tac 	P25 	Law Tac 
+453.37500 	458.37500  	KWI928 	RM	151.4 PL	SJCo Water 	PW Drains or Water Dept 	FM 	Public Works 
+453.37500 	   	KEP618 	BM	311 NAC	SJCo PW Flaggers 	Public Works Flagmen 	P25 	Public Works 
+453.65000 	458.65000  	KWI928 	RM	103.5 PL	SJCo Parks/PW 	Parks & Rec/Public Works 	FM 	Multi-Dispatch 
+458.05000 	   	WQMJ740 	M	103.5 PL	SJCo Lovelace TF 	Lovelace Transfer Facility 	FMN 	Public Works 
+460.06250 	465.06250  	WQKJ926 	RM	201 NAC	Escalon PD 	Police Dispatch 	P25 	Law Dispatch 
+460.30000 	465.30000  	KMA869 	RM	601 NAC	Lodi PD1 	Police Dispatch 	P25 	Law Dispatch 
+453.35000 	458.35000  	KMA869 	RM	602 NAC	Lodi PD2 	Police Ch 2 	P25 	Law Tac 
+460.23750 	465.23750  	WQKJ926 	RM	603 NAC	Lodi FD1 	Fire Dispatch 	P25 	Fire Dispatch 
+460.28750 	465.28750  	WQKJ926 	RM	604 NAC	Lodi FD2 	Fire Tac 	P25 	Fire-Tac 
+154.01000 	   	KME642 	B	192.8 PL	Lodi FD3 IO 	Fire Interop 	FMN 	Interop 
+451.05000 	456.05000  	KYH976 	RM	123.0 PL	Lodi Power 	Power Utilities 	FM 	Utilities 
+453.20000 	458.20000  	WQGE449 	RM	731 NAC	Manteca PD1 	Police Dispatch 	P25E 	Law Dispatch 
+453.48750 	458.48750  	WQGE449 	RM	732 NAC	Manteca PD2 	Police Ch 2 	P25e 	Law Tac 
+453.81250 	458.81250  	WQGE449 	RM	734 NAC	Manteca PD3 	Police Ch 3 	P25 	Law Tac 
+158.83500 	   	WPGA783 	BM	94.8 PL	Manteca PW 	Public Works 	FM 	Public Works 
+460.05000 	465.05000  	WQDH908 	RM	431 NAC	Ripon PD1 	Police Dispatch 	P25 	Law Dispatch 
+460.15000 	465.15000  	WQDH908 	RM	432 NAC	Ripon PD2 	Police Ch 2 	P25 	Law Tac 
+453.67500 	458.67500  	WQDH908 	RM	433 NAC	Ripon PD3 	Police Ch 3 	P25 	Law Tac 
+460.40000 	465.40000  	KMA865 	RM	371 NAC	Stockton PD1 	Police Dispatch 	P25 	Law Dispatch 
+460.20000 	465.20000  	KMA865 	RM	372 NAC	Stockton PD2 	Police Ch 2 	P25 	Law Tac 
+460.25000 	465.25000  	KMA865 	RM	373 NAC	Stockton PD3 	Police Ch 3 	P25 	Law Tac 
+460.07500 	465.07500  	KMA865 	RM	374 NAC	Stockton PD4 	Police Ch 4 	P25 	Law Tac 
+460.32500 	465.32500  	WNXD750 	RM	375 NAC	Stockton PD5 	Police Ch 5 Records 	P25 	Law Tac 
+460.42500 	465.42500  	WNXD750 	RM	376 NAC	Stockton PD6 	Police Ch 6 	P25 	Law Tac 
+453.27500 	458.27500  	WPRR857 	RM	385 NAC	Stockton FD1 	Fire Dispatch "Control 1" 	P25 	Fire Dispatch 
+460.57500 	465.57500  	KMA576 	RM	382 NAC	Stockton FD2 	Fire Ch 2 	P25 	Fire-Tac 
+460.62500 	465.62500  	KMA576 	RM	381 NAC	Stockton FD3 	Fire Ch 3 	P25 	Fire-Tac 
+460.60000 	465.60000  	WPCI996 	RM	82.5 PL	Stockton FD4 	Fire Ch 4 	FM 	Fire-Tac 
+460.55000 	465.55000  	WPCI996 	RM	384 NAC	Stockton FD Unk 	Fire Unk 	P25 	Fire-Tac 
+453.70000 	458.70000  	KMK249 	RM	103.5 PL	Stockton PW 	Public Works 	FM 	Public Works 
+453.97500 	458.97500  	WQAS421 	RM	830 NAC	Tracy PD1 	Police Dispatch 	P25 	Law Dispatch 
+453.92500 	458.92500  	WQAS421 	RM	831 NAC	Tracy PD2 	Police Ch 2 	P25 	Law Tac 
+154.31000 	158.88000  	KML232 	RM	162.2 PL	Tracy PW 	Public Works 	FMN 	Public Works 
+158.76755 	   	KML232 	M	165 DPL	Tracy PW I/O 	Pubic Works / Fire Interop 	FMN 	Public Works 
+453.78750 	458.78750  	WQLP756 	RM	421 NAC	POS PD1 	Police Dispatch 	P25 	Law Dispatch 
+453.56250 	458.56250  	WQLP756 	RM	422 NAC	POS PD2 	Police Tac 	P25 	Law Tac 
+453.41250 	458.41250  	WQLP756 	RM	423  NAC	POS Maint 	Maintenance 	P25 	Public Works 
+453.30000 	458.30000  	WPQJ820 	RM		EUSD Ops 	Operations 	FMN 	Schools 
+453.15000 	458.15000  	WPKZ604 	RM	065 DPL	LUSD Sec 	Security Dispatch 	FM 	Security 
+464.70000 	   	WPKK761 	M	115 DPL	LUSD Bus 	School Buses 	FM 	Schools 
+461.78750 	466.78750  	WQFK784 	RM	346 DPL	LIN USD Bus 	School Buses 	FM 	Schools 
+159.41250 	155.29500  	KKR376 	RM	065 DPL	MUSD Bus 	District Buses 	FMN 	Schools 
+463.93750 	   	 	M		MUSD BEE 	Brock Elliott Elementary 	FMN 	Schools 
+463.93750 	   	 	M	115 DPL	MUSD GWE 	Golden West Elementary 	FMN 	Schools 
+463.93750 	   	 	M	703 DPL	MUSD LE 	Lincoln Elementary  	FMN 	Schools 
+463.93750 	   	 	M	031 DPL	MUSD MCD 	Manteca Community Day 	FMN 	Schools 
+461.68750 	   	 	M	445 DPL	MUSD M/EU 1 	Manteca High & East Union High Ch 1 	FMN 	Schools 
+463.93750 	   	 	M	445 DPL	MUSD MHS 2 	Manteca High Ch 2 	FMN 	Schools 
+463.93750 	   	 	M	205 DPL	MUSD NHE 	New Haven Elementary 	FMN 	Schools 
+463.93750 	   	 	M	115 DPL	MUSD SE 	Sequoia Elementary 	FMN 	Schools 
+463.93750 	   	 	M	074 DPL	MUSD SBE 	Stella Brockman Elementary 	FMN 	Schools 
+463.93750 	   	 	M	445 DPL	MUSD WWE 	Walter Woodward Elementary 	FMN 	Schools 
+463.93750 	   	 	M	047 DPL	MUSD UNK 	Unknown School George McParland Elementary? 	FMN 	Schools 
+155.20500 	   	WQS914 	M	162.2 PL	NJSD NJE/DC 	New Jerusalem Elementary/Delta Charter School 	FMN 	Schools 
+152.30000 	   	WPRL408 	RM	172 DPL	RUSD Ops 	Operations - Unk School 	FMN 	Schools 
+152.30000 	   	WPRL408 	RM	245 DPL	RUSD Ops 	Operations - Unk School 	FMN 	Schools 
+152.30000 	   	WPRL408 	RM	331 DPL	RUSD Ops 	Operations - Unk School 	FMN 	Schools 
+152.87000 	   	 	RM	071 DPL	RUSD Ops 	Operations - Unk School 	FMN 	Schools 
+152.87000 	   	WPRL408 	RM	134 DPL	RUSD Ops 4 	Operations - Unk School 	FMN 	Schools 
+453.73750 	458.73750  	WQKP572 	RM	501 NAC	SJDCCD PD1 	Police Dispatch 	P25 	Law Dispatch 
+460.16250 	465.16250  	WQEI772 	RM	502 NAC	SJCDCD PD2 	Police Ch 2 	P25 	Law Tac 
+453.45000 	458.45000  	WNXA531 	RM	813 NAC	SUSD PD1 	Police Dispatch 	P25 	Law Dispatch 
+453.95000 	   	WNXA531 	M	94.8 PL	SUSD PD2 	Police Ch 2 	FM 	Law Tac 
+462.86250 	   	KD41606 	M	127.3 PL	SUSD FHS 	Franklin High School  	FMN 	Schools 
+464.67500 	469.67500  	KNHT298 	RM	CC 1TG 102SL 1	SUSD Buses 	School Buses 	DMR 	Schools 
+151.52000 	159.60750  	WQKQ541 	RM	155 DPL	TUSD Ops 	Operations 	FM 	Schools 
+453.51250 	458.51250  	WQHK915 	RM	525 NAC	UOP MAIN 	Police Dispatch 	P25 	Law Dispatch 
+464.97500 	469.97500  	KJX725 	RM	186.2 PL	UOP EVENTS 	Events 	FMN 	Law Tac 
+938.43750 	899.43750  	WPTE599 	RM	79.7 PL	RTD Dispatch 	Main Dispatch 	FM 	Transportation 
+938.42500 	899.42500  	WPVR854 	RM	79.7 PL	RTD Dial A Ride 	Dial-A-Ride 	FM 	Transportation 
+Defense Logistics Agency	 Project 25 Phase I	 Various	Lawrence Livermore National Laboratory	 Project 25 Phase I	 Livermore	Lodi Unified School District	 LTR Standard	 Lodi
+Modesto Irrigation District	 NXDN NEXEDGE 4800	 Westley	Pacific Gas and Electric (PG&E)	 MPT-1327 Standard	 Various	Safeway Distribution Warehouse	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tracy
+San Joaquin County Unknown LTR	 LTR Standard	 	San Joaquin Public Interoperability Communication System (SJPICS)	 Project 25 Phase I	 Various	The Radio Guys	 NXDN NEXEDGE 4800	 Various
+Tracy Unified School District	 DMR Motorola Capacity Plus Single Site (TRBO)	 Tracy	United Parcel Service	 DMR Motorola Capacity Plus Single Site (TRBO)	 Lathrop	

@@ -1,40 +1,40 @@
-153.86000 	WPUC914 	M	CSQ	Boone Sheriff 3  	Sheriff: Car-to-Car [Ch 3]  	FMN 	Law Tac 
-151.35500 	WPMC461 	RM	100.0 PL	Boone Co EMA 	EMA: Ops/Talkaround 	FMN 	Emergency Ops 
-159.21000 	 	RM	103.5 PL	Boone SD Jail1  	Sheriff: Jail Operations [unlicensed] 	FMN 	Corrections 
-156.21000 	 	BM	156.7 PL	Boone SD Jail2  	Sheriff: Jail Operations  	FMN 	Corrections 
-155.31000 	KSB330 	RM	131.8 PL	Boone Crthse 	Courthouse: Automated Voice/Paging System 	FMN 	Corrections 
-151.33500 	 	BM	100.0 PL	Boone EMA Ops  	EMA: Ops 	FMN 	Emergency Ops 
-155.02500 	WPJK830 	BM	100.0 PL	ESMARN 100.0 	EMA Statewide (also CSQ) 	FMN 	Emergency Ops 
-154.37000 	WPUV859 	BM	210.7 PL	Boone Fire 	Fire: Dispatch (Simulcast on TG 1385 SC21) 	FMN 	Fire Dispatch 
-155.26500 	WNYL568 	BM	82.5 PL	Boone EMS 	EMS: Dispatch (Lifeline) 	FMN 	EMS Dispatch 
-151.13000 	 	RM		Boone Highway  	Highway Department 	FMN 	Public Works 
-155.80500 	 	RM		Boone HW Old  	Highway Department (Old) 	FMN 	Public Works 
-151.08500 	WQNY990 	BM	074 DPL	Boone/Belv Road 	Highway Department / Belvidere Township. Roads 	FMN 	Public Works 
-151.41500 	WNDN360 	BM		Boone Conservat 	Boone County Conservation District 	FMN 	Public Works 
-155.34000 	KJY424 	B	100.0 PL	MERCI1 100.0 	Patient Reports 	FMN 	Hospital 
-151.86500 	 	BM	123.0 PL	Lifeline EMS 	EMS: Operations 	FMN 	EMS-Tac 
-151.08500 	KEY814 	BM	074 DPL	Belv Twp Roads 	Belvidere Township Road Maintenance 	FMN 	Public Works 
-159.13500 	WPLT703 	BM		Flora Twp Roads 	Flora Township Road Maintenance 	FMN 	Public Works 
-151.37000 	WPXK647 	BM		PopGrovTwpRoads 	Poplar Grove Township Road Maintenance 	FMN 	Public Works 
-151.11500 	WPRJ387 	BM		SpringTwp Roads 	Spring Township Road Maintenance 	FMN 	Public Works 
-158.92500 	WPWY979 	M		BCFPD MX 	Fire: Mobile Extenders 	FMN 	Fire Dispatch 
-154.25000 	KYT830 	BM		BCFPD Local 	Fire: Local ? 	FMN 	Fire-Tac 
-150.80500 	WPWX916 	M		NBFPD Local 	Fire: Local  	FMN 	Fire-Tac 
-153.83000 	WPWX916 	M		MABAS Red 	MABAS Fireground Red 	FMN 	Fire-Talk 
-151.05500 	WPJS459 	RM		Belv Police 	Police: Local [Expired 2/15] 	FMN 	Law Tac 
-154.77000 	WPJS459 	M	156.7 PL	Belv Police3 	Police: Car-to-Car [Ch 3] (still in use 12/11) 	FMN 	Law Tac 
-151.22750 	WPTY955 	M		Belv Fire MX 	Fire: Mobile Extenders  	FMN 	Fire Dispatch 
-151.15250 	WPWM379 	RM	503 DPL	Belv PubWrks 	Public Works: Admin/Maintenance 	FMN 	Public Works 
-159.00000 	WPYN626 	M		Capron Rescue MX 	Fire: Vehicular Repeaters 	FMN 	Fire Dispatch 
-159.76500 	WNVZ776 	BM		FS Rktn/Bv 1 	Bus: Dispatch - Rockton/Belvidere [Ch 1] 	FMN 	Schools 
-151.62500 	WQGM603 	M		FS Rktn/Bv 2 	Bus: Ops - Rockton/Belvidere [Ch 2] 	FMN 	Schools 
-151.80500 	WQFJ257 	RM	131.8 PL	Belv School1 	Operations 	FMN 	Schools 
-151.83500 	WQFJ257 	BM		Belv School2 	Operations 	FMN 	Schools 
-155.23500 	KNIB716 	BM	131.8 PL	Belv Sch Bus 	Buses 	FMN 	Schools 
-463.72500 	WPXA788 	RM		NBCSD Ops 1 	Operations  	FMN 	Schools 
-151.71500 	WPGI933 	M		NBCSD Ops 2 	Operations [Expired] 	FMN 	Schools 
-151.77500 	WPGI933 	M		NBCSD Ops 3 	Operations [Expired] 	FMN 	Schools 
-154.60000 	WPGI933 	M		NBCSD Ops 4 	Operations [Expired] 	FM 	Schools 
-122.80000 	 	B	CSQ	C77 UNICOM 	Poplar Grove Airport: UNICOM 	AM 	Aircraft 
-A-Beep / Tri-Star Communications - VHF (NW IL)	 LTR Standard	 Plato Center	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL	FCA US (Belvidere)	 DMR Motorola Capacity Plus Single Site (TRBO)
- Belvidere	
+153.86000 	   	WPUC914 	M	CSQ	Boone Sheriff 3  	Sheriff: Car-to-Car [Ch 3]  	FMN 	Law Tac 
+151.35500 	159.45000  	WPMC461 	RM	100.0 PL	Boone Co EMA 	EMA: Ops/Talkaround 	FMN 	Emergency Ops 
+159.21000 	   	 	RM	103.5 PL	Boone SD Jail1  	Sheriff: Jail Operations [unlicensed] 	FMN 	Corrections 
+156.21000 	   	 	BM	156.7 PL	Boone SD Jail2  	Sheriff: Jail Operations  	FMN 	Corrections 
+155.31000 	159.34500  	KSB330 	RM	131.8 PL	Boone Crthse 	Courthouse: Automated Voice/Paging System 	FMN 	Corrections 
+151.33500 	   	 	BM	100.0 PL	Boone EMA Ops  	EMA: Ops 	FMN 	Emergency Ops 
+155.02500 	   	WPJK830 	BM	100.0 PL	ESMARN 100.0 	EMA Statewide (also CSQ) 	FMN 	Emergency Ops 
+154.37000 	   	WPUV859 	BM	210.7 PL	Boone Fire 	Fire: Dispatch (Simulcast on TG 1385 SC21) 	FMN 	Fire Dispatch 
+155.26500 	   	WNYL568 	BM	82.5 PL	Boone EMS 	EMS: Dispatch (Lifeline) 	FMN 	EMS Dispatch 
+151.13000 	159.07500  	 	RM		Boone Highway  	Highway Department 	FMN 	Public Works 
+155.80500 	156.24000  	 	RM		Boone HW Old  	Highway Department (Old) 	FMN 	Public Works 
+151.08500 	   	WQNY990 	BM	074 DPL	Boone/Belv Road 	Highway Department / Belvidere Township. Roads 	FMN 	Public Works 
+151.41500 	   	WNDN360 	BM		Boone Conservat 	Boone County Conservation District 	FMN 	Public Works 
+155.34000 	   	KJY424 	B	100.0 PL	MERCI1 100.0 	Patient Reports 	FMN 	Hospital 
+151.86500 	   	 	BM	123.0 PL	Lifeline EMS 	EMS: Operations 	FMN 	EMS-Tac 
+151.08500 	   	KEY814 	BM	074 DPL	Belv Twp Roads 	Belvidere Township Road Maintenance 	FMN 	Public Works 
+159.13500 	   	WPLT703 	BM		Flora Twp Roads 	Flora Township Road Maintenance 	FMN 	Public Works 
+151.37000 	   	WPXK647 	BM		PopGrovTwpRoads 	Poplar Grove Township Road Maintenance 	FMN 	Public Works 
+151.11500 	   	WPRJ387 	BM		SpringTwp Roads 	Spring Township Road Maintenance 	FMN 	Public Works 
+158.92500 	154.37000  	WPWY979 	M		BCFPD MX 	Fire: Mobile Extenders 	FMN 	Fire Dispatch 
+154.25000 	   	KYT830 	BM		BCFPD Local 	Fire: Local ? 	FMN 	Fire-Tac 
+150.80500 	   	WPWX916 	M		NBFPD Local 	Fire: Local  	FMN 	Fire-Tac 
+153.83000 	   	WPWX916 	M		MABAS Red 	MABAS Fireground Red 	FMN 	Fire-Talk 
+151.05500 	156.06000  	WPJS459 	RM		Belv Police 	Police: Local [Expired 2/15] 	FMN 	Law Tac 
+154.77000 	   	WPJS459 	M	156.7 PL	Belv Police3 	Police: Car-to-Car [Ch 3] (still in use 12/11) 	FMN 	Law Tac 
+151.22750 	   	WPTY955 	M		Belv Fire MX 	Fire: Mobile Extenders  	FMN 	Fire Dispatch 
+151.15250 	159.08250  	WPWM379 	RM	503 DPL	Belv PubWrks 	Public Works: Admin/Maintenance 	FMN 	Public Works 
+159.00000 	   	WPYN626 	M		Capron Rescue MX 	Fire: Vehicular Repeaters 	FMN 	Fire Dispatch 
+159.76500 	   	WNVZ776 	BM		FS Rktn/Bv 1 	Bus: Dispatch - Rockton/Belvidere [Ch 1] 	FMN 	Schools 
+151.62500 	   	WQGM603 	M		FS Rktn/Bv 2 	Bus: Ops - Rockton/Belvidere [Ch 2] 	FMN 	Schools 
+151.80500 	159.51000  	WQFJ257 	RM	131.8 PL	Belv School1 	Operations 	FMN 	Schools 
+151.83500 	   	WQFJ257 	BM		Belv School2 	Operations 	FMN 	Schools 
+155.23500 	   	KNIB716 	BM	131.8 PL	Belv Sch Bus 	Buses 	FMN 	Schools 
+463.72500 	468.72500  	WPXA788 	RM		NBCSD Ops 1 	Operations  	FMN 	Schools 
+151.71500 	   	WPGI933 	M		NBCSD Ops 2 	Operations [Expired] 	FMN 	Schools 
+151.77500 	   	WPGI933 	M		NBCSD Ops 3 	Operations [Expired] 	FMN 	Schools 
+154.60000 	   	WPGI933 	M		NBCSD Ops 4 	Operations [Expired] 	FM 	Schools 
+122.80000 	   	 	B	CSQ	C77 UNICOM 	Poplar Grove Airport: UNICOM 	AM 	Aircraft 
+A-Beep / Tri-Star Communications - VHF (NW IL)	 LTR Standard	 Plato Center	Commonwealth Edison / Exelon (P25) 	 Project 25 Phase I	 Northern IL	Diga-Talk	 NXDN NEXEDGE 4800	 Various
+FCA US (Belvidere)	 DMR Motorola Capacity Plus Single Site (TRBO)	 Belvidere	
